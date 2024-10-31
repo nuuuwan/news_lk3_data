@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 09:59:31**
+As of **2024-10-31 10:13:19**
 
 ## Newspaper Stats
 
-*Scraped **52,328** Articles*
+*Scraped **52,332** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,864
-adaderanalk | 6,208
+adaderanalk | 6,210
 tamilmirrorlk | 7,251
 virakesarilk | 8,442
-adaderanasinhalalk | 9,110
+adaderanasinhalalk | 9,112
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,328 (100.0%) of 52,328 articles have been extended.
+52,332 (100.0%) of 52,332 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### No housing for Ministers in Colombo - President
+
+*2024-10-31 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103056/no-housing-for-ministers-in-colombo-president-) · `en`
+
+President Anura Kumara Dissanayake emphasized that the government’s primary focus will be on eradicating rural poverty, stating that effective governance demands proximity to the people.
+
+Speaking at a public rally in Matara, the President highlighted the need for ministers to be embedded within local communities, rather than operating from Colombo.
+
+President Dissanayake further stated that ministers in the upcoming Parliament will not be provided housing in Colombo. “We need a government that connects with the people directly,” he said, stressing that leaders must work in their districts to address local issues rather than remaining distant.
+
+He outlined plans to establish a new cabinet and government after November 14, with a focus on developing “people’s leaders” dedicated to solving problems at the grassroots level.
+
+“This government must reach the villages to do its work, and the most important task ahead is to eliminate poverty in rural areas,” President Dissanayake added.
+
+◼️
+
+[Data](articles/f27a2c84.json)
+
+[Extended Data](ext_articles/f27a2c84.ext.json)
+
+---
+
+### 52-Year-old woman attacked to death with sharp weapon in Wariyapola
+
+*2024-10-31 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103055/52-year-old-woman-attacked-to-death-with-sharp-weapon-in-wariyapola) · `en`
+
+A 52-year-old woman has died following a violent altercation involving a neighbour armed with a sharp weapon in the Wagolla area of Wariyapola.
+
+She was reportedly attacked during a dispute and succumbed to her injuries shortly after being admitted to the Wariyapola Hospital, police confirmed.
+
+The victim, a resident of Bandara Koswatta, had been clearing branches from a fallen tree when an argument broke out with her neighbor, a 66-year-old man from the same area.
+
+The suspect, who lived on adjacent government land, allegedly attacked the woman with a sharp weapon during the dispute.
+
+Wariyapola Police have since arrested the suspect in connection with the incident and are conducting further investigations.
+
+◼️
+
+[Data](articles/68dc210f.json)
+
+[Extended Data](ext_articles/68dc210f.ext.json)
+
+---
+
+### Couple killed in a house
+
+*2024-10-31 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202759) · `si`
+
+Journalist couple killed in Jaffna. Bodies found with head injuries. Identified as 53-year-old man and 54-year-old woman. Went to cousin's house, didn't return. Possible assassination with cement bricks. No arrests yet. Police investigating.
+
+🟩
+
+The bodies of the journalist couple killed in Point Pedro, Kutowalam area in Jaffna.
+
+The Point Pedro Police said that the two persons were hit and killed in the heads of the two persons.
+
+The deceased has been identified as a 53 year old man and 54 year old wife.
+
+The deceased couples went to a house in a cousin and returned home during the evening, and the daughter had not returned home and returned home.
+
+Investigations were revealed that there was the assassination at a brick of cement bricks.
+
+The victim was a temporary profession of a temporary profession affiliated to Point Pedro Hospital.
+
+However, no arrests have been made so far regarding the death and Point Pedro Police are conducting further investigations.
+
+◼️
+
+[Data](articles/d0bb3291.json)
+
+[Extended Data](ext_articles/d0bb3291.ext.json)
+
+---
+
+### President says to eliminate rural poverty
+
+*2024-10-31 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202758) · `si`
+
+Sri Lanka's president vows to end rural poverty, emphasizing local representation over urban focus. Government prioritizes serving rural communities over providing housing in Colombo. Ministers encouraged to engage directly with villagers to address issues.
+
+🟩
+
+President Anura Kumara Dissanayake says the main function of the present government is to eliminate rural poverty.
+
+The President shows that the government does not take action to provide houses in Colombo to any of the next Parliament.
+
+President Anura Kumara Dissanayake said that the ministers should be close to them in order to serve the people.
+
+"A cabinet and government converting the role of the role of Sri Lanka and a government is built on November 14th. People want to build close public leaders to remedy the problems of the people everyday district. Not the leaders of the people. Not the leaders in Colombo. That is why no minister has no houses from Colombo. The government does not give. Come to the village, see the village's questions. This work is added to the people and do this. Governments in Sri Lanka have not made. The government that eliminates our leading role rural poorest. "
+
+...
+
+[Data](articles/a2c04933.json)
+
+[Extended Data](ext_articles/a2c04933.ext.json)
+
+---
 
 ### Decline in coconut production expected to last until April 2025
 
@@ -2181,107 +2279,5 @@ Speaking at a press conference today (30), he criticized the government for reta
 [Data](articles/1e451443.json)
 
 [Extended Data](ext_articles/1e451443.ext.json)
-
----
-
-### A big rain this afternoon
-
-*2024-10-30 15:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202733) · `si`
-
-Heavy rain expected today. Lightning warnings issued for Polonnaruwa, Kilinochchi, and Jaffna districts. Take precautions during thunderstorms.
-
-🟩
-
-The Polonnaruwa, Kilinochchi, Kilinochchi and Jaffna districts have been capable of causing lightning.
-
-The pre-warning center of the Department of Meteorology, the pre-warning center of natural disasters, says a warning of a strong lightning.
-
-The people informed the people to take measures to be temporarily strong in these areas when thundershowers will occur.
-
-◼️
-
-[Data](articles/cfb6a226.json)
-
-[Extended Data](ext_articles/cfb6a226.ext.json)
-
----
-
-### November 1st holiday for Tamil schools in Sabaragamuwa Province
-
-*2024-10-30 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197510) · `ta`
-
-Tamil schools in Sabaragamuwa Province get Nov 1 holiday; classes shifted to Nov 9 due to unforeseen circumstances.
-
-🟩
-
-The Secretary of the Ministry of Education of the Sabaragamuwa Provincial Ministry of Education said that all Tamil language schools in Sabaragamuwa Province have been announced as a special holiday on the first of November.
-
-The Secretary of the Ministry of Education of the Sabaragamuwa Provincial Ministry of Education said that steps have been taken to hold schools on Saturday 9th November instead of the holiday.
-
-Provincial Education Secretaries say that the Tamil language schools in the Central and Uva Province will be given a holiday tomorrow (01).
-
-◼️
-
-[Data](articles/0cdc2907.json)
-
-[Extended Data](ext_articles/0cdc2907.ext.json)
-
----
-
-### Chinese Space Top
-
-*2024-10-30 15:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202732) · `si`
-
-Chinese spacecraft carries three astronauts to Tangong Space Center for six-month mission. This is the fourth trip to the station, part of China's goal to send humans to the Moon by 2030.
-
-🟩
-
-Another aircraft carrying three Chinese astrologers was successfully referred to the space today (30).
-
-This joins history as the youngest area of ​​the youngest traded farmer so far.
-
-The group will stay at the Tangong Space Center in China, which is underway for six months.
-
-The biocavan space station, which was located near the Goba Desert, commenced the journey of Shnzhou-19.
-
-Three astronauts traveled to space, and it includes the first space engineer and a young astronaut.
-
-The aircraft, a veteran astronaut, and the youth and women's space enginee engineering Song Lyndon, the Tangong Space Center, which is constructed.
-
-The aircraft was spared at 4.27 this morning at 4.27 am today.
-
-The plaque separated from the rocket in 10 minutes reached its proper crisk.
-
-They are sitting at the Tangong Space Center for six months and are scheduled to engage in research.
-
-The Chinese authorities expect that by 2030, Chinese authorities will support the effort to educate people on the moon.
-
-...
-
-[Data](articles/ac114514.json)
-
-[Extended Data](ext_articles/ac114514.ext.json)
-
----
-
-### Can't do this with Babbu - Prime Minister Harini wants to say about the Law
-
-*2024-10-30 14:48:28* · [`adalk`](https://www.ada.lk/breaking_news/බබ්බු-එක්ක-මේක-කරන්න-බෑ---අගමැති-හරිනිට-ව්‍යවස්ථාව-ගැන-ඕනී-නම්-කියලා-දෙන්නම්/11-412759) · `si`
-
-Ranil Wickremesinghe criticizes Harini Amarasuriya's salary hike plan, saying it lacks Cabinet approval and constitutional knowledge. He offers to explain the constitution himself.
-
-🟩
-
-Former President Ranil Wickremesinghe said that if Prime Minister Harinini Amarasuru wanted to know the constitution, he said he was ready to come and explain it.
-
-He was speaking at a public rally in Pannala, he said.
-
-"Prime Minister Harini Amarasuriya made a statement. Ranil Wickremesinghe has now decided to increase public employees' salaries. The decision was not obtained from the Treasury or the Finance Ministry officials. Motivating the People A False Promise of the Election. Follow the cabinet that it is the approval of the officers. Where did the Constitution learned?The cabinet is the country's control. Never say about an officer. If you want to know about the Constitution, I'll come. Otherwise tell our former Prime Minister. Want to be experienced. Can't do this with Babu. "
-
-◼️
-
-[Data](articles/52feb07f.json)
-
-[Extended Data](ext_articles/52feb07f.ext.json)
 
 ---

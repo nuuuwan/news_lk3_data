@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 20:39:42**
+As of **2024-10-31 20:59:06**
 
 ## Newspaper Stats
 
-*Scraped **52,417** Articles*
+*Scraped **52,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 4,881
 adaderanalk | 6,227
 tamilmirrorlk | 7,268
 virakesarilk | 8,457
-adaderanasinhalalk | 9,129
+adaderanasinhalalk | 9,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,417 (100.0%) of 52,417 articles have been extended.
+52,418 (100.0%) of 52,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Matharage Pathirana retains CSK to a big amount
+
+*2024-10-31 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202782) · `si`
+
+Matharage Pathirana retained by CSK for significant sum. Sri Lankan fast bowlers join Chennai Super Kings for Firear League. Team retained without auction. Player valued at Rs. 1.56 million.
+
+🟩
+
+Sri Lanka's fast bowler players are to play for the Chennai Super Kings team for the Firear League.
+
+It was due to the authorities of the group to retain the CSK team without presenting at the player auction.
+
+The Sri Lankan currency was equal to Rs. 1.56 million.
+
+◼️
+
+[Data](articles/8a9fa64f.json)
+
+[Extended Data](ext_articles/8a9fa64f.ext.json)
+
+---
 
 ### Sudden change in the price of fuels
 
@@ -65,6 +87,8 @@ The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices e
 Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 06 to Rs. 371 per litre, while Super Diesel has also been reduced by Rs. 06 to Rs. 313 per litre.
 
 However, the prices of Petrol 92 Octane, Auto Diesel and Kerosene remain unchanged, according to Ceypetco.
+
+UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
 
 ◼️
 
@@ -2445,25 +2469,5 @@ Uva, East and North-Central provinces. Heavy rains can occur at more than 75.
 [Data](articles/72fb3888.json)
 
 [Extended Data](ext_articles/72fb3888.ext.json)
-
----
-
-### Gammanpila to launch campaign to collect signatures for public petition against misuse of law
-
-*2024-10-31 04:47:29* · [`dailyftlk`](https://www.ft.lk/news/Gammanpila-to-launch-campaign-to-collect-signatures-for-public-petition-against-misuse-of-law/56-768651) · `en`
-
-Sarvajana Balaya Colombo district candidate and former MP Udaya Gammanpila yesterday announced his plans to launch a campaign to collect signatures for a public petition, to inform the President of the people’s displeasure over the misuse of the law.
-
-Addressing the media, he criticised the Government for retaining Public Security Ministry Secretary former Senior DIG Ravi Seneviratne and Criminal Intelligence Analysis and Prevention Division in the Sri Lanka Police Director Shani Abeysekara.
-
-Gammanpila claims the two officers were named as main accused in an investigative committee report on the Easter Sunday attacks.
-
-“Since the removal will not be done, we are hoping to sign a public petition to inform the President Anura Kumara Dissanayake about people’s displeasure related to the misuse of the law by this Government; during their first month in office,” he said, noting that this is the same politician (President) who earlier criticised former Presidents for misusing the law.
-
-...
-
-[Data](articles/0a336b5d.json)
-
-[Extended Data](ext_articles/0a336b5d.ext.json)
 
 ---

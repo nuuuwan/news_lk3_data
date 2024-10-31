@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 11:40:23**
+As of **2024-10-31 11:59:32**
 
 ## Newspaper Stats
 
-*Scraped **52,343** Articles*
+*Scraped **52,348** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,124 @@ dbsjeyarajcom | 414
 colombotelegraphcom | 531
 bbccomsinhala | 535
 islandlk | 3,118
-economynextcom | 3,180
+economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,866
-adaderanalk | 6,214
-tamilmirrorlk | 7,253
+adaderanalk | 6,215
+tamilmirrorlk | 7,254
 virakesarilk | 8,442
-adaderanasinhalalk | 9,115
+adaderanasinhalalk | 9,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,343 (100.0%) of 52,343 articles have been extended.
+52,348 (100.0%) of 52,348 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### චීනයෙන් රු මිලියන 400ක ආධාර තොගයක්
+
+*2024-10-31 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202764) · `si`
+
+Chinese government provides Rs. 400 million aid to Sri Lanka due to flood situation.
+
+🟩
+
+The Chinese government has decided to provide a large quantity of humanitarian aid materials worth Rs. 400 million.
+
+ඒ, පසුගිය දිනවල මෙරට තුළ ගංවතුර තත්ත්වය හේතුවෙන් පීඩාවට පත් ජනතාවගේ සුබසාධනය වෙනුවෙනි.
+
+අයහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම වෙනුවෙන් පසුගිය 22 වනදා ද චීන රජය රුපියල් මිලියන 30ක (USD 100,000) මුදලක් මෙරටට පරිත්‍යාග කළේය.
+
+මෙරට පිහිටි චීන තානාපති කාර්යාලය සඳහන් කරන්නේ එම මුදල් ආධාරයට අමතරව මෙම ආධාරය ලබාදුන් බවය.
+
+◼️
+
+[Data](articles/24655f34.json)
+
+[Extended Data](ext_articles/24655f34.ext.json)
+
+---
+
+### “The Department of Examinations must assure you”
+
+*2024-10-31 11:31:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-திணைக்களம்-உறுதியளிக்க-வேண்டும்/175-346352) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Stalin urges Department of Examinations to reassure students and parents about smooth 2024 GCE A/L exams. He criticizes lack of action against those responsible for 2023 Agricultural Exam issues affecting students.
+
+🟩
+
+Joseph Stalin, General Secretary of the Sri Lanka Teachers Union (CTU), said that the Department of Examinations should assure students and parents that the 2024 GCE Advanced Level Examinations will be conducted smoothly without any problems.. .
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், க.பொ.த (உ/த) பரீட்சைகளை பாதுகாப்பாக நடத்துவதில் மாணவர்கள் மற்றும் பெற்றோர்கள் நம்பிக்கை இழந்துள்ளதாக குறிப்பிட்டார்.
+
+Therefore, the Commissioner of Examinations should take the necessary steps to ensure that 2024 (U/D) examinations are not issued.
+
+He reminded the media about one and two sheets of the 2023 (A/L) Agricultural Examination. As a result, innocent students were affected by the need to re -examine and unable to write the exam twice.
+
+ஆனால், அதற்கு காரணமானவர்கள் மீது இதுவரை எந்த நடவடிக்கையும் எடுக்கப்படவில்லை என்று ஸ்டாலின் குற்றம் சாட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/6f899817.json)
+
+[Extended Data](ext_articles/6f899817.ext.json)
+
+---
+
+### A sister who rescued the life of the magad of kidney
+
+*2024-10-31 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202763) · `si`
+
+Sister donates kidney to brother in 150th transplant surgery at Galle Teaching Hospital. Operation performed by specialist surgeon Dr. Ranjuk Ubeasiri.
+
+🟩
+
+‍ගාල්ල කරාපිටිය මහ රෝහලේ 150 වැනි වකුගඩු බද්ධ කිරීමේ සැත්කම එම රෝහලේ වකුගඩු හා අවයව බද්ධ කිරීමේ විශේෂඥ ශල්‍ය වෛද්‍ය රංජුක උබේසිරි මහතා විසින් 29 වනදා සිදුකරනු ලැබීය.
+
+2012 වර්ෂයේ නොවැම්බර් මස 19 වැනි දින ගාල්ල, කරාපිටිය මහ රෝහලේ ප්‍රථම වරට වකුගඩු බද්ධ කිරීමේ සැත්කම් ආරම්භ කරනු ලැබුවේ වකුගඩු හා අවයව බද්ධ කිරීමේ විශේෂඥ ශල්‍ය වෛද්‍ය රංජුක උබේසිරි මහතා කරාපිටිය මහ රෝහලට පැමිණීමත් සමඟය.
+
+150 වැනි වරටත් සිදුකළ මෙම වකුගඩු බද්ධ කිරීමේ සැත්කම සඳහා තම පවුලේ වැඩිමහල් සහෝදරියා විසින් තම සහෝදරයාට වකුගඩුව පරිත්‍යාග කොට තිබිණි.
+
+අක්කාගේ වකුගඩුවක් මල්ලීට බද්ධ කරනු ලැබූ අතර මෙම අක්කා සහ මල්ලි කඹුරුපිටිය ප්‍රදේශයේ පදිංචිකරුවෝ වෙති. The sister is 53 years old and the brother is 52.
+
+වකුගඩු බද්ධ කිරීමේ සැත්කම සඳහා පැය හයක පමණ කාලයක් ගතවී ඇත. In addition to kidney transplantation at the Kidney Transplantation of the Kidney Hospital in Galle Teaching Hospital, road accidents and the hands of violence and various accidents will be conducted by the unit and other services.
+
+...
+
+[Data](articles/853f6a9e.json)
+
+[Extended Data](ext_articles/853f6a9e.ext.json)
+
+---
+
+### Ranil speaks out against revoking privileges of former Presidents
+
+*2024-10-31 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103062/ranil-speaks-out-against-revoking-privileges-of-former-presidents) · `en`
+
+Former President Ranil Wickremesinghe stresses that the privileges granted to former Presidents of the country should remain intact.
+
+Speaking at a rally in Matale, Wickremesinghe emphasized that he does not require any privileges for himself and that the government must prioritize the safety of other former presidents.
+
+Addressing the rally, he remarked, “Presidential residences are being removed. I don’t have a problem. I don’t live in a residence. It’s not a problem for me. Why are they chasing behind Chandrika? Just let her be in that house. I have nothing special, but for humanity… If Mahinda Rajapaksa requires security for himself…he is the one who ended the war, think about it…”
+
+He further stated that if there are genuine security concerns, those should be addressed to anyone in need.
+
+...
+
+[Data](articles/b9fa626f.json)
+
+[Extended Data](ext_articles/b9fa626f.ext.json)
+
+---
 
 ### Two unidentified bodies found in Bogawantalawa and Peliyagoda
 
@@ -339,6 +439,28 @@ However, no arrests have been made so far regarding the death and Point Pedro Po
 [Data](articles/d0bb3291.json)
 
 [Extended Data](ext_articles/d0bb3291.ext.json)
+
+---
+
+### INTERVIEW – Sri Lanka eyes default exit by December; deal for third IMF review after election
+
+*2024-10-31 09:31:00* · [`economynextcom`](https://economynext.com/interview-sri-lanka-eyes-default-exit-by-december-deal-for-third-imf-review-after-election-185753/) · `en`
+
+ECONOMYNEXT – Sri Lanka aims to conclude its debt restructuring process by year-end, with expectations for a prompt exit from the default rating category soon after, Central Bank Governor Nandalal Weerasinghe told Economynext in an interview in Washington, D.C. this week.
+
+“To complete the process, certain procedures must be followed,  including documentation, due diligence, and related formalities,” Weerasinghe said.
+
+“It will take 2-3 weeks to complete the debt exchange and get the investor participation. That will take some time. The idea is to complete before end-December,” Weerasinghe said.
+
+Backed by the International Monetary Fund (IMF) and international advisors, Sri Lanka has secured a debt restructuring agreement with its official creditors and reached an in-principle deal with the private creditors.
+
+The arrangement with the bondholders includes macro-linked bonds tied to the island nation’s economic growth trajectory.
+
+...
+
+[Data](articles/326d4823.json)
+
+[Extended Data](ext_articles/326d4823.ext.json)
 
 ---
 
@@ -2221,111 +2343,5 @@ The accused filed the Attorney General's Department states that he has issued a 
 [Data](articles/99627ac6.json)
 
 [Extended Data](ext_articles/99627ac6.ext.json)
-
----
-
-### Can the OICs OICs on strike - Can Train - Can Travel Ways Ways?
-
-*2024-10-30 16:47:48* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-ස්ථානාධිපතිවරුන්-වර්ජනයක---දුම්රිය-ගාස්තුවකින්-තොරව-ගමන්-කළ-හැකියි--/11-412761) · `si`
-
-OICs strike: Railway ticketing suspended. Authorities failed to address recruitment/promotion issues. Travelers advised against boarding trains without valid tickets.
-
-🟩
-
-The OICs have launched a strike from 4.30 pm today.
-
-The program has taken due to the failure of the authorities to address the recruitment and promotion of the Railways.
-
-Accordingly, the issuance of tickets, including the issuance of tickets, is said to be traveling on the train without obtaining tickets.
-
-◼️
-
-[Data](articles/60a2a043.json)
-
-[Extended Data](ext_articles/60a2a043.ext.json)
-
----
-
-### US Embassy and Save the Children expand school nutrition program to urban Colombo schools
-
-*2024-10-30 16:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103042/us-embassy-and-save-the-children-expand-school-nutrition-program-to-urban-colombo-schools) · `en`
-
-The U.S. Department of Agriculture (USDA)-funded Food for Education and Child Nutrition Program (PALAMA II project), implemented by Save the Children, focusing on addressing short-term hunger in schools and improving educational outcomes in vulnerable urban areas in Sri Lanka, expanded into Colombo-area schools this month.
-
-This initiative provides daily school meals, trains teachers, promotes literacy, and supports local communities across Sri Lanka to boost school enrollment and academic performance.
-
-While the program has existed in seven other provinces across Sri Lanka over the last six years, the expansion into Colombo is new and designed to address the needs of low-income children in urban areas where high dropout rates persist, the US Embassy in Colombo said.
-
-...
-
-[Data](articles/b721ca6d.json)
-
-[Extended Data](ext_articles/b721ca6d.ext.json)
-
----
-
-### Sri Lanka’s Chevron Lubricants September net up 14-pct; finance cost falls
-
-*2024-10-30 16:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-chevron-lubricants-september-net-up-14-pct-finance-cost-falls-185736/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Chevron Lubricants grew 14 percent from a year ago to 1,031 million rupees in the September 2024 quarter, the interim accounts showed as the cost of sales and finance cost fell compared to the same quarter in the previous year.
-
-The firm reported earnings of 4.30 rupees for the quarter. The stock closed at 127 rupees, up 50 cents.
-
-The firm faced higher finance costs in the September quarter last year. The finance cost plummeted 60 percent to 20.6 million rupees in the quarter compared to 50.1 million in the September quarter last year.
-
-Gross profits edged up 7 percent to 2,113.1 million rupees despite revenue falling 7 percent to 5,993.6 million rupees while cost of sales fell 3 percent to 3,880.5 million in the quarter.
-
-Sri Lanka’s interest rates have fallen after the central bank cut the key monetary policy rates sharply since last year to boost credit and economic growth.
-
-...
-
-[Data](articles/ca8d7e9c.json)
-
-[Extended Data](ext_articles/ca8d7e9c.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 293.00/20 to dollar, bond yields steady
-
-*2024-10-30 16:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-293-00-20-to-dollar-bond-yields-steady-185732/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 293.00/20 to the US dollar Wednesday after opening at 293.50/60, dealers said, while bond yields were steady.
-
-A bond maturing on 15.03.2028 closed at 11.75/80 percent, from 11.70/75 percent.
-
-A bond maturing on 15.06.2029 closed stable at 11.95/12.10 percent. (Colombo/Oct30/2024)
-
-◼️
-
-[Data](articles/a4d20d22.json)
-
-[Extended Data](ext_articles/a4d20d22.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover at Rs7bn
-
-*2024-10-30 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-at-rs7bn-185728/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader ASPI closed up 0.20 percent, or 24.98 points, at 12,770; while the more liquid S&P SL20 Index closed up 0.22 percent, or 8.59 points, at 3,864.
-
-A crossing on Harischandra Mills (flat at 4,040.50) contributed over a billion to the turnover.
-
-“There has been an increase in retail activity in the market with the uncertainty receding, and rates coming down,” market participants said.
-
-There was also a crossing on Swadeshi Industrial Works (flat at 15,003.50) with high net worth individuals being active.
-
-“If you take these transactions out, the turnover was still high.”
-
-Top contributors to the ASPI were Melstacorp (up at 95.90), NDB (up at 87.60), CFIN (up at 125.50), Hayleys (106.00) and Tokyo Cement (up at 52.660). (Colombo/Oct30/2024)
-
-◼️
-
-[Data](articles/3de7b52e.json)
-
-[Extended Data](ext_articles/3de7b52e.ext.json)
 
 ---

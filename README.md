@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 19:40:01**
+As of **2024-10-31 19:58:40**
 
 ## Newspaper Stats
 
-*Scraped **52,409** Articles*
+*Scraped **52,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,879
-adaderanalk | 6,225
+adaderanalk | 6,226
 tamilmirrorlk | 7,266
 virakesarilk | 8,457
-adaderanasinhalalk | 9,127
+adaderanasinhalalk | 9,129
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,409 (100.0%) of 52,409 articles have been extended.
+52,410 (100.0%) of 52,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### ඉන්ධන වර්ග කිහිපයක මිල සංශෝධනය කෙරේ
+
+*2024-10-31 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202781) · `si`
+
+අද (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
+
+ඒ අනුව රුපියල් 377ක්ව පැවති ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 06කින් අඩු කර ඇති අතර, එහි නව මිල රුපියල් 371කි.
+
+රුපියල් 319ක්ව පැවති සුපර් ඩීසල් ලීටරයක මිල රුපියල් 06කින් අඩු කර ඇති අතර, එහි නව මිල රුපියල් 313කි.
+
+කෙසේ වෙතත් සෙසු ඉන්ධන වර්ගවල මිල ගණන් නොවෙනස්ව පවතින බව ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
+
+◼️
+
+[Data](articles/b8617d71.json)
+
+---
+
+### Lohan Ratwatte produced before Magistrate
+
+*2024-10-31 19:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103074/lohan-ratwatte-produced-before-magistrate) · `en`
+
+Former State Minister Lohan Ratwatte, who was today arrested by the Mirihana Police, was produced before the Nugegoda Acting Magistrate this evening (31).
+
+Police said that the former state minister was arrested in Kandy over an incident of discovering a car without number plates at his wife’s house in the Mirihana area of Nugegoda.
+
+The concerned car without registered number plates was found on October 26, 2024, according to police.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana belonging to Shashi Prabha Ratwatte, the wife of Former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/feacf1b2.json)
+
+---
+
+### Lohan Ratwatte to appear before Acting Magistrate
+
+*2024-10-31 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202780) · `si`
+
+Former State Minister Lohan Ratwatte arrested by Mirihana Police appeared before Gampaha Acting Magistrate on 31st.
+
+🟩
+
+Former State Minister Lohan Ratwatte, arrested by Mirihana Police, was brought to the Gampaha Acting Magistrate today (31).
+
+◼️
+
+[Data](articles/145db3a2.json)
+
+[Extended Data](ext_articles/145db3a2.ext.json)
+
+---
 
 ### Ruhunu Kumari tracks jump
 
@@ -2381,63 +2435,5 @@ The visit featured the Sri Lanka-Thailand Business Forum, jointly organised by t
 [Data](articles/e0e40cac.json)
 
 [Extended Data](ext_articles/e0e40cac.ext.json)
-
----
-
-### ACL Cables champions new fire-retardant cable standard SLS 733 for home safety
-
-*2024-10-31 04:26:55* · [`dailyftlk`](https://www.ft.lk/business/ACL-Cables-champions-new-fire-retardant-cable-standard-SLS-733-for-home-safety/34-768645) · `en`
-
-Sri Lanka Standards Institution invites public comments on ‘SLS 733 Part Two’
-
-ACL Cables PLC, the pioneer in fire-retardant PVC cable technology in Sri Lanka, has announced its association with the ‘new fire-retardant cable standard SLS 733’ initiative as the promoter which has vigorously and unceasingly campaigned for the formulation of higher standards for home safety.
-
-The Sri Lanka Standards Institution (SLS) has invited public comments for its recent fire safety standards for electrical cables. The ‘SLS 733 Part Two’ primarily focuses on establishing strict criteria for flame-retardant PVC cables, a standard that could set a benchmark for cable safety in Sri Lanka. The new standard will help consumers identify genuine flame-retardant cables that meet essential safety benchmarks.
-
-...
-
-[Data](articles/da6e39cc.json)
-
-[Extended Data](ext_articles/da6e39cc.ext.json)
-
----
-
-### SLT-Mobitel empowers EDEX Mid-Year Expo 2024 as official ICT solutions partner
-
-*2024-10-31 04:25:38* · [`dailyftlk`](https://www.ft.lk/business/SLT-Mobitel-empowers-EDEX-Mid-Year-Expo-2024-as-official-ICT-solutions-partner/34-768644) · `en`
-
-SLT-Mobitel, demonstrating a strong commitment to nurturing education and career development in Sri Lanka, partnered with the EDEX Mid-Year Expo 2024 as its official ICT solutions partner.
-
-A landmark event in Sri Lanka’s educational calendar, SLT-Mobitel provided robust Wi-Fi connectivity throughout the exhibition, ensuring seamless digital experiences for exhibitors and attendees.
-
-The event reaffirms SLT-Mobitel’s reputation as a key player in the ICT industry, with an emphasis on its support of education and professional development. The exhibition also highlights SLT-Mobitel’s commitment to endorsing students, educators, and institutions as they explore global educational opportunities in real time. An effort that further invests in the future of Sri Lanka’s workforce and youth.
-
-...
-
-[Data](articles/ad6a3011.json)
-
-[Extended Data](ext_articles/ad6a3011.ext.json)
-
----
-
-### Strengthening trilateral ties: Milinda Moragoda praises Ambassador  Mizukoshi’s legacy at Sri Lanka-Japan-India investment promotion event
-
-*2024-10-31 04:21:26* · [`dailyftlk`](https://www.ft.lk/news/Strengthening-trilateral-ties-Milinda-Moragoda-praises-Ambassador-Mizukoshi-s-legacy-at-Sri-Lanka-Japan-India-investment-promotion-event/56-768643) · `en`
-
-Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, Pathfinder Foundation Founder Milinda Moragoda, Chairman Bernard Goonetilleke, Director Dr. Dayaratna Silva , Director Ahmad A. Jawad, BOI DG Renuka M. Weerakone, and Damro Group MD Lahiru Ramanayake and team
-
-Pathfinder Foundation Founder Milinda Moragoda (right) presents a token of appreciation to Japanese Ambassador to Sri Lanka Mizukoshi Hideaki, honouring his successful tenure in Sri Lanka
-
-Pathfinder Foundation Founder Milinda Moragoda delivers a keynote address at the event
-
-Japanese Ambassador to Sri Lanka Mizukoshi Hideaki addresses the event
-
-At a Sri Lanka-Japan-India investment promotion event, Pathfinder Foundation Founder Milinda Moragoda, delivered a keynote address highlighting the importance of trilateral cooperation between Japan, Sri Lanka, and India.
-
-...
-
-[Data](articles/f103ac3c.json)
-
-[Extended Data](ext_articles/f103ac3c.ext.json)
 
 ---

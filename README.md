@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 15:10:31**
+As of **2024-10-31 15:24:18**
 
 ## Newspaper Stats
 
-*Scraped **52,379** Articles*
+*Scraped **52,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,873
-adaderanalk | 6,220
+adalk | 4,874
+adaderanalk | 6,221
 tamilmirrorlk | 7,258
 virakesarilk | 8,452
 adaderanasinhalalk | 9,122
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,122
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,379 (100.0%) of 52,379 articles have been extended.
+52,379 (100.0%) of 52,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Special measles vaccination program next week
+
+*2024-10-31 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103069/special-measles-vaccination-program-next-week) · `en`
+
+The Ministry of Health has announced a special measles vaccination program to be conducted from November 4 to 9.
+
+This program targets individuals who have not previously been vaccinated against measles or who have only received a single dose.
+
+According to Senior Epidemiologist at the Epidemiology Unit of the Ministry of Health, Dr. Hasitha Tissera, the vaccination will take place in 12 selected districts across the island.
+
+Despite Sri Lanka’s eradication of measles, health authorities report a potential resurgence of cases in some areas since 2023.
+
+The measles vaccine is typically administered to infants at 9 months of age, as the risk of contracting measles is particularly high before this age.
+
+Additionally, health officials warn that those who have not received the vaccine or have only had one dose remain vulnerable to the disease.
+
+◼️
+
+[Data](articles/c711d9a9.json)
+
+---
 
 ### Dilith Jayaweera vows to build a strong opposition to ‘challenge and change’ existing system
 
@@ -111,6 +133,20 @@ The person who died in the accident has been revealed to be a farmer. Further in
 [Data](articles/e1741d2d.json)
 
 [Extended Data](ext_articles/e1741d2d.ext.json)
+
+---
+
+### බූස්ස බන්ධනාගාරය ජංගම දුරකතක ගබඩාවක් වෙලා
+
+*2024-10-31 13:25:41* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-බන්ධනාගාරය-ජංගම-දුරකතක-ගබඩාවක්-වෙලා/11-412777) · `si`
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාර තුල කල හදිසි සෝදිසි කිරීමකදී ඉතා ඉහල වටිනාකමක් ඇති ජංගම දුරකථන ඇතුලු උපාංග විශාල සංකයාවක් හා හෙරොයින් ,අයිස් මත් දවය තොගයක් පොලිස් විශේෂ කාර්ය බලකාය විසින්  ඊයේ (30) පස්වරුවේදි අත් අඩඟුවට ගන්නා ලදි.
+
+බූස්ස අධි ආරක්ෂිත බන්ධනාගාරයේ පැරණි අංශයයේ A,B,C හා D යන වාට්ටු තුල හදිසි සෝදීසි කිරීමක් කර අත්අඩංගුවට ගැනීම් සිදුකර ඇත.ජංගම දුරකථන 11 ක්, සිම්පත් 13 යි, චාජර්, පොකට් රවුටර්, එම අමතර බැටරි, ඩේටා කේබල්, Adapter හා තවත් උපකරණ සමග හෙරොයින් ග්රැම් 03 මිලි ග්රැම් 150 ක්, අයිස් මත් ද්වය ග්රෑම් 01ක්, දුම් කොල කැබලි සොයාගෙන වැඩිදුර විමර්ශන කටයුතු සඳහා බන්ධනාගාර පාලනාධිකාරිය වෙත භාර දීමට කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/9b740e26.json)
 
 ---
 
@@ -2271,53 +2307,5 @@ The president of the association said that the decision was taken on the occasio
 [Data](articles/3f0edfdf.json)
 
 [Extended Data](ext_articles/3f0edfdf.ext.json)
-
----
-
-### ‘Ice’ drugs worth INR 270m bound for Sri Lanka seized in Chennai; Lankan among arrested
-
-*2024-10-30 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103048/ice-drugs-worth-inr-270m-bound-for-sri-lanka-seized-in-chennai-lankan-among-arrested) · `en`
-
-In yet another drug bust in Tamil Nadu, India’s Narcotics Control Bureau seized crystal methamphetamine, also known as ‘Ice’, worth 270 million Indian rupees in Chennai. The drugs were meant to be trafficked to Sri Lanka, the investigators said.
-
-India’s Narcotics Control Bureau or NCB arrested two men - Vijaykumar and Manivannan and recovered INR 150,000 in cash and 2.7 kg of Methamphetamine (ICE) from their possession last Tuesday. The cash was believed to be proceeds from the sale of drugs, NDTV reported.
-
-Meanwhile, DT Next reported that the two suspects arrested by the Narcotics Control Bureau’s Chennai zonal unit includes a Sri Lankan national and another person with links in Moreh, Manipur and that the duo had planned to send the drug to Sri Lanka.
-
-Based on intelligence, NCB sleuths secured two persons, later identified as Vijayakumar and Manivannan-near Moolakadai bus stand and seized 1.9 kg of methamphetamine from them on October 22.
-
-...
-
-[Data](articles/78043f27.json)
-
-[Extended Data](ext_articles/78043f27.ext.json)
-
----
-
-### The order of tame elephants
-
-*2024-10-30 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202748) · `si`
-
-Here's a 200-character summary:
-
-
-
-Colombo Magistrate orders release of three tame elephants seized by CID in 2016. Wildlife Director General involved. Elephants found in Udawalawe. Court case ongoing regarding ownership.
-
-🟩
-
-Colombo Additional Magistrate Hardana Sooriyawala today (30) ordered Wildlife Director General of Wildlife Director General.
-
-It was in connection with three tame elephants arrested by the CID by CID.
-
-Troops of the Criminal Investigations of Kalutara, Avissawella have been arrested by the Criminal Investigation Department in 2016 and the three elephants have been arrested by the Court of Justice to the owners.The lawyers who appeared for the victims of the victim of the agriculced side of the Wildlife Director have issued the court regarding the court.
-
-The three elephants were revealed in Udawalawe.
-
-◼️
-
-[Data](articles/4910d05b.json)
-
-[Extended Data](ext_articles/4910d05b.ext.json)
 
 ---

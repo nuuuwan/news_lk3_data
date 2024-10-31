@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 13:59:32**
+As of **2024-10-31 14:12:05**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 9,121
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,372 (100.0%) of 52,373 articles have been extended.
+52,373 (100.0%) of 52,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
 
-### பாறை குழிக்குள் கார் : குடும்பஸ்தர் மரணம்
+### Car into rocky cavity: Death of family
 
 *2024-10-31 13:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறை-குழிக்குள்-கார்-குடும்பஸ்தர்-மரணம்/175-346360) · `ta`
 
-60 அடி ஆழமான பாறை குழிக்குள் காரொன்று விழுந்ததில்  குடும்பஸ்தர்  ஒருவர்  உயிரிழந்துள்ள சம்பவம் வியாழக்கிழமை (31) அதிகாலை ஆனமடுவ பிரதேசத்தில் இடம்பெற்றுள்ளது.
+Car crash kills family member in rocky pit. Farmer dies in 60-foot deep cave. Police investigating.
 
-விபத்தில் உயிரிழந்த நபர்  விவசாயி என தெரியவந்துள்ளது. இது தொடர்பான மேலதிக விசாரணைகளை பொலிஸார் முன்னெடுத்து வருகின்றனர்.
+🟩
+
+The death of a family member after a car fell into a 60 -foot -deep rocky cavity in the early hours of Thursday morning.
+
+The person who died in the accident has been revealed to be a farmer. Further investigations are being carried out by the police.
 
 ◼️
 
 [Data](articles/e1741d2d.json)
+
+[Extended Data](ext_articles/e1741d2d.ext.json)
 
 ---
 

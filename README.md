@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 12:58:24**
+As of **2024-10-31 13:09:39**
 
 ## Newspaper Stats
 
-*Scraped **52,365** Articles*
+*Scraped **52,368** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,869
+adalk | 4,870
 adaderanalk | 6,218
-tamilmirrorlk | 7,256
+tamilmirrorlk | 7,257
 virakesarilk | 8,449
-adaderanasinhalalk | 9,119
+adaderanasinhalalk | 9,120
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,365 (100.0%) of 52,365 articles have been extended.
+52,368 (100.0%) of 52,368 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### The Qur'an should not be recited: the new prohibition of the Taliban
+
+*2024-10-31 12:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குர்ஆன்-ஓதவோ-கூடாது-தலிபான்-புதிய-தடை/50-346356) · `ta`
+
+Taliban restricts women's Quran recitation, prayer calls, and public speech. Latest in series of gender prohibitions in Afghanistan.
+
+🟩
+
+A Taliban minister has said that women praying aloud or reciting the Quran in front of other women.
+
+This is the latest restriction on women in Afghanistan, which is prohibited by raising their voices and showing their faces outside the home. There are already prohibited women from studying more than third grade, public places and work.
+
+Speaking at a function in Afghan's eastern Lokar region on Sunday (27), Minister of Virtue Khalid Hanafi said:. It is not allowed to raise slogans (Allah Hu Akbar).
+
+Similarly, the central of Islamic beliefs should not be pronounced words like Subanullah. Women are not allowed to call for prayer. So they are not allowed to sing the song, ”he said. His comments were shared on the social media of the Ministry and later deleted.
+
+After the taking over in Afghanistan in 2021, the Taliban set up a ministry to spread virtue and prevent evil.. The ministry has been implementing the orders issued by the Taliban since then.
+
+...
+
+[Data](articles/79641665.json)
+
+[Extended Data](ext_articles/79641665.ext.json)
+
+---
+
+### 1,000 million heroin found in shadows
+
+*2024-10-31 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202767) · `si`
+
+Heroin stash discovered: 40kg seized in Sevanagala operation by Sri Lanka's STF. Military intelligence reports massive 1000 million units hidden in shadows.
+
+🟩
+
+According to information received by the military intelligence, 40 kilos of heroin found in Sevanagala area.
+
+The drug was found in a mission by the STF.
+
+◼️
+
+[Data](articles/734004d5.json)
+
+[Extended Data](ext_articles/734004d5.ext.json)
+
+---
 
 ### 40kg of heroin worth over Rs. 1Bn recovered in Sevanagala
 
@@ -397,6 +443,34 @@ The First Lady has also awarded literature for children of children.
 [Data](articles/a8578a8e.json)
 
 [Extended Data](ext_articles/a8578a8e.ext.json)
+
+---
+
+### A disciple of a beef arrested with ice of Rs
+
+*2024-10-31 10:59:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-22ක-අයිස්-සමග-හරක්-කටාගේ-ගෝලයෙක්-අල්ලයි/11-412772) · `si`
+
+Beef disciple arrested with ice worth Rs. Police seized 6kg heroin, 1kg ice drugs, lorry, motorcycle. Suspect linked to large-scale drug dealer Arm Chinaka Wickramaratne. Heroin stock valued at nearly 25 million. Case handed over to SLBAC for investigation.
+
+🟩
+
+The STF said that a person who operated the drug network of the drug's drug network of an organized criminal and a large-scale drug dealer.
+
+In addition, a lorry and motorcycle have been taken into custody. The hands have been arrested (41) a resident of Dehiwala (41).
+
+Special Task Force to be received by the Sri Lanka Army Intelligence Unit, the OIC of Special Operations Division III. A group of officers including Ranasinghe has raided a raid near the Signal Tower in front of Boralesgamuwa, 10th Junction.
+
+Police be taken into custody with 06 kilos of heroin and 1 kg of ice drugs and a lorry and a motorcycle used to conduct the drug network.
+
+It has been revealed that the drug suspect of the arrival of the arrival criminal and a large-scale drug dealer, Arm Chinaka Wickramaratne, or a large-scale drug dealer, is racketeed.
+
+Police say that the value of the heroin stock of heroin was nearly twenty-five million, police said.
+
+...
+
+[Data](articles/52bd6d16.json)
+
+[Extended Data](ext_articles/52bd6d16.ext.json)
 
 ---
 
@@ -2259,77 +2333,5 @@ The case is due to be taken up again on November 27.
 [Data](articles/fb784759.json)
 
 [Extended Data](ext_articles/fb784759.ext.json)
-
----
-
-### 50 million milestone in Elpitiya
-
-*2024-10-30 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202742) · `si`
-
-Elpitiya arrests: 2 suspects seized 17kg 234g drugs. Raid by Walana Central Corruption Board. Handed to Pitigala Police for investigation.
-
-🟩
-
-The suspects were arrested in the Elpitiya area for sale at the deep sea of ​​deep sea around Sri Lanka.
-
-The suspects have been arrested following a raid conducted on information received by the Walana Central Corruption Board.
-
-Two major suspects were arrested by the police and another other suspects.
-
-The suspects were taken into custody by 17 kilograms and 234 grams of MPs in possession.
-
-The suspects have been handed over to the Pitigala Police for further investigations.
-
-◼️
-
-[Data](articles/a2d1cff1.json)
-
-[Extended Data](ext_articles/a2d1cff1.ext.json)
-
----
-
-### Tamils ​​rejected the JVP's communalism - Tamil national leaders
-
-*2024-10-30 19:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197545) · `ta`
-
-Tamil leaders reject JVP's communalism, oppose Terrorism Law changes targeting Sinhalese. National People's Power claims to abolish law but maintains status quo. UNHRC resolution criticized for similar actions by previous governments.
-
-🟩
-
-The Tamil national leaders, who have pointed out that the Tamil people are consistently rejected by the deepest communal tendency of the national people's power, have said that their current position on the terrorism law will be aimed at the Sinhalese people in the south.
-
-Responding to a question raised on Tuesday (29), Cabinet spokesman Minister Vijitha Herath said, “There has been no examination on the abolition of the terrorism law, as the national and international parties have been continuously urged to repeal the terrorism law in the country.
-
-Although it continues to be practiced as it is, it will be prevented from being misused. In the coming new parliament, the amendments will be made in the next Parliament and only amendments to the Terrorism Act will be made if they are accepted by the Parliament. ”
-
-...
-
-[Data](articles/e5e0f261.json)
-
-[Extended Data](ext_articles/e5e0f261.ext.json)
-
----
-
-### Attorney General apologizes
-
-*2024-10-30 19:17:02* · [`adalk`](https://www.ada.lk/breaking_news/නීතිපතිවරයා-අධිකරණයෙන්-සමාව-ගනියි/11-412762) · `si`
-
-Attorney General apologizes to court over unawareness of Supreme Court orders regarding wildlife department case involving three elephants.
-
-🟩
-
-The Attorney General forgave the Attorney General (UPFA Additional Magistrate Harrasara Kekunai) today (30) to the Magistrate's Court today.
-
-Additional Solicitor General President's Counsel to the Attorney General was not aware of the orders issued by the Supreme Court regarding the order issued by the Supreme Court regarding the order of the Supreme Court regarding the order of the Supreme Court regarding the laundry Court of the Supreme Court.Mr. Ratnayake has apologized.
-
-The Attorney General and personally listened to the Attorney General as well as the case was not aware that he was not aware of the fundamental rights petition filed by the Supreme Court.
-
-The Attorney General apologized to the Magistrate's Court when three elephants were filed against the Director General of the Wildlife Department asking him to restore three paddy elephants.
-
-◼️
-
-[Data](articles/4c2d5c4b.json)
-
-[Extended Data](ext_articles/4c2d5c4b.ext.json)
 
 ---

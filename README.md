@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 03:39:57**
+As of **2024-11-01 03:58:23**
 
 ## Newspaper Stats
 
-*Scraped **52,445** Articles*
+*Scraped **52,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
-tamilmirrorlk | 7,272
+tamilmirrorlk | 7,273
 virakesarilk | 8,468
 adaderanasinhalalk | 9,130
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,445 (100.0%) of 52,445 articles have been extended.
+52,446 (100.0%) of 52,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### 20 க்கு இல்லையெனில்,  200க்கா  தூக்கினார்?
+
+*2024-11-01 02:18:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-க்கு-இல்லையெனில்-200க்கா-தூக்கினார்/175-346380) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former MP Harris denied permission to submit nomination due to 20-year-old controversy. Nallassi National Front leader Mohamad Rasmee questioned why Baishal Kasim resigned after 200 days. Discussion centered around Tamil community issues, lack of solutions from previous MPs, and criticism of current political leadership.
+
+🟩
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் ஹரீஸ், 20க்கு கை தூக்கிய காரணத்தினால் இம்முறை வேட்புமனுவை தாக்கல் செய்ய அவருக்கு அனுமதி வழங்கப்படவில்லை.   அப்படி என்றால், பைசல் காசிம் என்ன 200 க்கா கையை தூக்கியவர்? அவருக்கு சீட் வழங்கியது எப்படி? என  நல்லாட்சி தேசிய முன்னணியின் ஆதரவு "வி ஆ வண்"( we are one) அமைப்பின் இணைப்பாளர் மொகமட் ரஸ்மின் கேள்வியெழுப்பினார்.
+
+காரைதீவில் உள்ள அம்பாறை ஊடக மையத்தில் செவ்வாய்க்கிழமை  (29)   நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது, மேற்கண்டவாறு கேள்வியெழுப்பினார்.
+
+Tamil -speaking communities in the country are facing many problems. இதுவரை இருந்த பாராளுமன்ற உறுப்பினர்கள் அவற்றுக்கு எந்த தீர்வையும்  காணவில்லை. அரசியலுக்காக பிச்சைக்காரனின் புண் போல அதைப் பயன்படுத்தி வருகின்றனர்.
+
+The country has got a standard leader in the ongoing presidential election.He said, "Choose the good leader for the country," he said.
+
+...
+
+[Data](articles/f29965f7.json)
+
+[Extended Data](ext_articles/f29965f7.ext.json)
+
+---
 
 ### Diwali
 
@@ -2481,27 +2509,5 @@ He outlined plans to establish a new cabinet and government after November 14, w
 [Data](articles/f27a2c84.json)
 
 [Extended Data](ext_articles/f27a2c84.ext.json)
-
----
-
-### 52-Year-old woman attacked to death with sharp weapon in Wariyapola
-
-*2024-10-31 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103055/52-year-old-woman-attacked-to-death-with-sharp-weapon-in-wariyapola) · `en`
-
-A 52-year-old woman has died following a violent altercation involving a neighbour armed with a sharp weapon in the Wagolla area of Wariyapola.
-
-She was reportedly attacked during a dispute and succumbed to her injuries shortly after being admitted to the Wariyapola Hospital, police confirmed.
-
-The victim, a resident of Bandara Koswatta, had been clearing branches from a fallen tree when an argument broke out with her neighbor, a 66-year-old man from the same area.
-
-The suspect, who lived on adjacent government land, allegedly attacked the woman with a sharp weapon during the dispute.
-
-Wariyapola Police have since arrested the suspect in connection with the incident and are conducting further investigations.
-
-◼️
-
-[Data](articles/68dc210f.json)
-
-[Extended Data](ext_articles/68dc210f.ext.json)
 
 ---

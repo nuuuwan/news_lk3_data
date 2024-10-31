@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 13:23:59**
+As of **2024-10-31 13:40:25**
 
 ## Newspaper Stats
 
-*Scraped **52,368** Articles*
+*Scraped **52,369** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adalk | 4,870
 adaderanalk | 6,218
 tamilmirrorlk | 7,257
 virakesarilk | 8,449
-adaderanasinhalalk | 9,120
+adaderanasinhalalk | 9,121
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,368 (100.0%) of 52,368 articles have been extended.
+52,369 (100.0%) of 52,369 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Dilith does not even know the simple notion of Vijitha Economics
+
+*2024-10-31 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202768) · `si`
+
+Dilith Jayaweera criticizes Vijitha Herath's economic understanding. He calls for voting against the current system, emphasizing the need for a strong opposition.
+
+🟩
+
+The party leader Dilith Jayaweera has called for the people to vote for the exangeration to create a bold opposition to change the existing system.
+
+Another meeting in the NahaHhamu series in the Navahamayaka Malaya for the next general election was held in Raddolugama.
+
+The leader of the universal authority (Gampaha District candidate) entrepreneurship Dilith Jayaweera,
+
+"Minister Vijitha Herath said that the money was not molded. If the signature of Anura Kumara has the signature if mold. I was surprised. For about 25 years in Parliament ... I was a person who studied at the University of Kelaniya. "
+
+"Molding money is not used to template from rupees. This is called the country's currency circulation.. The increase in liquidity. "
+
+"Minister Vijitha Herath. I don't know, honestly, he didn't know ... the simple concept of this economy. "
+
+"Sri Lanka has increased the liquidity of Sri Lanka.. That means sooner you need to pay for you to pay. Inflation increases. "
+
+...
+
+[Data](articles/b06d9c3a.json)
+
+[Extended Data](ext_articles/b06d9c3a.ext.json)
+
+---
 
 ### The Qur'an should not be recited: the new prohibition of the Taliban
 
@@ -2307,31 +2337,5 @@ Borella Police Officers who have been asked to call for their eight-day calls fo
 [Data](articles/cfc2d501.json)
 
 [Extended Data](ext_articles/cfc2d501.ext.json)
-
----
-
-### Magistrate ordered the arrest of Dr. Ramanathan Archana and appeared in the Mannar Court
-
-*2024-10-30 19:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197546) · `ta`
-
-Dr. Ramanathan Archana arrested Mannar Court case administrative ban incident
-
-🟩
-
-During the hearing of the Mannar Court on Wednesday (30), the Magistrate ordered the police to arrest the former Superintendent of Chavakachcheri Hospital, Ramanathan Archana, who was not present at the Mannar Court.
-
-The doctor has been arrested in the Mannar court against Archana in connection with the entry into the Mannar District General Hospital and the ban on administrative activities.
-
-In this case, the hearing of the doctor Archana's case was held in the Mannar Court on Wednesday (30).. Moreover, only one of the two bonders was present in the forum.
-
-The Mannar Magistrate, who was investigating the incident, ordered the police to arrest both Dr. Archana and Pinayar.
-
-The case is due to be taken up again on November 27.
-
-◼️
-
-[Data](articles/fb784759.json)
-
-[Extended Data](ext_articles/fb784759.ext.json)
 
 ---

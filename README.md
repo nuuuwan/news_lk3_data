@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 04:40:52**
+As of **2024-11-01 04:59:21**
 
 ## Newspaper Stats
 
-*Scraped **52,446** Articles*
+*Scraped **52,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
-tamilmirrorlk | 7,273
+tamilmirrorlk | 7,274
 virakesarilk | 8,468
 adaderanasinhalalk | 9,130
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,446 (100.0%) of 52,446 articles have been extended.
+52,447 (100.0%) of 52,447 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### People will respond to those who don't want
+
+*2024-11-01 02:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரும்பாதவர்களுக்கு-மக்கள்-பதிலளிப்பர்/175-346381) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamil parties unite against Sinhala nationalism. Former MP Selvam Adakkalanathan criticizes current government. Parties seek unity post-elections. Public servant salary increase demanded. Corruption probes criticized. JVP aligns with Sinhala nationalism. Tamil Nadu's power emphasized.
+
+🟩
+
+Former parliamentarian and Vanni district Democratic Tamil National Alliance candidate Selvam Adakkalanathan says that the Anura government and the Sinhala nationalism are following the Sinhala nationalism.
+
+He was speaking to the media at his office in Vavuniya on Thursday (31).
+
+The Tamil parties have published by the Association of Disappeared Relations regarding unity. We accept it.
+
+In this election, we, Tamil parties, have made efforts to contest a publicity under a publicity. It is not possible. So it causes mental pain.. We will continue to make efforts to bring others inside.
+
+After the election, the Tamil parties should be created. As well as the people's anger on those who did not like unity after the election. Thus, when people teach the lesson, there may be opportunities for unity.
+
+...
+
+[Data](articles/4f610b06.json)
+
+[Extended Data](ext_articles/4f610b06.ext.json)
+
+---
 
 ### 20 க்கு இல்லையெனில்,  200க்கா  தூக்கினார்?
 
@@ -2487,27 +2517,5 @@ Prime Minister Amarasuriya underscored the importance of training Sri Lankan mig
 [Data](articles/5157769a.json)
 
 [Extended Data](ext_articles/5157769a.ext.json)
-
----
-
-### No housing for Ministers in Colombo - President
-
-*2024-10-31 09:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103056/no-housing-for-ministers-in-colombo-president-) · `en`
-
-President Anura Kumara Dissanayake emphasized that the government’s primary focus will be on eradicating rural poverty, stating that effective governance demands proximity to the people.
-
-Speaking at a public rally in Matara, the President highlighted the need for ministers to be embedded within local communities, rather than operating from Colombo.
-
-President Dissanayake further stated that ministers in the upcoming Parliament will not be provided housing in Colombo. “We need a government that connects with the people directly,” he said, stressing that leaders must work in their districts to address local issues rather than remaining distant.
-
-He outlined plans to establish a new cabinet and government after November 14, with a focus on developing “people’s leaders” dedicated to solving problems at the grassroots level.
-
-“This government must reach the villages to do its work, and the most important task ahead is to eliminate poverty in rural areas,” President Dissanayake added.
-
-◼️
-
-[Data](articles/f27a2c84.json)
-
-[Extended Data](ext_articles/f27a2c84.ext.json)
 
 ---

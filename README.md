@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 07:28:24**
+As of **2024-10-31 08:03:34**
 
 ## Newspaper Stats
 
-*Scraped **52,299** Articles*
+*Scraped **52,301** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
-tamilmirrorlk | 7,249
+tamilmirrorlk | 7,250
 virakesarilk | 8,442
-adaderanasinhalalk | 9,105
+adaderanasinhalalk | 9,106
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,299 (100.0%) of 52,299 articles have been extended.
+52,301 (100.0%) of 52,301 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Hindu devotees celebrates Dayapavali today
+
+*2024-10-31 06:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202753) · `si`
+
+Here's a 200-character summary:
+
+
+
+Hindu devotees worldwide celebrate Diwali today. The festival commemorates Lord Vishnu defeating darkness. President calls for unity during the celebration. Special trains run for the occasion.
+
+🟩
+
+The Hindu devotees around the world is celebrated today (31).
+
+The main place of Indian cultural events is considered a colorful and cultural feast of Hindu devotees.
+
+විෂ්ණු දෙවියන් නරගාසුරන් නමැති අසුරයා පරාජය කර ආලෝකය පැතිරවීම සිහිපත් කිරීම දීපාවලී උත්සවයේ අරමුණයි.
+
+The event is being celebrated by Hinduists to light their home lamps by wishing the dark and light.
+
+Meanwhile, President Anura Kumara Dissanayake says that this year's Deepavali ceremony is requested to take a precious ceremony of a new thought change.
+
+The President said that the time has come for the Sri Lankan nation that attempted to be divided by Deepavali ceremony.
+
+The President has said that the President will take the lead in launching the station to the political culture of the society, which is eliminated by the political culture of the society, which is eliminated, eating unfair, survival, conviction, and violence.
+
+...
+
+[Data](articles/9c58a5c3.json)
+
+[Extended Data](ext_articles/9c58a5c3.ext.json)
+
+---
 
 ### Rain from today
 
@@ -365,6 +399,34 @@ Given the parliamentary election on 14 November 2024, the public can hear unique
 [Data](articles/0994f312.json)
 
 [Extended Data](ext_articles/0994f312.ext.json)
+
+---
+
+### The President's Diwali greeting news
+
+*2024-10-31 01:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தீபாவளி-வாழ்த்துச்-செய்தி/175-346344) · `ta`
+
+President Anura Kumara Dissanayake greets Hindus on Diwali, emphasizing change and unity. He calls for celebrating the festival as a symbol of hope and progress, urging Sri Lankans to work towards eliminating injustice and promoting cultural diversity.
+
+🟩
+
+In his Diwali greeting, President Anura Kumara Dissanayake said that we have initiated the era of change of public expectations.
+
+The Diwali festival is celebrated by Hindu devotees in the world to mark the light of darkness.
+
+The Sri Lankan people who have been searching for light from the dark after independence are now carrying new expectations. This is the many years expectation of the people. We have begun the age of change of the expectations of the public who have been paralyzed by the rulers of Sri Lanka for so many days.
+
+There are many reasons for the Diwali celebration. The festival is celebrated to commemorate the return of Ayodhya and destroy Krishna Narakasura after the 14 -year wilderness.
+
+I urge the people to celebrate the Diwali festival this time that the new revolution will lead to the new revolution by carrying torches in the tone of the light of the conscience.
+
+We extend their hands for honor, acceptance and brotherhood, in order to enrich the beauty of cultural diversity.
+
+...
+
+[Data](articles/8b74fc03.json)
+
+[Extended Data](ext_articles/8b74fc03.ext.json)
 
 ---
 
@@ -2245,51 +2307,5 @@ The youth, who are aged 22 and 28, will be produced in court after the hearing.
 [Data](articles/0ec3b72b.json)
 
 [Extended Data](ext_articles/0ec3b72b.ext.json)
-
----
-
-### Petition against Ranjan's nomination
-
-*2024-10-30 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202727) · `si`
-
-Supreme Court rules on Ranjan Ramanayake's nomination challenge. UNP MP petitions against UNP nominations in Gampaha District. Three judges issue order. Independent candidate Mahinda Senanayake involved. Elections Commission and returning officer named.
-
-🟩
-
-The Supreme Court has set the fundamental rights petition filed by the UNP MP Ranjan Ramanayake to issue nominations from the United Democratic Voice Party for the Gampaha District to contest the nomination of the UNP.
-
-The preliminary protests presented by the respondents have issued the order by the three-member Supreme Court Judge of Pura Padman Surasena and Kumuduni Wickremasinghe and Achala Wedullah.
-
-Independent groups candidate for Gampaha District KM. The petition has been presented by Mahinda Senanayake.
-
-The Elections Commission and its members, Ranjan Ramanayake and Ranjan Ramanayake were named including the Gampaha District Returning Officer.
-
-◼️
-
-[Data](articles/8c88b6b1.json)
-
-[Extended Data](ext_articles/8c88b6b1.ext.json)
-
----
-
-### Jonstete is now the court's sentence
-
-*2024-10-30 12:09:53* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්ට-දැන්-අධිකරණය-දුන්න-තීන්දුව-මෙන්න/11-412757) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Jonstete becomes judge. Johnston Fernando, previously detained, freed on bail."
-
-🟩
-
-Johnston Fernando, who was remanded, has been released on bail.
-
-◼️
-
-[Data](articles/4bbd9f14.json)
-
-[Extended Data](ext_articles/4bbd9f14.ext.json)
 
 ---

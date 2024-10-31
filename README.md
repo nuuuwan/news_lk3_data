@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 21:59:43**
+As of **2024-10-31 22:14:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,424 (100.0%) of 52,428 articles have been extended.
+52,428 (100.0%) of 52,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -472,23 +472,35 @@ Mr. Sidney son, which is in the house, is going to get out of the house twice a 
 
 ---
 
-### புதிய அரசாங்கத்தின் அபிவிருத்தி தேவைகளுக்கு ஒத்துழைப்பளிக்க சீனா தயாராகவே உள்ளது - இலங்கைக்கான சீனத்தூதுவர்
+### China is ready to cooperate with the development needs of the new government - Chinese Ambassador to Sri Lanka
 
 *2024-10-31 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197596) · `ta`
 
-இலங்கையின் புதிய அரசாங்கத்தின் அபிவிருத்தித் தேவைகளை சீன அரசாங்கம் முழுமையாகப் பரிசீலித்து,  பொருத்தமான பயிற்சித் திட்டங்களின் செயற்திறனை மேம்படுத்துவதற்கு தயாராக உள்ளதாக சீனத்தூதுவர் கீ சென்ஹொங் தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-கொழும்பில்  புதன்கிழமை (30) இரவு நடைபெற்ற சீன உதவிப்பயிற்சி மற்றும் பழைய மாணவர் வரவேற்பு நிகழ்வில் பங்கேற்று உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
 
-அவர் அங்கு மேலும் உரையாற்றுகையில்,  சீன - இலங்கை மனித வள ஒத்துழைப்பின் நன்மைகளைக் கொண்டாடவும், சீன - இலங்கை நட்புறவு என்றும் நிலைத்திருப்பதை வாழ்த்துவதற்காகவும், சீன உதவிப் பயிற்சி பழைய மாணவர் வரவேற்பு நிகழ்வு முதற்தடவையாக நடைபெறுகின்றது.
 
-சீன பழமொழி “ஒரு மனிதனுக்கு ஒரு மீனைக் கொடுங்கள் ,நீங்கள் அவருக்கு ஒரு நாள் உணவளிக்கிறீர்கள்; ஒரு மனிதனுக்கு மீன்பிடிக்கக் கற்றுக்கொடுங்கள், நீங்கள் அவருக்கு வாழ்நாள் முழுவதும் உணவளிக்கிறீர்கள்” என்று கூறுகின்றது.
+China's Ambassador to Sri Lanka promises cooperation with the new government, emphasizing training programs and human resource development. Over 13,000 Sri Lankans have trained in China since 1950, focusing on areas like public management, science, IT, and agriculture. The Chinese government aims to strengthen ties with developing countries and promote global progress.
 
-சீனாவின் வெளிநாட்டு உதவி பயிற்சி என்பது ஜனாதிபதி ஷி ஜின்பிங்கால் வரையப்பட்ட உலகளாவிய வளர்ச்சியை செயற்படுத்துவதற்கான உறுதியான நடவடிக்கையாகும்.
+🟩
+
+Chinese Ambassador Key Senhong has said that the Chinese government is fully considering the development needs of Sri Lanka's new government and is ready to improve the implementation of appropriate training programs.
+
+He said this while addressing the Chinese assistance training and alumni reception held in Colombo on Wednesday night in Colombo.
+
+Speaking further, he said, "The Chinese Assistant Training Alumni Reception is being held for the first time to celebrate the benefits of China and Sri Lanka's human resources cooperation and to congratulate the Chinese -Sri Lanka friendship.
+
+The Chinese proverb “Give a fish to a man, and you feed him one day;Teach a man to fish, and you feed him for a lifetime. ”
+
+China's foreign aid training is a firm step to implement the global growth painted by President Shi Jinping.
+
+China's foreign aid exercise adopts issues such as sharing, advice and construction, creating a platform for exchange of administrative experience for countries.
 
 ...
 
 [Data](articles/01246dcf.json)
+
+[Extended Data](ext_articles/01246dcf.ext.json)
 
 ---
 
@@ -544,25 +556,33 @@ The OIC of the Master of Kahathuduwa Sunfalver Gardan, a retired vehicle in Kaha
 
 ---
 
-### அரச ஊழியர்களின்  சம்பள விவகாரத்தில் தொடர்ந்தும் பொய்யுரைக்கும் பிரதமர் - சாகல ரத்நாயக்க விசனம்
+### Prime Minister - Sagala Ratnayake
 
 *2024-10-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197597) · `ta`
 
-அரச உத்தியோகத்தர்களின் சம்பள விவகாரத்தில் பிரதமர் ஹரிணி அமரசூரிய தொடர்ந்தும் பொய்களையே கூறிக் கொண்டிருக்கின்றார்.
+Sagala Ratnayake accuses PM Harini Amarasuriya of lying about state official salaries. Former Prez Ranil Wickremesinghe denies deception. IMF compliance policy unclear. Economic growth led to salary increases, but unions protest. Committee recommends 24% hike over 2 years. PM claims JVP lied about pre-election raise. Ratnayake urges voters to choose truth-telling leaders.
 
-அரசியலில் எந்தளவு நெருக்கடிகளை எதிர்கொண்டாலும் முன்னாள்  ஜனாதிபதி ரணில் விக்கிரமசிங்க ஒருபோதும் பொய் கூறி மக்களை ஏமாற்ற மாட்டார் என முன்னாள் தேசிய பாதுகாப்பு ஆலோசகர் சாகல ரத்நாயக்க தெரிவித்தார்.
+🟩
 
-கொழும்பிலுள்ள அவரது இல்லத்தில் வியாழக்கிழமை (31)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டிர் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+Prime Minister Harini Amarasuriya continues to make lies on the salary issue of state officials.
 
-தேசிய மக்கள் சக்தி அரசாங்கம் சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாடு தொடர்பில் பின்பற்றும் கொள்கை என்ன என்பது தொடர்பில் தெளிவற்ற நிலைமையே காணப்படுகிறது.
+Former National Security Advisor Sagala Ratnayake has said that despite the crisis in politics, former President Ranil Wickremesinghe will never deceive the people by lying.
 
-ஒரு சந்தர்ப்பத்தில் அரசாங்கம் சர்வதேசத்துக்கு உரையாற்றிய போது அந்த ஒப்பந்தத்தை அவ்வாறே நடைமுறைப்படுத்துவதாகக் கூறியது.
+He further stated that a press conference held at his residence in Colombo on Thursday (31) said.
 
-நாணய நிதியக் குழு நாட்டுக்கு வருகை தந்த போதும், அமெரிக்காவில் இலங்கை அரசாங்கத்துக்கு எதிரான வழக்கொன்றின் போதும் இவ்வாறு தெரிவித்துள்ளனர்.
+There is a vague situation in which the National People's Power Government has adopted a policy on compliance with the International Monetary Fund.
+
+On one occasion the government said it would implement the agreement when the government addressed the international community.
+
+While the Monetary Fund Committee visited the country, the United States has said this during a lawsuit against the Sri Lankan government.
+
+But clearly this is our policy. On the other hand, the government is traveling in such confusion on the salary issue of state officials.
 
 ...
 
 [Data](articles/4c87aa2e.json)
+
+[Extended Data](ext_articles/4c87aa2e.ext.json)
 
 ---
 
@@ -710,21 +730,35 @@ DIG in Badulla District, DIG in Badulla Sujith Wedmulla and Senior Superintenden
 
 ---
 
-### கொழும்பு மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள வீணைக்கு வாக்களியுங்கள் - எஸ். இராஜேந்திரன்
+### Vote for vain to protect Tamil representation in Colombo district. Rajendran
 
 *2024-10-31 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197590) · `ta`
 
-கொழும்பு மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள இருக்கும் அரிய சந்தர்ப்பம்  வீணை சின்னத்துக்கு வாக்களிப்பதாகும். பெளத்த தேரர்களும் எம்முடன் இணைந்து போட்டியிடுவதால் பெளத்த மக்களின் ஆதரவும் எமக்கு இருக்கிறது என ஈழமக்கள் ஜனநாயக  கட்சியின் கொழும்பு மாவட்ட முதன்மை வேட்பாளர் செல்லத்துரை இராஜேந்திரன் தெரிவித்தார்.
+Here's a 200-character summary:
 
-ஈழமக்கள் ஜனநாயக கட்சி காரியாலயத்தில் புதன்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
 
-கொழும்பு மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்வது முக்கியமாகும். தற்போதுள்ள நிலைமையை பார்க்கும்போது கொழும்பு மாவட்டத்தில் போட்டியிடும் கட்சிகளில் தமிழ் பிரதிநிதித்துவத்தை பெற்றுக்கொள்ள முடியுமாகி இருக்கும் ஒரே கட்சி ஈழமக்கள் ஜனநாயக கட்சியாகும்.
 
-எமது கட்சிக்கு கிடைக்க இருக்கும் வாக்குகள் மூலமே கொழும்பு மாவட்ட தமிழ் பிரதிநிதித்துவத்தை பாதுகாக்க முடியுமாகும். அதனால் தமிழ் மக்கள் ஒற்றுமையாக செயற்பட்டு தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள நடவடிக்கை எடுக்க வேண்டும்.
+Eelam People's Democratic Party seeks Tamil representation in Colombo district. Chief candidate Selvathurai Rajendran appeals for unity to protect Tamil interests. Party promises development in Colombo district with Buddhist support.
+
+🟩
+
+The rare opportunity to protect Tamil representation in the Colombo district is to vote for the Veena symbol."We have the support of the Buddhist people as the Buddhist Thera is contesting with us," said Selvathurai Rajendran, the chief candidate of the Eelam People's Democratic Party.
+
+He was speaking at a press conference held at the Eelam Democratic Party office on Wednesday (30).
+
+It is important to protect Tamil representation in Colombo district. The Eelam Democratic Party is the only party that can obtain Tamil representation in the parties contesting in the Colombo district.
+
+The votes for our party can be protected by the Tamil representation of the Colombo District. Therefore, the Tamil people should act in unity and take steps to protect the Tamil representation.
+
+Our party leader Douglas Devananda is always a principle of doing what he says.
+
+So there are no more development in the Tamil people living in the Colombo district.
 
 ...
 
 [Data](articles/c239ed65.json)
+
+[Extended Data](ext_articles/c239ed65.ext.json)
 
 ---
 
@@ -926,27 +960,35 @@ The luxury car of the registration number plates and the key should be taken to 
 
 ---
 
-### ஜனாதிபதி விழாமல் தாங்கிக்கொள்ளும் தூணாக பாராளுமன்றத்தை தெரிவு செய்து விட வேண்டாம் - சரித ஹேரத்
+### Do not elect Parliament as the pillar of the president - Saritha Herath
 
 *2024-10-31 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197585) · `ta`
 
-ஜனாதிபதி விழாமல் தாங்கிக் கொள்வதற்கான தூணாக பாராளுமன்றத்தை தெரிவு செய்து விட வேண்டாம்.
+Saritha Herath warns against elevating Parliament as the president's support. She emphasizes the importance of maintaining balance between executive and legislative powers. Herath advises voters to focus on electing a capable Parliament rather than prioritizing presidential backing during the upcoming elections.
 
-தேசிய மக்கள் சக்தி அரசாங்கத்துக்கு அதியுயர் அதிகாரத்தை வழங்கக் கூடாது என முன்னாள் பாராளுமன்ற உறுப்பினர் சரித ஹேரத் வலியுறுத்தினார்.
+🟩
 
-கொழும்பிலுள்ள  ஐக்கிய மக்கள் கூட்டணி தலைமையகத்தில் வியாழக்கிழமை (31)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+Do not elect Parliament as a pillar to bear the president.
 
-பாராளுமன்றத் தேர்தலுக்கு 14 நாட்களே எஞ்சியுள்ள நிலையில், பல்வேறு சிக்கல்களை எதிர்கொள்ள நேரிட்டுள்ளது.
+Former parliamentarian Saritha Herath stressed that the national people's power should not be given the highest power to the government.
 
-தற்போது தேசிய மக்கள் சக்தி அல்லது மக்கள் விடுதலை முன்னணிக்கு கிடைத்துள்ள ஜனாதிபதி பதவியை பலப்படுத்துவதற்கு சிறந்த பாராளுமன்றத்தை வழங்குமாறு கோருகின்றனர். பாராளுமன்றம் என்பது அரசியலமைப்பில் மிக முக்கியத்துவம் வாய்ந்த ஒன்றாகும்.
+He further stated at a press conference held at the United People's Alliance headquarters in Colombo on Thursday (31).
 
-முந்தைய அமைச்சரவையில் எடுக்கப்பட்ட தீர்மானங்கள் தமக்கு அநாவசியமானவை என அரசாங்கம் கூறுகின்றது. அமைச்சரவை தீர்மானங்களை மாற்ற முடியும். ஆனால் அவை எமக்கு தேவையற்றவை எனக் கூற முடியாது.
+With the remaining 14 days of the parliamentary elections, there are many problems.
 
-அமைச்சரவையில் எடுக்கப்பட்ட தீர்மானங்களை உதாசீனப்படுத்த முடியாது என்பதை பிரதமருக்கு கூறிக் கொள்ள விரும்புகின்றோம்.
+At present, the National People's Power or the Janatha Vimukthi Peramuna (JVP) is demanding the best parliament to strengthen the presidency. Parliament is one of the most important of the Constitution.
+
+The government claims that the resolutions taken in the previous cabinet are unnecessary. Cabinet decisions can be changed. But they cannot be said to be unnecessary for us.
+
+We would like to tell the Prime Minister that the decisions taken in the Cabinet cannot be ignored.
+
+In the Cabinet decisions, we urge the Prime Minister not to confuse the structure.
 
 ...
 
 [Data](articles/5fed03af.json)
+
+[Extended Data](ext_articles/5fed03af.ext.json)
 
 ---
 

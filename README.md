@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 21:40:08**
+As of **2024-10-31 21:59:43**
 
 ## Newspaper Stats
 
-*Scraped **52,420** Articles*
+*Scraped **52,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
 tamilmirrorlk | 7,268
-virakesarilk | 8,457
+virakesarilk | 8,465
 adaderanasinhalalk | 9,130
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,420 (100.0%) of 52,420 articles have been extended.
+52,424 (100.0%) of 52,428 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,62 @@ Police had found the luxury car in question during an inspection carried out bas
 
 ---
 
+### Sinobac fuel prices change
+
+*2024-10-31 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197611) · `ta`
+
+Here's a summary of the fuel price changes in 200 characters:
+
+
+
+Sinobac fuel prices change midnight Thursday. Octane 95 petrol reduced Rs. Super diesel decreased Rs. Auto diesel 280 increased 3 rupees to 283.00. No change 92 octane petrol remains 311.00.
+
+🟩
+
+The fuel prices will be changed with effect from midnight on Thursday (31).
+
+Accordingly, the price of an Octane 95 petrol has been reduced by Rs.
+
+The price of a liter of super diesel has been reduced by Rs.
+
+In addition, the price of auto diesel at 280 is increased by 3 rupees and its new price is 283.00.
+
+There is no change in the price of 92 octane petrol, which was 311.00 rupees.
+
+◼️
+
+[Data](articles/9ff2b18b.json)
+
+[Extended Data](ext_articles/9ff2b18b.ext.json)
+
+---
+
+### The prices of fuels will be revised
+
+*2024-10-31 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197609) · `ta`
+
+Fuel prices revised: Lanka Super Diesel drops 19 rupees, Octane 95 petrol decreases 6 rupees, Octane 92 remains unchanged at 311 rupees. Kerosene price stable at 183 rupees. Changes effective midnight Thursday.
+
+🟩
+
+The Petroleum Corporation has announced that the fuel prices will be amended with effect from midnight on Thursday (31).
+
+Accordingly, the price of a liter of Lanka Super Diesel from 319 rupees has been reduced by Rs.
+
+Octane 95 petrol prices have dropped by 6 rupees and the new price is 371 rupees.
+
+Meanwhile, the price of a liter of 92 octane petrol is 311 rupees.
+
+Also, the price of a liter of kerosene, which was Rs.183, remains intact.
+
+◼️
+
+[Data](articles/3bca44e1.json)
+
+[Extended Data](ext_articles/3bca44e1.ext.json)
+
+---
+
 ### Matharage Pathirana retains CSK to a big amount
 
 *2024-10-31 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202782) · `si`
@@ -73,6 +129,26 @@ The Sri Lankan currency was equal to Rs. 1.56 million.
 [Data](articles/8a9fa64f.json)
 
 [Extended Data](ext_articles/8a9fa64f.ext.json)
+
+---
+
+### Lohan Ratwatte was arrested and brought to Nugegoda in response to the magistrate
+
+*2024-10-31 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197608) · `ta`
+
+Former State Minister Lohan Ratwatte arrested over car found at wife's home in Nugegoda. Brought before magistrate after detention in Kandy.
+
+🟩
+
+Former State Minister Lohan Ratwatte, who was arrested on Thursday (31) in Kandy, has been taken to the Nugegoda response to the magistrate.
+
+Former State Minister Lohan Ratwatte has been arrested in connection with the discovery of a car -free car at his wife's house in Mirihana in Nugegoda.
+
+◼️
+
+[Data](articles/48539705.json)
+
+[Extended Data](ext_articles/48539705.ext.json)
 
 ---
 
@@ -278,6 +354,34 @@ He was speaking at a function held in Colombo today (31st), addressing a functio
 
 ---
 
+### The President has no right to declare that Parliament is a cave of thieves -Ranil has no right -Ranil
+
+*2024-10-31 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197604) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Ranil Wickremesinghe criticized Parliament, saying it's undemocratic. He accused the current government of misusing power and violating constitutional sovereignty. The speaker questioned the legitimacy of Parliament's actions and called for greater transparency in the electoral process.
+
+🟩
+
+With 58 percent of Sri Lankan people, the parliament has no right to declare that Parliament is a cave of thieves as a cave of thieves.. Former President Ranil Wickremesinghe said the parliamentary system could be protected only if he voted for the cylinder.
+
+He was speaking at a meeting of the election campaign in Dambulla on Wednesday (30) in support of the new Democratic Front candidates contesting in the Matale district.
+
+The parliamentary elections begin to protect the parliament in the beginning. President Anura Kumara Dissanayake has been asked to grant a hundred % in Parliament. How can one who have 42 per cent to give a hundred per cent. I do not know where Anurakumara learned mathematics.
+
+In the early days, Communist countries held elections. Eliminated the opposition and increased their share. We cannot do that method. If 42 per cent, that account is not going to increase.
+
+...
+
+[Data](articles/ab410e84.json)
+
+[Extended Data](ext_articles/ab410e84.ext.json)
+
+---
+
 ### Crash near Galle Face
 
 *2024-10-31 17:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலிமுகத்திடலுக்கு-அருகில்-கோர-விபத்து/175-346369) · `ta`
@@ -368,6 +472,26 @@ Mr. Sidney son, which is in the house, is going to get out of the house twice a 
 
 ---
 
+### புதிய அரசாங்கத்தின் அபிவிருத்தி தேவைகளுக்கு ஒத்துழைப்பளிக்க சீனா தயாராகவே உள்ளது - இலங்கைக்கான சீனத்தூதுவர்
+
+*2024-10-31 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197596) · `ta`
+
+இலங்கையின் புதிய அரசாங்கத்தின் அபிவிருத்தித் தேவைகளை சீன அரசாங்கம் முழுமையாகப் பரிசீலித்து,  பொருத்தமான பயிற்சித் திட்டங்களின் செயற்திறனை மேம்படுத்துவதற்கு தயாராக உள்ளதாக சீனத்தூதுவர் கீ சென்ஹொங் தெரிவித்துள்ளார்.
+
+கொழும்பில்  புதன்கிழமை (30) இரவு நடைபெற்ற சீன உதவிப்பயிற்சி மற்றும் பழைய மாணவர் வரவேற்பு நிகழ்வில் பங்கேற்று உரையாற்றும்போதே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+
+அவர் அங்கு மேலும் உரையாற்றுகையில்,  சீன - இலங்கை மனித வள ஒத்துழைப்பின் நன்மைகளைக் கொண்டாடவும், சீன - இலங்கை நட்புறவு என்றும் நிலைத்திருப்பதை வாழ்த்துவதற்காகவும், சீன உதவிப் பயிற்சி பழைய மாணவர் வரவேற்பு நிகழ்வு முதற்தடவையாக நடைபெறுகின்றது.
+
+சீன பழமொழி “ஒரு மனிதனுக்கு ஒரு மீனைக் கொடுங்கள் ,நீங்கள் அவருக்கு ஒரு நாள் உணவளிக்கிறீர்கள்; ஒரு மனிதனுக்கு மீன்பிடிக்கக் கற்றுக்கொடுங்கள், நீங்கள் அவருக்கு வாழ்நாள் முழுவதும் உணவளிக்கிறீர்கள்” என்று கூறுகின்றது.
+
+சீனாவின் வெளிநாட்டு உதவி பயிற்சி என்பது ஜனாதிபதி ஷி ஜின்பிங்கால் வரையப்பட்ட உலகளாவிய வளர்ச்சியை செயற்படுத்துவதற்கான உறுதியான நடவடிக்கையாகும்.
+
+...
+
+[Data](articles/01246dcf.json)
+
+---
+
 ### Drug recovery worth Rs.
 
 *2024-10-31 17:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-01-பில்லியன்-பெறுமதியான-போதைப்பொருள்-மீட்பு/175-346367) · `ta`
@@ -417,6 +541,28 @@ The OIC of the Master of Kahathuduwa Sunfalver Gardan, a retired vehicle in Kaha
 [Data](articles/b3e9a115.json)
 
 [Extended Data](ext_articles/b3e9a115.ext.json)
+
+---
+
+### அரச ஊழியர்களின்  சம்பள விவகாரத்தில் தொடர்ந்தும் பொய்யுரைக்கும் பிரதமர் - சாகல ரத்நாயக்க விசனம்
+
+*2024-10-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197597) · `ta`
+
+அரச உத்தியோகத்தர்களின் சம்பள விவகாரத்தில் பிரதமர் ஹரிணி அமரசூரிய தொடர்ந்தும் பொய்களையே கூறிக் கொண்டிருக்கின்றார்.
+
+அரசியலில் எந்தளவு நெருக்கடிகளை எதிர்கொண்டாலும் முன்னாள்  ஜனாதிபதி ரணில் விக்கிரமசிங்க ஒருபோதும் பொய் கூறி மக்களை ஏமாற்ற மாட்டார் என முன்னாள் தேசிய பாதுகாப்பு ஆலோசகர் சாகல ரத்நாயக்க தெரிவித்தார்.
+
+கொழும்பிலுள்ள அவரது இல்லத்தில் வியாழக்கிழமை (31)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டிர் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+தேசிய மக்கள் சக்தி அரசாங்கம் சர்வதேச நாணய நிதியத்துடனான இணக்கப்பாடு தொடர்பில் பின்பற்றும் கொள்கை என்ன என்பது தொடர்பில் தெளிவற்ற நிலைமையே காணப்படுகிறது.
+
+ஒரு சந்தர்ப்பத்தில் அரசாங்கம் சர்வதேசத்துக்கு உரையாற்றிய போது அந்த ஒப்பந்தத்தை அவ்வாறே நடைமுறைப்படுத்துவதாகக் கூறியது.
+
+நாணய நிதியக் குழு நாட்டுக்கு வருகை தந்த போதும், அமெரிக்காவில் இலங்கை அரசாங்கத்துக்கு எதிரான வழக்கொன்றின் போதும் இவ்வாறு தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/4c87aa2e.json)
 
 ---
 
@@ -561,6 +707,24 @@ DIG in Badulla District, DIG in Badulla Sujith Wedmulla and Senior Superintenden
 [Data](articles/bccf6119.json)
 
 [Extended Data](ext_articles/bccf6119.ext.json)
+
+---
+
+### கொழும்பு மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள வீணைக்கு வாக்களியுங்கள் - எஸ். இராஜேந்திரன்
+
+*2024-10-31 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197590) · `ta`
+
+கொழும்பு மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள இருக்கும் அரிய சந்தர்ப்பம்  வீணை சின்னத்துக்கு வாக்களிப்பதாகும். பெளத்த தேரர்களும் எம்முடன் இணைந்து போட்டியிடுவதால் பெளத்த மக்களின் ஆதரவும் எமக்கு இருக்கிறது என ஈழமக்கள் ஜனநாயக  கட்சியின் கொழும்பு மாவட்ட முதன்மை வேட்பாளர் செல்லத்துரை இராஜேந்திரன் தெரிவித்தார்.
+
+ஈழமக்கள் ஜனநாயக கட்சி காரியாலயத்தில் புதன்கிழமை (30) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+கொழும்பு மாவட்டத்தில் தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்வது முக்கியமாகும். தற்போதுள்ள நிலைமையை பார்க்கும்போது கொழும்பு மாவட்டத்தில் போட்டியிடும் கட்சிகளில் தமிழ் பிரதிநிதித்துவத்தை பெற்றுக்கொள்ள முடியுமாகி இருக்கும் ஒரே கட்சி ஈழமக்கள் ஜனநாயக கட்சியாகும்.
+
+எமது கட்சிக்கு கிடைக்க இருக்கும் வாக்குகள் மூலமே கொழும்பு மாவட்ட தமிழ் பிரதிநிதித்துவத்தை பாதுகாக்க முடியுமாகும். அதனால் தமிழ் மக்கள் ஒற்றுமையாக செயற்பட்டு தமிழ் பிரதிநிதித்துவத்தை பாதுகாத்துக்கொள்ள நடவடிக்கை எடுக்க வேண்டும்.
+
+...
+
+[Data](articles/c239ed65.json)
 
 ---
 
@@ -759,6 +923,30 @@ The luxury car of the registration number plates and the key should be taken to 
 [Data](articles/a20abe80.json)
 
 [Extended Data](ext_articles/a20abe80.ext.json)
+
+---
+
+### ஜனாதிபதி விழாமல் தாங்கிக்கொள்ளும் தூணாக பாராளுமன்றத்தை தெரிவு செய்து விட வேண்டாம் - சரித ஹேரத்
+
+*2024-10-31 15:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197585) · `ta`
+
+ஜனாதிபதி விழாமல் தாங்கிக் கொள்வதற்கான தூணாக பாராளுமன்றத்தை தெரிவு செய்து விட வேண்டாம்.
+
+தேசிய மக்கள் சக்தி அரசாங்கத்துக்கு அதியுயர் அதிகாரத்தை வழங்கக் கூடாது என முன்னாள் பாராளுமன்ற உறுப்பினர் சரித ஹேரத் வலியுறுத்தினார்.
+
+கொழும்பிலுள்ள  ஐக்கிய மக்கள் கூட்டணி தலைமையகத்தில் வியாழக்கிழமை (31)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+பாராளுமன்றத் தேர்தலுக்கு 14 நாட்களே எஞ்சியுள்ள நிலையில், பல்வேறு சிக்கல்களை எதிர்கொள்ள நேரிட்டுள்ளது.
+
+தற்போது தேசிய மக்கள் சக்தி அல்லது மக்கள் விடுதலை முன்னணிக்கு கிடைத்துள்ள ஜனாதிபதி பதவியை பலப்படுத்துவதற்கு சிறந்த பாராளுமன்றத்தை வழங்குமாறு கோருகின்றனர். பாராளுமன்றம் என்பது அரசியலமைப்பில் மிக முக்கியத்துவம் வாய்ந்த ஒன்றாகும்.
+
+முந்தைய அமைச்சரவையில் எடுக்கப்பட்ட தீர்மானங்கள் தமக்கு அநாவசியமானவை என அரசாங்கம் கூறுகின்றது. அமைச்சரவை தீர்மானங்களை மாற்ற முடியும். ஆனால் அவை எமக்கு தேவையற்றவை எனக் கூற முடியாது.
+
+அமைச்சரவையில் எடுக்கப்பட்ட தீர்மானங்களை உதாசீனப்படுத்த முடியாது என்பதை பிரதமருக்கு கூறிக் கொள்ள விரும்புகின்றோம்.
+
+...
+
+[Data](articles/5fed03af.json)
 
 ---
 
@@ -2277,183 +2465,5 @@ The suspect was arrested while in possession of 6.910 kg of heroin and 1.17 kg o
 [Data](articles/1b085fd7.json)
 
 [Extended Data](ext_articles/1b085fd7.ext.json)
-
----
-
-### Accomplices of ‘Army Chooty’ arrested with drugs worth over Rs. 285 mln
-
-*2024-10-31 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103053/accomplices-of-army-chooty-arrested-with-drugs-worth-over-rs-285-mln-) · `en`
-
-The Police Special Task Force (STF) has arrested two accomplices of the underworld figure known as “Army Chooty,” who is responsible for managing the drug operations of Nandun Chintaka Wickremaratne, also known as ‘Harak Kata’.
-
-The suspects were arrested while in possession of 7.4 kg of heroin and 1.17 kg of ‘ice’ drugs, also known as crystal methamphetamine, with an estimated street value exceeding Rs. 285 million, according to the STF.
-
-Based on information provided by army intelligence, the Police Special Task Force (STF) personnel conducted a joint operation in Piliyandala, leading to a significant drug seizure and multiple arrests.
-
-The operation targeted key figures connected to the notorious drug and organized crime networks of “Hark Kata” and “Army Chooti,” revealing an extensive drug trafficking operation.
-
-During the raid, authorities apprehended two suspects linked to the network: 41-year-old Omalpage Dhammika Saman Kumara and 53-year-old Kankanam Arachchige Sujeewa.
-
-...
-
-[Data](articles/6f7b5c44.json)
-
-[Extended Data](ext_articles/6f7b5c44.ext.json)
-
----
-
-### President attacks Ranil
-
-*2024-10-31 08:05:14* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්ගෙන්-ජනපති-අනුරට-ප්‍රහාරයක්/11-412767) · `si`
-
-Former President Ranil Wickremesinghe criticizes current President's appointment process, saying it undermines democracy. He argues that elected officials should choose their successors, not unelected individuals. Wickremesinghe also expresses concern about military spending and corruption allegations against previous leaders.
-
-🟩
-
-Former President Ranil Wickremesinghe said that the President could not be given to the people of the people to appoint a person who was preferred for Parliament and that the President would not be known as the President.
-
-He made this observation at a gathering in the Dambulla area in the Dambulla area.
-
-Former State Minister Rohana Dissanayake, the Minister of Defense, Hon..
-
-"They have the right to vote for anyone who wants to vote in their own area. But to delegate the right choice for another is a serious question. Parliament is a cave. Who gave him the right to him, and he had fourteen percent and forty-eight percent of eighty percent.
-
-Now you say no privilege needs. In wisest, in whatever country, I've been in Parliament from seven. The MPs need to have some time, where the office should be expensive in other countries, where the states can lead to states and provides the airports.
-
-...
-
-[Data](articles/fe7370db.json)
-
-[Extended Data](ext_articles/fe7370db.ext.json)
-
----
-
-### President’s message on 2024 Diwali Festival
-
-*2024-10-31 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103052/presidents-message-on-2024-diwali-festival) · `en`
-
-President Anura Kumara Dissanayake, in his message for the 2024 Diwali Festival, says that Hindu devotees globally celebrate Diwali with deep reverence, marking the victory of light over darkness.
-
-He stated that this festival serves as a symbol of hope, joy, and the triumph of good over evil, uniting communities in a spirit of harmony and celebration.
-
-He observes that, similarly, Sri Lankans have long sought progress amidst challenges since independence, and today, new hope is emerging as long-suppressed aspirations come to life.
-
-"Now, fresh hope is emerging as the realization of their long-held hopes." The President stated that we have entered an era of renaissance, where the aspirations of the people, which were suppressed by past rulers, are finally coming to the forefront.
-
-...
-
-[Data](articles/3b8d6452.json)
-
-[Extended Data](ext_articles/3b8d6452.ext.json)
-
----
-
-### Quick anger deprives a life of a life
-
-*2024-10-31 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202755) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Woman injured at Wariyapola Hospital due to sharp object attack. Victim, 52-year-old from Wagolla, Bandakrakoswatta. Suspect arrested after heated argument over land dispute.
-
-🟩
-
-A woman was injured at Wariyapola Hospital, a woman was injured in a sharp object in the Wariyapola area in Wariyapola.
-
-The victim is a 52 year old resident of the Wagolla, Bandakrakoswatta.
-
-The suspect and the suspect have been alive in two houses in a state land and the suspect had been assaulted by a heated argument with a heated argument.
-
-A resident of the area has been arrested by the police 66 years of age.
-
-◼️
-
-[Data](articles/e5f40b16.json)
-
-[Extended Data](ext_articles/e5f40b16.ext.json)
-
----
-
-### Spain battles deadliest flood disaster in decades as death toll rises to 95
-
-*2024-10-31 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103051/spain-battles-deadliest-flood-disaster-in-decades-as-death-toll-rises-to-95) · `en`
-
-Spain is enduring its worst flooding disaster in decades, with at least 95 people dead and dozens more missing, after huge rains swept the eastern province of Valencia and beyond.
-
-Torrential rain on Tuesday triggered flash floods which swept away bridges and buildings and forced people to climb on to roofs or cling to trees to survive.
-
-Prime Minister Pedro Sánchez has declared three days of national mourning as the extreme conditions continue, restricting some rescue efforts.
-
-The death toll is feared to climb as “there are many missing people”, the government says.
-
-At least 92 deaths were recorded in Valencia, with another two in Castilla-La Mancha to Valencia’s west and one in Málaga - a 71-year-old British man who died in hospital after being rescued from his home.
-
-The flooding death toll is the country’s worst since 1973, when at least 150 people were estimated to have died in the nation’s worst-ever floods in the south-east.
-
-...
-
-[Data](articles/ca5c63fc.json)
-
-[Extended Data](ext_articles/ca5c63fc.ext.json)
-
----
-
-### Coconut shortage from April next year
-
-*2024-10-31 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202754) · `si`
-
-Coconut shortage predicted from April 2024 due to declining palm oil production in the country, according to Palm Research Institute.
-
-🟩
-
-රට තුළ පොල් නිෂ්පාදනයේ අඩුවීම ලබන වසරේ අප්‍රේල් දක්වා පවතිනු ඇති බව පොල් පර්යේෂණ ආයතනය පවසයි.
-
-◼️
-
-[Data](articles/c6f521d8.json)
-
-[Extended Data](ext_articles/c6f521d8.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-10-31 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103050/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island for the next few days starting from today (31).
-
-Showers or thundershowers will occur in the most parts of the island during the evening or night. Showers or thundershowers may occur at several places in Northern and Eastern provinces during the morning too, it added.
-
-Fairly heavy showers above 75 mm are likely at some places in Uva, Eastern and North-central provinces.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/ab9e7ff1.json)
-
-[Extended Data](ext_articles/ab9e7ff1.ext.json)
-
----
-
-### Railway strike ends
-
-*2024-10-31 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-අවසන්/11-412766) · `si`
-
-Railway strike ends: Station Masters Association cancels strike midnight yesterday. Steps taken to minimize Deepavali ceremony disruptions.
-
-🟩
-
-The strike commenced by the Station Masters Association has been canceled from midnight yesterday.
-
-The program has taken steps to prevent the people inconvenienced due to the Deepavali ceremony today.
-
-◼️
-
-[Data](articles/e3e5ed7d.json)
-
-[Extended Data](ext_articles/e3e5ed7d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 22:39:45**
+As of **2024-10-31 22:58:42**
 
 ## Newspaper Stats
 
-*Scraped **52,431** Articles*
+*Scraped **52,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
-tamilmirrorlk | 7,268
+tamilmirrorlk | 7,269
 virakesarilk | 8,467
 adaderanasinhalalk | 9,130
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,431 (100.0%) of 52,431 articles have been extended.
+52,432 (100.0%) of 52,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Explanation order to Lohan
+
+*2024-10-31 22:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானுக்கு-விளக்கமறியல்-உத்தரவு/175-346376) · `ta`
+
+Lohan Ratwatte, former Sri Lankan state minister, remanded till July 7 over unregistered vehicle arrest.
+
+🟩
+
+Former State Minister Lohan Ratwatte has been remanded until the 7th of this month.
+
+Former Minister of State Lohan Ratwatte was arrested today in connection with the discovery of a car without a number. Remble
+
+◼️
+
+[Data](articles/1da0f487.json)
+
+[Extended Data](ext_articles/1da0f487.ext.json)
+
+---
 
 ### Former state minister Lohan Ratwatte remanded
 
@@ -2499,29 +2519,5 @@ Did the dead young girl drive from the bathing?The fallen?Investigations are car
 [Data](articles/f09bcbe9.json)
 
 [Extended Data](ext_articles/f09bcbe9.ext.json)
-
----
-
-### Bird flu flu for first time in America
-
-*2024-10-31 08:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202757) · `si`
-
-First reported case of bird flu in American pigs. Virus found in Oregon farm. Two additional pigs tested for research. Bird flu spread among birds since 2020.
-
-🟩
-
-The US for the first time in the US, the US has been identified for the first time.
-
-අමෙරිකාවේ ඔරිගන් ප්‍රාන්තයේ ගොවිපොළක රඳවා සිටි ඌරෙකු හට මෙලෙස කුරුළු උණ වැලඳී ඇති බවට අනාවරණය වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
-
-Two other pigs who have stayed with the pigs have been referred to research to find out about the virus.
-
-The bird virus had spread among birds from 2020.
-
-◼️
-
-[Data](articles/4c553804.json)
-
-[Extended Data](ext_articles/4c553804.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 14:12:05**
+As of **2024-10-31 14:25:07**
 
 ## Newspaper Stats
 
-*Scraped **52,373** Articles*
+*Scraped **52,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,870
+adalk | 4,872
 adaderanalk | 6,218
 tamilmirrorlk | 7,258
 virakesarilk | 8,452
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,121
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,373 (100.0%) of 52,373 articles have been extended.
+52,375 (100.0%) of 52,375 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,30 @@ The leader of the universal authority (Gampaha District candidate) entrepreneurs
 [Data](articles/b06d9c3a.json)
 
 [Extended Data](ext_articles/b06d9c3a.ext.json)
+
+---
+
+### Over 8450 customs investigations have stopped
+
+*2024-10-31 13:01:03* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-විමර්ශන-8450-ක්-වසර-ගණනාවක්-තිස්සේ--ඇනහිටලා/11-412775) · `si`
+
+Sri Lanka Customs: 8450 unresolved investigations over 10 years due to delays, corruption, and officer misconduct. Audit recommends addressing root causes.
+
+🟩
+
+The National Audit Office reveals that 8450 customs investigations conducted by various aspects of the Sri Lanka Customs have been unresolved for many years.
+
+Taking 3080 years, 4348 years, 4348 years, 4348 years, audit report shows that 1022 years ago, audit report on Customs.
+
+The main number of Customs has informed the audit that these investigations from 2015 to the beginning of this year.
+
+The audit is recommended that the investigation has arisen as the degradation of goods were delayed by delay, degradation, degradation, spies and officers.
+
+◼️
+
+[Data](articles/f43215bc.json)
+
+[Extended Data](ext_articles/f43215bc.ext.json)
 
 ---
 
@@ -135,6 +159,24 @@ With the present parliamentary election, they have launched an inquiry into the 
 [Data](articles/f0e37dde.json)
 
 [Extended Data](ext_articles/f0e37dde.ext.json)
+
+---
+
+### Lohan Ratwatte arrested - the reason behind
+
+*2024-10-31 12:46:46* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-අත්අඩංගුවට---හේතුව-මෙන්න/11-412774) · `si`
+
+Lohan Ratwatte arrested for driving unlicensed vehicle in Nugegoda.
+
+🟩
+
+He was arrested in the case of finding a car without number plates in Nugegoda.
+
+◼️
+
+[Data](articles/eed79f70.json)
+
+[Extended Data](ext_articles/eed79f70.ext.json)
 
 ---
 
@@ -2283,53 +2325,5 @@ It is also reported that unused new books have not been used.
 [Data](articles/1c8e8310.json)
 
 [Extended Data](ext_articles/1c8e8310.ext.json)
-
----
-
-### The largest tax increase in Britain
-
-*2024-10-30 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202745) · `si`
-
-Here's a 200-character summary:
-
-
-
-Britain's new finance minister unveiled a record-breaking tax hike in today's budget. The 40 billion pound annual increase is the largest in three decades. Critics accuse the government of targeting public services.
-
-🟩
-
-The new money ministers in Britain presented their first budget today (30).
-
-The specialty is that it has proposed the largest tax increase which was introduced to a British government within 30 years.
-
-Reeves accused the last conservative control by submitting his budget proposals. The public service accused the public service.
-
-Accordingly, taxes will be increased by 40 billion per year.
-
-◼️
-
-[Data](articles/df738a05.json)
-
-[Extended Data](ext_articles/df738a05.ext.json)
-
----
-
-### Dumariya strike an explanation from the department
-
-*2024-10-30 20:58:21* · [`adalk`](https://www.ada.lk/breaking_news/දුමරිය-වර්ජනය-පිළිබඳ-දෙපාර්තමේන්තුවෙන්-පැහැදිලි-කිරීමක්/11-412765) · `si`
-
-Railway Station Association strike: Department issues statement. Committee formed to address Station Masters' concerns.
-
-🟩
-
-The Railways has issued a statement regarding the strike initiated by the Railway Station Association.
-
-The procedure action has been launched in advance to appoint a committee to resolve the problems faced by the Station Masters Association.
-
-◼️
-
-[Data](articles/dcfb7aed.json)
-
-[Extended Data](ext_articles/dcfb7aed.ext.json)
 
 ---

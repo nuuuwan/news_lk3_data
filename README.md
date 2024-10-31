@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 15:40:00**
+As of **2024-10-31 15:58:57**
 
 ## Newspaper Stats
 
-*Scraped **52,381** Articles*
+*Scraped **52,387** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
-colombotelegraphcom | 531
+colombotelegraphcom | 532
 bbccomsinhala | 535
 islandlk | 3,118
 economynextcom | 3,181
@@ -19,18 +19,48 @@ dailymirrorlk | 4,733
 adalk | 4,874
 adaderanalk | 6,221
 tamilmirrorlk | 7,258
-virakesarilk | 8,452
-adaderanasinhalalk | 9,122
+virakesarilk | 8,456
+adaderanasinhalalk | 9,123
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,381 (100.0%) of 52,381 articles have been extended.
+52,385 (100.0%) of 52,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### LAHON BUYs the Ratwatte to Mirihana
+
+*2024-10-31 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202771) · `si`
+
+Former State Minister Lohan Ratwatte arrested over unregistered car in Mirihana. Police seized vehicle after court order. Incident linked to wife's family history.
+
+🟩
+
+Former State Minister Lohan Ratwatte, who was arrested in the Kandy area, has been taken to the Mirihana Police.
+
+Former State Minister LAAON Ratwatte was arrested regarding the discovery of a car without number plates despite his wife in Mirihana, Nugegoda.
+
+The relevant car without registration number plates was found last 26.
+
+According to the police headquarters, the wife of the Mirihana Hall, the wife of former Minister of State LAHYRAHATHTAGE, has a luxury car in the Mirihana Hall.
+
+According to the information, the Mirihana Police were later reported to the Nugegoda Magistrate's Court and then visited the vehicle.
+
+The former minister's wife's wife's wife's wife's wife's wife's wife's wife's wife's mother, who was shot dead in Katugastota, was brought to the house of Katugastota several days ago.
+
+The luxury car of the registration number plates and the key should be taken to the Mirihana Police.
+
+◼️
+
+[Data](articles/a20abe80.json)
+
+[Extended Data](ext_articles/a20abe80.ext.json)
+
+---
 
 ### Special measles vaccination program next week
 
@@ -53,6 +83,62 @@ Additionally, health officials warn that those who have not received the vaccine
 [Data](articles/c711d9a9.json)
 
 [Extended Data](ext_articles/c711d9a9.ext.json)
+
+---
+
+### The new state also speaks of Sinhala nationalism - wealthy!
+
+*2024-10-31 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197581) · `ta`
+
+Sinhala nationalism debate post-elections. Former MP Selvam Adakkalanathan discusses Tamil unity, public servant salaries, corruption investigations, and JVP's role in Sinhala nationalism. Tamil parties face challenges in public category contests.
+
+🟩
+
+The Anura government and the Sinhalese argument will be seen after the election, said Selvam Adakkalanathan, a former parliamentarian and the Vannimawatta Democratic Tamil coalition candidate.
+
+He was speaking to the media at his office in Vavuniya on Thursday (31).
+
+The resources published by the Association of Disappeared Relations on the Unity of Tamil. We accept it.
+
+In this election, all of us, the Tamil parties, were trying to contest a public category. It is not possible.
+
+So it destroys the pain.. We will continue to make efforts to get others.
+
+When people teach the lesson, there may be opportunities for unity.
+
+In the last government, a pay hike for public servants has been announced. But this government and the new president are commenting on it.
+
+Therefore, the salary that is said to be increased for public servants should be increased. Our party will continue to voice this.
+
+...
+
+[Data](articles/8be8b74a.json)
+
+[Extended Data](ext_articles/8be8b74a.ext.json)
+
+---
+
+### Arrested with expensive gemstones
+
+*2024-10-31 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197580) · `ta`
+
+A 50-year-old man was arrested in Sri Lanka's Aralangwila area on suspicion of theft. He was found with five valuable gemstones during an investigation. The arrest occurred on Wednesday, March 30th, in the Nikavadalantha region under the Aralangwila Police Division.
+
+🟩
+
+The suspect has been arrested on Wednesday (30) with five expensive gem stones in Nikavadalantha area belonging to the Aralangwila Police Division, Aralangwila police said.
+
+The suspect has been arrested in connection with the information received by the Aralangwila police.
+
+The arrested suspect is a 50 -year -old from Tehiyakatta.
+
+An investigation into the suspect revealed that the gemstones were found during the pit.
+
+◼️
+
+[Data](articles/41ef37cf.json)
+
+[Extended Data](ext_articles/41ef37cf.ext.json)
 
 ---
 
@@ -118,6 +204,80 @@ The health sectors point out that the personnel are not available, as well as on
 
 ---
 
+### Anurakumara Dissanayake and the creation of the national people's power
+
+*2024-10-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197579) · `ta`
+
+Based on the detailed historical and political analysis provided, here are the key points regarding the JVP and its evolution:
+
+
+
+1. The JVP initially pursued revolutionary violence but shifted towards democratic methods after the armed conflicts in 1971 and 1988-90.
+
+
+
+2. In the 2015 parliamentary election, the JVP received 543,944 votes (4.8%) and won six seats.
+
+
+
+3. The party contested alone in 2015 instead of joining an opposition coalition.
+
+
+
+4. In the 2018 local government elections, the JVP received 693,875 votes (6.27%) but failed to capture any councils.
+
+
+
+5. The JVP formed the National People's Power alliance in 2019, led by Anura Kumara Dissanayake.
+
+
+
+6. In the 2019 presidential election, Anura Kumara Dissanayake received 418,563 votes (3.15%) as the National People's Power candidate.
+
+
+
+7. In the 2020 parliamentary election, the National People's Power received 445,958 votes (3.84%), winning three seats.
+
+
+
+8. Despite efforts to increase its vote bank, the JVP has struggled to overcome its status as the third political power in Sri Lanka.
+
+
+
+9. Anura Kumara Dissanayake has been instrumental in changing the electoral strategy and enriching his political image within the party.
+
+
+
+10. The JVP continues to maintain its independence and does not want to form coalitions or alliances with other parties, preferring to lead as an equal partner.
+
+
+
+The analysis suggests that while the JVP has made some progress in recent years, it still faces challenges in increasing its vote share and electoral performance compared to the major political parties in Sri Lanka.
+
+🟩
+
+This is the fourth part of my article on Sri Lanka's new President Anura Kumara Dissanayake.
+
+In the first part, I wrote about his gradual development in the second part of the Janata Vimukthi Peramuna (JVP) in the second part and his rise to the JVP leadership in the third part.
+
+The JVP led by Dissanayake in this fourth part. Let me explain how the national people's power was transformed into a party.
+
+Anura Kumara Dissanayake is an important day on February 2, 2014. It was on that day that the 17th National Conference of the JVP was held.
+
+The change in the leadership of the party was the best of the conference. Somawansa Amarasinghe, who has been the leader of the JVP for 24 years, took over.
+
+Anura or AKD. Anura Kumara Dissanayake, popularly known, arrived as the new leader of the JVP.
+
+It was generally revealed before the conference that Somawansa is going to retire from the post of Chairman.
+
+...
+
+[Data](articles/7993262b.json)
+
+[Extended Data](ext_articles/7993262b.ext.json)
+
+---
+
 ### Car into rocky cavity: Death of family
 
 *2024-10-31 13:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறை-குழிக்குள்-கார்-குடும்பஸ்தர்-மரணம்/175-346360) · `ta`
@@ -155,6 +315,22 @@ Arrests in the Old Section of the Boossa High Security PrisonWith the loss of 15
 [Data](articles/9b740e26.json)
 
 [Extended Data](ext_articles/9b740e26.ext.json)
+
+---
+
+### பனை அபிவிருத்திச் சபையில் தேர்தல் சட்டங்கள் மீறப்பட்டுள்ளன - தேர்தல் ஆணைக்குழுவில் ட்ரான்ஸ்பேரன்சி இன்டர்நெஷனல் ஸ்ரீலங்கா முறைப்பாடு
+
+*2024-10-31 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197572) · `ta`
+
+தேர்தல் சட்டங்களுக்கு முரணான வகையில் அண்மையில் யாழ்ப்பாணத்தில் உள்ள பனை அபிவிருத்திச் சபையினால் (PDB) மேற்கொள்ளப்பட்ட நியமனங்கள் தொடர்பில், செவ்வாய்க்கிழமை ( 29 )  ட்ரான்ஸ்பேரன்சி இன்டர்நெஷனல் ஸ்ரீலங்கா (TISL) நிறுவனமானது, இலங்கை தேர்தல்கள் ஆணைக்குழுவிடம் (ECSL) முறைப்பாடு செய்துள்ளது.
+
+ஒக்டோபர் 10 ஆம் திகதி அன்று பனை அபிவிருத்திச் சபையின் (PDB) தலைவர் பதவிக்கு செல்வின் இரேனியஸ் மரியாம்பிள்ளை நியமிக்கப்பட்டதோடு, அதைத் தொடர்ந்து 12 நாட்கள் இடைவெளியில் அவர் நீக்கப்பட்டு, அவருக்குப் பதிலாக விநாயகமூர்த்தி சகாதேவன், ஒக்டோபர் 22 அன்று அதே பதவிக்கு நியமிக்கப்பட்டார்.
+
+மேலும், தேர்தல்கள் ஆணைக்குழு விதித்துள்ள தடைகளுக்கு மத்தியிலும் தலைவர்கள் மாற்றம் மற்றும் பல புதிய நிர்வாக சபை உறுப்பினர்களை நியமிப்பதற்கு பொறுப்பான அமைச்சர் அனுமதி அளித்துள்ளதாக தெரிவிக்கப்படுகிறது.
+
+...
+
+[Data](articles/a2469a0b.json)
 
 ---
 
@@ -1159,6 +1335,18 @@ The arrested were arrested by the 38 -year -old Balakrishnan Rajeswari and his b
 [Data](articles/c6b499a6.json)
 
 [Extended Data](ext_articles/c6b499a6.ext.json)
+
+---
+
+### Towards Stability, Equity & Prosperity: Part III
+
+*2024-10-31 09:26:19* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-iii/) · `en`
+
+The public appears to be pleased with most of the measures the President and the interim Cabinet have taken in this regard. Yet there is much more to be done. The recent allegations made against the NPP that its economic policy framework envisages a protectionist economy is also baseless. Ensuring food, energy and water security does not require an economy to be protectionist. Many developed and neo-liberal economies that are said to be open, have resorted to such economic strategies.
+
+...
+
+[Data](articles/21429c79.json)
 
 ---
 
@@ -2217,103 +2405,5 @@ CIPM Sri Lanka – the Nation’s leader in human resource management, was a con
 [Data](articles/a4ca0e97.json)
 
 [Extended Data](ext_articles/a4ca0e97.ext.json)
-
----
-
-### Smartest and most customisable Life Insurance solution for every lifestyle
-
-*2024-10-30 22:54:00* · [`islandlk`](http://island.lk/smartest-and-most-customisable-life-insurance-solution-for-every-lifestyle/) · `en`
-
-AIA Insurance proudly announces the launch of AIA SaveSmart, the smartest and highly customisable life insurance plan designed to meet the diverse financial needs of Sri Lankans at every stage of life. Whether saving for a child’s higher education or planning for a dream retirement, AIA SaveSmart offers the most flexible and accessible solution tailored to individual savings goals.
-
-AIA SaveSmart stands out as the smartest choice for anyone looking to secure their financial future. The plan can be uniquely tailored to the specific nature of the customer’s savings requirements, providing unparalleled flexibility. From funding a child’s education to building a health fund or planning for retirement, AIA SaveSmart caters to the savings needs of different generations, ensuring a comprehensive solution that grows with you.
-
-...
-
-[Data](articles/1189edcf.json)
-
-[Extended Data](ext_articles/1189edcf.ext.json)
-
----
-
-### NDB NEOS Corporate drives NDB’s victory as Sri Lanka’s Best Bank for Corporates at Euromoney Awards 2024
-
-*2024-10-30 22:52:00* · [`islandlk`](http://island.lk/ndb-neos-corporate-drives-ndbs-victory-as-sri-lankas-best-bank-for-corporates-at-euromoney-awards-2024/) · `en`
-
-National Development Bank PLC (NDB) has been named Sri Lanka’s Best Bank for Corporates at the Euromoney Awards 2024, highlighting the bank’s unparalleled commitment to supporting businesses across various sectors.
-
-The Euromoney Awards are known for their rigorous assessment process, and NDB’s victory in the Best Bank for Corporates category is a reflection of the bank’s continuous efforts to provide value-added services for corporate clients, including large enterprises, small and medium-sized enterprises (SMEs), and emerging businesses.
-
-NDB’s Corporate Banking capabilities are rooted in understanding the specific needs of businesses. NDB’s NEOS Corporate, a cutting-edge platform that is redefining corporate banking in Sri Lanka, offers an advanced suite of online payment solutions and cash management tools and also provides seamless control over domestic and international transactions, bulk payments, and salary disbursements.
-
-...
-
-[Data](articles/e3452d20.json)
-
-[Extended Data](ext_articles/e3452d20.ext.json)
-
----
-
-### Pan Asia Bank posts an impressive financial performance
-
-*2024-10-30 22:51:00* · [`islandlk`](http://island.lk/pan-asia-bank-posts-an-impressive-financial-performance/) · `en`
-
-Pan Asia Banking Corporation PLC reported a resilient financial performance for the 9-month period ended 30th September 2024 amidst diverse challenges emerging from the improved but challenging macro-economic environment. The Bank’s financial performance in the current period demonstrated excellence in core banking performance, judicious portfolio management and prudency in navigating a possible fallout on its asset quality.
-
-Supported by improved net interest income, fee & commission income and other operating income and reduced credit costs, the Bank reported a Pre-tax Profit of Rs. 3.22 Bn for the 9 months period ended 30th September 2024, which is 52% increase compared to the corresponding period last year.
-
-...
-
-[Data](articles/72643e19.json)
-
-[Extended Data](ext_articles/72643e19.ext.json)
-
----
-
-### CSE turnover hits Rs. 7 billion mark accompanied by notable number of crossings
-
-*2024-10-30 22:49:00* · [`islandlk`](http://island.lk/cse-turnover-hits-rs-7-billion-mark-accompanied-by-notable-number-of-crossings/) · `en`
-
-The stock market’s performance was volatile yesterday but the banking sector performed well throughout the day. Furthermore, turnover touched the Rs 7 billion mark with the most number of crossings together with a higher number of trades, market analysts said.
-
-The All Share Price Index went up by 24.58 points, while the S and P SL20 rose by 12.43 points. Turnover stood at Rs 7 billion with 15 crossings.
-
-...
-
-[Data](articles/b5973310.json)
-
-[Extended Data](ext_articles/b5973310.ext.json)
-
----
-
-### The railway station principals abandoned the struggle
-
-*2024-10-30 22:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராட்டத்தை-கைவிட்டனர்-புகையிரத-நிலைய-அதிபர்கள்/175-346340) · `ta`
-
-Railway station principals end strike during Diwali festival. Trade union action abandoned midnight due to celebrations. Association president cites festive timing for decision.
-
-🟩
-
-Trade union action launched by the Railway Station Principals across the country has been reported to be abandoned at midnight today.
-
-The president of the association said that the decision was taken on the occasion of the Diwali festival.. Remble
-
-◼️
-
-[Data](articles/514ce414.json)
-
-[Extended Data](ext_articles/514ce414.ext.json)
-
----
-
-### Strategic Priorities & Prudent Way Forward Measures
-
-*2024-10-30 22:38:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strategic-priorities-prudent-way-forward-measures/) · `en`
-
-...
-
-[Data](articles/3f0edfdf.json)
-
-[Extended Data](ext_articles/3f0edfdf.ext.json)
 
 ---

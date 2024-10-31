@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 05:46:13**
+As of **2024-10-31 07:28:24**
 
 ## Newspaper Stats
 
-*Scraped **52,297** Articles*
+*Scraped **52,299** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,45 @@ dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,861
 adaderanalk | 6,202
-tamilmirrorlk | 7,248
+tamilmirrorlk | 7,249
 virakesarilk | 8,442
-adaderanasinhalalk | 9,104
+adaderanasinhalalk | 9,105
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,297 (100.0%) of 52,297 articles have been extended.
+52,299 (100.0%) of 52,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Rain from today
+
+*2024-10-31 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202750) · `si`
+
+Heavy rain expected in Sri Lanka. Showers/thunderstorms forecasted for evening/night. Possible strong winds and lightning. Meteorological Department advises caution.
+
+🟩
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් අද (31) සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+Showers or thundershowers will occur at the evening or night in many parts of the island.
+
+Showers or thundershowers will occur at several places in the North and East.
+
+Uva, East and North-Central provinces. Heavy rains can occur at more than 75.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට වැඩිදුරටත් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/72fb3888.json)
+
+[Extended Data](ext_articles/72fb3888.ext.json)
+
+---
 
 ### Gammanpila to launch campaign to collect signatures for public petition against misuse of law
 
@@ -361,6 +387,30 @@ The JVP-NPP has shrunk slightly (47%) in comparison with its Elpitiya vote in Se
 [Data](articles/295e07f3.json)
 
 [Extended Data](ext_articles/295e07f3.ext.json)
+
+---
+
+### Maldivian High Commissioner
+
+*2024-10-31 01:39:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-செயலாளருக்கும்-மாலைதீவு-உயர்ஸ்தானிகர்-சந்திப்பு/175-346343) · `ta`
+
+Maldivian High Commissioner Masood Imad met Sri Lanka's President at Presidential Secretariat. Maldives President invited High Commissioner to visit Sri Lanka soon. Discussion covered strengthening bilateral friendship, tourism, health, education cooperation between countries.
+
+🟩
+
+The President's Secretariat was held at the Presidential Secretariat yesterday afternoon between Dr. Nandika Sanath Kumanayake and Maldivian High Commissioner Masood Imad.
+
+The Maldivian President told the President of the Maldivian High Commissioner to visit Sri Lanka soon.
+
+இரு நாடுகளுக்கும் இடையிலான நீண்டகால நட்புறவை மேலும் வலுப்படுத்துவது குறித்து இதன்போது விரிவாக கலந்துரையாடப்பட்டது.
+
+In addition, the Maldives and Sri Lanka's tourism, health and education are also discussed.. (a)
+
+◼️
+
+[Data](articles/d1d88f40.json)
+
+[Extended Data](ext_articles/d1d88f40.ext.json)
 
 ---
 
@@ -2241,59 +2291,5 @@ Johnston Fernando, who was remanded, has been released on bail.
 [Data](articles/4bbd9f14.json)
 
 [Extended Data](ext_articles/4bbd9f14.ext.json)
-
----
-
-### Terrorist Threat to Israeli Tourists - Shock
-
-*2024-10-30 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197489) · `ta`
-
-Security threat forces Israeli tourists to leave Sri Lanka's Augamguda beach due to potential terrorist attacks linked to conflicts in Gaza and Lebanon.
-
-🟩
-
-The golden sands of Augamguda are usually dangerous and tourists who come to Sri Lanka on vacation, for swimming, maritime games and spending time on the coast.
-
-The US embassy in Sri Lanka and the Sri Lankan police and Israel's National Security Council have issued a massive security threat in the area.
-
-Officials assumed that Israeli tourists were seen as a target of the attack, which requested them to leave immediately.
-
-Since then, hundreds of police and intelligence agencies have entered the small city. They are currently engaged in patrols.
-
-Although the Sri Lankan police and ministers do not provide clear issues on the threat in Augamguda, it is clear that it is related to the wars in Gaza and Lebanon.
-
-Unknown officials said that the attack was formed in Iran to avenge Israel's attack in the Middle East.
-
-Many sides have been involved in a clash in the Middle East since October last October, said a press conference.
-
-...
-
-[Data](articles/ff0ce55e.json)
-
-[Extended Data](ext_articles/ff0ce55e.ext.json)
-
----
-
-### The Advanced Level Examination will be held as planned - the Department of Examinations
-
-*2024-10-30 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197485) · `ta`
-
-GCE Advanced Level Exam 2024: Scheduled Nov 25-Dec 20. Official announcement on Examination Department website. Ignore social media rumors.
-
-🟩
-
-The Department of Examinations said on Wednesday (30) that the GCE Advanced Level Examination for 2024 will not be retreated.
-
-Accordingly, the Commissioner General of Examinations Amit Jayasundara said that the Education General Association will be held from November 25 to December 20.
-
-Students should download the examination schedule from the official website of the Department of Examination.
-
-So, please note only the official announcements and circular issued on the Examination Department and its official website.Don't believe the fake information shared on social media.
-
-◼️
-
-[Data](articles/905ef3fe.json)
-
-[Extended Data](ext_articles/905ef3fe.ext.json)
 
 ---

@@ -1,36 +1,100 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 08:25:04**
+As of **2024-10-31 08:46:16**
 
 ## Newspaper Stats
 
-*Scraped **52,316** Articles*
+*Scraped **52,323** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 531
-bbccomsinhala | 534
+bbccomsinhala | 535
 islandlk | 3,118
 economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,861
-adaderanalk | 6,204
-tamilmirrorlk | 7,250
+adalk | 4,863
+adaderanalk | 6,206
+tamilmirrorlk | 7,251
 virakesarilk | 8,442
-adaderanasinhalalk | 9,107
+adaderanasinhalalk | 9,108
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,301 (100.0%) of 52,316 articles have been extended.
+52,312 (100.0%) of 52,323 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Accomplice of ‘Army Chooty’ arrested with drugs worth over Rs. 210 mln
+
+*2024-10-31 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103053/accomplice-of-army-chooty-arrested-with-drugs-worth-over-rs-210-mln-) · `en`
+
+The Police Special Task Force (STF) has arrested an accomplice of the underworld figure know as “Army Chooty,” who is responsible for managing the drug operations of Nandun Chintaka Wickremaratne, also known as ‘Harak Kata’.
+
+The suspect was arrested while in possession of 6.910 kg of heroin and 1.17 kg of ‘ice’ drugs, also known as crystal methamphetamine, with an estimated street value exceeding Rs. 210 million, according to the STF.
+
+◼️
+
+[Data](articles/1b085fd7.json)
+
+[Extended Data](ext_articles/1b085fd7.ext.json)
+
+---
+
+### President’s message on 2024 Diwali Festival
+
+*2024-10-31 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103052/presidents-message-on-2024-diwali-festival) · `en`
+
+President Anura Kumara Dissanayake, in his message for the 2024 Diwali Festival, says that Hindu devotees globally celebrate Diwali with deep reverence, marking the victory of light over darkness.
+
+He stated that this festival serves as a symbol of hope, joy, and the triumph of good over evil, uniting communities in a spirit of harmony and celebration.
+
+He observes that, similarly, Sri Lankans have long sought progress amidst challenges since independence, and today, new hope is emerging as long-suppressed aspirations come to life.
+
+"Now, fresh hope is emerging as the realization of their long-held hopes." The President stated that we have entered an era of renaissance, where the aspirations of the people, which were suppressed by past rulers, are finally coming to the forefront.
+
+...
+
+[Data](articles/3b8d6452.json)
+
+[Extended Data](ext_articles/3b8d6452.ext.json)
+
+---
+
+### Quick anger deprives a life of a life
+
+*2024-10-31 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202755) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Woman injured at Wariyapola Hospital due to sharp object attack. Victim, 52-year-old from Wagolla, Bandakrakoswatta. Suspect arrested after heated argument over land dispute.
+
+🟩
+
+A woman was injured at Wariyapola Hospital, a woman was injured in a sharp object in the Wariyapola area in Wariyapola.
+
+The victim is a 52 year old resident of the Wagolla, Bandakrakoswatta.
+
+The suspect and the suspect have been alive in two houses in a state land and the suspect had been assaulted by a heated argument with a heated argument.
+
+A resident of the area has been arrested by the police 66 years of age.
+
+◼️
+
+[Data](articles/e5f40b16.json)
+
+[Extended Data](ext_articles/e5f40b16.ext.json)
+
+---
 
 ### Spain battles deadliest flood disaster in decades as death toll rises to 95
 
@@ -52,17 +116,25 @@ The flooding death toll is the country’s worst since 1973, when at least 150 p
 
 [Data](articles/ca5c63fc.json)
 
+[Extended Data](ext_articles/ca5c63fc.ext.json)
+
 ---
 
-### පොල් හිඟය ලබන වසරේ අප්‍රේල් දක්වා
+### Coconut shortage from April next year
 
 *2024-10-31 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202754) · `si`
+
+Coconut shortage predicted from April 2024 due to declining palm oil production in the country, according to Palm Research Institute.
+
+🟩
 
 රට තුළ පොල් නිෂ්පාදනයේ අඩුවීම ලබන වසරේ අප්‍රේල් දක්වා පවතිනු ඇති බව පොල් පර්යේෂණ ආයතනය පවසයි.
 
 ◼️
 
 [Data](articles/c6f521d8.json)
+
+[Extended Data](ext_articles/c6f521d8.ext.json)
 
 ---
 
@@ -81,6 +153,28 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/ab9e7ff1.json)
+
+[Extended Data](ext_articles/ab9e7ff1.ext.json)
+
+---
+
+### Railway strike ends
+
+*2024-10-31 07:29:04* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-වර්ජනය-අවසන්/11-412766) · `si`
+
+Railway strike ends: Station Masters Association cancels strike midnight yesterday. Steps taken to minimize Deepavali ceremony disruptions.
+
+🟩
+
+The strike commenced by the Station Masters Association has been canceled from midnight yesterday.
+
+The program has taken steps to prevent the people inconvenienced due to the Deepavali ceremony today.
+
+◼️
+
+[Data](articles/e3e5ed7d.json)
+
+[Extended Data](ext_articles/e3e5ed7d.ext.json)
 
 ---
 
@@ -454,6 +548,54 @@ Given the parliamentary election on 14 November 2024, the public can hear unique
 
 ---
 
+### The story behind the vocabulary between Ranil and Harani
+
+*2024-10-31 02:41:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgk1jgp0gjko) · `si`
+
+Here's a 200-character summary:
+
+
+
+Former President Ranil Wickremesinghe and Professor Harini Amarasuriya clash over public servant salary increases. Wickremesinghe denies violating election laws, while Amarasuriya accuses him of making false promises. Both sides question each other's constitutional authority and experience in governance.
+
+🟩
+
+On October 29, former President Ranil Wickremesinghe held in a campaign meeting in Pannala, Professor Harini Amarasuriya is a statement.
+
+He responded that the Prime Minister was based on October 27 on October 27.
+
+Accordingly, an alleged war between the former President and the present Prime Minister insists that there is growing.
+
+Speaking at a public meeting in Padukka, Amarasuriya expressed his views that the salaries of public servants increased by the false promise of "a false promise."
+
+"Now Ranil Wickremesinghe has decided to increase the salaries of public servants, but the decision of the Cabinet decision at the Cabinet discussion is not approved by the Treasury or the Treasury.. The decision was made, but the decision was taken to make the decision to be implemented, but not done. What does that mean then?Clearly, it is a false promise in the election period, to mislead the people. "
+
+Is the presidential announcement on salaries of public servants violating election laws?
+
+...
+
+[Data](articles/b8954339.json)
+
+[Extended Data](ext_articles/b8954339.ext.json)
+
+---
+
+### சஜித் பிரேமதாச தீபத் திருநாள் வாழ்த்து
+
+*2024-10-31 02:11:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-பிரேமதாச-தீபத்-திருநாள்-வாழ்த்து/175-346345) · `ta`
+
+அறியாமை இருளை அகற்றி ஞானத்தின் ஒளியால் உலகமே ஒளிமயமாகட்டும். உலகெங்கிலும் உள்ள இந்து மக்களின் இதயங்களை ஒளிமயமாக்கும் தீபாவளி திருநாளை முன்னிட்டு, இலங்கை மற்றும் உலகெங்கிலும் வாழும் இந்து மக்களுக்கு வாழ்த்துக்களைத் தெரிவிப்பதில் மிகவும் மகிழ்ச்சி அடைகிறேன் என்று ஐக்கிய மக்கள் சக்தித் தலைவர்  சஜித் பிரேமதாச  விடுத்துள்ள தீபாவளி வாழ்த்துச் செய்தியில் தெரிவித்துள்ளார்.
+
+பெரும் இருளை ஒரு சிறு விளக்கொளியால் அகற்ற முடியும். அதற்குத் தேவையானது சரியான பார்வையும் வழிகாட்டுதலும் மட்டுமே. அறியாமை இருளை அகற்றி ஞானத்தின் ஒளியால் உலகை ஒளிமயமாக்கும் தீபாவளி பண்டிகை நமக்கு உணர்த்துவதும் இதுவேதான்.
+
+ஒரு நாடாக இந்த தருணத்தில் நமக்கு பல சவால்கள் உள்ளன. இந்த சவால்கள் அனைத்தையும் வெற்றி கொள்ள முடிவது இனம், மதம், சாதி, குலம், கோத்திர வேறுபாடுகளின்றி அனைவரும் கைகோர்த்தல் மட்டுமே.
+
+...
+
+[Data](articles/88459144.json)
+
+---
+
 ### The President's Diwali greeting news
 
 *2024-10-31 01:53:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தீபாவளி-வாழ்த்துச்-செய்தி/175-346344) · `ta`
@@ -624,6 +766,8 @@ You can fill a jug with lemon juice mixed with water and use it to rinse your ha
 
 [Data](articles/9ac2e494.json)
 
+[Extended Data](ext_articles/9ac2e494.ext.json)
+
 ---
 
 ### CIPM partners Vavuniya University for 5th Research Conference on Business Studies
@@ -638,6 +782,8 @@ CIPM Sri Lanka – the Nation’s leader in human resource management, was a con
 
 [Data](articles/a4ca0e97.json)
 
+[Extended Data](ext_articles/a4ca0e97.ext.json)
+
 ---
 
 ### Smartest and most customisable Life Insurance solution for every lifestyle
@@ -651,6 +797,8 @@ AIA SaveSmart stands out as the smartest choice for anyone looking to secure the
 ...
 
 [Data](articles/1189edcf.json)
+
+[Extended Data](ext_articles/1189edcf.ext.json)
 
 ---
 
@@ -909,6 +1057,20 @@ Accordingly, taxes will be increased by 40 billion per year.
 [Data](articles/df738a05.json)
 
 [Extended Data](ext_articles/df738a05.ext.json)
+
+---
+
+### දුමරිය වර්ජනය පිළිබඳ දෙපාර්තමේන්තුවෙන් පැහැදිලි කිරීමක්
+
+*2024-10-30 20:58:21* · [`adalk`](https://www.ada.lk/breaking_news/දුමරිය-වර්ජනය-පිළිබඳ-දෙපාර්තමේන්තුවෙන්-පැහැදිලි-කිරීමක්/11-412765) · `si`
+
+දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය විසින් ආරම්භ කර ඇති වර්ජනය සම්බන්ධයෙන් දුම්රිය දෙපාර්තමේන්තුව මගින් නිවේදනයක් නිකුත් කර තිබේ.
+
+දුම්රිය ස්ථානාධිපතිවරුන්ගේ සංගමය මුහුණ දෙන ගැටලු විසදිම වෙනුවෙන් කමිටුවක් පත්කර එහි නිර්දේශ ලබන 08දාට පෙර ලබාදිමට උපදෙස් දී තිබියදි මෙම වෘත්තිය ක්‍රියාමාර්ගය ආරම්භ කර ඇතැයි එම දෙපාර්තමේන්තුව පවසයි.
+
+◼️
+
+[Data](articles/dcfb7aed.json)
 
 ---
 
@@ -2099,169 +2261,5 @@ The Indian company has complained of a possible “vicious campaign” against i
 [Data](articles/14a9d04e.json)
 
 [Extended Data](ext_articles/14a9d04e.ext.json)
-
----
-
-### “They throw mud on me within the party”
-
-*2024-10-30 14:02:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/கட்சிக்குள்ளேயே-என்-மீது-சேற்றை-வாரி-வீசுகின்றனர்/150-346317) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Hirunika Premachandra accuses party members of mudslinging. She hopes leader Sajith Premadasa addresses issue.
-
-🟩
-
-United People's Power (SJB) Colombo District Candidate Hirunika Premachandra has said that some members of her own camp are causing problems.
-
-Mrs. Premachandra told the media that some of my own political camp, who recently joined our party, are causing problems and throwing mud at me.
-
-I hope that party leader Sajith Premadasa is aware of these people and that the party will be on the right path soon.
-
-◼️
-
-[Data](articles/c3b0e17f.json)
-
-[Extended Data](ext_articles/c3b0e17f.ext.json)
-
----
-
-### Boyfriend arrested for hitting girlfriend's head
-
-*2024-10-30 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202730) · `si`
-
-Boyfriend arrested for assaulting girlfriend with black stone, killing 19-year-old man in Palagoda. Suspect from Payagala, investigation ongoing.
-
-🟩
-
-The boyfriend who was assaulted by her boyfriend with a black stone to the girlfriend's head and murdered a black boy was arrested today (30).
-
-The victim was a 19 year old resident of the Palagoda area in Palagoda.
-
-The suspects have revealed that the couple had been attacked by the girlfriend's head with a shower after a shower of the beach in Payagoda last night.
-
-Police have also found a small number of black stone, which is considered to be attacked in the scene.
-
-Investigations have revealed that these young couples have been constantly disputed due to this relationship for a long time.
-
-The suspect had been taken to a friend in 1990 and was taken to the Nagoda Survey in the 1990 and was taken to the Nagoda Survey Hospital in the 1990 and was killed this morning.
-
-Kalutara Division Criminal Laboratory Officers and Payagala Police are investigating the Criminal Division.
-
-...
-
-[Data](articles/838e0510.json)
-
-[Extended Data](ext_articles/838e0510.ext.json)
-
----
-
-### Court orders to recall arrest warrant against Upul Tharanga
-
-*2024-10-30 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103036/court-orders-to-recall-arrest-warrant-against-upul-tharanga) · `en`
-
-The Court of Appeal today (30) ordered to recall the arrest warrant issued by the Matale High Court against the Chairman of the Selection Committee of Sri Lanka Cricket (SLC), former Sri Lankan cricketer Upul Tharanga over failure to appear before the court pertaining to a match-fixing case.
-
-The Court of Appeal had issued this order after considering an undertaking made by Upul Tharanga through his attorneys, stating that he would attend future hearings at the Matale High Court.
-
-The relevant order was issued when a petition submitted by Tharanga requesting to invalidate the arrest warrant issued by Matale High Court over his failure to appear before the court was taken up today.
-
-...
-
-[Data](articles/134dc460.json)
-
-[Extended Data](ext_articles/134dc460.ext.json)
-
----
-
-### Sumathi Dharmawardena appointed head of the ICC Corruption Unit
-
-*2024-10-30 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202729) · `si`
-
-Sumathi Dharmawardena named ICC Corruption Unit head, replacing Sir Ronnie. Appointed from Nov 1. Additional Solicitor General of Sri Lanka's Attorney General's Department. Represented Sri Lanka in international sports agency talks.
-
-🟩
-
-He has appointed Sumathi Dharmawardena, an additional Solicitor General of the Attorney General's Department, as the head of the International Cricket Council.
-
-The International Cricket Council announced that the relevant appointment has been made to operate from November 1.
-
-He was appointed to the post by retirement from the post of Sir Ronngan, who was in the post for 14 years.
-
-President's Counsel, Mr. Dharmawardena, is represented as the Sri Lankan government of the Attorney General's Department, but also the Ministry of Sports.
-
-He has also represented the Sri Lankan government in discussions with the world's other sports agencies.
-
-◼️
-
-[Data](articles/8ccd94db.json)
-
-[Extended Data](ext_articles/8ccd94db.ext.json)
-
----
-
-### Sri Lankan appointed new Independent Chair of ICC Anti-Corruption Unit
-
-*2024-10-30 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103035/sri-lankan-appointed-new-independent-chair-of-icc-anti-corruption-unit-) · `en`
-
-The International Cricket Council (ICC) today announced the appointment of Sumathi Dharmawardena P.C. as the new Independent Chair of the ICC Anti-Corruption Unit (ACU).
-
-Dharmawardena replaces Sir Ronnie Flanagan who retired from the role after 14 years. Dharmawardena brings a wealth of experience including serving as an Additional Solicitor General at the Attorney General’s Department of Sri Lanka, in which he represents the Government of Sri Lanka, including the Ministry of Sport, in a variety of legal matters, the ICC said in a statement.
-
-In addition, the new ACU Chair has worked with Interpol and the United Nations Office on Drugs and Crime, investigating corruption in sport, as well as overseeing several investigations and prosecutions under the Prevention of Offences relating to Sports Act, an Act which he was instrumental in formulating. He has also represented the Government of Sri Lanka in discussions and negotiations with other global sporting organisations.
-
-...
-
-[Data](articles/9fc8ee82.json)
-
-[Extended Data](ext_articles/9fc8ee82.ext.json)
-
----
-
-### Johnston's hope out of the court
-
-*2024-10-30 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202728) · `si`
-
-Johnston Fernando leaves judiciary after bail. Former minister claims innocence, plans to run in next election. Released on bail for possessing unregistered BMW in Sri Lanka.
-
-🟩
-
-Former Minister Johnston Fernando left the judiciary after the bail of bail to the Fort Magistrate's Court today.
-
-Speaking to the media, the former minister said he should be revealed in court.
-
-Meanwhile, Johnston Fernando added that he will contest in the next general election.
-
-Former Minister Johnston Fernando was released on bail regarding the possession of a unregistered BMW car in Sri Lanka.
-
-◼️
-
-[Data](articles/31a8985a.json)
-
-[Extended Data](ext_articles/31a8985a.ext.json)
-
----
-
-### Gammanpila a statement about what we do against the government
-
-*2024-10-30 13:11:44* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුවට-එරෙහි-ජනතා-පිළිකුල-පෙන්වන්න-කරන-දේ-ගැන-ගම්මන්පිලගෙන්-ප්‍රකාශයක්/11-412758) · `si`
-
-Udaya Gammanpila calls for public petition against current government. He criticizes previous administrations' handling of laws, seeking to restore public trust.
-
-🟩
-
-The general election candidate, Udaya Gammanpila, he said that a public petition is expected to sign a public petition to show the disgust against the present government.
-
-He was speaking at a media briefing held at a press conference held today (30).
-
-"The compass that criticized the law of the law to establish the law, the compass that the former presidents mislead the law in their first month, we hope to demonstrate the reputation of the people."
-
-◼️
-
-[Data](articles/27c3984c.json)
-
-[Extended Data](ext_articles/27c3984c.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 11:24:02**
+As of **2024-10-31 11:40:23**
 
 ## Newspaper Stats
 
-*Scraped **52,340** Articles*
+*Scraped **52,343** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,94 @@ economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,866
-adaderanalk | 6,212
+adaderanalk | 6,214
 tamilmirrorlk | 7,253
 virakesarilk | 8,442
-adaderanasinhalalk | 9,114
+adaderanasinhalalk | 9,115
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,340 (100.0%) of 52,340 articles have been extended.
+52,343 (100.0%) of 52,343 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Two unidentified bodies found in Bogawantalawa and Peliyagoda
+
+*2024-10-31 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103060/two-unidentified-bodies-found-in-bogawantalawa-and-peliyagoda) · `en`
+
+Two unidentified bodies have been found in separate incidents in the Bogawantalawa and Peliyagoda police divisions, the police said.
+
+The first body has been discovered in the Kehelgamu Oya in Bogawana Waththa, Bogawantalawa last morning (30).
+
+Authorities said that the deceased is a male, aged between 35 and 40 years, with a height of 5 feet 2 inches. He was last seen wearing black long pants and a white short-sleeved shirt, and had an earring in the shape of an arrow in his left ear.
+
+An autopsy has been conducted, and the body has been placed in the mortuary of the Dickoya District Base Hospital, according to police.
+
+The Bogawantalawa Police are conducting further investigations into the incident.
+
+The other body has been found on the pavement along the Peliyagoda-Kandy road. Based on information received by the Peliyagoda Police last evening, an investigation was initiated into the incident. However, the identity of this deceased individual has not yet been confirmed.
+
+...
+
+[Data](articles/094e6d93.json)
+
+[Extended Data](ext_articles/094e6d93.ext.json)
+
+---
+
+### Enter Air commences flight services between Poland and Sri Lanka
+
+*2024-10-31 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103061/enter-air-commences-flight-services-between-poland-and-sri-lanka-) · `en`
+
+Enter Air, the largest private airline operating in Poland has commenced flight services from Poland’s Warsaw to Colombo, marking the start of a new series of charter connections between Poland and Sri Lanka.
+
+Commenced on October 30, 2024, this Warsaw-Colombo route will operate regularly until the end of March 2025, enhancing travel and tourism links between the two countries.
+
+Upon arrival at the Bandaranaike International Airport in Katunayake, Enter Air’s inaugural aircraft was honored with a water salute, and passengers were warmly welcomed by a traditional dance performance arranged by Sri Lanka Tourism, celebrating the vibrant culture of the island.
+
+◼️
+
+[Data](articles/71d3162a.json)
+
+[Extended Data](ext_articles/71d3162a.ext.json)
+
+---
+
+### Deepavali and Halloween Biday
+
+*2024-10-31 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202762) · `si`
+
+Deepavali and Halloween celebrations held simultaneously at White House under Joe Biden's leadership. Kamala Harris praised Biden as more experienced than other presidential candidates. Due to election, Harris couldn't attend ceremony. Jill Biden participated in Halloween event, awarding children's literature. Biden attended final Halloween celebration at White House.
+
+🟩
+
+දීපාවලි උත්සවයට සමගාමීව අමෙරිකානු ජනාධිපති ජෝ බයිඩන්ගේ ප්‍රධානත්වයෙන් ධවල මන්දිරයේ දී සැමරුම් උත්සවයක් පවත්වා තිබේ.
+
+The vice presidentman Kamala Harris warmly commended this year.
+
+කමලා හැරිස්, ජනාධිපතිවරණයට මුහුණ දෙන අනෙක් පුද්ගලයාට වඩා අත්දැකීම් බහුල අයෙක් බව මෙහිදි ජෝ බයිඩන් පවසා ඇති බව විදෙස් මාධ්‍ය සඳහන් කරයි.
+
+The President has noted that the Vice President Kula Harris could not attend the ceremony due to the election of election.
+
+මේ අතර හැලොවීන් උත්සවයට සමගාමීවද ධවල මන්දිරයේදීත් හැලොවීන් සැමරුමක් පවත්වා තිබේ.
+
+The President had drawn attention to the attention of a First Lady Jill Biden Pandan.
+
+The First Lady has also awarded literature for children of children.
+
+ජනාධිපති ජෝ බයිඩන් ධවල මන්දිරයේ සිටින අවසන් හැලොවීන් සැමරුම මෙය බව සඳහන් වේ.
+
+◼️
+
+[Data](articles/a8578a8e.json)
+
+[Extended Data](ext_articles/a8578a8e.ext.json)
+
+---
 
 ### There are no houses in Colombo anymore;President
 
@@ -2253,69 +2327,5 @@ Top contributors to the ASPI were Melstacorp (up at 95.90), NDB (up at 87.60), C
 [Data](articles/3de7b52e.json)
 
 [Extended Data](ext_articles/3de7b52e.ext.json)
-
----
-
-### Railway Station Masters withdraw from ticketing duties
-
-*2024-10-30 16:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103041/railway-station-masters-withdraw-from-ticketing-duties) · `en`
-
-The Railway Station Masters will refrain from all ticketing duties from 4.30 p.m. today (30), the Railway Station Masters’ Union announced.
-
-However, the union also stated that there will be no disruptions to train services.
-
-On Tuesday (29), the Railway Station Masters’ Union warned that they will launch a strike action starting from midnight today (30), if their demands are not met during the discussion with the subject minister.
-
-The union decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Master.
-
-However, President of the association Sumedha Somaratne mentioned that they arrived at this decision since no favorable response has been received from the authorities pertaining to issues of the Railway Station Masters including promotions, despite repeated demands.
-
-◼️
-
-[Data](articles/21eb22e7.json)
-
-[Extended Data](ext_articles/21eb22e7.ext.json)
-
----
-
-### Station Masters in a trade union action
-
-*2024-10-30 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202736) · `si`
-
-Station Masters resign ticket duties due to trade union action. OICs discuss demands with Minister's office. Negotiations fail with Railways General Manager.
-
-🟩
-
-Statistics Masters will be resigned from the duties of issuing railway tickets today (30).
-
-That was due to the decision of the OICs Association's Executive Committee to contest a trade union this evening.
-
-The OICs have taken this decision as a discussion with the Minister's Private Secretary and the Executive Offices of the Railway Department regarding several demands.
-
-Meanwhile, Superma Somaratne said yesterday that negotiations with the General Manager of the Railways failed.
-
-◼️
-
-[Data](articles/f692bb54.json)
-
-[Extended Data](ext_articles/f692bb54.ext.json)
-
----
-
-### Petitions against waiving off EPF interest rates during debt restructuring dismissed
-
-*2024-10-30 16:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103040/petitions-against-waiving-off-epf-interest-rates-during-debt-restructuring-dismissed) · `en`
-
-The Supreme Court has dismissed four petitions filed seeking a ruling that the fundamental human rights have been violated through the government’s recent decision to reduce the interest paid for the investments of Employees’ Provident Fund (EPF) in treasury bills and bonds to 9%, under the domestic debt restructuring process.
-
-This order was issued by the court today (30), after accepting the preliminary objections raised by several parties including the Attorney General that the relevant petitions cannot be maintained since Fundamental Rights petitions filed pertaining to the same matter have been dismissed earlier without taking into consideration.
-
-The four petitions filed by several parties including the Katunayake Free Trade Zone Workers’ Union were taken up before the three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Kumuduni Wickremesinghe and Achala Vengappuli today.
-
-◼️
-
-[Data](articles/23261b0b.json)
-
-[Extended Data](ext_articles/23261b0b.ext.json)
 
 ---

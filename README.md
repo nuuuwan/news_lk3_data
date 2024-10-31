@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 12:40:01**
+As of **2024-10-31 12:58:24**
 
 ## Newspaper Stats
 
-*Scraped **52,362** Articles*
+*Scraped **52,365** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,24 +17,80 @@ economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,869
-adaderanalk | 6,216
+adaderanalk | 6,218
 tamilmirrorlk | 7,256
 virakesarilk | 8,449
-adaderanasinhalalk | 9,118
+adaderanasinhalalk | 9,119
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,362 (100.0%) of 52,362 articles have been extended.
+52,365 (100.0%) of 52,365 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
 
+### 40kg of heroin worth over Rs. 1Bn recovered in Sevanagala
+
+*2024-10-31 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103066/40kg-of-heroin-worth-over-rs-1bn-recovered-in-sevanagala) · `en`
+
+A stock of 40 kilograms of heroin estimated to be worth around Rs. 1,000 million has been recovered during a raid carried out by Police Special Task Force (STF) in the Sevanagala area.
+
+The raid was conducted based on a tip-off from Sri Lanka Army intelligence, the police said.
+
+Police are conducting further investigations regarding the stock of drugs.
+
+◼️
+
+[Data](articles/b7c7a3f1.json)
+
+[Extended Data](ext_articles/b7c7a3f1.ext.json)
+
+---
+
+### Former State Minister Lohan Ratwatte arrested
+
+*2024-10-31 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103065/former-state-minister-lohan-ratwatte-arrested) · `en`
+
+Former State Minister Lohan Ratwatte has been arrested by police this afternoon (31).
+
+Police said that the former state minister was arrested in Kandy over an incident of discovering a car without number plates at his wife’s house in the Mirihana area of Nugegoda.
+
+◼️
+
+[Data](articles/4e67bc9a.json)
+
+[Extended Data](ext_articles/4e67bc9a.ext.json)
+
+---
+
+### Lohan Ratwatte arrested
+
+*2024-10-31 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202766) · `si`
+
+Sri Lanka: Former State Minister LAAON Rathwatte arrested over unregistered vehicle found near his home.
+
+🟩
+
+Former State Minister LAAON Rathwatte has been arrested in connection with the discovery of a car without number plates of his wife in Miriahane, Nugegoda.
+
+◼️
+
+[Data](articles/4742cea5.json)
+
+[Extended Data](ext_articles/4742cea5.ext.json)
+
+---
+
 ### A shooting of businessman's house
 
 *2024-10-31 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202765) · `si`
+
+Businessman's house shot in Meegoda. Police believe attack meant to intimidate rather than cause damage. Incident occurred on January 31st.
+
+🟩
 
 A businessman of a businessman was shot in a businessman in Meegoda this morning (31).
 
@@ -51,6 +107,10 @@ The police suspect that no one had been damaged by shooting and the shooting was
 ### “False messages are spread”
 
 *2024-10-31 11:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-செய்திகள்-பரப்பப்படுகின்றன/175-346354) · `ta`
+
+"President Anura Kumara Dissanayake accuses politicians and media of spreading false news to destabilize the country. He denies claims of Indian intelligence reports and media misinformation about salary increases and attacks on tourist attractions."
+
+🟩
 
 President Anura Kumara Dissanayake has said that some politicians and media institutions are spreading false news to establish anarchy in the country in order to create instability without giving strong power to the new government.
 
@@ -70,6 +130,10 @@ Speaking at a meeting of the election campaign in Matara, he said that some poli
 
 *2024-10-31 11:58:28* · [`adalk`](https://www.ada.lk/breaking_news/Harry-Potter-චිත්‍රපට-මාලාවේ-ප්‍රසිද්ධ-දුම්රිය-පාලමට-කරන්න-යන-දේ-මෙන්න/11-412773) · `si`
 
+Harry Potter film series boosts tourism at 123-year-old Scott Schanga Express bridge, sparking rehabilitation efforts.
+
+🟩
+
 Scott Schanga Express, a public view of the horry potter film, has commenced the rehabilitation of the 21 Bridge.
 
 The bridge is 123 years old, and a large number of people will visit this place due to the Garry Potter films.
@@ -85,6 +149,10 @@ The bridge is 123 years old, and a large number of people will visit this place 
 ### The Prime Minister responded to the former president
 
 *2024-10-31 11:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிக்கு-பதிலடி-கொடுத்தார்-பிரதமர்/175-346353) · `ta`
+
+Prime Minister Harini Amarasuriya criticizes former President Ranil Wickremesinghe over constitution understanding and governance. She questions his ability to teach the constitution after repeated electoral losses. The PM emphasizes the importance of public consent in governance and rejects Wickremesinghe's claims about Cabinet decision-making processes.
+
+🟩
 
 Prime Minister Harini Amarasuriya has questioned whether the constitution should be learned from former President Ranil Wickremesinghe, who has been rejected by the public several times and lost many elections.
 
@@ -270,6 +338,14 @@ Upon arrival at the Bandaranaike International Airport in Katunayake, Enter Air�
 
 *2024-10-31 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197562) · `ta`
 
+Here's a 200-character summary:
+
+
+
+Diwali celebrations across Sri Lanka. Special poojas held at temples in Negombo, Batticaloa, Mullaitivu. Police conduct worship services. Thousands attend ceremonies. Public and police participate in Oddusuttan Shiva Temple. Nallur Kandaswamy Temple sees large devotee turnout.
+
+🟩
+
 Hindus celebrate the Diwali festival today. அந்தவகையில் நாடளாவிய ரீதியில் தீபாவளி பண்டிகை விசேட பூஜை வழிபாடுகள் சிறப்பாக இடம்பெற்று வருகின்றது.
 
 The Diwali special pooja was held on Thursday morning (31) at the Sri Siddhi Vinayagar Temple at Negombo Beach Street.
@@ -327,6 +403,14 @@ The First Lady has also awarded literature for children of children.
 ### There are several media institutions that cannot change the old addictions
 
 *2024-10-31 10:49:47* · [`adalk`](https://www.ada.lk/breaking_news/පැරණි-ඇබ්බැහිවීම්-වෙනස්-කර-ගන්න-බැරි-මාධ්‍ය-ආයතන-කිහිපයක්-තිබෙනවා/11-412771) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake criticizes media bodies for spreading false news, calling for protection of democracy and truth in reporting. He emphasizes the importance of accurate journalism in maintaining peace and stability during elections.
+
+🟩
 
 "Some people are working false today because the government is stabilized.President Anura Kumara Dissanayake said in Matara yesterday.
 
@@ -449,6 +533,10 @@ He lasts a blue and gray and gray and a red trick.
 ### A racket of deceiving women who went to the house
 
 *2024-10-31 10:27:13* · [`adalk`](https://www.ada.lk/breaking_news/ගෘහ-සේවයට-ගොස්-ආපු-කාන්තාවන්-රවටා-මුදල්-ගරන-ජාවාරමක්/11-412770) · `si`
+
+Dambulla police investigating scam targeting women. Two men posing as home service providers cheat women out of money and valuables. Victim reports being approached by duo offering financial assistance and appliances. Police investigating fraud involving Rs. 20 lakhs.
+
+🟩
 
 The Dambulla Police have commenced investigations into a racket of Rs.
 
@@ -630,6 +718,10 @@ The arrangement with the bondholders includes macro-linked bonds tied to the isl
 
 *2024-10-31 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197558) · `ta`
 
+Flood waters rose rapidly like a tsunami, causing widespread damage and loss of life in Valencia, Spain. Heavy rains overwhelmed the city, turning streets into rivers and trapping vehicles. Emergency services responded quickly, but many were caught off guard due to delayed warnings.
+
+🟩
+
 நீர்மட்டம் அதிகரிக்க ஆரம்பித்தவேளை அது அலை போல வந்தது என்கின்றார்குயிலெர்மோ செரொனோ பெரெஸ் ( 21) .அது ஒரு சுனாமி என்கின்றார் அவர்.
 
 One of the victims of the floods in Valencia, Spain's Valencia province, and one of the victims of the floods have died so far.
@@ -657,6 +749,10 @@ At 3 pm, the Regional Disaster Management Center was publishing pictures of heav
 ### Two Indians arrested in Eravur
 
 *2024-10-31 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197554) · `ta`
+
+Two Indian sisters arrested in Eravur, Sri Lanka for illegal visa stay and business activities. Police action taken to bring them to court.
+
+🟩
 
 Eravur police said that two sisters of Tamil Nadu Madurai, who were illegally staying on a visa visa from India to Sri Lanka, were arrested on Wednesday (30).
 
@@ -1328,6 +1424,10 @@ Discussions were centred on the business visit of a 30-member delegation to Sri 
 
 *2024-10-31 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197553) · `ta`
 
+Elections Commission Batticaloa district officials remove campaign banners violating election laws
+
+🟩
+
 The Elections Commission's instructed elections were removed by the officials of the Batticaloa District Elections Department to violate the legislation.
 
 Batticaloa District Assistant Elections Commissioner and District Assistant Elections Officer MM SubiyanThe advertising banners of the displayed parties were removed on Wednesday (30).
@@ -1364,6 +1464,10 @@ The Campaign for Free and Fair Elections (CaFFE), with support from The Carter C
 
 *2024-10-31 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197552) · `ta`
 
+Tamil schools Eastern Province special holidays announced Governor Jayantalal Ratnasekara Diwali celebration adjustment
+
+🟩
+
 Governor of the Eastern Province Professor Jayantalal Ratnasekara told the media that all Tamil schools in the Eastern Province have been given special holidays on Friday (1) on Friday (1).
 
 He further stated that a special holiday has been granted on the eve of Diwali and the school will be held on Saturday 9th.
@@ -1398,6 +1502,14 @@ High Commissioner Jauhar briefed the Lt. Governor on the recent developments in 
 
 *2024-10-31 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197551) · `ta`
 
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rishad Bathiudeen criticizes Mastan's political actions as detrimental to Vanni district development. He accuses Mastan of supporting Rajapaksas' attempts to arrest his brother Riyaj Pathiyudeen and hinder school construction projects. Rishad claims his party is poised to win seats in several districts, including Ampara, Batticaloa, Puttalam, and Kurunegala.
+
+🟩
+
 All Ceylon People's Congress leader and Vanni district United People's Power Candidate Rishad Bathiudeen said that the Vanni district parliamentarian Mastan was unforgettable in the mood to prohibit the development of the people in politics.
 
 செவ்வாய்க்கிழமை (29) மன்னார், தாராபுரத்தில் இடம்பெற்ற தேர்தல் பிரச்சாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவித்ததாவது,
@@ -1417,6 +1529,10 @@ People should reject people like Mastan, who acts with the perverse of politics.
 ### The government has ignored international conferences and questioned foreign policy - Dullas Alaparuma
 
 *2024-10-31 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197550) · `ta`
+
+Sri Lanka's government ignores key international conferences, questioning foreign policy. Former MP Dullas Alahapperuma criticizes absence from UN, Commonwealth, and BRICS meetings. He warns this may damage national reputation internationally.
+
+🟩
 
 The current government has questioned Sri Lanka's foreign policy by ignoring important international conferences. Former parliamentarian Dullas Alahapperuma said this would be a name for the entire country in the middle of the international community.
 
@@ -2215,69 +2331,5 @@ The Attorney General apologized to the Magistrate's Court when three elephants w
 [Data](articles/4c2d5c4b.json)
 
 [Extended Data](ext_articles/4c2d5c4b.ext.json)
-
----
-
-### Sri Lankans have no impact on Israel -Lebanon clash - Senanayake
-
-*2024-10-30 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197544) · `ta`
-
-Sri Lankan government ensures safety of citizens amid Israel-Lebanon conflict. No immediate need for repatriation, but prepared to bring home if necessary. 7,000 Sri Lankans in Lebanon; business travel suspended. Normal operations in Israel. Relief programs for returning workers discontinued. Pension scheme implementation under discussion.
-
-🟩
-
-Due to the ongoing war in the Middle East, we are taking action on the safety of Sri Lankans there. The General Manager of the Sri Lanka Foreign Employment Bureau, See said that if any of them needed to come to the country, they would take them to the country.. Senanayake said.
-
-He was speaking at a press conference held at the Sri Lanka Foreign Employment Bureau on Wednesday (30).
-
-Due to the clash between Israel and Lebanese in the Middle East, we continue to discuss the safety of Sri Lankans who have gone to work there.
-
-We have received information that Sri Lankans have no impact yet. At the same time, none of them needed to return to the country. We will also take steps to bring them to the country if needed.
-
-...
-
-[Data](articles/8b04f4e8.json)
-
-[Extended Data](ext_articles/8b04f4e8.ext.json)
-
----
-
-### Sri Lanka Seylan bank Net up 4.6-pct in September 2024 quarter
-
-*2024-10-30 18:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-seylan-bank-net-up-4-6-pct-in-september-2024-quarter-185749/) · `en`
-
-ECONOMYNEXT – Profits at Sri Lanka’s Seylan Bank Plc group grew 4.61 percent to 2.06 billion rupees in the September, 2024 quarter, interim accounts showed.
-
-The group reported earnings of 3.25 rupees for the quarter, and the shares closed 0.56 percent stronger at 53.80 rupees on Wednesday (30).
-
-Interest income fell 26.08 percent to 19.76 billion rupees during the quarter and interest expenses fell by a faster 33.53 percent to 11 billion rupees resulting in a 13.97 percent fall in Net Interest income to 8.76 billion rupees.
-
-Losses in trading turned onto gains with a 561 percent growth to 37.6 billion rupees from the same quarter last year.
-
-The Bank in its financial statement said it had ensured the impairment provision was made to capture the changes in global and local economy, credit risk profile of customers and credit quality of the Bank’s loan portfolio in order to ensure adequacy of provisions recognized in the financial statements.
-
-...
-
-[Data](articles/4fe4aca1.json)
-
-[Extended Data](ext_articles/4fe4aca1.ext.json)
-
----
-
-### Sri Lanka to probe ‘corruption’ in handling of X-Press Pearl disaster - report
-
-*2024-10-30 18:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103046/sri-lanka-to-probe-corruption-in-handling-of-x-press-pearl-disaster-report) · `en`
-
-Sri Lanka’s new government, led by President Anura Kumara Dissanayake, will launch a fresh investigation into the handling of the MV X-Press Pearl cargo ship disaster that devastated marine life along swaths of the island nation’s coastline three years ago, a senior minister has told Al Jazeera.
-
-The announcement came amid allegations of corruption, delay tactics and mismanagement in dealing with the aftermath of the disaster, and a lack of compensation for the affected fishermen.
-
-In May 2021, the Singapore-registered cargo ship caught fire near Negombo, a popular tourist destination off the Sri Lankan west coast, spilling tonnes of hazardous substances, including nitric acid and microplastic granules, into the Indian Ocean.
-
-...
-
-[Data](articles/38d72f86.json)
-
-[Extended Data](ext_articles/38d72f86.ext.json)
 
 ---

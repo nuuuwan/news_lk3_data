@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 18:20:59**
+As of **2024-10-31 18:35:27**
 
 ## Newspaper Stats
 
-*Scraped **52,405** Articles*
+*Scraped **52,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 4,878
 adaderanalk | 6,225
 tamilmirrorlk | 7,265
 virakesarilk | 8,457
-adaderanasinhalalk | 9,125
+adaderanasinhalalk | 9,126
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,405 (100.0%) of 52,405 articles have been extended.
+52,406 (100.0%) of 52,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### After November 14, there are no strich
+
+*2024-10-31 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202777) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Folk Former Jathika Site claims strikes will end after Nov 14, calling it a transition period. He warns against future strikes, citing past examples like SLTB bus strikes. Emphasizes saving the government from problems rather than striking against it.
+
+🟩
+
+Former National Folk Former National Folk Former Jathika Site said that the misleadites facing the country will end after November 14 and this is the transition period.
+
+He was speaking at a public meeting held in the turtle and that they would even have to say that strike was 15 in 15 years.
+
+"Our country has very much bitter experiences. The child is going to school.. Taking off the street one day ... SLTB bus strike, go to the other side of the day.. There is a history.
+
+Think I told you today. That strike is lost in front of. Strike against whom. Save the government if you have any problem with the government. The children born today goes to the children to tell the kids. The hybridity is to be called the son, son is saying that this is the case. This is a good country with no good country. See if the lie. This is a transit time. This transition period will end after November 14.
+
+◼️
+
+[Data](articles/c4a4d184.json)
+
+[Extended Data](ext_articles/c4a4d184.ext.json)
+
+---
 
 ### PM vows to summon ex-President Ranil to provide evidence on ‘bond scam’
 
@@ -2395,23 +2423,5 @@ US Ambassador Julie Chung visited Buwanekaba Primary School in Maharagama, Colom
 [Data](articles/220439f6.json)
 
 [Extended Data](ext_articles/220439f6.ext.json)
-
----
-
-### SL Deputy High Commissioner meets Consul General of Japan in Chennai, Japan Chamber of Commerce and Industry Chennai
-
-*2024-10-31 04:04:50* · [`dailyftlk`](https://www.ft.lk/news/SL-Deputy-High-Commissioner-meets-Consul-General-of-Japan-in-Chennai-Japan-Chamber-of-Commerce-and-Industry-Chennai/56-768639) · `en`
-
-Deputy High Commissioner of Sri Lanka in Chennai Dr. D. Venkateshwaran met with Consul General of Japan in Chennai, Takahashi Muneo, and members of the Japan Chamber of Commerce and Industry Chennai (JCCIC), on 18 October.
-
-Japan External Trade Organisation Director General Kaoru Shiraishi, MUFG Bank Ltd. Managing Director and Head of Colombo Representative Office Michiyasu Saito, Toyota Tsusho India Ltd.  Branch Manager Masayuki Tomonari, and Mitsui & Co. India Ltd. Chief Regional Officer Akira Ito also attended the meeting. The Deputy High Commissioner was accompanied by Minister (Commerce) of the Deputy High Commission of Sri Lanka in Chennai.
-
-Discussions were centred on the business visit of a 30-member delegation to Sri Lanka from 23 to 25 October. Furthermore, details related to business meetings between the Chamber and government agencies, regulatory organisations, leading businessmen and business entities etc. were also shared.
-
-...
-
-[Data](articles/62d827d5.json)
-
-[Extended Data](ext_articles/62d827d5.ext.json)
 
 ---

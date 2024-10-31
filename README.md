@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 11:59:32**
+As of **2024-10-31 12:15:31**
 
 ## Newspaper Stats
 
-*Scraped **52,348** Articles*
+*Scraped **52,357** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,866
-adaderanalk | 6,215
+adalk | 4,867
+adaderanalk | 6,216
 tamilmirrorlk | 7,254
-virakesarilk | 8,442
+virakesarilk | 8,449
 adaderanasinhalalk | 9,117
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,348 (100.0%) of 52,348 articles have been extended.
+52,356 (100.0%) of 52,357 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### China to provide emergency humanitarian aid worth Rs. 400M to Sri Lanka
+
+*2024-10-31 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103064/china-to-provide-emergency-humanitarian-aid-worth-rs-400m-to-sri-lanka) · `en`
+
+The Chinese Government has decided to further provide a batch of Emergency Humanitarian Materials worth Rs. 400 million to Sri Lanka, the Chinese Embassy in Colombo said.
+
+This aid comes in addition to a recent Emergency Assistance of Rs. 30 million in cash handed over to the President of Sri Lanka for flood relief efforts, according to the Chinese Embassy.
+
+Meanwhile, Prime Minister Dr. Harini Amarasuriya held a meeting with Qi Zhenhong, the Ambassador of the People’s Republic of China to Sri Lanka, at the Prime Minister’s Office on Wednesday (30), where Ambassador Qi Zhenhong conveyed the Chinese government’s support for Sri Lanka’s flood relief efforts, reinforcing the longstanding partnership between the two nations.
+
+Prime Minister Amarasuriya expressed her appreciation to Ambassador Qi for the People’s Republic of China’s timely generosity and support during this crucial period.
+
+...
+
+[Data](articles/af302d27.json)
+
+[Extended Data](ext_articles/af302d27.ext.json)
+
+---
 
 ### චීනයෙන් රු මිලියන 400ක ආධාර තොගයක්
 
@@ -174,6 +194,32 @@ Upon arrival at the Bandaranaike International Airport in Katunayake, Enter Air�
 
 ---
 
+### நாடளாவிய ரீதியில் சிறப்பாக இடம்பெற்ற தீபாவளி விசேட பூஜைகள் !
+
+*2024-10-31 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197562) · `ta`
+
+Hindus celebrate the Diwali festival today. அந்தவகையில் நாடளாவிய ரீதியில் தீபாவளி பண்டிகை விசேட பூஜை வழிபாடுகள் சிறப்பாக இடம்பெற்று வருகின்றது.
+
+The Diwali special pooja was held on Thursday morning (31) at the Sri Siddhi Vinayagar Temple at Negombo Beach Street.
+
+Diwali special poojas were held today at the Srimamangeswarar Temple in Batticaloa.
+
+ஆலயத்தின் பிரதமகுரு சிவஸ்ரீ புரண சுதாகர குருக்களின் தலைமையில் இந்த பூஜை வழிபாடுகள் நடைபெற்றன.
+
+இதன்போது நாட்டிற்கு நன்மைவேண்டியும் நாட்டில் ஏற்பட்டுள்ள சிக்கல் நிலை நீங்கி நாடு சுபீட்சமடையவும் விசேட யாகம் மற்றும் அபிசேகமும் நடாத்தப்பட்டது.
+
+இன்றைய தீபாவளி பூஜை வழிபாடுகளில் மாவட்டத்தின் பல்வேறு பகுதிகளிலுமிருந்து பெருமளவானோர் கலந்துகொண்டமை குறிப்பிடத்தக்கது.
+
+Diwali special pooja at the Mullaitivu Oddusuttan Shivanayalai was carried out by the police on Thursday (31).
+
+...
+
+[Data](articles/4a5f36e3.json)
+
+[Extended Data](ext_articles/4a5f36e3.ext.json)
+
+---
+
 ### Deepavali and Halloween Biday
 
 *2024-10-31 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202762) · `si`
@@ -301,6 +347,26 @@ He lasts a blue and gray and gray and a red trick.
 [Data](articles/4ddc02cb.json)
 
 [Extended Data](ext_articles/4ddc02cb.ext.json)
+
+---
+
+### A racket of deceiving women who went to the house
+
+*2024-10-31 10:27:13* · [`adalk`](https://www.ada.lk/breaking_news/ගෘහ-සේවයට-ගොස්-ආපු-කාන්තාවන්-රවටා-මුදල්-ගරන-ජාවාරමක්/11-412770) · `si`
+
+The Dambulla Police have commenced investigations into a racket of Rs.
+
+A woman named M.jee 'Dambulla has complained to the Dambulla Police.
+
+මැදපෙරදිග රටවල  ගෘහ සේවය සඳහා  ගොස් නැවත නිවෙස් වලට පැමිණෙන දිවයිනේ විවිධ ප්‍රදේශවල ගෘහ සේවිකාවන්ගේ සියලු දත්ත තොරතුරු සමග වෑන් රථයකින් පැමිණෙන පුද්ගලයන් දෙදෙනෙකු රට විරුවන් සඳහා විශේෂ ණය සහන පැකේජයක් මෙන්ම ගෘහ උපකරණ විදුලි උපකරණ සහනදායී ක්‍රමයක් යටතේ ලබාදෙන බව පවසමින් එම කාන්තාවන් රවටා මෙම මූල්‍ය වංචාව සිදු කරන බව පැමිණිල්ලේ සඳහන්ව තිබෙන්න බව පොලිසිය කියයි
+
+ජාවාරම්කරුවන් හට හසු වූ දඹුල්ල පහළවැව, බටුයාය ප්‍රදේශයේ පදිංචි එම්.ජි.ඞී චම්පිකා පැමිණිල්ල ඉදිරිපත් කරන ලද කාන්තාවද මෙම ජාවාරම්කරුවන් දෙදෙනෙකු රුපියල් ලක්ෂ 20 ක මුදලක්   සීයට තුනේ සහන ණය මුදලක් ලබා ගැනීම සහ විදුලි උපකරණ ගෘහ උපකරණ ලබා ගැනීම සඳහා රුපියල්   දෙලක්ෂ දාසය දාහක මුදලක් ලබාදී තිබෙන බවත් පොලිස් පැමිණිල්ලේ සඳහන් කොට තිබේ.
+
+...
+
+[Data](articles/47e4ff58.json)
+
+[Extended Data](ext_articles/47e4ff58.ext.json)
 
 ---
 
@@ -461,6 +527,54 @@ The arrangement with the bondholders includes macro-linked bonds tied to the isl
 [Data](articles/326d4823.json)
 
 [Extended Data](ext_articles/326d4823.ext.json)
+
+---
+
+### "Flood water came like a tsunami"
+
+*2024-10-31 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197558) · `ta`
+
+நீர்மட்டம் அதிகரிக்க ஆரம்பித்தவேளை அது அலை போல வந்தது என்கின்றார்குயிலெர்மோ செரொனோ பெரெஸ் ( 21) .அது ஒரு சுனாமி என்கின்றார் அவர்.
+
+One of the victims of the floods in Valencia, Spain's Valencia province, and one of the victims of the floods have died so far.
+
+He was traveling with his parents in a vehicle on Tuesday and was hit by a rapidly rising flood.
+
+Due to heavy rains for several hours, many of their families were unaware of the speed of the flood.
+
+The Spanish Meteorological Department warned of rain floods in Valencia on Tuesday morning.
+
+The weather department later issued a red warning on social media that it would only take traffic if it was very urgent.
+
+Local authorities have been warned that there have been several warnings throughout the day, preventing people from moving towards the rivers.
+
+At 3 pm, the Regional Disaster Management Center was publishing pictures of heavy floods in areas like Labulunde Udil.
+
+...
+
+[Data](articles/31321318.json)
+
+[Extended Data](ext_articles/31321318.ext.json)
+
+---
+
+### Two Indians arrested in Eravur
+
+*2024-10-31 09:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/197554) · `ta`
+
+Eravur police said that two sisters of Tamil Nadu Madurai, who were illegally staying on a visa visa from India to Sri Lanka, were arrested on Wednesday (30).
+
+On Wednesday evening, when the police surrounded a house in the Eravur Dalavai area on Wednesday evening, the police arrested two persons who were illegally staying in Tamil Nadu Madurai without any identity documents.
+
+The arrested were arrested by the 38 -year -old Balakrishnan Rajeswari and his brother, 51 -year -old Jayasundaram Dharmara.
+
+இவர்கள் இருவரும் சகோதர்கள் எனவும் கடந்த ஜூன் மாதம் சுற்றுலா விசாவில் இலங்கைக்கு வந்து குறித்த பகுதியில் தங்கியிருந்து புடவை வியாபாரத்தில் ஈடுபட்டுவந்துள்ளனர் எனவும் இவர்களை நீதிமன்றில் ஆஜர்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் பொலிசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c6b499a6.json)
+
+[Extended Data](ext_articles/c6b499a6.ext.json)
 
 ---
 
@@ -1114,6 +1228,24 @@ Discussions were centred on the business visit of a 30-member delegation to Sri 
 
 ---
 
+### Bore. மாவட்ட தேர்தல்கள் திணைக்கள அதிகாரிகளினால் சட்ட விதிமுறைகளை மீறும் வகையில் காட்சிப்படுத்தப்பட்ட விளம்பர பதாகைகள் அகற்றப்பட்டது
+
+*2024-10-31 04:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197553) · `ta`
+
+The Elections Commission's instructed elections were removed by the officials of the Batticaloa District Elections Department to violate the legislation.
+
+Batticaloa District Assistant Elections Commissioner and District Assistant Elections Officer MM SubiyanThe advertising banners of the displayed parties were removed on Wednesday (30).
+
+It is noteworthy that the Elections Department of the Elections Commission in the Batticaloa district elections in the Batticaloa district has been accused of continuous complaints to the District Elections Department due to the violation of the Elections Commission's Elections.
+
+◼️
+
+[Data](articles/04d25f78.json)
+
+[Extended Data](ext_articles/04d25f78.ext.json)
+
+---
+
 ### CaFFE and The Carter Centre enlighten aspirant female MPs on how to stay safe online
 
 *2024-10-31 03:49:27* · [`dailyftlk`](https://www.ft.lk/news/CaFFE-and-The-Carter-Centre-enlighten-aspirant-female-MPs-on-how-to-stay-safe-online/56-768638) · `en`
@@ -1132,6 +1264,22 @@ The Campaign for Free and Fair Elections (CaFFE), with support from The Carter C
 
 ---
 
+### Special holidays for all Tamil schools in the Eastern Province - Governor Jayantalal Ratnasekara
+
+*2024-10-31 03:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197552) · `ta`
+
+Governor of the Eastern Province Professor Jayantalal Ratnasekara told the media that all Tamil schools in the Eastern Province have been given special holidays on Friday (1) on Friday (1).
+
+He further stated that a special holiday has been granted on the eve of Diwali and the school will be held on Saturday 9th.
+
+◼️
+
+[Data](articles/62313e80.json)
+
+[Extended Data](ext_articles/62313e80.ext.json)
+
+---
+
 ### Lankan envoy in Canada meets Ontario Governor, business chambers and community leaders
 
 *2024-10-31 03:42:21* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Canada-meets-Ontario-Governor-business-chambers-andcommunity-leaders/56-768637) · `en`
@@ -1147,6 +1295,42 @@ High Commissioner Jauhar briefed the Lt. Governor on the recent developments in 
 [Data](articles/64534086.json)
 
 [Extended Data](ext_articles/64534086.ext.json)
+
+---
+
+### வக்கிரபுத்தியுள்ளோரை அரசியலிலிருந்து ஓரங்கட்ட வன்னி மக்கள் தயாராகிவிட்டனர்; மஸ்தானின் செயற்பாடுகள் கீழ்த்தரமானவை - ரிஷாட்
+
+*2024-10-31 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197551) · `ta`
+
+All Ceylon People's Congress leader and Vanni district United People's Power Candidate Rishad Bathiudeen said that the Vanni district parliamentarian Mastan was unforgettable in the mood to prohibit the development of the people in politics.
+
+செவ்வாய்க்கிழமை (29) மன்னார், தாராபுரத்தில் இடம்பெற்ற தேர்தல் பிரச்சாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவித்ததாவது,
+
+“80 former MPs do not contest the general election. They are the only ones who think they cannot win. அதேபோன்று, போட்டியிடும் இன்னும் சிலரை மக்கள் இம்முறை தோற்கடிக்கவும் தீர்மானித்துள்ளனர்.
+
+People should reject people like Mastan, who acts with the perverse of politics. தாராபுரம் மண்ணின் பெருமைக்கே இழுக்கு ஏற்படும் வகையில், இவரது செயற்பாடுகள் இருந்தன.
+
+...
+
+[Data](articles/638bb26b.json)
+
+[Extended Data](ext_articles/638bb26b.ext.json)
+
+---
+
+### சர்வதேச மாநாடுகளைப் புறக்கணித்து வெளியுறவுக் கொள்கையை கேள்விக்குள்ளாக்கியுள்ள அரசாங்கம் - டலஸ் அழகப்பெரும
+
+*2024-10-31 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197550) · `ta`
+
+முக்கியத்துவம் மிக்க சர்வதேச மாநாடுகளைப் புறக்கணித்து தற்போதைய அரசாங்கம் இலங்கையின் வெளியுறவுக் கொள்கையை கேள்விக்குள்ளாக்கியுள்ளது. இது சர்வதேசத்தின் மத்தியில் அரசாங்கத்துக்கு மாத்திரமின்றி முழு நாட்டுக்கும் அவப் பெயரை ஏற்படுத்தும் என முன்னாள் பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும தெரிவித்தார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணி அலுவலகத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+இலங்கையில் இதுவரையில் சிறந்த வெளிநாட்டு கொள்கைகள் பின்பற்றப்பட்டு வந்தன. ஆனால் தற்போது அதில் சிக்கல்கள் ஏற்பட்டுள்ளன. ஜனாதிபதி அநுரகுமார திஸாநாயக்க பதவியேற்ற ஒரு மாதத்துக்குள் மூன்று பிரதான இராஜதந்திர சர்வதேச மாநாடுகள் இடம்பெற்றுள்ளன. ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை கூட்டத் தொடர், பொதுநலவாய நாடுகளின் தலைவர்களின் மாநாடு, பிரிக்ஸ் மாநாடு என்பவற்றை இந்த அரசாங்கம் புறக்கணித்துள்ளது.
+
+...
+
+[Data](articles/22b3892c.json)
 
 ---
 
@@ -2121,227 +2305,5 @@ The meeting comes weeks after deaths when the island nation’s navy attempted t
 [Data](articles/14129625.json)
 
 [Extended Data](ext_articles/14129625.ext.json)
-
----
-
-### There is a massive political intervention in sending Israel to business -Goshala Wickremasinghe
-
-*2024-10-30 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197539) · `ta`
-
-Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe warns against political interference in sending workers to Israel. He emphasizes adherence to agreements and proper qualifications for business ventures. The bureau aims to prevent past mistakes and ensure competent professionals are selected for Israeli industries.
-
-🟩
-
-There have been massive political interventions in the past that sends Israel to business. Due to this, the authorities have been subjected to various inconveniences. Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe said that this action will not be allowed to take place in the future.
-
-He was speaking at a press conference held at the Sri Lanka Foreign Employment Bureau on Wednesday (30).
-
-We are sending workers from Sri Lanka to various industries to Israel. In doing so, we must act in accordance with the agreement the Sri Lankan government has made with the country.
-
-But in the past, there is a massive political intervention in Israel when sending people to the agricultural sector in Israel.
-
-...
-
-[Data](articles/4d2a509c.json)
-
-[Extended Data](ext_articles/4d2a509c.ext.json)
-
----
-
-### 9 years of love fells - girlfriend hospitalized
-
-*2024-10-30 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202740) · `si`
-
-Girlfriend hospitalized after attack by rival. 9-year relationship ends abruptly. Police investigating knife incident.
-
-🟩
-
-A young girl has been attacked by a young girl at the Kumbuchchin Green Zone today (30).
-
-The girlfriend of the Anuradhapura Teaching Hospital is currently receiving treatment at the Conduct of the Anuradhapura Teaching Hospital.
-
-The police said that a lover had been attacked with a knife on a dispute between the two.
-
-The suspect has said that the suspect wanted to meet his girlfriend with learning that the girl had had a romantic relationship with another person.
-
-In the meantime, her boyfriend had a knife and poison and poison was reportedly skilled her boyfriend.
-
-Police said that he had come to a young girl and was attacked by the girl.
-
-A group of people had rescued the young and handed over the youth to Peelice.
-
-They are mentioned nine years as lovers for about 9 years.
-
-◼️
-
-[Data](articles/6e0b20d0.json)
-
-[Extended Data](ext_articles/6e0b20d0.ext.json)
-
----
-
-### All Nov 06 leave to all government Tamil schools in the South and Sabaragamuwa Province
-
-*2024-10-30 17:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202739) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil schools in South and Sabaragamuwa provinces granted leave on Nov 06. Leave also given on Nov 01 and Nov 31 to mark special occasions.
-
-🟩
-
-Tamil schools in the South and Sabaragamuwa provinces have been granted leave on November 1st.
-
-Tamil schools in the respective provinces have been granted leave in the respective areas to mark November 31st.
-
-◼️
-
-[Data](articles/13a4e671.json)
-
-[Extended Data](ext_articles/13a4e671.ext.json)
-
----
-
-### The government is trying to carry out investigations under the leadership of Ravi and Sani to protect Ibrahim - Udaya Kammanpila
-
-*2024-10-30 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197502) · `ta`
-
-Government rejects Alwis and Imam reports on Sunday blasts. Leader Udaya Kammanpila accuses government of protecting suspects Ravi Seneviratne and Sani Abeysekara. Claims investigations aim to shield Mohamed Imbrahim, father of bombers.
-
-🟩
-
-Ravi and Sani led the government to protect Ibrahim, the government is trying to carry out investigations, said Udaya Kammanpila, leader of the Pivithuru Hela Urumaya Party.
-
-He was speaking at a media briefing held at the Pivithuru Hela Urumaya Party office in Pettah on Wednesday (30).
-
-The government has rejected Alwis and Imam's committee reports on the Sunday bomb blasts. The factors that the government refers to the two reports are baseless and childish.
-
-The government rejected a report submitted by a panel headed by a judge (retirement) Alvis, who investigated the intelligence and security.. Committee Chairman Alwis was removed from office due to improper activities. Cabinet spokesman Vijitha Herath said the government's position that he could not accept the report headed by him.
-
-Cabinet spokesman Vijitha Herath urged the Cabinet to prove the allegation against the Chairman of the Alvis Committee. No charges have been proven so far.
-
-...
-
-[Data](articles/db5c7aea.json)
-
-[Extended Data](ext_articles/db5c7aea.ext.json)
-
----
-
-### Two arrested with heroin and drug pills in Jaffna
-
-*2024-10-30 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197535) · `ta`
-
-Jaffna: Two men, ages 26 and 32, arrested with heroin and drugs. One had 10 pills, other 120mg heroin. Police investigation ongoing.
-
-🟩
-
-Two suspects have been arrested on Wednesday (30) with heroin and drug pills in the Jaffna - Ariyalai area.
-
-The arrest was carried out on the basis of confidential information received by the Police Intelligence Unit of the Jaffna District Senior Superintendent of Police, Lusan Solar Bandara.
-
-Two suspects, aged 26 and 32, from Ariyal, have been arrested.
-
-One of them has been arrested with 10 drug pills and the other with 120 milligrams of heroin.
-
-Further investigations are being carried out by the Jaffna police and are taking steps to appear in court.
-
-◼️
-
-[Data](articles/0352262f.json)
-
-[Extended Data](ext_articles/0352262f.ext.json)
-
----
-
-### Tamil medium schools in two more provinces closed on Friday
-
-*2024-10-30 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103044/tamil-medium-schools-in-two-more-provinces-closed-on-friday) · `en`
-
-All Tamil medium government schools in the Southern and Sabaragamuwa Provinces will also remain closed on November 01 (Friday) in view of the Deepavali holiday which falls on October 31.
-
-Meanwhile, it was earlier announced that all Tamil medium schools in the Central and Uva Provinces will be closed on Friday as a special school holiday.
-
-However, these schools will function on November 09 (Saturday) to cover this extra holiday, according to the Zonal Education Directors.
-
-◼️
-
-[Data](articles/16a8a6e8.json)
-
-[Extended Data](ext_articles/16a8a6e8.ext.json)
-
----
-
-### Datesday to the verdict against Sudha against Sudha
-
-*2024-10-30 17:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202738) · `si`
-
-Colombo High Court verdict: AG sues 3 over heroin misappropriation case. Judge Agather Pabennage delivers verdict after long evidence. Sudala's wife and cousin involved. Verdict published December 20.
-
-🟩
-
-The Colombo High Court today announced that the verdict was completed by the Attorney General against three defendants including Wele Manna.
-
-The case had been filed against the Narcotics of Gampola Vidanage Samantage Samara and three defendants who have been accused of misappropriation of heroin.
-
-The case was heard before the Colombo High Court Judge Agather Pabennage.
-
-Sudala's wife and a cousin were named as the rest of the case.
-
-Accordingly, the High Court judge was completed following a long evidence and announced that the verdict was published on December 20.
-
-◼️
-
-[Data](articles/b8262a5d.json)
-
-[Extended Data](ext_articles/b8262a5d.ext.json)
-
----
-
-### Travel tickets will not be issued after 4.30
-
-*2024-10-30 16:54:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-30க்கு-பின்-பயணச்-சீட்டுகள்-வழங்கப்பட-மாட்டாது/175-346324) · `ta`
-
-Sri Lanka Railway Station Principals Association announces withdrawal of ticket services after 4:30 PM due to trade union action over recruitment and practical implementation issues of station masters.
-
-🟩
-
-The Sri Lanka Railway Station Principals Association has announced that its members will withdraw from all kinds of ticket offerings from 4:30 pm as part of the ongoing trade union action.
-
-The union has urged the union that the action is being carried out as the action is aimed at the recruitment and practical implementation issues of the station masters.
-
-◼️
-
-[Data](articles/dd9c9c78.json)
-
-[Extended Data](ext_articles/dd9c9c78.ext.json)
-
----
-
-### Former minister arrested for sugar frauds in Indonesia
-
-*2024-10-30 16:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202737) · `si`
-
-Former Indonesian minister arrested for sugar import fraud, causing $25 million government loss. Accused of issuing licenses to private companies for excessive sugar imports. Currently facing criticism over government affairs.
-
-🟩
-
-Investigations in Indonesia have been arrested for the arrest of the former Indonesia regarding a sugar import fraud.
-
-Investigators say that the former Minister has caused a $ 25 million loss to the government by issuing an import of sugar imports outside the former Minister.
-
-The former minister is currently the one in the foremost criticing government affairs.
-
-Former Minister Thomas Tricks Tricks Tricks were arrested yesterday as a suspect.
-
-The accused filed the Attorney General's Department states that he has issued a license to import the sugar to a private company in the event of a large number of sugar in the country.
-
-◼️
-
-[Data](articles/99627ac6.json)
-
-[Extended Data](ext_articles/99627ac6.ext.json)
 
 ---

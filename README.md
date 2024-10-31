@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 16:24:14**
+As of **2024-10-31 16:39:53**
 
 ## Newspaper Stats
 
-*Scraped **52,388** Articles*
+*Scraped **52,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,874
-adaderanalk | 6,221
+adalk | 4,875
+adaderanalk | 6,222
 tamilmirrorlk | 7,258
-virakesarilk | 8,456
+virakesarilk | 8,457
 adaderanasinhalalk | 9,124
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,388 (100.0%) of 52,388 articles have been extended.
+52,391 (100.0%) of 52,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Use of smoke-emitting firecrackers renews air pollution debate in India’s capital ahead of Diwali
+
+*2024-10-31 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103070/use-of-smoke-emitting-firecrackers-renews-air-pollution-debate-in-indias-capital-ahead-of-diwali) · `en`
+
+As India gears up for Diwali, the Hindu festival of lights, people are divided over whether they should celebrate by setting off firecrackers, which worsen the country’s chronic air pollution.
+
+Diwali, which will be celebrated Thursday, is marked by socializing and exchanging gifts with family and friends. Many Indians light earthen oil lamps or candles. But every year the festivities are tinged with worries over air pollution, as smoke-emitting firecrackers cause toxic smog that can takes days to clear.
+
+The capital, New Delhi, which is among India’s worst cities for air quality, is particularly impacted by the problem and is usually shrouded in toxic gray smog a day after Diwali. Authorities there and in some other states have banned the use and sale of firecrackers since 2017, asking people to opt for more sustainable options like environmentally friendly firecrackers and light shows, but the rule is often flouted. Firecrackers can be easily bought from roadside stalls and stores.
+
+...
+
+[Data](articles/3e57e3cb.json)
+
+[Extended Data](ext_articles/3e57e3cb.ext.json)
+
+---
 
 ### China is more likely for Sri Lankans
 
@@ -110,6 +128,32 @@ Additionally, health officials warn that those who have not received the vaccine
 
 ---
 
+### To face climate changes and to remember the heroes
+
+*2024-10-31 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197583) · `ta`
+
+Climate change impacts: rising temperatures, wildfires, floods, sea-level rise. Forests protect against disasters. Water scarcity, crop failures, air pollution. Urgent action needed to mitigate effects.
+
+🟩
+
+We have the leadership that has created the Environmental Good Commission and the Forest Protection Division by calling it my friend within the siege of the war and maintaining our environment.We worshiped the trees as the worshipers of the trees.This cultural tradition will save us and the embarrassment from the attacks of climate change.
+
+In this way, the leader of the Tamil National Green Movement, Poor, is the governing body of the Holy Karthika, in the memory of the continuation of the culture and the climate change.. Angaranesan said.
+
+The Northern Provincial Council has been observed as the month of Northern Province since 2014. In front of this. He said this in a media report issued by Aingeranesan.
+
+The average temperature of the Earth increases annually.Wildfire and heat waves are furious than ever. On the other hand, the season is raining.
+
+The annual rain falls in a few days. Tens of thousands of people are killed every year around the world, trapped in floods and landslides.
+
+...
+
+[Data](articles/e63aae9c.json)
+
+[Extended Data](ext_articles/e63aae9c.ext.json)
+
+---
+
 ### The new state also speaks of Sinhala nationalism - wealthy!
 
 *2024-10-31 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197581) · `ta`
@@ -181,6 +225,30 @@ During the event, Jayaweera remarked, “Minister Vijitha Herath said that money
 [Data](articles/21228d16.json)
 
 [Extended Data](ext_articles/21228d16.ext.json)
+
+---
+
+### Money Notes can come from Anura's signature - they are not new printed money
+
+*2024-10-31 14:37:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියට-අනුරගේ-අත්සනින්-මුදල්-නෝට්ටු-එන්න-පුළුවන්---ඒවා-අලුතින්-මුද්‍රණය-කරන-සල්ලි-නෙවෙයි/11-412778) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake's signature appears on Money Notes, not new printed currency. Prime Minister Dr. Harathin Amarasuriya clarifies that increased amounts are destroyed, not added as new money. This is a normal Central Bank process.
+
+🟩
+
+Prime Minister Dr. Harathin Amarasuriya said that the signature of Mr. Anura Kumara Dissanayake was printed in the future.
+
+"Central Bank destroys Old Notes and Printing New Notes. It's normal. The increase in this amount is not added to a new amount of money. It will destroy those old notes.. But that is a normal process. Or not the newly printed money. "
+
+◼️
+
+[Data](articles/566e0081.json)
+
+[Extended Data](ext_articles/566e0081.ext.json)
 
 ---
 
@@ -2349,79 +2417,5 @@ The bodies have been recovered by the gem Subramaniam (age 54) and his wife Subr
 [Data](articles/379fc74f.json)
 
 [Extended Data](ext_articles/379fc74f.ext.json)
-
----
-
-### The main news on the holidays for Tamil schools
-
-*2024-10-31 00:20:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பாடசாலைகளுக்கான-விடுமுறை-குறித்த-முக்கிய-செய்தி/175-346341) · `ta`
-
-Tamil schools Southern Province granted holiday first day due to Diwali celebration. Special holiday announced for Sabaragamuwa, Central, Uva provinces. Decision aims to minimize inconvenience for students and teachers.
-
-🟩
-
-The Secretary of Education said that all Tamil schools in the Southern Province have been decided to grant holidays on the first day.
-
-Since the Diwali festival is to be celebrated tomorrow, the decision has been taken to consider the inconveniences for students and teachers the next day.
-
-Meanwhile, it was previously announced that all Tamil language schools in the Sabaragamuwa, Central and Uva provinces will be closed as a special school holiday.R
-
-◼️
-
-[Data](articles/0858b3e7.json)
-
-[Extended Data](ext_articles/0858b3e7.ext.json)
-
----
-
-### 2024-10-30 (Wednesday)
-
-### Railway Station Masters temporarily call off strike
-
-*2024-10-30 23:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103049/railway-station-masters-temporarily-call-off-strike) · `en`
-
-Railway Station Masters have decided to temporarily call off their strike action from midnight today (October 30).
-
-The decision was taken due to the Deepavali festival which falls tomorrow (October 31), according to the Sri Lanka Railways Station Masters’ Union.
-
-Railway Station Masters had resorted to trade union action by withdrawing from all ticketing duties from 4.30 p.m. today (30).
-
-However, the union had stated that there will be no disruptions to train services.
-
-On Tuesday (29), the Railway Station Masters’ Union warned that they will launch a strike action starting from midnight today (30), if their demands are not met during the discussion with the subject minister.
-
-The union decided to launch an immediate trade union action, over issues pertaining to the post of Railway Station Masters.
-
-...
-
-[Data](articles/5ea2036a.json)
-
-[Extended Data](ext_articles/5ea2036a.ext.json)
-
----
-
-### Another round of Lemon Juice…
-
-*2024-10-30 23:11:00* · [`islandlk`](http://island.lk/another-round-of-lemon-juice/) · `en`
-
-Hi! This week, too, another round of Lemon Juice…as my beauty tips for hair care…
-
-Massage 02 tablespoons of lemon juice directly onto your scalp. After a minute, rinse your hair using a teaspoon of lemon juice mixed in a cup of water.
-
-Heat up 06 tablespoons of coconut oil, then add the juice of a lemon and a teaspoon of honey. Mix well and apply generously to the hair and scalp. Let it rest for an hour and shampoo it as usual. This mask will help fight itchy dandruff and will take care of your split ends as well.
-
-All you have to do is mix the juice of 02 lemons in a cup of water; apply it to the scalp and hair, and rinse off after 10 minutes for a clean scalp.
-
-You can fill a jug with lemon juice mixed with water and use it to rinse your hair.
-
-*  Always rinse lemon juice off using plain water after about 10 minutes.
-
-*  Avoid exposing hair and scalp to the sun for a prolonged period after the application of lemon juice.
-
-...
-
-[Data](articles/9ac2e494.json)
-
-[Extended Data](ext_articles/9ac2e494.ext.json)
 
 ---

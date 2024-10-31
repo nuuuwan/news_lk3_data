@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 12:25:44**
+As of **2024-10-31 12:40:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,118
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,361 (100.0%) of 52,362 articles have been extended.
+52,362 (100.0%) of 52,362 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1414,19 +1414,21 @@ People should reject people like Mastan, who acts with the perverse of politics.
 
 ---
 
-### சர்வதேச மாநாடுகளைப் புறக்கணித்து வெளியுறவுக் கொள்கையை கேள்விக்குள்ளாக்கியுள்ள அரசாங்கம் - டலஸ் அழகப்பெரும
+### The government has ignored international conferences and questioned foreign policy - Dullas Alaparuma
 
 *2024-10-31 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197550) · `ta`
 
-முக்கியத்துவம் மிக்க சர்வதேச மாநாடுகளைப் புறக்கணித்து தற்போதைய அரசாங்கம் இலங்கையின் வெளியுறவுக் கொள்கையை கேள்விக்குள்ளாக்கியுள்ளது. இது சர்வதேசத்தின் மத்தியில் அரசாங்கத்துக்கு மாத்திரமின்றி முழு நாட்டுக்கும் அவப் பெயரை ஏற்படுத்தும் என முன்னாள் பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும தெரிவித்தார்.
+The current government has questioned Sri Lanka's foreign policy by ignoring important international conferences. Former parliamentarian Dullas Alahapperuma said this would be a name for the entire country in the middle of the international community.
 
-கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணி அலுவலகத்தில் புதன்கிழமை (31) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held at the United People's Alliance office in Colombo on Wednesday (31).
 
-இலங்கையில் இதுவரையில் சிறந்த வெளிநாட்டு கொள்கைகள் பின்பற்றப்பட்டு வந்தன. ஆனால் தற்போது அதில் சிக்கல்கள் ஏற்பட்டுள்ளன. ஜனாதிபதி அநுரகுமார திஸாநாயக்க பதவியேற்ற ஒரு மாதத்துக்குள் மூன்று பிரதான இராஜதந்திர சர்வதேச மாநாடுகள் இடம்பெற்றுள்ளன. ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை கூட்டத் தொடர், பொதுநலவாய நாடுகளின் தலைவர்களின் மாநாடு, பிரிக்ஸ் மாநாடு என்பவற்றை இந்த அரசாங்கம் புறக்கணித்துள்ளது.
+The best foreign policies have been adopted so far in Sri Lanka. But currently there are problems in it. Three major diplomatic international conferences are held within a month of President Anura Kumara Dissanayake. The government has boycotted the United Nations Human Rights Council Meeting, the Commonwealth Heads of Government Meeting and the BRICS Conference.
 
 ...
 
 [Data](articles/22b3892c.json)
+
+[Extended Data](ext_articles/22b3892c.ext.json)
 
 ---
 

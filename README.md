@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 17:09:23**
+As of **2024-10-31 17:40:45**
 
 ## Newspaper Stats
 
-*Scraped **52,396** Articles*
+*Scraped **52,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,876
-adaderanalk | 6,223
-tamilmirrorlk | 7,260
+adalk | 4,877
+adaderanalk | 6,224
+tamilmirrorlk | 7,264
 virakesarilk | 8,457
 adaderanasinhalalk | 9,125
 
@@ -26,25 +26,151 @@ adaderanasinhalalk | 9,125
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,395 (100.0%) of 52,396 articles have been extended.
+52,402 (100.0%) of 52,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
 
-### ගාලු මුවදොරදී බිහිසුණු අනතුරක්
+### Why removed their privileges?
+
+*2024-10-31 17:16:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்களின்-சலுகைகளை-நீக்கியது-ஏன்/175-346366) · `ta`
+
+Former President Ranil Wickremesinghe questions removal of concessions from Chandrika Bandaranaike Kumaratunga and Mahinda Rajapaksa. He criticizes Chandrika's lack of support and Rajapaksa's declining popularity. Wickremesinghe urges the government to revoke his own privileges, allowing others to retain theirs.
+
+🟩
+
+Former President Ranil Wickremesinghe has questioned the reason why the government removed the concessions given to former President Chandrika Bandaranaike Kumaratunga and Mahinda Rajapaksa.
+
+Ranil Wickremesinghe pointed out that the Janatha Vimukthi Peramuna (JVP) was involved in the murder of Chandrika's husband and that she (Chandrika) was injured in the blast.
+
+“Chandrika Bandaranaike Kumaratunga never supported me. We have only worked together to support Maithripala Sirisena, ”he said.
+
+Commenting on Mahinda Rajapaksa, the former president pointed out that it was a matter of losing his influence among the people of Rajapaksa, but he should consider his safety in view of the end of the war.
+
+Ranil Wickremesinghe has urged the government to remove all his privileges and allow others to continue to be the privileges given to others.
+
+Former President Ranil Wickremesinghe, who warned the government not to intervene in the parliamentary organization, said that such issues should be held.
+
+◼️
+
+[Data](articles/bc0f9749.json)
+
+[Extended Data](ext_articles/bc0f9749.ext.json)
+
+---
+
+### 7 injured in accident near Galle Face
+
+*2024-10-31 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103072/7-injured-in-accident-near-galle-face) · `en`
+
+Seven individuals have been injured and hospitalized after a three-wheeler collided with a motorcycle and a car near the Galle Face Green in Colombo this afternoon (31).
+
+Police said that 05 persons who were travelling in the three-wheeler and two others who were on the motorcycle which was involved in the accident sustained injuries during the incident.
+
+The injured persons have been admitted to the Colombo National Hospital for treatment.
+
+Colombo Fort Police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/6ee36ac1.json)
+
+[Extended Data](ext_articles/6ee36ac1.ext.json)
+
+---
+
+### "The name is recommended without permission"
+
+*2024-10-31 17:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-பெயர்-பரிந்துரைக்கப்பட்டுள்ளது/175-346365) · `ta`
+
+National Democratic Front candidates claim names added without permission for general election in Matara district. Complaints filed with police and Election Commission. Candidates advised to report to local election officer.
+
+🟩
+
+Four candidates from the Matara district, proposed by the National Democratic Front (NDF) for the general election, have said that their names have been nominated without their permission.
+
+The candidates have complained that they have been named without their consent, and that they have been named after the list of candidates with the voter card issued by the Postal Department.
+
+Tharanga Deshapriya, Samal Lasantha, Nishal Brinayantha and Prasad Udaya have complained that the list of candidates of the National Democratic Front, which is contesting in the car symbol in the Matara district.
+
+The police have sent this complaint to the Election Office at the Matara Police Superintendent's Office and have taken steps to inform the Elections Commission.
+
+All four candidates have been advised to lodge a complaint with the Matara Election Officer.
+
+◼️
+
+[Data](articles/365c9b84.json)
+
+[Extended Data](ext_articles/365c9b84.ext.json)
+
+---
+
+### Modi celebrates Diwali with soldiers
+
+*2024-10-31 17:06:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராணுவ-வீரர்களுடன்-தீபாவளி-கொண்டாடிய-மோடி/175-346364) · `ta`
+
+PM Modi celebrates Diwali with soldiers in Gujarat's Kachch. He praised India's military strength and modernization efforts.
+
+🟩
+
+Prime Minister Modi, Gujarat's Kachil, Defense Minister Rajnath Singh and Assam Tejpur celebrated Diwali as the Diwali festival is being celebrated across the country today (Thursday).
+
+Prime Minister Modi celebrated this Diwali with soldiers in the Kachch area of ​​Gujarat for the first time since he became prime minister in 2014. At the time, the Prime Minister said, “It is a great pleasure to have a chance to celebrate Diwali with soldiers. I congratulate all of you.
+
+There is a government that is not ready to compromise even on an inch of land in the country. With the needs of the 21st century, we are refreshing our army and security forces with modern resources. We would like to stop our army in the competition with the most modern army in the world. The basic purpose of this is the security sector gaining self -sufficiency.
+
+We see 1 ground forces, 1 Air Force, 1 Sea. But we can see them as 111 according to them. ”The Prime Minister said.
+
+◼️
+
+[Data](articles/9141ecbe.json)
+
+[Extended Data](ext_articles/9141ecbe.ext.json)
+
+---
+
+### A terrible accident in the Galle Face
 
 *2024-10-31 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202775) · `si`
 
-ගාලු මුවදොර පිටිය ආසන්නයේ අද (31) දහවල් සිදුවූ රිය අනතුරකින් පුද්ගලයින් 07දෙනෙකු තුවාල ලබා තිබේ.
+Accident at Galle Face: Three-wheeler collides with motorcycle and car, injuring seven. Five in three-wheeler and two others hurt, admitted to Colombo National Hospital.
 
-ත්‍රීරෝද රථයක් යතුරුපැදියක සහ මෝටර් රථයක ගැටීමෙන් එම අනතුර සිදුවී ඇති බව පොලීසිය පැවසීය.
+🟩
 
-අනතුරින් ත්‍රීරෝද රථයේ ගමන්ගත් පුද්ගලයින් 05 දෙනෙකු සහ යතුරුපැදියේ ගමන් කළ පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා කොළඹ ජාතික රෝහලට ඇතුළත් කෙරුණි.
+Seven persons were injured in an accident near the Galle Face Green today (31).
+
+The accident had occurred when a three-wheeler collided with a motorcycle and car.
+
+Five persons traveling in the three-wheeler and two people were injured and admitted to the Colombo National Hospital.
 
 ◼️
 
 [Data](articles/c0eeec37.json)
+
+[Extended Data](ext_articles/c0eeec37.ext.json)
+
+---
+
+### Abuse of Biku;சிறை ுவ ுவ சிறை சிறை சிறை சிறை சிறை ுவ
+
+*2024-10-31 16:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-துஷ்பிரயோகம்-பிக்குவிற்கு-கடூழிய-சிறை/175-346363) · `ta`
+
+Buddhist monk sentenced 7 years jail for child abuse, fined Rs. 100,000, ordered to pay 100,000 compensation.
+
+🟩
+
+The Colombo High Court has sentenced a Buddhist monk to seven years rigorous imprisonment for allegedly sexually abusing a child.
+
+The court also has a fine of Rs.. It has also been ordered to pay 100,000 compensation.
+
+Colombo High Court Judge Mahesh Weeraman made the verdict yesterday (30)
+
+◼️
+
+[Data](articles/5e2219b3.json)
+
+[Extended Data](ext_articles/5e2219b3.ext.json)
 
 ---
 
@@ -107,6 +233,28 @@ Former State Minister Lohan Ratwatte has been arrested in connection with the di
 [Data](articles/93580ee1.json)
 
 [Extended Data](ext_articles/93580ee1.ext.json)
+
+---
+
+### Bangladesh defeated by South Africans
+
+*2024-10-31 16:28:20* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකානුවන්​-හමුවේ-බංග්ලාදේශයට-දරුණු-පරාජයක්/9-412780) · `si`
+
+Bangladesh lost to South Africa in cricket match. Bangladesh scored 273 runs, while South Africa reached 575/6. South Africa won both innings, defeating Bangladesh.
+
+🟩
+
+The Bangladesh team took place a few moments before the group of tourist destinations and 273 runs.
+
+South Africa decided to suspend 575 runs for the loss of 6 wickets while the first to bat first.
+
+The first innings scored 159 runs for the loss of 159 runs for the loss of all wickets in their second innings.
+
+◼️
+
+[Data](articles/22cdcd27.json)
+
+[Extended Data](ext_articles/22cdcd27.ext.json)
 
 ---
 
@@ -2257,137 +2405,5 @@ He further stated that a special holiday has been granted on the eve of Diwali a
 [Data](articles/62313e80.json)
 
 [Extended Data](ext_articles/62313e80.ext.json)
-
----
-
-### Lankan envoy in Canada meets Ontario Governor, business chambers and community leaders
-
-*2024-10-31 03:42:21* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Canada-meets-Ontario-Governor-business-chambers-andcommunity-leaders/56-768637) · `en`
-
-Canadian High Commissioner to Sri Lanka U.L. Mohammed Jauhar undertook an official visit to Toronto recently, following the presentation of credentials to the Governor General of Canada.
-
-During the visit, the High Commissioner paid a courtesy call on the Lieutenant Governor of Ontario Edith Dumont and also met with business and community leaders.
-
-High Commissioner Jauhar briefed the Lt. Governor on the recent developments in Sri Lanka, including the Presidential election and the forthcoming general elections. He conveyed his willingness to work with the Government of the Province of Ontario, to further strengthen the relations with Sri Lanka, since it is the home for several thousands of Sri Lankan-origin Canadians. He also expressed his hope that they become partners of development of their respective regions in Sri Lanka.
-
-...
-
-[Data](articles/64534086.json)
-
-[Extended Data](ext_articles/64534086.ext.json)
-
----
-
-### வக்கிரபுத்தியுள்ளோரை அரசியலிலிருந்து ஓரங்கட்ட வன்னி மக்கள் தயாராகிவிட்டனர்; மஸ்தானின் செயற்பாடுகள் கீழ்த்தரமானவை - ரிஷாட்
-
-*2024-10-31 03:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197551) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rishad Bathiudeen criticizes Mastan's political actions as detrimental to Vanni district development. He accuses Mastan of supporting Rajapaksas' attempts to arrest his brother Riyaj Pathiyudeen and hinder school construction projects. Rishad claims his party is poised to win seats in several districts, including Ampara, Batticaloa, Puttalam, and Kurunegala.
-
-🟩
-
-All Ceylon People's Congress leader and Vanni district United People's Power Candidate Rishad Bathiudeen said that the Vanni district parliamentarian Mastan was unforgettable in the mood to prohibit the development of the people in politics.
-
-செவ்வாய்க்கிழமை (29) மன்னார், தாராபுரத்தில் இடம்பெற்ற தேர்தல் பிரச்சாரக் கூட்டத்தில் கலந்துகொண்டு உரையாற்றிய அவர் மேலும் தெரிவித்ததாவது,
-
-“80 former MPs do not contest the general election. They are the only ones who think they cannot win. அதேபோன்று, போட்டியிடும் இன்னும் சிலரை மக்கள் இம்முறை தோற்கடிக்கவும் தீர்மானித்துள்ளனர்.
-
-People should reject people like Mastan, who acts with the perverse of politics. தாராபுரம் மண்ணின் பெருமைக்கே இழுக்கு ஏற்படும் வகையில், இவரது செயற்பாடுகள் இருந்தன.
-
-...
-
-[Data](articles/638bb26b.json)
-
-[Extended Data](ext_articles/638bb26b.ext.json)
-
----
-
-### The government has ignored international conferences and questioned foreign policy - Dullas Alaparuma
-
-*2024-10-31 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197550) · `ta`
-
-Sri Lanka's government ignores key international conferences, questioning foreign policy. Former MP Dullas Alahapperuma criticizes absence from UN, Commonwealth, and BRICS meetings. He warns this may damage national reputation internationally.
-
-🟩
-
-The current government has questioned Sri Lanka's foreign policy by ignoring important international conferences. Former parliamentarian Dullas Alahapperuma said this would be a name for the entire country in the middle of the international community.
-
-He further stated at a press conference held at the United People's Alliance office in Colombo on Wednesday (31).
-
-The best foreign policies have been adopted so far in Sri Lanka. But currently there are problems in it. Three major diplomatic international conferences are held within a month of President Anura Kumara Dissanayake. The government has boycotted the United Nations Human Rights Council Meeting, the Commonwealth Heads of Government Meeting and the BRICS Conference.
-
-...
-
-[Data](articles/22b3892c.json)
-
-[Extended Data](ext_articles/22b3892c.ext.json)
-
----
-
-### ‘‘Sri Lanka’s ISB restructure: Debt trap backed by IMF and Ceylon Chamber of Commerce’’
-
-*2024-10-31 03:04:57* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-ISB-restructure-Debt-trap-backed-by-IMF-and-Ceylon-Chamber-of-Commerce/4-768633) · `en`
-
-Sri Lanka’s debt crisis is a stark example of the destructive power of predatory lending
-
-The current NPP administration has agreed to implement a new variant of the same corrupt deal which merely reduces the weighted coupon rate of interest of bonds from 8.1% to 6.5% from 2028 onwards reducing total payments by $ 1 billion. The new Government must reject this destructive path and prioritise people’s interests. It is evident that the Sri Lankan Government’s actions have been influenced by corrupt interests. The cosy relationship between the Government and international creditors raises serious questions about transparency and accountability. The new administration must break free from this destructive path and prioritise the well-being of the Sri Lankan people
-
-...
-
-[Data](articles/e8b07ab9.json)
-
-[Extended Data](ext_articles/e8b07ab9.ext.json)
-
----
-
-### Irrational behaviour of RW and MR vs. rational behaviour of President AKD
-
-*2024-10-31 02:51:40* · [`dailyftlk`](https://www.ft.lk/columns/Irrational-behaviour-of-RW-and-MR-vs-rational-behaviour-of-President-AKD/4-768632) · `en`
-
-As a well-educated veteran politician who has served in parliament for nearly 50 years and has been the leader of UNP for a long time, the public expects that Ex-President RW will behave and respond rationally. The above can also be well applied to Ex-President MR. However, this article shows that their irrational behaviour can be compared with the rational behaviour of President AKD. Along with 50 years in politics, RW and MR failed to achieve political maturity in the right direction that the President/AKD achieved within 20 years of politics; the young politicians who follow AKD can learn all. But those who follow RW and MR are lost
-
-Given the parliamentary election on 14 November 2024, the public can hear unique and surprising things about politics, particularly from political rallies. This article aims to discuss a few of the above so that voters can better understand whom to cast their votes for.
-
-...
-
-[Data](articles/0994f312.json)
-
-[Extended Data](ext_articles/0994f312.ext.json)
-
----
-
-### The story behind the vocabulary between Ranil and Harani
-
-*2024-10-31 02:41:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgk1jgp0gjko) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe and Professor Harini Amarasuriya clash over public servant salary increases. Wickremesinghe denies violating election laws, while Amarasuriya accuses him of making false promises. Both sides question each other's constitutional authority and experience in governance.
-
-🟩
-
-On October 29, former President Ranil Wickremesinghe held in a campaign meeting in Pannala, Professor Harini Amarasuriya is a statement.
-
-He responded that the Prime Minister was based on October 27 on October 27.
-
-Accordingly, an alleged war between the former President and the present Prime Minister insists that there is growing.
-
-Speaking at a public meeting in Padukka, Amarasuriya expressed his views that the salaries of public servants increased by the false promise of "a false promise."
-
-"Now Ranil Wickremesinghe has decided to increase the salaries of public servants, but the decision of the Cabinet decision at the Cabinet discussion is not approved by the Treasury or the Treasury.. The decision was made, but the decision was taken to make the decision to be implemented, but not done. What does that mean then?Clearly, it is a false promise in the election period, to mislead the people. "
-
-Is the presidential announcement on salaries of public servants violating election laws?
-
-...
-
-[Data](articles/b8954339.json)
-
-[Extended Data](ext_articles/b8954339.ext.json)
 
 ---

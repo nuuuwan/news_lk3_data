@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 08:03:34**
+As of **2024-10-31 08:25:04**
 
 ## Newspaper Stats
 
-*Scraped **52,301** Articles*
+*Scraped **52,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,77 @@ newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 531
 bbccomsinhala | 534
-islandlk | 3,106
+islandlk | 3,118
 economynextcom | 3,180
 dailyftlk | 3,579
 dailymirrorlk | 4,733
 adalk | 4,861
-adaderanalk | 6,202
+adaderanalk | 6,204
 tamilmirrorlk | 7,250
 virakesarilk | 8,442
-adaderanasinhalalk | 9,106
+adaderanasinhalalk | 9,107
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,301 (100.0%) of 52,301 articles have been extended.
+52,301 (100.0%) of 52,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Spain battles deadliest flood disaster in decades as death toll rises to 95
+
+*2024-10-31 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103051/spain-battles-deadliest-flood-disaster-in-decades-as-death-toll-rises-to-95) · `en`
+
+Spain is enduring its worst flooding disaster in decades, with at least 95 people dead and dozens more missing, after huge rains swept the eastern province of Valencia and beyond.
+
+Torrential rain on Tuesday triggered flash floods which swept away bridges and buildings and forced people to climb on to roofs or cling to trees to survive.
+
+Prime Minister Pedro Sánchez has declared three days of national mourning as the extreme conditions continue, restricting some rescue efforts.
+
+The death toll is feared to climb as “there are many missing people”, the government says.
+
+At least 92 deaths were recorded in Valencia, with another two in Castilla-La Mancha to Valencia’s west and one in Málaga - a 71-year-old British man who died in hospital after being rescued from his home.
+
+The flooding death toll is the country’s worst since 1973, when at least 150 people were estimated to have died in the nation’s worst-ever floods in the south-east.
+
+...
+
+[Data](articles/ca5c63fc.json)
+
+---
+
+### පොල් හිඟය ලබන වසරේ අප්‍රේල් දක්වා
+
+*2024-10-31 07:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202754) · `si`
+
+රට තුළ පොල් නිෂ්පාදනයේ අඩුවීම ලබන වසරේ අප්‍රේල් දක්වා පවතිනු ඇති බව පොල් පර්යේෂණ ආයතනය පවසයි.
+
+◼️
+
+[Data](articles/c6f521d8.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-10-31 07:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103050/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the atmospheric conditions are getting favorable for afternoon thundershowers in most parts of the island for the next few days starting from today (31).
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night. Showers or thundershowers may occur at several places in Northern and Eastern provinces during the morning too, it added.
+
+Fairly heavy showers above 75 mm are likely at some places in Uva, Eastern and North-central provinces.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/ab9e7ff1.json)
+
+---
 
 ### Hindu devotees celebrates Dayapavali today
 
@@ -547,6 +599,102 @@ The union decided to launch an immediate trade union action, over issues pertain
 [Data](articles/5ea2036a.json)
 
 [Extended Data](ext_articles/5ea2036a.ext.json)
+
+---
+
+### Another round of Lemon Juice…
+
+*2024-10-30 23:11:00* · [`islandlk`](http://island.lk/another-round-of-lemon-juice/) · `en`
+
+Hi! This week, too, another round of Lemon Juice…as my beauty tips for hair care…
+
+Massage 02 tablespoons of lemon juice directly onto your scalp. After a minute, rinse your hair using a teaspoon of lemon juice mixed in a cup of water.
+
+Heat up 06 tablespoons of coconut oil, then add the juice of a lemon and a teaspoon of honey. Mix well and apply generously to the hair and scalp. Let it rest for an hour and shampoo it as usual. This mask will help fight itchy dandruff and will take care of your split ends as well.
+
+All you have to do is mix the juice of 02 lemons in a cup of water; apply it to the scalp and hair, and rinse off after 10 minutes for a clean scalp.
+
+You can fill a jug with lemon juice mixed with water and use it to rinse your hair.
+
+*  Always rinse lemon juice off using plain water after about 10 minutes.
+
+*  Avoid exposing hair and scalp to the sun for a prolonged period after the application of lemon juice.
+
+...
+
+[Data](articles/9ac2e494.json)
+
+---
+
+### CIPM partners Vavuniya University for 5th Research Conference on Business Studies
+
+*2024-10-30 22:55:00* · [`islandlk`](http://island.lk/cipm-partners-vavuniya-university-for-5th-research-conference-on-business-studies/) · `en`
+
+CIPM Sri Lanka – the Nation’s leader in human resource management, was a conference partner at the recently concluded 5th Research Conference on Business Studies (RCBS) 2024 organized by the Faculty of Business Studies of the University of Vavuniya. Chartered Fellow Member of CIPM Sri Lanka and Board Member of the Human Resource & Remuneration Committee at the Central Bank of Sri Lanka – C. Hewapattini represented CIPM at this conference participating in the panel discussion titled “Unlocking Business Frontiers: Exploring Innovations and Knowledge Diffusion” which provided deep insights into the latest trends in business, management, and innovation.
+
+“As we unlock business frontiers, the question is no longer ‘What do you know?’ but ‘What can you do with what you know?’. Competence diffusion is the key to turning potential into performance,” said Hewapattini.
+
+...
+
+[Data](articles/a4ca0e97.json)
+
+---
+
+### Smartest and most customisable Life Insurance solution for every lifestyle
+
+*2024-10-30 22:54:00* · [`islandlk`](http://island.lk/smartest-and-most-customisable-life-insurance-solution-for-every-lifestyle/) · `en`
+
+AIA Insurance proudly announces the launch of AIA SaveSmart, the smartest and highly customisable life insurance plan designed to meet the diverse financial needs of Sri Lankans at every stage of life. Whether saving for a child’s higher education or planning for a dream retirement, AIA SaveSmart offers the most flexible and accessible solution tailored to individual savings goals.
+
+AIA SaveSmart stands out as the smartest choice for anyone looking to secure their financial future. The plan can be uniquely tailored to the specific nature of the customer’s savings requirements, providing unparalleled flexibility. From funding a child’s education to building a health fund or planning for retirement, AIA SaveSmart caters to the savings needs of different generations, ensuring a comprehensive solution that grows with you.
+
+...
+
+[Data](articles/1189edcf.json)
+
+---
+
+### NDB NEOS Corporate drives NDB’s victory as Sri Lanka’s Best Bank for Corporates at Euromoney Awards 2024
+
+*2024-10-30 22:52:00* · [`islandlk`](http://island.lk/ndb-neos-corporate-drives-ndbs-victory-as-sri-lankas-best-bank-for-corporates-at-euromoney-awards-2024/) · `en`
+
+National Development Bank PLC (NDB) has been named Sri Lanka’s Best Bank for Corporates at the Euromoney Awards 2024, highlighting the bank’s unparalleled commitment to supporting businesses across various sectors.
+
+The Euromoney Awards are known for their rigorous assessment process, and NDB’s victory in the Best Bank for Corporates category is a reflection of the bank’s continuous efforts to provide value-added services for corporate clients, including large enterprises, small and medium-sized enterprises (SMEs), and emerging businesses.
+
+NDB’s Corporate Banking capabilities are rooted in understanding the specific needs of businesses. NDB’s NEOS Corporate, a cutting-edge platform that is redefining corporate banking in Sri Lanka, offers an advanced suite of online payment solutions and cash management tools and also provides seamless control over domestic and international transactions, bulk payments, and salary disbursements.
+
+...
+
+[Data](articles/e3452d20.json)
+
+---
+
+### Pan Asia Bank posts an impressive financial performance
+
+*2024-10-30 22:51:00* · [`islandlk`](http://island.lk/pan-asia-bank-posts-an-impressive-financial-performance/) · `en`
+
+Pan Asia Banking Corporation PLC reported a resilient financial performance for the 9-month period ended 30th September 2024 amidst diverse challenges emerging from the improved but challenging macro-economic environment. The Bank’s financial performance in the current period demonstrated excellence in core banking performance, judicious portfolio management and prudency in navigating a possible fallout on its asset quality.
+
+Supported by improved net interest income, fee & commission income and other operating income and reduced credit costs, the Bank reported a Pre-tax Profit of Rs. 3.22 Bn for the 9 months period ended 30th September 2024, which is 52% increase compared to the corresponding period last year.
+
+...
+
+[Data](articles/72643e19.json)
+
+---
+
+### CSE turnover hits Rs. 7 billion mark accompanied by notable number of crossings
+
+*2024-10-30 22:49:00* · [`islandlk`](http://island.lk/cse-turnover-hits-rs-7-billion-mark-accompanied-by-notable-number-of-crossings/) · `en`
+
+The stock market’s performance was volatile yesterday but the banking sector performed well throughout the day. Furthermore, turnover touched the Rs 7 billion mark with the most number of crossings together with a higher number of trades, market analysts said.
+
+The All Share Price Index went up by 24.58 points, while the S and P SL20 rose by 12.43 points. Turnover stood at Rs 7 billion with 15 crossings.
+
+...
+
+[Data](articles/b5973310.json)
 
 ---
 
@@ -2115,197 +2263,5 @@ He was speaking at a media briefing held at a press conference held today (30).
 [Data](articles/27c3984c.json)
 
 [Extended Data](ext_articles/27c3984c.ext.json)
-
----
-
-### Petition against Ranjan Ramanayake’s nomination dismissed
-
-*2024-10-30 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103034/petition-against-ranjan-ramanayakes-nomination-dismissed) · `en`
-
-The Supreme Court today (30) dismissed a petition filed seeking an order to reject the nomination of former Member of Parliament Ranjan Ramanayake, who is contesting the upcoming general election under the “United Democratic Voice” party from the Gampaha District.
-
-This order has been issued by the three-member Supreme Court judge bench comprising Justices Preethi Padman Surasena, Kumuduni Wickremesinghe and Achala Vengappuli after considering the preliminary objections raised by the attorneys of the defendant party.
-
-The petition, submitted by Gampaha District independent candidate K.M. Mahinda Senanayake, had also sought a ruling declaring that Ramanayake does not have the right to obtain a parliamentary seat or vote.
-
-The Election Commission and its members, Ranjan Ramanayake, the Gampaha District Returning Officer, and several others were named as respondents in the case.
-
-◼️
-
-[Data](articles/790ecf1b.json)
-
-[Extended Data](ext_articles/790ecf1b.ext.json)
-
----
-
-### Ashen Senaratne eyes parliamentary seat through National List
-
-*2024-10-30 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103033/ashen-senaratne-eyes-parliamentary-seat-through-national-list-) · `en`
-
-Social media activist Ashen Senaratne says that he expects to enter the Parliament through the national list in the upcoming General Election, although his nomination was rejected.
-
-Senaratne stated that he recently joined the Independent Group No. 15 in Colombo, while expressing his aspiration to eventually lead the country, stating, “one day becoming the President of the country is my last hope.”
-
-Senaratne became a controversial figure recently when the District Returning Officer rejected his nomination on behalf of an independent group for the Colombo District. Following this setback, he filed a petition with the Supreme Court, challenging the decision to dismiss his nomination.
-
-However, the Supreme Court, in a ruling delivered by a three-judge bench comprising Justices Preethi Padman Surasena, Achala Vengappuli, and Priyantha Fernando, upheld the Returning Officer’s decision.
-
-...
-
-[Data](articles/0af344a3.json)
-
-[Extended Data](ext_articles/0af344a3.ext.json)
-
----
-
-### Bail for Johnstan
-
-*2024-10-30 12:56:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனுக்கு-பிணை/175-346313) · `ta`
-
-Johnston Fernando, former minister, granted bail for arrest related to unregistered luxury vehicle seizure.
-
-🟩
-
-Former minister Johnston Fernando has been granted bail in the arrest and interrogation in connection with an unregistered luxury vehicle.
-
-His owned luxury vehicle was seized at the star hotel complex in Colombo. Subsequently, Johnston Fernando, who was summoned to the Criminal Investigation Division, was arrested after an investigation and placed on a court order.
-
-◼️
-
-[Data](articles/23533cd8.json)
-
-[Extended Data](ext_articles/23533cd8.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-10-30 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197496) · `ta`
-
-US dollar exchange rate: 289.0630 rupees buying, 298.1487 selling. Released by Central Bank on Wednesday, March 30th.
-
-🟩
-
-The US dollar purchasing price was 289.0630 rupees and the sales price were 298.1487 rupees based on a currency exchange rate released by the Central Bank on Wednesday (30).
-
-◼️
-
-[Data](articles/3e2c23a0.json)
-
-[Extended Data](ext_articles/3e2c23a0.ext.json)
-
----
-
-### Sarcasm
-
-*2024-10-30 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197494) · `ta`
-
-Fishermen spotted unusual fish in Batticaloa waters. Little black fish found dead on shore in several locations.
-
-🟩
-
-In many parts of the Batticaloa district of the Eastern Province, a type of fish has been shown from the sea on Tuesday (29) evening.
-
-The fishermen of the area have observed the fish in many places including Kaluthawala, Thettathivu, Chettipal, Mangadu and Kurukkammadam.
-
-The little black fish in her is thus died on the banks of the shore.
-
-◼️
-
-[Data](articles/99c3e9f0.json)
-
-[Extended Data](ext_articles/99c3e9f0.ext.json)
-
----
-
-### Arrest of boyfriend
-
-*2024-10-30 12:37:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காதலியை-கடலில்-தள்ளிவிட்ட-காதலன்-கைது/175-346311) · `ta`
-
-Boyfriend throws girlfriend into sea during argument; 19-year-old dies. Police investigating, suspect arrested. Incident occurred near Biyagala coast.
-
-🟩
-
-The death of a girlfriend who was thrown into the sea by a boyfriend was killed in a rocky rock in Biyagala on Wednesday afternoon (29) afternoon.
-
-Tarushi Chevmini, a 19 -year -old woman from Bahalgoda, Biyagala, has died.
-
-Investigations have revealed that the young man has thrown his girlfriend into the sea after the conflict between the two was violated while the romantic couple was talking on the Biyagala Theiyalagoda coast.
-
-Further investigations into the incident are being carried out by the police and the suspect has been arrested.
-
-◼️
-
-[Data](articles/0c2c8d1f.json)
-
-[Extended Data](ext_articles/0c2c8d1f.ext.json)
-
----
-
-### Bangladesh and Sri Lanka to expedite negotiation on PTA
-
-*2024-10-30 12:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103032/bangladesh-and-sri-lanka-to-expedite-negotiation-on-pta) · `en`
-
-Dhaka and Colombo have stressed accelerating negotiations over signing the Preferential Trade Agreement (PTA) at the earliest to unlock the untapped potential of bilateral trade between Bangladesh and Sri Lanka.
-
-The intention was observed when Sri Lankan High Commissioner to Bangladesh Dharmapala Weerakkody met Foreign Secretary Md. Jashim Uddin at the foreign ministry in Dhaka on Tuesday.
-
-During the meeting, the foreign secretary outlined the reform initiatives and priorities of the interim government aimed at ensuring free, fair and participatory elections.
-
-While taking stock of the pending agreements and Memorandum of Understandings (MoUs) between the two countries, both sides stressed the importance of finalising agreements on coastal shipping, avoidance of double taxation, and mutual administrative assistance in customs matters.
-
-They underscored the need for holding Foreign Office Consultations between Bangladesh and Sri Lanka to discuss the entire gamut of bilateral relations.
-
-...
-
-[Data](articles/f8980233.json)
-
-[Extended Data](ext_articles/f8980233.ext.json)
-
----
-
-### Johnston Fernando released on bail
-
-*2024-10-30 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103031/johnston-fernando-released-on-bail) · `en`
-
-Former Minister Johnston Fernando, who was arrested and remanded over the unregistered luxury vehicle allegedly belonging to him found parked in a star-class hotel premises, has been granted bail.
-
-He was ordered to be released on 5 surety bails of Rs. 5 million each by the Colombo Fort Magistrate’s Court under strict conditions, Ada Derana reporter said.
-
-Furthermore, Fort Magistrate Thanuja Lakmali ordered the accused to refrain from interfering or influencing the investigations into the case, while the travel ban imposed on the former Minister was further extended.
-
-Former Minister Johnston Fernando, was arrested by the CID on October 23 over an incident of an unregistered luxury vehicle allegedly belonging to him found suspiciously parked at a star-class hotel premises, and he was remanded until October 30 by Colombo Fort Magistrate.
-
-The Former MP was arrested after he had arrived at the CID to provide a statement regarding the unregistered BMW car, allegedly belonging to him.
-
-...
-
-[Data](articles/054deae9.json)
-
-[Extended Data](ext_articles/054deae9.ext.json)
-
----
-
-### Arrested in four Hatton with drugs including ice
-
-*2024-10-30 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/197488) · `ta`
-
-Four youths arrested in Hatton for possessing drugs like ice during Diwali celebration. Police raid recovered ice, cannabis, and pills. Aged 22 and 28, they'll face court proceedings.
-
-🟩
-
-Four youths who have taken drugs including ice to celebrate Diwali festival have been arrested by Hatton police on Wednesday (30).
-
-They have come to their hometown for Diwali. The police have raided their behavior.
-
-Ice, cannabis and drug pills have been recovered from them, police said.
-
-The youth, who are aged 22 and 28, will be produced in court after the hearing.
-
-◼️
-
-[Data](articles/0ec3b72b.json)
-
-[Extended Data](ext_articles/0ec3b72b.ext.json)
 
 ---

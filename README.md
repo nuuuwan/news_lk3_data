@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-10-31 14:25:07**
+As of **2024-10-31 15:10:31**
 
 ## Newspaper Stats
 
-*Scraped **52,375** Articles*
+*Scraped **52,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,83 @@ islandlk | 3,118
 economynextcom | 3,181
 dailyftlk | 3,579
 dailymirrorlk | 4,733
-adalk | 4,872
-adaderanalk | 6,218
+adalk | 4,873
+adaderanalk | 6,220
 tamilmirrorlk | 7,258
 virakesarilk | 8,452
-adaderanasinhalalk | 9,121
+adaderanasinhalalk | 9,122
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,375 (100.0%) of 52,375 articles have been extended.
+52,379 (100.0%) of 52,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-10-31 (Thursday)
+
+### Dilith Jayaweera vows to build a strong opposition to ‘challenge and change’ existing system
+
+*2024-10-31 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103068/dilith-jayaweera-vows-to-build-a-strong-opposition-to-challenge-and-change-existing-system) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera urged the public to vote for ‘Sarvajana Balaya’ to establish a strong opposition capable of challenging and changing the existing system.
+
+He made this statement at a public meeting held in Raddolugama, as part of a series of gatherings leading up to the upcoming general election.
+
+During the event, Jayaweera remarked, “Minister Vijitha Herath said that money wasn’t printed. If it had been, it would have had Anura Kumara’s signature on it. I was surprised; he’s been a parliament member for about 25 years and studied at Kelaniya University around the same time as I did. Currency printing isn’t just about printing paper rupees; it means increasing the country’s money supply. I honestly believe he may not understand this basic economic concept,” he added.
+
+...
+
+[Data](articles/21228d16.json)
+
+[Extended Data](ext_articles/21228d16.ext.json)
+
+---
+
+### Transparency and governance reforms key to attracting manufacturers to Sri Lanka - US Ambassador
+
+*2024-10-31 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103067/transparency-and-governance-reforms-key-to-attracting-manufacturers-to-sri-lanka-us-ambassador) · `en`
+
+The United States Ambassador to Sri Lanka Julie Chung states that if the new government can strengthen the investment climate, implement anti-corruption measures, and strengthen business-friendly governance and transparency, there is potential for attracting more international manufacturers to invest in the country.
+
+Joining the groundbreaking ceremony for Indiana-based SHIELD company’s new seatbelt factory in Sri Lanka, the US Ambassador said that SHIELD’s decision to shift its facility in China to establish a manufacturing facility in Sri Lanka is a testament to the growing interest of U.S. investment in Sri Lanka.
+
+“The United States is already the largest export market for Sri Lanka, and it’s wonderful to see greater U.S. investment directly here, as well.  We want to see even greater bilateral trade and investment expand both ways in the years to come”, she added.
+
+...
+
+[Data](articles/647b817d.json)
+
+[Extended Data](ext_articles/647b817d.ext.json)
+
+---
+
+### Special Program for Vaccination of Surquences from November 4 to 9
+
+*2024-10-31 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202770) · `si`
+
+Measles vaccination program Nov 4-9, 12 districts nationwide. Aim: protect children under 9 months. Health sector concerns: vaccine shortage, insufficient staff. Sri Lanka previously measles-free, cases reported since 2023.
+
+🟩
+
+The Ministry of Health has taken steps to implement a special program to meet a measurement of measles vaccines from November 4 to 9 on November 4.
+
+Epidemiology of the Ministry of Health Dr. Hasitha Tissera points out that the program is being carried out in 12 districts island wide.
+
+Sri Lanka is a country that has eradicated measles, but the health sector points out that after 2023, Sarams patients have been reported from some areas.
+
+At the age of 9 months, the children of the children are given a high risk of measles.
+
+The health sectors point out that the personnel are not available, as well as only one dose-only personnel are in danger.
+
+◼️
+
+[Data](articles/817f99ab.json)
+
+[Extended Data](ext_articles/817f99ab.ext.json)
+
+---
 
 ### Car into rocky cavity: Death of family
 
@@ -49,6 +111,44 @@ The person who died in the accident has been revealed to be a farmer. Further in
 [Data](articles/e1741d2d.json)
 
 [Extended Data](ext_articles/e1741d2d.ext.json)
+
+---
+
+### Father's children are hungry, who has passed away from life without money
+
+*2024-10-31 13:13:48* · [`adalk`](https://www.ada.lk/breaking_news/බෙහත්-ගන්න-සල්ලි-නැතිව-ජීවිතයෙන්-සමුගත්-පියාගේ-දරු-පස්-දෙනා-කුසගින්නේ/11-412776) · `si`
+
+Here's a 200-character summary:
+
+
+
+A struggling single mother in Kosgoda faces financial hardship after her husband's death. She struggles to feed her seven children and provide education. The community rallies around her, seeking help through local authorities.
+
+🟩
+
+Disease was the rise in the lives of the lives of a resident of Kosgoda, a resident of Kosgoda.
+
+We are in the face of the life of the family economy.
+
+Only God knows the exhaustion of life, who has passed away from life without medicine to live in school and seven-half children.
+
+These four schools go to schools, however, the economic situation has not been able to make a third time in the stomach.
+
+Also, Sujeewani told us that the children were still unaware of a rental area to live in a thousand and amelled by the child.It is underway.
+
+"Once, if my husband had the money to make medication, I asked me to eat."
+
+"All five of my children have been infinitely stomach.
+
+Of course, six people should be able to work at least three family members, at least three people should be employed at least three family members.At least the Tiss Makta is not necessary.
+
+After the death of her husband, Sujeewaka has now reached the rented room of the Rajjanawatte of the Pannayaka who lives.
+
+...
+
+[Data](articles/2519aebe.json)
+
+[Extended Data](ext_articles/2519aebe.ext.json)
 
 ---
 
@@ -2219,111 +2319,5 @@ The three elephants were revealed in Udawalawe.
 [Data](articles/4910d05b.json)
 
 [Extended Data](ext_articles/4910d05b.ext.json)
-
----
-
-### The Prime Minister's Diwali greeting news
-
-*2024-10-30 22:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197548) · `ta`
-
-Here's a 200-character summary:
-
-
-
-PM Harini Amarasuriya greets on Diwali, urging celebration of justice, grace, and solidarity. Emphasizes fighting structural discrimination and striving for universal freedom, dignity, and rights.
-
-🟩
-
-Prime Minister Harini Amarasuriya said in his congratulations on Thursday (31) to celebrate Diwali tomorrow.
-
-Not only does the light of this ceremony illuminate our homes, but let us light up the deepest feelings of justice, grace and solidarity in our hearts. We celebrate the success of light on darkness, and remember the continued struggles of those who fight against structural discrimination and marginalization.
-
-It is time for us to review a world that everyone can enjoy freedom, dignity and right.
-
-Our joint goal is to raise the quality of life of all and ensure that all of them are all.
-
-◼️
-
-[Data](articles/24355e50.json)
-
-[Extended Data](ext_articles/24355e50.ext.json)
-
----
-
-### Station Masters conclude trade union action
-
-*2024-10-30 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202747) · `si`
-
-Railway workers' strike ends midnight. Union supported Deepavali celebrations. Demands included promotions, infrastructure improvements. 72-hour negotiation period concluded. Professional action began at 4:30 PM.
-
-🟩
-
-The General Secretary of the Railways Sanjaya Jayasundara said that the trade union action was launched today (30) will be completed from midnight.
-
-He added that this decision was a measure of supporting the people due to Deepavali's day for tomorrow (31).
-
-The Station Masters Association (Martial) Association has been involved in a number of issues such as promotions, reclaimed and the infrastructure of the Railway Department.
-
-They were given 72 hours of their discussion until the demands were reached.
-
-The Executive Union of the Failed Background Survey Union decided to commence a professional action from 4:30 pm today.
-
-◼️
-
-[Data](articles/98f2979b.json)
-
-[Extended Data](ext_articles/98f2979b.ext.json)
-
----
-
-### Five arrested trying to sell Ambergris for Rs. 50 million in Elpitiya
-
-*2024-10-30 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103047/five-arrested-trying-to-sell-ambergris-for-rs-50-million-in-elpitiya) · `en`
-
-A group of suspects has been arrested in Elpitiya for allegedly attempting to sell a large stock of ‘Ambergris’, estimated to be worth around Rs. 50 million, police said.
-
-The arrests were made during a raid conducted following a tip-off received by the Walana Central Anti-Vice Unit.
-
-Police apprehended two main suspects involved in the racket along with three accomplices, and seized 17 kg and 234 grams of ambergris found in their possession.
-
-The suspects have been handed over to the Pitigala Police Station for further investigations.
-
-Ambergris, also called grey amber or whale vomit, is created by the bile duct of the sperm whale and is often referred to as “floating gold” due to the immense price it fetches in the international market for its use in luxury perfumes.
-
-However, it is reported that certain individuals are also engaged in the racket of slaughtering whales in the deep seas around Sri Lanka with the aim of obtaining Ambergris to sell it for high prices.
-
-◼️
-
-[Data](articles/3d68987e.json)
-
-[Extended Data](ext_articles/3d68987e.ext.json)
-
----
-
-### An order on misplaced the vehicle registration books
-
-*2024-10-30 21:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202746) · `si`
-
-Vehicle registration book theft: 8 employees' phone records checked; magistrate orders telcos to provide data to police.
-
-🟩
-
-Steps have been taken to check the telephone records of eight employees in respect of misplacement of 12 vehicle registration books.
-
-There were 12 automobile registration books in the Motor Trade Trade Assignment Unit of the Motor Trading Authorization Division of the Vehicle Registration Department of Narahenpita.
-
-Colombo Additional Magistrate Harrasada Kekunawala ordered the telephone companies to enter the Borella police over the incident.
-
-The court had issued the court to be provided with a request made by the Borella Police to obtain these reports to their police station.
-
-There are 12 secured books of the Assistant Commissioner of the Assistant Commissioner of the Motor Trading Authority of Trade Transfer.
-
-It is also reported that unused new books have not been used.
-
-◼️
-
-[Data](articles/1c8e8310.json)
-
-[Extended Data](ext_articles/1c8e8310.ext.json)
 
 ---

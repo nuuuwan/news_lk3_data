@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 20:11:52**
+As of **2024-11-01 20:24:15**
 
 ## Newspaper Stats
 
-*Scraped **52,568** Articles*
+*Scraped **52,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,133
 economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,895
+adalk | 4,896
 adaderanalk | 6,247
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,568 (100.0%) of 52,568 articles have been extended.
+52,568 (100.0%) of 52,569 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -843,6 +843,24 @@ The negotiations were held on issues relating to promotion and recruitment.
 [Data](articles/c5a6c26b.json)
 
 [Extended Data](ext_articles/c5a6c26b.ext.json)
+
+---
+
+### පොලිසියේ වැඩ වීඩියෝ කරන්න ජනතාවට තහනමක් නෑ
+
+*2024-11-01 13:05:17* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-වැඩ-වීඩියෝ-කරන්න-ජනතාවට-තහනමක්-නෑ/11-412793) · `si`
+
+මහජනතාව විසින් පොලිස් නිලධාරීන්ගේ රාජකාරී හෝ වෙනත් ක්‍රියාකාරකම් වීඩියෝගත කිරීම කිසිදු නීතියකින් වලක්වා නොමැතිබව වැඩ බලන පොලිස්පතිවරයා විසින් සියලු පොලිස් නිලධාරීන් වෙත ලිඛිතව දැනුම් දෙයි.
+
+මේ පිළිබඳව තමන් යටතේ සිටින සියලු පොලිස් නිලධාරීන් දැනුවත්කරන ලෙස සඳහන් කරමින්  පොලිස්පතිවරයා  පොලිස් ස්ථානාධිපතිවරුන් ඇතුළු ඉහල පොලිස් නිලධාරීන් වෙත ලිපියකින්  දැනුම් දී තිබේ.
+
+පොලිස් නිලධාරීන් ගේ විව්ධ ක්‍රියාකාරකම් වීඩියෝ කරන අවස්ථාලදී ඇතැම් පොලිස් නිලධාරීන් එම වීඩියෝගත   කරන  පුද්ගලයන්ට දෝෂාරෝපණය කිරීම්,වීඩියෝ දර්ශන ලබා ගන්නා ජංගම දුරකතන හා පුද්ගලයන් අත් අඩංගුවට ගැනීම්   වාර්තාවී ඇති බවත් මෙම ලිපිය මගින් දැනුම් දී ඇත.
+
+මෙලෙස වීඩියෝ ගතකරන සංස්කරණය නොකළ දර්ශන අපරාධ හෝ සිවිල්  නඩු කටයුතුවලදී සාක්ෂි පනතට අනුව විත්ති හා පැමිණිලි පාර්ශ්වයන් දෙකටම සාක්ෂි ලෙස  ප්‍රයෝජනයට ගතහැකි බවද වැඩ බලන පොලිස්පතිවරයා එම ලිපිය මගින් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/c89b526c.json)
 
 ---
 
@@ -2341,25 +2359,5 @@ Former Plantation Industries and Mahaweli Development State Minister Lohan Ratwa
 [Data](articles/3b9710a6.json)
 
 [Extended Data](ext_articles/3b9710a6.ext.json)
-
----
-
-### Singapore Press Club to explore Sri Lanka in 10 days
-
-*2024-11-01 05:40:35* · [`dailyftlk`](https://www.ft.lk/news/Singapore-Press-Club-to-explore-Sri-Lanka-in-10-days/56-768679) · `en`
-
-A 20-member delegation from the Singapore Press Club (SPC) is to visit Sri Lanka from 31 October to 9 November, with the objective of learning more about the culture, economy, politics, and people of Sri Lanka.
-
-The SPC selected Sri Lanka as the next destination for their annual goodwill mission, at the request of the Sri Lankan High Commissioner in Singapore Senarath Dissanayake.
-
-During the visit, SPC President Patrick Daniel will lead the delegation. In addition to exploring the natural beauty and cultural diversity of Sri Lanka, the delegation will meet Prime Minister Dr. Harini Amarasuriya, Northern Province Governor Nagalingam Vethanayahan, and Honorary Consul of Singapore in Sri Lanka Dr. Jayantha Dharmadasa during their visit.
-
-Upon returning, the delegation will share their experience through social media, printed media, and TV channels, promoting Sri Lanka in Singapore.
-
-...
-
-[Data](articles/dd68407d.json)
-
-[Extended Data](ext_articles/dd68407d.ext.json)
 
 ---

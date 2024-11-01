@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 20:40:02**
+As of **2024-11-01 21:11:39**
 
 ## Newspaper Stats
 
-*Scraped **52,569** Articles*
+*Scraped **52,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,27 +18,101 @@ dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,896
 adaderanalk | 6,247
-tamilmirrorlk | 7,290
+tamilmirrorlk | 7,292
 virakesarilk | 8,475
-adaderanasinhalalk | 9,159
+adaderanasinhalalk | 9,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,569 (100.0%) of 52,569 articles have been extended.
+52,572 (100.0%) of 52,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
+### An accident in the body - Man dies
+
+*2024-11-01 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202815) · `si`
+
+Man dies in collision between van and lorry on Nuwara Eliya-Radella road. 19 injured rushed to hospital.
+
+🟩
+
+A man was killed in an accident on the Nuwara Eliya-Radella short road.
+
+The accident occurred when a van and a lorry collided with a lorry.
+
+It is reported that 19 people were injured and injured were rushed to the Nuwara Eliya Hospital.
+
+◼️
+
+[Data](articles/d758d05f.json)
+
+[Extended Data](ext_articles/d758d05f.ext.json)
+
+---
+
+### Foreign passport from December
+
+*2024-11-01 19:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பரில்-இருந்து-வெளிநாட்டு-கடவுச்சீட்டு/175-346427) · `ta`
+
+Department of Immigration and Emigration expects to expedite foreign passport supply starting December. Over 700,000 passports ready. New system for issuing passports being prepared.
+
+🟩
+
+The Department of Immigration and Emigration has issued a statement saying it is expected to expedite foreign passport supply from the beginning of December.
+
+The department said that more than 700,000 empty passports are available in the future.
+
+The Department of Immigration and Emigration further stated that the systematic enemy system is currently being prepared for issuing foreign passports and that this system will be implemented on the next day.. Remble
+
+◼️
+
+[Data](articles/8a2f799e.json)
+
+[Extended Data](ext_articles/8a2f799e.ext.json)
+
+---
+
+### The Presidential Media Division's main announcement on the security of Mahinda
+
+*2024-11-01 19:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பாதுகாப்பு-குறித்து-ஜனாதிபதி-ஊடகப்-பிரிவு-முக்கிய-அறிவிப்பு/175-346426) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential Media Division denies reports of reduced security for former President Mahinda Rajapakse. Claims such rumors are false.
+
+🟩
+
+Reports that the security of former President Mahinda Rajapakse has been reduced is completely false, the Presidential Media Unit said. Remble
+
+◼️
+
+[Data](articles/6f7c1537.json)
+
+[Extended Data](ext_articles/6f7c1537.ext.json)
+
+---
+
 ### Govt denies reports of reduced security for ex-president Mahinda
 
 *2024-11-01 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103094/govt-denies-reports-of-reduced-security-for-ex-president-mahinda) · `en`
 
-The President’s Media Division (PMD) says that the reports circulating claiming that the security detail of former President Mahinda Rajapaksa has been reduced are completely false.
+The Presidential Secretariat says that the reports circulating claiming that the security detail of former President Mahinda Rajapaksa has been reduced are completely false.
 
-◼️
+Issuing a clarification, the Presidential Secretariat said it has noted recent media reports claiming that the security of former President Mahinda Rajapaksa has been reduced.
+
+The Presidential Secretariat states that all those reports are false and confirms that it has provided Rajapaksa with the benefits outlined in the Presidents’ Entitlements Act No. 4 of 1986.
+
+Former President Mahinda Rajapaksa is entitled to a pension due to a retired President, an official residence at Wijerama Mawatha, Colombo 07, and a secretary’s allowance, the statement said.
+
+Additionally, he has been provided with three vehicles: a Mercedes Benz -600 Maybatch (2008), a Toyota Land Cruiser (2017), and a Mercedes Benz G63 AMG 4x4 (2013).
+
+...
 
 [Data](articles/59f69078.json)
 
@@ -2315,59 +2389,5 @@ During a conference in Paris, focusing on the new crisis unfolding in Lebanon, P
 [Data](articles/6c5e5dbf.json)
 
 [Extended Data](ext_articles/6c5e5dbf.ext.json)
-
----
-
-### Debt restructuring and the risk of a long-term failed State
-
-*2024-11-01 05:48:10* · [`dailyftlk`](https://www.ft.lk/opinion/Debt-restructuring-and-the-risk-of-a-long-term-failed-State/14-768682) · `en`
-
-Following is a letter from the Frontline Socialist Party, to President Anura Kumara Dissanayake, on the DDR and the risk of moving towards becoming a failed State.
-
-Through the results of the last Presidential election, the people of Sri Lanka have led the corrupt political forces that existed so far to a crucial defeat and opened the country to a new political journey through a Government of the National People’s Power. This is the result of the people’s struggle that unfolded throughout the recent past and a large propaganda intervention that influenced public opinion.
-
-...
-
-[Data](articles/10bbc844.json)
-
-[Extended Data](ext_articles/10bbc844.ext.json)
-
----
-
-### Charitha accuses Govt. of not having clear plan
-
-*2024-11-01 05:42:55* · [`dailyftlk`](https://www.ft.lk/news/Charitha-accuses-Govt-of-not-having-clear-plan/56-768681) · `en`
-
-Claims President and NPP’s push to acquire Parliamentary power to strengthen the Presidency, undermines the role of Parliament
-
-Argues that Parliament is the primary legislative body representing the people and should not be positioned as an arm of executive power
-
-Says PM’s recent statement dismissing relevance of cabinet decisions taken by previous Government is constitutionally inaccurate
-
-Former MP Prof. Charitha Herath has criticised the current Government for governing without a clear plan. He also raised concerns over the approach advocated by President Anura Dissanayake and the National People’s Power (NPP), suggesting that their push to acquire Parliamentary power to strengthen the Presidency, undermines the role of Parliament as an independent legislative body.
-
-The former MP made these comments while addressing a press conference at the Samagi Jana Sandhanaya (SJS) head office yesterday.
-
-...
-
-[Data](articles/bf476623.json)
-
-[Extended Data](ext_articles/bf476623.ext.json)
-
----
-
-### Lohan Ratwatte arrested over illegally assembled SUV
-
-*2024-11-01 05:41:33* · [`dailyftlk`](https://www.ft.lk/news/Lohan-Ratwatte-arrested-over-illegally-assembled-SUV/56-768680) · `en`
-
-Former Plantation Industries and Mahaweli Development State Minister Lohan Ratwatte
-
-Former Plantation Industries and Mahaweli Development State Minister Lohan Ratwatte was arrested yesterday following the discovery of an unregistered vehicle at a residence owned by his wife, Shashi Prabha Ratwatte, in Mirihana recently. Police Spokesperson DIG Nihal Thalduwa said Ratwatte was taken into custody on charges related to the use of an illegally assembled vehicle. The arrest took place at Ratwatte’s home in Katugastota, Kandy, before he was transferred to the Mirihana police for further questioning.
-
-...
-
-[Data](articles/3b9710a6.json)
-
-[Extended Data](ext_articles/3b9710a6.ext.json)
 
 ---

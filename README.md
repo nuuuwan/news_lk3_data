@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 13:40:39**
+As of **2024-11-01 13:59:50**
 
 ## Newspaper Stats
 
-*Scraped **52,530** Articles*
+*Scraped **52,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 4,889
 adaderanalk | 6,239
 tamilmirrorlk | 7,287
 virakesarilk | 8,472
-adaderanasinhalalk | 9,146
+adaderanasinhalalk | 9,147
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,530 (100.0%) of 52,530 articles have been extended.
+52,530 (100.0%) of 52,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### ජනතාව අමාරුවේ වැටුණාම අපි පැනලායන්නේ නැහැ - දිලිත්
+
+*2024-11-01 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202802) · `si`
+
+සැබෑ විපක්ෂයේ වගකීම් ඉටු කිරීමට එඩිතර විපක්ෂය ලෙස තම කණ්ඩායම සූදානම් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+සර්වජන බලයේ කැලණිය ආසන බල මණ්ඩලය අමතමින් ඔහු මේ බව කියා සිටියේය.
+
+සර්වජන බලයේ කැලණිය ආසන බලමණ්ඩල රැස්වීම ඊයේ (31)පස්වරුවේ පක්ෂ නායක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙන් එලෙස පැවැත්වුණි.
+
+සර්වජන බලයේ නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතා,
+
+"ශ්‍රී ලංකාවේ යම් දේශපාලන පරිවර්ථනයක් සිදු වුණා නම් 51දී... ඒ 56යේ විප්ලවයට මගපාදපු 51කේ පරිවර්ථනය නැවත ඉපදුනා නම් ඒ පුනරුත්පත්තිය තමයි සර්වජන බලය. ඔබ වෙනුවෙන් පෙනීසිටින නායකත්වයක් ඉන්න සර්වජන බලය.... පස්ස දොරෙන් පැනලායන්නේ නැති... ඔබත් එක්කම මේ ගමනේ ඉස්සරහින් යනවා. ඒක තමයි අපේ නායකත්වය."
+
+"අපිට ඕනේ විපක්ෂය. බස් එලවන විපක්ෂය නෙමෙයි. මේක එඩිතර විපක්ෂය. මේ එඩිතර විපක්ෂය එන්නේ විපක්ෂයේම ඉන්න නෙමෙයි. බලය ගන්නයි එන්නේ එඩිතරව. කකුලෙන් ඇදලා නෙමෙයි."
+
+◼️
+
+[Data](articles/c77e02be.json)
+
+---
 
 ### There is another owner without any other owner in Kandy
 
@@ -610,17 +632,17 @@ A bus carrying a group of university students had reportedly overturned at aroun
 
 *2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/2-dead-over-30-injured-as-bus-carrying-kdu-students-topples-in-badulla) · `en`
 
-At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 39 persons.
+At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 39 persons.
 
-Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, toppled down a precipice at Dunhinda Road in Badulla.
+Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, hit the curb and toppled across the Dunhinda Road in Badulla.
+
+The injured passengers were immediately rushed to the Badulla Hospital, according to Ada Derana reporter.
 
 Meanwhile, six injured persons are receiving treatment in the Intensive Care Unit (ICU) at the Badulla Hospital.
 
-The injured passengers are being rushed to the Badulla Hospital, according to Ada Derana reporter.
+The bus carrying a group of KDU students had reportedly overturned at around 7:45 a.m. today.
 
-A bus carrying a group of university students had reportedly overturned at around 7:45 a.m. today.
-
-The accident had occurred between the third and fourth kilometer posts on the Badulla-Mahiyanganaya main road, near the Dunhinda access road, after the bus collided with a bund.
+The accident had occurred between the third and fourth-kilometer posts on the Badulla-Mahiyanganaya main road, near the Dunhinda access road, after the bus collided with an embankment.
 
 ...
 
@@ -2223,29 +2245,5 @@ The foundation stone for the factory was laid on Thursday (31) in the investment
 [Data](articles/c85e7fcf.json)
 
 [Extended Data](ext_articles/c85e7fcf.ext.json)
-
----
-
-### Protect liquidity of the banks. 100 billion mold
-
-*2024-10-31 18:27:30* · [`adalk`](https://www.ada.lk/breaking_news/බැංකුවල-ද්‍රවශීලතාව-රැකගන්න-රු--බිලියන-100ක්-අච්චු-ගැහුවා/11-412785) · `si`
-
-Banks protected with 100 billion cash molds. Former minister claims 600 billion used for media protection. Central Bank reports money used to cover deficits. Critics argue this reduces liquidity. Government denies wrongdoing. Media institutions report cash usage. Opposition leader accuses government of deception.
-
-🟩
-
-Former State Minister Nimal Lansa said, 600 billion has been obtained to protect the media, but he said.Speaking to the media, he added:
-
-"I'm ready to come to a debate that someone says no. They took these 100 billion cash molds and maintained liquidity. That means the banks have a shortage of money. The Central Bank said in the central bank report said that money was used to protect the deficit.
-
-That means the banks have a shortage of money. These people molded money to protect the deficit. These people have been treated as a government. It is clear that some banks reduced liquidity, so it is very clear that you mold money to protect it.
-
-Anura Kumara Dissanayake threatens from stage yesterday. Head Leines are incorrect. They need to put them as they want. Such media cannot threaten. What is the reason?Head Leines was put in molding. What about the media without a playground if money is molded?. But the President wants to remind the President that threatened work is inferior.
-
-...
-
-[Data](articles/b0b44380.json)
-
-[Extended Data](ext_articles/b0b44380.ext.json)
 
 ---

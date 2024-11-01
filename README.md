@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 18:00:47**
+As of **2024-11-01 18:20:45**
 
 ## Newspaper Stats
 
-*Scraped **52,556** Articles*
+*Scraped **52,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,893
-adaderanalk | 6,244
+adaderanalk | 6,245
 tamilmirrorlk | 7,289
 virakesarilk | 8,475
 adaderanasinhalalk | 9,155
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,556 (100.0%) of 52,556 articles have been extended.
+52,557 (100.0%) of 52,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,28 @@ When the police car was on the road, a motorbike bomb was exploded near a women'
 [Data](articles/3b092256.json)
 
 [Extended Data](ext_articles/3b092256.ext.json)
+
+---
+
+### Dr. Hans Wijayasuriya appointed Chief Advisor to President on Digital Economy
+
+*2024-11-01 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103092/dr-hans-wijayasuriya-appointed-chief-advisor-to-president-on-digital-economy) · `en`
+
+Former Axiata Group CEO Dr. Hans Wijayasuriya has been appointed as the Chief Advisor to the President on Digital Economy.
+
+He received his letter of appointment from President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today (01).
+
+The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy.
+
+Axiata Group Berhad on Friday announced that Dr Wijayasuriya will relinquish role as the CEO of Telecommunications Business and Group Executive Director as he has been invited by the Government of Sri Lanka to lead the country’s digital economy agenda in the capacity of Chief Advisor to the President on Digital Economy and other related leadership roles.
+
+Dr Wijayasuriya has duly accepted the invitation from the GoSL and has communicated his decision to step down from his role at Axiata Group with effect from 15 January 2025, the announcement said.
+
+...
+
+[Data](articles/6f69855d.json)
+
+[Extended Data](ext_articles/6f69855d.ext.json)
 
 ---
 
@@ -2295,33 +2317,5 @@ This appointment aligns with the company’s ongoing growth strategy, following 
 [Data](articles/cf83a661.json)
 
 [Extended Data](ext_articles/cf83a661.ext.json)
-
----
-
-### 20 க்கு இல்லையெனில்,  200க்கா  தூக்கினார்?
-
-*2024-11-01 02:18:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-க்கு-இல்லையெனில்-200க்கா-தூக்கினார்/175-346380) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former MP Harris denied permission to submit nomination due to 20-year-old controversy. Nallassi National Front leader Mohamad Rasmee questioned why Baishal Kasim resigned after 200 days. Discussion centered around Tamil community issues, lack of solutions from previous MPs, and criticism of current political leadership.
-
-🟩
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் ஹரீஸ், 20க்கு கை தூக்கிய காரணத்தினால் இம்முறை வேட்புமனுவை தாக்கல் செய்ய அவருக்கு அனுமதி வழங்கப்படவில்லை.   அப்படி என்றால், பைசல் காசிம் என்ன 200 க்கா கையை தூக்கியவர்? அவருக்கு சீட் வழங்கியது எப்படி? என  நல்லாட்சி தேசிய முன்னணியின் ஆதரவு "வி ஆ வண்"( we are one) அமைப்பின் இணைப்பாளர் மொகமட் ரஸ்மின் கேள்வியெழுப்பினார்.
-
-காரைதீவில் உள்ள அம்பாறை ஊடக மையத்தில் செவ்வாய்க்கிழமை  (29)   நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது, மேற்கண்டவாறு கேள்வியெழுப்பினார்.
-
-Tamil -speaking communities in the country are facing many problems. இதுவரை இருந்த பாராளுமன்ற உறுப்பினர்கள் அவற்றுக்கு எந்த தீர்வையும்  காணவில்லை. அரசியலுக்காக பிச்சைக்காரனின் புண் போல அதைப் பயன்படுத்தி வருகின்றனர்.
-
-The country has got a standard leader in the ongoing presidential election.He said, "Choose the good leader for the country," he said.
-
-...
-
-[Data](articles/f29965f7.json)
-
-[Extended Data](ext_articles/f29965f7.ext.json)
 
 ---

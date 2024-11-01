@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 20:24:15**
+As of **2024-11-01 20:40:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,568 (100.0%) of 52,569 articles have been extended.
+52,569 (100.0%) of 52,569 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -846,21 +846,31 @@ The negotiations were held on issues relating to promotion and recruitment.
 
 ---
 
-### පොලිසියේ වැඩ වීඩියෝ කරන්න ජනතාවට තහනමක් නෑ
+### People have no ban on police work
 
 *2024-11-01 13:05:17* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-වැඩ-වීඩියෝ-කරන්න-ජනතාවට-තහනමක්-නෑ/11-412793) · `si`
 
-මහජනතාව විසින් පොලිස් නිලධාරීන්ගේ රාජකාරී හෝ වෙනත් ක්‍රියාකාරකම් වීඩියෝගත කිරීම කිසිදු නීතියකින් වලක්වා නොමැතිබව වැඩ බලන පොලිස්පතිවරයා විසින් සියලු පොලිස් නිලධාරීන් වෙත ලිඛිතව දැනුම් දෙයි.
+Here's a summary of the article in approximately 200 characters:
 
-මේ පිළිබඳව තමන් යටතේ සිටින සියලු පොලිස් නිලධාරීන් දැනුවත්කරන ලෙස සඳහන් කරමින්  පොලිස්පතිවරයා  පොලිස් ස්ථානාධිපතිවරුන් ඇතුළු ඉහල පොලිස් නිලධාරීන් වෙත ලිපියකින්  දැනුම් දී තිබේ.
 
-පොලිස් නිලධාරීන් ගේ විව්ධ ක්‍රියාකාරකම් වීඩියෝ කරන අවස්ථාලදී ඇතැම් පොලිස් නිලධාරීන් එම වීඩියෝගත   කරන  පුද්ගලයන්ට දෝෂාරෝපණය කිරීම්,වීඩියෝ දර්ශන ලබා ගන්නා ජංගම දුරකතන හා පුද්ගලයන් අත් අඩංගුවට ගැනීම්   වාර්තාවී ඇති බවත් මෙම ලිපිය මගින් දැනුම් දී ඇත.
 
-මෙලෙස වීඩියෝ ගතකරන සංස්කරණය නොකළ දර්ශන අපරාධ හෝ සිවිල්  නඩු කටයුතුවලදී සාක්ෂි පනතට අනුව විත්ති හා පැමිණිලි පාර්ශ්වයන් දෙකටම සාක්ෂි ලෙස  ප්‍රයෝජනයට ගතහැකි බවද වැඩ බලන පොලිස්පතිවරයා එම ලිපිය මගින් දැනුම් දී ඇත.
+Police officers face no ban on work activities. IGP notified all officers about public notifications regarding police activities. Some officers reported violating rules, with videos showing alleged misconduct. IGP stated video evidence can be used against defendants and complainants alike.
+
+🟩
+
+The Acting IGP notified all police officers in writing that the public has notified the police or other activities of the police officers or other activities.
+
+According to the IGP, the OICs OICs including the Inspector General of Police (IGP) have informed the IGP, police officers including the police officers.
+
+This article has been reported that some police officers have been reported to do the violations, videos and individuals who are blaming the videos, violence, violence, violence and video footage is being blamed for the adventures.
+
+The 2003 Wild Inspector has informed that the video-edited sights can be used as evidence to both defendants and complaint.
 
 ◼️
 
 [Data](articles/c89b526c.json)
+
+[Extended Data](ext_articles/c89b526c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 15:24:11**
+As of **2024-11-01 15:59:10**
 
 ## Newspaper Stats
 
-*Scraped **52,537** Articles*
+*Scraped **52,540** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,890
 adaderanalk | 6,242
 tamilmirrorlk | 7,288
-virakesarilk | 8,472
+virakesarilk | 8,475
 adaderanasinhalalk | 9,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,536 (100.0%) of 52,537 articles have been extended.
+52,538 (100.0%) of 52,540 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,17 +48,23 @@ He further said that “this is a brave opposition, not one coming simply to rem
 
 [Data](articles/5df1456f.json)
 
+[Extended Data](ext_articles/5df1456f.ext.json)
+
 ---
 
 ### Fire breaks out at garage in Rajagiriya
 
 *2024-11-01 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103089/fire-breaks-out-at-garage-in-rajagiriya) · `en`
 
-A massive fire has reportedly broken out at a vehicle garage in Rajagiriya while the Kotte Fire Brigade has deployed several fire trucks to help douse the flames.
+A massive fire has reportedly broken out at a vehicle garage in Rajagiriya while several fire trucks have been deployed to help douse the flames.
 
-The fire has broken out at a vehicle garage located on a road at Obesekarapura in Rajagiriya while several fire trucks and firefighters are already at the scene attempting to extinguish the fire, Ada Derana reporter said.
+The fire has broken out at a vehicle garage located on a road at Obesekarapura in Rajagiriya while several fire trucks and fire fighters are already at the scene attempting to extinguish the fire, Ada Derana reporter said.
 
-He stated that several vehicles appear to be gutted in the fire which had rapidly spread covering the entire area in smoke.
+The Kotte Municipal Council Fire Brigade has dispatched 3 fire trucks and several firefighters to the location while the Fire Service Department has sent 2 fire trucks and several firefighters.
+
+It is reported that the fire has also spread to a nearby housing complex and that firefighters are attempting to control the flames with great effort.
+
+The cause of the fire or the damages caused by it are yet to be ascertained.
 
 ◼️
 
@@ -131,6 +137,38 @@ The letter stated that the police officers have been accused of recording variou
 [Data](articles/e5bab575.json)
 
 [Extended Data](ext_articles/e5bab575.ext.json)
+
+---
+
+### The political culture that causes divisions among the people should be eliminated - Ranil Villattarakke
+
+*2024-11-01 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197642) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Ranil Villattarakke calls for eliminating divisive political culture, promoting nationalism, and addressing lower-level needs. He advocates for youth involvement in national politics, citing the UNP's track record in serving people's interests.
+
+🟩
+
+Politics in the country as fake nationalism and racism should not do politics, and the needs of the people from the lower level should be carried out. The disgraceful political culture that causes divisions among the people must be removed from the country.
+
+Ranil Vilatharake, the Colombo district candidate of the new Democratic Front, said that the younger community with new ideas should be compensated for national politics.
+
+Ranil Villattarake said this as he made clear to Weerakesari about his political entry.
+
+I am a leading young businessman in Sri Lanka to learn the best garment techniques in the world from the lower level.
+
+Have reached the top goal of professionally. So I am contesting the parliamentary election to serve the people.
+
+For about 15 years, I have provided employment opportunities for many in professionalism.
+
+...
+
+[Data](articles/2bbdbe17.json)
+
+[Extended Data](ext_articles/2bbdbe17.ext.json)
 
 ---
 
@@ -246,6 +284,22 @@ The Railway Department has said that 76 train derailment has been derailed so fa
 
 ---
 
+### கொழும்பு முகத்துவாரத்தில் ஐஸ் போதைப்பொருளுடன் இளைஞர்கள் இருவர் கைது
+
+*2024-11-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197635) · `ta`
+
+கொழும்பு, முகத்துவாரம் பொலிஸ் பிரிவுக்குட்பட்ட பொக்குவத்த பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் இரண்டு இளைஞர்கள் நேற்று வியாழக்கிழமை (31) கைது செய்யப்பட்டதாக முகத்துவாரம் பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர்கள் இருவரும் முகத்துவாரம் மற்றும் ராகம ஆகிய பிரதேசங்களைச் சேர்ந்த 18 மற்றும் 20 வயதுடையவர்கள் ஆவர்.
+
+கைது செய்யப்பட்ட  இளைஞர்களிடமிருந்து 11 கிராம் 25 மில்லிகிராம் மற்றும் 10 கிராம் 860 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+
+◼️
+
+[Data](articles/94fd8e9a.json)
+
+---
+
 ### Sri Lanka’s pig farms urged to register as African swine fever spreads
 
 *2024-11-01 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103085/sri-lankas-pig-farms-urged-to-register-as-african-swine-fever-spreads) · `en`
@@ -261,6 +315,26 @@ The Director of the Western Province Animal Production and Health Department, K.
 [Data](articles/f489be9c.json)
 
 [Extended Data](ext_articles/f489be9c.ext.json)
+
+---
+
+### கல்கிஸ்ஸையில் ஹெரோயினுடன் ஒருவர் கைது !
+
+*2024-11-01 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197632) · `ta`
+
+கல்கிஸ்ஸை பொலிஸ் பிரிவுக்குட்பட்ட ,  இரத்மலானை புகையிரத நிலையத்திற்கு அருகில் , ஐஸ் போதைப்பொருளுடன் ஒருவர் நேற்று வியாழக்கிழமை (31) செய்யப்பட்டுள்ளார்.
+
+கல்கிஸ்ஸை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சோதனையின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் , கைது செய்யப்பட்ட சந்தேக நபர் 31 வயதான இரத்மலானை பிரதேசத்தை சேர்ந்தவர் ஆவார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து , 13 கிராம் 100 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+இதேவேளை , சந்தேக நபர் , மேலதிக விசாரணைகளுக்காக கல்கிஸ்ஸை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/ef8b7bd1.json)
 
 ---
 
@@ -2179,73 +2253,5 @@ Former State Minister Lohan Ratwatte has been arrested in connection with the di
 [Data](articles/48539705.json)
 
 [Extended Data](ext_articles/48539705.ext.json)
-
----
-
-### Sudden change in the price of fuels
-
-*2024-10-31 20:06:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/எரிபொருட்களின்-விலையில்-திடீர்-மாற்றம்/150-346371) · `ta`
-
-Fuel prices revised: 95 petrol reduced by Rs, Lanka Super Diesel 4 Star Euro 4 lowered by Rs. Other fuel prices unchanged.
-
-🟩
-
-According to the Monthly Fuel Price Sutra, the Ceylon Petroleum Corporation has decided to revise the prices of its fuels from midnight today.
-
-Accordingly, the price of a liter of 95 petrol, which prevailed at Rs 377, has been reduced by Rs.
-
-The prices of one liter of Lanka Super Diesel 4 Star Euro 4 have been reduced by Rs.
-
-The Ceylon Petroleum Corporation has announced that the prices of other fuels have not been changed. Remble
-
-◼️
-
-[Data](articles/261303c6.json)
-
-[Extended Data](ext_articles/261303c6.ext.json)
-
----
-
-### Fuel prices reduced
-
-*2024-10-31 20:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103075/fuel-prices-reduced) · `en`
-
-The Ceylon Petroleum Corporation (CPC) has announced a revision of fuel prices effective from midnight today (31).
-
-Accordingly, the price of Petrol 95 Octane has been reduced by Rs. 06 to Rs. 371 per litre, while Super Diesel has also been reduced by Rs. 06 to Rs. 313 per litre.
-
-However, the prices of Petrol 92 Octane, Auto Diesel and Kerosene remain unchanged, according to Ceypetco.
-
-UPDATE: Meanwhile, the Lanka Indian Oil Corporation (LIOC) and Sinopec too have decided to revise its fuel prices, to match the state-owned oil company’s prices.
-
-◼️
-
-[Data](articles/21dafc8f.json)
-
-[Extended Data](ext_articles/21dafc8f.ext.json)
-
----
-
-### ඉන්ධන වර්ග කිහිපයක මිල සංශෝධනය කෙරේ
-
-*2024-10-31 19:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202781) · `si`
-
-Sri Lanka Petroleum Corporation reduces fuel prices effective midnight. Octane 95 petrol now Rs.371 per liter, down from Rs.377. Super diesel price cut by Rs.33 to Rs.371 per liter. Other fuel types remain unchanged.
-
-🟩
-
-අද (31) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි ඉන්ධන මිල සංශෝධනය කිරීමට ලංකා ඛනිජ තෙල් නීතිගත සංස්ථාව පියවර ගෙන තිබේ.
-
-ඒ අනුව රුපියල් 377ක්ව පැවති ඔක්ටේන් 95 පෙට්‍රල් ලීටරයක මිල රුපියල් 06කින් අඩු කර ඇති අතර, එහි නව මිල රුපියල් 371කි.
-
-The price of a liter of Super diesel has been reduced by Rs.33 by Rs. 313.
-
-කෙසේ වෙතත් සෙසු ඉන්ධන වර්ගවල මිල ගණන් නොවෙනස්ව පවතින බව ඛනිජ තෙල් නීතිගත සංස්ථාව නිවේදනය කරයි.
-
-◼️
-
-[Data](articles/b8617d71.json)
-
-[Extended Data](ext_articles/b8617d71.ext.json)
 
 ---

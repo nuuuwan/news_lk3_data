@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 18:46:07**
+As of **2024-11-01 18:34:25**
 
 ## Newspaper Stats
 
-*Scraped **52,561** Articles*
+*Scraped **52,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,17 @@ adalk | 4,894
 adaderanalk | 6,245
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
-adaderanasinhalalk | 9,157
+adaderanasinhalalk | 9,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,557 (100.0%) of 52,561 articles have been extended.
+52,557 (100.0%) of 52,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
-
-### තුවාලකරුවෙක් ගුවනින් කොළඹට රැගෙන ඒම අසාර්ථක වෙයි
-
-*2024-11-01 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202812) · `si`
-
-බදුල්ල - මහියංගනය ප්‍රධාන මාර්ගයේ දී බස් රථයක් පෙරළීයාමෙන් අද (1) සිදු වූ අනතුරෙන් බරපතළ තුවාල ලබා සිටින අයෙක් ගුවනින් කොළඹට රැගෙන ඒමට ගත් උත්සාහයක් අසාර්ථක වී තිබේ.
-
-බදුල්ල ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටි මෙම තුවාලකරු ගුවන් හමුදා හෙලිකොප්ටර් යානයකින් කොළඹට රැගෙන ඒමට උත්සාහ කර තිබුණි.
-
-එම තුවාලකරු ගිලන්රියකින් බදුල්ල පාපන්දු පිටියට රැගෙන ආවද, අයහපත් කාලගුණය නිසා එම ගුවන්ගමන නතරකිරීමට සිදුව ඇත.
-
-ඒ හේතුවෙන් තුවාලකරු නැවතත් බදුල්ල ශික්ෂණ රෝහලටම රැගෙන යාමට සිදුව තිබේ.
-
-◼️
-
-[Data](articles/c122920c.json)
-
----
-
-### මැතිවරණ පැමිණිලි තවත් ඉහළට
-
-*2024-11-01 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202811) · `si`
-
-ඉදිරි පාර්ලිමේන්තු මැතිවරණයට අදාළව මැතිවරණ කොමිසම වෙත ලැබී ඇති පැමිණිලි සංඛ්‍යාව 1259ක් දක්වා ඉහළ ගොස් තිබේ.
-
-තවද ගතවූ පැය 24 තුළ පැමිණිලි 123ක් ලැබී ඇති බව මැතිවරණ කොමිෂන් සභාව පැවසීය.
-
-ලැබී ඇති සමස්ත පැමිණිලි අතර ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධ පැමිණිලි 13ක් ද ලැබී තිබේ.
-
-කෙසේ වෙතත් සමස්ත පැමිණිලි 1259න් 1018ක්ම මේ වන විට විසදා ඇති බව මැතිවරණ කොමිෂන් සභාව පැවසීය.
-
-◼️
-
-[Data](articles/834a07a0.json)
-
----
 
 ### புதிய பிரதம ஆலோசகர் நியமனம்
 
@@ -2293,5 +2257,45 @@ Chairman of the Railway Station Principals Association Somata Somatna said that 
 [Data](articles/5169dd0f.json)
 
 [Extended Data](ext_articles/5169dd0f.ext.json)
+
+---
+
+### Insights into Sri Lanka’s ‘fear-driven politics’
+
+*2024-11-01 02:24:00* · [`islandlk`](http://island.lk/insights-into-sri-lankas-fear-driven-politics/) · `en`
+
+In a candid and impassioned address to a group of supporters, a National People’s Power (NPP) National List candidate, Benita Prishanthi Hettithanthri, laid bare Sri Lanka’s political history, highlighting the importance of the country’s current political moment.
+
+Addressing an audience of women, in Colombo recently, she touched on decades of political turmoil, fear-driven elections and systemic corruption, painting a picture of a nation that has long been manipulated by divisive politics.
+
+“We are in Sri Lanka at a very exciting moment, Benita began. “We have had a huge change in our political area… no one expected that we could have such a big change as what we experienced in bringing our President to power.”
+
+...
+
+[Data](articles/a3dbb371.json)
+
+[Extended Data](ext_articles/a3dbb371.ext.json)
+
+---
+
+### Model MU advance to three
+
+*2024-11-01 02:23:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-மூன்றுக்கு-முன்னேறுகிறது/175-346382) · `ta`
+
+Sri Lanka Muslim Congress (SLMC) aims for 3 seats in Digamadulla district. Former Kalmunai Municipal Council Chief Minister Shiras Meera Sahib leads campaign, promising honest service and addressing people's issues.
+
+🟩
+
+Sri Lanka Muslim Congress (SLMC), Nikamadulla District Sri Lanka Muslim Congress (SLMC) third candidate and former chief minister of Kalmunai Municipal Council, Shiras Meera Sahib said that the Sri Lanka Muslim Congress is progressing to the level of three seats in the Digamadulla district.
+
+He said this at the party's election campaign meeting on Wednesday (30) at Sainthamaruthu. As he continues to address,
+
+As an example of how to become the Chief Minister of the Kalmunai Municipal Council in the past, I have been a candidate in this parliamentary election as a candidate in this parliamentary election..
+
+...
+
+[Data](articles/ff88c866.json)
+
+[Extended Data](ext_articles/ff88c866.ext.json)
 
 ---

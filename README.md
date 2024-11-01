@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 14:12:35**
+As of **2024-11-01 14:25:32**
 
 ## Newspaper Stats
 
-*Scraped **52,531** Articles*
+*Scraped **52,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,133
 economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,889
-adaderanalk | 6,239
-tamilmirrorlk | 7,287
+adalk | 4,890
+adaderanalk | 6,240
+tamilmirrorlk | 7,288
 virakesarilk | 8,472
 adaderanasinhalalk | 9,147
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,531 (100.0%) of 52,531 articles have been extended.
+52,533 (100.0%) of 52,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Weather advisory issued for severe lightning
+
+*2024-11-01 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103087/weather-advisory-issued-for-severe-lightning) · `en`
+
+The Meteorology Department has issued an ‘Amber’ advisory for severe lightning for several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Uva, Eastern, North-central, Central, Sabaragamuwa and Northern provinces and in Hambantota District.
+
+There may be temporary localized strong winds during thundershowers, the advisory said.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
+
+The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors and boats etc. and to beware of fallen trees and power lines.
+
+...
+
+[Data](articles/5375d88c.json)
+
+[Extended Data](ext_articles/5375d88c.ext.json)
+
+---
+
+### பொலிஸாரின் செயற்பாடுகளை வீடியோ எடுக்க தடை இல்லை
+
+*2024-11-01 14:05:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-செயற்பாடுகளை-வீடியோ-எடுக்க-தடை-இல்லை/175-346411) · `ta`
+
+பொலிஸ் அதிகாரிகளின் கடமைகளையோ அல்லது ஏனைய செயற்பாடுகளையோ பொதுமக்கள் காணொளிப் பதிவு செய்வதைத் தடுக்கும் சட்டம் எதுவுமில்லை என, அனைத்து பொலிஸ் அதிகாரிகளுக்கும் பதில் பொலிஸ் மா அதிபர் எழுத்து மூலம் அறிவித்துள்ளார்.
+
+இது தொடர்பில் தனக்கு கீழ் உள்ள அனைத்து பொலிஸ் அதிகாரிகளுக்கும் அறிவிக்குமாறு, பொலிஸ் மா அதிபர் பொலிஸ் நிலைய கட்டளைத் தளபதிகள் உள்ளிட்ட உயர் பொலிஸ் அதிகாரிகளுக்கு கடிதம் மூலம் அறிவித்துள்ளார்.
+
+பொலிஸ் உத்தியோகத்தர்களின் பல்வேறு செயற்பாடுகளை காணொளிப் பதிவு செய்ததாக  குற்றம் சுமத்தப்பட்டுள்ளதாகவும், குறித்த காணொளி காட்சிகளை எடுத்தவர்களை கைது செய்துள்ளதாகவும்,இது அலைபேசிகளில் பதிவாகியுள்ளதாகவும் இந்த கடிதத்தின் மூலம் தெரிவிக்கப்பட்டுள்ளது.AN
+
+◼️
+
+[Data](articles/e5bab575.json)
+
+---
 
 ### When the people fall into trouble, we do not escape - Dilith
 
@@ -231,6 +269,34 @@ Accordingly, the judge released Johnston Fernando on a cash bail of Rs. 25,000 a
 [Data](articles/b8bf9a74.json)
 
 [Extended Data](ext_articles/b8bf9a74.ext.json)
+
+---
+
+### සෘත සෘතුවට සූරිච් සිට ලංකාවට නව ගුවන් සේවයක්
+
+*2024-11-01 12:17:11* · [`adalk`](https://www.ada.lk/picture_story/සෘත-සෘතුවට-සූරිච්-සිට-ලංකාවට-නව-ගුවන්-සේවයක්/10-412792) · `si`
+
+Sri Lanka's new air service: Airwayis operates weekly flights between Surich and Katunayake airports, starting January 11, 2023.
+
+🟩
+
+With the end of winter, the first plane arrived at the Katunayake airport on 11/01.
+
+මෙම ගුවන් ගමන සදහා ඊඩ්ල්වයිස් ගුවන් සේවය විසින් එයාර් බස් ඒ. The Katunayake Airport authorities had taken steps to admit water ethics and accepting water ethics.
+
+The aircraft was 171 passengers in the aircraft and 251 passengers in the aircraft.
+
+සුරීච් නුවර සිට ඍජු ගුවන් ගමනක යෙදෙමින් සතියේ සෑම සිකුරාදා දිනකම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන මෙම යානය එදිනම උදෑසන 10.05 ට මාළදිවයින මාළේ නුවර ඔස්සේ ආපසු සූරීච් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව යාමට නියමිතය .
+
+The aircraft will arrive at the Katunayake Airport from Suriyapitiya, two days, Friday and Sundays, on January 2025.
+
+එසේම මෙම ශීත ඍතු ගුවන් සේවයේ ගුවන් යානා  2025 වසරේ මැයි මාසය තෙක් ක්‍රියාත්මක කිරීමට නියමිතය .
+
+◼️
+
+[Data](articles/3d824776.json)
+
+[Extended Data](ext_articles/3d824776.ext.json)
 
 ---
 
@@ -2181,75 +2247,5 @@ Former State Minister Lohan Ratwatte, arrested by Mirihana Police, was brought t
 [Data](articles/145db3a2.json)
 
 [Extended Data](ext_articles/145db3a2.ext.json)
-
----
-
-### Unidentified illegal motorcycles and 6 more motorbikes arrested
-
-*2024-10-31 19:11:19* · [`adalk`](https://www.ada.lk/breaking_news/ලියාපදිංචි-කළ-නොහැකි-නීතිවිරෝධී-යතුරුපැදි-4ක්-හා-තවත්-යතුරුපැදි-6ක-කොටස්-අල්ලයි/11-412787) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Unlicensed luxury bikes seized: 6 motorbikes arrested in Wennappuwa. Police claim engines exceed 500cc limit. One bike valued at Rs. 25 lakhs. Investigation ongoing."
-
-🟩
-
-Wennappuwa Police are arrested in connection with a person who was unregistered with a luxury house in Wennappuwa
-
-The buses have been arrested by the police said that the engine capacity of these motorcyclists were over the 500 CC value, police said.
-
-The value of this motorcycle is Rs. 25 lakhs.
-
-The racket has been carried out and has commenced a special investigation to seek external motorbikes.
-
-The police were produced in Japan and imported from Italy from Italy.
-
-◼️
-
-[Data](articles/5994369a.json)
-
-[Extended Data](ext_articles/5994369a.ext.json)
-
----
-
-### Ruhunu Kumari tracks jump
-
-*2024-10-31 18:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202779) · `si`
-
-Ruhunu Kumari trainee jumps track today. Train leaves Ginthota station at 3:40 PM due to signal issue. All trains delayed as per schedule.
-
-🟩
-
-Today (31). 3.40ට පිටත් වූ රුහුණු කුමාරි සීඝ්‍රගාමි දුම්රිය ගිංතොට දුම්රිය ස්ථානයේදී පීලි පැන තිබේ.
-
-එම හේතුවෙන් මුහුදුබඩ මාර්ගයේ ගිංතොට දුම්රිය ස්ථානය පසු කිරීමට නියමිත සියලුම දුම්රිය ප්‍රමාද වී ධාවනය වීමට ඉඩ ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/e419ba11.json)
-
-[Extended Data](ext_articles/e419ba11.ext.json)
-
----
-
-### US tech firm invests $8.5 mln in Sri Lanka with relocating of SHIELD from China
-
-*2024-10-31 18:41:00* · [`economynextcom`](https://economynext.com/us-tech-firm-invests-8-5-mln-in-sri-lanka-with-relocating-of-shield-from-china-185776/) · `en`
-
-ECONOMYNEXT – American engineering technology group Transdigm Group has invested $8.5 million in Sri Lanka in a joint venture with locally operating AmSafe BirdPort to provide engineering solutions for global aviation services, the Board of Investment (BOI) said.
-
-The new investment saw the launch of a new factory SHIELD in the island nation’s Western investment zone of Wathupitiwala. With the new investment SHIELD has shifted to Sri Lanka from China, BOI officials said.
-
-The foundation stone for the factory was laid on Thursday (31) in the investment zone.
-
-“SHIELD’s decision to shift its facility in China to establish a manufacturing facility here in Sri Lanka is a testament to the growing interest of U.S. investment in Sri Lanka,” U.S. Ambassador Julie Chung said in her remarks after the launch of SHIELD in Sri Lanka.  #
-
-...
-
-[Data](articles/c85e7fcf.json)
-
-[Extended Data](ext_articles/c85e7fcf.ext.json)
 
 ---

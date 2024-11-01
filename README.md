@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 04:40:05**
+As of **2024-11-02 04:58:28**
 
 ## Newspaper Stats
 
-*Scraped **52,602** Articles*
+*Scraped **52,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 533
 bbccomsinhala | 540
 islandlk | 3,133
 economynextcom | 3,196
-dailyftlk | 3,596
+dailyftlk | 3,600
 dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
@@ -26,11 +26,79 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,602 (100.0%) of 52,602 articles have been extended.
+52,605 (100.0%) of 52,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Sri Lanka participates in World Trade Expo 2024 in Mumbai
+
+*2024-11-02 04:32:07* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-in-World-Trade-Expo-2024-in-Mumbai/34-768741) · `en`
+
+The Consulate General of Sri Lanka in Mumbai, together with the Industrial Development Board and the Export Development Board of Sri Lanka organised the Sri Lanka Pavilion at the fifth edition of the World Trade Expo (WTE 2024).
+
+WTE 2024 was organised by the World Trade Center Mumbai in collaboration with All India Association of Industries (AIAI) from 17 to 18 October with a focus on trade, technology, tourism and education.
+
+...
+
+[Data](articles/fd68b731.json)
+
+[Extended Data](ext_articles/fd68b731.ext.json)
+
+---
+
+### Samsung Sri Lanka officially launches Galaxy S24 FE for purchase with exclusive offers
+
+*2024-11-02 04:31:21* · [`dailyftlk`](https://www.ft.lk/business/Samsung-Sri-Lanka-officially-launches-Galaxy-S24-FE-for-purchase-with-exclusive-offers/34-768740) · `en`
+
+Samsung, a global technology leader, has begun its orders for the highly anticipated Galaxy S24 FE.
+
+The buy now period starts on 1 November at 5 a.m. and runs until 31 December at 11:59 p.m.
+
+Samsung presents exclusive offers for the Galaxy S24 FE, offering customers an array of exceptional benefits. The prices are set at Rs. 255,688 with a savings of Rs. 24,491.
+
+Customers who purchase the Galaxy S24FE during this period will enjoy compelling benefits, including two year two-times screen replacement, with a savings of Rs. 72,000. Further, customers are entitled for a 24 months easy payment scheme with a monthly instalment of Rs. 9,411.
+
+Additionally, customers will receive complimentary 600GB data bundles from Dialog and Mobitel, and two months of free OneDrive subscriptions.
+
+...
+
+[Data](articles/aafe0f2a.json)
+
+[Extended Data](ext_articles/aafe0f2a.ext.json)
+
+---
+
+### Planning for climate-related human mobility
+
+*2024-11-02 04:18:40* · [`dailyftlk`](https://www.ft.lk/columns/Planning-for-climate-related-human-mobility/4-768732) · `en`
+
+The nexus between climate change and human mobility has increasingly become an area of focus for research and policymaking
+
+The nexus between climate change and human mobility has increasingly become an area of focus for researchers and policymakers in countries across the world. Climate change is transforming how people live, work, and move, and its impacts shape and influence the patterns of migration, disaster displacement, and planned relocation. Heat, droughts, floods, storms, landslides, and long-term processes such as sea level rise and increasing agricultural pests and diseases affect human mobility either directly or indirectly, ranging from seasonal rural out-migration to disaster displacement and from foreign employment to relocation out of high-risk areas.
+
+...
+
+[Data](articles/98446111.json)
+
+[Extended Data](ext_articles/98446111.ext.json)
+
+---
+
+### Sri Lanka elections: Out with the old, in with the new – for Tamils too
+
+*2024-11-02 04:10:09* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-elections-Out-with-the-old-in-with-the-new-for-Tamils-too/4-768723) · `en`
+
+The sheer volume of new candidates across the north-east is indicative of a highly politicised population and new blood will emerge from this
+
+Tamils are fed up with the status quo. The prevailing anti-establishment sentiment is reflected in the fact that the 12 seats open in the Jaffna and Vanni electoral districts are contested by over 800 contestants, the vast majority of whom are independent candidates. Addressing the mere basics, such as day-to-day economic grievances, means a lot in a country like Sri Lanka, which has been wracked by instability for decades. The splintering of Tamil parties, all vying for votes with roughly the same nationalist (or pseudo-nationalist) platforms, may also lower each party’s vote share
+
+...
+
+[Data](articles/9c7845ff.json)
+
+---
 
 ### Other players in  the perfect storm
 
@@ -2387,109 +2455,5 @@ In addition, many more people appointed to diplomatic positions on the basis of 
 [Data](articles/544b892c.json)
 
 [Extended Data](ext_articles/544b892c.ext.json)
-
----
-
-### 3 dead, over 30 injured as bus carrying KDU students topples in Badulla
-
-*2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/3-dead-over-30-injured-as-bus-carrying-kdu-students-topples-in-badulla) · `en`
-
-UPDATE: The death toll from the bus accident on the Badulla-Dunhinda road has increased to three while more than 30 others are injured and receiving treatment.
-
-Meanwhile, six injured persons are receiving treatment in the Intensive Care Unit (ICU) at the Badulla Hospital.
-
-At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 35 persons.
-
-Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, toppled down a precipice at Dunhinda Road in Badulla.
-
-The injured passengers are being rushed to the Badulla Hospital, according to Ada Derana reporter.
-
-A bus carrying a group of university students had reportedly overturned at around 7:45 a.m. today.
-
-...
-
-[Data](articles/137661b5.json)
-
-[Extended Data](ext_articles/137661b5.ext.json)
-
----
-
-### 2 dead, over 30 injured as bus carrying KDU students topples in Badulla
-
-*2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/2-dead-over-30-injured-as-bus-carrying-kdu-students-topples-in-badulla) · `en`
-
-At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 39 persons.
-
-Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, hit the curb and toppled across the Dunhinda Road in Badulla.
-
-The injured passengers were immediately rushed to the Badulla Hospital, according to Ada Derana reporter.
-
-Meanwhile, six injured persons are receiving treatment in the Intensive Care Unit (ICU) at the Badulla Hospital.
-
-The bus carrying a group of KDU students had reportedly overturned at around 7:45 a.m. today.
-
-The accident had occurred between the third and fourth-kilometer posts on the Badulla-Mahiyanganaya main road, near the Dunhinda access road, after the bus collided with an embankment.
-
-...
-
-[Data](articles/74709fa4.json)
-
-[Extended Data](ext_articles/74709fa4.ext.json)
-
----
-
-### 2 dead, over 30 injured as bus carrying uni students topples in Badulla
-
-*2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/2-dead-over-30-injured-as-bus-carrying-uni-students-topples-in-badulla) · `en`
-
-At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 35 persons.
-
-Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, toppled down a precipice at Dunhinda Road in Badulla.
-
-The injured passengers are being rushed to the Badulla Hospital, according to Ada Derana reporter.
-
-A bus carrying a group of university students had reportedly overturned at around 7:45 a.m. today.
-
-The accident had occurred between the third and fourth kilometer posts on the Badulla-Mahiyanganaya main road, near the Dunhinda access road, after the bus collided with a bund.
-
-According to police, a significant number of university students have sustained serious injuries in the accident.
-
-◼️
-
-[Data](articles/ff7c284a.json)
-
-[Extended Data](ext_articles/ff7c284a.ext.json)
-
----
-
-### 35 wounded in Badulla bus accident
-
-*2024-11-01 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202793) · `si`
-
-Bus accident in Badulla: 2 dead, 35 injured. Kotelawala Defense University bus overturned. Students on field trip. Road conditions suspected cause.
-
-🟩
-
-Hospital sources say that two persons have died in the accident.
-
-35 persons were injured in a bus toppled on the road in the Post of Paraduwa area in Badulla, Badulla.
-
-Our correspondent said that a bus belonging to the Kotelawala Defense University was involved in the accident.
-
-41 including a group of students who were engaged in a field visit and 41 persons were traveling on the bus.
-
-The injured persons have been admitted to the Badulla General Hospital.
-
-A group of university students have reached around 7.45 am today.
-
-The route of the road between the third and fourth-fourth kilometer pillars of the Galle Mahiyangana main road has been rose.
-
-A large number of students were seriously injured in the accident.
-
-◼️
-
-[Data](articles/fc38f7a3.json)
-
-[Extended Data](ext_articles/fc38f7a3.ext.json)
 
 ---

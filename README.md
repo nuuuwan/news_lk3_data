@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 13:24:15**
+As of **2024-11-01 13:40:39**
 
 ## Newspaper Stats
 
-*Scraped **52,525** Articles*
+*Scraped **52,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,122 @@ economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,889
-adaderanalk | 6,238
-tamilmirrorlk | 7,285
+adaderanalk | 6,239
+tamilmirrorlk | 7,287
 virakesarilk | 8,472
-adaderanasinhalalk | 9,144
+adaderanasinhalalk | 9,146
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,525 (100.0%) of 52,525 articles have been extended.
+52,530 (100.0%) of 52,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### There is another owner without any other owner in Kandy
+
+*2024-11-01 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202801) · `si`
+
+Kandy: Luxury car seized near Victoria Park housing complex. No other owners found.
+
+🟩
+
+මහනුවර දිගන වික්ටෝරියා පාක් නිවාස සංකිර්ණයේ නිවසක් අසල නවතා දමා ගොස් තිබූ සුඛෝපභෝගී රථයක් පොලිස් භාරයට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/b32d768d.json)
+
+[Extended Data](ext_articles/b32d768d.ext.json)
+
+---
+
+### A pronouncement of strong lightning
+
+*2024-11-01 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202800) · `si`
+
+Strong lightning warning issued for Puttalam, East, North-Central, Central, North-Central and Northern provinces. Public advised to take precautions against potential damage from thunderstorms.
+
+🟩
+
+The Department of Meteorology says that there is a powerful lightning in the Puttalam, East, North-Central, Central, North-Central and Northern provinces today.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බවය.
+
+The Department of Meteorology has requested the public to take necessary steps to minimize the damages caused by lightning.
+
+◼️
+
+[Data](articles/929e92a2.json)
+
+[Extended Data](ext_articles/929e92a2.ext.json)
+
+---
+
+### Railway employees tomorrow?
+
+*2024-11-01 13:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-ரயில்-ஊழியர்கள்-பணிப்புறக்கணிப்பு/175-346410) · `ta`
+
+Railway workers strike tomorrow due to unresolved promotion and recruitment disputes.
+
+🟩
+
+If the resolution is not reached today, the Railway Station Principals Association said that tomorrow the workforce will be engaged in a protest.
+
+Association president Somatha Somatna said yesterday's discussions were completed without a satisfactory solution.
+
+The negotiations were held on issues relating to promotion and recruitment.
+
+◼️
+
+[Data](articles/c5a6c26b.json)
+
+[Extended Data](ext_articles/c5a6c26b.ext.json)
+
+---
+
+### The reason for the lack of maintenance
+
+*2024-11-01 13:00:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பராமரிப்பு-இல்லாததே-ரயில்-தடம்புரள-காரணம்/175-346409) · `ta`
+
+Train derailments attributed to inadequate engine/boxcar maintenance, employee shortages, and part scarcity. 76 incidents reported this year.
+
+🟩
+
+The Railway Department said that most of the train derailment was due to the lack of proper maintenance of train engines and boxes.
+
+The situation was caused by a shortage of employees and spare parts, its Deputy General Manager NJ Indipolake said.
+
+The Railway Department has said that 76 train derailment has been derailed so far this year. That
+
+◼️
+
+[Data](articles/d01f389a.json)
+
+[Extended Data](ext_articles/d01f389a.ext.json)
+
+---
+
+### Sri Lanka’s pig farms urged to register as African swine fever spreads
+
+*2024-11-01 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103085/sri-lankas-pig-farms-urged-to-register-as-african-swine-fever-spreads) · `en`
+
+Sri Lanka’s Department of Animal Production and Health has requested the owners of pig farms across the island to visit the nearest veterinary office in order to register their farms.
+
+This request follows reports that pigs in certain pig farms in the country have contracted African swine fever for the first time.
+
+The Director of the Western Province Animal Production and Health Department, K.K. Sarath, stated that African swine fever cases have been reported in the Western Province, Uva, Northern, and North Western provinces.
+
+◼️
+
+[Data](articles/f489be9c.json)
+
+[Extended Data](ext_articles/f489be9c.ext.json)
+
+---
 
 ### Grandpass shooting - main gunman arrested
 
@@ -2145,125 +2247,5 @@ Anura Kumara Dissanayake threatens from stage yesterday. Head Leines are incorre
 [Data](articles/b0b44380.json)
 
 [Extended Data](ext_articles/b0b44380.ext.json)
-
----
-
-### China evalches next year on development projects in Sri Lanka
-
-*2024-10-31 18:18:18* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-සංවර්ධන-ව්‍යාපෘති-පිළිබඳ-චීනය-ලබන-වසරේදී-ඇගයීමක්-කරයි/11-412784) · `si`
-
-Here's a 200-character summary:
-
-
-
-China evaluates Sri Lanka's development needs for 2024. Chinese Ambassador emphasizes education cooperation and human resource development. Over 1,000 Sri Lankans trained in China across 17 fields. China supports Sri Lanka's economic growth through loans and financial assistance.
-
-🟩
-
-Chinese Ambassador to China's Ambassador to China's Ambassador to the New Year on the New Year's Development Needs of Sri Lanka. The Ambassador also said that more Sri Lankans were able to train most of Sri Lankans to train in China, and the Ambassador also said.
-
-He was speaking at a function held in Colombo today (31st), addressing a function held in Colombo today.
-
-"The Government of the Chinese government is important to maintain a education cooperation in all areas with Sri Lanka. In China, Sri Lankans have used our foreign aid to participate in various training programs. At the end of October this year, more than a thousand Sri Lankans have gone to the training programs covering 17 main areas.
-
-...
-
-[Data](articles/40f69974.json)
-
-[Extended Data](ext_articles/40f69974.ext.json)
-
----
-
-### The President has no right to declare that Parliament is a cave of thieves -Ranil has no right -Ranil
-
-*2024-10-31 18:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197604) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe criticized Parliament, saying it's undemocratic. He accused the current government of misusing power and violating constitutional sovereignty. The speaker questioned the legitimacy of Parliament's actions and called for greater transparency in the electoral process.
-
-🟩
-
-With 58 percent of Sri Lankan people, the parliament has no right to declare that Parliament is a cave of thieves as a cave of thieves.. Former President Ranil Wickremesinghe said the parliamentary system could be protected only if he voted for the cylinder.
-
-He was speaking at a meeting of the election campaign in Dambulla on Wednesday (30) in support of the new Democratic Front candidates contesting in the Matale district.
-
-The parliamentary elections begin to protect the parliament in the beginning. President Anura Kumara Dissanayake has been asked to grant a hundred % in Parliament. How can one who have 42 per cent to give a hundred per cent. I do not know where Anurakumara learned mathematics.
-
-In the early days, Communist countries held elections. Eliminated the opposition and increased their share. We cannot do that method. If 42 per cent, that account is not going to increase.
-
-...
-
-[Data](articles/ab410e84.json)
-
-[Extended Data](ext_articles/ab410e84.ext.json)
-
----
-
-### Crash near Galle Face
-
-*2024-10-31 17:55:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலிமுகத்திடலுக்கு-அருகில்-கோர-விபத்து/175-346369) · `ta`
-
-Galle Face crash: Three-wheeler collides with motorcycle and car, injuring seven. Five from three-wheeler and two motorcyclists hospitalized.
-
-🟩
-
-Seven people were injured when a three -wheeler collided with a motorcycle and a car this afternoon near the Galle Face.
-
-Five people who were traveling in a three -wheeler and two motorbikes were injured and admitted to the Colombo National Hospital.
-
-◼️
-
-[Data](articles/e8ae49f1.json)
-
-[Extended Data](ext_articles/e8ae49f1.ext.json)
-
----
-
-### After November 14, there are no strich
-
-*2024-10-31 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202777) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Folk Former Jathika Site claims strikes will end after Nov 14, calling it a transition period. He warns against future strikes, citing past examples like SLTB bus strikes. Emphasizes saving the government from problems rather than striking against it.
-
-🟩
-
-Former National Folk Former National Folk Former Jathika Site said that the misleadites facing the country will end after November 14 and this is the transition period.
-
-He was speaking at a public meeting held in the turtle and that they would even have to say that strike was 15 in 15 years.
-
-"Our country has very much bitter experiences. The child is going to school.. Taking off the street one day ... SLTB bus strike, go to the other side of the day.. There is a history.
-
-Think I told you today. That strike is lost in front of. Strike against whom. Save the government if you have any problem with the government. The children born today goes to the children to tell the kids. The hybridity is to be called the son, son is saying that this is the case. This is a good country with no good country. See if the lie. This is a transit time. This transition period will end after November 14.
-
-◼️
-
-[Data](articles/c4a4d184.json)
-
-[Extended Data](ext_articles/c4a4d184.ext.json)
-
----
-
-### PM vows to summon ex-President Ranil to provide evidence on ‘bond scam’
-
-*2024-10-31 17:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103073/pm-vows-to-summon-ex-president-ranil-to-provide-evidence-on-bond-scam) · `en`
-
-Sri Lanka’s Prime Minister Dr. Harini Amarasuriya assures that former President Ranil Wickremesinghe will be summoned to provide evidence regarding the Central Bank bond scam in 2015.
-
-Addressing a public meeting of the National People’s Power (NPP), the Premier went on to say that the NPP-led government would initiate legal action against every person who misappropriated public funds.
-
-Commenting further, Dr. Amarasuriya added: “Ranil Wickremesinghe has claimed that I am not well versed in the Constitution and offered to teach me about it. Should I attend his lessons? He was rejected by the people 17 times, yet he refuses to give up. One of the major tenets of the Constitution is the sovereignty of the people. It is clear that Ranil Wickremesinghe has failed to grasp this concept.”
-
-...
-
-[Data](articles/2d5bf772.json)
-
-[Extended Data](ext_articles/2d5bf772.ext.json)
 
 ---

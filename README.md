@@ -1,36 +1,188 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 08:06:10**
+As of **2024-11-01 08:31:11**
 
 ## Newspaper Stats
 
-*Scraped **52,474** Articles*
+*Scraped **52,483** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 533
-bbccomsinhala | 535
+bbccomsinhala | 536
 islandlk | 3,130
 economynextcom | 3,187
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,882
-adaderanalk | 6,228
-tamilmirrorlk | 7,276
+adaderanalk | 6,230
+tamilmirrorlk | 7,277
 virakesarilk | 8,468
-adaderanasinhalalk | 9,131
+adaderanasinhalalk | 9,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,465 (100.0%) of 52,474 articles have been extended.
+52,465 (100.0%) of 52,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Postal voting for General Election 2024 continues on second day
+
+*2024-11-01 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103078/postal-voting-for-general-election-2024-continues-on-second-day) · `en`
+
+The marking of postal votes for the upcoming General Election 2024 entered its second day today (01), after commencing on October 30.
+
+The Election Commission announced that postal voting will take place at all police stations, District Secretariats, Election Commission offices, and the Offices of the IGP.
+
+Additionally, postal voting will be available for the armed forces and other government institutions today (01) and on November 4, according to the Commissioner General of Elections, Saman Sri Rathnayake.
+
+The Election Commission further stated that postal voters who are unable to cast their votes on these designated days will be permitted to vote at the District Secretariat corresponding to their workplace location on November 07 and 08.
+
+◼️
+
+[Data](articles/f38cc675.json)
+
+---
+
+### அறுகம்பே தாக்குதல் திட்டம் குறித்து வெளிவந்த உண்மை
+
+*2024-11-01 07:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-தாக்குதல்-திட்டம்-குறித்து-வெளிவந்த-உண்மை/175-346396) · `ta`
+
+அறுகம்பே பிரதேசத்தில் இஸ்ரேலியர்கள் மீது தாக்குதல் நடத்த திட்டமிட்டுள்ளதாக அமெரிக்க புலனாய்வு பிரிவினர் வழங்கிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளில், இது தீவிரவாத குழுவினால் திட்டமிடப்படவில்லை என உறுதிப்படுத்தப்பட்டுள்ளதாக அரசாங்க பிரதிநிதிகள் அமெரிக்க பிரதிநிதிகளிடம் தெரிவித்துள்ளனர்.
+
+எயார் வைஸ் மார்ஷல்(ஓய்வு பெற்ற) சம்பத் துய்யகொண்டா, மற்றும் ஜனாதிபதி அலுவலக அதிகாரிகள் உள்ளிட்ட குழுவினர் நேற்று முன்தினம் (30ம் திகதி) இலங்கையில் உள்ள அமெரிக்க தூதரகத்தின் தலைவர்களை சந்தித்து இதுபற்றி தெரிவித்துள்ளனர்.
+
+இச்சம்பவம் தொடர்பாக கைது செய்யப்பட்ட 6 பேர் உட்பட குழுவை வழிநடத்திய ஈரான் பிரஜை உள்ளிட்ட தலைவர்கள் இந்த வலையமைப்பு தீவிரவாத வலையமைப்புடன் இணைக்கப்படவில்லை என சுட்டிக்காட்டியுள்ளனர்.
+
+இது ஒரு ஒழுங்கமைக்கப்பட்ட குற்றக் குழுவாக செயற்பட்ட ஒரு கும்பலின் முயற்சியே என சுட்டிக்காட்டப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/329ef04c.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-11-01 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103077/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the atmospheric conditions are favorable for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night.
+
+Heavy showers above 100 mm are likely at some places in Uva, Eastern, Central, Sabaragamuwa and North-central provinces, it added.
+
+Showers or thundershowers may occur at a few places in the coastal areas of Northern, Eastern and North-western provinces during the morning too.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7a5f23e2.json)
+
+---
+
+### හිටපු ජනපති මහින්දගේ ආරක්ෂාව ගැන දිලිත් කියපු කතාව
+
+*2024-11-01 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202789) · `si`
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාගේ ආරක්ෂාව ඉවත්කිරීම හරහා පෙනී යන්නේ වරප්‍රසාද කප්පාදුවක් නොව කෙනෙහිලිකමක් බව සර්වජන බලය නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඊයේ (31) පස්වරුවේ කඳාන ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් ඔහු මේ බව කියා සිටියේය.
+
+"මහින්ද රාජපක්ෂ මහතාව කිසිදිනක අපට අමතක කරන්න බෑ. අපේ දේශපාලන ආඛ්‍යානය කුමක් වුවත් ඔහුව අමතක කරන්නට බැහැ. ඔහු යුග පුරුෂයෙක්. ඒ නිසා ඔහුව ආරක්ෂාව අයින් කරනවා නම්, ඒ ආරක්ෂාව ඉවත් කරන්නේ නිකන්ම නිකන් කුහකකම නිසාවත්, සාමාන්‍යයෙන් ඔවුන්ට තියෙන ඊර්සියාව නිසාවත් එහෙම නැතුව වෙනත් ව්‍යාපෘතියකටත් වඩා මේ රජය රට යුද්ධයෙන් බේරාගත් මහින්ද රාජපක්ෂ කියන නායකයාට තියෙන විරුද්ධත්වය නිසයි.
+
+...
+
+[Data](articles/c1e3a7d4.json)
+
+---
+
+### කැලණි ගඟේ මියගිය පුද්ගලයෙකුගේ සිරුරක්
+
+*2024-11-01 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202788) · `si`
+
+කැළණි ගඟේ නාඳුනන පිරිමි මෘත ශරීරයක් ඇති බවට පෑලියගොඩ පොලීසියට ලද තොරතුරක් මත විමර්ශන ආරම්භ කර ඇත.
+
+පෑලියගොඩ පොලිස් වසමේ පෑලියගොඩ මීගමුව මාර්ගයේ ගෑස් වත්ත පිටුපස කැලණි ගඟේ නාඳුනන පුද්ගලයෙකුගේ සිරුරක් ඇති බවට තොරතුර ලැබී තිබුණේ ඊයේ (31) සවස් කාලයේදී ය.
+
+මෘතශරීරය සම්බන්ධයෙන් හදිසි මරණ පරීක්ෂණය සිදුකර කොළඹ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
+
+පොලීසිය සඳහන් කළේ මියගිය පුද්ගලයාගේ අනන්‍යතාව මෙතෙක් තහවුරු වී නොමැති බවය.
+
+වයස අවුරුදු 45ත් 50ත් අතර, උස අඩි 05යි අඟල් 07 ක් වන එම පුද්ගලයා අළු පැහැති දිග කලිසමක් පමණක් හැඳ සිටි බවද පොලීසිය පවසයි.
+
+කොණ්ඩය කළු සුදු මිශ්‍ර වන අතර හිස මැද තට්ටය පෑදී ඇත. මුහුණ පුරා රැවුල වවා තිබේ.
+
+◼️
+
+[Data](articles/b1348168.json)
+
+---
+
+### ග්‍රෑන්ඩ්පාස් වෙඩික්කරු කොටුවෙයි
+
+*2024-11-01 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202787) · `si`
+
+ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ කනත්ත ඉදිරිපිට ත්‍රිරෝද රථයක සිටි පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමේ සිද්ධියේ වෙඩික්කරු බවට සැකකෙරෙන පුද්ගලයෙකු කොළඹ අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පසුගිය ඔක්තෝබර් මස 16 වන දින ග්‍රෑන්ඩ්පාස් පොලිස් වසමේ මාදම්පිටිය කනත්ත ඉදිරිපිට දී ත්‍රිරෝද රථයක සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිණි නාඳුනන පුද්ගලයින් කිහිපදෙනෙකු විසින් වෙඩිතබා ඝාතනය කර තිබුණි.
+
+ඉන් අනතුරුව ග්‍රෑන්ඩ්පාස් පොලීසිය හා කොළඹ අපරාධ කොට්ඨාසය මඟින් විමර්ශන ආරම්භ කළේය.
+
+ඒ අනුව මෙම වෙඩි තැබීම සඳහා සැකකරුවන් පැමිණි කාර් රථයේ රියදුරුව සිටි වයස අවුරුදු 35ක්වූ බ්ලූමැන්ඩල් ප්‍රදේශයේ පදිංචි සැකකරුවෙකු ග්‍රෑන්ඩ්පාස් පොලීස් ස්ථානය මඟින් ඔක්තෝබර් මස 28 වන දින අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධය සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරින්ට ලද තොරතුරක් මත වැඩිදුරටත් විමර්ශනය සිදුකර වෙඩිතැබීම සිදුකරන ලද බවට සැකකරන පුද්ගලයා ඊයේ (31) සවස වත්තල ප්‍රදේශයේදී ඔහු සන්තකයේ තිබූ ජංගම දුරකථන දෙකක් ද සමඟ අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 31 ක් වන හැඳල, වත්තල ප්‍රදේශයේ පදිවිකරුවෙකි.
+
+...
+
+[Data](articles/57d93d0a.json)
+
+---
+
+### මහ මැතිවරණයේ තැපැල් ඡන්ද සලකුණු කිරීමේ දෙවන දිනය අද
+
+*2024-11-01 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202786) · `si`
+
+මහ මැතිවරණයේ තැපැල් ඡන්ද සලකුණු කිරීමේ දෙවන දිනය අද (01) යි.
+
+පසුගිය මස 30 වනදා තැපල් ඡන්ද සලකුණු කිරීමේ පළමු දිනය ලෙස දිස්ත්‍රික් ලේකම් කාර්යාල, මැතිවරණ කොමිෂන් සභා කාර්යාල සහ පොලිස් ස්ථානවල තැපැල් ඡන්ද සලකුණු කෙරුණි.
+
+ඒ අනුව අද දිනයේ ත්‍රිවිධ හමුදා කඳවුරුවල සහ සෙසු සියලුම රාජ්‍ය ආයතනවල තැපැල් ඡන්ද සලකුණු කිරීම සඳහා අවස්ථාව ලබා දී ඇති බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පැවසුවේය.
+
+තැපැල් ඡන්දය සලකුණු කිරීමට නොහැකි වන තැපැල් ඡන්ද දායකයින්ට තමන්ගේ සේවා ස්ථානය පිහිටි දිස්ත්‍රික්කයේ දිස්ත්‍රික් මැතිවරණ කාර්යාලවල දී නොවැම්බර් මස 7 සහ 8 යන දෙදින තැපැල් ඡන්දය සලකුණු කිරීම සඳහා අවස්ථාව ලබා දී  ඇති බව මැතිවරණ කොමිෂන් සභාව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/46390aba.json)
+
+---
+
+### අකුණු සැර වැදී 11 හැවිරිදි දැරියක් මරුට
+
+*2024-11-01 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202785) · `si`
+
+අකුණු සැර වැදීමකින් 11 හැවිරිදි දැරියක් මියයෑමේ සිද්ධියක් පස්සර පොලිස් වසමේ අඹතැන්න ගොවිපොළ ප්‍රදේශයයෙන් වාර්තා විය.
+
+පියා හා සහෝදරයා නිවස පිටුපස අත්තිවාරම කපමින් සිටියදී ඊට උදව් කරමින් සිටියදී දැරිය මෙම අනතුරට ලක්වී ඇති බව පැවසෙයි.
+
+ඇයගේ සහෝදරයාද අකුණු සැර වැදීමෙන් පස්සර රෝහලට ඇතුළත් කිරීමෙන් පසු වැඩිදුර ප්‍රතිකාර සඳහා බදුල්ල රෝහලට මාරු කර යවා ඇත.
+
+පියාට කිසිදු අනතුරක් සිදුවී නොමැති අතර පස්සර පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/033d8609.json)
+
+---
 
 ### Sri Lanka Design Festival 2024: Showcase of creativity and culture at Cinnamon Life at City of Dreams
 
@@ -597,6 +749,32 @@ Yasodini Karunanidhi, a former fighter, who was a female candidate in the Democr
 [Data](articles/ea256794.json)
 
 [Extended Data](ext_articles/ea256794.ext.json)
+
+---
+
+### නොදැනුවත්ම අපව ලෙඩ කරන ඩිජිටල් උපකරණ
+
+*2024-11-01 02:03:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq52ze66zzgo) · `si`
+
+දිනෙන් දින දියුණු වන ලෝකයත් සමග ඉදිරියට යාමට නම් ලොකු කුඩා කාටත් තාක්ෂණික උපාංග භාවිතය අත්‍යාවශ්‍යම සාධකයක් වී තිබේ.
+
+ඩිජිටල්කරණ යුගයක දිවි ගෙවන ලෝකවාසීන්  ජංගම දුරකථන, පරිගණක සහ ටැබ් වැනි විවිධ ඩිජිටල් උපකරණ භාවිත කිරීමට හුරුවී සිටියි.
+
+ඩිජිටල් උපකරණ වැඩි වෙලාවක් භාවිත කිරීම නොදැනුවත්ම විවිධ ශාරීරික මෙන්ම මානසික රෝග ඇති කරලීමට හේතුවක් වී ඇති බව බීබීසී සිංහල වෙත අදහස් දැක්වූ වැඩිදෙනෙක් පැවසූහ.
+
+දෙදෙරු මවක් වන 34 හැවිරිදි ශෂිකා නිර්මාණි පැවසුවේ සිය වැඩිමහල් දරුවා ජංගම දුරකථනයෙන් ඈත් කර තැබීම විශාල අභියෝගයක් බවට පත්ව ඇති බවයි.
+
+" මගේ ලොකු පුතාගේ වයස දැන් අවුරුදු 6ක් වෙනවා. පොඩි පුතාට වයස අවුරුදු 3යි."
+
+"මගේ දෙවැනි බබා හම්බ වුණාට පස්සේ මම එයාගේ වැඩත් එක්ක කාර්ය බහුල වුණා. ලොකු පුතා ඒ වෙද්දී සාමාන්‍ය දරුවෙක් විදිහට සෙල්ලම් කරනවා, චිත්‍ර පාට කරන්න උත්සාහ කරන කාලේ."
+
+"මම දෙවැනි බබා එක්ක කාලය ගත කරන නිසා සමහර වෙලාවට ලොකු පුතා එක්ක සෙල්ලම් කරන්න වගේම එයා එක්ක කාලය ගත කරන්න ලැබුණේ නැහැ වෙනදා වගේ."
+
+"මම එයාට කාටුන් එහෙම ෆෝන් එකෙන් දාලා දුන්නා බලන්න. එයත් කාටුන් බලනවා මම පොඩි එක්කෙනාගේ වැඩ කරනකොට."
+
+...
+
+[Data](articles/7e1cfb19.json)
 
 ---
 
@@ -2087,241 +2265,5 @@ Arrests in the Old Section of the Boossa High Security PrisonWith the loss of 15
 [Data](articles/9b740e26.json)
 
 [Extended Data](ext_articles/9b740e26.ext.json)
-
----
-
-### Elections Laws in Palm Development Board have been violated - Transparency International Sri Lanka complaints in the Election Commission
-
-*2024-10-31 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/197572) · `ta`
-
-Transparency International Sri Lanka filed a complaint with the Election Commission about Palm Development Board appointments violating election laws. The board chairman was changed within 12 days, and new executives were appointed without commission approval. This undermines public trust and fair elections.
-
-🟩
-
-Transparency International Sri Lanka (TISL) has lodged a complaint with the Sri Lanka Elections Commission (ECSL) on Tuesday (29) regarding appointments made by the Palm Development Board (PDB) in Jaffna in contrary to election laws.
-
-Selin Ireneus Mariampillai was appointed as Chairman of the Palm Development Board (PDB) on October 10 and was removed at 12 days following a period of 12 days, instead of Vinayagamoorthy Sahadevan, who was replaced on October 22.
-
-It is also reported that the Minister has given permission to appoint the leaders of the leaders and the appointment of several new executive councils despite the obstacles imposed by the Elections Commission.
-
-In the Gazette and Election Act issued by the Sri Lanka Elections Commission (ECSL) on September 25, it has clearly stated that any recruitment, appointments, promotions or transfers in state institutions during the election period, without the permission of the Elections Commission.
-
-...
-
-[Data](articles/a2469a0b.json)
-
-[Extended Data](ext_articles/a2469a0b.ext.json)
-
----
-
-### Father's children are hungry, who has passed away from life without money
-
-*2024-10-31 13:13:48* · [`adalk`](https://www.ada.lk/breaking_news/බෙහත්-ගන්න-සල්ලි-නැතිව-ජීවිතයෙන්-සමුගත්-පියාගේ-දරු-පස්-දෙනා-කුසගින්නේ/11-412776) · `si`
-
-Here's a 200-character summary:
-
-
-
-A struggling single mother in Kosgoda faces financial hardship after her husband's death. She struggles to feed her seven children and provide education. The community rallies around her, seeking help through local authorities.
-
-🟩
-
-Disease was the rise in the lives of the lives of a resident of Kosgoda, a resident of Kosgoda.
-
-We are in the face of the life of the family economy.
-
-Only God knows the exhaustion of life, who has passed away from life without medicine to live in school and seven-half children.
-
-These four schools go to schools, however, the economic situation has not been able to make a third time in the stomach.
-
-Also, Sujeewani told us that the children were still unaware of a rental area to live in a thousand and amelled by the child.It is underway.
-
-"Once, if my husband had the money to make medication, I asked me to eat."
-
-"All five of my children have been infinitely stomach.
-
-Of course, six people should be able to work at least three family members, at least three people should be employed at least three family members.At least the Tiss Makta is not necessary.
-
-After the death of her husband, Sujeewaka has now reached the rented room of the Rajjanawatte of the Pannayaka who lives.
-
-...
-
-[Data](articles/2519aebe.json)
-
-[Extended Data](ext_articles/2519aebe.ext.json)
-
----
-
-### Dilith does not even know the simple notion of Vijitha Economics
-
-*2024-10-31 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202768) · `si`
-
-Dilith Jayaweera criticizes Vijitha Herath's economic understanding. He calls for voting against the current system, emphasizing the need for a strong opposition.
-
-🟩
-
-The party leader Dilith Jayaweera has called for the people to vote for the exangeration to create a bold opposition to change the existing system.
-
-Another meeting in the NahaHhamu series in the Navahamayaka Malaya for the next general election was held in Raddolugama.
-
-The leader of the universal authority (Gampaha District candidate) entrepreneurship Dilith Jayaweera,
-
-"Minister Vijitha Herath said that the money was not molded. If the signature of Anura Kumara has the signature if mold. I was surprised. For about 25 years in Parliament ... I was a person who studied at the University of Kelaniya. "
-
-"Molding money is not used to template from rupees. This is called the country's currency circulation.. The increase in liquidity. "
-
-"Minister Vijitha Herath. I don't know, honestly, he didn't know ... the simple concept of this economy. "
-
-"Sri Lanka has increased the liquidity of Sri Lanka.. That means sooner you need to pay for you to pay. Inflation increases. "
-
-...
-
-[Data](articles/b06d9c3a.json)
-
-[Extended Data](ext_articles/b06d9c3a.ext.json)
-
----
-
-### Over 8450 customs investigations have stopped
-
-*2024-10-31 13:01:03* · [`adalk`](https://www.ada.lk/breaking_news/රේගු-විමර්ශන-8450-ක්-වසර-ගණනාවක්-තිස්සේ--ඇනහිටලා/11-412775) · `si`
-
-Sri Lanka Customs: 8450 unresolved investigations over 10 years due to delays, corruption, and officer misconduct. Audit recommends addressing root causes.
-
-🟩
-
-The National Audit Office reveals that 8450 customs investigations conducted by various aspects of the Sri Lanka Customs have been unresolved for many years.
-
-Taking 3080 years, 4348 years, 4348 years, 4348 years, audit report shows that 1022 years ago, audit report on Customs.
-
-The main number of Customs has informed the audit that these investigations from 2015 to the beginning of this year.
-
-The audit is recommended that the investigation has arisen as the degradation of goods were delayed by delay, degradation, degradation, spies and officers.
-
-◼️
-
-[Data](articles/f43215bc.json)
-
-[Extended Data](ext_articles/f43215bc.ext.json)
-
----
-
-### JVP is involved in the murder of former President Chandrika's husband - Ranil
-
-*2024-10-31 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197577) · `ta`
-
-JVP accused in Chandrika's husband murder. Former President Ranil claims JVP involved in assassination. Government withdraws individuals given to Mahinda Rajapaksa. JVP's involvement due to eye bomb blast. Both worked together supporting Maithripala Sirisena. Mahinda lost support but remains unsafe. Focus on safety rather than war claim.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that the JVP is involved in the assassination of her husband Chandrika Kumaratunga.
-
-Ranil Wickremesinghe said this while commenting on the government's decision to withdraw the individuals given to former President Chandrika Kumaratunga Mahinda Rajapaksa.
-
-JVP's involvement in the murder of former President Chandrika Kumaratunga's husband Vijayakumaratunga has been affected by an eye bomb blast.
-
-He never supported me, and we both worked together to support Maithripala Sirisena.
-
-Former President Mahinda Rajapaksa has lost his support, but it is another matter;Cannot reduce his safety. When he says he was the end of the war, he should focus on his safety.
-
-◼️
-
-[Data](articles/a6b5ad48.json)
-
-[Extended Data](ext_articles/a6b5ad48.ext.json)
-
----
-
-### The face of JVP comes out: Tamil people should think - Surendran
-
-*2024-10-31 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197566) · `ta`
-
-JVP faces controversy over unfulfilled promises. Former leader Anura Kumara Dissanayake failed to deliver on campaign vows. Tamil people urged to remain vigilant against false change. Political justice remains elusive for Tamils despite JVP's election.
-
-🟩
-
-Relo's media spokesman and Democratic Tamil National Alliance (TNA) candidate Gurusamy Surendran said the Tamil people should think and act as the JVP's past faces come out.
-
-He was speaking at a major propaganda meeting of the Democratic Tamil National Alliance (TNA) held at the Anaikkottai Chakkattu area on Wednesday (30).
-
-The JVP has forgotten the decree issued by the JVP's presidential candidate to the people.
-
-Those who said they were going to change have begun to show the old faces of JVP, unable to make the expected change.
-
-The current president, Anura Kumara Dissanayake, has issued a promise of presidential meetings as a presidential candidate to abolish the Terrorism Act.
-
-Those who claimed that they would be arrested within 24 hours when the Central Bank bailbage of the past mass corruption scandal, did not arrest the bribery corruption.
-
-With the present parliamentary election, they have launched an inquiry into the Sunday attack on the bailout fraud.
-
-...
-
-[Data](articles/f0e37dde.json)
-
-[Extended Data](ext_articles/f0e37dde.ext.json)
-
----
-
-### Lohan Ratwatte arrested - the reason behind
-
-*2024-10-31 12:46:46* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-අත්අඩංගුවට---හේතුව-මෙන්න/11-412774) · `si`
-
-Lohan Ratwatte arrested for driving unlicensed vehicle in Nugegoda.
-
-🟩
-
-He was arrested in the case of finding a car without number plates in Nugegoda.
-
-◼️
-
-[Data](articles/eed79f70.json)
-
-[Extended Data](ext_articles/eed79f70.ext.json)
-
----
-
-### The Qur'an should not be recited: the new prohibition of the Taliban
-
-*2024-10-31 12:40:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/குர்ஆன்-ஓதவோ-கூடாது-தலிபான்-புதிய-தடை/50-346356) · `ta`
-
-Taliban restricts women's Quran recitation, prayer calls, and public speech. Latest in series of gender prohibitions in Afghanistan.
-
-🟩
-
-A Taliban minister has said that women praying aloud or reciting the Quran in front of other women.
-
-This is the latest restriction on women in Afghanistan, which is prohibited by raising their voices and showing their faces outside the home. There are already prohibited women from studying more than third grade, public places and work.
-
-Speaking at a function in Afghan's eastern Lokar region on Sunday (27), Minister of Virtue Khalid Hanafi said:. It is not allowed to raise slogans (Allah Hu Akbar).
-
-Similarly, the central of Islamic beliefs should not be pronounced words like Subanullah. Women are not allowed to call for prayer. So they are not allowed to sing the song, ”he said. His comments were shared on the social media of the Ministry and later deleted.
-
-After the taking over in Afghanistan in 2021, the Taliban set up a ministry to spread virtue and prevent evil.. The ministry has been implementing the orders issued by the Taliban since then.
-
-...
-
-[Data](articles/79641665.json)
-
-[Extended Data](ext_articles/79641665.ext.json)
-
----
-
-### 1,000 million heroin found in shadows
-
-*2024-10-31 12:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202767) · `si`
-
-Heroin stash discovered: 40kg seized in Sevanagala operation by Sri Lanka's STF. Military intelligence reports massive 1000 million units hidden in shadows.
-
-🟩
-
-According to information received by the military intelligence, 40 kilos of heroin found in Sevanagala area.
-
-The drug was found in a mission by the STF.
-
-◼️
-
-[Data](articles/734004d5.json)
-
-[Extended Data](ext_articles/734004d5.ext.json)
 
 ---

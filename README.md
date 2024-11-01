@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 14:58:50**
+As of **2024-11-01 15:10:51**
 
 ## Newspaper Stats
 
-*Scraped **52,534** Articles*
+*Scraped **52,536** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,890
-adaderanalk | 6,240
+adaderanalk | 6,241
 tamilmirrorlk | 7,288
 virakesarilk | 8,472
-adaderanasinhalalk | 9,147
+adaderanasinhalalk | 9,148
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,534 (100.0%) of 52,534 articles have been extended.
+52,535 (100.0%) of 52,536 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Fire breaks out at garage in Rajagiriya
+
+*2024-11-01 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103089/fire-breaks-out-at-garage-in-rajagiriya) · `en`
+
+A massive fire has reportedly broken out at a vehicle garage in Rajagiriya while the Kotte Fire Brigade has deployed several fire trucks to help douse the flames.
+
+The fire has broken out at a vehicle garage located on a road at Obesekarapura in Rajagiriya while several fire trucks and firefighters are already at the scene attempting to extinguish the fire, Ada Derana reporter said.
+
+He stated that several vehicles appear to be gutted in the fire which had rapidly spread covering the entire area in smoke.
+
+◼️
+
+[Data](articles/e27a2553.json)
+
+---
+
+### Fire in Rajagiriya
+
+*2024-11-01 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202803) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Rajagiriya Fire: Police confirm fire exits reached. Situation under control."
+
+🟩
+
+The police said that the place has been reached by fire exits.
+
+◼️
+
+[Data](articles/3a399896.json)
+
+[Extended Data](ext_articles/3a399896.ext.json)
+
+---
 
 ### Weather advisory issued for severe lightning
 
@@ -2211,47 +2249,5 @@ Police had found the luxury car in question during an inspection carried out bas
 [Data](articles/feacf1b2.json)
 
 [Extended Data](ext_articles/feacf1b2.ext.json)
-
----
-
-### Ruhunu Kumari derailed
-
-*2024-10-31 19:35:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ருஹுனு-குமாரி-தடம்-புரண்டது/175-346370) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ruhunu Kumari train left Matara at 3:40 PM on 31st. This caused delays for other trains passing through Kindota station on the coastal route.
-
-🟩
-
-The Ruhunu Kumari fast train departed from Matara at 3.40 pm today (31).
-
-Due to this, all trains that crossed the Kindota railway station on the coastal road could be operated late.. Remble
-
-◼️
-
-[Data](articles/c8c27784.json)
-
-[Extended Data](ext_articles/c8c27784.ext.json)
-
----
-
-### Lohan Ratwatte to appear before Acting Magistrate
-
-*2024-10-31 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202780) · `si`
-
-Former State Minister Lohan Ratwatte arrested by Mirihana Police appeared before Gampaha Acting Magistrate on 31st.
-
-🟩
-
-Former State Minister Lohan Ratwatte, arrested by Mirihana Police, was brought to the Gampaha Acting Magistrate today (31).
-
-◼️
-
-[Data](articles/145db3a2.json)
-
-[Extended Data](ext_articles/145db3a2.ext.json)
 
 ---

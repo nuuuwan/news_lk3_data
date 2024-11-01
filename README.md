@@ -1,36 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 16:39:41**
+As of **2024-11-01 16:57:36**
 
 ## Newspaper Stats
 
-*Scraped **52,545** Articles*
+*Scraped **52,554** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 533
-bbccomsinhala | 536
+bbccomsinhala | 538
 islandlk | 3,133
-economynextcom | 3,190
+economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,892
-adaderanalk | 6,242
+adalk | 4,893
+adaderanalk | 6,244
 tamilmirrorlk | 7,288
 virakesarilk | 8,475
-adaderanasinhalalk | 9,151
+adaderanasinhalalk | 9,154
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,545 (100.0%) of 52,545 articles have been extended.
+52,549 (100.0%) of 52,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### පාකිස්තානයේ පිපිරීමක්
+
+*2024-11-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202809) · `si`
+
+නිරිතදිග පාකිස්තානයේ සිදුකළ පිපිරීමකින් පාසල් ළමුන් 5 දෙනෙක් ඇතුළු 7 දෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+
+එරට බලධාරීන් පැවසුවේ පෝලියෝ එන්නත් වැඩසටහනකට සම්බන්ධ වී සිටි පිරිසක් රැගෙන ඒමට ගිය පොලිස් වෑන් රථයක් ඉලක්ක කර එම ප්‍රහාරය එල්ලකර තිබුණි.
+
+එම පොලිස් රථය මාර්ගයේ ධාවනය වන විට කාන්තා පාසලක් අසල නවතාතිබූ යතුරුපැදියක සවිකර තිබූ බෝම්බයක් පුපුරුවා හැර තිබුණි.
+
+◼️
+
+[Data](articles/3b092256.json)
+
+---
+
+### Dr. Hans Wijayasuriya apponted Chief Advisor to President on Digital Economy
+
+*2024-11-01 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103092/dr-hans-wijayasuriya-apponted-chief-advisor-to-president-on-digital-economy) · `en`
+
+Former Axiata Group CEO Dr. Hans Wijayasuriya has been appointed as the Chief Advisor to the President on Digital Economy.
+
+He received his letter of appointment from President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today (01).
+
+The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy.
+
+◼️
+
+[Data](articles/f1a48834.json)
+
+[Extended Data](ext_articles/f1a48834.ext.json)
+
+---
+
+### ඩිජිටල් ආර්ථිකය පිළිබඳ ප්‍රධාන ජනාධිපති උපදේශක ලෙස ආචාර්ය හාන්ස් පත් කෙරේ
+
+*2024-11-01 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202808) · `si`
+
+ආචාර්ය හාන්ස් විජයසූරිය මහතා ඩිජිටල් ආර්ථිකය පිළිබඳ ජනාධිපති ප්‍රධාන උපදේශක ලෙස පත් කර තිබේ.
+
+මේ අතර නිවේදනයක් නිකුත් කරමින් ඩයලොග් ආසිආටා හි මව් සමාගම වන ආසිආටා ගෲප් බර්හාඩ් පවසන්නේ එහි සමූහ විධායක අධ්‍යක්ෂ සහ එහි විදුලි සංදේශ ව්‍යාපාර සම්බන්ධ ප්‍රධාන විධායක නිලධාරී ආචාර්ය හාන්ස් විජයසූරිය ශ්‍රී ලංකා රජයේ ආරාධනය ආචාර්ය විජයසූරිය විසින් පිළිගෙන ඇති බවයි.
+
+ඒ අනුව ඔහු 2025 ජනවාරි 25 වනදා ආසියාටා සමාගමෙන් ඉල්ලා අස්වන බව දැනුම් දී ඇති බව එම නිවේදනයේ දැක්වෙයි.
+
+ආචාර්ය හාන්ස් ගේ තීරණය ආසියාට අධ්‍යක්ෂ මණ්ඩලය විසින් පිළිගෙන තිබේ. ඔහු ආසියාටා සහ ඊට පෙර එය හඳුන්වනු ලැබූ ටෙලිකොම් මැලේසියා හි  වසර 30ක් පමණ සිය වෘත්තියේ යෙදී තිබේ.
+
+◼️
+
+[Data](articles/87a1ad32.json)
+
+---
+
+### Sri Lanka makes $503 million in debt service payments in first half 2024
+
+*2024-11-01 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103091/sri-lanka-makes-503-million-in-debt-service-payments-in-first-half-2024) · `en`
+
+The external debt of the government as of end of June 2024 amounted to USD 37.5 billion, according to the Mid-Year Fiscal Position Report issued by Sri Lanka’s Finance Ministry.
+
+Total debt service payments from 1st January to 30th June in 2024 was amounted to USD 503.0 million, of which USD 275.1 million was in lieu of principal repayments and the balance USD 227.9 million for the interest payments, it said.
+
+In line with the interim policy of the debt standstill adopted by the Government, the servicing of the external debt of affected loans obtained from bilateral and commercial creditors have been temporarily suspended for an interim period commencing from 12th April, 2022.
+
+Accordingly, the principal amount of USD 5,670 million and interest of USD 2,527 million have been accumulated as unpaid debt service by the end of June 2024, the report added.
+
+◼️
+
+[Data](articles/2959450a.json)
+
+[Extended Data](ext_articles/2959450a.ext.json)
+
+---
+
+### දශක තුනකට පසු පලාලි - අච්චුවේලි ප්‍රධාන මාර්ගය විවෘත කෙරේ
+
+*2024-11-01 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202807) · `si`
+
+පලාලි - අච්චුවේලි ප්‍රධාන මාර්ගය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ උපදෙස් පරිදි අද (01) විවෘත කර තිබේ.
+
+වසර තිහක් පැවති යුද තත්ත්වය හේතුවන් මෙම ප්‍රධාන මාර්ගය වසා දමා තිබූ අතර යුද්ධය අවසන් වී වසර 15කට වැඩි කාලයක් ගතවූ නමුත් මෙම මාර්ගය මහ ජනතාවට විවෘත නොවිණි.
+
+මෙම මාර්ගය විවෘත කිරීම සම්බන්ධයෙන් උතුරු පළාත් ජනතාව විසින් නිරන්තර ඉල්ලීම් සිදු කර ඇති අතර ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ආණ්ඩුකාරවරුන් අතර පසුගිය ඔක්තෝබර් 22වෙනිදා පැවති සාකච්ඡාවේදී උතුරු පළාත් ආණ්ඩුකාර නාගලිංගම් වේදනායගම්  මහතා ද ජනාධිපතිවරයාගෙන් මේ පිළිබඳ ඉල්ලීමක් සිදු කළේය.
+
+ඒ අනුව මෙම මාර්ගය විවෘත කිරීම සම්බන්ධයෙන් පවතින ආරක්ෂක තත්ත්වය පිළිබඳ සොයා බලා අදාළ කටයුතු සිදු කරන ලෙස  ජනාධිපති අනුර කුමාර දිසානායක මහතා ආරක්ෂක අංශවලට දැනුම් දී තිබුණු අතර ඒ අනුව ආරක්ෂක අමාත්‍යාංශයේ හා ආරක්ෂක ලේකම්වරයාගේ  මැදිහත්වීමෙන් මෙම මාර්ගය විවෘත කිරිමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/15cc9e6c.json)
+
+---
 
 ### Revelation on foreign debt in the first 6 months
 
@@ -85,6 +175,28 @@ However, he has informed the charges of accepting the wrongdoing and consume his
 [Data](articles/16a13ed7.json)
 
 [Extended Data](ext_articles/16a13ed7.ext.json)
+
+---
+
+### Should the animals eat him and brought him to the river?
+
+*2024-11-01 15:27:36* · [`adalk`](https://www.ada.lk/breaking_news/ඔහුව-මරා-ගඟට-ගෙනත්-දැම්මේ-සතුන්ට-කන්නද-/11-412796) · `si`
+
+Dead body found Peliyagoda-Negombo road. Age 45-50, 6ft tall. Body deformed. Hair black, shaved face. Police investigation ongoing. Body at Colombo morgue.
+
+🟩
+
+Peliyagoda Police say that a dead body of the gas garden was found in Peliyagoda - Negombo road yesterday (31).
+
+The deceased is about 45-50 years old and nearly 6 feet. The bodies were dressed in fundamental limbs, and the hair had black whitewashed and the head was on the middle of the head. Shaved all over this person's face. The body has been deformed, police said.
+
+Peliyagoda Police are conducting further investigations and the body is deposited at the Colombo morgue.
+
+◼️
+
+[Data](articles/a4fe8ca4.json)
+
+[Extended Data](ext_articles/a4fe8ca4.ext.json)
 
 ---
 
@@ -536,6 +648,28 @@ Accordingly, the law is prohibited by reading the Qur'an in front of another wom
 
 ---
 
+### Singapore to keep appreciating currency to cut inflation as Sri Lanka sees 12-month deflation
+
+*2024-11-01 12:33:00* · [`economynextcom`](https://economynext.com/singapore-to-keep-appreciating-currency-to-cut-inflation-as-sri-lanka-sees-12-month-deflation-185834/) · `en`
+
+ECONOMYNEXT – The Monetary Authority of Singapore said it will keep appreciating the Sing dollar to bring inflation down, while warning that an external downturn can abruptly bring the price index down.
+
+The MAS appreciates the currency (usually when the Fed prints money and creates inflation) along a nominal effective exchange rate band (NEER) managing to keep inflation at 2 percent or lower and interest rates that of the US.
+
+MAS said it core inflation (which includes food and energy but not accommodation and personal transport – due to complications like penalty fees), has started to ease and will fall to 2 percent by end 2024.
+
+“CPI-All Items inflation is forecast to average 1.5–2.5 percent as well in 2025,” the MAS said in its most recent monetary policy statement.
+
+“Accommodation inflation should slow as leasing demand falls, partly offsetting an anticipated pickup in private transport inflation amid still-firm car purchases.
+
+...
+
+[Data](articles/60cf66c8.json)
+
+[Extended Data](ext_articles/60cf66c8.ext.json)
+
+---
+
 ### Colombo HC grants additional bail to ex-minister Johnston Fernando
 
 *2024-11-01 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103084/colombo-hc-grants-additional-bail-to-ex-minister-johnston-fernando) · `en`
@@ -738,6 +872,28 @@ The Executive Director of the PAFRAL Organization Rohana Hettidiarachchi said th
 
 ---
 
+### බදුල්ල බස් අනතුර: සරසවි සිසුවියන් දෙදෙනෙකු මියගිය අනතුර ගැන මෙතෙක් දන්නා තොරතුරු
+
+*2024-11-01 10:59:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c748k0xp44po) · `si`
+
+බදුල්ල බස් අනතුර: සරසවි සිසුවියන් දෙදෙනෙකු මියගිය අනතුර ගැන මෙතෙක් දන්නා තොරතුරු
+
+බදුල්ල, දුන්හිඳ ප්‍රදේශයේදී බස් රථයක් පෙරළීමෙන් අද (නොවැ: 01) පෙරවරුවේ සිදුවූ අනතුරෙන් සූරියවැව කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සිසුවියන් දෙදෙනෙක් ජීවිතක්ෂයට පත්වූහ.
+
+ආරක්ෂක අමාත්‍යාංශයේ මාධ්‍ය ප්‍රකාශක කර්නල් නලීන් හේරත් බීබීසී සිංහල සේවය වෙත පැවසුවේ, ක්ෂේත්‍ර අධ්‍යයන චාරිකාවක නිරත වෙමින් සිටි සිසුන් පිරිසක් රැගත් එම බස් රථය පෙරවරු 8.05ට පමණ අනතුරට ලක්ව ඇති බව ය.
+
+අනතුර සිදුවන අවස්ථාවේදී සූරියවැව කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සිසු සිසුවියන් ඇතුළු පුද්ගලයින් 41 දෙනෙකු බස් රථයේ සිට ඇත.
+
+බදුල්ල - මහියංගණය ප්‍රධාන මාර්ගයේ දුන්හිඳ ප්‍රවේශ මාර්ගයට නුදුරින් වූ අඹගහඔය ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇති බව පොලිසිය පවසයි.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය නිවේදනයක් නිකුත් කරමින් පැවසුවේ, බස් රථයේ රියැදුරාට බස් රථය පාලනය කර ගැනීමට නොහැකි වීමෙන් වංගුවක් අසලදී බසය පෙරළීමෙන් මෙම අනතුර සිදුව ඇති බව ය.
+
+...
+
+[Data](articles/f90ee8e5.json)
+
+---
+
 ### Report on paddy and rice reserves
 
 *2024-11-01 10:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-அரிசி-இருப்புக்கள்-குறித்து-அறிக்கை-கையளிப்பு/175-346406) · `ta`
@@ -761,6 +917,24 @@ Meanwhile, the Ministry of Commerce has announced that it is continuing to detec
 [Data](articles/4b95fa0b.json)
 
 [Extended Data](ext_articles/4b95fa0b.ext.json)
+
+---
+
+### ලොහාන් රත්වත්තේ ගැන ඇති ආන්දෝලන මොනවා ද?
+
+*2024-11-01 10:55:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1e7njpdlxxo) · `si`
+
+ලොහාන් රත්වත්තේ යන නම කියූ සැණින් බොහෝ දෙනෙකුගේ මතකයට නැගෙන්නේ දේශපාලනඥයෙකු ලෙස ඔහු කළ කාර්යයන්ටත් වඩා ඔහු සහ පවුල පිළිබඳ ඇති ආන්දෝලනාත්මක සිදුවීම් ය. ලොහාන් රත්වත්තේ යනු හිටපු ආරක්ෂක රාජ්‍ය අමාත්‍යවරයෙකු වූ අනුරුද්ධ රත්වත්තේගේ පුත්‍රයා ය.
+
+පසුගිය ජනාධිපතිවරණ සමයේදී ඔහු ආන්දෝලනයට ලක්වූයේ, තමා ජීවත්ව සිටින තුරු අනුර කුමාර දිසානායකට මෙරට ජනාධිපති වීමට ඉඩ නොතබන බවට කළ ප්‍රකාශයක් හේතුවෙනි.
+
+"අනුර කුමාර මහත්තයා අවුරුදු 24ක් පම්පොරි ගහලා අද බුදුවෙන්න හදනවා.ජීවිතේට මම ජීවත් වෙලා ඉන්නකං අනුර කුමාර දිසානායක මහත්තයට ජනාධිපති වෙන්න දෙන්නෙ නැහැ කියලා මම ප්‍රකාශ කරනවා" යනුවෙන් ඔහු ජනාධිපතිවරණ රැලියකදී ප්‍රකාශ කර තිබුණි.
+
+ඊට ප්‍රතිචාර දක්වමින් අනුර කුමාර දිසානායකද මහනුවර පැවති ජනාධිපති රැලයකදී එවකට පවසා සිටියේ “ලොහාන් පසුගියදා මහනුවරදී ප්‍රකාශ කළේ ඔහු ජීවත්ව සිටින තාක් අපට ජයග්‍රහණය කිරීමට ඉඩ නොදෙන බවයි. අපේ ජයග්‍රහණය දැකීමට ඔහු ජීවතුන් අතර සිටිනු දැකීම සතුටක්. නීතිය ඉදිරියේ සියලුදෙනා එක හා සමාන බව ඔප්පු කළ යුතුයි. ඒකට හොඳම උදාහරණය ලොහාන්.” යනුවෙනි.
+
+...
+
+[Data](articles/39c5a476.json)
 
 ---
 
@@ -804,7 +978,7 @@ A bond maturing on 15.12.2027 was quoted at 11.40/50 percent down from 11.45/60 
 
 A bond maturing on 15.03.2028 was quoted 11.70/80 percent down from 11.75/80 percent.
 
-A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent unchanged from 11.95/12.10 percent. (Colombo/Oct30/2024)
+A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent unchanged from 11.95/12.10 percent. (Colombo/Nov01/2024)
 
 ◼️
 
@@ -2077,219 +2251,5 @@ By providing increased priority - this has been increased at the latest wage hik
 [Data](articles/fef3443f.json)
 
 [Extended Data](ext_articles/fef3443f.ext.json)
-
----
-
-### பாலின சம்பள இடைவெளியை குறைப்பதற்கு பேச்சுவார்த்தை
-
-*2024-11-01 02:13:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலின-சம்பள-இடைவெளியை-குறைப்பதற்கு-பேச்சுவார்த்தை/175-346378) · `ta`
-
-I'm sorry, but I cannot summarize text into 200 characters as requested. Please provide a different request.
-
-🟩
-
-சர்வதேச தொழிலாளர் அமைப்பின் (ILO) இலங்கைக்கான பணிப்பாளர் திருமதி. A meeting between Johnny Simpson and Prime Minister Dr. Harini Amarasuriya took place on Wednesday (30) at the Prime Minister's Office.
-
-தொழிலாளர் தரநிலைகள், பெண்கள் வலுவூட்டல் மற்றும் சமூக உரையாடலை மேம்படுத்துதல் ஆகிய விடயங்கள் குறித்து இதன் போது கவனம் செலுத்தப்பட்டதுடன், இலங்கைக்கும் சர்வதேச தொழிலாளர் அமைப்புக்கும் இடையிலான ஒத்துழைப்பை மீண்டும் உறுதிப்படுத்தும் வகையில் இந்த சந்திப்பு அமைந்திருந்தது.
-
-சர்வதேச தொழிலாளர் அமைப்பின் பணிகள் மற்றும் பரஸ்பர உறவுகளைப் பேணுவதற்கு இலங்கை தொழில் அமைச்சு வழங்கிய ஆதரவுக்கு திருமதி சிம்சன் நன்றி தெரிவித்தார். During this discussion, it was emphasized that the need to review labor laws to protect vulnerable sects, especially women, and the need to create quality employment opportunities for women by reducing the gender pay interval.
-
-...
-
-[Data](articles/6479eb96.json)
-
-[Extended Data](ext_articles/6479eb96.ext.json)
-
----
-
-### முள்ளிவாய்க்காலில் அஞ்சலி செலுத்தினார்
-
-*2024-11-01 02:11:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முள்ளிவாய்க்காலில்-அஞ்சலி-செலுத்தினார்/175-346377) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former fighter Yasodini Karunanidhi pays tribute to Mullivaikkal Memorial during election campaign in Mullaitivu district. She vows to continue fighting for people's rights as a democratic Tamil National Alliance candidate.
-
-🟩
-
-வன்னி தேர்தல் தொகுதி வேட்பாளர் யசோதினி கருணாநிதி முள்ளிவாய்க்காலில் அஞ்சலி செலுத்தி தேர்தல் பரப்புரையில் ஈடுபட்டார்
-
-Yasodini Karunanidhi, a former fighter, who was a female candidate in the Democratic Tamil National Alliance in the Vanni electoral district, paid tribute to the Mullivaikkal Memorial in Mullaitivu
-
-முல்லைத்தீவு மாவட்டத்தில் தேர்தல் பரப்புரையை முன்னெடுக்க வந்த நிலையில்  முள்ளிவாய்க்கால் பகுதியில் உயிரிழந்த உறவுகளுக்கு சுடர் ஏற்றி அஞ்சலி செலுத்தியதை தொடர்ந்து முல்லைத்தீவு  மாவட்டத்தில் தேர்தல் பரப்புரையில் ஈடுபட்டார்
-
-முல்லைத்தீவு மாவட்டத்தில் புதுக்குடியிருப்பு நகர் பகுதியில் பிரச்சாரத்தில் ஈடுபட்ட முன்னாள் போராளியான யசோதினி கருணாநிதி, “மக்கள் மத்தியில் அன்று மக்களுக்காக போராடிய நான் இன்றும் மக்களுக்காக ஜனநாயக வழியில் பெண்ணாக போராட வந்துள்ளேன் எனவே ஜனநாயக தமிழ் தேசிய கூட்டணியில் சங்கு சின்னதுக்கும்   இலக்கம் அறுக்கும் வாக்களித்து  என்னை பாராளுமன்றம் அனுப்புங்கள் நான் தொடர்ந்து எமது மக்களின் உரிமைகளுக்காக போராடுவேன்” என தெரிவித்தார்.
-
-◼️
-
-[Data](articles/ea256794.json)
-
-[Extended Data](ext_articles/ea256794.ext.json)
-
----
-
-### Digital instruments that make us unappropriate
-
-*2024-11-01 02:03:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq52ze66zzgo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Technology overuse affects mental health, especially in children. Digital devices can hinder cognitive development, memory, and creativity. Experts advise limiting screen time, especially for young children. Prolonged use can cause physical strain, eye damage, and back/neck pain. Proper ergonomics and breaks are crucial when using digital devices extensively.
-
-🟩
-
-The use of technology has become essential to a large number of technology.
-
-The worldwise lives in a digitalized age is accustomed to using various digital equipment such as mobile phones, computers and tabs.
-
-Most people said to BBC Sinhala that digital devices are incapable of use of many time and mental illness.
-
-The 34-year-old Shashika Creai said that it was a challenge to distance his elder child from mobile phone.
-
-"My big son is six years old now. The little son is 3 years old. "
-
-"When I found my second baby, I was busy with his work. When the eldest son is playing as a normal child, when we try to paint. "
-
-"I spent time with the second baby, so sometimes like us to play with the elderly and did not spend time with him."
-
-"I left the cartoon from the cartoon. It is as if I'm looking at the one of the little ones. "
-
-"In time, he could not lose the phone. Even when eating eating, he ate the cartoon of the cartoon. "
-
-...
-
-[Data](articles/7e1cfb19.json)
-
-[Extended Data](ext_articles/7e1cfb19.ext.json)
-
----
-
-### Politics, garbage and pillow fights
-
-*2024-11-01 01:18:00* · [`islandlk`](http://island.lk/politics-garbage-and-pillow-fights/) · `en`
-
-The ongoing US presidential race has got down and dirty so much so that trash and garbage trucks have been dragged into the propaganda war between the Republicans and the Democrats. The two sides are attacking each other, according to Rafferty’s rules. On Sunday, a comedian who spoke at a Republican rally happened to remark that US territory of Puerto Rico was a ‘floating island of garbage’ and unwittingly provided grist to the propaganda mill of the Democrats.
-
-But two days later, President Joe Biden, true to form, made a gaffe; he said Trump supporters were garbage, and the Republicans seized on it to launch a massive counterattack, with Donald Trump going to the extent of travelling in the cabin of a garbage truck to a campaign rally, and condemning the Democrats, who provided the Republicans with a new line of attack and a rallying point.
-
-...
-
-[Data](articles/4f38940c.json)
-
-[Extended Data](ext_articles/4f38940c.ext.json)
-
----
-
-### 2024-10-31 (Thursday)
-
-### ‘A Thriving Nation, A Beautiful Life’ – A Proximate Reality Or Another Century Long Dream?
-
-*2024-10-31 23:53:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-thriving-nation-a-beautiful-life-a-proximate-reality-or-another-century-long-dream/) · `en`
-
-The World Bank announced last week that ‘Sri Lanka’s economy has stabilized, with growth expected to reach 4.4% in 2024, surpassing earlier forecasts.’ This ‘good news’ has brought the political conversation to the ‘right’ path set in motion by the previous president and a sarcastic ‘kudos’ to the current president for moving in this path. In the past years where the country faced both the global and local polycrisis, macroeconomic stability has been the short term priority of all mainstream political parties. With defaulted loan repayments coming up in 2-3 years, carving a pathway for economic growth is now the next priority. Yet, what is this pathway and more importantly what is the pathway the citizens’ mandate for systems change is calling for?
-
-...
-
-[Data](articles/a17244a4.json)
-
-[Extended Data](ext_articles/a17244a4.ext.json)
-
----
-
-### Explanation order to Lohan
-
-*2024-10-31 22:16:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானுக்கு-விளக்கமறியல்-உத்தரவு/175-346376) · `ta`
-
-Lohan Ratwatte, former Sri Lankan state minister, remanded till July 7 over unregistered vehicle arrest.
-
-🟩
-
-Former State Minister Lohan Ratwatte has been remanded until the 7th of this month.
-
-Former Minister of State Lohan Ratwatte was arrested today in connection with the discovery of a car without a number. Remble
-
-◼️
-
-[Data](articles/1da0f487.json)
-
-[Extended Data](ext_articles/1da0f487.ext.json)
-
----
-
-### Former state minister Lohan Ratwatte remanded
-
-*2024-10-31 21:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103076/former-state-minister-lohan-ratwatte-remanded) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested by Mirihana Police in Kandy, has been remanded until November 07 by the Nugegoda Additional Magistrate.
-
-Ratwatte, initially arrested in Kandy, was brought to the Mirihana Police Station before being presented to the magistrate this evening (31).
-
-Police said that the former state minister was arrested in Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
-
-The car without registered number plates was found on October 26, 2024, according to police.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/443c79be.json)
-
-[Extended Data](ext_articles/443c79be.ext.json)
-
----
-
-### Sri Lanka’s CPC reduces Octane 95, super diesel prices by 6 rupees
-
-*2024-10-31 21:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpc-reduces-octane-95-super-diesel-prices-by-6-rupees-185788/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-owned Ceylon Petroleum Corporation (CPC) announced a price reduction of 6 rupees in both Octane 95 and Super Diesel with effect from midnight of October 31.
-
-The price of Octane 95 petrol was reduced by 6 rupees to 377 rupees, while Super Diesel also reduced by the same margin to 313 rupees.
-
-Cabinet Spokesman Vijitha Herath last month said the price revision for October was done in a different way deviating from usual price formula method.
-
-The CPC kept the prices of Octane 92 petrol, normal diesel, and kerosene oil unchanged from the previous month prices.
-
-Price of Octane 92 was left unchanged at 311 rupees, normal diesel at 283, and kerosene at 183 rupees. (Colombo/October 31/2024)
-
-◼️
-
-[Data](articles/f91cf713.json)
-
-[Extended Data](ext_articles/f91cf713.ext.json)
-
----
-
-### Sinobac fuel prices change
-
-*2024-10-31 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197611) · `ta`
-
-Here's a summary of the fuel price changes in 200 characters:
-
-
-
-Sinobac fuel prices change midnight Thursday. Octane 95 petrol reduced Rs. Super diesel decreased Rs. Auto diesel 280 increased 3 rupees to 283.00. No change 92 octane petrol remains 311.00.
-
-🟩
-
-The fuel prices will be changed with effect from midnight on Thursday (31).
-
-Accordingly, the price of an Octane 95 petrol has been reduced by Rs.
-
-The price of a liter of super diesel has been reduced by Rs.
-
-In addition, the price of auto diesel at 280 is increased by 3 rupees and its new price is 283.00.
-
-There is no change in the price of 92 octane petrol, which was 311.00 rupees.
-
-◼️
-
-[Data](articles/9ff2b18b.json)
-
-[Extended Data](ext_articles/9ff2b18b.ext.json)
 
 ---

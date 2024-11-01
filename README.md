@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 12:00:26**
+As of **2024-11-01 12:15:50**
 
 ## Newspaper Stats
 
-*Scraped **52,512** Articles*
+*Scraped **52,516** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 414
+dbsjeyarajcom | 415
 colombotelegraphcom | 533
 bbccomsinhala | 536
 islandlk | 3,133
 economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,886
-adaderanalk | 6,236
-tamilmirrorlk | 7,284
+adalk | 4,887
+adaderanalk | 6,237
+tamilmirrorlk | 7,285
 virakesarilk | 8,468
 adaderanasinhalalk | 9,142
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,512 (100.0%) of 52,512 articles have been extended.
+52,515 (100.0%) of 52,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### லொஹான் ரத்வத்தவின் மற்றுமொரு வாகனம் மீட்பு
+
+*2024-11-01 11:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவின்-மற்றுமொரு-வாகனம்-மீட்பு/175-346408) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த பயன்படுத்தியதாகக் கூறப்படும் போலி இலக்கத் தகடுகள் பொருத்தப்பட்ட மற்றுமொரு வெள்ளை நிற ஜீப் வண்டியை, தெல்தெனிய பொலிஸார் கைது செய்துள்ளனர்.
+
+தெல்தெனிய பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம் ஆளில்லா வீடொன்றின் கேரேஜில்இருந்து இந்ந வாகனம் மீட்கப்பட்டுள்ளது.AN
+
+◼️
+
+[Data](articles/8eb1eb4c.json)
+
+---
 
 ### IMF team to visit Sri Lanka soon for third review under EFF program
 
@@ -170,6 +184,30 @@ Mr. Samarakoon said he would doubt the number of tractors that double the record
 
 ---
 
+### ව්‍යාජ අංක තහඩු යෙදූ ලොහාන්ට අයත් බව කියන තවත් ජීප් රියක් සොයා ගනියි
+
+*2024-11-01 10:21:09* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-අංක-තහඩු-යෙදූ-ලොහාන්ට-අයත්-බව-කියන-තවත්-ජීප්-රියක්-සොයා-ගනියි/11-412789) · `si`
+
+Sinhala text summary in 200 characters: Former Minister Lohan Ratwatte allegedly used fake number plates. A white jeep was seized by Tenadeniya police. Police say it was parked in an abandoned house in ICSC housing complex. Further investigations ongoing.
+
+🟩
+
+හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා විසින් භාවිතා කළැයි කියනු ලබන ව්‍යාජ අංක තහඩු යෙදු සුදු පැහැති ජීප් රථයක් තෙල්දෙණිය පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
+
+තෙල්දෙණිය පොලිසියට ලද තොරතුරකට අනුව තෙල්දෙණිය පොලිස් වසමේ අයි.සී.සී. නිවාස සංකීර්ණයේ (නො. 1/164) කිසිවෙකුත් පදිංචි නොමැති පාළු නිවසක ගරාජයක් තුළ එම ජීප් රථය නවතා තබා තිබූ බව තෙල්දෙණිය පොලිසිය කියයි.
+
+The police had been identified as a faked number plate in the Mitsubishi's jee.Police say.
+
+The suspicious jeep has been taken into custody by the Tenadeniya and conducting further investigations.
+
+◼️
+
+[Data](articles/460f0ec3.json)
+
+[Extended Data](ext_articles/460f0ec3.ext.json)
+
+---
+
 ### Emergency notice of the registration of the pig farm
 
 *2024-11-01 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202794) · `si`
@@ -239,6 +277,30 @@ A bus carrying a group of university students had reportedly overturned at aroun
 [Data](articles/137661b5.json)
 
 [Extended Data](ext_articles/137661b5.ext.json)
+
+---
+
+### 2 dead, over 30 injured as bus carrying KDU students topples in Badulla
+
+*2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/2-dead-over-30-injured-as-bus-carrying-kdu-students-topples-in-badulla) · `en`
+
+At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 39 persons.
+
+Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, toppled down a precipice at Dunhinda Road in Badulla.
+
+Meanwhile, six injured persons are receiving treatment in the Intensive Care Unit (ICU) at the Badulla Hospital.
+
+The injured passengers are being rushed to the Badulla Hospital, according to Ada Derana reporter.
+
+A bus carrying a group of university students had reportedly overturned at around 7:45 a.m. today.
+
+The accident had occurred between the third and fourth kilometer posts on the Badulla-Mahiyanganaya main road, near the Dunhinda access road, after the bus collided with a bund.
+
+...
+
+[Data](articles/74709fa4.json)
+
+[Extended Data](ext_articles/74709fa4.ext.json)
 
 ---
 
@@ -2225,77 +2287,5 @@ Colombo Fort Police are conducting further investigations regarding the incident
 [Data](articles/6ee36ac1.json)
 
 [Extended Data](ext_articles/6ee36ac1.ext.json)
-
----
-
-### "The name is recommended without permission"
-
-*2024-10-31 17:07:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனுமதியின்றி-பெயர்-பரிந்துரைக்கப்பட்டுள்ளது/175-346365) · `ta`
-
-National Democratic Front candidates claim names added without permission for general election in Matara district. Complaints filed with police and Election Commission. Candidates advised to report to local election officer.
-
-🟩
-
-Four candidates from the Matara district, proposed by the National Democratic Front (NDF) for the general election, have said that their names have been nominated without their permission.
-
-The candidates have complained that they have been named without their consent, and that they have been named after the list of candidates with the voter card issued by the Postal Department.
-
-Tharanga Deshapriya, Samal Lasantha, Nishal Brinayantha and Prasad Udaya have complained that the list of candidates of the National Democratic Front, which is contesting in the car symbol in the Matara district.
-
-The police have sent this complaint to the Election Office at the Matara Police Superintendent's Office and have taken steps to inform the Elections Commission.
-
-All four candidates have been advised to lodge a complaint with the Matara Election Officer.
-
-◼️
-
-[Data](articles/365c9b84.json)
-
-[Extended Data](ext_articles/365c9b84.ext.json)
-
----
-
-### Modi celebrates Diwali with soldiers
-
-*2024-10-31 17:06:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராணுவ-வீரர்களுடன்-தீபாவளி-கொண்டாடிய-மோடி/175-346364) · `ta`
-
-PM Modi celebrates Diwali with soldiers in Gujarat's Kachch. He praised India's military strength and modernization efforts.
-
-🟩
-
-Prime Minister Modi, Gujarat's Kachil, Defense Minister Rajnath Singh and Assam Tejpur celebrated Diwali as the Diwali festival is being celebrated across the country today (Thursday).
-
-Prime Minister Modi celebrated this Diwali with soldiers in the Kachch area of ​​Gujarat for the first time since he became prime minister in 2014. At the time, the Prime Minister said, “It is a great pleasure to have a chance to celebrate Diwali with soldiers. I congratulate all of you.
-
-There is a government that is not ready to compromise even on an inch of land in the country. With the needs of the 21st century, we are refreshing our army and security forces with modern resources. We would like to stop our army in the competition with the most modern army in the world. The basic purpose of this is the security sector gaining self -sufficiency.
-
-We see 1 ground forces, 1 Air Force, 1 Sea. But we can see them as 111 according to them. ”The Prime Minister said.
-
-◼️
-
-[Data](articles/9141ecbe.json)
-
-[Extended Data](ext_articles/9141ecbe.ext.json)
-
----
-
-### A terrible accident in the Galle Face
-
-*2024-10-31 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202775) · `si`
-
-Accident at Galle Face: Three-wheeler collides with motorcycle and car, injuring seven. Five in three-wheeler and two others hurt, admitted to Colombo National Hospital.
-
-🟩
-
-Seven persons were injured in an accident near the Galle Face Green today (31).
-
-The accident had occurred when a three-wheeler collided with a motorcycle and car.
-
-Five persons traveling in the three-wheeler and two people were injured and admitted to the Colombo National Hospital.
-
-◼️
-
-[Data](articles/c0eeec37.json)
-
-[Extended Data](ext_articles/c0eeec37.ext.json)
 
 ---

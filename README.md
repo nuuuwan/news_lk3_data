@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 10:24:50**
+As of **2024-11-01 10:40:25**
 
 ## Newspaper Stats
 
-*Scraped **52,497** Articles*
+*Scraped **52,499** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,46 @@ economynextcom | 3,187
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,883
-adaderanalk | 6,234
+adaderanalk | 6,235
 tamilmirrorlk | 7,282
 virakesarilk | 8,468
-adaderanasinhalalk | 9,140
+adaderanasinhalalk | 9,141
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,496 (100.0%) of 52,497 articles have been extended.
+52,499 (100.0%) of 52,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Emergency notice of the registration of the pig farm
+
+*2024-11-01 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202794) · `si`
+
+Here's a 200-character summary:
+
+
+
+"Emergency: Register pig farms at Veterinary Trust in Lagama. Pigs reported in Western, Northern, North-Central, and North-Western provinces. First-time report."
+
+🟩
+
+The Department of Animal Production and Health will be asked to go to the Veterinary Trust in the Lagama to register all the pot of pot of pot of pot of pot of country.
+
+The pigs at the country's pig farms have been reported to the first time.
+
+Western provinces, North, North-central and North Western Provinces have been reported from the Western Province.. K. Mr. Sarath said.
+
+◼️
+
+[Data](articles/78735227.json)
+
+[Extended Data](ext_articles/78735227.ext.json)
+
+---
 
 ### 16 Diplomatic Employees Resolution to Return
 
@@ -51,6 +77,30 @@ In addition, many more people appointed to diplomatic positions on the basis of 
 [Data](articles/544b892c.json)
 
 [Extended Data](ext_articles/544b892c.ext.json)
+
+---
+
+### 3 dead, over 30 injured as bus carrying KDU students topples in Badulla
+
+*2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/3-dead-over-30-injured-as-bus-carrying-kdu-students-topples-in-badulla) · `en`
+
+UPDATE: The death toll from the bus accident on the Badulla-Dunhinda road has increased to three while more than 30 others are injured and receiving treatment.
+
+Meanwhile, six injured persons are receiving treatment in the Intensive Care Unit (ICU) at the Badulla Hospital.
+
+At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 35 persons.
+
+Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, toppled down a precipice at Dunhinda Road in Badulla.
+
+The injured passengers are being rushed to the Badulla Hospital, according to Ada Derana reporter.
+
+A bus carrying a group of university students had reportedly overturned at around 7:45 a.m. today.
+
+...
+
+[Data](articles/137661b5.json)
+
+[Extended Data](ext_articles/137661b5.ext.json)
 
 ---
 
@@ -1510,23 +1560,33 @@ Former State Minister Lohan Ratwatte, arrested by Mirihana Police, was brought t
 
 ---
 
-### ලියාපදිංචි කළ නොහැකි නීතිවිරෝධී යතුරුපැදි 4ක් හා තවත් යතුරුපැදි 6ක කොටස් අල්ලයි
+### Unidentified illegal motorcycles and 6 more motorbikes arrested
 
 *2024-10-31 19:11:19* · [`adalk`](https://www.ada.lk/breaking_news/ලියාපදිංචි-කළ-නොහැකි-නීතිවිරෝධී-යතුරුපැදි-4ක්-හා-තවත්-යතුරුපැදි-6ක-කොටස්-අල්ලයි/11-412787) · `si`
 
-වෙන්නප්පුව ප්‍රදේශයේ සුඛෝපභෝගී නිවසක රහසිගතව අලවිය සඳහා තිබූ මෙරට ලියාපදිංචි කළ නොහැකි යතුරුපැදි 4ක් සහ තවත් එකලස් කිරීමට සුදානම්ව තිබූ යතුරුපැදි 6ක කොටස් පුද්ගලයෙකු සමග අද 31අත්අඩංගුවට ගත්බව වෙන්නප්පුව පොලීසිය පවසයි.
+Here's a 200-character summary:
 
-මෙසේ අත්අඩංගුවට පත්ව ඇත්තේ  මෙම යතුරුපැදි වල ඇන්ජින් ධාරිතාවය 500සීසී අගය ඉක්මවා ඇතිහෙයින් මෙරට ලියාපදිංචි කළ නොහැකිබව පොලීසිය පවසයි ඒ අනුව මෙම යතුරුපැදි වෙනත් ලියාපදිංචි යතුරුපැදිවල අංක තහඩු යොදාගන නීතිවිරෝධී ලෙස මෙරට ධානයෙහි යොදවන බව පොලීසිය පවසයි.
 
-මෙම යතුරුපැදියක වටිනාකම රුපියල් ලක්ෂ 25ක් වන අතර මෙම යතුරුපැදියක්  රුපියල් ලක්ෂ 21ට අලවි කරඇති බව පොලීසිය සිදුකළ  විමරෂණ වලදී තහවුරුකරගෙන ඇත.
 
-මෙම ජාවාරම කළක සිට සිදුකරගෙන ගොස් ඇති අතර මෙතෙක් බාහිරට දමා ඇති යතුරුපැදි පිළිබඳව සෙවීමටද පොලීසිය විශේෂ විමරෂණයක් ආරම්භ කර ඇත.
+"Unlicensed luxury bikes seized: 6 motorbikes arrested in Wennappuwa. Police claim engines exceed 500cc limit. One bike valued at Rs. 25 lakhs. Investigation ongoing."
 
-මෙම යතුරුපැදි වල කොටස් ජපානයේ නිෂ්පාදනය කරඇති අතර ඉතාලියේ සිට මෙරටට ආනයනය කරඇති බවට පොලීසිය සැකකරයි.
+🟩
+
+Wennappuwa Police are arrested in connection with a person who was unregistered with a luxury house in Wennappuwa
+
+The buses have been arrested by the police said that the engine capacity of these motorcyclists were over the 500 CC value, police said.
+
+The value of this motorcycle is Rs. 25 lakhs.
+
+The racket has been carried out and has commenced a special investigation to seek external motorbikes.
+
+The police were produced in Japan and imported from Italy from Italy.
 
 ◼️
 
 [Data](articles/5994369a.json)
+
+[Extended Data](ext_articles/5994369a.ext.json)
 
 ---
 
@@ -2235,47 +2295,5 @@ The first innings scored 159 runs for the loss of 159 runs for the loss of all w
 [Data](articles/22cdcd27.json)
 
 [Extended Data](ext_articles/22cdcd27.ext.json)
-
----
-
-### Use of smoke-emitting firecrackers renews air pollution debate in India’s capital ahead of Diwali
-
-*2024-10-31 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103070/use-of-smoke-emitting-firecrackers-renews-air-pollution-debate-in-indias-capital-ahead-of-diwali) · `en`
-
-As India gears up for Diwali, the Hindu festival of lights, people are divided over whether they should celebrate by setting off firecrackers, which worsen the country’s chronic air pollution.
-
-Diwali, which will be celebrated Thursday, is marked by socializing and exchanging gifts with family and friends. Many Indians light earthen oil lamps or candles. But every year the festivities are tinged with worries over air pollution, as smoke-emitting firecrackers cause toxic smog that can takes days to clear.
-
-The capital, New Delhi, which is among India’s worst cities for air quality, is particularly impacted by the problem and is usually shrouded in toxic gray smog a day after Diwali. Authorities there and in some other states have banned the use and sale of firecrackers since 2017, asking people to opt for more sustainable options like environmentally friendly firecrackers and light shows, but the rule is often flouted. Firecrackers can be easily bought from roadside stalls and stores.
-
-...
-
-[Data](articles/3e57e3cb.json)
-
-[Extended Data](ext_articles/3e57e3cb.ext.json)
-
----
-
-### China is more likely for Sri Lankans
-
-*2024-10-31 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202772) · `si`
-
-Sri Lanka-China relations strengthen. Chinese Ambassador assesses development needs. Education cooperation expands. Over 1000 Sri Lankans trained in China. China supports Sri Lanka's economic growth through loans and assistance. Debt restructuring progresses with Chinese creditors. Mutual trust fosters positive outcomes.
-
-🟩
-
-The Chinese Ambassador to the Chinese Ambassador to Sri Lanka is working to perform a full assessment in the New Year on the New Year's Development Needs of Sri Lanka.
-
-He was speaking at a function held at a ceremony held in Colombo yesterday (31st).
-
-The Secretary to the Ministry of Finance Mahinda Siriwardena said that the country will be able to resume new financial assistance to priority projects.
-
-"The Government of the Chinese government is important to maintain a education cooperation in all areas with Sri Lanka. In China, Sri Lankans have used our foreign aid to participate in various training programs. At the end of October this year, more than a thousand Sri Lankans have gone to the training programs covering 17 main areas. "
-
-...
-
-[Data](articles/2e96fbc5.json)
-
-[Extended Data](ext_articles/2e96fbc5.ext.json)
 
 ---

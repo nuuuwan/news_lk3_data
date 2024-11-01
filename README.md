@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 12:15:50**
+As of **2024-11-01 12:26:45**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 9,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,515 (100.0%) of 52,516 articles have been extended.
+52,516 (100.0%) of 52,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### லொஹான் ரத்வத்தவின் மற்றுமொரு வாகனம் மீட்பு
+### Another vehicle recovery of Lohan Ratwatta
 
 *2024-11-01 11:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவின்-மற்றுமொரு-வாகனம்-மீட்பு/175-346408) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்த பயன்படுத்தியதாகக் கூறப்படும் போலி இலக்கத் தகடுகள் பொருத்தப்பட்ட மற்றுமொரு வெள்ளை நிற ஜீப் வண்டியை, தெல்தெனிய பொலிஸார் கைது செய்துள்ளனர்.
+Teldeniya police arrest white jeep with fake plates linked to former State Minister Lohan Ratwatta. Vehicle recovered from an unoccupied house garage.
+
+🟩
+
+The Teldeniya police have arrested another white jeep fitted with fake digit plates allegedly used by former State Minister Lohan Ratwatta.
 
 தெல்தெனிய பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம் ஆளில்லா வீடொன்றின் கேரேஜில்இருந்து இந்ந வாகனம் மீட்கப்பட்டுள்ளது.AN
 
 ◼️
 
 [Data](articles/8eb1eb4c.json)
+
+[Extended Data](ext_articles/8eb1eb4c.ext.json)
 
 ---
 

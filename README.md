@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 18:34:25**
+As of **2024-11-01 19:00:02**
 
 ## Newspaper Stats
 
-*Scraped **52,559** Articles*
+*Scraped **52,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,31 +20,85 @@ adalk | 4,894
 adaderanalk | 6,245
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
-adaderanasinhalalk | 9,155
+adaderanasinhalalk | 9,157
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,557 (100.0%) of 52,559 articles have been extended.
+52,561 (100.0%) of 52,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### புதிய பிரதம ஆலோசகர் நியமனம்
+### The injured fails to bring a casualt
+
+*2024-11-01 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202812) · `si`
+
+Attempt to transport injured person from Badulla to Colombo fails. Victim treated at hospital, then returned due to bad weather. Event cancelled.
+
+🟩
+
+An attempt to bring a bus to the Badulla-Mahiyanganaya main road has failed to bring a bus to Colombo today.
+
+The victim was receiving treatment at the Badulla Teaching Hospital to be taken to Colombo by a SLAF helicopter.
+
+Although the casual was brought to the football field in Badulla, the event had to be stopped due to bad weather.
+
+As a result, the casual was taken back to Badulla Teaching Hospital.
+
+◼️
+
+[Data](articles/c122920c.json)
+
+[Extended Data](ext_articles/c122920c.ext.json)
+
+---
+
+### Election Complaints
+
+*2024-11-01 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202811) · `si`
+
+Elections Commission receives 1259 complaints, including 123 in past 24 hours. 13 violence complaints reported. 1018 resolved.
+
+🟩
+
+The Elections Commission has reached 1259 complaints regarding the next parliamentary election.
+
+The Elections Commission said that 123 complaints have been received within the last 24 hours.
+
+The total number of complaints received has also received 13 complaints of violence.
+
+However, 1018 out of the total number of complaints have been resolved, however, said the Elections Commission.
+
+◼️
+
+[Data](articles/834a07a0.json)
+
+[Extended Data](ext_articles/834a07a0.ext.json)
+
+---
+
+### Appointment of new Chief Advisor
 
 *2024-11-01 17:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-ஆலோசகர்-நியமனம்/175-346413) · `ta`
 
-டிஜிட்டல் பொருளாதாரம் தொடர்பான ஜனாதிபதியின் பிரதம ஆலோசகராக கலாநிதி ஹான்ஸ் விஜயசூரிய நியமிக்கப்பட்டுள்ளார்.
+Dr. Hans Vijayasuriya appointed Chief Advisor on Digital Economics. Renowned telecom expert, introduced 3G, 4G, 5G to Sri Lanka. Pioneering figure in South Asian digital economy.
 
-56 வயதாகும் கலாநிதி ஹான்ஸ் விஜயசூரிய, இலங்கையின் தொலைத்தொடர்பு துறையில் மாபெரும் சாதனை படைத்தவர் ஆவர்.
+🟩
 
-மேலும், தெற்காசியாவில் முதன்முறையாக 3G, 4G மற்றும் 5G தொழில்நுட்பங்களை இலங்கைக்கு அறிமுகப்படுத்தி தொலைத்தொடர்பு துறையில் இலங்கையை உலகின் தலைசிறந்த நிலைக்கு உயர்த்த விஜயசூரிய அவர்களின் சேவை மகத்தானது.AN
+Dr. Hans Vijayasuriya has been appointed as the Chief Adviser to the President on Digital Economics.
+
+Dr. Hans Vijayasuriya, 56, is the greatest record in Sri Lanka's telecommunications industry.
+
+In addition, the service of Vijayasuriya is immense to introduce Sri Lanka to Sri Lanka for the first time in South Asia to introduce 3G, 4G and 5G technologies to Sri Lanka.
 
 ◼️
 
 [Data](articles/4b31dae2.json)
+
+[Extended Data](ext_articles/4b31dae2.ext.json)
 
 ---
 
@@ -182,15 +236,21 @@ Dr. Hans's decision has been admitted by the Board of Directors. He has been in 
 
 ---
 
-### පොල් හිඟය කොතෙක් කල් තියේවිද ?
+### How long will the deficit do you have?
 
 *2024-11-01 16:28:56* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-හිඟය-කොතෙක්-කල්-තියේවිද--/11-412797) · `si`
 
-නිසි කලට වර්ෂාපතනය නොලැබීම සහ උෂ්ණත්වය ඉහළ යෑම හේතුවෙන් පසුගිය වර්ෂයට සාපේක්ෂව මේ වසරේ පොල් පළදාව අඩුවීමක් ඇතිබව පොල් පර්යේෂන ආයතනය සඳහන්කරයි. මෙම තත්වය ලබන වසරේ අප්‍රේල් දක්වා පවතිනු ඇතිබව ඒම අයතනය වැඩිදුරටත් දන්වා සිටියි.
+Coconut Research Institute predicts increased deficits due to climate change. Deficit expected to continue through April 2024.
+
+🟩
+
+Coconut Research Institute states that due to the lack of rainfall and the increase in rainfall and temperature has reduced coconut. The dress further invested in the possession of this situation to April next year.
 
 ◼️
 
 [Data](articles/708a21cc.json)
+
+[Extended Data](ext_articles/708a21cc.ext.json)
 
 ---
 
@@ -2257,45 +2317,5 @@ Chairman of the Railway Station Principals Association Somata Somatna said that 
 [Data](articles/5169dd0f.json)
 
 [Extended Data](ext_articles/5169dd0f.ext.json)
-
----
-
-### Insights into Sri Lanka’s ‘fear-driven politics’
-
-*2024-11-01 02:24:00* · [`islandlk`](http://island.lk/insights-into-sri-lankas-fear-driven-politics/) · `en`
-
-In a candid and impassioned address to a group of supporters, a National People’s Power (NPP) National List candidate, Benita Prishanthi Hettithanthri, laid bare Sri Lanka’s political history, highlighting the importance of the country’s current political moment.
-
-Addressing an audience of women, in Colombo recently, she touched on decades of political turmoil, fear-driven elections and systemic corruption, painting a picture of a nation that has long been manipulated by divisive politics.
-
-“We are in Sri Lanka at a very exciting moment, Benita began. “We have had a huge change in our political area… no one expected that we could have such a big change as what we experienced in bringing our President to power.”
-
-...
-
-[Data](articles/a3dbb371.json)
-
-[Extended Data](ext_articles/a3dbb371.ext.json)
-
----
-
-### Model MU advance to three
-
-*2024-11-01 02:23:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-மூன்றுக்கு-முன்னேறுகிறது/175-346382) · `ta`
-
-Sri Lanka Muslim Congress (SLMC) aims for 3 seats in Digamadulla district. Former Kalmunai Municipal Council Chief Minister Shiras Meera Sahib leads campaign, promising honest service and addressing people's issues.
-
-🟩
-
-Sri Lanka Muslim Congress (SLMC), Nikamadulla District Sri Lanka Muslim Congress (SLMC) third candidate and former chief minister of Kalmunai Municipal Council, Shiras Meera Sahib said that the Sri Lanka Muslim Congress is progressing to the level of three seats in the Digamadulla district.
-
-He said this at the party's election campaign meeting on Wednesday (30) at Sainthamaruthu. As he continues to address,
-
-As an example of how to become the Chief Minister of the Kalmunai Municipal Council in the past, I have been a candidate in this parliamentary election as a candidate in this parliamentary election..
-
-...
-
-[Data](articles/ff88c866.json)
-
-[Extended Data](ext_articles/ff88c866.ext.json)
 
 ---

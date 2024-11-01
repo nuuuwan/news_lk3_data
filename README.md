@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 16:57:36**
+As of **2024-11-01 17:09:19**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 9,154
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,549 (100.0%) of 52,554 articles have been extended.
+52,554 (100.0%) of 52,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### පාකිස්තානයේ පිපිරීමක්
+### Explosion in Pakistan
 
 *2024-11-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202809) · `si`
 
-නිරිතදිග පාකිස්තානයේ සිදුකළ පිපිරීමකින් පාසල් ළමුන් 5 දෙනෙක් ඇතුළු 7 දෙනෙක් මියගොස් ඇති බව වාර්තා වෙයි.
+Explosion in Pakistan: 7 schoolchildren killed. Police van targeted while carrying polio vaccines. Motorbike bomb detonated near women's school.
 
-එරට බලධාරීන් පැවසුවේ පෝලියෝ එන්නත් වැඩසටහනකට සම්බන්ධ වී සිටි පිරිසක් රැගෙන ඒමට ගිය පොලිස් වෑන් රථයක් ඉලක්ක කර එම ප්‍රහාරය එල්ලකර තිබුණි.
+🟩
 
-එම පොලිස් රථය මාර්ගයේ ධාවනය වන විට කාන්තා පාසලක් අසල නවතාතිබූ යතුරුපැදියක සවිකර තිබූ බෝම්බයක් පුපුරුවා හැර තිබුණි.
+Seven and seven school children have been killed in a explosion in the southwestern Pakistan.
+
+The authorities said that a police van was targeting a police van to carry a group of polio vaccine.
+
+When the police car was on the road, a motorbike bomb was exploded near a women's school.
 
 ◼️
 
 [Data](articles/3b092256.json)
+
+[Extended Data](ext_articles/3b092256.ext.json)
 
 ---
 
@@ -58,7 +64,11 @@ He received his letter of appointment from President Anura Kumara Dissanayake at
 
 The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy.
 
-◼️
+Axiata Group Berhad on Friday announced that Dr Wijayasuriya will relinquish role as the CEO of Telecommunications Business and Group Executive Director as he has been invited by the Government of Sri Lanka to lead the country’s digital economy agenda in the capacity of Chief Advisor to the President on Digital Economy and other related leadership roles.
+
+Dr Wijayasuriya has duly accepted the invitation from the GoSL and has communicated his decision to step down from his role at Axiata Group with effect from 15 January 2025, the announcement said.
+
+...
 
 [Data](articles/f1a48834.json)
 
@@ -66,21 +76,27 @@ The President’s Media Division (PMD) stated that the appointment marks a signi
 
 ---
 
-### ඩිජිටල් ආර්ථිකය පිළිබඳ ප්‍රධාන ජනාධිපති උපදේශක ලෙස ආචාර්ය හාන්ස් පත් කෙරේ
+### Dr. Hans appointed as Chief Presidential Advisor on Digital Economic
 
 *2024-11-01 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202808) · `si`
 
-ආචාර්ය හාන්ස් විජයසූරිය මහතා ඩිජිටල් ආර්ථිකය පිළිබඳ ජනාධිපති ප්‍රධාන උපදේශක ලෙස පත් කර තිබේ.
+Dr. Hans Wijayasuriya appointed Chief Presidential Advisor on Digital Economy. Resigns from Dialog Axiata on Jan 25, 2025. Formerly CEO of Telecom Malaysia.
 
-මේ අතර නිවේදනයක් නිකුත් කරමින් ඩයලොග් ආසිආටා හි මව් සමාගම වන ආසිආටා ගෲප් බර්හාඩ් පවසන්නේ එහි සමූහ විධායක අධ්‍යක්ෂ සහ එහි විදුලි සංදේශ ව්‍යාපාර සම්බන්ධ ප්‍රධාන විධායක නිලධාරී ආචාර්ය හාන්ස් විජයසූරිය ශ්‍රී ලංකා රජයේ ආරාධනය ආචාර්ය විජයසූරිය විසින් පිළිගෙන ඇති බවයි.
+🟩
 
-ඒ අනුව ඔහු 2025 ජනවාරි 25 වනදා ආසියාටා සමාගමෙන් ඉල්ලා අස්වන බව දැනුම් දී ඇති බව එම නිවේදනයේ දැක්වෙයි.
+Dr. Hans Wijayasuriya has been appointed as the President of the Digital Economy.
 
-ආචාර්ය හාන්ස් ගේ තීරණය ආසියාට අධ්‍යක්ෂ මණ්ඩලය විසින් පිළිගෙන තිබේ. ඔහු ආසියාටා සහ ඊට පෙර එය හඳුන්වනු ලැබූ ටෙලිකොම් මැලේසියා හි  වසර 30ක් පමණ සිය වෘත්තියේ යෙදී තිබේ.
+Meanwhile, Dialog Axiita, a parent company, ailyga Group Burhad says that the Chief Executive Director of its Tribulating Director and its Telecommunication Business (CEO Dr. Wijayasuriya has admitted the invitation of the Government of Sri Lanka.
+
+According to the statement, he has informed that he resigns from Asiata on January 25, 2025.
+
+Dr. Hans's decision has been admitted by the Board of Directors. He has been in the professional in Telecom Malaysia, known as Asian and and before.
 
 ◼️
 
 [Data](articles/87a1ad32.json)
+
+[Extended Data](ext_articles/87a1ad32.ext.json)
 
 ---
 
@@ -104,21 +120,27 @@ Accordingly, the principal amount of USD 5,670 million and interest of USD 2,527
 
 ---
 
-### දශක තුනකට පසු පලාලි - අච්චුවේලි ප්‍රධාන මාර්ගය විවෘත කෙරේ
+### Four decades after the Palaly and Atchuveli main road is opened
 
 *2024-11-01 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202807) · `si`
 
-පලාලි - අච්චුවේලි ප්‍රධාන මාර්ගය ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ උපදෙස් පරිදි අද (01) විවෘත කර තිබේ.
+After 40 years, Palali-Atchuveli main road reopens under President Anura Kumara Dissanayake's orders. Closed during 30-year war, it remained inaccessible for 15+ years post-conflict. Security forces cleared the route with Defense Ministry assistance.
 
-වසර තිහක් පැවති යුද තත්ත්වය හේතුවන් මෙම ප්‍රධාන මාර්ගය වසා දමා තිබූ අතර යුද්ධය අවසන් වී වසර 15කට වැඩි කාලයක් ගතවූ නමුත් මෙම මාර්ගය මහ ජනතාවට විවෘත නොවිණි.
+🟩
 
-මෙම මාර්ගය විවෘත කිරීම සම්බන්ධයෙන් උතුරු පළාත් ජනතාව විසින් නිරන්තර ඉල්ලීම් සිදු කර ඇති අතර ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ආණ්ඩුකාරවරුන් අතර පසුගිය ඔක්තෝබර් 22වෙනිදා පැවති සාකච්ඡාවේදී උතුරු පළාත් ආණ්ඩුකාර නාගලිංගම් වේදනායගම්  මහතා ද ජනාධිපතිවරයාගෙන් මේ පිළිබඳ ඉල්ලීමක් සිදු කළේය.
+Palali - Atchuveli main road has been opened today (01) at the instructions of President Anura Kumara Dissanayake.
 
-ඒ අනුව මෙම මාර්ගය විවෘත කිරීම සම්බන්ධයෙන් පවතින ආරක්ෂක තත්ත්වය පිළිබඳ සොයා බලා අදාළ කටයුතු සිදු කරන ලෙස  ජනාධිපති අනුර කුමාර දිසානායක මහතා ආරක්ෂක අංශවලට දැනුම් දී තිබුණු අතර ඒ අනුව ආරක්ෂක අමාත්‍යාංශයේ හා ආරක්ෂක ලේකම්වරයාගේ  මැදිහත්වීමෙන් මෙම මාර්ගය විවෘත කිරිමට පියවර ගෙන තිබේ.
+Thirty-Year War Status The main road was closed and over 15 years after the end of the war, the road was not open to the masses.
+
+The Northern Province Governor Nagalingam Vedanayagam was also requested by President Anura Kumara Dissanayake on October 22nd.
+
+Accordingly, President Anura Kumara Dissanayake had informed the security forces to look into the security situation in the opening of the road and to operate the road by the intervention of the Ministry of Defense and the Defense Secretary.
 
 ◼️
 
 [Data](articles/15cc9e6c.json)
+
+[Extended Data](ext_articles/15cc9e6c.ext.json)
 
 ---
 
@@ -872,25 +894,41 @@ The Executive Director of the PAFRAL Organization Rohana Hettidiarachchi said th
 
 ---
 
-### බදුල්ල බස් අනතුර: සරසවි සිසුවියන් දෙදෙනෙකු මියගිය අනතුර ගැන මෙතෙක් දන්නා තොරතුරු
+### Badulla bus accident: Two university students know about two universities
 
 *2024-11-01 10:59:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c748k0xp44po) · `si`
 
-බදුල්ල බස් අනතුර: සරසවි සිසුවියන් දෙදෙනෙකු මියගිය අනතුර ගැන මෙතෙක් දන්නා තොරතුරු
+Here's a 200-character summary:
 
-බදුල්ල, දුන්හිඳ ප්‍රදේශයේදී බස් රථයක් පෙරළීමෙන් අද (නොවැ: 01) පෙරවරුවේ සිදුවූ අනතුරෙන් සූරියවැව කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සිසුවියන් දෙදෙනෙක් ජීවිතක්ෂයට පත්වූහ.
 
-ආරක්ෂක අමාත්‍යාංශයේ මාධ්‍ය ප්‍රකාශක කර්නල් නලීන් හේරත් බීබීසී සිංහල සේවය වෙත පැවසුවේ, ක්ෂේත්‍ර අධ්‍යයන චාරිකාවක නිරත වෙමින් සිටි සිසුන් පිරිසක් රැගත් එම බස් රථය පෙරවරු 8.05ට පමණ අනතුරට ලක්ව ඇති බව ය.
 
-අනතුර සිදුවන අවස්ථාවේදී සූරියවැව කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සිසු සිසුවියන් ඇතුළු පුද්ගලයින් 41 දෙනෙකු බස් රථයේ සිට ඇත.
+Badulla bus accident kills 2 Sooriyawewa Defense University students. 41 injured, including 6 critical cases. Driver lost control near bend. Police investigation ongoing. Defense Ministry arranging air lifts for serious cases.
 
-බදුල්ල - මහියංගණය ප්‍රධාන මාර්ගයේ දුන්හිඳ ප්‍රවේශ මාර්ගයට නුදුරින් වූ අඹගහඔය ප්‍රදේශයේදී මෙම අනතුර සිදුව ඇති බව පොලිසිය පවසයි.
+🟩
 
-පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය නිවේදනයක් නිකුත් කරමින් පැවසුවේ, බස් රථයේ රියැදුරාට බස් රථය පාලනය කර ගැනීමට නොහැකි වීමෙන් වංගුවක් අසලදී බසය පෙරළීමෙන් මෙම අනතුර සිදුව ඇති බව ය.
+Badulla bus accident: Two university students know about two universities
+
+Two students of the Sooriyawewa Defense University were killed in the accident this morning (Nov: 05).
+
+Defense Ministry Colonel Nalin Herath told BBC Herath that the bus carrying a group of students who had been on a field study was in danger at 8.05 am.
+
+41 persons including students of the Sooriyawewa Defense University were in the bus.
+
+The accident had occurred in the Ambahaioya area near the Badulla-Mahiyanganaya main road.
+
+Police Media Spokesman's Office announced said that the driver of the bus could not control the bus by a bend by a bend, the accident had occurred.
+
+When contacted, police spokesman DIG Nihal Thaldle, he said that he had not taken a statement from the driver of the bus.
+
+The deceased has been identified as two who was a resident candidate in Nivitigala and Kurunegala.
+
+The injured in the bus accident was admitted to Badulla Teaching Hospital.
 
 ...
 
 [Data](articles/f90ee8e5.json)
+
+[Extended Data](ext_articles/f90ee8e5.ext.json)
 
 ---
 
@@ -920,21 +958,53 @@ Meanwhile, the Ministry of Commerce has announced that it is continuing to detec
 
 ---
 
-### ලොහාන් රත්වත්තේ ගැන ඇති ආන්දෝලන මොනවා ද?
+### What controversies have the controversy of Lohan Ratwatte?
 
 *2024-11-01 10:55:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1e7njpdlxxo) · `si`
 
-ලොහාන් රත්වත්තේ යන නම කියූ සැණින් බොහෝ දෙනෙකුගේ මතකයට නැගෙන්නේ දේශපාලනඥයෙකු ලෙස ඔහු කළ කාර්යයන්ටත් වඩා ඔහු සහ පවුල පිළිබඳ ඇති ආන්දෝලනාත්මක සිදුවීම් ය. ලොහාන් රත්වත්තේ යනු හිටපු ආරක්ෂක රාජ්‍ය අමාත්‍යවරයෙකු වූ අනුරුද්ධ රත්වත්තේගේ පුත්‍රයා ය.
+Here's a summary of the controversies surrounding Lohan Ratwatte in approximately 200 characters:
 
-පසුගිය ජනාධිපතිවරණ සමයේදී ඔහු ආන්දෝලනයට ලක්වූයේ, තමා ජීවත්ව සිටින තුරු අනුර කුමාර දිසානායකට මෙරට ජනාධිපති වීමට ඉඩ නොතබන බවට කළ ප්‍රකාශයක් හේතුවෙනි.
 
-"අනුර කුමාර මහත්තයා අවුරුදු 24ක් පම්පොරි ගහලා අද බුදුවෙන්න හදනවා.ජීවිතේට මම ජීවත් වෙලා ඉන්නකං අනුර කුමාර දිසානායක මහත්තයට ජනාධිපති වෙන්න දෙන්නෙ නැහැ කියලා මම ප්‍රකාශ කරනවා" යනුවෙන් ඔහු ජනාධිපතිවරණ රැලියකදී ප්‍රකාශ කර තිබුණි.
 
-ඊට ප්‍රතිචාර දක්වමින් අනුර කුමාර දිසානායකද මහනුවර පැවති ජනාධිපති රැලයකදී එවකට පවසා සිටියේ “ලොහාන් පසුගියදා මහනුවරදී ප්‍රකාශ කළේ ඔහු ජීවත්ව සිටින තාක් අපට ජයග්‍රහණය කිරීමට ඉඩ නොදෙන බවයි. අපේ ජයග්‍රහණය දැකීමට ඔහු ජීවතුන් අතර සිටිනු දැකීම සතුටක්. නීතිය ඉදිරියේ සියලුදෙනා එක හා සමාන බව ඔප්පු කළ යුතුයි. ඒකට හොඳම උදාහරණය ලොහාන්.” යනුවෙනි.
+Lohan Ratwatte, son of former defense minister Anuruddha Ratwatte, embroiled in several scandals:
+
+
+
+1. Arrested for using an illegally imported Jeep
+
+2. Accused of threatening prison officials 
+
+3. Condemned for mistreating prisoners at Welikada Prison
+
+4. Linked to a 2001 shooting of 10 Muslim youths in Kandy
+
+5. Involved in a 2023 murder of his private secretary
+
+
+
+These incidents have marred his political career and reputation.
+
+🟩
+
+In snaps of the name of Lohan Ratwatte, many are reminded of the controversial events of him and family rather than a politician. Lohan Ratwatte is the son of Anuruddha Ratwatte, former security.
+
+During the last presidential election, he was awarded by a statement that Anura Kumara Dissanayake would not be the President of Sri Lanka until he was alive.
+
+"Mr. Anura Kumara is trying to sell 24 years today."
+
+Responding to this, Anura Kumara Dissanayake was also told at a presidential in Kandy.. It was good to see him alive to see our victory. All should prove that everyone is like the same. The best example for it is Lohan. ".
+
+He is currently arrested in connection with the latest incident in Lohan Ratwatte and remanded. That is to November 7th.
+
+The Sri Lanka Freedom Party MP was elected to the Central Provincial Council in 2009.
+
+He was appointed as the Sri Lanka Freedom Party Organizer of the Pathadumbara. He is the Minister of Road Development. He was re-elected to parliament by 2015 and 2020.
 
 ...
 
 [Data](articles/39c5a476.json)
+
+[Extended Data](ext_articles/39c5a476.ext.json)
 
 ---
 

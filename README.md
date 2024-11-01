@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 10:13:12**
+As of **2024-11-01 10:24:50**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 9,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,492 (100.0%) of 52,497 articles have been extended.
+52,496 (100.0%) of 52,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### 16 இராஜதந்திர ஊழியர்களை மீள அழைக்க தீர்மானம்
+### 16 Diplomatic Employees Resolution to Return
 
 *2024-11-01 10:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-இராஜதந்திர-ஊழியர்களை-மீள-அழைக்க-தீர்மானம்/175-346403) · `ta`
 
+Sri Lanka government orders immediate recall of 16 diplomats appointed during previous administration based on family and political ties. Ministry of External Affairs confirms notification received, expecting their return soon. Additional appointments to diplomatic posts also underway.
+
+🟩
+
 குடும்ப மற்றும் அரசியல் உறவுகளின் அடிப்படையில் கடந்த நிர்வாகத்தின் போது நியமிக்கப்பட்ட 16 இராஜதந்திர ஊழியர்களை உடனடியாக அமுலுக்கு வரும் வகையில் மீள அழைக்க அரசாங்கம் தீர்மானித்துள்ளது.
 
-இது தொ்டர்பில் அவர்களுக்கு ஏற்கெனவே அறிவிக்கப்பட்டுள்ளதாகவும், அவர்கள் விரைவில் இலங்கை திரும்புவார்கள் என எதிர்பார்க்கப்படுவதாகவும் வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+The Ministry of External Affairs has announced that it has already been announced to them and is expected to return to Sri Lanka soon.
 
-அத்துடன், அரசியல் தொடர்புகளின் அடிப்படையில் இராஜதந்திர பதவிகளுக்கு நியமிக்கப்பட்டுள்ள மேலும் பல நபர்களை மீள அழைக்கும் திட்டங்கள் முன்னெடுக்கப்பட்டு வருகின்றன.
+In addition, many more people appointed to diplomatic positions on the basis of political relations are being carried out.
 
 ◼️
 
 [Data](articles/544b892c.json)
+
+[Extended Data](ext_articles/544b892c.ext.json)
 
 ---
 
@@ -804,6 +810,8 @@ The OPA is the Apex body of 51 professional associations including the Bar Assoc
 
 [Data](articles/35ff1d45.json)
 
+[Extended Data](ext_articles/35ff1d45.ext.json)
+
 ---
 
 ### “Vidyalaya Nalanda” book launch today
@@ -815,6 +823,8 @@ The research book “Vidyalaya Nalanda” will be launched today under the Gover
 ...
 
 [Data](articles/b5a59628.json)
+
+[Extended Data](ext_articles/b5a59628.ext.json)
 
 ---
 
@@ -1110,29 +1120,41 @@ Yasodini Karunanidhi, a former fighter, who was a female candidate in the Democr
 
 ---
 
-### නොදැනුවත්ම අපව ලෙඩ කරන ඩිජිටල් උපකරණ
+### Digital instruments that make us unappropriate
 
 *2024-11-01 02:03:59* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq52ze66zzgo) · `si`
 
-දිනෙන් දින දියුණු වන ලෝකයත් සමග ඉදිරියට යාමට නම් ලොකු කුඩා කාටත් තාක්ෂණික උපාංග භාවිතය අත්‍යාවශ්‍යම සාධකයක් වී තිබේ.
+Here's a 200-character summary:
 
-ඩිජිටල්කරණ යුගයක දිවි ගෙවන ලෝකවාසීන්  ජංගම දුරකථන, පරිගණක සහ ටැබ් වැනි විවිධ ඩිජිටල් උපකරණ භාවිත කිරීමට හුරුවී සිටියි.
 
-ඩිජිටල් උපකරණ වැඩි වෙලාවක් භාවිත කිරීම නොදැනුවත්ම විවිධ ශාරීරික මෙන්ම මානසික රෝග ඇති කරලීමට හේතුවක් වී ඇති බව බීබීසී සිංහල වෙත අදහස් දැක්වූ වැඩිදෙනෙක් පැවසූහ.
 
-දෙදෙරු මවක් වන 34 හැවිරිදි ශෂිකා නිර්මාණි පැවසුවේ සිය වැඩිමහල් දරුවා ජංගම දුරකථනයෙන් ඈත් කර තැබීම විශාල අභියෝගයක් බවට පත්ව ඇති බවයි.
+Technology overuse affects mental health, especially in children. Digital devices can hinder cognitive development, memory, and creativity. Experts advise limiting screen time, especially for young children. Prolonged use can cause physical strain, eye damage, and back/neck pain. Proper ergonomics and breaks are crucial when using digital devices extensively.
 
-" මගේ ලොකු පුතාගේ වයස දැන් අවුරුදු 6ක් වෙනවා. පොඩි පුතාට වයස අවුරුදු 3යි."
+🟩
 
-"මගේ දෙවැනි බබා හම්බ වුණාට පස්සේ මම එයාගේ වැඩත් එක්ක කාර්ය බහුල වුණා. ලොකු පුතා ඒ වෙද්දී සාමාන්‍ය දරුවෙක් විදිහට සෙල්ලම් කරනවා, චිත්‍ර පාට කරන්න උත්සාහ කරන කාලේ."
+The use of technology has become essential to a large number of technology.
 
-"මම දෙවැනි බබා එක්ක කාලය ගත කරන නිසා සමහර වෙලාවට ලොකු පුතා එක්ක සෙල්ලම් කරන්න වගේම එයා එක්ක කාලය ගත කරන්න ලැබුණේ නැහැ වෙනදා වගේ."
+The worldwise lives in a digitalized age is accustomed to using various digital equipment such as mobile phones, computers and tabs.
 
-"මම එයාට කාටුන් එහෙම ෆෝන් එකෙන් දාලා දුන්නා බලන්න. එයත් කාටුන් බලනවා මම පොඩි එක්කෙනාගේ වැඩ කරනකොට."
+Most people said to BBC Sinhala that digital devices are incapable of use of many time and mental illness.
+
+The 34-year-old Shashika Creai said that it was a challenge to distance his elder child from mobile phone.
+
+"My big son is six years old now. The little son is 3 years old. "
+
+"When I found my second baby, I was busy with his work. When the eldest son is playing as a normal child, when we try to paint. "
+
+"I spent time with the second baby, so sometimes like us to play with the elderly and did not spend time with him."
+
+"I left the cartoon from the cartoon. It is as if I'm looking at the one of the little ones. "
+
+"In time, he could not lose the phone. Even when eating eating, he ate the cartoon of the cartoon. "
 
 ...
 
 [Data](articles/7e1cfb19.json)
+
+[Extended Data](ext_articles/7e1cfb19.ext.json)
 
 ---
 

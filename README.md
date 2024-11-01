@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 19:24:41**
+As of **2024-11-01 19:40:34**
 
 ## Newspaper Stats
 
-*Scraped **52,565** Articles*
+*Scraped **52,566** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,133
 economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,894
+adalk | 4,895
 adaderanalk | 6,246
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,565 (100.0%) of 52,565 articles have been extended.
+52,565 (100.0%) of 52,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -93,6 +93,22 @@ The Department of Immigration and Emigration will be released to applicants abou
 [Data](articles/f2bdc97e.json)
 
 [Extended Data](ext_articles/f2bdc97e.ext.json)
+
+---
+
+### වාහන අංක තහඩු නිකුත් කිරීම තාවකාලිකව නවතී
+
+*2024-11-01 18:10:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-අංක-තහඩු-නිකුත්-කිරීම-තාවකාලිකව-නවතී/11-412798) · `si`
+
+වාහන අංක තහඩු මුද්‍රණය සීමා කිරීම හේතුවෙන්   වාහන නව ලියාපදිංචියේදී  හා  වාහන     හිමිකම් පැවරීමේදී අංක තහඩු නිකුත් කිරීම තාවකාලිකව අත් හිටුවා ඇතැයි මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව කියයි.
+
+ඒ අනුව මෙලෙස අංක තහඩු නිකුත් නොකිරීම පිළිබඳව ලිපියක් වාහන නව ලියාපදිංචියේදී හා හිමිකම් පැවරීමේදී වාහන  හිමිකරුවන් වෙත නිකුත් කරනු ලබන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+එම ලිපිය අනුව අංක තහඩු නිකුත් කිරීම යාවත්කාලීන කර නැවත දැනුම් දෙන තුරු එම වාහන හිමියන් අපහසුතාවයට පත් නොවන සේ කටයුතු කරන ලෙස ඉල්ලා මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල්  නිශාන්ත අනුරුද්ධ වීරසිංහ මහතා විසින්  පොලිස්පතිවරයා වෙත ලිපියකින් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/850a8edc.json)
 
 ---
 
@@ -2329,21 +2345,5 @@ The research book “Vidyalaya Nalanda” will be launched today under the Gover
 [Data](articles/b5a59628.json)
 
 [Extended Data](ext_articles/b5a59628.ext.json)
-
----
-
-### ‘Stay connected abroad with HUTCH’s unbeatable data roaming deals’
-
-*2024-11-01 02:57:00* · [`islandlk`](http://island.lk/stay-connected-abroad-with-hutchs-unbeatable-data-roaming-deals/) · `en`
-
-HUTCH, one of Sri Lanka’s leading mobile network service providers, continues to strengthen its position as the preferred and most affordable choice for outbound data roaming services, with its extensive global coverage. Offering flexible plans, HUTCH data roaming caters to both short and long-duration travellers for leisure, business, pilgrimage, or education.
-
-Travellers can now enjoy up to 10GB of data for just USD 5 with a weekly plan, or opt for a 30GB monthly plan for just USD 15. These plans are designed to provide absolute peace of mind, ensuring users have uninterrupted connectivity while staying within their budget. HUTCH Sri Lanka has partnered with top mobile networks around the globe to provide quality connectivity anywhere. Accordingly, these data roaming plans cover all key travel destinations and more.
-
-...
-
-[Data](articles/fd918ff4.json)
-
-[Extended Data](ext_articles/fd918ff4.ext.json)
 
 ---

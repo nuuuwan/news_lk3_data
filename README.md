@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 09:28:57**
+As of **2024-11-01 08:51:19**
 
 ## Newspaper Stats
 
-*Scraped **52,494** Articles*
+*Scraped **52,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,241 +16,21 @@ islandlk | 3,130
 economynextcom | 3,187
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,883
-adaderanalk | 6,233
-tamilmirrorlk | 7,281
+adalk | 4,882
+adaderanalk | 6,230
+tamilmirrorlk | 7,277
 virakesarilk | 8,468
-adaderanasinhalalk | 9,139
+adaderanasinhalalk | 9,136
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,483 (100.0%) of 52,494 articles have been extended.
+52,473 (100.0%) of 52,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
-
-### Announcement on coastal line train services after ‘Ruhunu Kumari’ derailment
-
-*2024-11-01 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103081/announcement-on-coastal-line-train-services-after-ruhunu-kumari-derailment) · `en`
-
-Due to the derailment of the ‘Ruhunu Kumari’ train at Ginthota station, the ‘Samudra Devi’ train has started from Dodanduwa station, the ‘Sagarika’ train from Boossa station, and the ‘Nayana Kumari’ train from Hikkaduwa station.
-
-The Railway Department stated that these trains departed from their respective stations at the scheduled times.
-
-However, the department added that the ‘Galle Kumari’ train and the Night Mail train are experiencing delays.
-
-The engine of the derailed ‘Ruhunu Kumari’ train has been rerailed, and it is expected to take a few more hours to restore normal operations.
-
-◼️
-
-[Data](articles/3f9139e7.json)
-
----
-
-### தபால்மூல வாக்களிப்பு இன்றும் தொடர்கிறது
-
-*2024-11-01 08:54:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்மூல-வாக்களிப்பு-இன்றும்-தொடர்கிறது/175-346400) · `ta`
-
-எதிர்வரும் பொதுத்தேர்தலுக்கான தபால் மூல வாக்களிப்பு, இன்று இரண்டாவது நாளாகவும் இடம்பெறுகிறது என, தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
-
-இதன்படி, முப்படைகளின் முப்படை அதிகாரிகள் மற்றும் அரச நிறுவனங்களின் உத்தியோகத்தர்களுக்கு இன்று தபால் மூல வாக்களிப்பை அடையாளப்படுத்தும் சந்தர்ப்பம் வழங்கப்பட்டுள்ளதாக, அவர் தெரிவித்துள்ளார்.(AN)
-
-◼️
-
-[Data](articles/1e8cf960.json)
-
----
-
-### Couple arrested with over 200 billion heroin
-
-*2024-11-01 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202792) · `si`
-
-Couple arrested with over 200 billion heroin. Police Special Task Force seized nearly 54 kilos of heroin.
-
-🟩
-
-Police Special Task Force has been arrested by the STF with nearly 54 kilos of heroin.
-
-◼️
-
-[Data](articles/a0b51e20.json)
-
-[Extended Data](ext_articles/a0b51e20.ext.json)
-
----
-
-### IMF Brand new explanation of Sri Lanka's credit program
-
-*2024-11-01 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202791) · `si`
-
-Here's a summary of the IMF's announcement about Sri Lanka's credit program in 200 characters:
-
-
-
-IMF confirms commitment to Sri Lanka's credit program. Representatives met with President and team. Third review discussion planned. Sri Lankan delegation in Washington, IMF team to visit Sri Lanka soon.
-
-🟩
-
-The International Monetary Fund (IMF) commitment to the International Monetary Fund (IMF) The International Monetary Fund (IMF) is the Director of the International Monetary Fund Asia Pacific Zone.
-
-He further stated that the IMF's sworn in a press conference held today (01), he said that IMF representatives came to Sri Lanka and conducted effective discussions with the President and his team.
-
-He also confirmed that a group of Sri Lankan team was in Sri Lanka to Washington and a group of the IMF would arrive in Sri Lanka to discuss the third review.
-
-◼️
-
-[Data](articles/897f2e9d.json)
-
-[Extended Data](ext_articles/897f2e9d.ext.json)
-
----
-
-### Grandpass shooter: One was caught
-
-*2024-11-01 08:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராண்ட்பாஸ்-துப்பாக்கிச்சூடு-ஒருவர்-சிக்கினார்/175-346399) · `ta`
-
-Colombo Criminal Investigation Department arrests suspect in Grandpass shooting case. Man killed in three-wheeler on Oct 16. Suspect identified as 35-year-old from Blooming area. Further investigation ongoing involving Colombo Crime Branch.
-
-🟩
-
-The Colombo Criminal Investigation Department has arrested a man suspected of being shot dead in the three -wheeler in front of the Grandpass police division.
-
-On October 16, a man was shot dead in a three -wheeler by unidentified persons who arrived in the car in front of the Grandpass Police Division.
-
-Subsequently, the Grandpass police and the Colombo Criminal Investigation Division started investigations.
-
-Accordingly, a 35 -year -old man from the Blooming area of ​​the car driver of the car, which was accused of the shooting, was arrested by Grandpass police officers on October 28.
-
-The man who was suspected of firing further investigations on the information received by the Colombo Crime Branch officials in connection with the incident, was arrested in Wattala area yesterday evening with two mobile phones.
-
-...
-
-[Data](articles/e2ac8878.json)
-
-[Extended Data](ext_articles/e2ac8878.ext.json)
-
----
-
-### Rainfall in many areas today
-
-*2024-11-01 08:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-பகுதிகளில்-மழை-பெய்யும்/175-346398) · `ta`
-
-Rainfall warning: Thundershowers likely across country, especially evenings/nights. Heavy rains over 100mm in several provinces. Coastal areas may see showers/thunderstorms in mornings. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Thundershowers are likely to occur in many parts of the country today (01), the Department of Meteorology said.
-
-According to the weather forecast, the department has stated that rain or thunderstorms are likely to occur in many parts of the country in the evening or night.
-
-Heavy rains are expected to be more than 100 millimeters in some parts of the Uva, Eastern, Central, Sabaragamuwa and North Central Provinces.
-
-Showers or thunderstorms may occur in some places in the morning, along the coastal areas of the North, East and North Western provinces.
-
-The Department of Meteorology has called for the general public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/4aa88d59.json)
-
-[Extended Data](ext_articles/4aa88d59.ext.json)
-
----
-
-### Heroin worth over Rs. 2 Billion seized in Sevanagala; husband and wife arrested
-
-*2024-11-01 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103080/heroin-worth-over-rs-2-billion-seized-in-sevanagala-husband-and-wife-arrested) · `en`
-
-The total quantity of heroin taken into custody by the Police Special Task Force (STF) in Kiriwewa, Sevanagala yesterday (31) is approximately 53.65 kilograms, valued at over Rs. 2 billion.
-
-A husband and wife were arrested in connection with the discovery and have been handed over to the Police Narcotics Bureau (PNB) for further investigation, according to the STF.
-
-The discovery was made after a team of STF officers conducted a raid at 1st Lane, Nuge Galayaya, Kiri Wewa, within the Sevanagala Police Division.
-
-During the inspection of the house and surrounding land, officers discovered 53 kg and 65 grams of heroin hidden in three plastic containers buried in the yard. The husband and wife residing at the address were arrested and handed over to the Police Narcotics Bureau for further investigation.
-
-Further investigations revealed that the arrested female suspect is the sister of Omalpage Dhammika Samankumara, who had been previously arrested with heroin by STF officers on October 30.
-
-...
-
-[Data](articles/eef5dab7.json)
-
-[Extended Data](ext_articles/eef5dab7.ext.json)
-
----
-
-### Settle for 24,000 complaints in 2 weeks
-
-*2024-11-01 08:33:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-வாரங்களில்-24-000-முறைப்பாடுகளுக்கு-தீர்வு/175-346397) · `ta`
-
-Sri Lanka police resolve 24,381 complaints in 2 weeks, 7,000 pending investigation.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that 24,381 complaints have been completed within two weeks.
-
-Complaints available at police stations have been ordered to be investigated within two weeks within two weeks.
-
-Thus, from the 6th to the 19th of October, the complaints have been filed at the provincial level and that 24,381 complaints have been investigated.
-
-He said that about 7,000 complaints, along with the newly added complaints, are in the police stations and will be completed quickly.. Remble
-
-◼️
-
-[Data](articles/bfb1a303.json)
-
-[Extended Data](ext_articles/bfb1a303.ext.json)
-
----
-
-### Suspected gunman in Grandpass shooting arrested
-
-*2024-11-01 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103079/suspected-gunman-in-grandpass-shooting-arrested) · `en`
-
-The Colombo Crime Division (CCD) has arrested a suspect believed to be the shooter in the recent killing of a three-wheeler passenger near the cemetery in the Grandpass Police Division.
-
-On October 16, an individual traveling in a three-wheeler in the Madampitiya area of Grandpass was shot and killed by unknown assailants who arrived in a car.
-
-Following the incident, the Grandpass Police and the Colombo Crime Division launched an investigation.
-
-On October 28, a 35-year-old resident of Bloemendhal, identified as the driver of the car used in the shooting, was arrested by the Grandpass Police.
-
-Acting on further information gathered by Colombo Crime Division officers, a 31-year-old resident of Handala, Wattala, suspected to be the shooter, was apprehended yesterday (31) in the Wattala area. Two mobile phones were found in his possession.
-
-...
-
-[Data](articles/2e1d726d.json)
-
-[Extended Data](ext_articles/2e1d726d.ext.json)
-
----
-
-### Notice of a train delay
-
-*2024-11-01 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202790) · `si`
-
-Train delay notice: Galle Kumari Railway delayed due to engine repair. Other trains departing normally.
-
-🟩
-
-රුහුණු කුමාරි දුම්රිය ගිංතොට දුම්රිය ස්ථානයේ දි පීලිපැනීම හේතුවෙන් සමුද්‍රදේවි දුම්රිය දොඩන්දූව දුම්රිය ස්ථානයේ සිටත්, සාගරිකා දුම්රිය බූස්ස දුම්රිය ස්ථානයෙන් සහ නයනාකුමාරි දුම්රිය හික්කඩුව දුම්රිය ස්ථානයේ සිටත් ගමන් ආරම්භ කර තිබේ.
-
-The Railways Department said that the train commenced journey from the relevant station sites.
-
-However, the Galle Kumari Railway and Postal trains will be opened in late.
-
-පීලිපැනීමට ලක් වු රුහුණූ කුමාරි දුම්රියේ එන්ජිම මේවන විට පීලිගත කර ඇති අතර දුම්රිය ධාවනය යථා තත්ත්වයට පත්කිරිම සඳහා තවත් පැය කිහිපයක් ගත වන බව සඳහන්ය.
-
-◼️
-
-[Data](articles/ac9ffd2b.json)
-
-[Extended Data](ext_articles/ac9ffd2b.ext.json)
-
----
 
 ### Postal voting for General Election 2024 continues on second day
 
@@ -594,8 +374,6 @@ An ethnonational majoritarian political culture with little or no room for merit
 
 [Data](articles/d267e3b0.json)
 
-[Extended Data](ext_articles/d267e3b0.ext.json)
-
 ---
 
 ### Digital mindset to solve analogue problems
@@ -613,8 +391,6 @@ There were a host of comments following the President’s post. Since the post w
 ...
 
 [Data](articles/443f0602.json)
-
-[Extended Data](ext_articles/443f0602.ext.json)
 
 ---
 
@@ -1395,26 +1171,6 @@ Former State Minister Lohan Ratwatte, arrested by Mirihana Police, was brought t
 [Data](articles/145db3a2.json)
 
 [Extended Data](ext_articles/145db3a2.ext.json)
-
----
-
-### ලියාපදිංචි කළ නොහැකි නීතිවිරෝධී යතුරුපැදි 4ක් හා තවත් යතුරුපැදි 6ක කොටස් අල්ලයි
-
-*2024-10-31 19:11:19* · [`adalk`](https://www.ada.lk/breaking_news/ලියාපදිංචි-කළ-නොහැකි-නීතිවිරෝධී-යතුරුපැදි-4ක්-හා-තවත්-යතුරුපැදි-6ක-කොටස්-අල්ලයි/11-412787) · `si`
-
-වෙන්නප්පුව ප්‍රදේශයේ සුඛෝපභෝගී නිවසක රහසිගතව අලවිය සඳහා තිබූ මෙරට ලියාපදිංචි කළ නොහැකි යතුරුපැදි 4ක් සහ තවත් එකලස් කිරීමට සුදානම්ව තිබූ යතුරුපැදි 6ක කොටස් පුද්ගලයෙකු සමග අද 31අත්අඩංගුවට ගත්බව වෙන්නප්පුව පොලීසිය පවසයි.
-
-මෙසේ අත්අඩංගුවට පත්ව ඇත්තේ  මෙම යතුරුපැදි වල ඇන්ජින් ධාරිතාවය 500සීසී අගය ඉක්මවා ඇතිහෙයින් මෙරට ලියාපදිංචි කළ නොහැකිබව පොලීසිය පවසයි ඒ අනුව මෙම යතුරුපැදි වෙනත් ලියාපදිංචි යතුරුපැදිවල අංක තහඩු යොදාගන නීතිවිරෝධී ලෙස මෙරට ධානයෙහි යොදවන බව පොලීසිය පවසයි.
-
-මෙම යතුරුපැදියක වටිනාකම රුපියල් ලක්ෂ 25ක් වන අතර මෙම යතුරුපැදියක්  රුපියල් ලක්ෂ 21ට අලවි කරඇති බව පොලීසිය සිදුකළ  විමරෂණ වලදී තහවුරුකරගෙන ඇත.
-
-මෙම ජාවාරම කළක සිට සිදුකරගෙන ගොස් ඇති අතර මෙතෙක් බාහිරට දමා ඇති යතුරුපැදි පිළිබඳව සෙවීමටද පොලීසිය විශේෂ විමරෂණයක් ආරම්භ කර ඇත.
-
-මෙම යතුරුපැදි වල කොටස් ජපානයේ නිෂ්පාදනය කරඇති අතර ඉතාලියේ සිට මෙරටට ආනයනය කරඇති බවට පොලීසිය සැකකරයි.
-
-◼️
-
-[Data](articles/5994369a.json)
 
 ---
 
@@ -2247,5 +2003,311 @@ In the Cabinet decisions, we urge the Prime Minister not to confuse the structur
 [Data](articles/5fed03af.json)
 
 [Extended Data](ext_articles/5fed03af.ext.json)
+
+---
+
+### Special measles vaccination program next week
+
+*2024-10-31 15:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103069/special-measles-vaccination-program-next-week) · `en`
+
+The Ministry of Health has announced a special measles vaccination program to be conducted from November 4 to 9.
+
+This program targets individuals who have not previously been vaccinated against measles or who have only received a single dose.
+
+According to Senior Epidemiologist at the Epidemiology Unit of the Ministry of Health, Dr. Hasitha Tissera, the vaccination will take place in 12 selected districts across the island.
+
+Despite Sri Lanka’s eradication of measles, health authorities report a potential resurgence of cases in some areas since 2023.
+
+The measles vaccine is typically administered to infants at 9 months of age, as the risk of contracting measles is particularly high before this age.
+
+Additionally, health officials warn that those who have not received the vaccine or have only had one dose remain vulnerable to the disease.
+
+◼️
+
+[Data](articles/c711d9a9.json)
+
+[Extended Data](ext_articles/c711d9a9.ext.json)
+
+---
+
+### To face climate changes and to remember the heroes
+
+*2024-10-31 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197583) · `ta`
+
+Climate change impacts: rising temperatures, wildfires, floods, sea-level rise. Forests protect against disasters. Water scarcity, crop failures, air pollution. Urgent action needed to mitigate effects.
+
+🟩
+
+We have the leadership that has created the Environmental Good Commission and the Forest Protection Division by calling it my friend within the siege of the war and maintaining our environment.We worshiped the trees as the worshipers of the trees.This cultural tradition will save us and the embarrassment from the attacks of climate change.
+
+In this way, the leader of the Tamil National Green Movement, Poor, is the governing body of the Holy Karthika, in the memory of the continuation of the culture and the climate change.. Angaranesan said.
+
+The Northern Provincial Council has been observed as the month of Northern Province since 2014. In front of this. He said this in a media report issued by Aingeranesan.
+
+The average temperature of the Earth increases annually.Wildfire and heat waves are furious than ever. On the other hand, the season is raining.
+
+The annual rain falls in a few days. Tens of thousands of people are killed every year around the world, trapped in floods and landslides.
+
+...
+
+[Data](articles/e63aae9c.json)
+
+[Extended Data](ext_articles/e63aae9c.ext.json)
+
+---
+
+### The new state also speaks of Sinhala nationalism - wealthy!
+
+*2024-10-31 14:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197581) · `ta`
+
+Sinhala nationalism debate post-elections. Former MP Selvam Adakkalanathan discusses Tamil unity, public servant salaries, corruption investigations, and JVP's role in Sinhala nationalism. Tamil parties face challenges in public category contests.
+
+🟩
+
+The Anura government and the Sinhalese argument will be seen after the election, said Selvam Adakkalanathan, a former parliamentarian and the Vannimawatta Democratic Tamil coalition candidate.
+
+He was speaking to the media at his office in Vavuniya on Thursday (31).
+
+The resources published by the Association of Disappeared Relations on the Unity of Tamil. We accept it.
+
+In this election, all of us, the Tamil parties, were trying to contest a public category. It is not possible.
+
+So it destroys the pain.. We will continue to make efforts to get others.
+
+When people teach the lesson, there may be opportunities for unity.
+
+In the last government, a pay hike for public servants has been announced. But this government and the new president are commenting on it.
+
+Therefore, the salary that is said to be increased for public servants should be increased. Our party will continue to voice this.
+
+...
+
+[Data](articles/8be8b74a.json)
+
+[Extended Data](ext_articles/8be8b74a.ext.json)
+
+---
+
+### Arrested with expensive gemstones
+
+*2024-10-31 14:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197580) · `ta`
+
+A 50-year-old man was arrested in Sri Lanka's Aralangwila area on suspicion of theft. He was found with five valuable gemstones during an investigation. The arrest occurred on Wednesday, March 30th, in the Nikavadalantha region under the Aralangwila Police Division.
+
+🟩
+
+The suspect has been arrested on Wednesday (30) with five expensive gem stones in Nikavadalantha area belonging to the Aralangwila Police Division, Aralangwila police said.
+
+The suspect has been arrested in connection with the information received by the Aralangwila police.
+
+The arrested suspect is a 50 -year -old from Tehiyakatta.
+
+An investigation into the suspect revealed that the gemstones were found during the pit.
+
+◼️
+
+[Data](articles/41ef37cf.json)
+
+[Extended Data](ext_articles/41ef37cf.ext.json)
+
+---
+
+### Dilith Jayaweera vows to build a strong opposition to ‘challenge and change’ existing system
+
+*2024-10-31 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103068/dilith-jayaweera-vows-to-build-a-strong-opposition-to-challenge-and-change-existing-system) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera urged the public to vote for ‘Sarvajana Balaya’ to establish a strong opposition capable of challenging and changing the existing system.
+
+He made this statement at a public meeting held in Raddolugama, as part of a series of gatherings leading up to the upcoming general election.
+
+During the event, Jayaweera remarked, “Minister Vijitha Herath said that money wasn’t printed. If it had been, it would have had Anura Kumara’s signature on it. I was surprised; he’s been a parliament member for about 25 years and studied at Kelaniya University around the same time as I did. Currency printing isn’t just about printing paper rupees; it means increasing the country’s money supply. I honestly believe he may not understand this basic economic concept,” he added.
+
+...
+
+[Data](articles/21228d16.json)
+
+[Extended Data](ext_articles/21228d16.ext.json)
+
+---
+
+### Money Notes can come from Anura's signature - they are not new printed money
+
+*2024-10-31 14:37:01* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියට-අනුරගේ-අත්සනින්-මුදල්-නෝට්ටු-එන්න-පුළුවන්---ඒවා-අලුතින්-මුද්‍රණය-කරන-සල්ලි-නෙවෙයි/11-412778) · `si`
+
+Here's a 200-character summary:
+
+
+
+Anura Kumara Dissanayake's signature appears on Money Notes, not new printed currency. Prime Minister Dr. Harathin Amarasuriya clarifies that increased amounts are destroyed, not added as new money. This is a normal Central Bank process.
+
+🟩
+
+Prime Minister Dr. Harathin Amarasuriya said that the signature of Mr. Anura Kumara Dissanayake was printed in the future.
+
+"Central Bank destroys Old Notes and Printing New Notes. It's normal. The increase in this amount is not added to a new amount of money. It will destroy those old notes.. But that is a normal process. Or not the newly printed money. "
+
+◼️
+
+[Data](articles/566e0081.json)
+
+[Extended Data](ext_articles/566e0081.ext.json)
+
+---
+
+### Transparency and governance reforms key to attracting manufacturers to Sri Lanka - US Ambassador
+
+*2024-10-31 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103067/transparency-and-governance-reforms-key-to-attracting-manufacturers-to-sri-lanka-us-ambassador) · `en`
+
+The United States Ambassador to Sri Lanka Julie Chung states that if the new government can strengthen the investment climate, implement anti-corruption measures, and strengthen business-friendly governance and transparency, there is potential for attracting more international manufacturers to invest in the country.
+
+Joining the groundbreaking ceremony for Indiana-based SHIELD company’s new seatbelt factory in Sri Lanka, the US Ambassador said that SHIELD’s decision to shift its facility in China to establish a manufacturing facility in Sri Lanka is a testament to the growing interest of U.S. investment in Sri Lanka.
+
+“The United States is already the largest export market for Sri Lanka, and it’s wonderful to see greater U.S. investment directly here, as well.  We want to see even greater bilateral trade and investment expand both ways in the years to come”, she added.
+
+...
+
+[Data](articles/647b817d.json)
+
+[Extended Data](ext_articles/647b817d.ext.json)
+
+---
+
+### Special Program for Vaccination of Surquences from November 4 to 9
+
+*2024-10-31 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202770) · `si`
+
+Measles vaccination program Nov 4-9, 12 districts nationwide. Aim: protect children under 9 months. Health sector concerns: vaccine shortage, insufficient staff. Sri Lanka previously measles-free, cases reported since 2023.
+
+🟩
+
+The Ministry of Health has taken steps to implement a special program to meet a measurement of measles vaccines from November 4 to 9 on November 4.
+
+Epidemiology of the Ministry of Health Dr. Hasitha Tissera points out that the program is being carried out in 12 districts island wide.
+
+Sri Lanka is a country that has eradicated measles, but the health sector points out that after 2023, Sarams patients have been reported from some areas.
+
+At the age of 9 months, the children of the children are given a high risk of measles.
+
+The health sectors point out that the personnel are not available, as well as only one dose-only personnel are in danger.
+
+◼️
+
+[Data](articles/817f99ab.json)
+
+[Extended Data](ext_articles/817f99ab.ext.json)
+
+---
+
+### Anurakumara Dissanayake and the creation of the national people's power
+
+*2024-10-31 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197579) · `ta`
+
+Based on the detailed historical and political analysis provided, here are the key points regarding the JVP and its evolution:
+
+
+
+1. The JVP initially pursued revolutionary violence but shifted towards democratic methods after the armed conflicts in 1971 and 1988-90.
+
+
+
+2. In the 2015 parliamentary election, the JVP received 543,944 votes (4.8%) and won six seats.
+
+
+
+3. The party contested alone in 2015 instead of joining an opposition coalition.
+
+
+
+4. In the 2018 local government elections, the JVP received 693,875 votes (6.27%) but failed to capture any councils.
+
+
+
+5. The JVP formed the National People's Power alliance in 2019, led by Anura Kumara Dissanayake.
+
+
+
+6. In the 2019 presidential election, Anura Kumara Dissanayake received 418,563 votes (3.15%) as the National People's Power candidate.
+
+
+
+7. In the 2020 parliamentary election, the National People's Power received 445,958 votes (3.84%), winning three seats.
+
+
+
+8. Despite efforts to increase its vote bank, the JVP has struggled to overcome its status as the third political power in Sri Lanka.
+
+
+
+9. Anura Kumara Dissanayake has been instrumental in changing the electoral strategy and enriching his political image within the party.
+
+
+
+10. The JVP continues to maintain its independence and does not want to form coalitions or alliances with other parties, preferring to lead as an equal partner.
+
+
+
+The analysis suggests that while the JVP has made some progress in recent years, it still faces challenges in increasing its vote share and electoral performance compared to the major political parties in Sri Lanka.
+
+🟩
+
+This is the fourth part of my article on Sri Lanka's new President Anura Kumara Dissanayake.
+
+In the first part, I wrote about his gradual development in the second part of the Janata Vimukthi Peramuna (JVP) in the second part and his rise to the JVP leadership in the third part.
+
+The JVP led by Dissanayake in this fourth part. Let me explain how the national people's power was transformed into a party.
+
+Anura Kumara Dissanayake is an important day on February 2, 2014. It was on that day that the 17th National Conference of the JVP was held.
+
+The change in the leadership of the party was the best of the conference. Somawansa Amarasinghe, who has been the leader of the JVP for 24 years, took over.
+
+Anura or AKD. Anura Kumara Dissanayake, popularly known, arrived as the new leader of the JVP.
+
+It was generally revealed before the conference that Somawansa is going to retire from the post of Chairman.
+
+...
+
+[Data](articles/7993262b.json)
+
+[Extended Data](ext_articles/7993262b.ext.json)
+
+---
+
+### Car into rocky cavity: Death of family
+
+*2024-10-31 13:44:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாறை-குழிக்குள்-கார்-குடும்பஸ்தர்-மரணம்/175-346360) · `ta`
+
+Car crash kills family member in rocky pit. Farmer dies in 60-foot deep cave. Police investigating.
+
+🟩
+
+The death of a family member after a car fell into a 60 -foot -deep rocky cavity in the early hours of Thursday morning.
+
+The person who died in the accident has been revealed to be a farmer. Further investigations are being carried out by the police.
+
+◼️
+
+[Data](articles/e1741d2d.json)
+
+[Extended Data](ext_articles/e1741d2d.ext.json)
+
+---
+
+### Boossa Prison has been a mobile store
+
+*2024-10-31 13:25:41* · [`adalk`](https://www.ada.lk/breaking_news/බූස්ස-බන්ධනාගාරය-ජංගම-දුරකතක-ගබඩාවක්-වෙලා/11-412777) · `si`
+
+Boossa Prison raided: Police seize drugs, arrest suspects. Operation involves STF, nets 1g ice, 1g heroin, and smoking paraphernalia. Estimated loss: 150 million. Further investigation ongoing.
+
+🟩
+
+The Police Special Task Force was launched by the police with a large number of devices and heroin, an stock of heroin, ice, in general inspection of the Boossa.
+
+Arrests in the Old Section of the Boossa High Security PrisonWith the loss of 150 millions, 1 gram of ice, 1 gram of heroin, and smoking and smoking bols were taken to further investigations.
+
+◼️
+
+[Data](articles/9b740e26.json)
+
+[Extended Data](ext_articles/9b740e26.ext.json)
 
 ---

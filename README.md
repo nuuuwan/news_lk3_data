@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 02:24:12**
+As of **2024-11-02 02:39:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,599 (100.0%) of 52,600 articles have been extended.
+52,600 (100.0%) of 52,600 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,17 +36,23 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-02 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197690) · `ta`
 
-கல்முனை சாய்ந்தமருதிலிருந்து நுவரெலியா நோக்கி பயணித்த வேன் ஒன்று இன்று வெள்ளிக்கிழமை (1) இரவு 08 மணியளவில் விபத்துக்குள்ளானது.
+Van crashes with lorry on Nuwara Eliya road, 7 injured, 1 dead. Accident likely due to faulty brakes.
 
-ஹட்டன் - நுவரெலியா பிரதான வீதியின் சோமர்செட் வத்தை பகுதியில் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதியதில் குறித்த விபத்து இடம்பெற்றுள்ளது.
+🟩
 
-வேனில் பயணித்த 17 பேர் காயமடைந்த நிலையில் நுவரெலியா மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A van traveling from Kalmunai to Nuwara Eliya crashed at around 8 pm on Friday (1).
 
-எனினும் இந்த விபத்தில் ஒருவர் உயிரிழந்துள்ளார். லாரியின் பிரேக் பிடிக்காததால் விபத்து ஏற்பட்டிருக்கலாம் என பொலிசார் சந்தேகிக்கின்றனர்.
+The accident occurred when a lorry collided with a lorry from the opposite direction of the Hatton - Nuwara Eliya main road.
+
+Seven people have been admitted to the Nuwara Eliya District General Hospital after being injured.
+
+However, one person died in the accident. Police suspect the accident may have been caused by the truck's brake.
 
 ◼️
 
 [Data](articles/16f5e8a2.json)
+
+[Extended Data](ext_articles/16f5e8a2.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 04:58:28**
+As of **2024-11-02 05:09:31**
 
 ## Newspaper Stats
 
-*Scraped **52,606** Articles*
+*Scraped **52,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 533
 bbccomsinhala | 540
 islandlk | 3,133
 economynextcom | 3,196
-dailyftlk | 3,600
+dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
@@ -26,11 +26,89 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,605 (100.0%) of 52,606 articles have been extended.
+52,608 (100.0%) of 52,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Ranil urges public sector to hold votes unless NPP commits to wage hike
+
+*2024-11-02 04:35:14* · [`dailyftlk`](https://www.ft.lk/news/Ranil-urges-public-sector-to-hold-votes-unless-NPP-commits-to-wage-hike/56-768745) · `en`
+
+Accuses NPP of reneging on its campaign promise to raise public sector wages
+
+Claims party is dismissing Udaya R. Seneviratne report citing laws in it
+
+Reiterates his Govt. allocated funds for wage increase despite current Govt. insisting he has not
+
+Former President Ranil Wickremesinghe has called on State sector employees to withhold their support for the ruling National People’s Power (NPP) party unless it commits to implementing the wage increase recommended by the Udaya R. Seneviratne report.
+
+Speaking at a National Democratic Front (NDF) gathering in Kandy, Wickremesinghe accused the NPP of reneging on its campaign promise to raise public sector wages. He claimed the party was dismissing the report’s proposal for a Rs. 20,000 wage increase in two stages by pointing out flaws in the report.
+
+...
+
+[Data](articles/9941de03.json)
+
+[Extended Data](ext_articles/9941de03.ext.json)
+
+---
+
+### AKD following Ranil’s footsteps on tax policies – Marikkar
+
+*2024-11-02 04:34:33* · [`dailyftlk`](https://www.ft.lk/news/AKD-following-Ranil-s-footsteps-on-tax-policies-Marikkar/56-768744) · `en`
+
+Slams Govt. for allegedly failing to fulfil its campaign promises to provide economic relief to citizens
+
+Claims it indicates Govt. lacks necessary knowledge for financial management, revenue generation, and tax reduction
+
+Observes unions leaders who once advocated for citizens have now fallen silent
+
+Samagi Jana Balawegaya (SJB) Colombo district candidate S.M Marikkar has accused the current Government of following the same high-tax policies implemented by former President Ranil Wickremesinghe and failing to fulfil its campaign promises to provide economic relief to the people.
+
+Addressing a press conference in Colombo Marikkar slammed the Government for failing to reduce the prices of Octane 92 petrol and Auto Diesel which are essential for the common people.
+
+...
+
+[Data](articles/2b16dc13.json)
+
+[Extended Data](ext_articles/2b16dc13.ext.json)
+
+---
+
+### Gangaramaya Temple announces Venerable Galboda Siri Gnanissara Memorial Scholarship Trust Fund
+
+*2024-11-02 04:33:46* · [`dailyftlk`](https://www.ft.lk/news/Gangaramaya-Temple-announces-Venerable-Galboda-Siri-Gnanissara-Memorial-Scholarship-Trust-Fund/56-768743) · `en`
+
+A series of events will be held by the Gangaramaya Temple to honour the legacy of the late Venerable Galboda Gnanissara Thero, one of Sri Lanka’s most revered Buddhist leaders and visionaries. Known affectionately as “Podi Hamuduruvo,” Venerable Gnanissara Thero devoted his life to both the spiritual upliftment of the Gangaramaya Temple and the educational and vocational empowerment of countless young students and monks across Sri Lanka.
+
+To commemorate his tremendous service to the Buddha Sasana and the nation, a three-month dhamma bana sermon will be held, followed by a daana offering to the Maha Sangha. Following these events, the Venerable Galboda Siri Gnanissara Memorial Scholarship Trust Fund will be officially launched. This fund aims to carry forward his vision by providing educational opportunities to underprivileged students and fostering the development of future leaders committed to social responsibility and sustainable development.
+
+...
+
+[Data](articles/705628e6.json)
+
+[Extended Data](ext_articles/705628e6.ext.json)
+
+---
+
+### Rajitha calls for legal changes to enable Ranil’s return
+
+*2024-11-02 04:33:11* · [`dailyftlk`](https://www.ft.lk/news/Rajitha-calls-for-legal-changes-to-enable-Ranil-s-return/56-768742) · `en`
+
+Says Ranil Wickremesinghe could potentially make return to active politics if SL faces another economic crisis
+
+Suggests Wickremesinghe could return as consultant if he chooses not to take Parliamentary route
+
+Claims his global recognition for crisis management could make him an essential figure in future governance
+
+Former Member of Parliament and New Democratic Front (NDF) Kalutara District candidate Dr. Rajitha Senaratne has suggested that former President Ranil Wickremesinghe could potentially make a return to active politics if the country faces another economic crisis. Speaking at a press conference, Senaratne highlighted Wickremesinghe’s recognised capabilities in handling economic turmoil and hinted at potential amendments to existing laws to facilitate his re-entry.
+
+...
+
+[Data](articles/c15fc64e.json)
+
+---
 
 ### Sri Lanka participates in World Trade Expo 2024 in Mumbai
 
@@ -2359,101 +2437,5 @@ The report was established on the 31st of the Aralaganwila Polonnaruwa of Polonn
 [Data](articles/604e16e9.json)
 
 [Extended Data](ext_articles/604e16e9.ext.json)
-
----
-
-### Pushpakumara, who was driven by 100 tractors, launched a record
-
-*2024-11-01 10:33:53* · [`adalk`](https://www.ada.lk/sports/ට්‍රැක්ටර්-100ක්-තම-ශරීරය-මතින්-ධාවනය-කරමින්-වාර්තාවක්-තැබූ-පුෂ්පකුමාර/9-412790) · `si`
-
-Pushpakumara drives 100 tractors, sets record near Polonnaruwa. 36-year-old father of 36 children achieves feat.
-
-🟩
-
-Around 36-year-old is a father of 36-year-old WG, a large number of tractors in the Polonnaruwa area for renting a report in a fight between life and death.. Pushpakumara Samarakoon man passed.
-
-පොළොන්නරුව අරලගංවිල පොල භූමියේ 31 වෙනිදා වාර්තාව පිහිටවු ඔහු විනාඩි තිස් අටයි,තත්පර හතලිස් හයක් තුල මහ ට්‍රැක්ටර් සීයක් තම ශරීරය මත ගමන් කරවමින් මෙම වාර්තාව පිහිටුවීමට සමත් වූ බව සෙරන්ඩිබ් ලෝක වාර්තා ආයතනයේ ප්‍රධාන විනිසුරු සනත් බණ්ඩාර මහතා නිල වශයෙන් ප්‍රකාශ කළේය.
-
-Winning this report found with the participation of a large group of people. G Pushpakumara Samarakoon was a young man who had been mortgaged and lived in the Mahaweli River Mahaweli, Mahaweli.
-
-Mr. Samarakoon said he would doubt the number of tractors that double the record and driving on their body if they break the record if they break the record.
-
-◼️
-
-[Data](articles/b4893d54.json)
-
-[Extended Data](ext_articles/b4893d54.ext.json)
-
----
-
-### ව්‍යාජ අංක තහඩු යෙදූ ලොහාන්ට අයත් බව කියන තවත් ජීප් රියක් සොයා ගනියි
-
-*2024-11-01 10:21:09* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-අංක-තහඩු-යෙදූ-ලොහාන්ට-අයත්-බව-කියන-තවත්-ජීප්-රියක්-සොයා-ගනියි/11-412789) · `si`
-
-Sinhala text summary in 200 characters: Former Minister Lohan Ratwatte allegedly used fake number plates. A white jeep was seized by Tenadeniya police. Police say it was parked in an abandoned house in ICSC housing complex. Further investigations ongoing.
-
-🟩
-
-හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා විසින් භාවිතා කළැයි කියනු ලබන ව්‍යාජ අංක තහඩු යෙදු සුදු පැහැති ජීප් රථයක් තෙල්දෙණිය පොලිසිය විසින් සැකපිට අත්අඩංගුවට ගෙන තිබේ.
-
-තෙල්දෙණිය පොලිසියට ලද තොරතුරකට අනුව තෙල්දෙණිය පොලිස් වසමේ අයි.සී.සී. නිවාස සංකීර්ණයේ (නො. 1/164) කිසිවෙකුත් පදිංචි නොමැති පාළු නිවසක ගරාජයක් තුළ එම ජීප් රථය නවතා තබා තිබූ බව තෙල්දෙණිය පොලිසිය කියයි.
-
-The police had been identified as a faked number plate in the Mitsubishi's jee.Police say.
-
-The suspicious jeep has been taken into custody by the Tenadeniya and conducting further investigations.
-
-◼️
-
-[Data](articles/460f0ec3.json)
-
-[Extended Data](ext_articles/460f0ec3.ext.json)
-
----
-
-### Emergency notice of the registration of the pig farm
-
-*2024-11-01 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202794) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Emergency: Register pig farms at Veterinary Trust in Lagama. Pigs reported in Western, Northern, North-Central, and North-Western provinces. First-time report."
-
-🟩
-
-The Department of Animal Production and Health will be asked to go to the Veterinary Trust in the Lagama to register all the pot of pot of pot of pot of pot of country.
-
-The pigs at the country's pig farms have been reported to the first time.
-
-Western provinces, North, North-central and North Western Provinces have been reported from the Western Province.. K. Mr. Sarath said.
-
-◼️
-
-[Data](articles/78735227.json)
-
-[Extended Data](ext_articles/78735227.ext.json)
-
----
-
-### 16 Diplomatic Employees Resolution to Return
-
-*2024-11-01 10:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-இராஜதந்திர-ஊழியர்களை-மீள-அழைக்க-தீர்மானம்/175-346403) · `ta`
-
-Sri Lanka government orders immediate recall of 16 diplomats appointed during previous administration based on family and political ties. Ministry of External Affairs confirms notification received, expecting their return soon. Additional appointments to diplomatic posts also underway.
-
-🟩
-
-குடும்ப மற்றும் அரசியல் உறவுகளின் அடிப்படையில் கடந்த நிர்வாகத்தின் போது நியமிக்கப்பட்ட 16 இராஜதந்திர ஊழியர்களை உடனடியாக அமுலுக்கு வரும் வகையில் மீள அழைக்க அரசாங்கம் தீர்மானித்துள்ளது.
-
-The Ministry of External Affairs has announced that it has already been announced to them and is expected to return to Sri Lanka soon.
-
-In addition, many more people appointed to diplomatic positions on the basis of political relations are being carried out.
-
-◼️
-
-[Data](articles/544b892c.json)
-
-[Extended Data](ext_articles/544b892c.ext.json)
 
 ---

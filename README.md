@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 17:24:19**
+As of **2024-11-01 17:41:22**
 
 ## Newspaper Stats
 
-*Scraped **52,554** Articles*
+*Scraped **52,556** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,893
 adaderanalk | 6,244
-tamilmirrorlk | 7,288
+tamilmirrorlk | 7,289
 virakesarilk | 8,475
-adaderanasinhalalk | 9,154
+adaderanasinhalalk | 9,155
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,554 (100.0%) of 52,554 articles have been extended.
+52,556 (100.0%) of 52,556 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Fire in the karaj
+
+*2024-11-01 17:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கராஜில்-தீ-விபத்து/175-346412) · `ta`
+
+Car fire spreads to homes near Rajagiriya. Four service vehicles deployed. Two houses affected.
+
+🟩
+
+A fire broke out in a carge on Rajagiriya - Madinagoda road.
+
+Four Service vehicles have been dispatched to extinguish the fire, the Fire Division of the Fort Municipal Council said.
+
+The fire has now spread to 02 houses, the Fort Fire Department said.
+
+◼️
+
+[Data](articles/a8b9a9a6.json)
+
+[Extended Data](ext_articles/a8b9a9a6.ext.json)
+
+---
+
+### The names of the League of Lanka T10 will be announced
+
+*2024-11-01 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202810) · `si`
+
+League of Lanka T10: Teams announced. Draft on Nov 10. Tournament Dec 12-22.
+
+🟩
+
+The six-day teams competing to the first time in the first time in the six-day teams competing to the first time.
+
+Accordingly, teambu Strikers, Goal Mavles, Jarguz, Moolles, Jafna Titans, Candy Bolts, Cany Bolts, Hambantota Bangla Taigers and Nigambu Braves.
+
+Player drafting of players (selecting players) is due to be held on November 10.
+
+The tournament will be held from December 12 to 22nd December 12th to 22nd December.
+
+◼️
+
+[Data](articles/80c13dc5.json)
+
+[Extended Data](ext_articles/80c13dc5.ext.json)
+
+---
 
 ### Explosion in Pakistan
 
@@ -2277,49 +2323,5 @@ The country has got a standard leader in the ongoing presidential election.He sa
 [Data](articles/f29965f7.json)
 
 [Extended Data](ext_articles/f29965f7.ext.json)
-
----
-
-### Sysco LABS provides the FastTrack Internship Program 2024 with a glimpse into the world of global technology
-
-*2024-11-01 02:18:00* · [`islandlk`](http://island.lk/sysco-labs-provides-the-fasttrack-internship-program-2024-with-a-glimpse-into-the-world-of-global-technology/) · `en`
-
-Sysco LABS recently announced their partnership with the FastTrack Summer Internship Program for 2024 in collaboration with John Keells Holdings and Brandix. FastTrack is a long-running program known in the corporate world that offers a select group of undergraduate’s hands-on corporate experience through a four-week internship. Featuring experiential learning opportunities and exposure to multiple industries across the country’s leading companies, the program provides young talent a platform to translate academic learning into workplace realities.
-
-This year’s edition also offered interns exposure and mentorship to industry leaders at all three organizations with Sysco LABS’ participation providing insight into the IT industry. Sessions covered leadership skills, personal branding, and technical development within an IT context.
-
-...
-
-[Data](articles/87500037.json)
-
-[Extended Data](ext_articles/87500037.ext.json)
-
----
-
-### Diwali
-
-*2024-11-01 02:15:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீபாவளியுடன்-பண்டிகைக்கால-முற்பணம்/175-346379) · `ta`
-
-Diwali bonus increase for Sri Lankan plantation workers: 25% boost from 20,000 to 25,000 rupees. Companies recognize festival's cultural significance, supporting employees financially.
-
-🟩
-
-பிராந்திய பெருந்தோட்ட கம்பனிகள் (RPCs) தமது ஊழியர்களுக்கான பண்டிகைக்கால முற்பணத்தைத் தீபாவளி பண்டிகையுடன் ஆரம்பித்து வைப்பதாக இலங்கை பெருந்தோட்ட முதலாளிமார் சம்மேளனம் (PA ) வியாழக்கிழமை (31) அறிவித்துள்ளது.
-
-அதன்படி, அனைத்து பிராந்திய பெருந்தோட்ட கம்பனிகளின் ஊழியர்களும் முந்தைய 20,000 ரூபாயிலிருந்து 25,000 ரூபாய் வரை உயர்த்தப்பட்ட பண்டிகைக்கால முற்பணத்தைப் பெற்றுள்ளனர்.
-
-This will show a 25 percent increase, while employees will get a 20 per cent increase from 25,000 rupees to 30,000 rupees.
-
-Commenting on the initiative, the Secretary General of the Sri Lanka Plantation Employers Federation, Lalith Obeesekera said,
-
-“Regional plantation companies have made this decision in advance to recognize the cultural importance of the Diwali festival.
-
-By providing increased priority - this has been increased at the latest wage hike, and regains their commitment to support for regional plantation companies, and allows them to observe this festival with advanced peace and financial security. ”
-
-...
-
-[Data](articles/fef3443f.json)
-
-[Extended Data](ext_articles/fef3443f.ext.json)
 
 ---

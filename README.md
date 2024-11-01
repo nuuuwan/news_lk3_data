@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 10:58:37**
+As of **2024-11-01 11:11:54**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ adaderanasinhalalk | 9,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,503 (100.0%) of 52,506 articles have been extended.
+52,506 (100.0%) of 52,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### ජොන්ස්ටන් අධිකරණයට ඉදිරිපත්වීමෙන් පසු වරෙන්තුව ආපසු කැඳවයි
+### Warrant is taken back after Johnston is contesting to court
 
 *2024-11-01 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202795) · `si`
 
-අල්ලස් කොමිසම විසින් ගොනු කළ නඩුවකට පෙනී නොසිටීම නිසා  වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා අද (01) ඉදිරිපත්වීමෙන් අනතුරුව වරෙන්තුව ආපසු කැඳවා අමතර ඇපයක් මත මුදාහැරීමට කොළඹ මහාධිකරණය නියෝග කළේය.
+Johnston Fernando's bribery case: Warrant revoked, additional bail set. Case heard by Colombo High Court Judge Manjula Tilakaratne. President's Counsel Paris Kalinga Inderithas represented Fernando. Bribery Commission accuses Fernando and two others of corruption during official duties.
 
-කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ නඩුව කැඳවා තිබුණි.
+🟩
 
-ජොන්ස්ටන් ප්‍රනාන්දු මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා සඳහන් කළේ, නඩුව කැඳවූ ඉකුත් 23 වනදා මෙම විත්තිකරු අධිකරණයට නොපැමිණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ප්‍රකාශයක් දීම සඳහා ගොස් ඇති බවය.
+Former Minister Johnston Fernando issued a warrant by the Bribery Commission, he ordered the warrant to revert the warrant and released on an added bail.
 
-කෙසේ වෙතත් විත්තිකරු ඉදිරිපත් කරන කරුණු කෙරෙහි සෑහීමකට පත්විය නොහැකි බව සඳහන් කළ විනිසුරුවරයා ඔහුට අමතර ඇපයක් නියම කරන බව නියෝග කළේය.
+The case was called before Colombo High Court Judge Manjula Tilakaratne.
 
-ඒ අනුව ජෝන්ස්ටන් ප්‍රනාන්දු මහතා රුපියල් 25,000ක මුදල් ඇප සහ රුපියල් ලක්ෂ 10ක ශරීර ඇපයක් මත මුදාහැරීමට නියෝග කළ විනිසුරුවරයා ඇප තැන්පත් කිරීමෙන් පසුව විත්තිකරු මුදාහරින ලෙසත් නියෝග කළේය.
+President's Counsel, Attorney at Law Paris Kalinga Inderthis, who appeared for Johnston Fernando, the accused had gone to the Criminal Investigation Department to the Criminal Investigation Department.
 
-...
+However, the judge, noted that the defendant cannot be satisfied with the contents of the defendant, he ordered him to have an additional guarantee.
+
+Accordingly, Mr. Johnston Fernando ordered the release of Rs.
+
+The Bribery Commission has filed the case against three defendants including former Minister Joneston Fernando, including former Minister Joneston Fernando, who accused the government from their official duties and depriving the government from their official duties.
+
+◼️
 
 [Data](articles/588d3deb.json)
+
+[Extended Data](ext_articles/588d3deb.ext.json)
 
 ---
 

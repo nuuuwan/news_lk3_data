@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 09:59:22**
+As of **2024-11-01 10:13:12**
 
 ## Newspaper Stats
 
-*Scraped **52,495** Articles*
+*Scraped **52,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,187
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,883
-adaderanalk | 6,233
-tamilmirrorlk | 7,281
+adaderanalk | 6,234
+tamilmirrorlk | 7,282
 virakesarilk | 8,468
 adaderanasinhalalk | 9,140
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,488 (100.0%) of 52,495 articles have been extended.
+52,492 (100.0%) of 52,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### 16 இராஜதந்திர ஊழியர்களை மீள அழைக்க தீர்மானம்
+
+*2024-11-01 10:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/16-இராஜதந்திர-ஊழியர்களை-மீள-அழைக்க-தீர்மானம்/175-346403) · `ta`
+
+குடும்ப மற்றும் அரசியல் உறவுகளின் அடிப்படையில் கடந்த நிர்வாகத்தின் போது நியமிக்கப்பட்ட 16 இராஜதந்திர ஊழியர்களை உடனடியாக அமுலுக்கு வரும் வகையில் மீள அழைக்க அரசாங்கம் தீர்மானித்துள்ளது.
+
+இது தொ்டர்பில் அவர்களுக்கு ஏற்கெனவே அறிவிக்கப்பட்டுள்ளதாகவும், அவர்கள் விரைவில் இலங்கை திரும்புவார்கள் என எதிர்பார்க்கப்படுவதாகவும் வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+
+அத்துடன், அரசியல் தொடர்புகளின் அடிப்படையில் இராஜதந்திர பதவிகளுக்கு நியமிக்கப்பட்டுள்ள மேலும் பல நபர்களை மீள அழைக்கும் திட்டங்கள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/544b892c.json)
+
+---
+
+### 2 dead, over 30 injured as bus carrying uni students topples in Badulla
+
+*2024-11-01 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103082/2-dead-over-30-injured-as-bus-carrying-uni-students-topples-in-badulla) · `en`
+
+At least two persons have been confirmed dead after a bus carrying around 40 passengers toppled across the road at Dunhinda Road in Badulla this morning (01), injuring 35 persons.
+
+Two female students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) have been reported dead after the bus they were travelling in, while on a field trip, toppled down a precipice at Dunhinda Road in Badulla.
+
+The injured passengers are being rushed to the Badulla Hospital, according to Ada Derana reporter.
+
+A bus carrying a group of university students had reportedly overturned at around 7:45 a.m. today.
+
+The accident had occurred between the third and fourth kilometer posts on the Badulla-Mahiyanganaya main road, near the Dunhinda access road, after the bus collided with a bund.
+
+According to police, a significant number of university students have sustained serious injuries in the accident.
+
+◼️
+
+[Data](articles/ff7c284a.json)
+
+[Extended Data](ext_articles/ff7c284a.ext.json)
+
+---
 
 ### 35 wounded in Badulla bus accident
 
@@ -710,6 +750,8 @@ The former MP made these comments while addressing a press conference at the Sam
 
 [Data](articles/bf476623.json)
 
+[Extended Data](ext_articles/bf476623.ext.json)
+
 ---
 
 ### Lohan Ratwatte arrested over illegally assembled SUV
@@ -723,6 +765,8 @@ Former Plantation Industries and Mahaweli Development State Minister Lohan Ratwa
 ...
 
 [Data](articles/3b9710a6.json)
+
+[Extended Data](ext_articles/3b9710a6.ext.json)
 
 ---
 
@@ -741,6 +785,8 @@ Upon returning, the delegation will share their experience through social media,
 ...
 
 [Data](articles/dd68407d.json)
+
+[Extended Data](ext_articles/dd68407d.ext.json)
 
 ---
 
@@ -2209,55 +2255,5 @@ The Secretary to the Ministry of Finance Mahinda Siriwardena said that the count
 [Data](articles/2e96fbc5.json)
 
 [Extended Data](ext_articles/2e96fbc5.ext.json)
-
----
-
-### Smap Vaccine Program covering 12 District in 06 days
-
-*2024-10-31 15:39:44* · [`adalk`](https://www.ada.lk/breaking_news/දින-06කදී-දිස්ත්‍රික්-12ක්-ආවරණය-කරන-සරම්ප-එන්නත්-වැඩසටහන/11-412779) · `si`
-
-Sri Lanka's Smap Vaccine Program covers 12 districts in 6 days. The Ministry of Health launched this campaign from November 4th to 9th. The goal is to vaccinate residents in these areas.
-
-🟩
-
-Amazing vaccination campaign is being carried out from 12 main districts from the 4th to 9., the Epidemiology of the Ministry of Health said.
-
-"Fundamentally vaccination in Sri Lanka is primarily to the 12 major districts selected in Sri Lanka until the 9th of November. The objective is mainly star. "
-
-◼️
-
-[Data](articles/b74adfff.json)
-
-[Extended Data](ext_articles/b74adfff.ext.json)
-
----
-
-### LAHON BUYs the Ratwatte to Mirihana
-
-*2024-10-31 15:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202771) · `si`
-
-Former State Minister Lohan Ratwatte arrested over unregistered car in Mirihana. Police seized vehicle after court order. Incident linked to wife's family history.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested in the Kandy area, has been taken to the Mirihana Police.
-
-Former State Minister LAAON Ratwatte was arrested regarding the discovery of a car without number plates despite his wife in Mirihana, Nugegoda.
-
-The relevant car without registration number plates was found last 26.
-
-According to the police headquarters, the wife of the Mirihana Hall, the wife of former Minister of State LAHYRAHATHTAGE, has a luxury car in the Mirihana Hall.
-
-According to the information, the Mirihana Police were later reported to the Nugegoda Magistrate's Court and then visited the vehicle.
-
-The former minister's wife's wife's wife's wife's wife's wife's wife's wife's wife's mother, who was shot dead in Katugastota, was brought to the house of Katugastota several days ago.
-
-The luxury car of the registration number plates and the key should be taken to the Mirihana Police.
-
-◼️
-
-[Data](articles/a20abe80.json)
-
-[Extended Data](ext_articles/a20abe80.ext.json)
 
 ---

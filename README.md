@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 06:45:39**
+As of **2024-11-01 07:28:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,131
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,459 (100.0%) of 52,474 articles have been extended.
+52,464 (100.0%) of 52,474 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ SLDF and MBFWSL will be held at Cinnamon Life City of Dreams, 7 to 10 November w
 
 [Data](articles/4f2deb88.json)
 
+[Extended Data](ext_articles/4f2deb88.ext.json)
+
 ---
 
 ### Prima triumphs at National Supply Chain Excellence Awards for 2nd consecutive year
@@ -59,6 +61,8 @@ Ceylon Agro Industries (CAI) Ltd. (Prima Group Sri Lanka) was honoured with the 
 ...
 
 [Data](articles/19262e5b.json)
+
+[Extended Data](ext_articles/19262e5b.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ Gross Profit of the Group posted at Rs. 3.2 billion for the first half of FY2024
 
 [Data](articles/1848ae31.json)
 
+[Extended Data](ext_articles/1848ae31.ext.json)
+
 ---
 
 ### Ceylon Business Appliances celebrates 54 years of excellence
@@ -91,6 +97,8 @@ CBA’s journey of innovation began in the 1970s with the introduction of Barrow
 ...
 
 [Data](articles/0f92993c.json)
+
+[Extended Data](ext_articles/0f92993c.ext.json)
 
 ---
 
@@ -135,6 +143,8 @@ Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan eli
 ...
 
 [Data](articles/0163ffa9.json)
+
+[Extended Data](ext_articles/0163ffa9.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 13:59:50**
+As of **2024-11-01 14:12:35**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 9,147
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,530 (100.0%) of 52,531 articles have been extended.
+52,531 (100.0%) of 52,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### ජනතාව අමාරුවේ වැටුණාම අපි පැනලායන්නේ නැහැ - දිලිත්
+### When the people fall into trouble, we do not escape - Dilith
 
 *2024-11-01 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202802) · `si`
 
-සැබෑ විපක්ෂයේ වගකීම් ඉටු කිරීමට එඩිතර විපක්ෂය ලෙස තම කණ්ඩායම සූදානම් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera addresses Kelaniya electorate, emphasizes need for courageous opposition.
 
-සර්වජන බලයේ කැලණිය ආසන බල මණ්ඩලය අමතමින් ඔහු මේ බව කියා සිටියේය.
+🟩
 
-සර්වජන බලයේ කැලණිය ආසන බලමණ්ඩල රැස්වීම ඊයේ (31)පස්වරුවේ පක්ෂ නායක ව්‍යවසායක දිලිත් ජයවීර මහතාගේ ප්‍රධානත්වයෙන් එලෙස පැවැත්වුණි.
+Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that his group is ready to fulfill the responsibilities of the real opposition.
 
-සර්වජන බලයේ නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතා,
+He was addressing the Kelaniya Seathouse Board in the universal power.
 
-"ශ්‍රී ලංකාවේ යම් දේශපාලන පරිවර්ථනයක් සිදු වුණා නම් 51දී... ඒ 56යේ විප්ලවයට මගපාදපු 51කේ පරිවර්ථනය නැවත ඉපදුනා නම් ඒ පුනරුත්පත්තිය තමයි සර්වජන බලය. ඔබ වෙනුවෙන් පෙනීසිටින නායකත්වයක් ඉන්න සර්වජන බලය.... පස්ස දොරෙන් පැනලායන්නේ නැති... ඔබත් එක්කම මේ ගමනේ ඉස්සරහින් යනවා. ඒක තමයි අපේ නායකත්වය."
+The Kelaniya electorate, the Kelaniya electorate, was held under the patronage of party leader Dilith Jayaweera yesterday.
 
-"අපිට ඕනේ විපක්ෂය. බස් එලවන විපක්ෂය නෙමෙයි. මේක එඩිතර විපක්ෂය. මේ එඩිතර විපක්ෂය එන්නේ විපක්ෂයේම ඉන්න නෙමෙයි. බලය ගන්නයි එන්නේ එඩිතරව. කකුලෙන් ඇදලා නෙමෙයි."
+Leader of the Universal Point, Gampaha District Candidate, Entrepreneurship Dilith Jayaweera,
+
+"In 51 if there was any political interpretation in Sri Lanka,. The 51k Convertance to the 56 Revolution 51 K. That was the reincarnation of the universal power. The universal power of the leadership standing for you .... The next door does not escape.. As well as you go in front of this trip. That's our leadership. "
+
+"We want the opposition. The bus is not the opposition. This is the courageous opposition. The bold opposition is not in the opposition. The power comes to dare. Not from the leg. "
 
 ◼️
 
 [Data](articles/c77e02be.json)
+
+[Extended Data](ext_articles/c77e02be.ext.json)
 
 ---
 

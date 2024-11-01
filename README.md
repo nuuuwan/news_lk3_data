@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 19:12:06**
+As of **2024-11-01 19:24:41**
 
 ## Newspaper Stats
 
-*Scraped **52,563** Articles*
+*Scraped **52,565** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 533
-bbccomsinhala | 538
+bbccomsinhala | 539
 islandlk | 3,133
 economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,894
-adaderanalk | 6,245
+adaderanalk | 6,246
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
 adaderanasinhalalk | 9,159
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,563 (100.0%) of 52,563 articles have been extended.
+52,565 (100.0%) of 52,565 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,6 +36,10 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-01 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202814) · `si`
 
+Presidential Media Division clarifies: Former President Mahinda Rajapaksa's security reduced.
+
+🟩
+
 The Presidential Media Unit has explained to the media reports that former President Mahinda Rajapaksa has reduced security.
 
 ◼️
@@ -43,6 +47,22 @@ The Presidential Media Unit has explained to the media reports that former Presi
 [Data](articles/6ef0450e.json)
 
 [Extended Data](ext_articles/6ef0450e.ext.json)
+
+---
+
+### Online appointment system for new passports to be launched soon
+
+*2024-11-01 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103093/online-appointment-system-for-new-passports-to-be-launched-soon) · `en`
+
+The Department of Immigration and Emigration says that an online appointment system is being prepared for applications to obtain passports and that it will be launched soon.
+
+It further said that currently there are 50,000 blank passports available and that a stock of 100,000 passports will be received in November with another 150,000 expected in December.
+
+◼️
+
+[Data](articles/8e297fb0.json)
+
+[Extended Data](ext_articles/8e297fb0.ext.json)
 
 ---
 
@@ -683,6 +703,38 @@ Kandy: Luxury car seized near Victoria Park housing complex. No other owners fou
 [Data](articles/b32d768d.json)
 
 [Extended Data](ext_articles/b32d768d.ext.json)
+
+---
+
+### Who is Hans Wijesuriya who was chasing in a presidential adviser position?
+
+*2024-11-01 13:18:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c14ljp73y7po) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Hans Wijesuriya, a telecommunications expert, was appointed as Sri Lanka's Chief Adviser for Digital Economy. He previously led companies like Dialog and Axiata Group. Wijesuriya holds degrees from Cambridge and Warwick universities and has received awards for his contributions to the industry.
+
+🟩
+
+President Anura Kumara Dissanayake has appointed Dr. Hans Wijesuriya as the Chief Adviser of its Digital Economic.
+
+'Reflecting economic growth, national competitization and benefit to all citizens, the President has made its appointment and commitment to the country, making the appointment and commitment to Sri Lanka, making the appointment of this appointment and the President has issued a statement.The media section says.
+
+Dr. Hans Wijesuriya will lead the Board of Information and Communication Technology Agency (ICTA) to the Board of Information and Communication Technology (ICTA).Available.
+
+Former Government Auditor General PMW. Husband Wijesuriya and Susilla Wijesuriya was born on April 2, 1968.
+
+Hans studied at St. Thomas College, Mount Lavinia, attended several foreign universities for higher education.
+
+SriLankan Airlines: ලංසු තැබූ හේලීස් සමාගමේ දෙදෙනෙක් අධ්‍යක්ෂ මණ්ඩලයට දැමීම ප්‍රශ්නසහගත ඇයි?
+
+...
+
+[Data](articles/069c66e1.json)
+
+[Extended Data](ext_articles/069c66e1.ext.json)
 
 ---
 
@@ -2293,35 +2345,5 @@ Travellers can now enjoy up to 10GB of data for just USD 5 with a weekly plan, o
 [Data](articles/fd918ff4.json)
 
 [Extended Data](ext_articles/fd918ff4.ext.json)
-
----
-
-### Teejay closes H1 charting a strong course for future
-
-*2024-11-01 02:51:00* · [`islandlk`](http://island.lk/teejay-closes-h1-charting-a-strong-course-for-future/) · `en`
-
-Teejay Group, Sri Lanka’s first multinational textile manufacturer, recorded a Profit after Tax of LKR 0.9 Bn for the first half of the financial year ending 30th September 2024. The Group Revenue reached a notable LKR 32.7 billion, recording an 11% increase compared to the first half of the previous year.
-
-Gross Profit of the Group posted at LKR 3.2 Bn for the first half of FY2024/25 with a 47% improvement when compared to the same period in the previous financial year with a strong balance sheet and a cash balance of LKR 8.4 Bn. The net assets base at the close of the period under review stood at LKR 30.4 Bn, with a value of LKR 42.19 net assets per share.
-
-...
-
-[Data](articles/664e4c61.json)
-
-[Extended Data](ext_articles/664e4c61.ext.json)
-
----
-
-### The Executive Centre investing USD 750k to expand its presence in Sri Lanka
-
-*2024-11-01 02:37:00* · [`islandlk`](http://island.lk/the-executive-centre-investing-usd-750k-to-expand-its-presence-in-sri-lanka/) · `en`
-
-The Executive Centre (TEC), Asia’s largest premium workspace provider with a presence in 16 countries across Asia-Pacific, Middle East and Australia, is poised to further expand its footprint in Sri Lanka. As part of its strategic growth, TEC has invested USD 750K to open a new floor in the East Tower of the World Trade Center in Colombo. This follows TEC’s maiden entry into Sri Lanka in 2017, when it first established two centres in the West Tower of the World Trade Center and one centre at MAGA One.
-
-...
-
-[Data](articles/97e6c1f3.json)
-
-[Extended Data](ext_articles/97e6c1f3.ext.json)
 
 ---

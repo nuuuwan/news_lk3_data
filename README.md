@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 22:39:55**
+As of **2024-11-01 23:40:40**
 
 ## Newspaper Stats
 
-*Scraped **52,590** Articles*
+*Scraped **52,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
-tamilmirrorlk | 7,293
+tamilmirrorlk | 7,294
 virakesarilk | 8,487
 adaderanasinhalalk | 9,162
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,590 (100.0%) of 52,590 articles have been extended.
+52,591 (100.0%) of 52,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Accident in Nuwara Eliya - One death
+
+*2024-11-01 22:56:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கோர-விபத்து-ஒருவர்-மரணம்/76-346429) · `ta`
+
+Nuwara Eliya: Van-lorry collision kills one, injures 19. Accident occurred at 6:50 PM on Radella branch road. Injured taken to Nuwara Eliya Hospital.
+
+🟩
+
+A man was killed in a vehicle accident at a Nuwara Eliya - Radella branch road at around 06.50 pm today.
+
+The accident occurred when a van and a lorry collided face -to -face.
+
+It is reported that 19 people were injured in the accident and the injured were admitted to the Nuwara Eliya Hospital.. Remble
+
+◼️
+
+[Data](articles/dd917005.json)
+
+[Extended Data](ext_articles/dd917005.ext.json)
+
+---
 
 ### One killed, 19 injured in van-lorry collision
 
@@ -2467,33 +2489,5 @@ The Election Commission further stated that postal voters who are unable to cast
 [Data](articles/f38cc675.json)
 
 [Extended Data](ext_articles/f38cc675.ext.json)
-
----
-
-### Sri Lanka deflation 0.8-pct in 12-months to October 2024, up 0.3-pct over 25 months
-
-*2024-11-01 08:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-0-8-pct-in-12-months-to-october-2024-up-0-3-pct-over-25-months-185796/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s consumer price inflation was down 0.8 percent in the 12 months ending October 2024 and rose only 0.3 percent over 25 months since the central bank’s deflationary policy started to show up in the balance of payments.
-
-Sri Lanka Colombo Consumer Price Index fell 0.5 percent to 189.9 points in October 2024 from 190.9 points in September.
-
-The food price index fell 0.6 percent 231.9 points from 233.3 points.
-
-The widely watched Colombo Consumer Price Index was 189.3percent in September 2022 when the central bank’s deflationary policy started to show in the balance of payments as a surplus.
-
-Since then the central bank has also allowed the currency to appreciate.
-
-Sri Lanka’s central bank usually triggers fore shortages by printing money to buy domestic assets from primary or open markets, either through outright or term transactions.
-
-Debate erupts in Sri Lanka over money printed for open vs primary market
-
-Sri Lanka central bank defends open market operations as concerns rise
-
-...
-
-[Data](articles/ff18c516.json)
-
-[Extended Data](ext_articles/ff18c516.ext.json)
 
 ---

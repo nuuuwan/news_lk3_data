@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 05:46:46**
+As of **2024-11-01 06:13:55**
 
 ## Newspaper Stats
 
-*Scraped **52,448** Articles*
+*Scraped **52,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 532
 bbccomsinhala | 535
-islandlk | 3,123
+islandlk | 3,129
 economynextcom | 3,187
 dailyftlk | 3,579
 dailymirrorlk | 4,733
@@ -26,11 +26,77 @@ adaderanasinhalalk | 9,130
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,448 (100.0%) of 52,448 articles have been extended.
+52,453 (100.0%) of 52,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### ‘Stay connected abroad with HUTCH’s unbeatable data roaming deals’
+
+*2024-11-01 02:57:00* · [`islandlk`](http://island.lk/stay-connected-abroad-with-hutchs-unbeatable-data-roaming-deals/) · `en`
+
+HUTCH, one of Sri Lanka’s leading mobile network service providers, continues to strengthen its position as the preferred and most affordable choice for outbound data roaming services, with its extensive global coverage. Offering flexible plans, HUTCH data roaming caters to both short and long-duration travellers for leisure, business, pilgrimage, or education.
+
+Travellers can now enjoy up to 10GB of data for just USD 5 with a weekly plan, or opt for a 30GB monthly plan for just USD 15. These plans are designed to provide absolute peace of mind, ensuring users have uninterrupted connectivity while staying within their budget. HUTCH Sri Lanka has partnered with top mobile networks around the globe to provide quality connectivity anywhere. Accordingly, these data roaming plans cover all key travel destinations and more.
+
+...
+
+[Data](articles/fd918ff4.json)
+
+[Extended Data](ext_articles/fd918ff4.ext.json)
+
+---
+
+### Teejay closes H1 charting a strong course for future
+
+*2024-11-01 02:51:00* · [`islandlk`](http://island.lk/teejay-closes-h1-charting-a-strong-course-for-future/) · `en`
+
+Teejay Group, Sri Lanka’s first multinational textile manufacturer, recorded a Profit after Tax of LKR 0.9 Bn for the first half of the financial year ending 30th September 2024. The Group Revenue reached a notable LKR 32.7 billion, recording an 11% increase compared to the first half of the previous year.
+
+Gross Profit of the Group posted at LKR 3.2 Bn for the first half of FY2024/25 with a 47% improvement when compared to the same period in the previous financial year with a strong balance sheet and a cash balance of LKR 8.4 Bn. The net assets base at the close of the period under review stood at LKR 30.4 Bn, with a value of LKR 42.19 net assets per share.
+
+...
+
+[Data](articles/664e4c61.json)
+
+[Extended Data](ext_articles/664e4c61.ext.json)
+
+---
+
+### Atlas World introduces innovative Quiz Master Mobile App to enhance Sri Lanka’s student learning
+
+*2024-11-01 02:37:00* · [`islandlk`](http://island.lk/atlas-world-introduces-innovative-quiz-master-mobile-app-to-enhance-sri-lankas-student-learning/) · `en`
+
+Atlas, the premier learning brand in Sri Lanka that has been a cornerstone in local education for over 65 years, provides significant support to overcome the unique educational challenges of children in this country. The company created Atlas World to provide additional educational knowledge to children, elevating Sri Lankan students into a unique learning environment.
+
+It delivers several benefits including expanding educational opportunities for children through specially designed learning methods, creating digital innovations that enable children to study in their own way, and conducting free online classes to provide knowledge to children beyond school education. Atlas World’s newest educational addition is the launch of the Quiz Master mobile app.
+
+...
+
+[Data](articles/bd00d7f0.json)
+
+[Extended Data](ext_articles/bd00d7f0.ext.json)
+
+---
+
+### Insights into Sri Lanka’s ‘fear-driven politics’
+
+*2024-11-01 02:24:00* · [`islandlk`](http://island.lk/insights-into-sri-lankas-fear-driven-politics/) · `en`
+
+In a candid and impassioned address to a group of supporters, a National People’s Power (NPP) National List candidate, Benita Prishanthi Hettithanthri, laid bare Sri Lanka’s political history, highlighting the importance of the country’s current political moment.
+
+Addressing an audience of women, in Colombo recently, she touched on decades of political turmoil, fear-driven elections and systemic corruption, painting a picture of a nation that has long been manipulated by divisive politics.
+
+“We are in Sri Lanka at a very exciting moment, Benita began. “We have had a huge change in our political area… no one expected that we could have such a big change as what we experienced in bringing our President to power.”
+
+...
+
+[Data](articles/a3dbb371.json)
+
+[Extended Data](ext_articles/a3dbb371.ext.json)
+
+---
 
 ### People will respond to those who don't want
 
@@ -62,6 +128,22 @@ After the election, the Tamil parties should be created. As well as the people's
 
 ---
 
+### Thilan Wijesinghe joins Mahindra Ideal Finance Board as Independent Non-Executive Director
+
+*2024-11-01 02:19:00* · [`islandlk`](http://island.lk/thilan-wijesinghe-joins-mahindra-ideal-finance-board-as-independent-non-executive-director/) · `en`
+
+Thilan Wijesinghe (investment banker and owner of TWC group and pioneer of PPPs in Sri Lanka) joins Mahindra Ideal Finance Limited (MIFL) as an Independent Non-Executive Director. MIFL is a joint venture between Mahindra & Mahindra Financial Services Ltd (Mahindra Finance) of India and Ideal Motors of Sri Lanka.
+
+This appointment aligns with the company’s ongoing growth strategy, following the recent appointment of Mufaddal Choonia, who has held many senior positions at the Mahindra Group in India, as Managing Director & CEO of MIFL in July 2024. Together, these leadership additions mark a significant step forward in Mahindra Ideal Finance’s mission of playing an active role in Sri Lanka’s finance sector by offering innovative financial solutions.
+
+...
+
+[Data](articles/cf83a661.json)
+
+[Extended Data](ext_articles/cf83a661.ext.json)
+
+---
+
 ### 20 க்கு இல்லையெனில்,  200க்கா  தூக்கினார்?
 
 *2024-11-01 02:18:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-க்கு-இல்லையெனில்-200க்கா-தூக்கினார்/175-346380) · `ta`
@@ -87,6 +169,20 @@ The country has got a standard leader in the ongoing presidential election.He sa
 [Data](articles/f29965f7.json)
 
 [Extended Data](ext_articles/f29965f7.ext.json)
+
+---
+
+### Sysco LABS provides the FastTrack Internship Program 2024 with a glimpse into the world of global technology
+
+*2024-11-01 02:18:00* · [`islandlk`](http://island.lk/sysco-labs-provides-the-fasttrack-internship-program-2024-with-a-glimpse-into-the-world-of-global-technology/) · `en`
+
+Sysco LABS recently announced their partnership with the FastTrack Summer Internship Program for 2024 in collaboration with John Keells Holdings and Brandix. FastTrack is a long-running program known in the corporate world that offers a select group of undergraduate’s hands-on corporate experience through a four-week internship. Featuring experiential learning opportunities and exposure to multiple industries across the country’s leading companies, the program provides young talent a platform to translate academic learning into workplace realities.
+
+This year’s edition also offered interns exposure and mentorship to industry leaders at all three organizations with Sysco LABS’ participation providing insight into the IT industry. Sessions covered leadership skills, personal branding, and technical development within an IT context.
+
+...
+
+[Data](articles/87500037.json)
 
 ---
 
@@ -2363,159 +2459,5 @@ President Dissanayake added that "this government should reach the villages to d
 [Data](articles/5350a92e.json)
 
 [Extended Data](ext_articles/5350a92e.ext.json)
-
----
-
-### Coconut issue will continue until April
-
-*2024-10-31 10:42:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேங்காய்-பிரச்சினை-ஏப்ரல்-வரை-தொடரும்/175-346350) · `ta`
-
-Coconut shortage persists till April 2024 due to drought and rising temperatures. Production declined significantly compared to previous years. Authorities consider importing coconuts for export to address supply issues.
-
-🟩
-
-The Coconut Research Institute has said that the fall of coconut production in the country will continue until April next year.
-
-Compared to last year, the production of coconut production is a mutant decline in the year, said Dr. Nayani Arachike, the Director of the House.
-
-Dr. Nayani Arachike said that the lack of rainfall and the increase in temperature during the appropriate season has led to a decrease in coconut production.
-
-Thus, until April next year, it is expected to get lower yields than expected.
-
-Director of Coconut Research Institute Dr. Nayani Arachike said that an idea of ​​importing coconut pulses has been submitted for export purposes to curb coconut shortages in the country.
-
-“The Coconut Development Authority has recommended that a certain amount of coconuts will be sold through the Colombo Coconut Obspan.
-
-The Coconut Development Authority has been nominated to conduct the coconut auction for 100 rupees.
-
-...
-
-[Data](articles/fbdacb4b.json)
-
-[Extended Data](ext_articles/fbdacb4b.ext.json)
-
----
-
-### Two unknown bodies
-
-*2024-10-31 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202761) · `si`
-
-Two unidentified bodies found in Sri Lanka: one in Bogalawantalawa, another in Kandy Road, Peliyagoda. Both males, ages 35-40 and 55-60. Investigations ongoing.
-
-🟩
-
-Two unidentified bodies have been found in the Peliyanwa and Peliyagoda Police Divisions, police said.
-
-One body has been found in the Bagavanamane Watta area in Bogalawantalawa yesterday morning (30).
-
-The police said that it was 35 to 40 years of age and a male in height.
-
-He added that he was last black long pants and white and white and white and white.
-
-The death inspection of the body have been placed at the morgue of the Dikoya hospital morgue and the Bogawantalawa Police are conducting further investigations.
-
-The body of the Peliyagoda, Kandy road, the body found in the Kandy road, is also a male.
-
-An investigation was conducted on information received by the Peliyagoda Police last evening, but the identity of the deceased has not been confirmed.
-
-The body has been deposited at the mortuary of the Colombo hospital.
-
-The deceased is about 55 and 60 years of age and 5 inches are five feet five feet.
-
-He lasts a blue and gray and gray and a red trick.
-
-◼️
-
-[Data](articles/4ddc02cb.json)
-
-[Extended Data](ext_articles/4ddc02cb.ext.json)
-
----
-
-### A racket of deceiving women who went to the house
-
-*2024-10-31 10:27:13* · [`adalk`](https://www.ada.lk/breaking_news/ගෘහ-සේවයට-ගොස්-ආපු-කාන්තාවන්-රවටා-මුදල්-ගරන-ජාවාරමක්/11-412770) · `si`
-
-Dambulla police investigating scam targeting women. Two men posing as home service providers cheat women out of money and valuables. Victim reports being approached by duo offering financial assistance and appliances. Police investigating fraud involving Rs. 20 lakhs.
-
-🟩
-
-The Dambulla Police have commenced investigations into a racket of Rs.
-
-A woman named M.jee 'Dambulla has complained to the Dambulla Police.
-
-මැදපෙරදිග රටවල  ගෘහ සේවය සඳහා  ගොස් නැවත නිවෙස් වලට පැමිණෙන දිවයිනේ විවිධ ප්‍රදේශවල ගෘහ සේවිකාවන්ගේ සියලු දත්ත තොරතුරු සමග වෑන් රථයකින් පැමිණෙන පුද්ගලයන් දෙදෙනෙකු රට විරුවන් සඳහා විශේෂ ණය සහන පැකේජයක් මෙන්ම ගෘහ උපකරණ විදුලි උපකරණ සහනදායී ක්‍රමයක් යටතේ ලබාදෙන බව පවසමින් එම කාන්තාවන් රවටා මෙම මූල්‍ය වංචාව සිදු කරන බව පැමිණිල්ලේ සඳහන්ව තිබෙන්න බව පොලිසිය කියයි
-
-ජාවාරම්කරුවන් හට හසු වූ දඹුල්ල පහළවැව, බටුයාය ප්‍රදේශයේ පදිංචි එම්.ජි.ඞී චම්පිකා පැමිණිල්ල ඉදිරිපත් කරන ලද කාන්තාවද මෙම ජාවාරම්කරුවන් දෙදෙනෙකු රුපියල් ලක්ෂ 20 ක මුදලක්   සීයට තුනේ සහන ණය මුදලක් ලබා ගැනීම සහ විදුලි උපකරණ ගෘහ උපකරණ ලබා ගැනීම සඳහා රුපියල්   දෙලක්ෂ දාසය දාහක මුදලක් ලබාදී තිබෙන බවත් පොලිස් පැමිණිල්ලේ සඳහන් කොට තිබේ.
-
-...
-
-[Data](articles/47e4ff58.json)
-
-[Extended Data](ext_articles/47e4ff58.ext.json)
-
----
-
-### Ranil's statement on losing the privileges of former chiefs
-
-*2024-10-31 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202760) · `si`
-
-Here's a summary of the statement in 200 characters:
-
-
-
-Former President Ranil Wickremesinghe argues against granting privileges to ex-presidents without proper consideration. He believes such decisions should be made thoughtfully rather than hastily.
-
-🟩
-
-Former President Ranil Wickremesinghe says that the privileges given to former presidents should not be made without doing.
-
-◼️
-
-[Data](articles/62a1e436.json)
-
-[Extended Data](ext_articles/62a1e436.ext.json)
-
----
-
-### Maldivian President to visit Sri Lanka soon - envoy
-
-*2024-10-31 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103058/maldivian-president-to-visit-sri-lanka-soon-envoy) · `en`
-
-A meeting between Secretary to the President Dr. Nandika Sanath Kumanayake and High Commissioner of Maldives to Sri Lanka Masood Imad held at the Presidential Secretariat, on Wednesday (30).
-
-During their discussion, the High Commissioner conveyed the Maldivian President’s intention to visit Sri Lanka soon.
-
-They also explored ways to further enhance the long-standing friendship between the two nations, according to the President’s Media Division (PMD).
-
-The conversation touched on various areas of mutual interest, including the development of tourism, health, and education in both Maldives and Sri Lanka.
-
-Deputy High Commissioner of Maldives to Sri Lanka Mrs. Fathimath Ghina was also present at the meeting, it added.
-
-◼️
-
-[Data](articles/577fd82a.json)
-
-[Extended Data](ext_articles/577fd82a.ext.json)
-
----
-
-### PM discusses foreign employment and investment with Italian Ambassador
-
-*2024-10-31 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103057/pm-discusses-foreign-employment-and-investment-with-italian-ambassador) · `en`
-
-Ambassador of Italy to Sri Lanka Damiano Francovigh has met with Prime Minister Dr. Harini Amarasuriya at the Prime Minister’s Office on Wednesday (30).
-
-The meeting reinforced the longstanding diplomatic relationship between Italy and Sri Lanka, with both parties discussing key areas for enhanced collaboration, the Prime Minister’s Media Division said in a statement.
-
-A primary focus of the meeting was on foreign employment opportunities in Italy, particularly the role of skilled migration, the statement added.
-
-Prime Minister Amarasuriya underscored the importance of training Sri Lankan migrant workers through the Vocational Training Authority to support this demand. Both sides emphasized the role of supportive policies in attracting tourists and investors, recognizing their contributions to the nation’s economic development, it said.
-
-...
-
-[Data](articles/5157769a.json)
-
-[Extended Data](ext_articles/5157769a.ext.json)
 
 ---

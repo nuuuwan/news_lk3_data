@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 11:40:34**
+As of **2024-11-01 12:00:26**
 
 ## Newspaper Stats
 
-*Scraped **52,509** Articles*
+*Scraped **52,512** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 414
 colombotelegraphcom | 533
 bbccomsinhala | 536
 islandlk | 3,133
-economynextcom | 3,187
+economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,886
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,509 (100.0%) of 52,509 articles have been extended.
+52,512 (100.0%) of 52,512 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -121,6 +121,28 @@ The Bribery Commission has filed the case against three defendants including for
 [Data](articles/588d3deb.json)
 
 [Extended Data](ext_articles/588d3deb.ext.json)
+
+---
+
+### Sri Lanka rupee trades stronger at 292.80/85 to dollar, bonds steady
+
+*2024-11-01 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-292-80-85-to-dollar-bonds-steady-185829/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted around 292.80/85 to the US dollar Thursday, stronger from 293.00/20 to the US dollar Wednesday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 quoted at10.65/85 percent Thursday, from Wednesday’s close of 10.60/80 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.40/50 percent down from 11.45/60 percent.
+
+A bond maturing on 15.03.2028 was quoted 11.70/80 percent down from 11.75/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent unchanged from 11.95/12.10 percent. (Colombo/Oct30/2024)
+
+◼️
+
+[Data](articles/2e66fb0a.json)
+
+[Extended Data](ext_articles/2e66fb0a.ext.json)
 
 ---
 
@@ -521,6 +543,34 @@ The Election Commission further stated that postal voters who are unable to cast
 [Data](articles/f38cc675.json)
 
 [Extended Data](ext_articles/f38cc675.ext.json)
+
+---
+
+### Sri Lanka deflation 0.8-pct in 12-months to October 2024, up 0.3-pct over 25 months
+
+*2024-11-01 08:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-0-8-pct-in-12-months-to-october-2024-up-0-3-pct-over-25-months-185796/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s consumer price inflation was down 0.8 percent in the 12 months ending October 2024 and rose only 0.3 percent over 25 months since the central bank’s deflationary policy started to show up in the balance of payments.
+
+Sri Lanka Colombo Consumer Price Index fell 0.5 percent to 189.9 points in October 2024 from 190.9 points in September.
+
+The food price index fell 0.6 percent 231.9 points from 233.3 points.
+
+The widely watched Colombo Consumer Price Index was 189.3percent in September 2022 when the central bank’s deflationary policy started to show in the balance of payments as a surplus.
+
+Since then the central bank has also allowed the currency to appreciate.
+
+Sri Lanka’s central bank usually triggers fore shortages by printing money to buy domestic assets from primary or open markets, either through outright or term transactions.
+
+Debate erupts in Sri Lanka over money printed for open vs primary market
+
+Sri Lanka central bank defends open market operations as concerns rise
+
+...
+
+[Data](articles/ff18c516.json)
+
+[Extended Data](ext_articles/ff18c516.ext.json)
 
 ---
 
@@ -2247,61 +2297,5 @@ Five persons traveling in the three-wheeler and two people were injured and admi
 [Data](articles/c0eeec37.json)
 
 [Extended Data](ext_articles/c0eeec37.ext.json)
-
----
-
-### Aya is seriously due to lightning
-
-*2024-10-31 16:58:25* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැර-වැදී-නංගි-මරුට-අයියාට-බරපතලයි/11-412781) · `si`
-
-Lightning strikes kill student, injure another in Sri Lanka. Children were cutting wood when struck. Police investigating incident.
-
-🟩
-
-A student was killed and a student was seriously injured in a land of land near the land of the Passara Ambatenna village.
-
-The next year, the 6 year-old scholarship examination at Passara District has been admitted to the Passara District Hospital while he was admitted to the Passara District Hospital while he was seriously injured.
-
-The deceased and wounded, the two children in the family were in lightning to cut a new house with their two signs with their parents, with their shanty house.
-
-DIG in Badulla District, DIG in Badulla Sujith Wedmulla and Senior Superintendent of Police Wasantha Kandadawala Police are conducting further investigations.
-
-◼️
-
-[Data](articles/bccf6119.json)
-
-[Extended Data](ext_articles/bccf6119.ext.json)
-
----
-
-### Vote for vain to protect Tamil representation in Colombo district. Rajendran
-
-*2024-10-31 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197590) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Eelam People's Democratic Party seeks Tamil representation in Colombo district. Chief candidate Selvathurai Rajendran appeals for unity to protect Tamil interests. Party promises development in Colombo district with Buddhist support.
-
-🟩
-
-The rare opportunity to protect Tamil representation in the Colombo district is to vote for the Veena symbol."We have the support of the Buddhist people as the Buddhist Thera is contesting with us," said Selvathurai Rajendran, the chief candidate of the Eelam People's Democratic Party.
-
-He was speaking at a press conference held at the Eelam Democratic Party office on Wednesday (30).
-
-It is important to protect Tamil representation in Colombo district. The Eelam Democratic Party is the only party that can obtain Tamil representation in the parties contesting in the Colombo district.
-
-The votes for our party can be protected by the Tamil representation of the Colombo District. Therefore, the Tamil people should act in unity and take steps to protect the Tamil representation.
-
-Our party leader Douglas Devananda is always a principle of doing what he says.
-
-So there are no more development in the Tamil people living in the Colombo district.
-
-...
-
-[Data](articles/c239ed65.json)
-
-[Extended Data](ext_articles/c239ed65.ext.json)
 
 ---

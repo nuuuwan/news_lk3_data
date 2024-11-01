@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 15:10:51**
+As of **2024-11-01 15:24:11**
 
 ## Newspaper Stats
 
-*Scraped **52,536** Articles*
+*Scraped **52,537** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,890
-adaderanalk | 6,241
+adaderanalk | 6,242
 tamilmirrorlk | 7,288
 virakesarilk | 8,472
 adaderanasinhalalk | 9,148
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,148
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,535 (100.0%) of 52,536 articles have been extended.
+52,536 (100.0%) of 52,537 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### ‘Sarvajana Balaya’ prepared to fulfill role of true opposition - Dilith
+
+*2024-11-01 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103090/sarvajana-balaya-prepared-to-fulfill-role-of-true-opposition-dilith) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera, expressed that his team is prepared to fulfill the role of a true, courageous opposition.
+
+He made these remarks while addressing the Kelaniya constituency meeting of the ‘Sarvajana Balaya’ alliance on Thursday (31).
+
+“‘The Sarvajana Balaya’ has a leadership that stands up for you and does not escape through the back door. We are going on this journey with you. That is our leadership,” he stated.
+
+He further said that “this is a brave opposition, not one coming simply to remain in the opposition. It is coming to take power bravely. Not by pulling from the leg.”
+
+◼️
+
+[Data](articles/5df1456f.json)
+
+---
 
 ### Fire breaks out at garage in Rajagiriya
 
@@ -45,6 +63,8 @@ He stated that several vehicles appear to be gutted in the fire which had rapidl
 ◼️
 
 [Data](articles/e27a2553.json)
+
+[Extended Data](ext_articles/e27a2553.ext.json)
 
 ---
 
@@ -2227,27 +2247,5 @@ The price of a liter of Super diesel has been reduced by Rs.33 by Rs. 313.
 [Data](articles/b8617d71.json)
 
 [Extended Data](ext_articles/b8617d71.ext.json)
-
----
-
-### Lohan Ratwatte produced before Magistrate
-
-*2024-10-31 19:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103074/lohan-ratwatte-produced-before-magistrate) · `en`
-
-Former State Minister Lohan Ratwatte, who was today arrested by the Mirihana Police, was produced before the Nugegoda Acting Magistrate this evening (31).
-
-Earlier today, Ratwatte, who was arrested in Kandy, was brought to the Mirihana Police Station.
-
-Police said that the former state minister was arrested in Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
-
-The car without registered number plates was found on October 26, 2024, according to police.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/feacf1b2.json)
-
-[Extended Data](ext_articles/feacf1b2.ext.json)
 
 ---

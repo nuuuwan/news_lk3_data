@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 19:40:34**
+As of **2024-11-01 19:58:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,565 (100.0%) of 52,566 articles have been extended.
+52,566 (100.0%) of 52,566 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -96,11 +96,15 @@ The Department of Immigration and Emigration will be released to applicants abou
 
 ---
 
-### වාහන අංක තහඩු නිකුත් කිරීම තාවකාලිකව නවතී
+### Issuing vehicle number plates temporarily halted
 
 *2024-11-01 18:10:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-අංක-තහඩු-නිකුත්-කිරීම-තාවකාලිකව-නවතී/11-412798) · `si`
 
-වාහන අංක තහඩු මුද්‍රණය සීමා කිරීම හේතුවෙන්   වාහන නව ලියාපදිංචියේදී  හා  වාහන     හිමිකම් පැවරීමේදී අංක තහඩු නිකුත් කිරීම තාවකාලිකව අත් හිටුවා ඇතැයි මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව කියයි.
+Vehicle number plate issuance halted due to new registration restrictions. Department of Motor Traffic temporarily suspends plate distribution to avoid inconvenience to vehicle owners during license transfer process.
+
+🟩
+
+The Department of Motor Traffic said that the release number plates were temporarily in new registration and autopsy of vehicles due to the restricting of vehicle number plates.
 
 ඒ අනුව මෙලෙස අංක තහඩු නිකුත් නොකිරීම පිළිබඳව ලිපියක් වාහන නව ලියාපදිංචියේදී හා හිමිකම් පැවරීමේදී වාහන  හිමිකරුවන් වෙත නිකුත් කරනු ලබන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
 
@@ -109,6 +113,8 @@ The Department of Immigration and Emigration will be released to applicants abou
 ◼️
 
 [Data](articles/850a8edc.json)
+
+[Extended Data](ext_articles/850a8edc.ext.json)
 
 ---
 

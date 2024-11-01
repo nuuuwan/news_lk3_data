@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 12:40:01**
+As of **2024-11-01 13:09:59**
 
 ## Newspaper Stats
 
-*Scraped **52,517** Articles*
+*Scraped **52,525** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 3,133
 economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,887
-adaderanalk | 6,237
+adalk | 4,889
+adaderanalk | 6,238
 tamilmirrorlk | 7,285
-virakesarilk | 8,468
-adaderanasinhalalk | 9,143
+virakesarilk | 8,472
+adaderanasinhalalk | 9,144
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,517 (100.0%) of 52,517 articles have been extended.
+52,524 (100.0%) of 52,525 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Grandpass shooting - main gunman arrested
+
+*2024-11-01 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197623) · `ta`
+
+Colombo Crime Branch arrests 31-year-old gunman in Grandpass shooting case. Suspect linked to drug trafficking and international crimes. Investigation ongoing.
+
+🟩
+
+A chief gunman has been arrested by the Colombo Crime Branch yesterday (31) in connection with the shooting that took place in front of the Madhampitti cemetery belonging to the Colombo and Grandpass Police Division.
+
+The arrested suspect is a 31 -year -old from Hendala, Wattala.
+
+On the 16th of last month, some unidentified persons who went in the car in front of the Grandpass Police Division, which belongs to the Grandpass police division, shot dead a man who was traveling in a three -wheeler.
+
+இதனையடுத்து பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில் துபாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்ட காரின் சாரதி கடந்த 28 ஆம் திகதி பொலிஸாரால் கைது செய்யப்பட்டார்.
+
+Subsequently, the main gunman was arrested yesterday in connection with the shooting in an investigation into the suspect's car driver.
+
+...
+
+[Data](articles/2bd38102.json)
+
+[Extended Data](ext_articles/2bd38102.ext.json)
+
+---
+
+### ඇෆ්ගන් කතුන්ට තවත් තහනමක්
+
+*2024-11-01 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202799) · `si`
+
+Taliban bans women from speaking publicly in Afghanistan. New law prohibits reciting Quran in front of other women. Restrictions tighten control over female voices.
+
+🟩
+
+The Taliban of Afghanistan has controlled the women to ban women as he can hear their voice.
+
+Previously, leaders had banned to speak to a man before he was banned by the new law.
+
+කාන්තාවන්ගේ කටහඩ ප්‍රසිද්ධ ස්ථානවල දී තවත් කාන්තාවකට ශ්‍රවණය නොවිය යුතු බව තලෙයිබාන් පාලනයේ මතයයි.
+
+Accordingly, the law is prohibited by reading the Qur'an in front of another woman to Afghanistan women.
+
+◼️
+
+[Data](articles/5a590d6d.json)
+
+[Extended Data](ext_articles/5a590d6d.ext.json)
+
+---
+
+### Colombo HC grants additional bail to ex-minister Johnston Fernando
+
+*2024-11-01 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103084/colombo-hc-grants-additional-bail-to-ex-minister-johnston-fernando) · `en`
+
+The Colombo High Court today (01) ordered to recall the warrant issued against former Minister Johnston Fernando, for failure to appear before the court in a case filed by the Bribery Commission, and ordered to release him on additional bail.
+
+The case was heard before Colombo High Court Judge Manjula Thilakaratne.
+
+President’s Counsel Kalinga Indatissa, representing Johnston Fernando, stated that on the October 23, when the case was called, the defendant did not appear in court but instead went to give a statement to the Criminal Investigation Department (CID) regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
+
+However, the judge expressed dissatisfaction with the facts presented by the defence and ordered that he be granted additional bail.
+
+Accordingly, the judge released Johnston Fernando on a cash bail of Rs. 25,000 and a personal surety of Rs. 1 million, ordering his release after posting the additional bail.
+
+...
+
+[Data](articles/b8bf9a74.json)
+
+[Extended Data](ext_articles/b8bf9a74.ext.json)
+
+---
 
 ### The full story of the fatal bus accident that killed two students
 
@@ -47,6 +119,48 @@ Two students of the Southern Defense University killed in the Badulla-Dunhindu a
 [Data](articles/6b621555.json)
 
 [Extended Data](ext_articles/6b621555.ext.json)
+
+---
+
+### 'இஸ்ரேல் காசாவில் பொதுமக்களை கொலை செய்யவேண்டிய நிர்பந்தத்திற்குள்ளானது" - பில்கிளின்டனின் கருத்திற்கு கடும் எதிர்ப்பு
+
+*2024-11-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197633) · `ta`
+
+Israel forced to kill civilians in Gaza says former US President Bill Clinton. Strong opposition from American Muslims and Arab Americans. Critics call it Islamophobic and divisive.
+
+🟩
+
+காசாவில் பொதுமக்களை கொலை செய்யவேண்டிய நிர்பந்தத்திற்கு இஸ்ரேல் தள்ளப்பட்டது என அமெரிக்காவின் முன்னாள் ஜனாதிபதி பில் கிளின்டன் தெரிவித்துள்ளமைக்கு கடும் எதிர்ப்பு எழுந்துள்ளது.
+
+அமெரிக்க முஸ்லீம்களும் அராபிய அமெரிக்கர்களும் பில்கிளின்டனின் கருத்திற்கு தமது கடும் எதிர்ப்பை வெளியிட்டுள்ளனர்.
+
+ஜனநாயக கட்சியினர் மிச்சிக்கன் உட்பட பல மாநிலங்களில் இஸ்லாமியர்கள் அராபியர்களின் வாக்குகளை நம்பியுள்ள நிலையில் பில்கிளின்டனின் இந்த கருத்து வெளியாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+Speaking at a campaign meeting in Michigan, Bilglinton said that I understand the people's concern about the blood vessel in Gaza, but that Israel had no choice but to kill civilians in Gaza, although Israel was involved in genocide.
+
+The Hamas Organization ensures that it is protected and that you are forced to kill the civilians if you want to protect yourself, ”said Bilklin.
+
+...
+
+[Data](articles/9b9e6feb.json)
+
+[Extended Data](ext_articles/9b9e6feb.ext.json)
+
+---
+
+### ග්‍රෑන්ඩ්පාස් - මාදම්පිටිය කනත්ත ඉදිරිපිට වෙඩිතැබීමට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් දැලේ
+
+*2024-11-01 11:49:13* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෑන්ඩ්පාස්---මාදම්පිටිය-කනත්ත-ඉදිරිපිට-වෙඩිතැබීමට-සම්බන්ධ-සැකකරුවන්-දෙදෙනෙක්-දැලේ/11-412791) · `si`
+
+පසුගිය 16 වැනි දා ග්‍රෑන්ඩ්පාස් - මාදම්පිටිය කනත්ත ඉදිරිපිට දී ත්‍රීරෝද රථයක සිටි පුද්ගලයෙකුට මෝටර් රථයකින් පැමිණි නාදුනන පුද්ගලයන් පිරිසක් විසින් වෙඩිතබා ඝාතනය කිරීමේ සිද්ධියට සම්බන්ද සැකකරුවන් දෙදෙනෙක් ග්‍රෑන්ඩ්පාස් පොලිසීය මගින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙම වෙඩිතැබීම සඳහා සැකකරුවන් පැමිණි මෝටර් රථයේ රියඳුරුව සිටි වයස  35ක් වූ බ්ලූමැන්ඩල් ප්‍රදේශයේ පුද්ගලයෙ ක් හා වෙඩිතැබූ බවට සැකකරන පුද්ගලයා වත්තල ප්‍රදේශයේදී අත්තඩංගුවට ගෙන ඇත.
+
+සැකකරුවන් විදෙස්ගතව සිටින සංවිධානාත්මක අපරාධ හා මත්දුව්‍ය ජාවාරමට සම්බන්ධ පුද්ගලයෙකු  සමඟ සම්බන්ධතා පවත්වා ඇති බවටද මෙම විමර්ශනයේදී අනාවරණය වී ඇත.
+
+◼️
+
+[Data](articles/60971398.json)
 
 ---
 
@@ -67,6 +181,34 @@ The Teldeniya police have arrested another white jeep fitted with fake digit pla
 [Data](articles/8eb1eb4c.json)
 
 [Extended Data](ext_articles/8eb1eb4c.ext.json)
+
+---
+
+### பயங்கரவாத தடைச்சட்டத்தை நீக்குங்கள் - 13 வது திருத்தத்தை முழுமையாக நடைமுறைப்படுத்துங்கள் - ஜனாதிபதி தேர்தலின் போது வழங்கிய வாக்குறுதிகளை திரும்பிப்பாருங்கள் - அனுரகுமாரவிற்கு மாற்றுக்கொள்கைகளிற்கான நிலையம் கடிதம்
+
+*2024-11-01 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197629) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: Remove emergency law, fully implement 13th Amendment, address election promises, tackle corruption, reform governance system, ensure minority rights, protect human rights, promote accountability and transparency.
+
+🟩
+
+ஜனாதிபதி அனுரகுமாரதிசநாயக்க தனது தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிட்டிருந்த முக்கிய வாக்குறுதிகள் குறித்து மீண்டும் அவரது கவனத்தை ஈர்ப்பதற்காக மாற்றுக்கொள்கைகளிற்கான நிலையம்  அவருக்கு கடிதமொன்றை எழுதியுள்ளது.
+
+2024 செப்டம்பர் ஜனாதிபதி தேர்தலிற்கு பின்னரான காலப்பகுதியிலும் நவம்பரில் இடம்பெறவுள்ள நாடாளுமன்ற  தேர்தலிற்கு முன்னதாகவும் உங்கள் தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட முக்கிய வாக்குறுதிகள் குறித்து கவனத்தை ஈர்ப்பதற்காக மாற்றுக்கொள்கைகளிற்கான நிலையம் இந்த கடிதத்தை எழுதுகின்றது.
+
+இலங்கை தொடர்ந்தும் பல சவால்களை எதிர்கொண்டுள்ள ,மிக மோசமான பொருளாதார வன்முறைகள்; மற்றும் வன்முறைகளில் இருந்து மீண்டு மீட்சியை நோக்கி சென்றுகொண்டிருக்கின்ற  சூழமைவில் உடனடியாக கவனம் செலுத்தப்படவேண்டிய முக்கிய விடயங்கள் குறி;த்து உங்கள் கவனத்தை  ஈர்க்க விரும்புகின்றோம்.
+
+2022 The Arakal Movement revealed the change of regime, action against corruption and transparency.
+
+...
+
+[Data](articles/d3f6a456.json)
+
+[Extended Data](ext_articles/d3f6a456.ext.json)
 
 ---
 
@@ -181,6 +323,58 @@ A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent unchanged from 1
 [Data](articles/2e66fb0a.json)
 
 [Extended Data](ext_articles/2e66fb0a.ext.json)
+
+---
+
+### Husband and wife arrested with heroin worth Rs 200 crore
+
+*2024-11-01 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197619) · `ta`
+
+Husband and wife arrested with 53 kg heroin worth Rs 200 crore in Sevenkayal, Nukekalay, Kiriwev region. Heroin found in plastic containers during raid. Suspects handed over to police drug unit for investigation.
+
+🟩
+
+The Special Task Force (STF) said that husband and wife have been arrested with heroin drugs worth about Rs 200 crore.
+
+பொலிஸ் விசேட அதிரடிப்படையினருக்குக் கிடைத்த தகவலின் பேரில் செவனகல , நுகேகலாய , கிரிவெவ பிரதேசத்தில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களின் வீட்டு முற்றத்தில் புதைக்கப்பட்டிருந்த மூன்று பிளாஸ்டிக் கொள்கலன்களில் இருந்து 53 கிலோ 65 கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+Subsequently, the suspects have been handed over to the Police Drug Eradication Unit for further investigations.
+
+◼️
+
+[Data](articles/6509127e.json)
+
+[Extended Data](ext_articles/6509127e.ext.json)
+
+---
+
+### Pushpakumara, who was driven by 100 tractors, launched a record
+
+*2024-11-01 10:33:53* · [`adalk`](https://www.ada.lk/uncategorized/ට්‍රැක්ටර්-100ක්-තම-ශරීරය-මතින්-ධාවනය-කරමින්-වාර්තාවක්-තැබූ-පුෂ්පකුමාර/1-412790) · `si`
+
+Here's a 200-character summary:
+
+
+
+Pushpakumara Samarakoon drove 100 tractors in a record-breaking event. He faced financial struggles but persevered, inspiring many. His story highlights determination and community support.
+
+🟩
+
+Around 36-year-old is a father of 36-year-old WG, a large number of tractors in the Polonnaruwa area for renting a report in a fight between life and death.. පුෂ්පකුමාර සමරකෝන් තරුණයා සමත් විය.
+
+The report was established on the 31st of the Aralaganwila Polonnaruwa of Polonnaruwa.
+
+විශාල පිරිසකගේ සහභාගිත්වයෙන් මෙ වාර්තාව පිහිටවූ ඩබ්ලිව්. G Pushpakumara Samarakoon was a young man who had been mortgaged and lived in the Mahaweli River Mahaweli, Mahaweli.
+
+කිසියම් පුද්ගලයකු මෙම වාර්තාව කඩන්නේනම් එම වාර්තාව කැඩීමට ගන්නා ට්‍රැක්ටර් ප්‍රමාණය දෙගුණ කරමින් තමන්ගේ ශරීරය මත ධාවනය කරමින් එම ලෝක වාර්තාවද කැඩීමට තමා ඉදිරිපත් වන බව සමරකෝන් මහතා කීවේය'
+
+◼️
+
+[Data](articles/604e16e9.json)
+
+[Extended Data](ext_articles/604e16e9.ext.json)
 
 ---
 
@@ -2065,231 +2259,5 @@ Commenting further, Dr. Amarasuriya added: “Ranil Wickremesinghe has claimed t
 [Data](articles/2d5bf772.json)
 
 [Extended Data](ext_articles/2d5bf772.ext.json)
-
----
-
-### When there is a Tamil party that is set to be settled, people do not need to vote for the "shadow" parties - Sumanthiran
-
-*2024-10-31 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197603) · `ta`
-
-Sumanthiran: Tamil party doesn't need shadow parties' votes. All Ceylon Tamil Congress accepts Samasti solution. People want change from corrupt politics. Tamil struggle for 75 years; South didn't support. National People's Power claims but slides on promises. JVP demands Prevention of Terrorism Act abolition. No significant difference between Rajapakse and Dissanayake votes. North and East seek proper power sharing. Federal solution accepted by all Tamil parties. Original Tamil party doesn't need shadow votes.
-
-🟩
-
-Even the All Ceylon Tamil Congress Party has accepted the Samasti solution.Therefore, when we are the original Tamil party that claims to be a solution, people do not need to vote for the shadows.. Former Member of Parliament contesting on behalf of the TNA in the electoral district. A.. Sumanthiran said.
-
-Yall. He said this during a media briefing held at the Media Center on Thursday (31).
-
-The presidential election is said to be the beginning of the change.In a way it's ok. Since the time the two parties have been ruling for a long time, the third party has been a major change.
-
-They are not once a while to capture the regime.People wanted to change from corrupt politics. That is why 69 lakhs of votes were chased away from the country as president
-
-In spite of this, the people have been waiting for two and a half years and have changed the election.
-
-People wanted to change and they were only the power of the national people. So people voted for them.
-
-...
-
-[Data](articles/cdc6e366.json)
-
-[Extended Data](ext_articles/cdc6e366.ext.json)
-
----
-
-### Army retired Captain remanded for shot dead by Sydney son
-
-*2024-10-31 17:46:24* · [`adalk`](https://www.ada.lk/breaking_news/’සිඩ්නි-පුතා’ට-වෙඩි-තබා-මරා-දැමූ-යුද-හමුදා-විශ්‍රාමික-කපිතාන්-රිමාන්ඩ්/11-412783) · `si`
-
-Retired Army Captain remanded for shooting neighbor's dog. Suspect claims "Sidney Son" killed animal. Investigation ongoing.
-
-🟩
-
-Welisara Magistrate Dhammika Uduwawasha was arrested on suspicion to be taken into custody by the dog who was shot dead by the neighboring house.
-
-The suspect was remanded the suspect, who appeared on behalf of the suspect to be bailed to the suspect, the Kandana, a retired Army captain, who was shot dead by an air riffle and said he was shot dead by an air manipal.The first Arachchi Gayan Perera (55), a resident of Galwala Road, was remanded.
-
-The Kandana Police Constable (96866) Constable (96866) constable of the suspect's investigation into the incident in connection with the incident.
-
-Mr. Sidney son, which is in the house, is going to get out of the house twice a day and the suspect has taken a bath and has been shot and shot the stomach to his home.Later, he said that the 'Sidney Son' was treated, he was treated.
-
-...
-
-[Data](articles/3811cf6e.json)
-
-[Extended Data](ext_articles/3811cf6e.ext.json)
-
----
-
-### If the Tamil people of the Colombo district come together, you can get 3 members - EPDP. National List Member Babusarma
-
-*2024-10-31 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197600) · `ta`
-
-Tamil unity key to 3 seats in Colombo district: EPDP's Babu Sharma. Party aims to boost Tamil representation without competing against other parties.
-
-🟩
-
-If the Tamil people of the Colombo district work together, they can get three Tamil representatives.
-
-Babu Sharma, a national list member of the Eelam People's Democratic Party, said that we do not need to scatter anyone's votes and get votes.
-
-He was speaking at a press conference held at the Eelam Democratic Party on Thursday (31).
-
-Our aim is to increase Tamil representation this time in the Colombo district.
-
-So if the Tamil people work together, you can get 3 members in Colombo. The Colombo district had previously received 2 representations.
-
-We are not going to compete with anyone, but we do not need to flood the votes of others.Today, Colombo is heard by vain.
-
-Our party leader Douglas Devananda intends to obtain Tamil representation in Colombo and thereby solve the daily problems of the people of Colombo.
-
-Yall. Former Minister Douglas Devananda in the district has done various development programs.
-
-...
-
-[Data](articles/b1047378.json)
-
-[Extended Data](ext_articles/b1047378.ext.json)
-
----
-
-### China is ready to cooperate with the development needs of the new government - Chinese Ambassador to Sri Lanka
-
-*2024-10-31 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197596) · `ta`
-
-Here's a 200-character summary:
-
-
-
-China's Ambassador to Sri Lanka promises cooperation with the new government, emphasizing training programs and human resource development. Over 13,000 Sri Lankans have trained in China since 1950, focusing on areas like public management, science, IT, and agriculture. The Chinese government aims to strengthen ties with developing countries and promote global progress.
-
-🟩
-
-Chinese Ambassador Key Senhong has said that the Chinese government is fully considering the development needs of Sri Lanka's new government and is ready to improve the implementation of appropriate training programs.
-
-He said this while addressing the Chinese assistance training and alumni reception held in Colombo on Wednesday night in Colombo.
-
-Speaking further, he said, "The Chinese Assistant Training Alumni Reception is being held for the first time to celebrate the benefits of China and Sri Lanka's human resources cooperation and to congratulate the Chinese -Sri Lanka friendship.
-
-The Chinese proverb “Give a fish to a man, and you feed him one day;Teach a man to fish, and you feed him for a lifetime. ”
-
-China's foreign aid training is a firm step to implement the global growth painted by President Shi Jinping.
-
-China's foreign aid exercise adopts issues such as sharing, advice and construction, creating a platform for exchange of administrative experience for countries.
-
-...
-
-[Data](articles/01246dcf.json)
-
-[Extended Data](ext_articles/01246dcf.ext.json)
-
----
-
-### Drug recovery worth Rs.
-
-*2024-10-31 17:24:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-01-பில்லியன்-பெறுமதியான-போதைப்பொருள்-மீட்பு/175-346367) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Sevanagala: STF recovers 40kg heroin valued at Rs.1 billion during raid. Heroin found on empty land after tip from Army Intelligence."
-
-🟩
-
-In Sevenagala area. 40 kg of heroin has been recovered at a value of 01 billion.
-
-Heroin drug has been discovered during a raid conducted by the Police Special Task Force following confidential information received by the Army Intelligence Unit.
-
-Police Special Task Force (STF) recovered heroin from empty land in Sevanagala.
-
-◼️
-
-[Data](articles/eaac4f65.json)
-
-[Extended Data](ext_articles/eaac4f65.ext.json)
-
----
-
-### The owner gives the owner's wallet, which was put in the bus
-
-*2024-10-31 17:19:49* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථයේ-දමා-ගිය-රුපියල්-ලක්ෂ-15ක-මුදල්-තිබූ-මුදල්-පසුම්බිය-ඇතුළු-දෑ-අයිතිකරුටම-දෙයි/11-412782) · `si`
-
-Wallet lost on bus, found by police, returned to owner. Tourist guide involved. Police commendation for honesty.
-
-🟩
-
-The Panel of Air Force has been given to him with more than Rs.
-
-Welimada, a traveling guide, 33 year old is 33. M.Chinthaka Priyadarshana Dissanayake was recovered from the Werahera area to Horana to return to her brother's own brother from Boralesgamuwa.
-
-He was sitting on the bus and got down from the bus and the wallet had been forgotten on the seat of the bus.
-
-Piliyandala police went to Piliyandala and was reported to the Piliyandala Police, whether the wallet was unable to find the wallet.A complaint was also lodged in noteworthy contained in the container and other documents including the payment card and driver's license.
-
-The OIC of the Master of Kahathuduwa Sunfalver Gardan, a retired vehicle in Kahathuduwa Police OIC of Kahathuduwa Police, he was taken into custody.A request, it was placed on the OIC's desk.
-
-...
-
-[Data](articles/b3e9a115.json)
-
-[Extended Data](ext_articles/b3e9a115.ext.json)
-
----
-
-### Prime Minister - Sagala Ratnayake
-
-*2024-10-31 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197597) · `ta`
-
-Sagala Ratnayake accuses PM Harini Amarasuriya of lying about state official salaries. Former Prez Ranil Wickremesinghe denies deception. IMF compliance policy unclear. Economic growth led to salary increases, but unions protest. Committee recommends 24% hike over 2 years. PM claims JVP lied about pre-election raise. Ratnayake urges voters to choose truth-telling leaders.
-
-🟩
-
-Prime Minister Harini Amarasuriya continues to make lies on the salary issue of state officials.
-
-Former National Security Advisor Sagala Ratnayake has said that despite the crisis in politics, former President Ranil Wickremesinghe will never deceive the people by lying.
-
-He further stated that a press conference held at his residence in Colombo on Thursday (31) said.
-
-There is a vague situation in which the National People's Power Government has adopted a policy on compliance with the International Monetary Fund.
-
-On one occasion the government said it would implement the agreement when the government addressed the international community.
-
-While the Monetary Fund Committee visited the country, the United States has said this during a lawsuit against the Sri Lankan government.
-
-But clearly this is our policy. On the other hand, the government is traveling in such confusion on the salary issue of state officials.
-
-...
-
-[Data](articles/4c87aa2e.json)
-
-[Extended Data](ext_articles/4c87aa2e.ext.json)
-
----
-
-### Why removed their privileges?
-
-*2024-10-31 17:16:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவர்களின்-சலுகைகளை-நீக்கியது-ஏன்/175-346366) · `ta`
-
-Former President Ranil Wickremesinghe questions removal of concessions from Chandrika Bandaranaike Kumaratunga and Mahinda Rajapaksa. He criticizes Chandrika's lack of support and Rajapaksa's declining popularity. Wickremesinghe urges the government to revoke his own privileges, allowing others to retain theirs.
-
-🟩
-
-Former President Ranil Wickremesinghe has questioned the reason why the government removed the concessions given to former President Chandrika Bandaranaike Kumaratunga and Mahinda Rajapaksa.
-
-Ranil Wickremesinghe pointed out that the Janatha Vimukthi Peramuna (JVP) was involved in the murder of Chandrika's husband and that she (Chandrika) was injured in the blast.
-
-“Chandrika Bandaranaike Kumaratunga never supported me. We have only worked together to support Maithripala Sirisena, ”he said.
-
-Commenting on Mahinda Rajapaksa, the former president pointed out that it was a matter of losing his influence among the people of Rajapaksa, but he should consider his safety in view of the end of the war.
-
-Ranil Wickremesinghe has urged the government to remove all his privileges and allow others to continue to be the privileges given to others.
-
-Former President Ranil Wickremesinghe, who warned the government not to intervene in the parliamentary organization, said that such issues should be held.
-
-◼️
-
-[Data](articles/bc0f9749.json)
-
-[Extended Data](ext_articles/bc0f9749.ext.json)
 
 ---

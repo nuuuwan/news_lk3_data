@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 21:59:24**
+As of **2024-11-01 22:13:43**
 
 ## Newspaper Stats
 
-*Scraped **52,584** Articles*
+*Scraped **52,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,143 @@ islandlk | 3,133
 economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,896
-adaderanalk | 6,247
-tamilmirrorlk | 7,292
+adalk | 4,897
+adaderanalk | 6,249
+tamilmirrorlk | 7,293
 virakesarilk | 8,487
-adaderanasinhalalk | 9,160
+adaderanasinhalalk | 9,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,580 (100.0%) of 52,584 articles have been extended.
+52,584 (100.0%) of 52,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### One killed, 19 injured in van-lorry collision
+
+*2024-11-01 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103096/one-killed-19-injured-in-van-lorry-collision-) · `en`
+
+A person has been killed while 19 others have been injured in an accident on the Radella short cut road in Nuwara Eliya.
+
+The incident has occurred today (01) around 6.30 p.m. due to a head-on collision involving a van and a lorry.
+
+Additionally, it is also reported that 19 individuals who sustained injuries from the incident have been admitted to the Nuwara Eliya District General Hospital.
+
+◼️
+
+[Data](articles/1270dd51.json)
+
+---
+
+### Ministry of Defense announced to death in Badulla
+
+*2024-11-01 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202817) · `si`
+
+Ministry of Defense announces tragic bus accident in Badulla. Two students killed, 40 injured. Kotalawala Defense University bus crash causes mechanical failure. Air Force helicopter deployed for medical evacuation.
+
+🟩
+
+The Ministry of Defense has issued a statement regarding a bus carrying a bus from the Kotalawala Defense University.
+
+The 39th Course in the 39nd Course in the Kotelawala Defense College, a 39nd course of protector, including the driver in charge of the bus, were in charge of 42 people including the driver of the bus.
+
+අනතුරින් ශිෂ්‍යාවන් දෙදෙනෙකු මියගොස් ඇති අතර මිය ගිය සිසුවියන් දෙදෙනා කුරුණෑගල හා නිවිතිගල පදිංචිකාරියන් වන බවත් එහි සඳහන් ව තිබේ.
+
+එම මියගිය සිසුවියන් දෙදෙනාගේ අවසන් කටයුතු කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ පූර්ණ අනුග්‍රහය යටතේ සිදු කිරීමට අවශ්‍ය කටයුතු මේ වනවිට සූදානම් කර ඇති බවත් ආරක්ෂක අමාත්‍යාංශය පවසයි.
+
+At least 40 others were injured in the accident and seven of them were included in the intensive care unit and one of them is serious.
+
+The Ministry of Defense further stated that arrangements have been made to take patients to Colombo for further treatment.
+
+...
+
+[Data](articles/e7e7f4ba.json)
+
+[Extended Data](ext_articles/e7e7f4ba.ext.json)
+
+---
+
+### Ceasefire hopes fade as Israel bombards Gaza, Lebanon
+
+*2024-11-01 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103095/ceasefire-hopes-fade-as-israel-bombards-gaza-lebanon) · `en`
+
+Prospects of a ceasefire between Israel and its foes Hamas and Hezbollah ran aground on Friday as Israeli airstrikes killed at least 64 people in the Gaza Strip, according to medics in the Palestinian enclave, and battered Beirut’s southern suburbs.
+
+U.S. envoys had been working to secure ceasefires on both fronts ahead of the U.S. presidential election next Tuesday.
+
+But Hamas did not favour a temporary truce, its Al-Aqsa Hamas television reported on Friday. The ceasefire proposals failed to meet its conditions that any deal must end the year-long war in Gaza and include a withdrawal of Israeli forces from there, it said.
+
+Earlier, Israeli Prime Minister Benjamin Netanyahu said his priority was to enforce security “despite any pressure or constraints”.
+
+His office said he relayed this message to U.S. envoys Amos Hochstein and Brett McGurk in Israel on Thursday. Israel meanwhile pressed on with its military offensives against Hamas in the Gaza Strip and Hezbollah in Lebanon on Friday.
+
+...
+
+[Data](articles/4221de9b.json)
+
+[Extended Data](ext_articles/4221de9b.ext.json)
+
+---
+
+### A chicken box Rs. 200 drugs
+
+*2024-11-01 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202816) · `si`
+
+Heroin stash found in chicken coop; police investigation ongoing
+
+🟩
+
+Police say that 54 kilograms of heroin found yesterday (31) was buried in the yard of a Sevanagala house.
+
+එම මත්ද්‍රව්‍ය මේ වනවිට රිමාන්ඩ් භාරයේ සිටින ආමි චූටි නැමැත්තාට අයත් බවට විමර්ශන නිලධාරීන් සැක කරයි.
+
+Dhammika Saman Kumara was arrested in the Boralesgamuwa area in Boralesgamuwa.
+
+He was able to arrest him with seven kilograms of heroin and a kilogram of ice drugs.
+
+The value of the drug is worth over Rs. 20 billion.
+
+However, he has been able to find the stock of drugs in Sevanagala area.
+
+Several plastic containers were buried in three platter containers near a poultry in a house in a house in a house in the Yarquegala, Sevanagala.
+
+Accordingly, the resident of the house was arrested by the police, who was arrested by the drug in Boralesgamuwa.
+
+It has been revealed that the woman of this house was the man's sister.
+
+◼️
+
+[Data](articles/c9866604.json)
+
+[Extended Data](ext_articles/c9866604.ext.json)
+
+---
+
+### லொஹானின் மனைவிக்கு பிடியாணை
+
+*2024-11-01 21:40:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவிக்கு-பிடியாணை/175-346428) · `ta`
+
+Former Minister Lohan Ratwatte's wife to be arrested for selling luxury car parts. Son also under investigation.
+
+🟩
+
+The wife of former Minister of State Lohan Ratwatte will also be arrested on charges of dividing the luxury car into spare parts, a high -ranking police officer said.
+
+The Nugegoda Magistrate's Court has also sent Rashi Baba Ratwatha to the police, police said.
+
+The senior official added that the son of the former Minister of State will be investigated.. Remble
+
+◼️
+
+[Data](articles/4a36730b.json)
+
+[Extended Data](ext_articles/4a36730b.ext.json)
+
+---
 
 ### An accident in the body - Man dies
 
@@ -303,6 +425,24 @@ Actor Gavin gives a different performance in begging and going into the mansion 
 [Data](articles/ece8bc1b.json)
 
 [Extended Data](ext_articles/ece8bc1b.ext.json)
+
+---
+
+### ආචාර්ය හාන්ස් විජේසූරියට ඉහළම තනතුරක්
+
+*2024-11-01 18:33:03* · [`adalk`](https://www.ada.lk/technology/ආචාර්ය-හාන්ස්-විජේසූරියට-ඉහළම-තනතුරක්/5-412799) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ඩිජිටල් ආර්ථිකය පිළිබඳ ප්‍රධාන ජනාධිපති උපදේශකවරයා ලෙස ආචාර්ය හාන්ස් විජයසූරිය මහතා පත් කර තිබේ.
+
+ආර්ථික වර්ධනය වේගවත් කිරීම, ජාතික තරගකාරිත්වය සහ සියලු පුරවැසියන්ට සැලකිය යුතු ප්‍රතිලාභ සැලසීම අපේක්ෂා කරමින්, කලාපයේ වඩාත්ම දියුණු රටවල් හා සමගාමීව ශ්‍රී ලංකාවේ ඩිජිටල් ආර්ථිකය ඉහළ නැංවීමේ සිය දැක්ම සහ කැපවීම පිළිඹිබු කරමින් ජනාධිපතිවරයා මෙම පත් කිරීම සිදු කර ඇත.
+
+ශ්‍රී ලංකාවේ තොරතුරු හා සන්නිවේදන තාක්‍ෂණය සහ ඩිජිටල් යටිතල පහසුකම් යන අංශවලින් ගෝලීය ප්‍රමිතියට ළඟා වීම රජයේ අපේක්ෂාවයි. පුරවැසියන් සවිබල ගැන්වීම උදෙසා ඩිජිටල් පොදු යටිතල පහසුකම් (DPI) ස්ථාපිත කිරීම මඟින් බහු-ආංශික ඩිජිටල් පරිවර්තනයක් සඳහා රජය දැඩිව කැප වී සිටියි.
+
+ඒ අනුව, වේගවත් ඩිජිටල් ආර්ථිකයකට සහ සියලු පුරවැසියන්ගේ ජීවන තත්ත්වය ඉහළ නැංවීමට තුඩු දෙන ආර්ථික හා සමාජ සංවර්ධනයට අදාළ සාම්ප්‍රදායික සංවර්ධන අවස්ථා ග්‍රහණය කර ගැනීමට හැකි වන පරිදි නවීන තාක්‍ෂණය භාවිත කිරීමට රජය සැලසුම් කර තිබේ. ආචාර්ය හාන්ස් විජයසූරිය මහතාගේ පත්වීම ඉහත දැක්ම සාක්ෂාත් කරගැනීම සඳහා වන ප්‍රධාන පියවරකි.
+
+...
+
+[Data](articles/c70bae4b.json)
 
 ---
 
@@ -2307,155 +2447,5 @@ Sri Lanka central bank defends open market operations as concerns rise
 [Data](articles/ff18c516.json)
 
 [Extended Data](ext_articles/ff18c516.ext.json)
-
----
-
-### School student arrested for teling
-
-*2024-11-01 07:57:29* · [`adalk`](https://www.ada.lk/technology/ටෙලිඟ්‍රෑම්-නිසා-අත්අඩංගුවට-පත්වූ-පාසල්-සිසුවා/5-412788) · `si`
-
-Sri Lankan schoolgirl arrested for sharing explicit content via Telegram. Police investigation ongoing.
-
-🟩
-
-The Computer Criminal Investigation Unit, a 17-year-old schoolgirl has been arrested in the Panadura Mahawila in Panadura.
-
-He was the first suspect in Sri Lanka for a crime conducted by telegramm social media. The suspect had been taken into custody by the Smartphone mobile phone.
-
-A young man in Panadura has been arrested following a complaint with a complaint with a complaint carried out for nearly a month after a complaint lodged by the CID.
-
-After the suspect, he had taken his Vatsap telephone number, saying that he was about a student of another school into an education. Ti. P. Investigations also revealed that the telegram had been prepared to the student named the number.
-
-Investigations have revealed that the young girl's general photograph was prepared to the young girl's average photo of various Identity photos and referred to the girl's telegram account.
-
-...
-
-[Data](articles/d46761c0.json)
-
-[Extended Data](ext_articles/d46761c0.ext.json)
-
----
-
-### The truth about the Arughambe attack project
-
-*2024-11-01 07:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-தாக்குதல்-திட்டம்-குறித்து-வெளிவந்த-உண்மை/175-346396) · `ta`
-
-US intelligence confirms no Israeli attack planned in Arugambe. Investigation shows extremist group not involved; instead, organized crime gang responsible.
-
-🟩
-
-Investigations carried out by the US intelligence agencies that it is planning to attack Israelis in the Arugampe area, government representatives have confirmed that it was not planned by the extremist group.
-
-Air Vice Marshal (retired) Sampath Tuayakonda and President's Office officials met with the leaders of the US embassy in Sri Lanka yesterday (30th).
-
-Leaders, including Iran's citizen who led the group, including six arrested in connection with the incident, pointed out that the network was not connected to the terrorist network.
-
-It has been pointed out that this is an attempt by a gang who acted as an organized criminal group. Remble
-
-◼️
-
-[Data](articles/329ef04c.json)
-
-[Extended Data](ext_articles/329ef04c.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-11-01 07:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103077/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says the atmospheric conditions are favorable for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island during the evening or night.
-
-Heavy showers above 100 mm are likely at some places in Uva, Eastern, Central, Sabaragamuwa and North-central provinces, it added.
-
-Showers or thundershowers may occur at a few places in the coastal areas of Northern, Eastern and North-western provinces during the morning too.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7a5f23e2.json)
-
-[Extended Data](ext_articles/7a5f23e2.ext.json)
-
----
-
-### හිටපු ජනපති මහින්දගේ ආරක්ෂාව ගැන දිලිත් කියපු කතාව
-
-*2024-11-01 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202789) · `si`
-
-Former President Mahinda Rajapaksa's protection was discussed by Dilith Jayaweera, Gampaha District candidate. He emphasized Rajapaksa's importance in ending the war and saving the country. Jayaweera criticized those who opposed Rajapaksa's leadership during the war and accused them of wanting to stop the conflict due to foreign influence. He also mentioned seeing ambulances carrying Rajapaksa's supporters, calling it a form of presidential appreciation rather than a political act.
-
-🟩
-
-The removal of former President Mahinda Rajapaksa is not a privilege cuts, Gampaha District candidate entrepreneur, Dilith Jayaweera is not a privilege cuts.
-
-ඊයේ (31) පස්වරුවේ වත්තල ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් ඔහු මේ බව කියා සිටියේය.
-
-"We can't forget Mahinda Rajapaksa. අපේ දේශපාලන ආඛ්‍යානය කුමක් වුවත් ඔහුව අමතක කරන්නට බැහැ. He is a man man. If he will remove protection, the security is removed because it is usually more of the country's opposition to the leader of Mahinda Rajapaksa who saved the country from the war.
-
-...
-
-[Data](articles/c1e3a7d4.json)
-
-[Extended Data](ext_articles/c1e3a7d4.ext.json)
-
----
-
-### කැලණි ගඟේ මියගිය පුද්ගලයෙකුගේ සිරුරක්
-
-*2024-11-01 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202788) · `si`
-
-Body found in Kelani River near Gaswatte, Peliyagoda. Age 45-50 years old, height 5'7". Wearing only a long black shirt. Hair mixed black and white. Face covered in stubble. Identity unknown. Body sent to Colombo Mortuary for investigation.
-
-🟩
-
-Investigations received on information received on information received by the Peliyagoda Police have commenced that there is a body in the Kelani River.
-
-පෑලියගොඩ පොලිස් වසමේ පෑලියගොඩ මීගමුව මාර්ගයේ ගෑස් වත්ත පිටුපස කැලණි ගඟේ නාඳුනන පුද්ගලයෙකුගේ සිරුරක් ඇති බවට තොරතුර ලැබී තිබුණේ ඊයේ (31) සවස් කාලයේදී ය.
-
-මෘතශරීරය සම්බන්ධයෙන් හදිසි මරණ පරීක්ෂණය සිදුකර කොළඹ මෘත ශරීරාගාරයේ තැන්පත් කර ඇත.
-
-The police said that the identity of the deceased has not yet been established.
-
-වයස අවුරුදු 45ත් 50ත් අතර, උස අඩි 05යි අඟල් 07 ක් වන එම පුද්ගලයා අළු පැහැති දිග කලිසමක් පමණක් හැඳ සිටි බවද පොලීසිය පවසයි.
-
-The hair is mixed with black white and in the middle of the head. මුහුණ පුරා රැවුල වවා තිබේ.
-
-◼️
-
-[Data](articles/b1348168.json)
-
-[Extended Data](ext_articles/b1348168.ext.json)
-
----
-
-### Grandpass shooter falls
-
-*2024-11-01 07:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202787) · `si`
-
-Colombo Crimes Division arrests suspect in Grandpass shooting case. Three-wheeler driver killed in Madampitiya. Suspect, 31, from Hendala/Wattala. Further investigation reveals links to foreign organized crime and drug trafficking.
-
-🟩
-
-The Colombo Crimes Division has arrested a person who suspect a person shot dead in front of the Grandpass sentence of ceremony.
-
-On October 16, a three-wheeler had been shot dead by a person who was in a car in front of the Madampitiya ceremony in front of the Madampitiya ceremony.
-
-ඉන් අනතුරුව ග්‍රෑන්ඩ්පාස් පොලීසිය හා කොළඹ අපරාධ කොට්ඨාසය මඟින් විමර්ශන ආරම්භ කළේය.
-
-ඒ අනුව මෙම වෙඩි තැබීම සඳහා සැකකරුවන් පැමිණි කාර් රථයේ රියදුරුව සිටි වයස අවුරුදු 35ක්වූ බ්ලූමැන්ඩල් ප්‍රදේශයේ පදිංචි සැකකරුවෙකු ග්‍රෑන්ඩ්පාස් පොලීස් ස්ථානය මඟින් ඔක්තෝබර් මස 28 වන දින අත්අඩංගුවට ගෙන තිබේ.
-
-අපරාධය සම්බන්ධයෙන් කොළඹ අපරාධ කොට්ඨාසයේ නිලධාරින්ට ලද තොරතුරක් මත වැඩිදුරටත් විමර්ශනය සිදුකර වෙඩිතැබීම සිදුකරන ලද බවට සැකකරන පුද්ගලයා ඊයේ (31) සවස වත්තල ප්‍රදේශයේදී ඔහු සන්තකයේ තිබූ ජංගම දුරකථන දෙකක් ද සමඟ අත්අඩංගුවට ගෙන ඇත.
-
-The suspect is a cheapient in Hendala and Wattala, Hendala, aged 31.
-
-...
-
-[Data](articles/57d93d0a.json)
-
-[Extended Data](ext_articles/57d93d0a.ext.json)
 
 ---

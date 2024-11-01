@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 03:39:54**
+As of **2024-11-02 04:11:47**
 
 ## Newspaper Stats
 
-*Scraped **52,600** Articles*
+*Scraped **52,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 533
 bbccomsinhala | 540
 islandlk | 3,133
 economynextcom | 3,196
-dailyftlk | 3,594
+dailyftlk | 3,596
 dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,600 (100.0%) of 52,600 articles have been extended.
+52,600 (100.0%) of 52,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Other players in  the perfect storm
+
+*2024-11-02 04:07:42* · [`dailyftlk`](https://www.ft.lk/columns/Other-players-in-the-perfect-storm/4-768722) · `en`
+
+We can only hope that voters would choose wisely and well again, as arguably they did a brace of months back – Pic by Shehan Gunasekara
+
+As the nation gears down for the second election in the short space of two months, it is incontrovertible that the winds of change continue to whistle through the corridors of power and influence.
+
+A quick survey of the contenders in the parliamentary polls set for 14 November shows that a slew of newcomers to the fore focus on ‘national’, ‘developmental’ and ‘progressive’ fronts.
+
+The decks are cleared for showdown between the old guard representing a rump in the house that until recently looked like it could not be ever moved, and that the people’s aspirations as reflected in the ultimately abortive Aragalaya of 2022 would not be reflected in the legislature of 2024-9.
+
+...
+
+[Data](articles/a2e815e7.json)
+
+---
+
+### What a Trump or Harris presidency means to the world
+
+*2024-11-02 04:06:12* · [`dailyftlk`](https://www.ft.lk/columns/What-a-Trump-or-Harris-presidency-means-to-the-world/4-768721) · `en`
+
+The 5 November election, for all its drama, jabs, and entertainment, many feel very frustrated or uninspired. Neither Donald Trump nor Kamala Harris has inspired serious confidence, and the choices may seem lacklustre to voters. Yet, make no mistake: the 2024 election is significant. Whether or not it ushers in an era of “tub-thumping ideology,” it has the potential to reshape the global landscape, given what is happening outside the USA. A Trump or Harris presidency would present contrasting impacts and consequences for the rest of the world, especially given their divergent views on international relations, climate policy, trade, investment, and alliances. Here are five key areas with the potential for global impact:
+
+...
+
+[Data](articles/533d85ce.json)
+
+---
 
 ### வேன் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதி விபத்து; ஒருவர் உயிரிழப்பு
 
@@ -2457,45 +2487,5 @@ A large number of students were seriously injured in the accident.
 [Data](articles/fc38f7a3.json)
 
 [Extended Data](ext_articles/fc38f7a3.ext.json)
-
----
-
-### Announcement on coastal line train services after ‘Ruhunu Kumari’ derailment
-
-*2024-11-01 09:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103081/announcement-on-coastal-line-train-services-after-ruhunu-kumari-derailment) · `en`
-
-Due to the derailment of the ‘Ruhunu Kumari’ train at Ginthota station, the ‘Samudra Devi’ train has started from Dodanduwa station, the ‘Sagarika’ train from Boossa station, and the ‘Nayana Kumari’ train from Hikkaduwa station.
-
-The Railway Department stated that these trains departed from their respective stations at the scheduled times.
-
-However, the department added that the ‘Galle Kumari’ train and the Night Mail train are experiencing delays.
-
-The engine of the derailed ‘Ruhunu Kumari’ train has been rerailed, and it is expected to take a few more hours to restore normal operations.
-
-◼️
-
-[Data](articles/3f9139e7.json)
-
-[Extended Data](ext_articles/3f9139e7.ext.json)
-
----
-
-### Postal voting continues today
-
-*2024-11-01 08:54:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்மூல-வாக்களிப்பு-இன்றும்-தொடர்கிறது/175-346400) · `ta`
-
-Postal voting resumes today for military and state officials. Second day of ballot casting.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake said the postal voting for the upcoming general election will take place today for the second day.
-
-Accordingly, the officers of the Armed Forces and State Institutions have been given the opportunity to mark postal voting today, he said.
-
-◼️
-
-[Data](articles/1e8cf960.json)
-
-[Extended Data](ext_articles/1e8cf960.ext.json)
 
 ---

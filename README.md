@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 09:40:17**
+As of **2024-11-01 09:59:22**
 
 ## Newspaper Stats
 
@@ -26,25 +26,41 @@ adaderanasinhalalk | 9,140
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,486 (100.0%) of 52,495 articles have been extended.
+52,488 (100.0%) of 52,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
 
-### සරසවි සිසුන් රැගත් බස් රථයක් පෙරළෙයි - විශාල පිරිසකට තුවාල
+### 35 wounded in Badulla bus accident
 
 *2024-11-01 09:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202793) · `si`
 
-විශ්වවිද්‍යාල සිසුන් පිරිසක් ගමන් ගත් බස් රථයක් අද (01) උදෑසන 7.45ට  පමණ පෙරළීගොස් තිබේ.
+Bus accident in Badulla: 2 dead, 35 injured. Kotelawala Defense University bus overturned. Students on field trip. Road conditions suspected cause.
 
-බදුල්ල මහියංගන ප්‍රධාන මාර්ගයේ තුන්වන හා හතරවන කිලෝමීටර් කණු අතර (දුන්හිඳ ප්‍රවේශ මාර්ගයට නුදුරින්) පිහිටි   මාර්ගයේදී වේල්ලක ගැටීමෙන් අනතුර සිදුවී ඇත.
+🟩
 
-එම අනතුරෙන් සිසුන් විශාල පිරිසක් බරපතළ තුවාල ලබා ඇතැයි පොලීසිය පවසයි.
+Hospital sources say that two persons have died in the accident.
+
+35 persons were injured in a bus toppled on the road in the Post of Paraduwa area in Badulla, Badulla.
+
+Our correspondent said that a bus belonging to the Kotelawala Defense University was involved in the accident.
+
+41 including a group of students who were engaged in a field visit and 41 persons were traveling on the bus.
+
+The injured persons have been admitted to the Badulla General Hospital.
+
+A group of university students have reached around 7.45 am today.
+
+The route of the road between the third and fourth-fourth kilometer pillars of the Galle Mahiyangana main road has been rose.
+
+A large number of students were seriously injured in the accident.
 
 ◼️
 
 [Data](articles/fc38f7a3.json)
+
+[Extended Data](ext_articles/fc38f7a3.ext.json)
 
 ---
 
@@ -671,6 +687,8 @@ Through the results of the last Presidential election, the people of Sri Lanka h
 ...
 
 [Data](articles/10bbc844.json)
+
+[Extended Data](ext_articles/10bbc844.ext.json)
 
 ---
 

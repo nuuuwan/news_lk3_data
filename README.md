@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 18:20:45**
+As of **2024-11-01 18:34:25**
 
 ## Newspaper Stats
 
-*Scraped **52,557** Articles*
+*Scraped **52,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,133
 economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,893
+adalk | 4,894
 adaderanalk | 6,245
-tamilmirrorlk | 7,289
+tamilmirrorlk | 7,290
 virakesarilk | 8,475
 adaderanasinhalalk | 9,155
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,155
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,557 (100.0%) of 52,557 articles have been extended.
+52,557 (100.0%) of 52,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### புதிய பிரதம ஆலோசகர் நியமனம்
+
+*2024-11-01 17:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-ஆலோசகர்-நியமனம்/175-346413) · `ta`
+
+டிஜிட்டல் பொருளாதாரம் தொடர்பான ஜனாதிபதியின் பிரதம ஆலோசகராக கலாநிதி ஹான்ஸ் விஜயசூரிய நியமிக்கப்பட்டுள்ளார்.
+
+56 வயதாகும் கலாநிதி ஹான்ஸ் விஜயசூரிய, இலங்கையின் தொலைத்தொடர்பு துறையில் மாபெரும் சாதனை படைத்தவர் ஆவர்.
+
+மேலும், தெற்காசியாவில் முதன்முறையாக 3G, 4G மற்றும் 5G தொழில்நுட்பங்களை இலங்கைக்கு அறிமுகப்படுத்தி தொலைத்தொடர்பு துறையில் இலங்கையை உலகின் தலைசிறந்த நிலைக்கு உயர்த்த விஜயசூரிய அவர்களின் சேவை மகத்தானது.AN
+
+◼️
+
+[Data](articles/4b31dae2.json)
+
+---
 
 ### Fire in the karaj
 
@@ -108,11 +124,9 @@ Former Axiata Group CEO Dr. Hans Wijayasuriya has been appointed as the Chief Ad
 
 He received his letter of appointment from President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today (01).
 
-The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy.
+The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy and that the government aims to strengthen digital infrastructure and empower citizens through an inclusive, forward-looking digital economy.
 
 Axiata Group Berhad on Friday announced that Dr Wijayasuriya will relinquish role as the CEO of Telecommunications Business and Group Executive Director as he has been invited by the Government of Sri Lanka to lead the country’s digital economy agenda in the capacity of Chief Advisor to the President on Digital Economy and other related leadership roles.
-
-Dr Wijayasuriya has duly accepted the invitation from the GoSL and has communicated his decision to step down from his role at Axiata Group with effect from 15 January 2025, the announcement said.
 
 ...
 
@@ -165,6 +179,18 @@ Dr. Hans's decision has been admitted by the Board of Directors. He has been in 
 [Data](articles/87a1ad32.json)
 
 [Extended Data](ext_articles/87a1ad32.ext.json)
+
+---
+
+### පොල් හිඟය කොතෙක් කල් තියේවිද ?
+
+*2024-11-01 16:28:56* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-හිඟය-කොතෙක්-කල්-තියේවිද--/11-412797) · `si`
+
+නිසි කලට වර්ෂාපතනය නොලැබීම සහ උෂ්ණත්වය ඉහළ යෑම හේතුවෙන් පසුගිය වර්ෂයට සාපේක්ෂව මේ වසරේ පොල් පළදාව අඩුවීමක් ඇතිබව පොල් පර්යේෂන ආයතනය සඳහන්කරයි. මෙම තත්වය ලබන වසරේ අප්‍රේල් දක්වා පවතිනු ඇතිබව ඒම අයතනය වැඩිදුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/708a21cc.json)
 
 ---
 
@@ -2271,51 +2297,5 @@ As an example of how to become the Chief Minister of the Kalmunai Municipal Coun
 [Data](articles/ff88c866.json)
 
 [Extended Data](ext_articles/ff88c866.ext.json)
-
----
-
-### People will respond to those who don't want
-
-*2024-11-01 02:21:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரும்பாதவர்களுக்கு-மக்கள்-பதிலளிப்பர்/175-346381) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil parties unite against Sinhala nationalism. Former MP Selvam Adakkalanathan criticizes current government. Parties seek unity post-elections. Public servant salary increase demanded. Corruption probes criticized. JVP aligns with Sinhala nationalism. Tamil Nadu's power emphasized.
-
-🟩
-
-Former parliamentarian and Vanni district Democratic Tamil National Alliance candidate Selvam Adakkalanathan says that the Anura government and the Sinhala nationalism are following the Sinhala nationalism.
-
-He was speaking to the media at his office in Vavuniya on Thursday (31).
-
-The Tamil parties have published by the Association of Disappeared Relations regarding unity. We accept it.
-
-In this election, we, Tamil parties, have made efforts to contest a publicity under a publicity. It is not possible. So it causes mental pain.. We will continue to make efforts to bring others inside.
-
-After the election, the Tamil parties should be created. As well as the people's anger on those who did not like unity after the election. Thus, when people teach the lesson, there may be opportunities for unity.
-
-...
-
-[Data](articles/4f610b06.json)
-
-[Extended Data](ext_articles/4f610b06.ext.json)
-
----
-
-### Thilan Wijesinghe joins Mahindra Ideal Finance Board as Independent Non-Executive Director
-
-*2024-11-01 02:19:00* · [`islandlk`](http://island.lk/thilan-wijesinghe-joins-mahindra-ideal-finance-board-as-independent-non-executive-director/) · `en`
-
-Thilan Wijesinghe (investment banker and owner of TWC group and pioneer of PPPs in Sri Lanka) joins Mahindra Ideal Finance Limited (MIFL) as an Independent Non-Executive Director. MIFL is a joint venture between Mahindra & Mahindra Financial Services Ltd (Mahindra Finance) of India and Ideal Motors of Sri Lanka.
-
-This appointment aligns with the company’s ongoing growth strategy, following the recent appointment of Mufaddal Choonia, who has held many senior positions at the Mahindra Group in India, as Managing Director & CEO of MIFL in July 2024. Together, these leadership additions mark a significant step forward in Mahindra Ideal Finance’s mission of playing an active role in Sri Lanka’s finance sector by offering innovative financial solutions.
-
-...
-
-[Data](articles/cf83a661.json)
-
-[Extended Data](ext_articles/cf83a661.ext.json)
 
 ---

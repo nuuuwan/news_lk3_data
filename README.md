@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 16:13:27**
+As of **2024-11-01 16:39:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,151
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,543 (100.0%) of 52,545 articles have been extended.
+52,545 (100.0%) of 52,545 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -118,11 +118,15 @@ The bodies of the two college dead were placed at the Badulla hospital.
 
 ---
 
-### අයි.එම්.එෆ්. කණ්ඩායමක් නුදුරේදීම ලංකාවට
+### IMF. කණ්ඩායමක් නුදුරේදීම ලංකාවට
 
 *2024-11-01 15:19:44* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--කණ්ඩායමක්-නුදුරේදීම-ලංකාවට/11-412795) · `si`
 
-ශ්‍රී ලංකාවේ විස්තීර්ණ ණය පහසුකම (EFF) යටතේ  සිදුකෙරෙන තුන්වන සමාලෝචනය පිළිබඳ සාකච්ඡා කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදලේ කණ්ඩායමක් නුදුරේදීම ශ්‍රී ලංකාවට පැමිණිමට නියමිතව තිබේ.
+IMF team visits Sri Lanka to discuss economic reforms. After presenting budget, IMF representatives met President and discussed fifth review cycle. Decision made on granting fourth review to Sri Lanka.
+
+🟩
+
+A team of the IMF is due to visit Sri Lanka to discuss the third review of Sri Lanka's third review.
 
 වත්මන් රජය දිවුරුම් දීමෙන් පසු IMF නියෝජිතයින් ශ්‍රී ලංකාවට පැමිණ ජනාධිපතිවරයා සමග සාකච්ඡාවක් පැවැත්වූ අතරම  ශ්‍රී ලංකාවේ කණ්ඩායමක් වොෂින්ටන් වෙතද ගොස් සාකච්ඡා පැවැත්වීය.
 
@@ -131,6 +135,8 @@ The bodies of the two college dead were placed at the Badulla hospital.
 ◼️
 
 [Data](articles/2e07e08d.json)
+
+[Extended Data](ext_articles/2e07e08d.ext.json)
 
 ---
 
@@ -302,21 +308,31 @@ Leader of the Universal Point, Gampaha District Candidate, Entrepreneurship Dili
 
 ---
 
-### කොතලාවල සරසවි සිසුන්ගේ බස් රථ අනතුරින් සිසුවියන් 2ක් මරුට 39ට තුවාල
+### Two girls killed in bus accidents in Kotelawala University students
 
 *2024-11-01 13:35:29* · [`adalk`](https://www.ada.lk/breaking_news/කොතලාවල-සරසවි-සිසුන්ගේ-බස්-රථ-අනතුරින්-සිසුවියන්-2ක්-මරුට-39ට-තුවාල/11-412794) · `si`
 
-බදුල්ල මහියංගණ ප්‍රධාන මාර්ගයේ දුන්හිඳ අබගහඔය 5 කනුව ප්‍රදේශයේදී අද (1)උදෑසන කොතලාවල ආරක්ශක විශ්වවිද්‍යාලයේ සිසුන් පිරිසක් ගමන් ගත් බස්රථයක් මාර්ගයේ න් ඉවතට පැන වේල්ලක ගැටි පෙරලීයාමෙන් සිසුවියන් දෙදෙනකු මියගොස් 39 ක් තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බව බදුල්ල පොලිසිය පවසයි .
+Two female students killed, 39 injured in bus crash near Kotelawala University. Accident occurred when bus veered off road in Mahiyanganaya area. Injured being treated at Badulla Teaching Hospital. Students from various districts including Ratnapura, Padukka, Avissawella, Alawwa, Kurunegala. Bodies identified at Badulla General Hospital morgue.
 
-තුවාල ලැබූවන් අතර විශ්වවිද්‍යාලයේ කතිකාචාර්යවරුන් තිදෙනකු , යුදහමුදා නිලධාරීන් දෙදෙනකු සහ සරසවි  සිසුවියන් 15ක් , සහ සරසවි සිසුන් 19 ක් සිට්න බවද පොලිසිය කීය .
+🟩
 
-තුවාලකරුවන් දැනට බදුල්ල ශික්ෂණ රෝහලේ  දැඩි සත්කාර ඒකකයේ , වාට්ටු අංක 9, 10, 15 වාට්ටු වල ප්‍රතිකාර ලබමින් පසුවෙන බවද ඔවුන්ගේ කිහිපදෙනක් ගේ තත්ත්වය බරපතළ බවද රෝහල් ආරංචි මාර්ග  සදහන් කළේය .
+The Badulla Police said that two students were killed and 39 were injured and injured and injured and injured in a shouting bus to the road at the Mahiyanganaya Authority.
 
-කොතලාවල ආරක්ශක විශ්වවිද්‍යාලයේ අවසන් වසරේ  මෙම සිසුන් ඊයේ (31) බදුල්ල ට පැමිණ ඇල්ල ප්‍රදේශයේ ගොස් පසුව පස්සර පැල්ගහතැන්න ප්‍රදේශයේ නවාතැන් ගෙන අද (1)උදෑසන පුහුණු වැඩසටහනකට බදුල්ල හරහා රන්දෙණිගල බලා යමින් සිටියදී මෙම අනතුර සිදුව ඇතැයි පොලිසිය පැවසීය .
+Among the injured were three treatrialists, two warnings and two university students and 19 university students.
+
+Hospital sources said that the injured are currently receiving treatment at the Badulla Teaching Unit, Ward 9, 10, 15, "hospital sources said.
+
+The accident had occurred when the students were traveling in Badulla last year at the Ella area in Paliya Pelgahatenna, Passara and then staying in the Puttalam Palgahanna area in Pelgahatenna.
+
+The police said that the bus was suddenly carried out in the Mahiyangana Abigahao Oya 5 earlier in the Mahiyanganaya area in Badulla.
+
+Senior Medical Officer of the South Medical Officer of the Badulla Teaching Hospital, Dr. Palitha Rajapaksa, who was instantly taken to the site, was taken to the Badulla Teaching Hospital with the injuries of the hospital.
 
 ...
 
 [Data](articles/988b1a20.json)
+
+[Extended Data](ext_articles/988b1a20.ext.json)
 
 ---
 

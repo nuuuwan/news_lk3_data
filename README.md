@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 11:11:54**
+As of **2024-11-01 11:24:12**
 
 ## Newspaper Stats
 
-*Scraped **52,506** Articles*
+*Scraped **52,509** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,187
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,886
-adaderanalk | 6,235
-tamilmirrorlk | 7,282
+adaderanalk | 6,236
+tamilmirrorlk | 7,284
 virakesarilk | 8,468
 adaderanasinhalalk | 9,142
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 9,142
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,506 (100.0%) of 52,506 articles have been extended.
+52,509 (100.0%) of 52,509 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### IMF team to visit Sri Lanka soon for third review under EFF program
+
+*2024-11-01 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103083/imf-team-to-visit-sri-lanka-soon-for-third-review-under-eff-program-) · `en`
+
+A team from the International Monetary Fund (IMF) will soon visit Sri Lanka to discuss the third review under the country’s Extended Fund Facility (EFF) program, according to Krishna Srinivasan, the Director of the IMF’s Asia and Pacific Department.
+
+He made these remarks in response to a question during a press briefing held by the IMF today (01).
+
+“Right after the new government came into office; we had a mission in Sri Lanka, where we held productive discussions with the President and his team. It is clear that Sri Lanka has made significant progress under the program, and these gains must be safeguarded. Measures need to be taken to build on the successes achieved so far,” he said.
+
+Srinivasan further emphasized that the new government is fully committed to the IMF-supported program, particularly regarding fiscal and debt targets.
+
+...
+
+[Data](articles/8a10ee20.json)
+
+[Extended Data](ext_articles/8a10ee20.ext.json)
+
+---
+
+### Visiting foreign monitors
+
+*2024-11-01 11:03:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-கண்காணிப்பாளர்கள்-விஜயம்/175-346407) · `ta`
+
+EU election monitors start surveillance activities in Sri Lanka
+
+🟩
+
+The Executive Director of the PAFRAL Organization Rohana Hettidiarachchi said that the EU election monitors have already begun their surveillance activities.. (That)
+
+◼️
+
+[Data](articles/46d47001.json)
+
+[Extended Data](ext_articles/46d47001.ext.json)
+
+---
+
+### Report on paddy and rice reserves
+
+*2024-11-01 10:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-அரிசி-இருப்புக்கள்-குறித்து-அறிக்கை-கையளிப்பு/175-346406) · `ta`
+
+Consumer Affairs Authority report: Paddy and rice reserves data for Ampara, Anuradhapura, Polonnaruwa districts submitted to Ministry of Commerce. Construction of reserves in other districts underway. Ministry monitoring high-priced rice sales.
+
+🟩
+
+The Consumer Affairs Authority said that the report on paddy and rice reserves in five districts has been handed over to the Ministry of Commerce.
+
+This includes data on paddy and rice reserves in five districts including Ampara, Anuradhapura and Polonnaruwa.
+
+However, the Ministry of Commerce said that the reports of paddy and rice stockpile in other districts should be obtained.
+
+Accordingly, the construction of paddy and rice in those districts has already begun.Officials of the Consumer Affairs Authority have said that the Authority has said.
+
+Meanwhile, the Ministry of Commerce has announced that it is continuing to detect places where rice is sold at a higher price than the control price.. (That)
+
+◼️
+
+[Data](articles/4b95fa0b.json)
+
+[Extended Data](ext_articles/4b95fa0b.ext.json)
+
+---
 
 ### Warrant is taken back after Johnston is contesting to court
 
@@ -2239,69 +2303,5 @@ So there are no more development in the Tamil people living in the Colombo distr
 [Data](articles/c239ed65.json)
 
 [Extended Data](ext_articles/c239ed65.ext.json)
-
----
-
-### Sri Lanka corruption watchdog complains to EC over new appointments in PDB
-
-*2024-10-31 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-corruption-watchdog-complains-to-ec-over-new-appointments-in-pdb-185772/) · `en`
-
-ECONOMYNEXT – Transparency International Sri Lanka (TISL), a local corruption watchdog, has formally filed a complaint over appointment into Palmyrah Development Board (PDB) during the election campaign period, citing the move as violating the election laws.
-
-The recent appointments made at the PDB in Jaffna “appear to contravene current election laws”, TISL said, citing that the ruling party has approved swift changes in several new board members as well as chairman twice within the gap of 12 days.
-
-The election law prevents making new appointments, promotions, or transfers during the election period without prior approval from the Election Commission.
-
-“The recent changes at the PDB raise serious concerns about compliance with these legal standards and call into question the governance practices upheld during this sensitive period,” the TISL said in a statement.
-
-...
-
-[Data](articles/f50ccf17.json)
-
-[Extended Data](ext_articles/f50ccf17.ext.json)
-
----
-
-### Abuse of Biku;சிறை ுவ ுவ சிறை சிறை சிறை சிறை சிறை ுவ
-
-*2024-10-31 16:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிக்கு-துஷ்பிரயோகம்-பிக்குவிற்கு-கடூழிய-சிறை/175-346363) · `ta`
-
-Buddhist monk sentenced 7 years jail for child abuse, fined Rs. 100,000, ordered to pay 100,000 compensation.
-
-🟩
-
-The Colombo High Court has sentenced a Buddhist monk to seven years rigorous imprisonment for allegedly sexually abusing a child.
-
-The court also has a fine of Rs.. It has also been ordered to pay 100,000 compensation.
-
-Colombo High Court Judge Mahesh Weeraman made the verdict yesterday (30)
-
-◼️
-
-[Data](articles/5e2219b3.json)
-
-[Extended Data](ext_articles/5e2219b3.ext.json)
-
----
-
-### Sexual abuse;7 years of rigorous prison for Piku
-
-*2024-10-31 16:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலியல்-துஷ்பிரயோகம்-பிக்குவிற்கு-7-வருடம்-கடூழிய-சிறை/175-346363) · `ta`
-
-Buddhist monk sentenced to 7 years hard labor for sexual abuse of child. Fined and ordered to pay 100,000 rupees in compensation. Case decided by Colombo High Court Judge Mahesh Weeraman on March 30th.
-
-🟩
-
-The Colombo High Court has sentenced a Buddhist monk to seven years rigorous imprisonment for allegedly sexually abusing a child.
-
-The court also has a fine of Rs.. It has also been ordered to pay 100,000 compensation.
-
-Colombo High Court Judge Mahesh Weeraman made the verdict yesterday (30)
-
-◼️
-
-[Data](articles/aed5e65b.json)
-
-[Extended Data](ext_articles/aed5e65b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 21:24:15**
+As of **2024-11-01 21:40:09**
 
 ## Newspaper Stats
 
-*Scraped **52,572** Articles*
+*Scraped **52,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,896
 adaderanalk | 6,247
 tamilmirrorlk | 7,292
-virakesarilk | 8,475
+virakesarilk | 8,487
 adaderanasinhalalk | 9,160
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,572 (100.0%) of 52,572 articles have been extended.
+52,576 (100.0%) of 52,584 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,66 @@ It is reported that 19 people were injured and injured were rushed to the Nuwara
 [Data](articles/d758d05f.json)
 
 [Extended Data](ext_articles/d758d05f.ext.json)
+
+---
+
+### Foreign Passport Distribution from next month - Department of Immigration and Emigration
+
+*2024-11-01 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197686) · `ta`
+
+Foreign passport distribution resumes next month. 1.5 million passports available: 500K now, 100K in October, 150K in December. Daily distribution increases from 1,600 to unknown. Applicants allocated specific times/dates via formal system.
+
+🟩
+
+வெளிநாட்டு கடவுச்சீட்டுக்களை கொள்வனவு விலைமனுகோரலுக்காக வெளிநாட்டு நிறுவனத்துடனான ஒப்பந்தத்துக்கமைய 'பி' தொகுதிக்கமைய 50,000 வெற்று வெளிநாட்டு கடவுச்சீட்டுக்கள் கிடைக்கப் பெற்றுள்ளன. The Department of Immigration and Emigration has stated that the distribution of passports will return to normal from next month.
+
+இந்த தொகைக்கு மேலதிகமாக இந்த மாதம் நடுப்பகுதியில் மேலும் 100,000 வெற்றுக் கடவுச்சீட்டுக்களும், டிசெம்பர் மாதம் மேலும் 150,000 வெற்றுக் கடவுச்சீட்டுக்களும்  கிடைக்கப் பெறவுள்ளன. அத்துடன் 750,000 வெற்றுக் கடவுச்சீட்டுக்கள் எதிர்வரும் மாதமளவில் கிடைக்கப் பெறவுள்ளன.
+
+அத்துடன் மேலதிகமாக வெற்றுக் கடவுச்சீட்டுக்களை பெற்றுக் கொள்வதற்கான பெறுகை நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன. At present, about 1600 passports per day are being distributed to applicants, and this amount will be increased from next month.
+
+Technical measures have been taken to allocate the time and date for applicants through the formal system of the system.
+
+◼️
+
+[Data](articles/58dcb5d3.json)
+
+[Extended Data](ext_articles/58dcb5d3.ext.json)
+
+---
+
+### ஹொங் கொங் சிக்ஸஸ் கிண்ண பிரிவுக்கான கால் இறுதியில் இலங்கை
+
+*2024-11-01 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197685) · `ta`
+
+Sri Lanka qualifies for quarterfinals, beats Oman and Bangladesh in cricket matches. Nepal also qualifies after beating England. Sri Lanka faces Nepal in quarterfinals tomorrow, win would advance to semifinals.
+
+🟩
+
+The Hong Kong Six Cricket Cricket Cricket at the Hong Kong Mission Road Ground, Hong Kong, was eligible to play in the main bowl division quarterfinals.
+
+Sri Lanka qualified to play in the quarterfinals by winning Oman and Bangladesh on Friday (01) in the league round.
+
+இன்று காலை நடைபெற்ற ஓமானுக்கு எதிரான தனது முதலாவது போட்டியில் 4 விக்கெட்களால் இலங்கை வெற்றிபெற்றது.
+
+Oman scored 82 runs for the loss of 2 wickets in 6 overs.
+
+Hong Kong Six Cricket Cricket. If 5 wickets fall in 6 overs, he can enter the field again.
+
+In the match, the team will be given only 2 overs in the match.
+
+In the bowling, Tanjaya Lakshan took one wicket for 6 runs and Lahiru Madushank took one wicket for 16 runs.
+
+In reply, Sri Lanka lost 2 wickets in 4.1 overs and scored 82 runs.
+
+Chandun Veerakkodi scored 28 runs, Lahiru Samarakoon scored 20 runs without losing, and team captain Lahiru Madushankan scored 15 runs without losing the game.
+
+Sri Lanka won by 18 runs in its 2nd match against Bangladesh on the same day.
+
+...
+
+[Data](articles/b1c85142.json)
+
+[Extended Data](ext_articles/b1c85142.ext.json)
 
 ---
 
@@ -120,6 +180,36 @@ Additionally, he has been provided with three vehicles: a Mercedes Benz -600 May
 
 ---
 
+### இந்தியா - நியூஸிலாந்து கடைசி டெஸ்ட்: இரண்டு அணிகளும் சமஅளவில் மோதல்
+
+*2024-11-01 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197683) · `ta`
+
+India vs New Zealand test match summary: Both teams score evenly after first day. Spinners take 11 out of 14 wickets. Virat Kohli runs out for 2. Will Young scores 71, Daryl Mitchell 82. Ravindra Jadeja takes 5/65, Ravichandran Ashwin 4/81. India replies with 84/4, Shubman Gill unbeaten on 31.
+
+🟩
+
+இந்தியாவுக்கும் நியூஸிலாந்துக்கும் இடையில் மும்பை வான்கேட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (01) ஆரம்பமான மூன்றாவதும் கடைசியுமான டெஸ்ட் கிரிக்கெட் போட்டியின் முதல் நாள் ஆட்டத்தில் 14 விக்கெட்கள் வீழ்த்தப்பட்டு இரண்டு அணிகளும் சம அளவில் இருக்கின்றன.
+
+The Indian team management demanded the Mumbai Ground caretaker to make the Mumbai pitch in favor of the spinning and the rotation from the first day.
+
+Despite this, it is astonishing that New Zealand did not incorporate Michelle Centner, who took 13 wickets in the second Test in the second Test.
+
+11 wickets out of 14 wickets were captured by spinners. Virat Kohli was unnecessarily run out for 2 wickets.
+
+New Zealand, who decided to bat first, lost all the wickets in its first innings and scored only 235 runs.
+
+Will Young scored 71 runs and Derell Michelle 82 and they both shared 87 runs in the 4th wicket.
+
+Team Leader Tom Letham scored a maximum of 28 runs than them.
+
+...
+
+[Data](articles/e7eb9ad2.json)
+
+[Extended Data](ext_articles/e7eb9ad2.ext.json)
+
+---
+
 ### Presidential Media Division explains to Mahinda's safety
 
 *2024-11-01 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202814) · `si`
@@ -181,6 +271,54 @@ The Department of Immigration and Emigration will be released to applicants abou
 [Data](articles/f2bdc97e.json)
 
 [Extended Data](ext_articles/f2bdc97e.ext.json)
+
+---
+
+### Bluddy Becker - Film Review
+
+*2024-11-01 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197674) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Bluddy Becker" film review: Gavin stars as a man who enters a mansion, gets trapped by relatives fighting over inheritance. Director Nelson's "Tata" and "Star" success precedes this. Ghostly humor and family drama ensue.
+
+🟩
+
+Actors: Gavin, Maruti Prakash Raj, Sunil Sugatha, DM Karthik, Padam Venu Kumar, Harshad, Miss. Salima, Priyadarshini Rajkumar, Akshaya Hariharan and many others.
+
+After the success of leading director Nelson Nelson - 'Tata' and 'Star', actor Gavin's different appearance - did the filmmakers who went to the filmmalai to see the film, were entertained by the film crew?Or are they?We will continue to see.
+
+Gavin asks people to differentiate people. He continues this because it is easy.
+
+One day he went into the palace like a palace and what would be there?He wants to enjoy and enjoy. He goes into the magnificent mansion for this.
+
+There is also a ghost there. There are relatives gathering in order to split the archetype. Gavin is trapped among them. Did he escape from them?Or not?That is the story of the film.
+
+Actor Gavin gives a different performance in begging and going into the mansion and getting stuck in relatives who can split the property.
+
+...
+
+[Data](articles/ece8bc1b.json)
+
+[Extended Data](ext_articles/ece8bc1b.ext.json)
+
+---
+
+### பாராளுமன்ற தேர்தலில் முறைப்பாடுகளின் எண்ணிக்கை அதிகரிப்பு - தேர்தல் ஆணையம்
+
+*2024-11-01 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197680) · `ta`
+
+எதிர்வரும் பாராளுமன்ற தேர்தல் தொடர்பாக தேர்தல் ஆணையத்திற்கு கிடைக்கப்பெற்ற முறைப்பாடுகளின் எண்ணிக்கை 1259 ஆக அதிகரித்துள்ளது.
+
+கடந்த 24 மணி நேரத்தில் 123 புகார்கள் வந்துள்ளதாக தேர்தல் ஆணையம் தெரிவித்துள்ளது.
+
+எனினும், மொத்தமுள்ள 1259 புகார்களில் 1018 புகார்களுக்கு தீர்வு காணப்பட்டுள்ளதாக தேர்தல் ஆணையம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5162eef3.json)
 
 ---
 
@@ -276,6 +414,70 @@ In addition, the service of Vijayasuriya is immense to introduce Sri Lanka to Sr
 
 ---
 
+### அமரன் - திரைப்பட விமர்சனம்
+
+*2024-11-01 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197670) · `ta`
+
+நடிகர்கள் : சிவகார்த்திகேயன், சாய் பல்லவி, ராகுல் போஸ், புவன் அரோரா, கீதா கைலாசம் மற்றும் பலர்.
+
+'உலகநாயகன்' கமல்ஹாசனின் தயாரிப்பில், சிவ கார்த்திகேயனின் நடிப்பில், இயக்குநர் ராஜ்குமார் பெரியசாமியின் இயக்கத்தில் உருவான 'அமரன்' திரைப்படம் ரசிகர்களிடம் பெரும் எதிர்பார்ப்பை ஏற்படுத்தியிருந்தது.
+
+இந்திய ராணுவத்தில் பணியாற்றி வீர மரணம் அடைந்த மேஜர் முகுந்த் வரதராஜனின் வாழ்க்கை வரலாற்றை தழுவி தயாரான இந்த திரைப்படம் அனைத்து தரப்பு ரசிகர்களையும் கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+இந்திய ராணுவத்தில் பணியாற்றிய தமிழகத்தை சேர்ந்த முகுந்த் வரதராஜன் 2014 ஆம் ஆண்டு ஏப்ரல் மாதம் 25 ஆம் திகதி அன்று காஷ்மீர் மாநிலத்திலுள்ள ஷோபியான் மாவட்டத்தில் நடைபெற்ற தீவிரவாதிகளுக்கு எதிரான தாக்குதலின் போது வீர மரணம் அடைந்தார்.
+
+அவரின் சொந்த வாழ்க்கை மற்றும் ராணுவத்தில் அவர் ஆற்றிய பணிகள் ஆகியவற்றை அவரின் மனைவியான இந்து மூலமாக பார்வையாளர்களுக்கு நனவோடை உத்தி மூலம் திரை மொழி மற்றும் காட்சி மொழி வழியாக சொல்லப்பட்டிருக்கும் அவரின் வீர செறிந்த வாழ்க்கை தான் இந்த 'அமரன்'.
+
+...
+
+[Data](articles/bff1b3be.json)
+
+---
+
+### பிரதர் - திரைப்பட விமர்சனம்
+
+*2024-11-01 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197672) · `ta`
+
+நடிகர்கள் : ஜெயம் ரவி, பிரியங்கா மோகன், பூமிகா சாவ்லா, அச்யுத் குமார், கீதா கைலாசம்,  ராவ் ரமேஷ் , சரண்யா பொன்வண்ணன்,  நட்டி நட்ராஜ்,  வி டி வி கணேஷ் மற்றும் பலர்.
+
+ஜெயம் ரவி நடிப்பில் தயாராகி தீபாவளி வெளியீடாக வெளியாகி இருக்கும் 'பிரதர்'- அனைத்து ரசிகர்களின் எதிர்பார்ப்பையும் பூர்த்தி செய்ததா? இல்லையா? என்பதை தொடர்ந்து காண்போம்.
+
+கார்த்திக் (ஜெயம் ரவி) சென்னையில் ஓய்வு பெற்ற பேராசிரியரான குமாரசாமி ( அச்யுத் குமார்- கீதா கைலாசம் தம்பதியர்) உடன் வாழ்ந்து வருகிறார்.
+
+நேர்மையாகவும், மனதில் பட்டதை துணிச்சலுடன் சொல்லும் நபராகவும், சட்டக் கல்லூரியில் பயிலும் மாணவராகவும் இருக்கிறார்.
+
+இதனால் பொதுவெளியில் சட்டத்தின் பிரிவுகளை கூறி பிரச்சனைகளை உருவாக்குகிறார். இதனால் பலருக்கும் பிரச்சனை ஏற்படுகிறது.
+
+வேலைக்குச் சென்று பொறுப்புடன் நடந்து கொள்ளாமல்  சிக்கல்களை ஏற்படுத்துவதால் அவரது தந்தை குமாரசாமியின் ஆரோக்கியம் பாதிக்கப்படுகிறது.
+
+வைத்திய சாலையில் அனுமதிக்கப்பட்டிருக்கும் அவரை சந்திக்க ஊட்டியில் இருந்து சென்னைக்கு வருகை தருகிறார் ஜெயம் ரவியின் அக்காவும், குமாரசாமியின் மூத்த வாரிசுமான பூமிக்கா சாவ்லா.
+
+...
+
+[Data](articles/e71c5321.json)
+
+---
+
+### வல்லை - அராலி வீதியை முழுமையாக திறக்குமாறு மக்கள் கோரிக்கை !
+
+*2024-11-01 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197658) · `ta`
+
+யாழ்ப்பாணம், வல்லை - அராலி வீதியின் மீதமுள்ள வீதியையும் மக்கள் பாவனைக்காக திறந்து விட வேண்டும் என அப்பகுதி மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+வல்லை - அராலி வீதியில் தெல்லிப்பளை கட்டுவான் சந்தி பகுதியில் இருந்து அச்சுவேலி தோலாக்கட்டி சந்தி வரையிலான வீதி கடந்த 34 வருடங்களுக்கு மேலாக இராணுவ உயர்பாதுகாப்பு வலயத்தினுள் காணப்படுகிறது.
+
+குறித்த வீதியில் வெள்ளிக்கிழமை (01) பலாலி வீதியில் உள்ள வசாவிளான் சந்தியில் இருந்து அச்சுவேலி தோலாகட்டி சந்தி வரையிலான சுமார் ஒரு கிலோ மீற்றர் தூரமான வீதியே திறந்து விடப்பட்டுள்ளது.
+
+மிகுதி வீதி இன்னமும் இராணுவ கட்டுப்பாட்டு பகுதிக்குள்ளேயே காணப்படுகிறது. அத்தனையும் விரைவில் மக்கள் பாவனைக்கு விடுவிக்க வேண்டும் என கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+தற்போதும் அச்சுவேலி மற்றும் வடமராட்சி பகுதிகளில் வாழும் மக்கள் வலி வடக்கு மற்றும் தெல்லிப்பழை வைத்தியசாலைக்கு வருவதற்கு, வல்லை - அராலி வீதியூடாக பயணித்து , வசாவிளான் சந்தியை அடைந்து , குரும்பசிட்டி ஊடாக சுற்றி , மீண்டும் வல்லை - அராலி வீதியை அடைந்தே தமது பயணத்தை தொடர வேண்டிய நிலையில் உள்ளனர்.
+
+...
+
+[Data](articles/0e8415f6.json)
+
+---
+
 ### Fire in the karaj
 
 *2024-11-01 17:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கராஜில்-தீ-விபத்து/175-346412) · `ta`
@@ -295,6 +497,46 @@ The fire has now spread to 02 houses, the Fort Fire Department said.
 [Data](articles/a8b9a9a6.json)
 
 [Extended Data](ext_articles/a8b9a9a6.ext.json)
+
+---
+
+### எல்பிட்டிய தேர்தல் முடிவுகள் அபாயகர நிலைமைக்கான ஒரு முன் அறிவிப்பு - ஹிருணிக்கா
+
+*2024-11-01 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197656) · `ta`
+
+எல்பிட்டிய தேர்தல் முடிவுகள் அபாயகரமான நிலைமைக்கான ஒரு முன் அறிவிப்பாகும். தற்போதைய அரசாங்கத்துக்கு இது ஒரு சிறந்த முன்னறிவிப்பு இல்லை என்பது மாத்திரம் தெளிவாகிறது.
+
+எதிர்க்கட்சியின் உறுப்பினராக இருந்த போது கூறிய விடயங்களை நடைமுறைப்படுத்துவது எந்தளவு கடினமானது என்பதை ஜனாதிபதி அநுரகுமார திஸாநாயக்க தற்போது புரிந்து கொண்டிருப்பார் என முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமசந்திர தெரிவித்தார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணி அலுவலகத்தில் வெள்ளிக்கிழமை (01)  இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+எல்பிட்டிய தேர்தல் முடிவுகள் அபாயகரமான நிலைமைக்கான ஒரு முன் அறிவிப்பாகும். பிரதேசசபைக்கான தலைவரை தெரிவு செய்தல், வரவு - செலவு திட்டம் உள்ளிட்டவற்றை நிறைவேற்றிக் கொள்வதில் ஆளுங்கட்சி சவால்களை எதிர்கொள்ள வேண்டியேற்படும்.
+
+ஓரிரு வாக்குகளால் இவை தீர்மானிக்கக் கூடிய சக்தியாக அமையும். எனவே தற்போதைய அரசாங்கத்துக்கு இது ஒரு சிறந்த முன்னறிவிப்பு இல்லை என்பது மாத்திரம் தெளிவாகிறது.
+
+...
+
+[Data](articles/4ac76feb.json)
+
+---
+
+### லக்கி பாஸ்கர் - திரைப்பட விமர்சனம்
+
+*2024-11-01 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197668) · `ta`
+
+நடிகர்கள் : துல்கர் சல்மான், மீனாட்சி சவுத்ரி, சச்சின் கடேகர், டினு ஆனந்த், மாஸ்டர் ரித்விக் மற்றும் பலர்.
+
+துல்கர் சல்மானின் படம்-  'வாத்தி' எனும் படத்தை இயக்கிய இயக்குநரின் படம்-   தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி என இந்திய மொழிகளில் வெளியான பான் இந்திய அளவிலான படம்- என பன்முக அடையாளத்துடன் வெளியான 'லக்கி பாஸ்கர்' திரைப்படம் தமிழ் ரசிகர்களை கவர்ந்ததா? இல்லையா? என்பதை தொடர்ந்து பார்ப்போம்.
+
+தனியார் வங்கி ஒன்றில் காசாளராக பணியாற்றும் நாயகன் நிதி முறைகேட்டில் ஈடுபட்டு செல்வந்தராகும் கதை.
+
+1980களின் இறுதியிலும் 90 களின் தொடக்கத்திலும் இப்படத்தின் கதை இந்திய நாட்டின் வணிக தலைநகர் என்று குறிப்பிடப்படும் மும்பையில் நடைபெறுகிறது.
+
+அங்கு இயங்கி வரும் தனியார் வங்கி ஒன்றில் காசாளராக பணியாற்றுகிறார் பாஸ்கர் ( துல்கர் சல்மான்).  கடுமையான உழைப்பால் தொடர்ந்து மூன்று ஆண்டுகள் சிறந்த பணியாளர் என்ற விருதினையும் பெற்றவர். இவருக்கு பெற்றோர்கள் , தங்கை , தம்பி ,மனைவி, குழந்தை , என்று அழகான குடும்பமும் உண்டு.
+
+...
+
+[Data](articles/ff9a0ffa.json)
 
 ---
 
@@ -319,6 +561,26 @@ The tournament will be held from December 12 to 22nd December 12th to 22nd Decem
 [Data](articles/80c13dc5.json)
 
 [Extended Data](ext_articles/80c13dc5.ext.json)
+
+---
+
+### ரணிலின் பொருளாதார கொள்கையையே ஜனாதிபதி அநுர தொடர்கிறார் - நாமல் குற்றச்சாட்டு
+
+*2024-11-01 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197651) · `ta`
+
+ஆட்சிக்கு வந்தவுடன் சர்வதேச நாணய நிதியத்தின் செயற்திட்டத்தை மறுசீரமைப்பதாக  குறிப்பிட்ட ஜனாதிபதி அநுரகுமார திசாநாயக்க முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் பொருளாதார கொள்கையை எவ்வித மாற்றமுமில்லாமல் தொடர்கிறார்.
+
+ஆட்சிமாற்றத்தை ஏற்படுத்திய மக்கள் ஏமாற்றமடைந்துள்ளார்கள் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
+
+கொழும்பில் வெள்ளிக்கிழமை (01) இடம்பெற்ற ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தொகுதி அமைப்பாளர் கூட்டத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அரசியல் ரீதியில் பல சவால்களை எதிர்கொண்டுள்ளோம். ஜனாதிபதித் தேர்தலில் போது எம்முடன் இருந்தவர்கள் குறுகிய அரசியல் தேவைகளுக்காக எம்மை விட்டுச் சென்றார்கள். அவ்வாறு சென்றவர்கள் இன்று அரசியலில் பாரிய நெருக்கடிகளை எதிர்கொண்டுள்ளார்கள்.
+
+ஆகவே பாராளுமன்றத்தில் பிரதான எதிர்க்கட்சி பதவியை பொதுஜன பெரமுனவுக்கு வழங்குவார்கள் என்ற நம்பிக்கை உள்ளது.
+
+...
+
+[Data](articles/3c9206ad.json)
 
 ---
 
@@ -663,6 +925,20 @@ The police said that the place has been reached by fire exits.
 [Data](articles/3a399896.json)
 
 [Extended Data](ext_articles/3a399896.ext.json)
+
+---
+
+### வர்த்தக , முதலீட்டு வாய்ப்புக்கள் குறித்து இலங்கை - கனேடிய வணிகப்பேரவை உறுப்பினர்கள் ஆராய்வு
+
+*2024-11-01 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197641) · `ta`
+
+இலங்கை வர்த்தக சம்மேளனத்தின் (சிலோன் சேம்பர் ஒஃப் கொமர்ஸ்) இலங்கை - கனேடிய வணிகப்பேரவை உறுப்பினர்கள் கனடாவுக்கு 9 நாட்கள் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு, இருதரப்பு நல்லுறவை வலுப்படுத்தல், இருநாடுகளுக்கும் இடையிலான வர்த்தக மற்றும் முதலீட்டு வாய்ப்புக்கள் விரிவுபடுத்தல் உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பில் அந்நாட்டுப் பிரதிநிதிகளுடன் வெற்றிகரமான பேச்சுவார்த்தைகளை முன்னெடுத்துள்ளனர்.
+
+இலங்கை - கனடாவுக்கு இடையிலான வர்த்தகத்தொடர்புகளை வலுப்படுத்துவதை நோக்காகக்கொண்ட இலங்கை - கனேடிய வணிகப்பேரவையின் 9 உறுப்பினர்கள் கடந்த ஒக்டோபர் மாதம் 14 - 22 ஆம் திகதி வரை கனடாவுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/528b99bd.json)
 
 ---
 
@@ -2149,245 +2425,5 @@ The suspect is a cheapient in Hendala and Wattala, Hendala, aged 31.
 [Data](articles/57d93d0a.json)
 
 [Extended Data](ext_articles/57d93d0a.ext.json)
-
----
-
-### Second day of postal voting in general election today
-
-*2024-11-01 06:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202786) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Second day of postal voting in Sri Lanka's general election. Postal voting began yesterday at district secretariats, elections commission, and police stations. Today, it continues for armed forces and government institutions. Eligible voters unable to cast ballots in person can do so at local election offices."
-
-🟩
-
-මහ මැතිවරණයේ තැපැල් ඡන්ද සලකුණු කිරීමේ දෙවන දිනය අද (01) යි.
-
-Postal voting was marked by the District Secretariats, Elections Commission and police stations as the first date of postal voting on the 30th of last month.
-
-The Commissioner General of Elections Saman Sri Lanka said that the postal voting of the armed forces and all other government institutions today.
-
-Postal voters, which are not able to vote, has been given the opportunity to mark the postal voting at the district's election offices in the district where their workplace.
-
-◼️
-
-[Data](articles/46390aba.json)
-
-[Extended Data](ext_articles/46390aba.ext.json)
-
----
-
-### 11 year old girl dies in lightning
-
-*2024-11-01 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202785) · `si`
-
-11-year-old girl killed by lightning in Ambathanna farm. Father and brother injured. Brother hospitalized. Police investigating incident.
-
-🟩
-
-The death of a 11-year-old girl from a lightning girl was reported from the Ambathanna farm in the Ambathanna farm.
-
-The girl's father and brother was saying that the girl had been involved in this accident.
-
-Her brother was also admitted to the Passara Hospital after admission to the Passara Hospital after admission to the Passara Hospital.
-
-The father has no accident and the Passara Police are conducting further investigations.
-
-◼️
-
-[Data](articles/033d8609.json)
-
-[Extended Data](ext_articles/033d8609.ext.json)
-
----
-
-### Sri Lanka Design Festival 2024: Showcase of creativity and culture at Cinnamon Life at City of Dreams
-
-*2024-11-01 06:11:47* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Design-Festival-2024-Showcase-of-creativity-and-culture-at-Cinnamon-Life-at-City-of-Dreams/34-768692) · `en`
-
-Highlighting Sri Lanka as a focal point for South Asian design, the partnership between Cinnamon Life at City of Dreams as official host and SLDF establishes Colombo as the new nucleus of the subcontinent’s vibrant creative ecosystem
-
-This collaboration positions the city as a dynamic hub where creativity and commerce converge, inviting businesses to engage with the city’s transformation and leverage the dynamic energy of innovation and cultural expression that defines the new Colombo
-
-SLDF and MBFWSL will be held at Cinnamon Life City of Dreams, 7 to 10 November with an immersive public program including over 50 events packed with knowledge, insights, and inspiration for the general public and business community alike
-
-...
-
-[Data](articles/4f2deb88.json)
-
-[Extended Data](ext_articles/4f2deb88.ext.json)
-
----
-
-### Prima triumphs at National Supply Chain Excellence Awards for 2nd consecutive year
-
-*2024-11-01 06:10:21* · [`dailyftlk`](https://www.ft.lk/business/Prima-triumphs-at-National-Supply-Chain-Excellence-Awards-for-2nd-consecutive-year/34-768691) · `en`
-
-Prima Group Sri Lanka Ceylon Agro Industries General Manager Sajith Gunaratne receiving the Special Commendation Award at the National Awards of Excellence for the Best Supply Chain Practicing Organisation in the Large Scale category from Special Guest International Federation of Purchasing and Supply Management CEO Markku Henttinen, and Chief Guest International Federation of Purchasing and Supply Management President Eng. Chris Oanda, in the presence of officials of the Institute of Supply and Materials Management and Ceylon Agro Industries Ltd., Prima Group Sri Lanka
-
-Ceylon Agro Industries (CAI) Ltd. (Prima Group Sri Lanka) was honoured with the National Award of Excellence for Best Supply Chain Practising Organisation, along with a Special Commendation Award in the Large Scale Commendation category, at the National Supply Chain Excellence Awards 2024.
-
-...
-
-[Data](articles/19262e5b.json)
-
-[Extended Data](ext_articles/19262e5b.ext.json)
-
----
-
-### Teejay closes H1 charting strong course for future
-
-*2024-11-01 06:09:23* · [`dailyftlk`](https://www.ft.lk/business/Teejay-closes-H1-charting-strong-course-for-future/34-768690) · `en`
-
-Teejay Group, Sri Lanka’s first multinational textile manufacturer, has recorded a Profit after Tax of Rs. 0.9 billion for the first half of the financial year ending 30 September.
-
-The Group revenue  reached a notable Rs. 32.7 billion, recording an 11% increase compared to the first half of the previous year.
-
-Gross Profit of the Group posted at Rs. 3.2 billion for the first half of FY2024/25 with a 47% improvement when compared to the same period in the previous financial year with a strong balance sheet and a cash balance of Rs. 8.4 billion. The net assets base at the close of the period under review stood at Rs. 30.4 billion, with a value of Rs. 42.19 net assets per share.
-
-...
-
-[Data](articles/1848ae31.json)
-
-[Extended Data](ext_articles/1848ae31.ext.json)
-
----
-
-### Ceylon Business Appliances celebrates 54 years of excellence
-
-*2024-11-01 06:08:21* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Business-Appliances-celebrates-54-years-of-excellence/34-768689) · `en`
-
-Director/ CEO Ruwath Fernando, Managing Director Sadha Fernando, and Ceylon Business Appliances team
-
-Ceylon Business Appliances (CBA) is celebrating a remarkable milestone this year, marking 54 years of pioneering excellence and innovation in Sri Lanka’s technology sector. CBA has consistently led technological advancements, shaping the nation’s digital landscape and setting industry benchmarks that continue to influence the business sector.
-
-CBA’s journey of innovation began in the 1970s with the introduction of Barrows Banking Ledger Machines and Brother Typewriters, transforming operations in banks and offices. This laid the foundation for efficient business practices across the country. In the 1980s, CBA introduced plastic ID cards and modern photocopiers from Mita and later Kyocera, driving further business innovation.
-
-...
-
-[Data](articles/0f92993c.json)
-
-[Extended Data](ext_articles/0f92993c.ext.json)
-
----
-
-### A tight rain over 100 mm millimeters today
-
-*2024-11-01 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202783) · `si`
-
-Heavy rainfall warning: 100mm+ expected today. Thunderstorms forecasted for Uva, East, Central, Sabaragamuwa, and North Central provinces. Coastal areas may experience strong winds and lightning. Public advised to take precautions against potential damage from storms.
-
-🟩
-
-The Department of Meteorology says that there is a atmosphical situation that has occurred at several parts of the island today (01).
-
-Thundershowers showers or thundershowers during the evening or night in many parts of the island.
-
-Uva, East, Central, Sabaragamuwa and North Central provinces. Heavy showers over 100 can also be caused by the Met Department.
-
-Showers or thundershowers will occur at several places elsewhere in the coastal areas of the Northern, Eastern and North Western provinces.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-◼️
-
-[Data](articles/5b4501cc.json)
-
-[Extended Data](ext_articles/5b4501cc.ext.json)
-
----
-
-### SWRD, JR et al, tradition or mythology?
-
-*2024-11-01 06:06:42* · [`dailyftlk`](https://www.ft.lk/columns/SWRD-JR-et-al-tradition-or-mythology/4-768688) · `en`
-
-“Oh little monk, it is an arduous path you are taking…” on Martin Luther’s decision to challenge the papacy.
-
-“The tradition of all the dead generations weighs like an incubus upon the brain of the living”
-
-As the common saying goes ‘Success has many fathers but failure is an orphan’. And, in recent times, no other political career has been as successful as that of President Anura Kumar Dissanayake.
-
-Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan elite status, member of a putatively Marxist political party (an ideology seemingly out of step with the modern world in many aspects) and having received only about 3% of the general vote at the Presidential elections in 2019, Dissanayake yet won an emphatic approval from the voter in September 2024. His closest rival was more than a million votes behind. Prominent politicians, heralded for decades, would have turned green with envy contemplating the Dissanayake success.
-
-...
-
-[Data](articles/0163ffa9.json)
-
-[Extended Data](ext_articles/0163ffa9.ext.json)
-
----
-
-### The blame game
-
-*2024-11-01 06:01:03* · [`dailyftlk`](https://www.ft.lk/columns/The-blame-game/4-768687) · `en`
-
-Voters appear to prefer the blame game, pointing to anyone other than themselves
-
-Over the past two years, I’ve had the opportunity to talk to many people across the country about what ails this land. On these occasions, I’ve always talked about what we as citizens have done (rewarded politicians who fostered the giveaway culture) and not done (failed to exercise any oversight in the time between elections). Almost always I get significant pushback. A common refrain is “we didn’t get fuel and electricity for free; we can’t be blamed for the fiscal deficit.” Citizens are blameless; the leaders are.
-
-...
-
-[Data](articles/5a5b96ff.json)
-
-[Extended Data](ext_articles/5a5b96ff.ext.json)
-
----
-
-### Reforming governance heralds system change
-
-*2024-11-01 05:57:10* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-governance-heralds-system-change/4-768686) · `en`
-
-What lessons could the young generation learn from these oldies who with
-
-After reviewing the economy’s performance during the first two years of its stewardship, IMF noted that without reforming governance, economic stability and economic growth would be slow and shaky. Although a noticeable measure of economic stability had been achieved the reviewers noted that growth prospect was still at knife’s edge. But even before IMF stepped into the scene the Aragalaya youth already identified the fundamental sickness that was debilitating the economy for decades and that sickness was bad governance.
-
-An ethnonational majoritarian political culture with little or no room for meritocracy became the breeding ground for nepotism and corruption. That culture built a socio-economic and political system which in the end bankrupted the national treasury and along with it the national economy. Hence, the dire need for system change.
-
-...
-
-[Data](articles/d267e3b0.json)
-
-[Extended Data](ext_articles/d267e3b0.ext.json)
-
----
-
-### Digital mindset to solve analogue problems
-
-*2024-11-01 05:54:03* · [`dailyftlk`](https://www.ft.lk/columns/Digital-mindset-to-solve-analogue-problems/4-768685) · `en`
-
-Some of the luxury vehicles used by previous administrations parked in Colombo – File photo
-
-Do we need to rethink strategies for transport in ministries and State departments?
-
-President Anura Kumara Dissanayake recently made an announcement on LinkedIn which said, “Advised to allocate luxury vehicles by previous administrations to essential services.” It seems there is a huge question and dilemma as to what needs to be done with these white elephant vehicles, which are high maintenance assets the Government is currently burdened with.
-
-There were a host of comments following the President’s post. Since the post was on LinkedIn, a cross section of professionals were seen taking part in this conversation. Someone suggested, it might be beneficial to auction some of these locally to those who can afford luxury and upkeep. The funds could then be directed toward acquiring better, more fuel-efficient vehicles, possibly even performance hybrids to help reduce emissions.
-
-...
-
-[Data](articles/443f0602.json)
-
-[Extended Data](ext_articles/443f0602.ext.json)
-
----
-
-### Over 150 NGOs urge  world governments to help end war crimes in Gaza
-
-*2024-11-01 05:50:36* · [`dailyftlk`](https://www.ft.lk/opinion/Over-150-NGOs-urge-world-governments-to-help-end-war-crimes-in-Gaza/14-768684) · `en`
-
-UNITED NATIONS (IPS): As it continues to leave a mounting trail of death and destruction in Gaza, Israel has come under severe attack from the international community, including the United Nations and its humanitarian agencies, Western allies, the International Criminal Court (ICC) and scores of human rights experts.
-
-During a conference in Paris, focusing on the new crisis unfolding in Lebanon, President Emmanuel Macron of France, a longtime Western ally and one of the five veto-wielding permanent members of the UN Security Council, had “sharp words for Israel reflecting the view, even among Israel’s allies, that it has used excessive force against its enemies, resulting in disproportionate casualties and destruction,” according to the New York Times October 25.
-
-“I am not sure you can defend a civilisation by sowing barbarism yourself,” Macron declared.
-
-...
-
-[Data](articles/6c5e5dbf.json)
-
-[Extended Data](ext_articles/6c5e5dbf.ext.json)
 
 ---

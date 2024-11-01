@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 05:09:31**
+As of **2024-11-02 05:24:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,608 (100.0%) of 52,610 articles have been extended.
+52,610 (100.0%) of 52,610 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -108,6 +108,8 @@ Former Member of Parliament and New Democratic Front (NDF) Kalutara District can
 
 [Data](articles/c15fc64e.json)
 
+[Extended Data](ext_articles/c15fc64e.ext.json)
+
 ---
 
 ### Sri Lanka participates in World Trade Expo 2024 in Mumbai
@@ -175,6 +177,8 @@ Tamils are fed up with the status quo. The prevailing anti-establishment sentime
 ...
 
 [Data](articles/9c7845ff.json)
+
+[Extended Data](ext_articles/9c7845ff.ext.json)
 
 ---
 

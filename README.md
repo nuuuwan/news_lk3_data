@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 19:58:31**
+As of **2024-11-01 20:11:52**
 
 ## Newspaper Stats
 
-*Scraped **52,566** Articles*
+*Scraped **52,568** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 533
-bbccomsinhala | 539
+bbccomsinhala | 540
 islandlk | 3,133
 economynextcom | 3,191
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,895
-adaderanalk | 6,246
+adaderanalk | 6,247
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
 adaderanasinhalalk | 9,159
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,159
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,566 (100.0%) of 52,566 articles have been extended.
+52,568 (100.0%) of 52,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Govt denies reports of reduced security for ex-president Mahinda
+
+*2024-11-01 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103094/govt-denies-reports-of-reduced-security-for-ex-president-mahinda) · `en`
+
+The President’s Media Division (PMD) says that the reports circulating claiming that the security detail of former President Mahinda Rajapaksa has been reduced are completely false.
+
+◼️
+
+[Data](articles/59f69078.json)
+
+[Extended Data](ext_articles/59f69078.ext.json)
+
+---
 
 ### Presidential Media Division explains to Mahinda's safety
 
@@ -651,6 +665,34 @@ For about 15 years, I have provided employment opportunities for many in profess
 [Data](articles/2bbdbe17.json)
 
 [Extended Data](ext_articles/2bbdbe17.ext.json)
+
+---
+
+### "Gotabhaya states should represent the people of Parliament in Parliament
+
+*2024-11-01 13:45:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn8l9xng6lvo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gotabhaya Rajapaksa emphasizes representing people in Parliament. He criticizes IMF involvement and religious dominance. Vasant Mudalige leads People's Alliance in Gampaha district.
+
+🟩
+
+"Gotabhaya states should represent the people of Parliament in Parliament
+
+අරගලය සමයේදී දියවන්නාවෙන් පිටත නිර්මාණය වූ මහජන බලය පාර්ලිමේන්තුව තුළ නියෝජනය කිරීම සඳහා ජන අරගල සන්ධානය මෙවර මහ මැතිවරණයට තරග කරන බව, එම සන්ධානයේ ගම්පහ දිස්ත්‍රික් කණ්ඩායම් නායක වසන්ත මුදලිගේ BBC සිංහල සේවයට පැවසීය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් (IMF) ශ්‍රී ලංකාව ඉවත් විය යුතු බවත්, බුද්ධාගම හෝ වෙනත් කිසිදු ආගමක් ප්‍රමුඛ විය යුතු නැති බවත් ඔහු සඳහන් කළේ ය.
+
+එමෙන් ම, අරගලයේදී ගොඩනැගුණු ජනතා බලය රැක ගැනීමට සංවිධානාත්මක ව්‍යුහයක් නොපැවති බවත්, පාර්ලිමේන්තුවේ විපක්ෂය වෙනස් කිරීමෙන් ජනතා අපේක්ෂාවන් නියෝජනය කිරීමට උත්සහ කරන බවත් ඔහු BBC සිංහල සේවයේ ෂර්ලි උපුල් කුමාර සමග පැවති සංවාදයකදී ප්‍රකාශ කළේ ය.
+
+◼️
+
+[Data](articles/f9a01c01.json)
+
+[Extended Data](ext_articles/f9a01c01.ext.json)
 
 ---
 
@@ -2319,37 +2361,5 @@ Upon returning, the delegation will share their experience through social media,
 [Data](articles/dd68407d.json)
 
 [Extended Data](ext_articles/dd68407d.ext.json)
-
----
-
-### Sujeewa Lal Dahanayake inducted as 44th President of OPA
-
-*2024-11-01 05:36:24* · [`dailyftlk`](https://www.ft.lk/news/Sujeewa-Lal-Dahanayake-inducted-as-44th-President-of-OPA/56-768678) · `en`
-
-Attorney-at-Law Sujeewa Lal Dahanayake was sworn in as 44th President of the Organisation of Professional Associations of Sri Lanka (OPA) for the year 2024/2025, at its Annual General Meeting on 30 October 2024.
-
-The 50th anniversary celebrations of the OPA will take place in 2025, under his Presidency.
-
-The OPA is the Apex body of 51 professional associations including the Bar Association of Sri Lanka (BASL), Government Medical Officers’ Association (GMOA), Sri Lanka Medical Association (SLMA), The Institute of Engineers of Sri Lanka (IESL), Chartered Institute of Management Accountants (CIMA), Sri Lanka Economic Association (SLEA) and many other leading professional associations in Sri Lanka. The OPA has over 60,000 members, drawn from 34 diverse disciplines.
-
-...
-
-[Data](articles/35ff1d45.json)
-
-[Extended Data](ext_articles/35ff1d45.ext.json)
-
----
-
-### “Vidyalaya Nalanda” book launch today
-
-*2024-11-01 05:35:18* · [`dailyftlk`](https://www.ft.lk/news/VidyalayaNalandabook-launch-today/56-768677) · `en`
-
-The research book “Vidyalaya Nalanda” will be launched today under the Governor of the Eastern Province Prof. Jayantalal Ratnasekara at Malalasekera Memorial Hall, Nalanda Vidyalaya, at 2.30 p.m. The book examines the 100 years history of Nalanda Vidyalaya in Colombo. It comprises 66 chapters and 307 sub-topics. It is published by Gunasena Company Ltd.
-
-...
-
-[Data](articles/b5a59628.json)
-
-[Extended Data](ext_articles/b5a59628.ext.json)
 
 ---

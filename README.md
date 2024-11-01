@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 19:00:02**
+As of **2024-11-01 19:12:06**
 
 ## Newspaper Stats
 
-*Scraped **52,561** Articles*
+*Scraped **52,563** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 4,894
 adaderanalk | 6,245
 tamilmirrorlk | 7,290
 virakesarilk | 8,475
-adaderanasinhalalk | 9,157
+adaderanasinhalalk | 9,159
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,561 (100.0%) of 52,561 articles have been extended.
+52,563 (100.0%) of 52,563 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Presidential Media Division explains to Mahinda's safety
+
+*2024-11-01 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202814) · `si`
+
+The Presidential Media Unit has explained to the media reports that former President Mahinda Rajapaksa has reduced security.
+
+◼️
+
+[Data](articles/6ef0450e.json)
+
+[Extended Data](ext_articles/6ef0450e.ext.json)
+
+---
+
+### The issuance of passport from December to accelerate
+
+*2024-11-01 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202813) · `si`
+
+Department of Immigration and Emigration accelerates passport issuance. Over 700,000 pending applications. Implements online process. Received 50,000 blank passports. Releases 1,600 daily. Gradually increases travel permits for applicants.
+
+🟩
+
+The Department of Immigration and Emigration (IMPA, Department of Immigration and Emigration) issued a statement that the issuance of foreign traffic will be able to accelerate the issuance of foreign traverses.
+
+The department states that more than 7 lakhs are due to be received in the future.
+
+The Department of Immigration and Emigration will be implemented by the Department of Immigration and the Department of Immigration and is implementing a formal online procedure.
+
+The Department of Immigration and Emigration has received 50,000 empty passes in the 'P' group in accordance with the overseas institution that was awarded the tender to purchase the tender.
+
+In the late November, a large number of empty passports of about Rs.
+
+Simultaneously procurement of other empty licenses has been launched by now.
+
+The Department of Immigration and Emigration will be released to applicants about 1,600 per day.
+
+...
+
+[Data](articles/f2bdc97e.json)
+
+[Extended Data](ext_articles/f2bdc97e.ext.json)
+
+---
 
 ### The injured fails to bring a casualt
 
@@ -2279,43 +2323,5 @@ The Executive Centre (TEC), Asia’s largest premium workspace provider with a p
 [Data](articles/97e6c1f3.json)
 
 [Extended Data](ext_articles/97e6c1f3.ext.json)
-
----
-
-### Atlas World introduces innovative Quiz Master Mobile App to enhance Sri Lanka’s student learning
-
-*2024-11-01 02:37:00* · [`islandlk`](http://island.lk/atlas-world-introduces-innovative-quiz-master-mobile-app-to-enhance-sri-lankas-student-learning/) · `en`
-
-Atlas, the premier learning brand in Sri Lanka that has been a cornerstone in local education for over 65 years, provides significant support to overcome the unique educational challenges of children in this country. The company created Atlas World to provide additional educational knowledge to children, elevating Sri Lankan students into a unique learning environment.
-
-It delivers several benefits including expanding educational opportunities for children through specially designed learning methods, creating digital innovations that enable children to study in their own way, and conducting free online classes to provide knowledge to children beyond school education. Atlas World’s newest educational addition is the launch of the Quiz Master mobile app.
-
-...
-
-[Data](articles/bd00d7f0.json)
-
-[Extended Data](ext_articles/bd00d7f0.ext.json)
-
----
-
-### We will boycott the first
-
-*2024-11-01 02:25:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளி-முதல்-பகிஷ்கரிப்போம்/175-346383) · `ta`
-
-Railway Station Principals' Association boycotts work due to promotion and recruitment issues. Union action taken on Wednesday, chairman threatens relaunch on Friday if demands aren't met. Work suspended until Diwali festival.
-
-🟩
-
-The work of the Railway Station Principal's Association was temporarily abandoned. This work has been abandoned for the Diwali festival.
-
-The trade union action was carried out on Wednesday (30) from 10 pm on the basis of some issues, including promotion and recruitment.
-
-Chairman of the Railway Station Principals Association Somata Somatna said that if their request is not given a proper solution within today, he will be re -launched on Friday (01).
-
-◼️
-
-[Data](articles/5169dd0f.json)
-
-[Extended Data](ext_articles/5169dd0f.ext.json)
 
 ---

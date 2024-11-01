@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 12:26:45**
+As of **2024-11-01 12:40:01**
 
 ## Newspaper Stats
 
-*Scraped **52,516** Articles*
+*Scraped **52,517** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 4,887
 adaderanalk | 6,237
 tamilmirrorlk | 7,285
 virakesarilk | 8,468
-adaderanasinhalalk | 9,142
+adaderanasinhalalk | 9,143
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,516 (100.0%) of 52,516 articles have been extended.
+52,517 (100.0%) of 52,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### The full story of the fatal bus accident that killed two students
+
+*2024-11-01 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202798) · `si`
+
+Fatal bus accident kills two students in Badulla-Dunhindu area. Incident occurred today at Southern Defense University.
+
+🟩
+
+Two students of the Southern Defense University killed in the Badulla-Dunhindu area today (01).
+
+◼️
+
+[Data](articles/6b621555.json)
+
+[Extended Data](ext_articles/6b621555.ext.json)
+
+---
 
 ### Another vehicle recovery of Lohan Ratwatta
 
@@ -2273,25 +2291,5 @@ Former President Ranil Wickremesinghe, who warned the government not to interven
 [Data](articles/bc0f9749.json)
 
 [Extended Data](ext_articles/bc0f9749.ext.json)
-
----
-
-### 7 injured in accident near Galle Face
-
-*2024-10-31 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103072/7-injured-in-accident-near-galle-face) · `en`
-
-Seven individuals have been injured and hospitalized after a three-wheeler collided with a motorcycle and a car near the Galle Face Green in Colombo this afternoon (31).
-
-Police said that 05 persons who were travelling in the three-wheeler and two others who were on the motorcycle which was involved in the accident sustained injuries during the incident.
-
-The injured persons have been admitted to the Colombo National Hospital for treatment.
-
-Colombo Fort Police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/6ee36ac1.json)
-
-[Extended Data](ext_articles/6ee36ac1.ext.json)
 
 ---

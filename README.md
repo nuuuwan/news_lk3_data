@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 23:40:40**
+As of **2024-11-02 00:00:00**
 
 ## Newspaper Stats
 
-*Scraped **52,591** Articles*
+*Scraped **52,596** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 415
 colombotelegraphcom | 533
 bbccomsinhala | 540
 islandlk | 3,133
-economynextcom | 3,191
+economynextcom | 3,196
 dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,897
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,591 (100.0%) of 52,591 articles have been extended.
+52,596 (100.0%) of 52,596 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -69,6 +69,26 @@ Additionally, it is also reported that 19 individuals who sustained injuries fro
 [Data](articles/1270dd51.json)
 
 [Extended Data](ext_articles/1270dd51.ext.json)
+
+---
+
+### Sri Lanka leader appoints Axiata GED Hans Wijayasuriya as Chief Digital Economy Advisor
+
+*2024-11-01 22:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-axiata-ged-hans-wijayasuriya-as-chief-digital-economy-advisor-185873/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has appointed Hans Wijayasuriya, the Chief Executive Officer of Telecommunications Business and Group Executive Director at Malaysian Axiata Group Bhd as the Chief Advisor to the President on Digital Economy, his office said.
+
+President Dissanayake has emphasized on digitization of the economy to formalize a large informal economy.
+
+“The government plans, accordingly, to exploit technological advancement to enable the capture of leap-frog opportunities with respect to economic and social development leading to a progressive digital economy and an enhanced quality of life for all citizens,” the President’s Media Division said in a statement.
+
+“Dr. Wijayasuriya’s appointment is a key move with regard to bringing to fruition the above vision.”
+
+...
+
+[Data](articles/9f30b4c6.json)
+
+[Extended Data](ext_articles/9f30b4c6.ext.json)
 
 ---
 
@@ -175,6 +195,24 @@ The senior official added that the son of the former Minister of State will be i
 [Data](articles/4a36730b.json)
 
 [Extended Data](ext_articles/4a36730b.ext.json)
+
+---
+
+### Sri Lanka leader expresses interest in Indian power, energy projects amid Adani delay
+
+*2024-11-01 21:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-expresses-interest-in-indian-power-energy-projects-amid-adani-delay-185871/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has expressed interest in learning from India’s expertise in power and energy sector development when he met the Indian High Commissioner to Sri Lanka, the President’s Media Division (PMD) said.
+
+The President’s expression comes as India’s Adani renewable energy project is facing a delay due to a raft of legal cases filed in the island nation’s Supreme Court due to environmental concerns amid higher cost per tariff quoted in the Adani project.
+
+“The President expressed interest in learning from India’s expertise in power and energy sector development and the digitalization process, with a view to advancing these areas in Sri Lanka with India’s support,” PMD said in a statement on the Dissanayake’s meeting with the Indian High Commissioner Santosh Jha today.
+
+...
+
+[Data](articles/952d99c2.json)
+
+[Extended Data](ext_articles/952d99c2.ext.json)
 
 ---
 
@@ -568,6 +606,32 @@ However, 1018 out of the total number of complaints have been resolved, however,
 
 ---
 
+### Sri Lanka stocks end stronger with high turnover; financials lead
+
+*2024-11-01 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-stronger-with-high-turnover-financials-lead-185866/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed stronger on Friday led by financials, official data showed.
+
+The broader ASPI closed 0.73 percent or 93.07 points stronger at 12,863.65; while the more liquid S&P SL20 Index closed 0.39 percent or 8.59 points firmer at 3,879.33.
+
+Turnover was 4.9 billion rupees led by domestic investors, the data showed.
+
+“The market is still on the rise due to optimism over the new government,” a stockbroker said.
+
+“Turnover also has been high due to the same reason though most market participants are waiting for some significant foreign inflows.”
+
+Citizens Development Business Finance Plc saw a crossing worth 2.23 billion rupees and accounted for 45.3 percent of the day’s turnover. The shares in Citizens Development Business Finance Plc closed 1.63 percent up at 233.50 rupees.
+
+Stockbrokers said most of the listed banks gained on Friday as confidence over proposed debt restructuring not having an adverse impact on them.
+
+...
+
+[Data](articles/a8db5da5.json)
+
+[Extended Data](ext_articles/a8db5da5.ext.json)
+
+---
+
 ### Appointment of new Chief Advisor
 
 *2024-11-01 17:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-ஆலோசகர்-நியமனம்/175-346413) · `ta`
@@ -815,6 +879,54 @@ Speaking at a meeting of the Sri Lanka Peoples Freedom Alliance (PA) organizer i
 [Data](articles/3c9206ad.json)
 
 [Extended Data](ext_articles/3c9206ad.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger below at 293 to dollar, bonds flat
+
+*2024-11-01 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-below-at-293-to-dollar-bonds-flat-185862/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted around 292.95/293.00 to the US dollar Friday stronger from 293.00/20 to the US dollar on Wednesday dealers said, while bond yields were flat.
+
+Market activity was dull due to a long weekend, dealers said.
+
+A bond maturing on 15.12.2026 closed at 10.65/85 from Wednesday’s close of 10.60/80 percent.
+
+A bond maturing on 15.12.2027 closed at 10.45/55 from down from 11.45/60 percent.
+
+A bond maturing on 15.03.2028 closed at 11.72/82 was quoted 11.70/80 percent down from 11.75/80 percent.
+
+A bond maturing on 15.06.2029 closed at 11.95/12.05 percent unchanged from 11.95/12.10 percent. (Colombo/Oct30/2024)
+
+◼️
+
+[Data](articles/cea24984.json)
+
+[Extended Data](ext_articles/cea24984.ext.json)
+
+---
+
+### Sri Lanka ‘s Teejay says getting China+1 orders, shift from Bangladesh
+
+*2024-11-01 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-s-teejay-says-getting-china1-orders-shift-from-bangladesh-185858/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Teejay Lanka Plc said net profits for the September 2024 quarter fell 20 percent to 756 million rupees, despite the firm getting more orders from China Plus One strategy of companies.
+
+The group reported earnings of 1.05 rupees per share for the quarter, and 1.27 rupees for the six months to September on total profits of 914 million rupees.
+
+Teejay said there was a “significant shift of orders to the Asian region due to the China One Plus strategy.”
+
+Orders were also shifting to India and Sri Lanka from Bangladesh.
+
+Teejay group revenue rose 11 percent to 17.2 billion rupees, cost of sales went up 13 percent and gross profit rose 1 percent to 1,908 million rupees.
+
+There were impairment gains of 193 million rupees, up from 75.3 billion rupees.
+
+◼️
+
+[Data](articles/0d349421.json)
+
+[Extended Data](ext_articles/0d349421.ext.json)
 
 ---
 
@@ -2377,117 +2489,5 @@ The Department of Meteorology has called for the general public to take necessar
 [Data](articles/4aa88d59.json)
 
 [Extended Data](ext_articles/4aa88d59.ext.json)
-
----
-
-### Heroin worth over Rs. 2 Billion seized in Sevanagala; husband and wife arrested
-
-*2024-11-01 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103080/heroin-worth-over-rs-2-billion-seized-in-sevanagala-husband-and-wife-arrested) · `en`
-
-The total quantity of heroin taken into custody by the Police Special Task Force (STF) in Kiriwewa, Sevanagala yesterday (31) is approximately 53.65 kilograms, valued at over Rs. 2 billion.
-
-A husband and wife were arrested in connection with the discovery and have been handed over to the Police Narcotics Bureau (PNB) for further investigation, according to the STF.
-
-The discovery was made after a team of STF officers conducted a raid at 1st Lane, Nuge Galayaya, Kiri Wewa, within the Sevanagala Police Division.
-
-During the inspection of the house and surrounding land, officers discovered 53 kg and 65 grams of heroin hidden in three plastic containers buried in the yard. The husband and wife residing at the address were arrested and handed over to the Police Narcotics Bureau for further investigation.
-
-Further investigations revealed that the arrested female suspect is the sister of Omalpage Dhammika Samankumara, who had been previously arrested with heroin by STF officers on October 30.
-
-...
-
-[Data](articles/eef5dab7.json)
-
-[Extended Data](ext_articles/eef5dab7.ext.json)
-
----
-
-### Settle for 24,000 complaints in 2 weeks
-
-*2024-11-01 08:33:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-வாரங்களில்-24-000-முறைப்பாடுகளுக்கு-தீர்வு/175-346397) · `ta`
-
-Sri Lanka police resolve 24,381 complaints in 2 weeks, 7,000 pending investigation.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that 24,381 complaints have been completed within two weeks.
-
-Complaints available at police stations have been ordered to be investigated within two weeks within two weeks.
-
-Thus, from the 6th to the 19th of October, the complaints have been filed at the provincial level and that 24,381 complaints have been investigated.
-
-He said that about 7,000 complaints, along with the newly added complaints, are in the police stations and will be completed quickly.. Remble
-
-◼️
-
-[Data](articles/bfb1a303.json)
-
-[Extended Data](ext_articles/bfb1a303.ext.json)
-
----
-
-### Suspected gunman in Grandpass shooting arrested
-
-*2024-11-01 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103079/suspected-gunman-in-grandpass-shooting-arrested) · `en`
-
-The Colombo Crime Division (CCD) has arrested a suspect believed to be the shooter in the recent killing of a three-wheeler passenger near the cemetery in the Grandpass Police Division.
-
-On October 16, an individual traveling in a three-wheeler in the Madampitiya area of Grandpass was shot and killed by unknown assailants who arrived in a car.
-
-Following the incident, the Grandpass Police and the Colombo Crime Division launched an investigation.
-
-On October 28, a 35-year-old resident of Bloemendhal, identified as the driver of the car used in the shooting, was arrested by the Grandpass Police.
-
-Acting on further information gathered by Colombo Crime Division officers, a 31-year-old resident of Handala, Wattala, suspected to be the shooter, was apprehended yesterday (31) in the Wattala area. Two mobile phones were found in his possession.
-
-...
-
-[Data](articles/2e1d726d.json)
-
-[Extended Data](ext_articles/2e1d726d.ext.json)
-
----
-
-### Notice of a train delay
-
-*2024-11-01 08:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202790) · `si`
-
-Train delay notice: Galle Kumari Railway delayed due to engine repair. Other trains departing normally.
-
-🟩
-
-රුහුණු කුමාරි දුම්රිය ගිංතොට දුම්රිය ස්ථානයේ දි පීලිපැනීම හේතුවෙන් සමුද්‍රදේවි දුම්රිය දොඩන්දූව දුම්රිය ස්ථානයේ සිටත්, සාගරිකා දුම්රිය බූස්ස දුම්රිය ස්ථානයෙන් සහ නයනාකුමාරි දුම්රිය හික්කඩුව දුම්රිය ස්ථානයේ සිටත් ගමන් ආරම්භ කර තිබේ.
-
-The Railways Department said that the train commenced journey from the relevant station sites.
-
-However, the Galle Kumari Railway and Postal trains will be opened in late.
-
-පීලිපැනීමට ලක් වු රුහුණූ කුමාරි දුම්රියේ එන්ජිම මේවන විට පීලිගත කර ඇති අතර දුම්රිය ධාවනය යථා තත්ත්වයට පත්කිරිම සඳහා තවත් පැය කිහිපයක් ගත වන බව සඳහන්ය.
-
-◼️
-
-[Data](articles/ac9ffd2b.json)
-
-[Extended Data](ext_articles/ac9ffd2b.ext.json)
-
----
-
-### Postal voting for General Election 2024 continues on second day
-
-*2024-11-01 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103078/postal-voting-for-general-election-2024-continues-on-second-day) · `en`
-
-The marking of postal votes for the upcoming General Election 2024 entered its second day today (01), after commencing on October 30.
-
-The Election Commission announced that postal voting will take place at all police stations, District Secretariats, Election Commission offices, and the Offices of the IGP.
-
-Additionally, postal voting will be available for the armed forces and other government institutions today (01) and on November 4, according to the Commissioner General of Elections, Saman Sri Rathnayake.
-
-The Election Commission further stated that postal voters who are unable to cast their votes on these designated days will be permitted to vote at the District Secretariat corresponding to their workplace location on November 07 and 08.
-
-◼️
-
-[Data](articles/f38cc675.json)
-
-[Extended Data](ext_articles/f38cc675.ext.json)
 
 ---

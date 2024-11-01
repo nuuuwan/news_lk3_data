@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 00:39:52**
+As of **2024-11-02 00:58:04**
 
 ## Newspaper Stats
 
-*Scraped **52,596** Articles*
+*Scraped **52,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
 tamilmirrorlk | 7,294
-virakesarilk | 8,487
+virakesarilk | 8,490
 adaderanasinhalalk | 9,162
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,596 (100.0%) of 52,596 articles have been extended.
+52,599 (100.0%) of 52,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Accident in Badulla: Two students die - Ministry of Defense
+
+*2024-11-01 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197689) · `ta`
+
+Bus accident in Badulla: 2 students killed, 7 critical injuries. Ministry of Defense provides support for funerals and medical transport. Technical failure caused the crash.
+
+🟩
+
+The Ministry of Defense has issued a notification regarding the incident of a bus accident in the Kotalawala Safety University in Ambakasanthiya area of ​​Tunhinda - Badulla road.
+
+At the time of the accident, 36 students from the 39th text of the Kotalawala Safety College, 03 lecturers, a consultant in charge of the group, a senior military member of the bus and one of the 42 bus drivers.
+
+Two students have died in the accident and two students who died are from Kurunegala and Nivithigala area.
+
+The Ministry of Defense has said that the funeral of the two students has been made to make necessary arrangements under the full sponsor of the Kotalawala Safety University.
+
+According to hospital sources, 40 more people were injured in the accident and seven of them have been admitted to the intensive care unit.
+
+The Defense Ministry further stated in its announcement that arrangements have been made to bring patients to Colombo for further treatment.
+
+...
+
+[Data](articles/16c68939.json)
+
+[Extended Data](ext_articles/16c68939.ext.json)
+
+---
+
+### The demand of the Railway Station Chancellor Association is a problem for the provision of a stable solution during the election - Ministry of Transport
+
+*2024-11-01 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197687) · `ta`
+
+Railway Station Chancellor Association demands cause election instability. Ministry of Transport addresses issues through union talks. Special report on workplace conditions. Public concerns over passenger inconvenience and railway authority promotions. Election timing complicates resolution efforts.
+
+🟩
+
+Providing a fixed solution for the existing and promotion problems in the Railway Chancellor's Service. The Ministry of Transport has stated that many problems have been resolved in talks with the railway station unions.
+
+The Ministry of Transport has issued a special report on the workplace of the Railway Station Principal Association.
+
+The inconveniences faced by the public passengers are concerned about the issues in the process of promoting the railway authorities in the process of providing a five -year promotion.
+
+It is inappropriate to engage in such a task force as the election is held.
+
+It is a problem to provide a stable solution during the election period for the existing and promotion issues in the railway station.
+
+◼️
+
+[Data](articles/59a8a32d.json)
+
+[Extended Data](ext_articles/59a8a32d.ext.json)
+
+---
 
 ### Accident in Nuwara Eliya - One death
 
@@ -927,6 +981,30 @@ There were impairment gains of 193 million rupees, up from 75.3 billion rupees.
 [Data](articles/0d349421.json)
 
 [Extended Data](ext_articles/0d349421.ext.json)
+
+---
+
+### International stage inquiries regarding Rajapaksas are essential
+
+*2024-11-01 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197645) · `ta`
+
+Pierre Bolivar urges international investigation into Rajapaksa regime's Tamil rights abuses. He criticizes previous Sri Lankan government's violations during Commonwealth conference.
+
+🟩
+
+Canada's Conservative Party leader Pierre Bolivr, who has pointed out that he should voice his voice against the violations of the Sri Lankan government on Tamils, urged the international stage investigations into the international stage.
+
+In response to a question raised by the newly elected President Anura Kumara Dissanayake, the newly elected presidential election in Sri Lanka, Bierre Bolivir has insisted in response to a question raised by the United Nations Human Rights Council (UNHRC).
+
+“We must voice their voice against the human rights violations of the Sri Lankan government on the Tamil people. We should investigate the Rajapaksas on the international stage, ”he said.
+
+The Conservative Party, Pierre Bolivar, has said that the first -time Commonwealth Conference in Colombo has been exposed to the violations of the past government. Dhaka mentioned.
+
+◼️
+
+[Data](articles/a390067e.json)
+
+[Extended Data](ext_articles/a390067e.ext.json)
 
 ---
 
@@ -2411,83 +2489,5 @@ Police Special Task Force has been arrested by the STF with nearly 54 kilos of h
 [Data](articles/a0b51e20.json)
 
 [Extended Data](ext_articles/a0b51e20.ext.json)
-
----
-
-### IMF Brand new explanation of Sri Lanka's credit program
-
-*2024-11-01 08:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202791) · `si`
-
-Here's a summary of the IMF's announcement about Sri Lanka's credit program in 200 characters:
-
-
-
-IMF confirms commitment to Sri Lanka's credit program. Representatives met with President and team. Third review discussion planned. Sri Lankan delegation in Washington, IMF team to visit Sri Lanka soon.
-
-🟩
-
-The International Monetary Fund (IMF) commitment to the International Monetary Fund (IMF) The International Monetary Fund (IMF) is the Director of the International Monetary Fund Asia Pacific Zone.
-
-He further stated that the IMF's sworn in a press conference held today (01), he said that IMF representatives came to Sri Lanka and conducted effective discussions with the President and his team.
-
-He also confirmed that a group of Sri Lankan team was in Sri Lanka to Washington and a group of the IMF would arrive in Sri Lanka to discuss the third review.
-
-◼️
-
-[Data](articles/897f2e9d.json)
-
-[Extended Data](ext_articles/897f2e9d.ext.json)
-
----
-
-### Grandpass shooter: One was caught
-
-*2024-11-01 08:45:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராண்ட்பாஸ்-துப்பாக்கிச்சூடு-ஒருவர்-சிக்கினார்/175-346399) · `ta`
-
-Colombo Criminal Investigation Department arrests suspect in Grandpass shooting case. Man killed in three-wheeler on Oct 16. Suspect identified as 35-year-old from Blooming area. Further investigation ongoing involving Colombo Crime Branch.
-
-🟩
-
-The Colombo Criminal Investigation Department has arrested a man suspected of being shot dead in the three -wheeler in front of the Grandpass police division.
-
-On October 16, a man was shot dead in a three -wheeler by unidentified persons who arrived in the car in front of the Grandpass Police Division.
-
-Subsequently, the Grandpass police and the Colombo Criminal Investigation Division started investigations.
-
-Accordingly, a 35 -year -old man from the Blooming area of ​​the car driver of the car, which was accused of the shooting, was arrested by Grandpass police officers on October 28.
-
-The man who was suspected of firing further investigations on the information received by the Colombo Crime Branch officials in connection with the incident, was arrested in Wattala area yesterday evening with two mobile phones.
-
-...
-
-[Data](articles/e2ac8878.json)
-
-[Extended Data](ext_articles/e2ac8878.ext.json)
-
----
-
-### Rainfall in many areas today
-
-*2024-11-01 08:37:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பல-பகுதிகளில்-மழை-பெய்யும்/175-346398) · `ta`
-
-Rainfall warning: Thundershowers likely across country, especially evenings/nights. Heavy rains over 100mm in several provinces. Coastal areas may see showers/thunderstorms in mornings. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Thundershowers are likely to occur in many parts of the country today (01), the Department of Meteorology said.
-
-According to the weather forecast, the department has stated that rain or thunderstorms are likely to occur in many parts of the country in the evening or night.
-
-Heavy rains are expected to be more than 100 millimeters in some parts of the Uva, Eastern, Central, Sabaragamuwa and North Central Provinces.
-
-Showers or thunderstorms may occur in some places in the morning, along the coastal areas of the North, East and North Western provinces.
-
-The Department of Meteorology has called for the general public to take necessary steps to reduce the dangers of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/4aa88d59.json)
-
-[Extended Data](ext_articles/4aa88d59.ext.json)
 
 ---

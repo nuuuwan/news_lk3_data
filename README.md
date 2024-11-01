@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 10:40:25**
+As of **2024-11-01 10:58:37**
 
 ## Newspaper Stats
 
-*Scraped **52,499** Articles*
+*Scraped **52,506** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,69 @@ newsfirstlk | 363
 dbsjeyarajcom | 414
 colombotelegraphcom | 533
 bbccomsinhala | 536
-islandlk | 3,130
+islandlk | 3,133
 economynextcom | 3,187
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,883
+adalk | 4,886
 adaderanalk | 6,235
 tamilmirrorlk | 7,282
 virakesarilk | 8,468
-adaderanasinhalalk | 9,141
+adaderanasinhalalk | 9,142
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,499 (100.0%) of 52,499 articles have been extended.
+52,503 (100.0%) of 52,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### ජොන්ස්ටන් අධිකරණයට ඉදිරිපත්වීමෙන් පසු වරෙන්තුව ආපසු කැඳවයි
+
+*2024-11-01 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202795) · `si`
+
+අල්ලස් කොමිසම විසින් ගොනු කළ නඩුවකට පෙනී නොසිටීම නිසා  වරෙන්තු නිකුත් කර තිබූ හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතා අද (01) ඉදිරිපත්වීමෙන් අනතුරුව වරෙන්තුව ආපසු කැඳවා අමතර ඇපයක් මත මුදාහැරීමට කොළඹ මහාධිකරණය නියෝග කළේය.
+
+කොළඹ මහාධිකරණ විනිසුරු මංජුල තිලකරත්න මහතා ඉදිරියේ නඩුව කැඳවා තිබුණි.
+
+ජොන්ස්ටන් ප්‍රනාන්දු මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ කාලිංග ඉන්දතිස්ස මහතා සඳහන් කළේ, නඩුව කැඳවූ ඉකුත් 23 වනදා මෙම විත්තිකරු අධිකරණයට නොපැමිණ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ප්‍රකාශයක් දීම සඳහා ගොස් ඇති බවය.
+
+කෙසේ වෙතත් විත්තිකරු ඉදිරිපත් කරන කරුණු කෙරෙහි සෑහීමකට පත්විය නොහැකි බව සඳහන් කළ විනිසුරුවරයා ඔහුට අමතර ඇපයක් නියම කරන බව නියෝග කළේය.
+
+ඒ අනුව ජෝන්ස්ටන් ප්‍රනාන්දු මහතා රුපියල් 25,000ක මුදල් ඇප සහ රුපියල් ලක්ෂ 10ක ශරීර ඇපයක් මත මුදාහැරීමට නියෝග කළ විනිසුරුවරයා ඇප තැන්පත් කිරීමෙන් පසුව විත්තිකරු මුදාහරින ලෙසත් නියෝග කළේය.
+
+...
+
+[Data](articles/588d3deb.json)
+
+---
+
+### Pushpakumara, who was driven by 100 tractors, launched a record
+
+*2024-11-01 10:33:53* · [`adalk`](https://www.ada.lk/sports/ට්‍රැක්ටර්-100ක්-තම-ශරීරය-මතින්-ධාවනය-කරමින්-වාර්තාවක්-තැබූ-පුෂ්පකුමාර/9-412790) · `si`
+
+Pushpakumara drives 100 tractors, sets record near Polonnaruwa. 36-year-old father of 36 children achieves feat.
+
+🟩
+
+Around 36-year-old is a father of 36-year-old WG, a large number of tractors in the Polonnaruwa area for renting a report in a fight between life and death.. Pushpakumara Samarakoon man passed.
+
+පොළොන්නරුව අරලගංවිල පොල භූමියේ 31 වෙනිදා වාර්තාව පිහිටවු ඔහු විනාඩි තිස් අටයි,තත්පර හතලිස් හයක් තුල මහ ට්‍රැක්ටර් සීයක් තම ශරීරය මත ගමන් කරවමින් මෙම වාර්තාව පිහිටුවීමට සමත් වූ බව සෙරන්ඩිබ් ලෝක වාර්තා ආයතනයේ ප්‍රධාන විනිසුරු සනත් බණ්ඩාර මහතා නිල වශයෙන් ප්‍රකාශ කළේය.
+
+Winning this report found with the participation of a large group of people. G Pushpakumara Samarakoon was a young man who had been mortgaged and lived in the Mahaweli River Mahaweli, Mahaweli.
+
+Mr. Samarakoon said he would doubt the number of tractors that double the record and driving on their body if they break the record if they break the record.
+
+◼️
+
+[Data](articles/b4893d54.json)
+
+[Extended Data](ext_articles/b4893d54.ext.json)
+
+---
 
 ### Emergency notice of the registration of the pig farm
 
@@ -405,6 +449,32 @@ The Election Commission further stated that postal voters who are unable to cast
 [Data](articles/f38cc675.json)
 
 [Extended Data](ext_articles/f38cc675.ext.json)
+
+---
+
+### School student arrested for teling
+
+*2024-11-01 07:57:29* · [`adalk`](https://www.ada.lk/technology/ටෙලිඟ්‍රෑම්-නිසා-අත්අඩංගුවට-පත්වූ-පාසල්-සිසුවා/5-412788) · `si`
+
+Sri Lankan schoolgirl arrested for sharing explicit content via Telegram. Police investigation ongoing.
+
+🟩
+
+The Computer Criminal Investigation Unit, a 17-year-old schoolgirl has been arrested in the Panadura Mahawila in Panadura.
+
+He was the first suspect in Sri Lanka for a crime conducted by telegramm social media. The suspect had been taken into custody by the Smartphone mobile phone.
+
+A young man in Panadura has been arrested following a complaint with a complaint with a complaint carried out for nearly a month after a complaint lodged by the CID.
+
+After the suspect, he had taken his Vatsap telephone number, saying that he was about a student of another school into an education. Ti. P. Investigations also revealed that the telegram had been prepared to the student named the number.
+
+Investigations have revealed that the young girl's general photograph was prepared to the young girl's average photo of various Identity photos and referred to the girl's telegram account.
+
+...
+
+[Data](articles/d46761c0.json)
+
+[Extended Data](ext_articles/d46761c0.ext.json)
 
 ---
 
@@ -1205,6 +1275,22 @@ The 34-year-old Shashika Creai said that it was a challenge to distance his elde
 [Data](articles/7e1cfb19.json)
 
 [Extended Data](ext_articles/7e1cfb19.ext.json)
+
+---
+
+### Politics, garbage and pillow fights
+
+*2024-11-01 01:18:00* · [`islandlk`](http://island.lk/politics-garbage-and-pillow-fights/) · `en`
+
+The ongoing US presidential race has got down and dirty so much so that trash and garbage trucks have been dragged into the propaganda war between the Republicans and the Democrats. The two sides are attacking each other, according to Rafferty’s rules. On Sunday, a comedian who spoke at a Republican rally happened to remark that US territory of Puerto Rico was a ‘floating island of garbage’ and unwittingly provided grist to the propaganda mill of the Democrats.
+
+But two days later, President Joe Biden, true to form, made a gaffe; he said Trump supporters were garbage, and the Republicans seized on it to launch a massive counterattack, with Donald Trump going to the extent of travelling in the cabin of a garbage truck to a campaign rally, and condemning the Democrats, who provided the Republicans with a new line of attack and a rallying point.
+
+...
+
+[Data](articles/4f38940c.json)
+
+[Extended Data](ext_articles/4f38940c.ext.json)
 
 ---
 
@@ -2209,91 +2295,5 @@ Colombo High Court Judge Mahesh Weeraman made the verdict yesterday (30)
 [Data](articles/aed5e65b.json)
 
 [Extended Data](ext_articles/aed5e65b.ext.json)
-
----
-
-### Chapter for Sri Lanka's Debt Reorganization soon will be completed - Treasury Secretary Mahinda Siriwardena hope
-
-*2024-10-31 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197594) · `ta`
-
-Sri Lanka's debt reorganization nearing completion, Treasury Secretary Mahinda Siriwardena says. Strong financial ties with China expected to resume, including new funding for key projects. China's support crucial for Sri Lanka's economic growth and infrastructure development. IMF compliance analysis ongoing, comparing international lenders' roles. Mutual trust between Sri Lanka and Chinese creditors seen as key to resolving challenges. Other creditors also assisting in debt restructuring process.
-
-🟩
-
-Sri Lanka hopes that the chapter for debt renovation will soon be completed. Treasury Secretary Mahinda Siriwardena said that there is also the expectation that a strong financial relationship, including new funding for high -quality and priority projects with China, is expected to resume.
-
-He said this while addressing the Chinese assistance training and alumni reception held in Colombo on Wednesday night in Colombo.
-
-Speaking further, we cannot forget that China's support for Sri Lanka has played an important role in the development of the country, especially in the field of infrastructure and economic aid.
-
-For years, China has invested billions of dollars in various projects, including ports. These investments are aimed at improving Sri Lanka's logistics capabilities and raising its position as a regional trade center.
-
-...
-
-[Data](articles/4bbfee27.json)
-
-[Extended Data](ext_articles/4bbfee27.ext.json)
-
----
-
-### Lohan Ratwatte brought to Mirihana police
-
-*2024-10-31 16:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103071/lohan-ratwatte-brought-to-mirihana-police) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested in Kandy today (31), has been brought to the Mirihana Police Station.
-
-Police said that the former state minister was arrested in Kandy over an incident of discovering a car without number plates at his wife’s house in the Mirihana area of Nugegoda.
-
-The concerned car without registered number plates was found on October 26, 2024, according to police.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters that there is a luxury car without number plates in a three-storied house in the Embuldeniya area in Mirihana belonging to Shashi Prabha Ratwatte, the wife of Former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/b1a19191.json)
-
-[Extended Data](ext_articles/b1a19191.ext.json)
-
----
-
-### Lohan at Mirihana Police Station
-
-*2024-10-31 16:29:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிரிஹான-பொலிஸ்-நிலையத்தில்-லொஹான்/175-346362) · `ta`
-
-Former State Minister Lohan Ratwatte arrested in Kandy, brought to Mirihana Police Station over unnumbered vehicle incident.
-
-🟩
-
-Former Minister of State Lohan Ratwatte, who was arrested in Kandy today (31), has been brought to the Mirihana Police Station.
-
-Former State Minister Lohan Ratwatte has been arrested in connection with the discovery of a car without a number. Remble
-
-◼️
-
-[Data](articles/93580ee1.json)
-
-[Extended Data](ext_articles/93580ee1.ext.json)
-
----
-
-### Bangladesh defeated by South Africans
-
-*2024-10-31 16:28:20* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකානුවන්​-හමුවේ-බංග්ලාදේශයට-දරුණු-පරාජයක්/9-412780) · `si`
-
-Bangladesh lost to South Africa in cricket match. Bangladesh scored 273 runs, while South Africa reached 575/6. South Africa won both innings, defeating Bangladesh.
-
-🟩
-
-The Bangladesh team took place a few moments before the group of tourist destinations and 273 runs.
-
-South Africa decided to suspend 575 runs for the loss of 6 wickets while the first to bat first.
-
-The first innings scored 159 runs for the loss of 159 runs for the loss of all wickets in their second innings.
-
-◼️
-
-[Data](articles/22cdcd27.json)
-
-[Extended Data](ext_articles/22cdcd27.ext.json)
 
 ---

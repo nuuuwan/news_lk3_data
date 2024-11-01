@@ -1,36 +1,300 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 06:13:55**
+As of **2024-11-01 06:45:39**
 
 ## Newspaper Stats
 
-*Scraped **52,454** Articles*
+*Scraped **52,474** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 414
-colombotelegraphcom | 532
+colombotelegraphcom | 533
 bbccomsinhala | 535
-islandlk | 3,129
+islandlk | 3,130
 economynextcom | 3,187
-dailyftlk | 3,579
+dailyftlk | 3,594
 dailymirrorlk | 4,733
 adalk | 4,882
 adaderanalk | 6,228
-tamilmirrorlk | 7,274
+tamilmirrorlk | 7,276
 virakesarilk | 8,468
-adaderanasinhalalk | 9,130
+adaderanasinhalalk | 9,131
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,453 (100.0%) of 52,454 articles have been extended.
+52,459 (100.0%) of 52,474 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Sri Lanka Design Festival 2024: Showcase of creativity and culture at Cinnamon Life at City of Dreams
+
+*2024-11-01 06:11:47* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Design-Festival-2024-Showcase-of-creativity-and-culture-at-Cinnamon-Life-at-City-of-Dreams/34-768692) · `en`
+
+Highlighting Sri Lanka as a focal point for South Asian design, the partnership between Cinnamon Life at City of Dreams as official host and SLDF establishes Colombo as the new nucleus of the subcontinent’s vibrant creative ecosystem
+
+This collaboration positions the city as a dynamic hub where creativity and commerce converge, inviting businesses to engage with the city’s transformation and leverage the dynamic energy of innovation and cultural expression that defines the new Colombo
+
+SLDF and MBFWSL will be held at Cinnamon Life City of Dreams, 7 to 10 November with an immersive public program including over 50 events packed with knowledge, insights, and inspiration for the general public and business community alike
+
+...
+
+[Data](articles/4f2deb88.json)
+
+---
+
+### Prima triumphs at National Supply Chain Excellence Awards for 2nd consecutive year
+
+*2024-11-01 06:10:21* · [`dailyftlk`](https://www.ft.lk/business/Prima-triumphs-at-National-Supply-Chain-Excellence-Awards-for-2nd-consecutive-year/34-768691) · `en`
+
+Prima Group Sri Lanka Ceylon Agro Industries General Manager Sajith Gunaratne receiving the Special Commendation Award at the National Awards of Excellence for the Best Supply Chain Practicing Organisation in the Large Scale category from Special Guest International Federation of Purchasing and Supply Management CEO Markku Henttinen, and Chief Guest International Federation of Purchasing and Supply Management President Eng. Chris Oanda, in the presence of officials of the Institute of Supply and Materials Management and Ceylon Agro Industries Ltd., Prima Group Sri Lanka
+
+Ceylon Agro Industries (CAI) Ltd. (Prima Group Sri Lanka) was honoured with the National Award of Excellence for Best Supply Chain Practising Organisation, along with a Special Commendation Award in the Large Scale Commendation category, at the National Supply Chain Excellence Awards 2024.
+
+...
+
+[Data](articles/19262e5b.json)
+
+---
+
+### Teejay closes H1 charting strong course for future
+
+*2024-11-01 06:09:23* · [`dailyftlk`](https://www.ft.lk/business/Teejay-closes-H1-charting-strong-course-for-future/34-768690) · `en`
+
+Teejay Group, Sri Lanka’s first multinational textile manufacturer, has recorded a Profit after Tax of Rs. 0.9 billion for the first half of the financial year ending 30 September.
+
+The Group revenue  reached a notable Rs. 32.7 billion, recording an 11% increase compared to the first half of the previous year.
+
+Gross Profit of the Group posted at Rs. 3.2 billion for the first half of FY2024/25 with a 47% improvement when compared to the same period in the previous financial year with a strong balance sheet and a cash balance of Rs. 8.4 billion. The net assets base at the close of the period under review stood at Rs. 30.4 billion, with a value of Rs. 42.19 net assets per share.
+
+...
+
+[Data](articles/1848ae31.json)
+
+---
+
+### Ceylon Business Appliances celebrates 54 years of excellence
+
+*2024-11-01 06:08:21* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Business-Appliances-celebrates-54-years-of-excellence/34-768689) · `en`
+
+Director/ CEO Ruwath Fernando, Managing Director Sadha Fernando, and Ceylon Business Appliances team
+
+Ceylon Business Appliances (CBA) is celebrating a remarkable milestone this year, marking 54 years of pioneering excellence and innovation in Sri Lanka’s technology sector. CBA has consistently led technological advancements, shaping the nation’s digital landscape and setting industry benchmarks that continue to influence the business sector.
+
+CBA’s journey of innovation began in the 1970s with the introduction of Barrows Banking Ledger Machines and Brother Typewriters, transforming operations in banks and offices. This laid the foundation for efficient business practices across the country. In the 1980s, CBA introduced plastic ID cards and modern photocopiers from Mita and later Kyocera, driving further business innovation.
+
+...
+
+[Data](articles/0f92993c.json)
+
+---
+
+### A tight rain over 100 mm millimeters today
+
+*2024-11-01 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202783) · `si`
+
+Heavy rainfall warning: 100mm+ expected today. Thunderstorms forecasted for Uva, East, Central, Sabaragamuwa, and North Central provinces. Coastal areas may experience strong winds and lightning. Public advised to take precautions against potential damage from storms.
+
+🟩
+
+The Department of Meteorology says that there is a atmosphical situation that has occurred at several parts of the island today (01).
+
+Thundershowers showers or thundershowers during the evening or night in many parts of the island.
+
+Uva, East, Central, Sabaragamuwa and North Central provinces. Heavy showers over 100 can also be caused by the Met Department.
+
+Showers or thundershowers will occur at several places elsewhere in the coastal areas of the Northern, Eastern and North Western provinces.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
+
+◼️
+
+[Data](articles/5b4501cc.json)
+
+[Extended Data](ext_articles/5b4501cc.ext.json)
+
+---
+
+### SWRD, JR et al, tradition or mythology?
+
+*2024-11-01 06:06:42* · [`dailyftlk`](https://www.ft.lk/columns/SWRD-JR-et-al-tradition-or-mythology/4-768688) · `en`
+
+“Oh little monk, it is an arduous path you are taking…” on Martin Luther’s decision to challenge the papacy.
+
+“The tradition of all the dead generations weighs like an incubus upon the brain of the living”
+
+As the common saying goes ‘Success has many fathers but failure is an orphan’. And, in recent times, no other political career has been as successful as that of President Anura Kumar Dissanayake.
+
+Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan elite status, member of a putatively Marxist political party (an ideology seemingly out of step with the modern world in many aspects) and having received only about 3% of the general vote at the Presidential elections in 2019, Dissanayake yet won an emphatic approval from the voter in September 2024. His closest rival was more than a million votes behind. Prominent politicians, heralded for decades, would have turned green with envy contemplating the Dissanayake success.
+
+...
+
+[Data](articles/0163ffa9.json)
+
+---
+
+### The blame game
+
+*2024-11-01 06:01:03* · [`dailyftlk`](https://www.ft.lk/columns/The-blame-game/4-768687) · `en`
+
+Voters appear to prefer the blame game, pointing to anyone other than themselves
+
+Over the past two years, I’ve had the opportunity to talk to many people across the country about what ails this land. On these occasions, I’ve always talked about what we as citizens have done (rewarded politicians who fostered the giveaway culture) and not done (failed to exercise any oversight in the time between elections). Almost always I get significant pushback. A common refrain is “we didn’t get fuel and electricity for free; we can’t be blamed for the fiscal deficit.” Citizens are blameless; the leaders are.
+
+...
+
+[Data](articles/5a5b96ff.json)
+
+---
+
+### Reforming governance heralds system change
+
+*2024-11-01 05:57:10* · [`dailyftlk`](https://www.ft.lk/columns/Reforming-governance-heralds-system-change/4-768686) · `en`
+
+What lessons could the young generation learn from these oldies who with
+
+After reviewing the economy’s performance during the first two years of its stewardship, IMF noted that without reforming governance, economic stability and economic growth would be slow and shaky. Although a noticeable measure of economic stability had been achieved the reviewers noted that growth prospect was still at knife’s edge. But even before IMF stepped into the scene the Aragalaya youth already identified the fundamental sickness that was debilitating the economy for decades and that sickness was bad governance.
+
+An ethnonational majoritarian political culture with little or no room for meritocracy became the breeding ground for nepotism and corruption. That culture built a socio-economic and political system which in the end bankrupted the national treasury and along with it the national economy. Hence, the dire need for system change.
+
+...
+
+[Data](articles/d267e3b0.json)
+
+---
+
+### Digital mindset to solve analogue problems
+
+*2024-11-01 05:54:03* · [`dailyftlk`](https://www.ft.lk/columns/Digital-mindset-to-solve-analogue-problems/4-768685) · `en`
+
+Some of the luxury vehicles used by previous administrations parked in Colombo – File photo
+
+Do we need to rethink strategies for transport in ministries and State departments?
+
+President Anura Kumara Dissanayake recently made an announcement on LinkedIn which said, “Advised to allocate luxury vehicles by previous administrations to essential services.” It seems there is a huge question and dilemma as to what needs to be done with these white elephant vehicles, which are high maintenance assets the Government is currently burdened with.
+
+There were a host of comments following the President’s post. Since the post was on LinkedIn, a cross section of professionals were seen taking part in this conversation. Someone suggested, it might be beneficial to auction some of these locally to those who can afford luxury and upkeep. The funds could then be directed toward acquiring better, more fuel-efficient vehicles, possibly even performance hybrids to help reduce emissions.
+
+...
+
+[Data](articles/443f0602.json)
+
+---
+
+### Over 150 NGOs urge  world governments to help end war crimes in Gaza
+
+*2024-11-01 05:50:36* · [`dailyftlk`](https://www.ft.lk/opinion/Over-150-NGOs-urge-world-governments-to-help-end-war-crimes-in-Gaza/14-768684) · `en`
+
+UNITED NATIONS (IPS): As it continues to leave a mounting trail of death and destruction in Gaza, Israel has come under severe attack from the international community, including the United Nations and its humanitarian agencies, Western allies, the International Criminal Court (ICC) and scores of human rights experts.
+
+During a conference in Paris, focusing on the new crisis unfolding in Lebanon, President Emmanuel Macron of France, a longtime Western ally and one of the five veto-wielding permanent members of the UN Security Council, had “sharp words for Israel reflecting the view, even among Israel’s allies, that it has used excessive force against its enemies, resulting in disproportionate casualties and destruction,” according to the New York Times October 25.
+
+“I am not sure you can defend a civilisation by sowing barbarism yourself,” Macron declared.
+
+...
+
+[Data](articles/6c5e5dbf.json)
+
+---
+
+### Debt restructuring and the risk of a long-term failed State
+
+*2024-11-01 05:48:10* · [`dailyftlk`](https://www.ft.lk/opinion/Debt-restructuring-and-the-risk-of-a-long-term-failed-State/14-768682) · `en`
+
+Following is a letter from the Frontline Socialist Party, to President Anura Kumara Dissanayake, on the DDR and the risk of moving towards becoming a failed State.
+
+Through the results of the last Presidential election, the people of Sri Lanka have led the corrupt political forces that existed so far to a crucial defeat and opened the country to a new political journey through a Government of the National People’s Power. This is the result of the people’s struggle that unfolded throughout the recent past and a large propaganda intervention that influenced public opinion.
+
+...
+
+[Data](articles/10bbc844.json)
+
+---
+
+### Charitha accuses Govt. of not having clear plan
+
+*2024-11-01 05:42:55* · [`dailyftlk`](https://www.ft.lk/news/Charitha-accuses-Govt-of-not-having-clear-plan/56-768681) · `en`
+
+Claims President and NPP’s push to acquire Parliamentary power to strengthen the Presidency, undermines the role of Parliament
+
+Argues that Parliament is the primary legislative body representing the people and should not be positioned as an arm of executive power
+
+Says PM’s recent statement dismissing relevance of cabinet decisions taken by previous Government is constitutionally inaccurate
+
+Former MP Prof. Charitha Herath has criticised the current Government for governing without a clear plan. He also raised concerns over the approach advocated by President Anura Dissanayake and the National People’s Power (NPP), suggesting that their push to acquire Parliamentary power to strengthen the Presidency, undermines the role of Parliament as an independent legislative body.
+
+The former MP made these comments while addressing a press conference at the Samagi Jana Sandhanaya (SJS) head office yesterday.
+
+...
+
+[Data](articles/bf476623.json)
+
+---
+
+### Lohan Ratwatte arrested over illegally assembled SUV
+
+*2024-11-01 05:41:33* · [`dailyftlk`](https://www.ft.lk/news/Lohan-Ratwatte-arrested-over-illegally-assembled-SUV/56-768680) · `en`
+
+Former Plantation Industries and Mahaweli Development State Minister Lohan Ratwatte
+
+Former Plantation Industries and Mahaweli Development State Minister Lohan Ratwatte was arrested yesterday following the discovery of an unregistered vehicle at a residence owned by his wife, Shashi Prabha Ratwatte, in Mirihana recently. Police Spokesperson DIG Nihal Thalduwa said Ratwatte was taken into custody on charges related to the use of an illegally assembled vehicle. The arrest took place at Ratwatte’s home in Katugastota, Kandy, before he was transferred to the Mirihana police for further questioning.
+
+...
+
+[Data](articles/3b9710a6.json)
+
+---
+
+### Singapore Press Club to explore Sri Lanka in 10 days
+
+*2024-11-01 05:40:35* · [`dailyftlk`](https://www.ft.lk/news/Singapore-Press-Club-to-explore-Sri-Lanka-in-10-days/56-768679) · `en`
+
+A 20-member delegation from the Singapore Press Club (SPC) is to visit Sri Lanka from 31 October to 9 November, with the objective of learning more about the culture, economy, politics, and people of Sri Lanka.
+
+The SPC selected Sri Lanka as the next destination for their annual goodwill mission, at the request of the Sri Lankan High Commissioner in Singapore Senarath Dissanayake.
+
+During the visit, SPC President Patrick Daniel will lead the delegation. In addition to exploring the natural beauty and cultural diversity of Sri Lanka, the delegation will meet Prime Minister Dr. Harini Amarasuriya, Northern Province Governor Nagalingam Vethanayahan, and Honorary Consul of Singapore in Sri Lanka Dr. Jayantha Dharmadasa during their visit.
+
+Upon returning, the delegation will share their experience through social media, printed media, and TV channels, promoting Sri Lanka in Singapore.
+
+...
+
+[Data](articles/dd68407d.json)
+
+---
+
+### Sujeewa Lal Dahanayake inducted as 44th President of OPA
+
+*2024-11-01 05:36:24* · [`dailyftlk`](https://www.ft.lk/news/Sujeewa-Lal-Dahanayake-inducted-as-44th-President-of-OPA/56-768678) · `en`
+
+Attorney-at-Law Sujeewa Lal Dahanayake was sworn in as 44th President of the Organisation of Professional Associations of Sri Lanka (OPA) for the year 2024/2025, at its Annual General Meeting on 30 October 2024.
+
+The 50th anniversary celebrations of the OPA will take place in 2025, under his Presidency.
+
+The OPA is the Apex body of 51 professional associations including the Bar Association of Sri Lanka (BASL), Government Medical Officers’ Association (GMOA), Sri Lanka Medical Association (SLMA), The Institute of Engineers of Sri Lanka (IESL), Chartered Institute of Management Accountants (CIMA), Sri Lanka Economic Association (SLEA) and many other leading professional associations in Sri Lanka. The OPA has over 60,000 members, drawn from 34 diverse disciplines.
+
+...
+
+[Data](articles/35ff1d45.json)
+
+---
+
+### “Vidyalaya Nalanda” book launch today
+
+*2024-11-01 05:35:18* · [`dailyftlk`](https://www.ft.lk/news/VidyalayaNalandabook-launch-today/56-768677) · `en`
+
+The research book “Vidyalaya Nalanda” will be launched today under the Governor of the Eastern Province Prof. Jayantalal Ratnasekara at Malalasekera Memorial Hall, Nalanda Vidyalaya, at 2.30 p.m. The book examines the 100 years history of Nalanda Vidyalaya in Colombo. It comprises 66 chapters and 307 sub-topics. It is published by Gunasena Company Ltd.
+
+...
+
+[Data](articles/b5a59628.json)
+
+---
 
 ### ‘Stay connected abroad with HUTCH’s unbeatable data roaming deals’
 
@@ -64,6 +328,20 @@ Gross Profit of the Group posted at LKR 3.2 Bn for the first half of FY2024/25 w
 
 ---
 
+### The Executive Centre investing USD 750k to expand its presence in Sri Lanka
+
+*2024-11-01 02:37:00* · [`islandlk`](http://island.lk/the-executive-centre-investing-usd-750k-to-expand-its-presence-in-sri-lanka/) · `en`
+
+The Executive Centre (TEC), Asia’s largest premium workspace provider with a presence in 16 countries across Asia-Pacific, Middle East and Australia, is poised to further expand its footprint in Sri Lanka. As part of its strategic growth, TEC has invested USD 750K to open a new floor in the East Tower of the World Trade Center in Colombo. This follows TEC’s maiden entry into Sri Lanka in 2017, when it first established two centres in the West Tower of the World Trade Center and one centre at MAGA One.
+
+...
+
+[Data](articles/97e6c1f3.json)
+
+[Extended Data](ext_articles/97e6c1f3.ext.json)
+
+---
+
 ### Atlas World introduces innovative Quiz Master Mobile App to enhance Sri Lanka’s student learning
 
 *2024-11-01 02:37:00* · [`islandlk`](http://island.lk/atlas-world-introduces-innovative-quiz-master-mobile-app-to-enhance-sri-lankas-student-learning/) · `en`
@@ -77,6 +355,28 @@ It delivers several benefits including expanding educational opportunities for c
 [Data](articles/bd00d7f0.json)
 
 [Extended Data](ext_articles/bd00d7f0.ext.json)
+
+---
+
+### We will boycott the first
+
+*2024-11-01 02:25:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வௌ்ளி-முதல்-பகிஷ்கரிப்போம்/175-346383) · `ta`
+
+Railway Station Principals' Association boycotts work due to promotion and recruitment issues. Union action taken on Wednesday, chairman threatens relaunch on Friday if demands aren't met. Work suspended until Diwali festival.
+
+🟩
+
+The work of the Railway Station Principal's Association was temporarily abandoned. This work has been abandoned for the Diwali festival.
+
+The trade union action was carried out on Wednesday (30) from 10 pm on the basis of some issues, including promotion and recruitment.
+
+Chairman of the Railway Station Principals Association Somata Somatna said that if their request is not given a proper solution within today, he will be re -launched on Friday (01).
+
+◼️
+
+[Data](articles/5169dd0f.json)
+
+[Extended Data](ext_articles/5169dd0f.ext.json)
 
 ---
 
@@ -95,6 +395,28 @@ Addressing an audience of women, in Colombo recently, she touched on decades of 
 [Data](articles/a3dbb371.json)
 
 [Extended Data](ext_articles/a3dbb371.ext.json)
+
+---
+
+### Model MU advance to three
+
+*2024-11-01 02:23:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மு-கா-மூன்றுக்கு-முன்னேறுகிறது/175-346382) · `ta`
+
+Sri Lanka Muslim Congress (SLMC) aims for 3 seats in Digamadulla district. Former Kalmunai Municipal Council Chief Minister Shiras Meera Sahib leads campaign, promising honest service and addressing people's issues.
+
+🟩
+
+Sri Lanka Muslim Congress (SLMC), Nikamadulla District Sri Lanka Muslim Congress (SLMC) third candidate and former chief minister of Kalmunai Municipal Council, Shiras Meera Sahib said that the Sri Lanka Muslim Congress is progressing to the level of three seats in the Digamadulla district.
+
+He said this at the party's election campaign meeting on Wednesday (30) at Sainthamaruthu. As he continues to address,
+
+As an example of how to become the Chief Minister of the Kalmunai Municipal Council in the past, I have been a candidate in this parliamentary election as a candidate in this parliamentary election..
+
+...
+
+[Data](articles/ff88c866.json)
+
+[Extended Data](ext_articles/ff88c866.ext.json)
 
 ---
 
@@ -184,6 +506,8 @@ This year’s edition also offered interns exposure and mentorship to industry l
 
 [Data](articles/87500037.json)
 
+[Extended Data](ext_articles/87500037.ext.json)
+
 ---
 
 ### Diwali
@@ -265,6 +589,20 @@ Yasodini Karunanidhi, a former fighter, who was a female candidate in the Democr
 ---
 
 ### 2024-10-31 (Thursday)
+
+### ‘A Thriving Nation, A Beautiful Life’ – A Proximate Reality Or Another Century Long Dream?
+
+*2024-10-31 23:53:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-thriving-nation-a-beautiful-life-a-proximate-reality-or-another-century-long-dream/) · `en`
+
+The World Bank announced last week that ‘Sri Lanka’s economy has stabilized, with growth expected to reach 4.4% in 2024, surpassing earlier forecasts.’ This ‘good news’ has brought the political conversation to the ‘right’ path set in motion by the previous president and a sarcastic ‘kudos’ to the current president for moving in this path. In the past years where the country faced both the global and local polycrisis, macroeconomic stability has been the short term priority of all mainstream political parties. With defaulted loan repayments coming up in 2-3 years, carving a pathway for economic growth is now the next priority. Yet, what is this pathway and more importantly what is the pathway the citizens’ mandate for systems change is calling for?
+
+...
+
+[Data](articles/a17244a4.json)
+
+[Extended Data](ext_articles/a17244a4.ext.json)
+
+---
 
 ### Explanation order to Lohan
 
@@ -1973,491 +2311,5 @@ The drug was found in a mission by the STF.
 [Data](articles/734004d5.json)
 
 [Extended Data](ext_articles/734004d5.ext.json)
-
----
-
-### 40kg of heroin worth over Rs. 1Bn recovered in Sevanagala
-
-*2024-10-31 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103066/40kg-of-heroin-worth-over-rs-1bn-recovered-in-sevanagala) · `en`
-
-A stock of 40 kilograms of heroin estimated to be worth around Rs. 1,000 million has been recovered during a raid carried out by Police Special Task Force (STF) in the Sevanagala area.
-
-The raid was conducted based on a tip-off from Sri Lanka Army intelligence, the police said.
-
-Police are conducting further investigations regarding the stock of drugs.
-
-◼️
-
-[Data](articles/b7c7a3f1.json)
-
-[Extended Data](ext_articles/b7c7a3f1.ext.json)
-
----
-
-### Former State Minister Lohan Ratwatte arrested
-
-*2024-10-31 12:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103065/former-state-minister-lohan-ratwatte-arrested) · `en`
-
-Former State Minister Lohan Ratwatte has been arrested by police this afternoon (31).
-
-Police said that the former state minister was arrested in Kandy over an incident of discovering a car without number plates at his wife’s house in the Mirihana area of Nugegoda.
-
-◼️
-
-[Data](articles/4e67bc9a.json)
-
-[Extended Data](ext_articles/4e67bc9a.ext.json)
-
----
-
-### Lohan Ratwatte arrested
-
-*2024-10-31 12:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202766) · `si`
-
-Sri Lanka: Former State Minister LAAON Rathwatte arrested over unregistered vehicle found near his home.
-
-🟩
-
-Former State Minister LAAON Rathwatte has been arrested in connection with the discovery of a car without number plates of his wife in Miriahane, Nugegoda.
-
-◼️
-
-[Data](articles/4742cea5.json)
-
-[Extended Data](ext_articles/4742cea5.ext.json)
-
----
-
-### A shooting of businessman's house
-
-*2024-10-31 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202765) · `si`
-
-Businessman's house shot in Meegoda. Police believe attack meant to intimidate rather than cause damage. Incident occurred on January 31st.
-
-🟩
-
-A businessman of a businessman was shot in a businessman in Meegoda this morning (31).
-
-The police suspect that no one had been damaged by shooting and the shooting was carried out to intimidate the businessman.
-
-◼️
-
-[Data](articles/371217f5.json)
-
-[Extended Data](ext_articles/371217f5.ext.json)
-
----
-
-### Ranil, who has been rejected by the public many times, is he going to teach me about the constitution?Harini
-
-*2024-10-31 12:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197573) · `ta`
-
-Former President Ranil Wickremesinghe faces criticism from Prime Minister Harini Amarasuriya over his political failures. Amarasuriya questions Wickremesinghe's ability to teach the constitution, citing his rejection by the public. She emphasizes the need for leaders to understand governance and avoid destructive political practices.
-
-🟩
-
-Prime Minister Harini Amarasuriya has questioned whether the former President Ranil Wickremesinghe, who has failed many times in his constituency, has been rejected by the public.
-
-Ranil Wickremesinghe is not saying goodbye to politics but continues to hang in his politics.
-
-He has rejected himself that people have changed.
-
-Harini Amarasuriya has said that Ranilvikramasinghe should know these basics if I teach the Constitution if I teach the Constitution.
-
-He said that Sri Lanka was destroyed by the leaders who were aware that they knew nothing of themselves and that the government was trying to end such political culture.
-
-◼️
-
-[Data](articles/a02c236d.json)
-
-[Extended Data](ext_articles/a02c236d.ext.json)
-
----
-
-### “False messages are spread”
-
-*2024-10-31 11:59:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-செய்திகள்-பரப்பப்படுகின்றன/175-346354) · `ta`
-
-"President Anura Kumara Dissanayake accuses politicians and media of spreading false news to destabilize the country. He denies claims of Indian intelligence reports and media misinformation about salary increases and attacks on tourist attractions."
-
-🟩
-
-President Anura Kumara Dissanayake has said that some politicians and media institutions are spreading false news to establish anarchy in the country in order to create instability without giving strong power to the new government.
-
-Speaking at a meeting of the election campaign in Matara, he said that some politicians are spreading false news about the salaries of civil servants and that some media outlets are spreading false news in major economic sectors to create anarchy in the community.
-
-“We have confirmed power only in some institutions. Political authority is established when strong authority is confirmed in many institutions such as the President, Cabinet, Parliament, Provincial Councils and Local Government Councils. We have only the presidency and the small cabinet. The parliament has been dissolved. Three months have passed since we took over the regime, some media and some politicians are trying to create stability without giving strong authority.
-
-...
-
-[Data](articles/90b1221f.json)
-
-[Extended Data](ext_articles/90b1221f.ext.json)
-
----
-
-### Here's what Harry Potter is going to do the public train bridge
-
-*2024-10-31 11:58:28* · [`adalk`](https://www.ada.lk/breaking_news/Harry-Potter-චිත්‍රපට-මාලාවේ-ප්‍රසිද්ධ-දුම්රිය-පාලමට-කරන්න-යන-දේ-මෙන්න/11-412773) · `si`
-
-Harry Potter film series boosts tourism at 123-year-old Scott Schanga Express bridge, sparking rehabilitation efforts.
-
-🟩
-
-Scott Schanga Express, a public view of the horry potter film, has commenced the rehabilitation of the 21 Bridge.
-
-The bridge is 123 years old, and a large number of people will visit this place due to the Garry Potter films.
-
-◼️
-
-[Data](articles/9ec75f1d.json)
-
-[Extended Data](ext_articles/9ec75f1d.ext.json)
-
----
-
-### The Prime Minister responded to the former president
-
-*2024-10-31 11:47:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிக்கு-பதிலடி-கொடுத்தார்-பிரதமர்/175-346353) · `ta`
-
-Prime Minister Harini Amarasuriya criticizes former President Ranil Wickremesinghe over constitution understanding and governance. She questions his ability to teach the constitution after repeated electoral losses. The PM emphasizes the importance of public consent in governance and rejects Wickremesinghe's claims about Cabinet decision-making processes.
-
-🟩
-
-Prime Minister Harini Amarasuriya has questioned whether the constitution should be learned from former President Ranil Wickremesinghe, who has been rejected by the public several times and lost many elections.
-
-Speaking at a public event, Prime Minister Amarasuriya said Ranil Wickremesinghe did not appear to be quitting, despite losing 17 times, and that he was hanging out in his political career.
-
-“He could not understand that the public had changed and rejected him. However, we have started a new journey, ”he said.
-
-Pointing out that the basis of the Constitution is the decree of the people, the Prime Minister questioned how Ranil Wickremesinghe, who did not understand this basic issue, questioned how he could teach the constitution.
-
-“A person who knows the basics of the Constitution will not postpone the election, or will not interfere in the results of the National Council or the judiciary. I think he must know at least these basics to teach me about the Constitution, ”he said.
-
-...
-
-[Data](articles/24dbc752.json)
-
-[Extended Data](ext_articles/24dbc752.ext.json)
-
----
-
-### China to provide emergency humanitarian aid worth Rs. 400M to Sri Lanka
-
-*2024-10-31 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103064/china-to-provide-emergency-humanitarian-aid-worth-rs-400m-to-sri-lanka) · `en`
-
-The Chinese Government has decided to further provide a batch of Emergency Humanitarian Materials worth Rs. 400 million to Sri Lanka, the Chinese Embassy in Colombo said.
-
-This aid comes in addition to a recent Emergency Assistance of Rs. 30 million in cash handed over to the President of Sri Lanka for flood relief efforts, according to the Chinese Embassy.
-
-Meanwhile, Prime Minister Dr. Harini Amarasuriya held a meeting with Qi Zhenhong, the Ambassador of the People’s Republic of China to Sri Lanka, at the Prime Minister’s Office on Wednesday (30), where Ambassador Qi Zhenhong conveyed the Chinese government’s support for Sri Lanka’s flood relief efforts, reinforcing the longstanding partnership between the two nations.
-
-Prime Minister Amarasuriya expressed her appreciation to Ambassador Qi for the People’s Republic of China’s timely generosity and support during this crucial period.
-
-...
-
-[Data](articles/af302d27.json)
-
-[Extended Data](ext_articles/af302d27.ext.json)
-
----
-
-### චීනයෙන් රු මිලියන 400ක ආධාර තොගයක්
-
-*2024-10-31 11:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202764) · `si`
-
-Chinese government provides Rs. 400 million aid to Sri Lanka due to flood situation.
-
-🟩
-
-The Chinese government has decided to provide a large quantity of humanitarian aid materials worth Rs. 400 million.
-
-ඒ, පසුගිය දිනවල මෙරට තුළ ගංවතුර තත්ත්වය හේතුවෙන් පීඩාවට පත් ජනතාවගේ සුබසාධනය වෙනුවෙනි.
-
-අයහපත් කාලගුණයෙන් පීඩාවට පත් ජනතාවට සහන සැලසීම වෙනුවෙන් පසුගිය 22 වනදා ද චීන රජය රුපියල් මිලියන 30ක (USD 100,000) මුදලක් මෙරටට පරිත්‍යාග කළේය.
-
-මෙරට පිහිටි චීන තානාපති කාර්යාලය සඳහන් කරන්නේ එම මුදල් ආධාරයට අමතරව මෙම ආධාරය ලබාදුන් බවය.
-
-◼️
-
-[Data](articles/24655f34.json)
-
-[Extended Data](ext_articles/24655f34.ext.json)
-
----
-
-### “The Department of Examinations must assure you”
-
-*2024-10-31 11:31:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-திணைக்களம்-உறுதியளிக்க-வேண்டும்/175-346352) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Stalin urges Department of Examinations to reassure students and parents about smooth 2024 GCE A/L exams. He criticizes lack of action against those responsible for 2023 Agricultural Exam issues affecting students.
-
-🟩
-
-Joseph Stalin, General Secretary of the Sri Lanka Teachers Union (CTU), said that the Department of Examinations should assure students and parents that the 2024 GCE Advanced Level Examinations will be conducted smoothly without any problems.. .
-
-ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், க.பொ.த (உ/த) பரீட்சைகளை பாதுகாப்பாக நடத்துவதில் மாணவர்கள் மற்றும் பெற்றோர்கள் நம்பிக்கை இழந்துள்ளதாக குறிப்பிட்டார்.
-
-Therefore, the Commissioner of Examinations should take the necessary steps to ensure that 2024 (U/D) examinations are not issued.
-
-He reminded the media about one and two sheets of the 2023 (A/L) Agricultural Examination. As a result, innocent students were affected by the need to re -examine and unable to write the exam twice.
-
-ஆனால், அதற்கு காரணமானவர்கள் மீது இதுவரை எந்த நடவடிக்கையும் எடுக்கப்படவில்லை என்று ஸ்டாலின் குற்றம் சாட்டியுள்ளார்.
-
-◼️
-
-[Data](articles/6f899817.json)
-
-[Extended Data](ext_articles/6f899817.ext.json)
-
----
-
-### A sister who rescued the life of the magad of kidney
-
-*2024-10-31 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202763) · `si`
-
-Sister donates kidney to brother in 150th transplant surgery at Galle Teaching Hospital. Operation performed by specialist surgeon Dr. Ranjuk Ubeasiri.
-
-🟩
-
-‍ගාල්ල කරාපිටිය මහ රෝහලේ 150 වැනි වකුගඩු බද්ධ කිරීමේ සැත්කම එම රෝහලේ වකුගඩු හා අවයව බද්ධ කිරීමේ විශේෂඥ ශල්‍ය වෛද්‍ය රංජුක උබේසිරි මහතා විසින් 29 වනදා සිදුකරනු ලැබීය.
-
-2012 වර්ෂයේ නොවැම්බර් මස 19 වැනි දින ගාල්ල, කරාපිටිය මහ රෝහලේ ප්‍රථම වරට වකුගඩු බද්ධ කිරීමේ සැත්කම් ආරම්භ කරනු ලැබුවේ වකුගඩු හා අවයව බද්ධ කිරීමේ විශේෂඥ ශල්‍ය වෛද්‍ය රංජුක උබේසිරි මහතා කරාපිටිය මහ රෝහලට පැමිණීමත් සමඟය.
-
-150 වැනි වරටත් සිදුකළ මෙම වකුගඩු බද්ධ කිරීමේ සැත්කම සඳහා තම පවුලේ වැඩිමහල් සහෝදරියා විසින් තම සහෝදරයාට වකුගඩුව පරිත්‍යාග කොට තිබිණි.
-
-අක්කාගේ වකුගඩුවක් මල්ලීට බද්ධ කරනු ලැබූ අතර මෙම අක්කා සහ මල්ලි කඹුරුපිටිය ප්‍රදේශයේ පදිංචිකරුවෝ වෙති. The sister is 53 years old and the brother is 52.
-
-වකුගඩු බද්ධ කිරීමේ සැත්කම සඳහා පැය හයක පමණ කාලයක් ගතවී ඇත. In addition to kidney transplantation at the Kidney Transplantation of the Kidney Hospital in Galle Teaching Hospital, road accidents and the hands of violence and various accidents will be conducted by the unit and other services.
-
-...
-
-[Data](articles/853f6a9e.json)
-
-[Extended Data](ext_articles/853f6a9e.ext.json)
-
----
-
-### Ranil speaks out against revoking privileges of former Presidents
-
-*2024-10-31 11:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103062/ranil-speaks-out-against-revoking-privileges-of-former-presidents) · `en`
-
-Former President Ranil Wickremesinghe stresses that the privileges granted to former Presidents of the country should remain intact.
-
-Speaking at a rally in Matale, Wickremesinghe emphasized that he does not require any privileges for himself and that the government must prioritize the safety of other former presidents.
-
-Addressing the rally, he remarked, “Presidential residences are being removed. I don’t have a problem. I don’t live in a residence. It’s not a problem for me. Why are they chasing behind Chandrika? Just let her be in that house. I have nothing special, but for humanity… If Mahinda Rajapaksa requires security for himself…he is the one who ended the war, think about it…”
-
-He further stated that if there are genuine security concerns, those should be addressed to anyone in need.
-
-...
-
-[Data](articles/b9fa626f.json)
-
-[Extended Data](ext_articles/b9fa626f.ext.json)
-
----
-
-### Two unidentified bodies found in Bogawantalawa and Peliyagoda
-
-*2024-10-31 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103060/two-unidentified-bodies-found-in-bogawantalawa-and-peliyagoda) · `en`
-
-Two unidentified bodies have been found in separate incidents in the Bogawantalawa and Peliyagoda police divisions, the police said.
-
-The first body has been discovered in the Kehelgamu Oya in Bogawana Waththa, Bogawantalawa last morning (30).
-
-Authorities said that the deceased is a male, aged between 35 and 40 years, with a height of 5 feet 2 inches. He was last seen wearing black long pants and a white short-sleeved shirt, and had an earring in the shape of an arrow in his left ear.
-
-An autopsy has been conducted, and the body has been placed in the mortuary of the Dickoya District Base Hospital, according to police.
-
-The Bogawantalawa Police are conducting further investigations into the incident.
-
-The other body has been found on the pavement along the Peliyagoda-Kandy road. Based on information received by the Peliyagoda Police last evening, an investigation was initiated into the incident. However, the identity of this deceased individual has not yet been confirmed.
-
-...
-
-[Data](articles/094e6d93.json)
-
-[Extended Data](ext_articles/094e6d93.ext.json)
-
----
-
-### Enter Air commences flight services between Poland and Sri Lanka
-
-*2024-10-31 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103061/enter-air-commences-flight-services-between-poland-and-sri-lanka-) · `en`
-
-Enter Air, the largest private airline operating in Poland has commenced flight services from Poland’s Warsaw to Colombo, marking the start of a new series of charter connections between Poland and Sri Lanka.
-
-Commenced on October 30, 2024, this Warsaw-Colombo route will operate regularly until the end of March 2025, enhancing travel and tourism links between the two countries.
-
-Upon arrival at the Bandaranaike International Airport in Katunayake, Enter Air’s inaugural aircraft was honored with a water salute, and passengers were warmly welcomed by a traditional dance performance arranged by Sri Lanka Tourism, celebrating the vibrant culture of the island.
-
-◼️
-
-[Data](articles/71d3162a.json)
-
-[Extended Data](ext_articles/71d3162a.ext.json)
-
----
-
-### நாடளாவிய ரீதியில் சிறப்பாக இடம்பெற்ற தீபாவளி விசேட பூஜைகள் !
-
-*2024-10-31 11:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197562) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Diwali celebrations across Sri Lanka. Special poojas held at temples in Negombo, Batticaloa, Mullaitivu. Police conduct worship services. Thousands attend ceremonies. Public and police participate in Oddusuttan Shiva Temple. Nallur Kandaswamy Temple sees large devotee turnout.
-
-🟩
-
-Hindus celebrate the Diwali festival today. அந்தவகையில் நாடளாவிய ரீதியில் தீபாவளி பண்டிகை விசேட பூஜை வழிபாடுகள் சிறப்பாக இடம்பெற்று வருகின்றது.
-
-The Diwali special pooja was held on Thursday morning (31) at the Sri Siddhi Vinayagar Temple at Negombo Beach Street.
-
-Diwali special poojas were held today at the Srimamangeswarar Temple in Batticaloa.
-
-ஆலயத்தின் பிரதமகுரு சிவஸ்ரீ புரண சுதாகர குருக்களின் தலைமையில் இந்த பூஜை வழிபாடுகள் நடைபெற்றன.
-
-இதன்போது நாட்டிற்கு நன்மைவேண்டியும் நாட்டில் ஏற்பட்டுள்ள சிக்கல் நிலை நீங்கி நாடு சுபீட்சமடையவும் விசேட யாகம் மற்றும் அபிசேகமும் நடாத்தப்பட்டது.
-
-இன்றைய தீபாவளி பூஜை வழிபாடுகளில் மாவட்டத்தின் பல்வேறு பகுதிகளிலுமிருந்து பெருமளவானோர் கலந்துகொண்டமை குறிப்பிடத்தக்கது.
-
-Diwali special pooja at the Mullaitivu Oddusuttan Shivanayalai was carried out by the police on Thursday (31).
-
-...
-
-[Data](articles/4a5f36e3.json)
-
-[Extended Data](ext_articles/4a5f36e3.ext.json)
-
----
-
-### Deepavali and Halloween Biday
-
-*2024-10-31 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202762) · `si`
-
-Deepavali and Halloween celebrations held simultaneously at White House under Joe Biden's leadership. Kamala Harris praised Biden as more experienced than other presidential candidates. Due to election, Harris couldn't attend ceremony. Jill Biden participated in Halloween event, awarding children's literature. Biden attended final Halloween celebration at White House.
-
-🟩
-
-දීපාවලි උත්සවයට සමගාමීව අමෙරිකානු ජනාධිපති ජෝ බයිඩන්ගේ ප්‍රධානත්වයෙන් ධවල මන්දිරයේ දී සැමරුම් උත්සවයක් පවත්වා තිබේ.
-
-The vice presidentman Kamala Harris warmly commended this year.
-
-කමලා හැරිස්, ජනාධිපතිවරණයට මුහුණ දෙන අනෙක් පුද්ගලයාට වඩා අත්දැකීම් බහුල අයෙක් බව මෙහිදි ජෝ බයිඩන් පවසා ඇති බව විදෙස් මාධ්‍ය සඳහන් කරයි.
-
-The President has noted that the Vice President Kula Harris could not attend the ceremony due to the election of election.
-
-මේ අතර හැලොවීන් උත්සවයට සමගාමීවද ධවල මන්දිරයේදීත් හැලොවීන් සැමරුමක් පවත්වා තිබේ.
-
-The President had drawn attention to the attention of a First Lady Jill Biden Pandan.
-
-The First Lady has also awarded literature for children of children.
-
-ජනාධිපති ජෝ බයිඩන් ධවල මන්දිරයේ සිටින අවසන් හැලොවීන් සැමරුම මෙය බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/a8578a8e.json)
-
-[Extended Data](ext_articles/a8578a8e.ext.json)
-
----
-
-### A disciple of a beef arrested with ice of Rs
-
-*2024-10-31 10:59:18* · [`adalk`](https://www.ada.lk/breaking_news/කෝටි-22ක-අයිස්-සමග-හරක්-කටාගේ-ගෝලයෙක්-අල්ලයි/11-412772) · `si`
-
-Beef disciple arrested with ice worth Rs. Police seized 6kg heroin, 1kg ice drugs, lorry, motorcycle. Suspect linked to large-scale drug dealer Arm Chinaka Wickramaratne. Heroin stock valued at nearly 25 million. Case handed over to SLBAC for investigation.
-
-🟩
-
-The STF said that a person who operated the drug network of the drug's drug network of an organized criminal and a large-scale drug dealer.
-
-In addition, a lorry and motorcycle have been taken into custody. The hands have been arrested (41) a resident of Dehiwala (41).
-
-Special Task Force to be received by the Sri Lanka Army Intelligence Unit, the OIC of Special Operations Division III. A group of officers including Ranasinghe has raided a raid near the Signal Tower in front of Boralesgamuwa, 10th Junction.
-
-Police be taken into custody with 06 kilos of heroin and 1 kg of ice drugs and a lorry and a motorcycle used to conduct the drug network.
-
-It has been revealed that the drug suspect of the arrival of the arrival criminal and a large-scale drug dealer, Arm Chinaka Wickramaratne, or a large-scale drug dealer, is racketeed.
-
-Police say that the value of the heroin stock of heroin was nearly twenty-five million, police said.
-
-...
-
-[Data](articles/52bd6d16.json)
-
-[Extended Data](ext_articles/52bd6d16.ext.json)
-
----
-
-### There are several media institutions that cannot change the old addictions
-
-*2024-10-31 10:49:47* · [`adalk`](https://www.ada.lk/breaking_news/පැරණි-ඇබ්බැහිවීම්-වෙනස්-කර-ගන්න-බැරි-මාධ්‍ය-ආයතන-කිහිපයක්-තිබෙනවා/11-412771) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake criticizes media bodies for spreading false news, calling for protection of democracy and truth in reporting. He emphasizes the importance of accurate journalism in maintaining peace and stability during elections.
-
-🟩
-
-"Some people are working false today because the government is stabilized.President Anura Kumara Dissanayake said in Matara yesterday.
-
-He was speaking at the rally organized by the national folk of the Jiantawatta Construction of the National Folk Force, "we together."
-
-"The general election has been nearly two weeks. The public is a voting campaign to go to the Flag of the Matara.Forest is divided. We have completed a peaceful political culture this time.
-
-In the presidential election, Dinawanku will be the election.Proven has been proven.
-
-We have ended the tribal election campaign that distort the bribery commissions.There is to be strengthened by the victory of the Presidential Election at the Presidential Election at the 14th of November 14.
-
-However, there are several media bodies that they do not have the old addictions in our country.They invite them.
-
-...
-
-[Data](articles/21a532b0.json)
-
-[Extended Data](ext_articles/21a532b0.ext.json)
-
----
-
-### There are no houses in Colombo anymore;President
-
-*2024-10-31 10:48:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-கொழும்பில்-வீடுகள்-இல்லை-ஜனாதிபதி/175-346351) · `ta`
-
-Here's a 200-character summary:
-
-
-
-No houses for ministers in Colombo. Government focuses on eradicating poverty. Ministers to work directly in communities, not Colombo. New cabinet planned post-November 14. Priority: solving local issues in rural areas.
-
-🟩
-
-President Anura Kumara Dissanayake stressed that the main attention of the government will be paid to the eradication of poverty.
-
-He highlighted the need for ministers to be embedded in communities rather than operating in Colombo.
-
-The President added that ministers will not be provided with houses in Colombo in the coming years.
-
-“We need a government that directly connect with the people,” he said, urging the leaders to work in their districts to solve local problems rather than in the distance.
-
-He expressed plans to establish a new cabinet and government after November 14.
-
-President Dissanayake added that "this government should reach the villages to do its work, and the most important task in front of me is to eliminate poverty in rural areas.". Remble
-
-◼️
-
-[Data](articles/5350a92e.json)
-
-[Extended Data](ext_articles/5350a92e.ext.json)
 
 ---

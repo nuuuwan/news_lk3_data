@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 04:11:47**
+As of **2024-11-02 04:40:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,600 (100.0%) of 52,602 articles have been extended.
+52,602 (100.0%) of 52,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ The decks are cleared for showdown between the old guard representing a rump in 
 
 [Data](articles/a2e815e7.json)
 
+[Extended Data](ext_articles/a2e815e7.ext.json)
+
 ---
 
 ### What a Trump or Harris presidency means to the world
@@ -59,6 +61,8 @@ The 5 November election, for all its drama, jabs, and entertainment, many feel v
 ...
 
 [Data](articles/533d85ce.json)
+
+[Extended Data](ext_articles/533d85ce.ext.json)
 
 ---
 

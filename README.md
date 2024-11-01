@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-01 15:59:10**
+As of **2024-11-01 16:13:27**
 
 ## Newspaper Stats
 
-*Scraped **52,540** Articles*
+*Scraped **52,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,123 @@ islandlk | 3,133
 economynextcom | 3,190
 dailyftlk | 3,594
 dailymirrorlk | 4,733
-adalk | 4,890
+adalk | 4,892
 adaderanalk | 6,242
 tamilmirrorlk | 7,288
 virakesarilk | 8,475
-adaderanasinhalalk | 9,148
+adaderanasinhalalk | 9,151
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,538 (100.0%) of 52,540 articles have been extended.
+52,543 (100.0%) of 52,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-01 (Friday)
+
+### Revelation on foreign debt in the first 6 months
+
+*2024-11-01 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202806) · `si`
+
+Sri Lanka's foreign debt: $503m paid Jan-Jun 2024 ($275.1m interest, $227.9m principal). Government debt: $37.5b as of Jun 2024. Bilateral/commercial creditor loans suspended. Unpaid installments: $5.67b (bilateral), $2.53b (commercial) as of Jun 30, 2022.
+
+🟩
+
+It is reported that Sri Lanka has paid overseas loan services of $ 503 million in the period from 1 January to 30, 2024.
+
+The $ 275.1 million is recorded as interest payments and $ 227.9 million as interest payments.
+
+At the end of June, 2024, government foreign debt was $ 37.5 billion.
+
+The foreign debt services of the affected bilateral and commercial creditors were temporarily suspended in accordance with the implications of the government.
+
+Accordingly, the amount of loan installments that have not been admitted to June 30, 2022, have been reported as $ 5,670 million and $ 2,527 million.
+
+This is stated in the Mid-2024 Fiscal Status of the Ministry of 2024, published by the Ministry of Finance.
+
+◼️
+
+[Data](articles/bd0e3afb.json)
+
+[Extended Data](ext_articles/bd0e3afb.ext.json)
+
+---
+
+### නීතිඥවරයෙකුගේ නීතිඥභාවය වසර 05කට අත්හිටුවයි
+
+*2024-11-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202805) · `si`
+
+Supreme Court suspends lawyer for 5 years over misconduct
+
+🟩
+
+The Supreme Court today (1) ordered the Supreme Court today to suspend the lawyers' lawyer for a period of five years.
+
+The order has been issued following a complaint lodged by the Colombo High Court Judge Adurdarandiage.
+
+අදාළ පැමිණිල්ලෙන් සඳහන් කර ඇත්තේ වගඋත්තරකාර නීතිඥවරයා කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබූ අපරාධ නඩුවක විත්තිකරුවකු වෙනුවෙන් පෙනී සිටීම සඳහා රජයෙන් පත්කොට තිබියදී, ඔහු විත්තිකරු වෙනුවෙන් දින තුනක් නොකඩවා අධිකරණය හමුවේ පෙනී නොසිටි බවය.
+
+The respondent has informed the court that the respondent will accept the charges.
+
+Accordingly, Mahinda Samayawardena has the Supreme Court Judge S.. තුරෙයි රාජා මහතා තීන්දුව ප්‍රකාශයට පත් කරමින් දැනුම්දී ඇත්තේ, මෙම විත්තිකරු නීතිඥ ආචාරධර්ම කඩවන ආකාරයෙන් කටයුතු කර ඇති බවයි.
+
+However, he has informed the charges of accepting the wrongdoing and consume his law and suspended his lawyers for five years.
+
+◼️
+
+[Data](articles/16a13ed7.json)
+
+[Extended Data](ext_articles/16a13ed7.ext.json)
+
+---
+
+### Detailed university students who died of fatal accident in Badulla
+
+*2024-11-01 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202804) · `si`
+
+Two university students killed in bus crash near Badulla. Injured taken to hospital. Accident caused by loss of vehicle control.
+
+🟩
+
+අද (01) උදෑසන බදුල්ල පොලිස් වසමේ බදුල්ල - මහියංගනය ප්‍රධාන මාර්ගයේ දුන්හිඳ ඇල්ල පසුකර අඹගහඔය ප්‍රදේශයේ දී, බදුල්ල දෙස සිට මහියංගනය දෙසට ධාවනය වූ බස් රථයක් පෙරළීයාමෙන් අනතුරක් සිදුවිය.
+
+41 persons were injured and rushed to the Badulla hospital and two university students have died after being admitted to the hospital.
+
+The deceased has been identified as the Southern Tama Campus of the Kotelawala Defense University residing in Nivitigala and Kurunegala.
+
+A group of students of the Southern Tabernacle in Sooriyawewa in the Sooriyawewa Defense University were involved in the bus.
+
+The accident had occurred when the bus was unable to control the bus, Badulla Police said.
+
+අනතුරින් තුවාල ලැබූවන් මේ වන විට බදුල්ල රෝහලේ ප්‍රතිකාර ලබයි.
+
+The bodies of the two college dead were placed at the Badulla hospital.
+
+◼️
+
+[Data](articles/79b97082.json)
+
+[Extended Data](ext_articles/79b97082.ext.json)
+
+---
+
+### අයි.එම්.එෆ්. කණ්ඩායමක් නුදුරේදීම ලංකාවට
+
+*2024-11-01 15:19:44* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--කණ්ඩායමක්-නුදුරේදීම-ලංකාවට/11-412795) · `si`
+
+ශ්‍රී ලංකාවේ විස්තීර්ණ ණය පහසුකම (EFF) යටතේ  සිදුකෙරෙන තුන්වන සමාලෝචනය පිළිබඳ සාකච්ඡා කිරීමට ජාත්‍යන්තර මූල්‍ය අරමුදලේ කණ්ඩායමක් නුදුරේදීම ශ්‍රී ලංකාවට පැමිණිමට නියමිතව තිබේ.
+
+වත්මන් රජය දිවුරුම් දීමෙන් පසු IMF නියෝජිතයින් ශ්‍රී ලංකාවට පැමිණ ජනාධිපතිවරයා සමග සාකච්ඡාවක් පැවැත්වූ අතරම  ශ්‍රී ලංකාවේ කණ්ඩායමක් වොෂින්ටන් වෙතද ගොස් සාකච්ඡා පැවැත්වීය.
+
+තුන්වන සමාලෝචනයෙන් පසුව සිව්වැනි වාරිකය ශ්‍රී ලංකාවට ලබාදීම පිළිබඳව තීරණය කෙරුනු ඇත.
+
+◼️
+
+[Data](articles/2e07e08d.json)
+
+---
 
 ### ‘Sarvajana Balaya’ prepared to fulfill role of true opposition - Dilith
 
@@ -200,6 +302,24 @@ Leader of the Universal Point, Gampaha District Candidate, Entrepreneurship Dili
 
 ---
 
+### කොතලාවල සරසවි සිසුන්ගේ බස් රථ අනතුරින් සිසුවියන් 2ක් මරුට 39ට තුවාල
+
+*2024-11-01 13:35:29* · [`adalk`](https://www.ada.lk/breaking_news/කොතලාවල-සරසවි-සිසුන්ගේ-බස්-රථ-අනතුරින්-සිසුවියන්-2ක්-මරුට-39ට-තුවාල/11-412794) · `si`
+
+බදුල්ල මහියංගණ ප්‍රධාන මාර්ගයේ දුන්හිඳ අබගහඔය 5 කනුව ප්‍රදේශයේදී අද (1)උදෑසන කොතලාවල ආරක්ශක විශ්වවිද්‍යාලයේ සිසුන් පිරිසක් ගමන් ගත් බස්රථයක් මාර්ගයේ න් ඉවතට පැන වේල්ලක ගැටි පෙරලීයාමෙන් සිසුවියන් දෙදෙනකු මියගොස් 39 ක් තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කළ බව බදුල්ල පොලිසිය පවසයි .
+
+තුවාල ලැබූවන් අතර විශ්වවිද්‍යාලයේ කතිකාචාර්යවරුන් තිදෙනකු , යුදහමුදා නිලධාරීන් දෙදෙනකු සහ සරසවි  සිසුවියන් 15ක් , සහ සරසවි සිසුන් 19 ක් සිට්න බවද පොලිසිය කීය .
+
+තුවාලකරුවන් දැනට බදුල්ල ශික්ෂණ රෝහලේ  දැඩි සත්කාර ඒකකයේ , වාට්ටු අංක 9, 10, 15 වාට්ටු වල ප්‍රතිකාර ලබමින් පසුවෙන බවද ඔවුන්ගේ කිහිපදෙනක් ගේ තත්ත්වය බරපතළ බවද රෝහල් ආරංචි මාර්ග  සදහන් කළේය .
+
+කොතලාවල ආරක්ශක විශ්වවිද්‍යාලයේ අවසන් වසරේ  මෙම සිසුන් ඊයේ (31) බදුල්ල ට පැමිණ ඇල්ල ප්‍රදේශයේ ගොස් පසුව පස්සර පැල්ගහතැන්න ප්‍රදේශයේ නවාතැන් ගෙන අද (1)උදෑසන පුහුණු වැඩසටහනකට බදුල්ල හරහා රන්දෙණිගල බලා යමින් සිටියදී මෙම අනතුර සිදුව ඇතැයි පොලිසිය පැවසීය .
+
+...
+
+[Data](articles/988b1a20.json)
+
+---
+
 ### There is another owner without any other owner in Kandy
 
 *2024-11-01 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202801) · `si`
@@ -284,19 +404,25 @@ The Railway Department has said that 76 train derailment has been derailed so fa
 
 ---
 
-### கொழும்பு முகத்துவாரத்தில் ஐஸ் போதைப்பொருளுடன் இளைஞர்கள் இருவர் கைது
+### Two youth arrested for ice drugs at the Colombo estate
 
 *2024-11-01 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197635) · `ta`
 
-கொழும்பு, முகத்துவாரம் பொலிஸ் பிரிவுக்குட்பட்ட பொக்குவத்த பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் இரண்டு இளைஞர்கள் நேற்று வியாழக்கிழமை (31) கைது செய்யப்பட்டதாக முகத்துவாரம் பொலிஸார் தெரிவித்தனர்.
+Two youth arrested for ice drugs in Colombo estate. Police seized 21g of methamphetamine. Suspects aged 18 and 20 from Pokuwatta and Ragama areas.
 
-சந்தேக நபர்கள் இருவரும் முகத்துவாரம் மற்றும் ராகம ஆகிய பிரதேசங்களைச் சேர்ந்த 18 மற்றும் 20 வயதுடையவர்கள் ஆவர்.
+🟩
 
-கைது செய்யப்பட்ட  இளைஞர்களிடமிருந்து 11 கிராம் 25 மில்லிகிராம் மற்றும் 10 கிராம் 860 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
+Two youths were arrested yesterday (31) with ice drugs in Pokuwatta area belonging to the Colombo and Association police division.
+
+Both the suspects are 18 and 20 years old from the estate and Ragama areas.
+
+11 grams of 25 milligrams and 10 grams of 860 milligrams of Ice were seized by the police.
 
 ◼️
 
 [Data](articles/94fd8e9a.json)
+
+[Extended Data](ext_articles/94fd8e9a.ext.json)
 
 ---
 
@@ -318,23 +444,29 @@ The Director of the Western Province Animal Production and Health Department, K.
 
 ---
 
-### கல்கிஸ்ஸையில் ஹெரோயினுடன் ஒருவர் கைது !
+### One arrested with heroin in Kalkissa
 
 *2024-11-01 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197632) · `ta`
 
+Kalkissa police arrest heroin dealer near railway station. 13 grams of ice drug seized. Suspect from Ratmalana handed over for investigation.
+
+🟩
+
 கல்கிஸ்ஸை பொலிஸ் பிரிவுக்குட்பட்ட ,  இரத்மலானை புகையிரத நிலையத்திற்கு அருகில் , ஐஸ் போதைப்பொருளுடன் ஒருவர் நேற்று வியாழக்கிழமை (31) செய்யப்பட்டுள்ளார்.
 
-கல்கிஸ்ஸை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சோதனையின் போதே இவர் கைது செய்யப்பட்டுள்ளார்.
+He was arrested during a raid carried out on the basis of confidential information received by the Criminal Investigation Department officials.
 
-கைது செய்யப்பட்ட சந்தேக நபர் , கைது செய்யப்பட்ட சந்தேக நபர் 31 வயதான இரத்மலானை பிரதேசத்தை சேர்ந்தவர் ஆவார்.
+The suspect and the arrested suspect belongs to the 31 -year -old Ratmalana area.
 
 கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து , 13 கிராம் 100 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
 
-இதேவேளை , சந்தேக நபர் , மேலதிக விசாரணைகளுக்காக கல்கிஸ்ஸை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
+Meanwhile, the suspect has been handed over to Kalkiss for further investigations.
 
 ◼️
 
 [Data](articles/ef8b7bd1.json)
+
+[Extended Data](ext_articles/ef8b7bd1.ext.json)
 
 ---
 
@@ -2143,115 +2275,5 @@ There is no change in the price of 92 octane petrol, which was 311.00 rupees.
 [Data](articles/9ff2b18b.json)
 
 [Extended Data](ext_articles/9ff2b18b.ext.json)
-
----
-
-### The prices of fuels will be revised
-
-*2024-10-31 20:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197609) · `ta`
-
-Fuel prices revised: Lanka Super Diesel drops 19 rupees, Octane 95 petrol decreases 6 rupees, Octane 92 remains unchanged at 311 rupees. Kerosene price stable at 183 rupees. Changes effective midnight Thursday.
-
-🟩
-
-The Petroleum Corporation has announced that the fuel prices will be amended with effect from midnight on Thursday (31).
-
-Accordingly, the price of a liter of Lanka Super Diesel from 319 rupees has been reduced by Rs.
-
-Octane 95 petrol prices have dropped by 6 rupees and the new price is 371 rupees.
-
-Meanwhile, the price of a liter of 92 octane petrol is 311 rupees.
-
-Also, the price of a liter of kerosene, which was Rs.183, remains intact.
-
-◼️
-
-[Data](articles/3bca44e1.json)
-
-[Extended Data](ext_articles/3bca44e1.ext.json)
-
----
-
-### Sri Lanka’s CMG appoints Lalith Fernando as GFD
-
-*2024-10-31 20:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-cmg-appoints-lalith-fernando-as-gfd-185784/) · `en`
-
-Sri Lanka’s Capital Maharaja Group (CMG) has appointed Lalith Fernando as Group Finance Director (GFD), the said in a statement.
-
-“Bringing over three decades of finance and business operations experience across diverse sectors, both locally and internationally, Lalith’s appointment marks another step in CMG’s strategic growth as it approaches its centenary,” the CMG said.
-
-Fernando is a Fellow of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) and was a Past President of the Association of Accounting Technicians (AAT) Sri Lanka.
-
-His academic credentials include an MBA from the Postgraduate Institute of Management (PIM), University of Sri Jayewardenepura, and a Master’s in Financial Economics from the University of Colombo. (Colombo/October 31/2024)
-
-◼️
-
-[Data](articles/dd84fafd.json)
-
-[Extended Data](ext_articles/dd84fafd.ext.json)
-
----
-
-### Matharage Pathirana retains CSK to a big amount
-
-*2024-10-31 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202782) · `si`
-
-Matharage Pathirana retained by CSK for significant sum. Sri Lankan fast bowlers join Chennai Super Kings for Firear League. Team retained without auction. Player valued at Rs. 1.56 million.
-
-🟩
-
-Sri Lanka's fast bowler players are to play for the Chennai Super Kings team for the Firear League.
-
-It was due to the authorities of the group to retain the CSK team without presenting at the player auction.
-
-The Sri Lankan currency was equal to Rs. 1.56 million.
-
-◼️
-
-[Data](articles/8a9fa64f.json)
-
-[Extended Data](ext_articles/8a9fa64f.ext.json)
-
----
-
-### China becomes top foreign trainer for Sri Lanka’s public sector
-
-*2024-10-31 20:13:00* · [`economynextcom`](https://economynext.com/china-becomes-top-foreign-trainer-for-sri-lankas-public-sector-185781/) · `en`
-
-ECONOMYNEXT – China has given the maximum number of training opportunities for Sri Lanka’s public sector employees across key sectors,the island nation’s Finance Secretary Mahinda Siriwardana said.
-
-He said in his address at the first China Aid Training Alumni Reception held on Wednesday (30) showcasing the human resources cooperation between the two countries.
-
-“China is the government that offers maximum number of training opportunities to Sri Lanka,” Siriwardana said at the event organized by the Chinese Embassy in Sri Lanka.
-
-“We have noted that, since its initiation, China has provided more than 8,000 training opportunities in various fields such as health, education, industry, and construction for public sector officials in Sri Lanka. It is impressive that Sri Lanka now receives nearly 1,000 training programs each year from the Chinese government.
-
-”Since the end of a 26-year conflict in 2009, China has increased its aid to Sri Lanka in human development.
-
-...
-
-[Data](articles/f417363c.json)
-
-[Extended Data](ext_articles/f417363c.ext.json)
-
----
-
-### Lohan Ratwatte was arrested and brought to Nugegoda in response to the magistrate
-
-*2024-10-31 20:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197608) · `ta`
-
-Former State Minister Lohan Ratwatte arrested over car found at wife's home in Nugegoda. Brought before magistrate after detention in Kandy.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested on Thursday (31) in Kandy, has been taken to the Nugegoda response to the magistrate.
-
-Former State Minister Lohan Ratwatte has been arrested in connection with the discovery of a car -free car at his wife's house in Mirihana in Nugegoda.
-
-◼️
-
-[Data](articles/48539705.json)
-
-[Extended Data](ext_articles/48539705.ext.json)
 
 ---

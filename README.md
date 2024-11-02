@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 04:40:09**
+As of **2024-11-03 04:58:56**
 
 ## Newspaper Stats
 
-*Scraped **52,719** Articles*
+*Scraped **52,720** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
-colombotelegraphcom | 537
+colombotelegraphcom | 538
 bbccomsinhala | 540
 islandlk | 3,140
 economynextcom | 3,199
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,719 (100.0%) of 52,719 articles have been extended.
+52,720 (100.0%) of 52,720 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -81,6 +81,24 @@ The National Building Research Institute has announced that the first level warn
 ---
 
 ### 2024-11-02 (Saturday)
+
+### Prospect Of Trump Return Has Unnerved The Washington Swamp & Colluding Media: Part II
+
+*2024-11-02 22:59:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prospect-of-trump-return-has-unnerved-the-washington-swamp-colluding-media-part-ii/) · `en`
+
+My initial contribution on the above subject was on 8 February 2024 at the time President Joe Biden was expected to be the Democratic Party nominee for the presidency against former President Donald Trump the Republican Party nominee.
+
+A sequel to this subject has become necessary after Biden was compelled/pressurized to drop out of the race on 21 July 2024 after his disastrous performance at the debate with Trump on 27 June 2024 which led to Vice President Kamala Harris becoming the succeeding candidate under questionable circumstances. It is misleading to state it was a voluntary decision by Biden.
+
+It is clear from what follows below that it is a SHAM for the Democratic Party now led by Kamala Harris to pretend that the Party is the standard-bearer of DEMOCRACY in the United States. Its leadership which is part of this charade include holier-than-thou persons such as  Obama, Clintons, Pelosi and Chuck Schumer:
+
+...
+
+[Data](articles/18eb9c1a.json)
+
+[Extended Data](ext_articles/18eb9c1a.ext.json)
+
+---
 
 ### Red light from Station Masters
 
@@ -2415,25 +2433,5 @@ To commemorate his tremendous service to the Buddha Sasana and the nation, a thr
 [Data](articles/705628e6.json)
 
 [Extended Data](ext_articles/705628e6.ext.json)
-
----
-
-### Rajitha calls for legal changes to enable Ranil’s return
-
-*2024-11-02 04:33:11* · [`dailyftlk`](https://www.ft.lk/news/Rajitha-calls-for-legal-changes-to-enable-Ranil-s-return/56-768742) · `en`
-
-Says Ranil Wickremesinghe could potentially make return to active politics if SL faces another economic crisis
-
-Suggests Wickremesinghe could return as consultant if he chooses not to take Parliamentary route
-
-Claims his global recognition for crisis management could make him an essential figure in future governance
-
-Former Member of Parliament and New Democratic Front (NDF) Kalutara District candidate Dr. Rajitha Senaratne has suggested that former President Ranil Wickremesinghe could potentially make a return to active politics if the country faces another economic crisis. Speaking at a press conference, Senaratne highlighted Wickremesinghe’s recognised capabilities in handling economic turmoil and hinted at potential amendments to existing laws to facilitate his re-entry.
-
-...
-
-[Data](articles/c15fc64e.json)
-
-[Extended Data](ext_articles/c15fc64e.ext.json)
 
 ---

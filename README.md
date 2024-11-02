@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 23:59:43**
+As of **2024-11-03 00:12:56**
 
 ## Newspaper Stats
 
-*Scraped **52,713** Articles*
+*Scraped **52,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 415
 colombotelegraphcom | 537
 bbccomsinhala | 540
 islandlk | 3,140
-economynextcom | 3,198
+economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,907
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,713 (100.0%) of 52,713 articles have been extended.
+52,714 (100.0%) of 52,714 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -111,6 +111,24 @@ Many consumers say that they are concerned only, the price of the product and it
 [Data](articles/c796fe4d.json)
 
 [Extended Data](ext_articles/c796fe4d.ext.json)
+
+---
+
+### Poland’s Enter Air starts Sri Lanka charter flights
+
+*2024-11-02 21:28:00* · [`economynextcom`](https://economynext.com/polands-enter-air-starts-sri-lanka-charter-flights-185890/) · `en`
+
+ECONOMYNEXT – Poland’s Enter Air has started charter flights to Sri Lanka this week, the state airport agency said.
+
+Airport and Aviation Services (Sri Lanka) Ltd said the Enter Air flight was welcomed with a celebratory water cannon salute.
+
+Passengers were also treated to a Kandyan dance performance. (Colombo/No02/20240
+
+◼️
+
+[Data](articles/1da856f7.json)
+
+[Extended Data](ext_articles/1da856f7.ext.json)
 
 ---
 
@@ -2369,19 +2387,5 @@ The decks are cleared for showdown between the old guard representing a rump in 
 [Data](articles/a2e815e7.json)
 
 [Extended Data](ext_articles/a2e815e7.ext.json)
-
----
-
-### What a Trump or Harris presidency means to the world
-
-*2024-11-02 04:06:12* · [`dailyftlk`](https://www.ft.lk/columns/What-a-Trump-or-Harris-presidency-means-to-the-world/4-768721) · `en`
-
-The 5 November election, for all its drama, jabs, and entertainment, many feel very frustrated or uninspired. Neither Donald Trump nor Kamala Harris has inspired serious confidence, and the choices may seem lacklustre to voters. Yet, make no mistake: the 2024 election is significant. Whether or not it ushers in an era of “tub-thumping ideology,” it has the potential to reshape the global landscape, given what is happening outside the USA. A Trump or Harris presidency would present contrasting impacts and consequences for the rest of the world, especially given their divergent views on international relations, climate policy, trade, investment, and alliances. Here are five key areas with the potential for global impact:
-
-...
-
-[Data](articles/533d85ce.json)
-
-[Extended Data](ext_articles/533d85ce.ext.json)
 
 ---

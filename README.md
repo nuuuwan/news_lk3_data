@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 19:39:55**
+As of **2024-11-02 19:58:02**
 
 ## Newspaper Stats
 
-*Scraped **52,701** Articles*
+*Scraped **52,702** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
-colombotelegraphcom | 536
+colombotelegraphcom | 537
 bbccomsinhala | 540
 islandlk | 3,140
 economynextcom | 3,198
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,701 (100.0%) of 52,701 articles have been extended.
+52,701 (100.0%) of 52,702 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -959,6 +959,18 @@ The date on the distribution of official ballot papers regarding the general ele
 [Data](articles/7839b4fa.json)
 
 [Extended Data](ext_articles/7839b4fa.ext.json)
+
+---
+
+### The Imam Report Has Debunked The Sole Direct Alleged Evidence For The Easter Bombings Conspiracy Theory
+
+*2024-11-02 13:35:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-imam-report-has-debunked-the-sole-direct-alleged-evidence-for-the-easter-bombings-conspiracy-theory/) · `en`
+
+In the wake of the Easter Sunday suicide bomb attacks launched against a number of targets in the country by a local Islamic Jihadi group (National Tawheed Jamaat [NTJ]) led by Zahran Hashim on 21 April 2019, several conspiracy theories were floated as to who might be the invisible hand or “mastermind” behind the attacks on the presumption that they were not alone in carrying out these dastardly terror attacks. Several suspects were named, including India (RAW), Israel (Mossad), the US (CIA—the usual suspect) and the Sri Lanka People’s Front (SLPP). Which theory one originated or chose to subscribe to depended on one’s particular prejudices.
+
+...
+
+[Data](articles/3cd64cc3.json)
 
 ---
 
@@ -2297,33 +2309,5 @@ During this campaign year, there are various discourses by political parties and
 [Data](articles/fa38c7e6.json)
 
 [Extended Data](ext_articles/fa38c7e6.ext.json)
-
----
-
-### 2024-11-01 (Friday)
-
-### The demand of the Railway Station Chancellor Association is a problem for the provision of a stable solution during the election - Ministry of Transport
-
-*2024-11-01 23:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197687) · `ta`
-
-Railway Station Chancellor Association demands cause election instability. Ministry of Transport addresses issues through union talks. Special report on workplace conditions. Public concerns over passenger inconvenience and railway authority promotions. Election timing complicates resolution efforts.
-
-🟩
-
-Providing a fixed solution for the existing and promotion problems in the Railway Chancellor's Service. The Ministry of Transport has stated that many problems have been resolved in talks with the railway station unions.
-
-The Ministry of Transport has issued a special report on the workplace of the Railway Station Principal Association.
-
-The inconveniences faced by the public passengers are concerned about the issues in the process of promoting the railway authorities in the process of providing a five -year promotion.
-
-It is inappropriate to engage in such a task force as the election is held.
-
-It is a problem to provide a stable solution during the election period for the existing and promotion issues in the railway station.
-
-◼️
-
-[Data](articles/59a8a32d.json)
-
-[Extended Data](ext_articles/59a8a32d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 22:13:18**
+As of **2024-11-02 22:39:41**
 
 ## Newspaper Stats
 
-*Scraped **52,710** Articles*
+*Scraped **52,712** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 3,198
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,907
-adaderanalk | 6,263
+adaderanalk | 6,264
 tamilmirrorlk | 7,314
 virakesarilk | 8,508
-adaderanasinhalalk | 9,188
+adaderanasinhalalk | 9,189
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,710 (100.0%) of 52,710 articles have been extended.
+52,712 (100.0%) of 52,712 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Six including foreigner arrested over Arugam Bay security threat
+
+*2024-11-02 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103110/six-including-foreigner-arrested-over-arugam-bay-security-threat) · `en`
+
+Sri Lanka’s Public Security Minister Vijitha Herath says that six individuals who allegedly acted in a manner that posed a threat to national security and the safety of tourists have been arrested, and that investigations are being carried out.
+
+A foreign national is also among the arrestees, the minister revealed.
+
+He stated that the suspects have been arrested in connection with the intelligence information received indicating a potential attack in the Arugam Bay area, as well as incidents involving the photographing of major financial sites in Colombo.
+
+Minister Herath noted that they immediately acted upon receiving information about a potential danger to foreign tourists to safeguard their safety and ensure national security.
+
+“The opposition was waiting to take advantage of this issue. That is the truth,” he charged.
+
+...
+
+[Data](articles/d096d679.json)
+
+[Extended Data](ext_articles/d096d679.ext.json)
+
+---
+
+### Are you aware of quality diet boxes and water bottles?
+
+*2024-11-02 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202848) · `si`
+
+Quality diet boxes and water bottles pose health risks. CHOGM reports 75% of products unsafe. World Cancer Union warns plastic equipment threatens children's lives. Health inspectors criticize non-standard market equipment. Consumers prioritize price over safety concerns. Authorities advise checking for "5" symbol or female icon on products. Experts warn against harmful chemicals in plastics, potentially causing cancer. Use of low-quality plastic containers is illegal under Food Act No. 26 of 1980. Future specialized testing planned.
+
+🟩
+
+The Public Health Inspectors Association (CHOGM) says that 75% of the food boxes and water bottles used.
+
+The World Cancer Union also revealed that the lives of children is being threatened using quality plastic equipment.
+
+In the meantime, the children were tabled and the bodies of children and watering of their children in the face of various information in the country today.
+
+However, public health inspectors have pointed out that such equipment is not a standard of market today.
+
+Commenting in this regard, President of the Public Health Inspectors Association Upul Rohana said that these equipment would be so dangerous.
+
+"We can see that the children produced in the case of 75% of the food boxes and 75% of the water bottles inappropriate. Imported from countries such as China. These children will be very dangerous. "
+
+However, we asked if the customer traveling to the market is a realizing.
+
+Many consumers say that they are concerned only, the price of the product and its beautiful.
+
+...
+
+[Data](articles/c796fe4d.json)
+
+[Extended Data](ext_articles/c796fe4d.ext.json)
+
+---
 
 ### Spain mounts biggest peacetime disaster recovery operation as death toll reaches 211
 
@@ -2329,53 +2383,5 @@ The Defense Ministry further stated in its announcement that arrangements have b
 [Data](articles/16c68939.json)
 
 [Extended Data](ext_articles/16c68939.ext.json)
-
----
-
-### TNA. Sumanthiran, who joins hands with power
-
-*2024-11-02 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197692) · `ta`
-
-Sri Lanka Tamil National Party TNA joins national government after election. President promises Foreign Ministry post and federal constitution. UNP leader opposes, citing concerns about military accountability and human rights resolutions.
-
-🟩
-
-The Sri Lanka Tamil National Party (TNA) will join the national people after the general election. எம். A.. The President has guaranteed the Tamil party to grant the post of Foreign Ministry and to create a new constitution in the federal system.. Is it possible to accommodate these activities against the country?The leader of the Pivithuru Hela Urumaya (UNP) and former MP Udaya Kammanpila said.
-
-He was speaking at a meeting with the organizers of the Sarvana Power in Colombo on Friday (01).
-
-After the general election. It is observed that the Western countries have urged President Anurakumara Dissanayake to join the Tamil parties.
-
-Their political right is to unite with the government of Sri Lanka. We don't oppose it. ஆனால் ஏற்றுக்கொள்ளப்பட்டுள்ள இணக்கப்பாட்டுக்கு விதிக்கப்பட்ட நிபந்தனைகள் என்னவென்பதை ஆராய வேண்டும்.
-
-...
-
-[Data](articles/ec4f007e.json)
-
-[Extended Data](ext_articles/ec4f007e.ext.json)
-
----
-
-### Digitalization of Power and Power and Power Department;We look forward to the support of India - the President
-
-*2024-11-02 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197691) · `ta`
-
-Sri Lanka President Anura Kumara Dissanayake met Indian High Commissioner Santos Jaw. Discussed development projects, bilateral relations, and support for Power Department and digitalization program. Emphasized protecting Sri Lankan fishermen's interests.
-
-🟩
-
-President Anura Kumara Dissanayake has told the Indian High Commissioner to expect India's support for the success of the Power and Power and Power Department in Sri Lanka and the success of the digitalization program.
-
-The meeting between President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santos Jaw was held at the Presidential Secretariat on Friday (01).
-
-During the meeting on the development projects implemented in Sri Lanka under Indian aid, the focus was on the implementation and challenges of the projects and the implementation of those projects.
-
-It was discussed on the importance of further strengthening the long -term bilateral relations between India and Sri Lanka and the need for a long -term solution through the cooperation program by understanding the needs of the two foreign fishermen communities.
-
-...
-
-[Data](articles/7a1d0f92.json)
-
-[Extended Data](ext_articles/7a1d0f92.ext.json)
 
 ---

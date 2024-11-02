@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 13:24:11**
+As of **2024-11-02 13:59:49**
 
 ## Newspaper Stats
 
-*Scraped **52,659** Articles*
+*Scraped **52,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,902
-adaderanalk | 6,255
+adalk | 4,903
+adaderanalk | 6,256
 tamilmirrorlk | 7,307
 virakesarilk | 8,498
-adaderanasinhalalk | 9,169
+adaderanasinhalalk | 9,170
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,659 (100.0%) of 52,659 articles have been extended.
+52,661 (100.0%) of 52,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Badulla bus accident: injured KDU students out of danger
+
+*2024-11-02 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103103/badulla-bus-accident-injured-kdu-students-out-of-danger) · `en`
+
+Dr. Palitha Rajapaksha of the Emergency Treatment Unit of Badulla Teaching Hospital stated that those who were seriously injured in the bus accident on Dunhinda Road in Badulla last morning (01) and admitted to the hospital, are now out of danger.
+
+Providing an update on their condition, he reported that the conditions of all hospitalized patients are stable. He added that some of the ten patients currently in the Intensive Care Unit (ICU) may be transferred to general wards today.
+
+“Forty people injured in the bus accident were hospitalized, with ten admitted to the ICU. Most of those patients are now recovering, and the threat to their lives has passed. We have great hope for the recovery of these students.”
+
+“A few of the ten persons being treated in the ICU may be transferred to general wards today, while others may be discharged after consultation with the judicial medical officer,” he said.
+
+...
+
+[Data](articles/7266b91c.json)
+
+---
+
+### Whose vehicle has the number plates found in the Kottawa?
+
+*2024-11-02 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202828) · `si`
+
+Kottawa Police seize car without plates, linked to former Minister Johnston Fernando. Vehicle identified by license plate KM-5421 undergoing investigation.
+
+🟩
+
+The Kottawa has been discovered in the Kottawa, without number plates.
+
+According to information that the car belonging to former Minister Johnston Fernando is in a car repair factory, police have found the car in checking the location.
+
+According to the interrogation from the owner, he said that the driver of Johnston Fernando was brought to renovation due to an error in the vehicle.
+
+Bringing the vehicle, the owner has told the police that the site has been recorded in a paper column as KM-5421.
+
+Accordingly, the Kottawa Police have taken the car into their seized by the Kottawa Police and is conducting an investigation according to the agent number and chassis number.
+
+◼️
+
+[Data](articles/8b9ec6a0.json)
+
+[Extended Data](ext_articles/8b9ec6a0.ext.json)
+
+---
 
 ### Two girls killed in bus accident
 
@@ -337,6 +381,26 @@ He said 128,585 in Vavuniya, 86,889 in Mullaitivu and 90,607 in Mannar were elig
 [Data](articles/89d5ae41.json)
 
 [Extended Data](ext_articles/89d5ae41.ext.json)
+
+---
+
+### Sri Lanka participated in the Hong Kong International Sixes Competition
+
+*2024-11-02 11:04:11* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-තරගාවලියේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තරගයක්-අද/9-412803) · `si`
+
+Sri Lanka competes in Hong Kong International Sixes Cricket. Semi-final against Nepal today at 1:20 PM.
+
+🟩
+
+The third semi-final of the Hong Kong International Sixers cricket series will be held today (02).
+
+The Sri Lankan team and the Nepal team will be competitive and the match will be held at 1.20 pm.
+
+◼️
+
+[Data](articles/2ae5f059.json)
+
+[Extended Data](ext_articles/2ae5f059.ext.json)
 
 ---
 
@@ -2271,69 +2335,5 @@ The Conservative Party, Pierre Bolivar, has said that the first -time Commonweal
 [Data](articles/a390067e.json)
 
 [Extended Data](ext_articles/a390067e.ext.json)
-
----
-
-### Explosion in Pakistan
-
-*2024-11-01 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202809) · `si`
-
-Explosion in Pakistan: 7 schoolchildren killed. Police van targeted while carrying polio vaccines. Motorbike bomb detonated near women's school.
-
-🟩
-
-Seven and seven school children have been killed in a explosion in the southwestern Pakistan.
-
-The authorities said that a police van was targeting a police van to carry a group of polio vaccine.
-
-When the police car was on the road, a motorbike bomb was exploded near a women's school.
-
-◼️
-
-[Data](articles/3b092256.json)
-
-[Extended Data](ext_articles/3b092256.ext.json)
-
----
-
-### Dr. Hans Wijayasuriya appointed Chief Advisor to President on Digital Economy
-
-*2024-11-01 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103092/dr-hans-wijayasuriya-appointed-chief-advisor-to-president-on-digital-economy) · `en`
-
-Former Axiata Group CEO Dr. Hans Wijayasuriya has been appointed as the Chief Advisor to the President on Digital Economy.
-
-He received his letter of appointment from President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today (01).
-
-The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy and that the government aims to strengthen digital infrastructure and empower citizens through an inclusive, forward-looking digital economy.
-
-Axiata Group Berhad on Friday announced that Dr Wijayasuriya will relinquish role as the CEO of Telecommunications Business and Group Executive Director as he has been invited by the Government of Sri Lanka to lead the country’s digital economy agenda in the capacity of Chief Advisor to the President on Digital Economy and other related leadership roles.
-
-...
-
-[Data](articles/6f69855d.json)
-
-[Extended Data](ext_articles/6f69855d.ext.json)
-
----
-
-### Dr. Hans Wijayasuriya apponted Chief Advisor to President on Digital Economy
-
-*2024-11-01 16:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103092/dr-hans-wijayasuriya-apponted-chief-advisor-to-president-on-digital-economy) · `en`
-
-Former Axiata Group CEO Dr. Hans Wijayasuriya has been appointed as the Chief Advisor to the President on Digital Economy.
-
-He received his letter of appointment from President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today (01).
-
-The President’s Media Division (PMD) stated that the appointment marks a significant first step in Sri Lanka’s transition towards a digital economy.
-
-Axiata Group Berhad on Friday announced that Dr Wijayasuriya will relinquish role as the CEO of Telecommunications Business and Group Executive Director as he has been invited by the Government of Sri Lanka to lead the country’s digital economy agenda in the capacity of Chief Advisor to the President on Digital Economy and other related leadership roles.
-
-Dr Wijayasuriya has duly accepted the invitation from the GoSL and has communicated his decision to step down from his role at Axiata Group with effect from 15 January 2025, the announcement said.
-
-...
-
-[Data](articles/f1a48834.json)
-
-[Extended Data](ext_articles/f1a48834.ext.json)
 
 ---

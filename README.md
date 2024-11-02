@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 15:58:14**
+As of **2024-11-02 16:12:07**
 
 ## Newspaper Stats
 
-*Scraped **52,671** Articles*
+*Scraped **52,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,904
-adaderanalk | 6,257
-tamilmirrorlk | 7,309
-virakesarilk | 8,498
-adaderanasinhalalk | 9,175
+adalk | 4,905
+adaderanalk | 6,258
+tamilmirrorlk | 7,310
+virakesarilk | 8,501
+adaderanasinhalalk | 9,176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,671 (100.0%) of 52,671 articles have been extended.
+52,676 (100.0%) of 52,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### ඊශ්‍රායලය නව මිසයිල ආරක්ෂක පද්ධතිය සූදානම් කරයි
+
+*2024-11-02 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202835) · `si`
+
+ඊශ්‍රායලය උතුරු ගාසා තීරය ඉලක්ක කරමින් එල්ලකළ ප්‍රහාර ද්විත්වයකින් පුද්ගලයින් 84 දෙනෙකු මියගොස් තිබේ.
+
+ඒ අතරින් පනස් දෙනෙකු දරුවන් වන අතර විදෙස් මාධ්‍ය මෙය හඳුන්වන්නේ මිලේච්ඡ සමූහ ඝාතනයක් ලෙසය.
+
+ඊශ්‍රායල ප්‍රහාර හේතුවෙන් මේ වනවිට ගාසා තීරයේ පලස්තීන ජාතිකයින් 43,000 ඉක්මවූ පිරිසක් මියගොස් ඇති අතර ඉන් 16,000 ඉක්මවූ පිරිසක් දරුවන් ය.
+
+මේ අතර ඉරානය, නුදුරු දිනකදී ඊශ්‍රායලයට ප්‍රතිප්‍රහාර එල්ල කිරීමට සැලසුම් කරමින් සිටින බව ඊශ්‍රායල බුද්ධි අංශයට තොරතුරු ලැබී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+ඩ්‍රෝන සහ බැලිස්ටික් මිසයිල යොදා ගනිමින් ඉරාක භූමියේ සිට ඊශ්‍රායලය ඉලක්ක කිරීම ඉරානයේ සැලසුම් වී ඇතැයි ස﻿ඳහන් ය.
+
+ඉරානය, ඉරාකයේ සිට ප්‍රහාර එල්ල කිරීමට සැලසුම් කරන්නේ, ඊශ්‍රායලය ඉරානයේ හමුදා මර්මස්ථාන වෙත ප්‍රහාර එල්ලකිරීම වැළැක්වීමේ අරමුණින් විය හැකි බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+එමෙන්ම මැදපෙරදිග කලාපයේ අමතර හමුදා සේනාංක, යුද නෞකා සහ ගුවන්යානා යෙදවීමට අමෙරිකාව පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+...
+
+[Data](articles/9643d4a1.json)
+
+---
+
+### PM - German Ambassador Meeting
+
+*2024-11-02 15:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஜேர்மன்-தூதுவர்-சந்திப்பு/175-346447) · `ta`
+
+German Ambassador Felix Newman met PM Harini Amarasuriya. Discussed education sector development and vocational training upgrades. Officials present included Pradeep Saputhandri, Olab Malwo, Tarini Taluwatta, Ssadura Perera.
+
+🟩
+
+A meeting between Prime Minister Harini Amarasuriya and German Ambassador to Sri Lanka Felix Newman took place yesterday afternoon at the Prime Minister's Office.
+
+This has been paid on issues such as development of the country's education sector and upgrading vocational training.
+
+Officials including Prime Minister Pradeep Saputhandri, Chief of the German Ambassador Olab Malwo, Advisor to Political Affairs, Tarini Taluwatta, European and North America Director Ssadura Perera were present at the meeting.
+
+◼️
+
+[Data](articles/da0c3ebe.json)
+
+[Extended Data](ext_articles/da0c3ebe.ext.json)
+
+---
+
+### Doctors end token strike at Karapitiya Teaching Hospital
+
+*2024-11-02 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103105/doctors-end-token-strike-at-karapitiya-teaching-hospital) · `en`
+
+Doctors at the Karapitiya Teaching Hospital in Galle have called off their 24-hour token strike which had commenced at 05.00 p.m. yesterday (01).
+
+They had launched a strike stating that the specialist doctor in charge of the hospital’s cancer ward had threatened several other doctors of the hospital.
+
+However, after a discussion with the Director of Karapitiya Hospital today (02), the striking doctors have decided to temporarily call off the strike.
+
+But the doctors who were on strike say that if proper measures are not taken regarding the doctor in question, they will commence another strike next Monday.
+
+All the specialist doctors of the Karapitiya Hospital and all the doctors of the Government Medical Officers’ Association (GMOA) had joined the strike, as a result of which no clinical treatment was carried out.
+
+Due to this, the patients who arrived at the hospital for treatment had faced various difficulties.
+
+◼️
+
+[Data](articles/5122c90a.json)
+
+[Extended Data](ext_articles/5122c90a.ext.json)
+
+---
 
 ### හොංකොං සික්සස් සටනේ ශ්‍රී ලංකාව අපරාජිතව අවසන් පූර්ව වටයට
 
@@ -204,6 +274,52 @@ All specialists at the Karapitiya Hospital and all the doctors of the Government
 
 ---
 
+### Dhanush starrer Kubera's update
+
+*2024-11-02 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197719) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Dhanush, Nagarjuna, Rashmika star in "Kubera" under Shekhar Kammula. Directed by Niket Pommi, music by Devi Sri Prasad. Produced by Sri Venkateswara Cinemas and Amekos Creations. Shooting ongoing; Diwali release planned.
+
+🟩
+
+Dhanush - Nagarjuna has been officially announced on the date of the release of 'Kubera' starring the heroes of the story.
+
+Dhanush, Nagarjuna and Rashmika Mantana have played the lead roles in the film 'Kubera' directed by National Award winning director Shekhar Kammula.
+
+The film, which is being recorded by Niket Pommi, is composed by Devi Sri Prasad, Rock Star.
+
+The film is co -produced by Sri Venkateswara Cinemas LB and Amekos Creations, producers Sunil Narang and Puskur Ram Mohan Rao.
+
+The shooting of the film is currently underway. In this backdrop, the film crew has announced the Diwali congratulations on the 15th of this month with a special photo.
+
+Dhanush, Nagarjuna, Rashmika and South Indian star bands have been united.
+
+◼️
+
+[Data](articles/e1488f89.json)
+
+[Extended Data](ext_articles/e1488f89.ext.json)
+
+---
+
+### මහ මැතිවරණය සම්බන්ධයෙන් වන පැමිණිලි ඉහළට
+
+*2024-11-02 14:09:43* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණය-සම්බන්ධයෙන්-වන-පැමිණිලි-ඉහළට/11-412807) · `si`
+
+මහ මැතිවරණය සම්බන්ධයෙන් ලැබුණු පැමිණිලි සංඛ්‍යව 1342ක් දක්වා ඉහළ ගොස් ඇති බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+ගත වූ පැය 24ක කාලය තුළ පැමිණිලි 83ක් ලැබී ඇති බවද එම නිවේදනයේ සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/1db86f17.json)
+
+---
+
 ### Lohan in prison in the hospital
 
 *2024-11-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202829) · `si`
@@ -247,6 +363,26 @@ Providing an update on their condition, he reported that the conditions of all h
 [Data](articles/7266b91c.json)
 
 [Extended Data](ext_articles/7266b91c.ext.json)
+
+---
+
+### Bus accident in Ruwanwella!
+
+*2024-11-02 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197712) · `ta`
+
+Ruwanwella bus crash: Vehicle lost control, hit house. Police report: House damaged, passengers safe.
+
+🟩
+
+The accident occurred when a bus heading towards Avissawelle lost control and crashed into a nearby house.
+
+Police said the house was severely damaged and there was no danger to the passengers.
+
+◼️
+
+[Data](articles/ac6d56e6.json)
+
+[Extended Data](ext_articles/ac6d56e6.ext.json)
 
 ---
 
@@ -297,6 +433,32 @@ Accordingly, the Kottawa Police have taken the car into their seized by the Kott
 [Data](articles/8b9ec6a0.json)
 
 [Extended Data](ext_articles/8b9ec6a0.ext.json)
+
+---
+
+### One arrested with heroin in Kalkissa
+
+*2024-11-02 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/197709) · `ta`
+
+Heroin arrest in Kalkissa: 36-year-old man caught with 60g drugs during police raid. Suspect from Moratuwa handed over for further investigation.
+
+🟩
+
+A suspect with heroin was arrested by police on Friday (01) in the Telawala area belonging to the Kalkissa police division.
+
+He was arrested during a raid carried out on the basis of information received by a team of police officers to Kalkiss.
+
+The suspect was 36 years old from Moratuwa.
+
+Police have seized 60 grams of heroin from the arrested suspect.
+
+Meanwhile, the suspect has been handed over to Kalkiss for further investigations.
+
+◼️
+
+[Data](articles/806da7ca.json)
+
+[Extended Data](ext_articles/806da7ca.ext.json)
 
 ---
 
@@ -2145,181 +2307,5 @@ Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan eli
 [Data](articles/6ed48f0e.json)
 
 [Extended Data](ext_articles/6ed48f0e.ext.json)
-
----
-
-### Issuing vehicle number plates temporarily halted
-
-*2024-11-01 18:10:21* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-අංක-තහඩු-නිකුත්-කිරීම-තාවකාලිකව-නවතී/11-412798) · `si`
-
-Vehicle number plate issuance halted due to new registration restrictions. Department of Motor Traffic temporarily suspends plate distribution to avoid inconvenience to vehicle owners during license transfer process.
-
-🟩
-
-The Department of Motor Traffic said that the release number plates were temporarily in new registration and autopsy of vehicles due to the restricting of vehicle number plates.
-
-ඒ අනුව මෙලෙස අංක තහඩු නිකුත් නොකිරීම පිළිබඳව ලිපියක් වාහන නව ලියාපදිංචියේදී හා හිමිකම් පැවරීමේදී වාහන  හිමිකරුවන් වෙත නිකුත් කරනු ලබන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
-
-එම ලිපිය අනුව අංක තහඩු නිකුත් කිරීම යාවත්කාලීන කර නැවත දැනුම් දෙන තුරු එම වාහන හිමියන් අපහසුතාවයට පත් නොවන සේ කටයුතු කරන ලෙස ඉල්ලා මෝටර් රථ ප්‍රවාහන කොමසාරිස් ජනරාල්  නිශාන්ත අනුරුද්ධ වීරසිංහ මහතා විසින්  පොලිස්පතිවරයා වෙත ලිපියකින් දැනුම් දී තිබේ.
-
-◼️
-
-[Data](articles/850a8edc.json)
-
-[Extended Data](ext_articles/850a8edc.ext.json)
-
----
-
-### The injured fails to bring a casualt
-
-*2024-11-01 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202812) · `si`
-
-Attempt to transport injured person from Badulla to Colombo fails. Victim treated at hospital, then returned due to bad weather. Event cancelled.
-
-🟩
-
-An attempt to bring a bus to the Badulla-Mahiyanganaya main road has failed to bring a bus to Colombo today.
-
-The victim was receiving treatment at the Badulla Teaching Hospital to be taken to Colombo by a SLAF helicopter.
-
-Although the casual was brought to the football field in Badulla, the event had to be stopped due to bad weather.
-
-As a result, the casual was taken back to Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/c122920c.json)
-
-[Extended Data](ext_articles/c122920c.ext.json)
-
----
-
-### Election Complaints
-
-*2024-11-01 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202811) · `si`
-
-Elections Commission receives 1259 complaints, including 123 in past 24 hours. 13 violence complaints reported. 1018 resolved.
-
-🟩
-
-The Elections Commission has reached 1259 complaints regarding the next parliamentary election.
-
-The Elections Commission said that 123 complaints have been received within the last 24 hours.
-
-The total number of complaints received has also received 13 complaints of violence.
-
-However, 1018 out of the total number of complaints have been resolved, however, said the Elections Commission.
-
-◼️
-
-[Data](articles/834a07a0.json)
-
-[Extended Data](ext_articles/834a07a0.ext.json)
-
----
-
-### Sri Lanka stocks end stronger with high turnover; financials lead
-
-*2024-11-01 18:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-end-stronger-with-high-turnover-financials-lead-185866/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed stronger on Friday led by financials, official data showed.
-
-The broader ASPI closed 0.73 percent or 93.07 points stronger at 12,863.65; while the more liquid S&P SL20 Index closed 0.39 percent or 8.59 points firmer at 3,879.33.
-
-Turnover was 4.9 billion rupees led by domestic investors, the data showed.
-
-“The market is still on the rise due to optimism over the new government,” a stockbroker said.
-
-“Turnover also has been high due to the same reason though most market participants are waiting for some significant foreign inflows.”
-
-Citizens Development Business Finance Plc saw a crossing worth 2.23 billion rupees and accounted for 45.3 percent of the day’s turnover. The shares in Citizens Development Business Finance Plc closed 1.63 percent up at 233.50 rupees.
-
-Stockbrokers said most of the listed banks gained on Friday as confidence over proposed debt restructuring not having an adverse impact on them.
-
-...
-
-[Data](articles/a8db5da5.json)
-
-[Extended Data](ext_articles/a8db5da5.ext.json)
-
----
-
-### Appointment of new Chief Advisor
-
-*2024-11-01 17:25:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பிரதம-ஆலோசகர்-நியமனம்/175-346413) · `ta`
-
-Dr. Hans Vijayasuriya appointed Chief Advisor on Digital Economics. Renowned telecom expert, introduced 3G, 4G, 5G to Sri Lanka. Pioneering figure in South Asian digital economy.
-
-🟩
-
-Dr. Hans Vijayasuriya has been appointed as the Chief Adviser to the President on Digital Economics.
-
-Dr. Hans Vijayasuriya, 56, is the greatest record in Sri Lanka's telecommunications industry.
-
-In addition, the service of Vijayasuriya is immense to introduce Sri Lanka to Sri Lanka for the first time in South Asia to introduce 3G, 4G and 5G technologies to Sri Lanka.
-
-◼️
-
-[Data](articles/4b31dae2.json)
-
-[Extended Data](ext_articles/4b31dae2.ext.json)
-
----
-
-### Amaran - Movie Review
-
-*2024-11-01 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197670) · `ta`
-
-"Amaran" movie review: Sivakarthikeyan, Sai Pallavi star in Rajkumar Periyasamy's biopic about Major Mukund Varadarajan. Director balances military scenes with personal life story. Strong performances from leads. Background music praised.
-
-🟩
-
-Actors: Sivakarthikeyan, Sai Pallavi, Rahul Bose, Bhuvan Arora, Geeta Kailasam and many others.
-
-The film 'Amaran', directed by director Rajkumar Periyasamy, starring Kamal Haasan, starring Kamal Haasan, has caused great anticipation from the fans.
-
-The film, which was prepared to embrace Major Mukund Varadarajan, who died in the Indian Army, was attracted to all the fans?Or not?We will continue to see.
-
-இந்திய ராணுவத்தில் பணியாற்றிய தமிழகத்தை சேர்ந்த முகுந்த் வரதராஜன் 2014 ஆம் ஆண்டு ஏப்ரல் மாதம் 25 ஆம் திகதி அன்று காஷ்மீர் மாநிலத்திலுள்ள ஷோபியான் மாவட்டத்தில் நடைபெற்ற தீவிரவாதிகளுக்கு எதிரான தாக்குதலின் போது வீர மரணம் அடைந்தார்.
-
-This 'Amaran' is his heroic life and his heroic life through his wife, Hindu, his wife, through his wife, through his wife, through the screen language and visual language.
-
-...
-
-[Data](articles/bff1b3be.json)
-
-[Extended Data](ext_articles/bff1b3be.ext.json)
-
----
-
-### Brother - Movie Review
-
-*2024-11-01 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197672) · `ta`
-
-"Brother" movie review: Jayam Ravi stars alongside Priyanka Mohan in this family drama. Directed by Rajesh, it explores themes of family relationships and legal issues. The film received mixed reviews, with praise for performances but criticism for lack of depth. Harris Jayaraj's background music was highlighted as a positive aspect. Overall, it failed to meet fan expectations despite its ambitious premise.
-
-🟩
-
-Actors: Jaime Ravi, Priyanka Mohan, Bhumika Chawla, Ashyud Kumar, Geeta Kailasam, Rao Ramesh, Saranya Ponvannan, Natti Natraj, VTV Ganesh and many others.
-
-'Brother', which has been released as a Diwali release starring Jayam Ravi, has met all the expectations of all fans?Or not?We will continue to see.
-
-Karthik (Jayam Ravi) is living with Kumaraswamy, a retired professor in Chennai (Achut Kumar- Geeta Kailasam).
-
-He is honest, a person who is bravely, and a student of law college.
-
-இதனால் பொதுவெளியில் சட்டத்தின் பிரிவுகளை கூறி பிரச்சனைகளை உருவாக்குகிறார். This causes many problems.
-
-வேலைக்குச் சென்று பொறுப்புடன் நடந்து கொள்ளாமல்  சிக்கல்களை ஏற்படுத்துவதால் அவரது தந்தை குமாரசாமியின் ஆரோக்கியம் பாதிக்கப்படுகிறது.
-
-Jaime Ravi's sister and Kumaraswamy's senior successor, Bhoomukka Chawla, arrives in Chennai from Ooty to meet him on the hospital.
-
-Aka Bhumika takes him to Ooty by promising that he is no longer a good boy without going to any problems for his father's health.
-
-...
-
-[Data](articles/e71c5321.json)
-
-[Extended Data](ext_articles/e71c5321.ext.json)
 
 ---

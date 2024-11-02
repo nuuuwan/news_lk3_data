@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 07:26:45**
+As of **2024-11-02 08:01:16**
 
 ## Newspaper Stats
 
-*Scraped **52,622** Articles*
+*Scraped **52,625** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
-tamilmirrorlk | 7,295
+tamilmirrorlk | 7,298
 virakesarilk | 8,491
 adaderanasinhalalk | 9,163
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 9,163
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,620 (100.0%) of 52,622 articles have been extended.
+52,624 (100.0%) of 52,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Election Complaint: 191 arrested
+
+*2024-11-02 07:20:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடு-191-பேர்-கைது/175-346433) · `ta`
+
+Election complaint update: 191 arrests, 6 high-ranking officers included. 45 vehicles seized. 168 total complaints filed, including 30 criminal and 138 election law violations.
+
+🟩
+
+Nihal Talduwa, a police media spokesman and Deputy Inspector General of Police, stated that six of them include them.
+
+In addition, the number of vehicles seized by the police for the parliamentary election -related complaint is 45.
+
+Meanwhile, 168 complaints have been received by the police regarding the election. This includes 30 criminal complaints and 138 complaints over the violation of election laws (An)
+
+◼️
+
+[Data](articles/8be38775.json)
+
+[Extended Data](ext_articles/8be38775.ext.json)
+
+---
+
+### The risk of transmitted measles
+
+*2024-11-02 07:13:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தட்டம்மை-பரவும்-அபாயம்/175-346432) · `ta`
+
+Measles outbreak: Risk transmission, vaccination campaign, and immunity week announced. Contact health department for information.
+
+🟩
+
+The Division has been opened due to the risk of re -eradicating measles from the country, the Ministry of Health said.
+
+From that section, people can hear information about measles, rubella and other infections.
+
+Contact 011744 65 13, 011768 2722, 011768 28 72 or 0117682662 and can be heard in this regard.
+
+Meanwhile, the Department of Health has pointed out that 18 people are at risk of spreading her by a patient.
+
+The Ministry of Health has advised that those who do not receive the measles vaccine in both cases should be vaccinated immediately.
+
+Meanwhile, the Ministry of Health has also decided to implement a special measles/rubella immunity week from the 4th to the 9th of this month.
+
+◼️
+
+[Data](articles/0ddb76d3.json)
+
+[Extended Data](ext_articles/0ddb76d3.ext.json)
+
+---
+
+### ஜோன்ஸ்டனின் மற்றுமொரு கார் மீட்பு
+
+*2024-11-02 07:04:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனின்-மற்றுமொரு-கார்-மீட்பு/175-346431) · `ta`
+
+Ford car linked to ex-minister found in garage; stolen February; no registration plates found during investigation.
+
+🟩
+
+A Senior Police Officer of the Nugegoda Division said that a Ford car, which is suspected of belonging to former minister Johnston Fernando, has been discovered from a Garaj in the Kottawa - Pannipitiya Liyanagoda area.
+
+இந்த கார் கடந்த பெப்ரவரி மாதம் முன்னாள் அமைச்சரின் சாரதி ஒருவரினால் கேரேஜுக்கு கொண்டு செல்லப்பட்டுள்ளதாக, ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+அப்போது அங்கு பதிவு எண் பலகைகள் இல்லை என, கேரேஜ் உரிமையாளரிடம் நடத்திய விசாரணையில் தெரியவந்துள்ளது.(AN)
+
+◼️
+
+[Data](articles/013b1ba3.json)
+
+[Extended Data](ext_articles/013b1ba3.ext.json)
+
+---
 
 ### New plan to solve foreign passport issue
 
@@ -401,6 +473,8 @@ During this campaign year, there are various discourses by political parties and
 ...
 
 [Data](articles/fa38c7e6.json)
+
+[Extended Data](ext_articles/fa38c7e6.ext.json)
 
 ---
 
@@ -2273,73 +2347,5 @@ Two students of the Southern Defense University killed in the Badulla-Dunhindu a
 [Data](articles/6b621555.json)
 
 [Extended Data](ext_articles/6b621555.ext.json)
-
----
-
-### 'இஸ்ரேல் காசாவில் பொதுமக்களை கொலை செய்யவேண்டிய நிர்பந்தத்திற்குள்ளானது" - பில்கிளின்டனின் கருத்திற்கு கடும் எதிர்ப்பு
-
-*2024-11-01 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197633) · `ta`
-
-Israel forced to kill civilians in Gaza says former US President Bill Clinton. Strong opposition from American Muslims and Arab Americans. Critics call it Islamophobic and divisive.
-
-🟩
-
-காசாவில் பொதுமக்களை கொலை செய்யவேண்டிய நிர்பந்தத்திற்கு இஸ்ரேல் தள்ளப்பட்டது என அமெரிக்காவின் முன்னாள் ஜனாதிபதி பில் கிளின்டன் தெரிவித்துள்ளமைக்கு கடும் எதிர்ப்பு எழுந்துள்ளது.
-
-அமெரிக்க முஸ்லீம்களும் அராபிய அமெரிக்கர்களும் பில்கிளின்டனின் கருத்திற்கு தமது கடும் எதிர்ப்பை வெளியிட்டுள்ளனர்.
-
-ஜனநாயக கட்சியினர் மிச்சிக்கன் உட்பட பல மாநிலங்களில் இஸ்லாமியர்கள் அராபியர்களின் வாக்குகளை நம்பியுள்ள நிலையில் பில்கிளின்டனின் இந்த கருத்து வெளியாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-Speaking at a campaign meeting in Michigan, Bilglinton said that I understand the people's concern about the blood vessel in Gaza, but that Israel had no choice but to kill civilians in Gaza, although Israel was involved in genocide.
-
-The Hamas Organization ensures that it is protected and that you are forced to kill the civilians if you want to protect yourself, ”said Bilklin.
-
-...
-
-[Data](articles/9b9e6feb.json)
-
-[Extended Data](ext_articles/9b9e6feb.ext.json)
-
----
-
-### ග්‍රෑන්ඩ්පාස් - මාදම්පිටිය කනත්ත ඉදිරිපිට වෙඩිතැබීමට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් දැලේ
-
-*2024-11-01 11:49:13* · [`adalk`](https://www.ada.lk/breaking_news/ග්‍රෑන්ඩ්පාස්---මාදම්පිටිය-කනත්ත-ඉදිරිපිට-වෙඩිතැබීමට-සම්බන්ධ-සැකකරුවන්-දෙදෙනෙක්-දැලේ/11-412791) · `si`
-
-Grandpass police arrest two suspects for murder during Madampitiya ceremony. Investigation reveals connection to organized crime and drug trafficking.
-
-🟩
-
-Two suspects have been arrested by the Grandpass police to shot dead by the Grandpass - Madampitiya ceremony on the 16th.
-
-The suspects have been arrested in Wattala area in Wattala area, a 35-year-old driint in the car to shooting the shooting.
-
-The investigation has revealed that the suspects had contacted an organized crime and a person involved in the organized crime and a drug trafficking.
-
-◼️
-
-[Data](articles/60971398.json)
-
-[Extended Data](ext_articles/60971398.ext.json)
-
----
-
-### Another vehicle recovery of Lohan Ratwatta
-
-*2024-11-01 11:39:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவின்-மற்றுமொரு-வாகனம்-மீட்பு/175-346408) · `ta`
-
-Teldeniya police arrest white jeep with fake plates linked to former State Minister Lohan Ratwatta. Vehicle recovered from an unoccupied house garage.
-
-🟩
-
-The Teldeniya police have arrested another white jeep fitted with fake digit plates allegedly used by former State Minister Lohan Ratwatta.
-
-தெல்தெனிய பொலிஸாருக்கு கிடைத்த தகவலின் பிரகாரம் ஆளில்லா வீடொன்றின் கேரேஜில்இருந்து இந்ந வாகனம் மீட்கப்பட்டுள்ளது.AN
-
-◼️
-
-[Data](articles/8eb1eb4c.json)
-
-[Extended Data](ext_articles/8eb1eb4c.ext.json)
 
 ---

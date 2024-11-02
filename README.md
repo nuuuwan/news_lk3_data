@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 16:12:07**
+As of **2024-11-02 16:24:10**
 
 ## Newspaper Stats
 
@@ -26,33 +26,45 @@ adaderanasinhalalk | 9,176
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,676 (100.0%) of 52,678 articles have been extended.
+52,678 (100.0%) of 52,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
 
-### ඊශ්‍රායලය නව මිසයිල ආරක්ෂක පද්ධතිය සූදානම් කරයි
+### Israel prepares new missiles system
 
 *2024-11-02 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202835) · `si`
 
-ඊශ්‍රායලය උතුරු ගාසා තීරය ඉලක්ක කරමින් එල්ලකළ ප්‍රහාර ද්විත්වයකින් පුද්ගලයින් 84 දෙනෙකු මියගොස් තිබේ.
+Israel develops advanced missile defense system. Attacks in Gaza kill 84, including 50 children. Iran reportedly plans retaliation via drones and missiles from Iraq. US increases military presence in Middle East.
 
-ඒ අතරින් පනස් දෙනෙකු දරුවන් වන අතර විදෙස් මාධ්‍ය මෙය හඳුන්වන්නේ මිලේච්ඡ සමූහ ඝාතනයක් ලෙසය.
+🟩
 
-ඊශ්‍රායල ප්‍රහාර හේතුවෙන් මේ වනවිට ගාසා තීරයේ පලස්තීන ජාතිකයින් 43,000 ඉක්මවූ පිරිසක් මියගොස් ඇති අතර ඉන් 16,000 ඉක්මවූ පිරිසක් දරුවන් ය.
+84 persons were killed in two bill of attacks on the North Gaza.
 
-මේ අතර ඉරානය, නුදුරු දිනකදී ඊශ්‍රායලයට ප්‍රතිප්‍රහාර එල්ල කිරීමට සැලසුම් කරමින් සිටින බව ඊශ්‍රායල බුද්ධි අංශයට තොරතුරු ලැබී ඇතැයි විදෙස් මාධ්‍ය වාර්තා කරයි.
+Fifty-people are children and foreign media is called a barbar gang.
 
-ඩ්‍රෝන සහ බැලිස්ටික් මිසයිල යොදා ගනිමින් ඉරාක භූමියේ සිට ඊශ්‍රායලය ඉලක්ක කිරීම ඉරානයේ සැලසුම් වී ඇතැයි ස﻿ඳහන් ය.
+At the time of the Israeli attacks, a group of Palestinians exceeded 43,000 Palestinian nationals.
 
-ඉරානය, ඉරාකයේ සිට ප්‍රහාර එල්ල කිරීමට සැලසුම් කරන්නේ, ඊශ්‍රායලය ඉරානයේ හමුදා මර්මස්ථාන වෙත ප්‍රහාර එල්ලකිරීම වැළැක්වීමේ අරමුණින් විය හැකි බව විදෙස් වාර්තා පෙන්වා දෙයි.
+Meanwhile, the Israeli intelligence reports say Iran is planning to counter the Israeli day in a nearby day.
 
-එමෙන්ම මැදපෙරදිග කලාපයේ අමතර හමුදා සේනාංක, යුද නෞකා සහ ගුවන්යානා යෙදවීමට අමෙරිකාව පියවර ගෙන ඇති බවත් විදෙස් මාධ්‍ය වාර්තා කරයි.
+It is also stated that Iran is planning to target Israel from the Iraqi ground using drones and ballistic missiles.
 
-...
+Iran plans to attack Iraq, according to foreign reports.
+
+Foreign media reports that the US has taken steps to deploy additional troops, war vessels and aircraft in the Middle East.
+
+Israel is preparing to use the new missile security system to operate in the Middle East warfare.
+
+The missile security system, if the missile security system is from high-power laser, preventing enemy missile attacks.
+
+It is said that the laser rays are rapidly running in the range of hundreds of miles from hundreds of meters.
+
+◼️
 
 [Data](articles/9643d4a1.json)
+
+[Extended Data](ext_articles/9643d4a1.ext.json)
 
 ---
 
@@ -306,17 +318,23 @@ Dhanush, Nagarjuna, Rashmika and South Indian star bands have been united.
 
 ---
 
-### මහ මැතිවරණය සම්බන්ධයෙන් වන පැමිණිලි ඉහළට
+### Complaints regarding general elections
 
 *2024-11-02 14:09:43* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණය-සම්බන්ධයෙන්-වන-පැමිණිලි-ඉහළට/11-412807) · `si`
 
-මහ මැතිවරණය සම්බන්ධයෙන් ලැබුණු පැමිණිලි සංඛ්‍යව 1342ක් දක්වා ඉහළ ගොස් ඇති බව මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+Elections Commission reports 1342 complaints about general election, including 83 in last 24 hours.
 
-ගත වූ පැය 24ක කාලය තුළ පැමිණිලි 83ක් ලැබී ඇති බවද එම නිවේදනයේ සඳහන් කර ඇත.
+🟩
+
+The Elections Commission announced that the number of complaints received regarding the general election has increased to 1342.
+
+In the announcement, 83 complaints have been received during the past 24 hours.
 
 ◼️
 
 [Data](articles/1db86f17.json)
+
+[Extended Data](ext_articles/1db86f17.ext.json)
 
 ---
 

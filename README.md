@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 15:39:56**
+As of **2024-11-02 15:58:14**
 
 ## Newspaper Stats
 
-*Scraped **52,670** Articles*
+*Scraped **52,671** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 4,904
 adaderanalk | 6,257
 tamilmirrorlk | 7,309
 virakesarilk | 8,498
-adaderanasinhalalk | 9,174
+adaderanasinhalalk | 9,175
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,670 (100.0%) of 52,670 articles have been extended.
+52,671 (100.0%) of 52,671 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### හොංකොං සික්සස් සටනේ ශ්‍රී ලංකාව අපරාජිතව අවසන් පූර්ව වටයට
+
+*2024-11-02 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202834) · `si`
+
+Sri Lanka wins Hong Kong Sixast Cricket Tournament. Sandun Weerakkody scores 50 runs in 14 balls. Lahiru Madushanka hits 31 runs off 8 balls. Nepal team scores 60 runs in 4 overs. Sri Lanka takes 6 wickets for 123 runs.
+
+🟩
+
+Sri Lanka won the Hong Kong Sixast Cricket Tournament today (02).
+
+Nepal won the toss and invited the Sri Lankan team to bat first.
+
+Accordingly, the Sri Lankan openers entered the field gained a fast start.
+
+Sandun Weerakkody scored 50 runs in 14 balls with five sixes and 4 fours.
+
+නායක ලහිරු මධුසංඛ පන්දු 8කදී නොදැවී ලකුණු 31ක් රැස් කළ අතර ඔහුගේ ඉනිමට හයේ පහර 4ක් සහ එක් හතරේ පහරක් ඇතුළත්ය.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 6දී කඩුලු 2ක් පමණක් දැවී රැස් කළ ලකුණු සංඛ්‍යාව 123කි.
+
+ලකුණු 124ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි නේපාල කණ්ඩායමේ මුල් කඩුලු 3 ලකුණු 18කට දවා ගැනීමට ශ්‍රී ලංකා පන්දු යවන්නන් සමත්වුණි.
+
+Accordingly, the Nepal team was able to score only 60 runs for the loss of all wickets at the end of 4 overs.
+
+Lahiru Samarakoon and Tharindu Ratnayake took 2 wickets each and Dananjaya took two wickets.
+
+◼️
+
+[Data](articles/0643579b.json)
+
+[Extended Data](ext_articles/0643579b.ext.json)
+
+---
 
 ### EDELWEISS launches direct flights to Sri Lanka
 
@@ -2287,37 +2321,5 @@ Aka Bhumika takes him to Ooty by promising that he is no longer a good boy witho
 [Data](articles/e71c5321.json)
 
 [Extended Data](ext_articles/e71c5321.ext.json)
-
----
-
-### People request to open the Arali Road fully!
-
-*2024-11-01 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197658) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaffna residents demand full opening of Arali Road after partial reopening. Military controls restrict access. Residents seek permission to resettle and renovate temples along reopened sections.
-
-🟩
-
-The people of the area have demanded that the rest of the road on the Jaffna and Valai -Arali road be opened for the use of the people.
-
-The road from Tellippalai Kattuvan junction to Achchuveli Thalakkatti junction on Vallai - Arali Road has been found in the Army High Security Zone for over 34 years.
-
-The road has been opened on Friday (01) at Palali Road, about a kilometer away from Vasavilan Junction to Achchuveli Throkkatti junction.
-
-Most Road is still found within the military control area. All of them have been asked to release the people soon.
-
-People living in Achchuveli and Vadamarachchi areas are still in the process of traveling to the North and Tellippalai Hospital, Vallai - Arali Road, reaching Vasavilan junction, and reaching Valli - Arali Road.
-
-So the army has demanded that the people be released to the Arali road between Vasavilan, who meets Katuwan.
-
-...
-
-[Data](articles/0e8415f6.json)
-
-[Extended Data](ext_articles/0e8415f6.ext.json)
 
 ---

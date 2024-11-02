@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 16:56:45**
+As of **2024-11-02 17:09:20**
 
 ## Newspaper Stats
 
-*Scraped **52,678** Articles*
+*Scraped **52,681** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,68 @@ economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,905
-adaderanalk | 6,258
+adaderanalk | 6,259
 tamilmirrorlk | 7,310
 virakesarilk | 8,501
-adaderanasinhalalk | 9,176
+adaderanasinhalalk | 9,178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,678 (100.0%) of 52,678 articles have been extended.
+52,681 (100.0%) of 52,681 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### සමාජ සුභසාධන වැඩසහන් ඩිජිටල්කරණය කිරීම පිළිබඳ ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
+
+*2024-11-02 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202837) · `si`
+
+Digitalization of social welfare programs discussion led by President Anura Kumara Dissanayake. Rice price issues addressed. Digital solutions proposed for paddy storage shortages. Concessionary distribution programs for low-income families' children in new schools.
+
+🟩
+
+මෙරට ක්‍රියාත්මක සමාජ සුභසාධන ප්‍රතිලාභ වැඩසටහන් ඩිජිටල්කරණය කිරීම පිළිබද සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (01) පැවැත්විණි.
+
+The prices of rice prices have also been discussed in the event of digital solution to the shortage of the paddy storage system, including the importance and social welfare programs for low income families.
+
+It has also been discussed in the event of digitalize the concessionary distribution program to be given for the children of low income families in the next new school.
+
+The avocing issued by the Presidential Media Unit of Sri Lanka General Technical Officer Mahesh Wijenayake, Dialog Athiyana's Group CEO of Sri Lanka.
+
+◼️
+
+[Data](articles/295f8637.json)
+
+[Extended Data](ext_articles/295f8637.ext.json)
+
+---
+
+### Two trapped by the raid of the Nagavill
+
+*2024-11-02 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202836) · `si`
+
+Sri Lanka Navy and Police Narcotics Bureau raided Nagavillauwa, arresting two suspects with ice drugs, cigarettes, and liquor. Seized: 8 ice drugs, 820 liters cigarettes, 320 liters liquor, 440 liters illicit alcohol, 100 liters illegal spirits. Suspects from Forest areas 28 and 39.
+
+🟩
+
+Two suspects have been arrested in the Nagavillauwa area with ice drug, foreign cigarettes and illegal liquor.
+
+The Sri Lanka Navy and the Police Narcotics Bureau were conducted by a special integrated search in the Nagavillauwa area yesterday (01).
+
+The officers have been seized by eight ice drugs, 820 liters of cigarettes, 320 liters of cigarettes, 440 liters of gaits and 100 liters of illegal spirits.
+
+The suspects are residents of 28 and 39, 39, residents of the forest.
+
+◼️
+
+[Data](articles/9a66c2d5.json)
+
+[Extended Data](ext_articles/9a66c2d5.ext.json)
+
+---
 
 ### Israel prepares new missiles system
 
@@ -111,6 +159,30 @@ Due to this, the patients who arrived at the hospital for treatment had faced va
 [Data](articles/5122c90a.json)
 
 [Extended Data](ext_articles/5122c90a.ext.json)
+
+---
+
+### Doctors end token strike at Karapitiya National Hospital
+
+*2024-11-02 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103105/doctors-end-token-strike-at-karapitiya-national-hospital) · `en`
+
+Doctors at the Karapitiya National Hospital in Galle have called off their 24-hour token strike which had commenced at 05.00 p.m. yesterday (01).
+
+They had launched a strike stating that the specialist doctor in charge of the hospital’s cancer ward had threatened several other doctors of the hospital.
+
+However, after a discussion with the Director of Karapitiya Hospital today (02), the striking doctors have decided to temporarily call off the strike.
+
+But the doctors who were on strike say that if proper measures are not taken regarding the doctor in question, they will commence another strike next Monday.
+
+All the specialist doctors of the Karapitiya Hospital and all the doctors of the Government Medical Officers’ Association (GMOA) had joined the strike, as a result of which no clinical treatment was carried out.
+
+Due to this, the patients who arrived at the hospital for treatment had faced various difficulties.
+
+◼️
+
+[Data](articles/715a204b.json)
+
+[Extended Data](ext_articles/715a204b.ext.json)
 
 ---
 
@@ -2259,71 +2331,5 @@ Actor Gavin gives a different performance in begging and going into the mansion 
 [Data](articles/ece8bc1b.json)
 
 [Extended Data](ext_articles/ece8bc1b.ext.json)
-
----
-
-### Dr. Hans Wijesuriya top post
-
-*2024-11-01 18:33:03* · [`adalk`](https://www.ada.lk/technology/ආචාර්ය-හාන්ස්-විජේසූරියට-ඉහළම-තනතුරක්/5-412799) · `si`
-
-Dr. Hans Wijayasuriya appointed Chief Presidential Advisor on Digital Economy. Aims to enhance Sri Lanka's digital economy, improve competitiveness, and benefit citizens. Will lead ICTA as non-executive chairman, implementing digital transformation programs. Expected to play key role in developing digital framework and economy.
-
-🟩
-
-Dr. Hans Wijayasuriya has been appointed as the Chief Presidential Advisor on the Digital Economic Advisor.
-
-The President has made this appointment with the most advanced and commitment to enhance the digital economy in Sri Lanka, expecting economic growth, national competitizing and to benefit all citizens.
-
-The government is the prospect of reaching global standards from ICT and digital infrastructure. The government has severely committed to a multi-sectoral digital translation by establishing the digital general infrastructure (DPI) to empower citizens.
-
-Accordingly, the government is planning to enable the economic and social development of the economic and social development that led to a fast digital economy and the quality of life of all citizens.. Dr. Hans Wijayasuriya is a major step towards achieving the above vision.
-
-...
-
-[Data](articles/c70bae4b.json)
-
-[Extended Data](ext_articles/c70bae4b.ext.json)
-
----
-
-### Increase in the number of complaints in parliamentary election - the Election Commission
-
-*2024-11-01 18:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/197680) · `ta`
-
-Election Commission reports 1259 complaints for parliamentary election, resolving 1018 in past 24 hours. Complaints increase noted.
-
-🟩
-
-The number of complaints received by the Election Commission on the upcoming parliamentary election has increased to 1259.
-
-The Election Commission said that 123 complaints have been received in the last 24 hours.
-
-However, the Election Commission said that over 1018 complaints have been resolved out of a total of 1259 complaints.
-
-◼️
-
-[Data](articles/5162eef3.json)
-
-[Extended Data](ext_articles/5162eef3.ext.json)
-
----
-
-### SWRD, JR et al. – Tradition Or Mythology?
-
-*2024-11-01 18:17:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/swrd-jr-et-al-tradition-or-mythology/) · `en`
-
-“Oh little monk, it is an arduous path you are taking…” on Martin Luther’s decision to challenge the papacy.
-
-“The tradition of all the dead generations weighs like an incubus upon the brain of the living” ~ Karl Marx
-
-As the common saying goes ‘Success has many fathers but failure is an orphan. And, in recent times, no other political career has been as successful as that of President Anura Kumar Dissanayake.
-
-Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan elite status, member of a putatively Marxist political party (an ideology seemingly out of step with the modern world in many aspects) and having received only about 3% of the general vote at the Presidential elections in 2019, Dissanayake yet won an emphatic approval from the voter in September 2024. His closest rival was more than a million votes behind. Prominent politicians, heralded for decades, would have turned green with envy contemplating the Dissanayake success.
-
-...
-
-[Data](articles/6ed48f0e.json)
-
-[Extended Data](ext_articles/6ed48f0e.ext.json)
 
 ---

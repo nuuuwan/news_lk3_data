@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 02:09:49**
+As of **2024-11-03 02:24:21**
 
 ## Newspaper Stats
 
-*Scraped **52,716** Articles*
+*Scraped **52,719** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,907
 adaderanalk | 6,264
 tamilmirrorlk | 7,316
-virakesarilk | 8,508
+virakesarilk | 8,511
 adaderanasinhalalk | 9,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,716 (100.0%) of 52,716 articles have been extended.
+52,716 (100.0%) of 52,719 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -450,6 +450,44 @@ Sivagnanam Sreedharan, Mathiyaparanam Abraham Sumanthiran and Emmanuel Anold wer
 
 ---
 
+### யாழில் வெளிநாடுகளுக்கு அனுப்புவதாகக் கூறி கோடிக்கணக்கான பண மோசடியில் ஈடுபட்டவர் கைது !
+
+*2024-11-02 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197734) · `ta`
+
+வெளிநாடுகளுக்கு அனுப்பி வைப்பதாக கூறி கோடிக்கணக்கான பண மோசடியில் ஈடுபட்ட நபர் 07 வருடங்களாக தலைமறைவாக இருந்த நிலையில் யாழ் . மாவட்ட குற்றத்தடுப்பு பொலிஸ் பிரிவினரால் கைது செய்யப்பட்டுள்ளார்.
+
+குறித்த நபர் மனைவி பிள்ளைகளை பிரிந்து வாழ்ந்து வருவதாக வெளியுலகுக்கு நம்ப வைத்துக்கொண்டு , இரவு வேளைகளில் மனைவி பிள்ளைகளை சந்திக்கச் சென்ற நிலையில் தகவல் அறிந்து பொலிஸார் விசேட சுற்றிவளைப்பு நடவடிக்கையில், ஈடுபட்டு குறித்த நபரை கைது செய்துள்ளனர்.
+
+யாழ்ப்பாணத்தை சேர்ந்த இளைஞன் ஒருவரை பிரான்ஸ் நாட்டுக்கு அனுப்பி வைப்பதாக கூறி பெரும் பண மோசடியில் ஈடுபட்ட கும்பல் தொடர்பில் யாழ்ப்பாண பொலிஸ் நிலையத்தில் கடந்த ஜூன் மாதம் முறைப்பாடு பதிவு செய்யப்பட்டது.
+
+முறைப்பாட்டின் பிரகாரம் விசாரணைகளை முன்னெடுத்த பொலிஸார் கடந்த ஜூலை மாதம் ஒருவரை கைது செய்து விசாரணைகளை முன்னெடுத்தனர்.
+
+அதன் போது , அவருடன் பிரதான சந்தேகநபர் உள்ளிட்ட மற்றொரு நபரும் இணைந்து மோசடியில் ஈடுபட்டுள்ளனர் என்பதனை பொலிஸார் அறிந்து , மற்றைய நபரை கடந்த ஒக்டோபர் மாதம் கைது செய்தனர்.
+
+...
+
+[Data](articles/1c501d9b.json)
+
+---
+
+### இல்லாத ஒன்றுக்கு கனவு காண்பதை விட யதார்த்தமானதை அடைய முயற்சிப்பதே சிறந்தது - டக்ளஸ்
+
+*2024-11-02 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197738) · `ta`
+
+மக்களுடன் தொடர்ச்சியாக வாழ்ந்துகொண்டிருக்கின்ற மக்களிக்காக உழைக்கின்ற தரப்பினரையே மக்கள் இம்முறை தமது அரசியல் பிரதிநிதிகளாக தீர்மானிப்பர் என சுட்டிக்காட்டியுள்ள ஈ.பி.டி.பியின் செயலாளர் நாயகம் டக்ளஸ் தேவானந்தா இல்லாத ஒன்றுக்காக கனவு காண்பதை விட யதார்த்தமானதை அடைய முயற்சிப்பதே சிறந்தது எனவும் வலியுறுத்தியுள்ளார்.
+
+வடமராட்சி பிரதேசத்தின் பல்வேறு பகுதிகளுக்கும் தேர்தல் பிரசார நடவடிக்கைகளுக்காக இன்று சனிக்கிழமை (02) சென்றிருந்த ஈ.பி.டி.பியின் செயலாளர் நாயகம் டக்ளஸ் தேவானந்தா மக்களுடனான கலந்துரையாடலின் போதே இவ்வாறு தெரிவித்துள்ளார்.
+
+நான் மக்கள் நலனில் இருந்தே செயற்பட்டு வருகின்றேன். ஆனால் அன்று எமது தமிழ் அரசியல் முன்னோர்கள் சமஷ்டி என்ற கோரிக்கையை முன்வைத்து மேடைகளில் முழங்கி தேர்தல் வெற்றிகளை பெற்று நாடாளுமன்றை அலங்கரித்தினர்.
+
+ஆனால் அவர்கள் தாம் முன்வைத்த விடயத்த்தின் இலக்கை அடையச் செய்வதற்கான பொறிமுறையை துளியளவும் கொண்டிருக்கவில்லை. அதேபோன்றுதான் அவர்கள் வழி வந்து போலித் தேசியம் பேசும் இன்றைய அரசியல் பரப்பில் உள்ளவர்கள் கூறிக்கொண்டிருக்கும் கொள்கைகளுக்கும் பொறிமுறையற்றதாக இருக்கின்றது.
+
+...
+
+[Data](articles/60d4f9ac.json)
+
+---
+
 ### Meeting between Prime Minister Harini Amarasuriya and German Ambassador Felix Newman
 
 *2024-11-02 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197739) · `ta`
@@ -469,6 +507,28 @@ The meeting was attended by Prime Minister's Secretary Pradeep Saputhandri, Chie
 [Data](articles/9793ebe5.json)
 
 [Extended Data](ext_articles/9793ebe5.ext.json)
+
+---
+
+### உத்தியோகபூர்வ வாக்காளர் அட்டை விசேட விநியோகம்  - தபால் திணைக்களம்
+
+*2024-11-02 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197741) · `ta`
+
+உத்தியோகபூர்வ வாக்காளர் அட்டைகள் ஞாயிற்றுக்கிழமை (03) காலை 6 மணிமுதல் மாலை 6 மணிவரை விநியோகிக்கப்படும்.
+
+வாக்காளர் அட்டை விநியோகம் எதிர்வரும்  வியாழக்கிழமையுடன் நிறைவடையும். குறித்த காலப்பகுதிக்குள் வாக்காளர் அட்டைகள் கிடைக்கப் பெறாதவர்கள் தபால் நிலையத்தை நாடவும் என பிரதி தபால் மா அதிபர் ராஜித கே. ரணசிங்க தெரிவித்தார்.
+
+தபால் திணைக்களத்தில் சனிக்கிழமை (02) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொதுத்தேர்தலுக்கான வாக்காளர் அட்டைகள் மற்றும் இதர ஆவணங்களை விநியோகிக்கும் பணிகள் முன்னெடுக்கப்பட்டுள்ளன.தபால்மூல வாக்குச்சீட்டுக்களை விநியோகிக்கும் பணிகளை பாதுகாப்பான முறையில் முன்னெடுத்துள்ளோம்.
+
+உத்தியோகபூர்வ வாக்காளர் அட்டைகள் கடந்த மாதம் 27 ஆம் திகதி முதல் விநியோகிக்கப்படுகிறது. இதுவரை சுமார் 60 ஆயிரம் பொதிகள் ஊடாக வாக்காளர் அட்டைகள் விநியோகிக்கப்பட்டுள்ளன.
+
+பொதுத்தேர்தல் நிறைவடையும் வரை தபால் ஊழியர்களின் சகல விடுமுறைகளும் இரத்து செய்யப்பட்டுள்ளன. இன்றைய தினம் காலை 6 மணிமுதல் மாலை 6 மணிவரை உத்தியோகபூர்வ வாக்காளர் அட்டைகள் விநியோகிக்கப்படும்.
+
+...
+
+[Data](articles/43105aa0.json)
 
 ---
 
@@ -2347,59 +2407,5 @@ Former Member of Parliament and New Democratic Front (NDF) Kalutara District can
 [Data](articles/c15fc64e.json)
 
 [Extended Data](ext_articles/c15fc64e.ext.json)
-
----
-
-### Sri Lanka participates in World Trade Expo 2024 in Mumbai
-
-*2024-11-02 04:32:07* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-participates-in-World-Trade-Expo-2024-in-Mumbai/34-768741) · `en`
-
-The Consulate General of Sri Lanka in Mumbai, together with the Industrial Development Board and the Export Development Board of Sri Lanka organised the Sri Lanka Pavilion at the fifth edition of the World Trade Expo (WTE 2024).
-
-WTE 2024 was organised by the World Trade Center Mumbai in collaboration with All India Association of Industries (AIAI) from 17 to 18 October with a focus on trade, technology, tourism and education.
-
-...
-
-[Data](articles/fd68b731.json)
-
-[Extended Data](ext_articles/fd68b731.ext.json)
-
----
-
-### Samsung Sri Lanka officially launches Galaxy S24 FE for purchase with exclusive offers
-
-*2024-11-02 04:31:21* · [`dailyftlk`](https://www.ft.lk/business/Samsung-Sri-Lanka-officially-launches-Galaxy-S24-FE-for-purchase-with-exclusive-offers/34-768740) · `en`
-
-Samsung, a global technology leader, has begun its orders for the highly anticipated Galaxy S24 FE.
-
-The buy now period starts on 1 November at 5 a.m. and runs until 31 December at 11:59 p.m.
-
-Samsung presents exclusive offers for the Galaxy S24 FE, offering customers an array of exceptional benefits. The prices are set at Rs. 255,688 with a savings of Rs. 24,491.
-
-Customers who purchase the Galaxy S24FE during this period will enjoy compelling benefits, including two year two-times screen replacement, with a savings of Rs. 72,000. Further, customers are entitled for a 24 months easy payment scheme with a monthly instalment of Rs. 9,411.
-
-Additionally, customers will receive complimentary 600GB data bundles from Dialog and Mobitel, and two months of free OneDrive subscriptions.
-
-...
-
-[Data](articles/aafe0f2a.json)
-
-[Extended Data](ext_articles/aafe0f2a.ext.json)
-
----
-
-### Planning for climate-related human mobility
-
-*2024-11-02 04:18:40* · [`dailyftlk`](https://www.ft.lk/columns/Planning-for-climate-related-human-mobility/4-768732) · `en`
-
-The nexus between climate change and human mobility has increasingly become an area of focus for research and policymaking
-
-The nexus between climate change and human mobility has increasingly become an area of focus for researchers and policymakers in countries across the world. Climate change is transforming how people live, work, and move, and its impacts shape and influence the patterns of migration, disaster displacement, and planned relocation. Heat, droughts, floods, storms, landslides, and long-term processes such as sea level rise and increasing agricultural pests and diseases affect human mobility either directly or indirectly, ranging from seasonal rural out-migration to disaster displacement and from foreign employment to relocation out of high-risk areas.
-
-...
-
-[Data](articles/98446111.json)
-
-[Extended Data](ext_articles/98446111.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 14:58:32**
+As of **2024-11-02 15:09:30**
 
 ## Newspaper Stats
 
-*Scraped **52,666** Articles*
+*Scraped **52,668** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,903
-adaderanalk | 6,256
+adalk | 4,904
+adaderanalk | 6,257
 tamilmirrorlk | 7,309
 virakesarilk | 8,498
 adaderanasinhalalk | 9,172
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,172
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,666 (100.0%) of 52,666 articles have been extended.
+52,666 (100.0%) of 52,668 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Special security for Lohan Ratwatte at Prison Hospital
+
+*2024-11-02 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103104/special-security-for-lohan-ratwatte-at-prison-hospital) · `en`
+
+A decision has been taken to provide special security to former State Minister Lohan Ratwatte, who has been admitted to the prison hospital due to an illness.
+
+Prisons Commissioner and Spokesman Gamini B. Dissanayake stated that since Lohan Ratwatte is the former State Minister in charge of Prisons, this special protection has been provided according to court orders.
+
+He was arrested by the Mirihana Police on October 31 in Katugastota, Kandy, for allegedly using a luxury car that was illegally imported from abroad and assembled in Sri Lanka.
+
+Later, he was produced before the Acting Magistrate of Nugegoda by the Mirihana Police, where he was ordered to be remanded until November 7.
+
+Meanwhile, Ratwatte’s wife has also been notified to provide a statement regarding the relevant vehicle at the Mirihana Police.
+
+◼️
+
+[Data](articles/6b5bbddb.json)
+
+---
 
 ### Sudden illness for Lohan Ratwatta
 
@@ -141,6 +161,20 @@ Providing an update on their condition, he reported that the conditions of all h
 [Data](articles/7266b91c.json)
 
 [Extended Data](ext_articles/7266b91c.ext.json)
+
+---
+
+### හෙට දිනය විශේෂ දිනයක් ලෙස නම් කළ හේතුව මෙන්න
+
+*2024-11-02 13:39:40* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දිනය-විශේෂ-දිනයක්-ලෙස-නම්-කළ-හේතුව-මෙන්න/11-412806) · `si`
+
+මහ මැතිවරණයට අදාළව නිළ ඡන්ද පත්‍රිකා බෙදා හැරීමේ විශේෂ දිනයක් ලෙස හෙට (03දා) දිනය නම් කර තිබේ.
+
+ඒ අනුව හෙට පෙ.ව. 08 සිට ප.ව 06 දක්වා නිළ ඡන්ද පත්‍රිකා බෙදා හරින බව තැපැල් දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/7839b4fa.json)
 
 ---
 
@@ -2269,61 +2303,5 @@ President Anura Kumara Dissanayake will now understand how difficult it is to im
 [Data](articles/4ac76feb.json)
 
 [Extended Data](ext_articles/4ac76feb.ext.json)
-
----
-
-### Lucky Bhaskar - Film Review
-
-*2024-11-01 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197668) · `ta`
-
-Here's a 200-character summary of the film review:
-
-
-
-Dulquer Salman shines as Bhaskar, a bank cashier turned corrupt financier in 1980s Mumbai. Director explores themes of greed, financial abuse, and moral decay through Bhaskar's journey. Strong performances, music, and cinematography make this multi-language film impactful.
-
-🟩
-
-Actors: Dulquer Salman, Meenakshi Chaudhry, Sachin Gatekar, Tinu Anand, Master Rithvik and many others.
-
-Dulquer Salman's film-'Vadi', the director's film-Tamil, Telugu, Malayalam, Kannada and Hindi, Ban's Indian-level film-is 'Lucky Bhaskar' with a multi-faceted film?Or not?Let us continue to see.
-
-The story of the man who works as a cashier in a private bank is a wealthy man who is involved in financial abuse.
-
-The story of the film takes place in the early 1980s and the early 90s in Mumbai, the business capital of India.
-
-அங்கு இயங்கி வரும் தனியார் வங்கி ஒன்றில் காசாளராக பணியாற்றுகிறார் பாஸ்கர் ( துல்கர் சல்மான்).  கடுமையான உழைப்பால் தொடர்ந்து மூன்று ஆண்டுகள் சிறந்த பணியாளர் என்ற விருதினையும் பெற்றவர். He has a beautiful family, parents, sister, brother, wife, child.
-
-அந்த குடும்பத்திற்காக உழைத்து வரும் இவர் செலவுகளை சமாளிப்பதற்காக கடன் வாங்குகிறார். But he escapes from the debt that he is unable to build the loan. In this case, he is confident that the bank will be promoted.
-
-...
-
-[Data](articles/ff9a0ffa.json)
-
-[Extended Data](ext_articles/ff9a0ffa.ext.json)
-
----
-
-### The names of the League of Lanka T10 will be announced
-
-*2024-11-01 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202810) · `si`
-
-League of Lanka T10: Teams announced. Draft on Nov 10. Tournament Dec 12-22.
-
-🟩
-
-The six-day teams competing to the first time in the first time in the six-day teams competing to the first time.
-
-Accordingly, teambu Strikers, Goal Mavles, Jarguz, Moolles, Jafna Titans, Candy Bolts, Cany Bolts, Hambantota Bangla Taigers and Nigambu Braves.
-
-Player drafting of players (selecting players) is due to be held on November 10.
-
-The tournament will be held from December 12 to 22nd December 12th to 22nd December.
-
-◼️
-
-[Data](articles/80c13dc5.json)
-
-[Extended Data](ext_articles/80c13dc5.ext.json)
 
 ---

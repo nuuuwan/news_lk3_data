@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 18:20:15**
+As of **2024-11-02 18:33:15**
 
 ## Newspaper Stats
 
-*Scraped **52,688** Articles*
+*Scraped **52,690** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 415
 colombotelegraphcom | 536
 bbccomsinhala | 540
 islandlk | 3,140
-economynextcom | 3,197
+economynextcom | 3,198
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,905
+adalk | 4,906
 adaderanalk | 6,261
 tamilmirrorlk | 7,311
 virakesarilk | 8,501
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,688 (100.0%) of 52,688 articles have been extended.
+52,690 (100.0%) of 52,690 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -509,6 +509,26 @@ According to the Public Security Minister Vijitha Herath, six people, including 
 [Data](articles/08082a27.json)
 
 [Extended Data](ext_articles/08082a27.ext.json)
+
+---
+
+### Station Masters Strike on Yeastal Station?
+
+*2024-11-02 14:24:57* · [`adalk`](https://www.ada.lk/breaking_news/යළත්-දුම්රිය-ස්ථානාධිපතිවරුන්ගේ-වර්ජනයක්-/11-412808) · `si`
+
+Station Masters strike threat: Unions clash over demands. Temporary suspension of operations due to Deepavali celebrations.
+
+🟩
+
+The Station Masters' Association states that if their request is not suitable for the proper solution, the Station OICs Association states that a trade union action will be launched tomorrow.
+
+The union decided to temporarily suspend the Trade Union Operation Deepavali at the 12th of the day due to Deepavali ceremony.
+
+◼️
+
+[Data](articles/896b25f7.json)
+
+[Extended Data](ext_articles/896b25f7.ext.json)
 
 ---
 
@@ -1598,6 +1618,28 @@ On October 23, the United States embassy asked its nationals to avoid Arugam Bay
 
 ---
 
+### Vietnamese women living in Sri Lanka explore ways to bring two nations closer
+
+*2024-11-02 05:23:00* · [`economynextcom`](https://economynext.com/vietnamese-women-living-in-sri-lanka-explore-ways-to-bring-two-nations-closer-185868/) · `en`
+
+ECONOMYNEXT – Vietnamese women in Sri Lanka have met newly appointed envoy Trinh Thi Tam at an interactive session to mark Viet Nam Women’s Day 2024, a statement said.
+
+The Vietnamese community in Sri Lanka numbering about 200, is made up of Buddhist monks and nuns, ladies married to Sri Lankan men and staff of foreign projects.
+
+“This program allowed the female Vietnamese community in Sri Lanka to explore ways to bring Viet Nam closer to Sri Lanka through people-to-people exchanges and activities,” the statement said.
+
+Embassy of Viet Nam in Sri Lanka hosted an interactive session for Vietnamese women living in Sri Lanka, including those married to Sri Lankans and nuns studying in Sri Lanka.
+
+Ambassador Trinh Thi Tam highlighted the qualities of Vietnamese women, such as their resourcefulness, endurance and dedication to family which they preserve and promote whether they live in Viet Nam or abroad.
+
+...
+
+[Data](articles/4b92e985.json)
+
+[Extended Data](ext_articles/4b92e985.ext.json)
+
+---
+
 ### Ranil urges public sector to hold votes unless NPP commits to wage hike
 
 *2024-11-02 04:35:14* · [`dailyftlk`](https://www.ft.lk/news/Ranil-urges-public-sector-to-hold-votes-unless-NPP-commits-to-wage-hike/56-768745) · `en`
@@ -2287,49 +2329,5 @@ Sri Lanka won by 18 runs in its 2nd match against Bangladesh on the same day.
 [Data](articles/b1c85142.json)
 
 [Extended Data](ext_articles/b1c85142.ext.json)
-
----
-
-### Foreign passport from December
-
-*2024-11-01 19:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிசம்பரில்-இருந்து-வெளிநாட்டு-கடவுச்சீட்டு/175-346427) · `ta`
-
-Department of Immigration and Emigration expects to expedite foreign passport supply starting December. Over 700,000 passports ready. New system for issuing passports being prepared.
-
-🟩
-
-The Department of Immigration and Emigration has issued a statement saying it is expected to expedite foreign passport supply from the beginning of December.
-
-The department said that more than 700,000 empty passports are available in the future.
-
-The Department of Immigration and Emigration further stated that the systematic enemy system is currently being prepared for issuing foreign passports and that this system will be implemented on the next day.. Remble
-
-◼️
-
-[Data](articles/8a2f799e.json)
-
-[Extended Data](ext_articles/8a2f799e.ext.json)
-
----
-
-### The Presidential Media Division's main announcement on the security of Mahinda
-
-*2024-11-01 19:56:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-பாதுகாப்பு-குறித்து-ஜனாதிபதி-ஊடகப்-பிரிவு-முக்கிய-அறிவிப்பு/175-346426) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Presidential Media Division denies reports of reduced security for former President Mahinda Rajapakse. Claims such rumors are false.
-
-🟩
-
-Reports that the security of former President Mahinda Rajapakse has been reduced is completely false, the Presidential Media Unit said. Remble
-
-◼️
-
-[Data](articles/6f7c1537.json)
-
-[Extended Data](ext_articles/6f7c1537.ext.json)
 
 ---

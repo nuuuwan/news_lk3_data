@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 19:24:17**
+As of **2024-11-02 19:39:55**
 
 ## Newspaper Stats
 
-*Scraped **52,700** Articles*
+*Scraped **52,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,198
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,906
-adaderanalk | 6,261
+adaderanalk | 6,262
 tamilmirrorlk | 7,312
 virakesarilk | 8,508
 adaderanasinhalalk | 9,184
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,184
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,700 (100.0%) of 52,700 articles have been extended.
+52,701 (100.0%) of 52,701 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,24 @@ He was speaking at a rally in Kandy this afternoon.
 [Data](articles/a0fc5efb.json)
 
 [Extended Data](ext_articles/a0fc5efb.ext.json)
+
+---
+
+### PM discusses rescue of Sri Lankans trafficked to Myanmar with IOM Mission Chief
+
+*2024-11-02 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103108/pm-discusses-rescue-of-sri-lankans-trafficked-to-myanmar-with-iom-mission-chief) · `en`
+
+Prime Minister Dr. Harini Amarasuriya has met with Ms. Kristin B. Parco, Chief of Mission of the International Organization for Migration (IOM), during a courtesy call at the Prime Minister’s Office today (02).
+
+During the meeting, enhancing cyber security measures to combat cyber fraud, rescue of Sri Lankan nationals trafficked to Myanmar, were discussed, according to the Prime Minister’s Office.
+
+The meeting was also attended by Ms. Madhavie N. Gunawardena, National Research and Partnership Officer, Ms. Minoli P. Don, Head of the Protection Unit, as well as Mr. Pradeep Saputhanthri, Secretary to the Prime Minister, and Ms. Dayani Mendis, Director General of United Nations and Human Rights, from the Ministry of Foreign Affairs.
+
+◼️
+
+[Data](articles/00c1f355.json)
+
+[Extended Data](ext_articles/00c1f355.ext.json)
 
 ---
 
@@ -2307,27 +2325,5 @@ It is a problem to provide a stable solution during the election period for the 
 [Data](articles/59a8a32d.json)
 
 [Extended Data](ext_articles/59a8a32d.ext.json)
-
----
-
-### Accident in Nuwara Eliya - One death
-
-*2024-11-01 22:56:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கோர-விபத்து-ஒருவர்-மரணம்/76-346429) · `ta`
-
-Nuwara Eliya: Van-lorry collision kills one, injures 19. Accident occurred at 6:50 PM on Radella branch road. Injured taken to Nuwara Eliya Hospital.
-
-🟩
-
-A man was killed in a vehicle accident at a Nuwara Eliya - Radella branch road at around 06.50 pm today.
-
-The accident occurred when a van and a lorry collided face -to -face.
-
-It is reported that 19 people were injured in the accident and the injured were admitted to the Nuwara Eliya Hospital.. Remble
-
-◼️
-
-[Data](articles/dd917005.json)
-
-[Extended Data](ext_articles/dd917005.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 08:01:16**
+As of **2024-11-02 08:49:07**
 
 ## Newspaper Stats
 
-*Scraped **52,625** Articles*
+*Scraped **52,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,154 @@ dbsjeyarajcom | 415
 colombotelegraphcom | 536
 bbccomsinhala | 540
 islandlk | 3,140
-economynextcom | 3,196
+economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,897
-adaderanalk | 6,249
-tamilmirrorlk | 7,298
+adaderanalk | 6,252
+tamilmirrorlk | 7,300
 virakesarilk | 8,491
-adaderanasinhalalk | 9,163
+adaderanasinhalalk | 9,165
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,624 (100.0%) of 52,625 articles have been extended.
+52,631 (100.0%) of 52,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Serbian railway station roof collapse in Novi Sad leaves 14 dead
+
+*2024-11-02 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103099/serbian-railway-station-roof-collapse-in-novi-sad-leaves-14-dead) · `en`
+
+Rescue workers scoured piles of concrete and twisted metal for survivors on Friday after a roof collapsed at the entrance of a railway station in the Serbian city of Novi Sad, killing 14 people.
+
+Cranes and bulldozers helped sift through the wreckage alongside dozens of rescuers and construction workers, while medical staff and ambulances waited nearby.
+
+The collapse of a 35-metre (115-foot) length of roofing occurred at noon (1100 GMT) on a sunny day in the city about 70 km (40 miles) northwest of the capital, Belgrade.
+
+Bodies were pulled from the rubble throughout the afternoon and into evening.
+
+“Our windows were open as it was warm outside and I heard a huge rumble and saw a plume of dust, that’s all I saw. Later I heard what happened,” said Vera, an 86-year-old pensioner who lives about 200 meters (yards) away.
+
+...
+
+[Data](articles/fc7e33c8.json)
+
+---
+
+### Sri Lanka is a decisive match in Hong Kong Sixast
+
+*2024-11-02 08:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202820) · `si`
+
+Sri Lanka vs Nepal match summary: Sri Lanka qualifies from D group, defeating Bangladesh and Oman. Nepal wins against Australia, beating England too. Semi-final match between them starts at 1:20 PM.
+
+🟩
+
+The Sri Lankan team is to be played against Nepal today (2) against Nepal.
+
+All the matches of the Sri Lankan team played the preliminary round.
+
+However, the Nepal Group, who played the 'B', was the key to the main round.
+
+Nepal managed to win the match against Australia this morning.
+
+The tournament commenced yesterday, Sri Lanka played the 'D' category, where they defeated Bangladesh and Oman and qualified for the semi final.
+
+Nepal is also an impressive group, and they have defeated England in addition to Australia.
+
+Sri Lanka and Nepali match in semi-finals. Is to begin at 1.20.
+
+◼️
+
+[Data](articles/135606d6.json)
+
+[Extended Data](ext_articles/135606d6.ext.json)
+
+---
+
+### Doctors launch token strike at Karapitiya Teaching Hospital
+
+*2024-11-02 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103098/doctors-launch-token-strike-at-karapitiya-teaching-hospital) · `en`
+
+Doctors at the Karapitiya Teaching Hospital in Galle have commenced a 24-hour token strike, according to the Government Medical Officers’ Association (GMOA).
+
+GMOA Treasurer Dr. Ubhaya Bandara Warakagoda stated that the strike was initiated in protest over threats made by a doctor against several other doctors of the hospital.
+
+◼️
+
+[Data](articles/b52f81d9.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-11-02 07:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103097/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says the  atmospheric conditions are favorable for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night. Showers or thundershowers may occur over the coastal areas of Western, Southern North-western and Northern provinces during the morning too.
+
+Heavy showers above 100 mm are likely at some places in Central, Sabaragamuwa, Uva and North-central provinces, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/e760d562.json)
+
+[Extended Data](ext_articles/e760d562.ext.json)
+
+---
+
+### The leading to take the lead 6 seats
+
+*2024-11-02 07:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-ஆசனங்களையும்-முன்னணி-கைப்பற்ற-வேண்டும்/175-346435) · `ta`
+
+Tamil National People's Front aims to win 6 seats in Jaffna district. Leader Gajendrakumar Ponnambalam requests support for his party and family members in upcoming election.
+
+🟩
+
+Selvarasa Gajendran, general secretary of the Tamil National People's Front (TNA), said that our team should capture six seats in the Jaffna electoral district headed by Gajendrakumar Ponnambalam.
+
+Give a chance to the team led by our leader Gajendrakumar Ponnambalam this time. Jaffna (Jaffna. - Kilinochchi) I warmly request our people to give our people the most preferential votes in the electoral district to Ponnambalam.
+
+Gajendrakumar Ponnambalam, who is contesting the bicycle symbol of the All Ceylon Tamil Congress Party. My preference No. 09 as Gajendra. The third preferential vote can be given to someone you want in our team.
+
+Our team should capture six seats in the Jaffna Election District led by Gajendrakumar Ponnambalam. Their family, other relatives. I love to request friends to vote for us too. (A)
+
+◼️
+
+[Data](articles/8db34d0e.json)
+
+[Extended Data](ext_articles/8db34d0e.ext.json)
+
+---
+
+### More than 100 mm
+
+*2024-11-02 07:33:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிகளவான-பலத்த-மழை/175-346434) · `ta`
+
+Heavy rainfall warning: Over 100mm expected in central, southern provinces. Lightning risk across the country.
+
+🟩
+
+The Department of Meteorology has predicted more than 100 millimeters of heavy rainfall in different parts of the country today.
+
+Accordingly, heavy rainfall is expected in some parts of the Central, Sabaragamuwa, Uva and North Central Provinces.
+
+Meanwhile, the Department of Meteorology has predicted that the impact of lightning has been warned of many parts of the country.. (A)
+
+◼️
+
+[Data](articles/9bd2cd6f.json)
+
+[Extended Data](ext_articles/9bd2cd6f.ext.json)
+
+---
 
 ### Election Complaint: 191 arrested
 
@@ -79,6 +209,26 @@ Meanwhile, the Ministry of Health has also decided to implement a special measle
 [Data](articles/0ddb76d3.json)
 
 [Extended Data](ext_articles/0ddb76d3.ext.json)
+
+---
+
+### Doctors at Karapitiya Hospital on symbol strike
+
+*2024-11-02 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202819) · `si`
+
+Doctors at Karapitiya Hospital launch 24-hour strike due to threats from hospital management. The Government Medical Officers' Association claims this action affects patient care.
+
+🟩
+
+The Government Medical Officers' Association (GMOA) says doctors have launched a 24-hour code strike in Galle Teaching Hospital.
+
+The Treasurer's Treasurer Medical Treasury Medical Treasurer Way Bandara Warakaragoda said that the program had taken over the threats to several doctors in the Karapitiya Teaching Hospital.
+
+◼️
+
+[Data](articles/bc3c06be.json)
+
+[Extended Data](ext_articles/bc3c06be.ext.json)
 
 ---
 
@@ -153,6 +303,24 @@ The department also requests to take necessary steps to minimize the damages cau
 [Data](articles/4dcedc56.json)
 
 [Extended Data](ext_articles/4dcedc56.ext.json)
+
+---
+
+### Sri Lanka’s October tourist arrivals up despite US-led travel advisories
+
+*2024-11-02 06:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-october-tourist-arrivals-up-despite-us-led-travel-advisories-185881/) · `en`
+
+ECONOMYNEXT – Tourist arrivals to Sri Lanka has remained higher in the last eight days of October compared to last year, the official government data showed, despite the U.S. Embassy in Colombo and six other foreign missions issued travel advisories over a potential attack on a tourism hot spot in the island nation’s Eastern coast of Arugam Bay.
+
+Foreign visitors to the country recorded a 35 percent gain in the last eight days of October this year to 37,287, compared to 27,649 in the same time period in 2023, the state-run Tourism Research and Statistics website showed.
+
+On October 23, the United States embassy asked its nationals to avoid Arugam Bay, a popular tourist destination, saying there is credible information of an attack. Later, Australia, Israel, Russia, New Zealand, Canada, and the United Kingdom followed the suit.
+
+...
+
+[Data](articles/e93ae72d.json)
+
+[Extended Data](ext_articles/e93ae72d.ext.json)
 
 ---
 
@@ -1053,6 +1221,8 @@ Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan eli
 ...
 
 [Data](articles/6ed48f0e.json)
+
+[Extended Data](ext_articles/6ed48f0e.ext.json)
 
 ---
 
@@ -2163,189 +2333,5 @@ Both the suspects are 18 and 20 years old from the estate and Ragama areas.
 [Data](articles/94fd8e9a.json)
 
 [Extended Data](ext_articles/94fd8e9a.ext.json)
-
----
-
-### Sri Lanka’s pig farms urged to register as African swine fever spreads
-
-*2024-11-01 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103085/sri-lankas-pig-farms-urged-to-register-as-african-swine-fever-spreads) · `en`
-
-Sri Lanka’s Department of Animal Production and Health has requested the owners of pig farms across the island to visit the nearest veterinary office in order to register their farms.
-
-This request follows reports that pigs in certain pig farms in the country have contracted African swine fever for the first time.
-
-The Director of the Western Province Animal Production and Health Department, K.K. Sarath, stated that African swine fever cases have been reported in the Western Province, Uva, Northern, and North Western provinces.
-
-◼️
-
-[Data](articles/f489be9c.json)
-
-[Extended Data](ext_articles/f489be9c.ext.json)
-
----
-
-### One arrested with heroin in Kalkissa
-
-*2024-11-01 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197632) · `ta`
-
-Kalkissa police arrest heroin dealer near railway station. 13 grams of ice drug seized. Suspect from Ratmalana handed over for investigation.
-
-🟩
-
-கல்கிஸ்ஸை பொலிஸ் பிரிவுக்குட்பட்ட ,  இரத்மலானை புகையிரத நிலையத்திற்கு அருகில் , ஐஸ் போதைப்பொருளுடன் ஒருவர் நேற்று வியாழக்கிழமை (31) செய்யப்பட்டுள்ளார்.
-
-He was arrested during a raid carried out on the basis of confidential information received by the Criminal Investigation Department officials.
-
-The suspect and the arrested suspect belongs to the 31 -year -old Ratmalana area.
-
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து , 13 கிராம் 100 மில்லிகிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-Meanwhile, the suspect has been handed over to Kalkiss for further investigations.
-
-◼️
-
-[Data](articles/ef8b7bd1.json)
-
-[Extended Data](ext_articles/ef8b7bd1.ext.json)
-
----
-
-### Grandpass shooting - main gunman arrested
-
-*2024-11-01 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197623) · `ta`
-
-Colombo Crime Branch arrests 31-year-old gunman in Grandpass shooting case. Suspect linked to drug trafficking and international crimes. Investigation ongoing.
-
-🟩
-
-A chief gunman has been arrested by the Colombo Crime Branch yesterday (31) in connection with the shooting that took place in front of the Madhampitti cemetery belonging to the Colombo and Grandpass Police Division.
-
-The arrested suspect is a 31 -year -old from Hendala, Wattala.
-
-On the 16th of last month, some unidentified persons who went in the car in front of the Grandpass Police Division, which belongs to the Grandpass police division, shot dead a man who was traveling in a three -wheeler.
-
-இதனையடுத்து பொலிஸாரால் மேற்கொள்ளப்பட்ட விசாரணையில் துபாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்ட காரின் சாரதி கடந்த 28 ஆம் திகதி பொலிஸாரால் கைது செய்யப்பட்டார்.
-
-Subsequently, the main gunman was arrested yesterday in connection with the shooting in an investigation into the suspect's car driver.
-
-...
-
-[Data](articles/2bd38102.json)
-
-[Extended Data](ext_articles/2bd38102.ext.json)
-
----
-
-### ඇෆ්ගන් කතුන්ට තවත් තහනමක්
-
-*2024-11-01 12:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202799) · `si`
-
-Taliban bans women from speaking publicly in Afghanistan. New law prohibits reciting Quran in front of other women. Restrictions tighten control over female voices.
-
-🟩
-
-The Taliban of Afghanistan has controlled the women to ban women as he can hear their voice.
-
-Previously, leaders had banned to speak to a man before he was banned by the new law.
-
-කාන්තාවන්ගේ කටහඩ ප්‍රසිද්ධ ස්ථානවල දී තවත් කාන්තාවකට ශ්‍රවණය නොවිය යුතු බව තලෙයිබාන් පාලනයේ මතයයි.
-
-Accordingly, the law is prohibited by reading the Qur'an in front of another woman to Afghanistan women.
-
-◼️
-
-[Data](articles/5a590d6d.json)
-
-[Extended Data](ext_articles/5a590d6d.ext.json)
-
----
-
-### Singapore to keep appreciating currency to cut inflation as Sri Lanka sees 12-month deflation
-
-*2024-11-01 12:33:00* · [`economynextcom`](https://economynext.com/singapore-to-keep-appreciating-currency-to-cut-inflation-as-sri-lanka-sees-12-month-deflation-185834/) · `en`
-
-ECONOMYNEXT – The Monetary Authority of Singapore said it will keep appreciating the Sing dollar to bring inflation down, while warning that an external downturn can abruptly bring the price index down.
-
-The MAS appreciates the currency (usually when the Fed prints money and creates inflation) along a nominal effective exchange rate band (NEER) managing to keep inflation at 2 percent or lower and interest rates that of the US.
-
-MAS said it core inflation (which includes food and energy but not accommodation and personal transport – due to complications like penalty fees), has started to ease and will fall to 2 percent by end 2024.
-
-“CPI-All Items inflation is forecast to average 1.5–2.5 percent as well in 2025,” the MAS said in its most recent monetary policy statement.
-
-“Accommodation inflation should slow as leasing demand falls, partly offsetting an anticipated pickup in private transport inflation amid still-firm car purchases.
-
-...
-
-[Data](articles/60cf66c8.json)
-
-[Extended Data](ext_articles/60cf66c8.ext.json)
-
----
-
-### Colombo HC grants additional bail to ex-minister Johnston Fernando
-
-*2024-11-01 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103084/colombo-hc-grants-additional-bail-to-ex-minister-johnston-fernando) · `en`
-
-The Colombo High Court today (01) ordered to recall the warrant issued against former Minister Johnston Fernando, for failure to appear before the court in a case filed by the Bribery Commission, and ordered to release him on additional bail.
-
-The case was heard before Colombo High Court Judge Manjula Thilakaratne.
-
-President’s Counsel Kalinga Indatissa, representing Johnston Fernando, stated that on the October 23, when the case was called, the defendant did not appear in court but instead went to give a statement to the Criminal Investigation Department (CID) regarding the unregistered luxury car allegedly belonging to him, which was found parked at a star-class hotel in Colombo.
-
-However, the judge expressed dissatisfaction with the facts presented by the defence and ordered that he be granted additional bail.
-
-Accordingly, the judge released Johnston Fernando on a cash bail of Rs. 25,000 and a personal surety of Rs. 1 million, ordering his release after posting the additional bail.
-
-...
-
-[Data](articles/b8bf9a74.json)
-
-[Extended Data](ext_articles/b8bf9a74.ext.json)
-
----
-
-### සෘත සෘතුවට සූරිච් සිට ලංකාවට නව ගුවන් සේවයක්
-
-*2024-11-01 12:17:11* · [`adalk`](https://www.ada.lk/picture_story/සෘත-සෘතුවට-සූරිච්-සිට-ලංකාවට-නව-ගුවන්-සේවයක්/10-412792) · `si`
-
-Sri Lanka's new air service: Airwayis operates weekly flights between Surich and Katunayake airports, starting January 11, 2023.
-
-🟩
-
-With the end of winter, the first plane arrived at the Katunayake airport on 11/01.
-
-මෙම ගුවන් ගමන සදහා ඊඩ්ල්වයිස් ගුවන් සේවය විසින් එයාර් බස් ඒ. The Katunayake Airport authorities had taken steps to admit water ethics and accepting water ethics.
-
-The aircraft was 171 passengers in the aircraft and 251 passengers in the aircraft.
-
-සුරීච් නුවර සිට ඍජු ගුවන් ගමනක යෙදෙමින් සතියේ සෑම සිකුරාදා දිනකම කටුනායක ගුවන් තොටුපොළ වෙත පැමිණෙන මෙම යානය එදිනම උදෑසන 10.05 ට මාළදිවයින මාළේ නුවර ඔස්සේ ආපසු සූරීච් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව යාමට නියමිතය .
-
-The aircraft will arrive at the Katunayake Airport from Suriyapitiya, two days, Friday and Sundays, on January 2025.
-
-එසේම මෙම ශීත ඍතු ගුවන් සේවයේ ගුවන් යානා  2025 වසරේ මැයි මාසය තෙක් ක්‍රියාත්මක කිරීමට නියමිතය .
-
-◼️
-
-[Data](articles/3d824776.json)
-
-[Extended Data](ext_articles/3d824776.ext.json)
-
----
-
-### The full story of the fatal bus accident that killed two students
-
-*2024-11-01 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202798) · `si`
-
-Fatal bus accident kills two students in Badulla-Dunhindu area. Incident occurred today at Southern Defense University.
-
-🟩
-
-Two students of the Southern Defense University killed in the Badulla-Dunhindu area today (01).
-
-◼️
-
-[Data](articles/6b621555.json)
-
-[Extended Data](ext_articles/6b621555.ext.json)
 
 ---

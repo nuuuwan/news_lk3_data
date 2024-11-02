@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 14:11:58**
+As of **2024-11-02 14:58:32**
 
 ## Newspaper Stats
 
-*Scraped **52,663** Articles*
+*Scraped **52,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,109 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,903
 adaderanalk | 6,256
-tamilmirrorlk | 7,307
+tamilmirrorlk | 7,309
 virakesarilk | 8,498
-adaderanasinhalalk | 9,171
+adaderanasinhalalk | 9,172
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,662 (100.0%) of 52,663 articles have been extended.
+52,666 (100.0%) of 52,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
 
-### බන්ධනාගාර රෝහලේ ඉන්න ලොහාන්ට විශේෂ ආරක්ෂාවක්
+### Sudden illness for Lohan Ratwatta
+
+*2024-11-02 14:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவுக்கு-திடீர்-சுகவீனம்/175-346446) · `ta`
+
+Lohan Ratwatta, former Sri Lankan State Minister, hospitalized after arrest for luxury car theft. Magistrate allows transfer to prison hospital for medical care.
+
+🟩
+
+Former State Minister Lohan Ratwatta has been sick for the arrest and interrogation of the luxury car as spare parts.
+
+The Magistrate has granted permission for Ratwatta to be transferred to the Prison Hospital for medical treatment.R
+
+◼️
+
+[Data](articles/524b2ac7.json)
+
+[Extended Data](ext_articles/524b2ac7.ext.json)
+
+---
+
+### August attack plan;More and more arrests
+
+*2024-11-02 14:25:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-தாக்குதல்-திட்டம்-மேலும்-பலர்-கைது/175-346445) · `ta`
+
+Arukambe terror plot: 6 arrests, including Maldivian citizen, announced by Public Security Minister Vijitha Herath.
+
+🟩
+
+More and more people have been arrested in connection with the plan to launch a terrorist attack in the Arukambe area.
+
+According to the Public Security Minister Vijitha Herath, six people, including the Maldivian citizen, have been arrested by the Terrorist Investigation Division.
+
+◼️
+
+[Data](articles/08082a27.json)
+
+[Extended Data](ext_articles/08082a27.ext.json)
+
+---
+
+### Strike on Karapitiya National Hospital
+
+*2024-11-02 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202830) · `si`
+
+Karapitiya Hospital strike summary: Doctors' symbolic work stoppage ended after 24 hours. Threats against cancer ward doctor led to temporary abandonment. All specialists and government medical officers participated, affecting patient care.
+
+🟩
+
+Doctors at Karapitiya National Hospital yesterday (01). 5 සිට පැය 24ක කාලයක් සඳහා ක්‍රියාත්මක කර තිබූ සංකේත වැඩ වර්ජනය අවසන් කර තිබේ.
+
+The strike continued to threaten several other doctors at the hospital, saying that the candid doctor in charge of the Cancer Ward was threatened.
+
+However, the strike has been temporarily abandoned after a discussion with the Director of the Karapitiya Hospital today (2).
+
+However, strike states say that the doctor is not taken regarding the doctor.
+
+All specialists at the Karapitiya Hospital and all the doctors of the Government Medical Officers Association joined the strike, resulting in clinical treatment.
+
+◼️
+
+[Data](articles/8ca84874.json)
+
+[Extended Data](ext_articles/8ca84874.ext.json)
+
+---
+
+### Lohan in prison in the hospital
 
 *2024-11-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202829) · `si`
 
-අසනීප තත්ත්වයක් හේතුවෙන් බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහාතාට විශේෂ ආරක්ෂාවක් ලබාදීමට තීරණය කර තිබේ.
+Former State Minister Lohan Ratwatte hospitalized in prison after arrest for luxury car theft. Remanded until July 7th. Wife summoned by police.
 
-බන්ධානාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී දිසානායක මහතා පවසා සිටියේ, ලොහාන් රත්වත්තේ මහතා බන්ධනාගාර භාර හිටපු රාජ්‍ය අමාත්‍යවරයා බැවින් අධිකරණ නියෝගයන්ට අනුව මෙම විශේෂ ආරක්ෂාවක් ලබාදී ඇති බවයි.
+🟩
 
-නීතිවිරෝධී ලෙස එකලස් කරන ලද සුඛෝපභෝගී මෝටර් රථයක් පරිහරණය කිරීමේ සිද්ධියට ලොහාන් රත්වත්තේ මහතා මහනුවර - කටුගස්තොට ප්‍රදේශයේදී පසුගිය 31 වනදා මිරිහාන පොලිසිය මගින් අත්අඩංගුවට ගනු ලැබීය.
+Former State Minister Lohan Ratwatte has been admitted to the Prison Hospital due to illness.
 
-පසුව ඔහු ගංගොඩවිල අතිරේක මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මේ මස 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
+Bandakara Media Spokesperson Prison Spokesperson Hon.
 
-මේ අතර අදාල සුඛෝපභෝගී මෝටර් රථය සම්බන්ධයෙන් රත්වත්තේ මහතාගේ බිරිඳටද මිරිහාන පොලිසියට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙසට මේ වනවිට දැනුම්දී තිබේ.
+Mr. Batua Ratwatte was arrested by the Mirihana Police on the 31st of the Kandy-Katugastota area in Kandy.
+
+Later, he was produced before the Gangodawila Additional Magistrate and remanded until the 7th of this month.
+
+Meanwhile, the wife of Ratwatte is also informed to come to the Mirihana Police regarding the luxury car.
 
 ◼️
 
 [Data](articles/129dfb38.json)
+
+[Extended Data](ext_articles/129dfb38.ext.json)
 
 ---
 
@@ -2253,85 +2325,5 @@ The tournament will be held from December 12 to 22nd December 12th to 22nd Decem
 [Data](articles/80c13dc5.json)
 
 [Extended Data](ext_articles/80c13dc5.ext.json)
-
----
-
-### ரணிலின் பொருளாதார கொள்கையையே ஜனாதிபதி அநுர தொடர்கிறார் - நாமல் குற்றச்சாட்டு
-
-*2024-11-01 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197651) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka President Anura Kumara Dissanayake criticizes Ranil Wickremesinghe's unchanged economic policies, citing negative impact on middle class.
-
-🟩
-
-President Anura Kumara Dissanayake has said that the economic policy of former President Ranil Wickremesinghe continues to change without any change.
-
-ஆட்சிமாற்றத்தை ஏற்படுத்திய மக்கள் ஏமாற்றமடைந்துள்ளார்கள் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்தார்.
-
-Speaking at a meeting of the Sri Lanka Peoples Freedom Alliance (PA) organizer in Colombo on Friday (01).
-
-அரசியல் ரீதியில் பல சவால்களை எதிர்கொண்டுள்ளோம். Those who were with us during the presidential election left us for narrow political needs. அவ்வாறு சென்றவர்கள் இன்று அரசியலில் பாரிய நெருக்கடிகளை எதிர்கொண்டுள்ளார்கள்.
-
-ஆகவே பாராளுமன்றத்தில் பிரதான எதிர்க்கட்சி பதவியை பொதுஜன பெரமுனவுக்கு வழங்குவார்கள் என்ற நம்பிக்கை உள்ளது.
-
-ஜனாதிபதி அநுரகுமார திசாநாயக்க 1994 ஆம் ஆண்டுக்கு பின்னர் ஆட்சியில் இருந்த அனைத்து அரசாங்கங்களையும் விமர்சித்தார். ஆகவே இம்முறை அவர் அரசாங்கத்தை நிர்வகிக்கட்டும். He knows that it is difficult to say then.
-
-...
-
-[Data](articles/3c9206ad.json)
-
-[Extended Data](ext_articles/3c9206ad.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger below at 293 to dollar, bonds flat
-
-*2024-11-01 16:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-below-at-293-to-dollar-bonds-flat-185862/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted around 292.95/293.00 to the US dollar Friday stronger from 293.00/20 to the US dollar on Wednesday dealers said, while bond yields were flat.
-
-Market activity was dull due to a long weekend, dealers said.
-
-A bond maturing on 15.12.2026 closed at 10.65/85 from Wednesday’s close of 10.60/80 percent.
-
-A bond maturing on 15.12.2027 closed at 10.45/55 from down from 11.45/60 percent.
-
-A bond maturing on 15.03.2028 closed at 11.72/82 was quoted 11.70/80 percent down from 11.75/80 percent.
-
-A bond maturing on 15.06.2029 closed at 11.95/12.05 percent unchanged from 11.95/12.10 percent. (Colombo/Oct30/2024)
-
-◼️
-
-[Data](articles/cea24984.json)
-
-[Extended Data](ext_articles/cea24984.ext.json)
-
----
-
-### Sri Lanka ‘s Teejay says getting China+1 orders, shift from Bangladesh
-
-*2024-11-01 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-s-teejay-says-getting-china1-orders-shift-from-bangladesh-185858/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Teejay Lanka Plc said net profits for the September 2024 quarter fell 20 percent to 756 million rupees, despite the firm getting more orders from China Plus One strategy of companies.
-
-The group reported earnings of 1.05 rupees per share for the quarter, and 1.27 rupees for the six months to September on total profits of 914 million rupees.
-
-Teejay said there was a “significant shift of orders to the Asian region due to the China One Plus strategy.”
-
-Orders were also shifting to India and Sri Lanka from Bangladesh.
-
-Teejay group revenue rose 11 percent to 17.2 billion rupees, cost of sales went up 13 percent and gross profit rose 1 percent to 1,908 million rupees.
-
-There were impairment gains of 193 million rupees, up from 75.3 billion rupees.
-
-◼️
-
-[Data](articles/0d349421.json)
-
-[Extended Data](ext_articles/0d349421.ext.json)
 
 ---

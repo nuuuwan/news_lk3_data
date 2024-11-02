@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 09:59:24**
+As of **2024-11-02 10:12:52**
 
 ## Newspaper Stats
 
-*Scraped **52,641** Articles*
+*Scraped **52,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 4,899
 adaderanalk | 6,253
 tamilmirrorlk | 7,302
 virakesarilk | 8,493
-adaderanasinhalalk | 9,166
+adaderanasinhalalk | 9,167
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,641 (100.0%) of 52,641 articles have been extended.
+52,642 (100.0%) of 52,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Lohan Ratwatte to be arrested
+
+*2024-11-02 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202822) · `si`
+
+Former Sri Lankan State Minister Lohan Ratwatte arrested, remanded, hospitalized after arrest.
+
+🟩
+
+Former State Minister Lohan Ratwatte, who was arrested and remanded, has been shifted to the prison hospital.
+
+මිරිහාන පොලීසිය මගින් ලොහාන් රත්වත්තේ මහතා ඉකුත් 31වනදා මහනුවර, කටුගස්තොට ප්‍රදේශයේදී අත්අඩංගුවට ගනු ලැබීය.
+
+Later that night, the night was brought to the Acting Magistrate to the Atmosion of Nugegoda and was ordered to be remanded until November 7.
+
+However, the Nugegoda Acting Magistrate was permitted to visit the Prison Hospital for treatment.
+
+◼️
+
+[Data](articles/45ae0daf.json)
+
+[Extended Data](ext_articles/45ae0daf.ext.json)
+
+---
 
 ### Will MP get rid of the feast?
 
@@ -2297,33 +2321,5 @@ Gotabhaya Rajapaksa emphasizes representing people in Parliament. He criticizes 
 [Data](articles/f9a01c01.json)
 
 [Extended Data](ext_articles/f9a01c01.ext.json)
-
----
-
-### When the people fall into trouble, we do not escape - Dilith
-
-*2024-11-01 13:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202802) · `si`
-
-Dilith Jayaweera addresses Kelaniya electorate, emphasizes need for courageous opposition.
-
-🟩
-
-Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that his group is ready to fulfill the responsibilities of the real opposition.
-
-He was addressing the Kelaniya Seathouse Board in the universal power.
-
-The Kelaniya electorate, the Kelaniya electorate, was held under the patronage of party leader Dilith Jayaweera yesterday.
-
-Leader of the Universal Point, Gampaha District Candidate, Entrepreneurship Dilith Jayaweera,
-
-"In 51 if there was any political interpretation in Sri Lanka,. The 51k Convertance to the 56 Revolution 51 K. That was the reincarnation of the universal power. The universal power of the leadership standing for you .... The next door does not escape.. As well as you go in front of this trip. That's our leadership. "
-
-"We want the opposition. The bus is not the opposition. This is the courageous opposition. The bold opposition is not in the opposition. The power comes to dare. Not from the leg. "
-
-◼️
-
-[Data](articles/c77e02be.json)
-
-[Extended Data](ext_articles/c77e02be.ext.json)
 
 ---

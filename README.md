@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 13:59:49**
+As of **2024-11-02 14:11:58**
 
 ## Newspaper Stats
 
-*Scraped **52,662** Articles*
+*Scraped **52,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 4,903
 adaderanalk | 6,256
 tamilmirrorlk | 7,307
 virakesarilk | 8,498
-adaderanasinhalalk | 9,170
+adaderanasinhalalk | 9,171
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,661 (100.0%) of 52,662 articles have been extended.
+52,662 (100.0%) of 52,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### බන්ධනාගාර රෝහලේ ඉන්න ලොහාන්ට විශේෂ ආරක්ෂාවක්
+
+*2024-11-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202829) · `si`
+
+අසනීප තත්ත්වයක් හේතුවෙන් බන්ධනාගාර රෝහලට ඇතුළත් කර සිටින හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහාතාට විශේෂ ආරක්ෂාවක් ලබාදීමට තීරණය කර තිබේ.
+
+බන්ධානාර මාධ්‍ය ප්‍රකාශක බන්ධනාගාර කොමසාරිස් ගාමිණි බී දිසානායක මහතා පවසා සිටියේ, ලොහාන් රත්වත්තේ මහතා බන්ධනාගාර භාර හිටපු රාජ්‍ය අමාත්‍යවරයා බැවින් අධිකරණ නියෝගයන්ට අනුව මෙම විශේෂ ආරක්ෂාවක් ලබාදී ඇති බවයි.
+
+නීතිවිරෝධී ලෙස එකලස් කරන ලද සුඛෝපභෝගී මෝටර් රථයක් පරිහරණය කිරීමේ සිද්ධියට ලොහාන් රත්වත්තේ මහතා මහනුවර - කටුගස්තොට ප්‍රදේශයේදී පසුගිය 31 වනදා මිරිහාන පොලිසිය මගින් අත්අඩංගුවට ගනු ලැබීය.
+
+පසුව ඔහු ගංගොඩවිල අතිරේක මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව මේ මස 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
+
+මේ අතර අදාල සුඛෝපභෝගී මෝටර් රථය සම්බන්ධයෙන් රත්වත්තේ මහතාගේ බිරිඳටද මිරිහාන පොලිසියට පැමිණ ප්‍රකාශයක් ලබාදෙන ලෙසට මේ වනවිට දැනුම්දී තිබේ.
+
+◼️
+
+[Data](articles/129dfb38.json)
+
+---
 
 ### Badulla bus accident: injured KDU students out of danger
 
@@ -47,6 +67,8 @@ Providing an update on their condition, he reported that the conditions of all h
 ...
 
 [Data](articles/7266b91c.json)
+
+[Extended Data](ext_articles/7266b91c.ext.json)
 
 ---
 
@@ -2311,29 +2333,5 @@ There were impairment gains of 193 million rupees, up from 75.3 billion rupees.
 [Data](articles/0d349421.json)
 
 [Extended Data](ext_articles/0d349421.ext.json)
-
----
-
-### International stage inquiries regarding Rajapaksas are essential
-
-*2024-11-01 16:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197645) · `ta`
-
-Pierre Bolivar urges international investigation into Rajapaksa regime's Tamil rights abuses. He criticizes previous Sri Lankan government's violations during Commonwealth conference.
-
-🟩
-
-Canada's Conservative Party leader Pierre Bolivr, who has pointed out that he should voice his voice against the violations of the Sri Lankan government on Tamils, urged the international stage investigations into the international stage.
-
-In response to a question raised by the newly elected President Anura Kumara Dissanayake, the newly elected presidential election in Sri Lanka, Bierre Bolivir has insisted in response to a question raised by the United Nations Human Rights Council (UNHRC).
-
-“We must voice their voice against the human rights violations of the Sri Lankan government on the Tamil people. We should investigate the Rajapaksas on the international stage, ”he said.
-
-The Conservative Party, Pierre Bolivar, has said that the first -time Commonwealth Conference in Colombo has been exposed to the violations of the past government. Dhaka mentioned.
-
-◼️
-
-[Data](articles/a390067e.json)
-
-[Extended Data](ext_articles/a390067e.ext.json)
 
 ---

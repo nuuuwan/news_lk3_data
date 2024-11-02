@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 09:40:23**
+As of **2024-11-02 09:59:24**
 
 ## Newspaper Stats
 
-*Scraped **52,635** Articles*
+*Scraped **52,641** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,898
-adaderanalk | 6,252
-tamilmirrorlk | 7,300
-virakesarilk | 8,491
+adalk | 4,899
+adaderanalk | 6,253
+tamilmirrorlk | 7,302
+virakesarilk | 8,493
 adaderanasinhalalk | 9,166
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,635 (100.0%) of 52,635 articles have been extended.
+52,641 (100.0%) of 52,641 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Will MP get rid of the feast?
+
+*2024-11-02 09:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விருந்து-கொடுத்தால்-எம்-பி-பதவி-பறிபோகும்/150-346437) · `ta`
+
+MPs may lose seats due to election violations. Organizations claim nominees' positions could be cancelled in court. This practice is seen as unfair to other candidates without resources. The Election Commission has warned hotels against hosting voter entertainment events.
+
+🟩
+
+Election monitoring organizations have said that if the people and supporters are nominated as MPs, the MPs will be announced in the Supreme Court and their MP posts will be canceled.
+
+“There have been incidents of the abolition of the posts of MPs to entertain voters.
+
+“This is a violation of the election law and that it is a serious injustice inflicted on other candidates who do not have money.
+
+The Election Commission has recently sent a letter to several major hotels to avoid providing their hotels to the election candidates to entertain voters.
+
+A spokesman for the Surveillance Organization said that the party would even lead to the cancellation of the post of the councilor of the concerned councilor.
+
+◼️
+
+[Data](articles/398fffe3.json)
+
+[Extended Data](ext_articles/398fffe3.ext.json)
+
+---
+
+### Labor registration pause going to Lebanon
+
+*2024-11-02 09:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானுக்கு-செல்லும்-தொழிலாளர்-பதிவு-இடைநிறுத்தம்/175-346436) · `ta`
+
+Sri Lanka suspends labor registration for Lebanon due to ongoing conflicts. Foreign Employment Bureau advises citizens to avoid travel until situation stabilizes.
+
+🟩
+
+Priyantha Senanayake, General Manager of the Foreign Employment Bureau, said that the employees of the country will not register until the conflicts are resolved in the country.
+
+The Bureau of Foreign Employment has also given a series of instructions to Sri Lankans visiting Lebanon.
+
+◼️
+
+[Data](articles/0a5c320c.json)
+
+[Extended Data](ext_articles/0a5c320c.ext.json)
+
+---
+
+### Suspect arrested at BIA with 76kg of smuggled Cardamom from Dubai
+
+*2024-11-02 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103100/suspect-arrested-at-bia-with-76kg-of-smuggled-cardamom-from-dubai) · `en`
+
+A suspect was arrested with a large consignment of cardamom that had been illegally smuggled into Sri Lanka from Dubai, during a raid conducted by officers from the Airport Police Station at the arrival terminal of Bandaranaike International Airport (BIA) in Katunayake last night (01).
+
+According to the police, the suspect was found in possession of 76 kilograms and 300 grams of cardamom, along with eight mobile phones.
+
+The suspect is a 48-year-old resident of Colombo 12, and the Airport Police is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/021329dd.json)
+
+[Extended Data](ext_articles/021329dd.ext.json)
+
+---
+
+### Doctors on Karapitiya Hospital on strike
+
+*2024-11-02 09:04:03* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ල-කරාපිටිය-රෝහලේ-වෛද්‍යවරුන්-වර්ජනයක/11-412801) · `si`
+
+Karapitiya Hospital doctors strike: 24 members protest over medical issues.
+
+🟩
+
+The doctors of the Karapitiya Teaching Hospital have launched a 24-member strike.
+
+The strike has commenced due to a medical medicine.
+
+◼️
+
+[Data](articles/cd6044c0.json)
+
+[Extended Data](ext_articles/cd6044c0.ext.json)
+
+---
 
 ### One arrested with a stock
 
@@ -534,6 +618,106 @@ The 5 November election, for all its drama, jabs, and entertainment, many feel v
 
 ---
 
+### Accident in Badulla: Two students die - Ministry of Defense
+
+*2024-11-02 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197689) · `ta`
+
+Bus accident in Badulla: 2 students killed, 7 critical injuries. Ministry of Defense provides support for funerals and medical transport. Technical failure caused the crash.
+
+🟩
+
+The Ministry of Defense has issued a notification regarding the incident of a bus accident in the Kotalawala Safety University in Ambakasanthiya area of ​​Tunhinda - Badulla road.
+
+At the time of the accident, 36 students from the 39th text of the Kotalawala Safety College, 03 lecturers, a consultant in charge of the group, a senior military member of the bus and one of the 42 bus drivers.
+
+Two students have died in the accident and two students who died are from Kurunegala and Nivithigala area.
+
+The Ministry of Defense has said that the funeral of the two students has been made to make necessary arrangements under the full sponsor of the Kotalawala Safety University.
+
+According to hospital sources, 40 more people were injured in the accident and seven of them have been admitted to the intensive care unit.
+
+The Defense Ministry further stated in its announcement that arrangements have been made to bring patients to Colombo for further treatment.
+
+...
+
+[Data](articles/16c68939.json)
+
+[Extended Data](ext_articles/16c68939.ext.json)
+
+---
+
+### TNA. Sumanthiran, who joins hands with power
+
+*2024-11-02 03:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197692) · `ta`
+
+Sri Lanka Tamil National Party TNA joins national government after election. President promises Foreign Ministry post and federal constitution. UNP leader opposes, citing concerns about military accountability and human rights resolutions.
+
+🟩
+
+The Sri Lanka Tamil National Party (TNA) will join the national people after the general election. எம். A.. The President has guaranteed the Tamil party to grant the post of Foreign Ministry and to create a new constitution in the federal system.. Is it possible to accommodate these activities against the country?The leader of the Pivithuru Hela Urumaya (UNP) and former MP Udaya Kammanpila said.
+
+He was speaking at a meeting with the organizers of the Sarvana Power in Colombo on Friday (01).
+
+After the general election. It is observed that the Western countries have urged President Anurakumara Dissanayake to join the Tamil parties.
+
+Their political right is to unite with the government of Sri Lanka. We don't oppose it. ஆனால் ஏற்றுக்கொள்ளப்பட்டுள்ள இணக்கப்பாட்டுக்கு விதிக்கப்பட்ட நிபந்தனைகள் என்னவென்பதை ஆராய வேண்டும்.
+
+...
+
+[Data](articles/ec4f007e.json)
+
+[Extended Data](ext_articles/ec4f007e.ext.json)
+
+---
+
+### Digitalization of Power and Power and Power Department;We look forward to the support of India - the President
+
+*2024-11-02 03:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197691) · `ta`
+
+Sri Lanka President Anura Kumara Dissanayake met Indian High Commissioner Santos Jaw. Discussed development projects, bilateral relations, and support for Power Department and digitalization program. Emphasized protecting Sri Lankan fishermen's interests.
+
+🟩
+
+President Anura Kumara Dissanayake has told the Indian High Commissioner to expect India's support for the success of the Power and Power and Power Department in Sri Lanka and the success of the digitalization program.
+
+The meeting between President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santos Jaw was held at the Presidential Secretariat on Friday (01).
+
+During the meeting on the development projects implemented in Sri Lanka under Indian aid, the focus was on the implementation and challenges of the projects and the implementation of those projects.
+
+It was discussed on the importance of further strengthening the long -term bilateral relations between India and Sri Lanka and the need for a long -term solution through the cooperation program by understanding the needs of the two foreign fishermen communities.
+
+...
+
+[Data](articles/7a1d0f92.json)
+
+[Extended Data](ext_articles/7a1d0f92.ext.json)
+
+---
+
+### வேன் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதி விபத்து; ஒருவர் உயிரிழப்பு
+
+*2024-11-02 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197690) · `ta`
+
+Van crashes with lorry on Nuwara Eliya road, 7 injured, 1 dead. Accident likely due to faulty brakes.
+
+🟩
+
+A van traveling from Kalmunai to Nuwara Eliya crashed at around 8 pm on Friday (1).
+
+The accident occurred when a lorry collided with a lorry from the opposite direction of the Hatton - Nuwara Eliya main road.
+
+Seven people have been admitted to the Nuwara Eliya District General Hospital after being injured.
+
+However, one person died in the accident. Police suspect the accident may have been caused by the truck's brake.
+
+◼️
+
+[Data](articles/16f5e8a2.json)
+
+[Extended Data](ext_articles/16f5e8a2.ext.json)
+
+---
+
 ### The Gratiaen Trust collaborates with NYU Abu Dhabi
 
 *2024-11-02 01:20:00* · [`islandlk`](http://island.lk/the-gratiaen-trust-collaborates-with-nyu-abu-dhabi/) · `en`
@@ -616,30 +800,6 @@ Empirically, there exists ONLY two biological sexes. Yet, gender ideology’s De
 
 ---
 
-### வேன் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதி விபத்து; ஒருவர் உயிரிழப்பு
-
-*2024-11-02 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197690) · `ta`
-
-Van crashes with lorry on Nuwara Eliya road, 7 injured, 1 dead. Accident likely due to faulty brakes.
-
-🟩
-
-A van traveling from Kalmunai to Nuwara Eliya crashed at around 8 pm on Friday (1).
-
-The accident occurred when a lorry collided with a lorry from the opposite direction of the Hatton - Nuwara Eliya main road.
-
-Seven people have been admitted to the Nuwara Eliya District General Hospital after being injured.
-
-However, one person died in the accident. Police suspect the accident may have been caused by the truck's brake.
-
-◼️
-
-[Data](articles/16f5e8a2.json)
-
-[Extended Data](ext_articles/16f5e8a2.ext.json)
-
----
-
 ### HSBC Ceylon Literary & Arts Festival announces second edition
 
 *2024-11-02 00:29:00* · [`islandlk`](http://island.lk/hsbc-ceylon-literary-arts-festival-announces-second-edition/) · `en`
@@ -673,34 +833,6 @@ During this campaign year, there are various discourses by political parties and
 ---
 
 ### 2024-11-01 (Friday)
-
-### Accident in Badulla: Two students die - Ministry of Defense
-
-*2024-11-01 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197689) · `ta`
-
-Bus accident in Badulla: 2 students killed, 7 critical injuries. Ministry of Defense provides support for funerals and medical transport. Technical failure caused the crash.
-
-🟩
-
-The Ministry of Defense has issued a notification regarding the incident of a bus accident in the Kotalawala Safety University in Ambakasanthiya area of ​​Tunhinda - Badulla road.
-
-At the time of the accident, 36 students from the 39th text of the Kotalawala Safety College, 03 lecturers, a consultant in charge of the group, a senior military member of the bus and one of the 42 bus drivers.
-
-Two students have died in the accident and two students who died are from Kurunegala and Nivithigala area.
-
-The Ministry of Defense has said that the funeral of the two students has been made to make necessary arrangements under the full sponsor of the Kotalawala Safety University.
-
-According to hospital sources, 40 more people were injured in the accident and seven of them have been admitted to the intensive care unit.
-
-The Defense Ministry further stated in its announcement that arrangements have been made to bring patients to Colombo for further treatment.
-
-...
-
-[Data](articles/16c68939.json)
-
-[Extended Data](ext_articles/16c68939.ext.json)
-
----
 
 ### The demand of the Railway Station Chancellor Association is a problem for the provision of a stable solution during the election - Ministry of Transport
 
@@ -2193,155 +2325,5 @@ Leader of the Universal Point, Gampaha District Candidate, Entrepreneurship Dili
 [Data](articles/c77e02be.json)
 
 [Extended Data](ext_articles/c77e02be.ext.json)
-
----
-
-### Two girls killed in bus accidents in Kotelawala University students
-
-*2024-11-01 13:35:29* · [`adalk`](https://www.ada.lk/breaking_news/කොතලාවල-සරසවි-සිසුන්ගේ-බස්-රථ-අනතුරින්-සිසුවියන්-2ක්-මරුට-39ට-තුවාල/11-412794) · `si`
-
-Two female students killed, 39 injured in bus crash near Kotelawala University. Accident occurred when bus veered off road in Mahiyanganaya area. Injured being treated at Badulla Teaching Hospital. Students from various districts including Ratnapura, Padukka, Avissawella, Alawwa, Kurunegala. Bodies identified at Badulla General Hospital morgue.
-
-🟩
-
-The Badulla Police said that two students were killed and 39 were injured and injured and injured and injured in a shouting bus to the road at the Mahiyanganaya Authority.
-
-Among the injured were three treatrialists, two warnings and two university students and 19 university students.
-
-Hospital sources said that the injured are currently receiving treatment at the Badulla Teaching Unit, Ward 9, 10, 15, "hospital sources said.
-
-The accident had occurred when the students were traveling in Badulla last year at the Ella area in Paliya Pelgahatenna, Passara and then staying in the Puttalam Palgahanna area in Pelgahatenna.
-
-The police said that the bus was suddenly carried out in the Mahiyangana Abigahao Oya 5 earlier in the Mahiyanganaya area in Badulla.
-
-Senior Medical Officer of the South Medical Officer of the Badulla Teaching Hospital, Dr. Palitha Rajapaksa, who was instantly taken to the site, was taken to the Badulla Teaching Hospital with the injuries of the hospital.
-
-...
-
-[Data](articles/988b1a20.json)
-
-[Extended Data](ext_articles/988b1a20.ext.json)
-
----
-
-### There is another owner without any other owner in Kandy
-
-*2024-11-01 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202801) · `si`
-
-Kandy: Luxury car seized near Victoria Park housing complex. No other owners found.
-
-🟩
-
-මහනුවර දිගන වික්ටෝරියා පාක් නිවාස සංකිර්ණයේ නිවසක් අසල නවතා දමා ගොස් තිබූ සුඛෝපභෝගී රථයක් පොලිස් භාරයට ගෙන තිබේ.
-
-◼️
-
-[Data](articles/b32d768d.json)
-
-[Extended Data](ext_articles/b32d768d.ext.json)
-
----
-
-### Who is Hans Wijesuriya who was chasing in a presidential adviser position?
-
-*2024-11-01 13:18:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c14ljp73y7po) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Hans Wijesuriya, a telecommunications expert, was appointed as Sri Lanka's Chief Adviser for Digital Economy. He previously led companies like Dialog and Axiata Group. Wijesuriya holds degrees from Cambridge and Warwick universities and has received awards for his contributions to the industry.
-
-🟩
-
-President Anura Kumara Dissanayake has appointed Dr. Hans Wijesuriya as the Chief Adviser of its Digital Economic.
-
-'Reflecting economic growth, national competitization and benefit to all citizens, the President has made its appointment and commitment to the country, making the appointment and commitment to Sri Lanka, making the appointment of this appointment and the President has issued a statement.The media section says.
-
-Dr. Hans Wijesuriya will lead the Board of Information and Communication Technology Agency (ICTA) to the Board of Information and Communication Technology (ICTA).Available.
-
-Former Government Auditor General PMW. Husband Wijesuriya and Susilla Wijesuriya was born on April 2, 1968.
-
-Hans studied at St. Thomas College, Mount Lavinia, attended several foreign universities for higher education.
-
-SriLankan Airlines: ලංසු තැබූ හේලීස් සමාගමේ දෙදෙනෙක් අධ්‍යක්ෂ මණ්ඩලයට දැමීම ප්‍රශ්නසහගත ඇයි?
-
-...
-
-[Data](articles/069c66e1.json)
-
-[Extended Data](ext_articles/069c66e1.ext.json)
-
----
-
-### A pronouncement of strong lightning
-
-*2024-11-01 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202800) · `si`
-
-Strong lightning warning issued for Puttalam, East, North-Central, Central, North-Central and Northern provinces. Public advised to take precautions against potential damage from thunderstorms.
-
-🟩
-
-The Department of Meteorology says that there is a powerful lightning in the Puttalam, East, North-Central, Central, North-Central and Northern provinces today.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, ගිගුරුම් සහිත වැසි ඇති වන විට එම ප්‍රදේශවල තාවකාලිකව තද සුළං ඇති විය හැකි බවය.
-
-The Department of Meteorology has requested the public to take necessary steps to minimize the damages caused by lightning.
-
-◼️
-
-[Data](articles/929e92a2.json)
-
-[Extended Data](ext_articles/929e92a2.ext.json)
-
----
-
-### Railway employees tomorrow?
-
-*2024-11-01 13:07:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-ரயில்-ஊழியர்கள்-பணிப்புறக்கணிப்பு/175-346410) · `ta`
-
-Railway workers strike tomorrow due to unresolved promotion and recruitment disputes.
-
-🟩
-
-If the resolution is not reached today, the Railway Station Principals Association said that tomorrow the workforce will be engaged in a protest.
-
-Association president Somatha Somatna said yesterday's discussions were completed without a satisfactory solution.
-
-The negotiations were held on issues relating to promotion and recruitment.
-
-◼️
-
-[Data](articles/c5a6c26b.json)
-
-[Extended Data](ext_articles/c5a6c26b.ext.json)
-
----
-
-### People have no ban on police work
-
-*2024-11-01 13:05:17* · [`adalk`](https://www.ada.lk/breaking_news/පොලිසියේ-වැඩ-වීඩියෝ-කරන්න-ජනතාවට-තහනමක්-නෑ/11-412793) · `si`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-Police officers face no ban on work activities. IGP notified all officers about public notifications regarding police activities. Some officers reported violating rules, with videos showing alleged misconduct. IGP stated video evidence can be used against defendants and complainants alike.
-
-🟩
-
-The Acting IGP notified all police officers in writing that the public has notified the police or other activities of the police officers or other activities.
-
-According to the IGP, the OICs OICs including the Inspector General of Police (IGP) have informed the IGP, police officers including the police officers.
-
-This article has been reported that some police officers have been reported to do the violations, videos and individuals who are blaming the videos, violence, violence, violence and video footage is being blamed for the adventures.
-
-The 2003 Wild Inspector has informed that the video-edited sights can be used as evidence to both defendants and complaint.
-
-◼️
-
-[Data](articles/c89b526c.json)
-
-[Extended Data](ext_articles/c89b526c.ext.json)
 
 ---

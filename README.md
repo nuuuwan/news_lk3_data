@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 12:25:52**
+As of **2024-11-02 12:39:56**
 
 ## Newspaper Stats
 
-*Scraped **52,648** Articles*
+*Scraped **52,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,902
 adaderanalk | 6,255
-tamilmirrorlk | 7,302
+tamilmirrorlk | 7,303
 virakesarilk | 8,493
 adaderanasinhalalk | 9,168
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,168
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,648 (100.0%) of 52,648 articles have been extended.
+52,649 (100.0%) of 52,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Nanuoya - accident on Rathalla road: One killed;20 people injured
+
+*2024-11-02 12:13:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-ரதல்ல-வீதியில்-விபத்து-ஒருவர்-பலி-20-பேர்-காயம்/76-346438) · `ta`
+
+Accident on Rathalla road: 1 killed, 20 injured. Lorry crashes into car and van due to mechanical failure. Elderly woman dies.
+
+🟩
+
+One person was killed and 20 people were injured when a lorry crashed into a car and van on Friday night (1) at the Nanuoya - Rathalla Cross Road.
+
+A lorry traveling from Nuwara Eliya to Hatton area collided with a car in the same direction and crashed into a van heading from Hatton to Nuwara Eliya from Hatton area to Nuwara Eliya.
+
+Police said that the cause of the accident was a mechanical disorder caused by the lack of proper functioning in the lorry.
+
+Travelers in this van have traveled from Kalmunai to Nuwara Eliya.
+
+A 75 -year -old elderly woman who was traveling in the van dies. Also, 20 people were injured in the lorry driver and van passengers.
+
+◼️
+
+[Data](articles/2a28732b.json)
+
+[Extended Data](ext_articles/2a28732b.ext.json)
+
+---
 
 ### Serbia's accident that killed 14
 
@@ -2285,27 +2311,5 @@ He further said that “this is a brave opposition, not one coming simply to rem
 [Data](articles/5df1456f.json)
 
 [Extended Data](ext_articles/5df1456f.ext.json)
-
----
-
-### Fire breaks out at garage in Rajagiriya
-
-*2024-11-01 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103089/fire-breaks-out-at-garage-in-rajagiriya) · `en`
-
-A massive fire has reportedly broken out at a vehicle garage in Rajagiriya while several fire trucks have been deployed to help douse the flames.
-
-The fire has broken out at a vehicle garage located on a road at Obesekarapura in Rajagiriya while several fire trucks and fire fighters are already at the scene attempting to extinguish the fire, Ada Derana reporter said.
-
-The Kotte Municipal Council Fire Brigade has dispatched 3 fire trucks and several firefighters to the location while the Fire Service Department has sent 2 fire trucks and several firefighters.
-
-It is reported that the fire has also spread to a nearby housing complex and that firefighters are attempting to control the flames with great effort.
-
-The cause of the fire or the damages caused by it are yet to be ascertained.
-
-◼️
-
-[Data](articles/e27a2553.json)
-
-[Extended Data](ext_articles/e27a2553.ext.json)
 
 ---

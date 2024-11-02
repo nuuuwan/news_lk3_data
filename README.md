@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 21:10:56**
+As of **2024-11-02 21:24:18**
 
 ## Newspaper Stats
 
-*Scraped **52,709** Articles*
+*Scraped **52,710** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,198
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,907
-adaderanalk | 6,262
+adaderanalk | 6,263
 tamilmirrorlk | 7,314
 virakesarilk | 8,508
 adaderanasinhalalk | 9,188
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,188
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,709 (100.0%) of 52,709 articles have been extended.
+52,709 (100.0%) of 52,710 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Spain mounts biggest peacetime disaster recovery operation as death toll reaches 211
+
+*2024-11-02 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103109/spain-mounts-biggest-peacetime-disaster-recovery-operation-as-death-toll-reaches-211) · `en`
+
+The deadliest flash floods in Spain’s modern history have killed at least 211 people and dozens were still unaccounted for, four days after torrential rains swept the eastern region of Valencia, Prime Minister Pedro Sanchez said on Saturday.
+
+In a televised statement, Sanchez said the government was sending 5,000 more army troops to help with the searches and clean-up in addition to 2,500 soldiers already deployed.
+
+“It is the biggest operation by the Armed Forces in Spain in peacetime,” Sanchez said. “The government is going to mobilize all the resources necessary as long as they are needed.”
+
+The tragedy is already Europe’s worst flood-related disaster since 1967 when at least 500 people died in Portugal.
+
+Hopes of finding survivors were boosted when rescuers found a woman alive after three days trapped in a car park in Montcada, Valencia. Residents burst into applause when civil protection chief Martin Perez announced the news.
+
+...
+
+[Data](articles/d243a761.json)
+
+---
 
 ### Last Note in the Badulla accident
 
@@ -2355,29 +2375,5 @@ It was discussed on the importance of further strengthening the long -term bilat
 [Data](articles/7a1d0f92.json)
 
 [Extended Data](ext_articles/7a1d0f92.ext.json)
-
----
-
-### வேன் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதி விபத்து; ஒருவர் உயிரிழப்பு
-
-*2024-11-02 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197690) · `ta`
-
-Van crashes with lorry on Nuwara Eliya road, 7 injured, 1 dead. Accident likely due to faulty brakes.
-
-🟩
-
-A van traveling from Kalmunai to Nuwara Eliya crashed at around 8 pm on Friday (1).
-
-The accident occurred when a lorry collided with a lorry from the opposite direction of the Hatton - Nuwara Eliya main road.
-
-Seven people have been admitted to the Nuwara Eliya District General Hospital after being injured.
-
-However, one person died in the accident. Police suspect the accident may have been caused by the truck's brake.
-
-◼️
-
-[Data](articles/16f5e8a2.json)
-
-[Extended Data](ext_articles/16f5e8a2.ext.json)
 
 ---

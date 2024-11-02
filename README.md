@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 19:58:02**
+As of **2024-11-02 20:10:38**
 
 ## Newspaper Stats
 
-*Scraped **52,702** Articles*
+*Scraped **52,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 4,906
 adaderanalk | 6,262
 tamilmirrorlk | 7,312
 virakesarilk | 8,508
-adaderanasinhalalk | 9,184
+adaderanasinhalalk | 9,185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,701 (100.0%) of 52,702 articles have been extended.
+52,702 (100.0%) of 52,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### ජනතාව රවටන දේශපාලනයට ඉඩ නැහැ - දිලිත්
+
+*2024-11-02 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202844) · `si`
+
+ජනතාව රවටන දේශපාලනය තවදුරටත් සිදු කිරීමට එඩිතර විපක්ෂයක් ලෙස තම කණ්ඩායම ඉඩ නොදෙන බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+...
+
+[Data](articles/e78b9637.json)
+
+---
 
 ### Weather Notification for the next 36 hours
 
@@ -971,6 +983,8 @@ In the wake of the Easter Sunday suicide bomb attacks launched against a number 
 ...
 
 [Data](articles/3cd64cc3.json)
+
+[Extended Data](ext_articles/3cd64cc3.ext.json)
 
 ---
 
@@ -2295,19 +2309,5 @@ Last year’s festival saw an impressive turnout featuring 44 authors, both loca
 [Data](articles/804b0001.json)
 
 [Extended Data](ext_articles/804b0001.ext.json)
-
----
-
-### Development: What Kind?
-
-*2024-11-02 00:13:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/development-what-kind/) · `en`
-
-During this campaign year, there are various discourses by political parties and alliances about how to develop the country or bring development in order to address the current problems faced by the people, institutions and the government? Central bank has its own formulae to address the debt problem. National People Power (NPP) which is headed by President Anura Kumara Dissanayake has suggested improvement of local production along with support for export-oriented manufacturing. Local participation in such efforts is also to be encouraged. One of its aims is to support those who are struggling to maintain a descent quality of life with social welfare. In this article, I wish to explore the types of development suitable for a country like Sri Lanka that has pursued neoliberal economics policies since late 70s. Not many talks about whether the current predicament is due to the following of such policies?
-
-...
-
-[Data](articles/fa38c7e6.json)
-
-[Extended Data](ext_articles/fa38c7e6.ext.json)
 
 ---

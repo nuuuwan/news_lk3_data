@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 06:09:38**
+As of **2024-11-02 06:45:33**
 
 ## Newspaper Stats
 
-*Scraped **52,617** Articles*
+*Scraped **52,622** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
-colombotelegraphcom | 533
+colombotelegraphcom | 536
 bbccomsinhala | 540
 islandlk | 3,140
 economynextcom | 3,196
@@ -18,19 +18,59 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,897
 adaderanalk | 6,249
-tamilmirrorlk | 7,294
+tamilmirrorlk | 7,295
 virakesarilk | 8,491
-adaderanasinhalalk | 9,162
+adaderanasinhalalk | 9,163
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,615 (100.0%) of 52,617 articles have been extended.
+52,617 (100.0%) of 52,622 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### வெளிநாட்டு கடவுச்சீட்டு பிரச்சினையை தீர்க்க புதிய திட்டம்
+
+*2024-11-02 06:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-கடவுச்சீட்டு-பிரச்சினையை-தீர்க்க-புதிய-திட்டம்/175-346430) · `ta`
+
+நவம்பர் மாத இறுதியில் மேலும் 100,000 கடவுச்சீட்டுகளும் டிசம்பரில் மேலும் 150,000 கடவுச்சீட்டுகளும் பெறப்படும் என, குடிவரவு மற்றும் குடியகல்வு திணைக்களம் தெரிவித்துள்ளது.
+
+வெளிநாட்டு கடவுச்சீட்டுகளை கொள்வனவு செய்வதற்கான ஒப்பந்தப்புள்ளி வழங்கப்பட்டுள்ள வெளிநாட்டு நிறுவனத்துடனான ஒப்பந்தத்தின்படி, 'பி' பிரிவின் கீழ் இதுவரை 50,000 வெற்று கடவுச்சீட்டுகள் குடிவரவு திணைக்களத்திற்கு கிடைத்துள்ளன.
+
+இதேவேளை, மற்றொரு தொகுதி வெற்று கடவுச்சீட்டுகளை கொள்வனவு செய்யும் பணியும் ஆரம்பிக்கப்பட்டுள்ளதாக, திணைக்களம் தெரிவித்துள்ளது.
+
+தற்போது, குடிவரவு மற்றும் குடியகல்வுத் திணைக்களத்தினால் விண்ணப்பதாரர்களுக்கு சுமார் 1,600 கடவுச்சீட்டுகள் வழங்கப்பட்டு வருகின்றன.
+
+டிசம்பர் தொடக்கத்தில் இருந்து, இந்தத் தொகை படிப்படியாக அதிகரிக்கப்பட்டு, விண்ணப்பதாரர்கள் கோரும் கடவுச்சீட்டுகளின் அளவிற்கு ஏற்ப கடவுச்சீட்டு வழங்கும் முறையை மாற்றியமைக்க முடியும், என திணைக்களம் மேலும் தெரிவித்துள்ளது.(AN)
+
+◼️
+
+[Data](articles/335cf695.json)
+
+---
+
+### කාලගුණය ගැන අවවාදාත්මක නිවේදනයක්
+
+*2024-11-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202818) · `si`
+
+අද (2) දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇතිවීමට හිතකර වායුගෝලීය තත්ත්වය තවදුරටත් පවතින බැවින් අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණ විද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටියි.
+
+බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+බස්නාහිර, දකුණ, වයඹ සහ උතුරු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+විශේෂයෙන් මධ්‍යම, සබරගමුව, ඌව සහ උතුරුමැද පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් ද සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ද එම දෙපාර්තමේන්තුව ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/4dcedc56.json)
+
+---
 
 ### Ranil urges public sector to hold votes unless NPP commits to wage hike
 
@@ -282,6 +322,20 @@ The event reaffirms SLT-MOBITEL’s reputation as a key player in the ICT indust
 
 ---
 
+### Live Not By Lies – History Of The Gender Ideology
+
+*2024-11-02 01:01:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/live-not-by-lies-history-of-the-gender-ideology/) · `en`
+
+Wikipedia states that ‘gender identity’ is an individual self-conception of perceiving oneself as man or woman, as fluctuating between man and woman or being something outside of man and woman. Gender identity, despite political, social and lexical prominence, given to it, especially it in the last years; is an imagined state of selfhood. It is not science. It is an ideology.
+
+Empirically, there exists ONLY two biological sexes. Yet, gender ideology’s Denial of Reality is not only being pressed upon children, but been taught and proselytized through western institutions in our country. Since our economic crisis, this ideology has begun to inundate our vocabulary, the corporate climate and even our political leadership.
+
+...
+
+[Data](articles/147e8969.json)
+
+---
+
 ### வேன் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதி விபத்து; ஒருவர் உயிரிழப்பு
 
 *2024-11-02 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197690) · `ta`
@@ -321,6 +375,18 @@ Last year’s festival saw an impressive turnout featuring 44 authors, both loca
 [Data](articles/804b0001.json)
 
 [Extended Data](ext_articles/804b0001.ext.json)
+
+---
+
+### Development: What Kind?
+
+*2024-11-02 00:13:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/development-what-kind/) · `en`
+
+During this campaign year, there are various discourses by political parties and alliances about how to develop the country or bring development in order to address the current problems faced by the people, institutions and the government? Central bank has its own formulae to address the debt problem. National People Power (NPP) which is headed by President Anura Kumara Dissanayake has suggested improvement of local production along with support for export-oriented manufacturing. Local participation in such efforts is also to be encouraged. One of its aims is to support those who are struggling to maintain a descent quality of life with social welfare. In this article, I wish to explore the types of development suitable for a country like Sri Lanka that has pursued neoliberal economics policies since late 70s. Not many talks about whether the current predicament is due to the following of such policies?
+
+...
+
+[Data](articles/fa38c7e6.json)
 
 ---
 
@@ -881,6 +947,24 @@ However, the Election Commission said that over 1018 complaints have been resolv
 [Data](articles/5162eef3.json)
 
 [Extended Data](ext_articles/5162eef3.ext.json)
+
+---
+
+### SWRD, JR et al. – Tradition Or Mythology?
+
+*2024-11-01 18:17:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/swrd-jr-et-al-tradition-or-mythology/) · `en`
+
+“Oh little monk, it is an arduous path you are taking…” on Martin Luther’s decision to challenge the papacy.
+
+“The tradition of all the dead generations weighs like an incubus upon the brain of the living” ~ Karl Marx
+
+As the common saying goes ‘Success has many fathers but failure is an orphan. And, in recent times, no other political career has been as successful as that of President Anura Kumar Dissanayake.
+
+Hailing from rural Thambuttegama, with no pretension to so called Sri Lankan elite status, member of a putatively Marxist political party (an ideology seemingly out of step with the modern world in many aspects) and having received only about 3% of the general vote at the Presidential elections in 2019, Dissanayake yet won an emphatic approval from the voter in September 2024. His closest rival was more than a million votes behind. Prominent politicians, heralded for decades, would have turned green with envy contemplating the Dissanayake success.
+
+...
+
+[Data](articles/6ed48f0e.json)
 
 ---
 
@@ -2243,135 +2327,5 @@ The Teldeniya police have arrested another white jeep fitted with fake digit pla
 [Data](articles/8eb1eb4c.json)
 
 [Extended Data](ext_articles/8eb1eb4c.ext.json)
-
----
-
-### பயங்கரவாத தடைச்சட்டத்தை நீக்குங்கள் - 13 வது திருத்தத்தை முழுமையாக நடைமுறைப்படுத்துங்கள் - ஜனாதிபதி தேர்தலின் போது வழங்கிய வாக்குறுதிகளை திரும்பிப்பாருங்கள் - அனுரகுமாரவிற்கு மாற்றுக்கொள்கைகளிற்கான நிலையம் கடிதம்
-
-*2024-11-01 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197629) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: Remove emergency law, fully implement 13th Amendment, address election promises, tackle corruption, reform governance system, ensure minority rights, protect human rights, promote accountability and transparency.
-
-🟩
-
-ஜனாதிபதி அனுரகுமாரதிசநாயக்க தனது தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிட்டிருந்த முக்கிய வாக்குறுதிகள் குறித்து மீண்டும் அவரது கவனத்தை ஈர்ப்பதற்காக மாற்றுக்கொள்கைகளிற்கான நிலையம்  அவருக்கு கடிதமொன்றை எழுதியுள்ளது.
-
-2024 செப்டம்பர் ஜனாதிபதி தேர்தலிற்கு பின்னரான காலப்பகுதியிலும் நவம்பரில் இடம்பெறவுள்ள நாடாளுமன்ற  தேர்தலிற்கு முன்னதாகவும் உங்கள் தேர்தல் விஞ்ஞாபனத்தில் குறிப்பிடப்பட்ட முக்கிய வாக்குறுதிகள் குறித்து கவனத்தை ஈர்ப்பதற்காக மாற்றுக்கொள்கைகளிற்கான நிலையம் இந்த கடிதத்தை எழுதுகின்றது.
-
-இலங்கை தொடர்ந்தும் பல சவால்களை எதிர்கொண்டுள்ள ,மிக மோசமான பொருளாதார வன்முறைகள்; மற்றும் வன்முறைகளில் இருந்து மீண்டு மீட்சியை நோக்கி சென்றுகொண்டிருக்கின்ற  சூழமைவில் உடனடியாக கவனம் செலுத்தப்படவேண்டிய முக்கிய விடயங்கள் குறி;த்து உங்கள் கவனத்தை  ஈர்க்க விரும்புகின்றோம்.
-
-2022 The Arakal Movement revealed the change of regime, action against corruption and transparency.
-
-...
-
-[Data](articles/d3f6a456.json)
-
-[Extended Data](ext_articles/d3f6a456.ext.json)
-
----
-
-### IMF team to visit Sri Lanka soon for third review under EFF program
-
-*2024-11-01 11:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103083/imf-team-to-visit-sri-lanka-soon-for-third-review-under-eff-program-) · `en`
-
-A team from the International Monetary Fund (IMF) will soon visit Sri Lanka to discuss the third review under the country’s Extended Fund Facility (EFF) program, according to Krishna Srinivasan, the Director of the IMF’s Asia and Pacific Department.
-
-He made these remarks in response to a question during a press briefing held by the IMF today (01).
-
-“Right after the new government came into office; we had a mission in Sri Lanka, where we held productive discussions with the President and his team. It is clear that Sri Lanka has made significant progress under the program, and these gains must be safeguarded. Measures need to be taken to build on the successes achieved so far,” he said.
-
-Srinivasan further emphasized that the new government is fully committed to the IMF-supported program, particularly regarding fiscal and debt targets.
-
-...
-
-[Data](articles/8a10ee20.json)
-
-[Extended Data](ext_articles/8a10ee20.ext.json)
-
----
-
-### Visiting foreign monitors
-
-*2024-11-01 11:03:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-கண்காணிப்பாளர்கள்-விஜயம்/175-346407) · `ta`
-
-EU election monitors start surveillance activities in Sri Lanka
-
-🟩
-
-The Executive Director of the PAFRAL Organization Rohana Hettidiarachchi said that the EU election monitors have already begun their surveillance activities.. (That)
-
-◼️
-
-[Data](articles/46d47001.json)
-
-[Extended Data](ext_articles/46d47001.ext.json)
-
----
-
-### Badulla bus accident: Two university students know about two universities
-
-*2024-11-01 10:59:04* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c748k0xp44po) · `si`
-
-Here's a 200-character summary:
-
-
-
-Badulla bus accident kills 2 Sooriyawewa Defense University students. 41 injured, including 6 critical cases. Driver lost control near bend. Police investigation ongoing. Defense Ministry arranging air lifts for serious cases.
-
-🟩
-
-Badulla bus accident: Two university students know about two universities
-
-Two students of the Sooriyawewa Defense University were killed in the accident this morning (Nov: 05).
-
-Defense Ministry Colonel Nalin Herath told BBC Herath that the bus carrying a group of students who had been on a field study was in danger at 8.05 am.
-
-41 persons including students of the Sooriyawewa Defense University were in the bus.
-
-The accident had occurred in the Ambahaioya area near the Badulla-Mahiyanganaya main road.
-
-Police Media Spokesman's Office announced said that the driver of the bus could not control the bus by a bend by a bend, the accident had occurred.
-
-When contacted, police spokesman DIG Nihal Thaldle, he said that he had not taken a statement from the driver of the bus.
-
-The deceased has been identified as two who was a resident candidate in Nivitigala and Kurunegala.
-
-The injured in the bus accident was admitted to Badulla Teaching Hospital.
-
-...
-
-[Data](articles/f90ee8e5.json)
-
-[Extended Data](ext_articles/f90ee8e5.ext.json)
-
----
-
-### Report on paddy and rice reserves
-
-*2024-11-01 10:58:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நெல்-அரிசி-இருப்புக்கள்-குறித்து-அறிக்கை-கையளிப்பு/175-346406) · `ta`
-
-Consumer Affairs Authority report: Paddy and rice reserves data for Ampara, Anuradhapura, Polonnaruwa districts submitted to Ministry of Commerce. Construction of reserves in other districts underway. Ministry monitoring high-priced rice sales.
-
-🟩
-
-The Consumer Affairs Authority said that the report on paddy and rice reserves in five districts has been handed over to the Ministry of Commerce.
-
-This includes data on paddy and rice reserves in five districts including Ampara, Anuradhapura and Polonnaruwa.
-
-However, the Ministry of Commerce said that the reports of paddy and rice stockpile in other districts should be obtained.
-
-Accordingly, the construction of paddy and rice in those districts has already begun.Officials of the Consumer Affairs Authority have said that the Authority has said.
-
-Meanwhile, the Ministry of Commerce has announced that it is continuing to detect places where rice is sold at a higher price than the control price.. (That)
-
-◼️
-
-[Data](articles/4b95fa0b.json)
-
-[Extended Data](ext_articles/4b95fa0b.ext.json)
 
 ---

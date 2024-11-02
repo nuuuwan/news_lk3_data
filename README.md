@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 01:09:18**
+As of **2024-11-03 01:24:25**
 
 ## Newspaper Stats
 
-*Scraped **52,715** Articles*
+*Scraped **52,716** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,907
 adaderanalk | 6,264
-tamilmirrorlk | 7,315
+tamilmirrorlk | 7,316
 virakesarilk | 8,508
 adaderanasinhalalk | 9,190
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,715 (100.0%) of 52,715 articles have been extended.
+52,716 (100.0%) of 52,716 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Israel again attacks on Lebanon: 52 killed
+
+*2024-11-03 01:01:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-மீது-இஸ்ரேல்-மீண்டும்-தாக்குதல்-52-பேர்-பலி/50-346465) · `ta`
+
+Israel attacks Lebanon: 52 killed in airstrike. Targets Hezbollah. Strikes Gaza too. International pressure for ceasefire.
+
+🟩
+
+52 people were killed in an Air attack on Friday in the agricultural villages of North Lebanon, Lebanon Health Minister said.
+
+The villages were bombed as a continuation of Israel's airstrikes against the terrorist group Hizbullah, a terrorist group in Lebanon.
+
+Meanwhile, medical officials said that Palestinians had recovered the bodies of 25 people killed in an Israeli air strike in Central Gaza on Thursday.
+
+Israeli warplanes bombed various buildings in Tahieq, a suburb of southern Beirut.. However, there is no information on the casualties as most people have left.
+
+Israeli is expanding its attack on the Hizbullah extremist group as international countries, including the US, are pressing the ceasefire in Gaza and Lebanon.. At the same time, Israel is waging a long battle against the Hamas in Northern Gaza. (A)
+
+◼️
+
+[Data](articles/2f36795f.json)
+
+[Extended Data](ext_articles/2f36795f.ext.json)
+
+---
 
 ### Warning to 8 districts
 
@@ -2375,21 +2401,5 @@ The nexus between climate change and human mobility has increasingly become an a
 [Data](articles/98446111.json)
 
 [Extended Data](ext_articles/98446111.ext.json)
-
----
-
-### Sri Lanka elections: Out with the old, in with the new – for Tamils too
-
-*2024-11-02 04:10:09* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-elections-Out-with-the-old-in-with-the-new-for-Tamils-too/4-768723) · `en`
-
-The sheer volume of new candidates across the north-east is indicative of a highly politicised population and new blood will emerge from this
-
-Tamils are fed up with the status quo. The prevailing anti-establishment sentiment is reflected in the fact that the 12 seats open in the Jaffna and Vanni electoral districts are contested by over 800 contestants, the vast majority of whom are independent candidates. Addressing the mere basics, such as day-to-day economic grievances, means a lot in a country like Sri Lanka, which has been wracked by instability for decades. The splintering of Tamil parties, all vying for votes with roughly the same nationalist (or pseudo-nationalist) platforms, may also lower each party’s vote share
-
-...
-
-[Data](articles/9c7845ff.json)
-
-[Extended Data](ext_articles/9c7845ff.ext.json)
 
 ---

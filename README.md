@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 00:24:10**
+As of **2024-11-03 00:40:06**
 
 ## Newspaper Stats
 
-*Scraped **52,714** Articles*
+*Scraped **52,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,907
 adaderanalk | 6,264
-tamilmirrorlk | 7,314
+tamilmirrorlk | 7,315
 virakesarilk | 8,508
 adaderanasinhalalk | 9,190
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 9,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,714 (100.0%) of 52,714 articles have been extended.
+52,715 (100.0%) of 52,715 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-03 (Sunday)
+
+### Warning to 8 districts
+
+*2024-11-03 00:09:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாவட்டங்களுக்கு-விடுக்கப்பட்டது-எச்சரிக்கை/175-346464) · `ta`
+
+Rainy weather alert: 5 districts (Kalutara, Kandy, Kegalle, Matara, Ratnapura) under landslide warning; 3 districts (Badulla, Galle, Kurunegala) under building stability warning.
+
+🟩
+
+Due to the prevailing rainy weather, the country's 8 districts have been warned.
+
+Accordingly, the 2nd level warning of landslides has been issued in the districts of Kalutara, Kandy, Kegalle, Matara and Ratnapura.
+
+The National Building Research Institute has announced that the first level warning has been issued in Badulla, Galle and Kurunegala districts.. Remble
+
+◼️
+
+[Data](articles/58a74b36.json)
+
+[Extended Data](ext_articles/58a74b36.ext.json)
+
+---
 
 ### 2024-11-02 (Saturday)
 
@@ -2367,25 +2391,5 @@ Tamils are fed up with the status quo. The prevailing anti-establishment sentime
 [Data](articles/9c7845ff.json)
 
 [Extended Data](ext_articles/9c7845ff.ext.json)
-
----
-
-### Other players in  the perfect storm
-
-*2024-11-02 04:07:42* · [`dailyftlk`](https://www.ft.lk/columns/Other-players-in-the-perfect-storm/4-768722) · `en`
-
-We can only hope that voters would choose wisely and well again, as arguably they did a brace of months back – Pic by Shehan Gunasekara
-
-As the nation gears down for the second election in the short space of two months, it is incontrovertible that the winds of change continue to whistle through the corridors of power and influence.
-
-A quick survey of the contenders in the parliamentary polls set for 14 November shows that a slew of newcomers to the fore focus on ‘national’, ‘developmental’ and ‘progressive’ fronts.
-
-The decks are cleared for showdown between the old guard representing a rump in the house that until recently looked like it could not be ever moved, and that the people’s aspirations as reflected in the ultimately abortive Aragalaya of 2022 would not be reflected in the legislature of 2024-9.
-
-...
-
-[Data](articles/a2e815e7.json)
-
-[Extended Data](ext_articles/a2e815e7.ext.json)
 
 ---

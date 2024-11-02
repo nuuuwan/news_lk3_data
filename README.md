@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 20:24:16**
+As of **2024-11-02 20:40:00**
 
 ## Newspaper Stats
 
-*Scraped **52,703** Articles*
+*Scraped **52,706** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,95 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,906
 adaderanalk | 6,262
-tamilmirrorlk | 7,312
+tamilmirrorlk | 7,314
 virakesarilk | 8,508
-adaderanasinhalalk | 9,185
+adaderanasinhalalk | 9,186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,703 (100.0%) of 52,703 articles have been extended.
+52,706 (100.0%) of 52,706 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Six arrested for Arugamay incident
+
+*2024-11-02 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202845) · `si`
+
+Six arrested for Arugamay incident: Minister Vijitha Herath claims threat to national security and tourist protection. Foreigner among detainees. Suspects linked to intelligence attacks in Arugambay and Colombo. Deputy Minister emphasizes swift action taken to ensure national security and foreigner safety.
+
+🟩
+
+According to the Minister of Defense Vijitha Herath, six persons who have acted in a threat to national security as well as the security of tourist protection are being carried out.
+
+The Minister said that there is a foreign national among the arrested persons.
+
+The suspects have been arrested in connection with intelligences attacking the area of ​​Arugambay and have been arrested in connection with events in Colombo.
+
+Deputy Minister of Defense Vijitha Herath, Speaking in this regard,
+
+...
+
+[Data](articles/df758ed4.json)
+
+[Extended Data](ext_articles/df758ed4.ext.json)
+
+---
+
+### Special testing in homes provided to former ministers
+
+*2024-11-02 19:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்களுக்கு-வழங்கப்பட்ட-வீடுகளில்-விசேட-சோதனை/175-346463) · `ta`
+
+Former ministers' homes under special testing due to issues. Ministry announces incomplete process. Steps planned to inspect unprovided houses next week. Legal action against confirmed occupants.
+
+🟩
+
+The Ministry of Public Administration has announced that it is yet to be completed.
+
+It is said that some of the problems in their respective houses were responsible for this.
+
+The Ministry of Public Administration has said that steps will be taken to check the houses that are not provided next week.
+
+In those cases, the ministry said that if the former minister or his close relatives were confirmed to be staying, legal action would be taken, the ministry said that legal action would be taken.. Remble
+
+◼️
+
+[Data](articles/5b383068.json)
+
+[Extended Data](ext_articles/5b383068.ext.json)
+
+---
+
+### Can't increase the salaries of public servants
+
+*2024-11-02 19:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களின்-சம்பளத்தை-அதிகரிக்க-முடியாது/175-346462) · `ta`
+
+Here's a 200-character summary:
+
+
+
+PM Harini Amarasuriya: Public servant salaries can't rise. Last govt raised them without inquiry. She spoke at Colombo event.
+
+🟩
+
+Prime Minister Harini Amarasuriya says that the salaries of public servants cannot be increased.
+
+The Prime Minister said that the last government has decided to raise the salary of public servants without any inquiry.
+
+He said this while attending a public meeting in Colombo.
+
+The Prime Minister also expressed his views on how to raise the salary of public servants.
+
+◼️
+
+[Data](articles/aecaf037.json)
+
+[Extended Data](ext_articles/aecaf037.ext.json)
+
+---
 
 ### The people are not allowed to deceive the people - Dilith
 
@@ -2269,55 +2345,5 @@ Adaaran Select Hudhuran Fushi, a 24-hour Premium All-inclusive resort, garnered 
 [Data](articles/6a0d16f2.json)
 
 [Extended Data](ext_articles/6a0d16f2.ext.json)
-
----
-
-### SLT-MOBITEL empowers EDEX Mid-Year Expo 2024 as its official ICT Solutions Partner
-
-*2024-11-02 01:17:00* · [`islandlk`](http://island.lk/slt-mobitel-empowers-edex-mid-year-expo-2024-as-its-official-ict-solutions-partner/) · `en`
-
-SLT-MOBITEL, demonstrating a strong commitment to nurturing education and career development in Sri Lanka, partnered with the EDEX Mid-Year Expo 2024 as its official ICT Solutions Partner. A landmark event in Sri Lanka’s educational calendar, SLT-MOBITEL provided robust Wi-Fi connectivity throughout the exhibition, ensuring seamless digital experiences for exhibitors and attendees.
-
-The event reaffirms SLT-MOBITEL’s reputation as a key player in the ICT industry, with an emphasis on its support of education and professional development. The exhibition also highlights SLT-MOBITEL’s commitment to endorsing students, educators, and institutions as they explore global educational opportunities in real time. An effort that further invests in the future of Sri Lanka’s workforce and youth.
-
-...
-
-[Data](articles/2bbb8b8e.json)
-
-[Extended Data](ext_articles/2bbb8b8e.ext.json)
-
----
-
-### Live Not By Lies – History Of The Gender Ideology
-
-*2024-11-02 01:01:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/live-not-by-lies-history-of-the-gender-ideology/) · `en`
-
-Wikipedia states that ‘gender identity’ is an individual self-conception of perceiving oneself as man or woman, as fluctuating between man and woman or being something outside of man and woman. Gender identity, despite political, social and lexical prominence, given to it, especially it in the last years; is an imagined state of selfhood. It is not science. It is an ideology.
-
-Empirically, there exists ONLY two biological sexes. Yet, gender ideology’s Denial of Reality is not only being pressed upon children, but been taught and proselytized through western institutions in our country. Since our economic crisis, this ideology has begun to inundate our vocabulary, the corporate climate and even our political leadership.
-
-...
-
-[Data](articles/147e8969.json)
-
-[Extended Data](ext_articles/147e8969.ext.json)
-
----
-
-### HSBC Ceylon Literary & Arts Festival announces second edition
-
-*2024-11-02 00:29:00* · [`islandlk`](http://island.lk/hsbc-ceylon-literary-arts-festival-announces-second-edition/) · `en`
-
-A Celebration of Culture, Creativity, and Youth Empowerment, 17th – 19th January 2025
-
-The HSBC Ceylon Literary & Arts Festival is set to return for its second edition from January 17-19, 2025. Building on the success of its inaugural launch, the festival aims to further establish itself as a premier art and culture platform, enhancing Sri Lanka’s soft power on the global stage.
-
-Last year’s festival saw an impressive turnout featuring 44 authors, both local and international, and offered cleverly themed, curated sessions that resonated with the audience. This year, the festival aims to build on its success, creating an even more engaging and impactful experience for 2025.
-
-...
-
-[Data](articles/804b0001.json)
-
-[Extended Data](ext_articles/804b0001.ext.json)
 
 ---

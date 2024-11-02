@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 10:58:44**
+As of **2024-11-02 11:24:09**
 
 ## Newspaper Stats
 
-*Scraped **52,643** Articles*
+*Scraped **52,644** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,899
+adalk | 4,900
 adaderanalk | 6,254
 tamilmirrorlk | 7,302
 virakesarilk | 8,493
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,643 (100.0%) of 52,643 articles have been extended.
+52,644 (100.0%) of 52,644 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -103,6 +103,28 @@ A spokesman for the Surveillance Organization said that the party would even lea
 [Data](articles/398fffe3.json)
 
 [Extended Data](ext_articles/398fffe3.ext.json)
+
+---
+
+### Thundershowers in several places today
+
+*2024-11-02 09:26:55* · [`adalk`](https://www.ada.lk/breaking_news/දිවයිනේ-බොහෝ-ප්‍රදේශ-වලට-අද-ගිගුරුම්-සහිත-වැසි---පළාත්-කිහිපයකට-මි-මී-100-වැඩි-තද-වැසි/11-412802) · `si`
+
+Thunderstorms forecasted across multiple regions. Meteorological Department advises public to prepare for potential lightning damage. Heavy rainfall expected in Central, Sabaragamuwa, Uva, and North Central Provinces.
+
+🟩
+
+The Meteorological Department announces that atherosclerosis at several places in the country.
+
+So far, the Department requests the public to take necessary steps to minimize the damages caused by lightning.
+
+Meanwhile, there will be heavy showers in the Central, Sabaragamuwa, Uva and Uva and North Central Province.
+
+◼️
+
+[Data](articles/05bd7aa7.json)
+
+[Extended Data](ext_articles/05bd7aa7.ext.json)
 
 ---
 
@@ -2285,37 +2307,5 @@ The letter stated that the police officers have been accused of recording variou
 [Data](articles/e5bab575.json)
 
 [Extended Data](ext_articles/e5bab575.ext.json)
-
----
-
-### The political culture that causes divisions among the people should be eliminated - Ranil Villattarakke
-
-*2024-11-01 14:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197642) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Ranil Villattarakke calls for eliminating divisive political culture, promoting nationalism, and addressing lower-level needs. He advocates for youth involvement in national politics, citing the UNP's track record in serving people's interests.
-
-🟩
-
-Politics in the country as fake nationalism and racism should not do politics, and the needs of the people from the lower level should be carried out. The disgraceful political culture that causes divisions among the people must be removed from the country.
-
-Ranil Vilatharake, the Colombo district candidate of the new Democratic Front, said that the younger community with new ideas should be compensated for national politics.
-
-Ranil Villattarake said this as he made clear to Weerakesari about his political entry.
-
-I am a leading young businessman in Sri Lanka to learn the best garment techniques in the world from the lower level.
-
-Have reached the top goal of professionally. So I am contesting the parliamentary election to serve the people.
-
-For about 15 years, I have provided employment opportunities for many in professionalism.
-
-...
-
-[Data](articles/2bbdbe17.json)
-
-[Extended Data](ext_articles/2bbdbe17.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 11:59:55**
+As of **2024-11-02 12:14:20**
 
 ## Newspaper Stats
 
-*Scraped **52,645** Articles*
+*Scraped **52,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,901
-adaderanalk | 6,254
+adalk | 4,902
+adaderanalk | 6,255
 tamilmirrorlk | 7,302
 virakesarilk | 8,493
-adaderanasinhalalk | 9,167
+adaderanasinhalalk | 9,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,645 (100.0%) of 52,645 articles have been extended.
+52,648 (100.0%) of 52,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Serbia's accident that killed 14
+
+*2024-11-02 11:56:04* · [`adalk`](https://www.ada.lk/breaking_news/14කට-මරු-කැඳවූ-සර්බියාවේ-අනතුර/11-412805) · `si`
+
+Serbia: Concrete station collapse kills 14. Three injured taken to hospital. Foreign media reports.
+
+🟩
+
+Fourteen persons have died after the collapse of concrete station at a cerebitia.
+
+අනතුරින් තුවාල ලැබූ තිදෙනෙකු රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/a484a2c0.json)
+
+[Extended Data](ext_articles/a484a2c0.ext.json)
+
+---
+
+### The condition of the injured condition at Badulla accident is better
+
+*2024-11-02 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202825) · `si`
+
+Badulla accident victims' conditions improving. 10 in ICU; some transferred to regular wards. 40 hospitalized. No air transport needed. All necessary medical facilities available.
+
+🟩
+
+දුන්හිඳ - බදුල්ල මාර්ගයේ ඊයේ (1) උදෑසන සිදු වූ බස් රථ අනතු‍රෙන් බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කරනු ලැබූවන්ගේ ජීවිත අවදානම්බව පහව යමින් තිබෙන බව එම රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ ජ්‍යෙෂ්ඨ වෛද්‍ය නිලධාරී පාලිත රාජපක්ෂ මහතා පවසයි.
+
+He said that the condition of the injured had been made, he said that the condition of all the hospital was good.
+
+A few of the ten people who were receiving treatment at the intensive care unit could be transferred to normal wards.
+
+40 injured in bus accident was hospitalized. ඉන් දස දෙනෙකු දැඩි සත්කාර ඒකකයට ඇතුළත් කළා. Most of those patients are recovering.  හැමදෙනාගෙම තිබූ ජිවිත අවධානම පහවෙලා තිබෙන්නේ. අපට ලොකු බලාපොරොත්තුවක් තියාගන්න පුළුවන් එම දරුවන්ගේ ජීවිත සම්බන්ධයෙන්.
+
+Several few of the ten people who are treated in the intensive care unit have the ability to transfer the ordinary wards. Several others may leave the hospital after submitting to the forensic doctor.
+
+...
+
+[Data](articles/47f4e037.json)
+
+[Extended Data](ext_articles/47f4e037.ext.json)
+
+---
+
+### President and Indian envoy discuss strengthening ties, fishing disputes, and energy cooperation
+
+*2024-11-02 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103102/president-and-indian-envoy-discuss-strengthening-ties-fishing-disputes-and-energy-cooperation) · `en`
+
+President Anura Kumara Dissanayake met with Indian High Commissioner Santosh Jha yesterday (01) at the Presidential Secretariat in Colombo.
+
+The discussion centered on strengthening the longstanding relationship between the two nations, including a detailed review of Indian-assisted projects in Sri Lanka, where progress and challenges were highlighted, the President’s Media Division (PMD) stated.
+
+They also addressed the ongoing fishing disputes in the Northern Sea, with both parties stressing the importance of a long-term resolution that respects the needs of fishermen from both countries and promotes cooperation.
+
+President Dissanayake affirmed his commitment to protecting the interests of the Sri Lankan fishing community.
+
+The President expressed interest in learning from India’s expertise in power and energy sector development and the digitalization process, with a view to advancing these areas in Sri Lanka with India’s support, the PMD said.
+
+...
+
+[Data](articles/454b52ed.json)
+
+[Extended Data](ext_articles/454b52ed.ext.json)
+
+---
 
 ### Lohan Ratwatte to be arrested
 
@@ -2239,71 +2307,5 @@ The cause of the fire or the damages caused by it are yet to be ascertained.
 [Data](articles/e27a2553.json)
 
 [Extended Data](ext_articles/e27a2553.ext.json)
-
----
-
-### Fire in Rajagiriya
-
-*2024-11-01 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202803) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Rajagiriya Fire: Police confirm fire exits reached. Situation under control."
-
-🟩
-
-The police said that the place has been reached by fire exits.
-
-◼️
-
-[Data](articles/3a399896.json)
-
-[Extended Data](ext_articles/3a399896.ext.json)
-
----
-
-### Sri Lanka - Canadian Business Commerce Members Awards on Business and Investment Opportunities
-
-*2024-11-01 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197641) · `ta`
-
-Sri Lanka-Canada Business Forum: 9-day official visit strengthening bilateral ties, expanding trade and investment opportunities between two nations.
-
-🟩
-
-இலங்கை வர்த்தக சம்மேளனத்தின் (சிலோன் சேம்பர் ஒஃப் கொமர்ஸ்) இலங்கை - கனேடிய வணிகப்பேரவை உறுப்பினர்கள் கனடாவுக்கு 9 நாட்கள் உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டு, இருதரப்பு நல்லுறவை வலுப்படுத்தல், இருநாடுகளுக்கும் இடையிலான வர்த்தக மற்றும் முதலீட்டு வாய்ப்புக்கள் விரிவுபடுத்தல் உள்ளிட்ட பல்வேறு விடயங்கள் தொடர்பில் அந்நாட்டுப் பிரதிநிதிகளுடன் வெற்றிகரமான பேச்சுவார்த்தைகளை முன்னெடுத்துள்ளனர்.
-
-இலங்கை - கனடாவுக்கு இடையிலான வர்த்தகத்தொடர்புகளை வலுப்படுத்துவதை நோக்காகக்கொண்ட இலங்கை - கனேடிய வணிகப்பேரவையின் 9 உறுப்பினர்கள் கடந்த ஒக்டோபர் மாதம் 14 - 22 ஆம் திகதி வரை கனடாவுக்கு உத்தியோகபூர்வ விஜயமொன்றை மேற்கொண்டிருந்தனர்.
-
-The group, led by the President of the Sri Lanka -Canadian Business Assembly, Priyantha Chandrasekara, met with various parties, including business leaders, government officials, officials of academics, officials and representatives of trade structures.
-
-...
-
-[Data](articles/528b99bd.json)
-
-[Extended Data](ext_articles/528b99bd.ext.json)
-
----
-
-### Weather advisory issued for severe lightning
-
-*2024-11-01 14:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103087/weather-advisory-issued-for-severe-lightning) · `en`
-
-The Meteorology Department has issued an ‘Amber’ advisory for severe lightning for several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Uva, Eastern, North-central, Central, Sabaragamuwa and Northern provinces and in Hambantota District.
-
-There may be temporary localized strong winds during thundershowers, the advisory said.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by lightning activity.
-
-The general public is further requested to seek shelter, preferably indoors and never under trees, avoid open areas such as paddy fields, tea plantations and open water bodies during thunderstorms, avoid using wired telephones and connected electric appliances during thunderstorms and also avoid using open vehicles, such as bicycles, tractors and boats etc. and to beware of fallen trees and power lines.
-
-...
-
-[Data](articles/5375d88c.json)
-
-[Extended Data](ext_articles/5375d88c.ext.json)
 
 ---

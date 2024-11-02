@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 09:13:04**
+As of **2024-11-02 09:24:20**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 9,166
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,633 (100.0%) of 52,635 articles have been extended.
+52,635 (100.0%) of 52,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
 
-### එනසාල් තොගයක් සමග අයෙක් කටුනායකදී අත්අඩංගුවට
+### One arrested with a stock
 
 *2024-11-02 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202821) · `si`
 
-කටුනායක ගුවන්තොටුපොළ පැමිණීමේ පර්යන්තයේදී ගුවන්තොටුපොළ පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් ඊයේ (1) රාත්‍රියේදී සිදුකළ වැටලීමකදී ඩුබායි සිට මෙරටට රැගෙන ආ එනසාල් තොගයක් සමග සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Arrest made at Bandaranaike Airport: 76kg drugs, 8 phones seized. Suspect, 48, from Colombo 12. Police investigating further.
 
-ඔහු සතුව එනසාල් කිලෝ 76යි ග්‍රෑම් 300ක් සහ ජංගම දුරකථන 08ක්ද තිබී සොයාගත් බව පොලීසිය පවසයි.
+🟩
 
-අත්අඩංගුවට ගත් සැකකරු වයස අවුරුදු 48 ක් වූ කොළඹ 12 ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, මේ පිළිබඳ ගුවන්තොටුපොළ පොලීසිය වැඩිදුර විමර්ශන සිදු කරයි.
+A suspect has been arrested in an airport police station at the Airport police station at the Bandaranaike Airport in the Bandaranaike International Airport yesterday (1).
+
+He had found 76 kg and 300 grams and 300 grams and eight mobile phones.
+
+The suspect is a 48 year old resident of Colombo 12, and the airport police are conducting further investigations.
 
 ◼️
 
 [Data](articles/eb5bd37c.json)
+
+[Extended Data](ext_articles/eb5bd37c.ext.json)
 
 ---
 
@@ -1054,21 +1060,31 @@ Additionally, he has been provided with three vehicles: a Mercedes Benz -600 May
 
 ---
 
-### මාලිමා ආණ්ඩුවේ විදෙස් ඇමති සුමන්තිරන්
+### Master Minister Sumanthiran, foreign minister
 
 *2024-11-01 19:23:37* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-ආණ්ඩුවේ-විදෙස්-ඇමති-සුමන්තිරන්/11-412800) · `si`
 
-මාලිමා ආණ්ඩුවේ විදෙස් ඇමති සුමන්තිරන්. අනුර - සුමන්තිරන් - ශානි - රවි කුමන්ත්‍රණය ගම්මන්පිල හෙළිකරයි
+Here's a summary of the text in approximately 200 characters:
 
-ඉලංකෙයි තමිල් අරසු කච්චි පක්ෂය මැතිවරණයෙන් පසුව ජාතික ජන බලවේගයේ ආණ්ඩුවට එකතු වන බවත් එම ආණ්ඩුවේ විදේශ අමාත්‍ය ධූරයට  එම් ඒ සුමන්දිරන් මන්ත්‍රිතුමා සමග එකගතාවයක් ඇති කරගෙන ඇති බවත් සර්වජන බලය කොළඹ දිස්ත්‍රික් අපේක්ෂක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
 
-රටට පෙඩරල් ව්‍යවස්ථාවක් ගෙන ඒම,  2015 දී එක්සත් ජාතින්ගේ මානව හිමිකම් සභාව සම්මත කළ 30/1 යෝජනාව ක්‍රියාත්මක කර කොටි ත්‍රස්තවාදය නිමා කළ රණවිරුවන්ට දඬුවම් කිරීම යන කොන්දේසි යටතේ මෙම ක්‍රියාවලිය සිදු වනු ඇතැයි ද උදය ගම්මන්පිල මහතා වැඩි දුරටත් ප්‍රකාශකර සිටියේය.
 
-ඒ මහතා මේ බව සදහන් කර සිටියේ අද දින (2024.11.01) චූදිත නිලධාරීන් පොලිසියේ ඉහල තනතුරු වලින් වහා ඉවත් කරනු !  යන තේමාව යටතේ මහජන පෙත්සමක් අත්සන් කිරීමට කටයුතු කල අවස්ථිාවේදීය.  රවි සෙනවිරත්ත මහතා ආරක්ෂක අමාත්‍යාංශයේ ලේකම් ධූරයෙන් ඉවත්කරන ලෙස මෙම මහජන පෙත්සමින් ඉල්ලා සිටියි.
+Sri Lankan politician Mandanu Gammanpila accuses government of corruption, demands resignation of defense secretary. Criticizes president for suppressing investigation reports and protecting accused officials. Calls for public support to sign petition demanding change.
+
+🟩
+
+Master Minister Sumanthiran, foreign minister. Anura - Sumani - Shani Conspiracy reveals Gammanpila
+
+The Ilankai Tamil Arasu Kachchi Party joins the government after the election, says Mandanu Gammanpila, Colombo District candidate lawyer, Colombo.
+
+The process will further say that this process will take place under the conditions that the United Nations Human Rights Council has passed the 30/1 proposal of the United Nations in 2015 and implemented the US resolution in 2015.
+
+He was speaking at the immediate removal of the accused officers from the top of the police today (2024.111.19).On the theme, a public petition is signed.Ravi Senehirawaththa calls on public petition to remove the Secretary to the Ministry of Defense.
 
 ...
 
 [Data](articles/a05cdb8f.json)
+
+[Extended Data](ext_articles/a05cdb8f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 20:40:00**
+As of **2024-11-02 20:59:05**
 
 ## Newspaper Stats
 
-*Scraped **52,706** Articles*
+*Scraped **52,707** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 4,906
 adaderanalk | 6,262
 tamilmirrorlk | 7,314
 virakesarilk | 8,508
-adaderanasinhalalk | 9,186
+adaderanasinhalalk | 9,187
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,706 (100.0%) of 52,706 articles have been extended.
+52,707 (100.0%) of 52,707 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Prison commissioner released on former Minister Lohan
+
+*2024-11-02 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202846) · `si`
+
+Former Minister Lohan released due to health issues. Prisons Commissioner Gamini Dissanayake states he's receiving medical care at the prison hospital. Health report indicates liver, lung, and kidney problems.
+
+🟩
+
+Prisons Commissioner Gamini B. Gamini B.. Mr. Dissanayake has issued a statement.
+
+The Magistrate had noted that the former minister was a special safety and to provide medical care.
+
+Accordingly, the prison commission had been admitted to the Prison Hospital for the recommendation of the Prison doctor from 31st on 31st last 31st.
+
+Accordingly, a former minister's health report was summoned from the Sabha Hospital.
+
+He also said that the liver, lung and trenches were affected by illnesses, and the prison hospital report said.
+
+The Commissioner of Prisons (Commissioner of Prisons) have stated that the former Minister of Prisons is being treated at the prison hospital.
+
+◼️
+
+[Data](articles/15b4a278.json)
+
+[Extended Data](ext_articles/15b4a278.ext.json)
+
+---
 
 ### Six arrested for Arugamay incident
 
@@ -2329,21 +2357,5 @@ Harini has over 16 years of extensive experience in regulatory compliance and fi
 [Data](articles/a0a49e6e.json)
 
 [Extended Data](ext_articles/a0a49e6e.ext.json)
-
----
-
-### Adaaran Resorts triumphs with multiple awards at FHAM 2024
-
-*2024-11-02 01:18:00* · [`islandlk`](http://island.lk/adaaran-resorts-triumphs-with-multiple-awards-at-fham-2024/) · `en`
-
-Aitken Spence Hotels’ Adaaran Select Hudhuran Fushi, Adaaran Prestige Vadoo, and Adaaran Select Meedhupparu achieved remarkable recognition at the Food and Hospitality Asia Maldives Global Culinary Challenge and Exhibition 2024 (FHAM). Each resort showcased its culinary excellence, securing a multitude of prestigious awards.
-
-Adaaran Select Hudhuran Fushi, a 24-hour Premium All-inclusive resort, garnered eleven awards, including four Gold Awards. Adaaran Prestige Vadoo, an exclusive adults-only haven, claimed a total of nine accolades, including four Gold Awards and a special award. Adaaran Select Meedhupparu, also a 24-hour Premium All-Inclusive resort nestled within a lush mature island, celebrated six noteworthy awards.
-
-...
-
-[Data](articles/6a0d16f2.json)
-
-[Extended Data](ext_articles/6a0d16f2.ext.json)
 
 ---

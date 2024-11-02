@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 15:09:30**
+As of **2024-11-02 15:24:14**
 
 ## Newspaper Stats
 
-*Scraped **52,668** Articles*
+*Scraped **52,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 4,904
 adaderanalk | 6,257
 tamilmirrorlk | 7,309
 virakesarilk | 8,498
-adaderanasinhalalk | 9,172
+adaderanasinhalalk | 9,174
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,666 (100.0%) of 52,668 articles have been extended.
+52,668 (100.0%) of 52,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### edelweiss ශ්‍රී ලංකාවට සෘජු ගුවන් ගමන් අරඹයි
+
+*2024-11-02 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202833) · `si`
+
+ශ්‍රී ලංකා සංචාරක ක්ෂේත්‍රයේ නව සංධිස්ථානයක් සනිටුහන් කරමින් කටුනායක සහ ස්විට්සර්ලන්තය අතර නව ගුවන් සේවාවක් ඊයේ (01) ආරම්භ කෙරුණි.
+
+edelweiss ගුවන් සේවයට අයත් අදාළ යානය ඊයේ මෙරටට පැමිණියේ සංචාරකයින් 251 දෙනෙකු ද සමගය.
+
+ශීත ඍතුව එළැඹීමත් සමග ස්විට්සර්ලන්තයේ සුරීච් සහ කටුනායක අතර ආරම්භ වූ නව ගුවන් සේවයේ මංගල ගුවන් යානය ලෙස edelweiss ගුවන් සේවයේ  WK68 දරන  A 330 වර්ගයේ යානයක් මෙලෙස දිවයිනට පැමිණියේය.
+
+සෑම සිකුරාදා දිනකම ස්විට්සර්ලන්තයේ සූරිච් නුවර සිට කටුනායක ගුවන්තොටුපොළ දක්වා පියාසර කෙරෙන මෙම යානය එදිනම සූරිච් වෙත ගමන් කරන්නේ මාලදිවයිනේ මාලේ අගනුවර හරහාය.
+
+මෙම සේවාව ලබන වසරේ ජනවාරි සිට සතියකට දින දෙකක් ක්‍රියාත්මක කිරීමට නියමිත බව ගුවන්තොටුපොළ නිලධාරීන් ප්‍රකාශ කළේය.
+
+මේ අතර 2023 වර්ෂයේ පළමු මාස 9 තුළ සංචාරකයින් 1,016,256 දෙනෙකු මෙරටට පැමිණ ඇති අතර, 2024 වර්ෂයේ අදාළ කාලසීමාව තුළ සංචාරයින් 1,484,808ක් මෙරටට පැමිණ තිබේ.
+
+මීට අමතරව 2023 වර්ෂයේදී සමස්තයක් ලෙස සංචාරකයින් 1,487,303ක් මෙරටට පැමිණි අතර, 2024 පළමු මාස 9 තුළ පමණක් සංචාරකයින් 1,484,808ක් මෙරට අසිරිය විඳගැනීමට පැමිණ තිබීම විශේෂණත්වයකි.
+
+◼️
+
+[Data](articles/f93dfb5c.json)
+
+---
+
+### හිමිනම සිරකර විහාරස්ථානයේ මුදල් කොල්ලකයි
+
+*2024-11-02 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202832) · `si`
+
+දිවුලපිටිය හපුවලාන විහාරස්ථානයට යතුරු පැදියකින් පැමිණි දෙදෙනෙකු විසින් විහාරස්ථානයේ තිබූ මුදල් සොරකම් කර පළාගොස් තිබේ.
+
+පොලීසිය පැවසුවේ අද (02) අලුයම පැමිණි මෙම සැකකරුවන් දෙදෙනා විහාරස්ථානයේ වැඩ සිටි විහාරාධිපති හිමියන් රෙදි පටි උපයෝගී කරගනිමින් ගැට ගසා මෙම මුදල් සොරකම් කර ඇතැයි බවය.
+
+◼️
+
+[Data](articles/45d3df71.json)
+
+---
 
 ### Special security for Lohan Ratwatte at Prison Hospital
 
@@ -49,6 +87,8 @@ Meanwhile, Ratwatte’s wife has also been notified to provide a statement regar
 ◼️
 
 [Data](articles/6b5bbddb.json)
+
+[Extended Data](ext_articles/6b5bbddb.ext.json)
 
 ---
 
@@ -168,13 +208,23 @@ Providing an update on their condition, he reported that the conditions of all h
 
 *2024-11-02 13:39:40* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දිනය-විශේෂ-දිනයක්-ලෙස-නම්-කළ-හේතුව-මෙන්න/11-412806) · `si`
 
-මහ මැතිවරණයට අදාළව නිළ ඡන්ද පත්‍රිකා බෙදා හැරීමේ විශේෂ දිනයක් ලෙස හෙට (03දා) දිනය නම් කර තිබේ.
+Here's a 200-character summary:
 
-ඒ අනුව හෙට පෙ.ව. 08 සිට ප.ව 06 දක්වා නිළ ඡන්ද පත්‍රිකා බෙදා හරින බව තැපැල් දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+
+Tomorrow (3) is a special day as it marks the distribution of official ballot papers for the general election. Ballot papers will be available from 8 am to 8 pm.
+
+🟩
+
+The date on the distribution of official ballot papers regarding the general election has been nominated tomorrow (3).
+
+ඒ අනුව හෙට පෙ.ව. Official ballot papers are distributed from 08 to 8 pm.
 
 ◼️
 
 [Data](articles/7839b4fa.json)
+
+[Extended Data](ext_articles/7839b4fa.ext.json)
 
 ---
 
@@ -1912,6 +1962,10 @@ The Department of Immigration and Emigration says that an online appointment sys
 
 It further said that currently there are 50,000 blank passports available and that a stock of 100,000 passports will be received in November with another 150,000 expected in December.
 
+Sri Lanka has been experiencing shortages of blank passports, leading to queues outside the Department of Immigration and Emigration for several months.
+
+The Government Information Department said on Friday that the online system would be launched soon and that Sri Lankan nationals can get an appointment to come to the department and submit applications.
+
 ◼️
 
 [Data](articles/8e297fb0.json)
@@ -2253,55 +2307,5 @@ So the army has demanded that the people be released to the Arali road between V
 [Data](articles/0e8415f6.json)
 
 [Extended Data](ext_articles/0e8415f6.ext.json)
-
----
-
-### Fire in the karaj
-
-*2024-11-01 17:17:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கராஜில்-தீ-விபத்து/175-346412) · `ta`
-
-Car fire spreads to homes near Rajagiriya. Four service vehicles deployed. Two houses affected.
-
-🟩
-
-A fire broke out in a carge on Rajagiriya - Madinagoda road.
-
-Four Service vehicles have been dispatched to extinguish the fire, the Fire Division of the Fort Municipal Council said.
-
-The fire has now spread to 02 houses, the Fort Fire Department said.
-
-◼️
-
-[Data](articles/a8b9a9a6.json)
-
-[Extended Data](ext_articles/a8b9a9a6.ext.json)
-
----
-
-### Elpitiya election results are a pre -announcement for risk condition - Hirunika
-
-*2024-11-01 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197656) · `ta`
-
-Elpitiya election results signal danger for Sri Lanka's government. Former MP Hirunika warns of challenges ahead for ruling party. Criticism mounts over fuel prices and Sunday attacks. Government urged to address controversies and transparency issues.
-
-🟩
-
-Elpitiya election results are a pre -announcement for a dangerous situation. தற்போதைய அரசாங்கத்துக்கு இது ஒரு சிறந்த முன்னறிவிப்பு இல்லை என்பது மாத்திரம் தெளிவாகிறது.
-
-Former parliamentarian Hirunika Premachandra said that President Anura Kumara Dissanayake would now understand how difficult it was to implement the issues that were said when he was a member of the Opposition.
-
-He further stated this at a press conference held at the United People's Alliance office in Colombo on Friday (01).
-
-Elpitiya election results are a pre -announcement for a dangerous situation. The ruling party will have to face challenges in executing the head of the Pradeshiya Sabha and the budget.
-
-These are the power that can be determined by a few votes. So it is clear that the current government does not have a better forecast.
-
-President Anura Kumara Dissanayake will now understand how difficult it is to implement the issues he said when he was a member of the Opposition.. It is not easy to practice like speaking.
-
-...
-
-[Data](articles/4ac76feb.json)
-
-[Extended Data](ext_articles/4ac76feb.ext.json)
 
 ---

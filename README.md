@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 11:40:11**
+As of **2024-11-02 11:59:55**
 
 ## Newspaper Stats
 
-*Scraped **52,644** Articles*
+*Scraped **52,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,140
 economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,900
+adalk | 4,901
 adaderanalk | 6,254
 tamilmirrorlk | 7,302
 virakesarilk | 8,493
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,644 (100.0%) of 52,644 articles have been extended.
+52,645 (100.0%) of 52,645 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Lohan Ratwatte to be arrested
+
+*2024-11-02 11:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-බන්ධනාගාර-රෝහලට/11-412804) · `si`
+
+Former MP Lohan Ratwatte arrested, transferred to prison hospital after court order.
+
+🟩
+
+Former MP Lohan Ratwatte, who was arrested in connection with an incident, has been transferred to the Prison Hospital.
+
+පසුගිය 31 වැනිදා අත්අඩංගුවට ගත් ඒ මහතා ලබන 07 වැනිදා දක්වා රක්ෂිත බන්ධානාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
+
+◼️
+
+[Data](articles/1f6d5acf.json)
+
+[Extended Data](ext_articles/1f6d5acf.ext.json)
+
+---
 
 ### Lohan Ratwatte transferred to Prison Hospital
 
@@ -2285,27 +2305,5 @@ The general public is further requested to seek shelter, preferably indoors and 
 [Data](articles/5375d88c.json)
 
 [Extended Data](ext_articles/5375d88c.ext.json)
-
----
-
-### The police are not forbidden to video the activities of the police
-
-*2024-11-01 14:05:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-செயற்பாடுகளை-வீடியோ-எடுக்க-தடை-இல்லை/175-346411) · `ta`
-
-Police allowed to record activities; public can film too. No law prohibits. Officers informed. Accused of misuse.
-
-🟩
-
-The Inspector General of Police has announced in writing that there is no law to prevent the public from recording the duties or other activities of the police officers.
-
-The Inspector General of Police has informed the top police officers, including the commanders of the police station, to inform all the police officers below him.
-
-The letter stated that the police officers have been accused of recording various activities and have been arrested on telephones.
-
-◼️
-
-[Data](articles/e5bab575.json)
-
-[Extended Data](ext_articles/e5bab575.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 17:24:15**
+As of **2024-11-02 17:40:43**
 
 ## Newspaper Stats
 
-*Scraped **52,681** Articles*
+*Scraped **52,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,73 @@ adalk | 4,905
 adaderanalk | 6,259
 tamilmirrorlk | 7,310
 virakesarilk | 8,501
-adaderanasinhalalk | 9,178
+adaderanasinhalalk | 9,180
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,681 (100.0%) of 52,681 articles have been extended.
+52,683 (100.0%) of 52,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### A big rain over 100 mm
+
+*2024-11-02 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202839) · `si`
+
+Heavy rainfall warning: 100mm+ expected in central regions. Thunderstorms predicted across island. Public advised to be cautious due to lightning risk.
+
+🟩
+
+The Department of Meteorology has issued a new weather forecast, which is valid for the next 36 hours.
+
+Issued at 4 pm today at several places in the Central, Sabaragamuwa and Uva provinces. Heavy rains may occur at more than 100.
+
+Showers or thundershowers will occur at night or night in many parts of the island.
+
+Showers or thundershowers will occur at several places in the Western and Southern provinces.
+
+Meanwhile, the Department of Meteorologies requests the public to take necessary steps to reduce the dangers caused to lightning during the evening.
+
+◼️
+
+[Data](articles/3a72fc83.json)
+
+[Extended Data](ext_articles/3a72fc83.ext.json)
+
+---
+
+### 1818 fatal accidents - 1898 people killed
+
+*2024-11-02 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202838) · `si`
+
+1,818 fatal accidents: 1,898 deaths, 4,133 serious injuries, 7,146 minor injuries. Pedestrians (676) and motorcyclists (583) most affected. Drivers (135) and passengers (249) also victims. Road safety awareness urged due to poor visibility at night.
+
+🟩
+
+1,898 persons have been killed in 1,818 fatal accidents from 1st from January 1 to October 25, police said.
+
+Police Media Spokesperson, DIG's DIG's Court At a press conference held today (02), 676 were pavels.
+
+He made this statement regarding the accidents this year.
+
+62 people were injured in two road accidents in Badulla and the Radella yesterday.. Six died in accidents yesterday. The 1,818 fatal accidents have occurred in the year alone, from 1st January 1 to 25 October 25. 4,133 accidents were reported in serious injuries. 7,146 minor injuries were reported. "
+
+"1,898 people have been killed in 1,818 fatal accidents. 676 pedestrians. 583 motorcyclists have died. 135 drivers. 249 passengers traveling in vehicles. 123 cyclists. "
+
+"Vehicles belonging to 1,818 vehicles belonging to 1,818 prices, including 258 cubs, 21, 3-wheelers, 5-wheelers, 5-wheelers, 5 handers, 5 handers."
+
+"There are 42 vehicles related to fleeing incidents of accidents."
+
+...
+
+[Data](articles/bde5b710.json)
+
+[Extended Data](ext_articles/bde5b710.ext.json)
+
+---
 
 ### සමාජ සුභසාධන වැඩසහන් ඩිජිටල්කරණය කිරීම පිළිබඳ ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
 
@@ -2269,67 +2325,5 @@ The Government Information Department said on Friday that the online system woul
 [Data](articles/8e297fb0.json)
 
 [Extended Data](ext_articles/8e297fb0.ext.json)
-
----
-
-### The issuance of passport from December to accelerate
-
-*2024-11-01 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202813) · `si`
-
-Department of Immigration and Emigration accelerates passport issuance. Over 700,000 pending applications. Implements online process. Received 50,000 blank passports. Releases 1,600 daily. Gradually increases travel permits for applicants.
-
-🟩
-
-The Department of Immigration and Emigration (IMPA, Department of Immigration and Emigration) issued a statement that the issuance of foreign traffic will be able to accelerate the issuance of foreign traverses.
-
-The department states that more than 7 lakhs are due to be received in the future.
-
-The Department of Immigration and Emigration will be implemented by the Department of Immigration and the Department of Immigration and is implementing a formal online procedure.
-
-The Department of Immigration and Emigration has received 50,000 empty passes in the 'P' group in accordance with the overseas institution that was awarded the tender to purchase the tender.
-
-In the late November, a large number of empty passports of about Rs.
-
-Simultaneously procurement of other empty licenses has been launched by now.
-
-The Department of Immigration and Emigration will be released to applicants about 1,600 per day.
-
-...
-
-[Data](articles/f2bdc97e.json)
-
-[Extended Data](ext_articles/f2bdc97e.ext.json)
-
----
-
-### Bluddy Becker - Film Review
-
-*2024-11-01 18:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197674) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Bluddy Becker" film review: Gavin stars as a man who enters a mansion, gets trapped by relatives fighting over inheritance. Director Nelson's "Tata" and "Star" success precedes this. Ghostly humor and family drama ensue.
-
-🟩
-
-Actors: Gavin, Maruti Prakash Raj, Sunil Sugatha, DM Karthik, Padam Venu Kumar, Harshad, Miss. Salima, Priyadarshini Rajkumar, Akshaya Hariharan and many others.
-
-After the success of leading director Nelson Nelson - 'Tata' and 'Star', actor Gavin's different appearance - did the filmmakers who went to the filmmalai to see the film, were entertained by the film crew?Or are they?We will continue to see.
-
-Gavin asks people to differentiate people. He continues this because it is easy.
-
-One day he went into the palace like a palace and what would be there?He wants to enjoy and enjoy. He goes into the magnificent mansion for this.
-
-There is also a ghost there. There are relatives gathering in order to split the archetype. Gavin is trapped among them. Did he escape from them?Or not?That is the story of the film.
-
-Actor Gavin gives a different performance in begging and going into the mansion and getting stuck in relatives who can split the property.
-
-...
-
-[Data](articles/ece8bc1b.json)
-
-[Extended Data](ext_articles/ece8bc1b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 18:33:15**
+As of **2024-11-02 18:43:40**
 
 ## Newspaper Stats
 
-*Scraped **52,690** Articles*
+*Scraped **52,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 4,906
 adaderanalk | 6,261
 tamilmirrorlk | 7,311
 virakesarilk | 8,501
-adaderanasinhalalk | 9,182
+adaderanasinhalalk | 9,183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,690 (100.0%) of 52,690 articles have been extended.
+52,690 (100.0%) of 52,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට නායයෑම් අනතුරු ඇඟවීම් දීර්ඝ කෙරේ
+
+*2024-11-02 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202842) · `si`
+
+ප්‍රදේශ කිහිපයකට නිකුත් කර තිබූ නායයෑමේ අනතුරු ඇඟවීමේ නිවේදනය දීර්ඝ කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+ඒ අනුව කළුතර දිස්ත්‍රික්කයේ බුලත්සිංහල, මහනුවර දිස්ත්‍රික්කයේ උඩපළාත සහ යටිනුවර, කෑගල්ල දිස්ත්‍රික්කයේ බුලත්කොහුපිටිය, මාවනැල්ල,  දෙහිඕවිට, මාතර දිස්ත්‍රික්කයේ පස්ගොඩ, රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර, ඇහැළියගොඩ, ඇලපාත, කුරුවිට, කහවත්ත, ගොඩකවෙල, පැල්මඩුල්ල යන ප්‍රාදේශිය ලෙකම් කොට්ඨාස වෙත අදියර දෙක යටතේ 'අවදානයෙන් සිටින්න' ලෙස නිවේදනයක් නිකුත් කර තිබේ.
+
+මීට අමතරව බදුල්ල දිස්ත්‍රික්කයේ වැලිමඩ සහ හල්දුම්මුල්ල, ගාල්ල දිස්ත්‍රික්කයේ ඇල්පිටිය, කෑගල්ල දිස්ත්‍රික්කයේ වරකාපොල සහ යටියන්තොට, කුරුණෑගල දිස්ත්‍රික්කයේ පොල්ගහවෙල, මාතර දිස්ත්‍රික්කයේ කොටපොල සහ අකුරැස්ස, රත්නපුර දිස්ත්‍රික්කයේ නිවිතිගල, අයගම, බලංගොඩ, ඉඹුල්පේ, ඕපනායක, කිරිඇල්ල සහ කලවාන, අදියර එක යටතේ 'විමසිලිමත් බවින් සිටින්න' යන නිවේදනයද නිකුත් කර තිබේ.
+
+...
+
+[Data](articles/ef1284dd.json)
+
+---
 
 ### මනුෂ්‍ය ඝාතන දෙකකට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
 
@@ -2293,41 +2309,5 @@ Technical measures have been taken to allocate the time and date for applicants 
 [Data](articles/58dcb5d3.json)
 
 [Extended Data](ext_articles/58dcb5d3.ext.json)
-
----
-
-### ஹொங் கொங் சிக்ஸஸ் கிண்ண பிரிவுக்கான கால் இறுதியில் இலங்கை
-
-*2024-11-01 20:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197685) · `ta`
-
-Sri Lanka qualifies for quarterfinals, beats Oman and Bangladesh in cricket matches. Nepal also qualifies after beating England. Sri Lanka faces Nepal in quarterfinals tomorrow, win would advance to semifinals.
-
-🟩
-
-The Hong Kong Six Cricket Cricket Cricket at the Hong Kong Mission Road Ground, Hong Kong, was eligible to play in the main bowl division quarterfinals.
-
-Sri Lanka qualified to play in the quarterfinals by winning Oman and Bangladesh on Friday (01) in the league round.
-
-இன்று காலை நடைபெற்ற ஓமானுக்கு எதிரான தனது முதலாவது போட்டியில் 4 விக்கெட்களால் இலங்கை வெற்றிபெற்றது.
-
-Oman scored 82 runs for the loss of 2 wickets in 6 overs.
-
-Hong Kong Six Cricket Cricket. If 5 wickets fall in 6 overs, he can enter the field again.
-
-In the match, the team will be given only 2 overs in the match.
-
-In the bowling, Tanjaya Lakshan took one wicket for 6 runs and Lahiru Madushank took one wicket for 16 runs.
-
-In reply, Sri Lanka lost 2 wickets in 4.1 overs and scored 82 runs.
-
-Chandun Veerakkodi scored 28 runs, Lahiru Samarakoon scored 20 runs without losing, and team captain Lahiru Madushankan scored 15 runs without losing the game.
-
-Sri Lanka won by 18 runs in its 2nd match against Bangladesh on the same day.
-
-...
-
-[Data](articles/b1c85142.json)
-
-[Extended Data](ext_articles/b1c85142.ext.json)
 
 ---

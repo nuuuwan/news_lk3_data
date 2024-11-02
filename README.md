@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 22:39:41**
+As of **2024-11-02 22:57:37**
 
 ## Newspaper Stats
 
-*Scraped **52,712** Articles*
+*Scraped **52,713** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 4,907
 adaderanalk | 6,264
 tamilmirrorlk | 7,314
 virakesarilk | 8,508
-adaderanasinhalalk | 9,189
+adaderanasinhalalk | 9,190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,712 (100.0%) of 52,712 articles have been extended.
+52,713 (100.0%) of 52,713 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Red light from Station Masters
+
+*2024-11-02 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202849) · `si`
+
+Railway Masters Association threatens strike over unresolved demands. Chairman Sumantha Somaratne thanks Minister for support. Minister Vijitha Herath urges patience, saying unions should wait for new government.
+
+🟩
+
+The Railway Masters Association (OICs) says that it has been decided to take action to provide proper solutions for their demands.
+
+However, the Association said that through his trade union action would not cause passengers to take place.
+
+Speaking at a media briefing held in this regard today, the Chairman of the Railways Sumantha Somaratne said that he thanked the Minister in charge of his trade union action.
+
+Sumantha Sumanthathne, Chairman of the Association Summit, Sumanaratne said,
+
+"We enjoyed the minister yesterday that the Railway Stations had been unfair to solve their time or focus on this busy moment on this busy meeting. The General Manager, appoint committees. It is good to appoint committees. Our participation has no participation of issues. The officers of the Department will not be hesitant to a professional campaign not to be difficult by the General Manager of the Ministry on Monday.
+
+Meanwhile, Minister Vijitha Herath, who spoke regarding the Station Masters' strike,
+
+...
+
+[Data](articles/249a39bd.json)
+
+[Extended Data](ext_articles/249a39bd.ext.json)
+
+---
 
 ### Six including foreigner arrested over Arugam Bay security threat
 
@@ -2355,33 +2383,5 @@ The 5 November election, for all its drama, jabs, and entertainment, many feel v
 [Data](articles/533d85ce.json)
 
 [Extended Data](ext_articles/533d85ce.ext.json)
-
----
-
-### Accident in Badulla: Two students die - Ministry of Defense
-
-*2024-11-02 03:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197689) · `ta`
-
-Bus accident in Badulla: 2 students killed, 7 critical injuries. Ministry of Defense provides support for funerals and medical transport. Technical failure caused the crash.
-
-🟩
-
-The Ministry of Defense has issued a notification regarding the incident of a bus accident in the Kotalawala Safety University in Ambakasanthiya area of ​​Tunhinda - Badulla road.
-
-At the time of the accident, 36 students from the 39th text of the Kotalawala Safety College, 03 lecturers, a consultant in charge of the group, a senior military member of the bus and one of the 42 bus drivers.
-
-Two students have died in the accident and two students who died are from Kurunegala and Nivithigala area.
-
-The Ministry of Defense has said that the funeral of the two students has been made to make necessary arrangements under the full sponsor of the Kotalawala Safety University.
-
-According to hospital sources, 40 more people were injured in the accident and seven of them have been admitted to the intensive care unit.
-
-The Defense Ministry further stated in its announcement that arrangements have been made to bring patients to Colombo for further treatment.
-
-...
-
-[Data](articles/16c68939.json)
-
-[Extended Data](ext_articles/16c68939.ext.json)
 
 ---

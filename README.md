@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 12:39:56**
+As of **2024-11-02 12:58:10**
 
 ## Newspaper Stats
 
-*Scraped **52,649** Articles*
+*Scraped **52,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,67 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,902
 adaderanalk | 6,255
-tamilmirrorlk | 7,303
-virakesarilk | 8,493
+tamilmirrorlk | 7,305
+virakesarilk | 8,498
 adaderanasinhalalk | 9,168
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,649 (100.0%) of 52,649 articles have been extended.
+52,651 (100.0%) of 52,656 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### What is the current state of those involved in the Badulla accident?
+
+*2024-11-02 12:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-விபத்தில்-சிக்கியவர்களின்-தற்போதைய-நிலை-என்ன/76-346442) · `ta`
+
+Badulla accident update: 10 patients in ICU, some may move to general ward today. No need for Colombo transfers; hospital has adequate treatment facilities.
+
+🟩
+
+Palitha Rajapakse, senior medical officer of the Emergency Department of the Hospital, said that those who were admitted to the intensive care unit of the Badulla Teaching Hospital were injured in a bus accident on Tunhinda - Badulla road yesterday morning.
+
+He added that some of the ten people who are being treated in the intensive care unit could be transferred to the General Ward today.
+
+There is no need to take any patient to Colombo on flight. The hospital has all the necessary facilities to treat the injured. ”. Remble
+
+◼️
+
+[Data](articles/4d3536a9.json)
+
+[Extended Data](ext_articles/4d3536a9.ext.json)
+
+---
+
+### The country needs decent politics
+
+*2024-11-02 12:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒழுக்கமான-அரசியலே-நாட்டுக்குத்-தேவை/175-346441) · `ta`
+
+The Democratic Front party's Colombo district candidate Ranil Vilatharake emphasizes the need for decent politics to address economic, social, and cultural challenges. He praises former President Ranil Wickremesinghe's leadership and calls for unity among entrepreneurs to boost foreign exchange and restore the economy within five years.
+
+🟩
+
+The new Democratic Front party's Colombo district candidate Ranil Vilatharake said that the country needs decent politics, which can make a change in various sectors including economics, community, culture and politics.
+
+He said this while attending a public meeting in Piliyandala area.
+
+“It is the responsibility and responsibility of all of us, including the people of the country, to voice their voice to create a better political culture in the country. As the economy of the country has fallen, we faced various crises and caused various problems in various sectors. The people of the country were under heavy pressure. We cannot forget it.
+
+“It was challenging to manage the situation and the issues and arrangements made by former President Ranil Wickremesinghe are commendable.
+
+“It is rare in this political field. The knowledge and experience of such a leader is essential to restore the country from today. Those who want to be a leader must learn from him.
+
+...
+
+[Data](articles/4dc6f3e4.json)
+
+[Extended Data](ext_articles/4dc6f3e4.ext.json)
+
+---
 
 ### Nanuoya - accident on Rathalla road: One killed;20 people injured
 
@@ -55,6 +103,22 @@ A 75 -year -old elderly woman who was traveling in the van dies. Also, 20 people
 [Data](articles/2a28732b.json)
 
 [Extended Data](ext_articles/2a28732b.ext.json)
+
+---
+
+### கொழும்பில் ஐஸ் போதைப்பொருளுடன் இளைஞன் கைது !
+
+*2024-11-02 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197707) · `ta`
+
+கொழும்பு , முகத்துவாரம் பொலிஸ் பிரிவுக்கு உட்பட்ட  கல்வல சந்திக்கு அருகில் ஐஸ் போதைப்பொருளுடன் இளைஞன் ஒருவன் நேற்று வெள்ளிக்கிழமை (01) கைது செய்யப்பட்டுள்ளதாக  முகத்துவாரம் பொலிஸார் தெரிவித்தனர்.
+
+முகத்துவாரம் பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யபட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 10 கிராம் 200 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/95f0a114.json)
 
 ---
 
@@ -126,6 +190,24 @@ The President expressed interest in learning from India’s expertise in power a
 
 ---
 
+### பியகமையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2024-11-02 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197704) · `ta`
+
+கம்பஹா, பியகம பொலிஸ் பிரிவுக்கு உட்பட்ட யபரலுவ பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (01) கைது செய்யப்பட்டுள்ளதாக பியகம பொலிஸார் தெரிவித்தனர்.
+
+பியகம பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்  கைது செய்யபட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கம்பஹா,  மல்வானை பிரதேசத்தைச் சேர்ந்த 32 வயதுடையவர் ஆவார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 67 கிராம் 240 மில்லி கிராம் ஐஸ் போதைப்பொருள் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக கூறப்படும் 20 ஆயிரம் ரூபா பணம் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/77f11ddb.json)
+
+---
+
 ### Lohan Ratwatte to be arrested
 
 *2024-11-02 11:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-බන්ධනාගාර-රෝහලට/11-412804) · `si`
@@ -143,6 +225,70 @@ Former MP Lohan Ratwatte, who was arrested in connection with an incident, has b
 [Data](articles/1f6d5acf.json)
 
 [Extended Data](ext_articles/1f6d5acf.ext.json)
+
+---
+
+### வன்னி தேர்தல் மாவட்டத்தில் 17 முறைப்பாடுகள் பதிவு - தெரிவத்தாட்சி அலுவலர்
+
+*2024-11-02 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197699) · `ta`
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலுக்காக வன்னி தேர்தல் மாவட்டத்தில் இதுவரை 17 தேர்தல் முறைப்பாடுகள் பதிவாகியுள்ளதாக தெரிவத்தாட்சி அலுவலரும் வவுனியா அரச அதிபருமான பி.எ. சரத்சந்திர தெரிவித்தார்.
+
+இதுவரை வன்னி தேர்தல்மாவட்டத்தில் 17 முறைப்பாடுகள் பதிவுசெய்யப்பட்டுள்ளது. அந்தவகையில்  வவுனியாமாவட்டத்தில் எட்டு முறைப்பாடுகளும், மன்னார் மாவட்டத்தில் எட்டு முறைப்பாடுகளும், முல்லைத்தீவில் ஒரு முறைப்பாடுல் கிடைக்கப்பெற்றுள்ளது. அவை சிறிய முறைப்பாடுகளாகவே உள்ளது.
+
+இதேவேளை வவுனியாவில் வாக்கெண்ணும் மத்தியநிலையமாக சைவப்பிரகாசா மகளீர் கல்லூரியும், மன்னார்மாவட்டத்தில் மாவட்டச் செயலகமும், முல்லைத்தீவு மத்திய மகாவித்தியாலமும் வாக்கெண்ணும் மத்திய நிலையங்களாக செயற்ப்படுவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளது.
+
+இதேவேளை வன்னி தேர்தல் மாவட்டத்தில் எதிர்வரும் பாராளுமன்றத்தேர்தலில் 30,6081 வாக்காளர்கள் வாக்களிப்பதற்கு தகுதி பெற்றுள்ளனர்.
+
+அந்தவகையில் வவுனியாவில் 128,585 பேரும் முல்லைத்தீவில்86,889 பேரும் மன்னாரில் 90,607பேரும் வாக்களிக்க தகுதி பெற்றுள்ளனர் என்றார்.
+
+◼️
+
+[Data](articles/89d5ae41.json)
+
+---
+
+### இன்னொரு முக்கியமான சவாலை கையாளும் ஜனாதிபதி
+
+*2024-11-02 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197697) · `ta`
+
+பொருளாதாரத்தை கையாளுகின்ற விடயமாக இருந்தாலென்ன, பயண அறிவுறுதல்கள் அல்லது நல்லிணக்கச் செயன்முறையைக் கையாளுகின்ற விடயமாக இருந்தாலென்ன அரசாங்கம் அதன் நடவடிக்கைகளில் மிகவும் அறிவார்ந்த முறையில் செயற்படுகின்றது.
+
+அதன் விளைவான பயனையும் அனுபவிக்கிறது. அதிகாரத்தில் ஒரு மாதகாலம் இருந்த பிறகு அரசாங்கத்தின் மக்கள் செல்வாக்கு தொடர்ந்து அதிகரிக்கின்றது என்பதன் அறிகுறியே தெற்கில் எல்பிட்டிய பிரதேச சபை தேர்தலில் அதற்கு கிடைத்த வெற்றியாகும்.
+
+அந்த செலாவாக்கு அதிகரிப்பு ஜனாதிபதி அநுரா குமார திசாநாயக்கவுடன் மட்டுப்படுத்தப்பட்டதாக இல்லாமல் தேசிய மக்கள் சக்திக்கும் விரிவடைகிறது.
+
+இந்த தடவை தேசிய மக்கள் சக்தியின்  வெற்றியின் வித்தியாசம் கடந்த தடவை அது இத்தகைய உள்ளூராட்சி தேர்தலை எதிர்நோக்கியபோது காணப்பட்ட வித்தியாசத்தையும் விட மிகவும் பெரிதாக இருக்கிறது.
+
+முன்னர் 2019 ஆம் ஆண்டில் எல்பிட்டிய பிரதேச சபைக்கு நடைபெற்ற தேர்தலில் அதற்கு  இரு ஆசனங்களே கிடைத்தன.
+
+இப்போது 15 ஆசங்களை அது கைப்பற்றியிருக்கிறது. அப்போது ஆறு சதவீத வாக்குகளை மாத்திரமே பெற்ற தேசிய மக்கள் சக்தி இப்போது 48 சதவீதமான வாக்குகளைப் பெற்றிருக்கிறது.
+
+...
+
+[Data](articles/8a727ab5.json)
+
+---
+
+### கமலா ஹரிசின் நம்பிக்கை பெண் வாக்காளர்களில் தங்கியுள்ளது – பல பெண்கள்  எழுச்சி பெறுகின்றனர்
+
+*2024-11-02 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197701) · `ta`
+
+அமெரிக்க தேர்தலின் முக்கிய போர்க்களங்களான அரிசோனா மிச்சிகன் போன்ற மாநிலங்களில் இளம்பெண்கள் அதிகாலையிலேயே வாக்களிப்பதற்காக காத்திருக்கின்றனர்.
+
+அவர்கள் தேர்தல் முடிவுகளை தனக்கு சாதகமான மாற்றுவார்கள் என ஜனநாயக கட்சியின் ஜனாதிபதி வேட்பாளர் கமலா ஹரிஸ் எதிர்பார்க்கின்றார்.
+
+மிச்சிகன் பல்கலைகழகத்தில் வழமைக்கு மாறான காலநிலையை கொண்ட காலையில் மிச்சிகன் பல்கலைகழகத்தின் ஆன் ஆர்பர் வளாகத்தின் பல்கலைகழகத்தின் முன்கூட்டியே வாக்களிக்கும் நிலையத்தில் அதிகாலையிலேயே வரிசையில் நின்றனர்.
+
+அவர்களில் ஒருவர் மூன்றாம் வருட மாணவி கீலிகனொங் அவர் கமலா ஹரிசிற்கு வாக்களிப்பது குறித்து மிகுந்த ஆர்வத்துடன் காணப்படுகின்றார்.
+
+பாலினசமத்துவம் என்பது முக்கியமான விடயங்களில் ஒன்றுஇஎன தெரிவிக்கின்றார் அவரது நண்பி லொவா நொர்ட்லிங்கர்.கருக்கலைப்பிற்கான உரிமை குறித்த கமலாஹரிசின் நிலைப்பாட்டினை அவர்  வலியுறுத்துகின்றார்.
+
+ஒருபெண்ணின் தெரிவு என்பது அவரது தனிப்பட்ட விடயம் உண்மையில் அது வேறு ஒருவரின் தீர்மானமாக இருக்க முடியாது என்கின்றார் அவர்.
+
+...
+
+[Data](articles/1e0d2855.json)
 
 ---
 
@@ -2137,179 +2283,5 @@ Accordingly, the principal amount of USD 5,670 million and interest of USD 2,527
 [Data](articles/2959450a.json)
 
 [Extended Data](ext_articles/2959450a.ext.json)
-
----
-
-### Four decades after the Palaly and Atchuveli main road is opened
-
-*2024-11-01 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202807) · `si`
-
-After 40 years, Palali-Atchuveli main road reopens under President Anura Kumara Dissanayake's orders. Closed during 30-year war, it remained inaccessible for 15+ years post-conflict. Security forces cleared the route with Defense Ministry assistance.
-
-🟩
-
-Palali - Atchuveli main road has been opened today (01) at the instructions of President Anura Kumara Dissanayake.
-
-Thirty-Year War Status The main road was closed and over 15 years after the end of the war, the road was not open to the masses.
-
-The Northern Province Governor Nagalingam Vedanayagam was also requested by President Anura Kumara Dissanayake on October 22nd.
-
-Accordingly, President Anura Kumara Dissanayake had informed the security forces to look into the security situation in the opening of the road and to operate the road by the intervention of the Ministry of Defense and the Defense Secretary.
-
-◼️
-
-[Data](articles/15cc9e6c.json)
-
-[Extended Data](ext_articles/15cc9e6c.ext.json)
-
----
-
-### Revelation on foreign debt in the first 6 months
-
-*2024-11-01 15:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202806) · `si`
-
-Sri Lanka's foreign debt: $503m paid Jan-Jun 2024 ($275.1m interest, $227.9m principal). Government debt: $37.5b as of Jun 2024. Bilateral/commercial creditor loans suspended. Unpaid installments: $5.67b (bilateral), $2.53b (commercial) as of Jun 30, 2022.
-
-🟩
-
-It is reported that Sri Lanka has paid overseas loan services of $ 503 million in the period from 1 January to 30, 2024.
-
-The $ 275.1 million is recorded as interest payments and $ 227.9 million as interest payments.
-
-At the end of June, 2024, government foreign debt was $ 37.5 billion.
-
-The foreign debt services of the affected bilateral and commercial creditors were temporarily suspended in accordance with the implications of the government.
-
-Accordingly, the amount of loan installments that have not been admitted to June 30, 2022, have been reported as $ 5,670 million and $ 2,527 million.
-
-This is stated in the Mid-2024 Fiscal Status of the Ministry of 2024, published by the Ministry of Finance.
-
-◼️
-
-[Data](articles/bd0e3afb.json)
-
-[Extended Data](ext_articles/bd0e3afb.ext.json)
-
----
-
-### නීතිඥවරයෙකුගේ නීතිඥභාවය වසර 05කට අත්හිටුවයි
-
-*2024-11-01 15:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202805) · `si`
-
-Supreme Court suspends lawyer for 5 years over misconduct
-
-🟩
-
-The Supreme Court today (1) ordered the Supreme Court today to suspend the lawyers' lawyer for a period of five years.
-
-The order has been issued following a complaint lodged by the Colombo High Court Judge Adurdarandiage.
-
-අදාළ පැමිණිල්ලෙන් සඳහන් කර ඇත්තේ වගඋත්තරකාර නීතිඥවරයා කොළඹ මහාධිකරණය හමුවේ ගොනුකර තිබූ අපරාධ නඩුවක විත්තිකරුවකු වෙනුවෙන් පෙනී සිටීම සඳහා රජයෙන් පත්කොට තිබියදී, ඔහු විත්තිකරු වෙනුවෙන් දින තුනක් නොකඩවා අධිකරණය හමුවේ පෙනී නොසිටි බවය.
-
-The respondent has informed the court that the respondent will accept the charges.
-
-Accordingly, Mahinda Samayawardena has the Supreme Court Judge S.. තුරෙයි රාජා මහතා තීන්දුව ප්‍රකාශයට පත් කරමින් දැනුම්දී ඇත්තේ, මෙම විත්තිකරු නීතිඥ ආචාරධර්ම කඩවන ආකාරයෙන් කටයුතු කර ඇති බවයි.
-
-However, he has informed the charges of accepting the wrongdoing and consume his law and suspended his lawyers for five years.
-
-◼️
-
-[Data](articles/16a13ed7.json)
-
-[Extended Data](ext_articles/16a13ed7.ext.json)
-
----
-
-### Should the animals eat him and brought him to the river?
-
-*2024-11-01 15:27:36* · [`adalk`](https://www.ada.lk/breaking_news/ඔහුව-මරා-ගඟට-ගෙනත්-දැම්මේ-සතුන්ට-කන්නද-/11-412796) · `si`
-
-Dead body found Peliyagoda-Negombo road. Age 45-50, 6ft tall. Body deformed. Hair black, shaved face. Police investigation ongoing. Body at Colombo morgue.
-
-🟩
-
-Peliyagoda Police say that a dead body of the gas garden was found in Peliyagoda - Negombo road yesterday (31).
-
-The deceased is about 45-50 years old and nearly 6 feet. The bodies were dressed in fundamental limbs, and the hair had black whitewashed and the head was on the middle of the head. Shaved all over this person's face. The body has been deformed, police said.
-
-Peliyagoda Police are conducting further investigations and the body is deposited at the Colombo morgue.
-
-◼️
-
-[Data](articles/a4fe8ca4.json)
-
-[Extended Data](ext_articles/a4fe8ca4.ext.json)
-
----
-
-### Detailed university students who died of fatal accident in Badulla
-
-*2024-11-01 15:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202804) · `si`
-
-Two university students killed in bus crash near Badulla. Injured taken to hospital. Accident caused by loss of vehicle control.
-
-🟩
-
-අද (01) උදෑසන බදුල්ල පොලිස් වසමේ බදුල්ල - මහියංගනය ප්‍රධාන මාර්ගයේ දුන්හිඳ ඇල්ල පසුකර අඹගහඔය ප්‍රදේශයේ දී, බදුල්ල දෙස සිට මහියංගනය දෙසට ධාවනය වූ බස් රථයක් පෙරළීයාමෙන් අනතුරක් සිදුවිය.
-
-41 persons were injured and rushed to the Badulla hospital and two university students have died after being admitted to the hospital.
-
-The deceased has been identified as the Southern Tama Campus of the Kotelawala Defense University residing in Nivitigala and Kurunegala.
-
-A group of students of the Southern Tabernacle in Sooriyawewa in the Sooriyawewa Defense University were involved in the bus.
-
-The accident had occurred when the bus was unable to control the bus, Badulla Police said.
-
-අනතුරින් තුවාල ලැබූවන් මේ වන විට බදුල්ල රෝහලේ ප්‍රතිකාර ලබයි.
-
-The bodies of the two college dead were placed at the Badulla hospital.
-
-◼️
-
-[Data](articles/79b97082.json)
-
-[Extended Data](ext_articles/79b97082.ext.json)
-
----
-
-### IMF. කණ්ඩායමක් නුදුරේදීම ලංකාවට
-
-*2024-11-01 15:19:44* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--කණ්ඩායමක්-නුදුරේදීම-ලංකාවට/11-412795) · `si`
-
-IMF team visits Sri Lanka to discuss economic reforms. After presenting budget, IMF representatives met President and discussed fifth review cycle. Decision made on granting fourth review to Sri Lanka.
-
-🟩
-
-A team of the IMF is due to visit Sri Lanka to discuss the third review of Sri Lanka's third review.
-
-වත්මන් රජය දිවුරුම් දීමෙන් පසු IMF නියෝජිතයින් ශ්‍රී ලංකාවට පැමිණ ජනාධිපතිවරයා සමග සාකච්ඡාවක් පැවැත්වූ අතරම  ශ්‍රී ලංකාවේ කණ්ඩායමක් වොෂින්ටන් වෙතද ගොස් සාකච්ඡා පැවැත්වීය.
-
-තුන්වන සමාලෝචනයෙන් පසුව සිව්වැනි වාරිකය ශ්‍රී ලංකාවට ලබාදීම පිළිබඳව තීරණය කෙරුනු ඇත.
-
-◼️
-
-[Data](articles/2e07e08d.json)
-
-[Extended Data](ext_articles/2e07e08d.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ prepared to fulfill role of true opposition - Dilith
-
-*2024-11-01 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103090/sarvajana-balaya-prepared-to-fulfill-role-of-true-opposition-dilith) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance and Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera, expressed that his team is prepared to fulfill the role of a true, courageous opposition.
-
-He made these remarks while addressing the Kelaniya constituency meeting of the ‘Sarvajana Balaya’ alliance on Thursday (31).
-
-“‘The Sarvajana Balaya’ has a leadership that stands up for you and does not escape through the back door. We are going on this journey with you. That is our leadership,” he stated.
-
-He further said that “this is a brave opposition, not one coming simply to remain in the opposition. It is coming to take power bravely. Not by pulling from the leg.”
-
-◼️
-
-[Data](articles/5df1456f.json)
-
-[Extended Data](ext_articles/5df1456f.ext.json)
 
 ---

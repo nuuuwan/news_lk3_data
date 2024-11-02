@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 05:45:41**
+As of **2024-11-02 06:09:38**
 
 ## Newspaper Stats
 
-*Scraped **52,610** Articles*
+*Scraped **52,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 533
 bbccomsinhala | 540
-islandlk | 3,133
+islandlk | 3,140
 economynextcom | 3,196
 dailyftlk | 3,604
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,162
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,610 (100.0%) of 52,610 articles have been extended.
+52,615 (100.0%) of 52,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -216,6 +216,72 @@ The 5 November election, for all its drama, jabs, and entertainment, many feel v
 
 ---
 
+### The Gratiaen Trust collaborates with NYU Abu Dhabi
+
+*2024-11-02 01:20:00* · [`islandlk`](http://island.lk/the-gratiaen-trust-collaborates-with-nyu-abu-dhabi/) · `en`
+
+Pulitzer Prize-Winning Poet Prof. Gregory Pardlo to Chair Jury for 32nd Gratiaen Prize
+
+The Gratiaen Trust, in association with John Keells Foundation, is delighted to announce its collaboration with New York University Abu Dhabi (NYUAD) for the 32nd Gratiaen Prize. This collaboration will see Prof Gregory Pardlo – a Pulitzer Prize-winning writer and the Head of the Literature and Creative Writing Program of NYU Abu Dhabi in the Arts and Humanities academic division – heading the Gratiaen Prize jury in addition to participating in a number of other activities that will contribute to the enrichment of the literary arts in Sri Lanka.
+
+...
+
+[Data](articles/030ece30.json)
+
+[Extended Data](ext_articles/030ece30.ext.json)
+
+---
+
+### Standard Chartered appoints Harini Jayaweera as Chief Compliance Officer
+
+*2024-11-02 01:20:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-harini-jayaweera-as-chief-compliance-officer/) · `en`
+
+Standard Chartered has appointed Harini Jayaweera as Chief Compliance Officer in Sri Lanka, effective October 21, 2024. In this role, Harini will oversee the Bank’s Conduct, Financial Crime and Compliance functions while continuing her responsibilities as Head of Financial Crime Compliance (FCC) and Country Money Laundering Compliance Officer (CMLCO).
+
+Standard Chartered Sri Lanka CEO, Bingumal Thewarathanthri, stated, “We are proud of her journey with the Bank, and her appointment to this critical leadership role reflects the Bank’s culture of recognising and promoting internal talent and expertise. We are confident that we will continue to improve regulatory relations and drive thought-leadership making positive contributions to the industry under her leadership.”
+
+Harini has over 16 years of extensive experience in regulatory compliance and financial crime risk management, and has demonstrated exceptional leadership in Advisory, FCC, and Regulatory Governance throughout her career.
+
+...
+
+[Data](articles/a0a49e6e.json)
+
+[Extended Data](ext_articles/a0a49e6e.ext.json)
+
+---
+
+### Adaaran Resorts triumphs with multiple awards at FHAM 2024
+
+*2024-11-02 01:18:00* · [`islandlk`](http://island.lk/adaaran-resorts-triumphs-with-multiple-awards-at-fham-2024/) · `en`
+
+Aitken Spence Hotels’ Adaaran Select Hudhuran Fushi, Adaaran Prestige Vadoo, and Adaaran Select Meedhupparu achieved remarkable recognition at the Food and Hospitality Asia Maldives Global Culinary Challenge and Exhibition 2024 (FHAM). Each resort showcased its culinary excellence, securing a multitude of prestigious awards.
+
+Adaaran Select Hudhuran Fushi, a 24-hour Premium All-inclusive resort, garnered eleven awards, including four Gold Awards. Adaaran Prestige Vadoo, an exclusive adults-only haven, claimed a total of nine accolades, including four Gold Awards and a special award. Adaaran Select Meedhupparu, also a 24-hour Premium All-Inclusive resort nestled within a lush mature island, celebrated six noteworthy awards.
+
+...
+
+[Data](articles/6a0d16f2.json)
+
+[Extended Data](ext_articles/6a0d16f2.ext.json)
+
+---
+
+### SLT-MOBITEL empowers EDEX Mid-Year Expo 2024 as its official ICT Solutions Partner
+
+*2024-11-02 01:17:00* · [`islandlk`](http://island.lk/slt-mobitel-empowers-edex-mid-year-expo-2024-as-its-official-ict-solutions-partner/) · `en`
+
+SLT-MOBITEL, demonstrating a strong commitment to nurturing education and career development in Sri Lanka, partnered with the EDEX Mid-Year Expo 2024 as its official ICT Solutions Partner. A landmark event in Sri Lanka’s educational calendar, SLT-MOBITEL provided robust Wi-Fi connectivity throughout the exhibition, ensuring seamless digital experiences for exhibitors and attendees.
+
+The event reaffirms SLT-MOBITEL’s reputation as a key player in the ICT industry, with an emphasis on its support of education and professional development. The exhibition also highlights SLT-MOBITEL’s commitment to endorsing students, educators, and institutions as they explore global educational opportunities in real time. An effort that further invests in the future of Sri Lanka’s workforce and youth.
+
+...
+
+[Data](articles/2bbb8b8e.json)
+
+[Extended Data](ext_articles/2bbb8b8e.ext.json)
+
+---
+
 ### வேன் எதிர் திசையில் இருந்து வந்த லொறி ஒன்றுடன் மோதி விபத்து; ஒருவர் உயிரிழப்பு
 
 *2024-11-02 00:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197690) · `ta`
@@ -237,6 +303,24 @@ However, one person died in the accident. Police suspect the accident may have b
 [Data](articles/16f5e8a2.json)
 
 [Extended Data](ext_articles/16f5e8a2.ext.json)
+
+---
+
+### HSBC Ceylon Literary & Arts Festival announces second edition
+
+*2024-11-02 00:29:00* · [`islandlk`](http://island.lk/hsbc-ceylon-literary-arts-festival-announces-second-edition/) · `en`
+
+A Celebration of Culture, Creativity, and Youth Empowerment, 17th – 19th January 2025
+
+The HSBC Ceylon Literary & Arts Festival is set to return for its second edition from January 17-19, 2025. Building on the success of its inaugural launch, the festival aims to further establish itself as a premier art and culture platform, enhancing Sri Lanka’s soft power on the global stage.
+
+Last year’s festival saw an impressive turnout featuring 44 authors, both local and international, and offered cleverly themed, curated sessions that resonated with the audience. This year, the festival aims to build on its success, creating an even more engaging and impactful experience for 2025.
+
+...
+
+[Data](articles/804b0001.json)
+
+[Extended Data](ext_articles/804b0001.ext.json)
 
 ---
 
@@ -2289,157 +2373,5 @@ Meanwhile, the Ministry of Commerce has announced that it is continuing to detec
 [Data](articles/4b95fa0b.json)
 
 [Extended Data](ext_articles/4b95fa0b.ext.json)
-
----
-
-### What controversies have the controversy of Lohan Ratwatte?
-
-*2024-11-01 10:55:38* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1e7njpdlxxo) · `si`
-
-Here's a summary of the controversies surrounding Lohan Ratwatte in approximately 200 characters:
-
-
-
-Lohan Ratwatte, son of former defense minister Anuruddha Ratwatte, embroiled in several scandals:
-
-
-
-1. Arrested for using an illegally imported Jeep
-
-2. Accused of threatening prison officials 
-
-3. Condemned for mistreating prisoners at Welikada Prison
-
-4. Linked to a 2001 shooting of 10 Muslim youths in Kandy
-
-5. Involved in a 2023 murder of his private secretary
-
-
-
-These incidents have marred his political career and reputation.
-
-🟩
-
-In snaps of the name of Lohan Ratwatte, many are reminded of the controversial events of him and family rather than a politician. Lohan Ratwatte is the son of Anuruddha Ratwatte, former security.
-
-During the last presidential election, he was awarded by a statement that Anura Kumara Dissanayake would not be the President of Sri Lanka until he was alive.
-
-"Mr. Anura Kumara is trying to sell 24 years today."
-
-Responding to this, Anura Kumara Dissanayake was also told at a presidential in Kandy.. It was good to see him alive to see our victory. All should prove that everyone is like the same. The best example for it is Lohan. ".
-
-He is currently arrested in connection with the latest incident in Lohan Ratwatte and remanded. That is to November 7th.
-
-The Sri Lanka Freedom Party MP was elected to the Central Provincial Council in 2009.
-
-He was appointed as the Sri Lanka Freedom Party Organizer of the Pathadumbara. He is the Minister of Road Development. He was re-elected to parliament by 2015 and 2020.
-
-...
-
-[Data](articles/39c5a476.json)
-
-[Extended Data](ext_articles/39c5a476.ext.json)
-
----
-
-### Warrant is taken back after Johnston is contesting to court
-
-*2024-11-01 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202795) · `si`
-
-Johnston Fernando's bribery case: Warrant revoked, additional bail set. Case heard by Colombo High Court Judge Manjula Tilakaratne. President's Counsel Paris Kalinga Inderithas represented Fernando. Bribery Commission accuses Fernando and two others of corruption during official duties.
-
-🟩
-
-Former Minister Johnston Fernando issued a warrant by the Bribery Commission, he ordered the warrant to revert the warrant and released on an added bail.
-
-The case was called before Colombo High Court Judge Manjula Tilakaratne.
-
-President's Counsel, Attorney at Law Paris Kalinga Inderthis, who appeared for Johnston Fernando, the accused had gone to the Criminal Investigation Department to the Criminal Investigation Department.
-
-However, the judge, noted that the defendant cannot be satisfied with the contents of the defendant, he ordered him to have an additional guarantee.
-
-Accordingly, Mr. Johnston Fernando ordered the release of Rs.
-
-The Bribery Commission has filed the case against three defendants including former Minister Joneston Fernando, including former Minister Joneston Fernando, who accused the government from their official duties and depriving the government from their official duties.
-
-◼️
-
-[Data](articles/588d3deb.json)
-
-[Extended Data](ext_articles/588d3deb.ext.json)
-
----
-
-### Sri Lanka rupee trades stronger at 292.80/85 to dollar, bonds steady
-
-*2024-11-01 10:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trades-stronger-at-292-80-85-to-dollar-bonds-steady-185829/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted around 292.80/85 to the US dollar Thursday, stronger from 293.00/20 to the US dollar Wednesday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 quoted at10.65/85 percent Thursday, from Wednesday’s close of 10.60/80 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.40/50 percent down from 11.45/60 percent.
-
-A bond maturing on 15.03.2028 was quoted 11.70/80 percent down from 11.75/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent unchanged from 11.95/12.10 percent. (Colombo/Nov01/2024)
-
-◼️
-
-[Data](articles/2e66fb0a.json)
-
-[Extended Data](ext_articles/2e66fb0a.ext.json)
-
----
-
-### Husband and wife arrested with heroin worth Rs 200 crore
-
-*2024-11-01 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197619) · `ta`
-
-Husband and wife arrested with 53 kg heroin worth Rs 200 crore in Sevenkayal, Nukekalay, Kiriwev region. Heroin found in plastic containers during raid. Suspects handed over to police drug unit for investigation.
-
-🟩
-
-The Special Task Force (STF) said that husband and wife have been arrested with heroin drugs worth about Rs 200 crore.
-
-பொலிஸ் விசேட அதிரடிப்படையினருக்குக் கிடைத்த தகவலின் பேரில் செவனகல , நுகேகலாய , கிரிவெவ பிரதேசத்தில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்கள்  கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்டவர்களின் வீட்டு முற்றத்தில் புதைக்கப்பட்டிருந்த மூன்று பிளாஸ்டிக் கொள்கலன்களில் இருந்து 53 கிலோ 65 கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-Subsequently, the suspects have been handed over to the Police Drug Eradication Unit for further investigations.
-
-◼️
-
-[Data](articles/6509127e.json)
-
-[Extended Data](ext_articles/6509127e.ext.json)
-
----
-
-### Pushpakumara, who was driven by 100 tractors, launched a record
-
-*2024-11-01 10:33:53* · [`adalk`](https://www.ada.lk/uncategorized/ට්‍රැක්ටර්-100ක්-තම-ශරීරය-මතින්-ධාවනය-කරමින්-වාර්තාවක්-තැබූ-පුෂ්පකුමාර/1-412790) · `si`
-
-Here's a 200-character summary:
-
-
-
-Pushpakumara Samarakoon drove 100 tractors in a record-breaking event. He faced financial struggles but persevered, inspiring many. His story highlights determination and community support.
-
-🟩
-
-Around 36-year-old is a father of 36-year-old WG, a large number of tractors in the Polonnaruwa area for renting a report in a fight between life and death.. පුෂ්පකුමාර සමරකෝන් තරුණයා සමත් විය.
-
-The report was established on the 31st of the Aralaganwila Polonnaruwa of Polonnaruwa.
-
-විශාල පිරිසකගේ සහභාගිත්වයෙන් මෙ වාර්තාව පිහිටවූ ඩබ්ලිව්. G Pushpakumara Samarakoon was a young man who had been mortgaged and lived in the Mahaweli River Mahaweli, Mahaweli.
-
-කිසියම් පුද්ගලයකු මෙම වාර්තාව කඩන්නේනම් එම වාර්තාව කැඩීමට ගන්නා ට්‍රැක්ටර් ප්‍රමාණය දෙගුණ කරමින් තමන්ගේ ශරීරය මත ධාවනය කරමින් එම ලෝක වාර්තාවද කැඩීමට තමා ඉදිරිපත් වන බව සමරකෝන් මහතා කීවේය'
-
-◼️
-
-[Data](articles/604e16e9.json)
-
-[Extended Data](ext_articles/604e16e9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 10:24:32**
+As of **2024-11-02 10:58:44**
 
 ## Newspaper Stats
 
-*Scraped **52,642** Articles*
+*Scraped **52,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,899
-adaderanalk | 6,253
+adaderanalk | 6,254
 tamilmirrorlk | 7,302
 virakesarilk | 8,493
 adaderanasinhalalk | 9,167
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,167
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,642 (100.0%) of 52,642 articles have been extended.
+52,643 (100.0%) of 52,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Lohan Ratwatte transferred to Prison Hospital
+
+*2024-11-02 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103101/lohan-ratwatte-transferred-to-prison-hospital) · `en`
+
+Former State Minister Lohan Ratwatte, who was arrested and remanded on charges of using a luxury car illegally imported from abroad and assembled in Sri Lanka, has been transferred to the prison hospital.
+
+He was arrested by Mirihana Police on October 31 in Katugastota, Kandy.
+
+Ratwatte was subsequently produced before the Acting Magistrate of Nugegoda from the Mirihana Police Station, and was ordered to be remanded until November 7.
+
+However, the Acting Magistrate granted permission for Ratwatte to receive treatment at the prison hospital.
+
+Police said that the former state minister was arrested in Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
+
+The car without registered number plates was found on October 26, 2024, according to police.
+
+...
+
+[Data](articles/b9cf9130.json)
+
+[Extended Data](ext_articles/b9cf9130.ext.json)
+
+---
 
 ### Lohan Ratwatte to be arrested
 
@@ -2293,33 +2317,5 @@ For about 15 years, I have provided employment opportunities for many in profess
 [Data](articles/2bbdbe17.json)
 
 [Extended Data](ext_articles/2bbdbe17.ext.json)
-
----
-
-### "Gotabhaya states should represent the people of Parliament in Parliament
-
-*2024-11-01 13:45:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn8l9xng6lvo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Gotabhaya Rajapaksa emphasizes representing people in Parliament. He criticizes IMF involvement and religious dominance. Vasant Mudalige leads People's Alliance in Gampaha district.
-
-🟩
-
-"Gotabhaya states should represent the people of Parliament in Parliament
-
-අරගලය සමයේදී දියවන්නාවෙන් පිටත නිර්මාණය වූ මහජන බලය පාර්ලිමේන්තුව තුළ නියෝජනය කිරීම සඳහා ජන අරගල සන්ධානය මෙවර මහ මැතිවරණයට තරග කරන බව, එම සන්ධානයේ ගම්පහ දිස්ත්‍රික් කණ්ඩායම් නායක වසන්ත මුදලිගේ BBC සිංහල සේවයට පැවසීය.
-
-ජාත්‍යන්තර මූල්‍ය අරමුදලෙන් (IMF) ශ්‍රී ලංකාව ඉවත් විය යුතු බවත්, බුද්ධාගම හෝ වෙනත් කිසිදු ආගමක් ප්‍රමුඛ විය යුතු නැති බවත් ඔහු සඳහන් කළේ ය.
-
-එමෙන් ම, අරගලයේදී ගොඩනැගුණු ජනතා බලය රැක ගැනීමට සංවිධානාත්මක ව්‍යුහයක් නොපැවති බවත්, පාර්ලිමේන්තුවේ විපක්ෂය වෙනස් කිරීමෙන් ජනතා අපේක්ෂාවන් නියෝජනය කිරීමට උත්සහ කරන බවත් ඔහු BBC සිංහල සේවයේ ෂර්ලි උපුල් කුමාර සමග පැවති සංවාදයකදී ප්‍රකාශ කළේ ය.
-
-◼️
-
-[Data](articles/f9a01c01.json)
-
-[Extended Data](ext_articles/f9a01c01.ext.json)
 
 ---

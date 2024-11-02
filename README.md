@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 18:59:17**
+As of **2024-11-02 19:10:18**
 
 ## Newspaper Stats
 
-*Scraped **52,691** Articles*
+*Scraped **52,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,105 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,906
 adaderanalk | 6,261
-tamilmirrorlk | 7,311
-virakesarilk | 8,501
-adaderanasinhalalk | 9,183
+tamilmirrorlk | 7,312
+virakesarilk | 8,508
+adaderanasinhalalk | 9,184
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,691 (100.0%) of 52,691 articles have been extended.
+52,698 (100.0%) of 52,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### அடுத்த 36 மணிநேரத்திற்கான வானிலை அறிவிப்பு
+
+*2024-11-02 18:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணிநேரத்திற்கான-வானிலை-அறிவிப்பு/175-346461) · `ta`
+
+குறித்த அறிக்கையில், மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களில் சில இடங்களில் 100 மில்லிமீற்றருக்கு பலத்த மழை பெய்ய வாய்ப்புள்ளது.
+
+மேலும், மாலை அல்லது இரவில் நாட்டின் பல பகுதிகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மேல் மற்றும் தென் மாகாணங்களின் கரையோரப் பகுதிகளில் காலை வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக் கூடும்.
+
+இதேவேளை, நாட்டின் பல பாகங்களிலும் மாலை வேளைகளில் இடியுடன் கூடிய மழை பெய்யக் கூடிய சூழ்நிலை தற்போதும் சாதகமாக இருப்பதால் மின்னலினால் ஏற்படும் விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம் பொதுமக்களிடம் கேட்டுக்கொண்டுள்ளது. R
+
+◼️
+
+[Data](articles/3525d734.json)
+
+---
+
+### Allowance to buy books for school children - President
+
+*2024-11-02 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202843) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake announces plan to provide allowance for school students to buy books. Speaks at rally in Kandy.
+
+🟩
+
+President Anura Kumara Dissanayake says that the school students are planning to provide a allowance to purchase school books.
+
+He was speaking at a rally in Kandy this afternoon.
+
+◼️
+
+[Data](articles/a0fc5efb.json)
+
+[Extended Data](ext_articles/a0fc5efb.ext.json)
+
+---
+
+### Sri Lanka Tamil State Party election manifesto handing over to the Secretary
+
+*2024-11-02 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197733) · `ta`
+
+Sri Lanka Tamil State Party leader Mawai Senathirajah hands election manifesto to Secretary P. Satyalingam. Event held at Father Selva Gallery Jaffna. Attendees include Sivagnanam Sreedharan, Mathiyaparanam Abraham Sumanthiran, Emmanuel Anold.
+
+🟩
+
+The election manifesto for the upcoming parliamentary election was handed over to the party secretary by the leader of the Sri Lanka Tamil State Party, Mawai Senathirajah.
+
+The Tamil National Alliance (TNA) leader Mawai Senathirajah handed over the manifesto to the General Secretary P. Satyalingam to release the party's manifesto as it was unable to come to the publication of the Tamil state party's manifesto held on Saturday (02) at the Father Selva Gallery of Jaffna.
+
+Sivagnanam Sreedharan, Mathiyaparanam Abraham Sumanthiran and Emmanuel Anold were present.
+
+◼️
+
+[Data](articles/7fdf334a.json)
+
+[Extended Data](ext_articles/7fdf334a.ext.json)
+
+---
+
+### Meeting between Prime Minister Harini Amarasuriya and German Ambassador Felix Newman
+
+*2024-11-02 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197739) · `ta`
+
+Prime Minister Harini Amarasuriya met German Ambassador Felix Newman at her office. They discussed education sector development and vocational training upgrades. Attending officials included Prime Minister's Secretary Pradeep Saputhandri and German delegation leader Olab Malwo.
+
+🟩
+
+A meeting between Prime Minister Harini Amarasuriya and German Ambassador to Sri Lanka Felix Newman took place at the Prime Minister's Office this afternoon.
+
+This has been addressed on issues such as development of the country's education sector and upgrading vocational training.
+
+The meeting was attended by Prime Minister's Secretary Pradeep Saputhandri, Chief of the German delegation Olab Malwo, Advisor to Political Affairs, Tarini Taluwatta and Director of European and North America, Shatura Perera.
+
+◼️
+
+[Data](articles/9793ebe5.json)
+
+[Extended Data](ext_articles/9793ebe5.ext.json)
+
+---
 
 ### Landslide warnings extended to several areas
 
@@ -85,6 +171,24 @@ Police have also revealed that the suspect had planned to commit another crime i
 [Data](articles/59942098.json)
 
 [Extended Data](ext_articles/59942098.ext.json)
+
+---
+
+### Ranil plans to come to Parliament through the National List…!
+
+*2024-11-02 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197735) · `ta`
+
+Ranil seeks Parliament seat via National List. Accuses government of misusing funds. Criticizes PM's constitutional knowledge. Plans to challenge Anura government with opposition support.
+
+🟩
+
+Former President Ranil, who has observed many of the leading prisoners, has begun to impose allegations against the government to distract the people.. He questioned where the funds were allocated for the salary increase of public servants. Prime Minister Harini did not know the constitution. They called me a majority president. Now he is also a majority of President. It is said that Ranil has begun to speak to the back of the law. He also seems to be planning to press for the Anura government along with the opposition MPs through the national list.
+
+◼️
+
+[Data](articles/926d8852.json)
+
+[Extended Data](ext_articles/926d8852.ext.json)
 
 ---
 
@@ -233,6 +337,108 @@ He made this statement regarding the accidents this year.
 [Data](articles/bde5b710.json)
 
 [Extended Data](ext_articles/bde5b710.ext.json)
+
+---
+
+### Ranjith's' Patal) Radha
+
+*2024-11-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197731) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Patal Radha" starring Guru Somasundaram releases Dec 20. Directed by Dinakaran Sivalingam, produced by Ranjith & TN Arun Balaji. Expectations high for community-focused drama.
+
+🟩
+
+Guru Somasundaram, the unique character of South Indian cinema, has been officially announced on the release date of the film 'Patal (Pottal) Radha'.
+
+Guru Somasundaram, Sanjana Natarajan, John Vijay, Maran, Anthony, Bari Ilavarakan, Arumuga Vale, Abhi Ramaiah, directed by debutant director Dinakaran Sivalingam. Kumar and many others have acted.
+
+Shawn Roldan has composed the film, which has been recorded by Rupesh Shaji. Producers Ba on behalf of the film companies such as Neelam Productions and Balloon Pictures. Produced by Ranjith and TN Arun Balaji.
+
+All the work of the film was completed and waited for the release. The film's stirring has already been released and has been a record of over a million viewers.
+
+In this case, the release date of the film has been officially announced. The film crew with a special photo of the film will be released worldwide on December 20th.
+
+...
+
+[Data](articles/6a8e088e.json)
+
+[Extended Data](ext_articles/6a8e088e.ext.json)
+
+---
+
+### Ram Saran's 'Game Changer' will save Shankar ...!?
+
+*2024-11-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197729) · `ta`
+
+"Game Changer" starring Ram Charan releases Jan 10, 2025. Directed by Shankar, also featuring Kiara Advani. Co-produced by Dil Raju and Sirish. Will be released in Tamil, Telugu, Malayalam, Kannada, and Hindi. Excitement builds as it aims to revive Shankar's fortunes after "Indian 2"'s poor performance."
+
+🟩
+
+The date of the release of the film 'Game Changer' starring 'Global Star' Ram Charan has been officially announced.
+
+Ram Charan, Kiara Advani, Shankar, directed by Shankar, directed by Shankar.. J.. Surya, Anjali, Prakashraj, Nasser, Samudrakani, Jayaram, Naveen Chandra, Murali Sharma, Sunil, Srikanth and many others have been cast.
+
+The film was co -produced by producers Dil Raju and Sirish on behalf of Sri Venkateswara Creations.
+
+The film, which is all over India, will be released on January 10, 2025 in Tamil, Telugu, Malayalam, Kannada and Hindi.
+
+In this case, the film crew has been excited with a special photo that the film will be released on the ninth day.
+
+Meanwhile, the film 'Kamal Haasan's' Indian 2', directed by the biggest director Shankar, has not been a commercial success, and the film 'Game Changer', which is being released, will be saved only if the film will be saved.
+
+◼️
+
+[Data](articles/9563ff3c.json)
+
+[Extended Data](ext_articles/9563ff3c.ext.json)
+
+---
+
+### Actress Yashika Anand's new movie inauguration
+
+*2024-11-02 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197726) · `ta`
+
+Yashika Anand's new movie inaugurated in Chennai. Directed by M.A. Bala, starring Ram Prasad and Yashika Anand as doctors. Shooting progressing well; release date and title pending.
+
+🟩
+
+The inauguration of the unnamed film, which is playing the lead role as the hero of the sexy actress 'Big Boss fame,' Big Boss fame actress, Yashika Anand, was held in Chennai.
+
+Director M. A.. In the untitled film directed by Bala, debutant Ram Prasad is the hero of the story and actress Yashika Anand is the hero of the story.
+
+Director M.. A.. Bala produces.
+
+The shooting of the film is being done brilliantly. The film crew said that the hero of the story and the hero of the story will be playing the role of doctors and will soon be released on the title and Burst Look of the film.
+
+◼️
+
+[Data](articles/d32eadb9.json)
+
+[Extended Data](ext_articles/d32eadb9.ext.json)
+
+---
+
+### நடிகர் அதர்வா முரளி நடிக்கும் ' நிறங்கள் மூன்று' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-11-02 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197720) · `ta`
+
+நடிகர்கள் அதர்வா முரளி - சரத்குமார்- ரகுமான் ஆகியோர் கதையின் நாயகர்களாக நடித்திருக்கும் 'நிறங்கள் மூன்று' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் கார்த்திக் நரேன் இயக்கத்தில் உருவாகி இருக்கும் 'நிறங்கள் மூன்று ' எனும் திரைப்படத்தில் அதர்வா முரளி, சரத்குமார், ரகுமான், துஷ்யந்த் ஜெயப்பிரகாஷ், அம்மு அபிராமி, சின்னி ஜெயந்த் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+இந்த திரைப்படத்தை ஐங்கரன் இண்டர்நேஷனல் நிறுவனம் சார்பில் தயாரிப்பாளர் கே. கருணா மூர்த்தி தயாரித்திருக்கிறார்.
+
+மேலும் இப்படத்தின் முன்னோட்டம் கடந்த ஆண்டு வெளியாகி இதுவரை எட்டு மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+
+இந்த தருணத்தில் இந்தத் திரைப்படம் எதிர்வரும் 22 ஆம் திகதியன்று உலகம் முழுவதும் படமாளிகையில் வெளியாகும் என பிரத்யேகப் புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/02e9bb84.json)
 
 ---
 
@@ -2109,213 +2315,5 @@ It is reported that 19 people were injured in the accident and the injured were 
 [Data](articles/dd917005.json)
 
 [Extended Data](ext_articles/dd917005.ext.json)
-
----
-
-### One killed, 19 injured in van-lorry collision
-
-*2024-11-01 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103096/one-killed-19-injured-in-van-lorry-collision-) · `en`
-
-A person has been killed while 19 others have been injured in an accident on the Radella short cut road in Nuwara Eliya.
-
-The incident has occurred today (01) around 6.30 p.m. due to a head-on collision involving a van and a lorry.
-
-Additionally, it is also reported that 19 individuals who sustained injuries from the incident have been admitted to the Nuwara Eliya District General Hospital.
-
-◼️
-
-[Data](articles/1270dd51.json)
-
-[Extended Data](ext_articles/1270dd51.ext.json)
-
----
-
-### Sri Lanka leader appoints Axiata GED Hans Wijayasuriya as Chief Digital Economy Advisor
-
-*2024-11-01 22:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-axiata-ged-hans-wijayasuriya-as-chief-digital-economy-advisor-185873/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has appointed Hans Wijayasuriya, the Chief Executive Officer of Telecommunications Business and Group Executive Director at Malaysian Axiata Group Bhd as the Chief Advisor to the President on Digital Economy, his office said.
-
-President Dissanayake has emphasized on digitization of the economy to formalize a large informal economy.
-
-“The government plans, accordingly, to exploit technological advancement to enable the capture of leap-frog opportunities with respect to economic and social development leading to a progressive digital economy and an enhanced quality of life for all citizens,” the President’s Media Division said in a statement.
-
-“Dr. Wijayasuriya’s appointment is a key move with regard to bringing to fruition the above vision.”
-
-...
-
-[Data](articles/9f30b4c6.json)
-
-[Extended Data](ext_articles/9f30b4c6.ext.json)
-
----
-
-### Ministry of Defense announced to death in Badulla
-
-*2024-11-01 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202817) · `si`
-
-Ministry of Defense announces tragic bus accident in Badulla. Two students killed, 40 injured. Kotalawala Defense University bus crash causes mechanical failure. Air Force helicopter deployed for medical evacuation.
-
-🟩
-
-The Ministry of Defense has issued a statement regarding a bus carrying a bus from the Kotalawala Defense University.
-
-The 39th Course in the 39nd Course in the Kotelawala Defense College, a 39nd course of protector, including the driver in charge of the bus, were in charge of 42 people including the driver of the bus.
-
-අනතුරින් ශිෂ්‍යාවන් දෙදෙනෙකු මියගොස් ඇති අතර මිය ගිය සිසුවියන් දෙදෙනා කුරුණෑගල හා නිවිතිගල පදිංචිකාරියන් වන බවත් එහි සඳහන් ව තිබේ.
-
-එම මියගිය සිසුවියන් දෙදෙනාගේ අවසන් කටයුතු කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ පූර්ණ අනුග්‍රහය යටතේ සිදු කිරීමට අවශ්‍ය කටයුතු මේ වනවිට සූදානම් කර ඇති බවත් ආරක්ෂක අමාත්‍යාංශය පවසයි.
-
-At least 40 others were injured in the accident and seven of them were included in the intensive care unit and one of them is serious.
-
-The Ministry of Defense further stated that arrangements have been made to take patients to Colombo for further treatment.
-
-...
-
-[Data](articles/e7e7f4ba.json)
-
-[Extended Data](ext_articles/e7e7f4ba.ext.json)
-
----
-
-### Ceasefire hopes fade as Israel bombards Gaza, Lebanon
-
-*2024-11-01 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103095/ceasefire-hopes-fade-as-israel-bombards-gaza-lebanon) · `en`
-
-Prospects of a ceasefire between Israel and its foes Hamas and Hezbollah ran aground on Friday as Israeli airstrikes killed at least 64 people in the Gaza Strip, according to medics in the Palestinian enclave, and battered Beirut’s southern suburbs.
-
-U.S. envoys had been working to secure ceasefires on both fronts ahead of the U.S. presidential election next Tuesday.
-
-But Hamas did not favour a temporary truce, its Al-Aqsa Hamas television reported on Friday. The ceasefire proposals failed to meet its conditions that any deal must end the year-long war in Gaza and include a withdrawal of Israeli forces from there, it said.
-
-Earlier, Israeli Prime Minister Benjamin Netanyahu said his priority was to enforce security “despite any pressure or constraints”.
-
-His office said he relayed this message to U.S. envoys Amos Hochstein and Brett McGurk in Israel on Thursday. Israel meanwhile pressed on with its military offensives against Hamas in the Gaza Strip and Hezbollah in Lebanon on Friday.
-
-...
-
-[Data](articles/4221de9b.json)
-
-[Extended Data](ext_articles/4221de9b.ext.json)
-
----
-
-### A chicken box Rs. 200 drugs
-
-*2024-11-01 21:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202816) · `si`
-
-Heroin stash found in chicken coop; police investigation ongoing
-
-🟩
-
-Police say that 54 kilograms of heroin found yesterday (31) was buried in the yard of a Sevanagala house.
-
-එම මත්ද්‍රව්‍ය මේ වනවිට රිමාන්ඩ් භාරයේ සිටින ආමි චූටි නැමැත්තාට අයත් බවට විමර්ශන නිලධාරීන් සැක කරයි.
-
-Dhammika Saman Kumara was arrested in the Boralesgamuwa area in Boralesgamuwa.
-
-He was able to arrest him with seven kilograms of heroin and a kilogram of ice drugs.
-
-The value of the drug is worth over Rs. 20 billion.
-
-However, he has been able to find the stock of drugs in Sevanagala area.
-
-Several plastic containers were buried in three platter containers near a poultry in a house in a house in a house in the Yarquegala, Sevanagala.
-
-Accordingly, the resident of the house was arrested by the police, who was arrested by the drug in Boralesgamuwa.
-
-It has been revealed that the woman of this house was the man's sister.
-
-◼️
-
-[Data](articles/c9866604.json)
-
-[Extended Data](ext_articles/c9866604.ext.json)
-
----
-
-### லொஹானின் மனைவிக்கு பிடியாணை
-
-*2024-11-01 21:40:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவிக்கு-பிடியாணை/175-346428) · `ta`
-
-Former Minister Lohan Ratwatte's wife to be arrested for selling luxury car parts. Son also under investigation.
-
-🟩
-
-The wife of former Minister of State Lohan Ratwatte will also be arrested on charges of dividing the luxury car into spare parts, a high -ranking police officer said.
-
-The Nugegoda Magistrate's Court has also sent Rashi Baba Ratwatha to the police, police said.
-
-The senior official added that the son of the former Minister of State will be investigated.. Remble
-
-◼️
-
-[Data](articles/4a36730b.json)
-
-[Extended Data](ext_articles/4a36730b.ext.json)
-
----
-
-### Sri Lanka leader expresses interest in Indian power, energy projects amid Adani delay
-
-*2024-11-01 21:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-expresses-interest-in-indian-power-energy-projects-amid-adani-delay-185871/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake has expressed interest in learning from India’s expertise in power and energy sector development when he met the Indian High Commissioner to Sri Lanka, the President’s Media Division (PMD) said.
-
-The President’s expression comes as India’s Adani renewable energy project is facing a delay due to a raft of legal cases filed in the island nation’s Supreme Court due to environmental concerns amid higher cost per tariff quoted in the Adani project.
-
-“The President expressed interest in learning from India’s expertise in power and energy sector development and the digitalization process, with a view to advancing these areas in Sri Lanka with India’s support,” PMD said in a statement on the Dissanayake’s meeting with the Indian High Commissioner Santosh Jha today.
-
-...
-
-[Data](articles/952d99c2.json)
-
-[Extended Data](ext_articles/952d99c2.ext.json)
-
----
-
-### An accident in the body - Man dies
-
-*2024-11-01 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202815) · `si`
-
-Man dies in collision between van and lorry on Nuwara Eliya-Radella road. 19 injured rushed to hospital.
-
-🟩
-
-A man was killed in an accident on the Nuwara Eliya-Radella short road.
-
-The accident occurred when a van and a lorry collided with a lorry.
-
-It is reported that 19 people were injured and injured were rushed to the Nuwara Eliya Hospital.
-
-◼️
-
-[Data](articles/d758d05f.json)
-
-[Extended Data](ext_articles/d758d05f.ext.json)
-
----
-
-### Foreign Passport Distribution from next month - Department of Immigration and Emigration
-
-*2024-11-01 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/197686) · `ta`
-
-Foreign passport distribution resumes next month. 1.5 million passports available: 500K now, 100K in October, 150K in December. Daily distribution increases from 1,600 to unknown. Applicants allocated specific times/dates via formal system.
-
-🟩
-
-வெளிநாட்டு கடவுச்சீட்டுக்களை கொள்வனவு விலைமனுகோரலுக்காக வெளிநாட்டு நிறுவனத்துடனான ஒப்பந்தத்துக்கமைய 'பி' தொகுதிக்கமைய 50,000 வெற்று வெளிநாட்டு கடவுச்சீட்டுக்கள் கிடைக்கப் பெற்றுள்ளன. The Department of Immigration and Emigration has stated that the distribution of passports will return to normal from next month.
-
-இந்த தொகைக்கு மேலதிகமாக இந்த மாதம் நடுப்பகுதியில் மேலும் 100,000 வெற்றுக் கடவுச்சீட்டுக்களும், டிசெம்பர் மாதம் மேலும் 150,000 வெற்றுக் கடவுச்சீட்டுக்களும்  கிடைக்கப் பெறவுள்ளன. அத்துடன் 750,000 வெற்றுக் கடவுச்சீட்டுக்கள் எதிர்வரும் மாதமளவில் கிடைக்கப் பெறவுள்ளன.
-
-அத்துடன் மேலதிகமாக வெற்றுக் கடவுச்சீட்டுக்களை பெற்றுக் கொள்வதற்கான பெறுகை நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளன. At present, about 1600 passports per day are being distributed to applicants, and this amount will be increased from next month.
-
-Technical measures have been taken to allocate the time and date for applicants through the formal system of the system.
-
-◼️
-
-[Data](articles/58dcb5d3.json)
-
-[Extended Data](ext_articles/58dcb5d3.ext.json)
 
 ---

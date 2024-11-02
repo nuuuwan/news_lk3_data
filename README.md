@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 17:40:43**
+As of **2024-11-02 18:20:15**
 
 ## Newspaper Stats
 
-*Scraped **52,683** Articles*
+*Scraped **52,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,144 @@ economynextcom | 3,197
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,905
-adaderanalk | 6,259
-tamilmirrorlk | 7,310
+adaderanalk | 6,261
+tamilmirrorlk | 7,311
 virakesarilk | 8,501
-adaderanasinhalalk | 9,180
+adaderanasinhalalk | 9,182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,683 (100.0%) of 52,683 articles have been extended.
+52,688 (100.0%) of 52,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### මනුෂ්‍ය ඝාතන දෙකකට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-11-02 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202841) · `si`
+
+Two suspects arrested for human killings in Sri Lanka. Police investigation ongoing. Motorcycle found at scene. Suspect planned additional crimes.
+
+🟩
+
+පසුගිය කාලසීමවන් තුළදි සිදුවූ මනුෂ්‍ය ඝාතනයන්ට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට බස්නාහිර දකුණ අපරාධ කොට්ඨාසය සමත්ව තිබේ.
+
+පසුගිය සැප්තැම්බර් 15 දින දෙහිවල ප්‍රදේශයේදී සිදුවූ මනුශ්‍ය ඝාතනයට සහ සැප්තැම්බර් 18 වැනි දින කොහුවල ප්‍රදේශයේ දී සිදුවූ මනුෂ්‍ය ඝාතනයන්ට අදාළ සැකකරුවන් දෙදෙනෙකු මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
+
+At the investigation by the police, one suspect has been arrested in the Mattegoda area on the 25th.
+
+Police Media Spokesperson DIG Nihal Thalmeda said at a press conference held today (02), the 31-year-old suspect had driven the motorbike for the murder.
+
+The two murders were discovered by the police, while the motorcycle was abandoned in the Wellawatte area.
+
+The shooter has been arrested by the Western Province Criminal Division near the Welikada Prison on the investigation incident.
+
+The firearm used in the murder was also taken into police custody.
+
+Police have also revealed that the suspect had planned to commit another crime in the next few days.
+
+◼️
+
+[Data](articles/59942098.json)
+
+[Extended Data](ext_articles/59942098.ext.json)
+
+---
+
+### මියන්මාරයේ රඳවා සිටින ශ්‍රී ලාංකිකයින් බේරාගැනීමට තවත් පියවරක්
+
+*2024-11-02 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202840) · `si`
+
+Myanmar rescue Sri Lankans, cybercrime fight, cybersecurity measures discussed by PM Harathin Amarasuriya and IOM Mission Corps Christine B. Parco.
+
+🟩
+
+Prime Minister Dr. Harari Amarasuriya and Immigration for the IMP
+
+එම සාකච්ඡවේදී සයිබර් වංචාවලට එරෙහිව සටන් කිරීම සඳහා සයිබර් ආරක්ෂණ පියවර වැඩි දියුණු කිරීම ඇතුළු කරුණු කිහිපයක්  පිළිබඳව අවධානය යොමුවූ බව අග්‍රමාත්‍ය මාධ්‍ය ඒකකය පවසයි.
+
+Prime Minister Dr. Harathin Amarasuriya and International Organization (IOM) Mission Corps Christine B. පාර්කෝ (Kristin B. Parco was found at the Prime Minister's Office yesterday (01).
+
+◼️
+
+[Data](articles/4c7e8fdb.json)
+
+[Extended Data](ext_articles/4c7e8fdb.ext.json)
+
+---
+
+### Govt to prioritize digital transformation of social welfare benefit programs
+
+*2024-11-02 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103107/govt-to-prioritize-digital-transformation-of-social-welfare-benefit-programs) · `en`
+
+A discussion on the digitalization of social welfare benefit programs took place at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
+
+The meeting held yesterday (01) emphasized the significance of digitizing the paddy storage system as a means to stabilize rice prices and address long-term solutions for the rice shortage, according to the President’s Media Division (PMD).
+
+It also focused on the digital transformation of the “Aswesuma” and social welfare programs aimed at supporting low-income families.
+
+Additionally, the group discussed plans for digitizing the relief distribution program for children from low-income families in the upcoming school term and the fertilizer subsidiary distribution.
+
+Group Chief Executive at Dialog Axiata PLC Supun Weerasinghe, Chief Technology Officer at Millennium IT ESP. Mahesh Wijenayaka and a panel of field experts were also part of this discussion.
+
+◼️
+
+[Data](articles/9e0d926b.json)
+
+[Extended Data](ext_articles/9e0d926b.ext.json)
+
+---
+
+### Woman arrested for selling cannabis
+
+*2024-11-02 17:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஞ்சாவை-என்-சியில்-கலந்து-விற்ற-பெண்-கைது/76-346448) · `ta`
+
+Mother of 3 arrested for selling cannabis in Sri Lanka. Found 1.85kg drugs. Arrested based on health ministry ban. Hidden small packets discovered during search.
+
+🟩
+
+The mother of three children who sold drugs in NC has been arrested and 1.850 kilograms of drugs have been found from the suspect.
+
+Bogawantalawa police said that the mother of three children who had been selling cannabis drugs from Pakistan to Sri Lanka was arrested at NC.
+
+A Bogawantalawa Police official said that the suspect was arrested on the basis of information received by the police that the NC, which was banned by the Ministry of Health, was selling them to young people.
+
+The official said that the suspect was from the Kottiyagala estate of Bogawantalawa and that when the woman was arrested and searched by the police, the official said that many of the small packages of NC prepared for sale were hidden.
+
+Bogawantalawa police said that after the arrest of the suspect, 1.850 kilograms of narcotics were found in the house.. Remble
+
+◼️
+
+[Data](articles/134c53d1.json)
+
+[Extended Data](ext_articles/134c53d1.ext.json)
+
+---
+
+### Heavy showers above 100mm expected in several provinces
+
+*2024-11-02 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103106/heavy-showers-above-100mm-expected-in-several-provinces) · `en`
+
+The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in most parts of the island during the evening or night, according to a forecast issued for the next 36 hours.
+
+Showers or thundershowers may occur over the coastal areas of Western and Southern provinces during the morning too.
+
+The department added that heavy showers above 100 mm are likely at some places in Central, Sabaragamuwa and Uva provinces.
+
+Accordingly, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/c005327a.json)
+
+[Extended Data](ext_articles/c005327a.ext.json)
+
+---
 
 ### A big rain over 100 mm
 
@@ -2207,123 +2331,5 @@ Reports that the security of former President Mahinda Rajapakse has been reduced
 [Data](articles/6f7c1537.json)
 
 [Extended Data](ext_articles/6f7c1537.ext.json)
-
----
-
-### Govt denies reports of reduced security for ex-president Mahinda
-
-*2024-11-01 19:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103094/govt-denies-reports-of-reduced-security-for-ex-president-mahinda) · `en`
-
-The Presidential Secretariat says that the reports circulating claiming that the security detail of former President Mahinda Rajapaksa has been reduced are completely false.
-
-Issuing a clarification, the Presidential Secretariat said it has noted recent media reports claiming that the security of former President Mahinda Rajapaksa has been reduced.
-
-The Presidential Secretariat states that all those reports are false and confirms that it has provided Rajapaksa with the benefits outlined in the Presidents’ Entitlements Act No. 4 of 1986.
-
-Former President Mahinda Rajapaksa is entitled to a pension due to a retired President, an official residence at Wijerama Mawatha, Colombo 07, and a secretary’s allowance, the statement said.
-
-Additionally, he has been provided with three vehicles: a Mercedes Benz -600 Maybatch (2008), a Toyota Land Cruiser (2017), and a Mercedes Benz G63 AMG 4x4 (2013).
-
-...
-
-[Data](articles/59f69078.json)
-
-[Extended Data](ext_articles/59f69078.ext.json)
-
----
-
-### Master Minister Sumanthiran, foreign minister
-
-*2024-11-01 19:23:37* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-ආණ්ඩුවේ-විදෙස්-ඇමති-සුමන්තිරන්/11-412800) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan politician Mandanu Gammanpila accuses government of corruption, demands resignation of defense secretary. Criticizes president for suppressing investigation reports and protecting accused officials. Calls for public support to sign petition demanding change.
-
-🟩
-
-Master Minister Sumanthiran, foreign minister. Anura - Sumani - Shani Conspiracy reveals Gammanpila
-
-The Ilankai Tamil Arasu Kachchi Party joins the government after the election, says Mandanu Gammanpila, Colombo District candidate lawyer, Colombo.
-
-The process will further say that this process will take place under the conditions that the United Nations Human Rights Council has passed the 30/1 proposal of the United Nations in 2015 and implemented the US resolution in 2015.
-
-He was speaking at the immediate removal of the accused officers from the top of the police today (2024.111.19).On the theme, a public petition is signed.Ravi Senehirawaththa calls on public petition to remove the Secretary to the Ministry of Defense.
-
-...
-
-[Data](articles/a05cdb8f.json)
-
-[Extended Data](ext_articles/a05cdb8f.ext.json)
-
----
-
-### இந்தியா - நியூஸிலாந்து கடைசி டெஸ்ட்: இரண்டு அணிகளும் சமஅளவில் மோதல்
-
-*2024-11-01 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197683) · `ta`
-
-India vs New Zealand test match summary: Both teams score evenly after first day. Spinners take 11 out of 14 wickets. Virat Kohli runs out for 2. Will Young scores 71, Daryl Mitchell 82. Ravindra Jadeja takes 5/65, Ravichandran Ashwin 4/81. India replies with 84/4, Shubman Gill unbeaten on 31.
-
-🟩
-
-இந்தியாவுக்கும் நியூஸிலாந்துக்கும் இடையில் மும்பை வான்கேட் விளையாட்டரங்கில் வெள்ளிக்கிழமை (01) ஆரம்பமான மூன்றாவதும் கடைசியுமான டெஸ்ட் கிரிக்கெட் போட்டியின் முதல் நாள் ஆட்டத்தில் 14 விக்கெட்கள் வீழ்த்தப்பட்டு இரண்டு அணிகளும் சம அளவில் இருக்கின்றன.
-
-The Indian team management demanded the Mumbai Ground caretaker to make the Mumbai pitch in favor of the spinning and the rotation from the first day.
-
-Despite this, it is astonishing that New Zealand did not incorporate Michelle Centner, who took 13 wickets in the second Test in the second Test.
-
-11 wickets out of 14 wickets were captured by spinners. Virat Kohli was unnecessarily run out for 2 wickets.
-
-New Zealand, who decided to bat first, lost all the wickets in its first innings and scored only 235 runs.
-
-Will Young scored 71 runs and Derell Michelle 82 and they both shared 87 runs in the 4th wicket.
-
-Team Leader Tom Letham scored a maximum of 28 runs than them.
-
-...
-
-[Data](articles/e7eb9ad2.json)
-
-[Extended Data](ext_articles/e7eb9ad2.ext.json)
-
----
-
-### Presidential Media Division explains to Mahinda's safety
-
-*2024-11-01 18:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202814) · `si`
-
-Presidential Media Division clarifies: Former President Mahinda Rajapaksa's security reduced.
-
-🟩
-
-The Presidential Media Unit has explained to the media reports that former President Mahinda Rajapaksa has reduced security.
-
-◼️
-
-[Data](articles/6ef0450e.json)
-
-[Extended Data](ext_articles/6ef0450e.ext.json)
-
----
-
-### Online appointment system for new passports to be launched soon
-
-*2024-11-01 18:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103093/online-appointment-system-for-new-passports-to-be-launched-soon) · `en`
-
-The Department of Immigration and Emigration says that an online appointment system is being prepared for applications to obtain passports and that it will be launched soon.
-
-It further said that currently there are 50,000 blank passports available and that a stock of 100,000 passports will be received in November with another 150,000 expected in December.
-
-Sri Lanka has been experiencing shortages of blank passports, leading to queues outside the Department of Immigration and Emigration for several months.
-
-The Government Information Department said on Friday that the online system would be launched soon and that Sri Lankan nationals can get an appointment to come to the department and submit applications.
-
-◼️
-
-[Data](articles/8e297fb0.json)
-
-[Extended Data](ext_articles/8e297fb0.ext.json)
 
 ---

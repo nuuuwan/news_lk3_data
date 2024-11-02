@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 20:10:38**
+As of **2024-11-02 20:24:16**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,702 (100.0%) of 52,703 articles have been extended.
+52,703 (100.0%) of 52,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
 
-### ජනතාව රවටන දේශපාලනයට ඉඩ නැහැ - දිලිත්
+### The people are not allowed to deceive the people - Dilith
 
 *2024-11-02 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202844) · `si`
 
-ජනතාව රවටන දේශපාලනය තවදුරටත් සිදු කිරීමට එඩිතර විපක්ෂයක් ලෙස තම කණ්ඩායම ඉඩ නොදෙන බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Here's a 200-character summary:
+
+
+
+Dilith Jayaweera: Team opposes corrupt politics. Blames politicians for deception. Trade unions destroyed. Country in crisis. Tear gas used. Economic issues. Opposition seeks change.
+
+🟩
+
+Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that his team will not allow the politics of the people to continue the politics of the people.
 
 ...
 
 [Data](articles/e78b9637.json)
+
+[Extended Data](ext_articles/e78b9637.ext.json)
 
 ---
 

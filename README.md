@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 20:59:05**
+As of **2024-11-02 21:10:56**
 
 ## Newspaper Stats
 
-*Scraped **52,707** Articles*
+*Scraped **52,709** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 3,140
 economynextcom | 3,198
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,906
+adalk | 4,907
 adaderanalk | 6,262
 tamilmirrorlk | 7,314
 virakesarilk | 8,508
-adaderanasinhalalk | 9,187
+adaderanasinhalalk | 9,188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,707 (100.0%) of 52,707 articles have been extended.
+52,709 (100.0%) of 52,709 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Last Note in the Badulla accident
+
+*2024-11-02 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202847) · `si`
+
+Badulla bus accident: 4 deaths identified. Post-mortem reveals head injuries. WhatsApp message from grieving daughter to late father.
+
+🟩
+
+The buses were injured and admitted to the Badulla Teaching Hospital after the accident was in the Badulla (01).
+
+The deceased have been identified as Puduyu Hettimulla, Kurunegala, Ranwpalagedara and Ambakowe, Kurunegala, Ranwpalagedara and Ambakowe.
+
+The post mortem examinations have revealed that the bus accident has been killed in the head of bus accident.
+
+Meanwhile, a greetings of Watsapp was written by one student of the dead student, Isuri Umayaka yesterday (01).
+
+In the morning, she had greeted her Father's greets and greeted by Watsaups.
+
+She may have never thought that he had to leave his father's birthday.
+
+She was ready for university field visit and forgot to add greeting his Father on the same day.
+
+"Wondering so much about life,. The romance is hiding.. Happy birthday, Dad, Dad, "a pasree note for his beloved Father.
+
+◼️
+
+[Data](articles/e21def47.json)
+
+[Extended Data](ext_articles/e21def47.ext.json)
+
+---
 
 ### Prison commissioner released on former Minister Lohan
 
@@ -289,6 +321,30 @@ The organization has also requested the public to move to a safe place if there 
 [Data](articles/ef1284dd.json)
 
 [Extended Data](ext_articles/ef1284dd.ext.json)
+
+---
+
+### Sri Lanka won the Hong Kong Sixers Tournament
+
+*2024-11-02 18:07:06* · [`adalk`](https://www.ada.lk/sports/හොං‌කොං-සික්සර්ස්-තරගාවලියේ-ශ්‍රී-ලංකාව-අපරාජිතව-ලැබූ-ජය/9-412809) · `si`
+
+Sri Lanka wins Hong Kong Sixers Tournament. SLM qualifies for semi-finals, defeats Nepal by 40 runs. Sri Lanka scores 123/7 in 6 overs, Nepal replies with 83/5 in 5 overs.
+
+🟩
+
+Sri Lanka (SLM) team qualified to qualify for the semi-finals of the Hong Kong International Sixers Cricket Tournament.
+
+Nepal defeated the Nepal team by 40 runs in the third semi final.
+
+Batting first Sri Lanka scored 123 runs for the loss of seven wickets at the end of six overs.
+
+In reply, the Nepal group scored 83 runs at the end of five overs.
+
+◼️
+
+[Data](articles/698b4290.json)
+
+[Extended Data](ext_articles/698b4290.ext.json)
 
 ---
 
@@ -2323,39 +2379,5 @@ However, one person died in the accident. Police suspect the accident may have b
 [Data](articles/16f5e8a2.json)
 
 [Extended Data](ext_articles/16f5e8a2.ext.json)
-
----
-
-### The Gratiaen Trust collaborates with NYU Abu Dhabi
-
-*2024-11-02 01:20:00* · [`islandlk`](http://island.lk/the-gratiaen-trust-collaborates-with-nyu-abu-dhabi/) · `en`
-
-Pulitzer Prize-Winning Poet Prof. Gregory Pardlo to Chair Jury for 32nd Gratiaen Prize
-
-The Gratiaen Trust, in association with John Keells Foundation, is delighted to announce its collaboration with New York University Abu Dhabi (NYUAD) for the 32nd Gratiaen Prize. This collaboration will see Prof Gregory Pardlo – a Pulitzer Prize-winning writer and the Head of the Literature and Creative Writing Program of NYU Abu Dhabi in the Arts and Humanities academic division – heading the Gratiaen Prize jury in addition to participating in a number of other activities that will contribute to the enrichment of the literary arts in Sri Lanka.
-
-...
-
-[Data](articles/030ece30.json)
-
-[Extended Data](ext_articles/030ece30.ext.json)
-
----
-
-### Standard Chartered appoints Harini Jayaweera as Chief Compliance Officer
-
-*2024-11-02 01:20:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-harini-jayaweera-as-chief-compliance-officer/) · `en`
-
-Standard Chartered has appointed Harini Jayaweera as Chief Compliance Officer in Sri Lanka, effective October 21, 2024. In this role, Harini will oversee the Bank’s Conduct, Financial Crime and Compliance functions while continuing her responsibilities as Head of Financial Crime Compliance (FCC) and Country Money Laundering Compliance Officer (CMLCO).
-
-Standard Chartered Sri Lanka CEO, Bingumal Thewarathanthri, stated, “We are proud of her journey with the Bank, and her appointment to this critical leadership role reflects the Bank’s culture of recognising and promoting internal talent and expertise. We are confident that we will continue to improve regulatory relations and drive thought-leadership making positive contributions to the industry under her leadership.”
-
-Harini has over 16 years of extensive experience in regulatory compliance and financial crime risk management, and has demonstrated exceptional leadership in Advisory, FCC, and Regulatory Governance throughout her career.
-
-...
-
-[Data](articles/a0a49e6e.json)
-
-[Extended Data](ext_articles/a0a49e6e.ext.json)
 
 ---

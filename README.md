@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-02 12:58:10**
+As of **2024-11-02 13:24:11**
 
 ## Newspaper Stats
 
-*Scraped **52,656** Articles*
+*Scraped **52,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,902
 adaderanalk | 6,255
-tamilmirrorlk | 7,305
+tamilmirrorlk | 7,307
 virakesarilk | 8,498
-adaderanasinhalalk | 9,168
+adaderanasinhalalk | 9,169
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,651 (100.0%) of 52,656 articles have been extended.
+52,659 (100.0%) of 52,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-02 (Saturday)
+
+### Two girls killed in bus accident
+
+*2024-11-02 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202826) · `si`
+
+Two students killed in bus accident near Badulla. Post-mortem results released. Bodies handed to families. Dash cam footage shows rapid driving before crash.
+
+🟩
+
+The post-mortem examination of the two students who were killed in the bus, Badulla yesterday (2) have been revealed.
+
+One of them is Isuri Umayaka, a resident of Newitigala, Thalabugamuwa, Yalabugamuwa.
+
+The other student who died was NMPt. Hettimulla is a resident of Uynolawolagedara.
+
+Director of the Badulla Teaching Hospital Gayan Cooray said that the remains were handed over to relatives yesterday (1).
+
+Arrangements have been prepared to take the final of the two who died of the deceased.
+
+The dash camera in a car has also been rapidly driven by the bus to carry the students at the Kotelawala Defense University a few minutes ago.
+
+◼️
+
+[Data](articles/2d0fc309.json)
+
+[Extended Data](ext_articles/2d0fc309.ext.json)
+
+---
+
+### நாளை வாக்காளர் அட்டை விநியோக நாளாக பிரகடனம்
+
+*2024-11-02 12:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வாக்காளர்-அட்டை-விநியோக-நாளாக-பிரகடனம்/175-346444) · `ta`
+
+Tomorrow, postal officials will distribute official election ballots from 8 AM to 6 PM. Ballot distribution notices will be delivered door-to-door until July 7th.
+
+🟩
+
+The Postal Department said that tomorrow (03) will be declared as a special day for distributing official ballots for the general election.
+
+Accordingly, Senior Deputy Deputy Chief Minister Rajitha Ranasinghe said that the offices that classify 2090 letters will be opened tomorrow.
+
+நாளை காலை 8 மணி முதல் மாலை 6 மணி வரை வீடு வீடாகச் சென்று உத்தியோகபூர்வ வாக்குச் சீட்டுகளை விநியோகிக்கவுள்ளனர்.
+
+உத்தியோகபூர்வ வாக்குச்சீட்டு அறிவிப்புப் பத்திரங்கள் எதிர்வரும் 07ஆம் திகதி வரை வீடு வீடாக விநியோகிக்கப்படும்.AN
+
+◼️
+
+[Data](articles/54719874.json)
+
+[Extended Data](ext_articles/54719874.ext.json)
+
+---
+
+### The corpse recovery from the canal
+
+*2024-11-02 12:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கால்வாயில்-இருந்து-சடலம்-மீட்பு/76-346443) · `ta`
+
+Body recovered from canal during water transport system maintenance. Police investigating possible origin from nearby reservoir.
+
+🟩
+
+The body of a male has been recovered this morning (2) from the security net of the water transport system, which is being carried out by the Kottiyagala Tea Plantation workers, which belongs to the Bogawantalawa Police Division.
+
+Police suspect that the body may be dragged from the Cassalry reservoir through the water system and may be in the security net.
+
+Plantation workers who were working in the tea estate have informed the Bogawantalawa police that a body of a water transport system is found in the safety net.
+
+◼️
+
+[Data](articles/04b5765c.json)
+
+[Extended Data](ext_articles/04b5765c.ext.json)
+
+---
 
 ### What is the current state of those involved in the Badulla accident?
 
@@ -106,19 +180,25 @@ A 75 -year -old elderly woman who was traveling in the van dies. Also, 20 people
 
 ---
 
-### கொழும்பில் ஐஸ் போதைப்பொருளுடன் இளைஞன் கைது !
+### Youth arrested with ice drugs in Colombo
 
 *2024-11-02 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197707) · `ta`
 
-கொழும்பு , முகத்துவாரம் பொலிஸ் பிரிவுக்கு உட்பட்ட  கல்வல சந்திக்கு அருகில் ஐஸ் போதைப்பொருளுடன் இளைஞன் ஒருவன் நேற்று வெள்ளிக்கிழமை (01) கைது செய்யப்பட்டுள்ளதாக  முகத்துவாரம் பொலிஸார் தெரிவித்தனர்.
+Colombo police arrest youth with ice drugs near Kalwala junction. 10g of 200ml ice seized during police operation based on tip-off.
 
-முகத்துவாரம் பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யபட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 10 கிராம் 200 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+A youth has been arrested yesterday (01) with an ice drug near the Kalwala junction belonging to the Colombo Police Division.
+
+The suspect was arrested during a roundup carried out on the basis of information received by the police.
+
+10 grams of 200 ml of ice has been seized by the police.
 
 ◼️
 
 [Data](articles/95f0a114.json)
+
+[Extended Data](ext_articles/95f0a114.ext.json)
 
 ---
 
@@ -190,21 +270,27 @@ The President expressed interest in learning from India’s expertise in power a
 
 ---
 
-### பியகமையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+### One arrested with ice drugs in Biyagam
 
 *2024-11-02 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197704) · `ta`
 
-கம்பஹா, பியகம பொலிஸ் பிரிவுக்கு உட்பட்ட யபரலுவ பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று வெள்ளிக்கிழமை (01) கைது செய்யப்பட்டுள்ளதாக பியகம பொலிஸார் தெரிவித்தனர்.
+Biyagama police arrest 32-year-old man with 67g ice drugs in Piyagama raid.
 
-பியகம பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர்  கைது செய்யபட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் கம்பஹா,  மல்வானை பிரதேசத்தைச் சேர்ந்த 32 வயதுடையவர் ஆவார்.
+Piyagama police said that a suspect was arrested yesterday (01) with an ice drug in the Yaparaluwa area, which belongs to the Gampaha and Biyagama police division.
 
-கைது செய்யப்பட்ட சந்தேக நபரிடமிருந்து 67 கிராம் 240 மில்லி கிராம் ஐஸ் போதைப்பொருள் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்ததாக கூறப்படும் 20 ஆயிரம் ரூபா பணம் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+The suspect has been arrested during the raid carried out on the basis of information received by the Biyagama police.
+
+The arrested suspect is 32 -year -old from Malwana.
+
+Police have seized 67 grams of Ice and drug trafficking from the arrested suspect.
 
 ◼️
 
 [Data](articles/77f11ddb.json)
+
+[Extended Data](ext_articles/77f11ddb.ext.json)
 
 ---
 
@@ -228,67 +314,95 @@ Former MP Lohan Ratwatte, who was arrested in connection with an incident, has b
 
 ---
 
-### வன்னி தேர்தல் மாவட்டத்தில் 17 முறைப்பாடுகள் பதிவு - தெரிவத்தாட்சி அலுவலர்
+### 17 Complaints Registration of Vanni Election District
 
 *2024-11-02 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197699) · `ta`
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலுக்காக வன்னி தேர்தல் மாவட்டத்தில் இதுவரை 17 தேர்தல் முறைப்பாடுகள் பதிவாகியுள்ளதாக தெரிவத்தாட்சி அலுவலரும் வவுனியா அரச அதிபருமான பி.எ. சரத்சந்திர தெரிவித்தார்.
+Vanni Election District: 17 complaints registered. 30,608 eligible voters. Voting centers set up in Vavuniya, Mannar, Mullaitivu.
 
-இதுவரை வன்னி தேர்தல்மாவட்டத்தில் 17 முறைப்பாடுகள் பதிவுசெய்யப்பட்டுள்ளது. அந்தவகையில்  வவுனியாமாவட்டத்தில் எட்டு முறைப்பாடுகளும், மன்னார் மாவட்டத்தில் எட்டு முறைப்பாடுகளும், முல்லைத்தீவில் ஒரு முறைப்பாடுல் கிடைக்கப்பெற்றுள்ளது. அவை சிறிய முறைப்பாடுகளாகவே உள்ளது.
+🟩
 
-இதேவேளை வவுனியாவில் வாக்கெண்ணும் மத்தியநிலையமாக சைவப்பிரகாசா மகளீர் கல்லூரியும், மன்னார்மாவட்டத்தில் மாவட்டச் செயலகமும், முல்லைத்தீவு மத்திய மகாவித்தியாலமும் வாக்கெண்ணும் மத்திய நிலையங்களாக செயற்ப்படுவதற்கான நடவடிக்கைகள் எடுக்கப்பட்டுள்ளது.
+The Vanni Elections in the Vanni Election District has so far been reported for the upcoming parliamentary elections, said PA, the Vavuniya State President PA.. Said Sarathchandra.
 
-இதேவேளை வன்னி தேர்தல் மாவட்டத்தில் எதிர்வரும் பாராளுமன்றத்தேர்தலில் 30,6081 வாக்காளர்கள் வாக்களிப்பதற்கு தகுதி பெற்றுள்ளனர்.
+So far, 17 complaints have been lodged in the Vanni election. There are eight complaints in Vavuniya, eight complaints in Mannar district and a complaint has been received in Mullaitivu.. They are small complaints.
 
-அந்தவகையில் வவுனியாவில் 128,585 பேரும் முல்லைத்தீவில்86,889 பேரும் மன்னாரில் 90,607பேரும் வாக்களிக்க தகுதி பெற்றுள்ளனர் என்றார்.
+Meanwhile, steps have been taken to act as the Voter Voting Center in Vavuniya as the Voting Central Station, the District Secretariat in Mannarmavattam, the Mullaitivu Central Maha Vidyalaya and the Voting Centers.
+
+Meanwhile, 30,6081 voters are eligible to vote in the upcoming parliamentary elections in the Vanni election district.
+
+He said 128,585 in Vavuniya, 86,889 in Mullaitivu and 90,607 in Mannar were eligible to vote.
 
 ◼️
 
 [Data](articles/89d5ae41.json)
 
+[Extended Data](ext_articles/89d5ae41.ext.json)
+
 ---
 
-### இன்னொரு முக்கியமான சவாலை கையாளும் ஜனாதிபதி
+### The president who handles another important challenge
 
 *2024-11-02 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197697) · `ta`
 
-பொருளாதாரத்தை கையாளுகின்ற விடயமாக இருந்தாலென்ன, பயண அறிவுறுதல்கள் அல்லது நல்லிணக்கச் செயன்முறையைக் கையாளுகின்ற விடயமாக இருந்தாலென்ன அரசாங்கம் அதன் நடவடிக்கைகளில் மிகவும் அறிவார்ந்த முறையில் செயற்படுகின்றது.
+Here's a summary of the text in approximately 200 characters:
 
-அதன் விளைவான பயனையும் அனுபவிக்கிறது. அதிகாரத்தில் ஒரு மாதகாலம் இருந்த பிறகு அரசாங்கத்தின் மக்கள் செல்வாக்கு தொடர்ந்து அதிகரிக்கின்றது என்பதன் அறிகுறியே தெற்கில் எல்பிட்டிய பிரதேச சபை தேர்தலில் அதற்கு கிடைத்த வெற்றியாகும்.
 
-அந்த செலாவாக்கு அதிகரிப்பு ஜனாதிபதி அநுரா குமார திசாநாயக்கவுடன் மட்டுப்படுத்தப்பட்டதாக இல்லாமல் தேசிய மக்கள் சக்திக்கும் விரிவடைகிறது.
 
-இந்த தடவை தேசிய மக்கள் சக்தியின்  வெற்றியின் வித்தியாசம் கடந்த தடவை அது இத்தகைய உள்ளூராட்சி தேர்தலை எதிர்நோக்கியபோது காணப்பட்ட வித்தியாசத்தையும் விட மிகவும் பெரிதாக இருக்கிறது.
+Sri Lankan government faces challenges in economy, travel advisories, and reconciliation. National People's Power wins local election, increasing support. New government maintains economic committee, gaining IMF confidence. Travel restrictions implemented due to terror threats. Government addresses concerns about foreign tourists' illegal activities. President announces provincial council elections to promote diversity and decentralization. Critics argue high costs, but decentralization crucial for addressing ethnic and regional disparities.
 
-முன்னர் 2019 ஆம் ஆண்டில் எல்பிட்டிய பிரதேச சபைக்கு நடைபெற்ற தேர்தலில் அதற்கு  இரு ஆசனங்களே கிடைத்தன.
+🟩
 
-இப்போது 15 ஆசங்களை அது கைப்பற்றியிருக்கிறது. அப்போது ஆறு சதவீத வாக்குகளை மாத்திரமே பெற்ற தேசிய மக்கள் சக்தி இப்போது 48 சதவீதமான வாக்குகளைப் பெற்றிருக்கிறது.
+The government is very intelligent in its actions, if it is a matter of dealing with the economy, travel instructions or reconciliation process.
+
+Experiences its resulting benefit. The victory of the Elpitiya Pradeshiya Sabha in the South is a sign that the popular population continues to increase after a month of power.
+
+The increase in the currency expands to the national people's power, not limited to President Anura Kumara Dissanayake.
+
+The difference in the success of the national people's power is much greater than the last time it faced such a local election.
+
+Earlier in 2019, the Elpitiya Pradeshiya Sabha had two seats.
+
+Now it has captured 15 designs. The national people's power, which received only six percent of the vote, now received 48 percent of the votes.
+
+The increase in the victory of the National People's Power in the Local Government election is the result of the polls of voters that they will benefit after the victory of the national People's Power in the presidential election.
 
 ...
 
 [Data](articles/8a727ab5.json)
 
+[Extended Data](ext_articles/8a727ab5.ext.json)
+
 ---
 
-### கமலா ஹரிசின் நம்பிக்கை பெண் வாக்காளர்களில் தங்கியுள்ளது – பல பெண்கள்  எழுச்சி பெறுகின்றனர்
+### Kamala Haris's confidence stays in female voters - many women rise up
 
 *2024-11-02 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197701) · `ta`
+
+Kamala Harris's confidence remains strong among female voters. Young women are showing increased enthusiasm for her candidacy. A recent poll shows 55% of women under 30 support Harris. Her campaign focuses on empowering women and addressing gender inequality. However, her support among white women lags behind other demographics. To win, Harris needs to mobilize more female voters and address concerns among white women who supported Trump in 2016.
+
+🟩
 
 அமெரிக்க தேர்தலின் முக்கிய போர்க்களங்களான அரிசோனா மிச்சிகன் போன்ற மாநிலங்களில் இளம்பெண்கள் அதிகாலையிலேயே வாக்களிப்பதற்காக காத்திருக்கின்றனர்.
 
 அவர்கள் தேர்தல் முடிவுகளை தனக்கு சாதகமான மாற்றுவார்கள் என ஜனநாயக கட்சியின் ஜனாதிபதி வேட்பாளர் கமலா ஹரிஸ் எதிர்பார்க்கின்றார்.
 
-மிச்சிகன் பல்கலைகழகத்தில் வழமைக்கு மாறான காலநிலையை கொண்ட காலையில் மிச்சிகன் பல்கலைகழகத்தின் ஆன் ஆர்பர் வளாகத்தின் பல்கலைகழகத்தின் முன்கூட்டியே வாக்களிக்கும் நிலையத்தில் அதிகாலையிலேயே வரிசையில் நின்றனர்.
+In the morning, in the morning of the University of Michigan, in the morning, the University of Michigan University's University of the University of the University of Michigan was lined up early in the morning.
 
-அவர்களில் ஒருவர் மூன்றாம் வருட மாணவி கீலிகனொங் அவர் கமலா ஹரிசிற்கு வாக்களிப்பது குறித்து மிகுந்த ஆர்வத்துடன் காணப்படுகின்றார்.
+One of them is keen to vote for Kamala Haris, a third year student, Keeliganong.
 
-பாலினசமத்துவம் என்பது முக்கியமான விடயங்களில் ஒன்றுஇஎன தெரிவிக்கின்றார் அவரது நண்பி லொவா நொர்ட்லிங்கர்.கருக்கலைப்பிற்கான உரிமை குறித்த கமலாஹரிசின் நிலைப்பாட்டினை அவர்  வலியுறுத்துகின்றார்.
+One of the most important issues of sexism is his friend Lova Nortlinger.
 
-ஒருபெண்ணின் தெரிவு என்பது அவரது தனிப்பட்ட விடயம் உண்மையில் அது வேறு ஒருவரின் தீர்மானமாக இருக்க முடியாது என்கின்றார் அவர்.
+The choice of a woman is that her personal issue is actually that it cannot be someone else's decision.
+
+Lova Nortlinger, a 20 -year -old student, says that students' votes are going to change in the election.
+
+A 24 -year -old Adrenia Beette, who is engaged in the charity of teaching students, accepts this. I think many women are rising.
 
 ...
 
 [Data](articles/1e0d2855.json)
+
+[Extended Data](ext_articles/1e0d2855.ext.json)
 
 ---
 
@@ -2221,67 +2335,5 @@ Dr Wijayasuriya has duly accepted the invitation from the GoSL and has communica
 [Data](articles/f1a48834.json)
 
 [Extended Data](ext_articles/f1a48834.ext.json)
-
----
-
-### Dr. Hans appointed as Chief Presidential Advisor on Digital Economic
-
-*2024-11-01 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202808) · `si`
-
-Dr. Hans Wijayasuriya appointed Chief Presidential Advisor on Digital Economy. Resigns from Dialog Axiata on Jan 25, 2025. Formerly CEO of Telecom Malaysia.
-
-🟩
-
-Dr. Hans Wijayasuriya has been appointed as the President of the Digital Economy.
-
-Meanwhile, Dialog Axiita, a parent company, ailyga Group Burhad says that the Chief Executive Director of its Tribulating Director and its Telecommunication Business (CEO Dr. Wijayasuriya has admitted the invitation of the Government of Sri Lanka.
-
-According to the statement, he has informed that he resigns from Asiata on January 25, 2025.
-
-Dr. Hans's decision has been admitted by the Board of Directors. He has been in the professional in Telecom Malaysia, known as Asian and and before.
-
-◼️
-
-[Data](articles/87a1ad32.json)
-
-[Extended Data](ext_articles/87a1ad32.ext.json)
-
----
-
-### How long will the deficit do you have?
-
-*2024-11-01 16:28:56* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-හිඟය-කොතෙක්-කල්-තියේවිද--/11-412797) · `si`
-
-Coconut Research Institute predicts increased deficits due to climate change. Deficit expected to continue through April 2024.
-
-🟩
-
-Coconut Research Institute states that due to the lack of rainfall and the increase in rainfall and temperature has reduced coconut. The dress further invested in the possession of this situation to April next year.
-
-◼️
-
-[Data](articles/708a21cc.json)
-
-[Extended Data](ext_articles/708a21cc.ext.json)
-
----
-
-### Sri Lanka makes $503 million in debt service payments in first half 2024
-
-*2024-11-01 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103091/sri-lanka-makes-503-million-in-debt-service-payments-in-first-half-2024) · `en`
-
-The external debt of the government as of end of June 2024 amounted to USD 37.5 billion, according to the Mid-Year Fiscal Position Report issued by Sri Lanka’s Finance Ministry.
-
-Total debt service payments from 1st January to 30th June in 2024 was amounted to USD 503.0 million, of which USD 275.1 million was in lieu of principal repayments and the balance USD 227.9 million for the interest payments, it said.
-
-In line with the interim policy of the debt standstill adopted by the Government, the servicing of the external debt of affected loans obtained from bilateral and commercial creditors have been temporarily suspended for an interim period commencing from 12th April, 2022.
-
-Accordingly, the principal amount of USD 5,670 million and interest of USD 2,527 million have been accumulated as unpaid debt service by the end of June 2024, the report added.
-
-◼️
-
-[Data](articles/2959450a.json)
-
-[Extended Data](ext_articles/2959450a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 01:09:36**
+As of **2024-11-04 01:24:07**
 
 ## Newspaper Stats
 
-*Scraped **52,854** Articles*
+*Scraped **52,856** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,605
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
-tamilmirrorlk | 7,338
+tamilmirrorlk | 7,340
 virakesarilk | 8,541
 adaderanasinhalalk | 9,210
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,854 (100.0%) of 52,854 articles have been extended.
+52,856 (100.0%) of 52,856 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### We will win by reading the books
+
+*2024-11-04 01:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழி-காட்டும்-தாரகைகளாம்-நூல்கள்-வாசிப்பால்-வென்றிடுவோம்-நாங்கள்/175-346509) · `ta`
+
+Here's a 200-character summary:
+
+
+
+National Reading Month event at Kalmunai Mahmood Women's College. Mobile library launched with various books, dictionaries, novels, educational materials. College principal, deputy principals, teachers, and students attended. Event aimed to promote reading and literacy.
+
+🟩
+
+The National Reading Month October 2024 on the eve of the State Roundtable Library, the Library of the Library of Kalmunai Mahmood Women's College (National School). Naleem led the green house.
+
+The Principal of the College, AP at the opening of a mobile library. Nasmia Sanus was the chief guest. It is noteworthy that the Mobile Library included a variety of books, dictionaries, novel, education, scholars, textbooks, news magazines, poems, magazines.
+
+The college's library in charge of the college's Library, A.L.. Naleem was provided by them. Deputy Principals Hajiani SSM. Samata Masood Levai, AH Nathira, Assistant Chancellor MS Manuna, Teachers, Library Officers and Students of the Library Association were also present.
+
+◼️
+
+[Data](articles/bd028a74.json)
+
+[Extended Data](ext_articles/bd028a74.ext.json)
+
+---
+
+### 34th Black Model October Day
+
+*2024-11-04 00:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/34-ஆவது-கறுப்பு-ஒக்டோபர்-தின-நினைவேந்தல்/175-346508) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+34th Black October Day conference in Negombo. Organized by displaced Muslims from North. Speakers discussed displacement due to LTTE in 1990. Over 6,000 people affected. Current resettlement inadequate. Government urged to improve conditions.
+
+🟩
+
+The 34th Black October Day Media Conference was held on Sunday (03) at the Negombo Sounders Festival Hall.
+
+It was organized by the Muslims of Vadapula who displaced from the North to Negombo.
+
+M.S.. M.. Janzir, MS Jinus, Negombo Periyamullai Periyamullai Periyamullai Secretary Secretary. M.. Suhaibal Hajiar and Moulavi Noorul Hasan made their comments there.
+
+On October 30, 1990, they said that they had been chased by the LTTE from the Vadapulam and that more than six thousand people from 3,500 families in many parts of the country, including Puttalam, Negombo, were displaced.
+
+They said that they are now resettled up to 500 families, but they are not providing adequate facilities and that the government should take action and that the government should take action and that the president will focus on the matter.
+
+◼️
+
+[Data](articles/fdbca9d2.json)
+
+[Extended Data](ext_articles/fdbca9d2.ext.json)
+
+---
 
 ### Lending according to Manoj Akmeemana: A textbook for all
 
@@ -2303,55 +2359,5 @@ Initial investigations by the police revealed that the attacker had fled the sce
 [Data](articles/945510ae.json)
 
 [Extended Data](ext_articles/945510ae.ext.json)
-
----
-
-### Special security for Lohan Ratwatta
-
-*2024-11-03 09:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவிற்கு-விசேட-பாதுகாப்பு/175-346471) · `ta`
-
-Former Minister Lohan Ratwatta gets special prison care after interrogation. Medical issues require liver, lung, and pancreas specialist treatment.
-
-🟩
-
-Prison officials have been ordered to provide special protection and medical treatment to former Minister of State Lohan Ratwatta, who has been interrogated by the Nugegoda Magistrate on the allegation of illegally imported luxury vehicle.
-
-Prisons spokesman Gamini Dissanayake said Lohan Ratwatta has been transferred to prison hospital. It is noteworthy that the Magistrate included his special security arrangements due to his previous post of Lohan Ratwatta and Prison Minister.
-
-Ratwatta was arrested by Mirihana police on October 31 and produced before the Magistrate of Nugegoda that night.. He was detained until November 7.
-
-The spokesman said the health report of the Prison Hospital pointed out that Ratwatta should be treated due to medical problems.
-
-The report further stated that he should be prescribed to a specialist for liver, lung and pancreas -related diseases.
-
-Once the treatment is over, Lohan Ratwat will return to jail on the recommendation of the doctor, the spokesman said.
-
-◼️
-
-[Data](articles/cdebdc0b.json)
-
-[Extended Data](ext_articles/cdebdc0b.ext.json)
-
----
-
-### Threatening to Health: Arrest
-
-*2024-11-03 09:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/அறுகம்பே-அச்சுறுத்தல்-அறுவர்-கைது/74-346470) · `ta`
-
-Arrests made over tourist safety threats in Arukambe. Six suspects, including a Maldivian, held for potential attacks and photography of financial targets in Colombo. Investigations ongoing.
-
-🟩
-
-Public Security Minister Vijitha Herath has said that six suspects, including the Maldivian citizen, have been arrested so far in connection with the security threat to tourists in Arukambe.
-
-The Minister said that the suspects were arrested on the basis of intelligence reports on the possibilities of attacks in the Arughambe area and the incidents of photographing the major financial bases in Colombo.
-
-“So far, we have arrested six people. The Maldivian citizen and five Sri Lankans are being detained and investigations are being carried out. However, we can't say more about what kind of plan or effort this is. Because the information received from the arrested 6 people cannot come to an end. Therefore, unnecessary misconduct should be avoided, ”Minister Herath said.
-
-◼️
-
-[Data](articles/214ef33f.json)
-
-[Extended Data](ext_articles/214ef33f.ext.json)
 
 ---

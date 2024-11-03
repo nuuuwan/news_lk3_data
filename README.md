@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 17:24:27**
+As of **2024-11-03 17:41:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,809 (100.0%) of 52,812 articles have been extended.
+52,812 (100.0%) of 52,812 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ This was communicated by the media spokesman of the Ministry of Defence during a
 ◼️
 
 [Data](articles/361cc801.json)
+
+[Extended Data](ext_articles/361cc801.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Preliminary assessments suggest the driver may have been operating the vehicle i
 ...
 
 [Data](articles/1da23d20.json)
+
+[Extended Data](ext_articles/1da23d20.ext.json)
 
 ---
 
@@ -84,19 +88,25 @@ The committee appointed by the Secretary of the Ministry of Buddhism, Religion a
 
 ---
 
-### ආගමික ස්ථානවලට ලබා දී ඇති ආරක්ෂාව ගැන විශේෂ ප්‍රකාශයක්
+### Special statement about the safety of religious places
 
 *2024-11-03 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202864) · `si`
 
-ආගමික ස්ථානවලට ලබා දී තිබෙන ත්‍රිවිධ හමුදා ආරක්ෂාව සහ සිවිල් ආරක්ෂක දෙපාර්තමේන්තුවේ සාමාජිකයින්ගේ ආරක්ෂාව ඉවත්කර ඇති බවට පළවන පුවත් ප්‍රතික්ෂේප කරන බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+Defense Ministry removes Armed Forces, Civil Defense security from religious sites. False news spread in newspapers and social media. Director of Defense holds press conference today.
 
-අද (03) පස්වරුවේ විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ආරක්ෂක අමාත්‍යාංශයේ අධ්‍යක්‍ෂ, මාධ්‍ය හා මාධ්‍ය ප්‍රකාශක කර්නල් එම්. බී. බී. නලින් හේරත් මහතා මේ බව පැවසීය.
+🟩
 
-ප්‍රධාන පෙළේ පුවත්පතක සහ සමාජ මාධ්‍යවල මෙම අසත්‍ය පුවත පළකර ඇති බවත්, එම තොරතුරු සියල්ල X පණිවුඩයක් මගින් මේ වනවිටත් ප්‍රතික්ෂේප කර ඇති බවත් ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+The Defense Ministry says that the security of the Armed Forces and the members of the Civil Defense Department have been removed.
+
+A special press conference will be held today (03), Director of Defense, Media and Media Spokesperson Colonel M. B. B. Nalin Herath said this.
+
+He added that this false news has been published in a leading newspaper and social media, he added.
 
 ◼️
 
 [Data](articles/2f593061.json)
+
+[Extended Data](ext_articles/2f593061.ext.json)
 
 ---
 

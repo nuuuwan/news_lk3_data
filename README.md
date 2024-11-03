@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 22:39:37**
+As of **2024-11-03 22:57:45**
 
 ## Newspaper Stats
 
-*Scraped **52,846** Articles*
+*Scraped **52,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,926
+adalk | 4,927
 adaderanalk | 6,282
 tamilmirrorlk | 7,337
 virakesarilk | 8,541
-adaderanasinhalalk | 9,209
+adaderanasinhalalk | 9,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,846 (100.0%) of 52,846 articles have been extended.
+52,848 (100.0%) of 52,848 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### India includes the cyber risk list in Canada
+
+*2024-11-03 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202871) · `si`
+
+India added to Canada's cyber risk list due to alleged involvement in Sikh separatist leader's assassination. This makes India the fifth country on the list, joining Russia, Iran, and North Korea. The move comes amid heightened tensions between the two nations.
+
+🟩
+
+Canada has acted to include Cyber ​​Risk Referenders to the list of cyber risk.
+
+After the assassination of Sik separatist leader Herdeep Singh, who lived in Canada, intensified after the assassination of the two countries.
+
+Canada alleges that in the knowledge and sponsorship of the Indian government.
+
+India is the fifth country, which was admitted to the Canadian cyber risk assessment valuation list.
+
+Prior to India, Russia, Iran and North Korea were included in this list.
+
+◼️
+
+[Data](articles/4af07031.json)
+
+[Extended Data](ext_articles/4af07031.ext.json)
+
+---
 
 ### Join the Surgeon Power from Politics - Dilith
 
@@ -229,6 +255,36 @@ The children were struck while taking a break from a game of football.
 [Data](articles/b28718f5.json)
 
 [Extended Data](ext_articles/b28718f5.ext.json)
+
+---
+
+### The green harvest of the Embilipitiya has no hindrance to sales
+
+*2024-11-03 19:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටිය-වලව-කලාපයේ--මුං-අස්වැන්න-අලෙවියට-බාධාවක්-නෑ/11-412830) · `si`
+
+Embilipitiya green harvest sales unaffected. Farmers' union reports smooth process. 1400 kg harvested. Governor promises protection. Water supply ensured for farming.
+
+🟩
+
+Farmers' union representatives today (03), said that issues have not been raised regarding the sale of green harvest in Embilipitiya.
+
+Embilipitiya Farmory Association (03) (03) was held at the Embaraw Roads of the Embilipitiya National Secretariat Champu Janaki Rajaratne at the Embilipitiya Province Champa Janaki Rajaratne.
+
+Representatives of the Farmer Corporation said that he had no possession of possible green harvest.
+
+This time this time he has sold the green harvest and that the remaining garbage will be used to renewed itself.
+
+The Mahaweli Authority officials said that the farmers were cultivated by farmers in the Embilipitiya left bank of the Embilipitiya left bank of the Embilipitiya left-season this year.
+
+The farmers in the region have around 1400 kilograms of green harvest.Governor of Sabaragamuwa Province Champa Janaki Rajaratne stated that the government will protect the farmers.
+
+The said notion further said the water supply of water required for farmers' plantation fertilizer.
+
+...
+
+[Data](articles/a56c79ea.json)
+
+[Extended Data](ext_articles/a56c79ea.ext.json)
 
 ---
 
@@ -2313,49 +2369,5 @@ Deputy Post Master General Rajitha Ranasinghe said that the distribution of offi
 [Data](articles/20989174.json)
 
 [Extended Data](ext_articles/20989174.ext.json)
-
----
-
-### Khamenei vows response to attacks on Iran and allies
-
-*2024-11-03 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103112/khamenei-vows-response-to-attacks-on-iran-and-allies) · `en`
-
-Iran’s supreme leader Ayatollah Ali Khamenei vowed on Saturday to retaliate against attacks by Israel and its ally the United States targeting Tehran and groups it supports in the region.
-
-“The enemies, both the USA and the Zionist regime, should know that they will definitely receive a tooth-breaking response to what they are doing against Iran, the Iranian nation, and the resistance front,” Khamenei said in a speech to students in Tehran.
-
-He was referring to the alliance of Tehran-backed armed groups that include Yemen’s Huthi rebels, Lebanon’s Hezbollah movement and the Palestinian Islamist group Hamas.
-
-Regional tensions have soared since the outbreak in October last year of the Israel-Hamas war in Gaza, drawing in those Iran-aligned groups and others from Iraq and Syria.
-
-Hezbollah and Israel exchanged cross-border fire for nearly a year after Hamas’s unprecedented attack on Israel on October 7, 2023, before Israel ramped up the conflict on September 23.
-
-...
-
-[Data](articles/e0d432ba.json)
-
-[Extended Data](ext_articles/e0d432ba.ext.json)
-
----
-
-### வாக்காளர் அட்டை விநியோகிக்கும் விசேட தினம் இன்று
-
-*2024-11-03 07:55:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகிக்கும்-விசேட-தினம்-இன்று/175-346468) · `ta`
-
-Special Sunday: 2,090 post offices open for voter card distribution. 8,000 staff deliver cards from 8am to 6pm.
-
-🟩
-
-Sunday is announced as a special day for distributing official voter cards for the general election.
-
-Senior Deputy Deputy Post Office Rajitha K Ranasinghe says 2,090 post offices have been opened today to distribute voter cards.
-
-8,000 employees involved in delivery work. Voter cards will be distributed to homes from 8am to 6pm today. (a)
-
-◼️
-
-[Data](articles/7be8c798.json)
-
-[Extended Data](ext_articles/7be8c798.ext.json)
 
 ---

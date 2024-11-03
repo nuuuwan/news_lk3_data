@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 09:25:50**
+As of **2024-11-03 09:59:12**
 
 ## Newspaper Stats
 
-*Scraped **52,747** Articles*
+*Scraped **52,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,155
 economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,908
+adalk | 4,909
 adaderanalk | 6,268
-tamilmirrorlk | 7,319
+tamilmirrorlk | 7,323
 virakesarilk | 8,511
 adaderanasinhalalk | 9,194
 
@@ -26,11 +26,113 @@ adaderanasinhalalk | 9,194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,747 (100.0%) of 52,747 articles have been extended.
+52,752 (100.0%) of 52,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Supporter attack on candidate
+
+*2024-11-03 09:31:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-மீது-ஆதரவாளர்-தாக்குதல்/175-346472) · `ta`
+
+Candidate supporter hospitalized after attacking rival during election campaign visit. Police investigating incident where attacker fled scene.
+
+🟩
+
+Police said that one of the supporters of the candidate who went to the home of another candidate for support for a leading party candidate, was admitted to the hospital after the attack on the candidate and the attacker escaped in Eravur yesterday afternoon.
+
+The party has gone to the party's residence to seek election support. The vote of the time has become a melee.
+
+In this case, a supporter attacked the candidate and was admitted to the hospital with injuries.
+
+Initial investigations by the police revealed that the attacker had fled the scene.
+
+◼️
+
+[Data](articles/945510ae.json)
+
+[Extended Data](ext_articles/945510ae.ext.json)
+
+---
+
+### Special security for Lohan Ratwatta
+
+*2024-11-03 09:26:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவிற்கு-விசேட-பாதுகாப்பு/175-346471) · `ta`
+
+Former Minister Lohan Ratwatta gets special prison care after interrogation. Medical issues require liver, lung, and pancreas specialist treatment.
+
+🟩
+
+Prison officials have been ordered to provide special protection and medical treatment to former Minister of State Lohan Ratwatta, who has been interrogated by the Nugegoda Magistrate on the allegation of illegally imported luxury vehicle.
+
+Prisons spokesman Gamini Dissanayake said Lohan Ratwatta has been transferred to prison hospital. It is noteworthy that the Magistrate included his special security arrangements due to his previous post of Lohan Ratwatta and Prison Minister.
+
+Ratwatta was arrested by Mirihana police on October 31 and produced before the Magistrate of Nugegoda that night.. He was detained until November 7.
+
+The spokesman said the health report of the Prison Hospital pointed out that Ratwatta should be treated due to medical problems.
+
+The report further stated that he should be prescribed to a specialist for liver, lung and pancreas -related diseases.
+
+Once the treatment is over, Lohan Ratwat will return to jail on the recommendation of the doctor, the spokesman said.
+
+◼️
+
+[Data](articles/cdebdc0b.json)
+
+[Extended Data](ext_articles/cdebdc0b.ext.json)
+
+---
+
+### Threatening to Health: Arrest
+
+*2024-11-03 09:21:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/அறுகம்பே-அச்சுறுத்தல்-அறுவர்-கைது/74-346470) · `ta`
+
+Arrests made over tourist safety threats in Arukambe. Six suspects, including a Maldivian, held for potential attacks and photography of financial targets in Colombo. Investigations ongoing.
+
+🟩
+
+Public Security Minister Vijitha Herath has said that six suspects, including the Maldivian citizen, have been arrested so far in connection with the security threat to tourists in Arukambe.
+
+The Minister said that the suspects were arrested on the basis of intelligence reports on the possibilities of attacks in the Arughambe area and the incidents of photographing the major financial bases in Colombo.
+
+“So far, we have arrested six people. The Maldivian citizen and five Sri Lankans are being detained and investigations are being carried out. However, we can't say more about what kind of plan or effort this is. Because the information received from the arrested 6 people cannot come to an end. Therefore, unnecessary misconduct should be avoided, ”Minister Herath said.
+
+◼️
+
+[Data](articles/214ef33f.json)
+
+[Extended Data](ext_articles/214ef33f.ext.json)
+
+---
+
+### Announcement of Holidays of Public and Private Employees
+
+*2024-11-03 09:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-தனியார்-ஊழியர்களின்-விடுமுறை-குறித்த-அறிவிப்பு/175-346469) · `ta`
+
+Election Commission announces holiday rules for public/private sector employees during parliamentary elections. Employees get paid half-day off to vote, full day off for distant polling stations. Companies must approve requests. Leaders to display documents of approved leaves.
+
+🟩
+
+The Election Commission has announced rules regarding holidays for state and private sector employees in the upcoming parliamentary elections without a loss of salary or personal leave.
+
+Accordingly, as stated in Chapter 12, Paragraph 12/3, a series of time to vote for the parliamentary elections is at least 4 hours and a special holiday should be given without pay toilets.
+
+The Elections Commission said that private sector employees have been created without the loss of salary or personal leave, based on the announcement of the Human Rights Commission.
+
+Accordingly, it should be given a half-day holiday to the voting station from the workplace to the polling station and at least one day holiday.
+
+The Election Commission has said that the distance is 100-150 kilometers away from one and a half days and more than 150 kilometers.
+
+However, for this, employees must submit the appropriate holiday request to the company chairman.
+
+...
+
+[Data](articles/269e6b8f.json)
+
+[Extended Data](ext_articles/269e6b8f.ext.json)
+
+---
 
 ### මෙහෙම ගියොත් KDU බස් එක වගේ වෙයි -  රනිල්
 
@@ -193,6 +295,28 @@ In addition, the Department of Meteorology has said that 100 millimeters of heav
 [Data](articles/ceb5610b.json)
 
 [Extended Data](ext_articles/ceb5610b.ext.json)
+
+---
+
+### The land on the Department of Examinations has not been accused of legally
+
+*2024-11-03 07:51:04* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-දෙපාර්තමේන්තුව-තිබෙන--ඉඩම-මෙතෙක්-නීත්‍යනුකූලව-පවරාගෙන-නෑ/11-412811) · `si`
+
+Department of Examinations audit report recommends taking over land without payment. Decision made by Audit Management Meeting. Land acquisition process ongoing.
+
+🟩
+
+A audit report issued by the Department of Examinations has not yet been taken over by the Examinations Department, the department is yet to be taken over by the Examinations of the Examinations of the Examinations.
+
+The number of Examinations of the Department of Examinations has informed the audit on March 6 this year to take over the land without paying fees on the decision of the Audit Management Meeting.
+
+The audit has been recommended to take over the land.
+
+◼️
+
+[Data](articles/29b01b42.json)
+
+[Extended Data](ext_articles/29b01b42.ext.json)
 
 ---
 
@@ -2233,117 +2357,5 @@ Several few of the ten people who are treated in the intensive care unit have th
 [Data](articles/47f4e037.json)
 
 [Extended Data](ext_articles/47f4e037.ext.json)
-
----
-
-### President and Indian envoy discuss strengthening ties, fishing disputes, and energy cooperation
-
-*2024-11-02 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103102/president-and-indian-envoy-discuss-strengthening-ties-fishing-disputes-and-energy-cooperation) · `en`
-
-President Anura Kumara Dissanayake met with Indian High Commissioner Santosh Jha yesterday (01) at the Presidential Secretariat in Colombo.
-
-The discussion centered on strengthening the longstanding relationship between the two nations, including a detailed review of Indian-assisted projects in Sri Lanka, where progress and challenges were highlighted, the President’s Media Division (PMD) stated.
-
-They also addressed the ongoing fishing disputes in the Northern Sea, with both parties stressing the importance of a long-term resolution that respects the needs of fishermen from both countries and promotes cooperation.
-
-President Dissanayake affirmed his commitment to protecting the interests of the Sri Lankan fishing community.
-
-The President expressed interest in learning from India’s expertise in power and energy sector development and the digitalization process, with a view to advancing these areas in Sri Lanka with India’s support, the PMD said.
-
-...
-
-[Data](articles/454b52ed.json)
-
-[Extended Data](ext_articles/454b52ed.ext.json)
-
----
-
-### One arrested with ice drugs in Biyagam
-
-*2024-11-02 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197704) · `ta`
-
-Biyagama police arrest 32-year-old man with 67g ice drugs in Piyagama raid.
-
-🟩
-
-Piyagama police said that a suspect was arrested yesterday (01) with an ice drug in the Yaparaluwa area, which belongs to the Gampaha and Biyagama police division.
-
-The suspect has been arrested during the raid carried out on the basis of information received by the Biyagama police.
-
-The arrested suspect is 32 -year -old from Malwana.
-
-Police have seized 67 grams of Ice and drug trafficking from the arrested suspect.
-
-◼️
-
-[Data](articles/77f11ddb.json)
-
-[Extended Data](ext_articles/77f11ddb.ext.json)
-
----
-
-### Lohan Ratwatte to be arrested
-
-*2024-11-02 11:36:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේ-බන්ධනාගාර-රෝහලට/11-412804) · `si`
-
-Former MP Lohan Ratwatte arrested, transferred to prison hospital after court order.
-
-🟩
-
-Former MP Lohan Ratwatte, who was arrested in connection with an incident, has been transferred to the Prison Hospital.
-
-පසුගිය 31 වැනිදා අත්අඩංගුවට ගත් ඒ මහතා ලබන 07 වැනිදා දක්වා රක්ෂිත බන්ධානාගාර ගත කිරීමට අධිකරණය නියෝග කළේය.
-
-◼️
-
-[Data](articles/1f6d5acf.json)
-
-[Extended Data](ext_articles/1f6d5acf.ext.json)
-
----
-
-### 17 Complaints Registration of Vanni Election District
-
-*2024-11-02 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/197699) · `ta`
-
-Vanni Election District: 17 complaints registered. 30,608 eligible voters. Voting centers set up in Vavuniya, Mannar, Mullaitivu.
-
-🟩
-
-The Vanni Elections in the Vanni Election District has so far been reported for the upcoming parliamentary elections, said PA, the Vavuniya State President PA.. Said Sarathchandra.
-
-So far, 17 complaints have been lodged in the Vanni election. There are eight complaints in Vavuniya, eight complaints in Mannar district and a complaint has been received in Mullaitivu.. They are small complaints.
-
-Meanwhile, steps have been taken to act as the Voter Voting Center in Vavuniya as the Voting Central Station, the District Secretariat in Mannarmavattam, the Mullaitivu Central Maha Vidyalaya and the Voting Centers.
-
-Meanwhile, 30,6081 voters are eligible to vote in the upcoming parliamentary elections in the Vanni election district.
-
-He said 128,585 in Vavuniya, 86,889 in Mullaitivu and 90,607 in Mannar were eligible to vote.
-
-◼️
-
-[Data](articles/89d5ae41.json)
-
-[Extended Data](ext_articles/89d5ae41.ext.json)
-
----
-
-### Sri Lanka participated in the Hong Kong International Sixes Competition
-
-*2024-11-02 11:04:11* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-තරගාවලියේ-ශ්‍රී-ලංකාව-සහභාගී-වන-තරගයක්-අද/9-412803) · `si`
-
-Sri Lanka competes in Hong Kong International Sixes Cricket. Semi-final against Nepal today at 1:20 PM.
-
-🟩
-
-The third semi-final of the Hong Kong International Sixers cricket series will be held today (02).
-
-The Sri Lankan team and the Nepal team will be competitive and the match will be held at 1.20 pm.
-
-◼️
-
-[Data](articles/2ae5f059.json)
-
-[Extended Data](ext_articles/2ae5f059.ext.json)
 
 ---

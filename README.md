@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 00:57:00**
+As of **2024-11-04 01:09:36**
 
 ## Newspaper Stats
 
-*Scraped **52,853** Articles*
+*Scraped **52,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 538
 bbccomsinhala | 541
 islandlk | 3,157
 economynextcom | 3,203
-dailyftlk | 3,604
+dailyftlk | 3,605
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
@@ -26,9 +26,27 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,853 (100.0%) of 52,853 articles have been extended.
+52,854 (100.0%) of 52,854 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-04 (Monday)
+
+### Lending according to Manoj Akmeemana: A textbook for all
+
+*2024-11-04 00:49:31* · [`dailyftlk`](https://www.ft.lk/columns/Lending-according-to-Manoj-Akmeemana-A-textbook-for-all/4-768761) · `en`
+
+Veteran banker, Manoj Akmeemana, has chosen to share his decades long experience in banking and lending with bankers, students of banking and the public in the form of a comprehensive text under the title ‘Lending: Concepts, Theory, and Practice’. The book has been produced by using modern technology of producing such texts – two colours, graphs, flowcharts, and tables to make it user friendly. Insight capsules – box articles in other cases – have been added to elaborate on specific topics.
+
+The thread-bound book in hard cover will ensure that the readers could use it for many years without running into the problem of offensive disentangled dog-eared pages which readers encounter in paperback books. But it has come in a hefty price of Rs. 4,500 (equivalent to about $ 15) which may make it only a reference book in libraries and not by many ordinary individual users.
+
+...
+
+[Data](articles/adc4f137.json)
+
+[Extended Data](ext_articles/adc4f137.ext.json)
+
+---
 
 ### 2024-11-03 (Sunday)
 
@@ -2335,33 +2353,5 @@ The Minister said that the suspects were arrested on the basis of intelligence r
 [Data](articles/214ef33f.json)
 
 [Extended Data](ext_articles/214ef33f.ext.json)
-
----
-
-### Announcement of Holidays of Public and Private Employees
-
-*2024-11-03 09:15:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-தனியார்-ஊழியர்களின்-விடுமுறை-குறித்த-அறிவிப்பு/175-346469) · `ta`
-
-Election Commission announces holiday rules for public/private sector employees during parliamentary elections. Employees get paid half-day off to vote, full day off for distant polling stations. Companies must approve requests. Leaders to display documents of approved leaves.
-
-🟩
-
-The Election Commission has announced rules regarding holidays for state and private sector employees in the upcoming parliamentary elections without a loss of salary or personal leave.
-
-Accordingly, as stated in Chapter 12, Paragraph 12/3, a series of time to vote for the parliamentary elections is at least 4 hours and a special holiday should be given without pay toilets.
-
-The Elections Commission said that private sector employees have been created without the loss of salary or personal leave, based on the announcement of the Human Rights Commission.
-
-Accordingly, it should be given a half-day holiday to the voting station from the workplace to the polling station and at least one day holiday.
-
-The Election Commission has said that the distance is 100-150 kilometers away from one and a half days and more than 150 kilometers.
-
-However, for this, employees must submit the appropriate holiday request to the company chairman.
-
-...
-
-[Data](articles/269e6b8f.json)
-
-[Extended Data](ext_articles/269e6b8f.ext.json)
 
 ---

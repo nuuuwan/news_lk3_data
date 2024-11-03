@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 19:40:00**
+As of **2024-11-03 19:58:16**
 
 ## Newspaper Stats
 
-*Scraped **52,834** Articles*
+*Scraped **52,836** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,922
-adaderanalk | 6,280
+adalk | 4,923
+adaderanalk | 6,281
 tamilmirrorlk | 7,337
 virakesarilk | 8,538
 adaderanasinhalalk | 9,206
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,834 (100.0%) of 52,834 articles have been extended.
+52,836 (100.0%) of 52,836 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Lightning kills 14 at Uganda refugee camp
+
+*2024-11-03 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103127/lightning-kills-14-at-uganda-refugee-camp) · `en`
+
+A lighting strike at a refugee camp in Uganda had killed 14 people, police say.
+
+They say the victims were attending a church service on Saturday evening when the lightning struck. Another 34 people were injured.
+
+An official told local radio that all those who died were children.
+
+The incident occurred at Palabek Refugee Settlement in the north-west of the country. The area has recently seen heavy rains with thunder and lightning.
+
+Palabek Refugee Settlement is home to more than 80,000 refugees and asylum seekers, according to the UN’s refugee agency. Many are from neighbouring South Sudan.
+
+Four years ago, lightning killed 10 children in the city of Arua, also in north-western Uganda.
+
+The children were struck while taking a break from a game of football.
+
+◼️
+
+[Data](articles/b28718f5.json)
+
+[Extended Data](ext_articles/b28718f5.ext.json)
+
+---
 
 ### “The world will not bear the second Trump administration”
 
@@ -147,6 +173,30 @@ Those who frequented the people of Nuwara Eliya during the presidential election
 [Data](articles/3a524c94.json)
 
 [Extended Data](ext_articles/3a524c94.ext.json)
+
+---
+
+### Lack of foreign labor remittances in September
+
+*2024-11-03 17:59:46* · [`adalk`](https://www.ada.lk/breaking_news/සැප්තැම්බරයේ-විදෙස්-ශ්‍රමික-ප්‍රේෂණවල-අඩුවක්/11-412825) · `si`
+
+Foreign labor remittances in Sri Lanka decreased from $577 million in August to $556 million in September 2024, compared to $482 million in September 2023. Remittances have exceeded $500 million since March 2024. Total remittances for January to September 2024 reached $4,844 million, surpassing the $4,345 million received during the same period in 2023.
+
+🟩
+
+The Central Bank of Sri Lanka says that in September this year, the Central Bank said. In August, the value of foreign labor remittances recorded US $ 577 million in September, the value has fallen to $ 556 million.
+
+However, the month of the month of September last year showed an increase in the labor remittances. In 2023, the value was US $ 482 million.
+
+From March this year, the labor remittances have exceeded US $ 500 million.
+
+In the month of January to September 2023, US $ 4345 million was received as US $ 4844 million in 2024.
+
+◼️
+
+[Data](articles/7fbf5bd7.json)
+
+[Extended Data](ext_articles/7fbf5bd7.ext.json)
 
 ---
 
@@ -2289,39 +2339,5 @@ I arrived at Karachi Airport in late December. Parvez Pathan, my SDSC counterpar
 [Data](articles/13decbbe.json)
 
 [Extended Data](ext_articles/13decbbe.ext.json)
-
----
-
-### SC judge advises new attorneys on professional duties and obligations
-
-*2024-11-03 02:07:00* · [`islandlk`](http://island.lk/sc-judge-advises-new-attorneys-on-professional-duties-and-obligations/) · `en`
-
-New entrants to the Bar, their parents, relations and their well-wishers: Those whose names were just read out by the Registrar of this Court, now stand enrolled as Attorneys at Law of the Supreme Court. We, on behalf of the Judiciary, congratulate each one of you who joined the legal fraternity as new members today.
-
-The presence of the President of the Bar Association of Sri Lanka in the first row in this audience signifies the fact that the Bar Association of Sri Lanka too has joined with us in welcoming each one of you to the legal fraternity of this country. We jointly extend warm wishes to each one of you as you assume the work of your new office from this moment onward.
-
-...
-
-[Data](articles/ec93b537.json)
-
-[Extended Data](ext_articles/ec93b537.ext.json)
-
----
-
-### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
-
-*2024-11-03 02:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
-
-Democracy under threat, as Trump sows doubt on election integrity
-
-President Ronald Reagan, “The Great Communicator” was famous for conceptualizing the American Dream, in a loose paraphrasing of the words enshrined in the Statue of Liberty.
-
-Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shining City all my political life….But in my mind, it was a tall, proud city built on rocks, stronger than oceans, wind-swept, God blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and heart to get here. That’s how I saw it, and see it still.
-
-...
-
-[Data](articles/91ee4331.json)
-
-[Extended Data](ext_articles/91ee4331.ext.json)
 
 ---

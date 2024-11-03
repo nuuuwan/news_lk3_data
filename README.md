@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 16:39:44**
+As of **2024-11-03 16:57:28**
 
 ## Newspaper Stats
 
-*Scraped **52,805** Articles*
+*Scraped **52,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,918
-adaderanalk | 6,276
-tamilmirrorlk | 7,332
+adaderanalk | 6,277
+tamilmirrorlk | 7,333
 virakesarilk | 8,527
-adaderanasinhalalk | 9,203
+adaderanasinhalalk | 9,204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,805 (100.0%) of 52,805 articles have been extended.
+52,808 (100.0%) of 52,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Moldovans vote in presidential runoff amid fears of meddling
+
+*2024-11-03 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103123/moldovans-vote-in-presidential-runoff-amid-fears-of-meddling) · `en`
+
+Moldovans were voting on Sunday in a presidential election that has been overshadowed by meddling allegations and could see Moscow claw back influence in the country at a time when it is trying to draw closer to the European Union.
+
+Pro-Western incumbent Maia Sandu, who has accelerated the nation’s push to leave Moscow’s orbit and join the EU, faces Alexandr Stoianoglo, an ex-prosecutor general backed by the traditionally pro-Russian Socialist Party.
+
+The fortunes of Sandu, who set Moldova on the long path of EU accession talks in June, will be closely followed in Brussels a week after Georgia, another ex-Soviet state hoping to join, re-elected a ruling party seen as increasingly pro-Russian.
+
+Polling stations opened at 7 a.m. (0500 GMT) and close at 9 p.m. (1900 GMT).
+
+Moldova’s future has been thrown into the political and diplomatic spotlight as the war in neighbouring Ukraine rages to the east.
+
+...
+
+[Data](articles/898a8b56.json)
+
+[Extended Data](ext_articles/898a8b56.ext.json)
+
+---
+
+### The removal of soldiers in the places of worship?
+
+*2024-11-03 16:26:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழிபாட்டுத்-தலங்களில்-உள்ள-இராணுவ-வீரர்கள்-நீக்கம்/175-346499) · `ta`
+
+Ministry of Defense denies rumors about removing soldiers from religious sites. Clarifies no plans to withdraw security personnel from places of worship.
+
+🟩
+
+The Ministry of Defense has put an end to speculation on social media that the government is planning to withdraw the soldiers appointed to religious places.
+
+◼️
+
+[Data](articles/0e097c3b.json)
+
+[Extended Data](ext_articles/0e097c3b.ext.json)
+
+---
+
+### Is the bus accident also a technician error, is the driver's source of a driver?
+
+*2024-11-03 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202863) · `si`
+
+Bus accident investigation ongoing. Driver suspected of negligence. 34 injured, 2 dead. Police analyzing footage. Accident occurred near Mahiyangana.
+
+🟩
+
+Police investigations have been carried out by the Badulla, Dununga bus accident, or was due to the unrespective of a driver.
+
+34 injured in the accident are still treated at the accident and the funeral of the deceased will be held today (03).
+
+The Colombo-Mahiyangana Defense University was killed and two students lost their lives in the Mahiyangana main road and was injured.
+
+A photographed camera was also found in a car how to run the bus a few minutes before the accident.
+
+Badulla Senior Superintendent of Police, Wasantha Kandadawatte said that the Analysting report is due to obtain the bus.
+
+Police suspect that the driver's bus was run on the third or fourth stake at the time of the accident.
+
+Investigations have suspended that the vehicle slips from the road to the path of the road, driving away from the road in the area about 4 kilometers.
+
+However, the accident had occurred, however, police investigations have been identified as a result of a problem.
+
+...
+
+[Data](articles/9ce8fee1.json)
+
+[Extended Data](ext_articles/9ce8fee1.ext.json)
+
+---
 
 ### Is the intelligence wrong?
 
@@ -102,27 +174,9 @@ He further stated that the vehicle owners have been given temporary permission t
 
 ---
 
-### Does the wave of the Anura?
-
-*2024-11-03 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197779) · `ta`
-
-"Anura wave summary: National People's Power faces challenges in local elections, may struggle to achieve expected victory in general election."
-
-🟩
-
-“தேசிய மக்கள் சக்தி  எல்பிட்டிய பிரதேச சபைத் தேர்தலில், சரிவைச் சந்திக்க தொடங்கி இருப்பது உறுதியானால், பொதுத்தேர்தலில் எதிர்பார்த்த வெற்றியை அவர்களால் அடைய முடியாமல் போகலாம்”
-
-◼️
-
-[Data](articles/ed544da8.json)
-
-[Extended Data](ext_articles/ed544da8.ext.json)
-
----
-
 ### We have no chavas by the power of the national people - CVP. Ram
 
-*2024-11-03 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197777) · `ta`
+*2024-11-03 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197777) · `ta`
 
 Here's a summary of the text in approximately 200 characters:
 
@@ -139,6 +193,24 @@ Public servants can be restricted to corruption scandals in public sector. The g
 [Data](articles/6d35942e.json)
 
 [Extended Data](ext_articles/6d35942e.ext.json)
+
+---
+
+### Does the wave of the Anura?
+
+*2024-11-03 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197779) · `ta`
+
+"Anura wave summary: National People's Power faces challenges in local elections, may struggle to achieve expected victory in general election."
+
+🟩
+
+“தேசிய மக்கள் சக்தி  எல்பிட்டிய பிரதேச சபைத் தேர்தலில், சரிவைச் சந்திக்க தொடங்கி இருப்பது உறுதியானால், பொதுத்தேர்தலில் எதிர்பார்த்த வெற்றியை அவர்களால் அடைய முடியாமல் போகலாம்”
+
+◼️
+
+[Data](articles/ed544da8.json)
+
+[Extended Data](ext_articles/ed544da8.ext.json)
 
 ---
 
@@ -2233,79 +2305,5 @@ In those cases, the ministry said that if the former minister or his close relat
 [Data](articles/5b383068.json)
 
 [Extended Data](ext_articles/5b383068.ext.json)
-
----
-
-### Can't increase the salaries of public servants
-
-*2024-11-02 19:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரச-ஊழியர்களின்-சம்பளத்தை-அதிகரிக்க-முடியாது/175-346462) · `ta`
-
-Here's a 200-character summary:
-
-
-
-PM Harini Amarasuriya: Public servant salaries can't rise. Last govt raised them without inquiry. She spoke at Colombo event.
-
-🟩
-
-Prime Minister Harini Amarasuriya says that the salaries of public servants cannot be increased.
-
-The Prime Minister said that the last government has decided to raise the salary of public servants without any inquiry.
-
-He said this while attending a public meeting in Colombo.
-
-The Prime Minister also expressed his views on how to raise the salary of public servants.
-
-◼️
-
-[Data](articles/aecaf037.json)
-
-[Extended Data](ext_articles/aecaf037.ext.json)
-
----
-
-### The people are not allowed to deceive the people - Dilith
-
-*2024-11-02 19:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202844) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dilith Jayaweera: Team opposes corrupt politics. Blames politicians for deception. Trade unions destroyed. Country in crisis. Tear gas used. Economic issues. Opposition seeks change.
-
-🟩
-
-Dilith Entrepreneur Entrepreneurship Dilith Jayaweera says that his team will not allow the politics of the people to continue the politics of the people.
-
-...
-
-[Data](articles/e78b9637.json)
-
-[Extended Data](ext_articles/e78b9637.ext.json)
-
----
-
-### Weather Notification for the next 36 hours
-
-*2024-11-02 18:51:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-36-மணிநேரத்திற்கான-வானிலை-அறிவிப்பு/175-346461) · `ta`
-
-Heavy rain warning: 100mm expected in central regions. Thunderstorms possible nationwide evenings/nights. Coastal areas may see showers mornings. Lightning safety precautions advised.
-
-🟩
-
-In the report, 100 millimeters of heavy rains are likely to occur in some parts of the Central, Sabaragamuwa and Uva provinces.
-
-Also, in many parts of the country in the evening or night, there can be shower or thunderstorms.
-
-Showers or thunderstorms can occur in the morning in the coastal areas of the upper and southern provinces.
-
-Meanwhile, the Department of Meteorology has asked the public to take necessary steps to reduce the accidents caused by lightning, as thunderstorms are still favorable in many parts of the country.. Remble
-
-◼️
-
-[Data](articles/3525d734.json)
-
-[Extended Data](ext_articles/3525d734.ext.json)
 
 ---

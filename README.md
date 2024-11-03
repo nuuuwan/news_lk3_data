@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 03:39:59**
+As of **2024-11-04 03:58:42**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,867 (100.0%) of 52,873 articles have been extended.
+52,870 (100.0%) of 52,873 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Addressing a press conference over the weekend, Premachandra emphasised that a s
 ...
 
 [Data](articles/f953cfc5.json)
+
+[Extended Data](ext_articles/f953cfc5.ext.json)
 
 ---
 
@@ -69,6 +71,8 @@ President Anura Kumara Dissanayake yesterday outlined the National People’s Po
 ...
 
 [Data](articles/78ea29fb.json)
+
+[Extended Data](ext_articles/78ea29fb.ext.json)
 
 ---
 
@@ -119,6 +123,8 @@ Designed to inspire the next generation of trailblazers, the event brought toget
 ...
 
 [Data](articles/6b6cf66f.json)
+
+[Extended Data](ext_articles/6b6cf66f.ext.json)
 
 ---
 

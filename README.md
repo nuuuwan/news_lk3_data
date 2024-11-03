@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 09:59:12**
+As of **2024-11-03 10:12:16**
 
 ## Newspaper Stats
 
-*Scraped **52,752** Articles*
+*Scraped **52,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 3,155
 economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,909
+adalk | 4,910
 adaderanalk | 6,268
 tamilmirrorlk | 7,323
 virakesarilk | 8,511
-adaderanasinhalalk | 9,194
+adaderanasinhalalk | 9,195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,752 (100.0%) of 52,752 articles have been extended.
+52,754 (100.0%) of 52,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### The government has lost Rs 10 billion as a vehicle tax bag
+
+*2024-11-03 09:46:39* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-වාහන-බදු--මගඩියකින්-රජයට-රුපියල්-කෝටි-දහයක්-අහිමිවෙලා/11-412813) · `si`
+
+Government loses Rs 10 billion due to incorrect vehicle tax payments. Audit reveals 326 vehicles released to market resulted in 103 million rupees in unpaid taxes. Customs requests AG's opinion on the matter.
+
+🟩
+
+The National Audit office reveals that 326 vehicles released to the local market with the recommendation of the Institute of Industry Ordinance to the local market have lost Rs 103,803,200.
+
+When the vehicle devices assembled by the bonded vehicles, the tariffs were unleashed and paid to the goods they should not be paid, but not less than 30 percent, but production of the 70% of the Rs.The Audit office points out that the government has lost this income by providing two 326 companies that have been issued to the local market.
+
+A total of Rs.
+
+Customs have asked the audit to ask the Attorney General's advice on this matter.
+
+◼️
+
+[Data](articles/501945a3.json)
+
+[Extended Data](ext_articles/501945a3.ext.json)
+
+---
+
+### Murder in Kalutara
+
+*2024-11-03 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202854) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Kalutara South police attacked with sharp object near Cricket Vidyalaya construction site. Victim's sister reported he visited chicken shop. Police investigated suspect's home. Arrested 41-year-old from Bollosgama with weapon and bicycle used in murder.
+
+🟩
+
+The Kalutara South police division has been assaulted by a sharp object near the Construction of the Cricket Vidyalaya.
+
+The deceased's sister has provided information on the police that he had taken a chicken shop while the deceased was in the area.
+
+Accordingly, the police had taken steps to check the man's house.
+
+The suspect was arrested by the police with the sharp weapon and the bicycling used by the human murder.
+
+The suspect is a 41-year-old resident of the Bollosgama, Kalutara South area.
+
+◼️
+
+[Data](articles/d646a8e8.json)
+
+[Extended Data](ext_articles/d646a8e8.ext.json)
+
+---
 
 ### Supporter attack on candidate
 
@@ -2311,51 +2365,5 @@ The suspect was arrested during a roundup carried out on the basis of informatio
 [Data](articles/95f0a114.json)
 
 [Extended Data](ext_articles/95f0a114.ext.json)
-
----
-
-### Serbia's accident that killed 14
-
-*2024-11-02 11:56:04* · [`adalk`](https://www.ada.lk/breaking_news/14කට-මරු-කැඳවූ-සර්බියාවේ-අනතුර/11-412805) · `si`
-
-Serbia: Concrete station collapse kills 14. Three injured taken to hospital. Foreign media reports.
-
-🟩
-
-Fourteen persons have died after the collapse of concrete station at a cerebitia.
-
-අනතුරින් තුවාල ලැබූ තිදෙනෙකු රෝහල් ගත කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/a484a2c0.json)
-
-[Extended Data](ext_articles/a484a2c0.ext.json)
-
----
-
-### The condition of the injured condition at Badulla accident is better
-
-*2024-11-02 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202825) · `si`
-
-Badulla accident victims' conditions improving. 10 in ICU; some transferred to regular wards. 40 hospitalized. No air transport needed. All necessary medical facilities available.
-
-🟩
-
-දුන්හිඳ - බදුල්ල මාර්ගයේ ඊයේ (1) උදෑසන සිදු වූ බස් රථ අනතු‍රෙන් බරපතළ තුවාල ලබා බදුල්ල ශික්ෂණ රෝහලට ඇතුළත් කරනු ලැබූවන්ගේ ජීවිත අවදානම්බව පහව යමින් තිබෙන බව එම රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ ජ්‍යෙෂ්ඨ වෛද්‍ය නිලධාරී පාලිත රාජපක්ෂ මහතා පවසයි.
-
-He said that the condition of the injured had been made, he said that the condition of all the hospital was good.
-
-A few of the ten people who were receiving treatment at the intensive care unit could be transferred to normal wards.
-
-40 injured in bus accident was hospitalized. ඉන් දස දෙනෙකු දැඩි සත්කාර ඒකකයට ඇතුළත් කළා. Most of those patients are recovering.  හැමදෙනාගෙම තිබූ ජිවිත අවධානම පහවෙලා තිබෙන්නේ. අපට ලොකු බලාපොරොත්තුවක් තියාගන්න පුළුවන් එම දරුවන්ගේ ජීවිත සම්බන්ධයෙන්.
-
-Several few of the ten people who are treated in the intensive care unit have the ability to transfer the ordinary wards. Several others may leave the hospital after submitting to the forensic doctor.
-
-...
-
-[Data](articles/47f4e037.json)
-
-[Extended Data](ext_articles/47f4e037.ext.json)
 
 ---

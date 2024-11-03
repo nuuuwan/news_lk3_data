@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 09:00:45**
+As of **2024-11-03 09:25:50**
 
 ## Newspaper Stats
 
-*Scraped **52,745** Articles*
+*Scraped **52,747** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,78 @@ economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,908
-adaderanalk | 6,267
+adaderanalk | 6,268
 tamilmirrorlk | 7,319
 virakesarilk | 8,511
-adaderanasinhalalk | 9,193
+adaderanasinhalalk | 9,194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,737 (100.0%) of 52,745 articles have been extended.
+52,747 (100.0%) of 52,747 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### මෙහෙම ගියොත් KDU බස් එක වගේ වෙයි -  රනිල්
+
+*2024-11-03 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202853) · `si`
+
+Here's a 200-character summary:
+
+
+
+Former President Ranil Wickremesinghe suggests appointing politically experienced individuals as parliamentary representatives. He criticizes current politicians, calling them inexperienced. Wickremesinghe advocates for a new team of experienced leaders to address Sri Lanka's challenges.
+
+🟩
+
+Former President Ranil Wickremesinghe says that persons with political experience should be appointed as parliamentary representatives in the general election.
+
+Addressing a meeting held in Colombo, Ranil Wickremesinghe added that if the country would be crisis.
+
+Q: Former President looks at a movie to Friday?
+
+"දැන් ඉතින් ඕනේ දවස බලන්න පුළුවන් නේ.. No problem. "
+
+"Yes now there's no freedom. So at the time, so when he looked for about two ways. "
+
+Q. Who is 3 idiots?Show this in Sri Lanka, and who shows 3 idiots?Who is 3 idiots?
+
+"දන්නේ නෑ කවුද තේරුවේ කියලා. Normally this is a joke film. Now you think 3 idiots?I don't like that, that's why. "
+
+ප්‍රශ්නය - බැරි වෙලාවත් මේ පාර්ලිමේන්තු මැතිවරණය ඉවරවෙලා පාර්ලිමේන්තුවට පත් වුණ මන්ත්‍රීවරයෙක් කීවොත් එහෙම මම ඉල්ලා අස්වෙලා ඔබතුමාට දෙනවා කියාල. Is you coming anyway?
+
+ප්‍රශ්නය - ඒ කියන්නේ ඔබතුමා පාර්ලිමේන්තු යන එක සියදිවි නාසාගැනීමක් ලෙස ද සලකන්නේ ?
+
+...
+
+[Data](articles/6d627df6.json)
+
+[Extended Data](ext_articles/6d627df6.ext.json)
+
+---
+
+### Today designated as special day for distribution of official ballot papers
+
+*2024-11-03 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103114/today-designated-as-special-day-for-distribution-of-official-ballot-papers) · `en`
+
+The Department of Posts announced that today (03) is designated a special day for distributing official ballot papers for the 2024 General Election.
+
+Deputy Postmaster General Rajitha Ranasinghe stated that ballot paper distribution will take place from 8 a.m. to 6 p.m. today.
+
+“The distribution of official ballot papers for the 2024 general election is underway through the postal system. Today has been designated as a special day for this purpose. From 8 a.m. to 6 p.m., 8,000 distribution staff, in collaboration with 2,090 post offices, are dedicated to delivering official ballot papers only,” he said.
+
+He added that door-to-door ballot distribution will continue until November 7. If anyone has not received their ballot by then, they may visit the post office, verify their identity, and obtain their ballot from the postmaster during office hours.
+
+◼️
+
+[Data](articles/dcdf2fa2.json)
+
+[Extended Data](ext_articles/dcdf2fa2.ext.json)
+
+---
 
 ### EC announces special voting leave for public and private sector employees
 
@@ -404,6 +462,8 @@ A press release said: The certification marks a significant milestone for New An
 
 [Data](articles/32cff20e.json)
 
+[Extended Data](ext_articles/32cff20e.ext.json)
+
 ---
 
 ### Com Bank launches ‘H2H’ services for corporates
@@ -419,6 +479,8 @@ Corporate clients can generate and transfer files in standard formats like XML o
 ...
 
 [Data](articles/cf104c75.json)
+
+[Extended Data](ext_articles/cf104c75.ext.json)
 
 ---
 
@@ -436,6 +498,8 @@ Shea Wickramasinghe, Group Managing Director, emphasized the team’s dedication
 
 [Data](articles/709cbdb1.json)
 
+[Extended Data](ext_articles/709cbdb1.ext.json)
+
 ---
 
 ### Dilmah Conservation Brings Together Seven Experts to Share Knowledge at “Elephant Knowledge Walk” Centre, Udawalawe
@@ -451,6 +515,8 @@ In October 2024, third-year students from the University of Moratuwa’s Departm
 ...
 
 [Data](articles/42765680.json)
+
+[Extended Data](ext_articles/42765680.ext.json)
 
 ---
 
@@ -468,6 +534,8 @@ AIA Sri Lanka last week announced the renewal of its ISO 14064-1:2018 Greenhouse
 
 [Data](articles/1cf54f1e.json)
 
+[Extended Data](ext_articles/1cf54f1e.ext.json)
+
 ---
 
 ### HNB Assurance Celebrates Customer Service Week with a Commitment to Go Above and Beyond
@@ -482,6 +550,8 @@ Throughout the week, the company organized interactive activities, workshops and
 
 [Data](articles/895bd301.json)
 
+[Extended Data](ext_articles/895bd301.ext.json)
+
 ---
 
 ### Cargills Bank empowers Teenagers with the “Smart Teens” Savings Account
@@ -493,6 +563,8 @@ Cargills Bank recently unveiled its “Smart Teens” Savings Account, designed 
 ...
 
 [Data](articles/7fedb60f.json)
+
+[Extended Data](ext_articles/7fedb60f.ext.json)
 
 ---
 
@@ -720,19 +792,25 @@ The Commissioner of Prisons (Commissioner of Prisons) have stated that the forme
 
 ---
 
-### කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් ආරම්භ කළ වර්ජනය අවසන්
+### Strike commenced at Karapitiya Teaching Hospital
 
 *2024-11-02 20:22:08* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ශික්ෂණ-රෝහලේ-වෛද්‍යවරුන්-ආරම්භ-කළ-වර්ජනය-අවසන්/11-412810) · `si`
 
-කරාපිටිිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් ආරම්භ කර වර්ජනය අවසන් කර තිබේ.
+Karapitiya Teaching Hospital strike summary: Doctors struck over threats to colleague. Strike ended after health ministry promised transfer.
 
-වෛද්‍යවරුන් කිහිප දෙනෙකුට තවත් වෛද්‍යවරයෙකු තර්ජනය කිරීම හේතුවෙන් අද (02දා) පෙරවරුවේ මෙම වැඩ වර්ජනය ආරම්භ කිරීමට වෛද්‍යවරුන් කටයුතු කළහ.
+🟩
 
-කෙසේ වෙතත් තර්ජනය කළ වෛද්‍යවරයා වෙනත් රෝහලකට මාරු කර යවන බවට සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා ලබා දුන් පොරොන්දුව මත මෙම වර්ජනය අවසන් කර ඇත.
+The strike has been completed and the doctors of the Boregoda have been completed.
+
+Doctors acted to commence this strike this morning due to the threat to another doctor today (02).
+
+However, the strike was completed on the promise of the Secretary to the Ministry of Health that the threatened doctor was transferred to another hospital.
 
 ◼️
 
 [Data](articles/3d76d8f2.json)
+
+[Extended Data](ext_articles/3d76d8f2.ext.json)
 
 ---
 
@@ -2267,71 +2345,5 @@ The Sri Lankan team and the Nepal team will be competitive and the match will be
 [Data](articles/2ae5f059.json)
 
 [Extended Data](ext_articles/2ae5f059.ext.json)
-
----
-
-### The president who handles another important challenge
-
-*2024-11-02 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197697) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan government faces challenges in economy, travel advisories, and reconciliation. National People's Power wins local election, increasing support. New government maintains economic committee, gaining IMF confidence. Travel restrictions implemented due to terror threats. Government addresses concerns about foreign tourists' illegal activities. President announces provincial council elections to promote diversity and decentralization. Critics argue high costs, but decentralization crucial for addressing ethnic and regional disparities.
-
-🟩
-
-The government is very intelligent in its actions, if it is a matter of dealing with the economy, travel instructions or reconciliation process.
-
-Experiences its resulting benefit. The victory of the Elpitiya Pradeshiya Sabha in the South is a sign that the popular population continues to increase after a month of power.
-
-The increase in the currency expands to the national people's power, not limited to President Anura Kumara Dissanayake.
-
-The difference in the success of the national people's power is much greater than the last time it faced such a local election.
-
-Earlier in 2019, the Elpitiya Pradeshiya Sabha had two seats.
-
-Now it has captured 15 designs. The national people's power, which received only six percent of the vote, now received 48 percent of the votes.
-
-The increase in the victory of the National People's Power in the Local Government election is the result of the polls of voters that they will benefit after the victory of the national People's Power in the presidential election.
-
-...
-
-[Data](articles/8a727ab5.json)
-
-[Extended Data](ext_articles/8a727ab5.ext.json)
-
----
-
-### Kamala Haris's confidence stays in female voters - many women rise up
-
-*2024-11-02 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197701) · `ta`
-
-Kamala Harris's confidence remains strong among female voters. Young women are showing increased enthusiasm for her candidacy. A recent poll shows 55% of women under 30 support Harris. Her campaign focuses on empowering women and addressing gender inequality. However, her support among white women lags behind other demographics. To win, Harris needs to mobilize more female voters and address concerns among white women who supported Trump in 2016.
-
-🟩
-
-அமெரிக்க தேர்தலின் முக்கிய போர்க்களங்களான அரிசோனா மிச்சிகன் போன்ற மாநிலங்களில் இளம்பெண்கள் அதிகாலையிலேயே வாக்களிப்பதற்காக காத்திருக்கின்றனர்.
-
-அவர்கள் தேர்தல் முடிவுகளை தனக்கு சாதகமான மாற்றுவார்கள் என ஜனநாயக கட்சியின் ஜனாதிபதி வேட்பாளர் கமலா ஹரிஸ் எதிர்பார்க்கின்றார்.
-
-In the morning, in the morning of the University of Michigan, in the morning, the University of Michigan University's University of the University of the University of Michigan was lined up early in the morning.
-
-One of them is keen to vote for Kamala Haris, a third year student, Keeliganong.
-
-One of the most important issues of sexism is his friend Lova Nortlinger.
-
-The choice of a woman is that her personal issue is actually that it cannot be someone else's decision.
-
-Lova Nortlinger, a 20 -year -old student, says that students' votes are going to change in the election.
-
-A 24 -year -old Adrenia Beette, who is engaged in the charity of teaching students, accepts this. I think many women are rising.
-
-...
-
-[Data](articles/1e0d2855.json)
-
-[Extended Data](ext_articles/1e0d2855.ext.json)
 
 ---

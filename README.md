@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 02:24:19**
+As of **2024-11-04 02:39:59**
 
 ## Newspaper Stats
 
-*Scraped **52,862** Articles*
+*Scraped **52,863** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,607
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
-tamilmirrorlk | 7,341
+tamilmirrorlk | 7,342
 virakesarilk | 8,544
 adaderanasinhalalk | 9,210
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,862 (100.0%) of 52,862 articles have been extended.
+52,863 (100.0%) of 52,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Exchange betrayal
+
+*2024-11-04 01:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனைக்கு-துரோகம்/175-346511) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former MP Harish accuses rival of conspiracy to deny him election. Candidate promises development projects and university creation if elected.
+
+🟩
+
+Kalmunai, who had been holding a Member of Parliament for a long time, and former parliamentarian HMM. Dr. AM, who is contesting in the New Democratic Front, said that the Haris has launched a massive conspiracy to eliminate his representation by being denied permission to contest the election.. Said Jemil.
+
+He was speaking at the election campaign meeting held in the village of Sainthamaruthu.
+
+Realizing the need for representation of the Kalmunai, I wanted to look at the beauty of the Kalmunai by giving me the opportunity to give me the opportunity through the New Democratic Front, knowing that former MP Harish was betrayed.. However, he said that he was mentally broken and helped me to get on the field. He said that he had signed the election and jumped in the election.
+
+...
+
+[Data](articles/9e9b2078.json)
+
+[Extended Data](ext_articles/9e9b2078.ext.json)
+
+---
 
 ### Reject those who come in new symbols
 
@@ -2313,27 +2339,5 @@ He pointed out the speed with the Sri Lankan economic crisis and said that even 
 [Data](articles/18586feb.json)
 
 [Extended Data](ext_articles/18586feb.ext.json)
-
----
-
-### “If this continues, country will end up like the KDU bus”:  Ex-President Ranil warns
-
-*2024-11-03 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103115/if-this-continues-country-will-end-up-like-the-kdu-bus-ex-president-ranil-warns) · `en`
-
-Former President Ranil Wickremesinghe reiterated that people with political experience should be appointed as parliamentary representatives in the upcoming General Election.
-
-Joining a press conference held in Colombo, Wickremesinghe further stated that if not, the country will go into another crisis situation.
-
-Responding to a question, the former President also spoke on not seeking to enter the parliament in the coming election.
-
-“Now it is enough that I was in the Parliament. I believe we need to form a new group from within our alliance representing the ‘Gas Cylinder’ because these are the only experienced people in the country.”
-
-Today, the government lacks experienced individuals, he claimed. “These people have been working consistently for the past three or four years, helped me turn this around in two years.”
-
-...
-
-[Data](articles/3bf9be68.json)
-
-[Extended Data](ext_articles/3bf9be68.ext.json)
 
 ---

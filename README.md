@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 18:00:58**
+As of **2024-11-03 18:20:05**
 
 ## Newspaper Stats
 
@@ -26,41 +26,61 @@ adaderanasinhalalk | 9,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,814 (100.0%) of 52,816 articles have been extended.
+52,816 (100.0%) of 52,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### மாணவர்களுக்கு ஜனாதிபதியின் விஷேட அறிவிப்பு
+### The President's Special Notice of the President
 
 *2024-11-03 17:47:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-ஜனாதிபதியின்-விஷேட-அறிவிப்பு/175-346502) · `ta`
 
-பாடசாலை மாணவர்களுக்கு பாடசாலை புத்தகங்களை கொள்வனவு செய்வதற்குக் கொடுப்பனவு வழங்கத் திட்டமிட்டுள்ளதாக ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-அத்துடன் அரச உத்தியோகத்தர்களின் சம்பளத்தை அதிகரிக்க தற்போதுள்ள அரசாங்கத்திடம் பணம் இருந்திருந்தால் அதனை ஒரே நேரத்தில் செய்திருக்க முடியும் எனவும் ஜனாதிபதி மேலும் குறிப்பிட்டார். R
+
+
+President Anura Kumara Dissanayake plans to provide free school books to students. He criticizes previous government for prioritizing official salary increases over education support.
+
+🟩
+
+President Anura Kumara Dissanayake has said that he is planning to pay school books to school students.
+
+The President added that if the existing government had money to increase the salary of state officials, it could have been done simultaneously.. Remble
 
 ◼️
 
 [Data](articles/f872ac48.json)
 
+[Extended Data](ext_articles/f872ac48.ext.json)
+
 ---
 
-### திகனையில் வாகனம்: போதகர் சிக்கினார்
+### Vehicle in Digan: The pastor is trapped
 
 *2024-11-03 17:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திகனையில்-வாகனம்-போதகர்-சிக்கினார்/76-346501) · `ta`
 
-தெல்தெனிய, திகன பிரதேசத்தில் பொலிஸாரால் சனிக்கிழமை (02) பிற்பகல் கண்டுபிடிக்கப்பட்ட போலி இலக்கத் தகடுகள் கொண்ட பிராடோ ரக ஜீப், தெல்தெனிய கல்தென்ன போதகருக்கு சொந்தமானது என தெரியவந்ததையடுத்து சந்தேகத்தின் பேரில் அவரை பொலிஸார் கைது செய்துள்ளனர்.
+Pastor accused of theft after police find stolen vehicle in garage. Suspect used fake license plates. Gold jewelry seized during arrest. Further investigation ongoing regarding multiple vehicles owned by pastor.
 
-திகன ஐ.சி.சி வீட்டுத் தொகுதியில் உள்ள ஆளில்லாத வீடொன்றின் கராஜிலேயே ரேஜில் இந்த ஜீப்பை தெல்தெனிய பொலிஸார் கண்டெடுத்துள்ளார்.
+🟩
 
-முன்னாள் இராஜாங்க அமைச்சர்   லொஹான் ரத்வத்தவின் (சில நாட்களுக்கு முன்னர் தன்னைத்தானே சுட்டுக் கொண்ட) பிரத்தியேக செயலாளர் சில வாரங்களுக்கு முன்னர் இந்த ஜீப்பை குறித்த இடத்திற்கு கொண்டு வந்ததாக போதகரின் மகன் ஒருவர் முன்னர் தெரிவித்திருந்தார்.
+Police have arrested him on suspicion that the Brado Jeep Jeep, who had fake digits found by the police in the Teldeniya area on Saturday afternoon (02), belonged to the Teldeniya Caltenena pastor.
 
-கண்டி, பிலபால பிரதேசத்தில் பெண் ஒருவரின் ஜீப்பின் இலக்கத் தகட்டைப் பயன்படுத்தி சந்தேகநபர் மற்றும் அவரது குடும்பத்தினர் இந்த ஜீப்பை ஓட்டிச் சென்றதாகத் தகவல் வெளியாகியுள்ளது.
+Teldeniya police have found this jeep in the rage in the garage of an unmanned house in the Digana ICC home.
 
-...
+A teacher's son had previously stated that the exclusive secretary had brought the jeep to the place a few weeks ago.
+
+It is reported that the suspect and her family drove the jeep using a jeep's digit plate in Bilapala, Kandy.
+
+It is also condemned that the pastor has been wearing about four kilograms of gold and surrounded by public places and has arranged in the past to provide special police protection to his temple in Kaldana.
+
+Further investigations have been launched on the basis of reports that the pastor has a lot of vehicles, including Defender jeeps, have been assembled.
+
+◼️
 
 [Data](articles/0f1a8616.json)
+
+[Extended Data](ext_articles/0f1a8616.ext.json)
 
 ---
 

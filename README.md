@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 11:40:42**
+As of **2024-11-03 12:00:06**
 
 ## Newspaper Stats
 
-*Scraped **52,760** Articles*
+*Scraped **52,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,50 @@ dbsjeyarajcom | 415
 colombotelegraphcom | 538
 bbccomsinhala | 541
 islandlk | 3,155
-economynextcom | 3,199
+economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,910
+adalk | 4,911
 adaderanalk | 6,271
 tamilmirrorlk | 7,325
 virakesarilk | 8,511
-adaderanasinhalalk | 9,195
+adaderanasinhalalk | 9,196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,760 (100.0%) of 52,760 articles have been extended.
+52,763 (100.0%) of 52,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Committee to search for victims in the revenue program
+
+*2024-11-03 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202855) · `si`
+
+Expert committee formed to investigate injustices in Social Welfare Benefit Program implementation. Appointed by Minister Vijitha Herath, tasked with examining excluded local welfare benefits. Committee must report findings within a month.
+
+🟩
+
+The residue has appointed a ten-person expert committee to look into the people who have been subjected to injustice in implementing the Social Welfare Benefit Program.
+
+Secretary to the Ministry of Social Security Ranjith Ariyratne said that the committee had been appointed under the patronage of an Additional Secretary to the Ministry.
+
+The committee has been appointed as the subject of Minister Vijitha Herath.
+
+The committee has been appointed to look into the local welfare benefits that were not included in the social welfare benefit program that was not included in the Social Welfare Benefits Program.
+
+The committee has informed the relevant committee within a month.
+
+◼️
+
+[Data](articles/9f565cf2.json)
+
+[Extended Data](ext_articles/9f565cf2.ext.json)
+
+---
 
 ### Experts’ committee appointed to review Aswesuma beneficiaries’ grievances
 
@@ -193,6 +219,32 @@ The suspect is a 41-year-old resident of the Bollosgama, Kalutara South area.
 [Data](articles/d646a8e8.json)
 
 [Extended Data](ext_articles/d646a8e8.ext.json)
+
+---
+
+### The KD, who was injured in the accident. University student escaped from ward
+
+*2024-11-03 09:37:00* · [`adalk`](https://www.ada.lk/breaking_news/දුන්හිද-අනතුරින්-තුවාල-ලැබූ-කේ-ඩී-යූ--සරසවි-සිසුවෙක්-වාට්ටුවෙන්-පැන-ගිහින්/11-412812) · `si`
+
+University student flees hospital after accident. 24-year-old Kotelawala Defense University student injured in bus crash near Badulla. Multiple injuries reported, including 4 students in ICU. Driver also hospitalized.
+
+🟩
+
+A university student who was receiving treatment at the Galle area in the Mahiyangana Abalogaha Oya 5 in the Mahiyangana area of ​​the Badulla area has fled the Badulla Teaching Hospital yesterday (2)..
+
+A 24-year-old university student who was studying at the Kotelawala Defense University residing in the Jaekzander Mawatha, the police said.
+
+Around 36 university students at the Kotelawala Defense University to visit Badulla and travel in the Ella area on the Ella area on the Uva Provincial Council Training Center (1).The accident occurred when the bus took off the bus on the road in the pillage area on the pillage area.
+
+MGU Madani, who was traveling at the Kotala Kandagamuwa (24) and Kurunegala, was living in the Kotalawala, Thalabudamuwa, Kurunegala.The two died and 40 were injured and rushed to the Badulla Teaching Hospital.
+
+The driver of the bus in the accident is being treated at the Intensive Care Unit of the Badulla Teaching Hospital, Galle today.
+
+...
+
+[Data](articles/ba3fdf56.json)
+
+[Extended Data](ext_articles/ba3fdf56.ext.json)
 
 ---
 
@@ -529,6 +581,26 @@ Accordingly, the general public is kindly requested to take adequate precautions
 [Data](articles/8af95051.json)
 
 [Extended Data](ext_articles/8af95051.ext.json)
+
+---
+
+### Sri Lanka trade deficits widens, services surplus plunges in September
+
+*2024-11-03 06:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-deficits-widens-services-surplus-plunges-in-september-185897/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s trade deficit widened to 634 million US dollars in September 2024 from 429 million dollars a month earlier, while the services surplus plunged to 156 million US dollars from 287 million US dollars in August, official data showed.
+
+Imports remained at 1,645 million US dollars in September 2024, compared to 1,654 million US dollars in August while exports fell from 1,224 million US dollars to 1,011 million, and remittances were marginally down to 555.6 million US dollars, central bank data showed.
+
+Gross services inflows including tourism also fell to 492 million US dollars, from 609 million dollars a month earlier, while services outflows increased to 336 million US dollars from 322 million dollars.
+
+Gross inflows from exports, remittances, and services were 2,059 million dollars in September, exceeding imports by 414milion US dollars. After services outflows the gap fell to 77 million US dollars.
+
+...
+
+[Data](articles/aa91b9b7.json)
+
+[Extended Data](ext_articles/aa91b9b7.ext.json)
 
 ---
 
@@ -2289,85 +2361,5 @@ In the wake of the Easter Sunday suicide bomb attacks launched against a number 
 [Data](articles/3cd64cc3.json)
 
 [Extended Data](ext_articles/3cd64cc3.ext.json)
-
----
-
-### Whose vehicle has the number plates found in the Kottawa?
-
-*2024-11-02 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202828) · `si`
-
-Kottawa Police seize car without plates, linked to former Minister Johnston Fernando. Vehicle identified by license plate KM-5421 undergoing investigation.
-
-🟩
-
-The Kottawa has been discovered in the Kottawa, without number plates.
-
-According to information that the car belonging to former Minister Johnston Fernando is in a car repair factory, police have found the car in checking the location.
-
-According to the interrogation from the owner, he said that the driver of Johnston Fernando was brought to renovation due to an error in the vehicle.
-
-Bringing the vehicle, the owner has told the police that the site has been recorded in a paper column as KM-5421.
-
-Accordingly, the Kottawa Police have taken the car into their seized by the Kottawa Police and is conducting an investigation according to the agent number and chassis number.
-
-◼️
-
-[Data](articles/8b9ec6a0.json)
-
-[Extended Data](ext_articles/8b9ec6a0.ext.json)
-
----
-
-### One arrested with heroin in Kalkissa
-
-*2024-11-02 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/197709) · `ta`
-
-Heroin arrest in Kalkissa: 36-year-old man caught with 60g drugs during police raid. Suspect from Moratuwa handed over for further investigation.
-
-🟩
-
-A suspect with heroin was arrested by police on Friday (01) in the Telawala area belonging to the Kalkissa police division.
-
-He was arrested during a raid carried out on the basis of information received by a team of police officers to Kalkiss.
-
-The suspect was 36 years old from Moratuwa.
-
-Police have seized 60 grams of heroin from the arrested suspect.
-
-Meanwhile, the suspect has been handed over to Kalkiss for further investigations.
-
-◼️
-
-[Data](articles/806da7ca.json)
-
-[Extended Data](ext_articles/806da7ca.ext.json)
-
----
-
-### Two girls killed in bus accident
-
-*2024-11-02 12:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202826) · `si`
-
-Two students killed in bus accident near Badulla. Post-mortem results released. Bodies handed to families. Dash cam footage shows rapid driving before crash.
-
-🟩
-
-The post-mortem examination of the two students who were killed in the bus, Badulla yesterday (2) have been revealed.
-
-One of them is Isuri Umayaka, a resident of Newitigala, Thalabugamuwa, Yalabugamuwa.
-
-The other student who died was NMPt. Hettimulla is a resident of Uynolawolagedara.
-
-Director of the Badulla Teaching Hospital Gayan Cooray said that the remains were handed over to relatives yesterday (1).
-
-Arrangements have been prepared to take the final of the two who died of the deceased.
-
-The dash camera in a car has also been rapidly driven by the bus to carry the students at the Kotelawala Defense University a few minutes ago.
-
-◼️
-
-[Data](articles/2d0fc309.json)
-
-[Extended Data](ext_articles/2d0fc309.ext.json)
 
 ---

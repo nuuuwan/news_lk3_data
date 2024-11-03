@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 06:13:36**
+As of **2024-11-03 05:46:48**
 
 ## Newspaper Stats
 
-*Scraped **52,732** Articles*
+*Scraped **52,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 538
 bbccomsinhala | 540
-islandlk | 3,152
+islandlk | 3,140
 economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
@@ -26,111 +26,11 @@ adaderanasinhalalk | 9,190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,720 (100.0%) of 52,732 articles have been extended.
+52,720 (100.0%) of 52,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
-
-### Man for All Seasons
-
-*2024-11-03 02:34:00* · [`islandlk`](http://island.lk/man-for-all-seasons/) · `en`
-
-My subject this morning is Leelananda De Silva with comments on his book The Long Littleness of Life: a memoir of government, the United Nations, family and friends, published 2016. I read it then but re-read it this week and am more impressed and desirous of sharing my feelings and opinion with others. Hence this article, with of course Leelananda’s permission to go ahead and write but not in praise, he strictly stipulated.
-
-...
-
-[Data](articles/80135609.json)
-
----
-
-### AFTERMATH OF THE 1953 HARTAL
-
-*2024-11-03 02:29:00* · [`islandlk`](http://island.lk/aftermath-of-the-1953-hartal/) · `en`
-
-Motion of No Confidence in Government (Hansard of 1st September 1, 1953)
-
-(Speech made by Dr. NM Perera published in his birth centenary memorial volume)
-
-Dr. Perera:Before I deal with the subject, I want to say a word about the Hon. Prime Minister and his references to my good friend the Leader of the Opposition (Mr. Bandaranaike). My friend the Prime Minister is not here. I hope that he has not had a recurrence of his affliction. Today while he was on the first part of his speech, he reminded me of the father; it was the same technique, the same type of personal attack on the Leader of the Opposition. I remember the last motion of No Confidence that we debated. I think it was moved just before the dissolution of Parliament, and it was one of the last debates which was attended by my good friend, the late Rt. Hon. D.S. Senanayake. He spoke in that debate and it was a tirade against my good friend the Leader of the Opposition.
-
-...
-
-[Data](articles/67c660e6.json)
-
----
-
-### Fieldwork and Travels in Rural Sindh, Pakistan
-
-*2024-11-03 02:09:00* · [`islandlk`](http://island.lk/fieldwork-and-travels-in-rural-sindh-pakistan/) · `en`
-
-After completing my Ford fellowship at Oxford University in 1991, I joined the Indus River Left Bank Outfall Drainage Project in Sindh, Pakistan, as its Senior Socio-Economist and resident team leader. The project, sponsored by the World Bank, Asian Development Bank, and several other international donors, aimed at improving irrigated agriculture in Sindh. The Sindh Development Studies Centre (SDSC) of the University of Sindh in Jamshoro (near Hyderabad) oversaw the socio-economic studies of the project.
-
-I arrived at Karachi Airport in late December. Parvez Pathan, my SDSC counterpart, met me at the airport. We discussed my accommodation and security on our drive to Jamshoro, about 220 kilometres from Karachi. He told me a beautifully furnished bungalow awaited me on the university campus. He opined that I should always have a trustworthy person with me for my security. SDSC had found a reliable young man to be my housekeeper, cook, and personal security guard.
-
-...
-
-[Data](articles/13decbbe.json)
-
----
-
-### SC judge advises new attorneys on professional duties and obligations
-
-*2024-11-03 02:07:00* · [`islandlk`](http://island.lk/sc-judge-advises-new-attorneys-on-professional-duties-and-obligations/) · `en`
-
-New entrants to the Bar, their parents, relations and their well-wishers: Those whose names were just read out by the Registrar of this Court, now stand enrolled as Attorneys at Law of the Supreme Court. We, on behalf of the Judiciary, congratulate each one of you who joined the legal fraternity as new members today.
-
-The presence of the President of the Bar Association of Sri Lanka in the first row in this audience signifies the fact that the Bar Association of Sri Lanka too has joined with us in welcoming each one of you to the legal fraternity of this country. We jointly extend warm wishes to each one of you as you assume the work of your new office from this moment onward.
-
-...
-
-[Data](articles/ec93b537.json)
-
----
-
-### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
-
-*2024-11-03 02:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
-
-Democracy under threat, as Trump sows doubt on election integrity
-
-President Ronald Reagan, “The Great Communicator” was famous for conceptualizing the American Dream, in a loose paraphrasing of the words enshrined in the Statue of Liberty.
-
-Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shining City all my political life….But in my mind, it was a tall, proud city built on rocks, stronger than oceans, wind-swept, God blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and heart to get here. That’s how I saw it, and see it still.
-
-...
-
-[Data](articles/91ee4331.json)
-
----
-
-### Abrogation of the B-C Pact and what followed
-
-*2024-11-03 01:51:00* · [`islandlk`](http://island.lk/abrogation-of-the-b-c-pact-and-what-followed/) · `en`
-
-(Excerpted from Render Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
-
-Yet, as was to happen over and over again in the country’s politics, the vocal minority, in this case the hardliners finally won the day (in getting SWRD to abrogate the B-C Pact). In October 1957 the UNP under the leadership of J R Jayewardene set out on a march from Colombo to Kandy to protest against the pact. On the first day they covered 11 miles amidst some obstruction and skirmishes with government sponsored elements.
-
-...
-
-[Data](articles/b4fce6f5.json)
-
----
-
-### Sagalassos: Meanwhile in the Mountains
-
-*2024-11-03 01:42:00* · [`islandlk`](http://island.lk/sagalassos-meanwhile-in-the-mountains/) · `en`
-
-At the birthday party held in August to celebrate the 100th birthday of Raja de Silva, school friend of my uncle Tissa and former Director General of Archaeology, I was fortunate to meet his daughter Nerina, also an archaeologist. She has been working for some years on a dig in Turkey and, when I expressed interest in that site, she lent me a book produced to accompany an exhibition of artefacts found there.
-
-I did not read all the articles in it, for they were quite technical, including Nerina’s about the adhesives used to piece together broken material, ranging from pottery to statues. But they were fascinating, even though I could only read them cursorily. And they were illuminatingly supported by pictures, the articles being full of them, while the latter part of the book is pictures with detailed accounts of what they portray.
-
-...
-
-[Data](articles/b78734c4.json)
-
----
 
 ### Israel again attacks on Lebanon: 52 killed
 
@@ -155,78 +55,6 @@ Israeli is expanding its attack on the Hizbullah extremist group as internationa
 [Data](articles/2f36795f.json)
 
 [Extended Data](ext_articles/2f36795f.ext.json)
-
----
-
-### New Anthoney’s Group achieves ISO 22000:2018 Certification for feed business
-
-*2024-11-03 00:48:00* · [`islandlk`](http://island.lk/new-anthoneys-group-achieves-iso-220002018-certification-for-feed-business/) · `en`
-
-New Anthoney’s Group last week announced that its feeds division has been awarded the prestigious ISO 22000:2018 certification. This recognition underscores the company’s commitment to providing high-quality, safe, and sustainable feed solutions to meet the growing demands of Sri Lanka’s poultry industry.
-
-A press release said: The certification marks a significant milestone for New Anthoney’s Feeds, ensuring that its products enhance poultry nutrition while promoting eco-friendly farming practices. This achievement follows the group’s strategic acquisition in 2022 of Gold Coin Feed Mills (Lanka) Ltd., a well-respected feed producer, further integrating its vertically aligned poultry operations.
-
-...
-
-[Data](articles/32cff20e.json)
-
----
-
-### Com Bank launches ‘H2H’ services for corporates
-
-*2024-11-03 00:47:00* · [`islandlk`](http://island.lk/com-bank-launches-h2h-services-for-corporates/) · `en`
-
-The Commercial Bank of Ceylon has introduced Host-to-Host (H2H) payment services for corporate clients, expanding its ComBank Digital Enterprise Solutions—a comprehensive suite designed for SMEs and corporates.
-
-The H2H service provides an automated and secure connection directly with corporate clients’ Enterprise Resource Planning (ERP) systems, facilitating seamless electronic data transfers between banks and businesses. This innovative solution eliminates manual processes in payment transfers and reconciliations, enhancing transaction management efficiency.
-
-Corporate clients can generate and transfer files in standard formats like XML or CSV through a secure channel linked to the Bank’s H2H platform. It supports various ERP systems, including SAP and Microsoft Dynamics.
-
-...
-
-[Data](articles/cf104c75.json)
-
----
-
-### Dilmah Conservation Brings Together Seven Experts to Share Knowledge at “Elephant Knowledge Walk” Centre, Udawalawe
-
-*2024-11-03 00:39:00* · [`islandlk`](http://island.lk/dilmah-conservation-brings-together-seven-experts-to-share-knowledge-at-elephant-knowledge-walk-centre-udawalawe/) · `en`
-
-UoM’s Town and Country Planning Students Gain Insight into Human-Elephant Conflict
-
-In October 2024, third-year students from the University of Moratuwa’s Department of Town and Country Planning embarked on an immersive learning experience at the Elephant Knowledge Walk Centre in Udawalawe, hosted by Dilmah Conservation, a Dilmah news release said.
-
-“This unique session aimed to broaden students’ perspectives on human-elephant conflict (HEC), elephant conservation, and land-use strategies, by bringing together seven leading experts who shared deep insights into innovative approaches for tackling a persistent challenge that has impacted Sri Lanka for over 70 years,” it said.
-
-...
-
-[Data](articles/42765680.json)
-
----
-
-### HNB Assurance Celebrates Customer Service Week with a Commitment to Go Above and Beyond
-
-*2024-11-03 00:35:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-customer-service-week-with-a-commitment-to-go-above-and-beyond/) · `en`
-
-HNB Assurance celebrated Customer Service Week 2024 with a series of events that spanned from October 7th to 11th, celebrating the dedication and service of its customer-facing teams. This year’s theme, Above and Beyond, perfectly captured the essence of HNB Assurance’s commitment to exceeding customer expectations and reinforcing its customer-centric approach.
-
-Throughout the week, the company organized interactive activities, workshops and appreciation events, all aimed at recognizing and empowering those who are at the frontlines of servicing policyholders. The celebrations highlighted the pivotal role that the customer experience plays in delivering on HNB Assurance’s promise of protection and care to its valued customers.
-
-...
-
-[Data](articles/895bd301.json)
-
----
-
-### Cargills Bank empowers Teenagers with the “Smart Teens” Savings Account
-
-*2024-11-03 00:34:00* · [`islandlk`](http://island.lk/cargills-bank-empowers-teenagers-with-the-smart-teens-savings-account/) · `en`
-
-Cargills Bank recently unveiled its “Smart Teens” Savings Account, designed exclusively for teenagers between 13 and 17 years of age. This innovative account aims to promote financial literacy, savings habits and financial responsibility among teenagers, offering them a structured environment in which they can cultivate responsible cash management habits. “Smart Teens” also gives teenagers an opportunity to start their financial journeys early, while making them equipped with the tools needed for a secure financial future. Featuring special, attractive interest rates and exclusive benefits, “Smart Teens” serves as a stepping stone for teenagers, encouraging them to take ownership of their finances.
-
-...
-
-[Data](articles/7fedb60f.json)
 
 ---
 
@@ -2339,5 +2167,271 @@ Our team should capture six seats in the Jaffna Election District led by Gajendr
 [Data](articles/8db34d0e.json)
 
 [Extended Data](ext_articles/8db34d0e.ext.json)
+
+---
+
+### More than 100 mm
+
+*2024-11-02 07:33:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-மில்லி-மீற்றருக்கும்-அதிகளவான-பலத்த-மழை/175-346434) · `ta`
+
+Heavy rainfall warning: Over 100mm expected in central, southern provinces. Lightning risk across the country.
+
+🟩
+
+The Department of Meteorology has predicted more than 100 millimeters of heavy rainfall in different parts of the country today.
+
+Accordingly, heavy rainfall is expected in some parts of the Central, Sabaragamuwa, Uva and North Central Provinces.
+
+Meanwhile, the Department of Meteorology has predicted that the impact of lightning has been warned of many parts of the country.. (A)
+
+◼️
+
+[Data](articles/9bd2cd6f.json)
+
+[Extended Data](ext_articles/9bd2cd6f.ext.json)
+
+---
+
+### Election Complaint: 191 arrested
+
+*2024-11-02 07:20:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முறைப்பாடு-191-பேர்-கைது/175-346433) · `ta`
+
+Election complaint update: 191 arrests, 6 high-ranking officers included. 45 vehicles seized. 168 total complaints filed, including 30 criminal and 138 election law violations.
+
+🟩
+
+Nihal Talduwa, a police media spokesman and Deputy Inspector General of Police, stated that six of them include them.
+
+In addition, the number of vehicles seized by the police for the parliamentary election -related complaint is 45.
+
+Meanwhile, 168 complaints have been received by the police regarding the election. This includes 30 criminal complaints and 138 complaints over the violation of election laws (An)
+
+◼️
+
+[Data](articles/8be38775.json)
+
+[Extended Data](ext_articles/8be38775.ext.json)
+
+---
+
+### The risk of transmitted measles
+
+*2024-11-02 07:13:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-தட்டம்மை-பரவும்-அபாயம்/175-346432) · `ta`
+
+Measles outbreak: Risk transmission, vaccination campaign, and immunity week announced. Contact health department for information.
+
+🟩
+
+The Division has been opened due to the risk of re -eradicating measles from the country, the Ministry of Health said.
+
+From that section, people can hear information about measles, rubella and other infections.
+
+Contact 011744 65 13, 011768 2722, 011768 28 72 or 0117682662 and can be heard in this regard.
+
+Meanwhile, the Department of Health has pointed out that 18 people are at risk of spreading her by a patient.
+
+The Ministry of Health has advised that those who do not receive the measles vaccine in both cases should be vaccinated immediately.
+
+Meanwhile, the Ministry of Health has also decided to implement a special measles/rubella immunity week from the 4th to the 9th of this month.
+
+◼️
+
+[Data](articles/0ddb76d3.json)
+
+[Extended Data](ext_articles/0ddb76d3.ext.json)
+
+---
+
+### Doctors at Karapitiya Hospital on symbol strike
+
+*2024-11-02 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202819) · `si`
+
+Doctors at Karapitiya Hospital launch 24-hour strike due to threats from hospital management. The Government Medical Officers' Association claims this action affects patient care.
+
+🟩
+
+The Government Medical Officers' Association (GMOA) says doctors have launched a 24-hour code strike in Galle Teaching Hospital.
+
+The Treasurer's Treasurer Medical Treasury Medical Treasurer Way Bandara Warakaragoda said that the program had taken over the threats to several doctors in the Karapitiya Teaching Hospital.
+
+◼️
+
+[Data](articles/bc3c06be.json)
+
+[Extended Data](ext_articles/bc3c06be.ext.json)
+
+---
+
+### ஜோன்ஸ்டனின் மற்றுமொரு கார் மீட்பு
+
+*2024-11-02 07:04:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜோன்ஸ்டனின்-மற்றுமொரு-கார்-மீட்பு/175-346431) · `ta`
+
+Ford car linked to ex-minister found in garage; stolen February; no registration plates found during investigation.
+
+🟩
+
+A Senior Police Officer of the Nugegoda Division said that a Ford car, which is suspected of belonging to former minister Johnston Fernando, has been discovered from a Garaj in the Kottawa - Pannipitiya Liyanagoda area.
+
+இந்த கார் கடந்த பெப்ரவரி மாதம் முன்னாள் அமைச்சரின் சாரதி ஒருவரினால் கேரேஜுக்கு கொண்டு செல்லப்பட்டுள்ளதாக, ஆரம்பகட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+அப்போது அங்கு பதிவு எண் பலகைகள் இல்லை என, கேரேஜ் உரிமையாளரிடம் நடத்திய விசாரணையில் தெரியவந்துள்ளது.(AN)
+
+◼️
+
+[Data](articles/013b1ba3.json)
+
+[Extended Data](ext_articles/013b1ba3.ext.json)
+
+---
+
+### New plan to solve foreign passport issue
+
+*2024-11-02 06:30:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டு-கடவுச்சீட்டு-பிரச்சினையை-தீர்க்க-புதிய-திட்டம்/175-346430) · `ta`
+
+Department of Immigration receives 250,000 passports. Currently issuing 1,600 per day. To increase from Dec 1st based on demand.
+
+🟩
+
+The Department of Immigration and Emigration said it would receive a further 100,000 passports at the end of November and 150,000 passports in December.
+
+According to a contract with the foreign company, which has been given a contract for the purchase of foreign passports, the Immigration Department has so far received 50,000 empty passports under the 'B' section.
+
+Meanwhile, the process of purchasing another block empty passports has begun, the department said.
+
+Currently, the Department of Immigration and Emigration is being given about 1,600 passports to the applicants.
+
+From the beginning of December, the amount will be gradually increased and the applicants can change the passport system according to the size of the passports, the Department said.
+
+◼️
+
+[Data](articles/335cf695.json)
+
+[Extended Data](ext_articles/335cf695.ext.json)
+
+---
+
+### කාලගුණය ගැන අවවාදාත්මක නිවේදනයක්
+
+*2024-11-02 06:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202818) · `si`
+
+Meteorological Department warns of thunderstorms and heavy rain in Western, Southern, Central, Sabaragamuwa, Uva, and North Central provinces. Strong winds expected. Public advised to take precautions against lightning and property damage.
+
+🟩
+
+The Meteorological Department urges the public to take necessary steps to minimize the damages caused by lightning today (2) in the evening.
+
+Showers or thundershowers during the evening or night in many areas.
+
+බස්නාහිර, දකුණ, වයඹ සහ උතුරු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+MM on the Central, Sabaragamuwa, Uva and North Central Province. Heavy rains can occur at more than 100, the Met Department said.
+
+The department also requests to take necessary steps to minimize the damages caused by sustainable strong winds.
+
+◼️
+
+[Data](articles/4dcedc56.json)
+
+[Extended Data](ext_articles/4dcedc56.ext.json)
+
+---
+
+### Sri Lanka’s October tourist arrivals up despite US-led travel advisories
+
+*2024-11-02 06:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-october-tourist-arrivals-up-despite-us-led-travel-advisories-185881/) · `en`
+
+ECONOMYNEXT – Tourist arrivals to Sri Lanka has remained higher in the last eight days of October compared to last year, the official government data showed, despite the U.S. Embassy in Colombo and six other foreign missions issued travel advisories over a potential attack on a tourism hot spot in the island nation’s Eastern coast of Arugam Bay.
+
+Foreign visitors to the country recorded a 35 percent gain in the last eight days of October this year to 37,287, compared to 27,649 in the same time period in 2023, the state-run Tourism Research and Statistics website showed.
+
+On October 23, the United States embassy asked its nationals to avoid Arugam Bay, a popular tourist destination, saying there is credible information of an attack. Later, Australia, Israel, Russia, New Zealand, Canada, and the United Kingdom followed the suit.
+
+...
+
+[Data](articles/e93ae72d.json)
+
+[Extended Data](ext_articles/e93ae72d.ext.json)
+
+---
+
+### Vietnamese women living in Sri Lanka explore ways to bring two nations closer
+
+*2024-11-02 05:23:00* · [`economynextcom`](https://economynext.com/vietnamese-women-living-in-sri-lanka-explore-ways-to-bring-two-nations-closer-185868/) · `en`
+
+ECONOMYNEXT – Vietnamese women in Sri Lanka have met newly appointed envoy Trinh Thi Tam at an interactive session to mark Viet Nam Women’s Day 2024, a statement said.
+
+The Vietnamese community in Sri Lanka numbering about 200, is made up of Buddhist monks and nuns, ladies married to Sri Lankan men and staff of foreign projects.
+
+“This program allowed the female Vietnamese community in Sri Lanka to explore ways to bring Viet Nam closer to Sri Lanka through people-to-people exchanges and activities,” the statement said.
+
+Embassy of Viet Nam in Sri Lanka hosted an interactive session for Vietnamese women living in Sri Lanka, including those married to Sri Lankans and nuns studying in Sri Lanka.
+
+Ambassador Trinh Thi Tam highlighted the qualities of Vietnamese women, such as their resourcefulness, endurance and dedication to family which they preserve and promote whether they live in Viet Nam or abroad.
+
+...
+
+[Data](articles/4b92e985.json)
+
+[Extended Data](ext_articles/4b92e985.ext.json)
+
+---
+
+### Ranil urges public sector to hold votes unless NPP commits to wage hike
+
+*2024-11-02 04:35:14* · [`dailyftlk`](https://www.ft.lk/news/Ranil-urges-public-sector-to-hold-votes-unless-NPP-commits-to-wage-hike/56-768745) · `en`
+
+Accuses NPP of reneging on its campaign promise to raise public sector wages
+
+Claims party is dismissing Udaya R. Seneviratne report citing laws in it
+
+Reiterates his Govt. allocated funds for wage increase despite current Govt. insisting he has not
+
+Former President Ranil Wickremesinghe has called on State sector employees to withhold their support for the ruling National People’s Power (NPP) party unless it commits to implementing the wage increase recommended by the Udaya R. Seneviratne report.
+
+Speaking at a National Democratic Front (NDF) gathering in Kandy, Wickremesinghe accused the NPP of reneging on its campaign promise to raise public sector wages. He claimed the party was dismissing the report’s proposal for a Rs. 20,000 wage increase in two stages by pointing out flaws in the report.
+
+...
+
+[Data](articles/9941de03.json)
+
+[Extended Data](ext_articles/9941de03.ext.json)
+
+---
+
+### AKD following Ranil’s footsteps on tax policies – Marikkar
+
+*2024-11-02 04:34:33* · [`dailyftlk`](https://www.ft.lk/news/AKD-following-Ranil-s-footsteps-on-tax-policies-Marikkar/56-768744) · `en`
+
+Slams Govt. for allegedly failing to fulfil its campaign promises to provide economic relief to citizens
+
+Claims it indicates Govt. lacks necessary knowledge for financial management, revenue generation, and tax reduction
+
+Observes unions leaders who once advocated for citizens have now fallen silent
+
+Samagi Jana Balawegaya (SJB) Colombo district candidate S.M Marikkar has accused the current Government of following the same high-tax policies implemented by former President Ranil Wickremesinghe and failing to fulfil its campaign promises to provide economic relief to the people.
+
+Addressing a press conference in Colombo Marikkar slammed the Government for failing to reduce the prices of Octane 92 petrol and Auto Diesel which are essential for the common people.
+
+...
+
+[Data](articles/2b16dc13.json)
+
+[Extended Data](ext_articles/2b16dc13.ext.json)
+
+---
+
+### Gangaramaya Temple announces Venerable Galboda Siri Gnanissara Memorial Scholarship Trust Fund
+
+*2024-11-02 04:33:46* · [`dailyftlk`](https://www.ft.lk/news/Gangaramaya-Temple-announces-Venerable-Galboda-Siri-Gnanissara-Memorial-Scholarship-Trust-Fund/56-768743) · `en`
+
+A series of events will be held by the Gangaramaya Temple to honour the legacy of the late Venerable Galboda Gnanissara Thero, one of Sri Lanka’s most revered Buddhist leaders and visionaries. Known affectionately as “Podi Hamuduruvo,” Venerable Gnanissara Thero devoted his life to both the spiritual upliftment of the Gangaramaya Temple and the educational and vocational empowerment of countless young students and monks across Sri Lanka.
+
+To commemorate his tremendous service to the Buddha Sasana and the nation, a three-month dhamma bana sermon will be held, followed by a daana offering to the Maha Sangha. Following these events, the Venerable Galboda Siri Gnanissara Memorial Scholarship Trust Fund will be officially launched. This fund aims to carry forward his vision by providing educational opportunities to underprivileged students and fostering the development of future leaders committed to social responsibility and sustainable development.
+
+...
+
+[Data](articles/705628e6.json)
+
+[Extended Data](ext_articles/705628e6.ext.json)
 
 ---

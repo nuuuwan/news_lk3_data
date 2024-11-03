@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 01:24:07**
+As of **2024-11-04 01:58:48**
 
 ## Newspaper Stats
 
-*Scraped **52,856** Articles*
+*Scraped **52,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,39 @@ colombotelegraphcom | 538
 bbccomsinhala | 541
 islandlk | 3,157
 economynextcom | 3,203
-dailyftlk | 3,605
+dailyftlk | 3,607
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
 tamilmirrorlk | 7,340
-virakesarilk | 8,541
+virakesarilk | 8,544
 adaderanasinhalalk | 9,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,856 (100.0%) of 52,856 articles have been extended.
+52,860 (100.0%) of 52,861 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Why Sri Lanka needs stability, not diplomatic disruption, in London
+
+*2024-11-04 01:04:43* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-stability-not-diplomatic-disruption-in-London/4-768764) · `en`
+
+London remains a critical hub for the financial and political community, and our High Commissioner—whose qualifications and experience are well suited to such a complex diplomatic post—has already been instrumental in strengthening Sri Lanka’s connections in this influential market. Removing him now would be short-sighted, not only disrupting essential progress but signalling uncertainty and inconsistency in our diplomatic priorities
+
+As a Sri Lankan business leader with years invested in establishing our company’s presence in the UK, I’ve witnessed firsthand the critical role a steady diplomatic presence plays in navigating Sri Lanka’s international standing—especially in a place as significant as London. Recent news of the potential removal of the Sri Lankan High Commissioner to the UK after only one year is deeply concerning. This move risks undermining the very stability and reputation our country has struggled to regain following years of economic and political upheaval.
+
+...
+
+[Data](articles/f89a9148.json)
+
+[Extended Data](ext_articles/f89a9148.ext.json)
+
+---
 
 ### We will win by reading the books
 
@@ -55,6 +71,22 @@ The college's library in charge of the college's Library, A.L.. Naleem was provi
 [Data](articles/bd028a74.json)
 
 [Extended Data](ext_articles/bd028a74.ext.json)
+
+---
+
+### Addressing the silent crisis: Suicide prevention among students in Sri Lanka
+
+*2024-11-04 00:57:01* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-the-silent-crisis-Suicide-prevention-among-students-in-Sri-Lanka/4-768763) · `en`
+
+To curb the rise in student suicides, psychological support in schools must be prioritised
+
+In Sri Lanka, mental health continues to be stigmatised, especially in educational settings. Schools are often ill-equipped to address mental health concerns, and the discussion around these issues is minimal or non-existent. Many students are reluctant to express their struggles due to fear of being labelled as weak or problematic. In turn, their distress often remains hidden until it escalates to dangerous levels
+
+...
+
+[Data](articles/3bd7c9a1.json)
+
+[Extended Data](ext_articles/3bd7c9a1.ext.json)
 
 ---
 
@@ -92,9 +124,7 @@ They said that they are now resettled up to 500 families, but they are not provi
 
 *2024-11-04 00:49:31* · [`dailyftlk`](https://www.ft.lk/columns/Lending-according-to-Manoj-Akmeemana-A-textbook-for-all/4-768761) · `en`
 
-Veteran banker, Manoj Akmeemana, has chosen to share his decades long experience in banking and lending with bankers, students of banking and the public in the form of a comprehensive text under the title ‘Lending: Concepts, Theory, and Practice’. The book has been produced by using modern technology of producing such texts – two colours, graphs, flowcharts, and tables to make it user friendly. Insight capsules – box articles in other cases – have been added to elaborate on specific topics.
-
-The thread-bound book in hard cover will ensure that the readers could use it for many years without running into the problem of offensive disentangled dog-eared pages which readers encounter in paperback books. But it has come in a hefty price of Rs. 4,500 (equivalent to about $ 15) which may make it only a reference book in libraries and not by many ordinary individual users.
+It has been observed by many veteran bankers that there has been a gap in the knowledge and understanding of the dynamic side of lending by both bankers and those who sit opposite to them, borrowers. The book is an attempt at eliminating this gap. Hence, according to the author, it will help a wide gamut of the people in the chain to understand the first principles of lending. They include young and veteran lenders, banking and financing professionals, members of boards, academics, and students of business and commerce, and borrowers, existing or prospective and so on. Hence, Lending should naturally be everyone’s reference book
 
 ...
 
@@ -178,6 +208,74 @@ Accordingly, President Anura Kumara Dissanayake summoned massive rice manufactur
 
 ---
 
+### Tamil National People's Front campaign in Vavuniya
+
+*2024-11-03 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197824) · `ta`
+
+Tamil National People's Front campaign summary: TNA propaganda meeting in Vavuniya, led by Kayendrakumar Ponnambalam, attended by many despite rain.
+
+🟩
+
+The great propaganda meeting of the Tamil National People's Front (TNA) was held on Sunday evening at the Kalamazul Playground located in Kurumankadu, Vavuniya.
+
+Party leader Kayendrakumar Ponnambalam was the chief guest at the meeting chaired by S. Thavapalan, the primary candidate for the Vanni district of the Front.
+
+It is noteworthy that the meeting was attended by more civilians and supporters regardless of the rain.
+
+◼️
+
+[Data](articles/6cae1c01.json)
+
+[Extended Data](ext_articles/6cae1c01.ext.json)
+
+---
+
+### We condemn Prime Minister Harini's action -Nimalka Fernando
+
+*2024-11-03 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197813) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Criticism of PM Harini's attack on Ranil Wickremesinghe. Nimalka Fernando accuses PM of lacking state admin experience. Wickremesinghe denies Cabinet-approved salary hike claims. PM criticized for political inexperience and arrogance.
+
+🟩
+
+Prime Minister Harini, who has no experience regarding the state administration, has strongly condemned the criticism of Senior Political Leader Ranil Wickremesinghe without understanding the issue.
+
+Nimalka Fernando, a National List member of the New Democratic Front, said that if Ranil Wickremesinghe could not learn about the state administration process, the President should learn and respond.
+
+He was speaking at a press conference held at the New Democratic Front Elections Office in Colombo.
+
+After winning the presidential election, the former president had taken steps to submit a budget for next year and thereby provide a salary increase for public servants.
+
+The Cabinet approval was obtained for that. It is the responsibility of the Secretary of the Ministry responsible for the implementation of the Cabinet allowed. That is the state administrative practice.
+
+...
+
+[Data](articles/33d36ce0.json)
+
+[Extended Data](ext_articles/33d36ce0.ext.json)
+
+---
+
+### தொழிற்சங்கங்களை இல்லாமல் செய்யும் அரசாங்கத்தின் திட்டத்துக்கு எதிராக தொழிற்சங்கங்கள் அணி திரளவேண்டும் - நிமல்கா பெர்னாண்டோ
+
+*2024-11-03 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197810) · `ta`
+
+தொழிற்சங்கங்களை இல்லாதொழித்து ஏகாதிபத்திய ஆட்சியே முன்னெடுப்பதே தேசிய மக்கள் சக்தியின் திட்டம். அதுவே தற்போது  லக்ஷ்மன் நிபுணாரச்சியின் வாயால் வெளி வந்திருக்கிறது என புதிய ஜனநாயக முன்னணியின் தேசியப்பட்டியல் உறுப்பினர் நிமல்கா பெர்ணான்டோ தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணி தேர்தல் வழிநடத்தல் காரியாலயத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+தெற்காசியாவிலேயே சிறந்த தொழில் சட்டம் இருப்பது இலங்கையிலாகும். என்றாலும் அது முழுமையாக நடைமுறைப்படுத்தப்படுவதில்லை. தொழிற்சங்க தலைவர்களின் போராட்டம் காரணமாகவே எமது வேலை நேரம் 8 மணி நேரமாக அனுமதிக்கப்பட்டது. ஆனால் தொழிற்சங்கங்களை இரத்துச் செய்வதாக தேசிய மக்கள் சக்தியின் கொழும்பு மாவட்ட வேட்பாளர் லக்ஷ்மன் நிபுணாரச்சி தெரிவித்திருந்த கருத்து தொடர்பில் பலரும் அதிர்ச்சிக்குள்ளாகி இருக்கின்றனர்.
+
+...
+
+[Data](articles/0f268dd9.json)
+
+---
+
 ### Join the Surgeon Power from Politics - Dilith
 
 *2024-11-03 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202870) · `si`
@@ -223,6 +321,34 @@ Meanwhile, the highest number of tourist arrivals was recorded during the fourth
 [Data](articles/e9fdb534.json)
 
 [Extended Data](ext_articles/e9fdb534.ext.json)
+
+---
+
+### 1,700 rupees salary
+
+*2024-11-03 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197816) · `ta`
+
+President promises fair salary increase for plantation workers, targets 1700 rupees. Also vows to boost government employee salaries in next budget and improve Nuwara Eliya tourism.
+
+🟩
+
+President Anura Kumara Dissanayake has promised to take steps to get a fair salary increase for plantation workers.
+
+He made this promise while addressing the election campaign meeting in Nuwara Eliya on Sunday (03).
+
+'The plantation workers cheated during the presidential election. The former president said that plantation workers will be paid a salary of Rs 1,700 to the May Day meeting.. But still not paid that pay hike. He has gone home.
+
+We will definitely take steps to get the plantation workers a reasonable salary hike. Similarly, government employees will be paid a salary increase in the next budget.
+
+People cannot rely on government relief. We will create an economic situation so that people will stand up.
+
+Those who frequented the people of Nuwara Eliya during the presidential election are now paralyzed in Colombo. That is their politics. But we will stand on the field for the people forever. We will carry out the politics of the people
+
+...
+
+[Data](articles/3a524c94.json)
+
+[Extended Data](ext_articles/3a524c94.ext.json)
 
 ---
 
@@ -541,34 +667,6 @@ In some areas, the retail rice businessmen are releasing a kilo of nadu rice at 
 [Data](articles/e212e49e.json)
 
 [Extended Data](ext_articles/e212e49e.ext.json)
-
----
-
-### 1,700 rupees salary
-
-*2024-11-03 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197816) · `ta`
-
-President promises fair salary increase for plantation workers, targets 1700 rupees. Also vows to boost government employee salaries in next budget and improve Nuwara Eliya tourism.
-
-🟩
-
-President Anura Kumara Dissanayake has promised to take steps to get a fair salary increase for plantation workers.
-
-He made this promise while addressing the election campaign meeting in Nuwara Eliya on Sunday (03).
-
-'The plantation workers cheated during the presidential election. The former president said that plantation workers will be paid a salary of Rs 1,700 to the May Day meeting.. But still not paid that pay hike. He has gone home.
-
-We will definitely take steps to get the plantation workers a reasonable salary hike. Similarly, government employees will be paid a salary increase in the next budget.
-
-People cannot rely on government relief. We will create an economic situation so that people will stand up.
-
-Those who frequented the people of Nuwara Eliya during the presidential election are now paralyzed in Colombo. That is their politics. But we will stand on the field for the people forever. We will carry out the politics of the people
-
-...
-
-[Data](articles/3a524c94.json)
-
-[Extended Data](ext_articles/3a524c94.ext.json)
 
 ---
 
@@ -2227,137 +2325,5 @@ The military top officials said in detail the aid and services related to the mi
 [Data](articles/1130c63d.json)
 
 [Extended Data](ext_articles/1130c63d.ext.json)
-
----
-
-### Strong security in Pasikuda
-
-*2024-11-03 09:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாசிக்குடாவில்-பலத்த-பாதுகாப்பு/175-346473) · `ta`
-
-Pasikuda Beach, Sri Lanka: Strong security measures implemented due to threats. 24/7 policing by local and coastal tourist police. Attracts both domestic and international tourists year-round.
-
-🟩
-
-Strong security measures have been taken to Pasikuda Beach, one of Sri Lanka's most famous tourist destinations following the threat to the Arughambe Tourism site.
-
-Pasikuda Beach, belonging to the Calcutta Police Division of the Batticaloa District, is considered one of the world's best tourist destinations
-
-Domestic and foreign tourists visit the Basakuda beach daily
-
-Pasikuda beach is full of foreign domestic tourists during various festivals, including holidays and full -blown.
-
-The government has taken strong security measures to entertain the sea and spend time with tourists.
-
-A variety of security measures have been taken, including the police and the coastal tourist police at the Pasikuda Beach. Police said security measures are being taken to take place 24 hours a day.
-
-◼️
-
-[Data](articles/9593d5c8.json)
-
-[Extended Data](ext_articles/9593d5c8.ext.json)
-
----
-
-### The government has lost Rs 10 billion as a vehicle tax bag
-
-*2024-11-03 09:46:39* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-වාහන-බදු--මගඩියකින්-රජයට-රුපියල්-කෝටි-දහයක්-අහිමිවෙලා/11-412813) · `si`
-
-Government loses Rs 10 billion due to incorrect vehicle tax payments. Audit reveals 326 vehicles released to market resulted in 103 million rupees in unpaid taxes. Customs requests AG's opinion on the matter.
-
-🟩
-
-The National Audit office reveals that 326 vehicles released to the local market with the recommendation of the Institute of Industry Ordinance to the local market have lost Rs 103,803,200.
-
-When the vehicle devices assembled by the bonded vehicles, the tariffs were unleashed and paid to the goods they should not be paid, but not less than 30 percent, but production of the 70% of the Rs.The Audit office points out that the government has lost this income by providing two 326 companies that have been issued to the local market.
-
-A total of Rs.
-
-Customs have asked the audit to ask the Attorney General's advice on this matter.
-
-◼️
-
-[Data](articles/501945a3.json)
-
-[Extended Data](ext_articles/501945a3.ext.json)
-
----
-
-### Murder in Kalutara
-
-*2024-11-03 09:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202854) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Kalutara South police attacked with sharp object near Cricket Vidyalaya construction site. Victim's sister reported he visited chicken shop. Police investigated suspect's home. Arrested 41-year-old from Bollosgama with weapon and bicycle used in murder.
-
-🟩
-
-The Kalutara South police division has been assaulted by a sharp object near the Construction of the Cricket Vidyalaya.
-
-The deceased's sister has provided information on the police that he had taken a chicken shop while the deceased was in the area.
-
-Accordingly, the police had taken steps to check the man's house.
-
-The suspect was arrested by the police with the sharp weapon and the bicycling used by the human murder.
-
-The suspect is a 41-year-old resident of the Bollosgama, Kalutara South area.
-
-◼️
-
-[Data](articles/d646a8e8.json)
-
-[Extended Data](ext_articles/d646a8e8.ext.json)
-
----
-
-### The KD, who was injured in the accident. University student escaped from ward
-
-*2024-11-03 09:37:00* · [`adalk`](https://www.ada.lk/breaking_news/දුන්හිද-අනතුරින්-තුවාල-ලැබූ-කේ-ඩී-යූ--සරසවි-සිසුවෙක්-වාට්ටුවෙන්-පැන-ගිහින්/11-412812) · `si`
-
-University student flees hospital after accident. 24-year-old Kotelawala Defense University student injured in bus crash near Badulla. Multiple injuries reported, including 4 students in ICU. Driver also hospitalized.
-
-🟩
-
-A university student who was receiving treatment at the Galle area in the Mahiyangana Abalogaha Oya 5 in the Mahiyangana area of ​​the Badulla area has fled the Badulla Teaching Hospital yesterday (2)..
-
-A 24-year-old university student who was studying at the Kotelawala Defense University residing in the Jaekzander Mawatha, the police said.
-
-Around 36 university students at the Kotelawala Defense University to visit Badulla and travel in the Ella area on the Ella area on the Uva Provincial Council Training Center (1).The accident occurred when the bus took off the bus on the road in the pillage area on the pillage area.
-
-MGU Madani, who was traveling at the Kotala Kandagamuwa (24) and Kurunegala, was living in the Kotalawala, Thalabudamuwa, Kurunegala.The two died and 40 were injured and rushed to the Badulla Teaching Hospital.
-
-The driver of the bus in the accident is being treated at the Intensive Care Unit of the Badulla Teaching Hospital, Galle today.
-
-...
-
-[Data](articles/ba3fdf56.json)
-
-[Extended Data](ext_articles/ba3fdf56.ext.json)
-
----
-
-### Supporter attack on candidate
-
-*2024-11-03 09:31:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-மீது-ஆதரவாளர்-தாக்குதல்/175-346472) · `ta`
-
-Candidate supporter hospitalized after attacking rival during election campaign visit. Police investigating incident where attacker fled scene.
-
-🟩
-
-Police said that one of the supporters of the candidate who went to the home of another candidate for support for a leading party candidate, was admitted to the hospital after the attack on the candidate and the attacker escaped in Eravur yesterday afternoon.
-
-The party has gone to the party's residence to seek election support. The vote of the time has become a melee.
-
-In this case, a supporter attacked the candidate and was admitted to the hospital with injuries.
-
-Initial investigations by the police revealed that the attacker had fled the scene.
-
-◼️
-
-[Data](articles/945510ae.json)
-
-[Extended Data](ext_articles/945510ae.ext.json)
 
 ---

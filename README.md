@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 16:24:23**
+As of **2024-11-03 16:39:44**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,800 (100.0%) of 52,805 articles have been extended.
+52,805 (100.0%) of 52,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### புலனாய்வுத் தவறா?
+### Is the intelligence wrong?
 
 *2024-11-03 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197782) · `ta`
 
-“இலங்கை பாதுகாப்பானதாக இருக்க வேண்டும் என்பதில் அமெரிக்காவுக்கு அதிக அக்கறை இருக்கிறது. ஏனென்றால் திறந்த வெளிப்படையான இந்தோ - பசுபிக் என்ற அமெரிக்காவின் மூலோபாயத்தில் முக்கியமான பங்காளியாக இலங்கையை வைத்திருக்க விரும்புகிறது”
+Here's a 200-character summary:
+
+
+
+US prioritizes safety in Sri Lanka due to strategic importance in Indo-Pacific region. Transparency and partnership sought with Sri Lanka.
+
+🟩
+
+“The United States is more concerned about being safe in Sri Lanka. This is because open transparent Indo -Pacific wants Sri Lanka as an important partner in the strategy of the United States. ”
 
 ◼️
 
 [Data](articles/8ad27d47.json)
+
+[Extended Data](ext_articles/8ad27d47.ext.json)
 
 ---
 
@@ -72,29 +82,41 @@ He further stated that the vehicle owners have been given temporary permission t
 
 *2024-11-03 15:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இலக்கத்தகடு-விநியோகம்-இடைநிறுத்தம்/175-346496) · `ta`
 
-வாகன இலக்கத் தகடுகளை அச்சடிக்கும் நிறுவனத்திற்கு பணம் வழங்குவதில் ஏற்பட்ட தாமதத்தால் இலக்கத் தகடு விநியோகம் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக மோட்டார் வாகன போக்குவரத்து ஆணையாளர் நாயகம் நிஷாந்த வீரசிங்க தெரிவித்துள்ளார்.
+Vehicle license plate distribution halted due to payment delays. Temporary permits issued for displaying printed registration numbers. Cabinet approval sought for proper payments. Work expected to resume next week.
 
-உரிய கொடுப்பனவுகளுக்கு உடனடியாக அமைச்சரவையின் அனுமதி பெறப்படவுள்ளதாகவும் அடுத்த வாரத்திற்குள் இதற்கான பணிகள் நிறைவடையும் என எதிர்பார்ப்பதாக அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-வாகன உரிமையாளர்களுக்கு வாகன இலக்கத் தகடு வழங்காமை தொடர்பில் கடிதமொன்று வழங்கப்படுவதாக மோட்டார் போக்குவரத்து ஆணையாளர் நாயகம் கூறியுள்ளார்.
+Motor Vehicle Transport Commissioner General Nishantha Weerasinghe says that the distribution of digital plates has been temporarily suspended due to delay in payment of vehicle digits.
 
-வாகன இலக்கத்தகடு வழங்கப்படும் வரை தாளில் அச்சிடப்பட்ட பதிவுசெய்யப்பட்ட வாகன இலக்கத்தை காட்சிப்படுத்துவதற்கு வாகன உரிமையாளர்களுக்கு தற்காலிக அனுமதி வழங்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்துள்ளார். R
+He said that the Cabinet approval will be obtained immediately for the appropriate payments and that the work will be completed within next week.
+
+The Motor Transport Commissioner General has said that a letter is issued to the owners of the vehicle.
+
+He further stated that the vehicle owners have been given temporary permission to display the registered vehicle number printed on the paper until the vehicle number is issued.. Remble
 
 ◼️
 
 [Data](articles/9963f873.json)
 
+[Extended Data](ext_articles/9963f873.ext.json)
+
 ---
 
-### அநுர அலை ஓய்கிறதா?
+### Does the wave of the Anura?
 
 *2024-11-03 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197779) · `ta`
+
+"Anura wave summary: National People's Power faces challenges in local elections, may struggle to achieve expected victory in general election."
+
+🟩
 
 “தேசிய மக்கள் சக்தி  எல்பிட்டிய பிரதேச சபைத் தேர்தலில், சரிவைச் சந்திக்க தொடங்கி இருப்பது உறுதியானால், பொதுத்தேர்தலில் எதிர்பார்த்த வெற்றியை அவர்களால் அடைய முடியாமல் போகலாம்”
 
 ◼️
 
 [Data](articles/ed544da8.json)
+
+[Extended Data](ext_articles/ed544da8.ext.json)
 
 ---
 
@@ -136,21 +158,29 @@ Sri Lanka’s bowling was impressive, with Lakshan and Tharindu Rathnayake takin
 
 [Data](articles/b80570b0.json)
 
+[Extended Data](ext_articles/b80570b0.ext.json)
+
 ---
 
-### Hong Kong International Sixes තරගාවලියේ ශූරතාවය ශ්‍රී ලංකාවට
+### Sri Lanka wins championship in Hong Kong International Sixes
 
 *2024-11-03 15:05:33* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-තරගාවලියේ-ශූරතාවය-ශ්‍රී-ලංකාවට/9-412820) · `si`
 
-හොං‌කොං ඉන්ටර්නැෂනල් සික්සර්ස් ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයෙන් ජය වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+Sri Lanka triumphs in Hong Kong International Sixes. Pakistan scores 72/10 in 3rd over. Sri Lanka chases 73 runs in 5 overs, scoring 76/3 to win match.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවර 5යි පන්දු 2ක් අවසානයේ සියලු දෙනා දැවී ලකුණු 72ක් රැස් කළේය.
+🟩
 
-ඒ අනුව ලකුණු 73ක ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර පන්දුවාර 05ක් අවසානයේ කඩුලු 03ක් දැවී ලකුණු 76ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+The Sri Lankan team won a few months before the end of the finals of the Hong Kong International Sixers.
+
+Batting first, Pakistan scored 72 runs for the loss of all wickets at the end of the third.
+
+Sri Lanka won the match to chase 73 runs in 5 overs and scored 76 runs for the loss of 03 wickets.
 
 ◼️
 
 [Data](articles/30a8175e.json)
+
+[Extended Data](ext_articles/30a8175e.ext.json)
 
 ---
 

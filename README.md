@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 15:40:31**
+As of **2024-11-03 16:12:59**
 
 ## Newspaper Stats
 
-*Scraped **52,799** Articles*
+*Scraped **52,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,917
 adaderanalk | 6,275
-tamilmirrorlk | 7,330
+tamilmirrorlk | 7,331
 virakesarilk | 8,525
 adaderanasinhalalk | 9,203
 
@@ -26,21 +26,55 @@ adaderanasinhalalk | 9,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,797 (100.0%) of 52,799 articles have been extended.
+52,800 (100.0%) of 52,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### தேசிய மக்கள் சக்தியால் எமக்கு சாவல்கள் இல்லை - சீ.வை.பி. ராம்
+### The vehicle digit distribution was suspended
+
+*2024-11-03 15:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இலக்கத்தகடு-விநியோகம்-இடைநிறுத்தப்பட்டது/175-346496) · `ta`
+
+Vehicle digit distribution suspended due to payment delays. Cabinet approval sought. Temporary paper plates allowed. Work expected to resume next week.
+
+🟩
+
+Motor Vehicle Transport Commissioner General Nishantha Weerasinghe says that the distribution of digital plates has been temporarily suspended due to delay in payment of vehicle digits.
+
+He said that the Cabinet approval will be obtained immediately for the appropriate payments and that the work will be completed within next week.
+
+The Motor Transport Commissioner General has said that a letter is issued to the owners of the vehicle.
+
+He further stated that the vehicle owners have been given temporary permission to display the registered vehicle number printed on the paper until the vehicle number is issued.. Remble
+
+◼️
+
+[Data](articles/67a1b2c0.json)
+
+[Extended Data](ext_articles/67a1b2c0.ext.json)
+
+---
+
+### We have no chavas by the power of the national people - CVP. Ram
 
 *2024-11-03 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197777) · `ta`
 
-அரச ஊழியர்களுக்கு போதுமானளவு சம்பளம் வழங்கினால் அரச துறைகளில் இடம்பெறும் ஊழல் மோசடிகளை கட்டுப்படுத்த முடியும். சம்பளத்தை அதிகரித்து வழங்குவதுபோல் அரச துறையை வினைத்திரன் மிக்கதாக மாற்றவும் அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"We have no chavas by the power of the national people - CVP. Public servants can be restricted from corruption scandals in the public sector. The government should take steps to make the state sector a catalyst for salary increases."
+
+🟩
+
+Public servants can be restricted to corruption scandals in public sector. The government should take steps to make the state sector a catalyst, as the salary increases.
 
 ◼️
 
 [Data](articles/6d35942e.json)
+
+[Extended Data](ext_articles/6d35942e.ext.json)
 
 ---
 
@@ -418,21 +452,27 @@ He said that all the Sathosa shops can be purchased by one kilogram of large oni
 
 ---
 
-### හිටපු රාජ්‍ය අමාත්‍ය ලොහන් කොළඹ ජාතික රෝහලට
+### Former State Minister to the Colombo National Hospital
 
 *2024-11-03 12:44:24* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ලොහන්-කොළඹ-ජාතික-රෝහලට/11-412818) · `si`
 
-නීති විරෝධී අයුරින් කොටස් එකලස් කරන ලද අති සුඛෝභෝගි මෝටර් රථයක්  පරිහරණය කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ්  භාරයට පත් කර සිටි  හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ඇතැයි පොලිස් අරංචි මාර්ග සඳහන් කරයි.
+Former State Minister Lohan Ratwatte hospitalized after arrest. Remanded until July 7. Admitted to Colombo National Hospital for medical treatment.
 
-හිටපු අමාත්‍යවරයා බන්ධනාගාර නිලධාරීන්ගේ ආරක්‍ෂාව මධ්‍යයේ වාට්ටු අංක 48 ප්‍රතිකාර ලබන බව එම ආරංචි මාර්ගවලින් පැවසේ.
+🟩
 
-ඉකුත් 31 වෙනි දින  ඔහු මහනුවර කටුගස්තොට ප්‍රදේශයේ  නිවසේදී අත්අඩංගුවට ගෙන එදිනම රාත්‍රී නුගේගොඩ අතිරේක මහේස්ත්‍රාත්වරයා ඉදිරිපත් කිරීමෙන් අනතුරුව  මෙම මස 7  දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරනු ලැබීය.
+Former State Minister Lohan Ratwatte, who was taken into custody, has been admitted to the Colombo National Hospital for the use of a luxury car.
 
-ඔහු බන්ධනාගාරයේ සිටියදී   ඇතිවූ හදිසි අසනීප තත්වයක් හේතුවෙන් බන්ධනාගාර  රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහල වෙත ඊයේ රාත්‍රි ඇතුළත් කරනු ලැබීය.
+According to the sources, the former minister is receiving treatment at the center of the security of the prison officials.
+
+On the 31st, he was arrested and remanded until the 7th of this month.
+
+He was admitted to the Prison Hospital due to an emergency illness while he was in the prison last night.
 
 ◼️
 
 [Data](articles/86b4b7c6.json)
+
+[Extended Data](ext_articles/86b4b7c6.ext.json)
 
 ---
 
@@ -2283,27 +2323,5 @@ I do not ask for 23 seats to decorate parliament like other Tamil political part
 [Data](articles/60d4f9ac.json)
 
 [Extended Data](ext_articles/60d4f9ac.ext.json)
-
----
-
-### Meeting between Prime Minister Harini Amarasuriya and German Ambassador Felix Newman
-
-*2024-11-02 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197739) · `ta`
-
-Prime Minister Harini Amarasuriya met German Ambassador Felix Newman at her office. They discussed education sector development and vocational training upgrades. Attending officials included Prime Minister's Secretary Pradeep Saputhandri and German delegation leader Olab Malwo.
-
-🟩
-
-A meeting between Prime Minister Harini Amarasuriya and German Ambassador to Sri Lanka Felix Newman took place at the Prime Minister's Office this afternoon.
-
-This has been addressed on issues such as development of the country's education sector and upgrading vocational training.
-
-The meeting was attended by Prime Minister's Secretary Pradeep Saputhandri, Chief of the German delegation Olab Malwo, Advisor to Political Affairs, Tarini Taluwatta and Director of European and North America, Shatura Perera.
-
-◼️
-
-[Data](articles/9793ebe5.json)
-
-[Extended Data](ext_articles/9793ebe5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 16:12:59**
+As of **2024-11-03 16:24:23**
 
 ## Newspaper Stats
 
-*Scraped **52,800** Articles*
+*Scraped **52,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 3,155
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,917
-adaderanalk | 6,275
-tamilmirrorlk | 7,331
-virakesarilk | 8,525
+adalk | 4,918
+adaderanalk | 6,276
+tamilmirrorlk | 7,332
+virakesarilk | 8,527
 adaderanasinhalalk | 9,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,800 (100.0%) of 52,800 articles have been extended.
+52,800 (100.0%) of 52,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### புலனாய்வுத் தவறா?
+
+*2024-11-03 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197782) · `ta`
+
+“இலங்கை பாதுகாப்பானதாக இருக்க வேண்டும் என்பதில் அமெரிக்காவுக்கு அதிக அக்கறை இருக்கிறது. ஏனென்றால் திறந்த வெளிப்படையான இந்தோ - பசுபிக் என்ற அமெரிக்காவின் மூலோபாயத்தில் முக்கியமான பங்காளியாக இலங்கையை வைத்திருக்க விரும்புகிறது”
+
+◼️
+
+[Data](articles/8ad27d47.json)
+
+---
 
 ### The vehicle digit distribution was suspended
 
@@ -56,6 +68,36 @@ He further stated that the vehicle owners have been given temporary permission t
 
 ---
 
+### வாகன இலக்கத்தகடு விநியோகம் இடைநிறுத்தம்
+
+*2024-11-03 15:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இலக்கத்தகடு-விநியோகம்-இடைநிறுத்தம்/175-346496) · `ta`
+
+வாகன இலக்கத் தகடுகளை அச்சடிக்கும் நிறுவனத்திற்கு பணம் வழங்குவதில் ஏற்பட்ட தாமதத்தால் இலக்கத் தகடு விநியோகம் தற்காலிகமாக இடைநிறுத்தப்பட்டுள்ளதாக மோட்டார் வாகன போக்குவரத்து ஆணையாளர் நாயகம் நிஷாந்த வீரசிங்க தெரிவித்துள்ளார்.
+
+உரிய கொடுப்பனவுகளுக்கு உடனடியாக அமைச்சரவையின் அனுமதி பெறப்படவுள்ளதாகவும் அடுத்த வாரத்திற்குள் இதற்கான பணிகள் நிறைவடையும் என எதிர்பார்ப்பதாக அவர் குறிப்பிட்டுள்ளார்.
+
+வாகன உரிமையாளர்களுக்கு வாகன இலக்கத் தகடு வழங்காமை தொடர்பில் கடிதமொன்று வழங்கப்படுவதாக மோட்டார் போக்குவரத்து ஆணையாளர் நாயகம் கூறியுள்ளார்.
+
+வாகன இலக்கத்தகடு வழங்கப்படும் வரை தாளில் அச்சிடப்பட்ட பதிவுசெய்யப்பட்ட வாகன இலக்கத்தை காட்சிப்படுத்துவதற்கு வாகன உரிமையாளர்களுக்கு தற்காலிக அனுமதி வழங்கப்பட்டுள்ளதாக அவர் மேலும் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/9963f873.json)
+
+---
+
+### அநுர அலை ஓய்கிறதா?
+
+*2024-11-03 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197779) · `ta`
+
+“தேசிய மக்கள் சக்தி  எல்பிட்டிய பிரதேச சபைத் தேர்தலில், சரிவைச் சந்திக்க தொடங்கி இருப்பது உறுதியானால், பொதுத்தேர்தலில் எதிர்பார்த்த வெற்றியை அவர்களால் அடைய முடியாமல் போகலாம்”
+
+◼️
+
+[Data](articles/ed544da8.json)
+
+---
+
 ### We have no chavas by the power of the national people - CVP. Ram
 
 *2024-11-03 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197777) · `ta`
@@ -75,6 +117,40 @@ Public servants can be restricted to corruption scandals in public sector. The g
 [Data](articles/6d35942e.json)
 
 [Extended Data](ext_articles/6d35942e.ext.json)
+
+---
+
+### Sri Lanka crowned Hong Kong Sixes 2024 champions
+
+*2024-11-03 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103122/sri-lanka-crowned-hong-kong-sixes-2024-champions-) · `en`
+
+Sri Lanka triumphed over Pakistan by three wickets to secure the Hong Kong Super Sixes 2024 title on Sunday. Chasing a target of 73 runs, Sri Lanka reached their goal with six balls remaining.
+
+Sri Lanka’s captain, Lihuru Madhusanka, opted to bowl first, a decision that proved successful as his bowlers limited Pakistan to a modest total. Despite a valiant effort from Muhammad Akhlaq, who scored 48 runs off just 20 balls, Pakistan struggled to build a substantial score.
+
+Akhlaq was eventually dismissed by Madhusanka in the final over. The next highest score for Pakistan came from skipper Faheem Ashraf, who made 13 runs off four balls.
+
+Sri Lanka’s bowling was impressive, with Lakshan and Tharindu Rathnayake taking two wickets each. Nimesh Vimukthi and Lihuru Madhusanka also contributed with a wicket apiece.
+
+...
+
+[Data](articles/b80570b0.json)
+
+---
+
+### Hong Kong International Sixes තරගාවලියේ ශූරතාවය ශ්‍රී ලංකාවට
+
+*2024-11-03 15:05:33* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-තරගාවලියේ-ශූරතාවය-ශ්‍රී-ලංකාවට/9-412820) · `si`
+
+හොං‌කොං ඉන්ටර්නැෂනල් සික්සර්ස් ක්‍රිකට් තරගාවලියේ අවසන් මහා තරගයෙන් ජය වාර්තා කිරීමට ශ්‍රී ලංකා කණ්ඩායම මීට සුළු මොහොතකට පෙර සමත් විය.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවර 5යි පන්දු 2ක් අවසානයේ සියලු දෙනා දැවී ලකුණු 72ක් රැස් කළේය.
+
+ඒ අනුව ලකුණු 73ක ඉලක්කයක් හඹා යෑමට පිටියට පිවිසි ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර පන්දුවාර 05ක් අවසානයේ කඩුලු 03ක් දැවී ලකුණු 76ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/30a8175e.json)
 
 ---
 
@@ -2201,127 +2277,5 @@ Meanwhile, the Department of Meteorology has asked the public to take necessary 
 [Data](articles/3525d734.json)
 
 [Extended Data](ext_articles/3525d734.ext.json)
-
----
-
-### Allowance to buy books for school children - President
-
-*2024-11-02 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202843) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake announces plan to provide allowance for school students to buy books. Speaks at rally in Kandy.
-
-🟩
-
-President Anura Kumara Dissanayake says that the school students are planning to provide a allowance to purchase school books.
-
-He was speaking at a rally in Kandy this afternoon.
-
-◼️
-
-[Data](articles/a0fc5efb.json)
-
-[Extended Data](ext_articles/a0fc5efb.ext.json)
-
----
-
-### PM discusses rescue of Sri Lankans trafficked to Myanmar with IOM Mission Chief
-
-*2024-11-02 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103108/pm-discusses-rescue-of-sri-lankans-trafficked-to-myanmar-with-iom-mission-chief) · `en`
-
-Prime Minister Dr. Harini Amarasuriya has met with Ms. Kristin B. Parco, Chief of Mission of the International Organization for Migration (IOM), during a courtesy call at the Prime Minister’s Office today (02).
-
-During the meeting, enhancing cyber security measures to combat cyber fraud, rescue of Sri Lankan nationals trafficked to Myanmar, were discussed, according to the Prime Minister’s Office.
-
-The meeting was also attended by Ms. Madhavie N. Gunawardena, National Research and Partnership Officer, Ms. Minoli P. Don, Head of the Protection Unit, as well as Mr. Pradeep Saputhanthri, Secretary to the Prime Minister, and Ms. Dayani Mendis, Director General of United Nations and Human Rights, from the Ministry of Foreign Affairs.
-
-◼️
-
-[Data](articles/00c1f355.json)
-
-[Extended Data](ext_articles/00c1f355.ext.json)
-
----
-
-### Sri Lanka Tamil State Party election manifesto handing over to the Secretary
-
-*2024-11-02 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197733) · `ta`
-
-Sri Lanka Tamil State Party leader Mawai Senathirajah hands election manifesto to Secretary P. Satyalingam. Event held at Father Selva Gallery Jaffna. Attendees include Sivagnanam Sreedharan, Mathiyaparanam Abraham Sumanthiran, Emmanuel Anold.
-
-🟩
-
-The election manifesto for the upcoming parliamentary election was handed over to the party secretary by the leader of the Sri Lanka Tamil State Party, Mawai Senathirajah.
-
-The Tamil National Alliance (TNA) leader Mawai Senathirajah handed over the manifesto to the General Secretary P. Satyalingam to release the party's manifesto as it was unable to come to the publication of the Tamil state party's manifesto held on Saturday (02) at the Father Selva Gallery of Jaffna.
-
-Sivagnanam Sreedharan, Mathiyaparanam Abraham Sumanthiran and Emmanuel Anold were present.
-
-◼️
-
-[Data](articles/7fdf334a.json)
-
-[Extended Data](ext_articles/7fdf334a.ext.json)
-
----
-
-### Millions of money laundering arrested for allegedly sending overseas in Jaffna
-
-*2024-11-02 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197734) · `ta`
-
-Money laundering arrest in Jaffna: Man accused of sending funds abroad over 7 years. Police operation leads to arrest in luxury lifestyle. Multiple courts issue warrants. Suspect remanded until January 13th.
-
-🟩
-
-Jaffna has been in hiding for 7 years for allegedly sending abroad. He has been arrested by the District Crime Police Division.
-
-Police have arrested the man in a special surrounding operation after he was informed that the wife had gone to meet the children at night, believing that the man was living away from his wife.
-
-A complaint was lodged last June at the Jaffna Police Station in connection with a gang of people who allegedly sending a young man from Jaffna to France.
-
-According to the complaint, the police arrested a man last July and carried out investigations.
-
-At the same time, the police learned that another person, including the main suspect, was involved in the fraud, and the other person was arrested last October.
-
-Investigations carried out by him have been informed that the main suspect has been hiding and his wife's children are living in Kokuvil area.
-
-...
-
-[Data](articles/1c501d9b.json)
-
-[Extended Data](ext_articles/1c501d9b.ext.json)
-
----
-
-### It is better to try to achieve reality than to dream of something that is not - Douglas
-
-*2024-11-02 18:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197738) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Douglas Devananda emphasizes practical action over dreaming. He advocates for Tamil autonomy and federalism, promising to address people's issues if elected. His party aims for 4-5 seats, focusing on welfare and representation rather than armed struggle or fake nationalism.
-
-🟩
-
-The EPDP Secretary General, Douglas Devananda, pointed out that this time will decide the people who are working for the people who are continuously living with the people.
-
-Douglas Devananda, Secretary -General of the EPDP, who visited various parts of Vadamarachchi area on Saturday (02) for election campaigns, said this during a discussion with the people.
-
-I am acting from the welfare of the people. But on that day, our Tamil political ancestors demanded that Samasti be Samadhi and decorated the parliament by gaining electoral victories.
-
-But they do not have the mechanism of achieving the goal of the subject they have put forward. Similarly, the policies of the people in today's political territory that they are on the way of fake nationalism are unstoppable.
-
-I do not ask for 23 seats to decorate parliament like other Tamil political parties. I request you to give me at least 4 to 5 seats
-
-...
-
-[Data](articles/60d4f9ac.json)
-
-[Extended Data](ext_articles/60d4f9ac.ext.json)
 
 ---

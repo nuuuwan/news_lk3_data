@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 14:59:16**
+As of **2024-11-03 15:09:45**
 
 ## Newspaper Stats
 
-*Scraped **52,793** Articles*
+*Scraped **52,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,98 @@ economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,916
-adaderanalk | 6,274
-tamilmirrorlk | 7,329
-virakesarilk | 8,523
-adaderanasinhalalk | 9,202
+adaderanalk | 6,275
+tamilmirrorlk | 7,330
+virakesarilk | 8,524
+adaderanasinhalalk | 9,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,793 (100.0%) of 52,793 articles have been extended.
+52,795 (100.0%) of 52,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### හොංකොං සික්සර්ස් ක්‍රිකට් ශූරතාව ශ්‍රී ලංකාවට
+
+*2024-11-03 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202862) · `si`
+
+පාකිස්තාන කණ්ඩායම පරාජය කර වසර 7කට පසුව පැවැත් වූ හොංකොං සික්සස් ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට ලහිරු මධුසංකගේ නායකත්වයෙන් යුත් ශ්‍රී ලංකා කණ්ඩායම අද (3) සමත් විය.
+
+අවසන් මහා තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායමට පන්දුවාර 3.5කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 72ක් පමණි.
+
+ඒ අනුව ලකුණු 73ක ජයග්‍රාහී ඉලක්කය කඩුලු 3ක් දැවී තිබියදී තරගයේ 5වැනි  පන්දුවාරයේදී පසුකර යාමට ශ්‍රී ලංකාවට හැකිවිය.
+
+තරග ඉතිහාසයේ ශ්‍රී ලංකා කණ්ඩායමක් ශූරතාව දිනාගත් දෙවැනි අවස්ථාව මෙයයි.
+
+◼️
+
+[Data](articles/e82168f2.json)
+
+---
+
+### Muslim Pratyanism should be protected
+
+*2024-11-03 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197786) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Protecting Muslim Pratyanism: Ensure fair Muslim representation in Parliament. Address concerns about "communal" thinking when advocating for equal political voice.
+
+🟩
+
+The Muslim parliamentary representation and the protection of. It is necessary to have more Muslims in Parliament. Some parties see it as a communal thought when Muslims call for their parliamentary representation.
+
+◼️
+
+[Data](articles/751ba2b7.json)
+
+[Extended Data](ext_articles/751ba2b7.ext.json)
+
+---
+
+### Women's role in politics: Are we traveling without targeting?- IMSA's Jaffna. District candidate Umachandra Prakash Sevy
+
+*2024-11-03 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197774) · `ta`
+
+Women's roles in Sri Lankan politics: New female candidates face challenges due to lack of involvement in party structures. Electoral constituencies are dominated by men, hindering women's participation.
+
+🟩
+
+It is often a matter of fact that the new female candidates who are not involved in political activities. However, in the case of Sri Lanka's political structure, the electoral constituencies are the foundation of the parties. Men are often appointed as their organizers.
+
+◼️
+
+[Data](articles/3cff3648.json)
+
+[Extended Data](ext_articles/3cff3648.ext.json)
+
+---
+
+### Heavy rains expected to continue in parts of the island
+
+*2024-11-03 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103121/heavy-rains-expected-to-continue-in-parts-of-the-island) · `en`
+
+The Department of Meteorology has issued an ‘Amber’ level advisory for heavy rains in the Central, Uva, and Sabaragamuwa Provinces valid for the next 24 hours.
+
+The advisory stated that showers  or  thundershowers  will occur  in  the  most  parts  of  the island during the evening or night.  Heavy showers above 100 mm are likely at some places  in  Central, Uva,  and  Sabaragamuwa provinces.
+
+Meanwhile, the Met. Department has also issued an advisory for lightening.
+
+Thundershowers accompanied by severe lightning are  likely  to  occur  at  several  places  in  Central, Sabaragamuwa,  Uva,  North-central  and  North-western  provinces  and  in  Mannar  and  Vavuniya districts. There may be temporary localized strong winds during thundershowers, it added.
+
+Thus, the general public is kindly requested to take  adequate  precautions  to minimize damages caused by lightning activity.
+
+◼️
+
+[Data](articles/c7193eee.json)
+
+---
 
 ### Workers’ remittances decline in September 2024
 
@@ -134,6 +212,26 @@ According to the Central Bank of Sri Lanka, tourist earnings from January to Sep
 
 ---
 
+### “The country is in the country as a tuna puspasi”
+
+*2024-11-03 13:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துன்ஹிந்த-பஸ்போன்று-நாடு-விபத்துக்குள்ளாகும்/175-346488) · `ta`
+
+Former President Ranil Wickremesinghe warns: If experienced individuals aren't chosen for Parliament, the country may face disaster like the Tunhinda-Badulla bus accident.
+
+🟩
+
+Former President Ranil Wickremesinghe has said that if the experienced people do not choose to the parliament, the country will crash like a bus like a Kotalawala Safety University bus that toppled the Tunhinda -Badulla road.
+
+ஆர்கேட் சுதந்திர சதுக்கத்தில் நடைபெற்ற மாநாட்டின் போது கேட்கப்பட்ட கேள்விக்கு இலகுவான சிரையில் பதிலளித்த விக்ரமசிங்க, அனுபவம் வாய்ந்தவர்களை பாராளுமன்றத்திற்கு மக்கள் தெரிவு செய்யத் தவறினால் துன்ஹிந்த - பதுளை வீதியில் கவிழ்ந்த பேருந்தைப் போன்று நாடு விபத்துக்குள்ளாகும் என்றார்.
+
+◼️
+
+[Data](articles/1e5169bd.json)
+
+[Extended Data](ext_articles/1e5169bd.ext.json)
+
+---
+
 ### Lohan Ratwatta has been replaced
 
 *2024-11-03 13:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-மாற்றப்பட்டார்/175-346487) · `ta`
@@ -155,28 +253,6 @@ He was arrested at his residence in Katugastota, Kandy on the 31st of this month
 [Data](articles/811ef932.json)
 
 [Extended Data](ext_articles/811ef932.ext.json)
-
----
-
-### Muslim Pratyanism should be protected
-
-*2024-11-03 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197786) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Protecting Muslim Pratyanism: Ensure fair Muslim representation in Parliament. Address concerns about "communal" thinking when advocating for equal political voice.
-
-🟩
-
-The Muslim parliamentary representation and the protection of. It is necessary to have more Muslims in Parliament. Some parties see it as a communal thought when Muslims call for their parliamentary representation.
-
-◼️
-
-[Data](articles/751ba2b7.json)
-
-[Extended Data](ext_articles/751ba2b7.ext.json)
 
 ---
 
@@ -2245,101 +2321,5 @@ The organization has also requested the public to move to a safe place if there 
 [Data](articles/ef1284dd.json)
 
 [Extended Data](ext_articles/ef1284dd.ext.json)
-
----
-
-### Sri Lanka won the Hong Kong Sixers Tournament
-
-*2024-11-02 18:07:06* · [`adalk`](https://www.ada.lk/sports/හොං‌කොං-සික්සර්ස්-තරගාවලියේ-ශ්‍රී-ලංකාව-අපරාජිතව-ලැබූ-ජය/9-412809) · `si`
-
-Sri Lanka wins Hong Kong Sixers Tournament. SLM qualifies for semi-finals, defeats Nepal by 40 runs. Sri Lanka scores 123/7 in 6 overs, Nepal replies with 83/5 in 5 overs.
-
-🟩
-
-Sri Lanka (SLM) team qualified to qualify for the semi-finals of the Hong Kong International Sixers Cricket Tournament.
-
-Nepal defeated the Nepal team by 40 runs in the third semi final.
-
-Batting first Sri Lanka scored 123 runs for the loss of seven wickets at the end of six overs.
-
-In reply, the Nepal group scored 83 runs at the end of five overs.
-
-◼️
-
-[Data](articles/698b4290.json)
-
-[Extended Data](ext_articles/698b4290.ext.json)
-
----
-
-### මනුෂ්‍ය ඝාතන දෙකකට සම්බන්ධ සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
-
-*2024-11-02 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202841) · `si`
-
-Two suspects arrested for human killings in Sri Lanka. Police investigation ongoing. Motorcycle found at scene. Suspect planned additional crimes.
-
-🟩
-
-පසුගිය කාලසීමවන් තුළදි සිදුවූ මනුෂ්‍ය ඝාතනයන්ට සම්බන්ධ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගැනීමට බස්නාහිර දකුණ අපරාධ කොට්ඨාසය සමත්ව තිබේ.
-
-පසුගිය සැප්තැම්බර් 15 දින දෙහිවල ප්‍රදේශයේදී සිදුවූ මනුශ්‍ය ඝාතනයට සහ සැප්තැම්බර් 18 වැනි දින කොහුවල ප්‍රදේශයේ දී සිදුවූ මනුෂ්‍ය ඝාතනයන්ට අදාළ සැකකරුවන් දෙදෙනෙකු මෙලෙස අත්අඩංගුවට ගෙන තිබේ.
-
-At the investigation by the police, one suspect has been arrested in the Mattegoda area on the 25th.
-
-Police Media Spokesperson DIG Nihal Thalmeda said at a press conference held today (02), the 31-year-old suspect had driven the motorbike for the murder.
-
-The two murders were discovered by the police, while the motorcycle was abandoned in the Wellawatte area.
-
-The shooter has been arrested by the Western Province Criminal Division near the Welikada Prison on the investigation incident.
-
-The firearm used in the murder was also taken into police custody.
-
-Police have also revealed that the suspect had planned to commit another crime in the next few days.
-
-◼️
-
-[Data](articles/59942098.json)
-
-[Extended Data](ext_articles/59942098.ext.json)
-
----
-
-### Ranil plans to come to Parliament through the National List…!
-
-*2024-11-02 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197735) · `ta`
-
-Ranil seeks Parliament seat via National List. Accuses government of misusing funds. Criticizes PM's constitutional knowledge. Plans to challenge Anura government with opposition support.
-
-🟩
-
-Former President Ranil, who has observed many of the leading prisoners, has begun to impose allegations against the government to distract the people.. He questioned where the funds were allocated for the salary increase of public servants. Prime Minister Harini did not know the constitution. They called me a majority president. Now he is also a majority of President. It is said that Ranil has begun to speak to the back of the law. He also seems to be planning to press for the Anura government along with the opposition MPs through the national list.
-
-◼️
-
-[Data](articles/926d8852.json)
-
-[Extended Data](ext_articles/926d8852.ext.json)
-
----
-
-### මියන්මාරයේ රඳවා සිටින ශ්‍රී ලාංකිකයින් බේරාගැනීමට තවත් පියවරක්
-
-*2024-11-02 17:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202840) · `si`
-
-Myanmar rescue Sri Lankans, cybercrime fight, cybersecurity measures discussed by PM Harathin Amarasuriya and IOM Mission Corps Christine B. Parco.
-
-🟩
-
-Prime Minister Dr. Harari Amarasuriya and Immigration for the IMP
-
-එම සාකච්ඡවේදී සයිබර් වංචාවලට එරෙහිව සටන් කිරීම සඳහා සයිබර් ආරක්ෂණ පියවර වැඩි දියුණු කිරීම ඇතුළු කරුණු කිහිපයක්  පිළිබඳව අවධානය යොමුවූ බව අග්‍රමාත්‍ය මාධ්‍ය ඒකකය පවසයි.
-
-Prime Minister Dr. Harathin Amarasuriya and International Organization (IOM) Mission Corps Christine B. පාර්කෝ (Kristin B. Parco was found at the Prime Minister's Office yesterday (01).
-
-◼️
-
-[Data](articles/4c7e8fdb.json)
-
-[Extended Data](ext_articles/4c7e8fdb.ext.json)
 
 ---

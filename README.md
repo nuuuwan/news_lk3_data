@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 17:09:25**
+As of **2024-11-03 17:24:27**
 
 ## Newspaper Stats
 
-*Scraped **52,809** Articles*
+*Scraped **52,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,86 @@ economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,918
-adaderanalk | 6,277
+adaderanalk | 6,279
 tamilmirrorlk | 7,334
 virakesarilk | 8,527
-adaderanasinhalalk | 9,204
+adaderanasinhalalk | 9,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,808 (100.0%) of 52,809 articles have been extended.
+52,809 (100.0%) of 52,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### அஸ்வெசுமவை ஆராய 10 பேரடங்கிய குழு
+### No withdrawal of security at religious places - Defence Ministry
+
+*2024-11-03 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103125/no-withdrawal-of-security-at-religious-places-defence-ministry) · `en`
+
+The Ministry of Defence states that the reports claiming the removal of security provided by the Tri-Forces and the Civil Defence Force at religious places in the country are untrue.
+
+This was communicated by the media spokesman of the Ministry of Defence during a special press conference held this afternoon (03).
+
+◼️
+
+[Data](articles/361cc801.json)
+
+---
+
+### Technical fault or driver negligence? - Police probe fatal KDU bus accident
+
+*2024-11-03 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103124/technical-fault-or-driver-negligence-police-probe-fatal-kdu-bus-accident) · `en`
+
+Sri Lanka Police have launched an investigation to determine whether the recent fatal bus accident on Dunhinda Road in Badulla, was caused by a technical fault of the bus or driver error.
+
+The incident, which involved a bus carrying a group of students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) toppling across the road, resulted in the death of two female students, and injuries to 40 others.
+
+The Senior Superintendent of Police (SSP) in-charge of Badulla, Wasantha Kandewatta stated that a government analyst’s report on the bus is awaited to aid the investigation.
+
+Preliminary assessments suggest the driver may have been operating the vehicle in third or fourth gear at the time of the accident. It is suspected that excessive speed on the steep, winding 4-kilometer stretch of road may have led the bus to skid out of control, according to police.
+
+...
+
+[Data](articles/1da23d20.json)
+
+---
+
+### 10 panel
 
 *2024-11-03 16:48:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவை-ஆராய-10-பேரடங்கிய-குழு/175-346500) · `ta`
 
-அஸ்வெசும நலன்புரி உதவிகள் வழங்கும் பயனாளிகளை தெரிவு செய்வதில் அநீதி இழைக்கப்பட்ட பயனாளிகள் தொடர்பில் விசாரணை நடத்துவதற்கு பொறுப்பான அமைச்சர் விஜித ஹேரத்தின் ஆலோசனையின் பேரில் குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+Committee formed: Minister Vijitha Herath investigates unjust beneficiaries. Appointed by Secretary of Ministry of Buddhism, Religion and Cultural Affairs, National Integration, Social Security and Media Ministry, Ranjith Aryaratne.
 
-பௌத்தம், மதம் மற்றும் கலாச்சார அலுவல்கள், தேசிய ஒருமைப்பாடு, சமூக பாதுகாப்பு மற்றும் ஊடக அமைச்சின் செயலாளர்  ரஞ்சித் ஆரியரத்னவினால் நியமிக்கப்பட்ட இந்தக் குழுவில் 10 பேர் உள்ளடக்கப்பட்டுள்ளனர்.
+🟩
+
+A committee has been appointed on the advice of Minister Vijitha Herath, who is responsible for investigating the beneficiaries of the unjust beneficiaries.
+
+The committee appointed by the Secretary of the Ministry of Buddhism, Religion and Cultural Affairs, National Integration, Social Security and Media Ministry, Ranjith Aryaratne.
 
 ◼️
 
 [Data](articles/a4b8c50c.json)
+
+[Extended Data](ext_articles/a4b8c50c.ext.json)
+
+---
+
+### ආගමික ස්ථානවලට ලබා දී ඇති ආරක්ෂාව ගැන විශේෂ ප්‍රකාශයක්
+
+*2024-11-03 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202864) · `si`
+
+ආගමික ස්ථානවලට ලබා දී තිබෙන ත්‍රිවිධ හමුදා ආරක්ෂාව සහ සිවිල් ආරක්ෂක දෙපාර්තමේන්තුවේ සාමාජිකයින්ගේ ආරක්ෂාව ඉවත්කර ඇති බවට පළවන පුවත් ප්‍රතික්ෂේප කරන බව ආරක්ෂක අමාත්‍යංශය පවසයි.
+
+අද (03) පස්වරුවේ විශේෂ ප්‍රවෘත්ති සාකච්ඡාවක් පවත්වමින් ආරක්ෂක අමාත්‍යාංශයේ අධ්‍යක්‍ෂ, මාධ්‍ය හා මාධ්‍ය ප්‍රකාශක කර්නල් එම්. බී. බී. නලින් හේරත් මහතා මේ බව පැවසීය.
+
+ප්‍රධාන පෙළේ පුවත්පතක සහ සමාජ මාධ්‍යවල මෙම අසත්‍ය පුවත පළකර ඇති බවත්, එම තොරතුරු සියල්ල X පණිවුඩයක් මගින් මේ වනවිටත් ප්‍රතික්ෂේප කර ඇති බවත් ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/2f593061.json)
 
 ---
 
@@ -2221,79 +2275,5 @@ She was ready for university field visit and forgot to add greeting his Father o
 [Data](articles/e21def47.json)
 
 [Extended Data](ext_articles/e21def47.ext.json)
-
----
-
-### Prison commissioner released on former Minister Lohan
-
-*2024-11-02 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202846) · `si`
-
-Former Minister Lohan released due to health issues. Prisons Commissioner Gamini Dissanayake states he's receiving medical care at the prison hospital. Health report indicates liver, lung, and kidney problems.
-
-🟩
-
-Prisons Commissioner Gamini B. Gamini B.. Mr. Dissanayake has issued a statement.
-
-The Magistrate had noted that the former minister was a special safety and to provide medical care.
-
-Accordingly, the prison commission had been admitted to the Prison Hospital for the recommendation of the Prison doctor from 31st on 31st last 31st.
-
-Accordingly, a former minister's health report was summoned from the Sabha Hospital.
-
-He also said that the liver, lung and trenches were affected by illnesses, and the prison hospital report said.
-
-The Commissioner of Prisons (Commissioner of Prisons) have stated that the former Minister of Prisons is being treated at the prison hospital.
-
-◼️
-
-[Data](articles/15b4a278.json)
-
-[Extended Data](ext_articles/15b4a278.ext.json)
-
----
-
-### Strike commenced at Karapitiya Teaching Hospital
-
-*2024-11-02 20:22:08* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ශික්ෂණ-රෝහලේ-වෛද්‍යවරුන්-ආරම්භ-කළ-වර්ජනය-අවසන්/11-412810) · `si`
-
-Karapitiya Teaching Hospital strike summary: Doctors struck over threats to colleague. Strike ended after health ministry promised transfer.
-
-🟩
-
-The strike has been completed and the doctors of the Boregoda have been completed.
-
-Doctors acted to commence this strike this morning due to the threat to another doctor today (02).
-
-However, the strike was completed on the promise of the Secretary to the Ministry of Health that the threatened doctor was transferred to another hospital.
-
-◼️
-
-[Data](articles/3d76d8f2.json)
-
-[Extended Data](ext_articles/3d76d8f2.ext.json)
-
----
-
-### Six arrested for Arugamay incident
-
-*2024-11-02 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202845) · `si`
-
-Six arrested for Arugamay incident: Minister Vijitha Herath claims threat to national security and tourist protection. Foreigner among detainees. Suspects linked to intelligence attacks in Arugambay and Colombo. Deputy Minister emphasizes swift action taken to ensure national security and foreigner safety.
-
-🟩
-
-According to the Minister of Defense Vijitha Herath, six persons who have acted in a threat to national security as well as the security of tourist protection are being carried out.
-
-The Minister said that there is a foreign national among the arrested persons.
-
-The suspects have been arrested in connection with intelligences attacking the area of ​​Arugambay and have been arrested in connection with events in Colombo.
-
-Deputy Minister of Defense Vijitha Herath, Speaking in this regard,
-
-...
-
-[Data](articles/df758ed4.json)
-
-[Extended Data](ext_articles/df758ed4.ext.json)
 
 ---

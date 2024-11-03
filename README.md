@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 15:09:45**
+As of **2024-11-03 15:24:11**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 9,203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,795 (100.0%) of 52,797 articles have been extended.
+52,797 (100.0%) of 52,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### හොංකොං සික්සර්ස් ක්‍රිකට් ශූරතාව ශ්‍රී ලංකාවට
+### Sri Lanka wins Hong Kong Sixers Cricket Championship
 
 *2024-11-03 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202862) · `si`
 
+Sri Lanka wins Hong Kong Sixers Cricket Championship after defeating Pakistan under Lasith Madushanka's leadership. This is Sri Lanka's second championship victory in cricket history.
+
+🟩
+
 පාකිස්තාන කණ්ඩායම පරාජය කර වසර 7කට පසුව පැවැත් වූ හොංකොං සික්සස් ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට ලහිරු මධුසංකගේ නායකත්වයෙන් යුත් ශ්‍රී ලංකා කණ්ඩායම අද (3) සමත් විය.
 
-අවසන් මහා තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායමට පන්දුවාර 3.5කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 72ක් පමණි.
+Pakistan won only 72 runs in 3.5 overs to bat first.
 
-ඒ අනුව ලකුණු 73ක ජයග්‍රාහී ඉලක්කය කඩුලු 3ක් දැවී තිබියදී තරගයේ 5වැනි  පන්දුවාරයේදී පසුකර යාමට ශ්‍රී ලංකාවට හැකිවිය.
+Sri Lanka was able to cross the 5th odd win despite the loss of 73 runs.
 
 තරග ඉතිහාසයේ ශ්‍රී ලංකා කණ්ඩායමක් ශූරතාව දිනාගත් දෙවැනි අවස්ථාව මෙයයි.
 
 ◼️
 
 [Data](articles/e82168f2.json)
+
+[Extended Data](ext_articles/e82168f2.ext.json)
 
 ---
 
@@ -107,6 +113,8 @@ Thus, the general public is kindly requested to take  adequate  precautions  
 ◼️
 
 [Data](articles/c7193eee.json)
+
+[Extended Data](ext_articles/c7193eee.ext.json)
 
 ---
 

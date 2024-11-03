@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 10:39:59**
+As of **2024-11-03 10:58:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,757 (100.0%) of 52,758 articles have been extended.
+52,758 (100.0%) of 52,758 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -518,25 +518,39 @@ The Meteorological Department urges the public to take necessary steps to reduce
 
 ---
 
-### නින්ද: ෆින්ලන්තයේ ළදරු පෙට්ටි ඇඳක් ශ්‍රී ලාංකික පවුලකට සෞඛ්‍යවත් ජීවිතයක් දුන් හැටි
+### Sleep: Baby boxes in Finland a Baby in Finland
 
 *2024-11-03 04:17:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04lpnqkrz5o) · `si`
 
-නින්ද: ෆින්ලන්තයේ ළදරු පෙට්ටි ඇඳක් ශ්‍රී ලාංකික පවුලකට සෞඛ්‍යවත් ජීවිතයක් දුන් හැටි
+Here's a 200-character summary:
 
-සුකිතා සහ ඇගේ සැමියා වන ප්‍රසාද් ෆින්ලන්තයට සංක්‍රමණය වූ විට - පෘථිවිය මත වැසියන් ප්‍රීතිමයෙන් ම වෙසෙන ස්ථානය ලෙස සලකන රටක් - ඔවුන්ට පළමුවෙන් ම ලැබුණු දේවලින් එකක් වූයේ, කාඩ්බෝඩ් පෙට්ටියකි.
 
-"ඒක නිකම් නිකම් පෙට්ටියක් නෙවෙයි. ඒක අත්‍යවශ්‍ය ද්‍රව්‍යවලින් පිරිච්ච මාතෘ පෙට්ටියක්," එය විවෘත කළ පළමු අවස්ථාව ආවර්ජනය කරමින් සුකිතා හේරත් පැවසීය.
 
-වසර හයකට පෙර සිංගප්පූරුවේ සිට එහි පදිංචියට යන විට මෙම යුවළ ඔවුන්ගේ පළමු දරුවා අපේක්ෂාවෙන් සිටියහ.
+Baby boxes in Finland promote healthy sleep habits for newborns. They contain essentials like clothes and a mattress. Parents prioritize sleep routines, limiting screen time before bed. Experts stress sleep's importance for mental, physical, and social development. Digital devices can disrupt sleep patterns, so removing them from bedrooms is advised.
 
-බිළිඳුන් නිදිගැන්වීමේ පුරුදු ගැන සංස්කෘතික සංවාදයක් - බටහිර ක්‍රමය අරුම පුදුම ද?
+🟩
 
-උණුසුම් ඇඳුම්, ළදරුවන් සඳහා නිදන බෑගයක් සහ අනෙකුත් භාණ්ඩ සමග කුඩා මෙට්ටයක් ඇතුළුව රජයෙන් දෙන තිලිණය වසර 75ක් තිස්සේ ෆින්ලන්තයේ පැවත එන සම්ප්‍රදායකි. දෙමාපියන්ගේ සම්භවය හෝ සමාජ-ආර්ථික පසුබිම කුමක් වුවත්, සියලු ම ගැබිනි මව්වරුන්ට සඳහා සමාන ආරම්භයක් ලබා දෙයි.
+Sleep: Baby boxes in Finland a Baby in Finland
+
+When Sukoo and her husband Prasad, her husband, Prasad, was a country where the people of the earth treated as the worst place - a cardboard box.
+
+"It's not just a box. It is a maternity box with essentials, "Soukhaka Herath said.
+
+The couple was expecting their first child when they were moved from Singapore six years ago.
+
+Cultural conversation of babies to sleep habits - West is surprised?
+
+Knowledge of the government, including hot clothes, bave bag and other items, is a tradition of Finland for 75 years. Regardless of parental or socio-economic background, all pregnant mothers offer a similar start.
+
+"It will be the first bed inside the bag and become a baby's first bed," says Prasad Jayathwatta, a father of two and two two daughters.
+
+Like their older child, the youngest child was also the first to sleep in the same box.
 
 ...
 
 [Data](articles/2d6c8db5.json)
+
+[Extended Data](ext_articles/2d6c8db5.ext.json)
 
 ---
 

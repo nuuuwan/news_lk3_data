@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 20:58:39**
+As of **2024-11-03 21:09:41**
 
 ## Newspaper Stats
 
-*Scraped **52,841** Articles*
+*Scraped **52,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,924
+adalk | 4,925
 adaderanalk | 6,281
 tamilmirrorlk | 7,337
 virakesarilk | 8,541
@@ -26,49 +26,63 @@ adaderanasinhalalk | 9,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,839 (100.0%) of 52,841 articles have been extended.
+52,841 (100.0%) of 52,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### லொஹான் ரத்வத்த பொது வார்டுக்கு மாற்றப்பட்டார் - சிறைச்சாலை ஊடகப் பேச்சாளர்
+### Lohan Ratwatta has been transferred to the General Ward - Prison Media Spokesman
 
 *2024-11-03 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197823) · `ta`
 
-கொழும்பு தேசிய வைத்தியசாலையில் சிறைச்சாலை அதிகாரிகளின் பாதுகாப்பில் அவசர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தே, அந்தப் பிரிவிலிருந்து பொது வார்டுக்கு மாற்றப்பட்டுள்ளார்.
+Former State Minister Lohan Ratwatta transferred from prison hospital to general ward at Colombo National Hospital due to sudden illness on Saturday night.
 
-சனிக்கிழமை (02) இரவு ஏற்பட்ட திடீர் நோய் நிலை காரணமாக லொஹான் ரத்வத்த தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க குறிப்பிட்டுள்ளார்.
+🟩
 
-சிறைச்சாலை வைத்தியசாலையில் சிகிச்சை பெற்று வந்த ரத்வத்தேவுக்கு சனிக்கிழமை இரவு ஏற்பட்ட திடீர் நோய் நிலை காரணமாக கொழும்பு தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டார்.
+Former State Minister Lohan Ratwatte, who has been treated in the emergency department under the protection of prisons at the Colombo National Hospital, has been transferred from the section to the General Ward.
 
-சட்டவிரோதமான முறையில் வெளிநாட்டிலிருந்து இலங்கைக்கு கொண்டு வரப்பட்டு பொருத்தப்பட்ட சொகுசு காரை பயன்படுத்திய குற்றச்சாட்டின் பேரில் கடந்த 31 ஆம் திகதி கைது செய்யப்பட்ட லொஹான் ரத்வத்தே, நுகேகொடை பதில் நீதவான் முன்னிலையில் ஆஜர்படுத்தப்பட்ட பின்னர் எதிர்வரும் 7 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+Prison Media Spokesperson Gamini P. Dissanayake has stated that the Lohan Ratwatta National Hospital has been admitted to the National Hospital due to the sudden illness on Saturday night (02).
+
+Ratwatte, who was receiving treatment at the Prison Hospital, was admitted to the Emergency Department of the Colombo National Hospital due to a sudden illness on Saturday night.
+
+Lohan Ratwatte, who was arrested on the 31st of this month, was kept in detention till the 7th of this month after the Nugegoda response was produced before the Magistrate.
 
 ◼️
 
 [Data](articles/04a46d69.json)
 
+[Extended Data](ext_articles/04a46d69.ext.json)
+
 ---
 
-### හිටපු කෘෂිකර්ම අධ්‍යක්ෂකවරයාගෙන් ඩඩ්ලි සිරිසේනට චෝදනා
+### Dudley Sirisena accused of former agriculture
 
 *2024-11-03 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202869) · `si`
 
-වරින්වර නිර්මාණය වන වෙළෙඳපොළේ සහල් අර්බුදයට පැවති ආණ්ඩු වගකිව යුතු බවට මහා පරිමාණ සහල් ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතා ඊයේ (02) කළ ප්‍රකාශය මුළුමනින්ම අසත්‍යයක් බව හිටපු කෘෂිකර්ම අධ්‍යක්ෂ කේ.බී. ගුණරත්න මහතා පවසයි.
+Dudley Sirisena accused of causing rice shortages. Government controls prices but traders claim no shortage exists. President demands weekly paddy/rice stock reports from trade ministry.
 
-ඔහු අද (03) ප්‍රකාශ කළේ ඩඩ්ලි සිරිසේන ඇතුළු මහා පරිමාණ මෝල්හිමියන් පස් දෙනෙක් වරින්වර මෙම සහල් අර්බුදය ඇති කරන බවය.
+🟩
 
-පසුගිය කාලයේ වෙළෙඳපොළේ පාලන මිල ඉක්මවා සහල් අලෙවි කෙරුණු අතර ඇතැම් සහල්වල හිඟයක් පැවතියේය.
+Large scale rice business Dudley Sirisena yesterday (02) was liberated yesterday (02) that the statement made by the rice crisis in the market.. Says Mr. Gunaratne.
 
-ඒ අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා ඔක්තෝබර් 24 වනදා මහා පරිමාණ සහල් නිෂ්පාදකයින් කැඳවා පාලන මිලට සහල් අලෙවි කරන ලෙස දැනුම් දුන් අතර ඔවුන්ද එහිදී ඊට එකඟතාව පළකළේය.
+He said this today (03), including Dudley Sirisena, five large-scale millsters, including Dudley Sirisena, the rice will be caused by this.
 
-එහෙත් තවමත් වෙළෙඳපොළේ සහල් හිඟය නිමා වී හෝ පාලන මිලට සහල් අලෙවි කිරීම සිදුනොවන බවට වෙළෙඳුන් සහ පාරිභෝගිකයන් චෝදනා කරයි.
+The rice was sold over the market in the past and there was a shortage of rice.
 
-මේ අතර වී තොග සහ සහල් තොග පිළිබඳ දත්ත වාර්තාවක් වහාම ඉදිරිපත් කරන ලෙස ජනාධිපතිවරයා නියම කොට සතියක් ඉක්ම ගොස් ඇතත් තවමත් එම වාර්තාව ජනාධිපතිවරයා වෙත ලබා දී නොමැති බව වාර්තා වේ.
+Accordingly, President Anura Kumara Dissanayake summoned the rice producers to the control price, and agreed to sell rice products.
 
-...
+However, traders and consumers allege that the shortage of rice is not yet established in the market.
+
+Meanwhile, the President has passed over a week to promptly submit a data report on paddy and rice.
+
+Ada Derana asked the Ministry of Trade MM. Mr. Nimimudin said the data report on the paddy stocks is still being prepared and it will be made to the President on November 6.
+
+◼️
 
 [Data](articles/6e1f1a93.json)
+
+[Extended Data](ext_articles/6e1f1a93.ext.json)
 
 ---
 
@@ -263,6 +277,22 @@ Those who frequented the people of Nuwara Eliya during the presidential election
 [Data](articles/3a524c94.json)
 
 [Extended Data](ext_articles/3a524c94.ext.json)
+
+---
+
+### සතොස භාණ්ඩ තුනක මිල බස්සවයි
+
+*2024-11-03 18:15:45* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-තුනක-මිල-බස්සවයි/11-412827) · `si`
+
+ජනතාවට සහන සැපයීමේ අරමුණින්  ලංකා සතොස මගින් අලෙවි කරන  අත්‍යවශ්‍ය භාණ්ඩ තුනක මිල පහළ දැමූ බව ලංකා සතොස ආයතනය පවසයි.
+
+ඒ අනුව දිවයිනේ සියලුම  ලංකා සතොස අලෙවිසල්වල   මුං ඇට කිලෝවක මිල රුපියල් 850 සිට රුපියල්    799 දක්වා රුපියල් 51 කින්ද ,සුදු කවුපි කිලෝවක මිල රුපියල් 900 සිට 880 දක්වා රුපියල් 20 කින්ද  ,සුදු සීනි කිලෝවක මිල රුපියල් 248 සිට 243 දක්වා රුපියල් 05 කින්ද පහල දැමූ බව සතොස ආයතනයේ අලෙවි ප්‍රධානි සමන් කාරියවසම් මහතා පවසයි.
+
+එමෙන්ම ලොකු ලූණු කිලෝවක් රුපියල් 300 බැගින්  සියලුම සතොස අලෙවිසල්වලින් ලබාගැනීමට හැකි බවද ඒ මහතා පැවසීය.
+
+◼️
+
+[Data](articles/69c76882.json)
 
 ---
 
@@ -2319,25 +2349,5 @@ Accordingly, the general public is kindly requested to take adequate precautions
 [Data](articles/8af95051.json)
 
 [Extended Data](ext_articles/8af95051.ext.json)
-
----
-
-### Sri Lanka trade deficit widens, services surplus plunges in September
-
-*2024-11-03 06:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-deficits-widens-services-surplus-plunges-in-september-185897/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s trade deficit widened to 634 million US dollars in September 2024 from 429 million dollars a month earlier, while the services surplus plunged to 156 million US dollars from 287 million US dollars in August, official data showed.
-
-Imports remained at 1,645 million US dollars in September 2024, compared to 1,654 million US dollars in August while exports fell from 1,224 million US dollars to 1,011 million, and remittances were marginally down to 555.6 million US dollars, central bank data showed.
-
-Gross services inflows including tourism also fell to 492 million US dollars, from 609 million dollars a month earlier, while services outflows increased to 336 million US dollars from 322 million dollars.
-
-Gross inflows from exports, remittances, and services were 2,059 million dollars in September, exceeding imports by 414milion US dollars. After services outflows the gap fell to 77 million US dollars.
-
-...
-
-[Data](articles/aa91b9b7.json)
-
-[Extended Data](ext_articles/aa91b9b7.ext.json)
 
 ---

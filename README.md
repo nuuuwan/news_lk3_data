@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 10:58:31**
+As of **2024-11-03 11:11:06**
 
 ## Newspaper Stats
 
-*Scraped **52,758** Articles*
+*Scraped **52,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,910
-adaderanalk | 6,269
+adaderanalk | 6,270
 tamilmirrorlk | 7,325
 virakesarilk | 8,511
 adaderanasinhalalk | 9,195
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,758 (100.0%) of 52,758 articles have been extended.
+52,759 (100.0%) of 52,759 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### 29 Nigerian children may be sentenced to death for protesting against cost-of-living crisis
+
+*2024-11-03 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103116/29-nigerian-children-may-be-sentenced-to-death-for-protesting-against-cost-of-living-crisis) · `en`
+
+Twenty-nine children could be facing the death penalty in Nigeria after they were arraigned Friday for participating in a protest against the country’s record cost-of-living crisis. Four of them collapsed in court due to exhaustion before they could enter a plea.
+
+A total of 76 protesters were charged with 10 felony counts, including treason, destruction of property, public disturbance and mutiny, according to the charge sheet seen by The Associated Press.
+
+According to the charge sheet, the minors ranged in age from 14 to 17 years old.
+
+Frustration over the cost-of-living crisis has led to several mass protests in recent months. In August, at least 20 people were shot dead and hundreds more were arrested at a protest demanding better opportunities and jobs for young people.
+
+The death sentence was introduced in the 1970s in Nigeria, but there have been no executions in the country since 2016.
+
+...
+
+[Data](articles/8ddff61d.json)
+
+[Extended Data](ext_articles/8ddff61d.ext.json)
+
+---
 
 ### “If this continues, country will end up like the KDU bus”:  Ex-President Ranil warns
 
@@ -2355,27 +2377,5 @@ Accordingly, Senior Deputy Deputy Chief Minister Rajitha Ranasinghe said that th
 [Data](articles/54719874.json)
 
 [Extended Data](ext_articles/54719874.ext.json)
-
----
-
-### The corpse recovery from the canal
-
-*2024-11-02 12:39:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கால்வாயில்-இருந்து-சடலம்-மீட்பு/76-346443) · `ta`
-
-Body recovered from canal during water transport system maintenance. Police investigating possible origin from nearby reservoir.
-
-🟩
-
-The body of a male has been recovered this morning (2) from the security net of the water transport system, which is being carried out by the Kottiyagala Tea Plantation workers, which belongs to the Bogawantalawa Police Division.
-
-Police suspect that the body may be dragged from the Cassalry reservoir through the water system and may be in the security net.
-
-Plantation workers who were working in the tea estate have informed the Bogawantalawa police that a body of a water transport system is found in the safety net.
-
-◼️
-
-[Data](articles/04b5765c.json)
-
-[Extended Data](ext_articles/04b5765c.ext.json)
 
 ---

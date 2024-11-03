@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 18:32:47**
+As of **2024-11-03 18:59:16**
 
 ## Newspaper Stats
 
-*Scraped **52,817** Articles*
+*Scraped **52,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,59 @@ islandlk | 3,156
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,920
+adalk | 4,922
 adaderanalk | 6,279
-tamilmirrorlk | 7,336
-virakesarilk | 8,527
+tamilmirrorlk | 7,337
+virakesarilk | 8,537
 adaderanasinhalalk | 9,205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,817 (100.0%) of 52,817 articles have been extended.
+52,823 (100.0%) of 52,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### பேராசிரியர் சந்திம விஜேபண்டார காலமானார்
+
+*2024-11-03 18:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-சந்திம-விஜேபண்டார-காலமானார்/175-346504) · `ta`
+
+◼️
+
+[Data](articles/e47ad581.json)
+
+---
+
+### 1,700 rupees salary
+
+*2024-11-03 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197816) · `ta`
+
+President promises fair salary increase for plantation workers, targets 1700 rupees. Also vows to boost government employee salaries in next budget and improve Nuwara Eliya tourism.
+
+🟩
+
+President Anura Kumara Dissanayake has promised to take steps to get a fair salary increase for plantation workers.
+
+He made this promise while addressing the election campaign meeting in Nuwara Eliya on Sunday (03).
+
+'The plantation workers cheated during the presidential election. The former president said that plantation workers will be paid a salary of Rs 1,700 to the May Day meeting.. But still not paid that pay hike. He has gone home.
+
+We will definitely take steps to get the plantation workers a reasonable salary hike. Similarly, government employees will be paid a salary increase in the next budget.
+
+People cannot rely on government relief. We will create an economic situation so that people will stand up.
+
+Those who frequented the people of Nuwara Eliya during the presidential election are now paralyzed in Colombo. That is their politics. But we will stand on the field for the people forever. We will carry out the politics of the people
+
+...
+
+[Data](articles/3a524c94.json)
+
+[Extended Data](ext_articles/3a524c94.ext.json)
+
+---
 
 ### The President's Special Notice of the President
 
@@ -53,6 +91,60 @@ The President added that if the existing government had money to increase the sa
 [Data](articles/f872ac48.json)
 
 [Extended Data](ext_articles/f872ac48.ext.json)
+
+---
+
+### The security of religious standards have not been removed
+
+*2024-11-03 17:45:28* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-ස්ථාවලට-ලබාදී-තිබූ-ආරක්ෂාව-ඉවත්-කර-නෑ/11-412824) · `si`
+
+Security measures for religious sites maintained: Defense Ministry official confirms no removal of protection for armed forces and civil defense units stationed at places of worship.
+
+🟩
+
+Defense Ministry's Secretary of Defense said that the security of the Armed Forces and Civil Defense Force provided to religious places have not been removed. B. B. Nalin Herath said. He said this addressing a media briefing in Colombo.
+
+◼️
+
+[Data](articles/95fc3334.json)
+
+[Extended Data](ext_articles/95fc3334.ext.json)
+
+---
+
+### சிங்களமயமாக்கலுக்கு மெளனம்; தமிழ்ப் பிரதிநிதித்துவத்துக்கு கூச்சல்!
+
+*2024-11-03 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197807) · `ta`
+
+Sinhala dominance in Nuwara Eliya: Tamil voters' concerns about representation and administrative control.
+
+🟩
+
+47 வருட பாராளுமன்ற உறுப்புரிமையும் கபினட் அமைச்சு பதவிகளையும் தொடர்ச்சியாக கொண்டிருக்கும் நுவரெலியா மாவட்டத்தில் அதிகமாக இருப்பதே தமிழ் வாக்காளர்கள். But in all the state administration of the region, why are the people and politicians to control the Sinhalese officials.
+
+◼️
+
+[Data](articles/134d38e5.json)
+
+[Extended Data](ext_articles/134d38e5.ext.json)
+
+---
+
+### Georgia - towards a color revolution ...?
+
+*2024-11-03 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197806) · `ta`
+
+Georgia's general election raises concerns about potential color revolution due to its pro-Russian stance, drawing international scrutiny.
+
+🟩
+
+The ongoing Georgian general election attracted the attention of the world. Georgian's current ruling party, Georgia, which shares the border with Russia, is being viewed by the West as a Russian -backed party.
+
+◼️
+
+[Data](articles/22d55667.json)
+
+[Extended Data](ext_articles/22d55667.ext.json)
 
 ---
 
@@ -84,6 +176,134 @@ Further investigations have been launched on the basis of reports that the pasto
 
 ---
 
+### Need "unrelenting" voters
+
+*2024-11-03 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197804) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Muslims reject promises from Muslim leaders and politicians. They prefer direct democracy over representative governance. This shift challenges traditional political structures and power dynamics.
+
+🟩
+
+Unfortunately Muslims do not listen to the promises of Muslim leaders and MPs to fulfill or anti -social politics.. மாறாக, அவர்களையே திரும்பத் திரும்ப தெரிவு செய்தது.
+
+◼️
+
+[Data](articles/6565ee83.json)
+
+[Extended Data](ext_articles/6565ee83.ext.json)
+
+---
+
+### Caps remanded
+
+*2024-11-03 17:37:01* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්තැන්නේ-කපුවා-රිමාන්ඩ්/11-412823) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Arrests made in Teldeniya: Bureau of Teliathenathendendentelali detained by Teliathenthentarali. Pigeon reserved for Gamini Ananda. Casualties reported. ICC investigation ongoing. Police investigating de-bespective and nephew. Vehicle registration issue. OIC Chief Inspector General Roshan Amarasinghe leading further inquiries.
+
+🟩
+
+The Bureau of the Teliathenathendendentelali, who was arrested by the Teliathenthentarali, was arrested by the Teliathentheltidadurain in the Teldeniya area in the Teldeniya area in a housing complex.
+
+Reserved was the pigeon of Gamini Ananda (59) of Gamini Ananda (59).
+
+The casualties were produced before the casualties of casualties against him.
+
+According to information received by the Teldeniya Division Criminal Investigation Bureau, the ICC of ICC. They were arrested by a fast-plate named in a housing complex in a housing complex.
+
+However, the police have made it possible that the de-bespective of the de-bespective and his nephew.
+
+The vehicle says that the vehicle is not registered in the Commissioner of Directors.
+
+The OIC Chief Inspector General of Police Chief Inspector General Inspector Roshan Amarasinghe is conducting further investigations.
+
+◼️
+
+[Data](articles/1fac1f86.json)
+
+[Extended Data](ext_articles/1fac1f86.ext.json)
+
+---
+
+### அமெரிக்க ஜனாதிபதி தேர்தல் 2024
+
+*2024-11-03 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197801) · `ta`
+
+வெல்வது யார்? ட்ரம்ப் வென்றால், இன்னொரு தடவை ட்ரம்பின் ஆட்சி. கமலா வென்றால் அமெரிக்கர்களுக்கு முதலாவது பெண் ஜனாதிபதி. அவர் தமது வம்சாவளியைச் சேர்ந்தவர் என்று இந்தியர்கள் பெருமைப்பட்டுக்கொள்ளலாம்....
+
+◼️
+
+[Data](articles/11c29c2f.json)
+
+---
+
+### பிரித்தானிய அரசியல்வாதி ஜோர்ஜ் கால்லோவேவின் துணிச்சலான கூற்று
+
+*2024-11-03 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197798) · `ta`
+
+1960இல் அன்றைய எகிப்திய ஜனாதிபதி கமால் அப்துல் நாசர் எகிப்தையும் பிராந்தியத்தில் உள்ள ஏனைய முஸ்லிம் நாடுகளையும் அமெரிக்க - ஐரோப்பிய இஸ்ரேலிய மேலாதிக்கப் பிடியில் இருந்து விடுவிக்க முயன்றார். இருப்பினும் அவர்கள் தமது அரபு நாட்டு கைக்கூலிகளுடன் ஒன்றிணைந்து அவரை அழித்து அரேபியர்களின் சுதந்திரப் போராட்டத்தை நசுக்கினர்.
+
+◼️
+
+[Data](articles/a06aeecf.json)
+
+---
+
+### சாபக்கேடான வேட்பாளர்கள்
+
+*2024-11-03 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197797) · `ta`
+
+5 தசாப்தங்களாக, தமிழர்களின் புலம்பெயர்வு தொடர்ந்து கொண்டிருக்கிறது. அது தமிழர்களின் பாராளுமன்றப் பிரதிநிதித்துவத்தை வெகுவாக பாதிக்கிறது
+
+◼️
+
+[Data](articles/1b07a091.json)
+
+---
+
+### மறுக்கப்படும் பொறுப்புக்கூறல்!
+
+*2024-11-03 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197792) · `ta`
+
+34 ஆண்டுகளாக காணாமல் ஆக்கப்பட்டவர்களின் குடும்ப ஒன்றியம் ரத்தொலுவவில் நினைவுத்தூபி முன்பாக நினைவேந்தல் நடத்துகின்ற போதும், அதில் ஜே.வி.பி. பங்கெடுப்பதில்லை.
+
+◼️
+
+[Data](articles/c0b777ae.json)
+
+---
+
+### வடபகுதி மீனவா்களின் பிரச்சினைக்கு தீா்வு தராத கொழும்பு பேச்சுக்கள்!
+
+*2024-11-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197789) · `ta`
+
+வட பகுதி மக்களின் பிரதான உணவுகளில் கடலுணவுகள் முக்கிய இடம்பெறுகின்றன. வாரத்தில் மூன்று தினங்கள் கடலில் இறங்க முடியாத நிலையில் மீனவா்கள் இருப்பதால், கடலுணவுகளின் வளங்கள் குறைவடைந்து அவற்றின் விலைகளும் அதிகமாகவே உள்ளது. தற்போதைய பொருளாதார நிலையில், மக்களுக்கு இது பெரும் சுமையாகத்தான் இருக்கின்றது.
+
+◼️
+
+[Data](articles/ea5e8573.json)
+
+---
+
+### காமாலை கண்ணுக்கு காண்பதெல்லாம் மஞ்சள்!
+
+*2024-11-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197791) · `ta`
+
+இரண்டு தசாப்த வரலாற்றைக் கொண்ட தமிழ்த் தேசியக் கூட்டமைப்பு,  இன்று இல்லாமல் செய்யப்பட்டதற்கு- அதில் ஒன்றிணைந்திருந்த கட்சிகள் எல்லாவற்றுக்கும் பங்கு இருந்தாலும், தமிழரசு கட்சிக்கும் சுமந்திரனுக்கும் இருந்த பங்கு அதிகமானது
+
+◼️
+
+[Data](articles/fc22ada0.json)
+
+---
+
 ### 14 people killed in lightning
 
 *2024-11-03 17:08:16* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැර-වැදීමෙන්-පුද්ගලයන්-14-දෙනෙකු-ජීවිතක්ෂයට/11-412822) · `si`
@@ -111,6 +331,10 @@ Foreign media reports that 34 others were injured and hospitalized.
 The Ministry of Defence states that the reports claiming the removal of security provided by the Tri-Forces and the Civil Defence Force at religious places in the country are untrue.
 
 This was communicated by the media spokesman of the Ministry of Defence during a special press conference held this afternoon (03).
+
+Speaking during the press conference, the media spokesman of Sri Lanka Army Major General Rasika Kumara stated that the government has not reached any decision to reduce the number of security personnel deployed at the religious places as of yet.
+
+Furthermore, he assured that removing of tri-forces personnel from religious places is carried out only if it is confirmed that the number of security personnel required for a concerned location is less than the deployed amount, during security analysis conducted on a regular basis by the Army Headquarters.
 
 ◼️
 
@@ -2021,261 +2245,5 @@ He said that school principals should pay attention to the matter. (a)
 [Data](articles/e7a4f7e8.json)
 
 [Extended Data](ext_articles/e7a4f7e8.ext.json)
-
----
-
-### Israel again attacks on Lebanon: 52 killed
-
-*2024-11-03 01:01:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/லெபனான்-மீது-இஸ்ரேல்-மீண்டும்-தாக்குதல்-52-பேர்-பலி/50-346465) · `ta`
-
-Israel attacks Lebanon: 52 killed in airstrike. Targets Hezbollah. Strikes Gaza too. International pressure for ceasefire.
-
-🟩
-
-52 people were killed in an Air attack on Friday in the agricultural villages of North Lebanon, Lebanon Health Minister said.
-
-The villages were bombed as a continuation of Israel's airstrikes against the terrorist group Hizbullah, a terrorist group in Lebanon.
-
-Meanwhile, medical officials said that Palestinians had recovered the bodies of 25 people killed in an Israeli air strike in Central Gaza on Thursday.
-
-Israeli warplanes bombed various buildings in Tahieq, a suburb of southern Beirut.. However, there is no information on the casualties as most people have left.
-
-Israeli is expanding its attack on the Hizbullah extremist group as international countries, including the US, are pressing the ceasefire in Gaza and Lebanon.. At the same time, Israel is waging a long battle against the Hamas in Northern Gaza. (A)
-
-◼️
-
-[Data](articles/2f36795f.json)
-
-[Extended Data](ext_articles/2f36795f.ext.json)
-
----
-
-### SLCBC completes successful trade and investment mission to Canada
-
-*2024-11-03 00:56:00* · [`islandlk`](http://island.lk/slcbc-completes-successful-trade-and-investment-mission-to-canada/) · `en`
-
-The Sri Lanka-Canada Business Council (SLCBC) of the Ceylon Chamber of Commerce has successfully concluded a nine-member trade and investment mission to Canada, which took place from Oct 14 to 22.
-
-Led by SLCBC President Priyantha Chandrasekara, the mission aimed to strengthen bilateral ties and explore opportunities across key sectors, including education, agriculture, and technology.
-
-Before embarking on the mission, the delegation met with Prime Minister Dr. Harini Amarasuriya to discuss the initiative’s objectives and anticipated impacts, underscoring its importance at the highest levels of government.
-
-A key highlight of the trip was the Sri Lanka-Canada Business Forum, held on Oct 15, which featured Kula Sellathurai, President of the Canada Sri Lanka Business Convention (CSBC), as the keynote speaker. The forum showcased strategic advantages for trade and investment, highlighting projects such as the Colombo Port City and the Industrial Processing Zone in Kankesanthurai.
-
-...
-
-[Data](articles/7abe43fd.json)
-
-[Extended Data](ext_articles/7abe43fd.ext.json)
-
----
-
-### New Anthoney’s Group achieves ISO 22000:2018 Certification for feed business
-
-*2024-11-03 00:48:00* · [`islandlk`](http://island.lk/new-anthoneys-group-achieves-iso-220002018-certification-for-feed-business/) · `en`
-
-New Anthoney’s Group last week announced that its feeds division has been awarded the prestigious ISO 22000:2018 certification. This recognition underscores the company’s commitment to providing high-quality, safe, and sustainable feed solutions to meet the growing demands of Sri Lanka’s poultry industry.
-
-A press release said: The certification marks a significant milestone for New Anthoney’s Feeds, ensuring that its products enhance poultry nutrition while promoting eco-friendly farming practices. This achievement follows the group’s strategic acquisition in 2022 of Gold Coin Feed Mills (Lanka) Ltd., a well-respected feed producer, further integrating its vertically aligned poultry operations.
-
-...
-
-[Data](articles/32cff20e.json)
-
-[Extended Data](ext_articles/32cff20e.ext.json)
-
----
-
-### Com Bank launches ‘H2H’ services for corporates
-
-*2024-11-03 00:47:00* · [`islandlk`](http://island.lk/com-bank-launches-h2h-services-for-corporates/) · `en`
-
-The Commercial Bank of Ceylon has introduced Host-to-Host (H2H) payment services for corporate clients, expanding its ComBank Digital Enterprise Solutions—a comprehensive suite designed for SMEs and corporates.
-
-The H2H service provides an automated and secure connection directly with corporate clients’ Enterprise Resource Planning (ERP) systems, facilitating seamless electronic data transfers between banks and businesses. This innovative solution eliminates manual processes in payment transfers and reconciliations, enhancing transaction management efficiency.
-
-Corporate clients can generate and transfer files in standard formats like XML or CSV through a secure channel linked to the Bank’s H2H platform. It supports various ERP systems, including SAP and Microsoft Dynamics.
-
-...
-
-[Data](articles/cf104c75.json)
-
-[Extended Data](ext_articles/cf104c75.ext.json)
-
----
-
-### CBL secures BRCGS AA+ Certification and Global Excellence Award
-
-*2024-11-03 00:45:00* · [`islandlk`](http://island.lk/cbl-secures-brcgs-aa-certification-and-global-excellence-award/) · `en`
-
-Ceylon Biscuits Limited (CBL), renowned for its flagship brand Munchee, has secured the prestigious BRCGS AA+ certification for the second consecutive year. Additionally, CBL has been honored with the Global Performance Excellence Award (GPEA) ‘World Class’ status, further solidifying its reputation in the food manufacturing sector.
-
-Nalin Karunaratne, Director/CEO of CBL said: “These recognitions reflect our commitment to excellence and innovation, ensuring high-quality products for our consumers while adhering to world-class standards in safety and sustainability.”
-
-Shea Wickramasinghe, Group Managing Director, emphasized the team’s dedication to exceeding global standards, saying, “These achievements highlight our commitment to quality and strengthen our resolve to deliver the best to our consumers worldwide.”
-
-...
-
-[Data](articles/709cbdb1.json)
-
-[Extended Data](ext_articles/709cbdb1.ext.json)
-
----
-
-### Dilmah Conservation Brings Together Seven Experts to Share Knowledge at “Elephant Knowledge Walk” Centre, Udawalawe
-
-*2024-11-03 00:39:00* · [`islandlk`](http://island.lk/dilmah-conservation-brings-together-seven-experts-to-share-knowledge-at-elephant-knowledge-walk-centre-udawalawe/) · `en`
-
-UoM’s Town and Country Planning Students Gain Insight into Human-Elephant Conflict
-
-In October 2024, third-year students from the University of Moratuwa’s Department of Town and Country Planning embarked on an immersive learning experience at the Elephant Knowledge Walk Centre in Udawalawe, hosted by Dilmah Conservation, a Dilmah news release said.
-
-“This unique session aimed to broaden students’ perspectives on human-elephant conflict (HEC), elephant conservation, and land-use strategies, by bringing together seven leading experts who shared deep insights into innovative approaches for tackling a persistent challenge that has impacted Sri Lanka for over 70 years,” it said.
-
-...
-
-[Data](articles/42765680.json)
-
-[Extended Data](ext_articles/42765680.ext.json)
-
----
-
-### Emissions certification two years running
-
-*2024-11-03 00:37:00* · [`islandlk`](http://island.lk/emissions-certification-two-years-running/) · `en`
-
-AIA Sri Lanka last week announced the renewal of its ISO 14064-1:2018 Greenhouse Gas Emissions certification for the second consecutive year, reaffirming its steadfast commitment to sustainability and environmental leadership in Sri Lanka’s insurance industry.
-
-“This globally respected certification reflects AIA’s dedication to reducing its carbon footprint and greenhouse gas emissions, adhering to the highest international standards and rigorous qualification processes,” an AIA news release said.
-
-“AIA Insurance has once again demonstrated its capability to measure and mitigate greenhouse gas emissions, driving comprehensive engagement across the organisation. The company has continued to implement a variety of initiatives, including the adoption of paperless services, energy-efficient lighting and equipment and the use of renewable energy sources.”
-
-...
-
-[Data](articles/1cf54f1e.json)
-
-[Extended Data](ext_articles/1cf54f1e.ext.json)
-
----
-
-### HNB Assurance Celebrates Customer Service Week with a Commitment to Go Above and Beyond
-
-*2024-11-03 00:35:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-customer-service-week-with-a-commitment-to-go-above-and-beyond/) · `en`
-
-HNB Assurance celebrated Customer Service Week 2024 with a series of events that spanned from October 7th to 11th, celebrating the dedication and service of its customer-facing teams. This year’s theme, Above and Beyond, perfectly captured the essence of HNB Assurance’s commitment to exceeding customer expectations and reinforcing its customer-centric approach.
-
-Throughout the week, the company organized interactive activities, workshops and appreciation events, all aimed at recognizing and empowering those who are at the frontlines of servicing policyholders. The celebrations highlighted the pivotal role that the customer experience plays in delivering on HNB Assurance’s promise of protection and care to its valued customers.
-
-...
-
-[Data](articles/895bd301.json)
-
-[Extended Data](ext_articles/895bd301.ext.json)
-
----
-
-### Cargills Bank empowers Teenagers with the “Smart Teens” Savings Account
-
-*2024-11-03 00:34:00* · [`islandlk`](http://island.lk/cargills-bank-empowers-teenagers-with-the-smart-teens-savings-account/) · `en`
-
-Cargills Bank recently unveiled its “Smart Teens” Savings Account, designed exclusively for teenagers between 13 and 17 years of age. This innovative account aims to promote financial literacy, savings habits and financial responsibility among teenagers, offering them a structured environment in which they can cultivate responsible cash management habits. “Smart Teens” also gives teenagers an opportunity to start their financial journeys early, while making them equipped with the tools needed for a secure financial future. Featuring special, attractive interest rates and exclusive benefits, “Smart Teens” serves as a stepping stone for teenagers, encouraging them to take ownership of their finances.
-
-...
-
-[Data](articles/7fedb60f.json)
-
-[Extended Data](ext_articles/7fedb60f.ext.json)
-
----
-
-### Warning to 8 districts
-
-*2024-11-03 00:09:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-மாவட்டங்களுக்கு-விடுக்கப்பட்டது-எச்சரிக்கை/175-346464) · `ta`
-
-Rainy weather alert: 5 districts (Kalutara, Kandy, Kegalle, Matara, Ratnapura) under landslide warning; 3 districts (Badulla, Galle, Kurunegala) under building stability warning.
-
-🟩
-
-Due to the prevailing rainy weather, the country's 8 districts have been warned.
-
-Accordingly, the 2nd level warning of landslides has been issued in the districts of Kalutara, Kandy, Kegalle, Matara and Ratnapura.
-
-The National Building Research Institute has announced that the first level warning has been issued in Badulla, Galle and Kurunegala districts.. Remble
-
-◼️
-
-[Data](articles/58a74b36.json)
-
-[Extended Data](ext_articles/58a74b36.ext.json)
-
----
-
-### 2024-11-02 (Saturday)
-
-### Prospect Of Trump Return Has Unnerved The Washington Swamp & Colluding Media: Part II
-
-*2024-11-02 22:59:47* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/prospect-of-trump-return-has-unnerved-the-washington-swamp-colluding-media-part-ii/) · `en`
-
-My initial contribution on the above subject was on 8 February 2024 at the time President Joe Biden was expected to be the Democratic Party nominee for the presidency against former President Donald Trump the Republican Party nominee.
-
-A sequel to this subject has become necessary after Biden was compelled/pressurized to drop out of the race on 21 July 2024 after his disastrous performance at the debate with Trump on 27 June 2024 which led to Vice President Kamala Harris becoming the succeeding candidate under questionable circumstances. It is misleading to state it was a voluntary decision by Biden.
-
-It is clear from what follows below that it is a SHAM for the Democratic Party now led by Kamala Harris to pretend that the Party is the standard-bearer of DEMOCRACY in the United States. Its leadership which is part of this charade include holier-than-thou persons such as  Obama, Clintons, Pelosi and Chuck Schumer:
-
-...
-
-[Data](articles/18eb9c1a.json)
-
-[Extended Data](ext_articles/18eb9c1a.ext.json)
-
----
-
-### Red light from Station Masters
-
-*2024-11-02 22:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202849) · `si`
-
-Railway Masters Association threatens strike over unresolved demands. Chairman Sumantha Somaratne thanks Minister for support. Minister Vijitha Herath urges patience, saying unions should wait for new government.
-
-🟩
-
-The Railway Masters Association (OICs) says that it has been decided to take action to provide proper solutions for their demands.
-
-However, the Association said that through his trade union action would not cause passengers to take place.
-
-Speaking at a media briefing held in this regard today, the Chairman of the Railways Sumantha Somaratne said that he thanked the Minister in charge of his trade union action.
-
-Sumantha Sumanthathne, Chairman of the Association Summit, Sumanaratne said,
-
-"We enjoyed the minister yesterday that the Railway Stations had been unfair to solve their time or focus on this busy moment on this busy meeting. The General Manager, appoint committees. It is good to appoint committees. Our participation has no participation of issues. The officers of the Department will not be hesitant to a professional campaign not to be difficult by the General Manager of the Ministry on Monday.
-
-Meanwhile, Minister Vijitha Herath, who spoke regarding the Station Masters' strike,
-
-...
-
-[Data](articles/249a39bd.json)
-
-[Extended Data](ext_articles/249a39bd.ext.json)
-
----
-
-### Six including foreigner arrested over Arugam Bay security threat
-
-*2024-11-02 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103110/six-including-foreigner-arrested-over-arugam-bay-security-threat) · `en`
-
-Sri Lanka’s Public Security Minister Vijitha Herath says that six individuals who allegedly acted in a manner that posed a threat to national security and the safety of tourists have been arrested, and that investigations are being carried out.
-
-A foreign national is also among the arrestees, the minister revealed.
-
-He stated that the suspects have been arrested in connection with the intelligence information received indicating a potential attack in the Arugam Bay area, as well as incidents involving the photographing of major financial sites in Colombo.
-
-Minister Herath noted that they immediately acted upon receiving information about a potential danger to foreign tourists to safeguard their safety and ensure national security.
-
-“The opposition was waiting to take advantage of this issue. That is the truth,” he charged.
-
-...
-
-[Data](articles/d096d679.json)
-
-[Extended Data](ext_articles/d096d679.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 22:57:45**
+As of **2024-11-03 23:24:35**
 
 ## Newspaper Stats
 
-*Scraped **52,848** Articles*
+*Scraped **52,850** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,927
-adaderanalk | 6,282
-tamilmirrorlk | 7,337
+adaderanalk | 6,283
+tamilmirrorlk | 7,338
 virakesarilk | 8,541
 adaderanasinhalalk | 9,210
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,848 (100.0%) of 52,848 articles have been extended.
+52,850 (100.0%) of 52,850 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,52 @@ Prior to India, Russia, Iran and North Korea were included in this list.
 [Data](articles/4af07031.json)
 
 [Extended Data](ext_articles/4af07031.ext.json)
+
+---
+
+### President reveals plans to increase public employees’ salaries through upcoming budget
+
+*2024-11-03 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103129/president-reveals-plans-to-increase-public-employees-salaries-through-upcoming-budget) · `en`
+
+President Anura Kumara Dissanayake emphasized that the National People’s Power (NPP) must consolidate its current political authority to bring about the changes that the public desires within the country’s political landscape.
+
+Speaking at a rally in Nuwara Eliya today (03), President Dissanayake stated that Nuwara Eliya is a significant district in the upcoming general election.
+
+“Historically, politics in our country has not focused on uniting the Sinhala, Tamil, and Muslim communities. Instead, political parties have often represented specific ethnic groups, with Tamil parties for Tamil people and Sinhala parties for Sinhala people. As a result, residents of Nuwara Eliya have long lived divided rather than united.”
+
+“For the first time, however, a political movement is aiming to bring together all communities within Nuwara Eliya district”, Dissanayake said.
+
+...
+
+[Data](articles/c466caf9.json)
+
+[Extended Data](ext_articles/c466caf9.ext.json)
+
+---
+
+### The reason for the rice crisis was released
+
+*2024-11-03 22:15:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-நெருக்கடிக்கான-காரணம்-வெளியானது/175-346507) · `ta`
+
+Rice crisis blamed on former govt and mill owners. Former Agriculture Director KP Gunaratne says last govt responsible. Rice mill owner Dudley Sirisena accuses five major mill owners of causing shortages. President Anura Kumara Dissanayake ordered mills to sell at controlled prices but market remained unstable.
+
+🟩
+
+Former Agriculture Director KP Gunaratne said that the last government is responsible for the rice crisis in the market, the owner of a massive rice mill owner Dudley Sirisena said.
+
+டட்லி சிறிசேன உள்ளிட்ட ஐந்து பாரிய அரிசி ஆலை உரிமையாளர்க​ளே இந்த அரிசி நெருக்கடியை அவ்வப்போது ஏற்படுத்தி வருவதாக அவர் இன்று (03) குற்றம்சாட்டினார்.
+
+In the past, rice has been sold beyond the market control prices and has been scarce for certain types of rice.
+
+Accordingly, President Anura Kumara Dissanayake summoned massive rice manufacturers on October 24 to sell rice at a control price and agreed.
+
+ஆனால் சந்தையில் அரிசி தட்டுப்பாடு நீங்கவில்லை எனவும், அரிசி கட்டுப்பாட்டு விலைக்கு விற்கப்படுவதில்லை என்றும் வியாபாரிகள் மற்றும் நுகர்வோர் குற்றம் சாட்டுகின்றனர். Remble
+
+◼️
+
+[Data](articles/b1e56b7c.json)
+
+[Extended Data](ext_articles/b1e56b7c.ext.json)
 
 ---
 
@@ -2329,45 +2375,5 @@ He added that door-to-door ballot distribution will continue until November 7. I
 [Data](articles/dcdf2fa2.json)
 
 [Extended Data](ext_articles/dcdf2fa2.ext.json)
-
----
-
-### EC announces special voting leave for public and private sector employees
-
-*2024-11-03 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103113/ec-announces-special-voting-leave-for-public-and-private-sector-employees) · `en`
-
-The Election Commission has announced provisions for granting leave to public and private sector employees during the upcoming parliamentary elections, allowing them to vote without a reduction in salaries or use of personal leave.
-
-As outlined in paragraph 12.3 of Chapter XII of the Establishments Code under “Special Leave of Public Officers,” public sector employees are entitled to a minimum of 4 hours of leave to vote, with special leave granted for the required time without any salary deduction.
-
-The Election Commission stated that a similar system has been arranged for private sector employees, in collaboration with the Human Rights Commission of Sri Lanka (HRCSL), ensuring voting access without salary or leave reduction.
-
-For private sector employees, the following leave provisions apply based on distance from the workplace to the polling station:
-
-...
-
-[Data](articles/4eee7a86.json)
-
-[Extended Data](ext_articles/4eee7a86.ext.json)
-
----
-
-### නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීමේ විශේෂ දිනය අද
-
-*2024-11-03 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202852) · `si`
-
-Official vote distribution today: Postal Department distributes ballots from 8 AM to 6 PM. 8,000 postal workers assist at 2,090 post offices. If not received, visit post office to verify identity and obtain ballot paper.
-
-🟩
-
-The post of Postal Department (03) has been viewed as a special day to distribute official votes in the 2024 general election.
-
-Deputy Post Master General Rajitha Ranasinghe said that the distribution of official votes will be conducted from 8am to 6 pm.
-
-...
-
-[Data](articles/20989174.json)
-
-[Extended Data](ext_articles/20989174.ext.json)
 
 ---

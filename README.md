@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 23:40:25**
+As of **2024-11-03 23:59:40**
 
 ## Newspaper Stats
 
-*Scraped **52,850** Articles*
+*Scraped **52,853** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 415
 colombotelegraphcom | 538
 bbccomsinhala | 541
 islandlk | 3,157
-economynextcom | 3,200
+economynextcom | 3,203
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,927
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,850 (100.0%) of 52,850 articles have been extended.
+52,853 (100.0%) of 52,853 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -395,6 +395,28 @@ Renowned Professor Chandima Wijebandara, a distinguished academic and researcher
 [Data](articles/e47ad581.json)
 
 [Extended Data](ext_articles/e47ad581.ext.json)
+
+---
+
+### Sri Lanka’s Lawyers Collective concerned over attempts to retain anti-terror law
+
+*2024-11-03 18:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-lawyers-collective-concerned-over-attempts-to-retain-anti-terror-law-185971/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Lawyers Collective, has expressed concern that recent statements seem to indicate that the new administration may continue with the Prevention of Terrorism Act, which the grouping says led to arbitrary detentions and torture of suspects.
+
+“The Lawyers’ Collective expresses its grave concern regarding statements indicating that the PTA will be retained,” the group said in a statement.
+
+“The PTA, enacted in 1979, is well known as a draconian piece of legislation with broad emergency-like executive powers, but enacted for use in ordinary times as well.
+
+“The provisions and scheme of the PTA fail to protect fundamental rights such as freedom from arbitrary arrest, freedom from torture and freedom of expression.
+
+“The PTA, as implemented by successive governments since its enactment, has caused unmeasurable human suffering in the form of torture, long-term detentions and instilling fear in minorities and those critiquing the government.
+
+...
+
+[Data](articles/ab63241d.json)
+
+[Extended Data](ext_articles/ab63241d.ext.json)
 
 ---
 
@@ -1458,6 +1480,30 @@ The New Zealand team won the three Test matches between the two Test matches.
 
 ---
 
+### Sri Lanka DFCC looks for investor after Acuity divestment deal fails
+
+*2024-11-03 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-dfcc-looks-for-investor-after-acuity-divestment-deal-fails-185953/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc is looking for an investor to sell its 50 percent in Acuity Partners after its deal for the sale did not go through as announced earlier.
+
+In September, the DFCC announced it would sell its 50 percent stake in Acuity Partners (Pvt) Ltd to Hatton National Bank Plc for 7 billion rupees.
+
+Acuity Partners (Pvt) Ltd is a joint venture between DFCC Bank and Hatton National Bank.
+
+“Further to the announcement dated 2 September 2024…, DFCC now wishes to announce that it is no longer proceeding with the transaction,” DFCC said in a disclosure to the Colombo Stock Exchange on Friday (01).
+
+“Accordingly,  Acuity Partners (Pvt) Ltd will continue to operate as a joint venture of DFCC Bank PLC and Hatton National Bank PLC.”
+
+“DFCC remains open for negotiations and will continue to actively seek avenues to divest their holding.” (Colombo/November 03/2024)
+
+◼️
+
+[Data](articles/85aeb4ee.json)
+
+[Extended Data](ext_articles/85aeb4ee.ext.json)
+
+---
+
 ### Scholarship Answer sheet of scholarship answers.
 
 *2024-11-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202859) · `si`
@@ -2317,63 +2363,5 @@ However, for this, employees must submit the appropriate holiday request to the 
 [Data](articles/269e6b8f.json)
 
 [Extended Data](ext_articles/269e6b8f.ext.json)
-
----
-
-### මෙහෙම ගියොත් KDU බස් එක වගේ වෙයි -  රනිල්
-
-*2024-11-03 08:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202853) · `si`
-
-Here's a 200-character summary:
-
-
-
-Former President Ranil Wickremesinghe suggests appointing politically experienced individuals as parliamentary representatives. He criticizes current politicians, calling them inexperienced. Wickremesinghe advocates for a new team of experienced leaders to address Sri Lanka's challenges.
-
-🟩
-
-Former President Ranil Wickremesinghe says that persons with political experience should be appointed as parliamentary representatives in the general election.
-
-Addressing a meeting held in Colombo, Ranil Wickremesinghe added that if the country would be crisis.
-
-Q: Former President looks at a movie to Friday?
-
-"දැන් ඉතින් ඕනේ දවස බලන්න පුළුවන් නේ.. No problem. "
-
-"Yes now there's no freedom. So at the time, so when he looked for about two ways. "
-
-Q. Who is 3 idiots?Show this in Sri Lanka, and who shows 3 idiots?Who is 3 idiots?
-
-"දන්නේ නෑ කවුද තේරුවේ කියලා. Normally this is a joke film. Now you think 3 idiots?I don't like that, that's why. "
-
-ප්‍රශ්නය - බැරි වෙලාවත් මේ පාර්ලිමේන්තු මැතිවරණය ඉවරවෙලා පාර්ලිමේන්තුවට පත් වුණ මන්ත්‍රීවරයෙක් කීවොත් එහෙම මම ඉල්ලා අස්වෙලා ඔබතුමාට දෙනවා කියාල. Is you coming anyway?
-
-ප්‍රශ්නය - ඒ කියන්නේ ඔබතුමා පාර්ලිමේන්තු යන එක සියදිවි නාසාගැනීමක් ලෙස ද සලකන්නේ ?
-
-...
-
-[Data](articles/6d627df6.json)
-
-[Extended Data](ext_articles/6d627df6.ext.json)
-
----
-
-### Today designated as special day for distribution of official ballot papers
-
-*2024-11-03 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103114/today-designated-as-special-day-for-distribution-of-official-ballot-papers) · `en`
-
-The Department of Posts announced that today (03) is designated a special day for distributing official ballot papers for the 2024 General Election.
-
-Deputy Postmaster General Rajitha Ranasinghe stated that ballot paper distribution will take place from 8 a.m. to 6 p.m. today.
-
-“The distribution of official ballot papers for the 2024 general election is underway through the postal system. Today has been designated as a special day for this purpose. From 8 a.m. to 6 p.m., 8,000 distribution staff, in collaboration with 2,090 post offices, are dedicated to delivering official ballot papers only,” he said.
-
-He added that door-to-door ballot distribution will continue until November 7. If anyone has not received their ballot by then, they may visit the post office, verify their identity, and obtain their ballot from the postmaster during office hours.
-
-◼️
-
-[Data](articles/dcdf2fa2.json)
-
-[Extended Data](ext_articles/dcdf2fa2.ext.json)
 
 ---

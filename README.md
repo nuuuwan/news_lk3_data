@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 13:40:22**
+As of **2024-11-03 13:59:28**
 
 ## Newspaper Stats
 
-*Scraped **52,775** Articles*
+*Scraped **52,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,915
 adaderanalk | 6,273
-tamilmirrorlk | 7,328
+tamilmirrorlk | 7,329
 virakesarilk | 8,511
-adaderanasinhalalk | 9,199
+adaderanasinhalalk | 9,200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,775 (100.0%) of 52,775 articles have been extended.
+52,777 (100.0%) of 52,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Lohan Ratwatta has been replaced
+
+*2024-11-03 13:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-மாற்றப்பட்டார்/175-346487) · `ta`
+
+Former Sri Lankan minister Lohan Ratwatta hospitalized after arrest for illegal luxury car modifications.
+
+🟩
+
+Former Minister of State Lohan Ratwatta has been admitted to the Colombo National Hospital on charges of using a luxury car illegally fitted with components.
+
+சிறைச்சாலை அதிகாரிகளின் பாதுகாப்பில் முன்னாள் இராஜாங்க அமைச்சர் தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக தகவல்கள் தெரிவிக்கின்றன.
+
+He was arrested at his residence in Katugastota, Kandy on the 31st of this month and was presented in the presence of the Additional Magistrate of Nugegoda that night.
+
+சிறையில் இருந்தபோது ஏற்பட்ட திடீர் சுகவீனம் காரணமாக சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/811ef932.json)
+
+[Extended Data](ext_articles/811ef932.ext.json)
+
+---
 
 ### Delay in Grade 5 Scholarship exam evaluations could impact future exams, CTU warns
 
@@ -79,6 +103,34 @@ The New Zealand team won the three Test matches between the two Test matches.
 [Data](articles/5f8f5cd8.json)
 
 [Extended Data](ext_articles/5f8f5cd8.ext.json)
+
+---
+
+### Scholarship Answer sheet of scholarship answers.
+
+*2024-11-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202859) · `si`
+
+Ceylon Teachers Union opposes ineffective evaluation methods. President Priyantha Fernando urges education officials to address concerns. Thilaka Jayasundara questions delays. Fundamental rights petitions filed in Supreme Court regarding Grade 5 scholarship. Ministry of Education Secretary requests court intervention.
+
+🟩
+
+The Ceylon Teachers Union states that the assessment work will be effective if the evaluation activities will not be effective.
+
+එහි සභාපති ප්‍රියන්ත ප්‍රනාන්දු මහතා සඳහන් කළේ අධ්‍යාපන බලධාරීන් කඩිනමින් ඒ පිළිබඳව අවධානය යොමු කර ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම් කටයුතු ආරම්භ කළ යුතු බවය.
+
+Priyantha Fernando said that the delay would be affected by delaying the evaluation.
+
+Thilaka Jayasundara inquired about the matter.
+
+She said that the fundamental rights petitions have been filed in the Supreme Court regarding the Grade 5 scholarship have been filed.
+
+However, the Secretary of the Ministry of Education stated that a request has been made to the court.
+
+◼️
+
+[Data](articles/1375216e.json)
+
+[Extended Data](ext_articles/1375216e.ext.json)
 
 ---
 
@@ -2345,55 +2397,5 @@ Lahiru Samarakoon and Tharindu Ratnayake took 2 wickets each and Dananjaya took 
 [Data](articles/0643579b.json)
 
 [Extended Data](ext_articles/0643579b.ext.json)
-
----
-
-### EDELWEISS launches direct flights to Sri Lanka
-
-*2024-11-02 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202833) · `si`
-
-EDELWEISS launches direct flights from Switzerland to Sri Lanka's Katunayake airport. First flight arrives with 251 tourists. Service to begin weekly flights from Zurich via Maldives in January 2024. Tourism numbers show growth in 2023 and 2024.
-
-🟩
-
-A new airline was commenced between Katunayake and Switzerland yesterday (01).
-
-The Edulyweiss airline flight came to Sri Lanka yesterday with 251 tourists.
-
-A 330 plane of the EDELWEISS WK68, which began between Swiss and Katunayake, arrived at the New Airway.
-
-The plane flying from Skirich from Zurich every Friday to Katunayake airport, to the Katunayake airport, leads to Zurich through the Maldives capital.
-
-Airport officials stated that this service is to be implemented in January next year, Airport officials.
-
-Meanwhile, 1,016,256 tourists visited Sri Lanka in the first nine months of 2023, and 1,484,808 tours were reached in 2024.
-
-In the year 2023, a total of 1,483 tourists arrived in Sri Lanka, while 1,484,808 tourists had to suffer in the first nine months of 2024.
-
-◼️
-
-[Data](articles/f93dfb5c.json)
-
-[Extended Data](ext_articles/f93dfb5c.ext.json)
-
----
-
-### The monk is plundered in the prisoner temples
-
-*2024-11-02 15:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202832) · `si`
-
-Monk robbed in temple; thieves caught tied up.
-
-🟩
-
-Two persons who arrived at the Divulapitiya Hapuwalana temple have stolen money from the temple.
-
-The suspects arrived at the temple was tied with cloths, police said.
-
-◼️
-
-[Data](articles/45d3df71.json)
-
-[Extended Data](ext_articles/45d3df71.ext.json)
 
 ---

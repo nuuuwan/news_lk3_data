@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 16:57:28**
+As of **2024-11-03 17:09:25**
 
 ## Newspaper Stats
 
-*Scraped **52,808** Articles*
+*Scraped **52,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,918
 adaderanalk | 6,277
-tamilmirrorlk | 7,333
+tamilmirrorlk | 7,334
 virakesarilk | 8,527
 adaderanasinhalalk | 9,204
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,808 (100.0%) of 52,808 articles have been extended.
+52,808 (100.0%) of 52,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### அஸ்வெசுமவை ஆராய 10 பேரடங்கிய குழு
+
+*2024-11-03 16:48:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவை-ஆராய-10-பேரடங்கிய-குழு/175-346500) · `ta`
+
+அஸ்வெசும நலன்புரி உதவிகள் வழங்கும் பயனாளிகளை தெரிவு செய்வதில் அநீதி இழைக்கப்பட்ட பயனாளிகள் தொடர்பில் விசாரணை நடத்துவதற்கு பொறுப்பான அமைச்சர் விஜித ஹேரத்தின் ஆலோசனையின் பேரில் குழுவொன்று நியமிக்கப்பட்டுள்ளது.
+
+பௌத்தம், மதம் மற்றும் கலாச்சார அலுவல்கள், தேசிய ஒருமைப்பாடு, சமூக பாதுகாப்பு மற்றும் ஊடக அமைச்சின் செயலாளர்  ரஞ்சித் ஆரியரத்னவினால் நியமிக்கப்பட்ட இந்தக் குழுவில் 10 பேர் உள்ளடக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a4b8c50c.json)
+
+---
 
 ### Moldovans vote in presidential runoff amid fears of meddling
 
@@ -2281,29 +2295,5 @@ Deputy Minister of Defense Vijitha Herath, Speaking in this regard,
 [Data](articles/df758ed4.json)
 
 [Extended Data](ext_articles/df758ed4.ext.json)
-
----
-
-### Special testing in homes provided to former ministers
-
-*2024-11-02 19:39:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-அமைச்சர்களுக்கு-வழங்கப்பட்ட-வீடுகளில்-விசேட-சோதனை/175-346463) · `ta`
-
-Former ministers' homes under special testing due to issues. Ministry announces incomplete process. Steps planned to inspect unprovided houses next week. Legal action against confirmed occupants.
-
-🟩
-
-The Ministry of Public Administration has announced that it is yet to be completed.
-
-It is said that some of the problems in their respective houses were responsible for this.
-
-The Ministry of Public Administration has said that steps will be taken to check the houses that are not provided next week.
-
-In those cases, the ministry said that if the former minister or his close relatives were confirmed to be staying, legal action would be taken, the ministry said that legal action would be taken.. Remble
-
-◼️
-
-[Data](articles/5b383068.json)
-
-[Extended Data](ext_articles/5b383068.ext.json)
 
 ---

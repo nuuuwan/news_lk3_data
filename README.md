@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 07:28:29**
+As of **2024-11-03 08:04:59**
 
 ## Newspaper Stats
 
-*Scraped **52,736** Articles*
+*Scraped **52,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,907
 adaderanalk | 6,264
-tamilmirrorlk | 7,317
+tamilmirrorlk | 7,319
 virakesarilk | 8,511
-adaderanasinhalalk | 9,190
+adaderanasinhalalk | 9,192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,724 (100.0%) of 52,736 articles have been extended.
+52,726 (100.0%) of 52,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### வாக்காளர் அட்டை விநியோகிக்கும் விசேட தினம் இன்று
+
+*2024-11-03 07:55:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகிக்கும்-விசேட-தினம்-இன்று/175-346468) · `ta`
+
+பொதுத்தேர்தலுக்கான உத்தியோகபூர்வ வாக்காளர் அட்டைகளை விநியோகிக்கும் விசேட தினமாக ஞாயிற்றுக்கிழமையான இன்றைய நாள் அறிவிக்கப்பட்டுள்ளது.
+
+வாக்காளர் அட்டைகளை விநியோகிக்க 2,090 தபால் அலுவலகங்கள் இன்று திறக்கப்பட்டிருக்குமென சிரேஷ்ட பிரதி தபால் மாஅதிபர் ராஜித கே ரணசிங்க தெரிவித்துள்ளார்.
+
+விநியோகப் பணிகளில் 8,000 ஊழியர்கள் ஈடுபடுத்தப்பட்டுள்ளனர். இன்று காலை 8 மணிமுதல் மாலை 6 மணி வரை  வீடுகளுக்கே வாக்காளர் அட்டைகள் விநியோகிக்கப்படவுள்ளன. (a)
+
+◼️
+
+[Data](articles/7be8c798.json)
+
+---
+
+### இன்று 100 மில்லிமீற்றர் அளவில் மழை
+
+*2024-11-03 07:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லிமீற்றர்-அளவில்-மழை/175-346467) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்று மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் தென் மாகாணங்களின் கரையோரப் பகுதிகளில் காலை வேளையிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+மேலும், ஊவா மற்றும் மத்திய மாகாணங்களில் சில இடங்களில் 100 மில்லிமீற்றர் அளவில் கனமழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/ceb5610b.json)
+
+---
+
+### රාජ්‍ය හා පෞද්ගලික අංශයට මැතිවරණයට නිවාඩු ලැබෙන්නේ මෙහෙමයි
+
+*2024-11-03 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202851) · `si`
+
+ඉදිරි පාර්ලිමේන්තු මැතිවරණයේදී රාජ්‍ය හා පෞද්ගලික අංශයේ සේවකයින්ට වැටුප් හෝ පෞද්ගලික නිවාඩු අහිමිවීමකින් තොරව ඡන්දය භාවිත කිරීමට හැකිවන පරිදි නිවාඩු ලබාදීමට අදාළ විධිවිධාන මැතිවරණ කොමිෂන් සභාව මගින් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව රාජ්‍ය අංශයේ නිලධාරීන්ගේ විශේෂ නිවාඩු පිළිබඳ ආයතන සංග්‍රහයේ 12වන පරිඡේදයේ 12/3 ඡේදයේ දක්වා ඇති පරිදි පාර්ලිමේන්තු මැතිවරණයක් සදහා අවම කාලය පැය 4ක් ලෙස ද ඡන්දය ප්‍රකාශ කිරීමට යාම පිණිස අවශ්‍ය යැයි හැඟෙන අඛණ්ඩ කාලයක් සදහා වැටුප් අඩුකිරීමකින් තොරව විශේෂ නිවාඩු ලබාදිය යුතු බව සදහන් වේ.
+
+මැතිවරණ කොමිසන් සභාව පැවසුවේ පෞද්ගලික අංශයේ සේවක සේවිකාවන්ට වැටුප් හෝ පෞද්ගලික නිවාඩු අහිමිවීමකින් තොරව ඡන්දය භාවිත කිරීම සඳහා මානව හිමිකම් කොමිෂන් සභාව විසින් සිදුකරන ලද දැනුම් දීමක් මත ක්‍රමවේදයක් සකස් කර ඇති බවය.
+
+ඒ අනුව ඡන්දය භාවිත කිරීම සඳහා සේවා ස්ථානයේ සිට තම ඡන්ද පොළට යායුතු දුර ප්‍රමාණය කිලෝමීටර් 40 හෝ ඊට අඩුනම් දින බාගයක කාලයක් ද කිලෝමීටර් 40-100ත් අතර නම් එක් දිනයක් ද අවම නිවාඩු ලබාදිය යුතු වේ.
+
+...
+
+[Data](articles/22399e2f.json)
+
+---
+
+### Showers over 100 mm
+
+*2024-11-03 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202850) · `si`
+
+Heavy rainfall warning: Showers >100mm expected in Central & Uva provinces. Thunderstorms possible nationwide. Coastal areas in Western & Southern provinces may experience showers. Public advised to take precautions against lightning risks.
+
+🟩
+
+Some places in the Central and Uva provinces today (03) mm.. Heavy rains can occur at more than 100, the Met Department said.
+
+The department announces that showers or thundershowers during the evening or night in many parts of the island.
+
+Showers will occur at the coastal areas in the Western and Southern provinces.
+
+The Meteorological Department urges the public to take necessary steps to reduce the damages caused to lightning, as at least ample risk of thunderstorms in many parts of the island.
+
+◼️
+
+[Data](articles/23ce7814.json)
+
+[Extended Data](ext_articles/23ce7814.ext.json)
+
+---
 
 ### Man for All Seasons
 
@@ -109,6 +183,8 @@ Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shi
 ...
 
 [Data](articles/91ee4331.json)
+
+[Extended Data](ext_articles/91ee4331.ext.json)
 
 ---
 
@@ -2241,87 +2317,5 @@ The Bureau of Foreign Employment has also given a series of instructions to Sri 
 [Data](articles/0a5c320c.json)
 
 [Extended Data](ext_articles/0a5c320c.ext.json)
-
----
-
-### Suspect arrested at BIA with 76kg of smuggled Cardamom from Dubai
-
-*2024-11-02 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103100/suspect-arrested-at-bia-with-76kg-of-smuggled-cardamom-from-dubai) · `en`
-
-A suspect was arrested with a large consignment of cardamom that had been illegally smuggled into Sri Lanka from Dubai, during a raid conducted by officers from the Airport Police Station at the arrival terminal of Bandaranaike International Airport (BIA) in Katunayake last night (01).
-
-According to the police, the suspect was found in possession of 76 kilograms and 300 grams of cardamom, along with eight mobile phones.
-
-The suspect is a 48-year-old resident of Colombo 12, and the Airport Police is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/021329dd.json)
-
-[Extended Data](ext_articles/021329dd.ext.json)
-
----
-
-### Doctors on Karapitiya Hospital on strike
-
-*2024-11-02 09:04:03* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ල-කරාපිටිය-රෝහලේ-වෛද්‍යවරුන්-වර්ජනයක/11-412801) · `si`
-
-Karapitiya Hospital doctors strike: 24 members protest over medical issues.
-
-🟩
-
-The doctors of the Karapitiya Teaching Hospital have launched a 24-member strike.
-
-The strike has commenced due to a medical medicine.
-
-◼️
-
-[Data](articles/cd6044c0.json)
-
-[Extended Data](ext_articles/cd6044c0.ext.json)
-
----
-
-### One arrested with a stock
-
-*2024-11-02 08:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202821) · `si`
-
-Arrest made at Bandaranaike Airport: 76kg drugs, 8 phones seized. Suspect, 48, from Colombo 12. Police investigating further.
-
-🟩
-
-A suspect has been arrested in an airport police station at the Airport police station at the Bandaranaike Airport in the Bandaranaike International Airport yesterday (1).
-
-He had found 76 kg and 300 grams and 300 grams and eight mobile phones.
-
-The suspect is a 48 year old resident of Colombo 12, and the airport police are conducting further investigations.
-
-◼️
-
-[Data](articles/eb5bd37c.json)
-
-[Extended Data](ext_articles/eb5bd37c.ext.json)
-
----
-
-### Serbian railway station roof collapse in Novi Sad leaves 14 dead
-
-*2024-11-02 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103099/serbian-railway-station-roof-collapse-in-novi-sad-leaves-14-dead) · `en`
-
-Rescue workers scoured piles of concrete and twisted metal for survivors on Friday after a roof collapsed at the entrance of a railway station in the Serbian city of Novi Sad, killing 14 people.
-
-Cranes and bulldozers helped sift through the wreckage alongside dozens of rescuers and construction workers, while medical staff and ambulances waited nearby.
-
-The collapse of a 35-metre (115-foot) length of roofing occurred at noon (1100 GMT) on a sunny day in the city about 70 km (40 miles) northwest of the capital, Belgrade.
-
-Bodies were pulled from the rubble throughout the afternoon and into evening.
-
-“Our windows were open as it was warm outside and I heard a huge rumble and saw a plume of dust, that’s all I saw. Later I heard what happened,” said Vera, an 86-year-old pensioner who lives about 200 meters (yards) away.
-
-...
-
-[Data](articles/fc7e33c8.json)
-
-[Extended Data](ext_articles/fc7e33c8.ext.json)
 
 ---

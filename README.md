@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 11:11:06**
+As of **2024-11-03 11:24:11**
 
 ## Newspaper Stats
 
-*Scraped **52,759** Articles*
+*Scraped **52,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,910
-adaderanalk | 6,270
+adaderanalk | 6,271
 tamilmirrorlk | 7,325
 virakesarilk | 8,511
 adaderanasinhalalk | 9,195
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,759 (100.0%) of 52,759 articles have been extended.
+52,759 (100.0%) of 52,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Experts’ committee appointed to review Aswesuma beneficiaries’ grievances
+
+*2024-11-03 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103117/experts-committee-appointed-to-review-aswesuma-beneficiaries-grievances-) · `en`
+
+A ten-member committee of experts has been appointed to look into injustices to any beneficiaries of the ‘Aswesuma’ social benefit programme.
+
+The appointment was communicated by the Secretary to the Ministry of Social Security today (03).
+
+◼️
+
+[Data](articles/15eb8223.json)
+
+---
 
 ### 29 Nigerian children may be sentenced to death for protesting against cost-of-living crisis
 
@@ -2353,29 +2367,5 @@ The dash camera in a car has also been rapidly driven by the bus to carry the st
 [Data](articles/2d0fc309.json)
 
 [Extended Data](ext_articles/2d0fc309.ext.json)
-
----
-
-### நாளை வாக்காளர் அட்டை விநியோக நாளாக பிரகடனம்
-
-*2024-11-02 12:54:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-வாக்காளர்-அட்டை-விநியோக-நாளாக-பிரகடனம்/175-346444) · `ta`
-
-Tomorrow, postal officials will distribute official election ballots from 8 AM to 6 PM. Ballot distribution notices will be delivered door-to-door until July 7th.
-
-🟩
-
-The Postal Department said that tomorrow (03) will be declared as a special day for distributing official ballots for the general election.
-
-Accordingly, Senior Deputy Deputy Chief Minister Rajitha Ranasinghe said that the offices that classify 2090 letters will be opened tomorrow.
-
-நாளை காலை 8 மணி முதல் மாலை 6 மணி வரை வீடு வீடாகச் சென்று உத்தியோகபூர்வ வாக்குச் சீட்டுகளை விநியோகிக்கவுள்ளனர்.
-
-உத்தியோகபூர்வ வாக்குச்சீட்டு அறிவிப்புப் பத்திரங்கள் எதிர்வரும் 07ஆம் திகதி வரை வீடு வீடாக விநியோகிக்கப்படும்.AN
-
-◼️
-
-[Data](articles/54719874.json)
-
-[Extended Data](ext_articles/54719874.ext.json)
 
 ---

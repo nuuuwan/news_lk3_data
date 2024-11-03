@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 03:24:30**
+As of **2024-11-04 03:39:59**
 
 ## Newspaper Stats
 
-*Scraped **52,871** Articles*
+*Scraped **52,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 539
 bbccomsinhala | 541
 islandlk | 3,157
 economynextcom | 3,203
-dailyftlk | 3,611
+dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,865 (100.0%) of 52,871 articles have been extended.
+52,867 (100.0%) of 52,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### SJB will form strong Opposition if not elected to power: Hirunika
+
+*2024-11-04 03:20:51* · [`dailyftlk`](https://www.ft.lk/news/SJB-will-form-strong-Opposition-if-not-elected-to-power-Hirunika/56-768800) · `en`
+
+Highlights Opposition’s role in supporting public dissent against former President Gotabaya Rajapaksa
+
+Samagi Jana Balawegaya (SJB) Colombo district candidate Hirunika Premachandra has pledged that, should the party and its alliance, the Samagi Jana Sandhanaya (SJS), fail to secure Government power at the upcoming General Election, they will create a robust and effective Opposition instead.
+
+Addressing a press conference over the weekend, Premachandra emphasised that a strong Opposition is vital for a functioning democracy, citing how the Opposition played a crucial role in supporting the public during the economic collapse and ensuing protests under former President Gotabaya Rajapaksa’s administration.
+
+...
+
+[Data](articles/f953cfc5.json)
+
+---
+
+### President outlines NPP’s inclusive vision for transformative change
+
+*2024-11-04 03:19:40* · [`dailyftlk`](https://www.ft.lk/news/President-outlines-NPP-s-inclusive-vision-for-transformative-change/56-768799) · `en`
+
+Affirms NPP will only exit power after achieving unified, reformed SL
+
+Calls NPP’s rise response to public demand for change, citing traditional power retention blocks true reform
+
+Sees the 14 Nov. General Election as essential for securing additional reform power
+
+Reveals plan to streamline governance with reduced ministerial privileges, public sector salary increases in the upcoming Budget, including special provisions for estate workers
+
+Says diplomatic posts with political appointees will be reassessed to promote clean governance
+
+President Anura Kumara Dissanayake yesterday outlined the National People’s Power (NPP) party’s inclusive vision to bring about transformative changes aligned with public demand.
+
+“We aim to leave power only once we have successfully rebuilt this nation,” Dissanayake pledged, addressing a rally in Nuwara Eliya, reinforcing the NPP’s promise to steer the country towards a more unified and inclusive political landscape.
+
+...
+
+[Data](articles/78ea29fb.json)
+
+---
 
 ### Jayantha Gallehewa elected uncontested as President-Elect of Organisation of Professional Associations
 
@@ -46,6 +86,8 @@ Gallehewa will become the 45th President of the OPA for the term 2025/2026, foll
 
 [Data](articles/8172769b.json)
 
+[Extended Data](ext_articles/8172769b.ext.json)
+
 ---
 
 ### Emotionally intelligent CFO no longer an oxymoron – they exist
@@ -59,6 +101,8 @@ The bottom line is CFOs must move beyond technical left-brain skills to develop 
 ...
 
 [Data](articles/c773c665.json)
+
+[Extended Data](ext_articles/c773c665.ext.json)
 
 ---
 
@@ -2253,47 +2297,5 @@ The Katunayake Airport Police had ordered to be remanded till 11/04/20/04.
 [Data](articles/1632931e.json)
 
 [Extended Data](ext_articles/1632931e.ext.json)
-
----
-
-### A warning to Israel and the US in Iran
-
-*2024-11-03 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202856) · `si`
-
-Iran's Ayatollah warns Israel and US: "Serious response" to attacks. Leader vows retaliation against Israeli strikes from last week. Statement made at Tehran event marking 45th anniversary of US hostage crisis.
-
-🟩
-
-Iranian spiritual leader Ayatollah Alcuyani says that the attacidations against their country will respond to a serious response.
-
-The Iranian spiritual leader has shown that the Iranian spiritual leader has to resume over Israel's attacks on the attacks on Israel last week.
-
-At a function held at Tehran's embassy in Tehran, Athullah Alcuyani stated this during a function held in parallel to the 45th Anniversary Celebration of Iranian protesters.
-
-The Iranian United States of Iranian protesters were taken into custody after the Iranian protesters including Iranian protesters, including Iranian protesters, on November 4, 1979.
-
-◼️
-
-[Data](articles/9b9f5e0a.json)
-
-[Extended Data](ext_articles/9b9f5e0a.ext.json)
-
----
-
-### Tamil and Muslim political parties have deceived the people that they are setting up - Narayanapillai Sivananda Raja
-
-*2024-11-03 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197764) · `ta`
-
-Tamil and Muslim parties deceive public about setting up something. All citizens should enjoy equal rights without dividing people or regions. Economic improvement is key before addressing ethnic issues or making decisions.
-
-🟩
-
-All citizens in the country must enjoy their rights. There is no need to divide people and provinces and do politics. The problem is not that the present people need a solution to the ethnic problem. To abolish their poverty level. It is important to improve their economic situation.. Then you can make a decision about it.
-
-◼️
-
-[Data](articles/d72b8bc9.json)
-
-[Extended Data](ext_articles/d72b8bc9.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 18:59:16**
+As of **2024-11-03 19:10:24**
 
 ## Newspaper Stats
 
@@ -26,19 +26,29 @@ adaderanasinhalalk | 9,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,823 (100.0%) of 52,830 articles have been extended.
+52,830 (100.0%) of 52,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### பேராசிரியர் சந்திம விஜேபண்டார காலமானார்
+### Professor Chandima Wijebandara passed away
 
 *2024-11-03 18:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-சந்திம-விஜேபண்டார-காலமானார்/175-346504) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Renowned Professor Chandima Wijebandara, a distinguished academic and researcher, has sadly passed away. His contributions to [specific field] were groundbreaking, inspiring generations of scholars. The academic community mourns his loss, celebrating his legacy and impact on [related areas].
+
+🟩
 
 ◼️
 
 [Data](articles/e47ad581.json)
+
+[Extended Data](ext_articles/e47ad581.ext.json)
 
 ---
 
@@ -232,75 +242,127 @@ The OIC Chief Inspector General of Police Chief Inspector General Inspector Rosh
 
 ---
 
-### அமெரிக்க ஜனாதிபதி தேர்தல் 2024
+### US Presidential Election 2024
 
 *2024-11-03 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197801) · `ta`
 
-வெல்வது யார்? ட்ரம்ப் வென்றால், இன்னொரு தடவை ட்ரம்பின் ஆட்சி. கமலா வென்றால் அமெரிக்கர்களுக்கு முதலாவது பெண் ஜனாதிபதி. அவர் தமது வம்சாவளியைச் சேர்ந்தவர் என்று இந்தியர்கள் பெருமைப்பட்டுக்கொள்ளலாம்....
+Here's a 200-character summary:
+
+
+
+US Presidential Election 2024: Trump vs Kamala. If Trump wins, another term. First female US President if Kamala prevails. Indian-American community celebrates potential historic win.
+
+🟩
+
+Who is winning?If Trump wins, another time Trump's rule. The first female president for Americans if Kamala wins. Indians can be proud of that he belongs to his descent ....
 
 ◼️
 
 [Data](articles/11c29c2f.json)
 
+[Extended Data](ext_articles/11c29c2f.ext.json)
+
 ---
 
-### பிரித்தானிய அரசியல்வாதி ஜோர்ஜ் கால்லோவேவின் துணிச்சலான கூற்று
+### The brave claim of British politician George Calloway
 
 *2024-11-03 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197798) · `ta`
 
-1960இல் அன்றைய எகிப்திய ஜனாதிபதி கமால் அப்துல் நாசர் எகிப்தையும் பிராந்தியத்தில் உள்ள ஏனைய முஸ்லிம் நாடுகளையும் அமெரிக்க - ஐரோப்பிய இஸ்ரேலிய மேலாதிக்கப் பிடியில் இருந்து விடுவிக்க முயன்றார். இருப்பினும் அவர்கள் தமது அரபு நாட்டு கைக்கூலிகளுடன் ஒன்றிணைந்து அவரை அழித்து அரேபியர்களின் சுதந்திரப் போராட்டத்தை நசுக்கினர்.
+George Calloway's claim about Egyptian President Kamal Abdul Nasser's 1960 attempt to free Egypt from Western influence was met with resistance from Arab nations and ultimately failed, crushing the Arab freedom movement.
+
+🟩
+
+In 1960, Egyptian President Kamal Abdul Nasser tried to release Egypt and other Muslim countries in the region from the US and European supremacist grip. However, they joined together with their Arab natives and destroyed him and crushed the freedom struggle of the Arabs.
 
 ◼️
 
 [Data](articles/a06aeecf.json)
 
+[Extended Data](ext_articles/a06aeecf.ext.json)
+
 ---
 
-### சாபக்கேடான வேட்பாளர்கள்
+### Curse candidates
 
 *2024-11-03 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197797) · `ta`
 
-5 தசாப்தங்களாக, தமிழர்களின் புலம்பெயர்வு தொடர்ந்து கொண்டிருக்கிறது. அது தமிழர்களின் பாராளுமன்றப் பிரதிநிதித்துவத்தை வெகுவாக பாதிக்கிறது
+Here's a 200-character summary:
+
+
+
+Tamils' decades-long migration impacts Tamil parliamentary representation.
+
+🟩
+
+For decades, the migration of Tamils ​​continues. It greatly affects the parliamentary representation of the Tamils
 
 ◼️
 
 [Data](articles/1b07a091.json)
 
+[Extended Data](ext_articles/1b07a091.ext.json)
+
 ---
 
-### மறுக்கப்படும் பொறுப்புக்கூறல்!
+### Refused accountability!
 
 *2024-11-03 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197792) · `ta`
 
-34 ஆண்டுகளாக காணாமல் ஆக்கப்பட்டவர்களின் குடும்ப ஒன்றியம் ரத்தொலுவவில் நினைவுத்தூபி முன்பாக நினைவேந்தல் நடத்துகின்ற போதும், அதில் ஜே.வி.பி. பங்கெடுப்பதில்லை.
+Here's a summary of 200 characters:
+
+
+
+JVP refuses accountability after 34 years of commemorating the Family Union at Ratholuwa Memorial, choosing not to participate.
+
+🟩
+
+Although the Family Union of the missing for 34 years, the JVP has been commemorated in front of the Ratholuwa Memorial. Not participating.
 
 ◼️
 
 [Data](articles/c0b777ae.json)
 
+[Extended Data](ext_articles/c0b777ae.ext.json)
+
 ---
 
-### வடபகுதி மீனவா்களின் பிரச்சினைக்கு தீா்வு தராத கொழும்பு பேச்சுக்கள்!
+### Colombo talk
 
 *2024-11-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197789) · `ta`
 
-வட பகுதி மக்களின் பிரதான உணவுகளில் கடலுணவுகள் முக்கிய இடம்பெறுகின்றன. வாரத்தில் மூன்று தினங்கள் கடலில் இறங்க முடியாத நிலையில் மீனவா்கள் இருப்பதால், கடலுணவுகளின் வளங்கள் குறைவடைந்து அவற்றின் விலைகளும் அதிகமாகவே உள்ளது. தற்போதைய பொருளாதார நிலையில், மக்களுக்கு இது பெரும் சுமையாகத்தான் இருக்கின்றது.
+Northern coastal communities rely heavily on seafood. Fishermen work limited hours due to economic conditions, leading to increased food costs and scarcity. This affects local residents' access to affordable nutrition.
+
+🟩
+
+The northern people are the main foods of the seas in the main dishes. Fishermen are unable to get out of sea for three days a week, and the resources of the sea are reduced and their prices are high. In the current economic situation, this is a great burden for the people.
 
 ◼️
 
 [Data](articles/ea5e8573.json)
 
+[Extended Data](ext_articles/ea5e8573.ext.json)
+
 ---
 
-### காமாலை கண்ணுக்கு காண்பதெல்லாம் மஞ்சள்!
+### Everything that looks for the eye is yellow!
 
 *2024-11-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197791) · `ta`
 
-இரண்டு தசாப்த வரலாற்றைக் கொண்ட தமிழ்த் தேசியக் கூட்டமைப்பு,  இன்று இல்லாமல் செய்யப்பட்டதற்கு- அதில் ஒன்றிணைந்திருந்த கட்சிகள் எல்லாவற்றுக்கும் பங்கு இருந்தாலும், தமிழரசு கட்சிக்கும் சுமந்திரனுக்கும் இருந்த பங்கு அதிகமானது
+Here's a 200-character summary:
+
+
+
+"TNA: A coalition of parties formed 20 years ago. Sumanthiran played a key role. Parties shared power, but TNA's influence grew."
+
+🟩
+
+The Tamil National Alliance (TNA), which has two decades of history, was united- the parties that were united in it were all share, but the role of the TNA and Sumanthiran was high.
 
 ◼️
 
 [Data](articles/fc22ada0.json)
+
+[Extended Data](ext_articles/fc22ada0.ext.json)
 
 ---
 

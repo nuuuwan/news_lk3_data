@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 14:40:38**
+As of **2024-11-03 14:59:16**
 
 ## Newspaper Stats
 
-*Scraped **52,791** Articles*
+*Scraped **52,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,155
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,915
-adaderanalk | 6,273
+adalk | 4,916
+adaderanalk | 6,274
 tamilmirrorlk | 7,329
 virakesarilk | 8,523
 adaderanasinhalalk | 9,202
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,202
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,791 (100.0%) of 52,791 articles have been extended.
+52,793 (100.0%) of 52,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Workers’ remittances decline in September 2024
+
+*2024-11-03 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103120/workers-remittances-decline-in-september-2024) · `en`
+
+The Central Bank of Sri Lanka (CBSL) says that the amount of expatriated workers’ remittances in September 2024 has slightly decreased compared to August 2024.
+
+The Sri Lankan workers’ remittances amounted to US dollars 556 million in September 2024, a slight moderation compared to US dollars 577 million in August 2024, as per the latest external sector performance report published by the CBSL.
+
+However, the report also indicated that this is notably higher in comparison to US dollars 482 million recorded in September 2023.
+
+Meanwhile, the monthly workers’ remittances have exceeded US dollars 500 million since March 2024, according to the CBSL.
+
+Against this backdrop, the earnings from tourism in September 2024 amounted to US dollars 181 million, compared to US dollars 282 million in August 2024 and US dollars 152 million in September 2023, the CBSL added.
+
+...
+
+[Data](articles/76b30265.json)
+
+[Extended Data](ext_articles/76b30265.ext.json)
+
+---
 
 ### An announcement of the weather
 
@@ -347,6 +369,30 @@ Accordingly, the Sri Lankan team is the opponent of the Sri Lankan team in the f
 [Data](articles/df164386.json)
 
 [Extended Data](ext_articles/df164386.ext.json)
+
+---
+
+### An Excise Inspector arrested for licenses arrested
+
+*2024-11-03 12:33:20* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-එතනෝල්-ප්‍රවාහනය-කළ-සුරාබදු-පරීක්ෂකවරයෙක්-අල්ලයි/11-412817) · `si`
+
+Excise Inspector arrested for distributing ethanol spirits without proper license. 135 liters seized in Moneragala. License check reveals discrepancy. Suspect identified as Wasantha Ranasinghe from Ethalese Sugar Company.
+
+🟩
+
+Ethaveli police officers attached to the distribution of Ethanol Spirits in the Ethamale Sugar Company is located on the 19th of the Wellawaya road. Has been arrested near Junction.
+
+The 135 liters of ethanol spirits were found in the Siyambalanduwa area to Moneragala.
+
+The Excise Inspector of the car has shown a license for the police. However, the license has been confirmed that the Excise Inspector General of Excise is issued on those days.
+
+After the post, Etayal Spirits and the suspect, Ethalese Sugar Company's Short Skari, Wasantha Ranasinghe (59) was arrested.
+
+◼️
+
+[Data](articles/7523fe6a.json)
+
+[Extended Data](ext_articles/7523fe6a.ext.json)
 
 ---
 
@@ -2295,53 +2341,5 @@ Prime Minister Dr. Harathin Amarasuriya and International Organization (IOM) Mis
 [Data](articles/4c7e8fdb.json)
 
 [Extended Data](ext_articles/4c7e8fdb.ext.json)
-
----
-
-### Govt to prioritize digital transformation of social welfare benefit programs
-
-*2024-11-02 17:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103107/govt-to-prioritize-digital-transformation-of-social-welfare-benefit-programs) · `en`
-
-A discussion on the digitalization of social welfare benefit programs took place at the Presidential Secretariat under the patronage of President Anura Kumara Dissanayake.
-
-The meeting held yesterday (01) emphasized the significance of digitizing the paddy storage system as a means to stabilize rice prices and address long-term solutions for the rice shortage, according to the President’s Media Division (PMD).
-
-It also focused on the digital transformation of the “Aswesuma” and social welfare programs aimed at supporting low-income families.
-
-Additionally, the group discussed plans for digitizing the relief distribution program for children from low-income families in the upcoming school term and the fertilizer subsidiary distribution.
-
-Group Chief Executive at Dialog Axiata PLC Supun Weerasinghe, Chief Technology Officer at Millennium IT ESP. Mahesh Wijenayaka and a panel of field experts were also part of this discussion.
-
-◼️
-
-[Data](articles/9e0d926b.json)
-
-[Extended Data](ext_articles/9e0d926b.ext.json)
-
----
-
-### Woman arrested for selling cannabis
-
-*2024-11-02 17:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கஞ்சாவை-என்-சியில்-கலந்து-விற்ற-பெண்-கைது/76-346448) · `ta`
-
-Mother of 3 arrested for selling cannabis in Sri Lanka. Found 1.85kg drugs. Arrested based on health ministry ban. Hidden small packets discovered during search.
-
-🟩
-
-The mother of three children who sold drugs in NC has been arrested and 1.850 kilograms of drugs have been found from the suspect.
-
-Bogawantalawa police said that the mother of three children who had been selling cannabis drugs from Pakistan to Sri Lanka was arrested at NC.
-
-A Bogawantalawa Police official said that the suspect was arrested on the basis of information received by the police that the NC, which was banned by the Ministry of Health, was selling them to young people.
-
-The official said that the suspect was from the Kottiyagala estate of Bogawantalawa and that when the woman was arrested and searched by the police, the official said that many of the small packages of NC prepared for sale were hidden.
-
-Bogawantalawa police said that after the arrest of the suspect, 1.850 kilograms of narcotics were found in the house.. Remble
-
-◼️
-
-[Data](articles/134c53d1.json)
-
-[Extended Data](ext_articles/134c53d1.ext.json)
 
 ---

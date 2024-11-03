@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 15:24:11**
+As of **2024-11-03 15:40:31**
 
 ## Newspaper Stats
 
-*Scraped **52,797** Articles*
+*Scraped **52,799** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 3,155
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,916
+adalk | 4,917
 adaderanalk | 6,275
 tamilmirrorlk | 7,330
-virakesarilk | 8,524
+virakesarilk | 8,525
 adaderanasinhalalk | 9,203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,797 (100.0%) of 52,797 articles have been extended.
+52,797 (100.0%) of 52,799 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### தேசிய மக்கள் சக்தியால் எமக்கு சாவல்கள் இல்லை - சீ.வை.பி. ராம்
+
+*2024-11-03 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197777) · `ta`
+
+அரச ஊழியர்களுக்கு போதுமானளவு சம்பளம் வழங்கினால் அரச துறைகளில் இடம்பெறும் ஊழல் மோசடிகளை கட்டுப்படுத்த முடியும். சம்பளத்தை அதிகரித்து வழங்குவதுபோல் அரச துறையை வினைத்திரன் மிக்கதாக மாற்றவும் அரசாங்கம் நடவடிக்கை எடுக்க வேண்டும்.
+
+◼️
+
+[Data](articles/6d35942e.json)
+
+---
 
 ### Sri Lanka wins Hong Kong Sixers Cricket Championship
 
@@ -403,6 +415,24 @@ He said that all the Sathosa shops can be purchased by one kilogram of large oni
 [Data](articles/1cb870c5.json)
 
 [Extended Data](ext_articles/1cb870c5.ext.json)
+
+---
+
+### හිටපු රාජ්‍ය අමාත්‍ය ලොහන් කොළඹ ජාතික රෝහලට
+
+*2024-11-03 12:44:24* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ලොහන්-කොළඹ-ජාතික-රෝහලට/11-412818) · `si`
+
+නීති විරෝධී අයුරින් කොටස් එකලස් කරන ලද අති සුඛෝභෝගි මෝටර් රථයක්  පරිහරණය කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රිමාන්ඩ්  භාරයට පත් කර සිටි  හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ඇතැයි පොලිස් අරංචි මාර්ග සඳහන් කරයි.
+
+හිටපු අමාත්‍යවරයා බන්ධනාගාර නිලධාරීන්ගේ ආරක්‍ෂාව මධ්‍යයේ වාට්ටු අංක 48 ප්‍රතිකාර ලබන බව එම ආරංචි මාර්ගවලින් පැවසේ.
+
+ඉකුත් 31 වෙනි දින  ඔහු මහනුවර කටුගස්තොට ප්‍රදේශයේ  නිවසේදී අත්අඩංගුවට ගෙන එදිනම රාත්‍රී නුගේගොඩ අතිරේක මහේස්ත්‍රාත්වරයා ඉදිරිපත් කිරීමෙන් අනතුරුව  මෙම මස 7  දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරනු ලැබීය.
+
+ඔහු බන්ධනාගාරයේ සිටියදී   ඇතිවූ හදිසි අසනීප තත්වයක් හේතුවෙන් බන්ධනාගාර  රෝහල වෙත ඇතුළත් කිරීමෙන් අනතුරුව වැඩිදුර ප්‍රතිකාර සඳහා කොළඹ ජාතික රෝහල වෙත ඊයේ රාත්‍රි ඇතුළත් කරනු ලැබීය.
+
+◼️
+
+[Data](articles/86b4b7c6.json)
 
 ---
 
@@ -2275,59 +2305,5 @@ The meeting was attended by Prime Minister's Secretary Pradeep Saputhandri, Chie
 [Data](articles/9793ebe5.json)
 
 [Extended Data](ext_articles/9793ebe5.ext.json)
-
----
-
-### Official Voter Card Special Distribution - Postal Department
-
-*2024-11-02 18:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197741) · `ta`
-
-Postal Department distributes official voter cards daily 6am-6pm. About 60k cards issued so far. All postal worker holidays cancelled till election ends. Distribution completes Thursday. Those missing cards can get them locally after that date.
-
-🟩
-
-Official voter cards will be issued from 6 am to 6 pm on Sunday (03).
-
-Voter card distribution will be completed with the upcoming Thursday. Deputy Chancellor Rajitha K.. Said Ranasinghe.
-
-He made this statement during a media briefing held at the Postal Department on Saturday (02).
-
-Voter cards and other documents for the general election have been carried out.
-
-Official voter cards have been distributed since the 27th of last month. So far, about 60 thousand packages have been distributed through voter cards.
-
-All the vacations of the postal workers have been canceled until the general election is over. Official voter cards will be issued from 6 am to 6 pm today.
-
-According to the Elections Act, the official voter card distribution work will be completed on Thursday (7). Therefore, those who do not get voter cards during this period can obtain voter cards in their residential area.
-
-◼️
-
-[Data](articles/43105aa0.json)
-
-[Extended Data](ext_articles/43105aa0.ext.json)
-
----
-
-### Landslide warnings extended to several areas
-
-*2024-11-02 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202842) · `si`
-
-National Building Research Organization extends landslide warnings to multiple districts including Kandy, Ratnapura, and Kurunegala. Public advised to seek safety during mountain rainfalls.
-
-🟩
-
-The National Building Research Organization has taken steps to extend the landslide warning notification issued for several areas.
-
-Accordingly, the Bulathsinhala, Kandy District, Kandy and Yatinuwara, Mawanella, Mawanella, Ratnapura District, Kahawatta, Ratnapura, Pelmulla, Pelumulla, Ratnapura District.'A statement has been issued as'.
-
-In addition, Elpitiya, Haldummoda, Haldummoda, Haldummoda and Yatiyantota, Kurunegala District in Kiriella, Opanayaka, Dajeela, Opanayaka, Kiriella, Kiriella, Kiriella, Kiriella, Kiriella, Kiriella, Kiriella, Kiriella, GampahaThe announcement is also issued.
-
-The organization has also requested the public to move to a safe place if there is a rainfall in the mountains.
-
-◼️
-
-[Data](articles/ef1284dd.json)
-
-[Extended Data](ext_articles/ef1284dd.ext.json)
 
 ---

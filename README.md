@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 12:00:06**
+As of **2024-11-03 12:40:04**
 
 ## Newspaper Stats
 
-*Scraped **52,763** Articles*
+*Scraped **52,768** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 3,155
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,911
-adaderanalk | 6,271
+adalk | 4,913
+adaderanalk | 6,272
 tamilmirrorlk | 7,325
 virakesarilk | 8,511
-adaderanasinhalalk | 9,196
+adaderanasinhalalk | 9,198
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,763 (100.0%) of 52,763 articles have been extended.
+52,767 (100.0%) of 52,768 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Lohan Ratwatte transferred to Colombo General Hospital
+
+*2024-11-03 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103118/lohan-ratwatte-transferred-to-colombo-general-hospital) · `en`
+
+Former state Minister Lohan Ratwatte who was admitted to the Prison Hospital for treatment has been transferred to the Colombo General Hospital, the spokesman of the Department of Prisons said.
+
+The prisons spokesman said that he was transferred to Colombo General Hospital due to a sudden illness last night (02).
+
+Ratwatte, who was arrested and remanded on charges of using a luxury car illegally imported from abroad and assembled in Sri Lanka, was transferred to the prison hospital on Saturday under the permission granted by the Nugegoda Acting Magistrate.
+
+Ratwatte was arrested by Mirihana Police on October 31 in Katugastota, Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
+
+The car without registered number plates was found on October 26, 2024, according to police.
+
+...
+
+[Data](articles/c54e81ab.json)
+
+[Extended Data](ext_articles/c54e81ab.ext.json)
+
+---
+
+### Lohan's hospital hospital
+
+*2024-11-03 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202857) · `si`
+
+Former State Minister Lohan Ratwatte hospitalized after arrest for luxury car use. Admitted to Colombo National Hospital for serious illness.
+
+🟩
+
+Former State Minister Lohan Ratwatte, who is in remand custody has been admitted to the Colombo National Hospital.
+
+Prison spokesman Gamini B Dissanayake said that Mr. Lohan Ratwatte was admitted to the National Hospital due to an emergency situation at night.
+
+Lohan Ratwatte was arrested on the 31st of the end of the SLAB's accused of using a luxury car from foreign abroad.
+
+Lahan Ratwatte was later referred to the Prison Hospital following the recommendation of the Magistrate to pay attention to medical treatment.
+
+However, he was admitted to the Colombo National Hospital for treatment due to a serious illness.
+
+◼️
+
+[Data](articles/861d9553.json)
+
+[Extended Data](ext_articles/861d9553.ext.json)
+
+---
+
+### A warning to Israel and the US in Iran
+
+*2024-11-03 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202856) · `si`
+
+Iran's Ayatollah warns Israel and US: "Serious response" to attacks. Leader vows retaliation against Israeli strikes from last week. Statement made at Tehran event marking 45th anniversary of US hostage crisis.
+
+🟩
+
+Iranian spiritual leader Ayatollah Alcuyani says that the attacidations against their country will respond to a serious response.
+
+The Iranian spiritual leader has shown that the Iranian spiritual leader has to resume over Israel's attacks on the attacks on Israel last week.
+
+At a function held at Tehran's embassy in Tehran, Athullah Alcuyani stated this during a function held in parallel to the 45th Anniversary Celebration of Iranian protesters.
+
+The Iranian United States of Iranian protesters were taken into custody after the Iranian protesters including Iranian protesters, including Iranian protesters, on November 4, 1979.
+
+◼️
+
+[Data](articles/9b9f5e0a.json)
+
+[Extended Data](ext_articles/9b9f5e0a.ext.json)
+
+---
 
 ### Committee to search for victims in the revenue program
 
@@ -71,6 +143,54 @@ The appointment was communicated by the Secretary to the Ministry of Social Secu
 [Data](articles/15eb8223.json)
 
 [Extended Data](ext_articles/15eb8223.ext.json)
+
+---
+
+### ජොනීට අයත් යැයි කියන මෝටර් රථයක් මාස 8කට පෙර ගරාජයකට ගෙනත් දාලා
+
+*2024-11-03 11:06:42* · [`adalk`](https://www.ada.lk/breaking_news/ජොනීට-අයත්-යැයි-කියන-මෝටර්-රථයක්-මාස-8කට-පෙර-ගරාජයකට-ගෙනත්-දාලා/11-412815) · `si`
+
+හිටපු අමාත්‍ය ජෝන්ස්ටන් ප්‍රනාන්දු මහතාට අයත් බව පැවසෙන ෆොර්ඩ් වර්ගයේ මෝටර් රථයක් කොට්ටාව ලියනගොඩ ප්‍රදේශයේ ගරාජයක සගවා තිබියදී සොයාගත් බව හෝමාගම විශේෂ අපරාධ විමර්ශන ඒකකය පවසයි.
+
+අලුත් වැඩියාවක් සදහා බව පවසමින් වාද්දූව ප්‍රදේශයේ පදිංචි හිටපු අමාත්‍ය ජොන්ස්ටන් ප්‍රනාන්දු මහතාගේ රියදුරෙකු විසින් 2024.02.28  දා මෙම වාහනය ගරාජයට ගෙනැවිත් දමා ගොස් ඇති අතර එම අවස්ථාවේදී මෝටර් රථයේ අංක තහඩු හෝ තිබී නොමැති බවද පොලිසිය කියයි.
+
+වාහනයේ අංකය KM 5121 ලෙස සටහන් කර තිබූ කඩදාසි කොලයක් වාහනය රැගෙන ආ රියදුරු  තමාට පෙන්වූ බවත් ඒ අනුව වාහනේ අංකය ලෙස ඉහත අංකය තමා සටහන් කර ගත් බවත් ගරාජයේ හිමිකරු පොලිසියට පවසා තිබේ.
+
+එහෙත් යලි වාහනය රැගෙන යාමට නොපැමිණීම නිසා මාස 08 තිස්සේ මෙසේ ගරජයේ ගාල් කර තිබූ බව ද පැවසේ
+
+මේ සම්බන්ධයෙන් හෝමාගම විශේෂ අපරාධ විමර්ශන ඒකකයේ නිලධාරීන්ට ලද තොරතුරකට අනුව නිලධාරී කණ්ඩායමක් (02) දා එම ගරාජයට ගොස් පරීක්ෂා කිරීමේදී අංක තහඩු නොමැති මෙම වාහනය භාරයට ගත් බව පැවසේ .
+
+මෙම වාහනයේ කිසිදු අනන්‍යතා සහතිකයක් තිබී නොමැති අතර ඒ අනුව මෙය ලියාපදිංචි නොකොට එකලස් කරන ලද වාහනයක් බවට පොලීසිය සැක කරයි.
+
+...
+
+[Data](articles/e8ee8d40.json)
+
+---
+
+### A pastor arrested for fake number plate jeep
+
+*2024-11-03 10:53:05* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-අංක-තහඩු-ජීප්-රියට-දේවගැතිවරයෙක්-අල්ලයි/11-412814) · `si`
+
+Pastor arrested for fake number plates on jeep. Police investigation underway. Jeep linked to former minister's suicide. Woman from Kandy owns vehicle. Pastor uses it for temple security.
+
+🟩
+
+The police have been used for many years after the police were used by the police in the Digana area in the Digana, the police had been arrested yesterday afternoon.
+
+Digana ICC's homeless house was adjourned by the Teldeniya, the Teldeniya was admitted to the garage.
+
+Former Minister of State LAHON Ratwatte (suicide by shooting and committed) this jeep had been brought before the area several weeks ago.
+
+It has been revealed that the jeep used in a woman belonging to a woman from the Pilapola area in Kandy, and the pastor has been operating a special police protection to his temple in public places.The top police officers of the Central Province had taken measures to be given.
+
+The pastor has a vehicle yard, including the number of vehicles, including the defender jeeps, along with several vehicles adopted.
+
+◼️
+
+[Data](articles/8f483d4e.json)
+
+[Extended Data](ext_articles/8f483d4e.ext.json)
 
 ---
 
@@ -2257,109 +2377,5 @@ In the announcement, 83 complaints have been received during the past 24 hours.
 [Data](articles/1db86f17.json)
 
 [Extended Data](ext_articles/1db86f17.ext.json)
-
----
-
-### Lohan in prison in the hospital
-
-*2024-11-02 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202829) · `si`
-
-Former State Minister Lohan Ratwatte hospitalized in prison after arrest for luxury car theft. Remanded until July 7th. Wife summoned by police.
-
-🟩
-
-Former State Minister Lohan Ratwatte has been admitted to the Prison Hospital due to illness.
-
-Bandakara Media Spokesperson Prison Spokesperson Hon.
-
-Mr. Batua Ratwatte was arrested by the Mirihana Police on the 31st of the Kandy-Katugastota area in Kandy.
-
-Later, he was produced before the Gangodawila Additional Magistrate and remanded until the 7th of this month.
-
-Meanwhile, the wife of Ratwatte is also informed to come to the Mirihana Police regarding the luxury car.
-
-◼️
-
-[Data](articles/129dfb38.json)
-
-[Extended Data](ext_articles/129dfb38.ext.json)
-
----
-
-### Badulla bus accident: injured KDU students out of danger
-
-*2024-11-02 13:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103103/badulla-bus-accident-injured-kdu-students-out-of-danger) · `en`
-
-Dr. Palitha Rajapaksha of the Emergency Treatment Unit of Badulla Teaching Hospital stated that those who were seriously injured in the bus accident on Dunhinda Road in Badulla last morning (01) and admitted to the hospital, are now out of danger.
-
-Providing an update on their condition, he reported that the conditions of all hospitalized patients are stable. He added that some of the ten patients currently in the Intensive Care Unit (ICU) may be transferred to general wards today.
-
-“Forty people injured in the bus accident were hospitalized, with ten admitted to the ICU. Most of those patients are now recovering, and the threat to their lives has passed. We have great hope for the recovery of these students.”
-
-“A few of the ten persons being treated in the ICU may be transferred to general wards today, while others may be discharged after consultation with the judicial medical officer,” he said.
-
-...
-
-[Data](articles/7266b91c.json)
-
-[Extended Data](ext_articles/7266b91c.ext.json)
-
----
-
-### Bus accident in Ruwanwella!
-
-*2024-11-02 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197712) · `ta`
-
-Ruwanwella bus crash: Vehicle lost control, hit house. Police report: House damaged, passengers safe.
-
-🟩
-
-The accident occurred when a bus heading towards Avissawelle lost control and crashed into a nearby house.
-
-Police said the house was severely damaged and there was no danger to the passengers.
-
-◼️
-
-[Data](articles/ac6d56e6.json)
-
-[Extended Data](ext_articles/ac6d56e6.ext.json)
-
----
-
-### හෙට දිනය විශේෂ දිනයක් ලෙස නම් කළ හේතුව මෙන්න
-
-*2024-11-02 13:39:40* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-දිනය-විශේෂ-දිනයක්-ලෙස-නම්-කළ-හේතුව-මෙන්න/11-412806) · `si`
-
-Here's a 200-character summary:
-
-
-
-Tomorrow (3) is a special day as it marks the distribution of official ballot papers for the general election. Ballot papers will be available from 8 am to 8 pm.
-
-🟩
-
-The date on the distribution of official ballot papers regarding the general election has been nominated tomorrow (3).
-
-ඒ අනුව හෙට පෙ.ව. Official ballot papers are distributed from 08 to 8 pm.
-
-◼️
-
-[Data](articles/7839b4fa.json)
-
-[Extended Data](ext_articles/7839b4fa.ext.json)
-
----
-
-### The Imam Report Has Debunked The Sole Direct Alleged Evidence For The Easter Bombings Conspiracy Theory
-
-*2024-11-02 13:35:48* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-imam-report-has-debunked-the-sole-direct-alleged-evidence-for-the-easter-bombings-conspiracy-theory/) · `en`
-
-In the wake of the Easter Sunday suicide bomb attacks launched against a number of targets in the country by a local Islamic Jihadi group (National Tawheed Jamaat [NTJ]) led by Zahran Hashim on 21 April 2019, several conspiracy theories were floated as to who might be the invisible hand or “mastermind” behind the attacks on the presumption that they were not alone in carrying out these dastardly terror attacks. Several suspects were named, including India (RAW), Israel (Mossad), the US (CIA—the usual suspect) and the Sri Lanka People’s Front (SLPP). Which theory one originated or chose to subscribe to depended on one’s particular prejudices.
-
-...
-
-[Data](articles/3cd64cc3.json)
-
-[Extended Data](ext_articles/3cd64cc3.ext.json)
 
 ---

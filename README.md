@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 14:11:23**
+As of **2024-11-03 14:24:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,202
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,786 (100.0%) of 52,791 articles have been extended.
+52,791 (100.0%) of 52,791 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -438,17 +438,23 @@ Meanwhile, the Lebanese minister has asked the Lebanese army to investigate the 
 
 ---
 
-### மக்கள் பிரச்சினைகளை தீர்ப்பதற்காகவே சோசலிஸ கொள்கையை முன்னிறுத்துகிறோம் - மக்கள் போராட்ட முன்னணியின் கொழும்பு மாவட்ட வேட்பாளர் சுவஸ்திகா அருலிங்கம்
+### We present socialist policy to solve people's issues - Colombo district candidate for the People's Movement
 
 *2024-11-03 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197766) · `ta`
 
-முதலாளித்துவக்கொள்கை, சோசலிஸ கொள்கை என்பது ஒரு கருத்தியலாகும். இருப்பினும் மக்களிடம் சென்று பேசும்போது அவர்கள் தாம் அனைவரும் சமமாக மதிக்கப்படவேண்டும் என்றும், தமது பொருளாதாரப் பிரச்சினைகள் தீர்க்கப்படவேண்டும், தமக்கான சமூகப் பாதுகாப்புக் கட்டமைப்பு வலுப்படுத்தப்படவேண்டும் என்றும் கோருகின்றனர்.
+Socialist policies aim to address people's issues. Capitalist concepts are adapted to ensure equal respect and economic solutions. The movement promotes socialism as a problem-solving approach based on community needs.
 
-ஆகவே நாங்கள் பேசுவது சோசலிஸ கொள்கையாக இருந்தாலும், உண்மையிலேயே மக்களிடம் பேசும்போது அவர்கள் என்னென்ன விடயங்களைக் கூறுகிறார்களோ, அவற்றின் அடிப்படையிலேயே எமது கொள்கையை முன்வைக்கிறோம். மக்களின் பிரச்சினைகளைத் தீர்ப்பதற்கான வழிமுறையாகவே நாங்கள் சோசலிஸ கொள்கையை முன்னிறுத்துகிறோம்.
+🟩
+
+Capitalist policy is a concept of socialist policy. However, when they go to the people, they demand that they all be respected equally, resolved their economic problems and strengthen their social security structure.
+
+So even though we are a socialist policy, we are presenting our policy on the basis of what they say when they speak to people.. We are promoting socialist policy as a means of solving the problems of the people.
 
 ◼️
 
 [Data](articles/9ac7026a.json)
+
+[Extended Data](ext_articles/9ac7026a.ext.json)
 
 ---
 
@@ -552,39 +558,65 @@ The Iranian United States of Iranian protesters were taken into custody after th
 
 ---
 
-### தமிழ், முஸ்லிம் அரசியல் கட்சிகள் தீர்வு வழங்குவதாக மக்களை ஏமாற்றியுள்ளன - நாராயணபிள்ளை சிவானந்த ராஜா
+### Tamil and Muslim political parties have deceived the people that they are setting up - Narayanapillai Sivananda Raja
 
 *2024-11-03 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197764) · `ta`
 
-நாட்டில் உள்ள அனைத்து பிரஜைகளும் தமக்கு உள்ள உரிமைகளை அனுபவிக்க வேண்டும். மக்களையும் மாகாணங்களையும் பிளவுபடுத்தி அரசியல் செய்ய தேவையில்லை. தற்போது உள்ள மக்களுக்கு இனப் பிரச்சினைக்கான தீர்வு கிடைக்க வேண்டும் என்பதல்ல பிரச்சினை. தமது வறுமை நிலை ஒழிக்கப்பட வேண்டும். தமது பொருளாதார நிலைமை மேம்பட வேண்டும்.அதனை ஏற்படுத்துவதே முக்கியமாகும். இதன் பின்னர் அது பற்றி தீர்மானம் எடுக்கலாம்.
+Tamil and Muslim parties deceive public about setting up something. All citizens should enjoy equal rights without dividing people or regions. Economic improvement is key before addressing ethnic issues or making decisions.
+
+🟩
+
+All citizens in the country must enjoy their rights. There is no need to divide people and provinces and do politics. The problem is not that the present people need a solution to the ethnic problem. To abolish their poverty level. It is important to improve their economic situation.. Then you can make a decision about it.
 
 ◼️
 
 [Data](articles/d72b8bc9.json)
 
+[Extended Data](ext_articles/d72b8bc9.ext.json)
+
 ---
 
-### ஆக்கிரமிப்புக்களால் அநாதையாக்கப்படும் திருகோணமலை
+### Trincomalee
 
 *2024-11-03 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197754) · `ta`
 
-யுத்தம் காரணமாக  ஏற்பட்ட அனர்த்தம், அவலங்கள் காரணமாக திருகோணமலை மாவட்டத்திலுள்ள பல கிராம மக்கள் தம் சொந்த மண்ணைவிட்டு  குடிபெயர்ந்தார்கள், இடம்பெயர்ந்தார்கள் அவர்கள் மீள தாய் மண்ணுக்கு வந்தபோது வீடுகள் அங்கு இருக்கவில்லை குடிமனைகள் அழிக்கப்பட்டிருந்தன.
+Here's a 200-character summary:
+
+
+
+"Trincomalee: Many villagers left their homes due to displacement, seeking refuge elsewhere."
+
+🟩
+
+Many villagers in the Trincomalee district moved away from their own soil and displaced when they came to the soil of the mother.
 
 ◼️
 
 [Data](articles/2a37ab9b.json)
 
+[Extended Data](ext_articles/2a37ab9b.ext.json)
+
 ---
 
-### தொல்லியல் எச்சங்கள் நிறைந்த வடக்கின் துயரம்
+### The misery of the north -rich residue
 
 *2024-11-03 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197755) · `ta`
 
-போர் முடிவுற்று தசாப்தம் கடந்தும் போர் அச்சுறுத்தல் அற்ற சூழலிலும்  வடக்கிற்கு இதுவரை விடுதலை இல்லை. அத்தோடு சிங்கள குடியேற்றங்கள் பாரிய விகாரைகள்  வீதியோரங்களில் பாரிய இராணுவ விவசாயப் பண்ணைகள் என பல பிரதேசங்கள் பறிபோயுள்ளன. இதற்கப்பால் போதைவஸ்து கடத்தல், கசிப்பு வியாபாரம், வன்செயல்கள் போன்றவை மக்களின் அன்றாட  இயல்பு வாழ்க்கையைச் சீரழித்து வருகின்றன.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"North struggles: War's end delayed, Sinhalese settlements lost, military farms abandoned. Drug trade, leaks, and violence degrade daily life."
+
+🟩
+
+The end of the war has not yet been released to the North in the absence of war threat. In addition, Sinhalese settlements have been lost in many areas, such as massive military agricultural farms on the streets.. As a result, drug trafficking, leak trade and violence are degrading the daily life of the people.
 
 ◼️
 
 [Data](articles/5942c78e.json)
+
+[Extended Data](ext_articles/5942c78e.ext.json)
 
 ---
 
@@ -712,19 +744,27 @@ The death sentence was introduced in the 1970s in Nigeria, but there have been n
 
 *2024-11-03 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197758) · `ta`
 
-கொத்தலாவல பாதுகாப்பு கல்லூரியின் பேருந்துக்கு ஏற்பட்ட நிலைமை இலங்கைக்கும் ஏற்படலாம் என முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+Ranil Wickremesinghe warns Sri Lanka may face another crisis due to inexperienced leadership. He advises selecting experienced parliamentarians to prevent future problems. The former president compares the current situation to the Kotalawala Safety College bus accident, highlighting the need for skilled governance.
+
+🟩
+
+Former President Ranil Wickremesinghe has said that the situation for the buses of the Kotalawala Safety College could occur in Sri Lanka.
 
 நாடாளுமன்றத்துக்கு அனுபவம் உள்ளவர்களை தெரிவு செய்யவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவர் அனுபவம் மிக்க தலைமைத்துவம் இல்லாவிட்டால் இலங்கை மீண்டும் நெருக்கடியை எதிர்கொள்ள நேரிடலாம் என எச்சரித்துள்ளார்.
 
-தற்போதைய அரசாங்கத்தில் அனுபவம் மிக்கவர்கள் குறைவு என தெரிவித்துள்ள அவர் எதிர்கால நெருக்கடிகளை தவிர்ப்பதற்கு அறிவுள்ள தலைமைத்துவம் அவசியம் என குறிப்பிட்டுள்ளார்.
+He said that there is little experience in the current government, and that the knowledgeable leadership is essential to avoid future crises.
 
 நான் கடந்தகாலங்களிலும் நாடாளுமன்ற உறுப்பினராக பதவி வகித்துள்;ளேன் தற்போது எங்கள் குழுவிலிருந்து புதிய அணியை உருவாக்கவேண்டும் என கருதுகின்றேன்,இவர்கள் மாத்திரமே நாட்டில் உள்ள அனுபவசாலிகள் என அவர் தெரிவித்துள்ளார்.
 
-தனது அணியினர் மூன்று நான்கு வருடங்கள் பதவிவகித்துள்ளனர் நாட்டின் பொருளாதார மீட்சியின் போது குறிப்பிடத்தக்க பங்களிப்பை செய்துள்ளனர் புதிய நாடாளுமன்றத்தில்  அனுபவசாலிகள் இன்மை பின்னடைவாக அமையலாம் என அவர் தெரிவித்துள்ளார்.
+His team has been in office for three to four years.
+
+He pointed out the speed with the Sri Lankan economic crisis and said that even the world countries could not even think.
 
 ...
 
 [Data](articles/18586feb.json)
+
+[Extended Data](ext_articles/18586feb.ext.json)
 
 ---
 
@@ -1216,7 +1256,7 @@ Accordingly, the general public is kindly requested to take adequate precautions
 
 ---
 
-### Sri Lanka trade deficits widens, services surplus plunges in September
+### Sri Lanka trade deficit widens, services surplus plunges in September
 
 *2024-11-03 06:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-trade-deficits-widens-services-surplus-plunges-in-september-185897/) · `en`
 

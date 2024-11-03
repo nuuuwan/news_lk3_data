@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 03:09:39**
+As of **2024-11-04 03:24:30**
 
 ## Newspaper Stats
 
-*Scraped **52,865** Articles*
+*Scraped **52,871** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
-colombotelegraphcom | 538
+colombotelegraphcom | 539
 bbccomsinhala | 541
 islandlk | 3,157
 economynextcom | 3,203
-dailyftlk | 3,607
+dailyftlk | 3,611
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
-tamilmirrorlk | 7,342
+tamilmirrorlk | 7,343
 virakesarilk | 8,546
 adaderanasinhalalk | 9,210
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,865 (100.0%) of 52,865 articles have been extended.
+52,865 (100.0%) of 52,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Jayantha Gallehewa elected uncontested as President-Elect of Organisation of Professional Associations
+
+*2024-11-04 03:15:28* · [`dailyftlk`](https://www.ft.lk/news/Jayantha-Gallehewa-elected-uncontested-as-President-Elect-of-Organisation-of-Professional-Associations/56-768798) · `en`
+
+At the Annual General Meeting (AGM) of the Organisation of Professional Associations (OPA) on 30 October, Institute of Supply and Materials Management (ISMM) President Jayantha Gallehewa was elected uncontested as the President-Elect of the OPA.
+
+This appointment underscores the confidence the OPA has in Gallehewa’s longstanding commitment to Sri Lanka’s professional community. Serving as Vice President over the past few years, he has contributed significantly to the OPA for over eight years, representing the ISMM and serving in various leadership roles.
+
+Gallehewa will become the 45th President of the OPA for the term 2025/2026, following his active involvement in the organisation’s General Forum and Executive Council since 2018. With his extensive experience and vision, his leadership is anticipated to guide the OPA in advancing initiatives that support both the professional community and Sri Lanka’s broader development goals.
+
+...
+
+[Data](articles/8172769b.json)
+
+---
+
+### Emotionally intelligent CFO no longer an oxymoron – they exist
+
+*2024-11-04 02:52:48* · [`dailyftlk`](https://www.ft.lk/columns/Emotionally-intelligent-CFO-no-longer-an-oxymoron-they-exist/4-768793) · `en`
+
+CFOs can increase their effectiveness by astutely blending their emotional intelligence with their prowess
+
+The bottom line is CFOs must move beyond technical left-brain skills to develop competencies in people-oriented right-brain areas. Thankfully, in the world of finance, a paradigm shift is in progress with CFOs metamorphosing from guardians of finance to strategic, empathetic leaders. This new era of financial leadership is symbolised by real-world CFOs, like Kevan Parekh, who are defying traditions, breaking the mould and setting the stage and new standards for what it means to lead with empathy and understanding. An emotionally intelligent CFO is no longer an oxymoron
+
+...
+
+[Data](articles/c773c665.json)
+
+---
+
+### COYLE Leadership Forum: Visionary platform for tomorrow’s business leaders
+
+*2024-11-04 02:51:30* · [`dailyftlk`](https://www.ft.lk/business/COYLE-Leadership-Forum-Visionary-platform-for-tomorrow-s-business-leaders/34-768792) · `en`
+
+From left: Moderator Peter D’Almeida, COYLE Chairman and Raddella Holdings Managing Director Thushira Raddella, Los Angeles, California HVA Ceylon LLC Founder Harsha Fernando, and Netflix Dubai Bling Global Reality Star and Forever Rose London and Forever Rose Café CEO and Founder Ebraheem Al Samadi
+
+COYLE last week held its landmark 2024 Leadership Forum at Shangri-La Colombo, uniting thought leaders, entrepreneurs, and visionaries to shape the future of business.
+
+Designed to inspire the next generation of trailblazers, the event brought together influential voices in the world of entrepreneurship and business strategy, setting the stage for an extraordinary day of knowledge sharing and forward-thinking ideas.
+
+...
+
+[Data](articles/6b6cf66f.json)
+
+---
+
+### Sri Lanka-Canada Business Council concludes successful trade and investment mission to Canada
+
+*2024-11-04 02:35:55* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-concludes-successful-trade-and-investment-mission-to-Canada/34-768791) · `en`
+
+Meeting with the Sri Lankan High Commissioner to Canada U.L. Mohammed Jauhar
+
+Meeting with Member of Parliament for Nepean West Chandra Arya
+
+The Sri Lanka-Canada Business Council (SLCBC) of The Ceylon Chamber of Commerce successfully concluded its nine-member trade and investment mission to Canada, strengthening bilateral ties and exploring trade, investment, and allied opportunities in key sectors. Held from 14 to 22 October, the mission was led by SLCBC President Priyantha Chandrasekara and included constructive exchanges with Canadian business leaders, government officials, academic institutions, and business chambers.
+
+Before departing for Canada, the delegation held a briefing with Sri Lankan Prime Minister Dr. Harini Amarasuriya to discuss the objectives and anticipated impact of the mission, signalling the importance of this initiative at the highest levels of Sri Lanka’s Government.
+
+...
+
+[Data](articles/acd0acca.json)
+
+---
 
 ### Pillaiyan party supporters attack Karuna's candidate and supporters in Batticaloa;3 people, including candidate, were injured
 
@@ -83,6 +147,24 @@ The sea has given the people the confidence of food, income and needs of the are
 [Data](articles/edda51f2.json)
 
 [Extended Data](ext_articles/edda51f2.ext.json)
+
+---
+
+### ’எம்மை அனுப்புங்கள்’
+
+*2024-11-04 01:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்மை-அனுப்புங்கள்/175-346513) · `ta`
+
+சிங்கள - பௌத்த பேரினவாதத்திற்கு எதிரான மக்கள் போராட்டங்களில் தொடர்ச்சியாக இருந்திருக்கிறோம்.ஒடுக்கப்பட்ட மக்களுக்காக வீதிகளில் இருந்த எங்களை எதிர்க்கட்சியாக பாராளுமன்றில் அமர்த்துமாறு மக்கள் போராட்ட முன்னணியின் வன்னிமாவட்ட முதன்மை வேட்பாளர் நி.பிரதீபன் தெரிவித்தார்.
+
+மக்கள் போராட்ட முன்னணியின் ஊடகவியலாளர் சந்திப்பு வவுனியா பூந்தோட்டத்தில் அமைந்துள்ள அலுவலகத்தில்,ஞாயிற்றுக்கிழமை (03)   நடைபெற்றது.
+
+நாட்டின் இறைமை மற்றும் தேசிய இனப்பிரச்சனைக்கான தீர்வு, மதச்சார்பற்ற நாடு, தேசிய உற்பத்தி இவற்றினை மையமாக வைத்து மக்கள் போராட்டமுன்னணியாக இந்ததேர்தலில் நிற்கிறோம்.
+
+நாங்கள் ஒடுக்கப்பட்ட தமிழ்த்தேசிய இனத்தின் பிரச்சனைகளுக்காக குரல் கொடுத்தவர்கள். தமிழ்தேசிய அரசியலில் இருப்பவர்கள் தேர்தல் காலத்தில் மாத்திரம் மக்களிடம் வருபவர்களாக இருக்கிறார்கள். ஆனால், மக்கள் சார்பான பிரச்சனையில் உரிய எதிர்த்தரப்பாக இருந்து குரல் கொடுக்கவில்லை என்பதை இங்கு கூறிக்கொள்ள விரும்புகிறோம்.
+
+...
+
+[Data](articles/c80ab168.json)
 
 ---
 
@@ -333,6 +415,18 @@ It is noteworthy that the meeting was attended by more civilians and supporters 
 [Data](articles/6cae1c01.json)
 
 [Extended Data](ext_articles/6cae1c01.ext.json)
+
+---
+
+### Allow The Number Of MPs To Be Elected Rationally & Transparently Based On Actual Election Results
+
+*2024-11-03 21:45:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/allow-the-number-of-mps-to-be-elected-rationally-transparently-based-on-actual-election-results/) · `en`
+
+The writer’s attention was drawn to the recent press release issued by the Elections Secretariat on the above matter, as it is one of the 3 main reasons distorting the country wide ‘equal value of vote’ envisaged, under a real Proportional Representation (PR) system. From time to time since 2015 Election, the writer as a sovereign voter has been updating his package of crucial Reforms /‘System changes’ to rationalise and simplify our existing political and electoral systems by highlighting an analysis of the results of 2015 and 2020 General Elections. They were published in the Sinhala and English National Press. The writer was also invited for a presentation to senior Election Dept. Officials at the Elections Secretariat by the former Chairman of National Election Commission (NEC) in 2017. The package was also submitted to all relevant Cabinet appointed and Presidential Commissions, a Parliamentary Select committee and voter dedicated civil organizations and activists.
+
+...
+
+[Data](articles/9bdfc8eb.json)
 
 ---
 
@@ -2201,147 +2295,5 @@ All citizens in the country must enjoy their rights. There is no need to divide 
 [Data](articles/d72b8bc9.json)
 
 [Extended Data](ext_articles/d72b8bc9.ext.json)
-
----
-
-### Trincomalee
-
-*2024-11-03 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197754) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Trincomalee: Many villagers left their homes due to displacement, seeking refuge elsewhere."
-
-🟩
-
-Many villagers in the Trincomalee district moved away from their own soil and displaced when they came to the soil of the mother.
-
-◼️
-
-[Data](articles/2a37ab9b.json)
-
-[Extended Data](ext_articles/2a37ab9b.ext.json)
-
----
-
-### The misery of the north -rich residue
-
-*2024-11-03 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197755) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"North struggles: War's end delayed, Sinhalese settlements lost, military farms abandoned. Drug trade, leaks, and violence degrade daily life."
-
-🟩
-
-The end of the war has not yet been released to the North in the absence of war threat. In addition, Sinhalese settlements have been lost in many areas, such as massive military agricultural farms on the streets.. As a result, drug trafficking, leak trade and violence are degrading the daily life of the people.
-
-◼️
-
-[Data](articles/5942c78e.json)
-
-[Extended Data](ext_articles/5942c78e.ext.json)
-
----
-
-### Committee to search for victims in the revenue program
-
-*2024-11-03 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202855) · `si`
-
-Expert committee formed to investigate injustices in Social Welfare Benefit Program implementation. Appointed by Minister Vijitha Herath, tasked with examining excluded local welfare benefits. Committee must report findings within a month.
-
-🟩
-
-The residue has appointed a ten-person expert committee to look into the people who have been subjected to injustice in implementing the Social Welfare Benefit Program.
-
-Secretary to the Ministry of Social Security Ranjith Ariyratne said that the committee had been appointed under the patronage of an Additional Secretary to the Ministry.
-
-The committee has been appointed as the subject of Minister Vijitha Herath.
-
-The committee has been appointed to look into the local welfare benefits that were not included in the social welfare benefit program that was not included in the Social Welfare Benefits Program.
-
-The committee has informed the relevant committee within a month.
-
-◼️
-
-[Data](articles/9f565cf2.json)
-
-[Extended Data](ext_articles/9f565cf2.ext.json)
-
----
-
-### Experts’ committee appointed to review Aswesuma beneficiaries’ grievances
-
-*2024-11-03 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103117/experts-committee-appointed-to-review-aswesuma-beneficiaries-grievances-) · `en`
-
-A ten-member committee of experts has been appointed to look into injustices to any beneficiaries of the ‘Aswesuma’ social benefit programme.
-
-The appointment was communicated by the Secretary to the Ministry of Social Security today (03).
-
-◼️
-
-[Data](articles/15eb8223.json)
-
-[Extended Data](ext_articles/15eb8223.ext.json)
-
----
-
-### Jonny brought a car belonging to Johnny to a garage eight months ago
-
-*2024-11-03 11:06:42* · [`adalk`](https://www.ada.lk/breaking_news/ජොනීට-අයත්-යැයි-කියන-මෝටර්-රථයක්-මාස-8කට-පෙර-ගරාජයකට-ගෙනත්-දාලා/11-412815) · `si`
-
-Car found in garage: Ford model, brought 8 months ago. Owner claims new work needed. Vehicle lacks ID, suspected unregistered assembly. Police investigating, summoning chassis/engine numbers. Further inquiries ongoing under Nugegoda DSP's orders.
-
-🟩
-
-According to former Minister Joneston Fernando, a car type of a Ford was found in the Garage area in Kottawa, Homagama said.
-
-The vehicle has been brought to the garage on 28.02.2010, claiming that a new work was to be brought to the garage.
-
-The garage owner has told the police that the vehicle has taken a paper blu on km 5121, the owner owner has told the police that he has recorded the number above.
-
-However, it is said that the resurgence was to be taken to theraja for the last two months.
-
-It is said that this vehicle has been taken into custody without a group of officers (02) a group of officers who have been inspected to the Garage.
-
-There is no identity certificate in this vehicle and the police suspect that this is an assembly vehicle without registering.
-
-Accordingly, the vehicle's chassis number and the engine number will be summoned to the Department of Motor Traffic and the car will be summoned to verify the identity.
-
-...
-
-[Data](articles/e8ee8d40.json)
-
-[Extended Data](ext_articles/e8ee8d40.ext.json)
-
----
-
-### A pastor arrested for fake number plate jeep
-
-*2024-11-03 10:53:05* · [`adalk`](https://www.ada.lk/breaking_news/ව්‍යාජ-අංක-තහඩු-ජීප්-රියට-දේවගැතිවරයෙක්-අල්ලයි/11-412814) · `si`
-
-Pastor arrested for fake number plates on jeep. Police investigation underway. Jeep linked to former minister's suicide. Woman from Kandy owns vehicle. Pastor uses it for temple security.
-
-🟩
-
-The police have been used for many years after the police were used by the police in the Digana area in the Digana, the police had been arrested yesterday afternoon.
-
-Digana ICC's homeless house was adjourned by the Teldeniya, the Teldeniya was admitted to the garage.
-
-Former Minister of State LAHON Ratwatte (suicide by shooting and committed) this jeep had been brought before the area several weeks ago.
-
-It has been revealed that the jeep used in a woman belonging to a woman from the Pilapola area in Kandy, and the pastor has been operating a special police protection to his temple in public places.The top police officers of the Central Province had taken measures to be given.
-
-The pastor has a vehicle yard, including the number of vehicles, including the defender jeeps, along with several vehicles adopted.
-
-◼️
-
-[Data](articles/8f483d4e.json)
-
-[Extended Data](ext_articles/8f483d4e.ext.json)
 
 ---

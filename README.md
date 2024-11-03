@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 21:59:29**
+As of **2024-11-03 22:24:17**
 
 ## Newspaper Stats
 
-*Scraped **52,844** Articles*
+*Scraped **52,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,43 @@ islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,925
+adalk | 4,926
 adaderanalk | 6,282
 tamilmirrorlk | 7,337
 virakesarilk | 8,541
-adaderanasinhalalk | 9,208
+adaderanasinhalalk | 9,209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,843 (100.0%) of 52,844 articles have been extended.
+52,846 (100.0%) of 52,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
-### දේශපාලන විකෘතියෙන් රට මුදාගන්න සර්වජන බලය හා එක්වන්න - දිලිත්
+### Join the Surgeon Power from Politics - Dilith
 
 *2024-11-03 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202870) · `si`
 
-පවතින දේශපාලන විකෘතියෙන් රට මුදාගැනීමට සර්වජන බලය හා එක්වන ලෙස එහි නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+Dilith Jayaweera calls for public support to overcome political corruption. He criticizes current parties as ineffective, urging citizens to join his movement for change.
 
-මහර ආසනයේ අද (03) පැවති ජන හමුවකට එක්වෙමින් ඔහු මේ බව පැවසීය.
+🟩
 
-"මේ ඡන්දෙට ඉදිරිපත් වෙලා තියෙනවා විටෙක 3%ක් පමණක් ඡන්දය ලබපු එන්. පී. පී. එක සහ ජ. වි. පෙ එක. අනෙක් පැත්තෙන් නායකත්වයක් හොයා ගන්න බැරි පක්ෂයක් කියලා කියන්නටත් බැරි මේ ගෑස් සිලින්ඩරය. අනෙක් අතින් දිනන සජිත්, අද පැරදුණ සජිත්.  ඊළඟට ඉතුරුවෙලා තියෙනවා පොහොට්ටුවේ නැට්ට. අනිත් අතින් මයික් එක. හිමිකරුවාගේ නම කියන්න බෑ. ඒ පක්ෂයට ආධාර ලැබෙන හැටි කියන්න බෑ.
+The leader Dilith Jayaweera requests the public to join the exempt power to liberate the country from the existing political distortion.
 
-ඒ නිසා දේශපාලන විකෘතියෙන් මුදාගැනීමට සර්වජන බලය හා එක්වන්න. එඩිතර විපක්ෂය ඔබේ තෝරාගැනීම කරගන්න".
+He was speaking at a public briefing in Mahara electorate today (03).
+
+"It is only 3% of the vote for this election. P. P. One and the J. Disciple. The one. This gas cylinder cannot be called a party that cannot be found in the other hand. Other hand-winning Sajith, today, Sajith.  ඊළඟට ඉතුරුවෙලා තියෙනවා පොහොට්ටුවේ නැට්ට. The other hand of the Mike. The owner's name cannot be called. The party cannot tell how to receive assistance.
+
+So joins the exangeration power to liberate from political mutation. Make your choice of courage ".
 
 ◼️
 
 [Data](articles/d107074d.json)
+
+[Extended Data](ext_articles/d107074d.ext.json)
 
 ---
 
@@ -153,6 +159,28 @@ With this appointment change, the growth of the palm development council has bee
 [Data](articles/d832655c.json)
 
 [Extended Data](ext_articles/d832655c.ext.json)
+
+---
+
+### Politicians who have been appointed to the diplomaty are recalled - President
+
+*2024-11-03 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202868) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake recalls diplomats, calls for unity in upcoming elections, promises salary hikes for public servants and estate workers, and vows to focus on national development.
+
+🟩
+
+President Anura Kumara Dissanayake says he has decided to recall all politicians appointed to the embassy in Sri Lanka.
+
+During a rally held today (03) in Nuwara Eliya, the President added that the majority of all nations and the support of all nations will be needed to make transformation.
+
+"The General Election will be held. What are the people of Nuwara Eliya ...?This Nuwara Eliya General Election is an important district. There was not a politics that produces all the nations. There were Sinhala parties to build Tamil parties to vote for the Tamil people and vote for the Sinhalese. Sinhala and Tamil people in Nuwara Eliya were divided. Everyone represents the first time.
+
+...
+
+[Data](articles/08b1508e.json)
+
+[Extended Data](ext_articles/08b1508e.ext.json)
 
 ---
 
@@ -291,6 +319,30 @@ After the end of the treatment, he has been directed to a normal ward for reside
 [Data](articles/365cc166.json)
 
 [Extended Data](ext_articles/365cc166.ext.json)
+
+---
+
+### Gota's 'ropes' is given to 'ropes'
+
+*2024-11-03 18:21:36* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාට-’ලණු’-දුන්-කණ්ඩායම-අනුරටත්-’ලණු’-දෙනවා/11-412828) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gotetes ropes transferred to ropes. Group advises Gazette. Rice support for Gazettes and big rice traders at Rs. 220. UKMA President Muditha Perera confirms price. Some retailers sell Nadu rice at lower rates.
+
+🟩
+
+The group advised to advise the gazette, the group who advised Gotettes for two and a half years of supporting the gazette, and the country's large-scale rice businessmen will be given rice at Rs. 220.President of the United Kingdom Manufacturers Association, Muditha Perera said that the rice is giving rice at 220.
+
+In some areas, the retail rice businessmen are releasing a kilo of nadu rice at Rs..
+
+◼️
+
+[Data](articles/e212e49e.json)
+
+[Extended Data](ext_articles/e212e49e.ext.json)
 
 ---
 
@@ -2305,49 +2357,5 @@ Senior Deputy Deputy Post Office Rajitha K Ranasinghe says 2,090 post offices ha
 [Data](articles/7be8c798.json)
 
 [Extended Data](ext_articles/7be8c798.ext.json)
-
----
-
-### Today is 100 millimeters of rain
-
-*2024-11-03 07:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லிமீற்றர்-அளவில்-மழை/175-346467) · `ta`
-
-Heavy rain warning issued for southern coastal areas and Uva/Central provinces. 100mm expected tonight. Thunderstorms possible.
-
-🟩
-
-The Department of Meteorology has said that there is a possibility of rainfall or thunderstorms in many parts of the country this evening or at night.
-
-மேல் மற்றும் தென் மாகாணங்களின் கரையோரப் பகுதிகளில் காலை வேளையிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
-
-In addition, the Department of Meteorology has said that 100 millimeters of heavy rainfall is expected in some places in Uva and Central Provinces.. (A)
-
-◼️
-
-[Data](articles/ceb5610b.json)
-
-[Extended Data](ext_articles/ceb5610b.ext.json)
-
----
-
-### The land on the Department of Examinations has not been accused of legally
-
-*2024-11-03 07:51:04* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-දෙපාර්තමේන්තුව-තිබෙන--ඉඩම-මෙතෙක්-නීත්‍යනුකූලව-පවරාගෙන-නෑ/11-412811) · `si`
-
-Department of Examinations audit report recommends taking over land without payment. Decision made by Audit Management Meeting. Land acquisition process ongoing.
-
-🟩
-
-A audit report issued by the Department of Examinations has not yet been taken over by the Examinations Department, the department is yet to be taken over by the Examinations of the Examinations of the Examinations.
-
-The number of Examinations of the Department of Examinations has informed the audit on March 6 this year to take over the land without paying fees on the decision of the Audit Management Meeting.
-
-The audit has been recommended to take over the land.
-
-◼️
-
-[Data](articles/29b01b42.json)
-
-[Extended Data](ext_articles/29b01b42.ext.json)
 
 ---

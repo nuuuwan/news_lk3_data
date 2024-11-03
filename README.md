@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 08:04:59**
+As of **2024-11-03 08:47:57**
 
 ## Newspaper Stats
 
-*Scraped **52,740** Articles*
+*Scraped **52,745** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,163 @@ islandlk | 3,155
 economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,907
-adaderanalk | 6,264
+adalk | 4,908
+adaderanalk | 6,267
 tamilmirrorlk | 7,319
 virakesarilk | 8,511
-adaderanasinhalalk | 9,192
+adaderanasinhalalk | 9,193
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,726 (100.0%) of 52,740 articles have been extended.
+52,730 (100.0%) of 52,745 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
 
+### EC announces special voting leave for public and private sector employees
+
+*2024-11-03 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103113/ec-announces-special-voting-leave-for-public-and-private-sector-employees) · `en`
+
+The Election Commission has announced provisions for granting leave to public and private sector employees during the upcoming parliamentary elections, allowing them to vote without a reduction in salaries or use of personal leave.
+
+As outlined in paragraph 12.3 of Chapter XII of the Establishments Code under “Special Leave of Public Officers,” public sector employees are entitled to a minimum of 4 hours of leave to vote, with special leave granted for the required time without any salary deduction.
+
+The Election Commission stated that a similar system has been arranged for private sector employees, in collaboration with the Human Rights Commission of Sri Lanka (HRCSL), ensuring voting access without salary or leave reduction.
+
+For private sector employees, the following leave provisions apply based on distance from the workplace to the polling station:
+
+...
+
+[Data](articles/4eee7a86.json)
+
+---
+
+### නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීමේ විශේෂ දිනය අද
+
+*2024-11-03 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202852) · `si`
+
+2024 මහ මැතිවරණයට අදාළ නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරිම් විශේෂ දිනයක් ලෙස අද (03) දිනය සලකනු ලබන බව තැපැල් දෙපාර්තමේන්තුව පවසයි.
+
+අද උදෑසන 8 සිට පස්වරු 6 දක්වා නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීමේ කටයුතු සිදුකෙරෙන බව නියෝජ්‍ය තැපැල්පති රාජිත රණසිංහ මහතා පැවසීය.
+
+"2024 මහ මැතිවරණය සඳහා අදාළ වන නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරිමේ කටයුතු මේ දිනවල තැපැල් කාර්යාල පද්ධතිය හරහා සිදුවෙනවා. ඒ අනුව අද දිනයේ විශේෂ බෙදීම් දිනයක් ලෙස නම්කරලා තියෙනවා. උදෑසන 8 සිට පස්වරු 6 දක්වා නිල ඡන්ද දැන්වීම් පත්‍රිකා පමණක් බෙදාහැරීම සඳහා ලිපි බෙදීම් කාර්යාල 2,090ක සහයෝගීත්වයෙන් ලිපි බෙදීම් කාර්යමණ්ඩලය 8,000 යොදවලා තියෙනවා. ඊට අමතරව නොවැම්බර් මාසේ 07 වනදා දක්වාම නිවසින් නිවසට ගොස්  නිල ඡන්ද දැන්වීම් පත්‍රිකා බෙදාහැරීම සිදුවෙනවා තැපැල් දෙපාර්තමේන්තුව මගින්. කිසියම් කෙනෙකුට 07 වනදායින් පසුව නිල ඡන්ද දැන්වීම් පත්‍රිකාවක් ලැබිලා නැතිනම් තමන්ට ලිපිබෙදන කාර්යාලයට ගිහිල්ලා තමන්ගේ අනන්‍යතාවය තහවුරු කරලා තමන්ට හිමි නිල ඡන්ද දැන්වීම් පත්‍රිකාව අදාළ තැපැල් ස්ථානාධිපතිගෙන් ලබාගැනීමේ හැකියාව තියෙනවා රාජකාරි වේලාව තුළදී."
+
+◼️
+
+[Data](articles/20989174.json)
+
+---
+
+### Khamenei vows response to attacks on Iran and allies
+
+*2024-11-03 07:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103112/khamenei-vows-response-to-attacks-on-iran-and-allies) · `en`
+
+Iran’s supreme leader Ayatollah Ali Khamenei vowed on Saturday to retaliate against attacks by Israel and its ally the United States targeting Tehran and groups it supports in the region.
+
+“The enemies, both the USA and the Zionist regime, should know that they will definitely receive a tooth-breaking response to what they are doing against Iran, the Iranian nation, and the resistance front,” Khamenei said in a speech to students in Tehran.
+
+He was referring to the alliance of Tehran-backed armed groups that include Yemen’s Huthi rebels, Lebanon’s Hezbollah movement and the Palestinian Islamist group Hamas.
+
+Regional tensions have soared since the outbreak in October last year of the Israel-Hamas war in Gaza, drawing in those Iran-aligned groups and others from Iraq and Syria.
+
+Hezbollah and Israel exchanged cross-border fire for nearly a year after Hamas’s unprecedented attack on Israel on October 7, 2023, before Israel ramped up the conflict on September 23.
+
+...
+
+[Data](articles/e0d432ba.json)
+
+---
+
 ### வாக்காளர் அட்டை விநியோகிக்கும் விசேட தினம் இன்று
 
 *2024-11-03 07:55:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகிக்கும்-விசேட-தினம்-இன்று/175-346468) · `ta`
 
-பொதுத்தேர்தலுக்கான உத்தியோகபூர்வ வாக்காளர் அட்டைகளை விநியோகிக்கும் விசேட தினமாக ஞாயிற்றுக்கிழமையான இன்றைய நாள் அறிவிக்கப்பட்டுள்ளது.
+Special Sunday: 2,090 post offices open for voter card distribution. 8,000 staff deliver cards from 8am to 6pm.
 
-வாக்காளர் அட்டைகளை விநியோகிக்க 2,090 தபால் அலுவலகங்கள் இன்று திறக்கப்பட்டிருக்குமென சிரேஷ்ட பிரதி தபால் மாஅதிபர் ராஜித கே ரணசிங்க தெரிவித்துள்ளார்.
+🟩
 
-விநியோகப் பணிகளில் 8,000 ஊழியர்கள் ஈடுபடுத்தப்பட்டுள்ளனர். இன்று காலை 8 மணிமுதல் மாலை 6 மணி வரை  வீடுகளுக்கே வாக்காளர் அட்டைகள் விநியோகிக்கப்படவுள்ளன. (a)
+Sunday is announced as a special day for distributing official voter cards for the general election.
+
+Senior Deputy Deputy Post Office Rajitha K Ranasinghe says 2,090 post offices have been opened today to distribute voter cards.
+
+8,000 employees involved in delivery work. Voter cards will be distributed to homes from 8am to 6pm today. (a)
 
 ◼️
 
 [Data](articles/7be8c798.json)
 
+[Extended Data](ext_articles/7be8c798.ext.json)
+
 ---
 
-### இன்று 100 மில்லிமீற்றர் அளவில் மழை
+### Today is 100 millimeters of rain
 
 *2024-11-03 07:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லிமீற்றர்-அளவில்-மழை/175-346467) · `ta`
 
-நாட்டின் பல பகுதிகளில் இன்று மாலையில் அல்லது இரவில் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+Heavy rain warning issued for southern coastal areas and Uva/Central provinces. 100mm expected tonight. Thunderstorms possible.
+
+🟩
+
+The Department of Meteorology has said that there is a possibility of rainfall or thunderstorms in many parts of the country this evening or at night.
 
 மேல் மற்றும் தென் மாகாணங்களின் கரையோரப் பகுதிகளில் காலை வேளையிலும் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
 
-மேலும், ஊவா மற்றும் மத்திய மாகாணங்களில் சில இடங்களில் 100 மில்லிமீற்றர் அளவில் கனமழை பெய்யக்கூடும் என்று வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+In addition, the Department of Meteorology has said that 100 millimeters of heavy rainfall is expected in some places in Uva and Central Provinces.. (A)
 
 ◼️
 
 [Data](articles/ceb5610b.json)
 
+[Extended Data](ext_articles/ceb5610b.ext.json)
+
 ---
 
-### රාජ්‍ය හා පෞද්ගලික අංශයට මැතිවරණයට නිවාඩු ලැබෙන්නේ මෙහෙමයි
+### The public and private sector will leave the election leave
 
 *2024-11-03 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202851) · `si`
 
-ඉදිරි පාර්ලිමේන්තු මැතිවරණයේදී රාජ්‍ය හා පෞද්ගලික අංශයේ සේවකයින්ට වැටුප් හෝ පෞද්ගලික නිවාඩු අහිමිවීමකින් තොරව ඡන්දය භාවිත කිරීමට හැකිවන පරිදි නිවාඩු ලබාදීමට අදාළ විධිවිධාන මැතිවරණ කොමිෂන් සභාව මගින් ප්‍රකාශයට පත් කර තිබේ.
+Elections Commission announces voting leave policy for public and private sector employees. Special leave granted without pay loss for voting in upcoming parliamentary election. Employees must notify employers in writing. Employers display approved leave documents in workplace.
 
-ඒ අනුව රාජ්‍ය අංශයේ නිලධාරීන්ගේ විශේෂ නිවාඩු පිළිබඳ ආයතන සංග්‍රහයේ 12වන පරිඡේදයේ 12/3 ඡේදයේ දක්වා ඇති පරිදි පාර්ලිමේන්තු මැතිවරණයක් සදහා අවම කාලය පැය 4ක් ලෙස ද ඡන්දය ප්‍රකාශ කිරීමට යාම පිණිස අවශ්‍ය යැයි හැඟෙන අඛණ්ඩ කාලයක් සදහා වැටුප් අඩුකිරීමකින් තොරව විශේෂ නිවාඩු ලබාදිය යුතු බව සදහන් වේ.
+🟩
 
-මැතිවරණ කොමිසන් සභාව පැවසුවේ පෞද්ගලික අංශයේ සේවක සේවිකාවන්ට වැටුප් හෝ පෞද්ගලික නිවාඩු අහිමිවීමකින් තොරව ඡන්දය භාවිත කිරීම සඳහා මානව හිමිකම් කොමිෂන් සභාව විසින් සිදුකරන ලද දැනුම් දීමක් මත ක්‍රමවේදයක් සකස් කර ඇති බවය.
+The Elections Commission has published the provisions relating to leave the public and private sector employees to be able to vote without loss of salaries or private sector employees in the next parliamentary election.
 
-ඒ අනුව ඡන්දය භාවිත කිරීම සඳහා සේවා ස්ථානයේ සිට තම ඡන්ද පොළට යායුතු දුර ප්‍රමාණය කිලෝමීටර් 40 හෝ ඊට අඩුනම් දින බාගයක කාලයක් ද කිලෝමීටර් 40-100ත් අතර නම් එක් දිනයක් ද අවම නිවාඩු ලබාදිය යුතු වේ.
+Accordingly, in paragraph 12/3 of the Establishments Code of Public Sector Code, the minimum period of four hours in paragraph 12/3 of the Establishments Code, special leave should be granted without a period of time to vote.
+
+The Election Commission said that a methodology has been prepared on a notification made by the Human Rights Commission to vote without loss of salaries or private sector employees.
+
+Accordingly, after 40-100 km of distance, the distance should be given to the minimum livelihood of 40-100 km.
+
+The Elections Commission said that if a half and a half kilometers were about 100-150 km, the Elections Commission said.
+
+However, it should be made by employees in writing to employers in writing.
 
 ...
 
 [Data](articles/22399e2f.json)
+
+[Extended Data](ext_articles/22399e2f.ext.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-11-03 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103111/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night while showers may occur over the coastal areas of Western and Southern provinces during the morning too.
+
+Heavy showers above 100 mm are likely at some places in Central and Uva provinces, it added.
+
+Accordingly, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8af95051.json)
 
 ---
 
@@ -199,6 +293,8 @@ Yet, as was to happen over and over again in the country’s politics, the vocal
 ...
 
 [Data](articles/b4fce6f5.json)
+
+[Extended Data](ext_articles/b4fce6f5.ext.json)
 
 ---
 
@@ -601,6 +697,22 @@ The Commissioner of Prisons (Commissioner of Prisons) have stated that the forme
 [Data](articles/15b4a278.json)
 
 [Extended Data](ext_articles/15b4a278.ext.json)
+
+---
+
+### කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් ආරම්භ කළ වර්ජනය අවසන්
+
+*2024-11-02 20:22:08* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ශික්ෂණ-රෝහලේ-වෛද්‍යවරුන්-ආරම්භ-කළ-වර්ජනය-අවසන්/11-412810) · `si`
+
+කරාපිටිිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් ආරම්භ කර වර්ජනය අවසන් කර තිබේ.
+
+වෛද්‍යවරුන් කිහිප දෙනෙකුට තවත් වෛද්‍යවරයෙකු තර්ජනය කිරීම හේතුවෙන් අද (02දා) පෙරවරුවේ මෙම වැඩ වර්ජනය ආරම්භ කිරීමට වෛද්‍යවරුන් කටයුතු කළහ.
+
+කෙසේ වෙතත් තර්ජනය කළ වෛද්‍යවරයා වෙනත් රෝහලකට මාරු කර යවන බවට සෞඛ්‍ය අමාත්‍යාංශයේ ලේකම්වරයා ලබා දුන් පොරොන්දුව මත මෙම වර්ජනය අවසන් කර ඇත.
+
+◼️
+
+[Data](articles/3d76d8f2.json)
 
 ---
 
@@ -2201,121 +2313,5 @@ A 24 -year -old Adrenia Beette, who is engaged in the charity of teaching studen
 [Data](articles/1e0d2855.json)
 
 [Extended Data](ext_articles/1e0d2855.ext.json)
-
----
-
-### Lohan Ratwatte transferred to Prison Hospital
-
-*2024-11-02 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103101/lohan-ratwatte-transferred-to-prison-hospital) · `en`
-
-Former State Minister Lohan Ratwatte, who was arrested and remanded on charges of using a luxury car illegally imported from abroad and assembled in Sri Lanka, has been transferred to the prison hospital.
-
-He was arrested by Mirihana Police on October 31 in Katugastota, Kandy.
-
-Ratwatte was subsequently produced before the Acting Magistrate of Nugegoda from the Mirihana Police Station, and was ordered to be remanded until November 7.
-
-However, the Acting Magistrate granted permission for Ratwatte to receive treatment at the prison hospital.
-
-Police said that the former state minister was arrested in Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
-
-The car without registered number plates was found on October 26, 2024, according to police.
-
-...
-
-[Data](articles/b9cf9130.json)
-
-[Extended Data](ext_articles/b9cf9130.ext.json)
-
----
-
-### Lohan Ratwatte to be arrested
-
-*2024-11-02 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202822) · `si`
-
-Former Sri Lankan State Minister Lohan Ratwatte arrested, remanded, hospitalized after arrest.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested and remanded, has been shifted to the prison hospital.
-
-මිරිහාන පොලීසිය මගින් ලොහාන් රත්වත්තේ මහතා ඉකුත් 31වනදා මහනුවර, කටුගස්තොට ප්‍රදේශයේදී අත්අඩංගුවට ගනු ලැබීය.
-
-Later that night, the night was brought to the Acting Magistrate to the Atmosion of Nugegoda and was ordered to be remanded until November 7.
-
-However, the Nugegoda Acting Magistrate was permitted to visit the Prison Hospital for treatment.
-
-◼️
-
-[Data](articles/45ae0daf.json)
-
-[Extended Data](ext_articles/45ae0daf.ext.json)
-
----
-
-### Will MP get rid of the feast?
-
-*2024-11-02 09:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விருந்து-கொடுத்தால்-எம்-பி-பதவி-பறிபோகும்/150-346437) · `ta`
-
-MPs may lose seats due to election violations. Organizations claim nominees' positions could be cancelled in court. This practice is seen as unfair to other candidates without resources. The Election Commission has warned hotels against hosting voter entertainment events.
-
-🟩
-
-Election monitoring organizations have said that if the people and supporters are nominated as MPs, the MPs will be announced in the Supreme Court and their MP posts will be canceled.
-
-“There have been incidents of the abolition of the posts of MPs to entertain voters.
-
-“This is a violation of the election law and that it is a serious injustice inflicted on other candidates who do not have money.
-
-The Election Commission has recently sent a letter to several major hotels to avoid providing their hotels to the election candidates to entertain voters.
-
-A spokesman for the Surveillance Organization said that the party would even lead to the cancellation of the post of the councilor of the concerned councilor.
-
-◼️
-
-[Data](articles/398fffe3.json)
-
-[Extended Data](ext_articles/398fffe3.ext.json)
-
----
-
-### Thundershowers in several places today
-
-*2024-11-02 09:26:55* · [`adalk`](https://www.ada.lk/breaking_news/දිවයිනේ-බොහෝ-ප්‍රදේශ-වලට-අද-ගිගුරුම්-සහිත-වැසි---පළාත්-කිහිපයකට-මි-මී-100-වැඩි-තද-වැසි/11-412802) · `si`
-
-Thunderstorms forecasted across multiple regions. Meteorological Department advises public to prepare for potential lightning damage. Heavy rainfall expected in Central, Sabaragamuwa, Uva, and North Central Provinces.
-
-🟩
-
-The Meteorological Department announces that atherosclerosis at several places in the country.
-
-So far, the Department requests the public to take necessary steps to minimize the damages caused by lightning.
-
-Meanwhile, there will be heavy showers in the Central, Sabaragamuwa, Uva and Uva and North Central Province.
-
-◼️
-
-[Data](articles/05bd7aa7.json)
-
-[Extended Data](ext_articles/05bd7aa7.ext.json)
-
----
-
-### Labor registration pause going to Lebanon
-
-*2024-11-02 09:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லெபனானுக்கு-செல்லும்-தொழிலாளர்-பதிவு-இடைநிறுத்தம்/175-346436) · `ta`
-
-Sri Lanka suspends labor registration for Lebanon due to ongoing conflicts. Foreign Employment Bureau advises citizens to avoid travel until situation stabilizes.
-
-🟩
-
-Priyantha Senanayake, General Manager of the Foreign Employment Bureau, said that the employees of the country will not register until the conflicts are resolved in the country.
-
-The Bureau of Foreign Employment has also given a series of instructions to Sri Lankans visiting Lebanon.
-
-◼️
-
-[Data](articles/0a5c320c.json)
-
-[Extended Data](ext_articles/0a5c320c.ext.json)
 
 ---

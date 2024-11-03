@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 02:58:33**
+As of **2024-11-04 03:09:39**
 
 ## Newspaper Stats
 
-*Scraped **52,863** Articles*
+*Scraped **52,865** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,72 @@ dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
 tamilmirrorlk | 7,342
-virakesarilk | 8,544
+virakesarilk | 8,546
 adaderanasinhalalk | 9,210
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,863 (100.0%) of 52,863 articles have been extended.
+52,865 (100.0%) of 52,865 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Pillaiyan party supporters attack Karuna's candidate and supporters in Batticaloa;3 people, including candidate, were injured
+
+*2024-11-04 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197826) · `ta`
+
+Pillaiyan party supporters attacked Karuna's candidate and supporters in Batticaloa. Three injured, including candidate. Police investigating incident.
+
+🟩
+
+Karuna Amman's party candidate and supporters in Batticaloa have been admitted to the hospital on Sunday night (3) in the Jayanthipuram area.
+
+Karuna Amman, a Democratic Front, on the Batticaloa Jayanthipuram school road, was speaking to supporters on Sunday night (3) on the former road in the office of the party's candidate.
+
+When the six -member Pillaiyan party supporters who came to the area were on the walls of Karuna Amman's party's posters on the posters of the Pillaiyan party on the posters pasted on the posters, Karuna's candidate went to Karuna's candidate and said that Karuna's supporters had to paste the posters over our posters.Party supporters carried out the attack.
+
+Initial inquiries by the police revealed that three others, including Karuna's party candidate Munisamy Nagendran and his supporter, were injured and the Pillaiyan party supporters have fled the scene.
+
+Following the attack, there was a stir and the police are conducting investigations.
+
+◼️
+
+[Data](articles/a3d13ec9.json)
+
+[Extended Data](ext_articles/a3d13ec9.ext.json)
+
+---
+
+### Fisheries business in Trincomalee provides livelihood for tens of thousands of families
+
+*2024-11-04 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197825) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Trincomalee's fisheries industry supports thousands of families. India supplies fishing gear to improve livelihoods and safety. India allocates funds for multi-faceted subsidies in Eastern Province, including fishing projects. The partnership aims to strengthen the fishing community and promote sustainable development.
+
+🟩
+
+Historically, fishing in Trincomalee, which historically excels as the homeland of Sri Lanka's fisheries community, is not just a profession, but also a lifestyle, which provides the livelihood of tens of thousands of families through this ancient tradition.
+
+The Indian Embassy in Trincomalee was supplying fishing equipment to 21 deep sea fishing fishermen associations in Trincomalee to improve the friendship of Sri Lanka and the Fishermen's Trade Association of Trincomalee Fishermen (03).
+
+He said this while addressing the fishermen's equipment for the event, the Chief Guest of the event.
+
+The sea has given the people the confidence of food, income and needs of the area.
+
+...
+
+[Data](articles/edda51f2.json)
+
+[Extended Data](ext_articles/edda51f2.ext.json)
+
+---
 
 ### Exchange betrayal
 
@@ -2289,55 +2343,5 @@ The pastor has a vehicle yard, including the number of vehicles, including the d
 [Data](articles/8f483d4e.json)
 
 [Extended Data](ext_articles/8f483d4e.ext.json)
-
----
-
-### 29 Nigerian children may be sentenced to death for protesting against cost-of-living crisis
-
-*2024-11-03 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103116/29-nigerian-children-may-be-sentenced-to-death-for-protesting-against-cost-of-living-crisis) · `en`
-
-Twenty-nine children could be facing the death penalty in Nigeria after they were arraigned Friday for participating in a protest against the country’s record cost-of-living crisis. Four of them collapsed in court due to exhaustion before they could enter a plea.
-
-A total of 76 protesters were charged with 10 felony counts, including treason, destruction of property, public disturbance and mutiny, according to the charge sheet seen by The Associated Press.
-
-According to the charge sheet, the minors ranged in age from 14 to 17 years old.
-
-Frustration over the cost-of-living crisis has led to several mass protests in recent months. In August, at least 20 people were shot dead and hundreds more were arrested at a protest demanding better opportunities and jobs for young people.
-
-The death sentence was introduced in the 1970s in Nigeria, but there have been no executions in the country since 2016.
-
-...
-
-[Data](articles/8ddff61d.json)
-
-[Extended Data](ext_articles/8ddff61d.ext.json)
-
----
-
-### கொத்தலாவல பாதுகாப்பு கல்லூரியின் பேருந்தின் நிலைமை நாட்டுக்கும் ஏற்படலாம் - ரணில் எச்சரிக்கை
-
-*2024-11-03 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197758) · `ta`
-
-Ranil Wickremesinghe warns Sri Lanka may face another crisis due to inexperienced leadership. He advises selecting experienced parliamentarians to prevent future problems. The former president compares the current situation to the Kotalawala Safety College bus accident, highlighting the need for skilled governance.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that the situation for the buses of the Kotalawala Safety College could occur in Sri Lanka.
-
-நாடாளுமன்றத்துக்கு அனுபவம் உள்ளவர்களை தெரிவு செய்யவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவர் அனுபவம் மிக்க தலைமைத்துவம் இல்லாவிட்டால் இலங்கை மீண்டும் நெருக்கடியை எதிர்கொள்ள நேரிடலாம் என எச்சரித்துள்ளார்.
-
-He said that there is little experience in the current government, and that the knowledgeable leadership is essential to avoid future crises.
-
-நான் கடந்தகாலங்களிலும் நாடாளுமன்ற உறுப்பினராக பதவி வகித்துள்;ளேன் தற்போது எங்கள் குழுவிலிருந்து புதிய அணியை உருவாக்கவேண்டும் என கருதுகின்றேன்,இவர்கள் மாத்திரமே நாட்டில் உள்ள அனுபவசாலிகள் என அவர் தெரிவித்துள்ளார்.
-
-His team has been in office for three to four years.
-
-He pointed out the speed with the Sri Lankan economic crisis and said that even the world countries could not even think.
-
-...
-
-[Data](articles/18586feb.json)
-
-[Extended Data](ext_articles/18586feb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 13:09:52**
+As of **2024-11-03 13:24:25**
 
 ## Newspaper Stats
 
-*Scraped **52,770** Articles*
+*Scraped **52,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,155
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,913
-adaderanalk | 6,272
-tamilmirrorlk | 7,326
+adalk | 4,915
+adaderanalk | 6,273
+tamilmirrorlk | 7,328
 virakesarilk | 8,511
 adaderanasinhalalk | 9,199
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 9,199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,770 (100.0%) of 52,770 articles have been extended.
+52,770 (100.0%) of 52,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### Delay in Grade 5 Scholarship exam evaluations could impact future exams, CTU warns
+
+*2024-11-03 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103119/delay-in-grade-5-scholarship-exam-evaluations-could-impact-future-exams-ctu-warns) · `en`
+
+The Ceylon Teachers’ Union (CTU) has raised concerns over the delay in evaluating the 2024 Grade 5 Scholarship Examination answer sheets, warning that prolonged postponement could disrupt upcoming examinations and impact students’ studies.
+
+Chairman of the union Priyantha Fernando urged education authorities to prioritize the matter, emphasizing that timely evaluation is essential to prevent further interruptions in the academic schedule.
+
+He noted that the delay could affect not only the 2024 Grade 5 Scholarship Examination assessment but also school studies and future examinations.
+
+Responding to an inquiry by Ada Derana, Secretary of the Ministry of Education Mrs. Thilaka Jayasundara explained that the delay in evaluation stems from ongoing fundamental rights petitions filed before the Supreme Court regarding the 2024 Grade 5 Scholarship Examination.
+
+She stated that, due to the legal proceedings, the ministry has not yet been able to initiate the evaluation process.
+
+...
+
+[Data](articles/3e7fe568.json)
+
+---
+
+### නවසීලන්තය හමුවේ ඉන්දීයාවට පූර්ණ තරගාවලි පරාජයක්
+
+*2024-11-03 13:13:51* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-හමුවේ-ඉන්දීයාවට-පූර්ණ-තරගාවලි-පරාජයක්/9-412819) · `si`
+
+සංචාර නවසීලන්ත කණ්ඩායම හමුවේ පූර්ණ ටෙස්ට් තරගාවලි පරාජයකට මුහුණ දීමට ඉන්දීය කණ්ඩායමට මීට සුළු මොහොතකරට පෙර සිදු විය.
+
+ඒ දෙරට අතර පැවති තෙවන හා අවසන් ටෙස්ට් ක්‍රිකට් තරගය ලකුණු 25කින් පරාජයට පත්වීමත් සමගයි.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායමට සිය පළමු ඉනිමට සියලුදෙනා දැවී ලකුණු 235ක් රැස් කළ අතර, ඊට පිළිතුරු ඉනිම ඉන්දීය කණ්ඩායම පළමු ඉනිමට සියල්ලන් දැවී ලකුණු 263ක් රැස් කළේය.
+
+අනතුරුව දෙවන ඉනිම ක්‍රීඩා කළ නවසීලන්ත කණ්ඩායම සියලු දෙනා දැවී ලකුණු 174ක් රැස් කළේය.
+
+ඒ අනුව ලකුණු 147ක ජයග්‍රාහී 147ක ඉලක්කයක් හඹා ගිය ඉන්දීය කණ්ඩායමට සියලු දෙනා දැවී රැස් කරගත හැකි වූයේ ලකුණු 121ක් පමණී.
+
+දෙරට අතර පැවති ටෙස්ට් තරග තුනම ජයගත් නවසීලන්ත කණ්ඩායම තරගාවලියද ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/5f8f5cd8.json)
+
+---
+
+### அனைத்து படையினரையும் மீள அழைப்பதற்கு தீர்மானம்
+
+*2024-11-03 13:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-படையினரையும்-மீள-அழைப்பதற்கு-தீர்மானம்/175-346486) · `ta`
+
+பிரதான ஆலயங்கள் மற்றும் ஏனைய மத வழிபாட்டுத் தலங்களின் பாதுகாப்பு பணிகளுக்காக ஈடுபடுத்தப்பட்டுள்ள அனைத்து இராணுவப் படையினரையும் மீள அழைப்பதற்கு அரசாங்கம் கவனம் செலுத்தி வருவதாக தகவல்கள் தெரிவிக்கின்றன.
+
+பெரிய ஆலயங்கள் உள்ளிட்ட மத வழிபாட்டுத் தலங்களை துடைப்பது, சமைப்பது, வாகனம் ஓட்டுவது போன்றவற்றுக்கு ராணுவ வீரர்கள் பயன்படுத்தப்பட்டுள்ளனர்.
+
+அதிக இராணுவ பங்களிப்பு மற்றும் அதிக படைகளை கொண்ட கோவில்கள் தாங்கள் உயர் பாதுகாப்பு நிலையில் இருப்பதைக் காட்ட இராணுவம் மற்றும் கடற்படை வீரர்களை அதிகளவில் பயன்படுத்தியுள்ளன.
+
+◼️
+
+[Data](articles/71f98026.json)
+
+---
+
+### துன்ஹிந்த விபத்து: மாணவன் மாயம்
+
+*2024-11-03 12:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/துன்ஹிந்த-விபத்து-மாணவன்-மாயம்/76-346485) · `ta`
+
+பதுளை, துன்ஹிந்த, அபகஹஓயா 5 ஆவது மைல்கல் பிரதேசத்தில் இடம்பெற்ற பஸ் விபத்தில் காயமடைந்து பதுளை போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த பல்கலைக்கழக மாணவர் ஒருவர் வார்டில் இருந்து சனிக்கிழமை (02)  தப்பிச் சென்றுள்ளதாக பதுளை பொலிஸார் தெரிவிக்கின்றனர்.
+
+ஜாஎல அலெக்சாண்டர் மாவத்தையில் வசிக்கும் கொத்தலாவல பாதுகாப்பு பல்கலைக்கழகத்தில் கல்வி கற்கும் 24 வயதுடைய பல்கலைக்கழக மாணவர் ஒருவரே வைத்தியசாலை வார்டில் இருந்து  இரகசியமாக தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2c8d8739.json)
+
+---
 
 ### Lanka Sathosa reduced prices
 
@@ -127,6 +199,24 @@ However, he was admitted to the Colombo National Hospital for treatment due to a
 [Data](articles/861d9553.json)
 
 [Extended Data](ext_articles/861d9553.ext.json)
+
+---
+
+### රු. ලක්ෂ 60ක ඇපල් දුරකතන හා එනසාල් කටුනායකින් පන්නන් බැරිවෙයි
+
+*2024-11-03 11:47:52* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ 60ක-ඇපල්-දුරකතන-හා-එනසාල්-කටුනායකින්-පන්නන්-බැරිවෙයි/11-412816) · `si`
+
+රුපියල් ලක්ෂ 60 ක් පමණ වටිනා නවීනතම ඇපල් ජංගම දුරකථන 08 ක් සහ එනසාල් කිලෝ ග්‍රෑම් 76 යි ග්‍රෑම් 300 ක තොගයක් කටුනායක ගුවන් තොටුපොළෙන් පිට කර ගෙන යමින් සිටි ගුවන් මගියෙකු 11/01 දින රාත්‍රී කටුනායක ගුවන් තොටුපොළ පොලිසිය මගින් අත් අඩංගුවට ගෙන තිබේ. මොහු කොළඹ - 12 ප්‍රදේශයේ පදිංචි 48 හැවිරිදි ව්‍යාපාරිකයෙකි..
+
+ඔහු 11/01 දින රාත්‍රී 06.45 ට ඩුබායි සිට එමිරේට්ස් ගුවන් සේවයේ ඊ.කේ.- 652 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+මොහු සියලුම නිශ්කාශන කටයුතු නිම කර ගුවන් තොටුපොළෙන් පිටතට යමින් සිටියදී, කටුනායක ගුවන් තොටුපොළ පොලිසියේ නිලධාරීන් පිරිසක් විසින් මෙම අත් අඩංගුවට ගැනීම සිදු කර තිබුණි.
+
+එහිදී නවීනතම ඇපල් 16+ (Sixteen Plus ) වර්ගයේ ජංගම දුරකථන සහ එනසාල් තොගය රෙදි වලින් ආවරණය කර , තම ගමන් මලු තුළ සගවා ගෙන සිටියදී , ගුවන් තොටුපොළ පොලිස් නිලධාරීන් විසින් සොයා ගෙන අත් අඩංගුවට ගෙන තිබේ.
+
+...
+
+[Data](articles/1632931e.json)
 
 ---
 
@@ -2275,113 +2365,5 @@ The suspects arrived at the temple was tied with cloths, police said.
 [Data](articles/45d3df71.json)
 
 [Extended Data](ext_articles/45d3df71.ext.json)
-
----
-
-### Special security for Lohan Ratwatte at Prison Hospital
-
-*2024-11-02 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103104/special-security-for-lohan-ratwatte-at-prison-hospital) · `en`
-
-A decision has been taken to provide special security to former State Minister Lohan Ratwatte, who has been admitted to the prison hospital due to an illness.
-
-Prisons Commissioner and Spokesman Gamini B. Dissanayake stated that since Lohan Ratwatte is the former State Minister in charge of Prisons, this special protection has been provided according to court orders.
-
-He was arrested by the Mirihana Police on October 31 in Katugastota, Kandy, for allegedly using a luxury car that was illegally imported from abroad and assembled in Sri Lanka.
-
-Later, he was produced before the Acting Magistrate of Nugegoda by the Mirihana Police, where he was ordered to be remanded until November 7.
-
-Meanwhile, Ratwatte’s wife has also been notified to provide a statement regarding the relevant vehicle at the Mirihana Police.
-
-◼️
-
-[Data](articles/6b5bbddb.json)
-
-[Extended Data](ext_articles/6b5bbddb.ext.json)
-
----
-
-### Sudden illness for Lohan Ratwatta
-
-*2024-11-02 14:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவுக்கு-திடீர்-சுகவீனம்/175-346446) · `ta`
-
-Lohan Ratwatta, former Sri Lankan State Minister, hospitalized after arrest for luxury car theft. Magistrate allows transfer to prison hospital for medical care.
-
-🟩
-
-Former State Minister Lohan Ratwatta has been sick for the arrest and interrogation of the luxury car as spare parts.
-
-The Magistrate has granted permission for Ratwatta to be transferred to the Prison Hospital for medical treatment.R
-
-◼️
-
-[Data](articles/524b2ac7.json)
-
-[Extended Data](ext_articles/524b2ac7.ext.json)
-
----
-
-### August attack plan;More and more arrests
-
-*2024-11-02 14:25:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-தாக்குதல்-திட்டம்-மேலும்-பலர்-கைது/175-346445) · `ta`
-
-Arukambe terror plot: 6 arrests, including Maldivian citizen, announced by Public Security Minister Vijitha Herath.
-
-🟩
-
-More and more people have been arrested in connection with the plan to launch a terrorist attack in the Arukambe area.
-
-According to the Public Security Minister Vijitha Herath, six people, including the Maldivian citizen, have been arrested by the Terrorist Investigation Division.
-
-◼️
-
-[Data](articles/08082a27.json)
-
-[Extended Data](ext_articles/08082a27.ext.json)
-
----
-
-### Station Masters Strike on Yeastal Station?
-
-*2024-11-02 14:24:57* · [`adalk`](https://www.ada.lk/breaking_news/යළත්-දුම්රිය-ස්ථානාධිපතිවරුන්ගේ-වර්ජනයක්-/11-412808) · `si`
-
-Station Masters strike threat: Unions clash over demands. Temporary suspension of operations due to Deepavali celebrations.
-
-🟩
-
-The Station Masters' Association states that if their request is not suitable for the proper solution, the Station OICs Association states that a trade union action will be launched tomorrow.
-
-The union decided to temporarily suspend the Trade Union Operation Deepavali at the 12th of the day due to Deepavali ceremony.
-
-◼️
-
-[Data](articles/896b25f7.json)
-
-[Extended Data](ext_articles/896b25f7.ext.json)
-
----
-
-### Strike on Karapitiya National Hospital
-
-*2024-11-02 14:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202830) · `si`
-
-Karapitiya Hospital strike summary: Doctors' symbolic work stoppage ended after 24 hours. Threats against cancer ward doctor led to temporary abandonment. All specialists and government medical officers participated, affecting patient care.
-
-🟩
-
-Doctors at Karapitiya National Hospital yesterday (01). 5 සිට පැය 24ක කාලයක් සඳහා ක්‍රියාත්මක කර තිබූ සංකේත වැඩ වර්ජනය අවසන් කර තිබේ.
-
-The strike continued to threaten several other doctors at the hospital, saying that the candid doctor in charge of the Cancer Ward was threatened.
-
-However, the strike has been temporarily abandoned after a discussion with the Director of the Karapitiya Hospital today (2).
-
-However, strike states say that the doctor is not taken regarding the doctor.
-
-All specialists at the Karapitiya Hospital and all the doctors of the Government Medical Officers Association joined the strike, resulting in clinical treatment.
-
-◼️
-
-[Data](articles/8ca84874.json)
-
-[Extended Data](ext_articles/8ca84874.ext.json)
 
 ---

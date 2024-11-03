@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 21:09:41**
+As of **2024-11-03 21:24:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,207
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,841 (100.0%) of 52,842 articles have been extended.
+52,842 (100.0%) of 52,842 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -280,19 +280,25 @@ Those who frequented the people of Nuwara Eliya during the presidential election
 
 ---
 
-### සතොස භාණ්ඩ තුනක මිල බස්සවයි
+### COOs bowed the price of three
 
 *2024-11-03 18:15:45* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-තුනක-මිල-බස්සවයි/11-412827) · `si`
 
-ජනතාවට සහන සැපයීමේ අරමුණින්  ලංකා සතොස මගින් අලෙවි කරන  අත්‍යවශ්‍ය භාණ්ඩ තුනක මිල පහළ දැමූ බව ලංකා සතොස ආයතනය පවසයි.
+Lanka Sathosa reduces prices: Nagas now Rs. 850/kg, big onions Rs. 300/kg. Relief measures implemented nationwide.
 
-ඒ අනුව දිවයිනේ සියලුම  ලංකා සතොස අලෙවිසල්වල   මුං ඇට කිලෝවක මිල රුපියල් 850 සිට රුපියල්    799 දක්වා රුපියල් 51 කින්ද ,සුදු කවුපි කිලෝවක මිල රුපියල් 900 සිට 880 දක්වා රුපියල් 20 කින්ද  ,සුදු සීනි කිලෝවක මිල රුපියල් 248 සිට 243 දක්වා රුපියල් 05 කින්ද පහල දැමූ බව සතොස ආයතනයේ අලෙවි ප්‍රධානි සමන් කාරියවසම් මහතා පවසයි.
+🟩
 
-එමෙන්ම ලොකු ලූණු කිලෝවක් රුපියල් 300 බැගින්  සියලුම සතොස අලෙවිසල්වලින් ලබාගැනීමට හැකි බවද ඒ මහතා පැවසීය.
+The Lanka Sathosa says that the prices have been reduced by three essential commuters sold by Lanka Sathosa with the objective of providing relief to the people.
+
+Accordingly, the citizens of a kilogram of nags in all Lanka Sathosa outlets of the country from Rs. 850 to Rs.Heads of the Institute Saman Kariyawasam said.
+
+He also said that a kilo of big onions can be obtained from all Sathosa outlets at Rs. 300 each.
 
 ◼️
 
 [Data](articles/69c76882.json)
+
+[Extended Data](ext_articles/69c76882.ext.json)
 
 ---
 

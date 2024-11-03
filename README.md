@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 19:58:16**
+As of **2024-11-03 20:58:39**
 
 ## Newspaper Stats
 
-*Scraped **52,836** Articles*
+*Scraped **52,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,923
+adalk | 4,924
 adaderanalk | 6,281
 tamilmirrorlk | 7,337
-virakesarilk | 8,538
-adaderanasinhalalk | 9,206
+virakesarilk | 8,541
+adaderanasinhalalk | 9,207
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,836 (100.0%) of 52,836 articles have been extended.
+52,839 (100.0%) of 52,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### லொஹான் ரத்வத்த பொது வார்டுக்கு மாற்றப்பட்டார் - சிறைச்சாலை ஊடகப் பேச்சாளர்
+
+*2024-11-03 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197823) · `ta`
+
+கொழும்பு தேசிய வைத்தியசாலையில் சிறைச்சாலை அதிகாரிகளின் பாதுகாப்பில் அவசர சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வந்த முன்னாள் இராஜாங்க அமைச்சர் லொஹான் ரத்வத்தே, அந்தப் பிரிவிலிருந்து பொது வார்டுக்கு மாற்றப்பட்டுள்ளார்.
+
+சனிக்கிழமை (02) இரவு ஏற்பட்ட திடீர் நோய் நிலை காரணமாக லொஹான் ரத்வத்த தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சிறைச்சாலை ஊடகப் பேச்சாளர் காமினி பீ.திஸாநாயக்க குறிப்பிட்டுள்ளார்.
+
+சிறைச்சாலை வைத்தியசாலையில் சிகிச்சை பெற்று வந்த ரத்வத்தேவுக்கு சனிக்கிழமை இரவு ஏற்பட்ட திடீர் நோய் நிலை காரணமாக கொழும்பு தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்டார்.
+
+சட்டவிரோதமான முறையில் வெளிநாட்டிலிருந்து இலங்கைக்கு கொண்டு வரப்பட்டு பொருத்தப்பட்ட சொகுசு காரை பயன்படுத்திய குற்றச்சாட்டின் பேரில் கடந்த 31 ஆம் திகதி கைது செய்யப்பட்ட லொஹான் ரத்வத்தே, நுகேகொடை பதில் நீதவான் முன்னிலையில் ஆஜர்படுத்தப்பட்ட பின்னர் எதிர்வரும் 7 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/04a46d69.json)
+
+---
+
+### හිටපු කෘෂිකර්ම අධ්‍යක්ෂකවරයාගෙන් ඩඩ්ලි සිරිසේනට චෝදනා
+
+*2024-11-03 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202869) · `si`
+
+වරින්වර නිර්මාණය වන වෙළෙඳපොළේ සහල් අර්බුදයට පැවති ආණ්ඩු වගකිව යුතු බවට මහා පරිමාණ සහල් ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතා ඊයේ (02) කළ ප්‍රකාශය මුළුමනින්ම අසත්‍යයක් බව හිටපු කෘෂිකර්ම අධ්‍යක්ෂ කේ.බී. ගුණරත්න මහතා පවසයි.
+
+ඔහු අද (03) ප්‍රකාශ කළේ ඩඩ්ලි සිරිසේන ඇතුළු මහා පරිමාණ මෝල්හිමියන් පස් දෙනෙක් වරින්වර මෙම සහල් අර්බුදය ඇති කරන බවය.
+
+පසුගිය කාලයේ වෙළෙඳපොළේ පාලන මිල ඉක්මවා සහල් අලෙවි කෙරුණු අතර ඇතැම් සහල්වල හිඟයක් පැවතියේය.
+
+ඒ අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා ඔක්තෝබර් 24 වනදා මහා පරිමාණ සහල් නිෂ්පාදකයින් කැඳවා පාලන මිලට සහල් අලෙවි කරන ලෙස දැනුම් දුන් අතර ඔවුන්ද එහිදී ඊට එකඟතාව පළකළේය.
+
+එහෙත් තවමත් වෙළෙඳපොළේ සහල් හිඟය නිමා වී හෝ පාලන මිලට සහල් අලෙවි කිරීම සිදුනොවන බවට වෙළෙඳුන් සහ පාරිභෝගිකයන් චෝදනා කරයි.
+
+මේ අතර වී තොග සහ සහල් තොග පිළිබඳ දත්ත වාර්තාවක් වහාම ඉදිරිපත් කරන ලෙස ජනාධිපතිවරයා නියම කොට සතියක් ඉක්ම ගොස් ඇතත් තවමත් එම වාර්තාව ජනාධිපතිවරයා වෙත ලබා දී නොමැති බව වාර්තා වේ.
+
+...
+
+[Data](articles/6e1f1a93.json)
+
+---
+
+### JVP. Tamils ​​do nothing - P.Ingaranesan
+
+*2024-11-03 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197822) · `ta`
+
+Here's a 200-character summary:
+
+
+
+JVP opposes Palm Development Council growth. Candidate P.Ingaranesan criticizes JVP's stance. Council aims to improve Tamil livelihoods but faces challenges. Experts suggest promoting palm economy under provincial or central administration.
+
+🟩
+
+The JVP is drunk that will do good for the Tamil people. The JVP, who does not want the growth of the palm development council, is going to find a solution to the Tamil people.. Election district candidate P.Ingaranesan has questioned.
+
+Yall. He said this during a media briefing held at the Media Center on Sunday (03).
+
+When Minister Vijitherath appointed Selvin Ireneus as the Chairman of the Palm Development Board last month, we thought that we were born to the Palm Development Council.. However, within two weeks, his appointment was canceled and a man who was not like the Vedic climbing the trunk has been appointed as the head of the Palm Development Board.
+
+With this appointment change, the growth of the palm development council has been pushed backwards. Some of our people are drinking in mind that the JVP will do good to the Tamil people. The JVP, which does not want the growth of the Palm Development Board, is going to find a solution for the Tamil people.
+
+...
+
+[Data](articles/d832655c.json)
+
+[Extended Data](ext_articles/d832655c.ext.json)
+
+---
+
+### Was the protection removed for religious places of worship?Ministry of Defense
+
+*2024-11-03 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197821) · `ta`
+
+Defense Ministry denies removal of security from religious sites. False news spread on newspapers and social media. Official statement rejects claims.
+
+🟩
+
+The Ministry of Defense has refused the news that the security forces and members of the Civil Defense Department have been removed from religious places of worship.
+
+Media Spokesperson and Media Spokesperson of the Ministry of Defense and Media Speaker at a special press conference on Sunday afternoon (03). B.. B.. Nalin Herath said this.
+
+He added that the false news has been published on the leading newspaper and social media and that all information has been rejected by the tweet.
+
+◼️
+
+[Data](articles/96e0a407.json)
+
+[Extended Data](ext_articles/96e0a407.ext.json)
+
+---
 
 ### Lightning kills 14 at Uganda refugee camp
 
@@ -173,6 +263,24 @@ Those who frequented the people of Nuwara Eliya during the presidential election
 [Data](articles/3a524c94.json)
 
 [Extended Data](ext_articles/3a524c94.ext.json)
+
+---
+
+### Inflation in Colombo is for the second consecutive year
+
+*2024-11-03 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-උද්ධමනය-අඛණ්ඩව-දෙවැනි-වතාවටත්-අවධමනයක/11-412826) · `si`
+
+Colombo inflation drops second straight year. Consumer Price Index shows negative growth, matching Central Bank's forecast. SLBFE reports 0.8% decrease in 2024.
+
+🟩
+
+In the Colombo Consumer Price Index (Utan 2021 = 100) Surface inflation measured by the annual point difference is a negative for the second month, consistent with short-term inflationary predictions made by the Central Bank of Sri Lanka.The Central Bank of Sri Lanka (SLBFE) reports that 2024 reduces a 0.8 percent paragraph recorded in the month.
+
+◼️
+
+[Data](articles/e4e5215a.json)
+
+[Extended Data](ext_articles/e4e5215a.ext.json)
 
 ---
 
@@ -2231,113 +2339,5 @@ Gross inflows from exports, remittances, and services were 2,059 million dollars
 [Data](articles/aa91b9b7.json)
 
 [Extended Data](ext_articles/aa91b9b7.ext.json)
-
----
-
-### Showers over 100 mm
-
-*2024-11-03 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202850) · `si`
-
-Heavy rainfall warning: Showers >100mm expected in Central & Uva provinces. Thunderstorms possible nationwide. Coastal areas in Western & Southern provinces may experience showers. Public advised to take precautions against lightning risks.
-
-🟩
-
-Some places in the Central and Uva provinces today (03) mm.. Heavy rains can occur at more than 100, the Met Department said.
-
-The department announces that showers or thundershowers during the evening or night in many parts of the island.
-
-Showers will occur at the coastal areas in the Western and Southern provinces.
-
-The Meteorological Department urges the public to take necessary steps to reduce the damages caused to lightning, as at least ample risk of thunderstorms in many parts of the island.
-
-◼️
-
-[Data](articles/23ce7814.json)
-
-[Extended Data](ext_articles/23ce7814.ext.json)
-
----
-
-### Sleep: Baby boxes in Finland a Baby in Finland
-
-*2024-11-03 04:17:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04lpnqkrz5o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Baby boxes in Finland promote healthy sleep habits for newborns. They contain essentials like clothes and a mattress. Parents prioritize sleep routines, limiting screen time before bed. Experts stress sleep's importance for mental, physical, and social development. Digital devices can disrupt sleep patterns, so removing them from bedrooms is advised.
-
-🟩
-
-Sleep: Baby boxes in Finland a Baby in Finland
-
-When Sukoo and her husband Prasad, her husband, Prasad, was a country where the people of the earth treated as the worst place - a cardboard box.
-
-"It's not just a box. It is a maternity box with essentials, "Soukhaka Herath said.
-
-The couple was expecting their first child when they were moved from Singapore six years ago.
-
-Cultural conversation of babies to sleep habits - West is surprised?
-
-Knowledge of the government, including hot clothes, bave bag and other items, is a tradition of Finland for 75 years. Regardless of parental or socio-economic background, all pregnant mothers offer a similar start.
-
-"It will be the first bed inside the bag and become a baby's first bed," says Prasad Jayathwatta, a father of two and two two daughters.
-
-Like their older child, the youngest child was also the first to sleep in the same box.
-
-...
-
-[Data](articles/2d6c8db5.json)
-
-[Extended Data](ext_articles/2d6c8db5.ext.json)
-
----
-
-### Man for All Seasons
-
-*2024-11-03 02:34:00* · [`islandlk`](http://island.lk/man-for-all-seasons/) · `en`
-
-My subject this morning is Leelananda De Silva with comments on his book The Long Littleness of Life: a memoir of government, the United Nations, family and friends, published 2016. I read it then but re-read it this week and am more impressed and desirous of sharing my feelings and opinion with others. Hence this article, with of course Leelananda’s permission to go ahead and write but not in praise, he strictly stipulated.
-
-...
-
-[Data](articles/80135609.json)
-
-[Extended Data](ext_articles/80135609.ext.json)
-
----
-
-### AFTERMATH OF THE 1953 HARTAL
-
-*2024-11-03 02:29:00* · [`islandlk`](http://island.lk/aftermath-of-the-1953-hartal/) · `en`
-
-Motion of No Confidence in Government (Hansard of 1st September 1, 1953)
-
-(Speech made by Dr. NM Perera published in his birth centenary memorial volume)
-
-Dr. Perera:Before I deal with the subject, I want to say a word about the Hon. Prime Minister and his references to my good friend the Leader of the Opposition (Mr. Bandaranaike). My friend the Prime Minister is not here. I hope that he has not had a recurrence of his affliction. Today while he was on the first part of his speech, he reminded me of the father; it was the same technique, the same type of personal attack on the Leader of the Opposition. I remember the last motion of No Confidence that we debated. I think it was moved just before the dissolution of Parliament, and it was one of the last debates which was attended by my good friend, the late Rt. Hon. D.S. Senanayake. He spoke in that debate and it was a tirade against my good friend the Leader of the Opposition.
-
-...
-
-[Data](articles/67c660e6.json)
-
-[Extended Data](ext_articles/67c660e6.ext.json)
-
----
-
-### Fieldwork and Travels in Rural Sindh, Pakistan
-
-*2024-11-03 02:09:00* · [`islandlk`](http://island.lk/fieldwork-and-travels-in-rural-sindh-pakistan/) · `en`
-
-After completing my Ford fellowship at Oxford University in 1991, I joined the Indus River Left Bank Outfall Drainage Project in Sindh, Pakistan, as its Senior Socio-Economist and resident team leader. The project, sponsored by the World Bank, Asian Development Bank, and several other international donors, aimed at improving irrigated agriculture in Sindh. The Sindh Development Studies Centre (SDSC) of the University of Sindh in Jamshoro (near Hyderabad) oversaw the socio-economic studies of the project.
-
-I arrived at Karachi Airport in late December. Parvez Pathan, my SDSC counterpart, met me at the airport. We discussed my accommodation and security on our drive to Jamshoro, about 220 kilometres from Karachi. He told me a beautifully furnished bungalow awaited me on the university campus. He opined that I should always have a trustworthy person with me for my security. SDSC had found a reliable young man to be my housekeeper, cook, and personal security guard.
-
-...
-
-[Data](articles/13decbbe.json)
-
-[Extended Data](ext_articles/13decbbe.ext.json)
 
 ---

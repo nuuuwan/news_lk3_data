@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 17:41:01**
+As of **2024-11-03 18:00:58**
 
 ## Newspaper Stats
 
-*Scraped **52,812** Articles*
+*Scraped **52,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,155
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,918
+adalk | 4,920
 adaderanalk | 6,279
-tamilmirrorlk | 7,334
+tamilmirrorlk | 7,336
 virakesarilk | 8,527
 adaderanasinhalalk | 9,205
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 9,205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,812 (100.0%) of 52,812 articles have been extended.
+52,814 (100.0%) of 52,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### மாணவர்களுக்கு ஜனாதிபதியின் விஷேட அறிவிப்பு
+
+*2024-11-03 17:47:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-ஜனாதிபதியின்-விஷேட-அறிவிப்பு/175-346502) · `ta`
+
+பாடசாலை மாணவர்களுக்கு பாடசாலை புத்தகங்களை கொள்வனவு செய்வதற்குக் கொடுப்பனவு வழங்கத் திட்டமிட்டுள்ளதாக ஜனாதிபதி அனுரகுமார திஸாநாயக்க தெரிவித்துள்ளார்.
+
+அத்துடன் அரச உத்தியோகத்தர்களின் சம்பளத்தை அதிகரிக்க தற்போதுள்ள அரசாங்கத்திடம் பணம் இருந்திருந்தால் அதனை ஒரே நேரத்தில் செய்திருக்க முடியும் எனவும் ஜனாதிபதி மேலும் குறிப்பிட்டார். R
+
+◼️
+
+[Data](articles/f872ac48.json)
+
+---
+
+### திகனையில் வாகனம்: போதகர் சிக்கினார்
+
+*2024-11-03 17:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திகனையில்-வாகனம்-போதகர்-சிக்கினார்/76-346501) · `ta`
+
+தெல்தெனிய, திகன பிரதேசத்தில் பொலிஸாரால் சனிக்கிழமை (02) பிற்பகல் கண்டுபிடிக்கப்பட்ட போலி இலக்கத் தகடுகள் கொண்ட பிராடோ ரக ஜீப், தெல்தெனிய கல்தென்ன போதகருக்கு சொந்தமானது என தெரியவந்ததையடுத்து சந்தேகத்தின் பேரில் அவரை பொலிஸார் கைது செய்துள்ளனர்.
+
+திகன ஐ.சி.சி வீட்டுத் தொகுதியில் உள்ள ஆளில்லாத வீடொன்றின் கராஜிலேயே ரேஜில் இந்த ஜீப்பை தெல்தெனிய பொலிஸார் கண்டெடுத்துள்ளார்.
+
+முன்னாள் இராஜாங்க அமைச்சர்   லொஹான் ரத்வத்தவின் (சில நாட்களுக்கு முன்னர் தன்னைத்தானே சுட்டுக் கொண்ட) பிரத்தியேக செயலாளர் சில வாரங்களுக்கு முன்னர் இந்த ஜீப்பை குறித்த இடத்திற்கு கொண்டு வந்ததாக போதகரின் மகன் ஒருவர் முன்னர் தெரிவித்திருந்தார்.
+
+கண்டி, பிலபால பிரதேசத்தில் பெண் ஒருவரின் ஜீப்பின் இலக்கத் தகட்டைப் பயன்படுத்தி சந்தேகநபர் மற்றும் அவரது குடும்பத்தினர் இந்த ஜீப்பை ஓட்டிச் சென்றதாகத் தகவல் வெளியாகியுள்ளது.
+
+...
+
+[Data](articles/0f1a8616.json)
+
+---
+
+### 14 people killed in lightning
+
+*2024-11-03 17:08:16* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැර-වැදීමෙන්-පුද්ගලයන්-14-දෙනෙකු-ජීවිතක්ෂයට/11-412822) · `si`
+
+Lightning strike kills 14 in Uganda refugee camp; 34 injured.
+
+🟩
+
+At least 14 people were killed in a refugee camp in Uganda.
+
+Foreign media reports that 34 others were injured and hospitalized.
+
+◼️
+
+[Data](articles/916fdead.json)
+
+[Extended Data](ext_articles/916fdead.ext.json)
+
+---
 
 ### No withdrawal of security at religious places - Defence Ministry
 
@@ -179,6 +231,30 @@ However, the accident had occurred, however, police investigations have been ide
 [Data](articles/9ce8fee1.json)
 
 [Extended Data](ext_articles/9ce8fee1.ext.json)
+
+---
+
+### Tasa personnel committee seek injustice due to relief
+
+*2024-11-03 15:54:04* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-නිසා-අසාධාරණයට-ලක්වූ-සමෘද්ධිලාභීන්-ගැන-සොයන්න-දස-පුද්ගල-කමිටුවක්/11-412821) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Committee formed to address injustice related to relief. Members: Senasana (Religious & Cultural Affairs), National Integration, Social Security, and Media Secretary Ranjith Ariyaratne.
+
+🟩
+
+A committee has been appointed on the instructions of Hon
+
+The committee appointed as Senasana, Religious and Cultural Affairs, National Integration, Social Security and Media Secretary Ranjith Ariyratne.
+
+◼️
+
+[Data](articles/e4d909ba.json)
+
+[Extended Data](ext_articles/e4d909ba.ext.json)
 
 ---
 
@@ -2181,109 +2257,5 @@ Minister Herath noted that they immediately acted upon receiving information abo
 [Data](articles/d096d679.json)
 
 [Extended Data](ext_articles/d096d679.ext.json)
-
----
-
-### Are you aware of quality diet boxes and water bottles?
-
-*2024-11-02 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202848) · `si`
-
-Quality diet boxes and water bottles pose health risks. CHOGM reports 75% of products unsafe. World Cancer Union warns plastic equipment threatens children's lives. Health inspectors criticize non-standard market equipment. Consumers prioritize price over safety concerns. Authorities advise checking for "5" symbol or female icon on products. Experts warn against harmful chemicals in plastics, potentially causing cancer. Use of low-quality plastic containers is illegal under Food Act No. 26 of 1980. Future specialized testing planned.
-
-🟩
-
-The Public Health Inspectors Association (CHOGM) says that 75% of the food boxes and water bottles used.
-
-The World Cancer Union also revealed that the lives of children is being threatened using quality plastic equipment.
-
-In the meantime, the children were tabled and the bodies of children and watering of their children in the face of various information in the country today.
-
-However, public health inspectors have pointed out that such equipment is not a standard of market today.
-
-Commenting in this regard, President of the Public Health Inspectors Association Upul Rohana said that these equipment would be so dangerous.
-
-"We can see that the children produced in the case of 75% of the food boxes and 75% of the water bottles inappropriate. Imported from countries such as China. These children will be very dangerous. "
-
-However, we asked if the customer traveling to the market is a realizing.
-
-Many consumers say that they are concerned only, the price of the product and its beautiful.
-
-...
-
-[Data](articles/c796fe4d.json)
-
-[Extended Data](ext_articles/c796fe4d.ext.json)
-
----
-
-### Poland’s Enter Air starts Sri Lanka charter flights
-
-*2024-11-02 21:28:00* · [`economynextcom`](https://economynext.com/polands-enter-air-starts-sri-lanka-charter-flights-185890/) · `en`
-
-ECONOMYNEXT – Poland’s Enter Air has started charter flights to Sri Lanka this week, the state airport agency said.
-
-Airport and Aviation Services (Sri Lanka) Ltd said the Enter Air flight was welcomed with a celebratory water cannon salute.
-
-Passengers were also treated to a Kandyan dance performance. (Colombo/No02/20240
-
-◼️
-
-[Data](articles/1da856f7.json)
-
-[Extended Data](ext_articles/1da856f7.ext.json)
-
----
-
-### Spain mounts biggest peacetime disaster recovery operation as death toll reaches 211
-
-*2024-11-02 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103109/spain-mounts-biggest-peacetime-disaster-recovery-operation-as-death-toll-reaches-211) · `en`
-
-The deadliest flash floods in Spain’s modern history have killed at least 211 people and dozens were still unaccounted for, four days after torrential rains swept the eastern region of Valencia, Prime Minister Pedro Sanchez said on Saturday.
-
-In a televised statement, Sanchez said the government was sending 5,000 more army troops to help with the searches and clean-up in addition to 2,500 soldiers already deployed.
-
-“It is the biggest operation by the Armed Forces in Spain in peacetime,” Sanchez said. “The government is going to mobilize all the resources necessary as long as they are needed.”
-
-The tragedy is already Europe’s worst flood-related disaster since 1967 when at least 500 people died in Portugal.
-
-Hopes of finding survivors were boosted when rescuers found a woman alive after three days trapped in a car park in Montcada, Valencia. Residents burst into applause when civil protection chief Martin Perez announced the news.
-
-...
-
-[Data](articles/d243a761.json)
-
-[Extended Data](ext_articles/d243a761.ext.json)
-
----
-
-### Last Note in the Badulla accident
-
-*2024-11-02 20:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202847) · `si`
-
-Badulla bus accident: 4 deaths identified. Post-mortem reveals head injuries. WhatsApp message from grieving daughter to late father.
-
-🟩
-
-The buses were injured and admitted to the Badulla Teaching Hospital after the accident was in the Badulla (01).
-
-The deceased have been identified as Puduyu Hettimulla, Kurunegala, Ranwpalagedara and Ambakowe, Kurunegala, Ranwpalagedara and Ambakowe.
-
-The post mortem examinations have revealed that the bus accident has been killed in the head of bus accident.
-
-Meanwhile, a greetings of Watsapp was written by one student of the dead student, Isuri Umayaka yesterday (01).
-
-In the morning, she had greeted her Father's greets and greeted by Watsaups.
-
-She may have never thought that he had to leave his father's birthday.
-
-She was ready for university field visit and forgot to add greeting his Father on the same day.
-
-"Wondering so much about life,. The romance is hiding.. Happy birthday, Dad, Dad, "a pasree note for his beloved Father.
-
-◼️
-
-[Data](articles/e21def47.json)
-
-[Extended Data](ext_articles/e21def47.ext.json)
 
 ---

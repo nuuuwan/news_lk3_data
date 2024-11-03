@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 19:10:24**
+As of **2024-11-03 19:24:22**
 
 ## Newspaper Stats
 
-*Scraped **52,830** Articles*
+*Scraped **52,834** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,69 @@ newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 538
 bbccomsinhala | 541
-islandlk | 3,156
+islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,922
-adaderanalk | 6,279
+adaderanalk | 6,280
 tamilmirrorlk | 7,337
-virakesarilk | 8,537
-adaderanasinhalalk | 9,205
+virakesarilk | 8,538
+adaderanasinhalalk | 9,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,830 (100.0%) of 52,830 articles have been extended.
+52,833 (100.0%) of 52,834 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### “The world will not bear the second Trump administration”
+
+*2024-11-03 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197820) · `ta`
+
+"The world cannot endure a second Trump presidency."
+
+🟩
+
+The US presidential election is to be held, and the Americans are elected their president once in four years.
+
+Former President Donald Trump and the current vice president of the Democratic Party Kamala Haris are the main candidates.It is not possible to say until the end of who will win the match between the two.
+
+President Joe Bidon will contest for the second term. Kamala Saris, however, was the candidate of the Democratic Party after his age and other reasons, as Trump could be easily defeated.
+
+After that, Trump's chance to win easily was often missing. Most of the polls suggested that Trump and Kamala Haris had fierce competition during the campaigns.
+
+The winner of the seven swing states, which are almost equal to the Republican Party and the Democratic Party, is likely to win the election.. It is said that there is very close competition between the two of those states.
+
+...
+
+[Data](articles/bc1b038e.json)
+
+[Extended Data](ext_articles/bc1b038e.ext.json)
+
+---
+
+### Private sector unhappy with govt’s management of tourism fund – industry expert
+
+*2024-11-03 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103126/private-sector-unhappy-with-govts-management-of-tourism-fund-industry-expert) · `en`
+
+The Chairperson and Managing Director of Jetwing Travels Shiromal Cooray expressed that the private sector within the tourism industry is dissatisfied with the government’s management of a fund contributed by private entities for the industry’s development.
+
+Joining Ada Derana’s current affairs program, ‘At HydePark’, she suggested that the fund could be better utilized and could be used to hire a public relations agent to promote the industry globally and effectively manage information that could affect tourism.
+
+When asked about the status of Small and Medium Enterprises (SMEs) within the industry, Cooray stated that SMEs should prioritize creating business plans and developing financial management skills to build resilience against crises in the sector.
+
+...
+
+[Data](articles/0407861d.json)
+
+[Extended Data](ext_articles/0407861d.ext.json)
+
+---
 
 ### Professor Chandima Wijebandara passed away
 
@@ -49,6 +93,32 @@ Renowned Professor Chandima Wijebandara, a distinguished academic and researcher
 [Data](articles/e47ad581.json)
 
 [Extended Data](ext_articles/e47ad581.ext.json)
+
+---
+
+### Lohan Ratwatte to a normal ward
+
+*2024-11-03 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202867) · `si`
+
+Former Minister Lohan Ratwatte transferred from ICU to general ward after emergency treatment. Accused of illegal use of luxury car brought from abroad. Detained in remand prison since July 7th.
+
+🟩
+
+බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ කොළඹ ජාතික රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ (E.T.U) ප්‍රතිකාර ලබමින් සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා එම ඒකකයෙන් ඉවත්කර කොළඹ ජාතික රෝහලේ නේවාසික ප්‍රතිකාර සඳහා සාමාන්‍ය වාට්ටුවක් වෙත යොමු කර තිබේ.
+
+Prison spokesman Gamini B Dissanayake said that LAAON Ratwatte was admitted to the National Hospital due to an emergency at night.
+
+රත්වත්තේ මහතා බන්ධනාගාර රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අවස්ථාවේදී ඊයේ රාත්‍රී කාලයේදී හදිසියේ ඇති වූ සංකූලතාවයක් හේතුවෙන්  කොළඹ ජාතික රෝහලේ හදිසි ප්‍රතිකාර ඒකකය වෙත ඇතුළත් කර ඇත.
+
+After the end of the treatment, he has been directed to a normal ward for residential treatment.
+
+නීතිවිරෝධී අයුරින් විදේශයකින් මෙරටට ගෙන්වා එකලස් කරන ලද සුඛෝපභෝගී මෝටර් රථයක් භාවිත කිරීමේ චෝදනාවට සැකපිට පසුගිය 31 වනදා අත්අඩංගුවට ගත් ලොහාන් රත්වත්තේ මහතා නුගේගොඩ වැඩබලන මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමෙන් පසු මේ මස 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
+
+...
+
+[Data](articles/365cc166.json)
+
+[Extended Data](ext_articles/365cc166.ext.json)
 
 ---
 
@@ -2253,59 +2323,5 @@ Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shi
 [Data](articles/91ee4331.json)
 
 [Extended Data](ext_articles/91ee4331.ext.json)
-
----
-
-### Abrogation of the B-C Pact and what followed
-
-*2024-11-03 01:51:00* · [`islandlk`](http://island.lk/abrogation-of-the-b-c-pact-and-what-followed/) · `en`
-
-(Excerpted from Render Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
-
-Yet, as was to happen over and over again in the country’s politics, the vocal minority, in this case the hardliners finally won the day (in getting SWRD to abrogate the B-C Pact). In October 1957 the UNP under the leadership of J R Jayewardene set out on a march from Colombo to Kandy to protest against the pact. On the first day they covered 11 miles amidst some obstruction and skirmishes with government sponsored elements.
-
-...
-
-[Data](articles/b4fce6f5.json)
-
-[Extended Data](ext_articles/b4fce6f5.ext.json)
-
----
-
-### Sagalassos: Meanwhile in the Mountains
-
-*2024-11-03 01:42:00* · [`islandlk`](http://island.lk/sagalassos-meanwhile-in-the-mountains/) · `en`
-
-At the birthday party held in August to celebrate the 100th birthday of Raja de Silva, school friend of my uncle Tissa and former Director General of Archaeology, I was fortunate to meet his daughter Nerina, also an archaeologist. She has been working for some years on a dig in Turkey and, when I expressed interest in that site, she lent me a book produced to accompany an exhibition of artefacts found there.
-
-I did not read all the articles in it, for they were quite technical, including Nerina’s about the adhesives used to piece together broken material, ranging from pottery to statues. But they were fascinating, even though I could only read them cursorily. And they were illuminatingly supported by pictures, the articles being full of them, while the latter part of the book is pictures with detailed accounts of what they portray.
-
-...
-
-[Data](articles/b78734c4.json)
-
-[Extended Data](ext_articles/b78734c4.ext.json)
-
----
-
-### Model teachers engage in propaganda activities
-
-*2024-11-03 01:08:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்கள்-பிரசார-நடவடிக்கைகளில்-ஈடுபடுகின்றனர்/175-346466) · `ta`
-
-School teachers engaging in propaganda activities during elections. Organization reports complaints. School principals urged to address issue.
-
-🟩
-
-எதிர்வரும் பொதுத் தேர்தலில் வேட்பாளர்களாகப் போட்டியிடும் பாடசாலை ஆசிரியர்கள் தங்களது பாடசாலையில் பிரசார நடவடிக்கைகளில் ஈடுபடுவதாக முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளன என பெப்ரல் அமைப்பு தெரிவித்துள்ளது.
-
-Commenting on a press conference held in Colombo yesterday, the Executive Director of the organization Rohana Hettiarachchi made this statement.
-
-He said that school principals should pay attention to the matter. (a)
-
-◼️
-
-[Data](articles/e7a4f7e8.json)
-
-[Extended Data](ext_articles/e7a4f7e8.ext.json)
 
 ---

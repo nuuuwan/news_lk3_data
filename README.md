@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 04:11:56**
+As of **2024-11-04 04:41:02**
 
 ## Newspaper Stats
 
-*Scraped **52,874** Articles*
+*Scraped **52,875** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
-colombotelegraphcom | 539
+colombotelegraphcom | 540
 bbccomsinhala | 541
 islandlk | 3,157
 economynextcom | 3,203
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,873 (100.0%) of 52,874 articles have been extended.
+52,875 (100.0%) of 52,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -488,6 +488,22 @@ Accordingly, President Anura Kumara Dissanayake summoned massive rice manufactur
 
 ---
 
+### Lending According To Manoj Akmeemana: A Textbook For All
+
+*2024-11-03 22:09:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lending-according-to-manoj-akmeemana-a-textbook-for-all/) · `en`
+
+Veteran banker, Manoj Akmeemana, has chosen to share his decades long experience in banking and lending with bankers, students of banking and the public in the form of a comprehensive text under the title ‘Lending: Concepts, Theory, and Practice’. The book has been produced by using modern technology of producing such texts – two colours, graphs, flowcharts, and tables to make it user friendly. Insight capsules – box articles in other cases – have been added to elaborate on specific topics.
+
+The thread-bound book in hard cover will ensure that the readers could use it for many years without running into the problem of offensive disentangled dog-eared pages which readers encounter in paperback books. But it has come in a hefty price of Rs. 4,500 (equivalent to about $ 15) which may make it only a reference book in libraries and not by many ordinary individual users.
+
+...
+
+[Data](articles/2daaff22.json)
+
+[Extended Data](ext_articles/2daaff22.ext.json)
+
+---
+
 ### Tamil National People's Front campaign in Vavuniya
 
 *2024-11-03 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197824) · `ta`
@@ -519,6 +535,8 @@ The writer’s attention was drawn to the recent press release issued by the Ele
 ...
 
 [Data](articles/9bdfc8eb.json)
+
+[Extended Data](ext_articles/9bdfc8eb.ext.json)
 
 ---
 
@@ -2291,31 +2309,5 @@ The car without registered number plates was found on October 26, 2024, accordin
 [Data](articles/c54e81ab.json)
 
 [Extended Data](ext_articles/c54e81ab.ext.json)
-
----
-
-### Lohan's hospital hospital
-
-*2024-11-03 12:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202857) · `si`
-
-Former State Minister Lohan Ratwatte hospitalized after arrest for luxury car use. Admitted to Colombo National Hospital for serious illness.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who is in remand custody has been admitted to the Colombo National Hospital.
-
-Prison spokesman Gamini B Dissanayake said that Mr. Lohan Ratwatte was admitted to the National Hospital due to an emergency situation at night.
-
-Lohan Ratwatte was arrested on the 31st of the end of the SLAB's accused of using a luxury car from foreign abroad.
-
-Lahan Ratwatte was later referred to the Prison Hospital following the recommendation of the Magistrate to pay attention to medical treatment.
-
-However, he was admitted to the Colombo National Hospital for treatment due to a serious illness.
-
-◼️
-
-[Data](articles/861d9553.json)
-
-[Extended Data](ext_articles/861d9553.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 21:39:48**
+As of **2024-11-03 21:59:29**
 
 ## Newspaper Stats
 
-*Scraped **52,842** Articles*
+*Scraped **52,844** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,925
-adaderanalk | 6,281
+adaderanalk | 6,282
 tamilmirrorlk | 7,337
 virakesarilk | 8,541
-adaderanasinhalalk | 9,207
+adaderanasinhalalk | 9,208
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,842 (100.0%) of 52,842 articles have been extended.
+52,843 (100.0%) of 52,844 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### දේශපාලන විකෘතියෙන් රට මුදාගන්න සර්වජන බලය හා එක්වන්න - දිලිත්
+
+*2024-11-03 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202870) · `si`
+
+පවතින දේශපාලන විකෘතියෙන් රට මුදාගැනීමට සර්වජන බලය හා එක්වන ලෙස එහි නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+මහර ආසනයේ අද (03) පැවති ජන හමුවකට එක්වෙමින් ඔහු මේ බව පැවසීය.
+
+"මේ ඡන්දෙට ඉදිරිපත් වෙලා තියෙනවා විටෙක 3%ක් පමණක් ඡන්දය ලබපු එන්. පී. පී. එක සහ ජ. වි. පෙ එක. අනෙක් පැත්තෙන් නායකත්වයක් හොයා ගන්න බැරි පක්ෂයක් කියලා කියන්නටත් බැරි මේ ගෑස් සිලින්ඩරය. අනෙක් අතින් දිනන සජිත්, අද පැරදුණ සජිත්.  ඊළඟට ඉතුරුවෙලා තියෙනවා පොහොට්ටුවේ නැට්ට. අනිත් අතින් මයික් එක. හිමිකරුවාගේ නම කියන්න බෑ. ඒ පක්ෂයට ආධාර ලැබෙන හැටි කියන්න බෑ.
+
+ඒ නිසා දේශපාලන විකෘතියෙන් මුදාගැනීමට සර්වජන බලය හා එක්වන්න. එඩිතර විපක්ෂය ඔබේ තෝරාගැනීම කරගන්න".
+
+◼️
+
+[Data](articles/d107074d.json)
+
+---
+
+### Sri Lanka surpasses 1.6 million tourist arrivals by October-end
+
+*2024-11-03 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103128/sri-lanka-surpasses-16-million-tourist-arrivals-by-october-end) · `en`
+
+Sri Lanka is on pace to surpass its ambitious goal of attracting 2.3 million tourists this year, marking significant growth from the over 1.4 million tourists it welcomed in 2023.
+
+Growing closer to Sri Lanka’s target of attracting 2.3 million tourist arrivals in 2024, the country had already welcomed 1,620,715 arrivals by October 2024, indicating a positive momentum in tourism.
+
+According to the latest data issued by the Sri Lanka Tourism Development Authority, the month of October recorded a total of 135,907 tourist arrivals.
+
+Indicating an uptick in tourist arrivals, October welcomed more tourists compared to the 122,140 arrivals recorded in September this year.
+
+October 2024 reported over 20,000 arrivals compared to the corresponding period last year.
+
+Meanwhile, the highest number of tourist arrivals was recorded during the fourth week of October, amounting to 31,076 arrivals.
+
+...
+
+[Data](articles/e9fdb534.json)
+
+[Extended Data](ext_articles/e9fdb534.ext.json)
+
+---
 
 ### Lohan Ratwatta has been transferred to the General Ward - Prison Media Spokesman
 
@@ -2307,53 +2349,5 @@ The audit has been recommended to take over the land.
 [Data](articles/29b01b42.json)
 
 [Extended Data](ext_articles/29b01b42.ext.json)
-
----
-
-### The public and private sector will leave the election leave
-
-*2024-11-03 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202851) · `si`
-
-Elections Commission announces voting leave policy for public and private sector employees. Special leave granted without pay loss for voting in upcoming parliamentary election. Employees must notify employers in writing. Employers display approved leave documents in workplace.
-
-🟩
-
-The Elections Commission has published the provisions relating to leave the public and private sector employees to be able to vote without loss of salaries or private sector employees in the next parliamentary election.
-
-Accordingly, in paragraph 12/3 of the Establishments Code of Public Sector Code, the minimum period of four hours in paragraph 12/3 of the Establishments Code, special leave should be granted without a period of time to vote.
-
-The Election Commission said that a methodology has been prepared on a notification made by the Human Rights Commission to vote without loss of salaries or private sector employees.
-
-Accordingly, after 40-100 km of distance, the distance should be given to the minimum livelihood of 40-100 km.
-
-The Elections Commission said that if a half and a half kilometers were about 100-150 km, the Elections Commission said.
-
-However, it should be made by employees in writing to employers in writing.
-
-...
-
-[Data](articles/22399e2f.json)
-
-[Extended Data](ext_articles/22399e2f.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island
-
-*2024-11-03 07:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103111/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island during the evening or night while showers may occur over the coastal areas of Western and Southern provinces during the morning too.
-
-Heavy showers above 100 mm are likely at some places in Central and Uva provinces, it added.
-
-Accordingly, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8af95051.json)
-
-[Extended Data](ext_articles/8af95051.ext.json)
 
 ---

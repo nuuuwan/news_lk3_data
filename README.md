@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 03:58:42**
+As of **2024-11-04 04:11:56**
 
 ## Newspaper Stats
 
-*Scraped **52,873** Articles*
+*Scraped **52,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,927
 adaderanalk | 6,283
-tamilmirrorlk | 7,343
+tamilmirrorlk | 7,344
 virakesarilk | 8,546
 adaderanasinhalalk | 9,210
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,870 (100.0%) of 52,873 articles have been extended.
+52,873 (100.0%) of 52,874 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -144,6 +144,8 @@ Before departing for Canada, the delegation held a briefing with Sri Lankan Prim
 
 [Data](articles/acd0acca.json)
 
+[Extended Data](ext_articles/acd0acca.ext.json)
+
 ---
 
 ### Pillaiyan party supporters attack Karuna's candidate and supporters in Batticaloa;3 people, including candidate, were injured
@@ -200,21 +202,61 @@ The sea has given the people the confidence of food, income and needs of the are
 
 ---
 
-### ’எம்மை அனுப்புங்கள்’
+### Model system does not change
+
+*2024-11-04 01:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முறைமை-மாற்றம்-நிகழவில்லை/175-346514) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Current president promises changes but maintains status quo. Party branding altered, but policies unchanged. Fuel prices remain high despite vows to lower costs. Criticized for benefiting elites over commoners. IMF negotiations yield no benefits for workers. Media pressured to conform.
+
+🟩
+
+The current president gave great confidence and expectation to the stage for the stage as the candidate for the presidential election. Although they say we will change the system, the system has not changed yet. His party, logo, team and their social networking groups have changed. Sajith Premadasa said that the old system that has been so far is still being carried out.
+
+A meeting with the people of Mattakkuli was held on Saturday (02) at the People's Meeting organized by the United People's Power Candidate CVP Ram.. He said this while addressing it.
+
+When they come to power, we will reduce the cost of fuel, reduce the prices of essential food items, eliminate the passport line and reduce the line, none of this happened.. He said that even the rows of coconuts are now being developed, unable to reduce the prices of commodities, rice and coconut.
+
+...
+
+[Data](articles/249a03ff.json)
+
+[Extended Data](ext_articles/249a03ff.ext.json)
+
+---
+
+### Send us
 
 *2024-11-04 01:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்மை-அனுப்புங்கள்/175-346513) · `ta`
 
-சிங்கள - பௌத்த பேரினவாதத்திற்கு எதிரான மக்கள் போராட்டங்களில் தொடர்ச்சியாக இருந்திருக்கிறோம்.ஒடுக்கப்பட்ட மக்களுக்காக வீதிகளில் இருந்த எங்களை எதிர்க்கட்சியாக பாராளுமன்றில் அமர்த்துமாறு மக்கள் போராட்ட முன்னணியின் வன்னிமாவட்ட முதன்மை வேட்பாளர் நி.பிரதீபன் தெரிவித்தார்.
+Here's a 200-character summary:
 
-மக்கள் போராட்ட முன்னணியின் ஊடகவியலாளர் சந்திப்பு வவுனியா பூந்தோட்டத்தில் அமைந்துள்ள அலுவலகத்தில்,ஞாயிற்றுக்கிழமை (03)   நடைபெற்றது.
 
-நாட்டின் இறைமை மற்றும் தேசிய இனப்பிரச்சனைக்கான தீர்வு, மதச்சார்பற்ற நாடு, தேசிய உற்பத்தி இவற்றினை மையமாக வைத்து மக்கள் போராட்டமுன்னணியாக இந்ததேர்தலில் நிற்கிறோம்.
 
-நாங்கள் ஒடுக்கப்பட்ட தமிழ்த்தேசிய இனத்தின் பிரச்சனைகளுக்காக குரல் கொடுத்தவர்கள். தமிழ்தேசிய அரசியலில் இருப்பவர்கள் தேர்தல் காலத்தில் மாத்திரம் மக்களிடம் வருபவர்களாக இருக்கிறார்கள். ஆனால், மக்கள் சார்பான பிரச்சனையில் உரிய எதிர்த்தரப்பாக இருந்து குரல் கொடுக்கவில்லை என்பதை இங்கு கூறிக்கொள்ள விரும்புகிறோம்.
+People's Struggle party opposes Sinhala Buddhist chauvinism, advocates for Tamil rights. Criticizes exploitation of natural resources. Addresses issues like Indian fishing boat violations affecting local fisheries. Promises to protect Tamil interests and livelihoods.
+
+🟩
+
+We have been continuously in the people's struggles against Sinhala and Buddhist chauvinism.
+
+A press conference of the People's Struggle was held on Sunday (03) at the office located at the Vavuniya Poonthottam.
+
+We stand in this election as a solution to the sovereignty and national ethnic problem of the country, the secular country and the national production.
+
+We are the voice of the oppressed Tamil ethnicity. Those in Tamil national politics are only coming to the people during the election. But we would like to say here that the people's pro -people problem is not the opposition.
+
+There are a number of crises faced today. The violation of Indian Roller boats is a huge problem.We have no problem with both fishermen.
+
+But the violation of the Roller Boats will be the destruction of the fish resources in the North in the future.. The government and the Indian regions are holding a negotiation on this issue. If the deal is implemented, our 2 lakh fishermen will come to the streets.. .
 
 ...
 
 [Data](articles/c80ab168.json)
+
+[Extended Data](ext_articles/c80ab168.ext.json)
 
 ---
 
@@ -2275,33 +2317,5 @@ However, he was admitted to the Colombo National Hospital for treatment due to a
 [Data](articles/861d9553.json)
 
 [Extended Data](ext_articles/861d9553.ext.json)
-
----
-
-### Rs. ලක්ෂ 60ක ඇපල් දුරකතන හා එනසාල් කටුනායකින් පන්නන් බැරිවෙයි
-
-*2024-11-03 11:47:52* · [`adalk`](https://www.ada.lk/breaking_news/රු--ලක්ෂ 60ක-ඇපල්-දුරකතන-හා-එනසාල්-කටුනායකින්-පන්නන්-බැරිවෙයි/11-412816) · `si`
-
-Sinhala businessman arrested at Katunayake Airport with Rs. 60 lakh worth Apple devices and Ensalon laptops. He was detained by airport police during customs clearance. Remanded until April 11, 2024.
-
-🟩
-
-A cargo track of Rs.. මොහු කොළඹ - 12 ප්‍රදේශයේ පදිංචි 48 හැවිරිදි ව්‍යාපාරිකයෙකි..
-
-He was 6.45 pm on Dubai to 06.45 pm on Dubai to Emirates Airport on the Katunayake Airport.
-
-The arrest had been made by a group of Katunayake airport police officers while he was completing the clearance.
-
-The airport police officers were recovered by the airport cops while covering the latest apples and the stock of cell phones and the inquiry in their luggage.
-
-Katunayake Airport OIC Chief Inspector of the Police Sergeants, Chief Inspector of the Police Sergeants, Parayara, Police Constables, 106093 Samoad and 93465 Procedures are underway.
-
-The Katunayake Airport Police had ordered to be remanded till 11/04/20/04.
-
-◼️
-
-[Data](articles/1632931e.json)
-
-[Extended Data](ext_articles/1632931e.ext.json)
 
 ---

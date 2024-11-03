@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 13:59:28**
+As of **2024-11-03 14:11:23**
 
 ## Newspaper Stats
 
-*Scraped **52,777** Articles*
+*Scraped **52,791** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ dailymirrorlk | 4,733
 adalk | 4,915
 adaderanalk | 6,273
 tamilmirrorlk | 7,329
-virakesarilk | 8,511
-adaderanasinhalalk | 9,200
+virakesarilk | 8,523
+adaderanasinhalalk | 9,202
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,777 (100.0%) of 52,777 articles have been extended.
+52,786 (100.0%) of 52,791 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### An announcement of the weather
+
+*2024-11-03 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202861) · `si`
+
+Weather alert: Heavy showers (100mm+) expected across Sri Lanka. Thunderstorms possible evenings/night. Take precautions against damage from storms.
+
+🟩
+
+The Department of Meteorology has issued a warning for central, Uva and Sabaragamuwa provinces.
+
+It says that there may be heavy showers over 100 mm in the island in most parts of the island.
+
+Showers or thundershowers will occur at the evening or night in most parts of the island.
+
+The Department of Meteorology also requests the need to be taken to minimize the damages caused by thunderstorms.
+
+◼️
+
+[Data](articles/036233f3.json)
+
+[Extended Data](ext_articles/036233f3.ext.json)
+
+---
+
+### The death penalty for children who protested against the cost of living in Nigeria?: Appeared in court
+
+*2024-11-03 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197788) · `ta`
+
+Children protest cost of living Nigeria face death penalty court case controversy
+
+🟩
+
+Shocking reports have revealed that 29 children who were involved in the struggle against the increase in livelihoods in Nigeria could be sentenced to death.
+
+The Nigerian government has imposed several allegations, including treason allegations against 76 people who were protesting against the cost of living.
+
+The public is engaged in a series of protests in Nigeria due to frustration over the increase in cost of living.
+
+The death penalty came into effect in Nigeria in 1976, but no one has been convicted since 1996.
+
+Nigeria's Child Rights Act has not been allowed to investigate children and produce a court, a lawyer said.
+
+Therefore, it is wrong to bring the boys to the court.
+
+◼️
+
+[Data](articles/1f757647.json)
+
+[Extended Data](ext_articles/1f757647.ext.json)
+
+---
+
+### Foreign remittances will fall in September
+
+*2024-11-03 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202860) · `si`
+
+Foreign remittances decrease in September but increase year-over-year. Tourism earnings rise to $181 million. Monthly remittances exceed $500 million since March. Total tourist earnings reach $2,348 million from January to September.
+
+🟩
+
+The Central Bank of Sri Lanka (SLTB) has reduced the amount of foreign employment in September compared to August.
+
+The amount of remittances received in September compared to US $ 577 million in August have reduced to US $ 556 million.
+
+In September 2024, however, has increased in foreign labor remittances compared to September 2023.
+
+The Central Bank of Sri Lanka (CBSL) said the monthly employees' monthly remittances exceeded US $ 500 million from March this year.
+
+Tourism earnings have risen to US $ 181 million last September.
+
+According to the Central Bank of Sri Lanka, tourist earnings from January to September this year amounted to US $ 2,348 million.
+
+◼️
+
+[Data](articles/7477095e.json)
+
+[Extended Data](ext_articles/7477095e.ext.json)
+
+---
 
 ### Lohan Ratwatta has been replaced
 
@@ -53,6 +133,28 @@ He was arrested at his residence in Katugastota, Kandy on the 31st of this month
 [Data](articles/811ef932.json)
 
 [Extended Data](ext_articles/811ef932.ext.json)
+
+---
+
+### Muslim Pratyanism should be protected
+
+*2024-11-03 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197786) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Protecting Muslim Pratyanism: Ensure fair Muslim representation in Parliament. Address concerns about "communal" thinking when advocating for equal political voice.
+
+🟩
+
+The Muslim parliamentary representation and the protection of. It is necessary to have more Muslims in Parliament. Some parties see it as a communal thought when Muslims call for their parliamentary representation.
+
+◼️
+
+[Data](articles/751ba2b7.json)
+
+[Extended Data](ext_articles/751ba2b7.ext.json)
 
 ---
 
@@ -198,6 +300,28 @@ He said that all the Sathosa shops can be purchased by one kilogram of large oni
 
 ---
 
+### These are the reason why we leave the Sri Lanka Tamil National Party
+
+*2024-11-03 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197769) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Reasons for leaving Sri Lanka Tamil National Party: Lack of space after last election, newcomer brought in instead of experienced member. Media spokesperson handled key roles. Party seeking fresh faces for elections. Experienced members like myself overlooked despite contributions.
+
+🟩
+
+The last parliamentary election did not give me space. Instead they brought a new one who was not in the party. The party's media spokesman has done this work. I have done many jobs for the party and the people. In that case, the party is looking for newcomers and contesting the election.
+
+◼️
+
+[Data](articles/2ab0dae2.json)
+
+[Extended Data](ext_articles/2ab0dae2.ext.json)
+
+---
+
 ### Sri Lanka to contest Hong Kong Sixers
 
 *2024-11-03 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202858) · `si`
@@ -223,6 +347,108 @@ Accordingly, the Sri Lankan team is the opponent of the Sri Lankan team in the f
 [Data](articles/df164386.json)
 
 [Extended Data](ext_articles/df164386.ext.json)
+
+---
+
+### If Muslims reject identity representation, it is a historical mistake - Rishad Bathiudeen
+
+*2024-11-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197760) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Muslims rejecting identity representation is a historical error. Public trust lies in Anuragumara as an individual, not his team or new MPs. He should fulfill campaign promises based on this faith.
+
+🟩
+
+The public has voted with great confidence and expectation on Anuragumara. People do not put confidence in the team of Anuragumara, or the new members of Parliament. They have great confidence in the individual named Anuragumara. Therefore, on the basis of the confidence of the people, he must act in a little bit of promises.
+
+◼️
+
+[Data](articles/75de03ef.json)
+
+[Extended Data](ext_articles/75de03ef.ext.json)
+
+---
+
+### We need to create an environment for solving our problems - Douglas Devananda Chevy
+
+*2024-11-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197763) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Create problem-solving environment: Douglas Devananda Chevy. President Anura implements 13th Amendment. Suggestions prioritized in two stages. 38 issues addressed for Tamil people's short-term and long-term problems.
+
+🟩
+
+President Anura consulted on the implementation of the 13th Amendment. He has involved in it. We have made our suggestions on the priority of it in two stages. In addition, I have brought 38 issues to the Tamil people's daily and long -term problems.
+
+◼️
+
+[Data](articles/9fd4f4ea.json)
+
+[Extended Data](ext_articles/9fd4f4ea.ext.json)
+
+---
+
+### The role of major state institutions in strengthening revenues
+
+*2024-11-03 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197759) · `ta`
+
+Major state institutions play crucial roles in enhancing revenue generation and improving tax compliance. Their effectiveness in aligning government objectives contributes significantly to economic stability.
+
+🟩
+
+Government agencies are effective in making objectives in accordance with its creation, but the country can make a huge contribution to the country's improved tax compliance and economic stability.
+
+◼️
+
+[Data](articles/bbe6a45e.json)
+
+[Extended Data](ext_articles/bbe6a45e.ext.json)
+
+---
+
+### Israeli soldiers arrested for making special maritime action inside Lebanon - Hesbullah member arrested
+
+*2024-11-03 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197775) · `ta`
+
+Israeli forces arrest Hezbollah member in Lebanon marine operation. Imad Amhaz, naval chief, seized. Incident sparks investigation by Lebanese military.
+
+🟩
+
+The Israeli Special Forces, who have taken a special operation inside Lebanon, have arrested a senior commander of the Hesbullah organization and taken Israel.
+
+The Israeli Special Brigade, who landed in Petron, in the north of Lebanon, has arrested a senior member of the Hesbullah organization and fled the sea.
+
+Israeli soldiers have said that the Senior member of the Hesbullah organization has been arrested and handed over to the Army Intelligence Unit for interrogation.
+
+According to reports, Imad Amhaz, who was responsible for the Naval activities of the Hesbullah organization, was arrested.
+
+Meanwhile, the Lebanese minister has asked the Lebanese army to investigate the incident, saying that the man who abducted Israeli soldiers is a Captine Captain Captain, Lebanon's Minister of Security.
+
+◼️
+
+[Data](articles/03d66d01.json)
+
+[Extended Data](ext_articles/03d66d01.ext.json)
+
+---
+
+### மக்கள் பிரச்சினைகளை தீர்ப்பதற்காகவே சோசலிஸ கொள்கையை முன்னிறுத்துகிறோம் - மக்கள் போராட்ட முன்னணியின் கொழும்பு மாவட்ட வேட்பாளர் சுவஸ்திகா அருலிங்கம்
+
+*2024-11-03 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197766) · `ta`
+
+முதலாளித்துவக்கொள்கை, சோசலிஸ கொள்கை என்பது ஒரு கருத்தியலாகும். இருப்பினும் மக்களிடம் சென்று பேசும்போது அவர்கள் தாம் அனைவரும் சமமாக மதிக்கப்படவேண்டும் என்றும், தமது பொருளாதாரப் பிரச்சினைகள் தீர்க்கப்படவேண்டும், தமக்கான சமூகப் பாதுகாப்புக் கட்டமைப்பு வலுப்படுத்தப்படவேண்டும் என்றும் கோருகின்றனர்.
+
+ஆகவே நாங்கள் பேசுவது சோசலிஸ கொள்கையாக இருந்தாலும், உண்மையிலேயே மக்களிடம் பேசும்போது அவர்கள் என்னென்ன விடயங்களைக் கூறுகிறார்களோ, அவற்றின் அடிப்படையிலேயே எமது கொள்கையை முன்வைக்கிறோம். மக்களின் பிரச்சினைகளைத் தீர்ப்பதற்கான வழிமுறையாகவே நாங்கள் சோசலிஸ கொள்கையை முன்னிறுத்துகிறோம்.
+
+◼️
+
+[Data](articles/9ac7026a.json)
 
 ---
 
@@ -323,6 +549,42 @@ The Iranian United States of Iranian protesters were taken into custody after th
 [Data](articles/9b9f5e0a.json)
 
 [Extended Data](ext_articles/9b9f5e0a.ext.json)
+
+---
+
+### தமிழ், முஸ்லிம் அரசியல் கட்சிகள் தீர்வு வழங்குவதாக மக்களை ஏமாற்றியுள்ளன - நாராயணபிள்ளை சிவானந்த ராஜா
+
+*2024-11-03 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/197764) · `ta`
+
+நாட்டில் உள்ள அனைத்து பிரஜைகளும் தமக்கு உள்ள உரிமைகளை அனுபவிக்க வேண்டும். மக்களையும் மாகாணங்களையும் பிளவுபடுத்தி அரசியல் செய்ய தேவையில்லை. தற்போது உள்ள மக்களுக்கு இனப் பிரச்சினைக்கான தீர்வு கிடைக்க வேண்டும் என்பதல்ல பிரச்சினை. தமது வறுமை நிலை ஒழிக்கப்பட வேண்டும். தமது பொருளாதார நிலைமை மேம்பட வேண்டும்.அதனை ஏற்படுத்துவதே முக்கியமாகும். இதன் பின்னர் அது பற்றி தீர்மானம் எடுக்கலாம்.
+
+◼️
+
+[Data](articles/d72b8bc9.json)
+
+---
+
+### ஆக்கிரமிப்புக்களால் அநாதையாக்கப்படும் திருகோணமலை
+
+*2024-11-03 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197754) · `ta`
+
+யுத்தம் காரணமாக  ஏற்பட்ட அனர்த்தம், அவலங்கள் காரணமாக திருகோணமலை மாவட்டத்திலுள்ள பல கிராம மக்கள் தம் சொந்த மண்ணைவிட்டு  குடிபெயர்ந்தார்கள், இடம்பெயர்ந்தார்கள் அவர்கள் மீள தாய் மண்ணுக்கு வந்தபோது வீடுகள் அங்கு இருக்கவில்லை குடிமனைகள் அழிக்கப்பட்டிருந்தன.
+
+◼️
+
+[Data](articles/2a37ab9b.json)
+
+---
+
+### தொல்லியல் எச்சங்கள் நிறைந்த வடக்கின் துயரம்
+
+*2024-11-03 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197755) · `ta`
+
+போர் முடிவுற்று தசாப்தம் கடந்தும் போர் அச்சுறுத்தல் அற்ற சூழலிலும்  வடக்கிற்கு இதுவரை விடுதலை இல்லை. அத்தோடு சிங்கள குடியேற்றங்கள் பாரிய விகாரைகள்  வீதியோரங்களில் பாரிய இராணுவ விவசாயப் பண்ணைகள் என பல பிரதேசங்கள் பறிபோயுள்ளன. இதற்கப்பால் போதைவஸ்து கடத்தல், கசிப்பு வியாபாரம், வன்செயல்கள் போன்றவை மக்களின் அன்றாட  இயல்பு வாழ்க்கையைச் சீரழித்து வருகின்றன.
+
+◼️
+
+[Data](articles/5942c78e.json)
 
 ---
 
@@ -443,6 +705,26 @@ The death sentence was introduced in the 1970s in Nigeria, but there have been n
 [Data](articles/8ddff61d.json)
 
 [Extended Data](ext_articles/8ddff61d.ext.json)
+
+---
+
+### கொத்தலாவல பாதுகாப்பு கல்லூரியின் பேருந்தின் நிலைமை நாட்டுக்கும் ஏற்படலாம் - ரணில் எச்சரிக்கை
+
+*2024-11-03 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197758) · `ta`
+
+கொத்தலாவல பாதுகாப்பு கல்லூரியின் பேருந்துக்கு ஏற்பட்ட நிலைமை இலங்கைக்கும் ஏற்படலாம் என முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+நாடாளுமன்றத்துக்கு அனுபவம் உள்ளவர்களை தெரிவு செய்யவேண்டும் என வேண்டுகோள் விடுத்துள்ள அவர் அனுபவம் மிக்க தலைமைத்துவம் இல்லாவிட்டால் இலங்கை மீண்டும் நெருக்கடியை எதிர்கொள்ள நேரிடலாம் என எச்சரித்துள்ளார்.
+
+தற்போதைய அரசாங்கத்தில் அனுபவம் மிக்கவர்கள் குறைவு என தெரிவித்துள்ள அவர் எதிர்கால நெருக்கடிகளை தவிர்ப்பதற்கு அறிவுள்ள தலைமைத்துவம் அவசியம் என குறிப்பிட்டுள்ளார்.
+
+நான் கடந்தகாலங்களிலும் நாடாளுமன்ற உறுப்பினராக பதவி வகித்துள்;ளேன் தற்போது எங்கள் குழுவிலிருந்து புதிய அணியை உருவாக்கவேண்டும் என கருதுகின்றேன்,இவர்கள் மாத்திரமே நாட்டில் உள்ள அனுபவசாலிகள் என அவர் தெரிவித்துள்ளார்.
+
+தனது அணியினர் மூன்று நான்கு வருடங்கள் பதவிவகித்துள்ளனர் நாட்டின் பொருளாதார மீட்சியின் போது குறிப்பிடத்தக்க பங்களிப்பை செய்துள்ளனர் புதிய நாடாளுமன்றத்தில்  அனுபவசாலிகள் இன்மை பின்னடைவாக அமையலாம் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/18586feb.json)
 
 ---
 
@@ -2021,381 +2303,5 @@ Bogawantalawa police said that after the arrest of the suspect, 1.850 kilograms 
 [Data](articles/134c53d1.json)
 
 [Extended Data](ext_articles/134c53d1.ext.json)
-
----
-
-### Heavy showers above 100mm expected in several provinces
-
-*2024-11-02 17:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103106/heavy-showers-above-100mm-expected-in-several-provinces) · `en`
-
-The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in most parts of the island during the evening or night, according to a forecast issued for the next 36 hours.
-
-Showers or thundershowers may occur over the coastal areas of Western and Southern provinces during the morning too.
-
-The department added that heavy showers above 100 mm are likely at some places in Central, Sabaragamuwa and Uva provinces.
-
-Accordingly, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/c005327a.json)
-
-[Extended Data](ext_articles/c005327a.ext.json)
-
----
-
-### A big rain over 100 mm
-
-*2024-11-02 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202839) · `si`
-
-Heavy rainfall warning: 100mm+ expected in central regions. Thunderstorms predicted across island. Public advised to be cautious due to lightning risk.
-
-🟩
-
-The Department of Meteorology has issued a new weather forecast, which is valid for the next 36 hours.
-
-Issued at 4 pm today at several places in the Central, Sabaragamuwa and Uva provinces. Heavy rains may occur at more than 100.
-
-Showers or thundershowers will occur at night or night in many parts of the island.
-
-Showers or thundershowers will occur at several places in the Western and Southern provinces.
-
-Meanwhile, the Department of Meteorologies requests the public to take necessary steps to reduce the dangers caused to lightning during the evening.
-
-◼️
-
-[Data](articles/3a72fc83.json)
-
-[Extended Data](ext_articles/3a72fc83.ext.json)
-
----
-
-### 1818 fatal accidents - 1898 people killed
-
-*2024-11-02 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202838) · `si`
-
-1,818 fatal accidents: 1,898 deaths, 4,133 serious injuries, 7,146 minor injuries. Pedestrians (676) and motorcyclists (583) most affected. Drivers (135) and passengers (249) also victims. Road safety awareness urged due to poor visibility at night.
-
-🟩
-
-1,898 persons have been killed in 1,818 fatal accidents from 1st from January 1 to October 25, police said.
-
-Police Media Spokesperson, DIG's DIG's Court At a press conference held today (02), 676 were pavels.
-
-He made this statement regarding the accidents this year.
-
-62 people were injured in two road accidents in Badulla and the Radella yesterday.. Six died in accidents yesterday. The 1,818 fatal accidents have occurred in the year alone, from 1st January 1 to 25 October 25. 4,133 accidents were reported in serious injuries. 7,146 minor injuries were reported. "
-
-"1,898 people have been killed in 1,818 fatal accidents. 676 pedestrians. 583 motorcyclists have died. 135 drivers. 249 passengers traveling in vehicles. 123 cyclists. "
-
-"Vehicles belonging to 1,818 vehicles belonging to 1,818 prices, including 258 cubs, 21, 3-wheelers, 5-wheelers, 5-wheelers, 5 handers, 5 handers."
-
-"There are 42 vehicles related to fleeing incidents of accidents."
-
-...
-
-[Data](articles/bde5b710.json)
-
-[Extended Data](ext_articles/bde5b710.ext.json)
-
----
-
-### Ranjith's' Patal) Radha
-
-*2024-11-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197731) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Patal Radha" starring Guru Somasundaram releases Dec 20. Directed by Dinakaran Sivalingam, produced by Ranjith & TN Arun Balaji. Expectations high for community-focused drama.
-
-🟩
-
-Guru Somasundaram, the unique character of South Indian cinema, has been officially announced on the release date of the film 'Patal (Pottal) Radha'.
-
-Guru Somasundaram, Sanjana Natarajan, John Vijay, Maran, Anthony, Bari Ilavarakan, Arumuga Vale, Abhi Ramaiah, directed by debutant director Dinakaran Sivalingam. Kumar and many others have acted.
-
-Shawn Roldan has composed the film, which has been recorded by Rupesh Shaji. Producers Ba on behalf of the film companies such as Neelam Productions and Balloon Pictures. Produced by Ranjith and TN Arun Balaji.
-
-All the work of the film was completed and waited for the release. The film's stirring has already been released and has been a record of over a million viewers.
-
-In this case, the release date of the film has been officially announced. The film crew with a special photo of the film will be released worldwide on December 20th.
-
-...
-
-[Data](articles/6a8e088e.json)
-
-[Extended Data](ext_articles/6a8e088e.ext.json)
-
----
-
-### Ram Saran's 'Game Changer' will save Shankar ...!?
-
-*2024-11-02 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/197729) · `ta`
-
-"Game Changer" starring Ram Charan releases Jan 10, 2025. Directed by Shankar, also featuring Kiara Advani. Co-produced by Dil Raju and Sirish. Will be released in Tamil, Telugu, Malayalam, Kannada, and Hindi. Excitement builds as it aims to revive Shankar's fortunes after "Indian 2"'s poor performance."
-
-🟩
-
-The date of the release of the film 'Game Changer' starring 'Global Star' Ram Charan has been officially announced.
-
-Ram Charan, Kiara Advani, Shankar, directed by Shankar, directed by Shankar.. J.. Surya, Anjali, Prakashraj, Nasser, Samudrakani, Jayaram, Naveen Chandra, Murali Sharma, Sunil, Srikanth and many others have been cast.
-
-The film was co -produced by producers Dil Raju and Sirish on behalf of Sri Venkateswara Creations.
-
-The film, which is all over India, will be released on January 10, 2025 in Tamil, Telugu, Malayalam, Kannada and Hindi.
-
-In this case, the film crew has been excited with a special photo that the film will be released on the ninth day.
-
-Meanwhile, the film 'Kamal Haasan's' Indian 2', directed by the biggest director Shankar, has not been a commercial success, and the film 'Game Changer', which is being released, will be saved only if the film will be saved.
-
-◼️
-
-[Data](articles/9563ff3c.json)
-
-[Extended Data](ext_articles/9563ff3c.ext.json)
-
----
-
-### Actress Yashika Anand's new movie inauguration
-
-*2024-11-02 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197726) · `ta`
-
-Yashika Anand's new movie inaugurated in Chennai. Directed by M.A. Bala, starring Ram Prasad and Yashika Anand as doctors. Shooting progressing well; release date and title pending.
-
-🟩
-
-The inauguration of the unnamed film, which is playing the lead role as the hero of the sexy actress 'Big Boss fame,' Big Boss fame actress, Yashika Anand, was held in Chennai.
-
-Director M. A.. In the untitled film directed by Bala, debutant Ram Prasad is the hero of the story and actress Yashika Anand is the hero of the story.
-
-Director M.. A.. Bala produces.
-
-The shooting of the film is being done brilliantly. The film crew said that the hero of the story and the hero of the story will be playing the role of doctors and will soon be released on the title and Burst Look of the film.
-
-◼️
-
-[Data](articles/d32eadb9.json)
-
-[Extended Data](ext_articles/d32eadb9.ext.json)
-
----
-
-### Actor Atharva Murali starrer 'Colors Three'
-
-*2024-11-02 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197720) · `ta`
-
-"Colors Three" starring Atharva Murali, Sarathkumar, Raghuman directed by Karthik Narain. Produced by Karuna Murthy, Aingaran International. Released globally on 22nd. Preview viewed by 8 million. Collaboration between directors and actors praised by filmmakers.
-
-🟩
-
-Actors Atharva Murali - Sarathkumar and Raghuman have been officially announced on the release date of the film 'Colors Three'.
-
-Directed by director Karthik Narain, the film 'Colors Three' has stars Atharva Murali, Sarathkumar, Raghuman, Dushyant Jayaprakash, Ammu Abirami, Chinni Jayant.
-
-The film was made on behalf of Aingaran International Company. Karuna Murthy has produced.
-
-The film's preview has been released last year and has been a record of over eight million viewers.
-
-It has been officially announced with a special photo that the film will be released worldwide on the 22nd of this month.
-
-It is noteworthy that the 'Colors Three' in the alliance of director Karthik Narain, Atharva Murali, Sarathkumar and Raghuman is somewhat welcome among the filmmakers.
-
-◼️
-
-[Data](articles/02e9bb84.json)
-
-[Extended Data](ext_articles/02e9bb84.ext.json)
-
----
-
-### සමාජ සුභසාධන වැඩසහන් ඩිජිටල්කරණය කිරීම පිළිබඳ ජනපති ප්‍රධානත්වයෙන් සාකච්ඡාවක්
-
-*2024-11-02 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202837) · `si`
-
-Digitalization of social welfare programs discussion led by President Anura Kumara Dissanayake. Rice price issues addressed. Digital solutions proposed for paddy storage shortages. Concessionary distribution programs for low-income families' children in new schools.
-
-🟩
-
-මෙරට ක්‍රියාත්මක සමාජ සුභසාධන ප්‍රතිලාභ වැඩසටහන් ඩිජිටල්කරණය කිරීම පිළිබද සාකච්ඡාවක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් ජනාධිපති ලේකම් කාර්යාලයේදී ඊයේ (01) පැවැත්විණි.
-
-The prices of rice prices have also been discussed in the event of digital solution to the shortage of the paddy storage system, including the importance and social welfare programs for low income families.
-
-It has also been discussed in the event of digitalize the concessionary distribution program to be given for the children of low income families in the next new school.
-
-The avocing issued by the Presidential Media Unit of Sri Lanka General Technical Officer Mahesh Wijenayake, Dialog Athiyana's Group CEO of Sri Lanka.
-
-◼️
-
-[Data](articles/295f8637.json)
-
-[Extended Data](ext_articles/295f8637.ext.json)
-
----
-
-### Two trapped by the raid of the Nagavill
-
-*2024-11-02 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202836) · `si`
-
-Sri Lanka Navy and Police Narcotics Bureau raided Nagavillauwa, arresting two suspects with ice drugs, cigarettes, and liquor. Seized: 8 ice drugs, 820 liters cigarettes, 320 liters liquor, 440 liters illicit alcohol, 100 liters illegal spirits. Suspects from Forest areas 28 and 39.
-
-🟩
-
-Two suspects have been arrested in the Nagavillauwa area with ice drug, foreign cigarettes and illegal liquor.
-
-The Sri Lanka Navy and the Police Narcotics Bureau were conducted by a special integrated search in the Nagavillauwa area yesterday (01).
-
-The officers have been seized by eight ice drugs, 820 liters of cigarettes, 320 liters of cigarettes, 440 liters of gaits and 100 liters of illegal spirits.
-
-The suspects are residents of 28 and 39, 39, residents of the forest.
-
-◼️
-
-[Data](articles/9a66c2d5.json)
-
-[Extended Data](ext_articles/9a66c2d5.ext.json)
-
----
-
-### Israel prepares new missiles system
-
-*2024-11-02 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202835) · `si`
-
-Israel develops advanced missile defense system. Attacks in Gaza kill 84, including 50 children. Iran reportedly plans retaliation via drones and missiles from Iraq. US increases military presence in Middle East.
-
-🟩
-
-84 persons were killed in two bill of attacks on the North Gaza.
-
-Fifty-people are children and foreign media is called a barbar gang.
-
-At the time of the Israeli attacks, a group of Palestinians exceeded 43,000 Palestinian nationals.
-
-Meanwhile, the Israeli intelligence reports say Iran is planning to counter the Israeli day in a nearby day.
-
-It is also stated that Iran is planning to target Israel from the Iraqi ground using drones and ballistic missiles.
-
-Iran plans to attack Iraq, according to foreign reports.
-
-Foreign media reports that the US has taken steps to deploy additional troops, war vessels and aircraft in the Middle East.
-
-Israel is preparing to use the new missile security system to operate in the Middle East warfare.
-
-The missile security system, if the missile security system is from high-power laser, preventing enemy missile attacks.
-
-It is said that the laser rays are rapidly running in the range of hundreds of miles from hundreds of meters.
-
-◼️
-
-[Data](articles/9643d4a1.json)
-
-[Extended Data](ext_articles/9643d4a1.ext.json)
-
----
-
-### PM - German Ambassador Meeting
-
-*2024-11-02 15:42:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-ஜேர்மன்-தூதுவர்-சந்திப்பு/175-346447) · `ta`
-
-German Ambassador Felix Newman met PM Harini Amarasuriya. Discussed education sector development and vocational training upgrades. Officials present included Pradeep Saputhandri, Olab Malwo, Tarini Taluwatta, Ssadura Perera.
-
-🟩
-
-A meeting between Prime Minister Harini Amarasuriya and German Ambassador to Sri Lanka Felix Newman took place yesterday afternoon at the Prime Minister's Office.
-
-This has been paid on issues such as development of the country's education sector and upgrading vocational training.
-
-Officials including Prime Minister Pradeep Saputhandri, Chief of the German Ambassador Olab Malwo, Advisor to Political Affairs, Tarini Taluwatta, European and North America Director Ssadura Perera were present at the meeting.
-
-◼️
-
-[Data](articles/da0c3ebe.json)
-
-[Extended Data](ext_articles/da0c3ebe.ext.json)
-
----
-
-### Doctors end token strike at Karapitiya Teaching Hospital
-
-*2024-11-02 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103105/doctors-end-token-strike-at-karapitiya-teaching-hospital) · `en`
-
-Doctors at the Karapitiya Teaching Hospital in Galle have called off their 24-hour token strike which had commenced at 05.00 p.m. yesterday (01).
-
-They had launched a strike stating that the specialist doctor in charge of the hospital’s cancer ward had threatened several other doctors of the hospital.
-
-However, after a discussion with the Director of Karapitiya Hospital today (02), the striking doctors have decided to temporarily call off the strike.
-
-But the doctors who were on strike say that if proper measures are not taken regarding the doctor in question, they will commence another strike next Monday.
-
-All the specialist doctors of the Karapitiya Hospital and all the doctors of the Government Medical Officers’ Association (GMOA) had joined the strike, as a result of which no clinical treatment was carried out.
-
-Due to this, the patients who arrived at the hospital for treatment had faced various difficulties.
-
-◼️
-
-[Data](articles/5122c90a.json)
-
-[Extended Data](ext_articles/5122c90a.ext.json)
-
----
-
-### Doctors end token strike at Karapitiya National Hospital
-
-*2024-11-02 15:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103105/doctors-end-token-strike-at-karapitiya-national-hospital) · `en`
-
-Doctors at the Karapitiya National Hospital in Galle have called off their 24-hour token strike which had commenced at 05.00 p.m. yesterday (01).
-
-They had launched a strike stating that the specialist doctor in charge of the hospital’s cancer ward had threatened several other doctors of the hospital.
-
-However, after a discussion with the Director of Karapitiya Hospital today (02), the striking doctors have decided to temporarily call off the strike.
-
-But the doctors who were on strike say that if proper measures are not taken regarding the doctor in question, they will commence another strike next Monday.
-
-All the specialist doctors of the Karapitiya Hospital and all the doctors of the Government Medical Officers’ Association (GMOA) had joined the strike, as a result of which no clinical treatment was carried out.
-
-Due to this, the patients who arrived at the hospital for treatment had faced various difficulties.
-
-◼️
-
-[Data](articles/715a204b.json)
-
-[Extended Data](ext_articles/715a204b.ext.json)
-
----
-
-### හොංකොං සික්සස් සටනේ ශ්‍රී ලංකාව අපරාජිතව අවසන් පූර්ව වටයට
-
-*2024-11-02 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202834) · `si`
-
-Sri Lanka wins Hong Kong Sixast Cricket Tournament. Sandun Weerakkody scores 50 runs in 14 balls. Lahiru Madushanka hits 31 runs off 8 balls. Nepal team scores 60 runs in 4 overs. Sri Lanka takes 6 wickets for 123 runs.
-
-🟩
-
-Sri Lanka won the Hong Kong Sixast Cricket Tournament today (02).
-
-Nepal won the toss and invited the Sri Lankan team to bat first.
-
-Accordingly, the Sri Lankan openers entered the field gained a fast start.
-
-Sandun Weerakkody scored 50 runs in 14 balls with five sixes and 4 fours.
-
-නායක ලහිරු මධුසංඛ පන්දු 8කදී නොදැවී ලකුණු 31ක් රැස් කළ අතර ඔහුගේ ඉනිමට හයේ පහර 4ක් සහ එක් හතරේ පහරක් ඇතුළත්ය.
-
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායම නියමිත පන්දුවාර 6දී කඩුලු 2ක් පමණක් දැවී රැස් කළ ලකුණු සංඛ්‍යාව 123කි.
-
-ලකුණු 124ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි නේපාල කණ්ඩායමේ මුල් කඩුලු 3 ලකුණු 18කට දවා ගැනීමට ශ්‍රී ලංකා පන්දු යවන්නන් සමත්වුණි.
-
-Accordingly, the Nepal team was able to score only 60 runs for the loss of all wickets at the end of 4 overs.
-
-Lahiru Samarakoon and Tharindu Ratnayake took 2 wickets each and Dananjaya took two wickets.
-
-◼️
-
-[Data](articles/0643579b.json)
-
-[Extended Data](ext_articles/0643579b.ext.json)
 
 ---

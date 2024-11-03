@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 19:58:16**
+As of **2024-11-03 20:12:10**
 
 ## Newspaper Stats
 
-*Scraped **52,836** Articles*
+*Scraped **52,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 3,157
 economynextcom | 3,200
 dailyftlk | 3,604
 dailymirrorlk | 4,733
-adalk | 4,923
+adalk | 4,924
 adaderanalk | 6,281
 tamilmirrorlk | 7,337
-virakesarilk | 8,538
+virakesarilk | 8,540
 adaderanasinhalalk | 9,206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,836 (100.0%) of 52,836 articles have been extended.
+52,838 (100.0%) of 52,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### JVP. Tamils ​​do nothing - P.Ingaranesan
+
+*2024-11-03 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197822) · `ta`
+
+Here's a 200-character summary:
+
+
+
+JVP opposes Palm Development Council growth. Candidate P.Ingaranesan criticizes JVP's stance. Council aims to improve Tamil livelihoods but faces challenges. Experts suggest promoting palm economy under provincial or central administration.
+
+🟩
+
+The JVP is drunk that will do good for the Tamil people. The JVP, who does not want the growth of the palm development council, is going to find a solution to the Tamil people.. Election district candidate P.Ingaranesan has questioned.
+
+Yall. He said this during a media briefing held at the Media Center on Sunday (03).
+
+When Minister Vijitherath appointed Selvin Ireneus as the Chairman of the Palm Development Board last month, we thought that we were born to the Palm Development Council.. However, within two weeks, his appointment was canceled and a man who was not like the Vedic climbing the trunk has been appointed as the head of the Palm Development Board.
+
+With this appointment change, the growth of the palm development council has been pushed backwards. Some of our people are drinking in mind that the JVP will do good to the Tamil people. The JVP, which does not want the growth of the Palm Development Board, is going to find a solution for the Tamil people.
+
+...
+
+[Data](articles/d832655c.json)
+
+[Extended Data](ext_articles/d832655c.ext.json)
+
+---
+
+### Was the protection removed for religious places of worship?Ministry of Defense
+
+*2024-11-03 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197821) · `ta`
+
+Defense Ministry denies removal of security from religious sites. False news spread on newspapers and social media. Official statement rejects claims.
+
+🟩
+
+The Ministry of Defense has refused the news that the security forces and members of the Civil Defense Department have been removed from religious places of worship.
+
+Media Spokesperson and Media Spokesperson of the Ministry of Defense and Media Speaker at a special press conference on Sunday afternoon (03). B.. B.. Nalin Herath said this.
+
+He added that the false news has been published on the leading newspaper and social media and that all information has been rejected by the tweet.
+
+◼️
+
+[Data](articles/96e0a407.json)
+
+[Extended Data](ext_articles/96e0a407.ext.json)
+
+---
 
 ### Lightning kills 14 at Uganda refugee camp
 
@@ -173,6 +223,18 @@ Those who frequented the people of Nuwara Eliya during the presidential election
 [Data](articles/3a524c94.json)
 
 [Extended Data](ext_articles/3a524c94.ext.json)
+
+---
+
+### කොළඹ උද්ධමනය අඛණ්ඩව දෙවැනි වතාවටත් අවධමනයක
+
+*2024-11-03 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-උද්ධමනය-අඛණ්ඩව-දෙවැනි-වතාවටත්-අවධමනයක/11-412826) · `si`
+
+කොළඹ පාරිභෝගික මිල දර්ශකයෙහි (කො.පා.මි.ද., 2021=100) වාර්ෂික ලක්ෂ්‍යමය වෙනස මගින් මනිනු ලබන මතුපිට උද්ධමනය, ශ්‍රී ලංකා මහ බැංකුව විසින් සිදු කරන ලද කෙටි කාලීන උද්ධමන පුරෝකථන හා අනුකූලව, අඛණ්ඩව දෙවන මාසයටත් ඍණ අගයක පවතිමින් 2024 සැප්තැම්බර් මාසයේ දී වාර්තා වූ සියයට 0.5ක අවධමනයට සාපේක්ෂව 2024 ඔක්තෝබර් මාසයේ දී සියයට 0.8ක අවධමනයක් වාර්තා කරන බව ශ්‍රී ලංකා මහ බැංකුව පවසයි.
+
+◼️
+
+[Data](articles/e4e5215a.json)
 
 ---
 
@@ -2291,53 +2353,5 @@ Like their older child, the youngest child was also the first to sleep in the sa
 [Data](articles/2d6c8db5.json)
 
 [Extended Data](ext_articles/2d6c8db5.ext.json)
-
----
-
-### Man for All Seasons
-
-*2024-11-03 02:34:00* · [`islandlk`](http://island.lk/man-for-all-seasons/) · `en`
-
-My subject this morning is Leelananda De Silva with comments on his book The Long Littleness of Life: a memoir of government, the United Nations, family and friends, published 2016. I read it then but re-read it this week and am more impressed and desirous of sharing my feelings and opinion with others. Hence this article, with of course Leelananda’s permission to go ahead and write but not in praise, he strictly stipulated.
-
-...
-
-[Data](articles/80135609.json)
-
-[Extended Data](ext_articles/80135609.ext.json)
-
----
-
-### AFTERMATH OF THE 1953 HARTAL
-
-*2024-11-03 02:29:00* · [`islandlk`](http://island.lk/aftermath-of-the-1953-hartal/) · `en`
-
-Motion of No Confidence in Government (Hansard of 1st September 1, 1953)
-
-(Speech made by Dr. NM Perera published in his birth centenary memorial volume)
-
-Dr. Perera:Before I deal with the subject, I want to say a word about the Hon. Prime Minister and his references to my good friend the Leader of the Opposition (Mr. Bandaranaike). My friend the Prime Minister is not here. I hope that he has not had a recurrence of his affliction. Today while he was on the first part of his speech, he reminded me of the father; it was the same technique, the same type of personal attack on the Leader of the Opposition. I remember the last motion of No Confidence that we debated. I think it was moved just before the dissolution of Parliament, and it was one of the last debates which was attended by my good friend, the late Rt. Hon. D.S. Senanayake. He spoke in that debate and it was a tirade against my good friend the Leader of the Opposition.
-
-...
-
-[Data](articles/67c660e6.json)
-
-[Extended Data](ext_articles/67c660e6.ext.json)
-
----
-
-### Fieldwork and Travels in Rural Sindh, Pakistan
-
-*2024-11-03 02:09:00* · [`islandlk`](http://island.lk/fieldwork-and-travels-in-rural-sindh-pakistan/) · `en`
-
-After completing my Ford fellowship at Oxford University in 1991, I joined the Indus River Left Bank Outfall Drainage Project in Sindh, Pakistan, as its Senior Socio-Economist and resident team leader. The project, sponsored by the World Bank, Asian Development Bank, and several other international donors, aimed at improving irrigated agriculture in Sindh. The Sindh Development Studies Centre (SDSC) of the University of Sindh in Jamshoro (near Hyderabad) oversaw the socio-economic studies of the project.
-
-I arrived at Karachi Airport in late December. Parvez Pathan, my SDSC counterpart, met me at the airport. We discussed my accommodation and security on our drive to Jamshoro, about 220 kilometres from Karachi. He told me a beautifully furnished bungalow awaited me on the university campus. He opined that I should always have a trustworthy person with me for my security. SDSC had found a reliable young man to be my housekeeper, cook, and personal security guard.
-
-...
-
-[Data](articles/13decbbe.json)
-
-[Extended Data](ext_articles/13decbbe.ext.json)
 
 ---

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-03 10:24:06**
+As of **2024-11-03 10:39:59**
 
 ## Newspaper Stats
 
-*Scraped **52,754** Articles*
+*Scraped **52,758** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 538
-bbccomsinhala | 540
+bbccomsinhala | 541
 islandlk | 3,155
 economynextcom | 3,199
 dailyftlk | 3,604
 dailymirrorlk | 4,733
 adalk | 4,910
-adaderanalk | 6,268
-tamilmirrorlk | 7,323
+adaderanalk | 6,269
+tamilmirrorlk | 7,325
 virakesarilk | 8,511
 adaderanasinhalalk | 9,195
 
@@ -26,11 +26,83 @@ adaderanasinhalalk | 9,195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,754 (100.0%) of 52,754 articles have been extended.
+52,757 (100.0%) of 52,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-03 (Sunday)
+
+### “If this continues, country will end up like the KDU bus”:  Ex-President Ranil warns
+
+*2024-11-03 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103115/if-this-continues-country-will-end-up-like-the-kdu-bus-ex-president-ranil-warns) · `en`
+
+Former President Ranil Wickremesinghe reiterated that people with political experience should be appointed as parliamentary representatives in the upcoming General Election.
+
+Joining a press conference held in Colombo, Wickremesinghe further stated that if not, the country will go into another crisis situation.
+
+Responding to a question, the former President also spoke on not seeking to enter the parliament in the coming election.
+
+“Now it is enough that I was in the Parliament. I believe we need to form a new group from within our alliance representing the ‘Gas Cylinder’ because these are the only experienced people in the country.”
+
+Today, the government lacks experienced individuals, he claimed. “These people have been working consistently for the past three or four years, helped me turn this around in two years.”
+
+...
+
+[Data](articles/3bf9be68.json)
+
+[Extended Data](ext_articles/3bf9be68.ext.json)
+
+---
+
+### The main speech in the Palali High Security Zone
+
+*2024-11-03 10:05:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலாலி-உயர்-பாதுகாப்பு-வலயத்தில்-முக்கிய-பேச்சு/175-346474) · `ta`
+
+Governor Nagalingam Vedanayakan met with military leaders at Palali High Security Zone. Discussion covered zone issues, land use, and future activities. Military officials detailed aid and services. Governor planted tree, visited newly released Palali-Achuveli main road.
+
+🟩
+
+The Governor of the Northern Province, Nagalingam Vedanayakan, Jaffna District Army Commander Major General Chandana Wickremesinghe and the Army Chief Officers were held on Saturday (02) at the Jaffna District Army Headquarters in the Palali High Security Zone.
+
+The discussion discussed a variety of issues on the Palali High Security Zone and the streets, land and future activities released from the High Security Zone.
+
+The military top officials said in detail the aid and services related to the military assistance and services to the public.At the end of the discussion held at the Palali High Security Zone, the governor was planted in the tree. The Governor of the Northern Province visited the Palali -Achuveli main road, which was later released.
+
+◼️
+
+[Data](articles/1130c63d.json)
+
+[Extended Data](ext_articles/1130c63d.ext.json)
+
+---
+
+### Strong security in Pasikuda
+
+*2024-11-03 09:53:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாசிக்குடாவில்-பலத்த-பாதுகாப்பு/175-346473) · `ta`
+
+Pasikuda Beach, Sri Lanka: Strong security measures implemented due to threats. 24/7 policing by local and coastal tourist police. Attracts both domestic and international tourists year-round.
+
+🟩
+
+Strong security measures have been taken to Pasikuda Beach, one of Sri Lanka's most famous tourist destinations following the threat to the Arughambe Tourism site.
+
+Pasikuda Beach, belonging to the Calcutta Police Division of the Batticaloa District, is considered one of the world's best tourist destinations
+
+Domestic and foreign tourists visit the Basakuda beach daily
+
+Pasikuda beach is full of foreign domestic tourists during various festivals, including holidays and full -blown.
+
+The government has taken strong security measures to entertain the sea and spend time with tourists.
+
+A variety of security measures have been taken, including the police and the coastal tourist police at the Pasikuda Beach. Police said security measures are being taken to take place 24 hours a day.
+
+◼️
+
+[Data](articles/9593d5c8.json)
+
+[Extended Data](ext_articles/9593d5c8.ext.json)
+
+---
 
 ### The government has lost Rs 10 billion as a vehicle tax bag
 
@@ -443,6 +515,28 @@ The Meteorological Department urges the public to take necessary steps to reduce
 [Data](articles/23ce7814.json)
 
 [Extended Data](ext_articles/23ce7814.ext.json)
+
+---
+
+### නින්ද: ෆින්ලන්තයේ ළදරු පෙට්ටි ඇඳක් ශ්‍රී ලාංකික පවුලකට සෞඛ්‍යවත් ජීවිතයක් දුන් හැටි
+
+*2024-11-03 04:17:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c04lpnqkrz5o) · `si`
+
+නින්ද: ෆින්ලන්තයේ ළදරු පෙට්ටි ඇඳක් ශ්‍රී ලාංකික පවුලකට සෞඛ්‍යවත් ජීවිතයක් දුන් හැටි
+
+සුකිතා සහ ඇගේ සැමියා වන ප්‍රසාද් ෆින්ලන්තයට සංක්‍රමණය වූ විට - පෘථිවිය මත වැසියන් ප්‍රීතිමයෙන් ම වෙසෙන ස්ථානය ලෙස සලකන රටක් - ඔවුන්ට පළමුවෙන් ම ලැබුණු දේවලින් එකක් වූයේ, කාඩ්බෝඩ් පෙට්ටියකි.
+
+"ඒක නිකම් නිකම් පෙට්ටියක් නෙවෙයි. ඒක අත්‍යවශ්‍ය ද්‍රව්‍යවලින් පිරිච්ච මාතෘ පෙට්ටියක්," එය විවෘත කළ පළමු අවස්ථාව ආවර්ජනය කරමින් සුකිතා හේරත් පැවසීය.
+
+වසර හයකට පෙර සිංගප්පූරුවේ සිට එහි පදිංචියට යන විට මෙම යුවළ ඔවුන්ගේ පළමු දරුවා අපේක්ෂාවෙන් සිටියහ.
+
+බිළිඳුන් නිදිගැන්වීමේ පුරුදු ගැන සංස්කෘතික සංවාදයක් - බටහිර ක්‍රමය අරුම පුදුම ද?
+
+උණුසුම් ඇඳුම්, ළදරුවන් සඳහා නිදන බෑගයක් සහ අනෙකුත් භාණ්ඩ සමග කුඩා මෙට්ටයක් ඇතුළුව රජයෙන් දෙන තිලිණය වසර 75ක් තිස්සේ ෆින්ලන්තයේ පැවත එන සම්ප්‍රදායකි. දෙමාපියන්ගේ සම්භවය හෝ සමාජ-ආර්ථික පසුබිම කුමක් වුවත්, සියලු ම ගැබිනි මව්වරුන්ට සඳහා සමාන ආරම්භයක් ලබා දෙයි.
+
+...
+
+[Data](articles/2d6c8db5.json)
 
 ---
 
@@ -2269,101 +2363,5 @@ Plantation workers who were working in the tea estate have informed the Bogawant
 [Data](articles/04b5765c.json)
 
 [Extended Data](ext_articles/04b5765c.ext.json)
-
----
-
-### What is the current state of those involved in the Badulla accident?
-
-*2024-11-02 12:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளை-விபத்தில்-சிக்கியவர்களின்-தற்போதைய-நிலை-என்ன/76-346442) · `ta`
-
-Badulla accident update: 10 patients in ICU, some may move to general ward today. No need for Colombo transfers; hospital has adequate treatment facilities.
-
-🟩
-
-Palitha Rajapakse, senior medical officer of the Emergency Department of the Hospital, said that those who were admitted to the intensive care unit of the Badulla Teaching Hospital were injured in a bus accident on Tunhinda - Badulla road yesterday morning.
-
-He added that some of the ten people who are being treated in the intensive care unit could be transferred to the General Ward today.
-
-There is no need to take any patient to Colombo on flight. The hospital has all the necessary facilities to treat the injured. ”. Remble
-
-◼️
-
-[Data](articles/4d3536a9.json)
-
-[Extended Data](ext_articles/4d3536a9.ext.json)
-
----
-
-### The country needs decent politics
-
-*2024-11-02 12:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒழுக்கமான-அரசியலே-நாட்டுக்குத்-தேவை/175-346441) · `ta`
-
-The Democratic Front party's Colombo district candidate Ranil Vilatharake emphasizes the need for decent politics to address economic, social, and cultural challenges. He praises former President Ranil Wickremesinghe's leadership and calls for unity among entrepreneurs to boost foreign exchange and restore the economy within five years.
-
-🟩
-
-The new Democratic Front party's Colombo district candidate Ranil Vilatharake said that the country needs decent politics, which can make a change in various sectors including economics, community, culture and politics.
-
-He said this while attending a public meeting in Piliyandala area.
-
-“It is the responsibility and responsibility of all of us, including the people of the country, to voice their voice to create a better political culture in the country. As the economy of the country has fallen, we faced various crises and caused various problems in various sectors. The people of the country were under heavy pressure. We cannot forget it.
-
-“It was challenging to manage the situation and the issues and arrangements made by former President Ranil Wickremesinghe are commendable.
-
-“It is rare in this political field. The knowledge and experience of such a leader is essential to restore the country from today. Those who want to be a leader must learn from him.
-
-...
-
-[Data](articles/4dc6f3e4.json)
-
-[Extended Data](ext_articles/4dc6f3e4.ext.json)
-
----
-
-### Nanuoya - accident on Rathalla road: One killed;20 people injured
-
-*2024-11-02 12:13:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நானுஓயா-ரதல்ல-வீதியில்-விபத்து-ஒருவர்-பலி-20-பேர்-காயம்/76-346438) · `ta`
-
-Accident on Rathalla road: 1 killed, 20 injured. Lorry crashes into car and van due to mechanical failure. Elderly woman dies.
-
-🟩
-
-One person was killed and 20 people were injured when a lorry crashed into a car and van on Friday night (1) at the Nanuoya - Rathalla Cross Road.
-
-A lorry traveling from Nuwara Eliya to Hatton area collided with a car in the same direction and crashed into a van heading from Hatton to Nuwara Eliya from Hatton area to Nuwara Eliya.
-
-Police said that the cause of the accident was a mechanical disorder caused by the lack of proper functioning in the lorry.
-
-Travelers in this van have traveled from Kalmunai to Nuwara Eliya.
-
-A 75 -year -old elderly woman who was traveling in the van dies. Also, 20 people were injured in the lorry driver and van passengers.
-
-◼️
-
-[Data](articles/2a28732b.json)
-
-[Extended Data](ext_articles/2a28732b.ext.json)
-
----
-
-### Youth arrested with ice drugs in Colombo
-
-*2024-11-02 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/197707) · `ta`
-
-Colombo police arrest youth with ice drugs near Kalwala junction. 10g of 200ml ice seized during police operation based on tip-off.
-
-🟩
-
-A youth has been arrested yesterday (01) with an ice drug near the Kalwala junction belonging to the Colombo Police Division.
-
-The suspect was arrested during a roundup carried out on the basis of information received by the police.
-
-10 grams of 200 ml of ice has been seized by the police.
-
-◼️
-
-[Data](articles/95f0a114.json)
-
-[Extended Data](ext_articles/95f0a114.ext.json)
 
 ---

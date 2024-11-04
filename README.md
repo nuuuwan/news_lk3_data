@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 19:40:04**
+As of **2024-11-04 19:58:52**
 
 ## Newspaper Stats
 
-*Scraped **53,019** Articles*
+*Scraped **53,021** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,169
 economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,946
+adalk | 4,947
 adaderanalk | 6,311
 tamilmirrorlk | 7,371
 virakesarilk | 8,562
-adaderanasinhalalk | 9,243
+adaderanasinhalalk | 9,244
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,014 (100.0%) of 53,019 articles have been extended.
+53,017 (100.0%) of 53,021 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### ඇඹිලිපිටියෙන් සොයාගත් ගිනිඅවි
+
+*2024-11-04 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202908) · `si`
+
+පොලිස් විශේෂ කාර්ය බළකාය විසින් අද (04) ඇඹිලිපිටිය ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අවි ආයුධ සන්තකයේ තබාගෙන සිටි සැකකරුවෙක්ව අත්අඩංගුවට ගෙන තිබේ.
+
+පොලිස් විශේෂ කාර්යාංශයට ලැබුණු තොරතුරක් මත එම මෙහෙයුම සිදුකර තිබුණි.
+
+එහිදී සැකකරු සතුව තිබී AK 47 ගිනි අවියක්, මැගසීනයක්, ජීව උණ්ඩ, මිලි මීටර් 9 පිස්තෝලයක්, මැගසීනයක් සහ උණ්ඩ, කඩු දෙකක් සහ කිණිස්සක් සොයාගෙන තිබේ.
+
+◼️
+
+[Data](articles/fd3173fa.json)
+
+---
 
 ### O / L applications from tomorrow
 
@@ -392,17 +408,47 @@ Australia won the toss and elected to win 204 runs, losing 8 wickets in 33.3 ove
 
 ---
 
-### බදු ගෙවීම් පැහැර හැරි ජනකට හා බිරිඳට නඩු
+### රු. 50 සීනි බද්ද නැවතත්
+
+*2024-11-04 18:00:57* · [`adalk`](https://www.ada.lk/breaking_news/රු--50-සීනි-බද්ද-නැවතත්/11-412851) · `si`
+
+2024 නොවැම්බර් මස 2 දින ඉවත් කිරීමට නියමිතව තිබූ රුපියල් 50 ක් වූ සීනි බද්ද නැවත පැණවීම, දුප්පත් මිනිසාට අල්ලට සීනි ටිකක් ලෙව කා තේ කෝප්පයක් බීමට තිබූ අවස්ථාවත් අහිමි කිරීමක් යැයි මාතලේ සමගි ජනබලවේගය දිස්ත්‍රික් නායිකා රෝහිණී කවිරත්න පවසයි.
+
+මුදල් අමාත්‍යවරයා ලෙස අනුර කුමාර දිසානායක මහතා 2024 නොවැම්බර් 1 දින 2007 අංක 48 දරණ විශේෂ වෙළඳ භාණ්ඩ බදු පනතේ විධිවිධාන අනුව රු. 50 ක සීනි බද්දක් පනවා ඇත.
+
+2023 නොවැම්බර් මස 1 දින මුලින්ම මේ ප්‍රශ්නගත සීනි බද්ද එවකට පැවති රජය විසින් පනවනු ලැබීය. මේ පිළිබඳ පාර්ලිමේන්තු කමිටු අවස්ථාවේ දී ද, වෙනත් ප්‍රතිපත්ති රැස්වීම්වල ද, දේශපාලන වේදිකාවේ ද මා විසින් විරෝධය දක්වන ලදී.  මේ පිලිබඳ රාජ්‍ය නිලධාරීන් පැවසූවේ, 2024 නොවැ. 01 දිනට පසුව මෙම බද්ද ඉවත් කරන බවය. සීනි බදු වංචා කිරීමෙන් අයථා ලාභයක් ඉපයීම වැලැක්වීමට මෙම බද්ද පනවනු ලැබූ බවත්, එය දීර්ඝව පවත්වාගෙන යාමේ කිසිදු සාධාරණත්වයක් නොමැති බව මුළු රටම දනී.
+
+සීනි බදු වංචාව සහ බදු ගසා ඉහළ නංවා ඇති සීනි මිල පාරිභෝගිකයා පීඩාවට පත් කරන ආහාර ද්‍රව්‍ය මිල ඉහළ නංවන දුෂ්ඨ හා සහාසික බද්ධකි.
+
+...
+
+[Data](articles/ae29e728.json)
+
+---
+
+### Legal action against people who defaulted tax payments
 
 *2024-11-04 17:49:39* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ගෙවීම්-පැහැර-හැරි-ජනකට-හා-බිරිඳට-නඩු/11-412849) · `si`
 
-රුපියල් කෝටි තුනකට අධික බදු මුදල් රජයට ගෙවීම පැහැර හැරී බවට චෝදනා කරමින් ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිසමේ හිටපු සභාපතිවරයකු සහ  පසුගිය ජනාධිපතිවරණයේ ජනාධිපති අපේක්ෂකයෙකු වූ ජනක රත්නායක මහතාට සහ ඔහුගේ බිරිඳට එරෙහිව දේශීය ආදායම් දෙපාර්තමේන්තුව කොළඹ අතිරේක මහේස්ත්‍රාත් බණ්ඩාර ඉලංගසිංහ මහතා හමුවේ නඩු පැවරීය.
+Sri Lanka Inland Revenue sues former official, presidential candidate for unpaid taxes. Case involves $2 billion payment dispute. Court orders immediate appearance of defendants.
 
-වසර තුනක කාලයක් සඳහා ‘වැට්’ සහ ආදායම් බදු වශයෙන් රජයට ගෙවිය යුතු රුපියල් කෝටි තුනකට අධික බදු මුදලක් ගෙවීම පැහැර හැරී බවට චෝදනා කරමින් පවරා ඇති නඩු කැඳවනු ලැබු අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතුරුව දෙසැම්බර් 10 වැනිදා අධිකරණයේ පෙනී සිටින ලෙස ජනක රත්නායක මහතාට සහ ඔහුගේ බිරිඳ වන වන එච්.එල්. කුමාරි ද සිල්වා මහත්මියට මහේස්ත්‍රාත්වරයා නියම කළේය.
+🟩
+
+The Inland Revenue Department filed a former chairman of the Sri Lanka Public Utilities Commission and the Presidential candidate of the Sri Lanka Public Utilities Commission of Sri Lanka and the Presidential candidate Janaka Ratnayake and his wife in the last presidential election.
+
+Janaka Ratnayake and his two-billion rupees to pay for Rs.The wife is HL. Kumari de Silva sentenced the magistrate.
+
+Rente Company Service (Rent Company Service) as directors of 'Rent Company' (Rent Company), Colombo 05, will be paid to the Government as VAT.The Department of Inland Revenue has been filed against the default tax of Rs. 18,51,688.37 for the three years.
+
+The respondents did not appear in court when the case was taken up and appeared in court.
+
+Attorney-at-Law Dinesh Perera appearing on behalf of the Construction Ingrupthibage Dinesh Perera, he said the piscal reported that the respondents were handed over to respondents.
 
 ...
 
 [Data](articles/b4493ab0.json)
+
+[Extended Data](ext_articles/b4493ab0.ext.json)
 
 ---
 
@@ -594,41 +640,61 @@ Ticketing windows The ticket windows will be open from 9 am to 8 pm.
 
 ---
 
-### ஜனாதிபதி அநுரகுமார முன்னெடுத்துச்செல்லும் வேலைத்திட்டம் என்ன ? - நிஷாந்த ஸ்ரீ வர்ணசிங்க
+### What is the program of President Anurakumara?- Nishantha Sri Warnasinghe
 
 *2024-11-04 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197880) · `ta`
 
-அதிகாரத்துக்கு வந்து ஒரு மாத காலம் முடிவடைந்தும் அரசாங்கத்தின் வேலைத்திட்டத்தில் எந்த மாற்றமும் இல்லை. ஜனாதிபதி அநுரகுமார திஸாநாயக்கவின் வேலைத்திட்டம் வளமான நாடு அழகான வாழ்க்கையா அல்லது ரணில் விக்ரமசிங்கவின் இயலும் சிறிலங்காவா என கேட்கிறோம் என புதிய ஜனநாயக முன்னிணியின் கொழும்பு மாவட்ட வேட்பாளர் நிஷாந்த ஸ்ரீ வர்ணசிங்க தெரிவித்தார்.
+President Anura Kumara Dissanayake's program lacks significant changes despite being in power for a month. His "prosperous country" vision contrasts with Ranil Wickremesinghe's "enabled Sri Lanka" plan. The government hasn't discussed IMF agreement amendments publicly. There's concern about transparency in international talks and the president's absence from key conferences. The opposition questions the need for an opposition party under Dissanayake's leadership.
 
-கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணியின் தேர்தல் வழிநடத்தல் காரியாலயத்தில்   இடம்பெற்ற செய்தியாளர் சந்த்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+🟩
 
-அநுரகுமார திஸாநாயக்க ஆட்சிக்கு வந்து ஒரு மாத காலம் கடந்துள்ள நிலையில் அவர்களின் வேலைத்திட்டத்தில் எந்த மாற்றத்தையும் காணக்கூடியதாக இல்லை.
+There is no change in the government's program even after the end of a month's arrival in power. President Anura Kumara Dissanayake's program is a prosperous country, or Ranil Wickremesinghe is a Sri Lankan.
 
-அதனால் தேசிய மக்கள் சக்தியின் வளமான நாடு அழகான வாழ்க்கை தேர்தல் விஞ்ஞாபனத்தில் தெரிவிக்கப்பட்டுள்ள  வேலைத்திட்டத்தில் எதுவும் இதுவரை செயற்படுத்தப்பட வில்லை. அவ்வாறானால்.
+He was speaking at a press conference held at the New Democratic Front's election office in Colombo.
 
-அநுரகுமார திஸாநாயக்க கொண்டு செல்லுலம் வேலைத்திட்டம் என்ன?  வளமான நாடு அழகான வாழ்க்கை வேலைத்திட்டமா அல்லது ரணில் விக்ரமசிங்கவின் இயலும் சிறிலாங் வேலைத்திட்டமா?
+A month has passed since the Anuragumara Dissanayake came to power and there is no change in their program.
+
+So the prosperous country of the national people's power has not yet been implemented in the program of beautiful life manifesto.. If so.
+
+What is the Cellulum Program with Anuragumara Dissanayake?Is the prosperous country a beautiful life program or Ranil Wickremasinghe's enabled Sri Lanka program?
+
+But the government is looking at Ranil Wickremesinghe's program like that.
+
+They said they would amend the agreements that the last government was doing with the International Monetary Fund.
 
 ...
 
 [Data](articles/474c3f35.json)
 
+[Extended Data](ext_articles/474c3f35.ext.json)
+
 ---
 
-### தமிழரசுக்கட்சியை மௌனிக்கச் செய்யவேண்டும் என்ற நோக்குடன் அரசு செயற்படுகின்றது - ரவிகரன்
+### The government is working to silence the Tamil party - Ravikaran
 
 *2024-11-04 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197877) · `ta`
 
-தமழ் மக்களையும், தமிழ் மக்களின் நிலங்களையும் காத்து நின்ற தமிழீழ விடுதலைப்புலிகளை மௌனிக்கச்செய்தது போல், தற்போது தமிழ் மக்களின் உரிமைக்காக ஜனநாயகவழியில் போராடும் தமிழரசுக்கட்சியையும், வீட்டுச்சின்னத்தையும் மௌனிக்கச்செய்யும்நோக்குடன் இலங்கை அரசாங்கம் செயற்படுவதாக இலங்கைத் தமிழரசுக்கட்சியின் வன்னிமாவட்ட பாராளுமன்ற வேட்பாளர் துரைராசா ரவிகரன் தெரிவித்துள்ளார்.
+Sri Lankan government works with TNA candidate Durairasa Ravikaran to silence Tamil party. Ravikaran emphasizes land rights and police authority for Tamils. Thirteenth amendment to Constitution introduced provincial council system but majority leaders oppose Tamil solutions. Tamils fight land grabbing by Forest Department and military occupation. Tamil party symbol "house" represents Tamil identity and voting strategy.
 
-அத்தோடு காணி, பொலிஸ் அதிகாரம் தமிழ் மக்களுக்கு அடிப்படை உரிமை எனவும்,  யுத்தக்குற்றவாளிகளுக்கான விசாரணைகளும், அவர்களுக்கெதிரான சட்ட நடவடிக்கைகள் தேவைஎனவும் அவர் மேலும் வலியுறுத்தியுள்ளார்.
+🟩
 
-முல்லைத்தீவு - புதுக்குடியிருப்பில் இடம்பெற்ற இலங்கைத் தமிழரசுக்கட்சியின் பிரச்சாரக் கூட்டத்தில் கலந்துகொண்டு கருத்துத் தெரிவிக்கும்போதே ரவிகரன் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+The Sri Lankan government is working with the Sri Lankan Tamil National Alliance (TNA) parliamentary candidate Durairasa Ravikaran, who is now working with the Tamil party and the home of the Tamil people who are fighting for the rights of the Tamil people.
 
-யுத்தம் மௌனிக்கப்பட்டதற்குப்பின்னர் பல வெளிநாடுகளின் அழுத்தங்களால் அரசியலமைப்பின் பதின்மூன்றாம் திருத்தத்தினை தமிழ் அரசியல் தலைவர்கள் ஏற்றுக்கொண்டனர்.
+He also emphasized that the land and the police authority are fundamental to the Tamil people, investigations for war criminals and legal action against them.
+
+Ravikaran said this while participating in the campaign meeting of the Sri Lanka Tamil National Party held in Mullaitivu - Pudukkudiyiruppu.
+
+After the silence of the war, the Tamil political leaders accepted the thirteenth amendment of the Constitution by many abroad pressure.
+
+They accepted the provincial council election. But we all know that the provincial council system in this country cannot provide a solution to the Tamils.
+
+It is well known that none of the majority of leaders are going to come forward with a solution to the Tamils.
 
 ...
 
 [Data](articles/253d91e8.json)
+
+[Extended Data](ext_articles/253d91e8.ext.json)
 
 ---
 
@@ -2257,67 +2323,5 @@ The body was taken to the Peradeniya Teaching Hospital for autopsy and the open 
 [Data](articles/851d832b.json)
 
 [Extended Data](ext_articles/851d832b.ext.json)
-
----
-
-### Is it removed from religious places?
-
-*2024-11-04 10:37:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c206nkr2wyro) · `si`
-
-Here's a 200-character summary:
-
-
-
-Security measures for religious sites in Sri Lanka unchanged. Military protects 89 Buddhist temples with 1,584 soldiers. Security provided during religious events like Easter. No plans to reduce overall security.
-
-🟩
-
-There is talk of security deployed in Sri Lankan religious places.
-
-It is with social media that the security that has been deployed has been reduced to religious places.
-
-The Sri Lanka Army Media Unit has also called on a sudden press conference on Sunday (No November).
-
-There, military spokesman Major General Rasika Gen. Fan Kumara stated that the claims that the security of religious places has been removed.
-
-The army has now protected 89 Buddhist temples for 89 Buddhist temples.
-
-There are 1584 soldiers who have been attached to this.
-
-However, it was revealed that the members attached to two functions have been assigned to two functions.
-
-Accordingly, 364 soldiers and 1220 soldiers have been deployed for the protection of temples.
-
-89 temples have been protected in 16 districts of 9 provinces.
-
-Meanwhile, the media spokesman said that the media spokesman said that the army members will be deployed for Christian and mosques.
-
-...
-
-[Data](articles/94d1477e.json)
-
-[Extended Data](ext_articles/94d1477e.ext.json)
-
----
-
-### Fish dies suddenly in the sea surrounding the Trincomalee harbor
-
-*2024-11-04 10:36:15* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-වරාය-අවට-මුහුදේ-මසුන්-හදිසියේ-මිය-යයි/11-412836) · `si`
-
-Fish die mysteriously near Trincomalee harbor. Samples sent to research agency. Multiple departments investigate. Cause unknown. Fish deemed unsuitable for consumption.
-
-🟩
-
-The Government Agent Chaminda Hettiarachchi said that the samples were sent to the National Aquatic Resources Research Resources Research Agency to look into sudden death in the Trincomalee harbor.
-
-With the assumption of the incident, the Navy, Co-Fisheries and Aquatic Resources Department, Fisheries Harbor Corporation, the Department of Environmental Protection and Coastal Resources Management, the Department of Fisheries and Coastal Resources Management.
-
-The deceased is that the death of the fish has been revealed that the fish has been revealed that the fish is not suitable for these fish.
-
-◼️
-
-[Data](articles/c97bb5b0.json)
-
-[Extended Data](ext_articles/c97bb5b0.ext.json)
 
 ---

@@ -1,36 +1,286 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 16:24:46**
+As of **2024-11-04 16:58:38**
 
 ## Newspaper Stats
 
-*Scraped **52,965** Articles*
+*Scraped **52,984** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
 colombotelegraphcom | 540
-bbccomsinhala | 542
+bbccomsinhala | 543
 islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,939
-adaderanalk | 6,303
+adalk | 4,943
+adaderanalk | 6,307
 tamilmirrorlk | 7,364
-virakesarilk | 8,548
-adaderanasinhalalk | 9,232
+virakesarilk | 8,555
+adaderanasinhalalk | 9,235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,965 (100.0%) of 52,965 articles have been extended.
+52,973 (100.0%) of 52,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### வன்னி மக்கள் இரண்டாந்தரப் பிரஜைகள் அல்லர் - எமில்காந்தன்
+
+*2024-11-04 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197875) · `ta`
+
+வன்னி மக்கள் இரண்டாந்தரப்பிரஜைகள் இல்லை என்று சுமந்திரனுக்கு சுட்டிக்காட்டுவதாக தெரிவித்துள்ள சுயேட்சை குழு இலக்கம் 7 இன் முதன்மை வேட்பாளர் எமில்காந்தன்,  செல்வம் அடைக்கலநாதன் மற்றும் சிவசக்தி ஆனந்தன் ஆகியோருக்கு எச்சரிக்கையுடன் சவால் விடுத்துள்ளார்.
+
+வவுனியாவில்  திங்கட்கிழமை (04) நடைபெற்ற ஊடகவியலாளர் சந்தப்பில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+எமது கட்சியின் நிலைப்பாடுகளின் பிரகாரம் பிற அரசியல் கட்சிகள் மற்றும் தரப்பினர் தொடர்பில் விமர்சனங்களை முன்வைப்பதில்லை.
+
+இதனை ஆரம்பத்திலிருந்து நாம் தெரிவித்து வந்திருக்கின்றோம். கடந்த காலங்களில் அவ்வாறு தான் செயற்பட்டும் வந்திருக்கின்றோம்.
+
+இருப்பினும் எம்மையும், எமது மண்ணையும், எமது மக்களையும் தவறாக சித்தரித்தும், இரட்டாந்தரப்பாக பார்க்கும் நிலைமையையும் இட்டு சில விடயங்களை தெளிவு படுத்துவதற்கு முனைகின்றோம்.
+
+தமது இரண்டாம் தரப்பு உறுப்பினர்களை களமிறக்கி அதன்மூலமாக சூட்சுமமான மீண்டும் வெற்றி பெறுவதற்கு முயற்சிக்கும் தலைவர்கள் அதற்கு மேலதிகமாக என்னையும், கோடரிச் சின்னத்தையும் தரம்தாழ்த்தும் நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+
+...
+
+[Data](articles/87336f5d.json)
+
+---
+
+### How to obtain a passport quickly for urgent needs
+
+*2024-11-04 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103156/how-to-obtain-a-passport-quickly-for-urgent-needs) · `en`
+
+The individuals with urgent needs for a passport can apply directly with supporting documents.
+
+Speaking at a press conference held today (04), Acting Controller General of Immigration D.M.D. Nilusha Balasuriya said that in response to the high demand for expedited travel permits, an independent committee within the Immigration Department has been established to evaluate requests on a case-by-case basis.
+
+Balasuriya explained that those requiring immediate passports must still schedule an appointment through the usual process.
+
+However, for critical circumstances, applicants can present verified documents to the department prior to their assigned date, if they can substantiate an urgent need.
+
+“We’ve set up an independent committee specifically for urgent cases. Applicants should bring documentation that confirms their need, allowing them to obtain relief. However, we caution that any presentation of forged or fraudulent documents will prompt strict legal action,” Balasuriya noted.
+
+◼️
+
+[Data](articles/a09d72b0.json)
+
+---
+
+### Online token system for collecting passports effective from Wednesday
+
+*2024-11-04 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103155/online-token-system-for-collecting-passports-effective-from-wednesday) · `en`
+
+A new online method has been introduced for the collection of passports, according to the Department of Immigration and Emigration.
+
+Accordingly, an appointment can be made for obtaining the passports by visiting the official website of the Department of Immigration and Emigration, Acting Immigration and Emigration Controller General D.M.D. Nilusha Balasuriya said.
+
+Joining a press conference held in Colombo, she mentioned that the new system will be implemented starting from November 06, 2024.
+
+“Starting November 06, an online reservation system will be available, allowing individuals to book appointments on any day, at any time, and from any location. This system allocates a limited number of tokens for same-day reservations. Once these tokens are exhausted, users can secure a future date for their appointments as well”, Mrs. Balasuriya added.
+
+...
+
+[Data](articles/6806c5e5.json)
+
+[Extended Data](ext_articles/6806c5e5.ext.json)
+
+---
+
+### භාග්‍යාට වූ අභාග්‍ය
+
+*2024-11-04 16:28:19* · [`adalk`](https://www.ada.lk/breaking_news/භාග්‍යාට-වූ-අභාග්‍ය/11-412846) · `si`
+
+“මල්ලීගේ දරුවන් උනාට මම මොවුන් හදා ගත්තේ මගේම දරුවන් වගේ, හැමදාම රේල් පාර පැනලා වැඩට යන භාග්‍යා දුව කෝච්චියේ හැපී මියගියා” යැයි පසුගියදා ගාල්ල මිනුවන්ගොඩ ප්‍රදේශයේදී දුම්රියේ ගැටී කරාපිටිය රෝහලේ ප්‍රථිකාර ලබමින් සිටියදී මියගිය තරුණියකගේ මරණ පරීක්ෂණයේදී සාක්ෂි දෙමින් ඇගේ නැන්දණිය කීවාය.
+
+මෙලෙස මියගොස් ඇත්තේ ගාල්ල, මඩපාතල, දෙවන පටුමගේ පදිංචිව සිටි භාග්‍යා සුභාෂිණී රත්නායක නැමැති 23 හැවිරිදි තරුණියකි. මෙම සිද්ධිය සම්බන්ද මරණ පරීක්ෂණය ගාල්ල ජාතික රෝහලේ අධිකරණ වෛද්‍ය අංශයේදී පසුගියදා (02) රෝහලේ මරණ පරීක්ෂක චන්ද්‍රසේන ලොකුගේ මහතා විසින් පවත්වන ලදී.
+
+එහිදී සාක්ෂි දෙමින් මියගිය තරුණියගේ නැන්දණිය වන මහදුර ටිලා ජයසේකර (62) මෙසේ ද කීවාය.
+
+...
+
+[Data](articles/a7f1c9c8.json)
+
+---
+
+### 2012 Magazine Prison clashes: 24 defendants granted bail
+
+*2024-11-04 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103154/2012-magazine-prison-clashes-24-defendants-granted-bail) · `en`
+
+The Colombo High Court today (04) granted bail for 24 individuals who had been remanded on the charges of assaulting a group of people and causing damage to property at the Borella New Magazine Prison during clashes in 2012.
+
+During the trial, 43 defendants involved in the incident pleaded guilty to the charges, Ada Derana reporter said.
+
+Accordingly, the accused were ordered to pay Rs. 300,000 in compensation to Nihal Gunawardena, who was seriously injured in the incident. The judge ordered each defendant to pay Rs. 7,000 as compensation on the next court date.
+
+Additionally, the defendants were ordered to pay Rs. 122,000 each for the damages to the property, totaling to over Rs. 5.2 million, caused to the Magazine Prison during the clashes. The compensation payments were ordered to be completed by December 13, 2024.
+
+◼️
+
+[Data](articles/33597305.json)
+
+[Extended Data](ext_articles/33597305.ext.json)
+
+---
+
+### Privoting of the Electricity Board
+
+*2024-11-04 16:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202899) · `si`
+
+Ceylon Electricity Board cancels privatization plans. Focuses on improving service quality, employee welfare, and implementing government's independent system. Aims to reduce electricity costs in Sri Lanka within 5 years.
+
+🟩
+
+The Board of Directors of the Ceylon Electricity Board (CEB) has decided to park the privatization of the Ceylon Electricity Board.
+
+The Ceylon Electricity Board (CEB) has stated in a statement at the 23rd of the 23rd of the discussion conducted by the Board of Directors.
+
+Accordingly, maintaining the quality of service quality, maintaining the quality of the customer satisfaction, is focusing on corporate reforms by carrying out a high return and improvement of employees.
+
+It has also been decided to implement the government's independent system function without privatization of the Electricity Act and the government's power plants, transmission and distribution network.
+
+There is also proposed to establish a popularity, transmission, distribution sector financial and functional mechanism in a single buyer mode.
+
+It has also been discussed to appoint Sri Lanka into the lowest electricity cost of the region over the next five years.
+
+◼️
+
+[Data](articles/b51fbb6b.json)
+
+[Extended Data](ext_articles/b51fbb6b.ext.json)
+
+---
+
+### New surgical unit inaugurated at Batticaloa Teaching Hospital
+
+*2024-11-04 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103153/new-surgical-unit-inaugurated-at-batticaloa-teaching-hospital) · `en`
+
+Indian High Commissioner to Sri Lanka Santosh Jha and the Secretary of Sri Lanka’s Ministry of Health, Dr. P. G. Mahipala, jointly inaugurated a new Surgical Unit at Batticaloa Teaching Hospital, built with an Indian grant of over Rs. 300 million.
+
+The unit is expected to reduce waiting lists for surgeries at the hospital by 50% and benefit nearly 5000 new patients each year, considerably improving access to quality healthcare services in the region, the Indian High Commission said.
+
+◼️
+
+[Data](articles/d251611c.json)
+
+[Extended Data](ext_articles/d251611c.ext.json)
+
+---
+
+### 12 hour water cut in several parts of Gampaha
+
+*2024-11-04 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202898) · `si`
+
+Gampaha: 12-hour water cut from 6 AM to 6 PM on Wednesday due to maintenance on Negombo-Colombo main road.
+
+🟩
+
+The National Water Supply and Drainage Board (NPF) says the water cut will be imposed for 12 hours in several areas in the Gampaha district.
+
+Accordingly, the water cut will be imposed from 6.00 am to 6.00 am from 6.00 am to 6.00 am on Wednesday.
+
+The water supply is temporarily suspended due to the necessary maintenance on the Negombo - Colombo main road.
+
+◼️
+
+[Data](articles/3e9b0611.json)
+
+[Extended Data](ext_articles/3e9b0611.ext.json)
+
+---
+
+### Chinese astronauts back to Earth
+
+*2024-11-04 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202897) · `si`
+
+Chinese astronauts return after 192 days. Three crew members safely land in Mongolia. Conducted microgravity, material science, and physics research. Set new spacewalk duration record. Next missions planned for 2025.
+
+🟩
+
+According to the Space Agency with Chinese astronauts, the astronauts of China said that three Chinese aroggasage had successfully arrived in the Chinese space station.
+
+The three astrology, the three astrology, the three astrology, the two spacecraft, the capsule of the Shanzhou-18 spacecraft, including these three astrology, have been the shota of Dongfeng in the Mongolia, including North China.
+
+It is also reported that all three astroads who came to the earth were in good health for 192 days.
+
+During their operations, these astrology contributed to many research related to the fields of Micro gravity, space materials, basic physics.
+
+They also set up a new record in May, with a long time walking in space for a long time.
+
+The Chinese space agency said that the Snzhou-20 and Shenzhou-21 space operations were to launch the space operations in 2025 according to the astronauts in China.
+
+◼️
+
+[Data](articles/6f50516d.json)
+
+[Extended Data](ext_articles/6f50516d.ext.json)
+
+---
+
+### Three arrested for treasure in Hambantota
+
+*2024-11-04 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197870) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"3 arrested for alleged treasure excavation in Hambantota. STF raided Medamulana area, suspects ages 29, 41, 51. Handed to Weeraketiya Police for investigation."
+
+🟩
+
+Police Special Task Force (STF) said that three suspects allegedly excavating treasure in Medamulana area belonging to the Weeraketiya Police Division, Hambantota were arrested on Sunday (03).
+
+The suspects have been arrested during a raid carried out on information received by the Police Special Task Force.
+
+The suspects were aged 29, 41 and 51 from Hakman, Medamulana and Tangalle.
+
+Subsequently, the three suspects have been handed over to the Weeraketiya Police Station for further investigations.
+
+◼️
+
+[Data](articles/029368c1.json)
+
+[Extended Data](ext_articles/029368c1.ext.json)
+
+---
+
+### 2025 ට පාසල් නිළ ඇඳුම් ලැබෙයිද ?
+
+*2024-11-04 16:04:41* · [`adalk`](https://www.ada.lk/breaking_news/2025-ට-පාසල්-නිළ-ඇඳුම්-ලැබෙයිද--/11-412845) · `si`
+
+මෙරට සියළු පාසල් දරුවන් සඳහා අවශ්‍යය නිල ඇඳුම් ප්‍රමාණය සම්පූර්ණයෙන්ම චීන රජයෙන් පරිත්‍යාග කිරීමට සූදානම් බව මෙරට චීන තානාපති චී ෂෙන් හොනග් විසින් පවසයි. වර්ෂ 2023 දී 70% ක් සහ 2024 වසරේදී 80% ක් වශයෙන් ශ්‍රී ලංකාවේ පාසල්වල දරු දැරියන් සඳහා පරිත්‍යාග කර ඇති බවත් 2025 වර්ශය සඳහා එම ප්‍රමාණය සියයට සියයක් දක්වා වැඩිකරන බවටත් තානාපතිවරයා වැඩිදුරත් පවසා සිටියේය.
+
+◼️
+
+[Data](articles/6a9c2b03.json)
+
+---
+
+### විදේශ ගමන් බලපත්‍ර ලබා ගැනීමට අද සිට හඳුන්වාදුන් ක්‍රමය මෙන්න
+
+*2024-11-04 16:01:19* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ගමන්-බලපත්‍ර-ලබා-ගැනීමට-අද-සිට-හඳුන්වාදුන්-ක්‍රමය-මෙන්න/11-412844) · `si`
+
+විදේශ ගමන් බලපත්‍ර ලබා ගැනීමට දිනයක් වෙන් කරවා ගැනීම අද(04දා) සිට මාර්ගගත ක්‍රමයට සිදු කරන බව ආගමන විගමන පාලක ජනරාල් (වැඩබලන) බී. එම්. ඩී. නිලුෂා බාලසූරිය මහත්මිය පැවසීය.
+
+දැන් කොළඹ පැවැත්වෙන මාධ්‍ය හමුවකට එක්වෙමින් ඇය මේ බව සඳහන් කළාය.
+
+“අපිට අද අලුත් මාර්ගගත ක්‍රමයක් හඳුන්වා දෙන්න හැකියාව ලැබෙනවා. මේ ක්‍රමය යටතේ ඔබට ආගමන විගමන දෙපාර්තමේන්තුවේ වෙබ් අඩවියට ප්‍රවිශ්ට වීමට හැකියාව තිබෙනවා. එහි වම්පත සඳහන් වෙනවා විදේශ ගමන් බලපත්‍ර ලබා ගැනීම සඳහ දිනයක් වෙන් කර ගැනීම යන සබැඳියාව. ඒ සබැඳියාවට පිවිසීම තුළින් ගමන් බලපත්‍රයක් ලබා ගැනීම සඳහා දිනයක් වෙන් කර ගැනීමේ පද්ධතිය වෙතට ඔබට ප්‍රවිශ්ට වෙන්න පුළුවන්.
+
+ඒ අනුව ඔබට දවසේ ඕනෑම වෙලාවක, ඕනෑම තැනක සිට, ඕනෑම පුද්ගලයෙකුට මේ වෙබ් අඩවිය හරහා දිනයක් වෙන් කරවා ගැනීමේ හැකියාව පවතිනවා. ”
+
+◼️
+
+[Data](articles/7835699e.json)
+
+---
 
 ### If the sudden foreign passport is required
 
@@ -126,35 +376,39 @@ The NWSDB has requested people residing in the aforementioned areas to take the 
 
 ---
 
-### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
+### Ukraine soldiers waiting for US election results
 
-*2024-11-04 15:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
+*2024-11-04 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197866) · `ta`
 
-Democracy under threat, as Trump sows doubt on election integrity
+Ukrainian soldiers anxiously await US election results, hoping Kamala Harris will continue military aid. Donald Trump's presidency may limit support, potentially impacting Ukraine's war efforts against Russia.
 
-President Ronald Reagan, “The Great Communicator” was famous for conceptualizing the American Dream, in a loose paraphrasing of the words enshrined in the Statue of Liberty.
+🟩
 
-Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shining City all my political life….But in my mind, it was a tall, proud city built on rocks, stronger than oceans, wind-swept, God blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and heart to get here. That’s how I saw it, and see it still.
+Ukraine's International, who is cleaning the broken mirror of the outlet, knows that the future of his country is in the hands of American voters who are 5000 miles away.
+
+We hope that a woman named Kamalahariis will win and help us.
+
+This is the usual event in Jaboria.
+
+"We are worried about the election results," he says. "We want to defeat the enemy."
+
+The victory for Ukraine, which has the smallest opportunity to win the war, depends on the US support.
+
+In this area, the Ukraine responded in 2023, hoping to remove the Russian occupants.
+
+However, the situation of Ukraine has now become impossible to focus on focusing.
+
+Bombs and missiles are attacking Ukraine cities.
+
+Democratic candidate Kamala Haris has said that if he wins the election, military aid to Ukraine will continue, while his powers may be limited by the US Congress in the hands of the Republican Party.
+
+If Donald Trump is again president, it is difficult for Ukraine to continue the current $ 50 billion military assistance.
 
 ...
 
-[Data](articles/91ee4331.json)
+[Data](articles/91a2061e.json)
 
-[Extended Data](ext_articles/91ee4331.ext.json)
-
----
-
-### The NPP: A Month in Power
-
-*2024-11-04 15:03:00* · [`islandlk`](http://island.lk/the-npp-a-month-in-power/) · `en`
-
-It has been a month since Anura Kumara Dissanayake assumed the presidency, a month since the NPP claimed its place in history as the first party from outside of the political establishment to win a presidential election in Sri Lanka. Two weeks from now, the NPP will face another election, this time parliamentary. Depending on the results it gets, we will know whether the people approve of the NPP’s actions over the last four weeks and if they want it to continue. The NPP’s call for a powerful government is, in itself, not alarming: no government can survive without a majority in parliament. Yet it will need to convince Sri Lankans that it is the party they need – the party not of power, but of change.
-
-...
-
-[Data](articles/13add880.json)
-
-[Extended Data](ext_articles/13add880.ext.json)
+[Extended Data](ext_articles/91a2061e.ext.json)
 
 ---
 
@@ -265,6 +519,20 @@ One cannot give one president because it receives additional votes. In 2016 Hill
 [Data](articles/b71dc068.json)
 
 [Extended Data](ext_articles/b71dc068.ext.json)
+
+---
+
+### ඉන්දුනීසියාවේ ගිනිකන්දක් පුපුරා යයි - 10 දෙනෙකු ජීවිතක්ෂයට
+
+*2024-11-04 14:21:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාවේ-ගිනිකන්දක්-පුපුරා-යයි---10-දෙනෙකු-ජීවිතක්ෂයට/11-412843) · `si`
+
+ඉන්දුනීසියාවේ Laki-Laki ගිනිකන්ද පුපුරා යාමෙන් පුද්ගලයන් 10 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+එමෙන්ම තවත් පුද්ගලයන් 10,295 දෙනෙකු ගිනි කන්ද පුපුරා යාම හේතුවෙන් පීඩාවට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+◼️
+
+[Data](articles/eba456a2.json)
 
 ---
 
@@ -446,6 +714,46 @@ A 12.5kg LAUGFS-household gas cylinder is sold at Rs. 3,680 and Rs.
 
 ---
 
+### டிரம்ப் அல்லது ஹரிஸ்? யார் வென்றாலும் உலகபொருளாதாரத்தில் நிகழ்ந்துகொண்டிருக்கும் அதிகார மாற்றத்தை எதிர்கொள்ளவேண்டியிருக்கும்
+
+*2024-11-04 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197859) · `ta`
+
+1992 இல் அமெரிக்கா  உலகில் அதிகாரத்தின் உச்சியில் காணப்பட்ட நாட்களில் கம்யுனிசம் தோற்கடிக்கப்பட்டது.பேர்ளின் சுவர் இடிக்கப்பட்டது.சோவியத்யூனியன் வீழ்ச்சியடைந்தது ,திறந்தபொருளாதாரம் குறித்த அதிர்ச்சி வைத்தியத்திற்கான ஆய்வுகூடமாக பயன்படுத்தப்பட்டது.
+
+சீன பொருளாதாரம் தாரளமயப்படுத்தப்பட்டமை அமெரிக்காவின் பல்தேசிய நிறுவனங்கள் உற்பத்தியை வேலைகளை வெளியில் கொடுப்பதற்கான (அவுட்சோர்ஸ்) செய்வதற்கான வாய்ப்பை வழங்கியது.
+
+இரண்டு லிபரல் தாராளமயமாக்கவாதிகள் ஜோர்ஜ் எச்டபில்யூபுஷ்  பில் கிளின்டன் ஆகிய இருவரும் ஜனாதிபதி பதவிக்கா போட்டியிட்டார்கள்.
+
+பில்கிளின்டன் வெள்ளை மாளிகைக்குள் நுழைந்து 32 வருடங்களாகின்ற நிலையில் பல விடயங்கள் இடம்பெற்றுவிட்டன.
+
+அமெரிக்கர்கள் செவ்வாய்கிழமை   தேர்தலில் வாக்களிக்கவுள்ள நிலையில் தங்களது நாடே உலகின் மிகப்பெரிய பொருளாதாரம் மிகப்பெரிய இராணுவம் என்பதை அவர்கள் நன்கு அறிந்திருக்கின்றார்கள்.
+
+1991 இல் வளைகுடா யுத்தத்தின் இறுதியில் புஷ் பெருமையுடன் தெரிவித்த ஒற்றை துருவ உலகம் வீழ்ச்சியடைந்துகொண்டுள்ளது.
+
+...
+
+[Data](articles/b1403090.json)
+
+---
+
+### மாதவன் நடிக்கும் 'அதிர்ஷ்டசாலி' படத்தின் முதல் பார்வை வெளியீடு
+
+*2024-11-04 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197853) · `ta`
+
+தமிழ் திரையுலகில் மட்டுமல்லாமல் பான் இந்திய அளவிலான முன்னணி நட்சத்திர நடிகர் மாதவன் நடிப்பில் தயாராகி இருக்கும் புதிய திரைப்படத்திற்கு, 'அதிர்ஷ்டசாலி' என பெயரிடப்பட்டு, அதன் முதல் தோற்றப் பார்வை வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் மித்ரன் ஆர். ஜவகர் இயக்கத்தில் உருவாகி வரும் 'அதிர்ஷ்டசாலி' எனும் திரைப்படத்தில் மாதவன், மடோனா செபாஸ்டியன், ராதிகா சரத்குமார், சாய் தன்ஷிகா, ஜெகன், என்.கே. நிரூபன்,  ஆர். சி. உபாசனா, மேத்யூ வர்கீஸ், உதய் மகேஷ், கே .எஸ். ஜி. வெங்கடேஷ், ரவி பிரகாஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கார்த்திக் முத்துக்குமார் ஒளிப்பதிவு செய்திருக்கும் என்ற திரைப்படத்திற்கு யுவன் சங்கர் ராஜா இசையமைக்கிறார்.
+
+கற்பனை நாடக வகைமையிலான இந்த திரைப்படத்தை ஏ ஏ மீடியா கொர்ப்பரேசன் நிறுவனம் சார்பில் ஷர்மிளா , ரேகா விக்கி மற்றும் மனோஜ் முல்கி ஆகியோர் இணைந்து பிரம்மாண்டமாக தயாரித்திருக்கிறார்கள்.
+
+...
+
+[Data](articles/eab6d081.json)
+
+---
+
 ### The King's couple a hit
 
 *2024-11-04 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202889) · `si`
@@ -469,6 +777,24 @@ They also accused the king and the government that the killer was dedicated to d
 [Data](articles/4c999595.json)
 
 [Extended Data](ext_articles/4c999595.ext.json)
+
+---
+
+### தீபாவளி வெளியீட்டில் வென்ற 'அமரன்'
+
+*2024-11-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197856) · `ta`
+
+தீபாவளி திருநாளன்று வெளியான திரைப்படங்களில் சிவகார்த்திகேயன் நடிப்பில் வெளியான 'அமரன்' திரைப்படம் வசூலில் சாதனை படைத்திருக்கிறது.
+
+தமிழர்கள் உலக அளவில் பாரம்பரியமாக கொண்டாடும் தீபாவளி திருவிழா நாளன்று சிவகார்த்திகேயன் நடிப்பில் உருவான 'அமரன்', ஜெயம் ரவி நடிப்பில் உருவான 'பிரதர்', கவின் நடிப்பில் உருவான 'பிளடி பெக்கர்' ஆகிய மூன்று நேரடி தமிழ் திரைப்படங்களும், துல்கர் சல்மான் நடிப்பில் உருவாகி தமிழில் மொழி மாற்றம் செய்யப்பட்ட 'லக்கி பாஸ்கர்' எனும் திரைப்படமும் வெளியானது.
+
+இந்த நான்கு திரைப்படங்களில்  'உலக நாயகன்' கமல்ஹாசன் தயாரிப்பில் சிவகார்த்திகேயன் நடிப்பில் உருவான 'அமரன்' எனும் திரைப்படம் விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியை பெற்றிருக்கிறது.
+
+இந்த திரைப்படம் வெளியான முதல் நாளில் இந்திய மதிப்பில் நாற்பது கோடி ரூபாய்க்கு மேல் வசூலித்து சாதனை படைத்தது.
+
+...
+
+[Data](articles/9ef066fc.json)
 
 ---
 
@@ -635,6 +961,24 @@ Additionally, the judge ordered that the case materials be securely stored and a
 [Data](articles/56e6e150.json)
 
 [Extended Data](ext_articles/56e6e150.ext.json)
+
+---
+
+### டிரம்பின் வெற்றியை எதிர்கொள்ள தயாராகிறது ஈரான் - இஸ்ரேலின் தாக்குதல்கள் தீவிரமடையலாம் என அச்சம்
+
+*2024-11-04 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197846) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலின் ஒரு மோசமான விளைவான - டிரம்பின் வெற்றியை எதிர்கொள்வதற்கு ஈரானும் அதன் சகாக்களும் தயாராகிவருவதாக ரொய்ட்டர் செய்தி வெளியிட்டுள்ளது
+
+கமலா ஹரிஸுக்கும் டொனால்ட்  டிரம்புக்கும் இடையில் கடும் போட்டி நிலவுவதை கருத்துக்கணிப்புகள் வெளிப்படுத்துகின்ற போதிலும், ஈரான் தலைவர்களும் லெபனான், யேமன் ஈராக்கில் உள்ள அவர்களின் சகாக்களும் நவம்பர் 5ஆம் திகதி தேர்தலில் டிரம்ப் வெற்றிபெறுவார்; அதனால் தங்களிற்கு மேலும் நெருக்கடிகள் உருவாகும் என கருதுகின்றனர்.
+
+ஈரானின் அணுநிலைகள் மீது தாக்குதலை மேற்கொள்வதற்கும் இலக்குவைக்கப்பட்ட படுகொலைகளில் ஈடுபடுவதற்கும் இஸ்ரேலின் பிரதமரை டிரம்ப் வலுப்படுத்துவதற்கான சாத்தியக்கூறுகள் குறித்து  ஈரான் அதிக கரிசனை கொண்டுள்ளது என மேற்குலக ஈரானிய அராபிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+டிரம்ப் ஈரானின் எண்ணெய் தொழில்துறைக்கு எதிராக தடைகளை விதிப்பதன் மூலம் அதிகளவு அழுத்தத்தை கொடுக்கும் கொள்கையை பின்பற்றலாம் என ஈரான் கருதுகின்றது.
+
+...
+
+[Data](articles/c785fbb5.json)
 
 ---
 
@@ -989,6 +1333,34 @@ The body was taken to the Peradeniya Teaching Hospital for autopsy and the open 
 [Data](articles/851d832b.json)
 
 [Extended Data](ext_articles/851d832b.ext.json)
+
+---
+
+### ආගමික ස්ථානවල ආරක්ෂාව ඉවත් කරලා ද?
+
+*2024-11-04 10:37:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c206nkr2wyro) · `si`
+
+ශ්‍රී ලංකාවේ ආගමික ස්ථානවලට යොදවා ඇති ආරක්ෂාව සම්බන්ධයෙන් කතාබහක් නිර්මාණය වී තිබේ.
+
+ඒ, ආගමික ස්ථානවලට යොදවා තිබූ ආරක්ෂාව අඩු කර ඇති බවට සමාජ මාධ්‍ය ඔස්සේ අදහස් පළ වීමත් සමග ය.
+
+මේ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා ශ්‍රී ලංකා යුද්ධ හමුදාවේ මාධ්‍ය ඒකකය ඉරිදා (නොවැ: 03) පස්වරුවේ හදිසි ප්‍රවෘත්ති සාකච්ඡාවක් ද කැඳවා තිබිණි.
+
+එහිදී, හමුදා ප්‍රකාශක මේජර් ජෙනරාල් රසික කුමාර ප්‍රකාශ කළේ, ආගමික ස්ථානවලට දී ඇති ආරක්ෂාව ඉවත් කර ඇතැයි පළ කර ඇති ප්‍රකාශ සාවද්‍ය ඒවා බව ය.
+
+මේ වන විට යුද්ධ හමුදාව බෞද්ධ විහාරස්ථාන 89කට ආරක්ෂාව ලබා දී ඇතැයි හමුදා මාධ්‍ය ප්‍රකාශවරයා සඳහන් කළේ ය.
+
+ඒ සඳහා අනුයුක්ත කර ඇති හමුදා සාමාජිකයින් සංඛ්‍යාව 1584 දෙනෙකි.
+
+කෙසේ වෙතත්, එලෙස අනුයුක්ත කර ඇති සාමාජිකයින් කාර්යයන් දෙකක් යටතේ අනුයුක්ත කර ඇති බව ද එහිදී අනාවරණය විය.
+
+ඒ අනුව, විහාරස්ථානවල ආරක්ෂාව සඳහා හමුදා සාමාජිකයින් 364 දෙනෙකු සහ විහාරස්ථානවල ඉදිකිරීම් කටයුතු සඳහා 1220 දෙනෙකු යොදවා තිබේ.
+
+පළාත් 9ට අයත් දිස්ත්‍රික්ක 16ක විහාරස්ථාන 89කට මෙලෙස ආරක්ෂාව සලසා ඇත.
+
+...
+
+[Data](articles/94d1477e.json)
 
 ---
 
@@ -1877,383 +2249,5 @@ The public has been asked to take steps to protect the disasters in cases of rai
 [Data](articles/2fd0f064.json)
 
 [Extended Data](ext_articles/2fd0f064.ext.json)
-
----
-
-### Do you know that your little forgetfulness can be the beginning of a disease that you love all?
-
-*2024-11-04 02:00:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce31l3517eqo) · `si`
-
-Here's a 200-character summary:
-
-
-
-Forgetting small details may signal onset of Alzheimer's disease. Early detection crucial. Symptoms include memory loss, confusion, difficulty with speech and problem-solving. Lifestyle changes like exercise, social engagement, and stress reduction can help manage symptoms. Consult healthcare professional promptly if concerns arise.
-
-🟩
-
-Do you know that your little forgetfulness can be the beginning of a disease that you love all?
-
-Autumn (not real name) is a close relative of my family. He was a talented teacher in the A / L maths, a popularity in the area.
-
-He taught the composite mathematics with both English and Sinhala.
-
-He won a name as a teacher with a sharp memory and had tuition until the year 2018.
-
-In 2018, I left the country for work, and he spoke from time to time.
-
-When his daughter had stopped, she said, "When I asked his daughter," she said, "Dad is a little weird. Don't remember certain things. "
-
-Later, when I came back on vacation and visited Sri Lanka and visited him, "What is your name?"When asked me, I thought he would be forgotten.
-
-His memory was slow while returning to Sri Lanka in 2020, when I quit abroad.
-
-Later, he had not even showed that he did not even, as he did not, he did not even he would not.
-
-A specialist said that he was suffering from a disease of Alzheimeria.
-
-...
-
-[Data](articles/4f9caee2.json)
-
-[Extended Data](ext_articles/4f9caee2.ext.json)
-
----
-
-### Fisheries business in Trincomalee provides livelihood for tens of thousands of families
-
-*2024-11-04 01:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197825) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Trincomalee's fisheries industry supports thousands of families. India supplies fishing gear to improve livelihoods and safety. India allocates funds for multi-faceted subsidies in Eastern Province, including fishing projects. The partnership aims to strengthen the fishing community and promote sustainable development.
-
-🟩
-
-Historically, fishing in Trincomalee, which historically excels as the homeland of Sri Lanka's fisheries community, is not just a profession, but also a lifestyle, which provides the livelihood of tens of thousands of families through this ancient tradition.
-
-The Indian Embassy in Trincomalee was supplying fishing equipment to 21 deep sea fishing fishermen associations in Trincomalee to improve the friendship of Sri Lanka and the Fishermen's Trade Association of Trincomalee Fishermen (03).
-
-He said this while addressing the fishermen's equipment for the event, the Chief Guest of the event.
-
-The sea has given the people the confidence of food, income and needs of the area.
-
-...
-
-[Data](articles/edda51f2.json)
-
-[Extended Data](ext_articles/edda51f2.ext.json)
-
----
-
-### SampathCards and Visa partner to elevate Hilton Colombo Oktoberfest experience
-
-*2024-11-04 01:51:00* · [`islandlk`](http://island.lk/sampathcards-and-visa-partner-to-elevate-hilton-colombo-oktoberfest-experience/) · `en`
-
-SampathCards, in collaboration with Visa, further enhanced the experience of visitors at the 31st edition of Hilton Colombo’s iconic Oktoberfest by bringing exclusive value additions for all its Visa cardholders. This partnership underscores SampathCards’ continued commitment to providing unparalleled benefits to its customers, elevating the experience of Sri Lanka’s Original Oktoberfest celebration.
-
-As the sponsor of this grand event, SampathCards, together with Visa, made this year’s Hilton Colombo’s Oktoberfest more memorable than ever. The partnership with Visa provided an elevated experience for cardholders, who not only enjoyed benefits but also partook in the vibrant festivities that captured the essence of German culture through traditional cuisine, music, and festivities.
-
-...
-
-[Data](articles/97e93f2f.json)
-
-[Extended Data](ext_articles/97e93f2f.ext.json)
-
----
-
-### David Pieris Group reaffirms commitment to environmental conservation
-
-*2024-11-04 01:50:00* · [`islandlk`](http://island.lk/david-pieris-group-reaffirms-commitment-to-environmental-conservation/) · `en`
-
-David Pieris Group renewed its sponsorship of the hoardings displayed around Minneriya National Park for the 22nd consecutive year. In addition, the Group also announced its continued funding of the regular cleaning of the stretch of the park bordering the road from Minneriya to Habarana. This marks the 7th consecutive year of this initiative.
-
-In a simple ceremony held at the park entrance recently, Samantha Silva, Director, David Pieris Motor Company (Private) Limited, officially handed over 68 hoardings and boards that feature conservation messages to the park administration.
-
-Celebrated by Lonely Planet, BBC, and CNN, the Great Elephant Gathering brings together hundreds of Asian elephants at Minneriya National Park. It is also known as the 6th largest animal congregation in the world, and the largest gathering of Asian Elephants in the world, making it something all Sri Lankans’ should take pride in.
-
-...
-
-[Data](articles/3f24d457.json)
-
-[Extended Data](ext_articles/3f24d457.ext.json)
-
----
-
-### HNB Assurance celebrates Customer Service Week with reinforced commitment
-
-*2024-11-04 01:48:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-customer-service-week-with-reinforced-commitment/) · `en`
-
-HNB Assurance celebrated Customer Service Week 2024 with a series of events that spanned from October 7th to 11th, celebrating the dedication and service of its customer-facing teams. This year’s theme, Above and Beyond, perfectly captured the essence of HNB Assurance’s commitment to exceeding customer expectations and reinforcing its customer-centric approach.
-
-Throughout the week, the company organized interactive activities, workshops and appreciation events, all aimed at recognizing and empowering those who are at the frontlines of servicing policyholders. The celebrations highlighted the pivotal role that the customer experience plays in delivering on HNB Assurance’s promise of protection and care to its valued customers.
-
-...
-
-[Data](articles/9a5e83e8.json)
-
-[Extended Data](ext_articles/9a5e83e8.ext.json)
-
----
-
-### People’s Bank recognized at LMD Awards Night 2024
-
-*2024-11-04 01:47:00* · [`islandlk`](http://island.lk/peoples-bank-recognized-at-lmd-awards-night-2024/) · `en`
-
-The LMD Awards Night recently honored 25 outstanding corporates in Sri Lanka, celebrating LMD’s 30th anniversary at the Lumina Ballroom, Cinnamon Life. Among the distinguished honorees was People’s Bank, recognized for its significant contributions to the banking sector and the country’s economic landscape.
-
-The LMD Awards Night is an event that honors the leading corporates featured in LMD’s special publications over the past three decades, including the Brands Annual, LMD 100, Most Respected, and Most Awarded rankings. This year’s ceremony highlighted the excellence and impact of organizations that have set the standard in their respective fields.
-
-...
-
-[Data](articles/c9c2efcd.json)
-
-[Extended Data](ext_articles/c9c2efcd.ext.json)
-
----
-
-### Model system does not change
-
-*2024-11-04 01:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முறைமை-மாற்றம்-நிகழவில்லை/175-346514) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Current president promises changes but maintains status quo. Party branding altered, but policies unchanged. Fuel prices remain high despite vows to lower costs. Criticized for benefiting elites over commoners. IMF negotiations yield no benefits for workers. Media pressured to conform.
-
-🟩
-
-The current president gave great confidence and expectation to the stage for the stage as the candidate for the presidential election. Although they say we will change the system, the system has not changed yet. His party, logo, team and their social networking groups have changed. Sajith Premadasa said that the old system that has been so far is still being carried out.
-
-A meeting with the people of Mattakkuli was held on Saturday (02) at the People's Meeting organized by the United People's Power Candidate CVP Ram.. He said this while addressing it.
-
-When they come to power, we will reduce the cost of fuel, reduce the prices of essential food items, eliminate the passport line and reduce the line, none of this happened.. He said that even the rows of coconuts are now being developed, unable to reduce the prices of commodities, rice and coconut.
-
-...
-
-[Data](articles/249a03ff.json)
-
-[Extended Data](ext_articles/249a03ff.ext.json)
-
----
-
-### Atlas extends SipSavi scholarship programme to support deserving children in Sri Lanka
-
-*2024-11-04 01:46:00* · [`islandlk`](http://island.lk/atlas-extends-sipsavi-scholarship-programme-to-support-deserving-children-in-sri-lanka/) · `en`
-
-Atlas has signed a Memorandum of Understanding (MoU) with the Department of Probation and Child Care Services under the Ministry of Women and Child Affairs recently, to extend the company’s commitment to the Atlas SipSavi Scholarship Program for the next five years, reinforcing its dedication to supporting underprivileged children in Sri Lanka.
-
-During the signing ceremony Asitha Samaraweera, Managing Director, Atlas Axillia Co., and Gayani Kaushalya Wijesinghe, Commissioner, Department of Probation and Child Care Services, formalized the partnership. The event was also graced by the presence of K. Mahesan, Secretary, Ministry of Women, Child, Youth Affairs and Sports.
-
-The SipSavi Scholarship Program addresses a critical need in Sri Lanka, where more than 20,000 children have discontinued their education due to financial difficulties. Atlas has committed to providing educational materials and a monthly allowance to selected children throughout the five-year period.
-
-...
-
-[Data](articles/bfc4af7b.json)
-
-[Extended Data](ext_articles/bfc4af7b.ext.json)
-
----
-
-### Send us
-
-*2024-11-04 01:41:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்மை-அனுப்புங்கள்/175-346513) · `ta`
-
-Here's a 200-character summary:
-
-
-
-People's Struggle party opposes Sinhala Buddhist chauvinism, advocates for Tamil rights. Criticizes exploitation of natural resources. Addresses issues like Indian fishing boat violations affecting local fisheries. Promises to protect Tamil interests and livelihoods.
-
-🟩
-
-We have been continuously in the people's struggles against Sinhala and Buddhist chauvinism.
-
-A press conference of the People's Struggle was held on Sunday (03) at the office located at the Vavuniya Poonthottam.
-
-We stand in this election as a solution to the sovereignty and national ethnic problem of the country, the secular country and the national production.
-
-We are the voice of the oppressed Tamil ethnicity. Those in Tamil national politics are only coming to the people during the election. But we would like to say here that the people's pro -people problem is not the opposition.
-
-There are a number of crises faced today. The violation of Indian Roller boats is a huge problem.We have no problem with both fishermen.
-
-But the violation of the Roller Boats will be the destruction of the fish resources in the North in the future.. The government and the Indian regions are holding a negotiation on this issue. If the deal is implemented, our 2 lakh fishermen will come to the streets.. .
-
-...
-
-[Data](articles/c80ab168.json)
-
-[Extended Data](ext_articles/c80ab168.ext.json)
-
----
-
-### JICA initiates new technical cooperation project in Sri Lanka
-
-*2024-11-04 01:35:00* · [`islandlk`](http://island.lk/jica-initiates-new-technical-cooperation-project-in-sri-lanka/) · `en`
-
-JICA is set to initiate a new technical cooperation project early next year to support Sri Lanka to improve fecal sludge management.
-
-Record of Discussion of this project was concluded between S. Alokabandara, Secretary to the Ministry of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour and YAMADA Tetsuya, Chief Representative of JICA Sri Lanka Office on 15th October 2024.
-
-Currently, Sri Lanka faces various challenges related to fecal sludge management. Due to limited fecal sludge treatment plants, gully bowser disposes sludge to open environment, which leads to environment degradation and threaten public health. Fecal sludge collected is not treated as a reusable resource on most occasions, although mixing this waste can be effective to facilitate beneficial use of biosolids for sustainable agriculture due to the lack of standards and technical capacities.
-
-...
-
-[Data](articles/047c84b7.json)
-
-[Extended Data](ext_articles/047c84b7.ext.json)
-
----
-
-### US tech company ‘SHIELD’ shifts from China to Sri Lanka
-
-*2024-11-04 01:35:00* · [`islandlk`](http://island.lk/us-tech-company-shield-shifts-from-china-to-sri-lanka/) · `en`
-
-Invests $8.5 million in Sri Lanka in a joint venture with AmSafe BridPort
-
-Says their income statement will be more profitable in Sri Lanka
-
-American engineering technology group Transdigm Group has invested $8.5 million in Sri Lanka in a joint venture with locally operating AmSafe BridPort to provideengineering solutions for global aviation services, the Board of Investment (BOI) said last week.
-
-The new investment saw the launch of new factory SHIELD in the western investment zone of Wathupitiwala. With the new investment SHIELD has shifted to Sri Lanka from China, BOI officials said.
-
-The foundation stone for the factory was laid on Thursday (31) in the investment zone.
-
-“SHIELD’s decision to shift its facility in China to establish a manufacturing facility in Sri Lanka is a testament to the growing interest of U.S. investment in Sri Lanka,” U.S. Ambassador Julie Chung said in her remarks before laying the foundation stone to the factory.
-
-...
-
-[Data](articles/c7b25340.json)
-
-[Extended Data](ext_articles/c7b25340.ext.json)
-
----
-
-### Scenting  the Sweet Smell of Success! How and Why Anura Kumara Dissanayake Anticipated Victory  in  the 2024 Presidential Race.
-
-*2024-11-04 01:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84997) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART FIVE
-
-The  Presidential election of November 2019 and the Parliamentary elections of August 2020 proved to be  huge disappointments to the Janatha Vimukthi Peramuna(JVP) and its leader Anura Kumara  Dissanauyake(AKD). As is well known, the JVP had in a strategic move,  contested both polls  as part of a new political front under a fresh symbol ,the compass (Malimawa/Thisaikaatti). The JVP formed a broad  political front named  National People’s Front(NPP) called Jathika Jana Balawegaya in Sinhala and Theseeya Makkal Sakthi in Tamil. Nominally the JVP was a first among equals in the NPP but in practice , the JVP was the dominant entity in the NPP and was in control.
-
-...
-
-[Data](articles/b4bfc6af.json)
-
-[Extended Data](ext_articles/b4bfc6af.ext.json)
-
----
-
-### Exchange betrayal
-
-*2024-11-04 01:20:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்முனைக்கு-துரோகம்/175-346511) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former MP Harish accuses rival of conspiracy to deny him election. Candidate promises development projects and university creation if elected.
-
-🟩
-
-Kalmunai, who had been holding a Member of Parliament for a long time, and former parliamentarian HMM. Dr. AM, who is contesting in the New Democratic Front, said that the Haris has launched a massive conspiracy to eliminate his representation by being denied permission to contest the election.. Said Jemil.
-
-He was speaking at the election campaign meeting held in the village of Sainthamaruthu.
-
-Realizing the need for representation of the Kalmunai, I wanted to look at the beauty of the Kalmunai by giving me the opportunity to give me the opportunity through the New Democratic Front, knowing that former MP Harish was betrayed.. However, he said that he was mentally broken and helped me to get on the field. He said that he had signed the election and jumped in the election.
-
-...
-
-[Data](articles/9e9b2078.json)
-
-[Extended Data](ext_articles/9e9b2078.ext.json)
-
----
-
-### Reject those who come in new symbols
-
-*2024-11-04 01:11:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுபுது-சின்னங்களில்-வருவோரை-நிராகரிக்கவும்/175-346510) · `ta`
-
-Summarize text into 200 characters: Reject newcomers, support TNA, unite Tamil voters against national parties and split votes.
-
-🟩
-
-Those who came to the Eastern Recovery, when the assets and resources of the Tamils ​​are lost, are the silent silents of the rhetoric. Thyagarasa Saravanapavan, a former Major and candidate of the Batticaloa Municipal Council, said that the Tamil people should reject the newcomers.
-
-He said this at a media briefing held at the office in Kalladi on Saturday night (02).
-
-“This time it is possible to observe a rise in the public. It is a pleasure to vote for the TNA and choose the best candidates. ”
-
-The North East has been planned to reduce the national parties and the Tamil parliamentary representatives. Therefore, the Tamil people should gather together to break the scheme and do not split the votes in the election and give them a strong support for the TNA and teach them a lesson.
-
-Similarly, you must completely reject those who have come up with different symbols and rescue the East for a period of time and rescue the East.
-
-...
-
-[Data](articles/bb6186a2.json)
-
-[Extended Data](ext_articles/bb6186a2.ext.json)
-
----
-
-### Why Sri Lanka needs stability, not diplomatic disruption, in London
-
-*2024-11-04 01:04:43* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-stability-not-diplomatic-disruption-in-London/4-768764) · `en`
-
-London remains a critical hub for the financial and political community, and our High Commissioner—whose qualifications and experience are well suited to such a complex diplomatic post—has already been instrumental in strengthening Sri Lanka’s connections in this influential market. Removing him now would be short-sighted, not only disrupting essential progress but signalling uncertainty and inconsistency in our diplomatic priorities
-
-As a Sri Lankan business leader with years invested in establishing our company’s presence in the UK, I’ve witnessed firsthand the critical role a steady diplomatic presence plays in navigating Sri Lanka’s international standing—especially in a place as significant as London. Recent news of the potential removal of the Sri Lankan High Commissioner to the UK after only one year is deeply concerning. This move risks undermining the very stability and reputation our country has struggled to regain following years of economic and political upheaval.
-
-...
-
-[Data](articles/f89a9148.json)
-
-[Extended Data](ext_articles/f89a9148.ext.json)
-
----
-
-### We will win by reading the books
-
-*2024-11-04 01:02:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழி-காட்டும்-தாரகைகளாம்-நூல்கள்-வாசிப்பால்-வென்றிடுவோம்-நாங்கள்/175-346509) · `ta`
-
-Here's a 200-character summary:
-
-
-
-National Reading Month event at Kalmunai Mahmood Women's College. Mobile library launched with various books, dictionaries, novels, educational materials. College principal, deputy principals, teachers, and students attended. Event aimed to promote reading and literacy.
-
-🟩
-
-The National Reading Month October 2024 on the eve of the State Roundtable Library, the Library of the Library of Kalmunai Mahmood Women's College (National School). Naleem led the green house.
-
-The Principal of the College, AP at the opening of a mobile library. Nasmia Sanus was the chief guest. It is noteworthy that the Mobile Library included a variety of books, dictionaries, novel, education, scholars, textbooks, news magazines, poems, magazines.
-
-The college's library in charge of the college's Library, A.L.. Naleem was provided by them. Deputy Principals Hajiani SSM. Samata Masood Levai, AH Nathira, Assistant Chancellor MS Manuna, Teachers, Library Officers and Students of the Library Association were also present.
-
-◼️
-
-[Data](articles/bd028a74.json)
-
-[Extended Data](ext_articles/bd028a74.ext.json)
-
----
-
-### Addressing the silent crisis: Suicide prevention among students in Sri Lanka
-
-*2024-11-04 00:57:01* · [`dailyftlk`](https://www.ft.lk/columns/Addressing-the-silent-crisis-Suicide-prevention-among-students-in-Sri-Lanka/4-768763) · `en`
-
-To curb the rise in student suicides, psychological support in schools must be prioritised
-
-In Sri Lanka, mental health continues to be stigmatised, especially in educational settings. Schools are often ill-equipped to address mental health concerns, and the discussion around these issues is minimal or non-existent. Many students are reluctant to express their struggles due to fear of being labelled as weak or problematic. In turn, their distress often remains hidden until it escalates to dangerous levels
-
-...
-
-[Data](articles/3bd7c9a1.json)
-
-[Extended Data](ext_articles/3bd7c9a1.ext.json)
 
 ---

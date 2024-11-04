@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 18:21:16**
+As of **2024-11-04 18:36:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,997 (100.0%) of 52,998 articles have been extended.
+52,998 (100.0%) of 52,998 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -598,6 +598,20 @@ Accordingly, the government has decided to increase the import duty on the big o
 
 ---
 
+### The NPP: A Month in Power
+
+*2024-11-04 15:41:00* · [`islandlk`](http://island.lk/the-npp-a-month-in-power/) · `en`
+
+It has been a month since Anura Kumara Dissanayake assumed the presidency, a month since the NPP claimed its place in history as the first party from outside of the political establishment to win a presidential election in Sri Lanka. Two weeks from now, the NPP will face another election, this time parliamentary. Depending on the results it gets, we will know whether the people approve of the NPP’s actions over the last four weeks and if they want it to continue. The NPP’s call for a powerful government is, in itself, not alarming: no government can survive without a majority in parliament. Yet it will need to convince Sri Lankans that it is the party they need – the party not of power, but of change.
+
+...
+
+[Data](articles/13add880.json)
+
+[Extended Data](ext_articles/13add880.ext.json)
+
+---
+
 ### Take the passport New online way
 
 *2024-11-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202895) · `si`
@@ -746,20 +760,6 @@ Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shi
 
 ---
 
-### The NPP: A Month in Power
-
-*2024-11-04 15:03:00* · [`islandlk`](http://island.lk/the-npp-a-month-in-power/) · `en`
-
-It has been a month since Anura Kumara Dissanayake assumed the presidency, a month since the NPP claimed its place in history as the first party from outside of the political establishment to win a presidential election in Sri Lanka. Two weeks from now, the NPP will face another election, this time parliamentary. Depending on the results it gets, we will know whether the people approve of the NPP’s actions over the last four weeks and if they want it to continue. The NPP’s call for a powerful government is, in itself, not alarming: no government can survive without a majority in parliament. Yet it will need to convince Sri Lankans that it is the party they need – the party not of power, but of change.
-
-...
-
-[Data](articles/13add880.json)
-
-[Extended Data](ext_articles/13add880.ext.json)
-
----
-
 ### A group of accused associated with the clash at Magazine Prison
 
 *2024-11-04 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202894) · `si`
@@ -813,6 +813,8 @@ It is with great honor and profound admiration that I write this foreword for In
 ...
 
 [Data](articles/e56c3100.json)
+
+[Extended Data](ext_articles/e56c3100.ext.json)
 
 ---
 

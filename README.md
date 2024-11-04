@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 02:58:24**
+As of **2024-11-05 03:09:47**
 
 ## Newspaper Stats
 
-*Scraped **53,056** Articles*
+*Scraped **53,058** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,376
-virakesarilk | 8,567
+tamilmirrorlk | 7,377
+virakesarilk | 8,568
 adaderanasinhalalk | 9,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,056 (100.0%) of 53,056 articles have been extended.
+53,058 (100.0%) of 53,058 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Guns have been found in Embilipitiya
+
+*2024-11-05 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197906) · `ta`
+
+Arrest made in Embilipitiya: STF finds AK 47, pistols, bullets, sword, knife. Suspect detained for weapon possession.
+
+🟩
+
+A suspect has been arrested for possessing some weapons in a roundup of police Special Task Force (STF) in Embilipitiya on Monday (04).
+
+During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm handgun and two swords, knife were found.
+
+◼️
+
+[Data](articles/06fd22d9.json)
+
+[Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### We also support for Rs 2,000
+
+*2024-11-05 01:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-000-க்கு-நாமும்-ஆதரவு/175-346570) · `ta`
+
+Ceylon Workers Congress supports 2,000 daily wage for plantation workers. President promises fair salary increase. Union members conditionally back proposal.
+
+🟩
+
+The President has said that steps will be taken to provide a fair salary increase for upcountry plantation workers.. This is a good thing. As they said earlier, if they took steps to get 2 thousand rupees a day's salary, we would fully support it, "said Marudhabandi Rameswaran, the leader of the Ceylon Workers Congress and the Nuwara Eliya district candidate.
+
+He was speaking at the election campaign meeting held on Monday (04) in Kandapalai, Nuwara Eliya.. In this regard, he said,
+
+'We have paid our plantation workers a salary increase. 1,350 rupees as a base day salary. Conditions were presented on the company for the remaining 350 rupees. Men have to work for 8 hours, and many conditions are presented as an additional fatigue. We do not accept them.
+
+...
+
+[Data](articles/7b452163.json)
+
+[Extended Data](ext_articles/7b452163.ext.json)
+
+---
 
 ### Sumanthiran is addicted to politics
 
@@ -746,7 +788,7 @@ Any inquiries regarding the submission of applications can be made through conta
 
 ### Suresh Premachandran should send a strong alliance to Parliament - Suresh Premachandran
 
-*2024-11-04 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197896) · `ta`
+*2024-11-04 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197896) · `ta`
 
 Suresh Premachandran calls for strong Tamil alliance in parliament. He warns of declining trust in president and potential seat loss. Urges opposition to prevent current government majority.
 
@@ -2231,47 +2273,5 @@ Another 10,295 persons have been affected by the explosion of volcanoes.
 [Data](articles/eba456a2.json)
 
 [Extended Data](ext_articles/eba456a2.ext.json)
-
----
-
-### Visit the Prime Minister Mannar
-
-*2024-11-04 14:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மன்னாருக்கு-விஜயம்/175-346538) · `ta`
-
-Prime Minister visits Mannar City Hall meeting National People's Power candidates Jaffna District Organizer Ramalingam Chandrasekaran strong security presence
-
-🟩
-
-At the meeting, he attended a meeting held at the Mannar City Hall in support of the candidates of the National People's Power in the Vanni district.
-
-Jaffna District Organizer of the National People's Power (JVP) party Ramalingam Chandrasekaran was present.
-
-Due to the arrival of the Prime Minister, strong security has been strengthened in the Mannar city area and the people who attended the event were produced for heavy raids.
-
-◼️
-
-[Data](articles/dfaa426c.json)
-
-[Extended Data](ext_articles/dfaa426c.ext.json)
-
----
-
-### Lohan's wife too remanded
-
-*2024-11-04 14:03:07* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්ගේ-බිරිඳත්-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-412842) · `si`
-
-Lohan's wife Rush Prabhtha Ratwatte remanded Gangodawila court order until July 7th
-
-🟩
-
-Rush Prabhtha Ratwatte has also been remanded for the vehicle of the vehicle.
-
-The Gangodawila court ordered her to be remanded until the 7th of this month.
-
-◼️
-
-[Data](articles/27b64b77.json)
-
-[Extended Data](ext_articles/27b64b77.ext.json)
 
 ---

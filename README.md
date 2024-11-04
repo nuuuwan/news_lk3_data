@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 11:24:09**
+As of **2024-11-04 11:40:53**
 
 ## Newspaper Stats
 
-*Scraped **52,921** Articles*
+*Scraped **52,923** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 415
+dbsjeyarajcom | 416
 colombotelegraphcom | 540
 bbccomsinhala | 542
 islandlk | 3,166
@@ -17,7 +17,7 @@ economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,931
-adaderanalk | 6,292
+adaderanalk | 6,293
 tamilmirrorlk | 7,355
 virakesarilk | 8,548
 adaderanasinhalalk | 9,220
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,921 (100.0%) of 52,921 articles have been extended.
+52,923 (100.0%) of 52,923 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Dr. Mothilal de Silva appointed new chairman of SLT
+
+*2024-11-04 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103141/dr-mothilal-de-silva-appointed-new-chairman-of-slt) · `en`
+
+The Board of Directors of Sri Lanka Telecom PLC has resolved to appoint Dr. Mothilal de Silva, as an Independent, non-Executive Director and Chairman of the Board of Sri Lanka Telecom PLC with effect from 04 November 2024.
+
+With a career spanning over many decades, Dr Mothilal de Silva is a result oriented multidisciplinary C-level executive in the telecommunication industry having experience in Sri Lanka and multiple countries in Asia and Pacific regions. He is a turnaround specialist and a strategist.
+
+...
+
+[Data](articles/3a91d9d8.json)
+
+[Extended Data](ext_articles/3a91d9d8.ext.json)
+
+---
 
 ### SLT's new Chairman Dr. Mothilal
 
@@ -1141,6 +1157,22 @@ The foundation stone for the factory was laid on Thursday (31) in the investment
 [Data](articles/c7b25340.json)
 
 [Extended Data](ext_articles/c7b25340.ext.json)
+
+---
+
+### Scenting  the Sweet Smell of Success! How and Why Anura Kumara Dissanayake Anticipated Victory  in  the 2024 Presidential Race.
+
+*2024-11-04 01:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84997) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART FIVE
+
+The  Presidential election of November 2019 and the Parliamentary elections of August 2020 proved to be  huge disappointments to the Janatha Vimukthi Peramuna(JVP) and its leader Anura Kumara  Dissanauyake(AKD). As is well known, the JVP had in a strategic move,  contested both polls  as part of a new political front under a fresh symbol ,the compass (Malimawa/Thisaikaatti). The JVP formed a broad  political front named  National People’s Front(NPP) called Jathika Jana Balawegaya in Sinhala and Theseeya Makkal Sakthi in Tamil. Nominally the JVP was a first among equals in the NPP but in practice , the JVP was the dominant entity in the NPP and was in control.
+
+...
+
+[Data](articles/b4bfc6af.json)
+
+[Extended Data](ext_articles/b4bfc6af.ext.json)
 
 ---
 
@@ -2255,45 +2287,5 @@ For decades, the migration of Tamils ​​continues. It greatly affects the par
 [Data](articles/1b07a091.json)
 
 [Extended Data](ext_articles/1b07a091.ext.json)
-
----
-
-### Refused accountability!
-
-*2024-11-03 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197792) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-JVP refuses accountability after 34 years of commemorating the Family Union at Ratholuwa Memorial, choosing not to participate.
-
-🟩
-
-Although the Family Union of the missing for 34 years, the JVP has been commemorated in front of the Ratholuwa Memorial. Not participating.
-
-◼️
-
-[Data](articles/c0b777ae.json)
-
-[Extended Data](ext_articles/c0b777ae.ext.json)
-
----
-
-### Colombo talk
-
-*2024-11-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197789) · `ta`
-
-Northern coastal communities rely heavily on seafood. Fishermen work limited hours due to economic conditions, leading to increased food costs and scarcity. This affects local residents' access to affordable nutrition.
-
-🟩
-
-The northern people are the main foods of the seas in the main dishes. Fishermen are unable to get out of sea for three days a week, and the resources of the sea are reduced and their prices are high. In the current economic situation, this is a great burden for the people.
-
-◼️
-
-[Data](articles/ea5e8573.json)
-
-[Extended Data](ext_articles/ea5e8573.ext.json)
 
 ---

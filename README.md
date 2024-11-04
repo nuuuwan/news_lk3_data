@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 01:09:41**
+As of **2024-11-05 01:24:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,041 (100.0%) of 53,044 articles have been extended.
+53,042 (100.0%) of 53,044 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -169,6 +169,8 @@ The “cocoon” around heads of state refers to the insulating layer of advisor
 ...
 
 [Data](articles/26ad6a46.json)
+
+[Extended Data](ext_articles/26ad6a46.ext.json)
 
 ---
 

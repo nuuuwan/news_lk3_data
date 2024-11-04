@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 06:12:29**
+As of **2024-11-04 06:45:34**
 
 ## Newspaper Stats
 
-*Scraped **52,884** Articles*
+*Scraped **52,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 4,927
 adaderanalk | 6,283
 tamilmirrorlk | 7,344
 virakesarilk | 8,546
-adaderanasinhalalk | 9,210
+adaderanasinhalalk | 9,211
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,882 (100.0%) of 52,884 articles have been extended.
+52,883 (100.0%) of 52,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### පළාත් කිහිපයකට මි.මී 100 ඉක්මවු තද වැසි
+
+*2024-11-04 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202872) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+ඌව, නැගෙනහිර, මධ්‍යම, සබරගමුව සහ උතුරු-මැද පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැක.
+
+උතුරු,  නැගෙනහිර සහ වයඹ පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/a5ee44a6.json)
+
+---
 
 ### SJB will form strong Opposition if not elected to power: Hirunika
 
@@ -2253,33 +2273,5 @@ The last parliamentary election did not give me space. Instead they brought a ne
 [Data](articles/2ab0dae2.json)
 
 [Extended Data](ext_articles/2ab0dae2.ext.json)
-
----
-
-### Sri Lanka to contest Hong Kong Sixers
-
-*2024-11-03 12:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202858) · `si`
-
-Sri Lanka qualifies for Hong Kong Sixers cricket tournament final after defeating Bangladesh in semi-finals. Sandal Weerakkody scores unbeaten 50.
-
-🟩
-
-හොංකොං සික්සර්ස් ක්‍රිකට් තරගාවලියේ අවසන් තරගයට සුදුසුකම් ලබා ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත් විය.
-
-Bangladesh defeated Bangladesh by 3 wickets in the second semi-final.
-
-Bangladesh scored 103 runs for the loss of 5 wickets at the end of their six overs.
-
-Chasing a 104-run target, Sri Lanka won the target for their target of 5 overs and 3 wickets in 5 overs.
-
-Sandal Weerakkody, who played a supern innish, was unbeaten on 50.
-
-Accordingly, the Sri Lankan team is the opponent of the Sri Lankan team in the final of the Hong Kong Sixers Cricket Tournament.
-
-◼️
-
-[Data](articles/df164386.json)
-
-[Extended Data](ext_articles/df164386.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 15:11:40**
+As of **2024-11-04 15:24:08**
 
 ## Newspaper Stats
 
-*Scraped **52,958** Articles*
+*Scraped **52,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,937
+adalk | 4,938
 adaderanalk | 6,302
 tamilmirrorlk | 7,363
 virakesarilk | 8,548
-adaderanasinhalalk | 9,229
+adaderanasinhalalk | 9,230
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,958 (100.0%) of 52,958 articles have been extended.
+52,960 (100.0%) of 52,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### A group of accused associated with the clash at Magazine Prison
+
+*2024-11-04 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202894) · `si`
+
+Colombo High Court orders 67 defendants to pay daily fines after prison clash. Judge imposes Rs 7000 per defendant daily and additional Rs 122,000 each for injuries.
+
+🟩
+
+The Colombo High Court today (04) has ordered the allegation of 24 defendants who have been assaulted by a group of conflicts in the Magazine Prison.
+
+Thereafter the accused of 43 defendants had agreed to accept the charges and were seriously injured in the incident.
+
+Accordingly, the judge has ordered that each defendants should pay Rs 7,000 each day.
+
+In addition, the judge has ordered each accused to pay Rs. 122,000 each for over Rs.
+
+◼️
+
+[Data](articles/616ea032.json)
+
+[Extended Data](ext_articles/616ea032.ext.json)
+
+---
 
 ### Online token system for collecting passports amid ongoing queues
 
@@ -219,6 +243,30 @@ Tokon releases token to the issuance of tokens for the existing foreign passport
 [Data](articles/6ea051cc.json)
 
 [Extended Data](ext_articles/6ea051cc.ext.json)
+
+---
+
+### Litro and Laugfs Companies are the same decision on gas price
+
+*2024-11-04 13:52:12* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-සහ-ලාෆ්-සමාගම්-ගෑස්-මිල-ගැන-එකම-තීරණයක/11-412841) · `si`
+
+Litro and Laugfs maintain steady gas prices for November. Litro: 12.5kg cylinder priced at Rs. 3,690, selling at Rs. 1,482. Laugfs: 12.5kg cylinder priced at Rs. 3,690, selling at Rs. 1,477. Both companies keep prices unchanged.
+
+🟩
+
+The company pains no change in the Litro gas price for November.
+
+Accordingly, the price of a gas cylinder of 12.5 kg of gas cylinder of Rs. 3,690 kg. The price of a gas cylinder will be sold to Rs. 1,482.
+
+Meanwhile, the company states that the Laugfs Gas prices are also stable.
+
+Accordingly, the gas cylinder of 12.5kg of Kg. The gas cylinder of five is sold at Rs. 1,477.
+
+◼️
+
+[Data](articles/2bb3ea71.json)
+
+[Extended Data](ext_articles/2bb3ea71.ext.json)
 
 ---
 
@@ -2215,49 +2263,5 @@ It is noteworthy that the meeting was attended by more civilians and supporters 
 [Data](articles/6cae1c01.json)
 
 [Extended Data](ext_articles/6cae1c01.ext.json)
-
----
-
-### Allow The Number Of MPs To Be Elected Rationally & Transparently Based On Actual Election Results
-
-*2024-11-03 21:45:39* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/allow-the-number-of-mps-to-be-elected-rationally-transparently-based-on-actual-election-results/) · `en`
-
-The writer’s attention was drawn to the recent press release issued by the Elections Secretariat on the above matter, as it is one of the 3 main reasons distorting the country wide ‘equal value of vote’ envisaged, under a real Proportional Representation (PR) system. From time to time since 2015 Election, the writer as a sovereign voter has been updating his package of crucial Reforms /‘System changes’ to rationalise and simplify our existing political and electoral systems by highlighting an analysis of the results of 2015 and 2020 General Elections. They were published in the Sinhala and English National Press. The writer was also invited for a presentation to senior Election Dept. Officials at the Elections Secretariat by the former Chairman of National Election Commission (NEC) in 2017. The package was also submitted to all relevant Cabinet appointed and Presidential Commissions, a Parliamentary Select committee and voter dedicated civil organizations and activists.
-
-...
-
-[Data](articles/9bdfc8eb.json)
-
-[Extended Data](ext_articles/9bdfc8eb.ext.json)
-
----
-
-### We condemn Prime Minister Harini's action -Nimalka Fernando
-
-*2024-11-03 21:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197813) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Criticism of PM Harini's attack on Ranil Wickremesinghe. Nimalka Fernando accuses PM of lacking state admin experience. Wickremesinghe denies Cabinet-approved salary hike claims. PM criticized for political inexperience and arrogance.
-
-🟩
-
-Prime Minister Harini, who has no experience regarding the state administration, has strongly condemned the criticism of Senior Political Leader Ranil Wickremesinghe without understanding the issue.
-
-Nimalka Fernando, a National List member of the New Democratic Front, said that if Ranil Wickremesinghe could not learn about the state administration process, the President should learn and respond.
-
-He was speaking at a press conference held at the New Democratic Front Elections Office in Colombo.
-
-After winning the presidential election, the former president had taken steps to submit a budget for next year and thereby provide a salary increase for public servants.
-
-The Cabinet approval was obtained for that. It is the responsibility of the Secretary of the Ministry responsible for the implementation of the Cabinet allowed. That is the state administrative practice.
-
-...
-
-[Data](articles/33d36ce0.json)
-
-[Extended Data](ext_articles/33d36ce0.ext.json)
 
 ---

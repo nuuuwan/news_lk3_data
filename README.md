@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 07:28:32**
+As of **2024-11-04 08:04:24**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,212
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,885 (100.0%) of 52,886 articles have been extended.
+52,886 (100.0%) of 52,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
 
-### මිදිගම ඝාතනයට සැකකරුවන් 8ක් අල්ලයි
+### 8 suspects arrested for murder of Midamigama
 
 *2024-11-04 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202874) · `si`
 
-මිදිගම දී පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කර තවත් පුද්ගලයින් දෙදෙනෙකුට බරපතළ තුවාල සිදුකිරීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් 8 දෙනෙකු මාතර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Matara Criminal Investigation Bureau arrests 8 suspects for murder of Midamigama. The bureau took action against the accused individuals."
+
+🟩
+
+The Matara Criminal Investigation Bureau has been arrested by the Matara Criminal Investigation Bureau of the Matara.
 
 ◼️
 
 [Data](articles/e5dabbe5.json)
+
+[Extended Data](ext_articles/e5dabbe5.ext.json)
 
 ---
 

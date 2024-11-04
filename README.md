@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 10:40:07**
+As of **2024-11-04 10:58:53**
 
 ## Newspaper Stats
 
-*Scraped **52,912** Articles*
+*Scraped **52,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,930
 adaderanalk | 6,291
-tamilmirrorlk | 7,352
-virakesarilk | 8,546
-adaderanasinhalalk | 9,218
+tamilmirrorlk | 7,353
+virakesarilk | 8,548
+adaderanasinhalalk | 9,219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,912 (100.0%) of 52,912 articles have been extended.
+52,916 (100.0%) of 52,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Two foreign nationals trapped in Kandy
+
+*2024-11-04 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202882) · `si`
+
+Foreigners arrested in Kandy: Two individuals detained without visas during tourist police raid. Ages 22 and 32. Incident occurred in Boombikada area.
+
+🟩
+
+Two foreigners were arrested in the Boombikada area in Kandy where there were no visa.
+
+Two foreigners who were staying in the country have been arrested without violence in a raid on a raid on a raid by the tourist police unit of Kandy.
+
+The 22 suspects were 22 and the 32-year-old ages.
+
+◼️
+
+[Data](articles/e2f9bf86.json)
+
+[Extended Data](ext_articles/e2f9bf86.ext.json)
+
+---
+
+### University student who fought semi -naked
+
+*2024-11-04 10:22:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அரை-நிர்வாண-போராட்டம்-நடத்திய-பல்கலைக்கழக-மாணவி/50-346528) · `ta`
+
+Kurdish teen arrested for hijab violation in Iran. Died in custody. Nationwide protests erupted. Security forces regained control. Teenager stripped naked during university protest. Taken to police station. Reported mentally ill. Video shows public nudity. Amnesty International calls for immediate release due to harassment over dress code.
+
+🟩
+
+In September 2022 in Iran, a Kurdish teenager was arrested for violating the rules of hijab. He died when he was in police custody. There was a nationwide protest condemning this. Officials were struggling with various protests, including the throwing of the hijab and the hijab burning struggle.
+
+Subsequently, the security forces acted hard and brought them under control. At this juncture, a teenager took part in a protest at the University of Islam, Iran, protesting against the garment control issue.
+
+He suddenly stood underweight with clothes. Thus, the people around were shocked to see this. Subsequently, university guards caught the unidentified young girl. He was then taken to the police station.
+
+In a Social Media Registry published by University's spokesman Aamir Majab, at the police station.. The young woman has been reported to be in severe stress and mental illness. Some reports suggest that the young man may be taken to a mental hospital.
+
+...
+
+[Data](articles/21e50d24.json)
+
+[Extended Data](ext_articles/21e50d24.ext.json)
+
+---
 
 ### Emergency warning people
 
@@ -192,6 +238,24 @@ Yes given to them. 76 years have bankrupt and ruined the country and bankruptcy.
 
 ---
 
+### Ranil goes abroad after the election is over
+
+*2024-11-04 09:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197830) · `ta`
+
+Former President Ranil Wickremesinghe plans post-election foreign trip for vacation.
+
+🟩
+
+Former President Ranil Wickremesinghe has said that he will travel abroad for a holiday after the general election on the 14th of this month.
+
+◼️
+
+[Data](articles/149355f1.json)
+
+[Extended Data](ext_articles/149355f1.ext.json)
+
+---
+
 ### President has commenced the journey to bring the country to the Renaissance
 
 *2024-11-04 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202879) · `si`
@@ -235,6 +299,28 @@ The level of fine particulate matter in the air, the most damaging to health, al
 [Data](articles/4b2a9f68.json)
 
 [Extended Data](ext_articles/4b2a9f68.ext.json)
+
+---
+
+### Home at the Heroic House
+
+*2024-11-04 09:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197829) · `ta`
+
+Heroes of the Akkadiveli Knights begin work on Sunday to prepare for Heroes Day on the 27th. The Home Organization Committee is leading the effort to commemorate the occasion. Floral tributes were paid yesterday to honor the heroes.
+
+🟩
+
+Work on Sunday (3) at the Heroes of the Akkadiveli Knights in the Manthai West Divisional Secretariat Division began on Sunday (3).
+
+This difficult work is being carried out by the Home Organization Committee of the House of Commons, as Heroes Day is to be commemorated on the 27th of this month.
+
+Yesterday, the Heroes of the Heroes of the Heroes of the Heroes of the Heroes of the Heroes of the Heroes were paid floral tributes and afterwards.
+
+◼️
+
+[Data](articles/1cffd3bd.json)
+
+[Extended Data](ext_articles/1cffd3bd.ext.json)
 
 ---
 
@@ -2197,99 +2283,5 @@ The committee appointed by the Secretary of the Ministry of Buddhism, Religion a
 [Data](articles/a4b8c50c.json)
 
 [Extended Data](ext_articles/a4b8c50c.ext.json)
-
----
-
-### Special statement about the safety of religious places
-
-*2024-11-03 16:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202864) · `si`
-
-Defense Ministry removes Armed Forces, Civil Defense security from religious sites. False news spread in newspapers and social media. Director of Defense holds press conference today.
-
-🟩
-
-The Defense Ministry says that the security of the Armed Forces and the members of the Civil Defense Department have been removed.
-
-A special press conference will be held today (03), Director of Defense, Media and Media Spokesperson Colonel M. B. B. Nalin Herath said this.
-
-He added that this false news has been published in a leading newspaper and social media, he added.
-
-◼️
-
-[Data](articles/2f593061.json)
-
-[Extended Data](ext_articles/2f593061.ext.json)
-
----
-
-### Moldovans vote in presidential runoff amid fears of meddling
-
-*2024-11-03 16:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103123/moldovans-vote-in-presidential-runoff-amid-fears-of-meddling) · `en`
-
-Moldovans were voting on Sunday in a presidential election that has been overshadowed by meddling allegations and could see Moscow claw back influence in the country at a time when it is trying to draw closer to the European Union.
-
-Pro-Western incumbent Maia Sandu, who has accelerated the nation’s push to leave Moscow’s orbit and join the EU, faces Alexandr Stoianoglo, an ex-prosecutor general backed by the traditionally pro-Russian Socialist Party.
-
-The fortunes of Sandu, who set Moldova on the long path of EU accession talks in June, will be closely followed in Brussels a week after Georgia, another ex-Soviet state hoping to join, re-elected a ruling party seen as increasingly pro-Russian.
-
-Polling stations opened at 7 a.m. (0500 GMT) and close at 9 p.m. (1900 GMT).
-
-Moldova’s future has been thrown into the political and diplomatic spotlight as the war in neighbouring Ukraine rages to the east.
-
-...
-
-[Data](articles/898a8b56.json)
-
-[Extended Data](ext_articles/898a8b56.ext.json)
-
----
-
-### The removal of soldiers in the places of worship?
-
-*2024-11-03 16:26:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வழிபாட்டுத்-தலங்களில்-உள்ள-இராணுவ-வீரர்கள்-நீக்கம்/175-346499) · `ta`
-
-Ministry of Defense denies rumors about removing soldiers from religious sites. Clarifies no plans to withdraw security personnel from places of worship.
-
-🟩
-
-The Ministry of Defense has put an end to speculation on social media that the government is planning to withdraw the soldiers appointed to religious places.
-
-◼️
-
-[Data](articles/0e097c3b.json)
-
-[Extended Data](ext_articles/0e097c3b.ext.json)
-
----
-
-### Is the bus accident also a technician error, is the driver's source of a driver?
-
-*2024-11-03 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202863) · `si`
-
-Bus accident investigation ongoing. Driver suspected of negligence. 34 injured, 2 dead. Police analyzing footage. Accident occurred near Mahiyangana.
-
-🟩
-
-Police investigations have been carried out by the Badulla, Dununga bus accident, or was due to the unrespective of a driver.
-
-34 injured in the accident are still treated at the accident and the funeral of the deceased will be held today (03).
-
-The Colombo-Mahiyangana Defense University was killed and two students lost their lives in the Mahiyangana main road and was injured.
-
-A photographed camera was also found in a car how to run the bus a few minutes before the accident.
-
-Badulla Senior Superintendent of Police, Wasantha Kandadawatte said that the Analysting report is due to obtain the bus.
-
-Police suspect that the driver's bus was run on the third or fourth stake at the time of the accident.
-
-Investigations have suspended that the vehicle slips from the road to the path of the road, driving away from the road in the area about 4 kilometers.
-
-However, the accident had occurred, however, police investigations have been identified as a result of a problem.
-
-...
-
-[Data](articles/9ce8fee1.json)
-
-[Extended Data](ext_articles/9ce8fee1.ext.json)
 
 ---

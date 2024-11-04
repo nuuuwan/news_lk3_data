@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 04:10:09**
+As of **2024-11-05 04:24:26**
 
 ## Newspaper Stats
 
@@ -26,25 +26,31 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,060 (100.0%) of 53,061 articles have been extended.
+53,061 (100.0%) of 53,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### இராமநாதன் இந்து மகளிர் கல்லூரி பழைய மாணவியர் சங்க வருடாந்த பொதுக்கூட்டம் 2024
+### Ramanathan Hindu Women's College Alumni Association Annual General Meeting 2024
 
 *2024-11-05 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197907) · `ta`
 
-பம்பலப் பிட்டி இராமநாதன் இந்து மகளிர் கல்லூரியின் பழைய மாணவியர் சங்கத்தின் வருடாந்த பொதுக்கூட்டம் 2024 நவம்பர் மாதம் 24 ஆம் தேதி ஞாயிற்றுக்கிழமை  மாலை 4 மணிக்கு மருதானை டி.ஆர் விஜயவர்தன மாவத்தை (மெக்கல்லம் வீதி) இலக்கம் 335A இல் அமைந்துள்ள "நொம் நொம் தாய்" ரெஸ்டாரண்டில் நடைபெற உள்ளது.
+Annual General Meeting: Ramanathan Hindu Women's College Alumni Association 2024. Sunday, November 24th, 2024 at 4 pm at Noom Thai restaurant, Maradana. Public meeting followed by alumni feast. All alumni invited. Contact Secretary 0772920470 for details.
 
-வருடாந்த பொதுக்கூட்டத்தை தொடர்ந்து பழைய மாணவியரின் ஒன்று கூடல் விருந்து பசாரமும் ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
 
-அனைத்து பழைய மாணவியர்களும் தவறாது சமுகமளிக்குமாறு கேட்டுக் கொள்ளப்படுகிறார்கள். பொதுக்கூட்டம் மற்றும் விருந்துபசாரம் பற்றிய மேலதிக விபரங்களுக்கு செயலாளர் 0772920470 என்ற இலக்கத்திற்கு அழைப்பை ஏற்படுத்தவும்.
+The Annual General Meeting of the Alumni Association of the Bambala Pitti Ramanathan Hindu Ladies' Association will be held on Sunday, 24th November 2024 at 4 pm at the "Noom Thai" restaurant located in Maradana DR Vijayawardena Mawatha (McCullum Street) No. 335A.
+
+Following the annual public meeting, a gathering of an alumni feast is also organized.
+
+All alumni are asked to attend regularly. Please invite the Secretary 0772920470 for more details on the public meeting and party.
 
 ◼️
 
 [Data](articles/251f9ff9.json)
+
+[Extended Data](ext_articles/251f9ff9.ext.json)
 
 ---
 

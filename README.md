@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 20:24:34**
+As of **2024-11-04 20:40:13**
 
 ## Newspaper Stats
 
-*Scraped **53,021** Articles*
+*Scraped **53,023** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,947
-adaderanalk | 6,311
+adaderanalk | 6,312
 tamilmirrorlk | 7,371
 virakesarilk | 8,562
-adaderanasinhalalk | 9,244
+adaderanasinhalalk | 9,245
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,021 (100.0%) of 53,021 articles have been extended.
+53,023 (100.0%) of 53,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Petroleum Corporation reveals about fuel revision
+
+*2024-11-04 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202909) · `si`
+
+Ceylon Petroleum Corporation announces fuel price revision due to supplier agreements. Price changes based on political decisions rather than market conditions. Company reports 120 billion rupees profit last year but faces challenges in independent pricing due to industry constraints and government intervention.
+
+🟩
+
+The Ceylon Petroleum Corporation says that due to the fuel supplier agreements, the Ceylon Petroleum Corporation says.
+
+He was speaking at a press conference held at a media briefing held in a press conference held today.
+
+"When you run without a price formula, the price is determined on political needs. When there is a vote, the price will be reduced. Changes back. The Petroleum Corporation of Ceylon Petroleum Corporation loans for 3 billion results. Because the price is sold less than the price. "
+
+"After that, the price formula is right, I think last year 120 billion profits last year. 27 billion has a profit to the petroleum. "
+
+...
+
+[Data](articles/1616507f.json)
+
+[Extended Data](ext_articles/1616507f.ext.json)
+
+---
+
+### Suspect arrested with weapons including AK-47, pistol and swords
+
+*2024-11-04 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103161/suspect-arrested-with-weapons-including-ak-47-pistol-and-swords) · `en`
+
+A suspect arrested with a cache of weapons including an AK-47 type firearm, a pistol and ammunition during a special operation carried out by the Police Special Task Force (STF) in the Embilipitiya area today.
+
+The operation was caried out according to information received from the Police Special Bureau.
+
+Accordingly, a suspect was arrested with an AK-47 assault rifle with one magazine and bullets, a 9mm pistol with one magazine and bullets, two swords and a dagger during the special operation conducted in Embilipitiya today (4).
+
+◼️
+
+[Data](articles/981228b3.json)
+
+[Extended Data](ext_articles/981228b3.ext.json)
+
+---
 
 ### Firearms in Embilipitiya
 
@@ -2309,55 +2351,5 @@ The 22 -year -old Italian and the 32 -year -old British citizen were arrested in
 [Data](articles/139bbcb7.json)
 
 [Extended Data](ext_articles/139bbcb7.ext.json)
-
----
-
-### Gold
-
-*2024-11-04 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தங்கத்தை-மெருகூட்டும்-ரசாயனத்தை-குடித்த-குழந்-தை-பலி/76-346530) · `ta`
-
-Two-year-old boy dies after ingesting cubic acid meant for refining gold during Diwali celebration. Parents rushed him to hospital, where he succumbed to injuries. Autopsy performed, case under investigation by police.
-
-🟩
-
-A two -year -old boy who was about to go to a relative's home to celebrate Diwali, Gampalai police said that a chemical fluid used to refine his father -in -law gold. .
-
-Pradeepan Ratneis, a child from Kalaha Tellottai, died. The child's father Rajamani Pradeepan (age 38) is doing a golden business in Teltottai. His wife Allirani (age 30) came to the commercial premises at around 5 pm to go to a relative's house to celebrate Diwali with his three children.
-
-While they were talking, cubic acid used to clean the nearest golden stuff drank little baby. Immediately the child has fallen to the ground.  குழந்தையை தெல்தோட்டை மருத்துவமனைக்கு கொண்டு சென்றனர். The doctors of the Teldota Hospital have tried hard to save the baby, but the baby died shortly after.
-
-The body was taken to the Peradeniya Teaching Hospital for autopsy and a open verdict was issued by the expert legal officer RP Jayasuriya on November 2.. The body was then taken home in the evening and buried in the evening.
-
-...
-
-[Data](articles/81faf12f.json)
-
-[Extended Data](ext_articles/81faf12f.ext.json)
-
----
-
-### Gold
-
-*2024-11-04 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தங்கத்தை-மெருகூட்டும்-இரசாயனத்தை-குடித்த-குழந்-தை-பலி/76-346530) · `ta`
-
-Two-year-old boy dies after ingesting copper acid during Diwali celebration at gold refinery business. Police investigation ongoing.
-
-🟩
-
-A two -year -old boy who was about to go to a relative's home to celebrate Diwali, Gampala Kalaha police said that a man who drank a chemical fluid (copper acid) used to refine his father's own gold.. .
-
-The child's father Rajamani Pradeepan (age 38) is doing a golden business in Teltottai. His wife Allirani (age 30) came to the commercial premises at around 5 pm to go to a relative's house to celebrate Diwali with his three children.
-
-While they were talking, cubic acid used to clean the nearest golden stuff drank little baby. The child immediately fell to the ground.
-
-The baby was taken to the Teldota Hospital. The doctors of the Teldota Hospital have tried hard to save the baby, but the baby died shortly after.
-
-The body was taken to the Peradeniya Teaching Hospital for autopsy and the open verdict was issued on November 2 by the Expert Legal Officer RP Jayasuriya on November 2. The body was then taken home in the evening and buried in the evening.
-
-...
-
-[Data](articles/851d832b.json)
-
-[Extended Data](ext_articles/851d832b.ext.json)
 
 ---

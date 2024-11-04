@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 21:59:48**
+As of **2024-11-04 22:13:57**
 
 ## Newspaper Stats
 
-*Scraped **53,028** Articles*
+*Scraped **53,030** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 3,169
 economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,948
+adalk | 4,949
 adaderanalk | 6,312
 tamilmirrorlk | 7,372
 virakesarilk | 8,562
-adaderanasinhalalk | 9,246
+adaderanasinhalalk | 9,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,028 (100.0%) of 53,028 articles have been extended.
+53,030 (100.0%) of 53,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Sashenics for Janaka Ratnayake who did not pay off 3 crores
+
+*2024-11-04 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202911) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo Additional Magistrate orders Public Utilities Commission officials to appear in court on Dec 10 regarding unpaid 3 crore debt. Attorney Dinesh Perera represents the government in this matter.
+
+🟩
+
+Colombo Additional Magistrate Bandara Ilangasinghe today ordered the forum of the Public Utilities Commission of Sri Lanka and his wife to appear in court on December 10.
+
+It is in connection with a computer service provider in the Kirulapone.
+
+Janaka Ratnayake and his wife, Kumari Yzasoda and his wife had issued the respondents in court and to appear in court.
+
+However, the respondents have not appeared before the court, but replaced the company, instead of presented to the court.
+
+Attorney-at-Law Dinesh Perera appeared in the court to appear in court to appear before the court to appear before the court.
+
+The Colombo Additional Magistrate issued the order after considering the request.
+
+On behalf of the Institute, the government has informed the court that the government has to pay Rs.
+
+◼️
+
+[Data](articles/818c7a1d.json)
+
+[Extended Data](ext_articles/818c7a1d.ext.json)
+
+---
 
 ### O/L main notice for students
 
@@ -137,6 +171,28 @@ AK 47 firearm, magazine, magazine, and a kings and a kinis have been found.
 [Data](articles/fd3173fa.json)
 
 [Extended Data](ext_articles/fd3173fa.ext.json)
+
+---
+
+### The best modeling artist in Asia is Julia Sonali
+
+*2024-11-04 19:15:26* · [`adalk`](https://www.ada.lk/breaking_news/ආසියාවේ-හොදම-නිරූපන-ශිල්පිනිය-ලංකාවේ-ජූලියා-සොනාලි/11-412855) · `si`
+
+Julia Sonali Kaluarachchi, Sri Lankan model, wins Face of Asia award at Asian Model Festival in South Korea. Sponsored by Ministry of Culture, Sports and Tourism. Competed against 70 models. Trainers and advisors welcomed her at Katunayake airport after winning.
+
+🟩
+
+Sri Lankan modeling artist Julia Sonali Kaluarachchi won the Face of Asia (ASIAN MODEL FESTIVAL) in South Korea.
+
+Asian model tournament was sponsored by the Ministry of Culture, Sports and Tourism from the country with 70 modeling artists in South Korea to 11/02 to 11/02.
+
+Julia Sonali Kaluarachchi at 11.34 pm on Thailand from Bangkok from Bangkok from Bangkok, Thai Airport, was from the Katunayake airport on the plane of 307. Her trainers, advisors were present at the Katunayake airport to accept her.
+
+◼️
+
+[Data](articles/d9df08f5.json)
+
+[Extended Data](ext_articles/d9df08f5.ext.json)
 
 ---
 
@@ -2293,53 +2349,5 @@ The management of the hospital has been informed to the hospital police to sign 
 [Data](articles/15473d66.json)
 
 [Extended Data](ext_articles/15473d66.ext.json)
-
----
-
-### Sri Lanka Telecom gets new chairman, directors
-
-*2024-11-04 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-gets-new-chairman-directors-185990/) · `en`
-
-ECONOMYNEXT – Mothilal de Silva has been appointed as Chairman and independent non-executive director of Sri Lanka Telecom, the company said in a stock exchange filing.
-
-He was previously Group CEO of Telecom Fiji, before which he was Group Strategy Officer of Dialog Axiata, General Manager of MTN Networks Pvt Ltd and was on the board of directors of Lanka Communicationa Services Pvt Ltd.
-
-The following were appointed as directors to the Board of Sri Lanka Telecom PLC with effect from 04th November 2024.
-
-– Niel D B Unamboowe, President’s Counsel (Independent, Non-Executive Director)
-
-◼️
-
-[Data](articles/e75d79cb.json)
-
-[Extended Data](ext_articles/e75d79cb.ext.json)
-
----
-
-### Case against Diana gives the hearing
-
-*2024-11-04 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202884) · `si`
-
-Colombo High Court hears case against Mrs. Diyagamage for obtaining National Identity Card illegally. Judge Manjula Tilakaratne presides over proceedings. Case adjourned until January 9th.
-
-🟩
-
-The Colombo High Court was appointed to hear the case against Mrs. Diyagamage, who has filed a Sri Lankan citizen to obtain a National Identity Card in Sri Lanka.
-
-The case was called before Colombo High Court Judge Manjula Tilakaratne.
-
-Mrs. Dianey Gamage was also present at the court.
-
-After considering the submissions, the High Court judge, was placed on the 9th of January.
-
-The judge was ordered to be held safely in a safe safety.
-
-The court also ordered that the attendees to appear before the court that day.
-
-◼️
-
-[Data](articles/ea7c3b71.json)
-
-[Extended Data](ext_articles/ea7c3b71.ext.json)
 
 ---

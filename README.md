@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 17:24:26**
+As of **2024-11-04 17:41:53**
 
 ## Newspaper Stats
 
-*Scraped **52,984** Articles*
+*Scraped **52,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,78 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 540
 bbccomsinhala | 543
 islandlk | 3,166
-economynextcom | 3,206
+economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,943
 adaderanalk | 6,307
 tamilmirrorlk | 7,364
 virakesarilk | 8,555
-adaderanasinhalalk | 9,235
+adaderanasinhalalk | 9,237
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,981 (100.0%) of 52,984 articles have been extended.
+52,987 (100.0%) of 52,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Providing Rs.
+
+*2024-11-04 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202901) · `si`
+
+Commissioner General Agrarian Development UP providing fertilizer subsidy 2024 Maha season. First phase: Rs. 15,000 per beneficiary. Total allocation: Rs. 46.5 million for 4,475 beneficiaries across 12 districts. Second phase details not specified.
+
+🟩
+
+The Commissioner General of Agrarian Development UP has already begun to provide the provision of fertilizer subsidy for the 2024 Maha season.. Ramana Rajapaksa says.
+
+He said that under its first phase, steps have been taken to grant Rs. 15,000 each.
+
+Under the first phase, Rs.
+
+46.5 million for 4,475 phases of 12 million in 12 districts for 4,475 Rs.
+
+He said that the Treasury will receive a sum of Rs.
+
+He further stated that the second phase of Rs.
+
+◼️
+
+[Data](articles/f49b793d.json)
+
+[Extended Data](ext_articles/f49b793d.ext.json)
+
+---
+
+### Message to visit Sri Lanka - New Zealand competitions
+
+*2024-11-04 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202900) · `si`
+
+Sri Lanka-New Zealand cricket series: Tickets available online and at stadiums. Purchase starts Nov 7 at Science Training & Dambulla. Windows open 9am-8pm. Additional sales at Pallekele (Nov 15) and Balagolla for ODI.
+
+🟩
+
+Sri Lanka Cricket states that marketing of tickets will commence on online methods for the upcoming Sri Lanka-New Zealand cricket tournament.
+
+Meanwhile, ticket windows at Science Training and Dambulla cricket stadium in Colombo 7 opened from November 07.
+
+Meanwhile, a window will be installed near the Dambulla cricket stadium at the 20th matches.
+
+Tickets will be sold at the Pallekele Stadium from November 15 and can also purchase tickets at the Balagolla on the ODI International.
+
+Ticketing windows The ticket windows will be open from 9 am to 8 pm.
+
+◼️
+
+[Data](articles/2040fd15.json)
+
+[Extended Data](ext_articles/2040fd15.ext.json)
+
+---
 
 ### The Vanni people are not second -class citizens - Emilkanthan
 
@@ -59,6 +113,28 @@ Responding to the comments made by my last media briefing on the leadership, Sum
 [Data](articles/87336f5d.json)
 
 [Extended Data](ext_articles/87336f5d.ext.json)
+
+---
+
+### Sri Lanka stocks close down, led by banks
+
+*2024-11-04 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-led-by-banks-186048/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, official data showed.
+
+The broader ASPI closed 0.06 percent or 8.21 points lower at 12,855; while the more liquid S&P SL20 Index closed 0.11 percent or 4.11 points lower at 3,875.
+
+Banking stocks added the most to the turnover, but most closed down; Commercial Bank (down at 117.25), HNB (down at 230.75), DFCC Bank (down at 83.40), and NDB (down at 87.00).
+
+Top contributors to the ASPI were Melstacorp (up at 104.50), Sampath Bank (up at 89.40), TeeJay Lanka (up at 43.00), Lion Brewery (up at 1,089.25) and Lanka Milk Foods (up at 32.00).
+
+There was a net foreign outflow of 31 million. (Colombo/Nov04/2024)
+
+◼️
+
+[Data](articles/b328b4d4.json)
+
+[Extended Data](ext_articles/b328b4d4.ext.json)
 
 ---
 
@@ -101,6 +177,26 @@ Joining a press conference held in Colombo, she mentioned that the new system wi
 [Data](articles/6806c5e5.json)
 
 [Extended Data](ext_articles/6806c5e5.ext.json)
+
+---
+
+### Sri Lanka CEB opts for reforms without privatization under new government
+
+*2024-11-04 16:31:00* · [`economynextcom`](https://economynext.com/186028-186028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) under the new government led by President Anura Kumara Dissanayake has opted for reforms without privatizing the utility service provider in line with the “mandate received by the current President”, the CEB said.
+
+The proposed CEB reforms were strongly opposed by Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) trade unions in the past citing the past government was trying the sell the state asset to the private sector.
+
+Reforms in CEB is a key commitment Sri Lanka has made to the International Monetary Fund (IMF) in return for a $3 billion bailout package that was approved in 2023 following the island nation suffering an unprecedented economic crisis in 2022.
+
+“CEB had to adopt to a reform process proposed by external mechanisms last year as a result of non-implementation of internal reforms within CEB for decades,” the CEB said in a statement.
+
+...
+
+[Data](articles/3fef813c.json)
+
+[Extended Data](ext_articles/3fef813c.ext.json)
 
 ---
 
@@ -844,21 +940,33 @@ They also accused the king and the government that the killer was dedicated to d
 
 ---
 
-### தீபாவளி வெளியீட்டில் வென்ற 'அமரன்'
+### 'Amaran' won the Diwali release
 
 *2024-11-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197856) · `ta`
 
-தீபாவளி திருநாளன்று வெளியான திரைப்படங்களில் சிவகார்த்திகேயன் நடிப்பில் வெளியான 'அமரன்' திரைப்படம் வசூலில் சாதனை படைத்திருக்கிறது.
+"Amaran" wins Diwali box office, Sivakarthikeyan starrer sets records. Grosses over 40 crores on opening day, projected to reach 150 crore in four days. Receives praise from Tamil Nadu politicians and stars.
 
-தமிழர்கள் உலக அளவில் பாரம்பரியமாக கொண்டாடும் தீபாவளி திருவிழா நாளன்று சிவகார்த்திகேயன் நடிப்பில் உருவான 'அமரன்', ஜெயம் ரவி நடிப்பில் உருவான 'பிரதர்', கவின் நடிப்பில் உருவான 'பிளடி பெக்கர்' ஆகிய மூன்று நேரடி தமிழ் திரைப்படங்களும், துல்கர் சல்மான் நடிப்பில் உருவாகி தமிழில் மொழி மாற்றம் செய்யப்பட்ட 'லக்கி பாஸ்கர்' எனும் திரைப்படமும் வெளியானது.
+🟩
 
-இந்த நான்கு திரைப்படங்களில்  'உலக நாயகன்' கமல்ஹாசன் தயாரிப்பில் சிவகார்த்திகேயன் நடிப்பில் உருவான 'அமரன்' எனும் திரைப்படம் விமர்சன ரீதியாகவும், வசூல் ரீதியாகவும் பாரிய வெற்றியை பெற்றிருக்கிறது.
+Sivakarthikeyan starrer 'Amaran' has set a record in collections in Diwali.
 
-இந்த திரைப்படம் வெளியான முதல் நாளில் இந்திய மதிப்பில் நாற்பது கோடி ரூபாய்க்கு மேல் வசூலித்து சாதனை படைத்தது.
+Three live Tamil films - 'Blady Becker' starring Sivakarthikeyan, Jayam Ravi starring 'Amaran', 'Brad' and 'Bldy Becker' starring Dulkar Salman in TamilReleased.
+
+In these four films, 'Amaran' starring Sivakarthikeyan starring 'World Man' Kamal Haasan has been critically and grossly successful.
+
+On the first day of the release of the film, the Indian value grossed over forty crores of rupees.
+
+The film was a huge reception of fans during a series of holidays. Due to this, the film industry has noticed that the film will have grossed over Rs 150 crore in India in four days.
+
+Thus the success of the film will be held at the star hotel in Chennai today.
+
+The official announcement of the film's collections at this moment is expected to be made.
 
 ...
 
 [Data](articles/9ef066fc.json)
+
+[Extended Data](ext_articles/9ef066fc.ext.json)
 
 ---
 
@@ -1028,21 +1136,31 @@ Additionally, the judge ordered that the case materials be securely stored and a
 
 ---
 
-### டிரம்பின் வெற்றியை எதிர்கொள்ள தயாராகிறது ஈரான் - இஸ்ரேலின் தாக்குதல்கள் தீவிரமடையலாம் என அச்சம்
+### Iran -Israeli attacks may be intensified
 
 *2024-11-04 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197846) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலின் ஒரு மோசமான விளைவான - டிரம்பின் வெற்றியை எதிர்கொள்வதற்கு ஈரானும் அதன் சகாக்களும் தயாராகிவருவதாக ரொய்ட்டர் செய்தி வெளியிட்டுள்ளது
+Iran-Israel tensions escalate amid Trump presidency predictions. Reuters report suggests Iran prepares for potential increased conflicts due to anticipated Trump victory. Western officials express concern over possible Israeli aggression and pressure on Iran's nuclear program. Experts warn of potential economic impacts from stricter sanctions and military actions.
 
-கமலா ஹரிஸுக்கும் டொனால்ட்  டிரம்புக்கும் இடையில் கடும் போட்டி நிலவுவதை கருத்துக்கணிப்புகள் வெளிப்படுத்துகின்ற போதிலும், ஈரான் தலைவர்களும் லெபனான், யேமன் ஈராக்கில் உள்ள அவர்களின் சகாக்களும் நவம்பர் 5ஆம் திகதி தேர்தலில் டிரம்ப் வெற்றிபெறுவார்; அதனால் தங்களிற்கு மேலும் நெருக்கடிகள் உருவாகும் என கருதுகின்றனர்.
+🟩
 
-ஈரானின் அணுநிலைகள் மீது தாக்குதலை மேற்கொள்வதற்கும் இலக்குவைக்கப்பட்ட படுகொலைகளில் ஈடுபடுவதற்கும் இஸ்ரேலின் பிரதமரை டிரம்ப் வலுப்படுத்துவதற்கான சாத்தியக்கூறுகள் குறித்து  ஈரான் அதிக கரிசனை கொண்டுள்ளது என மேற்குலக ஈரானிய அராபிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+Reuters reports that Iran and its colleagues are preparing to face Trump's victory in the US presidential election
 
-டிரம்ப் ஈரானின் எண்ணெய் தொழில்துறைக்கு எதிராக தடைகளை விதிப்பதன் மூலம் அதிகளவு அழுத்தத்தை கொடுக்கும் கொள்கையை பின்பற்றலாம் என ஈரான் கருதுகின்றது.
+Although polls reveal the fierce rivalry between Kamala Haris and Donald Trump, Trump will win the election on November 5, Iranian leaders and their colleagues in Lebanon and Yemen Iraq;So they think they will create more crises.
+
+Western Iranian Arab officials have said that Iran is more concerned about the possibility of strengthening Israel's prime minister for attacking Iran's nuclear conditions and engaging in massacre.
+
+Iran thinks that Trump can follow the policy of putting too much pressure on Iran's oil industry.
+
+Iran, who has been sworn in as the US president since 2017 to 2021, is expected to put heavy pressure on Iran's spiritual leader, Ayatollah Ali Kameni, to accept the nuclear deal with Israel and itself.
+
+Leadership changes in the United States can affect the balance of the Middle East and make changes to Iran's foreign policy and economic possibilities.
 
 ...
 
 [Data](articles/c785fbb5.json)
+
+[Extended Data](ext_articles/c785fbb5.ext.json)
 
 ---
 
@@ -1213,6 +1331,24 @@ The management of the hospital has been informed to the hospital police to sign 
 [Data](articles/15473d66.json)
 
 [Extended Data](ext_articles/15473d66.ext.json)
+
+---
+
+### Sri Lanka Telecom gets new chairman, directors
+
+*2024-11-04 11:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-gets-new-chairman-directors-185990/) · `en`
+
+ECONOMYNEXT – Mothilal de Silva has been appointed as Chairman and independent non-executive director of Sri Lanka Telecom, the company said in a stock exchange filing.
+
+He was previously Group CEO of Telecom Fiji, before which he was Group Strategy Officer of Dialog Axiata, General Manager of MTN Networks Pvt Ltd and was on the board of directors of Lanka Communicationa Services Pvt Ltd.
+
+The following were appointed as directors to the Board of Sri Lanka Telecom PLC with effect from 04th November 2024.
+
+– Niel D B Unamboowe, President’s Counsel (Independent, Non-Executive Director)
+
+◼️
+
+[Data](articles/e75d79cb.json)
 
 ---
 
@@ -2211,107 +2347,5 @@ Gallehewa will become the 45th President of the OPA for the term 2025/2026, foll
 [Data](articles/8172769b.json)
 
 [Extended Data](ext_articles/8172769b.ext.json)
-
----
-
-### Emotionally intelligent CFO no longer an oxymoron – they exist
-
-*2024-11-04 02:52:48* · [`dailyftlk`](https://www.ft.lk/columns/Emotionally-intelligent-CFO-no-longer-an-oxymoron-they-exist/4-768793) · `en`
-
-CFOs can increase their effectiveness by astutely blending their emotional intelligence with their prowess
-
-The bottom line is CFOs must move beyond technical left-brain skills to develop competencies in people-oriented right-brain areas. Thankfully, in the world of finance, a paradigm shift is in progress with CFOs metamorphosing from guardians of finance to strategic, empathetic leaders. This new era of financial leadership is symbolised by real-world CFOs, like Kevan Parekh, who are defying traditions, breaking the mould and setting the stage and new standards for what it means to lead with empathy and understanding. An emotionally intelligent CFO is no longer an oxymoron
-
-...
-
-[Data](articles/c773c665.json)
-
-[Extended Data](ext_articles/c773c665.ext.json)
-
----
-
-### COYLE Leadership Forum: Visionary platform for tomorrow’s business leaders
-
-*2024-11-04 02:51:30* · [`dailyftlk`](https://www.ft.lk/business/COYLE-Leadership-Forum-Visionary-platform-for-tomorrow-s-business-leaders/34-768792) · `en`
-
-From left: Moderator Peter D’Almeida, COYLE Chairman and Raddella Holdings Managing Director Thushira Raddella, Los Angeles, California HVA Ceylon LLC Founder Harsha Fernando, and Netflix Dubai Bling Global Reality Star and Forever Rose London and Forever Rose Café CEO and Founder Ebraheem Al Samadi
-
-COYLE last week held its landmark 2024 Leadership Forum at Shangri-La Colombo, uniting thought leaders, entrepreneurs, and visionaries to shape the future of business.
-
-Designed to inspire the next generation of trailblazers, the event brought together influential voices in the world of entrepreneurship and business strategy, setting the stage for an extraordinary day of knowledge sharing and forward-thinking ideas.
-
-...
-
-[Data](articles/6b6cf66f.json)
-
-[Extended Data](ext_articles/6b6cf66f.ext.json)
-
----
-
-### Sri Lanka-Canada Business Council concludes successful trade and investment mission to Canada
-
-*2024-11-04 02:35:55* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Canada-Business-Council-concludes-successful-trade-and-investment-mission-to-Canada/34-768791) · `en`
-
-Meeting with the Sri Lankan High Commissioner to Canada U.L. Mohammed Jauhar
-
-Meeting with Member of Parliament for Nepean West Chandra Arya
-
-The Sri Lanka-Canada Business Council (SLCBC) of The Ceylon Chamber of Commerce successfully concluded its nine-member trade and investment mission to Canada, strengthening bilateral ties and exploring trade, investment, and allied opportunities in key sectors. Held from 14 to 22 October, the mission was led by SLCBC President Priyantha Chandrasekara and included constructive exchanges with Canadian business leaders, government officials, academic institutions, and business chambers.
-
-Before departing for Canada, the delegation held a briefing with Sri Lankan Prime Minister Dr. Harini Amarasuriya to discuss the objectives and anticipated impact of the mission, signalling the importance of this initiative at the highest levels of Sri Lanka’s Government.
-
-...
-
-[Data](articles/acd0acca.json)
-
-[Extended Data](ext_articles/acd0acca.ext.json)
-
----
-
-### Pillaiyan party supporters attack Karuna's candidate and supporters in Batticaloa;3 people, including candidate, were injured
-
-*2024-11-04 02:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/197826) · `ta`
-
-Pillaiyan party supporters attacked Karuna's candidate and supporters in Batticaloa. Three injured, including candidate. Police investigating incident.
-
-🟩
-
-Karuna Amman's party candidate and supporters in Batticaloa have been admitted to the hospital on Sunday night (3) in the Jayanthipuram area.
-
-Karuna Amman, a Democratic Front, on the Batticaloa Jayanthipuram school road, was speaking to supporters on Sunday night (3) on the former road in the office of the party's candidate.
-
-When the six -member Pillaiyan party supporters who came to the area were on the walls of Karuna Amman's party's posters on the posters of the Pillaiyan party on the posters pasted on the posters, Karuna's candidate went to Karuna's candidate and said that Karuna's supporters had to paste the posters over our posters.Party supporters carried out the attack.
-
-Initial inquiries by the police revealed that three others, including Karuna's party candidate Munisamy Nagendran and his supporter, were injured and the Pillaiyan party supporters have fled the scene.
-
-Following the attack, there was a stir and the police are conducting investigations.
-
-◼️
-
-[Data](articles/a3d13ec9.json)
-
-[Extended Data](ext_articles/a3d13ec9.ext.json)
-
----
-
-### Rain for 36 hours
-
-*2024-11-04 02:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணித்தியாலங்களுக்கு-மழை/175-346515) · `ta`
-
-Heavy rain forecasted for 36 hours across several provinces. Over 100mm expected. Public advised to prepare for potential disasters.
-
-🟩
-
-The Department of Meteorology has predicted that the weather will continue with rain for the next 36 hours.
-
-According to the Department of Meteorology last night, the Central, North Central, Sabaragamuwa, Uva, Southern and North Western Provinces are likely to experience more than 100 mm.
-
-The public has been asked to take steps to protect the disasters in cases of rainfall. (A)
-
-◼️
-
-[Data](articles/2fd0f064.json)
-
-[Extended Data](ext_articles/2fd0f064.ext.json)
 
 ---

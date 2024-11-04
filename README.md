@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 14:59:28**
+As of **2024-11-04 15:11:40**
 
 ## Newspaper Stats
 
-*Scraped **52,957** Articles*
+*Scraped **52,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,937
-adaderanalk | 6,301
+adaderanalk | 6,302
 tamilmirrorlk | 7,363
 virakesarilk | 8,548
 adaderanasinhalalk | 9,229
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,956 (100.0%) of 52,957 articles have been extended.
+52,958 (100.0%) of 52,958 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Online token system for collecting passports amid ongoing queues
+
+*2024-11-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103150/online-token-system-for-collecting-passports-amid-ongoing-queues) · `en`
+
+The issuing of tokens for the distribution of currently available blank passports will be carried out online in the near future, Minister Vijitha Herath says.
+
+Speaking to the media following an event held in the Kadawatha area, Herath advised the general public not to wait in the queues to obtain passports in November unless for essential purposes.
+
+Nevertheless, long queues were observed again today at the passport office in Battaramulla as individuals waited to collect their passports.
+
+The government had previously urged the public on October 29 to visit the Immigration Department only for essential requirements, due to the limited availability of passports in the current stock.
+
+However, the crowds have persisted, with many expressing frustration over delays and the lengthy waiting times for passport collection.
+
+◼️
+
+[Data](articles/375646d4.json)
+
+[Extended Data](ext_articles/375646d4.ext.json)
+
+---
 
 ### Proposed tariff reduction insufficient; PUCSL calls for revised proposal from CEB
 
@@ -748,21 +770,29 @@ The body was taken to the Peradeniya Teaching Hospital for autopsy and a open ve
 
 ---
 
-### தங்கத்தை மெருகூட்டும் இரசாயனத்தை குடித்த குழந்​தை பலி
+### Gold
 
 *2024-11-04 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தங்கத்தை-மெருகூட்டும்-இரசாயனத்தை-குடித்த-குழந்-தை-பலி/76-346530) · `ta`
 
-தீபாவளி பண்டிகையை கொண்டாடுவதற்காக உறவினர் வீட்டுக்குச் செல்லவிருந்த இரண்டு வயது பதினொரு மாத வயதுடைய ஆண் குழந்தையொன்று தனது தந்தைக்கு சொந்தமான தங்கத்தை மெருகூட்டுவதற்கு பயன்படுத்தப்படும் இரசாயன திரவத்தை (கொப்பர் அமிலம்) குடித்து உயிரிழந்துள்ளதாக கம்பளை கலஹா பொலிஸார் தெரிவித்தனர். .
+Two-year-old boy dies after ingesting copper acid during Diwali celebration at gold refinery business. Police investigation ongoing.
 
-குழந்தையின் தந்தை ராஜாமணி பிரதீபன் (வயது 38) தெல்தோட்டையில் தங்க வியாபாரம் செய்து வருகிறார். இவரது மனைவி அல்லிராணி (வயது 30) தனது மூன்று குழந்தைகளுடன் தீபாவளியை  கொண்டாடுவதற்காக உறவினர் வீட்டுக்குச் செல்வதற்காக மாலை ஐந்து மணியளவில் இந்த வணிக வளாகத்திற்கு வந்தார்.
+🟩
 
-அவர்கள் பேசிக் கொண்டிருந்த போது, ​​அருகில் இருந்த தங்க பொருட்களை சுத்தம் செய்ய பயன்படுத்திய கொப்பர் அமிலம் சிறு குழந்தை குடித்தது. உடனே குழந்தை தரையில் விழுந்துள்ளது.
+A two -year -old boy who was about to go to a relative's home to celebrate Diwali, Gampala Kalaha police said that a man who drank a chemical fluid (copper acid) used to refine his father's own gold.. .
 
-குழந்தையை தெல்தோட்டை மருத்துவமனைக்கு கொண்டு சென்றனர். தெல்தோட்டை வைத்தியசாலையின் வைத்தியர்கள் குழந்தையை காப்பாற்ற கடுமையாக முயற்சித்த போதிலும், சிறிது நேரத்திலேயே குழந்தை உயிரிழந்துள்ளது.
+The child's father Rajamani Pradeepan (age 38) is doing a golden business in Teltottai. His wife Allirani (age 30) came to the commercial premises at around 5 pm to go to a relative's house to celebrate Diwali with his three children.
+
+While they were talking, cubic acid used to clean the nearest golden stuff drank little baby. The child immediately fell to the ground.
+
+The baby was taken to the Teldota Hospital. The doctors of the Teldota Hospital have tried hard to save the baby, but the baby died shortly after.
+
+The body was taken to the Peradeniya Teaching Hospital for autopsy and the open verdict was issued on November 2 by the Expert Legal Officer RP Jayasuriya on November 2. The body was then taken home in the evening and buried in the evening.
 
 ...
 
 [Data](articles/851d832b.json)
+
+[Extended Data](ext_articles/851d832b.ext.json)
 
 ---
 
@@ -2229,27 +2259,5 @@ The Cabinet approval was obtained for that. It is the responsibility of the Secr
 [Data](articles/33d36ce0.json)
 
 [Extended Data](ext_articles/33d36ce0.ext.json)
-
----
-
-### Trade unions must rally against the government's plan for the unions without the unions - Nimalka Fernando
-
-*2024-11-03 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197810) · `ta`
-
-Sri Lanka's trade unions face threat from government's anti-union stance. National People's Power party plans to abolish unions, sparking opposition from labor groups and political parties like New Democratic Front. Unions played crucial role in securing worker rights, including 8-hour workday. Critics argue proposed changes would undermine workers' protections and introduce imperialist policies.
-
-🟩
-
-The plan of the national people's power is to abolish the unions and carry out the imperialist regime. Nimalka Fernando, a National List member of the New Democratic Front, said that it is currently out of the mouth of the Lakshman expert.
-
-He was speaking at a press conference held at the New Democratic Front Elections Office in Colombo.
-
-The best industrial law in South Asia is in Sri Lanka. It is not fully implemented. Our work hours were allowed for 8 hours because of the struggle of union leaders. But many are shocked by the comments made by the National People's Power Candidate Lakshman Experts that they cancel the trade unions.
-
-...
-
-[Data](articles/0f268dd9.json)
-
-[Extended Data](ext_articles/0f268dd9.ext.json)
 
 ---

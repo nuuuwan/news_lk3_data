@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 19:13:47**
+As of **2024-11-04 19:24:36**
 
 ## Newspaper Stats
 
-*Scraped **53,017** Articles*
+*Scraped **53,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,41 @@ islandlk | 3,169
 economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,945
+adalk | 4,946
 adaderanalk | 6,311
 tamilmirrorlk | 7,371
 virakesarilk | 8,562
-adaderanasinhalalk | 9,242
+adaderanasinhalalk | 9,243
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,001 (100.0%) of 53,017 articles have been extended.
+53,009 (100.0%) of 53,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### O / L applications from tomorrow
+
+*2024-11-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202907) · `si`
+
+GCE O/L exam application deadline: Nov 30, 2024. Applications open from tomorrow (05).
+
+🟩
+
+Applications for the GCE O / L examination will be accepted from tomorrow (05) to the Department of Examinations.
+
+The Commissioner General of Examinations issued an announcement, the applications will be accepted until November 30, 2024.
+
+◼️
+
+[Data](articles/cd5e4d13.json)
+
+[Extended Data](ext_articles/cd5e4d13.ext.json)
+
+---
 
 ### 2024 O/L exam applications called online from tomorrow
 
@@ -50,79 +70,111 @@ Any inquiries regarding the submission of applications can be made through conta
 
 [Data](articles/7824e6d8.json)
 
+[Extended Data](ext_articles/7824e6d8.ext.json)
+
 ---
 
-### தமிழ் மக்கள் பலமான கூட்டணியொன்றை பாராளுமன்றத்திற்கு அனுப்ப வேண்டும் - சுரேஷ் பிரேமச்சந்திரன்
+### Suresh Premachandran should send a strong alliance to Parliament - Suresh Premachandran
 
 *2024-11-04 18:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197896) · `ta`
 
-தமிழ் மக்கள் பலமான கூட்டணியொன்றை பாராளுமன்றத்திற்கு அனுப்ப வேண்டும் என்று முன்னாள் பாராளுமன்ற உறுப்பினரும் ஜனநாயக தமிழ் கூட்டணியின் வேட்பாளருமான சுரேஷ் பிரேமச்சந்திரன் தெரிவித்துள்ளார்.
+Suresh Premachandran calls for strong Tamil alliance in parliament. He warns of declining trust in president and potential seat loss. Urges opposition to prevent current government majority.
 
-நடைபெற உள்ள பாராளுமன்ற தேர்தலில் ஜனநாயக தமிழ் தேசிய கூட்டணியில் போட்டியிடும் வேட்பாளர் சுரேஷ் பிரேமசந்திரன் திங்கட்கிழமை (04) கிளிநொச்சி திருநகரில் அமைந்துள்ள  கட்சியின் தேர்தல் அலுவலகத்தில் நடத்திய ஊடக சந்திப்பிலேயே அவர் மேற்கண்டவாறு தெரிவித்துள்ளார்.
+🟩
 
-அவர் தொடர்ந்து குறிப்பிடுகையில் தமிழ் மக்களுக்கு ஜனாதிபதி மீது இருந்த நம்பிக்கை படிப்படியாக குறைவடைந்து வருகின்றது
+Suresh Premachandran, a former parliamentarian and candidate of the Democratic Tamil Alliance, said that the Tamil people should be sent a strong coalition to parliament.
 
-நடைபெற உள்ள பாராளுமன்ற தேர்தலில் 113 ஆசனங்களை எடுக்காவிட்டால் இவர்கள் ஏனைய கட்சிகளிடமிருந்து ஆதரவு கோரும்  நிலை ஏற்படலாம் அவ்வாறு ஆதரவு கோரும்  போது ஊழல்வாதிகள் உள்வாங்கப்படலாம் என்று குறிப்பிட்டவர்
+He was speaking at a media briefing held at the party's election office in Thirunagar, Kilinochchi on Monday (04).
 
-தற்போதைய அரசாங்கத்துக்கு பாராளுமன்றத்தில் பெரும்பான்மை கிடைக்கக்கூடாது தமிழ் மக்கள் ஒரு பலம் மிக்க அமைப்பாக தமிழ் மக்கள் பாராளுமன்றத்துக்கு பிரதிநிகளை   அனுப்ப வேண்டும் என்றும் அவர் மேலும் தெரிவித்துள்ளார்.
+He continued to mention that the confidence in the president for the Tamil people is gradually decreasing
+
+If they do not take 113 seats in the upcoming parliamentary elections, they may seek support from other parties.
+
+He added that the current government should not get a majority in parliament.
 
 ◼️
 
 [Data](articles/68dbe7f1.json)
 
+[Extended Data](ext_articles/68dbe7f1.ext.json)
+
 ---
 
-### மின் கட்டண குறைப்பு போதுமானதாக இல்லை
+### The reduction in electricity tariffs is not sufficient
 
 *2024-11-04 18:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-குறைப்பு-போதுமானதாக-இல்லை/175-346551) · `ta`
 
-மின்சாரக் கட்டண திருத்தம் தொடர்பில் இலங்கை மின்சார சபை முன்வைத்துள்ள கட்டணக் குறைப்பு போதுமானதாக இல்லை என பொதுப் பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது.
+Electricity tariff reduction insufficient: CEB proposes 4-11% cut, but Public Utilities Commission claims no inadequacy. New resolution announced before Oct 8.
 
-கட்டண திருத்தம் தொடர்பான புதிய பிரேரணையை எதிர்வரும் 8ஆம் திகதிக்கு முன்னர் சமர்ப்பிக்குமாறு இலங்கை மின்சார சபைக்கு அறிவிக்கப்பட்டுள்ளதாக அதன் தொடர்பாடல் பணிப்பாளர்  ஜெயநாத் ஹேரத் தெரிவித்தார்.
+🟩
 
-மின் கட்டணத்தை 4 முதல் 11 சதவீதம் வரை குறைக்க கடந்த ஒக்டோபர் மாதம் 24ஆம் திகதி இலங்கை மின்சார சபை, பிரேரணை ஒன்றை பொதுப் பயன்பாடுகள் ஆணைக்குழுவிடம் சமர்ப்பித்திருந்தமை குறிப்பிடத்தக்கது. R
+The Ceylon Electricity Board (CEB) has said that the Ceylon Electricity Board (CEB) has not suffered inadequate in the Electricity tariff revision, the Public Utilities Commission said.
+
+The Director of Communication Jayanath Herath said that the new resolution on the tariff revision has been announced to the Ceylon Electricity Board before the 8th of this month.
+
+It is noteworthy that the Ceylon Electricity Board (CEB) submitted a proposal to the Public Utilities Commission on October 24 to reduce electricity tariffs by 4 to 11 per cent.. Remble
 
 ◼️
 
 [Data](articles/559198ea.json)
 
+[Extended Data](ext_articles/559198ea.ext.json)
+
 ---
 
-### බදුල්ල බිහිසුණු අනතුරේ තුවාලකරුවන්ගේ තත්ත්වය
+### The condition of the injured accident in Badulla
 
 *2024-11-04 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202906) · `si`
 
-කොතලාවල ආරක්ෂක විශ්වවිද්‍යාලයේ සූරියවැව මණ්ඩපයේ සිසු සිසුවියන් සහ ආචාර්යවරු ඇතුළු කණ්ඩායමක් ගමන් කරමින් තිබූ බස්රථයක්  අනතුරට ලක්වීමේ සිද්ධිය සම්බන්ධයෙන් පුළුල් පරීක්ෂණයක් සිදුකරන බව බදුල්ල කොට්ඨාසය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි වසන්ත කන්දෙවත්ත මහතා පැවසීය.
+Badulla accident: Bus crash kills 2 students, injures 40. Driver under arrest. Investigation ongoing.
 
-බස් රථයේ රියදුරා අසාධ්‍ය තත්වයෙන් බදුල්ල ශික්ෂණ රෝහලේ දැඩි සත්කාර ඒකකයේ ප්‍රතිකාර ලබන බැවින් මෙතෙක් ඔහුගෙන් ප්‍රකාශයක් සටහනකර ගැනීම නොහැකි වී ඇති බව ඔහු සඳහන් කළේය.
+🟩
 
-බදුල්ල - මහියංගනය මාර්ගයේ දුන්හිඳ ට නුදුරු අඹගහඹය 4 කණුව ප්‍රදේශයේදී ඉකුත් 01 වනදා සිදුවු මෙම අනතුරින් ශිෂ්‍යාවන් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව 42ක් බදුල්ල ශික්ෂණ රෝහලට ඇතුළු කරනු ලැබීය.
+Senior Superintendent of Police Wasantha Kandewatte said that a large number of students including the students and teachers of the Sooriyawewa in Sooriyawewa Defense University.
 
-බසය පැදවූ රියදුරා ගාල්ල ඇල්විටිගල ජනපදයේ පදිංචි 41 හැවිරිදිසිවිල් පුද්ගලයෙක් බව විමර්ශනවලදි අනාවරණය වී තිබේ.
+He said the driver of the bus is being treated at the Intensive Care Unit of the Badulla Teaching Hospital, he said.
 
-අනතුරට පත්වූ බස්රථය පිළිබඳව මේ දක්වා මෝටර් රථ පරීක්ෂකවරුන්ගේ පරීක්ෂාවට ලක්වී නොමැති බවත් එම වාර්තාව ලැබීමෙන් පසු මෙම අනතුරට හේතුව කාර්මික දෝෂයක්ද නැතිනම් රියදුරාගේ  අපරික්ෂාකාරි රිය පැදවීම දැයි නිගමනය කළ හැකි බවත් ඔහු පැවසීය.
+Two students were killed in the Mahahiyanganaya road on the Galle-Mahiyanganaya road on the occasion.
+
+Investigations have revealed that the driver of the bus was a 41d who was living in Alwitigala, Galle.
+
+He said that the accident had not been tested on the bus, he could not be the investigation into the vehicle inspectors.
+
+However, it is reported that the driver is to be arrested regarding the accident.
+
+The credited casualties have already recorded statements and will be recorded from injured personnel in critical condition.
+
+The accidents have been carried out by Ridapana from Ridapana from Badulla and Mahiyanganaya road since Badulla-Senanana main road.It is said that it is said.
 
 ...
 
 [Data](articles/978c3a37.json)
 
+[Extended Data](ext_articles/978c3a37.ext.json)
+
 ---
 
-### ’’நாங்கள் உகாண்டா கதை எதுவும் சொல்லவில்லை”
+### We are not telling the story of Uganda ”
 
 *2024-11-04 18:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-உகாண்டா-கதை-எதுவும்-சொல்லவில்லை/175-346550) · `ta`
 
-உகாண்டாவில் மறைத்து வைக்கப்பட்ட பணம் தொடர்பாக தேசிய மக்கள் சக்தி குற்றச்சாட்டை முன்வைத்ததாக எழுந்த கூற்றுகளை மறுத்த NPP உறுப்பினர் டில்வின் சில்வா, அத்தகைய கூற்றுக்கள் ஐக்கிய மக்கள் சக்தியால் தான் முன்வைக்கப்பட்டதாக கூறினார்.
+Uganda claims denied: NPP member Dilvin Silva refutes accusations of hidden money. He states NPP previously mentioned potential money stashed in Uganda and other nations. Accusations made by rival group United People's Power.
 
-கொள்கலன்களில்  அமெரிக்க டொலர்கள் இங்கு அச்சிடப்பட்டு உகாண்டாவிற்கு கொண்டு செல்லப்பட்டதாகவே NPP கூறியதாக அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+🟩
 
-"நாங்கள் உகாண்டா கதை எதுவும் சொல்லவில்லை. எஸ்.ஜே.பி.க்கள் தான் அப்படிச் சொன்னார்கள். உகாண்டாவிலும் பிற நாடுகளிலும் மறைத்து வைக்கப்பட்ட பணம் இருக்கலாம் என்று தான் முந்தைய காலத்தில் நாங்கள் சொன்னோம்.
+NPP Member Dilvin Silva, who denied claims that the national people's power was accused of the money hidden in Uganda, said such claims were made by the United People's Power.
 
-டொலர்கள் நிறைந்த கன்டெய்னர்கள் இங்கே அச்சிடப்பட்டு உகாண்டாவிற்கு கொண்டு செல்லப்பட்டன என்று தெரிவித்தோம். அவர்களின் கொள்கை என்னவென்றால், அவர்களே பொய்களைப் பேசுகிறார்கள், அந்தப் பொய்களை நாங்கள் சொன்னதாகக் கூறுகிறார்கள், ”என்று அவர் கூறினார்.
+He said at a media briefing that the NPP had said that the US dollars were printed and taken to Uganda.
+
+“We don't tell the story of Uganda. SJPs are just saying so. In earlier we said that there may be money hidden in Uganda and other countries.
+
+We reported that dollars rich containers were printed here and taken to Uganda. Their principle is that they speak lies and say we have told those lies, ”he said.
 
 ◼️
 
 [Data](articles/32f4b183.json)
+
+[Extended Data](ext_articles/32f4b183.ext.json)
 
 ---
 
@@ -142,23 +194,31 @@ Meanwhile, the Election Commission also says that 1,248 of the total number of c
 
 [Data](articles/0589486b.json)
 
+[Extended Data](ext_articles/0589486b.ext.json)
+
 ---
 
-### சிவில் விமானப் போக்குவரத்து சபைக்கு புதிய தலைவர் நியமனம்
+### New Chairman appointment to Civil Air Transport Board
 
 *2024-11-04 18:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவில்-விமானப்-போக்குவரத்து-சபைக்கு-புதிய-தலைவர்-நியமனம்/175-346549) · `ta`
 
-இலங்கை சிவில் விமானப் போக்குவரத்து அதிகார சபையின் தலைவராக இலங்கை சுங்கப் பிரிவின் மேலதிக பணிப்பாளர் நாயகம் சுனில் ஜயரத்ன நியமிக்கப்பட்டுள்ளார்.
+Sunil Jayaratne, former SL Customs Director, appointed Chairman Civil Aviation Authority Sri Lanka. He replaces outgoing chairman. Jayaratne has 37 years experience in customs and administration.
 
-ஜயரத்ன இன்று காலை CAASL இன் பணிப்பாளர் நாயகம் உட்பட பல அதிகாரிகள் முன்னிலையில் அலுவலகத்தில் கடமைகளை பொறுப்பேற்றார்.
+🟩
 
-சுங்கத் திணைக்களத்தில் 37 வருடங்களுக்கும் மேலான அனுபவத்தைக் கொண்ட இவர் கடந்த மூன்றரை வருடங்களாக ஊடகப் பேச்சாளராகவும் கடமையாற்றியுள்ளார்.
+Sunil Jayaratne, Additional Director General of the Sri Lanka Customs Division has been appointed as the Chairman of the Civil Aviation Authority of Sri Lanka.
 
-அவர் ஸ்ரீ ஜெயவர்தனபுர பல்கலைக்கழகம் மற்றும் அவுஸ்திரேலியாவின் கான்பெரா பல்கலைக்கழகத்தில் சுங்க சட்டம் மற்றும் நிர்வாகத்தில் முதுகலைப் பட்டதாரி ஆவார்.
+Jayaratne took charge of the office in the presence of several officers, including the Director General of the CAASL this morning.
+
+He has been working as a media spokesman for the past three and a half years with over 37 years of experience in the Customs Department.
+
+He is a postgraduate graduate in Customs and Administration at Sri Jayawardenapura University and the University of Canberra, Australia.
 
 ◼️
 
 [Data](articles/84216682.json)
+
+[Extended Data](ext_articles/84216682.ext.json)
 
 ---
 
@@ -293,6 +353,20 @@ Additionally, Rajapakshe also said that today (04), an amount of Rs. 279.4 milli
 ...
 
 [Data](articles/0e680270.json)
+
+---
+
+### බදු ගෙවීම් පැහැර හැරි ජනකට හා බිරිඳට නඩු
+
+*2024-11-04 17:49:39* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ගෙවීම්-පැහැර-හැරි-ජනකට-හා-බිරිඳට-නඩු/11-412849) · `si`
+
+රුපියල් කෝටි තුනකට අධික බදු මුදල් රජයට ගෙවීම පැහැර හැරී බවට චෝදනා කරමින් ශ්‍රී ලංකා මහජන උපයෝගීතා කොමිසමේ හිටපු සභාපතිවරයකු සහ  පසුගිය ජනාධිපතිවරණයේ ජනාධිපති අපේක්ෂකයෙකු වූ ජනක රත්නායක මහතාට සහ ඔහුගේ බිරිඳට එරෙහිව දේශීය ආදායම් දෙපාර්තමේන්තුව කොළඹ අතිරේක මහේස්ත්‍රාත් බණ්ඩාර ඉලංගසිංහ මහතා හමුවේ නඩු පැවරීය.
+
+වසර තුනක කාලයක් සඳහා ‘වැට්’ සහ ආදායම් බදු වශයෙන් රජයට ගෙවිය යුතු රුපියල් කෝටි තුනකට අධික බදු මුදලක් ගෙවීම පැහැර හැරී බවට චෝදනා කරමින් පවරා ඇති නඩු කැඳවනු ලැබු අවස්ථාවේදී ඉදිරිපත් වු කරුණු සළකා බැලීමෙන් අනතුරුව දෙසැම්බර් 10 වැනිදා අධිකරණයේ පෙනී සිටින ලෙස ජනක රත්නායක මහතාට සහ ඔහුගේ බිරිඳ වන වන එච්.එල්. කුමාරි ද සිල්වා මහත්මියට මහේස්ත්‍රාත්වරයා නියම කළේය.
+
+...
+
+[Data](articles/b4493ab0.json)
 
 ---
 
@@ -2209,51 +2283,5 @@ The deceased is that the death of the fish has been revealed that the fish has b
 [Data](articles/c97bb5b0.json)
 
 [Extended Data](ext_articles/c97bb5b0.ext.json)
-
----
-
-### Two foreign nationals trapped in Kandy
-
-*2024-11-04 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202882) · `si`
-
-Foreigners arrested in Kandy: Two individuals detained without visas during tourist police raid. Ages 22 and 32. Incident occurred in Boombikada area.
-
-🟩
-
-Two foreigners were arrested in the Boombikada area in Kandy where there were no visa.
-
-Two foreigners who were staying in the country have been arrested without violence in a raid on a raid on a raid by the tourist police unit of Kandy.
-
-The 22 suspects were 22 and the 32-year-old ages.
-
-◼️
-
-[Data](articles/e2f9bf86.json)
-
-[Extended Data](ext_articles/e2f9bf86.ext.json)
-
----
-
-### Heart and thorax surgery in Kurunegala Hospital
-
-*2024-11-04 10:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගල-රෝහල-තුළ-හෘද-හා-උරස්-ශල්‍යකර්ම-කඩිනමින්/11-412835) · `si`
-
-Kurunegala Hospital to start heart and thoracic surgery service. Building facilities established, operating theaters and equipment being set up. Unit includes ICU beds, HDU beds, and two surgical rooms. Steps taken to establish second Cath LAB unit, doubling cardio-neurosurgery capacity. 80 doctors and staff to be trained. Project aims to improve healthcare services in North Western Province.
-
-🟩
-
-Medical Palitha Mahipala, Secretary to the Ministry of Health, advised the relevant officers yesterday to take steps to start the heart and thoracic surgery service in the Kurunegala Teaching Hospital.
-
-The Health Secretary gave this advice at a special discussion on a special inspection tour of the hospital.
-
-Building facilities for the unit have already been established to start the heart and thoracic surgery service in the Kurunegala Teaching Hospital. The operating theaters and other medical equipment are being established by the operating theaters and other. The hospital has also taken steps to be attached to the hospital.
-
-This unit consists of two ICU beds, 6 ICU BEDS (HDU BEDS) and two bodies. The operating theater consists of state-of-the-art medical equipment and consists of two surgins. There are a modern facilities to conduct two surgeries simultaneously, while males and women have taken steps to establish two heart treatment wards. There is 40 parlor capacity.
-
-...
-
-[Data](articles/892f7ef8.json)
-
-[Extended Data](ext_articles/892f7ef8.ext.json)
 
 ---

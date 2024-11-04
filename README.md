@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 05:46:23**
+As of **2024-11-04 06:12:29**
 
 ## Newspaper Stats
 
-*Scraped **52,875** Articles*
+*Scraped **52,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 540
 bbccomsinhala | 541
-islandlk | 3,157
+islandlk | 3,166
 economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,210
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,875 (100.0%) of 52,875 articles have been extended.
+52,882 (100.0%) of 52,884 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -202,6 +202,72 @@ The sea has given the people the confidence of food, income and needs of the are
 
 ---
 
+### SampathCards and Visa partner to elevate Hilton Colombo Oktoberfest experience
+
+*2024-11-04 01:51:00* · [`islandlk`](http://island.lk/sampathcards-and-visa-partner-to-elevate-hilton-colombo-oktoberfest-experience/) · `en`
+
+SampathCards, in collaboration with Visa, further enhanced the experience of visitors at the 31st edition of Hilton Colombo’s iconic Oktoberfest by bringing exclusive value additions for all its Visa cardholders. This partnership underscores SampathCards’ continued commitment to providing unparalleled benefits to its customers, elevating the experience of Sri Lanka’s Original Oktoberfest celebration.
+
+As the sponsor of this grand event, SampathCards, together with Visa, made this year’s Hilton Colombo’s Oktoberfest more memorable than ever. The partnership with Visa provided an elevated experience for cardholders, who not only enjoyed benefits but also partook in the vibrant festivities that captured the essence of German culture through traditional cuisine, music, and festivities.
+
+...
+
+[Data](articles/97e93f2f.json)
+
+[Extended Data](ext_articles/97e93f2f.ext.json)
+
+---
+
+### David Pieris Group reaffirms commitment to environmental conservation
+
+*2024-11-04 01:50:00* · [`islandlk`](http://island.lk/david-pieris-group-reaffirms-commitment-to-environmental-conservation/) · `en`
+
+David Pieris Group renewed its sponsorship of the hoardings displayed around Minneriya National Park for the 22nd consecutive year. In addition, the Group also announced its continued funding of the regular cleaning of the stretch of the park bordering the road from Minneriya to Habarana. This marks the 7th consecutive year of this initiative.
+
+In a simple ceremony held at the park entrance recently, Samantha Silva, Director, David Pieris Motor Company (Private) Limited, officially handed over 68 hoardings and boards that feature conservation messages to the park administration.
+
+Celebrated by Lonely Planet, BBC, and CNN, the Great Elephant Gathering brings together hundreds of Asian elephants at Minneriya National Park. It is also known as the 6th largest animal congregation in the world, and the largest gathering of Asian Elephants in the world, making it something all Sri Lankans’ should take pride in.
+
+...
+
+[Data](articles/3f24d457.json)
+
+[Extended Data](ext_articles/3f24d457.ext.json)
+
+---
+
+### HNB Assurance celebrates Customer Service Week with reinforced commitment
+
+*2024-11-04 01:48:00* · [`islandlk`](http://island.lk/hnb-assurance-celebrates-customer-service-week-with-reinforced-commitment/) · `en`
+
+HNB Assurance celebrated Customer Service Week 2024 with a series of events that spanned from October 7th to 11th, celebrating the dedication and service of its customer-facing teams. This year’s theme, Above and Beyond, perfectly captured the essence of HNB Assurance’s commitment to exceeding customer expectations and reinforcing its customer-centric approach.
+
+Throughout the week, the company organized interactive activities, workshops and appreciation events, all aimed at recognizing and empowering those who are at the frontlines of servicing policyholders. The celebrations highlighted the pivotal role that the customer experience plays in delivering on HNB Assurance’s promise of protection and care to its valued customers.
+
+...
+
+[Data](articles/9a5e83e8.json)
+
+[Extended Data](ext_articles/9a5e83e8.ext.json)
+
+---
+
+### People’s Bank recognized at LMD Awards Night 2024
+
+*2024-11-04 01:47:00* · [`islandlk`](http://island.lk/peoples-bank-recognized-at-lmd-awards-night-2024/) · `en`
+
+The LMD Awards Night recently honored 25 outstanding corporates in Sri Lanka, celebrating LMD’s 30th anniversary at the Lumina Ballroom, Cinnamon Life. Among the distinguished honorees was People’s Bank, recognized for its significant contributions to the banking sector and the country’s economic landscape.
+
+The LMD Awards Night is an event that honors the leading corporates featured in LMD’s special publications over the past three decades, including the Brands Annual, LMD 100, Most Respected, and Most Awarded rankings. This year’s ceremony highlighted the excellence and impact of organizations that have set the standard in their respective fields.
+
+...
+
+[Data](articles/c9c2efcd.json)
+
+[Extended Data](ext_articles/c9c2efcd.ext.json)
+
+---
+
 ### Model system does not change
 
 *2024-11-04 01:46:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முறைமை-மாற்றம்-நிகழவில்லை/175-346514) · `ta`
@@ -225,6 +291,24 @@ When they come to power, we will reduce the cost of fuel, reduce the prices of e
 [Data](articles/249a03ff.json)
 
 [Extended Data](ext_articles/249a03ff.ext.json)
+
+---
+
+### Atlas extends SipSavi scholarship programme to support deserving children in Sri Lanka
+
+*2024-11-04 01:46:00* · [`islandlk`](http://island.lk/atlas-extends-sipsavi-scholarship-programme-to-support-deserving-children-in-sri-lanka/) · `en`
+
+Atlas has signed a Memorandum of Understanding (MoU) with the Department of Probation and Child Care Services under the Ministry of Women and Child Affairs recently, to extend the company’s commitment to the Atlas SipSavi Scholarship Program for the next five years, reinforcing its dedication to supporting underprivileged children in Sri Lanka.
+
+During the signing ceremony Asitha Samaraweera, Managing Director, Atlas Axillia Co., and Gayani Kaushalya Wijesinghe, Commissioner, Department of Probation and Child Care Services, formalized the partnership. The event was also graced by the presence of K. Mahesan, Secretary, Ministry of Women, Child, Youth Affairs and Sports.
+
+The SipSavi Scholarship Program addresses a critical need in Sri Lanka, where more than 20,000 children have discontinued their education due to financial difficulties. Atlas has committed to providing educational materials and a monthly allowance to selected children throughout the five-year period.
+
+...
+
+[Data](articles/bfc4af7b.json)
+
+[Extended Data](ext_articles/bfc4af7b.ext.json)
 
 ---
 
@@ -257,6 +341,48 @@ But the violation of the Roller Boats will be the destruction of the fish resour
 [Data](articles/c80ab168.json)
 
 [Extended Data](ext_articles/c80ab168.ext.json)
+
+---
+
+### JICA initiates new technical cooperation project in Sri Lanka
+
+*2024-11-04 01:35:00* · [`islandlk`](http://island.lk/jica-initiates-new-technical-cooperation-project-in-sri-lanka/) · `en`
+
+JICA is set to initiate a new technical cooperation project early next year to support Sri Lanka to improve fecal sludge management.
+
+Record of Discussion of this project was concluded between S. Alokabandara, Secretary to the Ministry of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour and YAMADA Tetsuya, Chief Representative of JICA Sri Lanka Office on 15th October 2024.
+
+Currently, Sri Lanka faces various challenges related to fecal sludge management. Due to limited fecal sludge treatment plants, gully bowser disposes sludge to open environment, which leads to environment degradation and threaten public health. Fecal sludge collected is not treated as a reusable resource on most occasions, although mixing this waste can be effective to facilitate beneficial use of biosolids for sustainable agriculture due to the lack of standards and technical capacities.
+
+...
+
+[Data](articles/047c84b7.json)
+
+[Extended Data](ext_articles/047c84b7.ext.json)
+
+---
+
+### US tech company ‘SHIELD’ shifts from China to Sri Lanka
+
+*2024-11-04 01:35:00* · [`islandlk`](http://island.lk/us-tech-company-shield-shifts-from-china-to-sri-lanka/) · `en`
+
+Invests $8.5 million in Sri Lanka in a joint venture with AmSafe BridPort
+
+Says their income statement will be more profitable in Sri Lanka
+
+American engineering technology group Transdigm Group has invested $8.5 million in Sri Lanka in a joint venture with locally operating AmSafe BridPort to provideengineering solutions for global aviation services, the Board of Investment (BOI) said last week.
+
+The new investment saw the launch of new factory SHIELD in the western investment zone of Wathupitiwala. With the new investment SHIELD has shifted to Sri Lanka from China, BOI officials said.
+
+The foundation stone for the factory was laid on Thursday (31) in the investment zone.
+
+“SHIELD’s decision to shift its facility in China to establish a manufacturing facility in Sri Lanka is a testament to the growing interest of U.S. investment in Sri Lanka,” U.S. Ambassador Julie Chung said in her remarks before laying the foundation stone to the factory.
+
+...
+
+[Data](articles/c7b25340.json)
+
+[Extended Data](ext_articles/c7b25340.ext.json)
 
 ---
 
@@ -2155,159 +2281,5 @@ Accordingly, the Sri Lankan team is the opponent of the Sri Lankan team in the f
 [Data](articles/df164386.json)
 
 [Extended Data](ext_articles/df164386.ext.json)
-
----
-
-### An Excise Inspector arrested for licenses arrested
-
-*2024-11-03 12:33:20* · [`adalk`](https://www.ada.lk/breaking_news/බලපත්‍ර-නොමැතිව-එතනෝල්-ප්‍රවාහනය-කළ-සුරාබදු-පරීක්ෂකවරයෙක්-අල්ලයි/11-412817) · `si`
-
-Excise Inspector arrested for distributing ethanol spirits without proper license. 135 liters seized in Moneragala. License check reveals discrepancy. Suspect identified as Wasantha Ranasinghe from Ethalese Sugar Company.
-
-🟩
-
-Ethaveli police officers attached to the distribution of Ethanol Spirits in the Ethamale Sugar Company is located on the 19th of the Wellawaya road. Has been arrested near Junction.
-
-The 135 liters of ethanol spirits were found in the Siyambalanduwa area to Moneragala.
-
-The Excise Inspector of the car has shown a license for the police. However, the license has been confirmed that the Excise Inspector General of Excise is issued on those days.
-
-After the post, Etayal Spirits and the suspect, Ethalese Sugar Company's Short Skari, Wasantha Ranasinghe (59) was arrested.
-
-◼️
-
-[Data](articles/7523fe6a.json)
-
-[Extended Data](ext_articles/7523fe6a.ext.json)
-
----
-
-### If Muslims reject identity representation, it is a historical mistake - Rishad Bathiudeen
-
-*2024-11-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197760) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Muslims rejecting identity representation is a historical error. Public trust lies in Anuragumara as an individual, not his team or new MPs. He should fulfill campaign promises based on this faith.
-
-🟩
-
-The public has voted with great confidence and expectation on Anuragumara. People do not put confidence in the team of Anuragumara, or the new members of Parliament. They have great confidence in the individual named Anuragumara. Therefore, on the basis of the confidence of the people, he must act in a little bit of promises.
-
-◼️
-
-[Data](articles/75de03ef.json)
-
-[Extended Data](ext_articles/75de03ef.ext.json)
-
----
-
-### We need to create an environment for solving our problems - Douglas Devananda Chevy
-
-*2024-11-03 12:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197763) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Create problem-solving environment: Douglas Devananda Chevy. President Anura implements 13th Amendment. Suggestions prioritized in two stages. 38 issues addressed for Tamil people's short-term and long-term problems.
-
-🟩
-
-President Anura consulted on the implementation of the 13th Amendment. He has involved in it. We have made our suggestions on the priority of it in two stages. In addition, I have brought 38 issues to the Tamil people's daily and long -term problems.
-
-◼️
-
-[Data](articles/9fd4f4ea.json)
-
-[Extended Data](ext_articles/9fd4f4ea.ext.json)
-
----
-
-### The role of major state institutions in strengthening revenues
-
-*2024-11-03 12:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197759) · `ta`
-
-Major state institutions play crucial roles in enhancing revenue generation and improving tax compliance. Their effectiveness in aligning government objectives contributes significantly to economic stability.
-
-🟩
-
-Government agencies are effective in making objectives in accordance with its creation, but the country can make a huge contribution to the country's improved tax compliance and economic stability.
-
-◼️
-
-[Data](articles/bbe6a45e.json)
-
-[Extended Data](ext_articles/bbe6a45e.ext.json)
-
----
-
-### Israeli soldiers arrested for making special maritime action inside Lebanon - Hesbullah member arrested
-
-*2024-11-03 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197775) · `ta`
-
-Israeli forces arrest Hezbollah member in Lebanon marine operation. Imad Amhaz, naval chief, seized. Incident sparks investigation by Lebanese military.
-
-🟩
-
-The Israeli Special Forces, who have taken a special operation inside Lebanon, have arrested a senior commander of the Hesbullah organization and taken Israel.
-
-The Israeli Special Brigade, who landed in Petron, in the north of Lebanon, has arrested a senior member of the Hesbullah organization and fled the sea.
-
-Israeli soldiers have said that the Senior member of the Hesbullah organization has been arrested and handed over to the Army Intelligence Unit for interrogation.
-
-According to reports, Imad Amhaz, who was responsible for the Naval activities of the Hesbullah organization, was arrested.
-
-Meanwhile, the Lebanese minister has asked the Lebanese army to investigate the incident, saying that the man who abducted Israeli soldiers is a Captine Captain Captain, Lebanon's Minister of Security.
-
-◼️
-
-[Data](articles/03d66d01.json)
-
-[Extended Data](ext_articles/03d66d01.ext.json)
-
----
-
-### We present socialist policy to solve people's issues - Colombo district candidate for the People's Movement
-
-*2024-11-03 12:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197766) · `ta`
-
-Socialist policies aim to address people's issues. Capitalist concepts are adapted to ensure equal respect and economic solutions. The movement promotes socialism as a problem-solving approach based on community needs.
-
-🟩
-
-Capitalist policy is a concept of socialist policy. However, when they go to the people, they demand that they all be respected equally, resolved their economic problems and strengthen their social security structure.
-
-So even though we are a socialist policy, we are presenting our policy on the basis of what they say when they speak to people.. We are promoting socialist policy as a means of solving the problems of the people.
-
-◼️
-
-[Data](articles/9ac7026a.json)
-
-[Extended Data](ext_articles/9ac7026a.ext.json)
-
----
-
-### Lohan Ratwatte transferred to Colombo General Hospital
-
-*2024-11-03 12:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103118/lohan-ratwatte-transferred-to-colombo-general-hospital) · `en`
-
-Former state Minister Lohan Ratwatte who was admitted to the Prison Hospital for treatment has been transferred to the Colombo General Hospital, the spokesman of the Department of Prisons said.
-
-The prisons spokesman said that he was transferred to Colombo General Hospital due to a sudden illness last night (02).
-
-Ratwatte, who was arrested and remanded on charges of using a luxury car illegally imported from abroad and assembled in Sri Lanka, was transferred to the prison hospital on Saturday under the permission granted by the Nugegoda Acting Magistrate.
-
-Ratwatte was arrested by Mirihana Police on October 31 in Katugastota, Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
-
-The car without registered number plates was found on October 26, 2024, according to police.
-
-...
-
-[Data](articles/c54e81ab.json)
-
-[Extended Data](ext_articles/c54e81ab.ext.json)
 
 ---

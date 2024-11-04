@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 14:13:49**
+As of **2024-11-04 14:25:53**
 
 ## Newspaper Stats
 
-*Scraped **52,949** Articles*
+*Scraped **52,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,125 @@ islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,936
+adalk | 4,937
 adaderanalk | 6,299
-tamilmirrorlk | 7,360
+tamilmirrorlk | 7,361
 virakesarilk | 8,548
-adaderanasinhalalk | 9,227
+adaderanasinhalalk | 9,229
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,949 (100.0%) of 52,949 articles have been extended.
+52,953 (100.0%) of 52,953 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Visit the Prime Minister Mannar
+
+*2024-11-04 14:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரதமர்-மன்னாருக்கு-விஜயம்/175-346538) · `ta`
+
+Prime Minister visits Mannar City Hall meeting National People's Power candidates Jaffna District Organizer Ramalingam Chandrasekaran strong security presence
+
+🟩
+
+At the meeting, he attended a meeting held at the Mannar City Hall in support of the candidates of the National People's Power in the Vanni district.
+
+Jaffna District Organizer of the National People's Power (JVP) party Ramalingam Chandrasekaran was present.
+
+Due to the arrival of the Prime Minister, strong security has been strengthened in the Mannar city area and the people who attended the event were produced for heavy raids.
+
+◼️
+
+[Data](articles/dfaa426c.json)
+
+[Extended Data](ext_articles/dfaa426c.ext.json)
+
+---
+
+### Lohan's wife too remanded
+
+*2024-11-04 14:03:07* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්ගේ-බිරිඳත්-රක්ෂිත-බන්ධනාගාර-ගත-කෙරේ/11-412842) · `si`
+
+Lohan's wife Rush Prabhtha Ratwatte remanded Gangodawila court order until July 7th
+
+🟩
+
+Rush Prabhtha Ratwatte has also been remanded for the vehicle of the vehicle.
+
+The Gangodawila court ordered her to be remanded until the 7th of this month.
+
+◼️
+
+[Data](articles/27b64b77.json)
+
+[Extended Data](ext_articles/27b64b77.ext.json)
+
+---
+
+### It is not enough to reduce fees.. An notification under CEB by the Commission
+
+*2024-11-04 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202893) · `si`
+
+Public Utilities Commission rejects Ceylon Electricity Board's fee reduction proposal. CEB must resubmit revised plan by Oct 8. Current tariff cuts insufficient, commission demands more drastic measures.
+
+🟩
+
+The Public Utilities Commission states that the fees submitted by the Ceylon Electricity Board is not sufficient.
+
+Communications Director Jayanath Herath said that the Ceylon Electricity Board has informed the Ceylon Electricity Board to submit a new resolution.
+
+Accordingly, the proposal has been informed to submit to the Commission before the 8th.
+
+On October 24, the Ceylon Electricity Board (CEB) was presented to the Public Utilities Commission.
+
+The Ceylon Electricity Board (CEB) has proposed to decrease electricity tariffs from 4 to 11 percent.
+
+However, some parties have expressed fees that the Ceylon Electricity Board (CEB) has proposed to be reduced to the reduction of the reduction in the last few months.
+
+However, after presenting the new proposal, he said that he would prepare for a form of artine.
+
+◼️
+
+[Data](articles/a77cf368.json)
+
+[Extended Data](ext_articles/a77cf368.ext.json)
+
+---
+
+### Passport Quity Today - Southernine Tokens
+
+*2024-11-04 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202892) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka: New passport token system announced. Minister Vijitha Herath explains online process for existing foreign passports. Long queues persist outside immigration office despite government requests to limit visits. Token system aims to streamline passport issuance.
+
+🟩
+
+Minister Vijitha Herath says that tokens will be implemented in accordance with an online mechanism for the purpose of the existing foreign passports.
+
+Minister Vijitha Herath said that after a function of the Kadaw, he said that he would not be visited in November except an urgent need.
+
+However, the people remained in the long queue in front of the Department of Immigration and Emigration, Battaramulla.
+
+The government requested the public on October 29 to visit the premier for the essential work alone, as the foreign passports were issued limited.
+
+But today the people of the long queues were remained in front of the Department of Immigration and Emigration, Battaramulla.
+
+Tokon releases token to the issuance of tokens for the existing foreign passports.
+
+◼️
+
+[Data](articles/6ea051cc.json)
+
+[Extended Data](ext_articles/6ea051cc.ext.json)
+
+---
 
 ### Karuna-Pillaiyan supporters clash: trio injury
 
@@ -2165,113 +2269,5 @@ Lohan Ratwatte, who was arrested on the 31st of this month, was kept in detentio
 [Data](articles/04a46d69.json)
 
 [Extended Data](ext_articles/04a46d69.ext.json)
-
----
-
-### Dudley Sirisena accused of former agriculture
-
-*2024-11-03 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202869) · `si`
-
-Dudley Sirisena accused of causing rice shortages. Government controls prices but traders claim no shortage exists. President demands weekly paddy/rice stock reports from trade ministry.
-
-🟩
-
-Large scale rice business Dudley Sirisena yesterday (02) was liberated yesterday (02) that the statement made by the rice crisis in the market.. Says Mr. Gunaratne.
-
-He said this today (03), including Dudley Sirisena, five large-scale millsters, including Dudley Sirisena, the rice will be caused by this.
-
-The rice was sold over the market in the past and there was a shortage of rice.
-
-Accordingly, President Anura Kumara Dissanayake summoned the rice producers to the control price, and agreed to sell rice products.
-
-However, traders and consumers allege that the shortage of rice is not yet established in the market.
-
-Meanwhile, the President has passed over a week to promptly submit a data report on paddy and rice.
-
-Ada Derana asked the Ministry of Trade MM. Mr. Nimimudin said the data report on the paddy stocks is still being prepared and it will be made to the President on November 6.
-
-◼️
-
-[Data](articles/6e1f1a93.json)
-
-[Extended Data](ext_articles/6e1f1a93.ext.json)
-
----
-
-### 16 foreign ambassadors summoned back to Sri Lanka
-
-*2024-11-03 19:46:15* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-තානාපතිවරුන්-16ක්-නැවත-ලංකාවට-කැඳවයි/11-412834) · `si`
-
-Here's a 200-character summary:
-
-
-
-Foreign diplomats from Britain, Pakistan, Nepal, Malaysia, Maldives, Indonesia, Cuba, and USA recalled to Sri Lanka. President reviews ambassadorial qualifications.
-
-🟩
-
-16 Foreign Diplomats and High Commissioners have been recalled. The ambassadors and High Commissioners who have been appointed on political affiliations are to be called to Sri Lanka.
-
-The Foreign Ministry Secretary Aruni Wijewardene has been sent back to Sri Lanka. Meanwhile, the President has taken a policy decision to send the qualifications of the public service and the diplomatic officers who are eligible as Ambassadors and Mahacozardens.. At a meeting with the Board of Investment, the President has said to the names of those who qualify.
-
-The ambassadors of British, Pakistan, Nepal, Nepal, Nepal, Nepal, Nepal, Nepal, Malaysia, Malaysia, Malaysia, Malaysia, Malaysia, Maldives, Indonesia, Maldives, Malaysia and Cuba have been brought back this way. This includes the United Youth Resident Agent of New York.
-
-Sri Lankan Ambassador in the United States of America has been informed to stay there for Mahinda Samarasinghe.
-
-◼️
-
-[Data](articles/b59f1a0c.json)
-
-[Extended Data](ext_articles/b59f1a0c.ext.json)
-
----
-
-### JVP. Tamils ​​do nothing - P.Ingaranesan
-
-*2024-11-03 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197822) · `ta`
-
-Here's a 200-character summary:
-
-
-
-JVP opposes Palm Development Council growth. Candidate P.Ingaranesan criticizes JVP's stance. Council aims to improve Tamil livelihoods but faces challenges. Experts suggest promoting palm economy under provincial or central administration.
-
-🟩
-
-The JVP is drunk that will do good for the Tamil people. The JVP, who does not want the growth of the palm development council, is going to find a solution to the Tamil people.. Election district candidate P.Ingaranesan has questioned.
-
-Yall. He said this during a media briefing held at the Media Center on Sunday (03).
-
-When Minister Vijitherath appointed Selvin Ireneus as the Chairman of the Palm Development Board last month, we thought that we were born to the Palm Development Council.. However, within two weeks, his appointment was canceled and a man who was not like the Vedic climbing the trunk has been appointed as the head of the Palm Development Board.
-
-With this appointment change, the growth of the palm development council has been pushed backwards. Some of our people are drinking in mind that the JVP will do good to the Tamil people. The JVP, which does not want the growth of the Palm Development Board, is going to find a solution for the Tamil people.
-
-...
-
-[Data](articles/d832655c.json)
-
-[Extended Data](ext_articles/d832655c.ext.json)
-
----
-
-### Politicians who have been appointed to the diplomaty are recalled - President
-
-*2024-11-03 19:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202868) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake recalls diplomats, calls for unity in upcoming elections, promises salary hikes for public servants and estate workers, and vows to focus on national development.
-
-🟩
-
-President Anura Kumara Dissanayake says he has decided to recall all politicians appointed to the embassy in Sri Lanka.
-
-During a rally held today (03) in Nuwara Eliya, the President added that the majority of all nations and the support of all nations will be needed to make transformation.
-
-"The General Election will be held. What are the people of Nuwara Eliya ...?This Nuwara Eliya General Election is an important district. There was not a politics that produces all the nations. There were Sinhala parties to build Tamil parties to vote for the Tamil people and vote for the Sinhalese. Sinhala and Tamil people in Nuwara Eliya were divided. Everyone represents the first time.
-
-...
-
-[Data](articles/08b1508e.json)
-
-[Extended Data](ext_articles/08b1508e.ext.json)
 
 ---

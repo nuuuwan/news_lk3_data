@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 13:10:22**
+As of **2024-11-04 13:24:22**
 
 ## Newspaper Stats
 
-*Scraped **52,939** Articles*
+*Scraped **52,942** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,933
-adaderanalk | 6,297
-tamilmirrorlk | 7,357
+adalk | 4,934
+adaderanalk | 6,298
+tamilmirrorlk | 7,358
 virakesarilk | 8,548
 adaderanasinhalalk | 9,225
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,939 (100.0%) of 52,939 articles have been extended.
+52,942 (100.0%) of 52,942 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Order to appear in Lohan's wife
+
+*2024-11-04 13:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவியை-ஆஜராகுமாறு-உத்தரவு/175-346535) · `ta`
+
+Lohan Ratwatta's wife summoned over unregistered luxury vehicle. Ordered to appear before Gangodawila Magistrate on 04/03. Case filed under Motor Traffic Act.
+
+🟩
+
+Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that the wife of former minister Lohan Ratwatta, who is alleged to have an unregistered luxury vehicle, has been ordered to appear in the presence of the Gangodawila Magistrate on Monday (04).
+
+◼️
+
+[Data](articles/80d9cc5a.json)
+
+[Extended Data](ext_articles/80d9cc5a.ext.json)
+
+---
 
 ### A statement on Litro gas prices
 
@@ -71,6 +89,26 @@ Accordingly, she had appeared in court today and she was arrested.
 [Data](articles/fe7afc99.json)
 
 [Extended Data](ext_articles/fe7afc99.ext.json)
+
+---
+
+### Former State Minister Lohan Ratwatte’s wife remanded
+
+*2024-11-04 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103146/former-state-minister-lohan-ratwattes-wife-remanded) · `en`
+
+Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte, has been arrested after appearing before the Nugegoda Magistrate’s Court as per a court order, over the incident an unregistered car found at her house in the Mirihana area of Nugegoda.
+
+Subsequently, the Nugegoda Magistrate has ordered her to be remanded in custody until 07 November, Ada Derana reporter said.
+
+Former state Minister Lohan Ratwatte was arrested by Mirihana Police on October 31 in Katugastota, Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
+
+The car without registered number plates was found on October 26, 2024, according to police.
+
+...
+
+[Data](articles/918c514e.json)
+
+[Extended Data](ext_articles/918c514e.ext.json)
 
 ---
 
@@ -175,6 +213,24 @@ He is a postgraduate in Customs Law and Management from University of Sri Jayawa
 [Data](articles/9285f4cb.json)
 
 [Extended Data](ext_articles/9285f4cb.ext.json)
+
+---
+
+### Election be untilHere is the decision of the Supreme Court
+
+*2024-11-04 11:54:26* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණය-කල්-යයිද---ශ්‍රේෂ්ඨාධිකරණය-දැන්-දුන්න-තීරණය-මෙන්න/11-412839) · `si`
+
+Supreme Court denies hearing election case without examining constitutional claims. Decision set for November 14th.
+
+🟩
+
+The Supreme Court has made the petition not to be heard without examining the claim that the Constitution is to be determined to be held on November 14th.
+
+◼️
+
+[Data](articles/69b8359a.json)
+
+[Extended Data](ext_articles/69b8359a.ext.json)
 
 ---
 
@@ -2221,65 +2277,5 @@ The winner of the seven swing states, which are almost equal to the Republican P
 [Data](articles/bc1b038e.json)
 
 [Extended Data](ext_articles/bc1b038e.ext.json)
-
----
-
-### Private sector unhappy with govt’s management of tourism fund – industry expert
-
-*2024-11-03 19:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103126/private-sector-unhappy-with-govts-management-of-tourism-fund-industry-expert) · `en`
-
-The Chairperson and Managing Director of Jetwing Travels Shiromal Cooray expressed that the private sector within the tourism industry is dissatisfied with the government’s management of a fund contributed by private entities for the industry’s development.
-
-Joining Ada Derana’s current affairs program, ‘At HydePark’, she suggested that the fund could be better utilized and could be used to hire a public relations agent to promote the industry globally and effectively manage information that could affect tourism.
-
-When asked about the status of Small and Medium Enterprises (SMEs) within the industry, Cooray stated that SMEs should prioritize creating business plans and developing financial management skills to build resilience against crises in the sector.
-
-...
-
-[Data](articles/0407861d.json)
-
-[Extended Data](ext_articles/0407861d.ext.json)
-
----
-
-### Professor Chandima Wijebandara passed away
-
-*2024-11-03 18:54:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-சந்திம-விஜேபண்டார-காலமானார்/175-346504) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Renowned Professor Chandima Wijebandara, a distinguished academic and researcher, has sadly passed away. His contributions to [specific field] were groundbreaking, inspiring generations of scholars. The academic community mourns his loss, celebrating his legacy and impact on [related areas].
-
-🟩
-
-◼️
-
-[Data](articles/e47ad581.json)
-
-[Extended Data](ext_articles/e47ad581.ext.json)
-
----
-
-### Sri Lanka’s Lawyers Collective concerned over attempts to retain anti-terror law
-
-*2024-11-03 18:37:00* · [`economynextcom`](https://economynext.com/sri-lankas-lawyers-collective-concerned-over-attempts-to-retain-anti-terror-law-185971/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Lawyers Collective, has expressed concern that recent statements seem to indicate that the new administration may continue with the Prevention of Terrorism Act, which the grouping says led to arbitrary detentions and torture of suspects.
-
-“The Lawyers’ Collective expresses its grave concern regarding statements indicating that the PTA will be retained,” the group said in a statement.
-
-“The PTA, enacted in 1979, is well known as a draconian piece of legislation with broad emergency-like executive powers, but enacted for use in ordinary times as well.
-
-“The provisions and scheme of the PTA fail to protect fundamental rights such as freedom from arbitrary arrest, freedom from torture and freedom of expression.
-
-“The PTA, as implemented by successive governments since its enactment, has caused unmeasurable human suffering in the form of torture, long-term detentions and instilling fear in minorities and those critiquing the government.
-
-...
-
-[Data](articles/ab63241d.json)
-
-[Extended Data](ext_articles/ab63241d.ext.json)
 
 ---

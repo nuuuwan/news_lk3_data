@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 01:40:31**
+As of **2024-11-05 01:59:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,045 (100.0%) of 53,053 articles have been extended.
+53,049 (100.0%) of 53,053 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,6 +100,8 @@ The theme of the conference is “Catalysing a Progressive Future: Towards Socie
 
 [Data](articles/d9ae31db.json)
 
+[Extended Data](ext_articles/d9ae31db.ext.json)
+
 ---
 
 ### NCCSL workshop on “Market Research Insights and Analytics for Business Competitiveness” on Thursday
@@ -113,6 +115,8 @@ It will empower participants with vital market research skills, helping them und
 ...
 
 [Data](articles/5c0d8594.json)
+
+[Extended Data](ext_articles/5c0d8594.ext.json)
 
 ---
 
@@ -131,6 +135,8 @@ MAC Holdings Ltd. Managing Director Andre Fernando and Meridian Maritime Service
 ...
 
 [Data](articles/650e43a9.json)
+
+[Extended Data](ext_articles/650e43a9.ext.json)
 
 ---
 
@@ -153,6 +159,8 @@ The Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva has strongly 
 ...
 
 [Data](articles/695a8a2a.json)
+
+[Extended Data](ext_articles/695a8a2a.ext.json)
 
 ---
 

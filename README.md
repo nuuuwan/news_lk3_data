@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 08:04:24**
+As of **2024-11-04 08:26:30**
 
 ## Newspaper Stats
 
-*Scraped **52,886** Articles*
+*Scraped **52,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,71 @@ adalk | 4,927
 adaderanalk | 6,283
 tamilmirrorlk | 7,344
 virakesarilk | 8,546
-adaderanasinhalalk | 9,212
+adaderanasinhalalk | 9,214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,886 (100.0%) of 52,886 articles have been extended.
+52,888 (100.0%) of 52,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### The danger of surviving the 14-year-old student
+
+*2024-11-04 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202876) · `si`
+
+Boy killed in tractor accident near Galkiriyagama. 14-year-old Nanwaththambatgama died after being run over. Driver arrested, police investigating.
+
+🟩
+
+A boy has died in a criminal accident that a firewood tractor running out of the Driver to Cauffavlagala Junction, Galkiriyagama Junction, Galkamalagala Junction.
+
+The child had passed the tractor at the front of the front.
+
+The child who was seriously injured have been admitted to the Kabawawe Hospital.
+
+The deceased has been identified as 14 year old Nanwathtambatgama, Nanwathumwala.
+
+The tractor driver has been arrested in connection with the accident and the Galkiriyagama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/025207bd.json)
+
+[Extended Data](ext_articles/025207bd.ext.json)
+
+---
+
+### Today is the third day of postal voting in general election
+
+*2024-11-04 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202875) · `si`
+
+Third day of postal voting begins in general election. EPL clarifies rules: one vote per voter, mark preferred candidate clearly. Forged votes if multiple parties/groups chosen. Election commission emphasizes proper ballot usage.
+
+🟩
+
+The third day of postal voting on the general election is today (04).
+
+Accordingly, the Elections Commission (EPL) said that elections in the Armed Forces and all other state institutions in the Armed Forces and all other state institutions in the Armed Forces and all other state institutions.
+
+Elections Commissioner General Saman Sri Ratnayake said that the postal voting of the district where the postal voting could not be marked further.
+
+Meanwhile, the Elections Commission has issued an announcement to clarify the voter turnout and preferential marking.
+
+According to such a voter, one voter is one vote and can be given to a recognized political party or independent group.
+
+The political party or the sign of the vote should be applied in the front or sign of independent group or the sign in the headcolor.
+
+...
+
+[Data](articles/042cc79b.json)
+
+[Extended Data](ext_articles/042cc79b.ext.json)
+
+---
 
 ### 8 suspects arrested for murder of Midamigama
 
@@ -2233,51 +2287,5 @@ A 24 -year -old university student who is educated at the Kotalawala Security Un
 [Data](articles/2c8d8739.json)
 
 [Extended Data](ext_articles/2c8d8739.ext.json)
-
----
-
-### Lanka Sathosa reduced prices
-
-*2024-11-03 12:52:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலைகளை-குறைத்தது-லங்கா-சதொச/175-346484) · `ta`
-
-Sri Lanka Sathosa reduces prices: Greenhouse (Rs. 799/kg), White Gaub (Rs. 20/kg), Large Onions (Rs. 300/kg) for public relief.
-
-🟩
-
-Sri Lanka Sathosa has said that some of the essential commodities sold have been reduced to provide relief to the people.
-
-According to Sathosa, the price of a kilogram of greenhouse has been reduced from 850 rupees to 799 rupees, a kilogram of white gaub 20 rupees from Rs.
-
-He said that all the Sathosa shops can be purchased by one kilogram of large onions for 300 rupees.
-
-◼️
-
-[Data](articles/1cb870c5.json)
-
-[Extended Data](ext_articles/1cb870c5.ext.json)
-
----
-
-### Former State Minister to the Colombo National Hospital
-
-*2024-11-03 12:44:24* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-රාජ්‍ය-අමාත්‍ය-ලොහන්-කොළඹ-ජාතික-රෝහලට/11-412818) · `si`
-
-Former State Minister Lohan Ratwatte hospitalized after arrest. Remanded until July 7. Admitted to Colombo National Hospital for medical treatment.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was taken into custody, has been admitted to the Colombo National Hospital for the use of a luxury car.
-
-According to the sources, the former minister is receiving treatment at the center of the security of the prison officials.
-
-On the 31st, he was arrested and remanded until the 7th of this month.
-
-He was admitted to the Prison Hospital due to an emergency illness while he was in the prison last night.
-
-◼️
-
-[Data](articles/86b4b7c6.json)
-
-[Extended Data](ext_articles/86b4b7c6.ext.json)
 
 ---

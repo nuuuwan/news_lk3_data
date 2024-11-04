@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 03:58:40**
+As of **2024-11-05 04:10:09**
 
 ## Newspaper Stats
 
-*Scraped **53,059** Articles*
+*Scraped **53,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,23 +18,39 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,378
-virakesarilk | 8,568
+tamilmirrorlk | 7,379
+virakesarilk | 8,569
 adaderanasinhalalk | 9,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,059 (100.0%) of 53,059 articles have been extended.
+53,060 (100.0%) of 53,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
+### இராமநாதன் இந்து மகளிர் கல்லூரி பழைய மாணவியர் சங்க வருடாந்த பொதுக்கூட்டம் 2024
+
+*2024-11-05 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197907) · `ta`
+
+பம்பலப் பிட்டி இராமநாதன் இந்து மகளிர் கல்லூரியின் பழைய மாணவியர் சங்கத்தின் வருடாந்த பொதுக்கூட்டம் 2024 நவம்பர் மாதம் 24 ஆம் தேதி ஞாயிற்றுக்கிழமை  மாலை 4 மணிக்கு மருதானை டி.ஆர் விஜயவர்தன மாவத்தை (மெக்கல்லம் வீதி) இலக்கம் 335A இல் அமைந்துள்ள "நொம் நொம் தாய்" ரெஸ்டாரண்டில் நடைபெற உள்ளது.
+
+வருடாந்த பொதுக்கூட்டத்தை தொடர்ந்து பழைய மாணவியரின் ஒன்று கூடல் விருந்து பசாரமும் ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+அனைத்து பழைய மாணவியர்களும் தவறாது சமுகமளிக்குமாறு கேட்டுக் கொள்ளப்படுகிறார்கள். பொதுக்கூட்டம் மற்றும் விருந்துபசாரம் பற்றிய மேலதிக விபரங்களுக்கு செயலாளர் 0772920470 என்ற இலக்கத்திற்கு அழைப்பை ஏற்படுத்தவும்.
+
+◼️
+
+[Data](articles/251f9ff9.json)
+
+---
+
 ### Guns have been found in Embilipitiya
 
-*2024-11-05 02:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197906) · `ta`
+*2024-11-05 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197906) · `ta`
 
 Arrest made in Embilipitiya: STF finds AK 47, pistols, bullets, sword, knife. Suspect detained for weapon possession.
 
@@ -49,6 +65,30 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### Trying to silence like the LTTE
+
+*2024-11-05 01:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதலைப்-புலிகளைப்போல்-மௌனிக்கச்செய்ய-முயற்சி/175-346572) · `ta`
+
+Sri Lankan government accused of silencing Tamil rights movement. Candidate Durairasa Ravikaran calls for justice against war criminals and restoration of Tamil land rights. Thirteenth constitutional amendment criticized as ineffective solution. India's influence questioned in resolving Tamil issues.
+
+🟩
+
+The Sri Lankan government is working with the Sri Lankan government's Vanni district parliamentary candidate, Durairasa Ravikaran, said that the Sri Lankan government is working with the silence of the Tamil people who are now fighting for the rights of the Tamil people to silence the Liberation Tigers of Tamil Eelam (LTTE).
+
+He also stressed that the land and police authority are the fundamental right of the Tamil people, and that the war criminals are needed and legal action against them.
+
+Ravikaran said this while participating in the campaign meeting of the Sri Lanka Tamil National Party held in Mullaitivu - Pudukkudiyiruppu.
+
+National Leader Velupillai Prabhakaran does not accept the thirteenth reform of the Constitution. After the silence of the war, the Tamil political leaders accepted the thirteenth amendment of the Constitution by many abroad pressure.
+
+...
+
+[Data](articles/a4fab442.json)
+
+[Extended Data](ext_articles/a4fab442.ext.json)
 
 ---
 
@@ -2229,51 +2269,5 @@ Despite this, several parties have voiced concerns, arguing that the proposed re
 [Data](articles/adb6241b.json)
 
 [Extended Data](ext_articles/adb6241b.ext.json)
-
----
-
-### Laugfs gas prices to remain unchanged
-
-*2024-11-04 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103148/laugfs-gas-prices-to-remain-unchanged) · `en`
-
-Laugfs Gas PLC announced that the company will not revise domestic LP gas prices for the month of November.
-
-Accordingly, the current prices of Laugfs domestic LP gas cylinders are as follows;
-
-Meanwhile, the Litro Gas Company had also announced that the prices of domestic LP Gas will remain unchanged for the month of November 2024.
-
-Issuing an announcement, Litro chairman Channa Gunawardena said that despite the rising LP gas prices in the global market, a decision was taken not to increase the prices of Litro gas in order to provide relief to the consumers.
-
-◼️
-
-[Data](articles/1a5d2fc0.json)
-
-[Extended Data](ext_articles/1a5d2fc0.ext.json)
-
----
-
-### Who is the next US President?
-
-*2024-11-04 14:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அடுத்த-அமெரிக்க-ஜனாதிபதி-யார்/50-346540) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US presidential election 2024: Democrat Kamala Harris vs Republican Donald Trump. Polls show close race, with Harris leading 47.9% to Trump's 46.8%. Electoral College system may determine winner. Key issues: abortion rights, immigration, racial demographics. Outcome uncertain, decision expected soon.
-
-🟩
-
-The US presidential election is to be held on Tuesday (05). Okay half -voters have already voted. Get the ballot and vote at home or by mail. Voting in booths and ballot boxes installed in public places. There is no Election Commission in the United States. Provincial governments are holding elections. There will be a change in these instructions in each province. But everyone will vote directly to the presidential candidate.
-
-Democrat candidate Kamala Harris will receive 47.9 votes, according to a poll on November 1 on the website '538';Republican candidate Donald Trump will receive 46.8 votes. That is. Those sites suggest that the predictions are 3% of the forecast. These are called popular vote.
-
-One cannot give one president because it receives additional votes. In 2016 Hillary Clinton received 28 lakh votes than Donald Trump. In 2000. But both of them could not be president. Why?They did not get enough votes in the electoral college.
-
-...
-
-[Data](articles/b71dc068.json)
-
-[Extended Data](ext_articles/b71dc068.ext.json)
 
 ---

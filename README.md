@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 22:25:49**
+As of **2024-11-04 22:41:01**
 
 ## Newspaper Stats
 
-*Scraped **53,030** Articles*
+*Scraped **53,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,312
-tamilmirrorlk | 7,372
+tamilmirrorlk | 7,373
 virakesarilk | 8,562
 adaderanasinhalalk | 9,247
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,030 (100.0%) of 53,030 articles have been extended.
+53,031 (100.0%) of 53,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Invitation to Janaka Ratnayake and his wife
+
+*2024-11-04 22:16:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனக-ரத்நாயக்க-மற்றும்-அவரது-மனைவிக்கு-அழைப்பாணை/175-346566) · `ta`
+
+Sri Lanka: Janaka Ratnayake, former Chairman Public Utilities Commission, and wife ordered court appearance Dec 10 over unpaid tax case involving Rs 36 lakhs 97 thousand rupees.
+
+🟩
+
+Colombo Additional Magistrate Bandara Sri Lanka today (04) ordered the former Chairman of the Sri Lanka Public Utilities Commission, Janaka Ratnayake and his wife to appear before the court on December 10.
+
+The order was issued when two cases filed against Janaka Ratnayake and his wife HL Kumari de Silva were taken up by the Internal Revenue Department in the case of a computer service company and failed to pay Rs 36 lakhs 97 thousand rupees to the government.. Remble
+
+◼️
+
+[Data](articles/977e4ace.json)
+
+[Extended Data](ext_articles/977e4ace.ext.json)
+
+---
 
 ### Sashenics for Janaka Ratnayake who did not pay off 3 crores
 
@@ -2325,29 +2345,5 @@ The Attorney General and the Presidential Secretary and the Attorney General of 
 [Data](articles/0e124194.json)
 
 [Extended Data](ext_articles/0e124194.ext.json)
-
----
-
-### Athawaoty poles go home at Jayawardenapura Hospital
-
-*2024-11-04 11:42:26* · [`adalk`](https://www.ada.lk/breaking_news/ජයවර්ධනපුර-රෝහලට--රුපියල්-දෙකෝටියක-පොලු-තියා-ලෙඩ්ඩු-ගෙදර-ගිහින්/11-412838) · `si`
-
-National Audit Office report: Unpaid hospital bills range from Rs 360 to Rs 2.04 million. Audit recommends recovering unpaid fees. Hospital management instructed to sign legal documents and take legal action against defaulters.
-
-🟩
-
-The National Audit Office reveals that the National Audit Office has issued a sum of Rs.
-
-The bills that were not paid at the end of the last year have ranged the value of the value from Rs 360 to Rs 2.04 million.
-
-The audit was recommended that the audit was not explained to the audit and the fees should be taken to recover these fares.
-
-The management of the hospital has been informed to the hospital police to sign a legal document and will inform the hospital police to take legal action to legal legal action.
-
-◼️
-
-[Data](articles/15473d66.json)
-
-[Extended Data](ext_articles/15473d66.ext.json)
 
 ---

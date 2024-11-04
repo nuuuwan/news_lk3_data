@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 17:41:53**
+As of **2024-11-04 18:21:16**
 
 ## Newspaper Stats
 
-*Scraped **52,989** Articles*
+*Scraped **52,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,139 @@ newsfirstlk | 363
 dbsjeyarajcom | 416
 colombotelegraphcom | 540
 bbccomsinhala | 543
-islandlk | 3,166
+islandlk | 3,169
 economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,943
-adaderanalk | 6,307
-tamilmirrorlk | 7,364
+adalk | 4,944
+adaderanalk | 6,308
+tamilmirrorlk | 7,365
 virakesarilk | 8,555
-adaderanasinhalalk | 9,237
+adaderanasinhalalk | 9,240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,987 (100.0%) of 52,989 articles have been extended.
+52,997 (100.0%) of 52,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### ප්‍රදේශ කිහිපයකට නායයෑම් අනතුරු ඇඟවීම් නිකුත් කෙරේ
+
+*2024-11-04 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202904) · `si`
+
+National Building Research Organization issues warning notices for several districts due to potential disasters. Affected areas include Kegalle, Rathnapura, and others. Residents advised to remain vigilant.
+
+🟩
+
+ප්‍රදේශ කිහිපයකට පූර්ව නායයෑමේ අනතුරු ඇඟවීම් නිවේදනයක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+එම සංවිධානය පැවසුවේ අද (04) පස්වරු 4.00 සිට හෙට පස්වරු 4.00 දක්වා අදාළ අනතුරු ඇඟවීමේ නිවේදනය ක්‍රියාත්මක බවය.
+
+ඒ අනුව කෑගල්ල දිස්ත්‍රික්කයේ කෑගල්ල, දෙහිඹ්විට, ⁠මාවනැල්ල, බුලත්කොහුපිටිය, රත්නපුර දිස්ත්‍රික්කයේ ඇහැලියගොඩ, ⁠කුරුවිට,⁠ රත්නපුර යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත 'අවදානයෙන් සිටින්න' යන නිවේදනය නිකුත් කර තිබේ.
+
+එමෙන්ම බදුල්ල දිස්ත්‍රික්කයේ වැලිමඩ, හල්දුම්මුල්ල, ගාල්ල දිස්ත්‍රික්කයේ ඇල්පිටිය, කළුතර දිස්ත්‍රික්කයේ බුලත්සිංහල, මහනුවර දිස්ත්‍රික්කයේ උඩපලාත, ⁠යටිනුවර, කෑගල්ල දිස්ත්‍රික්කයේ වරකපොල, ⁠යටියන්තොට,  කුරුණෑගල දිස්ත්‍රික්කයේ, පොල්ගහවෙල, මාතර දිස්ත්‍රික්කයේ කොටපොල, ⁠අකුරැස්ස, ⁠පස්ගොඩ, රත්නපුර දිස්ත්‍රික්කයේ නිවිතිගල, ⁠අයගම, ⁠බලංගොඩ, ⁠ඉඹුල්පෙ, ⁠ඕපනායක, ⁠කිරිඇල්ල, ⁠කලවාන, ⁠කහවත්ත, ⁠ඇලපාත, ⁠⁠ගොඩකවෙල, ⁠පැල්මඩුල්ල යන ප්‍රාදේශ ලේකම් කොට්ඨාස සඳහා 'විමසිලිමත් වන්න' යන නිවේදනයත් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/f4bb877b.json)
+
+[Extended Data](ext_articles/f4bb877b.ext.json)
+
+---
+
+### කලා ඔය ආශ්‍රිත පහත් බිම්වල පදිංචි අයට අනතුරු ඇඟවීමක්
+
+*2024-11-04 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202903) · `si`
+
+Rajanganaya reservoir: Two sluice gates opened 3 feet. Residents near low-lying areas advised to stay alert. More spill gates to open at night if heavy rains occur.
+
+🟩
+
+Two sluice gates of the Rajanganaya reservoir have been opened for three feet.
+
+එබැවින් කලා ඔය ආශ්‍රිත පහත් බිම්වල පදිංචි අය අවධානයෙන් සිටිය යුතු බව රාජාංගන වාරි ඉංජිනේරුවරයා පැවසීය.
+
+He added that more spill gates would be opened at night if heavy rains were received in the latext.
+
+◼️
+
+[Data](articles/1d82bdb2.json)
+
+[Extended Data](ext_articles/1d82bdb2.ext.json)
+
+---
+
+### India's bus topples into a terrible precipice
+
+*2024-11-04 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202902) · `si`
+
+Bus crash kills 36 in Himalayas. Poor roads blamed. PM expresses regret. Authorities offer aid.
+
+🟩
+
+There are 36 passengers killed by a bus in the Himalayan Mountains and 36 passengers were killed.
+
+These accidents are common due to poor roads in the Himalaya Zone.
+
+Meanwhile, Indian Prime Minister Narendra Moody has said that his regret has been declared and injured in the accident and injured.
+
+The authorities have decided to provide Indian rupees Rs.
+
+◼️
+
+[Data](articles/ab7bd952.json)
+
+[Extended Data](ext_articles/ab7bd952.ext.json)
+
+---
+
+### “Don't be unlimited 5/6 majority”
+
+*2024-11-04 17:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரம்பற்ற-5-6-பெரும்பான்மை-வேண்டாம்/175-346544) · `ta`
+
+National People's Power opposes unlimited 5/6 majority, seeks strong parliamentary majority for governance without opposition obstruction.
+
+🟩
+
+National People's Power Member Dilvin Silva has said that the national people's power does not expect unlimited power in the five -fifth (5/6) majority in Parliament to deactivate the opposition.
+
+He said at a press conference held in Colombo on Monday (04) that the national people's power is expecting only a majority in parliament to run the government without any hindrance.
+
+Responding to a question raised by National People's Power Leader Anura Kumara Dissanayake, Silva said that the National People's Power is still in the same opinion.
+
+“We don't need to use power like a 5/6 majority that deactivates the opposition. But, to run the government, a strong majority in parliament. The government should pass laws and amend the laws. We need a strong majority. ”
+
+◼️
+
+[Data](articles/885c2a35.json)
+
+[Extended Data](ext_articles/885c2a35.ext.json)
+
+---
+
+### Sri Lanka scraps CEB privatization plan
+
+*2024-11-04 17:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103157/sri-lanka-scraps-ceb-privatization-plan) · `en`
+
+The Board of Directors of the Ceylon Electricity Board (CEB) has officially shelved its privatization plans, opting instead to prioritize comprehensive restructuring aimed at boosting efficiency and service quality.
+
+In a statement, the CEB announced that this decision was reached following a meeting held between the Chairman and the Board of Directors on October 23.
+
+Accordingly, the newly outlined restructuring framework will target key organizational reforms to enhance customer satisfaction, improve service standards, achieve sustainable profitability, support social and economic development and improve working conditions for employees.
+
+Additionally, it has also been decided to amend the Sri Lanka Electricity Act and ensure government ownership of all power plants, as well as the transmission and distribution networks without privatization.
+
+...
+
+[Data](articles/2848526a.json)
+
+[Extended Data](ext_articles/2848526a.ext.json)
+
+---
 
 ### Providing Rs.
 
@@ -157,6 +271,30 @@ However, for critical circumstances, applicants can present verified documents t
 [Data](articles/a09d72b0.json)
 
 [Extended Data](ext_articles/a09d72b0.ext.json)
+
+---
+
+### Pakistan defeated by 2 wickets in the first ODI
+
+*2024-11-04 16:32:32* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියාව-හමුවේ-පළමු-එක්දින-තරගයෙන්-පාකිස්තානයට-කඩුලු-2ක-පරාජයක්/9-412847) · `si`
+
+Pakistan lost to Australia in the first ODI by 2 wickets. Australia scored 204 runs in 33 overs after Pakistan made 203 runs in 46 overs. Despite Pakistan's efforts, Australia secured victory.
+
+🟩
+
+Australia won the first one-day match against the Tourism Pakistan.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවාර 46 පන්දු 4ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 203ක් රැස් කළේය.
+
+ඒ අනුව පිළිතුරු ඉනිම ක්‍රීඩා කළ ඕස්ට්‍රේලියානු කණ්ඩායම පන්දුවාර 33යි පන්දු 3ක් අවසානයේ කඩුලු 8ක් දැවී ලකුණු 204ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
+
+The Pakistan won great efforts to prevent Australian victory and however, however, the Australian leader Pat Kumins' was failed.
+
+◼️
+
+[Data](articles/8c2b69a1.json)
+
+[Extended Data](ext_articles/8c2b69a1.ext.json)
 
 ---
 
@@ -486,6 +624,22 @@ Accordingly, any person can reserve a date through this site anywhere. According
 
 ---
 
+### WHAT IS WRONG WITH US?
+
+*2024-11-04 15:26:00* · [`islandlk`](http://island.lk/what-is-wrong-with-us/) · `en`
+
+We are convinced (or conditioned to believe,) that we are an under-developed country and are destined to ever remain so. Should it really be such? Importantly, what should we do to erase this patronizing and degrading label? This mental complex has led us to be a cynical, despondent people. The past seven decades of Independence have driven us into the depths of despair. The worst part of this is that we have so driven our thoughts, to make this fear to become our reality.
+
+We have failed to utilize our potential – be it in climate, human resources or other “development criteria”. This clearly needs to change. Perhaps, we are not the cat’s whiskers, nor certainly are we everybody’s chronic “dog’s body”.
+
+...
+
+[Data](articles/0a5faa17.json)
+
+[Extended Data](ext_articles/0a5faa17.ext.json)
+
+---
+
 ### 12-hour water cut in several areas tomorrow
 
 *2024-11-04 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103151/12-hour-water-cut-in-several-areas-tomorrow) · `en`
@@ -501,6 +655,40 @@ The NWSDB has requested people residing in the aforementioned areas to take the 
 [Data](articles/ea59e0e9.json)
 
 [Extended Data](ext_articles/ea59e0e9.ext.json)
+
+---
+
+### AFTERMATH OF THE 1953 HARTAL
+
+*2024-11-04 15:18:00* · [`islandlk`](http://island.lk/aftermath-of-the-1953-hartal/) · `en`
+
+Motion of No Confidence in Government (Hansard of 1st September 1, 1953)
+
+(Speech made by Dr. NM Perera published in his birth centenary memorial volume)
+
+Dr. Perera:Before I deal with the subject, I want to say a word about the Hon. Prime Minister and his references to my good friend the Leader of the Opposition (Mr. Bandaranaike). My friend the Prime Minister is not here. I hope that he has not had a recurrence of his affliction. Today while he was on the first part of his speech, he reminded me of the father; it was the same technique, the same type of personal attack on the Leader of the Opposition. I remember the last motion of No Confidence that we debated. I think it was moved just before the dissolution of Parliament, and it was one of the last debates which was attended by my good friend, the late Rt. Hon. D.S. Senanayake. He spoke in that debate and it was a tirade against my good friend the Leader of the Opposition.
+
+...
+
+[Data](articles/67c660e6.json)
+
+[Extended Data](ext_articles/67c660e6.ext.json)
+
+---
+
+### Indo-Sri Lanka Agreement-1987 as JR Jayewardene saw it
+
+*2024-11-04 15:14:00* · [`islandlk`](http://island.lk/indo-sri-lanka-greement-1987-as-jr-jayewardene-saw-it/) · `en`
+
+“A few days later, at a public lunch, when I was congratulated on my escape by a speaker in these words, “Blessed are the Peace-makers for they shall soon be in Heaven,” I replied, “Rajiv missed Heaven by a few inches, and I missed it by a few seconds!”
+
+The Indo-Sri Lanka Agreement of 1987 was signed by Prime Minister Rajiv Gandhi and myself as President on July 29, 1987. It was a Peace Treaty and brought Peace, till one group of the LTTE broke it in October 1987. India then had to oppose them till March 1990, when the Sri Lanka Government took over and this led to a bloody war with the LTTE which still continues (when this was written).
+
+...
+
+[Data](articles/15c4dad6.json)
+
+[Extended Data](ext_articles/15c4dad6.ext.json)
 
 ---
 
@@ -540,6 +728,38 @@ If Donald Trump is again president, it is difficult for Ukraine to continue the 
 
 ---
 
+### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
+
+*2024-11-04 15:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
+
+Democracy under threat, as Trump sows doubt on election integrity
+
+President Ronald Reagan, “The Great Communicator” was famous for conceptualizing the American Dream, in a loose paraphrasing of the words enshrined in the Statue of Liberty.
+
+Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shining City all my political life….But in my mind, it was a tall, proud city built on rocks, stronger than oceans, wind-swept, God blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and heart to get here. That’s how I saw it, and see it still.
+
+...
+
+[Data](articles/91ee4331.json)
+
+[Extended Data](ext_articles/91ee4331.ext.json)
+
+---
+
+### The NPP: A Month in Power
+
+*2024-11-04 15:03:00* · [`islandlk`](http://island.lk/the-npp-a-month-in-power/) · `en`
+
+It has been a month since Anura Kumara Dissanayake assumed the presidency, a month since the NPP claimed its place in history as the first party from outside of the political establishment to win a presidential election in Sri Lanka. Two weeks from now, the NPP will face another election, this time parliamentary. Depending on the results it gets, we will know whether the people approve of the NPP’s actions over the last four weeks and if they want it to continue. The NPP’s call for a powerful government is, in itself, not alarming: no government can survive without a majority in parliament. Yet it will need to convince Sri Lankans that it is the party they need – the party not of power, but of change.
+
+...
+
+[Data](articles/13add880.json)
+
+[Extended Data](ext_articles/13add880.ext.json)
+
+---
+
 ### A group of accused associated with the clash at Magazine Prison
 
 *2024-11-04 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202894) · `si`
@@ -561,6 +781,38 @@ In addition, the judge has ordered each accused to pay Rs. 122,000 each for over
 [Data](articles/616ea032.json)
 
 [Extended Data](ext_articles/616ea032.ext.json)
+
+---
+
+### Abrogation of the B-C Pact and what followed
+
+*2024-11-04 14:55:00* · [`islandlk`](http://island.lk/abrogation-of-the-b-c-pact-and-what-followed/) · `en`
+
+(Excerpted from Render Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
+
+Yet, as was to happen over and over again in the country’s politics, the vocal minority, in this case the hardliners finally won the day (in getting SWRD to abrogate the B-C Pact). In October 1957 the UNP under the leadership of J R Jayewardene set out on a march from Colombo to Kandy to protest against the pact. On the first day they covered 11 miles amidst some obstruction and skirmishes with government sponsored elements.
+
+...
+
+[Data](articles/b4fce6f5.json)
+
+[Extended Data](ext_articles/b4fce6f5.ext.json)
+
+---
+
+### Between Diplomacy and Dissent: Reflections on an Intellectual Rebel
+
+*2024-11-04 14:53:00* · [`islandlk`](http://island.lk/between-diplomacy-and-dissent-reflections-on-an-intellectual-rebel/) · `en`
+
+[Foreword excerpted from ‘Interventions: Selected Political Writings’, by Dayan Jayatilleka]
+
+‘The only way to deal with an unfree world is to become so free, that your very existence is an act of rebellion.’– Albert Camus
+
+It is with great honor and profound admiration that I write this foreword for Interventions, the most recent publication of my mentor and friend, Dr. Dayan Jayatilleka. As is often the case with Dr. Jayatilleka’s literacy works (one would even say ‘always’ the case), this anthology compels the reader to engage in an intellectual gymnastic that pushes the boundaries of conventional thinking -an exercise that he, himself, has excelled in since a very young age.
+
+...
+
+[Data](articles/e56c3100.json)
 
 ---
 
@@ -1350,6 +1602,8 @@ The following were appointed as directors to the Board of Sri Lanka Telecom PLC 
 
 [Data](articles/e75d79cb.json)
 
+[Extended Data](ext_articles/e75d79cb.ext.json)
+
 ---
 
 ### Case against Diana gives the hearing
@@ -1536,31 +1790,43 @@ The body was taken to the Peradeniya Teaching Hospital for autopsy and the open 
 
 ---
 
-### ආගමික ස්ථානවල ආරක්ෂාව ඉවත් කරලා ද?
+### Is it removed from religious places?
 
 *2024-11-04 10:37:24* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c206nkr2wyro) · `si`
 
-ශ්‍රී ලංකාවේ ආගමික ස්ථානවලට යොදවා ඇති ආරක්ෂාව සම්බන්ධයෙන් කතාබහක් නිර්මාණය වී තිබේ.
+Here's a 200-character summary:
 
-ඒ, ආගමික ස්ථානවලට යොදවා තිබූ ආරක්ෂාව අඩු කර ඇති බවට සමාජ මාධ්‍ය ඔස්සේ අදහස් පළ වීමත් සමග ය.
 
-මේ සම්බන්ධයෙන් දැනුවත් කිරීම සඳහා ශ්‍රී ලංකා යුද්ධ හමුදාවේ මාධ්‍ය ඒකකය ඉරිදා (නොවැ: 03) පස්වරුවේ හදිසි ප්‍රවෘත්ති සාකච්ඡාවක් ද කැඳවා තිබිණි.
 
-එහිදී, හමුදා ප්‍රකාශක මේජර් ජෙනරාල් රසික කුමාර ප්‍රකාශ කළේ, ආගමික ස්ථානවලට දී ඇති ආරක්ෂාව ඉවත් කර ඇතැයි පළ කර ඇති ප්‍රකාශ සාවද්‍ය ඒවා බව ය.
+Security measures for religious sites in Sri Lanka unchanged. Military protects 89 Buddhist temples with 1,584 soldiers. Security provided during religious events like Easter. No plans to reduce overall security.
 
-මේ වන විට යුද්ධ හමුදාව බෞද්ධ විහාරස්ථාන 89කට ආරක්ෂාව ලබා දී ඇතැයි හමුදා මාධ්‍ය ප්‍රකාශවරයා සඳහන් කළේ ය.
+🟩
 
-ඒ සඳහා අනුයුක්ත කර ඇති හමුදා සාමාජිකයින් සංඛ්‍යාව 1584 දෙනෙකි.
+There is talk of security deployed in Sri Lankan religious places.
 
-කෙසේ වෙතත්, එලෙස අනුයුක්ත කර ඇති සාමාජිකයින් කාර්යයන් දෙකක් යටතේ අනුයුක්ත කර ඇති බව ද එහිදී අනාවරණය විය.
+It is with social media that the security that has been deployed has been reduced to religious places.
 
-ඒ අනුව, විහාරස්ථානවල ආරක්ෂාව සඳහා හමුදා සාමාජිකයින් 364 දෙනෙකු සහ විහාරස්ථානවල ඉදිකිරීම් කටයුතු සඳහා 1220 දෙනෙකු යොදවා තිබේ.
+The Sri Lanka Army Media Unit has also called on a sudden press conference on Sunday (No November).
 
-පළාත් 9ට අයත් දිස්ත්‍රික්ක 16ක විහාරස්ථාන 89කට මෙලෙස ආරක්ෂාව සලසා ඇත.
+There, military spokesman Major General Rasika Gen. Fan Kumara stated that the claims that the security of religious places has been removed.
+
+The army has now protected 89 Buddhist temples for 89 Buddhist temples.
+
+There are 1584 soldiers who have been attached to this.
+
+However, it was revealed that the members attached to two functions have been assigned to two functions.
+
+Accordingly, 364 soldiers and 1220 soldiers have been deployed for the protection of temples.
+
+89 temples have been protected in 16 districts of 9 provinces.
+
+Meanwhile, the media spokesman said that the media spokesman said that the army members will be deployed for Christian and mosques.
 
 ...
 
 [Data](articles/94d1477e.json)
+
+[Extended Data](ext_articles/94d1477e.ext.json)
 
 ---
 
@@ -2049,303 +2315,5 @@ The arrested suspects, aged between 20 and 42, are residents of Ahangama, Weliga
 [Data](articles/3001cb5a.json)
 
 [Extended Data](ext_articles/3001cb5a.ext.json)
-
----
-
-### School week closes in Lahore in Pakistan
-
-*2024-11-04 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202878) · `si`
-
-Pakistan's Lahore closes schools due to severe air pollution. Authorities implement remote work for 50% of office staff and ban outdoor activities for children. Health officials advise staying indoors and avoiding travel. The city takes unprecedented measures to combat environmental issues.
-
-🟩
-
-Authorities have taken steps to close school due to air pollution in Lahore, Pakistan.
-
-According to foreign media reports, Pakistan authorities have taken steps to close school for a week.
-
-50% of office employees have been introduced to work from home.
-
-Pakistani health sectors mentioned as much as possible to stay in the home as possible and prevent unnecessary travels.
-
-Outdoor activities have also been banned from last month to school children and the schools will also be amended.
-
-In addition, maintaining the barbecue business ventures without rickshaws and filters operating in the engine.
-
-Lahore is considered to be the second largest city in Pakistan, and it was the first to the first time in the global cities.
-
-◼️
-
-[Data](articles/9f5637c2.json)
-
-[Extended Data](ext_articles/9f5637c2.ext.json)
-
----
-
-### Moldova’s pro-Western president wins 2nd term in runoff overshadowed by Russian meddling claims
-
-*2024-11-04 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103131/moldovas-pro-western-president-wins-2nd-term-in-runoff-overshadowed-by-russian-meddling-claims) · `en`
-
-Moldova’s pro-Western President Maia Sandu has won a second term in a pivotal presidential runoff against a Russia-friendly opponent, in a race that was overshadowed by claims of Russian interference, voter fraud, and intimidation in the European Union candidate country.
-
-With nearly 99% of votes counted in the second round of the presidential election held Sunday, Sandu had 55% of the vote, according to the Central Electoral Commission, or CEC, compared to 45% for Alexandr Stoianoglo, a former prosecutor general who was backed by the pro-Russia Party of Socialists.
-
-The result will be a major relief for the pro-Western government, which strongly backed Sandu’s candidacy, and her push for closer Western ties on Moldova’s path toward the EU.
-
-“Moldova, you are victorious! Today, dear Moldovans, you have given a lesson in democracy, worthy of being written in history books. Today, you have saved Moldova!” Sandu said after claiming victory after midnight.
-
-...
-
-[Data](articles/2727359e.json)
-
-[Extended Data](ext_articles/2727359e.ext.json)
-
----
-
-### Heavy showers above 100mm expected in parts of the island
-
-*2024-11-04 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103130/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island during the evening or night. Showers may occur over the coastal areas of Western and Southern provinces and in Ampara and Batticaloa districts during the morning too.
-
-Heavy showers above 100 mm are likely at some places in Western, Central, Sabaragamuwa, Uva and Southern provinces and in Kurunegala district, it added.
-
-Accordingly, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/1e8afb50.json)
-
-[Extended Data](ext_articles/1e8afb50.ext.json)
-
----
-
-### Special notice to youths from doctors
-
-*2024-11-04 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202877) · `si`
-
-Ministry of Health launches measles vaccination program for youth today.
-
-🟩
-
-The Ministry of Health has taken steps to implement a special program to meet a measles vaccination today (04).
-
-◼️
-
-[Data](articles/eeef0e8d.json)
-
-[Extended Data](ext_articles/eeef0e8d.ext.json)
-
----
-
-### The danger of surviving the 14-year-old student
-
-*2024-11-04 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202876) · `si`
-
-Boy killed in tractor accident near Galkiriyagama. 14-year-old Nanwaththambatgama died after being run over. Driver arrested, police investigating.
-
-🟩
-
-A boy has died in a criminal accident that a firewood tractor running out of the Driver to Cauffavlagala Junction, Galkiriyagama Junction, Galkamalagala Junction.
-
-The child had passed the tractor at the front of the front.
-
-The child who was seriously injured have been admitted to the Kabawawe Hospital.
-
-The deceased has been identified as 14 year old Nanwathtambatgama, Nanwathumwala.
-
-The tractor driver has been arrested in connection with the accident and the Galkiriyagama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/025207bd.json)
-
-[Extended Data](ext_articles/025207bd.ext.json)
-
----
-
-### Today is the third day of postal voting in general election
-
-*2024-11-04 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202875) · `si`
-
-Third day of postal voting begins in general election. EPL clarifies rules: one vote per voter, mark preferred candidate clearly. Forged votes if multiple parties/groups chosen. Election commission emphasizes proper ballot usage.
-
-🟩
-
-The third day of postal voting on the general election is today (04).
-
-Accordingly, the Elections Commission (EPL) said that elections in the Armed Forces and all other state institutions in the Armed Forces and all other state institutions in the Armed Forces and all other state institutions.
-
-Elections Commissioner General Saman Sri Ratnayake said that the postal voting of the district where the postal voting could not be marked further.
-
-Meanwhile, the Elections Commission has issued an announcement to clarify the voter turnout and preferential marking.
-
-According to such a voter, one voter is one vote and can be given to a recognized political party or independent group.
-
-The political party or the sign of the vote should be applied in the front or sign of independent group or the sign in the headcolor.
-
-...
-
-[Data](articles/042cc79b.json)
-
-[Extended Data](ext_articles/042cc79b.ext.json)
-
----
-
-### More than 50 boys killed in Gaza
-
-*2024-11-04 07:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-50-இற்கும்-மேற்பட்ட-சிறுவர்கள்-பலி/50-346516) · `ta`
-
-Over 50 children killed in Gaza attacks. UNICEF reports devastating loss. Some staff members injured while distributing polio vaccines.
-
-🟩
-
-More than 50 children have been killed in the attack in the North of Gaza in the last two days, the United Nations Children's Fund said.
-
-The disaster has occurred after the two -series floors of hundreds of people, the United Nations Children's Fund Executive Director, Katherine Russell said.
-
-In this case, some of the United Nations Children's Fund employees were also injured in the polio vaccine.. (A)
-
-◼️
-
-[Data](articles/7dd02958.json)
-
-[Extended Data](ext_articles/7dd02958.ext.json)
-
----
-
-### 8 suspects arrested for murder of Midamigama
-
-*2024-11-04 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202874) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Matara Criminal Investigation Bureau arrests 8 suspects for murder of Midamigama. The bureau took action against the accused individuals."
-
-🟩
-
-The Matara Criminal Investigation Bureau has been arrested by the Matara Criminal Investigation Bureau of the Matara.
-
-◼️
-
-[Data](articles/e5dabbe5.json)
-
-[Extended Data](ext_articles/e5dabbe5.ext.json)
-
----
-
-### Sri Lanka CPC Iran debt down to US$191mn, profits fall 70-pct to June 2024
-
-*2024-11-04 06:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-cpc-iran-debt-down-to-us191mn-profits-fall-70-pct-to-june-2024-185974/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation has made a profit of 20.7 billion rupees in the first half of 2024, as revenues fell due to other players, a Finance Ministry report said.
-
-The total import cost of oil by the Ceylon Petroleum Corporation had fallen to 1,235 million US dollars up to June 2024 from 1,380 million dollars last year, as volumes fell due to new entrants despite an uptick in prices.
-
-CPC revenues fell 20.1 percent to 544.3 billion rupees up to June 2024 from 681.5 billion rupees last yar.
-
-Cost of sales had fallen by a slower 17.2 percent to 467.7 billion rupees, from 564.6 billion rupees.
-
-Net profits fell 70.2 percent to 20.7 billion rupees, from 69.5 billion rupees.
-
-CPC no longer had any debt to People’s Bank and Bank of Ceylon, the report said. The government took over CPC debt from state banks.
-
-...
-
-[Data](articles/24621fae.json)
-
-[Extended Data](ext_articles/24621fae.ext.json)
-
----
-
-### Heavy rains over 100mm
-
-*2024-11-04 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202872) · `si`
-
-Heavy rains expected 100mm+ Uva, East, Central, Sabaragamuwa, North Central provinces. Showers/thundershowers in coastal areas Northern, Eastern, North Western provinces. Strong winds and thunderstorm damage possible.
-
-🟩
-
-The Department of Meteorology states that there is a protesting atmospheric objective in the evening in the evening.
-
-Showers or thundershowers will occur at the evening or night in many parts of the island.
-
-Uva, East, Central, Sabaragamuwa and North Central provinces. Heavy rains can occur at over 100.
-
-Showers or thundershowers will occur at several places elsewhere in the coastal areas of the Northern, Eastern and North Western provinces.
-
-The people have been asked to take necessary steps to reduce temporary strong winds and the damages caused by thunderstorms.
-
-◼️
-
-[Data](articles/a5ee44a6.json)
-
-[Extended Data](ext_articles/a5ee44a6.ext.json)
-
----
-
-### SJB will form strong Opposition if not elected to power: Hirunika
-
-*2024-11-04 03:20:51* · [`dailyftlk`](https://www.ft.lk/news/SJB-will-form-strong-Opposition-if-not-elected-to-power-Hirunika/56-768800) · `en`
-
-Highlights Opposition’s role in supporting public dissent against former President Gotabaya Rajapaksa
-
-Samagi Jana Balawegaya (SJB) Colombo district candidate Hirunika Premachandra has pledged that, should the party and its alliance, the Samagi Jana Sandhanaya (SJS), fail to secure Government power at the upcoming General Election, they will create a robust and effective Opposition instead.
-
-Addressing a press conference over the weekend, Premachandra emphasised that a strong Opposition is vital for a functioning democracy, citing how the Opposition played a crucial role in supporting the public during the economic collapse and ensuing protests under former President Gotabaya Rajapaksa’s administration.
-
-...
-
-[Data](articles/f953cfc5.json)
-
-[Extended Data](ext_articles/f953cfc5.ext.json)
-
----
-
-### President outlines NPP’s inclusive vision for transformative change
-
-*2024-11-04 03:19:40* · [`dailyftlk`](https://www.ft.lk/news/President-outlines-NPP-s-inclusive-vision-for-transformative-change/56-768799) · `en`
-
-Affirms NPP will only exit power after achieving unified, reformed SL
-
-Calls NPP’s rise response to public demand for change, citing traditional power retention blocks true reform
-
-Sees the 14 Nov. General Election as essential for securing additional reform power
-
-Reveals plan to streamline governance with reduced ministerial privileges, public sector salary increases in the upcoming Budget, including special provisions for estate workers
-
-Says diplomatic posts with political appointees will be reassessed to promote clean governance
-
-President Anura Kumara Dissanayake yesterday outlined the National People’s Power (NPP) party’s inclusive vision to bring about transformative changes aligned with public demand.
-
-“We aim to leave power only once we have successfully rebuilt this nation,” Dissanayake pledged, addressing a rally in Nuwara Eliya, reinforcing the NPP’s promise to steer the country towards a more unified and inclusive political landscape.
-
-...
-
-[Data](articles/78ea29fb.json)
-
-[Extended Data](ext_articles/78ea29fb.ext.json)
-
----
-
-### Jayantha Gallehewa elected uncontested as President-Elect of Organisation of Professional Associations
-
-*2024-11-04 03:15:28* · [`dailyftlk`](https://www.ft.lk/news/Jayantha-Gallehewa-elected-uncontested-as-President-Elect-of-Organisation-of-Professional-Associations/56-768798) · `en`
-
-At the Annual General Meeting (AGM) of the Organisation of Professional Associations (OPA) on 30 October, Institute of Supply and Materials Management (ISMM) President Jayantha Gallehewa was elected uncontested as the President-Elect of the OPA.
-
-This appointment underscores the confidence the OPA has in Gallehewa’s longstanding commitment to Sri Lanka’s professional community. Serving as Vice President over the past few years, he has contributed significantly to the OPA for over eight years, representing the ISMM and serving in various leadership roles.
-
-Gallehewa will become the 45th President of the OPA for the term 2025/2026, following his active involvement in the organisation’s General Forum and Executive Council since 2018. With his extensive experience and vision, his leadership is anticipated to guide the OPA in advancing initiatives that support both the professional community and Sri Lanka’s broader development goals.
-
-...
-
-[Data](articles/8172769b.json)
-
-[Extended Data](ext_articles/8172769b.ext.json)
 
 ---

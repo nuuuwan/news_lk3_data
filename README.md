@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 15:40:22**
+As of **2024-11-04 16:13:50**
 
 ## Newspaper Stats
 
-*Scraped **52,961** Articles*
+*Scraped **52,965** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,146 @@ economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,939
-adaderanalk | 6,302
-tamilmirrorlk | 7,363
+adaderanalk | 6,303
+tamilmirrorlk | 7,364
 virakesarilk | 8,548
-adaderanasinhalalk | 9,230
+adaderanasinhalalk | 9,232
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,961 (100.0%) of 52,961 articles have been extended.
+52,965 (100.0%) of 52,965 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### If the sudden foreign passport is required
+
+*2024-11-04 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202896) · `si`
+
+Here's a 200-character summary:
+
+
+
+Committee formed to verify urgent foreign passport needs. Applicants must document necessity. State department assistance available if needed.
+
+🟩
+
+If the need to obtain a license to obtain a license, the Controller General (Acting). Nilusasha Balasuriya said.
+
+Speaking at a press conference held today (04), she said that a committee of the Immigration and Emigration has been established in the Department of Immigration and Emigration.
+
+"In fact, a sudden person has the need to get a foreign passport, but this methodology should go through this methodology. That's when he gets that date, he can confirm that I got a date, but I had the need to get the passport. There you can get the written on registers to promote the need.
+
+We have already established an independent committee for this. We say that the committee to prove the need to prove the need for a documentary. Where he can get some kind of relief. But we also emphasize that if we submit a state department as a state department, the culmination arrangements, are always ready to act in the event. "
+
+◼️
+
+[Data](articles/546de5cb.json)
+
+[Extended Data](ext_articles/546de5cb.ext.json)
+
+---
+
+### The price of onion
+
+*2024-11-04 15:45:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எகிறியது-வெங்காயத்தின்-விலை/175-346542) · `ta`
+
+Onion prices surge: 1kg costs 340 rupees in some areas. Govt increases import tax on large onions by 20 rupees, raising duty from 10 to 30 rupees per kg.
+
+🟩
+
+In some parts of the country, the price of a kilogram of onion rose to 340 rupees, market sources said.
+
+Recently it was decided to increase the special import tax on big onions by 20 rupees.
+
+Accordingly, the government has decided to increase the import duty on the big onion from 10 rupees to 30 rupees.
+
+◼️
+
+[Data](articles/57a127d2.json)
+
+[Extended Data](ext_articles/57a127d2.ext.json)
+
+---
+
+### Take the passport New online way
+
+*2024-11-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202895) · `si`
+
+New online passport system launched. Reserve appointment now. Limit one booking per day. Future dates available after initial booking. Public advised to book before Nov 6th.
+
+🟩
+
+Steps have been taken to introduce a new online system to get a passport.
+
+The Immigration and Emigration Administration General (Acting) DMD (Acting). Nilusasha Balasuriya said.
+
+Accordingly, she said that the new road system was implemented since the 6th.
+
+"One of the limitations can be given token by getting a single date and reservation. But after that amount, you can reserve you for a future date.
+
+Accordingly, any person can reserve a date through this site anywhere. Accordingly, this online system decided to implement November 6 on November 6. Therefore, we inform the public to avoid the prospect of reservation after the 6th of November. "
+
+◼️
+
+[Data](articles/11b031a2.json)
+
+[Extended Data](ext_articles/11b031a2.ext.json)
+
+---
+
+### 12-hour water cut in several areas tomorrow
+
+*2024-11-04 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103151/12-hour-water-cut-in-several-areas-tomorrow) · `en`
+
+A 12-hour water cut will be imposed for several areas along the Negombo – Colombo main road tomorrow (05), due to an essential maintenance activity of the road, the National Water Supply and Drainage Board (NWSDB) announced.
+
+Accordingly, the water supply will be suspended from 06.00 p.m. on Tuesday (Nov. 05) until 06.00 a.m. on Wednesday (Nov. 06) in Ja-Ela, Katunayake, Seeduwa Municipal Council areas, Katana and Minuwangoda Pradeshiya Sabha areas and a part of Gampaha Pradeshiya Sabha area.
+
+The NWSDB has requested people residing in the aforementioned areas to take the necessary steps to collect water required for the duration of the water cut.
+
+◼️
+
+[Data](articles/ea59e0e9.json)
+
+[Extended Data](ext_articles/ea59e0e9.ext.json)
+
+---
+
+### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
+
+*2024-11-04 15:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
+
+Democracy under threat, as Trump sows doubt on election integrity
+
+President Ronald Reagan, “The Great Communicator” was famous for conceptualizing the American Dream, in a loose paraphrasing of the words enshrined in the Statue of Liberty.
+
+Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shining City all my political life….But in my mind, it was a tall, proud city built on rocks, stronger than oceans, wind-swept, God blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and heart to get here. That’s how I saw it, and see it still.
+
+...
+
+[Data](articles/91ee4331.json)
+
+[Extended Data](ext_articles/91ee4331.ext.json)
+
+---
+
+### The NPP: A Month in Power
+
+*2024-11-04 15:03:00* · [`islandlk`](http://island.lk/the-npp-a-month-in-power/) · `en`
+
+It has been a month since Anura Kumara Dissanayake assumed the presidency, a month since the NPP claimed its place in history as the first party from outside of the political establishment to win a presidential election in Sri Lanka. Two weeks from now, the NPP will face another election, this time parliamentary. Depending on the results it gets, we will know whether the people approve of the NPP’s actions over the last four weeks and if they want it to continue. The NPP’s call for a powerful government is, in itself, not alarming: no government can survive without a majority in parliament. Yet it will need to convince Sri Lankans that it is the party they need – the party not of power, but of change.
+
+...
+
+[Data](articles/13add880.json)
+
+[Extended Data](ext_articles/13add880.ext.json)
+
+---
 
 ### A group of accused associated with the clash at Magazine Prison
 
@@ -2129,139 +2255,5 @@ In Sri Lanka, mental health continues to be stigmatised, especially in education
 [Data](articles/3bd7c9a1.json)
 
 [Extended Data](ext_articles/3bd7c9a1.ext.json)
-
----
-
-### 34th Black Model October Day
-
-*2024-11-04 00:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/34-ஆவது-கறுப்பு-ஒக்டோபர்-தின-நினைவேந்தல்/175-346508) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-34th Black October Day conference in Negombo. Organized by displaced Muslims from North. Speakers discussed displacement due to LTTE in 1990. Over 6,000 people affected. Current resettlement inadequate. Government urged to improve conditions.
-
-🟩
-
-The 34th Black October Day Media Conference was held on Sunday (03) at the Negombo Sounders Festival Hall.
-
-It was organized by the Muslims of Vadapula who displaced from the North to Negombo.
-
-M.S.. M.. Janzir, MS Jinus, Negombo Periyamullai Periyamullai Periyamullai Secretary Secretary. M.. Suhaibal Hajiar and Moulavi Noorul Hasan made their comments there.
-
-On October 30, 1990, they said that they had been chased by the LTTE from the Vadapulam and that more than six thousand people from 3,500 families in many parts of the country, including Puttalam, Negombo, were displaced.
-
-They said that they are now resettled up to 500 families, but they are not providing adequate facilities and that the government should take action and that the government should take action and that the president will focus on the matter.
-
-◼️
-
-[Data](articles/fdbca9d2.json)
-
-[Extended Data](ext_articles/fdbca9d2.ext.json)
-
----
-
-### Lending according to Manoj Akmeemana: A textbook for all
-
-*2024-11-04 00:49:31* · [`dailyftlk`](https://www.ft.lk/columns/Lending-according-to-Manoj-Akmeemana-A-textbook-for-all/4-768761) · `en`
-
-It has been observed by many veteran bankers that there has been a gap in the knowledge and understanding of the dynamic side of lending by both bankers and those who sit opposite to them, borrowers. The book is an attempt at eliminating this gap. Hence, according to the author, it will help a wide gamut of the people in the chain to understand the first principles of lending. They include young and veteran lenders, banking and financing professionals, members of boards, academics, and students of business and commerce, and borrowers, existing or prospective and so on. Hence, Lending should naturally be everyone’s reference book
-
-...
-
-[Data](articles/adc4f137.json)
-
-[Extended Data](ext_articles/adc4f137.ext.json)
-
----
-
-### 2024-11-03 (Sunday)
-
-### India includes the cyber risk list in Canada
-
-*2024-11-03 22:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202871) · `si`
-
-India added to Canada's cyber risk list due to alleged involvement in Sikh separatist leader's assassination. This makes India the fifth country on the list, joining Russia, Iran, and North Korea. The move comes amid heightened tensions between the two nations.
-
-🟩
-
-Canada has acted to include Cyber ​​Risk Referenders to the list of cyber risk.
-
-After the assassination of Sik separatist leader Herdeep Singh, who lived in Canada, intensified after the assassination of the two countries.
-
-Canada alleges that in the knowledge and sponsorship of the Indian government.
-
-India is the fifth country, which was admitted to the Canadian cyber risk assessment valuation list.
-
-Prior to India, Russia, Iran and North Korea were included in this list.
-
-◼️
-
-[Data](articles/4af07031.json)
-
-[Extended Data](ext_articles/4af07031.ext.json)
-
----
-
-### President reveals plans to increase public employees’ salaries through upcoming budget
-
-*2024-11-03 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103129/president-reveals-plans-to-increase-public-employees-salaries-through-upcoming-budget) · `en`
-
-President Anura Kumara Dissanayake emphasized that the National People’s Power (NPP) must consolidate its current political authority to bring about the changes that the public desires within the country’s political landscape.
-
-Speaking at a rally in Nuwara Eliya today (03), President Dissanayake stated that Nuwara Eliya is a significant district in the upcoming general election.
-
-“Historically, politics in our country has not focused on uniting the Sinhala, Tamil, and Muslim communities. Instead, political parties have often represented specific ethnic groups, with Tamil parties for Tamil people and Sinhala parties for Sinhala people. As a result, residents of Nuwara Eliya have long lived divided rather than united.”
-
-“For the first time, however, a political movement is aiming to bring together all communities within Nuwara Eliya district”, Dissanayake said.
-
-...
-
-[Data](articles/c466caf9.json)
-
-[Extended Data](ext_articles/c466caf9.ext.json)
-
----
-
-### The reason for the rice crisis was released
-
-*2024-11-03 22:15:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-நெருக்கடிக்கான-காரணம்-வெளியானது/175-346507) · `ta`
-
-Rice crisis blamed on former govt and mill owners. Former Agriculture Director KP Gunaratne says last govt responsible. Rice mill owner Dudley Sirisena accuses five major mill owners of causing shortages. President Anura Kumara Dissanayake ordered mills to sell at controlled prices but market remained unstable.
-
-🟩
-
-Former Agriculture Director KP Gunaratne said that the last government is responsible for the rice crisis in the market, the owner of a massive rice mill owner Dudley Sirisena said.
-
-டட்லி சிறிசேன உள்ளிட்ட ஐந்து பாரிய அரிசி ஆலை உரிமையாளர்க​ளே இந்த அரிசி நெருக்கடியை அவ்வப்போது ஏற்படுத்தி வருவதாக அவர் இன்று (03) குற்றம்சாட்டினார்.
-
-In the past, rice has been sold beyond the market control prices and has been scarce for certain types of rice.
-
-Accordingly, President Anura Kumara Dissanayake summoned massive rice manufacturers on October 24 to sell rice at a control price and agreed.
-
-ஆனால் சந்தையில் அரிசி தட்டுப்பாடு நீங்கவில்லை எனவும், அரிசி கட்டுப்பாட்டு விலைக்கு விற்கப்படுவதில்லை என்றும் வியாபாரிகள் மற்றும் நுகர்வோர் குற்றம் சாட்டுகின்றனர். Remble
-
-◼️
-
-[Data](articles/b1e56b7c.json)
-
-[Extended Data](ext_articles/b1e56b7c.ext.json)
-
----
-
-### Lending According To Manoj Akmeemana: A Textbook For All
-
-*2024-11-03 22:09:37* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lending-according-to-manoj-akmeemana-a-textbook-for-all/) · `en`
-
-Veteran banker, Manoj Akmeemana, has chosen to share his decades long experience in banking and lending with bankers, students of banking and the public in the form of a comprehensive text under the title ‘Lending: Concepts, Theory, and Practice’. The book has been produced by using modern technology of producing such texts – two colours, graphs, flowcharts, and tables to make it user friendly. Insight capsules – box articles in other cases – have been added to elaborate on specific topics.
-
-The thread-bound book in hard cover will ensure that the readers could use it for many years without running into the problem of offensive disentangled dog-eared pages which readers encounter in paperback books. But it has come in a hefty price of Rs. 4,500 (equivalent to about $ 15) which may make it only a reference book in libraries and not by many ordinary individual users.
-
-...
-
-[Data](articles/2daaff22.json)
-
-[Extended Data](ext_articles/2daaff22.ext.json)
 
 ---

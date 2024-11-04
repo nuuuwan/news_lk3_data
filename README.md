@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 11:12:17**
+As of **2024-11-04 11:24:09**
 
 ## Newspaper Stats
 
-*Scraped **52,916** Articles*
+*Scraped **52,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,107 @@ islandlk | 3,166
 economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,930
-adaderanalk | 6,291
-tamilmirrorlk | 7,353
+adalk | 4,931
+adaderanalk | 6,292
+tamilmirrorlk | 7,355
 virakesarilk | 8,548
-adaderanasinhalalk | 9,219
+adaderanasinhalalk | 9,220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,916 (100.0%) of 52,916 articles have been extended.
+52,921 (100.0%) of 52,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### SLT's new Chairman Dr. Mothilal
+
+*2024-11-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202883) · `si`
+
+Sri Lanka Telecom appoints Dr. Mothilal as new Chairman. Experienced telecom professional from abroad. Previously led Telecom Fiji to profitability. Held senior roles at Dialog Axiata and Malaysia Axiata.
+
+🟩
+
+Dr. Moonilal de Silva has been elected as the new Chairman of Sri Lanka Telecom.
+
+A server with many years of experience in the telecom industry, Dr. Motolal has worked in several foreign countries.
+
+He was able to make Telecom Fiji a profitable state institution for 5 years.
+
+Dr. Mothilal Dialog Axiata and Malaysia Axiata has also held high positions.
+
+◼️
+
+[Data](articles/e04934e8.json)
+
+[Extended Data](ext_articles/e04934e8.ext.json)
+
+---
+
+### Two foreign nationals arrested without valid visas in Kandy
+
+*2024-11-04 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103139/two-foreign-nationals-arrested-without-valid-visas-in-kandy) · `en`
+
+Two foreign nationals who were residing in the country without valid visas in violation of immigration and emigration regulations have been arrested in the Buwalikada area of Kandy.
+
+Acting on a tip-off received by the Kandy Tourist Police Unit, the two foreigners were arrested during a raid.
+
+It is reported that the arrested suspects are a 22-year-old Italian and 32-year-old British national.
+
+◼️
+
+[Data](articles/1e7bba92.json)
+
+[Extended Data](ext_articles/1e7bba92.ext.json)
+
+---
+
+### Two persons arrested in Kandy
+
+*2024-11-04 10:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-இருவர்-அதிரடியாக-கைது/76-346531) · `ta`
+
+Two foreigners arrested in Kandy for violating visa rules: 22-year-old Italian and 32-year-old British citizen detained and transferred to Kandy Police Station.
+
+🟩
+
+Two foreign nationals who were staying in Sri Lanka in violation of visa conditions have been arrested by the Kandy Tourism Police.
+
+The 22 -year -old Italian and the 32 -year -old British citizen were arrested in the Kandy, Bavelikadai, and later handed over to the Kandy Police Station, police said.
+
+◼️
+
+[Data](articles/139bbcb7.json)
+
+[Extended Data](ext_articles/139bbcb7.ext.json)
+
+---
+
+### Gold
+
+*2024-11-04 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தங்கத்தை-மெருகூட்டும்-ரசாயனத்தை-குடித்த-குழந்-தை-பலி/76-346530) · `ta`
+
+Two-year-old boy dies after ingesting cubic acid meant for refining gold during Diwali celebration. Parents rushed him to hospital, where he succumbed to injuries. Autopsy performed, case under investigation by police.
+
+🟩
+
+A two -year -old boy who was about to go to a relative's home to celebrate Diwali, Gampalai police said that a chemical fluid used to refine his father -in -law gold. .
+
+Pradeepan Ratneis, a child from Kalaha Tellottai, died. The child's father Rajamani Pradeepan (age 38) is doing a golden business in Teltottai. His wife Allirani (age 30) came to the commercial premises at around 5 pm to go to a relative's house to celebrate Diwali with his three children.
+
+While they were talking, cubic acid used to clean the nearest golden stuff drank little baby. Immediately the child has fallen to the ground.  குழந்தையை தெல்தோட்டை மருத்துவமனைக்கு கொண்டு சென்றனர். The doctors of the Teldota Hospital have tried hard to save the baby, but the baby died shortly after.
+
+The body was taken to the Peradeniya Teaching Hospital for autopsy and a open verdict was issued by the expert legal officer RP Jayasuriya on November 2.. The body was then taken home in the evening and buried in the evening.
+
+...
+
+[Data](articles/81faf12f.json)
+
+[Extended Data](ext_articles/81faf12f.ext.json)
+
+---
 
 ### Two foreign nationals trapped in Kandy
 
@@ -1520,6 +1606,34 @@ Ada Derana asked the Ministry of Trade MM. Mr. Nimimudin said the data report on
 
 ---
 
+### 16 foreign ambassadors summoned back to Sri Lanka
+
+*2024-11-03 19:46:15* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-තානාපතිවරුන්-16ක්-නැවත-ලංකාවට-කැඳවයි/11-412834) · `si`
+
+Here's a 200-character summary:
+
+
+
+Foreign diplomats from Britain, Pakistan, Nepal, Malaysia, Maldives, Indonesia, Cuba, and USA recalled to Sri Lanka. President reviews ambassadorial qualifications.
+
+🟩
+
+16 Foreign Diplomats and High Commissioners have been recalled. The ambassadors and High Commissioners who have been appointed on political affiliations are to be called to Sri Lanka.
+
+The Foreign Ministry Secretary Aruni Wijewardene has been sent back to Sri Lanka. Meanwhile, the President has taken a policy decision to send the qualifications of the public service and the diplomatic officers who are eligible as Ambassadors and Mahacozardens.. At a meeting with the Board of Investment, the President has said to the names of those who qualify.
+
+The ambassadors of British, Pakistan, Nepal, Nepal, Nepal, Nepal, Nepal, Nepal, Malaysia, Malaysia, Malaysia, Malaysia, Malaysia, Maldives, Indonesia, Maldives, Malaysia and Cuba have been brought back this way. This includes the United Youth Resident Agent of New York.
+
+Sri Lankan Ambassador in the United States of America has been informed to stay there for Mahinda Samarasinghe.
+
+◼️
+
+[Data](articles/b59f1a0c.json)
+
+[Extended Data](ext_articles/b59f1a0c.ext.json)
+
+---
+
 ### JVP. Tamils ​​do nothing - P.Ingaranesan
 
 *2024-11-03 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197822) · `ta`
@@ -2181,107 +2295,5 @@ The northern people are the main foods of the seas in the main dishes. Fishermen
 [Data](articles/ea5e8573.json)
 
 [Extended Data](ext_articles/ea5e8573.ext.json)
-
----
-
-### Everything that looks for the eye is yellow!
-
-*2024-11-03 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197791) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"TNA: A coalition of parties formed 20 years ago. Sumanthiran played a key role. Parties shared power, but TNA's influence grew."
-
-🟩
-
-The Tamil National Alliance (TNA), which has two decades of history, was united- the parties that were united in it were all share, but the role of the TNA and Sumanthiran was high.
-
-◼️
-
-[Data](articles/fc22ada0.json)
-
-[Extended Data](ext_articles/fc22ada0.ext.json)
-
----
-
-### 14 people killed in lightning
-
-*2024-11-03 17:08:16* · [`adalk`](https://www.ada.lk/breaking_news/අකුණු-සැර-වැදීමෙන්-පුද්ගලයන්-14-දෙනෙකු-ජීවිතක්ෂයට/11-412822) · `si`
-
-Lightning strike kills 14 in Uganda refugee camp; 34 injured.
-
-🟩
-
-At least 14 people were killed in a refugee camp in Uganda.
-
-Foreign media reports that 34 others were injured and hospitalized.
-
-◼️
-
-[Data](articles/916fdead.json)
-
-[Extended Data](ext_articles/916fdead.ext.json)
-
----
-
-### No withdrawal of security at religious places - Defence Ministry
-
-*2024-11-03 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103125/no-withdrawal-of-security-at-religious-places-defence-ministry) · `en`
-
-The Ministry of Defence states that the reports claiming the removal of security provided by the Tri-Forces and the Civil Defence Force at religious places in the country are untrue.
-
-This was communicated by the media spokesman of the Ministry of Defence during a special press conference held this afternoon (03).
-
-Speaking during the press conference, the media spokesman of Sri Lanka Army Major General Rasika Kumara stated that the government has not reached any decision to reduce the number of security personnel deployed at the religious places as of yet.
-
-Furthermore, he assured that removing of tri-forces personnel from religious places is carried out only if it is confirmed that the number of security personnel required for a concerned location is less than the deployed amount, during security analysis conducted on a regular basis by the Army Headquarters.
-
-◼️
-
-[Data](articles/361cc801.json)
-
-[Extended Data](ext_articles/361cc801.ext.json)
-
----
-
-### Technical fault or driver negligence? - Police probe fatal KDU bus accident
-
-*2024-11-03 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103124/technical-fault-or-driver-negligence-police-probe-fatal-kdu-bus-accident) · `en`
-
-Sri Lanka Police have launched an investigation to determine whether the recent fatal bus accident on Dunhinda Road in Badulla, was caused by a technical fault of the bus or driver error.
-
-The incident, which involved a bus carrying a group of students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU) toppling across the road, resulted in the death of two female students, and injuries to 40 others.
-
-The Senior Superintendent of Police (SSP) in-charge of Badulla, Wasantha Kandewatta stated that a government analyst’s report on the bus is awaited to aid the investigation.
-
-Preliminary assessments suggest the driver may have been operating the vehicle in third or fourth gear at the time of the accident. It is suspected that excessive speed on the steep, winding 4-kilometer stretch of road may have led the bus to skid out of control, according to police.
-
-...
-
-[Data](articles/1da23d20.json)
-
-[Extended Data](ext_articles/1da23d20.ext.json)
-
----
-
-### 10 panel
-
-*2024-11-03 16:48:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசுமவை-ஆராய-10-பேரடங்கிய-குழு/175-346500) · `ta`
-
-Committee formed: Minister Vijitha Herath investigates unjust beneficiaries. Appointed by Secretary of Ministry of Buddhism, Religion and Cultural Affairs, National Integration, Social Security and Media Ministry, Ranjith Aryaratne.
-
-🟩
-
-A committee has been appointed on the advice of Minister Vijitha Herath, who is responsible for investigating the beneficiaries of the unjust beneficiaries.
-
-The committee appointed by the Secretary of the Ministry of Buddhism, Religion and Cultural Affairs, National Integration, Social Security and Media Ministry, Ranjith Aryaratne.
-
-◼️
-
-[Data](articles/a4b8c50c.json)
-
-[Extended Data](ext_articles/a4b8c50c.ext.json)
 
 ---

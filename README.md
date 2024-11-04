@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 09:26:19**
+As of **2024-11-04 09:59:33**
 
 ## Newspaper Stats
 
-*Scraped **52,902** Articles*
+*Scraped **52,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,929
-adaderanalk | 6,288
+adaderanalk | 6,289
 tamilmirrorlk | 7,348
 virakesarilk | 8,546
-adaderanasinhalalk | 9,216
+adaderanasinhalalk | 9,217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,901 (100.0%) of 52,902 articles have been extended.
+52,904 (100.0%) of 52,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### President has commenced the journey to bring the country to the Renaissance
+
+*2024-11-04 09:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202879) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+President Anura Kumara Dissanayake begins national renewal. He calls it "resurrection" and "rebranding" after economic downturn. Aims to revitalize the country through his leadership.
+
+🟩
+
+President Anura Kumara Dissanayake says that the era of resurrection of the crash is the era of rename of the crash.
+
+◼️
+
+[Data](articles/bd67dca7.json)
+
+[Extended Data](ext_articles/bd67dca7.ext.json)
+
+---
+
+### Schools close in Lahore as pollution hits record level
+
+*2024-11-04 09:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103135/schools-close-in-lahore-as-pollution-hits-record-level) · `en`
+
+Unprecedented air pollution in the Pakistani city of Lahore has forced authorities to close all primary schools for a week.
+
+From Monday, 50% of office workers will also work from home, as part of a “green lockdown” plan. Other measures include bans on engine-powered rickshaws and vendors that barbecue without filters.
+
+“This smog is very harmful for children, masks should be mandatory in schools,” Punjab Senior Minister Marriyum Aurangzeb said.
+
+Lahore, Pakistan’s second-largest city, topped the world list of cities with the most polluted air for a second time on Sunday.
+
+The air quality index, which measures a range of pollutants, exceeded 1,000 on Saturday, well above the benchmark of 300 considered “dangerous” by the World Health Organization, according to data from IQAir.
+
+The level of fine particulate matter in the air, the most damaging to health, also soared well into hazardous levels.
+
+...
+
+[Data](articles/4b2a9f68.json)
+
+[Extended Data](ext_articles/4b2a9f68.ext.json)
+
+---
 
 ### 14-year-old dies in hand tractor accident at Galkiriyagama
 
@@ -47,6 +93,8 @@ The tractor driver has been arrested in connection with the incident, and the Ga
 ◼️
 
 [Data](articles/da6a8351.json)
+
+[Extended Data](ext_articles/da6a8351.ext.json)
 
 ---
 
@@ -2237,51 +2285,5 @@ Sri Lanka won the match to chase 73 runs in 5 overs and scored 76 runs for the l
 [Data](articles/30a8175e.json)
 
 [Extended Data](ext_articles/30a8175e.ext.json)
-
----
-
-### Sri Lanka wins Hong Kong Sixers Cricket Championship
-
-*2024-11-03 14:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202862) · `si`
-
-Sri Lanka wins Hong Kong Sixers Cricket Championship after defeating Pakistan under Lasith Madushanka's leadership. This is Sri Lanka's second championship victory in cricket history.
-
-🟩
-
-පාකිස්තාන කණ්ඩායම පරාජය කර වසර 7කට පසුව පැවැත් වූ හොංකොං සික්සස් ක්‍රිකට් තරගාවලියේ ශූරතාව දිනාගැනීමට ලහිරු මධුසංකගේ නායකත්වයෙන් යුත් ශ්‍රී ලංකා කණ්ඩායම අද (3) සමත් විය.
-
-Pakistan won only 72 runs in 3.5 overs to bat first.
-
-Sri Lanka was able to cross the 5th odd win despite the loss of 73 runs.
-
-තරග ඉතිහාසයේ ශ්‍රී ලංකා කණ්ඩායමක් ශූරතාව දිනාගත් දෙවැනි අවස්ථාව මෙයයි.
-
-◼️
-
-[Data](articles/e82168f2.json)
-
-[Extended Data](ext_articles/e82168f2.ext.json)
-
----
-
-### Muslim Pratyanism should be protected
-
-*2024-11-03 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197786) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Protecting Muslim Pratyanism: Ensure fair Muslim representation in Parliament. Address concerns about "communal" thinking when advocating for equal political voice.
-
-🟩
-
-The Muslim parliamentary representation and the protection of. It is necessary to have more Muslims in Parliament. Some parties see it as a communal thought when Muslims call for their parliamentary representation.
-
-◼️
-
-[Data](articles/751ba2b7.json)
-
-[Extended Data](ext_articles/751ba2b7.ext.json)
 
 ---

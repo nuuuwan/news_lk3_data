@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 02:40:08**
+As of **2024-11-05 02:58:24**
 
 ## Newspaper Stats
 
-*Scraped **53,053** Articles*
+*Scraped **53,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,373
+tamilmirrorlk | 7,376
 virakesarilk | 8,567
 adaderanasinhalalk | 9,247
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,053 (100.0%) of 53,053 articles have been extended.
+53,056 (100.0%) of 53,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Sumanthiran is addicted to politics
+
+*2024-11-05 01:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனுக்கு-அடிமையாகி-அரசியல்-செய்ய-மாட்டேன்/175-346569) · `ta`
+
+Sumanthiran accused of spreading slander against him at Mannar Police Station. Claims he gave recommendation letter for liquor school, denies giving it. Accused of interfering in diaspora Tamils' meetings with former President Wickremesinghe. Sumanthiran denies allegations, says they are false.
+
+🟩
+
+Former parliamentarian MA Sumanthiran has lodged a complaint at the Mannar Police Station at a media briefing in Jaffna at a media briefing in Jaffna to spread slander against him.
+
+He made this statement during a media briefing held at the Mannar TNA office on Sunday (03)
+
+Sumanthiran had said that he had given a letter of recommendation to the liquor school and that I had apparently acknowledged it.
+
+When he made this comment, I was in India because I was in India.Upon returning to Mannar, I have lodged a complaint against him at the police station.
+
+When many diaspora Tamils ​​were asked to meet with former President Ranil Wickremesinghe, I gave me aid to make those meetings for their needs.. Due to the personal habit of those who met, I would not be responsible for it if no one took advantage of the opportunity to construct liquor roads.
+
+...
+
+[Data](articles/c9ba6f6f.json)
+
+[Extended Data](ext_articles/c9ba6f6f.ext.json)
+
+---
+
+### Sumanthiran
+
+*2024-11-05 01:43:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டுத்தனமாக-நுழைந்தவர்-சுமந்திரன்/175-346568) · `ta`
+
+Sumanthiran accused of theft in Tamil alliance, denies involvement in Vanni issues. Independent candidate Emilkanthan criticizes Sumanthiran's leadership. Sumanthiran entered politics via national list, claims no need to address Vanni problems personally. Accused of using proxy candidates to achieve political goals.
+
+🟩
+
+Independent candidate Emilkanthan questioned how Sumanthiran, who had been stealing in the alliance of the Tamils ​​of the Tamil people, would steal for the problems in Vanni.
+
+He was speaking at a media briefing held at his office in Vavuniya on Monday (04).
+
+Who is the leadership of the Tamil party?I recently raised a question. Sumanthiran has answered that. In his reply, that is between our candidates in Vanni and Emilkanthan. He has given a response as if he did not descend to that level.
+
+You are the one who entered politics through the National List of the National List. Sumanthiran does not need to get down for the problems in Vanni. That would not be a big deal for him.
+
+Those who are unable to meet the needs of the people send their second -level members as candidates and subtle them subtle subtle success through them.
+
+My contribution was also in it when the Tamil construction was formed.. Climbing on that strength and stealing in the stealth, stop the answer.
+
+◼️
+
+[Data](articles/370c0612.json)
+
+[Extended Data](ext_articles/370c0612.ext.json)
+
+---
+
+### No vote for ministry posts
+
+*2024-11-05 01:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுப்-பதவிகளுக்காக-வாக்களித்-தேவையில்லை/175-346567) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil National Alliance (TNA) leader P. Ariyanethran advises against voting for TNA for ministry posts, citing "concession politics" and "office seeking." He criticizes Sumanthiran's comments about potential ministries, suggesting TNA may only win 3 seats in Batticaloa.
+
+🟩
+
+Father Selva did not form the TNA for ministry posts. The Tamil National Alliance (TNA) has not formed for ministry posts, the Tamil National Alliance (TNA) has not started for ministry posts. Former presidential Tamil candidate and former Batticaloa parliamentarian of the Sri Lanka Tamil National Alliance (TNA), P. Ariyanethran said that no one should vote for the Tamil National Alliance (TNA).
+
+Commenting on the statement that former SLFP parliamentarian Sumanthiran has said that the ministry can be considered.. As he further stated,
+
+The Tamil National Alliance (TNA) won 15, 22,15 and 16 seats in all parliamentary elections from 2001 to 2015. Tamil nationalism confirmed.
+
+But in 2015, the Good Governance Government got 16 seats. We also get the post of Opposition Leader. In the Eight Administrative Districts in the North and East, the post of Chairman of the Development Committee in the North and East is the compliance politics and the development of the Tamil National Alliance?
+
+...
+
+[Data](articles/58d6000a.json)
+
+[Extended Data](ext_articles/58d6000a.ext.json)
+
+---
 
 ### Country launch of Global Innovation Index 2024 today
 
@@ -2191,91 +2273,5 @@ The Gangodawila court ordered her to be remanded until the 7th of this month.
 [Data](articles/27b64b77.json)
 
 [Extended Data](ext_articles/27b64b77.ext.json)
-
----
-
-### It is not enough to reduce fees.. An notification under CEB by the Commission
-
-*2024-11-04 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202893) · `si`
-
-Public Utilities Commission rejects Ceylon Electricity Board's fee reduction proposal. CEB must resubmit revised plan by Oct 8. Current tariff cuts insufficient, commission demands more drastic measures.
-
-🟩
-
-The Public Utilities Commission states that the fees submitted by the Ceylon Electricity Board is not sufficient.
-
-Communications Director Jayanath Herath said that the Ceylon Electricity Board has informed the Ceylon Electricity Board to submit a new resolution.
-
-Accordingly, the proposal has been informed to submit to the Commission before the 8th.
-
-On October 24, the Ceylon Electricity Board (CEB) was presented to the Public Utilities Commission.
-
-The Ceylon Electricity Board (CEB) has proposed to decrease electricity tariffs from 4 to 11 percent.
-
-However, some parties have expressed fees that the Ceylon Electricity Board (CEB) has proposed to be reduced to the reduction of the reduction in the last few months.
-
-However, after presenting the new proposal, he said that he would prepare for a form of artine.
-
-◼️
-
-[Data](articles/a77cf368.json)
-
-[Extended Data](ext_articles/a77cf368.ext.json)
-
----
-
-### Passport Quity Today - Southernine Tokens
-
-*2024-11-04 13:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202892) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: New passport token system announced. Minister Vijitha Herath explains online process for existing foreign passports. Long queues persist outside immigration office despite government requests to limit visits. Token system aims to streamline passport issuance.
-
-🟩
-
-Minister Vijitha Herath says that tokens will be implemented in accordance with an online mechanism for the purpose of the existing foreign passports.
-
-Minister Vijitha Herath said that after a function of the Kadaw, he said that he would not be visited in November except an urgent need.
-
-However, the people remained in the long queue in front of the Department of Immigration and Emigration, Battaramulla.
-
-The government requested the public on October 29 to visit the premier for the essential work alone, as the foreign passports were issued limited.
-
-But today the people of the long queues were remained in front of the Department of Immigration and Emigration, Battaramulla.
-
-Tokon releases token to the issuance of tokens for the existing foreign passports.
-
-◼️
-
-[Data](articles/6ea051cc.json)
-
-[Extended Data](ext_articles/6ea051cc.ext.json)
-
----
-
-### Litro and Laugfs Companies are the same decision on gas price
-
-*2024-11-04 13:52:12* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-සහ-ලාෆ්-සමාගම්-ගෑස්-මිල-ගැන-එකම-තීරණයක/11-412841) · `si`
-
-Litro and Laugfs maintain steady gas prices for November. Litro: 12.5kg cylinder priced at Rs. 3,690, selling at Rs. 1,482. Laugfs: 12.5kg cylinder priced at Rs. 3,690, selling at Rs. 1,477. Both companies keep prices unchanged.
-
-🟩
-
-The company pains no change in the Litro gas price for November.
-
-Accordingly, the price of a gas cylinder of 12.5 kg of gas cylinder of Rs. 3,690 kg. The price of a gas cylinder will be sold to Rs. 1,482.
-
-Meanwhile, the company states that the Laugfs Gas prices are also stable.
-
-Accordingly, the gas cylinder of 12.5kg of Kg. The gas cylinder of five is sold at Rs. 1,477.
-
-◼️
-
-[Data](articles/2bb3ea71.json)
-
-[Extended Data](ext_articles/2bb3ea71.ext.json)
 
 ---

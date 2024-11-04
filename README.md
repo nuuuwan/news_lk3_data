@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 10:25:18**
+As of **2024-11-04 10:40:07**
 
 ## Newspaper Stats
 
-*Scraped **52,911** Articles*
+*Scraped **52,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,930
 adaderanalk | 6,291
-tamilmirrorlk | 7,351
+tamilmirrorlk | 7,352
 virakesarilk | 8,546
 adaderanasinhalalk | 9,218
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,911 (100.0%) of 52,911 articles have been extended.
+52,912 (100.0%) of 52,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Emergency warning people
+
+*2024-11-04 10:12:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களுக்கு-அவசர-எச்சரிக்கை/175-346526) · `ta`
+
+Health Ministry warns against fraudulent fundraising using Dr. Palitha Maibala's name. Public advised not to donate. Police notified if scams reported. Official statement on X platform.
+
+🟩
+
+The Ministry of Health has issued an emergency warning to the people that the Ministry of Health is using the name of Dr. Palitha Maibala.
+
+It is reported that some people are fraudulently raising money by using the name of the Secretary of the Ministry of Health.
+
+Therefore, the public has been advised not to rely on such demands.
+
+The Ministry of Health has announced that it will notify the police if it is requested to make a donation.
+
+The Ministry of Health has reported on its official X site that people should be aware and protect themselves.
+
+◼️
+
+[Data](articles/c1fd57bd.json)
+
+[Extended Data](ext_articles/c1fd57bd.ext.json)
+
+---
 
 ### President announces beginning of era for country’s renaissance
 
@@ -2265,29 +2291,5 @@ However, the accident had occurred, however, police investigations have been ide
 [Data](articles/9ce8fee1.json)
 
 [Extended Data](ext_articles/9ce8fee1.ext.json)
-
----
-
-### Tasa personnel committee seek injustice due to relief
-
-*2024-11-03 15:54:04* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-නිසා-අසාධාරණයට-ලක්වූ-සමෘද්ධිලාභීන්-ගැන-සොයන්න-දස-පුද්ගල-කමිටුවක්/11-412821) · `si`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Committee formed to address injustice related to relief. Members: Senasana (Religious & Cultural Affairs), National Integration, Social Security, and Media Secretary Ranjith Ariyaratne.
-
-🟩
-
-A committee has been appointed on the instructions of Hon
-
-The committee appointed as Senasana, Religious and Cultural Affairs, National Integration, Social Security and Media Secretary Ranjith Ariyratne.
-
-◼️
-
-[Data](articles/e4d909ba.json)
-
-[Extended Data](ext_articles/e4d909ba.ext.json)
 
 ---

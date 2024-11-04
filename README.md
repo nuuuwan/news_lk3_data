@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 13:41:04**
+As of **2024-11-04 13:59:51**
 
 ## Newspaper Stats
 
-*Scraped **52,942** Articles*
+*Scraped **52,947** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,934
-adaderanalk | 6,298
-tamilmirrorlk | 7,358
+adalk | 4,935
+adaderanalk | 6,299
+tamilmirrorlk | 7,359
 virakesarilk | 8,548
-adaderanasinhalalk | 9,225
+adaderanasinhalalk | 9,227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,942 (100.0%) of 52,942 articles have been extended.
+52,947 (100.0%) of 52,947 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Laugfs do not change the price of gas
+
+*2024-11-04 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202890) · `si`
+
+LAUGFS announces unchanged gas prices for November. A 12.5kg household cylinder costs Rs. 3,680.
+
+🟩
+
+The company has informed the launfs gas price for November.
+
+A 12.5kg LAUGFS-household gas cylinder is sold at Rs. 3,680 and Rs.
+
+◼️
+
+[Data](articles/81f1c194.json)
+
+[Extended Data](ext_articles/81f1c194.ext.json)
+
+---
+
+### The King's couple a hit
+
+*2024-11-04 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202889) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+King Philippe and Queen Litzia met citizens yesterday. Some questioned their delay and blamed them for the killer's actions.
+
+🟩
+
+King Philipea and Litzia Queen was yesterday (03).
+
+Some people directly consulted the king and the queen and directly asked why they were delayed to meet the people.
+
+They also accused the king and the government that the killer was dedicated to death.
+
+◼️
+
+[Data](articles/4c999595.json)
+
+[Extended Data](ext_articles/4c999595.ext.json)
+
+---
+
+### Spain’s king and queen pelted with mud in flood-hit Valencia
+
+*2024-11-04 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103147/spains-king-and-queen-pelted-with-mud-in-flood-hit-valencia) · `en`
+
+The King and Queen of Spain have been pelted with mud and other objects by angry protesters during a visit to flood-hit Valencia.
+
+Shouts of “murderer” and “shame” were directed at the royal couple, Spain’s prime minister and other leaders as they walked through the town of Paiporta - one of the worst-affected in the region.
+
+With mud on their faces and clothes, King Felipe and Queen Letizia were later seen consoling members of the crowd.
+
+More than 200 people were killed in the floods, the worst in Spain for decades. Emergency workers are continuing to comb through underground car parks and tunnels in the hope of finding survivors and recovering bodies.
+
+There has been anger at a perceived lack of warning and insufficient support from authorities after the floods.
+
+Footage showed the king making his way down a pedestrian street, before his bodyguards and police were suddenly overwhelmed by a surge of protesters, hurling insults and screaming.
+
+...
+
+[Data](articles/b0b648a7.json)
+
+[Extended Data](ext_articles/b0b648a7.ext.json)
+
+---
 
 ### Order to appear in Lohan's wife
 
@@ -47,6 +117,26 @@ Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that the wife of for
 [Data](articles/80d9cc5a.json)
 
 [Extended Data](ext_articles/80d9cc5a.ext.json)
+
+---
+
+### Lohan's wife Azar
+
+*2024-11-04 13:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவி-ஆஜர்/175-346535) · `ta`
+
+Rashi Prabha Ratwatte, wife of former Minister Lohan Ratwatte, was remanded over an unregistered luxury vehicle. She will appear again on July 7th.
+
+🟩
+
+The wife of former minister Lohan Ratwatta, who is alleged to have an unregistered luxury vehicle, appeared before the Gangodawila Magistrate.
+
+Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that Rashi Prabha Ratwatte, wife of former Minister of State Lohan Ratwatte, Rashi Prabha Ratwatte, has been ordered to be remanded until the 07th of this month.
+
+◼️
+
+[Data](articles/daedbf72.json)
+
+[Extended Data](ext_articles/daedbf72.ext.json)
 
 ---
 
@@ -343,6 +433,34 @@ Dr. Mothilal Dialog Axiata and Malaysia Axiata has also held high positions.
 [Data](articles/e04934e8.json)
 
 [Extended Data](ext_articles/e04934e8.ext.json)
+
+---
+
+### The first budget increases public servants salary
+
+*2024-11-04 11:05:49* · [`adalk`](https://www.ada.lk/breaking_news/පළමු-අයවැයෙන්-රාජ්‍ය-සේවක-වැටුප-වැඩි-කරනවා/11-412837) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+First budget increases public servants' salaries. President Anura Kumara Dissanayake discusses economic challenges, corruption, and future reforms. Plans for tourism growth and educational improvements mentioned.
+
+🟩
+
+"There is a nation that is in the house to fall into the house, people who have thought that the power of a class of parliament every day will be found in Parliament and see what they think of the power of a class.'What has been done, "said President Anura Kumara Dissanayake.
+
+"During the presidential election, the people were overcome. Now the opposition asks. People say this voter is a bit lazy. There is no meetings, buses, rice, lack of sheets, but Colombo will not go to Badulla. They have taken away the defeat of spya.
+
+In the presidential election, people are increasingly allegedly alike during the party.. Those who do not have voted for us today is coming around our party today.
+
+We don't have political power to lead this country.The presidense has the presidency, it is the force, but not all the field.What should have a good cabinet. At the Cabinet, we can make decisions that we can make decisions. Steps will be taken to hold next year.
+
+...
+
+[Data](articles/e80c0c97.json)
+
+[Extended Data](ext_articles/e80c0c97.ext.json)
 
 ---
 
@@ -2145,137 +2263,5 @@ He added that the false news has been published on the leading newspaper and soc
 [Data](articles/96e0a407.json)
 
 [Extended Data](ext_articles/96e0a407.ext.json)
-
----
-
-### Showers in the evening today
-
-*2024-11-03 19:27:14* · [`adalk`](https://www.ada.lk/breaking_news/අද-සවස්-කාලයේදීත්-වැසි/11-412832) · `si`
-
-Evening showers and thunderstorms forecasted for multiple provinces. Heavy rainfall possible with strong gusts and lightning. Rough seas expected in coastal areas.
-
-🟩
-
-The Meteorological Department states that there is a protesting atmospmic to thunderstorms in many parts of the island.
-
-Showers or thundershowers will occur at the evening or night in the evening, in the evening or night.
-
-MM, North Central, Sabaragamuwa, Uva, Uva, Uva, Southern and Northwestern provinces. Heavy showers may occur at more than 100 and to take necessary steps to be taken to minimize temporary winds and lightning.
-
-Showers or thundershowers will occur at several places in the sea areas around the island.Winds are blow in the sea areas off the coast extending from Puttalam to Pottuvil through Pottuvil via Galle and Hambantota and the western parts of the sea areas around the island are himhed in a definite direction.
-
-The speed of the wind is one hour.. The sea areas around the island are roughly rough from the normal nature.
-
-Attorneys can be temporarily strong in areas where thundershowers will occur temporary winds.
-
-◼️
-
-[Data](articles/f40593e6.json)
-
-[Extended Data](ext_articles/f40593e6.ext.json)
-
----
-
-### Committee search for renewen selection of revenue
-
-*2024-11-03 19:21:28* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ප්‍රතිලාභීන්-තෝරා-ගැනීමේ-ගැන-සොයන්න-කමිටුවක්/11-412831) · `si`
-
-Committee formed to review Samurdhi beneficiary selection process. Tasked with studying properties and reporting criteria for revenue distribution. Secretary instructed to investigate formally. Committee to consider all information and requests received.
-
-🟩
-
-Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Institute of Mass Media and Information and Mass Media and Mass Media and Information. The committee has been appointed as the instructions of Minister Vijitha Herath.
-
-Study and report the properties of the Samurdhi benefits of identifying the benefits of identifying beneficiaries in the selection of Samurdhi beneficiaries for the revenue benefit.The committee is entrusted to report the criteria that recommended the selection system to be included in the program to be included in the program to be included in the program.
-
-Secretary to the Ministry Ranjith Ariyratne has been instructed by the committee to conduct a formal investigation into the matter.The committee has been appointed as considering information and requests received.
-
-◼️
-
-[Data](articles/4c910751.json)
-
-[Extended Data](ext_articles/4c910751.ext.json)
-
----
-
-### Lightning kills 14 at Uganda refugee camp
-
-*2024-11-03 19:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103127/lightning-kills-14-at-uganda-refugee-camp) · `en`
-
-A lighting strike at a refugee camp in Uganda had killed 14 people, police say.
-
-They say the victims were attending a church service on Saturday evening when the lightning struck. Another 34 people were injured.
-
-An official told local radio that all those who died were children.
-
-The incident occurred at Palabek Refugee Settlement in the north-west of the country. The area has recently seen heavy rains with thunder and lightning.
-
-Palabek Refugee Settlement is home to more than 80,000 refugees and asylum seekers, according to the UN’s refugee agency. Many are from neighbouring South Sudan.
-
-Four years ago, lightning killed 10 children in the city of Arua, also in north-western Uganda.
-
-The children were struck while taking a break from a game of football.
-
-◼️
-
-[Data](articles/b28718f5.json)
-
-[Extended Data](ext_articles/b28718f5.ext.json)
-
----
-
-### The green harvest of the Embilipitiya has no hindrance to sales
-
-*2024-11-03 19:07:09* · [`adalk`](https://www.ada.lk/breaking_news/ඇඹිලිපිටිය-වලව-කලාපයේ--මුං-අස්වැන්න-අලෙවියට-බාධාවක්-නෑ/11-412830) · `si`
-
-Embilipitiya green harvest sales unaffected. Farmers' union reports smooth process. 1400 kg harvested. Governor promises protection. Water supply ensured for farming.
-
-🟩
-
-Farmers' union representatives today (03), said that issues have not been raised regarding the sale of green harvest in Embilipitiya.
-
-Embilipitiya Farmory Association (03) (03) was held at the Embaraw Roads of the Embilipitiya National Secretariat Champu Janaki Rajaratne at the Embilipitiya Province Champa Janaki Rajaratne.
-
-Representatives of the Farmer Corporation said that he had no possession of possible green harvest.
-
-This time this time he has sold the green harvest and that the remaining garbage will be used to renewed itself.
-
-The Mahaweli Authority officials said that the farmers were cultivated by farmers in the Embilipitiya left bank of the Embilipitiya left bank of the Embilipitiya left-season this year.
-
-The farmers in the region have around 1400 kilograms of green harvest.Governor of Sabaragamuwa Province Champa Janaki Rajaratne stated that the government will protect the farmers.
-
-The said notion further said the water supply of water required for farmers' plantation fertilizer.
-
-...
-
-[Data](articles/a56c79ea.json)
-
-[Extended Data](ext_articles/a56c79ea.ext.json)
-
----
-
-### “The world will not bear the second Trump administration”
-
-*2024-11-03 19:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197820) · `ta`
-
-"The world cannot endure a second Trump presidency."
-
-🟩
-
-The US presidential election is to be held, and the Americans are elected their president once in four years.
-
-Former President Donald Trump and the current vice president of the Democratic Party Kamala Haris are the main candidates.It is not possible to say until the end of who will win the match between the two.
-
-President Joe Bidon will contest for the second term. Kamala Saris, however, was the candidate of the Democratic Party after his age and other reasons, as Trump could be easily defeated.
-
-After that, Trump's chance to win easily was often missing. Most of the polls suggested that Trump and Kamala Haris had fierce competition during the campaigns.
-
-The winner of the seven swing states, which are almost equal to the Republican Party and the Democratic Party, is likely to win the election.. It is said that there is very close competition between the two of those states.
-
-...
-
-[Data](articles/bc1b038e.json)
-
-[Extended Data](ext_articles/bc1b038e.ext.json)
 
 ---

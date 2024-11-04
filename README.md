@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 20:59:27**
+As of **2024-11-04 21:11:56**
 
 ## Newspaper Stats
 
-*Scraped **53,026** Articles*
+*Scraped **53,027** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
-colombotelegraphcom | 541
+colombotelegraphcom | 542
 bbccomsinhala | 543
 islandlk | 3,169
 economynextcom | 3,209
@@ -26,25 +26,33 @@ adaderanasinhalalk | 9,246
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,023 (100.0%) of 53,026 articles have been extended.
+53,026 (100.0%) of 53,027 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
 
-### සෑම පුරවැසියෙකුටම ඩිජිටල් අංකයක් ලබාදීමේ වැඩපිළිවෙළ සර්වජන බලය සතුයි - දිලිත්
+### Each citizen has a digital number is owned by the security force - Dilith
 
 *2024-11-04 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202910) · `si`
 
-රටේ සෑම පුරවැසියෙකුටම අනන්‍ය ඩිජිටල් හැඳුනුම් අංකයක් ලබාදීමේ වැඩපිළිවෙළ මාස 6ක් තුළ ස්ථාපිත කිරීමේ සැලසුම තමන් සතු බව සර්වජන බලය නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Sri Lanka: Security forces to issue unique digital IDs to citizens within 6 months, aims to address revenue disparities and improve governance.
 
-අද (04) පස්වරුවේ රත්නපුරයේදී පැවැත්වූ ජන රැලියට එක්වෙමින් දිලිත් ජයවීර මහතා මෙම අදහස් පළ කළේය.
+🟩
 
-"අපි යෝජනා කළා හැම පුද්ගලයෙකුටම මේ රටේ අනන්‍ය හැඳුනුම් අංකයන් නිකුත් කරලා මේ රටේ ඉන්න සියලුම මිනිස්සු මෙන්න මේ ඩිජිටල් වේදිකාවට, සුහුරු වේදිකාවට ගේන්න. ඒ තුළින් මේ රටේ ආදායම් විෂමතාවයට හා බදු එක් රැස් කරගැනීමේ ඇති ඒ අක්‍රමිකතාවයන්, අඩුපාඩු නිවැරදි කරගෙන මේ ආදායම් විෂමතාවය නිසාම හටගත් දරිද්‍රතාවය හා මේ රටේ දුක් විඳින මිනිස්සුන්ගේ ගැටලු ගැන හොයලා බලන්නට වැඩපිළිවෙළක්.
+The security leader of Gampaha District candidate, entrepreneral Dilith Dilith Jayaweera says that the plan to provide an unique digital ID number in the country within six months.
+
+Dilith Jayaweera expressed his views participating at the rally in Ratnapura afternoon.
+
+"We suggested all people in this country to bring all the people in this country to this digital platform to the clutch, the clutch. It is a program to look into the problems of this country's revenue disparity and the revenue disparity of the revenue disparity and the problems of this country's suffering people.
+
+But it was a long time. This is a long thought we have brought. I personally worked about this with a great commitment. I have now appointed my friend Anura Kumara who is the former CEO of this Dialog. We're proud to give you a sense of people who have suggested that we have suggested.. For that digitization continues to help this dare opposition without hypocrisy.
 
 ...
 
 [Data](articles/2d002383.json)
+
+[Extended Data](ext_articles/2d002383.ext.json)
 
 ---
 
@@ -418,17 +426,25 @@ Additionally, Rajapakshe also said that today (04), an amount of Rs. 279.4 milli
 
 ---
 
-### ගම්මන්පිලගෙන් ඇමති විජිතට අභියෝගයක්
+### Gammanpila challenges Minister Vijitha
 
 *2024-11-04 18:20:05* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිලගෙන්-ඇමති-විජිතට-අභියෝගයක්/11-412853) · `si`
 
-පාස්කු වාර්තා සහ ණය ගැනීම පිළිබඳව තමන් සමග  ප්‍රසිද්ධ විවාදයකට පැමිනෙන්නැයි  විජිත හේරත් ඇමතිවරයාට සර්වජන බලය කොළඹ දිස්ත්‍රික් අපේක්ෂක සහ  පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා අභියෝග කලේය. ඒ මහතා මේ බව සදහන් කර සිටියේ අද පෙරවරුවේ පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුව හා එක් වෙමිනි. පිවිතුරු හෙළ උරුමය නායකයා එහිදී වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+Gammanpila challenges Minister Vijitha Herath over World Bank loan claims.
 
-,තමන්ගේ දේශපාලන හිතවතුන් වැරදිකරුවන් කරලා තිබෙන නිසා විජිත හේරත් ඇමතිතුමා බොරු හේතු දක්වලා අල්විස් වාර්තාව ප්‍රතික්ෂේප කළා. අල්විස් විනිසුරුතුමිය විෂමාචාර කරලා තිබෙන බවට ඇමතිතුමා චෝදනා කළාම පුළුවන් නම් ඒකට සාක්ෂි ඉදිරිපත් කරන්න කිව්වාම හෙමින් සීරුවේ ඒක මග හැරියා.
+🟩
+
+Vijitha Herath challenges the Colombo District candidate and Current JHU. He was speaking at a press conference held at the party headquarters at party headquarters this morning. The Leader JHU of the JHU further commented:
+
+Minister Vijitha Herath has been rejected by Minister Vijitha Herath, who had been guilty of their political friends. If Alwis has accused the Justice of Alwis, if the Minister may have misled it, he was asked to give it slowly.
+
+When we claim that there was no borrowing from any institution, we responded US $ 200 million from the World Bank in October 7, 2024, Minister Vijitha's response was not a. I saw this lie on the election platform yesterday and the real President Tilvin Silva of the government yesterday. The people deceived lies and lie more. Why do we say Tilvini colony is lying?
 
 ...
 
 [Data](articles/cb074d4d.json)
+
+[Extended Data](ext_articles/cb074d4d.ext.json)
 
 ---
 
@@ -1384,6 +1400,20 @@ If Donald Trump is again president, it is difficult for Ukraine to continue the 
 
 ---
 
+### Who Can Better Walk the Talk? A Fourfold Strategy To Navigate Sri Lanka’s Political Landscape
+
+*2024-11-04 15:07:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/who-can-better-walk-the-talk-a-fourfold-strategy-to-navigate-sri-lankas-political-landscape/) · `en`
+
+“It is perfectly natural that in a revolution which affects, and is bound to affect, the deepest foundations of life and broadest mass of the population, not a single party, not a single government, no matter how close it may be to the people, can possibly embrace all aspects of life at once.” ~ V.I. Lenin
+
+Immediately after its victory in the Presidential Election, the National Power of the People (NPP), led by the Marxist-Leninist JVP (Janatha Vimukthi Peramuna), introduced what it calls the “tiniest cabinet ever,” consisting of just three ministers, including President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya. This minimalist governance model has drawn mixed reactions, coinciding with an immediate call for general elections to fill a full 225-member parliament. Many see this move as an attempt to solidify power before public support potentially wanes.
+
+...
+
+[Data](articles/8e21a70b.json)
+
+---
+
 ### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
 
 *2024-11-04 15:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
@@ -1491,6 +1521,8 @@ The former president, Mr Ranil Wickremesinghe has asked the voters to elect memb
 ...
 
 [Data](articles/64b0a108.json)
+
+[Extended Data](ext_articles/64b0a108.ext.json)
 
 ---
 
@@ -2303,29 +2335,5 @@ With a career spanning over many decades, Dr Mothilal de Silva is a result orien
 [Data](articles/3a91d9d8.json)
 
 [Extended Data](ext_articles/3a91d9d8.ext.json)
-
----
-
-### SLT's new Chairman Dr. Mothilal
-
-*2024-11-04 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202883) · `si`
-
-Sri Lanka Telecom appoints Dr. Mothilal as new Chairman. Experienced telecom professional from abroad. Previously led Telecom Fiji to profitability. Held senior roles at Dialog Axiata and Malaysia Axiata.
-
-🟩
-
-Dr. Moonilal de Silva has been elected as the new Chairman of Sri Lanka Telecom.
-
-A server with many years of experience in the telecom industry, Dr. Motolal has worked in several foreign countries.
-
-He was able to make Telecom Fiji a profitable state institution for 5 years.
-
-Dr. Mothilal Dialog Axiata and Malaysia Axiata has also held high positions.
-
-◼️
-
-[Data](articles/e04934e8.json)
-
-[Extended Data](ext_articles/e04934e8.ext.json)
 
 ---

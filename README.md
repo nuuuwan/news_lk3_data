@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 23:40:28**
+As of **2024-11-04 23:59:59**
 
 ## Newspaper Stats
 
-*Scraped **53,032** Articles*
+*Scraped **53,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 542
 bbccomsinhala | 543
 islandlk | 3,169
-economynextcom | 3,209
+economynextcom | 3,211
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,949
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,032 (100.0%) of 53,032 articles have been extended.
+53,034 (100.0%) of 53,034 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -858,6 +858,26 @@ Ticketing windows The ticket windows will be open from 9 am to 8 pm.
 
 ---
 
+### Sri Lanka rupee closes weaker at 293.05/20 to dollar, bonds flat
+
+*2024-11-04 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-05-20-to-dollar-bonds-flat-186071/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was depreciated to 293.05/20 to the US dollar Monday from 292.95/293.00 to the US dollar on Friday dealers said, while bond yields were flat.
+
+A bond maturing on 15.12.2026 closed at 10.50/75 down from 10.65/85 percent.
+
+A bond maturing on 15.03.2028 closed at 11.70/80 percent, down from 11.72/82 percent.
+
+A bond maturing on 15.06.2029 closed stable at 11.95/12.05 percent. (Colombo/Nov04/2024)
+
+◼️
+
+[Data](articles/fa782b19.json)
+
+[Extended Data](ext_articles/fa782b19.ext.json)
+
+---
+
 ### What is the program of President Anurakumara?- Nishantha Sri Warnasinghe
 
 *2024-11-04 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197880) · `ta`
@@ -1109,6 +1129,26 @@ Reforms in CEB is a key commitment Sri Lanka has made to the International Monet
 [Data](articles/3fef813c.json)
 
 [Extended Data](ext_articles/3fef813c.ext.json)
+
+---
+
+### Sri Lanka CEB opts for reforms without privatization under new government
+
+*2024-11-04 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-opts-for-reforms-without-privatization-under-new-government-186028/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) under the new government led by President Anura Kumara Dissanayake has opted for reforms without privatizing the utility service provider in line with the “mandate received by the current President”, the CEB said.
+
+The proposed CEB reforms were strongly opposed by Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) trade unions in the past citing the past government was trying the sell the state asset to the private sector.
+
+Reforms in CEB is a key commitment Sri Lanka has made to the International Monetary Fund (IMF) in return for a $3 billion bailout package that was approved in 2023 following the island nation suffering an unprecedented economic crisis in 2022.
+
+“CEB had to adopt to a reform process proposed by external mechanisms last year as a result of non-implementation of internal reforms within CEB for decades,” the CEB said in a statement.
+
+...
+
+[Data](articles/dc1cb8f1.json)
+
+[Extended Data](ext_articles/dc1cb8f1.ext.json)
 
 ---
 
@@ -2303,41 +2343,5 @@ He is a postgraduate in Customs Law and Management from University of Sri Jayawa
 [Data](articles/9285f4cb.json)
 
 [Extended Data](ext_articles/9285f4cb.ext.json)
-
----
-
-### Election be untilHere is the decision of the Supreme Court
-
-*2024-11-04 11:54:26* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණය-කල්-යයිද---ශ්‍රේෂ්ඨාධිකරණය-දැන්-දුන්න-තීරණය-මෙන්න/11-412839) · `si`
-
-Supreme Court denies hearing election case without examining constitutional claims. Decision set for November 14th.
-
-🟩
-
-The Supreme Court has made the petition not to be heard without examining the claim that the Constitution is to be determined to be held on November 14th.
-
-◼️
-
-[Data](articles/69b8359a.json)
-
-[Extended Data](ext_articles/69b8359a.ext.json)
-
----
-
-### Petition against 2024 General Election date dismissed
-
-*2024-11-04 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103142/petition-against-2024-general-election-date-dismissed) · `en`
-
-The Supreme Court has dismissed the petition filed challenging the decision to hold the General Election on November 14.
-
-The three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Shiran Gunaratne and Priyantha Fernando ordered the relevant petition to be dismissed without taking up for hearing following an extended consideration of facts presented.
-
-This order was issued after considering the facts presented by the Additional Solicitor General Viraj Dayaratne who appeared on behalf of the Attorney General that the date for the election has been properly set by the President in accordance with the Elections Act and that the activities related to the poll have almost been completed by now.
-
-...
-
-[Data](articles/ac78a7fe.json)
-
-[Extended Data](ext_articles/ac78a7fe.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 04:40:15**
+As of **2024-11-05 04:58:57**
 
 ## Newspaper Stats
 
-*Scraped **53,061** Articles*
+*Scraped **53,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,379
+tamilmirrorlk | 7,380
 virakesarilk | 8,569
 adaderanasinhalalk | 9,247
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,061 (100.0%) of 53,061 articles have been extended.
+53,062 (100.0%) of 53,062 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,30 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### The President shows the president's strange
+
+*2024-11-05 01:57:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வினோதம்-காட்டுகின்றார்/175-346573) · `ta`
+
+President accused of joking about returning stolen money to Sri Lanka. Opposition claims government lacks solutions for issues like passport queues.
+
+🟩
+
+United People's Power Leader Sajith Premadasa said that the president, who said the thieves would bring the money to Uganda, "he said.
+
+In the past, the ruling parties, including the current president, have announced that we will use the money in the Janatha Vimukthi Peramuna (JVP) government to resolve the stolen money from our country and to address the serious problems faced by our country.
+
+Made great expectations among the people. We are hoping to take action to bring back the money taken to Uganda. The President -led JVP government is giving jokes to the country, even though they think that the stolen money will be brought to the country and will solve the problems faced by the people of the country.. He said the country could not be treated with jokes.
+
+A meeting was held on Sunday (03) with the Avissawella Divisional Party activists.He said this while addressing a meeting organized by the United People's Power Avissawala election organizer Sudath Wickramaratne.
+
+...
+
+[Data](articles/0b854ebf.json)
+
+[Extended Data](ext_articles/0b854ebf.ext.json)
 
 ---
 
@@ -2257,23 +2281,5 @@ The former president, Mr Ranil Wickremesinghe has asked the voters to elect memb
 [Data](articles/64b0a108.json)
 
 [Extended Data](ext_articles/64b0a108.ext.json)
-
----
-
-### Proposed tariff reduction insufficient; PUCSL calls for revised proposal from CEB
-
-*2024-11-04 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103149/proposed-tariff-reduction-insufficient-pucsl-calls-for-revised-proposal-from-ceb) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) has asked the Ceylon Electricity Board (CEB) to submit a revised proposal for electricity tariff reductions, stating that the initially proposed tariff reduction is inadequate.
-
-PUCSL Communications Director Jayanath Herath said the CEB has been directed to provide an updated proposal by November 08. This follows an initial proposal submission by the CEB on October 24, in which the board proposed a reduction of electricity tariffs ranging from 4% to 11%.
-
-Despite this, several parties have voiced concerns, arguing that the proposed reduction does not sufficiently reflect CEB’s recent profitability. They contend that given the board’s financial performance over the past months, a more substantial tariff cut is warranted to provide meaningful relief to consumers.
-
-...
-
-[Data](articles/adb6241b.json)
-
-[Extended Data](ext_articles/adb6241b.ext.json)
 
 ---

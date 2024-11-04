@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 11:40:53**
+As of **2024-11-04 12:15:53**
 
 ## Newspaper Stats
 
-*Scraped **52,923** Articles*
+*Scraped **52,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,92 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 540
 bbccomsinhala | 542
 islandlk | 3,166
-economynextcom | 3,203
+economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,931
-adaderanalk | 6,293
+adalk | 4,933
+adaderanalk | 6,294
 tamilmirrorlk | 7,355
 virakesarilk | 8,548
-adaderanasinhalalk | 9,220
+adaderanasinhalalk | 9,222
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,923 (100.0%) of 52,923 articles have been extended.
+52,931 (100.0%) of 52,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Petition against 2024 General Election date dismissed
+
+*2024-11-04 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103142/petition-against-2024-general-election-date-dismissed) · `en`
+
+The Supreme Court has dismissed the petition filed challenging the decision to hold the General Election on November 14.
+
+◼️
+
+[Data](articles/ac78a7fe.json)
+
+[Extended Data](ext_articles/ac78a7fe.ext.json)
+
+---
+
+### Petition against the general election day is refuted
+
+*2024-11-04 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202885) · `si`
+
+Supreme Court rejects petition against Nov 14 election date. Three-judge panel led by Shiran Gunaratne dismisses challenge under Elections Act. Petitioner Priyantha Herath represents Sri Lanka National Organization. Respondents include AG, Presidential Secretary, and Election Commissioner.
+
+🟩
+
+The Supreme Court today (04) has been ordered to discard the petition filed by the decision to be held on November 14.
+
+After considering a long matter, the order was issued by a three-member Supreme Court judge with Journey Shiran Gunaratne and Priyantha Fernando.
+
+The order was accurate in accordance with the Elections Act to the Election Act and have been released after considering the matters of the Attorney General.
+
+Convener of the Sri Lanka National Organization by a Civil Organization Actress as well. Priyantha Herath presented the petition.
+
+The Attorney General and the Presidential Secretary and the Attorney General of the Elections Commission have been named as the respondents.
+
+◼️
+
+[Data](articles/0e124194.json)
+
+[Extended Data](ext_articles/0e124194.ext.json)
+
+---
+
+### Case against Diana gives the hearing
+
+*2024-11-04 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202884) · `si`
+
+Colombo High Court hears case against Mrs. Diyagamage for obtaining National Identity Card illegally. Judge Manjula Tilakaratne presides over proceedings. Case adjourned until January 9th.
+
+🟩
+
+The Colombo High Court was appointed to hear the case against Mrs. Diyagamage, who has filed a Sri Lankan citizen to obtain a National Identity Card in Sri Lanka.
+
+The case was called before Colombo High Court Judge Manjula Tilakaratne.
+
+Mrs. Dianey Gamage was also present at the court.
+
+After considering the submissions, the High Court judge, was placed on the 9th of January.
+
+The judge was ordered to be held safely in a safe safety.
+
+The court also ordered that the attendees to appear before the court that day.
+
+◼️
+
+[Data](articles/ea7c3b71.json)
+
+[Extended Data](ext_articles/ea7c3b71.ext.json)
+
+---
 
 ### Dr. Mothilal de Silva appointed new chairman of SLT
 
@@ -134,6 +202,28 @@ The body was taken to the Peradeniya Teaching Hospital for autopsy and a open ve
 
 ---
 
+### Fish dies suddenly in the sea surrounding the Trincomalee harbor
+
+*2024-11-04 10:36:15* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-වරාය-අවට-මුහුදේ-මසුන්-හදිසියේ-මිය-යයි/11-412836) · `si`
+
+Fish die mysteriously near Trincomalee harbor. Samples sent to research agency. Multiple departments investigate. Cause unknown. Fish deemed unsuitable for consumption.
+
+🟩
+
+The Government Agent Chaminda Hettiarachchi said that the samples were sent to the National Aquatic Resources Research Resources Research Agency to look into sudden death in the Trincomalee harbor.
+
+With the assumption of the incident, the Navy, Co-Fisheries and Aquatic Resources Department, Fisheries Harbor Corporation, the Department of Environmental Protection and Coastal Resources Management, the Department of Fisheries and Coastal Resources Management.
+
+The deceased is that the death of the fish has been revealed that the fish has been revealed that the fish is not suitable for these fish.
+
+◼️
+
+[Data](articles/c97bb5b0.json)
+
+[Extended Data](ext_articles/c97bb5b0.ext.json)
+
+---
+
 ### Two foreign nationals trapped in Kandy
 
 *2024-11-04 10:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202882) · `si`
@@ -153,6 +243,30 @@ The 22 suspects were 22 and the 32-year-old ages.
 [Data](articles/e2f9bf86.json)
 
 [Extended Data](ext_articles/e2f9bf86.ext.json)
+
+---
+
+### Heart and thorax surgery in Kurunegala Hospital
+
+*2024-11-04 10:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කුරුණෑගල-රෝහල-තුළ-හෘද-හා-උරස්-ශල්‍යකර්ම-කඩිනමින්/11-412835) · `si`
+
+Kurunegala Hospital to start heart and thoracic surgery service. Building facilities established, operating theaters and equipment being set up. Unit includes ICU beds, HDU beds, and two surgical rooms. Steps taken to establish second Cath LAB unit, doubling cardio-neurosurgery capacity. 80 doctors and staff to be trained. Project aims to improve healthcare services in North Western Province.
+
+🟩
+
+Medical Palitha Mahipala, Secretary to the Ministry of Health, advised the relevant officers yesterday to take steps to start the heart and thoracic surgery service in the Kurunegala Teaching Hospital.
+
+The Health Secretary gave this advice at a special discussion on a special inspection tour of the hospital.
+
+Building facilities for the unit have already been established to start the heart and thoracic surgery service in the Kurunegala Teaching Hospital. The operating theaters and other medical equipment are being established by the operating theaters and other. The hospital has also taken steps to be attached to the hospital.
+
+This unit consists of two ICU beds, 6 ICU BEDS (HDU BEDS) and two bodies. The operating theater consists of state-of-the-art medical equipment and consists of two surgins. There are a modern facilities to conduct two surgeries simultaneously, while males and women have taken steps to establish two heart treatment wards. There is 40 parlor capacity.
+
+...
+
+[Data](articles/892f7ef8.json)
+
+[Extended Data](ext_articles/892f7ef8.ext.json)
 
 ---
 
@@ -177,6 +291,26 @@ In a Social Media Registry published by University's spokesman Aamir Majab, at t
 [Data](articles/21e50d24.json)
 
 [Extended Data](ext_articles/21e50d24.ext.json)
+
+---
+
+### Sri Lanka central bank ready for vehicle import relaxation: Governor
+
+*2024-11-04 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-ready-for-vehicle-import-relaxation-governor-185986/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Central Bank has indicated its readiness to support the government if it chooses to relax motor vehicle import restrictions, citing the country’s stable balance of payments position and a current account surplus for the second consecutive year.
+
+The decision, however, rests with the government and fiscal authorities, the Central Bank Governor Nandalal Weerasinghe said an interview with EconomyNext on October 26.
+
+“It is a decision by the government, the fiscal authority. But we have indicated that we are in a position in terms of reserves and balance of payment, because this year we will have a current account surplus and last year also we had a current account surplus.”
+
+“Next year, even if we open up for motor vehicle imports, we will have a small deficit that can be managed without any issue, because we have had huge deficits in the past.”
+
+...
+
+[Data](articles/b011e8f4.json)
+
+[Extended Data](ext_articles/b011e8f4.ext.json)
 
 ---
 
@@ -337,6 +471,30 @@ Yes given to them. 76 years have bankrupt and ruined the country and bankruptcy.
 [Data](articles/b1bcc078.json)
 
 [Extended Data](ext_articles/b1bcc078.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 293.50/60 to dollar, bond yields steady
+
+*2024-11-04 09:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-293-50-60-to-dollar-bond-yields-steady-185982/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 293.00/15 to the US dollar Monday, dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 was quoted at 10.55/75 percent down from 10.65/85 percent.
+
+A bond maturing on 15.12.2027 was quoted stable at 11.45/55 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.70/80 percent, down from 11.72/82 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened down 0.03 percent, or 4.50 points lower at 12,859, while the S&P SL20 of more liquid stocks opened down 0.06 percent or 2.37 points lower at 3,876.
+
+◼️
+
+[Data](articles/a231ddff.json)
+
+[Extended Data](ext_articles/a231ddff.ext.json)
 
 ---
 
@@ -715,6 +873,30 @@ The Matara Criminal Investigation Bureau has been arrested by the Matara Crimina
 [Data](articles/e5dabbe5.json)
 
 [Extended Data](ext_articles/e5dabbe5.ext.json)
+
+---
+
+### Sri Lanka CPC Iran debt down to US$191mn, profits fall 70-pct to June 2024
+
+*2024-11-04 06:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-cpc-iran-debt-down-to-us191mn-profits-fall-70-pct-to-june-2024-185974/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Petroleum Corporation has made a profit of 20.7 billion rupees in the first half of 2024, as revenues fell due to other players, a Finance Ministry report said.
+
+The total import cost of oil by the Ceylon Petroleum Corporation had fallen to 1,235 million US dollars up to June 2024 from 1,380 million dollars last year, as volumes fell due to new entrants despite an uptick in prices.
+
+CPC revenues fell 20.1 percent to 544.3 billion rupees up to June 2024 from 681.5 billion rupees last yar.
+
+Cost of sales had fallen by a slower 17.2 percent to 467.7 billion rupees, from 564.6 billion rupees.
+
+Net profits fell 70.2 percent to 20.7 billion rupees, from 69.5 billion rupees.
+
+CPC no longer had any debt to People’s Bank and Bank of Ceylon, the report said. The government took over CPC debt from state banks.
+
+...
+
+[Data](articles/24621fae.json)
+
+[Extended Data](ext_articles/24621fae.ext.json)
 
 ---
 
@@ -2105,187 +2287,5 @@ Defense Ministry's Secretary of Defense said that the security of the Armed Forc
 [Data](articles/95fc3334.json)
 
 [Extended Data](ext_articles/95fc3334.ext.json)
-
----
-
-### சிங்களமயமாக்கலுக்கு மெளனம்; தமிழ்ப் பிரதிநிதித்துவத்துக்கு கூச்சல்!
-
-*2024-11-03 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197807) · `ta`
-
-Sinhala dominance in Nuwara Eliya: Tamil voters' concerns about representation and administrative control.
-
-🟩
-
-47 வருட பாராளுமன்ற உறுப்புரிமையும் கபினட் அமைச்சு பதவிகளையும் தொடர்ச்சியாக கொண்டிருக்கும் நுவரெலியா மாவட்டத்தில் அதிகமாக இருப்பதே தமிழ் வாக்காளர்கள். But in all the state administration of the region, why are the people and politicians to control the Sinhalese officials.
-
-◼️
-
-[Data](articles/134d38e5.json)
-
-[Extended Data](ext_articles/134d38e5.ext.json)
-
----
-
-### Georgia - towards a color revolution ...?
-
-*2024-11-03 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/197806) · `ta`
-
-Georgia's general election raises concerns about potential color revolution due to its pro-Russian stance, drawing international scrutiny.
-
-🟩
-
-The ongoing Georgian general election attracted the attention of the world. Georgian's current ruling party, Georgia, which shares the border with Russia, is being viewed by the West as a Russian -backed party.
-
-◼️
-
-[Data](articles/22d55667.json)
-
-[Extended Data](ext_articles/22d55667.ext.json)
-
----
-
-### Vehicle in Digan: The pastor is trapped
-
-*2024-11-03 17:38:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/திகனையில்-வாகனம்-போதகர்-சிக்கினார்/76-346501) · `ta`
-
-Pastor accused of theft after police find stolen vehicle in garage. Suspect used fake license plates. Gold jewelry seized during arrest. Further investigation ongoing regarding multiple vehicles owned by pastor.
-
-🟩
-
-Police have arrested him on suspicion that the Brado Jeep Jeep, who had fake digits found by the police in the Teldeniya area on Saturday afternoon (02), belonged to the Teldeniya Caltenena pastor.
-
-Teldeniya police have found this jeep in the rage in the garage of an unmanned house in the Digana ICC home.
-
-A teacher's son had previously stated that the exclusive secretary had brought the jeep to the place a few weeks ago.
-
-It is reported that the suspect and her family drove the jeep using a jeep's digit plate in Bilapala, Kandy.
-
-It is also condemned that the pastor has been wearing about four kilograms of gold and surrounded by public places and has arranged in the past to provide special police protection to his temple in Kaldana.
-
-Further investigations have been launched on the basis of reports that the pastor has a lot of vehicles, including Defender jeeps, have been assembled.
-
-◼️
-
-[Data](articles/0f1a8616.json)
-
-[Extended Data](ext_articles/0f1a8616.ext.json)
-
----
-
-### Need "unrelenting" voters
-
-*2024-11-03 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/197804) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Muslims reject promises from Muslim leaders and politicians. They prefer direct democracy over representative governance. This shift challenges traditional political structures and power dynamics.
-
-🟩
-
-Unfortunately Muslims do not listen to the promises of Muslim leaders and MPs to fulfill or anti -social politics.. மாறாக, அவர்களையே திரும்பத் திரும்ப தெரிவு செய்தது.
-
-◼️
-
-[Data](articles/6565ee83.json)
-
-[Extended Data](ext_articles/6565ee83.ext.json)
-
----
-
-### Caps remanded
-
-*2024-11-03 17:37:01* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්තැන්නේ-කපුවා-රිමාන්ඩ්/11-412823) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrests made in Teldeniya: Bureau of Teliathenathendendentelali detained by Teliathenthentarali. Pigeon reserved for Gamini Ananda. Casualties reported. ICC investigation ongoing. Police investigating de-bespective and nephew. Vehicle registration issue. OIC Chief Inspector General Roshan Amarasinghe leading further inquiries.
-
-🟩
-
-The Bureau of the Teliathenathendendentelali, who was arrested by the Teliathenthentarali, was arrested by the Teliathentheltidadurain in the Teldeniya area in the Teldeniya area in a housing complex.
-
-Reserved was the pigeon of Gamini Ananda (59) of Gamini Ananda (59).
-
-The casualties were produced before the casualties of casualties against him.
-
-According to information received by the Teldeniya Division Criminal Investigation Bureau, the ICC of ICC. They were arrested by a fast-plate named in a housing complex in a housing complex.
-
-However, the police have made it possible that the de-bespective of the de-bespective and his nephew.
-
-The vehicle says that the vehicle is not registered in the Commissioner of Directors.
-
-The OIC Chief Inspector General of Police Chief Inspector General Inspector Roshan Amarasinghe is conducting further investigations.
-
-◼️
-
-[Data](articles/1fac1f86.json)
-
-[Extended Data](ext_articles/1fac1f86.ext.json)
-
----
-
-### US Presidential Election 2024
-
-*2024-11-03 17:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197801) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US Presidential Election 2024: Trump vs Kamala. If Trump wins, another term. First female US President if Kamala prevails. Indian-American community celebrates potential historic win.
-
-🟩
-
-Who is winning?If Trump wins, another time Trump's rule. The first female president for Americans if Kamala wins. Indians can be proud of that he belongs to his descent ....
-
-◼️
-
-[Data](articles/11c29c2f.json)
-
-[Extended Data](ext_articles/11c29c2f.ext.json)
-
----
-
-### The brave claim of British politician George Calloway
-
-*2024-11-03 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197798) · `ta`
-
-George Calloway's claim about Egyptian President Kamal Abdul Nasser's 1960 attempt to free Egypt from Western influence was met with resistance from Arab nations and ultimately failed, crushing the Arab freedom movement.
-
-🟩
-
-In 1960, Egyptian President Kamal Abdul Nasser tried to release Egypt and other Muslim countries in the region from the US and European supremacist grip. However, they joined together with their Arab natives and destroyed him and crushed the freedom struggle of the Arabs.
-
-◼️
-
-[Data](articles/a06aeecf.json)
-
-[Extended Data](ext_articles/a06aeecf.ext.json)
-
----
-
-### Curse candidates
-
-*2024-11-03 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/197797) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamils' decades-long migration impacts Tamil parliamentary representation.
-
-🟩
-
-For decades, the migration of Tamils ​​continues. It greatly affects the parliamentary representation of the Tamils
-
-◼️
-
-[Data](articles/1b07a091.json)
-
-[Extended Data](ext_articles/1b07a091.ext.json)
 
 ---

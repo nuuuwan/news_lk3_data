@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 12:15:53**
+As of **2024-11-04 12:26:49**
 
 ## Newspaper Stats
 
-*Scraped **52,931** Articles*
+*Scraped **52,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,933
-adaderanalk | 6,294
+adaderanalk | 6,295
 tamilmirrorlk | 7,355
 virakesarilk | 8,548
-adaderanasinhalalk | 9,222
+adaderanasinhalalk | 9,223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,931 (100.0%) of 52,931 articles have been extended.
+52,933 (100.0%) of 52,933 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Sunil Jayaratne appointed new Chairman of the Civil Aviation Authority of Sri Lanka
+
+*2024-11-04 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202886) · `si`
+
+Sunil Jayaratne named Chairman of Civil Aviation Authority of Sri Lanka. Formerly Additional Director General, he assumes duties today. Served 37 years in Sri Lanka Customs, including as Media Spokesman. Holds postgraduate degree in Customs Law and Management from University of Sri Jayewardenepura and Australia.
+
+🟩
+
+Sunil Jayaratne served as an Additional Director General as the new Chairman of the Civil Aviation Authority of Sri Lanka.
+
+He has assumed duties at its head office in Katunayake today (04).
+
+Mr. Sunil Jayaratne served in the Sri Lanka Customs Department for 37 years and was an Additional Director General.
+
+He also served as the Customs Media Spokesman for about three and a half.
+
+He graduates a Post Graduate Degree in Customs Law and Management of the University of Sri Jayewardenepura and Australia.
+
+◼️
+
+[Data](articles/a7c5dee5.json)
+
+[Extended Data](ext_articles/a7c5dee5.ext.json)
+
+---
+
+### New chairman of Civil Aviation Authority assumes duties
+
+*2024-11-04 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103143/new-chairman-of-civil-aviation-authority-assumes-duties) · `en`
+
+Former Additional Director General of Sri Lanka Customs Sunil Jayarathna has been appointed as the new Chairman of Civil Aviation Authority of Sri Lanka (CAASL) with effect from today (04).
+
+Accordingly, Jayarathna assumed duties in the office this morning with the presence of several officials including the Director General of the CAASL, Ada Derana reporter said.
+
+Jayaratne has served as an Additional Director General of Sri Lanka Customs, and he is a distinguished officer who has also served as the Customs Media Spokesman for three and a half years.
+
+He is a postgraduate in Customs Law and Management from University of Sri Jayawardenepura and University of Canberra, Australia.
+
+◼️
+
+[Data](articles/9285f4cb.json)
+
+[Extended Data](ext_articles/9285f4cb.ext.json)
+
+---
 
 ### Petition against 2024 General Election date dismissed
 
@@ -38,7 +84,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The Supreme Court has dismissed the petition filed challenging the decision to hold the General Election on November 14.
 
-◼️
+The three-member Supreme Court judge bench consisting of Justices Preethi Padman Surasena, Shiran Gunaratne and Priyantha Fernando ordered the relevant petition to be dismissed without taking up for hearing following an extended consideration of facts presented.
+
+This order was issued after considering the facts presented by the Additional Solicitor General Viraj Dayaratne who appeared on behalf of the Attorney General that the date for the election has been properly set by the President in accordance with the Elections Act and that the activities related to the poll have almost been completed by now.
+
+...
 
 [Data](articles/ac78a7fe.json)
 
@@ -2245,47 +2295,5 @@ In the month of January to September 2023, US $ 4345 million was received as US 
 [Data](articles/7fbf5bd7.json)
 
 [Extended Data](ext_articles/7fbf5bd7.ext.json)
-
----
-
-### The President's Special Notice of the President
-
-*2024-11-03 17:47:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கு-ஜனாதிபதியின்-விஷேட-அறிவிப்பு/175-346502) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake plans to provide free school books to students. He criticizes previous government for prioritizing official salary increases over education support.
-
-🟩
-
-President Anura Kumara Dissanayake has said that he is planning to pay school books to school students.
-
-The President added that if the existing government had money to increase the salary of state officials, it could have been done simultaneously.. Remble
-
-◼️
-
-[Data](articles/f872ac48.json)
-
-[Extended Data](ext_articles/f872ac48.ext.json)
-
----
-
-### The security of religious standards have not been removed
-
-*2024-11-03 17:45:28* · [`adalk`](https://www.ada.lk/breaking_news/ආගමික-ස්ථාවලට-ලබාදී-තිබූ-ආරක්ෂාව-ඉවත්-කර-නෑ/11-412824) · `si`
-
-Security measures for religious sites maintained: Defense Ministry official confirms no removal of protection for armed forces and civil defense units stationed at places of worship.
-
-🟩
-
-Defense Ministry's Secretary of Defense said that the security of the Armed Forces and Civil Defense Force provided to religious places have not been removed. B. B. Nalin Herath said. He said this addressing a media briefing in Colombo.
-
-◼️
-
-[Data](articles/95fc3334.json)
-
-[Extended Data](ext_articles/95fc3334.ext.json)
 
 ---

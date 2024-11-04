@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 09:59:33**
+As of **2024-11-04 10:12:51**
 
 ## Newspaper Stats
 
-*Scraped **52,904** Articles*
+*Scraped **52,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,63 @@ islandlk | 3,166
 economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,929
+adalk | 4,930
 adaderanalk | 6,289
-tamilmirrorlk | 7,348
+tamilmirrorlk | 7,349
 virakesarilk | 8,546
-adaderanasinhalalk | 9,217
+adaderanasinhalalk | 9,218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,904 (100.0%) of 52,904 articles have been extended.
+52,907 (100.0%) of 52,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### A revelation of a suicide entrepreneur due to Paranna law
+
+*2024-11-04 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202880) · `si`
+
+Sri Lanka: 127 SMEs commit suicide due to Paradise Law. The District Joint Entrepreneurship Organization reports this alarming statistic. Entrepreneurs struggle under strict banking regulations.
+
+🟩
+
+The District Joint Entrepreneurship Organization says that 127 small and medium enterprises have committed suicide due to the "Paradise Law" implemented by the Sri Lankan banks.
+
+◼️
+
+[Data](articles/ccda35de.json)
+
+[Extended Data](ext_articles/ccda35de.ext.json)
+
+---
+
+### NPP answer to Ranil's claim
+
+*2024-11-04 09:47:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-கூற்றுக்கு-NPP-பதில்/175-346521) · `ta`
+
+NPP responds to Ranil's claim: Country's bankruptcy due to 76 years of ineffective governance. Experienced leaders responsible for failures. People won't elect those who've ruined the country.
+
+🟩
+
+Former President Ranil Wickremesinghe's claim that the country would have an accident like a bus like a bus if the experienced people were not elected to Parliament, the National People's Power (NPP) responded that the country's bankruptcy had not been able to select the government for 76 years.
+
+Speaking at the election rally in Badulla, NPP member Samantha Vidyaratne said that people will only vote for the NPP to set the best ties with the people.
+
+“I heard Ranil saying that the country should be handed over to the experienced people. I heard Ranil said that the country would be like a KDU bus if experienced people like the driver's failure.
+
+Yes given to them. 76 years have bankrupt and ruined the country and bankruptcy. People will never give power to the experienced drivers who have bankrupt the country. ”
+
+...
+
+[Data](articles/b1bcc078.json)
+
+[Extended Data](ext_articles/b1bcc078.ext.json)
+
+---
 
 ### President has commenced the journey to bring the country to the Renaissance
 
@@ -1324,6 +1366,28 @@ During a rally held today (03) in Nuwara Eliya, the President added that the maj
 
 ---
 
+### Rs. Water supply is unable to recover 695
+
+*2024-11-03 19:34:01* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--695ක්-අයකරගන්න-ජල-සම්පාදනයට-නොහැකි-වෙලා/11-412833) · `si`
+
+Water Supply Board faces financial issues: Audit report reveals unpaid bills totaling 695 million. Management plans to take legal action against 5,993 defaulters. Board seeks 617 million from consumers to cover losses.
+
+🟩
+
+November 02 million has been issued by the Water Supply and Drainage Board.Audit report said.
+
+By December 31, 2023, the amount of water supply was disconnected. The audit report states that legal action was not taken in terms of circular to recover the arrears. In response to this question, the National Water Supply and Drainage Board's management has stated that 5,993 water consumer accounts have been sent to the Head Office to commence legal proceedings for the year 2023.
+
+The Board's management has been referred to the audit to recover Rs. 617 million to recover the dues of Rs.. It is reported that Rs. 66 million and Rs.
+
+◼️
+
+[Data](articles/c2528e8f.json)
+
+[Extended Data](ext_articles/c2528e8f.ext.json)
+
+---
+
 ### Was the protection removed for religious places of worship?Ministry of Defense
 
 *2024-11-03 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197821) · `ta`
@@ -2225,65 +2289,5 @@ Public servants can be restricted to corruption scandals in public sector. The g
 [Data](articles/6d35942e.json)
 
 [Extended Data](ext_articles/6d35942e.ext.json)
-
----
-
-### Does the wave of the Anura?
-
-*2024-11-03 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197779) · `ta`
-
-"Anura wave summary: National People's Power faces challenges in local elections, may struggle to achieve expected victory in general election."
-
-🟩
-
-“தேசிய மக்கள் சக்தி  எல்பிட்டிய பிரதேச சபைத் தேர்தலில், சரிவைச் சந்திக்க தொடங்கி இருப்பது உறுதியானால், பொதுத்தேர்தலில் எதிர்பார்த்த வெற்றியை அவர்களால் அடைய முடியாமல் போகலாம்”
-
-◼️
-
-[Data](articles/ed544da8.json)
-
-[Extended Data](ext_articles/ed544da8.ext.json)
-
----
-
-### Sri Lanka crowned Hong Kong Sixes 2024 champions
-
-*2024-11-03 15:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103122/sri-lanka-crowned-hong-kong-sixes-2024-champions-) · `en`
-
-Sri Lanka triumphed over Pakistan by three wickets to secure the Hong Kong Super Sixes 2024 title on Sunday. Chasing a target of 73 runs, Sri Lanka reached their goal with six balls remaining.
-
-Sri Lanka’s captain, Lihuru Madhusanka, opted to bowl first, a decision that proved successful as his bowlers limited Pakistan to a modest total. Despite a valiant effort from Muhammad Akhlaq, who scored 48 runs off just 20 balls, Pakistan struggled to build a substantial score.
-
-Akhlaq was eventually dismissed by Madhusanka in the final over. The next highest score for Pakistan came from skipper Faheem Ashraf, who made 13 runs off four balls.
-
-Sri Lanka’s bowling was impressive, with Lakshan and Tharindu Rathnayake taking two wickets each. Nimesh Vimukthi and Lihuru Madhusanka also contributed with a wicket apiece.
-
-...
-
-[Data](articles/b80570b0.json)
-
-[Extended Data](ext_articles/b80570b0.ext.json)
-
----
-
-### Sri Lanka wins championship in Hong Kong International Sixes
-
-*2024-11-03 15:05:33* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-තරගාවලියේ-ශූරතාවය-ශ්‍රී-ලංකාවට/9-412820) · `si`
-
-Sri Lanka triumphs in Hong Kong International Sixes. Pakistan scores 72/10 in 3rd over. Sri Lanka chases 73 runs in 5 overs, scoring 76/3 to win match.
-
-🟩
-
-The Sri Lankan team won a few months before the end of the finals of the Hong Kong International Sixers.
-
-Batting first, Pakistan scored 72 runs for the loss of all wickets at the end of the third.
-
-Sri Lanka won the match to chase 73 runs in 5 overs and scored 76 runs for the loss of 03 wickets.
-
-◼️
-
-[Data](articles/30a8175e.json)
-
-[Extended Data](ext_articles/30a8175e.ext.json)
 
 ---

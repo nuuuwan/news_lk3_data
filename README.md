@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 04:58:57**
+As of **2024-11-05 05:10:08**
 
 ## Newspaper Stats
 
-*Scraped **53,062** Articles*
+*Scraped **53,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,380
+tamilmirrorlk | 7,381
 virakesarilk | 8,569
 adaderanasinhalalk | 9,247
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,062 (100.0%) of 53,062 articles have been extended.
+53,063 (100.0%) of 53,063 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,32 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### We have to fight for the fight
+
+*2024-11-05 02:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராடியே-பெற்றோம்-போராடியே-பெற-வேண்டும்/175-346574) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Organizer Palani Sakthivel criticizes new government policies, citing rising costs of essential items like coconuts, fuel, and food. He emphasizes the need for continued struggle to protect workers' rights and ensure fair representation in the Nuwara Eliya district.
+
+🟩
+
+"We have fought for all the rights in the past, and have been forced to fight through the new government," said National Organizer Palani Sakthivel said.
+
+He made this statement at a meeting of the election rally held on Monday (04) in the Akkaraipattana-Torington area.
+
+No one has given the rights of the upcountry people on the golden tray, we have fought all. But now, when the new government is formed, the youth are behind them.In fact we do not understand the difficulties we have. Likewise, I would say in my experience that the previous history is unknown.
+
+...
+
+[Data](articles/2672289b.json)
+
+[Extended Data](ext_articles/2672289b.ext.json)
 
 ---
 
@@ -2267,19 +2293,5 @@ However, the crowds have persisted, with many expressing frustration over delays
 [Data](articles/375646d4.json)
 
 [Extended Data](ext_articles/375646d4.ext.json)
-
----
-
-### Towards Stability, Equity & Prosperity: Part IV
-
-*2024-11-04 14:35:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-iv/) · `en`
-
-The former president, Mr Ranil Wickremesinghe has asked the voters to elect members with experience back to the parliament at the Nov 14 election. He alleges that those who have worked with him in the past have the necessary expertise for running the government and managing the economy. Meanwhile, the Samagi Jana Balavegaya (SJB) led by Mr Sajith Premadasa also has stated that the economic team they have is the most qualified and experienced that needs to be elected. They further state that their policy declaration and economic program provide practical solutions to the basic problems of the country.
-
-...
-
-[Data](articles/64b0a108.json)
-
-[Extended Data](ext_articles/64b0a108.ext.json)
 
 ---

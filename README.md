@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 13:59:51**
+As of **2024-11-04 14:13:49**
 
 ## Newspaper Stats
 
-*Scraped **52,947** Articles*
+*Scraped **52,949** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,935
+adalk | 4,936
 adaderanalk | 6,299
-tamilmirrorlk | 7,359
+tamilmirrorlk | 7,360
 virakesarilk | 8,548
 adaderanasinhalalk | 9,227
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,227
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,947 (100.0%) of 52,947 articles have been extended.
+52,949 (100.0%) of 52,949 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Karuna-Pillaiyan supporters clash: trio injury
+
+*2024-11-04 13:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கருணா-பிள்ளையான்-ஆதரவாளர்கள்-மோதல்-மூவர்-காயம்/73-346537) · `ta`
+
+Clash between Karuna Amman and Pillaiyan party supporters in Batticaloa resulted in injuries to three individuals, including a party candidate. Incident occurred during a campaign speech near a school. Supporters from both parties engaged in verbal exchange before physical altercation ensued.
+
+🟩
+
+In Batticaloa, three people, including a party candidate of Karuna Amman, were injured in a clash between Karuna Amman's party candidate and supporters and Pillaiyan party supporters.
+
+The incident took place last night, Jayanthipuram. Headquarters police said.
+
+Karuna Amman's party's candidate, the Democratic Front, on the Jayanthipuram school road in Batticaloa, was speaking to supporters last night on the former road in the party office.
+
+At this juncture, a six -member Pillaiyan party supporter of the Pillaiyan Party, on the walls there, packed the posters of the Pillaiyan party on the posters of Karuna Amman's candidates.
+
+There was a rhetoric between the two party supporters as Karuna's candidate went and said, "We need to stick the posters over our posters."
+
+Subsequently, Pillaiyan party supporters attacked Karuna's candidate and his supporter.
+
+Three people, including Karuna's party candidate Munisamy Nagendran and his two supporters, were then injured.
+
+◼️
+
+[Data](articles/1484df37.json)
+
+[Extended Data](ext_articles/1484df37.ext.json)
+
+---
 
 ### Laugfs do not change the price of gas
 
@@ -365,6 +395,30 @@ The Attorney General and the Presidential Secretary and the Attorney General of 
 [Data](articles/0e124194.json)
 
 [Extended Data](ext_articles/0e124194.ext.json)
+
+---
+
+### Athawaoty poles go home at Jayawardenapura Hospital
+
+*2024-11-04 11:42:26* · [`adalk`](https://www.ada.lk/breaking_news/ජයවර්ධනපුර-රෝහලට--රුපියල්-දෙකෝටියක-පොලු-තියා-ලෙඩ්ඩු-ගෙදර-ගිහින්/11-412838) · `si`
+
+National Audit Office report: Unpaid hospital bills range from Rs 360 to Rs 2.04 million. Audit recommends recovering unpaid fees. Hospital management instructed to sign legal documents and take legal action against defaulters.
+
+🟩
+
+The National Audit Office reveals that the National Audit Office has issued a sum of Rs.
+
+The bills that were not paid at the end of the last year have ranged the value of the value from Rs 360 to Rs 2.04 million.
+
+The audit was recommended that the audit was not explained to the audit and the fees should be taken to recover these fares.
+
+The management of the hospital has been informed to the hospital police to sign a legal document and will inform the hospital police to take legal action to legal legal action.
+
+◼️
+
+[Data](articles/15473d66.json)
+
+[Extended Data](ext_articles/15473d66.ext.json)
 
 ---
 
@@ -2219,49 +2273,5 @@ During a rally held today (03) in Nuwara Eliya, the President added that the maj
 [Data](articles/08b1508e.json)
 
 [Extended Data](ext_articles/08b1508e.ext.json)
-
----
-
-### Rs. Water supply is unable to recover 695
-
-*2024-11-03 19:34:01* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--695ක්-අයකරගන්න-ජල-සම්පාදනයට-නොහැකි-වෙලා/11-412833) · `si`
-
-Water Supply Board faces financial issues: Audit report reveals unpaid bills totaling 695 million. Management plans to take legal action against 5,993 defaulters. Board seeks 617 million from consumers to cover losses.
-
-🟩
-
-November 02 million has been issued by the Water Supply and Drainage Board.Audit report said.
-
-By December 31, 2023, the amount of water supply was disconnected. The audit report states that legal action was not taken in terms of circular to recover the arrears. In response to this question, the National Water Supply and Drainage Board's management has stated that 5,993 water consumer accounts have been sent to the Head Office to commence legal proceedings for the year 2023.
-
-The Board's management has been referred to the audit to recover Rs. 617 million to recover the dues of Rs.. It is reported that Rs. 66 million and Rs.
-
-◼️
-
-[Data](articles/c2528e8f.json)
-
-[Extended Data](ext_articles/c2528e8f.ext.json)
-
----
-
-### Was the protection removed for religious places of worship?Ministry of Defense
-
-*2024-11-03 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197821) · `ta`
-
-Defense Ministry denies removal of security from religious sites. False news spread on newspapers and social media. Official statement rejects claims.
-
-🟩
-
-The Ministry of Defense has refused the news that the security forces and members of the Civil Defense Department have been removed from religious places of worship.
-
-Media Spokesperson and Media Spokesperson of the Ministry of Defense and Media Speaker at a special press conference on Sunday afternoon (03). B.. B.. Nalin Herath said this.
-
-He added that the false news has been published on the leading newspaper and social media and that all information has been rejected by the tweet.
-
-◼️
-
-[Data](articles/96e0a407.json)
-
-[Extended Data](ext_articles/96e0a407.ext.json)
 
 ---

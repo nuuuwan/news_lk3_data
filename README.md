@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 12:39:59**
+As of **2024-11-04 12:58:40**
 
 ## Newspaper Stats
 
-*Scraped **52,933** Articles*
+*Scraped **52,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,102 @@ economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,933
-adaderanalk | 6,295
-tamilmirrorlk | 7,355
+adaderanalk | 6,297
+tamilmirrorlk | 7,357
 virakesarilk | 8,548
-adaderanasinhalalk | 9,223
+adaderanasinhalalk | 9,225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,933 (100.0%) of 52,933 articles have been extended.
+52,935 (100.0%) of 52,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### ලිට්‍රෝ ගෑස් මිල ගැන නිවේදනයක්
+
+*2024-11-04 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202888) · `si`
+
+මේ මාසයට අදාළව ගෑස් මිලෙහි කිසිදු වෙනසක් සිදුනොවන බව ලි‍ට්‍රෝ ගෑස් සමාගම පවසයි.
+
+◼️
+
+[Data](articles/1184be1d.json)
+
+---
+
+### ලොහාන් ගේ බිරිඳත් රිමාන්ඩ්
+
+*2024-11-04 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202887) · `si`
+
+නීතිවිරෝධී ලෙස එකලස් කරන ලද මෝටර් රථයේ සිද්ධිය සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාගේ බිරිඳ වන රෂි ප්‍රභා රත්වත්තේ මහත්මියව ද එළැඹෙන 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+
+ඒ ඇයට කළ දැනුම්දීමකට අනූව ගංගොඩවිල අධිකරණය හමුවේ අද (04) පෙනීසිටීමෙන් අනතුරුවය.
+
+එම සිද්ධිය සම්බන්ධයෙන් අවස්ථා කිහිපයකදී මිරිහාන පොලීසියට හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙසට ඇයට දැනුම් දීම් සිදුකර තිබූ බව සඳහන් ය.
+
+ඒ අනුව ඇය අද දිනයේදී අධිකරණය හමුවේ පෙනී සිට ඇති අතර එහිදී ඇයව අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/fe7afc99.json)
+
+---
+
+### Diana Gamage’s passport case to be heard in January
+
+*2024-11-04 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103145/diana-gamages-passport-case-to-be-heard-in-january) · `en`
+
+The Colombo High Court has ordered the case filed against former State Minister Diana Gamage over allegedly obtaining a Sri Lankan passport by producing forged documents to be heard on January 09, 2025.
+
+The case was taken up before Colombo High Court Judge Manjula Thilakaratne today (04) and at that time, the accused, Diana Gamage, also appeared before the court, Ada Derana reporter said.
+
+After considering the facts presented, the High Court judge ordered for the hearing of evidence related to the case to be called on January 09, 2025.
+
+Additionally, the judge ordered that the case materials be securely stored and also instructed that summons be issued to the witnesses to appear in court on that date.
+
+◼️
+
+[Data](articles/56e6e150.json)
+
+[Extended Data](ext_articles/56e6e150.ext.json)
+
+---
+
+### No change in Litro Gas prices for November
+
+*2024-11-04 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103144/no-change-in-litro-gas-prices-for-november) · `en`
+
+The Litro Gas Company says that the prices of it’s domestic LP Gas cylinders will remain unchanged for the month of November 2024.
+
+The Chairman of the Litro Gas Company, Channa Gunawardena stated that the company decided to keep the prices of LP gas cylinders unchanged despite the price hike in the global market, in order to provide relief to the consumers.
+
+The state-owned company further said that it was possible to provide such relief due to proper management of stocks and operations.
+
+Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
+
+◼️
+
+[Data](articles/13011902.json)
+
+[Extended Data](ext_articles/13011902.ext.json)
+
+---
+
+### எரிவாயு விலையில் மாற்றமில்லை
+
+*2024-11-04 12:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றமில்லை/175-346534) · `ta`
+
+லிட்ரோ சமையல் எரிவாயுவின் விலை இம் மாதமும் மாற்றம் செய்யப்பட மாட்டாது என  லிட்ரோ நிறுவனம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0fb7b71e.json)
+
+---
 
 ### Sunil Jayaratne appointed new Chairman of the Civil Aviation Authority of Sri Lanka
 
@@ -2181,119 +2263,5 @@ ECONOMYNEXT – Sri Lanka’s Lawyers Collective, has expressed concern that rec
 [Data](articles/ab63241d.json)
 
 [Extended Data](ext_articles/ab63241d.ext.json)
-
----
-
-### Lohan Ratwatte to a normal ward
-
-*2024-11-03 18:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202867) · `si`
-
-Former Minister Lohan Ratwatte transferred from ICU to general ward after emergency treatment. Accused of illegal use of luxury car brought from abroad. Detained in remand prison since July 7th.
-
-🟩
-
-බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ කොළඹ ජාතික රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ (E.T.U) ප්‍රතිකාර ලබමින් සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතා එම ඒකකයෙන් ඉවත්කර කොළඹ ජාතික රෝහලේ නේවාසික ප්‍රතිකාර සඳහා සාමාන්‍ය වාට්ටුවක් වෙත යොමු කර තිබේ.
-
-Prison spokesman Gamini B Dissanayake said that LAAON Ratwatte was admitted to the National Hospital due to an emergency at night.
-
-රත්වත්තේ මහතා බන්ධනාගාර රෝහලේ නේවාසිකව ප්‍රතිකාර ලබමින් සිටින අවස්ථාවේදී ඊයේ රාත්‍රී කාලයේදී හදිසියේ ඇති වූ සංකූලතාවයක් හේතුවෙන්  කොළඹ ජාතික රෝහලේ හදිසි ප්‍රතිකාර ඒකකය වෙත ඇතුළත් කර ඇත.
-
-After the end of the treatment, he has been directed to a normal ward for residential treatment.
-
-නීතිවිරෝධී අයුරින් විදේශයකින් මෙරටට ගෙන්වා එකලස් කරන ලද සුඛෝපභෝගී මෝටර් රථයක් භාවිත කිරීමේ චෝදනාවට සැකපිට පසුගිය 31 වනදා අත්අඩංගුවට ගත් ලොහාන් රත්වත්තේ මහතා නුගේගොඩ වැඩබලන මහෙස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කිරීමෙන් පසු මේ මස 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කෙරුණි.
-
-...
-
-[Data](articles/365cc166.json)
-
-[Extended Data](ext_articles/365cc166.ext.json)
-
----
-
-### Gota's 'ropes' is given to 'ropes'
-
-*2024-11-03 18:21:36* · [`adalk`](https://www.ada.lk/breaking_news/ගෝඨාට-’ලණු’-දුන්-කණ්ඩායම-අනුරටත්-’ලණු’-දෙනවා/11-412828) · `si`
-
-Here's a 200-character summary:
-
-
-
-Gotetes ropes transferred to ropes. Group advises Gazette. Rice support for Gazettes and big rice traders at Rs. 220. UKMA President Muditha Perera confirms price. Some retailers sell Nadu rice at lower rates.
-
-🟩
-
-The group advised to advise the gazette, the group who advised Gotettes for two and a half years of supporting the gazette, and the country's large-scale rice businessmen will be given rice at Rs. 220.President of the United Kingdom Manufacturers Association, Muditha Perera said that the rice is giving rice at 220.
-
-In some areas, the retail rice businessmen are releasing a kilo of nadu rice at Rs..
-
-◼️
-
-[Data](articles/e212e49e.json)
-
-[Extended Data](ext_articles/e212e49e.ext.json)
-
----
-
-### COOs bowed the price of three
-
-*2024-11-03 18:15:45* · [`adalk`](https://www.ada.lk/breaking_news/සතොස-භාණ්ඩ-තුනක-මිල-බස්සවයි/11-412827) · `si`
-
-Lanka Sathosa reduces prices: Nagas now Rs. 850/kg, big onions Rs. 300/kg. Relief measures implemented nationwide.
-
-🟩
-
-The Lanka Sathosa says that the prices have been reduced by three essential commuters sold by Lanka Sathosa with the objective of providing relief to the people.
-
-Accordingly, the citizens of a kilogram of nags in all Lanka Sathosa outlets of the country from Rs. 850 to Rs.Heads of the Institute Saman Kariyawasam said.
-
-He also said that a kilo of big onions can be obtained from all Sathosa outlets at Rs. 300 each.
-
-◼️
-
-[Data](articles/69c76882.json)
-
-[Extended Data](ext_articles/69c76882.ext.json)
-
----
-
-### Inflation in Colombo is for the second consecutive year
-
-*2024-11-03 18:06:43* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-උද්ධමනය-අඛණ්ඩව-දෙවැනි-වතාවටත්-අවධමනයක/11-412826) · `si`
-
-Colombo inflation drops second straight year. Consumer Price Index shows negative growth, matching Central Bank's forecast. SLBFE reports 0.8% decrease in 2024.
-
-🟩
-
-In the Colombo Consumer Price Index (Utan 2021 = 100) Surface inflation measured by the annual point difference is a negative for the second month, consistent with short-term inflationary predictions made by the Central Bank of Sri Lanka.The Central Bank of Sri Lanka (SLBFE) reports that 2024 reduces a 0.8 percent paragraph recorded in the month.
-
-◼️
-
-[Data](articles/e4e5215a.json)
-
-[Extended Data](ext_articles/e4e5215a.ext.json)
-
----
-
-### Lack of foreign labor remittances in September
-
-*2024-11-03 17:59:46* · [`adalk`](https://www.ada.lk/breaking_news/සැප්තැම්බරයේ-විදෙස්-ශ්‍රමික-ප්‍රේෂණවල-අඩුවක්/11-412825) · `si`
-
-Foreign labor remittances in Sri Lanka decreased from $577 million in August to $556 million in September 2024, compared to $482 million in September 2023. Remittances have exceeded $500 million since March 2024. Total remittances for January to September 2024 reached $4,844 million, surpassing the $4,345 million received during the same period in 2023.
-
-🟩
-
-The Central Bank of Sri Lanka says that in September this year, the Central Bank said. In August, the value of foreign labor remittances recorded US $ 577 million in September, the value has fallen to $ 556 million.
-
-However, the month of the month of September last year showed an increase in the labor remittances. In 2023, the value was US $ 482 million.
-
-From March this year, the labor remittances have exceeded US $ 500 million.
-
-In the month of January to September 2023, US $ 4345 million was received as US $ 4844 million in 2024.
-
-◼️
-
-[Data](articles/7fbf5bd7.json)
-
-[Extended Data](ext_articles/7fbf5bd7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 10:12:51**
+As of **2024-11-04 10:25:18**
 
 ## Newspaper Stats
 
-*Scraped **52,907** Articles*
+*Scraped **52,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,930
-adaderanalk | 6,289
-tamilmirrorlk | 7,349
+adaderanalk | 6,291
+tamilmirrorlk | 7,351
 virakesarilk | 8,546
 adaderanasinhalalk | 9,218
 
@@ -26,11 +26,103 @@ adaderanasinhalalk | 9,218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,907 (100.0%) of 52,907 articles have been extended.
+52,911 (100.0%) of 52,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### President announces beginning of era for country’s renaissance
+
+*2024-11-04 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103137/president-announces-beginning-of-era-for-countrys-renaissance) · `en`
+
+President Anura Kumara Dissanayake has announced that the era of reviving the collapsed country has begun.
+
+Speaking at a public meeting in the Badulla area, he stated that no one can halt this journey.
+
+The President further highlighted that many plans have been developed to rebuild the nation.
+
+“We have prepared a plan to digitize our country. We are aiming to make 2025 the year with the highest tourist arrivals in Sri Lanka. We are also launching our ‘Clean Sri Lanka’ program, a nation that is virtuous, disciplined, law-abiding, and equipped with a clean public toilet system across the country,” he said.
+
+He stated that they intend to establish a new center for science and research and emphasized that their efforts will go beyond that, with plans already in place to reopen closed factories and build new ones.
+
+“Plans are underway to reopen closed factories and construct new ones. This is the era of renaissance for our country. No one can stop this journey.”
+
+...
+
+[Data](articles/e6c4e9d2.json)
+
+[Extended Data](ext_articles/e6c4e9d2.ext.json)
+
+---
+
+### Australian employment; one arrested
+
+*2024-11-04 10:04:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவுஸ்திரேலிய-வேலைவாய்ப்பு-ஒருவர்-கைது/175-346525) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"64-year-old Australian citizen arrested for financial fraud. Allegedly defrauded up to $1 million from public. Arrested based on confidential police tip."
+
+🟩
+
+A 64 -year -old man has been arrested on charges of financial fraud for the public for allegedly providing employment in Australia.
+
+The man has been defrauded of up to a million rupees from the public and he was arrested on a confidential information received by the Moratuwa police.
+
+◼️
+
+[Data](articles/3cde566d.json)
+
+[Extended Data](ext_articles/3cde566d.ext.json)
+
+---
+
+### Arrested 2 foreigners who stayed in violation of conditions
+
+*2024-11-04 09:56:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிபந்தனைகளை-மீறி-தங்கியிருந்த-2-வெளிநாட்டவர்கள்-கைது/175-346522) · `ta`
+
+Sri Lanka arrests 2 foreigners violating visa conditions: 1 Italian (22), 1 British citizen (32) in Kandy area.
+
+🟩
+
+Two foreign nationals have been arrested in Sri Lanka despite visa conditions.
+
+The arrested foreigners were 22 -year -old Italians and a 32 -year -old British citizen, police said.
+
+Two foreigners have been arrested in the Kandy area in the Kandy area following confidential information received by the Kandy Tourism Police Division.
+
+◼️
+
+[Data](articles/9bdae50c.json)
+
+[Extended Data](ext_articles/9bdae50c.ext.json)
+
+---
+
+### Special measles vaccination program from today
+
+*2024-11-04 09:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103136/special-measles-vaccination-program-from-today-) · `en`
+
+The Ministry of Health has launched a special measles vaccination program to be implemented from today (04) until November 09.
+
+Accordingly, it is stated that this program has been planned to be implemented in 12 selected districts across the country.
+
+Although Sri Lanka has successfully eradicated measles, this program has been implemented due to reported measles cases in some areas last year.
+
+Dr. Hasitha Tissera, a Senior Epidemiologist at the Ministry of Health’s Epidemiology Unit, expressed his opinion in this regard stating that the aim here is to target the younger generation, especially, those who have either not received the measles vaccine at all or have missed it for various reasons.
+
+He highlighted the need to identify individuals who have not received complete protection from the vaccine, including those who have only had one dose, and to ensure they receive a second dose.
+
+...
+
+[Data](articles/668e6d12.json)
+
+[Extended Data](ext_articles/668e6d12.ext.json)
+
+---
 
 ### A revelation of a suicide entrepreneur due to Paranna law
 
@@ -2197,97 +2289,5 @@ The committee appointed as Senasana, Religious and Cultural Affairs, National In
 [Data](articles/e4d909ba.json)
 
 [Extended Data](ext_articles/e4d909ba.ext.json)
-
----
-
-### Is the intelligence wrong?
-
-*2024-11-03 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197782) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US prioritizes safety in Sri Lanka due to strategic importance in Indo-Pacific region. Transparency and partnership sought with Sri Lanka.
-
-🟩
-
-“The United States is more concerned about being safe in Sri Lanka. This is because open transparent Indo -Pacific wants Sri Lanka as an important partner in the strategy of the United States. ”
-
-◼️
-
-[Data](articles/8ad27d47.json)
-
-[Extended Data](ext_articles/8ad27d47.ext.json)
-
----
-
-### The vehicle digit distribution was suspended
-
-*2024-11-03 15:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இலக்கத்தகடு-விநியோகம்-இடைநிறுத்தப்பட்டது/175-346496) · `ta`
-
-Vehicle digit distribution suspended due to payment delays. Cabinet approval sought. Temporary paper plates allowed. Work expected to resume next week.
-
-🟩
-
-Motor Vehicle Transport Commissioner General Nishantha Weerasinghe says that the distribution of digital plates has been temporarily suspended due to delay in payment of vehicle digits.
-
-He said that the Cabinet approval will be obtained immediately for the appropriate payments and that the work will be completed within next week.
-
-The Motor Transport Commissioner General has said that a letter is issued to the owners of the vehicle.
-
-He further stated that the vehicle owners have been given temporary permission to display the registered vehicle number printed on the paper until the vehicle number is issued.. Remble
-
-◼️
-
-[Data](articles/67a1b2c0.json)
-
-[Extended Data](ext_articles/67a1b2c0.ext.json)
-
----
-
-### வாகன இலக்கத்தகடு விநியோகம் இடைநிறுத்தம்
-
-*2024-11-03 15:40:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகன-இலக்கத்தகடு-விநியோகம்-இடைநிறுத்தம்/175-346496) · `ta`
-
-Vehicle license plate distribution halted due to payment delays. Temporary permits issued for displaying printed registration numbers. Cabinet approval sought for proper payments. Work expected to resume next week.
-
-🟩
-
-Motor Vehicle Transport Commissioner General Nishantha Weerasinghe says that the distribution of digital plates has been temporarily suspended due to delay in payment of vehicle digits.
-
-He said that the Cabinet approval will be obtained immediately for the appropriate payments and that the work will be completed within next week.
-
-The Motor Transport Commissioner General has said that a letter is issued to the owners of the vehicle.
-
-He further stated that the vehicle owners have been given temporary permission to display the registered vehicle number printed on the paper until the vehicle number is issued.. Remble
-
-◼️
-
-[Data](articles/9963f873.json)
-
-[Extended Data](ext_articles/9963f873.ext.json)
-
----
-
-### We have no chavas by the power of the national people - CVP. Ram
-
-*2024-11-03 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197777) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"We have no chavas by the power of the national people - CVP. Public servants can be restricted from corruption scandals in the public sector. The government should take steps to make the state sector a catalyst for salary increases."
-
-🟩
-
-Public servants can be restricted to corruption scandals in public sector. The government should take steps to make the state sector a catalyst, as the salary increases.
-
-◼️
-
-[Data](articles/6d35942e.json)
-
-[Extended Data](ext_articles/6d35942e.ext.json)
 
 ---

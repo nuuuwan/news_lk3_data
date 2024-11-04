@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 18:36:04**
+As of **2024-11-04 19:02:52**
 
 ## Newspaper Stats
 
-*Scraped **52,998** Articles*
+*Scraped **53,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,71 @@ islandlk | 3,169
 economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,944
-adaderanalk | 6,308
+adalk | 4,945
+adaderanalk | 6,309
 tamilmirrorlk | 7,365
 virakesarilk | 8,555
-adaderanasinhalalk | 9,240
+adaderanasinhalalk | 9,241
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,998 (100.0%) of 52,998 articles have been extended.
+53,001 (100.0%) of 53,001 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Election Complaints
+
+*2024-11-04 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202905) · `si`
+
+Here's a 200-character summary:
+
+
+
+Election complaints surge: 1,535 filed since Sept 26, 153 received today. 127 complaints reported in 24 hours. 126 ruled by law, 1 on violence. EPL resolves 1,248, pending 287.
+
+🟩
+
+The number of election complaints have been further increased to the Election Commission regarding the Parliament election.
+
+ඒ අනුව පසුගිය සැප්තැම්බර් මස 26 වැනි දින සිට ඊයේ (03) දින දක්වා මැතිවරණ කොමිසම වෙත ලැබී ඇති පැමිණිලි සංඛ්‍යාව 1535කි.
+
+ඊයේ දින පස්වරු 4.30 දක්වා වූ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ කොමිෂන් සභාව වෙත පැමිණිලි 127ක් වාර්තා වී තිබේ.
+
+Of these, 126 complaints were ruled by the laws and one complaint has been reported on violence.
+
+The Elections Commission (EPL) has issued 1248 complaints that have been resolved and 287 complaints have been resolved.
+
+◼️
+
+[Data](articles/045f70b9.json)
+
+[Extended Data](ext_articles/045f70b9.ext.json)
+
+---
+
+### Distribution of fertilizer subsidy for ‘Maha Season’ begins
+
+*2024-11-04 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103158/distribution-of-fertilizer-subsidy-for-maha-season-begins-) · `en`
+
+The Commissioner General of the Department of Agrarian Development U.P. Rohana Rajapakshe said that that the distribution of fertilizer subsidy of Rs. 25,000 for the 2024 ‘Maha Season’ has already commenced.
+
+He noted that during the first phase of this initiative, Rs. 15,000 has been distributed per farmer, benefiting 670 individuals across the Ampara and Kilinochchi districts, with a total of Rs. 9.5 million released for 630 hectares of land.
+
+In its second phase, Rs. 46.5 million have been provided for 4,475 farmers in 12 districts, while Rs. 57.5 million have been released to 4,219 farmers in 12 districts during the third phase. The government has also provided Rs. 47.7 million for 4,804 farmers in 12 districts as the fourth phase of the programme.
+
+Additionally, Rajapakshe also said that today (04), an amount of Rs. 279.4 million will be allocated from the Treasury to be distributed to 22,419 farmers in 19 districts.
+
+...
+
+[Data](articles/e16767f7.json)
+
+[Extended Data](ext_articles/e16767f7.ext.json)
+
+---
 
 ### ප්‍රදේශ කිහිපයකට නායයෑම් අනතුරු ඇඟවීම් නිකුත් කෙරේ
 
@@ -75,6 +125,26 @@ He added that more spill gates would be opened at night if heavy rains were rece
 [Data](articles/1d82bdb2.json)
 
 [Extended Data](ext_articles/1d82bdb2.ext.json)
+
+---
+
+### ඉන්දියාවේ සිදු වූ බස් රථ අනතුරකින් 36 දෙනෙකු ජීවිතක්ෂයට
+
+*2024-11-04 17:33:55* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිදු-වූ-බස්-රථ-අනතුරකින්-36-දෙනෙකු-ජීවිතක්ෂයට/11-412848) · `si`
+
+In India's Uttarakhand state, a bus accident killed 36 people. The bus overturned while crossing a bridge, leaving 44 passengers injured according to foreign media reports.
+
+🟩
+
+ඉන්දියාවේ උත්තර්කාන්ද් ප්‍රාන්තයේ සිදු වූ බස් රථ අනතුරකින් පුද්ගලයන් 36 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+මෙම බස් රථය ප්‍රපාතයකට පෙරලී යාමෙන් අනතුර සිදුව ඇති අතර, අනතුර සිදුවන අවස්ථාවේ බස් රථය තුළ පුද්ගලයන් 44 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+◼️
+
+[Data](articles/354fea22.json)
+
+[Extended Data](ext_articles/354fea22.ext.json)
 
 ---
 
@@ -2253,69 +2323,5 @@ Each voter has one vote, which can be cast for a recognized political party or a
 [Data](articles/d65e0dbe.json)
 
 [Extended Data](ext_articles/d65e0dbe.ext.json)
-
----
-
-### Air pollution;Schools that are closed
-
-*2024-11-04 08:59:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காற்று-மாசுபாடு-மூடப்படும்-பாடசாலைகள்/50-346518) · `ta`
-
-Pakistan shuts schools due to poor air quality affecting 14 million residents. Government action taken as wind quality remains low for 6 days.
-
-🟩
-
-The government of Pakistan, the second largest city of Pakistan, will shut down schools for about a week as the quality of wind has deteriorated.
-
-The quality of the wind has been bad for several days in the city where about 14 million people live.
-
-The weather forecast shows that there will be no change in the quality of the air for the next 6 days.
-
-◼️
-
-[Data](articles/eae64141.json)
-
-[Extended Data](ext_articles/eae64141.ext.json)
-
----
-
-### Landslide alert to several areas
-
-*2024-11-04 08:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-346517) · `ta`
-
-Landslide warnings issued for Badulla, Galle, Matara, Kandy, Kegalle, Kurunegala, Kalutara, Ratnapura due to heavy rain. National Building Research Institute alerts Divisional Secretariats.
-
-🟩
-
-Due to inclement weather in the country, many areas have been issued a landslide warning.
-
-Accordingly, the National Building Research Institute has issued a warning to the Divisional Secretariats of Badulla, Galle, Matara, Kandy, Kegalle, Kurunegala, Kalutara and Ratnapura districts.. Remble
-
-◼️
-
-[Data](articles/f8802975.json)
-
-[Extended Data](ext_articles/f8802975.ext.json)
-
----
-
-### 8 suspects arrested over Midigama shooting
-
-*2024-11-04 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103132/8-suspects-arrested-over-midigama-shooting) · `en`
-
-The Matara Division Crimes Bureau has arrested eight suspects involved in a shooting that killed one person and injured two others in the Goviyapana area in Midigama Police Division.
-
-On September 19, the suspects arrived on a motorcycle and opened fire at a person in a fish market in the Goviyapana area, and then fled the scene.
-
-The main shooter, a suspect found with a firearm and five rounds of ammunition, five accomplices, and a female suspect were arrested yesterday (03) in Wellawaya, Ahangama, and Midigama areas by officers of the Matara Division Crimes Bureau.
-
-The suspects were subsequently taken to the Matara Police Station. The three-wheeler used to transport the weapon after the crime was also seized by police.
-
-The arrested suspects, aged between 20 and 42, are residents of Ahangama, Weligama, and Wellawaya, while the female suspect is a 41-year-old resident of Ahangama.
-
-...
-
-[Data](articles/3001cb5a.json)
-
-[Extended Data](ext_articles/3001cb5a.ext.json)
 
 ---

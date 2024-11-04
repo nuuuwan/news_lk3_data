@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 15:24:08**
+As of **2024-11-04 15:40:22**
 
 ## Newspaper Stats
 
-*Scraped **52,960** Articles*
+*Scraped **52,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,166
 economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,938
+adalk | 4,939
 adaderanalk | 6,302
 tamilmirrorlk | 7,363
 virakesarilk | 8,548
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,230
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,960 (100.0%) of 52,960 articles have been extended.
+52,961 (100.0%) of 52,961 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -343,6 +343,28 @@ They also accused the king and the government that the killer was dedicated to d
 [Data](articles/4c999595.json)
 
 [Extended Data](ext_articles/4c999595.ext.json)
+
+---
+
+### Treasury billing auction of Rs. 175,000 million
+
+*2024-11-04 13:14:09* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-175-000ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-412840) · `si`
+
+Central Bank of Sri Lanka announces Treasury bill auction of Rs. 175,000 million. Auction date: Evening. Issue and payment deadline: November 08.
+
+🟩
+
+The Central Bank of Sri Lanka announced that a Treasury bill auction is held will be held on the evening a Treasury billing auction.
+
+The Treasury bills of Rs.
+
+The Treasury bill issue and payment is due to be made on November 08.
+
+◼️
+
+[Data](articles/d6a6c755.json)
+
+[Extended Data](ext_articles/d6a6c755.ext.json)
 
 ---
 
@@ -2241,27 +2263,5 @@ The thread-bound book in hard cover will ensure that the readers could use it fo
 [Data](articles/2daaff22.json)
 
 [Extended Data](ext_articles/2daaff22.ext.json)
-
----
-
-### Tamil National People's Front campaign in Vavuniya
-
-*2024-11-03 21:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/197824) · `ta`
-
-Tamil National People's Front campaign summary: TNA propaganda meeting in Vavuniya, led by Kayendrakumar Ponnambalam, attended by many despite rain.
-
-🟩
-
-The great propaganda meeting of the Tamil National People's Front (TNA) was held on Sunday evening at the Kalamazul Playground located in Kurumankadu, Vavuniya.
-
-Party leader Kayendrakumar Ponnambalam was the chief guest at the meeting chaired by S. Thavapalan, the primary candidate for the Vanni district of the Front.
-
-It is noteworthy that the meeting was attended by more civilians and supporters regardless of the rain.
-
-◼️
-
-[Data](articles/6cae1c01.json)
-
-[Extended Data](ext_articles/6cae1c01.ext.json)
 
 ---

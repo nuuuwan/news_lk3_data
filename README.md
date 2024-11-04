@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 03:24:14**
+As of **2024-11-05 03:58:40**
 
 ## Newspaper Stats
 
-*Scraped **53,058** Articles*
+*Scraped **53,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,377
+tamilmirrorlk | 7,378
 virakesarilk | 8,568
 adaderanasinhalalk | 9,247
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,058 (100.0%) of 53,058 articles have been extended.
+53,059 (100.0%) of 53,059 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### We are the Tamil Social Service Union. Support to the tigers
+
+*2024-11-05 01:52:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாம்-தமிழர்-சமூக-சேவை-ஒன்றியம்-த-ம-வி-புலிகளுக்கு-ஆதரவு/175-346571) · `ta`
+
+Tamil Social Service Union supports LTTE in Eastern Province elections. Focuses on education, social services, and addressing Tamil issues. Advocates voting for LTTE candidates to protect Tamil rights and interests.
+
+🟩
+
+In the Eastern Province, we establish the Tamil Social Service Union and we shoulder the shoulder whenever the problems of the Tamils ​​come up.. We are carrying out our services on various issues including education. "We have expanded our services in the East and the North," said Gunasekaram Dineshkumar, president of the East of the Tamil Social Service Union.
+
+There are currently political issues on the Eastern soil. We should not engage in politics, but we decided not to carry out our services only in social service. But we have been forced to give our support to the political side of the time.
+
+Thus, in line with the resolution of our Tamil Social Service Union, we kept many of my demands to many political leaders in the East.. The leader of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) promised to solve the demand made by our community.
+
+...
+
+[Data](articles/8185b62c.json)
+
+[Extended Data](ext_articles/8185b62c.ext.json)
 
 ---
 
@@ -2253,25 +2275,5 @@ One cannot give one president because it receives additional votes. In 2016 Hill
 [Data](articles/b71dc068.json)
 
 [Extended Data](ext_articles/b71dc068.ext.json)
-
----
-
-### Indonesia fire explodes - 10 deaths
-
-*2024-11-04 14:21:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දුනීසියාවේ-ගිනිකන්දක්-පුපුරා-යයි---10-දෙනෙකු-ජීවිතක්ෂයට/11-412843) · `si`
-
-Indonesia: Laki-Laki volcano eruption causes 10 deaths, affects 10,295.
-
-🟩
-
-At least 10 people were killed when Laki-Laki volcanic eruptions in Indonesia.
-
-Another 10,295 persons have been affected by the explosion of volcanoes.
-
-◼️
-
-[Data](articles/eba456a2.json)
-
-[Extended Data](ext_articles/eba456a2.ext.json)
 
 ---

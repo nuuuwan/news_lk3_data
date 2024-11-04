@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 21:11:56**
+As of **2024-11-04 21:40:40**
 
 ## Newspaper Stats
 
-*Scraped **53,027** Articles*
+*Scraped **53,028** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,948
 adaderanalk | 6,312
-tamilmirrorlk | 7,371
+tamilmirrorlk | 7,372
 virakesarilk | 8,562
 adaderanasinhalalk | 9,246
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,246
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,026 (100.0%) of 53,027 articles have been extended.
+53,028 (100.0%) of 53,028 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### O/L main notice for students
+
+*2024-11-04 20:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மாணவர்களுக்கு-முக்கிய-அறிவிப்பு/175-346565) · `ta`
+
+GCE Ordinary Level Exam application deadline: Nov 30, 2023. Applications open now until then.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundara said that applications for the GCE Ordinary Level Examination have been requested for 2024 (2025).
+
+Accordingly, applications will be accepted from tomorrow (05) to 30th November, he said.. Remble
+
+◼️
+
+[Data](articles/726e5a14.json)
+
+[Extended Data](ext_articles/726e5a14.ext.json)
+
+---
 
 ### Each citizen has a digital number is owned by the security force - Dilith
 
@@ -1412,6 +1432,8 @@ Immediately after its victory in the Presidential Election, the National Power o
 
 [Data](articles/8e21a70b.json)
 
+[Extended Data](ext_articles/8e21a70b.ext.json)
+
 ---
 
 ### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
@@ -2319,21 +2341,5 @@ The court also ordered that the attendees to appear before the court that day.
 [Data](articles/ea7c3b71.json)
 
 [Extended Data](ext_articles/ea7c3b71.ext.json)
-
----
-
-### Dr. Mothilal de Silva appointed new chairman of SLT
-
-*2024-11-04 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103141/dr-mothilal-de-silva-appointed-new-chairman-of-slt) · `en`
-
-The Board of Directors of Sri Lanka Telecom PLC has resolved to appoint Dr. Mothilal de Silva, as an Independent, non-Executive Director and Chairman of the Board of Sri Lanka Telecom PLC with effect from 04 November 2024.
-
-With a career spanning over many decades, Dr Mothilal de Silva is a result oriented multidisciplinary C-level executive in the telecommunication industry having experience in Sri Lanka and multiple countries in Asia and Pacific regions. He is a turnaround specialist and a strategist.
-
-...
-
-[Data](articles/3a91d9d8.json)
-
-[Extended Data](ext_articles/3a91d9d8.ext.json)
 
 ---

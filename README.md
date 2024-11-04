@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 20:40:13**
+As of **2024-11-04 20:59:27**
 
 ## Newspaper Stats
 
-*Scraped **53,023** Articles*
+*Scraped **53,026** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
-colombotelegraphcom | 540
+colombotelegraphcom | 541
 bbccomsinhala | 543
 islandlk | 3,169
 economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,947
+adalk | 4,948
 adaderanalk | 6,312
 tamilmirrorlk | 7,371
 virakesarilk | 8,562
-adaderanasinhalalk | 9,245
+adaderanasinhalalk | 9,246
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,023 (100.0%) of 53,023 articles have been extended.
+53,023 (100.0%) of 53,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### සෑම පුරවැසියෙකුටම ඩිජිටල් අංකයක් ලබාදීමේ වැඩපිළිවෙළ සර්වජන බලය සතුයි - දිලිත්
+
+*2024-11-04 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202910) · `si`
+
+රටේ සෑම පුරවැසියෙකුටම අනන්‍ය ඩිජිටල් හැඳුනුම් අංකයක් ලබාදීමේ වැඩපිළිවෙළ මාස 6ක් තුළ ස්ථාපිත කිරීමේ සැලසුම තමන් සතු බව සර්වජන බලය නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+අද (04) පස්වරුවේ රත්නපුරයේදී පැවැත්වූ ජන රැලියට එක්වෙමින් දිලිත් ජයවීර මහතා මෙම අදහස් පළ කළේය.
+
+"අපි යෝජනා කළා හැම පුද්ගලයෙකුටම මේ රටේ අනන්‍ය හැඳුනුම් අංකයන් නිකුත් කරලා මේ රටේ ඉන්න සියලුම මිනිස්සු මෙන්න මේ ඩිජිටල් වේදිකාවට, සුහුරු වේදිකාවට ගේන්න. ඒ තුළින් මේ රටේ ආදායම් විෂමතාවයට හා බදු එක් රැස් කරගැනීමේ ඇති ඒ අක්‍රමිකතාවයන්, අඩුපාඩු නිවැරදි කරගෙන මේ ආදායම් විෂමතාවය නිසාම හටගත් දරිද්‍රතාවය හා මේ රටේ දුක් විඳින මිනිස්සුන්ගේ ගැටලු ගැන හොයලා බලන්නට වැඩපිළිවෙළක්.
+
+...
+
+[Data](articles/2d002383.json)
+
+---
 
 ### Petroleum Corporation reveals about fuel revision
 
@@ -399,6 +415,20 @@ Additionally, Rajapakshe also said that today (04), an amount of Rs. 279.4 milli
 [Data](articles/e16767f7.json)
 
 [Extended Data](ext_articles/e16767f7.ext.json)
+
+---
+
+### ගම්මන්පිලගෙන් ඇමති විජිතට අභියෝගයක්
+
+*2024-11-04 18:20:05* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිලගෙන්-ඇමති-විජිතට-අභියෝගයක්/11-412853) · `si`
+
+පාස්කු වාර්තා සහ ණය ගැනීම පිළිබඳව තමන් සමග  ප්‍රසිද්ධ විවාදයකට පැමිනෙන්නැයි  විජිත හේරත් ඇමතිවරයාට සර්වජන බලය කොළඹ දිස්ත්‍රික් අපේක්ෂක සහ  පිවිතුරු හෙළ උරුමය නායක නීතිඥ උදය ගම්මන්පිල මහතා අභියෝග කලේය. ඒ මහතා මේ බව සදහන් කර සිටියේ අද පෙරවරුවේ පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුව හා එක් වෙමිනි. පිවිතුරු හෙළ උරුමය නායකයා එහිදී වැඩිදුරටත් මෙසේ අදහස් දැක්වීය.
+
+,තමන්ගේ දේශපාලන හිතවතුන් වැරදිකරුවන් කරලා තිබෙන නිසා විජිත හේරත් ඇමතිතුමා බොරු හේතු දක්වලා අල්විස් වාර්තාව ප්‍රතික්ෂේප කළා. අල්විස් විනිසුරුතුමිය විෂමාචාර කරලා තිබෙන බවට ඇමතිතුමා චෝදනා කළාම පුළුවන් නම් ඒකට සාක්ෂි ඉදිරිපත් කරන්න කිව්වාම හෙමින් සීරුවේ ඒක මග හැරියා.
+
+...
+
+[Data](articles/cb074d4d.json)
 
 ---
 
@@ -1452,6 +1482,18 @@ However, the crowds have persisted, with many expressing frustration over delays
 
 ---
 
+### Towards Stability, Equity & Prosperity: Part IV
+
+*2024-11-04 14:35:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-iv/) · `en`
+
+The former president, Mr Ranil Wickremesinghe has asked the voters to elect members with experience back to the parliament at the Nov 14 election. He alleges that those who have worked with him in the past have the necessary expertise for running the government and managing the economy. Meanwhile, the Samagi Jana Balavegaya (SJB) led by Mr Sajith Premadasa also has stated that the economic team they have is the most qualified and experienced that needs to be elected. They further state that their policy declaration and economic program provide practical solutions to the basic problems of the country.
+
+...
+
+[Data](articles/64b0a108.json)
+
+---
+
 ### Proposed tariff reduction insufficient; PUCSL calls for revised proposal from CEB
 
 *2024-11-04 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103149/proposed-tariff-reduction-insufficient-pucsl-calls-for-revised-proposal-from-ceb) · `en`
@@ -2285,71 +2327,5 @@ Dr. Mothilal Dialog Axiata and Malaysia Axiata has also held high positions.
 [Data](articles/e04934e8.json)
 
 [Extended Data](ext_articles/e04934e8.ext.json)
-
----
-
-### The first budget increases public servants salary
-
-*2024-11-04 11:05:49* · [`adalk`](https://www.ada.lk/breaking_news/පළමු-අයවැයෙන්-රාජ්‍ය-සේවක-වැටුප-වැඩි-කරනවා/11-412837) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-First budget increases public servants' salaries. President Anura Kumara Dissanayake discusses economic challenges, corruption, and future reforms. Plans for tourism growth and educational improvements mentioned.
-
-🟩
-
-"There is a nation that is in the house to fall into the house, people who have thought that the power of a class of parliament every day will be found in Parliament and see what they think of the power of a class.'What has been done, "said President Anura Kumara Dissanayake.
-
-"During the presidential election, the people were overcome. Now the opposition asks. People say this voter is a bit lazy. There is no meetings, buses, rice, lack of sheets, but Colombo will not go to Badulla. They have taken away the defeat of spya.
-
-In the presidential election, people are increasingly allegedly alike during the party.. Those who do not have voted for us today is coming around our party today.
-
-We don't have political power to lead this country.The presidense has the presidency, it is the force, but not all the field.What should have a good cabinet. At the Cabinet, we can make decisions that we can make decisions. Steps will be taken to hold next year.
-
-...
-
-[Data](articles/e80c0c97.json)
-
-[Extended Data](ext_articles/e80c0c97.ext.json)
-
----
-
-### Two foreign nationals arrested without valid visas in Kandy
-
-*2024-11-04 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103139/two-foreign-nationals-arrested-without-valid-visas-in-kandy) · `en`
-
-Two foreign nationals who were residing in the country without valid visas in violation of immigration and emigration regulations have been arrested in the Buwalikada area of Kandy.
-
-Acting on a tip-off received by the Kandy Tourist Police Unit, the two foreigners were arrested during a raid.
-
-It is reported that the arrested suspects are a 22-year-old Italian and 32-year-old British national.
-
-◼️
-
-[Data](articles/1e7bba92.json)
-
-[Extended Data](ext_articles/1e7bba92.ext.json)
-
----
-
-### Two persons arrested in Kandy
-
-*2024-11-04 10:57:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கண்டியில்-இருவர்-அதிரடியாக-கைது/76-346531) · `ta`
-
-Two foreigners arrested in Kandy for violating visa rules: 22-year-old Italian and 32-year-old British citizen detained and transferred to Kandy Police Station.
-
-🟩
-
-Two foreign nationals who were staying in Sri Lanka in violation of visa conditions have been arrested by the Kandy Tourism Police.
-
-The 22 -year -old Italian and the 32 -year -old British citizen were arrested in the Kandy, Bavelikadai, and later handed over to the Kandy Police Station, police said.
-
-◼️
-
-[Data](articles/139bbcb7.json)
-
-[Extended Data](ext_articles/139bbcb7.ext.json)
 
 ---

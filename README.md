@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 12:58:40**
+As of **2024-11-04 13:10:22**
 
 ## Newspaper Stats
 
@@ -26,39 +26,51 @@ adaderanasinhalalk | 9,225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,935 (100.0%) of 52,939 articles have been extended.
+52,939 (100.0%) of 52,939 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
 
-### ලිට්‍රෝ ගෑස් මිල ගැන නිවේදනයක්
+### A statement on Litro gas prices
 
 *2024-11-04 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202888) · `si`
 
-මේ මාසයට අදාළව ගෑස් මිලෙහි කිසිදු වෙනසක් සිදුනොවන බව ලි‍ට්‍රෝ ගෑස් සමාගම පවසයි.
+Litro Gas Company announces unchanged gas prices for this month. No price adjustments expected.
+
+🟩
+
+Litro Gas, Litro Gas Company says that no changes in the gas price this month will not be changed.
 
 ◼️
 
 [Data](articles/1184be1d.json)
 
+[Extended Data](ext_articles/1184be1d.ext.json)
+
 ---
 
-### ලොහාන් ගේ බිරිඳත් රිමාන්ඩ්
+### Lohan's wife remanded
 
 *2024-11-04 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202887) · `si`
 
-නීතිවිරෝධී ලෙස එකලස් කරන ලද මෝටර් රථයේ සිද්ධිය සම්බන්ධයෙන් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ මහතාගේ බිරිඳ වන රෂි ප්‍රභා රත්වත්තේ මහත්මියව ද එළැඹෙන 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කර තිබේ.
+Lohan Ratwatte's wife remanded until July 7th. She was arrested after appearing in court regarding a police statement about an incident.
 
-ඒ ඇයට කළ දැනුම්දීමකට අනූව ගංගොඩවිල අධිකරණය හමුවේ අද (04) පෙනීසිටීමෙන් අනතුරුවය.
+🟩
 
-එම සිද්ධිය සම්බන්ධයෙන් අවස්ථා කිහිපයකදී මිරිහාන පොලීසියට හමුවේ ප්‍රකාශයක් ලබාදෙන ලෙසට ඇයට දැනුම් දීම් සිදුකර තිබූ බව සඳහන් ය.
+Former State Minister Lohan Ratwatte, wife of former State Minister Lohan Ratwatte, is also remanded until the 7th of this month.
 
-ඒ අනුව ඇය අද දිනයේදී අධිකරණය හමුවේ පෙනී සිට ඇති අතර එහිදී ඇයව අත්අඩංගුවට ගෙන තිබේ.
+According to the Gangodawila court today (04) was in the case of her notice.
+
+She said she had been told to give a statement to the Mirihana Police regarding the incident.
+
+Accordingly, she had appeared in court today and she was arrested.
 
 ◼️
 
 [Data](articles/fe7afc99.json)
+
+[Extended Data](ext_articles/fe7afc99.ext.json)
 
 ---
 
@@ -102,15 +114,21 @@ Accordingly, the prices of Litro LP gas domestic gas cylinders will remain uncha
 
 ---
 
-### எரிவாயு விலையில் மாற்றமில்லை
+### There is no change in gas prices
 
 *2024-11-04 12:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றமில்லை/175-346534) · `ta`
 
-லிட்ரோ சமையல் எரிவாயுவின் விலை இம் மாதமும் மாற்றம் செய்யப்பட மாட்டாது என  லிட்ரோ நிறுவனம் தெரிவித்துள்ளது.
+Litro cooking gas prices unchanged this month, according to company statement. No increase announced.
+
+🟩
+
+The price of Litro cooking gas will not be changed this month, Litro said.
 
 ◼️
 
 [Data](articles/0fb7b71e.json)
+
+[Extended Data](ext_articles/0fb7b71e.ext.json)
 
 ---
 

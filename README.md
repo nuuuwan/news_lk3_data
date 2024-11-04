@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 00:13:53**
+As of **2024-11-05 00:25:17**
 
 ## Newspaper Stats
 
-*Scraped **53,034** Articles*
+*Scraped **53,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,135 @@ colombotelegraphcom | 542
 bbccomsinhala | 543
 islandlk | 3,169
 economynextcom | 3,211
-dailyftlk | 3,613
+dailyftlk | 3,617
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
 tamilmirrorlk | 7,373
-virakesarilk | 8,562
+virakesarilk | 8,567
 adaderanasinhalalk | 9,247
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,034 (100.0%) of 53,034 articles have been extended.
+53,037 (100.0%) of 53,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### World beyond island borders
+
+*2024-11-04 23:49:02* · [`dailyftlk`](https://www.ft.lk/columns/World-beyond-island-borders/4-768834) · `en`
+
+Sri Lanka is an island. Such a geographical feature comes with good and bad. Physical isolation or not having a boundary shared with a neighbouring country gave us peace of mind on border conflicts. However, it did not prevent us from getting invaded by the nations with naval powers. Further, it allowed us to create unique cultural habits blended with the natural environment. We have our own Lepidoptera, birds, and flora and fauna. Free flow of people across the borders would have challenged our ethnic identities. In such a connected country, the competition among migrants for limited resources would have been high, causing tensions among people to win their fair share.
+
+...
+
+[Data](articles/154b6c6b.json)
+
+---
+
+### President Anura - Nimal Lansa
+
+*2024-11-04 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197905) · `ta`
+
+Former MP Nimal Lansa accuses President Anura Kumara Dissanayake of deception, claiming he's not fulfilling campaign promises. He criticizes the current government's handling of corruption scandals and implementation of IMF programs.
+
+🟩
+
+President Anura Kumara Dissanayake is deceiving people. Former parliamentarian Nimal Lansa said he was one of the speaking of the election platforms and a man who was sitting in the presidential seat.
+
+He further stated at a public meeting held on Monday (4) in Katana area.
+
+We are working to build a strong opposition party. It is unconventional that the winner has visited the Katana area for the failed party, not to Anuragumara Dissanayake.. Those who win the election should not think that they will win the next election. Success in the parliamentary election cannot be expected without fulfilling the promises made to the people.
+
+The curse of seventy -five years, the people believed that the ministers had stolen, defrauded and corrupted.. But currently that hope has been lost. President Anura knows that the promises made on the election platform cannot be fulfilled.
+
+...
+
+[Data](articles/b319f2dd.json)
+
+[Extended Data](ext_articles/b319f2dd.ext.json)
+
+---
+
+### No change has been made by the government. False promises, people should not be fooled by false disguises
+
+*2024-11-04 23:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197904) · `ta`
+
+Here's a 200-character summary:
+
+
+
+David Navaratnaraj warns against false promises. No real changes by government. Ranil Wickremesinghe supported, economy improved under him. Current campaign borrowing heavily. Police capable of handling crimes, no need for president intervention.
+
+🟩
+
+No change has been made by the government. David Navaratnaraj, who is contesting as the primary candidate in the UNP's elephant symbol in the Jaffna electoral district, said that the people should not be fooled by false promises and false disguises.
+
+Yall. He said this during a media briefing held at the Media Center on Monday (4).
+
+If he became president in 2005, he voted for Ranil Wickremesinghe and would not have been destroyed. Many people think he is furious. We do not think that politics is an error. It was because of the furious character that the country was restored from the economic downturn.
+
+Today, many who have stood with Ranil Wickremesinghe have split for their own selfishness.Even the JVP continues to carry out the programs launched by Ranil Wickremesinghe. They were unable to carry out new jobs.
+
+Egg prices, rice prices and coconut prices are high today. Ranil Wickremesinghe has now begun to rise again. The regime will go and topple within six months.
+
+...
+
+[Data](articles/02a5a94a.json)
+
+[Extended Data](ext_articles/02a5a94a.ext.json)
+
+---
+
+### President’s vision of transportation: A change agent or mere rhetoric?
+
+*2024-11-04 22:51:13* · [`dailyftlk`](https://www.ft.lk/columns/President-s-vision-of-transportation-A-change-agent-or-mere-rhetoric/4-768832) · `en`
+
+The National People’s Power (NPP) party’s vision for transportation is “to create an efficient, sustainable, and accessible transportation system that enhances mobility for all citizens while promoting economic growth and environmental conservation”. In his election manifesto titled “A thriving nation – A beautiful life,” President Anura Kumara Dissanayake cites “an efficient transport service” as a key element of “A Sustainable Economy.” The President has promised five interventions aimed at delivering “an efficient transport service”. However, no promises are made about improving airports, seaports, fishery harbours, inter-modalism, connectivity, and the environment.
+
+...
+
+[Data](articles/e9ddc860.json)
+
+---
+
+### Combination of experienced and new MPs should be in parliament – S.M. Marikkar
+
+*2024-11-04 22:45:29* · [`dailyftlk`](https://www.ft.lk/columns/Combination-of-experienced-and-new-MPs-should-be-in-parliament-S-M-Marikkar/4-768831) · `en`
+
+Says the SJB should have a strategy to get the support of those who voted for NPP due to anger with certain politicians and corrupt deals
+
+Confirms there is no decision to change the SJB’s leadership
+
+Claims Anura Kumara Government will also face similar repercussions like Gotabaya Rajapaksa Government if they have a parliament with immature politicians
+
+Reveals poverty, education, housing and floods still need more attention to develop Colombo
+
+I do not believe that there should always be experienced politicians in the parliament. There are two sides of the experienced politicians as some of them are capable of genuinely serving to fulfil people’s aspirations but others are capable of stealing public money. I think there should be a combination where experienced and budding politicians represent people at the parliament. Remember, we can’t rule a country with inexperienced parliamentarians
+
+...
+
+[Data](articles/e777e6dd.json)
+
+---
+
+### “Cocoon” around heads of state: Is there one around President Anura Dissanayake already?
+
+*2024-11-04 22:33:54* · [`dailyftlk`](https://www.ft.lk/opinion/Cocoon-around-heads-of-state-Is-there-one-around-President-Anura-Dissanayake-already/14-768828) · `en`
+
+It is necessary to break this cocoon by appointing a council of economic advisers. The council must listen to the alternative perspectives specially based on research, empirical analysis and data. Then council members are required to submit an individual report in writing to the President based on which the President would have an enlightened discourse on the subject. The same principle of Continuous Improvement Process can be applied here by stopping the prevention of the flow of information to the top
+
+The “cocoon” around heads of state refers to the insulating layer of advisors, staff, and bureaucrats who control access to the leader, sometimes filtering or distorting the flow of information. This phenomenon can prevent heads of state from receiving accurate, unfiltered information and limit their exposure to diverse perspectives. This is especially true when it comes to economic governance, the most crucial part of governance.
+
+...
+
+[Data](articles/26ad6a46.json)
+
+---
 
 ### Bus accident in India’s Uttarakhand kills 36, leaves 6 injured
 
@@ -106,6 +218,34 @@ On behalf of the Institute, the government has informed the court that the gover
 
 ---
 
+### Strong future tour program at the Women's International Cricket Forum;8 series each for 11 teams including Sri Lanka
+
+*2024-11-04 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197903) · `ta`
+
+Women's International Cricket Forum: ICC announces 8-series tour for 11 teams, including Sri Lanka. Sri Lanka to play bilateral series with 8 countries, ICC Women's Championships from 2025-2029. Total 400 matches across formats. New Women's Future Tour Program in 2027.
+
+🟩
+
+The International Cricket Council has released a strong future tour of the Women's International Cricket Stadium to participate in 8 series each for 11 teams, including Sri Lanka.
+
+The scheme for the fourth ICC Women's Championship Chapter is scheduled to be completed in May 2025 and will be completed in April 2029.
+
+Sri Lanka will play in bilateral international cricket series with 4 countries on home soil and 4 countries on foreign soil during this period.. Sri Lanka will not play in the ICC Women's Championships with India and South Africa according to the ICC competition.
+
+Sri Lanka will be a welcome country in both sides against England, Australia, Pakistan and Ireland.
+
+Sri Lanka will face bilateral series against New Zealand, Bangladesh, West Indies and Zimbabwe in their respective countries.
+
+Meanwhile, the ICC has also given the opportunity to play in the women's three -fold series, including Sri Lanka, to prepare for the ICC matches in 2028 and 2029.
+
+...
+
+[Data](articles/0c326feb.json)
+
+[Extended Data](ext_articles/0c326feb.ext.json)
+
+---
+
 ### O/L main notice for students
 
 *2024-11-04 20:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மாணவர்களுக்கு-முக்கிய-அறிவிப்பு/175-346565) · `ta`
@@ -150,6 +290,20 @@ But it was a long time. This is a long thought we have brought. I personally wor
 
 ---
 
+### மட்டக்களப்பில் வாக்குகளை மிரட்டி பெற முயற்சிக்கும்  ஒட்டுகுழுக்கள்; ஜனநாய முறையில் தேர்தலை நடாத்த தேர்தல் திணைக்களம் செயற்படவேண்டும் - த.சுரேஸ்
+
+*2024-11-04 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197901) · `ta`
+
+மட்டக்களப்பில் கடந்த காலத்தில் ஆயுதங்களுடன் மக்களை அச்சுறுத்தி வாக்குகளைப் பெற்ற ஓட்டுக்குழுக்கள் தற்போது இரவில் குழுக்களாக கிராமங்களுக்குள் புகுந்து தாய்மார்களை மிரட்டி வாக்குகளை பெறுவதற்கான கூட்சமங்களில் ஈடுபடுகின்றனர் எனவே தமிழ் மக்கள் இந்த தேர்தலை கவனமாக கையாளவேண்டும் அதேவேளை தேர்தலை ஜனநாயக முறையில் நடாத்த தேர்தல் திணைக்களம், ஜனாதிபதி தேர்தல் கண்காணிப்புக் குழு அமைப்புக்கள் பெவரல் அமைப்பு செயற்பட வேண்டும் என சைக்கிள் சின்னத்தில் போட்டியிடும் கட்சியின் தேசிய அமைப்பாளர் த.சுரேஸ் தெரிவித்தார்.
+
+மட்டக்களப்பு வெஸ் ஒப் மீடியா கற்றை நிலையத்தில் திங்கட்கிழமை (4) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/7b9c9484.json)
+
+---
+
 ### Petroleum Corporation reveals about fuel revision
 
 *2024-11-04 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202909) · `si`
@@ -189,6 +343,24 @@ Accordingly, a suspect was arrested with an AK-47 assault rifle with one magazin
 [Data](articles/981228b3.json)
 
 [Extended Data](ext_articles/981228b3.ext.json)
+
+---
+
+### குற்ற விசாரணைப் பிரிவினரால் கைது செய்யப்பட்ட பெண் சட்டத்தரணி ஒருவர் உட்பட இருவருக்கும் நீதவான் பிணையில் விடுவிப்பு
+
+*2024-11-04 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197900) · `ta`
+
+அக்கரைப்பற்றில் சீவிய நல உரித்து ஒன்றை கிரயமாக மாற்றி விற்பதற்கு உறுதி  எழுதிய சந்தேகத்தின் பேரில் மாவட்ட குற்ற விசாரணைப் பிரிவு பொலிசாரால் கைது செய்யப்பட்ட பெண் சட்டத்தரணி ஒருவர் உட்பட இருவரையும் அக்கரைப்பற்று நீதவான் நீதிமன்ற நீதவான் ஏ.சி.எம். றிஸ்வான் திங்கட்கிழமை (4) சரீரப் பிணையில் விடுவித்தார்.
+
+குறித்த பிரதேசத்தைச் சேர்ந்த பெண் ஒருவரின் சம்மத்துடன் சீவிய நல உரித்தின் ஆதனம் ஒன்றை கிரயமாக எழுதி விற்க சட்டத்தரணி ஒருவர் உறுதி எழுதி வழங்கியுள்ளார் இது தொடர்பாக பாதிக்கப்பட்ட பெண் மாவட்ட குற்ற விசாரணைப் பிரிவு பொலிசாரிடம் முறைப்பாட்டையடுத்து ஒருவர் கடந்த மாதம் கைது செய்யப்பட்டு விளக்கமறியல் வைக்கப்பட்டார்
+
+இந்த நிலையில்  இது தொடர்பாக விசாரணைகளை மேற்கொண்டுவந்த மாவட்ட குற்ற விசாரணைப் பொலிசார் இந்த உறுதியை எழுதிய பெண் சட்டத்தரணி ஒருவரையும் இதற்கு சாட்சி கையெழுத்திட்ட ஆண் ஒருவர் உட்பட இருவரை சந்தேகத்தின் அடிப்படையில் திங்கட்கிழமை (4) கைது செய்தனர்
+
+இதில் கைது செய்யப்பட்டவர்களை திங்கட்கிழமை (4) அக்கரைப்பற்று நீதவான் நீதிமன்றில் நீதவான் முன்னிலையில் ஆஜர்படுத்திய போது அவர்களை பிணையில் விடுவித்தார்.
+
+...
+
+[Data](articles/437a76a8.json)
 
 ---
 
@@ -2149,199 +2321,5 @@ Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that Rashi Prabha Ra
 [Data](articles/daedbf72.json)
 
 [Extended Data](ext_articles/daedbf72.ext.json)
-
----
-
-### A statement on Litro gas prices
-
-*2024-11-04 12:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202888) · `si`
-
-Litro Gas Company announces unchanged gas prices for this month. No price adjustments expected.
-
-🟩
-
-Litro Gas, Litro Gas Company says that no changes in the gas price this month will not be changed.
-
-◼️
-
-[Data](articles/1184be1d.json)
-
-[Extended Data](ext_articles/1184be1d.ext.json)
-
----
-
-### Lohan's wife remanded
-
-*2024-11-04 12:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202887) · `si`
-
-Lohan Ratwatte's wife remanded until July 7th. She was arrested after appearing in court regarding a police statement about an incident.
-
-🟩
-
-Former State Minister Lohan Ratwatte, wife of former State Minister Lohan Ratwatte, is also remanded until the 7th of this month.
-
-According to the Gangodawila court today (04) was in the case of her notice.
-
-She said she had been told to give a statement to the Mirihana Police regarding the incident.
-
-Accordingly, she had appeared in court today and she was arrested.
-
-◼️
-
-[Data](articles/fe7afc99.json)
-
-[Extended Data](ext_articles/fe7afc99.ext.json)
-
----
-
-### Former State Minister Lohan Ratwatte’s wife remanded
-
-*2024-11-04 12:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103146/former-state-minister-lohan-ratwattes-wife-remanded) · `en`
-
-Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte, has been arrested after appearing before the Nugegoda Magistrate’s Court as per a court order, over the incident an unregistered car found at her house in the Mirihana area of Nugegoda.
-
-Subsequently, the Nugegoda Magistrate has ordered her to be remanded in custody until 07 November, Ada Derana reporter said.
-
-Former state Minister Lohan Ratwatte was arrested by Mirihana Police on October 31 in Katugastota, Kandy over an incident of discovering an unregistered car at his wife’s house in the Mirihana area of Nugegoda.
-
-The car without registered number plates was found on October 26, 2024, according to police.
-
-...
-
-[Data](articles/918c514e.json)
-
-[Extended Data](ext_articles/918c514e.ext.json)
-
----
-
-### Diana Gamage’s passport case to be heard in January
-
-*2024-11-04 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103145/diana-gamages-passport-case-to-be-heard-in-january) · `en`
-
-The Colombo High Court has ordered the case filed against former State Minister Diana Gamage over allegedly obtaining a Sri Lankan passport by producing forged documents to be heard on January 09, 2025.
-
-The case was taken up before Colombo High Court Judge Manjula Thilakaratne today (04) and at that time, the accused, Diana Gamage, also appeared before the court, Ada Derana reporter said.
-
-After considering the facts presented, the High Court judge ordered for the hearing of evidence related to the case to be called on January 09, 2025.
-
-Additionally, the judge ordered that the case materials be securely stored and also instructed that summons be issued to the witnesses to appear in court on that date.
-
-◼️
-
-[Data](articles/56e6e150.json)
-
-[Extended Data](ext_articles/56e6e150.ext.json)
-
----
-
-### Iran -Israeli attacks may be intensified
-
-*2024-11-04 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197846) · `ta`
-
-Iran-Israel tensions escalate amid Trump presidency predictions. Reuters report suggests Iran prepares for potential increased conflicts due to anticipated Trump victory. Western officials express concern over possible Israeli aggression and pressure on Iran's nuclear program. Experts warn of potential economic impacts from stricter sanctions and military actions.
-
-🟩
-
-Reuters reports that Iran and its colleagues are preparing to face Trump's victory in the US presidential election
-
-Although polls reveal the fierce rivalry between Kamala Haris and Donald Trump, Trump will win the election on November 5, Iranian leaders and their colleagues in Lebanon and Yemen Iraq;So they think they will create more crises.
-
-Western Iranian Arab officials have said that Iran is more concerned about the possibility of strengthening Israel's prime minister for attacking Iran's nuclear conditions and engaging in massacre.
-
-Iran thinks that Trump can follow the policy of putting too much pressure on Iran's oil industry.
-
-Iran, who has been sworn in as the US president since 2017 to 2021, is expected to put heavy pressure on Iran's spiritual leader, Ayatollah Ali Kameni, to accept the nuclear deal with Israel and itself.
-
-Leadership changes in the United States can affect the balance of the Middle East and make changes to Iran's foreign policy and economic possibilities.
-
-...
-
-[Data](articles/c785fbb5.json)
-
-[Extended Data](ext_articles/c785fbb5.ext.json)
-
----
-
-### No change in Litro Gas prices for November
-
-*2024-11-04 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103144/no-change-in-litro-gas-prices-for-november) · `en`
-
-The Litro Gas Company says that the prices of it’s domestic LP Gas cylinders will remain unchanged for the month of November 2024.
-
-The Chairman of the Litro Gas Company, Channa Gunawardena stated that the company decided to keep the prices of LP gas cylinders unchanged despite the price hike in the global market, in order to provide relief to the consumers.
-
-The state-owned company further said that it was possible to provide such relief due to proper management of stocks and operations.
-
-Accordingly, the prices of Litro LP gas domestic gas cylinders will remain unchanged as follows:
-
-◼️
-
-[Data](articles/13011902.json)
-
-[Extended Data](ext_articles/13011902.ext.json)
-
----
-
-### There is no change in gas prices
-
-*2024-11-04 12:18:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிவாயு-விலையில்-மாற்றமில்லை/175-346534) · `ta`
-
-Litro cooking gas prices unchanged this month, according to company statement. No increase announced.
-
-🟩
-
-The price of Litro cooking gas will not be changed this month, Litro said.
-
-◼️
-
-[Data](articles/0fb7b71e.json)
-
-[Extended Data](ext_articles/0fb7b71e.ext.json)
-
----
-
-### Sunil Jayaratne appointed new Chairman of the Civil Aviation Authority of Sri Lanka
-
-*2024-11-04 12:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202886) · `si`
-
-Sunil Jayaratne named Chairman of Civil Aviation Authority of Sri Lanka. Formerly Additional Director General, he assumes duties today. Served 37 years in Sri Lanka Customs, including as Media Spokesman. Holds postgraduate degree in Customs Law and Management from University of Sri Jayewardenepura and Australia.
-
-🟩
-
-Sunil Jayaratne served as an Additional Director General as the new Chairman of the Civil Aviation Authority of Sri Lanka.
-
-He has assumed duties at its head office in Katunayake today (04).
-
-Mr. Sunil Jayaratne served in the Sri Lanka Customs Department for 37 years and was an Additional Director General.
-
-He also served as the Customs Media Spokesman for about three and a half.
-
-He graduates a Post Graduate Degree in Customs Law and Management of the University of Sri Jayewardenepura and Australia.
-
-◼️
-
-[Data](articles/a7c5dee5.json)
-
-[Extended Data](ext_articles/a7c5dee5.ext.json)
-
----
-
-### New chairman of Civil Aviation Authority assumes duties
-
-*2024-11-04 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103143/new-chairman-of-civil-aviation-authority-assumes-duties) · `en`
-
-Former Additional Director General of Sri Lanka Customs Sunil Jayarathna has been appointed as the new Chairman of Civil Aviation Authority of Sri Lanka (CAASL) with effect from today (04).
-
-Accordingly, Jayarathna assumed duties in the office this morning with the presence of several officials including the Director General of the CAASL, Ada Derana reporter said.
-
-Jayaratne has served as an Additional Director General of Sri Lanka Customs, and he is a distinguished officer who has also served as the Customs Media Spokesman for three and a half years.
-
-He is a postgraduate in Customs Law and Management from University of Sri Jayawardenepura and University of Canberra, Australia.
-
-◼️
-
-[Data](articles/9285f4cb.json)
-
-[Extended Data](ext_articles/9285f4cb.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 01:59:13**
+As of **2024-11-05 02:10:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,049 (100.0%) of 53,053 articles have been extended.
+53,053 (100.0%) of 53,053 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -178,6 +178,8 @@ The petition was originally filed by H.M. Priyantha Herath, a civil society acti
 
 [Data](articles/a9c5e60c.json)
 
+[Extended Data](ext_articles/a9c5e60c.ext.json)
+
 ---
 
 ### Ratwatte spouse remanded over illegally assembled SUV
@@ -189,6 +191,8 @@ Rashi Prabha Ratwatte, the wife of former Plantation Industries and Mahaweli Dev
 ...
 
 [Data](articles/dbe73162.json)
+
+[Extended Data](ext_articles/dbe73162.ext.json)
 
 ---
 
@@ -480,17 +484,27 @@ But it was a long time. This is a long thought we have brought. I personally wor
 
 ---
 
-### மட்டக்களப்பில் வாக்குகளை மிரட்டி பெற முயற்சிக்கும்  ஒட்டுகுழுக்கள்; ஜனநாய முறையில் தேர்தலை நடாத்த தேர்தல் திணைக்களம் செயற்படவேண்டும் - த.சுரேஸ்
+### Trying to intimidate votes in Batticaloa;The Department of Elections to hold elections democratically - T. Suresh
 
 *2024-11-04 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197901) · `ta`
 
-மட்டக்களப்பில் கடந்த காலத்தில் ஆயுதங்களுடன் மக்களை அச்சுறுத்தி வாக்குகளைப் பெற்ற ஓட்டுக்குழுக்கள் தற்போது இரவில் குழுக்களாக கிராமங்களுக்குள் புகுந்து தாய்மார்களை மிரட்டி வாக்குகளை பெறுவதற்கான கூட்சமங்களில் ஈடுபடுகின்றனர் எனவே தமிழ் மக்கள் இந்த தேர்தலை கவனமாக கையாளவேண்டும் அதேவேளை தேர்தலை ஜனநாயக முறையில் நடாத்த தேர்தல் திணைக்களம், ஜனாதிபதி தேர்தல் கண்காணிப்புக் குழு அமைப்புக்கள் பெவரல் அமைப்பு செயற்பட வேண்டும் என சைக்கிள் சின்னத்தில் போட்டியிடும் கட்சியின் தேசிய அமைப்பாளர் த.சுரேஸ் தெரிவித்தார்.
+Intimidation attempts in Batticaloa elections; Election Department ensures democratic voting; Organizer T. Suresh calls for rejecting corrupt candidates; Tamil leaders push for 13th Amendment implementation; Gajendrakumar team aims to secure 10 seats to thwart presidential conspiracy.
 
-மட்டக்களப்பு வெஸ் ஒப் மீடியா கற்றை நிலையத்தில் திங்கட்கிழமை (4) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் அவர் இவ்வாறு தெரிவித்தார்.
+🟩
+
+In Batticaloa, in the past, the votes of the people in the past are threatening the votes of the people in the past, and the Tamil people are now engaged in the votes of threatening mothers and getting votes in the village, so the Tamil people have to handle this election, while the election department and the presidential election monitoring committee should act in the bicycle party.Organizer T. Suresh said.
+
+He was speaking at a press conference held on Monday (4) at the Wes of Media Leave, Batticaloa.
+
+With the election campaign in Batticaloa, the polls are dealing with the most tight elections since 2009. In the past, the corrupt people who threatened their weapons and the chief ministerial positions and other privileges of Parliament and other privileges have been going on a democratic voting among the people..
+
+Especially when I was campaigning in my hometown of Paduwankarai area in Paduwankarai area in Paduwankarai area in Paduwankarai area in Jayanthipuram.
 
 ...
 
 [Data](articles/7b9c9484.json)
+
+[Extended Data](ext_articles/7b9c9484.ext.json)
 
 ---
 
@@ -536,21 +550,29 @@ Accordingly, a suspect was arrested with an AK-47 assault rifle with one magazin
 
 ---
 
-### குற்ற விசாரணைப் பிரிவினரால் கைது செய்யப்பட்ட பெண் சட்டத்தரணி ஒருவர் உட்பட இருவருக்கும் நீதவான் பிணையில் விடுவிப்பு
+### Magistrate's bail
 
 *2024-11-04 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197900) · `ta`
 
-அக்கரைப்பற்றில் சீவிய நல உரித்து ஒன்றை கிரயமாக மாற்றி விற்பதற்கு உறுதி  எழுதிய சந்தேகத்தின் பேரில் மாவட்ட குற்ற விசாரணைப் பிரிவு பொலிசாரால் கைது செய்யப்பட்ட பெண் சட்டத்தரணி ஒருவர் உட்பட இருவரையும் அக்கரைப்பற்று நீதவான் நீதிமன்ற நீதவான் ஏ.சி.எம். றிஸ்வான் திங்கட்கிழமை (4) சரீரப் பிணையில் விடுவித்தார்.
+Akkaraipattu Magistrate's Court: Female lawyer arrested for suspected welfare fraud. Released on bail after court appearance. Further investigation ongoing.
 
-குறித்த பிரதேசத்தைச் சேர்ந்த பெண் ஒருவரின் சம்மத்துடன் சீவிய நல உரித்தின் ஆதனம் ஒன்றை கிரயமாக எழுதி விற்க சட்டத்தரணி ஒருவர் உறுதி எழுதி வழங்கியுள்ளார் இது தொடர்பாக பாதிக்கப்பட்ட பெண் மாவட்ட குற்ற விசாரணைப் பிரிவு பொலிசாரிடம் முறைப்பாட்டையடுத்து ஒருவர் கடந்த மாதம் கைது செய்யப்பட்டு விளக்கமறியல் வைக்கப்பட்டார்
+🟩
 
-இந்த நிலையில்  இது தொடர்பாக விசாரணைகளை மேற்கொண்டுவந்த மாவட்ட குற்ற விசாரணைப் பொலிசார் இந்த உறுதியை எழுதிய பெண் சட்டத்தரணி ஒருவரையும் இதற்கு சாட்சி கையெழுத்திட்ட ஆண் ஒருவர் உட்பட இருவரை சந்தேகத்தின் அடிப்படையில் திங்கட்கிழமை (4) கைது செய்தனர்
+The Akkaraipattu Magistrate's Court Magistrate ACMM ACMM, including a female lawyer arrested by the District Criminal Investigation Division on suspicion of selling a welfare welfare in Akkaraipattu.. Rizwan was released on Monday (4) bail.
 
-இதில் கைது செய்யப்பட்டவர்களை திங்கட்கிழமை (4) அக்கரைப்பற்று நீதவான் நீதிமன்றில் நீதவான் முன்னிலையில் ஆஜர்படுத்திய போது அவர்களை பிணையில் விடுவித்தார்.
+A lawyer has confirmed to sell a welfare support of a woman from the area.
 
-...
+The district criminal investigation into the matter was arrested on Monday (4) on suspicion of suspicion of a female lawyer who wrote the confirmation and two men, including a witness.
+
+The arrested persons were released on bail when the Magistrate was produced before the Magistrate's Court on Monday (4).
+
+Further investigations are being carried out by the District Criminal Investigation Division.
+
+◼️
 
 [Data](articles/437a76a8.json)
+
+[Extended Data](ext_articles/437a76a8.ext.json)
 
 ---
 

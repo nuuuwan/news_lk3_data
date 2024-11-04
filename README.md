@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 00:25:17**
+As of **2024-11-05 01:09:41**
 
 ## Newspaper Stats
 
-*Scraped **53,043** Articles*
+*Scraped **53,044** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 542
 bbccomsinhala | 543
 islandlk | 3,169
 economynextcom | 3,211
-dailyftlk | 3,617
+dailyftlk | 3,618
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
@@ -26,9 +26,31 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,037 (100.0%) of 53,043 articles have been extended.
+53,041 (100.0%) of 53,044 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-05 (Tuesday)
+
+### CPC profits curbed by foreign competition: CPSTL Chairman
+
+*2024-11-05 00:31:30* · [`dailyftlk`](https://www.ft.lk/business/CPC-profits-curbed-by-foreign-competition-CPSTL-Chairman/34-768835) · `en`
+
+Claims CPC’s pricing flexibility is restricted by agreements with foreign petroleum firms operating in SL
+
+Says political influence and foreign competition impact CPC’s ability to function independently despite recent profits
+
+States CPC posted Rs. 120 b profit in 2023; this year’s profit so far is only Rs. 27 b
+
+Ceylon Petroleum Storage Terminals Ltd. (CPSTL) Chairman D.A. Rajakaruna revealed yesterday that despite the Ceylon Petroleum Corporation (CPC) returning to profitability, the State-run enterprise remains unable to function independently due to the influence of foreign petroleum companies operating in Sri Lanka.  Addressing concerns over recent adjustments in fuel prices, Rajakaruna noted that the CPC’s flexibility in reducing prices is restricted, largely due to the presence of and agreements with foreign players.
+
+...
+
+[Data](articles/280b7608.json)
+
+[Extended Data](ext_articles/280b7608.ext.json)
+
+---
 
 ### 2024-11-04 (Monday)
 
@@ -41,6 +63,8 @@ Sri Lanka is an island. Such a geographical feature comes with good and bad. Phy
 ...
 
 [Data](articles/154b6c6b.json)
+
+[Extended Data](ext_articles/154b6c6b.ext.json)
 
 ---
 
@@ -108,6 +132,8 @@ The National People’s Power (NPP) party’s vision for transportation is “to
 
 [Data](articles/e9ddc860.json)
 
+[Extended Data](ext_articles/e9ddc860.ext.json)
+
 ---
 
 ### Combination of experienced and new MPs should be in parliament – S.M. Marikkar
@@ -127,6 +153,8 @@ I do not believe that there should always be experienced politicians in the parl
 ...
 
 [Data](articles/e777e6dd.json)
+
+[Extended Data](ext_articles/e777e6dd.ext.json)
 
 ---
 
@@ -2301,25 +2329,5 @@ Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that the wife of for
 [Data](articles/80d9cc5a.json)
 
 [Extended Data](ext_articles/80d9cc5a.ext.json)
-
----
-
-### Lohan's wife Azar
-
-*2024-11-04 13:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவி-ஆஜர்/175-346535) · `ta`
-
-Rashi Prabha Ratwatte, wife of former Minister Lohan Ratwatte, was remanded over an unregistered luxury vehicle. She will appear again on July 7th.
-
-🟩
-
-The wife of former minister Lohan Ratwatta, who is alleged to have an unregistered luxury vehicle, appeared before the Gangodawila Magistrate.
-
-Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that Rashi Prabha Ratwatte, wife of former Minister of State Lohan Ratwatte, Rashi Prabha Ratwatte, has been ordered to be remanded until the 07th of this month.
-
-◼️
-
-[Data](articles/daedbf72.json)
-
-[Extended Data](ext_articles/daedbf72.ext.json)
 
 ---

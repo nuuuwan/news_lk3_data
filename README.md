@@ -1,36 +1,110 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 08:26:30**
+As of **2024-11-04 09:00:43**
 
 ## Newspaper Stats
 
-*Scraped **52,888** Articles*
+*Scraped **52,897** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 415
 colombotelegraphcom | 540
-bbccomsinhala | 541
+bbccomsinhala | 542
 islandlk | 3,166
 economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
-adalk | 4,927
-adaderanalk | 6,283
-tamilmirrorlk | 7,344
+adalk | 4,929
+adaderanalk | 6,286
+tamilmirrorlk | 7,346
 virakesarilk | 8,546
-adaderanasinhalalk | 9,214
+adaderanasinhalalk | 9,215
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,888 (100.0%) of 52,888 articles have been extended.
+52,892 (100.0%) of 52,897 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### 8 suspects arrested over Midigama shooting
+
+*2024-11-04 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103132/8-suspects-arrested-over-midigama-shooting) · `en`
+
+The Matara Division Crimes Bureau has arrested eight suspects involved in a shooting that killed one person and injured two others in the Goviyapana area in Midigama Police Division.
+
+On September 19, the suspects arrived on a motorcycle and opened fire at a person in a fish market in the Goviyapana area, and then fled the scene.
+
+The main shooter, a suspect found with a firearm and five rounds of ammunition, five accomplices, and a female suspect were arrested yesterday (03) in Wellawaya, Ahangama, and Midigama areas by officers of the Matara Division Crimes Bureau.
+
+The suspects were subsequently taken to the Matara Police Station. The three-wheeler used to transport the weapon after the crime was also seized by police.
+
+The arrested suspects, aged between 20 and 42, are residents of Ahangama, Weligama, and Wellawaya, while the female suspect is a 41-year-old resident of Ahangama.
+
+...
+
+[Data](articles/3001cb5a.json)
+
+---
+
+### Moldova’s pro-Western president wins 2nd term in runoff overshadowed by Russian meddling claims
+
+*2024-11-04 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103131/moldovas-pro-western-president-wins-2nd-term-in-runoff-overshadowed-by-russian-meddling-claims) · `en`
+
+Moldova’s pro-Western President Maia Sandu has won a second term in a pivotal presidential runoff against a Russia-friendly opponent, in a race that was overshadowed by claims of Russian interference, voter fraud, and intimidation in the European Union candidate country.
+
+With nearly 99% of votes counted in the second round of the presidential election held Sunday, Sandu had 55% of the vote, according to the Central Electoral Commission, or CEC, compared to 45% for Alexandr Stoianoglo, a former prosecutor general who was backed by the pro-Russia Party of Socialists.
+
+The result will be a major relief for the pro-Western government, which strongly backed Sandu’s candidacy, and her push for closer Western ties on Moldova’s path toward the EU.
+
+“Moldova, you are victorious! Today, dear Moldovans, you have given a lesson in democracy, worthy of being written in history books. Today, you have saved Moldova!” Sandu said after claiming victory after midnight.
+
+...
+
+[Data](articles/2727359e.json)
+
+---
+
+### Heavy showers above 100mm expected in parts of the island
+
+*2024-11-04 08:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103130/heavy-showers-above-100mm-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night. Showers may occur over the coastal areas of Western and Southern provinces and in Ampara and Batticaloa districts during the morning too.
+
+Heavy showers above 100 mm are likely at some places in Western, Central, Sabaragamuwa, Uva and Southern provinces and in Kurunegala district, it added.
+
+Accordingly, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/1e8afb50.json)
+
+---
+
+### Special notice to youths from doctors
+
+*2024-11-04 08:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202877) · `si`
+
+Ministry of Health launches measles vaccination program for youth today.
+
+🟩
+
+The Ministry of Health has taken steps to implement a special program to meet a measles vaccination today (04).
+
+◼️
+
+[Data](articles/eeef0e8d.json)
+
+[Extended Data](ext_articles/eeef0e8d.ext.json)
+
+---
 
 ### The danger of surviving the 14-year-old student
 
@@ -83,6 +157,28 @@ The political party or the sign of the vote should be applied in the front or si
 [Data](articles/042cc79b.json)
 
 [Extended Data](ext_articles/042cc79b.ext.json)
+
+---
+
+### More than 50 boys killed in Gaza
+
+*2024-11-04 07:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காசாவில்-50-இற்கும்-மேற்பட்ட-சிறுவர்கள்-பலி/50-346516) · `ta`
+
+Over 50 children killed in Gaza attacks. UNICEF reports devastating loss. Some staff members injured while distributing polio vaccines.
+
+🟩
+
+More than 50 children have been killed in the attack in the North of Gaza in the last two days, the United Nations Children's Fund said.
+
+The disaster has occurred after the two -series floors of hundreds of people, the United Nations Children's Fund Executive Director, Katherine Russell said.
+
+In this case, some of the United Nations Children's Fund employees were also injured in the polio vaccine.. (A)
+
+◼️
+
+[Data](articles/7dd02958.json)
+
+[Extended Data](ext_articles/7dd02958.ext.json)
 
 ---
 
@@ -273,6 +369,68 @@ Following the attack, there was a stir and the police are conducting investigati
 [Data](articles/a3d13ec9.json)
 
 [Extended Data](ext_articles/a3d13ec9.ext.json)
+
+---
+
+### Rain for 36 hours
+
+*2024-11-04 02:01:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-மணித்தியாலங்களுக்கு-மழை/175-346515) · `ta`
+
+Heavy rain forecasted for 36 hours across several provinces. Over 100mm expected. Public advised to prepare for potential disasters.
+
+🟩
+
+The Department of Meteorology has predicted that the weather will continue with rain for the next 36 hours.
+
+According to the Department of Meteorology last night, the Central, North Central, Sabaragamuwa, Uva, Southern and North Western Provinces are likely to experience more than 100 mm.
+
+The public has been asked to take steps to protect the disasters in cases of rainfall. (A)
+
+◼️
+
+[Data](articles/2fd0f064.json)
+
+[Extended Data](ext_articles/2fd0f064.ext.json)
+
+---
+
+### Do you know that your little forgetfulness can be the beginning of a disease that you love all?
+
+*2024-11-04 02:00:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce31l3517eqo) · `si`
+
+Here's a 200-character summary:
+
+
+
+Forgetting small details may signal onset of Alzheimer's disease. Early detection crucial. Symptoms include memory loss, confusion, difficulty with speech and problem-solving. Lifestyle changes like exercise, social engagement, and stress reduction can help manage symptoms. Consult healthcare professional promptly if concerns arise.
+
+🟩
+
+Do you know that your little forgetfulness can be the beginning of a disease that you love all?
+
+Autumn (not real name) is a close relative of my family. He was a talented teacher in the A / L maths, a popularity in the area.
+
+He taught the composite mathematics with both English and Sinhala.
+
+He won a name as a teacher with a sharp memory and had tuition until the year 2018.
+
+In 2018, I left the country for work, and he spoke from time to time.
+
+When his daughter had stopped, she said, "When I asked his daughter," she said, "Dad is a little weird. Don't remember certain things. "
+
+Later, when I came back on vacation and visited Sri Lanka and visited him, "What is your name?"When asked me, I thought he would be forgotten.
+
+His memory was slow while returning to Sri Lanka in 2020, when I quit abroad.
+
+Later, he had not even showed that he did not even, as he did not, he did not even he would not.
+
+A specialist said that he was suffering from a disease of Alzheimeria.
+
+...
+
+[Data](articles/4f9caee2.json)
+
+[Extended Data](ext_articles/4f9caee2.ext.json)
 
 ---
 
@@ -1019,6 +1177,40 @@ He added that the false news has been published on the leading newspaper and soc
 [Data](articles/96e0a407.json)
 
 [Extended Data](ext_articles/96e0a407.ext.json)
+
+---
+
+### අද සවස් කාලයේදීත් වැසි
+
+*2024-11-03 19:27:14* · [`adalk`](https://www.ada.lk/breaking_news/අද-සවස්-කාලයේදීත්-වැසි/11-412832) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල අද (04දා) සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවත්, බස්නාහිර සහ දකුණු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇති විය හැකි බවද පෙන්වා දෙයි.
+
+මධ්‍යම, උතුරුමැද, සබරගමුව, ඌව, දකුණු සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇති විය හැකි බවත්, ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටියි.
+
+දිවයින වටා වන මුහුදු ප්‍රදේශවල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ. පුත්තලම සිට ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං බස්නාහිර හෝ නිරිත දෙසින් හමා එන අතර, දිවයින වටා වන සෙසු මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමයින බවද පෙන්වා දෙයි.
+
+සුළඟේ වේගය පැ.කි.මී. 20-30 පමණ වන බවත්, දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්වභාවයේ සිට මද වශයෙන් රළු දක්වා වේ.
+
+...
+
+[Data](articles/f40593e6.json)
+
+---
+
+### අස්වැසුම ප්‍රතිලාභීන් තෝරා ගැනීමේ ගැන සොයන්න කමිටුවක්
+
+*2024-11-03 19:21:28* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ප්‍රතිලාභීන්-තෝරා-ගැනීමේ-ගැන-සොයන්න-කමිටුවක්/11-412831) · `si`
+
+අස්වැසුම සුබසාධක ප්‍රතිලාභ ලබාදීම සඳහා ප්‍රතිලාභීන් තෝරා ගැනීමේදී සිදුවූ අසාධාරණ පිළිබඳව පරීක්ෂණයක් කිරීම සඳහා බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු, ජාතික ඒකාබද්ධතා, සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් රංජිත් ආරියරත්න මහතා විසින් දස පුද්ගල කමිටුවක්  පත් කර තිබේ. අමාත්‍ය විජිත හේරත් මහතාගේ උපදෙස් පරිදි මෙම කමිටුව පත්කර ඇත.
+
+අස්වැසුම ප්‍රතිලාභ ක්‍රමය සඳහා ප්‍රතිලාභීන් තෝරා ගැනීමේ දී සත්‍ය වශයෙන් ප්‍රතිලාභ ලැබිය යුතු වුවත් ඒ අවස්ථාව අහිමි වූ සමෘද්ධි ප්‍රතිලාභීන් හඳුනා ගැනීමේ ක්‍රම වේදයක් සැකසීම, අස්වැසුම ප්‍රතිලාභීන් තෝරා ගැනීමේ දී සත්‍ය වශයෙන් ප්‍රතිලාභ ලැබිය යුතු සමෘද්ධිලාභීන් අස්වැසුම වැඩසටහනට ඇතුළත් නොවීමට බලපා ඇති හේතු අධ්‍යයනය කොට වාර්තා කිරීම සහ සත්‍ය වශයෙන්ම ප්‍රතිලාභ ලැබිය යුතු සමෘද්ධිලාභීන් අස්වැසුම වැඩසටහනට ඇතුළත් කර ගැනීම සඳහා තෝරා ගැනීමේ ක්‍රම වේදයට ඇතුළත් විය යුතු යැයි නිර්දේශ කරන නිර්ණායක වාර්තා කිරීම අදාළ කමිටුවට පැවරී තිබේ.
+
+...
+
+[Data](articles/4c910751.json)
 
 ---
 
@@ -2071,221 +2263,5 @@ Therefore, it is wrong to bring the boys to the court.
 [Data](articles/1f757647.json)
 
 [Extended Data](ext_articles/1f757647.ext.json)
-
----
-
-### Foreign remittances will fall in September
-
-*2024-11-03 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202860) · `si`
-
-Foreign remittances decrease in September but increase year-over-year. Tourism earnings rise to $181 million. Monthly remittances exceed $500 million since March. Total tourist earnings reach $2,348 million from January to September.
-
-🟩
-
-The Central Bank of Sri Lanka (SLTB) has reduced the amount of foreign employment in September compared to August.
-
-The amount of remittances received in September compared to US $ 577 million in August have reduced to US $ 556 million.
-
-In September 2024, however, has increased in foreign labor remittances compared to September 2023.
-
-The Central Bank of Sri Lanka (CBSL) said the monthly employees' monthly remittances exceeded US $ 500 million from March this year.
-
-Tourism earnings have risen to US $ 181 million last September.
-
-According to the Central Bank of Sri Lanka, tourist earnings from January to September this year amounted to US $ 2,348 million.
-
-◼️
-
-[Data](articles/7477095e.json)
-
-[Extended Data](ext_articles/7477095e.ext.json)
-
----
-
-### “The country is in the country as a tuna puspasi”
-
-*2024-11-03 13:37:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துன்ஹிந்த-பஸ்போன்று-நாடு-விபத்துக்குள்ளாகும்/175-346488) · `ta`
-
-Former President Ranil Wickremesinghe warns: If experienced individuals aren't chosen for Parliament, the country may face disaster like the Tunhinda-Badulla bus accident.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that if the experienced people do not choose to the parliament, the country will crash like a bus like a Kotalawala Safety University bus that toppled the Tunhinda -Badulla road.
-
-ஆர்கேட் சுதந்திர சதுக்கத்தில் நடைபெற்ற மாநாட்டின் போது கேட்கப்பட்ட கேள்விக்கு இலகுவான சிரையில் பதிலளித்த விக்ரமசிங்க, அனுபவம் வாய்ந்தவர்களை பாராளுமன்றத்திற்கு மக்கள் தெரிவு செய்யத் தவறினால் துன்ஹிந்த - பதுளை வீதியில் கவிழ்ந்த பேருந்தைப் போன்று நாடு விபத்துக்குள்ளாகும் என்றார்.
-
-◼️
-
-[Data](articles/1e5169bd.json)
-
-[Extended Data](ext_articles/1e5169bd.ext.json)
-
----
-
-### Lohan Ratwatta has been replaced
-
-*2024-11-03 13:29:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்த-மாற்றப்பட்டார்/175-346487) · `ta`
-
-Former Sri Lankan minister Lohan Ratwatta hospitalized after arrest for illegal luxury car modifications.
-
-🟩
-
-Former Minister of State Lohan Ratwatta has been admitted to the Colombo National Hospital on charges of using a luxury car illegally fitted with components.
-
-சிறைச்சாலை அதிகாரிகளின் பாதுகாப்பில் முன்னாள் இராஜாங்க அமைச்சர் தேசிய வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக தகவல்கள் தெரிவிக்கின்றன.
-
-He was arrested at his residence in Katugastota, Kandy on the 31st of this month and was presented in the presence of the Additional Magistrate of Nugegoda that night.
-
-சிறையில் இருந்தபோது ஏற்பட்ட திடீர் சுகவீனம் காரணமாக சிறைச்சாலை வைத்தியசாலையில் அனுமதிக்கப்பட்டு பின்னர் மேலதிக சிகிச்சைக்காக கொழும்பு தேசிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/811ef932.json)
-
-[Extended Data](ext_articles/811ef932.ext.json)
-
----
-
-### Delay in Grade 5 Scholarship exam evaluations could impact future exams, CTU warns
-
-*2024-11-03 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103119/delay-in-grade-5-scholarship-exam-evaluations-could-impact-future-exams-ctu-warns) · `en`
-
-The Ceylon Teachers’ Union (CTU) has raised concerns over the delay in evaluating the 2024 Grade 5 Scholarship Examination answer sheets, warning that prolonged postponement could disrupt upcoming examinations and impact students’ studies.
-
-Chairman of the union Priyantha Fernando urged education authorities to prioritize the matter, emphasizing that timely evaluation is essential to prevent further interruptions in the academic schedule.
-
-He noted that the delay could affect not only the 2024 Grade 5 Scholarship Examination assessment but also school studies and future examinations.
-
-Responding to an inquiry by Ada Derana, Secretary of the Ministry of Education Mrs. Thilaka Jayasundara explained that the delay in evaluation stems from ongoing fundamental rights petitions filed before the Supreme Court regarding the 2024 Grade 5 Scholarship Examination.
-
-She stated that, due to the legal proceedings, the ministry has not yet been able to initiate the evaluation process.
-
-...
-
-[Data](articles/3e7fe568.json)
-
-[Extended Data](ext_articles/3e7fe568.ext.json)
-
----
-
-### New Zealand a defeat for India
-
-*2024-11-03 13:13:51* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තය-හමුවේ-ඉන්දීයාවට-පූර්ණ-තරගාවලි-පරාජයක්/9-412819) · `si`
-
-India loses series 3-0 as NZ wins final Test by 25 runs. NZ scores 235 & 174, India falls short chasing 147.
-
-🟩
-
-The Indian team suffered before the face of a full Test tournament defeat in the face of the Trip New Zealand team.
-
-The third and final Test match was defeated by the two countries by 25 runs.
-
-New Zealand team scored 235 runs for the loss of all bowled out for the first innings.
-
-The second innings, New Zealand team scored 174 runs.
-
-Accordingly, the Indian team won a target of 147 winning the 147 winning India and about 121 runs.
-
-The New Zealand team won the three Test matches between the two Test matches.
-
-◼️
-
-[Data](articles/5f8f5cd8.json)
-
-[Extended Data](ext_articles/5f8f5cd8.ext.json)
-
----
-
-### Sri Lanka DFCC looks for investor after Acuity divestment deal fails
-
-*2024-11-03 13:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-dfcc-looks-for-investor-after-acuity-divestment-deal-fails-185953/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s DFCC Bank Plc is looking for an investor to sell its 50 percent in Acuity Partners after its deal for the sale did not go through as announced earlier.
-
-In September, the DFCC announced it would sell its 50 percent stake in Acuity Partners (Pvt) Ltd to Hatton National Bank Plc for 7 billion rupees.
-
-Acuity Partners (Pvt) Ltd is a joint venture between DFCC Bank and Hatton National Bank.
-
-“Further to the announcement dated 2 September 2024…, DFCC now wishes to announce that it is no longer proceeding with the transaction,” DFCC said in a disclosure to the Colombo Stock Exchange on Friday (01).
-
-“Accordingly,  Acuity Partners (Pvt) Ltd will continue to operate as a joint venture of DFCC Bank PLC and Hatton National Bank PLC.”
-
-“DFCC remains open for negotiations and will continue to actively seek avenues to divest their holding.” (Colombo/November 03/2024)
-
-◼️
-
-[Data](articles/85aeb4ee.json)
-
-[Extended Data](ext_articles/85aeb4ee.ext.json)
-
----
-
-### Scholarship Answer sheet of scholarship answers.
-
-*2024-11-03 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202859) · `si`
-
-Ceylon Teachers Union opposes ineffective evaluation methods. President Priyantha Fernando urges education officials to address concerns. Thilaka Jayasundara questions delays. Fundamental rights petitions filed in Supreme Court regarding Grade 5 scholarship. Ministry of Education Secretary requests court intervention.
-
-🟩
-
-The Ceylon Teachers Union states that the assessment work will be effective if the evaluation activities will not be effective.
-
-එහි සභාපති ප්‍රියන්ත ප්‍රනාන්දු මහතා සඳහන් කළේ අධ්‍යාපන බලධාරීන් කඩිනමින් ඒ පිළිබඳව අවධානය යොමු කර ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයීම් කටයුතු ආරම්භ කළ යුතු බවය.
-
-Priyantha Fernando said that the delay would be affected by delaying the evaluation.
-
-Thilaka Jayasundara inquired about the matter.
-
-She said that the fundamental rights petitions have been filed in the Supreme Court regarding the Grade 5 scholarship have been filed.
-
-However, the Secretary of the Ministry of Education stated that a request has been made to the court.
-
-◼️
-
-[Data](articles/1375216e.json)
-
-[Extended Data](ext_articles/1375216e.ext.json)
-
----
-
-### Resolution to call all soldiers
-
-*2024-11-03 13:04:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-படையினரையும்-மீள-அழைப்பதற்கு-தீர்மானம்/175-346486) · `ta`
-
-Government calls all military forces to secure main temples and religious sites. Soldiers perform various tasks like cleaning, cooking, and driving. High-security temples use significant military presence to demonstrate protection.
-
-🟩
-
-According to reports, the government is focusing on calling all the military forces involved in the security of the main temples and other religious places.
-
-Soldiers have been used for wiping, cooking and driving, including large temples.
-
-Temples with high military contribution and high forces have used the military and naval soldiers to show that they are in high security.
-
-◼️
-
-[Data](articles/71f98026.json)
-
-[Extended Data](ext_articles/71f98026.ext.json)
-
----
-
-### Tunhinda accident: student magic
-
-*2024-11-03 12:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/துன்ஹிந்த-விபத்து-மாணவன்-மாயம்/76-346485) · `ta`
-
-University student escapes hospital after bus crash in Badulla, Sri Lanka. 24-year-old from Kotalawala Security University flees ward, sparking investigation.
-
-🟩
-
-Badulla police said that a university student who was injured in a bus accident in Badulla, Tunhinda and Abagahaoya 5th milestone has escaped from the ward on Saturday (02).
-
-A 24 -year -old university student who is educated at the Kotalawala Security University in Alexander Mawatha, JAL, has secretly escaped from the hospital ward, police said.
-
-◼️
-
-[Data](articles/2c8d8739.json)
-
-[Extended Data](ext_articles/2c8d8739.ext.json)
 
 ---

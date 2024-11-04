@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 22:41:01**
+As of **2024-11-04 22:58:27**
 
 ## Newspaper Stats
 
-*Scraped **53,031** Articles*
+*Scraped **53,032** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,209
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,949
-adaderanalk | 6,312
+adaderanalk | 6,313
 tamilmirrorlk | 7,373
 virakesarilk | 8,562
 adaderanasinhalalk | 9,247
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,031 (100.0%) of 53,031 articles have been extended.
+53,032 (100.0%) of 53,032 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Bus accident in India’s Uttarakhand kills 36, leaves 6 injured
+
+*2024-11-04 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103162/bus-accident-in-indias-uttarakhand-kills-36-leaves-6-injured) · `en`
+
+At least 36 people were killed and six were injured after a bus plunged into a gorge in the northern Indian state of Uttarakhand on Monday, an official told Reuters.
+
+The bus was travelling from Garhwal in the Himalayas and was headed to the town of Ramnagar, with at least 42 passengers on board, Devendra Pincha, a local police officer said by phone.
+
+Visuals from ANI news agency, in which Reuters has a minority stake, showed an overturned bus lying beside a river at the base of a hill.
+
+State Chief Minister Pushkar Singh Dhami said on X an inquiry would be carried out into the cause of the incident.
+
+◼️
+
+[Data](articles/ef627bbb.json)
+
+[Extended Data](ext_articles/ef627bbb.ext.json)
+
+---
 
 ### Invitation to Janaka Ratnayake and his wife
 
@@ -2319,31 +2339,5 @@ This order was issued after considering the facts presented by the Additional So
 [Data](articles/ac78a7fe.json)
 
 [Extended Data](ext_articles/ac78a7fe.ext.json)
-
----
-
-### Petition against the general election day is refuted
-
-*2024-11-04 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202885) · `si`
-
-Supreme Court rejects petition against Nov 14 election date. Three-judge panel led by Shiran Gunaratne dismisses challenge under Elections Act. Petitioner Priyantha Herath represents Sri Lanka National Organization. Respondents include AG, Presidential Secretary, and Election Commissioner.
-
-🟩
-
-The Supreme Court today (04) has been ordered to discard the petition filed by the decision to be held on November 14.
-
-After considering a long matter, the order was issued by a three-member Supreme Court judge with Journey Shiran Gunaratne and Priyantha Fernando.
-
-The order was accurate in accordance with the Elections Act to the Election Act and have been released after considering the matters of the Attorney General.
-
-Convener of the Sri Lanka National Organization by a Civil Organization Actress as well. Priyantha Herath presented the petition.
-
-The Attorney General and the Presidential Secretary and the Attorney General of the Elections Commission have been named as the respondents.
-
-◼️
-
-[Data](articles/0e124194.json)
-
-[Extended Data](ext_articles/0e124194.ext.json)
 
 ---

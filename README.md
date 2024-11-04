@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 09:00:43**
+As of **2024-11-04 09:15:38**
 
 ## Newspaper Stats
 
-*Scraped **52,897** Articles*
+*Scraped **52,899** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,39 @@ dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,929
 adaderanalk | 6,286
-tamilmirrorlk | 7,346
+tamilmirrorlk | 7,347
 virakesarilk | 8,546
-adaderanasinhalalk | 9,215
+adaderanasinhalalk | 9,216
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,892 (100.0%) of 52,897 articles have been extended.
+52,896 (100.0%) of 52,899 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Landslide alert to several areas
+
+*2024-11-04 08:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-பகுதிகளுக்கு-மண்சரிவு-எச்சரிக்கை/175-346517) · `ta`
+
+Landslide warnings issued for Badulla, Galle, Matara, Kandy, Kegalle, Kurunegala, Kalutara, Ratnapura due to heavy rain. National Building Research Institute alerts Divisional Secretariats.
+
+🟩
+
+Due to inclement weather in the country, many areas have been issued a landslide warning.
+
+Accordingly, the National Building Research Institute has issued a warning to the Divisional Secretariats of Badulla, Galle, Matara, Kandy, Kegalle, Kurunegala, Kalutara and Ratnapura districts.. Remble
+
+◼️
+
+[Data](articles/f8802975.json)
+
+[Extended Data](ext_articles/f8802975.ext.json)
+
+---
 
 ### 8 suspects arrested over Midigama shooting
 
@@ -50,6 +70,38 @@ The arrested suspects, aged between 20 and 42, are residents of Ahangama, Weliga
 
 [Data](articles/3001cb5a.json)
 
+[Extended Data](ext_articles/3001cb5a.ext.json)
+
+---
+
+### School week closes in Lahore in Pakistan
+
+*2024-11-04 08:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202878) · `si`
+
+Pakistan's Lahore closes schools due to severe air pollution. Authorities implement remote work for 50% of office staff and ban outdoor activities for children. Health officials advise staying indoors and avoiding travel. The city takes unprecedented measures to combat environmental issues.
+
+🟩
+
+Authorities have taken steps to close school due to air pollution in Lahore, Pakistan.
+
+According to foreign media reports, Pakistan authorities have taken steps to close school for a week.
+
+50% of office employees have been introduced to work from home.
+
+Pakistani health sectors mentioned as much as possible to stay in the home as possible and prevent unnecessary travels.
+
+Outdoor activities have also been banned from last month to school children and the schools will also be amended.
+
+In addition, maintaining the barbecue business ventures without rickshaws and filters operating in the engine.
+
+Lahore is considered to be the second largest city in Pakistan, and it was the first to the first time in the global cities.
+
+◼️
+
+[Data](articles/9f5637c2.json)
+
+[Extended Data](ext_articles/9f5637c2.ext.json)
+
 ---
 
 ### Moldova’s pro-Western president wins 2nd term in runoff overshadowed by Russian meddling claims
@@ -67,6 +119,8 @@ The result will be a major relief for the pro-Western government, which strongly
 ...
 
 [Data](articles/2727359e.json)
+
+[Extended Data](ext_articles/2727359e.ext.json)
 
 ---
 
@@ -2211,57 +2265,5 @@ Against this backdrop, the earnings from tourism in September 2024 amounted to U
 [Data](articles/76b30265.json)
 
 [Extended Data](ext_articles/76b30265.ext.json)
-
----
-
-### An announcement of the weather
-
-*2024-11-03 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202861) · `si`
-
-Weather alert: Heavy showers (100mm+) expected across Sri Lanka. Thunderstorms possible evenings/night. Take precautions against damage from storms.
-
-🟩
-
-The Department of Meteorology has issued a warning for central, Uva and Sabaragamuwa provinces.
-
-It says that there may be heavy showers over 100 mm in the island in most parts of the island.
-
-Showers or thundershowers will occur at the evening or night in most parts of the island.
-
-The Department of Meteorology also requests the need to be taken to minimize the damages caused by thunderstorms.
-
-◼️
-
-[Data](articles/036233f3.json)
-
-[Extended Data](ext_articles/036233f3.ext.json)
-
----
-
-### The death penalty for children who protested against the cost of living in Nigeria?: Appeared in court
-
-*2024-11-03 13:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197788) · `ta`
-
-Children protest cost of living Nigeria face death penalty court case controversy
-
-🟩
-
-Shocking reports have revealed that 29 children who were involved in the struggle against the increase in livelihoods in Nigeria could be sentenced to death.
-
-The Nigerian government has imposed several allegations, including treason allegations against 76 people who were protesting against the cost of living.
-
-The public is engaged in a series of protests in Nigeria due to frustration over the increase in cost of living.
-
-The death penalty came into effect in Nigeria in 1976, but no one has been convicted since 1996.
-
-Nigeria's Child Rights Act has not been allowed to investigate children and produce a court, a lawyer said.
-
-Therefore, it is wrong to bring the boys to the court.
-
-◼️
-
-[Data](articles/1f757647.json)
-
-[Extended Data](ext_articles/1f757647.ext.json)
 
 ---

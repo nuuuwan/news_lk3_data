@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 01:24:17**
+As of **2024-11-05 01:40:31**
 
 ## Newspaper Stats
 
-*Scraped **53,044** Articles*
+*Scraped **53,053** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 542
 bbccomsinhala | 543
 islandlk | 3,169
 economynextcom | 3,211
-dailyftlk | 3,618
+dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
@@ -26,11 +26,163 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,042 (100.0%) of 53,044 articles have been extended.
+53,045 (100.0%) of 53,053 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Country launch of Global Innovation Index 2024 today
+
+*2024-11-05 00:56:39* · [`dailyftlk`](https://www.ft.lk/business/Country-launch-of-Global-Innovation-Index-2024-today/34-768844) · `en`
+
+Event to put spotlight on "Prioritising innovation in Sri Lanka's economic recovery"
+
+The National Innovation Agency of Sri Lanka, in collaboration with the World Intellectual Property Organization (WIPO), will today launch the Global Innovation Index (GII) 2024 at the Saman Kelegama Auditorium, Institute of Policy Studies, Independence Avenue, Colombo 7, from 2 p.m. to 4 p.m.
+
+Held under the theme “Prioritising innovation in Sri Lanka’s economic recovery”, this event will bring together Government leaders, industry experts, and academics to explore how innovation can drive sustainable growth, economic resilience, and global competitiveness for Sri Lanka.
+
+...
+
+[Data](articles/8053f5d9.json)
+
+[Extended Data](ext_articles/8053f5d9.ext.json)
+
+---
+
+### Vella announces establishment of corporate group structure
+
+*2024-11-05 00:54:44* · [`dailyftlk`](https://www.ft.lk/business/Vella-announces-establishment-of-corporate-group-structure/34-768843) · `en`
+
+New organisation to drive global market leadership of Group companies 98 Acres Resort & Spa, Flying Ravana, and Halpé Tea among others
+
+The Vella Group of Companies marked its official launch as a corporate entity at the Ravana Pool Club in Ella, one of its flagship properties. The newly established organisation, Vella, will serve as the central hub for administrative and corporate management across all operations within the Group.
+
+...
+
+[Data](articles/7d0fbc6d.json)
+
+[Extended Data](ext_articles/7d0fbc6d.ext.json)
+
+---
+
+### Shako helmets manufacturer Inventive Polymers Lanka wins ‘National Award of Excellence for Best Supply Chain Organisation’
+
+*2024-11-05 00:53:16* · [`dailyftlk`](https://www.ft.lk/business/Shako-helmets-manufacturer-Inventive-Polymers-Lanka-wins-National-Award-of-Excellence-for-Best-Supply-Chain-Organisation/34-768842) · `en`
+
+Inventive Polymers Lanka Ltd. (IPL) was honoured with the prestigious ‘National Award of Excellence for Best Supply Chain Practicing Organisation 2024’ under the small-scale special commendation category at the National Supply Chain Excellence Awards 2024.
+
+This event was organised by the Institute of Supply and Materials Management (ISMM) in collaboration with the Industries Ministry.
+
+The awards celebrate the dedication of professionals striving for excellence in the supply chain field. By acknowledging their achievements, the ISMM aims to inspire others to contribute to the growth and development of the sector.
+
+...
+
+[Data](articles/02a56afa.json)
+
+[Extended Data](ext_articles/02a56afa.ext.json)
+
+---
+
+### 42nd National IT Conference rescheduled to 24-26 Nov.
+
+*2024-11-05 00:51:33* · [`dailyftlk`](https://www.ft.lk/business/42nd-National-IT-Conference-rescheduled-to-24-26-Nov/34-768841) · `en`
+
+The 42nd National Information Technology Conference (NITC) has been rescheduled to 24-26 November at the Shangri La Hotel, Colombo.
+
+The rescheduling is due to the Parliamentary Election being held on 14 November.
+
+Organised by the Computer Society of Sri Lanka (CSSL), the conference will be inaugurated by President Anura Kumara Dissanayake on 24 November.
+
+The theme of the conference is “Catalysing a Progressive Future: Towards Society 5.0”. This pivotal event in the information and communication technology (ICT) sector serves as a dynamic platform for innovation and collaboration and will feature a diverse line-up of activities, including the CSSL National ICT Awards and the CSSL Digital Investment Summit.
+
+...
+
+[Data](articles/d9ae31db.json)
+
+---
+
+### NCCSL workshop on “Market Research Insights and Analytics for Business Competitiveness” on Thursday
+
+*2024-11-05 00:50:54* · [`dailyftlk`](https://www.ft.lk/business/NCCSL-workshop-on-Market-Research-Insights-and-Analytics-for-Business-Competitiveness-on-Thursday/34-768840) · `en`
+
+The National Chamber of Commerce of Sri Lanka will hold a one-day workshop titled “Understand Your Market Competition and Consumer: Market Research Insights and Analytics for Business Competitiveness” on Thursday, 7 October, from 9 a.m. to 4 p.m. at the National Chamber Auditorium.
+
+It will empower participants with vital market research skills, helping them understand customer behaviour, identify new market opportunities, and optimise marketing strategies. Through practical applications and real-world insights, participants will learn to design, measure, and interpret marketing performance to drive ROI and improve business competitiveness.
+
+...
+
+[Data](articles/5c0d8594.json)
+
+---
+
+### Sri Lanka-NORDIC Business Council holds 23rd AGM
+
+*2024-11-05 00:50:08* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-NORDIC-Business-Council-holds-23rd-AGM/34-768839) · `en`
+
+Spillburg Holdings Ltd. Director/CEO Shaameel Mohideen was appointed the President of the Sri Lanka-NORDIC Business Council (SLNBC) for 2024/2025 at the 23rd Annual General Meeting held recently at the Cinnamon Grand.
+
+The occasion was graced by Chief Guest Honorary Consul for Norway Mano Sekaram and Guest of Honour Honorary Consul for Sweden Sanjaya Kulathunga.
+
+The following Executive Council Members were elected for the year 2024/2025 at the AGM.
+
+MAC Holdings Ltd. Managing Director Andre Fernando and Meridian Maritime Services Ltd. Director Operations Maleena Awn were elected Vice Presidents for the period. The representatives from Kalaro Ltd., M.A. Razak & Company Ltd., Ningbo Marketing Services Ltd., and Universal Trade Bureau were elected as Committee Members. Infomate Ltd. CEO Jehan Perinpanayagam will serve the Committee as the Immediate Past President of the Council.
+
+...
+
+[Data](articles/650e43a9.json)
+
+---
+
+### Tilvin accuses Ranil of continuously deceiving citizens
+
+*2024-11-05 00:47:20* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-accuses-Ranil-of-continuously-deceiving-citizens/56-768838) · `en`
+
+Slams former President for alleged attempt to mislead the public through various recent statements
+
+Asks Wickremesinghe to accept his defeat and live with the loss without pedalling falsehoods
+
+Stresses misleading people is a social crime and says all such attempts must be defeated
+
+Says NPP is seeking to bring genuine change and urges public to support their bid for a stronger Parliamentary presence
+
+Calls on all Sri Lankans to unite against misinformation campaigns and to reject baseless accusations and divisive rhetoric
+
+The Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva has strongly criticised former President Ranil Wickremesinghe, accusing him of deceiving the public and undermining democratic principles. Silva’s remarks came as tensions rise ahead of the upcoming General Election.
+
+...
+
+[Data](articles/695a8a2a.json)
+
+---
+
+### Election to go ahead on 14 Nov. as SC dismisses petition
+
+*2024-11-05 00:45:41* · [`dailyftlk`](https://www.ft.lk/news/Election-to-go-ahead-on-14-Nov-as-SC-dismisses-petition/56-768837) · `en`
+
+The Supreme Court has dismissed a petition challenging the decision to hold the General Election on 14 November, confirming that the election will proceed as scheduled.
+
+The decision was made by a three-judge bench comprising Justices Preethi Padman Surasena, Shiran Gunaratne, and Priyantha Fernando. The Court ordered the dismissal of the petition without a hearing after an extensive review of the submitted facts.
+
+The petition was originally filed by H.M. Priyantha Herath, a civil society activist and convenor of the “Api Sri Lanka” national organisation, on 21 October. It sought an order declaring that the Election Commission’s decision to set the election for 14 November violated the Constitution. The respondents included the Attorney General, the Secretary to the President, and the Chairman and members of the Election Commission of Sri Lanka.
+
+...
+
+[Data](articles/a9c5e60c.json)
+
+---
+
+### Ratwatte spouse remanded over illegally assembled SUV
+
+*2024-11-05 00:45:04* · [`dailyftlk`](https://www.ft.lk/news/Ratwatte-spouse-remanded-over-illegally-assembled-SUV/56-768836) · `en`
+
+Rashi Prabha Ratwatte, the wife of former Plantation Industries and Mahaweli Development State Minister Lohan Ratwatte, was remanded yesterday over the possession of an illegally assembled, unregistered luxury vehicle. The Nugegoda Magistrate’s Court ordered her detention until 7 November after she appeared in response to a court summons.
+
+...
+
+[Data](articles/dbe73162.json)
+
+---
 
 ### CPC profits curbed by foreign competition: CPSTL Chairman
 
@@ -2095,241 +2247,5 @@ Accordingly, the gas cylinder of 12.5kg of Kg. The gas cylinder of five is sold 
 [Data](articles/2bb3ea71.json)
 
 [Extended Data](ext_articles/2bb3ea71.ext.json)
-
----
-
-### Karuna-Pillaiyan supporters clash: trio injury
-
-*2024-11-04 13:47:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கருணா-பிள்ளையான்-ஆதரவாளர்கள்-மோதல்-மூவர்-காயம்/73-346537) · `ta`
-
-Clash between Karuna Amman and Pillaiyan party supporters in Batticaloa resulted in injuries to three individuals, including a party candidate. Incident occurred during a campaign speech near a school. Supporters from both parties engaged in verbal exchange before physical altercation ensued.
-
-🟩
-
-In Batticaloa, three people, including a party candidate of Karuna Amman, were injured in a clash between Karuna Amman's party candidate and supporters and Pillaiyan party supporters.
-
-The incident took place last night, Jayanthipuram. Headquarters police said.
-
-Karuna Amman's party's candidate, the Democratic Front, on the Jayanthipuram school road in Batticaloa, was speaking to supporters last night on the former road in the party office.
-
-At this juncture, a six -member Pillaiyan party supporter of the Pillaiyan Party, on the walls there, packed the posters of the Pillaiyan party on the posters of Karuna Amman's candidates.
-
-There was a rhetoric between the two party supporters as Karuna's candidate went and said, "We need to stick the posters over our posters."
-
-Subsequently, Pillaiyan party supporters attacked Karuna's candidate and his supporter.
-
-Three people, including Karuna's party candidate Munisamy Nagendran and his two supporters, were then injured.
-
-◼️
-
-[Data](articles/1484df37.json)
-
-[Extended Data](ext_articles/1484df37.ext.json)
-
----
-
-### Laugfs do not change the price of gas
-
-*2024-11-04 13:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202890) · `si`
-
-LAUGFS announces unchanged gas prices for November. A 12.5kg household cylinder costs Rs. 3,680.
-
-🟩
-
-The company has informed the launfs gas price for November.
-
-A 12.5kg LAUGFS-household gas cylinder is sold at Rs. 3,680 and Rs.
-
-◼️
-
-[Data](articles/81f1c194.json)
-
-[Extended Data](ext_articles/81f1c194.ext.json)
-
----
-
-### Trump or Haris?Whoever wins will face the change in the world economy
-
-*2024-11-04 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197859) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Trump vs Harris: Economy shift looms. Post-Cold War era saw globalization. China's rise challenged US dominance. BRICS expansion challenges US dollar hegemony. Climate change hampers global poverty reduction. Election outcome impacts world economic landscape.
-
-🟩
-
-In 1992, Communism was defeated in the height of the world in the world of power.
-
-The liberalization of the Chinese economy gave US multinational corporations the opportunity to outsources production of work.
-
-Two Liberal liberalization and George Htafilubush Bill Clinton contested the presidency.
-
-It has been 32 years since the Bilglinton entered the White House.
-
-They are well aware that their country is the largest economy in the world as Americans are due to vote on Tuesday.
-
-The single polar world of Bush proudly, at the end of the Gulf War in 1991, has fallen.
-
-Money goods in the 1990s. The world was talked about without any obstacles. Restrictions on capital have been removed.
-
-But soon the things expected began to go on a different path. The agitation of neo -dwelling has not last long.
-
-Capital with very low restrictions has been freely in the nations and it has led to the collapse of local markets.
-
-...
-
-[Data](articles/b1403090.json)
-
-[Extended Data](ext_articles/b1403090.ext.json)
-
----
-
-### Madhavan's first vision release of the movie 'Lucky'
-
-*2024-11-04 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/197853) · `ta`
-
-Madhavan's "Lucky" movie summary: Tamil film featuring Madhavan, directed by Mithran R., starring Madonna Sebastian, Radhika Sarathkumar. Music by Yuvan Shankar Raja, produced by AA Media Corporation. Post-production ongoing, set for multi-language release including Tamil, Telugu, Malayalam, Kannada, and Hindi.
-
-🟩
-
-Not only in the Tamil film industry, Ban is named 'Lucky' and has been named 'Lucky', which has been named after Ban Indian -level star actor Madhavan.
-
-Director Mithran R. Madhavan, Madonna Sebastian, Radhika Sarathkumar, Sai Tansika, Jegan, NK. Properties, R. C. Upasana, Mathew Varghese, Uday Mahesh, KSS. G. Venkatesh, Ravi Prakash and many others have acted.
-
-Yuvan Shankar Raja has composed the film for Karthik Muthukumar.
-
-Sharmila, Rekha Vicky and Manoj Mulki have produced the film on behalf of AA Media Corporation Company.
-
-The shooting of the film in Scotland is completely completed. The post -shooting of the film is currently underway. In this case, the film crew has released the name and first look of the film.
-
-It has attracted fans because of Madhavan's dual appearance and is labeled as 'lucky'.
-
-...
-
-[Data](articles/eab6d081.json)
-
-[Extended Data](ext_articles/eab6d081.ext.json)
-
----
-
-### The King's couple a hit
-
-*2024-11-04 13:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202889) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-King Philippe and Queen Litzia met citizens yesterday. Some questioned their delay and blamed them for the killer's actions.
-
-🟩
-
-King Philipea and Litzia Queen was yesterday (03).
-
-Some people directly consulted the king and the queen and directly asked why they were delayed to meet the people.
-
-They also accused the king and the government that the killer was dedicated to death.
-
-◼️
-
-[Data](articles/4c999595.json)
-
-[Extended Data](ext_articles/4c999595.ext.json)
-
----
-
-### 'Amaran' won the Diwali release
-
-*2024-11-04 13:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/197856) · `ta`
-
-"Amaran" wins Diwali box office, Sivakarthikeyan starrer sets records. Grosses over 40 crores on opening day, projected to reach 150 crore in four days. Receives praise from Tamil Nadu politicians and stars.
-
-🟩
-
-Sivakarthikeyan starrer 'Amaran' has set a record in collections in Diwali.
-
-Three live Tamil films - 'Blady Becker' starring Sivakarthikeyan, Jayam Ravi starring 'Amaran', 'Brad' and 'Bldy Becker' starring Dulkar Salman in TamilReleased.
-
-In these four films, 'Amaran' starring Sivakarthikeyan starring 'World Man' Kamal Haasan has been critically and grossly successful.
-
-On the first day of the release of the film, the Indian value grossed over forty crores of rupees.
-
-The film was a huge reception of fans during a series of holidays. Due to this, the film industry has noticed that the film will have grossed over Rs 150 crore in India in four days.
-
-Thus the success of the film will be held at the star hotel in Chennai today.
-
-The official announcement of the film's collections at this moment is expected to be made.
-
-...
-
-[Data](articles/9ef066fc.json)
-
-[Extended Data](ext_articles/9ef066fc.ext.json)
-
----
-
-### Treasury billing auction of Rs. 175,000 million
-
-*2024-11-04 13:14:09* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-මිලියන-175-000ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්/11-412840) · `si`
-
-Central Bank of Sri Lanka announces Treasury bill auction of Rs. 175,000 million. Auction date: Evening. Issue and payment deadline: November 08.
-
-🟩
-
-The Central Bank of Sri Lanka announced that a Treasury bill auction is held will be held on the evening a Treasury billing auction.
-
-The Treasury bills of Rs.
-
-The Treasury bill issue and payment is due to be made on November 08.
-
-◼️
-
-[Data](articles/d6a6c755.json)
-
-[Extended Data](ext_articles/d6a6c755.ext.json)
-
----
-
-### Spain’s king and queen pelted with mud in flood-hit Valencia
-
-*2024-11-04 13:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103147/spains-king-and-queen-pelted-with-mud-in-flood-hit-valencia) · `en`
-
-The King and Queen of Spain have been pelted with mud and other objects by angry protesters during a visit to flood-hit Valencia.
-
-Shouts of “murderer” and “shame” were directed at the royal couple, Spain’s prime minister and other leaders as they walked through the town of Paiporta - one of the worst-affected in the region.
-
-With mud on their faces and clothes, King Felipe and Queen Letizia were later seen consoling members of the crowd.
-
-More than 200 people were killed in the floods, the worst in Spain for decades. Emergency workers are continuing to comb through underground car parks and tunnels in the hope of finding survivors and recovering bodies.
-
-There has been anger at a perceived lack of warning and insufficient support from authorities after the floods.
-
-Footage showed the king making his way down a pedestrian street, before his bodyguards and police were suddenly overwhelmed by a surge of protesters, hurling insults and screaming.
-
-...
-
-[Data](articles/b0b648a7.json)
-
-[Extended Data](ext_articles/b0b648a7.ext.json)
-
----
-
-### Order to appear in Lohan's wife
-
-*2024-11-04 13:07:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-மனைவியை-ஆஜராகுமாறு-உத்தரவு/175-346535) · `ta`
-
-Lohan Ratwatta's wife summoned over unregistered luxury vehicle. Ordered to appear before Gangodawila Magistrate on 04/03. Case filed under Motor Traffic Act.
-
-🟩
-
-Gangodawila Chief Magistrate Ruwini Jayawardena has ordered that the wife of former minister Lohan Ratwatta, who is alleged to have an unregistered luxury vehicle, has been ordered to appear in the presence of the Gangodawila Magistrate on Monday (04).
-
-◼️
-
-[Data](articles/80d9cc5a.json)
-
-[Extended Data](ext_articles/80d9cc5a.ext.json)
 
 ---

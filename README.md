@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 09:15:38**
+As of **2024-11-04 09:26:19**
 
 ## Newspaper Stats
 
-*Scraped **52,899** Articles*
+*Scraped **52,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,203
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,929
-adaderanalk | 6,286
-tamilmirrorlk | 7,347
+adaderanalk | 6,288
+tamilmirrorlk | 7,348
 virakesarilk | 8,546
 adaderanasinhalalk | 9,216
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 9,216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,896 (100.0%) of 52,899 articles have been extended.
+52,901 (100.0%) of 52,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### 14-year-old dies in hand tractor accident at Galkiriyagama
+
+*2024-11-04 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103134/14-year-old-dies-in-hand-tractor-accident-at-galkiriyagama) · `en`
+
+A 14-year-old boy has reportedly been killed in an accident after a hand tractor loaded with firewood lost control and rolled off the road at the Karavilagala Junction on the Aliyamalagala - Kahalukanda Road in Galkiriyagama.
+
+According to police, the teenager was walking near the road in front of the tractor at the time of the accident, which occurred last afternoon (03).
+
+The teenager succumbed to his injuries after being admitted to the Regional Hospital in Kalawewa and the deceased was identified as a resident of Nanwattegama in Nagampaha.
+
+The tractor driver has been arrested in connection with the incident, and the Galkiriyagama Police are conducting further investigations.
+
+◼️
+
+[Data](articles/da6a8351.json)
+
+---
+
+### EC issues guidelines for valid marking of votes in general election
+
+*2024-11-04 09:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103133/ec-issues-guidelines-for-valid-marking-of-votes-in-general-election) · `en`
+
+The marking of postal votes for the upcoming General Election 2024 entered its third day today (04), after commencing on October 30.
+
+According to the Election Commission, voters from the three armed forces and other government institutions who were unable to mark their postal votes on October 30 and November 01 have been given the opportunity to do so today.
+
+The Commissioner General of Elections Saman Sri Rathnayake announced that postal voters who are still unable to cast their votes on the designated days will be permitted to vote at the District Secretariat corresponding to their workplace on November 07 and 08.
+
+The Election Commission has also issued guidelines on the proper voting and preference-marking procedure.
+
+Each voter has one vote, which can be cast for a recognized political party or an independent group. To do so, an ‘x’ mark should be placed in front of the chosen political party’s symbol or in the space before the number and symbol of the independent group.
+
+...
+
+[Data](articles/d65e0dbe.json)
+
+[Extended Data](ext_articles/d65e0dbe.ext.json)
+
+---
+
+### Air pollution;Schools that are closed
+
+*2024-11-04 08:59:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/காற்று-மாசுபாடு-மூடப்படும்-பாடசாலைகள்/50-346518) · `ta`
+
+Pakistan shuts schools due to poor air quality affecting 14 million residents. Government action taken as wind quality remains low for 6 days.
+
+🟩
+
+The government of Pakistan, the second largest city of Pakistan, will shut down schools for about a week as the quality of wind has deteriorated.
+
+The quality of the wind has been bad for several days in the city where about 14 million people live.
+
+The weather forecast shows that there will be no change in the quality of the air for the next 6 days.
+
+◼️
+
+[Data](articles/eae64141.json)
+
+[Extended Data](ext_articles/eae64141.ext.json)
+
+---
 
 ### Landslide alert to several areas
 
@@ -139,6 +201,8 @@ Accordingly, the general public is kindly requested to take adequate precautions
 ◼️
 
 [Data](articles/1e8afb50.json)
+
+[Extended Data](ext_articles/1e8afb50.ext.json)
 
 ---
 
@@ -1234,37 +1298,53 @@ He added that the false news has been published on the leading newspaper and soc
 
 ---
 
-### අද සවස් කාලයේදීත් වැසි
+### Showers in the evening today
 
 *2024-11-03 19:27:14* · [`adalk`](https://www.ada.lk/breaking_news/අද-සවස්-කාලයේදීත්-වැසි/11-412832) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල අද (04දා) සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
+Evening showers and thunderstorms forecasted for multiple provinces. Heavy rainfall possible with strong gusts and lightning. Rough seas expected in coastal areas.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වන බවත්, බස්නාහිර සහ දකුණු පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් වැසි ඇති විය හැකි බවද පෙන්වා දෙයි.
+🟩
 
-මධ්‍යම, උතුරුමැද, සබරගමුව, ඌව, දකුණු සහ වයඹ පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 100 ට වැඩි තද වැසි ඇති විය හැකි බවත්, ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටියි.
+The Meteorological Department states that there is a protesting atmospmic to thunderstorms in many parts of the island.
 
-දිවයින වටා වන මුහුදු ප්‍රදේශවල තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ. පුත්තලම සිට ගාල්ල සහ හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළං බස්නාහිර හෝ නිරිත දෙසින් හමා එන අතර, දිවයින වටා වන සෙසු මුහුදු ප්‍රදේශවල සුළං නිශ්චිත දිශාවකින් තොරව හමයින බවද පෙන්වා දෙයි.
+Showers or thundershowers will occur at the evening or night in the evening, in the evening or night.
 
-සුළඟේ වේගය පැ.කි.මී. 20-30 පමණ වන බවත්, දිවයින වටා වන මුහුදු ප්‍රදේශ සාමාන්‍ය ස්වභාවයේ සිට මද වශයෙන් රළු දක්වා වේ.
+MM, North Central, Sabaragamuwa, Uva, Uva, Uva, Southern and Northwestern provinces. Heavy showers may occur at more than 100 and to take necessary steps to be taken to minimize temporary winds and lightning.
 
-...
+Showers or thundershowers will occur at several places in the sea areas around the island.Winds are blow in the sea areas off the coast extending from Puttalam to Pottuvil through Pottuvil via Galle and Hambantota and the western parts of the sea areas around the island are himhed in a definite direction.
+
+The speed of the wind is one hour.. The sea areas around the island are roughly rough from the normal nature.
+
+Attorneys can be temporarily strong in areas where thundershowers will occur temporary winds.
+
+◼️
 
 [Data](articles/f40593e6.json)
 
+[Extended Data](ext_articles/f40593e6.ext.json)
+
 ---
 
-### අස්වැසුම ප්‍රතිලාභීන් තෝරා ගැනීමේ ගැන සොයන්න කමිටුවක්
+### Committee search for renewen selection of revenue
 
 *2024-11-03 19:21:28* · [`adalk`](https://www.ada.lk/breaking_news/අස්වැසුම-ප්‍රතිලාභීන්-තෝරා-ගැනීමේ-ගැන-සොයන්න-කමිටුවක්/11-412831) · `si`
 
-අස්වැසුම සුබසාධක ප්‍රතිලාභ ලබාදීම සඳහා ප්‍රතිලාභීන් තෝරා ගැනීමේදී සිදුවූ අසාධාරණ පිළිබඳව පරීක්ෂණයක් කිරීම සඳහා බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු, ජාතික ඒකාබද්ධතා, සමාජ ආරක්ෂණ සහ ජනමාධ්‍ය අමාත්‍යාංශයේ ලේකම් රංජිත් ආරියරත්න මහතා විසින් දස පුද්ගල කමිටුවක්  පත් කර තිබේ. අමාත්‍ය විජිත හේරත් මහතාගේ උපදෙස් පරිදි මෙම කමිටුව පත්කර ඇත.
+Committee formed to review Samurdhi beneficiary selection process. Tasked with studying properties and reporting criteria for revenue distribution. Secretary instructed to investigate formally. Committee to consider all information and requests received.
 
-අස්වැසුම ප්‍රතිලාභ ක්‍රමය සඳහා ප්‍රතිලාභීන් තෝරා ගැනීමේ දී සත්‍ය වශයෙන් ප්‍රතිලාභ ලැබිය යුතු වුවත් ඒ අවස්ථාව අහිමි වූ සමෘද්ධි ප්‍රතිලාභීන් හඳුනා ගැනීමේ ක්‍රම වේදයක් සැකසීම, අස්වැසුම ප්‍රතිලාභීන් තෝරා ගැනීමේ දී සත්‍ය වශයෙන් ප්‍රතිලාභ ලැබිය යුතු සමෘද්ධිලාභීන් අස්වැසුම වැඩසටහනට ඇතුළත් නොවීමට බලපා ඇති හේතු අධ්‍යයනය කොට වාර්තා කිරීම සහ සත්‍ය වශයෙන්ම ප්‍රතිලාභ ලැබිය යුතු සමෘද්ධිලාභීන් අස්වැසුම වැඩසටහනට ඇතුළත් කර ගැනීම සඳහා තෝරා ගැනීමේ ක්‍රම වේදයට ඇතුළත් විය යුතු යැයි නිර්දේශ කරන නිර්ණායක වාර්තා කිරීම අදාළ කමිටුවට පැවරී තිබේ.
+🟩
 
-...
+Buddha Sasana, Religious and Cultural Affairs, National Integration, Social Security and Mass Media Institute of Mass Media and Information and Mass Media and Mass Media and Information. The committee has been appointed as the instructions of Minister Vijitha Herath.
+
+Study and report the properties of the Samurdhi benefits of identifying the benefits of identifying beneficiaries in the selection of Samurdhi beneficiaries for the revenue benefit.The committee is entrusted to report the criteria that recommended the selection system to be included in the program to be included in the program to be included in the program.
+
+Secretary to the Ministry Ranjith Ariyratne has been instructed by the committee to conduct a formal investigation into the matter.The committee has been appointed as considering information and requests received.
+
+◼️
 
 [Data](articles/4c910751.json)
+
+[Extended Data](ext_articles/4c910751.ext.json)
 
 ---
 
@@ -2203,67 +2283,5 @@ The Muslim parliamentary representation and the protection of. It is necessary t
 [Data](articles/751ba2b7.json)
 
 [Extended Data](ext_articles/751ba2b7.ext.json)
-
----
-
-### Women's role in politics: Are we traveling without targeting?- IMSA's Jaffna. District candidate Umachandra Prakash Sevy
-
-*2024-11-03 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197774) · `ta`
-
-Women's roles in Sri Lankan politics: New female candidates face challenges due to lack of involvement in party structures. Electoral constituencies are dominated by men, hindering women's participation.
-
-🟩
-
-It is often a matter of fact that the new female candidates who are not involved in political activities. However, in the case of Sri Lanka's political structure, the electoral constituencies are the foundation of the parties. Men are often appointed as their organizers.
-
-◼️
-
-[Data](articles/3cff3648.json)
-
-[Extended Data](ext_articles/3cff3648.ext.json)
-
----
-
-### Heavy rains expected to continue in parts of the island
-
-*2024-11-03 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103121/heavy-rains-expected-to-continue-in-parts-of-the-island) · `en`
-
-The Department of Meteorology has issued an ‘Amber’ level advisory for heavy rains in the Central, Uva, and Sabaragamuwa Provinces valid for the next 24 hours.
-
-The advisory stated that showers  or  thundershowers  will occur  in  the  most  parts  of  the island during the evening or night.  Heavy showers above 100 mm are likely at some places  in  Central, Uva,  and  Sabaragamuwa provinces.
-
-Meanwhile, the Met. Department has also issued an advisory for lightening.
-
-Thundershowers accompanied by severe lightning are  likely  to  occur  at  several  places  in  Central, Sabaragamuwa,  Uva,  North-central  and  North-western  provinces  and  in  Mannar  and  Vavuniya districts. There may be temporary localized strong winds during thundershowers, it added.
-
-Thus, the general public is kindly requested to take  adequate  precautions  to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/c7193eee.json)
-
-[Extended Data](ext_articles/c7193eee.ext.json)
-
----
-
-### Workers’ remittances decline in September 2024
-
-*2024-11-03 14:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103120/workers-remittances-decline-in-september-2024) · `en`
-
-The Central Bank of Sri Lanka (CBSL) says that the amount of expatriated workers’ remittances in September 2024 has slightly decreased compared to August 2024.
-
-The Sri Lankan workers’ remittances amounted to US dollars 556 million in September 2024, a slight moderation compared to US dollars 577 million in August 2024, as per the latest external sector performance report published by the CBSL.
-
-However, the report also indicated that this is notably higher in comparison to US dollars 482 million recorded in September 2023.
-
-Meanwhile, the monthly workers’ remittances have exceeded US dollars 500 million since March 2024, according to the CBSL.
-
-Against this backdrop, the earnings from tourism in September 2024 amounted to US dollars 181 million, compared to US dollars 282 million in August 2024 and US dollars 152 million in September 2023, the CBSL added.
-
-...
-
-[Data](articles/76b30265.json)
-
-[Extended Data](ext_articles/76b30265.ext.json)
 
 ---

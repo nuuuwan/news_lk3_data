@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 06:45:34**
+As of **2024-11-04 07:28:32**
 
 ## Newspaper Stats
 
-*Scraped **52,885** Articles*
+*Scraped **52,886** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,53 @@ adalk | 4,927
 adaderanalk | 6,283
 tamilmirrorlk | 7,344
 virakesarilk | 8,546
-adaderanasinhalalk | 9,211
+adaderanasinhalalk | 9,212
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,883 (100.0%) of 52,885 articles have been extended.
+52,885 (100.0%) of 52,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
 
-### පළාත් කිහිපයකට මි.මී 100 ඉක්මවු තද වැසි
+### මිදිගම ඝාතනයට සැකකරුවන් 8ක් අල්ලයි
+
+*2024-11-04 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202874) · `si`
+
+මිදිගම දී පුද්ගලයෙකුට වෙඩිතබා ඝාතනය කර තවත් පුද්ගලයින් දෙදෙනෙකුට බරපතළ තුවාල සිදුකිරීමේ සිද්ධියට සම්බන්ධ සැකකරුවන් 8 දෙනෙකු මාතර කොට්ඨාස අපරාධ විමර්ශන කාර්යාංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/e5dabbe5.json)
+
+---
+
+### Heavy rains over 100mm
 
 *2024-11-04 06:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202872) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් පවතින බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected 100mm+ Uva, East, Central, Sabaragamuwa, North Central provinces. Showers/thundershowers in coastal areas Northern, Eastern, North Western provinces. Strong winds and thunderstorm damage possible.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+🟩
 
-ඌව, නැගෙනහිර, මධ්‍යම, සබරගමුව සහ උතුරු-මැද පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 100ට වැඩි තද වැසි ඇතිවිය හැක.
+The Department of Meteorology states that there is a protesting atmospheric objective in the evening in the evening.
 
-උතුරු,  නැගෙනහිර සහ වයඹ පළාත්වල වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව දැනුම් දී තිබේ.
+Showers or thundershowers will occur at the evening or night in many parts of the island.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළං වලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවට දැනුම් දී තිබේ.
+Uva, East, Central, Sabaragamuwa and North Central provinces. Heavy rains can occur at over 100.
+
+Showers or thundershowers will occur at several places elsewhere in the coastal areas of the Northern, Eastern and North Western provinces.
+
+The people have been asked to take necessary steps to reduce temporary strong winds and the damages caused by thunderstorms.
 
 ◼️
 
 [Data](articles/a5ee44a6.json)
+
+[Extended Data](ext_articles/a5ee44a6.ext.json)
 
 ---
 
@@ -2251,27 +2269,5 @@ He was admitted to the Prison Hospital due to an emergency illness while he was 
 [Data](articles/86b4b7c6.json)
 
 [Extended Data](ext_articles/86b4b7c6.ext.json)
-
----
-
-### These are the reason why we leave the Sri Lanka Tamil National Party
-
-*2024-11-03 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/197769) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Reasons for leaving Sri Lanka Tamil National Party: Lack of space after last election, newcomer brought in instead of experienced member. Media spokesperson handled key roles. Party seeking fresh faces for elections. Experienced members like myself overlooked despite contributions.
-
-🟩
-
-The last parliamentary election did not give me space. Instead they brought a new one who was not in the party. The party's media spokesman has done this work. I have done many jobs for the party and the people. In that case, the party is looking for newcomers and contesting the election.
-
-◼️
-
-[Data](articles/2ab0dae2.json)
-
-[Extended Data](ext_articles/2ab0dae2.ext.json)
 
 ---

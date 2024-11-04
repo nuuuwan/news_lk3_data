@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-04 14:40:14**
+As of **2024-11-04 14:59:28**
 
 ## Newspaper Stats
 
-*Scraped **52,953** Articles*
+*Scraped **52,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,206
 dailyftlk | 3,613
 dailymirrorlk | 4,733
 adalk | 4,937
-adaderanalk | 6,299
-tamilmirrorlk | 7,361
+adaderanalk | 6,301
+tamilmirrorlk | 7,363
 virakesarilk | 8,548
 adaderanasinhalalk | 9,229
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 9,229
 
 Extensions include translations and NER (Named Entity Recognition).
 
-52,953 (100.0%) of 52,953 articles have been extended.
+52,956 (100.0%) of 52,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-04 (Monday)
+
+### Proposed tariff reduction insufficient; PUCSL calls for revised proposal from CEB
+
+*2024-11-04 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103149/proposed-tariff-reduction-insufficient-pucsl-calls-for-revised-proposal-from-ceb) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) has asked the Ceylon Electricity Board (CEB) to submit a revised proposal for electricity tariff reductions, stating that the initially proposed tariff reduction is inadequate.
+
+PUCSL Communications Director Jayanath Herath said the CEB has been directed to provide an updated proposal by November 08. This follows an initial proposal submission by the CEB on October 24, in which the board proposed a reduction of electricity tariffs ranging from 4% to 11%.
+
+Despite this, several parties have voiced concerns, arguing that the proposed reduction does not sufficiently reflect CEB’s recent profitability. They contend that given the board’s financial performance over the past months, a more substantial tariff cut is warranted to provide meaningful relief to consumers.
+
+...
+
+[Data](articles/adb6241b.json)
+
+[Extended Data](ext_articles/adb6241b.ext.json)
+
+---
+
+### Laugfs gas prices to remain unchanged
+
+*2024-11-04 14:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103148/laugfs-gas-prices-to-remain-unchanged) · `en`
+
+Laugfs Gas PLC announced that the company will not revise domestic LP gas prices for the month of November.
+
+Accordingly, the current prices of Laugfs domestic LP gas cylinders are as follows;
+
+Meanwhile, the Litro Gas Company had also announced that the prices of domestic LP Gas will remain unchanged for the month of November 2024.
+
+Issuing an announcement, Litro chairman Channa Gunawardena said that despite the rising LP gas prices in the global market, a decision was taken not to increase the prices of Litro gas in order to provide relief to the consumers.
+
+◼️
+
+[Data](articles/1a5d2fc0.json)
+
+[Extended Data](ext_articles/1a5d2fc0.ext.json)
+
+---
+
+### Who is the next US President?
+
+*2024-11-04 14:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அடுத்த-அமெரிக்க-ஜனாதிபதி-யார்/50-346540) · `ta`
+
+Here's a 200-character summary:
+
+
+
+US presidential election 2024: Democrat Kamala Harris vs Republican Donald Trump. Polls show close race, with Harris leading 47.9% to Trump's 46.8%. Electoral College system may determine winner. Key issues: abortion rights, immigration, racial demographics. Outcome uncertain, decision expected soon.
+
+🟩
+
+The US presidential election is to be held on Tuesday (05). Okay half -voters have already voted. Get the ballot and vote at home or by mail. Voting in booths and ballot boxes installed in public places. There is no Election Commission in the United States. Provincial governments are holding elections. There will be a change in these instructions in each province. But everyone will vote directly to the presidential candidate.
+
+Democrat candidate Kamala Harris will receive 47.9 votes, according to a poll on November 1 on the website '538';Republican candidate Donald Trump will receive 46.8 votes. That is. Those sites suggest that the predictions are 3% of the forecast. These are called popular vote.
+
+One cannot give one president because it receives additional votes. In 2016 Hillary Clinton received 28 lakh votes than Donald Trump. In 2000. But both of them could not be president. Why?They did not get enough votes in the electoral college.
+
+...
+
+[Data](articles/b71dc068.json)
+
+[Extended Data](ext_articles/b71dc068.ext.json)
+
+---
 
 ### Visit the Prime Minister Mannar
 
@@ -681,6 +745,24 @@ The body was taken to the Peradeniya Teaching Hospital for autopsy and a open ve
 [Data](articles/81faf12f.json)
 
 [Extended Data](ext_articles/81faf12f.ext.json)
+
+---
+
+### தங்கத்தை மெருகூட்டும் இரசாயனத்தை குடித்த குழந்​தை பலி
+
+*2024-11-04 10:38:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தங்கத்தை-மெருகூட்டும்-இரசாயனத்தை-குடித்த-குழந்-தை-பலி/76-346530) · `ta`
+
+தீபாவளி பண்டிகையை கொண்டாடுவதற்காக உறவினர் வீட்டுக்குச் செல்லவிருந்த இரண்டு வயது பதினொரு மாத வயதுடைய ஆண் குழந்தையொன்று தனது தந்தைக்கு சொந்தமான தங்கத்தை மெருகூட்டுவதற்கு பயன்படுத்தப்படும் இரசாயன திரவத்தை (கொப்பர் அமிலம்) குடித்து உயிரிழந்துள்ளதாக கம்பளை கலஹா பொலிஸார் தெரிவித்தனர். .
+
+குழந்தையின் தந்தை ராஜாமணி பிரதீபன் (வயது 38) தெல்தோட்டையில் தங்க வியாபாரம் செய்து வருகிறார். இவரது மனைவி அல்லிராணி (வயது 30) தனது மூன்று குழந்தைகளுடன் தீபாவளியை  கொண்டாடுவதற்காக உறவினர் வீட்டுக்குச் செல்வதற்காக மாலை ஐந்து மணியளவில் இந்த வணிக வளாகத்திற்கு வந்தார்.
+
+அவர்கள் பேசிக் கொண்டிருந்த போது, ​​அருகில் இருந்த தங்க பொருட்களை சுத்தம் செய்ய பயன்படுத்திய கொப்பர் அமிலம் சிறு குழந்தை குடித்தது. உடனே குழந்தை தரையில் விழுந்துள்ளது.
+
+குழந்தையை தெல்தோட்டை மருத்துவமனைக்கு கொண்டு சென்றனர். தெல்தோட்டை வைத்தியசாலையின் வைத்தியர்கள் குழந்தையை காப்பாற்ற கடுமையாக முயற்சித்த போதிலும், சிறிது நேரத்திலேயே குழந்தை உயிரிழந்துள்ளது.
+
+...
+
+[Data](articles/851d832b.json)
 
 ---
 
@@ -2169,105 +2251,5 @@ The best industrial law in South Asia is in Sri Lanka. It is not fully implement
 [Data](articles/0f268dd9.json)
 
 [Extended Data](ext_articles/0f268dd9.ext.json)
-
----
-
-### Join the Surgeon Power from Politics - Dilith
-
-*2024-11-03 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202870) · `si`
-
-Dilith Jayaweera calls for public support to overcome political corruption. He criticizes current parties as ineffective, urging citizens to join his movement for change.
-
-🟩
-
-The leader Dilith Jayaweera requests the public to join the exempt power to liberate the country from the existing political distortion.
-
-He was speaking at a public briefing in Mahara electorate today (03).
-
-"It is only 3% of the vote for this election. P. P. One and the J. Disciple. The one. This gas cylinder cannot be called a party that cannot be found in the other hand. Other hand-winning Sajith, today, Sajith.  ඊළඟට ඉතුරුවෙලා තියෙනවා පොහොට්ටුවේ නැට්ට. The other hand of the Mike. The owner's name cannot be called. The party cannot tell how to receive assistance.
-
-So joins the exangeration power to liberate from political mutation. Make your choice of courage ".
-
-◼️
-
-[Data](articles/d107074d.json)
-
-[Extended Data](ext_articles/d107074d.ext.json)
-
----
-
-### Sri Lanka surpasses 1.6 million tourist arrivals by October-end
-
-*2024-11-03 21:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103128/sri-lanka-surpasses-16-million-tourist-arrivals-by-october-end) · `en`
-
-Sri Lanka is on pace to surpass its ambitious goal of attracting 2.3 million tourists this year, marking significant growth from the over 1.4 million tourists it welcomed in 2023.
-
-Growing closer to Sri Lanka’s target of attracting 2.3 million tourist arrivals in 2024, the country had already welcomed 1,620,715 arrivals by October 2024, indicating a positive momentum in tourism.
-
-According to the latest data issued by the Sri Lanka Tourism Development Authority, the month of October recorded a total of 135,907 tourist arrivals.
-
-Indicating an uptick in tourist arrivals, October welcomed more tourists compared to the 122,140 arrivals recorded in September this year.
-
-October 2024 reported over 20,000 arrivals compared to the corresponding period last year.
-
-Meanwhile, the highest number of tourist arrivals was recorded during the fourth week of October, amounting to 31,076 arrivals.
-
-...
-
-[Data](articles/e9fdb534.json)
-
-[Extended Data](ext_articles/e9fdb534.ext.json)
-
----
-
-### 1,700 rupees salary
-
-*2024-11-03 20:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/197816) · `ta`
-
-President promises fair salary increase for plantation workers, targets 1700 rupees. Also vows to boost government employee salaries in next budget and improve Nuwara Eliya tourism.
-
-🟩
-
-President Anura Kumara Dissanayake has promised to take steps to get a fair salary increase for plantation workers.
-
-He made this promise while addressing the election campaign meeting in Nuwara Eliya on Sunday (03).
-
-'The plantation workers cheated during the presidential election. The former president said that plantation workers will be paid a salary of Rs 1,700 to the May Day meeting.. But still not paid that pay hike. He has gone home.
-
-We will definitely take steps to get the plantation workers a reasonable salary hike. Similarly, government employees will be paid a salary increase in the next budget.
-
-People cannot rely on government relief. We will create an economic situation so that people will stand up.
-
-Those who frequented the people of Nuwara Eliya during the presidential election are now paralyzed in Colombo. That is their politics. But we will stand on the field for the people forever. We will carry out the politics of the people
-
-...
-
-[Data](articles/3a524c94.json)
-
-[Extended Data](ext_articles/3a524c94.ext.json)
-
----
-
-### Lohan Ratwatta has been transferred to the General Ward - Prison Media Spokesman
-
-*2024-11-03 20:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197823) · `ta`
-
-Former State Minister Lohan Ratwatta transferred from prison hospital to general ward at Colombo National Hospital due to sudden illness on Saturday night.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who has been treated in the emergency department under the protection of prisons at the Colombo National Hospital, has been transferred from the section to the General Ward.
-
-Prison Media Spokesperson Gamini P. Dissanayake has stated that the Lohan Ratwatta National Hospital has been admitted to the National Hospital due to the sudden illness on Saturday night (02).
-
-Ratwatte, who was receiving treatment at the Prison Hospital, was admitted to the Emergency Department of the Colombo National Hospital due to a sudden illness on Saturday night.
-
-Lohan Ratwatte, who was arrested on the 31st of this month, was kept in detention till the 7th of this month after the Nugegoda response was produced before the Magistrate.
-
-◼️
-
-[Data](articles/04a46d69.json)
-
-[Extended Data](ext_articles/04a46d69.ext.json)
 
 ---

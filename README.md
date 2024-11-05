@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 21:24:29**
+As of **2024-11-05 21:40:25**
 
 ## Newspaper Stats
 
-*Scraped **53,223** Articles*
+*Scraped **53,225** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,65 @@ adalk | 4,970
 adaderanalk | 6,339
 tamilmirrorlk | 7,406
 virakesarilk | 8,598
-adaderanasinhalalk | 9,276
+adaderanasinhalalk | 9,278
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,223 (100.0%) of 53,223 articles have been extended.
+53,225 (100.0%) of 53,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Landslide risk in part of Haliela Welimada road
+
+*2024-11-05 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202944) · `si`
+
+Haliela Welimada road landslide risk reported today. Badulla Executive Engineer warns of potential danger. District Disaster Management Unit alerted. Safety measures implemented under Assistant Director Udaya Kumara's guidance.
+
+🟩
+
+The Badulla Executive Engineer's office said that there is a risk of landslide from Haliela, Welimada road today (05).
+
+The Badulla District Disaster Management Unit is informed to illustrate the safety of the landslide.
+
+Also, necessary action is taken regarding the situation, Badulla District Disaster Management Assistant Director. L. M. Said Mr. Udaya Kumara said.
+
+◼️
+
+[Data](articles/beecfc93.json)
+
+[Extended Data](ext_articles/beecfc93.ext.json)
+
+---
+
+### The bold opposition is trying to lose, dilith
+
+*2024-11-05 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202943) · `si`
+
+Opposition claims Wickremesinghe destroying parties, JVP finished. Dilith Jayaweera leads campaign, says JVP last party ended. Criticizes appointments, calls for courage in politics.
+
+🟩
+
+Mr. Wickremesinghe has destroyed many political parties in the country and the politics of the JVP has completed the politics of the JVP.
+
+Establishment of the Ratmalana, Ratmalana, and the opening of the election campaign was chaired by Dilith Jayaweera, the leader of the Norrageous Entrepreneurship Dilith Jayaweera today (05).
+
+"Today, the oorroot power has become the only political force that is alive in Sri Lanka. He has ended all parties in Sri Lanka to help Ranil Wickremesinghe. The JVP is the last political party ended by Ranil Wickremesinghe's grief. "
+
+"Harini Amarasuriya and Ranil Wickremesinghe are being appointed to posts. They are not red.. Pinks. Not those bells ... the people of the compass. "
+
+"We are daring opposition, not the case.. Not a word about boldness. We are not afraid to do politics on this earth.  මේ සර්ව ජනයාගේ බලයයි."
+
+◼️
+
+[Data](articles/05700259.json)
+
+[Extended Data](ext_articles/05700259.ext.json)
+
+---
 
 ### Hali Ela - Landslide at Welimadai Road
 
@@ -2437,49 +2485,5 @@ He pointed out that the government has publicly promised to relax the tax burden
 [Data](articles/cc9c8b46.json)
 
 [Extended Data](ext_articles/cc9c8b46.ext.json)
-
----
-
-### Former president accusation against president
-
-*2024-11-05 11:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மீது-முன்னாள்-ஜனாதிபதி-குற்றச்சாட்டு/175-346585) · `ta`
-
-Former President Ranil Wickremesinghe accuses current President Anura Kumara of failing to fulfill election promises regarding salary increases for government employees. He claims this invalidates the president's right to seek re-election.
-
-🟩
-
-Former President Ranil Wickremesinghe said that President Anura Kumara should immediately report to the country that his government will provide a salary increase or additional salary increase to government employees.
-
-The former president has said that he has not fulfilled his promises to be president by the votes of government employees and has said that he has no moral right to seek re -election.
-
-Ranil Wickremesinghe said this while addressing the Matara District General Meeting of the New Democratic Front contesting the gas cylinder symbol. Remble
-
-◼️
-
-[Data](articles/cf9793a4.json)
-
-[Extended Data](ext_articles/cf9793a4.ext.json)
-
----
-
-### Sri Lanka sees offshore inflows into govt securities for 7th straight week
-
-*2024-11-05 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-offshore-inflows-into-govt-securities-for-7th-straight-week-186119/) · `en`
-
-ECONOMYNEXT – Sri Lanka witnessed foreign inflows into its government securities for the seventh straight week ended on October 30, the Central Bank data showed.
-
-Foreign exchange analysts said some foreign investors were interested in the five-year rupee-denominated bonds as they see some opportunities for more profit amid falling interest rates and rupee appreciation.
-
-Sri Lanka witnessed 1,774 million rupees ($6 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on October 30, extending the total inflows into treasury bonds and bills to 13.6 billion rupees (($46 mln) in seven straight weeks, the official data showed.
-
-The value of government securities held by foreign investors was at 52,917 million rupees by October 30.
-
-“Some foreign investors see opportunity in five-year bonds maturing in 2028 due to appreciation of the currency and falling interest rates,” a currency dealer told EconomyNext.
-
-...
-
-[Data](articles/b9db0678.json)
-
-[Extended Data](ext_articles/b9db0678.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 19:24:19**
+As of **2024-11-05 19:40:16**
 
 ## Newspaper Stats
 
-*Scraped **53,209** Articles*
+*Scraped **53,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,181
 economynextcom | 3,226
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,967
+adalk | 4,968
 adaderanalk | 6,338
 tamilmirrorlk | 7,403
 virakesarilk | 8,592
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,203 (100.0%) of 53,209 articles have been extended.
+53,210 (100.0%) of 53,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Mahela and the group fired a 10 storey ward complex in the business of cancer patients
+
+*2024-11-05 18:41:20* · [`adalk`](https://www.ada.lk/picture_story/මහේල-ඇතුළු-කණ්ඩායම-පිළිකා-රෝගීන්-වෙනුවෙන්-කරාපිටියේ-මහල්-10ක-වාට්ටු-සංකීර්ණයක්-හදයි/10-412871) · `si`
+
+The MoU at the Kalpitiya Teaching Hospital, Galle Teaching Hospital, was signed in the Ministry of Defense, Sri Jayawardenapura Kotte complex today (Nov 5).
+
+Defense Secretary Air Vice Marshal Resources Tyyakantha (Retired), Health Ministry Secretary Dr. PG. Maheepala and Colors De Cost (Guarantee Limide) will facilitate free labor contribution by the MoU with Mahela Jayawardene and Dean Gomez.. Signing of legal documents was carried out by the Ministry of Defense this morning.
+
+The project is funded by the Colonts' Limited Foundation for Mahela Jayawardene and the Ministry of Health.
+
+A group of senior officers, senior military officers and Health Ministry officials including the Ministry of Defense and the Ministry of Defense Association Air Vice Marshal Padmans were also present at the occasion.
+
+◼️
+
+[Data](articles/0469ac25.json)
+
+[Extended Data](ext_articles/0469ac25.ext.json)
+
+---
 
 ### Jerome and villagers clash
 
@@ -928,6 +948,8 @@ Both tied with three votes each in the tiny New Hampshire community of Dixville 
 
 [Data](articles/b3ab5939.json)
 
+[Extended Data](ext_articles/b3ab5939.ext.json)
+
 ---
 
 ### Sri Lanka is 95th in the passport ranking
@@ -1123,6 +1145,8 @@ Nation Lanka Finance’s current stated capital is 4.1 billion rupees (4,108,420
 ◼️
 
 [Data](articles/28a450aa.json)
+
+[Extended Data](ext_articles/28a450aa.ext.json)
 
 ---
 
@@ -1418,6 +1442,8 @@ By reducing trade barriers and enhancing inter-agency collaboration, the task fo
 
 [Data](articles/e73d26d4.json)
 
+[Extended Data](ext_articles/e73d26d4.ext.json)
+
 ---
 
 ### Commentary brother-in-law arrested
@@ -1659,6 +1685,8 @@ A team from Michelin met Sri Lanka’s Export Development Board officials last w
 ...
 
 [Data](articles/566f2c85.json)
+
+[Extended Data](ext_articles/566f2c85.ext.json)
 
 ---
 
@@ -2210,6 +2238,8 @@ The achievement of the 2025 revenue targets, including the primary surplus targe
 
 [Data](articles/14e15081.json)
 
+[Extended Data](ext_articles/14e15081.ext.json)
+
 ---
 
 ### Consistent updates on economic strategies needed from Sri Lanka gov: Former minister
@@ -2409,37 +2439,5 @@ He noted that the doctors were dissatisfied with the lack of proper solutions, d
 [Data](articles/18d1d170.json)
 
 [Extended Data](ext_articles/18d1d170.ext.json)
-
----
-
-### The wife is brutally assassinated in husband's private hospital
-
-*2024-11-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202922) · `si`
-
-Wife killed in husband's hospital; 63-year-old woman assaulted with sharp object; husband's brother, 55, arrested; police investigating; body sent for inquiry
-
-🟩
-
-A woman was assaulted with a sharp instrument in a private hospital located in Trincomalee.
-
-The victim was a 63 year old woman at the third floor of the hospital.
-
-An investigation has been launched today (05).
-
-The victim is abroad and she is in a room located on the 3rd of her husband's husband's hospital.
-
-Investigations have revealed that the murder had been carried out by her husband's brother.
-
-The suspect has been identified as the cause of the murder has been identified and the suspect has been arrested in connection with the age of 55, police said.
-
-The arrested suspect was residents of a room from a room.
-
-The body is at the place for the magisterial inquiry and Trincomalee Police are conducting further investigations.
-
-◼️
-
-[Data](articles/09ee1025.json)
-
-[Extended Data](ext_articles/09ee1025.ext.json)
 
 ---

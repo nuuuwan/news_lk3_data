@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 12:25:32**
+As of **2024-11-05 12:40:00**
 
 ## Newspaper Stats
 
-*Scraped **53,132** Articles*
+*Scraped **53,134** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,69 @@ adalk | 4,956
 adaderanalk | 6,326
 tamilmirrorlk | 7,394
 virakesarilk | 8,572
-adaderanasinhalalk | 9,262
+adaderanasinhalalk | 9,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,132 (100.0%) of 53,132 articles have been extended.
+53,134 (100.0%) of 53,134 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Shiran's property is banned
+
+*2024-11-05 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202930) · `si`
+
+Property linked to drug trafficking banned; owner questioned; assets seized including house, car, and boat.
+
+🟩
+
+The property, which is known as an organized criminal, has been banned from the drug trafficking.
+
+The Terrorism Investigation Division and the Illegal Asset Investigation Division participated.
+
+Palani Shran Chloric, who is said to have drug trafficking in Colombo, has been inquired by the Terrorism Investigation Division and the illegal contact division.
+
+Accordingly, the person found a two storied house and a luxury car in the Wattala, Balagala Road.
+
+It is said that the suspect had earned the property from drug trafficking and the property was banned from around Rs.
+
+Investigators also suspect that the investigators have also been able to find a boat belonging to the suspect.
+
+The police said that the son of Kudu Selvi is the son of Kudu Selvi, police said.
+
+◼️
+
+[Data](articles/7f9765e8.json)
+
+[Extended Data](ext_articles/7f9765e8.ext.json)
+
+---
+
+### Suspect arrested for setting Rs. 5,000
+
+*2024-11-05 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202929) · `si`
+
+Man arrested for creating fake Rs. 5,000 notes. 38-year-old from Korattegoda. CID made arrest yesterday.
+
+🟩
+
+A man has been arrested by social media's note on the President's fake Rs. 5,000.
+
+The Criminal Investigations Department arrested the suspect yesterday.
+
+The suspect is a 38-year-old resident of Korathegoda, Koratta, Koratta, Koratta, Korathota, Korala.
+
+◼️
+
+[Data](articles/5f80452b.json)
+
+[Extended Data](ext_articles/5f80452b.ext.json)
+
+---
 
 ### Sri Lanka needs to implement policies to increase rubber production, make use of FTAs: Michelin
 
@@ -2275,49 +2327,5 @@ The Elections The Elections states that if the ballot may not be looked after th
 [Data](articles/5ad0e659.json)
 
 [Extended Data](ext_articles/5ad0e659.ext.json)
-
----
-
-### Here is the reason why Milco's highest income
-
-*2024-11-04 19:21:37* · [`adalk`](https://www.ada.lk/breaking_news/මිල්කෝ-ආයතනයේ-වැඩිම-ආදායම-ඉපයීමට-හේතුව-මෙන්න/11-412856) · `si`
-
-In October, Milco earned Rs. 2,019 million due to increased milk powder production. This surpassed previous months' earnings: July (Rs. 1,873 million), August (Rs. 1,715 million), and September (Rs. 1,642 million). A new milk powder product is planned for release soon.
-
-🟩
-
-The highest income earned by Milco has reported in October. Accordingly, the income of Rs. 2,019 million has been generated at that month. The reason was because he asked the Millek institution that the institute was increased milk powder production.
-
-Accordingly, 160,000 liters of milk from about three months have been obtained from the air farmers, nearly 78,000 liters of milk.. In July, the income of Milko is recorded as Rs. 1,873 million. In August, a year earlier was Rs. 1,715 million and Rs. 1,642 million in September.
-
-Milcond has earned a high income from milk powder and yogurt, and a new milk powder is to be introduced in the near.
-
-◼️
-
-[Data](articles/3c3b4474.json)
-
-[Extended Data](ext_articles/3c3b4474.ext.json)
-
----
-
-### The best modeling artist in Asia is Julia Sonali
-
-*2024-11-04 19:15:26* · [`adalk`](https://www.ada.lk/breaking_news/ආසියාවේ-හොදම-නිරූපන-ශිල්පිනිය-ලංකාවේ-ජූලියා-සොනාලි/11-412855) · `si`
-
-Julia Sonali Kaluarachchi, Sri Lankan model, wins Face of Asia award at Asian Model Festival in South Korea. Sponsored by Ministry of Culture, Sports and Tourism. Competed against 70 models. Trainers and advisors welcomed her at Katunayake airport after winning.
-
-🟩
-
-Sri Lankan modeling artist Julia Sonali Kaluarachchi won the Face of Asia (ASIAN MODEL FESTIVAL) in South Korea.
-
-Asian model tournament was sponsored by the Ministry of Culture, Sports and Tourism from the country with 70 modeling artists in South Korea to 11/02 to 11/02.
-
-Julia Sonali Kaluarachchi at 11.34 pm on Thailand from Bangkok from Bangkok from Bangkok, Thai Airport, was from the Katunayake airport on the plane of 307. Her trainers, advisors were present at the Katunayake airport to accept her.
-
-◼️
-
-[Data](articles/d9df08f5.json)
-
-[Extended Data](ext_articles/d9df08f5.ext.json)
 
 ---

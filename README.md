@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 12:00:09**
+As of **2024-11-05 12:14:22**
 
 ## Newspaper Stats
 
-*Scraped **53,126** Articles*
+*Scraped **53,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 542
 bbccomsinhala | 544
 islandlk | 3,181
-economynextcom | 3,215
+economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,955
-adaderanalk | 6,324
-tamilmirrorlk | 7,392
+adalk | 4,956
+adaderanalk | 6,326
+tamilmirrorlk | 7,394
 virakesarilk | 8,572
 adaderanasinhalalk | 9,262
 
@@ -26,11 +26,103 @@ adaderanasinhalalk | 9,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,122 (100.0%) of 53,126 articles have been extended.
+53,128 (100.0%) of 53,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Sri Lanka needs to implement policies to increase rubber production, make use of FTAs: Michelin
+
+*2024-11-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-implement-policies-to-increase-rubber-production-make-use-of-ftas-michelin-186117/) · `en`
+
+ECONOMYNEXT – Global tyre manufacturer Michelin has said the Sri Lanka government needs to implement proactive policies to increase rubber production in the island to provide impetus to value-added rubber products and take steps to expand market access through free trade agreements.
+
+A team from Michelin met Sri Lanka’s Export Development Board officials last week (Nov 1) to discuss further opportunities in the island nation’s rubber manufacturing sector.
+
+“The representatives of Michelin pointed out that the government needs to implement proactive policies to increase rubber production in Sri Lanka to provide impetus to value-added rubber products while taking initiatives to expand market access through FTAs,” a statement by the EDB said.
+
+“They also stressed the necessity of establishing a dedicated rubber zone to manufacture different types of rubber products in the island.”
+
+...
+
+[Data](articles/74403373.json)
+
+---
+
+### Thailand woman arrested with 197 grams of ice
+
+*2024-11-05 11:43:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/197-கிராம்-ஐஸ்-உடன்-தாய்லாந்து-பெண்-கைது/175-346594) · `ta`
+
+Thai woman caught with 197g ice at Sri Lanka airport. Arrested with 5kg drugs worth 100m rupees. Further investigation ongoing.
+
+🟩
+
+A Thailand woman from Kuala Lumpur, Malaysia has been arrested at the Bandaranaike International Airport (BIA) with 197 grams of 'ice'.
+
+The 33 -year -old woman has been detained by the authorities of the BIA drug control unit with 5 kilograms of drugs.
+
+Officials were found during the raid, as the woman's travel bag was hidden with food packages.
+
+He arrived in Sri Lanka from Kuala Lumpur, Malaysia via Singapore at around 11:55 pm last night.
+
+Customs investigations have revealed that the value of the seized drug was about 100 million rupees.
+
+The Sri Lanka Customs Control Division has requested the Bureau of Investigation into the Narcotics Bureau of the Bureau of Investigation and further investigations are being carried out on the arrested woman.
+
+◼️
+
+[Data](articles/2db2caf7.json)
+
+[Extended Data](ext_articles/2db2caf7.ext.json)
+
+---
+
+### Singapore named world’s most powerful passport; Sri Lanka ranks 94
+
+*2024-11-05 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103176/singapore-named-worlds-most-powerful-passport-sri-lanka-ranks-94) · `en`
+
+Singapore has been named the world’s most powerful passport again, offering its citizens visa-free access to 195 countries, according to the latest Henley Passport Index released in October 2024.
+
+France, Germany, Italy, Japan, and Spain shared the second place, granting their citizens visa-free access to 192 countries, as per the latest rankings.
+
+Additionally, there are 8 countries that shared the 3rd spot offering their citizens visa-free access to 191 countries namely: Austria, Denmark, Finland, Ireland, Luxembourg, Netherlands, South Korea and Sweden.
+
+There are 5 countries that allow their citizens to travel visa-free to 190 countries: Belgium, New Zealand, Norway, Switzerland and the United Kingdom.
+
+Australia and Portugal claimed the 5th spot granting its citizens entry to 189 countries.
+
+The world’s largest economy, the United States came 8th on the list, offering its citizens visa-free access to 186 countries.
+
+...
+
+[Data](articles/02d0e4a0.json)
+
+[Extended Data](ext_articles/02d0e4a0.ext.json)
+
+---
+
+### Doctors’ strike at Karapitiya Hospital called off
+
+*2024-11-05 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103175/doctors-strike-at-karapitiya-hospital-called-off) · `en`
+
+The indefinite strike launched by the doctors at the Karapitiya National Hospital from 8.00 a.m. today (05) has been called off.
+
+The strike, which was in response to alleged misconduct by a specialist in the hospital’s oncology unit, was called off after the authorities had decided to transfer the doctor in question to the Maharagama Apeksha Hospital.
+
+The strike which was launched earlier this morning followed an earlier token strike over the same issue, with doctors expressing frustration over the lack of a solution from hospital authorities.
+
+The Co-Secretary of the Government Medical Officers’ Association (GMOA) Dr. Asanka Konara stated that the strike aimed to pressure authorities into addressing long-standing concerns about the specialist doctor’s behavior.
+
+He noted that despite previous strike actions, no effective solutions had been provided, prompting the doctors to escalate their protest.
+
+◼️
+
+[Data](articles/25632a06.json)
+
+[Extended Data](ext_articles/25632a06.ext.json)
+
+---
 
 ### Commission notification to use temples as polling centers
 
@@ -55,6 +147,32 @@ Chairman of the Elections Commission RMAL Ratnayake, who explained the situation
 [Data](articles/b951d0b9.json)
 
 [Extended Data](ext_articles/b951d0b9.ext.json)
+
+---
+
+### Electricity Board will not be privatized
+
+*2024-11-05 11:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தனியார்-மயமாக்கப்படாது/175-346589) · `ta`
+
+Ceylon Electricity Board rejects privatization, plans reforms based on new president's orders. Focuses on public input, maintains state ownership, aims for low-cost electricity within 5 years. Establishes employee representation committee for future energy ministry efforts.
+
+🟩
+
+The Ceylon Electricity Board (CEB) said that formal reforms in the energy sector will be introduced in accordance with the social change order received by the new President of Sri Lanka.
+
+CEB issued a statement saying that several attempts to amend the Electricity Act will be made through the advice of comprehensive public and shareholders without privatizing state -owned Electricity Board's assets.
+
+CEB further stated that in the next five years, a strong single-manner has been established with an independent operating system and non-interrupt production, exchange and distribution licenses under the market for the lowest electricity cost in the region.
+
+The proposal has been proposed to create a committee representing employees at all levels to get the active contribution to the future efforts of the Ministry of Energy.
+
+The announcement was issued on October 23, 2024 by the Chairman and Directors of the CEB, with the Committee of the CEB staff on October 23, 2024.
+
+◼️
+
+[Data](articles/d8bd66d9.json)
+
+[Extended Data](ext_articles/d8bd66d9.ext.json)
 
 ---
 
@@ -214,6 +332,8 @@ The value of government securities held by foreign investors was at 52,917 milli
 
 [Data](articles/b9db0678.json)
 
+[Extended Data](ext_articles/b9db0678.ext.json)
+
 ---
 
 ### The son of mother's fingerprinted Angulamya
@@ -318,6 +438,8 @@ The achievement of the 2025 revenue targets, including the primary surplus targe
 
 [Data](articles/5a8b4ad4.json)
 
+[Extended Data](ext_articles/5a8b4ad4.ext.json)
+
 ---
 
 ### Oral Summitry Order in the Passover case against Hemasiri - Philem
@@ -387,6 +509,20 @@ Investigations have revealed that the suspect was wearing a gun, sword and knife
 [Data](articles/27ddd597.json)
 
 [Extended Data](ext_articles/27ddd597.ext.json)
+
+---
+
+### කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන්ගේ වර්ජනය අවසන්
+
+*2024-11-05 10:28:58* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ශික්ෂණ-රෝහලේ-වෛද්‍යවරුන්ගේ-වර්ජනය-අවසන්/11-412860) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් ආරම්භ කළ වැඩ වර්ජනය අවසන් කර තිබේ.
+
+අද (05දා) පෙරවරු 08 සිට මෙම රෝහලේ වෛද්‍යවරුන් මෙම වර්ජනය ආරම්භ කළහ.
+
+◼️
+
+[Data](articles/e96387ea.json)
 
 ---
 
@@ -2171,151 +2307,5 @@ Julia Sonali Kaluarachchi at 11.34 pm on Thailand from Bangkok from Bangkok from
 [Data](articles/d9df08f5.json)
 
 [Extended Data](ext_articles/d9df08f5.ext.json)
-
----
-
-### O / L applications from tomorrow
-
-*2024-11-04 19:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202907) · `si`
-
-GCE O/L exam application deadline: Nov 30, 2024. Applications open from tomorrow (05).
-
-🟩
-
-Applications for the GCE O / L examination will be accepted from tomorrow (05) to the Department of Examinations.
-
-The Commissioner General of Examinations issued an announcement, the applications will be accepted until November 30, 2024.
-
-◼️
-
-[Data](articles/cd5e4d13.json)
-
-[Extended Data](ext_articles/cd5e4d13.ext.json)
-
----
-
-### 2024 O/L exam applications called online from tomorrow
-
-*2024-11-04 19:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103160/2024-ol-exam-applications-called-online-from-tomorrow-) · `en`
-
-The applications for the 2024 (2025) G.C.E. Ordinary Level Examination will be called from Tuesday (05 November) to 30 November, the Department of Examinations announced.
-
-In a statement issued on Monday (Nov. 04), the department highlighted that only applications sent online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic will be accepted.
-
-Accordingly, all school applicants must submit their exam applications through their school principals while private applicants are allowed to apply for the examination personally by them.
-
-The deadline for submitting online applications is midnight on 30 November, the department stated, while emphasising that no extensions of any kind will be granted.
-
-Any inquiries regarding the submission of applications can be made through contact numbers 0112784208/ 0112784537/ 0112785922 or email address: gceolexamsl@gmail.com
-
-◼️
-
-[Data](articles/7824e6d8.json)
-
-[Extended Data](ext_articles/7824e6d8.ext.json)
-
----
-
-### Suresh Premachandran should send a strong alliance to Parliament - Suresh Premachandran
-
-*2024-11-04 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197896) · `ta`
-
-Suresh Premachandran calls for strong Tamil alliance in parliament. He warns of declining trust in president and potential seat loss. Urges opposition to prevent current government majority.
-
-🟩
-
-Suresh Premachandran, a former parliamentarian and candidate of the Democratic Tamil Alliance, said that the Tamil people should be sent a strong coalition to parliament.
-
-He was speaking at a media briefing held at the party's election office in Thirunagar, Kilinochchi on Monday (04).
-
-He continued to mention that the confidence in the president for the Tamil people is gradually decreasing
-
-If they do not take 113 seats in the upcoming parliamentary elections, they may seek support from other parties.
-
-He added that the current government should not get a majority in parliament.
-
-◼️
-
-[Data](articles/68dbe7f1.json)
-
-[Extended Data](ext_articles/68dbe7f1.ext.json)
-
----
-
-### The reduction in electricity tariffs is not sufficient
-
-*2024-11-04 18:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-குறைப்பு-போதுமானதாக-இல்லை/175-346551) · `ta`
-
-Electricity tariff reduction insufficient: CEB proposes 4-11% cut, but Public Utilities Commission claims no inadequacy. New resolution announced before Oct 8.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has said that the Ceylon Electricity Board (CEB) has not suffered inadequate in the Electricity tariff revision, the Public Utilities Commission said.
-
-The Director of Communication Jayanath Herath said that the new resolution on the tariff revision has been announced to the Ceylon Electricity Board before the 8th of this month.
-
-It is noteworthy that the Ceylon Electricity Board (CEB) submitted a proposal to the Public Utilities Commission on October 24 to reduce electricity tariffs by 4 to 11 per cent.. Remble
-
-◼️
-
-[Data](articles/559198ea.json)
-
-[Extended Data](ext_articles/559198ea.ext.json)
-
----
-
-### The condition of the injured accident in Badulla
-
-*2024-11-04 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202906) · `si`
-
-Badulla accident: Bus crash kills 2 students, injures 40. Driver under arrest. Investigation ongoing.
-
-🟩
-
-Senior Superintendent of Police Wasantha Kandewatte said that a large number of students including the students and teachers of the Sooriyawewa in Sooriyawewa Defense University.
-
-He said the driver of the bus is being treated at the Intensive Care Unit of the Badulla Teaching Hospital, he said.
-
-Two students were killed in the Mahahiyanganaya road on the Galle-Mahiyanganaya road on the occasion.
-
-Investigations have revealed that the driver of the bus was a 41d who was living in Alwitigala, Galle.
-
-He said that the accident had not been tested on the bus, he could not be the investigation into the vehicle inspectors.
-
-However, it is reported that the driver is to be arrested regarding the accident.
-
-The credited casualties have already recorded statements and will be recorded from injured personnel in critical condition.
-
-The accidents have been carried out by Ridapana from Ridapana from Badulla and Mahiyanganaya road since Badulla-Senanana main road.It is said that it is said.
-
-...
-
-[Data](articles/978c3a37.json)
-
-[Extended Data](ext_articles/978c3a37.ext.json)
-
----
-
-### We are not telling the story of Uganda ”
-
-*2024-11-04 18:43:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாங்கள்-உகாண்டா-கதை-எதுவும்-சொல்லவில்லை/175-346550) · `ta`
-
-Uganda claims denied: NPP member Dilvin Silva refutes accusations of hidden money. He states NPP previously mentioned potential money stashed in Uganda and other nations. Accusations made by rival group United People's Power.
-
-🟩
-
-NPP Member Dilvin Silva, who denied claims that the national people's power was accused of the money hidden in Uganda, said such claims were made by the United People's Power.
-
-He said at a media briefing that the NPP had said that the US dollars were printed and taken to Uganda.
-
-“We don't tell the story of Uganda. SJPs are just saying so. In earlier we said that there may be money hidden in Uganda and other countries.
-
-We reported that dollars rich containers were printed here and taken to Uganda. Their principle is that they speak lies and say we have told those lies, ”he said.
-
-◼️
-
-[Data](articles/32f4b183.json)
-
-[Extended Data](ext_articles/32f4b183.ext.json)
 
 ---

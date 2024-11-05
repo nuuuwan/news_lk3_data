@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 08:22:36**
+As of **2024-11-05 08:48:02**
 
 ## Newspaper Stats
 
-*Scraped **53,083** Articles*
+*Scraped **53,087** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,211
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
-adaderanalk | 6,313
-tamilmirrorlk | 7,382
+adaderanalk | 6,314
+tamilmirrorlk | 7,385
 virakesarilk | 8,569
 adaderanasinhalalk | 9,253
 
@@ -26,51 +26,135 @@ adaderanasinhalalk | 9,253
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,079 (100.0%) of 53,083 articles have been extended.
+53,083 (100.0%) of 53,087 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### ඉන්දියාව හා කැනඩාව අතර අර්බුදය උග්‍ර වෙයි
+### Heavy showers expected in parts of the island
+
+*2024-11-05 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103163/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology warns that heavy  showers  of about  100  mm  are  likely  at  some  places  in  Central,  Sabaragamuwa,  North-Central, Uva provinces and in Kurunegala district today (05).
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night, the Met. Department said.
+
+Showers will occur at several places over the coastal areas of Western and Southern provinces and in Ampara district during the morning too, according to the department.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused  by  temporary localized strong winds and lightning  during  thundershowers  as  the  atmospheric  conditions  are  favorable further for afternoon thundershowers in most parts of the island.
+
+◼️
+
+[Data](articles/1ecfb27a.json)
+
+---
+
+### அமெரிக்க ஜனாதிபதித் தேர்தல் இன்று
+
+*2024-11-05 08:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஜனாதிபதித்-தேர்தல்-இன்று/50-346579) · `ta`
+
+அமெரிக்க ஜனாதிபதித் தேர்தல் இன்று நடக்கிறது. அணி மாறும் மாகாணங்களில் நடத்தப்பட்ட கருத்துக் கணிப்புகளில் குடியரசு கட்சி வேட்பாளர் ட்ரம்ப் முன்னிலையில் இருக்கிறார்.
+
+உலகம் முழுவதும் பெரிதும் எதிர்பார்க்கப்படும் அமெரிக்க ஜனாதிபதித் தேர்தல் இன்று நடைபெறுகிறது. அந்த நாட்டின் நேரப்படி நவம்பர் 5 ஆம் திகதி காலை 7 மணி முதல் இரவு 7 மணி வரை வாக்குப்பதிவு நடைபெற உள்ளது.
+
+அமெரிக்காவில் மொத்தம் 50 மாகாணங்கள் உள்ளன. இந்த மாகாணங்களின் புவியியல் அமைப்பின்படி கிழக்கு, மத்திய பகுதி, மலைப் பகுதி, பசிபிக் பகுதி என 4 வகையான நேர விகிதங்கள் பின்பற்றப்படுகின்றன. இதன்படி அமெரிக்க மாகாணங்களுக்கு இடையே ஒரு மணி நேரம் முதல் 6 மணி நேரம் வரை வித்தியாசம் நிலவுகிறது.
+
+அமெரிக்காவின் 50 மாகாணங்களில் அரிசோனா, ஜோர்ஜியா, மிச்சிகன், நெவாடா, நார்த் கரோலினா, பென்சில்வேனியா, விஸ்கான்சின் ஆகியவை அணி மாறும் மாகாணங்கள் என்று அழைக்கப்படுகின்றன. இந்த 7 மாகாணங்களின் மக்கள், ஒருமுறை குடியரசு கட்சிக்கும், மறுமுறை ஜனநாயக கட்சிக்கும் மாறி மாறி வாக்களிக்கின்றனர்.
+
+...
+
+[Data](articles/5f985db4.json)
+
+---
+
+### Crisis between India and Canada
 
 *2024-11-05 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202918) · `si`
 
-කැනඩාවේ හින්දු කෝවිලකට එල්ල වූ ප්‍රහාරය හෙළා දකින බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ප්‍රකාශ කර තිබේ.
+India-Canada crisis: PM Modi condemns Hindu temple attack, calls it deliberate. Diplomatic tensions rise as both nations expel diplomats. Violence against Hindu Kovil in Brampton escalates.
 
-අදාළ ප්‍රහාරය හිතාමතා සිදුකර ඇති ප්‍රහාරයක් බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ප්‍රකාශ කර ඇත.
+🟩
 
-මෙවැනි ප්‍රචණ්ඩක්‍රියා මඟින් ඉන්දීය අධිෂ්ඨානය කිසිවිටෙකත් දුර්වල කිරීමට හැකියාවක් නොමැති බව ද ඉන්දීය අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර තිබේ.
+Indian Prime Minister Narendra Modi has also condemned the attack on Hindu Kovil in Canada.
 
-ඉන්දියාව සහ කැනඩාව අතර රාජ්‍ය තාන්ත්‍රික මට්ටමින් ගැටලුකාරී තත්ත්වයක් උද්ගත වී ඇති අතර රටවල් දෙකෙහිම රාජ්‍ය තාන්ත්‍රික නිලධාරීන් නෙරපා හැරීමට එම රටවල් පියවර ගෙන තිබුණි.
+Indian Prime Minister Narendra Modi has stated that the attack is a deliberate attack.
 
-එවැනි අවස්ථාවක පසුගිය ඉරිදා දිනය් කැනඩාවේ බ්‍රැම්ප්ටන් නගරයේ පිහිටි හින්දු කෝවිලකට එල්ල වූ ප්‍රහාරය සමග තවදුරටත් දෙරට අතර විරසකය උත්සන්න වී ඇති බව විදෙස් මාධ්‍ය පෙන්වා දෙයි.
+The Prime Minister of the Indian Prime Minister has said that such violence has never been able to weaken the Indian determination.
+
+Among India and Canada had arisen at diplomacy and had taken steps to expel the diplomatic officers in both countries.
+
+Foreign media points out that the two countries have continued to intensify the attack on the Hindu Kovil in Brampton in Brampton, Canada.
 
 ◼️
 
 [Data](articles/7154964b.json)
 
+[Extended Data](ext_articles/7154964b.ext.json)
+
 ---
 
-### මාරක අනතුරු දෙකක් - ජීවිත දෙකක් අහිමි වෙයි
+### சீனிக்கான விசேட வர்த்தக பண்ட வரி நீடிப்பு
+
+*2024-11-05 08:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனிக்கான-விசேட-வர்த்தக-பண்ட-வரி-நீடிப்பு/175-346577) · `ta`
+
+இறக்குமதி செய்யப்படும் ஒரு கிலோ சீனிக்கு விதிக்கப்பட்டுள்ள விசேட வர்த்தக பண்ட வரியை மேலும் நீடிக்க அரசாங்கம் நடவடிக்கை எடுத்துள்ளது.
+
+இறக்குமதி செய்யப்படும் ஒரு கிலோகிராம் சீனிக்கு கடந்த வருடம் நவம்பர் மாதம் முதலாம் திகதி முதல் ஒரு வருட காலத்திற்கு 50 ரூபா விசேட வர்த்தக பண்ட வரி விதிக்கப்பட்டது.
+
+அதன் செல்லுபடியாகும் காலம் நவம்பர் 1 ஆம் திகதி முடிவடைய இருந்த நிலையில்  அரசாங்கம் குறித்த விசேட வர்த்தக பண்ட வரியை டிசம்பர் 31 ஆம் திகதி வரை நீடிக்க நடவடிக்கை எடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/75d3bb67.json)
+
+---
+
+### Two fatal accidents - lose two lives
 
 *2024-11-05 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202917) · `si`
 
-ප්‍රදේශ කිහිපයක ගතවූ පැය 24 තුළ සිදුවූ රිය අනතුරුවලින් තරුණියක් ඇතුළු පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+Fatal accidents claim two lives: one motorcyclist (58) in Eheliyagoda, another passenger (23) in Bandaragama.
 
-ඊයේ (04) ඇහැළියගොඩ සහ බණ්ඩාරගම යන පොලිස් වසමවල එම අනතුරු සිදුව ඇති බව පොලීසිය පවසයි.
+🟩
 
-ඇහැළියගොඩ, මින්නාන - ඉද්දමල්ගොඩ මාර්ගයේ සොමිසඳවත්ත ප්‍රදේශයේදී යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයේ පෙරළී යාමෙන් සිදුවූ අනතුරින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+Two persons including a young woman killed in several areas during the 24-hour area have died.
 
-අනතුරින් මියගොස් ඇත්තේ, ගැටහැත්ත ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+The accidents occurred in the police divisions at Eheliyagoda and Bandaragama yesterday.
 
-මේ අතර බණ්ඩාරගම - පානදුර මාර්ගයේ බොල්ගොඩ ප්‍රදේශයේදී බස් රථයක් ත්‍රිරෝද රථයක ගැටී අනතුරක් සිදුවූ අනතුරකින් තරුණියක් මියගොස් තිබේ.
+A person was killed in the accident that the motorcycle was not controlled in Somisallawatte in Eheliyagoda, Pandakana road in Somisallawatta road.
 
-බණ්ඩාරගම දෙස සිට පානදුර දෙසට වම් මංතීරුවේ පිළිසකර කටයුත්තක් හේතුවෙන් බණ්ඩාරවෙල දෙස සිට පානදුර දෙසට ධාවනය වූ බස් රථයක් දකුණු මංතීරුවෙන් ධාවනය කර නැවත වම් මංතීරුවට ගැනීමේදී පානදුර දෙස සිට බණ්ඩාරගම දෙසට ධාවනය වූ ත්‍රිරෝද රථයක ගැටී එම අනතුරක් සිදුව ඇත.
+The deceased has been identified as a 58 year old resident of the Thahattu area.
 
-...
+Meanwhile, a girl has died in an accident in the Bolgoda area in Bandaragama-Panadura road.
+
+A bus traveling towards the Panadura from the South lane, along with the left lane towards Panadura to the Panadura, has been hit by a three-wheeler towards the left lane.
+
+A young woman who was traveling in the back seat of the three-wheeler in the back of the three wheeler was seriously injured and transferred to the Horana Hospital for further treatment.
+
+The victim was a 23 year old resident of Bandaragama.
+
+◼️
 
 [Data](articles/942646c5.json)
+
+[Extended Data](ext_articles/942646c5.ext.json)
+
+---
+
+### இன்றும் பலத்த மழை
+
+*2024-11-05 08:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-346576) · `ta`
+
+நாட்டின் பல பகுதிகளில் இன்று மாலை வேளைகளில் இடியுடன் கூடிய மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மேல் மற்றும் தென் மாகாணங்களிலும் அம்பாறை மாவட்டத்திலும், கரையோரப் பிரதேசங்களில் காலை வேளையில் மழை பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேலும், ஊவா, மத்திய, சப்ரகமுவ மற்றும் வடமத்திய மாகாணங்களிலும், குருநாகல் மாவட்டத்திலும் சில இடங்களில் 100 மில்லிமீற்றர் அளவில் கனமழை பெய்யக்கூடும் என்று என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/e2c95a52.json)
 
 ---
 
@@ -2219,103 +2303,5 @@ The water supply is temporarily suspended due to the necessary maintenance on th
 [Data](articles/3e9b0611.json)
 
 [Extended Data](ext_articles/3e9b0611.ext.json)
-
----
-
-### Chinese astronauts back to Earth
-
-*2024-11-04 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202897) · `si`
-
-Chinese astronauts return after 192 days. Three crew members safely land in Mongolia. Conducted microgravity, material science, and physics research. Set new spacewalk duration record. Next missions planned for 2025.
-
-🟩
-
-According to the Space Agency with Chinese astronauts, the astronauts of China said that three Chinese aroggasage had successfully arrived in the Chinese space station.
-
-The three astrology, the three astrology, the three astrology, the two spacecraft, the capsule of the Shanzhou-18 spacecraft, including these three astrology, have been the shota of Dongfeng in the Mongolia, including North China.
-
-It is also reported that all three astroads who came to the earth were in good health for 192 days.
-
-During their operations, these astrology contributed to many research related to the fields of Micro gravity, space materials, basic physics.
-
-They also set up a new record in May, with a long time walking in space for a long time.
-
-The Chinese space agency said that the Snzhou-20 and Shenzhou-21 space operations were to launch the space operations in 2025 according to the astronauts in China.
-
-◼️
-
-[Data](articles/6f50516d.json)
-
-[Extended Data](ext_articles/6f50516d.ext.json)
-
----
-
-### Three arrested for treasure in Hambantota
-
-*2024-11-04 16:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197870) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"3 arrested for alleged treasure excavation in Hambantota. STF raided Medamulana area, suspects ages 29, 41, 51. Handed to Weeraketiya Police for investigation."
-
-🟩
-
-Police Special Task Force (STF) said that three suspects allegedly excavating treasure in Medamulana area belonging to the Weeraketiya Police Division, Hambantota were arrested on Sunday (03).
-
-The suspects have been arrested during a raid carried out on information received by the Police Special Task Force.
-
-The suspects were aged 29, 41 and 51 from Hakman, Medamulana and Tangalle.
-
-Subsequently, the three suspects have been handed over to the Weeraketiya Police Station for further investigations.
-
-◼️
-
-[Data](articles/029368c1.json)
-
-[Extended Data](ext_articles/029368c1.ext.json)
-
----
-
-### Will 2025 get school uniforms?
-
-*2024-11-04 16:04:41* · [`adalk`](https://www.ada.lk/breaking_news/2025-ට-පාසල්-නිළ-ඇඳුම්-ලැබෙයිද--/11-412845) · `si`
-
-In 2025, China plans to require school uniforms for all students. Currently, 70% of Sri Lankan schools have uniform programs, set to expand to 100% by 2025.
-
-🟩
-
-China's Ambassador to Shin Heng says that the number of uniforms required for all school children who need the uniforms required by the Chinese government says. In 2023, 70% of the schools in Sri Lanka, 70% were donated to school children in Sri Lanka and that the year 2025 would increase the size to a hundred percent.
-
-◼️
-
-[Data](articles/6a9c2b03.json)
-
-[Extended Data](ext_articles/6a9c2b03.ext.json)
-
----
-
-### Here is the introduction of the IV to obtain passports
-
-*2024-11-04 16:01:19* · [`adalk`](https://www.ada.lk/breaking_news/විදේශ-ගමන්-බලපත්‍ර-ලබා-ගැනීමට-අද-සිට-හඳුන්වාදුන්-ක්‍රමය-මෙන්න/11-412844) · `si`
-
-New online system introduced for passport appointments. Users can book dates through the Immigration and Emigration Department website. Accessible anytime, anywhere.
-
-🟩
-
-The Controller General of Immigration and Emigration (Acting) B. (Acting) B.. M. D. Nilazasha Balasuriya said.
-
-She was speaking at a media briefing in Colombo.
-
-"We will be able to introduce a new online system today. Under this method, you have the ability to prove to the Immigration and Emigration Department website. The left list is the link that is the date on which a date is to obtain passports. By accessing the link, you can make a date to the date of booking a passport.
-
-Accordingly, from any time, any person can reserve a date online from anywhere, anywhere, any person. "
-
-◼️
-
-[Data](articles/7835699e.json)
-
-[Extended Data](ext_articles/7835699e.ext.json)
 
 ---

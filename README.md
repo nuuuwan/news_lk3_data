@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 16:57:19**
+As of **2024-11-05 17:24:34**
 
 ## Newspaper Stats
 
-*Scraped **53,176** Articles*
+*Scraped **53,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,25 +16,87 @@ islandlk | 3,181
 economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,961
+adalk | 4,962
 adaderanalk | 6,334
 tamilmirrorlk | 7,399
-virakesarilk | 8,588
-adaderanasinhalalk | 9,270
+virakesarilk | 8,589
+adaderanasinhalalk | 9,271
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,176 (100.0%) of 53,176 articles have been extended.
+53,179 (100.0%) of 53,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
+### Protest against the pastor Jerem
+
+*2024-11-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202937) · `si`
+
+Protest against Pastor Jerem Fernando in Nawalapitiya over plans to build a religious site near a mental health rehabilitation center. Police presence reported.
+
+🟩
+
+The Pasco-Jerem Fernando has been uneasiness with the return in Nawalapitiya today (05).
+
+Paso-in-law Jerem Fernando had come to a location where the rehabilitation center of rehabilitation of mental confusion was carried out.
+
+Nawalapitiya Police officials had also attended the control of the situation.
+
+The villagers allege that a religious place has been planned to be built by the rehabilitation center of rehabilitation.
+
+Later, the Diva-Reafly Jerem Fernando had left the place with his security guards.
+
+◼️
+
+[Data](articles/e05f7094.json)
+
+[Extended Data](ext_articles/e05f7094.ext.json)
+
+---
+
+### British government resolution to invite Sri Lankan Tamil immigrants into the country
+
+*2024-11-05 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197961) · `ta`
+
+British government resolves to admit Sri Lankan Tamil refugees to UK. About 60 asylum seekers in Decorcia to be transferred directly to UK. Policy change follows years of opposition. Government investigates matter. Attorneys praise decision as victory for justice.
+
+🟩
+
+The British government has proposed a plan to allow Sri Lankan Tamil asylum seekers to enter the British on the island of Decorcia.
+
+About 60 Sri Lankan Tamil asylum seekers have been living in the temporary tents of Diocarcia for the past three years. They have registered asylum.
+
+It is noteworthy that they are the first asylum seekers to register asylum on the island of Diachocarcia.
+
+The British government had earlier opposed the bringing of Sri Lankan Tamil settlers into Britain from the island -
+
+The British government has agreed to make a policy change, government lawyers said.
+
+Accordingly, all these residents will be allowed to transfer all the girls to the UK directly.
+
+The government is actively investigating the matter.
+
+A British official who spoke to Tamils ​​in Diocarcia said that the decision was taken to bring them to the UK due to the unusual situation on the Diocarcian island.
+
+...
+
+[Data](articles/1ab3762b.json)
+
+[Extended Data](ext_articles/1ab3762b.ext.json)
+
+---
+
 ### Case for those who did not accept government quarters
 
 *2024-11-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202936) · `si`
+
+President Anura Kumara Dissanayake vows to prosecute misuse of government properties by MPs. He criticizes corruption and abuse of public assets during his speech in Ampara.
+
+🟩
 
 President Anura Kumara Dissanayake says he has decided to prosecute the governmental quarters so far.
 
@@ -605,6 +667,38 @@ Sri Lanka: Former MP Prananda Jayawardena requests RTI to prevent motor vehicle 
 [Data](articles/08a8072b.json)
 
 [Extended Data](ext_articles/08a8072b.ext.json)
+
+---
+
+### Govt. 680 billion loans at 45 days
+
+*2024-11-05 13:37:46* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-දින-45ට-රුපියල්-බිලියන-680ක්-ණය-අරගෙන/11-412865) · `si`
+
+Here's a 200-character summary:
+
+
+
+Government reveals 680 billion loans at 45 days interest rate. Former Defense Minister calls for transparency. Opposition criticizes excessive borrowing and accuses government of lying. Police accused of harassment against opposition supporters.
+
+🟩
+
+Former Defense Minister Pinhall Tennakoon said that the government should immediately reveal what was taken to the people immediately after the new government began in the new government.
+
+The government was speaking at a press conference held in his house in the area of ​​the Yapama area to reveal the procedure of the government of the country.
+
+Former Defense Minister Pinhalman Pipaina Bandara Tennakoon added that a simple president is a simple prime minister.
+
+However, he said that although the expenses of the parliament was completely left, had only had the loan without any money, despite the remaining money remaining.
+
+It is said that the people of this country have been lending to the people of this country a day.
+
+"Mr. Anura Kumara Dissanayake is the President of the country to be released back to the people tomorrow.. If a bridge was built with this kind of borrowing, it was easier to borrow the ministers in the past.
+
+...
+
+[Data](articles/4dd59d69.json)
+
+[Extended Data](ext_articles/4dd59d69.ext.json)
 
 ---
 
@@ -2359,79 +2453,5 @@ I am contesting on behalf of the All Ceylon Peoples Congress in Nintavur.. Of th
 [Data](articles/fedd7709.json)
 
 [Extended Data](ext_articles/fedd7709.ext.json)
-
----
-
-### We have to fight for the fight
-
-*2024-11-05 02:02:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போராடியே-பெற்றோம்-போராடியே-பெற-வேண்டும்/175-346574) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Organizer Palani Sakthivel criticizes new government policies, citing rising costs of essential items like coconuts, fuel, and food. He emphasizes the need for continued struggle to protect workers' rights and ensure fair representation in the Nuwara Eliya district.
-
-🟩
-
-"We have fought for all the rights in the past, and have been forced to fight through the new government," said National Organizer Palani Sakthivel said.
-
-He made this statement at a meeting of the election rally held on Monday (04) in the Akkaraipattana-Torington area.
-
-No one has given the rights of the upcountry people on the golden tray, we have fought all. But now, when the new government is formed, the youth are behind them.In fact we do not understand the difficulties we have. Likewise, I would say in my experience that the previous history is unknown.
-
-...
-
-[Data](articles/2672289b.json)
-
-[Extended Data](ext_articles/2672289b.ext.json)
-
----
-
-### The President shows the president's strange
-
-*2024-11-05 01:57:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-வினோதம்-காட்டுகின்றார்/175-346573) · `ta`
-
-President accused of joking about returning stolen money to Sri Lanka. Opposition claims government lacks solutions for issues like passport queues.
-
-🟩
-
-United People's Power Leader Sajith Premadasa said that the president, who said the thieves would bring the money to Uganda, "he said.
-
-In the past, the ruling parties, including the current president, have announced that we will use the money in the Janatha Vimukthi Peramuna (JVP) government to resolve the stolen money from our country and to address the serious problems faced by our country.
-
-Made great expectations among the people. We are hoping to take action to bring back the money taken to Uganda. The President -led JVP government is giving jokes to the country, even though they think that the stolen money will be brought to the country and will solve the problems faced by the people of the country.. He said the country could not be treated with jokes.
-
-A meeting was held on Sunday (03) with the Avissawella Divisional Party activists.He said this while addressing a meeting organized by the United People's Power Avissawala election organizer Sudath Wickramaratne.
-
-...
-
-[Data](articles/0b854ebf.json)
-
-[Extended Data](ext_articles/0b854ebf.ext.json)
-
----
-
-### Trying to silence like the LTTE
-
-*2024-11-05 01:55:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடுதலைப்-புலிகளைப்போல்-மௌனிக்கச்செய்ய-முயற்சி/175-346572) · `ta`
-
-Sri Lankan government accused of silencing Tamil rights movement. Candidate Durairasa Ravikaran calls for justice against war criminals and restoration of Tamil land rights. Thirteenth constitutional amendment criticized as ineffective solution. India's influence questioned in resolving Tamil issues.
-
-🟩
-
-The Sri Lankan government is working with the Sri Lankan government's Vanni district parliamentary candidate, Durairasa Ravikaran, said that the Sri Lankan government is working with the silence of the Tamil people who are now fighting for the rights of the Tamil people to silence the Liberation Tigers of Tamil Eelam (LTTE).
-
-He also stressed that the land and police authority are the fundamental right of the Tamil people, and that the war criminals are needed and legal action against them.
-
-Ravikaran said this while participating in the campaign meeting of the Sri Lanka Tamil National Party held in Mullaitivu - Pudukkudiyiruppu.
-
-National Leader Velupillai Prabhakaran does not accept the thirteenth reform of the Constitution. After the silence of the war, the Tamil political leaders accepted the thirteenth amendment of the Constitution by many abroad pressure.
-
-...
-
-[Data](articles/a4fab442.json)
-
-[Extended Data](ext_articles/a4fab442.ext.json)
 
 ---

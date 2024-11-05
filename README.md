@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 09:40:39**
+As of **2024-11-05 09:59:46**
 
 ## Newspaper Stats
 
-*Scraped **53,094** Articles*
+*Scraped **53,098** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,181
 economynextcom | 3,211
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,951
-adaderanalk | 6,317
-tamilmirrorlk | 7,385
+adalk | 4,952
+adaderanalk | 6,319
+tamilmirrorlk | 7,386
 virakesarilk | 8,569
 adaderanasinhalalk | 9,255
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,094 (100.0%) of 53,094 articles have been extended.
+53,097 (100.0%) of 53,098 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### 2024 General Election: 60 polling stations relocated from Buddhist Temples
+
+*2024-11-05 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103168/2024-general-election-60-polling-stations-relocated-from-buddhist-temples) · `en`
+
+The Chairman of the Election Commission of Sri Lanka R.M.A.L. Rathnayake states that the 2024 General Election will be held on 14 November 2024 as scheduled, as the petition challenging the election date was dismissed by the Supreme Court without taking into consideration.
+
+Furthermore, Rathnayake mentioned that 60 polling stations which were slated to be established at Buddhist Temples were shifted to other locations, owing to ‘Katina Pinkama’ ceremonies and several other reasons.
+
+Commenting regarding the matter, the Election Commission Chairman said that several parties had raised concerns on holding the election using Buddhist Temples as polling stations during the period when ‘Katina Pinkama’ ceremonies are being held.
+
+...
+
+[Data](articles/fa894462.json)
+
+---
+
+### Thai woman arrested with ‘Ice’ worth Rs. 100 million at BIA
+
+*2024-11-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103167/thai-woman-arrested-with-ice-worth-rs-100-million-at-bia) · `en`
+
+The officers of the Narcotics Control Unit at Bandaranayake International Airport (BIA) in Katunayake have arrested a female passenger at the green channel who had arrived from Malaysia with a stock of narcotic substances identified as Crystal Methamphetamine (Ice).
+
+The 33-year-old female, with a Thailand passport, had arrived in Sri Lanka from Kuala Lumpur, Malaysia via Singapore by the flight SQ468 operated by Singapore Airline at around 11.55 p.m. last night.
+
+Police said that the stock of drugs, concealed in the food packages in the suspect’s bagages, weighs around 5kg in total and is estimated to have a street value of Rs. 100 million.
+
+Further investigations are underway by the Sri Lanka Customs together with the Police Narcotics Bureau (PNB).
+
+◼️
+
+[Data](articles/a374a5c0.json)
+
+[Extended Data](ext_articles/a374a5c0.ext.json)
+
+---
 
 ### Current govt. simply continues policies of previous administrations – Dilith
 
@@ -47,6 +83,26 @@ Addressing a public rally held in Ratnapura, Jayaweera said: “Ranil Wickremesi
 [Data](articles/a1af0b09.json)
 
 [Extended Data](ext_articles/a1af0b09.ext.json)
+
+---
+
+### President
+
+*2024-11-05 09:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-உருவம்-பொறிக்கப்பட்ட-போலி-நாணயத்தாள்/175-346580) · `ta`
+
+Man arrested for producing fake currency featuring President Anura Kumara Dissanayake. Suspect, 38, from Korada, Athurugiriya.
+
+🟩
+
+A man has been arrested by the Criminal Investigation Department who has produced a 5,000 rupee fake currency paper inscribed on the image of President Anura Kumara Dissanayake.
+
+The arrested suspect is said to be 38 years old from Korada area, Athurugiriya.
+
+◼️
+
+[Data](articles/654a6ac8.json)
+
+[Extended Data](ext_articles/654a6ac8.ext.json)
 
 ---
 
@@ -1604,6 +1660,30 @@ Meanwhile, the Election Commission also says that 1,248 of the total number of c
 
 ---
 
+### Anura Vidyalaya, which commences at 5.30 am
+
+*2024-11-04 18:35:05* · [`adalk`](https://www.ada.lk/picture_story/උදෑසන-5-30ට-ආරම්භ-වන-මාතර-අනුර-විද්‍යාලය/10-412854) · `si`
+
+Anura Vidyalaya opens at 5:30 AM. Teachers' dedication praised for starting classes before GCE O/L exams. Special Education Program launched under "Aruna" theme. Volunteers work two hours daily. Doctors provide tea to students. Teachers and students enthusiastically participate in nighttime sessions. Classes run from 5:30 AM to 1:30 PM, with extended hours for math and English.
+
+🟩
+
+The commitment of its teachers should be appreciated for the opening of the school to the GCE O / L examination this year.
+
+Volunteers have spent two hours to the Special Education Program which has begun from the theme "before the aruna". The Indians, the doctor Tissamaharama in Tissamaharama is working daily to have given them a cup of tea.
+
+Interested, teachers, school children are eagerly participating in this special education program which has been launched from a night after a month.
+
+All subjects are taught from 5.30 am to 1.30 pm and for more time for mathematics and English subjects.
+
+◼️
+
+[Data](articles/5d98aadf.json)
+
+[Extended Data](ext_articles/5d98aadf.ext.json)
+
+---
+
 ### New Chairman appointment to Civil Air Transport Board
 
 *2024-11-04 18:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவில்-விமானப்-போக்குவரத்து-சபைக்கு-புதிய-தலைவர்-நியமனம்/175-346549) · `ta`
@@ -2237,101 +2317,5 @@ We have decided to compete in the districts of Kalutara, Hambaka Colombo and Put
 [Data](articles/54c1a8a0.json)
 
 [Extended Data](ext_articles/54c1a8a0.ext.json)
-
----
-
-### How to obtain a passport quickly for urgent needs
-
-*2024-11-04 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103156/how-to-obtain-a-passport-quickly-for-urgent-needs) · `en`
-
-The individuals with urgent needs for a passport can apply directly with supporting documents.
-
-Speaking at a press conference held today (04), Acting Controller General of Immigration D.M.D. Nilusha Balasuriya said that in response to the high demand for expedited travel permits, an independent committee within the Immigration Department has been established to evaluate requests on a case-by-case basis.
-
-Balasuriya explained that those requiring immediate passports must still schedule an appointment through the usual process.
-
-However, for critical circumstances, applicants can present verified documents to the department prior to their assigned date, if they can substantiate an urgent need.
-
-“We’ve set up an independent committee specifically for urgent cases. Applicants should bring documentation that confirms their need, allowing them to obtain relief. However, we caution that any presentation of forged or fraudulent documents will prompt strict legal action,” Balasuriya noted.
-
-◼️
-
-[Data](articles/a09d72b0.json)
-
-[Extended Data](ext_articles/a09d72b0.ext.json)
-
----
-
-### Nishantha Sri Warnasinghe has no qualifications for the bombing of parliament
-
-*2024-11-04 16:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197872) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Nishantha Sri Warnasinghe criticizes parliament qualifications. Anura Kumara Dissanayake's actions undermine public trust in parliament. Both accuse each other of disrespecting parliament's honor.
-
-🟩
-
-There is no qualifications for criticizing parliament. ஜனாதிபதியின் நடவடிக்கை பாராளுமன்றம் தொடர்பில் மக்கள் மத்தியில் இருந்து வரும் நம்பிக்கையை இல்லாமலாக்கச் செய்யும் என புதிய ஜனநாயக முன்னிணியின் கொழும்பு மாவட்ட வேட்பாளர் நிஷாந்த ஸ்ரீ வர்ணசிங்க தெரிவித்தார்.
-
-He was speaking at a press conference held at the New Democratic Front's election office in Colombo.
-
-President Anura Kumara Dissanayake has seen parliamentary criticism. இதன் மூலம் பாராளுமன்றத்துக்கு புதிதாக செல்ல இருப்பவர்களுக்கும் பாராளுமன்றம் தொடர்பில் பிழையான எண்ணமே தோன்றும்.
-
-அதேபோன்று அநுரகுமார திஸாநாயக்கவின் இந்த நடவடிக்கை பாராளுமன்றம் தொடர்பில் மக்கள் மத்தியில் இருந்து வரும் நம்பிக்கையை இல்லாமல் செய்கிறது. நாட்டின் ஜனாதிபதி என்றவகையில் அநுரகுமார திஸாநாயக்கவின் இந்த செயலை நாங்கள் கண்டிக்கிறோம்.
-
-பாராளுமன்றத்தை திருடர்களின் குகை என  விமர்சிக்கும் அநுரகுமாரவின் மக்கள் விடுதலை முன்னணியே 1987ஆம் ஆண்டும் பாராளுமன்றத்துக்குள் குண்டு தாக்குதல் மேற்கொண்டு ஜனாதிபதி ஜே.ஆர். ஜயவர்த்தனவை கொலை செய்ய முற்பட்டது.
-
-...
-
-[Data](articles/f58feacc.json)
-
-[Extended Data](ext_articles/f58feacc.ext.json)
-
----
-
-### Pakistan defeated by 2 wickets in the first ODI
-
-*2024-11-04 16:32:32* · [`adalk`](https://www.ada.lk/sports/ඕස්ට්‍රේලියාව-හමුවේ-පළමු-එක්දින-තරගයෙන්-පාකිස්තානයට-කඩුලු-2ක-පරාජයක්/9-412847) · `si`
-
-Pakistan lost to Australia in the first ODI by 2 wickets. Australia scored 204 runs in 33 overs after Pakistan made 203 runs in 46 overs. Despite Pakistan's efforts, Australia secured victory.
-
-🟩
-
-Australia won the first one-day match against the Tourism Pakistan.
-
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් පාකිස්තාන කණ්ඩායම පන්දුවාර 46 පන්දු 4ක් අවසානයේ සියලුදෙනා දැවී ලකුණු 203ක් රැස් කළේය.
-
-ඒ අනුව පිළිතුරු ඉනිම ක්‍රීඩා කළ ඕස්ට්‍රේලියානු කණ්ඩායම පන්දුවාර 33යි පන්දු 3ක් අවසානයේ කඩුලු 8ක් දැවී ලකුණු 204ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළේය.
-
-The Pakistan won great efforts to prevent Australian victory and however, however, the Australian leader Pat Kumins' was failed.
-
-◼️
-
-[Data](articles/8c2b69a1.json)
-
-[Extended Data](ext_articles/8c2b69a1.ext.json)
-
----
-
-### Online token system for collecting passports effective from Wednesday
-
-*2024-11-04 16:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103155/online-token-system-for-collecting-passports-effective-from-wednesday) · `en`
-
-A new online method has been introduced for the collection of passports, according to the Department of Immigration and Emigration.
-
-Accordingly, an appointment can be made for obtaining the passports by visiting the official website of the Department of Immigration and Emigration, Acting Immigration and Emigration Controller General D.M.D. Nilusha Balasuriya said.
-
-Joining a press conference held in Colombo, she mentioned that the new system will be implemented starting from November 06, 2024.
-
-“Starting November 06, an online reservation system will be available, allowing individuals to book appointments on any day, at any time, and from any location. This system allocates a limited number of tokens for same-day reservations. Once these tokens are exhausted, users can secure a future date for their appointments as well”, Mrs. Balasuriya added.
-
-...
-
-[Data](articles/6806c5e5.json)
-
-[Extended Data](ext_articles/6806c5e5.ext.json)
 
 ---

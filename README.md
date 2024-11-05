@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 19:00:02**
+As of **2024-11-05 19:11:52**
 
 ## Newspaper Stats
 
-*Scraped **53,207** Articles*
+*Scraped **53,209** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,181
 economynextcom | 3,226
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,965
+adalk | 4,967
 adaderanalk | 6,338
 tamilmirrorlk | 7,403
 virakesarilk | 8,592
@@ -26,11 +26,39 @@ adaderanasinhalalk | 9,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,193 (100.0%) of 53,207 articles have been extended.
+53,197 (100.0%) of 53,209 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Jerome and villagers clash
+
+*2024-11-05 18:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ජෙරොම්-හා-ගම්වැසියන්-ගැටෙයි/11-412870) · `si`
+
+Villagers protest construction of mental facility near church. Police intervene. Villagers claim unaware of project. School security officers leave due to opposition.
+
+🟩
+
+The security officers of the Jerome Pastor, who had come to the construction of a mental confrontory children and the security officers of the Jewrum Pastor and Nawalapitiya (05) was severely tense.
+
+The tense situation was caused by the Jerome Pastor to the construction of a mentally assembled of mental confusion in Nawalapitiya.
+
+The Nawalapitiya Police had to intervene to control the victorious situation between the villagers and the school.
+
+The villagers accused the construction of a religious place, saying that a child rehabilitation center was to build a resource placement and had not been made aware of the construction of a government agency.
+
+Sinhala Tamil Muslim Burghers in Nawalapitiya will live very supportively and that such people among the nations will not allow peace in the Nawalapitiya area.
+
+The school Jerome and his security officials left the place in the face of strong opposition from the villagers.
+
+◼️
+
+[Data](articles/efc45cc5.json)
+
+[Extended Data](ext_articles/efc45cc5.ext.json)
+
+---
 
 ### Who is the next President of the United States?: Tomorrow will be known
 
@@ -176,23 +204,31 @@ Amidst the strong opposition from the villagers, Pastor Jerome Fernando then lef
 
 [Data](articles/fc37984c.json)
 
+[Extended Data](ext_articles/fc37984c.ext.json)
+
 ---
 
-### ජනපතිගේ රුව ඇතුළත්ව ව්‍යාජ රු 5000ක් නෝට්ටුවක් හැදූ අයෙක් අල්ලයි
+### Man arrested for leaving Rs.
 
 *2024-11-05 18:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-රුව-ඇතුළත්ව-ව්‍යාජ-රු-5000ක්-නෝට්ටුවක්-හැදූ-අයෙක්-අල්ලයි/11-412868) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ රුව ඇතුළත් කරමින් රුපියල් 5000/= නෝට්ටුවක් ව්‍යාජව  සකස්කර  අන්තර්ජාල සමාජ මාධ්‍ය ඔස්සේ ප්‍රචාරය කළ පුද්ගලයෙකු  අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+A man adopted by Sri Lanka's president was arrested in Piliyandala for allegedly spreading false information online. He's a 38-year-old sales officer from Korathota. The Criminal Investigation Department is investigating the case.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ව්‍යාජ මුදල් කාර්යාංශයට ලද තොරතුරකට අනුව පොලිස් පරීක්ෂක බි. ඒ. ඩි. සමීර මහතා ඇතුළු කණ්ඩායමක් සැකකරු අත්අඩංගුවට ගෙන ඇත්තේ පිළියන්දල ප්‍රදේශයේදීය.
+🟩
 
-සැකකාර පුද්ගලයා පිළියන්දල ප්‍රදේශයේ පුද්ගලික ආයතනයක අලෙවි නිලධාරියකු ලෙස රැකියාව කටයුතු කරන්නෙකි.
+The Criminal Investigations Department says that a person who was adopted by President Anura Kumara Dissanayake, was arrested and arrested by a person who was propagated by the Internet Social Media.
 
-අතුරුගිරිය කොරතට මහදෙනිය ප්‍රදේශයේ පදිංචි සැකකරු වයස අවුරුදු 38 ක  පුද්ගලයෙකි. සැකකරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ව්‍යාජ මුදල් කාර්යාංශය මගින් විමර්ශන සිදු කෙරේ.
+Inspector of Police Inspector on information received by the Criminal Investigation Department. A. De. Sameera has arrested the suspect in Piliyandala.
+
+The suspect is a sales officer of a private company in Piliyandala.
+
+Suspect in Mahadeniya Region is a 38 year old resident of Korathi Koratha. The suspect is to be produced in court. Investigations are conducted by the Criminal Investigation Department's Fake Bureau.
 
 ◼️
 
 [Data](articles/00db4c4d.json)
+
+[Extended Data](ext_articles/00db4c4d.ext.json)
 
 ---
 
@@ -249,6 +285,8 @@ Trump’s campaign has suggested he may declare victory on election night even w
 ...
 
 [Data](articles/6256c574.json)
+
+[Extended Data](ext_articles/6256c574.ext.json)
 
 ---
 
@@ -2373,21 +2411,5 @@ The body is at the place for the magisterial inquiry and Trincomalee Police are 
 [Data](articles/09ee1025.json)
 
 [Extended Data](ext_articles/09ee1025.ext.json)
-
----
-
-### Strategy To Deflate Systemic Debt & To Support Growth
-
-*2024-11-05 10:01:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/strategy-to-deflate-systemic-debt-to-support-growth/) · `en`
-
-Deflating systemic debt means reducing debt burden in the economy by design. Sometimes debt deflation takes place by accident. Let us discuss this subject within Sri Lankan context.
-
-Sri Lanka printed money during the presidency of Gotabaya Rajapaksa and prior to that. They printed money without limit. This was bad and this habit was changed on the strict advice of the IMF. Now, CBSL insists that “with the introduction of the Central Bank of Sri Lanka Act, No. 16 of 2023, which came into effect in September 2023, the CBSL is now prohibited from printing money through the purchase of government securities in the primary market to fund the government” (CBSL Press Release on Oct. 29, 2024). However, this is a gross violation of our monetary sovereignty which refers to the authority and capacity of our country to control our own currency and monetary policy. Why does a country need monetary sovereignty?
-
-...
-
-[Data](articles/dda9a5e7.json)
-
-[Extended Data](ext_articles/dda9a5e7.ext.json)
 
 ---

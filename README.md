@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 06:10:09**
+As of **2024-11-05 06:45:30**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 9,248
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,066 (100.0%) of 53,077 articles have been extended.
+53,072 (100.0%) of 53,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### අදත් මි.මී 100 ඉක්මවූ වැසි
+### Showers over 100 mm
 
 *2024-11-05 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202912) · `si`
 
-අද (05) දිනයේ මධ්‍යම, සබරගමුව, උතුරුමැද, ඌව පළාත්වල සහ කුරුණෑගල දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rainfall warning: Showers >100mm expected in Central, Sabaragamuwa, North Central, Uva provinces and Kurunegala district. Thunderstorms possible tonight. Public advised to prepare for potential lightning damage.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+🟩
 
-එමෙන්ම බස්නාහිර සහ දකුණු පළාත්වලත් අම්පාර දිස්ත්‍රික්කයේත් වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇතිවේ.
+Today (05), mm in the Central, Sabaragamuwa, North Central, Uva provinces and Kurunegala district.. Heavy rains can occur around 100, the Met Department said.
 
-දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වය තවදුරටත් පවතින බැවින් අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The department states that showers or thundershowers will occur at night or night in many parts of the island.
+
+Showers will occur at the Western and Southern provinces and in the Ampara district.
+
+The Department of Meteorology has requested the public to take action to reduce the damages caused to lightning due to thundershowers in the evening.
 
 ◼️
 
 [Data](articles/e4cc7eec.json)
+
+[Extended Data](ext_articles/e4cc7eec.ext.json)
 
 ---
 
@@ -620,6 +626,8 @@ The milestone event, held at the Oak Room of the Cinnamon Grand, brought togethe
 
 [Data](articles/2ad31feb.json)
 
+[Extended Data](ext_articles/2ad31feb.ext.json)
+
 ---
 
 ### ComBank receives Global Finance ‘Best Bank’ award for 22nd year
@@ -638,6 +646,8 @@ DFCC Bank continuing to look for investors for its 50 percent stake in Acuity Pa
 
 [Data](articles/f62439c8.json)
 
+[Extended Data](ext_articles/f62439c8.ext.json)
+
 ---
 
 ### Aditya among Condé Nast Traveller’s best in ‘Rest of Asia Hotels’ 2024
@@ -652,6 +662,8 @@ The suites, each of which is named after a deity, have décor that is en pointe 
 
 [Data](articles/cfe2e7cf.json)
 
+[Extended Data](ext_articles/cfe2e7cf.ext.json)
+
 ---
 
 ### Sophos to acquire Secureworks to accelerate cybersecurity services and technology for organizations worldwide
@@ -665,6 +677,8 @@ Sophos’ experience and reputation as a leading provider of managed security se
 ...
 
 [Data](articles/3eb4b6fa.json)
+
+[Extended Data](ext_articles/3eb4b6fa.ext.json)
 
 ---
 
@@ -683,6 +697,8 @@ In September, the DFCC announced it would sell its 50 percent stake in Acuity Pa
 ...
 
 [Data](articles/e3997fbb.json)
+
+[Extended Data](ext_articles/e3997fbb.ext.json)
 
 ---
 

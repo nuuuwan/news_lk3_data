@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 12:58:29**
+As of **2024-11-05 13:09:46**
 
 ## Newspaper Stats
 
-*Scraped **53,141** Articles*
+*Scraped **53,144** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 3,181
 economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,956
-adaderanalk | 6,326
+adalk | 4,957
+adaderanalk | 6,327
 tamilmirrorlk | 7,394
 virakesarilk | 8,579
-adaderanasinhalalk | 9,264
+adaderanasinhalalk | 9,265
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,139 (100.0%) of 53,141 articles have been extended.
+53,144 (100.0%) of 53,144 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Man arrested for circulating fake currency note with President’s image on social media
+
+*2024-11-05 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103178/man-arrested-for-circulating-fake-currency-note-with-presidents-image-on-social-media) · `en`
+
+The Criminal Investigations Department (CID) has arrested a person who is suspected to have circulated a doctored image of a fake currency note of the Rs. 5,000 denomination featuring an image of President Anura Kumara Dissanayake on it.
+
+Police said that the 38-year-old was arrested on Tuesday (04).
+
+The suspect, identified as a resident of Korathota in Athurugiriya, is employed as a salesperson, according to police.
+
+◼️
+
+[Data](articles/831aba7d.json)
+
+[Extended Data](ext_articles/831aba7d.ext.json)
+
+---
+
+### Joneston's petition withdrawn
+
+*2024-11-05 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202931) · `si`
+
+Joneston Fernando's petition to arrest a BMW illegally withdrawn from Court of Appeal.
+
+🟩
+
+Recently, the Rit petition filed by former Minister Johnston Fernando to issue an order to issue an illegal arrest of BMW car in the Hilton Hotel car park in Colombo.
+
+This petition is Mohammed Lafar Thahaire and P. The Court of Appeal consisting of Kumaran Ratnam was called before the panel of judges.
+
+The lawyers who sat for Joneston Fernando have informed the court that this petition is not required to maintain the magnet court.
+
+Attorneys were also asked to permit the petition to withdraw the petition.
+
+Accordingly, the request of the Court of Appeal Requested Court Judge was dismissed with the withdrawal of the petition.
+
+◼️
+
+[Data](articles/699899d2.json)
+
+[Extended Data](ext_articles/699899d2.ext.json)
+
+---
 
 ### 14 days explanation for a person involved in money laundering alleging sending overseas
 
@@ -164,11 +208,11 @@ The suspect is a 38-year-old resident of Korathegoda, Koratta, Koratta, Koratta,
 
 ---
 
-### Sri Lanka needs to implement policies to increase rubber production, make use of FTAs: Michelin
+### Sri Lanka needs policies to increase rubber production, make use of FTAs: Michelin
 
 *2024-11-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-implement-policies-to-increase-rubber-production-make-use-of-ftas-michelin-186117/) · `en`
 
-ECONOMYNEXT – Global tyre manufacturer Michelin has said the Sri Lanka government needs to implement proactive policies to increase rubber production in the island to provide impetus to value-added rubber products and take steps to expand market access through free trade agreements.
+ECONOMYNEXT – Global tyre manufacturer Michelin has said the Sri Lanka government needs to implement proactive policies to increase rubber production in the island to provide impetus to value-added rubber products, and take steps to expand market access through free trade agreements.
 
 A team from Michelin met Sri Lanka’s Export Development Board officials last week (Nov 1) to discuss further opportunities in the island nation’s rubber manufacturing sector.
 
@@ -257,6 +301,26 @@ The Sri Lanka Customs Control Division has requested the Bureau of Investigation
 [Data](articles/2db2caf7.json)
 
 [Extended Data](ext_articles/2db2caf7.ext.json)
+
+---
+
+### Calling the oral question in case against Hemasiri and Pillat
+
+*2024-11-05 11:43:52* · [`adalk`](https://www.ada.lk/breaking_news/හේමසිරිට-සහ-පූජිත්ට-එරෙහි-නඩුවේ-විත්ති-වාචිකය-කැඳවීමේ-නියෝගයක්/11-412861) · `si`
+
+Supreme Court orders former Defense Secretary Hemasiri Fernando and ex-IGP Pujith Jayasundara to appear before it regarding terrorism allegations.
+
+🟩
+
+The Supreme Court has ordered the former Defense Secretary Hemasiri Fernando on the terrorist secretary and former IGP Puziri Jayasundara.
+
+The order was given to the Supreme Court a panel of judges.
+
+◼️
+
+[Data](articles/63f9645a.json)
+
+[Extended Data](ext_articles/63f9645a.ext.json)
 
 ---
 
@@ -412,17 +476,25 @@ The arrested suspect has also been staying in a room on the same floor of the pr
 
 ---
 
-### டெலிபோன் அணிக்குள் இன்று நிகழும் விருப்பு வாக்கு போட்டியை தமிழ் வாக்காளர்கள் புரிந்து கொள்ள வேண்டும் - மனோ கணேசன்
+### Tamil voters must understand the preferential voting match within the telephone team - Mano Ganesan
 
 *2024-11-05 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197922) · `ta`
 
-டெலிபோன் சின்னத்துக்கு வாக்களித்து விட்டு, அந்த பட்டியலில், புரிந்துணர்வு உடன்படிக்கையுடன் கூட்டணி வேட்பாளர்களாக போட்டியிடும் எமது தமிழ் முற்போக்கு கூட்டணி வேட்பாளர்களுக்கு தமது விருப்பு வாக்குகளை முன்னுரிமை அளித்து வழங்கும்படி தமிழ் வாக்களர்களை நான் கோருகிறேன் என தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் அறிவித்துள்ளார்.
+Tamil Progressive Alliance leader Mano Ganesan urges Tamil voters to prioritize their party candidates in upcoming elections. He warns against supporting non-Tamil candidates seeking preferential votes, emphasizing the importance of Tamil votes for his alliance's success.
 
-கடைசியாக நடைபெற்ற ஜனாதிபதி தேர்தலில், எமது வேட்பாளராக இருந்து சஜித் பிரேமதாசவுக்கு கொழும்பு, கம்பஹா, கண்டி, கேகாலை, இரத்தினபுரி, பதுளை ஆகிய மாவட்டங்களில் வெற்றி வாக்குகளை பெற்று கொடுத்தோம். நுவரெலியா மாவட்டத்தை வென்று கொடுத்தோம். இவை தமிழ் முற்போக்கு கூட்டணியின் சாதனை வெற்றிகள்.
+🟩
+
+Tamil Progressive Alliance leader Mano Ganesan has announced that I have demanded Tamil voters to prioritize our Tamil Progressive Alliance candidates who vote for the telephone symbol and contest as a coalition candidates with the Memorandum of Understanding.
+
+In the last presidential election, our candidate was won by Sajith Premadasa in Colombo, Gampaha, Kandy, Kegalle, Ratnapura and Badulla districts.. We have won the Nuwara Eliya District. These are the achievement of the Tamil Progressive Alliance.
+
+Several majority politicians who cannot get the votes of Sinhala voters in the presidential election, today, as telephone candidates, are looking for Tamil preferential votes.. Tamil voters appear before and speak with a sudden affection for the Tamil people. Tamil voters are talking and trying to hug. Anyway, they are trying to get some Tamil preferential votes.
 
 ...
 
 [Data](articles/71871334.json)
+
+[Extended Data](ext_articles/71871334.ext.json)
 
 ---
 
@@ -488,25 +560,35 @@ Police said there were demonstrations at multiple locations in the region. Sikh 
 
 ---
 
-### இறக்குமதி செய்யப்படும் சீனிக்கான விசேட பண்ட வரி நீடிப்பு
+### Special Bundle Extension for Imported Chinese
 
 *2024-11-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197917) · `ta`
 
-இறக்குமதி செய்யப்படும் சீனிக்கு, இதுவரை விதிக்கப்பட்டிருந்த விசேட பண்ட வரி மேலும் நீடிக்கப்பட்டுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-இறக்குமதி செய்யப்படும் ஒரு கிலோகிராம் சீனிக்கு கடந்த வருடம் நவம்பர் மாதம் முதலாம் திகதி முதல் ஒரு வருட காலத்திற்கு 50 ரூபா விசேட வர்த்தக பண்ட வரி விதிக்கப்பட்டது.
 
-அதன் செல்லுபடியாகும் காலம் நவம்பர் 1 ஆம் திகதி முடிவடைய இருந்த நிலையில்  அரசாங்கம் குறித்த விசேட வர்த்தக பண்ட வரியை டிசம்பர் 31 ஆம் திகதி வரை நீடிக்க நடவடிக்கை எடுத்துள்ளது.
 
-நிதியமைச்சர் என்ற வகையில் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலின் ஊடாக இந்த வரி நீடிக்கப்பட்டுள்ளது.
+"Special commodity tax extended for imported Chinese goods. Tax rate: 50 rupees per kg. Validity: Extended until Dec 31. Gazetted by Finance Minister. Contradicts promise to cut taxes on essentials."
 
-முன்னர் அத்தியாவசியப் பொருட்களுக்கான வரிகளை குறைப்பதாக வாக்குறுதிகள் வழங்கப்பட்டிருந்த போதிலும், அவற்றின் மீதான வரிகளை குறைக்காமல் அவ்வாறே பேணுவதாக விமர்சித்தார்.
+🟩
 
-உணவுப் பொருட்களின் மீதான வரிச் சுமையைத் தளர்த்துவதாக அரசாங்கம் பகிரங்கமாக உறுதியளித்துள்ள அதேவேளை, சீனி இறக்குமதிக்கான வரியைத் தக்கவைக்க நடவடிக்கை எடுத்துள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+For imported Chinese, the special commodity tax has been further extended.
+
+One kilogram of imported Chinese was levied on a special trade tax of 50 rupees for a year from the first of November last year.
+
+As its validity period ends on November 1, the government has taken steps to extend the special trade tax on the 31st of December.
+
+The tax has been extended by the Gazette Notification issued by President Anura Kumara Dissanayake as the Finance Minister.
+
+Although he was previously promised to reduce taxes on essential commodities, he criticized the same thing without cutting the taxes on them.
+
+He pointed out that the government has publicly promised to relax the tax burden on food items, while steps have been taken to retain the tax on the importation of sugar.
 
 ◼️
 
 [Data](articles/cc9c8b46.json)
+
+[Extended Data](ext_articles/cc9c8b46.ext.json)
 
 ---
 
@@ -638,7 +720,7 @@ When they were not at home, some people who claimed that they belonged to the Pa
 
 ---
 
-### Consistent updates on economic strategies from Sri Lanka government needed: Former minister
+### Consistent updates on economic strategies needed from Sri Lanka gov: Former minister
 
 *2024-11-05 10:42:00* · [`economynextcom`](https://economynext.com/consistent-updates-on-economic-strategies-from-sri-lanka-government-needed-former-minister-186109/) · `en`
 
@@ -2245,77 +2327,5 @@ On behalf of the Institute, the government has informed the court that the gover
 [Data](articles/818c7a1d.json)
 
 [Extended Data](ext_articles/818c7a1d.ext.json)
-
----
-
-### Strong future tour program at the Women's International Cricket Forum;8 series each for 11 teams including Sri Lanka
-
-*2024-11-04 21:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197903) · `ta`
-
-Women's International Cricket Forum: ICC announces 8-series tour for 11 teams, including Sri Lanka. Sri Lanka to play bilateral series with 8 countries, ICC Women's Championships from 2025-2029. Total 400 matches across formats. New Women's Future Tour Program in 2027.
-
-🟩
-
-The International Cricket Council has released a strong future tour of the Women's International Cricket Stadium to participate in 8 series each for 11 teams, including Sri Lanka.
-
-The scheme for the fourth ICC Women's Championship Chapter is scheduled to be completed in May 2025 and will be completed in April 2029.
-
-Sri Lanka will play in bilateral international cricket series with 4 countries on home soil and 4 countries on foreign soil during this period.. Sri Lanka will not play in the ICC Women's Championships with India and South Africa according to the ICC competition.
-
-Sri Lanka will be a welcome country in both sides against England, Australia, Pakistan and Ireland.
-
-Sri Lanka will face bilateral series against New Zealand, Bangladesh, West Indies and Zimbabwe in their respective countries.
-
-Meanwhile, the ICC has also given the opportunity to play in the women's three -fold series, including Sri Lanka, to prepare for the ICC matches in 2028 and 2029.
-
-...
-
-[Data](articles/0c326feb.json)
-
-[Extended Data](ext_articles/0c326feb.ext.json)
-
----
-
-### O/L main notice for students
-
-*2024-11-04 20:54:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-மாணவர்களுக்கு-முக்கிய-அறிவிப்பு/175-346565) · `ta`
-
-GCE Ordinary Level Exam application deadline: Nov 30, 2023. Applications open now until then.
-
-🟩
-
-The Commissioner General of Examinations Amit Jayasundara said that applications for the GCE Ordinary Level Examination have been requested for 2024 (2025).
-
-Accordingly, applications will be accepted from tomorrow (05) to 30th November, he said.. Remble
-
-◼️
-
-[Data](articles/726e5a14.json)
-
-[Extended Data](ext_articles/726e5a14.ext.json)
-
----
-
-### Each citizen has a digital number is owned by the security force - Dilith
-
-*2024-11-04 20:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202910) · `si`
-
-Sri Lanka: Security forces to issue unique digital IDs to citizens within 6 months, aims to address revenue disparities and improve governance.
-
-🟩
-
-The security leader of Gampaha District candidate, entrepreneral Dilith Dilith Jayaweera says that the plan to provide an unique digital ID number in the country within six months.
-
-Dilith Jayaweera expressed his views participating at the rally in Ratnapura afternoon.
-
-"We suggested all people in this country to bring all the people in this country to this digital platform to the clutch, the clutch. It is a program to look into the problems of this country's revenue disparity and the revenue disparity of the revenue disparity and the problems of this country's suffering people.
-
-But it was a long time. This is a long thought we have brought. I personally worked about this with a great commitment. I have now appointed my friend Anura Kumara who is the former CEO of this Dialog. We're proud to give you a sense of people who have suggested that we have suggested.. For that digitization continues to help this dare opposition without hypocrisy.
-
-...
-
-[Data](articles/2d002383.json)
-
-[Extended Data](ext_articles/2d002383.ext.json)
 
 ---

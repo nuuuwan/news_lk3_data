@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 14:13:00**
+As of **2024-11-05 14:25:21**
 
 ## Newspaper Stats
 
@@ -26,27 +26,39 @@ adaderanasinhalalk | 9,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,150 (100.0%) of 53,152 articles have been extended.
+53,152 (100.0%) of 53,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### கடந்த காலங்களில் பல பாராளுமன்ற உறுப்பினர்கள் கொழும்பில் தெரிவாகியுள்ள போதிலும் அவர்களால் எவ்வித பயனும் மக்களுக்கு ஏற்படவில்லை - லயன் மனோ
+### Although many parliamentarians have been elected in Colombo in the past, they have not been of any benefit to the people - Lion Mano
 
 *2024-11-05 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197941) · `ta`
 
-கடந்த 30 வருடங்களாக கொழும்பில் 27 க்கும் அதிகமானவர்கள் மக்களால் தெரிவுசெய்யப்பட்டு பாராளுமன்றத்திற்கு அனுப்பி வைக்கப்பட்டிருந்த போதும் வடகொழும்பு இதுவரை எவ்வித அபிவிருத்தியும் இல்லாது காணப்படுகின்றது. தேர்தல் காலங்களிலேயே அரசியல்வாதிகள் மக்கள் இருப்பிடங்களுக்குச் சென்று பல பொய்வாக்குறுதிகளை வழங்கி மக்களை ஏமாற்றி வாக்குகளை அபகரிக்கும் செயற்பாடுகளில் ஈடுபடுகின்றனர் என ஐக்கிய ஜனநாயகக் குரல் கட்சியில் பாராளுமன்றத் தேர்தலில் போட்டியிடும் லயன் மனோ தெரிவித்தார்.
+Here's a 200-character summary:
 
-எதிர்வரும் பாராளுமன்றத் தேர்தலில் மைக் சின்னத்தில் ஐக்கிய ஜனநாயகக் குரல் கட்சியில் 17 ஆம் இலக்கத்தில் கொழும்பு வடக்கில் போட்டியிடும் லயன் மனோ மேலும் தெரிவிக்கையில்,
 
-கடந்த 2018 ஆம் ஆண்டு இடம்பெற்ற மாநாகர சபைத் தேர்தலில் கொழும்பு மாநகர சபையில் மட்டக்குளி தொகுதியில் வெற்றி பெற்று மாநாகர சபை அங்கத்தவராக நியமிக்கப்பட்டேன்.
 
-அதன் பின்னர் இன்று வரை கொழும்பிலுள்ள அனைவருக்கும் மாநகர சபையின் மூலமாக அனைத்து சேவைகளையும் இரவு பகல் பாராது செய்துள்ளேன்.
+Colombo parliamentarians ineffective after 30 years; Lion Mano criticizes politicians' lies during elections. He promises solutions to issues like flooding, traffic, education problems if elected.
+
+🟩
+
+For the past 30 years, more than 27 people have been elected by the people and sent to Parliament, but North Ceylon has seen no development so far.. Lion Mano, who is contesting the parliamentary elections in the United Democratic Party, said that during the election period, politicians go to the people's places and provide many lies and deceive the people.
+
+Lion Mano, who is contesting the upcoming parliamentary elections in the North of Colombo on 17th in the United Democratic Voice Party in the Mike logo, said,
+
+In the 2018 Municipal Council election, I won the Municipal Council in the Colombo Municipal Council and appointed the Municipal Council as a member of the Municipal Council.
+
+Since then, I have done all the services of the Municipal Council to all in Colombo to date.
+
+Similarly, when people were in the throes of the Kovit, I gave everyone a void vaccine. The first bovit vaccine project in Sri Lanka was launched in Kakkadivu, Colombo.
 
 ...
 
 [Data](articles/5b8b08c2.json)
+
+[Extended Data](ext_articles/5b8b08c2.ext.json)
 
 ---
 
@@ -72,23 +84,31 @@ Sampath Abeykoon and P. The Court of Appeal has issued the order by the Court of
 
 ---
 
-### உரிய காலத்தில் தேர்தல்கள் நடத்தப்படாத காரணத்தால் இன்று பொதுமக்களை பிரதிநிதித்துவப்படுத்தும் எந்த ஒரு அரசியல் நிறுவனமும் இயங்குவதில்லை - கே.டி லால்காந்த
+### There is no political institution that represents the public today because the elections are not held in a timely manner - KD Lalkantha
 
 *2024-11-05 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197924) · `ta`
 
-உரிய காலத்தில் தேர்தல்கள் நடத்தப்படாத காரணத்தால் இன்று பொதுமக்களை பிரதிநிதித்துவப்படுத்தும் எந்த ஒரு அரசியல் நிறுவனமும் இயங்குவதில்லை என கண்டி மாவட்ட தேசிய மக்கள் சக்தி முதன்மை வேட்பாளர் கே.டி லால்காந்த தெரிவித்தார்.
+No political institution represents public due to delayed elections - KD Lalkantha. He advocates for timely polls to establish parliament, provincial councils, and local governments. This opportunity allows Tamil, Muslim, and female representation in Sri Lanka's political landscape.
 
-தெல்தெனிய, கும்புக்கந்துறை பிரதேசத்தில் நடை பெற்ற தேர்தல் பிரச்சாரக் கூட்டம் ஒன்றில் உரையாற்றும் போதே இதனைத் தெரிவித்தார்.
+🟩
 
-இலங்கையில் இதுகாலவரை ஒரு மக்கள் பிரதிநிதித்துவ நிறுவனத்திற்கு தேர்தல் நடத்தும் போது பல மக்கள் பிரதிநிதித்துவ  நிறுவனங்கள் இயங்கிக் கொண்டிருந்தன.
+KD Lalgantha, the primary candidate of the Kandy District National People's Power, said that no political organization representing the public today is due to the lack of elections in a timely manner.
 
-ஆனால் தற்போது நாட்டை நிர்வகிக்க கூடிய பாராளுமன்றமோ, மாகாண சபையோ, உள்ளூராட்சி அமைப்புக்களோ  இல்லை. எனவே அவற்றை உருவாக்க வேண்டியுள்ளது.
+He was speaking at an election campaign meeting in Kumbukkandura, Teldeniya.
 
-அதாவது பாராளுமன்ற தேர்தல் நடக்கும் போது மாகாண சபையோ, உள்ளூராட்சி சபைகளோ இருந்து வந்துள்ளன. அல்லது உள்ளூராட்சி சபைகளுக்கு தேர்தல் நடக்கும் போது மாகாண சபையோ, பாராளுமன்றமோ இருக்கும்.
+In Sri Lanka, many people's representation organizations were running when they held elections to a people's representation agency.
+
+But now there are no parliament, provincial council or local government organizations that can manage the country. So you have to create them.
+
+This means that the provincial council or local councils are present during the parliamentary elections. Or there will be a provincial council or parliament when elections are held for local councils.
+
+This is a significant opportunity in the history of Sri Lanka because in the past, there is no election in the past.
 
 ...
 
 [Data](articles/23ec17d3.json)
+
+[Extended Data](ext_articles/23ec17d3.ext.json)
 
 ---
 

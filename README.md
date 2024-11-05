@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 19:40:16**
+As of **2024-11-05 19:58:40**
 
 ## Newspaper Stats
 
@@ -35,6 +35,10 @@ Extensions include translations and NER (Named Entity Recognition).
 ### Mahela and the group fired a 10 storey ward complex in the business of cancer patients
 
 *2024-11-05 18:41:20* · [`adalk`](https://www.ada.lk/picture_story/මහේල-ඇතුළු-කණ්ඩායම-පිළිකා-රෝගීන්-වෙනුවෙන්-කරාපිටියේ-මහල්-10ක-වාට්ටු-සංකීර්ණයක්-හදයි/10-412871) · `si`
+
+Mahela Jayawardene and team sign MoU for 10-storey ward complex for cancer patients. Project funded by Colonts' Limited Foundation and Ministry of Health. Defense Secretary Air Vice Marshal Tyyakantha and Health Ministry Secretary Dr. PG. Maheepala sign legal documents. Senior military officers and Health Ministry officials attend ceremony.
+
+🟩
 
 The MoU at the Kalpitiya Teaching Hospital, Galle Teaching Hospital, was signed in the Ministry of Defense, Sri Jayawardenapura Kotte complex today (Nov 5).
 

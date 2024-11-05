@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 15:24:35**
+As of **2024-11-05 15:40:34**
 
 ## Newspaper Stats
 
-*Scraped **53,165** Articles*
+*Scraped **53,166** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,960
-adaderanalk | 6,332
+adaderanalk | 6,333
 tamilmirrorlk | 7,396
 virakesarilk | 8,586
 adaderanasinhalalk | 9,268
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,268
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,165 (100.0%) of 53,165 articles have been extended.
+53,166 (100.0%) of 53,166 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### KDU bus accident: Driver had license suspended over drunken accident, court told
+
+*2024-11-05 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103183/kdu-bus-accident-driver-had-license-suspended-over-drunken-accident-court-told) · `en`
+
+It has been revealed before the court today that the bus driver involved in the recent fatal bus accident in Badulla, while transporting a group of students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU), previously had his driving license suspended for 05 months after being arrested for driving under the influence of alcohol.
+
+He had been arrested on August 04 by police in the Labuduwa area of Galle, within the Akmeemana police jurisdiction, after causing an accident involving the bus he was driving and a motorcycle, Ada Derana reporter said.
+
+The details of the incident were presented today (Nov 5) in a motion by the Akmeemana Police to the Galle Additional Magistrate’s Court.
+
+The driver, identified as a resident of Dammala area of Udugama, had allegedly falsely reported his license missing to Hiniduma Police following the suspension of his license and had subsequently obtained a replacement driving license.
+
+...
+
+[Data](articles/ff30e27e.json)
+
+[Extended Data](ext_articles/ff30e27e.ext.json)
+
+---
 
 ### Driver's driver's license at fatal bus accident is suspended for 05 months
 
@@ -2393,25 +2413,5 @@ It will empower participants with vital market research skills, helping them und
 [Data](articles/5c0d8594.json)
 
 [Extended Data](ext_articles/5c0d8594.ext.json)
-
----
-
-### Sri Lanka-NORDIC Business Council holds 23rd AGM
-
-*2024-11-05 00:50:08* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-NORDIC-Business-Council-holds-23rd-AGM/34-768839) · `en`
-
-Spillburg Holdings Ltd. Director/CEO Shaameel Mohideen was appointed the President of the Sri Lanka-NORDIC Business Council (SLNBC) for 2024/2025 at the 23rd Annual General Meeting held recently at the Cinnamon Grand.
-
-The occasion was graced by Chief Guest Honorary Consul for Norway Mano Sekaram and Guest of Honour Honorary Consul for Sweden Sanjaya Kulathunga.
-
-The following Executive Council Members were elected for the year 2024/2025 at the AGM.
-
-MAC Holdings Ltd. Managing Director Andre Fernando and Meridian Maritime Services Ltd. Director Operations Maleena Awn were elected Vice Presidents for the period. The representatives from Kalaro Ltd., M.A. Razak & Company Ltd., Ningbo Marketing Services Ltd., and Universal Trade Bureau were elected as Committee Members. Infomate Ltd. CEO Jehan Perinpanayagam will serve the Committee as the Immediate Past President of the Council.
-
-...
-
-[Data](articles/650e43a9.json)
-
-[Extended Data](ext_articles/650e43a9.ext.json)
 
 ---

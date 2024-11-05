@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 02:58:33**
+As of **2024-11-06 03:10:11**
 
 ## Newspaper Stats
 
-*Scraped **53,239** Articles*
+*Scraped **53,240** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,410
+tamilmirrorlk | 7,411
 virakesarilk | 8,603
 adaderanasinhalalk | 9,280
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,239 (100.0%) of 53,239 articles have been extended.
+53,240 (100.0%) of 53,240 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,32 @@ He said that when calculating the price of rice, the sub -products of the rice p
 [Data](articles/7cca0e24.json)
 
 [Extended Data](ext_articles/7cca0e24.ext.json)
+
+---
+
+### We are competitive because we are splitting up
+
+*2024-11-06 01:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிந்து-நிற்பதால்-நாமும்-போட்டி/175-346632) · `ta`
+
+Eros Democratic Front contests parliamentary elections due to Tamil National Party's declining support. Focuses on addressing local issues like wind power, sand mining, fishing, and farming problems in Mannar district.
+
+🟩
+
+The Eros Democratic Front has been supporting the Tamil National Party in the past and the Tamil National parties are now losing their support. This is why the Eros Democratic Front is contesting in the parliamentary elections this time.Said.
+
+He was speaking at a media briefing held in Mannar on Tuesday (05).
+
+The Tamil national parties are losing the support of the people.. In this case, the Eros Democratic Front is contesting in the Vanni as we get those votes so that the votes are not separated from other parties.
+
+The Tamil National parties have been facing economically problems as the Tamil national parties have been carrying out opposition politics over the past 30 years.
+
+“My father is the hero of the Eros Democratic Front. I am going to do some things that he cannot do through his struggle. That is why I am contesting in this election. ”
+
+...
+
+[Data](articles/75b1f3ef.json)
+
+[Extended Data](ext_articles/75b1f3ef.ext.json)
 
 ---
 
@@ -2453,35 +2479,5 @@ The US dollar purchasing price was 288.6776 rupees and the sales price were 297.
 [Data](articles/11453e05.json)
 
 [Extended Data](ext_articles/11453e05.ext.json)
-
----
-
-### The success of the people is the politics of the people of our people - Murukesu Chandrakumar
-
-*2024-11-05 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197920) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Murukesu Chandrakumar emphasizes Tamil nationalism, calling for self-sufficiency and rejecting corrupt politicians. He advocates for economic development through factories and protecting land rights.
-
-🟩
-
-To create a position where one can live on own land. To work politically for that. The national task is to actually do so. Murukesu Chandrakumar, a former parliamentarian and the chief candidate of the United People's Power of the Kilinochchi Election District, Jaffna, said that it was the lifeblood of Tamil nationalism.
-
-He said this while addressing a public meeting in Udayanagar, Kilinochchi.
-
-The Tamil people ask whom to vote. Asking whom to choose. We say, the people, you vote for you. Yes, for you, it means to take advantage of your votes for you to win.
-
-It was only because you forgot to think clearly in the past, or voted on the basis of hope. The wrongdoers were able to seize political power.. That is what happened today.
-
-Now the people of South Sri Lanka - the Sinhalese people - are ready to correct that mistake. So there has been a new political environment. There is a situation where people are successful in politicians who are concerned about corrupt and concerned people.
-
-...
-
-[Data](articles/67ba968b.json)
-
-[Extended Data](ext_articles/67ba968b.ext.json)
 
 ---

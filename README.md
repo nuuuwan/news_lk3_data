@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 12:40:00**
+As of **2024-11-05 12:58:29**
 
 ## Newspaper Stats
 
-*Scraped **53,134** Articles*
+*Scraped **53,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,70 @@ dailymirrorlk | 4,733
 adalk | 4,956
 adaderanalk | 6,326
 tamilmirrorlk | 7,394
-virakesarilk | 8,572
+virakesarilk | 8,579
 adaderanasinhalalk | 9,264
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,134 (100.0%) of 53,134 articles have been extended.
+53,139 (100.0%) of 53,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### 14 days explanation for a person involved in money laundering alleging sending overseas
+
+*2024-11-05 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197928) · `ta`
+
+Jaffna youth arrested for alleged money laundering. Accused sent 1.45 million rupees abroad falsely. Complaint filed with District Crime Police. Suspect remanded for 14 days pending investigation.
+
+🟩
+
+A man from a Jaffna youth has been arrested in court order for allegedly sending it abroad.
+
+14 lakhs 50 thousand rupees, claiming to send a young man abroad and take no action to send it abroad.. He has lodged a complaint with the District Crime Police Division.
+
+According to the complaint, the police have arrested the suspect in Chavakachcheri area yesterday (03).
+
+Following investigations carried out by the arrested suspect, Jaffna. The Magistrate's Court has been ordered to be kept in remand for the next 14 days.
+
+◼️
+
+[Data](articles/c3f37ec0.json)
+
+[Extended Data](ext_articles/c3f37ec0.ext.json)
+
+---
+
+### Presidential Election - Struggle for Democracy ”
+
+*2024-11-05 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197923) · `ta`
+
+Kamala Harris concludes 107-day presidential campaign in Philadelphia, portraying it as a struggle for US democracy. She emphasizes voting as a continuation of the country's independence legacy.
+
+🟩
+
+The Democratic Party's presidential candidate Kamala Haris has completed her final election campaign meeting with great enthusiasm and joy.
+
+Kamala Haris has launched a 107 -day presidential campaign.
+
+Kamala Harisin's election campaign began following a telephone on Sunday that President Joe Bidan said he would quit the election.
+
+He completed his final election campaign in Philadelphia. He portrayed the presidential election as a struggle for US democracy.
+
+Tonight we are happy and happy tonight, as we started with hope and enthusiasm that day, "he said.
+
+Kamala Haris has completed her speech that we have to go to the vote in the hands of the previous generation of independence.
+
+◼️
+
+[Data](articles/e3cd7ba7.json)
+
+[Extended Data](ext_articles/e3cd7ba7.ext.json)
+
+---
 
 ### Shiran's property is banned
 
@@ -59,6 +111,34 @@ The police said that the son of Kudu Selvi is the son of Kudu Selvi, police said
 [Data](articles/7f9765e8.json)
 
 [Extended Data](ext_articles/7f9765e8.ext.json)
+
+---
+
+### Legal action against Ravi Seniviratna Shani Abayasekara - Legal action against those who defrauded
+
+*2024-11-05 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197929) · `ta`
+
+Legal action against Ravi Seniviratna and Shanani Abayasekara for fraud. Ministry of Public Security investigates unreasonable recommendations. Former president appoints commission due to allegations. Ravi Seniviratne forms organization supporting national people's power. Three-member committee established to investigate Sunday attacks.
+
+🟩
+
+The Secretary of the Ministry of Public Security is reported to be taking legal action against the retired Senior Senior Principal Ravi Seniviratne CIT, the former director of the CIT, Retired Senior Principal Shanani Abayasekara.
+
+According to reports, legal action can be taken against those responsible for the recognition of the unreasonable recommendations made by the two against the two of them.
+
+The shocking details of why the former president has urgently appointed the group following the recent allegations against the two in a report on a politically -informed Sunday attack.
+
+The Commission has been created to avenge Raviseniviratna's denial of the refusal of a former president's appeal to work with him during the presidential election.
+
+Ravi Seniviratne has formed a retired police officers organization to support the national people's power.
+
+He refused to comment on Seniviratne as to whether he had been requested to support the previous government.
+
+...
+
+[Data](articles/cf3034e6.json)
+
+[Extended Data](ext_articles/cf3034e6.ext.json)
 
 ---
 
@@ -101,6 +181,54 @@ A team from Michelin met Sri Lanka’s Export Development Board officials last w
 [Data](articles/74403373.json)
 
 [Extended Data](ext_articles/74403373.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-11-05 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197926) · `ta`
+
+US dollar exchange rate: 288.6776 rupees buying, 297.7236 selling. Released by Central Bank on Tuesday, May 5th.
+
+🟩
+
+The US dollar purchasing price was 288.6776 rupees and the sales price were 297.7236 rupees based on a currency exchange rate released by the Central Bank on Tuesday (05).
+
+◼️
+
+[Data](articles/11453e05.json)
+
+[Extended Data](ext_articles/11453e05.ext.json)
+
+---
+
+### The success of the people is the politics of the people of our people - Murukesu Chandrakumar
+
+*2024-11-05 11:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197920) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Murukesu Chandrakumar emphasizes Tamil nationalism, calling for self-sufficiency and rejecting corrupt politicians. He advocates for economic development through factories and protecting land rights.
+
+🟩
+
+To create a position where one can live on own land. To work politically for that. The national task is to actually do so. Murukesu Chandrakumar, a former parliamentarian and the chief candidate of the United People's Power of the Kilinochchi Election District, Jaffna, said that it was the lifeblood of Tamil nationalism.
+
+He said this while addressing a public meeting in Udayanagar, Kilinochchi.
+
+The Tamil people ask whom to vote. Asking whom to choose. We say, the people, you vote for you. Yes, for you, it means to take advantage of your votes for you to win.
+
+It was only because you forgot to think clearly in the past, or voted on the basis of hope. The wrongdoers were able to seize political power.. That is what happened today.
+
+Now the people of South Sri Lanka - the Sinhalese people - are ready to correct that mistake. So there has been a new political environment. There is a situation where people are successful in politicians who are concerned about corrupt and concerned people.
+
+...
+
+[Data](articles/67ba968b.json)
+
+[Extended Data](ext_articles/67ba968b.ext.json)
 
 ---
 
@@ -284,6 +412,20 @@ The arrested suspect has also been staying in a room on the same floor of the pr
 
 ---
 
+### டெலிபோன் அணிக்குள் இன்று நிகழும் விருப்பு வாக்கு போட்டியை தமிழ் வாக்காளர்கள் புரிந்து கொள்ள வேண்டும் - மனோ கணேசன்
+
+*2024-11-05 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197922) · `ta`
+
+டெலிபோன் சின்னத்துக்கு வாக்களித்து விட்டு, அந்த பட்டியலில், புரிந்துணர்வு உடன்படிக்கையுடன் கூட்டணி வேட்பாளர்களாக போட்டியிடும் எமது தமிழ் முற்போக்கு கூட்டணி வேட்பாளர்களுக்கு தமது விருப்பு வாக்குகளை முன்னுரிமை அளித்து வழங்கும்படி தமிழ் வாக்களர்களை நான் கோருகிறேன் என தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் அறிவித்துள்ளார்.
+
+கடைசியாக நடைபெற்ற ஜனாதிபதி தேர்தலில், எமது வேட்பாளராக இருந்து சஜித் பிரேமதாசவுக்கு கொழும்பு, கம்பஹா, கண்டி, கேகாலை, இரத்தினபுரி, பதுளை ஆகிய மாவட்டங்களில் வெற்றி வாக்குகளை பெற்று கொடுத்தோம். நுவரெலியா மாவட்டத்தை வென்று கொடுத்தோம். இவை தமிழ் முற்போக்கு கூட்டணியின் சாதனை வெற்றிகள்.
+
+...
+
+[Data](articles/71871334.json)
+
+---
+
 ### Easter attacks: SC calls for defense in acquittals of ex-IGP and Defence Secretary
 
 *2024-11-05 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103173/easter-attacks-sc-calls-for-defense-in-acquittals-of-ex-igp-and-defence-secretary) · `en`
@@ -343,6 +485,28 @@ Police said there were demonstrations at multiple locations in the region. Sikh 
 [Data](articles/f4609999.json)
 
 [Extended Data](ext_articles/f4609999.ext.json)
+
+---
+
+### இறக்குமதி செய்யப்படும் சீனிக்கான விசேட பண்ட வரி நீடிப்பு
+
+*2024-11-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197917) · `ta`
+
+இறக்குமதி செய்யப்படும் சீனிக்கு, இதுவரை விதிக்கப்பட்டிருந்த விசேட பண்ட வரி மேலும் நீடிக்கப்பட்டுள்ளது.
+
+இறக்குமதி செய்யப்படும் ஒரு கிலோகிராம் சீனிக்கு கடந்த வருடம் நவம்பர் மாதம் முதலாம் திகதி முதல் ஒரு வருட காலத்திற்கு 50 ரூபா விசேட வர்த்தக பண்ட வரி விதிக்கப்பட்டது.
+
+அதன் செல்லுபடியாகும் காலம் நவம்பர் 1 ஆம் திகதி முடிவடைய இருந்த நிலையில்  அரசாங்கம் குறித்த விசேட வர்த்தக பண்ட வரியை டிசம்பர் 31 ஆம் திகதி வரை நீடிக்க நடவடிக்கை எடுத்துள்ளது.
+
+நிதியமைச்சர் என்ற வகையில் ஜனாதிபதி அநுரகுமார திஸாநாயக்கவினால் வெளியிடப்பட்ட வர்த்தமானி அறிவித்தலின் ஊடாக இந்த வரி நீடிக்கப்பட்டுள்ளது.
+
+முன்னர் அத்தியாவசியப் பொருட்களுக்கான வரிகளை குறைப்பதாக வாக்குறுதிகள் வழங்கப்பட்டிருந்த போதிலும், அவற்றின் மீதான வரிகளை குறைக்காமல் அவ்வாறே பேணுவதாக விமர்சித்தார்.
+
+உணவுப் பொருட்களின் மீதான வரிச் சுமையைத் தளர்த்துவதாக அரசாங்கம் பகிரங்கமாக உறுதியளித்துள்ள அதேவேளை, சீனி இறக்குமதிக்கான வரியைத் தக்கவைக்க நடவடிக்கை எடுத்துள்ளதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+◼️
+
+[Data](articles/cc9c8b46.json)
 
 ---
 
@@ -2153,179 +2317,5 @@ But it was a long time. This is a long thought we have brought. I personally wor
 [Data](articles/2d002383.json)
 
 [Extended Data](ext_articles/2d002383.ext.json)
-
----
-
-### Trying to intimidate votes in Batticaloa;The Department of Elections to hold elections democratically - T. Suresh
-
-*2024-11-04 20:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197901) · `ta`
-
-Intimidation attempts in Batticaloa elections; Election Department ensures democratic voting; Organizer T. Suresh calls for rejecting corrupt candidates; Tamil leaders push for 13th Amendment implementation; Gajendrakumar team aims to secure 10 seats to thwart presidential conspiracy.
-
-🟩
-
-In Batticaloa, in the past, the votes of the people in the past are threatening the votes of the people in the past, and the Tamil people are now engaged in the votes of threatening mothers and getting votes in the village, so the Tamil people have to handle this election, while the election department and the presidential election monitoring committee should act in the bicycle party.Organizer T. Suresh said.
-
-He was speaking at a press conference held on Monday (4) at the Wes of Media Leave, Batticaloa.
-
-With the election campaign in Batticaloa, the polls are dealing with the most tight elections since 2009. In the past, the corrupt people who threatened their weapons and the chief ministerial positions and other privileges of Parliament and other privileges have been going on a democratic voting among the people..
-
-Especially when I was campaigning in my hometown of Paduwankarai area in Paduwankarai area in Paduwankarai area in Paduwankarai area in Jayanthipuram.
-
-...
-
-[Data](articles/7b9c9484.json)
-
-[Extended Data](ext_articles/7b9c9484.ext.json)
-
----
-
-### Petroleum Corporation reveals about fuel revision
-
-*2024-11-04 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202909) · `si`
-
-Ceylon Petroleum Corporation announces fuel price revision due to supplier agreements. Price changes based on political decisions rather than market conditions. Company reports 120 billion rupees profit last year but faces challenges in independent pricing due to industry constraints and government intervention.
-
-🟩
-
-The Ceylon Petroleum Corporation says that due to the fuel supplier agreements, the Ceylon Petroleum Corporation says.
-
-He was speaking at a press conference held at a media briefing held in a press conference held today.
-
-"When you run without a price formula, the price is determined on political needs. When there is a vote, the price will be reduced. Changes back. The Petroleum Corporation of Ceylon Petroleum Corporation loans for 3 billion results. Because the price is sold less than the price. "
-
-"After that, the price formula is right, I think last year 120 billion profits last year. 27 billion has a profit to the petroleum. "
-
-...
-
-[Data](articles/1616507f.json)
-
-[Extended Data](ext_articles/1616507f.ext.json)
-
----
-
-### Suspect arrested with weapons including AK-47, pistol and swords
-
-*2024-11-04 20:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103161/suspect-arrested-with-weapons-including-ak-47-pistol-and-swords) · `en`
-
-A suspect arrested with a cache of weapons including an AK-47 type firearm, a pistol and ammunition during a special operation carried out by the Police Special Task Force (STF) in the Embilipitiya area today.
-
-The operation was caried out according to information received from the Police Special Bureau.
-
-Accordingly, a suspect was arrested with an AK-47 assault rifle with one magazine and bullets, a 9mm pistol with one magazine and bullets, two swords and a dagger during the special operation conducted in Embilipitiya today (4).
-
-The arrested suspect is believed to have connections with notorious underworld criminals infamously known as “Unakoruwe Japan Shantha” who is currently hiding overseas and “Podi Lassi” who is in remand custody.
-
-Police said that the 59-year-old suspect is a retired army soldier, who is residing in the Kothalawala area of Embilipitya.
-
-◼️
-
-[Data](articles/981228b3.json)
-
-[Extended Data](ext_articles/981228b3.ext.json)
-
----
-
-### Magistrate's bail
-
-*2024-11-04 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197900) · `ta`
-
-Akkaraipattu Magistrate's Court: Female lawyer arrested for suspected welfare fraud. Released on bail after court appearance. Further investigation ongoing.
-
-🟩
-
-The Akkaraipattu Magistrate's Court Magistrate ACMM ACMM, including a female lawyer arrested by the District Criminal Investigation Division on suspicion of selling a welfare welfare in Akkaraipattu.. Rizwan was released on Monday (4) bail.
-
-A lawyer has confirmed to sell a welfare support of a woman from the area.
-
-The district criminal investigation into the matter was arrested on Monday (4) on suspicion of suspicion of a female lawyer who wrote the confirmation and two men, including a witness.
-
-The arrested persons were released on bail when the Magistrate was produced before the Magistrate's Court on Monday (4).
-
-Further investigations are being carried out by the District Criminal Investigation Division.
-
-◼️
-
-[Data](articles/437a76a8.json)
-
-[Extended Data](ext_articles/437a76a8.ext.json)
-
----
-
-### Firearms in Embilipitiya
-
-*2024-11-04 19:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202908) · `si`
-
-STF arrests suspect in Embilipitiya, finds AK 47, magazines, and other items. Operation based on police tip.
-
-🟩
-
-A suspect in the Embilipitiya area has been arrested by the STF in the Embilipitiya area.
-
-The operation had been carried out on information received by the Police Special Bureau.
-
-AK 47 firearm, magazine, magazine, and a kings and a kinis have been found.
-
-◼️
-
-[Data](articles/fd3173fa.json)
-
-[Extended Data](ext_articles/fd3173fa.ext.json)
-
----
-
-### If cutting prices and margarine reduces the price of bread. Gives to 100
-
-*2024-11-04 19:38:00* · [`adalk`](https://www.ada.lk/breaking_news/තිරිගු-පිටි-හා-මාගරින්-මිල-අඩු-කළොත්-පාන්-ගෙඩියක්-රු--100ට-දෙනවා/11-412858) · `si`
-
-Bakery owners association president proposes reducing bread price from 100 to 50 rupees. Recommends lowering wheat flour cost to 150 rupees per kilo to achieve this goal. Aims to provide relief to consumers through lower bakery product prices.
-
-🟩
-
-The All Ceylon Bakery Owners Association President NK is the Chairman of All Ceylon Bakery Owners Association (All Ceylon Bakery Owners) to reduce the prices of Rs. 100 to Rs.. He said.
-
-He also said that the prices of other bakery manufacturers can reduce great relief to the people.. To reduce this price, a kilo of wheat flour should be reduced to Rs. 150 and Rs. 150 and Rs.
-
-The Chairman pointed out that the proposal of Rs.
-
-Therefore, it is believed that the prices of bread, cakes and other bakery products can be relieved and reduced to the consumer's propaganda to reduce the prices of the bread, cake and other bakery products.
-
-◼️
-
-[Data](articles/a772bc28.json)
-
-[Extended Data](ext_articles/a772bc28.ext.json)
-
----
-
-### This is how the ballot paper comes on the general election
-
-*2024-11-04 19:27:30* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ-ඡන්ද-පත්‍රිකාව-එන්නේ-මෙහෙමයි/11-412857) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-General election ballot paper: One column format. Voters choose one party/group. Mark preferences for up to 3 candidates. No voting for multiple parties/groups allowed. Use "X" to indicate votes and preferences.
-
-🟩
-
-One column and the ballot papers regarding Polonnaruwa, Moneragala and Kegalle Electoral districts have been printed to two strikes.
-
-The Elections Commission states that every voter has one voter and it will be given to a political party or independent group.
-
-The accepted political party should vote and votes by applying the name of the name and marks of the independent group or the blank box in the front box.
-
-It is said that after that, a number of candidates can express their preference to three candidates in the political party or independent group.
-
-The preference can be given to mark the preference of the candidate of the ballot.
-
-The Elections The Elections states that if the ballot may not be looked after the ballot, if they vote for more than one political parties or to vote for more than one independent group.. It is also requested to use the vote (x) to provide votes and preference.
-
-◼️
-
-[Data](articles/5ad0e659.json)
-
-[Extended Data](ext_articles/5ad0e659.ext.json)
 
 ---

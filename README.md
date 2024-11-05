@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 03:40:24**
+As of **2024-11-06 04:12:01**
 
 ## Newspaper Stats
 
-*Scraped **53,240** Articles*
+*Scraped **53,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,74 @@ dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
 tamilmirrorlk | 7,411
-virakesarilk | 8,603
+virakesarilk | 8,605
 adaderanasinhalalk | 9,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,240 (100.0%) of 53,240 articles have been extended.
+53,242 (100.0%) of 53,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### The body of a male at the old bus station in Vavuniya
+
+*2024-11-06 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197986) · `ta`
+
+Body found at Vavuniya bus station. Forensic investigation ongoing. Judge visits scene. Vavuniya Police conducting further inquiries.
+
+🟩
+
+The body of a man has been recovered at the old bus station in Vavuniya, Vavuniya police said.
+
+Meanwhile, in response to the investigation by the forensic police, the judge had visited the law.
+
+Further investigations are being carried out by the Vavuniya Police.
+
+◼️
+
+[Data](articles/9ef3dd46.json)
+
+[Extended Data](ext_articles/9ef3dd46.ext.json)
+
+---
+
+### Overall Champion Maliyadeva in all categories
+
+*2024-11-06 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197985) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Champion Maliyadeva wins all categories in 31st All Ceylon Schools Webball tournament. Finals for under-4, quarter-finals ongoing. Teams from various schools qualify for next rounds.
+
+🟩
+
+The 31st All Ceylon Schools of Sri Lanka, organized by the Sri Lanka Schools Webball Association under the guidance of the Ministry of Education with the full sponsorship of the Nestle Millo Business Name, are being held at the Matara Matara Stadium.
+
+The final round is being held in the under -four -year -old sections of the 13, 15, 17 and 19.
+
+Most of the pioneering quarter -finals will be held until the second day of the competition and a few pioneering quarter -finals will be held tomorrow.
+
+The entire Champion Kurunegala Maliyadeva Women's Vidyalaya is qualified to play in the quarter -finals of four years.
+
+In the under -19 A category, Kalutara Thirukkudumba virgins are eligible to play at the end of the quarterly.
+
+In the under -17 category, Kandy Hilwood, Colombo Devi Balika, Kalutara Thirukkudumba Nunnas Math, Nugegoda Anula, Homagama Siripiyarathana, Puttalam Carmel Women V.
+
+In the under -15 category. V. and Vennapu Thirukkudumba KM are eligible to play in the quarter -finals.
+
+...
+
+[Data](articles/db200627.json)
+
+[Extended Data](ext_articles/db200627.ext.json)
+
+---
 
 ### Rice shortage, unlikely to increase the price of rice - AL Randika
 
@@ -2441,43 +2497,5 @@ A team from Michelin met Sri Lanka’s Export Development Board officials last w
 [Data](articles/566f2c85.json)
 
 [Extended Data](ext_articles/566f2c85.ext.json)
-
----
-
-### Sri Lanka needs policies to increase rubber production, make use of FTAs: Michelin
-
-*2024-11-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-to-implement-policies-to-increase-rubber-production-make-use-of-ftas-michelin-186117/) · `en`
-
-ECONOMYNEXT – Global tyre manufacturer Michelin has said the Sri Lanka government needs to implement proactive policies to increase rubber production in the island to provide impetus to value-added rubber products, and take steps to expand market access through free trade agreements.
-
-A team from Michelin met Sri Lanka’s Export Development Board officials last week (Nov 1) to discuss further opportunities in the island nation’s rubber manufacturing sector.
-
-“The representatives of Michelin pointed out that the government needs to implement proactive policies to increase rubber production in Sri Lanka to provide impetus to value-added rubber products while taking initiatives to expand market access through FTAs,” a statement by the EDB said.
-
-“They also stressed the necessity of establishing a dedicated rubber zone to manufacture different types of rubber products in the island.”
-
-...
-
-[Data](articles/74403373.json)
-
-[Extended Data](ext_articles/74403373.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-05 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197926) · `ta`
-
-US dollar exchange rate: 288.6776 rupees buying, 297.7236 selling. Released by Central Bank on Tuesday, May 5th.
-
-🟩
-
-The US dollar purchasing price was 288.6776 rupees and the sales price were 297.7236 rupees based on a currency exchange rate released by the Central Bank on Tuesday (05).
-
-◼️
-
-[Data](articles/11453e05.json)
-
-[Extended Data](ext_articles/11453e05.ext.json)
 
 ---

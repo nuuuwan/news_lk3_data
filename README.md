@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 20:25:14**
+As of **2024-11-05 20:40:23**
 
 ## Newspaper Stats
 
-*Scraped **53,216** Articles*
+*Scraped **53,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,111 +16,219 @@ islandlk | 3,181
 economynextcom | 3,226
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,968
-adaderanalk | 6,338
+adalk | 4,969
+adaderanalk | 6,339
 tamilmirrorlk | 7,403
 virakesarilk | 8,598
-adaderanasinhalalk | 9,275
+adaderanasinhalalk | 9,276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,210 (100.0%) of 53,216 articles have been extended.
+53,216 (100.0%) of 53,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### பனை அபிவிருத்தி அதிகார சபையின் தலைவர் நியமனம்; ஊழலற்ற தேசம் என்ற நிலைப்பாட்டை கேள்விக்குறியாக்கியுள்ளது
+### ජනපති දූෂිත රාජ්‍ය නිලධාරීන්ගේ තොරතුරු ඉල්ලයි
+
+*2024-11-05 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202942) · `si`
+
+රාජ්‍ය නිලධාරීන් කප්පම් හෝ අල්ලස් ඉල්ලන්නේ නම් ඔවුන් පිළිබඳ තොරතුරු ලබාදෙන්නැයි තමා ඉල්ලා සිටින බවත්, එලෙස ක්‍රියාකරන නිලධාරීන් රැකියාවෙන් ඉවත් කිරීමට පියවර ගන්නා බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජාතික ජන බලවේගය ඊයේ (04) සංවිධාන කළ මොනරාගල ජන රැලියට එක්වෙමින් ජනාධිපතිවරයා මේ බව අවධාරණය කළේය.
+
+"පළමු වතාවට දූෂිත ප්‍රභූ පාලනයෙන් පොදුජනතාවගේ අතට බලය මාරු වුණා. රිදෙන්නේ නැද්ද?... රිදෙනවා...දුක ඇති ගොඩක්... දැන් නැවත උත්සාහ කරනවා මේක පරාජය කරන්න සහ වට්ටන්න. මේක එහෙම වට්ටන්නත් බැහැ, පරාජය කරන්නත් බැහැ. ඒවා ඒ ගොල්ලෝ දුකට කියන කතා. ඇත්තටම සමහරවිට ඒ ගොල්ලෝ රෑට කොට්ටේ බදාගෙන අඬනවත් ඇති. මොකක්ද මේ වුණේ කියලා... ඔවුන් හැමදාම හිතුවේ ජනතාව රවට්ටන්න, බියවද්දන්න.  චන්ඩින්ගේ පාලනය අවසන්... අර වීරප්පන්ලා පාලනය කරනවා වගේ තමයි මේ අප්පන්ලා රට පාලනය කළේ. ඒවා අවසන් කරන්න ඕනේ."
+
+...
+
+[Data](articles/fbc2ce85.json)
+
+---
+
+### Functioning of public service must change to achieve govt’s objectives – President
+
+*2024-11-05 20:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103190/functioning-of-public-service-must-change-to-achieve-govts-objectives-president) · `en`
+
+President Anura Kumara Dissanayake stated that rural development and upgrading the rural people’s social and economic well-being is one of the primary objectives of the government during this term, the President’s Media Division (PMD) reported.
+
+The President expressed these views during a discussion held today (05) at the Presidential Secretariat with members of the Sri Lanka Administrative Service Association (SLAS).
+
+The President highlighted the necessity of public officials cooperating with the government to successfully implement government initiatives, noting that the experiences of government officials is valued and instrumental to implement government policy.
+
+The President pointed out that there is a gap between the government’s objectives and the traditional operational modalities of the public service. To ensure the effectiveness of government programs aimed at national development, he stated that the functioning of public administration also has to change, according to the PMD.
+
+...
+
+[Data](articles/e34602d0.json)
+
+---
+
+### Appointment of Chairman of the Palm Development Authority;Has questioned the position of a corrupt nation
 
 *2024-11-05 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197980) · `ta`
 
-யாழ்ப்பாணத்தில் உள்ள பனை அபிவிருத்தி அதிகார சபையின் தலைவராக ஊழல் மோசடி நிறைந்த ஒருவரை  நியமித்துள்ளமையானது ஜனாதிபதி அனுரகுமார திசநாயக்கவின் ஊழலற்ற தேசம் என்ற நிலைப்பாட்டை கேள்விக்குறியாக்கியுள்ளது என ஈ.பி.டி.பியின் ஊடக பேச்சாளரும் நாடாளுமன்ற தேர்தல் வேட்பாளருமான ஐயாத்துரை சிறீரங்கேஸ்வரன் தெரிவித்துள்ளார்
+Here's a 200-character summary:
 
-யாழ் ஊடக அமையத்தில் செவ்வாய்க்கிழமை (05) நடைபெற்ற ஊடக சந்திப்பின் போதே அவ்வாறு தெரிவித்தார்.
 
-தற்போதைய ஜனாதிபதி அனுரகுமார திசநாயக்க ஊழலை ஒழிப்போம் ஊழல் வாதிகளுக்கு தமது அரசில் எந்தவொரு இடத்திலும் பதவி நிலை வழங்கப்படாது என கருத்தை முன்வைத்தே ஆட்சி அதிகாரத்தை பெற்றுக்கொண்டார்.
 
-இந்நிலையில் தற்போது யாழ்ப்பாணத்தில் உள்ள பனை அதிகார சபையின் தலைவராக நியமிக்கப்பட்டுள்ளவர் தனியார் நிறுவனங்களில் பதவிநிலை வகித்து பல்வேறு வகைகளில் பல கோடிகளை ஊழல் மோசடிகளை செய்தவர் என கூறப்படுகின்றது. இவை கடந்தகாலஙகளில் சமூக ஊடகங்களிலும் வெளியாகியிருந்தன.
+EPDP spokesperson Iyathurai Srirangeswaran criticizes appointment of corrupt head Palm Development Authority Jaffna, questioning President Anura Kumara Dissanayake's stance on corruption. Appointment may impact labor investments and economic stability.
+
+🟩
+
+EPDP's media spokesman and parliamentary election candidate Iyathurai Srirangeswaran has said that the appointment of a corrupt man as the head of the palm development authority in Jaffna has questioned the position of President Anura Kumara Dissanayake's corrupt nation.
+
+He said this during a media briefing held at the Jaffna Media Center on Tuesday (05).
+
+The current President Anurakumara Dissanayake has gained the power to eradicate the corruption of corruption.
+
+It is said that the head of the Palm Authority in Jaffna is said to have been promoted to private companies and has made many crores of corruption scandals.. These have been published in social media in the past.
+
+The appointment of such a fraudulent person as the Chairman of the Palm Development Authority has questioned President Anura's view or his position and disturbed the people who voted for him.
+
+The appointment will face further impact as the labor and investments of the sector are in question.
 
 ...
 
 [Data](articles/f7be8651.json)
 
+[Extended Data](ext_articles/f7be8651.ext.json)
+
 ---
 
-### பூசணிக்காயில் படகு சவாரி செய்து கின்னஸ் சாதனை
+### Guinness record of boat riding in pumpkin
 
 *2024-11-05 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197963) · `ta`
 
-பூசணிக்காய் என்ற உடன்  கறி சமைக்கவும், ரசம் தயாரிக்கவும் பயன்படுகிறது.இந்துக்கள் இறை வழிபாடுகளில் பயன்படுகிறது. ஹாலோவீன் தினத்திற்கு பயன்படுகிறது என்று தான் நாம் கேட்டு அறிந்து இருப்போம்.
+Here's a 200-character summary:
 
-ஆனால் எங்காவது பூசணிக்காயில்  படகு சவாரி செய்த சம்பவம் குறித்து அறிந்து இருக்கிறோமா இல்லை.
 
-பூசணிக்காய் மீது  அலாதி பிரியம்  கொண்ட அமெரிக்காவைச் சேர்ந்த கேரி கிறிஸ்டென்சன் 555 கிலோ பூசணிக்காய் வளர்த்து அதை படகாக பயன்படுத்தி  73.5 கிலோ மீற்றர் பயணித்துகின்னஸ் சாதனை  படைத்துள்ளார்.
 
-கேரி கடந்த 2011  ஆம் ஆண்டு முதல் பெரிய பூசணிக்காய்களை வளர்க்க ஆரம்பித்தார். ஆனால் பூசணிக்காய் படகில் பயணம் செய்ய வேண்டும் என்ற அவரது கனவு 2013 ஆம் ஆண்டு வெஸ்ட் கோஸ்ட் பகுதியில் நடத்தப்படும் பெரிய பூசணிக்காய் படகு போட்டி நிகழ்வில் (Giant Pumpkin Regatta-an event) கலந்து கொண்டபோது  தோன்றியுள்ளது.
+Gary breaks Guinness record with 73.5km pumpkin boat ride across Columbia River. He grew massive 555kg pumpkin, carved it into "Funky Lopter," and navigated treacherous waters for 26 hours. His perseverance and pumpkin's buoyancy helped him succeed where others failed.
 
-பல வருடங்களுக்கு பிறகு இவ் ஆண்டு  சரியான அளவில் பூசணிக்காயை வளர்த்து சாதனை புரிய தீர்மானித்தார்.
+🟩
+
+It is used to cook curry and prepare the taste with pumpkin.. We will know that Halloween is used for the day.
+
+But we are not aware of the incident of a boat ride somewhere in the pumpkin.
+
+Carrie Christenson from the United States, who has a love for pumpkin, has grown 555 kg of pumpkin and uses it as a boat.
+
+Gary started raising large pumpkins since 2011. But his dream of traveling on the Pumpkin boat appeared in the 2013 West Coast area of ​​the Giant Pumpkin Regatta-An Event.
+
+After many years, he decided to develop the proper amount of pumpkin this year.
+
+In mid -July, the pumpkin was subjected to pollen and harvested at the beginning of October. Its perimeter has been 429.26 meters (169 inches) and 555.2 kg.
+
+It is reported to be a large big piano or an adult camel mass.
+
+After carving the pumpkin, he named it "Funky Lopter" on October 11.
+
+From October 12 to 13, he crossed the Pumpkin boat 73.50 km in 26 hard hours across the Columbia River.
 
 ...
 
 [Data](articles/0d871ba1.json)
 
+[Extended Data](ext_articles/0d871ba1.ext.json)
+
 ---
 
-### மாமியார் மீது துப்பாக்கி பிரயோகம்! மருமகன் தலைமறைவு
+### Firing on mother -in -law!Nephew hugs
 
 *2024-11-05 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197979) · `ta`
 
-வவுனியா சுந்தரபுரம் பகுதியில் இளைஞர் ஒருவர் மேற்கொண்ட நாட்டுத்துப்பாக்கிப்பிரயோகத்தில் பெண் ஒருவர் படுகாயமைடந்த நிலையில் வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Woman injured by son-in-law's gunfire in Vavuniya. Police hunting suspect.
 
-4ஆம் திகதி திங்கட்கிழமை குறித்த பெண்ணின் வீட்டிற்கு சென்ற அவரது மருமகன் நாட்டுத்துப்பாக்கியால் பெண்ணின் வாய்ப்பகுதியில் சுட்டுள்ளார். இதனால் படுகாயமடைந்த பெண் உடனடியாக மீட்கப்பட்டு வவுனியா வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+🟩
 
-சம்பவத்தில் சுந்தரபுரம் பகுதியைசேர்ந்த 54 வயதான பெண்ணே படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டார்.
+A woman has been admitted to the Vavuniya Hospital after being injured in a nationwide use of a youth in Sundarapuram in Vavuniya.
 
-தாக்குதலை மேற்கொண்ட நபர் தலைமறைவாகியுள்ள நிலையில் அவரை கைதுசெய்வதற்கான நடவடிக்கைகளில் பொலிசார் ஈடுபட்டுள்ளனர்.
+Her son -in -law, who went to the woman's house on Monday, 4th, shot in the woman's chance. The injured woman was immediately rescued and admitted to the Vavuniya Hospital.
+
+A 54 -year -old woman from Sundarapuram has been admitted to hospital with injuries.
+
+Police are engaged in the arrest of the attacker as the attacker is in hiding.
 
 ◼️
 
 [Data](articles/28ca93d0.json)
 
+[Extended Data](ext_articles/28ca93d0.ext.json)
+
 ---
 
-### நடிகர் நகுல் நடிக்கும் 'டார்க் ஹெவன்' படத்தின் அறிமுக காணொளி வெளியீடு
+### Actor Nakul's debut video release 'Dark Heaven'
 
 *2024-11-05 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197971) · `ta`
 
-'நாக்க முக்க ' புகழ் நடிகர் நகுல் கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'டார்க் ஹெவன்' எனும் திரைப்படத்தின் அறிமுக காணொளி வெளியிடப்பட்டிருக்கிறது.
+Actor Nakul debuts in "Dark Heaven", directed by Balaji. Gothic thriller based on Nadar stories. Nakul plays police officer role. Film crew event in Chennai.
 
-'D3 ' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் பாலாஜி இயக்கத்தில் உருவாகி இருக்கும் 'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நகுல், சரண், டேனி தயாள், அலெக்ஸ், கோதை சந்தானம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி.கே. மணிகண்டன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சக்தி பாலாஜி இசையமைத்திருக்கிறார்.
+🟩
 
-இந்த திரைப்படத்தை கோதை என்டர்டெய்ன்மென்ட் மற்றும் எஸ். எம். மீடியா ஃபேக்டரி ஆகிய பட நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+The debut video of the film 'Dark Heaven', which plays the lead role as the hero of 'Nakka Mukkam', has been released.
 
-இந்த திரைப்படத்தின் படப்பிடிப்பு பணிகள் நிறைவடைந்து தற்போது படப்பிடிப்புக்கு பிந்தைய தொழில்நுட்ப பணிகள் விறுவிறுப்பாக நடைபெற்று வருகிறது.
+Directed by director Balaji, directed by director Balaji, Nakul, Saran, Danny Dayal, Alex, Gothi Santhanam and many others have starred in 'Dark Heaven' directed by Balaji.. P.C.. Shakti Balaji has composed the film, which is being recorded by Manikandan.
 
-இந்நிலையில் இப்படத்தின் அறிமுக காணொளி வெளியிடப்பட்டது. இதற்காக சென்னையில் நடைபெற்ற பிரத்யேக நிகழ்வில் படக் குழுவினர் பங்கு பற்றினர்.
+This movie is a Gothic Entertainment and S. M.. Media Factory is co -produced by film companies.
+
+The shooting of the film is completed and the post -shooting technical work is currently underway.
+
+In this case, the film's debut video was released. The film crew participated in a special event in Chennai.
+
+Director Balaji said, “We have created the film in the Investigate thriller Janer, focusing on the traditional told Nadar stories.. After 'Kandara', we have once again embraced the stories of the people's confidence in the southern parts of Tamil Nadu and set up its screenplay.
 
 ...
 
 [Data](articles/d713d76f.json)
 
+[Extended Data](ext_articles/d713d76f.ext.json)
+
 ---
 
-### பிரித்தானிய உயர்ஸ்தானிகர் பாதுகாப்பு செயலாளரருடன் சந்திப்பு
+### හිටපු නියෝජ්‍ය ඇමතිගේ දඩුවම තහවුරුයි
+
+*2024-11-05 18:59:59* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නියෝජ්‍ය-ඇමතිගේ-දඩුවම-තහවුරුයි/11-412873) · `si`
+
+පුත්‍රයාට විදුලිබල මණ්ඩලයේ රැකියාවක් දීමට මවගෙන් රුපියල් 50,000ක අල්ලසක් ඉල්ලා ලබා ගැනීමේ චෝදනාවන්ට වරදකරු කරමින් හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්න මහතාට වසර හතරක බරපතළ වැඩ සහිත සිරදඬුවම් සහ රුපියල් 10,000ක දඩයක් නියම කරමින් කොළඹ මහාධිකරණය නියම කළ නියෝගය සහ දඬුවම් අභියාචනාධිකරණය අද (05දා) තහවුරු කළේය.
+
+අදාළ චෝදනාවන්ට තමන් වරදකරු කරමින් කොළඹ මහාධිකරණය නියම කළ නියෝගය සහ දඬුවම් ඉවත දමන්නැයි ඉල්ලා හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්න මහතා ගොනු කළ අභියාචනා පෙත්සම නිෂ්ප්‍රභ කළ අභියාචනාධිකරණය කොළඹ මහාධිකරණ විනිසුරු පියසේන රණසිංහ මහතා නියම කළ නියෝගය සහ දඬුවම් තහවුරු කළේය.
+
+අභියාචනාධිකරණ විනිසුරුවරුන් වන සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු ම‍‍ඬුල්ල අදාළ තීන්දුව ප්‍රකාශයට පත් කළහ.
+
+2007 නොවැම්බර් මස පළමුවැනිදාත් දෙසැම්බර් 26වැනිදාත් අතර කාලයේ අම්පාරයේදී විදුලිබල මණ්ඩලයේ රැකියාවක් ලබාදෙන බව බවසා ජී. පුංචිනෝනා නමැත්තියගෙන් රුපියල් 50,000ක අල්ලසක් ඉල්ලා ලබා ගැනීම ඇතුළු චෝදනා යටතේ අල්ලස් කොමිසම විසින් විත්තිකරුට එරෙහිව කොළඹ මහාධිකරණයේ නඩු පවරා තිබිණි.
+
+...
+
+[Data](articles/01ba682c.json)
+
+---
+
+### Meeting with British High Commissioner Defense Secretary
 
 *2024-11-05 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197978) · `ta`
 
-இலங்கைக்கான பிரித்தானிய உயர்ஸ்தானிகர் அன்ட்ரூ பட்ரிக்  பாதுகாப்பு  செயலாளர் எயார் வைஸ் மார்ஷல் சம்பத் தூயகொந்தாவை (ஓய்வு) செவ்வாய்க்கிழமை (05)  ஸ்ரீ ஜயவர்தனபுர, கோட்டையிலுள்ள பாதுகாப்பு தலைமையக வளாகத்தில் மரியாதை நிமித்தம் சந்தித்தார்.
+Here's a 200-character summary:
 
-இச்சந்திப்பின் போது, இருதரப்பு முக்கியத்துவம் மற்றும் பரஸ்பரம் முக்கியத்துவம் வாய்ந்த விடயங்கள் தொடர்பாக பாதுகாப்பு செயலாளருக்கும் பிரித்தானிய உயர்ஸ்தானிகருக்கும் இடையில் சுமுகமான கலந்துரையாடல் இடம்பெற்றது.
 
-பாதுகாப்பு அமைச்சின் இராணுவ இணைப்பு அதிகாரி எயார் வைஸ் மார்ஷல் பத்மன் டி கொஸ்தா மற்றும் கொழும்பில் உள்ள பிரித்தானிய உயர்ஸ்தானிகராலயத்தின் பாதுகாப்பு ஆலோசகர் ஆகியோரும் இந்நிகழ்வில் கலந்துக் கொண்டனர்.
+
+British High Commissioner Andrew Patturik met Defense Secretary Air Vice Marshal Sampath at Sri Jayawardenapura fortress. Discussion focused on bilateral significance and mutual importance. Ministry of Defense representative Padman de Kosta and British Defense Advisor also attended.
+
+🟩
+
+British High Commissioner to Sri Lanka Andrew Patturik Defense Secretary Air Vice Marshall Sampath Sampath (Retired) on Tuesday (05) met with honor at the security headquarters in the fortress, Sri Jayawardenapura.
+
+During the meeting, there was a smooth discussion between the Defense Secretary and the British High Commission on the bilateral significance and mutual importance.
+
+Air Vice Marshal Padman de Kosta of the Ministry of Defense Ministry and the Defense Advisor of the British High Commission in Colombo was also present.
 
 ◼️
 
 [Data](articles/13566367.json)
+
+[Extended Data](ext_articles/13566367.ext.json)
 
 ---
 
@@ -508,21 +616,29 @@ ECONOMYNEXT – Delays in clearing cargo in Sri Lanka is pushing up costs for bu
 
 ---
 
-### தேசிய மக்கள் சக்திக்கு அரசியல் அனுபவம் இருந்தாலும் அரசாங்கம் நிர்வகித்த அனுபவம் இல்லை - சாகல ரத்நாயக்க
+### Despite the political experience of the national people's power, the government has no experience - Sagala Ratnayake
 
 *2024-11-05 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197966) · `ta`
 
-தேசிய மக்கள் சக்திக்கு அரசியல் செய்து அனுபவம் இருக்கிறது. ஆனால் அரசாங்கம் செய்த அனுபவம் இல்லை. அதனால்தான் பாெருளாதாரத்தை கட்டியெழுப்பும் வேலைத்திட்டத்தை அவர்கள் இன்னும் நாட்டுக்கு வெளிப்படுத்தாமல் இருக்கின்றனர். அவ்வாறான வேலைத்திட்டம் அவர்களிடம் இல்லை என புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளர் சாகல ரத்நாயக்க தெரிவித்தார்.
+National People's Power experienced in politics, but government lacks vision. No development plan presented. Economy declining; need clear strategy to revive growth. Government must reveal its economic roadmap to address current challenges.
 
-கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணியின் தேர்தல் வழிநடத்தல் காரியாலயத்தில் செவ்வாய்க்கிழமை (05) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+🟩
 
-தேசிய மக்கள் சக்திக்கு அரசாங்கம் செய்த அனுபவம் இல்லை என்பது அவர்களின் கடந்த ஒரு மாதகால நடவடிக்கைகளில் இருந்து தெரிந்துகொள்ள முடியும். ஜனாதிபதி உள்ளிட்ட அரசாங்கம் இன்னும் எதிர்க்கட்சியில் இருந்துகொண்டு விமர்சன அரசியல் செய்வது போன்றே தற்போது செயற்பட்டு வருகிது.
+There is experience in politics for national people's power. But the government has no experience. That is why they have not yet revealed the program to build the bargain. The new Democratic Front's Colombo district candidate Sagala Ratnayake said they had no such program.
 
-நாட்டை நிர்வகிக்கும் அவர்களுக்கு ஒரு முறையான வேலைத்திட்டம் இருக்க வேண்டும். நாட்டை முன்னெடுத்துச் செல்வதற்கு பயணப்பாதை இருக்க வேண்டும்.
+He was speaking at a press conference held at the New Democratic Front's election office in Colombo on Tuesday (05).
+
+The government has no experience of the national people's power to know from their last one month's actions. The government, including the president, is still in the opposition and is now acting like criticism.
+
+They must have a formal program to manage the country. There should be a travel way to advance the country.
+
+But so far they have not put forward any such program to the country. This is due to their lack of experience.
 
 ...
 
 [Data](articles/bb133aad.json)
+
+[Extended Data](ext_articles/bb133aad.ext.json)
 
 ---
 
@@ -2353,73 +2469,5 @@ The achievement of the 2025 revenue targets, including the primary surplus targe
 [Data](articles/14e15081.json)
 
 [Extended Data](ext_articles/14e15081.ext.json)
-
----
-
-### Consistent updates on economic strategies needed from Sri Lanka gov: Former minister
-
-*2024-11-05 10:42:00* · [`economynextcom`](https://economynext.com/consistent-updates-on-economic-strategies-from-sri-lanka-government-needed-former-minister-186109/) · `en`
-
-ECONOMYNEXT – There is no clear communication from the Sri Lanka government on its economic strategies, former State Minister of Finance Shehan Semasinghe has said.
-
-“Firm and transparent messaging would prevent speculation and mitigate the spread of inaccurate information,” Semasinghe said on social media platform X (twitter).
-
-“Consistent updates from the government on economic strategies, along with clear timelines for policy implementations, would provide assurance that these commitments are being honored.”
-
-The former minister who worked with the International Monetary Fund team after Sri Lanka’s economic crisis, said it was “crucial for public understanding to have clarity on how these steps contribute to overall economic recovery and stability”.
-
-The achievement of the 2025 revenue targets, including the primary surplus target of 2.3 percent of GDP, is tied to lifting vehicle import restrictions, Semasinghe said.
-
-...
-
-[Data](articles/5a8b4ad4.json)
-
-[Extended Data](ext_articles/5a8b4ad4.ext.json)
-
----
-
-### Oral Summitry Order in the Passover case against Hemasiri - Philem
-
-*2024-11-05 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202924) · `si`
-
-Supreme Court overturns High Court acquittal in Passover case against Hemasiri Fernando and Pujith Jayasundara. Attorney General appeals decision citing legal irregularities.
-
-🟩
-
-The Supreme Court was appointed by the Supreme Court to hear the appeal by the Attorney General's High Court over the order by former Defense High Court Judge Pujith Jayasundara to acquit the accusation of the charges of the charges..
-
-They had been launched, despite receiving specific intellectual terror attacks on the Easter intelligence, killing the murder, including the murder.
-
-The decision was taken by the decision of Preet Padman Surasena after conducting a lengthy examination on the appeals of the appeals by the Attorney General.
-
-The Attorney General had filed a three-member High Court in Colombo against former Defense Secretary Hemasiri Fernando and former IGP Pujith Jayasundara.
-
-The three-member High Court Judge Madulla Bandara has been acquitted without calling the evidence of the acquisition of the accused.
-
-...
-
-[Data](articles/80a29dfa.json)
-
-[Extended Data](ext_articles/80a29dfa.ext.json)
-
----
-
-### Sajith slams govt. over ignored promises
-
-*2024-11-05 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103170/sajith-slams-govt-over-ignored-promises-) · `en`
-
-Leader of the Samagi Jana Balawegaya (SJB) Sajith Premadasa criticized the incumbent government’s failure to fulfil its promises of tax reduction, fuel price reduction and eliminating queues for passports.
-
-Addressing a gathering in Avissawella, Premadasa emphasized that the Sri Lankan people are in need of actual public service, not media spectacles.
-
-“The JVP government led by the incumbent president is supplying amusements to the country. However, a country cannot be governed through jokes. During the presidential election period, they made statements about putting an end to queues for passports, yet they have not done it.”
-
-“The solutions provided through text messages and social media are useless. At the moment, the queues have expanded. They also promised to reduce the Value Added Tax, Advance Personal Income Tax and PAYE tax. However, none of them have been reduced”, he stressed.
-
-...
-
-[Data](articles/52eeaece.json)
-
-[Extended Data](ext_articles/52eeaece.ext.json)
 
 ---

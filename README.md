@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 12:14:22**
+As of **2024-11-05 12:25:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,262
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,128 (100.0%) of 53,132 articles have been extended.
+53,132 (100.0%) of 53,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ A team from Michelin met Sri Lanka’s Export Development Board officials last w
 ...
 
 [Data](articles/74403373.json)
+
+[Extended Data](ext_articles/74403373.ext.json)
 
 ---
 
@@ -512,17 +514,23 @@ Investigations have revealed that the suspect was wearing a gun, sword and knife
 
 ---
 
-### කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන්ගේ වර්ජනය අවසන්
+### Doctors' strike on Karapitiya Teaching Hospital
 
 *2024-11-05 10:28:58* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-ශික්ෂණ-රෝහලේ-වෛද්‍යවරුන්ගේ-වර්ජනය-අවසන්/11-412860) · `si`
 
-කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් ආරම්භ කළ වැඩ වර්ජනය අවසන් කර තිබේ.
+Karapitiya Teaching Hospital doctors' strike ends. Strike began on 05/2023.
 
-අද (05දා) පෙරවරු 08 සිට මෙම රෝහලේ වෛද්‍යවරුන් මෙම වර්ජනය ආරම්භ කළහ.
+🟩
+
+The strike commenced by the doctors of the Karapitiya Teaching Hospital has been completed.
+
+The doctors at the hospital launched today (05).
 
 ◼️
 
 [Data](articles/e96387ea.json)
+
+[Extended Data](ext_articles/e96387ea.ext.json)
 
 ---
 
@@ -739,6 +747,8 @@ In equities, Colombo’s All Share Price Index opened up 0.08 percent, or 10.54 
 ◼️
 
 [Data](articles/d905291a.json)
+
+[Extended Data](ext_articles/d905291a.ext.json)
 
 ---
 
@@ -975,6 +985,8 @@ Analysts say the government mis-pricing is driving up demand for kerosene as wel
 ...
 
 [Data](articles/eb6fbb27.json)
+
+[Extended Data](ext_articles/eb6fbb27.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 14:25:21**
+As of **2024-11-05 14:40:08**
 
 ## Newspaper Stats
 
-*Scraped **53,152** Articles*
+*Scraped **53,156** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,181
 economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,959
-adaderanalk | 6,328
-tamilmirrorlk | 7,395
+adalk | 4,960
+adaderanalk | 6,330
+tamilmirrorlk | 7,396
 virakesarilk | 8,581
 adaderanasinhalalk | 9,267
 
@@ -26,11 +26,75 @@ adaderanasinhalalk | 9,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,152 (100.0%) of 53,152 articles have been extended.
+53,155 (100.0%) of 53,156 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Kamala Harris’ ancestral village in India to pray for her election victory
+
+*2024-11-05 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103180/kamala-harris-ancestral-village-in-india-to-pray-for-her-election-victory) · `en`
+
+Residents in U.S. Democratic presidential candidate Kamala Harris’ ancestral village in southern India were preparing to hold prayers on election day on Tuesday in a Hindu temple more than 8,000 miles (13,000 km) from Washington.
+
+Harris’ maternal grandfather P.V. Gopalan was born more than a century ago in the leafy village of Thulasendrapuram in what is now southern India’s Tamil Nadu state.
+
+“There will be a special prayer on Tuesday morning at the temple,” G. Manikandan, a villager who runs a small store near the temple, said. “Celebrations will follow if she wins.”
+
+At the temple, Harris’ name is engraved into a stone that lists public donations, along with that of her grandfather. Outside, a large banner wishes “the daughter of the land” success in the election.
+
+Gopalan and his family migrated a few hundred miles to the coastal city of Chennai, Tamil Nadu’s capital, where he worked as a high-ranking government official until his retirement.
+
+...
+
+[Data](articles/afe1e04c.json)
+
+---
+
+### கர்ப்பிணிப் பெண்ணுடன் பள்ளத்தில் கவிழ்ந்த லொறி
+
+*2024-11-05 14:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கர்ப்பிணிப்-பெண்ணுடன்-பள்ளத்தில்-கவிழ்ந்த-லொறி/76-346603) · `ta`
+
+A pregnant woman fell from a lorry on a road near a hospital. The lorry crashed due to lack of driver control. The woman suffered injuries and was hospitalized. Police are investigating further.
+
+🟩
+
+நிறுத்தி வைக்கப்பட்டிருந்த லொறி ஒன்று வீதியை விட்டு விலகி சுமார் 20 அடி  பள்ளத்தில் கவிழ்ந்துள்ளதுடன் இதன்போது லொறிக்குள் இருந்த கர்ப்பிணிப் பெண் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+The accident occurred at around 12 noon on Tuesday (05) near the Dikoya Primary Hospital on the Hatton - Bogawantalawa main road.
+
+The pregnant woman was taken to the hospital in a lorry and the pregnant woman was sitting in the lorry when the medical work was completed.. At the time, the lorry went forward without a driver and crashed into the ditch.
+
+விபத்தில் லொறிக்கு பலத்த சேதம் ஏற்பட்டுள்ளதாகவும், கர்ப்பிணிப் பெண்ணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதாகவும் தெரிவித்த பொலிஸார் இது தொடர்பான மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
+
+◼️
+
+[Data](articles/e9d9aa2f.json)
+
+[Extended Data](ext_articles/e9d9aa2f.ext.json)
+
+---
+
+### CBK fears assassination plot following cut down on security
+
+*2024-11-05 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103179/cbk-fears-assassination-plot-following-cut-down-on-security-) · `en`
+
+Former President Chandrika Bandaranaike Kumaratunga has voiced suspicions of a possible plot to assassinate her, similar to the politically motivated assassination of her husband, the late Vijaya Kumaratunga.
+
+Furthermore, the former President raised concerns over the reduction in her security detail, claiming that the move poses a direct threat to her safety, referencing past political conspiracies.
+
+In a letter addressed to Secretary of the Ministry of Public Security Ravi Seneviratne, Kumaratunga highlighted the reduction of her security personnel from 50 to 30, following an order issued on October 31 by Senior DIG Ajith Hemasiri.
+
+Kumaratunga noted in the letter that other former presidents currently receive significantly higher levels of protection. She has highlighted that Mahinda Rajapaksa is provided with 243 security personnel, including both military and police officers, while Maithripala Sirisena and Gotabaya Rajapaksa have 109 and 200 security officers, respectively.
+
+...
+
+[Data](articles/30b448fd.json)
+
+[Extended Data](ext_articles/30b448fd.ext.json)
+
+---
 
 ### Although many parliamentarians have been elected in Colombo in the past, they have not been of any benefit to the people - Lion Mano
 
@@ -109,6 +173,24 @@ This is a significant opportunity in the history of Sri Lanka because in the pas
 [Data](articles/23ec17d3.json)
 
 [Extended Data](ext_articles/23ec17d3.ext.json)
+
+---
+
+### ජොන්ස්ටන් රීට් පෙත්මක් ඉල්ලා අස්කර ගනී
+
+*2024-11-05 13:39:40* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-රීට්-පෙත්මක්-ඉල්ලා-අස්කර-ගනී/11-412866) · `si`
+
+Sri Lanka: Former MP Prananda Jayawardena requests RTI to prevent motor vehicle incidents.
+
+🟩
+
+මෝටර් රථ සිද්ධිය සම්බන්ධයෙන් තමන්ව අත්අඩංගුවට ගන්නා ලෙස වැලැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා ඉදිරිපත් කළ රීට් පෙත්සම ඉල්ලා අස් කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/08a8072b.json)
+
+[Extended Data](ext_articles/08a8072b.ext.json)
 
 ---
 
@@ -2301,69 +2383,5 @@ Egg prices, rice prices and coconut prices are high today. Ranil Wickremesinghe 
 [Data](articles/02a5a94a.json)
 
 [Extended Data](ext_articles/02a5a94a.ext.json)
-
----
-
-### Religions to deter jingoism?
-
-*2024-11-04 23:32:00* · [`islandlk`](http://island.lk/religions-to-deter-jingoism/) · `en`
-
-...
-
-[Data](articles/62080f05.json)
-
-[Extended Data](ext_articles/62080f05.ext.json)
-
----
-
-### Expo Airline Management celebrates 25 years as Air France KLM Cargo’s Trusted Partner in Sri Lanka
-
-*2024-11-04 23:21:00* · [`islandlk`](http://island.lk/expo-airline-management-celebrates-25-years-as-air-france-klm-cargos-trusted-partner-in-sri-lanka/) · `en`
-
-On the 11th of October 2024, Expo Airline Management (EAM) celebrated 25 years as the exclusive Cargo GSA partner for Air France KLM Cargo in Sri Lanka.
-
-The milestone event, held at the Oak Room of the Cinnamon Grand, brought together key customers, logistics partners, and leading figures from the Sri Lankan air cargo sector to recognize the longstanding partnership between EAM and Air France KLM Cargo. Expo Airline Management is a subsidiary of the Expolanka Group, a global enterprise operating in sectors such as logistics, travel & leisure, and investments, with a focus on driving innovation and success in global trade. The event was graced by Hanif Yusoof, the founder of the Expolanka Group and serving as the Governor of Western Province, Sri Lanka. As a leader with a deep commitment to the country’s economic growth, Yusoof’s presence underscored the significance of the partnership.
-
-...
-
-[Data](articles/2ad31feb.json)
-
-[Extended Data](ext_articles/2ad31feb.ext.json)
-
----
-
-### ComBank receives Global Finance ‘Best Bank’ award for 22nd year
-
-*2024-11-04 23:20:00* · [`islandlk`](http://island.lk/combank-receives-global-finance-best-bank-award-for-22nd-year/) · `en`
-
-Commercial Bank of Ceylon Chairman Sharhan Muhseen and Managing Director/CEO Sanath Manatunge recently accepted ‘Best Bank in Sri Lanka’ award presented to the Bank by Global Finance magazine on the side-lines of the IMF/World Bank annual meetings in Washington DC. This was the 22nd year that Commercial Bank was ranked the Best Bank in Sri Lanka in the ‘World’s Best Banks 2024’ list published annually by Global Finance.
-
-According to the US-based magazine, the Best Bank awards recognise financial institutions that offer the broadest range of services, long-term reliability and technological innovation, and managed their assets and liabilities in a savvy way in light of the fast-changing interest rate scenarios.
-
-Expo Airline Management celebrates 25 years as Air France KLM Cargo’s Trusted Partner in Sri Lanka
-
-DFCC Bank continuing to look for investors for its 50 percent stake in Acuity Partners
-
-...
-
-[Data](articles/f62439c8.json)
-
-[Extended Data](ext_articles/f62439c8.ext.json)
-
----
-
-### Aditya among Condé Nast Traveller’s best in ‘Rest of Asia Hotels’ 2024
-
-*2024-11-04 23:19:00* · [`islandlk`](http://island.lk/aditya-among-conde-nast-travellers-best-in-rest-of-asia-hotels-2024/) · `en`
-
-Condé Nast Traveller’s coveted Readers’ Choice Awards for 2024 named Aditya among the top two hotels in Sri Lanka in the Rest of Asia category. With a near-perfect score of 98.0, which represents the overall average levels of satisfaction, the all-suite property, which was called the ‘boutique pioneer’ by Condé Nast Traveller, gained high marks for its cuisine, design, community investment, accessibility, and service while topping marks for its rooms.
-
-The suites, each of which is named after a deity, have décor that is en pointe in representing the hues and vibes of not just Sri Lanka, but the deity as well. Each has an inherent vibrancy in its color palette while also adding serenity and privacy to the property.
-
-...
-
-[Data](articles/cfe2e7cf.json)
-
-[Extended Data](ext_articles/cfe2e7cf.ext.json)
 
 ---

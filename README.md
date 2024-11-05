@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 14:00:03**
+As of **2024-11-05 14:13:00**
 
 ## Newspaper Stats
 
-*Scraped **53,150** Articles*
+*Scraped **53,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,38 +19,86 @@ dailymirrorlk | 4,733
 adalk | 4,959
 adaderanalk | 6,328
 tamilmirrorlk | 7,395
-virakesarilk | 8,579
+virakesarilk | 8,581
 adaderanasinhalalk | 9,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,148 (100.0%) of 53,150 articles have been extended.
+53,150 (100.0%) of 53,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### හිටපු නියෝජ්‍ය ඇමතිට දුන් සිරදඬුවම අභියාචනාධිකරණය තහවුරු කරයි
+### கடந்த காலங்களில் பல பாராளுமன்ற உறுப்பினர்கள் கொழும்பில் தெரிவாகியுள்ள போதிலும் அவர்களால் எவ்வித பயனும் மக்களுக்கு ஏற்படவில்லை - லயன் மனோ
+
+*2024-11-05 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197941) · `ta`
+
+கடந்த 30 வருடங்களாக கொழும்பில் 27 க்கும் அதிகமானவர்கள் மக்களால் தெரிவுசெய்யப்பட்டு பாராளுமன்றத்திற்கு அனுப்பி வைக்கப்பட்டிருந்த போதும் வடகொழும்பு இதுவரை எவ்வித அபிவிருத்தியும் இல்லாது காணப்படுகின்றது. தேர்தல் காலங்களிலேயே அரசியல்வாதிகள் மக்கள் இருப்பிடங்களுக்குச் சென்று பல பொய்வாக்குறுதிகளை வழங்கி மக்களை ஏமாற்றி வாக்குகளை அபகரிக்கும் செயற்பாடுகளில் ஈடுபடுகின்றனர் என ஐக்கிய ஜனநாயகக் குரல் கட்சியில் பாராளுமன்றத் தேர்தலில் போட்டியிடும் லயன் மனோ தெரிவித்தார்.
+
+எதிர்வரும் பாராளுமன்றத் தேர்தலில் மைக் சின்னத்தில் ஐக்கிய ஜனநாயகக் குரல் கட்சியில் 17 ஆம் இலக்கத்தில் கொழும்பு வடக்கில் போட்டியிடும் லயன் மனோ மேலும் தெரிவிக்கையில்,
+
+கடந்த 2018 ஆம் ஆண்டு இடம்பெற்ற மாநாகர சபைத் தேர்தலில் கொழும்பு மாநகர சபையில் மட்டக்குளி தொகுதியில் வெற்றி பெற்று மாநாகர சபை அங்கத்தவராக நியமிக்கப்பட்டேன்.
+
+அதன் பின்னர் இன்று வரை கொழும்பிலுள்ள அனைவருக்கும் மாநகர சபையின் மூலமாக அனைத்து சேவைகளையும் இரவு பகல் பாராது செய்துள்ளேன்.
+
+...
+
+[Data](articles/5b8b08c2.json)
+
+---
+
+### Court of Appeal confirms the prison given to former Deputy Minister
 
 *2024-11-05 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202933) · `si`
 
-හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්න මහතාට කොළඹ මහාධිකරණය විසින් නියම කර තිබූ බරපතළ වැඩසහිත වසර 04ක සිරදඬුවම අභියාචනාධිකරණය විසින් තහවුරු කර තිබේ.
+Court of Appeal affirms 4-year sentence for ex-Deputy Minister Shantha Premaratne. Former official found guilty of corruption involving Sampath Abeykoon and P. Judge Kumaran Ratnam issues ruling.
 
-හිටපු නියෝජ්‍ය අමාත්‍යවරයා රැකියාවක් ලබාදීම සඳහා කාන්තාවකගෙන් රුපියල් 50,000ක මුදලක් අල්ලස් වශයෙන් ඉල්ලා එය ලබා ගැනීමේ චෝදනාවට වරදකරු තිබුණි.
+🟩
 
-අදාළ දඬුවමින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ශාන්ත ප්‍රේමරත්න මහතා විසින් ඉදිරිපත් කළ අභියාචනයක් ප්‍රතික්ෂේප කරමින් සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+The Court of Appeal has confirmed the four serious working year in which former Deputy Minister Shantha Premaratne had been sentenced to a serious four-year-long year.
+
+The former deputy minister had the accused of obtaining Rs.
+
+Sampath Abeykoon and P. The Court of Appeal has issued the order by the Court of Appeal consisting of Kumaran Ratnam.
 
 ◼️
 
 [Data](articles/28ba1dce.json)
+
+[Extended Data](ext_articles/28ba1dce.ext.json)
+
+---
+
+### உரிய காலத்தில் தேர்தல்கள் நடத்தப்படாத காரணத்தால் இன்று பொதுமக்களை பிரதிநிதித்துவப்படுத்தும் எந்த ஒரு அரசியல் நிறுவனமும் இயங்குவதில்லை - கே.டி லால்காந்த
+
+*2024-11-05 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197924) · `ta`
+
+உரிய காலத்தில் தேர்தல்கள் நடத்தப்படாத காரணத்தால் இன்று பொதுமக்களை பிரதிநிதித்துவப்படுத்தும் எந்த ஒரு அரசியல் நிறுவனமும் இயங்குவதில்லை என கண்டி மாவட்ட தேசிய மக்கள் சக்தி முதன்மை வேட்பாளர் கே.டி லால்காந்த தெரிவித்தார்.
+
+தெல்தெனிய, கும்புக்கந்துறை பிரதேசத்தில் நடை பெற்ற தேர்தல் பிரச்சாரக் கூட்டம் ஒன்றில் உரையாற்றும் போதே இதனைத் தெரிவித்தார்.
+
+இலங்கையில் இதுகாலவரை ஒரு மக்கள் பிரதிநிதித்துவ நிறுவனத்திற்கு தேர்தல் நடத்தும் போது பல மக்கள் பிரதிநிதித்துவ  நிறுவனங்கள் இயங்கிக் கொண்டிருந்தன.
+
+ஆனால் தற்போது நாட்டை நிர்வகிக்க கூடிய பாராளுமன்றமோ, மாகாண சபையோ, உள்ளூராட்சி அமைப்புக்களோ  இல்லை. எனவே அவற்றை உருவாக்க வேண்டியுள்ளது.
+
+அதாவது பாராளுமன்ற தேர்தல் நடக்கும் போது மாகாண சபையோ, உள்ளூராட்சி சபைகளோ இருந்து வந்துள்ளன. அல்லது உள்ளூராட்சி சபைகளுக்கு தேர்தல் நடக்கும் போது மாகாண சபையோ, பாராளுமன்றமோ இருக்கும்.
+
+...
+
+[Data](articles/23ec17d3.json)
 
 ---
 
 ### Chandrika writes to Public Defense Secretary to reduce security
 
 *2024-11-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202932) · `si`
+
+Chandrika Bandaranaike Kumaratunga requests reduced security citing political assassination suspicion. She claims highest threat among retired presidents. Letter sent to Defense Secretary Ravi Seneviratne.
+
+🟩
 
 Former President Chandrika Bandaranaike Kumaratunga says it has been suspected to kill her husband Vijaya Kumaratunga as he was killed for political reasons.
 
@@ -98,19 +146,31 @@ He said the corruption unit did not find anything in his home.
 
 ---
 
-### නෑනා ඝාතනය කළ මස්සිනා අල්ලයි
+### Commentary brother-in-law arrested
 
 *2024-11-05 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෑනා-ඝාතනය-කළ-මස්සිනා-අල්ලයි/11-412863) · `si`
 
-විශේෂඥ වෛද්‍යවරයකුට අයත්  ත්‍රිකුණාමලය ප්‍රධාන කළේ පෞද්ගලික රෝහලක සිවුවැනි මහලේ දී එම වෛද්‍යවරයාගේ බිරිඳට තියුණු ආයුධයකින් ඇන ඝාතනය කර තිබියදී අද (05) අලුයම සොයා ගත් බව ත්‍රිකුණාමලය මූලස්ථාන පොලිසිය කියයි.
+Brother-in-law arrested in Trincomalee for murder. Victim from London. Police investigation ongoing.
 
-සර්වාංග රෝග පිළිබඳ විශේෂඥ මෙම වෛද්‍යවරයා ඝාතනය සිදුවන  අවස්ථාවේදී පෞද්ගලික  රෝහලේ නොසිටි අතර ඔහු සේවය කරන මඩකලපුව ශික්ෂණ රෝහලේ සිට ඇතැයි කියයි.තියුණු ආයුධයකින් ඇන ඝාතනය සිදුකළ බව කියන එම විශේෂඥ වෛද්‍යවරයාගේ බාල සහෝදරයා පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ. මෙසේ ඝාතනය කර ඇත්තේ එන්ජලි සුමේත්‍රා ගණේකබාහු (63) නැමති කාන්තාවය.
+🟩
 
-උදෑසන රාජකාරියට පැමිණි රෝහල් කාර්ය මණ්ඩලය මෙම ඝාතනය දැක මේ බව ත්‍රිකුණාමල මූලස්ථාන පොලිසියට දැනුම් දීමෙන් පසු එම ස්ථානයට පැමිණි මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක සමන් කුමාර ජයරත්න මහතා ඇතුළු පොලිස් කණ්ඩායමක් පරීක්ෂණ ආරම්භ කර සැකකරු අත්අඩංගුවට ගනු ලැබූහ.පොලිසිය එන විටත් ඝාතකයා එම ස්ථානයේ රැඳී සිටි ඇතැයි පොලිසිය කියයි.
+The Trincomalee headed by a specialist was headed at the fourth floor of a private hospital in a private hospital.
 
-...
+The doctor in the murder was launched in the private hospital at the time of the murder.. The woman was killed by NG Sumatra Kracabahu (63).
+
+Headquarters police Inspector Saman Kumara Jayaratne and a team of police said that the suspect had begun to investigate the murder at the morning of the morning..
+
+Preliminary police investigations have revealed that the murdering woman came to Sri Lanka from London to Sri Lanka and opened the room.
+
+Hetta Basnayake of Trincomalee Chandana Basnayake was instructed to accelerate the inquiry into the court and the arrested suspect in Trincomalee and arrested the suspect in Trincomalee.He was sentenced to go.
+
+The OIC of the Criminal Planning Labor Chief Inspector Ranjith Wickremasinghe and a police team came to record scientific evidence. Further investigations are conducting further investigations into the incident.
+
+◼️
 
 [Data](articles/5ba1f492.json)
+
+[Extended Data](ext_articles/5ba1f492.ext.json)
 
 ---
 
@@ -2285,41 +2345,5 @@ The suites, each of which is named after a deity, have décor that is en pointe 
 [Data](articles/cfe2e7cf.json)
 
 [Extended Data](ext_articles/cfe2e7cf.ext.json)
-
----
-
-### Sophos to acquire Secureworks to accelerate cybersecurity services and technology for organizations worldwide
-
-*2024-11-04 23:17:00* · [`islandlk`](http://island.lk/sophos-to-acquire-secureworks-to-accelerate-cybersecurity-services-and-technology-for-organizations-worldwide/) · `en`
-
-Sophos and Secureworks® (NASDAQ:SCWX), two global leaders of innovative security solutions for defeating cyberattacks, announced a definitive agreement for Sophos to acquire Secureworks. The all-cash transaction is valued at approximately $859 million. Sophos is backed by Thoma Bravo, a leading software investment firm.
-
-Sophos’ experience and reputation as a leading provider of managed security services and end-to-end security products, combined with Secureworks’ security operations expertise transformed into the Taegis™ platform, is expected to further deliver complementary advanced MDR and XDR solutions for the benefit of their global customer bases. Together, they will help strengthen the resilience and security posture of global organizations of any size with a combination of security controls, AI, world-class threat intelligence, and two teams with decades of cybersecurity expertise.
-
-...
-
-[Data](articles/3eb4b6fa.json)
-
-[Extended Data](ext_articles/3eb4b6fa.ext.json)
-
----
-
-### DFCC Bank continuing to look for investors for its 50 percent stake in Acuity Partners
-
-*2024-11-04 23:15:00* · [`islandlk`](http://island.lk/dfcc-bank-continuing-to-look-for-investors-for-its-50-percent-stake-in-acuity-partners/) · `en`
-
-DFCC Bank is looking for an investor to divest its 50 percent share in Acuity Partners after its deal for its sale did not go through as announced earlier.
-
-In September, the DFCC announced it would sell its 50 percent stake in Acuity Partners (Pvt) Ltd to Hatton National Bank for Rs 7 billion. Acuity Partners (Pvt) Ltd is a joint venture between DFCC Bank and Hatton National Bank.
-
-“Further to the announcement dated 2 September 2024…, DFCC now wishes to announce that it is no longer proceeding with the transaction, DFCC said in a disclosure to the CSE last week.
-
-“Accordingly, Acuity Partners (Pvt) Ltd will continue to operate as a joint venture of DFCC Bank and Hatton National Bank, market analysts said.
-
-...
-
-[Data](articles/e3997fbb.json)
-
-[Extended Data](ext_articles/e3997fbb.ext.json)
 
 ---

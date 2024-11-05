@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 06:45:30**
+As of **2024-11-05 07:26:52**
 
 ## Newspaper Stats
 
-*Scraped **53,077** Articles*
+*Scraped **53,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,59 @@ adalk | 4,949
 adaderanalk | 6,313
 tamilmirrorlk | 7,382
 virakesarilk | 8,569
-adaderanasinhalalk | 9,248
+adaderanasinhalalk | 9,250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,072 (100.0%) of 53,077 articles have been extended.
+53,073 (100.0%) of 53,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### නලයක් කැඩී යාමෙන් කෑගල්ලේ ජල සැපයුම නවතී
+
+*2024-11-05 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202915) · `si`
+
+ප්‍රධාන නල මාර්ගයේ සිදු වූ බිඳ වැටීමක් හේතුවෙන් කෑගල්ල නගරයට පැය 48ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන ජලාපවාහන මණ්ඩලය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් ඒම මණ්ඩලය පැවසුවේ කෑගල්ල නගරයට ජලය ගෙනයන ප්‍රධාන නලයකට ගලක් පෙරලී යාමෙන් සිදුවූ හානිය හේතුවෙන් මෙම ජල කප්පාදුව සිදුවන බවය.
+
+නලය අලුත්වැඩියා කිරීමේ කටයුතු ආරම්භ කර ඇති අතර කඩිනමින් ජල සැපයුම ලබාදීමට කටයුතු කරන බවත් ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සදහන් කළේය.
+
+මේ අතර මීගමුව - කොළඹ ප්‍රධාන මාර්ගයේ අත්‍යාවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් අද පස්වරු 6 සිට හෙට පෙරවරු 6 දක්වා පැය 12ක කාලයක් බියගම ජල පවිත්‍රාගාරයට ජල සැපයුම අත්හිටුවන බවද ජාතික ජල සම්පාදන හා ජලා පවාහන මණ්ඩලය පවසයි.
+
+ඒ අනුව එම කාල සීමාවේ දි ජා ඇළ, කටුනායක - සීදුව නගර සභා බලප්‍රදේශවලට සහ කටාන, මිනුවන්ගොඩ ප්‍රාදේශීය සභා බල ප්‍රදේශවලට ද ජල සැපයුම අත්හිටුවීමට පියවර ගන්නා බවත් ඒම මණ්ඩලය නිවේදනය කර තිබේ.
+
+ඊට අමතරව ජාඇල, ගම්පහ ප්‍රදේශීය බල ප්‍රදේශයේ කොටසකට ද ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය සදහන් කළේය.
+
+◼️
+
+[Data](articles/ee3d71ed.json)
+
+---
+
+### ආනයනික සීනිවලට පැනවූ විශේෂ වෙළෙඳ භාණ්ඩ බද්ද තවදුරටත්
+
+*2024-11-05 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202914) · `si`
+
+ආනයනික සීනි කිලෝවක් සඳහා පනවා ඇති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද තවදුරටත් දීර්ඝ කිරීමට රජය පියවර ගෙන තිබේ.
+
+ආනයනික සීනි කිලෝග්‍රෑම් එකක් සඳහා පසුගිය වසරේ නොවැම්බර් පළමු වැනි දින සිට වසරක කාලයක් සඳහා රුපියල් 50ක විශේෂ වෙළෙඳ භාණ්ඩ බද්දක් පනවනු ලැබීය.
+
+එහි වලංගු කාලය නොවැම්බර් මස පළමු වන දිනෙන් අවසන් වීමට නියමිතව තිබු අතර අදාළ වෙළෙඳ භාණ්ඩ බද්ද දෙසැම්බර් මස 31 වන දින දක්වා දීර්ඝ කිරීමට රජය කටයුතු කර තිබේ.
+
+ඊට අදාළ ගැසට් නිවේදනය මුදල් අමාත්‍යවරයා වශයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නිකුත් කර ඇති බව වාර්තා වේ.
+
+මේ අතර වත්මන් රජය විසින් ආහාර ද්‍රව්‍ය සඳහා පනවා ඇති බදු අඩුකරන බව පැවසුව ද ඔවුන් ද එම බදු අය කිරීමට කටයුතු කරමින් සිටින බව මනූෂ නානායක්කාර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/1926ee9d.json)
+
+---
 
 ### Showers over 100 mm
 
@@ -2249,39 +2291,5 @@ Accordingly, any person can reserve a date through this site anywhere. According
 [Data](articles/11b031a2.json)
 
 [Extended Data](ext_articles/11b031a2.ext.json)
-
----
-
-### WHAT IS WRONG WITH US?
-
-*2024-11-04 15:26:00* · [`islandlk`](http://island.lk/what-is-wrong-with-us/) · `en`
-
-We are convinced (or conditioned to believe,) that we are an under-developed country and are destined to ever remain so. Should it really be such? Importantly, what should we do to erase this patronizing and degrading label? This mental complex has led us to be a cynical, despondent people. The past seven decades of Independence have driven us into the depths of despair. The worst part of this is that we have so driven our thoughts, to make this fear to become our reality.
-
-We have failed to utilize our potential – be it in climate, human resources or other “development criteria”. This clearly needs to change. Perhaps, we are not the cat’s whiskers, nor certainly are we everybody’s chronic “dog’s body”.
-
-...
-
-[Data](articles/0a5faa17.json)
-
-[Extended Data](ext_articles/0a5faa17.ext.json)
-
----
-
-### 12-hour water cut in several areas tomorrow
-
-*2024-11-04 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103151/12-hour-water-cut-in-several-areas-tomorrow) · `en`
-
-A 12-hour water cut will be imposed for several areas along the Negombo – Colombo main road tomorrow (05), due to an essential maintenance activity of the road, the National Water Supply and Drainage Board (NWSDB) announced.
-
-Accordingly, the water supply will be suspended from 06.00 p.m. on Tuesday (Nov. 05) until 06.00 a.m. on Wednesday (Nov. 06) in Ja-Ela, Katunayake, Seeduwa Municipal Council areas, Katana and Minuwangoda Pradeshiya Sabha areas and a part of Gampaha Pradeshiya Sabha area.
-
-The NWSDB has requested people residing in the aforementioned areas to take the necessary steps to collect water required for the duration of the water cut.
-
-◼️
-
-[Data](articles/ea59e0e9.json)
-
-[Extended Data](ext_articles/ea59e0e9.ext.json)
 
 ---

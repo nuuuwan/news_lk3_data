@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 07:26:52**
+As of **2024-11-05 08:22:36**
 
 ## Newspaper Stats
 
-*Scraped **53,079** Articles*
+*Scraped **53,083** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
 colombotelegraphcom | 542
-bbccomsinhala | 543
+bbccomsinhala | 544
 islandlk | 3,181
 economynextcom | 3,211
 dailyftlk | 3,627
@@ -20,57 +20,139 @@ adalk | 4,949
 adaderanalk | 6,313
 tamilmirrorlk | 7,382
 virakesarilk | 8,569
-adaderanasinhalalk | 9,250
+adaderanasinhalalk | 9,253
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,073 (100.0%) of 53,079 articles have been extended.
+53,079 (100.0%) of 53,083 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### නලයක් කැඩී යාමෙන් කෑගල්ලේ ජල සැපයුම නවතී
+### ඉන්දියාව හා කැනඩාව අතර අර්බුදය උග්‍ර වෙයි
+
+*2024-11-05 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202918) · `si`
+
+කැනඩාවේ හින්දු කෝවිලකට එල්ල වූ ප්‍රහාරය හෙළා දකින බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ප්‍රකාශ කර තිබේ.
+
+අදාළ ප්‍රහාරය හිතාමතා සිදුකර ඇති ප්‍රහාරයක් බව ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි ප්‍රකාශ කර ඇත.
+
+මෙවැනි ප්‍රචණ්ඩක්‍රියා මඟින් ඉන්දීය අධිෂ්ඨානය කිසිවිටෙකත් දුර්වල කිරීමට හැකියාවක් නොමැති බව ද ඉන්දීය අග්‍රාමාත්‍යවරයා ප්‍රකාශ කර තිබේ.
+
+ඉන්දියාව සහ කැනඩාව අතර රාජ්‍ය තාන්ත්‍රික මට්ටමින් ගැටලුකාරී තත්ත්වයක් උද්ගත වී ඇති අතර රටවල් දෙකෙහිම රාජ්‍ය තාන්ත්‍රික නිලධාරීන් නෙරපා හැරීමට එම රටවල් පියවර ගෙන තිබුණි.
+
+එවැනි අවස්ථාවක පසුගිය ඉරිදා දිනය් කැනඩාවේ බ්‍රැම්ප්ටන් නගරයේ පිහිටි හින්දු කෝවිලකට එල්ල වූ ප්‍රහාරය සමග තවදුරටත් දෙරට අතර විරසකය උත්සන්න වී ඇති බව විදෙස් මාධ්‍ය පෙන්වා දෙයි.
+
+◼️
+
+[Data](articles/7154964b.json)
+
+---
+
+### මාරක අනතුරු දෙකක් - ජීවිත දෙකක් අහිමි වෙයි
+
+*2024-11-05 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202917) · `si`
+
+ප්‍රදේශ කිහිපයක ගතවූ පැය 24 තුළ සිදුවූ රිය අනතුරුවලින් තරුණියක් ඇතුළු පුද්ගලයින් දෙදෙනෙකු මියගොස් තිබේ.
+
+ඊයේ (04) ඇහැළියගොඩ සහ බණ්ඩාරගම යන පොලිස් වසමවල එම අනතුරු සිදුව ඇති බව පොලීසිය පවසයි.
+
+ඇහැළියගොඩ, මින්නාන - ඉද්දමල්ගොඩ මාර්ගයේ සොමිසඳවත්ත ප්‍රදේශයේදී යතුරුපැදියක් පැදිකරුට පාලනය කර ගැනීමට නොහැකිව මාර්ගයේ පෙරළී යාමෙන් සිදුවූ අනතුරින් පුද්ගලයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+අනතුරින් මියගොස් ඇත්තේ, ගැටහැත්ත ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි පුද්ගලයෙකි.
+
+මේ අතර බණ්ඩාරගම - පානදුර මාර්ගයේ බොල්ගොඩ ප්‍රදේශයේදී බස් රථයක් ත්‍රිරෝද රථයක ගැටී අනතුරක් සිදුවූ අනතුරකින් තරුණියක් මියගොස් තිබේ.
+
+බණ්ඩාරගම දෙස සිට පානදුර දෙසට වම් මංතීරුවේ පිළිසකර කටයුත්තක් හේතුවෙන් බණ්ඩාරවෙල දෙස සිට පානදුර දෙසට ධාවනය වූ බස් රථයක් දකුණු මංතීරුවෙන් ධාවනය කර නැවත වම් මංතීරුවට ගැනීමේදී පානදුර දෙස සිට බණ්ඩාරගම දෙසට ධාවනය වූ ත්‍රිරෝද රථයක ගැටී එම අනතුරක් සිදුව ඇත.
+
+...
+
+[Data](articles/942646c5.json)
+
+---
+
+### Doctors at Karapitiya Hospital on strike
+
+*2024-11-05 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202916) · `si`
+
+Karapitiya Hospital doctors strike over cancer specialist issue. Protest against carcinogenist role. Health admin plans to transfer doctor to Maharagama Holy Hospital.
+
+🟩
+
+Doctors at Karapitiya Hospital have decided to continue strike from 8am today (05).
+
+The strike is being implemented in protest against the role of a carcinogenist of the Cancer Union.
+
+Dr. Asanka Ganara said that the doctors of the Karapitiya Hospital were on strike and engage in protesting against the problem of the problem.
+
+However, inquired from the Director of the Derana, Karapitiya Hospital.
+
+He said that the health administration is already determined to transfer the allegistic doctor.
+
+The Director of the Karapitiya Hospital stated that the doctor is transferred to the Maharagama Holy Hospital.
+
+◼️
+
+[Data](articles/f9aa7d49.json)
+
+[Extended Data](ext_articles/f9aa7d49.ext.json)
+
+---
+
+### Water cut stopped by breaking a tube
 
 *2024-11-05 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202915) · `si`
 
-ප්‍රධාන නල මාර්ගයේ සිදු වූ බිඳ වැටීමක් හේතුවෙන් කෑගල්ල නගරයට පැය 48ක කාලයක් ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන ජලාපවාහන මණ්ඩලය පවසයි.
+Water cut due to pipeline collapse in Kegalle. Repairs underway. Suspension of supply in Katunayake, Minuwangoda, and parts of Gampaha Division. Maintenance on Negombo-Colombo main road causing additional cuts.
 
-නිවේදනයක් නිකුත් කරමින් ඒම මණ්ඩලය පැවසුවේ කෑගල්ල නගරයට ජලය ගෙනයන ප්‍රධාන නලයකට ගලක් පෙරලී යාමෙන් සිදුවූ හානිය හේතුවෙන් මෙම ජල කප්පාදුව සිදුවන බවය.
+🟩
 
-නලය අලුත්වැඩියා කිරීමේ කටයුතු ආරම්භ කර ඇති අතර කඩිනමින් ජල සැපයුම ලබාදීමට කටයුතු කරන බවත් ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය සදහන් කළේය.
+The National Water Supply Drainage Board says that due to a collapse of the main pipeline, the National Water Supply Drainage Board says.
 
-මේ අතර මීගමුව - කොළඹ ප්‍රධාන මාර්ගයේ අත්‍යාවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් අද පස්වරු 6 සිට හෙට පෙරවරු 6 දක්වා පැය 12ක කාලයක් බියගම ජල පවිත්‍රාගාරයට ජල සැපයුම අත්හිටුවන බවද ජාතික ජල සම්පාදන හා ජලා පවාහන මණ්ඩලය පවසයි.
+In a statement, the Board said that the water cut would take place due to the damage caused to a major tube carrying water to the city of Kegalle.
 
-ඒ අනුව එම කාල සීමාවේ දි ජා ඇළ, කටුනායක - සීදුව නගර සභා බලප්‍රදේශවලට සහ කටාන, මිනුවන්ගොඩ ප්‍රාදේශීය සභා බල ප්‍රදේශවලට ද ජල සැපයුම අත්හිටුවීමට පියවර ගන්නා බවත් ඒම මණ්ඩලය නිවේදනය කර තිබේ.
+The National Water Supply and Drainage Board stated that the repairs of the tribe has been started and the water supply will be provided soon.
 
-ඊට අමතරව ජාඇල, ගම්පහ ප්‍රදේශීය බල ප්‍රදේශයේ කොටසකට ද ජල සැපයුම අත්හිටුවන බව ජාතික ජල සම්පාදන හා ජලාපවාහන මණ්ඩලය සදහන් කළේය.
+Meanwhile, the National Water Supply and the JVP station states that the water cut will be imposed due to an essential maintenance of the Negombo-Colombo main road today.
+
+Accordingly, the Board has announced the suspension of water supply to the area of ​​the Katunayake and Minuwangoda Pradeshiya Sabha areas in the period.
+
+The National Water Supply and Drainage Board stated that the water supply is also suspended into a part of the Gampaha Divisional area in Ja-Ela.
 
 ◼️
 
 [Data](articles/ee3d71ed.json)
 
+[Extended Data](ext_articles/ee3d71ed.ext.json)
+
 ---
 
-### ආනයනික සීනිවලට පැනවූ විශේෂ වෙළෙඳ භාණ්ඩ බද්ද තවදුරටත්
+### Special Commodity Levy on imported sugar
 
 *2024-11-05 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202914) · `si`
 
-ආනයනික සීනි කිලෝවක් සඳහා පනවා ඇති විශේෂ වෙළෙඳ භාණ්ඩ බද්ද තවදුරටත් දීර්ඝ කිරීමට රජය පියවර ගෙන තිබේ.
+Government extends special commodity tax on imported sugar from Nov 1 to Dec 31. Tax rate remains Rs. 50 per kg. Finance Minister issues gazette notification. Government aims to reduce food item taxes while increasing others.
 
-ආනයනික සීනි කිලෝග්‍රෑම් එකක් සඳහා පසුගිය වසරේ නොවැම්බර් පළමු වැනි දින සිට වසරක කාලයක් සඳහා රුපියල් 50ක විශේෂ වෙළෙඳ භාණ්ඩ බද්දක් පනවනු ලැබීය.
+🟩
 
-එහි වලංගු කාලය නොවැම්බර් මස පළමු වන දිනෙන් අවසන් වීමට නියමිතව තිබු අතර අදාළ වෙළෙඳ භාණ්ඩ බද්ද දෙසැම්බර් මස 31 වන දින දක්වා දීර්ඝ කිරීමට රජය කටයුතු කර තිබේ.
+The government has further extended the special commodity tax imposed on a kilo of imported sugar.
 
-ඊට අදාළ ගැසට් නිවේදනය මුදල් අමාත්‍යවරයා වශයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නිකුත් කර ඇති බව වාර්තා වේ.
+A kilogram of imported sugar was a special commodity tax of Rs. 50 for a year from November last year.
 
-මේ අතර වත්මන් රජය විසින් ආහාර ද්‍රව්‍ය සඳහා පනවා ඇති බදු අඩුකරන බව පැවසුව ද ඔවුන් ද එම බදු අය කිරීමට කටයුතු කරමින් සිටින බව මනූෂ නානායක්කාර මහතා සඳහන් කළේය.
+The validity period was due to end the first day of November and the government has extended the relevant commodity tax until December 31st.
+
+It is reported that the gazette notification has been issued by President Anura Kumara Dissanayake as Finance Minister.
+
+Meanwhile, said the present government would reduce the taxes imposed on food items, but they are also working to charge the taxes, Mr. Manusha Nanayakkara said.
 
 ◼️
 
 [Data](articles/1926ee9d.json)
+
+[Extended Data](ext_articles/1926ee9d.ext.json)
 
 ---
 
@@ -137,6 +219,40 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### Is the unions dissolve under a government of the people?
+
+*2024-11-05 02:11:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7741j3g500o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan politician Lakshman Nipunarachchi suggests dissolving trade unions under government control. Critics argue this violates workers' rights and freedoms. The JVP supports trade unions but faces opposition from the government and some political parties.
+
+🟩
+
+Is the unions dissolve under a government of the people?
+
+"Remember that I said today. That strike is lost in front of. Strike against whom. If there is any problem with the government, you have to talk about. We have steps to come on our side. First, the trade unions on our party are dissolved. Nisted, why?There are no professional unions. "
+
+The Colombo District candidate Lakshman Nipunarachchi expressed his views on the national proposal of the electorate recently.
+
+The inhabitants of the trade unions have been criticized in the trade union movement and in political platforms.
+
+The JVP is a close relationship with the Sri Lankan labor movement.
+
+The JVP was also involved in the labor day that the government banned by the government for security reasons in 1987.
+
+The JVP has a number of more active and powerful trade unions in the professional fields. Their trade unions are also the basis for their own.
+
+...
+
+[Data](articles/de7b20cb.json)
+
+[Extended Data](ext_articles/de7b20cb.ext.json)
 
 ---
 
@@ -2201,95 +2317,5 @@ Accordingly, from any time, any person can reserve a date online from anywhere, 
 [Data](articles/7835699e.json)
 
 [Extended Data](ext_articles/7835699e.ext.json)
-
----
-
-### If the sudden foreign passport is required
-
-*2024-11-04 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202896) · `si`
-
-Here's a 200-character summary:
-
-
-
-Committee formed to verify urgent foreign passport needs. Applicants must document necessity. State department assistance available if needed.
-
-🟩
-
-If the need to obtain a license to obtain a license, the Controller General (Acting). Nilusasha Balasuriya said.
-
-Speaking at a press conference held today (04), she said that a committee of the Immigration and Emigration has been established in the Department of Immigration and Emigration.
-
-"In fact, a sudden person has the need to get a foreign passport, but this methodology should go through this methodology. That's when he gets that date, he can confirm that I got a date, but I had the need to get the passport. There you can get the written on registers to promote the need.
-
-We have already established an independent committee for this. We say that the committee to prove the need to prove the need for a documentary. Where he can get some kind of relief. But we also emphasize that if we submit a state department as a state department, the culmination arrangements, are always ready to act in the event. "
-
-◼️
-
-[Data](articles/546de5cb.json)
-
-[Extended Data](ext_articles/546de5cb.ext.json)
-
----
-
-### The price of onion
-
-*2024-11-04 15:45:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எகிறியது-வெங்காயத்தின்-விலை/175-346542) · `ta`
-
-Onion prices surge: 1kg costs 340 rupees in some areas. Govt increases import tax on large onions by 20 rupees, raising duty from 10 to 30 rupees per kg.
-
-🟩
-
-In some parts of the country, the price of a kilogram of onion rose to 340 rupees, market sources said.
-
-Recently it was decided to increase the special import tax on big onions by 20 rupees.
-
-Accordingly, the government has decided to increase the import duty on the big onion from 10 rupees to 30 rupees.
-
-◼️
-
-[Data](articles/57a127d2.json)
-
-[Extended Data](ext_articles/57a127d2.ext.json)
-
----
-
-### The NPP: A Month in Power
-
-*2024-11-04 15:41:00* · [`islandlk`](http://island.lk/the-npp-a-month-in-power/) · `en`
-
-It has been a month since Anura Kumara Dissanayake assumed the presidency, a month since the NPP claimed its place in history as the first party from outside of the political establishment to win a presidential election in Sri Lanka. Two weeks from now, the NPP will face another election, this time parliamentary. Depending on the results it gets, we will know whether the people approve of the NPP’s actions over the last four weeks and if they want it to continue. The NPP’s call for a powerful government is, in itself, not alarming: no government can survive without a majority in parliament. Yet it will need to convince Sri Lankans that it is the party they need – the party not of power, but of change.
-
-...
-
-[Data](articles/13add880.json)
-
-[Extended Data](ext_articles/13add880.ext.json)
-
----
-
-### Take the passport New online way
-
-*2024-11-04 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202895) · `si`
-
-New online passport system launched. Reserve appointment now. Limit one booking per day. Future dates available after initial booking. Public advised to book before Nov 6th.
-
-🟩
-
-Steps have been taken to introduce a new online system to get a passport.
-
-The Immigration and Emigration Administration General (Acting) DMD (Acting). Nilusasha Balasuriya said.
-
-Accordingly, she said that the new road system was implemented since the 6th.
-
-"One of the limitations can be given token by getting a single date and reservation. But after that amount, you can reserve you for a future date.
-
-Accordingly, any person can reserve a date through this site anywhere. Accordingly, this online system decided to implement November 6 on November 6. Therefore, we inform the public to avoid the prospect of reservation after the 6th of November. "
-
-◼️
-
-[Data](articles/11b031a2.json)
-
-[Extended Data](ext_articles/11b031a2.ext.json)
 
 ---

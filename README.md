@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 14:40:08**
+As of **2024-11-05 14:59:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,155 (100.0%) of 53,156 articles have been extended.
+53,156 (100.0%) of 53,156 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Gopalan and his family migrated a few hundred miles to the coastal city of Chenn
 ...
 
 [Data](articles/afe1e04c.json)
+
+[Extended Data](ext_articles/afe1e04c.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 05:24:39**
+As of **2024-11-05 05:45:55**
 
 ## Newspaper Stats
 
-*Scraped **53,063** Articles*
+*Scraped **53,064** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,949
 adaderanalk | 6,313
-tamilmirrorlk | 7,381
+tamilmirrorlk | 7,382
 virakesarilk | 8,569
 adaderanasinhalalk | 9,247
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,247
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,063 (100.0%) of 53,063 articles have been extended.
+53,064 (100.0%) of 53,064 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,32 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
+
+---
+
+### Don't waste the votes
+
+*2024-11-05 02:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குகளை-வீணடித்து-விடவேண்டாம்/175-346575) · `ta`
+
+Summarize text into 200 characters: "Candidate urges voters to choose innovative leaders over self-serving politicians. Supports All Ceylon Peoples Congress in Ampara district elections."
+
+🟩
+
+Azraf Tahir, a candidate for the All Ceylon Peoples Congress in the All Ceylon Peoples Congress in Digamadulla district, said that voters should come forward to vote for the people who voted for the parties who have lost their influence and voted for the people who have been voting for themselves.
+
+He said this while addressing the women's conference in support of the candidate Azrap Tahir in Nintavur.
+
+We must be free from simply voting for the candidates of the parties who do not do anything creative for the people.
+
+People's support for the All Ceylon Peoples Congress in Ampara District is increasing.
+
+I am contesting on behalf of the All Ceylon Peoples Congress in Nintavur.. Of the candidates contesting in the party, the candidate with more than 15 thousand votes is likely to be a member.
+
+...
+
+[Data](articles/fedd7709.json)
+
+[Extended Data](ext_articles/fedd7709.ext.json)
 
 ---
 
@@ -2271,27 +2297,5 @@ It is with great honor and profound admiration that I write this foreword for In
 [Data](articles/e56c3100.json)
 
 [Extended Data](ext_articles/e56c3100.ext.json)
-
----
-
-### Online token system for collecting passports amid ongoing queues
-
-*2024-11-04 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103150/online-token-system-for-collecting-passports-amid-ongoing-queues) · `en`
-
-The issuing of tokens for the distribution of currently available blank passports will be carried out online in the near future, Minister Vijitha Herath says.
-
-Speaking to the media following an event held in the Kadawatha area, Herath advised the general public not to wait in the queues to obtain passports in November unless for essential purposes.
-
-Nevertheless, long queues were observed again today at the passport office in Battaramulla as individuals waited to collect their passports.
-
-The government had previously urged the public on October 29 to visit the Immigration Department only for essential requirements, due to the limited availability of passports in the current stock.
-
-However, the crowds have persisted, with many expressing frustration over delays and the lengthy waiting times for passport collection.
-
-◼️
-
-[Data](articles/375646d4.json)
-
-[Extended Data](ext_articles/375646d4.ext.json)
 
 ---

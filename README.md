@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 11:24:10**
+As of **2024-11-05 11:40:38**
 
 ## Newspaper Stats
 
-*Scraped **53,115** Articles*
+*Scraped **53,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,955
 adaderanalk | 6,321
-tamilmirrorlk | 7,390
+tamilmirrorlk | 7,392
 virakesarilk | 8,572
 adaderanasinhalalk | 9,260
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,260
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,115 (100.0%) of 53,115 articles have been extended.
+53,117 (100.0%) of 53,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Will federalism be formed after the election?
+
+*2024-11-05 11:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலின்-பின்னர்-கூட்டாட்சி-அமைக்கப்படுமா/175-346587) · `ta`
+
+Federalism unlikely post-election: JVP rejects coalition formation with NPP. NPP uninterested in joint governance with previous government officials. Simple majority needed for regular laws, two-thirds for constitutional changes.
+
+🟩
+
+The Janatha Vimukthi Peramuna (JVP), the main coalition of the ruling party, the National People's Power (NPP), rejected the idea that the coalition would be formed after the general election.
+
+Responding to a question raised by the Daily Mirror on whether the National People's Power Coalition regime, JVP general secretary Dilvin Silva said that such a need would not be caused by the party (NPP) in the November 14 general election.
+
+He has made these comments as some parties in the North are planning to form a joint government with the NPP after the election.
+
+Tilvin Silva said that the government would hold talks with anyone interested but that it would not form any joint government. He said the NPP was not interested in accommodating those who had held responsibility in previous governments.
+
+...
+
+[Data](articles/f226a06a.json)
+
+[Extended Data](ext_articles/f226a06a.ext.json)
+
+---
+
+### Former president accusation against president
+
+*2024-11-05 11:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மீது-முன்னாள்-ஜனாதிபதி-குற்றச்சாட்டு/175-346585) · `ta`
+
+Former President Ranil Wickremesinghe accuses current President Anura Kumara of failing to fulfill election promises regarding salary increases for government employees. He claims this invalidates the president's right to seek re-election.
+
+🟩
+
+Former President Ranil Wickremesinghe said that President Anura Kumara should immediately report to the country that his government will provide a salary increase or additional salary increase to government employees.
+
+The former president has said that he has not fulfilled his promises to be president by the votes of government employees and has said that he has no moral right to seek re -election.
+
+Ranil Wickremesinghe said this while addressing the Matara District General Meeting of the New Democratic Front contesting the gas cylinder symbol. Remble
+
+◼️
+
+[Data](articles/cf9793a4.json)
+
+[Extended Data](ext_articles/cf9793a4.ext.json)
+
+---
 
 ### The son of mother's fingerprinted Angulamya
 
@@ -2271,59 +2317,5 @@ When we claim that there was no borrowing from any institution, we responded US 
 [Data](articles/cb074d4d.json)
 
 [Extended Data](ext_articles/cb074d4d.ext.json)
-
----
-
-### ”ஒரு பவுசர் எரிபொருளைக் கூட விற்க முடியவில்லை”
-
-*2024-11-04 18:19:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-பவுசர்-எரிபொருளைக்-கூட-விற்க-முடியவில்லை/175-346546) · `ta`
-
-Ceylon Petroleum Storage Terminals Limited Chairman DJAS states illegal fuel filling plants won't be charged in future. Excessive filling station permits lack scientific basis, constructed illegally for profit. Transparency needed in refueling station construction.
-
-🟩
-
-Ceylon Petroleum Storage Terminals Limited (CPSTL) Chairman DJAS says that there will be no opportunity to charge illegal fuel filling plants in the future.. டி.எஸ்.ராஜகருணா தெரிவித்தார்.
-
-Commenting on the media, he said that some filling stations were unable to sell a bowser (6,600 metric tonnes) fuel because of permission to build excessive filling stations.
-
-“Permits for these refueling stations have not been built in scientific system. They are illegally, large sums of money. ”
-
-Rajakaruna added that the construction of refueling stations should be carried out with transparency.
-
-◼️
-
-[Data](articles/7f0ad8f6.json)
-
-[Extended Data](ext_articles/7f0ad8f6.ext.json)
-
----
-
-### பாகிஸ்தானை பிரமிக்கவைத்த பெட் கமின்ஸின் துடுப்பாட்டம்; அவுஸ்திரேலியா 2 விக்கெட்களால் வெற்றி
-
-*2024-11-04 18:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197891) · `ta`
-
-Pakistan stunned by Bet Kamins' cricket skills as Australia wins by 2 wickets in Melbourne.
-
-🟩
-
-Australia won by 2 wickets in the first international ODI against Pakistan on Monday (04) at the Melbourne Cricket Stadium.
-
-Bet Kamins's skilled batting gave Australia a favorable decision in the match, which both teams clashed equal.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாட அழைக்கப்பட்ட பாகிஸ்தான் 46.4 ஓவர்களில் சகல விக்கெட்களையும் இழந்து 203 ஓட்டங்களைப் பெற்றது.
-
-அணித் தலைவர் மொஹம்மத் ரிஸ்வான் 44 ஓட்டங்களையும் பாபர் அஸாம் 37 ஓட்டங்களையும் நசீம் ஷா 40 ஓட்டங்களையும் ஷஹீன் ஷா அப்றிடி 24 ஓட்டங்களையும் பெற்றனர்.
-
-அவர்களில் மிச்செல் ஸ்டாக் 33 ஓட்டங்களுக்கு 3 விக்கெட்களையும் பெட் கமின்ஸ் 39 ஓட்டங்களுக்கு 2 விக்கெட்களையும் அடம் ஸம்ப்பா 64 ஓட்டங்களுக்கு 2 விக்கெட்களையும் கைப்பற்றினர்.
-
-எட்டாவது பந்துவீச்சாளராக அறிமுகப்படுத்தப்பட்ட மானுஸ் லபுஷேன் ஒரு ஓவரில் 5 ஓட்டங்களுக்கு ரிஸ்வானின் முக்கிய விக்கெட்டை கைப்பற்றினார்.
-
-Australia won the toss and elected to win 204 runs, losing 8 wickets in 33.3 overs with a slight inconvenience.
-
-...
-
-[Data](articles/0e680270.json)
-
-[Extended Data](ext_articles/0e680270.ext.json)
 
 ---

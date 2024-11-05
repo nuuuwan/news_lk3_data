@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 18:01:14**
+As of **2024-11-05 18:46:35**
 
 ## Newspaper Stats
 
-*Scraped **53,183** Articles*
+*Scraped **53,206** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,250 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 544
 bbccomsinhala | 544
 islandlk | 3,181
-economynextcom | 3,216
+economynextcom | 3,226
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,962
-adaderanalk | 6,335
-tamilmirrorlk | 7,400
-virakesarilk | 8,589
-adaderanasinhalalk | 9,273
+adalk | 4,964
+adaderanalk | 6,338
+tamilmirrorlk | 7,403
+virakesarilk | 8,592
+adaderanasinhalalk | 9,275
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,183 (100.0%) of 53,183 articles have been extended.
+53,188 (100.0%) of 53,206 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### அமெரிக்காவின் அடுத்த ஜனாதிபதி யார்?: நாளை தெரியவரும்
+
+*2024-11-05 18:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவின்-அடுத்த-ஜனாதிபதி-யார்-நாளை-தெரியவரும்/50-346610) · `ta`
+
+அமெரிக்க ஜனாதிபதி ஜோ பைடனின் பதவிக் காலம் அடுத்த ஆண்டு ஜனவரியுடன் முடிவடைகிறது. அடுத்த ஜனாதிபதியை தேர்வு செய்வதற்கான தேர்தல் ஏற்பாடுகள் இந்த ஆண்டு தொடக்கத்திலேயே தொடங்கிவிட்டன.
+
+அமெரிக்க ஜனாதிபதி தேர்தல் நவம்பர் 5ஆம் திகதி நடத்தப்படும் என அறிவிக்கப்பட்டது. ஜனாதிபதி தேர்தலுடன், பிரதிநிதிகள் சபை உறுப்பினர்கள் (435 உறுப்பினர்கள்) மற்றும் செனட் சபையின் 34 உறுப்பினர் பதவிகளுக்கும் தேர்தல் நடைபெறுகிறது.
+
+13 மாநில மற்றும் பிராந்திய ஆளுநர் பதவிகள் மற்றும் பல மாநிலங்களில் உள்ளாட்சித் தேர்தல்களும் நடைபெறும் என அறிவிக்கப்பட்டது.
+
+ஆளுங்கட்சியான ஜனநாயக கட்சி சார்பில் தற்போதைய துணை அதிபர் கமலா ஹாரிஸ் போட்டியிடுகிறார். எதிர்க்கட்சியான குடியரசு கட்சி சார்பில் முன்னாள் ஜனாதிபதி டொனால்டு டிரம்ப் போட்டியிடுகிறார். இந்த இரு கட்சி வேட்பாளர்களிடையே நேரடி போட்டி உள்ளது.
+
+அமெரிக்க சட்டப்படி தேர்தலில் முன்கூட்டியே வாக்குகளை செலுத்தும் வசதியும் உள்ளது. இந்த வசதியை பயன்படுத்தி 7 கோடிக்கும் அதிகமான வாக்காளர்கள் ஏற்கனவே வாக்களித்துவிட்டனர். ஜனாதிபதி வேட்பாளர் கமலா ஹாரிஸ் இ-மெயில் மூலம் நேற்று தனது வாக்கை செலுத்தினார்.
+
+...
+
+[Data](articles/9a53ff70.json)
+
+---
+
+### බණ්ඩරවත්තේ සිද්ධිය ගැන STF නිලධාරීන්ට අපරාධ චෝදනා එල්ල කිරීම සාක්ෂි නැහැ - නීතිපති
+
+*2024-11-05 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202941) · `si`
+
+අත්අඩංගුවට ගත් සැකකරුවෙකු විසින් සඟවා තිබූ ආයුධයකින් STF නිලධාරීන්ට වෙඩිතැබීමට උත්සාහ ගැනීමේදී නිලධාරීන්ගේ ප්‍රතිප්‍රහාර හමුවේ මියගිය සැකකරු සම්බන්ධයෙන් නීතිපතිවරයා අද (05) ලිපියක් මගින් අධිකරණයට දැනුම්දී ඇත්තේ මෙහිදී කිසිඳු පුද්ගලයකුට අපරාධ චෝදනා එල්ල කිරීම සඳහා සාක්ෂි නොමැති බවය.
+
+ඇහුන්ගල්ල පොලිස් වසමේ බලපිටිය බණ්ඩරවත්ත ගුරු විදුහල් ක්‍රීඩාංගණය අසල කැලෑබද ප්‍රදේශයකදී සඟවා තිබූ ගිනිඅවියක් පෙන්වීමට ගොස් තිබූ අවස්ථාවේදී මෙම සිද්ධිය ඇතිවී තිබුණි.
+
+එලෙස මියගොස් තිබුණේ, 2022 වර්ෂයේ ඔක්තෝබර් 12 වනදා ගාලු පාරේ අහුංගල්ල තරු පහේ හෝටලයක් ඉදිරිපිටදී මෝටර් රථයකින් පැමිණි පිරිසක් විසින් ත්‍රීරෝද රථ රියදුරෙකුට වෙඩිතැබීමේ සිද්ධියට අදාළව අත්අඩංගුවට ගත් සැකකරු ය.
+
+මේ සම්බන්ධයෙන් පොලිස් පරීක්ෂක කොළඹගේ මහතා අත්අඩංගුවට ගැනීමටද අධිකරණය නියෝග ලබාදුන් අතර මෙම නඩුව බලපිටියේ මහාධිකරණයේ විභාග වෙමින් පැවතුණි.
+
+ඒ අනුව නීතිපතිවරයා විසින් ඉහත පැහැදිලි කිරීම ලිපියක් මගින්  අධිකරණයට දැනුම්දී තිබේ.
+
+මෙසේ ඝාතනයට ලක් වූයේ තනමල්විල ප්‍රදේශයේ පදිංචිව සිටි 26 හැවිරිදි මහේෂ් ඉන්දික නමැති පුද්ගලයෙකි.
+
+...
+
+[Data](articles/2a87a334.json)
+
+---
+
+### NBRO issues landslide warnings for 8 districts
+
+*2024-11-05 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103189/nbro-issues-landslide-warnings-for-8-districts) · `en`
+
+The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in eight districts, as heavy rainfall continues in parts of the island.
+
+The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (06).
+
+Accordingly, a Level 1 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Galle, Kalutara, Kandy, Kegalle, Kurunegala, Matara and Ratnapura districts as follows:
+
+Matara – Kotapola, Akuressa and Pasgoda DSDs and surrounding areas
+
+Ratnapura – Elapatha, Ayagama, Openayake, Kiriella, Nivithigala, Kahawatta, Pelmadulla, Imbulpe, Balangoda, Godakawela and Kalawana DSDs and surrounding areas
+
+Meanwhile, a Level 2 (Yellow) warning was issued for the following areas:
+
+Kegalle – Kegalle, Dehiowita,  Yatiyanthota, Bulathkohupitiya, Ruwanwella, Warakapola,  Deraniyagala, Aranayake and  Galigamuwa  DSDs and surrounding areas
+
+...
+
+[Data](articles/4952f6e7.json)
+
+---
+
+### එකලස් කළ බී.එම්.ඩබ්ලිව්. මෝටර් රථයකට ව්‍යාපාරිකයෙක් අල්ලයි
+
+*2024-11-05 18:25:32* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-කළ-බී-එම්-ඩබ්ලිව්--මෝටර්-රථයකට-ව්‍යාපාරිකයෙක්-අල්ලයි/11-412869) · `si`
+
+නිත්‍යානුකුල නොවන ලෙසට මෙරටට ආනයනය කරන ලද බි එම් ඩබ්ලිව්  වර්ගයේ මෝටර් රථයක කොටස්  එකලස් කර වෙනත් වාහනයකට අයත් ලියාපදිංචි අංක තහඩු භාවිතා කර පාවිච්චි කිරීම සම්බන්ධයෙන් ව්‍යාපාරිකයෙකු අත්අඩංගුවට ගත් බව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කියයි.
+
+එම සැකකරුට එරෙහිව සොරා ගන්නා ලද මෝටර් රථයක් සඟවා තැබීම, එකලස් කරන ලද වාහනයක් බව දනිමින්ම භාවිතා කිරීම හා අලෙවි කිරීමට ආධාර අනුබලදීම යන චෝදනාද  වන බව පොලිසිය කියයි.
+
+මෙම වාහනය මෙරටට ආනයන කරන ලද ආකාරය මෙන්ම කොටස්  එකලස් කර නිර්මාණය කරන ලද පුද්ගලයින් සහ මේ සඳහා ආධාර අනුබල දුන් පුද්ගලයින් සම්බන්ධව වැඩිදුර විමර්ශන සිදු කර අත්අඩංගුවට ගන්නා බව උසස් පොලිස් නිලධාරියෙක් කීය.
+
+◼️
+
+[Data](articles/3c507baf.json)
+
+---
+
+### கொழும்பு மக்களின் வாழ்வாதாரத்தை கட்டியெழுப்ப நடவடிக்கை எடுப்பேன் - சீ.வை.பி.ராம்
+
+*2024-11-05 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197976) · `ta`
+
+அரசியல் அனுபவம் மற்றும் பொருளாதார முகாமைத்துவம் தொடர்பான அறிவை பயன்படுத்தி கொழும்பு மக்களின் வாழ்வாதாரத்தை கட்டியெழுப்ப தேவையான வேலைத்திட்டத்தை எங்களால் முன்னெடுக்க முடியும். அதற்கான சந்தர்ப்பத்தை கொழும்பு மக்கள் எனக்கு வழங்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் கொழும்பு மாவட்ட வேட்பாளரும் வடகொழும்பு அமைப்பாளருமான சீ.வை.பி.ராம் தெரிவித்தார்.
+
+கொழும்பில் பல்வேறு பிரதேசங்களில் செவ்வாய்க்கிழமை (5) இடம்பெற்ற மக்கள் சந்திப்புக்களில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+இந்தமுறை பாராளுமன்றத்துக்கு புது முகங்களை அனுப்பவேண்டும் என்ற நிலைப்பாட்டில் மக்கள் இருக்கின்றனர். கடந்த காலங்களில் மக்கள் பிரதிநிதிகளில் அதிகமானவர்கள் தங்களுக்கு வாக்களித்த மக்களை மறந்து செயற்பட்டு வந்துள்ளனர். தேர்தல் காலங்களில் மாத்திரம் மக்களிடம் பல்வேறு வாக்குறுதிகளை வழங்கி வாக்கு கேட்டுவிட்டு செல்கிறார்கள். அவர்கள் பாராளுமன்றத்துக்கு தெரிவாகி சென்ற பின்னர் தங்களுக்கு வாக்களித்த மக்களின் எந்த பிரச்சினைக்கும் தீர்வு காண்பதற்கு நடவடிக்கை எடுப்பதில்லை.
+
+...
+
+[Data](articles/a15ea375.json)
+
+---
+
+### Tense situation as Pastor Jerome arrives in Nawalapitiya
+
+*2024-11-05 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103188/tense-situation-as-pastor-jerome-arrives-in-nawalapitiya) · `en`
+
+A tense situation had been reported in the Mipitiya area of Nawalapitiya today (05) when controversial Pastor Jerome Fernando had arrived in the area.
+
+The villagers had strongly opposed his presence when Pastor Jerome arrived at a location where a rehabilitation centre for children with mental disorders is being constructed.
+
+Nawalapitiya Police officers had also been deployed later to control the situation.
+
+The villagers allege that the true purpose of the construction was to build a religious place under the guise of a rehabilitation centre for children.
+
+Amidst the strong opposition from the villagers, Pastor Jerome Fernando then left the location with his security personnel.
+
+◼️
+
+[Data](articles/fc37984c.json)
+
+---
+
+### US Presidential Election - Did you know these facts?
+
+*2024-11-05 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202940) · `si`
+
+Here's a 200-character summary:
+
+
+
+US Presidential Election: Donald Trump vs Joe Biden. Key points: First votes cast in New York City, Kamala Harris rallies in Pennsylvania, Trump promises border control and world peace. Both candidates' backgrounds highlighted.
+
+🟩
+
+The presidential election in the world is held today (05).
+
+In this presidential election, the former President Donald Trump and the present Affairs is a sharp competition between the current Affairs.
+
+The Election Day was already commenced and the first-night election of its traditional midnight was held in Dixwilad Noch.
+
+Six registered voters in the city had the first vote on the Election Day at the Balsamus Nomithana.
+
+The first vote of the election in this city has been tradition of US elections for about 60 years.
+
+This year's voter is special, which is the best of three votes and the remaining three votes.
+
+Meanwhile, Kamala Harris held the rally in their last election in the country yesterday.
+
+Commenting on the occasion, Kamala Harris emphasized that he has the more opportunity to win the election.
+
+She added the highest number of votes elections in the election.
+
+Meanwhile, Kamala Harris worked to promote the rally in Pennsalvania.
+
+...
+
+[Data](articles/0b47b715.json)
+
+[Extended Data](ext_articles/0b47b715.ext.json)
+
+---
+
+### American voters head to polls as turbulent campaign concludes
+
+*2024-11-05 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103187/american-voters-head-to-polls-as-turbulent-campaign-concludes) · `en`
+
+The dizzying presidential contest between Republican Donald Trump and Democrat Kamala Harris hurtled toward an uncertain finish on Tuesday as millions of Americans headed to the polls to choose between two sharply different visions for the country.
+
+A race whipsawed by unprecedented events - two assassination attempts against Trump, President Joe Biden’s surprise withdrawal and Harris’ rapid rise - remained too close to call, even after billions of dollars in spending and months of frenetic campaigning.
+
+Trump’s campaign has suggested he may declare victory on election night even while millions of ballots have yet to be counted, just as he did four years ago. The former president has repeatedly said any defeat could only stem from widespread fraud, echoing his false claims from 2020. The winner may not be known for days if the margins in key states are as slim as expected.
+
+...
+
+[Data](articles/6256c574.json)
+
+---
+
+### Strong accident: driver's license fake
+
+*2024-11-05 18:00:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/துங்கிந்த-விபத்து-சாரதி-அனுமதிப்பத்திரம்-போலியானது/76-346609) · `ta`
+
+Driver's license fake: Bus crash kills two, injures 40. Driver suspended after previous accident. Police investigating fake license.
+
+🟩
+
+Senior Superintendent of Police, Vasantha Kandewatam, said that police investigations have revealed that the driver of the driver of the bus in the Badulla area was suspended.
+
+The court had suspended the driver's license on the previous accident in Akmemana on August 6, 2024, the driver of the Galle Alvitigala, the driver of the Galle Alvitigala.
+
+In this case, the superintendent Vasantha Kandewatta also stated that investigations have been launched on how he received a fake driver's license.
+
+The driver of the bus, from the Intensive Care Unit of the Badulla Teaching Hospital, was transferred to the General Ward on Tuesday (05). Police said he was going to have a confession.
+
+Two people were killed and forty people were killed in an accident on November 1 in the Dunhita Ambakahaoya area of ​​Badulla - Mahiyanganaya road.
+
+John Kothalawala Security University students, a group of students who traveled on an academic journey for a survey of the sum census, were traveling in the bus.
+
+◼️
+
+[Data](articles/38506575.json)
+
+[Extended Data](ext_articles/38506575.ext.json)
+
+---
+
+### Johnston Fernando withdrew the Rid petition
+
+*2024-11-05 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197973) · `ta`
+
+Former Minister Johnston Fernando withdraws appeal court petition seeking arrest over BMW case. Case dismissed due to bail granted earlier.
+
+🟩
+
+Former minister Johnston Fernando has withdrawn the writ petition filed in the Court of Appeal demanding his arrest.
+
+The former minister had filed a petition demanding that he be arrested in the case of the discovery of a BMW car in Colombo at the star hotel complex in Colombo.
+
+The petition on behalf of the Court of Appeal Mohammed Labar Tahir and Johnston Fernando on behalf of the Court of Appeal on Tuesday (05) announced that the court did not want to continue the case as their party had already been granted bail by the Magistrate's Court.
+
+Accordingly, the Court of Appeal, which accepted the request, has been granted permission to recover the petition.
+
+◼️
+
+[Data](articles/9e5dd466.json)
+
+[Extended Data](ext_articles/9e5dd466.ext.json)
+
+---
 
 ### Landslide Warnings for several areas
 
@@ -59,6 +285,50 @@ And tomorrow will occur at several places in the middle, Sabaragamuwa, Uva and S
 [Data](articles/60ecd71d.json)
 
 [Extended Data](ext_articles/60ecd71d.ext.json)
+
+---
+
+### Sri Lanka Customs delays hurting competiveness, promotes corruption: researchers
+
+*2024-11-05 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-delays-hurting-competiveness-promotes-corruption-researchers-186180/) · `en`
+
+ECONOMYNEXT – Delays in clearing cargo in Sri Lanka is pushing up costs for business and consumers, undermines global competitiveness and is also promoting competitiveness, according to a Ceylon Chamber of Commerce paper.
+
+“This inefficiency not only exacerbates delays but also creates opportunities for corruption, ultimately inflating consumer prices on imported goods for local consumption while losing export competitiveness on imported inputs for exports,” Saumya Amarasiriwardane, economist at Ceylon Chamber of Commerce, Dinesh de Silva, a trade facilitation expert wrote in an analysis.
+
+“Cargo clearance delays have become a significant bottleneck at Sri Lanka’s Customs examination yards from time to time.
+
+“These delays stem from several interrelated factors, including bureaucratic inefficiencies and outdated processes. The inadequate infrastructure at customs clearance yards including access roads, exacerbates the situation.
+
+...
+
+[Data](articles/4bf2fb2d.json)
+
+[Extended Data](ext_articles/4bf2fb2d.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 293.00/15 to dollar, bonds steady
+
+*2024-11-05 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-00-15-to-dollar-bonds-steady-186198/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed more or less flat at 293.00/15 to the US dollar Tuesday from 293.05/20 to the US dollar on Monday dealers said, while bond yields were steady.
+
+A bond maturing on 15.12.2026 closed at 10.55/65 percent, from 10.50/75 percent.
+
+A bond maturing on 15.12.2027 closed at 11.40/55 percent, from 11.40/60 percent.
+
+A bond maturing on 15.03.2028 closed at 11.68/78 percent, down from 11.70/80 percent.
+
+A bond maturing on 15.06.2029 closed at 11.95/12.05 percent, from 11.95/12.05 percent.
+
+The central bank announced it will be issuing Rs 175,000 million Treasury bills through an auction on Wednesday (6). (Colombo/Nov05/2024)
+
+◼️
+
+[Data](articles/164a316e.json)
+
+[Extended Data](ext_articles/164a316e.ext.json)
 
 ---
 
@@ -99,6 +369,22 @@ Furthermore, the Prisons Spokesman added that strict disciplinary action will be
 [Data](articles/ea57d0f8.json)
 
 [Extended Data](ext_articles/ea57d0f8.ext.json)
+
+---
+
+### ஜனாதிபதி பொய்யான வாக்குறுதிகளால் மக்களை ஏமாற்ற முடியாது - ஜீவன்
+
+*2024-11-05 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197957) · `ta`
+
+தற்போதைய ஜனாதிபதி பெருந்தோட்ட தொழிலாளர்களுக்கு 2000 ரூபாய் சம்பளம் வழங்க வேண்டும் என்று கடந்த காலங்களில் பல மேடைகளில் சாத்தியமற்ற உறுதிமொழிகளை வழங்கினார் ஆனால் ஞாயிற்றுக்கிழமை 3 ஆம் திகதி நுவரெலியாவில் நடந்த கூட்டத்தில் பெருந்தோட்ட தொழிலாளர்களுக்கு  சம்பளம் கணிசமான அளவு அதிகரிக்கப்படும் என தெரிவிக்கின்றார் இவ்வாறான பொய்யான வாக்குறுதிகளால் மக்களை ஏமாற்ற முடியாது என இலங்கை தொழிலாளர் காங்கிரஸின்பொதுச்செயலாளரும் நுவரெலியா மாவட்ட வேட்பாளருமான ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+
+டயகாமம் பகுதியில் திங்கட்கிழமை 4 இடம்பெற்ற தேர்தல் பிரச்சார கூட்டத்தில் கலந்து கொண்டு கருத்து தெரிவித்த போதே அவர் இதனை தெரிவித்துள்ளார்.
+
+கடந்த 4 வருடங்களுக்கு மேலாக பல்வேறு அவமானங்களையும்  பிரச்சினைகளையும்  சந்தித்தித்து தோட்டத் தொழிலாளர்களுக்கு சம்பள அதிகரிப்பை பெற்றுக் கொடுப்பதாக உறுதியளித்தோம் தற்போது அந்த வாக்குறுதியை நிறைவேற்றியிருக்கிறோம் தொடர்ந்து எமது மக்கள் பல பிரச்சினைகளை எதிர்கொள்கின்றனர்.
+
+...
+
+[Data](articles/cdb9398d.json)
 
 ---
 
@@ -160,6 +446,30 @@ A British official who spoke to Tamils ​​in Diocarcia said that the decision
 
 ---
 
+### Sri Lanka stocks close down, banks see mixed interest
+
+*2024-11-05 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-see-mixed-interest-186189/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, official data showed.
+
+The broader ASPI closed 0.46 percent or 59.48 points lower at 12,795; while the more liquid S&P SL20 Index closed 0.58 percent or 22.60 points lower at 3,852.
+
+Trades in Hatton National Bank voting stock contributed 758 million rupees to turnover.
+
+Several banking stocks closed down; HNB (down at 228.00), Commercial Bank (down at 116.75), Sampath Bank (up at 89.90), DFCC Bank (up at 83.90), and NDB (down at 86.20).
+
+Banking stocks had been appreciating. Last week, high net worth individuals were collecting in HNB and banking stock, market participants said.
+
+“Market went up too fast, so this is likely a correction,” Softlogic Stockbrokers said.
+
+“We don’t see that the market is jittery ahead of the general election. No threat to market activity is perceived.”
+
+...
+
+[Data](articles/a589b170.json)
+
+---
+
 ### The horn of the break;Exit students
 
 *2024-11-05 16:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைவேளையில்-வந்த-கொம்பன்-வெளியேறிய-மாணவர்கள்/175-346608) · `ta`
@@ -182,6 +492,40 @@ Commenting on the incident, the school principal said that immediate action shou
 
 ---
 
+### Sri Lanka’s CPC opts for fixed dealer margin to reduce fuel cost
+
+*2024-11-05 16:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpc-opts-for-fixed-dealer-margin-to-reduce-fuel-cost-186191/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-owned Ceylon Petroleum Corporation (CPC) has decided to implement a fixed amount for dealer margin from November 1 instead of a fixed percentage in the existing price formula, a top official said, in a move to reduce the fuel cost.
+
+However, dealers have challenged the decision of CPC Board of Directors in court, which has stayed the decision until November 12, the fuel retailer’s Chairman D J A S De S Rajakaruna said.
+
+The move comes after public grumbling of price reduction by President Anura Kumara Dissanayake ahead of his election on September 21.
+
+Dissanayake and his Marxist Janatha Vimukthi Peramuna (JVP) members have said the previous government had imposed more than a 30 percent tax and they will remove the tax once they win the election.
+
+Since coming to power, Dissanayake government has reduced widely used Octane 92 and white diesel prices once.
+
+...
+
+[Data](articles/8fb18234.json)
+
+---
+
+### ආරක්ෂාව අඩු කිරීම ගැන හිටපු ජනාධිපති චන්ද්‍රිකාගෙන් මහජන ආරක්ෂක ලේකම්ට ලිපියක්
+
+*2024-11-05 16:28:27* · [`adalk`](https://www.ada.lk/breaking_news/ආරක්ෂාව-අඩු-කිරීම-ගැන-හිටපු-ජනාධිපති-චන්ද්‍රිකාගෙන්-මහජන-ආරක්ෂක-ලේකම්ට-ලිපියක්/11-412867) · `si`
+
+හිටපු ජනාධිපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් සිය ආරක්ෂාව අඩු කර ඇති බවට මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම්, රවී සෙනෙවිරත්න මහතා වෙත ලිපියක් යොමු කරමින් සඳහන් කර තිබේ.
+
+ඒ අනුව තමන්ගේ ආරක්ෂාවට යොදවා සිටි ආරක්ෂක අංශ නිලධාරීන් 50ක ප්‍රමාණය 30ක් දක්වා අඩුකර තිබෙන බව හිටපු ජනාධිපති චන්ද්‍රික බණ්ඩාරනායක මහත්මිය එම ලිපියේ සඳහන් කර ඇත.
+
+◼️
+
+[Data](articles/f504b83b.json)
+
+---
+
 ### Case for those who did not accept government quarters
 
 *2024-11-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202936) · `si`
@@ -201,6 +545,22 @@ Addressing a public meeting in Ampara, President Anura Kumara Dissanayake made t
 [Data](articles/6cd23cb6.json)
 
 [Extended Data](ext_articles/6cd23cb6.ext.json)
+
+---
+
+### பூஜித், ஹேமசிறிக்கு எதிரான விசாரணையைத் தொடர உத்தரவு
+
+*2024-11-05 16:01:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பூஜித்-ஹேமசிறிக்கு-எதிரான-விசாரணையைத்-தொடர-உத்தரவு/150-346607) · `ta`
+
+ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல் சம்பவம் தொடர்பான குற்றச்சாட்டில் இருந்து முன்னாள் பொலிஸ் மா அதிபர் பூஜித் ஜயசுந்தர மற்றும் முன்னாள் பாதுகாப்புச் செயலாளர் ஹேமசிறி பெர்னாண்டோ ஆகியோரை விடுவித்து உத்தரவிட்ட கொழும்பு மேல் நீதிமன்றத் தீர்ப்பை ரத்து செய்துள்ளதுடன்  விசாரணையைத் தொடரவும், குற்றம் சாட்டப்பட்டவர்கள் தங்கள் வாதத்தை முன்வைக்கவும் உயர் நீதிமன்றம் இன்று (05) உத்தரவிட்டுள்ளது.
+
+ஜெயசுந்தர மற்றும் பெர்னாண்டோவை விடுதலை செய்ய உத்தரவிட்ட மேல் நீதிமன்ற தீர்ப்பை எதிர்த்து சட்டமா அதிபரினால் தாக்கல் செய்யப்பட்ட இருவேறு மேன்முறையீட்டு மனுக்களுக்கு பதிலளிக்கும் வகையில், நீதியரசர்களான ப்ரீத்தி பத்மன் சூரசேன, யசந்த கோதாகொட, குமுதினி விக்கிரமசிங்க, மஹிந்த சமயவர்தன மற்றும் அர்ஜுன ஒபேசேகர ஆகிய ஐந்து நீதிபதிகள் அடங்கிய உயர் நீதிமன்ற நீதிபதிகள் குழாம் இந்த தீர்ப்பை வழங்கியுள்ளது.
+
+வழக்கின் சிக்கலான தன்மையையும், தீவிரத்தன்மையையும் கருத்தில் கொண்டு, மேல் நீதிமன்ற நீதிபதிகள் குற்றம் சாட்டப்பட்டவர்களை தங்கள் வாதத்திற்கு அழைக்காமல் விடுவிப்பது ஏற்புடையதல்ல என்று உயர் நீதிமன்றம் கூறியது.
+
+...
+
+[Data](articles/76e3cf3e.json)
 
 ---
 
@@ -400,6 +760,24 @@ The water cut will be implemented in the Divisional Secretariat area of ​​Ka
 
 ---
 
+### Kavinda de Zoysa new chairman of Bank of Ceylon
+
+*2024-11-05 15:20:00* · [`economynextcom`](https://economynext.com/kavinda-de-zoysa-new-chairman-of-bank-of-ceylon-186170/) · `en`
+
+ECONOMYNEXT – Kavinda de Zoysa has been appointed chairman and director of the Bank of Ceylon with effect from Monday (4).
+
+This appointment has been made pursuant to instructions from the Ministry of Finance, Economic Development, Policy Formulation, Planning and Tourism, the bank said in a stock exchange filing.
+
+De Zoysa is a career banker with over 30 years of industry experience and 25 years in management.
+
+He most recently served as Director and Country Business Head of Citibank NA, Sri Lanka. (Colombo/Nov5/2024)
+
+◼️
+
+[Data](articles/beab79d6.json)
+
+---
+
 ### KDU bus accident: Driver had license suspended over drunken accident, court told
 
 *2024-11-05 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103183/kdu-bus-accident-driver-had-license-suspended-over-drunken-accident-court-told) · `en`
@@ -417,6 +795,24 @@ The driver, identified as a resident of Dammala area of Udugama, had allegedly f
 [Data](articles/ff30e27e.json)
 
 [Extended Data](ext_articles/ff30e27e.ext.json)
+
+---
+
+### US election gets under way
+
+*2024-11-05 15:08:00* · [`economynextcom`](https://economynext.com/us-election-gets-under-way-186165/) · `en`
+
+ECONOMYNEXT – The US presidential election got underway as Americans headed to the polls to choose between current Vice President Kamala Harris and former President Donald Trump.
+
+Democratic nominee Harris and Republican nominee Trump each need at least 270 electoral votes, a majority of the total 538 Electoral College votes, to win.
+
+The battleground states of Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin are expected to be pivotal, CNN reported.
+
+Both tied with three votes each in the tiny New Hampshire community of Dixville Notch, which opened and closed its poll just after midnight ET in a decades-old tradition, CNN said. (Colombo/Nov5/2024)
+
+◼️
+
+[Data](articles/b3ab5939.json)
 
 ---
 
@@ -595,6 +991,24 @@ Police also mentioned that Clorian is the son of another notorious criminal and 
 [Data](articles/cd8932d7.json)
 
 [Extended Data](ext_articles/cd8932d7.ext.json)
+
+---
+
+### Nation Lanka Finance to raise Rs3bn through private placement
+
+*2024-11-05 14:32:00* · [`economynextcom`](https://economynext.com/nation-lanka-finance-to-raise-rs3bn-through-private-placement-186151/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Nation Lanka Finance said it plans a private placement of 30 billion ordinary shares at 10 cents a share to meet working capital requirements.
+
+Five billion ordinary shares will be issued initially and subsequently twenty five billion ordinary shares, to Sugath Rathnawardana Holding Ceylon (Pvt) Limited, the finance company said in a stock exchange filing.
+
+The company has received in principal approval from the Central Bank of Sri Lanka subject to necessary regulatory approvals.
+
+Nation Lanka Finance’s current stated capital is 4.1 billion rupees (4,108,420,583.00) and the new funds will “meet the Core Capital Requirement and the funds will be utilized to meet the working capital requirements,” it said.
+
+◼️
+
+[Data](articles/28a450aa.json)
 
 ---
 
@@ -872,6 +1286,26 @@ The number of tourists have been planned to travel in Colombo, Habarana, Kandy, 
 
 ---
 
+### Sri Lanka’s EDB forms task force to address exporters issues
+
+*2024-11-05 13:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-edb-forms-task-force-to-address-exporters-issues-186144/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Export Development Board has established a trade facilitation task force to address challenges in the export value chain and increase export efficiency.
+
+The task force comprises representatives from 35 public sector organizations directly involved in facilitating cross-border trade.
+
+“Its main objective is to identify operational issues and develop solutions to the obstacles faced by exporters, aiming to address these challenges in the shortest possible time,” the EDB said in a statement.
+
+“Through this initiative, the EDB seeks to foster cooperation between institutions to streamline trade processes, improve export efficiency, and support the country’s economic growth.”
+
+By reducing trade barriers and enhancing inter-agency collaboration, the task force will enable exporters to boost their competitiveness in global markets, the EDB said.
+
+...
+
+[Data](articles/e73d26d4.json)
+
+---
+
 ### Commentary brother-in-law arrested
 
 *2024-11-05 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෑනා-ඝාතනය-කළ-මස්සිනා-අල්ලයි/11-412863) · `si`
@@ -1093,6 +1527,24 @@ The suspect is a 38-year-old resident of Korathegoda, Koratta, Koratta, Koratta,
 [Data](articles/5f80452b.json)
 
 [Extended Data](ext_articles/5f80452b.ext.json)
+
+---
+
+### Sri Lanka needs policies to increase rubber production, make use of FTAs: Michelin
+
+*2024-11-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-policies-to-increase-rubber-production-make-use-of-ftas-michelin-186117/) · `en`
+
+ECONOMYNEXT – Global tyre manufacturer Michelin has said the Sri Lanka government needs to implement proactive policies to increase rubber production in the island to provide impetus to value-added rubber products, and take steps to expand market access through free trade agreements.
+
+A team from Michelin met Sri Lanka’s Export Development Board officials last week (Nov 1) to discuss further opportunities in the island nation’s rubber manufacturing sector.
+
+“The representatives of Michelin pointed out that the government needs to implement proactive policies to increase rubber production in Sri Lanka to provide impetus to value-added rubber products while taking initiatives to expand market access through FTAs,” a statement by the EDB said.
+
+“They also stressed the necessity of establishing a dedicated rubber zone to manufacture different types of rubber products in the island.”
+
+...
+
+[Data](articles/566f2c85.json)
 
 ---
 
@@ -1628,6 +2080,26 @@ When they were not at home, some people who claimed that they belonged to the Pa
 
 ### Consistent updates on economic strategies needed from Sri Lanka gov: Former minister
 
+*2024-11-05 10:42:00* · [`economynextcom`](https://economynext.com/consistent-updates-on-economic-strategies-needed-from-sri-lanka-gov-former-minister-186109/) · `en`
+
+ECONOMYNEXT – There is no clear communication from the Sri Lanka government on its economic strategies, former State Minister of Finance Shehan Semasinghe has said.
+
+“Firm and transparent messaging would prevent speculation and mitigate the spread of inaccurate information,” Semasinghe said on social media platform X (twitter).
+
+“Consistent updates from the government on economic strategies, along with clear timelines for policy implementations, would provide assurance that these commitments are being honored.”
+
+The former minister who worked with the International Monetary Fund team after Sri Lanka’s economic crisis, said it was “crucial for public understanding to have clarity on how these steps contribute to overall economic recovery and stability”.
+
+The achievement of the 2025 revenue targets, including the primary surplus target of 2.3 percent of GDP, is tied to lifting vehicle import restrictions, Semasinghe said.
+
+...
+
+[Data](articles/14e15081.json)
+
+---
+
+### Consistent updates on economic strategies needed from Sri Lanka gov: Former minister
+
 *2024-11-05 10:42:00* · [`economynextcom`](https://economynext.com/consistent-updates-on-economic-strategies-from-sri-lanka-government-needed-former-minister-186109/) · `en`
 
 ECONOMYNEXT – There is no clear communication from the Sri Lanka government on its economic strategies, former State Minister of Finance Shehan Semasinghe has said.
@@ -1903,545 +2375,5 @@ In addition, a person was arrested in Peliyakotuwatta area in Peliyakalkallawatt
 [Data](articles/c3357e0e.json)
 
 [Extended Data](ext_articles/c3357e0e.ext.json)
-
----
-
-### Doctors at Karapitiya Hospital launches a continuous strike
-
-*2024-11-05 09:55:21* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-රෝහලේ-වෛද්‍යවරුන්-අඛණ්ඩ-වර්ජනයක්-ආරම්භ-කරයි/11-412859) · `si`
-
-Karapitiya Hospital doctors launch strike over transfer issue. Previous protest led to suspension. Current action ongoing as of 05 date.
-
-🟩
-
-Doctors in the Karapitiya Teaching Hospital launched today (05).
-
-The doctors in the hospital had previously launched a strike on the strike and the doctor was suspended on the promise that the doctor was transferred.
-
-◼️
-
-[Data](articles/6160e77f.json)
-
-[Extended Data](ext_articles/6160e77f.ext.json)
-
----
-
-### 2024 General Election: 60 polling stations relocated from Buddhist Temples
-
-*2024-11-05 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103168/2024-general-election-60-polling-stations-relocated-from-buddhist-temples) · `en`
-
-The Chairman of the Election Commission of Sri Lanka R.M.A.L. Rathnayake states that the 2024 General Election will be held on 14 November 2024 as scheduled, as the petition challenging the election date was dismissed by the Supreme Court without taking into consideration.
-
-Furthermore, Rathnayake mentioned that 60 polling stations which were slated to be established at Buddhist Temples were shifted to other locations, owing to ‘Katina Pinkama’ ceremonies and several other reasons.
-
-Commenting regarding the matter, the Election Commission Chairman said that several parties had raised concerns on holding the election using Buddhist Temples as polling stations during the period when ‘Katina Pinkama’ ceremonies are being held.
-
-...
-
-[Data](articles/fa894462.json)
-
-[Extended Data](ext_articles/fa894462.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 293.05/20 to dollar, bond yields steady
-
-*2024-11-05 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-293-05-20-to-dollar-bond-yields-steady-186090/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.05/20 to the US dollar Tuesday, dealers said, while bond yields were steady.
-
-A bond maturing on 01.08.2026 was quoted at 10.40/55 percent.
-
-A bond maturing on 15.12.2027 was quoted stable at 11.45/55 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.70/80 percent.
-
-A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.20/25 percent.
-
-The central bank announced that 175,000 million rupees Treasury bills are to be issued through an auction on Wednesday (6).
-
-In equities, Colombo’s All Share Price Index opened up 0.08 percent, or 10.54 points higher at 12,865, while the S&P SL20 of more liquid stocks opened up 0.19 percent or 7.28 points higher at 3,882.
-
-◼️
-
-[Data](articles/d905291a.json)
-
-[Extended Data](ext_articles/d905291a.ext.json)
-
----
-
-### Thai woman arrested with ‘Ice’ worth Rs. 100 million at BIA
-
-*2024-11-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103167/thai-woman-arrested-with-ice-worth-rs-100-million-at-bia) · `en`
-
-The officers of the Narcotics Control Unit at Bandaranayake International Airport (BIA) in Katunayake have arrested a female passenger at the green channel who had arrived from Malaysia with a stock of narcotic substances identified as Crystal Methamphetamine (Ice).
-
-The 33-year-old female, with a Thailand passport, had arrived in Sri Lanka from Kuala Lumpur, Malaysia via Singapore by the flight SQ468 operated by Singapore Airline at around 11.55 p.m. last night.
-
-Police said that the stock of drugs, concealed in the food packages in the suspect’s bagages, weighs around 5kg in total and is estimated to have a street value of Rs. 100 million.
-
-Further investigations are underway by the Sri Lanka Customs together with the Police Narcotics Bureau (PNB).
-
-◼️
-
-[Data](articles/a374a5c0.json)
-
-[Extended Data](ext_articles/a374a5c0.ext.json)
-
----
-
-### GCE.. Ordinary Level Examination applications will be accepted from today
-
-*2024-11-05 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197910) · `ta`
-
-GCE Ordinary Level Exam applications open now until 30th April. Apply online at doenets.lk or onlineExams.gov.lk. School students apply via principals, private candidates directly. Contact 0112784208/0112784537/0112785922 or gceolexamsl@gmail.com for details.
-
-🟩
-
-The Department of Examinations has announced that applications for the GCE Ordinary Level Examination for 2024 (2025) will be accepted from today (05) to 30th.
-
-The Department of Examinations said in a statement issued on Monday (04) that applications sent through the official website www.doenets.lk or www.onlineExams.gov.lk/eic will be accepted.
-
-Accordingly, all school applicants must submit their exam applications through school principals. At the same time, private applicants will be allowed to apply for the exam personally.
-
-The timeline for submitting applications through the Internet will be completed by midnight on the 30th of this month. At the same time, the department said that no time periods will be given.
-
-For further information on submitting applications, you can contact the telephone numbers 0112784208/ 0112784537/0112785922 or by email address gceolexamsl@gmail.com.
-
-◼️
-
-[Data](articles/853a2b4c.json)
-
-[Extended Data](ext_articles/853a2b4c.ext.json)
-
----
-
-### Current govt. simply continues policies of previous administrations – Dilith
-
-*2024-11-05 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103166/current-govt-simply-continues-policies-of-previous-administrations-dilith-) · `en`
-
-Leader of the ‘Sarvajana Balaya’ alliance, Gampaha District Parliamentary candidate, Entrepreneur Dilith Jayaweera states that the current government lacks a progressive vision and simply continues the policies of previous administrations.
-
-Addressing a public rally held in Ratnapura, Jayaweera said: “Ranil Wickremesinghe, who is undoubtedly a skilled and seasoned politician, now suggests to send experienced people for leadership. But his vast experience comes with consequences.”
-
-“He’s a politician so adept that he’s managed to erode the foundations of major political parties—those built by Mr. Senanayake, Mr. Bandaranaike, and Wijeweera. Today, he seems pleased with what he’s accomplished, almost as if he’s reveling in it.”
-
-...
-
-[Data](articles/a1af0b09.json)
-
-[Extended Data](ext_articles/a1af0b09.ext.json)
-
----
-
-### One person dies in an accident in Eheliyagoda
-
-*2024-11-05 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197909) · `ta`
-
-Motorcycle crash kills one in Eheliyagoda. Driver lost control on Elenakoda road. Police investigating. Accident happened Monday.
-
-🟩
-
-A motorcycle driver has died in an accident when a motorcycle driver lost control of the driver of the Eheliyagoda, Elenakoda road.
-
-As the accident occurred on Monday (4), police are conducting further investigations into the accident.
-
-◼️
-
-[Data](articles/67a5477f.json)
-
-[Extended Data](ext_articles/67a5477f.ext.json)
-
----
-
-### President
-
-*2024-11-05 09:01:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-உருவம்-பொறிக்கப்பட்ட-போலி-நாணயத்தாள்/175-346580) · `ta`
-
-Man arrested for producing fake currency featuring President Anura Kumara Dissanayake. Suspect, 38, from Korada, Athurugiriya.
-
-🟩
-
-A man has been arrested by the Criminal Investigation Department who has produced a 5,000 rupee fake currency paper inscribed on the image of President Anura Kumara Dissanayake.
-
-The arrested suspect is said to be 38 years old from Korada area, Athurugiriya.
-
-◼️
-
-[Data](articles/654a6ac8.json)
-
-[Extended Data](ext_articles/654a6ac8.ext.json)
-
----
-
-### We don't have to worry about our politics - Dilith
-
-*2024-11-05 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202920) · `si`
-
-Dilith Jayaweera criticizes current government's lack of vision. He accuses Ranil Wickremesinghe of appointing inexperienced politicians. Jayaweera calls for courageous opposition, mentioning Anura Kumara as an example.
-
-🟩
-
-The Kandy district candidate entrepreneur Dilith Entrepreneurship Dilith Jayaweera says that the government has implemented the present government's program.
-
-He points out that the present government has no new vision to move forward.
-
-Addressing entrepreneur Dilith Jayaweera expressed his views while participating in a famil in Ratnapura.
-
-"That's the ethnic politician and experienced politician of Ranil Wickremesinghe propose to send experienced people. He is a very experienced politician. If he says how experienced he is D. Eyes. Mr. Senanayake appointed party, Mr. Bandaranaike, and the party of Wegeweera.. The emotional politician who destroyed all these parties, or not. Wherever he brightened today. Survived the exan of the execution too. "
-
-...
-
-[Data](articles/388ae690.json)
-
-[Extended Data](ext_articles/388ae690.ext.json)
-
----
-
-### Karapitiya Hospital’s doctors launch indefinite strike
-
-*2024-11-05 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103165/karapitiya-hospitals-doctors-launch-indefinite-strike-) · `en`
-
-The doctors at the Karapitiya National Hospital have launched an indefinite strike starting from 8:00 a.m. today (Nov. 5), in protest over the alleged misconduct by a specialist doctor in the hospital’s oncology unit.
-
-This action follows an earlier token strike over the same issue, with doctors expressing frustration over the lack of a solution from hospital authorities.
-
-The Co-Secretary of the Government Medical Officers’ Association (GMOA) Dr. Asanka Konara stated that the strike aims to pressure authorities into addressing long-standing concerns about the specialist doctor’s behavior.
-
-He noted that despite previous strike actions, no effective solutions have been provided, prompting the doctors to escalate their protest.
-
-When inquired by Ada Derana, Director of Karapitiya Hospital Dr. S.P.U.M. Ranga confirmed that the Ministry of Health has decided to transfer the specialist doctor in question to the Maharagama Cancer Hospital.
-
-...
-
-[Data](articles/402e03a9.json)
-
-[Extended Data](ext_articles/402e03a9.ext.json)
-
----
-
-### Special commodity levy on imported sugar extended
-
-*2024-11-05 08:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103164/special-commodity-levy-on-imported-sugar-extended) · `en`
-
-The government has decided to extend the special commodity levy of Rs. 50 per kilogram on imported sugar until December 31, continuing the levy that was originally set to expire on November 01.
-
-This extension was formalized through a Gazette notification issued by President Anura Kumara Dissanayake in his capacity as Minister of Finance.
-
-The initial tax, implemented on November 01 last year, aimed to stabilize local market prices amid fluctuations in the global sugar trade.
-
-Commenting on the decision, former minister Manusha Nanayakkara criticized the administration for maintaining taxes on essential items, despite previous promises to reduce them.
-
-He pointed out that while the government has publicly committed to easing the tax burden on food items, it has taken steps to retain the tax on sugar imports.
-
-◼️
-
-[Data](articles/8e8ebb75.json)
-
-[Extended Data](ext_articles/8e8ebb75.ext.json)
-
----
-
-### President will introduce a new political culture to the country
-
-*2024-11-05 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202919) · `si`
-
-President Anura Kumara Dissanayake introduces new political culture: Establishes standards for politicians, emphasizes equality under the law, criticizes current political practices.
-
-🟩
-
-President Anura Kumara Dissanayake says that the prospect of the national propagation in the country is the expected hope for the national power.
-
-The President points out that a standard for politics should be implemented.
-
-President Anura Kumara Dissanayake made these comments addressing a rally in Moneragala.
-
-...
-
-[Data](articles/7226eb0d.json)
-
-[Extended Data](ext_articles/7226eb0d.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-11-05 08:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103163/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology warns that heavy  showers  of about  100  mm  are  likely  at  some  places  in  Central,  Sabaragamuwa,  North-Central, Uva provinces and in Kurunegala district today (05).
-
-Showers or thundershowers will occur in the most parts of the island during the evening or night, the Met. Department said.
-
-Showers will occur at several places over the coastal areas of Western and Southern provinces and in Ampara district during the morning too, according to the department.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused  by  temporary localized strong winds and lightning  during  thundershowers  as  the  atmospheric  conditions  are  favorable further for afternoon thundershowers in most parts of the island.
-
-◼️
-
-[Data](articles/1ecfb27a.json)
-
-[Extended Data](ext_articles/1ecfb27a.ext.json)
-
----
-
-### Sri Lanka kerosene use rockets amid subsidies
-
-*2024-11-05 08:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-kerosene-use-rockets-amid-subsidies-186075/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s kerosene use has rocketed 65 percent up to August 2024, official data showed, amid subsidized pricing that has given incentives to use the aviation-like fuel for industrial and ground transport.
-
-Kerosene sales rose 87.4 percent to 90,000 metric tonnes up to August 2024, with August volumes up 65.4 percent to 13,000 metric tonnes.
-
-In Sri Lanka kerosene, which is similar to Jet-A1 and is most of the more expensive to import than diesel (petrol is the cheapest fuel) has been mis-priced along with diesel, discouraging the use of cheaper and cleaner petrol.
-
-At the moment (in November) diesel is priced at 283 rupees a litre, petrol 311 and kerosene 183 rupees.
-
-As a result, some bus owners use kerosene breaking the rule for diesel driven engines.
-
-Analysts say the government mis-pricing is driving up demand for kerosene as well as contributing to a collapse of personal integrity of the public by tempting them with wrong prices.
-
-...
-
-[Data](articles/eb6fbb27.json)
-
-[Extended Data](ext_articles/eb6fbb27.ext.json)
-
----
-
-### US presidential election today
-
-*2024-11-05 08:15:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஜனாதிபதித்-தேர்தல்-இன்று/50-346579) · `ta`
-
-US presidential election underway today. Polls show tight race in key states like Arizona, Nevada, North Carolina. Voting open until 7pm EST across 50 states.
-
-🟩
-
-US presidential election is going on today. Republican candidate Trump is present in the polls conducted in the team -changing provinces.
-
-The world's most anticipated US presidential election takes place today. Voting will be held on November 5 from 7 am to 7 pm.
-
-There are a total of 50 provinces in the United States. According to the Geological System of these provinces, 4 types of time rates are followed by the Eastern, Central, Mountains and Pacific Area. Accordingly, there is a difference between one hour and 6 hours between the US provinces.
-
-Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin are called the Team Championships in 50 provinces in 50 provinces.. The people of these 7 provinces once voted for the Republican Party and the Democratic Party once again.
-
-Atlas Intel in these provinces conducted a poll. Accordingly, the Republican candidate Donald Trump in Arizona is 51.9 percent and the Democratic candidate Kamala is 45.1.
-
-...
-
-[Data](articles/5f985db4.json)
-
-[Extended Data](ext_articles/5f985db4.ext.json)
-
----
-
-### Crisis between India and Canada
-
-*2024-11-05 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202918) · `si`
-
-India-Canada crisis: PM Modi condemns Hindu temple attack, calls it deliberate. Diplomatic tensions rise as both nations expel diplomats. Violence against Hindu Kovil in Brampton escalates.
-
-🟩
-
-Indian Prime Minister Narendra Modi has also condemned the attack on Hindu Kovil in Canada.
-
-Indian Prime Minister Narendra Modi has stated that the attack is a deliberate attack.
-
-The Prime Minister of the Indian Prime Minister has said that such violence has never been able to weaken the Indian determination.
-
-Among India and Canada had arisen at diplomacy and had taken steps to expel the diplomatic officers in both countries.
-
-Foreign media points out that the two countries have continued to intensify the attack on the Hindu Kovil in Brampton in Brampton, Canada.
-
-◼️
-
-[Data](articles/7154964b.json)
-
-[Extended Data](ext_articles/7154964b.ext.json)
-
----
-
-### Special Business Tax Extension for Chinese
-
-*2024-11-05 08:12:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனிக்கான-விசேட-வர்த்தக-பண்ட-வரி-நீடிப்பு/175-346577) · `ta`
-
-Chinese Special Trade Tax Extension Summary (200 chars):
-
-Government extends special import tax on 1kg Chinese goods from Nov 1 to Dec 31. Initial rate: 50 rupees per kg. This measure aims to support local industries and control imports.
-
-🟩
-
-The government has taken steps to further extend the special trade tax imposed on a kilo of imported.
-
-One kilogram of imported Chinese was levied on a special trade tax of 50 rupees for a year from the first of November last year.
-
-As its validity period ends on November 1, the government has taken steps to extend the special trade tax on December 31st.. Remble
-
-◼️
-
-[Data](articles/75d3bb67.json)
-
-[Extended Data](ext_articles/75d3bb67.ext.json)
-
----
-
-### Two fatal accidents - lose two lives
-
-*2024-11-05 08:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202917) · `si`
-
-Fatal accidents claim two lives: one motorcyclist (58) in Eheliyagoda, another passenger (23) in Bandaragama.
-
-🟩
-
-Two persons including a young woman killed in several areas during the 24-hour area have died.
-
-The accidents occurred in the police divisions at Eheliyagoda and Bandaragama yesterday.
-
-A person was killed in the accident that the motorcycle was not controlled in Somisallawatte in Eheliyagoda, Pandakana road in Somisallawatta road.
-
-The deceased has been identified as a 58 year old resident of the Thahattu area.
-
-Meanwhile, a girl has died in an accident in the Bolgoda area in Bandaragama-Panadura road.
-
-A bus traveling towards the Panadura from the South lane, along with the left lane towards Panadura to the Panadura, has been hit by a three-wheeler towards the left lane.
-
-A young woman who was traveling in the back seat of the three-wheeler in the back of the three wheeler was seriously injured and transferred to the Horana Hospital for further treatment.
-
-The victim was a 23 year old resident of Bandaragama.
-
-◼️
-
-[Data](articles/942646c5.json)
-
-[Extended Data](ext_articles/942646c5.ext.json)
-
----
-
-### Heavy rain today
-
-*2024-11-05 08:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-346576) · `ta`
-
-Heavy rain today: Thundershowers expected evening. Rainfall possible morning Western/Southern provinces. Heavy rains forecasted Uva/Central/Sabaragamuwa/North Central provinces.
-
-🟩
-
-Thundershowers are expected in many parts of the country this evening, the Department of Meteorology said.
-
-There is a possibility of rainfall in the morning in the Western and Southern Provinces and Ampara District and in the coastal areas.
-
-Heavy rains are expected in some places in the Uva, Central, Sabaragamuwa and North Central Provinces and Kurunegala District, the Department of Meteorology said that heavy rainfall could occur in some areas.. (A)
-
-◼️
-
-[Data](articles/e2c95a52.json)
-
-[Extended Data](ext_articles/e2c95a52.ext.json)
-
----
-
-### Doctors at Karapitiya Hospital on strike
-
-*2024-11-05 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202916) · `si`
-
-Karapitiya Hospital doctors strike over cancer specialist issue. Protest against carcinogenist role. Health admin plans to transfer doctor to Maharagama Holy Hospital.
-
-🟩
-
-Doctors at Karapitiya Hospital have decided to continue strike from 8am today (05).
-
-The strike is being implemented in protest against the role of a carcinogenist of the Cancer Union.
-
-Dr. Asanka Ganara said that the doctors of the Karapitiya Hospital were on strike and engage in protesting against the problem of the problem.
-
-However, inquired from the Director of the Derana, Karapitiya Hospital.
-
-He said that the health administration is already determined to transfer the allegistic doctor.
-
-The Director of the Karapitiya Hospital stated that the doctor is transferred to the Maharagama Holy Hospital.
-
-◼️
-
-[Data](articles/f9aa7d49.json)
-
-[Extended Data](ext_articles/f9aa7d49.ext.json)
-
----
-
-### Water cut stopped by breaking a tube
-
-*2024-11-05 07:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202915) · `si`
-
-Water cut due to pipeline collapse in Kegalle. Repairs underway. Suspension of supply in Katunayake, Minuwangoda, and parts of Gampaha Division. Maintenance on Negombo-Colombo main road causing additional cuts.
-
-🟩
-
-The National Water Supply Drainage Board says that due to a collapse of the main pipeline, the National Water Supply Drainage Board says.
-
-In a statement, the Board said that the water cut would take place due to the damage caused to a major tube carrying water to the city of Kegalle.
-
-The National Water Supply and Drainage Board stated that the repairs of the tribe has been started and the water supply will be provided soon.
-
-Meanwhile, the National Water Supply and the JVP station states that the water cut will be imposed due to an essential maintenance of the Negombo-Colombo main road today.
-
-Accordingly, the Board has announced the suspension of water supply to the area of ​​the Katunayake and Minuwangoda Pradeshiya Sabha areas in the period.
-
-The National Water Supply and Drainage Board stated that the water supply is also suspended into a part of the Gampaha Divisional area in Ja-Ela.
-
-◼️
-
-[Data](articles/ee3d71ed.json)
-
-[Extended Data](ext_articles/ee3d71ed.ext.json)
-
----
-
-### Special Commodity Levy on imported sugar
-
-*2024-11-05 06:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202914) · `si`
-
-Government extends special commodity tax on imported sugar from Nov 1 to Dec 31. Tax rate remains Rs. 50 per kg. Finance Minister issues gazette notification. Government aims to reduce food item taxes while increasing others.
-
-🟩
-
-The government has further extended the special commodity tax imposed on a kilo of imported sugar.
-
-A kilogram of imported sugar was a special commodity tax of Rs. 50 for a year from November last year.
-
-The validity period was due to end the first day of November and the government has extended the relevant commodity tax until December 31st.
-
-It is reported that the gazette notification has been issued by President Anura Kumara Dissanayake as Finance Minister.
-
-Meanwhile, said the present government would reduce the taxes imposed on food items, but they are also working to charge the taxes, Mr. Manusha Nanayakkara said.
-
-◼️
-
-[Data](articles/1926ee9d.json)
-
-[Extended Data](ext_articles/1926ee9d.ext.json)
-
----
-
-### Showers over 100 mm
-
-*2024-11-05 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202912) · `si`
-
-Heavy rainfall warning: Showers >100mm expected in Central, Sabaragamuwa, North Central, Uva provinces and Kurunegala district. Thunderstorms possible tonight. Public advised to prepare for potential lightning damage.
-
-🟩
-
-Today (05), mm in the Central, Sabaragamuwa, North Central, Uva provinces and Kurunegala district.. Heavy rains can occur around 100, the Met Department said.
-
-The department states that showers or thundershowers will occur at night or night in many parts of the island.
-
-Showers will occur at the Western and Southern provinces and in the Ampara district.
-
-The Department of Meteorology has requested the public to take action to reduce the damages caused to lightning due to thundershowers in the evening.
-
-◼️
-
-[Data](articles/e4cc7eec.json)
-
-[Extended Data](ext_articles/e4cc7eec.ext.json)
 
 ---

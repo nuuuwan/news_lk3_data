@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 10:24:38**
+As of **2024-11-05 10:40:15**
 
 ## Newspaper Stats
 
-*Scraped **53,099** Articles*
+*Scraped **53,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,105 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,952
 adaderanalk | 6,319
-tamilmirrorlk | 7,386
+tamilmirrorlk | 7,388
 virakesarilk | 8,569
-adaderanasinhalalk | 9,256
+adaderanasinhalalk | 9,258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,099 (100.0%) of 53,099 articles have been extended.
+53,101 (100.0%) of 53,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### பொடி லேசியின் துப்பாக்கியுடன் முன்னாள் சிப்பாய் கைது
+
+*2024-11-05 10:33:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொடி-லேசியின்-துப்பாக்கியுடன்-முன்னாள்-சிப்பாய்-கைது/175-346582) · `ta`
+
+தற்போது வெளிநாட்டில் தலைமறைவாக உள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியான உனகொருவே ஜப்பான் சாந்த, தற்போது சிறையில் இருக்கும் பொடி லேசி ஆகியோரின் சட்டவிரோதமான துப்பாக்கியை  வைத்திருந்த முன்னாள் இராணுவ சிப்பாய் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் அம்பிலிபிட்டிய கொத்தலாவல பிரதேசத்தில் வசிக்கும் 59 வயதுடைய ஓய்வுபெற்ற இராணுவ வீரர் என விசேட அதிரடிப்படையினர் தெரிவித்துள்ளனர்.
+
+சந்தேகநபரிடம் இருந்து ஏகே 47 துப்பாக்கி, 25 தோட்டாக்கள், 01 மகசீன், வெளிநாட்டில் தயாரிக்கப்பட்ட 01 மகசின், 01 துப்பாக்கி, 9mm ரக துப்பாக்கிகள் 07, மகசீன், 02 வாள்கள், ரம்போ கத்தி என்பன கைப்பற்றப்பட்டுள்ளன.
+
+சந்தேக நபர் எந்தவொரு குற்றச் செயலிலும் ஈடுபடும் வகையில் துப்பாக்கி, வாள், கத்தி போன்ற ஆயுதங்களை அணிந்து வந்துள்ளதாக விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/27ddd597.json)
+
+---
+
+### அமெரிக்க ஜனாதிபதி யார்?: கணித்தது  தாய்லாந்து நீர் யானை
+
+*2024-11-05 10:27:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஜனாதிபதி-யார்-கணித்தது-தாய்லாந்து-நீர்-யானை/50-346581) · `ta`
+
+உலகம் முழுவதும் பெரிதும் எதிர்பார்க்கப்படும் அமெரிக்க ஜனாதிபதித் தேர்தல் இன்று, செவ்வாய்க்கிழமை (05)  நடைபெறுகிறது. அந்த நாட்டின் நேரப்படி நவம்பர் 5-ம் திகதி காலை 7 மணி முதல் இரவு 7 மணி வரை வாக்குப்பதிவு நடைபெற உள்ளது.
+
+இந்நிலையில் தாய்லாந்தில் ‘கா கியோவ்’ திறந்தவெளி உயிரியல் பூங்காவில் உள்ள நீர்யானை ஜனாதிபதி தேர்தலில் வெற்றி பெறப்போவது யார் என கணித்த காட்சிகள் அடங்கிய வீடியோ வைரலாகி வருகிறது. அந்த நீர்யானை அமெரிக்க ஜனாதிபதித் தேர்தலில் குடியரசுக் கட்சி வேட்பாளர் டொனால்டு ட்ரம்ப் வெற்றி பெறுவார் எனக் கணித்துள்ளது.
+
+...
+
+[Data](articles/f59563dc.json)
+
+---
+
+### Strike on Karapitiya Hospital
+
+*2024-11-05 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202923) · `si`
+
+Here's a summary of the text in 200 characters:
+
+
+
+Doctors' strike ends at Karapitiya Hospital after one day. The protest, which began on May 5th, concluded as scheduled.
+
+🟩
+
+The continued strike commenced by doctors at Karapitiya Hospital today (05) have been completed.
+
+◼️
+
+[Data](articles/ac5e8f36.json)
+
+[Extended Data](ext_articles/ac5e8f36.ext.json)
+
+---
+
+### The wife is brutally assassinated in husband's private hospital
+
+*2024-11-05 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202922) · `si`
+
+Wife killed in husband's hospital; 63-year-old woman assaulted with sharp object; husband's brother, 55, arrested; police investigating; body sent for inquiry
+
+🟩
+
+A woman was assaulted with a sharp instrument in a private hospital located in Trincomalee.
+
+The victim was a 63 year old woman at the third floor of the hospital.
+
+An investigation has been launched today (05).
+
+The victim is abroad and she is in a room located on the 3rd of her husband's husband's hospital.
+
+Investigations have revealed that the murder had been carried out by her husband's brother.
+
+The suspect has been identified as the cause of the murder has been identified and the suspect has been arrested in connection with the age of 55, police said.
+
+The arrested suspect was residents of a room from a room.
+
+The body is at the place for the magisterial inquiry and Trincomalee Police are conducting further investigations.
+
+◼️
+
+[Data](articles/09ee1025.json)
+
+[Extended Data](ext_articles/09ee1025.ext.json)
+
+---
 
 ### Thai arrested with Rs. 10 billion
 
@@ -2213,115 +2299,5 @@ A bond maturing on 15.06.2029 closed stable at 11.95/12.05 percent. (Colombo/Nov
 [Data](articles/fa782b19.json)
 
 [Extended Data](ext_articles/fa782b19.ext.json)
-
----
-
-### What is the program of President Anurakumara?- Nishantha Sri Warnasinghe
-
-*2024-11-04 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197880) · `ta`
-
-President Anura Kumara Dissanayake's program lacks significant changes despite being in power for a month. His "prosperous country" vision contrasts with Ranil Wickremesinghe's "enabled Sri Lanka" plan. The government hasn't discussed IMF agreement amendments publicly. There's concern about transparency in international talks and the president's absence from key conferences. The opposition questions the need for an opposition party under Dissanayake's leadership.
-
-🟩
-
-There is no change in the government's program even after the end of a month's arrival in power. President Anura Kumara Dissanayake's program is a prosperous country, or Ranil Wickremesinghe is a Sri Lankan.
-
-He was speaking at a press conference held at the New Democratic Front's election office in Colombo.
-
-A month has passed since the Anuragumara Dissanayake came to power and there is no change in their program.
-
-So the prosperous country of the national people's power has not yet been implemented in the program of beautiful life manifesto.. If so.
-
-What is the Cellulum Program with Anuragumara Dissanayake?Is the prosperous country a beautiful life program or Ranil Wickremasinghe's enabled Sri Lanka program?
-
-But the government is looking at Ranil Wickremesinghe's program like that.
-
-They said they would amend the agreements that the last government was doing with the International Monetary Fund.
-
-...
-
-[Data](articles/474c3f35.json)
-
-[Extended Data](ext_articles/474c3f35.ext.json)
-
----
-
-### The government is working to silence the Tamil party - Ravikaran
-
-*2024-11-04 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197877) · `ta`
-
-Sri Lankan government works with TNA candidate Durairasa Ravikaran to silence Tamil party. Ravikaran emphasizes land rights and police authority for Tamils. Thirteenth amendment to Constitution introduced provincial council system but majority leaders oppose Tamil solutions. Tamils fight land grabbing by Forest Department and military occupation. Tamil party symbol "house" represents Tamil identity and voting strategy.
-
-🟩
-
-The Sri Lankan government is working with the Sri Lankan Tamil National Alliance (TNA) parliamentary candidate Durairasa Ravikaran, who is now working with the Tamil party and the home of the Tamil people who are fighting for the rights of the Tamil people.
-
-He also emphasized that the land and the police authority are fundamental to the Tamil people, investigations for war criminals and legal action against them.
-
-Ravikaran said this while participating in the campaign meeting of the Sri Lanka Tamil National Party held in Mullaitivu - Pudukkudiyiruppu.
-
-After the silence of the war, the Tamil political leaders accepted the thirteenth amendment of the Constitution by many abroad pressure.
-
-They accepted the provincial council election. But we all know that the provincial council system in this country cannot provide a solution to the Tamils.
-
-It is well known that none of the majority of leaders are going to come forward with a solution to the Tamils.
-
-...
-
-[Data](articles/253d91e8.json)
-
-[Extended Data](ext_articles/253d91e8.ext.json)
-
----
-
-### The Vanni people are not second -class citizens - Emilkanthan
-
-*2024-11-04 16:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/197875) · `ta`
-
-Vanni people not second-class citizens: Emilkanthan warns against misrepresentation. Sumanthiran denies involvement in Vanni issues. Criticism of Tamil National Alliance leaders.
-
-🟩
-
-Sumanthiran has said that the Vanni people have no secondary populations and have been warned by Emilkanthan, Selvam Adakkalanathan and Sivasakthi Anandan.
-
-He said this while addressing a journalist market in Vavuniya on Monday (04).
-
-According to our party's positions, there is no criticism of other political parties and parties.
-
-We have stated this from the beginning. We have done so in the past.
-
-However, we are trying to clarify some things by misrepresenting us, our soil and our people.
-
-Leaders who are trying to overcome their second party and thereby winning the subtleties are in the process of providing me and the ax symbol.
-
-Responding to the comments made by my last media briefing on the leadership, Sumanthiran, the Tamil National Party's candidate, has said that he does not need to respond to the issue between his party and Emilkanthan.
-
-...
-
-[Data](articles/87336f5d.json)
-
-[Extended Data](ext_articles/87336f5d.ext.json)
-
----
-
-### Sri Lanka stocks close down, led by banks
-
-*2024-11-04 16:47:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-led-by-banks-186048/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, official data showed.
-
-The broader ASPI closed 0.06 percent or 8.21 points lower at 12,855; while the more liquid S&P SL20 Index closed 0.11 percent or 4.11 points lower at 3,875.
-
-Banking stocks added the most to the turnover, but most closed down; Commercial Bank (down at 117.25), HNB (down at 230.75), DFCC Bank (down at 83.40), and NDB (down at 87.00).
-
-Top contributors to the ASPI were Melstacorp (up at 104.50), Sampath Bank (up at 89.40), TeeJay Lanka (up at 43.00), Lion Brewery (up at 1,089.25) and Lanka Milk Foods (up at 32.00).
-
-There was a net foreign outflow of 31 million. (Colombo/Nov04/2024)
-
-◼️
-
-[Data](articles/b328b4d4.json)
-
-[Extended Data](ext_articles/b328b4d4.ext.json)
 
 ---

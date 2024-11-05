@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 22:25:01**
+As of **2024-11-05 22:40:15**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,229 (100.0%) of 53,230 articles have been extended.
+53,230 (100.0%) of 53,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### සහල් මිල ගැන හෙළිවූ රහස්
+### Secrets revealed about the price of rice
 
 *2024-11-05 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202946) · `si`
 
-2024 යල සහ මහ කන්නවලදී සහල් අතිරික්තයක් ලැබී ඇති පසුබිමක සහල් හිඟයක් සහ මිල ඉහළ යාමක් කිසිසේත් සිදුවිය නොහැකි බව හෙක්ටර් කොබ්බෑකඩුව ගොවි කටයුතු පර්යේෂණ හා පුහුණුකිරීමේ ආයතනය පවසයි.
+Here's a 200-character summary:
 
-කොළඹ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී එම ආයතනයේ අධ්‍යක්ෂ මහාචාර්ය ඒ. එල්. රන්දික මහතා ප්‍රකාශ කළේ, වී මිලදී ගැනීමේදී රාජ්‍ය මැදිහත්වීම අවම මට්ටමක පැවතීම සහල් මිල ඉහළයෑමට හේතුවී ඇති බවය.
 
-මේ වනවිට වෙළෙඳපොළේ පවතින නාඩු සහල් හිඟය සහ ඉහළ මිල හේතුවෙන් පාරිභෝගිකයා පීඩාවට පත්වී තිබේ.
 
-එමෙන්ම ඔහු පැවසුවේ, සහල් මිල ගණනය කිරීමේදී සහල් නිෂ්පාදනයේදී ලැබෙන අතුරුඵල සැලකිල්ලට භාජනය නොකෙරෙන බවය.
+Rice shortage and price hike in Sri Lanka (2024). Experts blame high costs due to low state intervention in paddy purchasing. Rice producers focus solely on costs, ignoring other factors like rice flour and husk markets. Profit margins remain significant despite challenges.
 
-"සහල් ව්‍යාපාරිකයෝ සහල්වලට පමණයි පිරිවැය ගණනය කරන්නේ. සහල්වලට අමතරව සහල් කුඩු, පොතු ආදී අතුරුඵල ලැබෙනවාත දැන් ඒවටත් වෙළෙඳපොළක් තිබෙනවා. සාමාන්‍යයෙන් දළ වශයෙන් ගත්තොත් සහල් කිලෝවකට අමතර ද්‍රව්‍යවලින් රුපියල් 20ක පමණ අමතර ලාභයක් තිබෙනවා."
+🟩
+
+Hector Kobbekaduwa Research and Training Agency of Hector Kobbekaduwa, a shortage of rice and increase in a background of 2024.
+
+The Director of the company was directed at a press conference held in Colombo. L. Mr. Randika stated that the minimum level of state intervention in paddy purchasing is that rice prices have increased.
+
+The experts in the market are being affected by the shortage of rice and high costs.
+
+He also said that the prices of rice production will not be taken into account the effects of rice.
+
+"Rice businessmen only calculate costs. In addition to rice, rice powder and bark, have a market now. Approximately, a kilo of rice has a profit of about Rs.
 
 ◼️
 
 [Data](articles/88f2fab8.json)
+
+[Extended Data](ext_articles/88f2fab8.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 11:40:38**
+As of **2024-11-05 12:00:09**
 
 ## Newspaper Stats
 
-*Scraped **53,117** Articles*
+*Scraped **53,126** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,122 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 542
 bbccomsinhala | 544
 islandlk | 3,181
-economynextcom | 3,211
+economynextcom | 3,215
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,955
-adaderanalk | 6,321
+adaderanalk | 6,324
 tamilmirrorlk | 7,392
 virakesarilk | 8,572
-adaderanasinhalalk | 9,260
+adaderanasinhalalk | 9,262
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,117 (100.0%) of 53,117 articles have been extended.
+53,122 (100.0%) of 53,126 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Commission notification to use temples as polling centers
+
+*2024-11-05 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202928) · `si`
+
+Elections Commission uses 2,263 temples as polling centers for general election. Some temples unavailable due to COVID-19 restrictions. Meeting scheduled to discuss election activities. Postal voting process completed, official voter papers distributed.
+
+🟩
+
+The Elections Commission says that although the day after the general election, the major delegates have not been reluctant to use temples as polling centers.
+
+Accordingly, 2,263 temples will be used as polling stations in this year's general election.
+
+The Elections Commission states that although the drug is conducted due to the conduct of the epidemic obstacles, it has been inquired through district selected officers.
+
+Chairman of the Elections Commission RMAL Ratnayake, who explained the situation,
+
+"On November 14, 2024, the Supreme Court has not taken the hearing of the Supreme Court without the hearing of the Supreme Court. Accordingly, the general election will be held on November 14.
+
+...
+
+[Data](articles/b951d0b9.json)
+
+[Extended Data](ext_articles/b951d0b9.ext.json)
+
+---
+
+### The Hindu - Sikky spreads?
+
+*2024-11-05 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202927) · `si`
+
+India-Canada tensions rise after anti-Sikh killing. Canadian PM accuses India. Sikh group protests in Brampton. Indian PM warns against undermining rule of law. Three arrested over Hindu temple incident. Hindu temples vandalized in Canberra, Australia.
+
+🟩
+
+Indian embassies in Canada says that bullying in Canada is a cowardly acting act.
+
+After the assassination of anti-Indian Sikh, in Canada, was ripened between the two countries.
+
+Canada Prime Minister Justin Trodedo accused Indian government regarding the murder.
+
+Meanwhile, a group of Sikh has acted aggressively in Brampton, Canada, Canada.
+
+The Indian Prime Minister has said in his X account, "says" India cannot undermine. We hope the government is saving the rule of law, ".
+
+The city police authorities said that three were arrested in connection with the Hindu Kovil.
+
+Meanwhile, international media reports that several Hinduicles in Canberra, Australia have recently damaged unidentified people.
+
+Ping boxes in the temples had been abducted by those people.
+
+◼️
+
+[Data](articles/63a4de77.json)
+
+[Extended Data](ext_articles/63a4de77.ext.json)
+
+---
+
+### Woman stabbed to death inside husband’s private hospital
+
+*2024-11-05 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103174/woman-stabbed-to-death-inside-husbands-private-hospital) · `en`
+
+A woman has reportedly been stabbed to death with a sharp weapon inside a private hospital in Trincomalee.
+
+The deceased is a 63-year-old woman who was residing on the third floor of the hospital with her husband, Ada Derana reporter said.
+
+It has been revealed during the preliminary investigations that the deceased was the wife of the private hospital’s owner. Police suspect that the victim’s brother-in-law committed the murder.
+
+The motive behind the murder remains unclear and the 55-year-old suspect involved in the incident has been arrested, the police said.
+
+The arrested suspect has also been staying in a room on the same floor of the private hospital.
+
+◼️
+
+[Data](articles/e8284c19.json)
+
+[Extended Data](ext_articles/e8284c19.ext.json)
+
+---
+
+### Easter attacks: SC calls for defense in acquittals of ex-IGP and Defence Secretary
+
+*2024-11-05 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103173/easter-attacks-sc-calls-for-defense-in-acquittals-of-ex-igp-and-defence-secretary) · `en`
+
+The Supreme Court has ordered to call the defense following an appeal filed by the Attorney General (AG) challenging the verdict issued by Colombo High Court to acquit former Defence Secretary Hemasiri Fernando and former IGP Pujith Jayasundara from the charges of failure to prevent 2019 Easter Sunday terror attacks despite receiving prior information.
+
+The appeal was filed against the verdict issued by a three-member High Court judge bench to acquit the former Defence Secretary and the former IGP from the charges of Criminal dereliction of duty and murder through their failure to prevent 2019 Easter Sunday terror attacks despite receiving information prior to the attacks.
+
+This decision was taken by the five-member Supreme Court judge bench led by Justices Preethi Padman Surasena following an extended hearing of the relevant appeal filed by the AG.
+
+...
+
+[Data](articles/afe95b04.json)
+
+[Extended Data](ext_articles/afe95b04.ext.json)
+
+---
 
 ### Will federalism be formed after the election?
 
@@ -56,6 +154,26 @@ Tilvin Silva said that the government would hold talks with anyone interested bu
 
 ---
 
+### India’s Modi, Canada’s Trudeau condemn violence at Hindu temple near Toronto
+
+*2024-11-05 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103172/indias-modi-canadas-trudeau-condemn-violence-at-hindu-temple-near-toronto) · `en`
+
+The prime ministers of India and Canada condemned violence that broke out on Sunday at a Hindu temple near Toronto at a time of escalating diplomatic tensions between the countries.
+
+Videos posted on social media appeared to show people hitting each other with flagpoles and throwing punches in the Toronto suburb of Brampton. It was unclear who instigated the violence and Reuters could not independently verify what happened.
+
+The incident happened weeks after Ottawa expelled six Indian diplomats, linking them to the killing of a Sikh separatist leader in 2023 in Canada. Canada has accused the Indian government of conducting a broad campaign against South Asian dissidents in Canada, which New Delhi denies.
+
+Police said there were demonstrations at multiple locations in the region. Sikh activists said one demonstration was at a Hindu temple where pro-Khalistan activists protested the presence of Indian diplomats and another was at a Sikh temple.
+
+...
+
+[Data](articles/f4609999.json)
+
+[Extended Data](ext_articles/f4609999.ext.json)
+
+---
+
 ### Former president accusation against president
 
 *2024-11-05 11:01:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மீது-முன்னாள்-ஜனாதிபதி-குற்றச்சாட்டு/175-346585) · `ta`
@@ -75,6 +193,26 @@ Ranil Wickremesinghe said this while addressing the Matara District General Meet
 [Data](articles/cf9793a4.json)
 
 [Extended Data](ext_articles/cf9793a4.ext.json)
+
+---
+
+### Sri Lanka sees offshore inflows into govt securities for 7th straight week
+
+*2024-11-05 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-offshore-inflows-into-govt-securities-for-7th-straight-week-186119/) · `en`
+
+ECONOMYNEXT – Sri Lanka witnessed foreign inflows into its government securities for the seventh straight week ended on October 30, the Central Bank data showed.
+
+Foreign exchange analysts said some foreign investors were interested in the five-year rupee-denominated bonds as they see some opportunities for more profit amid falling interest rates and rupee appreciation.
+
+Sri Lanka witnessed 1,774 million rupees ($6 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on October 30, extending the total inflows into treasury bonds and bills to 13.6 billion rupees (($46 mln) in seven straight weeks, the official data showed.
+
+The value of government securities held by foreign investors was at 52,917 million rupees by October 30.
+
+“Some foreign investors see opportunity in five-year bonds maturing in 2028 due to appreciation of the currency and falling interest rates,” a currency dealer told EconomyNext.
+
+...
+
+[Data](articles/b9db0678.json)
 
 ---
 
@@ -159,6 +297,26 @@ When they were not at home, some people who claimed that they belonged to the Pa
 [Data](articles/16056a6e.json)
 
 [Extended Data](ext_articles/16056a6e.ext.json)
+
+---
+
+### Consistent updates on economic strategies from Sri Lanka government needed: Former minister
+
+*2024-11-05 10:42:00* · [`economynextcom`](https://economynext.com/consistent-updates-on-economic-strategies-from-sri-lanka-government-needed-former-minister-186109/) · `en`
+
+ECONOMYNEXT – There is no clear communication from the Sri Lanka government on its economic strategies, former State Minister of Finance Shehan Semasinghe has said.
+
+“Firm and transparent messaging would prevent speculation and mitigate the spread of inaccurate information,” Semasinghe said on social media platform X (twitter).
+
+“Consistent updates from the government on economic strategies, along with clear timelines for policy implementations, would provide assurance that these commitments are being honored.”
+
+The former minister who worked with the International Monetary Fund team after Sri Lanka’s economic crisis, said it was “crucial for public understanding to have clarity on how these steps contribute to overall economic recovery and stability”.
+
+The achievement of the 2025 revenue targets, including the primary surplus target of 2.3 percent of GDP, is tied to lifting vehicle import restrictions, Semasinghe said.
+
+...
+
+[Data](articles/5a8b4ad4.json)
 
 ---
 
@@ -422,6 +580,32 @@ Commenting regarding the matter, the Election Commission Chairman said that seve
 
 ---
 
+### Sri Lanka rupee opens flat at 293.05/20 to dollar, bond yields steady
+
+*2024-11-05 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-293-05-20-to-dollar-bond-yields-steady-186090/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.05/20 to the US dollar Tuesday, dealers said, while bond yields were steady.
+
+A bond maturing on 01.08.2026 was quoted at 10.40/55 percent.
+
+A bond maturing on 15.12.2027 was quoted stable at 11.45/55 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.70/80 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.95/12.05 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.20/25 percent.
+
+The central bank announced that 175,000 million rupees Treasury bills are to be issued through an auction on Wednesday (6).
+
+In equities, Colombo’s All Share Price Index opened up 0.08 percent, or 10.54 points higher at 12,865, while the S&P SL20 of more liquid stocks opened up 0.19 percent or 7.28 points higher at 3,882.
+
+◼️
+
+[Data](articles/d905291a.json)
+
+---
+
 ### Thai woman arrested with ‘Ice’ worth Rs. 100 million at BIA
 
 *2024-11-05 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103167/thai-woman-arrested-with-ice-worth-rs-100-million-at-bia) · `en`
@@ -633,6 +817,28 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/1ecfb27a.json)
 
 [Extended Data](ext_articles/1ecfb27a.ext.json)
+
+---
+
+### Sri Lanka kerosene use rockets amid subsidies
+
+*2024-11-05 08:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-kerosene-use-rockets-amid-subsidies-186075/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s kerosene use has rocketed 65 percent up to August 2024, official data showed, amid subsidized pricing that has given incentives to use the aviation-like fuel for industrial and ground transport.
+
+Kerosene sales rose 87.4 percent to 90,000 metric tonnes up to August 2024, with August volumes up 65.4 percent to 13,000 metric tonnes.
+
+In Sri Lanka kerosene, which is similar to Jet-A1 and is most of the more expensive to import than diesel (petrol is the cheapest fuel) has been mis-priced along with diesel, discouraging the use of cheaper and cleaner petrol.
+
+At the moment (in November) diesel is priced at 283 rupees a litre, petrol 311 and kerosene 183 rupees.
+
+As a result, some bus owners use kerosene breaking the rule for diesel driven engines.
+
+Analysts say the government mis-pricing is driving up demand for kerosene as well as contributing to a collapse of personal integrity of the public by tempting them with wrong prices.
+
+...
+
+[Data](articles/eb6fbb27.json)
 
 ---
 
@@ -2111,211 +2317,5 @@ We reported that dollars rich containers were printed here and taken to Uganda. 
 [Data](articles/32f4b183.json)
 
 [Extended Data](ext_articles/32f4b183.ext.json)
-
----
-
-### Over 1,500 complaints ahead of 2024 General Election
-
-*2024-11-04 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103159/over-1500-complaints-ahead-of-2024-general-election) · `en`
-
-The number of complaints received by the Election Commission regarding the 2024 Parliamentary Poll has further increased.
-
-The commission issued a statement stating that the total number of election-related complaints has increased to 1,535 with the 127 complaints received with the past 24 hours.
-
-A majority of those complaints have been received related to election law violations and the figure is 1,485.
-
-Meanwhile, the Election Commission also says that 1,248 of the total number of complaints received have been resolved thus far.
-
-◼️
-
-[Data](articles/0589486b.json)
-
-[Extended Data](ext_articles/0589486b.ext.json)
-
----
-
-### Anura Vidyalaya, which commences at 5.30 am
-
-*2024-11-04 18:35:05* · [`adalk`](https://www.ada.lk/picture_story/උදෑසන-5-30ට-ආරම්භ-වන-මාතර-අනුර-විද්‍යාලය/10-412854) · `si`
-
-Anura Vidyalaya opens at 5:30 AM. Teachers' dedication praised for starting classes before GCE O/L exams. Special Education Program launched under "Aruna" theme. Volunteers work two hours daily. Doctors provide tea to students. Teachers and students enthusiastically participate in nighttime sessions. Classes run from 5:30 AM to 1:30 PM, with extended hours for math and English.
-
-🟩
-
-The commitment of its teachers should be appreciated for the opening of the school to the GCE O / L examination this year.
-
-Volunteers have spent two hours to the Special Education Program which has begun from the theme "before the aruna". The Indians, the doctor Tissamaharama in Tissamaharama is working daily to have given them a cup of tea.
-
-Interested, teachers, school children are eagerly participating in this special education program which has been launched from a night after a month.
-
-All subjects are taught from 5.30 am to 1.30 pm and for more time for mathematics and English subjects.
-
-◼️
-
-[Data](articles/5d98aadf.json)
-
-[Extended Data](ext_articles/5d98aadf.ext.json)
-
----
-
-### New Chairman appointment to Civil Air Transport Board
-
-*2024-11-04 18:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவில்-விமானப்-போக்குவரத்து-சபைக்கு-புதிய-தலைவர்-நியமனம்/175-346549) · `ta`
-
-Sunil Jayaratne, former SL Customs Director, appointed Chairman Civil Aviation Authority Sri Lanka. He replaces outgoing chairman. Jayaratne has 37 years experience in customs and administration.
-
-🟩
-
-Sunil Jayaratne, Additional Director General of the Sri Lanka Customs Division has been appointed as the Chairman of the Civil Aviation Authority of Sri Lanka.
-
-Jayaratne took charge of the office in the presence of several officers, including the Director General of the CAASL this morning.
-
-He has been working as a media spokesman for the past three and a half years with over 37 years of experience in the Customs Department.
-
-He is a postgraduate graduate in Customs and Administration at Sri Jayawardenapura University and the University of Canberra, Australia.
-
-◼️
-
-[Data](articles/84216682.json)
-
-[Extended Data](ext_articles/84216682.ext.json)
-
----
-
-### Election Complaints
-
-*2024-11-04 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202905) · `si`
-
-Here's a 200-character summary:
-
-
-
-Election complaints surge: 1,535 filed since Sept 26, 153 received today. 127 complaints reported in 24 hours. 126 ruled by law, 1 on violence. EPL resolves 1,248, pending 287.
-
-🟩
-
-The number of election complaints have been further increased to the Election Commission regarding the Parliament election.
-
-ඒ අනුව පසුගිය සැප්තැම්බර් මස 26 වැනි දින සිට ඊයේ (03) දින දක්වා මැතිවරණ කොමිසම වෙත ලැබී ඇති පැමිණිලි සංඛ්‍යාව 1535කි.
-
-ඊයේ දින පස්වරු 4.30 දක්වා වූ ගතවූ පැය 24ක කාලය තුළ පමණක් මැතිවරණ කොමිෂන් සභාව වෙත පැමිණිලි 127ක් වාර්තා වී තිබේ.
-
-Of these, 126 complaints were ruled by the laws and one complaint has been reported on violence.
-
-The Elections Commission (EPL) has issued 1248 complaints that have been resolved and 287 complaints have been resolved.
-
-◼️
-
-[Data](articles/045f70b9.json)
-
-[Extended Data](ext_articles/045f70b9.ext.json)
-
----
-
-### Who planned to carry out an attack?
-
-*2024-11-04 18:28:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பையில்-தாக்குதல்-நடாத்த-திட்டமிட்டது-யார்/175-346548) · `ta`
-
-Ruwan Wijewardena, UNP Deputy Leader, unclear about attack planner. Some believe terrorist group, others underworld. Confusion impacts Sri Lanka's tourism revenue.
-
-🟩
-
-United National Party (UNP) Deputy Leader and National Democratic Front candidate Ruwan Wijewardena said that bilateral ideas have been confused as to who planned to attack.
-
-“Some people believe that the attack was launched by some terrorist group, and others believe that the underworld group planned it. இந்த குழப்பம் இலங்கையின் சுற்றுலாத்துறை வருவாயில் சில மில்லியன் ரூபாய் இழப்பை ஏற்படுத்தியுள்ளது” என்று கணேமுல்லையில் நடைபெற்ற கூட்டத்தில் விஜேவர்தன கூறினார்.
-
-◼️
-
-[Data](articles/0bac2f31.json)
-
-[Extended Data](ext_articles/0bac2f31.ext.json)
-
----
-
-### Solution to the Passport Crisis
-
-*2024-11-04 18:24:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டு-நெருக்கடிக்கு-தீர்வு/175-346547) · `ta`
-
-Department of Immigration and Emigration announces online passport application system. Starting tomorrow, citizens can apply for passports via internet. This initiative aims to address the ongoing passport crisis.
-
-🟩
-
-The Department of Immigration and Emigration has announced that it has decided to obtain passports through the Internet as a solution to the passport crisis.
-
-அதற்கமைய, ஒன்லைன் ஊடாக கடவுச்சீட்டுக்களைப் பெற்றுக் கொள்வதற்கான திகதி மற்றும் நேரத்தை ஒதுக்கிக்கொள்ளமுடியும் என குடிவரவு குடியகல்வு திணைக்களத்தின் பதில் பணிப்பாளர் நாயகம் பி.எம்.டி.நிலுஷா பாலசூரிய தெரிவித்தார்.
-
-He pointed out that this time it will come into effect from tomorrow (06) and the date for this month has been completed.. R
-
-◼️
-
-[Data](articles/e3187620.json)
-
-[Extended Data](ext_articles/e3187620.ext.json)
-
----
-
-### National People's Power is not entitled to intervene in Muslim private law -Mujibur Rahman
-
-*2024-11-04 18:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/197893) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Muslim private law cannot be intervened by National People's Power. Any amendments should be discussed within the Muslim community. The current government's influence will only be felt after elections. Muslim community must choose representatives who can voice their concerns in Parliament.
-
-🟩
-
-If the Muslim private law is to be amended, we will discuss it within the Muslim community and make the necessary amendments. Rather than interfering in it does not have the power of the national people's power. மக்கள் விடுதலை முன்னணி எப்போதும் ஒரு நாடு ஒரு சட்டம் என்ற கொள்கையுடையது. அதனால் எதிர்காலத்தில் எமது தனியார் சட்டங்களுக்கு பாதிப்பு ஏற்படும் அபாயம் இருக்கிறது என ஐக்கிய மக்கள் சக்தியின் கொழும்பு மாவட்ட வேட்பாளர் முஜிபுர் ரஹ்மான் தெரிவித்தார்.
-
-மத்திய கொழும்பில் திங்கட்கிழமை (4) இடம்பெற்ற மக்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
-
-...
-
-[Data](articles/bc6b57c1.json)
-
-[Extended Data](ext_articles/bc6b57c1.ext.json)
-
----
-
-### Distribution of fertilizer subsidy for ‘Maha Season’ begins
-
-*2024-11-04 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103158/distribution-of-fertilizer-subsidy-for-maha-season-begins-) · `en`
-
-The Commissioner General of the Department of Agrarian Development U.P. Rohana Rajapakshe said that that the distribution of fertilizer subsidy of Rs. 25,000 for the 2024 ‘Maha Season’ has already commenced.
-
-He noted that during the first phase of this initiative, Rs. 15,000 has been distributed per farmer, benefiting 670 individuals across the Ampara and Kilinochchi districts, with a total of Rs. 9.5 million released for 630 hectares of land.
-
-In its second phase, Rs. 46.5 million have been provided for 4,475 farmers in 12 districts, while Rs. 57.5 million have been released to 4,219 farmers in 12 districts during the third phase. The government has also provided Rs. 47.7 million for 4,804 farmers in 12 districts as the fourth phase of the programme.
-
-Additionally, Rajapakshe also said that today (04), an amount of Rs. 279.4 million will be allocated from the Treasury to be distributed to 22,419 farmers in 19 districts.
-
-...
-
-[Data](articles/e16767f7.json)
-
-[Extended Data](ext_articles/e16767f7.ext.json)
-
----
-
-### Gammanpila challenges Minister Vijitha
-
-*2024-11-04 18:20:05* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිලගෙන්-ඇමති-විජිතට-අභියෝගයක්/11-412853) · `si`
-
-Gammanpila challenges Minister Vijitha Herath over World Bank loan claims.
-
-🟩
-
-Vijitha Herath challenges the Colombo District candidate and Current JHU. He was speaking at a press conference held at the party headquarters at party headquarters this morning. The Leader JHU of the JHU further commented:
-
-Minister Vijitha Herath has been rejected by Minister Vijitha Herath, who had been guilty of their political friends. If Alwis has accused the Justice of Alwis, if the Minister may have misled it, he was asked to give it slowly.
-
-When we claim that there was no borrowing from any institution, we responded US $ 200 million from the World Bank in October 7, 2024, Minister Vijitha's response was not a. I saw this lie on the election platform yesterday and the real President Tilvin Silva of the government yesterday. The people deceived lies and lie more. Why do we say Tilvini colony is lying?
-
-...
-
-[Data](articles/cb074d4d.json)
-
-[Extended Data](ext_articles/cb074d4d.ext.json)
 
 ---

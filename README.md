@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 10:58:48**
+As of **2024-11-05 11:11:38**
 
 ## Newspaper Stats
 
-*Scraped **53,103** Articles*
+*Scraped **53,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,145 @@ islandlk | 3,181
 economynextcom | 3,211
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,952
-adaderanalk | 6,319
-tamilmirrorlk | 7,388
-virakesarilk | 8,569
-adaderanasinhalalk | 9,258
+adalk | 4,955
+adaderanalk | 6,321
+tamilmirrorlk | 7,390
+virakesarilk | 8,572
+adaderanasinhalalk | 9,260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,103 (100.0%) of 53,103 articles have been extended.
+53,108 (100.0%) of 53,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### මවගේ ඇඟිලි කැපූ අංගුලිමාල පුත්‍රයා
+
+*2024-11-05 10:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202925) · `si`
+
+පුත්‍රයා විසින් සිය මවගේ ඇඟිලි තුනක් කොටයක් උඩ තබා වෙන්වන සේ කැපූ අනුවේදනීය පුවතක් වැල්ලවාය පොලිස් ප්‍රදේශයේ හඳපානාගල, පුබුදුවැව ප්‍රදේශයෙන් වාර්තා වේ.
+
+මවට එවැනි කෘෘර ක්‍රියාවක් සිදුකළ පුත්‍රයා පසුව ඔහුගේ සහෝදරියට ද පිහියකින් පහර දී බරපතළ තුවාල සිදුකර තිබේ.
+
+ප්‍රහාරයට ලක්වූ මව සහ සහෝදරිය ප්‍රතිකාර සඳහා වැල්ලවාය මුලික රෝහලට ඇතුළත් කළ අතර වැඩිදුර ප්‍රතිකාර සඳහා මව ව කොළඹ ජාතික රෝහලට මාරු කර යවා ඇත.
+
+අමානුෂික පහරදීම සිදුකළ පුත්‍රයාව පොලීසිය විසින් මේ වනවිට අත්අඩංගුවට ගෙන ඇති අතර, ඔහු 30 හැවිරිදි අයෙකු බවත් වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බවත් පොලීසිය පැවසීය.
+
+පහරදීමට නිෂ්චිත හේතුවක් මෙතෙක් අනාවරණය වී නොමැති අතර සිද්ධිය සම්බන්ධයෙන් වැල්ලවාය පොලිස් ස්ථානයේ නිලධාරීන් විසින් ඉදිරි විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/3b333890.json)
+
+---
+
+### New information about Lohan's vehicle
+
+*2024-11-05 10:54:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-வாகனம்-குறித்த-புதிய-தகவல்/175-346584) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former diplomat Lohan Ratwatta's luxury car seized. Wife Rashi Baba Ratwatta arrested. Car linked to illegal imports. Police investigation ongoing.
+
+🟩
+
+Although Ratwatte couple claimed that the multi -crore crores of rupees worth of illegal imports and illegal parts, the Ratwatte couple claimed that the vehicle had shot himself, but it was clear that the vehicle had former diplomatic minister Lohan Ratwatta.
+
+Lohan Ratwatta is in the interpretation of the court order. It has been exposed that he has been using the vehicle for many years.
+
+Mirihana headquarters police received information on the 25th of last month that there was a suspicious number of luxury car in the three -storey luxury house in the Amuthenia Mandapam road in Mirihana.
+
+During the investigation, it was revealed that the car parked was the house of Mrs. Rashi Baba Ratwatta, the wife of former diplomatic minister Lohan Ratwatta.
+
+Accordingly, the police who discovered his phone number, Sanjeeva Basnayake, a private secretary who shot himself during an investigation into him? "He said he had told him three weeks ago that the car had been parked at his home.
+
+...
+
+[Data](articles/30e060fa.json)
+
+[Extended Data](ext_articles/30e060fa.ext.json)
+
+---
+
+### Tiger Uniform's former MP's house test
+
+*2024-11-05 10:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-சீருடை-முன்னாள்-எம்-பியின்-வீட்டில்-சோதனை/175-346583) · `ta`
+
+Panadura Valana Anti-Corruption Force raids former MP's house, finds hidden uniforms, conducts interrogation.
+
+🟩
+
+Officials of the Panadura Valana Anti -Corruption Force are conducting a raid on the house of former United People's Power MP Sujeewa Serasinghe's Kaluppitti Mal Road.
+
+A senior police official said that the test was carried out following information that the LTTE's uniform was hidden by the V8 vehicle.. One
+
+According to secret reports, a team led by the Inspector of Police went to the house on the basis of a search order received by the Fort Magistrate's Court by the Panadura Valana Corruption Unit.
+
+It is reported that the former parliamentarian was not at home, the house was closed and the employee was there.
+
+In addition, it has been revealed that three old vehicles were found in the area of ​​the house and that for about 2 hours of testing, the staff had received a confession.
+
+When they were not at home, some people who claimed that they belonged to the Panadura Corruption Force.. He has lodged a complaint with the Kaluppitiya police to find out if it is really police officers.
+
+...
+
+[Data](articles/16056a6e.json)
+
+[Extended Data](ext_articles/16056a6e.ext.json)
+
+---
+
+### Oral Summitry Order in the Passover case against Hemasiri - Philem
+
+*2024-11-05 10:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202924) · `si`
+
+Supreme Court overturns High Court acquittal in Passover case against Hemasiri Fernando and Pujith Jayasundara. Attorney General appeals decision citing legal irregularities.
+
+🟩
+
+The Supreme Court was appointed by the Supreme Court to hear the appeal by the Attorney General's High Court over the order by former Defense High Court Judge Pujith Jayasundara to acquit the accusation of the charges of the charges..
+
+They had been launched, despite receiving specific intellectual terror attacks on the Easter intelligence, killing the murder, including the murder.
+
+The decision was taken by the decision of Preet Padman Surasena after conducting a lengthy examination on the appeals of the appeals by the Attorney General.
+
+The Attorney General had filed a three-member High Court in Colombo against former Defense Secretary Hemasiri Fernando and former IGP Pujith Jayasundara.
+
+The three-member High Court Judge Madulla Bandara has been acquitted without calling the evidence of the acquisition of the accused.
+
+...
+
+[Data](articles/80a29dfa.json)
+
+[Extended Data](ext_articles/80a29dfa.ext.json)
+
+---
+
+### Sajith slams govt. over ignored promises
+
+*2024-11-05 10:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103170/sajith-slams-govt-over-ignored-promises-) · `en`
+
+Leader of the Samagi Jana Balawegaya (SJB) Sajith Premadasa criticized the incumbent government’s failure to fulfil its promises of tax reduction, fuel price reduction and eliminating queues for passports.
+
+Addressing a gathering in Avissawella, Premadasa emphasized that the Sri Lankan people are in need of actual public service, not media spectacles.
+
+“The JVP government led by the incumbent president is supplying amusements to the country. However, a country cannot be governed through jokes. During the presidential election period, they made statements about putting an end to queues for passports, yet they have not done it.”
+
+“The solutions provided through text messages and social media are useless. At the moment, the queues have expanded. They also promised to reduce the Value Added Tax, Advance Personal Income Tax and PAYE tax. However, none of them have been reduced”, he stressed.
+
+...
+
+[Data](articles/52eeaece.json)
+
+[Extended Data](ext_articles/52eeaece.ext.json)
+
+---
 
 ### Former soldier arrested with powder lacy's rifle
 
@@ -78,6 +202,26 @@ The park caregivers put two watermelon fruits in front of the hippopotamus named
 
 ---
 
+### NPP will standardize Sri Lankan politics - President
+
+*2024-11-05 10:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103169/npp-will-standardize-sri-lankan-politics-president) · `en`
+
+President Anura Kumara Dissanayake emphasized that the National People’s Power (NPP) is committed to transforming the country’s political culture, noting that there must be a certain standard for politics.
+
+Addressing a public rally held in Monaragala, Dissanayake expressed that politicians must operate within a defined framework, adhere to the law, and maintain a civilized approach to governance.
+
+He further stated that the Sri Lankan political system lacks these standards, highlighting unchecked practices such as using unregistered vehicles and unregistered vehicles or vehicles smuggled into the country.
+
+“Laws do not apply to them…That’s why we live up to the concept that everyone is equal before the law. Whether it is the president or the prime minister in the country, one cannot misuse our public property. That’s why we don’t want this kind of politics. Therefore this politics will be standardized,” he added.
+
+◼️
+
+[Data](articles/a8a5b454.json)
+
+[Extended Data](ext_articles/a8a5b454.ext.json)
+
+---
+
 ### Strike on Karapitiya Hospital
 
 *2024-11-05 10:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202923) · `si`
@@ -97,6 +241,24 @@ The continued strike commenced by doctors at Karapitiya Hospital today (05) have
 [Data](articles/ac5e8f36.json)
 
 [Extended Data](ext_articles/ac5e8f36.ext.json)
+
+---
+
+### கராப்பிட்டிய வைத்தியசாலையின் வைத்தியர்கள் காலவரையறையின்றி பணிப்பகிஷ்கரிப்பு
+
+*2024-11-05 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/197911) · `ta`
+
+காலி, கராப்பிட்டிய தேசிய வைத்தியசாலையின் வைத்தியர்கள் இன்று செவ்வாய்க்கிழமை (5) காலை 8 மணி முதல் காலவரையறையின்றி பணிப்பகிஷ்கரிப்பை ஆரம்பித்துள்ளனர்.
+
+வைத்தியசாலையின் புற்றுநோயியல் பிரிவில் பணியாற்றும் விசேட வைத்தியர் ஒருவரின்  முறையற்ற நடத்தைக்கு எதிர்ப்புத் தெரிவித்து பணிப்பகிஷ்கரிப்பில் ஈடுபட்டுள்ளனர்.
+
+விசேட வைத்தியரின் நடத்தை தொடர்பில் நீண்டகாலமாக நிலவி வரும் கவலைகளை நிவர்த்தி செய்யுமாறு அதிகாரிகளுக்கு அழுத்தம் கொடுப்பதே இந்த பணிப்பகிஷ்கரிப்பின் நோக்கம் என அரசாங்க மருத்துவ அதிகாரிகள் சங்கத்தின் இணைச் செயலாளர் வைத்தியர் அசங்க கோனார தெரிவித்துள்ளார்.
+
+இதற்கு முன்னரும்  பணிப்பகிஷ்கரிப்பு நடவடிக்கைகள்  முன்னெடுக்கப்பட்ட  போதிலும் உரிய தீர்வுகள் எதுவும் வழங்கப்படாததால், வைத்தியர்கள் அதிருப்தி அடைந்துள்ளதாக அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/18d1d170.json)
 
 ---
 
@@ -164,6 +326,20 @@ In addition, a person was arrested in Peliyakotuwatta area in Peliyakalkallawatt
 
 ---
 
+### කරාපිටිය රෝහලේ වෛද්‍යවරුන් අඛණ්ඩ වර්ජනයක් ආරම්භ කරයි
+
+*2024-11-05 09:55:21* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-රෝහලේ-වෛද්‍යවරුන්-අඛණ්ඩ-වර්ජනයක්-ආරම්භ-කරයි/11-412859) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහලේ වෛද්‍යවරුන් අද (05දා) පෙරවරු 08 සිට අඛණ්ඩ වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+
+මීට පෙරද මෙම වෛද්‍යවරයාට එරෙහිව රෝහලේ වෛද්‍යවරුන් වැඩ වර්ජනයක් දියත් කළ අතර, අදාළ වෛද්‍යවරයා ස්ථාන මාරු කර යවන බවට ලද පොරොන්දුව මත එම වැඩ වර්ජනය අත්හිටුවීමට එම වෛද්‍යවරුන් කටයුතු කළහ.
+
+◼️
+
+[Data](articles/6160e77f.json)
+
+---
+
 ### 2024 General Election: 60 polling stations relocated from Buddhist Temples
 
 *2024-11-05 09:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103168/2024-general-election-60-polling-stations-relocated-from-buddhist-temples) · `en`
@@ -202,6 +378,24 @@ Further investigations are underway by the Sri Lanka Customs together with the P
 
 ---
 
+### க.பொ.த. சாதாரண தரப் பரீட்சை விண்ணப்பங்கள் இன்று முதல் ஏற்றுக்கொள்ளப்படும்
+
+*2024-11-05 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197910) · `ta`
+
+2024 (2025) க்கான  கல்விப் பொதுத் தராதர சாதாரண தர பரீட்சைக்கான விண்ணப்பங்கள் இன்று (05) முதல் 30 ஆம் திகதி வரை ஏற்றுக்கொள்ளப்படும் என பரீட்சைகள் திணைக்களம் அறிவித்துள்ளது.
+
+உத்தியோகபூர்வ இணையத்தளமான www.doenets.lk அல்லது www.onlineexams.gov.lk/eic மூலம் இணையவழியூடாக அனுப்பப்படும் விண்ணப்பங்கள் மட்டுமே ஏற்றுக்கொள்ளப்படும் என திங்கட்கிழமை (04) வெளியிடப்பட்ட அறிக்கையில் பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, அனைத்து பாடசாலை விண்ணப்பதாரர்களும் தங்களின் பரீட்சை விண்ணப்பங்களை பாடசாலை அதிபர்கள் ஊடாக சமர்ப்பிக்க வேண்டும். அதேவேளை,  தனியார் விண்ணப்பதாரர்கள் தனிப்பட்ட முறையில் பரீட்சைக்கு விண்ணப்பிக்க அனுமதிக்கப்படுவார்கள்.
+
+இணையவழியூடாக விண்ணப்பங்களை சமர்ப்பிப்பதற்கான  காலவகாசம் இம்மாதம் 30 ஆம் திகதி நள்ளிரவுடன்  நிறைவடையும். அதேநேரத்தில் எந்த வகையான கால நீடிப்புகளும் வழங்கப்படாது என்று திணைக்களம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/853a2b4c.json)
+
+---
+
 ### Current govt. simply continues policies of previous administrations – Dilith
 
 *2024-11-05 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103166/current-govt-simply-continues-policies-of-previous-administrations-dilith-) · `en`
@@ -217,6 +411,20 @@ Addressing a public rally held in Ratnapura, Jayaweera said: “Ranil Wickremesi
 [Data](articles/a1af0b09.json)
 
 [Extended Data](ext_articles/a1af0b09.ext.json)
+
+---
+
+### எஹெலியகொடவில் இடம்பெற்ற விபத்தில் ஒருவர் உயிரிழப்பு !
+
+*2024-11-05 09:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/197909) · `ta`
+
+எஹெலியகொட , மின்னான - இத்தமல்கொட வீதியில் பயணித்த மோட்டார் சைக்கிள் சாரதியின் கட்டுப்பாட்டை இழந்த நிலையில்  வீதியில் கவிழ்ந்து ஏற்பட்ட விபத்தில் மோட்டார் சைக்கிள் சாரதி உயிரிழந்துள்ளார்.
+
+இந்த விபத்து திங்கட்கிழமை (4) இடம்பெற்றுள்ள நிலையில், விபத்து தொடர்பான மேலதிக விசாரணைகளை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/67a5477f.json)
 
 ---
 
@@ -1606,6 +1814,42 @@ Therefore, it is believed that the prices of bread, cakes and other bakery produ
 
 ---
 
+### මහ මැතිවරණයේ ඡන්ද පත්‍රිකාව එන්නේ මෙහෙමයි
+
+*2024-11-04 19:27:30* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේ-ඡන්ද-පත්‍රිකාව-එන්නේ-මෙහෙමයි/11-412857) · `si`
+
+පොළොන්නරුව, මොනරාගල, කෑගල්ල මැතිවරණ දිස්ත්‍රික්කවලට අදාළව ඡන්ද පත්‍රිකාව එක් තීරුවකටත්, අනෙකුත් මැතිවරණ දිස්ත්‍රික්කවලට අදාළව ඡන්ද පත්‍රිකාව තීරු දෙකක් ලෙසටත් මුද්‍රණය කර තිබේ.
+
+සෑම ඡන්ද දායකයෙකුටම එක් ඡන්දයක් තිබෙන බවත්, ඡන්දය පිළිගත් දේශපාලන පක්ෂයකට හෝ ස්වාධීන කණ්‍ඩායමකට දෙනු ලැබිය හැකි බවද මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+පිළිගත් දේශපාලන පක්ෂය නම සහ ලකුණු ඉදිරියේ හෝ ස්වාධීන කණ්‍ඩායමේ  අංකය සහ ලකුණු ඉදිරියේ ඇති හිස් කොටුවේ කතිර ලකුණ (x) යෙදීමෙන් ඡන්දය ලබා දිය යුතු බවද පෙන්වා දෙයි.
+
+ඊට පසු දේශපාලන පක්ෂයේ හෝ ස්වාධීන කණ්‍ඩායමේ අපේක්ෂකයන්  තුන්දෙනෙකුට නොවැඩි අපේක්ෂකයන් ගණනකට ස්වකීය මනාපය පළ කළ හැකි බවද සඳහන් කරයි.
+
+ඡන්ද පත්‍රිකාවේ අග අපේක්ෂකයාට අදාළ මනාපය සලකුණු කිරීම සඳහා අනුක්‍රමික අංක තිබෙන බවත්, අනුරූපීය අංකය ඇතුළත් කොටුව මත කතිරය (x) සලකුණක් යෙදීමෙන් මනාපය ලබා දීම සිදු කළ හැකිය.
+
+...
+
+[Data](articles/5ad0e659.json)
+
+---
+
+### මිල්කෝ ආයතනයේ වැඩිම ආදායම ඉපයීමට හේතුව මෙන්න
+
+*2024-11-04 19:21:37* · [`adalk`](https://www.ada.lk/breaking_news/මිල්කෝ-ආයතනයේ-වැඩිම-ආදායම-ඉපයීමට-හේතුව-මෙන්න/11-412856) · `si`
+
+මිල්කො ආයතනය මෙතෙක් ඉපයූ වැඩිම ආදායම ඔක්තෝබර් මාසයේදී වාර්තා කර තිබේ. ඒ අනුව ඒ මාසයේදී රුපියල් මිලියන 2,019ක ආදායමක් උත්පාදනය කර ඇත. ඊට හේතුව වී ඇත්තේ එම ආයතනය කිරිපිටි නිෂ්පාදනය ඉහළ දැමීම බව මිල්කො ආයතනයෙන් අප කළ විමසීමකදී පැවසුවේය.
+
+ඒ අනුව මාස තුනක පමණ සිට දෛනිකව කිරි ලීටර් 160,000ක් කිරි ගොවින්ගෙන් ලබාගෙන ඇති අතර, මින් පෙර ලබාගෙන තිබුණේ කිරි ලීටර් 78,000කට ආසන්න ප්‍රමාණයකි. ඉකුත් ජූලි මාසයේදී මිල්කො ආයතනයේ ආදායම වාර්තා වී ඇත්තේ රුපියල් මිලියන 1,873ක් ලෙසය. අගෝස්තු මාසයේදී රුපියල් මිලියන 1,715ක් හා සැප්තැම්බර් මාසයේදී රුපියල් මිලියන 1,642ක් ලෙස ආදායම් ලබා තිබුණි.
+
+මිල්කො ආයතනය කිරිපිටි හා යෝගට් අලෙවියෙන් මෙලෙස ඉහළ ආදායමක් උපයා ඇති අතර, නුදුරේදී හයිලන්ඩ් ගෝල්ඩ් නමින් නව කිරිපිටි වර්ගයක්ද හඳුන්වා දීමට නියමිතය.
+
+◼️
+
+[Data](articles/3c3b4474.json)
+
+---
+
 ### The best modeling artist in Asia is Julia Sonali
 
 *2024-11-04 19:15:26* · [`adalk`](https://www.ada.lk/breaking_news/ආසියාවේ-හොදම-නිරූපන-ශිල්පිනිය-ලංකාවේ-ජූලියා-සොනාලි/11-412855) · `si`
@@ -2031,287 +2275,5 @@ Australia won the toss and elected to win 204 runs, losing 8 wickets in 33.3 ove
 [Data](articles/0e680270.json)
 
 [Extended Data](ext_articles/0e680270.ext.json)
-
----
-
-### CEB reforms advancing privatization
-
-*2024-11-04 18:10:53* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-ප්‍රතිසංස්කරණ-ඉදිරියට--පෞද්ලීකරණය-නවතී/11-412852) · `si`
-
-CEB reforms advance privatization. Electricity Act amended. CEB unable to cover costs. Sri Lanka appoints independent consultants for single-buyer model. Government ensures system functionality.
-
-🟩
-
-The Ceylon Electricity Board (Ceylon Electricity Board) says that the Electricity Act is amended.
-
-The Chairman of the Ceylon Electricity Board (CEB) and the board of directors covered by the Board of Directors, these factors were unable to cover the CEB.
-
-Sri Lanka will appoint Sri Lanka into the lowest electricity and consultant independent independent independent mechanic in a strong single buyer mode with an independent system functionality of the government.It was said that the CEB was informed.
-
-◼️
-
-[Data](articles/7479a420.json)
-
-[Extended Data](ext_articles/7479a420.ext.json)
-
----
-
-### රු. 50 Sugar Tax Again
-
-*2024-11-04 18:00:57* · [`adalk`](https://www.ada.lk/breaking_news/රු--50-සීනි-බද්ද-නැවතත්/11-412851) · `si`
-
-Sri Lanka reinstates Rs. 50 sugar tax, sparking protests and economic concerns. Opposition claims it increases food prices and harms consumers. Government defends measure as temporary revenue boost.
-
-🟩
-
-District Leader Rohnani Kaviratne says that the poor is resort to the removal of Rs. 50 to the removal of Rs.
-
-Anura Kumara Dissanayake as Finance Minister. 50 Sugar Tax has been imposed.
-
-In November 1, November 1, first, was imposed by the Sugar Tax at the time. At the Parliamentary Committee, I protested at the Parliamentary Committee and other policy meetings and the political platform.State officials said, 2024 November 2024 November. This tax is removed after 01. The whole country knows that this tax was imposed to prevent the sugar tax profit to earn a profit.
-
-The variety of food prices, which raise food prices of food, which has been increased by the sugar tax fraud and taxes.
-
-The JVP expressed the views against the opposition to the sugar and the sugar.It was said that the sugar grafted is a large raise fraud and investigations into the suggestion of sugar under a government.. Investigations on Sugar Tax Fraud Conducts. The government has taken steps to impose a sugar tax of 50.
-
-...
-
-[Data](articles/ae29e728.json)
-
-[Extended Data](ext_articles/ae29e728.ext.json)
-
----
-
-### Legal action against people who defaulted tax payments
-
-*2024-11-04 17:49:39* · [`adalk`](https://www.ada.lk/breaking_news/බදු-ගෙවීම්-පැහැර-හැරි-ජනකට-හා-බිරිඳට-නඩු/11-412849) · `si`
-
-Sri Lanka Inland Revenue sues former official, presidential candidate for unpaid taxes. Case involves $2 billion payment dispute. Court orders immediate appearance of defendants.
-
-🟩
-
-The Inland Revenue Department filed a former chairman of the Sri Lanka Public Utilities Commission and the Presidential candidate of the Sri Lanka Public Utilities Commission of Sri Lanka and the Presidential candidate Janaka Ratnayake and his wife in the last presidential election.
-
-Janaka Ratnayake and his two-billion rupees to pay for Rs.The wife is HL. Kumari de Silva sentenced the magistrate.
-
-Rente Company Service (Rent Company Service) as directors of 'Rent Company' (Rent Company), Colombo 05, will be paid to the Government as VAT.The Department of Inland Revenue has been filed against the default tax of Rs. 18,51,688.37 for the three years.
-
-The respondents did not appear in court when the case was taken up and appeared in court.
-
-Attorney-at-Law Dinesh Perera appearing on behalf of the Construction Ingrupthibage Dinesh Perera, he said the piscal reported that the respondents were handed over to respondents.
-
-...
-
-[Data](articles/b4493ab0.json)
-
-[Extended Data](ext_articles/b4493ab0.ext.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට නායයෑම් අනතුරු ඇඟවීම් නිකුත් කෙරේ
-
-*2024-11-04 17:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202904) · `si`
-
-National Building Research Organization issues warning notices for several districts due to potential disasters. Affected areas include Kegalle, Rathnapura, and others. Residents advised to remain vigilant.
-
-🟩
-
-ප්‍රදේශ කිහිපයකට පූර්ව නායයෑමේ අනතුරු ඇඟවීම් නිවේදනයක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
-
-එම සංවිධානය පැවසුවේ අද (04) පස්වරු 4.00 සිට හෙට පස්වරු 4.00 දක්වා අදාළ අනතුරු ඇඟවීමේ නිවේදනය ක්‍රියාත්මක බවය.
-
-ඒ අනුව කෑගල්ල දිස්ත්‍රික්කයේ කෑගල්ල, දෙහිඹ්විට, ⁠මාවනැල්ල, බුලත්කොහුපිටිය, රත්නපුර දිස්ත්‍රික්කයේ ඇහැලියගොඩ, ⁠කුරුවිට,⁠ රත්නපුර යන ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත 'අවදානයෙන් සිටින්න' යන නිවේදනය නිකුත් කර තිබේ.
-
-එමෙන්ම බදුල්ල දිස්ත්‍රික්කයේ වැලිමඩ, හල්දුම්මුල්ල, ගාල්ල දිස්ත්‍රික්කයේ ඇල්පිටිය, කළුතර දිස්ත්‍රික්කයේ බුලත්සිංහල, මහනුවර දිස්ත්‍රික්කයේ උඩපලාත, ⁠යටිනුවර, කෑගල්ල දිස්ත්‍රික්කයේ වරකපොල, ⁠යටියන්තොට,  කුරුණෑගල දිස්ත්‍රික්කයේ, පොල්ගහවෙල, මාතර දිස්ත්‍රික්කයේ කොටපොල, ⁠අකුරැස්ස, ⁠පස්ගොඩ, රත්නපුර දිස්ත්‍රික්කයේ නිවිතිගල, ⁠අයගම, ⁠බලංගොඩ, ⁠ඉඹුල්පෙ, ⁠ඕපනායක, ⁠කිරිඇල්ල, ⁠කලවාන, ⁠කහවත්ත, ⁠ඇලපාත, ⁠⁠ගොඩකවෙල, ⁠පැල්මඩුල්ල යන ප්‍රාදේශ ලේකම් කොට්ඨාස සඳහා 'විමසිලිමත් වන්න' යන නිවේදනයත් නිකුත් කර තිබේ.
-
-◼️
-
-[Data](articles/f4bb877b.json)
-
-[Extended Data](ext_articles/f4bb877b.ext.json)
-
----
-
-### කලා ඔය ආශ්‍රිත පහත් බිම්වල පදිංචි අයට අනතුරු ඇඟවීමක්
-
-*2024-11-04 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202903) · `si`
-
-Rajanganaya reservoir: Two sluice gates opened 3 feet. Residents near low-lying areas advised to stay alert. More spill gates to open at night if heavy rains occur.
-
-🟩
-
-Two sluice gates of the Rajanganaya reservoir have been opened for three feet.
-
-එබැවින් කලා ඔය ආශ්‍රිත පහත් බිම්වල පදිංචි අය අවධානයෙන් සිටිය යුතු බව රාජාංගන වාරි ඉංජිනේරුවරයා පැවසීය.
-
-He added that more spill gates would be opened at night if heavy rains were received in the latext.
-
-◼️
-
-[Data](articles/1d82bdb2.json)
-
-[Extended Data](ext_articles/1d82bdb2.ext.json)
-
----
-
-### ඉන්දියාවේ සිදු වූ බස් රථ අනතුරකින් 36 දෙනෙකු ජීවිතක්ෂයට
-
-*2024-11-04 17:33:55* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්දියාවේ-සිදු-වූ-බස්-රථ-අනතුරකින්-36-දෙනෙකු-ජීවිතක්ෂයට/11-412848) · `si`
-
-In India's Uttarakhand state, a bus accident killed 36 people. The bus overturned while crossing a bridge, leaving 44 passengers injured according to foreign media reports.
-
-🟩
-
-ඉන්දියාවේ උත්තර්කාන්ද් ප්‍රාන්තයේ සිදු වූ බස් රථ අනතුරකින් පුද්ගලයන් 36 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙම බස් රථය ප්‍රපාතයකට පෙරලී යාමෙන් අනතුර සිදුව ඇති අතර, අනතුර සිදුවන අවස්ථාවේ බස් රථය තුළ පුද්ගලයන් 44 දෙනෙකු සිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
-
-◼️
-
-[Data](articles/354fea22.json)
-
-[Extended Data](ext_articles/354fea22.ext.json)
-
----
-
-### India's bus topples into a terrible precipice
-
-*2024-11-04 17:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202902) · `si`
-
-Bus crash kills 36 in Himalayas. Poor roads blamed. PM expresses regret. Authorities offer aid.
-
-🟩
-
-There are 36 passengers killed by a bus in the Himalayan Mountains and 36 passengers were killed.
-
-These accidents are common due to poor roads in the Himalaya Zone.
-
-Meanwhile, Indian Prime Minister Narendra Moody has said that his regret has been declared and injured in the accident and injured.
-
-The authorities have decided to provide Indian rupees Rs.
-
-◼️
-
-[Data](articles/ab7bd952.json)
-
-[Extended Data](ext_articles/ab7bd952.ext.json)
-
----
-
-### “Don't be unlimited 5/6 majority”
-
-*2024-11-04 17:24:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வரம்பற்ற-5-6-பெரும்பான்மை-வேண்டாம்/175-346544) · `ta`
-
-National People's Power opposes unlimited 5/6 majority, seeks strong parliamentary majority for governance without opposition obstruction.
-
-🟩
-
-National People's Power Member Dilvin Silva has said that the national people's power does not expect unlimited power in the five -fifth (5/6) majority in Parliament to deactivate the opposition.
-
-He said at a press conference held in Colombo on Monday (04) that the national people's power is expecting only a majority in parliament to run the government without any hindrance.
-
-Responding to a question raised by National People's Power Leader Anura Kumara Dissanayake, Silva said that the National People's Power is still in the same opinion.
-
-“We don't need to use power like a 5/6 majority that deactivates the opposition. But, to run the government, a strong majority in parliament. The government should pass laws and amend the laws. We need a strong majority. ”
-
-◼️
-
-[Data](articles/885c2a35.json)
-
-[Extended Data](ext_articles/885c2a35.ext.json)
-
----
-
-### Sri Lanka scraps CEB privatization plan
-
-*2024-11-04 17:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103157/sri-lanka-scraps-ceb-privatization-plan) · `en`
-
-The Board of Directors of the Ceylon Electricity Board (CEB) has officially shelved its privatization plans, opting instead to prioritize comprehensive restructuring aimed at boosting efficiency and service quality.
-
-In a statement, the CEB announced that this decision was reached following a meeting held between the Chairman and the Board of Directors on October 23.
-
-Accordingly, the newly outlined restructuring framework will target key organizational reforms to enhance customer satisfaction, improve service standards, achieve sustainable profitability, support social and economic development and improve working conditions for employees.
-
-Additionally, it has also been decided to amend the Sri Lanka Electricity Act and ensure government ownership of all power plants, as well as the transmission and distribution networks without privatization.
-
-...
-
-[Data](articles/2848526a.json)
-
-[Extended Data](ext_articles/2848526a.ext.json)
-
----
-
-### Providing Rs.
-
-*2024-11-04 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202901) · `si`
-
-Commissioner General Agrarian Development UP providing fertilizer subsidy 2024 Maha season. First phase: Rs. 15,000 per beneficiary. Total allocation: Rs. 46.5 million for 4,475 beneficiaries across 12 districts. Second phase details not specified.
-
-🟩
-
-The Commissioner General of Agrarian Development UP has already begun to provide the provision of fertilizer subsidy for the 2024 Maha season.. Ramana Rajapaksa says.
-
-He said that under its first phase, steps have been taken to grant Rs. 15,000 each.
-
-Under the first phase, Rs.
-
-46.5 million for 4,475 phases of 12 million in 12 districts for 4,475 Rs.
-
-He said that the Treasury will receive a sum of Rs.
-
-He further stated that the second phase of Rs.
-
-◼️
-
-[Data](articles/f49b793d.json)
-
-[Extended Data](ext_articles/f49b793d.ext.json)
-
----
-
-### Message to visit Sri Lanka - New Zealand competitions
-
-*2024-11-04 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202900) · `si`
-
-Sri Lanka-New Zealand cricket series: Tickets available online and at stadiums. Purchase starts Nov 7 at Science Training & Dambulla. Windows open 9am-8pm. Additional sales at Pallekele (Nov 15) and Balagolla for ODI.
-
-🟩
-
-Sri Lanka Cricket states that marketing of tickets will commence on online methods for the upcoming Sri Lanka-New Zealand cricket tournament.
-
-Meanwhile, ticket windows at Science Training and Dambulla cricket stadium in Colombo 7 opened from November 07.
-
-Meanwhile, a window will be installed near the Dambulla cricket stadium at the 20th matches.
-
-Tickets will be sold at the Pallekele Stadium from November 15 and can also purchase tickets at the Balagolla on the ODI International.
-
-Ticketing windows The ticket windows will be open from 9 am to 8 pm.
-
-◼️
-
-[Data](articles/2040fd15.json)
-
-[Extended Data](ext_articles/2040fd15.ext.json)
-
----
-
-### Sri Lanka rupee closes weaker at 293.05/20 to dollar, bonds flat
-
-*2024-11-04 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-293-05-20-to-dollar-bonds-flat-186071/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was depreciated to 293.05/20 to the US dollar Monday from 292.95/293.00 to the US dollar on Friday dealers said, while bond yields were flat.
-
-A bond maturing on 15.12.2026 closed at 10.50/75 down from 10.65/85 percent.
-
-A bond maturing on 15.03.2028 closed at 11.70/80 percent, down from 11.72/82 percent.
-
-A bond maturing on 15.06.2029 closed stable at 11.95/12.05 percent. (Colombo/Nov04/2024)
-
-◼️
-
-[Data](articles/fa782b19.json)
-
-[Extended Data](ext_articles/fa782b19.ext.json)
 
 ---

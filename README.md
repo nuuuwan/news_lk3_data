@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 14:59:13**
+As of **2024-11-05 15:10:31**
 
 ## Newspaper Stats
 
-*Scraped **53,156** Articles*
+*Scraped **53,159** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
-colombotelegraphcom | 542
+colombotelegraphcom | 543
 bbccomsinhala | 544
 islandlk | 3,181
 economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,960
-adaderanalk | 6,330
+adaderanalk | 6,332
 tamilmirrorlk | 7,396
 virakesarilk | 8,581
 adaderanasinhalalk | 9,267
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,156 (100.0%) of 53,156 articles have been extended.
+53,159 (100.0%) of 53,159 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Appeals Court upholds prison sentence for ex-Deputy Minister in bribery case
+
+*2024-11-05 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103182/appeals-court-upholds-prison-sentence-for-ex-deputy-minister-in-bribery-case) · `en`
+
+The Court of Appeal has upheld a prison sentence given to former Deputy Minister Shantha Premaratne who was found guilty of the charges of obtaining a bribe of Rs. 50,000 from a woman after promising employment.
+
+This order was issued when an appeal filed by the accused former Deputy Minister, seeking his acquittal from the case, was taken up before a two-member Appeals Court judge bench comprising Justices Sampath Abeykoon and P. Kumaran Rathnam today (05).
+
+The former Deputy Minister was sentenced to 4 years of rigorous imprisonment after being found guilty over the relevant charges by the Colombo High Court.
+
+◼️
+
+[Data](articles/897908b7.json)
+
+[Extended Data](ext_articles/897908b7.ext.json)
+
+---
+
+### Drug trafficker Palani Shiran’s assets worth Rs. 80 million frozen
+
+*2024-11-05 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103181/drug-trafficker-palani-shirans-assets-worth-rs-80-million-frozen) · `en`
+
+Sri Lankan authorities have frozen assets valued at approximately Rs. 80 million belonging to notorious drug trafficker Palani Shiran Clorian, who is currently serving a prison sentence in India on drug-related charges.
+
+The properties, allegedly earned through drug trafficking, include a two-story house, a luxury car, and a boat.
+
+The seizure was made following a joint investigation by the Terrorism Investigation Division (TID) and the Illegal Assets and Property Investigation Division, based on intelligence received indicating that Clorian’s operations extended to Colombo.
+
+During the investigation, officials have uncovered the two-story house located in Balagala, Wattala and a luxury vehicle. The boat, also linked to Clorian, is believed to have been used by associates in the escape following the recent murder of “Club Wasantha”, according to police sources.
+
+Police also mentioned that Clorian is the son of another notorious criminal and drug trafficker infamously known as “Kudu Selvi”.
+
+◼️
+
+[Data](articles/cd8932d7.json)
+
+[Extended Data](ext_articles/cd8932d7.ext.json)
+
+---
 
 ### Kamala Harris’ ancestral village in India to pray for her election victory
 
@@ -2331,59 +2371,5 @@ Referring to the ‘Country Night’ concert, held on Saturday, 26th October, at
 [Data](articles/171a0f4a.json)
 
 [Extended Data](ext_articles/171a0f4a.ext.json)
-
----
-
-### President Anura - Nimal Lansa
-
-*2024-11-04 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197905) · `ta`
-
-Former MP Nimal Lansa accuses President Anura Kumara Dissanayake of deception, claiming he's not fulfilling campaign promises. He criticizes the current government's handling of corruption scandals and implementation of IMF programs.
-
-🟩
-
-President Anura Kumara Dissanayake is deceiving people. Former parliamentarian Nimal Lansa said he was one of the speaking of the election platforms and a man who was sitting in the presidential seat.
-
-He further stated at a public meeting held on Monday (4) in Katana area.
-
-We are working to build a strong opposition party. It is unconventional that the winner has visited the Katana area for the failed party, not to Anuragumara Dissanayake.. Those who win the election should not think that they will win the next election. Success in the parliamentary election cannot be expected without fulfilling the promises made to the people.
-
-The curse of seventy -five years, the people believed that the ministers had stolen, defrauded and corrupted.. But currently that hope has been lost. President Anura knows that the promises made on the election platform cannot be fulfilled.
-
-...
-
-[Data](articles/b319f2dd.json)
-
-[Extended Data](ext_articles/b319f2dd.ext.json)
-
----
-
-### No change has been made by the government. False promises, people should not be fooled by false disguises
-
-*2024-11-04 23:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197904) · `ta`
-
-Here's a 200-character summary:
-
-
-
-David Navaratnaraj warns against false promises. No real changes by government. Ranil Wickremesinghe supported, economy improved under him. Current campaign borrowing heavily. Police capable of handling crimes, no need for president intervention.
-
-🟩
-
-No change has been made by the government. David Navaratnaraj, who is contesting as the primary candidate in the UNP's elephant symbol in the Jaffna electoral district, said that the people should not be fooled by false promises and false disguises.
-
-Yall. He said this during a media briefing held at the Media Center on Monday (4).
-
-If he became president in 2005, he voted for Ranil Wickremesinghe and would not have been destroyed. Many people think he is furious. We do not think that politics is an error. It was because of the furious character that the country was restored from the economic downturn.
-
-Today, many who have stood with Ranil Wickremesinghe have split for their own selfishness.Even the JVP continues to carry out the programs launched by Ranil Wickremesinghe. They were unable to carry out new jobs.
-
-Egg prices, rice prices and coconut prices are high today. Ranil Wickremesinghe has now begun to rise again. The regime will go and topple within six months.
-
-...
-
-[Data](articles/02a5a94a.json)
-
-[Extended Data](ext_articles/02a5a94a.ext.json)
 
 ---

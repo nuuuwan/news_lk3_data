@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 13:09:46**
+As of **2024-11-05 13:40:48**
 
 ## Newspaper Stats
 
-*Scraped **53,144** Articles*
+*Scraped **53,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,957
-adaderanalk | 6,327
+adaderanalk | 6,328
 tamilmirrorlk | 7,394
 virakesarilk | 8,579
 adaderanasinhalalk | 9,265
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,265
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,144 (100.0%) of 53,144 articles have been extended.
+53,145 (100.0%) of 53,145 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -513,6 +513,24 @@ This decision was taken by the five-member Supreme Court judge bench led by Just
 [Data](articles/afe95b04.json)
 
 [Extended Data](ext_articles/afe95b04.ext.json)
+
+---
+
+### Easter attacks: SC orders to recall defence over acquittal of ex-IGP and Defence Secretary
+
+*2024-11-05 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103173/easter-attacks-sc-orders-to-recall-defence-over-acquittal-of-ex-igp-and-defence-secretary) · `en`
+
+The Supreme Court has ordered the Colombo High Court Trial-at-Bar to recall the defence following an appeal filed by the Attorney General (AG) challenging the verdict issued by Colombo High Court to acquit former Defence Secretary Hemasiri Fernando and former IGP Pujith Jayasundara from the charges of failure to prevent 2019 Easter Sunday terror attacks despite receiving prior information.
+
+The appeal was filed against the verdict issued by the Colombo High Court Trial-at-Bar to acquit the former Defence Secretary and the former IGP from the charges of Criminal dereliction of duty and murder through their failure to prevent 2019 Easter Sunday terror attacks despite receiving information prior to the attacks.
+
+This decision was taken by the five-member Supreme Court judge bench led by Justices Preethi Padman Surasena following an extended hearing of the relevant appeal filed by the AG.
+
+...
+
+[Data](articles/c19f6158.json)
+
+[Extended Data](ext_articles/c19f6158.ext.json)
 
 ---
 
@@ -2293,39 +2311,5 @@ The order was issued when two cases filed against Janaka Ratnayake and his wife 
 [Data](articles/977e4ace.json)
 
 [Extended Data](ext_articles/977e4ace.ext.json)
-
----
-
-### Sashenics for Janaka Ratnayake who did not pay off 3 crores
-
-*2024-11-04 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202911) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Additional Magistrate orders Public Utilities Commission officials to appear in court on Dec 10 regarding unpaid 3 crore debt. Attorney Dinesh Perera represents the government in this matter.
-
-🟩
-
-Colombo Additional Magistrate Bandara Ilangasinghe today ordered the forum of the Public Utilities Commission of Sri Lanka and his wife to appear in court on December 10.
-
-It is in connection with a computer service provider in the Kirulapone.
-
-Janaka Ratnayake and his wife, Kumari Yzasoda and his wife had issued the respondents in court and to appear in court.
-
-However, the respondents have not appeared before the court, but replaced the company, instead of presented to the court.
-
-Attorney-at-Law Dinesh Perera appeared in the court to appear in court to appear before the court to appear before the court.
-
-The Colombo Additional Magistrate issued the order after considering the request.
-
-On behalf of the Institute, the government has informed the court that the government has to pay Rs.
-
-◼️
-
-[Data](articles/818c7a1d.json)
-
-[Extended Data](ext_articles/818c7a1d.ext.json)
 
 ---

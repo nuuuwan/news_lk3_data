@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 01:40:18**
+As of **2024-11-06 02:10:26**
 
 ## Newspaper Stats
 
-*Scraped **53,235** Articles*
+*Scraped **53,238** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,17 +18,87 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,408
-virakesarilk | 8,601
+tamilmirrorlk | 7,409
+virakesarilk | 8,603
 adaderanasinhalalk | 9,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,235 (100.0%) of 53,235 articles have been extended.
+53,238 (100.0%) of 53,238 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-06 (Wednesday)
+
+### Rice shortage, unlikely to increase the price of rice - AL Randika
+
+*2024-11-06 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197984) · `ta`
+
+Rice shortage may not boost prices due to government intervention and lack of consideration for rice production sub-products, says AL Randika. Hector Koppgaduwa predicts stable rice costs for 2024 seasons despite challenges.
+
+🟩
+
+Hector Koppgaduwa is unlikely to increase the price of rice and rice in the wake of the 2024 Yala and Maha season.
+
+At a media briefing in Colombo, the Director of the company Professor A.. L. He noted that the minimum intervention of the government on the purchase of Randika has led to the hike in rice prices.
+
+He said that when calculating the price of rice, the sub -products of the rice production are not considered.
+
+◼️
+
+[Data](articles/7cca0e24.json)
+
+[Extended Data](ext_articles/7cca0e24.ext.json)
+
+---
+
+### 5000 rupee fake currency
+
+*2024-11-06 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197983) · `ta`
+
+Arrested for producing fake 5000 rupee currency with presidential seal. Remanded till Nov 11 after posting on social media. Police investigation ongoing.
+
+🟩
+
+The suspect has been arrested for producing a 5000 rupee currency sheet inscribed by the president.
+
+The Kessewa Magistrate has ordered the suspect to be remanded until November 11, the suspect who posted a fake 5000 rupee coin on social media with the image of the president.
+
+Police Media Spokesperson Nihal Dalduwa said that the 38 -year -old suspect was arrested by the police in the area.
+
+It is noteworthy that the Criminal Investigation Department arrested the suspect on the 4th.
+
+◼️
+
+[Data](articles/e326f260.json)
+
+[Extended Data](ext_articles/e326f260.ext.json)
+
+---
+
+### To achieve the government's goals, to be replaced
+
+*2024-11-06 01:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசின்-இலக்குகளை-அடைய-மாற்றப்பட-வேண்டும்/175-346630) · `ta`
+
+Sri Lanka's President Anura Kumara Dissanayake outlines key objectives: eliminating rural poverty, boosting economy and social status within 5 years. Emphasizes need for state official support and independent action against fraud and corruption.
+
+🟩
+
+President Anuragumara Dissanayake said the main objective of the government was to eliminate the poverty of the rural people over the next five years and raise the economy and social status of the rural people.
+
+The President made this statement during a discussion held at the Presidential Secretariat with the Sri Lanka Administrative Services Association on Tuesday afternoon.
+
+President Anura Kumara Dissanayake said that the support of state officials was essential for the success of the government's program.. The President pointed out that there is some gap between the purpose of the government and the manner in which public services operate and that the state administration has been acting so far in order to make the country's plan to develop the country.
+
+...
+
+[Data](articles/49b4ba32.json)
+
+[Extended Data](ext_articles/49b4ba32.ext.json)
+
+---
 
 ### 2024-11-05 (Tuesday)
 
@@ -2417,71 +2487,5 @@ The Sri Lanka Customs Control Division has requested the Bureau of Investigation
 [Data](articles/2db2caf7.json)
 
 [Extended Data](ext_articles/2db2caf7.ext.json)
-
----
-
-### Calling the oral question in case against Hemasiri and Pillat
-
-*2024-11-05 11:43:52* · [`adalk`](https://www.ada.lk/breaking_news/හේමසිරිට-සහ-පූජිත්ට-එරෙහි-නඩුවේ-විත්ති-වාචිකය-කැඳවීමේ-නියෝගයක්/11-412861) · `si`
-
-Supreme Court orders former Defense Secretary Hemasiri Fernando and ex-IGP Pujith Jayasundara to appear before it regarding terrorism allegations.
-
-🟩
-
-The Supreme Court has ordered the former Defense Secretary Hemasiri Fernando on the terrorist secretary and former IGP Puziri Jayasundara.
-
-The order was given to the Supreme Court a panel of judges.
-
-◼️
-
-[Data](articles/63f9645a.json)
-
-[Extended Data](ext_articles/63f9645a.ext.json)
-
----
-
-### Singapore named world’s most powerful passport; Sri Lanka ranks 94
-
-*2024-11-05 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103176/singapore-named-worlds-most-powerful-passport-sri-lanka-ranks-94) · `en`
-
-Singapore has been named the world’s most powerful passport again, offering its citizens visa-free access to 195 countries, according to the latest Henley Passport Index released in October 2024.
-
-France, Germany, Italy, Japan, and Spain shared the second place, granting their citizens visa-free access to 192 countries, as per the latest rankings.
-
-Additionally, there are 8 countries that shared the 3rd spot offering their citizens visa-free access to 191 countries namely: Austria, Denmark, Finland, Ireland, Luxembourg, Netherlands, South Korea and Sweden.
-
-There are 5 countries that allow their citizens to travel visa-free to 190 countries: Belgium, New Zealand, Norway, Switzerland and the United Kingdom.
-
-Australia and Portugal claimed the 5th spot granting its citizens entry to 189 countries.
-
-The world’s largest economy, the United States came 8th on the list, offering its citizens visa-free access to 186 countries.
-
-...
-
-[Data](articles/02d0e4a0.json)
-
-[Extended Data](ext_articles/02d0e4a0.ext.json)
-
----
-
-### Doctors’ strike at Karapitiya Hospital called off
-
-*2024-11-05 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103175/doctors-strike-at-karapitiya-hospital-called-off) · `en`
-
-The indefinite strike launched by the doctors at the Karapitiya National Hospital from 8.00 a.m. today (05) has been called off.
-
-The strike, which was in response to alleged misconduct by a specialist in the hospital’s oncology unit, was called off after the authorities had decided to transfer the doctor in question to the Maharagama Apeksha Hospital.
-
-The strike which was launched earlier this morning followed an earlier token strike over the same issue, with doctors expressing frustration over the lack of a solution from hospital authorities.
-
-The Co-Secretary of the Government Medical Officers’ Association (GMOA) Dr. Asanka Konara stated that the strike aimed to pressure authorities into addressing long-standing concerns about the specialist doctor’s behavior.
-
-He noted that despite previous strike actions, no effective solutions had been provided, prompting the doctors to escalate their protest.
-
-◼️
-
-[Data](articles/25632a06.json)
-
-[Extended Data](ext_articles/25632a06.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 22:40:15**
+As of **2024-11-05 23:11:40**
 
 ## Newspaper Stats
 
-*Scraped **53,230** Articles*
+*Scraped **53,231** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,226
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
-adaderanalk | 6,340
+adaderanalk | 6,341
 tamilmirrorlk | 7,407
 virakesarilk | 8,598
 adaderanasinhalalk | 9,280
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,230 (100.0%) of 53,230 articles have been extended.
+53,230 (100.0%) of 53,231 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Kavinda de Zoysa appointed chairman of Bank of Ceylon
+
+*2024-11-05 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103192/kavinda-de-zoysa-appointed-chairman-of-bank-of-ceylon) · `en`
+
+Mr. Kavinda de Zoysa has been appointed as the new Chairman of the Bank of Ceylon (BOC), Sri Lanka’s leading state-owned financial institution.
+
+Mr. de Zoysa, a career banker with over 30 years of industry experience and 25 years in management, brings proven leadership capabilities and strategic insight to BOC, a statement said.
+
+His deep understanding of local and global markets positions him well to support the Bank’s objectives in this evolving environment. Known as a team player and innovator, he champions ethics, compliance, diversity, equity & inclusion (DEI), and believes strongly in meritocracy and agile execution.
+
+...
+
+[Data](articles/3c9d61cf.json)
+
+---
 
 ### Secrets revealed about the price of rice
 
@@ -2477,27 +2493,5 @@ The arrested suspect has also been staying in a room on the same floor of the pr
 [Data](articles/e8284c19.json)
 
 [Extended Data](ext_articles/e8284c19.ext.json)
-
----
-
-### Tamil voters must understand the preferential voting match within the telephone team - Mano Ganesan
-
-*2024-11-05 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197922) · `ta`
-
-Tamil Progressive Alliance leader Mano Ganesan urges Tamil voters to prioritize their party candidates in upcoming elections. He warns against supporting non-Tamil candidates seeking preferential votes, emphasizing the importance of Tamil votes for his alliance's success.
-
-🟩
-
-Tamil Progressive Alliance leader Mano Ganesan has announced that I have demanded Tamil voters to prioritize our Tamil Progressive Alliance candidates who vote for the telephone symbol and contest as a coalition candidates with the Memorandum of Understanding.
-
-In the last presidential election, our candidate was won by Sajith Premadasa in Colombo, Gampaha, Kandy, Kegalle, Ratnapura and Badulla districts.. We have won the Nuwara Eliya District. These are the achievement of the Tamil Progressive Alliance.
-
-Several majority politicians who cannot get the votes of Sinhala voters in the presidential election, today, as telephone candidates, are looking for Tamil preferential votes.. Tamil voters appear before and speak with a sudden affection for the Tamil people. Tamil voters are talking and trying to hug. Anyway, they are trying to get some Tamil preferential votes.
-
-...
-
-[Data](articles/71871334.json)
-
-[Extended Data](ext_articles/71871334.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 15:59:27**
+As of **2024-11-05 16:13:34**
 
 ## Newspaper Stats
 
-*Scraped **53,170** Articles*
+*Scraped **53,173** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,96 @@ dailymirrorlk | 4,733
 adalk | 4,961
 adaderanalk | 6,334
 tamilmirrorlk | 7,397
-virakesarilk | 8,586
-adaderanasinhalalk | 9,268
+virakesarilk | 8,588
+adaderanasinhalalk | 9,269
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,170 (100.0%) of 53,170 articles have been extended.
+53,173 (100.0%) of 53,173 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Janapura students launched a protest march
+
+*2024-11-05 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202935) · `si`
+
+Janapura students protest march University of Sri Jayewardenepura Colombo UGC Viharamaha Devi Park conspiracy against student unions unfair class barriers Faculty of Management
+
+🟩
+
+University of Sri Jayewardenepura has been protesting in Colombo today afternoon.
+
+Later, they had come to the University Grants Commission from front of Viharamaha Devi Park.
+
+The protest has been organized to immediately demand the conspiracy program to suppress student unions on the needs of the Vice Chancellor.
+
+Protest students say that the unfair classbaries of the Faculty of Management should be lifted.
+
+Students near the University Grants Commission also protesting and six students were later discussed with the officers.
+
+◼️
+
+[Data](articles/f2616e37.json)
+
+[Extended Data](ext_articles/f2616e37.ext.json)
+
+---
+
+### People have lost confidence in the current president - Sajith Premadasa
+
+*2024-11-05 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197951) · `ta`
+
+Sajith Premadasa criticizes incumbent president Anura Kumara Dissanayake over economic policies. Claims Dissanayake failed to reduce essential food prices, fuel costs, and electricity bills despite promises. Accuses government of deception and IMF slavery. Promises to change agreements if elected.
+
+🟩
+
+People are comparing the presidential candidate Anurakumara Dissanayake and what President Anura Kumara Dissanayake is doing. Although he says he will reduce the prices of essential foods. Sajith Premadasa said that even rows are also found for coconuts.
+
+Can determine the minimum price using the executive powers found to the president. But he did not do so. He also said that fuel prices, electricity bills and taxes will be reduced. But Sajith Premadasa said that they had not happened.
+
+The 2024 general election was held on Monday (04) on Monday (04), headed by Sajith Premadasa, the leader of the United People's Alliance.
+
+The meeting was organized by the United People's Power Colombo District Candidate Dr. Harsha de Silva and many others, including party activists.. He said this while addressing the gathering.
+
+...
+
+[Data](articles/78760523.json)
+
+[Extended Data](ext_articles/78760523.ext.json)
+
+---
+
+### 09 reservoirs of air flow
+
+*2024-11-05 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197949) · `ta`
+
+Nine out of 73 major reservoirs overflowing due to heavy rain. Heavy thunder/lightning warnings issued for 15 districts. Rainfall exceeding 50mm predicted in some areas. Snowfall forecasted in western regions.
+
+🟩
+
+The Water Management Unit of the Irrigation Department said that nine of the 73 large reservoirs have begun to flow through the weather with heavy rains.
+
+Accordingly, the reservoirs of Padalakoda, Thethuru Oya, Ellewela, Kaganatura, Rajanganaya, Tapova, Van Ela, Veerawila and Yodhaveva are in the air.
+
+Meanwhile, 15 districts including the Upper, South, Central, Sabaragamuwa, Uva and North Western Provinces have been issued heavy thunder and lightning warning.
+
+Thundershowers will occur in the evening or night in the Central, Sabaragamuwa, Uva and Southern Provinces, the National Meteorological Department forecasts unit said.
+
+In some areas may experience more than 50 millimeters of heavy rainfall. Light rainfall is expected in the North and North Western provinces many times.
+
+It is expected to be a snowfall in the morning in the mornings in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts.
+
+◼️
+
+[Data](articles/31955a89.json)
+
+[Extended Data](ext_articles/31955a89.ext.json)
+
+---
 
 ### Shoot
 
@@ -2357,79 +2435,5 @@ When many diaspora Tamils ​​were asked to meet with former President Ranil W
 [Data](articles/c9ba6f6f.json)
 
 [Extended Data](ext_articles/c9ba6f6f.ext.json)
-
----
-
-### Sumanthiran
-
-*2024-11-05 01:43:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருட்டுத்தனமாக-நுழைந்தவர்-சுமந்திரன்/175-346568) · `ta`
-
-Sumanthiran accused of theft in Tamil alliance, denies involvement in Vanni issues. Independent candidate Emilkanthan criticizes Sumanthiran's leadership. Sumanthiran entered politics via national list, claims no need to address Vanni problems personally. Accused of using proxy candidates to achieve political goals.
-
-🟩
-
-Independent candidate Emilkanthan questioned how Sumanthiran, who had been stealing in the alliance of the Tamils ​​of the Tamil people, would steal for the problems in Vanni.
-
-He was speaking at a media briefing held at his office in Vavuniya on Monday (04).
-
-Who is the leadership of the Tamil party?I recently raised a question. Sumanthiran has answered that. In his reply, that is between our candidates in Vanni and Emilkanthan. He has given a response as if he did not descend to that level.
-
-You are the one who entered politics through the National List of the National List. Sumanthiran does not need to get down for the problems in Vanni. That would not be a big deal for him.
-
-Those who are unable to meet the needs of the people send their second -level members as candidates and subtle them subtle subtle success through them.
-
-My contribution was also in it when the Tamil construction was formed.. Climbing on that strength and stealing in the stealth, stop the answer.
-
-◼️
-
-[Data](articles/370c0612.json)
-
-[Extended Data](ext_articles/370c0612.ext.json)
-
----
-
-### No vote for ministry posts
-
-*2024-11-05 01:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுப்-பதவிகளுக்காக-வாக்களித்-தேவையில்லை/175-346567) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil National Alliance (TNA) leader P. Ariyanethran advises against voting for TNA for ministry posts, citing "concession politics" and "office seeking." He criticizes Sumanthiran's comments about potential ministries, suggesting TNA may only win 3 seats in Batticaloa.
-
-🟩
-
-Father Selva did not form the TNA for ministry posts. The Tamil National Alliance (TNA) has not formed for ministry posts, the Tamil National Alliance (TNA) has not started for ministry posts. Former presidential Tamil candidate and former Batticaloa parliamentarian of the Sri Lanka Tamil National Alliance (TNA), P. Ariyanethran said that no one should vote for the Tamil National Alliance (TNA).
-
-Commenting on the statement that former SLFP parliamentarian Sumanthiran has said that the ministry can be considered.. As he further stated,
-
-The Tamil National Alliance (TNA) won 15, 22,15 and 16 seats in all parliamentary elections from 2001 to 2015. Tamil nationalism confirmed.
-
-But in 2015, the Good Governance Government got 16 seats. We also get the post of Opposition Leader. In the Eight Administrative Districts in the North and East, the post of Chairman of the Development Committee in the North and East is the compliance politics and the development of the Tamil National Alliance?
-
-...
-
-[Data](articles/58d6000a.json)
-
-[Extended Data](ext_articles/58d6000a.ext.json)
-
----
-
-### Country launch of Global Innovation Index 2024 today
-
-*2024-11-05 00:56:39* · [`dailyftlk`](https://www.ft.lk/business/Country-launch-of-Global-Innovation-Index-2024-today/34-768844) · `en`
-
-Event to put spotlight on "Prioritising innovation in Sri Lanka's economic recovery"
-
-The National Innovation Agency of Sri Lanka, in collaboration with the World Intellectual Property Organization (WIPO), will today launch the Global Innovation Index (GII) 2024 at the Saman Kelegama Auditorium, Institute of Policy Studies, Independence Avenue, Colombo 7, from 2 p.m. to 4 p.m.
-
-Held under the theme “Prioritising innovation in Sri Lanka’s economic recovery”, this event will bring together Government leaders, industry experts, and academics to explore how innovation can drive sustainable growth, economic resilience, and global competitiveness for Sri Lanka.
-
-...
-
-[Data](articles/8053f5d9.json)
-
-[Extended Data](ext_articles/8053f5d9.ext.json)
 
 ---

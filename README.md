@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 15:10:31**
+As of **2024-11-05 15:24:35**
 
 ## Newspaper Stats
 
-*Scraped **53,159** Articles*
+*Scraped **53,165** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,156 @@ dailymirrorlk | 4,733
 adalk | 4,960
 adaderanalk | 6,332
 tamilmirrorlk | 7,396
-virakesarilk | 8,581
-adaderanasinhalalk | 9,267
+virakesarilk | 8,586
+adaderanasinhalalk | 9,268
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,159 (100.0%) of 53,159 articles have been extended.
+53,165 (100.0%) of 53,165 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Driver's driver's license at fatal bus accident is suspended for 05 months
+
+*2024-11-05 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202934) · `si`
+
+Bus driver's license suspended 5 months after fatal crash due to drunk driving. Driver fined. Two students killed, 42 injured.
+
+🟩
+
+It has been revealed that the driving license of the driver driving the bus in the Badulla's fatal crash was suspended for five months due to drunken driving.
+
+It was also a drunken bus in the Labuduwa area in the Labuduwa area in the Labuduwa area in Galle.
+
+The driver of the vehicle has been fined Rs.
+
+Akmeemana Police have presented the Galle Additional Magistrate's Court today (05).
+
+The police have also revealed that the driver's license was missing his driving license recently after the resident of Dammala, Udugama area has had a driver's license recently.
+
+The Galle Additional Magistrate Lakdi Gamage, taken into consideration the relevant driver's license ordered the driver's driver temporarily retained its driver.
+
+The bus, including the students and lecturers of the Sooriyawewa section of the Sooriyawewa Defense University, was inaugurated at the Mahiyalambee 4th area.
+
+Two students were killed and 42 injured and admitted to the Badulla Teaching Hospital.
+
+◼️
+
+[Data](articles/253470ab.json)
+
+[Extended Data](ext_articles/253470ab.ext.json)
+
+---
+
+### Private hospital owner's wife kills brother -in -law
+
+*2024-11-05 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197943) · `ta`
+
+Trincomalee hospital owner's wife killed brother-in-law. Police arrest 56-year-old suspect. Initial investigation reveals stabbing occurred in hospital building.
+
+🟩
+
+The wife of the owner of the famous private hospital in Trincomalee has died on Tuesday morning (05), police said.
+
+The deceased is also known as Angali Sumetra (63 years old), wife of a private hospital owner in Trincomalee.
+
+Initial investigations revealed that the brother -in -law was stabbed to death by a brother -in -law when he went to open his room on the third floor of the hospital building this morning.
+
+A 56 -year -old man, brother of the owner of the hospital owner, has been arrested on suspicion of carrying out a knife.
+
+◼️
+
+[Data](articles/04f096e5.json)
+
+[Extended Data](ext_articles/04f096e5.ext.json)
+
+---
+
+### "Decreasing security may take efforts to kill me" - Chandrika
+
+*2024-11-05 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197944) · `ta`
+
+Chandrika Kumaratunga warns reduced security post-presidency due to murder threats from LTTE. She criticizes government decision to decrease protection for former presidents.
+
+🟩
+
+Former President Chandrika Kumaratunga has expressed fears that efforts to kill her will be followed by the reduction of her security.
+
+He said this in a letter to Ravi Seniviratne, Secretary to the Ministry of Public Security.
+
+He has questioned why you have given 100 to 240 security officers to other presidents, despite the fact that only former presidents have been involved in the murder.
+
+Pointing out the threats faced by the LTTE, he said he would face the threats of the LTTE even after his retirement.
+
+He has questioned the government's decision to reduce security to former presidents.
+
+◼️
+
+[Data](articles/0ba4b8c4.json)
+
+[Extended Data](ext_articles/0ba4b8c4.ext.json)
+
+---
+
+### Sri Lanka is 95th in the passport ranking
+
+*2024-11-05 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197939) · `ta`
+
+Sri Lanka passport ranked 95th globally in 2024, improving from 100th in 2023. Henley Passport Index shows Singapore as most powerful passport, followed by Japan and France. Significant changes in visa-free access due to global events and diplomatic relations.
+
+🟩
+
+Sri Lanka ranks 95th in the global passport rankings in 2024.
+
+Iran and South Sudan are ranked 95th in Sri Lanka.
+
+Henley & Partners, a London -based global citizenship and residential advisory agency, has been released.
+
+According to the latest index, Sri Lanka has advanced to the rankings as 44 countries have issued a visa-free journey or a visa-on-roll for Sri Lankan passport holders.
+
+Sri Lanka Passport was ranked 100th in 2023 and 102th in 2022.
+
+Henley Passport Index sorted globally based on the number of places that can enter without pre -visa requirements.
+
+This code, which receives data from the International Air Transport Association (IATA), is renewed once in a quarter and is a reliable source of travel freedom and changes in travel freedom and global tendencies. October update saw other significant changes, and many countries gained an additional visa -free access.
+
+...
+
+[Data](articles/ca011cf2.json)
+
+[Extended Data](ext_articles/ca011cf2.ext.json)
+
+---
+
+### Mahajar handed over to Prime Minister Harini to release the land
+
+*2024-11-05 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197945) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Prime Minister Harini Amarasuriya met Keppapulavu residents, demanding land release from military control. The governor and district agent submitted a petition last month. A national people's power meeting was held in Pudukkudiyiruppu, focusing on building the country together.
+
+🟩
+
+The people of Keppapulavu met Prime Minister Harini Amarasuriya, who participated in the National People's Power Election campaign held at Pudukkudiyiruppu on Monday evening, demanding the release of the Mullaitivu Keppapulavu lands.
+
+The Governor of the Northern Province and the Mullaitivu District Government Agent had handed over a petition to the Mullaitivu District Government Agent last month demanding the recovery of the land acquired by the military in Mullaitivu -Keppapula.
+
+Subsequently, in the Pudukkudiyiruppu area of ​​the Mullaithivu district yesterday, the national people's power meeting was held at the Pudukkudiyiruppu private bus stand at the Pudukkudiyiruppu private bus stand at the theme "Building the country and we are together".
+
+◼️
+
+[Data](articles/863d3f5a.json)
+
+[Extended Data](ext_articles/863d3f5a.ext.json)
+
+---
 
 ### Appeals Court upholds prison sentence for ex-Deputy Minister in bribery case
 
@@ -47,6 +185,26 @@ The former Deputy Minister was sentenced to 4 years of rigorous imprisonment aft
 [Data](articles/897908b7.json)
 
 [Extended Data](ext_articles/897908b7.ext.json)
+
+---
+
+### 16 hours of water cut to several areas in Trincomalee
+
+*2024-11-05 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197942) · `ta`
+
+Trincomalee: 16-hour water cutoff starts 7th July 6 AM to 10 PM. Affected areas: Kantalai, Thambalakamam, Kinniya, Pattinam. Emergency maintenance at National Water Supply and Drainage Board.
+
+🟩
+
+Regional Manager of the National Water Supply and Drainage Board, L. Subhakaran said that the supply of drinking water supply will be cut off from 6.00 am to 10.00 pm on the 07th of this month due to emergency work at the National Water Supply and Drainage Board.
+
+The water cut will be implemented in the Divisional Secretariat area of ​​Kantalai, Thambalakamam, Kinniya, Pattinam and Pattinam in the Trincomalee District and the Kandy Divisional Secretariat area of ​​the Kandy Divisional Secretariat area.
+
+◼️
+
+[Data](articles/61166f0d.json)
+
+[Extended Data](ext_articles/61166f0d.ext.json)
 
 ---
 
@@ -2255,121 +2413,5 @@ MAC Holdings Ltd. Managing Director Andre Fernando and Meridian Maritime Service
 [Data](articles/650e43a9.json)
 
 [Extended Data](ext_articles/650e43a9.ext.json)
-
----
-
-### Tilvin accuses Ranil of continuously deceiving citizens
-
-*2024-11-05 00:47:20* · [`dailyftlk`](https://www.ft.lk/news/Tilvin-accuses-Ranil-of-continuously-deceiving-citizens/56-768838) · `en`
-
-Slams former President for alleged attempt to mislead the public through various recent statements
-
-Asks Wickremesinghe to accept his defeat and live with the loss without pedalling falsehoods
-
-Stresses misleading people is a social crime and says all such attempts must be defeated
-
-Says NPP is seeking to bring genuine change and urges public to support their bid for a stronger Parliamentary presence
-
-Calls on all Sri Lankans to unite against misinformation campaigns and to reject baseless accusations and divisive rhetoric
-
-The Janatha Vimukthi Peramuna (JVP) General Secretary Tilvin Silva has strongly criticised former President Ranil Wickremesinghe, accusing him of deceiving the public and undermining democratic principles. Silva’s remarks came as tensions rise ahead of the upcoming General Election.
-
-...
-
-[Data](articles/695a8a2a.json)
-
-[Extended Data](ext_articles/695a8a2a.ext.json)
-
----
-
-### Election to go ahead on 14 Nov. as SC dismisses petition
-
-*2024-11-05 00:45:41* · [`dailyftlk`](https://www.ft.lk/news/Election-to-go-ahead-on-14-Nov-as-SC-dismisses-petition/56-768837) · `en`
-
-The Supreme Court has dismissed a petition challenging the decision to hold the General Election on 14 November, confirming that the election will proceed as scheduled.
-
-The decision was made by a three-judge bench comprising Justices Preethi Padman Surasena, Shiran Gunaratne, and Priyantha Fernando. The Court ordered the dismissal of the petition without a hearing after an extensive review of the submitted facts.
-
-The petition was originally filed by H.M. Priyantha Herath, a civil society activist and convenor of the “Api Sri Lanka” national organisation, on 21 October. It sought an order declaring that the Election Commission’s decision to set the election for 14 November violated the Constitution. The respondents included the Attorney General, the Secretary to the President, and the Chairman and members of the Election Commission of Sri Lanka.
-
-...
-
-[Data](articles/a9c5e60c.json)
-
-[Extended Data](ext_articles/a9c5e60c.ext.json)
-
----
-
-### Ratwatte spouse remanded over illegally assembled SUV
-
-*2024-11-05 00:45:04* · [`dailyftlk`](https://www.ft.lk/news/Ratwatte-spouse-remanded-over-illegally-assembled-SUV/56-768836) · `en`
-
-Rashi Prabha Ratwatte, the wife of former Plantation Industries and Mahaweli Development State Minister Lohan Ratwatte, was remanded yesterday over the possession of an illegally assembled, unregistered luxury vehicle. The Nugegoda Magistrate’s Court ordered her detention until 7 November after she appeared in response to a court summons.
-
-...
-
-[Data](articles/dbe73162.json)
-
-[Extended Data](ext_articles/dbe73162.ext.json)
-
----
-
-### CPC profits curbed by foreign competition: CPSTL Chairman
-
-*2024-11-05 00:31:30* · [`dailyftlk`](https://www.ft.lk/business/CPC-profits-curbed-by-foreign-competition-CPSTL-Chairman/34-768835) · `en`
-
-Claims CPC’s pricing flexibility is restricted by agreements with foreign petroleum firms operating in SL
-
-Says political influence and foreign competition impact CPC’s ability to function independently despite recent profits
-
-States CPC posted Rs. 120 b profit in 2023; this year’s profit so far is only Rs. 27 b
-
-Ceylon Petroleum Storage Terminals Ltd. (CPSTL) Chairman D.A. Rajakaruna revealed yesterday that despite the Ceylon Petroleum Corporation (CPC) returning to profitability, the State-run enterprise remains unable to function independently due to the influence of foreign petroleum companies operating in Sri Lanka.  Addressing concerns over recent adjustments in fuel prices, Rajakaruna noted that the CPC’s flexibility in reducing prices is restricted, largely due to the presence of and agreements with foreign players.
-
-...
-
-[Data](articles/280b7608.json)
-
-[Extended Data](ext_articles/280b7608.ext.json)
-
----
-
-### 2024-11-04 (Monday)
-
-### World beyond island borders
-
-*2024-11-04 23:49:02* · [`dailyftlk`](https://www.ft.lk/columns/World-beyond-island-borders/4-768834) · `en`
-
-Sri Lanka is an island. Such a geographical feature comes with good and bad. Physical isolation or not having a boundary shared with a neighbouring country gave us peace of mind on border conflicts. However, it did not prevent us from getting invaded by the nations with naval powers. Further, it allowed us to create unique cultural habits blended with the natural environment. We have our own Lepidoptera, birds, and flora and fauna. Free flow of people across the borders would have challenged our ethnic identities. In such a connected country, the competition among migrants for limited resources would have been high, causing tensions among people to win their fair share.
-
-...
-
-[Data](articles/154b6c6b.json)
-
-[Extended Data](ext_articles/154b6c6b.ext.json)
-
----
-
-### Ooh, Suzi darling…
-
-*2024-11-04 23:44:00* · [`islandlk`](http://island.lk/ooh-suzi-darling/) · `en`
-
-Yes, singer Suzi Croner (Flückiger) became a darling to all her Sri Lankan fans in Melbourne, Australia, when she arrived, in that part of the world, last month, for her big event, ‘Country Night.’
-
-Everyone, whom she met, hugged and greeted her, saying “Oh, Suzi darling, so happy to see you again!” And, Suzi says her mind went back to the days of the hit song, ‘Oh, Suzie Darling’ sung by Robin Luke.
-
-“Believe me, I was so happy to see all my old friends again…from the Bambalapitiya Flats, Dehiwela, schoolmates, etc., and I enjoyed every minute of my stay in Melbourne,” said Suzi.
-
-“On the last occasion I was in Australia, I fell ill and was not 100 percent fit. This time it was a different scene altogether.
-
-“I was invited to several places – for lunch, dinner, tea, and the usual exciting outings.”
-
-Referring to the ‘Country Night’ concert, held on Saturday, 26th October, at The Grand On Princess, Suzi said it was a huge success.
-
-...
-
-[Data](articles/171a0f4a.json)
-
-[Extended Data](ext_articles/171a0f4a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 20:40:23**
+As of **2024-11-05 20:59:06**
 
 ## Newspaper Stats
 
-*Scraped **53,219** Articles*
+*Scraped **53,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,969
 adaderanalk | 6,339
-tamilmirrorlk | 7,403
+tamilmirrorlk | 7,406
 virakesarilk | 8,598
 adaderanasinhalalk | 9,276
 
@@ -26,25 +26,63 @@ adaderanasinhalalk | 9,276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,216 (100.0%) of 53,219 articles have been extended.
+53,219 (100.0%) of 53,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### ජනපති දූෂිත රාජ්‍ය නිලධාරීන්ගේ තොරතුරු ඉල්ලයි
+### ஹாலிஎல - வெலிமடை வீதியில் மண்சரிவு
+
+*2024-11-05 20:34:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹாலிஎல-வெலிமடை-வீதியில்-மண்சரிவு/175-346614) · `ta`
+
+ஹாலிஎல - வெலிமடை வீதியில் மண்சரிவு ஏற்பட்டுள்ளதாக பதுளை வீதி அபிவிருத்தி அதிகார சபையின் நிறைவேற்று பொறியியலாளர் அலுவலகம் தெரிவித்துள்ளது.
+
+மண்சரிவு நிலைமை பாரதூரமானதாக இருக்கக்கூடும் என்பதால், வீதியில் பயணிக்கும் சாரதிகள் மற்றும் பாதசாரிகள் தமது பாதுகாப்பு தொடர்பில் அவதானமாக இருக்குமாறு பதுளை மாவட்ட அனர்த்த முகாமைத்துவ நிலையம் கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/ff86962c.json)
+
+---
+
+### திலித்தை கடுமையாக சாடினார் டில்ஷான்
+
+*2024-11-05 20:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்தை-கடுமையாக-சாடினார்-டில்ஷான்/175-346613) · `ta`
+
+தான் இரட்டைக் குடியுரிமை பெற்றவர் என்ற அவரது கூற்றை முடிந்தால் நிரூபித்துக் காட்டுமாறு ஜனாதிபதி வேட்பாளர் திலித் ஜயவீரவுக்கு ஐக்கிய ஜனநாயக குரல் (UDV) வேட்பாளர் திலகரட்ன டில்ஷான் சவால் விடுத்துள்ளார்.
+
+தனது குடியுரிமையை கேள்விக்குள்ளாக்கியதற்காக திலித் ஜயவீரவை கடுமையாக சாடிய திலகரத்ன டில்ஷான், ஜயவீர தனது கூற்றுக்களை நிரூபிக்க முடிந்தால், தனது தேர்தல் முயற்சியில் இருந்து விலகத் தயார் என்று கூறினார்.
+
+எவ்வாறாயினும், திலித் அவ்வாறு செய்யத் தவறினால், அரசியலில் இருந்து அவர் விலகுவதாக அவரும் உறுதியளிக்க வேண்டும் என்றார்.
+
+ஊடகங்களுக்கு கருத்து தெரிவித்த திலகரத்ன டில்ஷான், இதற்கு முன்னர் திலித் தனது அரசியல் கட்சியில் இணைவதற்கான அழைப்பை விடுத்த போது தனது குடியுரிமை குறித்து அவருக்கு தெரியாமல் இருந்ததா என மேலும் கேள்வி எழுப்பினார்.
+
+...
+
+[Data](articles/3b10ffcd.json)
+
+---
+
+### President appeals to corrupt public officials
 
 *2024-11-05 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202942) · `si`
 
-රාජ්‍ය නිලධාරීන් කප්පම් හෝ අල්ලස් ඉල්ලන්නේ නම් ඔවුන් පිළිබඳ තොරතුරු ලබාදෙන්නැයි තමා ඉල්ලා සිටින බවත්, එලෙස ක්‍රියාකරන නිලධාරීන් රැකියාවෙන් ඉවත් කිරීමට පියවර ගන්නා බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+President Anura Kumara Dissanayake calls for exposing corruption in public officials during a rally. He urges citizens to report bribery and intimidation by government officers.
 
-ජාතික ජන බලවේගය ඊයේ (04) සංවිධාන කළ මොනරාගල ජන රැලියට එක්වෙමින් ජනාධිපතිවරයා මේ බව අවධාරණය කළේය.
+🟩
 
-"පළමු වතාවට දූෂිත ප්‍රභූ පාලනයෙන් පොදුජනතාවගේ අතට බලය මාරු වුණා. රිදෙන්නේ නැද්ද?... රිදෙනවා...දුක ඇති ගොඩක්... දැන් නැවත උත්සාහ කරනවා මේක පරාජය කරන්න සහ වට්ටන්න. මේක එහෙම වට්ටන්නත් බැහැ, පරාජය කරන්නත් බැහැ. ඒවා ඒ ගොල්ලෝ දුකට කියන කතා. ඇත්තටම සමහරවිට ඒ ගොල්ලෝ රෑට කොට්ටේ බදාගෙන අඬනවත් ඇති. මොකක්ද මේ වුණේ කියලා... ඔවුන් හැමදාම හිතුවේ ජනතාව රවට්ටන්න, බියවද්දන්න.  චන්ඩින්ගේ පාලනය අවසන්... අර වීරප්පන්ලා පාලනය කරනවා වගේ තමයි මේ අප්පන්ලා රට පාලනය කළේ. ඒවා අවසන් කරන්න ඕනේ."
+President Anura Kumara Dissanayake says that he is requesting to provide information on the extortion or bribe of public officials.
+
+The President was speaking at the rally of the Moneragala rally, organized by the national folk force yesterday (04).
+
+"For the first time, power shifted power to the common power. Not hurt?. Hurt ... a lot of sadness ... Now try again to defeat and get. This cannot be considered, can't be defeated. They're talking about sadness. In fact, they may have hugged the gorve at night. That's what happened.. They thought every day to deceive the people, intimidated.  චන්ඩින්ගේ පාලනය අවසන්... This is how these weerappan is governed by this. You have to end. "
 
 ...
 
 [Data](articles/fbc2ce85.json)
+
+[Extended Data](ext_articles/fbc2ce85.ext.json)
 
 ---
 
@@ -63,6 +101,26 @@ The President pointed out that there is a gap between the government’s objecti
 ...
 
 [Data](articles/e34602d0.json)
+
+[Extended Data](ext_articles/e34602d0.ext.json)
+
+---
+
+### எனது கணவரைப் போல என்னையும் கொலை செய்ய திட்டமா?
+
+*2024-11-05 20:19:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-கணவரைப்-போல-என்னையும்-கொலை-செய்ய-திட்டமா/175-346612) · `ta`
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா பண்டாரநாயக்க குமாரதுங்க, முன்னாள் அரச தலைவர் என்ற ரீதியில் தனது தனிப்பட்ட பாதுகாப்பிற்காக வழங்கப்பட்ட ஆளணிகளின் எண்ணிக்கையை குறைப்பதற்கு பொது பாதுகாப்பு அமைச்சு அண்மையில் எடுத்த தீர்மானம் குறித்து கேள்வி எழுப்பியுள்ளார்.
+
+முன்னாள் ஜனாதிபதி சந்திரிக்கா அமைச்சின் செயலாளருக்கு அனுப்பியுள்ள கடிதத்தில், புதிய தீர்மானத்தின் பிரகாரம் 50 ஆக இருந்த தனது பாதுகாப்பு 30 ஆக குறைக்கப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
+
+முன்னாள் அரச தலைவர்களில் தனக்கு மிக அதிக அச்சுறுத்தல் இருப்பதை அவர் வசிக்கும் பகுதிக்கு பொறுப்பான பொலிஸ் அதிகாரியின் கடிதம் சுட்டிக்காட்டுவதாகவும், தனது பாதுகாப்புக்கு குறைந்தபட்சம் 50 பணியாளர்கள் தேவைப்படுவதாகவும் அவர் கூறினார்.
+
+முன்னாள் ஜனாதிபதிகளில், மகிந்த ராஜபக்சவுக்கு 243 பொலிஸ் மற்றும் இராணுவ அதிகாரிகளும், மைத்திரிபால சிறிசேனவுக்கு 109 பொலிஸ் உத்தியோகத்தர்களும், கோட்டாபய ராஜபக்சவுக்கு 200 பொலிஸ் மற்றும் இராணுவத்தினரும் கொண்ட பாதுகாப்பு வழங்கப்பட்டுள்ளதாக அவர் சுட்டிக்காட்டினார்.
+
+...
+
+[Data](articles/8542745c.json)
 
 ---
 
@@ -188,21 +246,31 @@ Director Balaji said, “We have created the film in the Investigate thriller Ja
 
 ---
 
-### හිටපු නියෝජ්‍ය ඇමතිගේ දඩුවම තහවුරුයි
+### Former Deputy Minister's penalties
 
 *2024-11-05 18:59:59* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නියෝජ්‍ය-ඇමතිගේ-දඩුවම-තහවුරුයි/11-412873) · `si`
 
-පුත්‍රයාට විදුලිබල මණ්ඩලයේ රැකියාවක් දීමට මවගෙන් රුපියල් 50,000ක අල්ලසක් ඉල්ලා ලබා ගැනීමේ චෝදනාවන්ට වරදකරු කරමින් හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්න මහතාට වසර හතරක බරපතළ වැඩ සහිත සිරදඬුවම් සහ රුපියල් 10,000ක දඩයක් නියම කරමින් කොළඹ මහාධිකරණය නියම කළ නියෝගය සහ දඬුවම් අභියාචනාධිකරණය අද (05දා) තහවුරු කළේය.
+Former Deputy Minister Shantha Premaratne convicted bribery Rs. 50,000 CEB case. Colombo High Court sentenced 4 years. Court of Appeal upheld verdict.
 
-අදාළ චෝදනාවන්ට තමන් වරදකරු කරමින් කොළඹ මහාධිකරණය නියම කළ නියෝගය සහ දඬුවම් ඉවත දමන්නැයි ඉල්ලා හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්න මහතා ගොනු කළ අභියාචනා පෙත්සම නිෂ්ප්‍රභ කළ අභියාචනාධිකරණය කොළඹ මහාධිකරණ විනිසුරු පියසේන රණසිංහ මහතා නියම කළ නියෝගය සහ දඬුවම් තහවුරු කළේය.
+🟩
 
-අභියාචනාධිකරණ විනිසුරුවරුන් වන සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු ම‍‍ඬුල්ල අදාළ තීන්දුව ප්‍රකාශයට පත් කළහ.
+Former Deputy Minister Shantha Premaratne was convicted of the charges of a bribe of Rs.
 
-2007 නොවැම්බර් මස පළමුවැනිදාත් දෙසැම්බර් 26වැනිදාත් අතර කාලයේ අම්පාරයේදී විදුලිබල මණ්ඩලයේ රැකියාවක් ලබාදෙන බව බවසා ජී. පුංචිනෝනා නමැත්තියගෙන් රුපියල් 50,000ක අල්ලසක් ඉල්ලා ලබා ගැනීම ඇතුළු චෝදනා යටතේ අල්ලස් කොමිසම විසින් විත්තිකරුට එරෙහිව කොළඹ මහාධිකරණයේ නඩු පවරා තිබිණි.
+The Court of Appeal, the Court of Appeal and the punishment of the Court of Appeal to discard himself to discard his or sentenced to death and sentenced the appeal of the Colombo High Court.
+
+Court of Appeal Judge Sampath Abeykoon and P. The panel of judges who responded by Kumaran Ratnam was published.
+
+In the year 2007, the Electricity Board (CEB) is given a job in the Electricity Board. The Bribery Commission had filed a case against the accused against the accused by Punchinona receives Rs. 50,000.
+
+Colombo High Court Judge Piyasena Ranasinghe decided to be guilty of the accused against the accused against the accused and sentenced to four years.
+
+Court of Appeal Court of Appeal Court. Kumaran Ratnam was published by Mr. Kumaran Ratnam.
 
 ...
 
 [Data](articles/01ba682c.json)
+
+[Extended Data](ext_articles/01ba682c.ext.json)
 
 ---
 
@@ -2389,85 +2457,5 @@ There is no definitive reason for the attack, and the officers of the Wellawaya 
 [Data](articles/3b333890.json)
 
 [Extended Data](ext_articles/3b333890.ext.json)
-
----
-
-### New information about Lohan's vehicle
-
-*2024-11-05 10:54:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-வாகனம்-குறித்த-புதிய-தகவல்/175-346584) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former diplomat Lohan Ratwatta's luxury car seized. Wife Rashi Baba Ratwatta arrested. Car linked to illegal imports. Police investigation ongoing.
-
-🟩
-
-Although Ratwatte couple claimed that the multi -crore crores of rupees worth of illegal imports and illegal parts, the Ratwatte couple claimed that the vehicle had shot himself, but it was clear that the vehicle had former diplomatic minister Lohan Ratwatta.
-
-Lohan Ratwatta is in the interpretation of the court order. It has been exposed that he has been using the vehicle for many years.
-
-Mirihana headquarters police received information on the 25th of last month that there was a suspicious number of luxury car in the three -storey luxury house in the Amuthenia Mandapam road in Mirihana.
-
-During the investigation, it was revealed that the car parked was the house of Mrs. Rashi Baba Ratwatta, the wife of former diplomatic minister Lohan Ratwatta.
-
-Accordingly, the police who discovered his phone number, Sanjeeva Basnayake, a private secretary who shot himself during an investigation into him? "He said he had told him three weeks ago that the car had been parked at his home.
-
-...
-
-[Data](articles/30e060fa.json)
-
-[Extended Data](ext_articles/30e060fa.ext.json)
-
----
-
-### Tiger Uniform's former MP's house test
-
-*2024-11-05 10:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-சீருடை-முன்னாள்-எம்-பியின்-வீட்டில்-சோதனை/175-346583) · `ta`
-
-Panadura Valana Anti-Corruption Force raids former MP's house, finds hidden uniforms, conducts interrogation.
-
-🟩
-
-Officials of the Panadura Valana Anti -Corruption Force are conducting a raid on the house of former United People's Power MP Sujeewa Serasinghe's Kaluppitti Mal Road.
-
-A senior police official said that the test was carried out following information that the LTTE's uniform was hidden by the V8 vehicle.. One
-
-According to secret reports, a team led by the Inspector of Police went to the house on the basis of a search order received by the Fort Magistrate's Court by the Panadura Valana Corruption Unit.
-
-It is reported that the former parliamentarian was not at home, the house was closed and the employee was there.
-
-In addition, it has been revealed that three old vehicles were found in the area of ​​the house and that for about 2 hours of testing, the staff had received a confession.
-
-When they were not at home, some people who claimed that they belonged to the Panadura Corruption Force.. He has lodged a complaint with the Kaluppitiya police to find out if it is really police officers.
-
-...
-
-[Data](articles/16056a6e.json)
-
-[Extended Data](ext_articles/16056a6e.ext.json)
-
----
-
-### Consistent updates on economic strategies needed from Sri Lanka gov: Former minister
-
-*2024-11-05 10:42:00* · [`economynextcom`](https://economynext.com/consistent-updates-on-economic-strategies-needed-from-sri-lanka-gov-former-minister-186109/) · `en`
-
-ECONOMYNEXT – There is no clear communication from the Sri Lanka government on its economic strategies, former State Minister of Finance Shehan Semasinghe has said.
-
-“Firm and transparent messaging would prevent speculation and mitigate the spread of inaccurate information,” Semasinghe said on social media platform X (twitter).
-
-“Consistent updates from the government on economic strategies, along with clear timelines for policy implementations, would provide assurance that these commitments are being honored.”
-
-The former minister who worked with the International Monetary Fund team after Sri Lanka’s economic crisis, said it was “crucial for public understanding to have clarity on how these steps contribute to overall economic recovery and stability”.
-
-The achievement of the 2025 revenue targets, including the primary surplus target of 2.3 percent of GDP, is tied to lifting vehicle import restrictions, Semasinghe said.
-
-...
-
-[Data](articles/14e15081.json)
-
-[Extended Data](ext_articles/14e15081.ext.json)
 
 ---

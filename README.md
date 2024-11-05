@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 22:14:14**
+As of **2024-11-05 22:25:01**
 
 ## Newspaper Stats
 
-*Scraped **53,228** Articles*
+*Scraped **53,230** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,340
-tamilmirrorlk | 7,406
+tamilmirrorlk | 7,407
 virakesarilk | 8,598
-adaderanasinhalalk | 9,279
+adaderanasinhalalk | 9,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,228 (100.0%) of 53,228 articles have been extended.
+53,229 (100.0%) of 53,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### සහල් මිල ගැන හෙළිවූ රහස්
+
+*2024-11-05 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202946) · `si`
+
+2024 යල සහ මහ කන්නවලදී සහල් අතිරික්තයක් ලැබී ඇති පසුබිමක සහල් හිඟයක් සහ මිල ඉහළ යාමක් කිසිසේත් සිදුවිය නොහැකි බව හෙක්ටර් කොබ්බෑකඩුව ගොවි කටයුතු පර්යේෂණ හා පුහුණුකිරීමේ ආයතනය පවසයි.
+
+කොළඹ පැවති ප්‍රවෘත්ති සාකච්ඡාවකදී එම ආයතනයේ අධ්‍යක්ෂ මහාචාර්ය ඒ. එල්. රන්දික මහතා ප්‍රකාශ කළේ, වී මිලදී ගැනීමේදී රාජ්‍ය මැදිහත්වීම අවම මට්ටමක පැවතීම සහල් මිල ඉහළයෑමට හේතුවී ඇති බවය.
+
+මේ වනවිට වෙළෙඳපොළේ පවතින නාඩු සහල් හිඟය සහ ඉහළ මිල හේතුවෙන් පාරිභෝගිකයා පීඩාවට පත්වී තිබේ.
+
+එමෙන්ම ඔහු පැවසුවේ, සහල් මිල ගණනය කිරීමේදී සහල් නිෂ්පාදනයේදී ලැබෙන අතුරුඵල සැලකිල්ලට භාජනය නොකෙරෙන බවය.
+
+"සහල් ව්‍යාපාරිකයෝ සහල්වලට පමණයි පිරිවැය ගණනය කරන්නේ. සහල්වලට අමතරව සහල් කුඩු, පොතු ආදී අතුරුඵල ලැබෙනවාත දැන් ඒවටත් වෙළෙඳපොළක් තිබෙනවා. සාමාන්‍යයෙන් දළ වශයෙන් ගත්තොත් සහල් කිලෝවකට අමතර ද්‍රව්‍යවලින් රුපියල් 20ක පමණ අමතර ලාභයක් තිබෙනවා."
+
+◼️
+
+[Data](articles/88f2fab8.json)
+
+---
+
+### Politicians were benefited by war
+
+*2024-11-05 21:59:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுத்தத்தால்-அரசியல்வாதிகளே-நன்மையடைந்தனர்/175-346627) · `ta`
+
+War benefits politicians: PM Harini Amarasuriya claims political gains from conflict. Communication gap between North and South intensified hostilities, fueling ethnic tensions.
+
+🟩
+
+Prime Minister Harini Amarasuriya says politicians have benefited from the war.
+
+He was speaking at a public meeting in Mullaitivu.
+
+Due to the war, there was no communication between the Northern people and the people of the South.
+
+During the war, the people of Sri Lanka saw the North as a battlefield and the Tamil people of the Northern Tamil people saw the Sinhalese people as their enemies.
+
+◼️
+
+[Data](articles/724962a8.json)
+
+[Extended Data](ext_articles/724962a8.ext.json)
+
+---
 
 ### Man arrested for sharing fake currency note with President’s image on social media remanded
 
@@ -2445,41 +2489,5 @@ Several majority politicians who cannot get the votes of Sinhala voters in the p
 [Data](articles/71871334.json)
 
 [Extended Data](ext_articles/71871334.ext.json)
-
----
-
-### Easter attacks: SC calls for defense in acquittals of ex-IGP and Defence Secretary
-
-*2024-11-05 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103173/easter-attacks-sc-calls-for-defense-in-acquittals-of-ex-igp-and-defence-secretary) · `en`
-
-The Supreme Court has ordered to call the defense following an appeal filed by the Attorney General (AG) challenging the verdict issued by Colombo High Court to acquit former Defence Secretary Hemasiri Fernando and former IGP Pujith Jayasundara from the charges of failure to prevent 2019 Easter Sunday terror attacks despite receiving prior information.
-
-The appeal was filed against the verdict issued by a three-member High Court judge bench to acquit the former Defence Secretary and the former IGP from the charges of Criminal dereliction of duty and murder through their failure to prevent 2019 Easter Sunday terror attacks despite receiving information prior to the attacks.
-
-This decision was taken by the five-member Supreme Court judge bench led by Justices Preethi Padman Surasena following an extended hearing of the relevant appeal filed by the AG.
-
-...
-
-[Data](articles/afe95b04.json)
-
-[Extended Data](ext_articles/afe95b04.ext.json)
-
----
-
-### Easter attacks: SC orders to recall defence over acquittal of ex-IGP and Defence Secretary
-
-*2024-11-05 11:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103173/easter-attacks-sc-orders-to-recall-defence-over-acquittal-of-ex-igp-and-defence-secretary) · `en`
-
-The Supreme Court has ordered the Colombo High Court Trial-at-Bar to recall the defence following an appeal filed by the Attorney General (AG) challenging the verdict issued by Colombo High Court to acquit former Defence Secretary Hemasiri Fernando and former IGP Pujith Jayasundara from the charges of failure to prevent 2019 Easter Sunday terror attacks despite receiving prior information.
-
-The appeal was filed against the verdict issued by the Colombo High Court Trial-at-Bar to acquit the former Defence Secretary and the former IGP from the charges of Criminal dereliction of duty and murder through their failure to prevent 2019 Easter Sunday terror attacks despite receiving information prior to the attacks.
-
-This decision was taken by the five-member Supreme Court judge bench led by Justices Preethi Padman Surasena following an extended hearing of the relevant appeal filed by the AG.
-
-...
-
-[Data](articles/c19f6158.json)
-
-[Extended Data](ext_articles/c19f6158.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 16:13:34**
+As of **2024-11-05 16:24:49**
 
 ## Newspaper Stats
 
-*Scraped **53,173** Articles*
+*Scraped **53,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,961
 adaderanalk | 6,334
-tamilmirrorlk | 7,397
+tamilmirrorlk | 7,399
 virakesarilk | 8,588
 adaderanasinhalalk | 9,269
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,269
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,173 (100.0%) of 53,173 articles have been extended.
+53,175 (100.0%) of 53,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Order to continue the investigation against Poojith Hemasiri
+
+*2024-11-05 16:01:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூஜித்-ஹேமசிறிக்கு-எதிரான-விசாரணையைத்-தொடர-உத்தரவு/175-346607) · `ta`
+
+Colombo High Court cancels release verdicts for Poojith Jayasundera and Hemasiri Fernando due to Easter Sunday bomb attack allegations. Supreme Court orders High Court to continue investigation against former police chief and defense secretary.
+
+🟩
+
+The Colombo High Court has canceled the verdict of the release of former Inspector General of Police Poojith Jayasundera and former Defense Secretary Hemasiri Fernando from the allegations of the Easter Sunday bomb attack.
+
+In response to the two appeals filed by the Attorney General against the Supreme Court decision to release Jayasundara and Fernando, the five judges of the judges of the judges - Preethi Padman Surasena, Yasantha Gothamoda, Kumudini Wickremasinghe, Mahinda Religious and Arjuna Obeeskegara were awarded the judges.
+
+Considering the complexity and severity of the case, the Supreme Court said that it was not acceptable to release the accused without calling the accused.
+
+The Supreme Court further stressed that the Supreme Court has been the basis to proceed with the case, so the High Court has advised the accused to invite the accused to their argument and continue the rest of the hearing.
+
+...
+
+[Data](articles/ad0677bc.json)
+
+[Extended Data](ext_articles/ad0677bc.ext.json)
+
+---
 
 ### Janapura students launched a protest march
 
@@ -110,6 +134,32 @@ It is expected to be a snowfall in the morning in the mornings in the Western, S
 
 ---
 
+### Jeromal severe tension: police accumulation
+
+*2024-11-05 15:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜெரோமால்-கடும்-பதற்றம்-பொலிஸார்-குவிப்பு/76-346606) · `ta`
+
+Tension erupts over mental health center construction. Pastor Jerome clashes with villagers. Police intervene as residents protest unauthorized religious site. Harmony among communities threatened.
+
+🟩
+
+There was a heated argument between the security officers and the villagers of the pastor Jerome, who came to the construction of the rehabilitation center for the mentally ill children. This has caused severe tension in the area.
+
+The situation occurred when the bishop came to the site of the construction work, claiming to be constructed by a rehabilitation center for children who were mentally retarded in the Mipitiya area of ​​Nawalapitiya.
+
+Following the fierce argument between the villagers and the pastor, the Nawalapitiya police officers intervened and had to control the situation.
+
+The villagers allege that no government agency has been informed of the construction of a religious worship site in this area, although it is said that the children's rehabilitation center will be built.
+
+Residents said that all citizens of Sinhalese, Tamil and Muslims from Nawalapitiya are living in harmony and that these people will not be able to disrupt the peace of Nawalapitiya.
+
+...
+
+[Data](articles/22a926f9.json)
+
+[Extended Data](ext_articles/22a926f9.ext.json)
+
+---
+
 ### Shoot
 
 *2024-11-05 15:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வைத்தியரின்-மனைவி-வெட்டிக்கொலை/75-346605) · `ta`
@@ -158,6 +208,26 @@ Accordingly, the Appellate Court bench allowed the withdrawal of the petition an
 
 ---
 
+### 16 hours of water cut to several areas in Trincomalee
+
+*2024-11-05 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197942) · `ta`
+
+Trincomalee: 16-hour water cutoff starts 7th July 6 AM to 10 PM. Affected areas: Kantalai, Thambalakamam, Kinniya, Pattinam. Emergency maintenance at National Water Supply and Drainage Board.
+
+🟩
+
+Regional Manager of the National Water Supply and Drainage Board, L. Subhakaran said that the supply of drinking water supply will be cut off from 6.00 am to 10.00 pm on the 07th of this month due to emergency work at the National Water Supply and Drainage Board.
+
+The water cut will be implemented in the Divisional Secretariat area of ​​Kantalai, Thambalakamam, Kinniya, Pattinam and Pattinam in the Trincomalee District and the Kandy Divisional Secretariat area of ​​the Kandy Divisional Secretariat area.
+
+◼️
+
+[Data](articles/61166f0d.json)
+
+[Extended Data](ext_articles/61166f0d.ext.json)
+
+---
+
 ### KDU bus accident: Driver had license suspended over drunken accident, court told
 
 *2024-11-05 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103183/kdu-bus-accident-driver-had-license-suspended-over-drunken-accident-court-told) · `en`
@@ -175,6 +245,36 @@ The driver, identified as a resident of Dammala area of Udugama, had allegedly f
 [Data](articles/ff30e27e.json)
 
 [Extended Data](ext_articles/ff30e27e.ext.json)
+
+---
+
+### Sri Lanka is 95th in the passport ranking
+
+*2024-11-05 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197939) · `ta`
+
+Sri Lanka passport ranked 95th globally in 2024, improving from 100th in 2023. Henley Passport Index shows Singapore as most powerful passport, followed by Japan and France. Significant changes in visa-free access due to global events and diplomatic relations.
+
+🟩
+
+Sri Lanka ranks 95th in the global passport rankings in 2024.
+
+Iran and South Sudan are ranked 95th in Sri Lanka.
+
+Henley & Partners, a London -based global citizenship and residential advisory agency, has been released.
+
+According to the latest index, Sri Lanka has advanced to the rankings as 44 countries have issued a visa-free journey or a visa-on-roll for Sri Lankan passport holders.
+
+Sri Lanka Passport was ranked 100th in 2023 and 102th in 2022.
+
+Henley Passport Index sorted globally based on the number of places that can enter without pre -visa requirements.
+
+This code, which receives data from the International Air Transport Association (IATA), is renewed once in a quarter and is a reliable source of travel freedom and changes in travel freedom and global tendencies. October update saw other significant changes, and many countries gained an additional visa -free access.
+
+...
+
+[Data](articles/ca011cf2.json)
+
+[Extended Data](ext_articles/ca011cf2.ext.json)
 
 ---
 
@@ -234,6 +334,32 @@ A 56 -year -old man, brother of the owner of the hospital owner, has been arrest
 
 ---
 
+### Mahajar handed over to Prime Minister Harini to release the land
+
+*2024-11-05 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/197945) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Prime Minister Harini Amarasuriya met Keppapulavu residents, demanding land release from military control. The governor and district agent submitted a petition last month. A national people's power meeting was held in Pudukkudiyiruppu, focusing on building the country together.
+
+🟩
+
+The people of Keppapulavu met Prime Minister Harini Amarasuriya, who participated in the National People's Power Election campaign held at Pudukkudiyiruppu on Monday evening, demanding the release of the Mullaitivu Keppapulavu lands.
+
+The Governor of the Northern Province and the Mullaitivu District Government Agent had handed over a petition to the Mullaitivu District Government Agent last month demanding the recovery of the land acquired by the military in Mullaitivu -Keppapula.
+
+Subsequently, in the Pudukkudiyiruppu area of ​​the Mullaithivu district yesterday, the national people's power meeting was held at the Pudukkudiyiruppu private bus stand at the Pudukkudiyiruppu private bus stand at the theme "Building the country and we are together".
+
+◼️
+
+[Data](articles/863d3f5a.json)
+
+[Extended Data](ext_articles/863d3f5a.ext.json)
+
+---
+
 ### "Decreasing security may take efforts to kill me" - Chandrika
 
 *2024-11-05 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197944) · `ta`
@@ -260,62 +386,6 @@ He has questioned the government's decision to reduce security to former preside
 
 ---
 
-### Sri Lanka is 95th in the passport ranking
-
-*2024-11-05 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197939) · `ta`
-
-Sri Lanka passport ranked 95th globally in 2024, improving from 100th in 2023. Henley Passport Index shows Singapore as most powerful passport, followed by Japan and France. Significant changes in visa-free access due to global events and diplomatic relations.
-
-🟩
-
-Sri Lanka ranks 95th in the global passport rankings in 2024.
-
-Iran and South Sudan are ranked 95th in Sri Lanka.
-
-Henley & Partners, a London -based global citizenship and residential advisory agency, has been released.
-
-According to the latest index, Sri Lanka has advanced to the rankings as 44 countries have issued a visa-free journey or a visa-on-roll for Sri Lankan passport holders.
-
-Sri Lanka Passport was ranked 100th in 2023 and 102th in 2022.
-
-Henley Passport Index sorted globally based on the number of places that can enter without pre -visa requirements.
-
-This code, which receives data from the International Air Transport Association (IATA), is renewed once in a quarter and is a reliable source of travel freedom and changes in travel freedom and global tendencies. October update saw other significant changes, and many countries gained an additional visa -free access.
-
-...
-
-[Data](articles/ca011cf2.json)
-
-[Extended Data](ext_articles/ca011cf2.ext.json)
-
----
-
-### Mahajar handed over to Prime Minister Harini to release the land
-
-*2024-11-05 14:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/197945) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Prime Minister Harini Amarasuriya met Keppapulavu residents, demanding land release from military control. The governor and district agent submitted a petition last month. A national people's power meeting was held in Pudukkudiyiruppu, focusing on building the country together.
-
-🟩
-
-The people of Keppapulavu met Prime Minister Harini Amarasuriya, who participated in the National People's Power Election campaign held at Pudukkudiyiruppu on Monday evening, demanding the release of the Mullaitivu Keppapulavu lands.
-
-The Governor of the Northern Province and the Mullaitivu District Government Agent had handed over a petition to the Mullaitivu District Government Agent last month demanding the recovery of the land acquired by the military in Mullaitivu -Keppapula.
-
-Subsequently, in the Pudukkudiyiruppu area of ​​the Mullaithivu district yesterday, the national people's power meeting was held at the Pudukkudiyiruppu private bus stand at the Pudukkudiyiruppu private bus stand at the theme "Building the country and we are together".
-
-◼️
-
-[Data](articles/863d3f5a.json)
-
-[Extended Data](ext_articles/863d3f5a.ext.json)
-
----
-
 ### Appeals Court upholds prison sentence for ex-Deputy Minister in bribery case
 
 *2024-11-05 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103182/appeals-court-upholds-prison-sentence-for-ex-deputy-minister-in-bribery-case) · `en`
@@ -331,26 +401,6 @@ The former Deputy Minister was sentenced to 4 years of rigorous imprisonment aft
 [Data](articles/897908b7.json)
 
 [Extended Data](ext_articles/897908b7.ext.json)
-
----
-
-### 16 hours of water cut to several areas in Trincomalee
-
-*2024-11-05 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197942) · `ta`
-
-Trincomalee: 16-hour water cutoff starts 7th July 6 AM to 10 PM. Affected areas: Kantalai, Thambalakamam, Kinniya, Pattinam. Emergency maintenance at National Water Supply and Drainage Board.
-
-🟩
-
-Regional Manager of the National Water Supply and Drainage Board, L. Subhakaran said that the supply of drinking water supply will be cut off from 6.00 am to 10.00 pm on the 07th of this month due to emergency work at the National Water Supply and Drainage Board.
-
-The water cut will be implemented in the Divisional Secretariat area of ​​Kantalai, Thambalakamam, Kinniya, Pattinam and Pattinam in the Trincomalee District and the Kandy Divisional Secretariat area of ​​the Kandy Divisional Secretariat area.
-
-◼️
-
-[Data](articles/61166f0d.json)
-
-[Extended Data](ext_articles/61166f0d.ext.json)
 
 ---
 
@@ -2387,53 +2437,5 @@ Thus, in line with the resolution of our Tamil Social Service Union, we kept man
 [Data](articles/8185b62c.json)
 
 [Extended Data](ext_articles/8185b62c.ext.json)
-
----
-
-### We also support for Rs 2,000
-
-*2024-11-05 01:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-2-000-க்கு-நாமும்-ஆதரவு/175-346570) · `ta`
-
-Ceylon Workers Congress supports 2,000 daily wage for plantation workers. President promises fair salary increase. Union members conditionally back proposal.
-
-🟩
-
-The President has said that steps will be taken to provide a fair salary increase for upcountry plantation workers.. This is a good thing. As they said earlier, if they took steps to get 2 thousand rupees a day's salary, we would fully support it, "said Marudhabandi Rameswaran, the leader of the Ceylon Workers Congress and the Nuwara Eliya district candidate.
-
-He was speaking at the election campaign meeting held on Monday (04) in Kandapalai, Nuwara Eliya.. In this regard, he said,
-
-'We have paid our plantation workers a salary increase. 1,350 rupees as a base day salary. Conditions were presented on the company for the remaining 350 rupees. Men have to work for 8 hours, and many conditions are presented as an additional fatigue. We do not accept them.
-
-...
-
-[Data](articles/7b452163.json)
-
-[Extended Data](ext_articles/7b452163.ext.json)
-
----
-
-### Sumanthiran is addicted to politics
-
-*2024-11-05 01:46:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனுக்கு-அடிமையாகி-அரசியல்-செய்ய-மாட்டேன்/175-346569) · `ta`
-
-Sumanthiran accused of spreading slander against him at Mannar Police Station. Claims he gave recommendation letter for liquor school, denies giving it. Accused of interfering in diaspora Tamils' meetings with former President Wickremesinghe. Sumanthiran denies allegations, says they are false.
-
-🟩
-
-Former parliamentarian MA Sumanthiran has lodged a complaint at the Mannar Police Station at a media briefing in Jaffna at a media briefing in Jaffna to spread slander against him.
-
-He made this statement during a media briefing held at the Mannar TNA office on Sunday (03)
-
-Sumanthiran had said that he had given a letter of recommendation to the liquor school and that I had apparently acknowledged it.
-
-When he made this comment, I was in India because I was in India.Upon returning to Mannar, I have lodged a complaint against him at the police station.
-
-When many diaspora Tamils ​​were asked to meet with former President Ranil Wickremesinghe, I gave me aid to make those meetings for their needs.. Due to the personal habit of those who met, I would not be responsible for it if no one took advantage of the opportunity to construct liquor roads.
-
-...
-
-[Data](articles/c9ba6f6f.json)
-
-[Extended Data](ext_articles/c9ba6f6f.ext.json)
 
 ---

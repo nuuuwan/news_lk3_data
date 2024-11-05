@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 13:40:48**
+As of **2024-11-05 14:00:03**
 
 ## Newspaper Stats
 
-*Scraped **53,145** Articles*
+*Scraped **53,150** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,103 @@ islandlk | 3,181
 economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,957
+adalk | 4,959
 adaderanalk | 6,328
-tamilmirrorlk | 7,394
+tamilmirrorlk | 7,395
 virakesarilk | 8,579
-adaderanasinhalalk | 9,265
+adaderanasinhalalk | 9,267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,145 (100.0%) of 53,145 articles have been extended.
+53,148 (100.0%) of 53,150 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### හිටපු නියෝජ්‍ය ඇමතිට දුන් සිරදඬුවම අභියාචනාධිකරණය තහවුරු කරයි
+
+*2024-11-05 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202933) · `si`
+
+හිටපු නියෝජ්‍ය අමාත්‍ය ශාන්ත ප්‍රේමරත්න මහතාට කොළඹ මහාධිකරණය විසින් නියම කර තිබූ බරපතළ වැඩසහිත වසර 04ක සිරදඬුවම අභියාචනාධිකරණය විසින් තහවුරු කර තිබේ.
+
+හිටපු නියෝජ්‍ය අමාත්‍යවරයා රැකියාවක් ලබාදීම සඳහා කාන්තාවකගෙන් රුපියල් 50,000ක මුදලක් අල්ලස් වශයෙන් ඉල්ලා එය ලබා ගැනීමේ චෝදනාවට වරදකරු තිබුණි.
+
+අදාළ දඬුවමින් තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ශාන්ත ප්‍රේමරත්න මහතා විසින් ඉදිරිපත් කළ අභියාචනයක් ප්‍රතික්ෂේප කරමින් සම්පත් අබේකෝන් සහ පී. කුමාරන් රත්නම් යන මහත්වරුන්ගෙන් සමන්විත අභියාචනාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/28ba1dce.json)
+
+---
+
+### Chandrika writes to Public Defense Secretary to reduce security
+
+*2024-11-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202932) · `si`
+
+Former President Chandrika Bandaranaike Kumaratunga says it has been suspected to kill her husband Vijaya Kumaratunga as he was killed for political reasons.
+
+The former president has made this statement in a letter to the Secretary Defense Ministry and Ravi Seneviratne, asking for the reduction of the security forces.
+
+The letter further states that Senior DIG Ajith Hemasiri has been sentenced to 30 of the 50 people from October to 30.
+
+The letter further states that 243 other former presidents and 109 and 109 people have been given a puzzle.
+
+His letter has also shown that he has the most threats of the five retired presidents and that he was the only president of the murder attempt.
+
+Although the LTTE has made public statements in public statements that have been retired, but the LTTE has made public statements have been made public statements in the year 2014 and 2014.
+
+...
+
+[Data](articles/38eab531.json)
+
+[Extended Data](ext_articles/38eab531.ext.json)
+
+---
+
+### This is a political revenge; Sujeeva
+
+*2024-11-05 13:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-அரசியல்-பழிவாங்கும்-செயல்-சுஜீவ/175-346602) · `ta`
+
+Sujeewa Senasinghe accuses ACU raid as political revenge, plans legal action. Claims no evidence found, criticizes method.
+
+🟩
+
+The United People's Power (SJB) national organizer Sujeewa Senasinghe, who has accused the raid of his residence as a political revenge, said legal action would be taken against the Anti -Corruption Unit.
+
+Senasinghe told the Daily Mirror, "I will file a violation of fundamental rights violation and defamation."
+
+I have criticized former presidents including Chandrika Bandaranaike Kumaratunga and Mahinda Rajapaksa, but I have never met with dark experiences as I experienced yesterday.
+
+He said the corruption unit did not find anything in his home.
+
+"I think they wanted to find out if I had any vehicles hiding inside my residence. I don't have to hide vehicles because I have a way to openly buy vehicles, ”he added.
+
+◼️
+
+[Data](articles/aef83e0e.json)
+
+[Extended Data](ext_articles/aef83e0e.ext.json)
+
+---
+
+### නෑනා ඝාතනය කළ මස්සිනා අල්ලයි
+
+*2024-11-05 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෑනා-ඝාතනය-කළ-මස්සිනා-අල්ලයි/11-412863) · `si`
+
+විශේෂඥ වෛද්‍යවරයකුට අයත්  ත්‍රිකුණාමලය ප්‍රධාන කළේ පෞද්ගලික රෝහලක සිවුවැනි මහලේ දී එම වෛද්‍යවරයාගේ බිරිඳට තියුණු ආයුධයකින් ඇන ඝාතනය කර තිබියදී අද (05) අලුයම සොයා ගත් බව ත්‍රිකුණාමලය මූලස්ථාන පොලිසිය කියයි.
+
+සර්වාංග රෝග පිළිබඳ විශේෂඥ මෙම වෛද්‍යවරයා ඝාතනය සිදුවන  අවස්ථාවේදී පෞද්ගලික  රෝහලේ නොසිටි අතර ඔහු සේවය කරන මඩකලපුව ශික්ෂණ රෝහලේ සිට ඇතැයි කියයි.තියුණු ආයුධයකින් ඇන ඝාතනය සිදුකළ බව කියන එම විශේෂඥ වෛද්‍යවරයාගේ බාල සහෝදරයා පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබේ. මෙසේ ඝාතනය කර ඇත්තේ එන්ජලි සුමේත්‍රා ගණේකබාහු (63) නැමති කාන්තාවය.
+
+උදෑසන රාජකාරියට පැමිණි රෝහල් කාර්ය මණ්ඩලය මෙම ඝාතනය දැක මේ බව ත්‍රිකුණාමල මූලස්ථාන පොලිසියට දැනුම් දීමෙන් පසු එම ස්ථානයට පැමිණි මූලස්ථාන ප්‍රධාන පොලිස් පරීක්ෂක සමන් කුමාර ජයරත්න මහතා ඇතුළු පොලිස් කණ්ඩායමක් පරීක්ෂණ ආරම්භ කර සැකකරු අත්අඩංගුවට ගනු ලැබූහ.පොලිසිය එන විටත් ඝාතකයා එම ස්ථානයේ රැඳී සිටි ඇතැයි පොලිසිය කියයි.
+
+...
+
+[Data](articles/5ba1f492.json)
+
+---
 
 ### Man arrested for circulating fake currency note with President’s image on social media
 
@@ -73,6 +155,26 @@ Accordingly, the request of the Court of Appeal Requested Court Judge was dismis
 [Data](articles/699899d2.json)
 
 [Extended Data](ext_articles/699899d2.ext.json)
+
+---
+
+### Hong Kong International sixes to visit the island
+
+*2024-11-05 12:37:58* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-කුසලානය-රැගත්-සිංහ-පුතුන්-දිවයිනට/9-412862) · `si`
+
+Sri Lanka wins Hong Kong International Sixers championship, defeating Pakistan in final match. Team arrives on island after victory.
+
+🟩
+
+Sri Lanka, who became champions of the Hong Kong International Sixers cricket team, arrived in the island.
+
+Sri Lanka won the Pakistani team in the final.
+
+◼️
+
+[Data](articles/da6e7bcb.json)
+
+[Extended Data](ext_articles/da6e7bcb.ext.json)
 
 ---
 
@@ -2219,97 +2321,5 @@ In September, the DFCC announced it would sell its 50 percent stake in Acuity Pa
 [Data](articles/e3997fbb.json)
 
 [Extended Data](ext_articles/e3997fbb.ext.json)
-
----
-
-### President’s vision of transportation: A change agent or mere rhetoric?
-
-*2024-11-04 22:51:13* · [`dailyftlk`](https://www.ft.lk/columns/President-s-vision-of-transportation-A-change-agent-or-mere-rhetoric/4-768832) · `en`
-
-The National People’s Power (NPP) party’s vision for transportation is “to create an efficient, sustainable, and accessible transportation system that enhances mobility for all citizens while promoting economic growth and environmental conservation”. In his election manifesto titled “A thriving nation – A beautiful life,” President Anura Kumara Dissanayake cites “an efficient transport service” as a key element of “A Sustainable Economy.” The President has promised five interventions aimed at delivering “an efficient transport service”. However, no promises are made about improving airports, seaports, fishery harbours, inter-modalism, connectivity, and the environment.
-
-...
-
-[Data](articles/e9ddc860.json)
-
-[Extended Data](ext_articles/e9ddc860.ext.json)
-
----
-
-### Combination of experienced and new MPs should be in parliament – S.M. Marikkar
-
-*2024-11-04 22:45:29* · [`dailyftlk`](https://www.ft.lk/columns/Combination-of-experienced-and-new-MPs-should-be-in-parliament-S-M-Marikkar/4-768831) · `en`
-
-Says the SJB should have a strategy to get the support of those who voted for NPP due to anger with certain politicians and corrupt deals
-
-Confirms there is no decision to change the SJB’s leadership
-
-Claims Anura Kumara Government will also face similar repercussions like Gotabaya Rajapaksa Government if they have a parliament with immature politicians
-
-Reveals poverty, education, housing and floods still need more attention to develop Colombo
-
-I do not believe that there should always be experienced politicians in the parliament. There are two sides of the experienced politicians as some of them are capable of genuinely serving to fulfil people’s aspirations but others are capable of stealing public money. I think there should be a combination where experienced and budding politicians represent people at the parliament. Remember, we can’t rule a country with inexperienced parliamentarians
-
-...
-
-[Data](articles/e777e6dd.json)
-
-[Extended Data](ext_articles/e777e6dd.ext.json)
-
----
-
-### “Cocoon” around heads of state: Is there one around President Anura Dissanayake already?
-
-*2024-11-04 22:33:54* · [`dailyftlk`](https://www.ft.lk/opinion/Cocoon-around-heads-of-state-Is-there-one-around-President-Anura-Dissanayake-already/14-768828) · `en`
-
-It is necessary to break this cocoon by appointing a council of economic advisers. The council must listen to the alternative perspectives specially based on research, empirical analysis and data. Then council members are required to submit an individual report in writing to the President based on which the President would have an enlightened discourse on the subject. The same principle of Continuous Improvement Process can be applied here by stopping the prevention of the flow of information to the top
-
-The “cocoon” around heads of state refers to the insulating layer of advisors, staff, and bureaucrats who control access to the leader, sometimes filtering or distorting the flow of information. This phenomenon can prevent heads of state from receiving accurate, unfiltered information and limit their exposure to diverse perspectives. This is especially true when it comes to economic governance, the most crucial part of governance.
-
-...
-
-[Data](articles/26ad6a46.json)
-
-[Extended Data](ext_articles/26ad6a46.ext.json)
-
----
-
-### Bus accident in India’s Uttarakhand kills 36, leaves 6 injured
-
-*2024-11-04 22:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103162/bus-accident-in-indias-uttarakhand-kills-36-leaves-6-injured) · `en`
-
-At least 36 people were killed and six were injured after a bus plunged into a gorge in the northern Indian state of Uttarakhand on Monday, an official told Reuters.
-
-The bus was travelling from Garhwal in the Himalayas and was headed to the town of Ramnagar, with at least 42 passengers on board, Devendra Pincha, a local police officer said by phone.
-
-Visuals from ANI news agency, in which Reuters has a minority stake, showed an overturned bus lying beside a river at the base of a hill.
-
-State Chief Minister Pushkar Singh Dhami said on X an inquiry would be carried out into the cause of the incident.
-
-◼️
-
-[Data](articles/ef627bbb.json)
-
-[Extended Data](ext_articles/ef627bbb.ext.json)
-
----
-
-### Invitation to Janaka Ratnayake and his wife
-
-*2024-11-04 22:16:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனக-ரத்நாயக்க-மற்றும்-அவரது-மனைவிக்கு-அழைப்பாணை/175-346566) · `ta`
-
-Sri Lanka: Janaka Ratnayake, former Chairman Public Utilities Commission, and wife ordered court appearance Dec 10 over unpaid tax case involving Rs 36 lakhs 97 thousand rupees.
-
-🟩
-
-Colombo Additional Magistrate Bandara Sri Lanka today (04) ordered the former Chairman of the Sri Lanka Public Utilities Commission, Janaka Ratnayake and his wife to appear before the court on December 10.
-
-The order was issued when two cases filed against Janaka Ratnayake and his wife HL Kumari de Silva were taken up by the Internal Revenue Department in the case of a computer service company and failed to pay Rs 36 lakhs 97 thousand rupees to the government.. Remble
-
-◼️
-
-[Data](articles/977e4ace.json)
-
-[Extended Data](ext_articles/977e4ace.ext.json)
 
 ---

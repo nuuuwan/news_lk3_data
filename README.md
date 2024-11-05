@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 19:11:52**
+As of **2024-11-05 19:24:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,275
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,197 (100.0%) of 53,209 articles have been extended.
+53,203 (100.0%) of 53,209 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -456,19 +456,29 @@ Furthermore, the Prisons Spokesman added that strict disciplinary action will be
 
 ---
 
-### ஜனாதிபதி பொய்யான வாக்குறுதிகளால் மக்களை ஏமாற்ற முடியாது - ஜீவன்
+### The president cannot deceive people with false promises - Jeevan
 
 *2024-11-05 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197957) · `ta`
 
-தற்போதைய ஜனாதிபதி பெருந்தோட்ட தொழிலாளர்களுக்கு 2000 ரூபாய் சம்பளம் வழங்க வேண்டும் என்று கடந்த காலங்களில் பல மேடைகளில் சாத்தியமற்ற உறுதிமொழிகளை வழங்கினார் ஆனால் ஞாயிற்றுக்கிழமை 3 ஆம் திகதி நுவரெலியாவில் நடந்த கூட்டத்தில் பெருந்தோட்ட தொழிலாளர்களுக்கு  சம்பளம் கணிசமான அளவு அதிகரிக்கப்படும் என தெரிவிக்கின்றார் இவ்வாறான பொய்யான வாக்குறுதிகளால் மக்களை ஏமாற்ற முடியாது என இலங்கை தொழிலாளர் காங்கிரஸின்பொதுச்செயலாளரும் நுவரெலியா மாவட்ட வேட்பாளருமான ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+President denies deceiving public with false promises. Claims fulfilled pledge to increase plantation worker wages. Emphasizes land rights and criticizes opponents for exploiting hill country residents.
 
-டயகாமம் பகுதியில் திங்கட்கிழமை 4 இடம்பெற்ற தேர்தல் பிரச்சார கூட்டத்தில் கலந்து கொண்டு கருத்து தெரிவித்த போதே அவர் இதனை தெரிவித்துள்ளார்.
+🟩
 
-கடந்த 4 வருடங்களுக்கு மேலாக பல்வேறு அவமானங்களையும்  பிரச்சினைகளையும்  சந்தித்தித்து தோட்டத் தொழிலாளர்களுக்கு சம்பள அதிகரிப்பை பெற்றுக் கொடுப்பதாக உறுதியளித்தோம் தற்போது அந்த வாக்குறுதியை நிறைவேற்றியிருக்கிறோம் தொடர்ந்து எமது மக்கள் பல பிரச்சினைகளை எதிர்கொள்கின்றனர்.
+In the past, the current president has made impossible pledges on many platforms in the past but that the salaries of plantation workers will be increased significantly for plantation workers at a meeting in Nuwara Eliya on Sunday, 3rd, but the Ceylon Workers Congress and Nuwelia District Candidate Jeevan Thondaman said.
+
+He was speaking at a speech at the election campaign meeting held on Monday 4 in the Diyagamam area.
+
+Over the past 4 years, we have faced many humiliations and problems and promised to get a salary increase for plantation workers. We have now fulfilled that promise.
+
+We are a land -free society. Land rights should be certain if the land is entrusted to the people. 90 % of the people will automatically build houses. Only a few readers in the garden are only a few people in the garden.There is no doubt that we are still fighting for land rights.
+
+A few politicians say that the people of the hill country will be selling them when they are suffering from difficulties.
 
 ...
 
 [Data](articles/cdb9398d.json)
+
+[Extended Data](ext_articles/cdb9398d.ext.json)
 
 ---
 
@@ -552,6 +562,8 @@ Banking stocks had been appreciating. Last week, high net worth individuals were
 
 [Data](articles/a589b170.json)
 
+[Extended Data](ext_articles/a589b170.ext.json)
+
 ---
 
 ### The horn of the break;Exit students
@@ -594,19 +606,27 @@ Since coming to power, Dissanayake government has reduced widely used Octane 92 
 
 [Data](articles/8fb18234.json)
 
+[Extended Data](ext_articles/8fb18234.ext.json)
+
 ---
 
-### ආරක්ෂාව අඩු කිරීම ගැන හිටපු ජනාධිපති චන්ද්‍රිකාගෙන් මහජන ආරක්ෂක ලේකම්ට ලිපියක්
+### Former President Chandrika a letter to the Public Defense Secretary
 
 *2024-11-05 16:28:27* · [`adalk`](https://www.ada.lk/breaking_news/ආරක්ෂාව-අඩු-කිරීම-ගැන-හිටපු-ජනාධිපති-චන්ද්‍රිකාගෙන්-මහජන-ආරක්ෂක-ලේකම්ට-ලිපියක්/11-412867) · `si`
 
-හිටපු ජනාධිපති චන්ද්‍රිකා බණ්ඩාරනායක කුමාරතුංග මහත්මිය විසින් සිය ආරක්ෂාව අඩු කර ඇති බවට මහජන ආරක්ෂක අමාත්‍යාංශ ලේකම්, රවී සෙනෙවිරත්න මහතා වෙත ලිපියක් යොමු කරමින් සඳහන් කර තිබේ.
+Former President Chandrika Bandaranaike Kumaratunga reduced her security detail from 50 personnel to ensure personal safety.
 
-ඒ අනුව තමන්ගේ ආරක්ෂාවට යොදවා සිටි ආරක්ෂක අංශ නිලධාරීන් 50ක ප්‍රමාණය 30ක් දක්වා අඩුකර තිබෙන බව හිටපු ජනාධිපති චන්ද්‍රික බණ්ඩාරනායක මහත්මිය එම ලිපියේ සඳහන් කර ඇත.
+🟩
+
+According to the Secretary Defense Ministry, Ravi Seneviratne, has written to Ravi Seneviratne that former President Chandrika Bandaranaike Kumaratunga has reduced its security.
+
+Former President Chandrika Bandaranaike stated that 50 security personnel deployed to their own safety.
 
 ◼️
 
 [Data](articles/f504b83b.json)
+
+[Extended Data](ext_articles/f504b83b.ext.json)
 
 ---
 
@@ -632,19 +652,27 @@ Addressing a public meeting in Ampara, President Anura Kumara Dissanayake made t
 
 ---
 
-### பூஜித், ஹேமசிறிக்கு எதிரான விசாரணையைத் தொடர உத்தரவு
+### Poojith, ordered to proceed with the investigation against Hemasiri
 
 *2024-11-05 16:01:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பூஜித்-ஹேமசிறிக்கு-எதிரான-விசாரணையைத்-தொடர-உத்தரவு/150-346607) · `ta`
 
-ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல் சம்பவம் தொடர்பான குற்றச்சாட்டில் இருந்து முன்னாள் பொலிஸ் மா அதிபர் பூஜித் ஜயசுந்தர மற்றும் முன்னாள் பாதுகாப்புச் செயலாளர் ஹேமசிறி பெர்னாண்டோ ஆகியோரை விடுவித்து உத்தரவிட்ட கொழும்பு மேல் நீதிமன்றத் தீர்ப்பை ரத்து செய்துள்ளதுடன்  விசாரணையைத் தொடரவும், குற்றம் சாட்டப்பட்டவர்கள் தங்கள் வாதத்தை முன்வைக்கவும் உயர் நீதிமன்றம் இன்று (05) உத்தரவிட்டுள்ளது.
+Colombo High Court cancels release verdicts for former police chief Poojith Jayasundera and defense secretary Hemasiri Fernando. Supreme Court orders them to present arguments. Case involves 855 charges related to Easter Sunday bombings.
 
-ஜெயசுந்தர மற்றும் பெர்னாண்டோவை விடுதலை செய்ய உத்தரவிட்ட மேல் நீதிமன்ற தீர்ப்பை எதிர்த்து சட்டமா அதிபரினால் தாக்கல் செய்யப்பட்ட இருவேறு மேன்முறையீட்டு மனுக்களுக்கு பதிலளிக்கும் வகையில், நீதியரசர்களான ப்ரீத்தி பத்மன் சூரசேன, யசந்த கோதாகொட, குமுதினி விக்கிரமசிங்க, மஹிந்த சமயவர்தன மற்றும் அர்ஜுன ஒபேசேகர ஆகிய ஐந்து நீதிபதிகள் அடங்கிய உயர் நீதிமன்ற நீதிபதிகள் குழாம் இந்த தீர்ப்பை வழங்கியுள்ளது.
+🟩
 
-வழக்கின் சிக்கலான தன்மையையும், தீவிரத்தன்மையையும் கருத்தில் கொண்டு, மேல் நீதிமன்ற நீதிபதிகள் குற்றம் சாட்டப்பட்டவர்களை தங்கள் வாதத்திற்கு அழைக்காமல் விடுவிப்பது ஏற்புடையதல்ல என்று உயர் நீதிமன்றம் கூறியது.
+The Colombo High Court has canceled the verdict of the release of former Inspector General of Police Poojith Jayasundera and former Defense Secretary Hemasiri Fernando from the allegation of the Easter Sunday bomb attack and the Supreme Court today (05) ordered the accused to present their argument.
+
+In response to the two appeals filed by the Attorney General against the Supreme Court decision to release Jayasundara and Fernando, the five judges of the judges of the judges - Preethi Padman Surasena, Yasantha Gothamoda, Kumudini Wickremasinghe, Mahinda Religious and Arjuna Obeeskegara were awarded the judges.
+
+Considering the complexity and severity of the case, the Supreme Court said that it was not acceptable to release the accused without calling the accused.
+
+The Supreme Court has advised the Supreme Court to call the accused and to continue the remaining hearing.
 
 ...
 
 [Data](articles/76e3cf3e.json)
+
+[Extended Data](ext_articles/76e3cf3e.ext.json)
 
 ---
 
@@ -859,6 +887,8 @@ He most recently served as Director and Country Business Head of Citibank NA, Sr
 ◼️
 
 [Data](articles/beab79d6.json)
+
+[Extended Data](ext_articles/beab79d6.ext.json)
 
 ---
 

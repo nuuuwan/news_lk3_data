@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 02:24:28**
+As of **2024-11-06 02:40:56**
 
 ## Newspaper Stats
 
-*Scraped **53,238** Articles*
+*Scraped **53,239** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,409
+tamilmirrorlk | 7,410
 virakesarilk | 8,603
 adaderanasinhalalk | 9,280
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,238 (100.0%) of 53,238 articles have been extended.
+53,239 (100.0%) of 53,239 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,30 @@ He said that when calculating the price of rice, the sub -products of the rice p
 [Data](articles/7cca0e24.json)
 
 [Extended Data](ext_articles/7cca0e24.ext.json)
+
+---
+
+### To understand the voting voting
+
+*2024-11-06 01:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்கு-போட்டியை-புரிந்து-கொள்ள-வேண்டும்/175-346631) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil Progressive Alliance urges Tamil voters to support their candidates strategically, understanding voting tactics and preferential votes to counter Sinhalese rejection.
+
+🟩
+
+This is the last week of the election campaign. Today the competition among different parties is over. In response, the majority of the ethnic candidates who are contesting in the telephone team today are looking for the worthy votes of Tamil voters. Those who have been rejected by the Sinhalese people in their constituency, get the Tamil preferential votes to compensate for the Sinhalese votes they lost there.. Tamil Progressive Alliance leader Mano Ganesan has urged Tamil voters to understand the voting voting and tactics.
+
+In the last presidential election, our candidate was won by Sajith Premadasa in Colombo, Gampaha, Kandy, Kegalle, Ratnapura and Badulla districts.. We have won the Nuwara Eliya District. These are the achievement of the Tamil Progressive Alliance.
+
+...
+
+[Data](articles/a068a896.json)
+
+[Extended Data](ext_articles/a068a896.ext.json)
 
 ---
 
@@ -2459,33 +2483,5 @@ Now the people of South Sri Lanka - the Sinhalese people - are ready to correct 
 [Data](articles/67ba968b.json)
 
 [Extended Data](ext_articles/67ba968b.ext.json)
-
----
-
-### Thailand woman arrested with 197 grams of ice
-
-*2024-11-05 11:43:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/197-கிராம்-ஐஸ்-உடன்-தாய்லாந்து-பெண்-கைது/175-346594) · `ta`
-
-Thai woman caught with 197g ice at Sri Lanka airport. Arrested with 5kg drugs worth 100m rupees. Further investigation ongoing.
-
-🟩
-
-A Thailand woman from Kuala Lumpur, Malaysia has been arrested at the Bandaranaike International Airport (BIA) with 197 grams of 'ice'.
-
-The 33 -year -old woman has been detained by the authorities of the BIA drug control unit with 5 kilograms of drugs.
-
-Officials were found during the raid, as the woman's travel bag was hidden with food packages.
-
-He arrived in Sri Lanka from Kuala Lumpur, Malaysia via Singapore at around 11:55 pm last night.
-
-Customs investigations have revealed that the value of the seized drug was about 100 million rupees.
-
-The Sri Lanka Customs Control Division has requested the Bureau of Investigation into the Narcotics Bureau of the Bureau of Investigation and further investigations are being carried out on the arrested woman.
-
-◼️
-
-[Data](articles/2db2caf7.json)
-
-[Extended Data](ext_articles/2db2caf7.ext.json)
 
 ---

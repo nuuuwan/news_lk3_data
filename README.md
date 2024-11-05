@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 04:12:01**
+As of **2024-11-06 04:24:30**
 
 ## Newspaper Stats
 
-*Scraped **53,242** Articles*
+*Scraped **53,243** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,411
+tamilmirrorlk | 7,412
 virakesarilk | 8,605
 adaderanasinhalalk | 9,280
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,242 (100.0%) of 53,242 articles have been extended.
+53,243 (100.0%) of 53,243 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,32 @@ In the under -15 category. V. and Vennapu Thirukkudumba KM are eligible to play 
 [Data](articles/db200627.json)
 
 [Extended Data](ext_articles/db200627.ext.json)
+
+---
+
+### Conspiracy to root the Muslim leadership
+
+*2024-11-06 01:56:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-தலைமைகளை-வேரறுக்க-சதித்திட்டம்/175-346633) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rishad Bathiudeen warns against conspiracies targeting Muslim leaders in Sri Lanka's politics. He urges the community to remain vigilant and maintain representation to avoid marginalization and potential upheaval.
+
+🟩
+
+All Ceylon People's Congress leader and United People's Freedom Alliance (UPFA) Vanni district chief candidate Rishad Bathiudeen said that the community should be awakened from conspiracy efforts to marginalize Muslim leaders from politics.
+
+The Vanni District Ulama Conference was held in Mannar on Sunday (03), under the theme of "Minority Representation and Contribution of Ulama" in the arrangement of the All Ceylon People's Congress.. Speaking at the event, People's Congress leader Rishad said this.
+
+"Do you want to eliminate Muslim representations for the sake of the national power of the people?. For a change in national politics, it is impossible. Some people in Emmati have dared to do these things. The Ulama has a responsibility to guide our brothers who are supporting these conspiracies.
+
+...
+
+[Data](articles/ec8d0330.json)
+
+[Extended Data](ext_articles/ec8d0330.ext.json)
 
 ---
 
@@ -2477,25 +2503,5 @@ The suspect is a 38-year-old resident of Korathegoda, Koratta, Koratta, Koratta,
 [Data](articles/5f80452b.json)
 
 [Extended Data](ext_articles/5f80452b.ext.json)
-
----
-
-### Sri Lanka needs policies to increase rubber production, make use of FTAs: Michelin
-
-*2024-11-05 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-needs-policies-to-increase-rubber-production-make-use-of-ftas-michelin-186117/) · `en`
-
-ECONOMYNEXT – Global tyre manufacturer Michelin has said the Sri Lanka government needs to implement proactive policies to increase rubber production in the island to provide impetus to value-added rubber products, and take steps to expand market access through free trade agreements.
-
-A team from Michelin met Sri Lanka’s Export Development Board officials last week (Nov 1) to discuss further opportunities in the island nation’s rubber manufacturing sector.
-
-“The representatives of Michelin pointed out that the government needs to implement proactive policies to increase rubber production in Sri Lanka to provide impetus to value-added rubber products while taking initiatives to expand market access through FTAs,” a statement by the EDB said.
-
-“They also stressed the necessity of establishing a dedicated rubber zone to manufacture different types of rubber products in the island.”
-
-...
-
-[Data](articles/566f2c85.json)
-
-[Extended Data](ext_articles/566f2c85.ext.json)
 
 ---

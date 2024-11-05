@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 10:12:28**
+As of **2024-11-05 10:24:38**
 
 ## Newspaper Stats
 
@@ -26,31 +26,41 @@ adaderanasinhalalk | 9,256
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,098 (100.0%) of 53,099 articles have been extended.
+53,099 (100.0%) of 53,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### රුපියල් කෝටි 10ක අයිස් සමග තායි කාන්තාවක් අත්අඩංගුවට
+### Thai arrested with Rs. 10 billion
 
 *2024-11-05 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202921) · `si`
 
-කටුනායක බණ්ඩාරනායක ජාත්‍යන්තර ගුවන්තොටුපොළ මත්ද්‍රව්‍ය පාලන ඒකකයේ නිලධාරීන් විසින් ඊයේ (04) රාත්‍රියේ මැලේසියාවේ සිට පැමිණි තායිලන්ත කාන්තාවක් මත්ද්‍රව්‍ය තොගයක් සමග අත්අඩංගුවට ගෙන තිබේ.
+Thai woman arrested at Sri Lanka airport with 5kg drugs. Six others detained in raids across Colombo suburbs.
 
-ශ්‍රී ලංකා රේගුව පැවසුවේ මත්ද්‍රව්‍ය තොගයේ බර කිලෝග්‍රෑම් 5ක් වන බවය.
+🟩
 
-මෙම කාන්තාව විසින් අදාළ මත්ද්‍රව්‍ය තොගය සිය ගමන් මලුවල සඟවා තිබූ අතර එය අයිස් නමැති මත්ද්‍රව්‍ය තොගයක් බව ශ්‍රී ලංකා රේගු මත්ද්‍රව්‍ය නිවාරණ ඒකකය පැවසීය.
+A Thai woman from Malaysia last night, a woman from Malaysia last night has been arrested by the officers of the Bandaranaike International Airport at Katunayake last night.
 
-මේ අතර ගතවූ පැය 24 තුළ ප්‍රදේශ කිහිපයක සිදුකළ වැටලීම්වලින් අයිස්, හෙරොයින් ඇතුළු මත්ද්‍රව්‍ය සමග කාන්තාවක් ඇතුළු පුද්ගලයින් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Sri Lanka Customs said that the weight of the drug was 5 kilograms.
 
-පොලීසිය ප්‍රකාශ කළේ ගල්කිස්ස, මොරටුව, බොරැල්ල, දෙමටගොඩ සහ පෑලියගොඩ යන ප්‍රදේශවල සිදුකළ වැටලීම්වලදී එම සැකකරුවන් අත්අඩංගුවට ගෙන ඇති බවය.
+The woman had been hidden in the drug and the large number of narcots Sri Lanka Customs Drugs Unit.
 
-ගල්කිස්ස ගුවන්තොටුපොළ හන්දිය ප්‍රදේශයේ දී අයිස් මත්ද්‍රව්‍ය ග්‍රෑම් 11ක් සමග කාන්තාවක් අත්අඩංගුවට ගෙන ඇති අතර මොරටුව, ලක්ෂපතිය ප්‍රදේශයේ දී හෙරොයින් ග්‍රෑම් 10යි මිලිග්‍රෑම් 370ක් සමග පුද්ගලයින් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Meanwhile, six persons including a drug, including ice, heroin, have been arrested by the raids conducted in several areas within the last 24 hours.
 
-...
+Police stated that the suspects had been arrested in Mount Lavinia, Moratuwa, Borella, Dematagoda and Peliyagoda areas.
+
+A woman has been arrested in Mount Lavinia airport junction, Moratuwa and two persons have been arrested with 11 grams of heroin in the Laxapathiya area in Moratuwa.
+
+A person has been arrested in Halgahakumbura and 780 milligrams of heroin and 780 milligrams in the Dematagoda area.
+
+In addition, a person was arrested in Peliyakotuwatta area in Peliyakalkallawatte and 500 milligrams.
+
+◼️
 
 [Data](articles/c3357e0e.json)
+
+[Extended Data](ext_articles/c3357e0e.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 23:24:41**
+As of **2024-11-05 23:42:18**
 
 ## Newspaper Stats
 
-*Scraped **53,231** Articles*
+*Scraped **53,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,407
+tamilmirrorlk | 7,408
 virakesarilk | 8,598
 adaderanasinhalalk | 9,280
 
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,231 (100.0%) of 53,231 articles have been extended.
+53,232 (100.0%) of 53,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### The court's order
+
+*2024-11-05 23:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றம்-கொடுத்த-உத்தரவு/175-346629) · `ta`
+
+Court orders suspect held till Nov 11 for posting fake 5000 rupee coin on social media. Suspect, 38, from Athurigiriya, Korathota, Mahadeniya areas. Arrested by Criminal Investigation Department on Oct 4.
+
+🟩
+
+The Magistrate of Negaspeva has ordered the suspect to be remanded until November 11, the suspect who posted a fake 5,000 rupee coin on social media.
+
+The Criminal Investigation Department arrested the suspect on the 4th and was 38 years old from Athurigiriya, Korathota and Mahadeniya area.. Remble
+
+◼️
+
+[Data](articles/88b2302c.json)
+
+[Extended Data](ext_articles/88b2302c.ext.json)
+
+---
 
 ### Kavinda de Zoysa appointed chairman of Bank of Ceylon
 
@@ -2473,27 +2493,5 @@ Ping boxes in the temples had been abducted by those people.
 [Data](articles/63a4de77.json)
 
 [Extended Data](ext_articles/63a4de77.ext.json)
-
----
-
-### Woman stabbed to death inside husband’s private hospital
-
-*2024-11-05 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103174/woman-stabbed-to-death-inside-husbands-private-hospital) · `en`
-
-A woman has reportedly been stabbed to death with a sharp weapon inside a private hospital in Trincomalee.
-
-The deceased is a 63-year-old woman who was residing on the third floor of the hospital with her husband, Ada Derana reporter said.
-
-It has been revealed during the preliminary investigations that the deceased was the wife of the private hospital’s owner. Police suspect that the victim’s brother-in-law committed the murder.
-
-The motive behind the murder remains unclear and the 55-year-old suspect involved in the incident has been arrested, the police said.
-
-The arrested suspect has also been staying in a room on the same floor of the private hospital.
-
-◼️
-
-[Data](articles/e8284c19.json)
-
-[Extended Data](ext_articles/e8284c19.ext.json)
 
 ---

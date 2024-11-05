@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 17:24:34**
+As of **2024-11-05 17:41:32**
 
 ## Newspaper Stats
 
-*Scraped **53,179** Articles*
+*Scraped **53,181** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,216
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,962
-adaderanalk | 6,334
+adaderanalk | 6,335
 tamilmirrorlk | 7,399
 virakesarilk | 8,589
-adaderanasinhalalk | 9,271
+adaderanasinhalalk | 9,272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,179 (100.0%) of 53,179 articles have been extended.
+53,181 (100.0%) of 53,181 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### The new Magazine Prison main jailor and a regulator suspended
+
+*2024-11-05 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202938) · `si`
+
+New Magazine Prison jailor and regulator suspended due to inmate abuse allegations. Commissioner of Prisons confirms misconduct.
+
+🟩
+
+Regulatory work of the main jail and the storage custodian of the new Magazine Prison in Colombo was suspended.
+
+The Commissioner of Prisons (Media Spokesperson) has revealed that the prison inmates have been abused by the main jarrror and the guidance in the new Magazine Prison in Colombo.. Mr. Dissanayake said.
+
+◼️
+
+[Data](articles/6a2d5d4d.json)
+
+[Extended Data](ext_articles/6a2d5d4d.ext.json)
+
+---
+
+### Chief Jailor and storekeeper of New Magazine Prison suspended
+
+*2024-11-05 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103186/chief-jailor-and-storekeeper-of-new-magazine-prison-suspended-) · `en`
+
+The Chief Jailor and a prison guard who served as the storekeeper of the New Magazine Prison in Colombo have been suspended.
+
+They have been suspended from the service over an alleged incident of providing mobile phones to a prisoner who is serving a life sentence, the Spokesman of the Department of Prisons Gamini B. Dissanayake said.
+
+The Prisons Spokesman stated that an investigation carried out by the Department of Prisons based on information uncovered during a probe conducted by the Terrorism Investigation Division (TID) revealed that the two prison officers have had a close relationship with the prisoner in question.
+
+Furthermore, the Prisons Spokesman added that strict disciplinary action will be taken against the prison officers involved in corruption and that legal proceedings will be initiated against them.
+
+◼️
+
+[Data](articles/ea57d0f8.json)
+
+[Extended Data](ext_articles/ea57d0f8.ext.json)
+
+---
 
 ### Protest against the pastor Jerem
 
@@ -2393,65 +2433,5 @@ During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm h
 [Data](articles/06fd22d9.json)
 
 [Extended Data](ext_articles/06fd22d9.ext.json)
-
----
-
-### Is the unions dissolve under a government of the people?
-
-*2024-11-05 02:11:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7741j3g500o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan politician Lakshman Nipunarachchi suggests dissolving trade unions under government control. Critics argue this violates workers' rights and freedoms. The JVP supports trade unions but faces opposition from the government and some political parties.
-
-🟩
-
-Is the unions dissolve under a government of the people?
-
-"Remember that I said today. That strike is lost in front of. Strike against whom. If there is any problem with the government, you have to talk about. We have steps to come on our side. First, the trade unions on our party are dissolved. Nisted, why?There are no professional unions. "
-
-The Colombo District candidate Lakshman Nipunarachchi expressed his views on the national proposal of the electorate recently.
-
-The inhabitants of the trade unions have been criticized in the trade union movement and in political platforms.
-
-The JVP is a close relationship with the Sri Lankan labor movement.
-
-The JVP was also involved in the labor day that the government banned by the government for security reasons in 1987.
-
-The JVP has a number of more active and powerful trade unions in the professional fields. Their trade unions are also the basis for their own.
-
-...
-
-[Data](articles/de7b20cb.json)
-
-[Extended Data](ext_articles/de7b20cb.ext.json)
-
----
-
-### Don't waste the votes
-
-*2024-11-05 02:07:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குகளை-வீணடித்து-விடவேண்டாம்/175-346575) · `ta`
-
-Summarize text into 200 characters: "Candidate urges voters to choose innovative leaders over self-serving politicians. Supports All Ceylon Peoples Congress in Ampara district elections."
-
-🟩
-
-Azraf Tahir, a candidate for the All Ceylon Peoples Congress in the All Ceylon Peoples Congress in Digamadulla district, said that voters should come forward to vote for the people who voted for the parties who have lost their influence and voted for the people who have been voting for themselves.
-
-He said this while addressing the women's conference in support of the candidate Azrap Tahir in Nintavur.
-
-We must be free from simply voting for the candidates of the parties who do not do anything creative for the people.
-
-People's support for the All Ceylon Peoples Congress in Ampara District is increasing.
-
-I am contesting on behalf of the All Ceylon Peoples Congress in Nintavur.. Of the candidates contesting in the party, the candidate with more than 15 thousand votes is likely to be a member.
-
-...
-
-[Data](articles/fedd7709.json)
-
-[Extended Data](ext_articles/fedd7709.ext.json)
 
 ---

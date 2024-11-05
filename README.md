@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 17:41:32**
+As of **2024-11-05 18:01:14**
 
 ## Newspaper Stats
 
-*Scraped **53,181** Articles*
+*Scraped **53,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,962
 adaderanalk | 6,335
-tamilmirrorlk | 7,399
+tamilmirrorlk | 7,400
 virakesarilk | 8,589
-adaderanasinhalalk | 9,272
+adaderanasinhalalk | 9,273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,181 (100.0%) of 53,181 articles have been extended.
+53,183 (100.0%) of 53,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Landslide Warnings for several areas
+
+*2024-11-05 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202939) · `si`
+
+National Building Research Organization issues landslide warnings for several areas. Alerts effective from 4 PM today to 4 AM tomorrow. Affected regions include Underpawkola, Yatiyantota, Bulathkola, Warakagoda, Galigamuwa District Secretariat Division. Met Department forecasts heavy showers in Central, Sabaragamuwa, Southern, Uva, and Western provinces today and tomorrow.
+
+🟩
+
+The National Building Research Organization has taken steps to issue a warning alert in several areas.
+
+The organization said that today (05) will be implemented from 4:00 pm to 4.00 pm tomorrow (06).
+
+Accordingly, the "Underpawkola, Yatiyantota, Bulathkola, Warakagoda, Bulathkola, Warakagoda, Galigamuwa and Galigamuwa District Secretariat Division have been issued.Available.
+
+The Badulla, Galle, Kalutara, Kandy, Kurunegala, and Matara districts have been asked to be "inquisted."
+
+Meanwhile, the Met Department forecasts showers at several places in the country today (05).
+
+Mm in the Central, Sabaragamuwa, Southern, Uva and Western provinces. Heavy showers have been reported that heavy rains can be over 100.
+
+And tomorrow will occur at several places in the middle, Sabaragamuwa, Uva and Southern provinces in the middle, Sabaragamuwa, Uva and Southern provinces.. Mm to certain places. Heavy rains can occur in more than 50.
+
+◼️
+
+[Data](articles/60ecd71d.json)
+
+[Extended Data](ext_articles/60ecd71d.ext.json)
+
+---
 
 ### The new Magazine Prison main jailor and a regulator suspended
 
@@ -127,6 +157,28 @@ A British official who spoke to Tamils ​​in Diocarcia said that the decision
 [Data](articles/1ab3762b.json)
 
 [Extended Data](ext_articles/1ab3762b.ext.json)
+
+---
+
+### The horn of the break;Exit students
+
+*2024-11-05 16:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைவேளையில்-வந்த-கொம்பன்-வெளியேறிய-மாணவர்கள்/175-346608) · `ta`
+
+Elephant enters school late night, students flee. Parents chase animal away. Principal calls for elephant-proof fence installation.
+
+🟩
+
+The Komban elephant arrived at the Pandulugama Maha Vidyalaya in Kalanpindunuwe Wa Kahatagastikiliya at around 11.30 pm on Tuesday (05).
+
+When the Kompan elephant came to the playground in the school, the students stopped studying and left the school and then the parents of the neighbors and the parents of the students came and chased the elephant.
+
+Commenting on the incident, the school principal said that immediate action should be taken to set up an elephant fence.
+
+◼️
+
+[Data](articles/8576ae7f.json)
+
+[Extended Data](ext_articles/8576ae7f.ext.json)
 
 ---
 
@@ -2391,47 +2443,5 @@ The Department of Meteorology has requested the public to take action to reduce 
 [Data](articles/e4cc7eec.json)
 
 [Extended Data](ext_articles/e4cc7eec.ext.json)
-
----
-
-### Ramanathan Hindu Women's College Alumni Association Annual General Meeting 2024
-
-*2024-11-05 03:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197907) · `ta`
-
-Annual General Meeting: Ramanathan Hindu Women's College Alumni Association 2024. Sunday, November 24th, 2024 at 4 pm at Noom Thai restaurant, Maradana. Public meeting followed by alumni feast. All alumni invited. Contact Secretary 0772920470 for details.
-
-🟩
-
-The Annual General Meeting of the Alumni Association of the Bambala Pitti Ramanathan Hindu Ladies' Association will be held on Sunday, 24th November 2024 at 4 pm at the "Noom Thai" restaurant located in Maradana DR Vijayawardena Mawatha (McCullum Street) No. 335A.
-
-Following the annual public meeting, a gathering of an alumni feast is also organized.
-
-All alumni are asked to attend regularly. Please invite the Secretary 0772920470 for more details on the public meeting and party.
-
-◼️
-
-[Data](articles/251f9ff9.json)
-
-[Extended Data](ext_articles/251f9ff9.ext.json)
-
----
-
-### Guns have been found in Embilipitiya
-
-*2024-11-05 03:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/197906) · `ta`
-
-Arrest made in Embilipitiya: STF finds AK 47, pistols, bullets, sword, knife. Suspect detained for weapon possession.
-
-🟩
-
-A suspect has been arrested for possessing some weapons in a roundup of police Special Task Force (STF) in Embilipitiya on Monday (04).
-
-During this time, from the suspect, the AK 47 rifle, 2 megacins, bullets, 9 mm handgun and two swords, knife were found.
-
-◼️
-
-[Data](articles/06fd22d9.json)
-
-[Extended Data](ext_articles/06fd22d9.ext.json)
 
 ---

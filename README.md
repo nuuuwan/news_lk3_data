@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 09:24:27**
+As of **2024-11-05 09:40:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,255
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,090 (100.0%) of 53,094 articles have been extended.
+53,094 (100.0%) of 53,094 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,23 +46,31 @@ Addressing a public rally held in Ratnapura, Jayaweera said: “Ranil Wickremesi
 
 [Data](articles/a1af0b09.json)
 
+[Extended Data](ext_articles/a1af0b09.ext.json)
+
 ---
 
-### අපි අපේ දේශපාලනය කරන්න බයවෙන්න ඕන නෑ - දිලිත්
+### We don't have to worry about our politics - Dilith
 
 *2024-11-05 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202920) · `si`
 
-වත්මන් ආණ්ඩුව පැවති ආණ්ඩු ක්‍රියාත්මක කළ වැඩපිළිවෙළ එලෙසම ක්‍රියාත්මක කරමින් සිටින බව සර්වජන බලයේ නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera criticizes current government's lack of vision. He accuses Ranil Wickremesinghe of appointing inexperienced politicians. Jayaweera calls for courageous opposition, mentioning Anura Kumara as an example.
 
-ඔහු පෙන්වා දෙන්නේ රට ඉදිරියට ගෙනයාම සඳහා නව දැක්මක් වත්මන් ආණ්ඩුවට නොමැති බවය.
+🟩
 
-රත්නපුර ප්‍රදේශයේ පැවති ජනරැලියකට එක්වෙමින් ව්‍යවසායක දිලිත් ජයවීර මහතා එම අදහස් පළ කළේය.
+The Kandy district candidate entrepreneur Dilith Entrepreneurship Dilith Jayaweera says that the government has implemented the present government's program.
 
-"රනිල් වික්‍රමසිංහ කියන ඒ කෘතහස්ත දේශපාලඥයා සහ පළපුරුදු දේශපාලඥයා යෝජනා කරනවා පළපුරුදු අය එවන්න කියලා. ඔහු ඉතාමත්ම පළපුරුදු දේශපාලඥයෙක්. ඔහු කොතරම් පළපුරුදු කිව්වොත් ඩී. ඇස්. සේනානායක මහතා හදපු පක්ෂය, බණ්ඩාරනායක මහත්තයා හදපු පක්ෂය, වීජේවීර හදපු පක්ෂය... මේ පක්ෂ ඔක්කොම විනාශකරපු, නැත්තටම නැත්කරපු කෘතහස්ත දේශපාලඥයෙක්. ඔහු අද හිනාවෙවී ඉන්නවා කොහෙමද මම කරපු වැඩේ කියලා. තවපොඩ්ඩෙන් සර්වජන බලයටත් වැඩේ දෙනවා යන්නතම් බේරුනේ."
+He points out that the present government has no new vision to move forward.
+
+Addressing entrepreneur Dilith Jayaweera expressed his views while participating in a famil in Ratnapura.
+
+"That's the ethnic politician and experienced politician of Ranil Wickremesinghe propose to send experienced people. He is a very experienced politician. If he says how experienced he is D. Eyes. Mr. Senanayake appointed party, Mr. Bandaranaike, and the party of Wegeweera.. The emotional politician who destroyed all these parties, or not. Wherever he brightened today. Survived the exan of the execution too. "
 
 ...
 
 [Data](articles/388ae690.json)
+
+[Extended Data](ext_articles/388ae690.ext.json)
 
 ---
 
@@ -83,6 +91,8 @@ When inquired by Ada Derana, Director of Karapitiya Hospital Dr. S.P.U.M. Ranga 
 ...
 
 [Data](articles/402e03a9.json)
+
+[Extended Data](ext_articles/402e03a9.ext.json)
 
 ---
 
@@ -108,19 +118,25 @@ He pointed out that while the government has publicly committed to easing the ta
 
 ---
 
-### නව දේශපාලන සංස්කෘතියක් රටට හඳුන්වා දෙන බව ජනපති කියයි
+### President will introduce a new political culture to the country
 
 *2024-11-05 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202919) · `si`
 
-රට තුළ පවතින දේශපාලන සංස්කෘතිය වෙනස් කිරීම ජාතික ජන බලවේගයේ අපේක්ෂාව බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+President Anura Kumara Dissanayake introduces new political culture: Establishes standards for politicians, emphasizes equality under the law, criticizes current political practices.
 
-ජනාධිපතිවරයා පෙන්වා දෙන්නේ, දේශපාලනය සඳහා යම් ප්‍රමිතියක් ක්‍රියාත්මක විය යුතු බවය.
+🟩
 
-මොනරාගල ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
+President Anura Kumara Dissanayake says that the prospect of the national propagation in the country is the expected hope for the national power.
+
+The President points out that a standard for politics should be implemented.
+
+President Anura Kumara Dissanayake made these comments addressing a rally in Moneragala.
 
 ...
 
 [Data](articles/7226eb0d.json)
+
+[Extended Data](ext_articles/7226eb0d.ext.json)
 
 ---
 

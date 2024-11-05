@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 21:40:25**
+As of **2024-11-05 22:14:14**
 
 ## Newspaper Stats
 
-*Scraped **53,225** Articles*
+*Scraped **53,228** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,65 @@ islandlk | 3,181
 economynextcom | 3,226
 dailyftlk | 3,627
 dailymirrorlk | 4,733
-adalk | 4,970
-adaderanalk | 6,339
+adalk | 4,971
+adaderanalk | 6,340
 tamilmirrorlk | 7,406
 virakesarilk | 8,598
-adaderanasinhalalk | 9,278
+adaderanasinhalalk | 9,279
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,225 (100.0%) of 53,225 articles have been extended.
+53,228 (100.0%) of 53,228 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Man arrested for sharing fake currency note with President’s image on social media remanded
+
+*2024-11-05 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103191/man-arrested-for-sharing-fake-currency-note-with-presidents-image-on-social-media-remanded) · `en`
+
+The 38-year-old person arrested from Athurugiriya for allegedly publishing a fake Rs. 5,000 currency note with President Anura Kumara Dissanayake’s image on social media, has been remanded until November 11 by the Kesbewa Magistrate.
+
+On November 04, the Criminal Investigations Department (CID) arrested a person who is suspected to have circulated a doctored image of a fake currency note of the Rs. 5,000 denomination featuring an image of President Anura Kumara Dissanayake on it.
+
+The suspect, identified as a resident of Korathota in Athurugiriya, is employed as a salesperson, according to police
+
+◼️
+
+[Data](articles/8f7748b0.json)
+
+[Extended Data](ext_articles/8f7748b0.ext.json)
+
+---
+
+### Suspect remanded for set Rs. 5,000
+
+*2024-11-05 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202945) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Suspect remanded Rs. 5000 case. Kesbewa Magistrate orders until Nov 11. CID arrested on Oct 4. Police spokesperson DIG Nihal Talduwa confirms.
+
+🟩
+
+The Kesbewa Magistrate has ordered that the suspect had been remanded until November 11.
+
+The Police Media Spokesperson, DIG's law, lawyer Nihal Talduuwa made this statement.
+
+The Criminal Investigations Department had arrested the suspect on the 4th.
+
+◼️
+
+[Data](articles/145bc368.json)
+
+[Extended Data](ext_articles/145bc368.ext.json)
+
+---
 
 ### Landslide risk in part of Haliela Welimada road
 
@@ -225,6 +269,34 @@ The appointment will face further impact as the labor and investments of the sec
 [Data](articles/f7be8651.json)
 
 [Extended Data](ext_articles/f7be8651.ext.json)
+
+---
+
+### Will not allow a span of rice
+
+*2024-11-05 19:37:05* · [`adalk`](https://www.ada.lk/breaking_news/ආයේ-සහල්-හි﻿ඟයක්-ඇති-වන්න-ඉඩ-දෙන්නේ-නෑ/11-412875) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake denies rice shortage, blaming rulers for not purchasing paddy. Promises to control rice prices, increase paddy storage, and prevent monopolies. Emphasizes government's commitment to creating a better future for citizens.
+
+🟩
+
+President Anura Kumara Dissanayake said that there was no shortage of rice, as the rulers had not purchased the paddy recently.. The President was addressing a reputation in Moneragala.
+
+The political official, the government, will create a public front that the public official adds to the formation of the country.President said
+
+"In the presidential election, the national protocol was abandoned. The builders were believed to build them and without bordering them. The people of this country took a brave decision. It's an important decision. The governments earlier moved to their hand with their hand. Their family is for their family.
+
+They always did it to vote and govern together. Where are those parties now?This is the case with this Wellawaya. Divisions and governments to vote. In the recent presidential election, said the Prime Minister. Remember?There was no real disagreement between them.
+
+...
+
+[Data](articles/8446b088.json)
+
+[Extended Data](ext_articles/8446b088.ext.json)
 
 ---
 
@@ -2409,81 +2481,5 @@ This decision was taken by the five-member Supreme Court judge bench led by Just
 [Data](articles/c19f6158.json)
 
 [Extended Data](ext_articles/c19f6158.ext.json)
-
----
-
-### Will federalism be formed after the election?
-
-*2024-11-05 11:06:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலின்-பின்னர்-கூட்டாட்சி-அமைக்கப்படுமா/175-346587) · `ta`
-
-Federalism unlikely post-election: JVP rejects coalition formation with NPP. NPP uninterested in joint governance with previous government officials. Simple majority needed for regular laws, two-thirds for constitutional changes.
-
-🟩
-
-The Janatha Vimukthi Peramuna (JVP), the main coalition of the ruling party, the National People's Power (NPP), rejected the idea that the coalition would be formed after the general election.
-
-Responding to a question raised by the Daily Mirror on whether the National People's Power Coalition regime, JVP general secretary Dilvin Silva said that such a need would not be caused by the party (NPP) in the November 14 general election.
-
-He has made these comments as some parties in the North are planning to form a joint government with the NPP after the election.
-
-Tilvin Silva said that the government would hold talks with anyone interested but that it would not form any joint government. He said the NPP was not interested in accommodating those who had held responsibility in previous governments.
-
-...
-
-[Data](articles/f226a06a.json)
-
-[Extended Data](ext_articles/f226a06a.ext.json)
-
----
-
-### India’s Modi, Canada’s Trudeau condemn violence at Hindu temple near Toronto
-
-*2024-11-05 11:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103172/indias-modi-canadas-trudeau-condemn-violence-at-hindu-temple-near-toronto) · `en`
-
-The prime ministers of India and Canada condemned violence that broke out on Sunday at a Hindu temple near Toronto at a time of escalating diplomatic tensions between the countries.
-
-Videos posted on social media appeared to show people hitting each other with flagpoles and throwing punches in the Toronto suburb of Brampton. It was unclear who instigated the violence and Reuters could not independently verify what happened.
-
-The incident happened weeks after Ottawa expelled six Indian diplomats, linking them to the killing of a Sikh separatist leader in 2023 in Canada. Canada has accused the Indian government of conducting a broad campaign against South Asian dissidents in Canada, which New Delhi denies.
-
-Police said there were demonstrations at multiple locations in the region. Sikh activists said one demonstration was at a Hindu temple where pro-Khalistan activists protested the presence of Indian diplomats and another was at a Sikh temple.
-
-...
-
-[Data](articles/f4609999.json)
-
-[Extended Data](ext_articles/f4609999.ext.json)
-
----
-
-### Special Bundle Extension for Imported Chinese
-
-*2024-11-05 11:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/197917) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Special commodity tax extended for imported Chinese goods. Tax rate: 50 rupees per kg. Validity: Extended until Dec 31. Gazetted by Finance Minister. Contradicts promise to cut taxes on essentials."
-
-🟩
-
-For imported Chinese, the special commodity tax has been further extended.
-
-One kilogram of imported Chinese was levied on a special trade tax of 50 rupees for a year from the first of November last year.
-
-As its validity period ends on November 1, the government has taken steps to extend the special trade tax on the 31st of December.
-
-The tax has been extended by the Gazette Notification issued by President Anura Kumara Dissanayake as the Finance Minister.
-
-Although he was previously promised to reduce taxes on essential commodities, he criticized the same thing without cutting the taxes on them.
-
-He pointed out that the government has publicly promised to relax the tax burden on food items, while steps have been taken to retain the tax on the importation of sugar.
-
-◼️
-
-[Data](articles/cc9c8b46.json)
-
-[Extended Data](ext_articles/cc9c8b46.ext.json)
 
 ---

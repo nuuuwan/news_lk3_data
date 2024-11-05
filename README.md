@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 05:45:55**
+As of **2024-11-05 06:10:09**
 
 ## Newspaper Stats
 
-*Scraped **53,064** Articles*
+*Scraped **53,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 416
 colombotelegraphcom | 542
 bbccomsinhala | 543
-islandlk | 3,169
+islandlk | 3,181
 economynextcom | 3,211
 dailyftlk | 3,627
 dailymirrorlk | 4,733
@@ -20,17 +20,35 @@ adalk | 4,949
 adaderanalk | 6,313
 tamilmirrorlk | 7,382
 virakesarilk | 8,569
-adaderanasinhalalk | 9,247
+adaderanasinhalalk | 9,248
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,064 (100.0%) of 53,064 articles have been extended.
+53,066 (100.0%) of 53,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### අදත් මි.මී 100 ඉක්මවූ වැසි
+
+*2024-11-05 06:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202912) · `si`
+
+අද (05) දිනයේ මධ්‍යම, සබරගමුව, උතුරුමැද, ඌව පළාත්වල සහ කුරුණෑගල දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවලට මි.මී. 100ක පමණ තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+එමෙන්ම බස්නාහිර සහ දකුණු පළාත්වලත් අම්පාර දිස්ත්‍රික්කයේත් වෙරළබඩ ප්‍රදේශවල උදෑසන කාලයේදීත් තැනින් තැන වැසි ඇතිවේ.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වය තවදුරටත් පවතින බැවින් අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/e4cc7eec.json)
+
+---
 
 ### Ramanathan Hindu Women's College Alumni Association Annual General Meeting 2024
 
@@ -500,6 +518,30 @@ Sri Lanka is an island. Such a geographical feature comes with good and bad. Phy
 
 ---
 
+### Ooh, Suzi darling…
+
+*2024-11-04 23:44:00* · [`islandlk`](http://island.lk/ooh-suzi-darling/) · `en`
+
+Yes, singer Suzi Croner (Flückiger) became a darling to all her Sri Lankan fans in Melbourne, Australia, when she arrived, in that part of the world, last month, for her big event, ‘Country Night.’
+
+Everyone, whom she met, hugged and greeted her, saying “Oh, Suzi darling, so happy to see you again!” And, Suzi says her mind went back to the days of the hit song, ‘Oh, Suzie Darling’ sung by Robin Luke.
+
+“Believe me, I was so happy to see all my old friends again…from the Bambalapitiya Flats, Dehiwela, schoolmates, etc., and I enjoyed every minute of my stay in Melbourne,” said Suzi.
+
+“On the last occasion I was in Australia, I fell ill and was not 100 percent fit. This time it was a different scene altogether.
+
+“I was invited to several places – for lunch, dinner, tea, and the usual exciting outings.”
+
+Referring to the ‘Country Night’ concert, held on Saturday, 26th October, at The Grand On Princess, Suzi said it was a huge success.
+
+...
+
+[Data](articles/171a0f4a.json)
+
+[Extended Data](ext_articles/171a0f4a.ext.json)
+
+---
+
 ### President Anura - Nimal Lansa
 
 *2024-11-04 23:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/197905) · `ta`
@@ -551,6 +593,96 @@ Egg prices, rice prices and coconut prices are high today. Ranil Wickremesinghe 
 [Data](articles/02a5a94a.json)
 
 [Extended Data](ext_articles/02a5a94a.ext.json)
+
+---
+
+### Religions to deter jingoism?
+
+*2024-11-04 23:32:00* · [`islandlk`](http://island.lk/religions-to-deter-jingoism/) · `en`
+
+...
+
+[Data](articles/62080f05.json)
+
+[Extended Data](ext_articles/62080f05.ext.json)
+
+---
+
+### Expo Airline Management celebrates 25 years as Air France KLM Cargo’s Trusted Partner in Sri Lanka
+
+*2024-11-04 23:21:00* · [`islandlk`](http://island.lk/expo-airline-management-celebrates-25-years-as-air-france-klm-cargos-trusted-partner-in-sri-lanka/) · `en`
+
+On the 11th of October 2024, Expo Airline Management (EAM) celebrated 25 years as the exclusive Cargo GSA partner for Air France KLM Cargo in Sri Lanka.
+
+The milestone event, held at the Oak Room of the Cinnamon Grand, brought together key customers, logistics partners, and leading figures from the Sri Lankan air cargo sector to recognize the longstanding partnership between EAM and Air France KLM Cargo. Expo Airline Management is a subsidiary of the Expolanka Group, a global enterprise operating in sectors such as logistics, travel & leisure, and investments, with a focus on driving innovation and success in global trade. The event was graced by Hanif Yusoof, the founder of the Expolanka Group and serving as the Governor of Western Province, Sri Lanka. As a leader with a deep commitment to the country’s economic growth, Yusoof’s presence underscored the significance of the partnership.
+
+...
+
+[Data](articles/2ad31feb.json)
+
+---
+
+### ComBank receives Global Finance ‘Best Bank’ award for 22nd year
+
+*2024-11-04 23:20:00* · [`islandlk`](http://island.lk/combank-receives-global-finance-best-bank-award-for-22nd-year/) · `en`
+
+Commercial Bank of Ceylon Chairman Sharhan Muhseen and Managing Director/CEO Sanath Manatunge recently accepted ‘Best Bank in Sri Lanka’ award presented to the Bank by Global Finance magazine on the side-lines of the IMF/World Bank annual meetings in Washington DC. This was the 22nd year that Commercial Bank was ranked the Best Bank in Sri Lanka in the ‘World’s Best Banks 2024’ list published annually by Global Finance.
+
+According to the US-based magazine, the Best Bank awards recognise financial institutions that offer the broadest range of services, long-term reliability and technological innovation, and managed their assets and liabilities in a savvy way in light of the fast-changing interest rate scenarios.
+
+Expo Airline Management celebrates 25 years as Air France KLM Cargo’s Trusted Partner in Sri Lanka
+
+DFCC Bank continuing to look for investors for its 50 percent stake in Acuity Partners
+
+...
+
+[Data](articles/f62439c8.json)
+
+---
+
+### Aditya among Condé Nast Traveller’s best in ‘Rest of Asia Hotels’ 2024
+
+*2024-11-04 23:19:00* · [`islandlk`](http://island.lk/aditya-among-conde-nast-travellers-best-in-rest-of-asia-hotels-2024/) · `en`
+
+Condé Nast Traveller’s coveted Readers’ Choice Awards for 2024 named Aditya among the top two hotels in Sri Lanka in the Rest of Asia category. With a near-perfect score of 98.0, which represents the overall average levels of satisfaction, the all-suite property, which was called the ‘boutique pioneer’ by Condé Nast Traveller, gained high marks for its cuisine, design, community investment, accessibility, and service while topping marks for its rooms.
+
+The suites, each of which is named after a deity, have décor that is en pointe in representing the hues and vibes of not just Sri Lanka, but the deity as well. Each has an inherent vibrancy in its color palette while also adding serenity and privacy to the property.
+
+...
+
+[Data](articles/cfe2e7cf.json)
+
+---
+
+### Sophos to acquire Secureworks to accelerate cybersecurity services and technology for organizations worldwide
+
+*2024-11-04 23:17:00* · [`islandlk`](http://island.lk/sophos-to-acquire-secureworks-to-accelerate-cybersecurity-services-and-technology-for-organizations-worldwide/) · `en`
+
+Sophos and Secureworks® (NASDAQ:SCWX), two global leaders of innovative security solutions for defeating cyberattacks, announced a definitive agreement for Sophos to acquire Secureworks. The all-cash transaction is valued at approximately $859 million. Sophos is backed by Thoma Bravo, a leading software investment firm.
+
+Sophos’ experience and reputation as a leading provider of managed security services and end-to-end security products, combined with Secureworks’ security operations expertise transformed into the Taegis™ platform, is expected to further deliver complementary advanced MDR and XDR solutions for the benefit of their global customer bases. Together, they will help strengthen the resilience and security posture of global organizations of any size with a combination of security controls, AI, world-class threat intelligence, and two teams with decades of cybersecurity expertise.
+
+...
+
+[Data](articles/3eb4b6fa.json)
+
+---
+
+### DFCC Bank continuing to look for investors for its 50 percent stake in Acuity Partners
+
+*2024-11-04 23:15:00* · [`islandlk`](http://island.lk/dfcc-bank-continuing-to-look-for-investors-for-its-50-percent-stake-in-acuity-partners/) · `en`
+
+DFCC Bank is looking for an investor to divest its 50 percent share in Acuity Partners after its deal for its sale did not go through as announced earlier.
+
+In September, the DFCC announced it would sell its 50 percent stake in Acuity Partners (Pvt) Ltd to Hatton National Bank for Rs 7 billion. Acuity Partners (Pvt) Ltd is a joint venture between DFCC Bank and Hatton National Bank.
+
+“Further to the announcement dated 2 September 2024…, DFCC now wishes to announce that it is no longer proceeding with the transaction, DFCC said in a disclosure to the CSE last week.
+
+“Accordingly, Acuity Partners (Pvt) Ltd will continue to operate as a joint venture of DFCC Bank and Hatton National Bank, market analysts said.
+
+...
+
+[Data](articles/e3997fbb.json)
 
 ---
 
@@ -2135,167 +2267,5 @@ The NWSDB has requested people residing in the aforementioned areas to take the 
 [Data](articles/ea59e0e9.json)
 
 [Extended Data](ext_articles/ea59e0e9.ext.json)
-
----
-
-### AFTERMATH OF THE 1953 HARTAL
-
-*2024-11-04 15:18:00* · [`islandlk`](http://island.lk/aftermath-of-the-1953-hartal/) · `en`
-
-Motion of No Confidence in Government (Hansard of 1st September 1, 1953)
-
-(Speech made by Dr. NM Perera published in his birth centenary memorial volume)
-
-Dr. Perera:Before I deal with the subject, I want to say a word about the Hon. Prime Minister and his references to my good friend the Leader of the Opposition (Mr. Bandaranaike). My friend the Prime Minister is not here. I hope that he has not had a recurrence of his affliction. Today while he was on the first part of his speech, he reminded me of the father; it was the same technique, the same type of personal attack on the Leader of the Opposition. I remember the last motion of No Confidence that we debated. I think it was moved just before the dissolution of Parliament, and it was one of the last debates which was attended by my good friend, the late Rt. Hon. D.S. Senanayake. He spoke in that debate and it was a tirade against my good friend the Leader of the Opposition.
-
-...
-
-[Data](articles/67c660e6.json)
-
-[Extended Data](ext_articles/67c660e6.ext.json)
-
----
-
-### Indo-Sri Lanka Agreement-1987 as JR Jayewardene saw it
-
-*2024-11-04 15:14:00* · [`islandlk`](http://island.lk/indo-sri-lanka-greement-1987-as-jr-jayewardene-saw-it/) · `en`
-
-“A few days later, at a public lunch, when I was congratulated on my escape by a speaker in these words, “Blessed are the Peace-makers for they shall soon be in Heaven,” I replied, “Rajiv missed Heaven by a few inches, and I missed it by a few seconds!”
-
-The Indo-Sri Lanka Agreement of 1987 was signed by Prime Minister Rajiv Gandhi and myself as President on July 29, 1987. It was a Peace Treaty and brought Peace, till one group of the LTTE broke it in October 1987. India then had to oppose them till March 1990, when the Sri Lanka Government took over and this led to a bloody war with the LTTE which still continues (when this was written).
-
-...
-
-[Data](articles/15c4dad6.json)
-
-[Extended Data](ext_articles/15c4dad6.ext.json)
-
----
-
-### Ukraine soldiers waiting for US election results
-
-*2024-11-04 15:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197866) · `ta`
-
-Ukrainian soldiers anxiously await US election results, hoping Kamala Harris will continue military aid. Donald Trump's presidency may limit support, potentially impacting Ukraine's war efforts against Russia.
-
-🟩
-
-Ukraine's International, who is cleaning the broken mirror of the outlet, knows that the future of his country is in the hands of American voters who are 5000 miles away.
-
-We hope that a woman named Kamalahariis will win and help us.
-
-This is the usual event in Jaboria.
-
-"We are worried about the election results," he says. "We want to defeat the enemy."
-
-The victory for Ukraine, which has the smallest opportunity to win the war, depends on the US support.
-
-In this area, the Ukraine responded in 2023, hoping to remove the Russian occupants.
-
-However, the situation of Ukraine has now become impossible to focus on focusing.
-
-Bombs and missiles are attacking Ukraine cities.
-
-Democratic candidate Kamala Haris has said that if he wins the election, military aid to Ukraine will continue, while his powers may be limited by the US Congress in the hands of the Republican Party.
-
-If Donald Trump is again president, it is difficult for Ukraine to continue the current $ 50 billion military assistance.
-
-...
-
-[Data](articles/91a2061e.json)
-
-[Extended Data](ext_articles/91a2061e.ext.json)
-
----
-
-### Who Can Better Walk the Talk? A Fourfold Strategy To Navigate Sri Lanka’s Political Landscape
-
-*2024-11-04 15:07:23* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/who-can-better-walk-the-talk-a-fourfold-strategy-to-navigate-sri-lankas-political-landscape/) · `en`
-
-“It is perfectly natural that in a revolution which affects, and is bound to affect, the deepest foundations of life and broadest mass of the population, not a single party, not a single government, no matter how close it may be to the people, can possibly embrace all aspects of life at once.” ~ V.I. Lenin
-
-Immediately after its victory in the Presidential Election, the National Power of the People (NPP), led by the Marxist-Leninist JVP (Janatha Vimukthi Peramuna), introduced what it calls the “tiniest cabinet ever,” consisting of just three ministers, including President Anura Kumara Dissanayake and Prime Minister Harini Amarasuriya. This minimalist governance model has drawn mixed reactions, coinciding with an immediate call for general elections to fill a full 225-member parliament. Many see this move as an attempt to solidify power before public support potentially wanes.
-
-...
-
-[Data](articles/8e21a70b.json)
-
-[Extended Data](ext_articles/8e21a70b.ext.json)
-
----
-
-### Trump rally at Madison Square Garden, NY, welcome October surprise for Democrats
-
-*2024-11-04 15:04:00* · [`islandlk`](http://island.lk/trump-rally-at-madison-square-garden-ny-welcome-october-surprise-for-democrats/) · `en`
-
-Democracy under threat, as Trump sows doubt on election integrity
-
-President Ronald Reagan, “The Great Communicator” was famous for conceptualizing the American Dream, in a loose paraphrasing of the words enshrined in the Statue of Liberty.
-
-Concluding his farewell speech in 1988, Reagan said, “I’ve spoken of the Shining City all my political life….But in my mind, it was a tall, proud city built on rocks, stronger than oceans, wind-swept, God blessed, and teeming with people of all kinds living in harmony and peace; a city with free ports that hummed with commerce and creativity. And if there had to be city walls, the walls had doors and the doors were open to anyone with the will and heart to get here. That’s how I saw it, and see it still.
-
-...
-
-[Data](articles/91ee4331.json)
-
-[Extended Data](ext_articles/91ee4331.ext.json)
-
----
-
-### A group of accused associated with the clash at Magazine Prison
-
-*2024-11-04 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202894) · `si`
-
-Colombo High Court orders 67 defendants to pay daily fines after prison clash. Judge imposes Rs 7000 per defendant daily and additional Rs 122,000 each for injuries.
-
-🟩
-
-The Colombo High Court today (04) has ordered the allegation of 24 defendants who have been assaulted by a group of conflicts in the Magazine Prison.
-
-Thereafter the accused of 43 defendants had agreed to accept the charges and were seriously injured in the incident.
-
-Accordingly, the judge has ordered that each defendants should pay Rs 7,000 each day.
-
-In addition, the judge has ordered each accused to pay Rs. 122,000 each for over Rs.
-
-◼️
-
-[Data](articles/616ea032.json)
-
-[Extended Data](ext_articles/616ea032.ext.json)
-
----
-
-### Abrogation of the B-C Pact and what followed
-
-*2024-11-04 14:55:00* · [`islandlk`](http://island.lk/abrogation-of-the-b-c-pact-and-what-followed/) · `en`
-
-(Excerpted from Render Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
-
-Yet, as was to happen over and over again in the country’s politics, the vocal minority, in this case the hardliners finally won the day (in getting SWRD to abrogate the B-C Pact). In October 1957 the UNP under the leadership of J R Jayewardene set out on a march from Colombo to Kandy to protest against the pact. On the first day they covered 11 miles amidst some obstruction and skirmishes with government sponsored elements.
-
-...
-
-[Data](articles/b4fce6f5.json)
-
-[Extended Data](ext_articles/b4fce6f5.ext.json)
-
----
-
-### Between Diplomacy and Dissent: Reflections on an Intellectual Rebel
-
-*2024-11-04 14:53:00* · [`islandlk`](http://island.lk/between-diplomacy-and-dissent-reflections-on-an-intellectual-rebel/) · `en`
-
-[Foreword excerpted from ‘Interventions: Selected Political Writings’, by Dayan Jayatilleka]
-
-‘The only way to deal with an unfree world is to become so free, that your very existence is an act of rebellion.’– Albert Camus
-
-It is with great honor and profound admiration that I write this foreword for Interventions, the most recent publication of my mentor and friend, Dr. Dayan Jayatilleka. As is often the case with Dr. Jayatilleka’s literacy works (one would even say ‘always’ the case), this anthology compels the reader to engage in an intellectual gymnastic that pushes the boundaries of conventional thinking -an exercise that he, himself, has excelled in since a very young age.
-
-...
-
-[Data](articles/e56c3100.json)
-
-[Extended Data](ext_articles/e56c3100.ext.json)
 
 ---

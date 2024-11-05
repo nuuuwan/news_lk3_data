@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 09:12:45**
+As of **2024-11-05 09:24:27**
 
 ## Newspaper Stats
 
-*Scraped **53,090** Articles*
+*Scraped **53,094** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,74 @@ economynextcom | 3,211
 dailyftlk | 3,627
 dailymirrorlk | 4,733
 adalk | 4,951
-adaderanalk | 6,315
+adaderanalk | 6,317
 tamilmirrorlk | 7,385
 virakesarilk | 8,569
-adaderanasinhalalk | 9,253
+adaderanasinhalalk | 9,255
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,090 (100.0%) of 53,090 articles have been extended.
+53,090 (100.0%) of 53,094 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### Current govt. simply continues policies of previous administrations – Dilith
+
+*2024-11-05 09:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103166/current-govt-simply-continues-policies-of-previous-administrations-dilith-) · `en`
+
+Leader of the ‘Sarvajana Balaya’ alliance, Gampaha District Parliamentary candidate, Entrepreneur Dilith Jayaweera states that the current government lacks a progressive vision and simply continues the policies of previous administrations.
+
+Addressing a public rally held in Ratnapura, Jayaweera said: “Ranil Wickremesinghe, who is undoubtedly a skilled and seasoned politician, now suggests to send experienced people for leadership. But his vast experience comes with consequences.”
+
+“He’s a politician so adept that he’s managed to erode the foundations of major political parties—those built by Mr. Senanayake, Mr. Bandaranaike, and Wijeweera. Today, he seems pleased with what he’s accomplished, almost as if he’s reveling in it.”
+
+...
+
+[Data](articles/a1af0b09.json)
+
+---
+
+### අපි අපේ දේශපාලනය කරන්න බයවෙන්න ඕන නෑ - දිලිත්
+
+*2024-11-05 09:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202920) · `si`
+
+වත්මන් ආණ්ඩුව පැවති ආණ්ඩු ක්‍රියාත්මක කළ වැඩපිළිවෙළ එලෙසම ක්‍රියාත්මක කරමින් සිටින බව සර්වජන බලයේ නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ රට ඉදිරියට ගෙනයාම සඳහා නව දැක්මක් වත්මන් ආණ්ඩුවට නොමැති බවය.
+
+රත්නපුර ප්‍රදේශයේ පැවති ජනරැලියකට එක්වෙමින් ව්‍යවසායක දිලිත් ජයවීර මහතා එම අදහස් පළ කළේය.
+
+"රනිල් වික්‍රමසිංහ කියන ඒ කෘතහස්ත දේශපාලඥයා සහ පළපුරුදු දේශපාලඥයා යෝජනා කරනවා පළපුරුදු අය එවන්න කියලා. ඔහු ඉතාමත්ම පළපුරුදු දේශපාලඥයෙක්. ඔහු කොතරම් පළපුරුදු කිව්වොත් ඩී. ඇස්. සේනානායක මහතා හදපු පක්ෂය, බණ්ඩාරනායක මහත්තයා හදපු පක්ෂය, වීජේවීර හදපු පක්ෂය... මේ පක්ෂ ඔක්කොම විනාශකරපු, නැත්තටම නැත්කරපු කෘතහස්ත දේශපාලඥයෙක්. ඔහු අද හිනාවෙවී ඉන්නවා කොහෙමද මම කරපු වැඩේ කියලා. තවපොඩ්ඩෙන් සර්වජන බලයටත් වැඩේ දෙනවා යන්නතම් බේරුනේ."
+
+...
+
+[Data](articles/388ae690.json)
+
+---
+
+### Karapitiya Hospital’s doctors launch indefinite strike
+
+*2024-11-05 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103165/karapitiya-hospitals-doctors-launch-indefinite-strike-) · `en`
+
+The doctors at the Karapitiya National Hospital have launched an indefinite strike starting from 8:00 a.m. today (Nov. 5), in protest over the alleged misconduct by a specialist doctor in the hospital’s oncology unit.
+
+This action follows an earlier token strike over the same issue, with doctors expressing frustration over the lack of a solution from hospital authorities.
+
+The Co-Secretary of the Government Medical Officers’ Association (GMOA) Dr. Asanka Konara stated that the strike aims to pressure authorities into addressing long-standing concerns about the specialist doctor’s behavior.
+
+He noted that despite previous strike actions, no effective solutions have been provided, prompting the doctors to escalate their protest.
+
+When inquired by Ada Derana, Director of Karapitiya Hospital Dr. S.P.U.M. Ranga confirmed that the Ministry of Health has decided to transfer the specialist doctor in question to the Maharagama Cancer Hospital.
+
+...
+
+[Data](articles/402e03a9.json)
+
+---
 
 ### Special commodity levy on imported sugar extended
 
@@ -51,6 +105,22 @@ He pointed out that while the government has publicly committed to easing the ta
 [Data](articles/8e8ebb75.json)
 
 [Extended Data](ext_articles/8e8ebb75.ext.json)
+
+---
+
+### නව දේශපාලන සංස්කෘතියක් රටට හඳුන්වා දෙන බව ජනපති කියයි
+
+*2024-11-05 08:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202919) · `si`
+
+රට තුළ පවතින දේශපාලන සංස්කෘතිය වෙනස් කිරීම ජාතික ජන බලවේගයේ අපේක්ෂාව බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජනාධිපතිවරයා පෙන්වා දෙන්නේ, දේශපාලනය සඳහා යම් ප්‍රමිතියක් ක්‍රියාත්මක විය යුතු බවය.
+
+මොනරාගල ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/7226eb0d.json)
 
 ---
 
@@ -2247,91 +2317,5 @@ Joining a press conference held in Colombo, she mentioned that the new system wi
 [Data](articles/6806c5e5.json)
 
 [Extended Data](ext_articles/6806c5e5.ext.json)
-
----
-
-### Sri Lanka CEB opts for reforms without privatization under new government
-
-*2024-11-04 16:31:00* · [`economynextcom`](https://economynext.com/186028-186028/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) under the new government led by President Anura Kumara Dissanayake has opted for reforms without privatizing the utility service provider in line with the “mandate received by the current President”, the CEB said.
-
-The proposed CEB reforms were strongly opposed by Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) trade unions in the past citing the past government was trying the sell the state asset to the private sector.
-
-Reforms in CEB is a key commitment Sri Lanka has made to the International Monetary Fund (IMF) in return for a $3 billion bailout package that was approved in 2023 following the island nation suffering an unprecedented economic crisis in 2022.
-
-“CEB had to adopt to a reform process proposed by external mechanisms last year as a result of non-implementation of internal reforms within CEB for decades,” the CEB said in a statement.
-
-...
-
-[Data](articles/3fef813c.json)
-
-[Extended Data](ext_articles/3fef813c.ext.json)
-
----
-
-### Sri Lanka CEB opts for reforms without privatization under new government
-
-*2024-11-04 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-ceb-opts-for-reforms-without-privatization-under-new-government-186028/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board (CEB) under the new government led by President Anura Kumara Dissanayake has opted for reforms without privatizing the utility service provider in line with the “mandate received by the current President”, the CEB said.
-
-The proposed CEB reforms were strongly opposed by Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP) trade unions in the past citing the past government was trying the sell the state asset to the private sector.
-
-Reforms in CEB is a key commitment Sri Lanka has made to the International Monetary Fund (IMF) in return for a $3 billion bailout package that was approved in 2023 following the island nation suffering an unprecedented economic crisis in 2022.
-
-“CEB had to adopt to a reform process proposed by external mechanisms last year as a result of non-implementation of internal reforms within CEB for decades,” the CEB said in a statement.
-
-...
-
-[Data](articles/dc1cb8f1.json)
-
-[Extended Data](ext_articles/dc1cb8f1.ext.json)
-
----
-
-### Diagnoric of the Breath
-
-*2024-11-04 16:28:19* · [`adalk`](https://www.ada.lk/breaking_news/භාග්‍යාට-වූ-අභාග්‍ය/11-412846) · `si`
-
-Here's a 200-character summary:
-
-
-
-23-year-old Partya Subashini Ratnayake dies after being hit by a train in Minuwangoda. Witness Tila Jayasekera describes the incident and aftermath. Death inspector confirms the cause of death. Autopsy report submitted to hospital police.
-
-🟩
-
-"When I had children, like my own children, I was able to jump every day, when I was receiving treatment at the Minuwangoda area in Minuwangoda, Galle yesterday, said:
-
-The deceased is a 23 year old girl named Partya Subashini Ratnayake. The event was held at the Anuradhapura Hospital, Death Inspector Chandrasena Labage at the National Hospital's Judicial Medical Department.
-
-Tila Jayasekera, the girl who was killed by witnessing, said:
-
-...
-
-[Data](articles/a7f1c9c8.json)
-
-[Extended Data](ext_articles/a7f1c9c8.ext.json)
-
----
-
-### 2012 Magazine Prison clashes: 24 defendants granted bail
-
-*2024-11-04 16:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103154/2012-magazine-prison-clashes-24-defendants-granted-bail) · `en`
-
-The Colombo High Court today (04) granted bail for 24 individuals who had been remanded on the charges of assaulting a group of people and causing damage to property at the Borella New Magazine Prison during clashes in 2012.
-
-During the trial, 43 defendants involved in the incident pleaded guilty to the charges, Ada Derana reporter said.
-
-Accordingly, the accused were ordered to pay Rs. 300,000 in compensation to Nihal Gunawardena, who was seriously injured in the incident. The judge ordered each defendant to pay Rs. 7,000 as compensation on the next court date.
-
-Additionally, the defendants were ordered to pay Rs. 122,000 each for the damages to the property, totaling to over Rs. 5.2 million, caused to the Magazine Prison during the clashes. The compensation payments were ordered to be completed by December 13, 2024.
-
-◼️
-
-[Data](articles/33597305.json)
-
-[Extended Data](ext_articles/33597305.ext.json)
 
 ---

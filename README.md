@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 00:00:15**
+As of **2024-11-06 00:14:17**
 
 ## Newspaper Stats
 
-*Scraped **53,232** Articles*
+*Scraped **53,235** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
 tamilmirrorlk | 7,408
-virakesarilk | 8,598
+virakesarilk | 8,601
 adaderanasinhalalk | 9,280
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,232 (100.0%) of 53,232 articles have been extended.
+53,235 (100.0%) of 53,235 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,32 @@ The Criminal Investigation Department arrested the suspect on the 4th and was 38
 [Data](articles/88b2302c.json)
 
 [Extended Data](ext_articles/88b2302c.ext.json)
+
+---
+
+### If Pillaiyan is not present, they will carry out the process of correcting him - K.Innaraja
+
+*2024-11-05 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197982) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+K.Innaraja warns against attacking Pillaiyan's supporters. LTTE contests parliamentary elections in Batticaloa, Jaffna, and Trincomalee districts. Female candidate and her husband attacked; husband hospitalized. Police response criticized.
+
+🟩
+
+The leader of the Liberation Tigers of Tamil Eelam (LTTE), K.Inbarajah, said that if Pillaiyan's supporters were attacked by his candidate and her husband, they should carry out the process of correcting him.
+
+Pillaiyan is still not. He also warned that he would have to show him who was the LTTE. Commenting on this, Inbaraja said, "On behalf of the Rehabilitated LTTE. We are contesting parliamentary elections in the Batticaloa district, Jaffna District, Vannimavattam, Trincomalee District.
+
+Our female candidate has been attacked at Nochimunai, Batticaloa on the night of 31 10 2024. The husband's husband is also attacked. Is at the hospital until today. The attacker is the ex -militant. Dileepan Busnini has asked why the four attackers come home and support the rehabilitated LTTE party.. The husband has said that it is our choice.
+
+...
+
+[Data](articles/7607ba49.json)
+
+[Extended Data](ext_articles/7607ba49.ext.json)
 
 ---
 
@@ -121,6 +147,30 @@ During the war, the people of Sri Lanka saw the North as a battlefield and the T
 [Data](articles/724962a8.json)
 
 [Extended Data](ext_articles/724962a8.ext.json)
+
+---
+
+### Sasikala Raviraj's car attack
+
+*2024-11-05 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197981) · `ta`
+
+Sasikala Raviraj, Jaffna DNTA electoral candidate, attacked while campaigning. Car targeted by unidentified persons. Incident reported to Chavakachcheri police. Window of her house previously vandalized. Police investigation ongoing.
+
+🟩
+
+Jaffna of Democratic Tamil National Alliance. Electoral district candidate Sasikala Raviraj has been attacked by unidentified persons on a car traveling
+
+The car was attacked when he was traveling in a car for campaigning from his home on Tuesday evening.
+
+Police are investigating the incident as a complaint has been lodged at the Chavakachcheri police station.
+
+Meanwhile, a few days ago, Sasikala Raviraj's window of the window of the house was broken and stones were attacked on Tuesday (05).
+
+◼️
+
+[Data](articles/26dfa0e2.json)
+
+[Extended Data](ext_articles/26dfa0e2.ext.json)
 
 ---
 
@@ -893,6 +943,30 @@ Accordingly, the Court of Appeal, which accepted the request, has been granted p
 [Data](articles/9e5dd466.json)
 
 [Extended Data](ext_articles/9e5dd466.ext.json)
+
+---
+
+### Ranil Wickremesinghe has no use to conflict with Ranil Wickremesinghe without knowing the cabinet procedure - Sagala Ratnayake
+
+*2024-11-05 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197968) · `ta`
+
+Sagala Ratnayake criticizes PM Wickremesinghe over cabinet procedure ignorance. He claims Wickremesinghe lacks political experience, unaware of proper procedures. The statement highlights Wickremesinghe's supposed lack of knowledge about cabinet processes and his alleged inability to effectively manage the government.
+
+🟩
+
+The new Democratic Front's Colombo district candidate Sagala Ratnayake said that Prime Minister Harini, who is unaware of the procedure of submitting the Cabinet paper, has no use to conflict with Ranil Wickremesinghe on the salary increase of public servants.
+
+He was speaking at a press conference held at the New Democratic Front's election office in Colombo on Tuesday (05).
+
+The Cabinet paper on the increase of salary of public servants has been submitted according to the state procedure. Accordingly, the Udaya Seneviratne Committee was formed to resolve the salary increase and pay conflicts of public servants.
+
+The committee had recommended that public servants be made an increase of 24 percent salary increase. However, when the Treasury said that the salary could not be increased, the Udaya Seneviratne Group came to the consensus with the Treasury.
+
+...
+
+[Data](articles/0fafc2b6.json)
+
+[Extended Data](ext_articles/0fafc2b6.ext.json)
 
 ---
 
@@ -2409,89 +2483,5 @@ He noted that despite previous strike actions, no effective solutions had been p
 [Data](articles/25632a06.json)
 
 [Extended Data](ext_articles/25632a06.ext.json)
-
----
-
-### Commission notification to use temples as polling centers
-
-*2024-11-05 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202928) · `si`
-
-Elections Commission uses 2,263 temples as polling centers for general election. Some temples unavailable due to COVID-19 restrictions. Meeting scheduled to discuss election activities. Postal voting process completed, official voter papers distributed.
-
-🟩
-
-The Elections Commission says that although the day after the general election, the major delegates have not been reluctant to use temples as polling centers.
-
-Accordingly, 2,263 temples will be used as polling stations in this year's general election.
-
-The Elections Commission states that although the drug is conducted due to the conduct of the epidemic obstacles, it has been inquired through district selected officers.
-
-Chairman of the Elections Commission RMAL Ratnayake, who explained the situation,
-
-"On November 14, 2024, the Supreme Court has not taken the hearing of the Supreme Court without the hearing of the Supreme Court. Accordingly, the general election will be held on November 14.
-
-...
-
-[Data](articles/b951d0b9.json)
-
-[Extended Data](ext_articles/b951d0b9.ext.json)
-
----
-
-### Electricity Board will not be privatized
-
-*2024-11-05 11:25:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-தனியார்-மயமாக்கப்படாது/175-346589) · `ta`
-
-Ceylon Electricity Board rejects privatization, plans reforms based on new president's orders. Focuses on public input, maintains state ownership, aims for low-cost electricity within 5 years. Establishes employee representation committee for future energy ministry efforts.
-
-🟩
-
-The Ceylon Electricity Board (CEB) said that formal reforms in the energy sector will be introduced in accordance with the social change order received by the new President of Sri Lanka.
-
-CEB issued a statement saying that several attempts to amend the Electricity Act will be made through the advice of comprehensive public and shareholders without privatizing state -owned Electricity Board's assets.
-
-CEB further stated that in the next five years, a strong single-manner has been established with an independent operating system and non-interrupt production, exchange and distribution licenses under the market for the lowest electricity cost in the region.
-
-The proposal has been proposed to create a committee representing employees at all levels to get the active contribution to the future efforts of the Ministry of Energy.
-
-The announcement was issued on October 23, 2024 by the Chairman and Directors of the CEB, with the Committee of the CEB staff on October 23, 2024.
-
-◼️
-
-[Data](articles/d8bd66d9.json)
-
-[Extended Data](ext_articles/d8bd66d9.ext.json)
-
----
-
-### The Hindu - Sikky spreads?
-
-*2024-11-05 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202927) · `si`
-
-India-Canada tensions rise after anti-Sikh killing. Canadian PM accuses India. Sikh group protests in Brampton. Indian PM warns against undermining rule of law. Three arrested over Hindu temple incident. Hindu temples vandalized in Canberra, Australia.
-
-🟩
-
-Indian embassies in Canada says that bullying in Canada is a cowardly acting act.
-
-After the assassination of anti-Indian Sikh, in Canada, was ripened between the two countries.
-
-Canada Prime Minister Justin Trodedo accused Indian government regarding the murder.
-
-Meanwhile, a group of Sikh has acted aggressively in Brampton, Canada, Canada.
-
-The Indian Prime Minister has said in his X account, "says" India cannot undermine. We hope the government is saving the rule of law, ".
-
-The city police authorities said that three were arrested in connection with the Hindu Kovil.
-
-Meanwhile, international media reports that several Hinduicles in Canberra, Australia have recently damaged unidentified people.
-
-Ping boxes in the temples had been abducted by those people.
-
-◼️
-
-[Data](articles/63a4de77.json)
-
-[Extended Data](ext_articles/63a4de77.ext.json)
 
 ---

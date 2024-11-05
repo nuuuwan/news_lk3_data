@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 16:24:49**
+As of **2024-11-05 16:40:10**
 
 ## Newspaper Stats
 
-*Scraped **53,175** Articles*
+*Scraped **53,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 4,961
 adaderanalk | 6,334
 tamilmirrorlk | 7,399
 virakesarilk | 8,588
-adaderanasinhalalk | 9,269
+adaderanasinhalalk | 9,270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,175 (100.0%) of 53,175 articles have been extended.
+53,175 (100.0%) of 53,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
+
+### රජයේ නිල නිවාස බාර නොදුන් අයට නඩු
+
+*2024-11-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202936) · `si`
+
+රජයේ නිල නිවාස මෙතෙක් බාර නොදුන් අයට එරෙහිව නඩු පැවරීමට තීරණය කර ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+බොහෝ මන්ත්‍රීවරුන් මහජනතාවගේ දේපොළ තම පෞද්ගලික පරිහරණය සඳහා යොදාගෙන ඇති බව ජනාධිපතිවරයා සඳහන් කළේය.
+
+අම්පාර ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
+
+...
+
+[Data](articles/6cd23cb6.json)
+
+---
 
 ### Order to continue the investigation against Poojith Hemasiri
 
@@ -2415,27 +2431,5 @@ National Leader Velupillai Prabhakaran does not accept the thirteenth reform of 
 [Data](articles/a4fab442.json)
 
 [Extended Data](ext_articles/a4fab442.ext.json)
-
----
-
-### We are the Tamil Social Service Union. Support to the tigers
-
-*2024-11-05 01:52:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாம்-தமிழர்-சமூக-சேவை-ஒன்றியம்-த-ம-வி-புலிகளுக்கு-ஆதரவு/175-346571) · `ta`
-
-Tamil Social Service Union supports LTTE in Eastern Province elections. Focuses on education, social services, and addressing Tamil issues. Advocates voting for LTTE candidates to protect Tamil rights and interests.
-
-🟩
-
-In the Eastern Province, we establish the Tamil Social Service Union and we shoulder the shoulder whenever the problems of the Tamils ​​come up.. We are carrying out our services on various issues including education. "We have expanded our services in the East and the North," said Gunasekaram Dineshkumar, president of the East of the Tamil Social Service Union.
-
-There are currently political issues on the Eastern soil. We should not engage in politics, but we decided not to carry out our services only in social service. But we have been forced to give our support to the political side of the time.
-
-Thus, in line with the resolution of our Tamil Social Service Union, we kept many of my demands to many political leaders in the East.. The leader of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) promised to solve the demand made by our community.
-
-...
-
-[Data](articles/8185b62c.json)
-
-[Extended Data](ext_articles/8185b62c.ext.json)
 
 ---

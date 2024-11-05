@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 04:24:30**
+As of **2024-11-06 04:40:26**
 
 ## Newspaper Stats
 
-*Scraped **53,243** Articles*
+*Scraped **53,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 544
 bbccomsinhala | 544
 islandlk | 3,181
 economynextcom | 3,226
-dailyftlk | 3,627
+dailyftlk | 3,628
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,412
+tamilmirrorlk | 7,413
 virakesarilk | 8,605
 adaderanasinhalalk | 9,280
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,243 (100.0%) of 53,243 articles have been extended.
+53,245 (100.0%) of 53,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### RCSSL AGM and dinner tonight at NH Collection, Colombo
+
+*2024-11-06 04:15:27* · [`dailyftlk`](https://www.ft.lk/news/RCSSL-AGM-and-dinner-tonight-at-NH-Collection-Colombo/56-768862) · `en`
+
+The Royal Commonwealth Society, Sri Lanka (RCSSL) will hold its Annual General Meeting tonight at NH Collections Colombo 3, from 6 p.m. and will be followed by a ticketed dinner for all RCSSL members and the public.
+
+The Royal Commonwealth Society (RCS) headquartered in London is a network of individuals and organisations committed to improving the lives and prospects of Commonwealth citizens across the world.
+
+The RCS is spread across the world, in Africa, the Americas, the Pacific, Europe and Asia. There are 8 Commonwealth countries in Asia. They are Bangladesh, Brunei, Darrusalam, India, Malaysia, Maldives, Pakistan, Singapore, and Sri Lanka.
+
+...
+
+[Data](articles/2d0d8dd3.json)
+
+[Extended Data](ext_articles/2d0d8dd3.ext.json)
+
+---
 
 ### The body of a male at the old bus station in Vavuniya
 
@@ -85,6 +103,32 @@ In the under -15 category. V. and Vennapu Thirukkudumba KM are eligible to play 
 [Data](articles/db200627.json)
 
 [Extended Data](ext_articles/db200627.ext.json)
+
+---
+
+### People have lost confidence in the president
+
+*2024-11-06 01:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மீது-மக்கள்-நம்பிக்கை-இழந்துள்ளனர்/175-346634) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Public trust in president wanes. Presidential candidate Anuragumara Dissanayake promises food price cuts but fails to deliver. Sajith Premadasa criticizes lack of action on fuel prices, electricity bills, and taxes. JVP vows against IMF slavery, promising policy changes under new leadership.
+
+🟩
+
+People compare what the presidential candidate Anurakumara Dissanayake has said and what he is doing. Although he says he will reduce the prices of essential foods. United People's Power President Sajith Premadasa said that even rows of coconuts are also found.
+
+Can determine the minimum price using the executive powers found to the president. But he did not do so. He also said that fuel prices, electricity bills and taxes will be reduced. But Sajith Premadasa said that they had not happened.
+
+A meeting with the people of the Fort, Obeesekegarapura constituency was held on Monday (04) in the arrangement of the United People's Power Colombo District Candidate Dr. Harsha de Silva.. He said this while addressing it.
+
+...
+
+[Data](articles/c4830027.json)
+
+[Extended Data](ext_articles/c4830027.ext.json)
 
 ---
 
@@ -2453,55 +2497,5 @@ The police said that the son of Kudu Selvi is the son of Kudu Selvi, police said
 [Data](articles/7f9765e8.json)
 
 [Extended Data](ext_articles/7f9765e8.ext.json)
-
----
-
-### Legal action against Ravi Seniviratna Shani Abayasekara - Legal action against those who defrauded
-
-*2024-11-05 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197929) · `ta`
-
-Legal action against Ravi Seniviratna and Shanani Abayasekara for fraud. Ministry of Public Security investigates unreasonable recommendations. Former president appoints commission due to allegations. Ravi Seniviratne forms organization supporting national people's power. Three-member committee established to investigate Sunday attacks.
-
-🟩
-
-The Secretary of the Ministry of Public Security is reported to be taking legal action against the retired Senior Senior Principal Ravi Seniviratne CIT, the former director of the CIT, Retired Senior Principal Shanani Abayasekara.
-
-According to reports, legal action can be taken against those responsible for the recognition of the unreasonable recommendations made by the two against the two of them.
-
-The shocking details of why the former president has urgently appointed the group following the recent allegations against the two in a report on a politically -informed Sunday attack.
-
-The Commission has been created to avenge Raviseniviratna's denial of the refusal of a former president's appeal to work with him during the presidential election.
-
-Ravi Seniviratne has formed a retired police officers organization to support the national people's power.
-
-He refused to comment on Seniviratne as to whether he had been requested to support the previous government.
-
-...
-
-[Data](articles/cf3034e6.json)
-
-[Extended Data](ext_articles/cf3034e6.ext.json)
-
----
-
-### Suspect arrested for setting Rs. 5,000
-
-*2024-11-05 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202929) · `si`
-
-Man arrested for creating fake Rs. 5,000 notes. 38-year-old from Korattegoda. CID made arrest yesterday.
-
-🟩
-
-A man has been arrested by social media's note on the President's fake Rs. 5,000.
-
-The Criminal Investigations Department arrested the suspect yesterday.
-
-The suspect is a 38-year-old resident of Korathegoda, Koratta, Koratta, Koratta, Korathota, Korala.
-
-◼️
-
-[Data](articles/5f80452b.json)
-
-[Extended Data](ext_articles/5f80452b.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-05 16:40:10**
+As of **2024-11-05 16:57:19**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ adaderanasinhalalk | 9,270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,175 (100.0%) of 53,176 articles have been extended.
+53,176 (100.0%) of 53,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-05 (Tuesday)
 
-### රජයේ නිල නිවාස බාර නොදුන් අයට නඩු
+### Case for those who did not accept government quarters
 
 *2024-11-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202936) · `si`
 
-රජයේ නිල නිවාස මෙතෙක් බාර නොදුන් අයට එරෙහිව නඩු පැවරීමට තීරණය කර ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+President Anura Kumara Dissanayake says he has decided to prosecute the governmental quarters so far.
 
-බොහෝ මන්ත්‍රීවරුන් මහජනතාවගේ දේපොළ තම පෞද්ගලික පරිහරණය සඳහා යොදාගෙන ඇති බව ජනාධිපතිවරයා සඳහන් කළේය.
+The President said that many MPs have used the public property for their personal use.
 
-අම්පාර ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙම අදහස් පළ කළේය.
+Addressing a public meeting in Ampara, President Anura Kumara Dissanayake made these comments.
 
 ...
 
 [Data](articles/6cd23cb6.json)
+
+[Extended Data](ext_articles/6cd23cb6.ext.json)
 
 ---
 

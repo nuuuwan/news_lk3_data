@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 13:09:49**
+As of **2024-11-06 14:00:01**
 
 ## Newspaper Stats
 
-*Scraped **53,345** Articles*
+*Scraped **53,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,137 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,981
-adaderanalk | 6,354
-tamilmirrorlk | 7,429
+adalk | 4,982
+adaderanalk | 6,357
+tamilmirrorlk | 7,430
 virakesarilk | 8,619
-adaderanasinhalalk | 9,298
+adaderanasinhalalk | 9,299
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,345 (100.0%) of 53,345 articles have been extended.
+53,351 (100.0%) of 53,351 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### The assassination of Kempathpitiya Walawwa's assassination reveals
+
+*2024-11-06 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202967) · `si`
+
+Assassination of Kempathpitiya Walawwa: Wife and three others arrested. Murder occurred during robbery attempt. Police investigation led to arrests in Thimbabwila and Piliyandala. Suspects involved in drug addiction and financial issues. Case presented to Kegalle Magistrate court.
+
+🟩
+
+A wife and three others have been arrested in connection with the killing of the owner of the Kegalle and Kemupitiya Walawwa.
+
+The murder was carried out at the time, the police only had a sum of Rs.
+
+On October 27 last October, the neck was slaughtered by the owner of the Kampitiya Walawwa.
+
+There his wife was discovered by the police despite being tied.
+
+Accordingly, the Kegalle Division of the Criminal Investigation Department (CID) Chief Inspector Airbiskara was also present in two robberies in Dedigama and Warakapola areas.
+
+The suspects were also hiding in a house in Thimbabwila, Piliyandala.
+
+Accordingly, the police officers have been inspected of the house and two persons have been arrested there.
+
+Interviews have revealed that the beach went to rob this beach on the needs of the woman.
+
+Investigations have revealed that the suspect had taken three robbers with a driver who had taken three robbers with a driver who had been on their brother's car.
+
+...
+
+[Data](articles/2dc88bd8.json)
+
+[Extended Data](ext_articles/2dc88bd8.ext.json)
+
+---
+
+### Trump claims victory after Fox News projects he has won US presidency
+
+*2024-11-06 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103208/trump-claims-victory-after-fox-news-projects-he-has-won-us-presidency) · `en`
+
+Republican Donald Trump claimed victory in the 2024 presidential contest after Fox News projected that he had defeated Democrat Kamala Harris, which would cap a stunning political comeback four years after he left the White House.
+
+“America has given us an unprecedented and powerful mandate,” he said early on Wednesday to a roaring crowd of supporters at the Palm Beach County Convention Center.
+
+Other news outlets had yet to call the race for Trump, but he appeared on the verge of winning after capturing the battleground states of Pennsylvania, North Carolina and Georgia and holding leads in the other four, according to Edison Research.
+
+Harris did not speak to her supporters, who had gathered at her alma mater Howard University. Her campaign co-chair, Cedric Richmond, briefly addressed the crowd after midnight, saying Harris would speak publicly on Wednesday.
+
+...
+
+[Data](articles/899fcc95.json)
+
+[Extended Data](ext_articles/899fcc95.ext.json)
+
+---
+
+### US President's Election: Donald Trump Wins
+
+*2024-11-06 13:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-அதிபர்-தேர்தல்-டொனால்ட்-ட்ரம்ப்-வெற்றி/50-346665) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Donald Trump wins US presidency as 45th president, not 47th. He leads Republican Party and receives most votes in election.
+
+🟩
+
+Donald Trump, who is contesting for the Republican Party of the United States, has won the highest number of votes as the 47th president.
+
+◼️
+
+[Data](articles/3b9ae042.json)
+
+[Extended Data](ext_articles/3b9ae042.ext.json)
+
+---
+
+### Four ex-Customs officers sentenced to 35 years RI over bribery charges
+
+*2024-11-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103206/four-ex-customs-officers-sentenced-to-35-years-ri-over-briberycharges) · `en`
+
+The Colombo High Court has sentenced four former officials of Sri Lanka Customs to 35 years of rigorous imprisonment each after they were found guilty of the charges of accepting a bribe of Rs. 125 million in 2015 to release bus spare parts imported for the Sri Lanka Transport Board (SLTB).
+
+Furthermore, Colombo High Court Judge Namal Balalle also fined each of them Rs. 125 million while delivering the verdict in the case this morning (06).
+
+The four former officials of Sri Lanka Customs were found guilty over the charges of accepting a bribe of Rs. 125 million from a businessman in the Panchikawatta area in 2015, in order to release from Customs a stock of bus spare parts imported to be supplied for the Sri Lanka Transport Board (SLTB).
+
+◼️
+
+[Data](articles/0b07e400.json)
+
+[Extended Data](ext_articles/0b07e400.ext.json)
+
+---
+
+### Republicans win control of US Senate, make gains in House
+
+*2024-11-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103207/republicans-win-control-of-us-senate-make-gains-in-house) · `en`
+
+Republicans won control of the U.S. Senate with victories in West Virginia and Ohio on Tuesday, ensuring Donald Trump’s party will control at least one chamber of Congress next year.
+
+Republicans also posted early gains as they battled to retain control of the House of Representatives.
+
+But Tuesday’s results ensured Republicans would be able to help Trump appoint conservative judges and other government personnel if he wins the presidential race, or block much of Democrat Kamala Harris‘s agenda if she prevails.
+
+Republican Jim Justice was projected to win an open Senate seat in West Virginia shortly after polls closed, taking over the seat previously held by Joe Manchin, a Democrat-turned-independent. In Ohio, Republican Bernie Moreno was projected to defeat incumbent Democrat Sherrod Brown.
+
+Those two victories ensured Republicans will hold at least a 51-49 majority in the Senate, with further gains possible as results in other competitive races come in.
+
+...
+
+[Data](articles/6da37225.json)
+
+[Extended Data](ext_articles/6da37225.ext.json)
+
+---
 
 ### Top Trump to the American presidential election?
 
@@ -207,6 +323,30 @@ Vijitha Herath said that the cost of managing and maintaining the Galle Face is 
 [Data](articles/5dab0b9d.json)
 
 [Extended Data](ext_articles/5dab0b9d.ext.json)
+
+---
+
+### 225 Parliament seats will not get the power
+
+*2024-11-06 12:03:03* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව්-ආසන-225ම-බලය--කිසිවෙකුට-ලැබෙන්නේ-නෑ/11-412885) · `si`
+
+Former President Maithripala Sirisena states that 225 Parliament seats won't grant power. He emphasizes supporting the government while opposing actions harmful to the nation.
+
+🟩
+
+Former President Maithripala Sirisena says the people are ready to make the people in 225 in Parliament at the general election.
+
+Former President Maithripala Sirisena expressed these comments this morning in Polonnaruwa this morning. Former President Maithripala Sirisena said,
+
+"In our constitution, no one can give 225 parliament to parliament to make a strong opposition in Parliament.
+
+Therefore, as opposition we support the government's best work, we will act every person who is committed against the people to the country.We ask the people. "
+
+◼️
+
+[Data](articles/7da86cb7.json)
+
+[Extended Data](ext_articles/7da86cb7.ext.json)
 
 ---
 
@@ -2153,145 +2293,5 @@ The Vanni District Ulama Conference was held in Mannar on Sunday (03), under the
 [Data](articles/ec8d0330.json)
 
 [Extended Data](ext_articles/ec8d0330.ext.json)
-
----
-
-### Rice shortage, unlikely to increase the price of rice - AL Randika
-
-*2024-11-06 01:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/197984) · `ta`
-
-Rice shortage may not boost prices due to government intervention and lack of consideration for rice production sub-products, says AL Randika. Hector Koppgaduwa predicts stable rice costs for 2024 seasons despite challenges.
-
-🟩
-
-Hector Koppgaduwa is unlikely to increase the price of rice and rice in the wake of the 2024 Yala and Maha season.
-
-At a media briefing in Colombo, the Director of the company Professor A.. L. He noted that the minimum intervention of the government on the purchase of Randika has led to the hike in rice prices.
-
-He said that when calculating the price of rice, the sub -products of the rice production are not considered.
-
-◼️
-
-[Data](articles/7cca0e24.json)
-
-[Extended Data](ext_articles/7cca0e24.ext.json)
-
----
-
-### We are competitive because we are splitting up
-
-*2024-11-06 01:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரிந்து-நிற்பதால்-நாமும்-போட்டி/175-346632) · `ta`
-
-Eros Democratic Front contests parliamentary elections due to Tamil National Party's declining support. Focuses on addressing local issues like wind power, sand mining, fishing, and farming problems in Mannar district.
-
-🟩
-
-The Eros Democratic Front has been supporting the Tamil National Party in the past and the Tamil National parties are now losing their support. This is why the Eros Democratic Front is contesting in the parliamentary elections this time.Said.
-
-He was speaking at a media briefing held in Mannar on Tuesday (05).
-
-The Tamil national parties are losing the support of the people.. In this case, the Eros Democratic Front is contesting in the Vanni as we get those votes so that the votes are not separated from other parties.
-
-The Tamil National parties have been facing economically problems as the Tamil national parties have been carrying out opposition politics over the past 30 years.
-
-“My father is the hero of the Eros Democratic Front. I am going to do some things that he cannot do through his struggle. That is why I am contesting in this election. ”
-
-...
-
-[Data](articles/75b1f3ef.json)
-
-[Extended Data](ext_articles/75b1f3ef.ext.json)
-
----
-
-### To understand the voting voting
-
-*2024-11-06 01:46:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்கு-போட்டியை-புரிந்து-கொள்ள-வேண்டும்/175-346631) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil Progressive Alliance urges Tamil voters to support their candidates strategically, understanding voting tactics and preferential votes to counter Sinhalese rejection.
-
-🟩
-
-This is the last week of the election campaign. Today the competition among different parties is over. In response, the majority of the ethnic candidates who are contesting in the telephone team today are looking for the worthy votes of Tamil voters. Those who have been rejected by the Sinhalese people in their constituency, get the Tamil preferential votes to compensate for the Sinhalese votes they lost there.. Tamil Progressive Alliance leader Mano Ganesan has urged Tamil voters to understand the voting voting and tactics.
-
-In the last presidential election, our candidate was won by Sajith Premadasa in Colombo, Gampaha, Kandy, Kegalle, Ratnapura and Badulla districts.. We have won the Nuwara Eliya District. These are the achievement of the Tamil Progressive Alliance.
-
-...
-
-[Data](articles/a068a896.json)
-
-[Extended Data](ext_articles/a068a896.ext.json)
-
----
-
-### 5000 rupee fake currency
-
-*2024-11-06 01:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/197983) · `ta`
-
-Arrested for producing fake 5000 rupee currency with presidential seal. Remanded till Nov 11 after posting on social media. Police investigation ongoing.
-
-🟩
-
-The suspect has been arrested for producing a 5000 rupee currency sheet inscribed by the president.
-
-The Kessewa Magistrate has ordered the suspect to be remanded until November 11, the suspect who posted a fake 5000 rupee coin on social media with the image of the president.
-
-Police Media Spokesperson Nihal Dalduwa said that the 38 -year -old suspect was arrested by the police in the area.
-
-It is noteworthy that the Criminal Investigation Department arrested the suspect on the 4th.
-
-◼️
-
-[Data](articles/e326f260.json)
-
-[Extended Data](ext_articles/e326f260.ext.json)
-
----
-
-### To achieve the government's goals, to be replaced
-
-*2024-11-06 01:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசின்-இலக்குகளை-அடைய-மாற்றப்பட-வேண்டும்/175-346630) · `ta`
-
-Sri Lanka's President Anura Kumara Dissanayake outlines key objectives: eliminating rural poverty, boosting economy and social status within 5 years. Emphasizes need for state official support and independent action against fraud and corruption.
-
-🟩
-
-President Anuragumara Dissanayake said the main objective of the government was to eliminate the poverty of the rural people over the next five years and raise the economy and social status of the rural people.
-
-The President made this statement during a discussion held at the Presidential Secretariat with the Sri Lanka Administrative Services Association on Tuesday afternoon.
-
-President Anura Kumara Dissanayake said that the support of state officials was essential for the success of the government's program.. The President pointed out that there is some gap between the purpose of the government and the manner in which public services operate and that the state administration has been acting so far in order to make the country's plan to develop the country.
-
-...
-
-[Data](articles/49b4ba32.json)
-
-[Extended Data](ext_articles/49b4ba32.ext.json)
-
----
-
-### 2024-11-05 (Tuesday)
-
-### The court's order
-
-*2024-11-05 23:11:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நீதிமன்றம்-கொடுத்த-உத்தரவு/175-346629) · `ta`
-
-Court orders suspect held till Nov 11 for posting fake 5000 rupee coin on social media. Suspect, 38, from Athurigiriya, Korathota, Mahadeniya areas. Arrested by Criminal Investigation Department on Oct 4.
-
-🟩
-
-The Magistrate of Negaspeva has ordered the suspect to be remanded until November 11, the suspect who posted a fake 5,000 rupee coin on social media.
-
-The Criminal Investigation Department arrested the suspect on the 4th and was 38 years old from Athurigiriya, Korathota and Mahadeniya area.. Remble
-
-◼️
-
-[Data](articles/88b2302c.json)
-
-[Extended Data](ext_articles/88b2302c.ext.json)
 
 ---

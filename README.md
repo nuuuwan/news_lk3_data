@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 11:24:13**
+As of **2024-11-06 11:40:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,292
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,309 (100.0%) of 53,310 articles have been extended.
+53,310 (100.0%) of 53,310 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Furthermore, the court also lifted the overseas travel ban which was imposed on 
 ...
 
 [Data](articles/d8b9e52f.json)
+
+[Extended Data](ext_articles/d8b9e52f.ext.json)
 
 ---
 

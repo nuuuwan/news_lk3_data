@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 01:09:50**
+As of **2024-11-07 01:24:30**
 
 ## Newspaper Stats
 
-*Scraped **53,449** Articles*
+*Scraped **53,451** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
 economynextcom | 3,242
-dailyftlk | 3,649
+dailyftlk | 3,651
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,439 (100.0%) of 53,449 articles have been extended.
+53,443 (100.0%) of 53,451 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Alumex takes quantum leap   with brand-new cutting- edge manufacturing facility ’Ascend’
+
+*2024-11-07 00:42:10* · [`dailyftlk`](https://www.ft.lk/business/Alumex-takes-quantum-leap-with-brand-new-cutting-edge-manufacturing-facility-Ascend/34-768917) · `en`
+
+Hayleys Chairman Mohan Pandithage (right), Director Sarath Ganegoda (second from left), and Alumex Managing Director Pramuk Dediwela (left) inspect a product at the new facility
+
+Marking a milestone in its illustrious journey, Alumex PLC, a trailblazer in the aluminium extrusion industry, inaugurated its revolutionary ‘Ascend’ facility on 26 September in Sri Lanka, setting a new benchmark in production efficiency and technological advancement.
+
+Strengthening its market presence, the new state-of-the-art facility embodies a giant step forward in Alumex’s commitment to innovation, quality, and sustainability in the aluminium industry – with new technologies including Aluminium High Pressure Die Casting (HPDC) and dedicated Aluminium Balcony Assembly Line machines.
+
+Alumex PLC brings these advanced manufacturing capabilities to Sri Lanka to cater to specific requirements of overseas customers and attract new business opportunities from existing and new overseas markets.
+
+...
+
+[Data](articles/8be5735a.json)
+
+[Extended Data](ext_articles/8be5735a.ext.json)
+
+---
+
+### Sithara awarded Bronze at CNCI Achiever Awards 2024
+
+*2024-11-07 00:39:12* · [`dailyftlk`](https://www.ft.lk/business/Sithara-awarded-Bronze-at-CNCI-Achiever-Awards-2024/34-768916) · `en`
+
+From left: M.G. Ranasinghe (Sithara), Chamara Amaratunga (Sithara), Sithara CEO Malinda Tennakoon, CNCI Vice Chairman/Internal Judging Committee Chairman Amila Sugathapala, Sithara Director Chayanka Wickremesinghe, Additional Minister of Industries Chaminda Pathiraja, CNCI Vice Chairman/ Steering Committee Chairman Ravi Rupasinghe, and Sithara General Manager – Operations H.B. Anandaratne
+
+Sithara Ltd., a printing ink manufacturer, was presented a Bronze Award at the CNCI Achiever Awards 2024 for industrial excellence, organised by the Ceylon National Chamber of Industries.
+
+...
+
+[Data](articles/1e754593.json)
+
+[Extended Data](ext_articles/1e754593.ext.json)
+
+---
 
 ### “NPP Govt. will never fall” – Chathuranga Abeysinghe
 
@@ -492,6 +528,8 @@ Sri Lanka recorded 12 month deflation in September and October, a phenomenon tha
 
 [Data](articles/780018c3.json)
 
+[Extended Data](ext_articles/780018c3.ext.json)
+
 ---
 
 ### President welcotes Anura Donald Trump
@@ -919,6 +957,8 @@ A bond maturing on 15.05.2030 closed at 12.10/20 percent. (Colombo/Nov06/2024)
 ◼️
 
 [Data](articles/879678a5.json)
+
+[Extended Data](ext_articles/879678a5.ext.json)
 
 ---
 
@@ -2369,53 +2409,5 @@ Accordingly, Donald Trump was elected as the 47th President of the United States
 [Data](articles/7c7422be.json)
 
 [Extended Data](ext_articles/7c7422be.ext.json)
-
----
-
-### The US regime back to Trump
-
-*2024-11-06 12:48:50* · [`adalk`](https://www.ada.lk/breaking_news/අමෙරිකාවේ-පාලනය-යළිත්-ට්‍රම්ට/11-412887) · `si`
-
-Donald Trump re-elected as 47th US President in 2024, defeating Kamala Harris 277-226.
-
-🟩
-
-2024 Former President of the American presidential election, Donald Trump won.
-
-He has won 277 votes and his opponent, Kamala Harris elected 226 of these pirs.
-
-Accordingly, Donald Trump was elected as the 47th President of the United States.
-
-◼️
-
-[Data](articles/e0862eae.json)
-
-[Extended Data](ext_articles/e0862eae.ext.json)
-
----
-
-### 4 former customs officers are seriously operated per month sentenced
-
-*2024-11-06 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202965) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Sri Lanka Customs officers sentenced to 35 years for corruption. Four officials found guilty of embezzlement. Each faces additional fines.
-
-🟩
-
-Four former officers of the Sri Lanka Customs were sentenced to 35 years of prison.
-
-That was due to the guilty of repairing Rs.
-
-In addition, each of the accuses will be fined Rs.
-
-◼️
-
-[Data](articles/afede2dd.json)
-
-[Extended Data](ext_articles/afede2dd.ext.json)
 
 ---

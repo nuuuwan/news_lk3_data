@@ -1,36 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 09:24:19**
+As of **2024-11-06 09:59:45**
 
 ## Newspaper Stats
 
-*Scraped **53,286** Articles*
+*Scraped **53,293** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
-bbccomsinhala | 544
 colombotelegraphcom | 545
+bbccomsinhala | 545
 islandlk | 3,189
 economynextcom | 3,226
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,973
-adaderanalk | 6,344
+adalk | 4,974
+adaderanalk | 6,346
 tamilmirrorlk | 7,419
 virakesarilk | 8,607
-adaderanasinhalalk | 9,285
+adaderanasinhalalk | 9,288
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,277 (100.0%) of 53,286 articles have been extended.
+53,283 (100.0%) of 53,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### ලොව පළමු දැවමය චන්ද්‍රිකාව අභ්‍යවකාශයට
+
+*2024-11-06 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202956) · `si`
+
+ජපානයේ නිෂ්පාදිත ලොව ප්‍රථම දැව චන්ද්‍රිකාව පසුගියදා අමෙරිකාවේ කෙනඩි අභ්‍යාවකාශ මධ්‍යස්ථානයෙන් ගුවන්ගත කර තිබේ.
+
+චන්ද්‍රයා සහ අඟහරු පිළිබඳ ගවේෂණ සඳහා දැව යොදාගැනීම පිළිබඳව සිදුකරන පූර්ව පර්යේෂණයක් ලෙස මෙම අභ්‍යාවකාශ ගමන හැඳින්විය හැකිය.
+
+ජපානයේ කියෝතෝ විශ්වවිද්‍යාලයේ විද්‍යාඥයින් පිරිසක් සහ දැවමය නිෂ්පාදන සිදුකරන ජපාන සමාගමක් එක්ව මෙම චන්ද්‍රිකාව නිර්මාණය කර තිබුණි.
+
+එය නම් කර ඇත්තේ, ලතින් භාෂාවෙන් දැව යන අර්ථය ලබාදෙන 'ලිග්නෝසැට්' නමිනි.
+
+චන්ද්‍රයා සහ අඟහරු පිළිබඳ ගවේෂණ සඳහා දැව යොදාගැනීම පිළිබඳව සිදුකරන පූර්ව පර්යේෂණයක් ලෙස මෙම අභ්‍යාවකාශ ගමන හැඳින්විය හැකිය.
+
+ලිග්නෝසැට් චන්ද්‍රිකාව මාස 6ක කාලයක් පෘථිවි කක්ෂයේ රැඳී සිටීමට නියමිතය.
+
+සෑම මිනිත්තු 45කට වරක්ම අභ්‍යාවකාශයේ උෂ්ණත්වය සෙල්සියස් අංශක සෘණ 100 සිට සියය දක්වා වෙනස්වීමට භාජනය වේ.
+
+එම කැපී පෙනෙන උෂ්ණත්ව වෙනසට දැව ප්‍රතිචාර දක්වන අයුරු චන්ද්‍රිකාවේ සවිකර ඇති ඉලෙක්ට්‍රොනික උපාංග මඟින් විමසා බැලීම එම කාලයේ දී සිදුකෙරුණු ඇත.
+
+◼️
+
+[Data](articles/c318ea95.json)
+
+---
+
+### IPL ක්‍රීඩක වෙන්දේසිය නොවැම්බර් 24 සහ 25
+
+*2024-11-06 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202955) · `si`
+
+2025 ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය වෙනුවෙන් ක්‍රීඩක වෙන්දේසිය මෙම මස 24 සහ 25 යන දෙදින තුළදී පැවැත්වීමට නියමිත බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තහවුරු කර තිබේ.
+
+IPL ක්‍රීඩක වෙන්දේසිය ඉන්දියාවෙන් පිටතදී පැවැත්වෙන දෙවන අවස්ථාව මෙය වේ.
+
+මෙවර ක්‍රීඩක වෙන්දේසිය පැවැත්වෙන්නේ ඉන්දියා ඔස්ට්‍රේලියා ටෙස්ට් තරගාවලියේ තුන්වන සහ සිව්වන දිනවලදී වීම තවත් විශේෂත්වයකි.
+
+ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තහවුරු කරන්නේ මෙවර ක්‍රීඩක වෙන්දේසිය වෙනුවෙන් ක්‍රීඩකයන් 1,574ක් ලියාපදිංචි වී ඇති බවය.
+
+ඉන් 1,165 දෙනෙකු ඉන්දීය ක්‍රීඩකයන් වන අතර ක්‍රීඩකයන් 409 දෙනෙකු විදෙස් ක්‍රීඩකයන් වන බව වාර්තා වෙයි.
+
+මෙවර වෙන්දේසියට ලියාපදිංචි වී ඇති වැඩිම ක්‍රීඩකයන් ගණනක් ලියාපදිංචි වී ඇත්තේ දකුණු අප්‍රිකාවෙනි.
+
+මේ අතරින් කණ්ඩායම් 10ක් විසින් ක්‍රීඩකයන් 204 දෙනෙකු 2025 ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට ක්‍රීඩා කිරීම වෙනුවෙන් තෝරා ගනු ලබයි.
+
+ඉන් විදෙස් ක්‍රීඩකයන් 70 දෙනෙකු කණ්ඩායම් තුළට ඇතුළත් කරගැනීමට නියමිතය.
+
+...
+
+[Data](articles/30b15ecf.json)
+
+---
+
+### Sri Lankan migrants stranded on Diego Garcia offered move to UK – report
+
+*2024-11-06 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103197/sri-lankan-migrants-stranded-on-diego-garcia-offered-move-to-uk-report) · `en`
+
+Migrants stranded for years on the remote Indian Ocean island of Diego Garcia will be offered the right to come to the UK, under a government proposal.
+
+Around 60 Sri Lankan Tamils have spent more than three years in a makeshift camp on the island, which hosts a secretive UK-US military base, after becoming the first people ever to file asylum claims there.
+
+The government has previously opposed bringing the group to the UK and complex legal battles have been fought for years over their fate.
+
+In a letter on Monday, government lawyers said that “following further consideration”, the government had proposed a “change of policy”.
+
+Under this, “all families, children and those of the unaccompanied males who do not have criminal convictions, outstanding charges or investigations would be offered the opportunity to be transferred directly to the UK”.
+
+...
+
+[Data](articles/2ae6c15d.json)
+
+[Extended Data](ext_articles/2ae6c15d.ext.json)
+
+---
+
+### A special meeting of the Election Commission
+
+*2024-11-06 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202954) · `si`
+
+Election Commission meeting: District Returning Officers, Assistant Elections Commissioners attend. Discusses future parliamentary election activities. Commissioner General Saman Sri Ratnayake leads discussion. Meeting scheduled for tomorrow.
+
+🟩
+
+District Returning Officers and Assistant Elections Commissioners have been called to the Election Commission today (06).
+
+Commissioner General of the General Saman Sri Ratnayake said the meeting would be held to discuss the future activities of the parliamentary election.
+
+"The District Deputy District Deputy District Deputy and Assistant Commissioners have been held under the participation of all members, the Commissioner General of Elections, the Commissioner General of the Head Office at the Head Office, the Commissioner General of the Head Office, participating in the Head Office.. Here is the key to the next day to be held on the relevant date. All relevant officers participate. "
+
+◼️
+
+[Data](articles/3429c4cf.json)
+
+[Extended Data](ext_articles/3429c4cf.ext.json)
+
+---
+
+### Sri Lanka relaxes restrictions on animal transport over African swine fever
+
+*2024-11-06 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103196/sri-lanka-relaxes-restrictions-on-animal-transport-over-african-swine-fever) · `en`
+
+Sri Lanka’s Department of Animal Production and Health has announced steps to issue a new Gazette notification, relaxing some of the restrictions imposed earlier due to the African swine fever outbreak.
+
+Director General of the department Dr. Hemali Kothalawala stated that permission has now been granted for the transportation of healthy animals.
+
+“Based on the current situation in the field, there has been a slight decrease in the spread of the disease this week, and it’s essential to protect the industry,” Dr. Kothalawala explained.
+
+“We have relaxed certain restrictions and issued a new Gazette, which will be effective from November 4 until further notice. Previously, animal transportation was prohibited, but under the new Gazette, non-infected animals may now be transported, provided they have an animal health report from a veterinarian.”
+
+...
+
+[Data](articles/712a09fe.json)
+
+[Extended Data](ext_articles/712a09fe.ext.json)
+
+---
 
 ### Businessman killed in surhiky
 
@@ -746,6 +862,38 @@ We all know that in Sri Lanka, students are separated to specialized subject are
 
 ---
 
+### Why did the President Anura's government to recall a ambassadors?
+
+*2024-11-06 02:33:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdxyvk5gwy9o) · `si`
+
+Here's a summary of the key points in approximately 200 characters:
+
+
+
+President Anura's government recalls 15 ambassadors/high commissioners amid allegations of misuse of funds and political influence. Current government emphasizes evaluating diplomatic roles and investigating accusations. This move comes amid geopolitical tensions and economic challenges faced by Sri Lanka.
+
+🟩
+
+The present government has taken steps to summon 15 of the ambassadors and 15 high commissioners appointed to foreign countries representing Sri Lanka.. That is by the orders of the Secretary to the President.
+
+According to the Court, the Secretary to the Ministry of External Affairs and the High Commissioners of the Ministry of External Affairs had issued letters to the island that the Ambassadors and High Commissioners have returned to the island.
+
+According to the Constitution, the President has the power to appoint ambassadors.
+
+The current government has emphasized that the present government has taken steps to recall foreign embassies, which are not the Sri Lanka Foreign Service or Political Employees.
+
+Cabinet spokesman Vijitha Herath said that the country would be released in the future.
+
+It is in that backdrop that the ambassadors have been taken up again to the island.
+
+...
+
+[Data](articles/4c6d9702.json)
+
+[Extended Data](ext_articles/4c6d9702.ext.json)
+
+---
+
 ### Try to get rid of the Ministries
 
 *2024-11-06 02:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளை-வலிந்து-பெற-முயற்சி/175-346635) · `ta`
@@ -1330,39 +1478,69 @@ The appointment will face further impact as the labor and investments of the sec
 
 ---
 
-### ණයවල ස්ථාවර බවක් ඇති වෙලා තිබෙනවා
+### වරායේ මුළුතැන්ගෙය පෞද්ගලික අංශයට නොදෙයි
+
+*2024-11-05 20:07:34* · [`adalk`](https://www.ada.lk/breaking_news/වරායේ-මුළුතැන්ගෙය-පෞද්ගලික-අංශයට-නොදෙයි/11-412878) · `si`
+
+ශ්‍රී ලංකා වරාය අධිකාරියේ සේවකයන් හට ආහාර ලබාදෙන මුළුතැන්ගෙය තවදුරටත් වරාය අභ්‍යන්තරයෙන්ම මෙහෙයවීමට තීරණය කර තිබේ.
+
+මෙම මුළුතැන්ගෙය දකුණු ආසියාවේ විශාලතම මුළුතැන්ගෙය ලෙස සැලකෙන බව නිලධාරීන් පවසන අතර, නව ආණ්ඩුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය විජිත හේරත් මහතාගේ උපදෙස් මත මෙම වරාය අධිකාරියේ මුළුතැන්ගෙය පෞද්ගලික අංශයට ලබා දීම වහාම අත්හිටුවා ඇත. සේවකයන් සඳහා වරායේ මුළුතැන්ගෙයින් ආහාර තුන් වේලටම සැපයෙන අතර, පහුගිය ආණ්ඩු සමයේ අවසන් භාගයේදී හිටපු අමාත්‍යවරයාගේ නියෝගයෙන් මුළුතැන්ගෙය ටෙන්ඩර් කැඳවා පෞද්ගලික අංශයට ලබා දෙන්නට තීරණය කර තිබුණි.
+
+ඒ අනුව වරාය මුළුතැන්ගෙය තවදුරටත් අභ්‍යන්තරයෙන්ම මෙහෙයවන පරිදි පවත්වාගෙන යන අතර, ආහාරවල රසය සහ ගුණාත්මකභාවය වඩාත් වැඩි කර කාර්යමණ්ඩලයට තෘප්තිමත් ලෙස වැඩ කටයුතුවල යෙදෙන්නට අවස්ථාව සලසා දෙන ලෙස අමාත්‍ය විජිත හේරත් මහතා උපදෙස් දී තිබේ.
+
+ඊට අමතරව තවදුරටත් මේ සඳහා මැදිහත් වුණ ඇමතිවරයා මුළුතැන්ගෙයහි අඩුපාඩු සියල්ල සොයා බලා ප්‍රතිසංස්කරණයක් සිදුකර නව උපකරණද ලබා දී දියුණු තත්ත්වයෙන් පවත්වා ගෙන යන ලෙස නිලධාරීන්ට උපදෙස් ලබා දී ඇත.
+
+...
+
+[Data](articles/5528c89a.json)
+
+---
+
+### Loans have been stabilized
 
 *2024-11-05 20:02:38* · [`adalk`](https://www.ada.lk/breaking_news/ණයවල-ස්ථාවර-බවක්-ඇති-වෙලා-තිබෙනවා/11-412877) · `si`
 
-තම ආණ්ඩුව රජයේ සේවකයන්ට ලබා දීමට එකඟ වූ පඩි වැඩිවීම හෝ ඊට වැඩි පඩි වැඩිවීමක් දෙන බවට අනුර කුමාර ජනාධිපතිවරයා වහාම රටට ප්‍රකාශයක් කළ යුතු බව, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මාතරදී පැවසීය.
+Loans stabilized. Former President Wickremesinghe urges immediate announcement of salary hike. Government debt obligations questioned. Public servant salary increases debated. Udaya Seneviratne committee formed to address salary anomalies. President Rajapaksa initially agreed but later refused. Vehicle imports linked to salary hikes.
 
-මේ වන විට අපේ ණයවල ස්ථාවර බවක් ඇතිකර තිබෙන බවත්, ඒ ගිවිසුම අනුව ක්‍රියා කොට බංකොලොත් බවින් එළියට එන්නට අප පොරොන්දු වී තිබෙන බවත්, මෙතැනට පත් කළ යුත්තේ ඒ වැඩ කටයුතු කරන්නට හැකි උදවිය බවත්, වත්මන් ආණ්ඩුවට එය කරන්න පුළුවන්දැයි වික්‍රමසිංහ මහතා ප්‍රශ්න කළේය. රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසුවේ ගෑස් සිලින්ඩරයේ ලකුණ යටතේ තරග වදින නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මාතර දිස්ත්‍රික් ජන හමුව අමතමිනි.
+🟩
 
-“මේ වන විට අපේ ණයවල ස්ථාවර බවක් ඇතිකර තිබෙනවා. ඒ ගිවිසුම අනුව ක්‍රියා කොට බංකොලොත් බවින් එළියට එන්නට අප පොරොන්දු වී තිබෙනවා. මෙතැනට පත් කළ යුත්තේ ඒ වැඩ කටයුතු කරන්නට හැකි උදවියයි. මේ අයට ඒ වැඩ කටයුත්ත කරන්න පුළුවන්ද?
+Former President Ranil Wickremesinghe said that the President should immediately make a statement to the country that his government will be given a rise in or higher.
 
-ජාතික ජන බලවේගය පළමු අය වැයෙන්ම රාජ්‍ය සේවකයන්ට වැටුප් වැඩි කරන බව අනුර දිසානායක නුවරඑළියේදී පවසා තිබුණා. රජයේ සේවකයන්ට අප විසින් නම් කරන ලද මුදල ජනවාරියේ සිට ලබා නොදෙන්නේ ඇයි?
+Mr. Wickremesinghe questioned whether we had to be able to do that, whether we have promised that our loans are already in the agreement, and that the present government can do it.Ranil Wickremesinghe made this observation addressing the Matara district gang meeting of the new Democratic Front that is contesting under the sign of the gas cylinder.
+
+"Our debts are now stable. We have promised to come out of that agreement and come out of bankruptcy. The work should be made herein. Can these people do that work?
+
+Anura Dissanayake had said in Nuwara Eliya that the first budget increases salaries to public servants.. Why do we not provide the amount of designated to public servants from January?
 
 ...
 
 [Data](articles/943fbc3a.json)
 
+[Extended Data](ext_articles/943fbc3a.ext.json)
+
 ---
 
-### ද්විත්ව පුරවැසියෙක් බව ඔප්පු කළොත් දේශපාලනයෙන් සමුගන්නවා
+### If you prove to be a dual citizen, you will say goodbye to politics
 
 *2024-11-05 19:45:36* · [`adalk`](https://www.ada.lk/breaking_news/ද්විත්ව-පුරවැසියෙක්-බව-ඔප්පු-කළොත්-දේශපාලනයෙන්-සමුගන්නවා/11-412876) · `si`
 
-ද්විත්ව පුරවැසිභාවය තිබෙන බව ඔප්පු කළහොත් හෙට දේශපාලනයෙන් සමුගන්නා බව තිලකරත්න දිල්ෂාන් මහතා පැවසීය. ඒ මහතා මේ බව සඳහන් කළේ ඊයේ (05දා) කළුතරදී මාධ්‍යයට අදහස් දක්වමිනි. එහිදී වැඩිදුරටත් අදහස් දැක්වූ තිලකරත්න දිල්ෂාන් මහතා මෙසේද පැවසීය.
+Sri Lanka politician Tillakaratne Dilshan threatens to leave politics if proven dual citizen. Accuses rival of making false claims about citizenship status. Emphasizes commitment to public service despite challenges.
 
-“මම ද්විත්ව පුරවැසිභාවය ඇති අයෙක් කියා ප්‍රබල දේශපාලකයන් සඳහන් කරනවා. පසුගියදා සර්ව ජන බලය පක්ෂයේ නායක දිලිත් ජයවීර මහතාත් එසේ ප්‍රකාශ කර තිබෙනවා. එය ඔප්පු කළොත් මම හෙට දේශපාලනයෙන් සමුගන්නවා. මම ඔහුට අභියෝග කරනවා ඔප්පු කරන්න බැරි වුණොත් ඔහුට දේශපාලනයෙන් සමුගන්න කියලා.
+🟩
 
-ඔහුගේ පක්ෂයෙන් දේශපාලනයට එන්න කියලා මට ආරාධනා ලැබුණා. ඒ ආරාධනාව කළේ රොෂාන් රණසිංහ මගින්. මට එහෙම ආරාධනා කළේ ද්විත්ව පුරවැසිභාවයක් ගැන නොදැනද? මගේ ළඟත් තියෙන්නේ ඇන්ඩ්‍රොයිඩ් ෆෝන් එකක්. ඒකේ සියල්ල රෙකෝඩ් වෙලා ඇති. බලමු ඒවා රෙකෝඩ් වෙලා තියෙනවාද කියලා.
+Tillakaratne Dilshan said he was leaving politics tomorrow if proving dual citizenship. He was speaking to the media in Kalutara yesterday (05). Speaking further Mr. Tillakaratne Dilshan further said:
 
-නව දේශපාලන සංස්කෘතියකට යන ගමනේ අලුත් පක්ෂ මෙහෙම පහළට වැටෙන්න ඕන නෑ. ඉස්සර පරණ ක්‍රමයට ඇයි මෙහෙම කරන්නේ. අපි යන්න ඕනා අලුත්ම දේශපාලන ගමනක්. ජනාධිපති අපේක්ෂකයෙක් හැටියට මෙහෙම බොරු චෝදනා එල්ල කරන එක සුදුසු නැහැ.
+"Strong politicians say that I am a dual citizenship. Recently, Almighty Leader Dilith Jayaweera has stated that. If it proves I retire from politics tomorrow. If I could not prove to him, he to say goodbye to politics.
+
+I was invited to come to politics from his party. Roshan Ranasinghe was invited by Roshan Ranasinghe. I was invited to double citizenship?I have a phone one android phone. It's all Record. Let's see if they are Record.
+
+The new parties on their way to a new political culture should not fall down this way. Why the old system is doing this. We need a new political journey. It is not appropriate to make false accusations as a presidential candidate.
 
 ...
 
 [Data](articles/36f05e81.json)
+
+[Extended Data](ext_articles/36f05e81.ext.json)
 
 ---
 
@@ -2203,165 +2381,5 @@ A British official who spoke to Tamils ​​in Diocarcia said that the decision
 [Data](articles/1ab3762b.json)
 
 [Extended Data](ext_articles/1ab3762b.ext.json)
-
----
-
-### Sri Lanka stocks close down, banks see mixed interest
-
-*2024-11-05 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-banks-see-mixed-interest-186189/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, official data showed.
-
-The broader ASPI closed 0.46 percent or 59.48 points lower at 12,795; while the more liquid S&P SL20 Index closed 0.58 percent or 22.60 points lower at 3,852.
-
-Trades in Hatton National Bank voting stock contributed 758 million rupees to turnover.
-
-Several banking stocks closed down; HNB (down at 228.00), Commercial Bank (down at 116.75), Sampath Bank (up at 89.90), DFCC Bank (up at 83.90), and NDB (down at 86.20).
-
-Banking stocks had been appreciating. Last week, high net worth individuals were collecting in HNB and banking stock, market participants said.
-
-“Market went up too fast, so this is likely a correction,” Softlogic Stockbrokers said.
-
-“We don’t see that the market is jittery ahead of the general election. No threat to market activity is perceived.”
-
-...
-
-[Data](articles/a589b170.json)
-
-[Extended Data](ext_articles/a589b170.ext.json)
-
----
-
-### The horn of the break;Exit students
-
-*2024-11-05 16:42:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடைவேளையில்-வந்த-கொம்பன்-வெளியேறிய-மாணவர்கள்/175-346608) · `ta`
-
-Elephant enters school late night, students flee. Parents chase animal away. Principal calls for elephant-proof fence installation.
-
-🟩
-
-The Komban elephant arrived at the Pandulugama Maha Vidyalaya in Kalanpindunuwe Wa Kahatagastikiliya at around 11.30 pm on Tuesday (05).
-
-When the Kompan elephant came to the playground in the school, the students stopped studying and left the school and then the parents of the neighbors and the parents of the students came and chased the elephant.
-
-Commenting on the incident, the school principal said that immediate action should be taken to set up an elephant fence.
-
-◼️
-
-[Data](articles/8576ae7f.json)
-
-[Extended Data](ext_articles/8576ae7f.ext.json)
-
----
-
-### Sri Lanka’s CPC opts for fixed dealer margin to reduce fuel cost
-
-*2024-11-05 16:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-cpc-opts-for-fixed-dealer-margin-to-reduce-fuel-cost-186191/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-owned Ceylon Petroleum Corporation (CPC) has decided to implement a fixed amount for dealer margin from November 1 instead of a fixed percentage in the existing price formula, a top official said, in a move to reduce the fuel cost.
-
-However, dealers have challenged the decision of CPC Board of Directors in court, which has stayed the decision until November 12, the fuel retailer’s Chairman D J A S De S Rajakaruna said.
-
-The move comes after public grumbling of price reduction by President Anura Kumara Dissanayake ahead of his election on September 21.
-
-Dissanayake and his Marxist Janatha Vimukthi Peramuna (JVP) members have said the previous government had imposed more than a 30 percent tax and they will remove the tax once they win the election.
-
-Since coming to power, Dissanayake government has reduced widely used Octane 92 and white diesel prices once.
-
-...
-
-[Data](articles/8fb18234.json)
-
-[Extended Data](ext_articles/8fb18234.ext.json)
-
----
-
-### Former President Chandrika a letter to the Public Defense Secretary
-
-*2024-11-05 16:28:27* · [`adalk`](https://www.ada.lk/breaking_news/ආරක්ෂාව-අඩු-කිරීම-ගැන-හිටපු-ජනාධිපති-චන්ද්‍රිකාගෙන්-මහජන-ආරක්ෂක-ලේකම්ට-ලිපියක්/11-412867) · `si`
-
-Former President Chandrika Bandaranaike Kumaratunga reduced her security detail from 50 personnel to ensure personal safety.
-
-🟩
-
-According to the Secretary Defense Ministry, Ravi Seneviratne, has written to Ravi Seneviratne that former President Chandrika Bandaranaike Kumaratunga has reduced its security.
-
-Former President Chandrika Bandaranaike stated that 50 security personnel deployed to their own safety.
-
-◼️
-
-[Data](articles/f504b83b.json)
-
-[Extended Data](ext_articles/f504b83b.ext.json)
-
----
-
-### Case for those who did not accept government quarters
-
-*2024-11-05 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202936) · `si`
-
-President Anura Kumara Dissanayake vows to prosecute misuse of government properties by MPs. He criticizes corruption and abuse of public assets during his speech in Ampara.
-
-🟩
-
-President Anura Kumara Dissanayake says he has decided to prosecute the governmental quarters so far.
-
-The President said that many MPs have used the public property for their personal use.
-
-Addressing a public meeting in Ampara, President Anura Kumara Dissanayake made these comments.
-
-...
-
-[Data](articles/6cd23cb6.json)
-
-[Extended Data](ext_articles/6cd23cb6.ext.json)
-
----
-
-### Poojith, ordered to proceed with the investigation against Hemasiri
-
-*2024-11-05 16:01:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பூஜித்-ஹேமசிறிக்கு-எதிரான-விசாரணையைத்-தொடர-உத்தரவு/150-346607) · `ta`
-
-Colombo High Court cancels release verdicts for former police chief Poojith Jayasundera and defense secretary Hemasiri Fernando. Supreme Court orders them to present arguments. Case involves 855 charges related to Easter Sunday bombings.
-
-🟩
-
-The Colombo High Court has canceled the verdict of the release of former Inspector General of Police Poojith Jayasundera and former Defense Secretary Hemasiri Fernando from the allegation of the Easter Sunday bomb attack and the Supreme Court today (05) ordered the accused to present their argument.
-
-In response to the two appeals filed by the Attorney General against the Supreme Court decision to release Jayasundara and Fernando, the five judges of the judges of the judges - Preethi Padman Surasena, Yasantha Gothamoda, Kumudini Wickremasinghe, Mahinda Religious and Arjuna Obeeskegara were awarded the judges.
-
-Considering the complexity and severity of the case, the Supreme Court said that it was not acceptable to release the accused without calling the accused.
-
-The Supreme Court has advised the Supreme Court to call the accused and to continue the remaining hearing.
-
-...
-
-[Data](articles/76e3cf3e.json)
-
-[Extended Data](ext_articles/76e3cf3e.ext.json)
-
----
-
-### Order to continue the investigation against Poojith Hemasiri
-
-*2024-11-05 16:01:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பூஜித்-ஹேமசிறிக்கு-எதிரான-விசாரணையைத்-தொடர-உத்தரவு/175-346607) · `ta`
-
-Colombo High Court cancels release verdicts for Poojith Jayasundera and Hemasiri Fernando due to Easter Sunday bomb attack allegations. Supreme Court orders High Court to continue investigation against former police chief and defense secretary.
-
-🟩
-
-The Colombo High Court has canceled the verdict of the release of former Inspector General of Police Poojith Jayasundera and former Defense Secretary Hemasiri Fernando from the allegations of the Easter Sunday bomb attack.
-
-In response to the two appeals filed by the Attorney General against the Supreme Court decision to release Jayasundara and Fernando, the five judges of the judges of the judges - Preethi Padman Surasena, Yasantha Gothamoda, Kumudini Wickremasinghe, Mahinda Religious and Arjuna Obeeskegara were awarded the judges.
-
-Considering the complexity and severity of the case, the Supreme Court said that it was not acceptable to release the accused without calling the accused.
-
-The Supreme Court further stressed that the Supreme Court has been the basis to proceed with the case, so the High Court has advised the accused to invite the accused to their argument and continue the rest of the hearing.
-
-...
-
-[Data](articles/ad0677bc.json)
-
-[Extended Data](ext_articles/ad0677bc.ext.json)
 
 ---

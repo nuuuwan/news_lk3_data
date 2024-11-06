@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 11:11:47**
+As of **2024-11-06 11:24:13**
 
 ## Newspaper Stats
 
-*Scraped **53,309** Articles*
+*Scraped **53,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,226
 dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,976
-adaderanalk | 6,350
+adaderanalk | 6,351
 tamilmirrorlk | 7,420
 virakesarilk | 8,612
 adaderanasinhalalk | 9,292
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,292
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,306 (100.0%) of 53,309 articles have been extended.
+53,309 (100.0%) of 53,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Dr. Shafi acquitted from all charges
+
+*2024-11-06 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103202/dr-shafi-acquitted-from-all-charges) · `en`
+
+Specialist Dr. Shafi Sihabdeen has been acquitted from all charges by the Kurunegala Magistrate’s Court, Ada Derana reporter said.
+
+The case against Dr. Shafi, who had been accused of allegedly amassing assets through suspicious means, performing illegal sterilization surgeries and having links to terrorist activities, was taken up for hearing today (06).
+
+Following the consideration of the facts presented, the Kurunegala Magistrate ordered the case to be dismissed, since there was no sufficient evidence for the case to be maintained, and ordered the acquittal of defendant Dr. Shafi from all related charges.
+
+Furthermore, the court also lifted the overseas travel ban which was imposed on Dr. Shafi Sihabdeen, according to Ada Derana reporter.
+
+...
+
+[Data](articles/d8b9e52f.json)
+
+---
 
 ### A statement from Minister Vijitha about Passport Queue
 
@@ -66,25 +84,33 @@ Accordingly, the Cabinet of Ministers has approved the proposal presented by the
 
 [Data](articles/793a545b.json)
 
+[Extended Data](ext_articles/793a545b.ext.json)
+
 ---
 
-### கால்வாயில் அடித்து செல்லப்பட்ட கெப் வாகனம் ;  இருவர் உயிரிழப்பு!
+### Kep vehicle that was swept into the canal;Two people die!
 
 *2024-11-06 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198004) · `ta`
 
-கொஸ்கம பொலிஸ் பிரிவிற்கு உட்பட்ட எஸ்வத்த - மானகட வீதியில்  தும்மோதர கால்வாயை கடக்க முற்பட்ட கெப் வாகனம் ஒன்று நீரில் அடித்துச் செல்லப்பட்டதில் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Vehicle swept into canal; 2 dead. Keb taxi submerged in 50m floodwaters. Driver and passenger (27, 69) drown. Bodies sent for autopsy.
 
-விபத்தின் போது கெப் வாகனமானது சுமார் 50 மீற்றர் தூரம் வரை வெள்ளத்தில் இழுத்துச் செல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இதன்போது கெப் வாகனத்தில் சாரதி உட்பட நான்கு பேர் பயணித்துள்ளதுடன், அவர்களில் இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Two persons were killed when a keb vehicle was drowned in the water of the Dummodara canal on the Eswatta -Managada road, which belongs to the Kosama Police Division, police said.
 
-உயிரிழந்தவர்கள் பலல்கொட்டுவ மற்றும் கிரிபத்கொடை ஆகிய பகுதிகளைச் சேர்ந்த 27 மற்றும் 69 வயதுடையவர்களாவர்.
+Police said the car was dragged into a flood of about 50 meters during the accident.
 
-மேலும், உயிரிழந்தவர்களின் சடலங்கள் பிரேத பரிசோதனைக்காக  அவிசாவளை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Four people, including the driver of the cab, were traveling and two of them were drowned, police said.
+
+The deceased are 27 and 69 years old from Balalkotuwa and Kiribathgoda.
+
+In addition, the bodies of the deceased were placed in the Avissawella Hospital for autopsy, police said.
 
 ◼️
 
 [Data](articles/f6d31a51.json)
+
+[Extended Data](ext_articles/f6d31a51.ext.json)
 
 ---
 
@@ -110,23 +136,31 @@ Air Vice Marshal Padman de Kosta of the Ministry of Defense Ministry and the Def
 
 ---
 
-### கடவுச்சீட்டைப் பெற்றுக்கொள்ள இன்று முதல் இணையவழியில் அனுமதி பெறலாம் !
+### You can get permission from today to get a passport!
 
 *2024-11-06 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197998) · `ta`
 
-பொதுமக்களுக்கு கடவுச்சீட்டுப் பெற்றுக்கொள்வதற்கு ஒருநாள் அல்லது சாதாரண சேவையின் கீழ் நாளொன்றை ஒதுக்கிக்கொள்ள குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் இணையவழியுடாக சேவையை வழங்குகிறது.
+Sri Lanka passport application process: Register online from 2024.11.06, submit documents within 12 hours of receiving SMS appointment. National ID and phone number required. Children under 16 need parent's NIC. Visit www.immigration.gov.lk for details.
 
-2024.11.06 ஆம் திகதி முதல் கடவுச்சீட்டு விண்ணப்பதாரிகளின் வசதி கருதி கடவுச்சீட்டுக்கு விண்ணப்பிப்பதற்கு புதிய முறையொன்று நடைமுறைப்படுத்தப்பட்டுள்ளது.
+🟩
 
-1. அதற்கமைய, 2024.11.06ஆம் திகதி முதல் இலங்கை கடவுச்சீட்டுக்கு விண்ணப்பிப்பதற்கு http://www.immigration.gov.lk இணைப்பினூடாக முன்கூட்டிய பதிவொன்றை மேற்கொள்ளல் வேண்டும். அன்றைய நாள் முதல் பதிவுசெய்யும் விண்ணப்பதாரர்களின் விண்ணப்பங்கள் 2024.12.04 ஆம் திகதி புதன்கிழமை முதல் ஏற்றுக்கொள்ளப்படும்.
+The Department of Immigration and Emigration provides services to the public to allocate a passport for the public to get a day or a day under normal service.
 
-2. எனவே, 2024.12.03ஆம் திகதி செய்வாய்கிழமை வரை இதுவரையில் காணப்பட்ட முறைக்கு அமைய நாட்களைப் பெற்றுக்கொண்டுள்ள ஒழுங்குமுறைக்கு அமைய கடவுச்சீட்டு விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படும்.
+A new system has been implemented to apply for a passport for the facility of passport applicants from 2024.11.06.
 
-3. புதிய கடவுச்சீட்டு விண்ணப்பதாரிகள்/ தற்போது கடவுச்சீட்டுக்களைவைத்திருப்பவர்கள்/ காணாமல்போன கடவுச்சீட்டுக்கள் என்பவற்றுக்கு இந்தப் புதிய முறையின் ஊடாக பதிவுசெய்ய முடியும்.
+௧. Accordingly, to apply for the Sri Lankan passport from 2024.11.06, a premature record must be made through http://www.immigration.gov.lk link.. Applications of registered applicants from that day will be accepted from Wednesday, 2024.12.04.
+
+௨. Therefore, passport applications will be accepted in accordance with the regulation that has been obtained for the methods seen so far as to 03.12.12.2012.
+
+௩. New passport applicants/ present passports/ missing passports can be registered through this new system.
+
+௪. The premature record is valid for both one -day and normal service.
 
 ...
 
 [Data](articles/9e8e93e4.json)
+
+[Extended Data](ext_articles/9e8e93e4.ext.json)
 
 ---
 
@@ -2331,27 +2365,5 @@ He said that the vehicle was imported to the country and the individuals who wer
 [Data](articles/3c507baf.json)
 
 [Extended Data](ext_articles/3c507baf.ext.json)
-
----
-
-### I will take steps to build the livelihood of the people of Colombo
-
-*2024-11-05 18:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/197976) · `ta`
-
-Candidate vows to improve Colombo residents' lives using political and economic expertise. Promises to address community needs if elected to Parliament. Highlights past achievements in local council and charity work. Encourages North-Ceylon voters to support him in upcoming elections.
-
-🟩
-
-We can carry out the program to build the livelihood of the people of Colombo using the knowledge of political experience and economic management.. The people of Colombo should give me the opportunity to give me the opportunity, the United People's Power Candidate and the organizer of the UNP, CVP Ram, said.
-
-He said this while addressing public meetings held on Tuesday (5) in various parts of Colombo.
-
-People are in the position of sending new faces to Parliament this time. Most of the people's representatives in the past have been forgotten by the people who voted for them. During the election period, the people are making various promises and voting. After they are elected to Parliament, they will not take steps to address any issues of the people who voted for them.
-
-...
-
-[Data](articles/a15ea375.json)
-
-[Extended Data](ext_articles/a15ea375.ext.json)
 
 ---

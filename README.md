@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 10:40:04**
+As of **2024-11-06 10:58:47**
 
 ## Newspaper Stats
 
-*Scraped **53,296** Articles*
+*Scraped **53,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 3,189
 economynextcom | 3,226
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,974
-adaderanalk | 6,347
+adalk | 4,975
+adaderanalk | 6,349
 tamilmirrorlk | 7,419
-virakesarilk | 8,607
-adaderanasinhalalk | 9,290
+virakesarilk | 8,610
+adaderanasinhalalk | 9,291
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,296 (100.0%) of 53,296 articles have been extended.
+53,301 (100.0%) of 53,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Cabinet approval to pay for road rehabilitation
+
+*2024-11-06 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202959) · `si`
+
+Cabinet approves payment for 100,000 km road rehab program. Launched in 2020, faces funding issues since 2023. Cabinet settles 28.37 billion rupee deficit for 2024. Proposal submitted by Transport Ministry.
+
+🟩
+
+The rehabilitation program of rehabilitation of 100,000 kilometers was launched in 2020 with a period of five years period.
+
+Since the lack of necessary provisions from the year 2023, it remains to cover the bills of 28.37 billion rupees.
+
+Also, Rs.
+
+Cabinet spokesperson Vijitha Herath said that the Cabinet was approved by the Cabinet for the year 2024, but the Cabinet was approved to settle down the deficit bills.
+
+The proposal presented the proposal by Transport, Highways, Ports and Civil Aviation.
+
+◼️
+
+[Data](articles/6476e415.json)
+
+[Extended Data](ext_articles/6476e415.ext.json)
+
+---
+
+### Govt. eases restriction on social events at Galle Face Green
+
+*2024-11-06 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103200/govt-eases-restriction-on-social-events-at-galle-face-green) · `en`
+
+The Cabinet of Ministers has decided to allow the use of the Galle Face Green for miscellaneous social activities.
+
+Earlier on 17 April 2023, the Cabinet of Ministers passed a resolution not to allow the utilization of the Galle Face Green, which is controlled under the management and administration of Sri Lanka Ports Management and Consultancy Services Pvt. Ltd, a company managed by the Sri Lanka Port Authority, for activities other than religious activities.
+
+Speaking during the Cabinet press briefing held today (06), Cabinet Spokesman Minister Vijitha Herath stated that the administration and maintenance of the Galle Face Green costs approximately Rs. 2.5 million to Rs. 3 million per month.
+
+...
+
+[Data](articles/463e7b6a.json)
+
+[Extended Data](ext_articles/463e7b6a.ext.json)
+
+---
+
+### Businessman found dead under suspicious circumstances in Polonnaruwa
+
+*2024-11-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103199/businessman-found-dead-under-suspicious-circumstances-in-polonnaruwa) · `en`
+
+A businessman has reportedly been found dead under suspicious circumstances in the Muslim Colony area of the Polonnaruwa police division.
+
+Investigations commenced following a information received by the police about a man found collapsed on the ground last night (05). The man had already passed away by the time his son brought him to Polonnaruwa Hospital.
+
+The deceased, a 46-year-old resident of Muslim Colony in Kaduruwela, was identified as a businessman in the area.
+
+It is reported that he had driven home from his place of business and was found collapsed on the ground with a bleeding wound on his chest, while his car was still turned on. Police suspect the death may have resulted from an attack.
+
+The body has been placed in the Polonnaruwa Hospital Mortuary for the Magistrate’s inquiry.
+
+◼️
+
+[Data](articles/ac1eb01b.json)
+
+[Extended Data](ext_articles/ac1eb01b.ext.json)
+
+---
 
 ### Decision on the Gulface Ground
 
@@ -118,6 +184,26 @@ Investigation from the satellite electronic components of the satellite, the tim
 
 ---
 
+### A special meeting of the Election Commission today
+
+*2024-11-06 09:45:19* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිසමේ-අද-විශේෂ-රැස්වීමක්/11-412879) · `si`
+
+Election Commission summons special meeting to discuss general election. District Releasing Officers and District Returning Officers attend.
+
+🟩
+
+The Election Commission has summoned a special meeting to discuss the general election.
+
+District Releasing Officers including the District Returning Officers have been called for the meeting.
+
+◼️
+
+[Data](articles/7f846027.json)
+
+[Extended Data](ext_articles/7f846027.ext.json)
+
+---
+
 ### EC summons officials to discuss preparations for Parliamentary Election
 
 *2024-11-06 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103198/ec-summons-officials-to-discuss-preparations-for-parliamentary-election) · `en`
@@ -169,6 +255,44 @@ The Panjab Kings will join the athletes with the highest amount of money and the
 [Data](articles/30b15ecf.json)
 
 [Extended Data](ext_articles/30b15ecf.ext.json)
+
+---
+
+### How did Anura face the smell of victory in the 2024 presidential election?
+
+*2024-11-06 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198000) · `ta`
+
+Thank you for providing such a detailed overview of the political landscape in Sri Lanka. It appears you've been following the developments closely. Is there a specific aspect of this political situation you'd like me to elaborate on? Or perhaps you have a question about the current state of affairs in Sri Lanka?
+
+🟩
+
+The November 2019 presidential election and the August 2020 parliamentary election for Janata Vimukti Peramuna (JVP) and its leader Anura Kumara Dissanayake have become a big disappointment. JVP as a tactical move. In both elections, the compass contested as part of a new political front under the new symbol.The party set up a vast front of the national people's power. Although the first appeared among nominally equitable organizations, it was practically the dominant party that controls the power of the national people.
+
+The JVP is the only simple reason. Dressed in the dress of national people power. It wanted to seize power by election. The JVP has overthrown the Sri Lankan state through the armed struggle. Tried twice. Both attempts failed.
+
+...
+
+[Data](articles/d5d0a2b8.json)
+
+[Extended Data](ext_articles/d5d0a2b8.ext.json)
+
+---
+
+### இ.தொ.கா சிரேஷ்ட பிரமுகர் கட்சியிலிருந்து விலகல்
+
+*2024-11-06 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197999) · `ta`
+
+இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உறுப்பினர் ஏ.பிலிப்குமார் தான் கட்சியிலிருந்து விலகுவதாக அறிவித்துள்ளார்.
+
+கடந்த 37 வருடங்களாக கட்சியின் உறுப்பினராக இருந்த பிலிப்குமார் மத்திய மாகாண சபையின் முன்னாள் உறுப்பினராகவும் செயற்பட்டவர்.
+
+இளைஞர் அணி இணைப்பாளராக இணந்து கொண்ட அவர் கட்சியின் உபசெயலாளராகவும் விலகும் போது உபதலைவராகவும் செயற்பட்டவர் என்பது குறிப்பிடத்தக்கது.
+
+கடந்த முறை பாராளுமன்றத் தேர்தலில் கட்சி சார்பாக போட்டியிட்ட இவர் 30 ஆயிரம் வாக்குகளை பெற்றவர் என்பது முக்கிய விடயம்.
+
+◼️
+
+[Data](articles/f08a4305.json)
 
 ---
 
@@ -255,6 +379,26 @@ A businessman in the Muslim Kolonnawa area has died in the Polonnaruwa police ar
 [Data](articles/43fd6147.json)
 
 [Extended Data](ext_articles/43fd6147.ext.json)
+
+---
+
+### நெல், அரிசி கையிருப்பு அறிக்கை இன்று ஜனாதிபதியிடம் கையளிக்கப்படவுள்ளது
+
+*2024-11-06 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197997) · `ta`
+
+நெல் மற்றும் அரிசி கையிருப்பு தொடர்பில் தயாரிக்கப்பட்ட அறிக்கை ஜனாதிபதி அநுர குமார திசாநாயக்கவிடம்  இன்று புதன்கிழமை (06) கையளிக்கப்படவுள்ளது.
+
+17  மாவட்டங்களில் முன்னெடுக்கப்பட்ட ஆய்வுகளில் பெறப்பட்ட தரவுகளின் அடிப்படையில் இந்த அறிக்கை தயாரிக்கப்பட்டுள்ளது.
+
+அந்த மாவட்டங்களில் உள்ள பெரிய, நடுத்தர மற்றும் சிறிய அளவிலான அரிசி ஆலைகளின் உரிமையாளர்களிடம் உள்ள நெல் மற்றும் அரிசி கையிருப்பு குறித்து நுகர்வோர் விவகார அதிகாரசபை அதிகாரிகள் சமீபத்தில் கணக்கெடுப்பு நடத்தினர்.
+
+அறிக்கையில் குறிப்பிடப்பட்டுள்ள விடயங்களை பரிசீலித்ததன் பின்னர் ஜனாதிபதி அதற்கான நடவடிக்கைகளை மேற்கொள்வார் என வர்த்தக அமைச்சு தெரிவித்துள்ளது.
+
+இதேவேளை, சந்தைகளில் கட்டுப்பாட்டு விலையை விட அதிக விலையில் நாட்டு அரிசி விற்பனை செய்யப்படுகிறது.
+
+◼️
+
+[Data](articles/c0e3e862.json)
 
 ---
 
@@ -2235,169 +2379,5 @@ Accordingly, the Court of Appeal, which accepted the request, has been granted p
 [Data](articles/9e5dd466.json)
 
 [Extended Data](ext_articles/9e5dd466.ext.json)
-
----
-
-### Ranil Wickremesinghe has no use to conflict with Ranil Wickremesinghe without knowing the cabinet procedure - Sagala Ratnayake
-
-*2024-11-05 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/197968) · `ta`
-
-Sagala Ratnayake criticizes PM Wickremesinghe over cabinet procedure ignorance. He claims Wickremesinghe lacks political experience, unaware of proper procedures. The statement highlights Wickremesinghe's supposed lack of knowledge about cabinet processes and his alleged inability to effectively manage the government.
-
-🟩
-
-The new Democratic Front's Colombo district candidate Sagala Ratnayake said that Prime Minister Harini, who is unaware of the procedure of submitting the Cabinet paper, has no use to conflict with Ranil Wickremesinghe on the salary increase of public servants.
-
-He was speaking at a press conference held at the New Democratic Front's election office in Colombo on Tuesday (05).
-
-The Cabinet paper on the increase of salary of public servants has been submitted according to the state procedure. Accordingly, the Udaya Seneviratne Committee was formed to resolve the salary increase and pay conflicts of public servants.
-
-The committee had recommended that public servants be made an increase of 24 percent salary increase. However, when the Treasury said that the salary could not be increased, the Udaya Seneviratne Group came to the consensus with the Treasury.
-
-...
-
-[Data](articles/0fafc2b6.json)
-
-[Extended Data](ext_articles/0fafc2b6.ext.json)
-
----
-
-### Landslide Warnings for several areas
-
-*2024-11-05 17:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202939) · `si`
-
-National Building Research Organization issues landslide warnings for several areas. Alerts effective from 4 PM today to 4 AM tomorrow. Affected regions include Underpawkola, Yatiyantota, Bulathkola, Warakagoda, Galigamuwa District Secretariat Division. Met Department forecasts heavy showers in Central, Sabaragamuwa, Southern, Uva, and Western provinces today and tomorrow.
-
-🟩
-
-The National Building Research Organization has taken steps to issue a warning alert in several areas.
-
-The organization said that today (05) will be implemented from 4:00 pm to 4.00 pm tomorrow (06).
-
-Accordingly, the "Underpawkola, Yatiyantota, Bulathkola, Warakagoda, Bulathkola, Warakagoda, Galigamuwa and Galigamuwa District Secretariat Division have been issued.Available.
-
-The Badulla, Galle, Kalutara, Kandy, Kurunegala, and Matara districts have been asked to be "inquisted."
-
-Meanwhile, the Met Department forecasts showers at several places in the country today (05).
-
-Mm in the Central, Sabaragamuwa, Southern, Uva and Western provinces. Heavy showers have been reported that heavy rains can be over 100.
-
-And tomorrow will occur at several places in the middle, Sabaragamuwa, Uva and Southern provinces in the middle, Sabaragamuwa, Uva and Southern provinces.. Mm to certain places. Heavy rains can occur in more than 50.
-
-◼️
-
-[Data](articles/60ecd71d.json)
-
-[Extended Data](ext_articles/60ecd71d.ext.json)
-
----
-
-### Sri Lanka Customs delays hurting competiveness, promotes corruption: researchers
-
-*2024-11-05 17:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-customs-delays-hurting-competiveness-promotes-corruption-researchers-186180/) · `en`
-
-ECONOMYNEXT – Delays in clearing cargo in Sri Lanka is pushing up costs for business and consumers, undermines global competitiveness and is also promoting competitiveness, according to a Ceylon Chamber of Commerce paper.
-
-“This inefficiency not only exacerbates delays but also creates opportunities for corruption, ultimately inflating consumer prices on imported goods for local consumption while losing export competitiveness on imported inputs for exports,” Saumya Amarasiriwardane, economist at Ceylon Chamber of Commerce, Dinesh de Silva, a trade facilitation expert wrote in an analysis.
-
-“Cargo clearance delays have become a significant bottleneck at Sri Lanka’s Customs examination yards from time to time.
-
-“These delays stem from several interrelated factors, including bureaucratic inefficiencies and outdated processes. The inadequate infrastructure at customs clearance yards including access roads, exacerbates the situation.
-
-...
-
-[Data](articles/4bf2fb2d.json)
-
-[Extended Data](ext_articles/4bf2fb2d.ext.json)
-
----
-
-### Despite the political experience of the national people's power, the government has no experience - Sagala Ratnayake
-
-*2024-11-05 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/197966) · `ta`
-
-National People's Power experienced in politics, but government lacks vision. No development plan presented. Economy declining; need clear strategy to revive growth. Government must reveal its economic roadmap to address current challenges.
-
-🟩
-
-There is experience in politics for national people's power. But the government has no experience. That is why they have not yet revealed the program to build the bargain. The new Democratic Front's Colombo district candidate Sagala Ratnayake said they had no such program.
-
-He was speaking at a press conference held at the New Democratic Front's election office in Colombo on Tuesday (05).
-
-The government has no experience of the national people's power to know from their last one month's actions. The government, including the president, is still in the opposition and is now acting like criticism.
-
-They must have a formal program to manage the country. There should be a travel way to advance the country.
-
-But so far they have not put forward any such program to the country. This is due to their lack of experience.
-
-...
-
-[Data](articles/bb133aad.json)
-
-[Extended Data](ext_articles/bb133aad.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 293.00/15 to dollar, bonds steady
-
-*2024-11-05 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-293-00-15-to-dollar-bonds-steady-186198/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed more or less flat at 293.00/15 to the US dollar Tuesday from 293.05/20 to the US dollar on Monday dealers said, while bond yields were steady.
-
-A bond maturing on 15.12.2026 closed at 10.55/65 percent, from 10.50/75 percent.
-
-A bond maturing on 15.12.2027 closed at 11.40/55 percent, from 11.40/60 percent.
-
-A bond maturing on 15.03.2028 closed at 11.68/78 percent, down from 11.70/80 percent.
-
-A bond maturing on 15.06.2029 closed at 11.95/12.05 percent, from 11.95/12.05 percent.
-
-The central bank announced it will be issuing Rs 175,000 million Treasury bills through an auction on Wednesday (6). (Colombo/Nov05/2024)
-
-◼️
-
-[Data](articles/164a316e.json)
-
-[Extended Data](ext_articles/164a316e.ext.json)
-
----
-
-### The new Magazine Prison main jailor and a regulator suspended
-
-*2024-11-05 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202938) · `si`
-
-New Magazine Prison jailor and regulator suspended due to inmate abuse allegations. Commissioner of Prisons confirms misconduct.
-
-🟩
-
-Regulatory work of the main jail and the storage custodian of the new Magazine Prison in Colombo was suspended.
-
-The Commissioner of Prisons (Media Spokesperson) has revealed that the prison inmates have been abused by the main jarrror and the guidance in the new Magazine Prison in Colombo.. Mr. Dissanayake said.
-
-◼️
-
-[Data](articles/6a2d5d4d.json)
-
-[Extended Data](ext_articles/6a2d5d4d.ext.json)
-
----
-
-### Chief Jailor and storekeeper of New Magazine Prison suspended
-
-*2024-11-05 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103186/chief-jailor-and-storekeeper-of-new-magazine-prison-suspended-) · `en`
-
-The Chief Jailor and a prison guard who served as the storekeeper of the New Magazine Prison in Colombo have been suspended.
-
-They have been suspended from the service over an alleged incident of providing mobile phones to a prisoner who is serving a life sentence, the Spokesman of the Department of Prisons Gamini B. Dissanayake said.
-
-The Prisons Spokesman stated that an investigation carried out by the Department of Prisons based on information uncovered during a probe conducted by the Terrorism Investigation Division (TID) revealed that the two prison officers have had a close relationship with the prisoner in question.
-
-Furthermore, the Prisons Spokesman added that strict disciplinary action will be taken against the prison officers involved in corruption and that legal proceedings will be initiated against them.
-
-◼️
-
-[Data](articles/ea57d0f8.json)
-
-[Extended Data](ext_articles/ea57d0f8.ext.json)
 
 ---

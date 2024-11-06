@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 17:24:32**
+As of **2024-11-06 17:41:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,389 (100.0%) of 53,392 articles have been extended.
+53,392 (100.0%) of 53,392 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The attorneys, who pointed out that the relevant injunction will be in effect un
 ...
 
 [Data](articles/3f4f379b.json)
+
+[Extended Data](ext_articles/3f4f379b.ext.json)
 
 ---
 
@@ -92,6 +94,8 @@ Presenting an investigation report, CID officials confirmed that inquiries into 
 
 [Data](articles/317284ed.json)
 
+[Extended Data](ext_articles/317284ed.ext.json)
+
 ---
 
 ### Three arrested over murder of Kempitiya Walawwa owner
@@ -111,6 +115,8 @@ Further information had also been received that the suspects were hiding in a ho
 ...
 
 [Data](articles/868550db.json)
+
+[Extended Data](ext_articles/868550db.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 06:45:26**
+As of **2024-11-06 07:26:45**
 
 ## Newspaper Stats
 
-*Scraped **53,261** Articles*
+*Scraped **53,269** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,165 @@ colombotelegraphcom | 544
 bbccomsinhala | 544
 islandlk | 3,189
 economynextcom | 3,226
-dailyftlk | 3,635
+dailyftlk | 3,641
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
 tamilmirrorlk | 7,414
 virakesarilk | 8,605
-adaderanasinhalalk | 9,280
+adaderanasinhalalk | 9,282
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,253 (100.0%) of 53,261 articles have been extended.
+53,255 (100.0%) of 53,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### ඇළෙන් එගොඩ වෙන්න ගිය කැබ් රථය සැඩපහරට හසුවෙයි
+
+*2024-11-06 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202950) · `si`
+
+කොස්ගම පොලිස් වසමේ ඇස්වත්ත මානකඩ මාර්ගයේ රබුකේ වත්ත අතුරු මාර්ගයේ තුමෝදර ඇළෙන් එගොඩ වීමට ගිය කැබ් රථයක් සැඩපහර හසුව ගසාගෙන ගොස් තිබේ.
+
+ඊයේ (05) සවස මෙම අනතුර සිදුව ඇති අතර, පොලීසිය පැවසුවේ කැබ් රථය මීටර් 50ක් පමණ ගසාගෙන ගොස් ඇති බවය.
+
+කෙසේවෙතත් සිද්ධිය වූ අවස්ථාවේ රියදුරු ඇතුළු පුද්ගලයින් සිව්දෙනෙකු කැබ් රථයේ ගමන් කර ඇති අතර, ඉන් දෙදෙනෙකු දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+
+එලෙස මියගොස් ඇත්තේ, අවුරුදු 27ක් හා 69ක් වූ බලල්කොටුව හා කිරිබත්ගොඩ ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+මෘත ශරීර අවිස්සාවේල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කොස්ගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/19a49a5b.json)
+
+---
+
+### Heavy rains in several areas today
+
+*2024-11-06 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202948) · `si`
+
+Heavy rains expected in Sabaragamuwa, Uva, Western provinces. Thunderstorms developing in evening. Over 50mm rainfall possible. Lighter showers in Northern and Northwestern provinces. Public advised to be cautious due to potential wind and lightning hazards.
+
+🟩
+
+Thundershowers will develop at several places in the evening, Sabaragamuwa, Uva, Uva, Uva and Western provinces.
+
+Department of Meteorological Department announced, mm. Heavy rains can occur in more than 50.
+
+Several thin rain can occur in the North and Northwestern provinces.
+
+Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/846027ef.json)
+
+[Extended Data](ext_articles/846027ef.ext.json)
+
+---
+
+### Benji celebrates 5 major wins at Lectra Stella Awards
+
+*2024-11-06 06:05:29* · [`dailyftlk`](https://www.ft.lk/business/Benji-celebrates-5-major-wins-at-Lectra-Stella-Awards/34-768881) · `en`
+
+CEO and Managing Director Giorgio Montresor receiving the awards for excellence
+
+Benji Ltd., a renowned company in Sri Lanka with Board of Investment (BOI) status, recently emerged as a top performer at the prestigious Lectra Stella Awards held on 18 October, at Shangri-La Colombo.
+
+The company celebrated remarkable success by winning five Cutting Section awards in the across key categories including Best Performance, Highest Efficiency, Best Uptime, Overall Equipment Effectiveness and Best Competency.
+
+Organised by Apparel Technologies, the award ceremony honours industry leaders who have transformed garment manufacturing in Sri Lanka through advanced, automated cutting-room solutions. These recognitions celebrate organisations that redefine efficiency and productivity standards to align with the nation’s commitment to precision and quality in garment manufacturing.
+
+...
+
+[Data](articles/845d49ce.json)
+
+---
+
+### Inovartic Investment launches Abu Dhabi University Graphene Centre in partnership with SLINTEC
+
+*2024-11-06 06:01:21* · [`dailyftlk`](https://www.ft.lk/business/Inovartic-Investment-launches-Abu-Dhabi-University-Graphene-Centre-in-partnership-with-SLINTEC/34-768880) · `en`
+
+Inovartic Investment Lanka Ltd., a joint venture between Sri Lanka’s Apex Asia Holdings and UAE’s Inovartic Investment LLC, has announced the launch of the Abu Dhabi University Graphene Centre – an advanced facility dedicated to pioneering research in graphene technology.
+
+This centre was inaugurated at Abu Dhabi University to drive scientific progress and international collaborations in nanotechnology, aligning with the UAE’s “Make It in the UAE” initiative. This ambitious project brings together Inovartic Investment, Abu Dhabi University, and the Sri Lanka Institute of Nano Technology (SLINTEC) to explore graphene applications across sectors, including electronics, medical devices, EV batteries, water treatment, agriculture, materials science, and energy.
+
+...
+
+[Data](articles/614998ba.json)
+
+---
+
+### E.B. Creasy Solar secures exclusive distribution agreement with Thornova Solar in Sri Lanka
+
+*2024-11-06 05:59:38* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-Solar-secures-exclusive-distribution-agreement-with-Thornova-Solar-in-Sri-Lanka/34-768879) · `en`
+
+E.B. Creasy Solar, in collaboration with Thornova Solar, forges an exclusive partnership to advance futures in sustainable development through investment in reliable energy solutions
+
+E.B. Creasy Solar, the renewable energy arm of E.B. Creasy & Co. PLC, has been appointed as the exclusive distributor for Thornova Solar in Sri Lanka, forging a significant step forward in the advancement of sustainable energy solutions in the country.
+
+The strategic partnership enables E.B. Creasy Solar, a long-standing advocate of sustainable development, to bring Thornova Solar’s cutting-edge solar products to the local market, providing customers with reliable and efficient solar energy solutions. It also reinforces E.B. Creasy Solar’s position as a leading provider of renewable energy solutions in the country.
+
+...
+
+[Data](articles/b6dd3799.json)
+
+---
+
+### Sri Lanka gears up for first-ever marine summit ‘Voyage  Sri Lanka 2024’
+
+*2024-11-06 05:57:57* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-gears-up-for-first-ever-marine-summit-Voyage-Sri-Lanka-2024/34-768878) · `en`
+
+Sri Lanka is set to host its inaugural marine summit, ‘Voyage Sri Lanka 2024’ on 26 November, a landmark event aimed at bringing together marine industry leaders, policymakers and innovators to explore the future of the country’s marine sector.
+
+This pioneering summit will dive into sustainable practices, technological advancements and export opportunities in the industry, making it an essential forum for professionals in the marine, boat-building, and offshore sectors.
+
+With the event’s countdown underway, organiser Export Development Board (EDB) is encouraging enthusiasts and professionals alike to register in advance to secure their spots. Attendees will gain insights from top experts in the field and have the chance to network with a diverse group of professionals, from industry veterans to emerging innovators.
+
+...
+
+[Data](articles/35beaf48.json)
+
+---
+
+### Chabad House in Arugam Bay: Bringing Gaza home?
+
+*2024-11-06 05:56:21* · [`dailyftlk`](https://www.ft.lk/opinion/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/14-768877) · `en`
+
+While all Israeli tourists should be welcomed – and protected, when necessary – the Chabad House should be closed down and long-term visas denied to members of the Movement
+
+“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
+
+Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
+
+The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
+
+...
+
+[Data](articles/d2ae5c3a.json)
+
+---
+
+### Why Sri Lanka needs a strong, united parliament now more than ever
+
+*2024-11-06 05:50:05* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-a-strong-united-parliament-now-more-than-ever/4-768876) · `en`
+
+Let’s build a parliament that values progress over politics, one that can make bold decisions for the betterment of Sri Lanka
+
+Just a few weeks ago, Sri Lanka elected a new President, Anura Kumara Dissanayake, with high hopes for real, lasting change. But real change isn’t something a President can achieve alone. If we truly want to see our nation thrive, we need to come together in the upcoming General Election to build a strong, united parliament that supports the President’s vision: A Thriving Nation – A Beautiful Life.
+
+...
+
+[Data](articles/c386a0a4.json)
+
+---
 
 ### Overhead bridge being used for multiple purposes
 
@@ -977,6 +1119,8 @@ The recent presidential election in Sri Lanka marked a series of “firsts,” s
 ...
 
 [Data](articles/1d2ce5a8.json)
+
+[Extended Data](ext_articles/1d2ce5a8.ext.json)
 
 ---
 
@@ -2227,189 +2371,5 @@ Police also mentioned that Clorian is the son of another notorious criminal and 
 [Data](articles/cd8932d7.json)
 
 [Extended Data](ext_articles/cd8932d7.ext.json)
-
----
-
-### Nation Lanka Finance to raise Rs3bn through private placement
-
-*2024-11-05 14:32:00* · [`economynextcom`](https://economynext.com/nation-lanka-finance-to-raise-rs3bn-through-private-placement-186151/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Nation Lanka Finance said it plans a private placement of 30 billion ordinary shares at 10 cents a share to meet working capital requirements.
-
-Five billion ordinary shares will be issued initially and subsequently twenty five billion ordinary shares, to Sugath Rathnawardana Holding Ceylon (Pvt) Limited, the finance company said in a stock exchange filing.
-
-The company has received in principal approval from the Central Bank of Sri Lanka subject to necessary regulatory approvals.
-
-Nation Lanka Finance’s current stated capital is 4.1 billion rupees (4,108,420,583.00) and the new funds will “meet the Core Capital Requirement and the funds will be utilized to meet the working capital requirements,” it said.
-
-◼️
-
-[Data](articles/28a450aa.json)
-
-[Extended Data](ext_articles/28a450aa.ext.json)
-
----
-
-### Kamala Harris’ ancestral village in India to pray for her election victory
-
-*2024-11-05 14:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103180/kamala-harris-ancestral-village-in-india-to-pray-for-her-election-victory) · `en`
-
-Residents in U.S. Democratic presidential candidate Kamala Harris’ ancestral village in southern India were preparing to hold prayers on election day on Tuesday in a Hindu temple more than 8,000 miles (13,000 km) from Washington.
-
-Harris’ maternal grandfather P.V. Gopalan was born more than a century ago in the leafy village of Thulasendrapuram in what is now southern India’s Tamil Nadu state.
-
-“There will be a special prayer on Tuesday morning at the temple,” G. Manikandan, a villager who runs a small store near the temple, said. “Celebrations will follow if she wins.”
-
-At the temple, Harris’ name is engraved into a stone that lists public donations, along with that of her grandfather. Outside, a large banner wishes “the daughter of the land” success in the election.
-
-Gopalan and his family migrated a few hundred miles to the coastal city of Chennai, Tamil Nadu’s capital, where he worked as a high-ranking government official until his retirement.
-
-...
-
-[Data](articles/afe1e04c.json)
-
-[Extended Data](ext_articles/afe1e04c.ext.json)
-
----
-
-### கர்ப்பிணிப் பெண்ணுடன் பள்ளத்தில் கவிழ்ந்த லொறி
-
-*2024-11-05 14:15:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கர்ப்பிணிப்-பெண்ணுடன்-பள்ளத்தில்-கவிழ்ந்த-லொறி/76-346603) · `ta`
-
-A pregnant woman fell from a lorry on a road near a hospital. The lorry crashed due to lack of driver control. The woman suffered injuries and was hospitalized. Police are investigating further.
-
-🟩
-
-நிறுத்தி வைக்கப்பட்டிருந்த லொறி ஒன்று வீதியை விட்டு விலகி சுமார் 20 அடி  பள்ளத்தில் கவிழ்ந்துள்ளதுடன் இதன்போது லொறிக்குள் இருந்த கர்ப்பிணிப் பெண் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-The accident occurred at around 12 noon on Tuesday (05) near the Dikoya Primary Hospital on the Hatton - Bogawantalawa main road.
-
-The pregnant woman was taken to the hospital in a lorry and the pregnant woman was sitting in the lorry when the medical work was completed.. At the time, the lorry went forward without a driver and crashed into the ditch.
-
-விபத்தில் லொறிக்கு பலத்த சேதம் ஏற்பட்டுள்ளதாகவும், கர்ப்பிணிப் பெண்ணை வைத்தியசாலையில் அனுமதிக்கப்பட்டதாகவும் தெரிவித்த பொலிஸார் இது தொடர்பான மேலதிக விசாரணைகளை முன்னெடுத்து வருகின்றனர்.
-
-◼️
-
-[Data](articles/e9d9aa2f.json)
-
-[Extended Data](ext_articles/e9d9aa2f.ext.json)
-
----
-
-### CBK fears assassination plot following cut down on security
-
-*2024-11-05 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103179/cbk-fears-assassination-plot-following-cut-down-on-security-) · `en`
-
-Former President Chandrika Bandaranaike Kumaratunga has voiced suspicions of a possible plot to assassinate her, similar to the politically motivated assassination of her husband, the late Vijaya Kumaratunga.
-
-Furthermore, the former President raised concerns over the reduction in her security detail, claiming that the move poses a direct threat to her safety, referencing past political conspiracies.
-
-In a letter addressed to Secretary of the Ministry of Public Security Ravi Seneviratne, Kumaratunga highlighted the reduction of her security personnel from 50 to 30, following an order issued on October 31 by Senior DIG Ajith Hemasiri.
-
-Kumaratunga noted in the letter that other former presidents currently receive significantly higher levels of protection. She has highlighted that Mahinda Rajapaksa is provided with 243 security personnel, including both military and police officers, while Maithripala Sirisena and Gotabaya Rajapaksa have 109 and 200 security officers, respectively.
-
-...
-
-[Data](articles/30b448fd.json)
-
-[Extended Data](ext_articles/30b448fd.ext.json)
-
----
-
-### Although many parliamentarians have been elected in Colombo in the past, they have not been of any benefit to the people - Lion Mano
-
-*2024-11-05 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/197941) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Colombo parliamentarians ineffective after 30 years; Lion Mano criticizes politicians' lies during elections. He promises solutions to issues like flooding, traffic, education problems if elected.
-
-🟩
-
-For the past 30 years, more than 27 people have been elected by the people and sent to Parliament, but North Ceylon has seen no development so far.. Lion Mano, who is contesting the parliamentary elections in the United Democratic Party, said that during the election period, politicians go to the people's places and provide many lies and deceive the people.
-
-Lion Mano, who is contesting the upcoming parliamentary elections in the North of Colombo on 17th in the United Democratic Voice Party in the Mike logo, said,
-
-In the 2018 Municipal Council election, I won the Municipal Council in the Colombo Municipal Council and appointed the Municipal Council as a member of the Municipal Council.
-
-Since then, I have done all the services of the Municipal Council to all in Colombo to date.
-
-Similarly, when people were in the throes of the Kovit, I gave everyone a void vaccine. The first bovit vaccine project in Sri Lanka was launched in Kakkadivu, Colombo.
-
-...
-
-[Data](articles/5b8b08c2.json)
-
-[Extended Data](ext_articles/5b8b08c2.ext.json)
-
----
-
-### Court of Appeal confirms the prison given to former Deputy Minister
-
-*2024-11-05 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202933) · `si`
-
-Court of Appeal affirms 4-year sentence for ex-Deputy Minister Shantha Premaratne. Former official found guilty of corruption involving Sampath Abeykoon and P. Judge Kumaran Ratnam issues ruling.
-
-🟩
-
-The Court of Appeal has confirmed the four serious working year in which former Deputy Minister Shantha Premaratne had been sentenced to a serious four-year-long year.
-
-The former deputy minister had the accused of obtaining Rs.
-
-Sampath Abeykoon and P. The Court of Appeal has issued the order by the Court of Appeal consisting of Kumaran Ratnam.
-
-◼️
-
-[Data](articles/28ba1dce.json)
-
-[Extended Data](ext_articles/28ba1dce.ext.json)
-
----
-
-### There is no political institution that represents the public today because the elections are not held in a timely manner - KD Lalkantha
-
-*2024-11-05 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/197924) · `ta`
-
-No political institution represents public due to delayed elections - KD Lalkantha. He advocates for timely polls to establish parliament, provincial councils, and local governments. This opportunity allows Tamil, Muslim, and female representation in Sri Lanka's political landscape.
-
-🟩
-
-KD Lalgantha, the primary candidate of the Kandy District National People's Power, said that no political organization representing the public today is due to the lack of elections in a timely manner.
-
-He was speaking at an election campaign meeting in Kumbukkandura, Teldeniya.
-
-In Sri Lanka, many people's representation organizations were running when they held elections to a people's representation agency.
-
-But now there are no parliament, provincial council or local government organizations that can manage the country. So you have to create them.
-
-This means that the provincial council or local councils are present during the parliamentary elections. Or there will be a provincial council or parliament when elections are held for local councils.
-
-This is a significant opportunity in the history of Sri Lanka because in the past, there is no election in the past.
-
-...
-
-[Data](articles/23ec17d3.json)
-
-[Extended Data](ext_articles/23ec17d3.ext.json)
-
----
-
-### ජොන්ස්ටන් රීට් පෙත්මක් ඉල්ලා අස්කර ගනී
-
-*2024-11-05 13:39:40* · [`adalk`](https://www.ada.lk/breaking_news/ජොන්ස්ටන්-රීට්-පෙත්මක්-ඉල්ලා-අස්කර-ගනී/11-412866) · `si`
-
-Sri Lanka: Former MP Prananda Jayawardena requests RTI to prevent motor vehicle incidents.
-
-🟩
-
-මෝටර් රථ සිද්ධිය සම්බන්ධයෙන් තමන්ව අත්අඩංගුවට ගන්නා ලෙස වැලැක්වීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජොන්ස්ටන් ප්‍රනාන්දු මහතා ඉදිරිපත් කළ රීට් පෙත්සම ඉල්ලා අස් කරගෙන තිබේ.
-
-◼️
-
-[Data](articles/08a8072b.json)
-
-[Extended Data](ext_articles/08a8072b.ext.json)
 
 ---

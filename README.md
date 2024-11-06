@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 19:24:35**
+As of **2024-11-06 19:40:11**
 
 ## Newspaper Stats
 
-*Scraped **53,401** Articles*
+*Scraped **53,406** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,91 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,990
-adaderanalk | 6,365
+adalk | 4,992
+adaderanalk | 6,366
 tamilmirrorlk | 7,437
 virakesarilk | 8,635
-adaderanasinhalalk | 9,310
+adaderanasinhalalk | 9,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,401 (100.0%) of 53,401 articles have been extended.
+53,406 (100.0%) of 53,406 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### President welcotes Anura Donald Trump
+
+*2024-11-06 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202981) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake welcomes Donald Trump as US President. He congratulates Trump warmly and expresses hope for cooperation to benefit both countries' citizens.
+
+🟩
+
+President Anura Kumara Dissanayake has joined Donald Trump, who was elected 47th President as 47th President of the United States.
+
+Donald J.. I will congratulate the warm greeting to Trump @realdonaldTRUmp. I look forward to dealing with you to achieve public purposes, which are beneficial to the people of Sri Lanka and the United States.
+
+◼️
+
+[Data](articles/a3120586.json)
+
+[Extended Data](ext_articles/a3120586.ext.json)
+
+---
+
+### President Dissanayake congratulates Trump, eyes stronger ties
+
+*2024-11-06 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103218/president-dissanayake-congratulates-trump-eyes-stronger-ties) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake has congratulated the President-elect of the United States Donald Trump.
+
+Congratulating Trump, President Dissanayake said that he looks forward to engaging with the new US administration to realize common objectives that benefit the people of Sri Lanka and the United States.
+
+Posting on his official ‘X’ account, Dissanayake said: “Warm congratulations to President-elect Donald J. Trump @realDonaldTrump on receiving a strong endorsement as the 47th President of the United States of America.”
+
+“I look forward to engaging with your administration in realizing common objectives of our relations that are beneficial to the people of Sri Lanka and the United States.”
+
+◼️
+
+[Data](articles/ef28a262.json)
+
+[Extended Data](ext_articles/ef28a262.ext.json)
+
+---
+
+### Mom and daughter who traveled ice drug racket
+
+*2024-11-06 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202980) · `si`
+
+Sri Lanka police arrest 3 in ice drug raid: 28-year-old man, 37-year-old woman, 58-year-old daughter seized 508g and 507g ice drugs
+
+🟩
+
+A suspect and two suspects have been arrested in a raid conducted by the Special Task Force of the Sri Jayewardenepura camp.
+
+The police said that the raid was carried out yesterday afternoon.
+
+Police have arrested a suspect and another suspect who had supported the ice drugs 508 grams.
+
+A person from a car from a car to provide drugs and had been arrested while she had been possessing 507 grams of ice.
+
+The suspect is a 28 year old resident of Kaduwela, mother and daughter in Usweetakaia, aged 37 and 58 years old.
+
+◼️
+
+[Data](articles/62ea87c4.json)
+
+[Extended Data](ext_articles/62ea87c4.ext.json)
+
+---
 
 ### Ranil nominated as a respondent at Passport Rit petition
 
@@ -143,6 +213,28 @@ Therefore, the lawyer asked the court to be released from these cases.
 [Data](articles/e72e19b2.json)
 
 [Extended Data](ext_articles/e72e19b2.ext.json)
+
+---
+
+### Special decision taken about construction of the Eastern Terminal
+
+*2024-11-06 17:47:48* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-පර්යන්තයේ-ඉදිකිරීම්-ගැන-රජය-ගත්-විශේෂ-තීරණය/11-412894) · `si`
+
+Eastern Terminal construction accelerated: Minister Vijitha Herath orders completion by 2025, extending deadline from Nov 15, 2026. Special tax relief of $750 million granted for Eastern Container Terminal development.
+
+🟩
+
+Minister Vijitha Herath has instructed to end the construction work as a special project as a special project in the Eastern Construction Terminal of the Colombo Port.
+
+According to the current situation, the construction has been extended to November 15, 2026 and the Minister has instructed to expedite its construction and end on 2025.
+
+Special tax relief for the construction of the Eastern Container Terminal has been provided with a special tax concession to US $ 750 million.
+
+◼️
+
+[Data](articles/24cdba5c.json)
+
+[Extended Data](ext_articles/24cdba5c.ext.json)
 
 ---
 
@@ -2295,103 +2387,5 @@ The body has been placed in the Polonnaruwa Hospital Mortuary for the Magistrate
 [Data](articles/ac1eb01b.json)
 
 [Extended Data](ext_articles/ac1eb01b.ext.json)
-
----
-
-### A large number of drug dealer. 10 crore property banned
-
-*2024-11-06 10:18:14* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-මත්ද්‍රව්‍ය-ජාවාරම්කරුවකුගේ-රු--කෝටි-10-ක-දේපළ-තහනමක්/11-412881) · `si`
-
-Drug dealer's 10 crore property banned. Murder investigation leads to arrest of six suspects. Police seize boat and engine used in crime. Key suspect Palani Shiran chlorhic imprisoned.
-
-🟩
-
-At the Athurugiriya Tattortile murder, Palanni Shiran chloric named Palanie Shiran chloric named Palarian Shiran chlorhi's provisions for nearly Rs.The police say that steps have been issued and banned from issuing ordered orders.
-
-The racketeer is the son of a powerful drug racketeer, Kudu Selvi. The two shotics were also the boat and engine that was prepared for the murder of Club spring.
-
-Investigations carried out by the information that the organized criminal was led by the criminal criminal, investigations have been banned.
-
-The felony of the forecasting of Rs. 90 lakhs worth Rs.The police said that the boat and engine banned from a Chilaw were banned from a Chilaw.
-
-The police arrested six persons who were arrested by the Club Wasantha's murder following the assassination of Club Wasantha in Dehiwala.Says.
-
-...
-
-[Data](articles/2c2206d9.json)
-
-[Extended Data](ext_articles/2c2206d9.ext.json)
-
----
-
-### Decision on the Gulface Ground
-
-*2024-11-06 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202958) · `si`
-
-Cabinet approves Galle Face Green for social events. Decision made at SLPA management meeting. Proposal to maintain as clean, green space.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the Cabinet has approved the grant of the Galle Face Green for various social activities.
-
-He said that the decision was taken at a Cabinet meeting held yesterday.
-
-The Cabinet Meeting held at the Cabinet Meeting held in the management and administration of the Sri Lanka Ports Authority (SLPA) under the management and administration of the Pvt.
-
-Approximately RsIt has been found that it is advisable to use the Galle Face Ground subject to the appropriate criteria for appropriate celebrations, music concerts and other celebrations.
-
-Accordingly, the proposal made by the Minister of Transport, Highways, Ports and Civil Aviation to take necessary action to be done in the concept of a "clean and green garden" is based on the concept of "clean and green."
-
-◼️
-
-[Data](articles/b218beb4.json)
-
-[Extended Data](ext_articles/b218beb4.ext.json)
-
----
-
-### Sri Lanka rupee opens steady at 293.00/05 to dollar, bond yields flat
-
-*2024-11-06 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-steady-at-293-00-05-to-dollar-bond-yields-flat-186228/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.00/05 to the US dollar Wednesday, dealers said, from 293.00/15 Tuesday, while bond yields were steady.
-
-A bond maturing on 15.12.2027 was quoted at 11.45/50 percent, from 11.40/55 percent.
-
-A bond maturing on 15.03.2028 was quoted at 11.65/75 percent, down from 11.68/78 percent.
-
-A bond maturing on 15.06.2029 was quoted stable at 11.95/12.05 percent.
-
-In equities, Colombo’s All Share Price Index opened down 0.72 percent, or 91.59 points lower at 12,704, while the S&P SL20 of more liquid stocks opened down 1.12 percent or 43.23 points lower at 3,809.
-
-◼️
-
-[Data](articles/07e298ed.json)
-
-[Extended Data](ext_articles/07e298ed.ext.json)
-
----
-
-### The only political party we are life
-
-*2024-11-06 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202957) · `si`
-
-Dilith Jayaweera, Gampaha District candidate, aims to create a populist political party focused on universal power and good governance. He emphasizes building a politician's politics without personal gain, promoting unity across all religions and nationalities. The party seeks to restore good politics in Sri Lanka.
-
-🟩
-
-The leader of the Gampaha District candidate Dilith Jayaweera says that the objective of the party is to create a populist political flow.
-
-He points out that a new vision is owned by the universal power.
-
-Addressing a meeting held at the Gampaha area, Entrepreneering Dilith Jayaweera expressed these views.
-
-"The exalgeration power re-establish a good politics in Sri Lanka. Make a good political party, create a political party that loves you. As a result, we are trying to build a politician's politics for the political force in the past. Not to enjoy privileges or other profits. As a true humanitarian face, a politics of approach. Our political movement is the only political party in the same time. We were able to access all religions, eighteen religions in united nationality. "
-
-◼️
-
-[Data](articles/4f83c36b.json)
-
-[Extended Data](ext_articles/4f83c36b.ext.json)
 
 ---

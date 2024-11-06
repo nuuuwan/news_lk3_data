@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 15:40:09**
+As of **2024-11-06 15:59:18**
 
 ## Newspaper Stats
 
-*Scraped **53,360** Articles*
+*Scraped **53,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,984
+adalk | 4,985
 adaderanalk | 6,358
 tamilmirrorlk | 7,433
 virakesarilk | 8,619
-adaderanasinhalalk | 9,302
+adaderanasinhalalk | 9,304
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,360 (100.0%) of 53,360 articles have been extended.
+53,363 (100.0%) of 53,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### 1996 houses for Chinese assistance
+
+*2024-11-06 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202972) · `si`
+
+Sri Lanka Cabinet approves 1996 housing units under Chinese aid program. Three phases: Moratuwa (575), Kottawa (108), Dematagoda (586), Maharagama (112), Peliyagoda (615). Contracts awarded to local companies.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the Cabinet has approved the approval of the Cabinet as awarded 1,996 housing units.
+
+At a press briefing held today (06), the Cabinet spokesman said that 1,996 in three phases.
+
+The government points to the construction of 1,996 housing units under the Chinese government aid program for low income people under three packages.
+
+The Chinese government has called on eight bidders who have nominated the project to implement the project.
+
+The proposal submitted by the Cabinet of Rural and Urban Development, Housing and Construction, was approved by the Cabinet of Rural and Urban Development, Housing and Construction to award the contracts as follows.
+
+Packages 01 - 575 housing units of Moratuwa and 108 housing units of Kottawa. Awarding to Ltd.
+
+Packages 2 - Award the contract to the Conventions for the construction of 586 housing units of Dematagoda and 112 housing units at Maharagama.
+
+...
+
+[Data](articles/ca597aae.json)
+
+[Extended Data](ext_articles/ca597aae.ext.json)
+
+---
+
+### Lanka T10 Super League Pallekela
+
+*2024-11-06 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202971) · `si`
+
+Sri Lanka Cricket announces Lanka T10 Super League in Pallekela from Dec 12-22. Six teams participating. Player selection on Dec 10. Each team max 17 players, reserve team min 15. Every reserve team must include 7 international players.
+
+🟩
+
+SLC announced that all the 'Lanka T10 Super League' series at the first time with Sri Lanka Cricket.
+
+It will be held from December 12 to 22 December 12th to 22nd.
+
+Kalambu Strikers, Goal Mawles, Jafna Titans, Candy Boltz, Hambantota Bangla Taigers and Nigambu Braues.
+
+Players of the tournament (selecting players) is due to be held on the 10th to the next.
+
+Every team should have a maximum of 17 players, and every reserve should have at least 15.
+
+The SLC says that seven international players should have seven international players in every reserve.
+
+◼️
+
+[Data](articles/9cb7d858.json)
+
+[Extended Data](ext_articles/9cb7d858.ext.json)
+
+---
 
 ### 35 years in prison for 4 officers
 
@@ -305,6 +363,32 @@ Those two victories ensured Republicans will hold at least a 51-49 majority in t
 [Data](articles/6da37225.json)
 
 [Extended Data](ext_articles/6da37225.ext.json)
+
+---
+
+### Banning pimples without permission and a gazetted
+
+*2024-11-06 12:51:52* · [`adalk`](https://www.ada.lk/breaking_news/අවසරයක්-නැතිව-ඌරන්-මැරීම--මස්-විකිණිම-තහනම්-කරමින්-තවත්-ගැසට්ටුවක්/11-412888) · `si`
+
+Sri Lanka bans unauthorized pig farming, slaughter, and pork production due to PRRS risk. New gazette extends restrictions on unlicensed activities and imports.
+
+🟩
+
+The Director General of Animal Production and Ruthless Areas (Pigs) and Risk of Breeding and Respiratory Disease (PRRS) and Risk (PRRS), the Director General of Animal Production and Risk and Disease (PRRS), Sri Lanka Chandrika Hemali, Kotalamwala for the second timeA special gazette notification has been issued.
+
+Earlier gazette notification had been issued on the previous October 25 and has been released today (4).
+
+New pigs, pork products and section of the pigs of the previous gazette are not banned by the new gazette and preparation of pork products.Specified.
+
+In addition, the law has been prohibited by the law that prohibited risks to carrying pigs, pigs, pigs, or pathogens in the injuries.
+
+The new gazette is also banned by the new gazette except at an authorized slaughter approved by an authorized officer.
+
+...
+
+[Data](articles/ced73be6.json)
+
+[Extended Data](ext_articles/ced73be6.ext.json)
 
 ---
 
@@ -2225,65 +2309,5 @@ A fresh controversy has erupted following reports that Sri Lanka’s Central Ban
 [Data](articles/6b79347e.json)
 
 [Extended Data](ext_articles/6b79347e.ext.json)
-
----
-
-### Strategic focus and agility in unpredictable markets
-
-*2024-11-06 05:31:18* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-focus-and-agility-in-unpredictable-markets/4-768871) · `en`
-
-One of the greatest challenges for commercial leaders is balancing immediate needs with long-term growth strategies
-
-Commercial leaders today are tasked with steering their organisations through increasingly unpredictable markets. Maintaining strategic focus while being agile is crucial for weathering sudden disruptions. Leaders must balance the long-term vision with the need to adapt swiftly to unforeseen challenges, requiring a deep understanding of market factors like consumer behaviour, competitor activity, and regulatory shifts. Regular reassessment of strategic objectives is key, and when market conditions change, quick pivots are critical.
-
-Agility doesn’t mean losing sight of the long-term strategy; it enhances execution by empowering teams to make informed, real-time decisions. Scenario planning is essential for staying aligned with core goals while adjusting to evolving conditions. This blend of focus and agility helps organisations remain proactive and adaptable.
-
-...
-
-[Data](articles/0f0ec682.json)
-
-[Extended Data](ext_articles/0f0ec682.ext.json)
-
----
-
-### “President AKD’s Govt. revolves around policies of RW and MR” – Milinda Rajapaksa
-
-*2024-11-06 05:27:00* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-Govt-revolves-around-policies-of-RW-and-MR-Milinda-Rajapaksa/4-768870) · `en`
-
-It seems that the NPP Government does not have any new or innovative ways to run the country. President Anura Kumara is just following the path that Ranil Wickremesinghe took in terms of reforms and Mahinda Rajapaksa when it comes to infrastructure development. He follows both the leaders. With regard to national security, he can follow Gotabaya Rajapaksa. Earlier, the NPP was condemning the state intelligence agencies to get political mileage but now President Anura Kumara’s stance is different. This shows he is now on the correct path by following all previous leaders
-
-Says SLPP is the best party which can give leadership to social democracy
-
-Claims Sajith Premadasa has absolutely failed and SLPP has great opportunity to take leadership of the Opposition
-
-Says NPP will bring more senior JVPers but not new NPPers to Parliament
-
-Tips SLPP, Ranil Wickremesinghe’s party and SJB will bring new faces to Parliament
-
-Cautions NPPers in Parliament will have serious issues due to their inexperience
-
-...
-
-[Data](articles/780997c4.json)
-
-[Extended Data](ext_articles/780997c4.ext.json)
-
----
-
-### SC orders trial continuation for ex-IGP and Defence Secretary in Easter Sunday case
-
-*2024-11-06 05:13:53* · [`dailyftlk`](https://www.ft.lk/news/SC-orders-trial-continuation-for-ex-IGP-and-Defence-Secretary-in-Easter-Sunday-case/56-768864) · `en`
-
-Former Defence Secretary Hemasiri Fernando (left) and former Inspector General of Police (IGP) Pujith Jayasundara
-
-The Supreme Court has overturned the previous acquittal of former Inspector General of Police (IGP) Pujith Jayasundara and former Defence Secretary Hemasiri Fernando in relation to the 2019 Easter Sunday bombings, ordering the Colombo High Court Trial-at-Bar to proceed with the trial and require the accused to present their defence.
-
-The ruling, delivered by a five-judge Supreme Court bench comprising Justices Preethi Padman Surasena, Yasantha Kodagoda, Kumudini Wickremasinghe, Mahinda Samayawardhena, and Arjuna Obeyesekere, was in response to appeals filed by the Attorney General.
-
-...
-
-[Data](articles/e16042b5.json)
-
-[Extended Data](ext_articles/e16042b5.ext.json)
 
 ---

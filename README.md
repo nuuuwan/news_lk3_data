@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 17:09:47**
+As of **2024-11-06 17:24:32**
 
 ## Newspaper Stats
 
-*Scraped **53,389** Articles*
+*Scraped **53,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,987
-adaderanalk | 6,359
+adaderanalk | 6,362
 tamilmirrorlk | 7,436
 virakesarilk | 8,635
 adaderanasinhalalk | 9,308
@@ -26,41 +26,117 @@ adaderanasinhalalk | 9,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,387 (100.0%) of 53,389 articles have been extended.
+53,389 (100.0%) of 53,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### ප්‍රදේශ රැසකට නායයෑමේ අනතුරු ඇඟවීමක්
+### Court to review injunction against e-passport purchase; Ex-President Ranil named respondent
+
+*2024-11-06 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103213/court-to-review-injunction-against-e-passport-purchase-ex-president-ranil-named-respondent) · `en`
+
+Former President Ranil Wickremesinghe has been named as a respondent of the writ petition filed with the Court of Appeal challenging the previous government’s decision to purchase passports from two foreign companies.
+
+Wickremesinghe has been named as a respondent of the relevant writ petition filed by Epic Lanka Private Limited, through a motion submitted by the petitioning party, when the petition was taken up before the two-member Appeals Court judge bench comprising Justices Mohammed Laffar and P. Kumaratnam today (06).
+
+During the hearing, the attorneys who appeared for the two foreign companies named as respondents stated that their clients have been critically prejudiced through the interim injunction issued by the court preventing the purchase of 5 million e-passports.
+
+The attorneys, who pointed out that the relevant injunction will be in effect until the hearings of the petition are concluded, requested the court to issue an order lifting the injunction.
+
+...
+
+[Data](articles/3f4f379b.json)
+
+---
+
+### Landslide warning to many areas
 
 *2024-11-06 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202976) · `si`
 
-අද (06) පස්වරු 4:00 සිට හෙට (07) පස්වරු 4:00 දක්වා බලපැවැත්වෙන පරිදි ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් ප්‍රදේශ කිහිපයකට පූර්ව නායයෑමේ අනතුරු ඇඟවීම් නිවේදනයක් නිකුත් කර තිබේ.
+National Building Research Organization issues landslide warnings for multiple areas starting 4:00 PM today. Affected regions include Dehumanagala, Ruwanagala, Ruwanwella, Dehigamuwa, Yatiyantota, Galigamuwa, Araniyapitiya, Kurunegala, Kuruwita, Eheliyagoda, Badulla, Galle, Kalutara, Kandy, Matara districts. Residents advised to take precautions.
 
-ඒ අනුව කෑගල්ල දිස්ත්‍රික්කයේ දැරණියගල, රුවැන්වැල්ල, දෙහිඹ්විට, යටියන්තොට, කෑගල්ල, ගලිගමුව, බුලත්කොහුපිටිය, වරකාපොළ සහ අරණායක යන ප්‍රාදේශීය ලේකම් කොට්ඨාස මෙන්ම රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර, කුරුවිට සහ ඇහැලියගොඩ ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත "අවදානයෙන් සිටින්න" යනුවෙන් දැනුම්දී ඇත.
+🟩
 
-එමෙන්ම බදුල්ල, ගාල්ල, කළුතර, මහනුවර, කුරුණෑගල, සහ මාතර දිස්ත්‍රික්කවල අවදානම් ප්‍රදේශ සඳහා "විමසිලිමත්ව සිටින්න" යනුවෙන් නායයෑම් අනතුරු ඇඟවීමක් නිකුත් කර තිබේ.
+The National Building Research Organization has issued a warning of pre-landscape warning to several areas from 4:00 pm today (06).
+
+Accordingly Dehumanagala, Ruwanagala, Ruwanwella, Dehigamuwa, Yatiyantota, Galigamuwa and Araniyapitiya, Kurunegala, Kuruwita and Eheliyagoda.
+
+A landslide warning has been issued to "keep" for the Badulla, Galle, Kalutara, Kandy, Kurunegala, and Matara districts.
 
 ◼️
 
 [Data](articles/e96a6454.json)
 
+[Extended Data](ext_articles/e96a6454.ext.json)
+
 ---
 
-### සමේ පිළිකා වැඩිවීමට ආලේපන හේතුවන බවට අනාවරණයක්
+### Court orders to probe false report on President published online during election
+
+*2024-11-06 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103212/court-orders-to-probe-false-report-on-president-published-online-during-election) · `en`
+
+The Colombo Magistrate’s Court today (06) ordered the Criminal Investigation Department (CID) to carry out a full investigation into a false report published on the internet regarding the incumbent President during the recent presidential election.
+
+It is alleged that the report in question, published during the election period, had made false claims concerning the health of the incumbent President Anura Kumara Dissanayake.
+
+The court directed the CID to investigate the incident thoroughly and to arrest and produce the suspects before the court.
+
+The CID had presented the fatcs to the Colombo Magistrate’s Court today, according to a complaint made by Attorney-at-Law Sunil Watagala,.
+
+In his complaint, Watagala stated that this false information was uploaded to the internet via an account belonging to an individual b the name of ‘Subhash.’
+
+Presenting an investigation report, CID officials confirmed that inquiries into the incident are ongoing.
+
+◼️
+
+[Data](articles/317284ed.json)
+
+---
+
+### Three arrested over murder of Kempitiya Walawwa owner
+
+*2024-11-06 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103211/three-arrested-over-murder-of-kempitiya-walawwa-owner) · `en`
+
+Three individuals, including the wife of a wealthy businessman, have been arrested in connection with the murder of the owner of Kempitiya Walawwa in Kegalle.
+
+The victim was found tied up and strangled to death on October 27. Later, police found his wife who had also been tied up.
+
+According to police, the murder was carried out with the intent to robbing cash and gold jewellery from the house however, they had only managed to steal Rs. 10,000 in cash and the victim’s gold ring.
+
+Accordingly, the officer-in-charge (OIC) of the Kegalle Division Crimes Investigation Unit, Chief Inspector Apasara Abeysekara who led the investigation, received information that a person who was involved in two similar robberies in Dedigama and Warakapola areas recently was also connected with this murder.
+
+Further information had also been received that the suspects were hiding in a house in the Thumbowila area in Piliyandala.
+
+...
+
+[Data](articles/868550db.json)
+
+---
+
+### Discovered that the coatings would cause skin cancer
 
 *2024-11-06 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202975) · `si`
 
-පසුගිය අවුරුදු කිහිපය ඇතුළත මෙරට සමේ පිළිකා ඇති රෝගීන්ගේ සංඛ්‍යාවේ වැඩිවීමක් දක්නට ලැබෙන බව චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ශ්‍රියානි සමරවීර මහත්මිය පැවසුවාය.
+Here's a 200-character summary:
 
-අද (06) සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඇය සඳහන් කළේ, සමේ ආලේප කරනු ලබන විවිධ ආලේපන ඊට එක හේතුවක් බවය.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ශ්‍රියානි සමරවීර මහත්මිය,
+
+Skin cancer cases rising in Sri Lanka due to harmful coatings. Experts advise treating skin conditions promptly, reducing dry skin moisturizers, eating local fruits and veggies, using sunscreen, and maintaining proper diet and hair care.
+
+🟩
+
+In the last few years, Ms. Samaraweera said that the number of patients with patients in Sri Lanka has increased in the past few years.
+
+Addressing a media brief held in the Health Promotion Bureau today (06), she said that there is one of the skin anointed coating.
+
+Samayani Samaraweera, Speaking further
 
 ...
 
 [Data](articles/3f2aa5f7.json)
+
+[Extended Data](ext_articles/3f2aa5f7.ext.json)
 
 ---
 
@@ -2315,73 +2391,5 @@ Commissioner General of the General Saman Sri Ratnayake said the meeting would b
 [Data](articles/3429c4cf.json)
 
 [Extended Data](ext_articles/3429c4cf.ext.json)
-
----
-
-### Sri Lanka relaxes restrictions on animal transport over African swine fever
-
-*2024-11-06 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103196/sri-lanka-relaxes-restrictions-on-animal-transport-over-african-swine-fever) · `en`
-
-Sri Lanka’s Department of Animal Production and Health has announced steps to issue a new Gazette notification, relaxing some of the restrictions imposed earlier due to the African swine fever outbreak.
-
-Director General of the department Dr. Hemali Kothalawala stated that permission has now been granted for the transportation of healthy animals.
-
-“Based on the current situation in the field, there has been a slight decrease in the spread of the disease this week, and it’s essential to protect the industry,” Dr. Kothalawala explained.
-
-“We have relaxed certain restrictions and issued a new Gazette, which will be effective from November 4 until further notice. Previously, animal transportation was prohibited, but under the new Gazette, non-infected animals may now be transported, provided they have an animal health report from a veterinarian.”
-
-...
-
-[Data](articles/712a09fe.json)
-
-[Extended Data](ext_articles/712a09fe.ext.json)
-
----
-
-### Businessman killed in surhiky
-
-*2024-11-06 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202953) · `si`
-
-Here's a 200-character summary:
-
-
-
-Businessman dies in Polonnaruwa police area. Incident occurred in Muslim Kolonnawa region.
-
-🟩
-
-A businessman in the Muslim Kolonnawa area has died in the Polonnaruwa police area.
-
-◼️
-
-[Data](articles/43fd6147.json)
-
-[Extended Data](ext_articles/43fd6147.ext.json)
-
----
-
-### Paddy and Rice Reserve Report to be handed over to the President today
-
-*2024-11-06 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197997) · `ta`
-
-Paddy and Rice Reserve Report summary: Survey conducted in 17 districts; Consumer Affairs Authority collected data from rice mill owners; report to be handed over to President Anura Kumara Dissanayake today; President to consider issues before taking action; rice sold above control price in markets.
-
-🟩
-
-The report prepared on the paddy and rice stockpile will be handed over to President Anura Kumara Dissanayake today (06).
-
-The report is based on data obtained in studies carried out in 17 districts.
-
-Consumer Affairs Authority officials recently conducted a survey of paddy and rice reserves in the owners of large, medium and small -scale rice mills in those districts.
-
-The Ministry of Commerce said that the President will take action after considering the issues mentioned in the report.
-
-Meanwhile, rice is sold at a higher price than the control price in the markets.
-
-◼️
-
-[Data](articles/c0e3e862.json)
-
-[Extended Data](ext_articles/c0e3e862.ext.json)
 
 ---

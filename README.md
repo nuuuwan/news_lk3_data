@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 00:25:47**
+As of **2024-11-07 00:39:59**
 
 ## Newspaper Stats
 
-*Scraped **53,445** Articles*
+*Scraped **53,448** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
 economynextcom | 3,242
-dailyftlk | 3,645
+dailyftlk | 3,648
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
@@ -26,9 +26,27 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,435 (100.0%) of 53,445 articles have been extended.
+53,436 (100.0%) of 53,448 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-07 (Thursday)
+
+### Truth, lies, national security,  and value of democratic Opposition
+
+*2024-11-07 00:13:53* · [`dailyftlk`](https://www.ft.lk/columns/Truth-lies-national-security-and-value-of-democratic-Opposition/4-768914) · `en`
+
+The prerequisite of our political life is the alternation of political teams in office. Indeed, what we think of as “democracy” is intimately bound up with this system of alternation, as our main liberties coincide with those necessary for the “outs” to rally support and oust the “ins.”
+
+The above writing by the French philosopher and author Bertrand de Jouvenel is quoted by JR in a speech titled “Role of the Opposition in a Parliamentary Democracy” on 7 September 1956, the year of the UNP’s most humiliating defeat to S.W.R.D. Bandaranaike’s Mahajana Eksath Peramuna (M.E.P). The defeat of 2020 cannot be counted, as the SJB is ideologically the UNP by another name.
+
+...
+
+[Data](articles/c826ecf4.json)
+
+[Extended Data](ext_articles/c826ecf4.ext.json)
+
+---
 
 ### 2024-11-06 (Wednesday)
 
@@ -79,6 +97,38 @@ At the Presidential election most Sri Lankan voters voted quite understandably w
 [Data](articles/fad8c040.json)
 
 [Extended Data](ext_articles/fad8c040.ext.json)
+
+---
+
+### Coconut: The next ‘tea’ for Sri Lanka?
+
+*2024-11-06 23:02:59* · [`dailyftlk`](https://www.ft.lk/columns/Coconut-The-next-tea-for-Sri-Lanka/4-768909) · `en`
+
+How the demand for value-added coconut products can catapult the industry as the number one export and foreign exchange generator for Sri Lanka, surpassing tea
+
+Any traveller landing in Katunayake Airport during the day can’t help but notice and marvel at the lush greenery one sees especially the thick groves of coconut trees all along the beautiful beaches and the beautiful coastline from the sky. You would then easily believe that coconuts must be a key part of Sri Lankan people’s palette, livelihoods and contributor to the economy.
+
+But the crop that has always been the biggest economic contributor, until now, is tea.
+
+Tea is numero uno in Sri Lanka. The famed ‘Ceylon Tea’ fetches Sri Lanka nearly $ 1.3 billion and employs over a million people. Alongside garments, tourism and worker remittances, they form the base of Sri Lanka’s economy and provide the foreign currency needed to import many essentials, like fuel and medicine.
+
+...
+
+[Data](articles/5c71d085.json)
+
+---
+
+### Historic deflation in 29 years  and impact on business and people
+
+*2024-11-06 22:54:28* · [`dailyftlk`](https://www.ft.lk/opinion/Historic-deflation-in-29-years-and-impact-on-business-and-people/14-768908) · `en`
+
+In a striking economic turnaround, Sri Lanka has recorded its first deflation in 29 years, with the inflation rate dipping to -0.5% in September.
+
+The Central Bank (CBSL) attributes this significant decline in general price levels to administrative price adjustments that brought down key cost drivers, including food, fuel, and revisions in water and electricity tariffs. According to the CPI, prices deflated for food and non-alcoholic beverages to -0.3%, while housing and utilities fell further to -8.4% from -6.8% in August. Although prices rebounded in other sectors such as footwear and clothing to 0.1% from -0.4% for instance, major reductions in electricity and water tariffs have lowered utility costs, driving down inflation.
+
+...
+
+[Data](articles/8716d246.json)
 
 ---
 
@@ -2361,63 +2411,5 @@ Kamala Harris at the University of Hovert, who was present at an event today, ca
 [Data](articles/3713d4ef.json)
 
 [Extended Data](ext_articles/3713d4ef.ext.json)
-
----
-
-### Ex-president CBK’s security remains unchanged, Minister assures
-
-*2024-11-06 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103205/ex-president-cbks-security-remains-unchanged-minister-assures) · `en`
-
-Minister Vijitha Herath states that the security detail of former President Chandrika Bandaranaike Kumaratunga has neither been removed nor reduced.
-
-He made these remarks in response to a question raised by a journalist during the Cabinet press conference held this morning (03).
-
-“Currently, the former presidents, especially Mrs. Chandrika Bandaranaike, has claimed that her security would be removed. No such removal has taken place. She sent a letter claiming that her security would be reduced to 30, which is incorrect. She has been provided with 57 personnel so far,” he added.
-
-◼️
-
-[Data](articles/1fe3fbf2.json)
-
-[Extended Data](ext_articles/1fe3fbf2.ext.json)
-
----
-
-### ‘No more queues for passports’: Minister on new online token system
-
-*2024-11-06 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103204/no-more-queues-for-passports-minister-on-new-online-token-system) · `en`
-
-Cabinet Spokesperson Minister Vijitha Herath says that the online system to reserve a date for obtaining passports is currently in operation effective from midnight yesterday (05).
-
-The minister explained that, due to an agreement made by the previous government with the passport supplier, it was not possible to import all the required amount of passports at once.
-
-Accordingly, passports are being delivered in batches - 50,000 in October, 100,000 by the end of November, and another 100,000 by the end of December, the Cabinet spokesman said.
-
-He further stated that the relevant arrangement had been pre-agreed, and no provision was made for bringing in the total required quantity of 750,000 passports at once. The minister also acknowledged the difficulty caused for the public as a result and emphasized the government had been working to resolve the issue.
-
-...
-
-[Data](articles/ad75c567.json)
-
-[Extended Data](ext_articles/ad75c567.ext.json)
-
----
-
-### Govt to utilise unspent 2024 funds to clear road project debt
-
-*2024-11-06 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103203/govt-to-utilise-unspent-2024-funds-to-clear-road-project-debt) · `en`
-
-The Cabinet of Ministers has green-lighted the management of unused allocations for 2024 to settle the outstanding bills under the 100,000 km road rehabilitation program.
-
-The 100,000km road rehabilitation program was launched in 2020 as a 5-year project. Due to the lack of necessary financial allocations since 2023, outstanding bills totaling Rs. 28.37 billion remain unpaid under the program, according to the Cabinet Spokesman Minister Vijitha Herath.
-
-For the year 2024, Rs. 20 billion has been allocated for essential road rehabilitation work, with 1,000km of roads identified for rehabilitation, the Minister said.
-
-Accordingly, the Cabinet of Ministers has approved the management of the allocations for 2024 that have not been used so far to settle the outstanding bills under these two programs.
-
-◼️
-
-[Data](articles/394d9578.json)
-
-[Extended Data](ext_articles/394d9578.ext.json)
 
 ---

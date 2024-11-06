@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 16:57:53**
+As of **2024-11-06 17:09:47**
 
 ## Newspaper Stats
 
-*Scraped **53,387** Articles*
+*Scraped **53,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,71 @@ adalk | 4,987
 adaderanalk | 6,359
 tamilmirrorlk | 7,436
 virakesarilk | 8,635
-adaderanasinhalalk | 9,306
+adaderanasinhalalk | 9,308
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,382 (100.0%) of 53,387 articles have been extended.
+53,387 (100.0%) of 53,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### வாக்களிக்க மறுத்தவரின் உறவை முறித்த பெண்
+### ප්‍රදේශ රැසකට නායයෑමේ අනතුරු ඇඟවීමක්
+
+*2024-11-06 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202976) · `si`
+
+අද (06) පස්වරු 4:00 සිට හෙට (07) පස්වරු 4:00 දක්වා බලපැවැත්වෙන පරිදි ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය විසින් ප්‍රදේශ කිහිපයකට පූර්ව නායයෑමේ අනතුරු ඇඟවීම් නිවේදනයක් නිකුත් කර තිබේ.
+
+ඒ අනුව කෑගල්ල දිස්ත්‍රික්කයේ දැරණියගල, රුවැන්වැල්ල, දෙහිඹ්විට, යටියන්තොට, කෑගල්ල, ගලිගමුව, බුලත්කොහුපිටිය, වරකාපොළ සහ අරණායක යන ප්‍රාදේශීය ලේකම් කොට්ඨාස මෙන්ම රත්නපුර දිස්ත්‍රික්කයේ රත්නපුර, කුරුවිට සහ ඇහැලියගොඩ ප්‍රාදේශීය ලේකම් කොට්ඨාස වෙත "අවදානයෙන් සිටින්න" යනුවෙන් දැනුම්දී ඇත.
+
+එමෙන්ම බදුල්ල, ගාල්ල, කළුතර, මහනුවර, කුරුණෑගල, සහ මාතර දිස්ත්‍රික්කවල අවදානම් ප්‍රදේශ සඳහා "විමසිලිමත්ව සිටින්න" යනුවෙන් නායයෑම් අනතුරු ඇඟවීමක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/e96a6454.json)
+
+---
+
+### සමේ පිළිකා වැඩිවීමට ආලේපන හේතුවන බවට අනාවරණයක්
+
+*2024-11-06 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202975) · `si`
+
+පසුගිය අවුරුදු කිහිපය ඇතුළත මෙරට සමේ පිළිකා ඇති රෝගීන්ගේ සංඛ්‍යාවේ වැඩිවීමක් දක්නට ලැබෙන බව චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ශ්‍රියානි සමරවීර මහත්මිය පැවසුවාය.
+
+අද (06) සෞඛ්‍ය ප්‍රවර්ධන කාර්යාංශයේ පැවති මාධ්‍ය හමුවකට එක්වෙමින් ඇය සඳහන් කළේ, සමේ ආලේප කරනු ලබන විවිධ ආලේපන ඊට එක හේතුවක් බවය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ චර්ම රෝග පිළිබඳ විශේෂඥ වෛද්‍ය ශ්‍රියානි සමරවීර මහත්මිය,
+
+...
+
+[Data](articles/3f2aa5f7.json)
+
+---
+
+### The woman who broke the relationship of the refusal to vote
 
 *2024-11-06 16:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்களிக்க-மறுத்தவரின்-உறவை-முறித்த-பெண்/50-346672) · `ta`
 
-வருங்கால கணவர் அமெரிக்க தேர்தலில் வாக்களிக்க மறுத்ததால் நிச்சயதார்த்தத்தோடு, திருமணத்தை முடிக்க விரும்புவதாக, பெண் ஒருவர் கூறியது இணையத்தில் வைரலாகி வருகிறது.
+Woman breaks engagement due to fiancé's refusal to vote in US election. Debate sparked online about political involvement in relationships.
 
-உலகமே எதிர்பார்த்த அமெரிக்க அதிபர் தேர்தலுக்கான வாக்குப்பதிவு நேற்று ஆரம்பமானது . வாக்குப்பதிவு முடிந்ததும் உடனே வாக்கு எண்ணிக்கை நடைபெற்றது.
+🟩
 
-வாக்கு எண்ணிக்கை தொடங்கியது முதலே முன்னிலையில் இருந்த குடியரசு கட்சி வேட்பாளர் டொனால்டு டிரம்ப் தற்போது 277 இடங்கள் வரை வெற்றி பெற்றுள்ளார். கமலா ஹாரி 226 இடங்களில் மட்டுமே வெற்றி பெற்றுள்ளார்.
+A woman has said that she wants to finish her marriage with an engagement as the future husband refuses to vote in the US election.
 
-அமெரிக்க அதிபர் தேர்தல் முடிவுகள் இணையத்தில் உலாவும் நேரத்தில் வாக்களிக்கத் தவறியதால், தனது வருங்கால கணவருடனான நிச்சயதார்த்தத்தை முறித்துக் கொள்ள விரும்புவதாகக் கூறி  பெண் ஒருவர் இணையத்தில் விவாதத்தைத் தூண்டியுள்ளார். (AN)
+The voting for the world's expected US presidential election began yesterday. The voting was held immediately after the voting was over.
+
+Republican candidate Donald Trump has now won up to 277 seats. Kamala Harry has won only 226 seats.
+
+A woman has triggered a debate on the Internet, saying that the US presidential election results failed to vote on the Internet, saying she wanted to break her engagement with her future husband.. (That)
 
 ◼️
 
 [Data](articles/ed337515.json)
+
+[Extended Data](ext_articles/ed337515.ext.json)
 
 ---
 
@@ -128,53 +166,71 @@ Whether it is a housing plan and what developments, new members of the party and
 
 ---
 
-### නායකත්වයේ වගකීමත් අතැතිව ශ්‍රේණිගත කිරීම් හී ඉදිරියට පැමිණි අසලංක
+### Shinwankers who came forward with the responsibility of leadership
 
 *2024-11-06 16:21:03* · [`adalk`](https://www.ada.lk/sports/නායකත්වයේ-වගකීමත්-අතැතිව-ශ්‍රේණිගත-කිරීම්-හී-ඉදිරියට-පැමිණි-අසලංක/9-412890) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් නවතම ශ්‍රේණිගත කිරීම් ප්‍රකාශයට පත් කර තිබේ.
+Sri Lanka cricket team updates: Captain Charith moves up 10 spots to 10th globally; Kusal Mendis advances one position to 35th.
 
-ඒ අනුව එක්දින ක්‍රිකට් පිතිකරුවන් ශ්‍රේණිගත කිරීම් හී ශ්‍රී ලංකා නායක චරිත් අසලංක 10 වැනි ස්ථානය දක්වා ස්ථාන 2කින් ඉදිරියට පැමිණ ඇත.
+🟩
 
-එම ශ්‍රේණිගත කිරීම් හී පැතුම් නිස්සංක තවදුරටත් 07 වැනි ස්ථානයේ රැදී සිටින්නේය.
+The latest rankings have been published by the International Cricket Council.
 
-මේ අතර කුසල් මෙන්ඩිස් 35 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් ඉදිරියට පැමිණ ඇත.
+Accordingly, Sri Lanka captain Charith has come forward to 10th to 10 places in Sri Lanka.
+
+The rankings of those ranks are still staying in the 7th.
+
+Meanwhile, Kusal Mendis has come forward from one place to 35th.
 
 ◼️
 
 [Data](articles/e75a7269.json)
 
+[Extended Data](ext_articles/e75a7269.ext.json)
+
 ---
 
-### අගමැතිනිය හා ICC ජ්‍යෙෂ්ඨ නිලධාරීන් අතර හමුවක්
+### Meeting between the Prime Minister and ICC Senior Officers
 
 *2024-11-06 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202974) · `si`
 
-අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සහ ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ (ICC) අඛණ්ඩතාව සහ මානව සම්පත් පිළිබඳ සාමාන්‍යාධිකාරී ඇලෙක්ස් මාර්ෂල් මහතා අතර හමුවක් ඊයේ (05) අග්‍රාමාත්‍ය කාර්යාලයේදී පවත්වා තිබේ.
+Prime Minister Dr. Weli Amarasuriya met ICC officers. Discussion focused on Sri Lanka's anti-corruption efforts in cricket over past 7 years. Key points: player protection, strengthening investigations, collaboration between sports ministry and cricket board. Attendees included ICC President's Counsel Sumathi Dharma Dharmawardena and Senior Attorney General Ileperuma.
 
-අයි. සී. සී. දූෂණ මර්දන ඒකකයේ අභිනවයෙන් පත් වූ ස්වාධීන සභාපති, ජනාධිපති නීතිඥ සුමති ධර්මවර්ධන මහතා ද මෙම අවස්ථාවට එක්විය.
+🟩
 
-මෙහිදී ඇලෙක්ස් මාෂල් මහතා පසුගිය වසර හත තුළ ක්‍රිකට් ක්‍රීඩාවේ දූෂණ ක්‍රියාවන්ට එරෙහිව ශ්‍රී ලංකාව ලබා ඇති ප්‍රගතිය පිළිබඳ අවදානය යොමුකර තිබේ.
+Alexal, General Manager of the Prime Minister Dr. Weli Amarasuriya and International Cricket Council (ICC) Integrity and Human Resources (ICC) Integt and Human Resources has been held yesterday.
 
-එමෙන්ම ක්‍රීඩකයින්ගේ අධ්‍යාපනයේ වැදගත්කම සහ ක්‍රීඩා අමාත්‍යාංශයේ විශේෂ විමර්ශන ශක්තිමත් කිරීමේ අවශ්‍යතා පිළිබඳ පෙන්වා දී ඇත.
+I. C. C. President's Counsel Sumathi Dharma Dharmawardena was also present at the occasion.
 
-මෙම සාකච්ඡාවට අයි. සී. සී. දූෂණ මර්දන ඒකකයේ  ජ්‍යෙෂ්ඨ කළමනාකාරු (මෙහෙයුම්) ඇන්ඩෲ එෆ්ග්‍රේව් මහතා, ජනාධිපති කාර්යාලයේ නීති අධ්‍යක්ෂ ජනරාල් ජ්‍යෙෂ්ඨ නීතීඥ විජේබණ්ඩාර මහතා,  ක්‍රීඩා අමාත්‍යාංශයේ අතිරේක ලේකම් එස්. ඉලේපෙරුම මහත්මිය සහ ක්‍රීඩා අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ෂෙමාල් ප්‍රනාන්දු යන මහත්ම මහත්මීන් ද සහභාගී වූහ.
+Here, Alex Marshal has given the attention of Sri Lanka's progress against corruption activities in cricket in the last seven years.
+
+The importance of the players of the players and the Ministry of Sports have shown requirements for strengthening special investigations.
+
+This discussion is. C. C. Mr. Andrew Fraeee of the Chief Manager of the Corruption Unit Senior Attorney General's Senior Attorney General. Mrs. Ileperuma and Director General of Sports Professor Shemal Fernando were also present.
 
 ◼️
 
 [Data](articles/3d625ae5.json)
 
+[Extended Data](ext_articles/3d625ae5.ext.json)
+
 ---
 
-### ஆயிரக்கணக்கான உயிர்களை பலியெடுக்கும் வீதி விபத்துக்கள்
+### Street accidents to sacrifice thousands of lives
 
 *2024-11-06 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198047) · `ta`
 
-'2019  - 2020  காலப்பகுதியில் வீதி விபத்துக்களால் உயிரிழந்தவர்கள் மற்றும் படுகாயமடைந்தோருக்கு அரசாங்கத்தால் 38.14 மில்லியன் ரூபா இழப்பீடு வழங்கப்பட்டுள்ளது. விபத்துக்கள் தனிநபர் அல்லது அவர்களது குடும்பங்களுக்கு அப்பால் அரசாங்கத்துக்கும் கூட பெரும் சுமையாகிறது.'
+Road accidents claim thousands of lives annually. Government pays Rs 38.14 million in compensation from 2019-2020. Accidents burden state finances beyond personal costs.
+
+🟩
+
+'The government has paid a compensation of Rs 38.14 million for the victims of road accidents and injured in the period 2019 - 2020. Accidents are also a heavy burden for the government beyond the individual or their families. '
 
 ◼️
 
 [Data](articles/c13acac6.json)
+
+[Extended Data](ext_articles/c13acac6.ext.json)
 
 ---
 
@@ -358,21 +414,31 @@ Packages 2 - Award the contract to the Conventions for the construction of 586 h
 
 ---
 
-### එල්ල වූ චෝදනා වලින් ෂාෆි නිදහස් කරයි - විඳපු දුකට අද නිමාවක් ලැබිලා තියෙනවා
+### Schaffi releases with allegations - Suffering has been completed
 
 *2024-11-06 15:18:09* · [`adalk`](https://www.ada.lk/breaking_news/එල්ල-වූ-චෝදනා-වලින්-ෂාෆි-නිදහස්-කරයි---විඳපු-දුකට-අද-නිමාවක්-ලැබිලා-තියෙනවා/11-412889) · `si`
 
-මව්වරු වඳ කළ බවට චෝදනා කරමින් වෛද්‍ය ෂියාබ්දීන් මොහොමඩ් ෂාෆි  මහතාට එරෙහිව පවරා තිබූ නඩුවේ සියුළු චෝදනා වලින් ඔහුව නිදහස් කරන ලෙස   කුරුණෑගල මහේස්ත්‍රාත් අධිකරණය අද (06දා) නියෝග කළේය.
+Here's a 200-character summary:
 
-ඒ අදාළ නඩුව අද කුරුණෑගල ප්‍රධාන මහෙස්ත්‍රාත්වරයා හමුවේ කැඳවනු ලැබු අවස්ථාවේදීයි.
 
-එම අවස්ථාවේ වෛද්‍ය ෂාෆි මාධ්‍ය වෙත මෙලෙස අදහස් දක්වා සිටියේය.
 
-“අවංකවම ඉතාම සතුටු දායක දවසක් අද. අවුරුදු 05යි මාස 06ක්. අද වන විට බොරු චෝදනාවකට, තමන්ගේ පුද්ගලික අවශ්‍යතාවයන් ඉටු කර ගැනීම සඳහා සමාජයක් මුල් කරගෙන මා සහ මගේ පවුලේ අය විඳපු දුකට අද නිමාවක් ලැබිලා තියෙනවා. ”
+Kurunegala Magistrate's Court acquits Dr. Shawbedon Mohammed Shafi after 5 years 6 months. Accused of false accusations. Family expresses relief over end of suffering and false accusations.
+
+🟩
+
+The Kurunegala Magistrate's Court today (06) ordered that he was released from the case against Dr. Shawbedon Mohammed Shafi, accusing the mothers.
+
+The case was called before Kurunegala Chief Magistrate.
+
+Dr. Shafi was told at the same time.
+
+"Honestly a very happy contribution day today. 5 years and six months. Today, a false accusation has come to an end to a society and the suffering that I and my family who suffered a society to carry out their own needs.. "
 
 ◼️
 
 [Data](articles/29c95a73.json)
+
+[Extended Data](ext_articles/29c95a73.ext.json)
 
 ---
 
@@ -2317,47 +2383,5 @@ Meanwhile, rice is sold at a higher price than the control price in the markets.
 [Data](articles/c0e3e862.json)
 
 [Extended Data](ext_articles/c0e3e862.ext.json)
-
----
-
-### Two dead after vehicle swept away by strong currents at Thummodara Canal
-
-*2024-11-06 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103195/two-dead-after-vehicle-swept-away-by-strong-currents-at-thummodara-canal) · `en`
-
-A vehicle attempting to cross the Thummodara Canal on the Eswatta Manakada Road in the Kosgama police division was swept away by strong water currents last evening.
-
-According to police, the vehicle was carried approximately 50 meters downstream. At the time of the incident, four individuals, including the driver, were in the double cab and two of them had drowned last evening (05).
-
-The deceased, aged 27 and 69, were residents of Balalkotuwa and Kiribathgoda. Their bodies have been placed in the mortuary at Avissawella Hospital.
-
-◼️
-
-[Data](articles/c3bd4e3e.json)
-
-[Extended Data](ext_articles/c3bd4e3e.ext.json)
-
----
-
-### Sad news for cake lovers
-
-*2024-11-06 08:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-பிரியர்களுக்கு-சோகமான-செய்தி/175-346640) · `ta`
-
-Cake prices soar due to rising wheat, butter costs. Bakery owners warn of further hikes if egg prices increase. Festive season may see higher cake prices unless government intervenes.
-
-🟩
-
-Bakery owners have said that if the new government does not take steps to reduce the prices of wheat mangoes and butter, the price of bakery products, including cakes during the coming festive season.
-
-They claim that the price of a kilo of wheat flour has risen from 190 to 195 rupees and butter and egg.
-
-Due to the increase in the price of bakery products, the price of a kilogram of butter cake has increased from Rs 1000 to Rs 1200.
-
-Bakery owners insist that the price of cake will be increased if the price of eggs will increase further during the coming festive season. Remble
-
-◼️
-
-[Data](articles/64e63ecb.json)
-
-[Extended Data](ext_articles/64e63ecb.ext.json)
 
 ---

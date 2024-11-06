@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 10:58:47**
+As of **2024-11-06 11:11:47**
 
 ## Newspaper Stats
 
-*Scraped **53,303** Articles*
+*Scraped **53,309** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,145 @@ islandlk | 3,189
 economynextcom | 3,226
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,975
-adaderanalk | 6,349
-tamilmirrorlk | 7,419
-virakesarilk | 8,610
-adaderanasinhalalk | 9,291
+adalk | 4,976
+adaderanalk | 6,350
+tamilmirrorlk | 7,420
+virakesarilk | 8,612
+adaderanasinhalalk | 9,292
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,301 (100.0%) of 53,303 articles have been extended.
+53,306 (100.0%) of 53,309 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### A statement from Minister Vijitha about Passport Queue
+
+*2024-11-06 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202960) · `si`
+
+Minister Vijitha Herath announces online passport application system implementation. Addresses previous issues, resolves delays. Urges public to use new online method for faster processing.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the online method is currently being implemented to receive passport.
+
+The Minister further stated that the empty passports cannot be brought to the need to meet the need, the government and the provider.
+
+...
+
+[Data](articles/64b7a06b.json)
+
+[Extended Data](ext_articles/64b7a06b.ext.json)
+
+---
+
+### China’s fabric grant for 2025 school uniforms receives approval
+
+*2024-11-06 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103201/chinas-fabric-grant-for-2025-school-uniforms-receives-approval) · `en`
+
+The People’s Republic of China has agreed to provide the total amount of around 11.82 million meters of fabric required to be provided for schoolchildren as uniform materials for the year 2025.
+
+Thus, after testing the sample sent to the Ministry of Education in relation to the relevant stock of fabric by the Sri Lanka Textile and Garment Institute (SLITA), it has been recommended that the fabric is suitable for use by school students.
+
+Accordingly, the Cabinet of Ministers has approved the proposal presented by the Prime Minister as the Minister of Education, Science and Technology to accept the Chinese Government’s grant for providing uniforms to all school students for the year 2025.
+
+◼️
+
+[Data](articles/793a545b.json)
+
+---
+
+### கால்வாயில் அடித்து செல்லப்பட்ட கெப் வாகனம் ;  இருவர் உயிரிழப்பு!
+
+*2024-11-06 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198004) · `ta`
+
+கொஸ்கம பொலிஸ் பிரிவிற்கு உட்பட்ட எஸ்வத்த - மானகட வீதியில்  தும்மோதர கால்வாயை கடக்க முற்பட்ட கெப் வாகனம் ஒன்று நீரில் அடித்துச் செல்லப்பட்டதில் இருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+விபத்தின் போது கெப் வாகனமானது சுமார் 50 மீற்றர் தூரம் வரை வெள்ளத்தில் இழுத்துச் செல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது கெப் வாகனத்தில் சாரதி உட்பட நான்கு பேர் பயணித்துள்ளதுடன், அவர்களில் இருவர் நீரில் மூழ்கி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்தவர்கள் பலல்கொட்டுவ மற்றும் கிரிபத்கொடை ஆகிய பகுதிகளைச் சேர்ந்த 27 மற்றும் 69 வயதுடையவர்களாவர்.
+
+மேலும், உயிரிழந்தவர்களின் சடலங்கள் பிரேத பரிசோதனைக்காக  அவிசாவளை வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f6d31a51.json)
+
+---
+
+### British High Commissioner who met the Defense Secretary
+
+*2024-11-06 10:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-செயலாளரை-சந்தித்த-பிரித்தானிய-உயர்ஸ்தானிகர்/175-346644) · `ta`
+
+British High Commissioner meets Defense Secretary in Sri Lanka. Discussion focuses on bilateral relations and mutual interests. Officials from Ministry of Defense and British High Commission attend.
+
+🟩
+
+British High Commissioner to Sri Lanka, Air Vice Marshal Sampath Sampath Sampath Sampath (Retired), Sri Jayawardenapura today (November 05) met in honor of the Kotte Security Headquarters.
+
+During the meeting, there was a smooth discussion between the Defense Secretary and the British High Commission on the bilateral significance and mutual importance.
+
+Air Vice Marshal Padman de Kosta of the Ministry of Defense Ministry and the Defense Advisor of the British High Commission in Colombo was also present.
+
+◼️
+
+[Data](articles/9ea44f4a.json)
+
+[Extended Data](ext_articles/9ea44f4a.ext.json)
+
+---
+
+### கடவுச்சீட்டைப் பெற்றுக்கொள்ள இன்று முதல் இணையவழியில் அனுமதி பெறலாம் !
+
+*2024-11-06 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197998) · `ta`
+
+பொதுமக்களுக்கு கடவுச்சீட்டுப் பெற்றுக்கொள்வதற்கு ஒருநாள் அல்லது சாதாரண சேவையின் கீழ் நாளொன்றை ஒதுக்கிக்கொள்ள குடிவரவு மற்றும் குடியகல்வுத் திணைக்களம் இணையவழியுடாக சேவையை வழங்குகிறது.
+
+2024.11.06 ஆம் திகதி முதல் கடவுச்சீட்டு விண்ணப்பதாரிகளின் வசதி கருதி கடவுச்சீட்டுக்கு விண்ணப்பிப்பதற்கு புதிய முறையொன்று நடைமுறைப்படுத்தப்பட்டுள்ளது.
+
+1. அதற்கமைய, 2024.11.06ஆம் திகதி முதல் இலங்கை கடவுச்சீட்டுக்கு விண்ணப்பிப்பதற்கு http://www.immigration.gov.lk இணைப்பினூடாக முன்கூட்டிய பதிவொன்றை மேற்கொள்ளல் வேண்டும். அன்றைய நாள் முதல் பதிவுசெய்யும் விண்ணப்பதாரர்களின் விண்ணப்பங்கள் 2024.12.04 ஆம் திகதி புதன்கிழமை முதல் ஏற்றுக்கொள்ளப்படும்.
+
+2. எனவே, 2024.12.03ஆம் திகதி செய்வாய்கிழமை வரை இதுவரையில் காணப்பட்ட முறைக்கு அமைய நாட்களைப் பெற்றுக்கொண்டுள்ள ஒழுங்குமுறைக்கு அமைய கடவுச்சீட்டு விண்ணப்பங்கள் ஏற்றுக்கொள்ளப்படும்.
+
+3. புதிய கடவுச்சீட்டு விண்ணப்பதாரிகள்/ தற்போது கடவுச்சீட்டுக்களைவைத்திருப்பவர்கள்/ காணாமல்போன கடவுச்சீட்டுக்கள் என்பவற்றுக்கு இந்தப் புதிய முறையின் ஊடாக பதிவுசெய்ய முடியும்.
+
+...
+
+[Data](articles/9e8e93e4.json)
+
+---
+
+### We don't want to control the media - there is a responsibility
+
+*2024-11-06 10:41:03* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-මර්ධනය-කරන්න-අපිට-කිසිදු-උවමනාවක්-නෑ---මාධ්‍යටත්-වගකීමක්-තියෙනවා/11-412882) · `si`
+
+Here's a 200-character summary:
+
+
+
+Government denies media suppression; emphasizes journalist safety and media ethics.
+
+🟩
+
+Cabinet Publisher, Media Minister Vijitha Herath said that the present government has no need to suppress the media.
+
+He was speaking at a press briefing in the decision of the Cabinet Decision.
+
+"The Prime Minister has not interrupted the journalists at any time. It's a complete hearing. Security personnel to stay safe. It's their responsibility on the safety. Do not pinch it in the wrong way. It's wrong. The Prime Minister's security personnel will be fulfilled their responsibility to fulfill their responsibility. Don't be highlighted that it is a media cricence. Because the past didn't even know close. It is very clear that you should not interpret a small event and to interpret the boss.
+
+...
+
+[Data](articles/c107ee59.json)
+
+[Extended Data](ext_articles/c107ee59.ext.json)
+
+---
 
 ### Cabinet approval to pay for road rehabilitation
 
@@ -278,21 +402,27 @@ The JVP is the only simple reason. Dressed in the dress of national people power
 
 ---
 
-### இ.தொ.கா சிரேஷ்ட பிரமுகர் கட்சியிலிருந்து விலகல்
+### CWC's quitting from senior party party
 
 *2024-11-06 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197999) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் சிரேஷ்ட உறுப்பினர் ஏ.பிலிப்குமார் தான் கட்சியிலிருந்து விலகுவதாக அறிவித்துள்ளார்.
+A. Filipkumar quits Ceylon Workers Congress after 37 years. Former Central Provincial Council member and party assistant secretary. Contested last parliamentary election, receiving 30,000 votes.
 
-கடந்த 37 வருடங்களாக கட்சியின் உறுப்பினராக இருந்த பிலிப்குமார் மத்திய மாகாண சபையின் முன்னாள் உறுப்பினராகவும் செயற்பட்டவர்.
+🟩
 
-இளைஞர் அணி இணைப்பாளராக இணந்து கொண்ட அவர் கட்சியின் உபசெயலாளராகவும் விலகும் போது உபதலைவராகவும் செயற்பட்டவர் என்பது குறிப்பிடத்தக்கது.
+Senior Member of the Ceylon Workers Congress, A. Filipkumar has announced his quitting from the party.
 
-கடந்த முறை பாராளுமன்றத் தேர்தலில் கட்சி சார்பாக போட்டியிட்ட இவர் 30 ஆயிரம் வாக்குகளை பெற்றவர் என்பது முக்கிய விடயம்.
+Filip Kumar, a member of the party for the past 37 years, has been a former member of the Central Provincial Council.
+
+It is noteworthy that he was the party's assistant secretary and the vice president of the party.
+
+It is important that he contested on behalf of the party in the last parliamentary election and received 30 thousand votes.
 
 ◼️
 
 [Data](articles/f08a4305.json)
+
+[Extended Data](ext_articles/f08a4305.ext.json)
 
 ---
 
@@ -382,23 +512,29 @@ A businessman in the Muslim Kolonnawa area has died in the Polonnaruwa police ar
 
 ---
 
-### நெல், அரிசி கையிருப்பு அறிக்கை இன்று ஜனாதிபதியிடம் கையளிக்கப்படவுள்ளது
+### Paddy and Rice Reserve Report to be handed over to the President today
 
 *2024-11-06 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/197997) · `ta`
 
-நெல் மற்றும் அரிசி கையிருப்பு தொடர்பில் தயாரிக்கப்பட்ட அறிக்கை ஜனாதிபதி அநுர குமார திசாநாயக்கவிடம்  இன்று புதன்கிழமை (06) கையளிக்கப்படவுள்ளது.
+Paddy and Rice Reserve Report summary: Survey conducted in 17 districts; Consumer Affairs Authority collected data from rice mill owners; report to be handed over to President Anura Kumara Dissanayake today; President to consider issues before taking action; rice sold above control price in markets.
 
-17  மாவட்டங்களில் முன்னெடுக்கப்பட்ட ஆய்வுகளில் பெறப்பட்ட தரவுகளின் அடிப்படையில் இந்த அறிக்கை தயாரிக்கப்பட்டுள்ளது.
+🟩
 
-அந்த மாவட்டங்களில் உள்ள பெரிய, நடுத்தர மற்றும் சிறிய அளவிலான அரிசி ஆலைகளின் உரிமையாளர்களிடம் உள்ள நெல் மற்றும் அரிசி கையிருப்பு குறித்து நுகர்வோர் விவகார அதிகாரசபை அதிகாரிகள் சமீபத்தில் கணக்கெடுப்பு நடத்தினர்.
+The report prepared on the paddy and rice stockpile will be handed over to President Anura Kumara Dissanayake today (06).
 
-அறிக்கையில் குறிப்பிடப்பட்டுள்ள விடயங்களை பரிசீலித்ததன் பின்னர் ஜனாதிபதி அதற்கான நடவடிக்கைகளை மேற்கொள்வார் என வர்த்தக அமைச்சு தெரிவித்துள்ளது.
+The report is based on data obtained in studies carried out in 17 districts.
 
-இதேவேளை, சந்தைகளில் கட்டுப்பாட்டு விலையை விட அதிக விலையில் நாட்டு அரிசி விற்பனை செய்யப்படுகிறது.
+Consumer Affairs Authority officials recently conducted a survey of paddy and rice reserves in the owners of large, medium and small -scale rice mills in those districts.
+
+The Ministry of Commerce said that the President will take action after considering the issues mentioned in the report.
+
+Meanwhile, rice is sold at a higher price than the control price in the markets.
 
 ◼️
 
 [Data](articles/c0e3e862.json)
+
+[Extended Data](ext_articles/c0e3e862.ext.json)
 
 ---
 
@@ -896,7 +1032,7 @@ Most of these bridges require renovation and/or regular maintenance as there is 
 
 Although an independent CBSL is intended to operate free from political interference, it remains heavily influenced by IMF directives, fostering dependency on IMF guidance
 
-In September 2023, after 73 years, the Central Bank of Sri Lanka (CBSL) gained formal independence with the enactment of the Central Bank of Sri Lanka Act (Act 16 of 2023), replacing the Monetary Law Act. This step towards autonomy, largely influenced by conditions from the International Monetary Fund (IMF), aims to shield the CBSL from political influence. The rationale is straightforward: an independent central bank prevents political leaders from manipulating monetary policy, especially during election cycles, to boost short-term economic growth and re-election chances. However, the implications of this shift warrant deeper analysis as it could lead to unintended economic consequences for Sri Lanka.
+As Sri Lanka prepares for a new government post-14 November, it must carefully evaluate the extent of external influence on its economic policy. A critical question is whether Sri Lanka has already ceded too much control over its monetary and fiscal policy decisions to outside actors. Aligning national development goals of the new government will likely require greater coordination between monetary and fiscal policies, ensuring they operate in tandem to achieve shared objectives. The CBSL should retain the flexibility for strategic interventions that foster growth, development, and social welfare when needed
 
 ...
 
@@ -944,6 +1080,8 @@ Agility doesn’t mean losing sight of the long-term strategy; it enhances execu
 
 *2024-11-06 05:27:00* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-Govt-revolves-around-policies-of-RW-and-MR-Milinda-Rajapaksa/4-768870) · `en`
 
+It seems that the NPP Government does not have any new or innovative ways to run the country. President Anura Kumara is just following the path that Ranil Wickremesinghe took in terms of reforms and Mahinda Rajapaksa when it comes to infrastructure development. He follows both the leaders. With regard to national security, he can follow Gotabaya Rajapaksa. Earlier, the NPP was condemning the state intelligence agencies to get political mileage but now President Anura Kumara’s stance is different. This shows he is now on the correct path by following all previous leaders
+
 Says SLPP is the best party which can give leadership to social democracy
 
 Claims Sajith Premadasa has absolutely failed and SLPP has great opportunity to take leadership of the Opposition
@@ -953,14 +1091,6 @@ Says NPP will bring more senior JVPers but not new NPPers to Parliament
 Tips SLPP, Ranil Wickremesinghe’s party and SJB will bring new faces to Parliament
 
 Cautions NPPers in Parliament will have serious issues due to their inexperience
-
-Stresses to bring the politicians who have allegations of misusing public funds and resources before the law
-
-Says he has no intention to defend anyone who has misused country’s resources
-
-Says Rajapaksas were never appreciated by the Colombo people for their contribution to turn the city with modern infrastructure
-
-President Anura Kumara Dissanayake is following former Presidents – Ranil Wickremesinghe and Mahinda Rajapaksa – when it comes to reforms and infrastructure development, Sri Lanka Podujana Peramuna (SLPP)’s Colombo district candidate Milinda Rajapaksa said.
 
 ...
 
@@ -2223,161 +2353,5 @@ People are in the position of sending new faces to Parliament this time. Most of
 [Data](articles/a15ea375.json)
 
 [Extended Data](ext_articles/a15ea375.ext.json)
-
----
-
-### Tense situation as Pastor Jerome arrives in Nawalapitiya
-
-*2024-11-05 18:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103188/tense-situation-as-pastor-jerome-arrives-in-nawalapitiya) · `en`
-
-A tense situation had been reported in the Mipitiya area of Nawalapitiya today (05) when controversial Pastor Jerome Fernando had arrived in the area.
-
-The villagers had strongly opposed his presence when Pastor Jerome arrived at a location where a rehabilitation centre for children with mental disorders is being constructed.
-
-Nawalapitiya Police officers had also been deployed later to control the situation.
-
-The villagers allege that the true purpose of the construction was to build a religious place under the guise of a rehabilitation centre for children.
-
-Amidst the strong opposition from the villagers, Pastor Jerome Fernando then left the location with his security personnel.
-
-◼️
-
-[Data](articles/fc37984c.json)
-
-[Extended Data](ext_articles/fc37984c.ext.json)
-
----
-
-### Man arrested for leaving Rs.
-
-*2024-11-05 18:14:00* · [`adalk`](https://www.ada.lk/breaking_news/ජනපතිගේ-රුව-ඇතුළත්ව-ව්‍යාජ-රු-5000ක්-නෝට්ටුවක්-හැදූ-අයෙක්-අල්ලයි/11-412868) · `si`
-
-A man adopted by Sri Lanka's president was arrested in Piliyandala for allegedly spreading false information online. He's a 38-year-old sales officer from Korathota. The Criminal Investigation Department is investigating the case.
-
-🟩
-
-The Criminal Investigations Department says that a person who was adopted by President Anura Kumara Dissanayake, was arrested and arrested by a person who was propagated by the Internet Social Media.
-
-Inspector of Police Inspector on information received by the Criminal Investigation Department. A. De. Sameera has arrested the suspect in Piliyandala.
-
-The suspect is a sales officer of a private company in Piliyandala.
-
-Suspect in Mahadeniya Region is a 38 year old resident of Korathi Koratha. The suspect is to be produced in court. Investigations are conducted by the Criminal Investigation Department's Fake Bureau.
-
-◼️
-
-[Data](articles/00db4c4d.json)
-
-[Extended Data](ext_articles/00db4c4d.ext.json)
-
----
-
-### US Presidential Election - Did you know these facts?
-
-*2024-11-05 18:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202940) · `si`
-
-Here's a 200-character summary:
-
-
-
-US Presidential Election: Donald Trump vs Joe Biden. Key points: First votes cast in New York City, Kamala Harris rallies in Pennsylvania, Trump promises border control and world peace. Both candidates' backgrounds highlighted.
-
-🟩
-
-The presidential election in the world is held today (05).
-
-In this presidential election, the former President Donald Trump and the present Affairs is a sharp competition between the current Affairs.
-
-The Election Day was already commenced and the first-night election of its traditional midnight was held in Dixwilad Noch.
-
-Six registered voters in the city had the first vote on the Election Day at the Balsamus Nomithana.
-
-The first vote of the election in this city has been tradition of US elections for about 60 years.
-
-This year's voter is special, which is the best of three votes and the remaining three votes.
-
-Meanwhile, Kamala Harris held the rally in their last election in the country yesterday.
-
-Commenting on the occasion, Kamala Harris emphasized that he has the more opportunity to win the election.
-
-She added the highest number of votes elections in the election.
-
-Meanwhile, Kamala Harris worked to promote the rally in Pennsalvania.
-
-...
-
-[Data](articles/0b47b715.json)
-
-[Extended Data](ext_articles/0b47b715.ext.json)
-
----
-
-### American voters head to polls as turbulent campaign concludes
-
-*2024-11-05 18:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103187/american-voters-head-to-polls-as-turbulent-campaign-concludes) · `en`
-
-The dizzying presidential contest between Republican Donald Trump and Democrat Kamala Harris hurtled toward an uncertain finish on Tuesday as millions of Americans headed to the polls to choose between two sharply different visions for the country.
-
-A race whipsawed by unprecedented events - two assassination attempts against Trump, President Joe Biden’s surprise withdrawal and Harris’ rapid rise - remained too close to call, even after billions of dollars in spending and months of frenetic campaigning.
-
-Trump’s campaign has suggested he may declare victory on election night even while millions of ballots have yet to be counted, just as he did four years ago. The former president has repeatedly said any defeat could only stem from widespread fraud, echoing his false claims from 2020. The winner may not be known for days if the margins in key states are as slim as expected.
-
-...
-
-[Data](articles/6256c574.json)
-
-[Extended Data](ext_articles/6256c574.ext.json)
-
----
-
-### Strong accident: driver's license fake
-
-*2024-11-05 18:00:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/துங்கிந்த-விபத்து-சாரதி-அனுமதிப்பத்திரம்-போலியானது/76-346609) · `ta`
-
-Driver's license fake: Bus crash kills two, injures 40. Driver suspended after previous accident. Police investigating fake license.
-
-🟩
-
-Senior Superintendent of Police, Vasantha Kandewatam, said that police investigations have revealed that the driver of the driver of the bus in the Badulla area was suspended.
-
-The court had suspended the driver's license on the previous accident in Akmemana on August 6, 2024, the driver of the Galle Alvitigala, the driver of the Galle Alvitigala.
-
-In this case, the superintendent Vasantha Kandewatta also stated that investigations have been launched on how he received a fake driver's license.
-
-The driver of the bus, from the Intensive Care Unit of the Badulla Teaching Hospital, was transferred to the General Ward on Tuesday (05). Police said he was going to have a confession.
-
-Two people were killed and forty people were killed in an accident on November 1 in the Dunhita Ambakahaoya area of ​​Badulla - Mahiyanganaya road.
-
-John Kothalawala Security University students, a group of students who traveled on an academic journey for a survey of the sum census, were traveling in the bus.
-
-◼️
-
-[Data](articles/38506575.json)
-
-[Extended Data](ext_articles/38506575.ext.json)
-
----
-
-### Johnston Fernando withdrew the Rid petition
-
-*2024-11-05 17:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/197973) · `ta`
-
-Former Minister Johnston Fernando withdraws appeal court petition seeking arrest over BMW case. Case dismissed due to bail granted earlier.
-
-🟩
-
-Former minister Johnston Fernando has withdrawn the writ petition filed in the Court of Appeal demanding his arrest.
-
-The former minister had filed a petition demanding that he be arrested in the case of the discovery of a BMW car in Colombo at the star hotel complex in Colombo.
-
-The petition on behalf of the Court of Appeal Mohammed Labar Tahir and Johnston Fernando on behalf of the Court of Appeal on Tuesday (05) announced that the court did not want to continue the case as their party had already been granted bail by the Magistrate's Court.
-
-Accordingly, the Court of Appeal, which accepted the request, has been granted permission to recover the petition.
-
-◼️
-
-[Data](articles/9e5dd466.json)
-
-[Extended Data](ext_articles/9e5dd466.ext.json)
 
 ---

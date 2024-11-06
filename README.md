@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 08:00:57**
+As of **2024-11-06 08:22:28**
 
 ## Newspaper Stats
 
-*Scraped **53,269** Articles*
+*Scraped **53,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 3,189
 economynextcom | 3,226
 dailyftlk | 3,641
 dailymirrorlk | 4,733
-adalk | 4,971
+adalk | 4,972
 adaderanalk | 6,341
-tamilmirrorlk | 7,414
+tamilmirrorlk | 7,417
 virakesarilk | 8,605
-adaderanasinhalalk | 9,282
+adaderanasinhalalk | 9,283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,257 (100.0%) of 53,269 articles have been extended.
+53,262 (100.0%) of 53,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Gajendrakumar
+
+*2024-11-06 07:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-நாடகம்-போடுகிறார்-கஜேந்திரகுமார்/175-346638) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Gajendrakumar Ponnambalam's Tamil National People's Front broke away from TNA over seat allocation disputes. This move sparked controversy within Tamil politics.
+
+🟩
+
+MA Sumanthiran, a spokesman for the Sri Lanka Tamil National Alliance (TNA) and the Jaffna election district candidate, said that the Tamil National People's Front was the first to break the TNA.
+
+Yall. He said this at a media briefing held at Vadamarachchi Media Home on Tuesday.
+
+The first to break the Tamil National Alliance was the Tamil National People's Front.
+
+In the 2010 presidential election, Gajendrakumar Ponnambalam was one of the stage when the Tamil National Alliance (TNA) decided to support Sarath Fonseka, who killed the Tamil people.. He then left the Tamil National Alliance (TNA) due to the contradiction caused by the seat share during the parliamentary election.
+
+Gajendrakumar -led Tamil National People's Front (TNA) led by Gajendrakumar has been playing a blank political drama for the Tamil party.
+
+You don't see the loopholes in your party. You are shedding tears that you have broken the TNA. (A)
+
+◼️
+
+[Data](articles/07243ce3.json)
+
+[Extended Data](ext_articles/07243ce3.ext.json)
+
+---
+
+### Thunderstorms today
+
+*2024-11-06 07:43:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-346637) · `ta`
+
+Thunderstorms forecasted for Central, Sabaragamuwa, Uva, Southern, and Western Provinces tonight. Slight rainfall predicted in northern and northwestern regions.
+
+🟩
+
+The Department of Meteorology said that rain or thunderstorms are expected in the Central, Sabaragamuwa, Uva, Southern and Western Provinces this evening or night.
+
+In a statement issued by the Department of Meteorology, the Department of Meteorology said that there is a slight rainfall in the northern and northwestern provinces.. (A)
+
+◼️
+
+[Data](articles/f10556ed.json)
+
+[Extended Data](ext_articles/f10556ed.ext.json)
+
+---
+
+### The gazette that came to swine flu
+
+*2024-11-06 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202951) · `si`
+
+New gazette issued to address African swine flu. Allows transportation of healthy animals, registration of slaughterhouses, and sale of prepared meat from non-infected animals. 50% of swine population died in Western Province. Highest mortality rate in Gampaha District.
+
+🟩
+
+Steps have been taken to issue a new gazette notification to explore the rules imposed in the Gazette Notification issued due to the African swine flu.
+
+The Director General of Dr. He Helesalawala stated that he has been granted permission to transport health animals.
+
+...
+
+[Data](articles/69b3cdf6.json)
+
+[Extended Data](ext_articles/69b3cdf6.ext.json)
+
+---
 
 ### The cab that crossed the stream falls into the hurrico
 
@@ -55,6 +127,34 @@ The bodies are placed at the morgue of the Avissawella hospital morgue and Kosga
 [Data](articles/19a49a5b.json)
 
 [Extended Data](ext_articles/19a49a5b.ext.json)
+
+---
+
+### US Presidential Election: Trump Front
+
+*2024-11-06 06:42:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கா-ஜனாதிபதி-தேர்தல்-ட்ரம்ப்-முன்னிலை/50-346636) · `ta`
+
+US Presidential Election update: Donald Trump leads with 23 Electoral College votes, while Kamala Harris trails with 3. Key states: Indiana (11 votes), Kentucky (8 votes). Harris wins Vermont, narrowing gap.
+
+🟩
+
+Voting for the US presidential election ended at 5 am this morning, according to Sri Lanka. When the voting was completed, the number of votes began immediately.
+
+Donald Trump has officially succeeded in the province of Indiana. There are 11 Elkter College votes in that province. It will come to trump fully. The Province of Indiana is favorable to the Republican Party.
+
+Donald Trump has also won the Kentucky Province. Here he is dominated by the 3rd time. There are 8 Electrical College votes.
+
+Republican candidate Kamala Harris win in Vermont State. In this province, the province had earlier voted on behalf of the Republican Party. Currently, the Democratic candidate Kamala has voted in favor of Harris.
+
+Kamala Harris is leading a province as Trump is leading the lead in 4 province.
+
+Trump has so far received 23 Electrical College votes and Kamala Harris 3 votes
+
+◼️
+
+[Data](articles/7518e891.json)
+
+[Extended Data](ext_articles/7518e891.ext.json)
 
 ---
 
@@ -115,6 +215,8 @@ This centre was inaugurated at Abu Dhabi University to drive scientific progress
 ...
 
 [Data](articles/614998ba.json)
+
+[Extended Data](ext_articles/614998ba.ext.json)
 
 ---
 
@@ -969,6 +1071,24 @@ The appointment will face further impact as the labor and investments of the sec
 [Data](articles/f7be8651.json)
 
 [Extended Data](ext_articles/f7be8651.ext.json)
+
+---
+
+### ණයවල ස්ථාවර බවක් ඇති වෙලා තිබෙනවා
+
+*2024-11-05 20:02:38* · [`adalk`](https://www.ada.lk/breaking_news/ණයවල-ස්ථාවර-බවක්-ඇති-වෙලා-තිබෙනවා/11-412877) · `si`
+
+තම ආණ්ඩුව රජයේ සේවකයන්ට ලබා දීමට එකඟ වූ පඩි වැඩිවීම හෝ ඊට වැඩි පඩි වැඩිවීමක් දෙන බවට අනුර කුමාර ජනාධිපතිවරයා වහාම රටට ප්‍රකාශයක් කළ යුතු බව, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මාතරදී පැවසීය.
+
+මේ වන විට අපේ ණයවල ස්ථාවර බවක් ඇතිකර තිබෙන බවත්, ඒ ගිවිසුම අනුව ක්‍රියා කොට බංකොලොත් බවින් එළියට එන්නට අප පොරොන්දු වී තිබෙන බවත්, මෙතැනට පත් කළ යුත්තේ ඒ වැඩ කටයුතු කරන්නට හැකි උදවිය බවත්, වත්මන් ආණ්ඩුවට එය කරන්න පුළුවන්දැයි වික්‍රමසිංහ මහතා ප්‍රශ්න කළේය. රනිල් වික්‍රමසිංහ මහතා මේ බව පැවසුවේ ගෑස් සිලින්ඩරයේ ලකුණ යටතේ තරග වදින නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මාතර දිස්ත්‍රික් ජන හමුව අමතමිනි.
+
+“මේ වන විට අපේ ණයවල ස්ථාවර බවක් ඇතිකර තිබෙනවා. ඒ ගිවිසුම අනුව ක්‍රියා කොට බංකොලොත් බවින් එළියට එන්නට අප පොරොන්දු වී තිබෙනවා. මෙතැනට පත් කළ යුත්තේ ඒ වැඩ කටයුතු කරන්නට හැකි උදවියයි. මේ අයට ඒ වැඩ කටයුත්ත කරන්න පුළුවන්ද?
+
+ජාතික ජන බලවේගය පළමු අය වැයෙන්ම රාජ්‍ය සේවකයන්ට වැටුප් වැඩි කරන බව අනුර දිසානායක නුවරඑළියේදී පවසා තිබුණා. රජයේ සේවකයන්ට අප විසින් නම් කරන ලද මුදල ජනවාරියේ සිට ලබා නොදෙන්නේ ඇයි?
+
+...
+
+[Data](articles/943fbc3a.json)
 
 ---
 
@@ -2263,121 +2383,5 @@ Two students were killed and 42 injured and admitted to the Badulla Teaching Hos
 [Data](articles/253470ab.json)
 
 [Extended Data](ext_articles/253470ab.ext.json)
-
----
-
-### Private hospital owner's wife kills brother -in -law
-
-*2024-11-05 15:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/197943) · `ta`
-
-Trincomalee hospital owner's wife killed brother-in-law. Police arrest 56-year-old suspect. Initial investigation reveals stabbing occurred in hospital building.
-
-🟩
-
-The wife of the owner of the famous private hospital in Trincomalee has died on Tuesday morning (05), police said.
-
-The deceased is also known as Angali Sumetra (63 years old), wife of a private hospital owner in Trincomalee.
-
-Initial investigations revealed that the brother -in -law was stabbed to death by a brother -in -law when he went to open his room on the third floor of the hospital building this morning.
-
-A 56 -year -old man, brother of the owner of the hospital owner, has been arrested on suspicion of carrying out a knife.
-
-◼️
-
-[Data](articles/04f096e5.json)
-
-[Extended Data](ext_articles/04f096e5.ext.json)
-
----
-
-### Mahajar handed over to Prime Minister Harini to release the land
-
-*2024-11-05 15:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/197945) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Prime Minister Harini Amarasuriya met Keppapulavu residents, demanding land release from military control. The governor and district agent submitted a petition last month. A national people's power meeting was held in Pudukkudiyiruppu, focusing on building the country together.
-
-🟩
-
-The people of Keppapulavu met Prime Minister Harini Amarasuriya, who participated in the National People's Power Election campaign held at Pudukkudiyiruppu on Monday evening, demanding the release of the Mullaitivu Keppapulavu lands.
-
-The Governor of the Northern Province and the Mullaitivu District Government Agent had handed over a petition to the Mullaitivu District Government Agent last month demanding the recovery of the land acquired by the military in Mullaitivu -Keppapula.
-
-Subsequently, in the Pudukkudiyiruppu area of ​​the Mullaithivu district yesterday, the national people's power meeting was held at the Pudukkudiyiruppu private bus stand at the Pudukkudiyiruppu private bus stand at the theme "Building the country and we are together".
-
-◼️
-
-[Data](articles/863d3f5a.json)
-
-[Extended Data](ext_articles/863d3f5a.ext.json)
-
----
-
-### "Decreasing security may take efforts to kill me" - Chandrika
-
-*2024-11-05 14:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197944) · `ta`
-
-Chandrika Kumaratunga warns reduced security post-presidency due to murder threats from LTTE. She criticizes government decision to decrease protection for former presidents.
-
-🟩
-
-Former President Chandrika Kumaratunga has expressed fears that efforts to kill her will be followed by the reduction of her security.
-
-He said this in a letter to Ravi Seniviratne, Secretary to the Ministry of Public Security.
-
-He has questioned why you have given 100 to 240 security officers to other presidents, despite the fact that only former presidents have been involved in the murder.
-
-Pointing out the threats faced by the LTTE, he said he would face the threats of the LTTE even after his retirement.
-
-He has questioned the government's decision to reduce security to former presidents.
-
-◼️
-
-[Data](articles/0ba4b8c4.json)
-
-[Extended Data](ext_articles/0ba4b8c4.ext.json)
-
----
-
-### Appeals Court upholds prison sentence for ex-Deputy Minister in bribery case
-
-*2024-11-05 14:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103182/appeals-court-upholds-prison-sentence-for-ex-deputy-minister-in-bribery-case) · `en`
-
-The Court of Appeal has upheld a prison sentence given to former Deputy Minister Shantha Premaratne who was found guilty of the charges of obtaining a bribe of Rs. 50,000 from a woman after promising employment.
-
-This order was issued when an appeal filed by the accused former Deputy Minister, seeking his acquittal from the case, was taken up before a two-member Appeals Court judge bench comprising Justices Sampath Abeykoon and P. Kumaran Rathnam today (05).
-
-The former Deputy Minister was sentenced to 4 years of rigorous imprisonment after being found guilty over the relevant charges by the Colombo High Court.
-
-◼️
-
-[Data](articles/897908b7.json)
-
-[Extended Data](ext_articles/897908b7.ext.json)
-
----
-
-### Drug trafficker Palani Shiran’s assets worth Rs. 80 million frozen
-
-*2024-11-05 14:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103181/drug-trafficker-palani-shirans-assets-worth-rs-80-million-frozen) · `en`
-
-Sri Lankan authorities have frozen assets valued at approximately Rs. 80 million belonging to notorious drug trafficker Palani Shiran Clorian, who is currently serving a prison sentence in India on drug-related charges.
-
-The properties, allegedly earned through drug trafficking, include a two-story house, a luxury car, and a boat.
-
-The seizure was made following a joint investigation by the Terrorism Investigation Division (TID) and the Illegal Assets and Property Investigation Division, based on intelligence received indicating that Clorian’s operations extended to Colombo.
-
-During the investigation, officials have uncovered the two-story house located in Balagala, Wattala and a luxury vehicle. The boat, also linked to Clorian, is believed to have been used by associates in the escape following the recent murder of “Club Wasantha”, according to police sources.
-
-Police also mentioned that Clorian is the son of another notorious criminal and drug trafficker infamously known as “Kudu Selvi”.
-
-◼️
-
-[Data](articles/cd8932d7.json)
-
-[Extended Data](ext_articles/cd8932d7.ext.json)
 
 ---

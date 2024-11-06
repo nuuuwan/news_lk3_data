@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 00:57:24**
+As of **2024-11-07 01:09:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,437 (100.0%) of 53,449 articles have been extended.
+53,439 (100.0%) of 53,449 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -142,6 +142,8 @@ Tea is numero uno in Sri Lanka. The famed ‘Ceylon Tea’ fetches Sri Lanka nea
 
 [Data](articles/5c71d085.json)
 
+[Extended Data](ext_articles/5c71d085.ext.json)
+
 ---
 
 ### Historic deflation in 29 years  and impact on business and people
@@ -155,6 +157,8 @@ The Central Bank (CBSL) attributes this significant decline in general price lev
 ...
 
 [Data](articles/8716d246.json)
+
+[Extended Data](ext_articles/8716d246.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 08:59:37**
+As of **2024-11-06 09:24:19**
 
 ## Newspaper Stats
 
-*Scraped **53,279** Articles*
+*Scraped **53,286** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,173 @@ bbccomsinhala | 544
 colombotelegraphcom | 545
 islandlk | 3,189
 economynextcom | 3,226
-dailyftlk | 3,641
+dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,973
-adaderanalk | 6,343
-tamilmirrorlk | 7,417
-virakesarilk | 8,605
-adaderanasinhalalk | 9,284
+adaderanalk | 6,344
+tamilmirrorlk | 7,419
+virakesarilk | 8,607
+adaderanasinhalalk | 9,285
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,269 (100.0%) of 53,279 articles have been extended.
+53,277 (100.0%) of 53,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Businessman killed in surhiky
+
+*2024-11-06 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202953) · `si`
+
+Here's a 200-character summary:
+
+
+
+Businessman dies in Polonnaruwa police area. Incident occurred in Muslim Kolonnawa region.
+
+🟩
+
+A businessman in the Muslim Kolonnawa area has died in the Polonnaruwa police area.
+
+◼️
+
+[Data](articles/43fd6147.json)
+
+[Extended Data](ext_articles/43fd6147.ext.json)
+
+---
+
+### Two dead after vehicle swept away by strong currents at Thummodara Canal
+
+*2024-11-06 08:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103195/two-dead-after-vehicle-swept-away-by-strong-currents-at-thummodara-canal) · `en`
+
+A vehicle attempting to cross the Thummodara Canal on the Eswatta Manakada Road in the Kosgama police division was swept away by strong water currents last evening.
+
+According to police, the vehicle was carried approximately 50 meters downstream. At the time of the incident, four individuals, including the driver, were in the double cab and two of them had drowned last evening (05).
+
+The deceased, aged 27 and 69, were residents of Balalkotuwa and Kiribathgoda. Their bodies have been placed in the mortuary at Avissawella Hospital.
+
+◼️
+
+[Data](articles/c3bd4e3e.json)
+
+[Extended Data](ext_articles/c3bd4e3e.ext.json)
+
+---
+
+### Sad news for cake lovers
+
+*2024-11-06 08:46:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேக்-பிரியர்களுக்கு-சோகமான-செய்தி/175-346640) · `ta`
+
+Cake prices soar due to rising wheat, butter costs. Bakery owners warn of further hikes if egg prices increase. Festive season may see higher cake prices unless government intervenes.
+
+🟩
+
+Bakery owners have said that if the new government does not take steps to reduce the prices of wheat mangoes and butter, the price of bakery products, including cakes during the coming festive season.
+
+They claim that the price of a kilo of wheat flour has risen from 190 to 195 rupees and butter and egg.
+
+Due to the increase in the price of bakery products, the price of a kilogram of butter cake has increased from Rs 1000 to Rs 1200.
+
+Bakery owners insist that the price of cake will be increased if the price of eggs will increase further during the coming festive season. Remble
+
+◼️
+
+[Data](articles/64e63ecb.json)
+
+[Extended Data](ext_articles/64e63ecb.ext.json)
+
+---
+
+### Parliament is the first step to female political leadership - Social Justice Candidate Sobitha
+
+*2024-11-06 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197995) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sobitha Selvi Sivakaran emphasizes parliament as the first step towards female political leadership. She cites historical examples like Sirimavo Bandaranaike and Chandrika Kumaratunga. Sobitha believes promoting women in politics is crucial for effective governance, comparing a well-run household to a well-functioning government.
+
+🟩
+
+Selvi Sivakaran Sobhita, a female candidate for the social justice party in the Kandy district, said that the first step to female political leadership is.
+
+He was speaking at a meeting held at the Hindu Cultural Hall in Kandy.
+
+If there is no kitchen, it will not be a perfect home, and how much of a home administration is important in the country's administration. We have seen a number of women in Sri Lankan political history. In that line, Srimao was the Prime Minister and Chandrika decorated the posts of the Prime Minister and the President.
+
+Recently, Harini Amarasuriya was elected Prime Minister. In that order may many more may develop in the opposite period. It must be created by female leadership. I think parliament is the first step for such political female leadership.
+
+So women have to promote in this field. I have entered an early stage of political entry as a contribution to me on that basis. It is in your hands that no longer grow up.
+
+...
+
+[Data](articles/8b4a7bad.json)
+
+[Extended Data](ext_articles/8b4a7bad.ext.json)
+
+---
+
+### Who is the main provinces?
+
+*2024-11-06 08:39:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முக்கிய-மாகாணங்களில்-யார்-முன்னிலை/50-346639) · `ta`
+
+Main provinces: Oklahoma, Missouri, Indiana, Kentucky, Tennessee, Alabama, Florida, West Virginia. Kamala Harris wins Vermont, New Hampshire, Massachusetts, Maryland, DC. 270+ votes needed to win.
+
+🟩
+
+In the US presidential election, voting results are being released from major provinces. In it, Donald Trump has won the provinces including Oklahoma, Missouri, Indiana, Kentucky, Tennessi, Alabama, Florida and West Virginia.
+
+As far as Kamala Harris is concerned, Vermont, New Hampshire, Massachusetts, Maryland, Districts of Columbia, have also received 81 selectors' votes.
+
+It is worth noting that whoever receives 270 or more votes in the US presidential election. Remble
+
+◼️
+
+[Data](articles/5f14cfa8.json)
+
+[Extended Data](ext_articles/5f14cfa8.ext.json)
+
+---
+
+### US presidential election
+
+*2024-11-06 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197994) · `ta`
+
+Here's a 200-character summary:
+
+
+
+US presidential election: Fierce competition between Trump and Harris. Key battlegrounds: Florida, Georgia, Michigan, Wisconsin. Final outcome uncertain due to close races and potential vote changes.
+
+🟩
+
+The BBC has said that the US presidential election has become extremely fiercely as many as many.
+
+It is evident that the US is facing a presidential election with another toughness, as it is impossible to predict the final results.
+
+The expectations of the two parties did not fulfill the expectation that a decisive change could occur in the final minute of the voters' choice.
+
+Former President Donald Trump has received great support in the Farable Grama Niladhari of 2020.
+
+Kamalaharis in the city and suburbs. He also got the support of Jobitan.
+
+Although these votes may change, Trump's biggest victories in Georgia North Colina have now returned to the states of the Democrats, also known as the Bluvol States.
+
+Kamala Haris's way to go to the White House is the Michigan Pennsylvania of Wiscons, as Haris's belief that Haris will win a decisive success.
+
+◼️
+
+[Data](articles/f2db4cfc.json)
+
+[Extended Data](ext_articles/f2db4cfc.ext.json)
+
+---
 
 ### Trump, Harris notch first statewide wins as polls close in US presidential race
 
@@ -320,6 +470,26 @@ With the event’s countdown underway, organiser Export Development Board (EDB) 
 
 ### Chabad House in Arugam Bay: Bringing Gaza home?
 
+*2024-11-06 05:56:21* · [`dailyftlk`](https://www.ft.lk/columns/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/4-768877) · `en`
+
+While all Israeli tourists should be welcomed – and protected, when necessary – the Chabad House should be closed down and long-term visas denied to members of the Movement
+
+“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
+
+Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
+
+The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
+
+...
+
+[Data](articles/6aedd67d.json)
+
+[Extended Data](ext_articles/6aedd67d.ext.json)
+
+---
+
+### Chabad House in Arugam Bay: Bringing Gaza home?
+
 *2024-11-06 05:56:21* · [`dailyftlk`](https://www.ft.lk/opinion/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/14-768877) · `en`
 
 While all Israeli tourists should be welcomed – and protected, when necessary – the Chabad House should be closed down and long-term visas denied to members of the Movement
@@ -571,6 +741,8 @@ We all know that in Sri Lanka, students are separated to specialized subject are
 ...
 
 [Data](articles/c8b2d47b.json)
+
+[Extended Data](ext_articles/c8b2d47b.ext.json)
 
 ---
 
@@ -2191,177 +2363,5 @@ The Supreme Court further stressed that the Supreme Court has been the basis to 
 [Data](articles/ad0677bc.json)
 
 [Extended Data](ext_articles/ad0677bc.ext.json)
-
----
-
-### Janapura students launched a protest march
-
-*2024-11-05 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202935) · `si`
-
-Janapura students protest march University of Sri Jayewardenepura Colombo UGC Viharamaha Devi Park conspiracy against student unions unfair class barriers Faculty of Management
-
-🟩
-
-University of Sri Jayewardenepura has been protesting in Colombo today afternoon.
-
-Later, they had come to the University Grants Commission from front of Viharamaha Devi Park.
-
-The protest has been organized to immediately demand the conspiracy program to suppress student unions on the needs of the Vice Chancellor.
-
-Protest students say that the unfair classbaries of the Faculty of Management should be lifted.
-
-Students near the University Grants Commission also protesting and six students were later discussed with the officers.
-
-◼️
-
-[Data](articles/f2616e37.json)
-
-[Extended Data](ext_articles/f2616e37.ext.json)
-
----
-
-### People have lost confidence in the current president - Sajith Premadasa
-
-*2024-11-05 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/197951) · `ta`
-
-Sajith Premadasa criticizes incumbent president Anura Kumara Dissanayake over economic policies. Claims Dissanayake failed to reduce essential food prices, fuel costs, and electricity bills despite promises. Accuses government of deception and IMF slavery. Promises to change agreements if elected.
-
-🟩
-
-People are comparing the presidential candidate Anurakumara Dissanayake and what President Anura Kumara Dissanayake is doing. Although he says he will reduce the prices of essential foods. Sajith Premadasa said that even rows are also found for coconuts.
-
-Can determine the minimum price using the executive powers found to the president. But he did not do so. He also said that fuel prices, electricity bills and taxes will be reduced. But Sajith Premadasa said that they had not happened.
-
-The 2024 general election was held on Monday (04) on Monday (04), headed by Sajith Premadasa, the leader of the United People's Alliance.
-
-The meeting was organized by the United People's Power Colombo District Candidate Dr. Harsha de Silva and many others, including party activists.. He said this while addressing the gathering.
-
-...
-
-[Data](articles/78760523.json)
-
-[Extended Data](ext_articles/78760523.ext.json)
-
----
-
-### 09 reservoirs of air flow
-
-*2024-11-05 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197949) · `ta`
-
-Nine out of 73 major reservoirs overflowing due to heavy rain. Heavy thunder/lightning warnings issued for 15 districts. Rainfall exceeding 50mm predicted in some areas. Snowfall forecasted in western regions.
-
-🟩
-
-The Water Management Unit of the Irrigation Department said that nine of the 73 large reservoirs have begun to flow through the weather with heavy rains.
-
-Accordingly, the reservoirs of Padalakoda, Thethuru Oya, Ellewela, Kaganatura, Rajanganaya, Tapova, Van Ela, Veerawila and Yodhaveva are in the air.
-
-Meanwhile, 15 districts including the Upper, South, Central, Sabaragamuwa, Uva and North Western Provinces have been issued heavy thunder and lightning warning.
-
-Thundershowers will occur in the evening or night in the Central, Sabaragamuwa, Uva and Southern Provinces, the National Meteorological Department forecasts unit said.
-
-In some areas may experience more than 50 millimeters of heavy rainfall. Light rainfall is expected in the North and North Western provinces many times.
-
-It is expected to be a snowfall in the morning in the mornings in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts.
-
-◼️
-
-[Data](articles/31955a89.json)
-
-[Extended Data](ext_articles/31955a89.ext.json)
-
----
-
-### Jeromal severe tension: police accumulation
-
-*2024-11-05 15:38:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஜெரோமால்-கடும்-பதற்றம்-பொலிஸார்-குவிப்பு/76-346606) · `ta`
-
-Tension erupts over mental health center construction. Pastor Jerome clashes with villagers. Police intervene as residents protest unauthorized religious site. Harmony among communities threatened.
-
-🟩
-
-There was a heated argument between the security officers and the villagers of the pastor Jerome, who came to the construction of the rehabilitation center for the mentally ill children. This has caused severe tension in the area.
-
-The situation occurred when the bishop came to the site of the construction work, claiming to be constructed by a rehabilitation center for children who were mentally retarded in the Mipitiya area of ​​Nawalapitiya.
-
-Following the fierce argument between the villagers and the pastor, the Nawalapitiya police officers intervened and had to control the situation.
-
-The villagers allege that no government agency has been informed of the construction of a religious worship site in this area, although it is said that the children's rehabilitation center will be built.
-
-Residents said that all citizens of Sinhalese, Tamil and Muslims from Nawalapitiya are living in harmony and that these people will not be able to disrupt the peace of Nawalapitiya.
-
-...
-
-[Data](articles/22a926f9.json)
-
-[Extended Data](ext_articles/22a926f9.ext.json)
-
----
-
-### Shoot
-
-*2024-11-05 15:31:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/வைத்தியரின்-மனைவி-வெட்டிக்கொலை/75-346605) · `ta`
-
-Trincomalee: Mrs. Angel Sumitra (64) murdered. Husband's sister's husband Sudarshan (59) arrested. Killer returned from London. Body taken to Trincomalee General Hospital for examination.
-
-🟩
-
-Mrs. Angel Sumitra (64 years old), the wife of the owner of the private hospital in Trincomalee, has been hacked to death on Tuesday (11).
-
-Sudarshan (age 59), the husband of the deceased's sister, has been arrested by the police on suspicion of murdering him.
-
-The reason for the murder is unknown yet. The murderer returned to Sri Lanka from London on Monday night (4) and arrived in Colombo that night.
-
-The body was taken over by the police and was taken to the Trincomalee General Hospital for legal examination.
-
-◼️
-
-[Data](articles/2e69d275.json)
-
-[Extended Data](ext_articles/2e69d275.ext.json)
-
----
-
-### Johnston Fernando’s writ petition withdrawn
-
-*2024-11-05 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103184/johnston-fernandos-writ-petition-withdrawn) · `en`
-
-Former Minister Johnston Fernando has withdrawn the writ petition filed on his behalf with the Court of Appeal seeking an order to prevent his arrest.
-
-The petition had been filed by the ex-minister seeking an order to prevent his arrest over the case related to the unregistered BMW car allegedly belonging to him found parked in a star-class hotel premises in Colombo.
-
-The petition was taken up for consideration today before an Appellate Court bench comprising Judges Mohammad Lafar Thahir and P. Kumaran Ratnam.
-
-There, Johnston Fernando’s legal counsels informed the court since their client had already been granted bail by the Magistrate’s Court, there was no need to continue with the petition.
-
-Therefore, they sought the court’s permission to withdraw the relevant petition.
-
-Accordingly, the Appellate Court bench allowed the withdrawal of the petition and dismissed it.
-
-◼️
-
-[Data](articles/a4271ce6.json)
-
-[Extended Data](ext_articles/a4271ce6.ext.json)
-
----
-
-### 16 hours of water cut to several areas in Trincomalee
-
-*2024-11-05 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/197942) · `ta`
-
-Trincomalee: 16-hour water cutoff starts 7th July 6 AM to 10 PM. Affected areas: Kantalai, Thambalakamam, Kinniya, Pattinam. Emergency maintenance at National Water Supply and Drainage Board.
-
-🟩
-
-Regional Manager of the National Water Supply and Drainage Board, L. Subhakaran said that the supply of drinking water supply will be cut off from 6.00 am to 10.00 pm on the 07th of this month due to emergency work at the National Water Supply and Drainage Board.
-
-The water cut will be implemented in the Divisional Secretariat area of ​​Kantalai, Thambalakamam, Kinniya, Pattinam and Pattinam in the Trincomalee District and the Kandy Divisional Secretariat area of ​​the Kandy Divisional Secretariat area.
-
-◼️
-
-[Data](articles/61166f0d.json)
-
-[Extended Data](ext_articles/61166f0d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 18:01:16**
+As of **2024-11-06 18:35:24**
 
 ## Newspaper Stats
 
-*Scraped **53,394** Articles*
+*Scraped **53,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,987
+adalk | 4,989
 adaderanalk | 6,364
 tamilmirrorlk | 7,436
 virakesarilk | 8,635
-adaderanasinhalalk | 9,308
+adaderanasinhalalk | 9,309
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,393 (100.0%) of 53,394 articles have been extended.
+53,397 (100.0%) of 53,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Former Excise Commissioner, including 4, extends the pledge
+
+*2024-11-06 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202977) · `si`
+
+Supreme Court case: Former Excise Commissioner pledges defiance. Four officers accused of liquor license irregularities. Court denies release request, summons officers for fact-checking. Interim injunction issued against violators.
+
+🟩
+
+Former Excise Commissioner General Missing Will Not Abide. J. The Supreme Court today stated that four officers who had been given the pledge to the court on January 20, Janasiri.
+
+Attorney-at-Law Romesh de Silva, the President's Counsel, was taken up when a petition filed against the former Excise General of Excise was taken up against the exclamation of the former Excise General.
+
+The petition was called before the Supreme Court Bench comprised of Murpru Fernando, Janakamuwa and Arjuna Obeysekere.
+
+Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney-at-Law Senani Dayaratne stated that his client has not been involved in the process of issuing these liquor licenses.
+
+Despite this, the lawyer pointed out that the notories of the judiciary of insulting the Court as a respondent of the court.
+
+Therefore, the lawyer asked the court to be released from these cases.
+
+...
+
+[Data](articles/e72e19b2.json)
+
+[Extended Data](ext_articles/e72e19b2.ext.json)
+
+---
 
 ### Donald Trump elected president in stunning comeback
 
@@ -67,6 +95,36 @@ The meeting was also attended by Mr. Andrew Ephgrave, Senior Manager, of ICC ACU
 ◼️
 
 [Data](articles/7f1244f1.json)
+
+[Extended Data](ext_articles/7f1244f1.ext.json)
+
+---
+
+### Four students who have taken the largest bribe in Sri Lanka to jail for 35 years
+
+*2024-11-06 17:27:01* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-අල්ලස-ගත්-රේගු-අධිකාරීවරුන්-සිව්දෙනා-වසර-35ක්-හිරේට/11-412892) · `si`
+
+Sri Lanka: Four customs officers sentenced to 35 years for accepting $70m bribe.
+
+🟩
+
+The four Customs High Court, who had been accused of demanding the allegations of the largest bribes in the history of Sri Lanka, was sentenced to 35 years today (06).
+
+The first accused, the first accused, the first accused, was appointed as the bribe 10 million rupees.
+
+The judge who accepted a demanding judge who had no conscience had been punished for the complaint, the government officials, who had acted with a conscientious proof of the public to government officials, was sentenced to a maximum punishment for the complaint.
+
+The victims were convicted of the charges of Sri Lanka Customs Superintendent Upali Gunaratne Perera, Customs Superintendent of Customs Superintendent Upali Tharantha Wickremasinghe and Customs Suvan Resradas.
+
+The largest bribe in the history of Sri Lanka Jagath Gunatilake, who has died in collecting Rs.
+
+The Bribery Commission has been accused of conspiracy to be conspired by Jagath Gunatilleke in Colombo on 22nd June 15, 2015.
+
+...
+
+[Data](articles/32dd3772.json)
+
+[Extended Data](ext_articles/32dd3772.ext.json)
 
 ---
 
@@ -155,6 +213,24 @@ Further information had also been received that the suspects were hiding in a ho
 [Data](articles/868550db.json)
 
 [Extended Data](ext_articles/868550db.ext.json)
+
+---
+
+### Arjun Aloysius to be arrested for purchase of maize
+
+*2024-11-06 16:45:38* · [`adalk`](https://www.ada.lk/breaking_news/බඩ-ඉරිඟු-මිලදී-ගැනීමේ-වංචාවකට-අර්ජුන්-ඇලෝසියස්-අනුරාධපුර-බන්ධනාගාරයට/11-412891) · `si`
+
+Arjun Aloysius arrested for buying maize. Taken to Anuradhapura prison. Details from I J P B Chaturanga report.
+
+🟩
+
+Arjun Aloysius was taken to Anuradhapura prison for the purchase of maize. (I J) P. B. Chaturanga
+
+◼️
+
+[Data](articles/eef2a419.json)
+
+[Extended Data](ext_articles/eef2a419.ext.json)
 
 ---
 
@@ -2313,83 +2389,5 @@ He added that the meeting would be chaired by the Chairman of the Election Commi
 [Data](articles/d1d74ba6.json)
 
 [Extended Data](ext_articles/d1d74ba6.ext.json)
-
----
-
-### IPL athletes auction on November 24 and 25
-
-*2024-11-06 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202955) · `si`
-
-IPL athlete auction Nov 24-25: 1574 players registered, 1165 Indian, 409 foreign. South Africa students participate. Panjab Kings highest bid, Rajasthan Royals lowest. Second auction outside India during Australia Test series.
-
-🟩
-
-The Indian Cricket Board has confirmed that the athleo's auction is scheduled to be held on 24th and 25th of this month.
-
-This is the second time IPL athletic auction is held outside India.
-
-This year's athletic auction is being held in the third and fourth day of the Indian Australia Test series.
-
-The Indian Cricket Board confirms that 1,574 players have been registered for this year's athletic auction.
-
-Of these, 1,165 is Indian players and 409 players are foreign players.
-
-South Africa have registered a number of students who have registered this year's auction this year.
-
-Among them 10 teams are selected for playing 202 players to play 2025 Indian Premier League.
-
-Foreign players are to be included in the groups.
-
-The Panjab Kings will join the athletes with the highest amount of money and the Rajasthan Royals will join the auction with the lowest amount of money.
-
-◼️
-
-[Data](articles/30b15ecf.json)
-
-[Extended Data](ext_articles/30b15ecf.ext.json)
-
----
-
-### How did Anura face the smell of victory in the 2024 presidential election?
-
-*2024-11-06 09:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198000) · `ta`
-
-Thank you for providing such a detailed overview of the political landscape in Sri Lanka. It appears you've been following the developments closely. Is there a specific aspect of this political situation you'd like me to elaborate on? Or perhaps you have a question about the current state of affairs in Sri Lanka?
-
-🟩
-
-The November 2019 presidential election and the August 2020 parliamentary election for Janata Vimukti Peramuna (JVP) and its leader Anura Kumara Dissanayake have become a big disappointment. JVP as a tactical move. In both elections, the compass contested as part of a new political front under the new symbol.The party set up a vast front of the national people's power. Although the first appeared among nominally equitable organizations, it was practically the dominant party that controls the power of the national people.
-
-The JVP is the only simple reason. Dressed in the dress of national people power. It wanted to seize power by election. The JVP has overthrown the Sri Lankan state through the armed struggle. Tried twice. Both attempts failed.
-
-...
-
-[Data](articles/d5d0a2b8.json)
-
-[Extended Data](ext_articles/d5d0a2b8.ext.json)
-
----
-
-### CWC's quitting from senior party party
-
-*2024-11-06 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/197999) · `ta`
-
-A. Filipkumar quits Ceylon Workers Congress after 37 years. Former Central Provincial Council member and party assistant secretary. Contested last parliamentary election, receiving 30,000 votes.
-
-🟩
-
-Senior Member of the Ceylon Workers Congress, A. Filipkumar has announced his quitting from the party.
-
-Filip Kumar, a member of the party for the past 37 years, has been a former member of the Central Provincial Council.
-
-It is noteworthy that he was the party's assistant secretary and the vice president of the party.
-
-It is important that he contested on behalf of the party in the last parliamentary election and received 30 thousand votes.
-
-◼️
-
-[Data](articles/f08a4305.json)
-
-[Extended Data](ext_articles/f08a4305.ext.json)
 
 ---

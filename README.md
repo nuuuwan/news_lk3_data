@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 10:13:06**
+As of **2024-11-06 10:25:24**
 
 ## Newspaper Stats
 
-*Scraped **53,293** Articles*
+*Scraped **53,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,226
 dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,974
-adaderanalk | 6,346
+adaderanalk | 6,347
 tamilmirrorlk | 7,419
 virakesarilk | 8,607
-adaderanasinhalalk | 9,288
+adaderanasinhalalk | 9,290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,288 (100.0%) of 53,293 articles have been extended.
+53,292 (100.0%) of 53,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### ගෝල්ෆේස් පිටිය ගැන තීරණයක්
+
+*2024-11-06 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202958) · `si`
+
+ගාලු මුවදොර පිටිය විවිධ සාමාජ ක්‍රියාකාරකම් සඳහා ලබාදීමට අමාත්‍ය මණ්ඩලයේ අනුමැතිය හිමිවූ බව කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+ඊයේ (05) පැවති කැබිනට් මණ්ඩල හමුවේදී එම තීරණය ගත් බව ඒ මහතා පැවසීය.
+
+ශ්‍රී ලංකා වරාය අධිකාරියේ පරිපාලිත සමාගමක් වන ශ්‍රී ලංකා වරාය කළමනාකරණ හා උපදේශක සේවා පුද්ගලික සමාගමේ කළමනාකරණය සහ පරිපාලනය යටතේ පවතින ගාලුමුවදොර පිටිය ආගමික කටයුතු හැර වෙනත් කටයුතු සඳහා භාවිත කිරීම පිණිස අවසර ලබා නොදීමට 2023‑04‑17 දින පැවති අමාත්‍ය මණ්ඩල රැස්වීමේදී තීරණය කර ඇත.
+
+ගාලු මුවදොර පිටිය පරිපාලනය හා නඩත්තුව සඳහා මාසිකව ආසන්න වශයෙන් රුපියල් මිලියන 2.5 - 3.0ක පමණ පිරිවැයක් දැරීමට සිදු වන අතර, එම මුදල ආවරණය කර ගැනීමට සහ 2023 වසරට පෙර පැවති ආකාරයෙන් දෙස් විදෙස් සංචාරකයින්ට නිදහසේ ගැවසිය හැකි වඩාත් ආකර්ෂණීය හා ආරක්ෂිත ස්ථානයක් වශයෙන් මෙන්ම ජනතාවට නිදහසේ සහභාගිවීමට අවකාශ සලසන උත්සව, සංගීත ප්‍රසංග හා වෙනත් සැමරුම් සඳහා සුදුසු නිර්ණායකයන්ට යටත්ව ගාලු මුවදොර පිටිය භාවිත කිරීමට අවස්ථාව සලසා දීම යෝග්‍ය බව පෙනී ගොස් ඇත.
+
+...
+
+[Data](articles/b218beb4.json)
+
+---
+
+### The only political party we are life
+
+*2024-11-06 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202957) · `si`
+
+Dilith Jayaweera, Gampaha District candidate, aims to create a populist political party focused on universal power and good governance. He emphasizes building a politician's politics without personal gain, promoting unity across all religions and nationalities. The party seeks to restore good politics in Sri Lanka.
+
+🟩
+
+The leader of the Gampaha District candidate Dilith Jayaweera says that the objective of the party is to create a populist political flow.
+
+He points out that a new vision is owned by the universal power.
+
+Addressing a meeting held at the Gampaha area, Entrepreneering Dilith Jayaweera expressed these views.
+
+"The exalgeration power re-establish a good politics in Sri Lanka. Make a good political party, create a political party that loves you. As a result, we are trying to build a politician's politics for the political force in the past. Not to enjoy privileges or other profits. As a true humanitarian face, a politics of approach. Our political movement is the only political party in the same time. We were able to access all religions, eighteen religions in united nationality. "
+
+◼️
+
+[Data](articles/4f83c36b.json)
+
+[Extended Data](ext_articles/4f83c36b.ext.json)
+
+---
 
 ### World's first woody satellite into space
 
@@ -65,6 +107,26 @@ Investigation from the satellite electronic components of the satellite, the tim
 [Data](articles/c318ea95.json)
 
 [Extended Data](ext_articles/c318ea95.ext.json)
+
+---
+
+### EC summons officials to discuss preparations for Parliamentary Election
+
+*2024-11-06 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103198/ec-summons-officials-to-discuss-preparations-for-parliamentary-election) · `en`
+
+District Returning Officers and Assistant Election Commissioners have been summoned to the Election Commission today (06) to discuss preparations for the upcoming parliamentary election.
+
+The Commissioner General of Elections, Saman Sri Ratnayake, stated, “A discussion is scheduled this morning regarding the parliamentary election to be held on November 14, 2024, with the participation of District Returning Officers, District Deputy and Assistant Commissioners.”
+
+He added that the meeting would be chaired by the Chairman of the Election Commission and with the participation of all Commission members, as well as senior officials including the Commissioner General and Additional Commissioners, at the commission’s main office.
+
+“It is expected to inform about the activities related to the election to be held in the coming days. All relevant officials will participate for that,” Ratnayake said.
+
+◼️
+
+[Data](articles/d1d74ba6.json)
+
+[Extended Data](ext_articles/d1d74ba6.ext.json)
 
 ---
 
@@ -1776,6 +1838,8 @@ Nation Lanka Finance’s current stated capital is Rs 4.1 billion (4,108,420,583
 
 [Data](articles/eac95eed.json)
 
+[Extended Data](ext_articles/eac95eed.ext.json)
+
 ---
 
 ### Former Deputy Minister's penalties
@@ -2327,89 +2391,5 @@ Furthermore, the Prisons Spokesman added that strict disciplinary action will be
 [Data](articles/ea57d0f8.json)
 
 [Extended Data](ext_articles/ea57d0f8.ext.json)
-
----
-
-### The president cannot deceive people with false promises - Jeevan
-
-*2024-11-05 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/197957) · `ta`
-
-President denies deceiving public with false promises. Claims fulfilled pledge to increase plantation worker wages. Emphasizes land rights and criticizes opponents for exploiting hill country residents.
-
-🟩
-
-In the past, the current president has made impossible pledges on many platforms in the past but that the salaries of plantation workers will be increased significantly for plantation workers at a meeting in Nuwara Eliya on Sunday, 3rd, but the Ceylon Workers Congress and Nuwelia District Candidate Jeevan Thondaman said.
-
-He was speaking at a speech at the election campaign meeting held on Monday 4 in the Diyagamam area.
-
-Over the past 4 years, we have faced many humiliations and problems and promised to get a salary increase for plantation workers. We have now fulfilled that promise.
-
-We are a land -free society. Land rights should be certain if the land is entrusted to the people. 90 % of the people will automatically build houses. Only a few readers in the garden are only a few people in the garden.There is no doubt that we are still fighting for land rights.
-
-A few politicians say that the people of the hill country will be selling them when they are suffering from difficulties.
-
-...
-
-[Data](articles/cdb9398d.json)
-
-[Extended Data](ext_articles/cdb9398d.ext.json)
-
----
-
-### Protest against the pastor Jerem
-
-*2024-11-05 17:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202937) · `si`
-
-Protest against Pastor Jerem Fernando in Nawalapitiya over plans to build a religious site near a mental health rehabilitation center. Police presence reported.
-
-🟩
-
-The Pasco-Jerem Fernando has been uneasiness with the return in Nawalapitiya today (05).
-
-Paso-in-law Jerem Fernando had come to a location where the rehabilitation center of rehabilitation of mental confusion was carried out.
-
-Nawalapitiya Police officials had also attended the control of the situation.
-
-The villagers allege that a religious place has been planned to be built by the rehabilitation center of rehabilitation.
-
-Later, the Diva-Reafly Jerem Fernando had left the place with his security guards.
-
-◼️
-
-[Data](articles/e05f7094.json)
-
-[Extended Data](ext_articles/e05f7094.ext.json)
-
----
-
-### British government resolution to invite Sri Lankan Tamil immigrants into the country
-
-*2024-11-05 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/197961) · `ta`
-
-British government resolves to admit Sri Lankan Tamil refugees to UK. About 60 asylum seekers in Decorcia to be transferred directly to UK. Policy change follows years of opposition. Government investigates matter. Attorneys praise decision as victory for justice.
-
-🟩
-
-The British government has proposed a plan to allow Sri Lankan Tamil asylum seekers to enter the British on the island of Decorcia.
-
-About 60 Sri Lankan Tamil asylum seekers have been living in the temporary tents of Diocarcia for the past three years. They have registered asylum.
-
-It is noteworthy that they are the first asylum seekers to register asylum on the island of Diachocarcia.
-
-The British government had earlier opposed the bringing of Sri Lankan Tamil settlers into Britain from the island -
-
-The British government has agreed to make a policy change, government lawyers said.
-
-Accordingly, all these residents will be allowed to transfer all the girls to the UK directly.
-
-The government is actively investigating the matter.
-
-A British official who spoke to Tamils ​​in Diocarcia said that the decision was taken to bring them to the UK due to the unusual situation on the Diocarcian island.
-
-...
-
-[Data](articles/1ab3762b.json)
-
-[Extended Data](ext_articles/1ab3762b.ext.json)
 
 ---

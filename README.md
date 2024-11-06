@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 12:40:25**
+As of **2024-11-06 12:58:37**
 
 ## Newspaper Stats
 
-*Scraped **53,341** Articles*
+*Scraped **53,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,980
+adalk | 4,981
 adaderanalk | 6,354
-tamilmirrorlk | 7,428
+tamilmirrorlk | 7,429
 virakesarilk | 8,619
-adaderanasinhalalk | 9,296
+adaderanasinhalalk | 9,298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,329 (100.0%) of 53,341 articles have been extended.
+53,339 (100.0%) of 53,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### අමෙරිකානු ජනාධිපතිවරණයේ ජය ට්‍රම්ප් ට ?
+
+*2024-11-06 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202966) · `si`
+
+අමෙරිකානු ජනාධිපතිවරණයේ ජය රිපබ්ලිකන් පක්ෂ අපේක්ෂක, ඩොනල්ඩ් ට්‍රම්ප්ට හිමිවෙතැයි ෆොක්ස් නිව්ස් සේවය වාර්තා කරයි.
+
+මේ අතර බීබීසී පුවත් සේවය වාර්තා කළේ, දැනට නිකුත් වී ඇති ප්‍රතිඵල අනුව ඡන්ද විද්‍යාල 265ක ජය ට්‍රම්ප්ට හිමිව ඇති අතර, ඩිමොක්‍රටික් පක්ෂ අපේක්ෂක කමලා හැරිස් විසින් ඡන්ද විද්‍යාල 194ක ජය හිමිකර ගෙන ඇති බවය.
+
+ජනාධිපතිවරණය ජය ගැනීම සඳහා ඡන්ද විද්‍යාල 270ක් හිමිකර ගත යුතුව තිබේ.
+
+◼️
+
+[Data](articles/876cc6e0.json)
+
+---
+
+### අමෙරිකාවේ පාලනය යළිත් ට්‍රම්ට
+
+*2024-11-06 12:48:50* · [`adalk`](https://www.ada.lk/breaking_news/අමෙරිකාවේ-පාලනය-යළිත්-ට්‍රම්ට/11-412887) · `si`
+
+2024 අමෙරිකානු ජනාධිපතිවරණයෙන් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ජයග්‍රහණය කර තිබේ.
+
+එහිදී ඔහු ඡන්ද විද්‍යාල 277ක් දිනාගෙන ඇති අතර, ඔහුගේ ප්‍රතිවාදියා වූ කමලා හැරිස් ඡන්ද විදයාල 226ක් දිනාගෙන ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+ඒ අනුව අමෙරිකාවේ 47 වැනි ජනාධිපතිවරයා ලෙස ඩොනල්ඩ් ට්‍රම්ප් තේරී පත්විය.
+
+◼️
+
+[Data](articles/e0862eae.json)
+
+---
+
+### හිටපු රේගු නිලධාරීන් 4 දෙනෙක්ට බරපතළ වැඩ සහිත වසර 35 බැගින් සිර දඬුවම්
+
+*2024-11-06 12:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202965) · `si`
+
+ශ්‍රී ලංකා රේගුවේ හිටපු නිලධාරීන් හතර දෙනෙකුට කොළඹ මහාධිකරණය අද (06) බරපතළ වැඩ සහිත වසර 35 බැගින් සිර දඬුවම් නියම කළේය.
+
+ඒ, 2015 වසරේදී ලංකා ගමනාගමන මණ්ඩලයට සැපයීම සඳහා ආනයනය කළ බස් රථ අමතර කොටස් මුදාහැරීම සඳහා පංචිකාවත්ත ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගෙන් රුපියල් මිලියන 125 ක අල්ලසක් ලබා ගැනීමේ චෝදනාවට වරදකරුවන් වීම හේතුවෙනි.
+
+ඊට අමතරව එක් එක් විත්තිකරුවෙකුට රුපියල් මිලියන 125 බැගින් දඩ නියම කරන බවත් තීන්දුව ප්‍රකාශයට පත් කරමින් කොළඹ මහාධිකරණ විනිසුරු නාමල් බලල්ලේ මහතා නියෝග කළේය.
+
+◼️
+
+[Data](articles/afede2dd.json)
+
+---
+
+### பின்தங்கியதால் நிகழ்வை இரத்து செய்த கமலா
+
+*2024-11-06 12:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பின்தங்கியதால்-நிகழ்வை-இரத்து-செய்த-கமலா/50-346664) · `ta`
+
+அமெரிக்க அதிபர் தேர்தலுக்கான வாக்குப்பதிவு நிறைவடைந்து, இன்றுறு காலை வாக்குகள் எண்ணும் நடவடிக்கை ஆரம்பமாகியது.
+
+இந்த நிலையில் ஹோவர்ட் பல்கலைகழகத்தில் கமலா ஹாரிஸ், இன்று நிகழ்ச்சி ஒன்றில் கலந்துகொண்டு பேச இருந்த நிலையில் வாக்குப் பதிவில் தான் பின்னதங்கிய நிலையில் இருந்தால், இந்த நிகழ்ச்சியை இரத்து செய்துள்ளார்.
+
+"இன்னும் எண்ண வேண்டிய வாக்குகள் எங்களிடம் உள்ளன. இன்னும் முடிவுகள் அறிவிக்கப்படாத மாநிலங்கள் உள்ளன. ஒவ்வொரு வாக்கும் எண்ணப்படுவதை உறுதி செய்ய, ஒவ்வொரு குரலும் பேசுவதை உறுதி செய்ய, ஒரே இரவில் தொடர்வோம்.
+
+“எனவே, இன்று இரவு துணை ஜனாதிபதியிடம் இருந்து நீங்கள் உரையை கேட்க மாட்டீர்கள். ஆனால் நாளை அவளிடமிருந்து நீங்கள் கேட்பீர்கள், அவர் நாளை இங்கு வருவார், தனது ஆதரவாளர்களுக்கு மட்டுமல்ல, தேசத்திற்கும் உரையாற்றுவார்" என கமலா ஹாரிஸின் பிரசார இணைத் தலைவர் செட்ரிக் ரிச்மண்ட் கூறினார்.AN
+
+◼️
+
+[Data](articles/3713d4ef.json)
+
+---
 
 ### Ex-president CBK’s security remains unchanged, Minister assures
 
@@ -45,6 +111,8 @@ He made these remarks in response to a question raised by a journalist during th
 ◼️
 
 [Data](articles/1fe3fbf2.json)
+
+[Extended Data](ext_articles/1fe3fbf2.ext.json)
 
 ---
 
@@ -64,6 +132,8 @@ He further stated that the relevant arrangement had been pre-agreed, and no prov
 
 [Data](articles/ad75c567.json)
 
+[Extended Data](ext_articles/ad75c567.ext.json)
+
 ---
 
 ### Govt to utilise unspent 2024 funds to clear road project debt
@@ -81,6 +151,8 @@ Accordingly, the Cabinet of Ministers has approved the management of the allocat
 ◼️
 
 [Data](articles/394d9578.json)
+
+[Extended Data](ext_articles/394d9578.ext.json)
 
 ---
 
@@ -196,19 +268,25 @@ After a long legal struggle, the court ruled him favorably and acquitted him of 
 
 ---
 
-### டாக்டர்  ஷாபி முழுமையாக விடுதலை
+### Dr. Shafi fully released
 
 *2024-11-06 11:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/டாக்டர்-ஷாபி-முழுமையாக-விடுதலை/150-346655) · `ta`
 
-விசேட வைத்திய நிபுணர் டாக்டர்  ஷாபி சிஹாப்தீன் சகல குற்றச்சாட்டுக்களில் இருந்தும், புதன்கிழமை (06) விடுவிக்கப்பட்டார்.  குருநாகல் நீதவான் நீதிமன்றமே அவரை விடுவித்தது.
+Dr. Shafi Sihabdeen acquitted of all charges after lengthy legal battle. Court clears specialist of allegations regarding asset accumulation, illegal surgeries, and terrorism ties.
 
-டாக்டர்  ஷாபி சிஹாப்தீன் சந்தேகத்திற்கிடமான முறையில் சொத்துக்களை குவித்தமை, சட்டவிரோத கருத்தடை அறுவை சிகிச்சை செய்தல் மற்றும் பயங்கரவாத நடவடிக்கைகளுடன் தொடர்புடையதாகக் கூறப்படும் குற்றச்சாட்டுகளை எதிர்கொண்டார்.
+🟩
 
-நீண்ட சட்டப் போராட்டத்திற்குப் பிறகு, நீதிமன்றம் அவருக்குச் சாதகமாகத் தீர்ப்பளித்தது, அவர் மீதான குற்றச்சாட்டுகள் அனைத்திலும் இருந்து அவரை விடுவித்தது.
+Specialist Dr. Shafi Sihabdeen was acquitted on Wednesday (06) from all allegations.  குருநாகல் நீதவான் நீதிமன்றமே அவரை விடுவித்தது.
+
+Dr. Shafi Sihabdeen faced allegations of suspicious accumulation of assets, illegal contraceptive surgery and terrorist activities.
+
+After a long legal struggle, the court ruled him favorably and acquitted him of all the allegations against him.
 
 ◼️
 
 [Data](articles/a721a134.json)
+
+[Extended Data](ext_articles/a721a134.ext.json)
 
 ---
 
@@ -268,25 +346,41 @@ Volume 03 - Paliyagoda 615 Home Units Agreement has been approved for M/S Shanxi
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-11-06 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198017) · `ta`
 
-இன்று புதன்கிழமை (06) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.5439 ரூபாவாகவும், விற்பனை விலை 297.6284 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US Dollar to Rupee exchange rate: Buying 288.5439, Selling 297.6284. Central Bank announcement on Wednesday, June 6th.
+
+🟩
+
+The US dollar purchasing price was 288.5439 rupees and the sales price were Rs 297.6284 based on the currency exchange rate issued by the Central Bank on Wednesday (06).
 
 ◼️
 
 [Data](articles/fd1d6d01.json)
 
+[Extended Data](ext_articles/fd1d6d01.ext.json)
+
 ---
 
-### நாட்டில் ஒருபோதும் சமஷ்டி உருவாக்கப்படமாட்டாது - அரசாங்கம்
+### The country will never be created - the government
 
 *2024-11-06 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198019) · `ta`
+
+Here's a summary of "The country will never be created - the government" in approximately 200 characters:
+
+
+
+"The country will never be formed due to ineffective governance. Political instability, corruption, and lack of leadership hinder progress. Without strong institutions and responsible decision-making, the nation remains fragmented and underdeveloped."
+
+🟩
 
 ◼️
 
 [Data](articles/a93a84f0.json)
+
+[Extended Data](ext_articles/a93a84f0.ext.json)
 
 ---
 
@@ -330,39 +424,65 @@ The squad for New Zealand has been named for the One Day and 20 Tournament.
 
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்டத்தை நீக்குவது உறுதி - அரசாங்கம்
+### Make sure to abolish the Ceremony Protection Act - Government
 
 *2024-11-06 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198016) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டத்தை நீக்கும் கொள்கையில் எமது அரசாங்கம் உறுதியாகவுள்ளது என  அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+Here's a 200-character summary:
+
+
+
+Government vows to repeal Ceremony Protection Act. Cabinet spokesperson Vijitha Herath confirms determination to abolish current security law.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said that our government is determined to abolish the current security law.
 
 ◼️
 
 [Data](articles/678b707d.json)
 
+[Extended Data](ext_articles/678b707d.ext.json)
+
 ---
 
-### மேல் மாகாணத்தில் சீன அரசின் வீட்டுத்திட்டம் !
+### Chinese government housing scheme in the Western Province!
 
 *2024-11-06 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198014) · `ta`
 
-மேல் மாகாணத்தில் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு சீன அரசின் வீட்டுத்திட்டம் கிடைக்கப்பெறவுள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+Chinese government housing scheme summary: Low-income families in Western Province eligible.
+
+🟩
+
+The government has said that the Chinese government's housing scheme will be available to low -income families in the Western Province.
 
 ◼️
 
 [Data](articles/13c0ea32.json)
 
+[Extended Data](ext_articles/13c0ea32.ext.json)
+
 ---
 
-### பாடசாலை சீருடைத்துணிகளை வழங்கியது சீனா
+### China has provided school uniforms
 
 *2024-11-06 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198013) · `ta`
 
-எதிர்வரும் 2025 ஆம் ஆண்டுக்கான பாடசாலை சீருடை துணிகளை  சீன அரசு வழங்கியுள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+Here's a 200-character summary:
+
+
+
+"China's government announced it will provide school uniforms for all students starting in 2025. This initiative aims to standardize education attire across the country."
+
+🟩
+
+The government has said that the Chinese government has provided school uniforms for 2025.
 
 ◼️
 
 [Data](articles/255b05ec.json)
+
+[Extended Data](ext_articles/255b05ec.ext.json)
 
 ---
 
@@ -448,19 +568,25 @@ He was speaking at a press notice of the Cabinet Decision.
 
 ---
 
-### இன்று முதல் முன்பதிவு செய்யலாம்
+### Can be booked since today
 
 *2024-11-06 11:03:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-முன்பதிவு-செய்யலாம்/175-346647) · `ta`
 
-இன்று (06) முதல் கடவுச்சீட்டை பெற்றுக்கொள்வதற்கான திகதி மற்றும் நேரத்தை இணையத்தளம் ஊடாக ஒதுக்கிக்கொள்ள முடியும் என அறிவிக்கப்பட்டுள்ளது.
+Passport appointments now available online. Book via official website starting today. Immigration & Emigration Controller announces convenient booking system to streamline passport processing.
 
-கடவுச்சீட்டை பெற்றுக்கொள்வதில் ஏற்பட்டுள்ள நெருக்கடி நிலைமைக்குத் தீர்வு காணும் வகையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+🟩
 
-இதன்படி, திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்திற்குள் பிரவேசிப்பதன் மூலம் கடவுச்சீட்டைப் பெறுவதற்கான திகதி மற்றும் நேரத்தினை முன்பதிவு செய்ய முடியும் என பதில் குடிவரவு மற்றும் குடியகல்வுக் கட்டுப்பாட்டாளர் நாயகம் நிலுஷா பாலசூரிய தெரிவித்துள்ளார்.  R
+It has been announced that the date and time for obtaining a passport from today (06) can be allocated through the website.
+
+The move has been taken to address the situation in which the passport is being obtained.
+
+Accordingly, the Immigration and Emigration Controller Nalusha Balasuriya said that by entering the official website of the department, the date and time of obtaining a passport can be booked.R
 
 ◼️
 
 [Data](articles/427f3563.json)
+
+[Extended Data](ext_articles/427f3563.ext.json)
 
 ---
 
@@ -2127,103 +2253,5 @@ The Criminal Investigation Department arrested the suspect on the 4th and was 38
 [Data](articles/88b2302c.json)
 
 [Extended Data](ext_articles/88b2302c.ext.json)
-
----
-
-### If Pillaiyan is not present, they will carry out the process of correcting him - K.Innaraja
-
-*2024-11-05 22:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197982) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-K.Innaraja warns against attacking Pillaiyan's supporters. LTTE contests parliamentary elections in Batticaloa, Jaffna, and Trincomalee districts. Female candidate and her husband attacked; husband hospitalized. Police response criticized.
-
-🟩
-
-The leader of the Liberation Tigers of Tamil Eelam (LTTE), K.Inbarajah, said that if Pillaiyan's supporters were attacked by his candidate and her husband, they should carry out the process of correcting him.
-
-Pillaiyan is still not. He also warned that he would have to show him who was the LTTE. Commenting on this, Inbaraja said, "On behalf of the Rehabilitated LTTE. We are contesting parliamentary elections in the Batticaloa district, Jaffna District, Vannimavattam, Trincomalee District.
-
-Our female candidate has been attacked at Nochimunai, Batticaloa on the night of 31 10 2024. The husband's husband is also attacked. Is at the hospital until today. The attacker is the ex -militant. Dileepan Busnini has asked why the four attackers come home and support the rehabilitated LTTE party.. The husband has said that it is our choice.
-
-...
-
-[Data](articles/7607ba49.json)
-
-[Extended Data](ext_articles/7607ba49.ext.json)
-
----
-
-### Kavinda de Zoysa appointed chairman of Bank of Ceylon
-
-*2024-11-05 22:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103192/kavinda-de-zoysa-appointed-chairman-of-bank-of-ceylon) · `en`
-
-Mr. Kavinda de Zoysa has been appointed as the new Chairman of the Bank of Ceylon (BOC), Sri Lanka’s leading state-owned financial institution.
-
-Mr. de Zoysa, a career banker with over 30 years of industry experience and 25 years in management, brings proven leadership capabilities and strategic insight to BOC, a statement said.
-
-His deep understanding of local and global markets positions him well to support the Bank’s objectives in this evolving environment. Known as a team player and innovator, he champions ethics, compliance, diversity, equity & inclusion (DEI), and believes strongly in meritocracy and agile execution.
-
-...
-
-[Data](articles/3c9d61cf.json)
-
-[Extended Data](ext_articles/3c9d61cf.ext.json)
-
----
-
-### Secrets revealed about the price of rice
-
-*2024-11-05 22:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202946) · `si`
-
-Here's a 200-character summary:
-
-
-
-Rice shortage and price hike in Sri Lanka (2024). Experts blame high costs due to low state intervention in paddy purchasing. Rice producers focus solely on costs, ignoring other factors like rice flour and husk markets. Profit margins remain significant despite challenges.
-
-🟩
-
-Hector Kobbekaduwa Research and Training Agency of Hector Kobbekaduwa, a shortage of rice and increase in a background of 2024.
-
-The Director of the company was directed at a press conference held in Colombo. L. Mr. Randika stated that the minimum level of state intervention in paddy purchasing is that rice prices have increased.
-
-The experts in the market are being affected by the shortage of rice and high costs.
-
-He also said that the prices of rice production will not be taken into account the effects of rice.
-
-"Rice businessmen only calculate costs. In addition to rice, rice powder and bark, have a market now. Approximately, a kilo of rice has a profit of about Rs.
-
-◼️
-
-[Data](articles/88f2fab8.json)
-
-[Extended Data](ext_articles/88f2fab8.ext.json)
-
----
-
-### Politicians were benefited by war
-
-*2024-11-05 21:59:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுத்தத்தால்-அரசியல்வாதிகளே-நன்மையடைந்தனர்/175-346627) · `ta`
-
-War benefits politicians: PM Harini Amarasuriya claims political gains from conflict. Communication gap between North and South intensified hostilities, fueling ethnic tensions.
-
-🟩
-
-Prime Minister Harini Amarasuriya says politicians have benefited from the war.
-
-He was speaking at a public meeting in Mullaitivu.
-
-Due to the war, there was no communication between the Northern people and the people of the South.
-
-During the war, the people of Sri Lanka saw the North as a battlefield and the Tamil people of the Northern Tamil people saw the Sinhalese people as their enemies.
-
-◼️
-
-[Data](articles/724962a8.json)
-
-[Extended Data](ext_articles/724962a8.ext.json)
 
 ---

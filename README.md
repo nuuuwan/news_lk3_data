@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 15:59:18**
+As of **2024-11-06 16:24:33**
 
 ## Newspaper Stats
 
-*Scraped **53,363** Articles*
+*Scraped **53,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,144 @@ economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,985
-adaderanalk | 6,358
-tamilmirrorlk | 7,433
-virakesarilk | 8,619
-adaderanasinhalalk | 9,304
+adaderanalk | 6,359
+tamilmirrorlk | 7,435
+virakesarilk | 8,630
+adaderanasinhalalk | 9,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,363 (100.0%) of 53,363 articles have been extended.
+53,372 (100.0%) of 53,378 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Recalled political appointees in foreign service set deadline to return
+
+*2024-11-06 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103210/recalled-political-appointees-in-foreign-service-set-deadline-to-return) · `en`
+
+Sri Lanka’s Cabinet Spokesman and Foreign Minister Vijitha Herath says that certain officials appointed to the country’s Foreign Service on a political basis have been instructed to return to the island by December 01.
+
+Addressing the Cabinet press briefing today (06), he claimed that the children and spouses of MPs and Ministers have also been directly appointed to positions below top diplomatic positions.
+
+He declared that such appointments would not be made in the future.
+
+“Individuals who were not part of the Foreign Service had been appointed as ambassadors and high commissioners to foreign nations. We have recalled 15 of them.”
+
+However, he stated that while the term political appointments is not applicable for all the appointments as some have previously served in the military in high-ranking positions and some have held various other responsibilities.
+
+...
+
+[Data](articles/bf82583d.json)
+
+[Extended Data](ext_articles/bf82583d.ext.json)
+
+---
+
+### It is dangerous to provide a two -thirds majority to the national people's power - the son of Rohanavijayaweera
+
+*2024-11-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198053) · `ta`
+
+Dangerous two-thirds majority for JVP: Son warns against electoral disaster.
+
+🟩
+
+Wijeweera, son of JVP's founder Rohanavijayaweera, has warned that it is a dangerous thing to provide a two -thirds majority to the national popular power.
+
+The general secretary of the second generation of the party, Uvindu Wijeweera, said that the issuance of a two -thirds majority to the JVP in the upcoming parliamentary election would be a political disaster.
+
+He has appealed to voters to be cautious about the consequences that the JVP gets two -thirds.
+
+After gaining a major majority in the 1977 general election, JR Jayawardene recalled the political tactics that JR Jayawardene advanced, said Rohana Wijayaweera's son, not to bear such a situation.
+
+I do not think that the declaration of the national people's power to defeat corrupt politicians to clean up the parliament is wrong, but it is not right for voters to be elected only members of the national people's power at this moment.
+
+He has appealed for voters not to be killed by the propaganda of the national people's power.
+
+◼️
+
+[Data](articles/e9a4a028.json)
+
+[Extended Data](ext_articles/e9a4a028.ext.json)
+
+---
+
+### Driver's work suspended
+
+*2024-11-06 15:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றிச்-செல்ல-மறுத்த-சாரதி-நடத்துனர்-பணி-இடைநிறுத்தம்/175-346671) · `ta`
+
+Driver and conductor suspended for refusing to transport school children. Action taken by regional manager's office. Bus service halted temporarily.
+
+🟩
+
+The driver and conductor who refused to carry the school students on the bus has been suspended, the office of the main regional manager of the Kalutara District said.
+
+A spokesman for the office of Aluthgama Depot, who was traveling from Aluthgama to Colombo, has been suspended, the office of the office has been suspended.
+
+Based on the information received by the current Chairman, the Matthi Ramen bus has been stopped on the day of the action on the day of the actions of Ramal Siriwardena.
+
+◼️
+
+[Data](articles/15b889a0.json)
+
+[Extended Data](ext_articles/15b889a0.ext.json)
+
+---
+
+### Law College student money laundering
+
+*2024-11-06 15:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சட்டக்-கல்லூரி-மாணவியிடம்-பண-மோசடி/76-346670) · `ta`
+
+Bibila police investigating alleged fraud involving law college student and private telecom employee. Student accused of defrauding 554,030 rupees by providing bank details and OTPs. Two bank transfers were made after receiving SMS notifications. Police investigation ongoing.
+
+🟩
+
+Bibila police are conducting investigations into the incident of allegedly defrauding five hundred and fifty four thousand thirty rupees, claiming that a law college student from the Bibila police division has made an invitation to a law college student from a private telephone company.
+
+The woman who identified her from a private telephone company and said that the five lakhs of rupees had been issued to provide the recently used account number and the OTP number to provide it with the woman and gave her two private bank accounts and OTP numbers and provided them with all the information.
+
+Thereafter, two SMS from the bank has come from his two accounts that money has gone to other accounts.   அதனையடுத்து அவரை தொடர்பு கொண்ட தொலைபேசி எண்ணுக்கு அழைத்த போதும் அந்த எண் துண்டிக்கப்பட்டு இருந்துள்ளது.
+
+Subsequently, the Bibila police have been investigated following a complaint at the police station.
+
+◼️
+
+[Data](articles/b8d776b0.json)
+
+[Extended Data](ext_articles/b8d776b0.ext.json)
+
+---
+
+### Investigations search for another who lied about President
+
+*2024-11-06 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202973) · `si`
+
+CID investigates claim about President's health during election. Complaint filed by lawyer alleging false information spread online.
+
+🟩
+
+The Criminal Investigation Department (CID) has ordered the CID today (06) to conduct a full investigation into the Presidential election.
+
+This is about the illness of President Anura Kumara Dissanayake at the end of the presidential election.
+
+The Colombo Magistrate's Court ordered the CID to carry out a full investigation into the incident.
+
+According to a complaint made by lawyer Sunil Watagala, the CID reported to the Colombo Magistrate's Court today.
+
+Mr. Sunil Watagala refers to his complaint that this of the integrated information has been added to the Internet through a man named Subash.
+
+Investigating the Criminal Investigations Department, the officials of the Criminal Investigations (CID) said that investigations were carried out regarding the incident.
+
+◼️
+
+[Data](articles/eaccb14c.json)
+
+[Extended Data](ext_articles/eaccb14c.ext.json)
+
+---
 
 ### 1996 houses for Chinese assistance
 
@@ -87,6 +211,90 @@ The SLC says that seven international players should have seven international pl
 [Data](articles/9cb7d858.json)
 
 [Extended Data](ext_articles/9cb7d858.ext.json)
+
+---
+
+### Woman killed in fever for three days
+
+*2024-11-06 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198041) · `ta`
+
+68-year-old woman dies after 3-day fever. Mother of 68 children from Kudavana. Admitted to hospital, cause of death investigated. Body handed to relatives after examination.
+
+🟩
+
+The mother of 68 children, aged 68, from Kudavana, Tunnalai, died.
+
+The woman was taken to the Mandi Hospital on the 4th of last month and was admitted to the Jaffna Teaching Hospital for further treatment.
+
+Sudden death investigators Namasivayam Premkumar conducted the death investigations into the body of the deceased and the body was handed over to relatives after anatomical examination.
+
+◼️
+
+[Data](articles/935251ca.json)
+
+[Extended Data](ext_articles/935251ca.ext.json)
+
+---
+
+### 'Ranil needs Ranil - they need Ranil'
+
+*2024-11-06 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198043) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Gotabhaya Rajapaksa claimed Ranil Wickremesinghe needed his support during crisis talks. However, Wickremesinghe denies this, stating he didn't seek Rajapaksa's backing. This highlights the complex political dynamics in Sri Lanka's recent history.
+
+🟩
+
+Former President Gotabhaya Rajapaksa said in an interview with talks between him and the United People's Power before he fled the country in 2022, said Ranil Wickremesinghe, a former United People's Power Member of Parliament, Eran Wickramaratne.
+
+Question - When the country is in a state of crisis, many people question why people like Eran did not join Ranilwickramasinghe?
+
+Former President Gotabhaya Rajapakse summoned Opposition Leader Sajith Premadasa and why you should not rule, Sajith Premadasa responded.
+
+I went to meet Gotabhaya.
+
+Yes. The meeting between us and Gotabaya took place before Ranil became Prime Minister.
+
+People are not aware of this. It is not publicly talked about.
+
+Gotabhaya said that the Sri Lanka Lawyers Association has also submitted an idea on the constitutional reform.
+
+I was appointed as the speaker of our party.
+
+The next day I tried to contact Gotabhaya on the phone and then Rani Lwickramasinghe is in the president's residence.
+
+...
+
+[Data](articles/a9d0a076.json)
+
+[Extended Data](ext_articles/a9d0a076.ext.json)
+
+---
+
+### Muslim does not decide to amend the divorce law - government
+
+*2024-11-06 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/198042) · `ta`
+
+Government denies amending Muslim Divorce Act; religious leaders may propose changes after consulting experts.
+
+🟩
+
+The government does not make any decision to amend the Muslim Divorce Act. No. Cabinet spokesman Vijitha Herath said that there was no need for it.
+
+He further stated that the press conference to announce the Cabinet decisions was held on Wednesday (06).
+
+Different organizations have different positions in relation to Muslim divorce law. We respect those rights. Similarly, as a government, no decision has been made to make amendments to the Muslim Divorce Act. Not going to take.
+
+There was no need to make such a decision. Muslim religious leaders can take action if legal amendments are needed only after discussing discussions with experts. He said the legal amendments to any religion would be made on this basis.
+
+◼️
+
+[Data](articles/10f62d11.json)
+
+[Extended Data](ext_articles/10f62d11.ext.json)
 
 ---
 
@@ -194,6 +402,46 @@ The lorry driver has been arrested by the Wellawaya Police regarding the acciden
 
 ---
 
+### A suspect arrested in illegal leakage in Badulla
+
+*2024-11-06 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198036) · `ta`
+
+Badulla police arrest suspect in illegal leakage case. 27-year-old man from Selvankantha Diyanagala area detained. Police investigation underway. Tea estate seized due to illegal activities. Legal action planned against Badulla court.
+
+🟩
+
+The Badulla police said that a person who was involved in illegal leakage in Badulla, Selvakantha Diyanagala area has been arrested.
+
+A 27 -year -old man from Selvakantha Diyagala has been arrested, police said.
+
+பதுளை மாவட்ட பிரதி பொலிஸ் மா அதிபர் சுஜித் வெதமுல்லவுக்கு கிடைக்கப்பெற்ற இரகசிய தகவல் அமைய பொலிஸ் மா அதிபரின் ஆலோசனையின் பேரில் பசறை பொலிஸ் நிலைய பொறுப்பதிகாரி பியரத்ன தலைமையில் பசறை பொலிஸ் புலனாய்வு பிரிவினர் குறித்த சுற்றி வளைப்பை மேற்கொண்டதாக தெரிவிக்கப்படுகிறது.
+
+The tea estate in the area has been seized by the four buries underground and has been reported to have been intolerant for a long time.
+
+Police said they are taking steps to sue the Badulla court in connection with the incident.
+
+◼️
+
+[Data](articles/56a502eb.json)
+
+[Extended Data](ext_articles/56a502eb.ext.json)
+
+---
+
+### இலான் மாஸ்க்கை புதிய நட்சத்திரம் என வர்ணித்த ட்ரம்ப்
+
+*2024-11-06 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198035) · `ta`
+
+அமெரிக்காவில் நடந்து முடிந்த ஜனாதிபதி தேர்தலில் 47 ஆவது ஜனாதிபதியாக டொனால்ட்  ட்ரம்ப் தெரிவு செய்யப்பட்டுள்ளார்.
+
+இந்நிலையில், அவர் ஆதரவாளர்கள் மத்தியில் ஆற்றிய உரையில் உலகின் மிகப்பெரிய கோடீஸ்வரர்களில் ஒருவரும்,  எக்ஸ் சமூக ஊடகத்தின்  உரிமையாளருமான இலான் மஸ்க்கை குடியரசுக் கட்சியின் "புதிய நட்சத்திரம்" என டொனால்ட்  ட்ரம்ப் வர்ணித்துள்ளார்.
+
+◼️
+
+[Data](articles/9a7cecb3.json)
+
+---
+
 ### Trump confirms win
 
 *2024-11-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202968) · `si`
@@ -228,6 +476,24 @@ More than 81 million registered American voters had been voted under the electio
 
 ---
 
+### மனைவி மெலானியாவிற்கும் குடும்பத்தினருக்கும் நன்றி தெரிவித்தார் - டிரம்ப்
+
+*2024-11-06 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198033) · `ta`
+
+அமெரிக்காவின் 47வது ஜனாதிபதியாக தெரிவு செய்யப்படவுள்ள குடியரசுகட்சியின் வேட்பாளர்  டொனால்ட் டிரம்ப் தனது மனைவி மெலானியா உட்பட தனது குடும்பத்தவர்களிற்கு நன்றியை தெரிவித்துள்ளார்.
+
+மெலானியாவின் நூலை பாராட்டிய டிரம்ப் அமெரிக்காவில் அதிகம் விற்பனையான நூலின் ஆசிரியர் மெலானியா என தெரிவித்துள்ளார்.
+
+அவர் மிகச்சிறந்த பணியாற்றியுள்ளார் மக்களிற்கு உதவுவதற்காக அவர் மிகுந்த பாடுபட்டுள்ளார் என தெரிவித்துள்ள டொனால்ட் டிரம்ப் தனது பிள்ளைகளிற்கும் நன்றி தெரிவித்துள்ளார்
+
+மேடையில் அவர்கள் காணபட்ட நிலையில் அவர்கள் ஒவ்வொருவரினதும் பெயரை குறிப்பிட்டு டிரம்ப் நன்றி தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/f4a8ee13.json)
+
+---
+
 ### The assassination of Kempathpitiya Walawwa's assassination reveals
 
 *2024-11-06 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202967) · `si`
@@ -259,6 +525,34 @@ Investigations have revealed that the suspect had taken three robbers with a dri
 [Data](articles/2dc88bd8.json)
 
 [Extended Data](ext_articles/2dc88bd8.ext.json)
+
+---
+
+### அமைச்சர்களுக்கு இனி கொழும்பில் வீடுகள் வழங்கப்படமாட்டாது…! - ஜனாதிபதி அநுரவின் அதிரடி முடிவு
+
+*2024-11-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198031) · `ta`
+
+தமது அரசாங்கத்தின் 25 அமைச்சர்களும் தமது பிரதேசத்திலேயே இனி குடியிருக்க வேண்டும். அங்குள்ள மக்களின் பிரச்சினைகளை ஆராய்ந்து  அவற்றை தீர்ப்பதற்குரிய வழிவகைகளை  கூற வேண்டும் என்று ஜனாதிபதி  அநுர குமார  திசாநாயக்க அதிரடியாக கூறியுள்ளார்.  அமைச்சர்கள் எவருக்கும் கொழும்பில் உத்தியோக பூர்வ இல்லங்கள் வழங்கப்படாது என்றும் ஏற்கனவே அவ்வாறு இருந்தவர்கள் அவற்றை ஒப்படைக்காவிடின் அனைவருக்கும் எதிராக வழக்கு தொடரப்படும் என்றும் அவர் எச்சரித்துள்ளார். குறித்த இல்லங்கள் 32 இல் 28 இல்லங்கள் ஒப்படைக்கப்பட்டுள்ளதாக அரசாங்க தரப்பு தகவல்கள் கூறுகின்றன.
+
+◼️
+
+[Data](articles/10ce7e45.json)
+
+---
+
+### இனி அமெரிக்காவிற்கு பொற்காலம் ; தேசத்தின் காயங்களை ஆற்றுவோம் - ஆதரவாளர்கள் மத்தியில் ட்ரம்ப்
+
+*2024-11-06 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198032) · `ta`
+
+எங்கள் தேசத்தின் காயங்களை ஆற்றப்போகின்றோம் என அமெரிக்காவின் புதிய ஜனாதிபதியாக தெரிவுசெய்யப்படவுள்ள டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+
+நீங்கள் ஒரு நாள் உங்கள் வாழ்க்கையில் இந்த நாளை மிகவும் முக்கியமான நாளாக கருதுவீர்கள்.
+
+அமெரிக்கா எங்களிற்கு மிகவும் வலுவான முன்னொருபோதும் இல்லதா ஆணையை தந்துள்ளது என அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/45411faa.json)
 
 ---
 
@@ -323,6 +617,34 @@ Donald Trump, who is contesting for the Republican Party of the United States, h
 [Data](articles/4c75caa3.json)
 
 [Extended Data](ext_articles/4c75caa3.ext.json)
+
+---
+
+### வைத்தியர் ஷாபி அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுதலை
+
+*2024-11-06 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198026) · `ta`
+
+விசேட வைத்திய நிபுணர் கலாநிதி ஷாபி சிஹாப்தீன் அனைத்து குற்றச்சாட்டுக்களிலிருந்தும் குருணாகல் நீதவான் நீதிமன்றத்தினால் விடுவிக்கப்பட்டுள்ளார்.
+
+சந்தேகத்திற்கிடமான முறையில் சொத்துக் குவித்தமை, சட்டவிரோத கருத்தடை அறுவை சிகிச்சை , பயங்கரவாத நடவடிக்கைகளுடன் தொடர்பு வைத்திருந்ததாகக் குற்றம் சுமத்தப்பட்ட வைத்தியர்  ஷாபிக்கு எதிரான வழக்கு இன்று (06) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+
+இதன்போது,  வழக்கை தொடர்வதற்கு போதிய சாட்சியங்கள் இல்லை என சட்டமா அதிபர் திணைக்களம் இன்று புதன்கிழமை (06) நீதிமன்றத்திற்கு அறிவித்ததையடுத்து, பிரதிவாதியான வைத்தியர் ஷாபியை தொடர்புடைய அனைத்து குற்றச்சாட்டுக்களிலிருந்தும் விடுவித்து, குருணாகல் நீதவான் வழக்கை தள்ளுபடி செய்துள்ளார்.
+
+◼️
+
+[Data](articles/cfc59468.json)
+
+---
+
+### சம்பூர்  ஆலங்குளம் துயிலுமில்லத்தில் சிரமதானப்பணிகள் ..!
+
+*2024-11-06 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198023) · `ta`
+
+திருகோணமலை மாவட்டம், மூதூர் கிழக்கு சம்பூர் ஆலங்குளம் துயிலுமில்லத்தில் நேற்று செவ்வாய்க்கிழமை (05) சிரமதானப்பணிகள் இடம் பெற்றன.
+
+◼️
+
+[Data](articles/920fd6dd.json)
 
 ---
 
@@ -2005,309 +2327,5 @@ The Director General of Dr. He Helesalawala stated that he has been granted perm
 [Data](articles/69b3cdf6.json)
 
 [Extended Data](ext_articles/69b3cdf6.ext.json)
-
----
-
-### The cab that crossed the stream falls into the hurrico
-
-*2024-11-06 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202950) · `si`
-
-Cab crosses canal, 4 drown. Driver and passengers killed. Bodies at Avissawella morgue. Investigation ongoing.
-
-🟩
-
-A cab had been hacked to cross the Rabukara Canal on the Rabukarawatta road in Kosgama Police Division.
-
-The accident had occurred yesterday evening and the police said that the cab was about 50 meters.
-
-However, four persons including the driver and four persons including the incident were traveling in the cab, two of them were drowned.
-
-The victims were residents of the Kiribathgoda area for 27 and 69 years.
-
-The bodies are placed at the morgue of the Avissawella hospital morgue and Kosgama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/19a49a5b.json)
-
-[Extended Data](ext_articles/19a49a5b.ext.json)
-
----
-
-### Sri Lanka’s Adani-JKH terminal gets quay and yard cranes
-
-*2024-11-06 06:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-jkh-terminal-gets-quay-and-yard-cranes-186225/) · `en`
-
-ECONOMYNEXT – A container terminal built by India’s Adani group and John Keells Holdings in Colombo Port has received the first batch of quay and yard cranes, the project’s Sri Lanka partner has said.
-
-“The construction and installation works on the West Container Terminal (WCT-1) at the Port of Colombo is progressing well,” Krishan Balendra, chairman of JKH told shareholders in an  interim report of the group.
-
-“The first batch of quay and yard cranes arrived in September 2024, following which the commissioning is expected to be completed by the third quarter of 2024/25.”
-
-The first phase of the terminal will start operations in the fourth quarter of 2024/2025, he said.
-
-JKH already runs South Asia Gateway Terminals, in Colombo Port.
-
-“Profitability at SAGT recorded an increase driven by a growth in volumes and an improvement in the mix,” he said.
-
-“Volume growth was on account of increases in both domestic and transshipment volumes.”
-
-...
-
-[Data](articles/9ea6ad15.json)
-
-[Extended Data](ext_articles/9ea6ad15.ext.json)
-
----
-
-### US Presidential Election: Trump Front
-
-*2024-11-06 06:42:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கா-ஜனாதிபதி-தேர்தல்-ட்ரம்ப்-முன்னிலை/50-346636) · `ta`
-
-US Presidential Election update: Donald Trump leads with 23 Electoral College votes, while Kamala Harris trails with 3. Key states: Indiana (11 votes), Kentucky (8 votes). Harris wins Vermont, narrowing gap.
-
-🟩
-
-Voting for the US presidential election ended at 5 am this morning, according to Sri Lanka. When the voting was completed, the number of votes began immediately.
-
-Donald Trump has officially succeeded in the province of Indiana. There are 11 Elkter College votes in that province. It will come to trump fully. The Province of Indiana is favorable to the Republican Party.
-
-Donald Trump has also won the Kentucky Province. Here he is dominated by the 3rd time. There are 8 Electrical College votes.
-
-Republican candidate Kamala Harris win in Vermont State. In this province, the province had earlier voted on behalf of the Republican Party. Currently, the Democratic candidate Kamala has voted in favor of Harris.
-
-Kamala Harris is leading a province as Trump is leading the lead in 4 province.
-
-Trump has so far received 23 Electrical College votes and Kamala Harris 3 votes
-
-◼️
-
-[Data](articles/7518e891.json)
-
-[Extended Data](ext_articles/7518e891.ext.json)
-
----
-
-### Sri Lanka’s John Keells Holdings returns to profit in Sept quarter
-
-*2024-11-06 06:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-holdings-returns-to-profit-in-sept-quarter-186216/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s John Keells Holdings reported profits of 1.36 billion rupees in the September 2024 quarter from a loss of 574 million rupees last year, helped by lower financial costs and stronger revenues and margins including from shipping and consumer goods.
-
-The group reported earnings of 91 cents per share for the quarter (JKH also made a rights issue). For the six months to September JKH reported earnings of 33 cents per share on total profits of 499 million rupees, down from 892 million last year.
-
-Group profits were helped by a 1.94 billion rupees non-cash gain on a 213 million US dollar loan owed by Waterfront Properties (Pvt) Ltd as the rupee appreciated. Rupee appreciation also reduced translated income from Maldivian resorts.
-
-With the partial conversion of the convertible debentures issued to HWIC Asia Fund (HWIC) in February 2024, the interest cost on the instrument fell to 550 million rupees from 991 million rupees, JKH said.
-
-...
-
-[Data](articles/b8de24e2.json)
-
-[Extended Data](ext_articles/b8de24e2.ext.json)
-
----
-
-### Heavy rains in several areas today
-
-*2024-11-06 06:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202948) · `si`
-
-Heavy rains expected in Sabaragamuwa, Uva, Western provinces. Thunderstorms developing in evening. Over 50mm rainfall possible. Lighter showers in Northern and Northwestern provinces. Public advised to be cautious due to potential wind and lightning hazards.
-
-🟩
-
-Thundershowers will develop at several places in the evening, Sabaragamuwa, Uva, Uva, Uva and Western provinces.
-
-Department of Meteorological Department announced, mm. Heavy rains can occur in more than 50.
-
-Several thin rain can occur in the North and Northwestern provinces.
-
-Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/846027ef.json)
-
-[Extended Data](ext_articles/846027ef.ext.json)
-
----
-
-### Benji celebrates 5 major wins at Lectra Stella Awards
-
-*2024-11-06 06:05:29* · [`dailyftlk`](https://www.ft.lk/business/Benji-celebrates-5-major-wins-at-Lectra-Stella-Awards/34-768881) · `en`
-
-CEO and Managing Director Giorgio Montresor receiving the awards for excellence
-
-Benji Ltd., a renowned company in Sri Lanka with Board of Investment (BOI) status, recently emerged as a top performer at the prestigious Lectra Stella Awards held on 18 October, at Shangri-La Colombo.
-
-The company celebrated remarkable success by winning five Cutting Section awards in the across key categories including Best Performance, Highest Efficiency, Best Uptime, Overall Equipment Effectiveness and Best Competency.
-
-Organised by Apparel Technologies, the award ceremony honours industry leaders who have transformed garment manufacturing in Sri Lanka through advanced, automated cutting-room solutions. These recognitions celebrate organisations that redefine efficiency and productivity standards to align with the nation’s commitment to precision and quality in garment manufacturing.
-
-...
-
-[Data](articles/845d49ce.json)
-
-[Extended Data](ext_articles/845d49ce.ext.json)
-
----
-
-### Inovartic Investment launches Abu Dhabi University Graphene Centre in partnership with SLINTEC
-
-*2024-11-06 06:01:21* · [`dailyftlk`](https://www.ft.lk/business/Inovartic-Investment-launches-Abu-Dhabi-University-Graphene-Centre-in-partnership-with-SLINTEC/34-768880) · `en`
-
-Inovartic Investment Lanka Ltd., a joint venture between Sri Lanka’s Apex Asia Holdings and UAE’s Inovartic Investment LLC, has announced the launch of the Abu Dhabi University Graphene Centre – an advanced facility dedicated to pioneering research in graphene technology.
-
-This centre was inaugurated at Abu Dhabi University to drive scientific progress and international collaborations in nanotechnology, aligning with the UAE’s “Make It in the UAE” initiative. This ambitious project brings together Inovartic Investment, Abu Dhabi University, and the Sri Lanka Institute of Nano Technology (SLINTEC) to explore graphene applications across sectors, including electronics, medical devices, EV batteries, water treatment, agriculture, materials science, and energy.
-
-...
-
-[Data](articles/614998ba.json)
-
-[Extended Data](ext_articles/614998ba.ext.json)
-
----
-
-### E.B. Creasy Solar secures exclusive distribution agreement with Thornova Solar in Sri Lanka
-
-*2024-11-06 05:59:38* · [`dailyftlk`](https://www.ft.lk/business/E-B-Creasy-Solar-secures-exclusive-distribution-agreement-with-Thornova-Solar-in-Sri-Lanka/34-768879) · `en`
-
-E.B. Creasy Solar, in collaboration with Thornova Solar, forges an exclusive partnership to advance futures in sustainable development through investment in reliable energy solutions
-
-E.B. Creasy Solar, the renewable energy arm of E.B. Creasy & Co. PLC, has been appointed as the exclusive distributor for Thornova Solar in Sri Lanka, forging a significant step forward in the advancement of sustainable energy solutions in the country.
-
-The strategic partnership enables E.B. Creasy Solar, a long-standing advocate of sustainable development, to bring Thornova Solar’s cutting-edge solar products to the local market, providing customers with reliable and efficient solar energy solutions. It also reinforces E.B. Creasy Solar’s position as a leading provider of renewable energy solutions in the country.
-
-...
-
-[Data](articles/b6dd3799.json)
-
-[Extended Data](ext_articles/b6dd3799.ext.json)
-
----
-
-### Sri Lanka gears up for first-ever marine summit ‘Voyage  Sri Lanka 2024’
-
-*2024-11-06 05:57:57* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-gears-up-for-first-ever-marine-summit-Voyage-Sri-Lanka-2024/34-768878) · `en`
-
-Sri Lanka is set to host its inaugural marine summit, ‘Voyage Sri Lanka 2024’ on 26 November, a landmark event aimed at bringing together marine industry leaders, policymakers and innovators to explore the future of the country’s marine sector.
-
-This pioneering summit will dive into sustainable practices, technological advancements and export opportunities in the industry, making it an essential forum for professionals in the marine, boat-building, and offshore sectors.
-
-With the event’s countdown underway, organiser Export Development Board (EDB) is encouraging enthusiasts and professionals alike to register in advance to secure their spots. Attendees will gain insights from top experts in the field and have the chance to network with a diverse group of professionals, from industry veterans to emerging innovators.
-
-...
-
-[Data](articles/35beaf48.json)
-
-[Extended Data](ext_articles/35beaf48.ext.json)
-
----
-
-### Chabad House in Arugam Bay: Bringing Gaza home?
-
-*2024-11-06 05:56:21* · [`dailyftlk`](https://www.ft.lk/columns/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/4-768877) · `en`
-
-While all Israeli tourists should be welcomed – and protected, when necessary – the Chabad House should be closed down and long-term visas denied to members of the Movement
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-...
-
-[Data](articles/6aedd67d.json)
-
-[Extended Data](ext_articles/6aedd67d.ext.json)
-
----
-
-### Chabad House in Arugam Bay: Bringing Gaza home?
-
-*2024-11-06 05:56:21* · [`dailyftlk`](https://www.ft.lk/opinion/Chabad-House-in-Arugam-Bay-Bringing-Gaza-home/14-768877) · `en`
-
-While all Israeli tourists should be welcomed – and protected, when necessary – the Chabad House should be closed down and long-term visas denied to members of the Movement
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-...
-
-[Data](articles/d2ae5c3a.json)
-
-[Extended Data](ext_articles/d2ae5c3a.ext.json)
-
----
-
-### Why Sri Lanka needs a strong, united parliament now more than ever
-
-*2024-11-06 05:50:05* · [`dailyftlk`](https://www.ft.lk/columns/Why-Sri-Lanka-needs-a-strong-united-parliament-now-more-than-ever/4-768876) · `en`
-
-Let’s build a parliament that values progress over politics, one that can make bold decisions for the betterment of Sri Lanka
-
-Just a few weeks ago, Sri Lanka elected a new President, Anura Kumara Dissanayake, with high hopes for real, lasting change. But real change isn’t something a President can achieve alone. If we truly want to see our nation thrive, we need to come together in the upcoming General Election to build a strong, united parliament that supports the President’s vision: A Thriving Nation – A Beautiful Life.
-
-...
-
-[Data](articles/c386a0a4.json)
-
-[Extended Data](ext_articles/c386a0a4.ext.json)
-
----
-
-### Overhead bridge being used for multiple purposes
-
-*2024-11-06 05:45:59* · [`dailyftlk`](https://www.ft.lk/opinion/Overhead-bridge-being-used-for-multiple-purposes/14-768875) · `en`
-
-The mini-overhead bridge (over the railway line) connecting Jayantha Weerasekara Mawatha (Drieberg’s Avenue) and Sri Vajiragnana Road (Dematagoda Road) has become a garbage dumping site with all sorts of garbage thrown all over (vide photographs attached) and in a very much dilapidated state. This bridge provides easy access to Rajapokuna Mawatha, Maligawatta through Qurashana Mowlana Lane from Dematagoda.
-
-Some of the overhead bridges have become public toilets – smelling of urine and human excreta. Overhead has also become make-shift homes for beggars, trade stalls for hawkers to sell their merchandise, etc.
-
-Most of these bridges require renovation and/or regular maintenance as there is growth of weeds here and there, railings are corroded requiring painting, floor surface is broken, cracks on the steps and being ill-lit making it unsafe for the users during night time and moreover, making it more conducive for nefarious activities!
-
-...
-
-[Data](articles/87bdd8f3.json)
-
-[Extended Data](ext_articles/87bdd8f3.ext.json)
-
----
-
-### Rethinking Central Bank independence in Sri Lanka’s development journey
-
-*2024-11-06 05:38:36* · [`dailyftlk`](https://www.ft.lk/columns/Rethinking-Central-Bank-independence-in-Sri-Lanka-s-development-journey/4-768873) · `en`
-
-Although an independent CBSL is intended to operate free from political interference, it remains heavily influenced by IMF directives, fostering dependency on IMF guidance
-
-As Sri Lanka prepares for a new government post-14 November, it must carefully evaluate the extent of external influence on its economic policy. A critical question is whether Sri Lanka has already ceded too much control over its monetary and fiscal policy decisions to outside actors. Aligning national development goals of the new government will likely require greater coordination between monetary and fiscal policies, ensuring they operate in tandem to achieve shared objectives. The CBSL should retain the flexibility for strategic interventions that foster growth, development, and social welfare when needed
-
-...
-
-[Data](articles/4b7848b4.json)
-
-[Extended Data](ext_articles/4b7848b4.ext.json)
-
----
-
-### Central Bank defence of liquidity injections amid “money printing” controversy
-
-*2024-11-06 05:34:24* · [`dailyftlk`](https://www.ft.lk/columns/Central-Bank-defence-of-liquidity-injections-amid-money-printing-controversy/4-768872) · `en`
-
-Interventions must uphold the principle of currency stability, given the grave consequences of unchecked money creation
-
-A fresh controversy has erupted following reports that Sri Lanka’s Central Bank (CBSL) injected nearly Rs. 100 billion into the banking system by 25 October. Given that money printing was the major cause of the country’s financial crisis, this news has sparked considerable attention. CBSL has defended its actions, arguing that these liquidity injections do not equate to money printing.
-
-...
-
-[Data](articles/6b79347e.json)
-
-[Extended Data](ext_articles/6b79347e.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 15:00:29**
+As of **2024-11-06 15:12:12**
 
 ## Newspaper Stats
 
@@ -26,21 +26,27 @@ adaderanasinhalalk | 9,302
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,358 (100.0%) of 53,360 articles have been extended.
+53,360 (100.0%) of 53,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### 4 அதிகாரிகளுக்கு 35 வருட கடூழிய சிறை
+### 35 years in prison for 4 officers
 
 *2024-11-06 14:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-அதிகாரிகளுக்கு-35-வருட-கடூழிய-சிறை/175-346667) · `ta`
 
-மிகப் பெரிய இலஞ்சம் தொடர்பில் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகளால்  கைது செய்யப்பட்டு, நீதிமன்றத்தில்  குற்றவாளிகளாக இணங்காணப்பட்ட  முன்னாள் சுங்க அதிகாரிகள் நால்வருக்கு 35 வருட கடூழிய சிறைத்தண்டனையை கொழும்பு மேல் நீதிமன்றம் புதன்கிழமை(06) விதித்துள்ளது.
+Colombo High Court sentences 4 former customs officials to 35 years in prison for major bribery case.
+
+🟩
+
+The Colombo High Court on Wednesday (06) has imposed a 35 -year -old imprisonment for ex -customs officials who have been arrested by the Commission for Investigation of Bribery or Corruption on the major bribery.
 
 ◼️
 
 [Data](articles/643d0e3e.json)
+
+[Extended Data](ext_articles/643d0e3e.ext.json)
 
 ---
 
@@ -324,19 +330,25 @@ Meanwhile, the BBC News reported that the winners of 265 votes were held in 265 
 
 ---
 
-### අමෙරිකාවේ පාලනය යළිත් ට්‍රම්ප්ට
+### The rule of the United States again Trump
 
 *2024-11-06 12:48:50* · [`adalk`](https://www.ada.lk/breaking_news/අමෙරිකාවේ-පාලනය-යළිත්-ට්‍රම්ප්ට/11-412887) · `si`
 
-2024 අමෙරිකානු ජනාධිපතිවරණයෙන් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ජයග්‍රහණය කර තිබේ.
+Donald Trump re-elected as US President in 2024, winning 277 electoral votes against Fox News-backed opponent. He becomes 47th U.S. President.
 
-එහිදී ඔහු ඡන්ද විද්‍යාල 277ක් දිනාගෙන ඇති අතර, ඔහුගේ ප්‍රතිවාදියා වූ කමලා හැරිස් ඡන්ද විදයාල 226ක් දිනාගෙන ඇති බව ෆොක්ස් නිව්ස් සේවය වාර්තා කර ඇත.
+🟩
 
-ඒ අනුව අමෙරිකාවේ 47 වැනි ජනාධිපතිවරයා ලෙස ඩොනල්ඩ් ට්‍රම්ප් තේරී පත්විය.
+2024 Former President of the American presidential election, Donald Trump won.
+
+He has won 277 votes and his opponent, the Fox News in the project.
+
+Accordingly, Donald Trump was elected as the 47th President of the United States.
 
 ◼️
 
 [Data](articles/7c7422be.json)
+
+[Extended Data](ext_articles/7c7422be.ext.json)
 
 ---
 

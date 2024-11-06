@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 00:39:59**
+As of **2024-11-07 00:57:24**
 
 ## Newspaper Stats
 
-*Scraped **53,448** Articles*
+*Scraped **53,449** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
 economynextcom | 3,242
-dailyftlk | 3,648
+dailyftlk | 3,649
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,436 (100.0%) of 53,448 articles have been extended.
+53,437 (100.0%) of 53,449 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### “NPP Govt. will never fall” – Chathuranga Abeysinghe
+
+*2024-11-07 00:25:49* · [`dailyftlk`](https://www.ft.lk/columns/NPP-Govt-will-never-fall-Chathuranga-Abeysinghe/4-768915) · `en`
+
+The National Planning Unit will be strengthened so that every proposal has to go through this unit which will be reviewed for their importance, feasibility and whether they are connecting other relevant areas. Therefore, national policies will be guide books for Sri Lanka to move forward
+
+Says Govt. wants to create an efficient State sector coupled with new technology
+
+Says the NPP came into power not to take revenge or to appoint own people but to stabilise and bring prosperity to the country
+
+Explains the Govt. officials who are aligned with party principles and policies, can continue with their given tasks
+
+Adds actions and decisions of State officials will be very much politically reviewed and understood
+
+Confirms the Central Bank is an independent body from an Act and the fiscal strategies are separate
+
+Highlights Govt.’s plans on providing support to SMEs by introducing a banking system to get collateral free loans and also a relief bank to provide non-performing loans from commercial banks
+
+...
+
+[Data](articles/58a09228.json)
+
+[Extended Data](ext_articles/58a09228.ext.json)
+
+---
 
 ### Truth, lies, national security,  and value of democratic Opposition
 
@@ -2387,29 +2413,5 @@ In addition, each of the accuses will be fined Rs.
 [Data](articles/afede2dd.json)
 
 [Extended Data](ext_articles/afede2dd.ext.json)
-
----
-
-### Kamala canceled the event because
-
-*2024-11-06 12:38:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பின்தங்கியதால்-நிகழ்வை-இரத்து-செய்த-கமலா/50-346664) · `ta`
-
-Kamala Harris cancels event due to ongoing US presidential election counting. Votes still being tallied in unannounced states. Speech rescheduled for tomorrow.
-
-🟩
-
-The voting for the US presidential election was completed and the number of votes began this morning.
-
-Kamala Harris at the University of Hovert, who was present at an event today, canceled the event if he was in the voting.
-
-“We have the votes to count more. There are still unannounced states. To ensure that every vote is numbered, we will continue overnight to ensure each voice speaks.
-
-“So, you won't hear the speech from the vice president tonight. But you will hear from her tomorrow, and she will come here tomorrow and will address not only her supporters but also to the nation, ”said Cedick Richmond, co -president of Kamala Harris.
-
-◼️
-
-[Data](articles/3713d4ef.json)
-
-[Extended Data](ext_articles/3713d4ef.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 09:59:45**
+As of **2024-11-06 10:13:06**
 
 ## Newspaper Stats
 
@@ -26,61 +26,79 @@ adaderanasinhalalk | 9,288
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,283 (100.0%) of 53,293 articles have been extended.
+53,288 (100.0%) of 53,293 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### ලොව පළමු දැවමය චන්ද්‍රිකාව අභ්‍යවකාශයට
+### World's first woody satellite into space
 
 *2024-11-06 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202956) · `si`
 
-ජපානයේ නිෂ්පාදිත ලොව ප්‍රථම දැව චන්ද්‍රිකාව පසුගියදා අමෙරිකාවේ කෙනඩි අභ්‍යාවකාශ මධ්‍යස්ථානයෙන් ගුවන්ගත කර තිබේ.
+Here's a 200-character summary:
 
-චන්ද්‍රයා සහ අඟහරු පිළිබඳ ගවේෂණ සඳහා දැව යොදාගැනීම පිළිබඳව සිදුකරන පූර්ව පර්යේෂණයක් ලෙස මෙම අභ්‍යාවකාශ ගමන හැඳින්විය හැකිය.
 
-ජපානයේ කියෝතෝ විශ්වවිද්‍යාලයේ විද්‍යාඥයින් පිරිසක් සහ දැවමය නිෂ්පාදන සිදුකරන ජපාන සමාගමක් එක්ව මෙම චන්ද්‍රිකාව නිර්මාණය කර තිබුණි.
 
-එය නම් කර ඇත්තේ, ලතින් භාෂාවෙන් දැව යන අර්ථය ලබාදෙන 'ලිග්නෝසැට්' නමිනි.
+First wooden satellite launched: Chandrika. Pre-research for lunar/mars missions. Named Lignosat. Japanese company copies design. Stays in orbit 6 months. Tests timber's response to extreme temperatures.
 
-චන්ද්‍රයා සහ අඟහරු පිළිබඳ ගවේෂණ සඳහා දැව යොදාගැනීම පිළිබඳව සිදුකරන පූර්ව පර්යේෂණයක් ලෙස මෙම අභ්‍යාවකාශ ගමන හැඳින්විය හැකිය.
+🟩
 
-ලිග්නෝසැට් චන්ද්‍රිකාව මාස 6ක කාලයක් පෘථිවි කක්ෂයේ රැඳී සිටීමට නියමිතය.
+The world's first timber Chandrika was the first timber Chandrika in the United States at the Kennedy Space Strate.
 
-සෑම මිනිත්තු 45කට වරක්ම අභ්‍යාවකාශයේ උෂ්ණත්වය සෙල්සියස් අංශක සෘණ 100 සිට සියය දක්වා වෙනස්වීමට භාජනය වේ.
+The space journey is a pre-research on the use of timber for the moon and Mars.
 
-එම කැපී පෙනෙන උෂ්ණත්ව වෙනසට දැව ප්‍රතිචාර දක්වන අයුරු චන්ද්‍රිකාවේ සවිකර ඇති ඉලෙක්ට්‍රොනික උපාංග මඟින් විමසා බැලීම එම කාලයේ දී සිදුකෙරුණු ඇත.
+The satellite was copied by a Japanese company and a Japanese company at the University of Kyoto University of Japan.
+
+It is named named 'Lignosat' which means timber in Latin language.
+
+The space journey is a pre-research on the use of timber for the moon and Mars.
+
+Lignocat satellite is due to stay in the Earth orbit for a period of six months.
+
+The temperature in space is likely to change from 100 degrees Celsius every 45 minutes.
+
+Investigation from the satellite electronic components of the satellite, the timber responding to the distinction of those outstanding temperatures.
 
 ◼️
 
 [Data](articles/c318ea95.json)
 
+[Extended Data](ext_articles/c318ea95.ext.json)
+
 ---
 
-### IPL ක්‍රීඩක වෙන්දේසිය නොවැම්බර් 24 සහ 25
+### IPL athletes auction on November 24 and 25
 
 *2024-11-06 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202955) · `si`
 
-2025 ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය වෙනුවෙන් ක්‍රීඩක වෙන්දේසිය මෙම මස 24 සහ 25 යන දෙදින තුළදී පැවැත්වීමට නියමිත බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තහවුරු කර තිබේ.
+IPL athlete auction Nov 24-25: 1574 players registered, 1165 Indian, 409 foreign. South Africa students participate. Panjab Kings highest bid, Rajasthan Royals lowest. Second auction outside India during Australia Test series.
 
-IPL ක්‍රීඩක වෙන්දේසිය ඉන්දියාවෙන් පිටතදී පැවැත්වෙන දෙවන අවස්ථාව මෙය වේ.
+🟩
 
-මෙවර ක්‍රීඩක වෙන්දේසිය පැවැත්වෙන්නේ ඉන්දියා ඔස්ට්‍රේලියා ටෙස්ට් තරගාවලියේ තුන්වන සහ සිව්වන දිනවලදී වීම තවත් විශේෂත්වයකි.
+The Indian Cricket Board has confirmed that the athleo's auction is scheduled to be held on 24th and 25th of this month.
 
-ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය තහවුරු කරන්නේ මෙවර ක්‍රීඩක වෙන්දේසිය වෙනුවෙන් ක්‍රීඩකයන් 1,574ක් ලියාපදිංචි වී ඇති බවය.
+This is the second time IPL athletic auction is held outside India.
 
-ඉන් 1,165 දෙනෙකු ඉන්දීය ක්‍රීඩකයන් වන අතර ක්‍රීඩකයන් 409 දෙනෙකු විදෙස් ක්‍රීඩකයන් වන බව වාර්තා වෙයි.
+This year's athletic auction is being held in the third and fourth day of the Indian Australia Test series.
 
-මෙවර වෙන්දේසියට ලියාපදිංචි වී ඇති වැඩිම ක්‍රීඩකයන් ගණනක් ලියාපදිංචි වී ඇත්තේ දකුණු අප්‍රිකාවෙනි.
+The Indian Cricket Board confirms that 1,574 players have been registered for this year's athletic auction.
 
-මේ අතරින් කණ්ඩායම් 10ක් විසින් ක්‍රීඩකයන් 204 දෙනෙකු 2025 ඉන්දියන් ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලියට ක්‍රීඩා කිරීම වෙනුවෙන් තෝරා ගනු ලබයි.
+Of these, 1,165 is Indian players and 409 players are foreign players.
 
-ඉන් විදෙස් ක්‍රීඩකයන් 70 දෙනෙකු කණ්ඩායම් තුළට ඇතුළත් කරගැනීමට නියමිතය.
+South Africa have registered a number of students who have registered this year's auction this year.
 
-...
+Among them 10 teams are selected for playing 202 players to play 2025 Indian Premier League.
+
+Foreign players are to be included in the groups.
+
+The Panjab Kings will join the athletes with the highest amount of money and the Rajasthan Royals will join the auction with the lowest amount of money.
+
+◼️
 
 [Data](articles/30b15ecf.json)
+
+[Extended Data](ext_articles/30b15ecf.ext.json)
 
 ---
 
@@ -1478,21 +1496,29 @@ The appointment will face further impact as the labor and investments of the sec
 
 ---
 
-### වරායේ මුළුතැන්ගෙය පෞද්ගලික අංශයට නොදෙයි
+### Port kitchen kitchen not unaware to private sector
 
 *2024-11-05 20:07:34* · [`adalk`](https://www.ada.lk/breaking_news/වරායේ-මුළුතැන්ගෙය-පෞද්ගලික-අංශයට-නොදෙයි/11-412878) · `si`
 
-ශ්‍රී ලංකා වරාය අධිකාරියේ සේවකයන් හට ආහාර ලබාදෙන මුළුතැන්ගෙය තවදුරටත් වරාය අභ්‍යන්තරයෙන්ම මෙහෙයවීමට තීරණය කර තිබේ.
+Sri Lanka Ports Authority kitchen leads food service. Largest in South Asia. New Minister suspends contract with private sector. Focuses on quality and staff satisfaction. Consults officials to address issues and improve facilities. Serves 5,500-6,000 meals daily. Also provides services during COVID-19.
 
-මෙම මුළුතැන්ගෙය දකුණු ආසියාවේ විශාලතම මුළුතැන්ගෙය ලෙස සැලකෙන බව නිලධාරීන් පවසන අතර, නව ආණ්ඩුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍ය විජිත හේරත් මහතාගේ උපදෙස් මත මෙම වරාය අධිකාරියේ මුළුතැන්ගෙය පෞද්ගලික අංශයට ලබා දීම වහාම අත්හිටුවා ඇත. සේවකයන් සඳහා වරායේ මුළුතැන්ගෙයින් ආහාර තුන් වේලටම සැපයෙන අතර, පහුගිය ආණ්ඩු සමයේ අවසන් භාගයේදී හිටපු අමාත්‍යවරයාගේ නියෝගයෙන් මුළුතැන්ගෙය ටෙන්ඩර් කැඳවා පෞද්ගලික අංශයට ලබා දෙන්නට තීරණය කර තිබුණි.
+🟩
 
-ඒ අනුව වරාය මුළුතැන්ගෙය තවදුරටත් අභ්‍යන්තරයෙන්ම මෙහෙයවන පරිදි පවත්වාගෙන යන අතර, ආහාරවල රසය සහ ගුණාත්මකභාවය වඩාත් වැඩි කර කාර්යමණ්ඩලයට තෘප්තිමත් ලෙස වැඩ කටයුතුවල යෙදෙන්නට අවස්ථාව සලසා දෙන ලෙස අමාත්‍ය විජිත හේරත් මහතා උපදෙස් දී තිබේ.
+The kitchen provided by the Sri Lanka Ports Authority employees has decided to lead the food to the port.
 
-ඊට අමතරව තවදුරටත් මේ සඳහා මැදිහත් වුණ ඇමතිවරයා මුළුතැන්ගෙයහි අඩුපාඩු සියල්ල සොයා බලා ප්‍රතිසංස්කරණයක් සිදුකර නව උපකරණද ලබා දී දියුණු තත්ත්වයෙන් පවත්වා ගෙන යන ලෙස නිලධාරීන්ට උපදෙස් ලබා දී ඇත.
+Officers say that the kitchen is the largest kitchen of South Asia and the new government, Highways, Ports and Civil Aviation Minister Vijitha Herath has been immediately suspended for the private sector. The kitchen had been called for the private minister at the end of the past half of the passage of the passing period.
 
-...
+Accordingly, the Port kitchen continues to lead the plant and increasing the quality of food and increasing the quality of food and allow the staff satisfaction.
+
+In addition, the Minister has further consulted the officials to look into all the shortcomings of the kitchen and providing new equipment and maintaining the development.
+
+Among the morning and lunch is between 5500 - 6000 and 3000 - 3500 - 3000 - 3500. Especially services during the Covid Epidemics were also the ministerial kitchens of the Presidential Secretariat and the Prime Minister's Office officials.
+
+◼️
 
 [Data](articles/5528c89a.json)
+
+[Extended Data](ext_articles/5528c89a.ext.json)
 
 ---
 
@@ -1714,6 +1740,8 @@ Ceylinco General Insurance was honored as the sole general insurer at LMD’s re
 
 [Data](articles/570cd73c.json)
 
+[Extended Data](ext_articles/570cd73c.ext.json)
+
 ---
 
 ### “Understand Your Market Competition & Consumer”
@@ -1729,6 +1757,8 @@ Resource Team Lead: Waruna Kathriarachchi, a market research expert and former 
 ...
 
 [Data](articles/e5dffcc7.json)
+
+[Extended Data](ext_articles/e5dffcc7.ext.json)
 
 ---
 

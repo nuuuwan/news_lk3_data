@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 22:40:23**
+As of **2024-11-06 22:59:16**
 
 ## Newspaper Stats
 
-*Scraped **53,427** Articles*
+*Scraped **53,432** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,104 @@ dbsjeyarajcom | 418
 colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
-economynextcom | 3,231
+economynextcom | 3,232
 dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,995
-adaderanalk | 6,367
-tamilmirrorlk | 7,439
+adaderanalk | 6,368
+tamilmirrorlk | 7,440
 virakesarilk | 8,645
-adaderanasinhalalk | 9,315
+adaderanasinhalalk | 9,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,427 (100.0%) of 53,427 articles have been extended.
+53,428 (100.0%) of 53,432 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### දස වසරකට පසු 'කිං කෝලි' දරුණු කඩාවැටීමක
+
+*2024-11-06 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202988) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් අද (6) ප්‍රකාශයට පත්කළ ටෙස්ට් පිතිකරුවන් ශ්‍රේණිගතකිරීම් අනුව ඉන්දීය සුපිරි පිතිකරු විරාත් කෝලි ස්ථාන 8කින් පහළට වැටී 22 ස්ථානයට පත්ව සිටියි.
+
+මෙලෙස විරාත් කෝලි ටෙස්ට් පිතිකරුවන් ශ්‍රේණිගතකිරීම්හි පළමු 20 දෙනාගෙන් පහළ ස්ථානයකට වැටුණේ වසර 10කට පසුව වීම විශේෂත්වයකි.
+
+නවතම ටෙස්ට් පිතිකරු ශ්‍රේණිගතකිරීම් පෙරමුණ එංගලන්තයේ ජෝ රූට්ට හිමිව ඇත.
+
+එහි දෙවැනි ස්ථානයේ නවසීලන්තයේ කෙන් විලියම්සන්ට හිමිව ඇති අතර, තෙවැනි ස්ථානයේ එංගලන්තයේ හැරි බෘෘක් රැඳී සිටියි.
+
+ටෙස්ට් පිතිකරුවන්ගේ පළමු 20 දෙනා අතර ශ්‍රී ලංකා පිතිකරුවන් සිව්දෙනෙකු සිටින අතර, ඉන් ඉදිරියෙන්ම කමිඳු මෙන්ඩිස් සිටියි. ඔහුට 11වැනි ස්ථානය හිමිව ඇත.
+
+ඊට අමතරව දිමුත් කරුණාරත්න 14 වැනි ස්ථානයත්, ටෙස්ට් නායක ධනංජය ද සිල්වාට 15වැනි ස්ථානයත් හිමිව ඇති අතර, දිනේෂ් චන්දිමාල් 18වැනි ස්ථානයේ රැඳී සිටියි.
+
+මේ අතර ඉන්දීය නායක රෝහිත් ශර්මාද ස්ථාන 2කින් පහළට වැටී මේ වනවිට 26වැනි ස්ථානය හිමිව ඇත.
+
+◼️
+
+[Data](articles/e6d96577.json)
+
+---
+
+### British HC recommends Sri Lankan MPs learn from UK system to curb corruption
+
+*2024-11-06 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103220/british-hc-recommends-sri-lankan-mps-learn-from-uk-system-to-curb-corruption-) · `en`
+
+The British High Commissioner to Sri Lanka Andrew Patrick has expressed eagerness to further strengthen the strong bilateral ties between Sri Lanka and the United Kingdom.
+
+During a meeting with Secretary to the President Dr. Nandika Sanath Kumanayake today (6), the British High Commissioner has proposed that steps be taken to educate Sri Lankan parliamentarians about the British parliamentary system to further enhance governance in Sri Lanka, while emphasizing the significance of the British local government system, noting its potential to reduce fraud and corruption.
+
+Mr. Patrick has also highlighted the British Government’s appreciation for Sri Lanka’s ongoing partnership with the International Monetary Fund (IMF) and expressed readiness to support the government’s efforts to combat fraud and corruption while boosting state revenue.
+
+◼️
+
+[Data](articles/ee10f7ae.json)
+
+---
+
+### டொனால்ட் ட்ரம்புக்கு முன்னாள் ஜனாதிபதி வாழ்த்து
+
+*2024-11-06 22:40:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொனால்ட்-ட்ரம்புக்கு-முன்னாள்-ஜனாதிபதி-வாழ்த்து/175-346689) · `ta`
+
+புதிய அமெரிக்க ஜனாதிபதி டொனால்ட் ட்ரம்புக்கு முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க  எக்ஸ் பக்கத்தில் வாழ்த்து தெரிவித்துள்ளார்.
+
+“டொனால்ட் டிரம்ப் மீண்டும் வந்துள்ளார்! அவரது வரலாற்று சாதனைக்கு வாழ்த்துகள்! அமெரிக்காவின் 24 ஆவது அதிபரான க்ரோவர் கிளெவ்லான்ட்டின் சாதனையை ட்ரம்ப் சமன் செய்துள்ளார்.
+
+அமெரிக்காவை மீண்டும் சிறந்ததாக்க அமெரிக்க மக்கள் உங்கள் மீதும் ஜே டி வான்ஸ் மீதும் நம்பிக்கை வைத்துள்ளனர். உங்கள் இருவரின் முயற்சியும் வெற்றிபெற வாழ்த்துகிறேன்." எனக் குறிப்பிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/85853fe3.json)
+
+---
+
+### සහල් හිඟයට හේතුව මේකද ?
+
+*2024-11-06 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202987) · `si`
+
+බියර් නිෂ්පාදනය සඳහා වැඩි වශයෙන් සහල් ලබාදීම වෙළෙඳපොළේ සහල් හිඟයක් නිර්මාණය වීමට සෘජුව බලපා ඇති බව සුළු හා මධ්‍ය පරිමාණ මෝල් හිමියන්ගේ සංගමය පවසයි.
+
+සුළු හා මධ්‍ය පරිමාණ මෝල්හිමියන්ගේ සංගමයේ සභාපති යූ.කේ. සේමසිංහ මහතා පෙන්වා දෙන්නේ, බියර් නිෂ්පාදනය කරන්න ලබාගන්නා කැකුළු සහල් නිපදවන්නේ නාඩු වී ලබාගැනීමෙන් බවයි.
+
+"බියර් නිෂ්පාදනය කරන්න අවශ්‍ය වෙන්නේ කැකුළු සහල්. නමුත් බියර් නිෂ්පාදනය කරන්න අවශ්‍ය කැකුළු සහල් ලබාගන්නේ නාඩු වී වලින්. ඒ නිසා බියර් නිෂ්පාදනයට වැඩි ප්‍රතිශතයක් යොමු කළාම නාඩු සහල් නිපදවීම සඳහා අවශ්‍යකරන වී හිඟයක් නිර්මාණය වෙලා තිබෙනවා."
+
+ගොවි සංවිධාන ද රජයෙන් ඉල්ලා සිටින්නේ සහල් මිල පාලනයට කඩිනමින් මැදිහත් වන ලෙසටය.
+
+තමන්ට මේ දක්වා පාලන මිලට සහල් නොලැබෙන බව වෙළඳසැල්හිමියන් ද චෝදනා කරයි.
+
+ඉකුත් සති කිහිපයේ මෙරට වෙළෙඳපෙළේ සහල් මිල ගණන් ඉහළ ගිය අතර සහල් හිඟයක්ද නිර්මාණය විය.
+
+මතුවූ තත්ත්වය සැලකිල්ලට ගෙන ජනපතිවරයා මහා පරිමාණ සහල් ව්‍යාපාරිකයන් කැඳවා සාකච්ඡාවක් පැවැත්වූ අතර එහිදී තීරණය කෙරුණේ සිල්ලර වෙළෙඳපොළේ පැවති සහල් පාලන මිල එලෙසම පවත්වාගෙන යාමටය.
+
+◼️
+
+[Data](articles/7f6b110e.json)
+
+---
 
 ### Four LTTE cadres arrested with cocaine
 
@@ -2371,85 +2451,5 @@ Here's a summary of "The country will never be created - the government" in appr
 [Data](articles/a93a84f0.json)
 
 [Extended Data](ext_articles/a93a84f0.ext.json)
-
----
-
-### Protect the proportional method of presidents in the future - special security for needed
-
-*2024-11-06 11:40:05* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියේදී-ජනාධිපතිවරුන්ට-සමානුපාතික-ක්‍රමයට-ආරක්ෂාව---අවශ්‍ය-අයට-විශේෂ-ආරක්ෂාව/11-412883) · `si`
-
-Presidential protection enhanced: Future presidents to receive special security measures. Former presidents like Chandrika Bandaranaike to retain current level of protection. Committee formed to review and adjust security details based on individual needs.
-
-🟩
-
-Cabinet spokesperson Vijitha Herath said that all presidents would be protected in the future and provide special security to the presidents who should be special safety.
-
-He was speaking at a media briefing today (06) at the press conference.
-
-"Former presidents and especially Chandrika Bandaranaike said that she would remove the security of her. No removal. She had sent a letter to up to 30. It's wrong. She has already given 57 people.
-
-...
-
-[Data](articles/3fd6bb5e.json)
-
-[Extended Data](ext_articles/3fd6bb5e.ext.json)
-
----
-
-### Sri Lanka will be named ODI and 20 squad
-
-*2024-11-06 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202964) · `si`
-
-Sri Lanka names ODI and T20 squads for New Zealand tour.
-
-🟩
-
-The squad for New Zealand has been named for the One Day and 20 Tournament.
-
-◼️
-
-[Data](articles/cbdaabac.json)
-
-[Extended Data](ext_articles/cbdaabac.ext.json)
-
----
-
-### Make sure to abolish the Ceremony Protection Act - Government
-
-*2024-11-06 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198016) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Government vows to repeal Ceremony Protection Act. Cabinet spokesperson Vijitha Herath confirms determination to abolish current security law.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said that our government is determined to abolish the current security law.
-
-◼️
-
-[Data](articles/678b707d.json)
-
-[Extended Data](ext_articles/678b707d.ext.json)
-
----
-
-### Chinese government housing scheme in the Western Province!
-
-*2024-11-06 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198014) · `ta`
-
-Chinese government housing scheme summary: Low-income families in Western Province eligible.
-
-🟩
-
-The government has said that the Chinese government's housing scheme will be available to low -income families in the Western Province.
-
-◼️
-
-[Data](articles/13c0ea32.json)
-
-[Extended Data](ext_articles/13c0ea32.ext.json)
 
 ---

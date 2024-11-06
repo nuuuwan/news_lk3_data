@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 19:58:42**
+As of **2024-11-06 20:12:10**
 
 ## Newspaper Stats
 
-*Scraped **53,406** Articles*
+*Scraped **53,416** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 416
+dbsjeyarajcom | 417
 colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,992
+adalk | 4,993
 adaderanalk | 6,366
 tamilmirrorlk | 7,437
-virakesarilk | 8,635
+virakesarilk | 8,643
 adaderanasinhalalk | 9,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,406 (100.0%) of 53,406 articles have been extended.
+53,412 (100.0%) of 53,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
+
+*2024-11-06 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198075) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mannar residents oppose soil sampling for sand mining. Police file case against protesters. Environmental officials collect samples despite resistance from locals and activists.
+
+🟩
+
+The Mannar Police in Mannar on Wednesday afternoon, the Mannar Police had filed a case with the Mannar Police in protest of the activities of the people and public organizations in order to obtain samples to inspect the mudslides for the heavy sand excavation of the people, including the private land of the people of the Mannar Divisional Secretariat Division.Attorney -at -Law S.Dinesan said that a hand was purchased by the police.
+
+With the permission of the Environmental Authority, the Assistant Government Agent of Mannar, including about 20 State Department officials, visited the area on Wednesday morning to obtain samples for inspecting the soil in the Mannar Divisional Secretariat Division.
+
+During this time, the people, social activists, former MP and civil organizations who visited the area came to the spot and expressed their opposition to obtaining samples of inspecting the soil.
+
+...
+
+[Data](articles/8ff417dd.json)
+
+[Extended Data](ext_articles/8ff417dd.ext.json)
+
+---
+
+### President Anura congratulates Donald Trump
+
+*2024-11-06 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198076) · `ta`
+
+Sri Lanka President Anura Dissanayake congratulates Donald Trump on his election as US President. He expresses hope for cooperation to benefit both countries' citizens.
+
+🟩
+
+President Anuragumara Dissanayake has congratulated Donald Trump, the 47th president of the United States.
+
+“The most voted voting as the 47th president of the United States has been congratulated by Donald J. Trump.
+
+He also said that I expect to work with you to achieve the general goals of our relationship that benefits the people of Sri Lanka and the American people.
+
+◼️
+
+[Data](articles/f707b360.json)
+
+[Extended Data](ext_articles/f707b360.ext.json)
+
+---
 
 ### President welcotes Anura Donald Trump
 
@@ -99,6 +147,26 @@ The suspect is a 28 year old resident of Kaduwela, mother and daughter in Usweet
 [Data](articles/62ea87c4.json)
 
 [Extended Data](ext_articles/62ea87c4.ext.json)
+
+---
+
+### Ratmalana reveals the cause of red
+
+*2024-11-06 19:12:49* · [`adalk`](https://www.ada.lk/picture_story/රත්මලාන---බඩෝවිට-ඇළ-මාර්ගය-රතු-පාටවීමට-හේතුව-හෙළි-වෙයි/10-412899) · `si`
+
+Ratmalana canal turns red due to pigment release. Central Environmental Authority investigates, finds water quality safe. Police arrests suspect responsible for dyeing canal.
+
+🟩
+
+The Central Environmental Authority urges the public not to be disturbed by redness of redness in Ratmalana, Ratmalana. The water is red on this canal from 05 November 2024. According to the Central Environmental Authority, the Central Environmental Office of the Central Environmental Authority has conducted a sector investigation on this same day.
+
+The field inspection revealed that the color of the canal has changed due to the release of a pigment to the relevant canal.. The Central Secretariat was made in the event of the tests that could be made at the same time.. There are also investigations that this pigment is a melt (water soluble) is a melting water in water and that the PH parameters in accordance with existing environmental condition, there are no higher values. Water Quality Laboratory Officers of the CEA have obtained the water samples to conduct further investigations.
+
+...
+
+[Data](articles/59daf0af.json)
+
+[Extended Data](ext_articles/59daf0af.ext.json)
 
 ---
 
@@ -332,6 +400,34 @@ The Bribery Commission has been accused of conspiracy to be conspired by Jagath 
 
 ---
 
+### Aditya Ram Movies
+
+*2024-11-06 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198066) · `ta`
+
+Aditya Ram returns to Tamil cinema after hiatus. Producing "Game Changer" with Shankar, featuring Ram Charan. Film set for January 10 release in Tamil, Telugu, Malayalam, Kannada, and Hindi. Promotions planned in Uttar Pradesh, Dallas, Chennai, Andhra Pradesh, and Telangana.
+
+🟩
+
+Filmmaker and businessman Aditya Ram has stated that it is planning to make films again in Tamil after a short break.
+
+In addition, Shankar - 'Global Star' Ramsaran - Sri Venkateswara Creations - is ready in the coalition and will be released on January 10 next year.
+
+Speaking to reporters in Chennai, Aditya Ram said, “I have produced four films in Telugu on behalf of Aditya Ram Movies, our production company.
+
+After the Telugu film 'Ek Niranjan' starring Prabhas, I wanted to quit the film production industry and engage in land -related business.
+
+In the suburbs of Chennai, I created a shooting complex under the name Aditya Ram on the East Coast Road. There is currently a shooting of films starring leading star actors.
+
+At this moment, our friend and producer Dil Raju met us. Can he work together in the film 'Game Changer' in his production?Asked. I have been happy and decided to make films in Ban Indian -level films not only in Tamil but also in Tamil.
+
+...
+
+[Data](articles/56b194f7.json)
+
+[Extended Data](ext_articles/56b194f7.ext.json)
+
+---
+
 ### Court to review injunction against e-passport purchase; Ex-President Ranil named respondent
 
 *2024-11-06 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103213/court-to-review-injunction-against-e-passport-purchase-ex-president-ranil-named-respondent) · `en`
@@ -349,6 +445,100 @@ The attorneys, who pointed out that the relevant injunction will be in effect un
 [Data](articles/3f4f379b.json)
 
 [Extended Data](ext_articles/3f4f379b.ext.json)
+
+---
+
+### Kamal Haasan 70
+
+*2024-11-06 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198065) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Special Tak Life video releasing Nov 7 on Kamal Haasan's 70th b'day. Directed by Mani Ratnam, starring Kamal, Silambarasan, Trisha. Music by AR Rahman. Produced by Rajkamal Film International, Madras Talkies, Red Giant Movies."
+
+🟩
+
+A special video of his 'Tak Life' will be released on November 7, on the 70th birthday of Kamal Haasan.
+
+Directed by Mani Ratnam, Kamal Haasan, Silambarasan, Trisha, Ashok Selvan, Basil Ali, Pankaj George, Joju George, Nasser, Abirami, Aishwarya Lakshmi, Sania Malhotra, Vaiyapuri and many others.
+
+Ravi K. The film is being recorded by Chandran and is composed by AR Rahman. The film is being produced by Rajkamal Film International - Madras Talkies - Red Giant Movies.
+
+The shooting of the film is being released on the 70th birthday of 'World Man' Kamal Haasan's 70th birthday.
+
+Kamal Haasan has once again starred in Mani Ratnam after 'Maniran' and the expectation of 'Tak Life' has increased worldwide.
+
+◼️
+
+[Data](articles/b2825e4e.json)
+
+[Extended Data](ext_articles/b2825e4e.ext.json)
+
+---
+
+### Actress Sai Pallavi's 'Dandel' will be released in February next year.
+
+*2024-11-06 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198059) · `ta`
+
+Sai Pallavi's 'Dandel' releases Feb 7, 2024. Starring Naga Chaitanya, directed by Sandhu Mondetti. Music by Devi Sri Prasad. Produced by Geeta Arts and Excursion Entertainment.
+
+🟩
+
+Telugu star actor Naga Chaitanya and actress Sai Pallavi, who have been acclaimed by fans through 'Amaran', have been officially announced on the release date of 'Dandel'.
+
+Directed by director Sandhu Mondetti, Naga Chaitanya, Sai Pallavi, Sandeep Ved, Kishore Raju and many others have starred in the film 'Dandel'.
+
+The film, which has been recorded by Sham Dutt, has composed the film 'Rock Star' Devi Sri Prasad. The film is being produced by Geeta Arts, produced by Bunny Vas, who is being embarrassed as Excursion Entertainment. Allu Aravind offers this.
+
+As the shooting of the film reaches the final stage, the film crew has been excited about the release date of the film.
+
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the seventh of February next year.
+
+The hero and the hero in the exclusive poster released for this have been very popular with the fans as they appear as lovers in the background of the sea.
+
+◼️
+
+[Data](articles/8d5c37d0.json)
+
+[Extended Data](ext_articles/8d5c37d0.ext.json)
+
+---
+
+### யாழில் பனை அபிவிருத்தி சபை ஊழியர்கள் போராட்டம்
+
+*2024-11-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/198064) · `ta`
+
+யாழ். கைதடியில் அமைந்துள்ள பனை அபிவிருத்தி சபை ஊழியர்கள் சபை முன்றலில் இன்று புதன்கிழமை  போராட்டத்தில் ஈடுபட்டனர்.
+
+சபைக்கு நியமிக்கப்பட்ட புதிய தலைவர் ஊழியர்களுடன் நடந்து கொள்ளும் அநாகரிகமாக செயற்பாடுகளை கண்டித்தே இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+இதன்போது, “NPP அரசே தகுதயற்ற புதிய தலைவர் நியமனத்தை உடனடியாக இரத்துச் செய், பனை தறித்த காசுதான் ஊழியர்களின் ஊதியமா?, நிர்வாக திறன் அற்ற பதில் பொதுமுகாமையாளரை உடனடியாக பதிவி நீக்கம் செய், NPP அரசே செல்வினின் பதவி நீக்கத்திற்கு தகுந்த காரணம் கூறு, அண்ணன் பதில் முகாமையாளர் ஊழலை மறைக்க தங்கை உள்ளக கணக்காய்வாளர், பனை அபிவிருத்தி சபை ஊழியர்கள் தண்டச் சோறுகளா?, ஊழலற்ற அரசின் தலைவர் நியமனம் இதுவா? என்ற வாசகங்கள் எழுதிய பதாகைகளை கைகளில் ஏந்தியவாறும், கோசங்களை எழுப்பி தமது எதிர்ப்பை வெளிப்படுத்தினர்.
+
+ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க பதிவியேற்ற பின்னர் பனை அபிவிருத்தி சபையின் தலைவராக செல்வின் நியமிக்கப்பட்டார்.
+
+...
+
+[Data](articles/9baac301.json)
+
+---
+
+### இயக்குநர் ராஜுமுருகன் வழங்கும் 'பராரி' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-11-06 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198063) · `ta`
+
+அறிமுக நடிகர் ஹரி சங்கர் கதையின் நாயகனாக நடித்திருக்கும் 'பராரி' திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் எழில் பெரியவேடி இயக்கத்தில் உருவாகி இருக்கும் 'பராரி' எனும் திரைப்படத்தில் ஹரி சங்கர், சங்கீதா கல்யாண், குரு ராஜேந்திரன், சாம்ராட் சுரேஷ், புகழ் மகேந்திரன், வி. பிரேம்நாத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஸ்ரீதர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார்.
+
+ஒடுக்கப்பட்ட மக்களின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை காலா ஃபிலிம்ஸ் பிரைவேட் லிமிடெட் எனும் நிறுவனம் சார்பில் ஹரி சங்கர் தயாரித்திருக்கிறார். இந்த திரைப்படத்தை எழுத்தாளரும், திரைப்பட இயக்குநருமான ராஜுமுருகன் வழங்குகிறார்.
+
+இந்தத் திரைப்படத்தின் பாடல்கள் மற்றும் முன்னோட்டம் இணையத்தில் வெளியாகி மில்லியன் கணக்கிலான பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+
+...
+
+[Data](articles/1523ed5b.json)
 
 ---
 
@@ -509,6 +699,24 @@ China and Sri Lanka are far from, but our friendly exchange has been lasted for 
 [Data](articles/7dafe7af.json)
 
 [Extended Data](ext_articles/7dafe7af.ext.json)
+
+---
+
+### ஊடக அடக்குமுறையை பிரயோகிப்பது எமது நோக்கமல்ல : பொறுப்புடன் செயற்படுமாறே கோருகின்றோம் - அரசாங்கம்
+
+*2024-11-06 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198046) · `ta`
+
+தேசிய மக்கள் சக்தி அரசாங்கம் ஒருபோதும் ஊடக ஒடுக்குமுறையைப் பிரயோகிக்கவில்லை. அதற்கான தேவையும் எமக்கு இல்லை. ஒழுக்க கோவைகளுக்கு அமைய ஊடகங்கள் செயற்பட வேண்டும் என்று கேட்டுக் கொள்வதாக அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு புதன்கிழமை (6) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+பிரதமர் ஹரிணி அமரசூரிய எந்தவொரு சந்தர்ப்பத்திலும் ஊடக ஒடுக்குமுறைகளைப் பயன்படுத்தவில்லை. ஊடகவியலாளர்களுக்கு இடையூறு விளைவிக்கவுமில்லை. அவரது பாதுகாப்பை உறுதிப்படுத்துவதற்கான பணிகளையே பாதுகாப்பு அதிகாரிகள் முன்னெடுத்திருந்தனர்.
+
+பாதுகாப்பு அதிகாரிகள் தமது கடமையை நிறைவேற்றியமையை ஊடக ஒடுக்குமுறையென திரிபுபடுத்த வேண்டாம். கடந்த காலங்களில் பிரதமருக்கு அருகில் செல்வதற்கு கூட இடமளிக்கவில்லை. ஆனால் தற்போது அந்த மாற்றத்தை தெளிவாகக் அவதானிக்கக் கூடியதாகவுள்ளது.
+
+...
+
+[Data](articles/dca46766.json)
 
 ---
 
@@ -2177,215 +2385,5 @@ The Minister further stated that the empty passports cannot be brought to the ne
 [Data](articles/64b7a06b.json)
 
 [Extended Data](ext_articles/64b7a06b.ext.json)
-
----
-
-### China’s fabric grant for 2025 school uniforms receives approval
-
-*2024-11-06 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103201/chinas-fabric-grant-for-2025-school-uniforms-receives-approval) · `en`
-
-The People’s Republic of China has agreed to provide the total amount of around 11.82 million meters of fabric required to be provided for schoolchildren as uniform materials for the year 2025.
-
-Thus, after testing the sample sent to the Ministry of Education in relation to the relevant stock of fabric by the Sri Lanka Textile and Garment Institute (SLITA), it has been recommended that the fabric is suitable for use by school students.
-
-Accordingly, the Cabinet of Ministers has approved the proposal presented by the Prime Minister as the Minister of Education, Science and Technology to accept the Chinese Government’s grant for providing uniforms to all school students for the year 2025.
-
-◼️
-
-[Data](articles/793a545b.json)
-
-[Extended Data](ext_articles/793a545b.ext.json)
-
----
-
-### Kep vehicle that was swept into the canal;Two people die!
-
-*2024-11-06 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198004) · `ta`
-
-Vehicle swept into canal; 2 dead. Keb taxi submerged in 50m floodwaters. Driver and passenger (27, 69) drown. Bodies sent for autopsy.
-
-🟩
-
-Two persons were killed when a keb vehicle was drowned in the water of the Dummodara canal on the Eswatta -Managada road, which belongs to the Kosama Police Division, police said.
-
-Police said the car was dragged into a flood of about 50 meters during the accident.
-
-Four people, including the driver of the cab, were traveling and two of them were drowned, police said.
-
-The deceased are 27 and 69 years old from Balalkotuwa and Kiribathgoda.
-
-In addition, the bodies of the deceased were placed in the Avissawella Hospital for autopsy, police said.
-
-◼️
-
-[Data](articles/f6d31a51.json)
-
-[Extended Data](ext_articles/f6d31a51.ext.json)
-
----
-
-### British High Commissioner who met the Defense Secretary
-
-*2024-11-06 10:48:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-செயலாளரை-சந்தித்த-பிரித்தானிய-உயர்ஸ்தானிகர்/175-346644) · `ta`
-
-British High Commissioner meets Defense Secretary in Sri Lanka. Discussion focuses on bilateral relations and mutual interests. Officials from Ministry of Defense and British High Commission attend.
-
-🟩
-
-British High Commissioner to Sri Lanka, Air Vice Marshal Sampath Sampath Sampath Sampath (Retired), Sri Jayawardenapura today (November 05) met in honor of the Kotte Security Headquarters.
-
-During the meeting, there was a smooth discussion between the Defense Secretary and the British High Commission on the bilateral significance and mutual importance.
-
-Air Vice Marshal Padman de Kosta of the Ministry of Defense Ministry and the Defense Advisor of the British High Commission in Colombo was also present.
-
-◼️
-
-[Data](articles/9ea44f4a.json)
-
-[Extended Data](ext_articles/9ea44f4a.ext.json)
-
----
-
-### You can get permission from today to get a passport!
-
-*2024-11-06 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197998) · `ta`
-
-Sri Lanka passport application process: Register online from 2024.11.06, submit documents within 12 hours of receiving SMS appointment. National ID and phone number required. Children under 16 need parent's NIC. Visit www.immigration.gov.lk for details.
-
-🟩
-
-The Department of Immigration and Emigration provides services to the public to allocate a passport for the public to get a day or a day under normal service.
-
-A new system has been implemented to apply for a passport for the facility of passport applicants from 2024.11.06.
-
-௧. Accordingly, to apply for the Sri Lankan passport from 2024.11.06, a premature record must be made through http://www.immigration.gov.lk link.. Applications of registered applicants from that day will be accepted from Wednesday, 2024.12.04.
-
-௨. Therefore, passport applications will be accepted in accordance with the regulation that has been obtained for the methods seen so far as to 03.12.12.2012.
-
-௩. New passport applicants/ present passports/ missing passports can be registered through this new system.
-
-௪. The premature record is valid for both one -day and normal service.
-
-...
-
-[Data](articles/9e8e93e4.json)
-
-[Extended Data](ext_articles/9e8e93e4.ext.json)
-
----
-
-### China to build 1,996 low income houses in Sri Lanka with grant
-
-*2024-11-06 10:44:00* · [`economynextcom`](https://economynext.com/china-to-build-1996-low-income-houses-in-sri-lanka-with-grant-186230/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the construction of 1,996 low-income housing units, or flats, with money provided by the Chinese government.
-
-Bids have been invited from 8 bidders nominated by the Chinese government to implement the project.
-
-“The Chinese government is funding it, and the construction will be granted to Chinese contractors,” Cabinet spokesman Minister Vijitha Herath told reporters.
-
-The contract for construction of 575 housing units at Moratuwa and 108 housing units at Kottawa was awarded to China Railway 25th Bureau Group Company Ltd.
-
-The Dematagoda 586 housing units and Maharagama 112 units construction contract was given to China Harbour Engineering Company Ltd (CHEC)
-
-The construction of 615 housing units in Peliyagoda was awarded to Shanxi Construction Investment Group Co.
-
-◼️
-
-[Data](articles/37604340.json)
-
-[Extended Data](ext_articles/37604340.ext.json)
-
----
-
-### We don't want to control the media - there is a responsibility
-
-*2024-11-06 10:41:03* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-මර්ධනය-කරන්න-අපිට-කිසිදු-උවමනාවක්-නෑ---මාධ්‍යටත්-වගකීමක්-තියෙනවා/11-412882) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government denies media suppression; emphasizes journalist safety and media ethics.
-
-🟩
-
-Cabinet Publisher, Media Minister Vijitha Herath said that the present government has no need to suppress the media.
-
-He was speaking at a press briefing in the decision of the Cabinet Decision.
-
-"The Prime Minister has not interrupted the journalists at any time. It's a complete hearing. Security personnel to stay safe. It's their responsibility on the safety. Do not pinch it in the wrong way. It's wrong. The Prime Minister's security personnel will be fulfilled their responsibility to fulfill their responsibility. Don't be highlighted that it is a media cricence. Because the past didn't even know close. It is very clear that you should not interpret a small event and to interpret the boss.
-
-...
-
-[Data](articles/c107ee59.json)
-
-[Extended Data](ext_articles/c107ee59.ext.json)
-
----
-
-### Cabinet approval to pay for road rehabilitation
-
-*2024-11-06 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202959) · `si`
-
-Cabinet approves payment for 100,000 km road rehab program. Launched in 2020, faces funding issues since 2023. Cabinet settles 28.37 billion rupee deficit for 2024. Proposal submitted by Transport Ministry.
-
-🟩
-
-The rehabilitation program of rehabilitation of 100,000 kilometers was launched in 2020 with a period of five years period.
-
-Since the lack of necessary provisions from the year 2023, it remains to cover the bills of 28.37 billion rupees.
-
-Also, Rs.
-
-Cabinet spokesperson Vijitha Herath said that the Cabinet was approved by the Cabinet for the year 2024, but the Cabinet was approved to settle down the deficit bills.
-
-The proposal presented the proposal by Transport, Highways, Ports and Civil Aviation.
-
-◼️
-
-[Data](articles/6476e415.json)
-
-[Extended Data](ext_articles/6476e415.ext.json)
-
----
-
-### Govt. eases restriction on social events at Galle Face Green
-
-*2024-11-06 10:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103200/govt-eases-restriction-on-social-events-at-galle-face-green) · `en`
-
-The Cabinet of Ministers has decided to allow the use of the Galle Face Green for miscellaneous social activities.
-
-Earlier on 17 April 2023, the Cabinet of Ministers passed a resolution not to allow the utilization of the Galle Face Green, which is controlled under the management and administration of Sri Lanka Ports Management and Consultancy Services Pvt. Ltd, a company managed by the Sri Lanka Port Authority, for activities other than religious activities.
-
-Speaking during the Cabinet press briefing held today (06), Cabinet Spokesman Minister Vijitha Herath stated that the administration and maintenance of the Galle Face Green costs approximately Rs. 2.5 million to Rs. 3 million per month.
-
-...
-
-[Data](articles/463e7b6a.json)
-
-[Extended Data](ext_articles/463e7b6a.ext.json)
-
----
-
-### Businessman found dead under suspicious circumstances in Polonnaruwa
-
-*2024-11-06 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103199/businessman-found-dead-under-suspicious-circumstances-in-polonnaruwa) · `en`
-
-A businessman has reportedly been found dead under suspicious circumstances in the Muslim Colony area of the Polonnaruwa police division.
-
-Investigations commenced following a information received by the police about a man found collapsed on the ground last night (05). The man had already passed away by the time his son brought him to Polonnaruwa Hospital.
-
-The deceased, a 46-year-old resident of Muslim Colony in Kaduruwela, was identified as a businessman in the area.
-
-It is reported that he had driven home from his place of business and was found collapsed on the ground with a bleeding wound on his chest, while his car was still turned on. Police suspect the death may have resulted from an attack.
-
-The body has been placed in the Polonnaruwa Hospital Mortuary for the Magistrate’s inquiry.
-
-◼️
-
-[Data](articles/ac1eb01b.json)
-
-[Extended Data](ext_articles/ac1eb01b.ext.json)
 
 ---

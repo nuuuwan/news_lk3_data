@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 22:14:25**
+As of **2024-11-06 22:26:06**
 
 ## Newspaper Stats
 
@@ -26,33 +26,43 @@ adaderanasinhalalk | 9,315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,425 (100.0%) of 53,427 articles have been extended.
+53,427 (100.0%) of 53,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### කොකේන් සමග විදෙස් ජාතිකයෙකු ඇතුළු 4ක් අත්අඩංගුවට
+### Four LTTE cadres arrested with cocaine
 
 *2024-11-06 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202986) · `si`
 
-කොකේන් මත්ද්‍රව්‍ය සමග විදෙස් ජාතිකයෙකු සහ තවත් සැකකරුවන් තිදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+LTTE cadres arrested with cocaine: Four suspects detained, including foreign national and two locals aged 24 and 32. Cocaine found in car during inspection at Galle Harbor Police Station. Additional arrests made in Borella and Kollupitiya areas. Investigations ongoing.
 
-ඊයේ (05) පෙරවරුවේ ගාල්ල වරාය පොලීසියට ලද තොරතුරක් මත දක්ෂිණ අධිවේගී මාර්ගයේ පින්නදූව පිවිසුම ආසන්නයේදී අක්මීමන පොලීසියේ නිලධාරීන්ගේ සහාය ඇතිව සිදුකරන ලද වාහන පරීක්ෂාවකදී මෙම සැකකරුවන්ගෙන් දෙදෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-එහිදී අදාළ කාර් රථය කොළඹ දෙස සිට පැමිණ ඇති අතර එහි තිබී ග්‍රෑම් 277ක් බරැති කොකේන් මත්ද්‍රව්‍ය කරල් 19ක් අඩංගු පාර්සලයක් පොලීසිය විසින් සොයා ගත්තේය.
+A foreign national and three other suspects have been arrested by a foreign national and other suspects with cocaine.
 
-අත්අඩංගුවට ගත් සැකකරුවන් අවුරුදු 24 හා 32 යන වයස්වල පසුවන තල්පේ ප්‍රදේශයේ පදිංචිකරුවන් බව අනාවරණය වී ඇත.
+Two suspects have been arrested during an inspection of the SLAF Police Station at the Galle Harbor Police yesterday (05).
 
-මෙම මත්ද්‍රව්‍ය කොල්ලුපිටිය ප්‍රදේශයේදී විදේශීය ජාතිකයෙකු විසින් ඉහත සැකකරුවන්ට ලබාදී ඇති බවට අනාවරණය වී ඇත.
+The car had come to Colombo and found 19 parcel containing 197 grams cocaine weighing 277 grams.
 
-ඒ අනුව ඊයේ පස්වරුවේ පොලිස් මත්ද්‍රව්‍ය කාර්යංශයේ නිලධාරීන් විසින් බොරැල්ල ප්‍රදේශයේ දී මෙම කොකේන් මත්ද්‍රව්‍ය ඉහත සැකකරුවන්ට ලබාදුන් විදේශ ජාතික සැකකරු ග්‍රෑම් 672ක් බැරැති කොකේන් මත්ද්‍රව්‍ය කරල් 40ක් සමග අත්අඩංගුවට ගෙන තිබේ.
+The arrested suspects have been identified as 24 and 32 years old.
 
-එහිදී ඔහු සතුව තිබී අමෙරිකානු ඩොලර් 500ක් හා තවත් විදේශීය මුදල් නෝට්ටු කිහිපයක් ද සොයාගෙ ඇත.
+It has been revealed that the drug has been given the above suspects in Kollupitiya area.
+
+Accordingly, the foreign narcotics of the Police Narcotics have been arrested by the Police Narcotics Bastard to the above mentioned suspects in Borella yesterday afternoon.
+
+He has found US $ 500 and several foreign currency notes.
+
+Another suspect involved in the drug trafficking was also arrested with the 700 milligrams of cocaine.
+
+The arrested overseas is a 52 year old Sierra Leone, another suspect is a 28 year old resident of Borella.
 
 ...
 
 [Data](articles/a01ea54c.json)
+
+[Extended Data](ext_articles/a01ea54c.ext.json)
 
 ---
 

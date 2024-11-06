@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 07:26:45**
+As of **2024-11-06 08:00:57**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,282
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,255 (100.0%) of 53,269 articles have been extended.
+53,257 (100.0%) of 53,269 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### ඇළෙන් එගොඩ වෙන්න ගිය කැබ් රථය සැඩපහරට හසුවෙයි
+### The cab that crossed the stream falls into the hurrico
 
 *2024-11-06 07:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202950) · `si`
 
-කොස්ගම පොලිස් වසමේ ඇස්වත්ත මානකඩ මාර්ගයේ රබුකේ වත්ත අතුරු මාර්ගයේ තුමෝදර ඇළෙන් එගොඩ වීමට ගිය කැබ් රථයක් සැඩපහර හසුව ගසාගෙන ගොස් තිබේ.
+Cab crosses canal, 4 drown. Driver and passengers killed. Bodies at Avissawella morgue. Investigation ongoing.
 
-ඊයේ (05) සවස මෙම අනතුර සිදුව ඇති අතර, පොලීසිය පැවසුවේ කැබ් රථය මීටර් 50ක් පමණ ගසාගෙන ගොස් ඇති බවය.
+🟩
 
-කෙසේවෙතත් සිද්ධිය වූ අවස්ථාවේ රියදුරු ඇතුළු පුද්ගලයින් සිව්දෙනෙකු කැබ් රථයේ ගමන් කර ඇති අතර, ඉන් දෙදෙනෙකු දියේ ගිලී ජීවිතක්ෂයට පත්ව තිබේ.
+A cab had been hacked to cross the Rabukara Canal on the Rabukarawatta road in Kosgama Police Division.
 
-එලෙස මියගොස් ඇත්තේ, අවුරුදු 27ක් හා 69ක් වූ බලල්කොටුව හා කිරිබත්ගොඩ ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+The accident had occurred yesterday evening and the police said that the cab was about 50 meters.
 
-මෘත ශරීර අවිස්සාවේල්ල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර කොස්ගම පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+However, four persons including the driver and four persons including the incident were traveling in the cab, two of them were drowned.
+
+The victims were residents of the Kiribathgoda area for 27 and 69 years.
+
+The bodies are placed at the morgue of the Avissawella hospital morgue and Kosgama Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/19a49a5b.json)
+
+[Extended Data](ext_articles/19a49a5b.ext.json)
 
 ---
 
@@ -93,6 +99,8 @@ Organised by Apparel Technologies, the award ceremony honours industry leaders w
 ...
 
 [Data](articles/845d49ce.json)
+
+[Extended Data](ext_articles/845d49ce.ext.json)
 
 ---
 

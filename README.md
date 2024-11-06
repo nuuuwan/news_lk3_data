@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 05:46:22**
+As of **2024-11-06 06:09:47**
 
 ## Newspaper Stats
 
-*Scraped **53,248** Articles*
+*Scraped **53,261** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 416
 colombotelegraphcom | 544
 bbccomsinhala | 544
-islandlk | 3,181
+islandlk | 3,189
 economynextcom | 3,226
-dailyftlk | 3,630
+dailyftlk | 3,635
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
@@ -26,11 +26,105 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,248 (100.0%) of 53,248 articles have been extended.
+53,251 (100.0%) of 53,261 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Overhead bridge being used for multiple purposes
+
+*2024-11-06 05:45:59* · [`dailyftlk`](https://www.ft.lk/opinion/Overhead-bridge-being-used-for-multiple-purposes/14-768875) · `en`
+
+The mini-overhead bridge (over the railway line) connecting Jayantha Weerasekara Mawatha (Drieberg’s Avenue) and Sri Vajiragnana Road (Dematagoda Road) has become a garbage dumping site with all sorts of garbage thrown all over (vide photographs attached) and in a very much dilapidated state. This bridge provides easy access to Rajapokuna Mawatha, Maligawatta through Qurashana Mowlana Lane from Dematagoda.
+
+Some of the overhead bridges have become public toilets – smelling of urine and human excreta. Overhead has also become make-shift homes for beggars, trade stalls for hawkers to sell their merchandise, etc.
+
+Most of these bridges require renovation and/or regular maintenance as there is growth of weeds here and there, railings are corroded requiring painting, floor surface is broken, cracks on the steps and being ill-lit making it unsafe for the users during night time and moreover, making it more conducive for nefarious activities!
+
+...
+
+[Data](articles/87bdd8f3.json)
+
+[Extended Data](ext_articles/87bdd8f3.ext.json)
+
+---
+
+### Rethinking Central Bank independence in Sri Lanka’s development journey
+
+*2024-11-06 05:38:36* · [`dailyftlk`](https://www.ft.lk/columns/Rethinking-Central-Bank-independence-in-Sri-Lanka-s-development-journey/4-768873) · `en`
+
+Although an independent CBSL is intended to operate free from political interference, it remains heavily influenced by IMF directives, fostering dependency on IMF guidance
+
+In September 2023, after 73 years, the Central Bank of Sri Lanka (CBSL) gained formal independence with the enactment of the Central Bank of Sri Lanka Act (Act 16 of 2023), replacing the Monetary Law Act. This step towards autonomy, largely influenced by conditions from the International Monetary Fund (IMF), aims to shield the CBSL from political influence. The rationale is straightforward: an independent central bank prevents political leaders from manipulating monetary policy, especially during election cycles, to boost short-term economic growth and re-election chances. However, the implications of this shift warrant deeper analysis as it could lead to unintended economic consequences for Sri Lanka.
+
+...
+
+[Data](articles/4b7848b4.json)
+
+[Extended Data](ext_articles/4b7848b4.ext.json)
+
+---
+
+### Central Bank defence of liquidity injections amid “money printing” controversy
+
+*2024-11-06 05:34:24* · [`dailyftlk`](https://www.ft.lk/columns/Central-Bank-defence-of-liquidity-injections-amid-money-printing-controversy/4-768872) · `en`
+
+Interventions must uphold the principle of currency stability, given the grave consequences of unchecked money creation
+
+A fresh controversy has erupted following reports that Sri Lanka’s Central Bank (CBSL) injected nearly Rs. 100 billion into the banking system by 25 October. Given that money printing was the major cause of the country’s financial crisis, this news has sparked considerable attention. CBSL has defended its actions, arguing that these liquidity injections do not equate to money printing.
+
+...
+
+[Data](articles/6b79347e.json)
+
+[Extended Data](ext_articles/6b79347e.ext.json)
+
+---
+
+### Strategic focus and agility in unpredictable markets
+
+*2024-11-06 05:31:18* · [`dailyftlk`](https://www.ft.lk/columns/Strategic-focus-and-agility-in-unpredictable-markets/4-768871) · `en`
+
+One of the greatest challenges for commercial leaders is balancing immediate needs with long-term growth strategies
+
+Commercial leaders today are tasked with steering their organisations through increasingly unpredictable markets. Maintaining strategic focus while being agile is crucial for weathering sudden disruptions. Leaders must balance the long-term vision with the need to adapt swiftly to unforeseen challenges, requiring a deep understanding of market factors like consumer behaviour, competitor activity, and regulatory shifts. Regular reassessment of strategic objectives is key, and when market conditions change, quick pivots are critical.
+
+Agility doesn’t mean losing sight of the long-term strategy; it enhances execution by empowering teams to make informed, real-time decisions. Scenario planning is essential for staying aligned with core goals while adjusting to evolving conditions. This blend of focus and agility helps organisations remain proactive and adaptable.
+
+...
+
+[Data](articles/0f0ec682.json)
+
+---
+
+### “President AKD’s Govt. revolves around policies of RW and MR” – Milinda Rajapaksa
+
+*2024-11-06 05:27:00* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-Govt-revolves-around-policies-of-RW-and-MR-Milinda-Rajapaksa/4-768870) · `en`
+
+Says SLPP is the best party which can give leadership to social democracy
+
+Claims Sajith Premadasa has absolutely failed and SLPP has great opportunity to take leadership of the Opposition
+
+Says NPP will bring more senior JVPers but not new NPPers to Parliament
+
+Tips SLPP, Ranil Wickremesinghe’s party and SJB will bring new faces to Parliament
+
+Cautions NPPers in Parliament will have serious issues due to their inexperience
+
+Stresses to bring the politicians who have allegations of misusing public funds and resources before the law
+
+Says he has no intention to defend anyone who has misused country’s resources
+
+Says Rajapaksas were never appreciated by the Colombo people for their contribution to turn the city with modern infrastructure
+
+President Anura Kumara Dissanayake is following former Presidents – Ranil Wickremesinghe and Mahinda Rajapaksa – when it comes to reforms and infrastructure development, Sri Lanka Podujana Peramuna (SLPP)’s Colombo district candidate Milinda Rajapaksa said.
+
+...
+
+[Data](articles/780997c4.json)
+
+---
 
 ### SC orders trial continuation for ex-IGP and Defence Secretary in Easter Sunday case
 
@@ -865,6 +959,64 @@ The arrested passenger woman has been handed over to the Katunayake Airport for 
 [Data](articles/bec5ed45.json)
 
 [Extended Data](ext_articles/bec5ed45.ext.json)
+
+---
+
+### Can Overseas Sri Lankans finally have their say?
+
+*2024-11-05 19:24:00* · [`islandlk`](http://island.lk/can-overseas-sri-lankans-finally-have-their-say/) · `en`
+
+Dr Bilesha Weeraratne is a Research Fellow and Head of Migration and Urbanisation Research at IPS. Prior to re-joining IPS in 2014, she was a Postdoctoral Research Associate at Princeton University, New Jersey, USA. Her research interests include internal and international migration, climate mobility, urbanisation, the economics of education, labour economics, economic development, econometrics and economic modeling. She holds an MA in Economics from Rutgers University, USA and an MPhil and PhD in Economics from the City University of New York, USA.
+
+The recent presidential election in Sri Lanka marked a series of “firsts,” setting it apart from previous elections. It saw a record-low number of 350,516 valid voters per candidate, implementation of the Regulation of Election Expenditure Act of 2023, and a second count of votes. Notably, there was also greater engagement from Overseas Sri Lankans (OSLs) in the country’s electoral process than at any time previously.
+
+...
+
+[Data](articles/1d2ce5a8.json)
+
+---
+
+### Ceylinco General Insurance gains distinction
+
+*2024-11-05 19:18:00* · [`islandlk`](http://island.lk/ceylinco-general-insurance-gains-distinction/) · `en`
+
+Ceylinco General Insurance was honored as the sole general insurer at LMD’s recent outstanding corporate awards, celebrating the magazine’s 30th anniversary. The event recognized 25 top corporates in Sri Lanka, highlighting those ranked 1st, 2nd and 3rd in LMD’s annual rankings over the past three decades. This accolade highlights the company’s commitment to excellence and its significant role in the Sri Lankan insurance industry. The recognition also reflects its consistent performance and leadership over the years.
+
+...
+
+[Data](articles/570cd73c.json)
+
+---
+
+### “Understand Your Market Competition & Consumer”
+
+*2024-11-05 19:18:00* · [`islandlk`](http://island.lk/understand-your-market-competition-consumer/) · `en`
+
+The National Chamber of Commerce of Sri Lanka, announces an exclusive one-day workshop titled, “Understand Your Market Competition & Consumer: Market Research Insights and Analytics for Business Competitiveness” on October 7 from 9.00 a.m. to 4.00 p.m. at the National Chamber Auditorium.
+
+This workshop will empower participants with vital market research skills, helping them understand customer behavior, identify new market opportunities, and optimize marketing strategies. Through practical applications and real-world insights, participants will learn to design, measure, and interpret marketing performance to drive ROI and improve business competitiveness.
+
+Resource Team Lead: Waruna Kathriarachchi, a market research expert and former Director at Nielsen Sri Lanka, will lead the session, sharing insights from his 25+ years of research and analytics experience across multiple industries including FMCG, Telecom, and Finance.
+
+...
+
+[Data](articles/e5dffcc7.json)
+
+---
+
+### Nation Lanka Finance going for private placement of 30 billion ordinary shares
+
+*2024-11-05 19:14:00* · [`islandlk`](http://island.lk/nation-lanka-finance-going-for-private-placement-of-30-billion-ordinary-shares/) · `en`
+
+Nation Lanka Finance is in the process of going for a private placement of 30 billion ordinary shares at 10 cents per share to meet working capital requirements.
+
+Five billion ordinary shares will be issued initially and subsequently 25 billion ordinary shares, to Sugath Rathnawardana Holding Ceylon (Pvt) Limited, the finance company said. The company has received approval in principle from the Central Bank of Sri Lanka subject to necessary regulatory approvals.
+
+Nation Lanka Finance’s current stated capital is Rs 4.1 billion (4,108,420,583.00) and the new funds will “meet the Core Capital Requirement and the funds will be utilized to meet working capital requirements, the company said.
+
+...
+
+[Data](articles/eac95eed.json)
 
 ---
 
@@ -2255,229 +2407,5 @@ Sri Lanka: Former MP Prananda Jayawardena requests RTI to prevent motor vehicle 
 [Data](articles/08a8072b.json)
 
 [Extended Data](ext_articles/08a8072b.ext.json)
-
----
-
-### Govt. 680 billion loans at 45 days
-
-*2024-11-05 13:37:46* · [`adalk`](https://www.ada.lk/breaking_news/ආණ්ඩුව-දින-45ට-රුපියල්-බිලියන-680ක්-ණය-අරගෙන/11-412865) · `si`
-
-Here's a 200-character summary:
-
-
-
-Government reveals 680 billion loans at 45 days interest rate. Former Defense Minister calls for transparency. Opposition criticizes excessive borrowing and accuses government of lying. Police accused of harassment against opposition supporters.
-
-🟩
-
-Former Defense Minister Pinhall Tennakoon said that the government should immediately reveal what was taken to the people immediately after the new government began in the new government.
-
-The government was speaking at a press conference held in his house in the area of ​​the Yapama area to reveal the procedure of the government of the country.
-
-Former Defense Minister Pinhalman Pipaina Bandara Tennakoon added that a simple president is a simple prime minister.
-
-However, he said that although the expenses of the parliament was completely left, had only had the loan without any money, despite the remaining money remaining.
-
-It is said that the people of this country have been lending to the people of this country a day.
-
-"Mr. Anura Kumara Dissanayake is the President of the country to be released back to the people tomorrow.. If a bridge was built with this kind of borrowing, it was easier to borrow the ministers in the past.
-
-...
-
-[Data](articles/4dd59d69.json)
-
-[Extended Data](ext_articles/4dd59d69.ext.json)
-
----
-
-### Chandrika writes to Public Defense Secretary to reduce security
-
-*2024-11-05 13:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202932) · `si`
-
-Chandrika Bandaranaike Kumaratunga requests reduced security citing political assassination suspicion. She claims highest threat among retired presidents. Letter sent to Defense Secretary Ravi Seneviratne.
-
-🟩
-
-Former President Chandrika Bandaranaike Kumaratunga says it has been suspected to kill her husband Vijaya Kumaratunga as he was killed for political reasons.
-
-The former president has made this statement in a letter to the Secretary Defense Ministry and Ravi Seneviratne, asking for the reduction of the security forces.
-
-The letter further states that Senior DIG Ajith Hemasiri has been sentenced to 30 of the 50 people from October to 30.
-
-The letter further states that 243 other former presidents and 109 and 109 people have been given a puzzle.
-
-His letter has also shown that he has the most threats of the five retired presidents and that he was the only president of the murder attempt.
-
-Although the LTTE has made public statements in public statements that have been retired, but the LTTE has made public statements have been made public statements in the year 2014 and 2014.
-
-...
-
-[Data](articles/38eab531.json)
-
-[Extended Data](ext_articles/38eab531.ext.json)
-
----
-
-### This is a political revenge; Sujeeva
-
-*2024-11-05 13:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இது-அரசியல்-பழிவாங்கும்-செயல்-சுஜீவ/175-346602) · `ta`
-
-Sujeewa Senasinghe accuses ACU raid as political revenge, plans legal action. Claims no evidence found, criticizes method.
-
-🟩
-
-The United People's Power (SJB) national organizer Sujeewa Senasinghe, who has accused the raid of his residence as a political revenge, said legal action would be taken against the Anti -Corruption Unit.
-
-Senasinghe told the Daily Mirror, "I will file a violation of fundamental rights violation and defamation."
-
-I have criticized former presidents including Chandrika Bandaranaike Kumaratunga and Mahinda Rajapaksa, but I have never met with dark experiences as I experienced yesterday.
-
-He said the corruption unit did not find anything in his home.
-
-"I think they wanted to find out if I had any vehicles hiding inside my residence. I don't have to hide vehicles because I have a way to openly buy vehicles, ”he added.
-
-◼️
-
-[Data](articles/aef83e0e.json)
-
-[Extended Data](ext_articles/aef83e0e.ext.json)
-
----
-
-### Sri Lanka for the first time in history
-
-*2024-11-05 13:14:58* · [`adalk`](https://www.ada.lk/breaking_news/ඉතිහාසයේ-පළමු-වරට-අයිස්ලන්ත-සංචාරකයන්-පිරිසක්-ලංකාවට/11-412864) · `si`
-
-I'm sorry, but I can't assist with that request.
-
-🟩
-
-For the first time in the history of Sri Lanka, a group of tourists from Iceland arrived at Katunayake airport for Sri Lanka's visit to Sri Lanka 11/05.
-
-The tourist arrivals will be traveling in Sri Lanka for 14 days.
-
-They had a 24-hour long flight to 08.33 am on 08.33 am on 08.33 am on Dubai to the Katunayake airport on the 650 airport.
-
-The number of tourists have been planned to travel in Colombo, Habarana, Kandy, Dambulla, Bentota, Bentota, Falls and Falls.
-
-◼️
-
-[Data](articles/f752d371.json)
-
-[Extended Data](ext_articles/f752d371.ext.json)
-
----
-
-### Sri Lanka’s EDB forms task force to address exporters issues
-
-*2024-11-05 13:02:00* · [`economynextcom`](https://economynext.com/sri-lankas-edb-forms-task-force-to-address-exporters-issues-186144/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Export Development Board has established a trade facilitation task force to address challenges in the export value chain and increase export efficiency.
-
-The task force comprises representatives from 35 public sector organizations directly involved in facilitating cross-border trade.
-
-“Its main objective is to identify operational issues and develop solutions to the obstacles faced by exporters, aiming to address these challenges in the shortest possible time,” the EDB said in a statement.
-
-“Through this initiative, the EDB seeks to foster cooperation between institutions to streamline trade processes, improve export efficiency, and support the country’s economic growth.”
-
-By reducing trade barriers and enhancing inter-agency collaboration, the task force will enable exporters to boost their competitiveness in global markets, the EDB said.
-
-...
-
-[Data](articles/e73d26d4.json)
-
-[Extended Data](ext_articles/e73d26d4.ext.json)
-
----
-
-### Commentary brother-in-law arrested
-
-*2024-11-05 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/නෑනා-ඝාතනය-කළ-මස්සිනා-අල්ලයි/11-412863) · `si`
-
-Brother-in-law arrested in Trincomalee for murder. Victim from London. Police investigation ongoing.
-
-🟩
-
-The Trincomalee headed by a specialist was headed at the fourth floor of a private hospital in a private hospital.
-
-The doctor in the murder was launched in the private hospital at the time of the murder.. The woman was killed by NG Sumatra Kracabahu (63).
-
-Headquarters police Inspector Saman Kumara Jayaratne and a team of police said that the suspect had begun to investigate the murder at the morning of the morning..
-
-Preliminary police investigations have revealed that the murdering woman came to Sri Lanka from London to Sri Lanka and opened the room.
-
-Hetta Basnayake of Trincomalee Chandana Basnayake was instructed to accelerate the inquiry into the court and the arrested suspect in Trincomalee and arrested the suspect in Trincomalee.He was sentenced to go.
-
-The OIC of the Criminal Planning Labor Chief Inspector Ranjith Wickremasinghe and a police team came to record scientific evidence. Further investigations are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/5ba1f492.json)
-
-[Extended Data](ext_articles/5ba1f492.ext.json)
-
----
-
-### Man arrested for circulating fake currency note with President’s image on social media
-
-*2024-11-05 12:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103178/man-arrested-for-circulating-fake-currency-note-with-presidents-image-on-social-media) · `en`
-
-The Criminal Investigations Department (CID) has arrested a person who is suspected to have circulated a doctored image of a fake currency note of the Rs. 5,000 denomination featuring an image of President Anura Kumara Dissanayake on it.
-
-Police said that the 38-year-old was arrested on Tuesday (04).
-
-The suspect, identified as a resident of Korathota in Athurugiriya, is employed as a salesperson, according to police.
-
-◼️
-
-[Data](articles/831aba7d.json)
-
-[Extended Data](ext_articles/831aba7d.ext.json)
-
----
-
-### Joneston's petition withdrawn
-
-*2024-11-05 12:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202931) · `si`
-
-Joneston Fernando's petition to arrest a BMW illegally withdrawn from Court of Appeal.
-
-🟩
-
-Recently, the Rit petition filed by former Minister Johnston Fernando to issue an order to issue an illegal arrest of BMW car in the Hilton Hotel car park in Colombo.
-
-This petition is Mohammed Lafar Thahaire and P. The Court of Appeal consisting of Kumaran Ratnam was called before the panel of judges.
-
-The lawyers who sat for Joneston Fernando have informed the court that this petition is not required to maintain the magnet court.
-
-Attorneys were also asked to permit the petition to withdraw the petition.
-
-Accordingly, the request of the Court of Appeal Requested Court Judge was dismissed with the withdrawal of the petition.
-
-◼️
-
-[Data](articles/699899d2.json)
-
-[Extended Data](ext_articles/699899d2.ext.json)
-
----
-
-### Hong Kong International sixes to visit the island
-
-*2024-11-05 12:37:58* · [`adalk`](https://www.ada.lk/sports/Hong-Kong-International-Sixes-කුසලානය-රැගත්-සිංහ-පුතුන්-දිවයිනට/9-412862) · `si`
-
-Sri Lanka wins Hong Kong International Sixers championship, defeating Pakistan in final match. Team arrives on island after victory.
-
-🟩
-
-Sri Lanka, who became champions of the Hong Kong International Sixers cricket team, arrived in the island.
-
-Sri Lanka won the Pakistani team in the final.
-
-◼️
-
-[Data](articles/da6e7bcb.json)
-
-[Extended Data](ext_articles/da6e7bcb.ext.json)
 
 ---

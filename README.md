@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 05:24:12**
+As of **2024-11-06 05:46:22**
 
 ## Newspaper Stats
 
-*Scraped **53,245** Articles*
+*Scraped **53,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 544
 bbccomsinhala | 544
 islandlk | 3,181
 economynextcom | 3,226
-dailyftlk | 3,628
+dailyftlk | 3,630
 dailymirrorlk | 4,733
 adalk | 4,971
 adaderanalk | 6,341
-tamilmirrorlk | 7,413
+tamilmirrorlk | 7,414
 virakesarilk | 8,605
 adaderanasinhalalk | 9,280
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,245 (100.0%) of 53,245 articles have been extended.
+53,248 (100.0%) of 53,248 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### SC orders trial continuation for ex-IGP and Defence Secretary in Easter Sunday case
+
+*2024-11-06 05:13:53* · [`dailyftlk`](https://www.ft.lk/news/SC-orders-trial-continuation-for-ex-IGP-and-Defence-Secretary-in-Easter-Sunday-case/56-768864) · `en`
+
+Former Defence Secretary Hemasiri Fernando (left) and former Inspector General of Police (IGP) Pujith Jayasundara
+
+The Supreme Court has overturned the previous acquittal of former Inspector General of Police (IGP) Pujith Jayasundara and former Defence Secretary Hemasiri Fernando in relation to the 2019 Easter Sunday bombings, ordering the Colombo High Court Trial-at-Bar to proceed with the trial and require the accused to present their defence.
+
+The ruling, delivered by a five-judge Supreme Court bench comprising Justices Preethi Padman Surasena, Yasantha Kodagoda, Kumudini Wickremasinghe, Mahinda Samayawardhena, and Arjuna Obeyesekere, was in response to appeals filed by the Attorney General.
+
+...
+
+[Data](articles/e16042b5.json)
+
+[Extended Data](ext_articles/e16042b5.ext.json)
+
+---
+
+### Ex-PUCSL Chief Janaka Ratnayake summoned over unpaid VAT
+
+*2024-11-06 05:12:17* · [`dailyftlk`](https://www.ft.lk/news/Ex-PUCSL-Chief-Janaka-Ratnayake-summoned-over-unpaid-VAT/56-768863) · `en`
+
+Colombo Additional Magistrate Bandara Ilangasinghe has ordered the issuance of summons to Sri Lanka Public Utilities Commission (PUCSL) former Chairperson Janaka Ratnayake and his wife, Kumari Yasoda Silva, to appear before the court on 10 December.
+
+The order issued on Monday relates to the non-payment of over Rs. 3 million in Value Added Tax (VAT) owed to the Government. The case stems from allegations that a computer service provider, managed by the couple in the Kirulapana area, failed to settle VAT obligations amounting to Rs. 31,846,248.24 in tax arrears, along with Rs. 1,851,658.37 in income tax arrears, covering the period from 2016 to 2018.
+
+...
+
+[Data](articles/01826487.json)
+
+[Extended Data](ext_articles/01826487.ext.json)
+
+---
 
 ### RCSSL AGM and dinner tonight at NH Collection, Colombo
 
@@ -103,6 +137,36 @@ In the under -15 category. V. and Vennapu Thirukkudumba KM are eligible to play 
 [Data](articles/db200627.json)
 
 [Extended Data](ext_articles/db200627.ext.json)
+
+---
+
+### Try to get rid of the Ministries
+
+*2024-11-06 02:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளை-வலிந்து-பெற-முயற்சி/175-346635) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Suren Gurusamy criticizes TNA opponents, urging Tamil support for unity and rejecting nationalism. He warns against voting for South Sri Lanka parties, citing ministry post motivations.
+
+🟩
+
+Suren Gurusamy, a media spokesman of the Relo Organization and the candidate of the Tamil National Alliance (TNA), has accused the Tamil National Alliance (TNA) of being a serious effort to gain support for the Anuragumara -led government.
+
+Suren said this during a media briefing held at the Jaffna Media Center on Tuesday (04). There he continued to comment,
+
+It is clear that various parties and independent groups contesting an important election are to divide the votes of the Tamil people.
+
+Many of these contestants. The welfare of the Tamil people does not seem to be working. It is clear that it is to get their positions.
+
+Therefore, the Tamil people should be fully supportive of the Tamil National Alliance (TNA), which expresses unity throughout the North and East, which is traveling with the Tamil National Policy, which will be fully supportive of the Tamil nationalist policy.
+
+...
+
+[Data](articles/405aa35f.json)
+
+[Extended Data](ext_articles/405aa35f.ext.json)
 
 ---
 
@@ -2415,87 +2479,5 @@ Sri Lanka won the Pakistani team in the final.
 [Data](articles/da6e7bcb.json)
 
 [Extended Data](ext_articles/da6e7bcb.ext.json)
-
----
-
-### 14 days explanation for a person involved in money laundering alleging sending overseas
-
-*2024-11-05 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/197928) · `ta`
-
-Jaffna youth arrested for alleged money laundering. Accused sent 1.45 million rupees abroad falsely. Complaint filed with District Crime Police. Suspect remanded for 14 days pending investigation.
-
-🟩
-
-A man from a Jaffna youth has been arrested in court order for allegedly sending it abroad.
-
-14 lakhs 50 thousand rupees, claiming to send a young man abroad and take no action to send it abroad.. He has lodged a complaint with the District Crime Police Division.
-
-According to the complaint, the police have arrested the suspect in Chavakachcheri area yesterday (03).
-
-Following investigations carried out by the arrested suspect, Jaffna. The Magistrate's Court has been ordered to be kept in remand for the next 14 days.
-
-◼️
-
-[Data](articles/c3f37ec0.json)
-
-[Extended Data](ext_articles/c3f37ec0.ext.json)
-
----
-
-### Presidential Election - Struggle for Democracy ”
-
-*2024-11-05 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/197923) · `ta`
-
-Kamala Harris concludes 107-day presidential campaign in Philadelphia, portraying it as a struggle for US democracy. She emphasizes voting as a continuation of the country's independence legacy.
-
-🟩
-
-The Democratic Party's presidential candidate Kamala Haris has completed her final election campaign meeting with great enthusiasm and joy.
-
-Kamala Haris has launched a 107 -day presidential campaign.
-
-Kamala Harisin's election campaign began following a telephone on Sunday that President Joe Bidan said he would quit the election.
-
-He completed his final election campaign in Philadelphia. He portrayed the presidential election as a struggle for US democracy.
-
-Tonight we are happy and happy tonight, as we started with hope and enthusiasm that day, "he said.
-
-Kamala Haris has completed her speech that we have to go to the vote in the hands of the previous generation of independence.
-
-◼️
-
-[Data](articles/e3cd7ba7.json)
-
-[Extended Data](ext_articles/e3cd7ba7.ext.json)
-
----
-
-### Shiran's property is banned
-
-*2024-11-05 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202930) · `si`
-
-Property linked to drug trafficking banned; owner questioned; assets seized including house, car, and boat.
-
-🟩
-
-The property, which is known as an organized criminal, has been banned from the drug trafficking.
-
-The Terrorism Investigation Division and the Illegal Asset Investigation Division participated.
-
-Palani Shran Chloric, who is said to have drug trafficking in Colombo, has been inquired by the Terrorism Investigation Division and the illegal contact division.
-
-Accordingly, the person found a two storied house and a luxury car in the Wattala, Balagala Road.
-
-It is said that the suspect had earned the property from drug trafficking and the property was banned from around Rs.
-
-Investigators also suspect that the investigators have also been able to find a boat belonging to the suspect.
-
-The police said that the son of Kudu Selvi is the son of Kudu Selvi, police said.
-
-◼️
-
-[Data](articles/7f9765e8.json)
-
-[Extended Data](ext_articles/7f9765e8.ext.json)
 
 ---

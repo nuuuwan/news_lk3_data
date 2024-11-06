@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 06:09:47**
+As of **2024-11-06 06:45:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,280
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,251 (100.0%) of 53,261 articles have been extended.
+53,253 (100.0%) of 53,261 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -96,6 +96,8 @@ Agility doesn’t mean losing sight of the long-term strategy; it enhances execu
 
 [Data](articles/0f0ec682.json)
 
+[Extended Data](ext_articles/0f0ec682.ext.json)
+
 ---
 
 ### “President AKD’s Govt. revolves around policies of RW and MR” – Milinda Rajapaksa
@@ -123,6 +125,8 @@ President Anura Kumara Dissanayake is following former Presidents – Ranil Wick
 ...
 
 [Data](articles/780997c4.json)
+
+[Extended Data](ext_articles/780997c4.ext.json)
 
 ---
 

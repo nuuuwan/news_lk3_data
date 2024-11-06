@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 11:40:41**
+As of **2024-11-06 12:00:16**
 
 ## Newspaper Stats
 
-*Scraped **53,310** Articles*
+*Scraped **53,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,56 @@ dbsjeyarajcom | 416
 colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
-economynextcom | 3,226
+economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,976
+adalk | 4,977
 adaderanalk | 6,351
 tamilmirrorlk | 7,420
 virakesarilk | 8,612
-adaderanasinhalalk | 9,292
+adaderanasinhalalk | 9,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,310 (100.0%) of 53,310 articles have been extended.
+53,318 (100.0%) of 53,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### ශ්‍රී ලංකා එක්දින සහ 20යි 20 සංචිතය නම් කෙරේ
+
+*2024-11-06 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202964) · `si`
+
+නවසීලන්තය සමග පැවැත්වෙන එක්දින සහ 20යි 20 තරගාවලි සඳහා ශ්‍රී ලංකා සංචිත නම් කර තිබේ.
+
+◼️
+
+[Data](articles/cbdaabac.json)
+
+---
+
+### The case against Dr. Safi is refuted
+
+*2024-11-06 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202963) · `si`
+
+Dr. Safi case dismissed due to lack of evidence. Magistrate orders Kurunegala court proceedings halted. Attorney General advises no further action required.
+
+🟩
+
+The Magistrate today (06) ordered that the Kurunegala Magistrate's Court today (06).
+
+The Attorney General has instructed to refute the case as there is insufficient evidence.
+
+◼️
+
+[Data](articles/e7153fbd.json)
+
+[Extended Data](ext_articles/e7153fbd.ext.json)
+
+---
 
 ### Dr. Shafi acquitted from all charges
 
@@ -49,6 +81,72 @@ Furthermore, the court also lifted the overseas travel ban which was imposed on 
 [Data](articles/d8b9e52f.json)
 
 [Extended Data](ext_articles/d8b9e52f.ext.json)
+
+---
+
+### Sri Lanka launches online booking for new passports; appointment available from Dec. 3
+
+*2024-11-06 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-online-booking-for-new-passports-appointment-available-from-dec-3-186240/) · `en`
+
+ECONOMYNEXT – Sri Lanka launched an online system to streamline the passport issuance on Wednesday (06), but physical appointments will be available only from December first week due to the high number of tokens already given, government officials said.
+
+Despite President Anura Dissanayake’s promise to bring down 50,000 new passports and reduce long queues of passport applicants, the number of people standing outside the Department of Immigration and Emigration has yet to see a decline.
+
+Though the government has urged people not to rush for passports unless urgent, government officials say thousands have been waiting in the queue from early morning hours even though majority of them are not going on a foreign visit in the near future.
+
+The new online process will be launched to reduce the queues.
+
+...
+
+[Data](articles/f6193d79.json)
+
+[Extended Data](ext_articles/f6193d79.ext.json)
+
+---
+
+### Chandrika's' safety has not been removed - Cabinet spokesman
+
+*2024-11-06 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202962) · `si`
+
+Cabinet spokesperson denies removal of Chandrika Bandaranaike's security. Former president's protection unchanged despite claims.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the security of former President Chandrika Bandaranaike Kumaratunga has not been removed or reduced.
+
+He was speaking at a press notice of the Cabinet Decision.
+
+"Former presidents, especially Chandrika Bandaranaike, Mrs. Chandrika Bandaranaike had said he would remove the security of her. No removal has been done. She was sent to 30 to 30, it was wrong. She has already given 57 people. "
+
+◼️
+
+[Data](articles/1589505d.json)
+
+[Extended Data](ext_articles/1589505d.ext.json)
+
+---
+
+### School uniforms for 2025 from China
+
+*2024-11-06 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202961) · `si`
+
+China provides 11.82 million meters of school uniforms for 2025. Fabric approved by Ministry of Education. Grant agreement reached between China and Sri Lanka.
+
+🟩
+
+The total requirement of school uniforms for the year 2025 is about 11.82 million meters.
+
+Cabinet spokesman Vijitha Herath said that the People's Republic of China has agreed to provide the full grant.
+
+After inspection of the sample sent to the Ministry of Education in relation to this stock, the fabric has been recommended to be suitable for the use of schoolchildren.
+
+The proposal made by the Cabinet of Education, Science and Technology to take up the Budget for 2025, the Prime Minister of Education, the Hon.
+
+◼️
+
+[Data](articles/b77efcb7.json)
+
+[Extended Data](ext_articles/b77efcb7.ext.json)
 
 ---
 
@@ -163,6 +261,30 @@ A new system has been implemented to apply for a passport for the facility of pa
 [Data](articles/9e8e93e4.json)
 
 [Extended Data](ext_articles/9e8e93e4.ext.json)
+
+---
+
+### China to build 1,996 low income houses in Sri Lanka with grant
+
+*2024-11-06 10:44:00* · [`economynextcom`](https://economynext.com/china-to-build-1996-low-income-houses-in-sri-lanka-with-grant-186230/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved the construction of 1,996 low-income housing units, or flats, with money provided by the Chinese government.
+
+Bids have been invited from 8 bidders nominated by the Chinese government to implement the project.
+
+“The Chinese government is funding it, and the construction will be granted to Chinese contractors,” Cabinet spokesman Minister Vijitha Herath told reporters.
+
+The contract for construction of 575 housing units at Moratuwa and 108 housing units at Kottawa was awarded to China Railway 25th Bureau Group Company Ltd.
+
+The Dematagoda 586 housing units and Maharagama 112 units construction contract was given to China Harbour Engineering Company Ltd (CHEC)
+
+The construction of 615 housing units in Peliyagoda was awarded to Shanxi Construction Investment Group Co.
+
+◼️
+
+[Data](articles/37604340.json)
+
+[Extended Data](ext_articles/37604340.ext.json)
 
 ---
 
@@ -284,6 +406,28 @@ Accordingly, the proposal made by the Minister of Transport, Highways, Ports and
 
 ---
 
+### Sri Lanka rupee opens steady at 293.00/05 to dollar, bond yields flat
+
+*2024-11-06 10:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-steady-at-293-00-05-to-dollar-bond-yields-flat-186228/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened flat at 293.00/05 to the US dollar Wednesday, dealers said, from 293.00/15 Tuesday, while bond yields were steady.
+
+A bond maturing on 15.12.2027 was quoted at 11.45/50 percent, from 11.40/55 percent.
+
+A bond maturing on 15.03.2028 was quoted at 11.65/75 percent, down from 11.68/78 percent.
+
+A bond maturing on 15.06.2029 was quoted stable at 11.95/12.05 percent.
+
+In equities, Colombo’s All Share Price Index opened down 0.72 percent, or 91.59 points lower at 12,704, while the S&P SL20 of more liquid stocks opened down 1.12 percent or 43.23 points lower at 3,809.
+
+◼️
+
+[Data](articles/07e298ed.json)
+
+[Extended Data](ext_articles/07e298ed.ext.json)
+
+---
+
 ### The only political party we are life
 
 *2024-11-06 10:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202957) · `si`
@@ -305,6 +449,38 @@ Addressing a meeting held at the Gampaha area, Entrepreneering Dilith Jayaweera 
 [Data](articles/4f83c36b.json)
 
 [Extended Data](ext_articles/4f83c36b.ext.json)
+
+---
+
+### The way the public service has so far has to change
+
+*2024-11-06 09:57:01* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවය-මෙතෙක්-කටයුතු-කළ-ආකාරය-වෙනස්-විය-යුතුයි/11-412880) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake calls for public service reform, emphasizing anti-corruption efforts and independent governance. He stresses the importance of state officials in rural development and economic growth over the next five years.
+
+🟩
+
+President Anura Kumara Dissanayake said that the poverty of rural people and social status in the next five years is a major purpose of the rural people's economy and social status.
+
+The President made these comments at the Presidential Secretariat with the Sri Lanka Administrative Service Association yesterday (05).
+
+President Anura Kumara Dissanayake said that the support of state officials is essential to a success of the government.
+
+The President pointed out that the government's administration should change the way the government's administration so far.
+
+President Anura Kumara Dissanayake said that the importation of corruption is a government's leading role and that the country's projects are not possible due to fraud and corruption.
+
+The President also emphasized that the political authority in the public service will not be carried out by the political authority and the government officials have provided the opportunity to act independently.
+
+...
+
+[Data](articles/c03a792a.json)
+
+[Extended Data](ext_articles/c03a792a.ext.json)
 
 ---
 
@@ -862,6 +1038,32 @@ The bodies are placed at the morgue of the Avissawella hospital morgue and Kosga
 
 ---
 
+### Sri Lanka’s Adani-JKH terminal gets quay and yard cranes
+
+*2024-11-06 06:44:00* · [`economynextcom`](https://economynext.com/sri-lankas-adani-jkh-terminal-gets-quay-and-yard-cranes-186225/) · `en`
+
+ECONOMYNEXT – A container terminal built by India’s Adani group and John Keells Holdings in Colombo Port has received the first batch of quay and yard cranes, the project’s Sri Lanka partner has said.
+
+“The construction and installation works on the West Container Terminal (WCT-1) at the Port of Colombo is progressing well,” Krishan Balendra, chairman of JKH told shareholders in an  interim report of the group.
+
+“The first batch of quay and yard cranes arrived in September 2024, following which the commissioning is expected to be completed by the third quarter of 2024/25.”
+
+The first phase of the terminal will start operations in the fourth quarter of 2024/2025, he said.
+
+JKH already runs South Asia Gateway Terminals, in Colombo Port.
+
+“Profitability at SAGT recorded an increase driven by a growth in volumes and an improvement in the mix,” he said.
+
+“Volume growth was on account of increases in both domestic and transshipment volumes.”
+
+...
+
+[Data](articles/9ea6ad15.json)
+
+[Extended Data](ext_articles/9ea6ad15.ext.json)
+
+---
+
 ### US Presidential Election: Trump Front
 
 *2024-11-06 06:42:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்கா-ஜனாதிபதி-தேர்தல்-ட்ரம்ப்-முன்னிலை/50-346636) · `ta`
@@ -887,6 +1089,24 @@ Trump has so far received 23 Electrical College votes and Kamala Harris 3 votes
 [Data](articles/7518e891.json)
 
 [Extended Data](ext_articles/7518e891.ext.json)
+
+---
+
+### Sri Lanka’s John Keells Holdings returns to profit in Sept quarter
+
+*2024-11-06 06:21:00* · [`economynextcom`](https://economynext.com/sri-lankas-john-keells-holdings-returns-to-profit-in-sept-quarter-186216/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s John Keells Holdings reported profits of 1.36 billion rupees in the September 2024 quarter from a loss of 574 million rupees last year, helped by lower financial costs and stronger revenues and margins including from shipping and consumer goods.
+
+The group reported earnings of 91 cents per share for the quarter (JKH also made a rights issue). For the six months to September JKH reported earnings of 33 cents per share on total profits of 499 million rupees, down from 892 million last year.
+
+Group profits were helped by a 1.94 billion rupees non-cash gain on a 213 million US dollar loan owed by Waterfront Properties (Pvt) Ltd as the rupee appreciated. Rupee appreciation also reduced translated income from Maldivian resorts.
+
+With the partial conversion of the convertible debentures issued to HWIC Asia Fund (HWIC) in February 2024, the interest cost on the instrument fell to 550 million rupees from 991 million rupees, JKH said.
+
+...
+
+[Data](articles/b8de24e2.json)
 
 ---
 
@@ -2121,251 +2341,5 @@ Ceylinco General Insurance was honored as the sole general insurer at LMD’s re
 [Data](articles/570cd73c.json)
 
 [Extended Data](ext_articles/570cd73c.ext.json)
-
----
-
-### “Understand Your Market Competition & Consumer”
-
-*2024-11-05 19:18:00* · [`islandlk`](http://island.lk/understand-your-market-competition-consumer/) · `en`
-
-The National Chamber of Commerce of Sri Lanka, announces an exclusive one-day workshop titled, “Understand Your Market Competition & Consumer: Market Research Insights and Analytics for Business Competitiveness” on October 7 from 9.00 a.m. to 4.00 p.m. at the National Chamber Auditorium.
-
-This workshop will empower participants with vital market research skills, helping them understand customer behavior, identify new market opportunities, and optimize marketing strategies. Through practical applications and real-world insights, participants will learn to design, measure, and interpret marketing performance to drive ROI and improve business competitiveness.
-
-Resource Team Lead: Waruna Kathriarachchi, a market research expert and former Director at Nielsen Sri Lanka, will lead the session, sharing insights from his 25+ years of research and analytics experience across multiple industries including FMCG, Telecom, and Finance.
-
-...
-
-[Data](articles/e5dffcc7.json)
-
-[Extended Data](ext_articles/e5dffcc7.ext.json)
-
----
-
-### Nation Lanka Finance going for private placement of 30 billion ordinary shares
-
-*2024-11-05 19:14:00* · [`islandlk`](http://island.lk/nation-lanka-finance-going-for-private-placement-of-30-billion-ordinary-shares/) · `en`
-
-Nation Lanka Finance is in the process of going for a private placement of 30 billion ordinary shares at 10 cents per share to meet working capital requirements.
-
-Five billion ordinary shares will be issued initially and subsequently 25 billion ordinary shares, to Sugath Rathnawardana Holding Ceylon (Pvt) Limited, the finance company said. The company has received approval in principle from the Central Bank of Sri Lanka subject to necessary regulatory approvals.
-
-Nation Lanka Finance’s current stated capital is Rs 4.1 billion (4,108,420,583.00) and the new funds will “meet the Core Capital Requirement and the funds will be utilized to meet working capital requirements, the company said.
-
-...
-
-[Data](articles/eac95eed.json)
-
-[Extended Data](ext_articles/eac95eed.ext.json)
-
----
-
-### Former Deputy Minister's penalties
-
-*2024-11-05 18:59:59* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-නියෝජ්‍ය-ඇමතිගේ-දඩුවම-තහවුරුයි/11-412873) · `si`
-
-Former Deputy Minister Shantha Premaratne convicted bribery Rs. 50,000 CEB case. Colombo High Court sentenced 4 years. Court of Appeal upheld verdict.
-
-🟩
-
-Former Deputy Minister Shantha Premaratne was convicted of the charges of a bribe of Rs.
-
-The Court of Appeal, the Court of Appeal and the punishment of the Court of Appeal to discard himself to discard his or sentenced to death and sentenced the appeal of the Colombo High Court.
-
-Court of Appeal Judge Sampath Abeykoon and P. The panel of judges who responded by Kumaran Ratnam was published.
-
-In the year 2007, the Electricity Board (CEB) is given a job in the Electricity Board. The Bribery Commission had filed a case against the accused against the accused by Punchinona receives Rs. 50,000.
-
-Colombo High Court Judge Piyasena Ranasinghe decided to be guilty of the accused against the accused against the accused and sentenced to four years.
-
-Court of Appeal Court of Appeal Court. Kumaran Ratnam was published by Mr. Kumaran Ratnam.
-
-...
-
-[Data](articles/01ba682c.json)
-
-[Extended Data](ext_articles/01ba682c.ext.json)
-
----
-
-### Meeting with British High Commissioner Defense Secretary
-
-*2024-11-05 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/197978) · `ta`
-
-Here's a 200-character summary:
-
-
-
-British High Commissioner Andrew Patturik met Defense Secretary Air Vice Marshal Sampath at Sri Jayawardenapura fortress. Discussion focused on bilateral significance and mutual importance. Ministry of Defense representative Padman de Kosta and British Defense Advisor also attended.
-
-🟩
-
-British High Commissioner to Sri Lanka Andrew Patturik Defense Secretary Air Vice Marshall Sampath Sampath (Retired) on Tuesday (05) met with honor at the security headquarters in the fortress, Sri Jayawardenapura.
-
-During the meeting, there was a smooth discussion between the Defense Secretary and the British High Commission on the bilateral significance and mutual importance.
-
-Air Vice Marshal Padman de Kosta of the Ministry of Defense Ministry and the Defense Advisor of the British High Commission in Colombo was also present.
-
-◼️
-
-[Data](articles/13566367.json)
-
-[Extended Data](ext_articles/13566367.ext.json)
-
----
-
-### Mahela and the group fired a 10 storey ward complex in the business of cancer patients
-
-*2024-11-05 18:41:20* · [`adalk`](https://www.ada.lk/picture_story/මහේල-ඇතුළු-කණ්ඩායම-පිළිකා-රෝගීන්-වෙනුවෙන්-කරාපිටියේ-මහල්-10ක-වාට්ටු-සංකීර්ණයක්-හදයි/10-412871) · `si`
-
-Mahela Jayawardene and team sign MoU for 10-storey ward complex for cancer patients. Project funded by Colonts' Limited Foundation and Ministry of Health. Defense Secretary Air Vice Marshal Tyyakantha and Health Ministry Secretary Dr. PG. Maheepala sign legal documents. Senior military officers and Health Ministry officials attend ceremony.
-
-🟩
-
-The MoU at the Kalpitiya Teaching Hospital, Galle Teaching Hospital, was signed in the Ministry of Defense, Sri Jayawardenapura Kotte complex today (Nov 5).
-
-Defense Secretary Air Vice Marshal Resources Tyyakantha (Retired), Health Ministry Secretary Dr. PG. Maheepala and Colors De Cost (Guarantee Limide) will facilitate free labor contribution by the MoU with Mahela Jayawardene and Dean Gomez.. Signing of legal documents was carried out by the Ministry of Defense this morning.
-
-The project is funded by the Colonts' Limited Foundation for Mahela Jayawardene and the Ministry of Health.
-
-A group of senior officers, senior military officers and Health Ministry officials including the Ministry of Defense and the Ministry of Defense Association Air Vice Marshal Padmans were also present at the occasion.
-
-◼️
-
-[Data](articles/0469ac25.json)
-
-[Extended Data](ext_articles/0469ac25.ext.json)
-
----
-
-### Jerome and villagers clash
-
-*2024-11-05 18:31:33* · [`adalk`](https://www.ada.lk/breaking_news/ජෙරොම්-හා-ගම්වැසියන්-ගැටෙයි/11-412870) · `si`
-
-Villagers protest construction of mental facility near church. Police intervene. Villagers claim unaware of project. School security officers leave due to opposition.
-
-🟩
-
-The security officers of the Jerome Pastor, who had come to the construction of a mental confrontory children and the security officers of the Jewrum Pastor and Nawalapitiya (05) was severely tense.
-
-The tense situation was caused by the Jerome Pastor to the construction of a mentally assembled of mental confusion in Nawalapitiya.
-
-The Nawalapitiya Police had to intervene to control the victorious situation between the villagers and the school.
-
-The villagers accused the construction of a religious place, saying that a child rehabilitation center was to build a resource placement and had not been made aware of the construction of a government agency.
-
-Sinhala Tamil Muslim Burghers in Nawalapitiya will live very supportively and that such people among the nations will not allow peace in the Nawalapitiya area.
-
-The school Jerome and his security officials left the place in the face of strong opposition from the villagers.
-
-◼️
-
-[Data](articles/efc45cc5.json)
-
-[Extended Data](ext_articles/efc45cc5.ext.json)
-
----
-
-### Who is the next President of the United States?: Tomorrow will be known
-
-*2024-11-05 18:29:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்காவின்-அடுத்த-ஜனாதிபதி-யார்-நாளை-தெரியவரும்/50-346610) · `ta`
-
-Next US President: Biden's term ends Jan 2025. Election on Nov 5, 2024. Kamala Harris (Democrat) vs Donald Trump (Republican). Advance voting underway. Polls close today, results expected soon.
-
-🟩
-
-US President Joe Baiden's term ends with January next year. Election arrangements to elect the next president have begun earlier this year.
-
-It was announced that the US presidential election would be held on November 5. With the presidential election, the election is held for the members of the House of Representatives (435 members) and 34 members of the Senate.
-
-It has been announced that 13 state and regional governor's posts and local elections will be held in many states.
-
-Current Vice Chancellor Kamala Harris contests on behalf of the ruling Democratic Party. Former President Donald Trump is contesting on behalf of the opposition Republican. There is a direct competition between the two party candidates.
-
-The US law also has the facility to vote in advance election. More than 7 crore voters have already voted using this facility. Presidential candidate Kamala Harris made her vote yesterday by e-mail.
-
-...
-
-[Data](articles/9a53ff70.json)
-
-[Extended Data](ext_articles/9a53ff70.ext.json)
-
----
-
-### Criminal charges against STF officers regarding Brember - Attorney General
-
-*2024-11-05 18:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202941) · `si`
-
-STF officers charged over Brember incident: Attorney General informs court about suspect's hidden weapon. Victim Mahesi Indika (26) died during arrest. Inspector Colombage also accused. Case filed against STF and Inspector Colombo.
-
-🟩
-
-The Attorney General has informed the court on the occasion as a suspect had been informed of the deceased in a weapon hidden weapon.
-
-The incident had occurred when he had gone to show a firearm hidden in the jungle near the Bunduwatta Guru Principal in the Ekungalandulla Police Division.
-
-The deceased was the suspect who was arrested in front of Ahangalla stars in Galle Road on October 12, 202.
-
-Inspector Colombage was also ordered to be arrested in this regard and the court was being ordered to be heard at the High Court.
-
-Accordingly, the Attorney General has informed the above explanation by letter.
-
-The victim was a 26 year old resident of the Kandamalwila, the 26-year-old Mahesi Indika.
-
-The relatives of the Police Special Task Force have taken the case against the police STF opposition to the court against the police Inspector Colombo.
-
-◼️
-
-[Data](articles/2a87a334.json)
-
-[Extended Data](ext_articles/2a87a334.ext.json)
-
----
-
-### NBRO issues landslide warnings for 8 districts
-
-*2024-11-05 18:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103189/nbro-issues-landslide-warnings-for-8-districts) · `en`
-
-The National Building and Research Organisation (NBRO) has issued early landslide warnings to multiple areas in eight districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (06).
-
-Accordingly, a Level 1 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSD) and surrounding areas in the Badulla, Galle, Kalutara, Kandy, Kegalle, Kurunegala, Matara and Ratnapura districts as follows:
-
-Matara – Kotapola, Akuressa and Pasgoda DSDs and surrounding areas
-
-Ratnapura – Elapatha, Ayagama, Openayake, Kiriella, Nivithigala, Kahawatta, Pelmadulla, Imbulpe, Balangoda, Godakawela and Kalawana DSDs and surrounding areas
-
-Meanwhile, a Level 2 (Yellow) warning was issued for the following areas:
-
-Kegalle – Kegalle, Dehiowita,  Yatiyanthota, Bulathkohupitiya, Ruwanwella, Warakapola,  Deraniyagala, Aranayake and  Galigamuwa  DSDs and surrounding areas
-
-...
-
-[Data](articles/4952f6e7.json)
-
-[Extended Data](ext_articles/4952f6e7.ext.json)
-
----
-
-### Assembled BMW. Businessman arrested for car
-
-*2024-11-05 18:25:32* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-කළ-බී-එම්-ඩබ්ලිව්--මෝටර්-රථයකට-ව්‍යාපාරිකයෙක්-අල්ලයි/11-412869) · `si`
-
-BMW businessman arrested for allegedly hiding a stolen car using an assembly vehicle to support sales. CID assembled sections of imported car during investigation.
-
-🟩
-
-The Criminal Investigations Department (CID) has assembled the sections of a car in a car vehicle imported to the country.
-
-Police say they are allegations of hiding a stolen car against the suspect, using an assembly vehicle, and to support the sale of the suspects.
-
-He said that the vehicle was imported to the country and the individuals who were designed for the country and the persons who were designed to be collected and the suspected persons were conducting further investigations.
-
-◼️
-
-[Data](articles/3c507baf.json)
-
-[Extended Data](ext_articles/3c507baf.ext.json)
 
 ---

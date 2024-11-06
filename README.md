@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 16:40:22**
+As of **2024-11-06 16:57:53**
 
 ## Newspaper Stats
 
-*Scraped **53,379** Articles*
+*Scraped **53,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,167 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,985
+adalk | 4,987
 adaderanalk | 6,359
-tamilmirrorlk | 7,435
-virakesarilk | 8,631
-adaderanasinhalalk | 9,305
+tamilmirrorlk | 7,436
+virakesarilk | 8,635
+adaderanasinhalalk | 9,306
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,379 (100.0%) of 53,379 articles have been extended.
+53,382 (100.0%) of 53,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### வாக்களிக்க மறுத்தவரின் உறவை முறித்த பெண்
+
+*2024-11-06 16:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்களிக்க-மறுத்தவரின்-உறவை-முறித்த-பெண்/50-346672) · `ta`
+
+வருங்கால கணவர் அமெரிக்க தேர்தலில் வாக்களிக்க மறுத்ததால் நிச்சயதார்த்தத்தோடு, திருமணத்தை முடிக்க விரும்புவதாக, பெண் ஒருவர் கூறியது இணையத்தில் வைரலாகி வருகிறது.
+
+உலகமே எதிர்பார்த்த அமெரிக்க அதிபர் தேர்தலுக்கான வாக்குப்பதிவு நேற்று ஆரம்பமானது . வாக்குப்பதிவு முடிந்ததும் உடனே வாக்கு எண்ணிக்கை நடைபெற்றது.
+
+வாக்கு எண்ணிக்கை தொடங்கியது முதலே முன்னிலையில் இருந்த குடியரசு கட்சி வேட்பாளர் டொனால்டு டிரம்ப் தற்போது 277 இடங்கள் வரை வெற்றி பெற்றுள்ளார். கமலா ஹாரி 226 இடங்களில் மட்டுமே வெற்றி பெற்றுள்ளார்.
+
+அமெரிக்க அதிபர் தேர்தல் முடிவுகள் இணையத்தில் உலாவும் நேரத்தில் வாக்களிக்கத் தவறியதால், தனது வருங்கால கணவருடனான நிச்சயதார்த்தத்தை முறித்துக் கொள்ள விரும்புவதாகக் கூறி  பெண் ஒருவர் இணையத்தில் விவாதத்தைத் தூண்டியுள்ளார். (AN)
+
+◼️
+
+[Data](articles/ed337515.json)
+
+---
+
+### Chinese Ambassador's hope in the leadership of Anura
+
+*2024-11-06 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198029) · `ta`
+
+Chinese Ambassador Key Senhong praised Sri Lanka under President Anura Kumara Dissanayake's leadership, expressing confidence in overcoming challenges and reviving the economy. The long-standing friendship between China and Sri Lanka was highlighted, with China committing to ongoing support during Sri Lanka's new era.
+
+🟩
+
+Under the strong leadership of President Anura Kumara Dissanayake, Kei Senhong said that the Sri Lankan government and the people of Sri Lanka can certainly confident, overcome the challenges and challenges, quickly recover from difficulties and revive the economy.
+
+Chinese ambassador Key Senhong, who visited there, first paid tribute to the heroes who bravely fought against the colonialism and invasion of Chinese and Sinhala languages.
+
+The Ambassador, who continued, said that the loving reception of the students once again illustrates the brotherhood between the Chinese and the Sri Lankan people.
+
+China and Sri Lanka are far from, but our friendly exchange has been lasted for over 2,000 years
+
+...
+
+[Data](articles/7dafe7af.json)
+
+[Extended Data](ext_articles/7dafe7af.ext.json)
+
+---
+
+### Actress Oviya starrer 'Xavier'
+
+*2024-11-06 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198056) · `ta`
+
+Oviya stars in Xavier, a Tamil comedy film featuring Harbhajan Singh. Directed by John Balraj, it combines humor, horror, and unexpected hospital settings. The teaser is upcoming.
+
+🟩
+
+The new film, starring Harbhajan Singh, a former spinner and actor of the Indian cricket team, has been named 'Xavier' and has released the appearance of the character he adopted.
+
+Harbhajan Singh, Oviya, G.. B.. Muthu, VDV Ganesh and many others have acted.
+
+TM Udayakumar has composed the film, which has been recorded by Manik. The film was produced by director John Balraj on behalf of Santova Studios.
+
+Commenting on the film, producer and director John Balraj said, “The film's screenplay is set up with humor, horror and unexpected turns in the backdrop of the hospital.
+
+Currently we have released the appearance of the role that the actors are loaded with. The hero of the story, Harbhajan Singh - Dr. James Malhotra, and the character of Oviya - Varna. B.. They appear in the role of Muthu - Muthu Mama and VDV Ganesh - Katapara Ganesan. The teaser will be released soon. ”
+
+...
+
+[Data](articles/78ee4bdb.json)
+
+[Extended Data](ext_articles/78ee4bdb.ext.json)
+
+---
+
+### Due to lack of concern, corruption and abuse of workers, I decided to quit the party.
+
+*2024-11-06 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198055) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former worker quits party due to corruption, neglect of workers' welfare. Criticizes new members, accuses party of misusing funds, selling offices, and cheating workers. Calls for election of honest members to combat national corruption.
+
+🟩
+
+The Ceylon Workers Congress, built by workers, is traveling today. Newcomers, who are not concerned about the welfare of the workers, spend time in the process of getting broke out, and involvement in senior members.. "If there is more than that, we will have to quit because of our self -interest," said Arulanandam Philipkumar, a former member of the Central Provincial Council and a former member of the Central Provincial Council.
+
+He was speaking at a media briefing held at Attan on Tuesday (05).
+
+I have been working in the Congress for the past 38 years. I made this meeting today with the pride that there were no accusations against me in all these years. People have to know some facts about the conditions of the current party.
+
+Whether it is a housing plan and what developments, new members of the party and high -ranking dignitaries are working on the commission.
+
+...
+
+[Data](articles/807a434f.json)
+
+[Extended Data](ext_articles/807a434f.ext.json)
+
+---
+
+### නායකත්වයේ වගකීමත් අතැතිව ශ්‍රේණිගත කිරීම් හී ඉදිරියට පැමිණි අසලංක
+
+*2024-11-06 16:21:03* · [`adalk`](https://www.ada.lk/sports/නායකත්වයේ-වගකීමත්-අතැතිව-ශ්‍රේණිගත-කිරීම්-හී-ඉදිරියට-පැමිණි-අසලංක/9-412890) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් නවතම ශ්‍රේණිගත කිරීම් ප්‍රකාශයට පත් කර තිබේ.
+
+ඒ අනුව එක්දින ක්‍රිකට් පිතිකරුවන් ශ්‍රේණිගත කිරීම් හී ශ්‍රී ලංකා නායක චරිත් අසලංක 10 වැනි ස්ථානය දක්වා ස්ථාන 2කින් ඉදිරියට පැමිණ ඇත.
+
+එම ශ්‍රේණිගත කිරීම් හී පැතුම් නිස්සංක තවදුරටත් 07 වැනි ස්ථානයේ රැදී සිටින්නේය.
+
+මේ අතර කුසල් මෙන්ඩිස් 35 වැනි ස්ථානය දක්වා එක් ස්ථානයකින් ඉදිරියට පැමිණ ඇත.
+
+◼️
+
+[Data](articles/e75a7269.json)
+
+---
+
+### අගමැතිනිය හා ICC ජ්‍යෙෂ්ඨ නිලධාරීන් අතර හමුවක්
+
+*2024-11-06 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202974) · `si`
+
+අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය සහ ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලයේ (ICC) අඛණ්ඩතාව සහ මානව සම්පත් පිළිබඳ සාමාන්‍යාධිකාරී ඇලෙක්ස් මාර්ෂල් මහතා අතර හමුවක් ඊයේ (05) අග්‍රාමාත්‍ය කාර්යාලයේදී පවත්වා තිබේ.
+
+අයි. සී. සී. දූෂණ මර්දන ඒකකයේ අභිනවයෙන් පත් වූ ස්වාධීන සභාපති, ජනාධිපති නීතිඥ සුමති ධර්මවර්ධන මහතා ද මෙම අවස්ථාවට එක්විය.
+
+මෙහිදී ඇලෙක්ස් මාෂල් මහතා පසුගිය වසර හත තුළ ක්‍රිකට් ක්‍රීඩාවේ දූෂණ ක්‍රියාවන්ට එරෙහිව ශ්‍රී ලංකාව ලබා ඇති ප්‍රගතිය පිළිබඳ අවදානය යොමුකර තිබේ.
+
+එමෙන්ම ක්‍රීඩකයින්ගේ අධ්‍යාපනයේ වැදගත්කම සහ ක්‍රීඩා අමාත්‍යාංශයේ විශේෂ විමර්ශන ශක්තිමත් කිරීමේ අවශ්‍යතා පිළිබඳ පෙන්වා දී ඇත.
+
+මෙම සාකච්ඡාවට අයි. සී. සී. දූෂණ මර්දන ඒකකයේ  ජ්‍යෙෂ්ඨ කළමනාකාරු (මෙහෙයුම්) ඇන්ඩෲ එෆ්ග්‍රේව් මහතා, ජනාධිපති කාර්යාලයේ නීති අධ්‍යක්ෂ ජනරාල් ජ්‍යෙෂ්ඨ නීතීඥ විජේබණ්ඩාර මහතා,  ක්‍රීඩා අමාත්‍යාංශයේ අතිරේක ලේකම් එස්. ඉලේපෙරුම මහත්මිය සහ ක්‍රීඩා අධ්‍යක්ෂ ජනරාල් මහාචාර්ය ෂෙමාල් ප්‍රනාන්දු යන මහත්ම මහත්මීන් ද සහභාගී වූහ.
+
+◼️
+
+[Data](articles/3d625ae5.json)
+
+---
+
+### ஆயிரக்கணக்கான உயிர்களை பலியெடுக்கும் வீதி விபத்துக்கள்
+
+*2024-11-06 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198047) · `ta`
+
+'2019  - 2020  காலப்பகுதியில் வீதி விபத்துக்களால் உயிரிழந்தவர்கள் மற்றும் படுகாயமடைந்தோருக்கு அரசாங்கத்தால் 38.14 மில்லியன் ரூபா இழப்பீடு வழங்கப்பட்டுள்ளது. விபத்துக்கள் தனிநபர் அல்லது அவர்களது குடும்பங்களுக்கு அப்பால் அரசாங்கத்துக்கும் கூட பெரும் சுமையாகிறது.'
+
+◼️
+
+[Data](articles/c13acac6.json)
+
+---
 
 ### In the Central African Republic. Na. Sri Lanka Air Force to depart for peacekeeping
 
@@ -209,6 +355,24 @@ Packages 2 - Award the contract to the Conventions for the construction of 586 h
 [Data](articles/ca597aae.json)
 
 [Extended Data](ext_articles/ca597aae.ext.json)
+
+---
+
+### එල්ල වූ චෝදනා වලින් ෂාෆි නිදහස් කරයි - විඳපු දුකට අද නිමාවක් ලැබිලා තියෙනවා
+
+*2024-11-06 15:18:09* · [`adalk`](https://www.ada.lk/breaking_news/එල්ල-වූ-චෝදනා-වලින්-ෂාෆි-නිදහස්-කරයි---විඳපු-දුකට-අද-නිමාවක්-ලැබිලා-තියෙනවා/11-412889) · `si`
+
+මව්වරු වඳ කළ බවට චෝදනා කරමින් වෛද්‍ය ෂියාබ්දීන් මොහොමඩ් ෂාෆි  මහතාට එරෙහිව පවරා තිබූ නඩුවේ සියුළු චෝදනා වලින් ඔහුව නිදහස් කරන ලෙස   කුරුණෑගල මහේස්ත්‍රාත් අධිකරණය අද (06දා) නියෝග කළේය.
+
+ඒ අදාළ නඩුව අද කුරුණෑගල ප්‍රධාන මහෙස්ත්‍රාත්වරයා හමුවේ කැඳවනු ලැබු අවස්ථාවේදීයි.
+
+එම අවස්ථාවේ වෛද්‍ය ෂාෆි මාධ්‍ය වෙත මෙලෙස අදහස් දක්වා සිටියේය.
+
+“අවංකවම ඉතාම සතුටු දායක දවසක් අද. අවුරුදු 05යි මාස 06ක්. අද වන විට බොරු චෝදනාවකට, තමන්ගේ පුද්ගලික අවශ්‍යතාවයන් ඉටු කර ගැනීම සඳහා සමාජයක් මුල් කරගෙන මා සහ මගේ පවුලේ අය විඳපු දුකට අද නිමාවක් ලැබිලා තියෙනවා. ”
+
+◼️
+
+[Data](articles/29c95a73.json)
 
 ---
 
@@ -2195,205 +2359,5 @@ Bakery owners insist that the price of cake will be increased if the price of eg
 [Data](articles/64e63ecb.json)
 
 [Extended Data](ext_articles/64e63ecb.ext.json)
-
----
-
-### Parliament is the first step to female political leadership - Social Justice Candidate Sobitha
-
-*2024-11-06 08:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/197995) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sobitha Selvi Sivakaran emphasizes parliament as the first step towards female political leadership. She cites historical examples like Sirimavo Bandaranaike and Chandrika Kumaratunga. Sobitha believes promoting women in politics is crucial for effective governance, comparing a well-run household to a well-functioning government.
-
-🟩
-
-Selvi Sivakaran Sobhita, a female candidate for the social justice party in the Kandy district, said that the first step to female political leadership is.
-
-He was speaking at a meeting held at the Hindu Cultural Hall in Kandy.
-
-If there is no kitchen, it will not be a perfect home, and how much of a home administration is important in the country's administration. We have seen a number of women in Sri Lankan political history. In that line, Srimao was the Prime Minister and Chandrika decorated the posts of the Prime Minister and the President.
-
-Recently, Harini Amarasuriya was elected Prime Minister. In that order may many more may develop in the opposite period. It must be created by female leadership. I think parliament is the first step for such political female leadership.
-
-So women have to promote in this field. I have entered an early stage of political entry as a contribution to me on that basis. It is in your hands that no longer grow up.
-
-...
-
-[Data](articles/8b4a7bad.json)
-
-[Extended Data](ext_articles/8b4a7bad.ext.json)
-
----
-
-### Who is the main provinces?
-
-*2024-11-06 08:39:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முக்கிய-மாகாணங்களில்-யார்-முன்னிலை/50-346639) · `ta`
-
-Main provinces: Oklahoma, Missouri, Indiana, Kentucky, Tennessee, Alabama, Florida, West Virginia. Kamala Harris wins Vermont, New Hampshire, Massachusetts, Maryland, DC. 270+ votes needed to win.
-
-🟩
-
-In the US presidential election, voting results are being released from major provinces. In it, Donald Trump has won the provinces including Oklahoma, Missouri, Indiana, Kentucky, Tennessi, Alabama, Florida and West Virginia.
-
-As far as Kamala Harris is concerned, Vermont, New Hampshire, Massachusetts, Maryland, Districts of Columbia, have also received 81 selectors' votes.
-
-It is worth noting that whoever receives 270 or more votes in the US presidential election. Remble
-
-◼️
-
-[Data](articles/5f14cfa8.json)
-
-[Extended Data](ext_articles/5f14cfa8.ext.json)
-
----
-
-### US presidential election
-
-*2024-11-06 08:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197994) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US presidential election: Fierce competition between Trump and Harris. Key battlegrounds: Florida, Georgia, Michigan, Wisconsin. Final outcome uncertain due to close races and potential vote changes.
-
-🟩
-
-The BBC has said that the US presidential election has become extremely fiercely as many as many.
-
-It is evident that the US is facing a presidential election with another toughness, as it is impossible to predict the final results.
-
-The expectations of the two parties did not fulfill the expectation that a decisive change could occur in the final minute of the voters' choice.
-
-Former President Donald Trump has received great support in the Farable Grama Niladhari of 2020.
-
-Kamalaharis in the city and suburbs. He also got the support of Jobitan.
-
-Although these votes may change, Trump's biggest victories in Georgia North Colina have now returned to the states of the Democrats, also known as the Bluvol States.
-
-Kamala Haris's way to go to the White House is the Michigan Pennsylvania of Wiscons, as Haris's belief that Haris will win a decisive success.
-
-◼️
-
-[Data](articles/f2db4cfc.json)
-
-[Extended Data](ext_articles/f2db4cfc.ext.json)
-
----
-
-### Trump, Harris notch first statewide wins as polls close in US presidential race
-
-*2024-11-06 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103194/trump-harris-notch-first-statewide-wins-as-polls-close-in-us-presidential-race) · `en`
-
-Republican Donald Trump won 15 states in Tuesday’s U.S. presidential election while Democrat Kamala Harris captured seven states and Washington, D.C., Edison Research projected, but the contest remained undecided with critical battleground states unlikely to be called for hours or even days.
-
-The early results were as anticipated, with the contest expected to come down to seven swing states: Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin. Opinion polls showed the rivals neck and neck in all seven going into Election Day.
-
-As of 9:30 p.m. ET (0230 GMT on Wednesday), polls had closed in 41 states and Washington, D.C. Trump had 162 electoral votes to Harris’ 81 electoral votes, but both still had multiple paths to victory. A candidate needs a total of 270 votes in the state-by-state Electoral College to claim the presidency.
-
-Decision Desk HQ projected Trump would win North Carolina, but other media outlets and Edison had yet to call the race.
-
-...
-
-[Data](articles/dd2c6e89.json)
-
-[Extended Data](ext_articles/dd2c6e89.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-06 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103193/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers  or thundershowers will occur at several places in Central, Sabaragamuwa, Uva, Southern and Western provinces during the evening or night.
-
-Fairly heavy showers above 50mm are likely at some places while several spells of light showers may occur in Northern and North-western provinces.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/829521af.json)
-
-[Extended Data](ext_articles/829521af.ext.json)
-
----
-
-### Men deceived men and cash in cash
-
-*2024-11-06 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202952) · `si`
-
-Here's a 200-character summary:
-
-
-
-Computer Criminal Investigation North Western Unit arrests suspects involved in fraud scheme targeting men with financial scams.
-
-🟩
-
-The Computer Criminal Investigation North Western Unit has been arrested by the Computer Criminal Investigation North Western Provinces.
-
-◼️
-
-[Data](articles/3b6c04f3.json)
-
-[Extended Data](ext_articles/3b6c04f3.ext.json)
-
----
-
-### Gajendrakumar
-
-*2024-11-06 07:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-நாடகம்-போடுகிறார்-கஜேந்திரகுமார்/175-346638) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Gajendrakumar Ponnambalam's Tamil National People's Front broke away from TNA over seat allocation disputes. This move sparked controversy within Tamil politics.
-
-🟩
-
-MA Sumanthiran, a spokesman for the Sri Lanka Tamil National Alliance (TNA) and the Jaffna election district candidate, said that the Tamil National People's Front was the first to break the TNA.
-
-Yall. He said this at a media briefing held at Vadamarachchi Media Home on Tuesday.
-
-The first to break the Tamil National Alliance was the Tamil National People's Front.
-
-In the 2010 presidential election, Gajendrakumar Ponnambalam was one of the stage when the Tamil National Alliance (TNA) decided to support Sarath Fonseka, who killed the Tamil people.. He then left the Tamil National Alliance (TNA) due to the contradiction caused by the seat share during the parliamentary election.
-
-Gajendrakumar -led Tamil National People's Front (TNA) led by Gajendrakumar has been playing a blank political drama for the Tamil party.
-
-You don't see the loopholes in your party. You are shedding tears that you have broken the TNA. (A)
-
-◼️
-
-[Data](articles/07243ce3.json)
-
-[Extended Data](ext_articles/07243ce3.ext.json)
-
----
-
-### Thunderstorms today
-
-*2024-11-06 07:43:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-346637) · `ta`
-
-Thunderstorms forecasted for Central, Sabaragamuwa, Uva, Southern, and Western Provinces tonight. Slight rainfall predicted in northern and northwestern regions.
-
-🟩
-
-The Department of Meteorology said that rain or thunderstorms are expected in the Central, Sabaragamuwa, Uva, Southern and Western Provinces this evening or night.
-
-In a statement issued by the Department of Meteorology, the Department of Meteorology said that there is a slight rainfall in the northern and northwestern provinces.. (A)
-
-◼️
-
-[Data](articles/f10556ed.json)
-
-[Extended Data](ext_articles/f10556ed.ext.json)
 
 ---

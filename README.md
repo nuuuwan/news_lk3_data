@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 19:00:10**
+As of **2024-11-06 19:12:17**
 
 ## Newspaper Stats
 
-*Scraped **53,397** Articles*
+*Scraped **53,401** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,989
-adaderanalk | 6,364
-tamilmirrorlk | 7,436
+adalk | 4,990
+adaderanalk | 6,365
+tamilmirrorlk | 7,437
 virakesarilk | 8,635
-adaderanasinhalalk | 9,309
+adaderanasinhalalk | 9,310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,397 (100.0%) of 53,397 articles have been extended.
+53,398 (100.0%) of 53,401 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### පාස්පෝට් රිට් පෙත්සමේ රනිල්වත් වගඋත්තරකරුවෙක් ලෙස නම් කෙරේ
+
+*2024-11-06 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202979) · `si`
+
+විදේශීය සමාගම් දෙකකින් මෙරටට විදේශ ගමන් බලපත්‍ර මිලදී ගැනීමේ ක්‍රියාවලිය අභියෝගයට ලක් කරමින් අභියාචනාධිකරණය හමුවේ ගොනුකර තිබෙන රිට් පෙත්සමේ වගඋත්තරකරුවකු ලෙස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා නම්කර තිබේ.
+
+අදාළ මිලදී ගැනීම් අභියෝගයට ලක් කරමින් එපික් ලංකා පුද්ගලික සමාගම විසින් ගොනු කර ඇති පෙත්සමට අදාළව පෙත්සම්කාර පාර්ශ්වය විසින් මෝසමක් ඉදිරිපත් කරමින් එහි වගඋත්තරකරුවකු ලෙස රනිල් වික්‍රමසිංහ මහතා නම්කර ඇත.
+
+මෙම පෙත්සම අද (06) මොහොමඩ් ලෆාර් තාහීර් සහ පී. කුමාරන් රත්නම් යන අභියාචනාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එම අවස්ථාවේදී අදාළ පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් නම් කර තිබූ සමාගම් වෙනුවෙන් පෙනී සිටි නීතිඥවරුන් අධිකරණය හමුව කරුණු දක්වමින් ඊ- විදේශ ගමන් බලපත්‍ර මිලියන පහක් මිලදී ගැනීම වළක්වාළමින් අතුරු තහනම් නියෝගයක් නිකුත් කර ඇති නිසා තම සේවාදායකයින්ට දැඩි අගතියක් සිදුවී ඇති බව සඳහන් කළේය.
+
+මෙම අතුරු තහනම් නියෝගය නඩු විභාගය අවසන් වන තෙක් බල පැවැත්වෙන බව පෙන්වා දුන් එම නීතිඥවරුන් අදාළ අතුරු නියෝගය ඉවත් කිරීමේ නියෝගයක් නිකුත් කරන ලෙසත් ඉල්ලා සිටියේය.
+
+...
+
+[Data](articles/de707007.json)
+
+---
+
+### Landslide early warnings for 8 districts extended
+
+*2024-11-06 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103217/landslide-early-warnings-for-8-districts-extended) · `en`
+
+The National Building and Research Organisation (NBRO) has extended the early landslide warnings issued to multiple areas in eight districts, as heavy rainfall continues in parts of the island.
+
+The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (07).
+
+Accordingly, a Level 1 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Badulla, Galle, Kalutara, Kandy, Kegalle, Kurunegala, Matara and Ratnapura districts as follows:
+
+Matara – Pasgoda, Akuressa and Kotapola DSDs and surrounding areas
+
+Ratnapura – Godakawela, Imbulpe, Nivithigala, Openayake, Elapatha, Balangoda, Kalawana, Ayagama, Pelmadulla, Kiriella and Kahawatta DSDs and surrounding areas
+
+Meanwhile, a Level 2 (Yellow) warning was issued for the following areas:
+
+Kegalle – Deraniyagala, Ruwanwella, Dehiowita, Yatiyanthota, Kegalle, Galigamuwa, Bulathkohupitiya, Warakapola and Aranayake DSDs and surrounding areas
+
+...
+
+[Data](articles/26bdaec1.json)
+
+---
+
+### Recovery of the arrested three under PTA
+
+*2024-11-06 18:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PTA-இன்-கீழ்-கைதான-மூவர்-விடுவிப்பு/175-346674) · `ta`
+
+Three accused acquitted under PTA; released on bail after investigation completion. Case transferred to High Court due to ongoing Supreme Court review.
+
+🟩
+
+Vavuniya High Court Judge Ilanjaziyan on Wednesday (06) acquitted three persons who were arrested and released on bail under the Prevention of Terrorism Act.
+
+Sri Subramaniam Girija, Kandapu Kayendran from Periyankulam, Vavuniya, and Kakkai Singam Kandaruban from Poonthottam were released.
+
+In the month of January 2019, the trio were arrested in connection with the information available in the month of Thai, which was found to be detained by the harmful weapons, climber bombshell.. Based on a police investigation, the B Report was prepared and a case was filed against the Vavuniya Magistrate's Court.
+
+They were released on bail as he was being investigated in court.
+
+Investigations have been completed in the Magistrate's Court against the enemy and the Attorney General's Department has received advice and filed a case in the Vavuniya High Court.
+
+The verdict was held on Wednesday (06) as the case was continuously under investigation in the Supreme Court.
+
+In his judgment, Justice Maj.
+
+◼️
+
+[Data](articles/c240fd94.json)
+
+[Extended Data](ext_articles/c240fd94.ext.json)
+
+---
 
 ### Former Excise Commissioner, including 4, extends the pledge
 
@@ -57,6 +131,24 @@ Therefore, the lawyer asked the court to be released from these cases.
 [Data](articles/e72e19b2.json)
 
 [Extended Data](ext_articles/e72e19b2.ext.json)
+
+---
+
+### ගාල්තැන්නේ කපුවාට අයත් තවත් සැක ජීප් රියක් පොලීසිය භාරයට
+
+*2024-11-06 17:37:29* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්තැන්නේ-කපුවාට-අයත්-තවත්-සැක-ජීප්-රියක්-පොලීසිය-භාරයට/11-412893) · `si`
+
+වාහන සිද්ධියක් සම්බන්ධයෙන් දැනට රක්ෂිත බන්ධනාගාරගතව සිටින ගාල්තැන්නප්‍රදේශයේ ප්‍රසිද්ධ දේවාලයක දේව ගැතිවරයාගේ වාහන අංගනයේ තිබූ තවත් සැකකටයුතු රුපියල් කෝටි ගණනක් වටිනා මිට්සුබිෂි මොන්ටේරෝ වර්ගයේ සුඛෝපභෝගී ජීප්රියක් සැකපිට අත්අඩංගුවට ගත බව තෙල්දෙණිය පොලිසිය කියයි.
+
+තෙල්දෙණිය කොට්ඨාස භාර ජේෂ්ඨ පොලිස් අධිකාරි රොෂාන් අමරසිංහ මහතාගේ උපදෙස් පරිදි එම සුඛෝපභෝගී ජීප් රිය අත්අඩංගුවට ගෙන තිබේ.
+
+දේවගැතිවරයාට අයත් බව කියන එම ජීප් රිය සම්බන්ධයෙන් සිදුකළ දීර්ඝ විමර්ශනයකට අනුව එම අංකයට ලියාපදිංචි කළ තවත් මොන්ටේරෝ වර්ගයේ සුඛෝපභෝගී ජීප්රියක් කුලියාපිටිය ප්‍රදේශයේ තිබෙන බවට අනාවරණය වීමෙන් පසු එහි නීත්‍යානුකූල හිමිකරුගෙන් විමර්ශන නිලධාරීන් විසින් ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව ගල්තැන්නේ ව්‍යාජ අංක තහඩු සහිත සුඛෝපභෝගී ජීප්රිය තෙල්දෙණිය කොට්ඨාශ අපරාධ විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ .
+
+මෙම දේව ගැතිවරයාගේ ගාල්තැන්නේ පිහිටි වාහන අංගනයේ සැක කටයුතු වාහන දොළහක් පමණ තිබෙන බව පවසන පොලිසිය ඩිෆන්ඩර් රථ, මොන්ටේරෝ වර්ගයේ ජීප් රථ.කාර් රථ ඇතුළු වාහන ගණනාවක් ඇති බවද පොලිසිය කියයි.
+
+...
+
+[Data](articles/523241da.json)
 
 ---
 
@@ -2281,113 +2373,5 @@ Addressing a meeting held at the Gampaha area, Entrepreneering Dilith Jayaweera 
 [Data](articles/4f83c36b.json)
 
 [Extended Data](ext_articles/4f83c36b.ext.json)
-
----
-
-### The way the public service has so far has to change
-
-*2024-11-06 09:57:01* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-සේවය-මෙතෙක්-කටයුතු-කළ-ආකාරය-වෙනස්-විය-යුතුයි/11-412880) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake calls for public service reform, emphasizing anti-corruption efforts and independent governance. He stresses the importance of state officials in rural development and economic growth over the next five years.
-
-🟩
-
-President Anura Kumara Dissanayake said that the poverty of rural people and social status in the next five years is a major purpose of the rural people's economy and social status.
-
-The President made these comments at the Presidential Secretariat with the Sri Lanka Administrative Service Association yesterday (05).
-
-President Anura Kumara Dissanayake said that the support of state officials is essential to a success of the government.
-
-The President pointed out that the government's administration should change the way the government's administration so far.
-
-President Anura Kumara Dissanayake said that the importation of corruption is a government's leading role and that the country's projects are not possible due to fraud and corruption.
-
-The President also emphasized that the political authority in the public service will not be carried out by the political authority and the government officials have provided the opportunity to act independently.
-
-...
-
-[Data](articles/c03a792a.json)
-
-[Extended Data](ext_articles/c03a792a.ext.json)
-
----
-
-### World's first woody satellite into space
-
-*2024-11-06 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202956) · `si`
-
-Here's a 200-character summary:
-
-
-
-First wooden satellite launched: Chandrika. Pre-research for lunar/mars missions. Named Lignosat. Japanese company copies design. Stays in orbit 6 months. Tests timber's response to extreme temperatures.
-
-🟩
-
-The world's first timber Chandrika was the first timber Chandrika in the United States at the Kennedy Space Strate.
-
-The space journey is a pre-research on the use of timber for the moon and Mars.
-
-The satellite was copied by a Japanese company and a Japanese company at the University of Kyoto University of Japan.
-
-It is named named 'Lignosat' which means timber in Latin language.
-
-The space journey is a pre-research on the use of timber for the moon and Mars.
-
-Lignocat satellite is due to stay in the Earth orbit for a period of six months.
-
-The temperature in space is likely to change from 100 degrees Celsius every 45 minutes.
-
-Investigation from the satellite electronic components of the satellite, the timber responding to the distinction of those outstanding temperatures.
-
-◼️
-
-[Data](articles/c318ea95.json)
-
-[Extended Data](ext_articles/c318ea95.ext.json)
-
----
-
-### A special meeting of the Election Commission today
-
-*2024-11-06 09:45:19* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-කොමිසමේ-අද-විශේෂ-රැස්වීමක්/11-412879) · `si`
-
-Election Commission summons special meeting to discuss general election. District Releasing Officers and District Returning Officers attend.
-
-🟩
-
-The Election Commission has summoned a special meeting to discuss the general election.
-
-District Releasing Officers including the District Returning Officers have been called for the meeting.
-
-◼️
-
-[Data](articles/7f846027.json)
-
-[Extended Data](ext_articles/7f846027.ext.json)
-
----
-
-### EC summons officials to discuss preparations for Parliamentary Election
-
-*2024-11-06 09:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103198/ec-summons-officials-to-discuss-preparations-for-parliamentary-election) · `en`
-
-District Returning Officers and Assistant Election Commissioners have been summoned to the Election Commission today (06) to discuss preparations for the upcoming parliamentary election.
-
-The Commissioner General of Elections, Saman Sri Ratnayake, stated, “A discussion is scheduled this morning regarding the parliamentary election to be held on November 14, 2024, with the participation of District Returning Officers, District Deputy and Assistant Commissioners.”
-
-He added that the meeting would be chaired by the Chairman of the Election Commission and with the participation of all Commission members, as well as senior officials including the Commissioner General and Additional Commissioners, at the commission’s main office.
-
-“It is expected to inform about the activities related to the election to be held in the coming days. All relevant officials will participate for that,” Ratnayake said.
-
-◼️
-
-[Data](articles/d1d74ba6.json)
-
-[Extended Data](ext_articles/d1d74ba6.ext.json)
 
 ---

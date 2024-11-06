@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 20:40:20**
+As of **2024-11-06 20:59:14**
 
 ## Newspaper Stats
 
-*Scraped **53,417** Articles*
+*Scraped **53,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,993
+adalk | 4,994
 adaderanalk | 6,366
-tamilmirrorlk | 7,437
+tamilmirrorlk | 7,438
 virakesarilk | 8,644
-adaderanasinhalalk | 9,312
+adaderanasinhalalk | 9,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,417 (100.0%) of 53,417 articles have been extended.
+53,421 (100.0%) of 53,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### The New Example That Dilith and including Dilith
+
+*2024-11-06 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202985) · `si`
+
+Dilith Jayaweera addresses entrepreneurs at Navahamayala Senahamaya meeting. He emphasizes serving people without privileges, proposing system changes in Parliament.
+
+🟩
+
+Attorney-at-Law Dilith Jayaweera said that the representatives of the exempt to serve the people without privilege are ready to serve the people without privilege.
+
+Another meeting in the Navahamayala Senahamaya series for the next General Election was held in Peliyagoda Bandaranappers this afternoon.
+
+Entrepreneurship, Attorney Dilith Jayaweera said that entrepreneurs, addressing the meeting, said.
+
+"We do not even take salary or other privileges of parliament.. Don't eat from the restaurant. We don't need that. We work for you ... Without no privilege. This is the difference in the Parliament this time. We hope to propose to parliament ... To change that system and make it new. "
+
+"Entrepreneurs like we need to change. The employees who earn money should be sent to Parliament.. Like other countries. Then the people can serve the people. Or, when we will take some or steal. If the government cannot solve, we will propose solutions. Fair to hit the medal. Your life changes. "
+
+◼️
+
+[Data](articles/80112a8b.json)
+
+[Extended Data](ext_articles/80112a8b.ext.json)
+
+---
+
+### Dr. Swafi, who liberated from the allegations
+
+*2024-11-06 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202984) · `si`
+
+Dr. Sufi Reldeen denies allegations, vows legal action against those he claims are trying to destroy his family and reputation for personal gain.
+
+🟩
+
+Dr. Sufi Reldeen says that they will regret the personal benefit of personal benefit and that everyone can take to another injustice is not taken to another.
+
+Speaking to the media, Mr. Sufi Reli, Ven.
+
+"It is regrettable to be cutting down to upgrade her position for personal benefit. The legal action is taken to destroy a family, innocent man, as a family, like a family without going through his own ability.. I will ultimately take all the steps that can be taken by the law. "
+
+◼️
+
+[Data](articles/f28fbb82.json)
+
+[Extended Data](ext_articles/f28fbb82.ext.json)
+
+---
+
+### Holidays for schools - Ministry of Education
+
+*2024-11-06 20:14:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-விடுமுறை-கல்வி-அமைச்சு/175-346675) · `ta`
+
+Schools closed Nov 13-14, 2024 reopen Nov 18, 2024 due to parliamentary elections.
+
+🟩
+
+All schools will be closed for parliamentary elections on November 13, 2024 and November 14 and 2024. Reopen on 18.11.2024. Remble
+
+◼️
+
+[Data](articles/a069efbd.json)
+
+[Extended Data](ext_articles/a069efbd.ext.json)
+
+---
 
 ### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
 
@@ -253,6 +319,34 @@ In his judgment, Justice Maj.
 [Data](articles/c240fd94.json)
 
 [Extended Data](ext_articles/c240fd94.ext.json)
+
+---
+
+### Driver and conductor of school children banned
+
+*2024-11-06 18:16:27* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-මග-දමා-ගිය-රියදුරු-සහ-කොන්දොස්තරගේ-වැඩ-තහනම්/11-412896) · `si`
+
+School bus driver and conductor banned for refusing baptism. Dispute over bus schedules and inspections leads to suspension. Parents concerned about transportation for children.
+
+🟩
+
+The driver and conductor who refused to baptize school children and conducted a conductor of the Kalutara Major Regional Management office states that a member of the Kalutara District Secretariat said.
+
+The suspects were banned by the Driver and Conductor of the Alignment depot, which was traveling in Colombo, the Aluthgama depot, which was run in Colombo.
+
+Buses belonging to the Aluthgama, Matugama and Kalutara depot in Kalutara and Wadduwa
+
+Ramal Siriwardena, the current chairman of the Depot, is refusing to increase in time and the Chief Regional Manager has been acting in the instructions of the Chairman to stop buses in bus stops.. However, it was reported that the drivers had taken the bus to stop the bus on that day and run again.
+
+It is also stated that the driver and the conductor had also had an argument with the officers and the conductor when inspected depots and mobile inspectors were deployed.
+
+It is reported that he has not been able to do anything again, "he said.
+
+...
+
+[Data](articles/c33ad7f7.json)
+
+[Extended Data](ext_articles/c33ad7f7.ext.json)
 
 ---
 
@@ -2331,93 +2425,5 @@ He was speaking at a press notice of the Cabinet Decision.
 [Data](articles/1589505d.json)
 
 [Extended Data](ext_articles/1589505d.ext.json)
-
----
-
-### Can be booked since today
-
-*2024-11-06 11:03:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-முன்பதிவு-செய்யலாம்/175-346647) · `ta`
-
-Passport appointments now available online. Book via official website starting today. Immigration & Emigration Controller announces convenient booking system to streamline passport processing.
-
-🟩
-
-It has been announced that the date and time for obtaining a passport from today (06) can be allocated through the website.
-
-The move has been taken to address the situation in which the passport is being obtained.
-
-Accordingly, the Immigration and Emigration Controller Nalusha Balasuriya said that by entering the official website of the department, the date and time of obtaining a passport can be booked.R
-
-◼️
-
-[Data](articles/427f3563.json)
-
-[Extended Data](ext_articles/427f3563.ext.json)
-
----
-
-### S. Pilipkumar quit the CWC
-
-*2024-11-06 11:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-பிலிப்குமார்-இ-தொ-கா-விலிருந்து-விலகினார்/175-346646) · `ta`
-
-S. Pilipkumar quits Sri Lankan Workers' Congress, cites lack of progress after 37 years in politics. Claims no response from General Secretary Jeevan Thondaman despite contact attempts.
-
-🟩
-
-He said that he had withdrawn from the Sri Lankan workers' Congress and had sent a letter to the General Secretary of the Ceylon Workers Congress that he had quit the party.
-
-So far, he has been a part of the Sri Lankan workers' Congress, the same party, which has not been able to take any party so far.He also said that his life was in my 37 years of politics
-
-He added that despite contacting the general secretary of the Sri Lanka Workers Congress, Jeevan Thondaman, it did not travel.
-
-◼️
-
-[Data](articles/a48ef7cd.json)
-
-[Extended Data](ext_articles/a48ef7cd.ext.json)
-
----
-
-### School uniforms for 2025 from China
-
-*2024-11-06 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202961) · `si`
-
-China provides 11.82 million meters of school uniforms for 2025. Fabric approved by Ministry of Education. Grant agreement reached between China and Sri Lanka.
-
-🟩
-
-The total requirement of school uniforms for the year 2025 is about 11.82 million meters.
-
-Cabinet spokesman Vijitha Herath said that the People's Republic of China has agreed to provide the full grant.
-
-After inspection of the sample sent to the Ministry of Education in relation to this stock, the fabric has been recommended to be suitable for the use of schoolchildren.
-
-The proposal made by the Cabinet of Education, Science and Technology to take up the Budget for 2025, the Prime Minister of Education, the Hon.
-
-◼️
-
-[Data](articles/b77efcb7.json)
-
-[Extended Data](ext_articles/b77efcb7.ext.json)
-
----
-
-### Action to publish the new Gazette Notification
-
-*2024-11-06 10:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-வர்த்தமானி-அறிவித்தலை-வெளியிட-நடவடிக்கை/175-346645) · `ta`
-
-Department of Livestock Production and Health relaxes rules due to African swine flu. Director General allows transportation of healthy animals to reduce disease spread.
-
-🟩
-
-The Department of Livestock Production and Health has announced that it has taken steps to relax the rules imposed due to African swine flu.
-
-According to the Director General of the Hamali Kotalawala, the Director General of the disease has been allowed to transport healthy animals and reduce the spread of the disease within this week.
-
-◼️
-
-[Data](articles/1f5141be.json)
-
-[Extended Data](ext_articles/1f5141be.ext.json)
 
 ---

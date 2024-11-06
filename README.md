@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 05:09:45**
+As of **2024-11-07 05:24:44**
 
 ## Newspaper Stats
 
-*Scraped **53,469** Articles*
+*Scraped **53,470** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
-tamilmirrorlk | 7,445
+tamilmirrorlk | 7,446
 virakesarilk | 8,648
 adaderanasinhalalk | 9,317
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,469 (100.0%) of 53,469 articles have been extended.
+53,469 (100.0%) of 53,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ’நாமே பலமான எதிர்க்கட்சி’
+
+*2024-11-07 02:58:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமே-பலமான-எதிர்க்கட்சி/175-346696) · `ta`
+
+அமையவிருக்கும் புதிய பாராளுமன்றத்தில், புதிய ஜனநாயக கட்சி அதிகமான ஆசனங்களை பெற்று வலுவான ஒரு எதிர்க்கட்சியாக அமையும் என்பதில் ஐயமில்லை என திகாமடுல்ல மாவட்ட  நான்காம் இலக்க வேட்பாளர் யூ.கே. ஆதம்லெப்பை தெரிவித்தார்
+
+அட்டாளைச்சேனை பிரதேசத்தில் புதன்கிழமை (05)   நடைபெற்ற தேர்தல் பிரச்சாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்
+
+“இந்த நாடு  பெரும் பொருளாதார நெருக்கடியில் சிக்கித் தவித்த போது தனது அனுபவத்தாலும், சமயோசித செயற்பாடுகளாலும் ஆக்கபூர்வமான முயற்சிகளைச் செய்து ஒரு ஸ்திரமான நிலைக்கு முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இட்டுச் சென்றார் என்பதை இந்த நாட்டு மக்கள் அறிவர்.
+
+...
+
+[Data](articles/6a9197b4.json)
+
+---
 
 ### Departed to protect the silence
 
@@ -2359,25 +2375,5 @@ In his speech, Donald Trump described Ilan Mask as one of the world's largest bi
 [Data](articles/9a7cecb3.json)
 
 [Extended Data](ext_articles/9a7cecb3.ext.json)
-
----
-
-### Sri Lanka awards 1.5mn barrel petrol contract to Vitol Asia
-
-*2024-11-06 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-1-5mn-barrel-petrol-contract-to-vitol-asia-186263/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 5 shipments of 92 unleaded petrol from December 1, 2024 to May 31, 2025 to Vitol Asia (Singapore) Pte Ltd, Cabinet spokesman Vijitha Herath said said.
-
-The 1.5 million barrels will be obtained on the basis of payment in 30 days through a Letter of Credit.
-
-Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 7 bids were received. 3 bids were rejected during the initial evaluation.
-
-The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee  and the standing technical evaluation committee.  (Colombo/Nov6/2024)
-
-◼️
-
-[Data](articles/f9b9702d.json)
-
-[Extended Data](ext_articles/f9b9702d.ext.json)
 
 ---

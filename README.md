@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 04:58:37**
+As of **2024-11-07 05:09:45**
 
 ## Newspaper Stats
 
-*Scraped **53,468** Articles*
+*Scraped **53,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
-tamilmirrorlk | 7,444
+tamilmirrorlk | 7,445
 virakesarilk | 8,648
 adaderanasinhalalk | 9,317
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,468 (100.0%) of 53,468 articles have been extended.
+53,469 (100.0%) of 53,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Departed to protect the silence
+
+*2024-11-07 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைதி-காக்க-புறப்பட்டனர்/175-346695) · `ta`
+
+Sri Lanka Air Force members departed Katunayake Air Force Base for UN peacekeeping in Central African Republic. 20 officers, 88 soldiers. Contributing to war efforts, supporting troops, transporting VIPs, goods, and providing medical aid since 2014.
+
+🟩
+
+Sri Lanka Air Force members to depart for the United Nations peacekeeping work in the Central African Republic took place at the Katunayake Air Force Base at the Katunayake Air Force Base.
+
+The parade of Sri Lanka Air Force members, which is to be held in the Central African Republic, was held at the Katunayake Air Force Base under the patronage of Air Marshal Udhani Rajapaksa, Commander of the Air Force.
+
+The Sri Lanka Air Force's 10th Group, which will depart for the United Nations peacekeeping work in the Central African Republic, has 20 officers and 88 soldiers.
+
+From 2014 to the present, the Sri Lanka Air Force has provided the Treasury of $ 130 million by engaging in peaceful duties.
+
+The Sri Lankan Air Force members, who have been assigned to the UN peacekeeping operations, contribute to war operations in the Central African Republic and support the troops, VIP transport, food and freight transport, internal aircraft, parachute landing and medical transport.
+
+◼️
+
+[Data](articles/cf492195.json)
+
+[Extended Data](ext_articles/cf492195.ext.json)
+
+---
 
 ### Can't acquire Lion Residences
 
@@ -2353,39 +2379,5 @@ The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the re
 [Data](articles/f9b9702d.json)
 
 [Extended Data](ext_articles/f9b9702d.ext.json)
-
----
-
-### Trump confirms win
-
-*2024-11-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202968) · `si`
-
-Donald Trump wins 267 seats, claims victory in key states. Confirms presidential election win, addresses supporters. Republicans regain Senate control. Election results announced state-by-state, with some states still counting ballots.
-
-🟩
-
-Republican party candidate Donald Trump has confirmed the Presidential election.
-
-Former American President Donald Trump, Donald Trump, has won 267 seats and has won 267 seats.
-
-Accordingly, former Presidential candidate former Presidential candidate former Presidential candidate, Donald Trump said,
-
-At that, the Republican Party headquarters from the Republican Party headquarters, addressing his supporters.
-
-Former President Trump said that the American people have been given as a mandate of the people.
-
-Foreign points of the premises of the crucial states of the presidential election claim that former President Trump has the forefront of Georgia, North Carolina and Pennsalvania.
-
-The Republican Party has already been able to restore the power of the Senate.
-
-The 60th presidential election of the US 47th President was held last evening from the date of Sri Lanka this morning.
-
-More than 81 million registered American voters had been voted under the election day, while the election was held yesterday.
-
-...
-
-[Data](articles/e640d02a.json)
-
-[Extended Data](ext_articles/e640d02a.ext.json)
 
 ---

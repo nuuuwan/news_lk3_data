@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 14:25:48**
+As of **2024-11-06 15:00:29**
 
 ## Newspaper Stats
 
-*Scraped **53,354** Articles*
+*Scraped **53,360** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,983
-adaderanalk | 6,357
-tamilmirrorlk | 7,430
+adalk | 4,984
+adaderanalk | 6,358
+tamilmirrorlk | 7,433
 virakesarilk | 8,619
-adaderanasinhalalk | 9,301
+adaderanasinhalalk | 9,302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,353 (100.0%) of 53,354 articles have been extended.
+53,358 (100.0%) of 53,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### 4 அதிகாரிகளுக்கு 35 வருட கடூழிய சிறை
+
+*2024-11-06 14:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-அதிகாரிகளுக்கு-35-வருட-கடூழிய-சிறை/175-346667) · `ta`
+
+மிகப் பெரிய இலஞ்சம் தொடர்பில் இலஞ்சம் அல்லது ஊழல் பற்றிய சார்த்துதல்களை புலனாய்வு செய்வதற்கான ஆணைக்குழுவின் அதிகாரிகளால்  கைது செய்யப்பட்டு, நீதிமன்றத்தில்  குற்றவாளிகளாக இணங்காணப்பட்ட  முன்னாள் சுங்க அதிகாரிகள் நால்வருக்கு 35 வருட கடூழிய சிறைத்தண்டனையை கொழும்பு மேல் நீதிமன்றம் புதன்கிழமை(06) விதித்துள்ளது.
+
+◼️
+
+[Data](articles/643d0e3e.json)
+
+---
+
+### ‘Sarvajana Balaya’ is for human-centered governance - Dilith Jayaweera
+
+*2024-11-06 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103209/sarvajana-balaya-is-for-human-centered-governance-dilith-jayaweera-) · `en`
+
+The leader of the ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera emphasized his party’s commitment to establishing a populist political movement aimed at transforming Sri Lanka’s political landscape.
+
+Speaking at a public rally in Gampaha, Jayaweera outlined the alliance’s vision to foster a people-centric approach to governance, grounded in values and integrity.
+
+“Our mission is to bring back politics that serves the people—a movement that isn’t about taking advantage, but about delivering real, human-centered governance. ‘Sarvajana Balaya’ represents our tool to restore integrity to Sri Lankan politics, promoting values that genuinely care for the people, “ Jayaweera said.
+
+...
+
+[Data](articles/6c88b088.json)
+
+[Extended Data](ext_articles/6c88b088.ext.json)
+
+---
+
+### Those recalled from foreign service
+
+*2024-11-06 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202970) · `si`
+
+Sri Lanka recalls foreign service officers appointed politically. Cabinet spokesperson Vijitha Herath announces December 01 deadline. Political appointees include children, prisoners of politicians, and ministers. Foreign service requires special abilities for economic and international interests. All political appointees must return to Sri Lanka by December 01.
+
+🟩
+
+Cabinet Spokesperson Vijitha Herath says that the officers appointed on political basis for foreign service have been asked to come back to the island by December 01.
+
+Addressing the Cabinet Decision informed, he said that the children and the prisoners of Members and Ministers had been appointed to other officers below the ambassador.
+
+...
+
+[Data](articles/fd63e219.json)
+
+[Extended Data](ext_articles/fd63e219.ext.json)
+
+---
+
+### My rule is the golden age
+
+*2024-11-06 14:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/என்னுடைய-ஆட்சி-பொற்காலமாக-அமையும்/50-346666) · `ta`
+
+Donald Trump declares his presidency as the "golden age" of the United States, promising to restore America's greatness and solve national problems. He expresses gratitude to supporters and vows to rule with joy and pride.
+
+🟩
+
+"This time my rule is going to be the golden age of the United States," said Donald Trump, the new president of the United States.
+
+“New history has been created in the United States. My thanks to every American who voted for the victory of the Republican Party. Thanks to my wife who was committed to success. Thank you to the family who supported me in a predicament. This time my rule is going to be the golden age of the United States. Thanks to the American people elected as the 47th President.
+
+“We have won a movement that no one has ever seen. I will make America back into enormous country. I will rule the American people with joy and pride.
+
+“All the problems in the United States will be resolved. There has been an unprecedented success. The confidence of the people who gave me confidence in me will not be in vain. I will work hard for the American people and solve the problems. I will rule the American people with joy and pride. ”. (That)
+
+◼️
+
+[Data](articles/225644eb.json)
+
+[Extended Data](ext_articles/225644eb.ext.json)
+
+---
 
 ### The unfortunate event faced by the woman who went to go to the nudder China
 
@@ -166,6 +240,28 @@ Donald Trump, who is contesting for the Republican Party of the United States, h
 
 ---
 
+### Trump wins US presidential election
+
+*2024-11-06 13:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஜனாதிபதித்-தேர்தலில்-ட்ரம்ப்-வெற்றி/50-346665) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Donald Trump wins US presidency. As Republican candidate, he receives most votes, becoming 45th US President. His victory marks a significant shift in American politics.
+
+🟩
+
+Donald Trump, who is contesting for the Republican Party of the United States, has won the highest number of votes as the 47th president.
+
+◼️
+
+[Data](articles/4c75caa3.json)
+
+[Extended Data](ext_articles/4c75caa3.ext.json)
+
+---
+
 ### Four ex-Customs officers sentenced to 35 years RI over bribery charges
 
 *2024-11-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103206/four-ex-customs-officers-sentenced-to-35-years-ri-over-briberycharges) · `en`
@@ -225,6 +321,22 @@ Meanwhile, the BBC News reported that the winners of 265 votes were held in 265 
 [Data](articles/876cc6e0.json)
 
 [Extended Data](ext_articles/876cc6e0.ext.json)
+
+---
+
+### අමෙරිකාවේ පාලනය යළිත් ට්‍රම්ප්ට
+
+*2024-11-06 12:48:50* · [`adalk`](https://www.ada.lk/breaking_news/අමෙරිකාවේ-පාලනය-යළිත්-ට්‍රම්ප්ට/11-412887) · `si`
+
+2024 අමෙරිකානු ජනාධිපතිවරණයෙන් හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ජයග්‍රහණය කර තිබේ.
+
+එහිදී ඔහු ඡන්ද විද්‍යාල 277ක් දිනාගෙන ඇති අතර, ඔහුගේ ප්‍රතිවාදියා වූ කමලා හැරිස් ඡන්ද විදයාල 226ක් දිනාගෙන ඇති බව ෆොක්ස් නිව්ස් සේවය වාර්තා කර ඇත.
+
+ඒ අනුව අමෙරිකාවේ 47 වැනි ජනාධිපතිවරයා ලෙස ඩොනල්ඩ් ට්‍රම්ප් තේරී පත්විය.
+
+◼️
+
+[Data](articles/7c7422be.json)
 
 ---
 
@@ -358,25 +470,33 @@ Accordingly, the Cabinet of Ministers has approved the management of the allocat
 
 ---
 
-### රුසියාවේ සංචාරකයන් ලංකාවට ගේන්න අසූර් එයා ලංකාවට එයි
+### Azor comes to Sri Lanka to bring tourists in Russia
 
 *2024-11-06 12:15:15* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-සංචාරකයන්-ලංකාවට-ගේන්න-අසූර්-එයා-ලංකාවට-එයි/11-412886) · `si`
 
-ලොව පුරා එළඹී තිබෙන ශීත ඍතුව වෙනුවෙන්රු සියාවේ සිට අසූර් ගුවන් සේවයේ ( Azur Air ) පළමු  ගුවන් යානය (Inogaral Flight ) එරට සංචාරකයන් පිරිසක් රැගෙන 11/06 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+Azur Air brings Russian tourists to Sri Lanka. First flight arrives at Katunayake airport. Water salute ceremony held. Weekly flights from five Russian cities. Journey takes 9 hours. Flights continue until April 30, 2025.
 
-අසූර් එයාර් ගුවන් සේවයේ ඉසෙඩ්.එෆ්.- 1611 දරන මෙම ගුවන් යානය 11/06 දින උදෑසන 10.05 ට රුසියාවේ වෙනිකොව් නුවර සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+🟩
 
-මෙම ගුවන් යානය පිළිගැනීම සදහා ජල ආචාර ( Water Salute ) පැවැත්වීමට කටුනායක ගුවන් බලධාරීන් පියවර ගෙන  තිබුණි.
+The first flight of Azural Flight, Azur Light, arrived at the Katunayake airport, carrying a group of tourists (AZUR AIR).
 
-මෙම පළමු ගුවන් ගමන සදහා අසූර් එයාර් ගුවන් සේවය විසින් බෝයිං - 767 වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එහි ගුවන් මගීන් 332 ක් සහ ගුවන් යානා කාර්යය මණ්ඩලය ලෙස තවත් 10 දෙනෙකු ද පැමිණ සිටියහ .
+The 'Air Force 1611', this plane was from Venicow, Russia, 11/01am on 11/06.
 
-11/06 දින සිට සෑම සතියකම අසූර් එයාර් ගුවන් සේවය රුසියාවේ ප්‍රධාන නගර 05 ක සිට එනම් වෙනිකොව්
+Katunayake Airports had taken steps to hold the water salute to accept the plane.
 
-සෙන්ට් පීටර්ස්බර්ග් ,ක්‍රොසනොස්කො, සෝච් සහ නොවිසිබිස්ක් යන නගර වල සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිත බව අසූර් එයාර් ගුවන් සේවයේ ශ්‍රී ලංකාවේ කළමනාකරු මොරිස් ද සිල්වා මහතා පැවසීය .
+Azor Air Airlines had been deployed by Asur Air and 767 aircraft for the first flight and was 332 passengers and 10 others.
 
-...
+Asoor Air Air serving from 5 Russia's major cities every week from 11/06
+
+Asoor Airlines Manager Manager Morris de Silva said, "Saint Petersburg, Crossnosburg, Soch and Ustibisk."
+
+The Asi Aircraft will also take 9.00 hours to reach the destinations of Russia and the aircraft will arrive at the Katunayake Airport until April 30, 2025.
+
+◼️
 
 [Data](articles/acb6955d.json)
+
+[Extended Data](ext_articles/acb6955d.ext.json)
 
 ---
 
@@ -2153,143 +2273,5 @@ The ruling, delivered by a five-judge Supreme Court bench comprising Justices Pr
 [Data](articles/e16042b5.json)
 
 [Extended Data](ext_articles/e16042b5.ext.json)
-
----
-
-### Ex-PUCSL Chief Janaka Ratnayake summoned over unpaid VAT
-
-*2024-11-06 05:12:17* · [`dailyftlk`](https://www.ft.lk/news/Ex-PUCSL-Chief-Janaka-Ratnayake-summoned-over-unpaid-VAT/56-768863) · `en`
-
-Colombo Additional Magistrate Bandara Ilangasinghe has ordered the issuance of summons to Sri Lanka Public Utilities Commission (PUCSL) former Chairperson Janaka Ratnayake and his wife, Kumari Yasoda Silva, to appear before the court on 10 December.
-
-The order issued on Monday relates to the non-payment of over Rs. 3 million in Value Added Tax (VAT) owed to the Government. The case stems from allegations that a computer service provider, managed by the couple in the Kirulapana area, failed to settle VAT obligations amounting to Rs. 31,846,248.24 in tax arrears, along with Rs. 1,851,658.37 in income tax arrears, covering the period from 2016 to 2018.
-
-...
-
-[Data](articles/01826487.json)
-
-[Extended Data](ext_articles/01826487.ext.json)
-
----
-
-### RCSSL AGM and dinner tonight at NH Collection, Colombo
-
-*2024-11-06 04:15:27* · [`dailyftlk`](https://www.ft.lk/news/RCSSL-AGM-and-dinner-tonight-at-NH-Collection-Colombo/56-768862) · `en`
-
-The Royal Commonwealth Society, Sri Lanka (RCSSL) will hold its Annual General Meeting tonight at NH Collections Colombo 3, from 6 p.m. and will be followed by a ticketed dinner for all RCSSL members and the public.
-
-The Royal Commonwealth Society (RCS) headquartered in London is a network of individuals and organisations committed to improving the lives and prospects of Commonwealth citizens across the world.
-
-The RCS is spread across the world, in Africa, the Americas, the Pacific, Europe and Asia. There are 8 Commonwealth countries in Asia. They are Bangladesh, Brunei, Darrusalam, India, Malaysia, Maldives, Pakistan, Singapore, and Sri Lanka.
-
-...
-
-[Data](articles/2d0d8dd3.json)
-
-[Extended Data](ext_articles/2d0d8dd3.ext.json)
-
----
-
-### The body of a male at the old bus station in Vavuniya
-
-*2024-11-06 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197986) · `ta`
-
-Body found at Vavuniya bus station. Forensic investigation ongoing. Judge visits scene. Vavuniya Police conducting further inquiries.
-
-🟩
-
-The body of a man has been recovered at the old bus station in Vavuniya, Vavuniya police said.
-
-Meanwhile, in response to the investigation by the forensic police, the judge had visited the law.
-
-Further investigations are being carried out by the Vavuniya Police.
-
-◼️
-
-[Data](articles/9ef3dd46.json)
-
-[Extended Data](ext_articles/9ef3dd46.ext.json)
-
----
-
-### Overall Champion Maliyadeva in all categories
-
-*2024-11-06 03:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/197985) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Champion Maliyadeva wins all categories in 31st All Ceylon Schools Webball tournament. Finals for under-4, quarter-finals ongoing. Teams from various schools qualify for next rounds.
-
-🟩
-
-The 31st All Ceylon Schools of Sri Lanka, organized by the Sri Lanka Schools Webball Association under the guidance of the Ministry of Education with the full sponsorship of the Nestle Millo Business Name, are being held at the Matara Matara Stadium.
-
-The final round is being held in the under -four -year -old sections of the 13, 15, 17 and 19.
-
-Most of the pioneering quarter -finals will be held until the second day of the competition and a few pioneering quarter -finals will be held tomorrow.
-
-The entire Champion Kurunegala Maliyadeva Women's Vidyalaya is qualified to play in the quarter -finals of four years.
-
-In the under -19 A category, Kalutara Thirukkudumba virgins are eligible to play at the end of the quarterly.
-
-In the under -17 category, Kandy Hilwood, Colombo Devi Balika, Kalutara Thirukkudumba Nunnas Math, Nugegoda Anula, Homagama Siripiyarathana, Puttalam Carmel Women V.
-
-In the under -15 category. V. and Vennapu Thirukkudumba KM are eligible to play in the quarter -finals.
-
-...
-
-[Data](articles/db200627.json)
-
-[Extended Data](ext_articles/db200627.ext.json)
-
----
-
-### A Case For Closer Connections: Some Initial Reflections On Holistic Education
-
-*2024-11-06 02:55:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-case-for-closer-connections-some-initial-reflections-on-holistic-education/) · `en`
-
-*Keynote speech delivered at the International Multidisciplinary Research Conference at University of Kelaniya, October 25th, 2024.
-
-We all know that in Sri Lanka, students are separated to specialized subject areas a bit too early. This early specialization continues even at universities. Now, some students are admitted to universities directly from the University Grant Commission and they are not allowed to segue into any other stream of leaning. In some cases, they cannot even take classes in another subject. In addition, there are departments in our faculties looking to seize the first opportunity to break away and establish their own faculties isolating further in their own expertise.
-
-...
-
-[Data](articles/c8b2d47b.json)
-
-[Extended Data](ext_articles/c8b2d47b.ext.json)
-
----
-
-### Why did the President Anura's government to recall a ambassadors?
-
-*2024-11-06 02:33:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdxyvk5gwy9o) · `si`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-President Anura's government recalls 15 ambassadors/high commissioners amid allegations of misuse of funds and political influence. Current government emphasizes evaluating diplomatic roles and investigating accusations. This move comes amid geopolitical tensions and economic challenges faced by Sri Lanka.
-
-🟩
-
-The present government has taken steps to summon 15 of the ambassadors and 15 high commissioners appointed to foreign countries representing Sri Lanka.. That is by the orders of the Secretary to the President.
-
-According to the Court, the Secretary to the Ministry of External Affairs and the High Commissioners of the Ministry of External Affairs had issued letters to the island that the Ambassadors and High Commissioners have returned to the island.
-
-According to the Constitution, the President has the power to appoint ambassadors.
-
-The current government has emphasized that the present government has taken steps to recall foreign embassies, which are not the Sri Lanka Foreign Service or Political Employees.
-
-Cabinet spokesman Vijitha Herath said that the country would be released in the future.
-
-It is in that backdrop that the ambassadors have been taken up again to the island.
-
-...
-
-[Data](articles/4c6d9702.json)
-
-[Extended Data](ext_articles/4c6d9702.ext.json)
 
 ---

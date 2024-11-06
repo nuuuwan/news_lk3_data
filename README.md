@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 16:24:33**
+As of **2024-11-06 16:40:22**
 
 ## Newspaper Stats
 
-*Scraped **53,378** Articles*
+*Scraped **53,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ dailymirrorlk | 4,733
 adalk | 4,985
 adaderanalk | 6,359
 tamilmirrorlk | 7,435
-virakesarilk | 8,630
+virakesarilk | 8,631
 adaderanasinhalalk | 9,305
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,372 (100.0%) of 53,378 articles have been extended.
+53,379 (100.0%) of 53,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### In the Central African Republic. Na. Sri Lanka Air Force to depart for peacekeeping
+
+*2024-11-06 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198054) · `ta`
+
+Sri Lanka Air Force deploys 108 personnel to UN peacekeeping mission in Central African Republic. The group includes 20 officers and 88 soldiers. They will engage in various tasks such as supporting war operations, transporting VIPs, goods, and providing medical assistance. This marks the 9th year of Sri Lanka's involvement in UN peacekeeping efforts, contributing over $130 million since 2014.
+
+🟩
+
+Sri Lanka Air Force members who are due to depart for the United Nations peacekeeping work in the Central African Republic took place at the Katunayake Air Force Base at the Katunayake Air Force Base.
+
+The parade of Sri Lanka Air Force members, Air Force Commander Air Marshal Udhani Rajapaksa, was proudly held at the Katunayake Air Force Base for the UN Peacekeeping Work in the Central African Republic.
+
+The Sri Lanka Air Force's 10th Group, which will depart for the United Nations peacekeeping work in the Central African Republic, has 20 officers and 88 soldiers.
+
+From 2014 to the present, the Sri Lanka Air Force has provided the Treasury of $ 130 million by engaging in peaceful duties.
+
+The Sri Lankan Air Force members, who have been assigned to the UN peacekeeping operations, contribute to war operations in the Central African Republic and support the troops, VIP transport, food and freight transport, internal aircraft, parachute landing and medical transport.
+
+◼️
+
+[Data](articles/65a2a2a7.json)
+
+[Extended Data](ext_articles/65a2a2a7.ext.json)
+
+---
 
 ### Recalled political appointees in foreign service set deadline to return
 
@@ -428,17 +454,27 @@ Police said they are taking steps to sue the Badulla court in connection with th
 
 ---
 
-### இலான் மாஸ்க்கை புதிய நட்சத்திரம் என வர்ணித்த ட்ரம்ப்
+### Trump described Illan Mask as a new star
 
 *2024-11-06 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198035) · `ta`
 
-அமெரிக்காவில் நடந்து முடிந்த ஜனாதிபதி தேர்தலில் 47 ஆவது ஜனாதிபதியாக டொனால்ட்  ட்ரம்ப் தெரிவு செய்யப்பட்டுள்ளார்.
+Here's a 200-character summary:
 
-இந்நிலையில், அவர் ஆதரவாளர்கள் மத்தியில் ஆற்றிய உரையில் உலகின் மிகப்பெரிய கோடீஸ்வரர்களில் ஒருவரும்,  எக்ஸ் சமூக ஊடகத்தின்  உரிமையாளருமான இலான் மஸ்க்கை குடியரசுக் கட்சியின் "புதிய நட்சத்திரம்" என டொனால்ட்  ட்ரம்ப் வர்ணித்துள்ளார்.
+
+
+Donald Trump describes Elon Musk as a "new star" during his victory speech after being elected as the 47th US President. He highlights Musk as one of the world's wealthiest individuals and owner of X (formerly Twitter).
+
+🟩
+
+Donald Trump has been elected as the 47th president in the US presidential election.
+
+In his speech, Donald Trump described Ilan Mask as one of the world's largest billionaires and the owner of X -social media as the "new star".
 
 ◼️
 
 [Data](articles/9a7cecb3.json)
+
+[Extended Data](ext_articles/9a7cecb3.ext.json)
 
 ---
 
@@ -476,21 +512,31 @@ More than 81 million registered American voters had been voted under the electio
 
 ---
 
-### மனைவி மெலானியாவிற்கும் குடும்பத்தினருக்கும் நன்றி தெரிவித்தார் - டிரம்ப்
+### Wife thanked melania and family - Trump
 
 *2024-11-06 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198033) · `ta`
 
-அமெரிக்காவின் 47வது ஜனாதிபதியாக தெரிவு செய்யப்படவுள்ள குடியரசுகட்சியின் வேட்பாளர்  டொனால்ட் டிரம்ப் தனது மனைவி மெலானியா உட்பட தனது குடும்பத்தவர்களிற்கு நன்றியை தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-மெலானியாவின் நூலை பாராட்டிய டிரம்ப் அமெரிக்காவில் அதிகம் விற்பனையான நூலின் ஆசிரியர் மெலானியா என தெரிவித்துள்ளார்.
 
-அவர் மிகச்சிறந்த பணியாற்றியுள்ளார் மக்களிற்கு உதவுவதற்காக அவர் மிகுந்த பாடுபட்டுள்ளார் என தெரிவித்துள்ள டொனால்ட் டிரம்ப் தனது பிள்ளைகளிற்கும் நன்றி தெரிவித்துள்ளார்
 
-மேடையில் அவர்கள் காணபட்ட நிலையில் அவர்கள் ஒவ்வொருவரினதும் பெயரை குறிப்பிட்டு டிரம்ப் நன்றி தெரிவித்துள்ளார்.
+Donald Trump thanked his family, including wife Melania, praising her book as top-selling in US. He also expressed gratitude towards his children for their efforts to help people.
+
+🟩
+
+Donald Trump, the 47th president of the United States, has thanked his family, including his wife, Melania.
+
+Trump praised melania's book, said Melania, the most selling book in the United States.
+
+Donald Trump also thanked his children that he has worked hard to help the people.
+
+Trump thanked the name of each of them as they were seen on the platform.
 
 ◼️
 
 [Data](articles/f4a8ee13.json)
+
+[Extended Data](ext_articles/f4a8ee13.ext.json)
 
 ---
 
@@ -528,31 +574,47 @@ Investigations have revealed that the suspect had taken three robbers with a dri
 
 ---
 
-### அமைச்சர்களுக்கு இனி கொழும்பில் வீடுகள் வழங்கப்படமாட்டாது…! - ஜனாதிபதி அநுரவின் அதிரடி முடிவு
+### Ministers will no longer be provided with houses in Colombo…!-President Anura's Action Decision
 
 *2024-11-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198031) · `ta`
 
-தமது அரசாங்கத்தின் 25 அமைச்சர்களும் தமது பிரதேசத்திலேயே இனி குடியிருக்க வேண்டும். அங்குள்ள மக்களின் பிரச்சினைகளை ஆராய்ந்து  அவற்றை தீர்ப்பதற்குரிய வழிவகைகளை  கூற வேண்டும் என்று ஜனாதிபதி  அநுர குமார  திசாநாயக்க அதிரடியாக கூறியுள்ளார்.  அமைச்சர்கள் எவருக்கும் கொழும்பில் உத்தியோக பூர்வ இல்லங்கள் வழங்கப்படாது என்றும் ஏற்கனவே அவ்வாறு இருந்தவர்கள் அவற்றை ஒப்படைக்காவிடின் அனைவருக்கும் எதிராக வழக்கு தொடரப்படும் என்றும் அவர் எச்சரித்துள்ளார். குறித்த இல்லங்கள் 32 இல் 28 இல்லங்கள் ஒப்படைக்கப்பட்டுள்ளதாக அரசாங்க தரப்பு தகவல்கள் கூறுகின்றன.
+Sri Lanka: Ministers banned from Colombo homes. President Anura Kumara Dissanayake orders officials to vacate properties. Those refusing face prosecution. Government claims 28 homes already returned. Decision aims to address public issues.
+
+🟩
+
+The 25 ministers of their government should no longer live in their territory. President Anura Kumara Dissanayake has said that the problems of the people should be exploring and solving them.He warned that none of the ministers will be given official residences in Colombo and that those who have already done so will be prosecuted if they do not hand them over.. According to government sources, 28 homes have been handed over.
 
 ◼️
 
 [Data](articles/10ce7e45.json)
 
+[Extended Data](ext_articles/10ce7e45.ext.json)
+
 ---
 
-### இனி அமெரிக்காவிற்கு பொற்காலம் ; தேசத்தின் காயங்களை ஆற்றுவோம் - ஆதரவாளர்கள் மத்தியில் ட்ரம்ப்
+### The golden age to the United States;We will heal the wounds of the nation - Trump among supporters
 
 *2024-11-06 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198032) · `ta`
 
-எங்கள் தேசத்தின் காயங்களை ஆற்றப்போகின்றோம் என அமெரிக்காவின் புதிய ஜனாதிபதியாக தெரிவுசெய்யப்படவுள்ள டொனால்ட் ட்ரம்ப் தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-நீங்கள் ஒரு நாள் உங்கள் வாழ்க்கையில் இந்த நாளை மிகவும் முக்கியமான நாளாக கருதுவீர்கள்.
 
-அமெரிக்கா எங்களிற்கு மிகவும் வலுவான முன்னொருபோதும் இல்லதா ஆணையை தந்துள்ளது என அவர் குறிப்பிட்டுள்ளார்.
+
+Trump vows to heal national wounds, calls US strong. New president emphasizes importance of current day.
+
+🟩
+
+Donald Trump, the new president of the United States, has said that we are going to heal the wounds of our nation.
+
+You will consider this day in your life as a very important day.
+
+He noted that the US has given us a very strong order.
 
 ◼️
 
 [Data](articles/45411faa.json)
+
+[Extended Data](ext_articles/45411faa.ext.json)
 
 ---
 
@@ -620,31 +682,57 @@ Donald Trump, who is contesting for the Republican Party of the United States, h
 
 ---
 
-### வைத்தியர் ஷாபி அனைத்து குற்றச்சாட்டுகளிலிருந்தும் விடுதலை
+### Doctor Shafi release from all allegations
 
 *2024-11-06 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198026) · `ta`
 
-விசேட வைத்திய நிபுணர் கலாநிதி ஷாபி சிஹாப்தீன் அனைத்து குற்றச்சாட்டுக்களிலிருந்தும் குருணாகல் நீதவான் நீதிமன்றத்தினால் விடுவிக்கப்பட்டுள்ளார்.
+Dr. Shafi acquitted on all charges: Kurunegala Magistrate's Court dismisses case due to lack of evidence. Allegations included suspicious property, illegal surgeries, and terrorism links.
 
-சந்தேகத்திற்கிடமான முறையில் சொத்துக் குவித்தமை, சட்டவிரோத கருத்தடை அறுவை சிகிச்சை , பயங்கரவாத நடவடிக்கைகளுடன் தொடர்பு வைத்திருந்ததாகக் குற்றம் சுமத்தப்பட்ட வைத்தியர்  ஷாபிக்கு எதிரான வழக்கு இன்று (06) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
+🟩
 
-இதன்போது,  வழக்கை தொடர்வதற்கு போதிய சாட்சியங்கள் இல்லை என சட்டமா அதிபர் திணைக்களம் இன்று புதன்கிழமை (06) நீதிமன்றத்திற்கு அறிவித்ததையடுத்து, பிரதிவாதியான வைத்தியர் ஷாபியை தொடர்புடைய அனைத்து குற்றச்சாட்டுக்களிலிருந்தும் விடுவித்து, குருணாகல் நீதவான் வழக்கை தள்ளுபடி செய்துள்ளார்.
+Specialist Dr. Shafi Sihabdeen has been acquitted by the Kurunegala Magistrate's Court on all allegations.
+
+The case against Dr. Shafi, who was accused of involvement with suspicious property, illegal contraceptive surgery and terrorist activities, was taken up for hearing today (06).
+
+In the meantime, the Attorney General's Department announced to the court on Wednesday (06) that there were insufficient evidence to continue the case and the Kurunegala Magistrate dismissed the case from all the allegations related to Shafi.
 
 ◼️
 
 [Data](articles/cfc59468.json)
 
+[Extended Data](ext_articles/cfc59468.ext.json)
+
 ---
 
-### சம்பூர்  ஆலங்குளம் துயிலுமில்லத்தில் சிரமதானப்பணிகள் ..!
+### Sampur Alangulam Thuilumillam
 
 *2024-11-06 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198023) · `ta`
 
-திருகோணமலை மாவட்டம், மூதூர் கிழக்கு சம்பூர் ஆலங்குளம் துயிலுமில்லத்தில் நேற்று செவ்வாய்க்கிழமை (05) சிரமதானப்பணிகள் இடம் பெற்றன.
+Here's a 200-character summary:
+
+
+
+Event: Sampur Alangulam Thuilumillam
+
+Location: Muttur East, Trincomalee district
+
+Date: Tuesday, 05
+
+Place: Alangulam Thuiyilumillam
+
+
+
+This summary captures the essential details about the event location, date, and place within the character limit.
+
+🟩
+
+The work was held on Tuesday (05) at the Alangulam Thuiyilumillamillam in Muttur East, Muttur, Trincomalee district.
 
 ◼️
 
 [Data](articles/920fd6dd.json)
+
+[Extended Data](ext_articles/920fd6dd.ext.json)
 
 ---
 
@@ -2307,25 +2395,5 @@ In a statement issued by the Department of Meteorology, the Department of Meteor
 [Data](articles/f10556ed.json)
 
 [Extended Data](ext_articles/f10556ed.ext.json)
-
----
-
-### The gazette that came to swine flu
-
-*2024-11-06 07:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202951) · `si`
-
-New gazette issued to address African swine flu. Allows transportation of healthy animals, registration of slaughterhouses, and sale of prepared meat from non-infected animals. 50% of swine population died in Western Province. Highest mortality rate in Gampaha District.
-
-🟩
-
-Steps have been taken to issue a new gazette notification to explore the rules imposed in the Gazette Notification issued due to the African swine flu.
-
-The Director General of Dr. He Helesalawala stated that he has been granted permission to transport health animals.
-
-...
-
-[Data](articles/69b3cdf6.json)
-
-[Extended Data](ext_articles/69b3cdf6.ext.json)
 
 ---

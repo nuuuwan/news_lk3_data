@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 01:59:15**
+As of **2024-11-07 02:10:29**
 
 ## Newspaper Stats
 
-*Scraped **53,451** Articles*
+*Scraped **53,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
 economynextcom | 3,242
-dailyftlk | 3,651
+dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
@@ -26,11 +26,167 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,451 (100.0%) of 53,451 articles have been extended.
+53,455 (100.0%) of 53,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### NPP will get less than 100 seats: Madduma Bandara
+
+*2024-11-07 01:44:13* · [`dailyftlk`](https://www.ft.lk/news/NPP-will-get-less-than-100-seats-Madduma-Bandara/56-768930) · `en`
+
+Says President Anura Kumara Dissanayake and his Govt. facing increasing public disapproval
+
+Claims support for President has waned due to unmet electoral promises and growing discontent
+
+Accuses NPP of undermining democracy and urges public to vote SJB to protect SL’s democratic values
+
+Samagi Jana Balawegaya (SJB) National List candidate Ranjith Madduma Bandara has strongly criticised the current Government led by the National People’s Power (NPP), citing unmet promises and growing discontent among the public.
+
+Addressing a press conference yesterday, Madduma Bandara highlighted the challenges facing the NPP administration, which took office nearly two months ago, following President Anura Kumara Dissanayake’s election victory.
+
+...
+
+[Data](articles/937d5726.json)
+
+[Extended Data](ext_articles/937d5726.ext.json)
+
+---
+
+### Govt. considers reviewing security allocations  for Ex-Presidents
+
+*2024-11-07 01:41:17* · [`dailyftlk`](https://www.ft.lk/news/Govt-considers-reviewing-security-allocations-for-Ex-Presidents/56-768929) · `en`
+
+Cabinet Spokesman Minister Vijitha Herath clarifies no reduction in security details has occurred yet, countering claims by former President Kumaratunga
+
+Reveals some Ex-Presidents’ security details of over 100 personnel, total costing tops Rs. 1.1 b annually
+
+Says Govt. will disclose details on firearms returned by former MPs; future firearms distribution will follow stricter guidelines
+
+Cabinet Spokesman and Minister Vijitha Herath yesterday announced that the Government is considering revising the security detail provided to former Presidents, a move prompted by significant budget pressures.
+
+Refuting claims that security for former leaders had already been reduced, he clarified that no changes have yet been implemented.
+
+Responding to questions raised at the weekly post-Cabinet meeting media briefing yesterday, he noted that a committee is currently reviewing the matter, and a decision will be made following its recommendations.
+
+...
+
+[Data](articles/4ad1d623.json)
+
+[Extended Data](ext_articles/4ad1d623.ext.json)
+
+---
+
+### China extends fabric grant for 2025 school uniforms
+
+*2024-11-07 01:39:48* · [`dailyftlk`](https://www.ft.lk/news/China-extends-fabric-grant-for-2025-school-uniforms/56-768928) · `en`
+
+The People’s Republic of China has pledged 11.82 million meters of fabric to be distributed as uniform materials for students across the country for the coming school year.
+
+The Cabinet of Ministers at their meeting on Monday has approved this generous grant from the Chinese Government to supply school uniforms in 2025.
+
+Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman Minister Vijitha Herath said the fabric grant is valued at over Rs. 5.2 billion.
+
+The Sri Lanka Textile and Garment Institute (SLITA) conducted thorough testing on fabric samples provided to the Education Ministry and confirmed the material’s suitability for school uniforms.
+
+“The uniforms for both school and Piriven (monastic) education will be distributed in two stages – the first batch by the end of this month and the second in the following month, with fabric pre-cut to specified sizes for distribution,” he added.
+
+◼️
+
+[Data](articles/98b51e18.json)
+
+[Extended Data](ext_articles/98b51e18.ext.json)
+
+---
+
+### British High Commissioner meets President’s Secretary
+
+*2024-11-07 01:39:18* · [`dailyftlk`](https://www.ft.lk/news/British-High-Commissioner-meets-President-s-Secretary/56-768927) · `en`
+
+Discusses reforming local Govt. system to reduce fraud and corruption
+
+A meeting between Secretary to the President Dr. Nandika Sanath Kumanayake and British High Commissioner to Sri Lanka Andrew Patrick was held yesterday at the Presidential Secretariat.
+
+During the meeting, the British High Commissioner expressed his eagerness to further strengthen the strong bilateral ties between Sri Lanka and the United Kingdom.
+
+High Commissioner Patrick also highlighted the British Government’s appreciation for Sri Lanka’s ongoing partnership with the International Monetary Fund (IMF) and expressed readiness to support the Government’s efforts to combat fraud and corruption while boosting State revenue.
+
+...
+
+[Data](articles/fdfbfb7c.json)
+
+[Extended Data](ext_articles/fdfbfb7c.ext.json)
+
+---
+
+### Korea extends $ 10.2 m grant for integrated solid waste management project
+
+*2024-11-07 01:37:54* · [`dailyftlk`](https://www.ft.lk/news/Korea-extends-10-2-m-grant-for-integrated-solid-waste-management-project/56-768926) · `en`
+
+The Cabinet of Ministers on Monday approved a new project aimed at establishing an integrated solid waste management system in the Uva and Northern Provinces. The initiative will be funded by a $ 10.2 million grant from the Korean Government and will be implemented from 2024 to 2028.
+
+“The Korean International Cooperation Agency (KOICA) will provide technical assistance to help local governments address solid waste management challenges and develop sustainable solutions,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
+
+The project focuses on improving waste management infrastructure and practices at the local government level in the two Provinces, where inadequate waste disposal has created environmental and health issues. With Korea’s expertise in sustainable waste management, the Government aims to develop an efficient, environmentally friendly system to address these challenges.
+
+◼️
+
+[Data](articles/7340e9e3.json)
+
+---
+
+### Israeli UNRWA ban will deepen Palestinian humanitarian catastrophe: MSF
+
+*2024-11-07 01:37:16* · [`dailyftlk`](https://www.ft.lk/news/Israeli-UNRWA-ban-will-deepen-Palestinian-humanitarian-catastrophe-MSF/56-768925) · `en`
+
+The Israeli Knesset’s ban on UNRWA’s operations voted on 28 October represents a devastating blow to Palestinian life. It will further undermine people’s survival prospects in Gaza and heavily impact communities in the West Bank.
+
+Médecins Sans Frontières (MSF) denounces this legislation, which represents an inhumane ban on vital humanitarian aid. The Knesset’s vote is propelling Palestinians towards an even deeper humanitarian crisis. It is imperative that the world acts to safeguard Palestinians’ fundamental rights. Immediate international intervention is needed to pressure Israel to allow unhindered access to humanitarian aid, implement a ceasefire and bring to an end the current campaign of destruction in Gaza.
+
+...
+
+[Data](articles/4bb85778.json)
+
+---
+
+### Govt. reallocates unused funds to settle Rs. 28 b  for road rehabilitation bills
+
+*2024-11-07 01:36:49* · [`dailyftlk`](https://www.ft.lk/news/Govt-reallocates-unused-funds-to-settle-Rs-28-b-for-road-rehabilitation-bills/56-768924) · `en`
+
+The Government has decided to reallocate unused funds from 2024 to address outstanding payments to the tune of over Rs. 28 billion under the country’s 100,000 km road rehabilitation initiative.
+
+The decision was made at the weekly Cabinet meeting held on Monday.
+
+“Launched in 2020 as a five-year initiative to upgrade the country’s road network, the initiative has faced financial hurdles since 2023, leading to unpaid bills totalling Rs. 28.37 billion,” Cabinet Spokesman and Minister Vijitha Herath disclosed yesterday.
+
+Speaking at the post-Cabinet meeting media briefing, he said for 2024, Rs. 20 billion has been allocated for essential roadwork, under the 1,000 km of roads identified for rehabilitation.
+
+However, with the Budget constraints impacting progress, the Cabinet decided to allow the Road Development Authority (RDA) to clear these outstanding bills using unused 2024 allocations.
+
+...
+
+[Data](articles/e4faaf9a.json)
+
+---
+
+### JAT posts 67% PAT growth despite Bangladesh crisis
+
+*2024-11-07 01:32:41* · [`dailyftlk`](https://www.ft.lk/business/JAT-posts-67-PAT-growth-despite-Bangladesh-crisis/34-768923) · `en`
+
+Profit After Tax soars to Rs. 512 m against Rs. 306 m in previous year
+
+Gross profit margin rises 2% due to backward vertical integration
+
+JAT Holdings PLC, said yesterday it demonstrated resilience in Q2 and the first half of FY 2024/25, continuing to deliver exceptional value to stakeholders.
+
+Its Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30 September 2024, reaching Rs. 512 million, amid challenges in Bangladesh and Maldives. Meanwhile, revenue from the Group’s Sri Lanka operations grew by 8% to Rs. 3,287 million during the period. Gross profit margin increased by 2% reflecting the positive impact of JAT’s Acrylic Binder and Alkyd Resin manufacturing plants, which have resulted in significant cost efficiencies. Selling and distribution expenses too declined by 10% as a result of JAT’s prudent approach to cost management and a strategic increase in marketing spend in the previous year, which are now yielding returns.
+
+...
+
+[Data](articles/0805c7af.json)
+
+---
 
 ### Alumex takes quantum leap   with brand-new cutting- edge manufacturing facility ’Ascend’
 
@@ -2239,191 +2395,5 @@ Donald Trump, who is contesting for the Republican Party of the United States, h
 [Data](articles/4c75caa3.json)
 
 [Extended Data](ext_articles/4c75caa3.ext.json)
-
----
-
-### Doctor Shafi release from all allegations
-
-*2024-11-06 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198026) · `ta`
-
-Dr. Shafi acquitted on all charges: Kurunegala Magistrate's Court dismisses case due to lack of evidence. Allegations included suspicious property, illegal surgeries, and terrorism links.
-
-🟩
-
-Specialist Dr. Shafi Sihabdeen has been acquitted by the Kurunegala Magistrate's Court on all allegations.
-
-The case against Dr. Shafi, who was accused of involvement with suspicious property, illegal contraceptive surgery and terrorist activities, was taken up for hearing today (06).
-
-In the meantime, the Attorney General's Department announced to the court on Wednesday (06) that there were insufficient evidence to continue the case and the Kurunegala Magistrate dismissed the case from all the allegations related to Shafi.
-
-◼️
-
-[Data](articles/cfc59468.json)
-
-[Extended Data](ext_articles/cfc59468.ext.json)
-
----
-
-### Sampur Alangulam Thuilumillam
-
-*2024-11-06 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198023) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Event: Sampur Alangulam Thuilumillam
-
-Location: Muttur East, Trincomalee district
-
-Date: Tuesday, 05
-
-Place: Alangulam Thuiyilumillam
-
-
-
-This summary captures the essential details about the event location, date, and place within the character limit.
-
-🟩
-
-The work was held on Tuesday (05) at the Alangulam Thuiyilumillamillam in Muttur East, Muttur, Trincomalee district.
-
-◼️
-
-[Data](articles/920fd6dd.json)
-
-[Extended Data](ext_articles/920fd6dd.ext.json)
-
----
-
-### Sri Lanka new govt backtracks on fuel pricing; continues same formula
-
-*2024-11-06 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-backtracks-on-fuel-pricing-continues-same-formula-186255/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new government is compelled to continue the same fuel price formula implemented under the previous government, Cabinet Spokesman Vijitha Herath said, backtracking from the earlier stance.
-
-When the fuel prices were reduced last month, Herath said the fuel price formula was not used to compile the prices.
-
-“We are compelled to go with the price formula due to previous agreements,” Hearth told the weekly post-Cabinet media briefing in Colombo on Wednesday.
-
-President Anura Dissanayake and his Marxist Janatha Vimukthi Peramuna (JVP) members before the September 21 election, accusing the previous government, said people have been paying higher price for fuel because of exorbitant taxes and some commissions for politicians.
-
-Some JVP members said the price of fuel could be reduced by as much as one-third of the current price.
-
-...
-
-[Data](articles/07ff207c.json)
-
-[Extended Data](ext_articles/07ff207c.ext.json)
-
----
-
-### Four ex-Customs officers sentenced to 35 years RI over bribery charges
-
-*2024-11-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103206/four-ex-customs-officers-sentenced-to-35-years-ri-over-briberycharges) · `en`
-
-The Colombo High Court has sentenced four former officials of Sri Lanka Customs to 35 years of rigorous imprisonment each after they were found guilty of the charges of accepting a bribe of Rs. 125 million in 2015 to release bus spare parts imported for the Sri Lanka Transport Board (SLTB).
-
-Furthermore, Colombo High Court Judge Namal Balalle also fined each of them Rs. 125 million while delivering the verdict in the case this morning (06).
-
-The four former officials of Sri Lanka Customs were found guilty over the charges of accepting a bribe of Rs. 125 million from a businessman in the Panchikawatta area in 2015, in order to release from Customs a stock of bus spare parts imported to be supplied for the Sri Lanka Transport Board (SLTB).
-
-◼️
-
-[Data](articles/0b07e400.json)
-
-[Extended Data](ext_articles/0b07e400.ext.json)
-
----
-
-### Republicans win control of US Senate, make gains in House
-
-*2024-11-06 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103207/republicans-win-control-of-us-senate-make-gains-in-house) · `en`
-
-Republicans won control of the U.S. Senate with victories in West Virginia and Ohio on Tuesday, ensuring Donald Trump’s party will control at least one chamber of Congress next year.
-
-Republicans also posted early gains as they battled to retain control of the House of Representatives.
-
-But Tuesday’s results ensured Republicans would be able to help Trump appoint conservative judges and other government personnel if he wins the presidential race, or block much of Democrat Kamala Harris‘s agenda if she prevails.
-
-Republican Jim Justice was projected to win an open Senate seat in West Virginia shortly after polls closed, taking over the seat previously held by Joe Manchin, a Democrat-turned-independent. In Ohio, Republican Bernie Moreno was projected to defeat incumbent Democrat Sherrod Brown.
-
-Those two victories ensured Republicans will hold at least a 51-49 majority in the Senate, with further gains possible as results in other competitive races come in.
-
-...
-
-[Data](articles/6da37225.json)
-
-[Extended Data](ext_articles/6da37225.ext.json)
-
----
-
-### Banning pimples without permission and a gazetted
-
-*2024-11-06 12:51:52* · [`adalk`](https://www.ada.lk/breaking_news/අවසරයක්-නැතිව-ඌරන්-මැරීම--මස්-විකිණිම-තහනම්-කරමින්-තවත්-ගැසට්ටුවක්/11-412888) · `si`
-
-Sri Lanka bans unauthorized pig farming, slaughter, and pork production due to PRRS risk. New gazette extends restrictions on unlicensed activities and imports.
-
-🟩
-
-The Director General of Animal Production and Ruthless Areas (Pigs) and Risk of Breeding and Respiratory Disease (PRRS) and Risk (PRRS), the Director General of Animal Production and Risk and Disease (PRRS), Sri Lanka Chandrika Hemali, Kotalamwala for the second timeA special gazette notification has been issued.
-
-Earlier gazette notification had been issued on the previous October 25 and has been released today (4).
-
-New pigs, pork products and section of the pigs of the previous gazette are not banned by the new gazette and preparation of pork products.Specified.
-
-In addition, the law has been prohibited by the law that prohibited risks to carrying pigs, pigs, pigs, or pathogens in the injuries.
-
-The new gazette is also banned by the new gazette except at an authorized slaughter approved by an authorized officer.
-
-...
-
-[Data](articles/ced73be6.json)
-
-[Extended Data](ext_articles/ced73be6.ext.json)
-
----
-
-### Top Trump to the American presidential election?
-
-*2024-11-06 12:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202966) · `si`
-
-Donald Trump leads in US presidential race. Republicans hold 265 electoral college votes, Democrats have 194. 270 needed to win.
-
-🟩
-
-The Republican Party candidate, Donald Trump, reports the Republican Party candidate, Donald Trump.
-
-Meanwhile, the BBC News reported that the winners of 265 votes were held in 265 voting College, while Democratic Party candidate Kamala Harris won 194 votes.
-
-270 votes should be won to win the presidential election.
-
-◼️
-
-[Data](articles/876cc6e0.json)
-
-[Extended Data](ext_articles/876cc6e0.ext.json)
-
----
-
-### The rule of the United States again Trump
-
-*2024-11-06 12:48:50* · [`adalk`](https://www.ada.lk/breaking_news/අමෙරිකාවේ-පාලනය-යළිත්-ට්‍රම්ප්ට/11-412887) · `si`
-
-Donald Trump re-elected as US President in 2024, winning 277 electoral votes against Fox News-backed opponent. He becomes 47th U.S. President.
-
-🟩
-
-2024 Former President of the American presidential election, Donald Trump won.
-
-He has won 277 votes and his opponent, the Fox News in the project.
-
-Accordingly, Donald Trump was elected as the 47th President of the United States.
-
-◼️
-
-[Data](articles/7c7422be.json)
-
-[Extended Data](ext_articles/7c7422be.ext.json)
 
 ---

@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 03:10:00**
+As of **2024-11-07 03:24:38**
 
 ## Newspaper Stats
 
-*Scraped **53,463** Articles*
+*Scraped **53,464** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
-colombotelegraphcom | 545
 bbccomsinhala | 545
+colombotelegraphcom | 546
 islandlk | 3,189
 economynextcom | 3,242
 dailyftlk | 3,659
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,463 (100.0%) of 53,463 articles have been extended.
+53,464 (100.0%) of 53,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -593,6 +593,20 @@ The arrested overseas is a 52 year old Sierra Leone, another suspect is a 28 yea
 [Data](articles/a01ea54c.json)
 
 [Extended Data](ext_articles/a01ea54c.ext.json)
+
+---
+
+### What Really Happened In The U. S. General Elections? Some Quick Observations
+
+*2024-11-06 21:32:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-really-happened-in-the-u-s-general-elections-some-quick-observations/) · `en`
+
+Trump’s landslide victory in last night’s election defied the expectations of many on the left, who had assumed that Kamala Harris would be a strong contender. Analysts believed Harris’s campaign would secure a diverse coalition that could build on previous Democratic gains. However, the results reveal a stark divergence from these expectations, underscoring a number of key points.
+
+...
+
+[Data](articles/480a359d.json)
+
+[Extended Data](ext_articles/480a359d.ext.json)
 
 ---
 
@@ -2393,23 +2407,5 @@ Investigations have revealed that the suspect had taken three robbers with a dri
 [Data](articles/2dc88bd8.json)
 
 [Extended Data](ext_articles/2dc88bd8.ext.json)
-
----
-
-### Ministers will no longer be provided with houses in Colombo…!-President Anura's Action Decision
-
-*2024-11-06 13:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198031) · `ta`
-
-Sri Lanka: Ministers banned from Colombo homes. President Anura Kumara Dissanayake orders officials to vacate properties. Those refusing face prosecution. Government claims 28 homes already returned. Decision aims to address public issues.
-
-🟩
-
-The 25 ministers of their government should no longer live in their territory. President Anura Kumara Dissanayake has said that the problems of the people should be exploring and solving them.He warned that none of the ministers will be given official residences in Colombo and that those who have already done so will be prosecuted if they do not hand them over.. According to government sources, 28 homes have been handed over.
-
-◼️
-
-[Data](articles/10ce7e45.json)
-
-[Extended Data](ext_articles/10ce7e45.ext.json)
 
 ---

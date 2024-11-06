@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 02:40:11**
+As of **2024-11-07 02:59:11**
 
 ## Newspaper Stats
 
-*Scraped **53,459** Articles*
+*Scraped **53,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,93 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
-tamilmirrorlk | 7,440
-virakesarilk | 8,645
+tamilmirrorlk | 7,441
+virakesarilk | 8,648
 adaderanasinhalalk | 9,317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,459 (100.0%) of 53,459 articles have been extended.
+53,463 (100.0%) of 53,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### A canal that turned red in Ratmalana: A report issued by the Central Environmental Authority
+
+*2024-11-07 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198080) · `ta`
+
+Ratmalana canal turns red due to red dye. Central Environmental Authority investigates, finds pH levels normal. Public assured no danger.
+
+🟩
+
+The Central Environmental Authority has issued a statement on the reason why a canal in Ratmalana turned red.
+
+A canal in Ratmalana, Badovitta area, was red on Tuesday morning.
+
+In a statement issued by the Central Environmental Authority, the public has been asked not to fear.
+
+According to information received by the Central Environmental Authority on Tuesday (05), the Upper Provincial Office of the Central Environmental Authority is conducting a field inspection.
+
+In this field investigation, it was revealed that the color of the water has changed due to the leaving red dye in the canal.
+
+The pigment is a soluble pigment, and that the pH (pH) values ​​and parameters are in accordance with existing environmental conditions, according to a statement issued by the Central Environmental Authority.
+
+◼️
+
+[Data](articles/f7969842.json)
+
+[Extended Data](ext_articles/f7969842.ext.json)
+
+---
+
+### Donald Trump's shocking and reincarnation
+
+*2024-11-07 02:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டொனால்ட்-ட்ரம்பின்-அதிர்ச்சிதரும்-மறுபிரவேசம்/50-346690) · `ta`
+
+Donald Trump re-elected as US President. Won 279 out of 538 Electoral College votes. Kamala Harris received 223 votes. Early voting accounted for 40% of total ballots cast.
+
+🟩
+
+Republican nominee and former president Donald Trump has won the US presidential election.
+
+The Electrural College (Voter Committee) procedure is followed in the US presidential election. There are a total of 50 provinces in that country. Voter committee members will be in accordance with the population of their respective provinces. In the small provinces, there are 1 to the largest province of California, 55, from 55 voters.
+
+Overall has 538 voters group members. The candidate who receives the support of at least 270 members can win the presidential election. In that respect, Trump has scored 279 and Kamala Harris 223.
+
+It is worth noting that if the candidate of the particular party in a province wins more votes, the province of the province will reach the winning candidate throughout the election.. Provincial wise voting has reached its final stage.
+
+...
+
+[Data](articles/1885a4d6.json)
+
+[Extended Data](ext_articles/1885a4d6.ext.json)
+
+---
+
+### Donald Trump's victory rose shares, dollar value rose
+
+*2024-11-07 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198079) · `ta`
+
+Donald Trump's presidency boosted US stock market and dollar value. Chinese stocks fell slightly, but Elon Musk's Tesla rose 13%. Tax cuts may increase US economy costs, while potential export taxes could raise global product prices.
+
+🟩
+
+Donald Trump won the US presidential election and the value of US companies and dollars has increased.
+
+Foreign media reports that Chinese stocks have fallen slightly while Elon Muskin Tesla has risen 13 percent.
+
+It is noteworthy that the promised tax cuts are expected to increase the price of the US economy, while the threatening to tax on foreign exports will increase the prices of goods.
+
+◼️
+
+[Data](articles/469a8fa8.json)
+
+[Extended Data](ext_articles/469a8fa8.ext.json)
+
+---
 
 ### NPP will get less than 100 seats: Madduma Bandara
 
@@ -273,6 +347,30 @@ The above writing by the French philosopher and author Bertrand de Jouvenel is q
 [Data](articles/c826ecf4.json)
 
 [Extended Data](ext_articles/c826ecf4.ext.json)
+
+---
+
+### Struggle to disrupt the election and support the excavation of heavy sand
+
+*2024-11-07 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198078) · `ta`
+
+Protesters support heavy sand excavation despite election announcement. Group visits Mannar Election Monitoring Committee, advised to leave due to potential disruption. Some protesters engage in voting, others disperse after warning. Foreign-based company allegedly pays 3000 rupees per person to protest.
+
+🟩
+
+On Wednesday morning, a group of people were protesting in support of heavy sand excavations in the Erukkalam Pitti area of ​​Talaimannar on Wednesday morning.
+
+In this backdrop, a group of people who visited the Mannar Election Monitoring Committee have been advised to dissolve from the area as such protests cannot be carried out as the election has been announced.
+
+However, they did not go away and engaged in voting with election officials. In this case, the protesters dispersed from the area as the public service was warned that the arrest would be taken and action would be taken in order to disrupt the election duty.
+
+It is reported that a foreign -based company has been brought to the protest by paying 3000 rupees per person.
+
+◼️
+
+[Data](articles/bd6de425.json)
+
+[Extended Data](ext_articles/bd6de425.ext.json)
 
 ---
 
@@ -2313,95 +2411,5 @@ The 25 ministers of their government should no longer live in their territory. P
 [Data](articles/10ce7e45.json)
 
 [Extended Data](ext_articles/10ce7e45.ext.json)
-
----
-
-### The golden age to the United States;We will heal the wounds of the nation - Trump among supporters
-
-*2024-11-06 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198032) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Trump vows to heal national wounds, calls US strong. New president emphasizes importance of current day.
-
-🟩
-
-Donald Trump, the new president of the United States, has said that we are going to heal the wounds of our nation.
-
-You will consider this day in your life as a very important day.
-
-He noted that the US has given us a very strong order.
-
-◼️
-
-[Data](articles/45411faa.json)
-
-[Extended Data](ext_articles/45411faa.ext.json)
-
----
-
-### Trump claims victory after Fox News projects he has won US presidency
-
-*2024-11-06 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103208/trump-claims-victory-after-fox-news-projects-he-has-won-us-presidency) · `en`
-
-Republican Donald Trump claimed victory in the 2024 presidential contest after Fox News projected that he had defeated Democrat Kamala Harris, which would cap a stunning political comeback four years after he left the White House.
-
-“America has given us an unprecedented and powerful mandate,” he said early on Wednesday to a roaring crowd of supporters at the Palm Beach County Convention Center.
-
-Other news outlets had yet to call the race for Trump, but he appeared on the verge of winning after capturing the battleground states of Pennsylvania, North Carolina and Georgia and holding leads in the other four, according to Edison Research.
-
-Harris did not speak to her supporters, who had gathered at her alma mater Howard University. Her campaign co-chair, Cedric Richmond, briefly addressed the crowd after midnight, saying Harris would speak publicly on Wednesday.
-
-...
-
-[Data](articles/899fcc95.json)
-
-[Extended Data](ext_articles/899fcc95.ext.json)
-
----
-
-### US President's Election: Donald Trump Wins
-
-*2024-11-06 13:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-அதிபர்-தேர்தல்-டொனால்ட்-ட்ரம்ப்-வெற்றி/50-346665) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Donald Trump wins US presidency as 45th president, not 47th. He leads Republican Party and receives most votes in election.
-
-🟩
-
-Donald Trump, who is contesting for the Republican Party of the United States, has won the highest number of votes as the 47th president.
-
-◼️
-
-[Data](articles/3b9ae042.json)
-
-[Extended Data](ext_articles/3b9ae042.ext.json)
-
----
-
-### Trump wins US presidential election
-
-*2024-11-06 13:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஜனாதிபதித்-தேர்தலில்-ட்ரம்ப்-வெற்றி/50-346665) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Donald Trump wins US presidency. As Republican candidate, he receives most votes, becoming 45th US President. His victory marks a significant shift in American politics.
-
-🟩
-
-Donald Trump, who is contesting for the Republican Party of the United States, has won the highest number of votes as the 47th president.
-
-◼️
-
-[Data](articles/4c75caa3.json)
-
-[Extended Data](ext_articles/4c75caa3.ext.json)
 
 ---

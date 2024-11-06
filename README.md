@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 21:40:43**
+As of **2024-11-06 22:00:10**
 
 ## Newspaper Stats
 
-*Scraped **53,423** Articles*
+*Scraped **53,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,994
-adaderanalk | 6,366
+adalk | 4,995
+adaderanalk | 6,367
 tamilmirrorlk | 7,439
 virakesarilk | 8,645
 adaderanasinhalalk | 9,314
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,423 (100.0%) of 53,423 articles have been extended.
+53,425 (100.0%) of 53,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Russia’s Azur Air resumes winter flights to Sri Lanka
+
+*2024-11-06 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103219/russias-azur-air-resumes-winter-flights-to-sri-lanka) · `en`
+
+Russia’s Azur Air has officially resumed its seasonal winter flights to Sri Lanka, with the first flight arriving at Bandaranaike International Airport (BIA) in Katunayake today (Nov. 06).
+
+The inaugural flight arrived at the BIA at 10:05 a.m. this morning, carrying 332 passengers.
+
+Airport and Aviation Services (Sri Lanka) (Pvt) Limited welcomed the flight with a ceremonial water cannon salute, while Sri Lanka Tourism arranged a traditional Kandyan dance performance to greet the passengers.
+
+For the Winter 2024/2025 season, Azur Air will operate five weekly flights using Boeing 767-300 aircraft, with a seating capacity of 336 in economy class, from five major cities in Russia: Vnukovo (VKO), Tolmachevo (OVB), Krasnoyarsk (KJA), St. Petersburg (LED), and Sochi (AER).
+
+◼️
+
+[Data](articles/95073b69.json)
+
+[Extended Data](ext_articles/95073b69.ext.json)
+
+---
 
 ### I will take all the legal action to prevent the injustice inflicted on him - Dr. Saafi Sahabdeen
 
@@ -335,6 +355,36 @@ Kegalle – Deraniyagala, Ruwanwella, Dehiowita, Yatiyanthota, Kegalle, Galigamu
 [Data](articles/26bdaec1.json)
 
 [Extended Data](ext_articles/26bdaec1.ext.json)
+
+---
+
+### Zaralione, who was swallowed with 40 cocaine in rupees
+
+*2024-11-06 18:32:43* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටියක-කොකේන්-ගුලි-40-ක්-ගිල-දමා-සිටි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-412897) · `si`
+
+Two men arrested: one swallowed 40g cocaine, another found with 2.4kg. Both face charges related to drug trafficking. Investigations ongoing.
+
+🟩
+
+A Kocainen was arrested by the Police Narcotics, the Bureau of Borella, who had been swallowed with a sum of Rs.
+
+The suspect has taken US $ 500 and several foreign currency notes.
+
+Another person has been arrested with 2400 millions of cocaine.
+
+The suspect was arrested in accordance with two suspects who were arrested by the Galle Harbor (1nd 19) with 279 suspects arrested with the Galle Port Police at Galle.
+
+The suspect has been brought to the cocaine, police said.
+
+Police say the suspect had been accommodated in a hotel in Kollupitiya, police said.
+
+The suspect is a 52 year old and the other is a 28-year-old man. The Police Narcotics Bureau is conducting further investigations.
+
+◼️
+
+[Data](articles/5d17e7c5.json)
+
+[Extended Data](ext_articles/5d17e7c5.ext.json)
 
 ---
 
@@ -2389,45 +2439,5 @@ The government has said that the Chinese government has provided school uniforms
 [Data](articles/255b05ec.json)
 
 [Extended Data](ext_articles/255b05ec.ext.json)
-
----
-
-### The case against Dr. Safi is refuted
-
-*2024-11-06 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202963) · `si`
-
-Dr. Safi case dismissed due to lack of evidence. Magistrate orders Kurunegala court proceedings halted. Attorney General advises no further action required.
-
-🟩
-
-The Magistrate today (06) ordered that the Kurunegala Magistrate's Court today (06).
-
-The Attorney General has instructed to refute the case as there is insufficient evidence.
-
-◼️
-
-[Data](articles/e7153fbd.json)
-
-[Extended Data](ext_articles/e7153fbd.ext.json)
-
----
-
-### Dr. Shafi acquitted from all charges
-
-*2024-11-06 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103202/dr-shafi-acquitted-from-all-charges) · `en`
-
-Specialist Dr. Shafi Sihabdeen has been acquitted from all charges by the Kurunegala Magistrate’s Court, Ada Derana reporter said.
-
-The case against Dr. Shafi, who had been accused of allegedly amassing assets through suspicious means, performing illegal sterilization surgeries and having links to terrorist activities, was taken up for hearing today (06).
-
-The Kurunegala Magistrate ordered the case to be dismissed, after the Attorney General’s Department informed court today that there was not enough evidence to proceed with the case, and ordered the acquittal of defendant Dr. Shafi from all related charges.
-
-Furthermore, the court also lifted the overseas travel ban which was imposed on Dr. Shafi Sihabdeen, according to Ada Derana reporter.
-
-...
-
-[Data](articles/d8b9e52f.json)
-
-[Extended Data](ext_articles/d8b9e52f.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 17:41:29**
+As of **2024-11-06 18:01:16**
 
 ## Newspaper Stats
 
-*Scraped **53,392** Articles*
+*Scraped **53,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,987
-adaderanalk | 6,362
+adaderanalk | 6,364
 tamilmirrorlk | 7,436
 virakesarilk | 8,635
 adaderanasinhalalk | 9,308
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,308
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,392 (100.0%) of 53,392 articles have been extended.
+53,393 (100.0%) of 53,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Donald Trump elected president in stunning comeback
+
+*2024-11-06 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103215/donald-trump-elected-president-in-stunning-comeback) · `en`
+
+Donald Trump was elected president, capping a remarkable comeback four years after he was voted out of the White House and ushering in a new American leadership likely to test democratic institutions at home and relations abroad.
+
+Trump, 78, recaptured the White House on Wednesday by securing more than the 270 Electoral College votes needed to win the presidency, Edison Research projected, following a campaign of dark rhetoric that deepened the polarization in the country.
+
+The former president’s victory in the swing state of Wisconsin pushed him over the threshold. As of 5:45 a.m. ET (1045 GMT) Trump had won 279 electoral votes to Harris’ 223 with several states yet to be counted.
+
+He also led Harris by about 5 million votes in the popular count.
+
+“America has given us an unprecedented and powerful mandate,” Trump said early on Wednesday to a roaring crowd of supporters at the Palm Beach County Convention Center in Florida.
+
+...
+
+[Data](articles/062144dd.json)
+
+[Extended Data](ext_articles/062144dd.ext.json)
+
+---
+
+### PM meets ICC anti-corruption chiefs, discuss advancing integrity in cricket
+
+*2024-11-06 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103214/pm-meets-icc-anti-corruption-chiefs-discuss-advancing-integrity-in-cricket-) · `en`
+
+Prime Minister Dr. Harini Amarasuriya recently met with key figures from the International Cricket Council (ICC) Anti-Corruption Unit (ACU), including Mr. Sumathi Dharmawardena, President’s Counsel and the newly appointed Independent Chair of the ICC’s ACU and Mr. Alex Marshall, General Manager of the ICC Integrity Unit.
+
+During the discussion, Mr. Alex Marshall noted Sri Lanka’s progress in combating corruption in cricket over the past seven years, emphasizing the importance of player education and strengthening the Ministry of Sports’ Special Investigations, according to the PM’s Office.
+
+The meeting was also attended by Mr. Andrew Ephgrave, Senior Manager, of ICC ACU Operations; Mr. Vije Bandara, Senior Attorney and Director General of Legal at the President’s Office; Mrs. Illeperuma, Additional Secretary at the Ministry of Sports; and Prof. Shemal Fernando, Director General of Sports.
+
+◼️
+
+[Data](articles/7f1244f1.json)
+
+---
 
 ### Court to review injunction against e-passport purchase; Ex-President Ranil named respondent
 
@@ -2353,49 +2391,5 @@ It is important that he contested on behalf of the party in the last parliamenta
 [Data](articles/f08a4305.json)
 
 [Extended Data](ext_articles/f08a4305.ext.json)
-
----
-
-### Sri Lankan migrants stranded on Diego Garcia offered move to UK – report
-
-*2024-11-06 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103197/sri-lankan-migrants-stranded-on-diego-garcia-offered-move-to-uk-report) · `en`
-
-Migrants stranded for years on the remote Indian Ocean island of Diego Garcia will be offered the right to come to the UK, under a government proposal.
-
-Around 60 Sri Lankan Tamils have spent more than three years in a makeshift camp on the island, which hosts a secretive UK-US military base, after becoming the first people ever to file asylum claims there.
-
-The government has previously opposed bringing the group to the UK and complex legal battles have been fought for years over their fate.
-
-In a letter on Monday, government lawyers said that “following further consideration”, the government had proposed a “change of policy”.
-
-Under this, “all families, children and those of the unaccompanied males who do not have criminal convictions, outstanding charges or investigations would be offered the opportunity to be transferred directly to the UK”.
-
-...
-
-[Data](articles/2ae6c15d.json)
-
-[Extended Data](ext_articles/2ae6c15d.ext.json)
-
----
-
-### A special meeting of the Election Commission
-
-*2024-11-06 09:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202954) · `si`
-
-Election Commission meeting: District Returning Officers, Assistant Elections Commissioners attend. Discusses future parliamentary election activities. Commissioner General Saman Sri Ratnayake leads discussion. Meeting scheduled for tomorrow.
-
-🟩
-
-District Returning Officers and Assistant Elections Commissioners have been called to the Election Commission today (06).
-
-Commissioner General of the General Saman Sri Ratnayake said the meeting would be held to discuss the future activities of the parliamentary election.
-
-"The District Deputy District Deputy District Deputy and Assistant Commissioners have been held under the participation of all members, the Commissioner General of Elections, the Commissioner General of the Head Office at the Head Office, the Commissioner General of the Head Office, participating in the Head Office.. Here is the key to the next day to be held on the relevant date. All relevant officers participate. "
-
-◼️
-
-[Data](articles/3429c4cf.json)
-
-[Extended Data](ext_articles/3429c4cf.ext.json)
 
 ---

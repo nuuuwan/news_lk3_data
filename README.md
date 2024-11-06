@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 20:59:14**
+As of **2024-11-06 21:12:45**
 
 ## Newspaper Stats
 
-*Scraped **53,421** Articles*
+*Scraped **53,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,994
 adaderanalk | 6,366
-tamilmirrorlk | 7,438
+tamilmirrorlk | 7,439
 virakesarilk | 8,644
 adaderanasinhalalk | 9,314
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,421 (100.0%) of 53,421 articles have been extended.
+53,421 (100.0%) of 53,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### டொனால்ட் டிரம்பிற்கு ஜனாதிபதி அநுர வாழ்த்து
+
+*2024-11-06 21:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொனால்ட்-டிரம்பிற்கு-ஜனாதிபதி-அநுர-வாழ்த்து/175-346676) · `ta`
+
+அமெரிக்காவின் 47 ஆவது ஜனாதிபதியாக தெரிவு செய்யப்பட்ட ஜனாதிபதி டொனால்ட் டிரம்பிற்கு, ஜனாதிபதி அநுரகுமார திசாநாயக்க எக்ஸ் தளத்தில் வாழ்த்துக்களை தெரிவித்துள்ளார்.
+
+"அமெரிக்காவின் 47 ஆவது ஜனாதிபதியாக தெரிவு செய்யப்பட்ட டிரம்ப்புக்கு மனமார்ந்த வாழ்த்துக்களைத் தெரிவிக்கிறேன். இலங்கை மற்றும் அமெரிக்க மக்களுக்கு நன்மை பயக்கும் எமக்கிடையிலான உறவிலுள்ள பொதுவான இலக்குகளை அடைவதற்கு உங்களுடன் இணைந்து பணியாற்ற நான் எதிர்பார்க்கிறேன்." என்று பதிவிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/de09ff1a.json)
+
+---
 
 ### The New Example That Dilith and including Dilith
 
@@ -2403,27 +2417,5 @@ The new online process will be launched to reduce the queues.
 [Data](articles/f6193d79.json)
 
 [Extended Data](ext_articles/f6193d79.ext.json)
-
----
-
-### Chandrika's' safety has not been removed - Cabinet spokesman
-
-*2024-11-06 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202962) · `si`
-
-Cabinet spokesperson denies removal of Chandrika Bandaranaike's security. Former president's protection unchanged despite claims.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the security of former President Chandrika Bandaranaike Kumaratunga has not been removed or reduced.
-
-He was speaking at a press notice of the Cabinet Decision.
-
-"Former presidents, especially Chandrika Bandaranaike, Mrs. Chandrika Bandaranaike had said he would remove the security of her. No removal has been done. She was sent to 30 to 30, it was wrong. She has already given 57 people. "
-
-◼️
-
-[Data](articles/1589505d.json)
-
-[Extended Data](ext_articles/1589505d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 01:24:30**
+As of **2024-11-07 01:59:15**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,443 (100.0%) of 53,451 articles have been extended.
+53,451 (100.0%) of 53,451 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -97,6 +97,8 @@ Highlights Govt.’s plans on providing support to SMEs by introducing a banking
 ### Truth, lies, national security,  and value of democratic Opposition
 
 *2024-11-07 00:13:53* · [`dailyftlk`](https://www.ft.lk/columns/Truth-lies-national-security-and-value-of-democratic-Opposition/4-768914) · `en`
+
+JR’s words from 1956 are a wake-up call for us today. As a politician who lost his parliamentary seat, where the powerful UNP was reduced to 8 seats by S.W.R.D. Bandaranaike’s M.E.P and its wave of Sinhala nationalism, JR’s speech was a warning of the dangers of a powerful Government without strong opposition
 
 The prerequisite of our political life is the alternation of political teams in office. Indeed, what we think of as “democracy” is intimately bound up with this system of alternation, as our main liberties coincide with those necessary for the “outs” to rally support and oust the “ins.”
 
@@ -1160,6 +1162,8 @@ Top contributors to the ASPI were Co-operative Insurance Company (up at 2.80), D
 
 [Data](articles/2c011f46.json)
 
+[Extended Data](ext_articles/2c011f46.ext.json)
+
 ---
 
 ### Three arrested over murder of Kempitiya Walawwa owner
@@ -1728,6 +1732,8 @@ The 6 and 9 month bills are available on tap after the auction. (Colombo/Nov6/20
 
 [Data](articles/ba78c462.json)
 
+[Extended Data](ext_articles/ba78c462.ext.json)
+
 ---
 
 ### Sri Lanka to settle Rs28.37bn plus in road arrears
@@ -1745,6 +1751,8 @@ The Cabinet approved the proposal to manage the provisions allocated to the Mini
 ◼️
 
 [Data](articles/0fd168e6.json)
+
+[Extended Data](ext_articles/0fd168e6.ext.json)
 
 ---
 
@@ -1980,6 +1988,8 @@ The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the re
 
 [Data](articles/f9b9702d.json)
 
+[Extended Data](ext_articles/f9b9702d.ext.json)
+
 ---
 
 ### Trump confirms win
@@ -2034,6 +2044,8 @@ The tycoon won Georgia and North Carolina, with others still up in the air, whil
 
 [Data](articles/5b9e419b.json)
 
+[Extended Data](ext_articles/5b9e419b.ext.json)
+
 ---
 
 ### Trump claims victory over Harris in US presidential election
@@ -2055,6 +2067,8 @@ US networks have called the swing states of Pennsylvania, Georgia and North Caro
 ...
 
 [Data](articles/8fe24d02.json)
+
+[Extended Data](ext_articles/8fe24d02.ext.json)
 
 ---
 
@@ -2299,6 +2313,8 @@ Some JVP members said the price of fuel could be reduced by as much as one-third
 ...
 
 [Data](articles/07ff207c.json)
+
+[Extended Data](ext_articles/07ff207c.ext.json)
 
 ---
 

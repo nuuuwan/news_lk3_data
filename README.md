@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 20:12:10**
+As of **2024-11-06 20:40:20**
 
 ## Newspaper Stats
 
-*Scraped **53,416** Articles*
+*Scraped **53,417** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 4,993
 adaderanalk | 6,366
 tamilmirrorlk | 7,437
-virakesarilk | 8,643
+virakesarilk | 8,644
 adaderanasinhalalk | 9,312
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,412 (100.0%) of 53,416 articles have been extended.
+53,417 (100.0%) of 53,417 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -506,39 +506,57 @@ The hero and the hero in the exclusive poster released for this have been very p
 
 ---
 
-### யாழில் பனை அபிவிருத்தி சபை ஊழியர்கள் போராட்டம்
+### Palm Development Council employees struggle in Jaffna
 
 *2024-11-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/198064) · `ta`
 
-யாழ். கைதடியில் அமைந்துள்ள பனை அபிவிருத்தி சபை ஊழியர்கள் சபை முன்றலில் இன்று புதன்கிழமை  போராட்டத்தில் ஈடுபட்டனர்.
+Palm Development Council employees protest in Jaffna against new leader's appointment, demanding salary issues resolution.
 
-சபைக்கு நியமிக்கப்பட்ட புதிய தலைவர் ஊழியர்களுடன் நடந்து கொள்ளும் அநாகரிகமாக செயற்பாடுகளை கண்டித்தே இந்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+🟩
 
-இதன்போது, “NPP அரசே தகுதயற்ற புதிய தலைவர் நியமனத்தை உடனடியாக இரத்துச் செய், பனை தறித்த காசுதான் ஊழியர்களின் ஊதியமா?, நிர்வாக திறன் அற்ற பதில் பொதுமுகாமையாளரை உடனடியாக பதிவி நீக்கம் செய், NPP அரசே செல்வினின் பதவி நீக்கத்திற்கு தகுந்த காரணம் கூறு, அண்ணன் பதில் முகாமையாளர் ஊழலை மறைக்க தங்கை உள்ளக கணக்காய்வாளர், பனை அபிவிருத்தி சபை ஊழியர்கள் தண்டச் சோறுகளா?, ஊழலற்ற அரசின் தலைவர் நியமனம் இதுவா? என்ற வாசகங்கள் எழுதிய பதாகைகளை கைகளில் ஏந்தியவாறும், கோசங்களை எழுப்பி தமது எதிர்ப்பை வெளிப்படுத்தினர்.
+Yall. The Palm Development Council employees of Kaithadi staged a protest on Wednesday.
 
-ஜனாதிபதியாக அனுரகுமார திஸாநாயக்க பதிவியேற்ற பின்னர் பனை அபிவிருத்தி சபையின் தலைவராக செல்வின் நியமிக்கப்பட்டார்.
+The demonstration has been carried out condemning the actions of the new leader appointed to the congregation as an immorality with the employees.
 
-...
+In the meantime, “NPP government's removal of the new leader's appointment, is the salary of the palm workers?Are the employees of the council?The banners were carried in the hands of the words, and they expressed their opposition to the slogans.
+
+Selvin was appointed as the Chairman of the Palm Development Board after registering with Anuragumara Dissanayake as President.
+
+It is noteworthy that he was transferred to his duties for a few days and appointed Vinayagamoorthy Sahadevan as the new leader.
+
+◼️
 
 [Data](articles/9baac301.json)
 
+[Extended Data](ext_articles/9baac301.ext.json)
+
 ---
 
-### இயக்குநர் ராஜுமுருகன் வழங்கும் 'பராரி' திரைப்படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### The announcement of the release date of the movie 'Parari' by director Rajamurugan
 
 *2024-11-06 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198063) · `ta`
 
-அறிமுக நடிகர் ஹரி சங்கர் கதையின் நாயகனாக நடித்திருக்கும் 'பராரி' திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+"Parari" movie release date announced: Director Rajamurugan's film stars Hari Shankar, Sangeetha Kalyan, Guru Rajendran. Music by Sridhar, produced by Gala Films Pvt., featuring oppressed people themes. Global release set for 22nd of this month.
 
-அறிமுக இயக்குநர் எழில் பெரியவேடி இயக்கத்தில் உருவாகி இருக்கும் 'பராரி' எனும் திரைப்படத்தில் ஹரி சங்கர், சங்கீதா கல்யாண், குரு ராஜேந்திரன், சாம்ராட் சுரேஷ், புகழ் மகேந்திரன், வி. பிரேம்நாத் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். ஸ்ரீதர் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு ஷான் ரோல்டன் இசையமைத்திருக்கிறார்.
+🟩
 
-ஒடுக்கப்பட்ட மக்களின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை காலா ஃபிலிம்ஸ் பிரைவேட் லிமிடெட் எனும் நிறுவனம் சார்பில் ஹரி சங்கர் தயாரித்திருக்கிறார். இந்த திரைப்படத்தை எழுத்தாளரும், திரைப்பட இயக்குநருமான ராஜுமுருகன் வழங்குகிறார்.
+The release date of the film 'Parari', starring the hero of the story, has been officially announced.
 
-இந்தத் திரைப்படத்தின் பாடல்கள் மற்றும் முன்னோட்டம் இணையத்தில் வெளியாகி மில்லியன் கணக்கிலான பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருக்கிறது.
+Hari Shankar, Sangeetha Kalyan, Guru Rajendran, Samrat Suresh, fame Mahendran, V.. Many people including Premnath have played. The film, which has been recorded by Sridhar, has composed the film.
 
-...
+Hari Shankar has produced the film on behalf of the Gala Films Pvt.. The film is presented by writer and film director Rajamurugan.
+
+The songs and previews of the film have been released on the Internet and have been visited by millions of viewers.
+
+As well as the expectation of the film. The film crew has been excited that the film will be released around the world on the 22nd of this month.
+
+It is noteworthy that the film is in anticipation of a section of the fans as the scenes of the oppressed people are emotionally featured in the preview of the film.
+
+◼️
 
 [Data](articles/1523ed5b.json)
+
+[Extended Data](ext_articles/1523ed5b.ext.json)
 
 ---
 
@@ -702,21 +720,33 @@ China and Sri Lanka are far from, but our friendly exchange has been lasted for 
 
 ---
 
-### ஊடக அடக்குமுறையை பிரயோகிப்பது எமது நோக்கமல்ல : பொறுப்புடன் செயற்படுமாறே கோருகின்றோம் - அரசாங்கம்
+### It is not our intention to use media repression: We demand responsibility - the government
 
 *2024-11-06 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198046) · `ta`
 
-தேசிய மக்கள் சக்தி அரசாங்கம் ஒருபோதும் ஊடக ஒடுக்குமுறையைப் பிரயோகிக்கவில்லை. அதற்கான தேவையும் எமக்கு இல்லை. ஒழுக்க கோவைகளுக்கு அமைய ஊடகங்கள் செயற்பட வேண்டும் என்று கேட்டுக் கொள்வதாக அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+Here's a 200-character summary:
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு புதன்கிழமை (6) இடம்பெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
 
-பிரதமர் ஹரிணி அமரசூரிய எந்தவொரு சந்தர்ப்பத்திலும் ஊடக ஒடுக்குமுறைகளைப் பயன்படுத்தவில்லை. ஊடகவியலாளர்களுக்கு இடையூறு விளைவிக்கவுமில்லை. அவரது பாதுகாப்பை உறுதிப்படுத்துவதற்கான பணிகளையே பாதுகாப்பு அதிகாரிகள் முன்னெடுத்திருந்தனர்.
 
-பாதுகாப்பு அதிகாரிகள் தமது கடமையை நிறைவேற்றியமையை ஊடக ஒடுக்குமுறையென திரிபுபடுத்த வேண்டாம். கடந்த காலங்களில் பிரதமருக்கு அருகில் செல்வதற்கு கூட இடமளிக்கவில்லை. ஆனால் தற்போது அந்த மாற்றத்தை தெளிவாகக் அவதானிக்கக் கூடியதாகவுள்ளது.
+National People's Power Government denies media oppression. Cabinet spokesperson Vijitha Herath emphasizes moral conduct. Prime Minister Harini Amarasuriya doesn't disrupt journalists. Security measures ensure her safety. Media urged to act ethically.
 
-...
+🟩
+
+The National People's Power Government has never applied media oppression. We do not have the need for it. Cabinet spokesman Vijitha Herath said the media should act in accordance with morals.
+
+He further stated that when the press conference announcing the Cabinet decisions was held on Wednesday (6).
+
+Prime Minister Harini Amarasuriya does not use media oppression in any case. Does not disrupt journalists. Security officials have carried out tasks to ensure his safety.
+
+Do not distort security authorities as media repression. Did not even accommodate to go near the Prime Minister in the past. But now the change is clearly observed.
+
+So we urge you not to exaggerate small things. We have no need to suppress the media. So we urge the media to act in accordance with their morals.
+
+◼️
 
 [Data](articles/dca46766.json)
+
+[Extended Data](ext_articles/dca46766.ext.json)
 
 ---
 
@@ -821,6 +851,30 @@ This discussion is. C. C. Mr. Andrew Fraeee of the Chief Manager of the Corrupti
 [Data](articles/3d625ae5.json)
 
 [Extended Data](ext_articles/3d625ae5.ext.json)
+
+---
+
+### The government that publishes alternatives regarding the fuel price formula
+
+*2024-11-06 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198049) · `ta`
+
+Government announces fuel price formula changes. Cabinet spokesperson clarifies prices set by Petroleum Corporation, not global market rates. Previous government's policies still in effect. Opposition criticizes current administration's handling of fuel costs.
+
+🟩
+
+Cabinet spokesman Vijitha Herath has made two comments at two media conferences regarding the fuel price formula. At a press conference announcing the Cabinet decisions held on the first day of October, the fuel prices were not determined by the price of fuel and that it was determined by the values ​​of the Petroleum Corporation.
+
+However, at the press conference held on Wednesday (06), the previous comment was stated that fuel prices are being determined in terms of prices.
+
+When the journalists were again questioned in this regard, he said that the prices had to be made at the same time.
+
+Opponents against the new government as they have lost power are widely proposed by previous rulers. We have reduced the prices of fuels by 20 rupees since we took over the regime. But it is not remembered most people at present.
+
+...
+
+[Data](articles/504eae55.json)
+
+[Extended Data](ext_articles/504eae55.ext.json)
 
 ---
 
@@ -2365,25 +2419,5 @@ According to the Director General of the Hamali Kotalawala, the Director General
 [Data](articles/1f5141be.json)
 
 [Extended Data](ext_articles/1f5141be.ext.json)
-
----
-
-### A statement from Minister Vijitha about Passport Queue
-
-*2024-11-06 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202960) · `si`
-
-Minister Vijitha Herath announces online passport application system implementation. Addresses previous issues, resolves delays. Urges public to use new online method for faster processing.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the online method is currently being implemented to receive passport.
-
-The Minister further stated that the empty passports cannot be brought to the need to meet the need, the government and the provider.
-
-...
-
-[Data](articles/64b7a06b.json)
-
-[Extended Data](ext_articles/64b7a06b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 14:00:01**
+As of **2024-11-06 14:13:34**
 
 ## Newspaper Stats
 
-*Scraped **53,351** Articles*
+*Scraped **53,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,61 @@ adalk | 4,982
 adaderanalk | 6,357
 tamilmirrorlk | 7,430
 virakesarilk | 8,619
-adaderanasinhalalk | 9,299
+adaderanasinhalalk | 9,301
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,351 (100.0%) of 53,351 articles have been extended.
+53,351 (100.0%) of 53,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### කඨින චීවර පිංකමට යන්න ගිය කාන්තාව මුහුණදුන් අවාසනාවන්ත සිදුවීම
+
+*2024-11-06 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202969) · `si`
+
+වැල්ලවාය - මොනරාගල ප්‍රධාන මාර්ගයේ වැල්ලවාය පොලිස් බලප්‍රදේශයට අයත් ආනපල්ලම ප්‍රදේශයේ දී සිදුවූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+කඨින චීවර වන්දනා පිංකමකට සහභාගී වීම සඳහා මාර්ගය හරහා මාරු වීමට උත්සාහ කළ කාන්තාවක් ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, ආනපල්ලම ප්‍රදේශයේ පදිංචි 65 හැවිරිදි කාන්තාවකි.
+
+අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියැදුරු වැල්ලවාය පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර රියදුරු වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/a2c807fa.json)
+
+---
+
+### ට්‍රම්ප් ජය තහවුරු කරයි
+
+*2024-11-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202968) · `si`
+
+අමෙරිකාවේ රිපබ්ලිකන් පක්ෂ ජනාධිපති අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් ජනාධිපතිවරණයේ ජය තහවුරු කර තිබේ.
+
+මෙතෙක් ප්‍රකාශිත මැතිවරණ පුරෝකථනවලට අනුව හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඡන්ද විද්‍යාල ආසන 267ක් දිනා ඇති අතර ඔහුගේ ප්‍රතිවාදියා වූ උප ජනාධිපතිනී කමලා හැරිස් දිනා ඇත්තේ ආසන 224ක් පමණයි.
+
+ඒ අනුව 2024 අමෙරිකානු ජනාධිපති තමන් ජයගත් බවට රිපබ්ලිකන් පක්ෂ ජනාධිපති අපේක්ෂක හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කළේය.
+
+ඒ ෆ්ලොරිඩාහි, රිපබ්ලිකන් පක්ෂ ප්‍රධාන මූලස්ථානයේ සිට සිය ආධාරකරුවන් අමතමිනි.
+
+හිටපු ජනාධිපති ට්‍රම්ප් එහිදී පැවසුවේ අමෙරිකානු ජනතාව පෙර නොවූ තරම් ජන වරමක් තමන් වෙත ලබා දී ඇති බවය.
+
+ජනාධිපතිවරණ සටනේ ඉතාමත් තීරණාත්මක ප්‍රාන්ත අතරින් ජෝර්ජියා, උතුරු කැරොලිනා සහ පෙනිසල්වේනියා ප්‍රාන්තවල ජය හිටපු ජනාධිපති ට්‍රම්ප් සතුව ඇතැයි පුරෝකථන පෙන්වා දෙයි.
+
+එමෙන්ම සෙනට් සභාවේ බලයත් නැවතත් තමන් සතුකර ගැනීමට රිපබ්ලිකන් පක්ෂය මේ වනවිට සමත්ව ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+අමෙරිකාවේ 47 වැනි ජනාධිපතිවරයා තෝරාගැනීමේ 60 වැනි ජනාධිපතිවරණය මෙරට වේලාවෙන් ඊයේ (05) සවස් කාලයේ සිට අද උදෑසන දක්වා පැවැත්වුණි.
+
+...
+
+[Data](articles/e640d02a.json)
+
+---
 
 ### The assassination of Kempathpitiya Walawwa's assassination reveals
 
@@ -2241,57 +2285,5 @@ Therefore, the Tamil people should be fully supportive of the Tamil National All
 [Data](articles/405aa35f.json)
 
 [Extended Data](ext_articles/405aa35f.ext.json)
-
----
-
-### People have lost confidence in the president
-
-*2024-11-06 01:59:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-மீது-மக்கள்-நம்பிக்கை-இழந்துள்ளனர்/175-346634) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Public trust in president wanes. Presidential candidate Anuragumara Dissanayake promises food price cuts but fails to deliver. Sajith Premadasa criticizes lack of action on fuel prices, electricity bills, and taxes. JVP vows against IMF slavery, promising policy changes under new leadership.
-
-🟩
-
-People compare what the presidential candidate Anurakumara Dissanayake has said and what he is doing. Although he says he will reduce the prices of essential foods. United People's Power President Sajith Premadasa said that even rows of coconuts are also found.
-
-Can determine the minimum price using the executive powers found to the president. But he did not do so. He also said that fuel prices, electricity bills and taxes will be reduced. But Sajith Premadasa said that they had not happened.
-
-A meeting with the people of the Fort, Obeesekegarapura constituency was held on Monday (04) in the arrangement of the United People's Power Colombo District Candidate Dr. Harsha de Silva.. He said this while addressing it.
-
-...
-
-[Data](articles/c4830027.json)
-
-[Extended Data](ext_articles/c4830027.ext.json)
-
----
-
-### Conspiracy to root the Muslim leadership
-
-*2024-11-06 01:56:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-தலைமைகளை-வேரறுக்க-சதித்திட்டம்/175-346633) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rishad Bathiudeen warns against conspiracies targeting Muslim leaders in Sri Lanka's politics. He urges the community to remain vigilant and maintain representation to avoid marginalization and potential upheaval.
-
-🟩
-
-All Ceylon People's Congress leader and United People's Freedom Alliance (UPFA) Vanni district chief candidate Rishad Bathiudeen said that the community should be awakened from conspiracy efforts to marginalize Muslim leaders from politics.
-
-The Vanni District Ulama Conference was held in Mannar on Sunday (03), under the theme of "Minority Representation and Contribution of Ulama" in the arrangement of the All Ceylon People's Congress.. Speaking at the event, People's Congress leader Rishad said this.
-
-"Do you want to eliminate Muslim representations for the sake of the national power of the people?. For a change in national politics, it is impossible. Some people in Emmati have dared to do these things. The Ulama has a responsibility to guide our brothers who are supporting these conspiracies.
-
-...
-
-[Data](articles/ec8d0330.json)
-
-[Extended Data](ext_articles/ec8d0330.ext.json)
 
 ---

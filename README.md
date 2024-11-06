@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 20:59:14**
+As of **2024-11-06 21:40:43**
 
 ## Newspaper Stats
 
-*Scraped **53,421** Articles*
+*Scraped **53,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,65 @@ dailyftlk | 3,642
 dailymirrorlk | 4,733
 adalk | 4,994
 adaderanalk | 6,366
-tamilmirrorlk | 7,438
-virakesarilk | 8,644
+tamilmirrorlk | 7,439
+virakesarilk | 8,645
 adaderanasinhalalk | 9,314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,421 (100.0%) of 53,421 articles have been extended.
+53,423 (100.0%) of 53,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### I will take all the legal action to prevent the injustice inflicted on him - Dr. Saafi Sahabdeen
+
+*2024-11-06 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198077) · `ta`
+
+Dr. Saafi Sahabdeen vows legal action against false accusations, regrets self-sacrifice for personal gain.
+
+🟩
+
+Dr. Saafi Sahabdeen has said that he regretted him for sacrificing himself for personal gain and would take all legal measures to prevent him from implying his injustice.
+
+He said this while speaking to the media after the release of all the allegations of the Kurunegala Teaching Hospital, Safi Sahabdeen, who was accused of contraception.
+
+I am sorry for making me sacrifice for personal gain. I will take legal action for the destruction of a innocent and family like me to destroy his skills. He said he should contact my lawyer in this regard and take legal action.
+
+◼️
+
+[Data](articles/af030d36.json)
+
+[Extended Data](ext_articles/af030d36.ext.json)
+
+---
+
+### President congratulates Donald Trump
+
+*2024-11-06 21:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொனால்ட்-டிரம்பிற்கு-ஜனாதிபதி-அநுர-வாழ்த்து/175-346676) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake congratulates Donald Trump as US President. He expresses hope to collaborate on shared objectives between Sri Lanka and the USA.
+
+🟩
+
+President Anura Kumara Dissanayake congratulates President Donald Trump, the 47th president of the United States.
+
+“I wish to congratulate Trump, the 47th President of the United States of America. I expect to work with you to achieve the common goals in the relationship between us and the American people. ”. Remble
+
+◼️
+
+[Data](articles/de09ff1a.json)
+
+[Extended Data](ext_articles/de09ff1a.ext.json)
+
+---
 
 ### The New Example That Dilith and including Dilith
 
@@ -98,6 +144,28 @@ All schools will be closed for parliamentary elections on November 13, 2024 and 
 
 ---
 
+### President Anura congratulates Donald Trump
+
+*2024-11-06 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198076) · `ta`
+
+Sri Lanka President Anura Dissanayake congratulates Donald Trump on his election as US President. He expresses hope for cooperation to benefit both countries' citizens.
+
+🟩
+
+President Anuragumara Dissanayake has congratulated Donald Trump, the 47th president of the United States.
+
+“The most voted voting as the 47th president of the United States has been congratulated by Donald J. Trump.
+
+He also said that I expect to work with you to achieve the general goals of our relationship that benefits the people of Sri Lanka and the American people.
+
+◼️
+
+[Data](articles/f707b360.json)
+
+[Extended Data](ext_articles/f707b360.ext.json)
+
+---
+
 ### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
 
 *2024-11-06 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198075) · `ta`
@@ -121,28 +189,6 @@ During this time, the people, social activists, former MP and civil organization
 [Data](articles/8ff417dd.json)
 
 [Extended Data](ext_articles/8ff417dd.ext.json)
-
----
-
-### President Anura congratulates Donald Trump
-
-*2024-11-06 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198076) · `ta`
-
-Sri Lanka President Anura Dissanayake congratulates Donald Trump on his election as US President. He expresses hope for cooperation to benefit both countries' citizens.
-
-🟩
-
-President Anuragumara Dissanayake has congratulated Donald Trump, the 47th president of the United States.
-
-“The most voted voting as the 47th president of the United States has been congratulated by Donald J. Trump.
-
-He also said that I expect to work with you to achieve the general goals of our relationship that benefits the people of Sri Lanka and the American people.
-
-◼️
-
-[Data](articles/f707b360.json)
-
-[Extended Data](ext_articles/f707b360.ext.json)
 
 ---
 
@@ -2383,47 +2429,5 @@ Furthermore, the court also lifted the overseas travel ban which was imposed on 
 [Data](articles/d8b9e52f.json)
 
 [Extended Data](ext_articles/d8b9e52f.ext.json)
-
----
-
-### Sri Lanka launches online booking for new passports; appointment available from Dec. 3
-
-*2024-11-06 11:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-launches-online-booking-for-new-passports-appointment-available-from-dec-3-186240/) · `en`
-
-ECONOMYNEXT – Sri Lanka launched an online system to streamline the passport issuance on Wednesday (06), but physical appointments will be available only from December first week due to the high number of tokens already given, government officials said.
-
-Despite President Anura Dissanayake’s promise to bring down 50,000 new passports and reduce long queues of passport applicants, the number of people standing outside the Department of Immigration and Emigration has yet to see a decline.
-
-Though the government has urged people not to rush for passports unless urgent, government officials say thousands have been waiting in the queue from early morning hours even though majority of them are not going on a foreign visit in the near future.
-
-The new online process will be launched to reduce the queues.
-
-...
-
-[Data](articles/f6193d79.json)
-
-[Extended Data](ext_articles/f6193d79.ext.json)
-
----
-
-### Chandrika's' safety has not been removed - Cabinet spokesman
-
-*2024-11-06 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202962) · `si`
-
-Cabinet spokesperson denies removal of Chandrika Bandaranaike's security. Former president's protection unchanged despite claims.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the security of former President Chandrika Bandaranaike Kumaratunga has not been removed or reduced.
-
-He was speaking at a press notice of the Cabinet Decision.
-
-"Former presidents, especially Chandrika Bandaranaike, Mrs. Chandrika Bandaranaike had said he would remove the security of her. No removal has been done. She was sent to 30 to 30, it was wrong. She has already given 57 people. "
-
-◼️
-
-[Data](articles/1589505d.json)
-
-[Extended Data](ext_articles/1589505d.ext.json)
 
 ---

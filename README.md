@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 03:58:59**
+As of **2024-11-07 04:12:18**
 
 ## Newspaper Stats
 
-*Scraped **53,464** Articles*
+*Scraped **53,467** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
 bbccomsinhala | 545
-colombotelegraphcom | 546
+colombotelegraphcom | 547
 islandlk | 3,189
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
-tamilmirrorlk | 7,441
+tamilmirrorlk | 7,443
 virakesarilk | 8,648
 adaderanasinhalalk | 9,317
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,464 (100.0%) of 53,464 articles have been extended.
+53,467 (100.0%) of 53,467 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### We will work together with the President
+
+*2024-11-07 02:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-நாங்கள்-இணைந்து-செயற்படுவோம்/175-346693) · `ta`
+
+Sri Lanka Muslim Congress aims to elect two MPs in Batticaloa district. Party leader Dr. MLAM Hizbullah says they need 55,000 votes to achieve this goal. They plan to work with the President after elections.
+
+🟩
+
+If a Muslim MP for the Batticaloa district is available, it will be available through the Sri Lanka Muslim Congress.A Muslim MP in any other party. Former Governor and Batticaloa District Muslim Congress candidate, Dr. MLAM Hizbullah said.
+
+He said this while addressing the election campaign meeting held in Ottamavadi - Nawaladi.
+
+MP from Batticaloa district. To take more than 45,000 votes. The people of Kattankudi, Eravur, Valaichenai and Ottamavadi can only join the MP.. 90,000 votes will be cast in the Muslim area in the Batticaloa district.
+
+If 55,000 people vote for the Muslim Congress, two MPs will be elected through the Muslim Congress in the Batticaloa district.. We are meeting to get an additional Member of Parliament in this election.
+
+...
+
+[Data](articles/ae0432d5.json)
+
+[Extended Data](ext_articles/ae0432d5.ext.json)
+
+---
+
+### The success of the Congress Congress is the protection of the hill country
+
+*2024-11-07 02:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கிரஸின்-வெற்றியே-மலையகத்தின்-பாதுகாப்பு/175-346692) · `ta`
+
+Ceylon Workers Congress protects hill country lands. Without Congress, lands may be lost. Candidates must win for safety. Former President Ranil Wickremesinghe helped hill country development. Congress provides services year-round, unlike others who only campaign. Vote for Congress candidates to preserve lands and receive benefits.
+
+🟩
+
+Lands are being protected in the hill country because of the existence of the Ceylon Workers Congress. If there is no Congress, the land will be lost. So, for the existence of the people of the hill country, the Congress candidates should definitely win for the safety of the CWC and Nuwara Eliya district candidate Maruthabandi Rameswaran.
+
+Speaking at the election campaign meeting held in Maskeliya, he added,
+
+“Former President Ranil Wickremesinghe is the one who rescued the country from bankruptcy. That is why we announced that he would support him during the presidential election. In addition, he was able to provide many services to the hill country within a short period of time. Funds to grant land rights were allocated.
+
+...
+
+[Data](articles/3aac7d25.json)
+
+[Extended Data](ext_articles/3aac7d25.ext.json)
+
+---
 
 ### A canal that turned red in Ratmalana: A report issued by the Central Environmental Authority
 
@@ -593,6 +639,22 @@ The arrested overseas is a 52 year old Sierra Leone, another suspect is a 28 yea
 [Data](articles/a01ea54c.json)
 
 [Extended Data](ext_articles/a01ea54c.ext.json)
+
+---
+
+### The New Political Culture, For A United Country
+
+*2024-11-06 21:49:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-new-political-culture-for-a-united-country/) · `en`
+
+All minorities: Tamils, Muslims, Malay, Burgers all to belong to one country and one people of Sri Lanka – Religious leaders a greater role to play.
+
+Listening to the Songs of Mohideen Beg, it lifts up the spirits belonging to Sri Lanka, even though I myself live out of the country. It is even more striking that it is sung by a Sri Lankan Muslim, truly Sri Lankan. I suspect there must be such great people amongst the Tamils, Malays, Burgers etc. that celebrates the language, the culture and the heritage of their country. But could you spot any of them? hard to find, pardon me if I am ignorant.
+
+...
+
+[Data](articles/31815a8d.json)
+
+[Extended Data](ext_articles/31815a8d.ext.json)
 
 ---
 
@@ -2321,91 +2383,5 @@ The tycoon won Georgia and North Carolina, with others still up in the air, whil
 [Data](articles/5b9e419b.json)
 
 [Extended Data](ext_articles/5b9e419b.ext.json)
-
----
-
-### Trump claims victory over Harris in US presidential election
-
-*2024-11-06 13:24:00* · [`economynextcom`](https://economynext.com/trump-claims-victory-over-harris-in-us-presidential-election-186265/) · `en`
-
-AFP- Donald Trump claimed victory and pledged to “heal” the country Wednesday as results put him on the verge of beating Kamala Harris in a stunning White House comeback.
-
-His exuberant speech came despite the fact that only Fox News had declared him the winner, with no other US networks having made the call so far.
-
-As jubilant supporters cheered and chanted “USA”, Trump took to the stage at his campaign headquarters in Florida along with his wife Melania and several of his children.
-
-“We are going to help our country heal,” the Republican former president said.
-
-“It’s a political victory that our country has never seen before.”
-
-US networks have called the swing states of Pennsylvania, Georgia and North Carolina for the 78-year-old, and he led the Democratic vice president in the others although they have not been called yet.
-
-...
-
-[Data](articles/8fe24d02.json)
-
-[Extended Data](ext_articles/8fe24d02.ext.json)
-
----
-
-### Wife thanked melania and family - Trump
-
-*2024-11-06 13:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198033) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Donald Trump thanked his family, including wife Melania, praising her book as top-selling in US. He also expressed gratitude towards his children for their efforts to help people.
-
-🟩
-
-Donald Trump, the 47th president of the United States, has thanked his family, including his wife, Melania.
-
-Trump praised melania's book, said Melania, the most selling book in the United States.
-
-Donald Trump also thanked his children that he has worked hard to help the people.
-
-Trump thanked the name of each of them as they were seen on the platform.
-
-◼️
-
-[Data](articles/f4a8ee13.json)
-
-[Extended Data](ext_articles/f4a8ee13.ext.json)
-
----
-
-### The assassination of Kempathpitiya Walawwa's assassination reveals
-
-*2024-11-06 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202967) · `si`
-
-Assassination of Kempathpitiya Walawwa: Wife and three others arrested. Murder occurred during robbery attempt. Police investigation led to arrests in Thimbabwila and Piliyandala. Suspects involved in drug addiction and financial issues. Case presented to Kegalle Magistrate court.
-
-🟩
-
-A wife and three others have been arrested in connection with the killing of the owner of the Kegalle and Kemupitiya Walawwa.
-
-The murder was carried out at the time, the police only had a sum of Rs.
-
-On October 27 last October, the neck was slaughtered by the owner of the Kampitiya Walawwa.
-
-There his wife was discovered by the police despite being tied.
-
-Accordingly, the Kegalle Division of the Criminal Investigation Department (CID) Chief Inspector Airbiskara was also present in two robberies in Dedigama and Warakapola areas.
-
-The suspects were also hiding in a house in Thimbabwila, Piliyandala.
-
-Accordingly, the police officers have been inspected of the house and two persons have been arrested there.
-
-Interviews have revealed that the beach went to rob this beach on the needs of the woman.
-
-Investigations have revealed that the suspect had taken three robbers with a driver who had taken three robbers with a driver who had been on their brother's car.
-
-...
-
-[Data](articles/2dc88bd8.json)
-
-[Extended Data](ext_articles/2dc88bd8.ext.json)
 
 ---

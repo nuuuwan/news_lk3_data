@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 08:22:28**
+As of **2024-11-06 08:59:37**
 
 ## Newspaper Stats
 
-*Scraped **53,274** Articles*
+*Scraped **53,279** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 416
-colombotelegraphcom | 544
 bbccomsinhala | 544
+colombotelegraphcom | 545
 islandlk | 3,189
 economynextcom | 3,226
 dailyftlk | 3,641
 dailymirrorlk | 4,733
-adalk | 4,972
-adaderanalk | 6,341
+adalk | 4,973
+adaderanalk | 6,343
 tamilmirrorlk | 7,417
 virakesarilk | 8,605
-adaderanasinhalalk | 9,283
+adaderanasinhalalk | 9,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,262 (100.0%) of 53,274 articles have been extended.
+53,269 (100.0%) of 53,279 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Trump, Harris notch first statewide wins as polls close in US presidential race
+
+*2024-11-06 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103194/trump-harris-notch-first-statewide-wins-as-polls-close-in-us-presidential-race) · `en`
+
+Republican Donald Trump won 15 states in Tuesday’s U.S. presidential election while Democrat Kamala Harris captured seven states and Washington, D.C., Edison Research projected, but the contest remained undecided with critical battleground states unlikely to be called for hours or even days.
+
+The early results were as anticipated, with the contest expected to come down to seven swing states: Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin. Opinion polls showed the rivals neck and neck in all seven going into Election Day.
+
+As of 9:30 p.m. ET (0230 GMT on Wednesday), polls had closed in 41 states and Washington, D.C. Trump had 162 electoral votes to Harris’ 81 electoral votes, but both still had multiple paths to victory. A candidate needs a total of 270 votes in the state-by-state Electoral College to claim the presidency.
+
+Decision Desk HQ projected Trump would win North Carolina, but other media outlets and Edison had yet to call the race.
+
+...
+
+[Data](articles/dd2c6e89.json)
+
+[Extended Data](ext_articles/dd2c6e89.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-06 08:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103193/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers  or thundershowers will occur at several places in Central, Sabaragamuwa, Uva, Southern and Western provinces during the evening or night.
+
+Fairly heavy showers above 50mm are likely at some places while several spells of light showers may occur in Northern and North-western provinces.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/829521af.json)
+
+[Extended Data](ext_articles/829521af.ext.json)
+
+---
+
+### Men deceived men and cash in cash
+
+*2024-11-06 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202952) · `si`
+
+Here's a 200-character summary:
+
+
+
+Computer Criminal Investigation North Western Unit arrests suspects involved in fraud scheme targeting men with financial scams.
+
+🟩
+
+The Computer Criminal Investigation North Western Unit has been arrested by the Computer Criminal Investigation North Western Provinces.
+
+◼️
+
+[Data](articles/3b6c04f3.json)
+
+[Extended Data](ext_articles/3b6c04f3.ext.json)
+
+---
 
 ### Gajendrakumar
 
@@ -234,6 +296,8 @@ The strategic partnership enables E.B. Creasy Solar, a long-standing advocate of
 
 [Data](articles/b6dd3799.json)
 
+[Extended Data](ext_articles/b6dd3799.ext.json)
+
 ---
 
 ### Sri Lanka gears up for first-ever marine summit ‘Voyage  Sri Lanka 2024’
@@ -249,6 +313,8 @@ With the event’s countdown underway, organiser Export Development Board (EDB) 
 ...
 
 [Data](articles/35beaf48.json)
+
+[Extended Data](ext_articles/35beaf48.ext.json)
 
 ---
 
@@ -268,6 +334,8 @@ The structure at the centre of the Arugam Bay terror scare is also a Chabad Hous
 
 [Data](articles/d2ae5c3a.json)
 
+[Extended Data](ext_articles/d2ae5c3a.ext.json)
+
 ---
 
 ### Why Sri Lanka needs a strong, united parliament now more than ever
@@ -281,6 +349,8 @@ Just a few weeks ago, Sri Lanka elected a new President, Anura Kumara Dissanayak
 ...
 
 [Data](articles/c386a0a4.json)
+
+[Extended Data](ext_articles/c386a0a4.ext.json)
 
 ---
 
@@ -487,6 +557,20 @@ In the under -15 category. V. and Vennapu Thirukkudumba KM are eligible to play 
 [Data](articles/db200627.json)
 
 [Extended Data](ext_articles/db200627.ext.json)
+
+---
+
+### A Case For Closer Connections: Some Initial Reflections On Holistic Education
+
+*2024-11-06 02:55:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-case-for-closer-connections-some-initial-reflections-on-holistic-education/) · `en`
+
+*Keynote speech delivered at the International Multidisciplinary Research Conference at University of Kelaniya, October 25th, 2024.
+
+We all know that in Sri Lanka, students are separated to specialized subject areas a bit too early. This early specialization continues even at universities. Now, some students are admitted to universities directly from the University Grant Commission and they are not allowed to segue into any other stream of leaning. In some cases, they cannot even take classes in another subject. In addition, there are departments in our faculties looking to seize the first opportunity to break away and establish their own faculties isolating further in their own expertise.
+
+...
+
+[Data](articles/c8b2d47b.json)
 
 ---
 
@@ -1089,6 +1173,24 @@ The appointment will face further impact as the labor and investments of the sec
 ...
 
 [Data](articles/943fbc3a.json)
+
+---
+
+### ද්විත්ව පුරවැසියෙක් බව ඔප්පු කළොත් දේශපාලනයෙන් සමුගන්නවා
+
+*2024-11-05 19:45:36* · [`adalk`](https://www.ada.lk/breaking_news/ද්විත්ව-පුරවැසියෙක්-බව-ඔප්පු-කළොත්-දේශපාලනයෙන්-සමුගන්නවා/11-412876) · `si`
+
+ද්විත්ව පුරවැසිභාවය තිබෙන බව ඔප්පු කළහොත් හෙට දේශපාලනයෙන් සමුගන්නා බව තිලකරත්න දිල්ෂාන් මහතා පැවසීය. ඒ මහතා මේ බව සඳහන් කළේ ඊයේ (05දා) කළුතරදී මාධ්‍යයට අදහස් දක්වමිනි. එහිදී වැඩිදුරටත් අදහස් දැක්වූ තිලකරත්න දිල්ෂාන් මහතා මෙසේද පැවසීය.
+
+“මම ද්විත්ව පුරවැසිභාවය ඇති අයෙක් කියා ප්‍රබල දේශපාලකයන් සඳහන් කරනවා. පසුගියදා සර්ව ජන බලය පක්ෂයේ නායක දිලිත් ජයවීර මහතාත් එසේ ප්‍රකාශ කර තිබෙනවා. එය ඔප්පු කළොත් මම හෙට දේශපාලනයෙන් සමුගන්නවා. මම ඔහුට අභියෝග කරනවා ඔප්පු කරන්න බැරි වුණොත් ඔහුට දේශපාලනයෙන් සමුගන්න කියලා.
+
+ඔහුගේ පක්ෂයෙන් දේශපාලනයට එන්න කියලා මට ආරාධනා ලැබුණා. ඒ ආරාධනාව කළේ රොෂාන් රණසිංහ මගින්. මට එහෙම ආරාධනා කළේ ද්විත්ව පුරවැසිභාවයක් ගැන නොදැනද? මගේ ළඟත් තියෙන්නේ ඇන්ඩ්‍රොයිඩ් ෆෝන් එකක්. ඒකේ සියල්ල රෙකෝඩ් වෙලා ඇති. බලමු ඒවා රෙකෝඩ් වෙලා තියෙනවාද කියලා.
+
+නව දේශපාලන සංස්කෘතියකට යන ගමනේ අලුත් පක්ෂ මෙහෙම පහළට වැටෙන්න ඕන නෑ. ඉස්සර පරණ ක්‍රමයට ඇයි මෙහෙම කරන්නේ. අපි යන්න ඕනා අලුත්ම දේශපාලන ගමනක්. ජනාධිපති අපේක්ෂකයෙක් හැටියට මෙහෙම බොරු චෝදනා එල්ල කරන එක සුදුසු නැහැ.
+
+...
+
+[Data](articles/36f05e81.json)
 
 ---
 
@@ -2261,127 +2363,5 @@ The water cut will be implemented in the Divisional Secretariat area of ​​Ka
 [Data](articles/61166f0d.json)
 
 [Extended Data](ext_articles/61166f0d.ext.json)
-
----
-
-### Kavinda de Zoysa new chairman of Bank of Ceylon
-
-*2024-11-05 15:20:00* · [`economynextcom`](https://economynext.com/kavinda-de-zoysa-new-chairman-of-bank-of-ceylon-186170/) · `en`
-
-ECONOMYNEXT – Kavinda de Zoysa has been appointed chairman and director of the Bank of Ceylon with effect from Monday (4).
-
-This appointment has been made pursuant to instructions from the Ministry of Finance, Economic Development, Policy Formulation, Planning and Tourism, the bank said in a stock exchange filing.
-
-De Zoysa is a career banker with over 30 years of industry experience and 25 years in management.
-
-He most recently served as Director and Country Business Head of Citibank NA, Sri Lanka. (Colombo/Nov5/2024)
-
-◼️
-
-[Data](articles/beab79d6.json)
-
-[Extended Data](ext_articles/beab79d6.ext.json)
-
----
-
-### KDU bus accident: Driver had license suspended over drunken accident, court told
-
-*2024-11-05 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103183/kdu-bus-accident-driver-had-license-suspended-over-drunken-accident-court-told) · `en`
-
-It has been revealed before the court today that the bus driver involved in the recent fatal bus accident in Badulla, while transporting a group of students of the Southern Campus of the General Sir John Kotelawala Defence University (KDU), previously had his driving license suspended for 05 months after being arrested for driving under the influence of alcohol.
-
-He had been arrested on August 04 by police in the Labuduwa area of Galle, within the Akmeemana police jurisdiction, after causing an accident involving the bus he was driving and a motorcycle, Ada Derana reporter said.
-
-The details of the incident were presented today (Nov 5) in a motion by the Akmeemana Police to the Galle Additional Magistrate’s Court.
-
-The driver, identified as a resident of Dammala area of Udugama, had allegedly falsely reported his license missing to Hiniduma Police following the suspension of his license and had subsequently obtained a replacement driving license.
-
-...
-
-[Data](articles/ff30e27e.json)
-
-[Extended Data](ext_articles/ff30e27e.ext.json)
-
----
-
-### US election gets under way
-
-*2024-11-05 15:08:00* · [`economynextcom`](https://economynext.com/us-election-gets-under-way-186165/) · `en`
-
-ECONOMYNEXT – The US presidential election got underway as Americans headed to the polls to choose between current Vice President Kamala Harris and former President Donald Trump.
-
-Democratic nominee Harris and Republican nominee Trump each need at least 270 electoral votes, a majority of the total 538 Electoral College votes, to win.
-
-The battleground states of Arizona, Georgia, Michigan, Nevada, North Carolina, Pennsylvania and Wisconsin are expected to be pivotal, CNN reported.
-
-Both tied with three votes each in the tiny New Hampshire community of Dixville Notch, which opened and closed its poll just after midnight ET in a decades-old tradition, CNN said. (Colombo/Nov5/2024)
-
-◼️
-
-[Data](articles/b3ab5939.json)
-
-[Extended Data](ext_articles/b3ab5939.ext.json)
-
----
-
-### Sri Lanka is 95th in the passport ranking
-
-*2024-11-05 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/197939) · `ta`
-
-Sri Lanka passport ranked 95th globally in 2024, improving from 100th in 2023. Henley Passport Index shows Singapore as most powerful passport, followed by Japan and France. Significant changes in visa-free access due to global events and diplomatic relations.
-
-🟩
-
-Sri Lanka ranks 95th in the global passport rankings in 2024.
-
-Iran and South Sudan are ranked 95th in Sri Lanka.
-
-Henley & Partners, a London -based global citizenship and residential advisory agency, has been released.
-
-According to the latest index, Sri Lanka has advanced to the rankings as 44 countries have issued a visa-free journey or a visa-on-roll for Sri Lankan passport holders.
-
-Sri Lanka Passport was ranked 100th in 2023 and 102th in 2022.
-
-Henley Passport Index sorted globally based on the number of places that can enter without pre -visa requirements.
-
-This code, which receives data from the International Air Transport Association (IATA), is renewed once in a quarter and is a reliable source of travel freedom and changes in travel freedom and global tendencies. October update saw other significant changes, and many countries gained an additional visa -free access.
-
-...
-
-[Data](articles/ca011cf2.json)
-
-[Extended Data](ext_articles/ca011cf2.ext.json)
-
----
-
-### Driver's driver's license at fatal bus accident is suspended for 05 months
-
-*2024-11-05 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202934) · `si`
-
-Bus driver's license suspended 5 months after fatal crash due to drunk driving. Driver fined. Two students killed, 42 injured.
-
-🟩
-
-It has been revealed that the driving license of the driver driving the bus in the Badulla's fatal crash was suspended for five months due to drunken driving.
-
-It was also a drunken bus in the Labuduwa area in the Labuduwa area in the Labuduwa area in Galle.
-
-The driver of the vehicle has been fined Rs.
-
-Akmeemana Police have presented the Galle Additional Magistrate's Court today (05).
-
-The police have also revealed that the driver's license was missing his driving license recently after the resident of Dammala, Udugama area has had a driver's license recently.
-
-The Galle Additional Magistrate Lakdi Gamage, taken into consideration the relevant driver's license ordered the driver's driver temporarily retained its driver.
-
-The bus, including the students and lecturers of the Sooriyawewa section of the Sooriyawewa Defense University, was inaugurated at the Mahiyalambee 4th area.
-
-Two students were killed and 42 injured and admitted to the Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/253470ab.json)
-
-[Extended Data](ext_articles/253470ab.ext.json)
 
 ---

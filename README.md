@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 04:25:07**
+As of **2024-11-07 04:40:07**
 
 ## Newspaper Stats
 
-*Scraped **53,467** Articles*
+*Scraped **53,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
-tamilmirrorlk | 7,443
+tamilmirrorlk | 7,444
 virakesarilk | 8,648
 adaderanasinhalalk | 9,317
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,467 (100.0%) of 53,467 articles have been extended.
+53,468 (100.0%) of 53,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Can't acquire Lion Residences
+
+*2024-11-07 02:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லயன்-குடியிருப்புகளை-கையகப்படுத்த-முடியாது/175-346694) · `ta`
+
+Government denies acquiring Lion Residences: "No decision made" says Minister Vijitha Herath. Plantation workers threatened with eviction if they don't work for two weeks.
+
+🟩
+
+"The government has not made any decision to acquire plantation dwellings if the plantation workers do not work for two weeks."Cabinet spokesman and Plantation Minister Vijitha Herath said.
+
+A media briefing to announce the Cabinet decisions was held on Wednesday (06) at the Government Information Department.
+
+The manager has sent a letter to the plantation workers in a garden operating under the Government Plantation Company in Kandy, Kandy.
+
+It has been advised that the Lion Rooms will be recovered if they do not work for two weeks, ”the minister said in response to a question raised.
+
+“I looked in search of this letter. This is a letter sent by a plantation officer of a state estate company. As a government, we have not taken such a decision. No resolution has been taken. Action has been taken in connection with the incident. ”Minister Vijitha Herath said.
+
+◼️
+
+[Data](articles/b7bfeecd.json)
+
+[Extended Data](ext_articles/b7bfeecd.ext.json)
+
+---
 
 ### We will work together with the President
 
@@ -2361,27 +2387,5 @@ More than 81 million registered American voters had been voted under the electio
 [Data](articles/e640d02a.json)
 
 [Extended Data](ext_articles/e640d02a.ext.json)
-
----
-
-### Bitcoin hits record, stocks swing as Trump win seen
-
-*2024-11-06 13:26:00* · [`economynextcom`](https://economynext.com/bitcoin-hits-record-stocks-swing-as-trump-win-seen-186268/) · `en`
-
-AFP – Markets are increasingly eyeing a victory for Republican Donald Trump as results roll in Markets are increasingly eyeing a victory for Republican Donald Trump as results roll in.
-
-The dollar surged and bitcoin hit a record high Wednesday as traders bet on a victory for Donald Trump as he picked up key swing states needed to take the White House, ramping up bets on fresh tax cuts, tariffs and rising inflation.
-
-While polls had shown the race on a knife edge, the Republican appeared to be faring better than his Democratic opponent Vice President Kamala Harris as results rolled in.
-
-Both candidates picked up expected wins in safe states, but indications that the business tycoon was on course for a second term boosted the so-called Trump Trade.
-
-The tycoon won Georgia and North Carolina, with others still up in the air, while US networks declared him the winner in key battleground Pennsylvania with Fox News calling the election in his favour.
-
-...
-
-[Data](articles/5b9e419b.json)
-
-[Extended Data](ext_articles/5b9e419b.ext.json)
 
 ---

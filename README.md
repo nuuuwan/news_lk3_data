@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 02:10:29**
+As of **2024-11-07 02:24:33**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,455 (100.0%) of 53,459 articles have been extended.
+53,459 (100.0%) of 53,459 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -134,6 +134,8 @@ The project focuses on improving waste management infrastructure and practices a
 
 [Data](articles/7340e9e3.json)
 
+[Extended Data](ext_articles/7340e9e3.ext.json)
+
 ---
 
 ### Israeli UNRWA ban will deepen Palestinian humanitarian catastrophe: MSF
@@ -147,6 +149,8 @@ Médecins Sans Frontières (MSF) denounces this legislation, which represents an
 ...
 
 [Data](articles/4bb85778.json)
+
+[Extended Data](ext_articles/4bb85778.ext.json)
 
 ---
 
@@ -168,6 +172,8 @@ However, with the Budget constraints impacting progress, the Cabinet decided to 
 
 [Data](articles/e4faaf9a.json)
 
+[Extended Data](ext_articles/e4faaf9a.ext.json)
+
 ---
 
 ### JAT posts 67% PAT growth despite Bangladesh crisis
@@ -185,6 +191,8 @@ Its Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30 
 ...
 
 [Data](articles/0805c7af.json)
+
+[Extended Data](ext_articles/0805c7af.ext.json)
 
 ---
 

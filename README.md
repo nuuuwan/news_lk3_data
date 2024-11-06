@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 00:00:00**
+As of **2024-11-07 00:16:46**
 
 ## Newspaper Stats
 
-*Scraped **53,432** Articles*
+*Scraped **53,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,8 +13,8 @@ dbsjeyarajcom | 418
 colombotelegraphcom | 545
 bbccomsinhala | 545
 islandlk | 3,189
-economynextcom | 3,232
-dailyftlk | 3,642
+economynextcom | 3,242
+dailyftlk | 3,645
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,432 (100.0%) of 53,432 articles have been extended.
+53,433 (100.0%) of 53,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### Appreciation: Franklyn Amerasinghe
+
+*2024-11-06 23:56:47* · [`dailyftlk`](https://www.ft.lk/columns/Appreciation-Franklyn-Amerasinghe/4-768913) · `en`
+
+This week, we mourn the passing of Franklyn Amerasinghe, who bravely faced a challenging battle with cancer. His patience and resilience in confronting such adversity imparted countless life lessons. Franklyn was a simple, down-to-earth person. As my mother’s brother, he inspired me to embrace challenges beyond my comfort zone.
+
+As a keen follower of HR, I wish to honour and celebrate his immense contribution to HR development and the strengthening of industrial relations in the country. Franklyn was a man whose life exemplified unwavering dedication to fostering constructive workplace dialogue, championing alternative dispute resolution, HR development, and advocating for social justice for workers.
+
+...
+
+[Data](articles/16704ab7.json)
+
+---
+
+### Are rice consumers and farmers victims of current practices?
+
+*2024-11-06 23:49:19* · [`dailyftlk`](https://www.ft.lk/columns/Are-rice-consumers-and-farmers-victims-of-current-practices/4-768912) · `en`
+
+The argument that Sri Lanka is self-sufficient in rice does not hold water. Therefore, since the current shortfalls have a bearing on market prices which in turn have a bearing on health, poverty and malnutrition, price variations should be avoided. It is therefore imperative that rice production be increased and stocks monitored regularly to ensure that sufficient stocks are available at any time because shortfalls are often the cause to justify increasing market prices
+
+...
+
+[Data](articles/41dc8049.json)
+
+[Extended Data](ext_articles/41dc8049.ext.json)
+
+---
+
+### Harini or Sajith: Who is more necessary, can contribute more?
+
+*2024-11-06 23:30:25* · [`dailyftlk`](https://www.ft.lk/columns/Harini-or-Sajith-Who-is-more-necessary-can-contribute-more/4-768910) · `en`
+
+‘“We aim to leave power only once we have successfully rebuilt this nation” Dissanayake pledged, addressing a rally in Nuwara Eliya…’
+
+Throughout 2024 I consistently urged that the choice be either Sajith or Anura (or vice versa) -- and never Ranil-- to effect a generational tectonic-shift. Given the primary challenge of managing the economic crisis, I thought Sajith Premadasa would make a better President.
+
+Noting that we have two national elections, the presidential and the parliamentary/prime ministerial, I observed that we can always accommodate both young leaders, one in each post.
+
+At the Presidential election most Sri Lankan voters voted quite understandably with their heart and an Aragalaya attitude, for the greatest degree of change, the most progressive and radical they thought possible. A break with the Establishment, voting for Anura was a step forward.
+
+...
+
+[Data](articles/fad8c040.json)
+
+---
 
 ### 'King Komi' in a severe breakdown after ten years
 
@@ -343,6 +389,24 @@ During this time, the people, social activists, former MP and civil organization
 [Data](articles/8ff417dd.json)
 
 [Extended Data](ext_articles/8ff417dd.ext.json)
+
+---
+
+### Sri Lanka deflation drives consumer goods sales, margins at JKH
+
+*2024-11-06 19:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-drives-consumer-goods-sales-margins-at-jkh-186317/) · `en`
+
+ECONOMYNEXT – Sri Lanka falling prices have helped drive up volumes of consumer goods and supermarket basket sizes, while also improving margins, John Keells Holdings, a diversified group which has interests in fast consumer food production and retail said.
+
+“The Supermarket business recorded a strong performance during the quarter, with same store sales recording an encouraging growth of 14 percent driven by customer footfall growth of 12 percent,” John Keells Holdings Chairman Krishan Balendra told shareholders in an interim report.
+
+“Average basket values continued to recover driven by an increase in the weight of purchase due to a decrease in year-on-year inflation rates and improved consumer confidence.”
+
+Sri Lanka recorded 12 month deflation in September and October, a phenomenon that became very rare in the island after the 1960 as central banks including the Fed started aggressive macro-economic policy, triggering inflation, commodity shocks and social unrest.
+
+...
+
+[Data](articles/780018c3.json)
 
 ---
 
@@ -752,6 +816,28 @@ At this moment, our friend and producer Dil Raju met us. Can he work together in
 
 ---
 
+### Sri Lanka rupee closes stronger at 292.80/90 to dollar, bonds steady
+
+*2024-11-06 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-80-90-to-dollar-bonds-steady-186294/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.80/90 to the US dollar Wednesday from 293.00/15 to the US dollar on Tuesday dealers said, while bond yields were broadly steady.
+
+A bond maturing on 15.12.2026 closed at 10.50/65 percent, from 10.55/65 percent.
+
+A bond maturing on 15.12.2027 closed at 11.30/45 percent, down from 11.40/55 percent.
+
+A bond maturing on 15.03.2028 closed at 11.65/70 percent, down from 11.68/78 percent.
+
+A bond maturing on 15.06.2029 closed stable at 11.95/12.05 percent.
+
+A bond maturing on 15.05.2030 closed at 12.10/20 percent. (Colombo/Nov06/2024)
+
+◼️
+
+[Data](articles/879678a5.json)
+
+---
+
 ### Court to review injunction against e-passport purchase; Ex-President Ranil named respondent
 
 *2024-11-06 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103213/court-to-review-injunction-against-e-passport-purchase-ex-president-ranil-named-respondent) · `en`
@@ -927,6 +1013,28 @@ Presenting an investigation report, CID officials confirmed that inquiries into 
 [Data](articles/317284ed.json)
 
 [Extended Data](ext_articles/317284ed.ext.json)
+
+---
+
+### Sri Lanka stocks close down, turnover at Rs3bn
+
+*2024-11-06 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-rs3bn-186290/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
+
+The broader ASPI closed down 0.60 percent, or 76.93 points, at 12,719; while the more liquid S&P SL20 Index closed down 0.73 percent, or 27.94 points, at 3,824.
+
+John Keells Holdings saw interest and contributed 1.2 billion rupees to the turnover.
+
+Most banks closed down: Hatton National Bank (down at 227.50), Commercial Bank (down at 115.50), Sampath Bank (down at 89.50), National Development Bank (down at 85.00), DFCC Bank (down at 82.30).
+
+Crossings were recorded on HNB, JKH, PGP Glass, Hayleys Fabric (down at 51.10), Singer, Dipped Products (down at 38.60), Commercial Credit and Finance (down at 41.60), Commercial Bank and Vallibel One (up at 54.70).
+
+Top contributors to the ASPI were Co-operative Insurance Company (up at 2.80), Dilmah Ceylon Tea Company (up at 1,069.75), Singer Sri Lanka (up at 20.40), Amana Takaful (11.20) and Chevron Lubricants (up at 126.50).
+
+...
+
+[Data](articles/2c011f46.json)
 
 ---
 
@@ -1478,6 +1586,44 @@ Sudden death investigators Namasivayam Premkumar conducted the death investigati
 
 ---
 
+### Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
+
+*2024-11-06 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs175bn-in-treasury-bills-yields-up-for-shorter-maturities-186283/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across the shorter term maturities at Wednesday’s auction with all offered 175 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield was up 2 basis points at 9.37 percent, with 60 billion offered and 92.3 billion rupees bills sold.
+
+The 6-month yield was up 2 basis points at 9.70 percent, with 85 billion offered and 58.7 billion rupees of bills sold.
+
+The 12-month bills held steady at 9.95 percent, with 30 billion offered and 23.8 billion rupees of bills sold.
+
+The 6 and 9 month bills are available on tap after the auction. (Colombo/Nov6/2024)
+
+◼️
+
+[Data](articles/ba78c462.json)
+
+---
+
+### Sri Lanka to settle Rs28.37bn plus in road arrears
+
+*2024-11-06 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-settle-rs28-37bn-plus-in-road-arrears-186279/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a proposal to settle outstanding bills for the repair of 100,000km of road, Spokesman Minister Vijitha Herath said.
+
+There is an outstanding balance of 28.37 billion for the repair of some 100,000km of road begun in 2020 under a five-year project.
+
+A further 20 billion rupees was allocated for the repair of essential roads in 2024, when 1,000km of road was identified for repair.
+
+The Cabinet approved the proposal to manage the provisions allocated to the Ministry of Transport, Highways, Ports, and Civil Aviation for the year 2024, that have not been used so far, to settle the outstanding bills that should be settled under these two programs. (Colombo/Nov6/2024)
+
+◼️
+
+[Data](articles/0fd168e6.json)
+
+---
+
 ### 'Ranil needs Ranil - they need Ranil'
 
 *2024-11-06 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198043) · `ta`
@@ -1694,6 +1840,24 @@ In his speech, Donald Trump described Ilan Mask as one of the world's largest bi
 
 ---
 
+### Sri Lanka awards 1.5mn barrel petrol contract to Vitol Asia
+
+*2024-11-06 13:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-awards-1-5mn-barrel-petrol-contract-to-vitol-asia-186263/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet has approved awarding the contract to purchase 5 shipments of 92 unleaded petrol from December 1, 2024 to May 31, 2025 to Vitol Asia (Singapore) Pte Ltd, Cabinet spokesman Vijitha Herath said said.
+
+The 1.5 million barrels will be obtained on the basis of payment in 30 days through a Letter of Credit.
+
+Bids were called by the State-owned Ceylon Petroleum Corporation from registered suppliers for the long term contract, and 7 bids were received. 3 bids were rejected during the initial evaluation.
+
+The bid submitted by Vitol Asia (Pvt) Ltd in Singapore was recommended as the responsive bid by the cabinet-appointed special standing procurement committee  and the standing technical evaluation committee.  (Colombo/Nov6/2024)
+
+◼️
+
+[Data](articles/f9b9702d.json)
+
+---
+
 ### Trump confirms win
 
 *2024-11-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202968) · `si`
@@ -1725,6 +1889,48 @@ More than 81 million registered American voters had been voted under the electio
 [Data](articles/e640d02a.json)
 
 [Extended Data](ext_articles/e640d02a.ext.json)
+
+---
+
+### Bitcoin hits record, stocks swing as Trump win seen
+
+*2024-11-06 13:26:00* · [`economynextcom`](https://economynext.com/bitcoin-hits-record-stocks-swing-as-trump-win-seen-186268/) · `en`
+
+AFP – Markets are increasingly eyeing a victory for Republican Donald Trump as results roll in Markets are increasingly eyeing a victory for Republican Donald Trump as results roll in.
+
+The dollar surged and bitcoin hit a record high Wednesday as traders bet on a victory for Donald Trump as he picked up key swing states needed to take the White House, ramping up bets on fresh tax cuts, tariffs and rising inflation.
+
+While polls had shown the race on a knife edge, the Republican appeared to be faring better than his Democratic opponent Vice President Kamala Harris as results rolled in.
+
+Both candidates picked up expected wins in safe states, but indications that the business tycoon was on course for a second term boosted the so-called Trump Trade.
+
+The tycoon won Georgia and North Carolina, with others still up in the air, while US networks declared him the winner in key battleground Pennsylvania with Fox News calling the election in his favour.
+
+...
+
+[Data](articles/5b9e419b.json)
+
+---
+
+### Trump claims victory over Harris in US presidential election
+
+*2024-11-06 13:24:00* · [`economynextcom`](https://economynext.com/trump-claims-victory-over-harris-in-us-presidential-election-186265/) · `en`
+
+AFP- Donald Trump claimed victory and pledged to “heal” the country Wednesday as results put him on the verge of beating Kamala Harris in a stunning White House comeback.
+
+His exuberant speech came despite the fact that only Fox News had declared him the winner, with no other US networks having made the call so far.
+
+As jubilant supporters cheered and chanted “USA”, Trump took to the stage at his campaign headquarters in Florida along with his wife Melania and several of his children.
+
+“We are going to help our country heal,” the Republican former president said.
+
+“It’s a political victory that our country has never seen before.”
+
+US networks have called the swing states of Pennsylvania, Georgia and North Carolina for the 78-year-old, and he led the Democratic vice president in the others although they have not been called yet.
+
+...
+
+[Data](articles/8fe24d02.json)
 
 ---
 
@@ -1949,6 +2155,26 @@ The work was held on Tuesday (05) at the Alangulam Thuiyilumillamillam in Muttur
 [Data](articles/920fd6dd.json)
 
 [Extended Data](ext_articles/920fd6dd.ext.json)
+
+---
+
+### Sri Lanka new govt backtracks on fuel pricing; continues same formula
+
+*2024-11-06 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-govt-backtracks-on-fuel-pricing-continues-same-formula-186255/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s new government is compelled to continue the same fuel price formula implemented under the previous government, Cabinet Spokesman Vijitha Herath said, backtracking from the earlier stance.
+
+When the fuel prices were reduced last month, Herath said the fuel price formula was not used to compile the prices.
+
+“We are compelled to go with the price formula due to previous agreements,” Hearth told the weekly post-Cabinet media briefing in Colombo on Wednesday.
+
+President Anura Dissanayake and his Marxist Janatha Vimukthi Peramuna (JVP) members before the September 21 election, accusing the previous government, said people have been paying higher price for fuel because of exorbitant taxes and some commissions for politicians.
+
+Some JVP members said the price of fuel could be reduced by as much as one-third of the current price.
+
+...
+
+[Data](articles/07ff207c.json)
 
 ---
 
@@ -2189,287 +2415,5 @@ Accordingly, the Cabinet of Ministers has approved the management of the allocat
 [Data](articles/394d9578.json)
 
 [Extended Data](ext_articles/394d9578.ext.json)
-
----
-
-### Azor comes to Sri Lanka to bring tourists in Russia
-
-*2024-11-06 12:15:15* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-සංචාරකයන්-ලංකාවට-ගේන්න-අසූර්-එයා-ලංකාවට-එයි/11-412886) · `si`
-
-Azur Air brings Russian tourists to Sri Lanka. First flight arrives at Katunayake airport. Water salute ceremony held. Weekly flights from five Russian cities. Journey takes 9 hours. Flights continue until April 30, 2025.
-
-🟩
-
-The first flight of Azural Flight, Azur Light, arrived at the Katunayake airport, carrying a group of tourists (AZUR AIR).
-
-The 'Air Force 1611', this plane was from Venicow, Russia, 11/01am on 11/06.
-
-Katunayake Airports had taken steps to hold the water salute to accept the plane.
-
-Azor Air Airlines had been deployed by Asur Air and 767 aircraft for the first flight and was 332 passengers and 10 others.
-
-Asoor Air Air serving from 5 Russia's major cities every week from 11/06
-
-Asoor Airlines Manager Manager Morris de Silva said, "Saint Petersburg, Crossnosburg, Soch and Ustibisk."
-
-The Asi Aircraft will also take 9.00 hours to reach the destinations of Russia and the aircraft will arrive at the Katunayake Airport until April 30, 2025.
-
-◼️
-
-[Data](articles/acb6955d.json)
-
-[Extended Data](ext_articles/acb6955d.ext.json)
-
----
-
-### Relaxation
-
-*2024-11-06 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198012) · `ta`
-
-Sri Lanka Cabinet relaxes Galle Face restrictions for religious worship and events. Cost: 2.5-3 million rupees monthly. Decision made on April 6, 2023.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said that it has been decided to provide the Galle Face to religious worship and other activities.
-
-He said this during a media briefing to announce the Cabinet decisions today (06).
-
-On April 17, 2023, the Cabinet passed a resolution that Sri Lanka Port Management and Advisory Services were not allowed to use the Pvt.
-
-In this case, the current government has relaxed the restrictions imposed on social events in the Galle Face.
-
-Vijitha Herath said that the cost of managing and maintaining the Galle Face is Rs 2.5 million to 3 million rupees a month.
-
-◼️
-
-[Data](articles/5dab0b9d.json)
-
-[Extended Data](ext_articles/5dab0b9d.ext.json)
-
----
-
-### 225 Parliament seats will not get the power
-
-*2024-11-06 12:03:03* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුව්-ආසන-225ම-බලය--කිසිවෙකුට-ලැබෙන්නේ-නෑ/11-412885) · `si`
-
-Former President Maithripala Sirisena states that 225 Parliament seats won't grant power. He emphasizes supporting the government while opposing actions harmful to the nation.
-
-🟩
-
-Former President Maithripala Sirisena says the people are ready to make the people in 225 in Parliament at the general election.
-
-Former President Maithripala Sirisena expressed these comments this morning in Polonnaruwa this morning. Former President Maithripala Sirisena said,
-
-"In our constitution, no one can give 225 parliament to parliament to make a strong opposition in Parliament.
-
-Therefore, as opposition we support the government's best work, we will act every person who is committed against the people to the country.We ask the people. "
-
-◼️
-
-[Data](articles/7da86cb7.json)
-
-[Extended Data](ext_articles/7da86cb7.ext.json)
-
----
-
-### Sri Lanka, ODI and Twenty20 reserves against New Zealand
-
-*2024-11-06 12:03:01* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-එක්දින-සහ-විස්සයි-20-සංචිත-නම්-කෙරේ/9-412884) · `si`
-
-Sri Lanka's ODI and Twenty20 reserve teams faced New Zealand in a televised cricket tournament.
-
-🟩
-
-The two reserves played for the Television and T20 cricket tournament against the New Zealand team.
-
-◼️
-
-[Data](articles/26f04f96.json)
-
-[Extended Data](ext_articles/26f04f96.ext.json)
-
----
-
-### Muslim Marriage Act will not be amended
-
-*2024-11-06 12:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-திருமண-சட்டம்-திருத்தப்படாது/175-346657) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: Cabinet denies plans to amend Muslim Marriage Act. Law remains unchanged unless consultations with religious leaders and experts indicate otherwise.
-
-🟩
-
-Cabinet spokesman Vijitha Herath said the government had not taken any decision to amend the Muslim marriage law and that the law would not be amended for any reason.
-
-He pointed out that if there is a need to make amendments at times, we will take action in consultation with religious leaders and experts.
-
-◼️
-
-[Data](articles/b2a3613b.json)
-
-[Extended Data](ext_articles/b2a3613b.ext.json)
-
----
-
-### Safety is not eliminated or reduced
-
-*2024-11-06 11:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-நீக்கப்படவோ-குறைக்கப்படவோ-இல்லை/175-346656) · `ta`
-
-Former President Chandrika Bandaranaike Kumaratunga's security remains unchanged, contrary to reports suggesting reduction from 57 to 30 personnel.
-
-🟩
-
-Cabinet Spokesperson Minister Vijitha Herath has said that the security of former President Chandrika Bandaranaike Kumaratunga has not been removed or reduced.
-
-He said this while addressing a media briefing announcing the Cabinet decisions.
-
-“He said that the security of former presidents, especially Chandrika Bandaranaike's safety. No removal has been made. He reportedly reduced to 30. It is wrong. He is currently given 57 people. ”
-
-◼️
-
-[Data](articles/8431f500.json)
-
-[Extended Data](ext_articles/8431f500.ext.json)
-
----
-
-### Dr. Shafi fully released
-
-*2024-11-06 11:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்டர்-ஷாபி-முழுமையாக-விடுதலை/175-346655) · `ta`
-
-Dr. Shafi Sihabdeen acquitted of allegations including asset accumulation, illegal surgery, and terrorism. Court ruled in his favor after lengthy legal battle.
-
-🟩
-
-Specialist Dr. Shafi Sihabdeen was acquitted on Wednesday (06) from all allegations.  குருநாகல் நீதவான் நீதிமன்றமே அவரை விடுவித்தது.
-
-Dr. Shafi Sihabdeen faced allegations of suspicious accumulation of assets, illegal contraceptive surgery and terrorist activities.
-
-After a long legal struggle, the court ruled him favorably and acquitted him of all the allegations against him.
-
-◼️
-
-[Data](articles/029e5212.json)
-
-[Extended Data](ext_articles/029e5212.ext.json)
-
----
-
-### Dr. Shafi fully released
-
-*2024-11-06 11:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/டாக்டர்-ஷாபி-முழுமையாக-விடுதலை/150-346655) · `ta`
-
-Dr. Shafi Sihabdeen acquitted of all charges after lengthy legal battle. Court clears specialist of allegations regarding asset accumulation, illegal surgeries, and terrorism ties.
-
-🟩
-
-Specialist Dr. Shafi Sihabdeen was acquitted on Wednesday (06) from all allegations.  குருநாகல் நீதவான் நீதிமன்றமே அவரை விடுவித்தது.
-
-Dr. Shafi Sihabdeen faced allegations of suspicious accumulation of assets, illegal contraceptive surgery and terrorist activities.
-
-After a long legal struggle, the court ruled him favorably and acquitted him of all the allegations against him.
-
-◼️
-
-[Data](articles/a721a134.json)
-
-[Extended Data](ext_articles/a721a134.ext.json)
-
----
-
-### US Presidential Election - 2024: Democracy lives in every word and every thought - Julie Sung
-
-*2024-11-06 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198018) · `ta`
-
-Here's a 200-character summary:
-
-
-
-US Ambassador Julie Sung emphasizes democracy's importance in words and thoughts during the 2024 US presidential election monitoring event in Colombo. She highlights the state's duty to meet citizens' needs and encourages journalists to provide accurate information, strengthening democracy's foundation.
-
-🟩
-
-It is the duty of the state to meet the needs of our people. US Ambassador Julie Sung said that democracy lives in every word and every thought.
-
-As US presidential elections are being held 2024, US presidential election monitoring event took place in Colombo. Various parties attended the event and observed the US presidential election.
-
-US Ambassador Julie Sung said this while addressing the event.
-
-I am proud to have attended our meeting to see the 2024 US presidential election and contest, the symbol of our democracy. It is excited that so many people are eager to learn about our electoral process this morning.
-
-Today is an important moment for American democracy. Looking at you here, I realize that the public is eagerly awaiting the US presidential election. During this period of the world, the decisions and policies in the United States have an impact on the world.
-
-...
-
-[Data](articles/9c9f0b6c.json)
-
-[Extended Data](ext_articles/9c9f0b6c.ext.json)
-
----
-
-### 3 Volume Recognition for Chinese Homes
-
-*2024-11-06 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-தொகுதி-சீன-வீடுகளுக்கு-அங்கிகாரம்/175-346653) · `ta`
-
-Chinese government funds 1,996 homes across 3 areas. Contracts awarded to three companies: China Railway, China Harbor Engineering, Shanxi Construction Investment Group. Project aims to provide affordable housing.
-
-🟩
-
-The construction of 1,996 housing units under the Chinese government's funding program for low income persons is scheduled to be implemented under 03 constituencies.. The cabinet has approved the idea.
-
-Eight people have been asked for the name of the Chinese government to implement the project.. After evaluating these prices, the Cabinet has approved the proposal submitted by the Minister of Rural, Urban Development, Housing and Construction to submit contracts in accordance with the permanent receipt committee appointed by the Cabinet.
-
-Volume 01 - M/s China Railway Agreement to Construction of Home Units and Kottawa 108 Home Units
-
-Volume 02 - The Contract for the construction of 586 housing units and the Maharagama 112 Home Units M/s China Harbor Engineering Company
-
-Volume 03 - Paliyagoda 615 Home Units Agreement has been approved for M/S Shanxi Construction Investment Group Co.ltd.
-
-◼️
-
-[Data](articles/bbfa0b78.json)
-
-[Extended Data](ext_articles/bbfa0b78.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-06 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198017) · `ta`
-
-US Dollar to Rupee exchange rate: Buying 288.5439, Selling 297.6284. Central Bank announcement on Wednesday, June 6th.
-
-🟩
-
-The US dollar purchasing price was 288.5439 rupees and the sales price were Rs 297.6284 based on the currency exchange rate issued by the Central Bank on Wednesday (06).
-
-◼️
-
-[Data](articles/fd1d6d01.json)
-
-[Extended Data](ext_articles/fd1d6d01.ext.json)
-
----
-
-### The country will never be created - the government
-
-*2024-11-06 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198019) · `ta`
-
-Here's a summary of "The country will never be created - the government" in approximately 200 characters:
-
-
-
-"The country will never be formed due to ineffective governance. Political instability, corruption, and lack of leadership hinder progress. Without strong institutions and responsible decision-making, the nation remains fragmented and underdeveloped."
-
-🟩
-
-◼️
-
-[Data](articles/a93a84f0.json)
-
-[Extended Data](ext_articles/a93a84f0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 12:14:32**
+As of **2024-11-06 12:40:25**
 
 ## Newspaper Stats
 
-*Scraped **53,322** Articles*
+*Scraped **53,341** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,299 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,979
-adaderanalk | 6,351
-tamilmirrorlk | 7,420
-virakesarilk | 8,612
+adalk | 4,980
+adaderanalk | 6,354
+tamilmirrorlk | 7,428
+virakesarilk | 8,619
 adaderanasinhalalk | 9,296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,320 (100.0%) of 53,322 articles have been extended.
+53,329 (100.0%) of 53,341 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### ඉදිරියේදී ජනාධිපතිවරුන්ට සමානුපාතික ක්‍රමයට ආරක්ෂාව - අවශ්‍ය අයට විශේෂ ආරක්ෂාව
+### Ex-president CBK’s security remains unchanged, Minister assures
+
+*2024-11-06 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103205/ex-president-cbks-security-remains-unchanged-minister-assures) · `en`
+
+Minister Vijitha Herath states that the security detail of former President Chandrika Bandaranaike Kumaratunga has neither been removed nor reduced.
+
+He made these remarks in response to a question raised by a journalist during the Cabinet press conference held this morning (03).
+
+“Currently, the former presidents, especially Mrs. Chandrika Bandaranaike, has claimed that her security would be removed. No such removal has taken place. She sent a letter claiming that her security would be reduced to 30, which is incorrect. She has been provided with 57 personnel so far,” he added.
+
+◼️
+
+[Data](articles/1fe3fbf2.json)
+
+---
+
+### ‘No more queues for passports’: Minister on new online token system
+
+*2024-11-06 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103204/no-more-queues-for-passports-minister-on-new-online-token-system) · `en`
+
+Cabinet Spokesperson Minister Vijitha Herath says that the online system to reserve a date for obtaining passports is currently in operation effective from midnight yesterday (05).
+
+The minister explained that, due to an agreement made by the previous government with the passport supplier, it was not possible to import all the required amount of passports at once.
+
+Accordingly, passports are being delivered in batches - 50,000 in October, 100,000 by the end of November, and another 100,000 by the end of December, the Cabinet spokesman said.
+
+He further stated that the relevant arrangement had been pre-agreed, and no provision was made for bringing in the total required quantity of 750,000 passports at once. The minister also acknowledged the difficulty caused for the public as a result and emphasized the government had been working to resolve the issue.
+
+...
+
+[Data](articles/ad75c567.json)
+
+---
+
+### Govt to utilise unspent 2024 funds to clear road project debt
+
+*2024-11-06 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103203/govt-to-utilise-unspent-2024-funds-to-clear-road-project-debt) · `en`
+
+The Cabinet of Ministers has green-lighted the management of unused allocations for 2024 to settle the outstanding bills under the 100,000 km road rehabilitation program.
+
+The 100,000km road rehabilitation program was launched in 2020 as a 5-year project. Due to the lack of necessary financial allocations since 2023, outstanding bills totaling Rs. 28.37 billion remain unpaid under the program, according to the Cabinet Spokesman Minister Vijitha Herath.
+
+For the year 2024, Rs. 20 billion has been allocated for essential road rehabilitation work, with 1,000km of roads identified for rehabilitation, the Minister said.
+
+Accordingly, the Cabinet of Ministers has approved the management of the allocations for 2024 that have not been used so far to settle the outstanding bills under these two programs.
+
+◼️
+
+[Data](articles/394d9578.json)
+
+---
+
+### Relaxation
+
+*2024-11-06 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198012) · `ta`
+
+Sri Lanka Cabinet relaxes Galle Face restrictions for religious worship and events. Cost: 2.5-3 million rupees monthly. Decision made on April 6, 2023.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said that it has been decided to provide the Galle Face to religious worship and other activities.
+
+He said this during a media briefing to announce the Cabinet decisions today (06).
+
+On April 17, 2023, the Cabinet passed a resolution that Sri Lanka Port Management and Advisory Services were not allowed to use the Pvt.
+
+In this case, the current government has relaxed the restrictions imposed on social events in the Galle Face.
+
+Vijitha Herath said that the cost of managing and maintaining the Galle Face is Rs 2.5 million to 3 million rupees a month.
+
+◼️
+
+[Data](articles/5dab0b9d.json)
+
+[Extended Data](ext_articles/5dab0b9d.ext.json)
+
+---
+
+### Sri Lanka, ODI and Twenty20 reserves against New Zealand
+
+*2024-11-06 12:03:01* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-ශ්‍රී-ලංකා-එක්දින-සහ-විස්සයි-20-සංචිත-නම්-කෙරේ/9-412884) · `si`
+
+Sri Lanka's ODI and Twenty20 reserve teams faced New Zealand in a televised cricket tournament.
+
+🟩
+
+The two reserves played for the Television and T20 cricket tournament against the New Zealand team.
+
+◼️
+
+[Data](articles/26f04f96.json)
+
+[Extended Data](ext_articles/26f04f96.ext.json)
+
+---
+
+### Muslim Marriage Act will not be amended
+
+*2024-11-06 12:01:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஸ்லிம்-திருமண-சட்டம்-திருத்தப்படாது/175-346657) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka: Cabinet denies plans to amend Muslim Marriage Act. Law remains unchanged unless consultations with religious leaders and experts indicate otherwise.
+
+🟩
+
+Cabinet spokesman Vijitha Herath said the government had not taken any decision to amend the Muslim marriage law and that the law would not be amended for any reason.
+
+He pointed out that if there is a need to make amendments at times, we will take action in consultation with religious leaders and experts.
+
+◼️
+
+[Data](articles/b2a3613b.json)
+
+[Extended Data](ext_articles/b2a3613b.ext.json)
+
+---
+
+### Safety is not eliminated or reduced
+
+*2024-11-06 11:58:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-நீக்கப்படவோ-குறைக்கப்படவோ-இல்லை/175-346656) · `ta`
+
+Former President Chandrika Bandaranaike Kumaratunga's security remains unchanged, contrary to reports suggesting reduction from 57 to 30 personnel.
+
+🟩
+
+Cabinet Spokesperson Minister Vijitha Herath has said that the security of former President Chandrika Bandaranaike Kumaratunga has not been removed or reduced.
+
+He said this while addressing a media briefing announcing the Cabinet decisions.
+
+“He said that the security of former presidents, especially Chandrika Bandaranaike's safety. No removal has been made. He reportedly reduced to 30. It is wrong. He is currently given 57 people. ”
+
+◼️
+
+[Data](articles/8431f500.json)
+
+[Extended Data](ext_articles/8431f500.ext.json)
+
+---
+
+### Dr. Shafi fully released
+
+*2024-11-06 11:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டாக்டர்-ஷாபி-முழுமையாக-விடுதலை/175-346655) · `ta`
+
+Dr. Shafi Sihabdeen acquitted of allegations including asset accumulation, illegal surgery, and terrorism. Court ruled in his favor after lengthy legal battle.
+
+🟩
+
+Specialist Dr. Shafi Sihabdeen was acquitted on Wednesday (06) from all allegations.  குருநாகல் நீதவான் நீதிமன்றமே அவரை விடுவித்தது.
+
+Dr. Shafi Sihabdeen faced allegations of suspicious accumulation of assets, illegal contraceptive surgery and terrorist activities.
+
+After a long legal struggle, the court ruled him favorably and acquitted him of all the allegations against him.
+
+◼️
+
+[Data](articles/029e5212.json)
+
+[Extended Data](ext_articles/029e5212.ext.json)
+
+---
+
+### டாக்டர்  ஷாபி முழுமையாக விடுதலை
+
+*2024-11-06 11:55:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/டாக்டர்-ஷாபி-முழுமையாக-விடுதலை/150-346655) · `ta`
+
+விசேட வைத்திய நிபுணர் டாக்டர்  ஷாபி சிஹாப்தீன் சகல குற்றச்சாட்டுக்களில் இருந்தும், புதன்கிழமை (06) விடுவிக்கப்பட்டார்.  குருநாகல் நீதவான் நீதிமன்றமே அவரை விடுவித்தது.
+
+டாக்டர்  ஷாபி சிஹாப்தீன் சந்தேகத்திற்கிடமான முறையில் சொத்துக்களை குவித்தமை, சட்டவிரோத கருத்தடை அறுவை சிகிச்சை செய்தல் மற்றும் பயங்கரவாத நடவடிக்கைகளுடன் தொடர்புடையதாகக் கூறப்படும் குற்றச்சாட்டுகளை எதிர்கொண்டார்.
+
+நீண்ட சட்டப் போராட்டத்திற்குப் பிறகு, நீதிமன்றம் அவருக்குச் சாதகமாகத் தீர்ப்பளித்தது, அவர் மீதான குற்றச்சாட்டுகள் அனைத்திலும் இருந்து அவரை விடுவித்தது.
+
+◼️
+
+[Data](articles/a721a134.json)
+
+---
+
+### US Presidential Election - 2024: Democracy lives in every word and every thought - Julie Sung
+
+*2024-11-06 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198018) · `ta`
+
+Here's a 200-character summary:
+
+
+
+US Ambassador Julie Sung emphasizes democracy's importance in words and thoughts during the 2024 US presidential election monitoring event in Colombo. She highlights the state's duty to meet citizens' needs and encourages journalists to provide accurate information, strengthening democracy's foundation.
+
+🟩
+
+It is the duty of the state to meet the needs of our people. US Ambassador Julie Sung said that democracy lives in every word and every thought.
+
+As US presidential elections are being held 2024, US presidential election monitoring event took place in Colombo. Various parties attended the event and observed the US presidential election.
+
+US Ambassador Julie Sung said this while addressing the event.
+
+I am proud to have attended our meeting to see the 2024 US presidential election and contest, the symbol of our democracy. It is excited that so many people are eager to learn about our electoral process this morning.
+
+Today is an important moment for American democracy. Looking at you here, I realize that the public is eagerly awaiting the US presidential election. During this period of the world, the decisions and policies in the United States have an impact on the world.
+
+...
+
+[Data](articles/9c9f0b6c.json)
+
+[Extended Data](ext_articles/9c9f0b6c.ext.json)
+
+---
+
+### 3 Volume Recognition for Chinese Homes
+
+*2024-11-06 11:48:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3-தொகுதி-சீன-வீடுகளுக்கு-அங்கிகாரம்/175-346653) · `ta`
+
+Chinese government funds 1,996 homes across 3 areas. Contracts awarded to three companies: China Railway, China Harbor Engineering, Shanxi Construction Investment Group. Project aims to provide affordable housing.
+
+🟩
+
+The construction of 1,996 housing units under the Chinese government's funding program for low income persons is scheduled to be implemented under 03 constituencies.. The cabinet has approved the idea.
+
+Eight people have been asked for the name of the Chinese government to implement the project.. After evaluating these prices, the Cabinet has approved the proposal submitted by the Minister of Rural, Urban Development, Housing and Construction to submit contracts in accordance with the permanent receipt committee appointed by the Cabinet.
+
+Volume 01 - M/s China Railway Agreement to Construction of Home Units and Kottawa 108 Home Units
+
+Volume 02 - The Contract for the construction of 586 housing units and the Maharagama 112 Home Units M/s China Harbor Engineering Company
+
+Volume 03 - Paliyagoda 615 Home Units Agreement has been approved for M/S Shanxi Construction Investment Group Co.ltd.
+
+◼️
+
+[Data](articles/bbfa0b78.json)
+
+[Extended Data](ext_articles/bbfa0b78.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-11-06 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198017) · `ta`
+
+இன்று புதன்கிழமை (06) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.5439 ரூபாவாகவும், விற்பனை விலை 297.6284 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/fd1d6d01.json)
+
+---
+
+### நாட்டில் ஒருபோதும் சமஷ்டி உருவாக்கப்படமாட்டாது - அரசாங்கம்
+
+*2024-11-06 11:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198019) · `ta`
+
+◼️
+
+[Data](articles/a93a84f0.json)
+
+---
+
+### Protect the proportional method of presidents in the future - special security for needed
 
 *2024-11-06 11:40:05* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියේදී-ජනාධිපතිවරුන්ට-සමානුපාතික-ක්‍රමයට-ආරක්ෂාව---අවශ්‍ය-අයට-විශේෂ-ආරක්ෂාව/11-412883) · `si`
 
-ඉදිරියේදී සියලුම හිටපු ජනාධිපතිවරුන්ට සමානුපාතික ක්‍රමයට ආරක්ෂාව සැපයීමට කටයුතු කරන බවත්, විශේෂ ආරක්ෂාවක හිමි විය යුතු ජනාධිපතිවරුන්ට විශේෂ ආරක්ෂාවක් ලබා දෙන බවත් කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+Presidential protection enhanced: Future presidents to receive special security measures. Former presidents like Chandrika Bandaranaike to retain current level of protection. Committee formed to review and adjust security details based on individual needs.
 
-කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවට අද (06දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-“දැනට හිටපු ජනාධිපතිවරුන්ගේ , විශේෂයෙන්ම චන්ද්‍රිකා බණ්ඩාරනායක මහත්මිය කියලා තිබුණා එතුමියගේ ආරක්ෂාව ඉවත් කරනවා කියලා. එහෙම ඉවත් කිරීමක් කරලා නෑ. එතුමිය ලිපියක් එවලා තිබුණා 30ක් දක්වා අඩු කරනවා කියලා. ඒක වැරදියි. එතුමියට දැනටත් 57 දෙනෙක් දීලා තියෙනවා.
+Cabinet spokesperson Vijitha Herath said that all presidents would be protected in the future and provide special security to the presidents who should be special safety.
+
+He was speaking at a media briefing today (06) at the press conference.
+
+"Former presidents and especially Chandrika Bandaranaike said that she would remove the security of her. No removal. She had sent a letter to up to 30. It's wrong. She has already given 57 people.
 
 ...
 
 [Data](articles/3fd6bb5e.json)
+
+[Extended Data](ext_articles/3fd6bb5e.ext.json)
 
 ---
 
@@ -63,6 +327,42 @@ The squad for New Zealand has been named for the One Day and 20 Tournament.
 [Data](articles/cbdaabac.json)
 
 [Extended Data](ext_articles/cbdaabac.ext.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்பு சட்டத்தை நீக்குவது உறுதி - அரசாங்கம்
+
+*2024-11-06 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198016) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டத்தை நீக்கும் கொள்கையில் எமது அரசாங்கம் உறுதியாகவுள்ளது என  அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/678b707d.json)
+
+---
+
+### மேல் மாகாணத்தில் சீன அரசின் வீட்டுத்திட்டம் !
+
+*2024-11-06 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198014) · `ta`
+
+மேல் மாகாணத்தில் குறைந்த வருமானம் பெறும் குடும்பங்களுக்கு சீன அரசின் வீட்டுத்திட்டம் கிடைக்கப்பெறவுள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/13c0ea32.json)
+
+---
+
+### பாடசாலை சீருடைத்துணிகளை வழங்கியது சீனா
+
+*2024-11-06 11:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198013) · `ta`
+
+எதிர்வரும் 2025 ஆம் ஆண்டுக்கான பாடசாலை சீருடை துணிகளை  சீன அரசு வழங்கியுள்ளதாக அரசாங்கம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/255b05ec.json)
 
 ---
 
@@ -94,7 +394,7 @@ Specialist Dr. Shafi Sihabdeen has been acquitted from all charges by the Kurune
 
 The case against Dr. Shafi, who had been accused of allegedly amassing assets through suspicious means, performing illegal sterilization surgeries and having links to terrorist activities, was taken up for hearing today (06).
 
-Following the consideration of the facts presented, the Kurunegala Magistrate ordered the case to be dismissed, since there was no sufficient evidence for the case to be maintained, and ordered the acquittal of defendant Dr. Shafi from all related charges.
+The Kurunegala Magistrate ordered the case to be dismissed, after the Attorney General’s Department informed court today that there was not enough evidence to proceed with the case, and ordered the acquittal of defendant Dr. Shafi from all related charges.
 
 Furthermore, the court also lifted the overseas travel ban which was imposed on Dr. Shafi Sihabdeen, according to Ada Derana reporter.
 
@@ -148,6 +448,38 @@ He was speaking at a press notice of the Cabinet Decision.
 
 ---
 
+### இன்று முதல் முன்பதிவு செய்யலாம்
+
+*2024-11-06 11:03:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-முன்பதிவு-செய்யலாம்/175-346647) · `ta`
+
+இன்று (06) முதல் கடவுச்சீட்டை பெற்றுக்கொள்வதற்கான திகதி மற்றும் நேரத்தை இணையத்தளம் ஊடாக ஒதுக்கிக்கொள்ள முடியும் என அறிவிக்கப்பட்டுள்ளது.
+
+கடவுச்சீட்டை பெற்றுக்கொள்வதில் ஏற்பட்டுள்ள நெருக்கடி நிலைமைக்குத் தீர்வு காணும் வகையில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+இதன்படி, திணைக்களத்தின் உத்தியோகபூர்வ இணையத்தளத்திற்குள் பிரவேசிப்பதன் மூலம் கடவுச்சீட்டைப் பெறுவதற்கான திகதி மற்றும் நேரத்தினை முன்பதிவு செய்ய முடியும் என பதில் குடிவரவு மற்றும் குடியகல்வுக் கட்டுப்பாட்டாளர் நாயகம் நிலுஷா பாலசூரிய தெரிவித்துள்ளார்.  R
+
+◼️
+
+[Data](articles/427f3563.json)
+
+---
+
+### எஸ்.பிலிப்குமார் இ.தொ.கா.விலிருந்து விலகினார்
+
+*2024-11-06 11:00:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எஸ்-பிலிப்குமார்-இ-தொ-கா-விலிருந்து-விலகினார்/175-346646) · `ta`
+
+இலங்கை தொழிலாளர் காங்ரஸின் உபதலைவரும் மத்திய மாகாண சபையின் முன்னாள் உறுப்பினருமான எஸ்.பிலிப்குமார் இலங்கை தொழிலாளர் காங்ரஸில் இருந்து தாம் விலகியுள்ளதாகவும் கட்சியிலிருந்து தாம் விலகிகொள்வதாக இலங்கை தொழிலாளர் காங்ரஸின் பொதுச்செயலாளருக்கு கடிதம் ஒன்றையும் அனுப்பியுள்ளதாக அவர் தெரிவித்தார்.
+
+இதுவரை காலமும் எந்தவித கட்சிதாவல்களையும் மேற்கொள்ளாது ஒரே கட்சியான இலங்கை தொழிலாளர் காங்ரஸில் மாத்திரம் தாம் அங்கம் வகித்து வந்ததாகவும் அடுத்தகட்ட அரசியல் நடவடிக்கை தொடர்பாக இன்னும் எவ்வித தீர்மானங்களையும்  எட்டப்படவில்லை.  எனது 37வருடகால அரசியலினால் தனது வாழ்க்கையை இந்துள்ளதாகவும் அவர் குறிப்பிட்டார்
+
+இந்த விடயம் தொடர்பாக இலங்கை தொழிலாளர் காங்ரஸின் பொதுச்செயலாளர் ஜீவன் தொண்டமானை தொடர்பு கொண்ட போதும் அது பயணளிக்கவில்லை எனவும் அவர் மேலும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a48ef7cd.json)
+
+---
+
 ### School uniforms for 2025 from China
 
 *2024-11-06 11:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202961) · `si`
@@ -169,6 +501,20 @@ The proposal made by the Cabinet of Education, Science and Technology to take up
 [Data](articles/b77efcb7.json)
 
 [Extended Data](ext_articles/b77efcb7.ext.json)
+
+---
+
+### புதிய வர்த்தமானி அறிவித்தலை வெளியிட நடவடிக்கை
+
+*2024-11-06 10:58:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-வர்த்தமானி-அறிவித்தலை-வெளியிட-நடவடிக்கை/175-346645) · `ta`
+
+ஆபிரிக்க பன்றிக் காய்ச்சல் நிலைமை காரணமாக விதிக்கப்பட்ட விதிகளைத் தளர்த்தி புதிய வர்த்தமானி அறிவித்தலை வெளியிட நடவடிக்கை எடுத்துள்ளதாகக் கால்நடை உற்பத்தி மற்றும் சுகாதார திணைக்களம் அறிவித்துள்ளது.
+
+அதற்கமைய, ஆரோக்கியமான விலங்குகளைக் கொண்டு செல்வதற்கான போக்குவரத்துக்கு அனுமதி வழங்கப்பட்டுள்ளதாகவும், இந்த வாரத்திற்குள் நோய் பரவல் ஓரளவு குறையும் எனவும் அதன் பணிப்பாளர் நாயகம் வைத்தியர் ஹேமாலி கொத்தலாவல தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/1f5141be.json)
 
 ---
 
@@ -402,19 +748,29 @@ The body has been placed in the Polonnaruwa Hospital Mortuary for the Magistrate
 
 ---
 
-### මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකුගේ රු. කෝටි 10 ක දේපළ තහනමක්
+### A large number of drug dealer. 10 crore property banned
 
 *2024-11-06 10:18:14* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-මත්ද්‍රව්‍ය-ජාවාරම්කරුවකුගේ-රු--කෝටි-10-ක-දේපළ-තහනමක්/11-412881) · `si`
 
-අතුරුගිරිය ටැටූ කලාගාරය තුළදී ව්‍යාපාරික වසන්ත සුරේන්ද්‍ර පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනයේ සැලසුම් කරුවෙකු ලෙස හඳුනාගෙන සිටින විදේශගත  මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවෙකු හා සංවිධානාත්මක අපරාධකරුවකු වන පලනී ශිරාන් ක්ලෝරියන් නමැත්තා මත්ද්‍රව්‍ය ජාවාරමෙන් උපයා ගත්  රුපියල් කෝටි 10 කට ආසන්න දේපල  මුදල් විශුද්ධ කිරීමේ වැළැක්වීමේ පනතේ ප්‍රතිපාදන අනුව ක්‍රියා විරහිත කිරීමේ නියෝග නිකුත් කර තහනමට ලක් කිරීමට පියවර ගත් බව පොලිසිය කියයි.
+Drug dealer's 10 crore property banned. Murder investigation leads to arrest of six suspects. Police seize boat and engine used in crime. Key suspect Palani Shiran chlorhic imprisoned.
 
-එම ජාවාරම්කරු ප්‍රබල මත් ජාවාරම්කාරියක් වන කුඩු සෙල්විගේ පුත්‍රයෙකි. තහනම් කළ දේපර අතර ක්ලබ් වසන්ත ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන් දෙදෙනාට පලායාම සඳහා සූදානම් කර තිබූ බෝට්ටුව සහ එන්ජිම ද වන බව පොලිසිය සඳහන් කරයි.
+🟩
 
-එම සංවිධානාත්මක අපරාධකරු මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවමින් විශාල දේපලක් උපයාගෙන ඇති බවට ලද තොරතුරු  අනුව  සිදුකළ විමර්ශනවලදී අනාවරණ වූ තොරතුරු අනුව එම දේපළ තහනම සිදුකර ඇත.
+At the Athurugiriya Tattortile murder, Palanni Shiran chloric named Palanie Shiran chloric named Palarian Shiran chlorhi's provisions for nearly Rs.The police say that steps have been issued and banned from issuing ordered orders.
+
+The racketeer is the son of a powerful drug racketeer, Kudu Selvi. The two shotics were also the boat and engine that was prepared for the murder of Club spring.
+
+Investigations carried out by the information that the organized criminal was led by the criminal criminal, investigations have been banned.
+
+The felony of the forecasting of Rs. 90 lakhs worth Rs.The police said that the boat and engine banned from a Chilaw were banned from a Chilaw.
+
+The police arrested six persons who were arrested by the Club Wasantha's murder following the assassination of Club Wasantha in Dehiwala.Says.
 
 ...
 
 [Data](articles/2c2206d9.json)
+
+[Extended Data](ext_articles/2c2206d9.ext.json)
 
 ---
 
@@ -1869,487 +2225,5 @@ During the war, the people of Sri Lanka saw the North as a battlefield and the T
 [Data](articles/724962a8.json)
 
 [Extended Data](ext_articles/724962a8.ext.json)
-
----
-
-### Sasikala Raviraj's car attack
-
-*2024-11-05 21:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/197981) · `ta`
-
-Sasikala Raviraj, Jaffna DNTA electoral candidate, attacked while campaigning. Car targeted by unidentified persons. Incident reported to Chavakachcheri police. Window of her house previously vandalized. Police investigation ongoing.
-
-🟩
-
-Jaffna of Democratic Tamil National Alliance. Electoral district candidate Sasikala Raviraj has been attacked by unidentified persons on a car traveling
-
-The car was attacked when he was traveling in a car for campaigning from his home on Tuesday evening.
-
-Police are investigating the incident as a complaint has been lodged at the Chavakachcheri police station.
-
-Meanwhile, a few days ago, Sasikala Raviraj's window of the window of the house was broken and stones were attacked on Tuesday (05).
-
-◼️
-
-[Data](articles/26dfa0e2.json)
-
-[Extended Data](ext_articles/26dfa0e2.ext.json)
-
----
-
-### Man arrested for sharing fake currency note with President’s image on social media remanded
-
-*2024-11-05 21:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103191/man-arrested-for-sharing-fake-currency-note-with-presidents-image-on-social-media-remanded) · `en`
-
-The 38-year-old person arrested from Athurugiriya for allegedly publishing a fake Rs. 5,000 currency note with President Anura Kumara Dissanayake’s image on social media, has been remanded until November 11 by the Kesbewa Magistrate.
-
-On November 04, the Criminal Investigations Department (CID) arrested a person who is suspected to have circulated a doctored image of a fake currency note of the Rs. 5,000 denomination featuring an image of President Anura Kumara Dissanayake on it.
-
-The suspect, identified as a resident of Korathota in Athurugiriya, is employed as a salesperson, according to police
-
-◼️
-
-[Data](articles/8f7748b0.json)
-
-[Extended Data](ext_articles/8f7748b0.ext.json)
-
----
-
-### Suspect remanded for set Rs. 5,000
-
-*2024-11-05 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202945) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Suspect remanded Rs. 5000 case. Kesbewa Magistrate orders until Nov 11. CID arrested on Oct 4. Police spokesperson DIG Nihal Talduwa confirms.
-
-🟩
-
-The Kesbewa Magistrate has ordered that the suspect had been remanded until November 11.
-
-The Police Media Spokesperson, DIG's law, lawyer Nihal Talduuwa made this statement.
-
-The Criminal Investigations Department had arrested the suspect on the 4th.
-
-◼️
-
-[Data](articles/145bc368.json)
-
-[Extended Data](ext_articles/145bc368.ext.json)
-
----
-
-### Landslide risk in part of Haliela Welimada road
-
-*2024-11-05 20:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202944) · `si`
-
-Haliela Welimada road landslide risk reported today. Badulla Executive Engineer warns of potential danger. District Disaster Management Unit alerted. Safety measures implemented under Assistant Director Udaya Kumara's guidance.
-
-🟩
-
-The Badulla Executive Engineer's office said that there is a risk of landslide from Haliela, Welimada road today (05).
-
-The Badulla District Disaster Management Unit is informed to illustrate the safety of the landslide.
-
-Also, necessary action is taken regarding the situation, Badulla District Disaster Management Assistant Director. L. M. Said Mr. Udaya Kumara said.
-
-◼️
-
-[Data](articles/beecfc93.json)
-
-[Extended Data](ext_articles/beecfc93.ext.json)
-
----
-
-### The bold opposition is trying to lose, dilith
-
-*2024-11-05 20:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202943) · `si`
-
-Opposition claims Wickremesinghe destroying parties, JVP finished. Dilith Jayaweera leads campaign, says JVP last party ended. Criticizes appointments, calls for courage in politics.
-
-🟩
-
-Mr. Wickremesinghe has destroyed many political parties in the country and the politics of the JVP has completed the politics of the JVP.
-
-Establishment of the Ratmalana, Ratmalana, and the opening of the election campaign was chaired by Dilith Jayaweera, the leader of the Norrageous Entrepreneurship Dilith Jayaweera today (05).
-
-"Today, the oorroot power has become the only political force that is alive in Sri Lanka. He has ended all parties in Sri Lanka to help Ranil Wickremesinghe. The JVP is the last political party ended by Ranil Wickremesinghe's grief. "
-
-"Harini Amarasuriya and Ranil Wickremesinghe are being appointed to posts. They are not red.. Pinks. Not those bells ... the people of the compass. "
-
-"We are daring opposition, not the case.. Not a word about boldness. We are not afraid to do politics on this earth.  මේ සර්ව ජනයාගේ බලයයි."
-
-◼️
-
-[Data](articles/05700259.json)
-
-[Extended Data](ext_articles/05700259.ext.json)
-
----
-
-### Hali Ela - Landslide at Welimadai Road
-
-*2024-11-05 20:34:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹாலிஎல-வெலிமடை-வீதியில்-மண்சரிவு/175-346614) · `ta`
-
-Landslide reported on Hali Ela-Welimadai road. Badulla Road Development Authority warns caution for travelers due to potential safety risks.
-
-🟩
-
-The Badulla Road Development Authority's Executive Engineer's Office said that the landslide has occurred on the Hali Ela -Welimada road.
-
-The Badulla District Disaster Management Center has demanded that drivers and pedestrians traveling on the road be careful with their security, as the landslide situation may be serious.. Remble
-
-◼️
-
-[Data](articles/ff86962c.json)
-
-[Extended Data](ext_articles/ff86962c.ext.json)
-
----
-
-### Dilshan has severely criticized Dilit
-
-*2024-11-05 20:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்தை-கடுமையாக-சாடினார்-டில்ஷான்/175-346613) · `ta`
-
-Candidate Dilshan criticizes rival over citizenship claim, challenges proof. If rival fails, Dilshan vows to quit politics. Former cricketer calls for new political culture, questions fear of newcomers.
-
-🟩
-
-The United Democratic Voice (UDV) candidate Tilakaratne Dilshan has challenged Presidential candidate Dilith Jayaweera to prove his claim that he is a dual citizen.
-
-Tilakaratne Tilshan, who has severely criticized Dilith Jayaweera for questioning his citizenship, said that if Jayaweera is able to prove his claims, he is ready to quit his election effort.
-
-However, if Dilith fails to do so, he should also promise to quit politics.
-
-Commenting on the media, Tilakratne Dilshan further questioned whether he was unaware of his citizenship when Dilith had earlier made an invitation to join his political party.
-
-“Dilith joined his party and invited me to contest the Kalutara district. The call was made via former Sports Minister Roshan Ranasinghe. It is sad that we still follow the old political culture that is muddy, ”he added.
-
-The former cricketer, who said that a new political culture should be developed for the development of the country, and questioned why some people are afraid of newcomers.
-
-◼️
-
-[Data](articles/3b10ffcd.json)
-
-[Extended Data](ext_articles/3b10ffcd.ext.json)
-
----
-
-### President appeals to corrupt public officials
-
-*2024-11-05 20:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202942) · `si`
-
-President Anura Kumara Dissanayake calls for exposing corruption in public officials during a rally. He urges citizens to report bribery and intimidation by government officers.
-
-🟩
-
-President Anura Kumara Dissanayake says that he is requesting to provide information on the extortion or bribe of public officials.
-
-The President was speaking at the rally of the Moneragala rally, organized by the national folk force yesterday (04).
-
-"For the first time, power shifted power to the common power. Not hurt?. Hurt ... a lot of sadness ... Now try again to defeat and get. This cannot be considered, can't be defeated. They're talking about sadness. In fact, they may have hugged the gorve at night. That's what happened.. They thought every day to deceive the people, intimidated.  චන්ඩින්ගේ පාලනය අවසන්... This is how these weerappan is governed by this. You have to end. "
-
-...
-
-[Data](articles/fbc2ce85.json)
-
-[Extended Data](ext_articles/fbc2ce85.ext.json)
-
----
-
-### Functioning of public service must change to achieve govt’s objectives – President
-
-*2024-11-05 20:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103190/functioning-of-public-service-must-change-to-achieve-govts-objectives-president) · `en`
-
-President Anura Kumara Dissanayake stated that rural development and upgrading the rural people’s social and economic well-being is one of the primary objectives of the government during this term, the President’s Media Division (PMD) reported.
-
-The President expressed these views during a discussion held today (05) at the Presidential Secretariat with members of the Sri Lanka Administrative Service Association (SLAS).
-
-The President highlighted the necessity of public officials cooperating with the government to successfully implement government initiatives, noting that the experiences of government officials is valued and instrumental to implement government policy.
-
-The President pointed out that there is a gap between the government’s objectives and the traditional operational modalities of the public service. To ensure the effectiveness of government programs aimed at national development, he stated that the functioning of public administration also has to change, according to the PMD.
-
-...
-
-[Data](articles/e34602d0.json)
-
-[Extended Data](ext_articles/e34602d0.ext.json)
-
----
-
-### Plan to kill me like my husband?
-
-*2024-11-05 20:19:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எனது-கணவரைப்-போல-என்னையும்-கொலை-செய்ய-திட்டமா/175-346612) · `ta`
-
-Chandrika Bandaranaike Kumaratunga questions reduction in personal security personnel. Former president claims higher threat level than predecessors. Accuses government of planning to harm him like his husband in 1988.
-
-🟩
-
-Former President Chandrika Bandaranaike Kumaratunga has questioned the recent resolution taken by the Ministry of Public Security to reduce the number of personnel assigned to his personal security as the former head of state.
-
-In a letter to the secretary of the former President Chandrika, the new resolution said that his security has been reduced from 50 to 50.
-
-He said the letter of the police officer in charge of the area where he was in the area was the highest threat to the former heads of state and that he needed at least 50 employees for his safety.
-
-He pointed out that the former presidents had 243 police and military officers, Maithripala Sirisena and 109 police officers and Gotabhaya Rajapaksa had been given security.
-
-He has raised the question of why he has made a decision to reduce his security, despite his severe threats, and has raised suspicion that he had a plan to kill her like her husband in 1988.
-
-◼️
-
-[Data](articles/8542745c.json)
-
-[Extended Data](ext_articles/8542745c.ext.json)
-
----
-
-### Appointment of Chairman of the Palm Development Authority;Has questioned the position of a corrupt nation
-
-*2024-11-05 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/197980) · `ta`
-
-Here's a 200-character summary:
-
-
-
-EPDP spokesperson Iyathurai Srirangeswaran criticizes appointment of corrupt head Palm Development Authority Jaffna, questioning President Anura Kumara Dissanayake's stance on corruption. Appointment may impact labor investments and economic stability.
-
-🟩
-
-EPDP's media spokesman and parliamentary election candidate Iyathurai Srirangeswaran has said that the appointment of a corrupt man as the head of the palm development authority in Jaffna has questioned the position of President Anura Kumara Dissanayake's corrupt nation.
-
-He said this during a media briefing held at the Jaffna Media Center on Tuesday (05).
-
-The current President Anurakumara Dissanayake has gained the power to eradicate the corruption of corruption.
-
-It is said that the head of the Palm Authority in Jaffna is said to have been promoted to private companies and has made many crores of corruption scandals.. These have been published in social media in the past.
-
-The appointment of such a fraudulent person as the Chairman of the Palm Development Authority has questioned President Anura's view or his position and disturbed the people who voted for him.
-
-The appointment will face further impact as the labor and investments of the sector are in question.
-
-...
-
-[Data](articles/f7be8651.json)
-
-[Extended Data](ext_articles/f7be8651.ext.json)
-
----
-
-### Port kitchen kitchen not unaware to private sector
-
-*2024-11-05 20:07:34* · [`adalk`](https://www.ada.lk/breaking_news/වරායේ-මුළුතැන්ගෙය-පෞද්ගලික-අංශයට-නොදෙයි/11-412878) · `si`
-
-Sri Lanka Ports Authority kitchen leads food service. Largest in South Asia. New Minister suspends contract with private sector. Focuses on quality and staff satisfaction. Consults officials to address issues and improve facilities. Serves 5,500-6,000 meals daily. Also provides services during COVID-19.
-
-🟩
-
-The kitchen provided by the Sri Lanka Ports Authority employees has decided to lead the food to the port.
-
-Officers say that the kitchen is the largest kitchen of South Asia and the new government, Highways, Ports and Civil Aviation Minister Vijitha Herath has been immediately suspended for the private sector. The kitchen had been called for the private minister at the end of the past half of the passage of the passing period.
-
-Accordingly, the Port kitchen continues to lead the plant and increasing the quality of food and increasing the quality of food and allow the staff satisfaction.
-
-In addition, the Minister has further consulted the officials to look into all the shortcomings of the kitchen and providing new equipment and maintaining the development.
-
-Among the morning and lunch is between 5500 - 6000 and 3000 - 3500 - 3000 - 3500. Especially services during the Covid Epidemics were also the ministerial kitchens of the Presidential Secretariat and the Prime Minister's Office officials.
-
-◼️
-
-[Data](articles/5528c89a.json)
-
-[Extended Data](ext_articles/5528c89a.ext.json)
-
----
-
-### Loans have been stabilized
-
-*2024-11-05 20:02:38* · [`adalk`](https://www.ada.lk/breaking_news/ණයවල-ස්ථාවර-බවක්-ඇති-වෙලා-තිබෙනවා/11-412877) · `si`
-
-Loans stabilized. Former President Wickremesinghe urges immediate announcement of salary hike. Government debt obligations questioned. Public servant salary increases debated. Udaya Seneviratne committee formed to address salary anomalies. President Rajapaksa initially agreed but later refused. Vehicle imports linked to salary hikes.
-
-🟩
-
-Former President Ranil Wickremesinghe said that the President should immediately make a statement to the country that his government will be given a rise in or higher.
-
-Mr. Wickremesinghe questioned whether we had to be able to do that, whether we have promised that our loans are already in the agreement, and that the present government can do it.Ranil Wickremesinghe made this observation addressing the Matara district gang meeting of the new Democratic Front that is contesting under the sign of the gas cylinder.
-
-"Our debts are now stable. We have promised to come out of that agreement and come out of bankruptcy. The work should be made herein. Can these people do that work?
-
-Anura Dissanayake had said in Nuwara Eliya that the first budget increases salaries to public servants.. Why do we not provide the amount of designated to public servants from January?
-
-...
-
-[Data](articles/943fbc3a.json)
-
-[Extended Data](ext_articles/943fbc3a.ext.json)
-
----
-
-### If you prove to be a dual citizen, you will say goodbye to politics
-
-*2024-11-05 19:45:36* · [`adalk`](https://www.ada.lk/breaking_news/ද්විත්ව-පුරවැසියෙක්-බව-ඔප්පු-කළොත්-දේශපාලනයෙන්-සමුගන්නවා/11-412876) · `si`
-
-Sri Lanka politician Tillakaratne Dilshan threatens to leave politics if proven dual citizen. Accuses rival of making false claims about citizenship status. Emphasizes commitment to public service despite challenges.
-
-🟩
-
-Tillakaratne Dilshan said he was leaving politics tomorrow if proving dual citizenship. He was speaking to the media in Kalutara yesterday (05). Speaking further Mr. Tillakaratne Dilshan further said:
-
-"Strong politicians say that I am a dual citizenship. Recently, Almighty Leader Dilith Jayaweera has stated that. If it proves I retire from politics tomorrow. If I could not prove to him, he to say goodbye to politics.
-
-I was invited to come to politics from his party. Roshan Ranasinghe was invited by Roshan Ranasinghe. I was invited to double citizenship?I have a phone one android phone. It's all Record. Let's see if they are Record.
-
-The new parties on their way to a new political culture should not fall down this way. Why the old system is doing this. We need a new political journey. It is not appropriate to make false accusations as a presidential candidate.
-
-...
-
-[Data](articles/36f05e81.json)
-
-[Extended Data](ext_articles/36f05e81.ext.json)
-
----
-
-### Will not allow a span of rice
-
-*2024-11-05 19:37:05* · [`adalk`](https://www.ada.lk/breaking_news/ආයේ-සහල්-හි﻿ඟයක්-ඇති-වන්න-ඉඩ-දෙන්නේ-නෑ/11-412875) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake denies rice shortage, blaming rulers for not purchasing paddy. Promises to control rice prices, increase paddy storage, and prevent monopolies. Emphasizes government's commitment to creating a better future for citizens.
-
-🟩
-
-President Anura Kumara Dissanayake said that there was no shortage of rice, as the rulers had not purchased the paddy recently.. The President was addressing a reputation in Moneragala.
-
-The political official, the government, will create a public front that the public official adds to the formation of the country.President said
-
-"In the presidential election, the national protocol was abandoned. The builders were believed to build them and without bordering them. The people of this country took a brave decision. It's an important decision. The governments earlier moved to their hand with their hand. Their family is for their family.
-
-They always did it to vote and govern together. Where are those parties now?This is the case with this Wellawaya. Divisions and governments to vote. In the recent presidential election, said the Prime Minister. Remember?There was no real disagreement between them.
-
-...
-
-[Data](articles/8446b088.json)
-
-[Extended Data](ext_articles/8446b088.ext.json)
-
----
-
-### Guinness record of boat riding in pumpkin
-
-*2024-11-05 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/197963) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Gary breaks Guinness record with 73.5km pumpkin boat ride across Columbia River. He grew massive 555kg pumpkin, carved it into "Funky Lopter," and navigated treacherous waters for 26 hours. His perseverance and pumpkin's buoyancy helped him succeed where others failed.
-
-🟩
-
-It is used to cook curry and prepare the taste with pumpkin.. We will know that Halloween is used for the day.
-
-But we are not aware of the incident of a boat ride somewhere in the pumpkin.
-
-Carrie Christenson from the United States, who has a love for pumpkin, has grown 555 kg of pumpkin and uses it as a boat.
-
-Gary started raising large pumpkins since 2011. But his dream of traveling on the Pumpkin boat appeared in the 2013 West Coast area of ​​the Giant Pumpkin Regatta-An Event.
-
-After many years, he decided to develop the proper amount of pumpkin this year.
-
-In mid -July, the pumpkin was subjected to pollen and harvested at the beginning of October. Its perimeter has been 429.26 meters (169 inches) and 555.2 kg.
-
-It is reported to be a large big piano or an adult camel mass.
-
-After carving the pumpkin, he named it "Funky Lopter" on October 11.
-
-From October 12 to 13, he crossed the Pumpkin boat 73.50 km in 26 hard hours across the Columbia River.
-
-...
-
-[Data](articles/0d871ba1.json)
-
-[Extended Data](ext_articles/0d871ba1.ext.json)
-
----
-
-### Firing on mother -in -law!Nephew hugs
-
-*2024-11-05 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/197979) · `ta`
-
-Woman injured by son-in-law's gunfire in Vavuniya. Police hunting suspect.
-
-🟩
-
-A woman has been admitted to the Vavuniya Hospital after being injured in a nationwide use of a youth in Sundarapuram in Vavuniya.
-
-Her son -in -law, who went to the woman's house on Monday, 4th, shot in the woman's chance. The injured woman was immediately rescued and admitted to the Vavuniya Hospital.
-
-A 54 -year -old woman from Sundarapuram has been admitted to hospital with injuries.
-
-Police are engaged in the arrest of the attacker as the attacker is in hiding.
-
-◼️
-
-[Data](articles/28ca93d0.json)
-
-[Extended Data](ext_articles/28ca93d0.ext.json)
-
----
-
-### Actor Nakul's debut video release 'Dark Heaven'
-
-*2024-11-05 19:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/197971) · `ta`
-
-Actor Nakul debuts in "Dark Heaven", directed by Balaji. Gothic thriller based on Nadar stories. Nakul plays police officer role. Film crew event in Chennai.
-
-🟩
-
-The debut video of the film 'Dark Heaven', which plays the lead role as the hero of 'Nakka Mukkam', has been released.
-
-Directed by director Balaji, directed by director Balaji, Nakul, Saran, Danny Dayal, Alex, Gothi Santhanam and many others have starred in 'Dark Heaven' directed by Balaji.. P.C.. Shakti Balaji has composed the film, which is being recorded by Manikandan.
-
-This movie is a Gothic Entertainment and S. M.. Media Factory is co -produced by film companies.
-
-The shooting of the film is completed and the post -shooting technical work is currently underway.
-
-In this case, the film's debut video was released. The film crew participated in a special event in Chennai.
-
-Director Balaji said, “We have created the film in the Investigate thriller Janer, focusing on the traditional told Nadar stories.. After 'Kandara', we have once again embraced the stories of the people's confidence in the southern parts of Tamil Nadu and set up its screenplay.
-
-...
-
-[Data](articles/d713d76f.json)
-
-[Extended Data](ext_articles/d713d76f.ext.json)
-
----
-
-### Rs. Woman arrested with ice of Rs.10 million
-
-*2024-11-05 19:28:13* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-10ක-අයිස්-සමග-තායිලන්ත-කාන්තාවක්-අල්ලයි/11-412874) · `si`
-
-Thailand woman arrested at Sri Lanka airport with $70k worth of methamphetamine hidden in food packets.
-
-🟩
-
-Foreign Air Drugs have been arrested by a group of officers who have been trying to go out on the Katunayake airport yesterday (04 billion) from Singapore.
-
-She is a 33 year old Thailand. She went to Kuala Lumpur in Thailand, Singapore's airline to the Katunayake Airport at 468 at the Katunayake airport.
-
-The woman, the woman, was arrested by a group of officers from the Customs Drug Administration Unit.
-
-In the baggage she had been brought, she had been hidden in several packages of food containing food.
-
-The arrested passenger woman has been handed over to the Katunayake Airport for further investigations.
-
-◼️
-
-[Data](articles/bec5ed45.json)
-
-[Extended Data](ext_articles/bec5ed45.ext.json)
 
 ---

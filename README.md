@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 14:13:34**
+As of **2024-11-06 14:25:48**
 
 ## Newspaper Stats
 
-*Scraped **53,353** Articles*
+*Scraped **53,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,982
+adalk | 4,983
 adaderanalk | 6,357
 tamilmirrorlk | 7,430
 virakesarilk | 8,619
@@ -26,53 +26,67 @@ adaderanasinhalalk | 9,301
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,351 (100.0%) of 53,353 articles have been extended.
+53,353 (100.0%) of 53,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### කඨින චීවර පිංකමට යන්න ගිය කාන්තාව මුහුණදුන් අවාසනාවන්ත සිදුවීම
+### The unfortunate event faced by the woman who went to go to the nudder China
 
 *2024-11-06 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202969) · `si`
 
-වැල්ලවාය - මොනරාගල ප්‍රධාන මාර්ගයේ වැල්ලවාය පොලිස් බලප්‍රදේශයට අයත් ආනපල්ලම ප්‍රදේශයේ දී සිදුවූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තිබේ.
+Woman killed in accident on Sri Lanka's Wellawaya-Moneragala highway. Driver arrested. Victim, 65, from Anadallama area. Accident occurred during pilgrimage attempt.
 
-කඨින චීවර වන්දනා පිංකමකට සහභාගී වීම සඳහා මාර්ගය හරහා මාරු වීමට උත්සාහ කළ කාන්තාවක් ලොරි රථයක ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+🟩
 
-මෙලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, ආනපල්ලම ප්‍රදේශයේ පදිංචි 65 හැවිරිදි කාන්තාවකි.
+A woman was killed in an accident in the Anapolama area belonging to the Wellawaya-Moneragala main road.
 
-අනතුර සම්බන්ධයෙන් ලොරි රථයේ රියැදුරු වැල්ලවාය පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර රියදුරු වැල්ලවාය මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The accident had occurred when a woman attempted to switch to a horror China's pilgrimage to participate in a pilgrimage.
+
+The deceased has been identified as a 65 year old resident of Anadallama area.
+
+The lorry driver has been arrested by the Wellawaya Police regarding the accident and the driver is to be produced before the Wellawaya Magistrate's Court.
 
 ◼️
 
 [Data](articles/a2c807fa.json)
 
+[Extended Data](ext_articles/a2c807fa.ext.json)
+
 ---
 
-### ට්‍රම්ප් ජය තහවුරු කරයි
+### Trump confirms win
 
 *2024-11-06 13:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202968) · `si`
 
-අමෙරිකාවේ රිපබ්ලිකන් පක්ෂ ජනාධිපති අපේක්ෂක ඩොනල්ඩ් ට්‍රම්ප් ජනාධිපතිවරණයේ ජය තහවුරු කර තිබේ.
+Donald Trump wins 267 seats, claims victory in key states. Confirms presidential election win, addresses supporters. Republicans regain Senate control. Election results announced state-by-state, with some states still counting ballots.
 
-මෙතෙක් ප්‍රකාශිත මැතිවරණ පුරෝකථනවලට අනුව හිටපු අමෙරිකානු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඡන්ද විද්‍යාල ආසන 267ක් දිනා ඇති අතර ඔහුගේ ප්‍රතිවාදියා වූ උප ජනාධිපතිනී කමලා හැරිස් දිනා ඇත්තේ ආසන 224ක් පමණයි.
+🟩
 
-ඒ අනුව 2024 අමෙරිකානු ජනාධිපති තමන් ජයගත් බවට රිපබ්ලිකන් පක්ෂ ජනාධිපති අපේක්ෂක හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ප්‍රකාශ කළේය.
+Republican party candidate Donald Trump has confirmed the Presidential election.
 
-ඒ ෆ්ලොරිඩාහි, රිපබ්ලිකන් පක්ෂ ප්‍රධාන මූලස්ථානයේ සිට සිය ආධාරකරුවන් අමතමිනි.
+Former American President Donald Trump, Donald Trump, has won 267 seats and has won 267 seats.
 
-හිටපු ජනාධිපති ට්‍රම්ප් එහිදී පැවසුවේ අමෙරිකානු ජනතාව පෙර නොවූ තරම් ජන වරමක් තමන් වෙත ලබා දී ඇති බවය.
+Accordingly, former Presidential candidate former Presidential candidate former Presidential candidate, Donald Trump said,
 
-ජනාධිපතිවරණ සටනේ ඉතාමත් තීරණාත්මක ප්‍රාන්ත අතරින් ජෝර්ජියා, උතුරු කැරොලිනා සහ පෙනිසල්වේනියා ප්‍රාන්තවල ජය හිටපු ජනාධිපති ට්‍රම්ප් සතුව ඇතැයි පුරෝකථන පෙන්වා දෙයි.
+At that, the Republican Party headquarters from the Republican Party headquarters, addressing his supporters.
 
-එමෙන්ම සෙනට් සභාවේ බලයත් නැවතත් තමන් සතුකර ගැනීමට රිපබ්ලිකන් පක්ෂය මේ වනවිට සමත්ව ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+Former President Trump said that the American people have been given as a mandate of the people.
 
-අමෙරිකාවේ 47 වැනි ජනාධිපතිවරයා තෝරාගැනීමේ 60 වැනි ජනාධිපතිවරණය මෙරට වේලාවෙන් ඊයේ (05) සවස් කාලයේ සිට අද උදෑසන දක්වා පැවැත්වුණි.
+Foreign points of the premises of the crucial states of the presidential election claim that former President Trump has the forefront of Georgia, North Carolina and Pennsalvania.
+
+The Republican Party has already been able to restore the power of the Senate.
+
+The 60th presidential election of the US 47th President was held last evening from the date of Sri Lanka this morning.
+
+More than 81 million registered American voters had been voted under the election day, while the election was held yesterday.
 
 ...
 
 [Data](articles/e640d02a.json)
+
+[Extended Data](ext_articles/e640d02a.ext.json)
 
 ---
 
@@ -341,6 +355,28 @@ Accordingly, the Cabinet of Ministers has approved the management of the allocat
 [Data](articles/394d9578.json)
 
 [Extended Data](ext_articles/394d9578.ext.json)
+
+---
+
+### රුසියාවේ සංචාරකයන් ලංකාවට ගේන්න අසූර් එයා ලංකාවට එයි
+
+*2024-11-06 12:15:15* · [`adalk`](https://www.ada.lk/breaking_news/රුසියාවේ-සංචාරකයන්-ලංකාවට-ගේන්න-අසූර්-එයා-ලංකාවට-එයි/11-412886) · `si`
+
+ලොව පුරා එළඹී තිබෙන ශීත ඍතුව වෙනුවෙන්රු සියාවේ සිට අසූර් ගුවන් සේවයේ ( Azur Air ) පළමු  ගුවන් යානය (Inogaral Flight ) එරට සංචාරකයන් පිරිසක් රැගෙන 11/06 දින උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියේය.
+
+අසූර් එයාර් ගුවන් සේවයේ ඉසෙඩ්.එෆ්.- 1611 දරන මෙම ගුවන් යානය 11/06 දින උදෑසන 10.05 ට රුසියාවේ වෙනිකොව් නුවර සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි.
+
+මෙම ගුවන් යානය පිළිගැනීම සදහා ජල ආචාර ( Water Salute ) පැවැත්වීමට කටුනායක ගුවන් බලධාරීන් පියවර ගෙන  තිබුණි.
+
+මෙම පළමු ගුවන් ගමන සදහා අසූර් එයාර් ගුවන් සේවය විසින් බෝයිං - 767 වර්ගයේ ගුවන් යානයක් යොදවා තිබූ අතර එහි ගුවන් මගීන් 332 ක් සහ ගුවන් යානා කාර්යය මණ්ඩලය ලෙස තවත් 10 දෙනෙකු ද පැමිණ සිටියහ .
+
+11/06 දින සිට සෑම සතියකම අසූර් එයාර් ගුවන් සේවය රුසියාවේ ප්‍රධාන නගර 05 ක සිට එනම් වෙනිකොව්
+
+සෙන්ට් පීටර්ස්බර්ග් ,ක්‍රොසනොස්කො, සෝච් සහ නොවිසිබිස්ක් යන නගර වල සිට කටුනායක ගුවන් තොටුපොළ වෙත පැමිණීමට නියමිත බව අසූර් එයාර් ගුවන් සේවයේ ශ්‍රී ලංකාවේ කළමනාකරු මොරිස් ද සිල්වා මහතා පැවසීය .
+
+...
+
+[Data](articles/acb6955d.json)
 
 ---
 
@@ -2255,35 +2291,5 @@ It is in that backdrop that the ambassadors have been taken up again to the isla
 [Data](articles/4c6d9702.json)
 
 [Extended Data](ext_articles/4c6d9702.ext.json)
-
----
-
-### Try to get rid of the Ministries
-
-*2024-11-06 02:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளை-வலிந்து-பெற-முயற்சி/175-346635) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Suren Gurusamy criticizes TNA opponents, urging Tamil support for unity and rejecting nationalism. He warns against voting for South Sri Lanka parties, citing ministry post motivations.
-
-🟩
-
-Suren Gurusamy, a media spokesman of the Relo Organization and the candidate of the Tamil National Alliance (TNA), has accused the Tamil National Alliance (TNA) of being a serious effort to gain support for the Anuragumara -led government.
-
-Suren said this during a media briefing held at the Jaffna Media Center on Tuesday (04). There he continued to comment,
-
-It is clear that various parties and independent groups contesting an important election are to divide the votes of the Tamil people.
-
-Many of these contestants. The welfare of the Tamil people does not seem to be working. It is clear that it is to get their positions.
-
-Therefore, the Tamil people should be fully supportive of the Tamil National Alliance (TNA), which expresses unity throughout the North and East, which is traveling with the Tamil National Policy, which will be fully supportive of the Tamil nationalist policy.
-
-...
-
-[Data](articles/405aa35f.json)
-
-[Extended Data](ext_articles/405aa35f.ext.json)
 
 ---

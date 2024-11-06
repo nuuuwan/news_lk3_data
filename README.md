@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 12:00:16**
+As of **2024-11-06 12:14:32**
 
 ## Newspaper Stats
 
-*Scraped **53,320** Articles*
+*Scraped **53,322** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,189
 economynextcom | 3,231
 dailyftlk | 3,642
 dailymirrorlk | 4,733
-adalk | 4,977
+adalk | 4,979
 adaderanalk | 6,351
 tamilmirrorlk | 7,420
 virakesarilk | 8,612
@@ -26,21 +26,43 @@ adaderanasinhalalk | 9,296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,318 (100.0%) of 53,320 articles have been extended.
+53,320 (100.0%) of 53,322 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
 
-### ශ්‍රී ලංකා එක්දින සහ 20යි 20 සංචිතය නම් කෙරේ
+### ඉදිරියේදී ජනාධිපතිවරුන්ට සමානුපාතික ක්‍රමයට ආරක්ෂාව - අවශ්‍ය අයට විශේෂ ආරක්ෂාව
+
+*2024-11-06 11:40:05* · [`adalk`](https://www.ada.lk/breaking_news/ඉදිරියේදී-ජනාධිපතිවරුන්ට-සමානුපාතික-ක්‍රමයට-ආරක්ෂාව---අවශ්‍ය-අයට-විශේෂ-ආරක්ෂාව/11-412883) · `si`
+
+ඉදිරියේදී සියලුම හිටපු ජනාධිපතිවරුන්ට සමානුපාතික ක්‍රමයට ආරක්ෂාව සැපයීමට කටයුතු කරන බවත්, විශේෂ ආරක්ෂාවක හිමි විය යුතු ජනාධිපතිවරුන්ට විශේෂ ආරක්ෂාවක් ලබා දෙන බවත් කැබිනට් ප්‍රකාශක අමාත්‍ය විජිත හේරත් මහතා පැවසීය.
+
+කැබිනට් තීරණ දැනුම් දීමේ මාධ්‍ය හමුවට අද (06දා) එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“දැනට හිටපු ජනාධිපතිවරුන්ගේ , විශේෂයෙන්ම චන්ද්‍රිකා බණ්ඩාරනායක මහත්මිය කියලා තිබුණා එතුමියගේ ආරක්ෂාව ඉවත් කරනවා කියලා. එහෙම ඉවත් කිරීමක් කරලා නෑ. එතුමිය ලිපියක් එවලා තිබුණා 30ක් දක්වා අඩු කරනවා කියලා. ඒක වැරදියි. එතුමියට දැනටත් 57 දෙනෙක් දීලා තියෙනවා.
+
+...
+
+[Data](articles/3fd6bb5e.json)
+
+---
+
+### Sri Lanka will be named ODI and 20 squad
 
 *2024-11-06 11:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202964) · `si`
 
-නවසීලන්තය සමග පැවැත්වෙන එක්දින සහ 20යි 20 තරගාවලි සඳහා ශ්‍රී ලංකා සංචිත නම් කර තිබේ.
+Sri Lanka names ODI and T20 squads for New Zealand tour.
+
+🟩
+
+The squad for New Zealand has been named for the One Day and 20 Tournament.
 
 ◼️
 
 [Data](articles/cbdaabac.json)
+
+[Extended Data](ext_articles/cbdaabac.ext.json)
 
 ---
 
@@ -377,6 +399,22 @@ The body has been placed in the Polonnaruwa Hospital Mortuary for the Magistrate
 [Data](articles/ac1eb01b.json)
 
 [Extended Data](ext_articles/ac1eb01b.ext.json)
+
+---
+
+### මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවකුගේ රු. කෝටි 10 ක දේපළ තහනමක්
+
+*2024-11-06 10:18:14* · [`adalk`](https://www.ada.lk/breaking_news/මහා-පරිමාණ-මත්ද්‍රව්‍ය-ජාවාරම්කරුවකුගේ-රු--කෝටි-10-ක-දේපළ-තහනමක්/11-412881) · `si`
+
+අතුරුගිරිය ටැටූ කලාගාරය තුළදී ව්‍යාපාරික වසන්ත සුරේන්ද්‍ර පෙරේරා හෙවත් ක්ලබ් වසන්ත ඝාතනයේ සැලසුම් කරුවෙකු ලෙස හඳුනාගෙන සිටින විදේශගත  මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවෙකු හා සංවිධානාත්මක අපරාධකරුවකු වන පලනී ශිරාන් ක්ලෝරියන් නමැත්තා මත්ද්‍රව්‍ය ජාවාරමෙන් උපයා ගත්  රුපියල් කෝටි 10 කට ආසන්න දේපල  මුදල් විශුද්ධ කිරීමේ වැළැක්වීමේ පනතේ ප්‍රතිපාදන අනුව ක්‍රියා විරහිත කිරීමේ නියෝග නිකුත් කර තහනමට ලක් කිරීමට පියවර ගත් බව පොලිසිය කියයි.
+
+එම ජාවාරම්කරු ප්‍රබල මත් ජාවාරම්කාරියක් වන කුඩු සෙල්විගේ පුත්‍රයෙකි. තහනම් කළ දේපර අතර ක්ලබ් වසන්ත ඝාතනයෙන් අනතුරුව වෙඩික්කරුවන් දෙදෙනාට පලායාම සඳහා සූදානම් කර තිබූ බෝට්ටුව සහ එන්ජිම ද වන බව පොලිසිය සඳහන් කරයි.
+
+එම සංවිධානාත්මක අපරාධකරු මත්ද්‍රව්‍ය ජාවාරම මෙහෙයවමින් විශාල දේපලක් උපයාගෙන ඇති බවට ලද තොරතුරු  අනුව  සිදුකළ විමර්ශනවලදී අනාවරණ වූ තොරතුරු අනුව එම දේපළ තහනම සිදුකර ඇත.
+
+...
+
+[Data](articles/2c2206d9.json)
 
 ---
 
@@ -1107,6 +1145,8 @@ With the partial conversion of the convertible debentures issued to HWIC Asia Fu
 ...
 
 [Data](articles/b8de24e2.json)
+
+[Extended Data](ext_articles/b8de24e2.ext.json)
 
 ---
 
@@ -2311,35 +2351,5 @@ The arrested passenger woman has been handed over to the Katunayake Airport for 
 [Data](articles/bec5ed45.json)
 
 [Extended Data](ext_articles/bec5ed45.ext.json)
-
----
-
-### Can Overseas Sri Lankans finally have their say?
-
-*2024-11-05 19:24:00* · [`islandlk`](http://island.lk/can-overseas-sri-lankans-finally-have-their-say/) · `en`
-
-Dr Bilesha Weeraratne is a Research Fellow and Head of Migration and Urbanisation Research at IPS. Prior to re-joining IPS in 2014, she was a Postdoctoral Research Associate at Princeton University, New Jersey, USA. Her research interests include internal and international migration, climate mobility, urbanisation, the economics of education, labour economics, economic development, econometrics and economic modeling. She holds an MA in Economics from Rutgers University, USA and an MPhil and PhD in Economics from the City University of New York, USA.
-
-The recent presidential election in Sri Lanka marked a series of “firsts,” setting it apart from previous elections. It saw a record-low number of 350,516 valid voters per candidate, implementation of the Regulation of Election Expenditure Act of 2023, and a second count of votes. Notably, there was also greater engagement from Overseas Sri Lankans (OSLs) in the country’s electoral process than at any time previously.
-
-...
-
-[Data](articles/1d2ce5a8.json)
-
-[Extended Data](ext_articles/1d2ce5a8.ext.json)
-
----
-
-### Ceylinco General Insurance gains distinction
-
-*2024-11-05 19:18:00* · [`islandlk`](http://island.lk/ceylinco-general-insurance-gains-distinction/) · `en`
-
-Ceylinco General Insurance was honored as the sole general insurer at LMD’s recent outstanding corporate awards, celebrating the magazine’s 30th anniversary. The event recognized 25 top corporates in Sri Lanka, highlighting those ranked 1st, 2nd and 3rd in LMD’s annual rankings over the past three decades. This accolade highlights the company’s commitment to excellence and its significant role in the Sri Lankan insurance industry. The recognition also reflects its consistent performance and leadership over the years.
-
-...
-
-[Data](articles/570cd73c.json)
-
-[Extended Data](ext_articles/570cd73c.ext.json)
 
 ---

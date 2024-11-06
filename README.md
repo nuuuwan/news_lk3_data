@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-06 08:22:28**
+As of **2024-11-06 08:36:18**
 
 ## Newspaper Stats
 
-*Scraped **53,274** Articles*
+*Scraped **53,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 4,972
 adaderanalk | 6,341
 tamilmirrorlk | 7,417
 virakesarilk | 8,605
-adaderanasinhalalk | 9,283
+adaderanasinhalalk | 9,284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,262 (100.0%) of 53,274 articles have been extended.
+53,262 (100.0%) of 53,275 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-06 (Wednesday)
+
+### පිරිමින් රවටා නිරුවත් ඡායාරූප ලබාගෙන මුදල් ගරන ජාවාරමක්
+
+*2024-11-06 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202952) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ සම්බන්ධ වී නිරුවත් ඡායාරූප ගෙන්වාගෙන අන්තර්ජාලයේ ප්‍රචාරයට කරන බවට පවසා මුදල් බලෙන් ලබා ගත් සැකකරුවෙකු පරිගණක අපරාධ විමර්ශන වයඹ පළාත් ඒකකයේ නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/3b6c04f3.json)
+
+---
 
 ### Gajendrakumar
 
@@ -2351,37 +2363,5 @@ This code, which receives data from the International Air Transport Association 
 [Data](articles/ca011cf2.json)
 
 [Extended Data](ext_articles/ca011cf2.ext.json)
-
----
-
-### Driver's driver's license at fatal bus accident is suspended for 05 months
-
-*2024-11-05 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202934) · `si`
-
-Bus driver's license suspended 5 months after fatal crash due to drunk driving. Driver fined. Two students killed, 42 injured.
-
-🟩
-
-It has been revealed that the driving license of the driver driving the bus in the Badulla's fatal crash was suspended for five months due to drunken driving.
-
-It was also a drunken bus in the Labuduwa area in the Labuduwa area in the Labuduwa area in Galle.
-
-The driver of the vehicle has been fined Rs.
-
-Akmeemana Police have presented the Galle Additional Magistrate's Court today (05).
-
-The police have also revealed that the driver's license was missing his driving license recently after the resident of Dammala, Udugama area has had a driver's license recently.
-
-The Galle Additional Magistrate Lakdi Gamage, taken into consideration the relevant driver's license ordered the driver's driver temporarily retained its driver.
-
-The bus, including the students and lecturers of the Sooriyawewa section of the Sooriyawewa Defense University, was inaugurated at the Mahiyalambee 4th area.
-
-Two students were killed and 42 injured and admitted to the Badulla Teaching Hospital.
-
-◼️
-
-[Data](articles/253470ab.json)
-
-[Extended Data](ext_articles/253470ab.ext.json)
 
 ---

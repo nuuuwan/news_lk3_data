@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 07:26:43**
+As of **2024-11-07 08:01:48**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ adaderanasinhalalk | 9,319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,474 (100.0%) of 53,483 articles have been extended.
+53,477 (100.0%) of 53,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### එළැඹෙන සඳුදා දිනෙන් මැතිවරණ ප්‍රචාරක කටයුතු අවසන්
+### Election propaganda ends on Monday
 
 *2024-11-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202991) · `si`
 
-මෙවර මහ මැතිවරණයට අදාළ මැතිවරණ ප්‍රචාරණ කටයුතු සඳුදා මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතව තිබේ.
+Election campaign ends Monday midnight. Postal voting starts today & tomorrow. No propaganda after midnight. Candidates must avoid door-to-door campaigning and religious place advertising.
 
-ඒ අනුව මැතිවරණ ප්‍රචාරන කටයුතු සඳහා ඇත්තේ තවත් දින 5ක කාලයක් පමණයි.
+🟩
 
-මෙවර මහ මැතිවරණය ලබන 14 වන බ්‍රහස්පතින්දා පැවැත්වීමට නියමිතව තිබේ.
+The election campaign to this year's general election is due to end midnight on Midnight Monday.
 
-මේ අතර මහ මැතිවරණයට අදාළ තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු අද (07) සහ හෙට (08) යන දෙදින තුළ සිදුකිරීමට නියමිතව තිබේ.
+Accordingly, election propaganda has only 5 days.
 
-ඔක්තෝබර් 30 සහ නොවැම්බර් 01 සහ 04 යන දිනවල තැපැල් ඡන්ද සලකුණු කිරීමට නොහැකි වු ත්‍රිවිධ හමුදා කඳවුරුවල සහ සෙසු සියලුම රාජ්‍ය ආයතනවල ඡන්ද දායකයින්ට අද දිනයේදී තැපැල් ඡන්ද සලකුණු කිරීම සඳහා අවස්ථාව ලබාදී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+This year's general election is scheduled to be held on Thursday.
 
-ඒ අනුව තමා රාජකාරී සිදුකරන ස්ථානයන්ට අදාළව දිස්ත්‍රික් ලේකම් කාර්යාලයේ දී තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු සිදුකළ හැකි බව ද එම කොමිෂන් සභාව පැවසීය.
+Meanwhile, postal voting on the general election is scheduled to be held today (07) and tomorrow.
 
-මේ අතර ඉදිරි මහ මැතිවරණයට අදාළව ප්‍රචාරණ කටයුතු සම්බන්ධයෙන් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා මාධ්‍ය වෙත මෙලෙස අදහස් පළ කළේය.
+The Elections Commission states that voters in the Armed Forces and all other state institutions in the Armed Forces and all other government organizations have been given to postal voting today.
+
+According to the Commission, postal voting arrangements could be carried out in relation to the places where he acts.
+
+Meanwhile, Elections Commissioner General Saman Sri Ratnayake expressed these views on propaganda regarding the next general election.
+
+"Silent time begins on the 12th midnight. There should be no propaganda at that time. Also, all candidates are asked to appeal to the family of candidates. Can't go from house to house. This is an illegal act.
 
 ...
 
 [Data](articles/77cb4692.json)
+
+[Extended Data](ext_articles/77cb4692.ext.json)
 
 ---
 
@@ -807,6 +815,8 @@ Due to volatile situation both indices moved downward. The All Share Price Index
 ...
 
 [Data](articles/2a916e97.json)
+
+[Extended Data](ext_articles/2a916e97.ext.json)
 
 ---
 

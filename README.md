@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 06:46:11**
+As of **2024-11-07 07:26:43**
 
 ## Newspaper Stats
 
-*Scraped **53,471** Articles*
+*Scraped **53,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 418
 bbccomsinhala | 545
 colombotelegraphcom | 547
-islandlk | 3,189
+islandlk | 3,199
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
@@ -20,17 +20,65 @@ adalk | 4,995
 adaderanalk | 6,368
 tamilmirrorlk | 7,447
 virakesarilk | 8,648
-adaderanasinhalalk | 9,317
+adaderanasinhalalk | 9,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,471 (100.0%) of 53,471 articles have been extended.
+53,474 (100.0%) of 53,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### එළැඹෙන සඳුදා දිනෙන් මැතිවරණ ප්‍රචාරක කටයුතු අවසන්
+
+*2024-11-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202991) · `si`
+
+මෙවර මහ මැතිවරණයට අදාළ මැතිවරණ ප්‍රචාරණ කටයුතු සඳුදා මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතව තිබේ.
+
+ඒ අනුව මැතිවරණ ප්‍රචාරන කටයුතු සඳහා ඇත්තේ තවත් දින 5ක කාලයක් පමණයි.
+
+මෙවර මහ මැතිවරණය ලබන 14 වන බ්‍රහස්පතින්දා පැවැත්වීමට නියමිතව තිබේ.
+
+මේ අතර මහ මැතිවරණයට අදාළ තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු අද (07) සහ හෙට (08) යන දෙදින තුළ සිදුකිරීමට නියමිතව තිබේ.
+
+ඔක්තෝබර් 30 සහ නොවැම්බර් 01 සහ 04 යන දිනවල තැපැල් ඡන්ද සලකුණු කිරීමට නොහැකි වු ත්‍රිවිධ හමුදා කඳවුරුවල සහ සෙසු සියලුම රාජ්‍ය ආයතනවල ඡන්ද දායකයින්ට අද දිනයේදී තැපැල් ඡන්ද සලකුණු කිරීම සඳහා අවස්ථාව ලබාදී ඇති බව මැතිවරණ කොමිෂන් සභාව සඳහන් කළේය.
+
+ඒ අනුව තමා රාජකාරී සිදුකරන ස්ථානයන්ට අදාළව දිස්ත්‍රික් ලේකම් කාර්යාලයේ දී තැපැල් ඡන්ද සලකුණු කිරීමේ කටයුතු සිදුකළ හැකි බව ද එම කොමිෂන් සභාව පැවසීය.
+
+මේ අතර ඉදිරි මහ මැතිවරණයට අදාළව ප්‍රචාරණ කටයුතු සම්බන්ධයෙන් මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා මාධ්‍ය වෙත මෙලෙස අදහස් පළ කළේය.
+
+...
+
+[Data](articles/77cb4692.json)
+
+---
+
+### Heavy rains in several provinces
+
+*2024-11-07 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202989) · `si`
+
+Heavy rains forecasted in Northern, North-central regions and Puttalam, Trincomalee. Thunderstorms expected in central, Sabaragamuwa, Uva, Southern provinces. Public advised to prepare for strong winds and lightning.
+
+🟩
+
+Showers or thundershowers will occur at times in the Northern and North-central areas and in Puttalam and Trincomalee districts.
+
+Department of Meteorological Department announced from some places in the Northern Province. Heavy rains can occur in more than 50.
+
+Thundershowers will develop at several places in the middle, Sabaragamuwa, Uva and Southern provinces.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/a152f578.json)
+
+[Extended Data](ext_articles/a152f578.ext.json)
+
+---
 
 ### The only solution for the people
 
@@ -610,6 +658,30 @@ The Central Bank (CBSL) attributes this significant decline in general price lev
 
 ---
 
+### Getting rid of Blackheads…
+
+*2024-11-06 22:53:00* · [`islandlk`](http://island.lk/getting-rid-of-blackheads/) · `en`
+
+Who doesn’t like to have a clean and clear skin? But blackheads are a common type of skin condition that everyone usually faces at some point in their lives. Blackheads are a common skin condition that primarily affects the face, neck, back, and chest. There are several causes, including too much oil on your skin and irritation of your hair follicles.
+
+Blackheads are most common in adolescents, but they can occur at any age, so this week I’ve worked on a remedy that should be of benefit to the readers of my column.
+
+You will need 01 tablespoon of lemon juice and 01 tablespoon of egg white.
+
+In a small bowl, mix the lemon juice and egg white. Whisk them together until well mixed and slightly frothy.
+
+Wash your face with a gentle cleanser and pat it dry and apply the mask, using clean fingers, or a brush. Apply the mixture to areas with blackheads. Be careful to avoid your eyes.
+
+Allow the mask to sit for about 15-20 minutes, or until you feel it’s dry.
+
+...
+
+[Data](articles/ce2b4077.json)
+
+[Extended Data](ext_articles/ce2b4077.ext.json)
+
+---
+
 ### 'King Komi' in a severe breakdown after ten years
 
 *2024-11-06 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202988) · `si`
@@ -707,6 +779,34 @@ Considering the situation, the President summoned large-scale rice businessmen a
 [Data](articles/7f6b110e.json)
 
 [Extended Data](ext_articles/7f6b110e.ext.json)
+
+---
+
+### Sri Lanka’s global competitiveness at risk: The economic cost of cargo clearance delays
+
+*2024-11-06 22:30:00* · [`islandlk`](http://island.lk/sri-lankas-global-competitiveness-at-risk-the-economic-cost-of-cargo-clearance-delays/) · `en`
+
+Efficient border agency operations are crucial for any economy, especially for island nations like Sri Lanka, where trade significantly contributes to economic growth. Delays in cargo clearance disrupt the flow of goods, increase costs, and undermine the country’s competitiveness in global trade. These delays impose substantial economic costs that adversely affect Sri Lanka’s GDP, leading to higher operational expenses for businesses and limiting foreign direct investment opportunities. This article will explore the importance of efficient border agency operations in Sri Lanka, provide an overview of the delays in cargo clearance, and examine their broader economic impacts.
+
+...
+
+[Data](articles/2b370f10.json)
+
+[Extended Data](ext_articles/2b370f10.ext.json)
+
+---
+
+### CSE goes down to 100 points but witnesses late recovery
+
+*2024-11-06 22:27:00* · [`islandlk`](http://island.lk/cse-goes-down-to-100-points-but-witnesses-late-recovery/) · `en`
+
+The stock market yesterday at the outset noted a sluggish performance and went down to 100 points but later recovered, market analysis said.
+
+Due to volatile situation both indices moved downward. The All Share Price Index went down by 56 points, while the S and P SL20 went down by 20.7 points. Turnover stood at Rs 3.2 billion with nine crossings.
+
+...
+
+[Data](articles/2a916e97.json)
 
 ---
 
@@ -2273,117 +2373,5 @@ The Colombo High Court on Wednesday (06) has imposed a 35 -year -old imprisonmen
 [Data](articles/643d0e3e.json)
 
 [Extended Data](ext_articles/643d0e3e.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ is for human-centered governance - Dilith Jayaweera
-
-*2024-11-06 14:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103209/sarvajana-balaya-is-for-human-centered-governance-dilith-jayaweera-) · `en`
-
-The leader of the ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate, entrepreneur Dilith Jayaweera emphasized his party’s commitment to establishing a populist political movement aimed at transforming Sri Lanka’s political landscape.
-
-Speaking at a public rally in Gampaha, Jayaweera outlined the alliance’s vision to foster a people-centric approach to governance, grounded in values and integrity.
-
-“Our mission is to bring back politics that serves the people—a movement that isn’t about taking advantage, but about delivering real, human-centered governance. ‘Sarvajana Balaya’ represents our tool to restore integrity to Sri Lankan politics, promoting values that genuinely care for the people, “ Jayaweera said.
-
-...
-
-[Data](articles/6c88b088.json)
-
-[Extended Data](ext_articles/6c88b088.ext.json)
-
----
-
-### Those recalled from foreign service
-
-*2024-11-06 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202970) · `si`
-
-Sri Lanka recalls foreign service officers appointed politically. Cabinet spokesperson Vijitha Herath announces December 01 deadline. Political appointees include children, prisoners of politicians, and ministers. Foreign service requires special abilities for economic and international interests. All political appointees must return to Sri Lanka by December 01.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the officers appointed on political basis for foreign service have been asked to come back to the island by December 01.
-
-Addressing the Cabinet Decision informed, he said that the children and the prisoners of Members and Ministers had been appointed to other officers below the ambassador.
-
-...
-
-[Data](articles/fd63e219.json)
-
-[Extended Data](ext_articles/fd63e219.ext.json)
-
----
-
-### My rule is the golden age
-
-*2024-11-06 14:10:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/என்னுடைய-ஆட்சி-பொற்காலமாக-அமையும்/50-346666) · `ta`
-
-Donald Trump declares his presidency as the "golden age" of the United States, promising to restore America's greatness and solve national problems. He expresses gratitude to supporters and vows to rule with joy and pride.
-
-🟩
-
-"This time my rule is going to be the golden age of the United States," said Donald Trump, the new president of the United States.
-
-“New history has been created in the United States. My thanks to every American who voted for the victory of the Republican Party. Thanks to my wife who was committed to success. Thank you to the family who supported me in a predicament. This time my rule is going to be the golden age of the United States. Thanks to the American people elected as the 47th President.
-
-“We have won a movement that no one has ever seen. I will make America back into enormous country. I will rule the American people with joy and pride.
-
-“All the problems in the United States will be resolved. There has been an unprecedented success. The confidence of the people who gave me confidence in me will not be in vain. I will work hard for the American people and solve the problems. I will rule the American people with joy and pride. ”. (That)
-
-◼️
-
-[Data](articles/225644eb.json)
-
-[Extended Data](ext_articles/225644eb.ext.json)
-
----
-
-### The unfortunate event faced by the woman who went to go to the nudder China
-
-*2024-11-06 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202969) · `si`
-
-Woman killed in accident on Sri Lanka's Wellawaya-Moneragala highway. Driver arrested. Victim, 65, from Anadallama area. Accident occurred during pilgrimage attempt.
-
-🟩
-
-A woman was killed in an accident in the Anapolama area belonging to the Wellawaya-Moneragala main road.
-
-The accident had occurred when a woman attempted to switch to a horror China's pilgrimage to participate in a pilgrimage.
-
-The deceased has been identified as a 65 year old resident of Anadallama area.
-
-The lorry driver has been arrested by the Wellawaya Police regarding the accident and the driver is to be produced before the Wellawaya Magistrate's Court.
-
-◼️
-
-[Data](articles/a2c807fa.json)
-
-[Extended Data](ext_articles/a2c807fa.ext.json)
-
----
-
-### A suspect arrested in illegal leakage in Badulla
-
-*2024-11-06 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198036) · `ta`
-
-Badulla police arrest suspect in illegal leakage case. 27-year-old man from Selvankantha Diyanagala area detained. Police investigation underway. Tea estate seized due to illegal activities. Legal action planned against Badulla court.
-
-🟩
-
-The Badulla police said that a person who was involved in illegal leakage in Badulla, Selvakantha Diyanagala area has been arrested.
-
-A 27 -year -old man from Selvakantha Diyagala has been arrested, police said.
-
-பதுளை மாவட்ட பிரதி பொலிஸ் மா அதிபர் சுஜித் வெதமுல்லவுக்கு கிடைக்கப்பெற்ற இரகசிய தகவல் அமைய பொலிஸ் மா அதிபரின் ஆலோசனையின் பேரில் பசறை பொலிஸ் நிலைய பொறுப்பதிகாரி பியரத்ன தலைமையில் பசறை பொலிஸ் புலனாய்வு பிரிவினர் குறித்த சுற்றி வளைப்பை மேற்கொண்டதாக தெரிவிக்கப்படுகிறது.
-
-The tea estate in the area has been seized by the four buries underground and has been reported to have been intolerant for a long time.
-
-Police said they are taking steps to sue the Badulla court in connection with the incident.
-
-◼️
-
-[Data](articles/56a502eb.json)
-
-[Extended Data](ext_articles/56a502eb.ext.json)
 
 ---

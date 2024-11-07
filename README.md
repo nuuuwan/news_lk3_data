@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 05:24:44**
+As of **2024-11-07 05:46:04**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,469 (100.0%) of 53,470 articles have been extended.
+53,470 (100.0%) of 53,470 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### ’நாமே பலமான எதிர்க்கட்சி’
+### We are the strongest opposition.
 
 *2024-11-07 02:58:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமே-பலமான-எதிர்க்கட்சி/175-346696) · `ta`
 
-அமையவிருக்கும் புதிய பாராளுமன்றத்தில், புதிய ஜனநாயக கட்சி அதிகமான ஆசனங்களை பெற்று வலுவான ஒரு எதிர்க்கட்சியாக அமையும் என்பதில் ஐயமில்லை என திகாமடுல்ல மாவட்ட  நான்காம் இலக்க வேட்பாளர் யூ.கே. ஆதம்லெப்பை தெரிவித்தார்
+Strongest opposition claims new Democratic Party will win seats in parliament. Former President Ranil Wickremesinghe praised for economic efforts during crisis. Party contests in Digamadulla district, aims for 3 seats. Urges voters to support honest politics.
 
-அட்டாளைச்சேனை பிரதேசத்தில் புதன்கிழமை (05)   நடைபெற்ற தேர்தல் பிரச்சாரக் கூட்டத்தில் கலந்து கொண்டு உரையாற்றுகையிலேயே அவர் மேற்கண்டவாறு தெரிவித்தார்
+🟩
 
-“இந்த நாடு  பெரும் பொருளாதார நெருக்கடியில் சிக்கித் தவித்த போது தனது அனுபவத்தாலும், சமயோசித செயற்பாடுகளாலும் ஆக்கபூர்வமான முயற்சிகளைச் செய்து ஒரு ஸ்திரமான நிலைக்கு முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க இட்டுச் சென்றார் என்பதை இந்த நாட்டு மக்கள் அறிவர்.
+Digamadulla District Fourth Candidate UK, there is no doubt that the new Democratic Party will get more seats in the new parliament and become a strong opposition party.. Adamleb said
+
+He said this while addressing the election campaign meeting held in Adalaichenai on Wednesday (05)
+
+“The people of this country know that former President Ranil Wickremesinghe has led a stable efforts to make constructive efforts due to his experience and resourceful activities when this country is in a major economic crisis.
+
+In a difficult time, he did not only build this country in charge of the country, but he also did the most important task that had taken the economic growth rate to the economic growth rate, which was in line with the need for the people's hunger and the need for the needs of the people.. No one can deny that this task has made the people of this country to live in peace today.
 
 ...
 
 [Data](articles/6a9197b4.json)
+
+[Extended Data](ext_articles/6a9197b4.ext.json)
 
 ---
 

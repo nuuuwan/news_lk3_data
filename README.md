@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 11:24:33**
+As of **2024-11-07 11:40:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,520 (100.0%) of 53,523 articles have been extended.
+53,523 (100.0%) of 53,523 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,31 +48,47 @@ Meanwhile, on November 04, Shashi Prabha Ratwatte, the wife of the former State 
 
 [Data](articles/102a0e80.json)
 
+[Extended Data](ext_articles/102a0e80.ext.json)
+
 ---
 
-### කලාපයේ හුදකලා වූ මියන්මාරය තව තවත් චීනයට සමීප වෙයි
+### The isolated Myanmar is closer to China
 
 *2024-11-07 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202999) · `si`
 
-මියන්මාරයේ ප්‍රජාතන්ත්‍රවාදී ලෙස තේරී පත්වූ අවුන් සාන් සුකීගේ රජය පෙරළා දමා 2021 වසරේ හමුදා කුමන්ත්‍රණයකින් බලයට පත්වූ මිලිටරි ජුන්ටාවේ නායක මින්-ඔන්-හ්ලයින් චීනයේ සංචාරයක් ආරම්භ කළේය.
+Here's a 200-character summary:
 
-ආසියාන් සංවිධානය තුළ පවා හුදෙකලා වී සිටින මියන්මාරයට වඩාත් වැදගත් අසල්වැසියා වන චීනයට ඔහු පැමිණියේ හමුදා කුමන්ත්‍රණයෙන් පසු ප්‍රථම වතාවටය.
 
-හමුදා කුමන්ත්‍රණයෙන් පසු රටේ ප්‍රජාතන්ත්‍රවාදී බලවේග ආයෝමය හස්තයකින් මර්දනය කිරීමට කටයුතු කළත් මියන්මාරය අද පත්වී ඇත්තේ අස්ථාවර වාතාවරණයකටය.
 
-විශේෂයෙන් මියන්මාරයේ චීන දේශසීමාව ඔස්සේ මේ වනවිට පැනනැගී ඇත්තේ අරාජික තත්ත්වයකි.
+Myanmar's military junta seeks improved ties with China despite ongoing instability. China invests heavily in Myanmar's resources and infrastructure. The junta faces opposition criticism over diplomatic relations with China.
 
-සුළු ජාතික සන්නද්ධ කණ්ඩායම්, හමුදා රජයට එරෙහි විපක්ෂ කණ්ඩායම් හා එක්වී මේ වනවිට විශාල ප්‍රදේශයක පාලනය සියතට ගෙන තිබේ.
+🟩
 
-මෙලෙස සිය දේශසීමාව අස්ථාවරවීම චීනයේ විශේෂ අවධානයට ලක්ව ඇති කරුණකි.
+The government's democratically elected Aung San Suki, the government of Myanmar, commenced a tour of the military juntaine leader in 2021 in 2021.
 
-මියන්මාරයේ අස්ථාවරභාවය ඔවුන් සමග සිය උපක්‍රමීය සහ ව්‍යාපාරික අභිලාෂයන්ට තර්ජනයක් බව චීනය වටහාගෙන තිබේ.
+He came to China, the most important neighborly neighboring Myanmar, who isolated, even in the Asian organization.
 
-මේ නිසා බටහිර රටවල සම්බාධකවලට මුහුණදෙන මියන්මාර හමුදා රජය සමග යහපත් සම්බන්ධතාවක් පවත්වාගැනීමට චීනය කටයුතු කරයි.
+Even after the army conspiracy, the country's democratic forces have been suppressed, Myanmar has become an unstable environment.
+
+A anarchy is currently in the Chinese border in Myanmar.
+
+The minority groups have joined the opposition groups against the military government and controlled by a large area.
+
+The destabilization of its border is a significant point in China.
+
+China has realized that the instability of Myanmar is a threat to their tricks and business purposes.
+
+As a result, China is working to maintain a good relationship with the Myanmar Army government.
+
+Myanmar State Television Service stated that Min-on-Hiny China's official visit has been declined.
+
+He is due to attend several regional conferences in China.
 
 ...
 
 [Data](articles/6f9a3f6f.json)
+
+[Extended Data](ext_articles/6f9a3f6f.ext.json)
 
 ---
 
@@ -893,6 +909,8 @@ The story of Sri Lanka’s recent turmoil is both a cautionary tale of authorita
 ...
 
 [Data](articles/56652a8c.json)
+
+[Extended Data](ext_articles/56652a8c.ext.json)
 
 ---
 

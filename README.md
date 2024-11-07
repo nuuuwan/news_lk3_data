@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 05:10:02**
+As of **2024-11-08 05:24:41**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,630 (100.0%) of 53,633 articles have been extended.
+53,633 (100.0%) of 53,633 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ During the investigation, both Ratwatte and his wife had explained to the Police
 
 [Data](articles/677813b6.json)
 
+[Extended Data](ext_articles/677813b6.ext.json)
+
 ---
 
 ### Japan, Egypt envoys present credentials to President AKD
@@ -63,6 +65,8 @@ The President’s Media Division (PMD) said they also paid courtesy calls on the
 ◼️
 
 [Data](articles/2c6f99d8.json)
+
+[Extended Data](ext_articles/2c6f99d8.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ The special leave should be granted for a minimum of four hours or based on the 
 ...
 
 [Data](articles/04ccadad.json)
+
+[Extended Data](ext_articles/04ccadad.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 13:09:38**
+As of **2024-11-07 13:24:29**
 
 ## Newspaper Stats
 
-*Scraped **53,541** Articles*
+*Scraped **53,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,003
-adaderanalk | 6,379
-tamilmirrorlk | 7,454
+adalk | 5,005
+adaderanalk | 6,380
+tamilmirrorlk | 7,456
 virakesarilk | 8,660
 adaderanasinhalalk | 9,331
 
@@ -26,11 +26,69 @@ adaderanasinhalalk | 9,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,539 (100.0%) of 53,541 articles have been extended.
+53,544 (100.0%) of 53,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ஜம்மு காஷ்மீர் பேரவையில் கைகலப்பு
+
+*2024-11-07 13:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜம்மு-காஷ்மீர்-பேரவையில்-கைகலப்பு/175-346719) · `ta`
+
+ஜம்மு காஷ்மீர் சட்டப்பேரவைக்குள் லாங்கேட் எம்எல்ஏ குர்ஷித் அகமது சேக், சட்டப்பிரிவு 370-ஐ திரும்பக் கொண்டு வர வேண்டும் என்று பதாகை காட்டியதால் வியாழக்கிழமை பேரவையில் பரபரப்பும் கைகலப்பும் ஏற்பட்டது. குர்ஷித் பாராமுல்லா மக்களவை உறுப்பினரும், சிறையில் இருக்கும் பொறியாளர் ரஷித்தின் தம்பியுமாவார்.
+
+அவாமி இட்டேஹக் கட்சியைச் சேர்ந்த குர்ஷித் காட்டிய பதாகையில்,‘சட்டப்பிரிவு 370 மற்றும் 35 ஏவை மீட்டெடுக்க வேண்டும், அரசியல் கைதிகளை விடுவிக்க வேண்டும்’ என்று எழுதப்பட்டிருந்தது. சட்டப்பேரவை எதிர்க்கட்சித் தலைவரும், பாஜக எம்எல்ஏவுமான சுனில் சர்மா இதற்கு எதிர்ப்பு தெரிவிக்க அதனைப் பொருட்படுத்தாத குர்ஷித் பேரவையின் மையப்பகுதிக்குள் வந்தார்.
+
+சபாநாயகரும் குர்ஷித்தை அவரது இருக்கையில் சென்று அமர அறிவுறுத்தினார். என்றாலும் தொடர்ந்து அவர் அவையின் மையத்தில் பதாகையுடன் நின்றார். இதனால் சில பாஜகவினர் அவரது கையில் இருந்து பதாகையை பறிக்க முயன்றனர். இதனால் கைகலப்பு ஏற்பட்டது. அப்போது பிடிபி கட்சியைச் சேர்ந்த புல்வாமா எம்எல்ஏ வகீத் பாரா, குர்ஷித்தை காப்பாற்ற முயன்றார்.
+
+...
+
+[Data](articles/f1d76355.json)
+
+---
+
+### Lohan and wife remanded again
+
+*2024-11-07 12:58:57* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-සහ-බිරිඳ-යළි-රිමාන්ඩ්/11-412909) · `si`
+
+Lohan Ratwatte and wife remanded until 18th. Arrested twice over car incident. Former Parliamentarian involved.
+
+🟩
+
+Former Parliamentarian Lohan Ratwatte and his wife were remanded until the 18th of this month.
+
+They were arrested on two occasions on a car incident.
+
+◼️
+
+[Data](articles/374fb6dd.json)
+
+[Extended Data](ext_articles/374fb6dd.ext.json)
+
+---
+
+### Lohan Ratwatte and wife further remanded
+
+*2024-11-07 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103233/lohan-ratwatte-and-wife-further-remanded) · `en`
+
+Former Minister Lohan Ratwatte and his wife have been ordered to be remanded further until November 18 by the Nugegoda Magistrate’s Court.
+
+The former Minister of State Lohan Ratwatte and his wife, who were arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka, were produced before the Nugegoda Magistrate’s Court this morning (07).
+
+Ratwatte, who was arrested by Mirihana Police in Kandy on October 31, was ordered to be remanded by the Nugegoda Additional Magistrate until today.
+
+However, on November 02, the former Minister was admitted to the prison hospital owing to an illness, where he was subsequently transferred to Colombo National Hospital.
+
+Meanwhile, on November 04, Shashi Prabha Ratwatte, the wife of the former State Minister, was also arrested after appearing before the Nugegoda Magistrate’s Court in relation to the incident, as per a court order, where she was ordered to be remanded in custody until today.
+
+...
+
+[Data](articles/73c49797.json)
+
+[Extended Data](ext_articles/73c49797.ext.json)
+
+---
 
 ### I will not abandon the struggle even if they lose the presidential election;Sometimes the struggle lasts for some time;This does not mean that we will not succeed - Kamala Haris
 
@@ -106,6 +164,24 @@ Theldeniya Divisional Crimes Unit is conducting further investigations into the 
 
 ---
 
+### ”3ஆம் தவணையின் பின் பொருளாதாரம் ஸ்திரமடையும்”
+
+*2024-11-07 12:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3ஆம்-தவணையின்-பின்-பொருளாதாரம்-ஸ்திரமடையும்/175-346716) · `ta`
+
+அடுத்த ஆண்டு ஜனவரி இறுதி அல்லது பெப்ரவரி மாத தொடக்கத்தில் சர்வதேச நாணய நிதியத்தின் விரிவாக்கப்பட்ட நிதி வசதியின் (EFF) மூன்றாவது தவணையை இலங்கை பெறும் என்று ஜனாதிபதி அனுரகுமார திஸாநாயக்க நம்பிக்கை தெரிவித்துள்ளார்.
+
+சர்வதேச நாணய நிதியத்தின் பிரதிநிதிகள் குழு அடுத்த வாரம் (14) நாட்டிற்கு வருகை தரவுள்ளதாகவும், மூன்றாவது மதிப்பாய்வை முடிக்க அண்ணளவாக மூன்று மாதங்கள் ஆகும் என்றும் அவர் தொலைக்காட்சி நிகழ்ச்சி ஒன்றில் கூறினார்.
+
+இரண்டு தேர்தல்கள் காரணமாக மூன்றாவது பரிசீலனை தாமதமாகியுள்ளதாகத் தெரிவித்த ஜனாதிபதி, மூன்றாவது மீளாய்வை முன்னதாக திட்டமிட்டபடி செப்டம்பரில் ஆரம்பித்திருந்தால், டிசம்பருக்குள் அதனை முடித்திருக்க முடியும் என்றும் கூறினார்.
+
+மூன்றாவது தவணையைப் பெற்ற பிறகு ஓரளவு பொருளாதார ஸ்திரத்தன்மையை அரசாங்கம் எதிர்பார்த்துள்ளது என அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/9b6ae8f1.json)
+
+---
+
 ### Ten candidates have won and we must be a pressure team in Parliament -Mano Ganesan
 
 *2024-11-07 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198094) · `ta`
@@ -128,37 +204,79 @@ The Tamil Progressive Alliance has fielded ten candidates in seven districts of 
 
 ---
 
-### மன்னார் நீதிமன்றத்தில் பெண்ணிடம் இலஞ்சம் பெற்ற சிறை அலுவலர் கைது
+### Prison officer arrested in Mannar court
 
 *2024-11-07 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198096) · `ta`
 
-மன்னார் நீதிமன்றத்தில் வைத்து இலஞ்சம் பெற்ற குற்றச்சாட்டில் வவுனியா சிறைச்சாலை   அலுவலர்   ஒருவர்  கடந்த 5 ஆம் திகதி  மன்னார் பொலிஸாரினால் கைது செய்யப்பட்டு மன்னார் நீதவான் முன்னிலையில் ஆஜர் படுத்திய போது குறித்த சிறைச்சாலை உத்தியோகத்தரை நாளை வெள்ளிக்கிமை (08) வரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டுள்ளார்.
+Prison officer arrested Mannar court bribery charges remanded investigation ongoing
 
-கடந்த 5 ஆம் திகதி  வவுனியா சிறைச்சாலை  அலுவலர் மன்னார் நீதவான் நீதிமன்றில் கடமைக்காக வந்துள்ளார்.
+🟩
 
-குறித்த சிறைச்சாலை  அலுவலர், மன்னார் நீதிமன்ற தடுப்புக்காவலில் வைக்கப்பட்டிருந்த ஒருவரை பார்வையிடுவதற்காக சென்ற பெண் ஒருவரிடம்  தடுப்புக் காவலில் வைக்கப்பட்ட நபரை பார்வையிடுவதற்காக 1,000 ரூபாய் பணத்தை  பலவந்தமாகப் பெற்றுக் கொண்டுள்ளார்.
+A Vavuniya Prison Officer has been arrested by the Mannar Magistrate on the 5th of last month on charges of bribing the Mannar court and produced before the Mannar Magistrate.
 
-குறித்த விடயம் தொடர்பாக பாதிக்கப்பட்ட பெண் மன்னார் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+Vavuniya Prison Officer Mannar Magistrate's Court has come to duty on the 5th.
 
-...
+The prison officer forcibly obtained Rs 1,000 to visit a man who was detained by a woman who went to visit a man who had been placed in the Mannar court detention.
+
+The victim has lodged a complaint at the Mannar police station.
+
+In this case, the Mannar Police Station was arrested by the Magistrate's Court on the 5th of last month before the Magistrate's Court.
+
+The magistrate, who investigated the inquiry, ordered the prison officer to be remanded till Friday (08).
+
+◼️
 
 [Data](articles/a73a3e34.json)
 
+[Extended Data](ext_articles/a73a3e34.ext.json)
+
 ---
 
-### வெளிநாட்டு மதுபான போத்தல்கள், சிகரட்டுகளுடன் ஒருவர் கைது!
+### One arrested with foreign liquor bottles and cigarettes
 
 *2024-11-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198091) · `ta`
 
-கொமும்பு, புறக்கோட்டை பிரதேசத்தில் சட்டவிரோதமாக கொண்டுவரப்பட்ட வெளிநாட்டு மதுபான போத்தல்கள் மற்றும் சிகரட்டுகளுடன் சந்தேக நபர் ஒருவர் நேற்று புதன்கிழமை (06) கைது செய்யப்பட்டுள்ளதாக புறக்கோட்டை பொலிஸார் தெரிவித்தனர்.
+Arrest made in Komumbu: Suspect caught with 210 foreign liquor bottles and 250 cigarettes. Police action based on tip-off.
 
-புறக்கோட்டை பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேகநபர்  கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேக நபரிடமிருந்து சட்டவிரோதமாக கொண்டுவரப்பட்ட 210 மதுபான போத்தல்கள் மற்றும் 50,000 சிகரட்டுக்கள் அடங்கிய 250 சிகரட்டு காட்டுன்கள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+A suspect has been arrested on Wednesday (06) with foreign liquor bottles and cigarettes in Komumbu, Komumbu, Komumbu, Komumbu, Komumbu, police said.
+
+The suspect has been arrested in a roundup on the basis of information received by the police.
+
+Police have seized 210 liquor bottles and 250 cigarettes, which were illegally brought from the suspect.
 
 ◼️
 
 [Data](articles/b4bb9afd.json)
+
+[Extended Data](ext_articles/b4bb9afd.ext.json)
+
+---
+
+### Nalinda crowns Kalutara
+
+*2024-11-07 12:09:32* · [`adalk`](https://www.ada.lk/breaking_news/නලින්ද-කළුතරට-ඔට්ටු-අල්ලයි/11-412906) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dr. Nalinda Jayatissa, representing national popularity, faces criticism from Kalutara district members over parliamentary representation. He claims his party will win 8 out of 11 seats in the district, challenging opponents to a debate.
+
+🟩
+
+Dr. Nalinda Jayatissa, who represent the national popularity, has a suicide by the Kalutara Members of Kalutara District, Karmick:
+
+If I have challenged, three members of the previous Parliament have not sent parliamentarians in the Kalutara District. Medaminal people, who have been sessed by members of all MPs to the houses.
+
+If in the Kalutara district, we will take eight members of the eleven seats. I say, if someone says, let's get a bet with us. We're ready.
+
+◼️
+
+[Data](articles/53f0df16.json)
+
+[Extended Data](ext_articles/53f0df16.ext.json)
 
 ---
 
@@ -2209,111 +2327,5 @@ Listening to the Songs of Mohideen Beg, it lifts up the spirits belonging to Sri
 [Data](articles/31815a8d.json)
 
 [Extended Data](ext_articles/31815a8d.ext.json)
-
----
-
-### What Really Happened In The U. S. General Elections? Some Quick Observations
-
-*2024-11-06 21:32:30* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/what-really-happened-in-the-u-s-general-elections-some-quick-observations/) · `en`
-
-Trump’s landslide victory in last night’s election defied the expectations of many on the left, who had assumed that Kamala Harris would be a strong contender. Analysts believed Harris’s campaign would secure a diverse coalition that could build on previous Democratic gains. However, the results reveal a stark divergence from these expectations, underscoring a number of key points.
-
-...
-
-[Data](articles/480a359d.json)
-
-[Extended Data](ext_articles/480a359d.ext.json)
-
----
-
-### Russia’s Azur Air resumes winter flights to Sri Lanka
-
-*2024-11-06 21:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103219/russias-azur-air-resumes-winter-flights-to-sri-lanka) · `en`
-
-Russia’s Azur Air has officially resumed its seasonal winter flights to Sri Lanka, with the first flight arriving at Bandaranaike International Airport (BIA) in Katunayake today (Nov. 06).
-
-The inaugural flight arrived at the BIA at 10:05 a.m. this morning, carrying 332 passengers.
-
-Airport and Aviation Services (Sri Lanka) (Pvt) Limited welcomed the flight with a ceremonial water cannon salute, while Sri Lanka Tourism arranged a traditional Kandyan dance performance to greet the passengers.
-
-For the Winter 2024/2025 season, Azur Air will operate five weekly flights using Boeing 767-300 aircraft, with a seating capacity of 336 in economy class, from five major cities in Russia: Vnukovo (VKO), Tolmachevo (OVB), Krasnoyarsk (KJA), St. Petersburg (LED), and Sochi (AER).
-
-◼️
-
-[Data](articles/95073b69.json)
-
-[Extended Data](ext_articles/95073b69.ext.json)
-
----
-
-### I will take all the legal action to prevent the injustice inflicted on him - Dr. Saafi Sahabdeen
-
-*2024-11-06 21:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198077) · `ta`
-
-Dr. Saafi Sahabdeen vows legal action against false accusations, regrets self-sacrifice for personal gain.
-
-🟩
-
-Dr. Saafi Sahabdeen has said that he regretted him for sacrificing himself for personal gain and would take all legal measures to prevent him from implying his injustice.
-
-He said this while speaking to the media after the release of all the allegations of the Kurunegala Teaching Hospital, Safi Sahabdeen, who was accused of contraception.
-
-I am sorry for making me sacrifice for personal gain. I will take legal action for the destruction of a innocent and family like me to destroy his skills. He said he should contact my lawyer in this regard and take legal action.
-
-◼️
-
-[Data](articles/af030d36.json)
-
-[Extended Data](ext_articles/af030d36.ext.json)
-
----
-
-### President congratulates Donald Trump
-
-*2024-11-06 21:02:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொனால்ட்-டிரம்பிற்கு-ஜனாதிபதி-அநுர-வாழ்த்து/175-346676) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake congratulates Donald Trump as US President. He expresses hope to collaborate on shared objectives between Sri Lanka and the USA.
-
-🟩
-
-President Anura Kumara Dissanayake congratulates President Donald Trump, the 47th president of the United States.
-
-“I wish to congratulate Trump, the 47th President of the United States of America. I expect to work with you to achieve the common goals in the relationship between us and the American people. ”. Remble
-
-◼️
-
-[Data](articles/de09ff1a.json)
-
-[Extended Data](ext_articles/de09ff1a.ext.json)
-
----
-
-### The New Example That Dilith and including Dilith
-
-*2024-11-06 20:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202985) · `si`
-
-Dilith Jayaweera addresses entrepreneurs at Navahamayala Senahamaya meeting. He emphasizes serving people without privileges, proposing system changes in Parliament.
-
-🟩
-
-Attorney-at-Law Dilith Jayaweera said that the representatives of the exempt to serve the people without privilege are ready to serve the people without privilege.
-
-Another meeting in the Navahamayala Senahamaya series for the next General Election was held in Peliyagoda Bandaranappers this afternoon.
-
-Entrepreneurship, Attorney Dilith Jayaweera said that entrepreneurs, addressing the meeting, said.
-
-"We do not even take salary or other privileges of parliament.. Don't eat from the restaurant. We don't need that. We work for you ... Without no privilege. This is the difference in the Parliament this time. We hope to propose to parliament ... To change that system and make it new. "
-
-"Entrepreneurs like we need to change. The employees who earn money should be sent to Parliament.. Like other countries. Then the people can serve the people. Or, when we will take some or steal. If the government cannot solve, we will propose solutions. Fair to hit the medal. Your life changes. "
-
-◼️
-
-[Data](articles/80112a8b.json)
-
-[Extended Data](ext_articles/80112a8b.ext.json)
 
 ---

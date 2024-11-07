@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 11:40:37**
+As of **2024-11-07 12:00:05**
 
 ## Newspaper Stats
 
-*Scraped **53,523** Articles*
+*Scraped **53,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ dbsjeyarajcom | 418
 bbccomsinhala | 547
 colombotelegraphcom | 548
 islandlk | 3,200
-economynextcom | 3,242
+economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,001
 adaderanalk | 6,377
-tamilmirrorlk | 7,452
+tamilmirrorlk | 7,454
 virakesarilk | 8,656
-adaderanasinhalalk | 9,327
+adaderanasinhalalk | 9,329
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,523 (100.0%) of 53,523 articles have been extended.
+53,528 (100.0%) of 53,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### වෙරළබඩ කැලඹූ හදිසි මෙහෙයුම - 28 දෙනෙක් අත්අඩංගුවට
+
+*2024-11-07 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203001) · `si`
+
+වෙරළබඩ පොලිස් වසමේ ප්‍රදේශ තුනක සිදුකළ මෙහෙයුමකදී කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයන් 28ක් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+ජම්පටා විදිය, ශාන්ත අන්තෝනි පාර හා රත්නම් පාර 44 වත්ත ප්‍රදේශ ආවරණය වන පරිදි එම මෙහෙයුම සිදුකර තිබුණි.
+
+එම මෙහෙයුමේදී අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 12,900ක් හෙරොයින්  මත්ද්‍රව්‍ය 5,900ක් මෙන්ම ගංජා ග්‍රෑම් 10ක් සැකකරුවන් සහ සැකකාරියන් සන්තකයේ තිබී පොලිස් භාරයට ගෙන ඇත.
+
+එම ප්‍රදේශවල හඳුනාගත් නිවාස 40කට ආසන්න සංඛ්‍යාවක් මෙන්ම මාර්ගයේ ගමන් ගත් සැක කටයුතු පුද්ගලයන්ද දැඩි පරීක්ෂාවට ලක්කර මත්ද්‍රව්‍ය සොයා ගත් බව පොලීසිය පවසයි.
+
+පුරා පැය 2කට ආසන්න කාලයක් සිදුකළ මෙහෙයුම සඳහා "අමායි"  නමැති සුනඛ බැල්ලිය ද යොදා ගැනුණු අතර විශේෂ කාර්ය බළකායේ  නිලධාරින් ඇතුළු පොලිස් නිලධාරීන් 50කට ආසන්න ප්‍රමාණයක් මෙහෙයුම සඳහා සහභාගි වූහ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් සහ සැකකාරියන් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/5463470f.json)
+
+---
+
+### දේවගැතිවරයාගේ වාහන අංගනයෙන් තවත් සැපරියක් මතුවෙයි
+
+*2024-11-07 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203000) · `si`
+
+නීතිවිරෝධීව සුඛෝපභෝගී මෝටර් රථයක් සන්තකයේ තබාගැනීමට අත්අඩංගුවට ගත්‍ දේවගැතිවරයාගේ වාහන අංගනයේ තිබී තවත් සුඛෝපභෝගී මෝටර් රථයක් සොයා ගෙන තිබේ.
+
+මහනුවර ගාල්තැන්න දේවාලයේ දේවගැතිවරයා පසුගියදා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළ අතර ඔහු සම්බන්ධයෙන් සිදුකළ විමර්ශනවලින් අනතුරුව මෙම මෝටර් රථය සොයාගැනීමට විමර්ශන නිලධාරීන් සමත්වී ඇත.
+
+එලෙස සොයාගත් සුඛෝපභෝගී මෝටර් රථයට සමාන අංකයක් ඇති මෝටර් රථයක් කුරුණෑගල - හෙට්ටිපොළ ප්‍රදේශයේ ඇති බවට පරීක්ෂණවලින් අනාවරණය වීමත් සමග අදාළ රථය පොලිස් භාරයට ගෙන තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ තෙල්දෙණිය අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් මෙහෙයවනු ලබයි.
+
+◼️
+
+[Data](articles/6a0ec63d.json)
+
+---
 
 ### Lohan Ratwatte and wife produced before court
 
@@ -89,6 +129,74 @@ He is due to attend several regional conferences in China.
 [Data](articles/6f9a3f6f.json)
 
 [Extended Data](ext_articles/6f9a3f6f.ext.json)
+
+---
+
+### Voter card distribution is completed today
+
+*2024-11-07 11:16:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-இன்றுடன்-நிறைவு/175-346709) · `ta`
+
+Voter card distribution ends today. Unreceived cards available tomorrow. Official electorate valid until Nov 14. Verify identity when collecting.
+
+🟩
+
+The Postal Department said that the distribution of official voter for parliamentary elections ends today (7)
+
+Senior Deputy Post Office Rajitha Ranasinghe said that voters who have not received the voter card from the official voter card from the 27th of this month will be able to go to the post offices tomorrow (8).
+
+He added that the official electorate has been provided to the post office from tomorrow to the 14th of November, and that voters should ensure their identity for it.
+
+◼️
+
+[Data](articles/339a1617.json)
+
+[Extended Data](ext_articles/339a1617.ext.json)
+
+---
+
+### New Resolution on Galle Face
+
+*2024-11-07 11:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-முகத்திடல்-தொடர்பில்-புதிய-தீர்மானம்/175-346708) · `ta`
+
+Galle Face festival restrictions tightened. Only religious events allowed. Previous government permitted concerts and celebrations. New policy aims to make area clean and green.
+
+🟩
+
+The government has decided to tighten the reservation of all the festivals, concerts and celebrations in the Galle Face.
+
+The new government has changed the decision taken by the previous government in 2023 to grant permission to hold only religious events in the Galle Face.
+
+In 2022, the Arakalaya struggle that chased away the then President Gotabhaya Rajapakse from office was held at the Galle Face.
+
+According to the Cabinet decision, Sri Lanka Port Management and Advisory Services (Pvt) Limited's Management and Advisory Services (Pvt) Limited will not be granted permission for any other purpose, except for religious purposes.
+
+...
+
+[Data](articles/82e59289.json)
+
+[Extended Data](ext_articles/82e59289.ext.json)
+
+---
+
+### Sri Lanka’s Access Engineering SPV to build radiopharmaceutical production facility
+
+*2024-11-07 11:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-engineering-spv-to-build-radiopharmaceutical-production-facility-186379/) · `en`
+
+ECONOMYNEXT – Access Medical Tracers (Private) Limited, a special purpose vehicle majority owned by Access Engineering Plc, has won the bid to build, operate and own (BOO) a cyclotron based radiopharmaceutical production facility in Sri Lanka, the company said.
+
+“This is the first time such a facility is developed in the Country to produce Fluoro – Deoxy-Glucose (FDG) which is required mainly for the purpose of cancer detection,” Access Engineering said in a stock exchange filing.
+
+The development cost of the production facility is estimated at 6.5 million dollars. The investment amount of Access Engineering will be notified in due course, the company said.
+
+The ground breaking ceremony for the facility will be held on Friday (8).
+
+Following a competitive bidding process a BOO agreement was signed on Tuesday (5) between Sri Lanka Atomic Energy Board, the Ministry of Health and Access Medical Tracers (Private) Limited (special purpose vehicle) for the implementation of the production facility.
+
+...
+
+[Data](articles/b58f8020.json)
+
+[Extended Data](ext_articles/b58f8020.ext.json)
 
 ---
 
@@ -470,6 +578,28 @@ However, the Australian Prime Minister said that he would take serious action ag
 
 ---
 
+### Sri Lanka rupee opens flat at 292.75/90 to dollar, bond yields flat
+
+*2024-11-07 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-75-90-to-dollar-bond-yields-flat-186375/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened more or less flat at 292.75/90 to the US dollar Thursday, dealers said, from 292.80/90 Wednesday, while bond yields were steady.
+
+A bond maturing on 01.05.2027 was quoted at 11.20/25 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.55/75 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.80/86 percent.
+
+In equities, Colombo’s All Share Price Index opened down 0.01 percent, or 1.62 points lower at 12,717, while the S&P SL20 of more liquid stocks opened up 0.06 percent or 2.11 points higher at 3,826.
+
+◼️
+
+[Data](articles/ca279b0a.json)
+
+[Extended Data](ext_articles/ca279b0a.ext.json)
+
+---
+
 ### A person dies suspiciously in Kandy
 
 *2024-11-07 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198083) · `ta`
@@ -706,6 +836,26 @@ The British High Commission has also stated that he is expected to strengthen bi
 
 ---
 
+### US sanctions Indian firm involved in deal with Sri Lanka’s Mattala airport
+
+*2024-11-07 08:22:00* · [`economynextcom`](https://economynext.com/us-sanctions-indian-firm-involved-in-deal-with-sri-lankas-mattala-airport-186347/) · `en`
+
+ECONOMYNEXT – The United States has sanctioned an Indian firm which is in a consortium with a Russian firm to manage Sri Lanka’s Mattala Airport, official data showed.
+
+The U.S. Department of the Treasury sanctioned India-based Shaurya Aeronautics Private Limited (Shaurya) last week among 275 individuals and entities involved in supplying Russia with advanced technology and equipment that it desperately needs to support its war machine.
+
+“Today’s action targets both individual actors and sprawling sanctions evasion networks across 17 jurisdictions, including India, the People’s Republic of China (PRC), Switzerland, Thailand, and Türkiye,” the U.S. Department of the Treasury said in a statement.
+
+“In addition to disrupting global evasion networks, this action also targets domestic Russian importers and producers of key inputs and other material for Russia’s military-industrial base.”
+
+...
+
+[Data](articles/2996cf4d.json)
+
+[Extended Data](ext_articles/2996cf4d.ext.json)
+
+---
+
 ### Rice shortage, price surge fueled by increased beer production?
 
 *2024-11-07 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103222/rice-shortage-price-surge-fueled-by-increased-beer-production) · `en`
@@ -779,6 +929,22 @@ It has been reported that the time has been extended to bring the firearms to th
 [Data](articles/81ec1988.json)
 
 [Extended Data](ext_articles/81ec1988.ext.json)
+
+---
+
+### Sri Lanka central bank urged not to inject excess money by open market operations
+
+*2024-11-07 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-urged-not-to-inject-excess-money-by-open-market-operations-186335/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s central bank should not inject large volumes of excess liquidity though domestic operations into the banking system to push rates down, with data showing that banks are being offered more money than they need, an economic analyst has said.
+
+Dhananath Fernando, Chief Operating Officer of Advocata Institute, has said it may be better to cut the floor rate of the policy corridor if the central bank wants to bring rates lower, rather then inject large volumes of money into banks encouraging bad behaviour.
+
+Data show that central bank offered through open market auction more ‘printed money’ than banks bid for, and some had bid at very low rates indicating that they did not care whether they got it or not, undermining the workings of the interbank money market.
+
+...
+
+[Data](articles/5658bd7a.json)
 
 ---
 
@@ -2117,221 +2283,5 @@ The President's Counsel asked the court that he would object to the request of t
 [Data](articles/de707007.json)
 
 [Extended Data](ext_articles/de707007.ext.json)
-
----
-
-### Landslide early warnings for 8 districts extended
-
-*2024-11-06 18:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103217/landslide-early-warnings-for-8-districts-extended) · `en`
-
-The National Building and Research Organisation (NBRO) has extended the early landslide warnings issued to multiple areas in eight districts, as heavy rainfall continues in parts of the island.
-
-The NBRO says that the warnings will be in effect until 4.00 p.m. tomorrow (07).
-
-Accordingly, a Level 1 (Amber) warning has been issued for several Divisional Secretariat Divisions (DSDs) and surrounding areas in the Badulla, Galle, Kalutara, Kandy, Kegalle, Kurunegala, Matara and Ratnapura districts as follows:
-
-Matara – Pasgoda, Akuressa and Kotapola DSDs and surrounding areas
-
-Ratnapura – Godakawela, Imbulpe, Nivithigala, Openayake, Elapatha, Balangoda, Kalawana, Ayagama, Pelmadulla, Kiriella and Kahawatta DSDs and surrounding areas
-
-Meanwhile, a Level 2 (Yellow) warning was issued for the following areas:
-
-Kegalle – Deraniyagala, Ruwanwella, Dehiowita, Yatiyanthota, Kegalle, Galigamuwa, Bulathkohupitiya, Warakapola and Aranayake DSDs and surrounding areas
-
-...
-
-[Data](articles/26bdaec1.json)
-
-[Extended Data](ext_articles/26bdaec1.ext.json)
-
----
-
-### Plastic water bottles and tobacco cigars banned at Sri Pada
-
-*2024-11-06 18:38:44* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවාරයේදී-ප්ලාස්ටික්-වතුර-බෝතල්-හා-දුම්කොළ-සුරුට්ටු-තහනම්/11-412898) · `si`
-
-Sri Pada pilgrimage bans plastic water bottles, tobacco cigars. Special safety measures implemented for 2024-2025 season. Environment protection emphasized.
-
-🟩
-
-2024-2025 Sripes from Nallathaniya to the courtyard of Nallathanniya to the courtyard of the Sripeasana from the Nallatnawa to the courtyard.
-
-2024-2025 Attempting of Sri Pada Pilgrimage to the Chancellor of the Uva Wellassan, Sabaragamuwa and Ratnapura District Secretary, Nallutnai (05)The decision was presented at the Committees held at the Grama Niladhari Office Assistant Hall.
-
-Nallathaniya Sri Pada Pilwaraya, Nallathaniya to Sri Padawala Welfare Vasulpe, Welfare Foundation has been paid to Sri Padawala to the Welfare Foundation.The Foundation officials said at the meeting that an organized group has been destroyed by now.
-
-On the Nalluthaniya to the courtyard of plastic water supply to the courtyard was banned from the Nallathaniya to the courtyard, which has been made by some of the drinking water bottles on the road.
-
-The Nallathanner is conducting monk at the Nallutunian office and the Maskeliya Pradeshiya Sabha.
-
-...
-
-[Data](articles/ef9e61cf.json)
-
-[Extended Data](ext_articles/ef9e61cf.ext.json)
-
----
-
-### Zaralione, who was swallowed with 40 cocaine in rupees
-
-*2024-11-06 18:32:43* · [`adalk`](https://www.ada.lk/breaking_news/රුපියල්-කෝටියක-කොකේන්-ගුලි-40-ක්-ගිල-දමා-සිටි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-412897) · `si`
-
-Two men arrested: one swallowed 40g cocaine, another found with 2.4kg. Both face charges related to drug trafficking. Investigations ongoing.
-
-🟩
-
-A Kocainen was arrested by the Police Narcotics, the Bureau of Borella, who had been swallowed with a sum of Rs.
-
-The suspect has taken US $ 500 and several foreign currency notes.
-
-Another person has been arrested with 2400 millions of cocaine.
-
-The suspect was arrested in accordance with two suspects who were arrested by the Galle Harbor (1nd 19) with 279 suspects arrested with the Galle Port Police at Galle.
-
-The suspect has been brought to the cocaine, police said.
-
-Police say the suspect had been accommodated in a hotel in Kollupitiya, police said.
-
-The suspect is a 52 year old and the other is a 28-year-old man. The Police Narcotics Bureau is conducting further investigations.
-
-◼️
-
-[Data](articles/5d17e7c5.json)
-
-[Extended Data](ext_articles/5d17e7c5.ext.json)
-
----
-
-### Recovery of the arrested three under PTA
-
-*2024-11-06 18:29:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PTA-இன்-கீழ்-கைதான-மூவர்-விடுவிப்பு/175-346674) · `ta`
-
-Three accused acquitted under PTA; released on bail after investigation completion. Case transferred to High Court due to ongoing Supreme Court review.
-
-🟩
-
-Vavuniya High Court Judge Ilanjaziyan on Wednesday (06) acquitted three persons who were arrested and released on bail under the Prevention of Terrorism Act.
-
-Sri Subramaniam Girija, Kandapu Kayendran from Periyankulam, Vavuniya, and Kakkai Singam Kandaruban from Poonthottam were released.
-
-In the month of January 2019, the trio were arrested in connection with the information available in the month of Thai, which was found to be detained by the harmful weapons, climber bombshell.. Based on a police investigation, the B Report was prepared and a case was filed against the Vavuniya Magistrate's Court.
-
-They were released on bail as he was being investigated in court.
-
-Investigations have been completed in the Magistrate's Court against the enemy and the Attorney General's Department has received advice and filed a case in the Vavuniya High Court.
-
-The verdict was held on Wednesday (06) as the case was continuously under investigation in the Supreme Court.
-
-In his judgment, Justice Maj.
-
-◼️
-
-[Data](articles/c240fd94.json)
-
-[Extended Data](ext_articles/c240fd94.ext.json)
-
----
-
-### Driver and conductor of school children banned
-
-*2024-11-06 18:16:27* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්-මග-දමා-ගිය-රියදුරු-සහ-කොන්දොස්තරගේ-වැඩ-තහනම්/11-412896) · `si`
-
-School bus driver and conductor banned for refusing baptism. Dispute over bus schedules and inspections leads to suspension. Parents concerned about transportation for children.
-
-🟩
-
-The driver and conductor who refused to baptize school children and conducted a conductor of the Kalutara Major Regional Management office states that a member of the Kalutara District Secretariat said.
-
-The suspects were banned by the Driver and Conductor of the Alignment depot, which was traveling in Colombo, the Aluthgama depot, which was run in Colombo.
-
-Buses belonging to the Aluthgama, Matugama and Kalutara depot in Kalutara and Wadduwa
-
-Ramal Siriwardena, the current chairman of the Depot, is refusing to increase in time and the Chief Regional Manager has been acting in the instructions of the Chairman to stop buses in bus stops.. However, it was reported that the drivers had taken the bus to stop the bus on that day and run again.
-
-It is also stated that the driver and the conductor had also had an argument with the officers and the conductor when inspected depots and mobile inspectors were deployed.
-
-It is reported that he has not been able to do anything again, "he said.
-
-...
-
-[Data](articles/c33ad7f7.json)
-
-[Extended Data](ext_articles/c33ad7f7.ext.json)
-
----
-
-### Former Excise Commissioner, including 4, extends the pledge
-
-*2024-11-06 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202977) · `si`
-
-Supreme Court case: Former Excise Commissioner pledges defiance. Four officers accused of liquor license irregularities. Court denies release request, summons officers for fact-checking. Interim injunction issued against violators.
-
-🟩
-
-Former Excise Commissioner General Missing Will Not Abide. J. The Supreme Court today stated that four officers who had been given the pledge to the court on January 20, Janasiri.
-
-Attorney-at-Law Romesh de Silva, the President's Counsel, was taken up when a petition filed against the former Excise General of Excise was taken up against the exclamation of the former Excise General.
-
-The petition was called before the Supreme Court Bench comprised of Murpru Fernando, Janakamuwa and Arjuna Obeysekere.
-
-Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney Attorney-at-Law Senani Dayaratne stated that his client has not been involved in the process of issuing these liquor licenses.
-
-Despite this, the lawyer pointed out that the notories of the judiciary of insulting the Court as a respondent of the court.
-
-Therefore, the lawyer asked the court to be released from these cases.
-
-...
-
-[Data](articles/e72e19b2.json)
-
-[Extended Data](ext_articles/e72e19b2.ext.json)
-
----
-
-### Special decision taken about construction of the Eastern Terminal
-
-*2024-11-06 17:47:48* · [`adalk`](https://www.ada.lk/breaking_news/නැගෙනහිර-පර්යන්තයේ-ඉදිකිරීම්-ගැන-රජය-ගත්-විශේෂ-තීරණය/11-412894) · `si`
-
-Eastern Terminal construction accelerated: Minister Vijitha Herath orders completion by 2025, extending deadline from Nov 15, 2026. Special tax relief of $750 million granted for Eastern Container Terminal development.
-
-🟩
-
-Minister Vijitha Herath has instructed to end the construction work as a special project as a special project in the Eastern Construction Terminal of the Colombo Port.
-
-According to the current situation, the construction has been extended to November 15, 2026 and the Minister has instructed to expedite its construction and end on 2025.
-
-Special tax relief for the construction of the Eastern Container Terminal has been provided with a special tax concession to US $ 750 million.
-
-◼️
-
-[Data](articles/24cdba5c.json)
-
-[Extended Data](ext_articles/24cdba5c.ext.json)
-
----
-
-### Police seize another suspect jeep belonging to the cuttu
-
-*2024-11-06 17:37:29* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්තැන්නේ-කපුවාට-අයත්-තවත්-සැක-ජීප්-රියක්-පොලීසිය-භාරයට/11-412893) · `si`
-
-Police seize luxury jeep in Galle, suspecting fraud. Vehicle registered under false identity. Investigation ongoing.
-
-🟩
-
-The Telzieiya Police say that there was another billions of suspicious mark in a public tradition of the Devalana area in Galle.
-
-The luxury jeep has been arrested on the instructions of Senior Superintendent of Police Roshan Amarasinghe in charge of the Teldeniya Division.
-
-Long-based monsoor luxury jepper in the Kulletin, the luxury jepper to be recorded by the legitimate owner after he is notified by its legitimate owner after he is found in the Kullethe-Plate of the legal number.The officers have been arrested.
-
-Police say that there are about twelve vehicles in the vehicle yard that is located on the parliamentarian, police said.
-
-Chassi Numbers and Engine No. of the vehicles have been handed over to the vehicle registration commissioner office for further investigations.
-
-◼️
-
-[Data](articles/523241da.json)
-
-[Extended Data](ext_articles/523241da.ext.json)
 
 ---

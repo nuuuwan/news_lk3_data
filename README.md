@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 21:00:12**
+As of **2024-11-07 21:11:07**
 
 ## Newspaper Stats
 
-*Scraped **53,601** Articles*
+*Scraped **53,602** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,015
+adalk | 5,016
 adaderanalk | 6,390
 tamilmirrorlk | 7,464
 virakesarilk | 8,675
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,599 (100.0%) of 53,601 articles have been extended.
+53,601 (100.0%) of 53,602 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The two new envoys, Mr. Adel Ibrahim, Ambassador of the Arab Republic of Egypt, 
 ◼️
 
 [Data](articles/60f1749e.json)
+
+[Extended Data](ext_articles/60f1749e.ext.json)
 
 ---
 
@@ -212,6 +214,22 @@ The shooting has been carried out by one individual while the motive behind the 
 
 ---
 
+### ත්‍රිපෝෂ සමාගම අහෝසි කරලා
+
+*2024-11-07 19:13:29* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිපෝෂ-සමාගම-අහෝසි-කරලා/11-412918) · `si`
+
+ශ්‍රී ලංකා ත්‍රිපෝෂ සමාගම ආහෝසි කිරීමට අනුර කුමාර දිසානායක මහතා ජනාධිපති ධුරයට පත්වීමත් සමග කටයුතු කර ඇති බවත්,  මෙලෙස ත්‍රිපෝෂ සමාගම අහෝසි කිරීමට හේතුව කුමක්ද යන්න පිළිබඳ වර්තමානයේ ගැටලුවක් මතුව තිබෙන බවත්, ජන අරගල සන්ධානයේ මහ මැතිවරණ අපේක්ෂක පුබුදු ජයගොඩ මහතා පැවසීය.
+
+අද (07දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.එහිදී වැඩිදුරටත් පුබුදු ජයගොඩ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“අනුර දිසානායක ජනාධිපතිවරයා විදිහට පත්වීමත් එක්කම 2024 සැප්තැම්බර් 27 අංක 2403/53 දරන ගැසට් නිවේදනය නිකුත් කළා. මේ ගැසට් නිවේදනයේ 8 පිටුවේ 36වෙනි වගන්තියට අනුව ආණ්ඩුව තීරණයක් අරගෙන තියනවා සීමාසහිත ශ්‍රී ලංකා ත්‍රිපෝෂ සමාගම අහෝසි කරන්න. ඒක නිසා අමාත්‍යාංශ ගැසට් කිරීමේදී ත්‍රිපෝෂ සමාගම කිසිදු අමාත්‍යාංශයකටවත් පවරලා නෑ.
+
+...
+
+[Data](articles/68729c56.json)
+
+---
+
 ### Wennappuwa shooting
 
 *2024-11-07 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203013) · `si`
@@ -234,23 +252,31 @@ One person has come to shoot, and he has not yet revealed the shooting.
 
 ---
 
-### මහ මැතිවරණයට 12 දා සිට විශේෂ බස් සේවා
+### Special bus services from 12th to general election
 
 *2024-11-07 18:54:42* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-12-දා-සිට-විශේෂ-බස්-සේවා/11-412917) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයට අදාළව ඡන්දය ප්‍රකාශ කිරීමට ගම්බිම් බලා යන ජනතාව වෙනුවෙන් මේ මස 12වන දින සිට විශේෂ බස් සේවා ක්‍රියාත්මක කරන බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+Lanka Private Bus Owners Association announces special bus services starting 12th. Gemunu Wijeratne cites lack of buses due to SLTB election duties. No political party support claimed. Book about winning US presidency published in 2022.
 
-පසුගිය ජනාධිපතිවරණයේදී ගම්බිම් බලා යන ජනතාවට ප්‍රමාණවත් තරම් බස් රථ නොමැති වීම නිසා ජනතාව දුෂ්කරතාවන්ට පත් වූ බවද එම සංගමයේ සභාපති ගැමුණු විජේරත්න මහත සඳහන් කළේය.
+🟩
 
-ලංගම බස් රථ මැතිවරණ රාජකාරි සඳහා යෙදවීම නිසා මෙම තත්ත්වය ඇති වූ බවත්, එහෙත් මෙවර 12වන දින සිට බස් රථ යෙදවීමට කටයුතු කරන නිසා මගීන්ට අපහසුතාවයක් නොමැතිව ගම්බිම් බලා යාමට හැකිවන බවද පැවසීය. ඊයේ (07දා) කොළඹදී පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ බව සඳහන් කළ සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේ මෙවර මැතිවරණයේදී බස් සංගමයක් ලෙස කිසිදු පක්ෂයකට සහාය නොදක්වන බවයි.
+The Lanka Private Bus Owners Association states that special bus services will be implemented on the 12th of this month.
 
-පවතින දේශපාලන තත්ත්වය තුළ කිසිදු පක්ෂයකට බහුතර බලයක් ලබා ගැනීමට නොහැකි වන බවත්, මේ නිසා ඉදිරියේදී හවුල් ආණ්ඩුවක් ඇති විය හැකි බවද පැවසීය.
+The President of the Association Gemunu Wijeratne stated that the people of the last presidential election were suffering from the lack of buses.
 
-ඇමරිකානු ජනාධිපතිවරණයේදී ඩොනල්ඩ් ට්‍රම්ප් ජයග්‍රහණය කරන බවට තමන් විසින් 2022 වසරේදී පළ කළ බල රංගනය පොත මගින් පෙන්වා දුන් බවද සඳහන් කළේය.
+The situation was caused by the SLTB buses on election duties and the passage from the 12th of this year, he would be able to go to Gammbim without an inconvenience.. The Chairman, said at a press conference held in Colombo yesterday (07), said that no party would support any party as a bus association this year.
 
-...
+There is no support to any party in the existing political situation and that there is a joint government in the future.
+
+The book stated that the power of the power to win Donald Trump in the American presidential election, said he was published in the year 2022.
+
+An English translation of this book was sent to Donald Trump 02 months ago.
+
+◼️
 
 [Data](articles/2718806d.json)
+
+[Extended Data](ext_articles/2718806d.ext.json)
 
 ---
 
@@ -2425,25 +2451,5 @@ He said at a press conference announcing the Cabinet decisions held at the Gover
 [Data](articles/886eba68.json)
 
 [Extended Data](ext_articles/886eba68.ext.json)
-
----
-
-### General Election campaigning ends on Monday
-
-*2024-11-07 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103224/general-election-campaigning-ends-on-monday) · `en`
-
-The election campaigning activities for the 2024 General Election are scheduled to end at midnight on Monday (Nov. 11).
-
-Accordingly, the silence period will be in effect from midnight on Monday until Thursday (Nov. 14), when the election will be held.
-
-During this period, any form of election campaign activities are prohibited, and the police are authorized to arrest any parties that violate election rules and to enforce the law, according to the Election Commission of Sri Lanka.
-
-Meanwhile, postal voters who were unable to cast their votes on the designated days are permitted to vote at the District Secretariat corresponding to their workplace location today (07) and tomorrow (08).
-
-◼️
-
-[Data](articles/ceae3cda.json)
-
-[Extended Data](ext_articles/ceae3cda.ext.json)
 
 ---

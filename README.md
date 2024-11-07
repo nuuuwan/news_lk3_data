@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 12:40:12**
+As of **2024-11-07 12:58:28**
 
 ## Newspaper Stats
 
-*Scraped **53,535** Articles*
+*Scraped **53,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,120 @@ economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,003
-adaderanalk | 6,378
+adaderanalk | 6,379
 tamilmirrorlk | 7,454
-virakesarilk | 8,656
-adaderanasinhalalk | 9,330
+virakesarilk | 8,660
+adaderanasinhalalk | 9,331
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,535 (100.0%) of 53,535 articles have been extended.
+53,535 (100.0%) of 53,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ஜனாதிபதி தேர்தலில் தோற்றாலும் போராட்டத்தை கைவிடமாட்டேன் ; சிலவேளைகளில் போராட்டம் சில காலம் நீடிக்கும்; இதன் அர்த்தம் நாங்கள் வெற்றிபெறமாட்டோம் என்பதல்ல -    கமலா ஹரிஸ்
+
+*2024-11-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198099) · `ta`
+
+அமெரிக்க ஜனாதிபதி தேர்தலில் தோற்றாலும்  சுதந்திரத்திற்கான, வாய்ப்பிற்கான ,அனைத்து மக்களினதும் நியாயம், கௌவரத்திற்கான, எங்கள் தேசத்தின் இதயமாக உள்ள கொள்கைகளிற்கான  போராட்டத்தை   நான் ஒருபோதும் கைவிடமாட்டேன் என கமலா ஹரிஸ் தெரிவித்துள்ளார்.
+
+வோசிங்டன் டிசியில் தனது ஆதரவாளர்கள் மத்தியில் உரையாற்றுகையில் இதனை தெரிவித்துள்ள  அவர் மேலும் தெரிவித்துள்ளதாவது.
+
+இந்த தேர்தல் முடிவு நாங்கள் எதிர்பார்த்த ஒன்றல்ல,நாங்கள் போராடியது இந்த முடிவிற்காக இல்லை,நாங்கள் இதற்காக வாக்களிக்கவில்லை, ஆனால் நான் சொல்வதை செவிமடுங்கள்.நாம் கைவிடாத வரை,நாங்கள் தொடர்ந்து போராடும் வரை அமெரிக்காவின் வாக்குறுதியின் வெளிச்சம் என்றும் பிரகாசமாக ஒளிரும்.
+
+நாங்கள் போட்டியிட்டது குறித்தும் போட்டியிட்ட விதம் குறித்தும், நான் மிகவும் பெருமிதமடைகின்றேன்.இந்த பிரச்சாரத்தை முன்னெடுத்த 107 நாட்களாக ,நாங்கள் சமூகங்களை உருவாக்குவது ,கூட்டணிகளை உருவாக்குவது குறித்த நோக்கத்துடன் செயற்பட்டோம்.
+
+...
+
+[Data](articles/1b0dae00.json)
+
+---
+
+### ලොහාන් සහ බිරිඳ යළි රිමාන්ඩ්
+
+*2024-11-07 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203003) · `si`
+
+නීති විරෝධීව එකලස් කරන ලද මෝටර් රථයක් භාවිත කිරීමේ චෝදනාව යටතේ අත්අඩංගුවට ගත් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ හා ඔහුගේ බිරිඳ එළඹෙන 18 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+ඒ ඔවුන් අද (07) නුගේගොඩ මහසේත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+
+◼️
+
+[Data](articles/6a4f69d9.json)
+
+---
+
+### Police find another illegally assembled luxury car belonging to a ‘Kapuwa’
+
+*2024-11-07 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103232/police-find-another-illegally-assembled-luxury-car-belonging-to-a-kapuwa-) · `en`
+
+Another illegally assembled luxury car has been found in the garage of a ‘Kapuwa’, who was previously arrested over similar charges related to the possession of an illegally assembled vehicle.
+
+Investigating officers have located this additional luxury car during the interrogation of the ‘Kapuwa’ of the Galthenna Devalaya in Kandy, who was recently arrested and remanded, the police said.
+
+Further investigations revealed that the luxury carin question bore the same license plate as a another vehicle in the Hettipola area of Kurunegala. The car has since been taken into police custody.
+
+Theldeniya Divisional Crimes Unit is conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/c18eead9.json)
+
+---
+
+### பத்து வேட்பாளர்களும் வெற்றி பெற்று, பாராளுமன்றத்தில் நாம் ஒரு அழுத்த அணியாக இடம் பெற வேண்டும் - மனோ கணேசன்
+
+*2024-11-07 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198094) · `ta`
+
+ஏழு மாவட்டங்களில் போட்டி இடும் எமது பத்து வேட்பாளர்களும் வெற்றி பெற்று, எதிர்வரும் பத்தாவது பாராளுமன்றத்தில் நாம் ஒரு அழுத்த அணியாக இடம்பெற வேண்டும். இதை மனதில் கொண்டு நமது மக்கள் வாக்களிக்க  வேண்டும் என தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் அறிவித்துள்ளார்.
+
+தமுகூ தலைவர் மனோ கணேசன் விடுத்துள்ள விசேட வாக்காளர் தெளிவூட்டல் அறிக்கையில் மேலும் கூறியுள்ளதாவது,
+
+தமிழ் முற்போக்கு கூட்டணி, பதுளை, நுவரேலியா, கண்டி, இரத்தினபுரி, கேகாலை, கொழும்பு, கம்பஹா ஆகிய ஏழு மாவட்டங்களில் பத்து வேட்பாளர்களை களமிறக்கி உள்ளது. இந்த பத்து வேட்பாளர்களும் வெல்ல வேண்டும். எம்மை நாமே பிரதிநிதித்துவம் செய்ய வேண்டும். இந்நாடு இன்று ஒரு வரலாற்று திருப்பு முனையில் நிற்கிறது. இந்த வரலாற்று சூழலில் தேசிய முக்கியத்துவம் வாய்ந்த இடங்களில் நாம் நமது மக்களை பிரதிநிதித்துவம் செய்ய வேண்டும். வரலாறு தந்திருக்கும் வாய்ப்பை நாம் தவற விடகூடாது.
+
+...
+
+[Data](articles/3f762374.json)
+
+---
+
+### மன்னார் நீதிமன்றத்தில் பெண்ணிடம் இலஞ்சம் பெற்ற சிறை அலுவலர் கைது
+
+*2024-11-07 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198096) · `ta`
+
+மன்னார் நீதிமன்றத்தில் வைத்து இலஞ்சம் பெற்ற குற்றச்சாட்டில் வவுனியா சிறைச்சாலை   அலுவலர்   ஒருவர்  கடந்த 5 ஆம் திகதி  மன்னார் பொலிஸாரினால் கைது செய்யப்பட்டு மன்னார் நீதவான் முன்னிலையில் ஆஜர் படுத்திய போது குறித்த சிறைச்சாலை உத்தியோகத்தரை நாளை வெள்ளிக்கிமை (08) வரை விளக்கமறியலில் வைக்க நீதவான் உத்தரவிட்டுள்ளார்.
+
+கடந்த 5 ஆம் திகதி  வவுனியா சிறைச்சாலை  அலுவலர் மன்னார் நீதவான் நீதிமன்றில் கடமைக்காக வந்துள்ளார்.
+
+குறித்த சிறைச்சாலை  அலுவலர், மன்னார் நீதிமன்ற தடுப்புக்காவலில் வைக்கப்பட்டிருந்த ஒருவரை பார்வையிடுவதற்காக சென்ற பெண் ஒருவரிடம்  தடுப்புக் காவலில் வைக்கப்பட்ட நபரை பார்வையிடுவதற்காக 1,000 ரூபாய் பணத்தை  பலவந்தமாகப் பெற்றுக் கொண்டுள்ளார்.
+
+குறித்த விடயம் தொடர்பாக பாதிக்கப்பட்ட பெண் மன்னார் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்துள்ளார்.
+
+...
+
+[Data](articles/a73a3e34.json)
+
+---
+
+### வெளிநாட்டு மதுபான போத்தல்கள், சிகரட்டுகளுடன் ஒருவர் கைது!
+
+*2024-11-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198091) · `ta`
+
+கொமும்பு, புறக்கோட்டை பிரதேசத்தில் சட்டவிரோதமாக கொண்டுவரப்பட்ட வெளிநாட்டு மதுபான போத்தல்கள் மற்றும் சிகரட்டுகளுடன் சந்தேக நபர் ஒருவர் நேற்று புதன்கிழமை (06) கைது செய்யப்பட்டுள்ளதாக புறக்கோட்டை பொலிஸார் தெரிவித்தனர்.
+
+புறக்கோட்டை பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் சந்தேகநபர்  கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபரிடமிருந்து சட்டவிரோதமாக கொண்டுவரப்பட்ட 210 மதுபான போத்தல்கள் மற்றும் 50,000 சிகரட்டுக்கள் அடங்கிய 250 சிகரட்டு காட்டுன்கள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/b4bb9afd.json)
+
+---
 
 ### General Election sees low campaign turnout, declined political engagement - PAFFREL
 
@@ -2185,131 +2285,5 @@ Entrepreneurship, Attorney Dilith Jayaweera said that entrepreneurs, addressing 
 [Data](articles/80112a8b.json)
 
 [Extended Data](ext_articles/80112a8b.ext.json)
-
----
-
-### Dr. Swafi, who liberated from the allegations
-
-*2024-11-06 20:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202984) · `si`
-
-Dr. Sufi Reldeen denies allegations, vows legal action against those he claims are trying to destroy his family and reputation for personal gain.
-
-🟩
-
-Dr. Sufi Reldeen says that they will regret the personal benefit of personal benefit and that everyone can take to another injustice is not taken to another.
-
-Speaking to the media, Mr. Sufi Reli, Ven.
-
-"It is regrettable to be cutting down to upgrade her position for personal benefit. The legal action is taken to destroy a family, innocent man, as a family, like a family without going through his own ability.. I will ultimately take all the steps that can be taken by the law. "
-
-◼️
-
-[Data](articles/f28fbb82.json)
-
-[Extended Data](ext_articles/f28fbb82.ext.json)
-
----
-
-### Holidays for schools - Ministry of Education
-
-*2024-11-06 20:14:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாடசாலைகளுக்கு-விடுமுறை-கல்வி-அமைச்சு/175-346675) · `ta`
-
-Schools closed Nov 13-14, 2024 reopen Nov 18, 2024 due to parliamentary elections.
-
-🟩
-
-All schools will be closed for parliamentary elections on November 13, 2024 and November 14 and 2024. Reopen on 18.11.2024. Remble
-
-◼️
-
-[Data](articles/a069efbd.json)
-
-[Extended Data](ext_articles/a069efbd.ext.json)
-
----
-
-### President Anura congratulates Donald Trump
-
-*2024-11-06 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198076) · `ta`
-
-Sri Lanka President Anura Dissanayake congratulates Donald Trump on his election as US President. He expresses hope for cooperation to benefit both countries' citizens.
-
-🟩
-
-President Anuragumara Dissanayake has congratulated Donald Trump, the 47th president of the United States.
-
-“The most voted voting as the 47th president of the United States has been congratulated by Donald J. Trump.
-
-He also said that I expect to work with you to achieve the general goals of our relationship that benefits the people of Sri Lanka and the American people.
-
-◼️
-
-[Data](articles/f707b360.json)
-
-[Extended Data](ext_articles/f707b360.ext.json)
-
----
-
-### Sri Lanka deflation drives consumer goods sales, margins at JKH
-
-*2024-11-06 19:19:00* · [`economynextcom`](https://economynext.com/sri-lanka-deflation-drives-consumer-goods-sales-margins-at-jkh-186317/) · `en`
-
-ECONOMYNEXT – Sri Lanka falling prices have helped drive up volumes of consumer goods and supermarket basket sizes, while also improving margins, John Keells Holdings, a diversified group which has interests in fast consumer food production and retail said.
-
-“The Supermarket business recorded a strong performance during the quarter, with same store sales recording an encouraging growth of 14 percent driven by customer footfall growth of 12 percent,” John Keells Holdings Chairman Krishan Balendra told shareholders in an interim report.
-
-“Average basket values continued to recover driven by an increase in the weight of purchase due to a decrease in year-on-year inflation rates and improved consumer confidence.”
-
-Sri Lanka recorded 12 month deflation in September and October, a phenomenon that became very rare in the island after the 1960 as central banks including the Fed started aggressive macro-economic policy, triggering inflation, commodity shocks and social unrest.
-
-...
-
-[Data](articles/780018c3.json)
-
-[Extended Data](ext_articles/780018c3.ext.json)
-
----
-
-### President welcotes Anura Donald Trump
-
-*2024-11-06 19:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202981) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake welcomes Donald Trump as US President. He congratulates Trump warmly and expresses hope for cooperation to benefit both countries' citizens.
-
-🟩
-
-President Anura Kumara Dissanayake has joined Donald Trump, who was elected 47th President as 47th President of the United States.
-
-Donald J.. I will congratulate the warm greeting to Trump @realdonaldTRUmp. I look forward to dealing with you to achieve public purposes, which are beneficial to the people of Sri Lanka and the United States.
-
-◼️
-
-[Data](articles/a3120586.json)
-
-[Extended Data](ext_articles/a3120586.ext.json)
-
----
-
-### President Dissanayake congratulates Trump, eyes stronger ties
-
-*2024-11-06 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103218/president-dissanayake-congratulates-trump-eyes-stronger-ties) · `en`
-
-Sri Lanka’s President Anura Kumara Dissanayake has congratulated the President-elect of the United States Donald Trump.
-
-Congratulating Trump, President Dissanayake said that he looks forward to engaging with the new US administration to realize common objectives that benefit the people of Sri Lanka and the United States.
-
-Posting on his official ‘X’ account, Dissanayake said: “Warm congratulations to President-elect Donald J. Trump @realDonaldTrump on receiving a strong endorsement as the 47th President of the United States of America.”
-
-“I look forward to engaging with your administration in realizing common objectives of our relations that are beneficial to the people of Sri Lanka and the United States.”
-
-◼️
-
-[Data](articles/ef28a262.json)
-
-[Extended Data](ext_articles/ef28a262.ext.json)
 
 ---

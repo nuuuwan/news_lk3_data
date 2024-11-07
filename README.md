@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 22:58:20**
+As of **2024-11-07 23:10:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,344
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,608 (100.0%) of 53,609 articles have been extended.
+53,609 (100.0%) of 53,609 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -605,6 +605,8 @@ This policy paper proposes a strategic framework for agricultural development in
 ...
 
 [Data](articles/5dd0ecfa.json)
+
+[Extended Data](ext_articles/5dd0ecfa.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 15:58:57**
+As of **2024-11-07 16:12:55**
 
 ## Newspaper Stats
 
-*Scraped **53,565** Articles*
+*Scraped **53,571** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,87 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,007
-adaderanalk | 6,383
+adalk | 5,010
+adaderanalk | 6,384
 tamilmirrorlk | 7,459
-virakesarilk | 8,667
-adaderanasinhalalk | 9,334
+virakesarilk | 8,668
+adaderanasinhalalk | 9,335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,565 (100.0%) of 53,565 articles have been extended.
+53,568 (100.0%) of 53,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### More houses built under Indian grant handed over to beneficiaries
+
+*2024-11-07 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103239/more-houses-built-under-indian-grant-handed-over-to-beneficiaries) · `en`
+
+The High Commissioner of India to Sri Lanka Santosh Jha has inaugurated and handed over the Thiththavelkiwla Model Village in Monaragala to 24 beneficiary families.
+
+The Model Village Housing Project is being implemented in all 25 districts of the island jointly with the Ministry of Rural and Urban Development, Housing and Construction of Sri Lanka with grant support from the Government of India, the High Commission said in a statement.
+
+A Memorandum of Understanding (MoU) between the Government of India and the Government of Sri Lanka was signed for the project in October 2017. The project encompasses housing facilities for 600 low-income families of Sri Lanka, with a model village each consisting of 24 houses per district for families selected by the District Housing Committees, the statement added.
+
+...
+
+[Data](articles/17b890fe.json)
+
+[Extended Data](ext_articles/17b890fe.ext.json)
+
+---
+
+### Outstanding rise in the official reserves of the Central Bank of Sri Lanka
+
+*2024-11-07 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203007) · `si`
+
+Central Bank of Sri Lanka reports significant increase in official reserves. Forex pool rises 7.3% to $6.383 billion in October 2024, exceeding September's $5.949 million. Gold reserves grow to $42 million. Total reserves exceed $6 billion average, highest since September 2020.
+
+🟩
+
+In October 2024, an outstanding increase in the Central Bank of Sri Lanka has reported a significant increase in the Central Bank of Sri Lanka.
+
+The official reserve assets recorded as US $ 5,99 million in September 2024 increased to US $ 6,467 million in September 2024.
+
+Forex pool, the main component of the uniform reserve assets, has increased by 7.3% to $ 6,383 million in October.
+
+In September 2024, this value was reported to be $ 5,949 million.
+
+Meanwhile, the golden pool of the Central Bank has also grown to $ 42 million in October last October.
+
+The official reserve assets contains receipts of foreign exchange exchange facility from the People's Bank of China, which is equivalent to US $ 1.4 billion, and is subject to conditions.
+
+The average reserve of the Central Bank of Sri Lanka has been recorded over $ 6 billion, it is significant that after September 2020 months.
+
+◼️
+
+[Data](articles/9ccdff0e.json)
+
+[Extended Data](ext_articles/9ccdff0e.ext.json)
+
+---
+
+### மேய்ச்சல் தரை பிரச்சினை குறித்து நானாட்டான் பிரதேச கால்நடை வளர்ப்பாளர் சங்கத்தினர்  பொலிஸில் முறைப்பாடு
+
+*2024-11-07 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198122) · `ta`
+
+நானாட்டான் பிரதேச கால்நடை வளர்ப்பாளர்களுக்கு மேய்ச்சல் தரைக்கு என ஒதுக்கப்பட்ட கட்டுக்கரை குளம் புல்லறுத்தான் கண்டல் பகுதியில் சிலர் அடாத்தாக விவசாய செய்கையில் ஈடுபட்டு வருவதாக பாதிக்கப்பட்ட கால்நடை வளர்ப்பாளர்கள் மன்னார் மாவட்ட சிரேஷ்ட பொலிஸ் அத்தியட்சகரின் கவனத்திற்கு கொண்டு வந்துள்ளனர்.
+
+நானாட்டான் பிரதேச கால்நடை வளர்ப்பாளர்களின் நீண்ட கால பிரச்சினையாக மேய்ச்சல் தரை காணப்படுகின்றது.
+
+கடந்த 2021 ஆம் ஆண்டில் இருந்து தமது கால்நடைகளுக்கான மேய்ச்சல் தரை வழங்குவதாக அதிகாரிகள் தெரிவித்த போதும் இதுவரை வழங்கப்படவில்லை.
+
+இந்த நிலையில் குறித்த பகுதியில் அடாத்தாக விவசாயம் செய்து வருகின்றமை குறித்து முருங்கன் பொலிஸ் நிலையத்தில் கடந்த சில தினங்களுக்கு முன்னர்  முறைப்பாடு செய்ய சென்ற நிலையில் முருங்கன் பொலிஸார் தமது முறைப்பாட்டை ஏற்றுக் கொள்ள மறுத்து விட்டதாக பாதிக்கப்பட்ட கால்நடை வளர்ப்பாளர்கள் தெரிவித்தனர்.
+
+...
+
+[Data](articles/f3db7c51.json)
+
+---
 
 ### Greetings from Donald Trump to Kamala Harris
 
@@ -244,6 +310,22 @@ The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
 
 ---
 
+### වී අලෙවි මණ්ඩලයෙන් ලංකා බැංකුවට රු.කෝටි 37ක පොල්ලක්
+
+*2024-11-07 13:38:55* · [`adalk`](https://www.ada.lk/breaking_news/වී-අලෙවි-මණ්ඩලයෙන්-ලංකා-බැංකුවට-රු-කෝටි-37ක-පොල්ලක්/11-412912) · `si`
+
+වී අලෙවි මණ්ඩලය විසින් 2021/2022 මහ කන්නයේ දී වි අස්වනු  මිලදී ගැනීම සඳහා  ලංකා බැංකුවෙන් ලබා ගත් ණය මුදලින් 2023 වර්ෂයේ සැප්තැම්බර් මස 20 වන දින වන විටත් රුපියල් තිස් හත්කෝටි  විසි හතර ලක්ෂ අට දහස් හැට හතක මුදලක්  ලංකා බැංකුවට (372,408,067) ගෙවීමට ඇති බැව්  ජාතික විගණන කාර්යාලය ම`ගින් නොවැම්බර් මස 05 වන දින නිකුත් කර ඇති  නවතම විගණන වාර්තාවක සඳහන් වේ.
+
+ලංකා බැංකුව විසින් මහා කන්නයේ දී  වී අස්වනු මිලදී ගැනීම සඳහා රුපියල් කෝටි හයසිය පනහක ණය මුදලක් වී අලෙවි මණ්ඩලයට  ලබා දී තිබුණු බව විගණනය  මගින් අනාවරණ කර ඇත. මෙම ණය මුදල  2022 සැප්තැම්බර් මස 11 වන දින වන විට පියවා අවසන් කළ යුතු විය.
+
+මෙම  ණය මුදල නියමිත දිනට ගෙවා අවසන්  කිරීමට  නොහැකි වීම නිසා  ගෙවීමට  සිදුවී ඇති පොලිය හා  දඩ මුදල රුපියල් දාසය කෝටි හතලිස් ලක්ෂ හතලිස් අට දහස්  හයසීය හැට හයක් ( 164,048,666) බවද එම විගණන වාර්තාවේ සඳහන්වේ.
+
+...
+
+[Data](articles/9cdeb62e.json)
+
+---
+
 ### Sujeewa Senasinghe is confident that parliamentary power can be seized
 
 *2024-11-07 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198114) · `ta`
@@ -364,6 +446,28 @@ The Speaker also advised Khurshid to sit in his seat. He continued to stand with
 
 ---
 
+### 2941 students have lost universities in two years
+
+*2024-11-07 13:13:25* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යන-වර්ෂ-දෙකකදී-සිසුන්-2941ට-සරසවි-වරම්-අහිමිවෙලා/11-412911) · `si`
+
+Summary: 2941 students lost university admissions over 2 years due to 1857 vacancies. Audit suggests universities should plan for maximum student intake. University Grants Commission responsible for vacancies.
+
+🟩
+
+The National Audit Office that the students had lost 2941 university admission to the students during the two year years of age on the basis of the universities of the universities.Nov. A newly issued audit report issued on the 5th of this month.
+
+1821/2022 Academic Year 222 After Admission of Students for Universities, 1857 vacancies. 2021/2022 The number of vacancies for the universities was 1084. Audit has revealed that the number of vacancies should be taken to ensure that maximum students should be planned to provide the university access.
+
+The Fundament commissions have stated that these vacancies have been attached to the Vacancies by the University Grants Commission.
+
+◼️
+
+[Data](articles/5fefdd8c.json)
+
+[Extended Data](ext_articles/5fefdd8c.ext.json)
+
+---
+
 ### Police detained three candidates' vehicles on charges of violating election rules in Vavuniya: Three arrested
 
 *2024-11-07 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198105) · `ta`
@@ -413,6 +517,24 @@ It is also noteworthy that lawyers appearing on behalf of the affected parties a
 [Data](articles/f1433bd1.json)
 
 [Extended Data](ext_articles/f1433bd1.ext.json)
+
+---
+
+### එංගලන්තයට එරෙහි එක්දින තරගාවලියේ ජය කොදෙව්වන්ට
+
+*2024-11-07 13:01:43* · [`adalk`](https://www.ada.lk/sports/එංගලන්තයට-එරෙහි-එක්දින-තරගාවලියේ-ජය-කොදෙව්වන්ට/9-412910) · `si`
+
+සංචාරක එංගලන්ත කණ්ඩායමට එරෙහි තරග තුනකින් සමන්විත එක්දින ක්‍රිකට් තරගාවලිය තරග දෙකට බිංදුවක් ලෙස ජය ගැනීමට බටහිර ඉන්දීය කොදෙස් කණ්ඩායම ඊයේ (06දා) සමත් විය.
+
+ඒ දෙරට අතර පැවති තුන්වන හා අවසන් එක්දින ක්‍රිකට් තරගය කඩුලු 08කින් කොදෙව් කණ්ඩායම ජයග්‍රහණය කරමින්.
+
+මෙම තරගයේ පළමුවෙන් පන්දුයට පහරදුන් එංගලන්ත කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 08ක් දැවී ලකුණු 263ක් රැස් කළේය.
+
+ඊට පිළිතුරු ඉනිම ක්‍රීඩා කළ බටහිර ඉන්දීය කොදෙව් කණ්ඩායම පන්දුවාර 43ක් අවසානයේ කඩුලු 2ක් පමණක් දැවී ලකුණු 267ක් ලබා ගනිමින් තරගය ජයග්‍රහණය කළහ.
+
+◼️
+
+[Data](articles/e16fe63b.json)
 
 ---
 
@@ -2301,125 +2423,5 @@ High Commissioner Patrick also highlighted the British Government’s appreciati
 [Data](articles/fdfbfb7c.json)
 
 [Extended Data](ext_articles/fdfbfb7c.ext.json)
-
----
-
-### Korea extends $ 10.2 m grant for integrated solid waste management project
-
-*2024-11-07 01:37:54* · [`dailyftlk`](https://www.ft.lk/news/Korea-extends-10-2-m-grant-for-integrated-solid-waste-management-project/56-768926) · `en`
-
-The Cabinet of Ministers on Monday approved a new project aimed at establishing an integrated solid waste management system in the Uva and Northern Provinces. The initiative will be funded by a $ 10.2 million grant from the Korean Government and will be implemented from 2024 to 2028.
-
-“The Korean International Cooperation Agency (KOICA) will provide technical assistance to help local governments address solid waste management challenges and develop sustainable solutions,” Cabinet Spokesman and Minister Vijitha Herath said at the weekly post-Cabinet meeting media briefing yesterday.
-
-The project focuses on improving waste management infrastructure and practices at the local government level in the two Provinces, where inadequate waste disposal has created environmental and health issues. With Korea’s expertise in sustainable waste management, the Government aims to develop an efficient, environmentally friendly system to address these challenges.
-
-◼️
-
-[Data](articles/7340e9e3.json)
-
-[Extended Data](ext_articles/7340e9e3.ext.json)
-
----
-
-### Israeli UNRWA ban will deepen Palestinian humanitarian catastrophe: MSF
-
-*2024-11-07 01:37:16* · [`dailyftlk`](https://www.ft.lk/news/Israeli-UNRWA-ban-will-deepen-Palestinian-humanitarian-catastrophe-MSF/56-768925) · `en`
-
-The Israeli Knesset’s ban on UNRWA’s operations voted on 28 October represents a devastating blow to Palestinian life. It will further undermine people’s survival prospects in Gaza and heavily impact communities in the West Bank.
-
-Médecins Sans Frontières (MSF) denounces this legislation, which represents an inhumane ban on vital humanitarian aid. The Knesset’s vote is propelling Palestinians towards an even deeper humanitarian crisis. It is imperative that the world acts to safeguard Palestinians’ fundamental rights. Immediate international intervention is needed to pressure Israel to allow unhindered access to humanitarian aid, implement a ceasefire and bring to an end the current campaign of destruction in Gaza.
-
-...
-
-[Data](articles/4bb85778.json)
-
-[Extended Data](ext_articles/4bb85778.ext.json)
-
----
-
-### Govt. reallocates unused funds to settle Rs. 28 b  for road rehabilitation bills
-
-*2024-11-07 01:36:49* · [`dailyftlk`](https://www.ft.lk/news/Govt-reallocates-unused-funds-to-settle-Rs-28-b-for-road-rehabilitation-bills/56-768924) · `en`
-
-The Government has decided to reallocate unused funds from 2024 to address outstanding payments to the tune of over Rs. 28 billion under the country’s 100,000 km road rehabilitation initiative.
-
-The decision was made at the weekly Cabinet meeting held on Monday.
-
-“Launched in 2020 as a five-year initiative to upgrade the country’s road network, the initiative has faced financial hurdles since 2023, leading to unpaid bills totalling Rs. 28.37 billion,” Cabinet Spokesman and Minister Vijitha Herath disclosed yesterday.
-
-Speaking at the post-Cabinet meeting media briefing, he said for 2024, Rs. 20 billion has been allocated for essential roadwork, under the 1,000 km of roads identified for rehabilitation.
-
-However, with the Budget constraints impacting progress, the Cabinet decided to allow the Road Development Authority (RDA) to clear these outstanding bills using unused 2024 allocations.
-
-...
-
-[Data](articles/e4faaf9a.json)
-
-[Extended Data](ext_articles/e4faaf9a.ext.json)
-
----
-
-### JAT posts 67% PAT growth despite Bangladesh crisis
-
-*2024-11-07 01:32:41* · [`dailyftlk`](https://www.ft.lk/business/JAT-posts-67-PAT-growth-despite-Bangladesh-crisis/34-768923) · `en`
-
-Profit After Tax soars to Rs. 512 m against Rs. 306 m in previous year
-
-Gross profit margin rises 2% due to backward vertical integration
-
-JAT Holdings PLC, said yesterday it demonstrated resilience in Q2 and the first half of FY 2024/25, continuing to deliver exceptional value to stakeholders.
-
-Its Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30 September 2024, reaching Rs. 512 million, amid challenges in Bangladesh and Maldives. Meanwhile, revenue from the Group’s Sri Lanka operations grew by 8% to Rs. 3,287 million during the period. Gross profit margin increased by 2% reflecting the positive impact of JAT’s Acrylic Binder and Alkyd Resin manufacturing plants, which have resulted in significant cost efficiencies. Selling and distribution expenses too declined by 10% as a result of JAT’s prudent approach to cost management and a strategic increase in marketing spend in the previous year, which are now yielding returns.
-
-...
-
-[Data](articles/0805c7af.json)
-
-[Extended Data](ext_articles/0805c7af.ext.json)
-
----
-
-### Hirunika Premachandra: 'Walked one preference for women, even though vote for any party'
-
-*2024-11-07 01:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dl00rr26do) · `si`
-
-Hirunika Premachandra contests Colombo District election. She emphasizes women's representation in decision-making. Discusses resignation as National Organizer of Samagiversen Seva Vanitha Corporation.
-
-🟩
-
-Hirunika Premachandra: 'Walked one preference for women, even though vote for any party'
-
-Hirunika Premachandra, who is contesting to the Colombo District for a woman in the candidate list, says Hirunika Premachandra, who is contesting to a woman on the list.
-
-In a meeting with BBC Sinhala service, she said that the majority of the country's population would not represent women in important decisions of women.
-
-Hirunika Premachandra expressed his views on matters of resignation letter from the National Organizer of the Samagiversen Seva Vanitha Corporation.
-
-◼️
-
-[Data](articles/86c1bcbb.json)
-
-[Extended Data](ext_articles/86c1bcbb.ext.json)
-
----
-
-### Alumex takes quantum leap   with brand-new cutting- edge manufacturing facility ’Ascend’
-
-*2024-11-07 00:42:10* · [`dailyftlk`](https://www.ft.lk/business/Alumex-takes-quantum-leap-with-brand-new-cutting-edge-manufacturing-facility-Ascend/34-768917) · `en`
-
-Hayleys Chairman Mohan Pandithage (right), Director Sarath Ganegoda (second from left), and Alumex Managing Director Pramuk Dediwela (left) inspect a product at the new facility
-
-Marking a milestone in its illustrious journey, Alumex PLC, a trailblazer in the aluminium extrusion industry, inaugurated its revolutionary ‘Ascend’ facility on 26 September in Sri Lanka, setting a new benchmark in production efficiency and technological advancement.
-
-Strengthening its market presence, the new state-of-the-art facility embodies a giant step forward in Alumex’s commitment to innovation, quality, and sustainability in the aluminium industry – with new technologies including Aluminium High Pressure Die Casting (HPDC) and dedicated Aluminium Balcony Assembly Line machines.
-
-Alumex PLC brings these advanced manufacturing capabilities to Sri Lanka to cater to specific requirements of overseas customers and attract new business opportunities from existing and new overseas markets.
-
-...
-
-[Data](articles/8be5735a.json)
-
-[Extended Data](ext_articles/8be5735a.ext.json)
 
 ---

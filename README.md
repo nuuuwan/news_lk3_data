@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 16:58:21**
+As of **2024-11-07 17:24:31**
 
 ## Newspaper Stats
 
-*Scraped **53,580** Articles*
+*Scraped **53,581** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,010
+adalk | 5,011
 adaderanalk | 6,387
 tamilmirrorlk | 7,462
 virakesarilk | 8,669
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,576 (100.0%) of 53,580 articles have been extended.
+53,581 (100.0%) of 53,581 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,19 +48,27 @@ Accordingly, he requested the court to issue an order handing over the relevant 
 
 [Data](articles/b1d8632d.json)
 
+[Extended Data](ext_articles/b1d8632d.ext.json)
+
 ---
 
-### புதிய தூதுவர்கள் நற்சான்று பத்திரங்களை கையளித்தனர்
+### New Ambassadors handed over the credentials
 
 *2024-11-07 16:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்கள்-நற்சான்று-பத்திரங்களை-கையளித்தனர்/175-346729) · `ta`
 
-இலங்கைக்கு புதிதாக உத்தியோகபூர்வ நியமனம் பெற்ற இரு தூதுவர்கள் இன்று (07) ஜனாதிபதி அநுரகுமார திசாநாயக்கவிடம் ஜனாதிபதி அலுவலகத்தில் வைத்து தமது நன்சான்றுப் பத்திரங்களை கையளித்தனர்.
+Egyptian and Japanese ambassadors handed over credentials to Sri Lankan President Anura Kumara Dissanayake at Presidential Office. They engaged in discussions after the ceremony.
 
-எகிப்து அரபுக் குடியரசின் தூதுவர் அதிமேதகு அடெல் இப்ராஹிம்(Adel Ibrahim) மற்றும் ஜப்பான் தூதுவர் அதிமேதகு இசோமாடா அகியோ (ISOMATA Akio) ஆகியோர் இலங்கைக்கான தூதுவர்களாக நியமிக்கப்பட்டுள்ளனர். அவர்கள் நற்சான்றுப் பத்திரங்களை கையளித்த பின்னர் ஜனாதிபதியுடன் சுமூகமான கலந்துரையாடலில் ஈடுபட்டனர்.
+🟩
+
+Two newly officially appointed Ambassadors to Sri Lanka today (07) handed over their bodies to President Anura Kumara Dissanayake at the Presidential Office.
+
+Ambassador of the Arab Republic of Egypt, Adel Ibrahim and Japanese Ambassador, Isomata Akio, have been appointed as Ambassador to Sri Lanka. After handing over the credentials, they engaged in a smooth discussion with the president.
 
 ◼️
 
 [Data](articles/fa9458aa.json)
+
+[Extended Data](ext_articles/fa9458aa.ext.json)
 
 ---
 
@@ -81,6 +89,8 @@ He highlighted that their wish is to provide guidance to the President and alleg
 ...
 
 [Data](articles/b4a92996.json)
+
+[Extended Data](ext_articles/b4a92996.ext.json)
 
 ---
 
@@ -134,21 +144,29 @@ However, the Magistrate said that if the aggrieved party wanted to go to the rel
 
 ---
 
-### மலையக மக்களை அரசியல் அநாதைகளாக்குவதற்கு நாம் இடமளிக்கமாட்டோம் - வடிவேல் சுரேஷ்
+### We will not allow the people of the hill country to make political orphans - Vadivel Suresh
 
 *2024-11-07 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198124) · `ta`
 
-மலையக மக்களை அரசியல் அநாதைகளாக்குவதற்கு நாம் இடமளிக்கமாட்டோம். நிச்சயம் தமிழ்ப் பிரதிநிதித்துவத்தை வென்றெடுப்போம் என்று முன்னாள் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+Vadivel Suresh vows to prevent political orphaning of hill people, promising Tamil representation and strong leadership. He emphasizes unity and protection of hill country interests.
 
-நுவரெலியா மாவட்டத்தில் உள்ள ஐக்கிய ஜனநாயக குரல் கட்சி ஆதரவாளர்களுக்கு கட்சியின் அறிமுகம் மற்றும் கொள்கைகளை அறிமுகப்படுத்தும் தேர்தல் பிரச்சாரக் கூட்டம் அட்டனில் இடம்பெற்றது.
+🟩
 
-இந்த கூட்டத்தில் ஐக்கிய ஜனநாயக குரல் கட்சியின் தலைவர் ரஞ்சன் ராமநாயக்க, ஐக்கிய ஜனநாயக குரல் கட்சியின் நுவரெலியா மாவட்ட தலைமை வேட்பாளர் அனுஷா சந்திரசேகரன், ஷான் பிரதீஸ் உட்பட பதுளை மாவட்ட வேட்பாளர் வடிவேல் சுரேஷ் உள்ளிட்ட பலரும் கலந்துகொண்டனர்.
+We will not allow the hill people to make political orphans. Former parliamentarian Vadivel Suresh said that we will definitely win the Tamil representation.
 
-'பொதுத்தேர்தலில் நான் நுவரெலியா மாவட்டத்தில் போட்டியிட திட்டமிட்டிருந்தேன். ஆனால் எமது பதுளை மாவட்ட மக்கள் என்னை விடவில்லை.  மக்கள் பிரதிநிதித்துவத்தை காக்க நான் அங்கு போட்டியிடுகின்றேன்.
+The election campaign meeting to introduce the party's introduction and policies was held at the United Democratic Voice Party supporters in Nuwara Eliya district.
+
+United Democratic Voice Party leader Ranjan Ramanayake, United Democratic Voice Party Nuwara Eliya District Chief candidate Anusha Chandrasekaran and Badulla district candidate Vadivel Suresh were also present.
+
+'I was planning to contest in Nuwara Eliya district in the general election. But the people of our Badulla district did not leave me.I compete there to protect the representation of the people.
+
+I have sent my son to Nuwara Eliya. Send her and the young female candidate Anusha Chandrasekaran to Parliament.. Send another umbilical cord relationship. Send a total of three from Nuwara Eliya district.
 
 ...
 
 [Data](articles/dd2ef792.json)
+
+[Extended Data](ext_articles/dd2ef792.ext.json)
 
 ---
 
@@ -445,6 +463,38 @@ The candidate is said to be a Member of Parliament for the Trincomalee District 
 [Data](articles/f0723350.json)
 
 [Extended Data](ext_articles/f0723350.ext.json)
+
+---
+
+### Request of commission from the Commission not to fall into low
+
+*2024-11-07 14:17:27* · [`adalk`](https://www.ada.lk/breaking_news/පහත්-මට්ටමට-නොවැටෙන-ලෙස-අපේක්ෂකයන්ගෙන්-කොමිසමෙන්-කළ-ඉල්ලීම/11-412913) · `si`
+
+Saman Sri Ratnayake, Commissioner General of Elections, requests:
+
+
+
+1. Election advertising ends midnight on 11th
+
+2. No advertising during silent period
+
+3. Avoid religious sites and practices for propaganda
+
+4. Refrain from taking photos during blessings or packing ceremonies
+
+5. Maintain dignity and avoid low-level campaigning
+
+🟩
+
+The Commissioner General of Elections Saman Sri Ratnayake said that the advertising on the general election will be completed at midnight.
+
+"Simple is over the 11th to midnight on the 11th. Should not have any kind of advertising in the silent period. Also requested that you do not use religious places and religious places and their religious practices for your propaganda work. If you take a simple example, take the photos and take photos and do not take your personal propaganda at the time of packing or blessings. My belief that such a low level should not be less. "
+
+◼️
+
+[Data](articles/f51a94c2.json)
+
+[Extended Data](ext_articles/f51a94c2.ext.json)
 
 ---
 
@@ -2393,29 +2443,5 @@ It has been advised that the Lion Rooms will be recovered if they do not work fo
 [Data](articles/b7bfeecd.json)
 
 [Extended Data](ext_articles/b7bfeecd.ext.json)
-
----
-
-### We will work together with the President
-
-*2024-11-07 02:44:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியுடன்-நாங்கள்-இணைந்து-செயற்படுவோம்/175-346693) · `ta`
-
-Sri Lanka Muslim Congress aims to elect two MPs in Batticaloa district. Party leader Dr. MLAM Hizbullah says they need 55,000 votes to achieve this goal. They plan to work with the President after elections.
-
-🟩
-
-If a Muslim MP for the Batticaloa district is available, it will be available through the Sri Lanka Muslim Congress.A Muslim MP in any other party. Former Governor and Batticaloa District Muslim Congress candidate, Dr. MLAM Hizbullah said.
-
-He said this while addressing the election campaign meeting held in Ottamavadi - Nawaladi.
-
-MP from Batticaloa district. To take more than 45,000 votes. The people of Kattankudi, Eravur, Valaichenai and Ottamavadi can only join the MP.. 90,000 votes will be cast in the Muslim area in the Batticaloa district.
-
-If 55,000 people vote for the Muslim Congress, two MPs will be elected through the Muslim Congress in the Batticaloa district.. We are meeting to get an additional Member of Parliament in this election.
-
-...
-
-[Data](articles/ae0432d5.json)
-
-[Extended Data](ext_articles/ae0432d5.ext.json)
 
 ---

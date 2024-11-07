@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 20:40:20**
+As of **2024-11-07 21:00:12**
 
 ## Newspaper Stats
 
-*Scraped **53,599** Articles*
+*Scraped **53,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,014
-adaderanalk | 6,389
+adalk | 5,015
+adaderanalk | 6,390
 tamilmirrorlk | 7,464
 virakesarilk | 8,675
 adaderanasinhalalk | 9,342
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,599 (100.0%) of 53,599 articles have been extended.
+53,599 (100.0%) of 53,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Two new Ambassadors present credentials to President Dissanayake
+
+*2024-11-07 20:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103245/two-new-ambassadors-present-credentials-to-president-dissanayake) · `en`
+
+Two newly-appointed Ambassadors to Sri Lanka presented their credentials to President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo today (07).
+
+The two new envoys, Mr. Adel Ibrahim, Ambassador of the Arab Republic of Egypt, and Mr. ISOMATA Akio, Ambassador of Japan, also paid courtesy calls on the President following the presentation of credentials, the President’s Media Division (PMD) stated.
+
+◼️
+
+[Data](articles/60f1749e.json)
+
+---
 
 ### Shakucki suspends all bank accounts
 
@@ -217,6 +231,26 @@ One person has come to shoot, and he has not yet revealed the shooting.
 [Data](articles/5f2d2e1e.json)
 
 [Extended Data](ext_articles/5f2d2e1e.ext.json)
+
+---
+
+### මහ මැතිවරණයට 12 දා සිට විශේෂ බස් සේවා
+
+*2024-11-07 18:54:42* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-12-දා-සිට-විශේෂ-බස්-සේවා/11-412917) · `si`
+
+පාර්ලිමේන්තු මැතිවරණයට අදාළව ඡන්දය ප්‍රකාශ කිරීමට ගම්බිම් බලා යන ජනතාව වෙනුවෙන් මේ මස 12වන දින සිට විශේෂ බස් සේවා ක්‍රියාත්මක කරන බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+
+පසුගිය ජනාධිපතිවරණයේදී ගම්බිම් බලා යන ජනතාවට ප්‍රමාණවත් තරම් බස් රථ නොමැති වීම නිසා ජනතාව දුෂ්කරතාවන්ට පත් වූ බවද එම සංගමයේ සභාපති ගැමුණු විජේරත්න මහත සඳහන් කළේය.
+
+ලංගම බස් රථ මැතිවරණ රාජකාරි සඳහා යෙදවීම නිසා මෙම තත්ත්වය ඇති වූ බවත්, එහෙත් මෙවර 12වන දින සිට බස් රථ යෙදවීමට කටයුතු කරන නිසා මගීන්ට අපහසුතාවයක් නොමැතිව ගම්බිම් බලා යාමට හැකිවන බවද පැවසීය. ඊයේ (07දා) කොළඹදී පැවැති මාධ්‍ය සාකච්ඡාවකදී මේ බව සඳහන් කළ සභාපතිවරයා වැඩිදුරටත් සඳහන් කළේ මෙවර මැතිවරණයේදී බස් සංගමයක් ලෙස කිසිදු පක්ෂයකට සහාය නොදක්වන බවයි.
+
+පවතින දේශපාලන තත්ත්වය තුළ කිසිදු පක්ෂයකට බහුතර බලයක් ලබා ගැනීමට නොහැකි වන බවත්, මේ නිසා ඉදිරියේදී හවුල් ආණ්ඩුවක් ඇති විය හැකි බවද පැවසීය.
+
+ඇමරිකානු ජනාධිපතිවරණයේදී ඩොනල්ඩ් ට්‍රම්ප් ජයග්‍රහණය කරන බවට තමන් විසින් 2022 වසරේදී පළ කළ බල රංගනය පොත මගින් පෙන්වා දුන් බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/2718806d.json)
 
 ---
 
@@ -2411,51 +2445,5 @@ Meanwhile, postal voters who were unable to cast their votes on the designated d
 [Data](articles/ceae3cda.json)
 
 [Extended Data](ext_articles/ceae3cda.ext.json)
-
----
-
-### Deadline for surrendering licensed firearms extended
-
-*2024-11-07 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103223/deadline-for-surrendering-licensed-firearms-extended) · `en`
-
-The Ministry of Defence has extended the period granted to surrender all licensed firearms issued to civilians until November 21, 2024.
-
-The Ministry initially set a one-month deadline, concluding on November 7, for all firearms and ammunition issued to civilians for self-defense and other purposes to be returned to the relevant authorities.
-
-However, it has been decided to provide an extension to the relevant period, following the consideration of several facts, the Defence Ministry said.
-
-On October 04, the Ministry of Defence announced that all firearms and ammunition provided to civilians for self-defence will be acquired by the government and that they must be handed over to the relevant authorities before 07 November.
-
-Furthermore, the Defence Ministry stated that they will be returned pending a review and consideration of the need to possess such firearms.
-
-...
-
-[Data](articles/5f609ab8.json)
-
-[Extended Data](ext_articles/5f609ab8.ext.json)
-
----
-
-### Film crashes on a person
-
-*2024-11-07 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202995) · `si`
-
-A miner died in a crash at Hattatota, Laggala. Four others were involved. Body at Laggala hospital. Police investigating.
-
-🟩
-
-He died on a man who was working on a mine at the Hattatota area in the Laggala Police Division.
-
-The accident had occurred yesterday (06), a resident of Amunagama, a 40 year old, Hattota.
-
-Investigations have revealed that the accident had occurred when four other people, including the deceased.
-
-The remains are placed at the Laggala hospital morgue and Laggala police are conducting further investigations.
-
-◼️
-
-[Data](articles/0f96e38e.json)
-
-[Extended Data](ext_articles/0f96e38e.ext.json)
 
 ---

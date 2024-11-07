@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 00:13:58**
+As of **2024-11-08 00:25:22**
 
 ## Newspaper Stats
 
-*Scraped **53,620** Articles*
+*Scraped **53,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
 tamilmirrorlk | 7,465
-virakesarilk | 8,675
+virakesarilk | 8,677
 adaderanasinhalalk | 9,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,615 (100.0%) of 53,620 articles have been extended.
+53,618 (100.0%) of 53,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,34 @@ BRICS, an economic and political group has been gaining increasing relevance in 
 [Data](articles/567cb27b.json)
 
 [Extended Data](ext_articles/567cb27b.ext.json)
+
+---
+
+### Wealth Adakkalanathan should resign
+
+*2024-11-07 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198144) · `ta`
+
+Vindhan Kanakaratnam calls for Resignation of Relo Organization leader Selvam Adakkalanathan due to alleged corruption and neglect of Tamil interests.
+
+🟩
+
+Relo's executive secretary and former member of the Northern Provincial Council, Vindhan Kanakaratnam said that the president of the Relo Organization Selvam Adakkalanathan should immediately quit the leadership.
+
+Yall. He said this during a media briefing held at the Media Center on Thursday (7).
+
+Jaffna has a criminal case in Colombo, which is anti -Tamil acts.Relo is contesting on behalf of the electoral district. I strongly oppose it.
+
+I am ready to release their documents and they will not take action against me and hand over all the documents.
+
+When everyone worked to vote for the Sangam symbol in the last presidential election, the Vanni electoral district did not work in the Vanni electoral district.
+
+The then President Ranil Wickremesinghe received a large amount of money and did not work for the conch symbol.
+
+...
+
+[Data](articles/90ed26e5.json)
+
+[Extended Data](ext_articles/90ed26e5.ext.json)
 
 ---
 
@@ -139,6 +167,28 @@ After considering the submissions, the panel order to suspend the examination of
 [Data](articles/3b76f23b.json)
 
 [Extended Data](ext_articles/3b76f23b.ext.json)
+
+---
+
+### Discussion with the Eastern Governor on the issues of fishermen
+
+*2024-11-07 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198143) · `ta`
+
+Governor discusses fishermen issues with officials. Problems: illegal fishing, confiscated fish, drug intimidation, banned nets. Police lack security at fishing port. Governor orders Coast Guard/Marines to stop illegal fishing methods. Emphasizes law compliance for all fishermen.
+
+🟩
+
+The Governor of the Eastern Province. A discussion was held on Thursday (07) at the Governor's Office in Trincomalee on the issues facing the representatives of Jayantha Lal Ratnasekara and the Trincomalee District Fishermen's Association.
+
+A team of officials representing the Trincomalee District Secretariat, the Sri Lanka Police, the Fisheries Corporation, the Kodpe Fisheries Port, the Ports Authority and the Central Environmental Authority were also present.
+
+The fishermen representatives of the Trincomalee district have been presenting the problems faced by the Governor and the relevant authorities.Fishermen's association representatives have informed the regional and officials on issues such as the forced fishing of fishing, the problems of the confiscated fish, the problems of the seized fish, the drug intimidation in the fishing port, and the killing of fish using banned nets.
+
+...
+
+[Data](articles/ef6fafa7.json)
+
+[Extended Data](ext_articles/ef6fafa7.ext.json)
 
 ---
 
@@ -1027,6 +1077,8 @@ The think tank said several methods for overseas Sri Lankans to vote in the upco
 ...
 
 [Data](articles/df659dd0.json)
+
+[Extended Data](ext_articles/df659dd0.ext.json)
 
 ---
 
@@ -2373,51 +2425,5 @@ Announcing the results Wanderlust said: “Known as the ‘Pearl of the Indian O
 [Data](articles/1c0d7288.json)
 
 [Extended Data](ext_articles/1c0d7288.ext.json)
-
----
-
-### Germany faces snap election as Scholz’s coalition crumbles
-
-*2024-11-07 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103228/germany-faces-snap-election-as-scholzs-coalition-crumbles) · `en`
-
-Germany’s ruling coalition collapsed on Wednesday as Chancellor Olaf Scholz sacked his finance minister and paved the way for a snap election, triggering political chaos in Europe’s largest economy hours after Donald Trump won the U.S. presidential election.
-
-After sacking Finance Minister Christian Lindner of the Free Democrats (FDP) party, Scholz is expected to head a minority government with his Social Democrats and the Greens, the second-largest party.
-
-He would have to rely on cobbled-together parliamentary majorities to pass legislation and he plans to hold a parliamentary confidence vote in his government on Jan. 15, which could trigger snap elections by the end of March.
-
-Scholz said he would ask Friedrich Merz, leader of the opposition conservatives who are far ahead in polls, for support in passing the budget and boosting military spending. Merz is due to respond in a Thursday morning news conference.
-
-...
-
-[Data](articles/0c688700.json)
-
-[Extended Data](ext_articles/0c688700.ext.json)
-
----
-
-### Orders to close ticktock offices in Canada
-
-*2024-11-07 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202998) · `si`
-
-Sri Lanka orders closure of TikTok offices in Canada citing national security concerns. Canadian government denies access to platform. TikTok disputes decision, considering legal action.
-
-🟩
-
-The Government of Sri Lanka has ordered to close offices in Canada, who belongs to the Chinese Ticktock Social Network.
-
-The Canadian government has ordered to close the relevant institutions stating that national security is a threat to national security.
-
-The government has informed the Canadian to access the Ticktock social network online.
-
-However, a spokesman for Tik Tok is deprived of the government's decision to close the institutions due to the government's decision.
-
-Foreign media reports that they have decided to refer to a court initiative against the decision of the Canadian government.
-
-◼️
-
-[Data](articles/05857e8e.json)
-
-[Extended Data](ext_articles/05857e8e.ext.json)
 
 ---

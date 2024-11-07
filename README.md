@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 10:00:02**
+As of **2024-11-07 10:12:58**
 
 ## Newspaper Stats
 
-*Scraped **53,500** Articles*
+*Scraped **53,505** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,145 @@ islandlk | 3,200
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 4,998
+adalk | 4,999
 adaderanalk | 6,373
 tamilmirrorlk | 7,448
-virakesarilk | 8,648
+virakesarilk | 8,652
 adaderanasinhalalk | 9,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,498 (100.0%) of 53,500 articles have been extended.
+53,500 (100.0%) of 53,505 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### රත්වත්තේ සහ ඔහුගේ බිරිඳ අධිකරණයට
+### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
+
+*2024-11-07 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198075) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mannar residents oppose soil sampling for sand mining. Police file case against protesters. Environmental officials collect samples despite resistance from locals and activists.
+
+🟩
+
+The Mannar Police in Mannar on Wednesday afternoon, the Mannar Police had filed a case with the Mannar Police in protest of the activities of the people and public organizations in order to obtain samples to inspect the mudslides for the heavy sand excavation of the people, including the private land of the people of the Mannar Divisional Secretariat Division.Attorney -at -Law S.Dinesan said that a hand was purchased by the police.
+
+With the permission of the Environmental Authority, the Assistant Government Agent of Mannar, including about 20 State Department officials, visited the area on Wednesday morning to obtain samples for inspecting the soil in the Mannar Divisional Secretariat Division.
+
+During this time, the people, social activists, former MP and civil organizations who visited the area came to the spot and expressed their opposition to obtaining samples of inspecting the soil.
+
+...
+
+[Data](articles/8ff417dd.json)
+
+[Extended Data](ext_articles/8ff417dd.ext.json)
+
+---
+
+### Ratwatte and his wife to court
 
 *2024-11-07 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202997) · `si`
 
-බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ සහ ඔහුගේ බිරිඳ නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන විත් තිබේ.
+Lohan Ratwatte and wife appear court Colombo National Hospital Nugegoda Magistrate's Court
+
+🟩
+
+Former State Minister Lohan Ratwatte and his wife who is receiving treatment at the Colombo National Hospital under the safety of the prison officials have been taken to the Nugegoda Magistrate's Court.
 
 ◼️
 
 [Data](articles/3291d741.json)
 
+[Extended Data](ext_articles/3291d741.ext.json)
+
 ---
 
-### අවුරුදු 16ට අඩු ළමුන්ට සමාජ මාධ්‍ය තහනම් - ඔස්ට්‍රේලියාවෙන් නව නීති
+### Social media is banned for children under 16 years - new rules from Australia
 
 *2024-11-07 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202996) · `si`
 
-වයස අවුරුදු 16ට අඩු ළමුන් සඳහා සමාජ මාධ්‍ය තහනම් කිරීමට ඔස්ට්‍රේලියානු රජය තීරණය කර ඇති බව වාර්තා වෙයි.
+Australia bans social media for minors under 16. New law aims to protect children from online harms. Parents can still allow use with consent. Government warns tech companies to safeguard young users.
 
-එම යෝජනාව සහිත නව නීති එළැඹෙන සතියේදී එරට පාර්ලිමේන්තුවට ඉදිරිපත්කරන බව ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය ඇන්තනි ඇල්බනීස් පැවසීය.
+🟩
 
-ඔස්ට්‍රේලියානු දරුවන්ට සමාජ මාධ්‍ය ඔස්සේ සිදුවන හානි අවම කිරීම සඳහා මෙම නව නීති ගෙන එන බව සඳහන් ය.
+It is reported that the Australian government has decided to ban social media for children under the age of 16.
 
-අගමැතිවරයා පැවසුවේ, "මෙය අපේ පියවරුන්ට සහ මව්වරුන්ට ඔවුනුත් මම වගේම අන්තර්ජාලය නිසා දරුවන්ට හානියක් වෙතැයි කනගාටුවෙනවා...මම කැමතියි ඔස්ට්‍රේලියානු දෙමව්පියන්ට කියන්න, රජය ඔබ සමග ඉන්නවා..." යනුවෙනි.
+Australian Prime Minister Anthony Albena said that the new laws with that proposal would be presented to Parliament in Parliament.
 
-එහෙත් දැනටමත් සමාජ මාධ්‍ය භාවිත කරන දරුවන් සඳහා එම තහනම බලාත්මක නොකරන බව සඳහන් ය.
+These new laws states that these laws are being brought to minimize the damage caused by the Australian children.
 
-එසේම දෙමව්පියන්ගේ කැමැත්ත සහිතව සමාජ මාධ්‍ය පරිශීලකයින් වන දරුවන්ට ද මෙම තහනම අදාළ නොවන බව එරට බලධාරීන් පැවසීය.
+The Prime Minister said: "It is regrettable to our fathers and mothers to harm their children, and the government is with you ...".
 
-නමුත් තරුණ පරිශීලකයින් ආරක්ෂා කිරීමට අපොහොසත් වන තාක්ෂණික සමාගම්වලට එරෙහිව දැඩි පියවර ගන්නා බව ද ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා පැවසීය.
+But that ban is not being implemented for children using social media.
+
+The ban is also not relevant that the ban will not apply to social media children with parental will.
+
+However, the Australian Prime Minister said that he would take serious action against technicians who fail to protect young users.
 
 ◼️
 
 [Data](articles/96a4d8f6.json)
+
+[Extended Data](ext_articles/96a4d8f6.ext.json)
+
+---
+
+### கண்டியில் சந்தேகத்திற்கிடமான முறையில் நபரொருவர் உயிரிழப்பு!
+
+*2024-11-07 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198083) · `ta`
+
+கண்டி பொலிஸ் பிரிவுக்குட்பட்ட அம்பிட்டிய மீகனுவ வீதியில் முச்சக்கரவண்டிக்கு அருகில் வீழ்ந்து  கிடந்த  நபர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+சம்பவம் தொடர்பில் பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று புதன்கிழமை (06) விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+
+கண்டி வீதியில் மின்கம்பமொன்றுக்கு அருகில் முச்சக்கரவண்டி ஒன்று நிறுத்தப்பட்டிருந்த நிலையில் அதன் சாரதி என சந்தேகிக்கப்படும் நபர் ஒருவர் முச்சக்கரவண்டிக்கு அருகில் விழுந்து கிடந்துள்ளார்.
+
+மேலும் ,உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக கண்டி வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், கண்டி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b1c6dd7d.json)
+
+---
+
+### வரிசைகள் இல்லாமலாக்கப்பட்டு கடவுசீட்டு விநியோகம் ஆரம்பிக்கப்பட்டுள்ளது - அமைச்சரவை பேச்சாளர் விஜித ஹேரத்
+
+*2024-11-07 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198045) · `ta`
+
+கடவுசீட்டுகளை ஒரே சந்தர்ப்பத்தில் பெற்றுக் கொள்வதற்கு பதிலாக தொகுதி தொகுதியாக பெற்றுக் கொள்ளும் வகையிலேயே கடந்த அரசாங்கம் இணக்கப்பாட்டை எட்டியுள்ளது. எனவே தான் மக்களின் தேவைக்கேற்ப அவற்றை வழங்க முடியாத நிலைமை ஏற்பட்டது. எனினும் தற்போது வரிசைகள் இல்லாமலாக்கப்பட்டு கடவுசீட்டு விநியோகம் ஆரம்பிக்கப்பட்டுள்ளதாக அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+
+அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு புதன்கிழமை (06) நடைபெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+தற்போது அனுபவம் குறித்து பேசுபவர்கள் ஏற்படுத்திய பிரச்சினையின் விளைவாகவே கடவுசீட்டைப் பெற்றுக் கொள்வதற்காக மக்கள் வரிசையில் நிற்கின்றர். எவ்வாறிருப்பினும், இதனை ஓரளவு முகாமைத்துவம் செய்து தற்போது கடவுசீட்டுக்களைப் பெற்றுக் கொள்ள நடவடிக்கை எடுத்திருக்கின்றோம். அதற்கமைய தொகுதி தொகுதியாக கடவுசீட்டுக்கள் கிடைக்கப் பெறுகின்றன.
+
+...
+
+[Data](articles/e7b2b687.json)
+
+---
+
+### துப்பாக்கிகளை மீள ஒப்படைப்பதற்கான காலவகாசம் நீடிப்பு
+
+*2024-11-07 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198084) · `ta`
+
+பொதுமக்களுக்கு வழங்கப்பட்ட அனைத்து உரிமம் பெற்ற துப்பாக்கிகள் மற்றும் ரவைகளை ஒப்படைக்க வழங்கப்பட்ட  கால அவகாசகத்தை நவம்பர் மாதம் 21 ஆம் திகதி வரை நீடித்துள்ளதாக பாதுகாப்பு அமைச்சு அறிவித்துள்ளது.
+
+தற்காப்பு மற்றும் பிற நோக்கங்களுக்காக பொதுமக்களுக்கு வழங்கப்பட்ட அனைத்து துப்பாக்கிகள் மற்றும் ரவைகளை  சம்பந்தப்பட்ட அதிகாரிகளிடம் மீள ஒப்படைப்பதற்கு நவம்பர் மாதம் 7 ஆம் திகதியுடன் முடிவடையும் ஒரு மாத கால அவகாசகத்தை அமைச்சகம் வழங்கியது.
+
+பொதுமக்களுக்கு தற்காப்புக்காக வழங்கப்பட்ட அனைத்து துப்பாக்கிகள் மற்றும் ரவைகள் அரசாங்கத்தினால் கையகப்படுத்தப்படும் எனவும், அவற்றை நவம்பர்  மாதம் 07ஆம் திகதிக்கு முன்னர் உரிய அதிகாரிகளிடம் ஒப்படைக்க வேண்டும் எனவும் ஒக்டோபர் மாதம் 04ஆம் திகதி பாதுகாப்பு அமைச்சு அறிவித்தது.
+
+பாதுகாப்பு அமைச்சுக்கு வழங்கப்பட்ட துப்பாக்கிகளை மீளாய்வு செய்ததன் பின்னர், அவற்றை மீண்டும் வழங்க எதிர்பார்த்துள்ளதாக பாதுகாப்பு அமைச்சு மேலும் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/e8bc6c64.json)
 
 ---
 
@@ -277,6 +367,22 @@ It has been reported that the time has been extended to bring the firearms to th
 [Data](articles/81ec1988.json)
 
 [Extended Data](ext_articles/81ec1988.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවෙන් නව ශාක විශේෂයක් සොයා ගනියි
+
+*2024-11-07 07:55:47* · [`adalk`](https://www.ada.lk/picture_story/ශ්‍රී-ලංකාවෙන්-නව-ශාක-විශේෂයක්-සොයා-ගනියි/10-412901) · `si`
+
+ශ්‍රී ලංකාවෙන් නව ශාක විශේෂයක් සොයා ගැනීමට උද්භිද උද්‍යාන දෙපාර්තමේන්තුවේ ජාතික ශාකාගාරයේ පර්යේෂණ කණ්ඩායමකට හැකියාව ලැබී තිබේ.
+
+ශ්‍රී ලංකාවේ මධ්‍යම කඳුකරයේ නුවරඑළිය, හක්ගල දැඩි ස්වාභාවික  රක්ෂිත භූමියෙන් මෙම නව ශාක විශේෂය හඳුනා ගැනීමට එම පර්යේෂණ කණ්ඩායමට හැකියාව ලැබී ඇති අතර, උද්භිද විද්‍යාත්මකව එම ශාකය කෝලියාස් හක්ගලෙන්සිස් අබේසේකර, කසුනිකා, හලුවන සහ නිලන්ක (Coleus Hakgalensis Abeysekara, Kasunika, Haluwana & Nilanka) යනුවෙන් නම් කිරීමට පියවර ගෙන ඇත.
+
+2022 වසරේ අග භාගයේ සිට මධ්‍යම කඳුකරය ආවරණය වන පරිදි හක්ගල දැඩි ස්වාභාවික රක්ෂිත වනාන්තරය ආශ්‍රිතව ආරම්භ කරන ලද ශාක ගවේෂණ කටයුතුවල ප්‍රතිඵලයක් ලෙස 2024 වසරේ දුෂ්කර මාර්ග ඔස්සේ උන්නතාංශ මීටර් 1900ත් 2100ත් අතර සිදු කරන ලද පර්යේෂණවලදී මෙම නව ශාක විශේෂය සොයා ගැනීමට පර්යේෂණ කණ්ඩායමට හැකිව තිබේ. මින්ට් (Lamiaceae) ශාක කුලයට අයත් නව කෝලියාස් (Coleus) ශාක විශේෂයක් ලෙස මෙම නව ශාක විශේෂය හඳුනා ගැනීමට පර්යේෂණයේ නියැළුණු සුමේධා අබේසේකර, ඕවිටිමුල්ලගේ  කසුනිකා, නිශාන්ති හළුවන සහ නඳුන් නිලංක යන පර්යේෂණ කණ්ඩායම සමත්ව තිබේ.
+
+...
+
+[Data](articles/b574ea39.json)
 
 ---
 
@@ -500,6 +606,28 @@ If 55,000 people vote for the Muslim Congress, two MPs will be elected through t
 
 ---
 
+### Donald Trump's victory rose shares, dollar value rose
+
+*2024-11-07 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198079) · `ta`
+
+Donald Trump's presidency boosted US stock market and dollar value. Chinese stocks fell slightly, but Elon Musk's Tesla rose 13%. Tax cuts may increase US economy costs, while potential export taxes could raise global product prices.
+
+🟩
+
+Donald Trump won the US presidential election and the value of US companies and dollars has increased.
+
+Foreign media reports that Chinese stocks have fallen slightly while Elon Muskin Tesla has risen 13 percent.
+
+It is noteworthy that the promised tax cuts are expected to increase the price of the US economy, while the threatening to tax on foreign exports will increase the prices of goods.
+
+◼️
+
+[Data](articles/469a8fa8.json)
+
+[Extended Data](ext_articles/469a8fa8.ext.json)
+
+---
+
 ### The success of the Congress Congress is the protection of the hill country
 
 *2024-11-07 02:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கிரஸின்-வெற்றியே-மலையகத்தின்-பாதுகாப்பு/175-346692) · `ta`
@@ -519,6 +647,28 @@ Speaking at the election campaign meeting held in Maskeliya, he added,
 [Data](articles/3aac7d25.json)
 
 [Extended Data](ext_articles/3aac7d25.ext.json)
+
+---
+
+### பீர் உற்பத்திக்காக அதிகளவு அரிசி வழங்கப்படுவதால் அரிசி தட்டுப்பாட்டுக்கு காரணம் - சிறு மற்றும் நடுத்தர ஆலை உரிமையாளர்கள் சங்கம்
+
+*2024-11-07 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198081) · `ta`
+
+பீர் உற்பத்திக்காக அதிகளவு அரிசி வழங்கப்படுவதால் சந்தையில் அரிசி தட்டுப்பாடு ஏற்படுவதற்கு நேரடிப் பாதிப்பு ஏற்பட்டுள்ளதாக சிறு மற்றும் நடுத்தர ஆலை உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+
+U.K.வின் சிறு மற்றும் நடுத்தர தொழில்கள் சங்கத்தின் தலைவர் பீர் உற்பத்திக்கு பயன்படுத்தப்படும் கச்சா அரிசி நெல் அறுவடை மூலம் உற்பத்தி செய்யப்படுவதாக சேமசிங்க சுட்டிக்காட்டுகிறார்.
+
+"பீர் தயாரிக்க கச்சா அரிசி தேவை. ஆனால் பீர் தயாரிக்க தேவையான கச்சா அரிசி நெல் அரிசியில் இருந்து பெறப்படுகிறது. எனவே, பீர் உற்பத்திக்கு அதிக சதவீதத்தை இயக்கும்போது, நெல் அரிசி உற்பத்திக்கு தேவையான நெல் பற்றாக்குறை உள்ளது. "
+
+அரிசி விலையை கட்டுப்படுத்த அரசு உடனடியாக தலையிட்டு நடவடிக்கை எடுக்க வேண்டும் என விவசாய அமைப்புகள் கோரிக்கை விடுத்துள்ளன.
+
+தற்போது வரை கட்டுப்பாட்டு விலையில் அரிசி கிடைக்கவில்லை என கடைக்காரர்கள் குற்றம் சாட்டுகின்றனர்.
+
+கடந்த சில வாரங்களாக இலங்கை சந்தையில் அரிசியின் விலை அதிகரித்து அரிசி தட்டுப்பாடும் ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/32ff4d47.json)
 
 ---
 
@@ -571,28 +721,6 @@ It is worth noting that if the candidate of the particular party in a province w
 [Data](articles/1885a4d6.json)
 
 [Extended Data](ext_articles/1885a4d6.ext.json)
-
----
-
-### Donald Trump's victory rose shares, dollar value rose
-
-*2024-11-07 02:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198079) · `ta`
-
-Donald Trump's presidency boosted US stock market and dollar value. Chinese stocks fell slightly, but Elon Musk's Tesla rose 13%. Tax cuts may increase US economy costs, while potential export taxes could raise global product prices.
-
-🟩
-
-Donald Trump won the US presidential election and the value of US companies and dollars has increased.
-
-Foreign media reports that Chinese stocks have fallen slightly while Elon Muskin Tesla has risen 13 percent.
-
-It is noteworthy that the promised tax cuts are expected to increase the price of the US economy, while the threatening to tax on foreign exports will increase the prices of goods.
-
-◼️
-
-[Data](articles/469a8fa8.json)
-
-[Extended Data](ext_articles/469a8fa8.ext.json)
 
 ---
 
@@ -1363,32 +1491,6 @@ He also said that I expect to work with you to achieve the general goals of our 
 [Data](articles/f707b360.json)
 
 [Extended Data](ext_articles/f707b360.ext.json)
-
----
-
-### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
-
-*2024-11-06 19:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198075) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mannar residents oppose soil sampling for sand mining. Police file case against protesters. Environmental officials collect samples despite resistance from locals and activists.
-
-🟩
-
-The Mannar Police in Mannar on Wednesday afternoon, the Mannar Police had filed a case with the Mannar Police in protest of the activities of the people and public organizations in order to obtain samples to inspect the mudslides for the heavy sand excavation of the people, including the private land of the people of the Mannar Divisional Secretariat Division.Attorney -at -Law S.Dinesan said that a hand was purchased by the police.
-
-With the permission of the Environmental Authority, the Assistant Government Agent of Mannar, including about 20 State Department officials, visited the area on Wednesday morning to obtain samples for inspecting the soil in the Mannar Divisional Secretariat Division.
-
-During this time, the people, social activists, former MP and civil organizations who visited the area came to the spot and expressed their opposition to obtaining samples of inspecting the soil.
-
-...
-
-[Data](articles/8ff417dd.json)
-
-[Extended Data](ext_articles/8ff417dd.ext.json)
 
 ---
 
@@ -2201,139 +2303,5 @@ China and Sri Lanka are far from, but our friendly exchange has been lasted for 
 [Data](articles/7dafe7af.json)
 
 [Extended Data](ext_articles/7dafe7af.ext.json)
-
----
-
-### It is not our intention to use media repression: We demand responsibility - the government
-
-*2024-11-06 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198046) · `ta`
-
-Here's a 200-character summary:
-
-
-
-National People's Power Government denies media oppression. Cabinet spokesperson Vijitha Herath emphasizes moral conduct. Prime Minister Harini Amarasuriya doesn't disrupt journalists. Security measures ensure her safety. Media urged to act ethically.
-
-🟩
-
-The National People's Power Government has never applied media oppression. We do not have the need for it. Cabinet spokesman Vijitha Herath said the media should act in accordance with morals.
-
-He further stated that when the press conference announcing the Cabinet decisions was held on Wednesday (6).
-
-Prime Minister Harini Amarasuriya does not use media oppression in any case. Does not disrupt journalists. Security officials have carried out tasks to ensure his safety.
-
-Do not distort security authorities as media repression. Did not even accommodate to go near the Prime Minister in the past. But now the change is clearly observed.
-
-So we urge you not to exaggerate small things. We have no need to suppress the media. So we urge the media to act in accordance with their morals.
-
-◼️
-
-[Data](articles/dca46766.json)
-
-[Extended Data](ext_articles/dca46766.ext.json)
-
----
-
-### Actress Oviya starrer 'Xavier'
-
-*2024-11-06 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198056) · `ta`
-
-Oviya stars in Xavier, a Tamil comedy film featuring Harbhajan Singh. Directed by John Balraj, it combines humor, horror, and unexpected hospital settings. The teaser is upcoming.
-
-🟩
-
-The new film, starring Harbhajan Singh, a former spinner and actor of the Indian cricket team, has been named 'Xavier' and has released the appearance of the character he adopted.
-
-Harbhajan Singh, Oviya, G.. B.. Muthu, VDV Ganesh and many others have acted.
-
-TM Udayakumar has composed the film, which has been recorded by Manik. The film was produced by director John Balraj on behalf of Santova Studios.
-
-Commenting on the film, producer and director John Balraj said, “The film's screenplay is set up with humor, horror and unexpected turns in the backdrop of the hospital.
-
-Currently we have released the appearance of the role that the actors are loaded with. The hero of the story, Harbhajan Singh - Dr. James Malhotra, and the character of Oviya - Varna. B.. They appear in the role of Muthu - Muthu Mama and VDV Ganesh - Katapara Ganesan. The teaser will be released soon. ”
-
-...
-
-[Data](articles/78ee4bdb.json)
-
-[Extended Data](ext_articles/78ee4bdb.ext.json)
-
----
-
-### Due to lack of concern, corruption and abuse of workers, I decided to quit the party.
-
-*2024-11-06 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198055) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former worker quits party due to corruption, neglect of workers' welfare. Criticizes new members, accuses party of misusing funds, selling offices, and cheating workers. Calls for election of honest members to combat national corruption.
-
-🟩
-
-The Ceylon Workers Congress, built by workers, is traveling today. Newcomers, who are not concerned about the welfare of the workers, spend time in the process of getting broke out, and involvement in senior members.. "If there is more than that, we will have to quit because of our self -interest," said Arulanandam Philipkumar, a former member of the Central Provincial Council and a former member of the Central Provincial Council.
-
-He was speaking at a media briefing held at Attan on Tuesday (05).
-
-I have been working in the Congress for the past 38 years. I made this meeting today with the pride that there were no accusations against me in all these years. People have to know some facts about the conditions of the current party.
-
-Whether it is a housing plan and what developments, new members of the party and high -ranking dignitaries are working on the commission.
-
-...
-
-[Data](articles/807a434f.json)
-
-[Extended Data](ext_articles/807a434f.ext.json)
-
----
-
-### Shinwankers who came forward with the responsibility of leadership
-
-*2024-11-06 16:21:03* · [`adalk`](https://www.ada.lk/sports/නායකත්වයේ-වගකීමත්-අතැතිව-ශ්‍රේණිගත-කිරීම්-හී-ඉදිරියට-පැමිණි-අසලංක/9-412890) · `si`
-
-Sri Lanka cricket team updates: Captain Charith moves up 10 spots to 10th globally; Kusal Mendis advances one position to 35th.
-
-🟩
-
-The latest rankings have been published by the International Cricket Council.
-
-Accordingly, Sri Lanka captain Charith has come forward to 10th to 10 places in Sri Lanka.
-
-The rankings of those ranks are still staying in the 7th.
-
-Meanwhile, Kusal Mendis has come forward from one place to 35th.
-
-◼️
-
-[Data](articles/e75a7269.json)
-
-[Extended Data](ext_articles/e75a7269.ext.json)
-
----
-
-### Meeting between the Prime Minister and ICC Senior Officers
-
-*2024-11-06 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202974) · `si`
-
-Prime Minister Dr. Weli Amarasuriya met ICC officers. Discussion focused on Sri Lanka's anti-corruption efforts in cricket over past 7 years. Key points: player protection, strengthening investigations, collaboration between sports ministry and cricket board. Attendees included ICC President's Counsel Sumathi Dharma Dharmawardena and Senior Attorney General Ileperuma.
-
-🟩
-
-Alexal, General Manager of the Prime Minister Dr. Weli Amarasuriya and International Cricket Council (ICC) Integrity and Human Resources (ICC) Integt and Human Resources has been held yesterday.
-
-I. C. C. President's Counsel Sumathi Dharma Dharmawardena was also present at the occasion.
-
-Here, Alex Marshal has given the attention of Sri Lanka's progress against corruption activities in cricket in the last seven years.
-
-The importance of the players of the players and the Ministry of Sports have shown requirements for strengthening special investigations.
-
-This discussion is. C. C. Mr. Andrew Fraeee of the Chief Manager of the Corruption Unit Senior Attorney General's Senior Attorney General. Mrs. Ileperuma and Director General of Sports Professor Shemal Fernando were also present.
-
-◼️
-
-[Data](articles/3d625ae5.json)
-
-[Extended Data](ext_articles/3d625ae5.ext.json)
 
 ---

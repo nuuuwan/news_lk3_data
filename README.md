@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 10:58:38**
+As of **2024-11-07 11:11:27**
 
 ## Newspaper Stats
 
-*Scraped **53,512** Articles*
+*Scraped **53,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,169 @@ islandlk | 3,200
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 4,999
-adaderanalk | 6,374
-tamilmirrorlk | 7,451
-virakesarilk | 8,654
-adaderanasinhalalk | 9,325
+adalk | 5,001
+adaderanalk | 6,376
+tamilmirrorlk | 7,452
+virakesarilk | 8,656
+adaderanasinhalalk | 9,326
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,512 (100.0%) of 53,512 articles have been extended.
+53,516 (100.0%) of 53,520 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### இரத்தினக்கல் அகழ்வில் ஈடுபட்ட நபர் மண்மேடு சரிந்து விழுந்து உயிரிழப்பு !
+
+*2024-11-07 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198093) · `ta`
+
+லக்கல பொலிஸ் பிரிவிற்குட்பட்ட ஹத்தொட்ட  அமுன பகுதியில்  உள்ள சுரங்கமொன்றில் இரத்தினக்கல் அகழ்வில் ஈடுபட்ட நபர் மண்மேடு சரிந்து விழுந்ததில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்து நேற்று  புதன்கிழமை (06) இடம்பெற்றுள்ளதுடன் உயிரிழந்தவர் ஹத்தொட்ட  அமுன பகுதியைச் சேர்ந்த  40 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர் உட்பட மேலும் நால்வர் தனியார் காணி ஒன்றில்  இரத்தினக்கல் அகழ்வு  மேற்கொண்ட  போதே இந்த விபத்து இடம்பெற்றுள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
+
+மேலும், உயிரிழந்தவரின் சடலம் லக்கல வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை லக்கல பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/c3aa91d9.json)
+
+---
+
+### වංචා දූෂණවලින් තොර රටක් බිහි කිරීමේ රජයේ වැඩපිළිවෙළට බ්‍රිතාන්‍යයේ සහාය
+
+*2024-11-07 10:54:59* · [`adalk`](https://www.ada.lk/breaking_news/වංචා-දූෂණවලින්-තොර-රටක්-බිහි-කිරීමේ-රජයේ-වැඩපිළිවෙළට-බ්‍රිතාන්‍යයේ-සහාය/11-412903) · `si`
+
+ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් ඇන්ඩෲ පැට්‍රික් (Andrew Patrick) මහතා අතර හමුවක් ඊ්යේ (06) පස්වරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී සිදු විය.
+
+ශ්‍රී ලංකාව සහ බ්‍රිතාන්‍ය අතර පවතින ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට අපේක්ෂා කරන බව මෙම හමුවේදී බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා ප්‍රකාශ කළේය.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ක්‍රියාත්මක වැඩසටහන පිළිබඳව බ්‍රිතාන්‍ය රජය අගය කරන බවත්, වංචා දූෂණවලින් තොර රටක් බිහි කිරීමේ රජයේ වැඩපිළිවෙළ සාක්ෂාත් කර ගැනීම සහ රාජ්‍ය ආදායම වැඩි කර ගැනීම සඳහා අවශ්‍ය සහාය ලබාදීමට බ්‍රිතාන්‍ය රජය සූදානම් බවත් ඇන්ඩෲ පැට්‍රික් මහතා මෙහිදී අවධාරණය කළේය.
+
+එසේම පළාත් පාලන ආයතන පිළිබඳ බ්‍රිතාන්‍යයේ පවතින ක්‍රමවේදය ඉතා වැදගත් වන බවත්, එම ක්‍රමවේදය තුළින් වංචා දූෂණ අවම කර ගැනීමට හැකියාව පවතින බවත් සඳහන් කළ මහ කොමසාරිස්වරයා බ්‍රිතාන්‍ය පාර්ලිමේන්තු සම්ප්‍රදාය පිළිබදව ශ්‍රී ලංකාවේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් දැනුවත් කිරීමට කටයුතු කළ හැකි බවද වැඩිදුරටත් පැවසීය. ( I J )
+
+◼️
+
+[Data](articles/39ce6a57.json)
+
+---
+
+### Sri Lanka crowned ‘Most Desirable Island in the World’
+
+*2024-11-07 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103229/sri-lanka-crowned-most-desirable-island-in-the-world) · `en`
+
+Sri Lanka has been voted the Most Desirable Island in the World at the Wanderlust Reader Travel Awards 2024 in London.
+
+At the prestigious Wanderlust Reader Travel Awards 2024 held in London, Sri Lanka emerged as the “Most Desirable Island in the World,” marking a significant milestone in its tourism recovery journey.
+
+More than 200,000 passionate travelers voted for Sri Lanka, reflecting the island’s powerful appeal and diverse attractions.
+
+Sri Lanka has risen from last year’s eighth place to take Gold in one of the Awards’ most thrilling turnarounds.
+
+Announcing the results Wanderlust said: “Known as the ‘Pearl of the Indian Ocean’, the nation’s history comes to life through spectacular monuments such as Sigiriya Rock, the cave temples of Dambulla and the ancient ruins of Anuradhapura and Polonnaruwa.”
+
+...
+
+[Data](articles/1c0d7288.json)
+
+[Extended Data](ext_articles/1c0d7288.ext.json)
+
+---
+
+### Germany faces snap election as Scholz’s coalition crumbles
+
+*2024-11-07 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103228/germany-faces-snap-election-as-scholzs-coalition-crumbles) · `en`
+
+Germany’s ruling coalition collapsed on Wednesday as Chancellor Olaf Scholz sacked his finance minister and paved the way for a snap election, triggering political chaos in Europe’s largest economy hours after Donald Trump won the U.S. presidential election.
+
+After sacking Finance Minister Christian Lindner of the Free Democrats (FDP) party, Scholz is expected to head a minority government with his Social Democrats and the Greens, the second-largest party.
+
+He would have to rely on cobbled-together parliamentary majorities to pass legislation and he plans to hold a parliamentary confidence vote in his government on Jan. 15, which could trigger snap elections by the end of March.
+
+Scholz said he would ask Friedrich Merz, leader of the opposition conservatives who are far ahead in polls, for support in passing the budget and boosting military spending. Merz is due to respond in a Thursday morning news conference.
+
+...
+
+[Data](articles/0c688700.json)
+
+[Extended Data](ext_articles/0c688700.ext.json)
+
+---
+
+### Orders to close ticktock offices in Canada
+
+*2024-11-07 10:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202998) · `si`
+
+Sri Lanka orders closure of TikTok offices in Canada citing national security concerns. Canadian government denies access to platform. TikTok disputes decision, considering legal action.
+
+🟩
+
+The Government of Sri Lanka has ordered to close offices in Canada, who belongs to the Chinese Ticktock Social Network.
+
+The Canadian government has ordered to close the relevant institutions stating that national security is a threat to national security.
+
+The government has informed the Canadian to access the Ticktock social network online.
+
+However, a spokesman for Tik Tok is deprived of the government's decision to close the institutions due to the government's decision.
+
+Foreign media reports that they have decided to refer to a court initiative against the decision of the Canadian government.
+
+◼️
+
+[Data](articles/05857e8e.json)
+
+[Extended Data](ext_articles/05857e8e.ext.json)
+
+---
+
+### How to vote in the upcoming election?
+
+*2024-11-07 10:41:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-தேர்தலில்-எவ்வாறு-வாக்களிக்க-வேண்டும்/175-346706) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Vote in the upcoming election: Follow National Election Commission guidelines. Ballots for specific constituencies (Polonnaruwa, Moneragala, Kalutara) will have candidates listed together. Official ballots distributed to homes contain candidate lists."
+
+🟩
+
+The National Election Commission has issued guidelines for voters to follow in the upcoming parliamentary election.
+
+The Elections Commission said the ballot for the constituencies of Polonnaruwa, Moneragala and Kalutara will be printed in the same column and other constituencies.
+
+The model ballot for each block will be printed on the list of candidates who are distributed to each home with an official ballot.
+
+◼️
+
+[Data](articles/84026d04.json)
+
+[Extended Data](ext_articles/84026d04.ext.json)
+
+---
+
+### போலி இலட்சினைகளை மோட்டார் வாகனத்தில் பயன்படுத்திய பெண்ணுக்கு பிணை !
+
+*2024-11-07 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198089) · `ta`
+
+உத்தியோகபூர்வ இலட்சினைகளை மோட்டார் வாகனத்தில் போலியாகப் பயன்படுத்திய பெண் ஒருவருக்கு, கண்டி நீதிமன்றத்தால் 5 இலட்சம் ரூபா பெறுமதி கொண்ட இரண்டு சரீரப் பிணைகள் வழங்கப்பட்டது.
+
+மனித உரிமைகள் ஆணைக்குழு,  ஐக்கிய நாடுகள் சபை அமைப்பு, மற்றும் அரச இலட்சினை முதலானவற்றை தனது வாகனத்தில் காட்சிப்படுத்திய பெண் ஒருவரை கண்டிப் பொலிஸார் கைதுசெய்து கண்டி நீதவான் முன் ஆஜர் செய்தனர்.
+
+முறைப்பாட்டை விசாரித்த கண்டி மேலதிக நீதவான் 5 இலட்சம் ரூபா பெறுமதி கொண்ட இரண்டு சரீரப்பிணைகளை வழங்கி சந்தேக நபரை விடுதலை செய்தார்.
+
+மேற்படி முறைப்பாட்டில் சந்தேக நபராக பெயரிடப்பட்டவர் கண்டி, அனிவத்தை பகுதியில் வசிக்கும் பிரபல வர்த்தகராவார்.
+
+◼️
+
+[Data](articles/8235b77b.json)
+
+---
 
 ### The general election campaigns were completed by midnight on Monday
 
@@ -335,6 +483,26 @@ The House has been narrowly controlled by Republicans since January 2023, and it
 [Data](articles/dcab61d9.json)
 
 [Extended Data](ext_articles/dcab61d9.ext.json)
+
+---
+
+### බීමත්ව යතුරු පැදියක් පදවා දෙදරු මවක යටකර පළාගිය සැරයන්ගේ වැඩ තහනම්
+
+*2024-11-07 09:11:29* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-යතුරු-පැදියක්-පදවා-දෙදරු-මවක-යටකර-පළාගිය-සැරයන්ගේ-වැඩ-තහනම්/11-412902) · `si`
+
+බීමත්ව යතුරුපැදිය පදවා දෙදරු මවක යටකර පලාගිය පොලිස් සැරයන්වරයෙකු වැඩ තහනමකට ලක්කල බව කළුතර ජේෂ්ඨ පොලිස් අධිකාරි කාර්යාලය පවසයි.
+
+මෙසේ වැඩ තහනමකට ලක්කර ඇත්තේ කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ මැතිවරණ රාජකාරි සදහා යාකර සිටී තෙබුවන පොලිසියට තාතාවකාලිකව යාකර සිටී  සනත් ගුණවර්ධන නමැති සැරයන්වරයෙකි.
+
+කළුතර කොට්ඨාස ජේෂ්ඨ පොලිස් අධිකාරි කාවින්ද පියසේකර මහතා ගේ අත්සනින් එකී වැඩ තහනම ඊයේ (06) දින සිට ක්‍රියාත්මක වන පරිදි  නියෝගය පලකර ඇති බව සදහන් වේ.
+
+අදාල සැරයන් වරයා පසුගිය ඔක්තෝබර් 22 දින රාත්‍රි 7 .30 ට පමණ නාර්තුපාන ප්‍රදේශයේ දී බීමත්ව සිය යතුරු පැදියෙන් යමින් සිටියදී දෙදරු මවක යටකට පලාගොස් ඇති බවට තහවුරු වීමෙන් පසු මෙසේ වැඩ තහනමට ලක්කර තිබෙන බව පොලිස් අධිකාරි කාර්යාලය සදහන් කරයි.
+
+එකී සැරයන් වරයා බීමත්ව රිය පැදවීම, අනතුරක් සිදුකර පලායාම සහ වලංගු රියදුරු බලපත්‍රයක් නොමැතිව රිය ධාවනය කිරීම යටතේ මතුගම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමෙන් පසු ඇප මත මුදාහැර ඇති බවද  පොලිසිය සදහන් කරයි.
+
+◼️
+
+[Data](articles/aa5d65f0.json)
 
 ---
 
@@ -2135,211 +2303,5 @@ The Bribery Commission has been accused of conspiracy to be conspired by Jagath 
 [Data](articles/32dd3772.json)
 
 [Extended Data](ext_articles/32dd3772.ext.json)
-
----
-
-### Aditya Ram Movies
-
-*2024-11-06 17:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198066) · `ta`
-
-Aditya Ram returns to Tamil cinema after hiatus. Producing "Game Changer" with Shankar, featuring Ram Charan. Film set for January 10 release in Tamil, Telugu, Malayalam, Kannada, and Hindi. Promotions planned in Uttar Pradesh, Dallas, Chennai, Andhra Pradesh, and Telangana.
-
-🟩
-
-Filmmaker and businessman Aditya Ram has stated that it is planning to make films again in Tamil after a short break.
-
-In addition, Shankar - 'Global Star' Ramsaran - Sri Venkateswara Creations - is ready in the coalition and will be released on January 10 next year.
-
-Speaking to reporters in Chennai, Aditya Ram said, “I have produced four films in Telugu on behalf of Aditya Ram Movies, our production company.
-
-After the Telugu film 'Ek Niranjan' starring Prabhas, I wanted to quit the film production industry and engage in land -related business.
-
-In the suburbs of Chennai, I created a shooting complex under the name Aditya Ram on the East Coast Road. There is currently a shooting of films starring leading star actors.
-
-At this moment, our friend and producer Dil Raju met us. Can he work together in the film 'Game Changer' in his production?Asked. I have been happy and decided to make films in Ban Indian -level films not only in Tamil but also in Tamil.
-
-...
-
-[Data](articles/56b194f7.json)
-
-[Extended Data](ext_articles/56b194f7.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.80/90 to dollar, bonds steady
-
-*2024-11-06 17:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-80-90-to-dollar-bonds-steady-186294/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.80/90 to the US dollar Wednesday from 293.00/15 to the US dollar on Tuesday dealers said, while bond yields were broadly steady.
-
-A bond maturing on 15.12.2026 closed at 10.50/65 percent, from 10.55/65 percent.
-
-A bond maturing on 15.12.2027 closed at 11.30/45 percent, down from 11.40/55 percent.
-
-A bond maturing on 15.03.2028 closed at 11.65/70 percent, down from 11.68/78 percent.
-
-A bond maturing on 15.06.2029 closed stable at 11.95/12.05 percent.
-
-A bond maturing on 15.05.2030 closed at 12.10/20 percent. (Colombo/Nov06/2024)
-
-◼️
-
-[Data](articles/879678a5.json)
-
-[Extended Data](ext_articles/879678a5.ext.json)
-
----
-
-### Court to review injunction against e-passport purchase; Ex-President Ranil named respondent
-
-*2024-11-06 17:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103213/court-to-review-injunction-against-e-passport-purchase-ex-president-ranil-named-respondent) · `en`
-
-Former President Ranil Wickremesinghe has been named as a respondent of the writ petition filed with the Court of Appeal challenging the previous government’s decision to purchase passports from two foreign companies.
-
-Wickremesinghe has been named as a respondent of the relevant writ petition filed by Epic Lanka Private Limited, through a motion submitted by the petitioning party, when the petition was taken up before the two-member Appeals Court judge bench comprising Justices Mohammed Laffar and P. Kumaratnam today (06).
-
-During the hearing, the attorneys who appeared for the two foreign companies named as respondents stated that their clients have been critically prejudiced through the interim injunction issued by the court preventing the purchase of 5 million e-passports.
-
-The attorneys, who pointed out that the relevant injunction will be in effect until the hearings of the petition are concluded, requested the court to issue an order lifting the injunction.
-
-...
-
-[Data](articles/3f4f379b.json)
-
-[Extended Data](ext_articles/3f4f379b.ext.json)
-
----
-
-### Kamal Haasan 70
-
-*2024-11-06 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198065) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Special Tak Life video releasing Nov 7 on Kamal Haasan's 70th b'day. Directed by Mani Ratnam, starring Kamal, Silambarasan, Trisha. Music by AR Rahman. Produced by Rajkamal Film International, Madras Talkies, Red Giant Movies."
-
-🟩
-
-A special video of his 'Tak Life' will be released on November 7, on the 70th birthday of Kamal Haasan.
-
-Directed by Mani Ratnam, Kamal Haasan, Silambarasan, Trisha, Ashok Selvan, Basil Ali, Pankaj George, Joju George, Nasser, Abirami, Aishwarya Lakshmi, Sania Malhotra, Vaiyapuri and many others.
-
-Ravi K. The film is being recorded by Chandran and is composed by AR Rahman. The film is being produced by Rajkamal Film International - Madras Talkies - Red Giant Movies.
-
-The shooting of the film is being released on the 70th birthday of 'World Man' Kamal Haasan's 70th birthday.
-
-Kamal Haasan has once again starred in Mani Ratnam after 'Maniran' and the expectation of 'Tak Life' has increased worldwide.
-
-◼️
-
-[Data](articles/b2825e4e.json)
-
-[Extended Data](ext_articles/b2825e4e.ext.json)
-
----
-
-### Actress Sai Pallavi's 'Dandel' will be released in February next year.
-
-*2024-11-06 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198059) · `ta`
-
-Sai Pallavi's 'Dandel' releases Feb 7, 2024. Starring Naga Chaitanya, directed by Sandhu Mondetti. Music by Devi Sri Prasad. Produced by Geeta Arts and Excursion Entertainment.
-
-🟩
-
-Telugu star actor Naga Chaitanya and actress Sai Pallavi, who have been acclaimed by fans through 'Amaran', have been officially announced on the release date of 'Dandel'.
-
-Directed by director Sandhu Mondetti, Naga Chaitanya, Sai Pallavi, Sandeep Ved, Kishore Raju and many others have starred in the film 'Dandel'.
-
-The film, which has been recorded by Sham Dutt, has composed the film 'Rock Star' Devi Sri Prasad. The film is being produced by Geeta Arts, produced by Bunny Vas, who is being embarrassed as Excursion Entertainment. Allu Aravind offers this.
-
-As the shooting of the film reaches the final stage, the film crew has been excited about the release date of the film.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the seventh of February next year.
-
-The hero and the hero in the exclusive poster released for this have been very popular with the fans as they appear as lovers in the background of the sea.
-
-◼️
-
-[Data](articles/8d5c37d0.json)
-
-[Extended Data](ext_articles/8d5c37d0.ext.json)
-
----
-
-### Palm Development Council employees struggle in Jaffna
-
-*2024-11-06 17:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/198064) · `ta`
-
-Palm Development Council employees protest in Jaffna against new leader's appointment, demanding salary issues resolution.
-
-🟩
-
-Yall. The Palm Development Council employees of Kaithadi staged a protest on Wednesday.
-
-The demonstration has been carried out condemning the actions of the new leader appointed to the congregation as an immorality with the employees.
-
-In the meantime, “NPP government's removal of the new leader's appointment, is the salary of the palm workers?Are the employees of the council?The banners were carried in the hands of the words, and they expressed their opposition to the slogans.
-
-Selvin was appointed as the Chairman of the Palm Development Board after registering with Anuragumara Dissanayake as President.
-
-It is noteworthy that he was transferred to his duties for a few days and appointed Vinayagamoorthy Sahadevan as the new leader.
-
-◼️
-
-[Data](articles/9baac301.json)
-
-[Extended Data](ext_articles/9baac301.ext.json)
-
----
-
-### The announcement of the release date of the movie 'Parari' by director Rajamurugan
-
-*2024-11-06 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198063) · `ta`
-
-"Parari" movie release date announced: Director Rajamurugan's film stars Hari Shankar, Sangeetha Kalyan, Guru Rajendran. Music by Sridhar, produced by Gala Films Pvt., featuring oppressed people themes. Global release set for 22nd of this month.
-
-🟩
-
-The release date of the film 'Parari', starring the hero of the story, has been officially announced.
-
-Hari Shankar, Sangeetha Kalyan, Guru Rajendran, Samrat Suresh, fame Mahendran, V.. Many people including Premnath have played. The film, which has been recorded by Sridhar, has composed the film.
-
-Hari Shankar has produced the film on behalf of the Gala Films Pvt.. The film is presented by writer and film director Rajamurugan.
-
-The songs and previews of the film have been released on the Internet and have been visited by millions of viewers.
-
-As well as the expectation of the film. The film crew has been excited that the film will be released around the world on the 22nd of this month.
-
-It is noteworthy that the film is in anticipation of a section of the fans as the scenes of the oppressed people are emotionally featured in the preview of the film.
-
-◼️
-
-[Data](articles/1523ed5b.json)
-
-[Extended Data](ext_articles/1523ed5b.ext.json)
-
----
-
-### Landslide warning to many areas
-
-*2024-11-06 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202976) · `si`
-
-National Building Research Organization issues landslide warnings for multiple areas starting 4:00 PM today. Affected regions include Dehumanagala, Ruwanagala, Ruwanwella, Dehigamuwa, Yatiyantota, Galigamuwa, Araniyapitiya, Kurunegala, Kuruwita, Eheliyagoda, Badulla, Galle, Kalutara, Kandy, Matara districts. Residents advised to take precautions.
-
-🟩
-
-The National Building Research Organization has issued a warning of pre-landscape warning to several areas from 4:00 pm today (06).
-
-Accordingly Dehumanagala, Ruwanagala, Ruwanwella, Dehigamuwa, Yatiyantota, Galigamuwa and Araniyapitiya, Kurunegala, Kuruwita and Eheliyagoda.
-
-A landslide warning has been issued to "keep" for the Badulla, Galle, Kalutara, Kandy, Kurunegala, and Matara districts.
-
-◼️
-
-[Data](articles/e96a6454.json)
-
-[Extended Data](ext_articles/e96a6454.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 13:59:59**
+As of **2024-11-07 14:25:43**
 
 ## Newspaper Stats
 
-*Scraped **53,554** Articles*
+*Scraped **53,557** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,005
+adalk | 5,007
 adaderanalk | 6,380
-tamilmirrorlk | 7,456
+tamilmirrorlk | 7,457
 virakesarilk | 8,665
 adaderanasinhalalk | 9,333
 
@@ -26,47 +26,79 @@ adaderanasinhalalk | 9,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,551 (100.0%) of 53,554 articles have been extended.
+53,556 (100.0%) of 53,557 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### පාස්පෝට් ගැටලුව ගැන ආගමන හා විගමන නිලධාරීන්ගේ සංගමයෙන් නිවේදනයක්
+### Immigration and Emigration Office Association for Passport problem
 
 *2024-11-07 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203005) · `si`
 
-විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීම සම්බන්ධයෙන් ඇති වී තිබෙන ගැටලුකාරී තත්ත්වය සම්බන්ධයෙන් ශ්‍රී ලංකා ආගමන හා විගමන නිලධාරීන්ගේ සංගමය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+Sri Lanka immigration emigration office passport issue announcement summary: False information from high-level officials, crisis management, investigation call, emphasis on LTTE passport issuance.
 
-වර්තමානයේ පවතින සැබෑ තත්ත්වය පෙන්වාදීම සඳහා මෙන්ම අර්බුදය විසඳීම සඳහා ගතයුතු ක්‍රියාමාර්ග ගැන දැනුවත් කිරීම සඳහා අදාළ නිවේදනය නිකුත් කළ බව එහි සඳහන්ය.
+🟩
 
-එම නිවේදනයේ වැඩිදුරටත් සඳහන් කර ඇත්තේ ජනතාව විසින් තෝරාපත් කරගත් ජනාධිපතිවරයාව අසීරුතාවයට පත්වීමට දෙපාර්තමේන්තු ඉහළ පරිපාලනය විසින් ලබාදුන් සාවද්‍ය තොරතුරු හේතුවූ බවය.
+The Sri Lanka Institute of Immigration and Emigration Officers have issued a special announcement regarding the issues of issuing foreign passports.
 
-සංඛ්‍යා දත්ත, තොරතුරු සියල්ල දෙපාර්තමේන්තුව සතුව තිබිය දී රජයේ සමස්ත කාර්යභාරයෙන් තුනෙන් එකක ප්‍රමාණයක් ආවරණය කළ යුතු අතිශය භාරදුන් කාර්යභාරයක නියැලී සිටින විෂයභාර අමාත්‍යවරයාට කොතරම් කටුක වුවද විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීම හා සම්බන්ධව පවතින සත්‍ය තත්ත්වය දෙපාර්තමේන්තු බලධාරීන් විසින් අනාවරණය නොකිරීම කනගාටුවට කරුණක් බව ද ශ්‍රී ලංකා ආගමන හා විගමන නිලධාරීන්ගේ සංගමය පවසයි.
+It stated that the relevant announcement was issued to educate the present situation as well as to address the crisis.
+
+The announcement further stated that the false information provided by the higher the departmental administration was due to the procurement of the president.
+
+It is regrettable that the departmental authorities have not disclosed the reality status of the subject of the government in charge of the subject of statistics, information all-thirds of the government.The Association of the Emigration says.
+
+The Sri Lanka Immigration Officers' Association (Immigration) Association has pointed out that the arbitrary activities of the top of the old political authority can address the crisis.
+
+As such, it is the responsibility of the Association to reveal the people who have embarrassed the masses and to conduct a formal investigation.
 
 ...
 
 [Data](articles/eb4b2b0c.json)
 
+[Extended Data](ext_articles/eb4b2b0c.ext.json)
+
 ---
 
-### අනුර ජනපතිට අපි පාර පෙන්වන්නම් - දිලිත්
+### We will show the lead to the President - Dilith
 
 *2024-11-07 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203004) · `si`
 
-ජාතික ජන බලවේගය ජනතාවට දුන් පොරොන්දු ඉටුකිරීමට නොහැකි වී ඇත්තේ ඒවා ඉටුකළ හැකි ආකාරය පිළිබඳ ඔවුන් දැන නොසිටි නිසා බව සර්වජන බලයේ නායක ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera criticizes unfulfilled campaign promises, discusses economic issues like electricity bills and fuel prices. Emphasizes transparency in governance and compares himself to Trump's focus on nationalism and entrepreneurship.
 
-ඔහු මේ බව ප්‍රකාශ කළේ මීගමුව කඳසුරිඳුගම ප්‍රදේශයේ පැවති ජන හමුවක් අමතමිනි.
+🟩
 
-මහමැතිවරණය වෙනුවෙන් සර්වජන බලය සංවිධාන කළ තවත් ජනහමුවක් මීගමුව අක්කර 50 කඳසුරිඳුගම ප්‍රදේශයේදී ඊයේ (06) පස්වරුවේ පැවැත්වුණි.
+The main leader of the Gampaha District candidate Dilith Jayaweera says that they have not understood their promises to the public.
 
-සර්වජන බලයේ නායක ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා,
+He was speaking at a public meeting held in the Kandasuruwagama, Negombo.
 
-"අපි කරන්නේ පොරොන්දු දේශපාලනයක් නෙමෙයි. අනිවාර්යයෙන්ම කරන්නට පුළුවන් දේ පමණක් කතා කරන දේශපාලනයක් අපි කරන්නේ. අපිට ඕනේ අපේ සහෝදර ජනාධිපතිතුමාට ඒ පාර පෙන්වන්න. ඔහු පොරොන්දු වුණු බොහෝ දේ...ඉටු කරලා නැහැ. ඉෂ්ඨ කරන්නත් බැහැ. විදුලි බිල 40%කින් අඩු කරනවා කිව්වා. කරන්න බැහැ. පෙට්‍රල් මිල රුපියල් 200 කරනවා කිව්වා. අන්තිමට සල්ලිකාරයෝ ගහන 95 විතරක් අඩු කළා. ඔබට මුකුත් නැහැ."
+Another network of the universal authority was organized by the 50 acres in the Kandasurugama area in general area Negombo yesterday (06).
+
+The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
+
+"We do not make promises prominent politics. We do a politics who can only talk about what they can do. We want to show that time to our brother President. Many things he promised ... have not been fulfilled. Can't be able to fulfill. The electricity bill was reduced by 40%. Can't do. The prices of petrol will be done at Rs. Finally, the cadres were reduced only 95. You don't have anything. "
+
+"We can explain the coconut Rs 140. The method of egg prices increased. Simple concepts. Prices of a goods. These don't know. If not gone to the Market, you know. "
 
 ...
 
 [Data](articles/86a81cca.json)
+
+[Extended Data](ext_articles/86a81cca.ext.json)
+
+---
+
+### லொஹான் ஜோடிக்கு விளக்கமறியல் நீடிப்பு
+
+*2024-11-07 13:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/லொஹான்-ஜோடிக்கு-விளக்கமறியல்-நீடிப்பு/150-346720) · `ta`
+
+சொகுசு வாகனமொன்றை தம்வசம் வைத்திருந்த குற்றச்சாட்டில் முன்னாள் அமைச்சர்களான லொஹான் ரத்வத்த மற்றும் ராசி பிரபா ரத்வத்த ஆகிய இருவரையும் எதிர்வரும் 18ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கங்கொடவில பிரதான நீதவான் திருமதி ருவினி ஜயவர்தன உத்தரவிட்டுள்ளார்.
+
+சட்டத்துக்கு பொறுப்பான  பிரதிப் பொலிஸ் மா அதிபர்  ருவன் குணசேகர, வழக்குத் தொடரின் சார்பில் நீதிமன்றத்தில் விபரங்களை  முன்வைத்தார்.
+
+◼️
+
+[Data](articles/c691b921.json)
 
 ---
 
@@ -296,6 +328,28 @@ I said that we will help him and his team during the change of power.
 
 ---
 
+### Advanced Level Examination from November 25 to December 20
+
+*2024-11-07 12:42:44* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-නොවැම්බර්--25-දා-සිට-දෙසැම්බර්-20-දක්වා/11-412908) · `si`
+
+GCE Advanced Level 2024 exam dates: Nov 25 - Dec 20. Ticket schedules sent to schools. Private applicants register online from Nov 18. Website open until Nov 12 midnight.
+
+🟩
+
+The GCE Advanced Level 2024 Examination will commence on November 25 and will be held on November 25 and will be held at December 20.
+
+The Department of Examinations said that the school applicants' ticket and schedule of the examination will be sent to the principal of the relevant school, the Department of Examinations.
+
+Private applicants have not recovered from the official website of the Department of Examinations at www.doenets.lk from November 18 and all applicants have amendments in the Department of Tickets, Media and Name amendments: http://onlinexams.gov.lk/The Examinations Department announces that the EIC website can be made to 12.00 midnight to 12th November.
+
+◼️
+
+[Data](articles/57e0aec4.json)
+
+[Extended Data](ext_articles/57e0aec4.ext.json)
+
+---
+
 ### Lohan and wife remanded again
 
 *2024-11-07 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203003) · `si`
@@ -407,6 +461,34 @@ The magistrate, who investigated the inquiry, ordered the prison officer to be r
 [Data](articles/a73a3e34.json)
 
 [Extended Data](ext_articles/a73a3e34.ext.json)
+
+---
+
+### Ranil told the President
+
+*2024-11-07 12:13:17* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-ජනපති-අනුරට-කී-දේ/11-412907) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former President Ranil Wickremesinghe urges voters to support the New Democratic Front to save Parliament and protect democracy. He criticizes opponents' lack of experience and ability to address the country's economic crisis.
+
+🟩
+
+The former president should be sent to Parliament to save Parliament in order to save parliament today, as well as the national folk force is to save Parliament.Ranil Wickremesinghe said.
+
+Former President Ranil Wickremesinghe addressed the new Democracy Front at the Siyambalawewa Tamaring Hall on Monday night at the Siyambalawewawatta Tamaring Hall on Monday morning.
+
+The UNP's deputy leader Ruwan Wijewardene, Deputy Leader of the Biyagama electorate, the Biyagama district candidate, Gampaha District candidates in Gampaha, was organized by the Hon.
+
+Former President Ranil Wickremesinghe said, "Former President Ranil Wickremesinghe said.
+
+...
+
+[Data](articles/1b0b143d.json)
+
+[Extended Data](ext_articles/1b0b143d.ext.json)
 
 ---
 
@@ -1458,6 +1540,8 @@ The Presidential Election – 2024 has shown a dramatic shift in the voting beha
 
 [Data](articles/096913b1.json)
 
+[Extended Data](ext_articles/096913b1.ext.json)
+
 ---
 
 ### Firearms extended to hand over firearms
@@ -2279,75 +2363,5 @@ Tea is numero uno in Sri Lanka. The famed ‘Ceylon Tea’ fetches Sri Lanka nea
 [Data](articles/5c71d085.json)
 
 [Extended Data](ext_articles/5c71d085.ext.json)
-
----
-
-### Historic deflation in 29 years  and impact on business and people
-
-*2024-11-06 22:54:28* · [`dailyftlk`](https://www.ft.lk/opinion/Historic-deflation-in-29-years-and-impact-on-business-and-people/14-768908) · `en`
-
-In a striking economic turnaround, Sri Lanka has recorded its first deflation in 29 years, with the inflation rate dipping to -0.5% in September.
-
-The Central Bank (CBSL) attributes this significant decline in general price levels to administrative price adjustments that brought down key cost drivers, including food, fuel, and revisions in water and electricity tariffs. According to the CPI, prices deflated for food and non-alcoholic beverages to -0.3%, while housing and utilities fell further to -8.4% from -6.8% in August. Although prices rebounded in other sectors such as footwear and clothing to 0.1% from -0.4% for instance, major reductions in electricity and water tariffs have lowered utility costs, driving down inflation.
-
-...
-
-[Data](articles/8716d246.json)
-
-[Extended Data](ext_articles/8716d246.ext.json)
-
----
-
-### Getting rid of Blackheads…
-
-*2024-11-06 22:53:00* · [`islandlk`](http://island.lk/getting-rid-of-blackheads/) · `en`
-
-Who doesn’t like to have a clean and clear skin? But blackheads are a common type of skin condition that everyone usually faces at some point in their lives. Blackheads are a common skin condition that primarily affects the face, neck, back, and chest. There are several causes, including too much oil on your skin and irritation of your hair follicles.
-
-Blackheads are most common in adolescents, but they can occur at any age, so this week I’ve worked on a remedy that should be of benefit to the readers of my column.
-
-You will need 01 tablespoon of lemon juice and 01 tablespoon of egg white.
-
-In a small bowl, mix the lemon juice and egg white. Whisk them together until well mixed and slightly frothy.
-
-Wash your face with a gentle cleanser and pat it dry and apply the mask, using clean fingers, or a brush. Apply the mixture to areas with blackheads. Be careful to avoid your eyes.
-
-Allow the mask to sit for about 15-20 minutes, or until you feel it’s dry.
-
-...
-
-[Data](articles/ce2b4077.json)
-
-[Extended Data](ext_articles/ce2b4077.ext.json)
-
----
-
-### 'King Komi' in a severe breakdown after ten years
-
-*2024-11-06 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202988) · `si`
-
-Indian cricketer Rathnak Rathnak falls 8 spots in ICC rankings. England's Joe Root leads, followed by Ken Williams. Sri Lanka's Dimuth Karunaratne ranks 11th. India's Rohit Sharma drops 2 places.
-
-🟩
-
-According to the International Cricket Council today, Indian super batsman Rathnak Rathnak Rathnak Rathnak, who have been declared today, has fallen down from 8 locations.
-
-This is a 10 year after the first 20 years of Rite Coly batsmen ratings of Test batsmen.
-
-The latest Test batsman rankings The lead in England joe.
-
-Ken Williamsan in the second place in the second place, and the third in England is staying in the third place.
-
-There are four batsmen among the Test batsmen, and there are four batsmen in Sri Lankan batsmen. He is 11th place.
-
-In addition, Dimuth Karunaratne, 14th, Test leader Dhananjaya Dananjaya Dananjaya De Silva is 15th and Dinesh Chandimal remains in the 18th place.
-
-Meanwhile, Indian leader Rohith creations have fallen down by 2 locations.
-
-◼️
-
-[Data](articles/e6d96577.json)
-
-[Extended Data](ext_articles/e6d96577.ext.json)
 
 ---

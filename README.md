@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 02:24:27**
+As of **2024-11-08 02:58:46**
 
 ## Newspaper Stats
 
-*Scraped **53,624** Articles*
+*Scraped **53,625** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 418
+dbsjeyarajcom | 419
 bbccomsinhala | 547
 colombotelegraphcom | 550
 islandlk | 3,200
@@ -26,27 +26,35 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,623 (100.0%) of 53,624 articles have been extended.
+53,625 (100.0%) of 53,625 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### தமிழ் பிரதிநித்துவத்தை ’நிச்சயம் வெல்வோம்’
+### Tamil representation will definitely win
 
 *2024-11-08 00:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பிரதிநித்துவத்தை-நிச்சயம்-வெல்வோம்/175-346751) · `ta`
 
-“மலையக மக்களை அரசியல் அநாதைகளாக்குவதற்கு நாம் இடமளிக்கமாட்டோம். நிச்சயம் தமிழ்ப் பிரதிநிதித்துவத்தை வென்றெடுப்போம்." என்று முன்னாள் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+Tamil representation victory assured: Former MP Vadivel Suresh vows to secure seats for Nuwara Eliya district. United Democratic Voice Party campaign focuses on protecting hill country representation against opposition from Badulla district.
 
-நுவரெலியா மாவட்டத்தில் உள்ள ஐக்கிய ஜனநாயக குரல் கட்சி ஆதரவாளர்களுக்கு கட்சியின் அறிமுகம் மற்றும் கொள்கைகளை அறிமுகப்படுத்தும் தேர்தல் பிரச்சாரக் கூட்டம் ஹட்டனில் புதன்கிழமை (07) இடம்பெற்றது.
+🟩
 
-இந்த கூட்டத்தில் ஐக்கிய ஜனநாயக குரல் கட்சியின் தலைவர் ரஞ்சன் ராமநாயக்க, ஐக்கிய ஜனநாயக குரல் கட்சியின் நுவரெலியா மாவட்ட தலைமை வேட்பாளர் அனுஷா சந்திரசேகரன், ஷான் பிரதீஸ் உட்பட  பலரும் கலந்துகொண்டனர்.
+“We will not allow the people of the hill country to make political orphans. We will definitely win the Tamil representation, ”said Vadivel Suresh, a former parliamentarian.
 
-'பொதுத்தேர்தலில் நான் நுவரெலியா மாவட்டத்தில் போட்டியிட திட்டமிட்டிருந்தேன். ஆனால், எமது பதுளை மாவட்ட மக்கள் என்னை விடவில்லை.  மக்கள் பிரதிநிதித்துவத்தை காக்க நான் அங்கு போட்டியிடுகின்றேன்.
+The election campaign meeting to introduce the party's introduction and policies to the United Democratic Voice Party supporters in Nuwara Eliya district was held on Wednesday (07).
+
+United Democratic Voice Party leader Ranjan Ramanayake, United Democratic Voice Party Nuwara Eliya District Chief candidate Anusha Chandrasekaran and Shan Pradees were among those present.
+
+'I was planning to contest in Nuwara Eliya district in the general election. But the people of our Badulla district did not leave me.I compete there to protect the representation of the people.
+
+I have sent my son to Nuwara Eliya. Send him and the young female candidate Anusha Chandrasekaran to Parliament.. Send another umbilical cord relationship. Send a total of three from the Nuwara Eliya district. ”
 
 ...
 
 [Data](articles/4c5df907.json)
+
+[Extended Data](ext_articles/4c5df907.ext.json)
 
 ---
 

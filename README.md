@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 09:40:23**
+As of **2024-11-07 10:00:02**
 
 ## Newspaper Stats
 
-*Scraped **53,498** Articles*
+*Scraped **53,500** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 4,998
 adaderanalk | 6,373
 tamilmirrorlk | 7,448
 virakesarilk | 8,648
-adaderanasinhalalk | 9,323
+adaderanasinhalalk | 9,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,498 (100.0%) of 53,498 articles have been extended.
+53,498 (100.0%) of 53,500 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### රත්වත්තේ සහ ඔහුගේ බිරිඳ අධිකරණයට
+
+*2024-11-07 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202997) · `si`
+
+බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ කොළඹ ජාතික රෝහලේ ප්‍රතිකාර ලබමින් සිටින හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ සහ ඔහුගේ බිරිඳ නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය වෙත රැගෙන විත් තිබේ.
+
+◼️
+
+[Data](articles/3291d741.json)
+
+---
+
+### අවුරුදු 16ට අඩු ළමුන්ට සමාජ මාධ්‍ය තහනම් - ඔස්ට්‍රේලියාවෙන් නව නීති
+
+*2024-11-07 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202996) · `si`
+
+වයස අවුරුදු 16ට අඩු ළමුන් සඳහා සමාජ මාධ්‍ය තහනම් කිරීමට ඔස්ට්‍රේලියානු රජය තීරණය කර ඇති බව වාර්තා වෙයි.
+
+එම යෝජනාව සහිත නව නීති එළැඹෙන සතියේදී එරට පාර්ලිමේන්තුවට ඉදිරිපත්කරන බව ඔස්ට්‍රේලියානු අග්‍රාමාත්‍ය ඇන්තනි ඇල්බනීස් පැවසීය.
+
+ඔස්ට්‍රේලියානු දරුවන්ට සමාජ මාධ්‍ය ඔස්සේ සිදුවන හානි අවම කිරීම සඳහා මෙම නව නීති ගෙන එන බව සඳහන් ය.
+
+අගමැතිවරයා පැවසුවේ, "මෙය අපේ පියවරුන්ට සහ මව්වරුන්ට ඔවුනුත් මම වගේම අන්තර්ජාලය නිසා දරුවන්ට හානියක් වෙතැයි කනගාටුවෙනවා...මම කැමතියි ඔස්ට්‍රේලියානු දෙමව්පියන්ට කියන්න, රජය ඔබ සමග ඉන්නවා..." යනුවෙනි.
+
+එහෙත් දැනටමත් සමාජ මාධ්‍ය භාවිත කරන දරුවන් සඳහා එම තහනම බලාත්මක නොකරන බව සඳහන් ය.
+
+එසේම දෙමව්පියන්ගේ කැමැත්ත සහිතව සමාජ මාධ්‍ය පරිශීලකයින් වන දරුවන්ට ද මෙම තහනම අදාළ නොවන බව එරට බලධාරීන් පැවසීය.
+
+නමුත් තරුණ පරිශීලකයින් ආරක්ෂා කිරීමට අපොහොසත් වන තාක්ෂණික සමාගම්වලට එරෙහිව දැඩි පියවර ගන්නා බව ද ඔස්ට්‍රේලියානු අග්‍රාමාත්‍යවරයා පැවසීය.
+
+◼️
+
+[Data](articles/96a4d8f6.json)
+
+---
 
 ### Biden rushing assistance to Ukraine, with aid uncertain under Trump
 
@@ -2299,47 +2335,5 @@ This discussion is. C. C. Mr. Andrew Fraeee of the Chief Manager of the Corrupti
 [Data](articles/3d625ae5.json)
 
 [Extended Data](ext_articles/3d625ae5.ext.json)
-
----
-
-### The government that publishes alternatives regarding the fuel price formula
-
-*2024-11-06 16:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198049) · `ta`
-
-Government announces fuel price formula changes. Cabinet spokesperson clarifies prices set by Petroleum Corporation, not global market rates. Previous government's policies still in effect. Opposition criticizes current administration's handling of fuel costs.
-
-🟩
-
-Cabinet spokesman Vijitha Herath has made two comments at two media conferences regarding the fuel price formula. At a press conference announcing the Cabinet decisions held on the first day of October, the fuel prices were not determined by the price of fuel and that it was determined by the values ​​of the Petroleum Corporation.
-
-However, at the press conference held on Wednesday (06), the previous comment was stated that fuel prices are being determined in terms of prices.
-
-When the journalists were again questioned in this regard, he said that the prices had to be made at the same time.
-
-Opponents against the new government as they have lost power are widely proposed by previous rulers. We have reduced the prices of fuels by 20 rupees since we took over the regime. But it is not remembered most people at present.
-
-...
-
-[Data](articles/504eae55.json)
-
-[Extended Data](ext_articles/504eae55.ext.json)
-
----
-
-### Street accidents to sacrifice thousands of lives
-
-*2024-11-06 16:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198047) · `ta`
-
-Road accidents claim thousands of lives annually. Government pays Rs 38.14 million in compensation from 2019-2020. Accidents burden state finances beyond personal costs.
-
-🟩
-
-'The government has paid a compensation of Rs 38.14 million for the victims of road accidents and injured in the period 2019 - 2020. Accidents are also a heavy burden for the government beyond the individual or their families. '
-
-◼️
-
-[Data](articles/c13acac6.json)
-
-[Extended Data](ext_articles/c13acac6.ext.json)
 
 ---

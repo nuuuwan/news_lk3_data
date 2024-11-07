@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 14:25:43**
+As of **2024-11-07 14:40:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,556 (100.0%) of 53,557 articles have been extended.
+53,557 (100.0%) of 53,557 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,17 +88,23 @@ The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
 
 ---
 
-### லொஹான் ஜோடிக்கு விளக்கமறியல் நீடிப்பு
+### Explanation extending to Lohan couple
 
 *2024-11-07 13:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/லொஹான்-ஜோடிக்கு-விளக்கமறியல்-நீடிப்பு/150-346720) · `ta`
 
-சொகுசு வாகனமொன்றை தம்வசம் வைத்திருந்த குற்றச்சாட்டில் முன்னாள் அமைச்சர்களான லொஹான் ரத்வத்த மற்றும் ராசி பிரபா ரத்வத்த ஆகிய இருவரையும் எதிர்வரும் 18ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கங்கொடவில பிரதான நீதவான் திருமதி ருவினி ஜயவர்தன உத்தரவிட்டுள்ளார்.
+Former ministers Lohan Ratwatta and Rasi Prabha Ratwatta remanded until 18th by Gangodawila Chief Magistrate Ruvini Jayawardena. Deputy Inspector General Ruwan Gunasekera presented case details in court.
 
-சட்டத்துக்கு பொறுப்பான  பிரதிப் பொலிஸ் மா அதிபர்  ருவன் குணசேகர, வழக்குத் தொடரின் சார்பில் நீதிமன்றத்தில் விபரங்களை  முன்வைத்தார்.
+🟩
+
+Gangodawila Chief Magistrate Mrs. Ruvini Jayawardena has ordered the former ministers Lohan Ratwatta and Rasi Prabha Ratwatta to be remanded until the 18th of this month.
+
+Deputy Inspector General of Police Ruwan Gunasekera, who is responsible for the law, presented details in court on behalf of the case.
 
 ◼️
 
 [Data](articles/c691b921.json)
+
+[Extended Data](ext_articles/c691b921.ext.json)
 
 ---
 

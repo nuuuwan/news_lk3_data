@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 16:40:16**
+As of **2024-11-07 16:58:21**
 
 ## Newspaper Stats
 
-*Scraped **53,572** Articles*
+*Scraped **53,580** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,184 @@ economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,010
-adaderanalk | 6,384
-tamilmirrorlk | 7,459
-virakesarilk | 8,668
-adaderanasinhalalk | 9,336
+adaderanalk | 6,387
+tamilmirrorlk | 7,462
+virakesarilk | 8,669
+adaderanasinhalalk | 9,337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,572 (100.0%) of 53,572 articles have been extended.
+53,576 (100.0%) of 53,580 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Court calls for progress report on investigations into death of ‘Makandure Madush’
+
+*2024-11-07 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103242/court-calls-for-progress-report-on-investigations-into-death-of-makandure-madush) · `en`
+
+A motion has been filed with the Colombo Magistrate’s Court seeking an order to hand over the investigations into the death of infamous underworld figure and drug lord ‘Makandure Madush’, who was allegedly killed in a crossfire between police and suspected underworld figures while in police custody, to the Criminal Investigations Department (CID).
+
+A motion filed by a group of attorneys who appeared for the rights of the victim was taken up before Colombo Additional Magistrate Manjula Rathnayake today (07).
+
+Appearing for the rights of the victim, Attorney-at-Law Senaka Perera stated before the court that a formal investigation has not been carried out regarding the death of his client as of yet.
+
+Accordingly, he requested the court to issue an order handing over the relevant investigations to the CID.
+
+...
+
+[Data](articles/b1d8632d.json)
+
+---
+
+### புதிய தூதுவர்கள் நற்சான்று பத்திரங்களை கையளித்தனர்
+
+*2024-11-07 16:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்கள்-நற்சான்று-பத்திரங்களை-கையளித்தனர்/175-346729) · `ta`
+
+இலங்கைக்கு புதிதாக உத்தியோகபூர்வ நியமனம் பெற்ற இரு தூதுவர்கள் இன்று (07) ஜனாதிபதி அநுரகுமார திசாநாயக்கவிடம் ஜனாதிபதி அலுவலகத்தில் வைத்து தமது நன்சான்றுப் பத்திரங்களை கையளித்தனர்.
+
+எகிப்து அரபுக் குடியரசின் தூதுவர் அதிமேதகு அடெல் இப்ராஹிம்(Adel Ibrahim) மற்றும் ஜப்பான் தூதுவர் அதிமேதகு இசோமாடா அகியோ (ISOMATA Akio) ஆகியோர் இலங்கைக்கான தூதுவர்களாக நியமிக்கப்பட்டுள்ளனர். அவர்கள் நற்சான்றுப் பத்திரங்களை கையளித்த பின்னர் ஜனாதிபதியுடன் சுமூகமான கலந்துரையாடலில் ஈடுபட்டனர்.
+
+◼️
+
+[Data](articles/fa9458aa.json)
+
+---
+
+### Dilith Jayaweera on why NPP govt cannot fulfill its promises
+
+*2024-11-07 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103241/dilith-jayaweera-on-why-npp-govt-cannot-fulfill-its-promises) · `en`
+
+The leader of the ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate Dilith Jayaweera claims that the National People’s Power (NPP) has failed to fulfil its promises to the people as they lacked the proper understanding of how to fulfil them.
+
+He stated this while addressing a public meeting held in the Kandasurindugama area in Negombo last evening (06).
+
+Jayaweera said the ‘Sarvajana Balaya’ alliance is not engaging in politics based on promises and that their focus is on a type of politics that is about only speaking about what is definitely achievable.
+
+He highlighted that their wish is to provide guidance to the President and alleged that many of the President’s promises have remained unfulfilled as they were never attainable.
+
+“They promised to reduce the electricity bills by 40%. It cannot be done. They said they’ll slash petrol price to Rs. 200. But in the end, only Octane 95 which is used by the wealthy was reduced. You got nothing,” he said.
+
+...
+
+[Data](articles/b4a92996.json)
+
+---
+
+### Increase
+
+*2024-11-07 16:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சொத்துக்-கையிருப்பு-அதிகரிப்பு/175-346727) · `ta`
+
+Sri Lanka's property reserves rose from $5.99B to $6.46B in Oct 2024, a 7.9% increase. This includes $1.4B from China's PBOC, pending use.
+
+🟩
+
+Sri Lanka's official property reserves increased from $ 5.99 billion in September to $ 6.46 billion in October 2024.
+
+According to the Central Bank of Sri Lanka (CBSL), this is a significant increase in 7.9%.
+
+It also includes the Chinese People's Bank (PBOC) alternative, which is equal to US $ 1.4 billion and is subject to use.
+
+◼️
+
+[Data](articles/fcfad863.json)
+
+[Extended Data](ext_articles/fcfad863.ext.json)
+
+---
+
+### Monitoring of the inquiry related to Madash's death
+
+*2024-11-07 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203009) · `si`
+
+Madash death inquiry: CID takes over, Magistrate orders investigation, lawyer requests probe assignment, Judicial Service Commission issues circular, police updates court on progress.
+
+🟩
+
+The Investigation Criminal Investigation Department (CID) has been handed over to the Investigation Criminal Investigation Department (CID) regarding the death of a powerful underworld gang leader.
+
+According to the monasteries who were present on behalf of the rights of the deceased, the case was called before Colombo Additional Magistrate Manjula Ratnayake.
+
+Attorney at Law Senak Perera, who appeared for the rights of the deceased, said that a proper investigation was not carried out regarding his client's death.
+
+Accordingly, the lawyer also requested the court to issue an order to assign the investigations into the CID.
+
+After considering the submissions, the Magistrate said that such an order was issued with the circular issued by the Judicial Service Commission.
+
+However, the Magistrate said that if the aggrieved party wanted to go to the relevant institutions, he will complain to investigations.
+
+...
+
+[Data](articles/c45c1916.json)
+
+[Extended Data](ext_articles/c45c1916.ext.json)
+
+---
+
+### மலையக மக்களை அரசியல் அநாதைகளாக்குவதற்கு நாம் இடமளிக்கமாட்டோம் - வடிவேல் சுரேஷ்
+
+*2024-11-07 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198124) · `ta`
+
+மலையக மக்களை அரசியல் அநாதைகளாக்குவதற்கு நாம் இடமளிக்கமாட்டோம். நிச்சயம் தமிழ்ப் பிரதிநிதித்துவத்தை வென்றெடுப்போம் என்று முன்னாள் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+
+நுவரெலியா மாவட்டத்தில் உள்ள ஐக்கிய ஜனநாயக குரல் கட்சி ஆதரவாளர்களுக்கு கட்சியின் அறிமுகம் மற்றும் கொள்கைகளை அறிமுகப்படுத்தும் தேர்தல் பிரச்சாரக் கூட்டம் அட்டனில் இடம்பெற்றது.
+
+இந்த கூட்டத்தில் ஐக்கிய ஜனநாயக குரல் கட்சியின் தலைவர் ரஞ்சன் ராமநாயக்க, ஐக்கிய ஜனநாயக குரல் கட்சியின் நுவரெலியா மாவட்ட தலைமை வேட்பாளர் அனுஷா சந்திரசேகரன், ஷான் பிரதீஸ் உட்பட பதுளை மாவட்ட வேட்பாளர் வடிவேல் சுரேஷ் உள்ளிட்ட பலரும் கலந்துகொண்டனர்.
+
+'பொதுத்தேர்தலில் நான் நுவரெலியா மாவட்டத்தில் போட்டியிட திட்டமிட்டிருந்தேன். ஆனால் எமது பதுளை மாவட்ட மக்கள் என்னை விடவில்லை.  மக்கள் பிரதிநிதித்துவத்தை காக்க நான் அங்கு போட்டியிடுகின்றேன்.
+
+...
+
+[Data](articles/dd2ef792.json)
+
+---
+
+### “The promises cannot be fulfilled within 5 weeks”
+
+*2024-11-07 16:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குறுதிகளை-5-வாரங்களுக்குள்-நிறைவேற்ற-முடியாது/175-346726) · `ta`
+
+Opposition fails to keep promises within weeks, government completes manifesto in five years, Minister claims economy recovery due to new political direction and addressing corruption.
+
+🟩
+
+Minister Vijitha Herath said that some of the opposition politicians were accused of failing to fulfill their promises, and that the manifesto of the national people's power had been completed within five weeks, not within five years.
+
+He said at the election campaign meeting that the government would fulfill its election manifesto in five years and that some opposition politicians, such as Sajith Premadasa, could not fulfill within five weeks.
+
+“We have to make many more decisions. Cannot complete a task that is scheduled for five years within five weeks. The NPP manifesto is presented within five years, not in five weeks. We have not set up the government yet. We have made key decisions in the political and economics within the last five weeks. The opposition is daylight that the government will collapse, ”he said.
+
+...
+
+[Data](articles/ee43d407.json)
+
+[Extended Data](ext_articles/ee43d407.ext.json)
+
+---
+
+### Report on rice and paddy stocks handed over to President
+
+*2024-11-07 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103240/report-on-rice-and-paddy-stocks-handed-over-to-president) · `en`
+
+The Secretary to the Ministry of Trade M.M. Naimuddin today (07) handed over the report prepared by the Consumer Affairs Authority (CAA) on rice and paddy stocks in the country to President Anura Kumara Dissanayake.
+
+This assessment of the rice stocks available within the country was carried out following the President’s directive to gauge the rice supply amidst a market shortage of several varieties, including Nadu, White and Red Raw rice.
+
+In response to the instructions, CAA officers had conducted inspections in the Anuradhapura, Polonnaruwa, Ampara, and Hambantota districts on October 26 and 27.
+
+During these inspections, they gathered data on stock levels at large and medium-scale rice mills and engaged with mill workers regarding the availability and distribution of rice and paddy.
+
+The findings are expected to aid the government in addressing the supply issues affecting key rice varieties.
+
+◼️
+
+[Data](articles/544c9ffb.json)
+
+[Extended Data](ext_articles/544c9ffb.ext.json)
+
+---
 
 ### President to be handed over of rice and paddy stocks
 
@@ -2253,199 +2417,5 @@ If 55,000 people vote for the Muslim Congress, two MPs will be elected through t
 [Data](articles/ae0432d5.json)
 
 [Extended Data](ext_articles/ae0432d5.ext.json)
-
----
-
-### Donald Trump's victory rose shares, dollar value rose
-
-*2024-11-07 02:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198079) · `ta`
-
-Donald Trump's presidency boosted US stock market and dollar value. Chinese stocks fell slightly, but Elon Musk's Tesla rose 13%. Tax cuts may increase US economy costs, while potential export taxes could raise global product prices.
-
-🟩
-
-Donald Trump won the US presidential election and the value of US companies and dollars has increased.
-
-Foreign media reports that Chinese stocks have fallen slightly while Elon Muskin Tesla has risen 13 percent.
-
-It is noteworthy that the promised tax cuts are expected to increase the price of the US economy, while the threatening to tax on foreign exports will increase the prices of goods.
-
-◼️
-
-[Data](articles/469a8fa8.json)
-
-[Extended Data](ext_articles/469a8fa8.ext.json)
-
----
-
-### The success of the Congress Congress is the protection of the hill country
-
-*2024-11-07 02:40:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காங்கிரஸின்-வெற்றியே-மலையகத்தின்-பாதுகாப்பு/175-346692) · `ta`
-
-Ceylon Workers Congress protects hill country lands. Without Congress, lands may be lost. Candidates must win for safety. Former President Ranil Wickremesinghe helped hill country development. Congress provides services year-round, unlike others who only campaign. Vote for Congress candidates to preserve lands and receive benefits.
-
-🟩
-
-Lands are being protected in the hill country because of the existence of the Ceylon Workers Congress. If there is no Congress, the land will be lost. So, for the existence of the people of the hill country, the Congress candidates should definitely win for the safety of the CWC and Nuwara Eliya district candidate Maruthabandi Rameswaran.
-
-Speaking at the election campaign meeting held in Maskeliya, he added,
-
-“Former President Ranil Wickremesinghe is the one who rescued the country from bankruptcy. That is why we announced that he would support him during the presidential election. In addition, he was able to provide many services to the hill country within a short period of time. Funds to grant land rights were allocated.
-
-...
-
-[Data](articles/3aac7d25.json)
-
-[Extended Data](ext_articles/3aac7d25.ext.json)
-
----
-
-### The reason for the shortage of rice is due to the supply of rice for beer production - Small and Medium Plant Owners Association
-
-*2024-11-07 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198081) · `ta`
-
-Rice shortage caused by excess supply for beer production. Government intervention sought to control prices. President summons rice traders to maintain retail prices.
-
-🟩
-
-The Small and Medium Plant Owners Association has said that there is a shortage of rice shortage in the market due to the excessive supply of rice for beer production.
-
-Semasinghe points out that the crude rice paddy harvest used for beer production of U.K. Small and Medium Industries Association is produced by the harvesting of beer.
-
-“Crude rice is needed to make beer. But raw rice necessary to make beer is obtained from rice rice. Therefore, when it comes to a high percentage of beer production, there is a shortage of paddy for rice rice production. "
-
-Agricultural organizations have demanded that the government intervene immediately to control the price of rice.
-
-Shoppers have alleged that rice was not available at control prices until now.
-
-Over the past few weeks, the price of rice has increased in the Sri Lankan market.
-
-Considering the situation, the president summoned massive rice traders, where it was decided to maintain the control price of rice in the retail market.
-
-◼️
-
-[Data](articles/32ff4d47.json)
-
-[Extended Data](ext_articles/32ff4d47.ext.json)
-
----
-
-### A canal that turned red in Ratmalana: A report issued by the Central Environmental Authority
-
-*2024-11-07 02:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198080) · `ta`
-
-Ratmalana canal turns red due to red dye. Central Environmental Authority investigates, finds pH levels normal. Public assured no danger.
-
-🟩
-
-The Central Environmental Authority has issued a statement on the reason why a canal in Ratmalana turned red.
-
-A canal in Ratmalana, Badovitta area, was red on Tuesday morning.
-
-In a statement issued by the Central Environmental Authority, the public has been asked not to fear.
-
-According to information received by the Central Environmental Authority on Tuesday (05), the Upper Provincial Office of the Central Environmental Authority is conducting a field inspection.
-
-In this field investigation, it was revealed that the color of the water has changed due to the leaving red dye in the canal.
-
-The pigment is a soluble pigment, and that the pH (pH) values ​​and parameters are in accordance with existing environmental conditions, according to a statement issued by the Central Environmental Authority.
-
-◼️
-
-[Data](articles/f7969842.json)
-
-[Extended Data](ext_articles/f7969842.ext.json)
-
----
-
-### Donald Trump's shocking and reincarnation
-
-*2024-11-07 02:21:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டொனால்ட்-ட்ரம்பின்-அதிர்ச்சிதரும்-மறுபிரவேசம்/50-346690) · `ta`
-
-Donald Trump re-elected as US President. Won 279 out of 538 Electoral College votes. Kamala Harris received 223 votes. Early voting accounted for 40% of total ballots cast.
-
-🟩
-
-Republican nominee and former president Donald Trump has won the US presidential election.
-
-The Electrural College (Voter Committee) procedure is followed in the US presidential election. There are a total of 50 provinces in that country. Voter committee members will be in accordance with the population of their respective provinces. In the small provinces, there are 1 to the largest province of California, 55, from 55 voters.
-
-Overall has 538 voters group members. The candidate who receives the support of at least 270 members can win the presidential election. In that respect, Trump has scored 279 and Kamala Harris 223.
-
-It is worth noting that if the candidate of the particular party in a province wins more votes, the province of the province will reach the winning candidate throughout the election.. Provincial wise voting has reached its final stage.
-
-...
-
-[Data](articles/1885a4d6.json)
-
-[Extended Data](ext_articles/1885a4d6.ext.json)
-
----
-
-### NPP will get less than 100 seats: Madduma Bandara
-
-*2024-11-07 01:44:13* · [`dailyftlk`](https://www.ft.lk/news/NPP-will-get-less-than-100-seats-Madduma-Bandara/56-768930) · `en`
-
-Says President Anura Kumara Dissanayake and his Govt. facing increasing public disapproval
-
-Claims support for President has waned due to unmet electoral promises and growing discontent
-
-Accuses NPP of undermining democracy and urges public to vote SJB to protect SL’s democratic values
-
-Samagi Jana Balawegaya (SJB) National List candidate Ranjith Madduma Bandara has strongly criticised the current Government led by the National People’s Power (NPP), citing unmet promises and growing discontent among the public.
-
-Addressing a press conference yesterday, Madduma Bandara highlighted the challenges facing the NPP administration, which took office nearly two months ago, following President Anura Kumara Dissanayake’s election victory.
-
-...
-
-[Data](articles/937d5726.json)
-
-[Extended Data](ext_articles/937d5726.ext.json)
-
----
-
-### Govt. considers reviewing security allocations  for Ex-Presidents
-
-*2024-11-07 01:41:17* · [`dailyftlk`](https://www.ft.lk/news/Govt-considers-reviewing-security-allocations-for-Ex-Presidents/56-768929) · `en`
-
-Cabinet Spokesman Minister Vijitha Herath clarifies no reduction in security details has occurred yet, countering claims by former President Kumaratunga
-
-Reveals some Ex-Presidents’ security details of over 100 personnel, total costing tops Rs. 1.1 b annually
-
-Says Govt. will disclose details on firearms returned by former MPs; future firearms distribution will follow stricter guidelines
-
-Cabinet Spokesman and Minister Vijitha Herath yesterday announced that the Government is considering revising the security detail provided to former Presidents, a move prompted by significant budget pressures.
-
-Refuting claims that security for former leaders had already been reduced, he clarified that no changes have yet been implemented.
-
-Responding to questions raised at the weekly post-Cabinet meeting media briefing yesterday, he noted that a committee is currently reviewing the matter, and a decision will be made following its recommendations.
-
-...
-
-[Data](articles/4ad1d623.json)
-
-[Extended Data](ext_articles/4ad1d623.ext.json)
-
----
-
-### China extends fabric grant for 2025 school uniforms
-
-*2024-11-07 01:39:48* · [`dailyftlk`](https://www.ft.lk/news/China-extends-fabric-grant-for-2025-school-uniforms/56-768928) · `en`
-
-The People’s Republic of China has pledged 11.82 million meters of fabric to be distributed as uniform materials for students across the country for the coming school year.
-
-The Cabinet of Ministers at their meeting on Monday has approved this generous grant from the Chinese Government to supply school uniforms in 2025.
-
-Addressing the weekly post-Cabinet meeting media briefing yesterday, Cabinet Spokesman Minister Vijitha Herath said the fabric grant is valued at over Rs. 5.2 billion.
-
-The Sri Lanka Textile and Garment Institute (SLITA) conducted thorough testing on fabric samples provided to the Education Ministry and confirmed the material’s suitability for school uniforms.
-
-“The uniforms for both school and Piriven (monastic) education will be distributed in two stages – the first batch by the end of this month and the second in the following month, with fabric pre-cut to specified sizes for distribution,” he added.
-
-◼️
-
-[Data](articles/98b51e18.json)
-
-[Extended Data](ext_articles/98b51e18.ext.json)
 
 ---

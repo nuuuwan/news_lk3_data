@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 20:10:57**
+As of **2024-11-07 20:24:35**
 
 ## Newspaper Stats
 
-*Scraped **53,597** Articles*
+*Scraped **53,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ dailymirrorlk | 4,733
 adalk | 5,014
 adaderanalk | 6,389
 tamilmirrorlk | 7,464
-virakesarilk | 8,674
-adaderanasinhalalk | 9,341
+virakesarilk | 8,675
+adaderanasinhalalk | 9,342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,597 (100.0%) of 53,597 articles have been extended.
+53,597 (100.0%) of 53,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ශකීබ්ගේ සියලු බැංකු ගිණුම් අත්හිටුවයි
+
+*2024-11-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203015) · `si`
+
+බංග්ලා‍දේශ ක්‍රිකට් කණ්ඩායමේ තුන්ඉරියව් ක්‍රීඩක ශකීබ් අල් හසන්ගේ සියලු  බැංකු ගිණුම්, බංග්ලදේශ මූල්‍ය බුද්ධි ඒකකය මගින් අත්හිටුවා තිබේ.
+
+මෙම තත්ත්වය මත ශකීබ් අල් හසන්ගේ අනාගත ක්‍රිකට් ක්‍රීඩා දිවියද මේ වනවිට අවිනිශ්චිත තත්වයකට පත්ව ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/99a612af.json)
+
+---
+
+### கொழும்பில் காற்றின் தரம் குறைந்து இருள் சூழ்கிறது
+
+*2024-11-07 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198142) · `ta`
+
+கொழும்பு உட்பட தீவின் பல நகரங்களில் காற்றின் தரக் குறியீடு "சற்று ஆரோக்கியமற்ற நிலையை" எட்டியுள்ளது.
+
+இதன் விளைவாக, சுவாசிப்பதில் சிலர் சிரமங்களை சந்தித்தால் அவர்கள் மருத்துவ ஆலோசனையைப் பெற வேண்டும் என்று தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் கூறியது.
+
+காற்றின் தரமானது இன்று வியாழக்கிழமை (7) கொழும்பு மற்றும் கண்டி நகரங்களின் காற்றின் தரச் சுட்டெண் 122 முதல் 130 வரையிலும், குருநாகலில் 118 முதல் 126 வரையிலும் இருந்தது.
+
+மேலும், கண்டி, கேகாலை, இரத்தினபுரி, எம்பிலிப்பிட்டிய, பதுளை, மட்டக்களப்பு, களுத்துறை, அம்பாந்தோட்டை மற்றும் மொனராகலை ஆகிய நகரங்களில் நிலைமை சுட்டெண் சற்று சாதகமற்ற மட்டத்திற்கு உயர்ந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ec0af90b.json)
+
+---
 
 ### Firing
 
@@ -2413,49 +2445,5 @@ The remains are placed at the Laggala hospital morgue and Laggala police are con
 [Data](articles/0f96e38e.json)
 
 [Extended Data](ext_articles/0f96e38e.ext.json)
-
----
-
-### President to meet with British Secretary and British High Commissioner
-
-*2024-11-07 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202994) · `si`
-
-President meets British officials: Discusses anti-corruption methods, strengthens bilateral ties.
-
-🟩
-
-Presidential Secretary Dr. Nandika Sanath Sanath Kanayake and British High Commissioner is a meeting between Mr. Andrea Patrick.
-
-Both Britain's Methodology for local authorities have been discussed to minimize corruption.
-
-The British High Commissioner also stated that the British High Commissioner to inform the British Parliamentary regarding British parliamentary tradition, the Presidential Media Unit said.
-
-The British High Commission has also stated that he is expected to strengthen bilateral relations between the two countries.
-
-◼️
-
-[Data](articles/7fcecf25.json)
-
-[Extended Data](ext_articles/7fcecf25.ext.json)
-
----
-
-### US sanctions Indian firm involved in deal with Sri Lanka’s Mattala airport
-
-*2024-11-07 08:22:00* · [`economynextcom`](https://economynext.com/us-sanctions-indian-firm-involved-in-deal-with-sri-lankas-mattala-airport-186347/) · `en`
-
-ECONOMYNEXT – The United States has sanctioned an Indian firm which is in a consortium with a Russian firm to manage Sri Lanka’s Mattala Airport, official data showed.
-
-The U.S. Department of the Treasury sanctioned India-based Shaurya Aeronautics Private Limited (Shaurya) last week among 275 individuals and entities involved in supplying Russia with advanced technology and equipment that it desperately needs to support its war machine.
-
-“Today’s action targets both individual actors and sprawling sanctions evasion networks across 17 jurisdictions, including India, the People’s Republic of China (PRC), Switzerland, Thailand, and Türkiye,” the U.S. Department of the Treasury said in a statement.
-
-“In addition to disrupting global evasion networks, this action also targets domestic Russian importers and producers of key inputs and other material for Russia’s military-industrial base.”
-
-...
-
-[Data](articles/2996cf4d.json)
-
-[Extended Data](ext_articles/2996cf4d.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 15:40:24**
+As of **2024-11-07 15:58:57**
 
 ## Newspaper Stats
 
@@ -26,35 +26,45 @@ adaderanasinhalalk | 9,334
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,562 (100.0%) of 53,565 articles have been extended.
+53,565 (100.0%) of 53,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### ඩොනල්ඩ් ට්‍රම්ප් ට කමලා හැරිස් ගෙන් සුබ පැතුම්
+### Greetings from Donald Trump to Kamala Harris
 
 *2024-11-07 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203006) · `si`
 
-අමෙරිකානු ජනාධිපතිවරණය ජයගනිමින් එරට 47 වැනි ජනාධිපතිවරයා ලෙස තේරීපත්වීමට හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඊයේ (06) සමත්විය.
+Donald Trump congratulates Kamala Harris on her election win, promising smooth transition. World watches Trump's foreign policy moves, including ending Russian-Ukrainian war and Israeli conflict.
 
-ඒ මැතිවරණයේදී කරට කර සටනක් දුන් වත්මන් රජයේ උප ජනාධිපතිනී කමලා හැරිස් පරාජයට පත්කරමින්.
+🟩
 
-රුසියා යුක්‍රේන යුද්ධය අවසන් කිරීමට මෙන්ම මැදපෙරදිග දිගුකාලීන සාමයක් සඳහා ට්‍රම්ප් පාලනය යටතේ කිනම් පියවර ගනු ඇතිද යන්න මේ වනවිට ලෝකයේ වැඩි අවධානයට ලක්ව තිබේ.
+Former President Donald Trump was elected 47th President as the 47th President of the United States presidential election.
 
-මෙතෙක් ප්‍රකාශිත ප්‍රතිඵලවලට අනුව මැතිවරණයේ තීරණාත්මක ප්‍රාන්ත හතෙන් පහක බලය තමන් සතු කරගෙන සිටි ට්‍රම්ප් දිනා ඇති ඡන්ද විද්‍යාල ගණන 294කි.
+The current government's Deputy President of the present Government of the present government who has been involved in the election is being defeated.
 
-වත්මන් ජනාධිපති ජෝ බයිඩන් මෙන්ම හිටපු ප්‍රබල ජනාධිපතිවරයෙක් වන බැරැක් ඔබාමාගේ පවා සෘජු සහාය ලැබූ කමලා හැරිස්ට තවමත් දිනාගැනීමට හැකිව ඇත්තේ ආසන 223ක් පමණි.
+The world has been attracted to the end of the Ruffama Ukrainian war and to take long-term peace in the Middle East.
 
-දිගු නිහැඬියාවකින් අනතුරුව සිය මැතිවරණ ව්‍යාපාරය අවසන් කළ කමලා හැරිස්, සිය මැතිවරණ සටන නිමාකිරීමේ දේශනය වොෂින්ටන් නුවර හාවර්ඩ් විශ්වවිද්‍යාල භූමියේදී පැවැත්වූවාය.
+According to the results so far, 294 votes have won the power of five crucial states in the election.
 
-එහිදී ඇය පැවසුවේ තමා ට්‍රම්ප් ට ජයග්‍රහණය වෙනුවෙන් සුබ පැතූ බවයි.
+Even 223 seats have already won only 223 seats.
 
-එසේම බල හුවමාරුව සුමට අයුරින් සිදුවීමට උදව් කරන බවත් ඇය දැනුම්දී තිබුණාය.
+After a long virtue, Kamala Harris, the end of his election campaign, held the end of Harvard, in the university premises in Washington.
 
-...
+There she said he congratulated Trump to victory.
+
+She also informed that the exchange would help smoothly.
+
+Meanwhile, many in the world focuses on the foreign policies of his foreign policies in parallel to Trump victory.
+
+There, Russia-Ukrainian war, the war, and what a trump is made to end the Israeli war, many people raise.
+
+◼️
 
 [Data](articles/668f5b24.json)
+
+[Extended Data](ext_articles/668f5b24.ext.json)
 
 ---
 
@@ -78,23 +88,37 @@ However, this includes proceeds from the swap with the People’s Bank of China 
 
 [Data](articles/2011a88e.json)
 
+[Extended Data](ext_articles/2011a88e.ext.json)
+
 ---
 
-### இளம் ஆசிரியர் சடலமாக மீட்பு
+### Recovery as a young teacher corpse
 
 *2024-11-07 15:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-ஆசிரியர்-சடலமாக-மீட்பு/175-346723) · `ta`
 
-புல்மோட்டை மத்திய கல்லூரியில் ஆசிரியராக பணியாற்றி வந்த நற்பிட்டிமுனையை பிறப்பிடமாகவும் முல்லைத்தீவை வசிப்பிடமாகவும் கொண்ட நூஹு லெப்பை மொகமட் முபீஸ் (28) பாடசாலையில் அவர் தங்கியிருந்தஅறையில் இருந்து புதன்கிழமை (06) மாலை சடலமாக மீட்கப்பட்டுள்ளார்.
+Young teacher found dead in classroom. Body discovered after wife calls, no signs of foul play. Police investigation ongoing.
 
-புதன் காலை பாடசாலை வரவு    பதிவு இயந்திரத்தில் வருகையை பதிவு செய்த பின்னர் இவர் வகுப்பறைகளுக்கு சென்று காலை 10.30 மணி வரை பாடம் நடத்தி உள்ளார். அப்போது தனது இடமாற்றம் தொடர்பாக        மாகாண ஆளுநரைச் சந்திக்க  திருகோணமலை நகரிற்கு செல்ல உள்ளதாக மாணவர்களுக்கு கூறியுள்ளார்.
+🟩
 
-இந்நிலையில் பாடசாலை முடிவடைந்த பின்னர் மாலை 3.30 மணிவரை வெளியேறுவதற்கான பதிவை இயந்திரத்தில் இவர் பதிவு செய்யவில்லை.
+The body was recovered from the place where he was staying at the Nooh Lepp Mohammed Mubis (28) school on Wednesday evening (06), a native of Napittimunai and a resident of Mullaitivu.
 
-இதே வேளை இவரது மனைவி தமது கணவருக்கு தொலைபேசி அழைப்பை மேற்கொண்ட போதும் பதில் இல்லை,எனவே எங்கே எனது கணவர் உள்ளார் என்று பாடசாலை அதிபருக்கு தொலைபேசியில் தொடர்பு கொண்டு வினவியுள்ளார்.
+He went to the classrooms until 10.30 am after registering the arrival of the school budget on Wednesday morning.. He told the students that he would go to Trincomalee to meet the provincial governor regarding his transfer.
 
-...
+In this case, he did not register in the machine to leave until 3.30 pm after the school.
+
+At the same time, his wife made a phone call to her husband, but he telephoned the school principal that my husband had.
+
+When the Chancellor and the teachers visited the room where the teacher was staying, he was found dead, underwear and carpet, and with blood injuries.
+
+Following this, the Pulmottai police station was informed about the incident.
+
+The body has been taken to the Mullaitivu Hospital for the death test.
+
+◼️
 
 [Data](articles/d5a1d51f.json)
+
+[Extended Data](ext_articles/d5a1d51f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 22:26:01**
+As of **2024-11-07 22:42:40**
 
 ## Newspaper Stats
 
-*Scraped **53,605** Articles*
+*Scraped **53,608** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,017
-adaderanalk | 6,390
-tamilmirrorlk | 7,464
+adalk | 5,018
+adaderanalk | 6,391
+tamilmirrorlk | 7,465
 virakesarilk | 8,675
 adaderanasinhalalk | 9,344
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,344
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,605 (100.0%) of 53,605 articles have been extended.
+53,606 (100.0%) of 53,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Cuba left reeling after Category 3 hurricane ravages island and knocks out power grid
+
+*2024-11-07 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103246/cuba-left-reeling-after-category-3-hurricane-ravages-island-and-knocks-out-power-grid) · `en`
+
+Cuba was left reeling Thursday after a fierce Category 3 hurricane ripped across the island, knocking out the country’s power grid, downing trees and damaging infrastructure.
+
+Hurricane Rafael crossed a western portion of Cuba on Wednesday evening about 75 kilometers (45 miles) west of Havana, where José Ignacio Dimas returned home from his night shift as a security guard to find his apartment building in the historic center of the city had collapsed.
+
+“The entire front wall of the building fell,” José Ignacio Dimas said in a tight voice as he scanned the damage early Thursday. Like many buildings in the capital, it was aging and lacked maintenance.
+
+Some 50,000 people took shelter in Havana, with thousands more doing the same in regions south and just west of the capital since they lived in flood zones or in flimsy homes. The main road from Havana to the southern coastal city of Batabanó was strewn with dozens of utility poles and wires.
+
+...
+
+[Data](articles/72f310b6.json)
+
+---
+
+### Two people injured in shooting
+
+*2024-11-07 22:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-இருவர்-காயம்/175-346737) · `ta`
+
+Shooting incident in Wennappuwa-Kimbulwana injures two
+
+🟩
+
+Two persons were injured in the shooting in the Wennappuwa - Kimbulwana area, police said.
+
+◼️
+
+[Data](articles/60ef2497.json)
+
+[Extended Data](ext_articles/60ef2497.ext.json)
+
+---
 
 ### Interim base of elephants is an interim injunction
 
@@ -163,6 +199,22 @@ The reason for the firing came forward, and the reason for the shooting has not 
 [Data](articles/1cf58648.json)
 
 [Extended Data](ext_articles/1cf58648.ext.json)
+
+---
+
+### මධූෂ්ගේ බිරිඳගේ ඉල්ලීමක් අධිකරණය ඉවත දමයි
+
+*2024-11-07 19:35:58* · [`adalk`](https://www.ada.lk/breaking_news/මධූෂ්ගේ-බිරිඳගේ-ඉල්ලීමක්-අධිකරණය-ඉවත-දමයි/11-412921) · `si`
+
+හෙරොයින් කිලෝ 22ක්  අත්අඩංගුවට ගැනීමේ පොලිස් මෙහෙයුමකදී වෙඩිවැදී මියගිය බව කියන පාතාල කල්ලි සාමාජික මාකඳුරේ මධුෂ් නමැත්තාගේ මරණය සම්බන්ධයෙන් කරන විමර්ශන රහස් පොලිසියට පවරන්නැයි ඔහුගේ බිරිඳ කළ ඉල්ලීමක් කොළඹ අතිරේක මහේස්ත්‍රාත් මංජුල රත්නාක මහතා අද (07) ප්‍රතික්ෂේප කළේය.
+
+මාකඳුරේ මධුෂ් නමැත්තාගේ මරණය සම්බන්ධයෙන් මලිගාවත්ත පොලිසිය කරන විමර්ශන සම්බන්ධයෙන් සෑහීමකට පත් නොවන්නේ නම් පොලිස්පතිවරයාට, බස්නාහිර පළාත් භාර ජ්‍යෙෂ්ඨ පොලිස් පතිවරයාට  හෝ රහස් පොලිසියට පැමිණිලි කළ හැකි බව පෙන්වා දුන් අතිරේක මහේස්ත්‍රාත්වරයා අධිකරණ සේවා කොමිසමේ චක්‍රලේඛ ප්‍රකාරව විමර්ශන රහස් පොලිසිය වෙත යොමු කිරීමට මහේස්ත්‍රාත්වරයාට හැකියාවක් නොමැති බවද පෙන්වා දුන්නේය.
+
+මාකඳුරේ මධුෂ් නමැත්තාගේ මරණය සම්බන්ධයෙන් ප්‍රශ්චාත් මරණණ පරීක්‍ෂණයක් පවත්වා තීන්දුවක් දී ඇතැයි පෙන්වා දුන් මහේස්ත්‍රාත්වරයා  අධිකරණය දුන් තීන්දුවට අනුව සිද්ධියට අදාළව කරන ඉදිරි විමර්ශන වල ප්‍රගතිය දෙසැම්බර් 05 වැනිදා අධිකරණයට ඉදිරිපත් කරන ලෙස මාලිගාවත්ත පොලිසියට නියෝග කළේය.
+
+...
+
+[Data](articles/fb918153.json)
 
 ---
 
@@ -2389,79 +2441,5 @@ In equities, Colombo’s All Share Price Index opened down 0.01 percent, or 1.62
 [Data](articles/ca279b0a.json)
 
 [Extended Data](ext_articles/ca279b0a.ext.json)
-
----
-
-### A person dies suspiciously in Kandy
-
-*2024-11-07 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198083) · `ta`
-
-Suspicious death in Kandy: Man falls near three-wheeler, hospitalized, police investigation ongoing. Body sent for autopsy.
-
-🟩
-
-A man who fell near a three -wheeler on the Ampitiya Miganuwa road belonging to the Kandy Police Division has died after being admitted to the hospital.
-
-Investigations have begun yesterday (06) on the basis of information received by the police regarding the incident.
-
-A man suspected of being a driver has been found lying near the three -wheeler as a three -wheeler has been parked near a wiring on the Kandy road.
-
-The body of the deceased has been placed in the funeral room of the Kandy Hospital for autopsy and the Kandy police are conducting further investigations.
-
-◼️
-
-[Data](articles/b1c6dd7d.json)
-
-[Extended Data](ext_articles/b1c6dd7d.ext.json)
-
----
-
-### Passport distribution has been launched without rows - Cabinet spokesman Vijitha Herath
-
-*2024-11-07 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198045) · `ta`
-
-Passport distribution launched smoothly: Cabinet spokesperson Vijitha Herath. Steps taken to manage demand and ensure timely issuance. Process began after previous government failed to meet target of 750,000 passports simultaneously. Applicants encouraged to apply now.
-
-🟩
-
-Instead of obtaining passports on the same occasion, the last government has reached compliance with. This is why it was impossible to provide them with the needs of the people. However, Cabinet spokesman Vijitha Herath said that the distribution of passports has been launched without a row.
-
-He further stated that the press conference to announce the Cabinet decisions was held on Wednesday (06).
-
-The people who are currently speaking about experience are in line to get a passport as a result of the problem caused by. However, we have taken steps to get some management and obtain passports.. Passports are available as a volume.
-
-These measures are being carried out on the basis of the agreement agreement signed by the last government. The last government has not reached the compliance of 750,000 passports on the same occasion. This is why it is impossible to issue a passport as needed.
-
-...
-
-[Data](articles/e7b2b687.json)
-
-[Extended Data](ext_articles/e7b2b687.ext.json)
-
----
-
-### Timeline extending to re -handle the guns
-
-*2024-11-07 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198084) · `ta`
-
-Deadline extended: Hand over licensed guns by Nov 21. Original deadline was Nov 7. Guns will be collected from public. Ministry plans to review and re-issue weapons after collection.
-
-🟩
-
-The Ministry of Defense has announced that the deadline for handing over all the licensed guns and racks given to the public has been extended till November 21.
-
-The Ministry granted a month's time to end on November 7 to hand over all the guns and shoes provided to the public for self -defense and other purposes.
-
-On October 04, the Ministry of Defense announced that all the guns and shoes provided to the public would be acquired by the government and that they should be handed over to the relevant authorities before November 7.
-
-The Ministry of Defense added that after reviewing the guns issued to the Ministry of Defense, they are looking forward to re -issuing them.
-
-The Ministry of Defense has informed all licenses to hand over the appropriate guns and shoes at the government's commercial ammunition warehouse in Welisara.
-
-◼️
-
-[Data](articles/e8bc6c64.json)
-
-[Extended Data](ext_articles/e8bc6c64.ext.json)
 
 ---

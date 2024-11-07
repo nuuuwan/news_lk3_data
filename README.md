@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 05:46:04**
+As of **2024-11-07 06:10:17**
 
 ## Newspaper Stats
 
-*Scraped **53,470** Articles*
+*Scraped **53,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
 adaderanalk | 6,368
-tamilmirrorlk | 7,446
+tamilmirrorlk | 7,447
 virakesarilk | 8,648
 adaderanasinhalalk | 9,317
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,470 (100.0%) of 53,470 articles have been extended.
+53,471 (100.0%) of 53,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### The only solution for the people
+
+*2024-11-07 03:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவே-மக்களுக்கு-இருக்கும்-ஒரே-தீர்வு/175-346697) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Current president's promises unfulfilled. Former president's IMF deal extended debt repayment. United People's Power leader Sajith Premadasa calls for renegotiation to avoid bankruptcy. Promises economic growth through exports, manufacturing, and increased income.
+
+🟩
+
+Although the current president has given many expectations from the presidential election platform, it is impossible to achieve anything today.. The former president said that he would immediately remove the uncontrolled tax burden on the president. United People's Power Leader Sajith Premadasa said he could not accomplish it.
+
+He discussed the President twice with the International Monetary Fund, but the country has not improved favorable. Sajith Premadasa also said that the International Coin Fund has denied the condition of taxing taxes.
+
+This is why I request the United People's Power to give the majority of the majority in the parliamentary election. Ranil Wickremesinghe and others will get out of the tax burden on the head of the people by negotiating with the International Monetary Fund in the United People's Power. Sajith Premadasa said he would take steps to carry out the International Monetary Agreement.
+
+...
+
+[Data](articles/d84feb25.json)
+
+[Extended Data](ext_articles/d84feb25.ext.json)
+
+---
 
 ### We are the strongest opposition.
 
@@ -2359,29 +2385,5 @@ Police said they are taking steps to sue the Badulla court in connection with th
 [Data](articles/56a502eb.json)
 
 [Extended Data](ext_articles/56a502eb.ext.json)
-
----
-
-### Trump described Illan Mask as a new star
-
-*2024-11-06 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198035) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Donald Trump describes Elon Musk as a "new star" during his victory speech after being elected as the 47th US President. He highlights Musk as one of the world's wealthiest individuals and owner of X (formerly Twitter).
-
-🟩
-
-Donald Trump has been elected as the 47th president in the US presidential election.
-
-In his speech, Donald Trump described Ilan Mask as one of the world's largest billionaires and the owner of X -social media as the "new star".
-
-◼️
-
-[Data](articles/9a7cecb3.json)
-
-[Extended Data](ext_articles/9a7cecb3.ext.json)
 
 ---

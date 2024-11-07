@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 21:25:05**
+As of **2024-11-07 21:59:44**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 9,343
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,602 (100.0%) of 53,603 articles have been extended.
+53,603 (100.0%) of 53,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### ගිනිඅවි භාරදීමට දී තිබූ කාලය දීර්ඝ කෙරේ
+### Extension of time to hand over firearms
 
 *2024-11-07 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203016) · `si`
 
-පුද්ගලික ආරක්ෂාව සඳහා සිවිල් පුද්ගලයින් ට ලබාදී ඇති ගිනිඅවි සහ පතොරම් ආපසු භාරදීමට දී තිබූ කාලය දීර්ඝ කර තිබේ.
+Firearms and ammunition handover deadline extended to April 21st for civilians.
 
-ඒ අනුව මේ මස 21 වනදා දක්වා එම කාලය දීර්ඝ කළ බව ආරක්ෂක අමාත්‍යාංශය පවසයි.
+🟩
+
+The firearms and ammunition have been extended to civilians have been extended by civilians.
+
+Accordingly, the time was extended until the 21st of this month.
 
 ◼️
 
 [Data](articles/fc65a790.json)
+
+[Extended Data](ext_articles/fc65a790.ext.json)
 
 ---
 

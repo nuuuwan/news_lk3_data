@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 18:46:04**
+As of **2024-11-07 18:59:59**
 
 ## Newspaper Stats
 
-*Scraped **53,585** Articles*
+*Scraped **53,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,012
-adaderanalk | 6,387
+adaderanalk | 6,388
 tamilmirrorlk | 7,463
-virakesarilk | 8,669
+virakesarilk | 8,671
 adaderanasinhalalk | 9,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,584 (100.0%) of 53,585 articles have been extended.
+53,586 (100.0%) of 53,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Dr. Shafi files complain against false charges
+
+*2024-11-07 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103243/dr-shafi-files-complain-against-false-charges) · `en`
+
+Specialist Dr. Shafi Sihabdeen has lodged a complaint with the Ministry of Public Security today (07).
+
+The complaint was lodged requesting an investigation into his arrest and the distress caused to him and his family by making false statements with the intent of creating disharmony within the society as well as for the forging of documents in a deliberate and conspiratorial manner.
+
+Speaking to reporters outside the ministry after making the complaint, Dr. Shafi stated that he had endured immense anguish over a period of five years and six months.
+
+“It was not me who was freed yesterday.  It was everyone who stood for justice. I have a duty to do, to make sure that no one else is faced with this injustice.”
+
+“I filed a complaint against all those who acted against me. They looked for complaints after arresting me. Myself, my children and wife, were subjected to immense pressure,” he added.
+
+...
+
+[Data](articles/6a2fcd2a.json)
+
+[Extended Data](ext_articles/6a2fcd2a.ext.json)
+
+---
+
+### The government should reveal the fuel price formula - request to the government
+
+*2024-11-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198123) · `ta`
+
+Request: Government reveal fuel price formula. Former energy minister claims corporation operates independently, setting prices based on contracts. Current minister denies using formula for recent price adjustments. Corporation president disputes claims, urging government transparency.
+
+🟩
+
+The recent comment to the media of the Ceylon Petroleum Corporation on the determination of fuel prices is completely untrue. Kanjana Wijesekera, former minister of Energy and Energy and Energy, said that the government wants to reveal the cost of fuel prices in the last two months.
+
+He was speaking at a press conference held at the New Democratic Front's Election Office in Colombo on Thursday (07).
+
+At a media briefing, the president of the Corporation said that the Ceylon Petroleum Corporation has signed an agreement with other companies.. This claim of the leader is an attempt to make people frustrated with the past government's programs. This claim is completely untrue.
+
+Determination of the price of the Ceylon Petroleum Corporation is not based on the cost of production. The Ceylon Petroleum Corporation operates as an independent company. It is their duty to act on the basis of contracts as they acted for the past 18 months.
+
+...
+
+[Data](articles/3f5b6d21.json)
+
+[Extended Data](ext_articles/3f5b6d21.ext.json)
+
+---
 
 ### A complaint from medical safin
 
@@ -107,6 +153,20 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 [Data](articles/1593b5a1.json)
 
 [Extended Data](ext_articles/1593b5a1.ext.json)
+
+---
+
+### பொதுப்பயன்பாடுகள் ஆணைக்குழுவை நியமிக்காமல் மின்சார கட்டணத்தை எவ்வாறு குறைக்க முடியும் - காஞ்சன
+
+*2024-11-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198131) · `ta`
+
+பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் மற்றும் ஆணையாளர்களை நியமிக்காமல் மின்சார கட்டணத்தை குறைக்க முடியாது. மின்சார கட்டணத்தை குறைப்பதற்கு நடவடிக்கை எடுத்து வருவதாக அரசாங்கம் மக்களை ஏமாற்றி வருகிறது. டிசம்பர் மாதத்திலும் மின்சார கட்டணம் குறையப்போவதில்லை. அத்துடன் இலங்கை மின்சார சபையை மறுசீரமைப்புக்கும் சட்டத்தை செயலாளரும் பொது முகாமையாளரும் மீறி வருகிறார். அவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுப்போம்  என புதிய ஜனநாயக முன்னணியின் மாத்தறை மாவட்ட வேட்பாளரும் எரிசக்தி மற்றும் புதுப்பிக்க சக்தி முன்னாள் அமைச்சருமான காஞ்சன விஜேசேகர தெரிவித்தார்.
+
+கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணியின் தேர்தல் வழிநடத்தல் காரியாலயத்தில் வியாழக்கிழமை (07) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+...
+
+[Data](articles/c2d22b19.json)
 
 ---
 
@@ -2373,67 +2433,5 @@ Meanwhile, Elections Commissioner General Saman Sri Ratnayake expressed these vi
 [Data](articles/77cb4692.json)
 
 [Extended Data](ext_articles/77cb4692.ext.json)
-
----
-
-### Heavy rains in several provinces
-
-*2024-11-07 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202989) · `si`
-
-Heavy rains forecasted in Northern, North-central regions and Puttalam, Trincomalee. Thunderstorms expected in central, Sabaragamuwa, Uva, Southern provinces. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at times in the Northern and North-central areas and in Puttalam and Trincomalee districts.
-
-Department of Meteorological Department announced from some places in the Northern Province. Heavy rains can occur in more than 50.
-
-Thundershowers will develop at several places in the middle, Sabaragamuwa, Uva and Southern provinces.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/a152f578.json)
-
-[Extended Data](ext_articles/a152f578.ext.json)
-
----
-
-### Ashes Of Despair, Embers Of Hope: Sri Lanka’s Path To Renewal
-
-*2024-11-07 05:38:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ashes-of-despair-embers-of-hope-sri-lankas-path-to-renewal/) · `en`
-
-The story of Sri Lanka’s recent turmoil is both a cautionary tale of authoritarianism gone awry and a narrative of resilience. The Rajapaksa dynasty, spearheaded by Gotabaya Rajapaksa, came to symbolize the very forces that pushed Sri Lanka to the brink—corruption, nepotism, and reckless economic policies. Gotabaya’s tenure left the nation reeling from financial mismanagement, stoked ethnic divisions, and silenced dissent. Yet, from this dark chapter emerged a new leader, Anura Kumara Dissanayake, whose values and vision offer Sri Lankans a renewed sense of hope. This article traces the disastrous decisions of Gotabaya’s administration and examines how Dissanayake and the National People’s Power (NPP) party are paving a path toward unity, accountability, and economic recovery.
-
-...
-
-[Data](articles/56652a8c.json)
-
-[Extended Data](ext_articles/56652a8c.ext.json)
-
----
-
-### 'Put legal action against people who gave me the post' - Dr. Shafi
-
-*2024-11-07 04:41:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87x3np7zg3o) · `si`
-
-Dr. Shafi threatens legal action against those responsible for a false accusation. He expresses relief over the case's outcome, calling it a victory for justice in Sri Lanka.
-
-🟩
-
-'Put legal action against people who gave me the post' - Dr. Shafi
-
-Dr. Shihabadeen, Dr. Shihabaden, says that some officials will regret it and legal legal action will be taken against them to get higher positions.
-
-Dr. Shafi expressed these views to journalists after ordering to acquit and release the case against women.
-
-"The five-month false accusation, I have come to an end to the wife, his family, for their personal benefit. I think this is not just the winter I have ever got, and is a victory of those who fought for justice in Sri Lanka, "
-
-◼️
-
-[Data](articles/5499d99e.json)
-
-[Extended Data](ext_articles/5499d99e.ext.json)
 
 ---

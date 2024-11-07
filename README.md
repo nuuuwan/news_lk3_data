@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 00:25:22**
+As of **2024-11-08 00:56:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,618 (100.0%) of 53,622 articles have been extended.
+53,622 (100.0%) of 53,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1246,6 +1246,8 @@ The National Secretariat for NGOs is responsible for registering NGOs, monitorin
 
 [Data](articles/4d4d187e.json)
 
+[Extended Data](ext_articles/4d4d187e.ext.json)
+
 ---
 
 ### Passport crisis: Immigration officers claim higher-ups concealed actual situation from Minister
@@ -1307,6 +1309,8 @@ CERT warned against forwarding any code, PIN, OTP, or password received via phon
 ...
 
 [Data](articles/3b1f7051.json)
+
+[Extended Data](ext_articles/3b1f7051.ext.json)
 
 ---
 
@@ -1407,6 +1411,8 @@ The proposed debentures, which will mature in five years, will be listed on the 
 ...
 
 [Data](articles/6b848402.json)
+
+[Extended Data](ext_articles/6b848402.ext.json)
 
 ---
 
@@ -1939,6 +1945,8 @@ The area had seen an influx of Israeli visitors of late. In the past few months,
 ...
 
 [Data](articles/01620f07.json)
+
+[Extended Data](ext_articles/01620f07.ext.json)
 
 ---
 

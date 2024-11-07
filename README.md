@@ -1,36 +1,166 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 08:01:48**
+As of **2024-11-07 09:03:36**
 
 ## Newspaper Stats
 
-*Scraped **53,483** Articles*
+*Scraped **53,493** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
-bbccomsinhala | 545
+bbccomsinhala | 546
 colombotelegraphcom | 547
-islandlk | 3,199
+islandlk | 3,200
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 4,995
-adaderanalk | 6,368
+adalk | 4,997
+adaderanalk | 6,370
 tamilmirrorlk | 7,447
 virakesarilk | 8,648
-adaderanasinhalalk | 9,319
+adaderanasinhalalk | 9,323
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,477 (100.0%) of 53,483 articles have been extended.
+53,491 (100.0%) of 53,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### පුද්ගලයෙක් මතට පස් කණ්ඩියක් කඩා වැටෙයි
+
+*2024-11-07 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202995) · `si`
+
+ලග්ගල පොලිස් වසමේ හත්තොට අමුණ ප්‍රදේශයේදී පතලක වැඩකරමින් සිටි පුද්ගලයකු මතට පස් කණ්ඩියක් කඩා වැටී ඔහු ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ ඊයේ (06) සවස එම අනතුර සිදුව ඇති අතර මියගිය පුද්ගලයා අවුරුදු 40ක් වූ හත්තොට අමුණ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මියගිය පුද්ගලයා ඇතුළු තවත් පුද්ගලයින් සිව්දෙනෙකු පුද්ගලික ඉඩමක මැණික් පතලක් හාරමින් සිටියදී මෙම අනතුර සිදුව ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත.
+
+මෘත ශරීරය ලග්ගල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ලග්ගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/0f96e38e.json)
+
+---
+
+### ජනපති ලේකම් හා මෙරට බ්‍රිතාන්‍ය මහකොමසාරිස් අතර හමුවක්
+
+*2024-11-07 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202994) · `si`
+
+ජනාධිපති ලේකම් ආචාර්යය නන්දික සනත් කුමානායක මහතා සහ මෙරට බ්‍රිතාන්‍ය මහකොමසාරිස් ඇන්ඩෘා පැට්‍රික් මහතා අතර හමුවක් ජනාධිපති ලේකම් කාර්යාලයේ දී සිදුව තිබේ.
+
+එහිදි වංචා දූෂණ අවම කිරීමට පළාත් පාලන ආයතන පිළිබඳ බ්‍රිතාන්‍යයේ පවතින ක්‍රමවේදය දෙපාර්ශවයේ සාකච්ඡාවට ලක්ව ඇත.
+
+ඒ අනුව බ්‍රිතාන්‍ය පාර්ලිමේන්තු සම්ප්‍රදාය පිළිබඳව මෙරට පාර්ලිමේන්තු මන්ත්‍රීවරුන් දැනුවත් කිරීමට කටයුතු කළ හැකි බව ද මෙරට බ්‍රිතාන්‍ය මහකොමසාරිස් ඇන්ඩෘෘ පැට්‍රික් ප්‍රකාශ කළ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+
+එමෙන්ම දෙරට අතර පවතින ද්වීපාර්ශවික සබඳතා තවදුරටත් ශක්තිමත් කරගැනීමට අපේක්ෂා කරන බව ද බ්‍රිතාන්‍ය මහකොමාසාරිස්වරයා එහිදි ප්‍රකාශ කර තිබේ.
+
+◼️
+
+[Data](articles/7fcecf25.json)
+
+---
+
+### Rice shortage, price surge fueled by increased beer production?
+
+*2024-11-07 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103222/rice-shortage-price-surge-fueled-by-increased-beer-production) · `en`
+
+The Small and Medium Scale Rice Mill Owners’ Association stresses that the growing rice shortage in the market is caused by the increased use of raw rice for beer production.
+
+According to the association, diverting more rice for brewing has impacted the availability of rice for consumers, leading to rising prices.
+
+Chairman of the association U.K. Semasinghe explained that the raw rice used in beer production is sourced from ‘Nadu’ paddy.
+
+“Raw rice is essential for beer production, but it comes from ‘Nadu’ paddy. When a greater portion of this paddy is allocated to the production of beer, the supply of paddy for regular Nadu rice production diminishes,” he noted.
+
+Against this backdrop, farmers’ organizations have echoed similar concerns, urging the government to intervene and stabilize rice prices.
+
+Many shopkeepers report difficulty in obtaining rice at the government-controlled price, further straining the market.
+
+...
+
+[Data](articles/bfbc8560.json)
+
+[Extended Data](ext_articles/bfbc8560.ext.json)
+
+---
+
+### Fairly heavy showers likely in parts of the island
+
+*2024-11-07 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103221/fairly-heavy-showers-likely-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at times in Northern and North-Central Provinces and in Puttalam and Trincomalee districts today (07).
+
+Fairly heavy showers above 50mm are likely at some places in Northern Province, the department added.
+
+Meanwhile, showers or thundershowers will occur at several places in Central, Sabaragamuwa, Uva and Southernprovinces during the evening or night, according to the Met. Department.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/b4d2424d.json)
+
+[Extended Data](ext_articles/b4d2424d.ext.json)
+
+---
+
+### Firearms extended to hand over firearms
+
+*2024-11-07 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202993) · `si`
+
+Firearm permit deadline extended to Nov 21 by Defense Ministry. Initial deadline was today. Review process ongoing for weapons storage.
+
+🟩
+
+The period has been extended to hand over the re-handed over permits issued by the Ministry of Defense.
+
+Accordingly, the firearm will be handed over to November 21, the Defense Ministry said.
+
+The Ministry of Defense was given a month for the re-handed over firearms and was due to end today.
+
+However, after considering the contents, steps have been taken to extend the time.
+
+The Ministry of Defense informed firearms to be submitted after reviewing the review of firearms with permits.
+
+The Ministry of Defense instructed the government's commercial explosive store at Welisara, the Navy's commercial explosive.
+
+However, a large number of firearms have been taken back to firearms.
+
+It has been reported that the time has been extended to bring the firearms to these firearms so far.
+
+◼️
+
+[Data](articles/81ec1988.json)
+
+[Extended Data](ext_articles/81ec1988.ext.json)
+
+---
+
+### Another suspicious death
+
+*2024-11-07 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202992) · `si`
+
+Suspicious death reported: Man dies after falling near three-wheeler on Kandy-Makadiya road.
+
+🟩
+
+A man who had fallen near a three-wheeler on the Kandy Makadiya road in Kandy area was killed.
+
+◼️
+
+[Data](articles/818227cb.json)
+
+[Extended Data](ext_articles/818227cb.ext.json)
+
+---
 
 ### Election propaganda ends on Monday
 
@@ -474,6 +604,30 @@ Its Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30 
 
 ---
 
+### Hirunika Premachandra: 'Walked one preference for women, even though vote for any party'
+
+*2024-11-07 01:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dl00rr26do) · `si`
+
+Hirunika Premachandra contests Colombo District election. She emphasizes women's representation in decision-making. Discusses resignation as National Organizer of Samagiversen Seva Vanitha Corporation.
+
+🟩
+
+Hirunika Premachandra: 'Walked one preference for women, even though vote for any party'
+
+Hirunika Premachandra, who is contesting to the Colombo District for a woman in the candidate list, says Hirunika Premachandra, who is contesting to a woman on the list.
+
+In a meeting with BBC Sinhala service, she said that the majority of the country's population would not represent women in important decisions of women.
+
+Hirunika Premachandra expressed his views on matters of resignation letter from the National Organizer of the Samagiversen Seva Vanitha Corporation.
+
+◼️
+
+[Data](articles/86c1bcbb.json)
+
+[Extended Data](ext_articles/86c1bcbb.ext.json)
+
+---
+
 ### Alumex takes quantum leap   with brand-new cutting- edge manufacturing facility ’Ascend’
 
 *2024-11-07 00:42:10* · [`dailyftlk`](https://www.ft.lk/business/Alumex-takes-quantum-leap-with-brand-new-cutting-edge-manufacturing-facility-Ascend/34-768917) · `en`
@@ -801,6 +955,24 @@ Efficient border agency operations are crucial for any economy, especially for i
 [Data](articles/2b370f10.json)
 
 [Extended Data](ext_articles/2b370f10.ext.json)
+
+---
+
+### Celebratory launch of JITF’s 15th edition
+
+*2024-11-06 22:28:00* · [`islandlk`](http://island.lk/celebratory-launch-of-jitfs-15th-edition/) · `en`
+
+The much-anticipated Jaffna International Trade Fair (JITF) is set to mark its 15th edition from January 24 to 26, 2025, at the Muttraweli Grounds, in the once war- torn Jaffna peninsula. Organized annually since 2002, the JITF has steadily grown into one of Sri Lanka’s largest trade exhibitions, serving as a vital link between northern and southern businesses and communities, especially following the end of the country’s 30-year civil war.
+
+Organised by Lanka Exhibition and Conference Services (Pvt) Ltd. (LECS) in association with the Chamber of Commerce and Industry of Yarlpanam (CCIY), the JITF has grown significantly since its inception in 2002, becoming a dynamic hub where industry leaders, SMEs, and emerging entrepreneurs connect.
+
+LECS Chief Operating Officer Husnie Rauf, speaking to The Island Financial Review said that the JITF has significantly impacted the Jaffna region by introducing a wide range of products and services that had long been inaccessible to the local population.
+
+...
+
+[Data](articles/7d15eb66.json)
+
+[Extended Data](ext_articles/7d15eb66.ext.json)
 
 ---
 
@@ -1174,6 +1346,26 @@ The field inspection revealed that the color of the canal has changed due to the
 
 ---
 
+### Ratmalana reveals the cause of red
+
+*2024-11-06 19:12:49* · [`adalk`](https://www.ada.lk/uncategorized/රත්මලාන---බඩෝවිට-ඇළ-මාර්ගය-රතු-පාටවීමට-හේතුව-හෙළි-වෙයි/1-412899) · `si`
+
+Ratmalana canal turns red due to dye release. Investigation ongoing. No health risk reported. Police investigating source.
+
+🟩
+
+The Central Environmental Authority urges the public not to be disturbed by redness of redness in Ratmalana, Ratmalana. The water is red on this canal from 05 November 2024. According to the Central Environmental Authority, the Central Environmental Office of the Central Environmental Authority has conducted a sector investigation on this same day.
+
+The field inspection revealed that the color of the canal has changed due to the release of a pigment to the relevant canal.. The Central Secretariat was made in the event of the tests that could be made at the same time.. There are also investigations that this pigment is a melt (water soluble) is a melting water in water and that the PH parameters in accordance with existing environmental condition, there are no higher values. Water Quality Laboratory Officers of the CEA have obtained the water samples to conduct further investigations.
+
+...
+
+[Data](articles/87e7eef2.json)
+
+[Extended Data](ext_articles/87e7eef2.ext.json)
+
+---
+
 ### Ranil nominated as a respondent at Passport Rit petition
 
 *2024-11-06 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202979) · `si`
@@ -1227,6 +1419,32 @@ Kegalle – Deraniyagala, Ruwanwella, Dehiowita, Yatiyanthota, Kegalle, Galigamu
 [Data](articles/26bdaec1.json)
 
 [Extended Data](ext_articles/26bdaec1.ext.json)
+
+---
+
+### Plastic water bottles and tobacco cigars banned at Sri Pada
+
+*2024-11-06 18:38:44* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-පාද-වන්දනාවාරයේදී-ප්ලාස්ටික්-වතුර-බෝතල්-හා-දුම්කොළ-සුරුට්ටු-තහනම්/11-412898) · `si`
+
+Sri Pada pilgrimage bans plastic water bottles, tobacco cigars. Special safety measures implemented for 2024-2025 season. Environment protection emphasized.
+
+🟩
+
+2024-2025 Sripes from Nallathaniya to the courtyard of Nallathanniya to the courtyard of the Sripeasana from the Nallatnawa to the courtyard.
+
+2024-2025 Attempting of Sri Pada Pilgrimage to the Chancellor of the Uva Wellassan, Sabaragamuwa and Ratnapura District Secretary, Nallutnai (05)The decision was presented at the Committees held at the Grama Niladhari Office Assistant Hall.
+
+Nallathaniya Sri Pada Pilwaraya, Nallathaniya to Sri Padawala Welfare Vasulpe, Welfare Foundation has been paid to Sri Padawala to the Welfare Foundation.The Foundation officials said at the meeting that an organized group has been destroyed by now.
+
+On the Nalluthaniya to the courtyard of plastic water supply to the courtyard was banned from the Nallathaniya to the courtyard, which has been made by some of the drinking water bottles on the road.
+
+The Nallathanner is conducting monk at the Nallutunian office and the Maskeliya Pradeshiya Sabha.
+
+...
+
+[Data](articles/ef9e61cf.json)
+
+[Extended Data](ext_articles/ef9e61cf.ext.json)
 
 ---
 
@@ -2125,263 +2343,5 @@ Subsequently, the Bibila police have been investigated following a complaint at 
 [Data](articles/b8d776b0.json)
 
 [Extended Data](ext_articles/b8d776b0.ext.json)
-
----
-
-### Investigations search for another who lied about President
-
-*2024-11-06 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202973) · `si`
-
-CID investigates claim about President's health during election. Complaint filed by lawyer alleging false information spread online.
-
-🟩
-
-The Criminal Investigation Department (CID) has ordered the CID today (06) to conduct a full investigation into the Presidential election.
-
-This is about the illness of President Anura Kumara Dissanayake at the end of the presidential election.
-
-The Colombo Magistrate's Court ordered the CID to carry out a full investigation into the incident.
-
-According to a complaint made by lawyer Sunil Watagala, the CID reported to the Colombo Magistrate's Court today.
-
-Mr. Sunil Watagala refers to his complaint that this of the integrated information has been added to the Internet through a man named Subash.
-
-Investigating the Criminal Investigations Department, the officials of the Criminal Investigations (CID) said that investigations were carried out regarding the incident.
-
-◼️
-
-[Data](articles/eaccb14c.json)
-
-[Extended Data](ext_articles/eaccb14c.ext.json)
-
----
-
-### 1996 houses for Chinese assistance
-
-*2024-11-06 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202972) · `si`
-
-Sri Lanka Cabinet approves 1996 housing units under Chinese aid program. Three phases: Moratuwa (575), Kottawa (108), Dematagoda (586), Maharagama (112), Peliyagoda (615). Contracts awarded to local companies.
-
-🟩
-
-Cabinet Spokesperson Vijitha Herath says that the Cabinet has approved the approval of the Cabinet as awarded 1,996 housing units.
-
-At a press briefing held today (06), the Cabinet spokesman said that 1,996 in three phases.
-
-The government points to the construction of 1,996 housing units under the Chinese government aid program for low income people under three packages.
-
-The Chinese government has called on eight bidders who have nominated the project to implement the project.
-
-The proposal submitted by the Cabinet of Rural and Urban Development, Housing and Construction, was approved by the Cabinet of Rural and Urban Development, Housing and Construction to award the contracts as follows.
-
-Packages 01 - 575 housing units of Moratuwa and 108 housing units of Kottawa. Awarding to Ltd.
-
-Packages 2 - Award the contract to the Conventions for the construction of 586 housing units of Dematagoda and 112 housing units at Maharagama.
-
-...
-
-[Data](articles/ca597aae.json)
-
-[Extended Data](ext_articles/ca597aae.ext.json)
-
----
-
-### Schaffi releases with allegations - Suffering has been completed
-
-*2024-11-06 15:18:09* · [`adalk`](https://www.ada.lk/breaking_news/එල්ල-වූ-චෝදනා-වලින්-ෂාෆි-නිදහස්-කරයි---විඳපු-දුකට-අද-නිමාවක්-ලැබිලා-තියෙනවා/11-412889) · `si`
-
-Here's a 200-character summary:
-
-
-
-Kurunegala Magistrate's Court acquits Dr. Shawbedon Mohammed Shafi after 5 years 6 months. Accused of false accusations. Family expresses relief over end of suffering and false accusations.
-
-🟩
-
-The Kurunegala Magistrate's Court today (06) ordered that he was released from the case against Dr. Shawbedon Mohammed Shafi, accusing the mothers.
-
-The case was called before Kurunegala Chief Magistrate.
-
-Dr. Shafi was told at the same time.
-
-"Honestly a very happy contribution day today. 5 years and six months. Today, a false accusation has come to an end to a society and the suffering that I and my family who suffered a society to carry out their own needs.. "
-
-◼️
-
-[Data](articles/29c95a73.json)
-
-[Extended Data](ext_articles/29c95a73.ext.json)
-
----
-
-### Lanka T10 Super League Pallekela
-
-*2024-11-06 15:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202971) · `si`
-
-Sri Lanka Cricket announces Lanka T10 Super League in Pallekela from Dec 12-22. Six teams participating. Player selection on Dec 10. Each team max 17 players, reserve team min 15. Every reserve team must include 7 international players.
-
-🟩
-
-SLC announced that all the 'Lanka T10 Super League' series at the first time with Sri Lanka Cricket.
-
-It will be held from December 12 to 22 December 12th to 22nd.
-
-Kalambu Strikers, Goal Mawles, Jafna Titans, Candy Boltz, Hambantota Bangla Taigers and Nigambu Braues.
-
-Players of the tournament (selecting players) is due to be held on the 10th to the next.
-
-Every team should have a maximum of 17 players, and every reserve should have at least 15.
-
-The SLC says that seven international players should have seven international players in every reserve.
-
-◼️
-
-[Data](articles/9cb7d858.json)
-
-[Extended Data](ext_articles/9cb7d858.ext.json)
-
----
-
-### Woman killed in fever for three days
-
-*2024-11-06 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198041) · `ta`
-
-68-year-old woman dies after 3-day fever. Mother of 68 children from Kudavana. Admitted to hospital, cause of death investigated. Body handed to relatives after examination.
-
-🟩
-
-The mother of 68 children, aged 68, from Kudavana, Tunnalai, died.
-
-The woman was taken to the Mandi Hospital on the 4th of last month and was admitted to the Jaffna Teaching Hospital for further treatment.
-
-Sudden death investigators Namasivayam Premkumar conducted the death investigations into the body of the deceased and the body was handed over to relatives after anatomical examination.
-
-◼️
-
-[Data](articles/935251ca.json)
-
-[Extended Data](ext_articles/935251ca.ext.json)
-
----
-
-### Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
-
-*2024-11-06 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs175bn-in-treasury-bills-yields-up-for-shorter-maturities-186283/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across the shorter term maturities at Wednesday’s auction with all offered 175 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield was up 2 basis points at 9.37 percent, with 60 billion offered and 92.3 billion rupees bills sold.
-
-The 6-month yield was up 2 basis points at 9.70 percent, with 85 billion offered and 58.7 billion rupees of bills sold.
-
-The 12-month bills held steady at 9.95 percent, with 30 billion offered and 23.8 billion rupees of bills sold.
-
-The 6 and 9 month bills are available on tap after the auction. (Colombo/Nov6/2024)
-
-◼️
-
-[Data](articles/ba78c462.json)
-
-[Extended Data](ext_articles/ba78c462.ext.json)
-
----
-
-### Sri Lanka to settle Rs28.37bn plus in road arrears
-
-*2024-11-06 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-settle-rs28-37bn-plus-in-road-arrears-186279/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a proposal to settle outstanding bills for the repair of 100,000km of road, Spokesman Minister Vijitha Herath said.
-
-There is an outstanding balance of 28.37 billion for the repair of some 100,000km of road begun in 2020 under a five-year project.
-
-A further 20 billion rupees was allocated for the repair of essential roads in 2024, when 1,000km of road was identified for repair.
-
-The Cabinet approved the proposal to manage the provisions allocated to the Ministry of Transport, Highways, Ports, and Civil Aviation for the year 2024, that have not been used so far, to settle the outstanding bills that should be settled under these two programs. (Colombo/Nov6/2024)
-
-◼️
-
-[Data](articles/0fd168e6.json)
-
-[Extended Data](ext_articles/0fd168e6.ext.json)
-
----
-
-### 'Ranil needs Ranil - they need Ranil'
-
-*2024-11-06 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198043) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Former President Gotabhaya Rajapaksa claimed Ranil Wickremesinghe needed his support during crisis talks. However, Wickremesinghe denies this, stating he didn't seek Rajapaksa's backing. This highlights the complex political dynamics in Sri Lanka's recent history.
-
-🟩
-
-Former President Gotabhaya Rajapaksa said in an interview with talks between him and the United People's Power before he fled the country in 2022, said Ranil Wickremesinghe, a former United People's Power Member of Parliament, Eran Wickramaratne.
-
-Question - When the country is in a state of crisis, many people question why people like Eran did not join Ranilwickramasinghe?
-
-Former President Gotabhaya Rajapakse summoned Opposition Leader Sajith Premadasa and why you should not rule, Sajith Premadasa responded.
-
-I went to meet Gotabhaya.
-
-Yes. The meeting between us and Gotabaya took place before Ranil became Prime Minister.
-
-People are not aware of this. It is not publicly talked about.
-
-Gotabhaya said that the Sri Lanka Lawyers Association has also submitted an idea on the constitutional reform.
-
-I was appointed as the speaker of our party.
-
-The next day I tried to contact Gotabhaya on the phone and then Rani Lwickramasinghe is in the president's residence.
-
-...
-
-[Data](articles/a9d0a076.json)
-
-[Extended Data](ext_articles/a9d0a076.ext.json)
-
----
-
-### Muslim does not decide to amend the divorce law - government
-
-*2024-11-06 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/198042) · `ta`
-
-Government denies amending Muslim Divorce Act; religious leaders may propose changes after consulting experts.
-
-🟩
-
-The government does not make any decision to amend the Muslim Divorce Act. No. Cabinet spokesman Vijitha Herath said that there was no need for it.
-
-He further stated that the press conference to announce the Cabinet decisions was held on Wednesday (06).
-
-Different organizations have different positions in relation to Muslim divorce law. We respect those rights. Similarly, as a government, no decision has been made to make amendments to the Muslim Divorce Act. Not going to take.
-
-There was no need to make such a decision. Muslim religious leaders can take action if legal amendments are needed only after discussing discussions with experts. He said the legal amendments to any religion would be made on this basis.
-
-◼️
-
-[Data](articles/10f62d11.json)
-
-[Extended Data](ext_articles/10f62d11.ext.json)
-
----
-
-### 35 years in prison for 4 officers
-
-*2024-11-06 14:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-அதிகாரிகளுக்கு-35-வருட-கடூழிய-சிறை/175-346667) · `ta`
-
-Colombo High Court sentences 4 former customs officials to 35 years in prison for major bribery case.
-
-🟩
-
-The Colombo High Court on Wednesday (06) has imposed a 35 -year -old imprisonment for ex -customs officials who have been arrested by the Commission for Investigation of Bribery or Corruption on the major bribery.
-
-◼️
-
-[Data](articles/643d0e3e.json)
-
-[Extended Data](ext_articles/643d0e3e.ext.json)
 
 ---

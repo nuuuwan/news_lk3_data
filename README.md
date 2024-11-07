@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 10:12:58**
+As of **2024-11-07 10:25:14**
 
 ## Newspaper Stats
 
-*Scraped **53,505** Articles*
+*Scraped **53,508** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,999
 adaderanalk | 6,373
-tamilmirrorlk | 7,448
+tamilmirrorlk | 7,451
 virakesarilk | 8,652
 adaderanasinhalalk | 9,325
 
@@ -26,11 +26,57 @@ adaderanasinhalalk | 9,325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,500 (100.0%) of 53,505 articles have been extended.
+53,505 (100.0%) of 53,508 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ”ரணில் நீண்ட காலம் அமைதியாக இருக்க முடியாது”
+
+*2024-11-07 10:21:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-நீண்ட-காலம்-அமைதியாக-இருக்க-முடியாது/175-346705) · `ta`
+
+பாராளுமன்றத்தை பலவந்தமாக கைப்பற்ற முயற்சிக்கும் குழுவொன்று அதிகாரைத்தைக் கைப்பற்றுவதற்கான போட்டியில் இறங்கியுள்ள நிலையில், எதிர்பாராத சவால்களை இலங்கை எதிர்கொள்ளும் நிச்சயமற்ற நிலை உருவாகியுள்ளதாக ஐக்கிய தேசியக் கட்சியின் பொதுச் செயலாளரும் ஜனநாயக முன்னணி வேட்பாளருமான ருவான் விஜேவர்தன நேற்று (06) தெரிவித்தார்.
+
+தெல்கொடவில் நடைபெற்ற கூட்டம் ஒன்றில் உரையாற்றிய திரு. விஜேவர்தன, பாராளுமன்ற பாரம்பரியம் மற்றும் கலாச்சாரம் பற்றி அறியாதவர்கள் இந்த ஆண்டு பொதுத் தேர்தலில் போட்டியிடுவது நாட்டை நிச்சயமற்ற நிலைக்கு தள்ளுவதாக தெரிவித்தார்.
+
+எதிர்கால நிச்சயமற்ற சூழ்நிலை ஏற்படும் பட்சத்தில் இந்த நாட்டு மக்களுக்கு முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தேவைப்பாடு ஏற்படும் என்பதால் அவர் நீண்ட காலம் அமைதியாக இருக்க முடியாது என அவர் கூறினார்.
+
+"எதிர்கால சவால்களை எதிர்கொள்ள அனுபவம் வாய்ந்த குழு ஒன்று சபைக்குள் வர வேண்டும்," என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/a596cc3f.json)
+
+---
+
+### திங்கட்கிழமை நள்ளிரவுடன் நிறைவு
+
+*2024-11-07 10:18:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கட்கிழமை-நள்ளிரவுடன்-நிறைவு/175-346704) · `ta`
+
+இம்முறை பொதுத் தேர்தல் எதிர்வரும் 14 ஆம் திகதி வியாழக்கிழமை நடைபெற உள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/4ae1b2fb.json)
+
+---
+
+### கால அவகாசம் நீடிப்பு
+
+*2024-11-07 10:14:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-நீடிப்பு/175-346703) · `ta`
+
+பாதுகாப்பு அமைச்சகத்தால் வழங்கப்பட்ட உரிமம் கொண்ட துப்பாக்கிகளை மீண்டும் கையளிக்க வழங்கப்பட்டிருந்த கால அவகாசம் நவம்பர் 21ஆம் திகதி வரை  நீட்டிக்கப்பட்டுள்ளதாக பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+துப்பாக்கிகளை மீண்டும் கையளிப்பதற்கு பாதுகாப்பு அமைச்சு ஒரு மாத கால அவகாசம் வழங்கியதுடன் அந்த காலம் இன்றுடன் நிறைவடையவிருந்தது.
+
+எவ்வாறாயினும், முன்வைக்கப்பட்ட உண்மைகளை கருத்திற்கொண்டு, காலத்தை நீடிக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3b5c216e.json)
+
+---
 
 ### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
 
@@ -106,55 +152,77 @@ However, the Australian Prime Minister said that he would take serious action ag
 
 ---
 
-### கண்டியில் சந்தேகத்திற்கிடமான முறையில் நபரொருவர் உயிரிழப்பு!
+### A person dies suspiciously in Kandy
 
 *2024-11-07 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198083) · `ta`
 
-கண்டி பொலிஸ் பிரிவுக்குட்பட்ட அம்பிட்டிய மீகனுவ வீதியில் முச்சக்கரவண்டிக்கு அருகில் வீழ்ந்து  கிடந்த  நபர் ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+Suspicious death in Kandy: Man falls near three-wheeler, hospitalized, police investigation ongoing. Body sent for autopsy.
 
-சம்பவம் தொடர்பில் பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் நேற்று புதன்கிழமை (06) விசாரணைகள் ஆரம்பிக்கப்பட்டுள்ளன.
+🟩
 
-கண்டி வீதியில் மின்கம்பமொன்றுக்கு அருகில் முச்சக்கரவண்டி ஒன்று நிறுத்தப்பட்டிருந்த நிலையில் அதன் சாரதி என சந்தேகிக்கப்படும் நபர் ஒருவர் முச்சக்கரவண்டிக்கு அருகில் விழுந்து கிடந்துள்ளார்.
+A man who fell near a three -wheeler on the Ampitiya Miganuwa road belonging to the Kandy Police Division has died after being admitted to the hospital.
 
-மேலும் ,உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைக்காக கண்டி வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், கண்டி பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+Investigations have begun yesterday (06) on the basis of information received by the police regarding the incident.
+
+A man suspected of being a driver has been found lying near the three -wheeler as a three -wheeler has been parked near a wiring on the Kandy road.
+
+The body of the deceased has been placed in the funeral room of the Kandy Hospital for autopsy and the Kandy police are conducting further investigations.
 
 ◼️
 
 [Data](articles/b1c6dd7d.json)
 
+[Extended Data](ext_articles/b1c6dd7d.ext.json)
+
 ---
 
-### வரிசைகள் இல்லாமலாக்கப்பட்டு கடவுசீட்டு விநியோகம் ஆரம்பிக்கப்பட்டுள்ளது - அமைச்சரவை பேச்சாளர் விஜித ஹேரத்
+### Passport distribution has been launched without rows - Cabinet spokesman Vijitha Herath
 
 *2024-11-07 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198045) · `ta`
 
-கடவுசீட்டுகளை ஒரே சந்தர்ப்பத்தில் பெற்றுக் கொள்வதற்கு பதிலாக தொகுதி தொகுதியாக பெற்றுக் கொள்ளும் வகையிலேயே கடந்த அரசாங்கம் இணக்கப்பாட்டை எட்டியுள்ளது. எனவே தான் மக்களின் தேவைக்கேற்ப அவற்றை வழங்க முடியாத நிலைமை ஏற்பட்டது. எனினும் தற்போது வரிசைகள் இல்லாமலாக்கப்பட்டு கடவுசீட்டு விநியோகம் ஆரம்பிக்கப்பட்டுள்ளதாக அமைச்சரவை பேச்சாளர் விஜித ஹேரத் தெரிவித்தார்.
+Passport distribution launched smoothly: Cabinet spokesperson Vijitha Herath. Steps taken to manage demand and ensure timely issuance. Process began after previous government failed to meet target of 750,000 passports simultaneously. Applicants encouraged to apply now.
 
-அமைச்சரவை தீர்மானங்களை அறிவிக்கும் ஊடகவியலாளர் மாநாடு புதன்கிழமை (06) நடைபெற்ற போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-தற்போது அனுபவம் குறித்து பேசுபவர்கள் ஏற்படுத்திய பிரச்சினையின் விளைவாகவே கடவுசீட்டைப் பெற்றுக் கொள்வதற்காக மக்கள் வரிசையில் நிற்கின்றர். எவ்வாறிருப்பினும், இதனை ஓரளவு முகாமைத்துவம் செய்து தற்போது கடவுசீட்டுக்களைப் பெற்றுக் கொள்ள நடவடிக்கை எடுத்திருக்கின்றோம். அதற்கமைய தொகுதி தொகுதியாக கடவுசீட்டுக்கள் கிடைக்கப் பெறுகின்றன.
+Instead of obtaining passports on the same occasion, the last government has reached compliance with. This is why it was impossible to provide them with the needs of the people. However, Cabinet spokesman Vijitha Herath said that the distribution of passports has been launched without a row.
+
+He further stated that the press conference to announce the Cabinet decisions was held on Wednesday (06).
+
+The people who are currently speaking about experience are in line to get a passport as a result of the problem caused by. However, we have taken steps to get some management and obtain passports.. Passports are available as a volume.
+
+These measures are being carried out on the basis of the agreement agreement signed by the last government. The last government has not reached the compliance of 750,000 passports on the same occasion. This is why it is impossible to issue a passport as needed.
 
 ...
 
 [Data](articles/e7b2b687.json)
 
+[Extended Data](ext_articles/e7b2b687.ext.json)
+
 ---
 
-### துப்பாக்கிகளை மீள ஒப்படைப்பதற்கான காலவகாசம் நீடிப்பு
+### Timeline extending to re -handle the guns
 
 *2024-11-07 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198084) · `ta`
 
-பொதுமக்களுக்கு வழங்கப்பட்ட அனைத்து உரிமம் பெற்ற துப்பாக்கிகள் மற்றும் ரவைகளை ஒப்படைக்க வழங்கப்பட்ட  கால அவகாசகத்தை நவம்பர் மாதம் 21 ஆம் திகதி வரை நீடித்துள்ளதாக பாதுகாப்பு அமைச்சு அறிவித்துள்ளது.
+Deadline extended: Hand over licensed guns by Nov 21. Original deadline was Nov 7. Guns will be collected from public. Ministry plans to review and re-issue weapons after collection.
 
-தற்காப்பு மற்றும் பிற நோக்கங்களுக்காக பொதுமக்களுக்கு வழங்கப்பட்ட அனைத்து துப்பாக்கிகள் மற்றும் ரவைகளை  சம்பந்தப்பட்ட அதிகாரிகளிடம் மீள ஒப்படைப்பதற்கு நவம்பர் மாதம் 7 ஆம் திகதியுடன் முடிவடையும் ஒரு மாத கால அவகாசகத்தை அமைச்சகம் வழங்கியது.
+🟩
 
-பொதுமக்களுக்கு தற்காப்புக்காக வழங்கப்பட்ட அனைத்து துப்பாக்கிகள் மற்றும் ரவைகள் அரசாங்கத்தினால் கையகப்படுத்தப்படும் எனவும், அவற்றை நவம்பர்  மாதம் 07ஆம் திகதிக்கு முன்னர் உரிய அதிகாரிகளிடம் ஒப்படைக்க வேண்டும் எனவும் ஒக்டோபர் மாதம் 04ஆம் திகதி பாதுகாப்பு அமைச்சு அறிவித்தது.
+The Ministry of Defense has announced that the deadline for handing over all the licensed guns and racks given to the public has been extended till November 21.
 
-பாதுகாப்பு அமைச்சுக்கு வழங்கப்பட்ட துப்பாக்கிகளை மீளாய்வு செய்ததன் பின்னர், அவற்றை மீண்டும் வழங்க எதிர்பார்த்துள்ளதாக பாதுகாப்பு அமைச்சு மேலும் தெரிவித்துள்ளது.
+The Ministry granted a month's time to end on November 7 to hand over all the guns and shoes provided to the public for self -defense and other purposes.
 
-...
+On October 04, the Ministry of Defense announced that all the guns and shoes provided to the public would be acquired by the government and that they should be handed over to the relevant authorities before November 7.
+
+The Ministry of Defense added that after reviewing the guns issued to the Ministry of Defense, they are looking forward to re -issuing them.
+
+The Ministry of Defense has informed all licenses to hand over the appropriate guns and shoes at the government's commercial ammunition warehouse in Welisara.
+
+◼️
 
 [Data](articles/e8bc6c64.json)
+
+[Extended Data](ext_articles/e8bc6c64.ext.json)
 
 ---
 
@@ -370,19 +438,27 @@ It has been reported that the time has been extended to bring the firearms to th
 
 ---
 
-### ශ්‍රී ලංකාවෙන් නව ශාක විශේෂයක් සොයා ගනියි
+### Sri Lanka finds new species
 
 *2024-11-07 07:55:47* · [`adalk`](https://www.ada.lk/picture_story/ශ්‍රී-ලංකාවෙන්-නව-ශාක-විශේෂයක්-සොයා-ගනියි/10-412901) · `si`
 
-ශ්‍රී ලංකාවෙන් නව ශාක විශේෂයක් සොයා ගැනීමට උද්භිද උද්‍යාන දෙපාර්තමේන්තුවේ ජාතික ශාකාගාරයේ පර්යේෂණ කණ්ඩායමකට හැකියාව ලැබී තිබේ.
+Sri Lanka discovers new plant species COLEUS Hakgalensis in central highlands. Research team identifies unique purple-white flowers and distinctive scent. Conservation efforts begin due to habitat threats.
 
-ශ්‍රී ලංකාවේ මධ්‍යම කඳුකරයේ නුවරඑළිය, හක්ගල දැඩි ස්වාභාවික  රක්ෂිත භූමියෙන් මෙම නව ශාක විශේෂය හඳුනා ගැනීමට එම පර්යේෂණ කණ්ඩායමට හැකියාව ලැබී ඇති අතර, උද්භිද විද්‍යාත්මකව එම ශාකය කෝලියාස් හක්ගලෙන්සිස් අබේසේකර, කසුනිකා, හලුවන සහ නිලන්ක (Coleus Hakgalensis Abeysekara, Kasunika, Haluwana & Nilanka) යනුවෙන් නම් කිරීමට පියවර ගෙන ඇත.
+🟩
 
-2022 වසරේ අග භාගයේ සිට මධ්‍යම කඳුකරය ආවරණය වන පරිදි හක්ගල දැඩි ස්වාභාවික රක්ෂිත වනාන්තරය ආශ්‍රිතව ආරම්භ කරන ලද ශාක ගවේෂණ කටයුතුවල ප්‍රතිඵලයක් ලෙස 2024 වසරේ දුෂ්කර මාර්ග ඔස්සේ උන්නතාංශ මීටර් 1900ත් 2100ත් අතර සිදු කරන ලද පර්යේෂණවලදී මෙම නව ශාක විශේෂය සොයා ගැනීමට පර්යේෂණ කණ්ඩායමට හැකිව තිබේ. මින්ට් (Lamiaceae) ශාක කුලයට අයත් නව කෝලියාස් (Coleus) ශාක විශේෂයක් ලෙස මෙම නව ශාක විශේෂය හඳුනා ගැනීමට පර්යේෂණයේ නියැළුණු සුමේධා අබේසේකර, ඕවිටිමුල්ලගේ  කසුනිකා, නිශාන්ති හළුවන සහ නඳුන් නිලංක යන පර්යේෂණ කණ්ඩායම සමත්ව තිබේ.
+The National Herbarium Department has enabled to find a new species of plants from Sri Lanka.
+
+The research team has been able to identify the new species of flora from the central highlands of the central hills of Sri Lanka.Steps have been taken to name.
+
+The research team has been able to find this new species in the year 2024, with the exploration of the plant exploration in the late 2022 to cover up the medium hills in the year 2024.. Sumanha Abeysekera, Ovitha Abeysekara, Ovithai Abeyseka, Nishanthi Kussay, Nishanthi Kussay, Nishanthi Kussaywa, Nishanthi Kussay, Nishanthi Kussayu, who identifies the new species of plant species.
+
+The National Herbarium Department of the National Botanic Gardens in February 2024, the National Herbarium Department has been able to find this in a botanical exploration of the National Herbagala area in 2024 years in 2024 years.The research team says.
 
 ...
 
 [Data](articles/b574ea39.json)
+
+[Extended Data](ext_articles/b574ea39.ext.json)
 
 ---
 
@@ -650,25 +726,33 @@ Speaking at the election campaign meeting held in Maskeliya, he added,
 
 ---
 
-### பீர் உற்பத்திக்காக அதிகளவு அரிசி வழங்கப்படுவதால் அரிசி தட்டுப்பாட்டுக்கு காரணம் - சிறு மற்றும் நடுத்தர ஆலை உரிமையாளர்கள் சங்கம்
+### The reason for the shortage of rice is due to the supply of rice for beer production - Small and Medium Plant Owners Association
 
 *2024-11-07 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198081) · `ta`
 
-பீர் உற்பத்திக்காக அதிகளவு அரிசி வழங்கப்படுவதால் சந்தையில் அரிசி தட்டுப்பாடு ஏற்படுவதற்கு நேரடிப் பாதிப்பு ஏற்பட்டுள்ளதாக சிறு மற்றும் நடுத்தர ஆலை உரிமையாளர்கள் சங்கம் தெரிவித்துள்ளது.
+Rice shortage caused by excess supply for beer production. Government intervention sought to control prices. President summons rice traders to maintain retail prices.
 
-U.K.வின் சிறு மற்றும் நடுத்தர தொழில்கள் சங்கத்தின் தலைவர் பீர் உற்பத்திக்கு பயன்படுத்தப்படும் கச்சா அரிசி நெல் அறுவடை மூலம் உற்பத்தி செய்யப்படுவதாக சேமசிங்க சுட்டிக்காட்டுகிறார்.
+🟩
 
-"பீர் தயாரிக்க கச்சா அரிசி தேவை. ஆனால் பீர் தயாரிக்க தேவையான கச்சா அரிசி நெல் அரிசியில் இருந்து பெறப்படுகிறது. எனவே, பீர் உற்பத்திக்கு அதிக சதவீதத்தை இயக்கும்போது, நெல் அரிசி உற்பத்திக்கு தேவையான நெல் பற்றாக்குறை உள்ளது. "
+The Small and Medium Plant Owners Association has said that there is a shortage of rice shortage in the market due to the excessive supply of rice for beer production.
 
-அரிசி விலையை கட்டுப்படுத்த அரசு உடனடியாக தலையிட்டு நடவடிக்கை எடுக்க வேண்டும் என விவசாய அமைப்புகள் கோரிக்கை விடுத்துள்ளன.
+Semasinghe points out that the crude rice paddy harvest used for beer production of U.K. Small and Medium Industries Association is produced by the harvesting of beer.
 
-தற்போது வரை கட்டுப்பாட்டு விலையில் அரிசி கிடைக்கவில்லை என கடைக்காரர்கள் குற்றம் சாட்டுகின்றனர்.
+“Crude rice is needed to make beer. But raw rice necessary to make beer is obtained from rice rice. Therefore, when it comes to a high percentage of beer production, there is a shortage of paddy for rice rice production. "
 
-கடந்த சில வாரங்களாக இலங்கை சந்தையில் அரிசியின் விலை அதிகரித்து அரிசி தட்டுப்பாடும் ஏற்பட்டுள்ளது.
+Agricultural organizations have demanded that the government intervene immediately to control the price of rice.
 
-...
+Shoppers have alleged that rice was not available at control prices until now.
+
+Over the past few weeks, the price of rice has increased in the Sri Lankan market.
+
+Considering the situation, the president summoned massive rice traders, where it was decided to maintain the control price of rice in the retail market.
+
+◼️
 
 [Data](articles/32ff4d47.json)
+
+[Extended Data](ext_articles/32ff4d47.ext.json)
 
 ---
 
@@ -2229,79 +2313,5 @@ Arjun Aloysius was taken to Anuradhapura prison for the purchase of maize. (I J)
 [Data](articles/eef2a419.json)
 
 [Extended Data](ext_articles/eef2a419.ext.json)
-
----
-
-### Discovered that the coatings would cause skin cancer
-
-*2024-11-06 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202975) · `si`
-
-Here's a 200-character summary:
-
-
-
-Skin cancer cases rising in Sri Lanka due to harmful coatings. Experts advise treating skin conditions promptly, reducing dry skin moisturizers, eating local fruits and veggies, using sunscreen, and maintaining proper diet and hair care.
-
-🟩
-
-In the last few years, Ms. Samaraweera said that the number of patients with patients in Sri Lanka has increased in the past few years.
-
-Addressing a media brief held in the Health Promotion Bureau today (06), she said that there is one of the skin anointed coating.
-
-Samayani Samaraweera, Speaking further
-
-...
-
-[Data](articles/3f2aa5f7.json)
-
-[Extended Data](ext_articles/3f2aa5f7.ext.json)
-
----
-
-### The woman who broke the relationship of the refusal to vote
-
-*2024-11-06 16:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வாக்களிக்க-மறுத்தவரின்-உறவை-முறித்த-பெண்/50-346672) · `ta`
-
-Woman breaks engagement due to fiancé's refusal to vote in US election. Debate sparked online about political involvement in relationships.
-
-🟩
-
-A woman has said that she wants to finish her marriage with an engagement as the future husband refuses to vote in the US election.
-
-The voting for the world's expected US presidential election began yesterday. The voting was held immediately after the voting was over.
-
-Republican candidate Donald Trump has now won up to 277 seats. Kamala Harry has won only 226 seats.
-
-A woman has triggered a debate on the Internet, saying that the US presidential election results failed to vote on the Internet, saying she wanted to break her engagement with her future husband.. (That)
-
-◼️
-
-[Data](articles/ed337515.json)
-
-[Extended Data](ext_articles/ed337515.ext.json)
-
----
-
-### Chinese Ambassador's hope in the leadership of Anura
-
-*2024-11-06 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198029) · `ta`
-
-Chinese Ambassador Key Senhong praised Sri Lanka under President Anura Kumara Dissanayake's leadership, expressing confidence in overcoming challenges and reviving the economy. The long-standing friendship between China and Sri Lanka was highlighted, with China committing to ongoing support during Sri Lanka's new era.
-
-🟩
-
-Under the strong leadership of President Anura Kumara Dissanayake, Kei Senhong said that the Sri Lankan government and the people of Sri Lanka can certainly confident, overcome the challenges and challenges, quickly recover from difficulties and revive the economy.
-
-Chinese ambassador Key Senhong, who visited there, first paid tribute to the heroes who bravely fought against the colonialism and invasion of Chinese and Sinhala languages.
-
-The Ambassador, who continued, said that the loving reception of the students once again illustrates the brotherhood between the Chinese and the Sri Lankan people.
-
-China and Sri Lanka are far from, but our friendly exchange has been lasted for over 2,000 years
-
-...
-
-[Data](articles/7dafe7af.json)
-
-[Extended Data](ext_articles/7dafe7af.ext.json)
 
 ---

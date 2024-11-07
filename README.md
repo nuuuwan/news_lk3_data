@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 17:41:03**
+As of **2024-11-07 18:01:05**
 
 ## Newspaper Stats
 
-*Scraped **53,581** Articles*
+*Scraped **53,584** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,97 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,011
 adaderanalk | 6,387
-tamilmirrorlk | 7,462
+tamilmirrorlk | 7,463
 virakesarilk | 8,669
-adaderanasinhalalk | 9,337
+adaderanasinhalalk | 9,339
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,581 (100.0%) of 53,581 articles have been extended.
+53,584 (100.0%) of 53,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### A complaint from medical safin
+
+*2024-11-07 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203012) · `si`
+
+Here's a 200-character summary:
+
+
+
+Dr. Mohamed Swafi filed a complaint against the Ministry of Defense, alleging wrongful arrest and detention. He claims he was unfairly targeted while others were released. The doctor demands an investigation into his case and the false accusations made against him.
+
+🟩
+
+Dr. Mohamed Swafi lodged a complaint with the Ministry of Defense today (07).
+
+It is demanding an inquiry into the arrest and arresting herself to arrest him and arresting the celebrations and arresting a false statement.
+
+"5 years and 6 months. Appointed as much as possible. Yesterday, I was not released yesterday. All those who appeared for justice. I have a job to do not don't happen to anyone else.  මට විරුද්ධව කටයුතු කළ සියලුදෙනා වෙනුවෙන් මම පැමිණිල්ලක් දැම්මා. I went to find complaints and arrested me. I pressured my children and wife. "
+
+◼️
+
+[Data](articles/290d325e.json)
+
+[Extended Data](ext_articles/290d325e.ext.json)
+
+---
+
+### Former President Maithripala's writ petition hearing
+
+*2024-11-07 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203011) · `si`
+
+Former President Maithripala Sirisena's writ petition hearing: Court of Appeal case regarding a personal complaint filed against him. Hearing postponed until December 17th.
+
+🟩
+
+Fort President Maithripala Sirisena, who filed a terminal order to issue a sense of scholarship order issued by the Circular Court, was taken up before the Court of Appeal today (7).
+
+He had filed a criminal offense against the complaint filed against the complaint against former President Maithripala Sirisena.
+
+Cyril Gamini, Fr. and the attack, is a victim of the attack. The private complaint was filed before the Fort Magistrate's Court by Jeshazan.
+
+The Rit Petroleum presented by former President Maithripala Sirisena against the personal complaint was called before the five-member Supreme Court Bench, led by Sobhitha Rajakaruna.
+
+President's Counsel Faiz Mustapha stated that his client was released as a suspect before the Fort Magistrate's Court as a suspect before the Fort Magistrate's Court.
+
+The President's Counsel alleged that the order has been issued by the Magistrate without evaluation.
+
+...
+
+[Data](articles/b064cb6c.json)
+
+[Extended Data](ext_articles/b064cb6c.ext.json)
+
+---
+
+### Warning of the Department of Meteorology
+
+*2024-11-07 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-எச்சரிக்கை/175-346731) · `ta`
+
+Severe thunderstorms warning: Northern/North Central provinces, Trincomalee, Batticaloa, Matale. Strong winds possible. Public advised to take precautions against lightning impacts.
+
+🟩
+
+The Department of Meteorology has warned that many districts will have a severe impact on lightning today.
+
+Accordingly, there is a possibility of severe thunderstorms in the Northern and North Central Provinces and Trincomalee, Batticaloa and Matale districts.
+
+The Department of Meteorology has warned that temporarily strong winds may blow during thunderstorms.
+
+The public is asked to take adequate precautions to reduce the effects of lightning impacts. Remble
+
+◼️
+
+[Data](articles/1593b5a1.json)
+
+[Extended Data](ext_articles/1593b5a1.ext.json)
+
+---
 
 ### Court calls for progress report on investigations into death of ‘Makandure Madush’
 
@@ -2367,81 +2445,5 @@ This is why I request the United People's Power to give the majority of the majo
 [Data](articles/d84feb25.json)
 
 [Extended Data](ext_articles/d84feb25.ext.json)
-
----
-
-### We are the strongest opposition.
-
-*2024-11-07 02:58:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாமே-பலமான-எதிர்க்கட்சி/175-346696) · `ta`
-
-Strongest opposition claims new Democratic Party will win seats in parliament. Former President Ranil Wickremesinghe praised for economic efforts during crisis. Party contests in Digamadulla district, aims for 3 seats. Urges voters to support honest politics.
-
-🟩
-
-Digamadulla District Fourth Candidate UK, there is no doubt that the new Democratic Party will get more seats in the new parliament and become a strong opposition party.. Adamleb said
-
-He said this while addressing the election campaign meeting held in Adalaichenai on Wednesday (05)
-
-“The people of this country know that former President Ranil Wickremesinghe has led a stable efforts to make constructive efforts due to his experience and resourceful activities when this country is in a major economic crisis.
-
-In a difficult time, he did not only build this country in charge of the country, but he also did the most important task that had taken the economic growth rate to the economic growth rate, which was in line with the need for the people's hunger and the need for the needs of the people.. No one can deny that this task has made the people of this country to live in peace today.
-
-...
-
-[Data](articles/6a9197b4.json)
-
-[Extended Data](ext_articles/6a9197b4.ext.json)
-
----
-
-### Departed to protect the silence
-
-*2024-11-07 02:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைதி-காக்க-புறப்பட்டனர்/175-346695) · `ta`
-
-Sri Lanka Air Force members departed Katunayake Air Force Base for UN peacekeeping in Central African Republic. 20 officers, 88 soldiers. Contributing to war efforts, supporting troops, transporting VIPs, goods, and providing medical aid since 2014.
-
-🟩
-
-Sri Lanka Air Force members to depart for the United Nations peacekeeping work in the Central African Republic took place at the Katunayake Air Force Base at the Katunayake Air Force Base.
-
-The parade of Sri Lanka Air Force members, which is to be held in the Central African Republic, was held at the Katunayake Air Force Base under the patronage of Air Marshal Udhani Rajapaksa, Commander of the Air Force.
-
-The Sri Lanka Air Force's 10th Group, which will depart for the United Nations peacekeeping work in the Central African Republic, has 20 officers and 88 soldiers.
-
-From 2014 to the present, the Sri Lanka Air Force has provided the Treasury of $ 130 million by engaging in peaceful duties.
-
-The Sri Lankan Air Force members, who have been assigned to the UN peacekeeping operations, contribute to war operations in the Central African Republic and support the troops, VIP transport, food and freight transport, internal aircraft, parachute landing and medical transport.
-
-◼️
-
-[Data](articles/cf492195.json)
-
-[Extended Data](ext_articles/cf492195.ext.json)
-
----
-
-### Can't acquire Lion Residences
-
-*2024-11-07 02:48:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லயன்-குடியிருப்புகளை-கையகப்படுத்த-முடியாது/175-346694) · `ta`
-
-Government denies acquiring Lion Residences: "No decision made" says Minister Vijitha Herath. Plantation workers threatened with eviction if they don't work for two weeks.
-
-🟩
-
-"The government has not made any decision to acquire plantation dwellings if the plantation workers do not work for two weeks."Cabinet spokesman and Plantation Minister Vijitha Herath said.
-
-A media briefing to announce the Cabinet decisions was held on Wednesday (06) at the Government Information Department.
-
-The manager has sent a letter to the plantation workers in a garden operating under the Government Plantation Company in Kandy, Kandy.
-
-It has been advised that the Lion Rooms will be recovered if they do not work for two weeks, ”the minister said in response to a question raised.
-
-“I looked in search of this letter. This is a letter sent by a plantation officer of a state estate company. As a government, we have not taken such a decision. No resolution has been taken. Action has been taken in connection with the incident. ”Minister Vijitha Herath said.
-
-◼️
-
-[Data](articles/b7bfeecd.json)
-
-[Extended Data](ext_articles/b7bfeecd.ext.json)
 
 ---

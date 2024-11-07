@@ -1,120 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 08:38:10**
+As of **2024-11-07 08:01:48**
 
 ## Newspaper Stats
 
-*Scraped **53,488** Articles*
+*Scraped **53,483** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
-bbccomsinhala | 546
+bbccomsinhala | 545
 colombotelegraphcom | 547
 islandlk | 3,199
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,995
-adaderanalk | 6,370
+adaderanalk | 6,368
 tamilmirrorlk | 7,447
 virakesarilk | 8,648
-adaderanasinhalalk | 9,321
+adaderanasinhalalk | 9,319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,482 (100.0%) of 53,488 articles have been extended.
+53,477 (100.0%) of 53,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
-
-### Rice shortage, price surge fueled by increased beer production?
-
-*2024-11-07 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103222/rice-shortage-price-surge-fueled-by-increased-beer-production) · `en`
-
-The Small and Medium Scale Rice Mill Owners’ Association stresses that the growing rice shortage in the market is caused by the increased use of raw rice for beer production.
-
-According to the association, diverting more rice for brewing has impacted the availability of rice for consumers, leading to rising prices.
-
-Chairman of the association U.K. Semasinghe explained that the raw rice used in beer production is sourced from ‘Nadu’ paddy.
-
-“Raw rice is essential for beer production, but it comes from ‘Nadu’ paddy. When a greater portion of this paddy is allocated to the production of beer, the supply of paddy for regular Nadu rice production diminishes,” he noted.
-
-Against this backdrop, farmers’ organizations have echoed similar concerns, urging the government to intervene and stabilize rice prices.
-
-Many shopkeepers report difficulty in obtaining rice at the government-controlled price, further straining the market.
-
-...
-
-[Data](articles/bfbc8560.json)
-
----
-
-### Fairly heavy showers likely in parts of the island
-
-*2024-11-07 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103221/fairly-heavy-showers-likely-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at times in Northern and North-Central Provinces and in Puttalam and Trincomalee districts today (07).
-
-Fairly heavy showers above 50mm are likely at some places in Northern Province, the department added.
-
-Meanwhile, showers or thundershowers will occur at several places in Central, Sabaragamuwa, Uva and Southernprovinces during the evening or night, according to the Met. Department.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b4d2424d.json)
-
----
-
-### ගිනිඅවි භාරදීමට ලබා දී තිබු කාලය දීර්ඝ කෙරේ
-
-*2024-11-07 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202993) · `si`
-
-ආරක්ෂක අමාත්‍යාංශය විසින් නිකුත් කර ඇති බලපත්‍ර සහිත ගිනිඅවි නැවත භාරදීම සඳහා ලබා දී තිබු කාලය දීර්ඝ කර තිබේ.
-
-ඒ අනුව එම ගිනිඅවි නොවැම්බර් මස 21 වන දිනට ප්‍රථම භාරදෙන ලෙස ආරක්ෂක අමාත්‍යාංශය සඳහන් කළේය.
-
-ගිනිඅවි යළි භාරදීම සඳහා ආරක්ෂක අමාත්‍යාංශය විසින් මාසයක කාලයක් ලබාදුන් අතර එම කාලය අදින් අවසන් වීමට නියමිතව තිබුණි.
-
-කෙසේවෙතත් ඉදිරිපත්ව ඇති කරුණු සලකා බැලීමෙන් අනතුරුව එම කාලය දීර්ඝ කිරීමට පියවර ගෙන ඇති බව සඳහන්ය.
-
-ජීවිත ආරක්ෂාව සඳහා බලපත්‍ර සහිතව ලබා දී ඇති ගිනිඅවි පිළිබඳ සමාලෝචනය කිරීමෙන් පසු නැවත ලබාදීම සලකා බැලීමට යටත්ව ගිනිඅවි භාරදෙන ලෙස ආරක්ෂක අමාත්‍යාංශය දැනුම්දුන්නේය.
-
-නාවික හමුදාවේ වැලිසර පිහිටි රජයේ වාණිජ පුපුරණ ගබඩාව වෙත එම ගිනිඅවි ලබාදෙන ලෙස ආරක්ෂක අමාත්‍යාංශය දැනුම් දුන්නේය.
-
-කෙසේවෙතත් මේ වන විට විශාල පිරිසක් ගිනිඅවි යළි භාරදීමට පියවර ගෙන තිබේ.
-
-මේ දක්වාත් ගිනිඅවි ලබානොදු පිරිස් සඳහා එම ගිනිඅවි යළි ලබාදීමට මෙලෙස කාලය දිර්ඝ කිරිමක් සිදුකර ඇති බව වාර්තා වේ.
-
-◼️
-
-[Data](articles/81ec1988.json)
-
----
-
-### Another suspicious death
-
-*2024-11-07 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202992) · `si`
-
-Suspicious death reported: Man dies after falling near three-wheeler on Kandy-Makadiya road.
-
-🟩
-
-A man who had fallen near a three-wheeler on the Kandy Makadiya road in Kandy area was killed.
-
-◼️
-
-[Data](articles/818227cb.json)
-
-[Extended Data](ext_articles/818227cb.ext.json)
-
----
 
 ### Election propaganda ends on Monday
 
@@ -555,24 +471,6 @@ Its Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30 
 [Data](articles/0805c7af.json)
 
 [Extended Data](ext_articles/0805c7af.ext.json)
-
----
-
-### හිරුණිකා ප්‍රේමචන්ද්‍ර: 'කුමන පක්ෂයකට ඡන්දය දුන්නත් කාන්තාවන් වෙනුවෙන් එක් මනාපයක් දෙන්න'
-
-*2024-11-07 01:30:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c2dl00rr26do) · `si`
-
-හිරුණිකා ප්‍රේමචන්ද්‍ර: 'කුමන පක්ෂයකට ඡන්දය දුන්නත් කාන්තාවන් වෙනුවෙන් එක් මනාපයක් දෙන්න'
-
-තමන් කුමන පක්ෂයකට ඡන්දය භාවිත කළ ද එම අපේක්ෂක ලැයිස්තුවේ සිටින කාන්තාවක් වෙනුවෙන් එක් මනාපයක් පළ කරන්නැයි සියලු දෙනාගෙන් ඉල්ලා සිටින බව සමගි ජන බලවේගයේ කොළඹ දිස්ත්‍රික්කයට තරග කරන හිරුණිකා ප්‍රේමචන්ද්‍ර පවසන්නීය.
-
-රටේ ජනගහනයෙන් බහුතරය කාන්තාවන් වුව ද කාන්තාවන් පිළිබඳ වැදගත් තීන්දු තීරණ ගන්නා ස්ථානවල කාන්තාවන් නියෝජනය නොවීම රටක් ලෙස ඉතා කණගාටුදායක තත්ත්වයක් බවත්, අරගලයේ වාසිය ලබා ගැනීමට පක්ෂයක් ලෙස සමගි ජන බලවේගය අපොහොසත් වූ බවත් BBC සිංහල සේවය සමග කළ සාකච්ඡාවක දී ඇය සඳහන් කළා ය.
-
-බුද්ධි අංශවලට නොදැනෙන පරිදි ගෝඨාභය රාජපක්ෂ ගේ නිවස ඉදිරිපිටට ගොස් විරෝධය පළ කිරීම,  සමගි වනිතා බලවේගයේ ජාතික සංවිධායක ධූරයෙන් ඉල්ලා අස්වීමේ ලිපිය භාර දීම ඇතුළු කරුණු ගැන හිරුණිකා ප්‍රේමචන්ද්‍ර මෙම සංවාදයේ දී අදහස් පළ කළා ය.
-
-◼️
-
-[Data](articles/86c1bcbb.json)
 
 ---
 
@@ -2363,5 +2261,127 @@ Sudden death investigators Namasivayam Premkumar conducted the death investigati
 [Data](articles/935251ca.json)
 
 [Extended Data](ext_articles/935251ca.ext.json)
+
+---
+
+### Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
+
+*2024-11-06 15:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs175bn-in-treasury-bills-yields-up-for-shorter-maturities-186283/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were up across the shorter term maturities at Wednesday’s auction with all offered 175 billion rupees of bills sold, data from the debt office showed.
+
+The 3-month yield was up 2 basis points at 9.37 percent, with 60 billion offered and 92.3 billion rupees bills sold.
+
+The 6-month yield was up 2 basis points at 9.70 percent, with 85 billion offered and 58.7 billion rupees of bills sold.
+
+The 12-month bills held steady at 9.95 percent, with 30 billion offered and 23.8 billion rupees of bills sold.
+
+The 6 and 9 month bills are available on tap after the auction. (Colombo/Nov6/2024)
+
+◼️
+
+[Data](articles/ba78c462.json)
+
+[Extended Data](ext_articles/ba78c462.ext.json)
+
+---
+
+### Sri Lanka to settle Rs28.37bn plus in road arrears
+
+*2024-11-06 15:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-settle-rs28-37bn-plus-in-road-arrears-186279/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Cabinet of Ministers has approved a proposal to settle outstanding bills for the repair of 100,000km of road, Spokesman Minister Vijitha Herath said.
+
+There is an outstanding balance of 28.37 billion for the repair of some 100,000km of road begun in 2020 under a five-year project.
+
+A further 20 billion rupees was allocated for the repair of essential roads in 2024, when 1,000km of road was identified for repair.
+
+The Cabinet approved the proposal to manage the provisions allocated to the Ministry of Transport, Highways, Ports, and Civil Aviation for the year 2024, that have not been used so far, to settle the outstanding bills that should be settled under these two programs. (Colombo/Nov6/2024)
+
+◼️
+
+[Data](articles/0fd168e6.json)
+
+[Extended Data](ext_articles/0fd168e6.ext.json)
+
+---
+
+### 'Ranil needs Ranil - they need Ranil'
+
+*2024-11-06 15:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198043) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Former President Gotabhaya Rajapaksa claimed Ranil Wickremesinghe needed his support during crisis talks. However, Wickremesinghe denies this, stating he didn't seek Rajapaksa's backing. This highlights the complex political dynamics in Sri Lanka's recent history.
+
+🟩
+
+Former President Gotabhaya Rajapaksa said in an interview with talks between him and the United People's Power before he fled the country in 2022, said Ranil Wickremesinghe, a former United People's Power Member of Parliament, Eran Wickramaratne.
+
+Question - When the country is in a state of crisis, many people question why people like Eran did not join Ranilwickramasinghe?
+
+Former President Gotabhaya Rajapakse summoned Opposition Leader Sajith Premadasa and why you should not rule, Sajith Premadasa responded.
+
+I went to meet Gotabhaya.
+
+Yes. The meeting between us and Gotabaya took place before Ranil became Prime Minister.
+
+People are not aware of this. It is not publicly talked about.
+
+Gotabhaya said that the Sri Lanka Lawyers Association has also submitted an idea on the constitutional reform.
+
+I was appointed as the speaker of our party.
+
+The next day I tried to contact Gotabhaya on the phone and then Rani Lwickramasinghe is in the president's residence.
+
+...
+
+[Data](articles/a9d0a076.json)
+
+[Extended Data](ext_articles/a9d0a076.ext.json)
+
+---
+
+### Muslim does not decide to amend the divorce law - government
+
+*2024-11-06 14:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/198042) · `ta`
+
+Government denies amending Muslim Divorce Act; religious leaders may propose changes after consulting experts.
+
+🟩
+
+The government does not make any decision to amend the Muslim Divorce Act. No. Cabinet spokesman Vijitha Herath said that there was no need for it.
+
+He further stated that the press conference to announce the Cabinet decisions was held on Wednesday (06).
+
+Different organizations have different positions in relation to Muslim divorce law. We respect those rights. Similarly, as a government, no decision has been made to make amendments to the Muslim Divorce Act. Not going to take.
+
+There was no need to make such a decision. Muslim religious leaders can take action if legal amendments are needed only after discussing discussions with experts. He said the legal amendments to any religion would be made on this basis.
+
+◼️
+
+[Data](articles/10f62d11.json)
+
+[Extended Data](ext_articles/10f62d11.ext.json)
+
+---
+
+### 35 years in prison for 4 officers
+
+*2024-11-06 14:41:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-அதிகாரிகளுக்கு-35-வருட-கடூழிய-சிறை/175-346667) · `ta`
+
+Colombo High Court sentences 4 former customs officials to 35 years in prison for major bribery case.
+
+🟩
+
+The Colombo High Court on Wednesday (06) has imposed a 35 -year -old imprisonment for ex -customs officials who have been arrested by the Commission for Investigation of Bribery or Corruption on the major bribery.
+
+◼️
+
+[Data](articles/643d0e3e.json)
+
+[Extended Data](ext_articles/643d0e3e.ext.json)
 
 ---

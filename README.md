@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 12:58:28**
+As of **2024-11-07 13:09:38**
 
 ## Newspaper Stats
 
@@ -26,41 +26,63 @@ adaderanasinhalalk | 9,331
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,535 (100.0%) of 53,541 articles have been extended.
+53,539 (100.0%) of 53,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### ஜனாதிபதி தேர்தலில் தோற்றாலும் போராட்டத்தை கைவிடமாட்டேன் ; சிலவேளைகளில் போராட்டம் சில காலம் நீடிக்கும்; இதன் அர்த்தம் நாங்கள் வெற்றிபெறமாட்டோம் என்பதல்ல -    கமலா ஹரிஸ்
+### I will not abandon the struggle even if they lose the presidential election;Sometimes the struggle lasts for some time;This does not mean that we will not succeed - Kamala Haris
 
 *2024-11-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198099) · `ta`
 
-அமெரிக்க ஜனாதிபதி தேர்தலில் தோற்றாலும்  சுதந்திரத்திற்கான, வாய்ப்பிற்கான ,அனைத்து மக்களினதும் நியாயம், கௌவரத்திற்கான, எங்கள் தேசத்தின் இதயமாக உள்ள கொள்கைகளிற்கான  போராட்டத்தை   நான் ஒருபோதும் கைவிடமாட்டேன் என கமலா ஹரிஸ் தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-வோசிங்டன் டிசியில் தனது ஆதரவாளர்கள் மத்தியில் உரையாற்றுகையில் இதனை தெரிவித்துள்ள  அவர் மேலும் தெரிவித்துள்ளதாவது.
 
-இந்த தேர்தல் முடிவு நாங்கள் எதிர்பார்த்த ஒன்றல்ல,நாங்கள் போராடியது இந்த முடிவிற்காக இல்லை,நாங்கள் இதற்காக வாக்களிக்கவில்லை, ஆனால் நான் சொல்வதை செவிமடுங்கள்.நாம் கைவிடாத வரை,நாங்கள் தொடர்ந்து போராடும் வரை அமெரிக்காவின் வாக்குறுதியின் வெளிச்சம் என்றும் பிரகாசமாக ஒளிரும்.
 
-நாங்கள் போட்டியிட்டது குறித்தும் போட்டியிட்ட விதம் குறித்தும், நான் மிகவும் பெருமிதமடைகின்றேன்.இந்த பிரச்சாரத்தை முன்னெடுத்த 107 நாட்களாக ,நாங்கள் சமூகங்களை உருவாக்குவது ,கூட்டணிகளை உருவாக்குவது குறித்த நோக்கத்துடன் செயற்பட்டோம்.
+Kamala Harris vows to continue struggle despite election loss. She emphasizes perseverance, unity, and protecting democratic values. The struggle continues for freedom, justice, and American ideals.
+
+🟩
+
+Kamala Haris has said that even if the US presidential election, I will never give up the struggle for the principles of independence, the opportunity, all the people, the gaze, and the policies of our nation.
+
+He said this while addressing his supporters in Washington TC.
+
+The results of this election are not what we expected, we were not for this decision, we did not vote for it, but listen to what I said. Until we abandon, it brightly shone as the light of the US promise.
+
+I am very proud of what we contested and the way we contested.
+
+We have done this on the basis that there are more common things between us than to separate the people of life and the people of life and the backdrop of life, which are bindled with the love of the United States, the future of the United States.
+
+I know that you are now in a variety of emotions, but we have to accept the results of this election.
+
+I said that we will help him and his team during the change of power.
 
 ...
 
 [Data](articles/1b0dae00.json)
 
+[Extended Data](ext_articles/1b0dae00.ext.json)
+
 ---
 
-### ලොහාන් සහ බිරිඳ යළි රිමාන්ඩ්
+### Lohan and wife remanded again
 
 *2024-11-07 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203003) · `si`
 
-නීති විරෝධීව එකලස් කරන ලද මෝටර් රථයක් භාවිත කිරීමේ චෝදනාව යටතේ අත්අඩංගුවට ගත් හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ හා ඔහුගේ බිරිඳ එළඹෙන 18 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+Lohan Ratwatte and wife remanded over illegal vehicle use. Charged under law. Court appearance set for 18th. Case heard at Nugegoda General Assembly on 7th.
 
-ඒ ඔවුන් අද (07) නුගේගොඩ මහසේත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුවය.
+🟩
+
+Former State Minister Lohan Ratwatte and his wife were remanded until the 18th of the charge of using an illegal car.
+
+They were produced before the Nugegoda General Assembly this (07).
 
 ◼️
 
 [Data](articles/6a4f69d9.json)
+
+[Extended Data](ext_articles/6a4f69d9.ext.json)
 
 ---
 
@@ -80,21 +102,29 @@ Theldeniya Divisional Crimes Unit is conducting further investigations into the 
 
 [Data](articles/c18eead9.json)
 
+[Extended Data](ext_articles/c18eead9.ext.json)
+
 ---
 
-### பத்து வேட்பாளர்களும் வெற்றி பெற்று, பாராளுமன்றத்தில் நாம் ஒரு அழுத்த அணியாக இடம் பெற வேண்டும் - மனோ கணேசன்
+### Ten candidates have won and we must be a pressure team in Parliament -Mano Ganesan
 
 *2024-11-07 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198094) · `ta`
 
-ஏழு மாவட்டங்களில் போட்டி இடும் எமது பத்து வேட்பாளர்களும் வெற்றி பெற்று, எதிர்வரும் பத்தாவது பாராளுமன்றத்தில் நாம் ஒரு அழுத்த அணியாக இடம்பெற வேண்டும். இதை மனதில் கொண்டு நமது மக்கள் வாக்களிக்க  வேண்டும் என தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் அறிவித்துள்ளார்.
+Tamil Progressive Alliance leader Mano Ganesan urges voters to support ten candidates in seven districts for upcoming parliament elections, emphasizing representation and addressing national issues.
 
-தமுகூ தலைவர் மனோ கணேசன் விடுத்துள்ள விசேட வாக்காளர் தெளிவூட்டல் அறிக்கையில் மேலும் கூறியுள்ளதாவது,
+🟩
 
-தமிழ் முற்போக்கு கூட்டணி, பதுளை, நுவரேலியா, கண்டி, இரத்தினபுரி, கேகாலை, கொழும்பு, கம்பஹா ஆகிய ஏழு மாவட்டங்களில் பத்து வேட்பாளர்களை களமிறக்கி உள்ளது. இந்த பத்து வேட்பாளர்களும் வெல்ல வேண்டும். எம்மை நாமே பிரதிநிதித்துவம் செய்ய வேண்டும். இந்நாடு இன்று ஒரு வரலாற்று திருப்பு முனையில் நிற்கிறது. இந்த வரலாற்று சூழலில் தேசிய முக்கியத்துவம் வாய்ந்த இடங்களில் நாம் நமது மக்களை பிரதிநிதித்துவம் செய்ய வேண்டும். வரலாறு தந்திருக்கும் வாய்ப்பை நாம் தவற விடகூடாது.
+Our ten candidates who are contesting in seven districts have won and we must be a pressure team in the upcoming tenth parliament. Tamil Progressive Alliance leader Mano Ganesan has announced that our people should vote with this in mind.
+
+In a special voter clarity report issued by Tamuku President Mano Ganesan, he added,
+
+The Tamil Progressive Alliance has fielded ten candidates in seven districts of Badulla, Nuwarali, Kandy, Ratnapura, Kegalle, Colombo and Gampaha. These ten candidates must win. We must represent ourselves. The country is standing on a historic turning point today. In this historical environment we must represent our people in places of national importance. We should not miss the opportunity that history has given.
 
 ...
 
 [Data](articles/3f762374.json)
+
+[Extended Data](ext_articles/3f762374.ext.json)
 
 ---
 

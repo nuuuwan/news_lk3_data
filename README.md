@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 15:10:39**
+As of **2024-11-07 15:24:34**
 
 ## Newspaper Stats
 
-*Scraped **53,559** Articles*
+*Scraped **53,562** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,007
-adaderanalk | 6,380
-tamilmirrorlk | 7,457
+adaderanalk | 6,382
+tamilmirrorlk | 7,458
 virakesarilk | 8,667
 adaderanasinhalalk | 9,333
 
@@ -26,11 +26,77 @@ adaderanasinhalalk | 9,333
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,559 (100.0%) of 53,559 articles have been extended.
+53,562 (100.0%) of 53,562 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Passport crisis: Immigration officers claim higher-ups concealed actual situation from Minister
+
+*2024-11-07 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103237/passport-crisis-immigration-officers-claim-higher-ups-concealed-actual-situation-from-minister) · `en`
+
+The Sri Lanka Immigration and Emigration Officers’ Association has issued a statement addressing the ongoing passport crisis in the country, citing administrative mismanagement and a lack of adequate planning as key contributors for the issue.
+
+According to the association, statements issued by other parties on the matter have often been contradictory and misleading, compelling them to clarify the real situation and advocate for immediate action to resolve the crisis.
+
+The association highlighted that the Department of Immigration and Emigration has a critical role in issuing passports that meet international standards, as mandated by the Immigration and Emigration Act. Despite continuous immigration and emigration services provided around the clock, including during emergencies, passport issuance has been disrupted by inefficiencies that began earlier this year and persist today, the statement added.
+
+The association detailed the following factors as having caused the crisis:
+
+...
+
+[Data](articles/ccd1dfd5.json)
+
+[Extended Data](ext_articles/ccd1dfd5.ext.json)
+
+---
+
+### 28 arrested with drugs in special operation at coastal areas in Colombo
+
+*2024-11-07 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103236/28-arrested-with-drugs-in-special-operation-at-coastal-areas-in-colombo) · `en`
+
+A total of 28 individuals, including two women, have been arrested during an anti-drug operation carried out by the Coastal Police in three separate coastal areas of Colombo.
+
+The operation covered Jampettah Street, St. Anthony’s Road, and the 44 Watta area of Ratnam Road, according to police.
+
+A total of 12,900 milligrams of crystal methamphetamine (Ice), 5,900 milligrams of heroin, and 10 grams of cannabis which were found in the possession of the suspects have been taken into police custody during the operation.
+
+According to the police, nearly 40 identified residences as well as suspicious individuals who were travelling on the roads was subject to random searches, where the drugs were discovered.
+
+A police dog named “Amai” played a key role in the operation, which lasted nearly two hours and involved approximately 50 officers, including personnel from the Special Task Force (STF), according to police.
+
+◼️
+
+[Data](articles/e87322fd.json)
+
+[Extended Data](ext_articles/e87322fd.ext.json)
+
+---
+
+### Candidate who pays fees for preferential vote
+
+*2024-11-07 14:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/விருப்பு-வாக்குக்காக-கட்டணங்களை-செலுத்தும்-வேட்பாளர்/75-346722) · `ta`
+
+Candidate pays voters' bills for preferential votes in Trincomalee district. Election Commission investigates complaint about MP from major party.
+
+🟩
+
+The Election Complaints Division established at the Trincomalee District Office said that a candidate contesting in a major party in the parliamentary election has been lodged with voters' drinking water and electricity bills to get his preferential vote.
+
+The complaint states that the voters' fees are paid for the voter votes of the Toppur area in the Muttur constituency.
+
+Responding to the question, A. Sudhakaran, the Assistant Election Officer and Additional District Commissioner in charge of the Election Management Unit, said that the Election Commission had requested the necessary instructions to take action.
+
+The candidate is said to be a Member of Parliament for the Trincomalee District who represented the last parliament.
+
+◼️
+
+[Data](articles/f0723350.json)
+
+[Extended Data](ext_articles/f0723350.ext.json)
+
+---
 
 ### Immigration and Emigration Office Association for Passport problem
 
@@ -2325,61 +2391,5 @@ The above writing by the French philosopher and author Bertrand de Jouvenel is q
 [Data](articles/c826ecf4.json)
 
 [Extended Data](ext_articles/c826ecf4.ext.json)
-
----
-
-### Struggle to disrupt the election and support the excavation of heavy sand
-
-*2024-11-07 00:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198078) · `ta`
-
-Protesters support heavy sand excavation despite election announcement. Group visits Mannar Election Monitoring Committee, advised to leave due to potential disruption. Some protesters engage in voting, others disperse after warning. Foreign-based company allegedly pays 3000 rupees per person to protest.
-
-🟩
-
-On Wednesday morning, a group of people were protesting in support of heavy sand excavations in the Erukkalam Pitti area of ​​Talaimannar on Wednesday morning.
-
-In this backdrop, a group of people who visited the Mannar Election Monitoring Committee have been advised to dissolve from the area as such protests cannot be carried out as the election has been announced.
-
-However, they did not go away and engaged in voting with election officials. In this case, the protesters dispersed from the area as the public service was warned that the arrest would be taken and action would be taken in order to disrupt the election duty.
-
-It is reported that a foreign -based company has been brought to the protest by paying 3000 rupees per person.
-
-◼️
-
-[Data](articles/bd6de425.json)
-
-[Extended Data](ext_articles/bd6de425.ext.json)
-
----
-
-### 2024-11-06 (Wednesday)
-
-### Appreciation: Franklyn Amerasinghe
-
-*2024-11-06 23:56:47* · [`dailyftlk`](https://www.ft.lk/columns/Appreciation-Franklyn-Amerasinghe/4-768913) · `en`
-
-This week, we mourn the passing of Franklyn Amerasinghe, who bravely faced a challenging battle with cancer. His patience and resilience in confronting such adversity imparted countless life lessons. Franklyn was a simple, down-to-earth person. As my mother’s brother, he inspired me to embrace challenges beyond my comfort zone.
-
-As a keen follower of HR, I wish to honour and celebrate his immense contribution to HR development and the strengthening of industrial relations in the country. Franklyn was a man whose life exemplified unwavering dedication to fostering constructive workplace dialogue, championing alternative dispute resolution, HR development, and advocating for social justice for workers.
-
-...
-
-[Data](articles/16704ab7.json)
-
-[Extended Data](ext_articles/16704ab7.ext.json)
-
----
-
-### Are rice consumers and farmers victims of current practices?
-
-*2024-11-06 23:49:19* · [`dailyftlk`](https://www.ft.lk/columns/Are-rice-consumers-and-farmers-victims-of-current-practices/4-768912) · `en`
-
-The argument that Sri Lanka is self-sufficient in rice does not hold water. Therefore, since the current shortfalls have a bearing on market prices which in turn have a bearing on health, poverty and malnutrition, price variations should be avoided. It is therefore imperative that rice production be increased and stocks monitored regularly to ensure that sufficient stocks are available at any time because shortfalls are often the cause to justify increasing market prices
-
-...
-
-[Data](articles/41dc8049.json)
-
-[Extended Data](ext_articles/41dc8049.ext.json)
 
 ---

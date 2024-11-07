@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 04:40:21**
+As of **2024-11-08 05:10:02**
 
 ## Newspaper Stats
 
-*Scraped **53,626** Articles*
+*Scraped **53,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,169 @@ bbccomsinhala | 547
 colombotelegraphcom | 550
 islandlk | 3,200
 economynextcom | 3,256
-dailyftlk | 3,659
+dailyftlk | 3,662
 dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
 tamilmirrorlk | 7,468
-virakesarilk | 8,677
+virakesarilk | 8,681
 adaderanasinhalalk | 9,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,626 (100.0%) of 53,626 articles have been extended.
+53,630 (100.0%) of 53,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Lohan Ratwatte and wife further remanded
+
+*2024-11-08 04:22:07* · [`dailyftlk`](https://www.ft.lk/news/Lohan-Ratwatte-and-wife-further-remanded/56-768969) · `en`
+
+The Nugegoda Magistrate’s Court yesterday ordered to further remand former State Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte till 18 November, over the case involving an unregistered luxury vehicle.
+
+The duo was arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka.
+
+The luxury vehicle in question was found without a number plate at a house belonging to Ratwatte’s wife in Embuldeniya area last month, during a probe conducted by a team of Police officials based on a tip-off from the Mirihana Police.
+
+During the investigation, both Ratwatte and his wife had explained to the Police that his mother-in-law resides in the said house. They had claimed that the car had been brought there three weeks ago by Ratwatte’s private secretary, who was recently found dead with gunshot injuries in the Katugastota area of Kandy.
+
+...
+
+[Data](articles/677813b6.json)
+
+---
+
+### Japan, Egypt envoys present credentials to President AKD
+
+*2024-11-08 04:21:35* · [`dailyftlk`](https://www.ft.lk/news/Japan-Egypt-envoys-present-credentials-to-President-AKD/56-768968) · `en`
+
+Two newly appointed Ambassadors to Sri Lanka presented their credentials to President Anura Kumara Dissanayake yesterday at the Presidential Secretariat.
+
+Ambassador of the Arab Republic of Egypt Adel Ibrahim and Ambassador of Japan ISOMATA Akio presented their credentials to the President.
+
+The President’s Media Division (PMD) said they also paid courtesy calls on the President following the presentation of credentials.
+
+◼️
+
+[Data](articles/2c6f99d8.json)
+
+---
+
+### EC calls on employers to grant leave for employees for voting
+
+*2024-11-08 04:19:41* · [`dailyftlk`](https://www.ft.lk/news/EC-calls-on-employers-to-grant-leave-for-employees-for-voting/56-768967) · `en`
+
+The Election Commission has issued guidelines to be followed by employers and employees when applying for leave in view of the 2024 General Election.
+
+The Commission stresses that the employers must grant leave for public and private sector employees to cast their votes in the upcoming General Election. The renewed call comes following several complaints received by the Commission about employers not providing adequate leave for employees.
+
+The Commission reminded employers that they must grant leave in a manner which allows employees to vote without any salary deductions or reductions to their personal leave.
+
+As per the guidelines, public and private sector employees are advised to request leave through a written request.
+
+The special leave should be granted for a minimum of four hours or based on the distance required to travel.
+
+...
+
+[Data](articles/04ccadad.json)
+
+---
+
+### The solution to national issues is essential for a joint operation between the government and other political parties
+
+*2024-11-08 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198148) · `ta`
+
+Here's a 200-character summary:
+
+
+
+National issues require joint government-party efforts. Corruption eradication is crucial. New government addresses corruption concerns, arresting former officials. Opposition criticism faces voter skepticism due to slow progress on promised reforms. Minority communities' support uncertain. Constitutional amendments depend on cooperation with opposition parties.
+
+🟩
+
+One of the most important promises of the national people's power was to end the corruption of corruption that has enslaved the country. It was the main reason for the party to have a great glamor on the party. Following the introduction of the open economy in the late 1970s, the government and the private sector have been embraced by the government and the private sector.
+
+Massive development projects and foreign aid gave people the opportunity to engage in corruption. The economic downturn and the risk of people to experience as a result, tightened the commitment to eradicate corruption and eliminate those involved in it.. As a party that never had political power, the national people's power (among the leading parties) was free from corruption.
+
+...
+
+[Data](articles/2db02465.json)
+
+[Extended Data](ext_articles/2db02465.ext.json)
+
+---
+
+### Lightning hit a farmer
+
+*2024-11-08 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198147) · `ta`
+
+Farmer killed by lightning strike in Vandharumoolai. Incident occurred on Thursday at 5 pm. Victim identified as Sonda Acharya, 40-year-old A. Rameesakumar. Body undergoing autopsy.
+
+🟩
+
+The incident took place on Thursday (7) at 5 pm, the incident of a farmer who was killed in a lightning strike in the Uppodai Vayal area of ​​Vandharumoolai in the Eravur police division.
+
+The deceased is Sonda Acharya and a farmer's 40 -year -old A. Rameesakumar on the main road.
+
+The man was killed on the spot on Thursday (7) evening when he went to the Uppodai field and was on a motorbike and was on a motorbike.
+
+Subsequently, the police said that the body of the deceased is being carried out for an autopsy and handing over to the hospital for autopsy.
+
+◼️
+
+[Data](articles/a2c664df.json)
+
+[Extended Data](ext_articles/a2c664df.ext.json)
+
+---
+
+### Illegal Leakage Production Station Siege
+
+*2024-11-08 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198146) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Leakage plant seized in Batticaloa. Located in Tandamalai and Mavadimunmari villages. Blocked after public tip-off. Operators fled; equipment destroyed."
+
+🟩
+
+The illegal leakage plant, which has been illegally taken up in the river in the area of ​​the Tandamalai and Mavadimunmari villages in the Batticaloa district, has been blocked on Thursday (07).
+
+Based on the information provided by the public of the village to the Grama Niladhari, the Grama Niladhari and the Development Officer were searched by the Koda River.
+
+It has been reported that the persons involved in the leakage have fled and the captured kota bolts have been destroyed.
+
+◼️
+
+[Data](articles/0f0b4d11.json)
+
+[Extended Data](ext_articles/0f0b4d11.ext.json)
+
+---
+
+### "Surasamharam" at Sri Sivasupramanya Swamy Temple in Colombo
+
+*2024-11-08 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198145) · `ta`
+
+"Surasamharam" festival at Sri Sivasupramanya Swamy Temple in Colombo: thousands attend event outside temple grounds.
+
+🟩
+
+Kandasashti Mahotsava "Surasamharam" was held on Thursday evening at the temple outside the temple.. Thousands of devotees attended the event.
+
+◼️
+
+[Data](articles/3ed92f9a.json)
+
+[Extended Data](ext_articles/3ed92f9a.ext.json)
+
+---
 
 ### Club spring assassination: 20 people
 
@@ -2253,191 +2399,5 @@ The suspects are to be produced before courts.
 [Data](articles/5463470f.json)
 
 [Extended Data](ext_articles/5463470f.ext.json)
-
----
-
-### Another sacrifice emerge from the pastor's vehicle
-
-*2024-11-07 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203000) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pastor arrested for luxury car possession. Vehicle seized during investigation. Further inquiries ongoing by Criminal Investigation Unit.
-
-🟩
-
-Another luxury car has been found in the vehicles of the pasts arrested for possession of a luxury car.
-
-The pastor of the Gallewa Devalaya was arrested recently and remanded the vehicle after investigations into his investigation.
-
-The vehicle has been taken into custody by investigations into the Colombo-Hettipola area.
-
-Further investigations are conducting further investigations by the Criminal Investigation Unit.
-
-◼️
-
-[Data](articles/6a0ec63d.json)
-
-[Extended Data](ext_articles/6a0ec63d.ext.json)
-
----
-
-### Lohan Ratwatte and wife produced before court
-
-*2024-11-07 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103230/lohan-ratwatte-and-wife-produced-before-court-) · `en`
-
-Former Minister of State Lohan Ratwatte and his wife, who were arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka, were produced before the Nugegoda Magistrate’s Court today (07).
-
-Ratwatte, who was arrested by Mirihana Police in Kandy on October 31, was ordered to be remanded by the Nugegoda Additional Magistrate until today (Nov. 07).
-
-However, on November 02, the former Minister was admitted to the prison hospital owing to an illness, where he was subsequently transferred to Colombo National Hospital.
-
-Meanwhile, on November 04, Shashi Prabha Ratwatte, the wife of the former State Minister, was also arrested after appearing before the Nugegoda Magistrate’s Court in relation to the incident, as per a court order, where she was ordered to be remanded in custody until today.
-
-◼️
-
-[Data](articles/102a0e80.json)
-
-[Extended Data](ext_articles/102a0e80.ext.json)
-
----
-
-### The isolated Myanmar is closer to China
-
-*2024-11-07 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202999) · `si`
-
-Here's a 200-character summary:
-
-
-
-Myanmar's military junta seeks improved ties with China despite ongoing instability. China invests heavily in Myanmar's resources and infrastructure. The junta faces opposition criticism over diplomatic relations with China.
-
-🟩
-
-The government's democratically elected Aung San Suki, the government of Myanmar, commenced a tour of the military juntaine leader in 2021 in 2021.
-
-He came to China, the most important neighborly neighboring Myanmar, who isolated, even in the Asian organization.
-
-Even after the army conspiracy, the country's democratic forces have been suppressed, Myanmar has become an unstable environment.
-
-A anarchy is currently in the Chinese border in Myanmar.
-
-The minority groups have joined the opposition groups against the military government and controlled by a large area.
-
-The destabilization of its border is a significant point in China.
-
-China has realized that the instability of Myanmar is a threat to their tricks and business purposes.
-
-As a result, China is working to maintain a good relationship with the Myanmar Army government.
-
-Myanmar State Television Service stated that Min-on-Hiny China's official visit has been declined.
-
-He is due to attend several regional conferences in China.
-
-...
-
-[Data](articles/6f9a3f6f.json)
-
-[Extended Data](ext_articles/6f9a3f6f.ext.json)
-
----
-
-### Voter card distribution is completed today
-
-*2024-11-07 11:16:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-இன்றுடன்-நிறைவு/175-346709) · `ta`
-
-Voter card distribution ends today. Unreceived cards available tomorrow. Official electorate valid until Nov 14. Verify identity when collecting.
-
-🟩
-
-The Postal Department said that the distribution of official voter for parliamentary elections ends today (7)
-
-Senior Deputy Post Office Rajitha Ranasinghe said that voters who have not received the voter card from the official voter card from the 27th of this month will be able to go to the post offices tomorrow (8).
-
-He added that the official electorate has been provided to the post office from tomorrow to the 14th of November, and that voters should ensure their identity for it.
-
-◼️
-
-[Data](articles/339a1617.json)
-
-[Extended Data](ext_articles/339a1617.ext.json)
-
----
-
-### New Resolution on Galle Face
-
-*2024-11-07 11:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-முகத்திடல்-தொடர்பில்-புதிய-தீர்மானம்/175-346708) · `ta`
-
-Galle Face festival restrictions tightened. Only religious events allowed. Previous government permitted concerts and celebrations. New policy aims to make area clean and green.
-
-🟩
-
-The government has decided to tighten the reservation of all the festivals, concerts and celebrations in the Galle Face.
-
-The new government has changed the decision taken by the previous government in 2023 to grant permission to hold only religious events in the Galle Face.
-
-In 2022, the Arakalaya struggle that chased away the then President Gotabhaya Rajapakse from office was held at the Galle Face.
-
-According to the Cabinet decision, Sri Lanka Port Management and Advisory Services (Pvt) Limited's Management and Advisory Services (Pvt) Limited will not be granted permission for any other purpose, except for religious purposes.
-
-...
-
-[Data](articles/82e59289.json)
-
-[Extended Data](ext_articles/82e59289.ext.json)
-
----
-
-### Sri Lanka’s Access Engineering SPV to build radiopharmaceutical production facility
-
-*2024-11-07 11:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-engineering-spv-to-build-radiopharmaceutical-production-facility-186379/) · `en`
-
-ECONOMYNEXT – Access Medical Tracers (Private) Limited, a special purpose vehicle majority owned by Access Engineering Plc, has won the bid to build, operate and own (BOO) a cyclotron based radiopharmaceutical production facility in Sri Lanka, the company said.
-
-“This is the first time such a facility is developed in the Country to produce Fluoro – Deoxy-Glucose (FDG) which is required mainly for the purpose of cancer detection,” Access Engineering said in a stock exchange filing.
-
-The development cost of the production facility is estimated at 6.5 million dollars. The investment amount of Access Engineering will be notified in due course, the company said.
-
-The ground breaking ceremony for the facility will be held on Friday (8).
-
-Following a competitive bidding process a BOO agreement was signed on Tuesday (5) between Sri Lanka Atomic Energy Board, the Ministry of Health and Access Medical Tracers (Private) Limited (special purpose vehicle) for the implementation of the production facility.
-
-...
-
-[Data](articles/b58f8020.json)
-
-[Extended Data](ext_articles/b58f8020.ext.json)
-
----
-
-### Postal voting today
-
-*2024-11-07 10:59:49* · [`adalk`](https://www.ada.lk/breaking_news/අද-හා-හෙටත්-තැපැල්-ඡන්දය-දෙන්න-අවස්ථාව/11-412904) · `si`
-
-Postal voting available July 7-8. Mark at district election offices. Eligible voters can cast ballots. Turnout on April 4. Conducted in government institutions and military camps on June 1. Five valid IDs accepted: registration confirmation letter, national ID, driving license, PC ID, or duty ID. Unidentified officials must verify voter ID before issuing ballot cards.
-
-🟩
-
-The Elections Commission states that the postal voting can be used today (07th) and tomorrow (8th), the parliamentary voting cannot be marked in connection with the parliamentary election.
-
-Accordingly, the postal vote can be marked at district election offices in the district of the district.
-
-The postal voters of postal voters have qualified for this year's election.
-
-The voter turnout of the postal voting in the 4th of this month have been voted on the 4th of this month.
-
-The postal voting was carried out on the 1st of this month and 4 days of government institutions and military camps.
-
-The Elections Commission has published five valid identity papers to ensure the identity of the postal voting.
-
-Accordingly, the confirmation letter issued by the Department of Registration of Persons in the Department of Registration of Persons ID, the National Identity Card, Valid Driving License and the Election Commission (PC) can be used by the UPFA.
-
-...
-
-[Data](articles/13b32b43.json)
-
-[Extended Data](ext_articles/13b32b43.ext.json)
 
 ---

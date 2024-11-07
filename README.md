@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 23:59:57**
+As of **2024-11-08 00:13:58**
 
 ## Newspaper Stats
 
-*Scraped **53,610** Articles*
+*Scraped **53,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 418
 bbccomsinhala | 547
 colombotelegraphcom | 550
 islandlk | 3,200
-economynextcom | 3,246
+economynextcom | 3,256
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,018
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,610 (100.0%) of 53,610 articles have been extended.
+53,615 (100.0%) of 53,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Sri Lanka’s BRICS membership application rejected, NDB membership offered
+
+*2024-11-07 23:22:00* · [`economynextcom`](https://economynext.com/186569-186569/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s application to become a member in the BRICS has been rejected by the group’s current membership, but its request to become a member of New Development Bank (NDB) established by member countries to mobilise resources for infrastructure in emerging markets, the cabinet spokesman said.
+
+Established in 2015 by BRICS (Brazil, Russia, India, China, and South Africa), the NDB is a multilateral development bank aimed at mobilising resources for infrastructure and sustainable development projects in BRICS and other emerging markets and developing countries (EMDCs).
+
+Sri Lanka applied for the membership of BRICS when its delegation led by Foreign Secretary Aruni Wijewardena took part in the BRICS summit last month held in Russia.
+
+BRICS, an economic and political group has been gaining increasing relevance in recent years.
+
+...
+
+[Data](articles/567cb27b.json)
+
+[Extended Data](ext_articles/567cb27b.ext.json)
+
+---
 
 ### Sri Lanka team to Pakistan
 
@@ -884,6 +904,96 @@ The Secretary of the Ministry of Trade has been handed over to the President.
 
 ---
 
+### Sri Lanka foreign reserves US$6.4bn in October 2024, up 7.9-pct
+
+*2024-11-07 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-us6-4bn-in-october-2024-up-7-9-pct-186542/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s gross foreign reserves rose 474 million US dollars in the month of October to 6.4 billon dollars, the central bank data showed.
+
+Sri Lanka’s gross foreign reserves are made up of central bank’s monetary reserves and fiscal reserves from loans.
+
+Sri Lanka signed a 200 million dollar World Bank loan in October, it is not clear whether the it was disbursed.
+
+Sri Lankas’ central bank has operated deflationary policy for over two years, leading to balance of payments surpluses.
+
+The agency has also allowed the rupee to appreciate, amid an IMF program allowing some of the inflation created during the crisis to reverse.
+
+Central bank’s net reserves which were negative by 4.6 billion dollars at the height of the last currency crises has now come to near to zero by September.
+
+The central bank has repaid both International Monetary Fund and Reserve Bank of India loans. (Colombo/Nov07/2024)
+
+◼️
+
+[Data](articles/b3874f73.json)
+
+[Extended Data](ext_articles/b3874f73.ext.json)
+
+---
+
+### Sri Lanka stocks close on mixed sentiments
+
+*2024-11-07 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-sentiments-186550/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed on a mixed note on Thursday, data on its site showed.
+
+The broader ASPI closed up 0.07 percent, or 8.76 points, at 12,727; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.91 points, at 3,823.
+
+Top contributors to the ASPI were John Keells Holdings (up at 21.50), Melstacorp (up at 101.75), Dipped Products (up at 41.00), Hemas Holdings (83.10) and LOLC Holdings (up at 448.50).
+
+Banking stocks closed down; Hatton National Bank (down at 227.00), Sampath Bank (down at 88.50), Commercial Bank (up at 114.50), DFCC Bank (down at 82.00) and National Development Bank (down at 84.40).
+
+There was a net foreign inflow of 45 million rupees.  (Colombo/Nov7/2024)
+
+◼️
+
+[Data](articles/17790195.json)
+
+[Extended Data](ext_articles/17790195.ext.json)
+
+---
+
+### Ambassadors of Egypt, Japan present credentials to Sri Lanka President
+
+*2024-11-07 16:17:00* · [`economynextcom`](https://economynext.com/ambassadors-of-egypt-japan-present-credentials-to-sri-lanka-president-186539/) · `en`
+
+ECONOMYNEXT – Ambassador of Egypt to Sri Lanka Adel Ibrahim, and the Ambassador of Japan to Sri Lanka Isomata Akio, have presented credentials to President Anura Dissanayake.
+
+The two ambassadors presented credentials on Thursday (7), the president’s media said.
+
+Following the ceremony they discussed potential areas of collaboration with President Dissanayake. (Colombo/Nov7/2024)
+
+◼️
+
+[Data](articles/537fb11d.json)
+
+[Extended Data](ext_articles/537fb11d.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 292.55/65 to dollar, bonds down
+
+*2024-11-07 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-55-65-to-dollar-bonds-down-186553/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.55/65 to the US dollar Thursday from 292.80/90 to the US dollar on Wednesday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.40/60 percent, down from 10.50/65 percent.
+
+A bond maturing on 15.12.2027 closed stable at 11.30/45 percent.
+
+A bond maturing on 15.03.2028 closed stable at 11.65/70 percent.
+
+A bond maturing on 15.12.2028 closed stable at 11.80/85 percent.
+
+A bond maturing on 15.05.2030 closed stable at 12.10/20 percent. (Colombo/Nov07/2024)
+
+◼️
+
+[Data](articles/fb7088c5.json)
+
+[Extended Data](ext_articles/fb7088c5.ext.json)
+
+---
+
 ### More houses built under Indian grant handed over to beneficiaries
 
 *2024-11-07 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103239/more-houses-built-under-indian-grant-handed-over-to-beneficiaries) · `en`
@@ -899,6 +1009,24 @@ A Memorandum of Understanding (MoU) between the Government of India and the Gove
 [Data](articles/17b890fe.json)
 
 [Extended Data](ext_articles/17b890fe.ext.json)
+
+---
+
+### Voting rights would give overseas Sri Lankans a voice in economic policies: IPS
+
+*2024-11-07 15:51:00* · [`economynextcom`](https://economynext.com/voting-rights-would-give-overseas-sri-lankans-a-voice-in-economic-policies-ips-186457/) · `en`
+
+ECONOMYNEXT – Voting rights would allow overseas Sri Lankan (OSL) workers a voice in economic policies that impact their remittances and financial interests back home, the Institute of Policy Studies has said.
+
+“OSLs prefer a say in how the macroeconomy back in Sri Lanka is managed by elected officials, i.e. how does the government spend the foreign exchange OSLs regularly send as remittances?” IPS Research Fellow Dr Bilesha Weeraratne said.
+
+“While OSLs may not have voting rights yet, those who regularly remit earnings back to Sri Lanka have already demonstrated their influence — by voting with their wallets.”
+
+The think tank said several methods for overseas Sri Lankans to vote in the upcoming parliamentarian election have been considered including “advanced in-person (similar to postal voting in Sri Lanka), voting by mail, facsimile, or internet, as well as proxy voting.”
+
+...
+
+[Data](articles/df659dd0.json)
 
 ---
 
@@ -1050,6 +1178,24 @@ The body has been taken to the Mullaitivu Hospital for the death test.
 
 ---
 
+### Sri Lanka CB to monitor NGOs for money laundering, terrorism financing crimes
+
+*2024-11-07 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-to-monitor-ngos-for-money-laundering-terrorism-financing-crimes-186458/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Central Bank signed an agreement to obtain and exchange information on investigations and prosecutions of Money Laundering (ML), Terrorist Financing (TF) and related crimes in Non-Governmental Organizations (NGO) and of any persons connected with such bodies.
+
+The Central Bank’s Financial Intelligence Unit (FIU) and the National Secretariat for NGOs entered into the Memorandum of Understanding (MOU) on Monday (04) with this regard, the Central Bank said.
+
+“Non-Governmental Organizations (NGOs) could be misused for Money Laundering/Terrorism Financing and related crimes, and thereby could threaten the stability of the national and global economic and financial systems,” the Central Bank said in a statement.
+
+The National Secretariat for NGOs is responsible for registering NGOs, monitoring the activities of all the NGOs, providing facilities, and taking action against any misconduct.
+
+...
+
+[Data](articles/4d4d187e.json)
+
+---
+
 ### Passport crisis: Immigration officers claim higher-ups concealed actual situation from Minister
 
 *2024-11-07 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103237/passport-crisis-immigration-officers-claim-higher-ups-concealed-actual-situation-from-minister) · `en`
@@ -1089,6 +1235,26 @@ A police dog named “Amai” played a key role in the operation, which lasted n
 [Data](articles/e87322fd.json)
 
 [Extended Data](ext_articles/e87322fd.ext.json)
+
+---
+
+### Sri Lanka warns public to be wary of financial crimes via social media apps
+
+*2024-11-07 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-warns-public-to-be-wary-of-financial-crimes-via-social-media-apps-186450/) · `en`
+
+ECONOMYNEXT – More people were falling prey to financial scams conducted through social media apps, including WhatsApp, Sri Lanka’s Information Department said, urging the public to be alert.
+
+Incidents of WhatsApp accounts being hacked have been reported, with messages then sent to those in the contacts list asking for money, the statement said.
+
+There have also been incidents reported of fake websites posing as those of various established banks, government or non-government organizations, business organizations, etc fraudulently obtaining money.
+
+According to the Sri Lanka Computer Emergency Readiness Team (CERT), criminals gain the necessary technical access for their financial frauds by asking users to provide a PIN, OTP or password.
+
+CERT warned against forwarding any code, PIN, OTP, or password received via phone and social media to an external party.
+
+...
+
+[Data](articles/3b1f7051.json)
 
 ---
 
@@ -1167,6 +1333,28 @@ The Commissioner General of Elections Saman Sri Ratnayake said that the advertis
 [Data](articles/f51a94c2.json)
 
 [Extended Data](ext_articles/f51a94c2.ext.json)
+
+---
+
+### Sri Lanka’s Sampath Bank debentures rated ‘BBB+(EXP)(lka)’ by Fitch
+
+*2024-11-07 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-debentures-rated-bbbexplka-by-fitch-186435/) · `en`
+
+ECONOMYNEXT – Fitch Ratings said it has given Sampath Bank’s proposed Sri Lankan rupee-denominated debentures a national long-term rating of ‘BBB+(EXP)(lka)’.
+
+The Basel III-compliant subordinated debentures of up to 10 billion rupees will mature in five years, and will be listed on the Colombo Stock Exchange.
+
+“Fitch rates the proposed Basel III Tier 2 notes two notches below the bank’s National Long-Term Rating of ‘A(lka)’,” the rating agency said.
+
+“This reflects Fitch’s baseline notching for loss severity for this type of debt and our expectations of poor recoveries.”
+
+Fitch Ratings – Colombo – 07 Nov 2024: Fitch Ratings has assigned Sampath Bank PLC’s (A(lka)/Stable) proposed Sri Lankan rupee-denominated Basel III-compliant subordinated debentures of up to LKR10 billion an expected National Long-Term Rating of ‘BBB+(EXP)(lka)’.
+
+The proposed debentures, which will mature in five years, will be listed on the Colombo Stock Exchange.
+
+...
+
+[Data](articles/6b848402.json)
 
 ---
 
@@ -1677,6 +1865,28 @@ He added that the government is looking forward to some economic stability after
 [Data](articles/9b6ae8f1.json)
 
 [Extended Data](ext_articles/9b6ae8f1.ext.json)
+
+---
+
+### Fewer Israelis visiting Sri Lanka amidst travel advisories
+
+*2024-11-07 12:27:00* · [`economynextcom`](https://economynext.com/fewer-israelis-visiting-sri-lanka-amidst-travel-advisories-186298/) · `en`
+
+ECONOMYNEXT – The number of Israeli tourists to Sri Lanka had declined, while tourist arrivals in general had risen in October, Minister Vijitha Herath said.
+
+“There was a drop in their [Israeli] arrivals. That is true,” cabinet spokesman Minister Vijitha Herath told reporters on Wednesday (06).
+
+“As of yesterday, there were 151 Israelis reported to be in the country,” Herath said.
+
+21,913 Israelis visited the country in the month of October.
+
+On October 23, the US Embassy in Sri Lanka asked nationals to avoid Arugam Bay, a popular tourist destination, in Sri Lanka’s Eastern Coast saying there was credible information of an attack.
+
+The area had seen an influx of Israeli visitors of late. In the past few months, Israelis have been seen residing in the predominately Muslim area, opening bars and other businesses.
+
+...
+
+[Data](articles/01620f07.json)
 
 ---
 
@@ -2209,237 +2419,5 @@ Foreign media reports that they have decided to refer to a court initiative agai
 [Data](articles/05857e8e.json)
 
 [Extended Data](ext_articles/05857e8e.ext.json)
-
----
-
-### How to vote in the upcoming election?
-
-*2024-11-07 10:41:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்வரும்-தேர்தலில்-எவ்வாறு-வாக்களிக்க-வேண்டும்/175-346706) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Vote in the upcoming election: Follow National Election Commission guidelines. Ballots for specific constituencies (Polonnaruwa, Moneragala, Kalutara) will have candidates listed together. Official ballots distributed to homes contain candidate lists."
-
-🟩
-
-The National Election Commission has issued guidelines for voters to follow in the upcoming parliamentary election.
-
-The Elections Commission said the ballot for the constituencies of Polonnaruwa, Moneragala and Kalutara will be printed in the same column and other constituencies.
-
-The model ballot for each block will be printed on the list of candidates who are distributed to each home with an official ballot.
-
-◼️
-
-[Data](articles/84026d04.json)
-
-[Extended Data](ext_articles/84026d04.ext.json)
-
----
-
-### Bail for a woman who used fake ideas in a motor vehicle!
-
-*2024-11-07 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198089) · `ta`
-
-Woman uses fake UN logos in car; granted bail of Rs 5 lakhs
-
-🟩
-
-A woman who used official ideals for fake in a motor vehicle was given two bail bail of Rs.
-
-The Kandy Magistrate was arrested by a woman who showcased the Human Rights Commission, the United Nations Organization, and the State Lakshain in her vehicle.
-
-The Kandy Additional Magistrate, who inquired about the complaint, released the suspect with two bodies worth Rs 5 lakhs.
-
-The suspect in the complaint is the famous businessman who lives in the Anivatta area of ​​Kandy.
-
-◼️
-
-[Data](articles/8235b77b.json)
-
-[Extended Data](ext_articles/8235b77b.ext.json)
-
----
-
-### The general election campaigns were completed by midnight on Monday
-
-*2024-11-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198088) · `ta`
-
-General election campaigns ended midnight Monday. Campaign ban enforced until election day. Police authorized arrests for violations. Voters missed postal voting allowed to cast ballots District Secretariat today and tomorrow.
-
-🟩
-
-The campaign period ends at midnight on Monday (11) as the general election is due to be held on the 14th.
-
-In this case, the silence has been proclaimed for a long time from midnight to the end of the general election.
-
-The Election Commission stated that all election campaigns have been banned during this period.
-
-At the same time, the National Election Commission said that the police were authorized to arrest any person who violates the election law.
-
-Meanwhile, voters who failed to vote on the postal days are allowed to vote at the District Secretariat today (07) and day (08).
-
-◼️
-
-[Data](articles/97d88e71.json)
-
-[Extended Data](ext_articles/97d88e71.ext.json)
-
----
-
-### Yall. Death of a young man
-
-*2024-11-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198090) · `ta`
-
-Young man dies after being stung by wasp in Jaffna. Navaratnam Ketheeswaran, 35, succumbed to injuries without medical care. Incident occurred on July 4th in West Jaffna.
-
-🟩
-
-A young man who was targeted at the wasp on the 4th of July in the West of Jaffna has died without treatment.
-
-Navaratnam Ketheeswaran (age 35) of Kalipitiya West is the deceased.
-
-The young man was in his vehicle when he was sleeping. The youth has died tragically without treatment.
-
-◼️
-
-[Data](articles/b874be2c.json)
-
-[Extended Data](ext_articles/b874be2c.ext.json)
-
----
-
-### “Ranil cannot remain silent for a long time”
-
-*2024-11-07 10:21:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-நீண்ட-காலம்-அமைதியாக-இருக்க-முடியாது/175-346705) · `ta`
-
-Sri Lanka faces unexpected challenges due to a group attempting to seize power. UNP General Secretary Ruwan Wijewardena warns against those unfamiliar with parliamentary traditions. He believes Ranil Wickremesinghe may be needed in future uncertainties. An experienced team is necessary to address upcoming challenges.
-
-🟩
-
-United National Party General Secretary and Democratic Front candidate Ruwan Wijewardena said yesterday that Sri Lanka has faced unexpected challenges as a group that forcibly seizes parliament has come up in the competition to seize power.
-
-Mr.. Wijewardena said that those who are unaware of parliamentary heritage and culture will put the country uncertain to contest the general election this year.
-
-He said he would not be able to remain silent for a long time because the need for former President Ranil Wickremesinghe would be in need of the people of this country in the event of a future uncertainty.
-
-"An experienced group must come into the congregation to face future challenges," he added.
-
-◼️
-
-[Data](articles/a596cc3f.json)
-
-[Extended Data](ext_articles/a596cc3f.ext.json)
-
----
-
-### 50,000 foreign cigarettes and 210 liquor bottles seized in Pettah
-
-*2024-11-07 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103226/50000-foreign-cigarettes-and-210-liquor-bottles-seized-in-pettah) · `en`
-
-Police have arrested a suspect along with a stock of illegally imported foreign liquor bottles and cigarettes at Third Cross Street in Pettah on Wednesday (06).
-
-During a raid carried out by the officers of Pettah Police acting on a tip-off, 210 bottles of foreign liquor and 50,000 foreign cigarettes (250 cartons), which had been illegally smuggled into the country evading duty, were seized, the Police Media Division said.
-
-The 54-year-old arrested suspect is a resident of Colombo 10, according to police.
-
-◼️
-
-[Data](articles/76b24b75.json)
-
-[Extended Data](ext_articles/76b24b75.ext.json)
-
----
-
-### Completed on Monday Monday
-
-*2024-11-07 10:18:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்கட்கிழமை-நள்ளிரவுடன்-நிறைவு/175-346704) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-General election: Thursday, 14th. Remble (likely a typo or incomplete word).
-
-🟩
-
-The general election is scheduled for Thursday 14th. Remble
-
-◼️
-
-[Data](articles/4ae1b2fb.json)
-
-[Extended Data](ext_articles/4ae1b2fb.ext.json)
-
----
-
-### Extension
-
-*2024-11-07 10:14:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-நீடிப்பு/175-346703) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-Defense Ministry extends deadline for re-handling licensed guns from today to Nov 21. Initial one-month timeframe expired; additional time granted due to unforeseen circumstances.
-
-🟩
-
-The Defense Ministry said that the deadline for re -handling licensed guns granted by the Ministry of Defense has been extended till November 21.
-
-The Ministry of Defense gave a month's time to re -handle the guns and that time was to be completed today.
-
-However, considering the proposed facts, steps have been taken to extend the time. Remble
-
-◼️
-
-[Data](articles/3b5c216e.json)
-
-[Extended Data](ext_articles/3b5c216e.ext.json)
-
----
-
-### People's opposition to obtaining samples of computer soil inspection in MannarThe police recalled the case filed by the police
-
-*2024-11-07 09:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198075) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mannar residents oppose soil sampling for sand mining. Police file case against protesters. Environmental officials collect samples despite resistance from locals and activists.
-
-🟩
-
-The Mannar Police in Mannar on Wednesday afternoon, the Mannar Police had filed a case with the Mannar Police in protest of the activities of the people and public organizations in order to obtain samples to inspect the mudslides for the heavy sand excavation of the people, including the private land of the people of the Mannar Divisional Secretariat Division.Attorney -at -Law S.Dinesan said that a hand was purchased by the police.
-
-With the permission of the Environmental Authority, the Assistant Government Agent of Mannar, including about 20 State Department officials, visited the area on Wednesday morning to obtain samples for inspecting the soil in the Mannar Divisional Secretariat Division.
-
-During this time, the people, social activists, former MP and civil organizations who visited the area came to the spot and expressed their opposition to obtaining samples of inspecting the soil.
-
-...
-
-[Data](articles/8ff417dd.json)
-
-[Extended Data](ext_articles/8ff417dd.ext.json)
-
----
-
-### Ratwatte and his wife to court
-
-*2024-11-07 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202997) · `si`
-
-Lohan Ratwatte and wife appear court Colombo National Hospital Nugegoda Magistrate's Court
-
-🟩
-
-Former State Minister Lohan Ratwatte and his wife who is receiving treatment at the Colombo National Hospital under the safety of the prison officials have been taken to the Nugegoda Magistrate's Court.
-
-◼️
-
-[Data](articles/3291d741.json)
-
-[Extended Data](ext_articles/3291d741.ext.json)
 
 ---

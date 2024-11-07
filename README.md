@@ -1,70 +1,126 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 11:11:27**
+As of **2024-11-07 11:24:33**
 
 ## Newspaper Stats
 
-*Scraped **53,520** Articles*
+*Scraped **53,523** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
 bbccomsinhala | 547
-colombotelegraphcom | 547
+colombotelegraphcom | 548
 islandlk | 3,200
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,001
-adaderanalk | 6,376
+adaderanalk | 6,377
 tamilmirrorlk | 7,452
 virakesarilk | 8,656
-adaderanasinhalalk | 9,326
+adaderanasinhalalk | 9,327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,516 (100.0%) of 53,520 articles have been extended.
+53,520 (100.0%) of 53,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### இரத்தினக்கல் அகழ்வில் ஈடுபட்ட நபர் மண்மேடு சரிந்து விழுந்து உயிரிழப்பு !
+### Lohan Ratwatte and wife produced before court
+
+*2024-11-07 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103230/lohan-ratwatte-and-wife-produced-before-court-) · `en`
+
+Former Minister of State Lohan Ratwatte and his wife, who were arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka, were produced before the Nugegoda Magistrate’s Court today (07).
+
+Ratwatte, who was arrested by Mirihana Police in Kandy on October 31, was ordered to be remanded by the Nugegoda Additional Magistrate until today (Nov. 07).
+
+However, on November 02, the former Minister was admitted to the prison hospital owing to an illness, where he was subsequently transferred to Colombo National Hospital.
+
+Meanwhile, on November 04, Shashi Prabha Ratwatte, the wife of the former State Minister, was also arrested after appearing before the Nugegoda Magistrate’s Court in relation to the incident, as per a court order, where she was ordered to be remanded in custody until today.
+
+◼️
+
+[Data](articles/102a0e80.json)
+
+---
+
+### කලාපයේ හුදකලා වූ මියන්මාරය තව තවත් චීනයට සමීප වෙයි
+
+*2024-11-07 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202999) · `si`
+
+මියන්මාරයේ ප්‍රජාතන්ත්‍රවාදී ලෙස තේරී පත්වූ අවුන් සාන් සුකීගේ රජය පෙරළා දමා 2021 වසරේ හමුදා කුමන්ත්‍රණයකින් බලයට පත්වූ මිලිටරි ජුන්ටාවේ නායක මින්-ඔන්-හ්ලයින් චීනයේ සංචාරයක් ආරම්භ කළේය.
+
+ආසියාන් සංවිධානය තුළ පවා හුදෙකලා වී සිටින මියන්මාරයට වඩාත් වැදගත් අසල්වැසියා වන චීනයට ඔහු පැමිණියේ හමුදා කුමන්ත්‍රණයෙන් පසු ප්‍රථම වතාවටය.
+
+හමුදා කුමන්ත්‍රණයෙන් පසු රටේ ප්‍රජාතන්ත්‍රවාදී බලවේග ආයෝමය හස්තයකින් මර්දනය කිරීමට කටයුතු කළත් මියන්මාරය අද පත්වී ඇත්තේ අස්ථාවර වාතාවරණයකටය.
+
+විශේෂයෙන් මියන්මාරයේ චීන දේශසීමාව ඔස්සේ මේ වනවිට පැනනැගී ඇත්තේ අරාජික තත්ත්වයකි.
+
+සුළු ජාතික සන්නද්ධ කණ්ඩායම්, හමුදා රජයට එරෙහි විපක්ෂ කණ්ඩායම් හා එක්වී මේ වනවිට විශාල ප්‍රදේශයක පාලනය සියතට ගෙන තිබේ.
+
+මෙලෙස සිය දේශසීමාව අස්ථාවරවීම චීනයේ විශේෂ අවධානයට ලක්ව ඇති කරුණකි.
+
+මියන්මාරයේ අස්ථාවරභාවය ඔවුන් සමග සිය උපක්‍රමීය සහ ව්‍යාපාරික අභිලාෂයන්ට තර්ජනයක් බව චීනය වටහාගෙන තිබේ.
+
+මේ නිසා බටහිර රටවල සම්බාධකවලට මුහුණදෙන මියන්මාර හමුදා රජය සමග යහපත් සම්බන්ධතාවක් පවත්වාගැනීමට චීනය කටයුතු කරයි.
+
+...
+
+[Data](articles/6f9a3f6f.json)
+
+---
+
+### A man involved in gem excavation collapsed
 
 *2024-11-07 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198093) · `ta`
 
-லக்கல பொலிஸ் பிரிவிற்குட்பட்ட ஹத்தொட்ட  அமுன பகுதியில்  உள்ள சுரங்கமொன்றில் இரத்தினக்கல் அகழ்வில் ஈடுபட்ட நபர் மண்மேடு சரிந்து விழுந்ததில் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Gem excavator dies in mudslide collapse during operation in Hatota Amuna area. Police investigating incident. Body taken to Lakkala Hospital.
 
-இந்த விபத்து நேற்று  புதன்கிழமை (06) இடம்பெற்றுள்ளதுடன் உயிரிழந்தவர் ஹத்தொட்ட  அமுன பகுதியைச் சேர்ந்த  40 வயதுடையவர் என பொலிஸார் தெரிவித்தனர்.
+🟩
 
-உயிரிழந்தவர் உட்பட மேலும் நால்வர் தனியார் காணி ஒன்றில்  இரத்தினக்கல் அகழ்வு  மேற்கொண்ட  போதே இந்த விபத்து இடம்பெற்றுள்ளதாக விசாரணையில் தெரியவந்துள்ளது.
+A man involved in a gem excavation at a tunnel in the Hatota Amuna area of ​​the Lakkala police division has died in the collapse of a mudslide, police said.
 
-மேலும், உயிரிழந்தவரின் சடலம் லக்கல வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், மேலதிக விசாரணைகளை லக்கல பொலிஸார் மேற்கொண்டு வருவதாக தெரிவித்துள்ளனர்.
+The accident took place on Wednesday (06) and the deceased is a 40 -year -old from Hatota Amuna, police said.
+
+Investigations have revealed that the accident occurred during a gem excavation in a private land, including the deceased.
+
+In addition, the body of the deceased has been placed in the funeral room of the Lakkala Hospital and Lakkala police are conducting further investigations.
 
 ◼️
 
 [Data](articles/c3aa91d9.json)
 
+[Extended Data](ext_articles/c3aa91d9.ext.json)
+
 ---
 
-### වංචා දූෂණවලින් තොර රටක් බිහි කිරීමේ රජයේ වැඩපිළිවෙළට බ්‍රිතාන්‍යයේ සහාය
+### Britain supports the government's program to create a country free of corruption
 
 *2024-11-07 10:54:59* · [`adalk`](https://www.ada.lk/breaking_news/වංචා-දූෂණවලින්-තොර-රටක්-බිහි-කිරීමේ-රජයේ-වැඩපිළිවෙළට-බ්‍රිතාන්‍යයේ-සහාය/11-412903) · `si`
 
-ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතා සහ ශ්‍රී ලංකාවේ බ්‍රිතාන්‍ය මහ කොමසාරිස් ඇන්ඩෲ පැට්‍රික් (Andrew Patrick) මහතා අතර හමුවක් ඊ්යේ (06) පස්වරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී සිදු විය.
+Sri Lanka and Britain strengthen ties, UK supports anti-corruption efforts, IMF cooperation discussed, British parliamentary system shared to combat corruption.
 
-ශ්‍රී ලංකාව සහ බ්‍රිතාන්‍ය අතර පවතින ද්විපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කර ගැනීමට අපේක්ෂා කරන බව මෙම හමුවේදී බ්‍රිතාන්‍ය මහ කොමසාරිස්වරයා ප්‍රකාශ කළේය.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ ක්‍රියාත්මක වැඩසටහන පිළිබඳව බ්‍රිතාන්‍ය රජය අගය කරන බවත්, වංචා දූෂණවලින් තොර රටක් බිහි කිරීමේ රජයේ වැඩපිළිවෙළ සාක්ෂාත් කර ගැනීම සහ රාජ්‍ය ආදායම වැඩි කර ගැනීම සඳහා අවශ්‍ය සහාය ලබාදීමට බ්‍රිතාන්‍ය රජය සූදානම් බවත් ඇන්ඩෲ පැට්‍රික් මහතා මෙහිදී අවධාරණය කළේය.
+Presidential Secretary Dr. Nandika Sanath Sanath and Sri Lanka British High Commissioner to Sri Lanka was a meeting at the Presidential Secretariat.
 
-එසේම පළාත් පාලන ආයතන පිළිබඳ බ්‍රිතාන්‍යයේ පවතින ක්‍රමවේදය ඉතා වැදගත් වන බවත්, එම ක්‍රමවේදය තුළින් වංචා දූෂණ අවම කර ගැනීමට හැකියාව පවතින බවත් සඳහන් කළ මහ කොමසාරිස්වරයා බ්‍රිතාන්‍ය පාර්ලිමේන්තු සම්ප්‍රදාය පිළිබදව ශ්‍රී ලංකාවේ පාර්ලිමේන්තු මන්ත්‍රීවරුන් දැනුවත් කිරීමට කටයුතු කළ හැකි බවද වැඩිදුරටත් පැවසීය. ( I J )
+The meeting stated that the British High Commissioner said that Sri Lanka and the British integrated into further strengthening existing bilateral relations.
+
+Andrew Patrick emphasized that the British government is prepared to achieve the government's program on the International Monetary Fund.
+
+The High Commissioner of Britain can also be able to educate Parliamentarians of British parliamentary tradition and reduce corruption through this methodology.. (I J)
 
 ◼️
 
 [Data](articles/39ce6a57.json)
+
+[Extended Data](ext_articles/39ce6a57.ext.json)
 
 ---
 
@@ -162,21 +218,27 @@ The model ballot for each block will be printed on the list of candidates who ar
 
 ---
 
-### போலி இலட்சினைகளை மோட்டார் வாகனத்தில் பயன்படுத்திய பெண்ணுக்கு பிணை !
+### Bail for a woman who used fake ideas in a motor vehicle!
 
 *2024-11-07 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198089) · `ta`
 
-உத்தியோகபூர்வ இலட்சினைகளை மோட்டார் வாகனத்தில் போலியாகப் பயன்படுத்திய பெண் ஒருவருக்கு, கண்டி நீதிமன்றத்தால் 5 இலட்சம் ரூபா பெறுமதி கொண்ட இரண்டு சரீரப் பிணைகள் வழங்கப்பட்டது.
+Woman uses fake UN logos in car; granted bail of Rs 5 lakhs
 
-மனித உரிமைகள் ஆணைக்குழு,  ஐக்கிய நாடுகள் சபை அமைப்பு, மற்றும் அரச இலட்சினை முதலானவற்றை தனது வாகனத்தில் காட்சிப்படுத்திய பெண் ஒருவரை கண்டிப் பொலிஸார் கைதுசெய்து கண்டி நீதவான் முன் ஆஜர் செய்தனர்.
+🟩
 
-முறைப்பாட்டை விசாரித்த கண்டி மேலதிக நீதவான் 5 இலட்சம் ரூபா பெறுமதி கொண்ட இரண்டு சரீரப்பிணைகளை வழங்கி சந்தேக நபரை விடுதலை செய்தார்.
+A woman who used official ideals for fake in a motor vehicle was given two bail bail of Rs.
 
-மேற்படி முறைப்பாட்டில் சந்தேக நபராக பெயரிடப்பட்டவர் கண்டி, அனிவத்தை பகுதியில் வசிக்கும் பிரபல வர்த்தகராவார்.
+The Kandy Magistrate was arrested by a woman who showcased the Human Rights Commission, the United Nations Organization, and the State Lakshain in her vehicle.
+
+The Kandy Additional Magistrate, who inquired about the complaint, released the suspect with two bodies worth Rs 5 lakhs.
+
+The suspect in the complaint is the famous businessman who lives in the Anivatta area of ​​Kandy.
 
 ◼️
 
 [Data](articles/8235b77b.json)
+
+[Extended Data](ext_articles/8235b77b.ext.json)
 
 ---
 
@@ -486,23 +548,29 @@ The House has been narrowly controlled by Republicans since January 2023, and it
 
 ---
 
-### බීමත්ව යතුරු පැදියක් පදවා දෙදරු මවක යටකර පළාගිය සැරයන්ගේ වැඩ තහනම්
+### The work of fuging the work of fleeing a drunken motorcy
 
 *2024-11-07 09:11:29* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-යතුරු-පැදියක්-පදවා-දෙදරු-මවක-යටකර-පළාගිය-සැරයන්ගේ-වැඩ-තහනම්/11-412902) · `si`
 
-බීමත්ව යතුරුපැදිය පදවා දෙදරු මවක යටකර පලාගිය පොලිස් සැරයන්වරයෙකු වැඩ තහනමකට ලක්කල බව කළුතර ජේෂ්ඨ පොලිස් අධිකාරි කාර්යාලය පවසයි.
+Sergeant banned for drunk riding, released on bail for DUI, accident, and invalid license issues.
 
-මෙසේ වැඩ තහනමකට ලක්කර ඇත්තේ කළුතර දිස්ත්‍රික් ලේකම් කාර්යාලයේ මැතිවරණ රාජකාරි සදහා යාකර සිටී තෙබුවන පොලිසියට තාතාවකාලිකව යාකර සිටී  සනත් ගුණවර්ධන නමැති සැරයන්වරයෙකි.
+🟩
 
-කළුතර කොට්ඨාස ජේෂ්ඨ පොලිස් අධිකාරි කාවින්ද පියසේකර මහතා ගේ අත්සනින් එකී වැඩ තහනම ඊයේ (06) දින සිට ක්‍රියාත්මක වන පරිදි  නියෝගය පලකර ඇති බව සදහන් වේ.
+Kalutara Senior Superintendent of Police (SP)
 
-අදාල සැරයන් වරයා පසුගිය ඔක්තෝබර් 22 දින රාත්‍රි 7 .30 ට පමණ නාර්තුපාන ප්‍රදේශයේ දී බීමත්ව සිය යතුරු පැදියෙන් යමින් සිටියදී දෙදරු මවක යටකට පලාගොස් ඇති බවට තහවුරු වීමෙන් පසු මෙසේ වැඩ තහනමට ලක්කර තිබෙන බව පොලිස් අධිකාරි කාර්යාලය සදහන් කරයි.
+Sanath Gunawardena is currently under the Trincomalee District at the Kalutara District Secretariat.
 
-එකී සැරයන් වරයා බීමත්ව රිය පැදවීම, අනතුරක් සිදුකර පලායාම සහ වලංගු රියදුරු බලපත්‍රයක් නොමැතිව රිය ධාවනය කිරීම යටතේ මතුගම මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමෙන් පසු ඇප මත මුදාහැර ඇති බවද  පොලිසිය සදහන් කරයි.
+It is also said that the ban on the signature of Mr. Kavinda Piyasachara has been suspended since 06 (06).
+
+The Sergeant of the Police stated that he had been banned after he was drunk in the dash of two October at around October 3:30.
+
+The sergeant has been released on bail under the presence of drunken driving, accident and running a valid driving license and running without a valid driver's license.
 
 ◼️
 
 [Data](articles/aa5d65f0.json)
+
+[Extended Data](ext_articles/aa5d65f0.ext.json)
 
 ---
 
@@ -813,6 +881,18 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/a152f578.json)
 
 [Extended Data](ext_articles/a152f578.ext.json)
+
+---
+
+### Ashes Of Despair, Embers Of Hope: Sri Lanka’s Path To Renewal
+
+*2024-11-07 05:38:44* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ashes-of-despair-embers-of-hope-sri-lankas-path-to-renewal/) · `en`
+
+The story of Sri Lanka’s recent turmoil is both a cautionary tale of authoritarianism gone awry and a narrative of resilience. The Rajapaksa dynasty, spearheaded by Gotabaya Rajapaksa, came to symbolize the very forces that pushed Sri Lanka to the brink—corruption, nepotism, and reckless economic policies. Gotabaya’s tenure left the nation reeling from financial mismanagement, stoked ethnic divisions, and silenced dissent. Yet, from this dark chapter emerged a new leader, Anura Kumara Dissanayake, whose values and vision offer Sri Lankans a renewed sense of hope. This article traces the disastrous decisions of Gotabaya’s administration and examines how Dissanayake and the National People’s Power (NPP) party are paving a path toward unity, accountability, and economic recovery.
+
+...
+
+[Data](articles/56652a8c.json)
 
 ---
 
@@ -2235,73 +2315,5 @@ Chassi Numbers and Engine No. of the vehicles have been handed over to the vehic
 [Data](articles/523241da.json)
 
 [Extended Data](ext_articles/523241da.ext.json)
-
----
-
-### Donald Trump elected president in stunning comeback
-
-*2024-11-06 17:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103215/donald-trump-elected-president-in-stunning-comeback) · `en`
-
-Donald Trump was elected president, capping a remarkable comeback four years after he was voted out of the White House and ushering in a new American leadership likely to test democratic institutions at home and relations abroad.
-
-Trump, 78, recaptured the White House on Wednesday by securing more than the 270 Electoral College votes needed to win the presidency, Edison Research projected, following a campaign of dark rhetoric that deepened the polarization in the country.
-
-The former president’s victory in the swing state of Wisconsin pushed him over the threshold. As of 5:45 a.m. ET (1045 GMT) Trump had won 279 electoral votes to Harris’ 223 with several states yet to be counted.
-
-He also led Harris by about 5 million votes in the popular count.
-
-“America has given us an unprecedented and powerful mandate,” Trump said early on Wednesday to a roaring crowd of supporters at the Palm Beach County Convention Center in Florida.
-
-...
-
-[Data](articles/062144dd.json)
-
-[Extended Data](ext_articles/062144dd.ext.json)
-
----
-
-### PM meets ICC anti-corruption chiefs, discuss advancing integrity in cricket
-
-*2024-11-06 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103214/pm-meets-icc-anti-corruption-chiefs-discuss-advancing-integrity-in-cricket-) · `en`
-
-Prime Minister Dr. Harini Amarasuriya recently met with key figures from the International Cricket Council (ICC) Anti-Corruption Unit (ACU), including Mr. Sumathi Dharmawardena, President’s Counsel and the newly appointed Independent Chair of the ICC’s ACU and Mr. Alex Marshall, General Manager of the ICC Integrity Unit.
-
-During the discussion, Mr. Alex Marshall noted Sri Lanka’s progress in combating corruption in cricket over the past seven years, emphasizing the importance of player education and strengthening the Ministry of Sports’ Special Investigations, according to the PM’s Office.
-
-The meeting was also attended by Mr. Andrew Ephgrave, Senior Manager, of ICC ACU Operations; Mr. Vije Bandara, Senior Attorney and Director General of Legal at the President’s Office; Mrs. Illeperuma, Additional Secretary at the Ministry of Sports; and Prof. Shemal Fernando, Director General of Sports.
-
-◼️
-
-[Data](articles/7f1244f1.json)
-
-[Extended Data](ext_articles/7f1244f1.ext.json)
-
----
-
-### Four students who have taken the largest bribe in Sri Lanka to jail for 35 years
-
-*2024-11-06 17:27:01* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශාලම-අල්ලස-ගත්-රේගු-අධිකාරීවරුන්-සිව්දෙනා-වසර-35ක්-හිරේට/11-412892) · `si`
-
-Sri Lanka: Four customs officers sentenced to 35 years for accepting $70m bribe.
-
-🟩
-
-The four Customs High Court, who had been accused of demanding the allegations of the largest bribes in the history of Sri Lanka, was sentenced to 35 years today (06).
-
-The first accused, the first accused, the first accused, was appointed as the bribe 10 million rupees.
-
-The judge who accepted a demanding judge who had no conscience had been punished for the complaint, the government officials, who had acted with a conscientious proof of the public to government officials, was sentenced to a maximum punishment for the complaint.
-
-The victims were convicted of the charges of Sri Lanka Customs Superintendent Upali Gunaratne Perera, Customs Superintendent of Customs Superintendent Upali Tharantha Wickremasinghe and Customs Suvan Resradas.
-
-The largest bribe in the history of Sri Lanka Jagath Gunatilake, who has died in collecting Rs.
-
-The Bribery Commission has been accused of conspiracy to be conspired by Jagath Gunatilleke in Colombo on 22nd June 15, 2015.
-
-...
-
-[Data](articles/32dd3772.json)
-
-[Extended Data](ext_articles/32dd3772.ext.json)
 
 ---

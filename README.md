@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 19:24:25**
+As of **2024-11-07 19:40:17**
 
 ## Newspaper Stats
 
-*Scraped **53,589** Articles*
+*Scraped **53,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,013
-adaderanalk | 6,388
+adalk | 5,014
+adaderanalk | 6,389
 tamilmirrorlk | 7,463
 virakesarilk | 8,671
-adaderanasinhalalk | 9,339
+adaderanasinhalalk | 9,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,589 (100.0%) of 53,589 articles have been extended.
+53,591 (100.0%) of 53,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### රත්වත්තේ භාවිත කළ මෝටර් රථයේ අංක තහඩුව ගැන අධිකරණයේදී එළියට ආ කථාව
+
+*2024-11-07 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203014) · `si`
+
+හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ විසින් ඔහුගේ පළමු බිරිඳට අයත් වාහනයක අංක තහඩුව සහ චැසි අංකය භාවිත කරමින් අවස්ථා ගණනාවකදී ප්‍රශ්නගත මෝටර් රථය භාවිත කර ඇති බව අද (07) අධිකරණයේදී හෙළිදරව් විය.
+
+එහිදී පොලිසිය වෙනුවෙන් කරුණු දක්වමින් පොලිස් නීති කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර මහතා ඒ බව සඳහන් කළේය.
+
+නීතිවිරෝධීව එකලස් කරන ලද මෝටර් රථයක් භාවිත කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකර සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ හා ඔහුගේ බිරිඳ අද (07) නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරිණි.
+
+එහිදී ඔවුන්ව ලබන 18 වනදා දක්වා නැවත වතාවක් රක්ෂිත බන්ධනාගාර ගත කිරීමට නුගේගොඩ මහෙස්ත්‍රාත්වරිය නියෝග කළාය.
+
+පොලිස් නීති කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර මහතා සඳහන් කළේ, සියදිවි නසාගත් ලොහාන් රත්වත්තේ මහතාගේ පෞද්ගලික ලේකම්වරයා අදාළ රථය ගෙනැවිත් දැමූ බවට සැකකරුවන් කළ ප්‍රකාශ අසත්‍ය බව ය.
+
+...
+
+[Data](articles/75148e4f.json)
+
+---
+
+### Two injured in shooting at Wennappuwa
+
+*2024-11-07 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103244/two-injured-in-shooting-at-wennappuwa) · `en`
+
+A shooting incident has been reported in the Kimbulgana area in Wennappuwa this evening (07).
+
+Two persons including a female have sustained minor injuries in the shooting incident while they have been admitted to the Marawila Hospital.
+
+The shooting has been carried out by one individual while the motive behind the shooting is yet to be ascertained.
+
+◼️
+
+[Data](articles/24c4bf25.json)
+
+---
+
+### Wennappuwa shooting
+
+*2024-11-07 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203013) · `si`
+
+Shooting reported in Wennappuwa, Kimbulgana area. Woman and man hospitalized at Marawila Hospital. Shooter unidentified.
+
+🟩
+
+A shooting has been shot in Kimbulgana, Wennappuwa, police said.
+
+A woman and a man had been admitted to the Marawila Hospital.
+
+One person has come to shoot, and he has not yet revealed the shooting.
+
+◼️
+
+[Data](articles/5f2d2e1e.json)
+
+[Extended Data](ext_articles/5f2d2e1e.ext.json)
+
+---
+
+### The new government borrowed over Rs.
+
+*2024-11-07 18:30:33* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුව-රුපියල්-ට්‍රිලියනය-ඉක්මවා-ණය-අරන්/11-412916) · `si`
+
+Sri Lanka's new government has borrowed Rs. 1.162 trillion, exceeding previous totals. This includes Rs. 175 billion borrowed recently and Rs. 200 million from bond issuance. Critics argue this excessive borrowing may lead to financial instability.
+
+🟩
+
+Majority of the Mahina JHU leader of the Colombo District candidate lawyer, Colombo, says that the present government has obtained loans of Rs. 1.162 trillion.. He was speaking at a press conference held today (2024.11.07).
+
+"The current government's total debt was exceeded in rupees yesterday. On November 6, the government borrowed 175 billion rupees. 17.5 billion rupees.
+
+Accordingly, the present government has borrowed Rs. 1.162 trillion.The ordinary people do not understand the same billions.The general public knows with crores.But this goal is too big.The only billions of crores.1,000 billion is one of the trillion.Now it is possible to think the number of billions.
+
+...
+
+[Data](articles/807c02f6.json)
+
+[Extended Data](ext_articles/807c02f6.ext.json)
+
+---
 
 ### Dr. Shafi files complain against false charges
 
@@ -1062,13 +1142,13 @@ The US dollar purchasing price was 288.4047 rupees and the sales price were 297.
 
 Former Minister Lohan Ratwatte and his wife have been ordered to be remanded further until November 18 by the Nugegoda Magistrate’s Court.
 
+The Magistrate also ordered that the bank accounts of the two suspects be checked and the video evidence presented to the court be forwarded to the Government Analyst.
+
+The Magistrate issued this order after the two suspects were produced before the court by Prison Officers and DIG Ruwan Gunasekara presented the facts to the court.
+
+The two suspects were ordered remanded in custody until November 18 after the bail request made on behalf of the suspects by President’s Counsel Sampath Mendis and other legal counsels was rejected.
+
 The former Minister of State Lohan Ratwatte and his wife, who were arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka, were produced before the Nugegoda Magistrate’s Court this morning (07).
-
-Ratwatte, who was arrested by Mirihana Police in Kandy on October 31, was ordered to be remanded by the Nugegoda Additional Magistrate until today.
-
-However, on November 02, the former Minister was admitted to the prison hospital owing to an illness, where he was subsequently transferred to Colombo National Hospital.
-
-Meanwhile, on November 04, Shashi Prabha Ratwatte, the wife of the former State Minister, was also arrested after appearing before the Nugegoda Magistrate’s Court in relation to the incident, as per a court order, where she was ordered to be remanded in custody until today.
 
 ...
 
@@ -2357,85 +2437,5 @@ It has been reported that the time has been extended to bring the firearms to th
 [Data](articles/81ec1988.json)
 
 [Extended Data](ext_articles/81ec1988.ext.json)
-
----
-
-### Sri Lanka central bank urged not to inject excess money by open market operations
-
-*2024-11-07 08:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-urged-not-to-inject-excess-money-by-open-market-operations-186335/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s central bank should not inject large volumes of excess liquidity though domestic operations into the banking system to push rates down, with data showing that banks are being offered more money than they need, an economic analyst has said.
-
-Dhananath Fernando, Chief Operating Officer of Advocata Institute, has said it may be better to cut the floor rate of the policy corridor if the central bank wants to bring rates lower, rather then inject large volumes of money into banks encouraging bad behaviour.
-
-Data show that central bank offered through open market auction more ‘printed money’ than banks bid for, and some had bid at very low rates indicating that they did not care whether they got it or not, undermining the workings of the interbank money market.
-
-...
-
-[Data](articles/5658bd7a.json)
-
-[Extended Data](ext_articles/5658bd7a.ext.json)
-
----
-
-### Sri Lanka finds new species
-
-*2024-11-07 07:55:47* · [`adalk`](https://www.ada.lk/picture_story/ශ්‍රී-ලංකාවෙන්-නව-ශාක-විශේෂයක්-සොයා-ගනියි/10-412901) · `si`
-
-Sri Lanka discovers new plant species COLEUS Hakgalensis in central highlands. Research team identifies unique purple-white flowers and distinctive scent. Conservation efforts begin due to habitat threats.
-
-🟩
-
-The National Herbarium Department has enabled to find a new species of plants from Sri Lanka.
-
-The research team has been able to identify the new species of flora from the central highlands of the central hills of Sri Lanka.Steps have been taken to name.
-
-The research team has been able to find this new species in the year 2024, with the exploration of the plant exploration in the late 2022 to cover up the medium hills in the year 2024.. Sumanha Abeysekera, Ovitha Abeysekara, Ovithai Abeyseka, Nishanthi Kussay, Nishanthi Kussay, Nishanthi Kussaywa, Nishanthi Kussay, Nishanthi Kussayu, who identifies the new species of plant species.
-
-The National Herbarium Department of the National Botanic Gardens in February 2024, the National Herbarium Department has been able to find this in a botanical exploration of the National Herbagala area in 2024 years in 2024 years.The research team says.
-
-...
-
-[Data](articles/b574ea39.json)
-
-[Extended Data](ext_articles/b574ea39.ext.json)
-
----
-
-### Another suspicious death
-
-*2024-11-07 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202992) · `si`
-
-Suspicious death reported: Man dies after falling near three-wheeler on Kandy-Makadiya road.
-
-🟩
-
-A man who had fallen near a three-wheeler on the Kandy Makadiya road in Kandy area was killed.
-
-◼️
-
-[Data](articles/818227cb.json)
-
-[Extended Data](ext_articles/818227cb.ext.json)
-
----
-
-### President to collaborate with Trump
-
-*2024-11-07 07:45:18* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්-සමග-සහයෝගයෙන්-කටයුතු-කරන්න-ජනපති-අනුර-සූදානම්/11-412900) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake collaborates with US President-elect Donald Trump. They express mutual interest in fostering bilateral relations between their countries, aiming to benefit both nations' citizens.
-
-🟩
-
-President Anura Kumara Dissanayake has joined Donald Trump, who was elected 47th President as 47th President of the United States.
-
-"Donald J.. The warm greeting to Trump @realdonaldtrumpum. I look forward to dealing with you to achieve public objectives in our relationships that are beneficial to the people of Sri Lanka and the United States. "
-
-◼️
-
-[Data](articles/d58a3a8b.json)
-
-[Extended Data](ext_articles/d58a3a8b.ext.json)
 
 ---

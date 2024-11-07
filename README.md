@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 22:26:01**
+As of **2024-11-07 22:58:20**
 
 ## Newspaper Stats
 
-*Scraped **53,605** Articles*
+*Scraped **53,609** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
 bbccomsinhala | 547
-colombotelegraphcom | 549
+colombotelegraphcom | 550
 islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,017
-adaderanalk | 6,390
-tamilmirrorlk | 7,464
+adalk | 5,018
+adaderanalk | 6,391
+tamilmirrorlk | 7,465
 virakesarilk | 8,675
 adaderanasinhalalk | 9,344
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,344
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,605 (100.0%) of 53,605 articles have been extended.
+53,608 (100.0%) of 53,609 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Cuba left reeling after Category 3 hurricane ravages island and knocks out power grid
+
+*2024-11-07 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103246/cuba-left-reeling-after-category-3-hurricane-ravages-island-and-knocks-out-power-grid) · `en`
+
+Cuba was left reeling Thursday after a fierce Category 3 hurricane ripped across the island, knocking out the country’s power grid, downing trees and damaging infrastructure.
+
+Hurricane Rafael crossed a western portion of Cuba on Wednesday evening about 75 kilometers (45 miles) west of Havana, where José Ignacio Dimas returned home from his night shift as a security guard to find his apartment building in the historic center of the city had collapsed.
+
+“The entire front wall of the building fell,” José Ignacio Dimas said in a tight voice as he scanned the damage early Thursday. Like many buildings in the capital, it was aging and lacked maintenance.
+
+Some 50,000 people took shelter in Havana, with thousands more doing the same in regions south and just west of the capital since they lived in flood zones or in flimsy homes. The main road from Havana to the southern coastal city of Batabanó was strewn with dozens of utility poles and wires.
+
+...
+
+[Data](articles/72f310b6.json)
+
+[Extended Data](ext_articles/72f310b6.ext.json)
+
+---
+
+### Two people injured in shooting
+
+*2024-11-07 22:11:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-இருவர்-காயம்/175-346737) · `ta`
+
+Shooting incident in Wennappuwa-Kimbulwana injures two
+
+🟩
+
+Two persons were injured in the shooting in the Wennappuwa - Kimbulwana area, police said.
+
+◼️
+
+[Data](articles/60ef2497.json)
+
+[Extended Data](ext_articles/60ef2497.ext.json)
+
+---
 
 ### Interim base of elephants is an interim injunction
 
@@ -163,6 +201,34 @@ The reason for the firing came forward, and the reason for the shooting has not 
 [Data](articles/1cf58648.json)
 
 [Extended Data](ext_articles/1cf58648.ext.json)
+
+---
+
+### Court dismisses a request of Madushe's wife
+
+*2024-11-07 19:35:58* · [`adalk`](https://www.ada.lk/breaking_news/මධූෂ්ගේ-බිරිඳගේ-ඉල්ලීමක්-අධිකරණය-ඉවත-දමයි/11-412921) · `si`
+
+Colombo Additional Magistrate rejects request to assign case to CID. Wife of deceased drug dealer Madush seeks justice. Magistrate orders police to provide investigation update.
+
+🟩
+
+Colombo Additional Magistrate Manjula Sathnaka today rejected his wife today to assign the Death to the CID Madush, who was dead in an arrest of 22 kilos of heroin.
+
+The Magistrate pointed out that the IGP or the CID's circular in the Western Provincial Council or the CID's circular in Madtiturai Madush..
+
+The magistrate pointed out that question paper was conducted by the death of the incident regarding the death of Makandira Madush.
+
+The wife of Makandura Madush, Madini Madush, Mrs. Madundedi Gympali, was called yesterday.
+
+Attorney Senaka Perera, who is prejudicated by the complaint, he was prejudicated by the husband of his client in police custody.Much, he said.
+
+Attorney Senaka Perera, who was found in the police custody, was in the investigation of the Maligawatta police investigation.According to the assembly information, the police had gone to the Maligawatta housing complex to arrest the suspects.
+
+...
+
+[Data](articles/fb918153.json)
+
+[Extended Data](ext_articles/fb918153.ext.json)
 
 ---
 
@@ -527,6 +593,18 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 [Data](articles/1593b5a1.json)
 
 [Extended Data](ext_articles/1593b5a1.ext.json)
+
+---
+
+### Released High Security Areas As Future Development Hubs
+
+*2024-11-07 17:14:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/released-high-security-areas-as-future-development-hubs/) · `en`
+
+This policy paper proposes a strategic framework for agricultural development in the Tellipalai Divisional Secretariat (DS) Division newly released areas, inspired by the National People’s Power (NPP) Agriculture Policy. By focusing on food security, sustainable practices, technological integration, and farmer empowerment, this policy aims to enhance agricultural productivity while ensuring resilience against economic and environmental challenges. Key components include GIS mapping of land released, land clearing, disaster mitigation, promoting organic farming, and establishing strong public-private partnerships to drive investment and innovation.
+
+...
+
+[Data](articles/5dd0ecfa.json)
 
 ---
 
@@ -2367,101 +2445,5 @@ However, the Australian Prime Minister said that he would take serious action ag
 [Data](articles/96a4d8f6.json)
 
 [Extended Data](ext_articles/96a4d8f6.ext.json)
-
----
-
-### Sri Lanka rupee opens flat at 292.75/90 to dollar, bond yields flat
-
-*2024-11-07 09:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-flat-at-292-75-90-to-dollar-bond-yields-flat-186375/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened more or less flat at 292.75/90 to the US dollar Thursday, dealers said, from 292.80/90 Wednesday, while bond yields were steady.
-
-A bond maturing on 01.05.2027 was quoted at 11.20/25 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.55/75 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.80/86 percent.
-
-In equities, Colombo’s All Share Price Index opened down 0.01 percent, or 1.62 points lower at 12,717, while the S&P SL20 of more liquid stocks opened up 0.06 percent or 2.11 points higher at 3,826.
-
-◼️
-
-[Data](articles/ca279b0a.json)
-
-[Extended Data](ext_articles/ca279b0a.ext.json)
-
----
-
-### A person dies suspiciously in Kandy
-
-*2024-11-07 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198083) · `ta`
-
-Suspicious death in Kandy: Man falls near three-wheeler, hospitalized, police investigation ongoing. Body sent for autopsy.
-
-🟩
-
-A man who fell near a three -wheeler on the Ampitiya Miganuwa road belonging to the Kandy Police Division has died after being admitted to the hospital.
-
-Investigations have begun yesterday (06) on the basis of information received by the police regarding the incident.
-
-A man suspected of being a driver has been found lying near the three -wheeler as a three -wheeler has been parked near a wiring on the Kandy road.
-
-The body of the deceased has been placed in the funeral room of the Kandy Hospital for autopsy and the Kandy police are conducting further investigations.
-
-◼️
-
-[Data](articles/b1c6dd7d.json)
-
-[Extended Data](ext_articles/b1c6dd7d.ext.json)
-
----
-
-### Passport distribution has been launched without rows - Cabinet spokesman Vijitha Herath
-
-*2024-11-07 09:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198045) · `ta`
-
-Passport distribution launched smoothly: Cabinet spokesperson Vijitha Herath. Steps taken to manage demand and ensure timely issuance. Process began after previous government failed to meet target of 750,000 passports simultaneously. Applicants encouraged to apply now.
-
-🟩
-
-Instead of obtaining passports on the same occasion, the last government has reached compliance with. This is why it was impossible to provide them with the needs of the people. However, Cabinet spokesman Vijitha Herath said that the distribution of passports has been launched without a row.
-
-He further stated that the press conference to announce the Cabinet decisions was held on Wednesday (06).
-
-The people who are currently speaking about experience are in line to get a passport as a result of the problem caused by. However, we have taken steps to get some management and obtain passports.. Passports are available as a volume.
-
-These measures are being carried out on the basis of the agreement agreement signed by the last government. The last government has not reached the compliance of 750,000 passports on the same occasion. This is why it is impossible to issue a passport as needed.
-
-...
-
-[Data](articles/e7b2b687.json)
-
-[Extended Data](ext_articles/e7b2b687.ext.json)
-
----
-
-### Timeline extending to re -handle the guns
-
-*2024-11-07 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198084) · `ta`
-
-Deadline extended: Hand over licensed guns by Nov 21. Original deadline was Nov 7. Guns will be collected from public. Ministry plans to review and re-issue weapons after collection.
-
-🟩
-
-The Ministry of Defense has announced that the deadline for handing over all the licensed guns and racks given to the public has been extended till November 21.
-
-The Ministry granted a month's time to end on November 7 to hand over all the guns and shoes provided to the public for self -defense and other purposes.
-
-On October 04, the Ministry of Defense announced that all the guns and shoes provided to the public would be acquired by the government and that they should be handed over to the relevant authorities before November 7.
-
-The Ministry of Defense added that after reviewing the guns issued to the Ministry of Defense, they are looking forward to re -issuing them.
-
-The Ministry of Defense has informed all licenses to hand over the appropriate guns and shoes at the government's commercial ammunition warehouse in Welisara.
-
-◼️
-
-[Data](articles/e8bc6c64.json)
-
-[Extended Data](ext_articles/e8bc6c64.ext.json)
 
 ---

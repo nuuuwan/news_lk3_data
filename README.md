@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 18:59:59**
+As of **2024-11-07 19:11:33**
 
 ## Newspaper Stats
 
-*Scraped **53,588** Articles*
+*Scraped **53,589** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,012
+adalk | 5,013
 adaderanalk | 6,388
 tamilmirrorlk | 7,463
 virakesarilk | 8,671
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,586 (100.0%) of 53,588 articles have been extended.
+53,589 (100.0%) of 53,589 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,26 @@ Speaking to reporters outside the ministry after making the complaint, Dr. Shafi
 [Data](articles/6a2fcd2a.json)
 
 [Extended Data](ext_articles/6a2fcd2a.ext.json)
+
+---
+
+### Central Bank's official reserves
+
+*2024-11-07 18:23:01* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-නිල-සංචිත-ඉහළට/11-412915) · `si`
+
+Central Bank of Sri Lanka reports significant increase in official reserves from $5,994 million in September 2024 to $6,467 million in October 2024, representing a 7.9% growth.
+
+🟩
+
+In October 2024, an outstanding increase in the Central Bank of Sri Lanka has reported a significant increase in the Central Bank of Sri Lanka.
+
+In September, 2024, the number of official reserves reported as US $ 5,994 million increased to US $ 6,467 million.This is a high increase of 7.9%.
+
+◼️
+
+[Data](articles/de1c9954.json)
+
+[Extended Data](ext_articles/de1c9954.ext.json)
 
 ---
 
@@ -156,17 +176,27 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 
 ---
 
-### பொதுப்பயன்பாடுகள் ஆணைக்குழுவை நியமிக்காமல் மின்சார கட்டணத்தை எவ்வாறு குறைக்க முடியும் - காஞ்சன
+### How to reduce electricity tariffs without appointing the Commission
 
 *2024-11-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198131) · `ta`
 
-பொதுப்பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் மற்றும் ஆணையாளர்களை நியமிக்காமல் மின்சார கட்டணத்தை குறைக்க முடியாது. மின்சார கட்டணத்தை குறைப்பதற்கு நடவடிக்கை எடுத்து வருவதாக அரசாங்கம் மக்களை ஏமாற்றி வருகிறது. டிசம்பர் மாதத்திலும் மின்சார கட்டணம் குறையப்போவதில்லை. அத்துடன் இலங்கை மின்சார சபையை மறுசீரமைப்புக்கும் சட்டத்தை செயலாளரும் பொது முகாமையாளரும் மீறி வருகிறார். அவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுப்போம்  என புதிய ஜனநாயக முன்னணியின் மாத்தறை மாவட்ட வேட்பாளரும் எரிசக்தி மற்றும் புதுப்பிக்க சக்தி முன்னாள் அமைச்சருமான காஞ்சன விஜேசேகர தெரிவித்தார்.
+Here's a 200-character summary:
 
-கொழும்பில் அமைந்துள்ள புதிய ஜனநாயக முன்னணியின் தேர்தல் வழிநடத்தல் காரியாலயத்தில் வியாழக்கிழமை (07) இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+
+Government claims to reduce electricity tariffs but lacks authority without Public Utilities Commission. CEB Secretary and General Manager violate laws. Legal action threatened against them. Tariff reduction unlikely until Commission appointed.
+
+🟩
+
+Public Utilities cannot reduce electricity tariff without appointing the Chairman and Commissioners of the Commission. The government is deceiving people to take steps to reduce electricity tariffs. Electricity tariffs will not be reduced in December. Also, the Secretary of the Ceylon and the General Manager violates the Ceylon Electricity Board. Kanjana Wijesekera, a former Matara district candidate of the new Democratic Front and the former Minister of Energy and Renewal, said that legal action would be taken against them.
+
+He was speaking at a press conference held at the New Democratic Front's Election Office in Colombo on Thursday (07).
 
 ...
 
 [Data](articles/c2d22b19.json)
+
+[Extended Data](ext_articles/c2d22b19.ext.json)
 
 ---
 
@@ -580,19 +610,25 @@ A police dog named “Amai” played a key role in the operation, which lasted n
 
 ---
 
-### ගම්මන්පිල ඇමති විජිතට ‘ පිං’ දුන්න හේතුව මෙන්න
+### Here is the reason 'Ping' gave Gammanpila Minister Vijitha
 
 *2024-11-07 14:30:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිල-ඇමති-විජිතට-‘-පිං’-දුන්න-හේතුව-මෙන්න/11-412914) · `si`
 
-තමා ආරාධනා කළ විවාදයට පැමිණීම පිළිනොගනිමින් අමාත්‍ය විජිත හේරත් මහතා රට හමුවේ අසත්‍ය ප්‍රචාරය කරන බවට පිළිගෙන ඇති බව සර්වජන බලයේ මහ මැතිවරණ අපේක්ෂක උදය ගම්මන්පිල මහතා පැවසීය.
+Minister Vijitha Herath admitted promoting falsehoods during debate invitation. He rejected attending public debate, proving his claims false.
 
-කොළඹ අද (07දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-“විජිත හේරත් ඇමතිතුමා කට ඇරියොත් කියන්නේ බොරු. පාස්කු වාර්තා ගැන කිව්වේ බොරු. ණය ලබා ගැනීම ගැන කිව්වේ බොරු. ඒත් එතුමා කියන්නේ මම බොරු කියනවා කියලා. එතුමාද බොරු කියන්නේ මමද බොරු කියන්නේ කියලා ජනතාවට තේරුම් ගන්න තමයි මම එතුමාට ප්‍රසිද්ධ විවාදයකට ආරාධනා කළේ. නමුත් එතුමා විවාදයකට සහභාගී වීම ප්‍රතික්ෂේප කිරීම හරහා එතුහා බොරු කියන බව පිළිගැනීමකට ලක් කරලා තියෙනවා. එහෙම කළාට බොහොම පිං. “
+Minister Vijitha Herath said that he had admitted to the debate he was invited to promote falsehood.
+
+He was speaking at a media briefing held in Colombo today (07).
+
+"If we open the Minister of Minister Vijitha Herath says. The Passover Records Lies. The loans were told about. But he says I'm lying. I invited him to a public debate that he is lying that I was lying.. However, he has been recognized that he is lying through the rejection of attending a debate. He did so very much. "
 
 ◼️
 
 [Data](articles/04bbc296.json)
+
+[Extended Data](ext_articles/04bbc296.ext.json)
 
 ---
 
@@ -2401,37 +2437,5 @@ President Anura Kumara Dissanayake has joined Donald Trump, who was elected 47th
 [Data](articles/d58a3a8b.json)
 
 [Extended Data](ext_articles/d58a3a8b.ext.json)
-
----
-
-### Election propaganda ends on Monday
-
-*2024-11-07 07:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202991) · `si`
-
-Election campaign ends Monday midnight. Postal voting starts today & tomorrow. No propaganda after midnight. Candidates must avoid door-to-door campaigning and religious place advertising.
-
-🟩
-
-The election campaign to this year's general election is due to end midnight on Midnight Monday.
-
-Accordingly, election propaganda has only 5 days.
-
-This year's general election is scheduled to be held on Thursday.
-
-Meanwhile, postal voting on the general election is scheduled to be held today (07) and tomorrow.
-
-The Elections Commission states that voters in the Armed Forces and all other state institutions in the Armed Forces and all other government organizations have been given to postal voting today.
-
-According to the Commission, postal voting arrangements could be carried out in relation to the places where he acts.
-
-Meanwhile, Elections Commissioner General Saman Sri Ratnayake expressed these views on propaganda regarding the next general election.
-
-"Silent time begins on the 12th midnight. There should be no propaganda at that time. Also, all candidates are asked to appeal to the family of candidates. Can't go from house to house. This is an illegal act.
-
-...
-
-[Data](articles/77cb4692.json)
-
-[Extended Data](ext_articles/77cb4692.ext.json)
 
 ---

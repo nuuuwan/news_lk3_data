@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 19:40:17**
+As of **2024-11-07 19:58:39**
 
 ## Newspaper Stats
 
-*Scraped **53,593** Articles*
+*Scraped **53,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,91 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,014
 adaderanalk | 6,389
-tamilmirrorlk | 7,463
-virakesarilk | 8,671
+tamilmirrorlk | 7,464
+virakesarilk | 8,674
 adaderanasinhalalk | 9,341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,591 (100.0%) of 53,593 articles have been extended.
+53,593 (100.0%) of 53,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### රත්වත්තේ භාවිත කළ මෝටර් රථයේ අංක තහඩුව ගැන අධිකරණයේදී එළියට ආ කථාව
+### வென்னப்புவவில் துப்பாக்கிச் சூடு
+
+*2024-11-07 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198141) · `ta`
+
+வென்னப்புவ - கிம்புல்கான பிரதேசத்தில் 7ஆம் திகதி வியாழக்கிழமை பிற்பகல் துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த துப்பாக்கி சூட்டில் ஒரு பெண்ணும் ஆண் ஒருவரும் சிறு காயங்களுக்குள்ளாகி மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+துப்பாக்கிச் சூடு நடத்த ஒருவரே முன் வந்ததாகவும், மேலும் துப்பாக்கிச் சூடு நடத்தியதற்கான காரணம் இதுவரை வெளியாகவில்லை.
+
+◼️
+
+[Data](articles/1cf58648.json)
+
+---
+
+### கிழக்கை காப்பாற்ற வேட்டுமாயின் வடக்கு மக்கள் சைக்கிளுக்கு வாக்களிக்க வேண்டும் - த. சுரேஸ்
+
+*2024-11-07 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198140) · `ta`
+
+கிழக்கை மண்ணை காப்பாற்றுவதற்காக மக்களுடன் இனைந்து கடந்த 15 வருடமாக  போராடிவருகின்றோம் எனவே கிழக்கு மாகாணத்தை காப்பாற்ற வேண்டுமாக இருந்தால் வடக்கில் இருக்கின்ற தமிழ் மக்கள் சைக்கிளுக்கு வாக்களிக்க வேண்டும் அப்போது தான் கிழக்கை காப்பாற்ற முடியும் என இலங்கை தமிழ் காங்கிரஸ் கட்சியின் சைக்கிள் சின்னத்தில் மட்டக்களப்பு மாவட்டத்தில் போட்டியிடும் கட்சியின் தேசிய அமைப்பாள் தர்மலிங்கம் சுரேஸ் கிழக்கு மண்ணிலிருந்து அறைகூவல் விடுத்துள்ளார்.
+
+மட்டக்களப்பு கொக்கட்டிச்சோலை சந்தியில் புதன்கிழமை(06) மாலை சைக்கிள் சின்னதில் தேர்தல் பிரச்சாரத்துக்கான கட்சி காரியாலயம் திறந்துவைத்து உரையாற்றுகையில் அவர் இவ்வாறு அறைகூவல் விடுத்தார்.
+
+...
+
+[Data](articles/a6f61d97.json)
+
+---
+
+### எதிராக செயல்பட்ட அனைவர் மீதும் வைத்தியர் முறைப்பாடு
+
+*2024-11-07 19:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிராக-செயல்பட்ட-அனைவர்-மீதும்-வைத்தியர்-முறைப்பாடு/175-346733) · `ta`
+
+இனங்களுக்கு இடையே முறுகல் நிலையை தோற்றுவிக்கும் நோக்கில், திட்டமிடப்பட்ட சதித்திட்டமாக போலியான அறிக்கையை வௌியிட்டு தன்னை கைது செய்து துன்புறுத்திமைக்காக முறையான விசாரணை நடத்தப்பட வேண்டும் என வைத்தியர் மொஹமட் ஷாபி இன்று (07) பொது பாதுகாப்பு அமைச்சில் முறைப்பாடு பதிவு செய்துள்ளார்.
+
+"5 ஆண்டுகள் 6 மாதங்கள். இயன்றவரை தன்னை துன்புறுத்தினார்கள். நேற்று விடுதலையானது நான் இல்லை, நீதிக்காக நின்றவர்கள் அனைவரும்தான். இந்த தவறு வேறு யாருக்கும் நடக்காமல் இருக்க நான் செய்ய வேண்டிய கடமைகள் சில உண்டு. எனக்கு எதிராக செயல்பட்ட அனைவரின் சார்பிலும் முறைப்பாடு ஒன்றை செய்துள்ளேன். என்னை கைது செய்ததன் பின்னரே முறைப்பாடுகளை தேடிச் சென்றனர். எனக்கும் மனைவி மற்றும் பிள்ளைகளுக்கு கடுமையான அழுத்தங்களை கொடுத்தனர்." என்றார். R
+
+◼️
+
+[Data](articles/523367c0.json)
+
+---
+
+### Speech out in court about the number plate of the automobile used by Ratwatte
 
 *2024-11-07 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203014) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ විසින් ඔහුගේ පළමු බිරිඳට අයත් වාහනයක අංක තහඩුව සහ චැසි අංකය භාවිත කරමින් අවස්ථා ගණනාවකදී ප්‍රශ්නගත මෝටර් රථය භාවිත කර ඇති බව අද (07) අධිකරණයේදී හෙළිදරව් විය.
+Court hearing summary: Former State Minister Lohan Ratwatte and wife accused of misuse of vehicle. Vehicle details disputed, police claim it belongs to first wife. Suspects denied bail, remanded until 18th. Government analyst to verify vehicle details.
 
-එහිදී පොලිසිය වෙනුවෙන් කරුණු දක්වමින් පොලිස් නීති කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර මහතා ඒ බව සඳහන් කළේය.
+🟩
 
-නීතිවිරෝධීව එකලස් කරන ලද මෝටර් රථයක් භාවිත කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකර සිටි හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ හා ඔහුගේ බිරිඳ අද (07) නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කෙරිණි.
+Former State Minister Lohan Ratwatte revealed that the number plate of the first wife of his first wife and the Chassis, the court in a number of occasions.
 
-එහිදී ඔවුන්ව ලබන 18 වනදා දක්වා නැවත වතාවක් රක්ෂිත බන්ධනාගාර ගත කිරීමට නුගේගොඩ මහෙස්ත්‍රාත්වරිය නියෝග කළාය.
+Deputy Inspector General of Police Legist Law to the police, DIG Attorney Ruwan Gunasekara said that.
 
-පොලිස් නීති කොට්ඨාසය භාර නියෝජ්‍ය පොලිස්පති නීතීඥ රුවන් ගුණසේකර මහතා සඳහන් කළේ, සියදිවි නසාගත් ලොහාන් රත්වත්තේ මහතාගේ පෞද්ගලික ලේකම්වරයා අදාළ රථය ගෙනැවිත් දැමූ බවට සැකකරුවන් කළ ප්‍රකාශ අසත්‍ය බව ය.
+Former State Minister Lohan Ratwatte and his wife was produced before the Nugegoda Magistrate today (07).
+
+Nugegoda Magistrate also ordered them to be remanded again from the 18th.
+
+DIG Laboo, Attorney in charge of the police lecturer, said Ruwan Gunasekara was the false that the private secretary of the person who committed suicide had brought the vehicle was false.
+
+The police informed the court that the vehicle was located in Mirihana belonging to the suspect's second wife, Shabha Sehi Ratwatte.
+
+The police said in court that the suspect had gone to the Human Rights Commission on the vehicles of the Suspect on the Suspect on the respective vehicle.
 
 ...
 
 [Data](articles/75148e4f.json)
+
+[Extended Data](ext_articles/75148e4f.ext.json)
 
 ---
 
@@ -65,6 +119,8 @@ The shooting has been carried out by one individual while the motive behind the 
 ◼️
 
 [Data](articles/24c4bf25.json)
+
+[Extended Data](ext_articles/24c4bf25.ext.json)
 
 ---
 
@@ -253,6 +309,22 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 [Data](articles/1593b5a1.json)
 
 [Extended Data](ext_articles/1593b5a1.ext.json)
+
+---
+
+### ஊடகங்களுக்கு எதிரான நிலைப்பாடுகளுடன் அரசாங்கத்தால் முன்னோக்கிப் பயணிக்க முடியாது - டலஸ்
+
+*2024-11-07 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198133) · `ta`
+
+ஊடகங்களுக்கு எதிரான நிலைப்பாடுகளுடன் அரசாங்கத்தால் முன்னோக்கிப் பயணிக்க முடியாது. ஊடக சுதந்திரம் அற்ற நாட்டில் ஜனநாயகம் உள்ளிட்ட எதையும் எதிர்பார்க்க வேண்டாம். இது நாட்டின் அழிவுக்கான ஆரம்பமாகக் கூட இருக்கலாம் என முன்னாள் பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும தெரிவித்தார்.
+
+கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணி அலுவலகத்தில் வியாழக்கிழமை (07) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+தற்போதைய அரசாங்கத்தால் ஊடகங்களுக்கு பாரிய அச்சுறுத்தல் ஏற்பட்டுள்ளது. நாட்டின் முதற்பிரஜையான ஜனாதிபதி அநுரகுமார திஸாநாயக்க முதன் முதலாக ஊடகங்களுக்கு அச்சுறுத்தல் விடுத்தார். ஊடகங்கள் புதிய ஆடை அணிய வேண்டும் என்று அவர் குறிப்பிட்டது ஊடகங்களுக்கு விடுக்கப்பட்ட எச்சரிக்கையாகும்.
+
+...
+
+[Data](articles/dda5d9ae.json)
 
 ---
 
@@ -2347,95 +2419,5 @@ The U.S. Department of the Treasury sanctioned India-based Shaurya Aeronautics P
 [Data](articles/2996cf4d.json)
 
 [Extended Data](ext_articles/2996cf4d.ext.json)
-
----
-
-### Rice shortage, price surge fueled by increased beer production?
-
-*2024-11-07 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103222/rice-shortage-price-surge-fueled-by-increased-beer-production) · `en`
-
-The Small and Medium Scale Rice Mill Owners’ Association stresses that the growing rice shortage in the market is caused by the increased use of raw rice for beer production.
-
-According to the association, diverting more rice for brewing has impacted the availability of rice for consumers, leading to rising prices.
-
-Chairman of the association U.K. Semasinghe explained that the raw rice used in beer production is sourced from ‘Nadu’ paddy.
-
-“Raw rice is essential for beer production, but it comes from ‘Nadu’ paddy. When a greater portion of this paddy is allocated to the production of beer, the supply of paddy for regular Nadu rice production diminishes,” he noted.
-
-Against this backdrop, farmers’ organizations have echoed similar concerns, urging the government to intervene and stabilize rice prices.
-
-Many shopkeepers report difficulty in obtaining rice at the government-controlled price, further straining the market.
-
-...
-
-[Data](articles/bfbc8560.json)
-
-[Extended Data](ext_articles/bfbc8560.ext.json)
-
----
-
-### Fairly heavy showers likely in parts of the island
-
-*2024-11-07 08:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103221/fairly-heavy-showers-likely-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at times in Northern and North-Central Provinces and in Puttalam and Trincomalee districts today (07).
-
-Fairly heavy showers above 50mm are likely at some places in Northern Province, the department added.
-
-Meanwhile, showers or thundershowers will occur at several places in Central, Sabaragamuwa, Uva and Southernprovinces during the evening or night, according to the Met. Department.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/b4d2424d.json)
-
-[Extended Data](ext_articles/b4d2424d.ext.json)
-
----
-
-### Rise Of New Faces: A Paradigm Shift In Eastern Muslims Voter Behaviour
-
-*2024-11-07 08:13:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rise-of-new-faces-a-paradigm-shift-in-eastern-muslims-voter-behaviour/) · `en`
-
-The Presidential Election – 2024 has shown a dramatic shift in the voting behaviour of Muslim voters in the Eastern Province. A long struggle for an alternative political force of the Muslims has finally gained significant behavioural change in areas traditionally led by established political figures. These results reflect a departure from conventional voting patterns, emphasising a strong desire for a change among Muslim voters in Eastern Province, who are increasingly drawn to progressive and inclusive approaches.
-
-...
-
-[Data](articles/096913b1.json)
-
-[Extended Data](ext_articles/096913b1.ext.json)
-
----
-
-### Firearms extended to hand over firearms
-
-*2024-11-07 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202993) · `si`
-
-Firearm permit deadline extended to Nov 21 by Defense Ministry. Initial deadline was today. Review process ongoing for weapons storage.
-
-🟩
-
-The period has been extended to hand over the re-handed over permits issued by the Ministry of Defense.
-
-Accordingly, the firearm will be handed over to November 21, the Defense Ministry said.
-
-The Ministry of Defense was given a month for the re-handed over firearms and was due to end today.
-
-However, after considering the contents, steps have been taken to extend the time.
-
-The Ministry of Defense informed firearms to be submitted after reviewing the review of firearms with permits.
-
-The Ministry of Defense instructed the government's commercial explosive store at Welisara, the Navy's commercial explosive.
-
-However, a large number of firearms have been taken back to firearms.
-
-It has been reported that the time has been extended to bring the firearms to these firearms so far.
-
-◼️
-
-[Data](articles/81ec1988.json)
-
-[Extended Data](ext_articles/81ec1988.ext.json)
 
 ---

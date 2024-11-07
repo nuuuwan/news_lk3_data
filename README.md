@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 19:58:39**
+As of **2024-11-07 20:10:57**
 
 ## Newspaper Stats
 
@@ -26,53 +26,83 @@ adaderanasinhalalk | 9,341
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,593 (100.0%) of 53,597 articles have been extended.
+53,597 (100.0%) of 53,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### வென்னப்புவவில் துப்பாக்கிச் சூடு
+### Firing
 
 *2024-11-07 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198141) · `ta`
 
-வென்னப்புவ - கிம்புல்கான பிரதேசத்தில் 7ஆம் திகதி வியாழக்கிழமை பிற்பகல் துப்பாக்கிச் சூடு இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-குறித்த துப்பாக்கி சூட்டில் ஒரு பெண்ணும் ஆண் ஒருவரும் சிறு காயங்களுக்குள்ளாகி மாரவில வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
 
-துப்பாக்கிச் சூடு நடத்த ஒருவரே முன் வந்ததாகவும், மேலும் துப்பாக்கிச் சூடு நடத்தியதற்கான காரணம் இதுவரை வெளியாகவில்லை.
+
+Shooting incident occurred in Wennappuwa-Kimbulkana area on Thursday afternoon. Woman and man admitted to Marawila Hospital with minor injuries. Reason for firing revealed, but cause of shooting remains unknown.
+
+🟩
+
+Police said that the shooting took place in the Wennappuwa - Kimbulkana area on Thursday afternoon.
+
+A woman and a man have been admitted to the Marawila Hospital in minor injuries.
+
+The reason for the firing came forward, and the reason for the shooting has not yet been revealed.
 
 ◼️
 
 [Data](articles/1cf58648.json)
 
+[Extended Data](ext_articles/1cf58648.ext.json)
+
 ---
 
-### கிழக்கை காப்பாற்ற வேட்டுமாயின் வடக்கு மக்கள் சைக்கிளுக்கு வாக்களிக்க வேண்டும் - த. சுரேஸ்
+### If the hunter to save the East, the people of the northern people must vote for the bicycle. Sures
 
 *2024-11-07 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198140) · `ta`
 
-கிழக்கை மண்ணை காப்பாற்றுவதற்காக மக்களுடன் இனைந்து கடந்த 15 வருடமாக  போராடிவருகின்றோம் எனவே கிழக்கு மாகாணத்தை காப்பாற்ற வேண்டுமாக இருந்தால் வடக்கில் இருக்கின்ற தமிழ் மக்கள் சைக்கிளுக்கு வாக்களிக்க வேண்டும் அப்போது தான் கிழக்கை காப்பாற்ற முடியும் என இலங்கை தமிழ் காங்கிரஸ் கட்சியின் சைக்கிள் சின்னத்தில் மட்டக்களப்பு மாவட்டத்தில் போட்டியிடும் கட்சியின் தேசிய அமைப்பாள் தர்மலிங்கம் சுரேஸ் கிழக்கு மண்ணிலிருந்து அறைகூவல் விடுத்துள்ளார்.
+Here's a 200-character summary:
 
-மட்டக்களப்பு கொக்கட்டிச்சோலை சந்தியில் புதன்கிழமை(06) மாலை சைக்கிள் சின்னதில் தேர்தல் பிரச்சாரத்துக்கான கட்சி காரியாலயம் திறந்துவைத்து உரையாற்றுகையில் அவர் இவ்வாறு அறைகூவல் விடுத்தார்.
+
+
+Tamil politician Dharmalingam Suarez urges Northern Tamils to support "bicycle" symbol party to save East Sri Lanka. He criticizes rival parties for distracting voters with liquor and money.
+
+🟩
+
+Dharmalingam Suarez has called for the Tamil people in the Batticaloa district to save the East if the Tamil people in the North have to vote for bicycle if we want to save the Eastern Province for the past 15 years.
+
+He made this statement while addressing the inauguration of the party office for the election campaign at the Kokkatticholai junction in Batticaloa on Wednesday evening.
+
+From the very beginning, this election is a final opportunity for the Tamil people to be bargained for the Tamil people?Or are we going to live with the Sinhala Tamil Muslim people?There is an election that raises a question.
+
+As for the Tamils, Tamils ​​are a long historical historical historical and a race that has gained a uniqueness of their own uniqueness.. So people need to deal with this election with great interest and compassion.
 
 ...
 
 [Data](articles/a6f61d97.json)
 
+[Extended Data](ext_articles/a6f61d97.ext.json)
+
 ---
 
-### எதிராக செயல்பட்ட அனைவர் மீதும் வைத்தியர் முறைப்பாடு
+### Doctor's complaint on all those who have acted against
 
 *2024-11-07 19:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிராக-செயல்பட்ட-அனைவர்-மீதும்-வைத்தியர்-முறைப்பாடு/175-346733) · `ta`
 
-இனங்களுக்கு இடையே முறுகல் நிலையை தோற்றுவிக்கும் நோக்கில், திட்டமிடப்பட்ட சதித்திட்டமாக போலியான அறிக்கையை வௌியிட்டு தன்னை கைது செய்து துன்புறுத்திமைக்காக முறையான விசாரணை நடத்தப்பட வேண்டும் என வைத்தியர் மொஹமட் ஷாபி இன்று (07) பொது பாதுகாப்பு அமைச்சில் முறைப்பாடு பதிவு செய்துள்ளார்.
+Dr. Mohamed Shafi filed a complaint with the Ministry of Public Security, alleging harassment and false reports. He claims his arrest was part of a conspiracy to create conflict. The doctor accuses those who acted against him of pressuring his family and only pursuing complaints after his detention.
 
-"5 ஆண்டுகள் 6 மாதங்கள். இயன்றவரை தன்னை துன்புறுத்தினார்கள். நேற்று விடுதலையானது நான் இல்லை, நீதிக்காக நின்றவர்கள் அனைவரும்தான். இந்த தவறு வேறு யாருக்கும் நடக்காமல் இருக்க நான் செய்ய வேண்டிய கடமைகள் சில உண்டு. எனக்கு எதிராக செயல்பட்ட அனைவரின் சார்பிலும் முறைப்பாடு ஒன்றை செய்துள்ளேன். என்னை கைது செய்ததன் பின்னரே முறைப்பாடுகளை தேடிச் சென்றனர். எனக்கும் மனைவி மற்றும் பிள்ளைகளுக்கு கடுமையான அழுத்தங்களை கொடுத்தனர்." என்றார். R
+🟩
+
+Dr. Mohamed Shafi has lodged a complaint with the Ministry of Public Security today (07) demanding that a systematic investigation into the harassment of the fake reports and the arrest of himself as a planned conspiracy to create a clash.
+
+“5 years 6 months. Hurts himself as much as possible. Yesterday's release was not, all those who stood for justice were. This mistake has some of the obligations I have to do to keep anyone else from happening. I have lodged a complaint on behalf of all those who acted against me. They went looking for complaints only after the arrest of me. They gave me serious pressure on my wife and children. ”. Remble
 
 ◼️
 
 [Data](articles/523367c0.json)
+
+[Extended Data](ext_articles/523367c0.ext.json)
 
 ---
 
@@ -312,19 +342,27 @@ The public is asked to take adequate precautions to reduce the effects of lightn
 
 ---
 
-### ஊடகங்களுக்கு எதிரான நிலைப்பாடுகளுடன் அரசாங்கத்தால் முன்னோக்கிப் பயணிக்க முடியாது - டலஸ்
+### The government cannot travel forward with the stands against the media - Dalus
 
 *2024-11-07 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198133) · `ta`
 
-ஊடகங்களுக்கு எதிரான நிலைப்பாடுகளுடன் அரசாங்கத்தால் முன்னோக்கிப் பயணிக்க முடியாது. ஊடக சுதந்திரம் அற்ற நாட்டில் ஜனநாயகம் உள்ளிட்ட எதையும் எதிர்பார்க்க வேண்டாம். இது நாட்டின் அழிவுக்கான ஆரம்பமாகக் கூட இருக்கலாம் என முன்னாள் பாராளுமன்ற உறுப்பினர் டலஸ் அழகப்பெரும தெரிவித்தார்.
+Government threatens media freedom, opposition criticizes suppression. Media essential for democracy. Threats undermine democratic progress.
 
-கொழும்பிலுள்ள ஐக்கிய மக்கள் கூட்டணி அலுவலகத்தில் வியாழக்கிழமை (07) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+🟩
 
-தற்போதைய அரசாங்கத்தால் ஊடகங்களுக்கு பாரிய அச்சுறுத்தல் ஏற்பட்டுள்ளது. நாட்டின் முதற்பிரஜையான ஜனாதிபதி அநுரகுமார திஸாநாயக்க முதன் முதலாக ஊடகங்களுக்கு அச்சுறுத்தல் விடுத்தார். ஊடகங்கள் புதிய ஆடை அணிய வேண்டும் என்று அவர் குறிப்பிட்டது ஊடகங்களுக்கு விடுக்கப்பட்ட எச்சரிக்கையாகும்.
+The government cannot travel forward with the stands against the media. Don't expect anything, including democracy in a country without media freedom. Former parliamentarian Dullas Alahapperuma said this may be the beginning of the country's destruction.
+
+He further stated that this was at a press conference held at the United People's Alliance office in Colombo on Thursday (07).
+
+The current government has a massive threat to the media. President Anura Kumara Dissanayake threatened the media for the first time. He noted that the media should wear new clothes.
+
+In addition, Minister Vijitha Herath, who is responsible for the department, said that the media should experience uncontrolled freedom and reduce it.. This is something we heard every day. During his speech on the election platform before coming to power, they even said that some media outlets would have to be closed after we arrived.
 
 ...
 
 [Data](articles/dda5d9ae.json)
+
+[Extended Data](ext_articles/dda5d9ae.ext.json)
 
 ---
 

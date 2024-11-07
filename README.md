@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 20:24:35**
+As of **2024-11-07 20:40:20**
 
 ## Newspaper Stats
 
@@ -26,41 +26,53 @@ adaderanasinhalalk | 9,342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,597 (100.0%) of 53,599 articles have been extended.
+53,599 (100.0%) of 53,599 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### ශකීබ්ගේ සියලු බැංකු ගිණුම් අත්හිටුවයි
+### Shakucki suspends all bank accounts
 
 *2024-11-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203015) · `si`
 
-බංග්ලා‍දේශ ක්‍රිකට් කණ්ඩායමේ තුන්ඉරියව් ක්‍රීඩක ශකීබ් අල් හසන්ගේ සියලු  බැංකු ගිණුම්, බංග්ලදේශ මූල්‍ය බුද්ධි ඒකකය මගින් අත්හිටුවා තිබේ.
+Shakucki suspends Bangladesh cricket team bank accounts. Shakeb al Hasan's future uncertain due to financial issues affecting team.
 
-මෙම තත්ත්වය මත ශකීබ් අල් හසන්ගේ අනාගත ක්‍රිකට් ක්‍රීඩා දිවියද මේ වනවිට අවිනිශ්චිත තත්වයකට පත්ව ඇති බව වාර්තා වේ.
+🟩
+
+Shakeb al Hasan suspended all bank accounts, bank accounts, bank accounts, bank accounts of the Bangladesh cricket team.
+
+According to this situation, Shakeb al Hasan's future cricket coal is also uncertain.
 
 ◼️
 
 [Data](articles/99a612af.json)
 
+[Extended Data](ext_articles/99a612af.ext.json)
+
 ---
 
-### கொழும்பில் காற்றின் தரம் குறைந்து இருள் சூழ்கிறது
+### The quality of the wind in Colombo is diminished and darkness
 
 *2024-11-07 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198142) · `ta`
 
-கொழும்பு உட்பட தீவின் பல நகரங்களில் காற்றின் தரக் குறியீடு "சற்று ஆரோக்கியமற்ற நிலையை" எட்டியுள்ளது.
+Colombo air quality worsens; "slightly unhealthy" levels reported. National Building Research Institute advises seeking medical help if experiencing breathing difficulties. Wind quality scores range from 118 to 130 in various cities across Sri Lanka.
 
-இதன் விளைவாக, சுவாசிப்பதில் சிலர் சிரமங்களை சந்தித்தால் அவர்கள் மருத்துவ ஆலோசனையைப் பெற வேண்டும் என்று தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் கூறியது.
+🟩
 
-காற்றின் தரமானது இன்று வியாழக்கிழமை (7) கொழும்பு மற்றும் கண்டி நகரங்களின் காற்றின் தரச் சுட்டெண் 122 முதல் 130 வரையிலும், குருநாகலில் 118 முதல் 126 வரையிலும் இருந்தது.
+In many cities of the island, including Colombo, the quality code of the wind has reached “slightly unhealthy”.
 
-மேலும், கண்டி, கேகாலை, இரத்தினபுரி, எம்பிலிப்பிட்டிய, பதுளை, மட்டக்களப்பு, களுத்துறை, அம்பாந்தோட்டை மற்றும் மொனராகலை ஆகிய நகரங்களில் நிலைமை சுட்டெண் சற்று சாதகமற்ற மட்டத்திற்கு உயர்ந்துள்ளமை குறிப்பிடத்தக்கது.
+As a result, the National Building Research Institute said that if some people face difficulties in breathing, they should seek medical advice.
+
+The quality of the wind was 122 to 130 and 118 to 126 in Kurunegala on Thursday (7).
+
+In addition, the situation in Kandy, Kegalle, Ratnapura, Embilipitiya, Badulla, Batticaloa, Kalutara, Hambantota and Moneragala has risen to a slightly unfavorable level.
 
 ◼️
 
 [Data](articles/ec0af90b.json)
+
+[Extended Data](ext_articles/ec0af90b.ext.json)
 
 ---
 

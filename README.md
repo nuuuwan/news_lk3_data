@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 15:24:34**
+As of **2024-11-07 15:40:24**
 
 ## Newspaper Stats
 
-*Scraped **53,562** Articles*
+*Scraped **53,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,007
-adaderanalk | 6,382
-tamilmirrorlk | 7,458
+adaderanalk | 6,383
+tamilmirrorlk | 7,459
 virakesarilk | 8,667
-adaderanasinhalalk | 9,333
+adaderanasinhalalk | 9,334
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,562 (100.0%) of 53,562 articles have been extended.
+53,562 (100.0%) of 53,565 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ඩොනල්ඩ් ට්‍රම්ප් ට කමලා හැරිස් ගෙන් සුබ පැතුම්
+
+*2024-11-07 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203006) · `si`
+
+අමෙරිකානු ජනාධිපතිවරණය ජයගනිමින් එරට 47 වැනි ජනාධිපතිවරයා ලෙස තේරීපත්වීමට හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඊයේ (06) සමත්විය.
+
+ඒ මැතිවරණයේදී කරට කර සටනක් දුන් වත්මන් රජයේ උප ජනාධිපතිනී කමලා හැරිස් පරාජයට පත්කරමින්.
+
+රුසියා යුක්‍රේන යුද්ධය අවසන් කිරීමට මෙන්ම මැදපෙරදිග දිගුකාලීන සාමයක් සඳහා ට්‍රම්ප් පාලනය යටතේ කිනම් පියවර ගනු ඇතිද යන්න මේ වනවිට ලෝකයේ වැඩි අවධානයට ලක්ව තිබේ.
+
+මෙතෙක් ප්‍රකාශිත ප්‍රතිඵලවලට අනුව මැතිවරණයේ තීරණාත්මක ප්‍රාන්ත හතෙන් පහක බලය තමන් සතු කරගෙන සිටි ට්‍රම්ප් දිනා ඇති ඡන්ද විද්‍යාල ගණන 294කි.
+
+වත්මන් ජනාධිපති ජෝ බයිඩන් මෙන්ම හිටපු ප්‍රබල ජනාධිපතිවරයෙක් වන බැරැක් ඔබාමාගේ පවා සෘජු සහාය ලැබූ කමලා හැරිස්ට තවමත් දිනාගැනීමට හැකිව ඇත්තේ ආසන 223ක් පමණි.
+
+දිගු නිහැඬියාවකින් අනතුරුව සිය මැතිවරණ ව්‍යාපාරය අවසන් කළ කමලා හැරිස්, සිය මැතිවරණ සටන නිමාකිරීමේ දේශනය වොෂින්ටන් නුවර හාවර්ඩ් විශ්වවිද්‍යාල භූමියේදී පැවැත්වූවාය.
+
+එහිදී ඇය පැවසුවේ තමා ට්‍රම්ප් ට ජයග්‍රහණය වෙනුවෙන් සුබ පැතූ බවයි.
+
+එසේම බල හුවමාරුව සුමට අයුරින් සිදුවීමට උදව් කරන බවත් ඇය දැනුම්දී තිබුණාය.
+
+...
+
+[Data](articles/668f5b24.json)
+
+---
+
+### Sri Lanka’s official reserves up by 7.9% in October
+
+*2024-11-07 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103238/sri-lankas-official-reserves-up-by-79-in-october-) · `en`
+
+Sri Lanka’s official reserve assets have significantly increased to USD 6.46 billion in October 2024, according to the Central Bank of Sri Lanka (CBSL).
+
+This is an increase of 7.9% compared to the USD 5.99 billion recorded in September 2024.
+
+Sri Lanka’s foreign currency reserves, which is the main component of official reserve assets, have also shown a significant increase to USD 6.38 billion. This is an increase of 7.3% compared to USD 5.94 billion in September 2024.
+
+In the meantime, the official gold reserves have increased to USD 42 million in October from the USD 40 million in September 2024.
+
+This is an increase of 5.8% compared to the month of September, according to the CBSL.
+
+However, this includes proceeds from the swap with the People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
+
+◼️
+
+[Data](articles/2011a88e.json)
+
+---
+
+### இளம் ஆசிரியர் சடலமாக மீட்பு
+
+*2024-11-07 15:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-ஆசிரியர்-சடலமாக-மீட்பு/175-346723) · `ta`
+
+புல்மோட்டை மத்திய கல்லூரியில் ஆசிரியராக பணியாற்றி வந்த நற்பிட்டிமுனையை பிறப்பிடமாகவும் முல்லைத்தீவை வசிப்பிடமாகவும் கொண்ட நூஹு லெப்பை மொகமட் முபீஸ் (28) பாடசாலையில் அவர் தங்கியிருந்தஅறையில் இருந்து புதன்கிழமை (06) மாலை சடலமாக மீட்கப்பட்டுள்ளார்.
+
+புதன் காலை பாடசாலை வரவு    பதிவு இயந்திரத்தில் வருகையை பதிவு செய்த பின்னர் இவர் வகுப்பறைகளுக்கு சென்று காலை 10.30 மணி வரை பாடம் நடத்தி உள்ளார். அப்போது தனது இடமாற்றம் தொடர்பாக        மாகாண ஆளுநரைச் சந்திக்க  திருகோணமலை நகரிற்கு செல்ல உள்ளதாக மாணவர்களுக்கு கூறியுள்ளார்.
+
+இந்நிலையில் பாடசாலை முடிவடைந்த பின்னர் மாலை 3.30 மணிவரை வெளியேறுவதற்கான பதிவை இயந்திரத்தில் இவர் பதிவு செய்யவில்லை.
+
+இதே வேளை இவரது மனைவி தமது கணவருக்கு தொலைபேசி அழைப்பை மேற்கொண்ட போதும் பதில் இல்லை,எனவே எங்கே எனது கணவர் உள்ளார் என்று பாடசாலை அதிபருக்கு தொலைபேசியில் தொடர்பு கொண்டு வினவியுள்ளார்.
+
+...
+
+[Data](articles/d5a1d51f.json)
+
+---
 
 ### Passport crisis: Immigration officers claim higher-ups concealed actual situation from Minister
 
@@ -2331,65 +2397,5 @@ Alumex PLC brings these advanced manufacturing capabilities to Sri Lanka to cate
 [Data](articles/8be5735a.json)
 
 [Extended Data](ext_articles/8be5735a.ext.json)
-
----
-
-### Sithara awarded Bronze at CNCI Achiever Awards 2024
-
-*2024-11-07 00:39:12* · [`dailyftlk`](https://www.ft.lk/business/Sithara-awarded-Bronze-at-CNCI-Achiever-Awards-2024/34-768916) · `en`
-
-From left: M.G. Ranasinghe (Sithara), Chamara Amaratunga (Sithara), Sithara CEO Malinda Tennakoon, CNCI Vice Chairman/Internal Judging Committee Chairman Amila Sugathapala, Sithara Director Chayanka Wickremesinghe, Additional Minister of Industries Chaminda Pathiraja, CNCI Vice Chairman/ Steering Committee Chairman Ravi Rupasinghe, and Sithara General Manager – Operations H.B. Anandaratne
-
-Sithara Ltd., a printing ink manufacturer, was presented a Bronze Award at the CNCI Achiever Awards 2024 for industrial excellence, organised by the Ceylon National Chamber of Industries.
-
-...
-
-[Data](articles/1e754593.json)
-
-[Extended Data](ext_articles/1e754593.ext.json)
-
----
-
-### “NPP Govt. will never fall” – Chathuranga Abeysinghe
-
-*2024-11-07 00:25:49* · [`dailyftlk`](https://www.ft.lk/columns/NPP-Govt-will-never-fall-Chathuranga-Abeysinghe/4-768915) · `en`
-
-The National Planning Unit will be strengthened so that every proposal has to go through this unit which will be reviewed for their importance, feasibility and whether they are connecting other relevant areas. Therefore, national policies will be guide books for Sri Lanka to move forward
-
-Says Govt. wants to create an efficient State sector coupled with new technology
-
-Says the NPP came into power not to take revenge or to appoint own people but to stabilise and bring prosperity to the country
-
-Explains the Govt. officials who are aligned with party principles and policies, can continue with their given tasks
-
-Adds actions and decisions of State officials will be very much politically reviewed and understood
-
-Confirms the Central Bank is an independent body from an Act and the fiscal strategies are separate
-
-Highlights Govt.’s plans on providing support to SMEs by introducing a banking system to get collateral free loans and also a relief bank to provide non-performing loans from commercial banks
-
-...
-
-[Data](articles/58a09228.json)
-
-[Extended Data](ext_articles/58a09228.ext.json)
-
----
-
-### Truth, lies, national security,  and value of democratic Opposition
-
-*2024-11-07 00:13:53* · [`dailyftlk`](https://www.ft.lk/columns/Truth-lies-national-security-and-value-of-democratic-Opposition/4-768914) · `en`
-
-JR’s words from 1956 are a wake-up call for us today. As a politician who lost his parliamentary seat, where the powerful UNP was reduced to 8 seats by S.W.R.D. Bandaranaike’s M.E.P and its wave of Sinhala nationalism, JR’s speech was a warning of the dangers of a powerful Government without strong opposition
-
-The prerequisite of our political life is the alternation of political teams in office. Indeed, what we think of as “democracy” is intimately bound up with this system of alternation, as our main liberties coincide with those necessary for the “outs” to rally support and oust the “ins.”
-
-The above writing by the French philosopher and author Bertrand de Jouvenel is quoted by JR in a speech titled “Role of the Opposition in a Parliamentary Democracy” on 7 September 1956, the year of the UNP’s most humiliating defeat to S.W.R.D. Bandaranaike’s Mahajana Eksath Peramuna (M.E.P). The defeat of 2020 cannot be counted, as the SJB is ideologically the UNP by another name.
-
-...
-
-[Data](articles/c826ecf4.json)
-
-[Extended Data](ext_articles/c826ecf4.ext.json)
 
 ---

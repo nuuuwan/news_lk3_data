@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 21:59:44**
+As of **2024-11-07 22:14:07**
 
 ## Newspaper Stats
 
-*Scraped **53,603** Articles*
+*Scraped **53,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,49 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,016
+adalk | 5,017
 adaderanalk | 6,390
 tamilmirrorlk | 7,464
 virakesarilk | 8,675
-adaderanasinhalalk | 9,343
+adaderanasinhalalk | 9,344
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,603 (100.0%) of 53,603 articles have been extended.
+53,605 (100.0%) of 53,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Interim base of elephants is an interim injunction
+
+*2024-11-07 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203017) · `si`
+
+Supreme Court issues interim injunction against unregistered elephant cases. Suspends Colombo Magistrate Court proceedings. Directs no further action on related matters.
+
+🟩
+
+The Supreme Court today (07) awarded the Supreme Court today (07), preventing the case with unregistered elephants.
+
+The order has been issued after considering a motion filed by a fundamental rights petition filed by the natural and cultural study.
+
+This order issued the order by Sri Lanka Surren Surasena and Arjuna Obeysekere.
+
+President's Counsel Sanjeewa Jayawardena appearing on behalf of the petitioner, Sanjeewa Jayawardena said that the Court of Appeal had previously issued an order before the release of elephants who were not registered with unregistered elephants.
+
+The President's Counsel argued that the elephants were presented by the owners of the elephants in the Anuradhapura Magistrate's Court as the elephants were presented in the Colombo Magistrate's Court.
+
+After considering the submissions, the panel order to suspend the examination of the case before the Colombo Magistrate's Court immediately.
+
+...
+
+[Data](articles/3b76f23b.json)
+
+[Extended Data](ext_articles/3b76f23b.ext.json)
+
+---
 
 ### Extension of time to hand over firearms
 
@@ -231,6 +259,34 @@ The shooting has been carried out by one individual while the motive behind the 
 [Data](articles/24c4bf25.json)
 
 [Extended Data](ext_articles/24c4bf25.ext.json)
+
+---
+
+### I have no evidence as a politician
+
+*2024-11-07 19:19:00* · [`adalk`](https://www.ada.lk/breaking_news/මම-දේශපාලනඥයෙක්-හැටියට-සද්ද-බද්ද-නෑ/11-412919) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan politician Ruwan Vijayarawa criticizes current politics, saying most focus on attention rather than genuine work. He emphasizes his commitment to serving the country honestly, despite challenges in changing political culture.
+
+🟩
+
+Most politicians today are acting in such a politics, "said Ruwan Vijayarawa, the deputy leader of the UNP, the deputy leader of the UNP.
+
+He said that the students today refuse such politics. Mr. Ruwan Vijaya was expressed.
+
+"I have no evidence as a politician. Working as needed. The majority of the politics of today take the attention of the people as much as possible. But my character is this. Some change is in this country. Political culture is also different from. Today, the youths are muddy and the sound of the Sadays of Sadays, the Politics of Sudden taxes, shows.
+
+Especially why young people are trying to serve the country is a feeling that this country needs. I think my character is hard to change. The lie is putting out and not shout. I think the people who appreciate my service will a good decision.
+
+...
+
+[Data](articles/ddfcadcf.json)
+
+[Extended Data](ext_articles/ddfcadcf.ext.json)
 
 ---
 
@@ -2407,51 +2463,5 @@ The Ministry of Defense has informed all licenses to hand over the appropriate g
 [Data](articles/e8bc6c64.json)
 
 [Extended Data](ext_articles/e8bc6c64.ext.json)
-
----
-
-### Biden rushing assistance to Ukraine, with aid uncertain under Trump
-
-*2024-11-07 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103225/biden-rushing-assistance-to-ukraine-with-aid-uncertain-under-trump) · `en`
-
-The White House plans to rush billions of dollars in security assistance to Ukraine before President Joe Biden leaves office in January, sources said on Wednesday, hoping to shore up the government in Kyiv before President-elect Donald Trump’s Jan. 20 inauguration.
-
-“The administration plans to push forward ... to put Ukraine in the strongest position possible” a senior administration official said on condition of anonymity, before its term ends in January.
-
-Trump has been critical of Biden’s assistance for Ukraine, fueling concern about the future of support for President Volodomyr Zelenskiy’s government under a Republican-controlled White House, Senate and possibly the House of Representatives.
-
-The House has been narrowly controlled by Republicans since January 2023, and it was not clear by Wednesday afternoon whether the party had won enough seats in Tuesday’s elections to keep Democrats from winning a slim majority.
-
-...
-
-[Data](articles/dcab61d9.json)
-
-[Extended Data](ext_articles/dcab61d9.ext.json)
-
----
-
-### The work of fuging the work of fleeing a drunken motorcy
-
-*2024-11-07 09:11:29* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-යතුරු-පැදියක්-පදවා-දෙදරු-මවක-යටකර-පළාගිය-සැරයන්ගේ-වැඩ-තහනම්/11-412902) · `si`
-
-Sergeant banned for drunk riding, released on bail for DUI, accident, and invalid license issues.
-
-🟩
-
-Kalutara Senior Superintendent of Police (SP)
-
-Sanath Gunawardena is currently under the Trincomalee District at the Kalutara District Secretariat.
-
-It is also said that the ban on the signature of Mr. Kavinda Piyasachara has been suspended since 06 (06).
-
-The Sergeant of the Police stated that he had been banned after he was drunk in the dash of two October at around October 3:30.
-
-The sergeant has been released on bail under the presence of drunken driving, accident and running a valid driving license and running without a valid driver's license.
-
-◼️
-
-[Data](articles/aa5d65f0.json)
-
-[Extended Data](ext_articles/aa5d65f0.ext.json)
 
 ---

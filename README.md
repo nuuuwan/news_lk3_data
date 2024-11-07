@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 14:59:15**
+As of **2024-11-07 15:10:39**
 
 ## Newspaper Stats
 
-*Scraped **53,557** Articles*
+*Scraped **53,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,007
 adaderanalk | 6,380
 tamilmirrorlk | 7,457
-virakesarilk | 8,665
+virakesarilk | 8,667
 adaderanasinhalalk | 9,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,557 (100.0%) of 53,557 articles have been extended.
+53,559 (100.0%) of 53,559 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,58 @@ The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
 [Data](articles/86a81cca.json)
 
 [Extended Data](ext_articles/86a81cca.ext.json)
+
+---
+
+### Sujeewa Senasinghe is confident that parliamentary power can be seized
+
+*2024-11-07 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198114) · `ta`
+
+Sujeewa Senasinghe claims parliamentary power can be seized due to public frustration. He expects people to make better choices than past elections.
+
+🟩
+
+People are frustrated with the government. Our goal was to come up with a strong opposition party. Former parliamentarian Sujeewa Senasinghe said that it is now hopeful that parliamentary power can be seized.
+
+He further stated at a press conference held at the United People's Alliance headquarters in Colombo on Thursday (07).
+
+We were surprised when we spoke directly with people. They are in frustration. Our goal was to come up with a strong opposition.
+
+But now there is hope that parliamentary power can be seized. We expect that the people will make the right decision this time, without making decisions like the presidential election.
+
+Although they informed the Criminal Investigation Division to come to my home and carry out the tests, they did not take action.. If so, why are false charges against us?
+
+I am looking forward to legal action on the allegations made. Rohana Wijeweera's party member who fought for democracy on that day is now acting as anti -democratic.
+
+◼️
+
+[Data](articles/04813b05.json)
+
+[Extended Data](ext_articles/04813b05.ext.json)
+
+---
+
+### Use votes to create an era that makes people's dreams come true - Sajith
+
+*2024-11-07 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198113) · `ta`
+
+Sajith Premadasa: "Use votes to create an era where people's dreams come true." Promises include reducing passport lines, lowering food costs, eliminating bribery, and lowering fuel prices. Criticizes opponent Anura Kumara Dissanayake's handling of fuel subsidies and electricity tariffs. Claims to reduce tax burden and increase public official salaries.
+
+🟩
+
+Sajith Premadasa said that the presidential candidate Anura Kumara Dissanayake was in the process of giving the United People's Power in the upcoming general election and using the votes to create the dream of the people's dreams.
+
+United People's Power President Sajith Premadasa said this while addressing a public meeting held in Gampaha yesterday.
+
+President Anura Kumara Dissanayake has made many promises that the solution to the passport line, his promises to reduce the cost of food, and that they will eliminate bribery and fuel at low prices.The leader of the recently appointed Pottoliya Corporation of Anura Kumara Dissanayake is not clear about such corruption.
+
+He is currently telling a story on the election stage and now different stories. President has become addicted to the fuel price formula. He identified himself as the leader of the proletariat and took steps to reduce the fuel of vehicles used by the rich.
+
+...
+
+[Data](articles/286188dd.json)
+
+[Extended Data](ext_articles/286188dd.ext.json)
 
 ---
 
@@ -2329,45 +2381,5 @@ The argument that Sri Lanka is self-sufficient in rice does not hold water. Ther
 [Data](articles/41dc8049.json)
 
 [Extended Data](ext_articles/41dc8049.ext.json)
-
----
-
-### Harini or Sajith: Who is more necessary, can contribute more?
-
-*2024-11-06 23:30:25* · [`dailyftlk`](https://www.ft.lk/columns/Harini-or-Sajith-Who-is-more-necessary-can-contribute-more/4-768910) · `en`
-
-‘“We aim to leave power only once we have successfully rebuilt this nation” Dissanayake pledged, addressing a rally in Nuwara Eliya…’
-
-Throughout 2024 I consistently urged that the choice be either Sajith or Anura (or vice versa) -- and never Ranil-- to effect a generational tectonic-shift. Given the primary challenge of managing the economic crisis, I thought Sajith Premadasa would make a better President.
-
-Noting that we have two national elections, the presidential and the parliamentary/prime ministerial, I observed that we can always accommodate both young leaders, one in each post.
-
-At the Presidential election most Sri Lankan voters voted quite understandably with their heart and an Aragalaya attitude, for the greatest degree of change, the most progressive and radical they thought possible. A break with the Establishment, voting for Anura was a step forward.
-
-...
-
-[Data](articles/fad8c040.json)
-
-[Extended Data](ext_articles/fad8c040.ext.json)
-
----
-
-### Coconut: The next ‘tea’ for Sri Lanka?
-
-*2024-11-06 23:02:59* · [`dailyftlk`](https://www.ft.lk/columns/Coconut-The-next-tea-for-Sri-Lanka/4-768909) · `en`
-
-How the demand for value-added coconut products can catapult the industry as the number one export and foreign exchange generator for Sri Lanka, surpassing tea
-
-Any traveller landing in Katunayake Airport during the day can’t help but notice and marvel at the lush greenery one sees especially the thick groves of coconut trees all along the beautiful beaches and the beautiful coastline from the sky. You would then easily believe that coconuts must be a key part of Sri Lankan people’s palette, livelihoods and contributor to the economy.
-
-But the crop that has always been the biggest economic contributor, until now, is tea.
-
-Tea is numero uno in Sri Lanka. The famed ‘Ceylon Tea’ fetches Sri Lanka nearly $ 1.3 billion and employs over a million people. Alongside garments, tourism and worker remittances, they form the base of Sri Lanka’s economy and provide the foreign currency needed to import many essentials, like fuel and medicine.
-
-...
-
-[Data](articles/5c71d085.json)
-
-[Extended Data](ext_articles/5c71d085.ext.json)
 
 ---

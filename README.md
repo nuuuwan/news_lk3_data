@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 09:13:55**
+As of **2024-11-07 09:24:52**
 
 ## Newspaper Stats
 
-*Scraped **53,495** Articles*
+*Scraped **53,498** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,200
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 4,997
-adaderanalk | 6,372
-tamilmirrorlk | 7,447
+adalk | 4,998
+adaderanalk | 6,373
+tamilmirrorlk | 7,448
 virakesarilk | 8,648
 adaderanasinhalalk | 9,323
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,493 (100.0%) of 53,495 articles have been extended.
+53,495 (100.0%) of 53,498 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Biden rushing assistance to Ukraine, with aid uncertain under Trump
+
+*2024-11-07 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103225/biden-rushing-assistance-to-ukraine-with-aid-uncertain-under-trump) · `en`
+
+The White House plans to rush billions of dollars in security assistance to Ukraine before President Joe Biden leaves office in January, sources said on Wednesday, hoping to shore up the government in Kyiv before President-elect Donald Trump’s Jan. 20 inauguration.
+
+“The administration plans to push forward ... to put Ukraine in the strongest position possible” a senior administration official said on condition of anonymity, before its term ends in January.
+
+Trump has been critical of Biden’s assistance for Ukraine, fueling concern about the future of support for President Volodomyr Zelenskiy’s government under a Republican-controlled White House, Senate and possibly the House of Representatives.
+
+The House has been narrowly controlled by Republicans since January 2023, and it was not clear by Wednesday afternoon whether the party had won enough seats in Tuesday’s elections to keep Democrats from winning a slim majority.
+
+...
+
+[Data](articles/dcab61d9.json)
+
+---
+
+### பொய்யான தகவல்களை வழங்குபவர்களுக்கு கடுமையான எச்சரிக்கை
+
+*2024-11-07 09:06:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-தகவல்களை-வழங்குபவர்களுக்கு-கடுமையான-எச்சரிக்கை/175-346701) · `ta`
+
+அனுரகுமார திஸாநாயக்க ஜனாதிபதியாக நியமிக்கப்பட்ட பின்னர் அறிமுகப்படுத்தப்பட்ட 1997 அவசர தொலைபேசி இலக்கத்திற்கு கிடைத்த நூற்றுக்கும் மேற்பட்ட முறைப்பாடுகளில் 18 முறைப்பாடுகள் மட்டுமேசரியானவை என பொலிஸ் ஊடகப் பேச்சாளரும் பிரதி பொலிஸ் மா அதிபருமான சட்டத்தரணி நிஹால் தல்துவ தெரிவித்தார்.
+
+மேலும், இதுபோன்ற பொய்யான தகவல்களை வழங்குபவர்களுக்கு எதிராக சட்டப்படி நடவடிக்கை எடுக்கப்படும் என்றும் அவர் கூறினார்.
+
+முன்னாள் பாராளுமன்ற உறுப்பினர் சுஜீவ சேனசிங்கவின் வீட்டில் சட்டவிரோதமான முறையில் வாகனம் ஒன்று இருப்பதாக கிடைத்த தகவலின் அடிப்படையில் அண்மையில் சோதனை நடத்தப்பட்டது.
+
+இதேவேளை, தூதுவர்கள், இராஜதந்திரிகள் மற்றும் பிரபல வர்த்தகர்கள் வசிக்கும் ஷங்ரிலா சொகுசு கட்டடத் தொகுதியில் வாகனம் ஒன்றில் வெடிகுண்டு இருப்பதாக கிடைத்த தகவலின் அடிப்படையில் கடந்த சனிக்கிழமை சோதனை நடத்தப்பட்டதாக ஊடகப் பேச்சாளர் தெரிவித்தார்.
+
+அன்றைய தினம் அவ்வாறான வெடிகுண்டு எதுவும் கண்டுபிடிக்கப்படவில்லை என அரசாங்க தகவல் திணைக்களத்தில் நேற்று (06) நடைபெற்ற அமைச்சரவை முடிவுகளை அறிவிக்கும் செய்தியாளர் மாநாட்டில் தெரிவித்தார். R
+
+◼️
+
+[Data](articles/886eba68.json)
+
+---
 
 ### General Election campaigning ends on Monday
 
@@ -47,6 +85,8 @@ Meanwhile, postal voters who were unable to cast their votes on the designated d
 ◼️
 
 [Data](articles/ceae3cda.json)
+
+[Extended Data](ext_articles/ceae3cda.ext.json)
 
 ---
 
@@ -67,6 +107,8 @@ Furthermore, the Defence Ministry stated that they will be returned pending a re
 ...
 
 [Data](articles/5f609ab8.json)
+
+[Extended Data](ext_articles/5f609ab8.ext.json)
 
 ---
 
@@ -209,6 +251,20 @@ A man who had fallen near a three-wheeler on the Kandy Makadiya road in Kandy ar
 [Data](articles/818227cb.json)
 
 [Extended Data](ext_articles/818227cb.ext.json)
+
+---
+
+### ට්‍රම්ප් සමග සහයෝගයෙන් කටයුතු කරන්න ජනපති අනුර සූදානම්
+
+*2024-11-07 07:45:18* · [`adalk`](https://www.ada.lk/breaking_news/ට්‍රම්ප්-සමග-සහයෝගයෙන්-කටයුතු-කරන්න-ජනපති-අනුර-සූදානම්/11-412900) · `si`
+
+අමෙරිකා එක්සත් ජනපදයේ 47 වැනි ජනාධිපතිවරයා ලෙස තේරී පත් වූ ඩොනල්ඩ් ට්‍රම්ප් මහතාට ජනාධිපති අනුර කුමාර දිසානායක මහතා සිය නිල X ගිණුමේ පණිවිඩයක් නිකුත් කරමින් සුබ පැතුම් එක්කර තිබේ.
+
+"අමෙරිකා එක්සත් ජනපදයේ 47 වැනි ජනාධිපතිවරයා ලෙස වැඩි ඡන්ද ප්‍රමාණයක් ලබා ගනිමින්  තේරී පත් වූ ඩොනල්ඩ් ජේ. ට්‍රම්ප් @realDonaldTrump වෙත උණුසුම් සුබ පැතුම් පිරිණමමි. ශ්‍රී ලංකාවේ සහ එක්සත් ජනපදයේ ජනතාවට ප්‍රයෝජනවත් වන අපගේ සබඳතාවල පොදු අරමුණු සාක්ෂාත් කර ගැනීම සඳහා ඔබ සමඟ සම්බන්ධව කටයුතු කිරීමට මම බලාපොරොත්තු වෙමි."
+
+◼️
+
+[Data](articles/d58a3a8b.json)
 
 ---
 
@@ -2271,81 +2327,5 @@ Road accidents claim thousands of lives annually. Government pays Rs 38.14 milli
 [Data](articles/c13acac6.json)
 
 [Extended Data](ext_articles/c13acac6.ext.json)
-
----
-
-### In the Central African Republic. Na. Sri Lanka Air Force to depart for peacekeeping
-
-*2024-11-06 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198054) · `ta`
-
-Sri Lanka Air Force deploys 108 personnel to UN peacekeeping mission in Central African Republic. The group includes 20 officers and 88 soldiers. They will engage in various tasks such as supporting war operations, transporting VIPs, goods, and providing medical assistance. This marks the 9th year of Sri Lanka's involvement in UN peacekeeping efforts, contributing over $130 million since 2014.
-
-🟩
-
-Sri Lanka Air Force members who are due to depart for the United Nations peacekeeping work in the Central African Republic took place at the Katunayake Air Force Base at the Katunayake Air Force Base.
-
-The parade of Sri Lanka Air Force members, Air Force Commander Air Marshal Udhani Rajapaksa, was proudly held at the Katunayake Air Force Base for the UN Peacekeeping Work in the Central African Republic.
-
-The Sri Lanka Air Force's 10th Group, which will depart for the United Nations peacekeeping work in the Central African Republic, has 20 officers and 88 soldiers.
-
-From 2014 to the present, the Sri Lanka Air Force has provided the Treasury of $ 130 million by engaging in peaceful duties.
-
-The Sri Lankan Air Force members, who have been assigned to the UN peacekeeping operations, contribute to war operations in the Central African Republic and support the troops, VIP transport, food and freight transport, internal aircraft, parachute landing and medical transport.
-
-◼️
-
-[Data](articles/65a2a2a7.json)
-
-[Extended Data](ext_articles/65a2a2a7.ext.json)
-
----
-
-### Recalled political appointees in foreign service set deadline to return
-
-*2024-11-06 16:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103210/recalled-political-appointees-in-foreign-service-set-deadline-to-return) · `en`
-
-Sri Lanka’s Cabinet Spokesman and Foreign Minister Vijitha Herath says that certain officials appointed to the country’s Foreign Service on a political basis have been instructed to return to the island by December 01.
-
-Addressing the Cabinet press briefing today (06), he claimed that the children and spouses of MPs and Ministers have also been directly appointed to positions below top diplomatic positions.
-
-He declared that such appointments would not be made in the future.
-
-“Individuals who were not part of the Foreign Service had been appointed as ambassadors and high commissioners to foreign nations. We have recalled 15 of them.”
-
-However, he stated that while the term political appointments is not applicable for all the appointments as some have previously served in the military in high-ranking positions and some have held various other responsibilities.
-
-...
-
-[Data](articles/bf82583d.json)
-
-[Extended Data](ext_articles/bf82583d.ext.json)
-
----
-
-### It is dangerous to provide a two -thirds majority to the national people's power - the son of Rohanavijayaweera
-
-*2024-11-06 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198053) · `ta`
-
-Dangerous two-thirds majority for JVP: Son warns against electoral disaster.
-
-🟩
-
-Wijeweera, son of JVP's founder Rohanavijayaweera, has warned that it is a dangerous thing to provide a two -thirds majority to the national popular power.
-
-The general secretary of the second generation of the party, Uvindu Wijeweera, said that the issuance of a two -thirds majority to the JVP in the upcoming parliamentary election would be a political disaster.
-
-He has appealed to voters to be cautious about the consequences that the JVP gets two -thirds.
-
-After gaining a major majority in the 1977 general election, JR Jayawardene recalled the political tactics that JR Jayawardene advanced, said Rohana Wijayaweera's son, not to bear such a situation.
-
-I do not think that the declaration of the national people's power to defeat corrupt politicians to clean up the parliament is wrong, but it is not right for voters to be elected only members of the national people's power at this moment.
-
-He has appealed for voters not to be killed by the propaganda of the national people's power.
-
-◼️
-
-[Data](articles/e9a4a028.json)
-
-[Extended Data](ext_articles/e9a4a028.ext.json)
 
 ---

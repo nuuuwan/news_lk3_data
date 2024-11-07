@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 18:21:07**
+As of **2024-11-07 18:34:40**
 
 ## Newspaper Stats
 
-*Scraped **53,584** Articles*
+*Scraped **53,585** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,011
+adalk | 5,012
 adaderanalk | 6,387
 tamilmirrorlk | 7,463
 virakesarilk | 8,669
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,339
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,584 (100.0%) of 53,584 articles have been extended.
+53,584 (100.0%) of 53,585 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -517,6 +517,22 @@ A police dog named “Amai” played a key role in the operation, which lasted n
 [Data](articles/e87322fd.json)
 
 [Extended Data](ext_articles/e87322fd.ext.json)
+
+---
+
+### ගම්මන්පිල ඇමති විජිතට ‘ පිං’ දුන්න හේතුව මෙන්න
+
+*2024-11-07 14:30:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිල-ඇමති-විජිතට-‘-පිං’-දුන්න-හේතුව-මෙන්න/11-412914) · `si`
+
+තමා ආරාධනා කළ විවාදයට පැමිණීම පිළිනොගනිමින් අමාත්‍ය විජිත හේරත් මහතා රට හමුවේ අසත්‍ය ප්‍රචාරය කරන බවට පිළිගෙන ඇති බව සර්වජන බලයේ මහ මැතිවරණ අපේක්ෂක උදය ගම්මන්පිල මහතා පැවසීය.
+
+කොළඹ අද (07දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“විජිත හේරත් ඇමතිතුමා කට ඇරියොත් කියන්නේ බොරු. පාස්කු වාර්තා ගැන කිව්වේ බොරු. ණය ලබා ගැනීම ගැන කිව්වේ බොරු. ඒත් එතුමා කියන්නේ මම බොරු කියනවා කියලා. එතුමාද බොරු කියන්නේ මමද බොරු කියන්නේ කියලා ජනතාවට තේරුම් ගන්න තමයි මම එතුමාට ප්‍රසිද්ධ විවාදයකට ආරාධනා කළේ. නමුත් එතුමා විවාදයකට සහභාගී වීම ප්‍රතික්ෂේප කිරීම හරහා එතුහා බොරු කියන බව පිළිගැනීමකට ලක් කරලා තියෙනවා. එහෙම කළාට බොහොම පිං. “
+
+◼️
+
+[Data](articles/04bbc296.json)
 
 ---
 
@@ -2419,31 +2435,5 @@ Dr. Shafi expressed these views to journalists after ordering to acquit and rele
 [Data](articles/5499d99e.json)
 
 [Extended Data](ext_articles/5499d99e.ext.json)
-
----
-
-### The only solution for the people
-
-*2024-11-07 03:03:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-சவே-மக்களுக்கு-இருக்கும்-ஒரே-தீர்வு/175-346697) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Current president's promises unfulfilled. Former president's IMF deal extended debt repayment. United People's Power leader Sajith Premadasa calls for renegotiation to avoid bankruptcy. Promises economic growth through exports, manufacturing, and increased income.
-
-🟩
-
-Although the current president has given many expectations from the presidential election platform, it is impossible to achieve anything today.. The former president said that he would immediately remove the uncontrolled tax burden on the president. United People's Power Leader Sajith Premadasa said he could not accomplish it.
-
-He discussed the President twice with the International Monetary Fund, but the country has not improved favorable. Sajith Premadasa also said that the International Coin Fund has denied the condition of taxing taxes.
-
-This is why I request the United People's Power to give the majority of the majority in the parliamentary election. Ranil Wickremesinghe and others will get out of the tax burden on the head of the people by negotiating with the International Monetary Fund in the United People's Power. Sajith Premadasa said he would take steps to carry out the International Monetary Agreement.
-
-...
-
-[Data](articles/d84feb25.json)
-
-[Extended Data](ext_articles/d84feb25.ext.json)
 
 ---

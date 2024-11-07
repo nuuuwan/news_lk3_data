@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 02:10:25**
+As of **2024-11-08 02:24:27**
 
 ## Newspaper Stats
 
-*Scraped **53,623** Articles*
+*Scraped **53,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
-tamilmirrorlk | 7,466
+tamilmirrorlk | 7,467
 virakesarilk | 8,677
 adaderanasinhalalk | 9,345
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,623 (100.0%) of 53,623 articles have been extended.
+53,623 (100.0%) of 53,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### தமிழ் பிரதிநித்துவத்தை ’நிச்சயம் வெல்வோம்’
+
+*2024-11-08 00:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பிரதிநித்துவத்தை-நிச்சயம்-வெல்வோம்/175-346751) · `ta`
+
+“மலையக மக்களை அரசியல் அநாதைகளாக்குவதற்கு நாம் இடமளிக்கமாட்டோம். நிச்சயம் தமிழ்ப் பிரதிநிதித்துவத்தை வென்றெடுப்போம்." என்று முன்னாள் பாராளுமன்ற உறுப்பினர் வடிவேல் சுரேஷ் தெரிவித்தார்.
+
+நுவரெலியா மாவட்டத்தில் உள்ள ஐக்கிய ஜனநாயக குரல் கட்சி ஆதரவாளர்களுக்கு கட்சியின் அறிமுகம் மற்றும் கொள்கைகளை அறிமுகப்படுத்தும் தேர்தல் பிரச்சாரக் கூட்டம் ஹட்டனில் புதன்கிழமை (07) இடம்பெற்றது.
+
+இந்த கூட்டத்தில் ஐக்கிய ஜனநாயக குரல் கட்சியின் தலைவர் ரஞ்சன் ராமநாயக்க, ஐக்கிய ஜனநாயக குரல் கட்சியின் நுவரெலியா மாவட்ட தலைமை வேட்பாளர் அனுஷா சந்திரசேகரன், ஷான் பிரதீஸ் உட்பட  பலரும் கலந்துகொண்டனர்.
+
+'பொதுத்தேர்தலில் நான் நுவரெலியா மாவட்டத்தில் போட்டியிட திட்டமிட்டிருந்தேன். ஆனால், எமது பதுளை மாவட்ட மக்கள் என்னை விடவில்லை.  மக்கள் பிரதிநிதித்துவத்தை காக்க நான் அங்கு போட்டியிடுகின்றேன்.
+
+...
+
+[Data](articles/4c5df907.json)
+
+---
 
 ### "If you say once a hundred times,"
 
@@ -2413,29 +2431,5 @@ In addition, the body of the deceased has been placed in the funeral room of the
 [Data](articles/c3aa91d9.json)
 
 [Extended Data](ext_articles/c3aa91d9.ext.json)
-
----
-
-### Britain supports the government's program to create a country free of corruption
-
-*2024-11-07 10:54:59* · [`adalk`](https://www.ada.lk/breaking_news/වංචා-දූෂණවලින්-තොර-රටක්-බිහි-කිරීමේ-රජයේ-වැඩපිළිවෙළට-බ්‍රිතාන්‍යයේ-සහාය/11-412903) · `si`
-
-Sri Lanka and Britain strengthen ties, UK supports anti-corruption efforts, IMF cooperation discussed, British parliamentary system shared to combat corruption.
-
-🟩
-
-Presidential Secretary Dr. Nandika Sanath Sanath and Sri Lanka British High Commissioner to Sri Lanka was a meeting at the Presidential Secretariat.
-
-The meeting stated that the British High Commissioner said that Sri Lanka and the British integrated into further strengthening existing bilateral relations.
-
-Andrew Patrick emphasized that the British government is prepared to achieve the government's program on the International Monetary Fund.
-
-The High Commissioner of Britain can also be able to educate Parliamentarians of British parliamentary tradition and reduce corruption through this methodology.. (I J)
-
-◼️
-
-[Data](articles/39ce6a57.json)
-
-[Extended Data](ext_articles/39ce6a57.ext.json)
 
 ---

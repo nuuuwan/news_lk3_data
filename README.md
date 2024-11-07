@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 13:40:50**
+As of **2024-11-07 13:59:59**
 
 ## Newspaper Stats
 
-*Scraped **53,546** Articles*
+*Scraped **53,554** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
 bbccomsinhala | 547
-colombotelegraphcom | 548
+colombotelegraphcom | 549
 islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
@@ -19,18 +19,82 @@ dailymirrorlk | 4,733
 adalk | 5,005
 adaderanalk | 6,380
 tamilmirrorlk | 7,456
-virakesarilk | 8,660
-adaderanasinhalalk | 9,331
+virakesarilk | 8,665
+adaderanasinhalalk | 9,333
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,546 (100.0%) of 53,546 articles have been extended.
+53,551 (100.0%) of 53,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### පාස්පෝට් ගැටලුව ගැන ආගමන හා විගමන නිලධාරීන්ගේ සංගමයෙන් නිවේදනයක්
+
+*2024-11-07 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203005) · `si`
+
+විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීම සම්බන්ධයෙන් ඇති වී තිබෙන ගැටලුකාරී තත්ත්වය සම්බන්ධයෙන් ශ්‍රී ලංකා ආගමන හා විගමන නිලධාරීන්ගේ සංගමය විශේෂ නිවේදනයක් නිකුත් කර තිබේ.
+
+වර්තමානයේ පවතින සැබෑ තත්ත්වය පෙන්වාදීම සඳහා මෙන්ම අර්බුදය විසඳීම සඳහා ගතයුතු ක්‍රියාමාර්ග ගැන දැනුවත් කිරීම සඳහා අදාළ නිවේදනය නිකුත් කළ බව එහි සඳහන්ය.
+
+එම නිවේදනයේ වැඩිදුරටත් සඳහන් කර ඇත්තේ ජනතාව විසින් තෝරාපත් කරගත් ජනාධිපතිවරයාව අසීරුතාවයට පත්වීමට දෙපාර්තමේන්තු ඉහළ පරිපාලනය විසින් ලබාදුන් සාවද්‍ය තොරතුරු හේතුවූ බවය.
+
+සංඛ්‍යා දත්ත, තොරතුරු සියල්ල දෙපාර්තමේන්තුව සතුව තිබිය දී රජයේ සමස්ත කාර්යභාරයෙන් තුනෙන් එකක ප්‍රමාණයක් ආවරණය කළ යුතු අතිශය භාරදුන් කාර්යභාරයක නියැලී සිටින විෂයභාර අමාත්‍යවරයාට කොතරම් කටුක වුවද විදෙස් ගමන් බලපත්‍ර නිකුත් කිරීම හා සම්බන්ධව පවතින සත්‍ය තත්ත්වය දෙපාර්තමේන්තු බලධාරීන් විසින් අනාවරණය නොකිරීම කනගාටුවට කරුණක් බව ද ශ්‍රී ලංකා ආගමන හා විගමන නිලධාරීන්ගේ සංගමය පවසයි.
+
+...
+
+[Data](articles/eb4b2b0c.json)
+
+---
+
+### අනුර ජනපතිට අපි පාර පෙන්වන්නම් - දිලිත්
+
+*2024-11-07 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203004) · `si`
+
+ජාතික ජන බලවේගය ජනතාවට දුන් පොරොන්දු ඉටුකිරීමට නොහැකි වී ඇත්තේ ඒවා ඉටුකළ හැකි ආකාරය පිළිබඳ ඔවුන් දැන නොසිටි නිසා බව සර්වජන බලයේ නායක ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඔහු මේ බව ප්‍රකාශ කළේ මීගමුව කඳසුරිඳුගම ප්‍රදේශයේ පැවති ජන හමුවක් අමතමිනි.
+
+මහමැතිවරණය වෙනුවෙන් සර්වජන බලය සංවිධාන කළ තවත් ජනහමුවක් මීගමුව අක්කර 50 කඳසුරිඳුගම ප්‍රදේශයේදී ඊයේ (06) පස්වරුවේ පැවැත්වුණි.
+
+සර්වජන බලයේ නායක ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා,
+
+"අපි කරන්නේ පොරොන්දු දේශපාලනයක් නෙමෙයි. අනිවාර්යයෙන්ම කරන්නට පුළුවන් දේ පමණක් කතා කරන දේශපාලනයක් අපි කරන්නේ. අපිට ඕනේ අපේ සහෝදර ජනාධිපතිතුමාට ඒ පාර පෙන්වන්න. ඔහු පොරොන්දු වුණු බොහෝ දේ...ඉටු කරලා නැහැ. ඉෂ්ඨ කරන්නත් බැහැ. විදුලි බිල 40%කින් අඩු කරනවා කිව්වා. කරන්න බැහැ. පෙට්‍රල් මිල රුපියල් 200 කරනවා කිව්වා. අන්තිමට සල්ලිකාරයෝ ගහන 95 විතරක් අඩු කළා. ඔබට මුකුත් නැහැ."
+
+...
+
+[Data](articles/86a81cca.json)
+
+---
+
+### State Veterinary Medical Officers Association to meet the Governor of the Northern Province
+
+*2024-11-07 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198098) · `ta`
+
+Northern Province Veterinary Officers Association meets Governor Vedanayaga. Discusses animal medication shortages, driver scarcity, doctor transfers, and illegal therapy impacts. Governor promises immediate action and consultation with authorities.
+
+🟩
+
+Governor of the Northern Province Vedanayagan met with the Northern Province Government Veterinary Officers Association on Wednesday (06).
+
+The meeting was attended by the President of the Northern Province State Veterinary Officers Association, Dr.M. Muralidas, Secretary Dr.S. Sukirthan and Vice President Dr.S. Kripanandakumaran.
+
+The union has informed the governor about a number of difficulties that prevent the Supreme Service to the Livestock Farmers.
+
+The governor was informed about the lack of medications to treat animals, and the lack of appropriate mechanisms, the lack of vehicle drivers and the lack of drivers, the need for the firm presence of the veterinary doctors' transfer and the stability of the livestock.
+
+Amidst various challenges, the Department of Livestock Production Health and Veterinary Husbands have been informed of the services of the entire Province and the impact of farmers by illegal therapists.
+
+...
+
+[Data](articles/afd08bf2.json)
+
+[Extended Data](ext_articles/afd08bf2.ext.json)
+
+---
 
 ### Clashes at the Jammu and Kashmir Council
 
@@ -54,6 +118,90 @@ The Speaker also advised Khurshid to sit in his seat. He continued to stand with
 
 ---
 
+### Police detained three candidates' vehicles on charges of violating election rules in Vavuniya: Three arrested
+
+*2024-11-07 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198105) · `ta`
+
+Sri Lanka election rule violators: 3 candidates' vehicles seized, drivers arrested in Vavuniya.
+
+🟩
+
+Vavuniya police said that the vehicles of three candidates have been detained and the drivers have been arrested in connection with the allegations of violating election rules in Vavuniya.
+
+Candidates can travel on the portrait of the candidate and the sticker -fried vehicles. The Department of Elections has banned his portrait or sticker traffic without a candidate.
+
+Vavuniya police have been detained by the Vavuniya police and the drivers have been detained in Vavuniya without a candidate in Vavuniya.
+
+Vanni district candidate of the Sri Lanka Tamil National Alliance (TNA) P. Satyalingam, United People's Alliance (UPFA) Vanni district candidate Rasika Priyadarshini and Democratic Tamil National Alliance candidate Selvam Adakkalanathan have been detained and the drivers have been detained.
+
+◼️
+
+[Data](articles/6f09c28b.json)
+
+[Extended Data](ext_articles/6f09c28b.ext.json)
+
+---
+
+### Mannar Sathosa Human Burial "Scan" activity begins;Video and media banned to take photos
+
+*2024-11-07 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/198110) · `ta`
+
+Mannar Sathosa human burial excavation resumes; media barred from coverage. Police previously restricted from reporting. New judge denies permissions. Lawyers refuse to provide audio recordings.
+
+🟩
+
+The long -standing Sathosa human burial excavation work in the center of the Mannar city is to be reunited this week.
+
+Excavation work is being held on Thursday (07) in the area where the military camp located near the Mannar Sathosa complex, which is located in the Multipurpose Co -operative Society building.
+
+However, the Mannar district journalists have been denied permission to photograph or record the excavation work or scan activities.
+
+Earlier, the police had been allowed to report the real issues relating to the excavation work through the Mannar Magistrate's Court as the police were banned from gathering news of the Satosa human burial excavation work.
+
+Nevertheless, the new judge has now been denied permission to take excavations or other activities on the burial.
+
+It is also noteworthy that lawyers appearing on behalf of the affected parties are refusing to issue voice records on the excavation and the process of burial case.
+
+◼️
+
+[Data](articles/f1433bd1.json)
+
+[Extended Data](ext_articles/f1433bd1.ext.json)
+
+---
+
+### Australia plan to implement new rules for social media
+
+*2024-11-07 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198104) · `ta`
+
+Australia plans to ban social media for children under 16. Prime Minister Anthony Albanese proposes law targeting platforms like Instagram, Facebook, TikTok, and YouTube. Law aims to protect youth from online harms. Social media companies must prove compliance. Bill to be presented to parliament this year. Implementation pending MP approval within 12 months. Parents and minors exempt from responsibility.
+
+🟩
+
+Prime Minister Antony Alpanese has announced that it is planning to implement a law to prohibit children under the age of 16 in Australia.
+
+Australian Communication Minister Michelle Roland on his official X site on Thursday (07)
+
+The law includes social media such as Meta's Instagram and Facebook, Bitonsin Dictok and Ilan Muskin X site. Alphabet's YouTube social media will also include.
+
+“Social media is harmful to our boys. So I have called for banning it, ”Antony Albanis said.
+
+Also, the law will be presented in Parliament this year. He said the law would be implemented 12 months later after receiving the approval of MPs.
+
+Social media platforms are responsible for proving that they are taking legitimate measures to prevent access, ”he said.
+
+“Responsible will not be on parents or young people,” he added.
+
+It is noteworthy that early this year, the two -party support in Australia's prohibition on the use of social media in Australia.
+
+◼️
+
+[Data](articles/d509bfd4.json)
+
+[Extended Data](ext_articles/d509bfd4.ext.json)
+
+---
+
 ### Lohan and wife remanded again
 
 *2024-11-07 12:58:57* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-සහ-බිරිඳ-යළි-රිමාන්ඩ්/11-412909) · `si`
@@ -71,6 +219,24 @@ They were arrested on two occasions on a car incident.
 [Data](articles/374fb6dd.json)
 
 [Extended Data](ext_articles/374fb6dd.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-11-07 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198107) · `ta`
+
+US Dollar exchange rate: 288.4047 INR buying, 297.4881 INR selling. Released by Central Bank on 07/Thursday.
+
+🟩
+
+The US dollar purchasing price was 288.4047 rupees and the sales price were 297.4881 rupees based on a currency exchange rate released by the Central Bank on Thursday (07).
+
+◼️
+
+[Data](articles/9085d2b3.json)
+
+[Extended Data](ext_articles/9085d2b3.ext.json)
 
 ---
 
@@ -1282,6 +1448,18 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
+### Rise Of New Faces: A Paradigm Shift In Eastern Muslims Voter Behaviour
+
+*2024-11-07 08:13:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rise-of-new-faces-a-paradigm-shift-in-eastern-muslims-voter-behaviour/) · `en`
+
+The Presidential Election – 2024 has shown a dramatic shift in the voting behaviour of Muslim voters in the Eastern Province. A long struggle for an alternative political force of the Muslims has finally gained significant behavioural change in areas traditionally led by established political figures. These results reflect a departure from conventional voting patterns, emphasising a strong desire for a change among Muslim voters in Eastern Province, who are increasingly drawn to progressive and inclusive approaches.
+
+...
+
+[Data](articles/096913b1.json)
+
+---
+
 ### Firearms extended to hand over firearms
 
 *2024-11-07 08:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202993) · `si`
@@ -2171,173 +2349,5 @@ Meanwhile, Indian leader Rohith creations have fallen down by 2 locations.
 [Data](articles/e6d96577.json)
 
 [Extended Data](ext_articles/e6d96577.ext.json)
-
----
-
-### British HC recommends Sri Lankan MPs learn from UK system to curb corruption
-
-*2024-11-06 22:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103220/british-hc-recommends-sri-lankan-mps-learn-from-uk-system-to-curb-corruption-) · `en`
-
-The British High Commissioner to Sri Lanka Andrew Patrick has expressed eagerness to further strengthen the strong bilateral ties between Sri Lanka and the United Kingdom.
-
-During a meeting with Secretary to the President Dr. Nandika Sanath Kumanayake today (6), the British High Commissioner has proposed that steps be taken to educate Sri Lankan parliamentarians about the British parliamentary system to further enhance governance in Sri Lanka, while emphasizing the significance of the British local government system, noting its potential to reduce fraud and corruption.
-
-Mr. Patrick has also highlighted the British Government’s appreciation for Sri Lanka’s ongoing partnership with the International Monetary Fund (IMF) and expressed readiness to support the government’s efforts to combat fraud and corruption while boosting state revenue.
-
-◼️
-
-[Data](articles/ee10f7ae.json)
-
-[Extended Data](ext_articles/ee10f7ae.ext.json)
-
----
-
-### Former President congratulates Donald Trump
-
-*2024-11-06 22:40:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டொனால்ட்-ட்ரம்புக்கு-முன்னாள்-ஜனாதிபதி-வாழ்த்து/175-346689) · `ta`
-
-Former Sri Lanka President Ranil Wickremesinghe congratulates Donald Trump on his presidential victory, comparing him to Grover Cleveland as the 24th U.S. president. He expresses support for Trump's promise to "make America great again."
-
-🟩
-
-Former President Ranil Wickremesinghe congratulates New US President Donald Trump
-
-“Donald Trump has come back!Congratulations on his historical achievement!Trump equals the 24th President of the United States, Grover Cleveland.
-
-The American people believe in you and JD vans to make America back better. I congratulate you on the success of both of you. ”. Remble
-
-◼️
-
-[Data](articles/85853fe3.json)
-
-[Extended Data](ext_articles/85853fe3.ext.json)
-
----
-
-### Is this the cause of rice shortage?
-
-*2024-11-06 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202987) · `si`
-
-Rice shortage causes: Beer production impacts, farmers demand price control, retailers resist. Government intervenes, maintains retail price.
-
-🟩
-
-Most of the rice to produce beer production is directly affected by a shortage of rice in the market, says SMEs that have a direct impact on the market.
-
-President of the SMEs of Small and Medium Malheman Association. Semasinghe pointed out that rice to produce beer is produced by acquisition of herbal and acquisition.
-
-"Beer needs to produce beer rice. But the rice needed to produce beer is obtained from her husband. As a result of the production of beer production, a deficit has been created to produce rice to produce rice. "
-
-Farmer organizations also demand the government to intervene to rice price control.
-
-Shop residents also alleges that they will not receive rice at the price of the control.
-
-The rice prices of the country increased last few weeks and a shortage of rice was created.
-
-Considering the situation, the President summoned large-scale rice businessmen and decided to maintain the rice control price in the retail market.
-
-◼️
-
-[Data](articles/7f6b110e.json)
-
-[Extended Data](ext_articles/7f6b110e.ext.json)
-
----
-
-### Sri Lanka’s global competitiveness at risk: The economic cost of cargo clearance delays
-
-*2024-11-06 22:30:00* · [`islandlk`](http://island.lk/sri-lankas-global-competitiveness-at-risk-the-economic-cost-of-cargo-clearance-delays/) · `en`
-
-Efficient border agency operations are crucial for any economy, especially for island nations like Sri Lanka, where trade significantly contributes to economic growth. Delays in cargo clearance disrupt the flow of goods, increase costs, and undermine the country’s competitiveness in global trade. These delays impose substantial economic costs that adversely affect Sri Lanka’s GDP, leading to higher operational expenses for businesses and limiting foreign direct investment opportunities. This article will explore the importance of efficient border agency operations in Sri Lanka, provide an overview of the delays in cargo clearance, and examine their broader economic impacts.
-
-...
-
-[Data](articles/2b370f10.json)
-
-[Extended Data](ext_articles/2b370f10.ext.json)
-
----
-
-### Celebratory launch of JITF’s 15th edition
-
-*2024-11-06 22:28:00* · [`islandlk`](http://island.lk/celebratory-launch-of-jitfs-15th-edition/) · `en`
-
-The much-anticipated Jaffna International Trade Fair (JITF) is set to mark its 15th edition from January 24 to 26, 2025, at the Muttraweli Grounds, in the once war- torn Jaffna peninsula. Organized annually since 2002, the JITF has steadily grown into one of Sri Lanka’s largest trade exhibitions, serving as a vital link between northern and southern businesses and communities, especially following the end of the country’s 30-year civil war.
-
-Organised by Lanka Exhibition and Conference Services (Pvt) Ltd. (LECS) in association with the Chamber of Commerce and Industry of Yarlpanam (CCIY), the JITF has grown significantly since its inception in 2002, becoming a dynamic hub where industry leaders, SMEs, and emerging entrepreneurs connect.
-
-LECS Chief Operating Officer Husnie Rauf, speaking to The Island Financial Review said that the JITF has significantly impacted the Jaffna region by introducing a wide range of products and services that had long been inaccessible to the local population.
-
-...
-
-[Data](articles/7d15eb66.json)
-
-[Extended Data](ext_articles/7d15eb66.ext.json)
-
----
-
-### CSE goes down to 100 points but witnesses late recovery
-
-*2024-11-06 22:27:00* · [`islandlk`](http://island.lk/cse-goes-down-to-100-points-but-witnesses-late-recovery/) · `en`
-
-The stock market yesterday at the outset noted a sluggish performance and went down to 100 points but later recovered, market analysis said.
-
-Due to volatile situation both indices moved downward. The All Share Price Index went down by 56 points, while the S and P SL20 went down by 20.7 points. Turnover stood at Rs 3.2 billion with nine crossings.
-
-...
-
-[Data](articles/2a916e97.json)
-
-[Extended Data](ext_articles/2a916e97.ext.json)
-
----
-
-### Four LTTE cadres arrested with cocaine
-
-*2024-11-06 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202986) · `si`
-
-LTTE cadres arrested with cocaine: Four suspects detained, including foreign national and two locals aged 24 and 32. Cocaine found in car during inspection at Galle Harbor Police Station. Additional arrests made in Borella and Kollupitiya areas. Investigations ongoing.
-
-🟩
-
-A foreign national and three other suspects have been arrested by a foreign national and other suspects with cocaine.
-
-Two suspects have been arrested during an inspection of the SLAF Police Station at the Galle Harbor Police yesterday (05).
-
-The car had come to Colombo and found 19 parcel containing 197 grams cocaine weighing 277 grams.
-
-The arrested suspects have been identified as 24 and 32 years old.
-
-It has been revealed that the drug has been given the above suspects in Kollupitiya area.
-
-Accordingly, the foreign narcotics of the Police Narcotics have been arrested by the Police Narcotics Bastard to the above mentioned suspects in Borella yesterday afternoon.
-
-He has found US $ 500 and several foreign currency notes.
-
-Another suspect involved in the drug trafficking was also arrested with the 700 milligrams of cocaine.
-
-The arrested overseas is a 52 year old Sierra Leone, another suspect is a 28 year old resident of Borella.
-
-...
-
-[Data](articles/a01ea54c.json)
-
-[Extended Data](ext_articles/a01ea54c.ext.json)
-
----
-
-### The New Political Culture, For A United Country
-
-*2024-11-06 21:49:10* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-new-political-culture-for-a-united-country/) · `en`
-
-All minorities: Tamils, Muslims, Malay, Burgers all to belong to one country and one people of Sri Lanka – Religious leaders a greater role to play.
-
-Listening to the Songs of Mohideen Beg, it lifts up the spirits belonging to Sri Lanka, even though I myself live out of the country. It is even more striking that it is sung by a Sri Lankan Muslim, truly Sri Lankan. I suspect there must be such great people amongst the Tamils, Malays, Burgers etc. that celebrates the language, the culture and the heritage of their country. But could you spot any of them? hard to find, pardon me if I am ignorant.
-
-...
-
-[Data](articles/31815a8d.json)
-
-[Extended Data](ext_articles/31815a8d.ext.json)
 
 ---

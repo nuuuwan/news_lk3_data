@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 23:10:27**
+As of **2024-11-07 23:24:24**
 
 ## Newspaper Stats
 
-*Scraped **53,609** Articles*
+*Scraped **53,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 5,018
 adaderanalk | 6,391
 tamilmirrorlk | 7,465
 virakesarilk | 8,675
-adaderanasinhalalk | 9,344
+adaderanasinhalalk | 9,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,609 (100.0%) of 53,609 articles have been extended.
+53,610 (100.0%) of 53,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### Sri Lanka team to Pakistan
+
+*2024-11-07 22:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203018) · `si`
+
+Sri Lanka cricket team travels to Pakistan for 4-day and ODI series. Two teams formed: 4-day led by Pasindu Sooriyabandara, 1-day team selected. Total 7 matches scheduled.
+
+🟩
+
+Sri Lanka Cricket "A 'team left for Pakistan this afternoon for a four-day and ODI tour.
+
+Two four ODIs will be held between two countries and 3 ODIs.
+
+The Sri Lanka Cricket Selection Committee was named two reserves for one day and four day tournament.
+
+The four-day team also operates by Pasindu Sooriyabandara and the one-day team.
+
+◼️
+
+[Data](articles/02ace359.json)
+
+[Extended Data](ext_articles/02ace359.ext.json)
+
+---
 
 ### Cuba left reeling after Category 3 hurricane ravages island and knocks out power grid
 
@@ -2417,35 +2441,5 @@ Former State Minister Lohan Ratwatte and his wife who is receiving treatment at 
 [Data](articles/3291d741.json)
 
 [Extended Data](ext_articles/3291d741.ext.json)
-
----
-
-### Social media is banned for children under 16 years - new rules from Australia
-
-*2024-11-07 09:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202996) · `si`
-
-Australia bans social media for minors under 16. New law aims to protect children from online harms. Parents can still allow use with consent. Government warns tech companies to safeguard young users.
-
-🟩
-
-It is reported that the Australian government has decided to ban social media for children under the age of 16.
-
-Australian Prime Minister Anthony Albena said that the new laws with that proposal would be presented to Parliament in Parliament.
-
-These new laws states that these laws are being brought to minimize the damage caused by the Australian children.
-
-The Prime Minister said: "It is regrettable to our fathers and mothers to harm their children, and the government is with you ...".
-
-But that ban is not being implemented for children using social media.
-
-The ban is also not relevant that the ban will not apply to social media children with parental will.
-
-However, the Australian Prime Minister said that he would take serious action against technicians who fail to protect young users.
-
-◼️
-
-[Data](articles/96a4d8f6.json)
-
-[Extended Data](ext_articles/96a4d8f6.ext.json)
 
 ---

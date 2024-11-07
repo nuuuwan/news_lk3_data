@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 04:40:21**
+As of **2024-11-08 04:59:21**
 
 ## Newspaper Stats
 
-*Scraped **53,626** Articles*
+*Scraped **53,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,88 @@ dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
 tamilmirrorlk | 7,468
-virakesarilk | 8,677
+virakesarilk | 8,681
 adaderanasinhalalk | 9,345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,626 (100.0%) of 53,626 articles have been extended.
+53,627 (100.0%) of 53,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### The solution to national issues is essential for a joint operation between the government and other political parties
+
+*2024-11-08 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198148) · `ta`
+
+Here's a 200-character summary:
+
+
+
+National issues require joint government-party efforts. Corruption eradication is crucial. New government addresses corruption concerns, arresting former officials. Opposition criticism faces voter skepticism due to slow progress on promised reforms. Minority communities' support uncertain. Constitutional amendments depend on cooperation with opposition parties.
+
+🟩
+
+One of the most important promises of the national people's power was to end the corruption of corruption that has enslaved the country. It was the main reason for the party to have a great glamor on the party. Following the introduction of the open economy in the late 1970s, the government and the private sector have been embraced by the government and the private sector.
+
+Massive development projects and foreign aid gave people the opportunity to engage in corruption. The economic downturn and the risk of people to experience as a result, tightened the commitment to eradicate corruption and eliminate those involved in it.. As a party that never had political power, the national people's power (among the leading parties) was free from corruption.
+
+...
+
+[Data](articles/2db02465.json)
+
+[Extended Data](ext_articles/2db02465.ext.json)
+
+---
+
+### மட்டு வந்தாறுமூலையில் மின்னல் தாக்கி விவசாயி ஒருவர் உயிரிழப்பு
+
+*2024-11-08 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198147) · `ta`
+
+ஏறாவூர் பொலிஸ் பிரிவிலுள்ள வந்தாறுமூலை உப்போடை வயல் பிரதேசத்தில் மின்னல் தாக்குதலுக்கு உள்ளாகி விவசாயி ஒருவர் உயிரிழந்த சம்பவம் வியாழக்கிழமை (7) மாலை 5 மணிக்கு  இடம்பெற்றுள்ளதாக பொலிசார் தெரிவித்தனர்.
+
+வந்தாறுமூலை பிரதான வீதியைச் சோந்த ஆச்சாரியும் விவசாயிமான 40 வயதுடைய ஏ.றமீஸகுமார் என்பவரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+குறித்த நபர் சம்பவதினமான  வியாழக்கிழமை (7) மாலைய உப்போடை வயல்பகுதிக்கு சென்று விவசாய நடவடிக்கையில் ஈடுபட்டுவிட்டு அங்கிருந்து வெளியேறி வீடு நோக்கி மோட்டார் சைக்கிளில் பிரயாணித்த போது அந்த பகுதியில் மின்னல் தாக்குதலுக்கு உள்ளாகி சம்பவ இடத்திலே உயிரிழந்துள்ளர்.
+
+இதனையடுத்து உயிரிழந்தவரின் சடலத்தை நீதிமன்ற அனுமதியைப் பெற்று பிரேத பரிசோதனைக்காக வைத்தியசாலையில் ஒப்படைக்கும் நடவடிக்கையின் மேற்கொண்டுவருவதாக பொலிசார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/a2c664df.json)
+
+---
+
+### சட்டவிரோத கசிப்பு உற்பத்தி நிலையம் முற்றுகை: 06 கோடா பரல்கள் மீட்பு
+
+*2024-11-08 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198146) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தின் தாந்தாமலை, மாவடிமுன்மாரி கிராமங்களின் எல்லைப் பிரிவுகளுக்குட்பட்ட பிரதேசத்திலுள்ள ஆற்றுப்பகுதியில் சட்டவிரோதமான முறையில் இடம்பெற்று வந்த கசிப்பு உற்பத்தி நிலையம் வியாழக்கிழமை பகல் (07) முற்றுகையிடப்பட்டுள்ளது.
+
+கிராமத்தின் பொதுமக்கள்  கிராம உத்தியோகத்தர்களுக்கு வழங்கிய தகவலின் அடிப்படையில் குறித்த கிராம உத்தியோகத்தர்கள், அபிவிருத்தி உத்தியோகத்தர் ஆகியோர் இணைந்து மேற்கொண்ட தேடுதலின் போது சட்டவிரோத உற்பத்திக்கு தயாரான கோடா ஆறு பரல்கள் கண்டுபிடிக்கப்பட்டன.
+
+குறித்த கசிப்பு உற்பத்தியில் ஈடுபட்ட  நபர்கள் தப்பி ஓடியுள்ளதாகவும் கைப்பற்றப்பட்ட கோடா பரல்கள் அவ்விடத்தில்  அழிக்கப்பட்டுள்ளதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/0f0b4d11.json)
+
+---
+
+### கொழும்பு ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி கோயிலில் "சூரசம்ஹாரம்"
+
+*2024-11-08 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198145) · `ta`
+
+கொழும்பு ஜிந்துப்பிட்டி ஸ்ரீ சிவசுப்பிரமணிய சுவாமி கோயில் கந்தசஷ்டி மகோற்சவ "சூரசம்ஹாரம்" 7ஆம் திகதி வியாழக்கிழமை மாலை  ஆலய வெளிவீதியில் சூரன்போர் நடைபெற்றது. குறித்த நிகழ்வில் ஆயிரக்கணக்கான பக்தர்கள் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/3ed92f9a.json)
+
+---
 
 ### Club spring assassination: 20 people
 
@@ -2341,103 +2411,5 @@ He is due to attend several regional conferences in China.
 [Data](articles/6f9a3f6f.json)
 
 [Extended Data](ext_articles/6f9a3f6f.ext.json)
-
----
-
-### Voter card distribution is completed today
-
-*2024-11-07 11:16:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டை-விநியோகம்-இன்றுடன்-நிறைவு/175-346709) · `ta`
-
-Voter card distribution ends today. Unreceived cards available tomorrow. Official electorate valid until Nov 14. Verify identity when collecting.
-
-🟩
-
-The Postal Department said that the distribution of official voter for parliamentary elections ends today (7)
-
-Senior Deputy Post Office Rajitha Ranasinghe said that voters who have not received the voter card from the official voter card from the 27th of this month will be able to go to the post offices tomorrow (8).
-
-He added that the official electorate has been provided to the post office from tomorrow to the 14th of November, and that voters should ensure their identity for it.
-
-◼️
-
-[Data](articles/339a1617.json)
-
-[Extended Data](ext_articles/339a1617.ext.json)
-
----
-
-### New Resolution on Galle Face
-
-*2024-11-07 11:11:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-முகத்திடல்-தொடர்பில்-புதிய-தீர்மானம்/175-346708) · `ta`
-
-Galle Face festival restrictions tightened. Only religious events allowed. Previous government permitted concerts and celebrations. New policy aims to make area clean and green.
-
-🟩
-
-The government has decided to tighten the reservation of all the festivals, concerts and celebrations in the Galle Face.
-
-The new government has changed the decision taken by the previous government in 2023 to grant permission to hold only religious events in the Galle Face.
-
-In 2022, the Arakalaya struggle that chased away the then President Gotabhaya Rajapakse from office was held at the Galle Face.
-
-According to the Cabinet decision, Sri Lanka Port Management and Advisory Services (Pvt) Limited's Management and Advisory Services (Pvt) Limited will not be granted permission for any other purpose, except for religious purposes.
-
-...
-
-[Data](articles/82e59289.json)
-
-[Extended Data](ext_articles/82e59289.ext.json)
-
----
-
-### Sri Lanka’s Access Engineering SPV to build radiopharmaceutical production facility
-
-*2024-11-07 11:04:00* · [`economynextcom`](https://economynext.com/sri-lankas-access-engineering-spv-to-build-radiopharmaceutical-production-facility-186379/) · `en`
-
-ECONOMYNEXT – Access Medical Tracers (Private) Limited, a special purpose vehicle majority owned by Access Engineering Plc, has won the bid to build, operate and own (BOO) a cyclotron based radiopharmaceutical production facility in Sri Lanka, the company said.
-
-“This is the first time such a facility is developed in the Country to produce Fluoro – Deoxy-Glucose (FDG) which is required mainly for the purpose of cancer detection,” Access Engineering said in a stock exchange filing.
-
-The development cost of the production facility is estimated at 6.5 million dollars. The investment amount of Access Engineering will be notified in due course, the company said.
-
-The ground breaking ceremony for the facility will be held on Friday (8).
-
-Following a competitive bidding process a BOO agreement was signed on Tuesday (5) between Sri Lanka Atomic Energy Board, the Ministry of Health and Access Medical Tracers (Private) Limited (special purpose vehicle) for the implementation of the production facility.
-
-...
-
-[Data](articles/b58f8020.json)
-
-[Extended Data](ext_articles/b58f8020.ext.json)
-
----
-
-### Postal voting today
-
-*2024-11-07 10:59:49* · [`adalk`](https://www.ada.lk/breaking_news/අද-හා-හෙටත්-තැපැල්-ඡන්දය-දෙන්න-අවස්ථාව/11-412904) · `si`
-
-Postal voting available July 7-8. Mark at district election offices. Eligible voters can cast ballots. Turnout on April 4. Conducted in government institutions and military camps on June 1. Five valid IDs accepted: registration confirmation letter, national ID, driving license, PC ID, or duty ID. Unidentified officials must verify voter ID before issuing ballot cards.
-
-🟩
-
-The Elections Commission states that the postal voting can be used today (07th) and tomorrow (8th), the parliamentary voting cannot be marked in connection with the parliamentary election.
-
-Accordingly, the postal vote can be marked at district election offices in the district of the district.
-
-The postal voters of postal voters have qualified for this year's election.
-
-The voter turnout of the postal voting in the 4th of this month have been voted on the 4th of this month.
-
-The postal voting was carried out on the 1st of this month and 4 days of government institutions and military camps.
-
-The Elections Commission has published five valid identity papers to ensure the identity of the postal voting.
-
-Accordingly, the confirmation letter issued by the Department of Registration of Persons in the Department of Registration of Persons ID, the National Identity Card, Valid Driving License and the Election Commission (PC) can be used by the UPFA.
-
-...
-
-[Data](articles/13b32b43.json)
-
-[Extended Data](ext_articles/13b32b43.ext.json)
 
 ---

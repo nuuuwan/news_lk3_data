@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 16:24:27**
+As of **2024-11-07 16:40:16**
 
 ## Newspaper Stats
 
-*Scraped **53,571** Articles*
+*Scraped **53,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 5,010
 adaderanalk | 6,384
 tamilmirrorlk | 7,459
 virakesarilk | 8,668
-adaderanasinhalalk | 9,335
+adaderanasinhalalk | 9,336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,571 (100.0%) of 53,571 articles have been extended.
+53,572 (100.0%) of 53,572 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### President to be handed over of rice and paddy stocks
+
+*2024-11-07 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203008) · `si`
+
+Consumer Affairs Authority transfers rice/paddy stocks to President Anura Kumara Dissanayake. Ministry of Trade Secretary also handed over to President.
+
+🟩
+
+The Consumer Affairs Authority has been handed over to the Consumer Affairs Authority regarding rice and paddy stocks to President Anura Kumara Dissanayake.
+
+The Secretary of the Ministry of Trade has been handed over to the President.
+
+◼️
+
+[Data](articles/ed6488be.json)
+
+[Extended Data](ext_articles/ed6488be.ext.json)
+
+---
 
 ### More houses built under Indian grant handed over to beneficiaries
 
@@ -2427,25 +2447,5 @@ The Sri Lanka Textile and Garment Institute (SLITA) conducted thorough testing o
 [Data](articles/98b51e18.json)
 
 [Extended Data](ext_articles/98b51e18.ext.json)
-
----
-
-### British High Commissioner meets President’s Secretary
-
-*2024-11-07 01:39:18* · [`dailyftlk`](https://www.ft.lk/news/British-High-Commissioner-meets-President-s-Secretary/56-768927) · `en`
-
-Discusses reforming local Govt. system to reduce fraud and corruption
-
-A meeting between Secretary to the President Dr. Nandika Sanath Kumanayake and British High Commissioner to Sri Lanka Andrew Patrick was held yesterday at the Presidential Secretariat.
-
-During the meeting, the British High Commissioner expressed his eagerness to further strengthen the strong bilateral ties between Sri Lanka and the United Kingdom.
-
-High Commissioner Patrick also highlighted the British Government’s appreciation for Sri Lanka’s ongoing partnership with the International Monetary Fund (IMF) and expressed readiness to support the Government’s efforts to combat fraud and corruption while boosting State revenue.
-
-...
-
-[Data](articles/fdfbfb7c.json)
-
-[Extended Data](ext_articles/fdfbfb7c.ext.json)
 
 ---

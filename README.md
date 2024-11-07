@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 09:03:36**
+As of **2024-11-07 09:13:55**
 
 ## Newspaper Stats
 
-*Scraped **53,493** Articles*
+*Scraped **53,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,997
-adaderanalk | 6,370
+adaderanalk | 6,372
 tamilmirrorlk | 7,447
 virakesarilk | 8,648
 adaderanasinhalalk | 9,323
@@ -26,45 +26,95 @@ adaderanasinhalalk | 9,323
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,491 (100.0%) of 53,493 articles have been extended.
+53,493 (100.0%) of 53,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### පුද්ගලයෙක් මතට පස් කණ්ඩියක් කඩා වැටෙයි
+### General Election campaigning ends on Monday
+
+*2024-11-07 08:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103224/general-election-campaigning-ends-on-monday) · `en`
+
+The election campaigning activities for the 2024 General Election are scheduled to end at midnight on Monday (Nov. 11).
+
+Accordingly, the silence period will be in effect from midnight on Monday until Thursday (Nov. 14), when the election will be held.
+
+During this period, any form of election campaign activities are prohibited, and the police are authorized to arrest any parties that violate election rules and to enforce the law, according to the Election Commission of Sri Lanka.
+
+Meanwhile, postal voters who were unable to cast their votes on the designated days are permitted to vote at the District Secretariat corresponding to their workplace location today (07) and tomorrow (08).
+
+◼️
+
+[Data](articles/ceae3cda.json)
+
+---
+
+### Deadline for surrendering licensed firearms extended
+
+*2024-11-07 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103223/deadline-for-surrendering-licensed-firearms-extended) · `en`
+
+The Ministry of Defence has extended the period granted to surrender all licensed firearms issued to civilians until November 21, 2024.
+
+The Ministry initially set a one-month deadline, concluding on November 7, for all firearms and ammunition issued to civilians for self-defense and other purposes to be returned to the relevant authorities.
+
+However, it has been decided to provide an extension to the relevant period, following the consideration of several facts, the Defence Ministry said.
+
+On October 04, the Ministry of Defence announced that all firearms and ammunition provided to civilians for self-defence will be acquired by the government and that they must be handed over to the relevant authorities before 07 November.
+
+Furthermore, the Defence Ministry stated that they will be returned pending a review and consideration of the need to possess such firearms.
+
+...
+
+[Data](articles/5f609ab8.json)
+
+---
+
+### Film crashes on a person
 
 *2024-11-07 08:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202995) · `si`
 
-ලග්ගල පොලිස් වසමේ හත්තොට අමුණ ප්‍රදේශයේදී පතලක වැඩකරමින් සිටි පුද්ගලයකු මතට පස් කණ්ඩියක් කඩා වැටී ඔහු ජීවිතක්ෂයට පත්ව තිබේ.
+A miner died in a crash at Hattatota, Laggala. Four others were involved. Body at Laggala hospital. Police investigating.
 
-පොලීසිය පැවසුවේ ඊයේ (06) සවස එම අනතුර සිදුව ඇති අතර මියගිය පුද්ගලයා අවුරුදු 40ක් වූ හත්තොට අමුණ ප්‍රදේශයේ පදිංචිකරුවෙකි.
+🟩
 
-මියගිය පුද්ගලයා ඇතුළු තවත් පුද්ගලයින් සිව්දෙනෙකු පුද්ගලික ඉඩමක මැණික් පතලක් හාරමින් සිටියදී මෙම අනතුර සිදුව ඇති බවට විමර්ශනයේදී අනාවරණය වී ඇත.
+He died on a man who was working on a mine at the Hattatota area in the Laggala Police Division.
 
-මෘත ශරීරය ලග්ගල රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර ලග්ගල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The accident had occurred yesterday (06), a resident of Amunagama, a 40 year old, Hattota.
+
+Investigations have revealed that the accident had occurred when four other people, including the deceased.
+
+The remains are placed at the Laggala hospital morgue and Laggala police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0f96e38e.json)
 
+[Extended Data](ext_articles/0f96e38e.ext.json)
+
 ---
 
-### ජනපති ලේකම් හා මෙරට බ්‍රිතාන්‍ය මහකොමසාරිස් අතර හමුවක්
+### President to meet with British Secretary and British High Commissioner
 
 *2024-11-07 08:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202994) · `si`
 
-ජනාධිපති ලේකම් ආචාර්යය නන්දික සනත් කුමානායක මහතා සහ මෙරට බ්‍රිතාන්‍ය මහකොමසාරිස් ඇන්ඩෘා පැට්‍රික් මහතා අතර හමුවක් ජනාධිපති ලේකම් කාර්යාලයේ දී සිදුව තිබේ.
+President meets British officials: Discusses anti-corruption methods, strengthens bilateral ties.
 
-එහිදි වංචා දූෂණ අවම කිරීමට පළාත් පාලන ආයතන පිළිබඳ බ්‍රිතාන්‍යයේ පවතින ක්‍රමවේදය දෙපාර්ශවයේ සාකච්ඡාවට ලක්ව ඇත.
+🟩
 
-ඒ අනුව බ්‍රිතාන්‍ය පාර්ලිමේන්තු සම්ප්‍රදාය පිළිබඳව මෙරට පාර්ලිමේන්තු මන්ත්‍රීවරුන් දැනුවත් කිරීමට කටයුතු කළ හැකි බව ද මෙරට බ්‍රිතාන්‍ය මහකොමසාරිස් ඇන්ඩෘෘ පැට්‍රික් ප්‍රකාශ කළ බව ජනාධිපති මාධ්‍ය අංශය සඳහන් කළේය.
+Presidential Secretary Dr. Nandika Sanath Sanath Kanayake and British High Commissioner is a meeting between Mr. Andrea Patrick.
 
-එමෙන්ම දෙරට අතර පවතින ද්වීපාර්ශවික සබඳතා තවදුරටත් ශක්තිමත් කරගැනීමට අපේක්ෂා කරන බව ද බ්‍රිතාන්‍ය මහකොමාසාරිස්වරයා එහිදි ප්‍රකාශ කර තිබේ.
+Both Britain's Methodology for local authorities have been discussed to minimize corruption.
+
+The British High Commissioner also stated that the British High Commissioner to inform the British Parliamentary regarding British parliamentary tradition, the Presidential Media Unit said.
+
+The British High Commission has also stated that he is expected to strengthen bilateral relations between the two countries.
 
 ◼️
 
 [Data](articles/7fcecf25.json)
+
+[Extended Data](ext_articles/7fcecf25.ext.json)
 
 ---
 
@@ -2297,51 +2347,5 @@ He has appealed for voters not to be killed by the propaganda of the national pe
 [Data](articles/e9a4a028.json)
 
 [Extended Data](ext_articles/e9a4a028.ext.json)
-
----
-
-### Driver's work suspended
-
-*2024-11-06 15:53:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றிச்-செல்ல-மறுத்த-சாரதி-நடத்துனர்-பணி-இடைநிறுத்தம்/175-346671) · `ta`
-
-Driver and conductor suspended for refusing to transport school children. Action taken by regional manager's office. Bus service halted temporarily.
-
-🟩
-
-The driver and conductor who refused to carry the school students on the bus has been suspended, the office of the main regional manager of the Kalutara District said.
-
-A spokesman for the office of Aluthgama Depot, who was traveling from Aluthgama to Colombo, has been suspended, the office of the office has been suspended.
-
-Based on the information received by the current Chairman, the Matthi Ramen bus has been stopped on the day of the action on the day of the actions of Ramal Siriwardena.
-
-◼️
-
-[Data](articles/15b889a0.json)
-
-[Extended Data](ext_articles/15b889a0.ext.json)
-
----
-
-### Law College student money laundering
-
-*2024-11-06 15:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சட்டக்-கல்லூரி-மாணவியிடம்-பண-மோசடி/76-346670) · `ta`
-
-Bibila police investigating alleged fraud involving law college student and private telecom employee. Student accused of defrauding 554,030 rupees by providing bank details and OTPs. Two bank transfers were made after receiving SMS notifications. Police investigation ongoing.
-
-🟩
-
-Bibila police are conducting investigations into the incident of allegedly defrauding five hundred and fifty four thousand thirty rupees, claiming that a law college student from the Bibila police division has made an invitation to a law college student from a private telephone company.
-
-The woman who identified her from a private telephone company and said that the five lakhs of rupees had been issued to provide the recently used account number and the OTP number to provide it with the woman and gave her two private bank accounts and OTP numbers and provided them with all the information.
-
-Thereafter, two SMS from the bank has come from his two accounts that money has gone to other accounts.   அதனையடுத்து அவரை தொடர்பு கொண்ட தொலைபேசி எண்ணுக்கு அழைத்த போதும் அந்த எண் துண்டிக்கப்பட்டு இருந்துள்ளது.
-
-Subsequently, the Bibila police have been investigated following a complaint at the police station.
-
-◼️
-
-[Data](articles/b8d776b0.json)
-
-[Extended Data](ext_articles/b8d776b0.ext.json)
 
 ---

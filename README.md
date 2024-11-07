@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 12:00:05**
+As of **2024-11-07 12:25:40**
 
 ## Newspaper Stats
 
-*Scraped **53,531** Articles*
+*Scraped **53,535** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,59 +16,151 @@ islandlk | 3,200
 economynextcom | 3,246
 dailyftlk | 3,659
 dailymirrorlk | 4,733
-adalk | 5,001
-adaderanalk | 6,377
+adalk | 5,003
+adaderanalk | 6,378
 tamilmirrorlk | 7,454
 virakesarilk | 8,656
-adaderanasinhalalk | 9,329
+adaderanasinhalalk | 9,330
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,528 (100.0%) of 53,531 articles have been extended.
+53,535 (100.0%) of 53,535 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
 
-### වෙරළබඩ කැලඹූ හදිසි මෙහෙයුම - 28 දෙනෙක් අත්අඩංගුවට
+### General Election sees low campaign turnout, declined political engagement - PAFFREL
+
+*2024-11-07 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103231/general-election-sees-low-campaign-turnout-declined-political-engagement-paffrel) · `en`
+
+The Executive Director of the People’s Action for Free and Fair Elections (PAFFREL) Rohana Hettiarachchi says that despite 8,888 candidates vying for positions in this year’s General Election, fewer than 1,000 are actively campaigning, reflecting a notable decline in political engagement.
+
+Hettiarachchi attributed this trend to a shifting public perception regarding the benefits of political involvement and a growing disillusionment with traditional party structures.
+
+Furthermore, he mentioned that although nearly 600,000 regional party offices could technically be established to accommodate the voter base, only 9,291 regional party offices are currently operational, aligning with the low campaign turnout.
+
+The PAFFREL Executive Director also stated that reports highlight the instances of public resource misuse and public property violations, while present, have not reached critical levels.
+
+...
+
+[Data](articles/6fa59e47.json)
+
+[Extended Data](ext_articles/6fa59e47.ext.json)
+
+---
+
+### There are a number of new faces to the Parliament this time
+
+*2024-11-07 12:04:33* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-පාර්ලිමේන්තුවට-අලුත්-මුහුණු-ගණනාවක්-එනවා/11-412905) · `si`
+
+New faces in Parliament; former Election Commissioner Mahinda Deshapriya reports low complaints about 2024 general election; mentions assassinations in previous elections; notes fewer experienced politicians running this year.
+
+🟩
+
+Former Commissioner General Mahinda Deshapriya says that there is a lack of complaints from the 2024 general election.
+
+Former Elections Commissioner Mahinda Deshapriya said that the complaints received by the electorates in the 2024 general election.
+
+Mr. Mahinda Deshapriya told him a special media briefing in Hatton on the 7th.
+
+Speaking further Mahinda Deshapriya said that he was reportedly reported that the first assassinations were reported in the first election, but in the general election, such actions were happy.
+
+The number of old politicians will not contest for this year's parliamentary election and a number of new faces will join this year.
+
+◼️
+
+[Data](articles/9ddfab1f.json)
+
+[Extended Data](ext_articles/9ddfab1f.ext.json)
+
+---
+
+### A warning that a stick war will begin
+
+*2024-11-07 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203002) · `si`
+
+Warning: Stick war imminent. Israeli Defense Minister removed amid confidence crisis. New defense minister appointed, sparking protests. Military operations ongoing in Gaza and Lebanon, causing civilian casualties.
+
+🟩
+
+The Cabinet Minister of Israel, who challenged Israeli Prime Minister Benjamin Netanuu, has challenged the strategy of Israeli Prime Minister Benjaminu.
+
+Israeli Defense Minister Jova Galunt was removed from his position and said that he was removed due to a confidence crisis.
+
+A person who intended to reach a particularly agreement with the Hamas, who was involved in the residence of Prime Minister Galunt Minister's galleins.
+
+But he did not hesitate to use full war power in Israel.
+
+Some have questioned a period of the removed from the post of Defense Secretary.
+
+It is a special event when the Israeli attack is a risk of the Israeli attack on Iran on the day of the US United States of America's presidential election.
+
+Prime Minister Nethonya alleges that the statements of the government and cabinet have been contrary to the decisions of the government and cabinet.
+
+...
+
+[Data](articles/7c28e8de.json)
+
+[Extended Data](ext_articles/7c28e8de.ext.json)
+
+---
+
+### Sunday operational operational operation arrested
 
 *2024-11-07 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203001) · `si`
 
-වෙරළබඩ පොලිස් වසමේ ප්‍රදේශ තුනක සිදුකළ මෙහෙයුමකදී කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයන් 28ක් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Arrests made during Sunday operation in coastal areas. Two women detained. Narcotics seized: 12,900mg ice, 500g marijuana, 10g hashish. 40 homes searched. Operation lasted 2 hours, involving 50 police officers. Suspects to appear in court.
 
-ජම්පටා විදිය, ශාන්ත අන්තෝනි පාර හා රත්නම් පාර 44 වත්ත ප්‍රදේශ ආවරණය වන පරිදි එම මෙහෙයුම සිදුකර තිබුණි.
+🟩
 
-එම මෙහෙයුමේදී අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 12,900ක් හෙරොයින්  මත්ද්‍රව්‍ය 5,900ක් මෙන්ම ගංජා ග්‍රෑම් 10ක් සැකකරුවන් සහ සැකකාරියන් සන්තකයේ තිබී පොලිස් භාරයට ගෙන ඇත.
+Two women, including two women, were arrested in a missionary operation conducted in three areas in the coastal area.
 
-එම ප්‍රදේශවල හඳුනාගත් නිවාස 40කට ආසන්න සංඛ්‍යාවක් මෙන්ම මාර්ගයේ ගමන් ගත් සැක කටයුතු පුද්ගලයන්ද දැඩි පරීක්ෂාවට ලක්කර මත්ද්‍රව්‍ය සොයා ගත් බව පොලීසිය පවසයි.
+The operation was covered with Jampatta, St. Anthony's Road and Ratnam Road 44 estate.
 
-පුරා පැය 2කට ආසන්න කාලයක් සිදුකළ මෙහෙයුම සඳහා "අමායි"  නමැති සුනඛ බැල්ලිය ද යොදා ගැනුණු අතර විශේෂ කාර්ය බළකායේ  නිලධාරින් ඇතුළු පොලිස් නිලධාරීන් 50කට ආසන්න ප්‍රමාණයක් මෙහෙයුම සඳහා සහභාගි වූහ.
+The operation has taken 12,900 milligrams of ice narcotics and 500 grams of marijuana and 10 grams of marijuana.
 
-අත්අඩංගුවට ගත් සැකකරුවන් සහ සැකකාරියන් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+Nearly 40 houses identified in these areas and the suspicions of the road were severely inspected and drugs were recovered.
+
+The 'Amai' bitch was used for nearly 2 hours, and nearly 50 police officers including the STF officers and STF officers were present at the operation.
+
+The suspects are to be produced before courts.
 
 ◼️
 
 [Data](articles/5463470f.json)
 
+[Extended Data](ext_articles/5463470f.ext.json)
+
 ---
 
-### දේවගැතිවරයාගේ වාහන අංගනයෙන් තවත් සැපරියක් මතුවෙයි
+### Another sacrifice emerge from the pastor's vehicle
 
 *2024-11-07 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203000) · `si`
 
-නීතිවිරෝධීව සුඛෝපභෝගී මෝටර් රථයක් සන්තකයේ තබාගැනීමට අත්අඩංගුවට ගත්‍ දේවගැතිවරයාගේ වාහන අංගනයේ තිබී තවත් සුඛෝපභෝගී මෝටර් රථයක් සොයා ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මහනුවර ගාල්තැන්න දේවාලයේ දේවගැතිවරයා පසුගියදා අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගත කළ අතර ඔහු සම්බන්ධයෙන් සිදුකළ විමර්ශනවලින් අනතුරුව මෙම මෝටර් රථය සොයාගැනීමට විමර්ශන නිලධාරීන් සමත්වී ඇත.
 
-එලෙස සොයාගත් සුඛෝපභෝගී මෝටර් රථයට සමාන අංකයක් ඇති මෝටර් රථයක් කුරුණෑගල - හෙට්ටිපොළ ප්‍රදේශයේ ඇති බවට පරීක්ෂණවලින් අනාවරණය වීමත් සමග අදාළ රථය පොලිස් භාරයට ගෙන තිබේ.
 
-සිද්ධිය සම්බන්ධයෙන් වැඩිදුර පරීක්ෂණ තෙල්දෙණිය අපරාධ විමර්ශන අංශයේ නිලධාරීන් විසින් මෙහෙයවනු ලබයි.
+Pastor arrested for luxury car possession. Vehicle seized during investigation. Further inquiries ongoing by Criminal Investigation Unit.
+
+🟩
+
+Another luxury car has been found in the vehicles of the pasts arrested for possession of a luxury car.
+
+The pastor of the Gallewa Devalaya was arrested recently and remanded the vehicle after investigations into his investigation.
+
+The vehicle has been taken into custody by investigations into the Colombo-Hettipola area.
+
+Further investigations are conducting further investigations by the Criminal Investigation Unit.
 
 ◼️
 
 [Data](articles/6a0ec63d.json)
+
+[Extended Data](ext_articles/6a0ec63d.ext.json)
 
 ---
 
@@ -197,6 +289,36 @@ Following a competitive bidding process a BOO agreement was signed on Tuesday (5
 [Data](articles/b58f8020.json)
 
 [Extended Data](ext_articles/b58f8020.ext.json)
+
+---
+
+### Postal voting today
+
+*2024-11-07 10:59:49* · [`adalk`](https://www.ada.lk/breaking_news/අද-හා-හෙටත්-තැපැල්-ඡන්දය-දෙන්න-අවස්ථාව/11-412904) · `si`
+
+Postal voting available July 7-8. Mark at district election offices. Eligible voters can cast ballots. Turnout on April 4. Conducted in government institutions and military camps on June 1. Five valid IDs accepted: registration confirmation letter, national ID, driving license, PC ID, or duty ID. Unidentified officials must verify voter ID before issuing ballot cards.
+
+🟩
+
+The Elections Commission states that the postal voting can be used today (07th) and tomorrow (8th), the parliamentary voting cannot be marked in connection with the parliamentary election.
+
+Accordingly, the postal vote can be marked at district election offices in the district of the district.
+
+The postal voters of postal voters have qualified for this year's election.
+
+The voter turnout of the postal voting in the 4th of this month have been voted on the 4th of this month.
+
+The postal voting was carried out on the 1st of this month and 4 days of government institutions and military camps.
+
+The Elections Commission has published five valid identity papers to ensure the identity of the postal voting.
+
+Accordingly, the confirmation letter issued by the Department of Registration of Persons in the Department of Registration of Persons ID, the National Identity Card, Valid Driving License and the Election Commission (PC) can be used by the UPFA.
+
+...
+
+[Data](articles/13b32b43.json)
+
+[Extended Data](ext_articles/13b32b43.ext.json)
 
 ---
 
@@ -945,6 +1067,8 @@ Data show that central bank offered through open market auction more ‘printed 
 ...
 
 [Data](articles/5658bd7a.json)
+
+[Extended Data](ext_articles/5658bd7a.ext.json)
 
 ---
 
@@ -2187,101 +2311,5 @@ Posting on his official ‘X’ account, Dissanayake said: “Warm congratulatio
 [Data](articles/ef28a262.json)
 
 [Extended Data](ext_articles/ef28a262.ext.json)
-
----
-
-### Mom and daughter who traveled ice drug racket
-
-*2024-11-06 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202980) · `si`
-
-Sri Lanka police arrest 3 in ice drug raid: 28-year-old man, 37-year-old woman, 58-year-old daughter seized 508g and 507g ice drugs
-
-🟩
-
-A suspect and two suspects have been arrested in a raid conducted by the Special Task Force of the Sri Jayewardenepura camp.
-
-The police said that the raid was carried out yesterday afternoon.
-
-Police have arrested a suspect and another suspect who had supported the ice drugs 508 grams.
-
-A person from a car from a car to provide drugs and had been arrested while she had been possessing 507 grams of ice.
-
-The suspect is a 28 year old resident of Kaduwela, mother and daughter in Usweetakaia, aged 37 and 58 years old.
-
-◼️
-
-[Data](articles/62ea87c4.json)
-
-[Extended Data](ext_articles/62ea87c4.ext.json)
-
----
-
-### Ratmalana reveals the cause of red
-
-*2024-11-06 19:12:49* · [`adalk`](https://www.ada.lk/picture_story/රත්මලාන---බඩෝවිට-ඇළ-මාර්ගය-රතු-පාටවීමට-හේතුව-හෙළි-වෙයි/10-412899) · `si`
-
-Ratmalana canal turns red due to pigment release. Central Environmental Authority investigates, finds water quality safe. Police arrests suspect responsible for dyeing canal.
-
-🟩
-
-The Central Environmental Authority urges the public not to be disturbed by redness of redness in Ratmalana, Ratmalana. The water is red on this canal from 05 November 2024. According to the Central Environmental Authority, the Central Environmental Office of the Central Environmental Authority has conducted a sector investigation on this same day.
-
-The field inspection revealed that the color of the canal has changed due to the release of a pigment to the relevant canal.. The Central Secretariat was made in the event of the tests that could be made at the same time.. There are also investigations that this pigment is a melt (water soluble) is a melting water in water and that the PH parameters in accordance with existing environmental condition, there are no higher values. Water Quality Laboratory Officers of the CEA have obtained the water samples to conduct further investigations.
-
-...
-
-[Data](articles/59daf0af.json)
-
-[Extended Data](ext_articles/59daf0af.ext.json)
-
----
-
-### Ratmalana reveals the cause of red
-
-*2024-11-06 19:12:49* · [`adalk`](https://www.ada.lk/uncategorized/රත්මලාන---බඩෝවිට-ඇළ-මාර්ගය-රතු-පාටවීමට-හේතුව-හෙළි-වෙයි/1-412899) · `si`
-
-Ratmalana canal turns red due to dye release. Investigation ongoing. No health risk reported. Police investigating source.
-
-🟩
-
-The Central Environmental Authority urges the public not to be disturbed by redness of redness in Ratmalana, Ratmalana. The water is red on this canal from 05 November 2024. According to the Central Environmental Authority, the Central Environmental Office of the Central Environmental Authority has conducted a sector investigation on this same day.
-
-The field inspection revealed that the color of the canal has changed due to the release of a pigment to the relevant canal.. The Central Secretariat was made in the event of the tests that could be made at the same time.. There are also investigations that this pigment is a melt (water soluble) is a melting water in water and that the PH parameters in accordance with existing environmental condition, there are no higher values. Water Quality Laboratory Officers of the CEA have obtained the water samples to conduct further investigations.
-
-...
-
-[Data](articles/87e7eef2.json)
-
-[Extended Data](ext_articles/87e7eef2.ext.json)
-
----
-
-### Ranil nominated as a respondent at Passport Rit petition
-
-*2024-11-06 19:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/202979) · `si`
-
-Former President Ranil Wickremesinghe nominated as respondent in passport procurement petition filed by Epic Lanka against government ministers. Court grants interim injunction until trial end. Petitioners claim informal procurement system used. Next hearing scheduled for December 9.
-
-🟩
-
-Former President Ranil Wickremesinghe has been nominated as a respondent of the Rit petition filed by the Court of Appeal.
-
-The petition filed by the petition filed by the Epic Lanka (Pvt) Ltd has been named as a respondent in relation to the petition filed by Epic Lanka (Pvt) Ltd.
-
-The petition is today (06) today (06).. The Court of Appeal, Kumaran Ratnam was called before the Bench.
-
-Attorneys, the lawyers appearing for the companies named as respondents in the petition as respondents to the court said that their clients had been severely prejudiced as an interim injunction had been issued.
-
-The lawyers show that the interim injunction would be in force until the end of the trial.
-
-Speaking to the petitioner party Viran Corea, appearing on behalf of the petitioner, said that the process of purchasing these passports was under an informal procurement system.
-
-The President's Counsel asked the court that he would object to the request of the interim order.
-
-...
-
-[Data](articles/de707007.json)
-
-[Extended Data](ext_articles/de707007.ext.json)
 
 ---

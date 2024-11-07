@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 00:56:56**
+As of **2024-11-08 01:24:28**
 
 ## Newspaper Stats
 
-*Scraped **53,622** Articles*
+*Scraped **53,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
-tamilmirrorlk | 7,465
+tamilmirrorlk | 7,466
 virakesarilk | 8,677
 adaderanasinhalalk | 9,345
 
@@ -26,9 +26,35 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,622 (100.0%) of 53,622 articles have been extended.
+53,623 (100.0%) of 53,623 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-08 (Friday)
+
+### "If you say once a hundred times,"
+
+*2024-11-08 00:35:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-தடவை-சொன்னால்-நூறு-தடவை-சொன்ன-மாதிரி/175-346750) · `ta`
+
+Ranjan Ramanayake leads United Democratic Voice Party in Nuwara Eliya district. Campaigning for three seats, he promises honesty and claims victory. Mud campaigns and legal challenges fail to deter him. He urges supporters to vote on April 14th.
+
+🟩
+
+“People will give us the status of the second largest party in the general election. Ranjan Ramanayake, leader of the United Democratic Voice Party, said, "We are sure to win three seats in Nuwara Eliya district."
+
+The election campaign meeting to introduce the party's introduction and policies to the United Democratic Voice Party supporters in Nuwara Eliya district was held on Thursday (07).
+
+United Democratic Voice Party leader Ranjan Ramanayake, United Democratic Voice Party Nuwara Eliya District Chief candidate Anusha Chandrasekaran and Badulla district candidate Vadivel Suresh were also present.
+
+The United Democratic Party has been launched and supported within a short period of time. This is why mud campaigns are being carried out against the party. Some people even sought court to prevent me from coming to parliament. That effort ended in failure. There were also arrangements to ban the party. That too will not succeed.
+
+...
+
+[Data](articles/fa9ac921.json)
+
+[Extended Data](ext_articles/fa9ac921.ext.json)
+
+---
 
 ### 2024-11-07 (Thursday)
 
@@ -2411,27 +2437,5 @@ The High Commissioner of Britain can also be able to educate Parliamentarians of
 [Data](articles/39ce6a57.json)
 
 [Extended Data](ext_articles/39ce6a57.ext.json)
-
----
-
-### Sri Lanka crowned ‘Most Desirable Island in the World’
-
-*2024-11-07 10:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103229/sri-lanka-crowned-most-desirable-island-in-the-world) · `en`
-
-Sri Lanka has been voted the Most Desirable Island in the World at the Wanderlust Reader Travel Awards 2024 in London.
-
-At the prestigious Wanderlust Reader Travel Awards 2024 held in London, Sri Lanka emerged as the “Most Desirable Island in the World,” marking a significant milestone in its tourism recovery journey.
-
-More than 200,000 passionate travelers voted for Sri Lanka, reflecting the island’s powerful appeal and diverse attractions.
-
-Sri Lanka has risen from last year’s eighth place to take Gold in one of the Awards’ most thrilling turnarounds.
-
-Announcing the results Wanderlust said: “Known as the ‘Pearl of the Indian Ocean’, the nation’s history comes to life through spectacular monuments such as Sigiriya Rock, the cave temples of Dambulla and the ancient ruins of Anuradhapura and Polonnaruwa.”
-
-...
-
-[Data](articles/1c0d7288.json)
-
-[Extended Data](ext_articles/1c0d7288.ext.json)
 
 ---

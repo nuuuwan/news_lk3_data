@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 21:11:07**
+As of **2024-11-07 21:25:05**
 
 ## Newspaper Stats
 
-*Scraped **53,602** Articles*
+*Scraped **53,603** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 5,016
 adaderanalk | 6,390
 tamilmirrorlk | 7,464
 virakesarilk | 8,675
-adaderanasinhalalk | 9,342
+adaderanasinhalalk | 9,343
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,601 (100.0%) of 53,602 articles have been extended.
+53,602 (100.0%) of 53,603 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### ගිනිඅවි භාරදීමට දී තිබූ කාලය දීර්ඝ කෙරේ
+
+*2024-11-07 21:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203016) · `si`
+
+පුද්ගලික ආරක්ෂාව සඳහා සිවිල් පුද්ගලයින් ට ලබාදී ඇති ගිනිඅවි සහ පතොරම් ආපසු භාරදීමට දී තිබූ කාලය දීර්ඝ කර තිබේ.
+
+ඒ අනුව මේ මස 21 වනදා දක්වා එම කාලය දීර්ඝ කළ බව ආරක්ෂක අමාත්‍යාංශය පවසයි.
+
+◼️
+
+[Data](articles/fc65a790.json)
+
+---
 
 ### Two new Ambassadors present credentials to President Dissanayake
 
@@ -214,19 +228,27 @@ The shooting has been carried out by one individual while the motive behind the 
 
 ---
 
-### ත්‍රිපෝෂ සමාගම අහෝසි කරලා
+### The Thriposhas was abolished
 
 *2024-11-07 19:13:29* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිපෝෂ-සමාගම-අහෝසි-කරලා/11-412918) · `si`
 
-ශ්‍රී ලංකා ත්‍රිපෝෂ සමාගම ආහෝසි කිරීමට අනුර කුමාර දිසානායක මහතා ජනාධිපති ධුරයට පත්වීමත් සමග කටයුතු කර ඇති බවත්,  මෙලෙස ත්‍රිපෝෂ සමාගම අහෝසි කිරීමට හේතුව කුමක්ද යන්න පිළිබඳ වර්තමානයේ ගැටලුවක් මතුව තිබෙන බවත්, ජන අරගල සන්ධානයේ මහ මැතිවරණ අපේක්ෂක පුබුදු ජයගොඩ මහතා පැවසීය.
+Thriposha Company abolished due to excess production. Anura Kumara Dissanayake appointed as President. Maha Kumara Dissanayake takes presidential election. Gazette notification issued, company not transferred to any ministry. Thriposha crucial for national nutrition. Production exceeds demand, government intervention causes market surplus. Company generates significant revenue for treasury. Abolition planned despite importance in meeting nutritional needs.
 
-අද (07දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.එහිදී වැඩිදුරටත් පුබුදු ජයගොඩ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-“අනුර දිසානායක ජනාධිපතිවරයා විදිහට පත්වීමත් එක්කම 2024 සැප්තැම්බර් 27 අංක 2403/53 දරන ගැසට් නිවේදනය නිකුත් කළා. මේ ගැසට් නිවේදනයේ 8 පිටුවේ 36වෙනි වගන්තියට අනුව ආණ්ඩුව තීරණයක් අරගෙන තියනවා සීමාසහිත ශ්‍රී ලංකා ත්‍රිපෝෂ සමාගම අහෝසි කරන්න. ඒක නිසා අමාත්‍යාංශ ගැසට් කිරීමේදී ත්‍රිපෝෂ සමාගම කිසිදු අමාත්‍යාංශයකටවත් පවරලා නෑ.
+Anura Kumara Dissanayake has acted with the appointment of the President of Sri Lanka and the Maha Kumara Dissanayake has taken the president's election and the cause of the Triposha Company.
+
+He was speaking at a media briefing in a media briefing today (07).
+
+"As Anura Dissanayake was appointed President, issue of the gazette notification No. 2403/53 of September 27, 2024. According to the gazette notification, the government has decided to determine the decision of the Sri Lanka Thriposha Company Limited Limited. As a result, the Thriposha Company has not handed over to any Ministry.
+
+We know Thriposha recommends less than 5 years, under 5 years of age, the mothers of the official and milking mothers. Thriposhaship is essential for the nutrition of the people of the country. 1987 this company started a private tobacco products company with a private tobacco firm, 2011, the Government Ministry of Health was the necessary public service.
 
 ...
 
 [Data](articles/68729c56.json)
+
+[Extended Data](ext_articles/68729c56.ext.json)
 
 ---
 
@@ -2425,31 +2447,5 @@ The sergeant has been released on bail under the presence of drunken driving, ac
 [Data](articles/aa5d65f0.json)
 
 [Extended Data](ext_articles/aa5d65f0.ext.json)
-
----
-
-### Strict warning to those who provide false information
-
-*2024-11-07 09:06:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொய்யான-தகவல்களை-வழங்குபவர்களுக்கு-கடுமையான-எச்சரிக்கை/175-346701) · `ta`
-
-Warning: False information leads to legal consequences. Over 100 complaints about misuse of emergency hotline. Raid conducted on politician's home based on false tip. Bomb scare at luxury hotel turned out to be false.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that more than a hundred complaints received for the 1997 emergency telephone number introduced after Anura Kumara Dissanayake were appointed president.
-
-He also said that legal action will be taken against those who provide such false information.
-
-Recently, the raid was conducted on the basis of information received by former parliamentarian Sujeewa Senasinghe's home illegal vehicle.
-
-Meanwhile, a media spokesman said last Saturday, based on information received that there was a bomb in the Shangrila luxury building in the Shangrila Luxury Building constituency, where ambassadors, diplomats and famous traders.
-
-He said at a press conference announcing the Cabinet decisions held at the Government Information Department yesterday (06) that no such bomb was found on that day.. Remble
-
-◼️
-
-[Data](articles/886eba68.json)
-
-[Extended Data](ext_articles/886eba68.ext.json)
 
 ---

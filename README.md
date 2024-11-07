@@ -1,36 +1,84 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-07 10:40:15**
+As of **2024-11-07 10:58:38**
 
 ## Newspaper Stats
 
-*Scraped **53,508** Articles*
+*Scraped **53,512** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 418
-bbccomsinhala | 546
+bbccomsinhala | 547
 colombotelegraphcom | 547
 islandlk | 3,200
 economynextcom | 3,242
 dailyftlk | 3,659
 dailymirrorlk | 4,733
 adalk | 4,999
-adaderanalk | 6,373
+adaderanalk | 6,374
 tamilmirrorlk | 7,451
-virakesarilk | 8,652
+virakesarilk | 8,654
 adaderanasinhalalk | 9,325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,508 (100.0%) of 53,508 articles have been extended.
+53,512 (100.0%) of 53,512 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-07 (Thursday)
+
+### The general election campaigns were completed by midnight on Monday
+
+*2024-11-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198088) · `ta`
+
+General election campaigns ended midnight Monday. Campaign ban enforced until election day. Police authorized arrests for violations. Voters missed postal voting allowed to cast ballots District Secretariat today and tomorrow.
+
+🟩
+
+The campaign period ends at midnight on Monday (11) as the general election is due to be held on the 14th.
+
+In this case, the silence has been proclaimed for a long time from midnight to the end of the general election.
+
+The Election Commission stated that all election campaigns have been banned during this period.
+
+At the same time, the National Election Commission said that the police were authorized to arrest any person who violates the election law.
+
+Meanwhile, voters who failed to vote on the postal days are allowed to vote at the District Secretariat today (07) and day (08).
+
+◼️
+
+[Data](articles/97d88e71.json)
+
+[Extended Data](ext_articles/97d88e71.ext.json)
+
+---
+
+### Yall. Death of a young man
+
+*2024-11-07 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198090) · `ta`
+
+Young man dies after being stung by wasp in Jaffna. Navaratnam Ketheeswaran, 35, succumbed to injuries without medical care. Incident occurred on July 4th in West Jaffna.
+
+🟩
+
+A young man who was targeted at the wasp on the 4th of July in the West of Jaffna has died without treatment.
+
+Navaratnam Ketheeswaran (age 35) of Kalipitiya West is the deceased.
+
+The young man was in his vehicle when he was sleeping. The youth has died tragically without treatment.
+
+◼️
+
+[Data](articles/b874be2c.json)
+
+[Extended Data](ext_articles/b874be2c.ext.json)
+
+---
 
 ### “Ranil cannot remain silent for a long time”
 
@@ -53,6 +101,24 @@ He said he would not be able to remain silent for a long time because the need f
 [Data](articles/a596cc3f.json)
 
 [Extended Data](ext_articles/a596cc3f.ext.json)
+
+---
+
+### 50,000 foreign cigarettes and 210 liquor bottles seized in Pettah
+
+*2024-11-07 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103226/50000-foreign-cigarettes-and-210-liquor-bottles-seized-in-pettah) · `en`
+
+Police have arrested a suspect along with a stock of illegally imported foreign liquor bottles and cigarettes at Third Cross Street in Pettah on Wednesday (06).
+
+During a raid carried out by the officers of Pettah Police acting on a tip-off, 210 bottles of foreign liquor and 50,000 foreign cigarettes (250 cartons), which had been illegally smuggled into the country evading duty, were seized, the Police Media Division said.
+
+The 54-year-old arrested suspect is a resident of Colombo 10, according to police.
+
+◼️
+
+[Data](articles/76b24b75.json)
+
+[Extended Data](ext_articles/76b24b75.ext.json)
 
 ---
 
@@ -579,6 +645,30 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/a152f578.json)
 
 [Extended Data](ext_articles/a152f578.ext.json)
+
+---
+
+### 'Put legal action against people who gave me the post' - Dr. Shafi
+
+*2024-11-07 04:41:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c87x3np7zg3o) · `si`
+
+Dr. Shafi threatens legal action against those responsible for a false accusation. He expresses relief over the case's outcome, calling it a victory for justice in Sri Lanka.
+
+🟩
+
+'Put legal action against people who gave me the post' - Dr. Shafi
+
+Dr. Shihabadeen, Dr. Shihabaden, says that some officials will regret it and legal legal action will be taken against them to get higher positions.
+
+Dr. Shafi expressed these views to journalists after ordering to acquit and release the case against women.
+
+"The five-month false accusation, I have come to an end to the wife, his family, for their personal benefit. I think this is not just the winter I have ever got, and is a victory of those who fought for justice in Sri Lanka, "
+
+◼️
+
+[Data](articles/5499d99e.json)
+
+[Extended Data](ext_articles/5499d99e.ext.json)
 
 ---
 
@@ -2251,93 +2341,5 @@ A landslide warning has been issued to "keep" for the Badulla, Galle, Kalutara, 
 [Data](articles/e96a6454.json)
 
 [Extended Data](ext_articles/e96a6454.ext.json)
-
----
-
-### Court orders to probe false report on President published online during election
-
-*2024-11-06 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103212/court-orders-to-probe-false-report-on-president-published-online-during-election) · `en`
-
-The Colombo Magistrate’s Court today (06) ordered the Criminal Investigation Department (CID) to carry out a full investigation into a false report published on the internet regarding the incumbent President during the recent presidential election.
-
-It is alleged that the report in question, published during the election period, had made false claims concerning the health of the incumbent President Anura Kumara Dissanayake.
-
-The court directed the CID to investigate the incident thoroughly and to arrest and produce the suspects before the court.
-
-The CID had presented the fatcs to the Colombo Magistrate’s Court today, according to a complaint made by Attorney-at-Law Sunil Watagala,.
-
-In his complaint, Watagala stated that this false information was uploaded to the internet via an account belonging to an individual b the name of ‘Subhash.’
-
-Presenting an investigation report, CID officials confirmed that inquiries into the incident are ongoing.
-
-◼️
-
-[Data](articles/317284ed.json)
-
-[Extended Data](ext_articles/317284ed.ext.json)
-
----
-
-### Sri Lanka stocks close down, turnover at Rs3bn
-
-*2024-11-06 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-turnover-at-rs3bn-186290/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Wednesday, data on its site showed.
-
-The broader ASPI closed down 0.60 percent, or 76.93 points, at 12,719; while the more liquid S&P SL20 Index closed down 0.73 percent, or 27.94 points, at 3,824.
-
-John Keells Holdings saw interest and contributed 1.2 billion rupees to the turnover.
-
-Most banks closed down: Hatton National Bank (down at 227.50), Commercial Bank (down at 115.50), Sampath Bank (down at 89.50), National Development Bank (down at 85.00), DFCC Bank (down at 82.30).
-
-Crossings were recorded on HNB, JKH, PGP Glass, Hayleys Fabric (down at 51.10), Singer, Dipped Products (down at 38.60), Commercial Credit and Finance (down at 41.60), Commercial Bank and Vallibel One (up at 54.70).
-
-Top contributors to the ASPI were Co-operative Insurance Company (up at 2.80), Dilmah Ceylon Tea Company (up at 1,069.75), Singer Sri Lanka (up at 20.40), Amana Takaful (11.20) and Chevron Lubricants (up at 126.50).
-
-...
-
-[Data](articles/2c011f46.json)
-
-[Extended Data](ext_articles/2c011f46.ext.json)
-
----
-
-### Three arrested over murder of Kempitiya Walawwa owner
-
-*2024-11-06 16:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103211/three-arrested-over-murder-of-kempitiya-walawwa-owner) · `en`
-
-Three individuals, including the wife of a wealthy businessman, have been arrested in connection with the murder of the owner of Kempitiya Walawwa in Kegalle.
-
-The victim was found tied up and strangled to death on October 27. Later, police found his wife who had also been tied up.
-
-According to police, the murder was carried out with the intent to robbing cash and gold jewellery from the house however, they had only managed to steal Rs. 10,000 in cash and the victim’s gold ring.
-
-Accordingly, the officer-in-charge (OIC) of the Kegalle Division Crimes Investigation Unit, Chief Inspector Apasara Abeysekara who led the investigation, received information that a person who was involved in two similar robberies in Dedigama and Warakapola areas recently was also connected with this murder.
-
-Further information had also been received that the suspects were hiding in a house in the Thumbowila area in Piliyandala.
-
-...
-
-[Data](articles/868550db.json)
-
-[Extended Data](ext_articles/868550db.ext.json)
-
----
-
-### Arjun Aloysius to be arrested for purchase of maize
-
-*2024-11-06 16:45:38* · [`adalk`](https://www.ada.lk/breaking_news/බඩ-ඉරිඟු-මිලදී-ගැනීමේ-වංචාවකට-අර්ජුන්-ඇලෝසියස්-අනුරාධපුර-බන්ධනාගාරයට/11-412891) · `si`
-
-Arjun Aloysius arrested for buying maize. Taken to Anuradhapura prison. Details from I J P B Chaturanga report.
-
-🟩
-
-Arjun Aloysius was taken to Anuradhapura prison for the purchase of maize. (I J) P. B. Chaturanga
-
-◼️
-
-[Data](articles/eef2a419.json)
-
-[Extended Data](ext_articles/eef2a419.ext.json)
 
 ---

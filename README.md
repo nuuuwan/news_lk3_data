@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 18:34:52**
+As of **2024-11-08 18:59:57**
 
 ## Newspaper Stats
 
-*Scraped **53,752** Articles*
+*Scraped **53,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,129 @@ islandlk | 3,209
 economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,027
-adaderanalk | 6,406
-tamilmirrorlk | 7,494
+adalk | 5,028
+adaderanalk | 6,408
+tamilmirrorlk | 7,495
 virakesarilk | 8,699
-adaderanasinhalalk | 9,371
+adaderanasinhalalk | 9,373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,752 (100.0%) of 53,752 articles have been extended.
+53,754 (100.0%) of 53,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### රාජ්‍ය සේවක වැටුප ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-11-08 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203050) · `si`
+
+තම රජයේ පළමු අයවැය ලේඛනයෙන්ම රාජ්‍ය සේවක වැටුප් ඉහළ නංවන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+අද (08) සවස කෑගල්ල ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමින් ජනාධිපතිවරයා වැඩිදුරටත් පවසා සිටියේ, අස්වැසුම නොලැබෙන පිරිසට නැවත අභියාචනා ඉදිරිපත් කළ හැකි බවය.
+
+එමෙන්ම ආහාර මිල දී ගැනීමට පවා වත්කමක් නොමැති පවුල් සිටින්නේ නම්, එවැනි පිරිසට දේශපාලන මැදිහත්වීමකින් තොරව යම් දීමනාවක් කෙටි කාලයක් සඳහා ලබාදීමට තීරණය කළ බව ද ජනාධිපතිවරයා පැවසීය.
+
+ජනාධිපතිවරයා තවදුරටත් පැවසුවේ, පාසල් පොත් සහ පාසල් උපකරණ මිලදී ගැනීමට නොහැකි දරුවන් සඳහා දීමනාවක් ලබාදෙන බවය.
+
+...
+
+[Data](articles/4419ed34.json)
+
+---
+
+### Police arrest 11 candidates who broke out election laws
+
+*2024-11-08 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203049) · `si`
+
+Sri Lanka police arrest 11 candidates for election law violations amid 340 complaints. Over 1 million posters removed, 500k taken custody. Elections Commission reports 150 new complaints, mostly for violating election laws.
+
+🟩
+
+DIG, Media Spokesperson Attorney at Law Nihal Talduuwa said that the Sri Lankan police have received 340 complaints regarding the parliamentary election.
+
+He said that 364 persons have been arrested in connection with election laws this afternoon and 11 of them and 356 candidates were arrested.
+
+Among the complaints have received 54 complaints of criminal nature and 286 in violation of election law violations.
+
+Meanwhile, more than one million posters have been removed, and nearly a large number of past five hundred thousand has been taken into custody.
+
+Another 1,010 cuts have been taken into custody to remove 855 banners and another 458.
+
+Police Media Spokesperson DIG Nihal Talduuwa further stated that more than 645 leaflets have been taken into custody.
+
+Meanwhile, the Elections Commission says that the number of complaints received regarding the general election has further increased.
+
+Issuing a statement and the number of complaints received by 150 complaints received by yesterday.
+
+...
+
+[Data](articles/2a564ad9.json)
+
+[Extended Data](ext_articles/2a564ad9.ext.json)
+
+---
+
+### Allowance for school children who can’t afford stationary books, equipment – President
+
+*2024-11-08 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103264/allowance-for-school-children-who-cant-afford-stationary-books-equipment-president) · `en`
+
+President Anura Kumara Dissanayake says an allowance will be provided for school children who are unable to purchase stationary books and equipment.
+
+He stated that this will be provided when the new school term begins at the end of January next year.
+
+President Dissanayake revealed this while addressing a public meeting in Kegalle on Friday (08).
+
+◼️
+
+[Data](articles/a8b552c9.json)
+
+[Extended Data](ext_articles/a8b552c9.ext.json)
+
+---
+
+### Allowance for school children who can’t afford books and equipment – President
+
+*2024-11-08 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103264/allowance-for-school-children-who-cant-afford-books-and-equipment-president) · `en`
+
+President Anura Kumara Dissanayake says an allowance will be provided for school children who are unable to purchase stationary books and equipment.
+
+He stated that this allowance will be provided when the new school term begins at the end of January next year.
+
+President Dissanayake revealed this while addressing a public meeting in Kegalle on Friday (08).
+
+“The new school term will begin in the end of January. We will provide an allowance for all children who are unable to properly purchase school books and school equipment, when children go to school in the new term.”
+
+He stated that the National People’s Power (NPP) government will increase the salaries of public sector employees through its very first budget.
+
+President Dissanayake added that instructions have already been issued to divisional secretariats to allow those who are not receiving the ‘Aswesuma’ welfare benefits to once again present appeals.
+
+...
+
+[Data](articles/f284a5a7.json)
+
+---
+
+### அக்குரணை நகரம் நீரில் மூழ்கியது
+
+*2024-11-08 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அக்குரணை-நகரம்-நீரில்-மூழ்கியது/76-346791) · `ta`
+
+கண்டி மாவட்டத்தின் பல பகுதிகளில் பிற்பகல் முதல் பெய்து வரும் கடும் மழை காரணமாக கண்டி - யாழ்ப்பாணம் ஏ-09 வீதியில் உள்ள அக்குரணை நகரம் நீரில் மூழ்கியது.
+
+அக்குரணை நகரின் ஊடாக பாயும் பிரதான ஓயா மற்றும் வஹகல ஓயா பெருக்கெடுத்து ஓடுவதால் அக்குரணை நகரின் பிரதான வீதிகள் நீரில் மூழ்கியதுடன் ஹத்தே கன்வான, குடுகல மற்றும் ஏனைய பிரதேசங்களும் நீரில் மூழ்கியுள்ளன.
+
+கண்டி - யாழ்ப்பாணம் ஏ-09 வீதியில் மூன்று மணித்தியாலங்களுக்கு மேலாக அந்த வீதியின் போக்குவரத்து ஸ்தம்பிதமடைந்திருந்தது.
+
+அக்குரணை நகரின் பிரதான ஓயா மற்றும் வஹகல ஓயா என்பன நிரம்பி வழிவதால் வருடத்திற்கு பல தடவைகள் அக்குறணை நகரில் வெள்ளப்பெருக்கு ஏற்படுவது வழமையான நிலைமையாக மாறியுள்ளது.
+
+◼️
+
+[Data](articles/fdbe1ad3.json)
+
+---
 
 ### Education Ministry issues circular on school social media groups
 
@@ -193,6 +301,20 @@ They were also assaulted by the MACCABI soccer group, if MacCabi Tel AVIV.
 [Data](articles/9c32d8d4.json)
 
 [Extended Data](ext_articles/9c32d8d4.ext.json)
+
+---
+
+### ඖෂධ හල් වැසියාමේ අවධානමක් නෑ
+
+*2024-11-08 17:00:05* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හල්-වැසියාමේ-අවධානමක්-නෑ/11-412931) · `si`
+
+වාර්ෂික බලපත්‍ර අලුත් කිරිම සඳහා ඖෂධ නියාමන අධිකාරියට යොමුකළ ඉල්ලුම් පත්‍ර රාශියක් ප්‍රතික්ෂේප කිරිම හේතුවෙන් ඖෂධ හල් රාශියක් වැසි යාමේ අවධානමකට ලක්ව ඇති බව පෞද්ගලික ඖෂධ ශාලා හිමිකරුවන්ගේ සංගමයේ සභාපති සඳහන් කළැයි කියමින් පළ වූ වාර්තා ජනතාව නොමග යවන සුළු බව ජාතික ඖෂධ නියාමන අධිකාරිය පවසයි.
+
+එහි සභාපති විශේෂඥ වෛද්‍ය ආනන්ද විජේවික්‍රම මහතා නිවේදනයක් නිකුත් කරමින් පවසන්නේ ඖෂධ හල් බලපත්‍ර ලබාදිම සම්බන්ධයෙන් කිසිඳු හදිසි තිරණයක් ගෙන නොමැති බවත් මේ වෙනුවෙන් ක්‍රියාත්මක ක්‍රම වේදයේද වෙනසක් කර නොමැති බවයි.
+
+◼️
+
+[Data](articles/cc59183f.json)
 
 ---
 
@@ -2339,127 +2461,5 @@ The public requests the public to take necessary steps to reduce the damages cau
 [Data](articles/18455cfb.json)
 
 [Extended Data](ext_articles/18455cfb.ext.json)
-
----
-
-### Interior and Product Design Exhibition returns at Sri Lanka Design Festival 2024
-
-*2024-11-08 06:14:01* · [`dailyftlk`](https://www.ft.lk/business/Interior-and-Product-Design-Exhibition-returns-at-Sri-Lanka-Design-Festival-2024/34-768987) · `en`
-
-The15th edition of the Sri Lanka Design Festival (SLDF) will celebrate ‘Innovation Island’ presenting a dynamic blend of a business-to-business commercial program alongside an inspiring public program of immersive workshops, exhibitions, and visionary talks led by local and global creative icons
-
-Interior and Product Design Exhibition: Daily until 10 November 10 a.m. to 6 p.m. at the Lumina Ballroom, at Colombo’s iconic new Landmark, Cinnamon Life at City of Dreams
-
-As Sri Lanka enters a new era of creativity and innovation, the Sri Lanka Design Festival (SLDF) has reintroduced its acclaimed Product and Interior Design Exhibition, a cornerstone event showcasing Sri Lanka’s design talent. This year’s exhibition emphasises products designed and made in Sri Lanka, underscoring the nation’s rising focus on homegrown design-led industries and innovation.
-
-The exhibition was opened on Wednesday by British High Commissioner Andrew Patrick.
-
-...
-
-[Data](articles/fa3766d1.json)
-
-[Extended Data](ext_articles/fa3766d1.ext.json)
-
----
-
-### Gem Sri Lanka 2025 in January to lure global buyers
-
-*2024-11-08 06:11:06* · [`dailyftlk`](https://www.ft.lk/business/Gem-Sri-Lanka-2025-in-January-to-lure-global-buyers/34-768986) · `en`
-
-Experts see major global growth potential for Sri Lanka’s gem industry through targeted innovation, with China emerging as promising market for coloured gemstones
-
-South Asia’s premier precious stone showcase, Gem Sri Lanka, is set to make a dazzling return from 7 to 10 January next year at the Cinnamon Bentota Beach, with a goal of taking the country global.
-
-Organised by the Chinafort Gem and Jewellery Traders Association (CGJTA), Gem Sri Lanka has become a significant platform to connect international buyers with Sri Lankan traders. Gem Sri Lanka 2025 is the second edition of the exhibition, with a diverse line-up of buyers from the USA, Europe, Russia, China, and across Asia.
-
-...
-
-[Data](articles/2c63d51b.json)
-
-[Extended Data](ext_articles/2c63d51b.ext.json)
-
----
-
-### Ceylon Tobacco Company appoints Samanmalee Chandrasiri to Board of Directors
-
-*2024-11-08 06:09:16* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Tobacco-Company-appoints-Samanmalee-Chandrasiri-to-Board-of-Directors/34-768985) · `en`
-
-The Ceylon Tobacco Company PLC yesterday announced the appointment of Samanmalee Priyanvada Chandrasiri as a Non-Executive Director to its Board effective 7 November.
-
-She is a globally experienced HR leader with a proven track record of driving impactful business transformations across multiple markets and functional areas.
-
-With an MBA from Edith Cowan University and a BSc in Management from the University of London, Samanmalee brings a strong academic foundation paired with nearly two decades of HR expertise.
-
-...
-
-[Data](articles/a80f3870.json)
-
-[Extended Data](ext_articles/a80f3870.ext.json)
-
----
-
-### Why power from Sri Lanka is better option than offshore wind
-
-*2024-11-08 06:07:50* · [`dailyftlk`](https://www.ft.lk/business/Why-power-from-Sri-Lanka-is-better-option-than-offshore-wind/34-768984) · `en`
-
-Wind industry sources estimate island nation has 65 GW onshore potential
-
-The recently released National Electricity Plan document of the Central Electricity Authority (CEA) notes that India and Sri Lanka have agreed on the detailed project report (DPR) for building a transmission line between the two countries. This marks a significant milestone in a journey that traces back to 2002.
-
-“Detailed project report (DPR) for the India-Sri Lanka grid interconnection, i.e, between New Madurai (India) and Mannar (Sri Lanka) 1000 MW VSC HVDC Bipole line, with HVDC terminals at both ends in two phases of 500 MW each, has been agreed,” the document says.
-
-The idea was first proposed about 25 years ago. Several pre-feasibility studies were carried out between 2002 and 2011. In 2002, a company called NEXANT did the study with the assistance of the United States Agency for International Development (USAID). In 2006, the Power Grid Corporation of India reviewed and updated the NEXANT study.
-
-...
-
-[Data](articles/1cb2558b.json)
-
-[Extended Data](ext_articles/1cb2558b.ext.json)
-
----
-
-### No space for NPP’s Govt. to do past mistakes as SL can’t survive another crisis: Eran
-
-*2024-11-08 06:06:31* · [`dailyftlk`](https://www.ft.lk/columns/No-space-for-NPP-s-Govt-to-do-past-mistakes-as-SL-can-t-survive-another-crisis-Eran/4-768983) · `en`
-
-SJB Colombo District candidate Eran Wickramaratne says President AKD won thanks to SLPP voters but some portion of those voters will not vote for the NPP in the forthcoming election
-
-Insists SJB is the biggest political party in terms of number of voters and supporters than SLFP, UNP, SLPP and the JVP
-
-Stresses the ideal candidate for a legislature should be of good character, experienced and educated
-
-Emphasises Ranil has lost 15 or more elections as the UNP Leader but Sajith has lost only two as SJB Leader and no decision to change the SJB’s leadership
-
-Says the 57% of voters who didn’t vote for President AKD will not be voting for NPP either
-
-Says President AKD is no different to most Presidential candidates of the past
-
-Opines salary increments should be based on finances and economics and they must not be political decisions
-
-Requests extension for the Parate law deadline to facilitate SMEs to come out of their present crisis
-
-Stresses need to establish zones for SMEs who lack resources
-
-...
-
-[Data](articles/dacbff26.json)
-
-[Extended Data](ext_articles/dacbff26.ext.json)
-
----
-
-### What Trump’s victory means for Sri Lanka
-
-*2024-11-08 06:00:08* · [`dailyftlk`](https://www.ft.lk/columns/What-Trump-s-victory-means-for-Sri-Lanka/4-768982) · `en`
-
-Regardless of how Trump’s rule finally ends, there can be no doubt that it is the harbinger of a destructive conclusion to the global order
-
-The victory of Donald Trump in the US Presidential election held on 5 November 2024, is likely to be a defining moment in our global epoch. Trump brought together the decades-long projects of the American oligarchy and reactionary social forces. He ran on the agenda of amplifying the darkest trends in the American polity. But while the spectre of his return rose, the Democratic leadership held onto a bankrupt vision for the future that resisted interrogation of the US empire.
-
-...
-
-[Data](articles/29a27977.json)
-
-[Extended Data](ext_articles/29a27977.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 09:24:38**
+As of **2024-11-08 09:40:52**
 
 ## Newspaper Stats
 
-*Scraped **53,667** Articles*
+*Scraped **53,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,020
 adaderanalk | 6,391
-tamilmirrorlk | 7,473
+tamilmirrorlk | 7,476
 virakesarilk | 8,681
 adaderanasinhalalk | 9,351
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 9,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,656 (100.0%) of 53,667 articles have been extended.
+53,663 (100.0%) of 53,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Intensive testing in places where rice sells
+
+*2024-11-08 09:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-விற்கும்-இடங்களில்-தீவிர-சோதனை/175-346764) · `ta`
+
+Consumer Affairs Authority intensifies rice price monitoring, conducts 2,800+ tests, files 425 cases for high prices, takes legal action against 2,060 price discrepancies and 240 rice reserve hoarding incidents. Next steps pending data inspection.
+
+🟩
+
+The Consumer Affairs Authority (CAA) has said that tests have been intensified to detect places where rice is sold at high prices.
+
+More than 2,800 rice tests have been conducted so far this year, its intelligence unit said.
+
+Of these, 425 seats have been filed against the high prices.
+
+In addition, the number of cases taken by legal action for the lack of prices of rice is 2,060.
+
+In addition, legal action has been taken against 240 cases of hiding rice reserves, the Consumer Affairs Authority said.
+
+Meanwhile, Secretary of the Ministry of Commerce MM Naimuddin said that the report on rice and paddy reserves in the country had been handed over to the President.
+
+He said the next step would be taken after inspection of the data. (That)
+
+◼️
+
+[Data](articles/2492cb13.json)
+
+[Extended Data](ext_articles/2492cb13.ext.json)
+
+---
+
+### Resolution of Trade Ministry to review prices
+
+*2024-11-08 09:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலைகளை-மதிப்பாய்வு-செய்ய-வர்த்தக-அமைச்சு-தீர்மானம்/175-346763) · `ta`
+
+Trade Ministry reviews prices due to rupee value drop. Focuses on reducing bakery and restaurant costs. Consumers complain about price cuts. Investigation ongoing on pricing fairness. Ministry plans to meet with industry associations to negotiate further reductions.
+
+🟩
+
+Considering the value of the rupee, the Ministry of Commerce has said that it has focused on the reduction of the prices of bakery and restaurants.
+
+People have lodged a complaint with the Consumer Affairs Authority regarding the percentage of the price reduction.
+
+It is currently being investigated whether the bakery and restaurant owners are providing the right price using the value of the rupee and the raw material cost.
+
+At the same time, the Ministry of Commerce has announced that it is planning to call the Bakery Owners Association and the Restaurant Owners Association to negotiate a price cut.(An)
+
+◼️
+
+[Data](articles/71c66e5a.json)
+
+[Extended Data](ext_articles/71c66e5a.ext.json)
+
+---
+
+### More than 3000 driver's licenses cancel
+
+*2024-11-08 09:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3000-இற்கும்-அதிகமான-சாரதி-அனுமதிப்பத்திரங்கள்-இரத்து/175-346762) · `ta`
+
+Over 3,000 driver's licenses suspended by courts this year due to criminal offenses.
+
+🟩
+
+More than 3,000 driver's licenses have been temporarily canceled by the courts during this year, the Motor Transport Department said.
+
+3,249 driver's licenses have been temporarily canceled since January this year, its Director General Nishantha Anurutha Weerasinghe said.
+
+He said that the driver's licenses have been temporarily canceled in accordance with the trials carried out by the courts for various crimes committed by drivers.. Remble
+
+◼️
+
+[Data](articles/e0eeb2fd.json)
+
+[Extended Data](ext_articles/e0eeb2fd.ext.json)
+
+---
 
 ### The opportunity to vote is completed today
 
@@ -710,6 +786,8 @@ Fitch highlighted that HNBA and HNBGI have strengthened their investment portfol
 
 [Data](articles/5a962ece.json)
 
+[Extended Data](ext_articles/5a962ece.ext.json)
+
 ---
 
 ### Tamil representation will definitely win
@@ -748,6 +826,8 @@ Aitken Spence Cargo (Pvt) Ltd of Aitken Spence Freight Sector secured first plac
 
 [Data](articles/ef42aa6f.json)
 
+[Extended Data](ext_articles/ef42aa6f.ext.json)
+
 ---
 
 ### General election jitters seen as deterring share investors
@@ -762,6 +842,8 @@ The All Share Price Index went up by 16.9 points, while the S and P SL20 rose by
 
 [Data](articles/0c89756d.json)
 
+[Extended Data](ext_articles/0c89756d.ext.json)
+
 ---
 
 ### KTI strengthens STEM learning with PlayShifu launch
@@ -775,6 +857,8 @@ Established in 2002, KTI has established itself as a household name, leading in 
 ...
 
 [Data](articles/b2a6276b.json)
+
+[Extended Data](ext_articles/b2a6276b.ext.json)
 
 ---
 
@@ -2175,89 +2259,5 @@ The candidate is said to be a Member of Parliament for the Trincomalee District 
 [Data](articles/f0723350.json)
 
 [Extended Data](ext_articles/f0723350.ext.json)
-
----
-
-### Request of commission from the Commission not to fall into low
-
-*2024-11-07 14:17:27* · [`adalk`](https://www.ada.lk/breaking_news/පහත්-මට්ටමට-නොවැටෙන-ලෙස-අපේක්ෂකයන්ගෙන්-කොමිසමෙන්-කළ-ඉල්ලීම/11-412913) · `si`
-
-Saman Sri Ratnayake, Commissioner General of Elections, requests:
-
-
-
-1. Election advertising ends midnight on 11th
-
-2. No advertising during silent period
-
-3. Avoid religious sites and practices for propaganda
-
-4. Refrain from taking photos during blessings or packing ceremonies
-
-5. Maintain dignity and avoid low-level campaigning
-
-🟩
-
-The Commissioner General of Elections Saman Sri Ratnayake said that the advertising on the general election will be completed at midnight.
-
-"Simple is over the 11th to midnight on the 11th. Should not have any kind of advertising in the silent period. Also requested that you do not use religious places and religious places and their religious practices for your propaganda work. If you take a simple example, take the photos and take photos and do not take your personal propaganda at the time of packing or blessings. My belief that such a low level should not be less. "
-
-◼️
-
-[Data](articles/f51a94c2.json)
-
-[Extended Data](ext_articles/f51a94c2.ext.json)
-
----
-
-### Sri Lanka’s Sampath Bank debentures rated ‘BBB+(EXP)(lka)’ by Fitch
-
-*2024-11-07 14:00:00* · [`economynextcom`](https://economynext.com/sri-lankas-sampath-bank-debentures-rated-bbbexplka-by-fitch-186435/) · `en`
-
-ECONOMYNEXT – Fitch Ratings said it has given Sampath Bank’s proposed Sri Lankan rupee-denominated debentures a national long-term rating of ‘BBB+(EXP)(lka)’.
-
-The Basel III-compliant subordinated debentures of up to 10 billion rupees will mature in five years, and will be listed on the Colombo Stock Exchange.
-
-“Fitch rates the proposed Basel III Tier 2 notes two notches below the bank’s National Long-Term Rating of ‘A(lka)’,” the rating agency said.
-
-“This reflects Fitch’s baseline notching for loss severity for this type of debt and our expectations of poor recoveries.”
-
-Fitch Ratings – Colombo – 07 Nov 2024: Fitch Ratings has assigned Sampath Bank PLC’s (A(lka)/Stable) proposed Sri Lankan rupee-denominated Basel III-compliant subordinated debentures of up to LKR10 billion an expected National Long-Term Rating of ‘BBB+(EXP)(lka)’.
-
-The proposed debentures, which will mature in five years, will be listed on the Colombo Stock Exchange.
-
-...
-
-[Data](articles/6b848402.json)
-
-[Extended Data](ext_articles/6b848402.ext.json)
-
----
-
-### Immigration and Emigration Office Association for Passport problem
-
-*2024-11-07 13:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203005) · `si`
-
-Sri Lanka immigration emigration office passport issue announcement summary: False information from high-level officials, crisis management, investigation call, emphasis on LTTE passport issuance.
-
-🟩
-
-The Sri Lanka Institute of Immigration and Emigration Officers have issued a special announcement regarding the issues of issuing foreign passports.
-
-It stated that the relevant announcement was issued to educate the present situation as well as to address the crisis.
-
-The announcement further stated that the false information provided by the higher the departmental administration was due to the procurement of the president.
-
-It is regrettable that the departmental authorities have not disclosed the reality status of the subject of the government in charge of the subject of statistics, information all-thirds of the government.The Association of the Emigration says.
-
-The Sri Lanka Immigration Officers' Association (Immigration) Association has pointed out that the arbitrary activities of the top of the old political authority can address the crisis.
-
-As such, it is the responsibility of the Association to reveal the people who have embarrassed the masses and to conduct a formal investigation.
-
-...
-
-[Data](articles/eb4b2b0c.json)
-
-[Extended Data](ext_articles/eb4b2b0c.ext.json)
 
 ---

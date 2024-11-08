@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 20:11:52**
+As of **2024-11-08 20:24:31**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,760 (100.0%) of 53,761 articles have been extended.
+53,761 (100.0%) of 53,761 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1246,21 +1246,45 @@ The Secretariat has announced that on the first day of the election of the elect
 
 ---
 
-### කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට කාලගුණය ගැන නිවැරදි ම අනාවැකි කියන්න බැරි ඇයි?
+### Why is the Meteorological Department correctly prophesy the weather?
 
 *2024-11-08 13:46:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wqnzdngepo) · `si`
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට කාලගුණය ගැන නිවැරදි ම අනාවැකි කියන්න බැරි ඇයි?
+Here's a summary of the text in approximately 200 characters:
 
-කෘෂිකාර්මික ආර්ථිකයකට හිමිකම් කී ශ්‍රී ලංකාව අතීතයේදී කාලගුණ තත්ත්වයන් පිළිබඳ ප්‍රායෝගික දැනුම විශාල වශයෙන් යොදා ගත් බවට බොහෝ සාක්ෂි සාහිත්‍ය මූලාශ්‍ර සහ ජනශ්‍රුති ඔස්සේ හමුවෙයි.
 
-"යල සහ මහ කියන කන්න දෙක අතර තිබෙන සංවහන වැසි දෙකෙන් අවුරුද්දට දෙපාරක් අකුණු ගහනවා. මේක තමයි පොහොර කෘෂිකර්මය. ඒක වටහා ගත්ත ශ්‍රී ලංකාවේ රජවරුන් පොහොර පස්සේ දිව්වේ නැහැ. ඔවුන් කීවේ 'හෙණ ගහපන්.. ගණන් බලාපන්' කියල යි. ඒ කියන්නේ, හෙණ ගහන්නේ කවද ද කියලා බලලා වගාවන් කරන්න කියලා. අකුණු ගහන්න කලින් වපුරලා ගොඩට එන්න කියල යි ඒ කිව්වේ," බීබීසී සිංහල සමග අදහස් දක්වමින් පරිසරවේදී තිලක් කන්දේගම පැවසුවේ ය.
 
-එය එසේ වුව ද, නවීන උපකරණ පැවතියදීත් වර්තමානයේ කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන දත්ත නිවැරදි නොවන බවට සාමාජය තුළ මතයක් පවතිනවා සේ ම ඇතැම් විට කාලගුණ අනාවැකි හාස්‍යයට ලක්කරන අවස්ථා නැතුවා ද නොවේ.
+Meteorological Department accurately predicts weather through:
+
+
+
+1. Sophisticated equipment and global data sharing
+
+2. Satellite imagery and ground-based observations
+
+3. Expert analysis of atmospheric patterns and climate trends
+
+4. Collaboration with international meteorological organizations
+
+
+
+Despite challenges like limited local data and geographical complexities, modern technology aids accurate forecasting.
+
+🟩
+
+Why is the Meteorological Department correctly prophesy the weather?
+
+Many evidence is found in literary sources and Janasana, that Sri Lanka has used a large number of practical knowledge of the weather conditions in the past.
+
+"The two seventh season between Yala and Maha seasons will strike the year twice. This is the fertilizer agriculture. The kings of Sri Lanka did not ran after fertilizer. They said, 'Hells.. Excess of countless. That means you see how when to hold down. It was said to be sown before lightning and he was told, "Commenting with BBC Sinhala," said the Environmental Thilak Kandagama.
+
+Nevertheless, the sophisticated equipment is not true, the source of sophisticated equipment is not the case of the socialism that it is not correct.
 
 ...
 
 [Data](articles/878e615c.json)
+
+[Extended Data](ext_articles/878e615c.ext.json)
 
 ---
 

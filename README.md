@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 15:10:38**
+As of **2024-11-08 15:24:32**
 
 ## Newspaper Stats
 
-*Scraped **53,715** Articles*
+*Scraped **53,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 3,209
 economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,024
-adaderanalk | 6,400
-tamilmirrorlk | 7,486
+adalk | 5,025
+adaderanalk | 6,402
+tamilmirrorlk | 7,487
 virakesarilk | 8,689
-adaderanasinhalalk | 9,361
+adaderanasinhalalk | 9,362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,715 (100.0%) of 53,715 articles have been extended.
+53,720 (100.0%) of 53,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Two dead and 12 missing after fishing boat sinks off South Korea
+
+*2024-11-08 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103257/two-dead-and-12-missing-after-fishing-boat-sinks-off-south-korea) · `en`
+
+Two people have died and 12 are missing after a fishing boat sank on Friday in waters off South Korea’s southern resort island of Jeju, officials said.
+
+Another boat nearby raised the alarm after reporting the 129-ton ship was going under at around 4:30 a.m. (1930 GMT on Thursday), prompting authorities to launch a rescue operation, said Chung Moo-won, a Jeju coast guard official.
+
+Of the 27 crew aboard, 15 were rescued, including two South Korean nationals who later died after being hospitalised, Chung said. Twelve people were still missing, two of them from Indonesia.
+
+A total of 43 vessels including three navy ships, 13 aircraft and several deep-sea divers were dispatched to assist in the rescue efforts, he said.
+
+“We offer our condolences to the bereaved families and will make utmost efforts to find the missing by mobilising all rescue equipment and resources,” Chung told a televised briefing.
+
+...
+
+[Data](articles/66281621.json)
+
+[Extended Data](ext_articles/66281621.ext.json)
+
+---
+
+### Female principal remanded over bribery charge
+
+*2024-11-08 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103256/female-principal-remanded-over-bribery-charge) · `en`
+
+The female principal of a school in Ragama who was arrested for allegedly soliciting a bribe of Rs. 150,000 from a parent in exchange for admitting their child to the Grade 01 class, has been remanded until November 22.
+
+She was produced before Colombo Chief Magistrate Thilina Gamage today (08), who ordered to place her under remand custody.
+
+The officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) had made the arrest last evening (07) following a complaint lodged by a woman in the Mattumagala area of Ragama.
+
+The female principal in question has demanded the bribe for the admission of the complainant’s child into the school’s Grade 01 class for the academic year 2025.
+
+She was arrested while accepting the bribe at her office inside the school premises at around 4.00 p.m. yesterday.
+
+◼️
+
+[Data](articles/f062adc2.json)
+
+[Extended Data](ext_articles/f062adc2.ext.json)
+
+---
+
+### Principal remanded
+
+*2024-11-08 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203039) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo Magistrate's Court orders primary school principal to admit student. Bribery Commission arrests principal for accepting bribe. Child cannot attend school due to bribery allegations.
+
+🟩
+
+The Principal of the Colombo Magistrate's Court prescribed the principal of a primary school in Maturalumakala area in Ragama to enter a child to enter his school's first grade.
+
+The suspect was arrested by the Bribery Commission today (08).
+
+The suspect was arrested by the Bribery Officers of the Bribery Commission when the bribery was obtained from his office.
+
+The Bribery Commission states that the complainant's child cannot be admitted to the school and that the correspondence could be included in the school.
+
+The suspect had found more than Rs.
+
+◼️
+
+[Data](articles/c57aec8b.json)
+
+[Extended Data](ext_articles/c57aec8b.ext.json)
+
+---
 
 ### Woman chief officer appointment to White House for the first time
 
@@ -51,6 +125,28 @@ Donald Trump has appointed Susan Wiles, the chief of the White House, the chief 
 [Data](articles/1948c271.json)
 
 [Extended Data](ext_articles/1948c271.ext.json)
+
+---
+
+### First female officer appointment to White House
+
+*2024-11-08 14:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெள்ளை-மாளிகைக்கு-முதல்-பெண்-அதிகாரி-நியமனம்/50-346779) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Donald Trump appoints Susan Wiles as first female White House Chief of Staff and head of election campaign committee.
+
+🟩
+
+Donald Trump has appointed Susan Wiles, the chief of the White House, the chief of the election campaign committee.
+
+◼️
+
+[Data](articles/d1e908a3.json)
+
+[Extended Data](ext_articles/d1e908a3.ext.json)
 
 ---
 
@@ -123,6 +219,30 @@ In 1998, the bullets seized by the police and handed over to the court, the poli
 [Data](articles/9189cfe7.json)
 
 [Extended Data](ext_articles/9189cfe7.ext.json)
+
+---
+
+### 1774 killed in 18394 road accidents died in the beginning
+
+*2024-11-08 13:54:04* · [`adalk`](https://www.ada.lk/breaking_news/මුල-මාස-නවය-තුළ-රිය-අනතුරු-18394-කින්-1774-ක්-මිය-ගිහින්/11-412928) · `si`
+
+1774 deaths in 18394 road accidents this year. 1697 fatal incidents. 24.6% cyclists, 126 motorcyclists, 121 pedestrians involved. 580 accidents caused by drunk driving.
+
+🟩
+
+Police Traffic Headquarters, 1774 persons were killed in 18394 road accidents this year.
+
+1697 of these accidents were fatal accidents.
+
+The victims were killed in these accidents, 24,6 cyclists, 126 cyclists, 126 cyclists, 121 cyclists, 126 motorcyclists, 121 cyclists).
+
+580 road accidents have taken place in drunk drivers.
+
+◼️
+
+[Data](articles/efb7f43f.json)
+
+[Extended Data](ext_articles/efb7f43f.ext.json)
 
 ---
 
@@ -2187,123 +2307,5 @@ The two new envoys, Mr. Adel Ibrahim, Ambassador of the Arab Republic of Egypt, 
 [Data](articles/60f1749e.json)
 
 [Extended Data](ext_articles/60f1749e.ext.json)
-
----
-
-### Shakucki suspends all bank accounts
-
-*2024-11-07 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203015) · `si`
-
-Shakucki suspends Bangladesh cricket team bank accounts. Shakeb al Hasan's future uncertain due to financial issues affecting team.
-
-🟩
-
-Shakeb al Hasan suspended all bank accounts, bank accounts, bank accounts, bank accounts of the Bangladesh cricket team.
-
-According to this situation, Shakeb al Hasan's future cricket coal is also uncertain.
-
-◼️
-
-[Data](articles/99a612af.json)
-
-[Extended Data](ext_articles/99a612af.ext.json)
-
----
-
-### The quality of the wind in Colombo is diminished and darkness
-
-*2024-11-07 20:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198142) · `ta`
-
-Colombo air quality worsens; "slightly unhealthy" levels reported. National Building Research Institute advises seeking medical help if experiencing breathing difficulties. Wind quality scores range from 118 to 130 in various cities across Sri Lanka.
-
-🟩
-
-In many cities of the island, including Colombo, the quality code of the wind has reached “slightly unhealthy”.
-
-As a result, the National Building Research Institute said that if some people face difficulties in breathing, they should seek medical advice.
-
-The quality of the wind was 122 to 130 and 118 to 126 in Kurunegala on Thursday (7).
-
-In addition, the situation in Kandy, Kegalle, Ratnapura, Embilipitiya, Badulla, Batticaloa, Kalutara, Hambantota and Moneragala has risen to a slightly unfavorable level.
-
-◼️
-
-[Data](articles/ec0af90b.json)
-
-[Extended Data](ext_articles/ec0af90b.ext.json)
-
----
-
-### Japan is a new civilian
-
-*2024-11-07 19:51:43* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-අලුත්-නාතාපතිවරයෙක්/11-412923) · `si`
-
-Japan appoints new ambassador to Sri Lanka, meets President Anura Kumara Dissanayake. Egyptian Army officer also sworn in as ambassador. Diplomatic relations strengthened through cordial meeting.
-
-🟩
-
-Two new ambassadors who were elected to Sri Lanka were officially handed over to President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
-
-The new Ambassador of the Egyptian Army was also appointed as the new Ambassador of the Egyptian Ambassador and the new Ambassador of Japan, and after handing over his credentials, they were also a friendly chat with the President.
-
-◼️
-
-[Data](articles/fae4fda5.json)
-
-[Extended Data](ext_articles/fae4fda5.ext.json)
-
----
-
-### Firing
-
-*2024-11-07 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198141) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Shooting incident occurred in Wennappuwa-Kimbulkana area on Thursday afternoon. Woman and man admitted to Marawila Hospital with minor injuries. Reason for firing revealed, but cause of shooting remains unknown.
-
-🟩
-
-Police said that the shooting took place in the Wennappuwa - Kimbulkana area on Thursday afternoon.
-
-A woman and a man have been admitted to the Marawila Hospital in minor injuries.
-
-The reason for the firing came forward, and the reason for the shooting has not yet been revealed.
-
-◼️
-
-[Data](articles/1cf58648.json)
-
-[Extended Data](ext_articles/1cf58648.ext.json)
-
----
-
-### Court dismisses a request of Madushe's wife
-
-*2024-11-07 19:35:58* · [`adalk`](https://www.ada.lk/breaking_news/මධූෂ්ගේ-බිරිඳගේ-ඉල්ලීමක්-අධිකරණය-ඉවත-දමයි/11-412921) · `si`
-
-Colombo Additional Magistrate rejects request to assign case to CID. Wife of deceased drug dealer Madush seeks justice. Magistrate orders police to provide investigation update.
-
-🟩
-
-Colombo Additional Magistrate Manjula Sathnaka today rejected his wife today to assign the Death to the CID Madush, who was dead in an arrest of 22 kilos of heroin.
-
-The Magistrate pointed out that the IGP or the CID's circular in the Western Provincial Council or the CID's circular in Madtiturai Madush..
-
-The magistrate pointed out that question paper was conducted by the death of the incident regarding the death of Makandira Madush.
-
-The wife of Makandura Madush, Madini Madush, Mrs. Madundedi Gympali, was called yesterday.
-
-Attorney Senaka Perera, who is prejudicated by the complaint, he was prejudicated by the husband of his client in police custody.Much, he said.
-
-Attorney Senaka Perera, who was found in the police custody, was in the investigation of the Maligawatta police investigation.According to the assembly information, the police had gone to the Maligawatta housing complex to arrest the suspects.
-
-...
-
-[Data](articles/fb918153.json)
-
-[Extended Data](ext_articles/fb918153.ext.json)
 
 ---

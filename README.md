@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 10:40:04**
+As of **2024-11-08 10:58:50**
 
 ## Newspaper Stats
 
-*Scraped **53,678** Articles*
+*Scraped **53,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,104 @@ economynextcom | 3,256
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,021
-adaderanalk | 6,396
-tamilmirrorlk | 7,476
+adaderanalk | 6,397
+tamilmirrorlk | 7,477
 virakesarilk | 8,681
-adaderanasinhalalk | 9,353
+adaderanasinhalalk | 9,355
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,678 (100.0%) of 53,678 articles have been extended.
+53,682 (100.0%) of 53,682 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Minister Vijitha suddenly to port
+
+*2024-11-08 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203030) · `si`
+
+Minister Vijitha Herath investigates port issues, including 2-year container clearance delays. Officials cite procedural irregularities, drunkenness, and corruption affecting operations. Minister urged to ensure smooth clearance without bribery.
+
+🟩
+
+Minister Vijitha Herath visited the port yesterday (07) to investigate the port issues, including container clearance delay.
+
+The officials pointed out that the container clearance delay has been severely inconvenienced due to a period of 2 years.
+
+They also pointed out that although all methods were following all the procedures about two or three years ago, about 1,800 directories were able to depart from the port.
+
+However, they said that there are many irregularities at the port of the port of the container and that a token number is not out of the respective port.
+
+It also revealed that some of the services were drinking and working on alcohol and take part of the duties and participating in funeral emerts.
+
+Therefore, officials urged the Minister to facilitate their freedom clearance without corruption.
+
+◼️
+
+[Data](articles/01cc0907.json)
+
+[Extended Data](ext_articles/01cc0907.ext.json)
+
+---
+
+### Holidays for all schools across the country
+
+*2024-11-08 10:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-அனைத்து-பாடசாலைகளுக்கும்-விடுமுறை/175-346765) · `ta`
+
+Schools nationwide close 13th-14th reopen 18th.
+
+🟩
+
+All state schools across the country will be closed on the 13th and 14th, the Ministry of Education said.
+
+Meanwhile, schools will be opened again on the 18th of this month. Remble
+
+◼️
+
+[Data](articles/e13454f3.json)
+
+[Extended Data](ext_articles/e13454f3.ext.json)
+
+---
+
+### Schools closed on Nov 13 and 14 for General Election
+
+*2024-11-08 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103252/schools-closed-on-nov-13-and-14-for-general-election) · `en`
+
+The Ministry of Education (MoE) has announced that all schools across the island will remain closed on November 13 and 14 due to the 2024 General Election.
+
+The 2024 parliamentary election is scheduled to be held on November 14 (Thursday).
+
+◼️
+
+[Data](articles/601969cb.json)
+
+[Extended Data](ext_articles/601969cb.ext.json)
+
+---
+
+### This is how school leave is given to the election
+
+*2024-11-08 10:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203029) · `si`
+
+Schools closed Nov 13-14 for general election. Students return Nov 18.
+
+🟩
+
+November 13th and 14th of the island has been granted to all schools in the island for the General Election.
+
+The Ministry of Education stated that the return of schools will be held on November 18.
+
+◼️
+
+[Data](articles/1e6e171a.json)
+
+[Extended Data](ext_articles/1e6e171a.ext.json)
+
+---
 
 ### Must end corrupt politics - Dilith
 
@@ -2161,119 +2245,5 @@ A Memorandum of Understanding (MoU) between the Government of India and the Gove
 [Data](articles/17b890fe.json)
 
 [Extended Data](ext_articles/17b890fe.ext.json)
-
----
-
-### Voting rights would give overseas Sri Lankans a voice in economic policies: IPS
-
-*2024-11-07 15:51:00* · [`economynextcom`](https://economynext.com/voting-rights-would-give-overseas-sri-lankans-a-voice-in-economic-policies-ips-186457/) · `en`
-
-ECONOMYNEXT – Voting rights would allow overseas Sri Lankan (OSL) workers a voice in economic policies that impact their remittances and financial interests back home, the Institute of Policy Studies has said.
-
-“OSLs prefer a say in how the macroeconomy back in Sri Lanka is managed by elected officials, i.e. how does the government spend the foreign exchange OSLs regularly send as remittances?” IPS Research Fellow Dr Bilesha Weeraratne said.
-
-“While OSLs may not have voting rights yet, those who regularly remit earnings back to Sri Lanka have already demonstrated their influence — by voting with their wallets.”
-
-The think tank said several methods for overseas Sri Lankans to vote in the upcoming parliamentarian election have been considered including “advanced in-person (similar to postal voting in Sri Lanka), voting by mail, facsimile, or internet, as well as proxy voting.”
-
-...
-
-[Data](articles/df659dd0.json)
-
-[Extended Data](ext_articles/df659dd0.ext.json)
-
----
-
-### Outstanding rise in the official reserves of the Central Bank of Sri Lanka
-
-*2024-11-07 15:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203007) · `si`
-
-Central Bank of Sri Lanka reports significant increase in official reserves. Forex pool rises 7.3% to $6.383 billion in October 2024, exceeding September's $5.949 million. Gold reserves grow to $42 million. Total reserves exceed $6 billion average, highest since September 2020.
-
-🟩
-
-In October 2024, an outstanding increase in the Central Bank of Sri Lanka has reported a significant increase in the Central Bank of Sri Lanka.
-
-The official reserve assets recorded as US $ 5,99 million in September 2024 increased to US $ 6,467 million in September 2024.
-
-Forex pool, the main component of the uniform reserve assets, has increased by 7.3% to $ 6,383 million in October.
-
-In September 2024, this value was reported to be $ 5,949 million.
-
-Meanwhile, the golden pool of the Central Bank has also grown to $ 42 million in October last October.
-
-The official reserve assets contains receipts of foreign exchange exchange facility from the People's Bank of China, which is equivalent to US $ 1.4 billion, and is subject to conditions.
-
-The average reserve of the Central Bank of Sri Lanka has been recorded over $ 6 billion, it is significant that after September 2020 months.
-
-◼️
-
-[Data](articles/9ccdff0e.json)
-
-[Extended Data](ext_articles/9ccdff0e.ext.json)
-
----
-
-### Nanatan Divisional Livestock Agriculture Association
-
-*2024-11-07 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198122) · `ta`
-
-Nanatan Divisional Livestock Agriculture Association issues: grazing grounds problem, officials denied access since 2021, police refusal to accept complaints, meeting with Senior Superintendent of Police scheduled for September 9th regarding 352-acre pasture allocation.
-
-🟩
-
-The victims have brought to the notice of the Mannar District Senior Superintendent of Police that some people are engaged in agriculture in the Kandal area.
-
-Grazing grounds are a long -term problem of Nanattan area cattle breeders.
-
-Officials have not yet been supplied to the pasture of their livestock since 2021.
-
-Murugan police have refused to accept their complaint as they went to the Murugan Police Station at the Murugan police station a few days ago on the fact that they were farming in the area.
-
-The discussion was held on Wednesday evening (6) evening between the Nanatan Divisional Social Economic Development Institute and a delegation led by Messido Chairman Jatson Bigrato.
-
-The issue with the help of the Messido was then brought to the notice of the Senior Superintendent of Police of the Mannar District.
-
-...
-
-[Data](articles/f3db7c51.json)
-
-[Extended Data](ext_articles/f3db7c51.ext.json)
-
----
-
-### Greetings from Donald Trump to Kamala Harris
-
-*2024-11-07 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203006) · `si`
-
-Donald Trump congratulates Kamala Harris on her election win, promising smooth transition. World watches Trump's foreign policy moves, including ending Russian-Ukrainian war and Israeli conflict.
-
-🟩
-
-Former President Donald Trump was elected 47th President as the 47th President of the United States presidential election.
-
-The current government's Deputy President of the present Government of the present government who has been involved in the election is being defeated.
-
-The world has been attracted to the end of the Ruffama Ukrainian war and to take long-term peace in the Middle East.
-
-According to the results so far, 294 votes have won the power of five crucial states in the election.
-
-Even 223 seats have already won only 223 seats.
-
-After a long virtue, Kamala Harris, the end of his election campaign, held the end of Harvard, in the university premises in Washington.
-
-There she said he congratulated Trump to victory.
-
-She also informed that the exchange would help smoothly.
-
-Meanwhile, many in the world focuses on the foreign policies of his foreign policies in parallel to Trump victory.
-
-There, Russia-Ukrainian war, the war, and what a trump is made to end the Israeli war, many people raise.
-
-◼️
-
-[Data](articles/668f5b24.json)
-
-[Extended Data](ext_articles/668f5b24.ext.json)
 
 ---

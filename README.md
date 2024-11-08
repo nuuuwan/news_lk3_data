@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 20:24:31**
+As of **2024-11-08 20:40:22**
 
 ## Newspaper Stats
 
-*Scraped **53,761** Articles*
+*Scraped **53,770** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,147 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,029
 adaderanalk | 6,408
-tamilmirrorlk | 7,495
-virakesarilk | 8,699
+tamilmirrorlk | 7,498
+virakesarilk | 8,705
 adaderanasinhalalk | 9,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,761 (100.0%) of 53,761 articles have been extended.
+53,768 (100.0%) of 53,770 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Rs 1,000 crore fraud:
+
+*2024-11-08 20:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000-கோடி-மோசடி-தம்பதிகளுக்கு-மறியல்/175-346796) · `ta`
+
+Kurunegala couple arrested for Rs 1,000 crore fraud. Owner fled country; wife director of financial institution arrested at Katunayake airport. Remanded until 22nd.
+
+🟩
+
+A couple arrested in Kurunegala have been detained on charges of defrauding about Rs 1000 crore.
+
+The owner of the company who fled the country, his wife, who was the director of the financial institution, was arrested today (08) at the Katunayake airport.
+
+When the arrested persons were produced before Colombo Chief Magistrate Thilina Kamage, he ordered to be remanded until the 22nd of this month.. Those
+
+◼️
+
+[Data](articles/eca1460a.json)
+
+[Extended Data](ext_articles/eca1460a.ext.json)
+
+---
+
+### Warning to 6 districts
+
+*2024-11-08 20:01:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-விடுக்கப்பட்ட-எச்சரிக்கை/175-346795) · `ta`
+
+Heavy rains trigger landslide warnings for 6 districts: Badulla, Kandy, Kegalle, Nuwara Eliya, Kurunegala, Ratnapura. National Building Research Institute warns of potential landslides, wall collapses, rock falls, and soil erosion until 4pm tomorrow.
+
+🟩
+
+Due to heavy rains in the country, the National Building Research Institute has issued a landslide warning to Badulla, Kandy, Kegalle, Nuwara Eliya, Kurunegala and Ratnapura districts till 4.00 pm tomorrow.
+
+The National Building Research Institute said that if the rain continues to the rain, the landslide, the wall collapsing, the risk of rock collapse and soil decline should be warned.. Remble
+
+◼️
+
+[Data](articles/fa92729b.json)
+
+[Extended Data](ext_articles/fa92729b.ext.json)
+
+---
+
+### Aussie. International ODIs for Pakistan 7 years later in the soil
+
+*2024-11-08 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198227) · `ta`
+
+Pakistan wins 2nd ODI vs Australia, 1st victory in 7 years on Aussie soil. Balanced series 1-1. Haris Rauf (5/29) and Shaheen Afridi (3/26) star in 9-wicket win. Saim Ayub (82*) and Abdullah Shafiq (64*) lead Pakistan's chase.
+
+🟩
+
+Pakistan won by 9 wickets in the second international ODI at the Adelaide Oval Stadium today.
+
+This is Pakistan's first win in the international ODIs after 7 years on Australian soil.
+
+With this victory, Pakistan balanced the three -match international ODI series as 1 - 1.
+
+Australia won by 2 wickets in the first match of the Melbourne Cricket Stadium four days ago.
+
+In the second match, Haris Rauf's 5 -wicket pile, Shaheen Shah Abridi's accurate bowling, and the half -centuries accumulated by Saim Ayub and Abdullah Shafiq made Pakistan easily.
+
+Australia lost all wickets in 35 overs and curled up for 163 runs.
+
+Steven Smith was only somewhat talent in the match and scored 35 runs. No one else reached 20 runs.
+
+Haris Rauf took 5 wickets for 29 runs while Shaheen Shah Abaridi took 3 wickets for 26 runs.
+
+In reply, Pakistan scored 169 runs in 26.3 overs and scored 169 runs.
+
+Sym Ayub scored 82 runs with 6 sixes, Abdullah Shafiq scored 64 runs, including 4 pounds and 3 sixes.
+
+...
+
+[Data](articles/3da8e784.json)
+
+[Extended Data](ext_articles/3da8e784.ext.json)
+
+---
+
+### New circular on students using WhatsApp
+
+*2024-11-08 19:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-WhatsApp-பயன்படுத்துவது-குறித்து-புதிய-சுற்றறிக்கை/175-346794) · `ta`
+
+Circular issued by Ministry of Education regarding WhatsApp usage in schools. Emphasizes monitoring, educational purposes, privacy concerns, and potential disciplinary actions.
+
+🟩
+
+A circular has been sent to all principals, including education officials, by JMT Jayasundara, Secretary to the Ministry of Education, Science and Technology, regarding the use of social media processors such as WhatsApp in school educational activities.
+
+The circular pointed out that the use of social contact processors such as WhatsApp, Viper and Telegram has been introduced to provide missing education opportunities to school children due to the Kovit-19 epidemic and students are still using the processors.
+
+It is said that the ministry is currently informed of the adverse consequences.
+
+Accordingly, all the teachers and the relevant parties have been informed that the following instructions will be operated when using communication processors.
+
+...
+
+[Data](articles/70fa0e6c.json)
+
+[Extended Data](ext_articles/70fa0e6c.ext.json)
+
+---
+
+### Meeting between Prime Minister's Secretary and British High Commission
+
+*2024-11-08 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198226) · `ta`
+
+British High Commissioner congratulates Sri Lanka on economic development, anti-corruption efforts, and national security. Prime Minister's Secretary emphasizes agriculture, education, and health sector development. Bilateral relations strengthened through new trade routes and tourism promotion.
+
+🟩
+
+The meeting between the Prime Minister's Secretary Pradeep Habudhantri and the British High Commission, Andrew Patrick, took place on Friday (7) at the Prime Minister's Office.
+
+The British High Commissioner congratulated the Sri Lankan government to accelerate economic development through domestic and foreign debt, implementing the anti -corruption bill and ensuring national security.
+
+Prime Minister Secretary Pradeep Habudhantri said that the new government has dedicated himself to the development of the agriculture sector and the development of the agriculture sector and the development of education and health.
+
+Focusing on further strengthening the bilateral contact between the two -nation is further strengthening the introduction of new routes and improving the tourism trade.
+
+Officials including the first secretary of the British High Commission's Office (Political) Tom Soper and FCDO Senior Advisor Ben Powis were present.
+
+◼️
+
+[Data](articles/b152f7a4.json)
+
+[Extended Data](ext_articles/b152f7a4.ext.json)
+
+---
 
 ### Is it a suspicion that Sujeewa's comfort was assive?
 
@@ -59,6 +187,24 @@ The Investigation Officeries said that he had a luxury vehicle in the house of S
 [Data](articles/d41290c5.json)
 
 [Extended Data](ext_articles/d41290c5.ext.json)
+
+---
+
+### Prime Minister visits Sri Sivasupramanya Swamy Temple
+
+*2024-11-08 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198224) · `ta`
+
+Prime Minister Dr. Harini Amarasauriya visited Sri Sivasupramanya Swamy Temple in Wattala. She took alathi from temple administrators and received Mangala lamp. Devotees attended the event.
+
+🟩
+
+Prime Minister Dr. Harini Amarasauriya, who visited the Sri Sivasupramanya Swamy Temple in Wattala on the day of the day, has taken the temple administrators alathi and gave the temple administrators the temple administrators.. The Mangala lamp was handed over to the Prime Minister in memory of the temple visit.. Devotees also attended the event.
+
+◼️
+
+[Data](articles/727dc009.json)
+
+[Extended Data](ext_articles/727dc009.ext.json)
 
 ---
 
@@ -210,6 +356,46 @@ Flooding in Akurana has become a usual situation several times a year due to ove
 
 ---
 
+### New Circular on Information on School Education activities - Ministry of Education
+
+*2024-11-08 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198219) · `ta`
+
+Ministry of Education circular advises against using social media for school communication. Secretary Tilaka Jayasundera instructs students to avoid using communication equipment during home training and work.
+
+🟩
+
+Secretary of the Ministry of Education Tilaka Jayasundera has issued a circular containing a series of instructions on the adverse effects of using social communication equipment for school education and communication.
+
+Accordingly, it is advised to avoid the use of communications committees that include the curriculum.
+
+The Ministry of Education has strongly urged students to explain at home training and work and not to use communication equipment.
+
+◼️
+
+[Data](articles/878c49a5.json)
+
+[Extended Data](ext_articles/878c49a5.ext.json)
+
+---
+
+### பாடசாலைகளில் சமூக ஊடகங்கள் பயன்படுத்துவது தொடர்பாக விசேட சுற்றறிக்கை வெளியீடு
+
+*2024-11-08 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198214) · `ta`
+
+பாடசாலை கல்வி மற்றும் தகவல்தொடர்பாடலுக்கு சமூக ஊடகங்களை பயன்படுத்துவது குறித்து கல்வி அமைச்சகம் விசேட சுற்றறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+அனைத்து பாடசாலை அதிபர்கள் மற்றும் கல்வி அதிகாரிகளுக்கு இந்த சுற்றறிக்கையை கல்வி அமைச்சின் செயலாளர் ஜே.எம்.திலகா ஜயசுந்தர வெளியிட்டுள்ளார்.
+
+சுற்றறிக்கையில், கொவிட்-19 தொற்று பரவலின் போது  மாணவர்கள் தவறவிட்ட கற்றல் வாய்ப்புகளை மீட்டெடுக்க உதவும் வகையில் வட்ஸ் அப், வைபர் மற்றும் டெலிகிராம் போன்ற சமூக ஊடகங்கள் ஆரம்பத்தில் அறிமுகப்படுத்தப்பட்டன. ஆனால், அவை  இன்றும் மாணவர்களால் பரவலாகப் பயன்படுத்தப்படுகின்றன .
+
+மாணவர்கள் இந்த சமூக ஊடக செயலிகளை பயன்படுத்துவதால் எதிர்மறையான விளைவுகளை ஏற்படுத்துகிறது. இதனால் இந்த சுற்றறிக்கை வெளியிடப்பட்டுள்ளதாக என கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/a33676ee.json)
+
+---
+
 ### Education Ministry issues circular on school social media groups
 
 *2024-11-08 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103263/education-ministry-issues-circular-on-school-social-media-groups) · `en`
@@ -253,6 +439,52 @@ Considering the complaints of port workers, drivers and containers' association 
 [Data](articles/c60cfbc4.json)
 
 [Extended Data](ext_articles/c60cfbc4.ext.json)
+
+---
+
+### Two killed in fishing boat sinks in South Korea12 people magic
+
+*2024-11-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198211) · `ta`
+
+Fishing boat sinks off South Korea: 2 dead, 12 missing, 15 rescued. Rescue operation underway involving ships, aircraft, and deep sea cylinders.
+
+🟩
+
+Officials said two people were dead and 12 were missing after a fishing boat sank in South Korea's southern resort island, Jeju, on Friday.
+
+Jeju Coast Guard officials have launched a rescue operation as another nearby boat warned, after a complaint was reported to be drowned in the sea on Thursday night (07).
+
+Of the 27 employees in the fishing boat, 15 were rescued. Two of them have died after being admitted to the hospital. 12 people are missing. Two of them are from Indonesia.
+
+A total of 43 ships, including three naval vessels, 13 aircraft and several deep sea cylinders, have been sent to rescue operations.
+
+"We offer our condolences to the families we have lost, and we will try to find out the missing persons by gathering all rescue equipment and resources," said Jeju Coast Guard Officer Sung Mo-Won.
+
+◼️
+
+[Data](articles/3b0c41fc.json)
+
+[Extended Data](ext_articles/3b0c41fc.ext.json)
+
+---
+
+### தொழிற்சங்கங்களையும் ஊடகங்களையும் அடக்கி மக்களின் குரலை அடக்க அரசாங்கத்திற்கு இடமளிக்கமாட்டோம் - அஸாத் சாலி
+
+*2024-11-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198212) · `ta`
+
+அரசாங்கம் மக்களுக்கு வழங்கிய வாக்குறுதிகளை நிறைவேற்றாமல் நாட்டின் தொழிற்சங்களை கட்டுப்படுத்தியும் ஊடகங்களை அச்சுறுத்தியும் மக்களின் குரலை அடக்க முற்படுகிறது. அதற்கு நாங்கள் இடமளிக்க மாட்டோம் என புதிய ஜனநாயக முன்னணியின் கொழும்பு மாவட்ட வேட்பாளர் அஸாத்சாலி தெரிவித்தார்.
+
+ஜனாதிபதி தேர்தலில் ஜனாதிபதி அநுரகுமார திஸாநாயக்க உள்ளிட்ட தேசிய மக்கள் சக்தி மக்களுக்கு பல்வேறு வாக்குறுதிகளை வழங்கினார்கள்.
+
+அவர்களால் செயற்படுத்த முடியாத வாக்குறுதிகளையும் வழங்கினார்கள். இவ்வாறு பொய் பிரசாரம் மேற்கொண்டே ஆட்சிக்கு வந்தார்கள்.
+
+தற்போது அந்த வாக்குறுதிகளை நிறைவேற்ற பாராளுமன்றத்தில் பெரும்பான்மையை வழங்குமாறு கேட்கிறார்கள். அதிகாரத்துக்கு வந்ததுடன் மேற்கொள்வதாக தெரிவித்த எதனையும் இதுவரை செய்யவில்லை.
+
+அரசாங்கம் அதிகாரத்துக்கு வந்ததில் இருந்து இதுவரை நாட்டை நிர்வகித்து வந்ததுபோலவே இதன் பின்னரும் நிர்வகிக்குமானால்  இன்னும் ஓரிரு வருடங்களில் ரணில் விக்ரமசிங்க தலைமையிலான புதிய ஜனநாயக முன்னணியில் போட்டியிடும் எமது அணிக்கே நாட்டின் ஆட்சியை பொறுப்பேற்க வேண்டிவரும்.
+
+...
+
+[Data](articles/cccbe834.json)
 
 ---
 
@@ -391,32 +623,6 @@ Chairman of the company, Dr. Ananda Wijewickrama issues a statement saying that 
 [Data](articles/cc59183f.json)
 
 [Extended Data](ext_articles/cc59183f.ext.json)
-
----
-
-### Two killed in fishing boat sinks in South Korea12 people magic
-
-*2024-11-08 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198211) · `ta`
-
-Fishing boat sinks off South Korea: 2 dead, 12 missing, 15 rescued. Rescue operation underway involving ships, aircraft, and deep sea cylinders.
-
-🟩
-
-Officials said two people were dead and 12 were missing after a fishing boat sank in South Korea's southern resort island, Jeju, on Friday.
-
-Jeju Coast Guard officials have launched a rescue operation as another nearby boat warned, after a complaint was reported to be drowned in the sea on Thursday night (07).
-
-Of the 27 employees in the fishing boat, 15 were rescued. Two of them have died after being admitted to the hospital. 12 people are missing. Two of them are from Indonesia.
-
-A total of 43 ships, including three naval vessels, 13 aircraft and several deep sea cylinders, have been sent to rescue operations.
-
-"We offer our condolences to the families we have lost, and we will try to find out the missing persons by gathering all rescue equipment and resources," said Jeju Coast Guard Officer Sung Mo-Won.
-
-◼️
-
-[Data](articles/3b0c41fc.json)
-
-[Extended Data](ext_articles/3b0c41fc.ext.json)
 
 ---
 
@@ -2287,217 +2493,5 @@ Professor Mohamed Mahees says that the deficiencies in the country’s road syst
 [Data](articles/1726a100.json)
 
 [Extended Data](ext_articles/1726a100.ext.json)
-
----
-
-### Postal voting marking is over today
-
-*2024-11-08 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203026) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Postal voting ends today for the 2024 parliamentary election. Voters had a special opportunity yesterday and today to cast ballots at district secretaries near their workplaces. Elections Commissioner Saman Sri Ratnayake announced this extension.
-
-🟩
-
-The postal voting period of the 2024 parliamentary election will be completed today (08).
-
-The Elections Commission states that yesterday and today had been given a special day to vote for voter voter turnover last November 30 and 04.
-
-Elections Commissioner General Saman Sri Ratnayake said, "Elections Commissioner General of Elections Saman Sri Ratnayake said that the postal voting in the district secretary, which is located in their workplace, has the opportunity to vote.
-
-◼️
-
-[Data](articles/d6e46d11.json)
-
-[Extended Data](ext_articles/d6e46d11.ext.json)
-
----
-
-### A pyramid racket. A couple arrested for fraudulently cheated
-
-*2024-11-08 08:11:40* · [`adalk`](https://www.ada.lk/breaking_news/පිරමීඩ-ජාවාරමකින්-රු--කෝටි-1000ක්-වංචා-කළ-අඹු-සැමි-යුවළක්-අල්ලයි/11-412924) · `si`
-
-Pyramid scheme: Couple cheats CID officers at airport. Arrested for fraud involving large sums of money. Investigation ongoing.
-
-🟩
-
-Criminal Investigations Department (CID) officials of the CID at the Bandaranaike International Airport on a large number of Rs.Was arrested.
-
-The Colombo Chief Magistrate's Court had fled the 52-year-old man named Ranasinghe Arachchige, a resident of Kurunegala.
-
-He had arrived at the Malaysian Airlines from Kuala Lumpur from Kuala Lumpur, Malaysia at 12.00 am on April 11/08.
-
-The Criminal Investigations Department (CID) officials had been arrested by the Criminal Investigation Department before the Bandaranaike International Airport has gone to the Immigration and Emigration Counters.
-
-He was later arrested in the Bandaranaike International Airport, who was in the Bandaranaike International Airport, and arrested the 42-year-old woman named Parani Suranga Hemachandra, Galle.
-
-...
-
-[Data](articles/1277cadb.json)
-
-[Extended Data](ext_articles/1277cadb.ext.json)
-
----
-
-### 1000 crores of rupees: two arrested
-
-*2024-11-08 08:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/1000-கோடி-ரூபாய்-மோசடி-இருவர்-கைது/150-346758) · `ta`
-
-Two arrests made over 1,000 crore rupee fraud case. Company owner and his wife detained at Katunayake airport. CID investigation reveals 11 bank accounts linked to Pyramid Financial Institute, deceiving 2,500 depositors.
-
-🟩
-
-According to the Criminal Investigation Department (CID), the owner of the company, who fled the country, who fled the country, has been arrested at the Katunayake airport on Wednesday (08) at the Katunayake airport.
-
-The 52 -year -old from Kurunegala has been arrested when he fled the Colombo Chief Magistrate's Court and was arrested when he arrived at the Katunayake airport from Kuala Lumpur, Malaysia at around 12.00 am.
-
-Based on the information he received, the Criminal Investigation Department officials arrested him before going to the window of the Katunayake Airport Immigration Department.
-
-The 42 -year -old wife of the financial institution who was waiting at the Katunayake airport arrival in the Katunayake airport has been arrested by the Criminal Investigation Department officials.
-
-...
-
-[Data](articles/81ab59ad.json)
-
-[Extended Data](ext_articles/81ab59ad.ext.json)
-
----
-
-### Sri Lankans arrested from Malaysia
-
-*2024-11-08 08:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசியாவில்-இருந்து-வந்த-இலங்கையர்-கைது/175-346758) · `ta`
-
-Sri Lankan man arrested in Malaysia after fleeing pyramid scheme. 52-year-old accused of defrauding multiple individuals before escaping.
-
-🟩
-
-Sri Lankan (52 years old) from Malaysia has been arrested at the airport by CID officials.
-
-About a year ago, he had fled the country by leaving several people from several people by pyramid fraud.
-
-◼️
-
-[Data](articles/b766c144.json)
-
-[Extended Data](ext_articles/b766c144.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-08 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103248/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says that showers or thundershowers will occur at times in Northern and North-western Provinces and in Puttalam and Trincomalee districts.
-
-Showers or thundershowers will occur at several places in the other areas of the island after 1.00 pm, the department added
-
-Showers may occur in the Western province and in Galle, Matara, Ampara and Batticaloa districts in the morning too.
-
-Fairly heavy showers above 75 mm are likely at some places in Central, Sabaragamuwa and Uva provinces, according to the Met. Department.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/8a3b3d5b.json)
-
-[Extended Data](ext_articles/8a3b3d5b.ext.json)
-
----
-
-### Suspect arrested in Katunayake
-
-*2024-11-08 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203025) · `si`
-
-Sri Lankan suspect arrested at Katunayake airport for pyramid scheme fraud of Rs 1,800 million. Man fled country last year; police spokesperson's wife involved in arrest.
-
-🟩
-
-A suspect has been arrested by a pyramid racket and arrested the country with a cash fraud of Rs 1,800 million.
-
-The suspect, a Sri Lankan, 52, has been taken into Sri Lanka at the Katunayake airport.
-
-Police said that the suspect was a man who had fled the country a year ago by defense the suspect.
-
-The wife of the Police Media Spokesperson DIG Talduuwa said his wife was arrested at the airport to accept the man.
-
-◼️
-
-[Data](articles/8ddb1466.json)
-
-[Extended Data](ext_articles/8ddb1466.ext.json)
-
----
-
-### Suspect arrested at BIA for defrauding Rs.1.8 bln through pyramid scheme
-
-*2024-11-08 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103247/suspect-arrested-at-bia-for-defrauding-rs18-bln-through-pyramid-scheme) · `en`
-
-A 52-year old Sri Lankan arriving from Malaysia has been arrested by the CID at the Bandaranaike International Airport (BIA) for defrauding around Rs. 1,800 million from several persons through a pyramid scheme and fleeing the country a year ago.
-
-His wife, who had arrived at the airport to receive him, has also been arrested, Police Spokesman DIG Nihal Thalduwa said.
-
-◼️
-
-[Data](articles/24372f8b.json)
-
-[Extended Data](ext_articles/24372f8b.ext.json)
-
----
-
-### Sri Lanka cement production hits 32-month high
-
-*2024-11-08 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-cement-production-hits-32-month-high-186577/) · `en`
-
-ECONOMYNEXT  – Sri Lanka’s cement availability has hit a 32-month high of 419,000 metric tonnes in August 2024, official data shows, indicative of a steady recovery in construction activities.
-
-In August domestic production was 328,0000 metric tonnes, up 25.4 percent from a year earlier, central bank data showed.
-
-Local production is highest since 365,000 metric tonnes were produced in December 2021.
-
-Total cement availability at 419,000 metric tonnes was up 17.6 percent from a year ago.
-
-During the last currency crisis when the central bank printed money through various liquidity tools and asked banks to give 7 percent housing loans, monthly cement imports topped 200,000 metric tonnes and total availability hit over 600,000 tonnes in some months.
-
-Sri Lanka to start directed lending, ceiling 7-pct reate for wage earner housing loans
-
-Sri Lanka 7-pct mortgage loans for houses, land, apartments, renovation
-
-...
-
-[Data](articles/58fbf053.json)
-
-[Extended Data](ext_articles/58fbf053.ext.json)
-
----
-
-### More about the shooting of Wennappuwa
-
-*2024-11-08 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203024) · `si`
-
-Wennappuwa shooting: Woman, 43; man, 65, injured. Unidentified assailants on motorcycle. Investigation ongoing.
-
-🟩
-
-The shooting incident regarding the Wennappuwa Police Division was held yesterday evening yesterday (07) evening.
-
-A woman and woman were injured and admitted to the Marawila hospitalized due to the shooting carried out near a house.
-
-The victim is a 43 year old resident of Marawila area, a resident of the Wennappuwa area aged 65.
-
-The shooting has been carried out by two unidentified persons who came in a motorcycle when two people have been repaired by the house to be repaired at home.
-
-A person who came to maintenance and woman had wounded.
-
-The suspects were identified and investigations are being investigated and investigations are being investigated, Wennappuwa Police said.
-
-◼️
-
-[Data](articles/dbed51b9.json)
-
-[Extended Data](ext_articles/dbed51b9.ext.json)
 
 ---

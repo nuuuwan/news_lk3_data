@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 14:25:06**
+As of **2024-11-08 14:40:16**
 
 ## Newspaper Stats
 
-*Scraped **53,714** Articles*
+*Scraped **53,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,024
 adaderanalk | 6,400
-tamilmirrorlk | 7,485
+tamilmirrorlk | 7,486
 virakesarilk | 8,689
 adaderanasinhalalk | 9,361
 
@@ -26,59 +26,93 @@ adaderanasinhalalk | 9,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,711 (100.0%) of 53,714 articles have been extended.
+53,714 (100.0%) of 53,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### வங்கக்கடலில் உருவாகிறது புதிய காற்றழுத்த தாழ்வு பகுதி
+### முதன்முறையாக வெள்ளை மாளிகைக்கு பெண் தலைமை அதிகாரி நியமனம்
+
+*2024-11-08 14:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முதன்முறையாக-வெள்ளை-மாளிகைக்கு-பெண்-தலைமை-அதிகாரி-நியமனம்/50-346779) · `ta`
+
+தன்னுடைய தேர்தல் பிரசார குழுவின் தலைமை அதிகாரியாக திகழந்த சூசன் வைல்ஸ் என்ற பெண்மணியை, வெள்ளை மாளிகை தலைமை அதிகாரியாக, டொனால்ட் டிரம்ப் நியமித்துள்ளார்.
+
+◼️
+
+[Data](articles/1948c271.json)
+
+---
+
+### The new windmill is formed in the Bay of Bengal
 
 *2024-11-08 14:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-உருவாகிறது-புதிய-காற்றழுத்த-தாழ்வு-பகுதி/175-346777) · `ta`
 
-வங்கக்கடலில், அடுத்த 48 மணி நேரத்தில் புதிய காற்றழுத்த தாழ்வு பகுதி உருவாகவுள்ளது.
+New windmill forms Bay of Bengal within 48 hours. Low-lying areas may shift towards Tamil Nadu-Sri Lanka coast. Cyclone cycle expected to transition to low-winds.
 
-இந்த காற்றழுத்த தாழ்வு பகுதி தமிழகம்-இலங்கை கடற்கரை நோக்கி நகரக்கூடும் என எதிர்வுகூரப்பட்டுள்ளது.
+🟩
 
-வங்காள விரிகுடாவில் ஏற்பட்டுள்ள சூறாவளி சுழற்சி குறைந்த காற்றழுத்த தாழ்வு பகுதியாக மாற வாய்ப்பு உள்ளமை குறிப்பிடத்தக்கது. AN
+In the Bay of Bengal, the new windmill will be formed over the next 48 hours.
+
+It is predicted that the low-lying area may move towards the coast of Tamil Nadu-Sri Lanka.
+
+It is noteworthy that the cyclone cycle in the Bay of Bengal is likely to become a low winds.. That
 
 ◼️
 
 [Data](articles/c15bb018.json)
 
+[Extended Data](ext_articles/c15bb018.ext.json)
+
 ---
 
-### ලොව ආකර්ෂණීයම දිවයින ලෙස ශ්‍රී ලංකාවට රන් සම්මානයක්
+### Sri Lanka wins Gold award for the world's exciting island
 
 *2024-11-08 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203038) · `si`
 
-ශ්‍රී ලංකාව ලොව වඩාත් ආකර්ෂණීයම දිවයින ලෙස සුප්‍රකට "Wanderlust" සංචාරක සඟරාව මගින් පාඨක ඡන්දයෙන් තෝරාගෙන තිබේ.
+Sri Lanka wins Gold award for world's most exciting island. Received 200,000 votes in Wanderlust reader travel awards. Ranked 8th globally last year. Tourists praise attractions like Dambulla, Anuradhapura, and Polonnaruwa.
 
-කීර්තිමත් වොන්ඩලස්ට් පාඨක සංචාරක සම්මාන ප්‍රදානය ලන්ඩන් නුවරදී පසුගියදා පැවැත්වුණි.
+🟩
 
-සංචාරකයන් අතර ආකර්ෂණීය මෙන්ම විවිධ අත්දැකීම් ලැබීමේ හැකියාව පදනම් කරගනිමින් ශ්‍රී ලංකාවට පාඨක ඡන්ද 200,000ක් පමණ හිමිවී තිබේ.
+Sri Lanka is the most exciting island in the world with the famous "Wanderlust" reader vote.
 
-වොන්ඩලස්ට් සංචාරක සඟරාව පසුගිය වසරේ ශ්‍රී ලංකාව නම් කර තිබුණේ ලොව වඩාත් ආකර්ෂණීය දිවයින් අතර 08 වන ස්ථානයටය.
+Distinguished Wondalst Reader Travel Awards recently held in London.
 
-ශ්‍රී ලංකාව පිළිබඳ කෙටි සටහනක් ඉදිරිපත් කරමින් වොන්ඩලස්ට් සඟරාව සඳහන් කළේ, ඉන්දීය සාගරයේ මුතු ඇටය නමින්ද හඳුන්වන ශ්‍රී ලංකාවේ ඓතිහාසික ස්මාරක අතර සීගිරිය, දඹුල්ලේ ලෙන් විහාරය මෙන්ම අනුරාධපුර සහ පොළොන්නරුවේ නටබුන් කැපී පෙනෙන බවය.
+Sri Lanka has received about 200,000 votes for Sri Lanka based on attractive and experienced experience among tourists.
+
+The Wanderust Tourism Band was named last year, Sri Lanka was named 8th among the world's most attractivedation.
+
+Wanderust magazine addressed a brief brief in the Indian Ocean, Dambulla, as well as the ruins of the Anuradhapura, Dambulla as well as the ruins of Anuradhapura and Polonnaruwa.
 
 ◼️
 
 [Data](articles/f9733e4a.json)
 
+[Extended Data](ext_articles/f9733e4a.ext.json)
+
 ---
 
-### வழக்கு அறையில் இருந்த வெடிபொருட்கள் மாயம்
+### The magic of the ammunition in the case room
 
 *2024-11-08 14:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வழக்கு-அறையில்-இருந்த-வெடிபொருட்கள்-மாயம்/74-346776) · `ta`
 
-இது தொடர்பில்  விசாரணைகளை ஆரம்பித்துள்ள அம்பாறை பொலிஸார், இது தொடர்பில் நீதிமன்றில் முறைப்பாடு செய்யப்பட்டுள்ளதாகவும்  குறிப்பிட்டுள்ளனர்.
+Here's a summary of the text in approximately 200 characters:
 
-1998ஆம் ஆண்டு பொலிஸாரால் கைப்பற்றப்பட்டு நீதிமன்றத்தில் ஒப்படைக்கப்பட்ட தோட்டாக்களே, இவ்வாறு காணாமல் போயுள்ளதாகவும், பொலிஸார் தெரிவிக்கின்றனர். AN
+
+
+Ampara police investigate case room ammunition theft. Bullets seized in 1998 went missing after handed to court. Police lodge complaint.
+
+🟩
+
+Ampara police have launched an investigation into the matter and have lodged a complaint with the court.
+
+In 1998, the bullets seized by the police and handed over to the court, the police said that they were missing.. That
 
 ◼️
 
 [Data](articles/9189cfe7.json)
+
+[Extended Data](ext_articles/9189cfe7.ext.json)
 
 ---
 
@@ -2261,23 +2295,5 @@ Attorney Senaka Perera, who was found in the police custody, was in the investig
 [Data](articles/fb918153.json)
 
 [Extended Data](ext_articles/fb918153.ext.json)
-
----
-
-### Special team coming to Sri Lanka on the election
-
-*2024-11-07 19:30:14* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දා-ලංකාවට-එන-විශේෂ-කණ්ඩායම/11-412920) · `si`
-
-International Monetary Fund delegation arrives in Sri Lanka on 14th. Team visits country for financial assessment and next loan installment review.
-
-🟩
-
-A delegation from the International Monetary Fund is due to arrive on the 14th. The team is due to arrive in Sri Lanka to visit Sri Lanka with the Elapse Financial Fund and the next loan installment, as well as the next loan installment.
-
-◼️
-
-[Data](articles/7a3d4705.json)
-
-[Extended Data](ext_articles/7a3d4705.ext.json)
 
 ---

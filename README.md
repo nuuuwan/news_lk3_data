@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 18:34:52**
+As of **2024-11-08 18:45:55**
 
 ## Newspaper Stats
 
-*Scraped **53,752** Articles*
+*Scraped **53,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,027
-adaderanalk | 6,406
+adaderanalk | 6,407
 tamilmirrorlk | 7,494
 virakesarilk | 8,699
-adaderanasinhalalk | 9,371
+adaderanasinhalalk | 9,372
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,752 (100.0%) of 53,752 articles have been extended.
+53,752 (100.0%) of 53,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### මැතිවරණ නීති කැඩූ අපේක්ෂකයින් 11ක් පොලිස් අත්අඩංගුවට
+
+*2024-11-08 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203049) · `si`
+
+පාර්ලිමේන්තු මැතිවරණයට අදාළව ශ්‍රී ලංකා පොලීසියට මේ වන විට පැමිණිලි 340ක් ලැබී ඇති බව නියෝජ්‍ය පොලිස්පති, පොලිස් මාධ්‍ය ප්‍රකාශක නීතීඥ නිහාල් තල්දූව මහතා පවසයි.
+
+අද (08) පස්වරුවේ පැවැති ප්‍රවෘත්ති සාකච්ඡාවකට එක් වෙමින් ඔහු පැවසුවේ මැතිවරණ නීති උල්ලංඝණය කිරීම් සම්බන්ධව පුද්ගලයන් 364ක් අත්අඩංගුවට ගෙන ඇති බවත් ඉන් අපේක්ෂකයින් 11 දෙනෙක් සහ ආධාරකරුවන් 356 දෙනෙක්ද ඇතුළත් බවය.
+
+ලැබී ඇති පැමිණිලි අතරින් අපරාධම ස්වභාවයේ පැමිණිලි 54ක් ද , මැතිවරණ නීති උල්ලංඝනය කිරීම් සම්බන්ධව 286ක් ද, ලැබී ඇති බවත් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+මේ අතර පෝස්ටර් දස ලක්ෂ හැත්තෑදහසකට වැඩි ප්‍රමාණයක් ඉවත් කර ඇති අතර, නීති විරෝධීව රැගෙන ගිය පෝස්ටර් පන්ලක්ෂයකට ආසන්න ප්‍රමාණයක්ද, පොලිස් භාරයට ගෙන තිබේ.
+
+තවද බැනර් 855ක් ඉවත් කිරීමටත්, තවත් 458ක් පොලිස් භාරයට ගැනීමටත් කටවුට් 1,010ක් ඉවත් කිරීමටත් තවත් 1,322ක් පොලිස් භාරයටත් ගෙන ඇත.
+
+අත්පත්‍රිකා 5045ක් ඉවත් කිරීමටත් තවත් 64,000කට වැඩි ප්‍රමාණයක් පොලිස් භාරයට ගෙන ඇති බවත් පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා වැඩිදුරටත් අදහස් දක්වමින් පැවසීය.
+
+...
+
+[Data](articles/2a564ad9.json)
+
+---
+
+### Allowance for school children who can’t afford stationary books, equipment – President
+
+*2024-11-08 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103264/allowance-for-school-children-who-cant-afford-stationary-books-equipment-president) · `en`
+
+President Anura Kumara Dissanayake says an allowance will be provided for school children who are unable to purchase stationary books and equipment.
+
+He stated that this will be provided when the new school term begins at the end of January next year.
+
+President Dissanayake revealed this while addressing a public meeting in Kegalle on Friday (08).
+
+◼️
+
+[Data](articles/a8b552c9.json)
+
+---
 
 ### Education Ministry issues circular on school social media groups
 
@@ -2415,51 +2453,5 @@ The idea was first proposed about 25 years ago. Several pre-feasibility studies 
 [Data](articles/1cb2558b.json)
 
 [Extended Data](ext_articles/1cb2558b.ext.json)
-
----
-
-### No space for NPP’s Govt. to do past mistakes as SL can’t survive another crisis: Eran
-
-*2024-11-08 06:06:31* · [`dailyftlk`](https://www.ft.lk/columns/No-space-for-NPP-s-Govt-to-do-past-mistakes-as-SL-can-t-survive-another-crisis-Eran/4-768983) · `en`
-
-SJB Colombo District candidate Eran Wickramaratne says President AKD won thanks to SLPP voters but some portion of those voters will not vote for the NPP in the forthcoming election
-
-Insists SJB is the biggest political party in terms of number of voters and supporters than SLFP, UNP, SLPP and the JVP
-
-Stresses the ideal candidate for a legislature should be of good character, experienced and educated
-
-Emphasises Ranil has lost 15 or more elections as the UNP Leader but Sajith has lost only two as SJB Leader and no decision to change the SJB’s leadership
-
-Says the 57% of voters who didn’t vote for President AKD will not be voting for NPP either
-
-Says President AKD is no different to most Presidential candidates of the past
-
-Opines salary increments should be based on finances and economics and they must not be political decisions
-
-Requests extension for the Parate law deadline to facilitate SMEs to come out of their present crisis
-
-Stresses need to establish zones for SMEs who lack resources
-
-...
-
-[Data](articles/dacbff26.json)
-
-[Extended Data](ext_articles/dacbff26.ext.json)
-
----
-
-### What Trump’s victory means for Sri Lanka
-
-*2024-11-08 06:00:08* · [`dailyftlk`](https://www.ft.lk/columns/What-Trump-s-victory-means-for-Sri-Lanka/4-768982) · `en`
-
-Regardless of how Trump’s rule finally ends, there can be no doubt that it is the harbinger of a destructive conclusion to the global order
-
-The victory of Donald Trump in the US Presidential election held on 5 November 2024, is likely to be a defining moment in our global epoch. Trump brought together the decades-long projects of the American oligarchy and reactionary social forces. He ran on the agenda of amplifying the darkest trends in the American polity. But while the spectre of his return rose, the Democratic leadership held onto a bankrupt vision for the future that resisted interrogation of the US empire.
-
-...
-
-[Data](articles/29a27977.json)
-
-[Extended Data](ext_articles/29a27977.ext.json)
 
 ---

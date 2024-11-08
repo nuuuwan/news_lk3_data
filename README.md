@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 11:40:47**
+As of **2024-11-08 12:00:14**
 
 ## Newspaper Stats
 
-*Scraped **53,685** Articles*
+*Scraped **53,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 419
 bbccomsinhala | 547
 colombotelegraphcom | 551
 islandlk | 3,209
-economynextcom | 3,256
+economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,021
-adaderanalk | 6,398
-tamilmirrorlk | 7,478
+adaderanalk | 6,399
+tamilmirrorlk | 7,479
 virakesarilk | 8,681
 adaderanasinhalalk | 9,356
 
@@ -26,29 +26,61 @@ adaderanasinhalalk | 9,356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,683 (100.0%) of 53,685 articles have been extended.
+53,685 (100.0%) of 53,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### පාසලේදී අල්ලස් ගත් විදුහල්පතිනිය අත්අඩංගුවට
+### Female school principal in Ragama arrested for soliciting bribe
+
+*2024-11-08 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103254/female-school-principal-in-ragama-arrested-for-soliciting-bribe) · `en`
+
+The female principal of a school in the Ragama area has been arrested for allegedly soliciting a bribe of Rs. 150,000 in exchange for admitting a student to the Grade 01 class for 2025, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+◼️
+
+[Data](articles/586aec88.json)
+
+---
+
+### Principal arrested at school
 
 *2024-11-08 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203032) · `si`
 
-රුපියල් 150,000ක් අල්ලස් වශයෙන් ඉල්ලා ලබාගත් රාගම ප්‍රදේශයේ ප්‍රාථමික පාසලක විදුහල්පතිනියක් ඊයේ (7) පස්වරුවේ අත්අඩංගුවට ගෙන තිබේ.
+Ragama primary school principal arrested for bribery over 1st-grade promotion. Suspect received payment at school office, detained until court appearance.
 
-රාගම, මත්තුමගල ප්‍රදේශයේ කාන්තාවක විසින් කරන ලද පැමිණිල්ලකට අනුව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+🟩
 
-අදාළ විදුහල්පතිනිය පැමිණිලිකාරියගේ දරුවා 2025 වර්ෂයේ දී පළමු ශ්‍රේණියට ඇතුළත්කර ගැනීම සඳහා මෙම මුදල් අල්ලස් වශයෙන් ඉල්ලා තිබේ.
+A principal of a primary school in Ragama has been arrested yesterday (7).
 
-එම මුදල එම විදුහලේ පාසලේ කාර්යාලයේදී ඊයේ ප.ව. 4.00ට පමණ  ලබාගැනීමේදී ඇයව මෙලෙස අත්අඩගුවට පත්ව ඇත.
+The arrests were made by the Investigation Officers of the Investigation Commission on a complaint lodged by a woman in Maturagala area in Ragama.
 
-අත්අඩංගුවට ගන්නා ලද සැකකාරිය කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+The relevant principal has requested the bribery in the first grade first grade in 2025.
+
+The amount yesterday at the office of the school's office. She was arrested in custody while receiving 4.00 pm.
+
+The suspect is to be produced before the Colombo Chief Magistrate's Court.
 
 ◼️
 
 [Data](articles/37b679b4.json)
+
+[Extended Data](ext_articles/37b679b4.ext.json)
+
+---
+
+### லொறி விபத்து:ஒருவர் பலி; அறுவர் காயம்
+
+*2024-11-08 11:30:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லொறி-விபத்து-ஒருவர்-பலி-அறுவர்-காயம்/76-346768) · `ta`
+
+இராகலை பொலிஸ் பிரிவுக்குட்பட்ட கந்தபளை - கொங்கொடியா பகுதியில், இன்று காலை   இடம்பெற்ற விபத்தில், ஒருவர் உயிரிழந்துள்ளதுடன், 6 பேர் காயமடைந்துள்ளதாக, இராகலை பொலிஸார் தெரிவித்தனர்.
+
+கந்தப்பளை பிரதான நகரில் இருந்து கொங்கோடியா பகுதிக்கு மர்க்கறி சேகரித்து  ஏற்றச்சென்ற டிப்பர் லொறியொன்று, பாதையை விட்டு விலகி, சுமார் 30 அடி பள்ளத்தில் விழுந்து  விபத்துக்குள்ளாகியுள்ளதாக, இராகலை பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/3191866a.json)
 
 ---
 
@@ -69,6 +101,24 @@ The incident had occurred when the two men were returning home on the motorcycle
 ◼️
 
 [Data](articles/87ec5914.json)
+
+[Extended Data](ext_articles/87ec5914.ext.json)
+
+---
+
+### Sri Lanka sells extra Rs3bn Treasury bills after auction
+
+*2024-11-08 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs3bn-treasury-bills-after-auction-186599/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 3,096 million rupees of treasury bills offered on tap at average rates of 9.70% and 9.95%, the state debt office said.
+
+On Wednesday (6) the debt office raised 175 billion rupees of 3, 6 and 12 month bills.
+
+Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
+
+◼️
+
+[Data](articles/5a2228f9.json)
 
 ---
 
@@ -103,6 +153,32 @@ A 43 -year -old businessman, a resident of Wellampitiya, Methotamulla, is engage
 [Data](articles/09f5f197.json)
 
 [Extended Data](ext_articles/09f5f197.ext.json)
+
+---
+
+### Sri Lanka rupee opens weaker at 292.68/75 to dollar, bond yields down
+
+*2024-11-08 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-292-68-75-to-dollar-bond-yields-down-186590/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 292.68/75 to the US dollar Friday, dealers said, from 292.55/65 Thursday, while bond yields were considerably down.
+
+A bond maturing on 15.12.2026 was quoted at 10.45/55 percent, down from 10.40/60 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.30/35 percent, down from 11.30/45 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.58/60 percent, down from 11.80/86 percent.
+
+A bond maturing on 15.10.2028 was quoted at 11.75/78 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
+
+A bond maturing on 15.05.2030 was quoted at 12.15/20 percent, down from 12.10/20 percent.
+
+The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
+
+...
+
+[Data](articles/e0876f87.json)
 
 ---
 
@@ -593,6 +669,30 @@ His wife, who had arrived at the airport to receive him, has also been arrested,
 [Data](articles/24372f8b.json)
 
 [Extended Data](ext_articles/24372f8b.ext.json)
+
+---
+
+### Sri Lanka cement production hits 32-month high
+
+*2024-11-08 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-cement-production-hits-32-month-high-186577/) · `en`
+
+ECONOMYNEXT  – Sri Lanka’s cement availability has hit a 32-month high of 419,000 metric tonnes in August 2024, official data shows, indicative of a steady recovery in construction activities.
+
+In August domestic production was 328,0000 metric tonnes, up 25.4 percent from a year earlier, central bank data showed.
+
+Local production is highest since 365,000 metric tonnes were produced in December 2021.
+
+Total cement availability at 419,000 metric tonnes was up 17.6 percent from a year ago.
+
+During the last currency crisis when the central bank printed money through various liquidity tools and asked banks to give 7 percent housing loans, monthly cement imports topped 200,000 metric tonnes and total availability hit over 600,000 tonnes in some months.
+
+Sri Lanka to start directed lending, ceiling 7-pct reate for wage earner housing loans
+
+Sri Lanka 7-pct mortgage loans for houses, land, apartments, renovation
+
+...
+
+[Data](articles/58fbf053.json)
 
 ---
 
@@ -1277,6 +1377,26 @@ It poses several potential challenges to the global dominance of the United Stat
 [Data](articles/567cb27b.json)
 
 [Extended Data](ext_articles/567cb27b.ext.json)
+
+---
+
+### Sri Lanka’s BRICS membership application rejected, NDB membership offered
+
+*2024-11-07 23:22:00* · [`economynextcom`](https://economynext.com/sri-lankas-brics-membership-application-rejected-ndb-membership-offered-186569/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s application to become a member in the BRICS has been rejected by the group’s current membership, but its request to become a member of BRICS’ New Development Bank (NDB) has been accepted, the cabinet spokesman said.
+
+Established in 2015 by BRICS (Brazil, Russia, India, China, and South Africa), the NDB is a multilateral development bank aimed at mobilising resources for infrastructure and sustainable development projects in BRICS and other emerging markets and developing countries (EMDCs).
+
+Sri Lanka applied for the membership of BRICS when its delegation led by Foreign Secretary Aruni Wijewardena took part in the BRICS summit last month held in Russia.
+
+BRICS, an economic and political group has been gaining increasing relevance in recent years.
+
+It poses several potential challenges to the global dominance of the United States and the central role of the U.S. dollar in international trade and finance.
+
+...
+
+[Data](articles/f8e6178a.json)
 
 ---
 
@@ -2127,143 +2247,5 @@ However, the Magistrate said that if the aggrieved party wanted to go to the rel
 [Data](articles/c45c1916.json)
 
 [Extended Data](ext_articles/c45c1916.ext.json)
-
----
-
-### We will not allow the people of the hill country to make political orphans - Vadivel Suresh
-
-*2024-11-07 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198124) · `ta`
-
-Vadivel Suresh vows to prevent political orphaning of hill people, promising Tamil representation and strong leadership. He emphasizes unity and protection of hill country interests.
-
-🟩
-
-We will not allow the hill people to make political orphans. Former parliamentarian Vadivel Suresh said that we will definitely win the Tamil representation.
-
-The election campaign meeting to introduce the party's introduction and policies was held at the United Democratic Voice Party supporters in Nuwara Eliya district.
-
-United Democratic Voice Party leader Ranjan Ramanayake, United Democratic Voice Party Nuwara Eliya District Chief candidate Anusha Chandrasekaran and Badulla district candidate Vadivel Suresh were also present.
-
-'I was planning to contest in Nuwara Eliya district in the general election. But the people of our Badulla district did not leave me.I compete there to protect the representation of the people.
-
-I have sent my son to Nuwara Eliya. Send her and the young female candidate Anusha Chandrasekaran to Parliament.. Send another umbilical cord relationship. Send a total of three from Nuwara Eliya district.
-
-...
-
-[Data](articles/dd2ef792.json)
-
-[Extended Data](ext_articles/dd2ef792.ext.json)
-
----
-
-### “The promises cannot be fulfilled within 5 weeks”
-
-*2024-11-07 16:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குறுதிகளை-5-வாரங்களுக்குள்-நிறைவேற்ற-முடியாது/175-346726) · `ta`
-
-Opposition fails to keep promises within weeks, government completes manifesto in five years, Minister claims economy recovery due to new political direction and addressing corruption.
-
-🟩
-
-Minister Vijitha Herath said that some of the opposition politicians were accused of failing to fulfill their promises, and that the manifesto of the national people's power had been completed within five weeks, not within five years.
-
-He said at the election campaign meeting that the government would fulfill its election manifesto in five years and that some opposition politicians, such as Sajith Premadasa, could not fulfill within five weeks.
-
-“We have to make many more decisions. Cannot complete a task that is scheduled for five years within five weeks. The NPP manifesto is presented within five years, not in five weeks. We have not set up the government yet. We have made key decisions in the political and economics within the last five weeks. The opposition is daylight that the government will collapse, ”he said.
-
-...
-
-[Data](articles/ee43d407.json)
-
-[Extended Data](ext_articles/ee43d407.ext.json)
-
----
-
-### Report on rice and paddy stocks handed over to President
-
-*2024-11-07 16:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103240/report-on-rice-and-paddy-stocks-handed-over-to-president) · `en`
-
-The Secretary to the Ministry of Trade M.M. Naimuddin today (07) handed over the report prepared by the Consumer Affairs Authority (CAA) on rice and paddy stocks in the country to President Anura Kumara Dissanayake.
-
-This assessment of the rice stocks available within the country was carried out following the President’s directive to gauge the rice supply amidst a market shortage of several varieties, including Nadu, White and Red Raw rice.
-
-In response to the instructions, CAA officers had conducted inspections in the Anuradhapura, Polonnaruwa, Ampara, and Hambantota districts on October 26 and 27.
-
-During these inspections, they gathered data on stock levels at large and medium-scale rice mills and engaged with mill workers regarding the availability and distribution of rice and paddy.
-
-The findings are expected to aid the government in addressing the supply issues affecting key rice varieties.
-
-◼️
-
-[Data](articles/544c9ffb.json)
-
-[Extended Data](ext_articles/544c9ffb.ext.json)
-
----
-
-### President to be handed over of rice and paddy stocks
-
-*2024-11-07 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203008) · `si`
-
-Consumer Affairs Authority transfers rice/paddy stocks to President Anura Kumara Dissanayake. Ministry of Trade Secretary also handed over to President.
-
-🟩
-
-The Consumer Affairs Authority has been handed over to the Consumer Affairs Authority regarding rice and paddy stocks to President Anura Kumara Dissanayake.
-
-The Secretary of the Ministry of Trade has been handed over to the President.
-
-◼️
-
-[Data](articles/ed6488be.json)
-
-[Extended Data](ext_articles/ed6488be.ext.json)
-
----
-
-### Sri Lanka foreign reserves US$6.4bn in October 2024, up 7.9-pct
-
-*2024-11-07 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-foreign-reserves-us6-4bn-in-october-2024-up-7-9-pct-186542/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s gross foreign reserves rose 474 million US dollars in the month of October to 6.4 billon dollars, the central bank data showed.
-
-Sri Lanka’s gross foreign reserves are made up of central bank’s monetary reserves and fiscal reserves from loans.
-
-Sri Lanka signed a 200 million dollar World Bank loan in October, it is not clear whether the it was disbursed.
-
-Sri Lankas’ central bank has operated deflationary policy for over two years, leading to balance of payments surpluses.
-
-The agency has also allowed the rupee to appreciate, amid an IMF program allowing some of the inflation created during the crisis to reverse.
-
-Central bank’s net reserves which were negative by 4.6 billion dollars at the height of the last currency crises has now come to near to zero by September.
-
-The central bank has repaid both International Monetary Fund and Reserve Bank of India loans. (Colombo/Nov07/2024)
-
-◼️
-
-[Data](articles/b3874f73.json)
-
-[Extended Data](ext_articles/b3874f73.ext.json)
-
----
-
-### Sri Lanka stocks close on mixed sentiments
-
-*2024-11-07 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-on-mixed-sentiments-186550/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed on a mixed note on Thursday, data on its site showed.
-
-The broader ASPI closed up 0.07 percent, or 8.76 points, at 12,727; while the more liquid S&P SL20 Index closed down 0.02 percent, or 0.91 points, at 3,823.
-
-Top contributors to the ASPI were John Keells Holdings (up at 21.50), Melstacorp (up at 101.75), Dipped Products (up at 41.00), Hemas Holdings (83.10) and LOLC Holdings (up at 448.50).
-
-Banking stocks closed down; Hatton National Bank (down at 227.00), Sampath Bank (down at 88.50), Commercial Bank (up at 114.50), DFCC Bank (down at 82.00) and National Development Bank (down at 84.40).
-
-There was a net foreign inflow of 45 million rupees.  (Colombo/Nov7/2024)
-
-◼️
-
-[Data](articles/17790195.json)
-
-[Extended Data](ext_articles/17790195.ext.json)
 
 ---

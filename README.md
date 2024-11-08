@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 16:24:39**
+As of **2024-11-08 16:41:40**
 
 ## Newspaper Stats
 
-*Scraped **53,732** Articles*
+*Scraped **53,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,82 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,025
-adaderanalk | 6,402
+adaderanalk | 6,403
 tamilmirrorlk | 7,490
 virakesarilk | 8,695
-adaderanasinhalalk | 9,365
+adaderanasinhalalk | 9,367
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,727 (100.0%) of 53,732 articles have been extended.
+53,733 (100.0%) of 53,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### ප්‍රදේශ කිහිපයකට නායයෑම් අනතුරු ඇඟවීම් නිකුත් කෙරේ
+
+*2024-11-08 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203044) · `si`
+
+දිස්ත්‍රික්ක කිහිපක ප්‍රාදේශීය ලේකම් කොට්ඨාස කිහිපයක් සඳහා පූර්ව නායයෑම් අනතුරු ඇඟවීමක් නිකුත් කිරීමට ජාතික ගොඩනැගිලි පර්යේෂණ සංවිධානය පියවර ගෙන තිබේ.
+
+එම සංවිධානය නිකුත් කල නිවේදනයේ දැක්වෙන්නේ අද (08) පස්වරු 4.00 සිට හෙට පස්වරු 4.00 දක්වා මෙම අනතුරු ඇඟවීමේ නිවේදනය වලංගු වන බවය.
+
+ඒ අනුව බදුල්ල දිස්ත්‍රික්කයේ හල්දුම්මුල්ල, පස්සර සහ හාලි ඇල, මහනුවර දිස්ත්‍රික්කයේ පාතදුම්බර සහ තුම්පනේ, කෑගල්ල දිස්ත්‍රික්කයේ දැරණියගල, දෙහිඕවිට, ගලිගමුව, රඹුක්කන, බුලත්කොහුපිටිය, වරකාපොළ, අරණායක, යටියන්තොට, රුවන්වැල්ල සහ කෑගල්ල, කුරුණෑගල දිස්ත්‍රික්කයේ මාවතගම, නුවරඑළිය දිස්ත්‍රික්කයේ වලපනේ, රත්නපුර දිස්ත්‍රික්කයේ ඇහැලියගොඩ, කුරුවිට, සහ රත්නපුර, යන දිස්ත්‍රික්ක සඳහා 'විමසිලිමත් බවින් සිටින' ලෙස අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කිරීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/0db776e0.json)
+
+---
+
+### New circular on the use of WhatsApp for school learning
+
+*2024-11-08 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203043) · `si`
+
+Circular: WhatsApp use in schools during COVID-19. Education authorities instructed teachers to maintain regulated groups, prioritize education over communication. Limit personal content sharing. Ensure learning materials are appropriate and planned. No private videos, photos, or notes allowed. Legal action may be taken for harmful content.
+
+🟩
+
+A special circular has been issued to the use of 'social communication inputs' for school education and communication.
+
+The Secretary to the Ministry, JMT Jayasundara, has been referred to the education authorities including all principals, including all principals.
+
+The circular further stated that the use of social communication tools such as What missed children have already been used to cover school students in the Cowid-12 Epidemic.
+
+It is reported that the Ministry is currently reported on the other adverse effects.
+
+Accordingly, in the use of communication inputs, all teachers have been informed of the relevant parties to conduct the following instructions.
+
+The main teachers / Assistant Principal / Assistant Principal / Divisional Secretariat / Division should be maintained as administrative and regulatory communication group under regular supervision and regulation.
+
+...
+
+[Data](articles/a6366088.json)
+
+[Extended Data](ext_articles/a6366088.ext.json)
+
+---
+
+### Weather advisory issued for severe lightning
+
+*2024-11-08 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103260/weather-advisory-issued-for-severe-lightning) · `en`
+
+The Department of Meteorology has issued an advisory for severe lightning in several provinces and districts.
+
+Thundershowers accompanied by severe lightning are likely to occur at several places in Northern and North-central, Nort-western, Central, Uva, Western and Sabaragamuwa provinces and in Trincomalee and Ampara districts, it said.
+
+The department said there may be temporary localized strong winds during thundershowers and requested the general public to take adequate precautions to minimize damages caused by lightning activity.
+
+◼️
+
+[Data](articles/58abf15a.json)
+
+[Extended Data](ext_articles/58abf15a.ext.json)
+
+---
 
 ### Couple remanded for pyramid racket
 
@@ -224,37 +286,53 @@ He said this in an interview with NM Basil, a United People's Power candidate in
 
 ---
 
-### ஆண்ட்ராய்டு போன்களை தாக்கி பணத்தை களவாடும் மால்வேர்
+### Malware that strikes Android phones
 
 *2024-11-08 15:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/ஆண்ட்ராய்டு-போன்களை-தாக்கி-பணத்தை-களவாடும்-மால்வேர்/57-346781) · `ta`
 
-ஆண்ட்ராய்டு பயனர்களின் வங்கிக் கணக்கில் இருந்து பணத்தை களவாடும் நோக்கில் ‘டாக்சிக் பாண்டா’ என்ற புதிய மால்வேர் உலாவி வருவதை குறித்து சைபர் பாதுகாப்பு வல்லுநர்கள் எச்சரித்துள்ளனர்.
+Taxic Panda malware targets Android users' bank accounts. Uses techniques like account tagging and on-the-fly transactions. Affects over 1,500 users across 16 countries. Bypasses security measures and operates remotely. May be linked to Chinese actors. Also sends malicious links via WhatsApp.
 
-இந்த மால்வேர் குறித்து சைபர் பாதுகாப்பு வல்லுநர்கள் கடந்த மாதம்  கண்டறிந்துள்ளனர். ஆண்ட்ராய்டு பயனர்களின் போன்களில் இந்த மால்வேர் பாதிப்பின் மூலம் பயனர்கள் வங்கிக் கணக்கில் உள்ள பணம் திருடப்படுகிறது.
+🟩
 
-அக்கவுண்ட் டேக்ஓவர், ஆன்-டிவைஸ் பிராடு போன்ற டெக்னிக் இதற்கு பயன்படுத்தப்படுகிறது என டெக் வல்லுநர்கள் தெரிவித்துள்ளனர்.
+Cyber ​​security experts have warned of a new malware browser called Taxic Panda, aimed at stealing money from Android users' bank account.
 
-டாக்சிக் பாண்டா மால்வேரின் பின்னணியில் டிஜி-டாக்சிக் (Digi-Toxic) மோசடியாளர்கள் இருப்பதாக தெரிகிறது. டிஜி-டாக்சிக் மால்வேர் மூலம் தென்கிழக்கு ஆசிய பயனர்களை குறிவைத்து வங்கிக் கணக்கில் இருந்து பணம் திருடப்பட்டது குறிப்பிடத்தக்கது. இந்த மால்வேர் மூலம் வங்கிகளின் பாதுகாப்பு சார்ந்த தொழில்நுட்ப நடவடிக்கைகளை பைபாஸ் செய்ய இந்த மால்வேர் முயற்சிக்கும். அதாவது ஐடன்டி வெரிபிகேஷன் மற்றும் ஆத்தென்டிகேஷன் போன்றவற்றை கடப்பது.
+Cyber ​​security experts have discovered this malware last month. Users are stolen the money in the bank account by this malware impact on Android users' phones.
+
+Tech experts have said that the technique such as account tagover and on-the-Divis Prat is used.
+
+Digi-toxic seems to be in the backdrop of Taxic Panda Malver. It is noteworthy that money was stolen from the bank account targeting Southeast Asian users by Diji-Taxic Malware. This malware will try to bypass the safety technical activities of the banks through this malware. That means crossing the Idanti Verification and Attendance.
+
+This malware uses Android Axisphile Services. It seems that the phone is not active, but it can be operated from the remote. It has been reported that the malware is now in the development of the development.
 
 ...
 
 [Data](articles/08cad8c9.json)
 
+[Extended Data](ext_articles/08cad8c9.ext.json)
+
 ---
 
-### இரண்டு வெதுப்பகங்களுக்கு சீல்
+### Seal for two warm
 
 *2024-11-08 15:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-வெதுப்பகங்களுக்கு-சீல்/175-346780) · `ta`
 
-மன்னார் பொது சுகாதார வைத்திய அதிகாரி பிரிவில்  சுகாதார சீர்கேடுகள் உடன் பொது மக்களின் சுகாதாரத்திற்கு தீங்கு விளைவிக்கும் வகையில் இயங்கி வந்த இரண்டு போக்கிரிகள்(வெதுப்பகங்களுக்கு) நீதிமன்ற உத்தரவு பெற்று மன்னார் பொது சுகாதார பரிசோதகர்கள் வெள்ளிக்கிழமை (8)சீல் வைத்துள்ளனர்.
+Court seals Mannar Public Health Inspectors due to health issues. Action against restaurants with health problems in Mannar district.
 
-கடந்த பல மாதங்களாக மன்னார் பொது சுகாதார பரிசோதகர்கள் குறித்த வெதுப்பகங்கள் தொடர்பில் பரிசோதிக்கப்பட்டு 12 குறைபாடுகள் நிவர்த்தி செய்யப்பட வேண்டும் என கடிதம் மூலம் அறிவிக்கப்பட்ட போது குறித்த வெதுப்பகங்கள் அறிவிப்புக்கள் தொடர்பில் எந்த நடவடிக்கையும் மேற்கொள்ளாத நிலையில் வியாழக்கிழமை (7) குறித்த வெதுப்பகங்களுக்கு சீல் வைக்கப்பட்டுள்ளது.
+🟩
 
-மன்னார் நகரில் உள்ள இரண்டு வெதுப்பகங்களையும் எதிர்வரும் 21ஆம் திகதி வரை மூடு மாறும் பொது சுகாதார பரிசோதகர்கள் சுட்டிக்காட்டி 12 சுகாதார பிரச்சினைகளும் நிவர்த்தி செய்யும் வரை குறித்த வெதுப்பகங்கள் வியாபார நடவடிக்கைகளில் ஈடுபடும் அனுமதி மறுக்கப்படுவதாக வும் சுட்டிக்காட்டப்பட்டுள்ளது.  நீதிமன்ற அறிவித்தல் ஊடாக சுட்டிக்காட்டப்பட்ட வெதுப்பகங்களில் காட்சிப்படுத்தப்பட்டுள்ளது.
+The Mannar Public Health Inspectors on Friday (8) were sealed by a court order for the health problems of the Mannar Public Health Officer Division with a court order to harm the public's health.
 
-...
+When the letter has been examined for the past several months, the Mannar Public Health Inspectors have been selected on Thursday (7) when no action has been taken on the announcement of the reports when the letter has been announced by the letter.
+
+It has also been pointed out that the two boys in Mannar are refused to be involved in business activities until the public health inspectors point out until the 21st of this month..  நீதிமன்ற அறிவித்தல் ஊடாக சுட்டிக்காட்டப்பட்ட வெதுப்பகங்களில் காட்சிப்படுத்தப்பட்டுள்ளது.
+
+Similarly, Mannar Public Health Medical Officers are also taking action on restaurants operating with health problems in Mannar district.
+
+◼️
 
 [Data](articles/d0455438.json)
+
+[Extended Data](ext_articles/d0455438.ext.json)
 
 ---
 
@@ -302,21 +380,29 @@ She was arrested while accepting the bribe at her office inside the school premi
 
 ---
 
-### சுகாதார சீர்கெடுகள் கொண்ட உணவகம் உரிமையாளருக்கு 50 ஆயிரம் ரூபாய் அபராதம் ; 5 இலட்சம் ரூபா சரீர பிணையில் விடுவிப்பு
+### 50 thousand rupees fines for a restaurant owner with health disorders;5 lakh rupees released on bail
 
 *2024-11-08 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198187) · `ta`
 
-அட்டன்  பிரதான வீதியில் அமைந்துள்ள உணவகம் ஒன்றின் சுகாதார சீர்கேடுகளை முன்வைத்து அம்பகமுவ மாவட்ட சுகாதார வைத்தியர் அதிகாரி காரியாலய சுகாதார பரிசோதகர்கள் குழுவினரால் தொடரப்பட்ட வழக்கில் உணவக உரிமையாளருக்கு 50 ஆயிரம் ரூபாய் அபராதம் விதிக்கப்பட்டதுடன், ஐந்து இலட்சம் ரூபாய் சரீர பிணையில் விடுவிக்க அட்டன் நீதவான் நீதிமன்ற நீதவான் உத்தரவிட்டார்.
+Restaurant owner fined 50k for health violations, 500k bail posted. Ordered to renovate kitchen by Dec 13. Owner threatened health inspector earlier.
 
-மேற்படி வழக்க இன்று வெள்ளிக்கிழமை (08) விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது. இதன்போது பொது சுகாதார பரிசோதகர்கள் குழுவினர் மேற்படி உணவகத்தின் சமையலறையின் சுகாதார சீர்கேடுகள் குறித்து அறிக்கை சமர்ப்பித்ததுடன், 15 முறைப்பாடுகளை முன்வைத்தனர்.
+🟩
 
-சமையலறையிலுள்ள மலசல கூடத்தை மாற்றுதல், பழமையான கூரை பகுதியை சீர்செய்தல் உள்ளிட்ட விடயங்கள் இதில் உள்ளடங்கியிருந்தன.
+The Ambagamuwa District Health Officer Officer's Office of Health Inspectors has been fined 50 thousand rupees in the case of the Ambagamuwa District Health Officer's Office, which has been issued a restaurant on the main road of Attan and has been ordered to release Rs.
 
-சுகாதார பரிசோதகர்களின் விளக்கங்களை செவிமெடுத்த நீதவான் டிசம்பர் 13 ஆம் திகதிக்கு முன்பதாக மேற்படி உணவகத்தின்  சமையலறை உட்கட்டமைப்புகள் சீர்செய்யப்பட வேண்டும் என்றும்  அது குறித்த அறிக்கைகளை குறித்த திகதிக்கு முன்பதாக சமர்ப்பிக்கும்படியும் உத்தரவிட்டார்.
+The case was taken up for hearing today (08). A team of public health inspectors submitted a report on the health problems of the restaurant's kitchen and filed 15 complaints.
 
-...
+This includes matters such as replacing the tooth in the kitchen and the remedial of the old roofing area.
+
+The magistrate, hearing the descriptions of the health inspectors, ordered the restaurant's kitchen infrastructure to be reproduced before December 13 and submitted it before the date.
+
+It is noteworthy that the restaurant owner was arrested on the 27th of last month for the death threat to the Chief Health Inspector S. Kamadevan, who had been headed by a group of people who had previously prevented their work to prevent their work.
+
+◼️
 
 [Data](articles/4eeb77db.json)
+
+[Extended Data](ext_articles/4eeb77db.ext.json)
 
 ---
 
@@ -394,19 +480,29 @@ Donald Trump has appointed Susan Wiles, the chief of the White House, the chief 
 
 ---
 
-### வங்கக்கடலில் புதிய காற்றழுத்த தாழ்வு
+### New winds in the Bay of Bengal
 
 *2024-11-08 14:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-புதிய-காற்றழுத்த-தாழ்வு/175-346777) · `ta`
 
-வங்கக்கடலில், அடுத்த 48 மணி நேரத்தில் புதிய காற்றழுத்த தாழ்வு பகுதி உருவாகவுள்ளது.
+Here's a 200-character summary:
 
-இந்த காற்றழுத்த தாழ்வு பகுதி தமிழகம்-இலங்கை கடற்கரை நோக்கி நகரக்கூடும் என எதிர்வுகூரப்பட்டுள்ளது.
 
-வங்காள விரிகுடாவில் ஏற்பட்டுள்ள சூறாவளி சுழற்சி குறைந்த காற்றழுத்த தாழ்வு பகுதியாக மாற வாய்ப்பு உள்ளமை குறிப்பிடத்தக்கது. AN
+
+A new windmill forms in the Bay of Bengal within 48 hours. Low-lying areas may shift towards Tamil Nadu-Sri Lanka. The cyclone cycle is expected to transition to low-winds.
+
+🟩
+
+In the Bay of Bengal, the new windmill will be formed over the next 48 hours.
+
+It is predicted that the low-lying area may move towards the coast of Tamil Nadu-Sri Lanka.
+
+It is noteworthy that the cyclone cycle in the Bay of Bengal is likely to become a low winds.. Those
 
 ◼️
 
 [Data](articles/0ee385ac.json)
+
+[Extended Data](ext_articles/0ee385ac.ext.json)
 
 ---
 
@@ -2275,51 +2371,5 @@ I have sent my son to Nuwara Eliya. Send him and the young female candidate Anus
 [Data](articles/4c5df907.json)
 
 [Extended Data](ext_articles/4c5df907.ext.json)
-
----
-
-### Aitken spence Cargo Secures top honours at SLFFA National Logistics Awards 2024
-
-*2024-11-08 00:46:00* · [`islandlk`](http://island.lk/aitken-spence-cargo-secures-top-honours-at-slffa-national-logistics-awards-2024/) · `en`
-
-Aitken Spence Cargo (Pvt) Ltd of Aitken Spence Freight Sector secured first place winning the Gold Award in the “Freight Forwarders – Large Category” at the National Logistics Awards 2024 organised by the Sri Lanka Logistics & Freight Forwarders Association (SLFFA). This prestigious event recognising excellence and innovation honouring achievements in freight logistics was held on 23rd October 2024 at the Hotel Shangri-La Colombo.
-
-...
-
-[Data](articles/ef42aa6f.json)
-
-[Extended Data](ext_articles/ef42aa6f.ext.json)
-
----
-
-### General election jitters seen as deterring share investors
-
-*2024-11-08 00:44:00* · [`islandlk`](http://island.lk/general-election-jitters-seen-as-deterring-share-investors/) · `en`
-
-Stock market activities were positive but slightly volatile yesterday as the market witnessed some consolidation due to the recent bull-run. However, investors are concerned about the oncoming general election, market analysts said.
-
-The All Share Price Index went up by 16.9 points, while the S and P SL20 rose by 2.6 points. Turnover stood at Rs 2.11 billion with six crossings. Those crossings were reported in Softlogic Finance, which crossed 6 million shares to the tune of Rs 34.8 million; its shares traded at Rs 5.80, Commercial Bank 275,000 shares crossed for Rs 31.6 million; its shares traded at Rs 115, LB Finance 300,000 shares crossed for Rs 22.5 million; its shares traded at Rs 75, Pan Asia Bank 800,000 shares crossed for Rs 20.8 million; its shares sold at Rs 26, Melstacope 200,000 shares crossed for Rs 20.2 million; its shares traded at Rs 101 and Sampath Bank 225,000 shares crossed to the tune of Rs 20 million and its shares fetched Rs 89.
-
-...
-
-[Data](articles/0c89756d.json)
-
-[Extended Data](ext_articles/0c89756d.ext.json)
-
----
-
-### KTI strengthens STEM learning with PlayShifu launch
-
-*2024-11-08 00:42:00* · [`islandlk`](http://island.lk/kti-strengthens-stem-learning-with-playshifu-launch/) · `en`
-
-Kiddies & Toys International (Pvt) Ltd (KTI), introduces PlayShifu, a leading educational toy brand, to Sri Lanka. This marks the first time such innovative STEM learning toys are available in the country.
-
-Established in 2002, KTI has established itself as a household name, leading in Baby, Mother Care, Toy, and Stationery segments. As a fully owned subsidiary of LIMRA Holdings Limited, KTI has exclusive partnerships with global brands like Farlin, Lego, Mattel, and Faber-Castell. The addition of PlayShifu to its portfolio underscores KTI’s commitment to offering high quality products that enhance children’s cognitive development and creativity.
-
-...
-
-[Data](articles/b2a6276b.json)
-
-[Extended Data](ext_articles/b2a6276b.ext.json)
 
 ---

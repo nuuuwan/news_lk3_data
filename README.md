@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 19:58:51**
+As of **2024-11-08 20:11:52**
 
 ## Newspaper Stats
 
-*Scraped **53,760** Articles*
+*Scraped **53,761** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 419
-bbccomsinhala | 547
+bbccomsinhala | 548
 colombotelegraphcom | 551
 islandlk | 3,209
 economynextcom | 3,260
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,374
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,760 (100.0%) of 53,760 articles have been extended.
+53,760 (100.0%) of 53,761 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1246,6 +1246,24 @@ The Secretariat has announced that on the first day of the election of the elect
 
 ---
 
+### කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට කාලගුණය ගැන නිවැරදි ම අනාවැකි කියන්න බැරි ඇයි?
+
+*2024-11-08 13:46:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wqnzdngepo) · `si`
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුවට කාලගුණය ගැන නිවැරදි ම අනාවැකි කියන්න බැරි ඇයි?
+
+කෘෂිකාර්මික ආර්ථිකයකට හිමිකම් කී ශ්‍රී ලංකාව අතීතයේදී කාලගුණ තත්ත්වයන් පිළිබඳ ප්‍රායෝගික දැනුම විශාල වශයෙන් යොදා ගත් බවට බොහෝ සාක්ෂි සාහිත්‍ය මූලාශ්‍ර සහ ජනශ්‍රුති ඔස්සේ හමුවෙයි.
+
+"යල සහ මහ කියන කන්න දෙක අතර තිබෙන සංවහන වැසි දෙකෙන් අවුරුද්දට දෙපාරක් අකුණු ගහනවා. මේක තමයි පොහොර කෘෂිකර්මය. ඒක වටහා ගත්ත ශ්‍රී ලංකාවේ රජවරුන් පොහොර පස්සේ දිව්වේ නැහැ. ඔවුන් කීවේ 'හෙණ ගහපන්.. ගණන් බලාපන්' කියල යි. ඒ කියන්නේ, හෙණ ගහන්නේ කවද ද කියලා බලලා වගාවන් කරන්න කියලා. අකුණු ගහන්න කලින් වපුරලා ගොඩට එන්න කියල යි ඒ කිව්වේ," බීබීසී සිංහල සමග අදහස් දක්වමින් පරිසරවේදී තිලක් කන්දේගම පැවසුවේ ය.
+
+එය එසේ වුව ද, නවීන උපකරණ පැවතියදීත් වර්තමානයේ කාලගුණ විද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත් කරනු ලබන දත්ත නිවැරදි නොවන බවට සාමාජය තුළ මතයක් පවතිනවා සේ ම ඇතැම් විට කාලගුණ අනාවැකි හාස්‍යයට ලක්කරන අවස්ථා නැතුවා ද නොවේ.
+
+...
+
+[Data](articles/878e615c.json)
+
+---
+
 ### World's exciting island - Sri Lanka
 
 *2024-11-08 13:24:06* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-ආකර්ෂණීයතම-සංචාරක-දූපත----ශ්‍රී-ලංකාවට-හිමිතැන/11-412927) · `si`
@@ -2457,31 +2475,5 @@ The suspects were identified and investigations are being investigated and inves
 [Data](articles/dbed51b9.json)
 
 [Extended Data](ext_articles/dbed51b9.ext.json)
-
----
-
-### The motorcycle is a crack for the backdrop
-
-*2024-11-08 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203023) · `si`
-
-Motorcycle crash kills rider's passenger, driver unhurt. Incident occurred in Eravur Kanda during evening hours. Victim identified as 57-year-old local resident.
-
-🟩
-
-The backdrop has been hit by two people in the evening yesterday (07).
-
-The backdrop has died in the incident while the motorcyclist was not injured.
-
-The Eravur Kanda of Eravur Kandura was a tip off received by the Eravur Kandana, Eravur Kandura, had died due to lightning at the Eravur Kandan area in the Eravur Kandan.
-
-The victim was a 57 year old resident of Vandaramulla area.
-
-The accident occurred while they went to the paddy field and returned home from the motorcycle.
-
-◼️
-
-[Data](articles/283eaa7f.json)
-
-[Extended Data](ext_articles/283eaa7f.ext.json)
 
 ---

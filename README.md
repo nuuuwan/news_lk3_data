@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 00:40:05**
+As of **2024-11-09 00:56:40**
 
 ## Newspaper Stats
 
-*Scraped **53,801** Articles*
+*Scraped **53,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,684
 dailymirrorlk | 4,733
 adalk | 5,030
 adaderanalk | 6,410
-tamilmirrorlk | 7,498
+tamilmirrorlk | 7,499
 virakesarilk | 8,711
 adaderanasinhalalk | 9,378
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,796 (100.0%) of 53,801 articles have been extended.
+53,799 (100.0%) of 53,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### No house for former presidents?
+
+*2024-11-09 00:26:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளுக்கு-வீடு-இல்லையா/175-346810) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President offers aid to families struggling to buy food and school supplies. Announces scholarships for needy students. Clarifies former presidents must apply like others for benefits, denies accusations of revenge. Emphasizes fairness and legality in decision-making process.
+
+🟩
+
+The President said that if there are no families who are not able to buy food, it has been decided to make some allowances for such parties without political intervention.
+
+The President added that the children who cannot afford to buy school books and school equipment will be paid.
+
+“Even though the school is over in December, we know that the next new school installment will begin at the end of January.
+
+The old installment ends in January this year. The new installment begins at the end of January.
+
+In the new school installment, when students go to school, all students who cannot afford books and school equipment will be given scholarships.
+
+Those who are not available can appeal again and will be considered reasonably without political interventions. We have already given instructions to the Divisional Secretariats.
+
+Meanwhile, the President added that if the former presidents are to obtain some concessions, the application will be submitted and presented the legal reasons.
+
+...
+
+[Data](articles/f73e9ceb.json)
+
+[Extended Data](ext_articles/f73e9ceb.ext.json)
+
+---
 
 ### Three Sinha Group of Companies wins Silver at CNCI Awards 2024
 
@@ -130,6 +164,8 @@ Pelwatte Dairy has made a significant leap forward in Sri Lanka’s dairy sector
 
 [Data](articles/28c5cfa6.json)
 
+[Extended Data](ext_articles/28c5cfa6.ext.json)
+
 ---
 
 ### Rienzie Wijetilleke: Sons’ tribute
@@ -161,6 +197,8 @@ Paradox of Power: Militarily it is a unipolar world of U.S. hegemony; economical
 ...
 
 [Data](articles/6d1a4b4d.json)
+
+[Extended Data](ext_articles/6d1a4b4d.ext.json)
 
 ---
 
@@ -2381,37 +2419,5 @@ The US dollar purchasing price was 288.1320 rupees and the sales price were 297.
 [Data](articles/d8b2b451.json)
 
 [Extended Data](ext_articles/d8b2b451.ext.json)
-
----
-
-### Alzari Joseph banned with the leader
-
-*2024-11-08 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203033) · `si`
-
-Alzari Joseph banned after misconduct during England series. BCCI imposes two-match ban due to unethical behavior. Incident occurred during final ODI. West Indies won series 2-1-1 despite controversy.
-
-🟩
-
-B.I. West Indies has decided to impose two matches with a warm word transfer with West Indies' leader Sha ීර sudden.
-
-The agency says that Also's conduct is incompatible with the core ethics of the West Indies. Therefore, it is an offense that such behavior cannot be ignored.
-
-The course of action has been taken in the third and final ODI in the last and final ODI, which was completed against England.
-
-In connection with the German Cockz, who was batting in the 4th foken of the match
-
-However, at the odd, Alsozari Joseph was able to seize Cox's wicket.
-
-But he did not join the commemoration of his hins and was also in the meantime.
-
-West Indies traineer Darz Sammy was deeply displeased with Alzari's behavior, while he was also called to the stadium.
-
-In this context, 8 wickets received. West Indies was able to win the three-match tournament match 2-1-1.
-
-◼️
-
-[Data](articles/89681ece.json)
-
-[Extended Data](ext_articles/89681ece.ext.json)
 
 ---

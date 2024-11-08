@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 09:40:52**
+As of **2024-11-08 09:59:54**
 
 ## Newspaper Stats
 
-*Scraped **53,670** Articles*
+*Scraped **53,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,256
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,020
-adaderanalk | 6,391
+adaderanalk | 6,396
 tamilmirrorlk | 7,476
 virakesarilk | 8,681
 adaderanasinhalalk | 9,351
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,663 (100.0%) of 53,670 articles have been extended.
+53,670 (100.0%) of 53,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Postal voting for 2024 General Election ends today
+
+*2024-11-08 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103251/postal-voting-for-2024-general-election-ends-today) · `en`
+
+The marking of postal votes for the 2024 General Election is scheduled to end today (8).
+
+The postal voters who were unable to cast their postal votes on November 01 and 04 were given the opportunity to cast their votes yesterday (07) and today as special postal voting days, the Election Commission said.
+
+Accordingly, the Commissioner General of Elections Saman Sri Ratnayakes said that the voters who could not cast their postal votes at the District Secretariats in the respective districts where their workplace is located will have the opportunity to do so today as well.
+
+◼️
+
+[Data](articles/de1f21b1.json)
+
+[Extended Data](ext_articles/de1f21b1.ext.json)
+
+---
 
 ### Intensive testing in places where rice sells
 
@@ -59,6 +77,30 @@ He said the next step would be taken after inspection of the data. (That)
 [Data](articles/2492cb13.json)
 
 [Extended Data](ext_articles/2492cb13.ext.json)
+
+---
+
+### Indonesia volcano belches colossal ash tower
+
+*2024-11-08 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103250/indonesia-volcano-belches-colossal-ash-tower) · `en`
+
+A volcano in eastern Indonesia erupted more than half a dozen times on Thursday, catapulting a colossal ash tower five miles into the sky against a backdrop of lightning as nearby residents fled in panic.
+
+Mount Lewotobi Laki-Laki erupted on Monday and Tuesday, killing nine people and forcing the relocation of residents from a 7-kilometre (4.3-mile) exclusion zone.
+
+The country’s volcanology agency reported seven eruptions on Thursday, the biggest of which belched an ash tower five miles (eight kilometres) high, according to an observation post.
+
+Some said it was the biggest eruption they had ever seen from Lewotobi Laki-Laki.
+
+“This is the first time I saw this big eruption since I’ve been living in Lewolaga village,” said Anastasia Adriyani, 41, who lives outside the exclusion zone.
+
+“I was cooking at the community kitchen (for evacuees) and when it happened, I ran back home. I was very scared.”
+
+...
+
+[Data](articles/1ce041b8.json)
+
+[Extended Data](ext_articles/1ce041b8.ext.json)
 
 ---
 
@@ -176,6 +218,28 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The Depa
 
 ---
 
+### Over 3,000 driving licenses temporarily suspended so far this year
+
+*2024-11-08 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103249/over-3000-driving-licenses-temporarily-suspended-so-far-this-year) · `en`
+
+The Department of Motor Traffic (DMT) says that the courts have temporarily suspended over 3,000 driving licenses during the time elapsed this year (2024).
+
+The Commissioner General of Motor Traffic, Nishantha Anuruddha Weerasingha, stated that a total of 3,249 driving licenses have been temporarily suspended since January this year due to court orders following trials for various traffic violations committed by motorists.
+
+Meanwhile, Professor Mohamed Mahees of the Department of Sociology of the University of Colombo says that the main reasons contributing to the frequent occurrence of road accidents are reckless driving and poor vehicle conditions.
+
+Therefore, he pointed out that it is essential to check the quality of a vehicle before driving it.
+
+Professor Mohamed Mahees says that the deficiencies in the country’s road system have also contributed to the increase in road accidents.
+
+◼️
+
+[Data](articles/1726a100.json)
+
+[Extended Data](ext_articles/1726a100.ext.json)
+
+---
+
 ### Postal voting marking is over today
 
 *2024-11-08 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203026) · `si`
@@ -222,6 +286,28 @@ About a year ago, he had fled the country by leaving several people from several
 
 ---
 
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-08 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103248/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur at times in Northern and North-western Provinces and in Puttalam and Trincomalee districts.
+
+Showers or thundershowers will occur at several places in the other areas of the island after 1.00 pm, the department added
+
+Showers may occur in the Western province and in Galle, Matara, Ampara and Batticaloa districts in the morning too.
+
+Fairly heavy showers above 75 mm are likely at some places in Central, Sabaragamuwa and Uva provinces, according to the Met. Department.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/8a3b3d5b.json)
+
+[Extended Data](ext_articles/8a3b3d5b.ext.json)
+
+---
+
 ### Suspect arrested in Katunayake
 
 *2024-11-08 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203025) · `si`
@@ -243,6 +329,22 @@ The wife of the Police Media Spokesperson DIG Talduuwa said his wife was arreste
 [Data](articles/8ddb1466.json)
 
 [Extended Data](ext_articles/8ddb1466.ext.json)
+
+---
+
+### Suspect arrested at BIA for defrauding Rs.1.8 bln through pyramid scheme
+
+*2024-11-08 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103247/suspect-arrested-at-bia-for-defrauding-rs18-bln-through-pyramid-scheme) · `en`
+
+A 52-year old Sri Lankan arriving from Malaysia has been arrested by the CID at the Bandaranaike International Airport (BIA) for defrauding around Rs. 1,800 million from several persons through a pyramid scheme and fleeing the country a year ago.
+
+His wife, who had arrived at the airport to receive him, has also been arrested, Police Spokesman DIG Nihal Thalduwa said.
+
+◼️
+
+[Data](articles/24372f8b.json)
+
+[Extended Data](ext_articles/24372f8b.ext.json)
 
 ---
 
@@ -902,6 +1004,8 @@ Starting with a single client serving 350 employees, Raffles now provides nearly
 
 [Data](articles/26ddfabf.json)
 
+[Extended Data](ext_articles/26ddfabf.ext.json)
+
 ---
 
 ### 2024-11-07 (Thursday)
@@ -1148,17 +1252,23 @@ In addition, the situation in Kandy, Kegalle, Ratnapura, Embilipitiya, Badulla, 
 
 ---
 
-### ජපානයෙන් ලංකාවට අලුත් නාතාපතිවරයෙක්
+### Japan is a new civilian
 
 *2024-11-07 19:51:43* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-අලුත්-නාතාපතිවරයෙක්/11-412923) · `si`
 
-ශ්‍රී ලංකාවට අලුතින් පත්ව පැමිණි තානාපතිවරු දෙදෙනෙක් අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත නිල වශයෙන් සිය අක්තපත්‍ර භාර දුන්හ.
+Japan appoints new ambassador to Sri Lanka, meets President Anura Kumara Dissanayake. Egyptian Army officer also sworn in as ambassador. Diplomatic relations strengthened through cordial meeting.
 
-ඊජිප්තු අරාබි ජනරජයේ නව තානාපතිවරයා ලෙස ඇඩෙල් ඊබ්‍රාහිම් (Adel Ibrahim) මහතා ද, ජපානයේ නව තානාපතිවරයා ලෙස ඉසොමතා අකියෝ (ISOMATA Akio) මහතා ද මෙලස පත්ව සිටින අතර ඔවුහු සිය අක්තපත්‍ර භාර දීමෙන් අනතුරුව ජනාධිපතිවරයා සමඟ සුහද කතාබහකට ද එක් වූහ.
+🟩
+
+Two new ambassadors who were elected to Sri Lanka were officially handed over to President Anura Kumara Dissanayake at the Presidential Secretariat this morning.
+
+The new Ambassador of the Egyptian Army was also appointed as the new Ambassador of the Egyptian Ambassador and the new Ambassador of Japan, and after handing over his credentials, they were also a friendly chat with the President.
 
 ◼️
 
 [Data](articles/fae4fda5.json)
+
+[Extended Data](ext_articles/fae4fda5.ext.json)
 
 ---
 
@@ -2149,115 +2259,5 @@ The National Secretariat for NGOs is responsible for registering NGOs, monitorin
 [Data](articles/4d4d187e.json)
 
 [Extended Data](ext_articles/4d4d187e.ext.json)
-
----
-
-### Passport crisis: Immigration officers claim higher-ups concealed actual situation from Minister
-
-*2024-11-07 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103237/passport-crisis-immigration-officers-claim-higher-ups-concealed-actual-situation-from-minister) · `en`
-
-The Sri Lanka Immigration and Emigration Officers’ Association has issued a statement addressing the ongoing passport crisis in the country, citing administrative mismanagement and a lack of adequate planning as key contributors for the issue.
-
-According to the association, statements issued by other parties on the matter have often been contradictory and misleading, compelling them to clarify the real situation and advocate for immediate action to resolve the crisis.
-
-The association highlighted that the Department of Immigration and Emigration has a critical role in issuing passports that meet international standards, as mandated by the Immigration and Emigration Act. Despite continuous immigration and emigration services provided around the clock, including during emergencies, passport issuance has been disrupted by inefficiencies that began earlier this year and persist today, the statement added.
-
-The association detailed the following factors as having caused the crisis:
-
-...
-
-[Data](articles/ccd1dfd5.json)
-
-[Extended Data](ext_articles/ccd1dfd5.ext.json)
-
----
-
-### 28 arrested with drugs in special operation at coastal areas in Colombo
-
-*2024-11-07 14:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103236/28-arrested-with-drugs-in-special-operation-at-coastal-areas-in-colombo) · `en`
-
-A total of 28 individuals, including two women, have been arrested during an anti-drug operation carried out by the Coastal Police in three separate coastal areas of Colombo.
-
-The operation covered Jampettah Street, St. Anthony’s Road, and the 44 Watta area of Ratnam Road, according to police.
-
-A total of 12,900 milligrams of crystal methamphetamine (Ice), 5,900 milligrams of heroin, and 10 grams of cannabis which were found in the possession of the suspects have been taken into police custody during the operation.
-
-According to the police, nearly 40 identified residences as well as suspicious individuals who were travelling on the roads was subject to random searches, where the drugs were discovered.
-
-A police dog named “Amai” played a key role in the operation, which lasted nearly two hours and involved approximately 50 officers, including personnel from the Special Task Force (STF), according to police.
-
-◼️
-
-[Data](articles/e87322fd.json)
-
-[Extended Data](ext_articles/e87322fd.ext.json)
-
----
-
-### Sri Lanka warns public to be wary of financial crimes via social media apps
-
-*2024-11-07 14:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-warns-public-to-be-wary-of-financial-crimes-via-social-media-apps-186450/) · `en`
-
-ECONOMYNEXT – More people were falling prey to financial scams conducted through social media apps, including WhatsApp, Sri Lanka’s Information Department said, urging the public to be alert.
-
-Incidents of WhatsApp accounts being hacked have been reported, with messages then sent to those in the contacts list asking for money, the statement said.
-
-There have also been incidents reported of fake websites posing as those of various established banks, government or non-government organizations, business organizations, etc fraudulently obtaining money.
-
-According to the Sri Lanka Computer Emergency Readiness Team (CERT), criminals gain the necessary technical access for their financial frauds by asking users to provide a PIN, OTP or password.
-
-CERT warned against forwarding any code, PIN, OTP, or password received via phone and social media to an external party.
-
-...
-
-[Data](articles/3b1f7051.json)
-
-[Extended Data](ext_articles/3b1f7051.ext.json)
-
----
-
-### Here is the reason 'Ping' gave Gammanpila Minister Vijitha
-
-*2024-11-07 14:30:37* · [`adalk`](https://www.ada.lk/breaking_news/ගම්මන්පිල-ඇමති-විජිතට-‘-පිං’-දුන්න-හේතුව-මෙන්න/11-412914) · `si`
-
-Minister Vijitha Herath admitted promoting falsehoods during debate invitation. He rejected attending public debate, proving his claims false.
-
-🟩
-
-Minister Vijitha Herath said that he had admitted to the debate he was invited to promote falsehood.
-
-He was speaking at a media briefing held in Colombo today (07).
-
-"If we open the Minister of Minister Vijitha Herath says. The Passover Records Lies. The loans were told about. But he says I'm lying. I invited him to a public debate that he is lying that I was lying.. However, he has been recognized that he is lying through the rejection of attending a debate. He did so very much. "
-
-◼️
-
-[Data](articles/04bbc296.json)
-
-[Extended Data](ext_articles/04bbc296.ext.json)
-
----
-
-### Candidate who pays fees for preferential vote
-
-*2024-11-07 14:21:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/விருப்பு-வாக்குக்காக-கட்டணங்களை-செலுத்தும்-வேட்பாளர்/75-346722) · `ta`
-
-Candidate pays voters' bills for preferential votes in Trincomalee district. Election Commission investigates complaint about MP from major party.
-
-🟩
-
-The Election Complaints Division established at the Trincomalee District Office said that a candidate contesting in a major party in the parliamentary election has been lodged with voters' drinking water and electricity bills to get his preferential vote.
-
-The complaint states that the voters' fees are paid for the voter votes of the Toppur area in the Muttur constituency.
-
-Responding to the question, A. Sudhakaran, the Assistant Election Officer and Additional District Commissioner in charge of the Election Management Unit, said that the Election Commission had requested the necessary instructions to take action.
-
-The candidate is said to be a Member of Parliament for the Trincomalee District who represented the last parliament.
-
-◼️
-
-[Data](articles/f0723350.json)
-
-[Extended Data](ext_articles/f0723350.ext.json)
 
 ---

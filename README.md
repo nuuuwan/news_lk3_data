@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 20:59:11**
+As of **2024-11-08 21:11:10**
 
 ## Newspaper Stats
 
-*Scraped **53,770** Articles*
+*Scraped **53,771** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 5,029
 adaderanalk | 6,408
 tamilmirrorlk | 7,498
 virakesarilk | 8,705
-adaderanasinhalalk | 9,374
+adaderanasinhalalk | 9,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,770 (100.0%) of 53,770 articles have been extended.
+53,770 (100.0%) of 53,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### අපිව සල්ලිවලට ගන්න කාටවත් බැහැ - දිලිත්
+
+*2024-11-08 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203052) · `si`
+
+වරප්‍රසාදවලින් තොර දේශපාලනය මීළඟ පාර්ලිමේන්තුවේදි තමා ගෙන එන පෞද්ගලික මන්ත්‍රී යෝජනාවක් හරහා මෙරට යළි ස්ථාපිත කිරීමට සූදානම් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+...
+
+[Data](articles/81868b06.json)
+
+---
 
 ### Rs 1,000 crore fraud:
 
@@ -2487,27 +2499,5 @@ Thundershowers may be temporarily blowing in the up -and -coming areas. The Depa
 [Data](articles/9492b7ac.json)
 
 [Extended Data](ext_articles/9492b7ac.ext.json)
-
----
-
-### Over 3,000 driving licenses temporarily suspended so far this year
-
-*2024-11-08 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103249/over-3000-driving-licenses-temporarily-suspended-so-far-this-year) · `en`
-
-The Department of Motor Traffic (DMT) says that the courts have temporarily suspended over 3,000 driving licenses during the time elapsed this year (2024).
-
-The Commissioner General of Motor Traffic, Nishantha Anuruddha Weerasingha, stated that a total of 3,249 driving licenses have been temporarily suspended since January this year due to court orders following trials for various traffic violations committed by motorists.
-
-Meanwhile, Professor Mohamed Mahees of the Department of Sociology of the University of Colombo says that the main reasons contributing to the frequent occurrence of road accidents are reckless driving and poor vehicle conditions.
-
-Therefore, he pointed out that it is essential to check the quality of a vehicle before driving it.
-
-Professor Mohamed Mahees says that the deficiencies in the country’s road system have also contributed to the increase in road accidents.
-
-◼️
-
-[Data](articles/1726a100.json)
-
-[Extended Data](ext_articles/1726a100.ext.json)
 
 ---

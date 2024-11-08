@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 05:46:02**
+As of **2024-11-08 06:09:59**
 
 ## Newspaper Stats
 
-*Scraped **53,633** Articles*
+*Scraped **53,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 419
 bbccomsinhala | 547
 colombotelegraphcom | 550
-islandlk | 3,200
+islandlk | 3,209
 economynextcom | 3,256
-dailyftlk | 3,662
+dailyftlk | 3,668
 dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
@@ -26,11 +26,103 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,633 (100.0%) of 53,633 articles have been extended.
+53,633 (100.0%) of 53,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### What Trump’s victory means for Sri Lanka
+
+*2024-11-08 06:00:08* · [`dailyftlk`](https://www.ft.lk/columns/What-Trump-s-victory-means-for-Sri-Lanka/4-768982) · `en`
+
+Regardless of how Trump’s rule finally ends, there can be no doubt that it is the harbinger of a destructive conclusion to the global order
+
+The victory of Donald Trump in the US Presidential election held on 5 November 2024, is likely to be a defining moment in our global epoch. Trump brought together the decades-long projects of the American oligarchy and reactionary social forces. He ran on the agenda of amplifying the darkest trends in the American polity. But while the spectre of his return rose, the Democratic leadership held onto a bankrupt vision for the future that resisted interrogation of the US empire.
+
+...
+
+[Data](articles/29a27977.json)
+
+---
+
+### Building social security system in  Sri Lanka: For the many, and not the few
+
+*2024-11-08 05:52:16* · [`dailyftlk`](https://www.ft.lk/columns/Building-social-security-system-in-Sri-Lanka-For-the-many-and-not-the-few/4-768979) · `en`
+
+Almost 25% of the population appealed against their exclusion from Aswesuma, indicating their lack of trust in the social registry and,
+
+Sri Lanka has a new President. One of his most important tasks will be to restore the trust of the nation’s citizens in the State. In recent decades, the public’s trust in the State has been severely damaged. Some people have paid their taxes yet, over recent years, have experienced a progressive decline in the quality of public services, while a small number of individuals have taken advantage of the State to enrich themselves. Without trust in the State, it will be impossible for any Government to build a strong, fair and prosperous nation in which no one is left behind.
+
+...
+
+[Data](articles/819a3fe8.json)
+
+---
+
+### Swastika Arulingam makes compelling case to be in next Parliament
+
+*2024-11-08 05:44:16* · [`dailyftlk`](https://www.ft.lk/opinion/Swastika-Arulingam-makes-compelling-case-to-be-in-next-Parliament/14-768978) · `en`
+
+Swastika Arulingam, a 37-year-old civil and labour lawyer, is contesting the upcoming parliamentary elections from Colombo. Educated at Ladies College, Arulingam entered the Colombo Law College in 2008 before she qualified as a lawyer in 2011.
+
+She started her first job at the Legal Aid Commission and represented several persons who needed legal aid such as workers, shop vendors and those arrested under the Prevention of Terrorism Act (PTA). She has two masters: an LLM from the University of Colombo and an LLM and Development as a Chevening Scholar at School of Oriental and African Studies, University of London. She became President of the Commercial and Industrial Workers Union (CIWU) in 2022 and the United Federation of Labour (UFL)
+
+...
+
+[Data](articles/402b8875.json)
+
+---
+
+### Digitalisation will fail, unless
+
+*2024-11-08 05:38:13* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-will-fail-unless/4-768977) · `en`
+
+Unless those responsible for Government digitalisation develop an alternative to the present broken procurement model, the great hopes that have been placed on digitalisation are unlikely to be realised
+
+If there is anything everyone supports, it’s digitalisation of government. It’s seen as the panacea for all our ills: tax avoidance, corruption, inefficient agriculture… You name a problem, that is the answer, or at least part of the answer. We’ve been trying for over two decades but with meagre returns.
+
+What lessons for a reset can be drawn from our successes and failures? This moment when Dr. Hans Wijayasuriya has agreed to serve as Chief Advisor on the Digital Economy is an opportunity for a reset.
+
+Go back to mid 2022. Think of the queues. In some places, three parallel lines as far as the eye could see, with only one lane left for traffic. The first challenge was to get fuel. The second was to navigate roads blocked by fuel queues.
+
+...
+
+[Data](articles/bb9772ad.json)
+
+---
+
+### Sri Lankan apparel industry is responsible, innovative and agile
+
+*2024-11-08 05:32:39* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lankan-apparel-industry-is-responsible-innovative-and-agile/14-768976) · `en`
+
+As a globally renowned hub for quality and innovative apparel, Sri Lanka is buttoning up capacity with fully vertically integrated solutions to take on the evolving trends in retail fashion and enabling quick replenishment. A preferred manufacturing base for some of the world’s iconic fashion brands, Sri Lanka’s penchant for cutting-edge apparel solutions coupled with ethical and sustainable manufacturing has for long placed the island nation ahead of regional competition.
+
+...
+
+[Data](articles/faff1b99.json)
+
+---
+
+### Dr. Shafi lodges complaint with Public Security Ministry
+
+*2024-11-08 05:22:28* · [`dailyftlk`](https://www.ft.lk/news/Dr-Shafi-lodges-complaint-with-Public-Security-Ministry/56-768970) · `en`
+
+Requests probe into the manner in which he was arrested in 2019 and prosecuted
+
+Alleges charges against him were fabricated as part of a deliberate conspiracy aimed at creating discord among communities
+
+Accuses law enforcement of collecting complaints against him only after his arrest
+
+Kurunegala Teaching Hospital Gynecology and Obstetrics Unit Senior House Officer Dr. Shafi Shihabdeen who was cleared of all charges related to his 2019 arrest has lodged a complaint with the Public Security Ministry.
+
+Dr. Shihabdeen is urging the Ministry to investigate the circumstances of his arrest and subsequent prosecution, asserting that the allegations against him were fabricated as part of a deliberate conspiracy which also involved forged documents, aimed at creating discord among communities.
+
+...
+
+[Data](articles/d569b923.json)
+
+---
 
 ### Lohan Ratwatte and wife further remanded
 
@@ -208,6 +300,20 @@ Two persons, including the club Vasantha, were killed in the shooting at a tatto
 
 ---
 
+### HNB Assurance and HNB General Insurance affirmed by Fitch at ‘A-(lka)’ with a Stable Outlook
+
+*2024-11-08 00:47:00* · [`islandlk`](http://island.lk/hnb-assurance-and-hnb-general-insurance-affirmed-by-fitch-at-a-lka-with-a-stable-outlook/) · `en`
+
+HNB Assurance PLC (HNBA) and HNB General Insurance Limited (HNBGI) have both been reaffirmed by Fitch Ratings with an ‘A-(lka)’ rating indicating an outlook which is stable, signaling confidence in the companies’ financial health and future growth potential.
+
+Fitch highlighted that HNBA and HNBGI have strengthened their investment portfolios and maintained healthy liquidity as the Sri Lankan economy recovered. A major part of their investments is in government securities, term deposits and corporate bonds, making them well-poised to venture forward.
+
+...
+
+[Data](articles/5a962ece.json)
+
+---
+
 ### Tamil representation will definitely win
 
 *2024-11-08 00:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-பிரதிநித்துவத்தை-நிச்சயம்-வெல்வோம்/175-346751) · `ta`
@@ -234,6 +340,46 @@ I have sent my son to Nuwara Eliya. Send him and the young female candidate Anus
 
 ---
 
+### Aitken spence Cargo Secures top honours at SLFFA National Logistics Awards 2024
+
+*2024-11-08 00:46:00* · [`islandlk`](http://island.lk/aitken-spence-cargo-secures-top-honours-at-slffa-national-logistics-awards-2024/) · `en`
+
+Aitken Spence Cargo (Pvt) Ltd of Aitken Spence Freight Sector secured first place winning the Gold Award in the “Freight Forwarders – Large Category” at the National Logistics Awards 2024 organised by the Sri Lanka Logistics & Freight Forwarders Association (SLFFA). This prestigious event recognising excellence and innovation honouring achievements in freight logistics was held on 23rd October 2024 at the Hotel Shangri-La Colombo.
+
+...
+
+[Data](articles/ef42aa6f.json)
+
+---
+
+### General election jitters seen as deterring share investors
+
+*2024-11-08 00:44:00* · [`islandlk`](http://island.lk/general-election-jitters-seen-as-deterring-share-investors/) · `en`
+
+Stock market activities were positive but slightly volatile yesterday as the market witnessed some consolidation due to the recent bull-run. However, investors are concerned about the oncoming general election, market analysts said.
+
+The All Share Price Index went up by 16.9 points, while the S and P SL20 rose by 2.6 points. Turnover stood at Rs 2.11 billion with six crossings. Those crossings were reported in Softlogic Finance, which crossed 6 million shares to the tune of Rs 34.8 million; its shares traded at Rs 5.80, Commercial Bank 275,000 shares crossed for Rs 31.6 million; its shares traded at Rs 115, LB Finance 300,000 shares crossed for Rs 22.5 million; its shares traded at Rs 75, Pan Asia Bank 800,000 shares crossed for Rs 20.8 million; its shares sold at Rs 26, Melstacope 200,000 shares crossed for Rs 20.2 million; its shares traded at Rs 101 and Sampath Bank 225,000 shares crossed to the tune of Rs 20 million and its shares fetched Rs 89.
+
+...
+
+[Data](articles/0c89756d.json)
+
+---
+
+### KTI strengthens STEM learning with PlayShifu launch
+
+*2024-11-08 00:42:00* · [`islandlk`](http://island.lk/kti-strengthens-stem-learning-with-playshifu-launch/) · `en`
+
+Kiddies & Toys International (Pvt) Ltd (KTI), introduces PlayShifu, a leading educational toy brand, to Sri Lanka. This marks the first time such innovative STEM learning toys are available in the country.
+
+Established in 2002, KTI has established itself as a household name, leading in Baby, Mother Care, Toy, and Stationery segments. As a fully owned subsidiary of LIMRA Holdings Limited, KTI has exclusive partnerships with global brands like Farlin, Lego, Mattel, and Faber-Castell. The addition of PlayShifu to its portfolio underscores KTI’s commitment to offering high quality products that enhance children’s cognitive development and creativity.
+
+...
+
+[Data](articles/b2a6276b.json)
+
+---
+
 ### "If you say once a hundred times,"
 
 *2024-11-08 00:35:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-தடவை-சொன்னால்-நூறு-தடவை-சொன்ன-மாதிரி/175-346750) · `ta`
@@ -255,6 +401,24 @@ The United Democratic Party has been launched and supported within a short perio
 [Data](articles/fa9ac921.json)
 
 [Extended Data](ext_articles/fa9ac921.ext.json)
+
+---
+
+### Raffles Consolidated marks 25 years of excellence
+
+*2024-11-08 00:33:00* · [`islandlk`](http://island.lk/raffles-consolidated-marks-25-years-of-excellence/) · `en`
+
+Raffles Consolidated (Pvt) Ltd, a leading name in Sri Lanka’s hospitality industry, will celebrate its 25th anniversary on December 1, 2024. To mark this milestone, the company is preparing to usher in a new era of growth as it embarks on the next chapter of its journey.
+
+Since its launch in December 1999 as an outdoor catering company serving an established corporate and upscale clientele, Raffles has evolved into a multi-segment catering leader, catering to three tiers of the industry: cafés, industrial catering, and premium banquets and event catering.
+
+In 2001, Raffles entered the industrial catering segment by winning contracts to operate cafeterias for several leading establishments in Sri Lanka.
+
+Starting with a single client serving 350 employees, Raffles now provides nearly 70,000 meals daily across multiple factories, offering breakfast, lunch, and dinner. Industrial catering has since become a core focus of its business model.
+
+...
+
+[Data](articles/26ddfabf.json)
 
 ---
 
@@ -2127,283 +2291,5 @@ Theldeniya Divisional Crimes Unit is conducting further investigations into the 
 [Data](articles/c18eead9.json)
 
 [Extended Data](ext_articles/c18eead9.ext.json)
-
----
-
-### "After the 3rd installment the economy will be stable"
-
-*2024-11-07 12:27:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3ஆம்-தவணையின்-பின்-பொருளாதாரம்-ஸ்திரமடையும்/175-346716) · `ta`
-
-Sri Lanka expects IMF EFF third installment in late January 2024. President Dissanayake says economy will stabilize after payment. IMF delegation visits next week, review process takes 3 months. Two elections caused delay. Government anticipates economic stability post-installment.
-
-🟩
-
-President Anura Kumara Dissanayake hopes that Sri Lanka will receive the third installment of the International Monetary Fund (EFF) of the International Monetary Fund (EFF) in the late January next year.
-
-He said in a television show that the International Monetary Fund's delegation is due to visit the country next week (14) and it will take about three months to complete the third value.
-
-The President said the third review was delayed due to two elections, and that if the third reconciliation had begun in September, it would have been completed by December.
-
-He added that the government is looking forward to some economic stability after the third installment.
-
-◼️
-
-[Data](articles/9b6ae8f1.json)
-
-[Extended Data](ext_articles/9b6ae8f1.ext.json)
-
----
-
-### Fewer Israelis visiting Sri Lanka amidst travel advisories
-
-*2024-11-07 12:27:00* · [`economynextcom`](https://economynext.com/fewer-israelis-visiting-sri-lanka-amidst-travel-advisories-186298/) · `en`
-
-ECONOMYNEXT – The number of Israeli tourists to Sri Lanka had declined, while tourist arrivals in general had risen in October, Minister Vijitha Herath said.
-
-“There was a drop in their [Israeli] arrivals. That is true,” cabinet spokesman Minister Vijitha Herath told reporters on Wednesday (06).
-
-“As of yesterday, there were 151 Israelis reported to be in the country,” Herath said.
-
-21,913 Israelis visited the country in the month of October.
-
-On October 23, the US Embassy in Sri Lanka asked nationals to avoid Arugam Bay, a popular tourist destination, in Sri Lanka’s Eastern Coast saying there was credible information of an attack.
-
-The area had seen an influx of Israeli visitors of late. In the past few months, Israelis have been seen residing in the predominately Muslim area, opening bars and other businesses.
-
-...
-
-[Data](articles/01620f07.json)
-
-[Extended Data](ext_articles/01620f07.ext.json)
-
----
-
-### Ten candidates have won and we must be a pressure team in Parliament -Mano Ganesan
-
-*2024-11-07 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198094) · `ta`
-
-Tamil Progressive Alliance leader Mano Ganesan urges voters to support ten candidates in seven districts for upcoming parliament elections, emphasizing representation and addressing national issues.
-
-🟩
-
-Our ten candidates who are contesting in seven districts have won and we must be a pressure team in the upcoming tenth parliament. Tamil Progressive Alliance leader Mano Ganesan has announced that our people should vote with this in mind.
-
-In a special voter clarity report issued by Tamuku President Mano Ganesan, he added,
-
-The Tamil Progressive Alliance has fielded ten candidates in seven districts of Badulla, Nuwarali, Kandy, Ratnapura, Kegalle, Colombo and Gampaha. These ten candidates must win. We must represent ourselves. The country is standing on a historic turning point today. In this historical environment we must represent our people in places of national importance. We should not miss the opportunity that history has given.
-
-...
-
-[Data](articles/3f762374.json)
-
-[Extended Data](ext_articles/3f762374.ext.json)
-
----
-
-### Prison officer arrested in Mannar court
-
-*2024-11-07 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198096) · `ta`
-
-Prison officer arrested Mannar court bribery charges remanded investigation ongoing
-
-🟩
-
-A Vavuniya Prison Officer has been arrested by the Mannar Magistrate on the 5th of last month on charges of bribing the Mannar court and produced before the Mannar Magistrate.
-
-Vavuniya Prison Officer Mannar Magistrate's Court has come to duty on the 5th.
-
-The prison officer forcibly obtained Rs 1,000 to visit a man who was detained by a woman who went to visit a man who had been placed in the Mannar court detention.
-
-The victim has lodged a complaint at the Mannar police station.
-
-In this case, the Mannar Police Station was arrested by the Magistrate's Court on the 5th of last month before the Magistrate's Court.
-
-The magistrate, who investigated the inquiry, ordered the prison officer to be remanded till Friday (08).
-
-◼️
-
-[Data](articles/a73a3e34.json)
-
-[Extended Data](ext_articles/a73a3e34.ext.json)
-
----
-
-### Ranil told the President
-
-*2024-11-07 12:13:17* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-ජනපති-අනුරට-කී-දේ/11-412907) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former President Ranil Wickremesinghe urges voters to support the New Democratic Front to save Parliament and protect democracy. He criticizes opponents' lack of experience and ability to address the country's economic crisis.
-
-🟩
-
-The former president should be sent to Parliament to save Parliament in order to save parliament today, as well as the national folk force is to save Parliament.Ranil Wickremesinghe said.
-
-Former President Ranil Wickremesinghe addressed the new Democracy Front at the Siyambalawewa Tamaring Hall on Monday night at the Siyambalawewawatta Tamaring Hall on Monday morning.
-
-The UNP's deputy leader Ruwan Wijewardene, Deputy Leader of the Biyagama electorate, the Biyagama district candidate, Gampaha District candidates in Gampaha, was organized by the Hon.
-
-Former President Ranil Wickremesinghe said, "Former President Ranil Wickremesinghe said.
-
-...
-
-[Data](articles/1b0b143d.json)
-
-[Extended Data](ext_articles/1b0b143d.ext.json)
-
----
-
-### One arrested with foreign liquor bottles and cigarettes
-
-*2024-11-07 12:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198091) · `ta`
-
-Arrest made in Komumbu: Suspect caught with 210 foreign liquor bottles and 250 cigarettes. Police action based on tip-off.
-
-🟩
-
-A suspect has been arrested on Wednesday (06) with foreign liquor bottles and cigarettes in Komumbu, Komumbu, Komumbu, Komumbu, Komumbu, police said.
-
-The suspect has been arrested in a roundup on the basis of information received by the police.
-
-Police have seized 210 liquor bottles and 250 cigarettes, which were illegally brought from the suspect.
-
-◼️
-
-[Data](articles/b4bb9afd.json)
-
-[Extended Data](ext_articles/b4bb9afd.ext.json)
-
----
-
-### Nalinda crowns Kalutara
-
-*2024-11-07 12:09:32* · [`adalk`](https://www.ada.lk/breaking_news/නලින්ද-කළුතරට-ඔට්ටු-අල්ලයි/11-412906) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dr. Nalinda Jayatissa, representing national popularity, faces criticism from Kalutara district members over parliamentary representation. He claims his party will win 8 out of 11 seats in the district, challenging opponents to a debate.
-
-🟩
-
-Dr. Nalinda Jayatissa, who represent the national popularity, has a suicide by the Kalutara Members of Kalutara District, Karmick:
-
-If I have challenged, three members of the previous Parliament have not sent parliamentarians in the Kalutara District. Medaminal people, who have been sessed by members of all MPs to the houses.
-
-If in the Kalutara district, we will take eight members of the eleven seats. I say, if someone says, let's get a bet with us. We're ready.
-
-◼️
-
-[Data](articles/53f0df16.json)
-
-[Extended Data](ext_articles/53f0df16.ext.json)
-
----
-
-### General Election sees low campaign turnout, declined political engagement - PAFFREL
-
-*2024-11-07 12:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103231/general-election-sees-low-campaign-turnout-declined-political-engagement-paffrel) · `en`
-
-The Executive Director of the People’s Action for Free and Fair Elections (PAFFREL) Rohana Hettiarachchi says that despite 8,888 candidates vying for positions in this year’s General Election, fewer than 1,000 are actively campaigning, reflecting a notable decline in political engagement.
-
-Hettiarachchi attributed this trend to a shifting public perception regarding the benefits of political involvement and a growing disillusionment with traditional party structures.
-
-Furthermore, he mentioned that although nearly 600,000 regional party offices could technically be established to accommodate the voter base, only 9,291 regional party offices are currently operational, aligning with the low campaign turnout.
-
-The PAFFREL Executive Director also stated that reports highlight the instances of public resource misuse and public property violations, while present, have not reached critical levels.
-
-...
-
-[Data](articles/6fa59e47.json)
-
-[Extended Data](ext_articles/6fa59e47.ext.json)
-
----
-
-### There are a number of new faces to the Parliament this time
-
-*2024-11-07 12:04:33* · [`adalk`](https://www.ada.lk/breaking_news/මෙවර-පාර්ලිමේන්තුවට-අලුත්-මුහුණු-ගණනාවක්-එනවා/11-412905) · `si`
-
-New faces in Parliament; former Election Commissioner Mahinda Deshapriya reports low complaints about 2024 general election; mentions assassinations in previous elections; notes fewer experienced politicians running this year.
-
-🟩
-
-Former Commissioner General Mahinda Deshapriya says that there is a lack of complaints from the 2024 general election.
-
-Former Elections Commissioner Mahinda Deshapriya said that the complaints received by the electorates in the 2024 general election.
-
-Mr. Mahinda Deshapriya told him a special media briefing in Hatton on the 7th.
-
-Speaking further Mahinda Deshapriya said that he was reportedly reported that the first assassinations were reported in the first election, but in the general election, such actions were happy.
-
-The number of old politicians will not contest for this year's parliamentary election and a number of new faces will join this year.
-
-◼️
-
-[Data](articles/9ddfab1f.json)
-
-[Extended Data](ext_articles/9ddfab1f.ext.json)
-
----
-
-### A warning that a stick war will begin
-
-*2024-11-07 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203002) · `si`
-
-Warning: Stick war imminent. Israeli Defense Minister removed amid confidence crisis. New defense minister appointed, sparking protests. Military operations ongoing in Gaza and Lebanon, causing civilian casualties.
-
-🟩
-
-The Cabinet Minister of Israel, who challenged Israeli Prime Minister Benjamin Netanuu, has challenged the strategy of Israeli Prime Minister Benjaminu.
-
-Israeli Defense Minister Jova Galunt was removed from his position and said that he was removed due to a confidence crisis.
-
-A person who intended to reach a particularly agreement with the Hamas, who was involved in the residence of Prime Minister Galunt Minister's galleins.
-
-But he did not hesitate to use full war power in Israel.
-
-Some have questioned a period of the removed from the post of Defense Secretary.
-
-It is a special event when the Israeli attack is a risk of the Israeli attack on Iran on the day of the US United States of America's presidential election.
-
-Prime Minister Nethonya alleges that the statements of the government and cabinet have been contrary to the decisions of the government and cabinet.
-
-...
-
-[Data](articles/7c28e8de.json)
-
-[Extended Data](ext_articles/7c28e8de.ext.json)
-
----
-
-### Sunday operational operational operation arrested
-
-*2024-11-07 11:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203001) · `si`
-
-Arrests made during Sunday operation in coastal areas. Two women detained. Narcotics seized: 12,900mg ice, 500g marijuana, 10g hashish. 40 homes searched. Operation lasted 2 hours, involving 50 police officers. Suspects to appear in court.
-
-🟩
-
-Two women, including two women, were arrested in a missionary operation conducted in three areas in the coastal area.
-
-The operation was covered with Jampatta, St. Anthony's Road and Ratnam Road 44 estate.
-
-The operation has taken 12,900 milligrams of ice narcotics and 500 grams of marijuana and 10 grams of marijuana.
-
-Nearly 40 houses identified in these areas and the suspicions of the road were severely inspected and drugs were recovered.
-
-The 'Amai' bitch was used for nearly 2 hours, and nearly 50 police officers including the STF officers and STF officers were present at the operation.
-
-The suspects are to be produced before courts.
-
-◼️
-
-[Data](articles/5463470f.json)
-
-[Extended Data](ext_articles/5463470f.ext.json)
 
 ---

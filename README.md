@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 02:40:33**
+As of **2024-11-09 03:09:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,805 (100.0%) of 53,806 articles have been extended.
+53,806 (100.0%) of 53,806 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -326,21 +326,31 @@ We are deeply concerned about the recent remarks made by Minister Vijitha Herath
 
 ---
 
-### 3,249 ஓட்டுநர் உரிமங்கள் தற்காலிகமாக ரத்து - மோட்டார் போக்குவரத்து திணைக்களம்
+### 3,249 driving licenses temporarily canceled - Motor Transport Department
 
 *2024-11-08 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198233) · `ta`
 
-இந்த வருடத்தில் நீதிமன்றங்களால் 3,249 ஓட்டுநர் உரிமங்கள் தற்காலிகமாக ரத்து செய்யப்பட்டுள்ளதாக மோட்டார் போக்குவரத்து திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of the text in 200 characters:
 
-மோட்டார் போக்குவரத்து திணைக்கள பணிப்பாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க இதனை உறுதிப்படுத்தியுள்ளார்.
 
-சாரதிகள் மேற்கொண்ட பல்வேறு குற்றங்களுக்கு எதிராக நீதிமன்றங்களால் நடத்தப்பட்ட வழக்கு விசாரணைகளின் போது குறித்த சாரதி அனுமதிப்பத்திரங்கள் தற்காலிகமாக ரத்து செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
 
-அதிக சாலை விபத்துகளுக்கு முக்கிய காரணம் கவனக்குறைவாக வாகனம் ஓட்டுவதும், வாகனங்கள் சரியான தரத்தில் இல்லாததும் ஆகும். கொழும்பு பல்கலைக்கழகத்தின் சமூகவியல் துறையின் பேராசிரியர் மொஹமட் மஹிஷ் இதனை வெளிப்படுத்தியமை குறிப்பிடத்தக்கது.
+3,249 driver's licenses temporarily canceled due to court cases. Negligent driving and poor vehicle quality cited as main reasons for high road accidents.
+
+🟩
+
+The Motor Transport Department said that 3,249 driver's licenses have been temporarily canceled by the courts this year.
+
+Motor Transport Director General Nishantha Anurutha Weerasinghe has confirmed this.
+
+It is reported that the driver's licenses have been temporarily canceled during the trial of the courts against the various crimes committed by the drivers.
+
+The main reason for high road accidents is the negligence driving and the lack of proper quality of vehicles. Mohamed Mahish, Professor of the Department of Sociology of the University of Colombo, revealed this.
 
 ◼️
 
 [Data](articles/ce111fc7.json)
+
+[Extended Data](ext_articles/ce111fc7.ext.json)
 
 ---
 

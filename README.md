@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 12:40:16**
+As of **2024-11-08 12:58:26**
 
 ## Newspaper Stats
 
-*Scraped **53,701** Articles*
+*Scraped **53,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adalk | 5,021
 adaderanalk | 6,399
 tamilmirrorlk | 7,480
 virakesarilk | 8,689
-adaderanasinhalalk | 9,357
+adaderanasinhalalk | 9,358
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,700 (100.0%) of 53,701 articles have been extended.
+53,702 (100.0%) of 53,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Trump begins work - Greeting up
+
+*2024-11-08 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203034) · `si`
+
+Here's a 200-character summary:
+
+
+
+Donald Trump becomes US president, first head of White House. Key role: sets daily schedule, connects with government agencies. Putin congratulates Trump on his victory.
+
+🟩
+
+Donald Trump, who was appointed president of the US, has been appointed as the Head of White House for the first time in political history of political history.
+
+The Susan Weils was a major consultant in his election campaign.
+
+The Head of the White House is the main position of US president's staff.
+
+The president is a positive impact on the president and with a decisive authority regarding his everyday duties.
+
+It is a major responsibility of the post to set up the president's daily schedule and connect with other government departments and lawmakers.
+
+Meanwhile, Russian President Vladmini Poutin greeted in Donald Trump's victory, foreign media reports say.
+
+Putin had been ready to discuss with Trump.
+
+2024 The US presidential election will commence duties as 47th January 20, 2025 as 47th January 20, 2024.
+
+◼️
+
+[Data](articles/85254221.json)
+
+[Extended Data](ext_articles/85254221.ext.json)
+
+---
 
 ### Arrested school principal bribed
 
@@ -141,6 +177,14 @@ From the ninth grade to the eleventh grade, he was transferred to four schools a
 *2024-11-08 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103254/female-school-principal-in-ragama-arrested-for-soliciting-bribe) · `en`
 
 The female principal of a school in the Ragama area has been arrested for allegedly soliciting a bribe of Rs. 150,000 in exchange for admitting a student to the Grade 01 class for 2025, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+The officers of the Bribery Commission had made the arrest last evening (07) following a complaint lodged by a woman in the Mattumagala area of Ragama.
+
+The female principal in question has demanded the bribe for the admission of the complainant’s child into Grade 01 for the academic year 2025.
+
+She was arrested while accepting the bribe at her office inside the school premises at around 4.00 p.m. yesterday.
+
+The arrested female school principal is expected to produced before the Colombo Magistrate’s Court.
 
 ◼️
 
@@ -436,19 +480,25 @@ The central bank announced Rs 85,000 million Treasury Bonds under the series of 
 
 ---
 
-### யாழில் ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர் கைது !
+### Suspect arrested for heroin drugs in Jaffna
 
 *2024-11-08 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198155) · `ta`
 
-கொட்டடி பகுதியை சேர்ந்த 22 வயதான இளைஞனே நேற்று வியாழக்கிழமை (07) கைது செய்யப்பட்டுள்ளார் .
+Heroin suspect arrested in Jaffna: 22-year-old from Kotadi seized 120mg drugs, detained at police station.
 
-யாழ் . மாவட்ட குற்றத்தடுப்பு பொலிஸ் பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில், கொட்டடி பகுதியை சேர்ந்த இளைஞனை கைதுசெய்து சோதனையிட்ட போது அவரது உடைமையில் இருந்து 120 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மீட்கப்பட்டுள்ளது.
+🟩
 
-அதனை அடுத்து இளைஞனை கைது செய்த பொலிஸார், பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+A 22 -year -old youth from Kotadi was arrested yesterday (07).
+
+Yall. Based on the confidential information available to the District Crime Police Division, a youth from Kottadi area was arrested and searched by 120 milligrams of heroin.
+
+Following this, police arrested the youth and detained the police station.
 
 ◼️
 
 [Data](articles/c8128b1d.json)
+
+[Extended Data](ext_articles/c8128b1d.ext.json)
 
 ---
 
@@ -2269,31 +2319,5 @@ Determination of the price of the Ceylon Petroleum Corporation is not based on t
 [Data](articles/3f5b6d21.json)
 
 [Extended Data](ext_articles/3f5b6d21.ext.json)
-
----
-
-### A complaint from medical safin
-
-*2024-11-07 17:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203012) · `si`
-
-Here's a 200-character summary:
-
-
-
-Dr. Mohamed Swafi filed a complaint against the Ministry of Defense, alleging wrongful arrest and detention. He claims he was unfairly targeted while others were released. The doctor demands an investigation into his case and the false accusations made against him.
-
-🟩
-
-Dr. Mohamed Swafi lodged a complaint with the Ministry of Defense today (07).
-
-It is demanding an inquiry into the arrest and arresting herself to arrest him and arresting the celebrations and arresting a false statement.
-
-"5 years and 6 months. Appointed as much as possible. Yesterday, I was not released yesterday. All those who appeared for justice. I have a job to do not don't happen to anyone else.  මට විරුද්ධව කටයුතු කළ සියලුදෙනා වෙනුවෙන් මම පැමිණිල්ලක් දැම්මා. I went to find complaints and arrested me. I pressured my children and wife. "
-
-◼️
-
-[Data](articles/290d325e.json)
-
-[Extended Data](ext_articles/290d325e.ext.json)
 
 ---

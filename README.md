@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 00:26:14**
+As of **2024-11-09 00:14:01**
 
 ## Newspaper Stats
 
-*Scraped **53,801** Articles*
+*Scraped **53,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 548
 colombotelegraphcom | 551
 islandlk | 3,209
 economynextcom | 3,267
-dailyftlk | 3,684
+dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,030
 adaderanalk | 6,410
@@ -26,187 +26,11 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,791 (100.0%) of 53,801 articles have been extended.
+53,790 (100.0%) of 53,790 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-11-09 (Saturday)
-
-### Three Sinha Group of Companies wins Silver at CNCI Awards 2024
-
-*2024-11-09 00:13:14* · [`dailyftlk`](https://www.ft.lk/business/Three-Sinha-Group-of-Companies-wins-Silver-at-CNCI-Awards-2024/34-769038) · `en`
-
-Three Sinha Group of Companies Managing Director Manjula Ariyakumara receiving the award
-
-The Three Sinha Group of Companies received the Silver Award in the Large Category for the Manufacturing Sector at the Ceylon National Chamber of Industries (CNCI) Achievers’ Awards 2024. The award ceremony took place on 15 October at the Cinnamon Grand, Colombo, with Managing Director Manjula Ariyakumara accepting the award on behalf of the company. Established as a small-scale venture, Three Sinha has now transformed into a leader in the construction industry. Through hard work and dedication, the company has earned recognition both locally and internationally, including gold and silver awards at the CNCI Achievers’ Awards and the gold award at the Sri Lankan Entrepreneur of the Year Awards.
-
-◼️
-
-[Data](articles/e960d95e.json)
-
----
-
-### 28 Lankan firms at Pakistan’s premier textile and leather exhibition: Texpo
-
-*2024-11-09 00:12:38* · [`dailyftlk`](https://www.ft.lk/business/28-Lankan-firms-at-Pakistan-s-premier-textile-and-leather-exhibition-Texpo/34-769037) · `en`
-
-The 2024 edition of Texpo, Pakistan’s premier textile and leather exhibition, has successfully concluded, attracting a significant presence from Sri Lanka and around the world.
-
-Texpo, Pakistan’s leading textile and leather exhibition, organised by the Trade Development Authority of Pakistan (TDAP) was held from 23 to 25 October in Karachi. The event aimed to promote Pakistan’s textile and leather industries, fostering business collaborations and trade opportunities.
-
-The 2024 edition of Texpo attracted an impressive participation of over 900 delegates from 55 nations worldwide, featuring a strong contingent of 28 prominent Sri Lankan companies like Brandix Apparel Ltd., Hirdaramani International Exports Ltd., Timex Garments Ltd., Hameedia Garments Ltd., Star Garments, Harley’s Group, BATA and DSI, along with many more that showcased their expertise in textiles and leather.
-
-...
-
-[Data](articles/8bd3123f.json)
-
----
-
-### Kudos for C Pearl White
-
-*2024-11-09 00:11:58* · [`dailyftlk`](https://www.ft.lk/business/Kudos-for-C-Pearl-White/34-769036) · `en`
-
-C Pearl White Founder and Managing Director Y. M. Chandi Gunarathna receiving the award
-
-Honoured as Most Trending Herbal Beauty Product at Entrepreneurial Excellence Awards
-
-...
-
-[Data](articles/f4784afa.json)
-
----
-
-### Agora’24: An exciting blend of Greek mythology and traditional Sri Lankan culture
-
-*2024-11-09 00:11:12* · [`dailyftlk`](https://www.ft.lk/business/Agora-24-An-exciting-blend-of-Greek-mythology-and-traditional-Sri-Lankan-culture/34-769035) · `en`
-
-Agora’24, the annual talent show organised by the first-year undergraduates of the University of Kelaniya’s Department of Finance (DFIN), will be happening for the third consecutive time on 9 November.
-
-Held at the prestigious Sri Dharmaloka Hall, Agora’24 will be an evening of captivating performances, including traditional dances, 90s singing, baila, and drama, showcasing the diverse talents of the DFIN freshmen. The event is a project by the first-year batch as part of a course module for their skills development. Each act has been meticulously shaped by the talented freshmen, who have put much effort into making their performances special.
-
-Agora’24 is a place where talent meets adventure, showcasing the creativity, teamwork, and talent of the freshmen of DFIN. This year’s theme, ‘Experience the Odyssey of Flavour’ is an exciting blend of Greek mythology and traditional Sri Lankan fantasy and culture.
-
-...
-
-[Data](articles/9ac167ec.json)
-
----
-
-### Financial App Mintpay launches gift vouchers
-
-*2024-11-09 00:11:06* · [`dailyftlk`](https://www.ft.lk/business/Financial-App-Mintpay-launches-gift-vouchers/34-769034) · `en`
-
-With the festive season approaching, “Buy Now, Pay Later” platform Mintpay, is introducing Mintpay gift vouchers as an exciting new way to gift.
-
-Stepping beyond traditional gifts, Mintpay vouchers provide the “Gift of Choice”, allowing Sri Lankans the freedom to shop for what they truly want from wherever they want.
-
-In a world where personalisation and flexibility are key, Mintpay offers a seamless way to gift without the guesswork. Recipients can use their Mintpay Vouchers at over 2000 partner stores, ensuring that they find exactly what suits their preferences – whether it’s fashion, electronics, beauty, or even dining and traveling.
-
-...
-
-[Data](articles/825ff414.json)
-
----
-
-### Pelwatte Dairy revolutionises Sri Lanka’s dairy industry by achieving global certification for food safety management
-
-*2024-11-09 00:10:58* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-revolutionises-Sri-Lanka-s-dairy-industry-by-achieving-global-certification-for-food-safety-management/34-769033) · `en`
-
-Pelwatte Dairy Industries Ltd., a trailblazer in Sri Lanka’s dairy sector, has enhanced its production quality standards even further with the acquisition of the state-of-the-art FOSS FT3 machine and its recent achievement of the prestigious FSSC 22000 V6.0 Certification. These new milestones reflect Pelwatte’s unwavering commitment to delivering high-quality dairy products and setting new benchmarks in the industry.
-
-Pelwatte Dairy has made a significant leap forward in Sri Lanka’s dairy sector with the implementation of the cutting-edge FOSS FT3 machine, making it the first of its kind in Sri Lanka. This state-of-the-art tool is designed for unparalleled precision in dairy testing, capable of analysing multiple parameters simultaneously, including fat, protein, lactose, and up to 30 adulteration parameters. By ensuring that every batch of dairy products meets stringent international standards, the machine enhances the overall taste and nutritional value of Pelwatte’s offerings.
-
-...
-
-[Data](articles/28c5cfa6.json)
-
----
-
-### Rienzie Wijetilleke: Sons’ tribute
-
-*2024-11-09 00:03:27* · [`dailyftlk`](https://www.ft.lk/opinion/Rienzie-Wijetilleke-Sons-tribute/14-769025) · `en`
-
-On Sunday, 10 November, our dear father Rienzie Wijetilleke reaches a milestone birthday, 85 years young!
-
-We write in tribute to his service to Sri Lanka’s financial sector, its economy and communities across the country and to thank him for his commitment and devotion to his family.
-
-...
-
-[Data](articles/0a46e251.json)
-
-[Extended Data](ext_articles/0a46e251.ext.json)
-
----
-
 ### 2024-11-08 (Friday)
-
-### Does it matter to the world who the next President of the USA is?
-
-*2024-11-08 23:48:28* · [`dailyftlk`](https://www.ft.lk/columns/Does-it-matter-to-the-world-who-the-next-President-of-the-USA-is/4-769020) · `en`
-
-While it is unlikely that any well-meaning President would have exercised such powers indiscriminately and without good reason, the overall global situation today of a world near chaos, and the instances of US involvement in numerous countries and in conflicts and their failure to exercise their powers to prevent conflict or at least to minimise them and take the leadership in finding solutions through discussion and negotiation, have left open the question on the effectiveness of the US President when it comes to world affairs
-
-Paradox of Power: Militarily it is a unipolar world of U.S. hegemony; economically it is a multipolar world with U.S. leadership; but on many transnational issues – such as international terrorism, the proliferation of weapons of mass destruction, the migration of people, epidemic disease, drugs, and environmental degradation – we live in a world only a step or two short of chaos (https://www.wilsoncenter.org/article/american-power-the-world)
-
-...
-
-[Data](articles/6d1a4b4d.json)
-
----
-
-### “No criss-crossing between political parties for MPs under AKD’s Govt.” – Sunil Watagala
-
-*2024-11-08 23:44:18* · [`dailyftlk`](https://www.ft.lk/columns/No-criss-crossing-between-political-parties-for-MPs-under-AKD-s-Govt-Sunil-Watagala/4-769019) · `en`
-
-Putting a halt to crossovers is one of the key promises that the NPP made to people during our election campaigns. Now we are ready to fulfil these pledges through the right process. All our promises to the people have been spelt out in the NPP’s manifesto. When the law is implemented, the Parliamentarians can cross over to any political party that they wish but they will lose their seats at the Parliament. This will be a common law for all political parties
-
-Reiterates that MPs who crossed over will lose their seats under new laws
-
-Confirms NPP has fielded fresh set of politicians who have no corruption charges
-
-Says salaries of NPP parliamentarians will be credited to a public bank
-
-Requests people to vote more for NPP to get majority power in the Parliament
-
-...
-
-[Data](articles/5a158eef.json)
-
----
-
-### A new hope to sweep a House clean?
-
-*2024-11-08 23:39:57* · [`dailyftlk`](https://www.ft.lk/columns/A-new-hope-to-sweep-a-House-clean/4-769018) · `en`
-
-The citizenry vote for political leaders in the hope that ‘this time’ there will be change for the better; and the electorate is disappointed time and again
-
-Ah – yes, the old lie: that the hope of a nation resides in the chamber where chairs are thrown at critics and chillies are employed to evict policemen keen on restoring law and order.
-
-And a major reason for the electorate in general and political pundits in particular being so cynical about the assembly we unmindfully describe as being august is in both the character and performance of the legislators we elected – lest we forget, let us remember and chide ourselves!
-
-As a senior journalist observed in these columns not many moons ago: “Sri Lanka has chronically elected crooks, charlatans, the incompetent, the corrupt, and the utterly unrepentant of their litany of crimes.”
-
-...
-
-[Data](articles/559de7aa.json)
-
----
-
-### Muslim Personal Law Reform Action Group has its say over new Govt.’s stance on MMDA
-
-*2024-11-08 23:38:17* · [`dailyftlk`](https://www.ft.lk/opinion/Muslim-Personal-Law-Reform-Action-Group-has-its-say-over-new-Govt-s-stance-on-MMDA/14-769017) · `en`
-
-Says Minister Vijitha Herath’s comments that MMDA reforms are not on agenda fails to recognise longstanding demands for change
-
-Muslim Personal Law Reform Action Group yesterday in a statement said that Minister Vijitha Herath’s comments that Muslim Marriage and Divorce Act (MMDA) reforms are not on the agenda fails to recognise longstanding demands for change.
-
-We are deeply concerned about the recent remarks made by Minister Vijitha Herath that no need has arisen to change the Muslim Marriage and Divorce Act (MMDA) at this juncture. The comments fail to recognise the long journey towards MMDA reforms in Sri Lanka. For decades, Muslim women and groups have raised concerns about the serious discrimination and harm experienced by Muslim women, girls and families as a consequence of this law. The comments dismiss the grave impacts that Muslim women and girls continue to face on a daily basis due to discrimination under the current MMDA and Quazi system.
-
-...
-
-[Data](articles/87d4d386.json)
-
----
 
 ### The number of dollars up to the country heroes
 
@@ -2403,5 +2227,277 @@ In this context, 8 wickets received. West Indies was able to win the three-match
 [Data](articles/89681ece.json)
 
 [Extended Data](ext_articles/89681ece.ext.json)
+
+---
+
+### Rajeev Khan uses the ban on the lives of every individual for racist politics for repression for masturbation
+
+*2024-11-08 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198171) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rajeev Khan accuses terrorism laws of racial oppression. Dr. Shafi's daughter faces challenges due to false accusations. Activist calls for complete repeal of terror ban, citing its impact on individuals' lives and personal freedoms.
+
+🟩
+
+Rajkumar Rajiv Khan, a member and social activist of the People's Movement, says that the terrorism law is part of an attempt to distort their lives for repression for racist politics for their masturbation politics for their selfish politics.
+
+Dr. Shafi's daughter Kabo has received 9 siddhas in normal. Many people appreciate him today.
+
+But what happened to him?His father was charged with false accusations and destroying the race that he was making a forced contraception, spreading fake allegations, and the family was unable to bring his life.
+
+Later, the doctor was arrested under the PTA and the student came to Colombo to study from Kurunegala.
+
+He went to Kalmunai to think that he would have a problem again in Colombo. He went from Kalmunai to Kandy.
+
+From the ninth grade to the eleventh grade, he was transferred to four schools and later received 9A standards by his mental illness.
+
+...
+
+[Data](articles/cfcffca3.json)
+
+[Extended Data](ext_articles/cfcffca3.ext.json)
+
+---
+
+### Female school principal in Ragama arrested for soliciting bribe
+
+*2024-11-08 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103254/female-school-principal-in-ragama-arrested-for-soliciting-bribe) · `en`
+
+The female principal of a school in the Ragama area has been arrested for allegedly soliciting a bribe of Rs. 150,000 in exchange for admitting a student to the Grade 01 class for 2025, the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) said.
+
+The officers of the Bribery Commission had made the arrest last evening (07) following a complaint lodged by a woman in the Mattumagala area of Ragama.
+
+The female principal in question has demanded the bribe for the admission of the complainant’s child into Grade 01 for the academic year 2025.
+
+She was arrested while accepting the bribe at her office inside the school premises at around 4.00 p.m. yesterday.
+
+The arrested female school principal is expected to produced before the Colombo Magistrate’s Court.
+
+◼️
+
+[Data](articles/586aec88.json)
+
+[Extended Data](ext_articles/586aec88.ext.json)
+
+---
+
+### Black people fear over Trump's success - Reuters
+
+*2024-11-08 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198164) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Trump's victory alarms black Americans. Many fear loss of civil rights due to Trump's policies. Some celebrate his win, while others express concern about racism and divisive rhetoric.
+
+🟩
+
+Donald Trump's victory in the US presidential election has come as a shock among the black people of the United States.
+
+Donald Trump has voted in favor of Kamala Haris as Donald Trump portrayed Kamala Haris as a black woman.
+
+In North Kolina, Trump got the votes of black people and some of the people of the community celebrated his victory.
+
+However, the number of votes of the black people nationally has not changed, and he received so many votes received in 2020.
+
+The votes of blacks were seen as important as Jobiton's victory in 2020. Kamala Haris was elected as the first Asian US vice president in that election.
+
+Most of the more than 25 black people who shared their views with Royer have expressed fear of Trump's second tenure.
+
+Blacks have expressed fears that Civil Rights may be lost as Trump has announced that it will abandon the Samastopanism and Understanding Plans.
+
+Black people have expressed fear of racism and sexual language used by Trump.
+
+...
+
+[Data](articles/ec64d01a.json)
+
+[Extended Data](ext_articles/ec64d01a.ext.json)
+
+---
+
+### Sri Lanka extends date to return small arms
+
+*2024-11-08 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-date-to-return-small-arms-186601/) · `en`
+
+ECONOMYNEXT – The Ministry of Defence said it has given a two-week extension for returning firearms and ammunition provided to civilians for personal protection.
+
+Last month, all licensees were informed to return their firearms and ammunition, issued for personal protection, to the Commercial Explosive Firearms and Ammunition Procurement Unit (CEFAP) at the Sri Lanka Navy camp in Welisara before November 7.
+
+“However, in response to requests from various parties, including licensees currently abroad and due to insufficient time to notify all licensees through formal letters, the Ministry of Defence has decided to extend the deadline for the return of firearms and ammunition from 07.11.2024 to 21.11.2024,” the ministry said in a statement.
+
+All licensees will be formally notified of this extension in writing. (Colombo/Nov8/2024)
+
+◼️
+
+[Data](articles/b27cdf6b.json)
+
+[Extended Data](ext_articles/b27cdf6b.ext.json)
+
+---
+
+### The 13th and 14th of the holidays for schools!
+
+*2024-11-08 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198162) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Schools granted holidays on 13th & 14th due to elections. Resumed on 18th. Educational activities end Nov 12. Schools used as polling stations closed temporarily. Election officials use school facilities.
+
+🟩
+
+The Ministry of Education has announced that it has decided to grant holidays to all schools on the 13th for the preliminary activities as the general election is held on the 14th.
+
+Accordingly, the holidays will be held on Wednesday 13th and Thursday 14th.
+
+Schools will be resumed on the 18th after the election is over. The Ministry has announced the decision to the Elections Commission, Provincial Education Secretaries, Provincial and Zonal Education Directors and the relevant parties.
+
+Accordingly, the schools will be handed over to the respective Grama Niladhari Officers once the educational activities are completed on November 12.
+
+Secretary of the Ministry of Education Mrs. JM Tilaka Jayasundara has requested all the Zonal Education Directors and Principals to provide school desks, rays and halls for election work.
+
+At the request of the Chairman of the Elections Commission, schools used as voting centers will be closed only for a period of time.
+
+◼️
+
+[Data](articles/f80df871.json)
+
+[Extended Data](ext_articles/f80df871.ext.json)
+
+---
+
+### Principal arrested at school
+
+*2024-11-08 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203032) · `si`
+
+Ragama primary school principal arrested for bribery over 1st-grade promotion. Suspect received payment at school office, detained until court appearance.
+
+🟩
+
+A principal of a primary school in Ragama has been arrested yesterday (7).
+
+The arrests were made by the Investigation Officers of the Investigation Commission on a complaint lodged by a woman in Maturagala area in Ragama.
+
+The relevant principal has requested the bribery in the first grade first grade in 2025.
+
+The amount yesterday at the office of the school's office. She was arrested in custody while receiving 4.00 pm.
+
+The suspect is to be produced before the Colombo Chief Magistrate's Court.
+
+◼️
+
+[Data](articles/37b679b4.json)
+
+[Extended Data](ext_articles/37b679b4.ext.json)
+
+---
+
+### Lorry accident: One killed;Moor injury
+
+*2024-11-08 11:30:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லொறி-விபத்து-ஒருவர்-பலி-அறுவர்-காயம்/76-346768) · `ta`
+
+Tipper lorry crash kills one, injures six in Kandapalai. Vehicle overturned into 30-foot ditch near Irakalai police division.
+
+🟩
+
+One person was killed and six people were injured in an accident this morning in Kandapalai - Kongodia area of ​​the Irakalai police division, Irakalai police said.
+
+A tipper lorry, which had been gathering and gathering from the main city of Kandapalai to the Congo, crashed into a 30 -foot ditch, and the police said.
+
+◼️
+
+[Data](articles/3191866a.json)
+
+[Extended Data](ext_articles/3191866a.ext.json)
+
+---
+
+### Motorcycle pillion rider killed by lightning strike
+
+*2024-11-08 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103253/motorcycle-pillion-rider-killed-by-lightning-strike) · `en`
+
+The pillion rider of two persons who were travelling on a motorcycle was struck by lightning in Eravur last evening (07).
+
+The pillion rider has died after being struck by lightning while the motorcycle rider was not injured from the incident, according to police.
+
+Accordingly, an investigation was launched by Eravur Police following information received that a person had been killed by a lightning strike last evening (7) in the Perumeli Kandan area in the Eravur police division.
+
+The deceased has been identified as a 57-year-old resident of Vantharumoolai area, police said.
+
+The incident had occurred when the two men were returning home on the motorcycle from a paddy field in the Uppodaya area.
+
+◼️
+
+[Data](articles/87ec5914.json)
+
+[Extended Data](ext_articles/87ec5914.ext.json)
+
+---
+
+### Arrested at the airport for allegedly defrauding large sums of money through a pyramid scheme
+
+*2024-11-08 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198150) · `ta`
+
+Person accused of defrauding 10 billion rupees via pyramid scheme arrested at Katunayake airport after fleeing country. Wife also detained. Suspect returned from Malaysia.
+
+🟩
+
+A person who defrauded large sums of money through the pyramid project was arrested today at the Katunayake airport.
+
+He had fled the country a year ago by defrauding 10 billion rupees from several people through the pyramid scheme.
+
+In this case, the suspect who visited the country from Malaysia today has been arrested at the Katunayake airport.
+
+Meanwhile, police media spokesman Deputy Inspector General of Police Nihal Dalduwa said that his wife was also arrested at the airport to welcome the suspect.
+
+◼️
+
+[Data](articles/7af863f5.json)
+
+[Extended Data](ext_articles/7af863f5.ext.json)
+
+---
+
+### Appreciation to the retired Air Force officer who handed over the missing object and money to the owner
+
+*2024-11-08 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198160) · `ta`
+
+Retired Air Force officer returns lost wallet with bank cards and over Rs 15 lakh. Honored by Air Force Commander Udheni Rajapaksa. Recognized as model citizen.
+
+🟩
+
+Air Force Commander Air Marshal Udheni Rajapaksa directly congratulated RU Seneviratne, a retired Air Force officer, RU Seneviratne, who was the paradigm of the landlord of the missing wallet with a bank cards and money worth more than Rs 15 lakh.
+
+The Air Force Commander, who recently assigned the Air Force Commander's retired officer, who was the paradigm of the bus owner from Colombo to Horana, was honored by the Air Force Headquarters and presented him to the Air Force headquarters.
+
+◼️
+
+[Data](articles/36a6763b.json)
+
+[Extended Data](ext_articles/36a6763b.ext.json)
+
+---
+
+### Sri Lanka sells extra Rs3bn Treasury bills after auction
+
+*2024-11-08 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs3bn-treasury-bills-after-auction-186599/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 3,096 million rupees of treasury bills offered on tap at average rates of 9.70% and 9.95%, the state debt office said.
+
+On Wednesday (6) the debt office raised 175 billion rupees of 3, 6 and 12 month bills.
+
+Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
+
+◼️
+
+[Data](articles/5a2228f9.json)
+
+[Extended Data](ext_articles/5a2228f9.ext.json)
 
 ---

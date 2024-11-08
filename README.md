@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 14:12:30**
+As of **2024-11-08 14:25:06**
 
 ## Newspaper Stats
 
-*Scraped **53,708** Articles*
+*Scraped **53,714** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,111 @@ islandlk | 3,209
 economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,023
+adalk | 5,024
 adaderanalk | 6,400
-tamilmirrorlk | 7,481
+tamilmirrorlk | 7,485
 virakesarilk | 8,689
-adaderanasinhalalk | 9,360
+adaderanasinhalalk | 9,361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,708 (100.0%) of 53,708 articles have been extended.
+53,711 (100.0%) of 53,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### வங்கக்கடலில் உருவாகிறது புதிய காற்றழுத்த தாழ்வு பகுதி
+
+*2024-11-08 14:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-உருவாகிறது-புதிய-காற்றழுத்த-தாழ்வு-பகுதி/175-346777) · `ta`
+
+வங்கக்கடலில், அடுத்த 48 மணி நேரத்தில் புதிய காற்றழுத்த தாழ்வு பகுதி உருவாகவுள்ளது.
+
+இந்த காற்றழுத்த தாழ்வு பகுதி தமிழகம்-இலங்கை கடற்கரை நோக்கி நகரக்கூடும் என எதிர்வுகூரப்பட்டுள்ளது.
+
+வங்காள விரிகுடாவில் ஏற்பட்டுள்ள சூறாவளி சுழற்சி குறைந்த காற்றழுத்த தாழ்வு பகுதியாக மாற வாய்ப்பு உள்ளமை குறிப்பிடத்தக்கது. AN
+
+◼️
+
+[Data](articles/c15bb018.json)
+
+---
+
+### ලොව ආකර්ෂණීයම දිවයින ලෙස ශ්‍රී ලංකාවට රන් සම්මානයක්
+
+*2024-11-08 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203038) · `si`
+
+ශ්‍රී ලංකාව ලොව වඩාත් ආකර්ෂණීයම දිවයින ලෙස සුප්‍රකට "Wanderlust" සංචාරක සඟරාව මගින් පාඨක ඡන්දයෙන් තෝරාගෙන තිබේ.
+
+කීර්තිමත් වොන්ඩලස්ට් පාඨක සංචාරක සම්මාන ප්‍රදානය ලන්ඩන් නුවරදී පසුගියදා පැවැත්වුණි.
+
+සංචාරකයන් අතර ආකර්ෂණීය මෙන්ම විවිධ අත්දැකීම් ලැබීමේ හැකියාව පදනම් කරගනිමින් ශ්‍රී ලංකාවට පාඨක ඡන්ද 200,000ක් පමණ හිමිවී තිබේ.
+
+වොන්ඩලස්ට් සංචාරක සඟරාව පසුගිය වසරේ ශ්‍රී ලංකාව නම් කර තිබුණේ ලොව වඩාත් ආකර්ෂණීය දිවයින් අතර 08 වන ස්ථානයටය.
+
+ශ්‍රී ලංකාව පිළිබඳ කෙටි සටහනක් ඉදිරිපත් කරමින් වොන්ඩලස්ට් සඟරාව සඳහන් කළේ, ඉන්දීය සාගරයේ මුතු ඇටය නමින්ද හඳුන්වන ශ්‍රී ලංකාවේ ඓතිහාසික ස්මාරක අතර සීගිරිය, දඹුල්ලේ ලෙන් විහාරය මෙන්ම අනුරාධපුර සහ පොළොන්නරුවේ නටබුන් කැපී පෙනෙන බවය.
+
+◼️
+
+[Data](articles/f9733e4a.json)
+
+---
+
+### வழக்கு அறையில் இருந்த வெடிபொருட்கள் மாயம்
+
+*2024-11-08 14:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வழக்கு-அறையில்-இருந்த-வெடிபொருட்கள்-மாயம்/74-346776) · `ta`
+
+இது தொடர்பில்  விசாரணைகளை ஆரம்பித்துள்ள அம்பாறை பொலிஸார், இது தொடர்பில் நீதிமன்றில் முறைப்பாடு செய்யப்பட்டுள்ளதாகவும்  குறிப்பிட்டுள்ளனர்.
+
+1998ஆம் ஆண்டு பொலிஸாரால் கைப்பற்றப்பட்டு நீதிமன்றத்தில் ஒப்படைக்கப்பட்ட தோட்டாக்களே, இவ்வாறு காணாமல் போயுள்ளதாகவும், பொலிஸார் தெரிவிக்கின்றனர். AN
+
+◼️
+
+[Data](articles/9189cfe7.json)
+
+---
+
+### Will not be provided for 2 days
+
+*2024-11-08 13:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/2-நாட்களுக்கு-வழங்கப்படாது/95-346775) · `ta`
+
+Western Province vehicle income permits suspended due to election. Last chance to obtain permit before election: Nov 13-14. Permits resume after election.
+
+🟩
+
+Due to the general election, the Western Province will not be issued a vehicle income permit on the 13th and 14th of this month, the Western Province Chief Secretariat said.
+
+The Secretariat further notes that the last date for the vehicle revenue license without paying any vehicle is November 13 and 14.
+
+The Secretariat has announced that on the first day of the election of the election, the obligations will be obtained and the vehicle income permit can be obtained.
+
+◼️
+
+[Data](articles/0327c35b.json)
+
+[Extended Data](ext_articles/0327c35b.ext.json)
+
+---
+
+### World's exciting island - Sri Lanka
+
+*2024-11-08 13:24:06* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-ආකර්ෂණීයතම-සංචාරක-දූපත----ශ්‍රී-ලංකාවට-හිමිතැන/11-412927) · `si`
+
+Sri Lanka wins top award in Wanderlust Reader Travel Awards, moving from 8th to 1st place in tourism rankings. The country's exciting islands attract global attention.
+
+🟩
+
+Sri Lanka has won the Gold Award for the Sri Lanka Wanderlus't Reader Travel Awards, organized by the world's attractive tourism island, Wanderlus't Reader Travel Awards Awards. Sri Lanka was 8th in the 8th last year, and the first place to be held this year's tourism industry.
+
+◼️
+
+[Data](articles/e513142b.json)
+
+[Extended Data](ext_articles/e513142b.ext.json)
+
+---
 
 ### The General Election leave for all schools in the island
 
@@ -1039,6 +1129,30 @@ He was later arrested in the Bandaranaike International Airport, who was in the 
 [Data](articles/1277cadb.json)
 
 [Extended Data](ext_articles/1277cadb.ext.json)
+
+---
+
+### 1000 crores of rupees: two arrested
+
+*2024-11-08 08:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/1000-கோடி-ரூபாய்-மோசடி-இருவர்-கைது/150-346758) · `ta`
+
+Two arrests made over 1,000 crore rupee fraud case. Company owner and his wife detained at Katunayake airport. CID investigation reveals 11 bank accounts linked to Pyramid Financial Institute, deceiving 2,500 depositors.
+
+🟩
+
+According to the Criminal Investigation Department (CID), the owner of the company, who fled the country, who fled the country, has been arrested at the Katunayake airport on Wednesday (08) at the Katunayake airport.
+
+The 52 -year -old from Kurunegala has been arrested when he fled the Colombo Chief Magistrate's Court and was arrested when he arrived at the Katunayake airport from Kuala Lumpur, Malaysia at around 12.00 am.
+
+Based on the information he received, the Criminal Investigation Department officials arrested him before going to the window of the Katunayake Airport Immigration Department.
+
+The 42 -year -old wife of the financial institution who was waiting at the Katunayake airport arrival in the Katunayake airport has been arrested by the Criminal Investigation Department officials.
+
+...
+
+[Data](articles/81ab59ad.json)
+
+[Extended Data](ext_articles/81ab59ad.ext.json)
 
 ---
 
@@ -2165,153 +2279,5 @@ A delegation from the International Monetary Fund is due to arrive on the 14th. 
 [Data](articles/7a3d4705.json)
 
 [Extended Data](ext_articles/7a3d4705.ext.json)
-
----
-
-### If the hunter to save the East, the people of the northern people must vote for the bicycle. Sures
-
-*2024-11-07 19:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198140) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil politician Dharmalingam Suarez urges Northern Tamils to support "bicycle" symbol party to save East Sri Lanka. He criticizes rival parties for distracting voters with liquor and money.
-
-🟩
-
-Dharmalingam Suarez has called for the Tamil people in the Batticaloa district to save the East if the Tamil people in the North have to vote for bicycle if we want to save the Eastern Province for the past 15 years.
-
-He made this statement while addressing the inauguration of the party office for the election campaign at the Kokkatticholai junction in Batticaloa on Wednesday evening.
-
-From the very beginning, this election is a final opportunity for the Tamil people to be bargained for the Tamil people?Or are we going to live with the Sinhala Tamil Muslim people?There is an election that raises a question.
-
-As for the Tamils, Tamils ​​are a long historical historical historical and a race that has gained a uniqueness of their own uniqueness.. So people need to deal with this election with great interest and compassion.
-
-...
-
-[Data](articles/a6f61d97.json)
-
-[Extended Data](ext_articles/a6f61d97.ext.json)
-
----
-
-### Doctor's complaint on all those who have acted against
-
-*2024-11-07 19:26:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிராக-செயல்பட்ட-அனைவர்-மீதும்-வைத்தியர்-முறைப்பாடு/175-346733) · `ta`
-
-Dr. Mohamed Shafi filed a complaint with the Ministry of Public Security, alleging harassment and false reports. He claims his arrest was part of a conspiracy to create conflict. The doctor accuses those who acted against him of pressuring his family and only pursuing complaints after his detention.
-
-🟩
-
-Dr. Mohamed Shafi has lodged a complaint with the Ministry of Public Security today (07) demanding that a systematic investigation into the harassment of the fake reports and the arrest of himself as a planned conspiracy to create a clash.
-
-“5 years 6 months. Hurts himself as much as possible. Yesterday's release was not, all those who stood for justice were. This mistake has some of the obligations I have to do to keep anyone else from happening. I have lodged a complaint on behalf of all those who acted against me. They went looking for complaints only after the arrest of me. They gave me serious pressure on my wife and children. ”. Remble
-
-◼️
-
-[Data](articles/523367c0.json)
-
-[Extended Data](ext_articles/523367c0.ext.json)
-
----
-
-### Speech out in court about the number plate of the automobile used by Ratwatte
-
-*2024-11-07 19:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203014) · `si`
-
-Court hearing summary: Former State Minister Lohan Ratwatte and wife accused of misuse of vehicle. Vehicle details disputed, police claim it belongs to first wife. Suspects denied bail, remanded until 18th. Government analyst to verify vehicle details.
-
-🟩
-
-Former State Minister Lohan Ratwatte revealed that the number plate of the first wife of his first wife and the Chassis, the court in a number of occasions.
-
-Deputy Inspector General of Police Legist Law to the police, DIG Attorney Ruwan Gunasekara said that.
-
-Former State Minister Lohan Ratwatte and his wife was produced before the Nugegoda Magistrate today (07).
-
-Nugegoda Magistrate also ordered them to be remanded again from the 18th.
-
-DIG Laboo, Attorney in charge of the police lecturer, said Ruwan Gunasekara was the false that the private secretary of the person who committed suicide had brought the vehicle was false.
-
-The police informed the court that the vehicle was located in Mirihana belonging to the suspect's second wife, Shabha Sehi Ratwatte.
-
-The police said in court that the suspect had gone to the Human Rights Commission on the vehicles of the Suspect on the Suspect on the respective vehicle.
-
-...
-
-[Data](articles/75148e4f.json)
-
-[Extended Data](ext_articles/75148e4f.ext.json)
-
----
-
-### Two injured in shooting at Wennappuwa
-
-*2024-11-07 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103244/two-injured-in-shooting-at-wennappuwa) · `en`
-
-A shooting incident has been reported in the Kimbulgana area in Wennappuwa this evening (07).
-
-Two persons including a female have sustained minor injuries in the shooting incident while they have been admitted to the Marawila Hospital.
-
-The shooting has been carried out by one individual while the motive behind the shooting is yet to be ascertained.
-
-◼️
-
-[Data](articles/24c4bf25.json)
-
-[Extended Data](ext_articles/24c4bf25.ext.json)
-
----
-
-### I have no evidence as a politician
-
-*2024-11-07 19:19:00* · [`adalk`](https://www.ada.lk/breaking_news/මම-දේශපාලනඥයෙක්-හැටියට-සද්ද-බද්ද-නෑ/11-412919) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan politician Ruwan Vijayarawa criticizes current politics, saying most focus on attention rather than genuine work. He emphasizes his commitment to serving the country honestly, despite challenges in changing political culture.
-
-🟩
-
-Most politicians today are acting in such a politics, "said Ruwan Vijayarawa, the deputy leader of the UNP, the deputy leader of the UNP.
-
-He said that the students today refuse such politics. Mr. Ruwan Vijaya was expressed.
-
-"I have no evidence as a politician. Working as needed. The majority of the politics of today take the attention of the people as much as possible. But my character is this. Some change is in this country. Political culture is also different from. Today, the youths are muddy and the sound of the Sadays of Sadays, the Politics of Sudden taxes, shows.
-
-Especially why young people are trying to serve the country is a feeling that this country needs. I think my character is hard to change. The lie is putting out and not shout. I think the people who appreciate my service will a good decision.
-
-...
-
-[Data](articles/ddfcadcf.json)
-
-[Extended Data](ext_articles/ddfcadcf.ext.json)
-
----
-
-### The Thriposhas was abolished
-
-*2024-11-07 19:13:29* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිපෝෂ-සමාගම-අහෝසි-කරලා/11-412918) · `si`
-
-Thriposha Company abolished due to excess production. Anura Kumara Dissanayake appointed as President. Maha Kumara Dissanayake takes presidential election. Gazette notification issued, company not transferred to any ministry. Thriposha crucial for national nutrition. Production exceeds demand, government intervention causes market surplus. Company generates significant revenue for treasury. Abolition planned despite importance in meeting nutritional needs.
-
-🟩
-
-Anura Kumara Dissanayake has acted with the appointment of the President of Sri Lanka and the Maha Kumara Dissanayake has taken the president's election and the cause of the Triposha Company.
-
-He was speaking at a media briefing in a media briefing today (07).
-
-"As Anura Dissanayake was appointed President, issue of the gazette notification No. 2403/53 of September 27, 2024. According to the gazette notification, the government has decided to determine the decision of the Sri Lanka Thriposha Company Limited Limited. As a result, the Thriposha Company has not handed over to any Ministry.
-
-We know Thriposha recommends less than 5 years, under 5 years of age, the mothers of the official and milking mothers. Thriposhaship is essential for the nutrition of the people of the country. 1987 this company started a private tobacco products company with a private tobacco firm, 2011, the Government Ministry of Health was the necessary public service.
-
-...
-
-[Data](articles/68729c56.json)
-
-[Extended Data](ext_articles/68729c56.ext.json)
 
 ---

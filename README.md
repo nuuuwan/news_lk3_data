@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 13:09:34**
+As of **2024-11-08 13:24:42**
 
 ## Newspaper Stats
 
-*Scraped **53,703** Articles*
+*Scraped **53,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,021
-adaderanalk | 6,399
+adaderanalk | 6,400
 tamilmirrorlk | 7,480
 virakesarilk | 8,689
 adaderanasinhalalk | 9,359
@@ -26,23 +26,49 @@ adaderanasinhalalk | 9,359
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,702 (100.0%) of 53,703 articles have been extended.
+53,703 (100.0%) of 53,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### රු බි 3.5ක වැට්‌ බදු ගෙවීම පැහැරහැරීම - සමාගම් අධ්‍යක්ෂ ඇප ඉල්ලයි
+### Port officials brief minister on serious delays in container clearances
+
+*2024-11-08 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103255/port-officials-brief-minister-on-serious-delays-in-container-clearances) · `en`
+
+Minister Vijitha Herath made a visit to the Colombo Port on Thursday (7) to look into the existing issues including a delay in container clearances.
+
+There, the officials shared their concerns over the persistent delays in container clearances which have been ongoing for about two years.
+
+They pointed out that, about two to three years ago despite following all the methods, around 1,800 to 2,000 containers could be dispatched from the port daily.
+
+However, they noted that recently, there have been several irregularities in the container clearance process and even when a token number is assigned for container clearance, the containers do not exit the port in the proper order.
+
+Additionally, the officials also revealed that the causes for the delays are that some of the workers are performing their duties while under the influence of alcohol, while others have been neglecting their duties and attending funerals.
+
+...
+
+[Data](articles/a19bd9bc.json)
+
+---
+
+### Tax paying of Rs.
 
 *2024-11-08 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203035) · `si`
 
-රුපියල් බිලියන 3.5ක වැට් බදු මුදල් ගෙවීම පැහැරහැරීම සම්බන්ධයෙන් කොළඹ මහෙස්ත්‍රාත් අධිකරණය තමන්ට නියම කළ මාස 06ක සිරදඬුවමෙන් තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ඩබ්ලිව්. එම්. මෙන්ඩිස් සමාගමේ අධ්‍යක්ෂවරයෙකු වන රන්දෙව් දිනෙන්ද්‍ර ජෝන් ගොනුකර ඇති ඇප ඉල්ලීම පිළිබඳ නියෝගය ලබන 12 වනදා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය නියෝග කළේය.
+Colombo Magistrate's Court orders six-month jail term on bail for VAT default. Court of Appeal grants bail on 12th after reviewing appeal.
 
-තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ඔවුන් වෙනුවෙන් ඉදිරිපත් කෙරුණු රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+🟩
+
+Colombo Magistrate's Court demands the release of six months in prison on bail due to the default of VAT. M. The Court of Appeal was ordered that the bail application on the 12th of this month, the bail application has been declared on the 12th.
+
+The Court of Appeal issued the Court after considering a Rit petition filed for them to demand him on bail.
 
 ◼️
 
 [Data](articles/a539588f.json)
+
+[Extended Data](ext_articles/a539588f.ext.json)
 
 ---
 
@@ -2289,25 +2315,5 @@ Speaking to reporters outside the ministry after making the complaint, Dr. Shafi
 [Data](articles/6a2fcd2a.json)
 
 [Extended Data](ext_articles/6a2fcd2a.ext.json)
-
----
-
-### Central Bank's official reserves
-
-*2024-11-07 18:23:01* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-නිල-සංචිත-ඉහළට/11-412915) · `si`
-
-Central Bank of Sri Lanka reports significant increase in official reserves from $5,994 million in September 2024 to $6,467 million in October 2024, representing a 7.9% growth.
-
-🟩
-
-In October 2024, an outstanding increase in the Central Bank of Sri Lanka has reported a significant increase in the Central Bank of Sri Lanka.
-
-In September, 2024, the number of official reserves reported as US $ 5,994 million increased to US $ 6,467 million.This is a high increase of 7.9%.
-
-◼️
-
-[Data](articles/de1c9954.json)
-
-[Extended Data](ext_articles/de1c9954.ext.json)
 
 ---

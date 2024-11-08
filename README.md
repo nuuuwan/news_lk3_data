@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 19:11:32**
+As of **2024-11-08 19:40:13**
 
 ## Newspaper Stats
 
-*Scraped **53,758** Articles*
+*Scraped **53,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 3,209
 economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,028
+adalk | 5,029
 adaderanalk | 6,408
 tamilmirrorlk | 7,495
 virakesarilk | 8,699
-adaderanasinhalalk | 9,373
+adaderanasinhalalk | 9,374
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,758 (100.0%) of 53,758 articles have been extended.
+53,760 (100.0%) of 53,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Is it a suspicion that Sujeewa's comfort was assive?
+
+*2024-11-08 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203051) · `si`
+
+Sujeewa Senasinghe's luxury jeep investigation: Suspicion of illegal assembly, CID probe ongoing, vehicle seized for forensic analysis.
+
+🟩
+
+The Criminal Investigation Department has launched an investigation on information that the luxury jeep was assembled by former Minister of State Minister Sujeewa Senasinghe.
+
+Accordingly, the Government Analyst was referred to the vehicle for further investigations.
+
+Former State Minister Sujeewa Senasinghe has recently received information that the Walana Corrupt Association has recently assembled the luxury jeep of Toyata Land V8.
+
+Accordingly, Senasinghe's residence was investigated recently, a suspicious vehicle was not found.
+
+The Investigation Department (IP) has submitted to the Public Complaints Division of the Criminal Investigation Department on the instructions of the acting IGP.
+
+Investigations have been reported from the Fort Magistrate's Court today (Fort).
+
+The Investigation Officeries said that he had a luxury vehicle in the house of Senasinghe at the Kollupitiya at the time of his minister to the CID.
+
+...
+
+[Data](articles/d41290c5.json)
+
+[Extended Data](ext_articles/d41290c5.ext.json)
+
+---
+
+### Western revenue license shops on Thursday and 14
+
+*2024-11-08 18:38:02* · [`adalk`](https://www.ada.lk/breaking_news/13-දා--හා-14-දා-බස්නාහිර-ආදායම්-බලපත්‍ර-කවුලු-වැසෙයි/11-412932) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Western Province revenue license offices to close on November 14. The announcement was made by the Western Provincial Council."
+
+🟩
+
+The Western Provincial Council announced that the revenue license of the Western Province will be closed on November 14 and 14.
+
+◼️
+
+[Data](articles/d94a096a.json)
+
+[Extended Data](ext_articles/d94a096a.ext.json)
+
+---
 
 ### President pays statement about salary of public worker
 
@@ -2431,59 +2483,5 @@ The accident occurred while they went to the paddy field and returned home from 
 [Data](articles/283eaa7f.json)
 
 [Extended Data](ext_articles/283eaa7f.ext.json)
-
----
-
-### More than 3000 driving licenses temporarily canceled
-
-*2024-11-08 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203022) · `si`
-
-Over 3,000 driving licenses temporarily revoked due to court rulings. Director General cites repeated violations as reason. Expert emphasizes importance of adhering to driving standards to prevent accidents.
-
-🟩
-
-The Department of Motor Traffic said that over three,000 driving licenses have been temporarily canceled in court in the year.
-
-Director General Nishantha Anuruddha Weerasinghe said that 3,249 drivers have been temporarily canceled during January this year.
-
-He said that the driver's licenses of the driver's licenses have been repeatedly canceled by the Court in trials for various errors conducted by drivers.
-
-Meanwhile, Professor Mohammed Mahjeh, Professor Mohammed Mahjeh, says that it is not the key to the use of accidents and vehicles to exploit accidents.
-
-He pointed out that it is necessary to be linked to the quality of its standard before driving a vehicle.
-
-Dearing accidents in the country have been able to rapid attention, "says Professor Mohammed Mah.
-
-◼️
-
-[Data](articles/e20381a5.json)
-
-[Extended Data](ext_articles/e20381a5.ext.json)
-
----
-
-### Thundershowers during the afternoon
-
-*2024-11-08 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203021) · `si`
-
-Thunderstorms expected in northern regions, western coastal areas, and central highlands. Heavy rain possible. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Showers or thundershowers will occur at times in the Northern and North-Central provinces today (08) and in the Puttalam and Trincomalee districts.
-
-The latest announcement issued by the Department of Meteorology shows that about 1: 00 in the rest of the island, showers that there will be showers.
-
-Showers will occur at the morning of the Western and Galle, Matara, Ampara and Batticaloa districts.
-
-Mm in the Central, Sabaragamuwa and Uva provinces. Heavy rains can occur more than 75.
-
-The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
-
-◼️
-
-[Data](articles/18455cfb.json)
-
-[Extended Data](ext_articles/18455cfb.ext.json)
 
 ---

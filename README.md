@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 13:41:52**
+As of **2024-11-08 14:00:04**
 
 ## Newspaper Stats
 
-*Scraped **53,704** Articles*
+*Scraped **53,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,61 @@ islandlk | 3,209
 economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,021
+adalk | 5,023
 adaderanalk | 6,400
-tamilmirrorlk | 7,480
+tamilmirrorlk | 7,481
 virakesarilk | 8,689
-adaderanasinhalalk | 9,359
+adaderanasinhalalk | 9,360
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,704 (100.0%) of 53,704 articles have been extended.
+53,706 (100.0%) of 53,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### මහමැතිවරණයට නොවැම්බර් 13 සිට දිවයිනේ සියලුම පාසල් සඳහා නිවාඩු
+
+*2024-11-08 13:23:42* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණයට-නොවැම්බර්-13-සිට-දිවයිනේ-සියලුම-පාසල්-සඳහා-නිවාඩු/11-412926) · `si`
+
+මේ මස 14 වෙනි දින පැවැත්වෙන මහමැතිවරණය හේතුවෙන් මැතිවරණ කොමිෂන් සභාවේ සභාපති කරන ලද ඉල්ලීම මත අධ්‍යාපන අමාත්‍යාංශය විසින් නොවැම්බර් 13 සහ 14 දිනයන් දිවයිනේ සියලුම පාසල් වසා තැබෙන බව අධ්‍යාපන අමාත්‍යාංශය කියයි. ඒසේම යළිත් 2024-11-18 දින පාසල් ආරම්භ කරන බවද අධ්‍යාපන අමාත්‍යාංශය දන්වා සිටියි.
+
+ඒ අනුව. ඡන්ද මධ්‍යස්ථාන වශයෙන් යොදා ගන්නා පාසල් 2024.11.12 දින පාසල් වේලාවෙන් පසුව අදාළ ග්‍රාම නිලධාරීන් වෙත භාර දීමට කටයුතු කළ යුතු  බවත් ඡන්ද මධ්‍යස්ථාන කටයුතු සඳහා අවශ්‍ය මේස, ඩෙස්ක්, පුටු සහ ශාලා පහසුකම් ලබා දීමට සියලු ම කලාප අධ්‍යාපන අධ්‍යක්ෂවරුන් සහ විදුහල්පතිවරුන් දැනුවත් කරනු ඇති බවත් අමාත්‍යාංශය නිවේදනය කරයි.
+
+එමෙන්ම, මැතිවරණ කොමිෂන් සභාවේ සභාපතිගේ ඉල්ලීම මත ඡන්ද ගණන් කිරීමේ මධ්‍යස්ථාන ලෙස යොදා ගන්නා ඇමුණුමේ සඳහන් කර ඇති අදාල පාසල් එම ලේඛනයේ සඳහන් පරිදි ඒ ඒ පාසලට අදාළ කාල වකවානුව තුළ පමණක් නිවාඩු ලබා දීමට කටයුතු කරනු ලබන බවද අමාත්‍යාංශය වැඩිදුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/5a416db6.json)
+
+---
+
+### Sivajilingam meets with Murugan, Nalini
+
+*2024-11-08 13:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-நளினியுடன்-சிவாஜிலிங்கம்-சந்திப்பு/175-346772) · `ta`
+
+Sivajilingam visits Murugan, Nalini after release. Discusses daughter's travel plans to London.
+
+🟩
+
+Former MP MK Sivajilingam met Murugan and Nalini, who was released in the Rajiv Gandhi murder case on Thursday (07).
+
+Secretary General of Tamil National Party. K. Sivajilingam has visited Murugan's residence in Ithavu area.
+
+Murugan's wife Nalini is also present. MK had gone to the Vellore jail in Tamil Nadu and had to stay in Tamil Nadu for medical treatment when they were released when they were released.. Said Sivajilingam.
+
+MK Sivajilingam added that Murugan and Nalini had applied for their daughter to go to their daughter in London and that their daughter had re -applied and they were waiting for the decision.
+
+◼️
+
+[Data](articles/a84f03df.json)
+
+[Extended Data](ext_articles/a84f03df.ext.json)
+
+---
 
 ### Port officials brief minister on serious delays in container clearances
 
@@ -51,6 +91,28 @@ Additionally, the officials also revealed that the causes for the delays are tha
 [Data](articles/a19bd9bc.json)
 
 [Extended Data](ext_articles/a19bd9bc.ext.json)
+
+---
+
+### Court order to give a statement under the CID
+
+*2024-11-08 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203036) · `si`
+
+Court orders CID financial crime unit to investigate money laundering case.
+
+🟩
+
+Kaduwela Magistrate's Court today (08) has ordered that the Criminal Investigation Department's Financial Criminal Investigation Unit.
+
+The order has been issued in connection with the case of an investigation into money laundering.
+
+Accordingly, the Financial Criminal Investigation Unit of the Criminal Investigation Department (CID) The unit is due to be informed to appear before the unit.
+
+◼️
+
+[Data](articles/ccc0586d.json)
+
+[Extended Data](ext_articles/ccc0586d.ext.json)
 
 ---
 
@@ -631,6 +693,22 @@ The Ministry of Education stated that the return of schools will be held on Nove
 [Data](articles/1e6e171a.json)
 
 [Extended Data](ext_articles/1e6e171a.ext.json)
+
+---
+
+### ගිනි අවි තාවකාලිකව රජයට භාරදිමට දි තිබූ කාලය දිගු කරයි
+
+*2024-11-08 10:13:43* · [`adalk`](https://www.ada.lk/breaking_news/ගිනි-අවි-තාවකාලිකව-රජයට-භාරදිමට-දි-තිබූ-කාලය-දිගු-කරයි/11-412925) · `si`
+
+බලපත්‍ර සහිතව පුද්ගලයන් ලබාගෙන ඇති ගිනි අවි හා පතොරොම් ඒ පිළිබඳව සංගණනයක් කිරිම සඳහා තාවකාලිකව රජයට භාර දීමට දී තිබූ කාලය දිගු කිරීමට ආරක්ෂක අමාත්‍යාංශය තිරණය කර තිබේ.
+
+එසේ රජයට ගිනි අවි හා පතොරම් භාරදිමට දී තිබූ කාලය ්ඊයේ අවසන් වූ අතර යළිත් එළැඹෙන 21 දා තෙක් සති දෙකක කාලයකට දීර්ඝ කර තිබේ.
+
+මෙම ගිනි අවි හා පතොරම් වැලිසර පිහිටි රජයේ වාණිජ පුපුරණ ද්‍රව්‍ය ගබඩාව වෙත භාර දිය යුතු වෙයි.
+
+◼️
+
+[Data](articles/4f4c9b1a.json)
 
 ---
 
@@ -2223,99 +2301,5 @@ We know Thriposha recommends less than 5 years, under 5 years of age, the mother
 [Data](articles/68729c56.json)
 
 [Extended Data](ext_articles/68729c56.ext.json)
-
----
-
-### Wennappuwa shooting
-
-*2024-11-07 19:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203013) · `si`
-
-Shooting reported in Wennappuwa, Kimbulgana area. Woman and man hospitalized at Marawila Hospital. Shooter unidentified.
-
-🟩
-
-A shooting has been shot in Kimbulgana, Wennappuwa, police said.
-
-A woman and a man had been admitted to the Marawila Hospital.
-
-One person has come to shoot, and he has not yet revealed the shooting.
-
-◼️
-
-[Data](articles/5f2d2e1e.json)
-
-[Extended Data](ext_articles/5f2d2e1e.ext.json)
-
----
-
-### Special bus services from 12th to general election
-
-*2024-11-07 18:54:42* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයට-12-දා-සිට-විශේෂ-බස්-සේවා/11-412917) · `si`
-
-Lanka Private Bus Owners Association announces special bus services starting 12th. Gemunu Wijeratne cites lack of buses due to SLTB election duties. No political party support claimed. Book about winning US presidency published in 2022.
-
-🟩
-
-The Lanka Private Bus Owners Association states that special bus services will be implemented on the 12th of this month.
-
-The President of the Association Gemunu Wijeratne stated that the people of the last presidential election were suffering from the lack of buses.
-
-The situation was caused by the SLTB buses on election duties and the passage from the 12th of this year, he would be able to go to Gammbim without an inconvenience.. The Chairman, said at a press conference held in Colombo yesterday (07), said that no party would support any party as a bus association this year.
-
-There is no support to any party in the existing political situation and that there is a joint government in the future.
-
-The book stated that the power of the power to win Donald Trump in the American presidential election, said he was published in the year 2022.
-
-An English translation of this book was sent to Donald Trump 02 months ago.
-
-◼️
-
-[Data](articles/2718806d.json)
-
-[Extended Data](ext_articles/2718806d.ext.json)
-
----
-
-### The new government borrowed over Rs.
-
-*2024-11-07 18:30:33* · [`adalk`](https://www.ada.lk/breaking_news/නව-ආණ්ඩුව-රුපියල්-ට්‍රිලියනය-ඉක්මවා-ණය-අරන්/11-412916) · `si`
-
-Sri Lanka's new government has borrowed Rs. 1.162 trillion, exceeding previous totals. This includes Rs. 175 billion borrowed recently and Rs. 200 million from bond issuance. Critics argue this excessive borrowing may lead to financial instability.
-
-🟩
-
-Majority of the Mahina JHU leader of the Colombo District candidate lawyer, Colombo, says that the present government has obtained loans of Rs. 1.162 trillion.. He was speaking at a press conference held today (2024.11.07).
-
-"The current government's total debt was exceeded in rupees yesterday. On November 6, the government borrowed 175 billion rupees. 17.5 billion rupees.
-
-Accordingly, the present government has borrowed Rs. 1.162 trillion.The ordinary people do not understand the same billions.The general public knows with crores.But this goal is too big.The only billions of crores.1,000 billion is one of the trillion.Now it is possible to think the number of billions.
-
-...
-
-[Data](articles/807c02f6.json)
-
-[Extended Data](ext_articles/807c02f6.ext.json)
-
----
-
-### Dr. Shafi files complain against false charges
-
-*2024-11-07 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103243/dr-shafi-files-complain-against-false-charges) · `en`
-
-Specialist Dr. Shafi Sihabdeen has lodged a complaint with the Ministry of Public Security today (07).
-
-The complaint was lodged requesting an investigation into his arrest and the distress caused to him and his family by making false statements with the intent of creating disharmony within the society as well as for the forging of documents in a deliberate and conspiratorial manner.
-
-Speaking to reporters outside the ministry after making the complaint, Dr. Shafi stated that he had endured immense anguish over a period of five years and six months.
-
-“It was not me who was freed yesterday.  It was everyone who stood for justice. I have a duty to do, to make sure that no one else is faced with this injustice.”
-
-“I filed a complaint against all those who acted against me. They looked for complaints after arresting me. Myself, my children and wife, were subjected to immense pressure,” he added.
-
-...
-
-[Data](articles/6a2fcd2a.json)
-
-[Extended Data](ext_articles/6a2fcd2a.ext.json)
 
 ---

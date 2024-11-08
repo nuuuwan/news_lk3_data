@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 21:11:10**
+As of **2024-11-08 21:24:24**
 
 ## Newspaper Stats
 
@@ -26,21 +26,29 @@ adaderanasinhalalk | 9,375
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,770 (100.0%) of 53,771 articles have been extended.
+53,771 (100.0%) of 53,771 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### අපිව සල්ලිවලට ගන්න කාටවත් බැහැ - දිලිත්
+### Nobody can buy us for money - Dilith
 
 *2024-11-08 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203052) · `si`
 
-වරප්‍රසාදවලින් තොර දේශපාලනය මීළඟ පාර්ලිමේන්තුවේදි තමා ගෙන එන පෞද්ගලික මන්ත්‍රී යෝජනාවක් හරහා මෙරට යළි ස්ථාපිත කිරීමට සූදානම් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayarawara proposes private member bill in Parliament to reform Sri Lanka without seeking financial backing or political favors. He emphasizes serving people over personal interests and seeks JVP support for his initiative.
 
-...
+🟩
+
+Political Politics Free of Privilege Dilith Jayarawara says that he is ready to re-establish Sri Lanka through a private member proposal he will be brought through a private member proposal in Parliament.
+
+"We understand the journey and understand about the journey. We are going to help us come with us that you can change your life. So far you have sat in the queue and made your life change. We assure your scrathe this time you will definitely make your life change. Nobody can buy us for money. We are not privileged politics and we don't have to pay for MPs this time. No vehicles don't want any privileges. Why do we can serve the people, and we can make a dedication?. So our JVP comrades can also support the private member's proposal to the private MP's proposal now, but we do not need to promote parliamentary salaries. Let's start with a politics of that politics. "
+
+◼️
 
 [Data](articles/81868b06.json)
+
+[Extended Data](ext_articles/81868b06.ext.json)
 
 ---
 

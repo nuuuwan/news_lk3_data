@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 21:59:49**
+As of **2024-11-08 22:14:11**
 
 ## Newspaper Stats
 
-*Scraped **53,777** Articles*
+*Scraped **53,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,030
-adaderanalk | 6,409
+adaderanalk | 6,410
 tamilmirrorlk | 7,498
 virakesarilk | 8,708
 adaderanasinhalalk | 9,376
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,376
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,777 (100.0%) of 53,777 articles have been extended.
+53,778 (100.0%) of 53,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Sri Lanka’s remittance inflow at $587.7 million in October 2024
+
+*2024-11-08 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103266/sri-lankas-remittance-inflow-at-5877-million-in-october-2024) · `en`
+
+Sri Lanka has recorded an 11.7% increase in workers’ remittances from January to October 2024 compared to the same period in 2023, according to latest figures released by the Central Bank of Sri Lanka (CBSL).
+
+The cumulative figure for the period from January to October 2024 stands at USD 5,431.5 million, reflecting this significant growth.
+
+Official figures show that workers’ remittances flow in October 2024 amounted to USD 587.7 million, compared to USD 537 million in September 2024.
+
+◼️
+
+[Data](articles/8b7566e2.json)
+
+[Extended Data](ext_articles/8b7566e2.ext.json)
+
+---
 
 ### Police have a program to safeguard election season
 
@@ -2491,35 +2509,5 @@ Accordingly, the Commissioner General of Elections Saman Sri Ratnayakes said tha
 [Data](articles/de1f21b1.json)
 
 [Extended Data](ext_articles/de1f21b1.ext.json)
-
----
-
-### Intensive testing in places where rice sells
-
-*2024-11-08 09:17:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரிசி-விற்கும்-இடங்களில்-தீவிர-சோதனை/175-346764) · `ta`
-
-Consumer Affairs Authority intensifies rice price monitoring, conducts 2,800+ tests, files 425 cases for high prices, takes legal action against 2,060 price discrepancies and 240 rice reserve hoarding incidents. Next steps pending data inspection.
-
-🟩
-
-The Consumer Affairs Authority (CAA) has said that tests have been intensified to detect places where rice is sold at high prices.
-
-More than 2,800 rice tests have been conducted so far this year, its intelligence unit said.
-
-Of these, 425 seats have been filed against the high prices.
-
-In addition, the number of cases taken by legal action for the lack of prices of rice is 2,060.
-
-In addition, legal action has been taken against 240 cases of hiding rice reserves, the Consumer Affairs Authority said.
-
-Meanwhile, Secretary of the Ministry of Commerce MM Naimuddin said that the report on rice and paddy reserves in the country had been handed over to the President.
-
-He said the next step would be taken after inspection of the data. (That)
-
-◼️
-
-[Data](articles/2492cb13.json)
-
-[Extended Data](ext_articles/2492cb13.ext.json)
 
 ---

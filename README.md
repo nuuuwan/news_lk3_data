@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 06:09:59**
+As of **2024-11-08 06:45:46**
 
 ## Newspaper Stats
 
-*Scraped **53,648** Articles*
+*Scraped **53,655** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 419
 bbccomsinhala | 547
-colombotelegraphcom | 550
+colombotelegraphcom | 551
 islandlk | 3,209
 economynextcom | 3,256
-dailyftlk | 3,668
+dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,018
 adaderanalk | 6,391
-tamilmirrorlk | 7,468
+tamilmirrorlk | 7,469
 virakesarilk | 8,681
 adaderanasinhalalk | 9,345
 
@@ -26,11 +26,107 @@ adaderanasinhalalk | 9,345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,633 (100.0%) of 53,648 articles have been extended.
+53,634 (100.0%) of 53,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Interior and Product Design Exhibition returns at Sri Lanka Design Festival 2024
+
+*2024-11-08 06:14:01* · [`dailyftlk`](https://www.ft.lk/business/Interior-and-Product-Design-Exhibition-returns-at-Sri-Lanka-Design-Festival-2024/34-768987) · `en`
+
+The15th edition of the Sri Lanka Design Festival (SLDF) will celebrate ‘Innovation Island’ presenting a dynamic blend of a business-to-business commercial program alongside an inspiring public program of immersive workshops, exhibitions, and visionary talks led by local and global creative icons
+
+Interior and Product Design Exhibition: Daily until 10 November 10 a.m. to 6 p.m. at the Lumina Ballroom, at Colombo’s iconic new Landmark, Cinnamon Life at City of Dreams
+
+As Sri Lanka enters a new era of creativity and innovation, the Sri Lanka Design Festival (SLDF) has reintroduced its acclaimed Product and Interior Design Exhibition, a cornerstone event showcasing Sri Lanka’s design talent. This year’s exhibition emphasises products designed and made in Sri Lanka, underscoring the nation’s rising focus on homegrown design-led industries and innovation.
+
+The exhibition was opened on Wednesday by British High Commissioner Andrew Patrick.
+
+...
+
+[Data](articles/fa3766d1.json)
+
+---
+
+### Gem Sri Lanka 2025 in January to lure global buyers
+
+*2024-11-08 06:11:06* · [`dailyftlk`](https://www.ft.lk/business/Gem-Sri-Lanka-2025-in-January-to-lure-global-buyers/34-768986) · `en`
+
+Experts see major global growth potential for Sri Lanka’s gem industry through targeted innovation, with China emerging as promising market for coloured gemstones
+
+South Asia’s premier precious stone showcase, Gem Sri Lanka, is set to make a dazzling return from 7 to 10 January next year at the Cinnamon Bentota Beach, with a goal of taking the country global.
+
+Organised by the Chinafort Gem and Jewellery Traders Association (CGJTA), Gem Sri Lanka has become a significant platform to connect international buyers with Sri Lankan traders. Gem Sri Lanka 2025 is the second edition of the exhibition, with a diverse line-up of buyers from the USA, Europe, Russia, China, and across Asia.
+
+...
+
+[Data](articles/2c63d51b.json)
+
+---
+
+### Ceylon Tobacco Company appoints Samanmalee Chandrasiri to Board of Directors
+
+*2024-11-08 06:09:16* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Tobacco-Company-appoints-Samanmalee-Chandrasiri-to-Board-of-Directors/34-768985) · `en`
+
+The Ceylon Tobacco Company PLC yesterday announced the appointment of Samanmalee Priyanvada Chandrasiri as a Non-Executive Director to its Board effective 7 November.
+
+She is a globally experienced HR leader with a proven track record of driving impactful business transformations across multiple markets and functional areas.
+
+With an MBA from Edith Cowan University and a BSc in Management from the University of London, Samanmalee brings a strong academic foundation paired with nearly two decades of HR expertise.
+
+...
+
+[Data](articles/a80f3870.json)
+
+---
+
+### Why power from Sri Lanka is better option than offshore wind
+
+*2024-11-08 06:07:50* · [`dailyftlk`](https://www.ft.lk/business/Why-power-from-Sri-Lanka-is-better-option-than-offshore-wind/34-768984) · `en`
+
+Wind industry sources estimate island nation has 65 GW onshore potential
+
+The recently released National Electricity Plan document of the Central Electricity Authority (CEA) notes that India and Sri Lanka have agreed on the detailed project report (DPR) for building a transmission line between the two countries. This marks a significant milestone in a journey that traces back to 2002.
+
+“Detailed project report (DPR) for the India-Sri Lanka grid interconnection, i.e, between New Madurai (India) and Mannar (Sri Lanka) 1000 MW VSC HVDC Bipole line, with HVDC terminals at both ends in two phases of 500 MW each, has been agreed,” the document says.
+
+The idea was first proposed about 25 years ago. Several pre-feasibility studies were carried out between 2002 and 2011. In 2002, a company called NEXANT did the study with the assistance of the United States Agency for International Development (USAID). In 2006, the Power Grid Corporation of India reviewed and updated the NEXANT study.
+
+...
+
+[Data](articles/1cb2558b.json)
+
+---
+
+### No space for NPP’s Govt. to do past mistakes as SL can’t survive another crisis: Eran
+
+*2024-11-08 06:06:31* · [`dailyftlk`](https://www.ft.lk/columns/No-space-for-NPP-s-Govt-to-do-past-mistakes-as-SL-can-t-survive-another-crisis-Eran/4-768983) · `en`
+
+SJB Colombo District candidate Eran Wickramaratne says President AKD won thanks to SLPP voters but some portion of those voters will not vote for the NPP in the forthcoming election
+
+Insists SJB is the biggest political party in terms of number of voters and supporters than SLFP, UNP, SLPP and the JVP
+
+Stresses the ideal candidate for a legislature should be of good character, experienced and educated
+
+Emphasises Ranil has lost 15 or more elections as the UNP Leader but Sajith has lost only two as SJB Leader and no decision to change the SJB’s leadership
+
+Says the 57% of voters who didn’t vote for President AKD will not be voting for NPP either
+
+Says President AKD is no different to most Presidential candidates of the past
+
+Opines salary increments should be based on finances and economics and they must not be political decisions
+
+Requests extension for the Parate law deadline to facilitate SMEs to come out of their present crisis
+
+Stresses need to establish zones for SMEs who lack resources
+
+...
+
+[Data](articles/dacbff26.json)
+
+---
 
 ### What Trump’s victory means for Sri Lanka
 
@@ -43,6 +139,8 @@ The victory of Donald Trump in the US Presidential election held on 5 November 2
 ...
 
 [Data](articles/29a27977.json)
+
+[Extended Data](ext_articles/29a27977.ext.json)
 
 ---
 
@@ -273,6 +371,32 @@ Kandasashti Mahotsava "Surasamharam" was held on Thursday evening at the temple 
 [Data](articles/3ed92f9a.json)
 
 [Extended Data](ext_articles/3ed92f9a.ext.json)
+
+---
+
+### ஏற்றுமதி வருமானத்தை அதிகரிக்க தீர்மானம்
+
+*2024-11-08 01:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதி-வருமானத்தை-அதிகரிக்க-தீர்மானம்/175-346755) · `ta`
+
+நாட்டின் ஏற்றுமதி வருமானத்தை 2030 ஆம் ஆண்டளவில் 40 பில்லியன் அமெரிக்க டொலர்களாக அதிகரிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+தற்போதைக்கு 15 பில்லியன் டொலர் வருமானம் ஈட்டப்பட்டுள்ளதாகவும் அந்த சபை குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/73acefed.json)
+
+---
+
+### Analysis Of NPP Plan To Develop Tamil Areas
+
+*2024-11-08 01:03:28* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/analysis-of-npp-plan-to-develop-tamil-areas/) · `en`
+
+Recently during the election campaign in Jaffna, president Anura Kumara Dissanayake said that he will settle the Tamil aspirations for autonomy through development. Whether this is an empty rhetoric or serious intent, will have to be seen in times to come. Probably he may be thinking of counterbalancing Tamil nationalism with economic prosperity, similar to that of Scotland and Quebec scenario and present position in Tamil Nadu. Idealistically northern province has to be developed on par with southern province, which has seen in recent years mega projects such as deep sea port, international airport, expressway, extension of railway and cricket stadium and several minor ones. Realistically this may not happen as firstly there are no resources, and secondly no willingness as focus is on southern electorate.
+
+...
+
+[Data](articles/a927412b.json)
 
 ---
 
@@ -2135,161 +2259,5 @@ It is noteworthy that early this year, the two -party support in Australia's pro
 [Data](articles/d509bfd4.json)
 
 [Extended Data](ext_articles/d509bfd4.ext.json)
-
----
-
-### Lohan and wife remanded again
-
-*2024-11-07 12:58:57* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-සහ-බිරිඳ-යළි-රිමාන්ඩ්/11-412909) · `si`
-
-Lohan Ratwatte and wife remanded until 18th. Arrested twice over car incident. Former Parliamentarian involved.
-
-🟩
-
-Former Parliamentarian Lohan Ratwatte and his wife were remanded until the 18th of this month.
-
-They were arrested on two occasions on a car incident.
-
-◼️
-
-[Data](articles/374fb6dd.json)
-
-[Extended Data](ext_articles/374fb6dd.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-07 12:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198107) · `ta`
-
-US Dollar exchange rate: 288.4047 INR buying, 297.4881 INR selling. Released by Central Bank on 07/Thursday.
-
-🟩
-
-The US dollar purchasing price was 288.4047 rupees and the sales price were 297.4881 rupees based on a currency exchange rate released by the Central Bank on Thursday (07).
-
-◼️
-
-[Data](articles/9085d2b3.json)
-
-[Extended Data](ext_articles/9085d2b3.ext.json)
-
----
-
-### Lohan Ratwatte and wife further remanded
-
-*2024-11-07 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103233/lohan-ratwatte-and-wife-further-remanded) · `en`
-
-Former Minister Lohan Ratwatte and his wife have been ordered to be remanded further until November 18 by the Nugegoda Magistrate’s Court.
-
-The Magistrate also ordered that the bank accounts of the two suspects be checked and the video evidence presented to the court be forwarded to the Government Analyst.
-
-The Magistrate issued this order after the two suspects were produced before the court by Prison Officers and DIG Ruwan Gunasekara presented the facts to the court.
-
-The two suspects were ordered remanded in custody until November 18 after the bail request made on behalf of the suspects by President’s Counsel Sampath Mendis and other legal counsels was rejected.
-
-The former Minister of State Lohan Ratwatte and his wife, who were arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka, were produced before the Nugegoda Magistrate’s Court this morning (07).
-
-...
-
-[Data](articles/73c49797.json)
-
-[Extended Data](ext_articles/73c49797.ext.json)
-
----
-
-### I will not abandon the struggle even if they lose the presidential election;Sometimes the struggle lasts for some time;This does not mean that we will not succeed - Kamala Haris
-
-*2024-11-07 12:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198099) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Kamala Harris vows to continue struggle despite election loss. She emphasizes perseverance, unity, and protecting democratic values. The struggle continues for freedom, justice, and American ideals.
-
-🟩
-
-Kamala Haris has said that even if the US presidential election, I will never give up the struggle for the principles of independence, the opportunity, all the people, the gaze, and the policies of our nation.
-
-He said this while addressing his supporters in Washington TC.
-
-The results of this election are not what we expected, we were not for this decision, we did not vote for it, but listen to what I said. Until we abandon, it brightly shone as the light of the US promise.
-
-I am very proud of what we contested and the way we contested.
-
-We have done this on the basis that there are more common things between us than to separate the people of life and the people of life and the backdrop of life, which are bindled with the love of the United States, the future of the United States.
-
-I know that you are now in a variety of emotions, but we have to accept the results of this election.
-
-I said that we will help him and his team during the change of power.
-
-...
-
-[Data](articles/1b0dae00.json)
-
-[Extended Data](ext_articles/1b0dae00.ext.json)
-
----
-
-### Advanced Level Examination from November 25 to December 20
-
-*2024-11-07 12:42:44* · [`adalk`](https://www.ada.lk/breaking_news/උසස්-පෙළ-විභාගය-නොවැම්බර්--25-දා-සිට-දෙසැම්බර්-20-දක්වා/11-412908) · `si`
-
-GCE Advanced Level 2024 exam dates: Nov 25 - Dec 20. Ticket schedules sent to schools. Private applicants register online from Nov 18. Website open until Nov 12 midnight.
-
-🟩
-
-The GCE Advanced Level 2024 Examination will commence on November 25 and will be held on November 25 and will be held at December 20.
-
-The Department of Examinations said that the school applicants' ticket and schedule of the examination will be sent to the principal of the relevant school, the Department of Examinations.
-
-Private applicants have not recovered from the official website of the Department of Examinations at www.doenets.lk from November 18 and all applicants have amendments in the Department of Tickets, Media and Name amendments: http://onlinexams.gov.lk/The Examinations Department announces that the EIC website can be made to 12.00 midnight to 12th November.
-
-◼️
-
-[Data](articles/57e0aec4.json)
-
-[Extended Data](ext_articles/57e0aec4.ext.json)
-
----
-
-### Lohan and wife remanded again
-
-*2024-11-07 12:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203003) · `si`
-
-Lohan Ratwatte and wife remanded over illegal vehicle use. Charged under law. Court appearance set for 18th. Case heard at Nugegoda General Assembly on 7th.
-
-🟩
-
-Former State Minister Lohan Ratwatte and his wife were remanded until the 18th of the charge of using an illegal car.
-
-They were produced before the Nugegoda General Assembly this (07).
-
-◼️
-
-[Data](articles/6a4f69d9.json)
-
-[Extended Data](ext_articles/6a4f69d9.ext.json)
-
----
-
-### Police find another illegally assembled luxury car belonging to a ‘Kapuwa’
-
-*2024-11-07 12:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103232/police-find-another-illegally-assembled-luxury-car-belonging-to-a-kapuwa-) · `en`
-
-Another illegally assembled luxury car has been found in the garage of a ‘Kapuwa’, who was previously arrested over similar charges related to the possession of an illegally assembled vehicle.
-
-Investigating officers have located this additional luxury car during the interrogation of the ‘Kapuwa’ of the Galthenna Devalaya in Kandy, who was recently arrested and remanded, the police said.
-
-Further investigations revealed that the luxury carin question bore the same license plate as a another vehicle in the Hettipola area of Kurunegala. The car has since been taken into police custody.
-
-Theldeniya Divisional Crimes Unit is conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/c18eead9.json)
-
-[Extended Data](ext_articles/c18eead9.ext.json)
 
 ---

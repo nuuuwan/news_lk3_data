@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 21:40:30**
+As of **2024-11-08 21:59:49**
 
 ## Newspaper Stats
 
-*Scraped **53,775** Articles*
+*Scraped **53,777** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,47 @@ islandlk | 3,209
 economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,029
+adalk | 5,030
 adaderanalk | 6,409
 tamilmirrorlk | 7,498
 virakesarilk | 8,708
-adaderanasinhalalk | 9,375
+adaderanasinhalalk | 9,376
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,775 (100.0%) of 53,775 articles have been extended.
+53,777 (100.0%) of 53,777 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Police have a program to safeguard election season
+
+*2024-11-08 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203053) · `si`
+
+Safeguarding elections: 63,145 police officers, 3,200 STF, 12,227 civil security personnel, 3,109 mobile patrols, 269 checkpoints island-wide. Intelligence gathered to prevent disruptions.
+
+🟩
+
+DIG and Police Spokesperson Attorney at Law Nihal Thameda says that 63,145 police officers will be deployed for election duties for the next general election.
+
+A press conference held today (08), he said that 3200 STF officers are to be deployed as well as the three-staff officers.
+
+He also said that steps have been taken to deploy 12, 227 civil security personnel.
+
+It is also planned to implement 3109 mobile travels and 269 barriers island wide.
+
+The police spokesman Attorney at Law Nihal Talduuwa further stated that 214 riot groups have been prepared and the intelligence has been taken to ensure disruptive acts.
+
+◼️
+
+[Data](articles/ac6612f7.json)
+
+[Extended Data](ext_articles/ac6612f7.ext.json)
+
+---
 
 ### 11 candidates arrested for violating election laws
 
@@ -309,6 +335,30 @@ The Investigation Officeries said that he had a luxury vehicle in the house of S
 [Data](articles/d41290c5.json)
 
 [Extended Data](ext_articles/d41290c5.ext.json)
+
+---
+
+### Welimada Udakkessallawa road closed
+
+*2024-11-08 19:00:49* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-උඩුපුස්සල්ලාව-මාර්ගය-වැසෙයි/11-412933) · `si`
+
+Welimada Udakkessallawa road closed due to landslide caused by heavy rains exceeding 100mm. Earth slips blocking Langara Lunugala road. Floods reported in Sumanthaissagama. Landslide situation activated near Welimada Hali-Ela road.
+
+🟩
+
+The Disaster Management Center (DMC) stated that a mound is collapsed with the rock with the rock with the rock with the rock with the stone.
+
+The center also said that heavy rains exceeding 100 mm in the area.
+
+Meanwhile, the Disaster Management Divisions have developed a small flood in Sumanthaissagama due to overflowing.The management center said that the earth slips will be blocked from the Langara Lunugala road.
+
+Meanwhile, the Disaster Management Center (DMC) stated that the landslide situation has been activated near the next toake of the Welimada Hali-Ela road.
+
+◼️
+
+[Data](articles/788a4c04.json)
+
+[Extended Data](ext_articles/788a4c04.ext.json)
 
 ---
 
@@ -2471,53 +2521,5 @@ He said the next step would be taken after inspection of the data. (That)
 [Data](articles/2492cb13.json)
 
 [Extended Data](ext_articles/2492cb13.ext.json)
-
----
-
-### Indonesia volcano belches colossal ash tower
-
-*2024-11-08 09:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103250/indonesia-volcano-belches-colossal-ash-tower) · `en`
-
-A volcano in eastern Indonesia erupted more than half a dozen times on Thursday, catapulting a colossal ash tower five miles into the sky against a backdrop of lightning as nearby residents fled in panic.
-
-Mount Lewotobi Laki-Laki erupted on Monday and Tuesday, killing nine people and forcing the relocation of residents from a 7-kilometre (4.3-mile) exclusion zone.
-
-The country’s volcanology agency reported seven eruptions on Thursday, the biggest of which belched an ash tower five miles (eight kilometres) high, according to an observation post.
-
-Some said it was the biggest eruption they had ever seen from Lewotobi Laki-Laki.
-
-“This is the first time I saw this big eruption since I’ve been living in Lewolaga village,” said Anastasia Adriyani, 41, who lives outside the exclusion zone.
-
-“I was cooking at the community kitchen (for evacuees) and when it happened, I ran back home. I was very scared.”
-
-...
-
-[Data](articles/1ce041b8.json)
-
-[Extended Data](ext_articles/1ce041b8.ext.json)
-
----
-
-### Resolution of Trade Ministry to review prices
-
-*2024-11-08 09:12:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலைகளை-மதிப்பாய்வு-செய்ய-வர்த்தக-அமைச்சு-தீர்மானம்/175-346763) · `ta`
-
-Trade Ministry reviews prices due to rupee value drop. Focuses on reducing bakery and restaurant costs. Consumers complain about price cuts. Investigation ongoing on pricing fairness. Ministry plans to meet with industry associations to negotiate further reductions.
-
-🟩
-
-Considering the value of the rupee, the Ministry of Commerce has said that it has focused on the reduction of the prices of bakery and restaurants.
-
-People have lodged a complaint with the Consumer Affairs Authority regarding the percentage of the price reduction.
-
-It is currently being investigated whether the bakery and restaurant owners are providing the right price using the value of the rupee and the raw material cost.
-
-At the same time, the Ministry of Commerce has announced that it is planning to call the Bakery Owners Association and the Restaurant Owners Association to negotiate a price cut.(An)
-
-◼️
-
-[Data](articles/71c66e5a.json)
-
-[Extended Data](ext_articles/71c66e5a.ext.json)
 
 ---

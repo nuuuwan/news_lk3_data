@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 18:59:57**
+As of **2024-11-08 19:11:32**
 
 ## Newspaper Stats
 
@@ -26,27 +26,37 @@ adaderanasinhalalk | 9,373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,754 (100.0%) of 53,758 articles have been extended.
+53,758 (100.0%) of 53,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### රාජ්‍ය සේවක වැටුප ගැන ජනපතිගෙන් ප්‍රකාශයක්
+### President pays statement about salary of public worker
 
 *2024-11-08 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203050) · `si`
 
-තම රජයේ පළමු අයවැය ලේඛනයෙන්ම රාජ්‍ය සේවක වැටුප් ඉහළ නංවන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a 200-character summary:
 
-අද (08) සවස කෑගල්ල ප්‍රදේශයේ පැවති ජන රැලියකට එක්වෙමින් ජනාධිපතිවරයා වැඩිදුරටත් පවසා සිටියේ, අස්වැසුම නොලැබෙන පිරිසට නැවත අභියාචනා ඉදිරිපත් කළ හැකි බවය.
 
-එමෙන්ම ආහාර මිල දී ගැනීමට පවා වත්කමක් නොමැති පවුල් සිටින්නේ නම්, එවැනි පිරිසට දේශපාලන මැදිහත්වීමකින් තොරව යම් දීමනාවක් කෙටි කාලයක් සඳහා ලබාදීමට තීරණය කළ බව ද ජනාධිපතිවරයා පැවසීය.
 
-ජනාධිපතිවරයා තවදුරටත් පැවසුවේ, පාසල් පොත් සහ පාසල් උපකරණ මිලදී ගැනීමට නොහැකි දරුවන් සඳහා දීමනාවක් ලබාදෙන බවය.
+President Anura Kumara Dissanayake announces salary increases for public workers, aid for food-insecure families, and school grants. Proposes method for former presidents' privileges. Emphasizes rule of law and transparency in governance.
+
+🟩
+
+President Anura Kumara Dissanayake says that state employees will increase public servants in their first budget register.
+
+Addressing a rally in the Kegalle evening in Kegalle evening, the President added that the people who do not receive the reconciliation could be back appeals.
+
+The President also said that if families who have no unavailable to buy food, they have decided to give them a given allowance for a short time without political intervention.
+
+The President added that a allowance would be given to children who cannot buy school books and school equipment.
 
 ...
 
 [Data](articles/4419ed34.json)
+
+[Extended Data](ext_articles/4419ed34.ext.json)
 
 ---
 
@@ -120,23 +130,31 @@ President Dissanayake added that instructions have already been issued to divisi
 
 [Data](articles/f284a5a7.json)
 
+[Extended Data](ext_articles/f284a5a7.ext.json)
+
 ---
 
-### அக்குரணை நகரம் நீரில் மூழ்கியது
+### The city of Akurana was submerged
 
 *2024-11-08 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அக்குரணை-நகரம்-நீரில்-மூழ்கியது/76-346791) · `ta`
 
-கண்டி மாவட்டத்தின் பல பகுதிகளில் பிற்பகல் முதல் பெய்து வரும் கடும் மழை காரணமாக கண்டி - யாழ்ப்பாணம் ஏ-09 வீதியில் உள்ள அக்குரணை நகரம் நீரில் மூழ்கியது.
+Akurana city flooded due to heavy rains in Kandy district. Main roads submerged, including Kandy-Jaffna A-09 road. Traffic disrupted for over 3 hours. Flooding frequent due to overflowing rivers.
 
-அக்குரணை நகரின் ஊடாக பாயும் பிரதான ஓயா மற்றும் வஹகல ஓயா பெருக்கெடுத்து ஓடுவதால் அக்குரணை நகரின் பிரதான வீதிகள் நீரில் மூழ்கியதுடன் ஹத்தே கன்வான, குடுகல மற்றும் ஏனைய பிரதேசங்களும் நீரில் மூழ்கியுள்ளன.
+🟩
 
-கண்டி - யாழ்ப்பாணம் ஏ-09 வீதியில் மூன்று மணித்தியாலங்களுக்கு மேலாக அந்த வீதியின் போக்குவரத்து ஸ்தம்பிதமடைந்திருந்தது.
+Due to heavy rains in many parts of Kandy district, the city of Kandy - Jaffna, A -09 road has been submerged.
 
-அக்குரணை நகரின் பிரதான ஓயா மற்றும் வஹகல ஓயா என்பன நிரம்பி வழிவதால் வருடத்திற்கு பல தடவைகள் அக்குறணை நகரில் வெள்ளப்பெருக்கு ஏற்படுவது வழமையான நிலைமையாக மாறியுள்ளது.
+The main roads of the city have been submerged and the main roads in the city have been submerged and the Hathee Kanwana, Kudugala and other areas have been submerged.
+
+The traffic on the Kandy - Jaffna A -09 road was over three hours.
+
+Flooding in Akurana has become a usual situation several times a year due to overflowing the main Oya and Wahagala Oya in the city.
 
 ◼️
 
 [Data](articles/fdbe1ad3.json)
+
+[Extended Data](ext_articles/fdbe1ad3.ext.json)
 
 ---
 
@@ -304,17 +322,23 @@ They were also assaulted by the MACCABI soccer group, if MacCabi Tel AVIV.
 
 ---
 
-### ඖෂධ හල් වැසියාමේ අවධානමක් නෑ
+### Drugs are not at risk of Vesia
 
 *2024-11-08 17:00:05* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හල්-වැසියාමේ-අවධානමක්-නෑ/11-412931) · `si`
 
-වාර්ෂික බලපත්‍ර අලුත් කිරිම සඳහා ඖෂධ නියාමන අධිකාරියට යොමුකළ ඉල්ලුම් පත්‍ර රාශියක් ප්‍රතික්ෂේප කිරිම හේතුවෙන් ඖෂධ හල් රාශියක් වැසි යාමේ අවධානමකට ලක්ව ඇති බව පෞද්ගලික ඖෂධ ශාලා හිමිකරුවන්ගේ සංගමයේ සභාපති සඳහන් කළැයි කියමින් පළ වූ වාර්තා ජනතාව නොමග යවන සුළු බව ජාතික ඖෂධ නියාමන අධිකාරිය පවසයි.
+National Pharmaceutical Regulatory Authority denies drug risks. Chairman Dr. Ananda Wijewickrama states no emergency reserves implemented regarding drugs. Regulatory Authority's Association misled by President's Drug Regulatory Authority claims.
 
-එහි සභාපති විශේෂඥ වෛද්‍ය ආනන්ද විජේවික්‍රම මහතා නිවේදනයක් නිකුත් කරමින් පවසන්නේ ඖෂධ හල් බලපත්‍ර ලබාදිම සම්බන්ධයෙන් කිසිඳු හදිසි තිරණයක් ගෙන නොමැති බවත් මේ වෙනුවෙන් ක්‍රියාත්මක ක්‍රම වේදයේද වෙනසක් කර නොමැති බවයි.
+🟩
+
+The National Pharmaceutical Regulatory Authority says that the people 'regulatory Authority's Association (NPF) has been misled by the President's Drug Regulatory Authority.
+
+Chairman of the company, Dr. Ananda Wijewickrama issues a statement saying that no emergency reserves have been made regarding the implementation of drugs.
 
 ◼️
 
 [Data](articles/cc59183f.json)
+
+[Extended Data](ext_articles/cc59183f.ext.json)
 
 ---
 

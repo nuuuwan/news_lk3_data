@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 10:58:50**
+As of **2024-11-08 11:12:02**
 
 ## Newspaper Stats
 
-*Scraped **53,682** Articles*
+*Scraped **53,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,021
 adaderanalk | 6,397
-tamilmirrorlk | 7,477
+tamilmirrorlk | 7,478
 virakesarilk | 8,681
 adaderanasinhalalk | 9,355
 
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,355
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,682 (100.0%) of 53,682 articles have been extended.
+53,682 (100.0%) of 53,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### 4 தங்க பெண்டன்களை களவாடிய பெண் சிக்கினார்
+
+*2024-11-08 10:51:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-தங்க-பெண்டன்களை-களவாடிய-பெண்-சிக்கினார்/175-346767) · `ta`
+
+வர்த்தகர் ஒருவரால் இலங்கைக்கு கொண்டுவரப்பட்ட இருபத்தி ஏழு இலட்சத்து முப்பதாயிரம் ரூபாய் பெறுமதியான 04 தங்கப் பதக்கங்கள் (பெண்டன்கள்) கைப்பற்றப்பட்டுள்ளன.
+
+கட்டுநாயக்க விமான நிலையத்தில் கள​வாடி சென்ற மற்றுமொரு வர்த்தக பெண்ணே கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட இந்த பெண்,  கொழும்பு - 10 ஐ வசிப்பிடமாகக் கொண்ட 45 வயதான இவர் அடிக்கடி விமானங்களில் ஈடுபடுவதுடன் பல்வேறு வகையான பொருட்களை இலங்கைக்கு கொண்டு வந்து விற்பனை செய்யும் தொழிலில் ஈடுபட்டுள்ளார்.
+
+இவர் துபாயிலிருந்து ஸ்ரீலங்கன் எயார்லைன்ஸ் விமானமான UL-226 இல், புதன்கிழமை (06) அன்று காலை 05:00 மணிக்கு கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்துள்ளார்.
+
+அவர் அந்நாட்டில் 118 கிராம் 980 மில்லிகிராம் எடையுள்ள 04 தங்கப் பதக்கங்களை வாங்கியுள்ளார்.
+
+04 பதக்கங்களையும்  காகிதத்தில் சுற்றி ப்ரொன் பேப்பருக்கு வதை்து,  வெளியே சாக்லேட் போல இருக்கும் வகையிலேயே எடுத்து வந்துள்ளார்.
+
+அவர் கொண்டு வந்த மற்ற பொருட்களை விமான நிலைய தள்ளுவண்டியில் ஏற்றி, விமான நிலையத்திற்கு வெளியே கொண்டு செல்ல அவருக்கு தெரிந்த மற்றொரு வர்த்தகரான பெண்ணிடம் கொடுத்துள்ளார்.
+
+...
+
+[Data](articles/09f5f197.json)
+
+---
 
 ### Minister Vijitha suddenly to port
 
@@ -2227,23 +2251,5 @@ A bond maturing on 15.05.2030 closed stable at 12.10/20 percent. (Colombo/Nov07/
 [Data](articles/fb7088c5.json)
 
 [Extended Data](ext_articles/fb7088c5.ext.json)
-
----
-
-### More houses built under Indian grant handed over to beneficiaries
-
-*2024-11-07 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103239/more-houses-built-under-indian-grant-handed-over-to-beneficiaries) · `en`
-
-The High Commissioner of India to Sri Lanka Santosh Jha has inaugurated and handed over the Thiththavelkiwla Model Village in Monaragala to 24 beneficiary families.
-
-The Model Village Housing Project is being implemented in all 25 districts of the island jointly with the Ministry of Rural and Urban Development, Housing and Construction of Sri Lanka with grant support from the Government of India, the High Commission said in a statement.
-
-A Memorandum of Understanding (MoU) between the Government of India and the Government of Sri Lanka was signed for the project in October 2017. The project encompasses housing facilities for 600 low-income families of Sri Lanka, with a model village each consisting of 24 houses per district for families selected by the District Housing Committees, the statement added.
-
-...
-
-[Data](articles/17b890fe.json)
-
-[Extended Data](ext_articles/17b890fe.ext.json)
 
 ---

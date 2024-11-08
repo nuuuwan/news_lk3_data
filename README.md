@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 12:25:46**
+As of **2024-11-08 12:40:16**
 
 ## Newspaper Stats
 
-*Scraped **53,693** Articles*
+*Scraped **53,701** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,021
 adaderanalk | 6,399
 tamilmirrorlk | 7,480
-virakesarilk | 8,681
+virakesarilk | 8,689
 adaderanasinhalalk | 9,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,693 (100.0%) of 53,693 articles have been extended.
+53,700 (100.0%) of 53,701 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,24 @@ The arrested suspect is to be produced before the Colombo Chief Magistrate's Cou
 [Data](articles/e8b35180.json)
 
 [Extended Data](ext_articles/e8b35180.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-11-08 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198173) · `ta`
+
+US Dollar to Rupee exchange rate: 288.1320 buying, 297.1876 selling on Friday, August 8th.
+
+🟩
+
+The US dollar purchasing price was 288.1320 rupees and the sales price were 297.1876 on Friday (08).
+
+◼️
+
+[Data](articles/d8b2b451.json)
+
+[Extended Data](ext_articles/d8b2b451.ext.json)
 
 ---
 
@@ -86,6 +104,38 @@ In this context, 8 wickets received. West Indies was able to win the three-match
 
 ---
 
+### Rajeev Khan uses the ban on the lives of every individual for racist politics for repression for masturbation
+
+*2024-11-08 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198171) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rajeev Khan accuses terrorism laws of racial oppression. Dr. Shafi's daughter faces challenges due to false accusations. Activist calls for complete repeal of terror ban, citing its impact on individuals' lives and personal freedoms.
+
+🟩
+
+Rajkumar Rajiv Khan, a member and social activist of the People's Movement, says that the terrorism law is part of an attempt to distort their lives for repression for racist politics for their masturbation politics for their selfish politics.
+
+Dr. Shafi's daughter Kabo has received 9 siddhas in normal. Many people appreciate him today.
+
+But what happened to him?His father was charged with false accusations and destroying the race that he was making a forced contraception, spreading fake allegations, and the family was unable to bring his life.
+
+Later, the doctor was arrested under the PTA and the student came to Colombo to study from Kurunegala.
+
+He went to Kalmunai to think that he would have a problem again in Colombo. He went from Kalmunai to Kandy.
+
+From the ninth grade to the eleventh grade, he was transferred to four schools and later received 9A standards by his mental illness.
+
+...
+
+[Data](articles/cfcffca3.json)
+
+[Extended Data](ext_articles/cfcffca3.ext.json)
+
+---
+
 ### Female school principal in Ragama arrested for soliciting bribe
 
 *2024-11-08 11:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103254/female-school-principal-in-ragama-arrested-for-soliciting-bribe) · `en`
@@ -97,6 +147,74 @@ The female principal of a school in the Ragama area has been arrested for allege
 [Data](articles/586aec88.json)
 
 [Extended Data](ext_articles/586aec88.ext.json)
+
+---
+
+### Black people fear over Trump's success - Reuters
+
+*2024-11-08 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198164) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Trump's victory alarms black Americans. Many fear loss of civil rights due to Trump's policies. Some celebrate his win, while others express concern about racism and divisive rhetoric.
+
+🟩
+
+Donald Trump's victory in the US presidential election has come as a shock among the black people of the United States.
+
+Donald Trump has voted in favor of Kamala Haris as Donald Trump portrayed Kamala Haris as a black woman.
+
+In North Kolina, Trump got the votes of black people and some of the people of the community celebrated his victory.
+
+However, the number of votes of the black people nationally has not changed, and he received so many votes received in 2020.
+
+The votes of blacks were seen as important as Jobiton's victory in 2020. Kamala Haris was elected as the first Asian US vice president in that election.
+
+Most of the more than 25 black people who shared their views with Royer have expressed fear of Trump's second tenure.
+
+Blacks have expressed fears that Civil Rights may be lost as Trump has announced that it will abandon the Samastopanism and Understanding Plans.
+
+Black people have expressed fear of racism and sexual language used by Trump.
+
+...
+
+[Data](articles/ec64d01a.json)
+
+[Extended Data](ext_articles/ec64d01a.ext.json)
+
+---
+
+### The 13th and 14th of the holidays for schools!
+
+*2024-11-08 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198162) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Schools granted holidays on 13th & 14th due to elections. Resumed on 18th. Educational activities end Nov 12. Schools used as polling stations closed temporarily. Election officials use school facilities.
+
+🟩
+
+The Ministry of Education has announced that it has decided to grant holidays to all schools on the 13th for the preliminary activities as the general election is held on the 14th.
+
+Accordingly, the holidays will be held on Wednesday 13th and Thursday 14th.
+
+Schools will be resumed on the 18th after the election is over. The Ministry has announced the decision to the Elections Commission, Provincial Education Secretaries, Provincial and Zonal Education Directors and the relevant parties.
+
+Accordingly, the schools will be handed over to the respective Grama Niladhari Officers once the educational activities are completed on November 12.
+
+Secretary of the Ministry of Education Mrs. JM Tilaka Jayasundara has requested all the Zonal Education Directors and Principals to provide school desks, rays and halls for election work.
+
+At the request of the Chairman of the Elections Commission, schools used as voting centers will be closed only for a period of time.
+
+◼️
+
+[Data](articles/f80df871.json)
+
+[Extended Data](ext_articles/f80df871.ext.json)
 
 ---
 
@@ -168,6 +286,50 @@ The incident had occurred when the two men were returning home on the motorcycle
 
 ---
 
+### Arrested at the airport for allegedly defrauding large sums of money through a pyramid scheme
+
+*2024-11-08 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198150) · `ta`
+
+Person accused of defrauding 10 billion rupees via pyramid scheme arrested at Katunayake airport after fleeing country. Wife also detained. Suspect returned from Malaysia.
+
+🟩
+
+A person who defrauded large sums of money through the pyramid project was arrested today at the Katunayake airport.
+
+He had fled the country a year ago by defrauding 10 billion rupees from several people through the pyramid scheme.
+
+In this case, the suspect who visited the country from Malaysia today has been arrested at the Katunayake airport.
+
+Meanwhile, police media spokesman Deputy Inspector General of Police Nihal Dalduwa said that his wife was also arrested at the airport to welcome the suspect.
+
+◼️
+
+[Data](articles/7af863f5.json)
+
+[Extended Data](ext_articles/7af863f5.ext.json)
+
+---
+
+### Appreciation to the retired Air Force officer who handed over the missing object and money to the owner
+
+*2024-11-08 11:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198160) · `ta`
+
+Retired Air Force officer returns lost wallet with bank cards and over Rs 15 lakh. Honored by Air Force Commander Udheni Rajapaksa. Recognized as model citizen.
+
+🟩
+
+Air Force Commander Air Marshal Udheni Rajapaksa directly congratulated RU Seneviratne, a retired Air Force officer, RU Seneviratne, who was the paradigm of the landlord of the missing wallet with a bank cards and money worth more than Rs 15 lakh.
+
+The Air Force Commander, who recently assigned the Air Force Commander's retired officer, who was the paradigm of the bus owner from Colombo to Horana, was honored by the Air Force Headquarters and presented him to the Air Force headquarters.
+
+◼️
+
+[Data](articles/36a6763b.json)
+
+[Extended Data](ext_articles/36a6763b.ext.json)
+
+---
+
 ### Sri Lanka sells extra Rs3bn Treasury bills after auction
 
 *2024-11-08 10:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs3bn-treasury-bills-after-auction-186599/) · `en`
@@ -183,6 +345,32 @@ Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
 [Data](articles/5a2228f9.json)
 
 [Extended Data](ext_articles/5a2228f9.ext.json)
+
+---
+
+### The president, who has said that he will solve the problems of the people
+
+*2024-11-08 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198158) · `ta`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake fails to deliver promised price reductions and public servant salary increases. Sajith Premadasa criticizes lack of progress on fuel price reform, electricity tariffs, education funding, and scholarships. United People's Power claims to offer better solutions for citizens' problems.
+
+🟩
+
+President Anura Kumara Dissanayake gives many beliefs to the nation and today deceives the expectations of the people during his administration today. After taking office as president, he made many promises that the prices of goods, food, beverages, fuel prices, electricity bills, tax cuts and public servants' salary would be increased every 6 months every 6 months.. However, the expectation of the people is the moment of the moment. Sajith Premadasa said that the problems of the people should be given quick solutions.
+
+United People's Power President Sajith Premadasa said this while addressing a public meeting held in Kolonnawa area on Thursday (07).
+
+These innocent people were waiting for the regime that would reduce the burden of life, in the absence of a downside of livelihoods, livelihoods, and livelihoods, and livelihoods.. Today, such an era has not been created by new rulers in the country.
+
+...
+
+[Data](articles/abc85269.json)
+
+[Extended Data](ext_articles/abc85269.ext.json)
 
 ---
 
@@ -245,6 +433,22 @@ The central bank announced Rs 85,000 million Treasury Bonds under the series of 
 [Data](articles/e0876f87.json)
 
 [Extended Data](ext_articles/e0876f87.ext.json)
+
+---
+
+### யாழில் ஹெரோயின் போதைப்பொருளுடன் சந்தேகநபர் கைது !
+
+*2024-11-08 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198155) · `ta`
+
+கொட்டடி பகுதியை சேர்ந்த 22 வயதான இளைஞனே நேற்று வியாழக்கிழமை (07) கைது செய்யப்பட்டுள்ளார் .
+
+யாழ் . மாவட்ட குற்றத்தடுப்பு பொலிஸ் பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் அடிப்படையில், கொட்டடி பகுதியை சேர்ந்த இளைஞனை கைதுசெய்து சோதனையிட்ட போது அவரது உடைமையில் இருந்து 120 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மீட்கப்பட்டுள்ளது.
+
+அதனை அடுத்து இளைஞனை கைது செய்த பொலிஸார், பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/c8128b1d.json)
 
 ---
 
@@ -2091,181 +2295,5 @@ It is demanding an inquiry into the arrest and arresting herself to arrest him a
 [Data](articles/290d325e.json)
 
 [Extended Data](ext_articles/290d325e.ext.json)
-
----
-
-### Former President Maithripala's writ petition hearing
-
-*2024-11-07 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203011) · `si`
-
-Former President Maithripala Sirisena's writ petition hearing: Court of Appeal case regarding a personal complaint filed against him. Hearing postponed until December 17th.
-
-🟩
-
-Fort President Maithripala Sirisena, who filed a terminal order to issue a sense of scholarship order issued by the Circular Court, was taken up before the Court of Appeal today (7).
-
-He had filed a criminal offense against the complaint filed against the complaint against former President Maithripala Sirisena.
-
-Cyril Gamini, Fr. and the attack, is a victim of the attack. The private complaint was filed before the Fort Magistrate's Court by Jeshazan.
-
-The Rit Petroleum presented by former President Maithripala Sirisena against the personal complaint was called before the five-member Supreme Court Bench, led by Sobhitha Rajakaruna.
-
-President's Counsel Faiz Mustapha stated that his client was released as a suspect before the Fort Magistrate's Court as a suspect before the Fort Magistrate's Court.
-
-The President's Counsel alleged that the order has been issued by the Magistrate without evaluation.
-
-...
-
-[Data](articles/b064cb6c.json)
-
-[Extended Data](ext_articles/b064cb6c.ext.json)
-
----
-
-### Warning of the Department of Meteorology
-
-*2024-11-07 17:24:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-எச்சரிக்கை/175-346731) · `ta`
-
-Severe thunderstorms warning: Northern/North Central provinces, Trincomalee, Batticaloa, Matale. Strong winds possible. Public advised to take precautions against lightning impacts.
-
-🟩
-
-The Department of Meteorology has warned that many districts will have a severe impact on lightning today.
-
-Accordingly, there is a possibility of severe thunderstorms in the Northern and North Central Provinces and Trincomalee, Batticaloa and Matale districts.
-
-The Department of Meteorology has warned that temporarily strong winds may blow during thunderstorms.
-
-The public is asked to take adequate precautions to reduce the effects of lightning impacts. Remble
-
-◼️
-
-[Data](articles/1593b5a1.json)
-
-[Extended Data](ext_articles/1593b5a1.ext.json)
-
----
-
-### Released High Security Areas As Future Development Hubs
-
-*2024-11-07 17:14:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/released-high-security-areas-as-future-development-hubs/) · `en`
-
-This policy paper proposes a strategic framework for agricultural development in the Tellipalai Divisional Secretariat (DS) Division newly released areas, inspired by the National People’s Power (NPP) Agriculture Policy. By focusing on food security, sustainable practices, technological integration, and farmer empowerment, this policy aims to enhance agricultural productivity while ensuring resilience against economic and environmental challenges. Key components include GIS mapping of land released, land clearing, disaster mitigation, promoting organic farming, and establishing strong public-private partnerships to drive investment and innovation.
-
-...
-
-[Data](articles/5dd0ecfa.json)
-
-[Extended Data](ext_articles/5dd0ecfa.ext.json)
-
----
-
-### The government cannot travel forward with the stands against the media - Dalus
-
-*2024-11-07 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198133) · `ta`
-
-Government threatens media freedom, opposition criticizes suppression. Media essential for democracy. Threats undermine democratic progress.
-
-🟩
-
-The government cannot travel forward with the stands against the media. Don't expect anything, including democracy in a country without media freedom. Former parliamentarian Dullas Alahapperuma said this may be the beginning of the country's destruction.
-
-He further stated that this was at a press conference held at the United People's Alliance office in Colombo on Thursday (07).
-
-The current government has a massive threat to the media. President Anura Kumara Dissanayake threatened the media for the first time. He noted that the media should wear new clothes.
-
-In addition, Minister Vijitha Herath, who is responsible for the department, said that the media should experience uncontrolled freedom and reduce it.. This is something we heard every day. During his speech on the election platform before coming to power, they even said that some media outlets would have to be closed after we arrived.
-
-...
-
-[Data](articles/dda5d9ae.json)
-
-[Extended Data](ext_articles/dda5d9ae.ext.json)
-
----
-
-### How to reduce electricity tariffs without appointing the Commission
-
-*2024-11-07 16:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198131) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Government claims to reduce electricity tariffs but lacks authority without Public Utilities Commission. CEB Secretary and General Manager violate laws. Legal action threatened against them. Tariff reduction unlikely until Commission appointed.
-
-🟩
-
-Public Utilities cannot reduce electricity tariff without appointing the Chairman and Commissioners of the Commission. The government is deceiving people to take steps to reduce electricity tariffs. Electricity tariffs will not be reduced in December. Also, the Secretary of the Ceylon and the General Manager violates the Ceylon Electricity Board. Kanjana Wijesekera, a former Matara district candidate of the new Democratic Front and the former Minister of Energy and Renewal, said that legal action would be taken against them.
-
-He was speaking at a press conference held at the New Democratic Front's Election Office in Colombo on Thursday (07).
-
-...
-
-[Data](articles/c2d22b19.json)
-
-[Extended Data](ext_articles/c2d22b19.ext.json)
-
----
-
-### Court calls for progress report on investigations into death of ‘Makandure Madush’
-
-*2024-11-07 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103242/court-calls-for-progress-report-on-investigations-into-death-of-makandure-madush) · `en`
-
-A motion has been filed with the Colombo Magistrate’s Court seeking an order to hand over the investigations into the death of infamous underworld figure and drug lord ‘Makandure Madush’, who was allegedly killed in a crossfire between police and suspected underworld figures while in police custody, to the Criminal Investigations Department (CID).
-
-A motion filed by a group of attorneys who appeared for the rights of the victim was taken up before Colombo Additional Magistrate Manjula Rathnayake today (07).
-
-Appearing for the rights of the victim, Attorney-at-Law Senaka Perera stated before the court that a formal investigation has not been carried out regarding the death of his client as of yet.
-
-Accordingly, he requested the court to issue an order handing over the relevant investigations to the CID.
-
-...
-
-[Data](articles/b1d8632d.json)
-
-[Extended Data](ext_articles/b1d8632d.ext.json)
-
----
-
-### New Ambassadors handed over the credentials
-
-*2024-11-07 16:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-தூதுவர்கள்-நற்சான்று-பத்திரங்களை-கையளித்தனர்/175-346729) · `ta`
-
-Egyptian and Japanese ambassadors handed over credentials to Sri Lankan President Anura Kumara Dissanayake at Presidential Office. They engaged in discussions after the ceremony.
-
-🟩
-
-Two newly officially appointed Ambassadors to Sri Lanka today (07) handed over their bodies to President Anura Kumara Dissanayake at the Presidential Office.
-
-Ambassador of the Arab Republic of Egypt, Adel Ibrahim and Japanese Ambassador, Isomata Akio, have been appointed as Ambassador to Sri Lanka. After handing over the credentials, they engaged in a smooth discussion with the president.
-
-◼️
-
-[Data](articles/fa9458aa.json)
-
-[Extended Data](ext_articles/fa9458aa.ext.json)
-
----
-
-### Dilith Jayaweera on why NPP govt cannot fulfill its promises
-
-*2024-11-07 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103241/dilith-jayaweera-on-why-npp-govt-cannot-fulfill-its-promises) · `en`
-
-The leader of the ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate Dilith Jayaweera claims that the National People’s Power (NPP) has failed to fulfil its promises to the people as they lacked the proper understanding of how to fulfil them.
-
-He stated this while addressing a public meeting held in the Kandasurindugama area in Negombo last evening (06).
-
-Jayaweera said the ‘Sarvajana Balaya’ alliance is not engaging in politics based on promises and that their focus is on a type of politics that is about only speaking about what is definitely achievable.
-
-He highlighted that their wish is to provide guidance to the President and alleged that many of the President’s promises have remained unfulfilled as they were never attainable.
-
-“They promised to reduce the electricity bills by 40%. It cannot be done. They said they’ll slash petrol price to Rs. 200. But in the end, only Octane 95 which is used by the wealthy was reduced. You got nothing,” he said.
-
-...
-
-[Data](articles/b4a92996.json)
-
-[Extended Data](ext_articles/b4a92996.ext.json)
 
 ---

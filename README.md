@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 23:40:52**
+As of **2024-11-09 00:00:14**
 
 ## Newspaper Stats
 
-*Scraped **53,783** Articles*
+*Scraped **53,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 419
 bbccomsinhala | 548
 colombotelegraphcom | 551
 islandlk | 3,209
-economynextcom | 3,260
+economynextcom | 3,267
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,030
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,783 (100.0%) of 53,783 articles have been extended.
+53,789 (100.0%) of 53,790 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -340,6 +340,24 @@ The National Building Research Institute said that if the rain continues to the 
 
 ---
 
+### Sri Lanka sees 150 Israeli tourists in first 5 days of November despite advisories: data
+
+*2024-11-08 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-150-israeli-tourists-in-first-5-days-of-november-despite-advisories-data-186693/) · `en`
+
+ECONOMYNEXT – Sri Lanka has received 150 tourists from Israel in the first five days of November, official government data showed, weeks after threats over possible attack on a Eastern coastal tourism hotspot where more Israeli tourists gather.
+
+The number of tourists from Israel has increased to 22,063 as of November 5, compared to 21,913 at the end of October 31, the latest weekly tourism data showed.
+
+Israel on October 23 asked its citizens to avoid non-essential travel to Sri Lanka, leave coastal tourist areas including Arugam Bay and stop overt displays of Hebrew language in clothes or other signs that could lead to identification, following the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack.
+
+...
+
+[Data](articles/59be797d.json)
+
+[Extended Data](ext_articles/59be797d.ext.json)
+
+---
+
 ### Aussie. International ODIs for Pakistan 7 years later in the soil
 
 *2024-11-08 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198227) · `ta`
@@ -619,6 +637,28 @@ President Dissanayake added that instructions have already been issued to divisi
 [Data](articles/f284a5a7.json)
 
 [Extended Data](ext_articles/f284a5a7.ext.json)
+
+---
+
+### Sri Lanka rupee closes flat at 292.50/65 to dollar, bonds down
+
+*2024-11-08 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-292-50-65-to-dollar-bonds-down-186679/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed broadly steady at 292.50/65 to the US dollar Friday from 292.55/65 to the US dollar on Thursday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.40/55 percent, down from 10.40/60 percent.
+
+A bond maturing on 15.12.2027 closed at 11.30/35 percent, down from 11.30/45 percent.
+
+A bond maturing on 15.03.2028 closed at 11.55/60 percent, down from 11.65/70 percent.
+
+The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
+
+◼️
+
+[Data](articles/fc295580.json)
+
+[Extended Data](ext_articles/fc295580.ext.json)
 
 ---
 
@@ -1110,6 +1150,32 @@ Accordingly, Haldummulla, Passara and Hali Canal, Galle District, Pathapuragala,
 
 ---
 
+### Samanmalee Chandrasiri appointed to Ceylon Tobacco Company Board
+
+*2024-11-08 16:24:00* · [`economynextcom`](https://economynext.com/samanmalee-chandrasiri-appointed-to-ceylon-tobacco-company-board-186651/) · `en`
+
+ECONOMYNEXT – Samanmalee Priyanvada Chandrasiri has been appointed non-executive director to the Ceylon Tobacco Company PLC (CTC) Board of Directors, the company said.
+
+She is a globally experienced HR professional with nearly two decades of HR expertise.
+
+Chandrasiri has an MBA from Edith Cowan University and a BSc in Management from the University of London.
+
+Starting her career in 2006 with HR business partnering roles at BAT Sri Lanka, Samanmalee worked across marketing, supply chain, and corporate functions.
+
+As BAT South Asia Area Head of Talent she managed talent strategies across Pakistan, Bangladesh, and Sri Lanka. This led to her position as Organisation Effectiveness Advisor in BAT Indonesia.
+
+She served as HR Director for BAT Sri Lanka (Ceylon Tobacco Company PLC) and for Malaysia and Singapore.
+
+She assumed duties as Group Head of Organisation Effectiveness and Talent Management in July 2019, operating from London.
+
+...
+
+[Data](articles/d1647fb1.json)
+
+[Extended Data](ext_articles/d1647fb1.ext.json)
+
+---
+
 ### New circular on the use of WhatsApp for school learning
 
 *2024-11-08 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203043) · `si`
@@ -1229,6 +1295,30 @@ The Magistrate issued these orders after considering the suspects to be remanded
 [Data](articles/590fe269.json)
 
 [Extended Data](ext_articles/590fe269.ext.json)
+
+---
+
+### Sri Lanka stocks close up, turnover Rs2bn
+
+*2024-11-08 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs2bn-184752/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
+
+The broader ASPI closed up 0.57 percent, or 72.67 points, at 12,800; while the more liquid S&P SL20 Index closed up 0.20 percent, or 7.50 points, at 3,831.
+
+Top turnover generators were Royal Ceramics Lanka (up at 32.90), Dipped Products (up at 42.20), Lanka Milk Foods (up at 33.50), John Keells Holdings (down at 21.20), and Sampath Bank (up at 89.00).
+
+Top contributors to the ASPI included Ceylinco Holdings (up at 2,500.00), Bukit Darah (up at 457.00), and Nations Trust Bank (140.50).
+
+Other banking stocks saw mixed sentiments; Hatton National Bank (down at 226.75), Commercial Bank (up at 115.00), DFCC Bank (up at 82.70) and National Development Bank (flat at 84.40).
+
+Foreign buying interest was seen in CIC Holdings non-voting (up at 60.00), Royal Ceramics Lanka, Sampath Bank, Dipped Products, Kelani Valley Plantations (up at 77.50), and Windforce (up at 21.60).
+
+...
+
+[Data](articles/e2976e93.json)
+
+[Extended Data](ext_articles/e2976e93.ext.json)
 
 ---
 
@@ -1443,6 +1533,32 @@ This malware uses Android Axisphile Services. It seems that the phone is not act
 [Data](articles/08cad8c9.json)
 
 [Extended Data](ext_articles/08cad8c9.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices down 0.04-pct, after hitting all time high
+
+*2024-11-08 15:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-0-04-pct-after-hitting-all-time-high-186604/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices fell from 100,000.00 to 99,959.25 for 1,000 nuts at an auction on November 7, data from the Coconut Development Authority showed.
+
+The highest price was 100,000 for 1,000 nuts while the lowest was 95,000 for 1,000 nuts, at the weekly auction conducted by the CDA.
+
+A total of 641,724 coconuts were offered at the auction and 574,938 were sold.
+
+Wholesale prices were 100-110 rupees for large nuts and 85 to 90 rupees for small nuts on November 07.
+
+Farmgate prices in Kurunegala were 100,000 to 105,000 per 1,000 nuts.
+
+Coconut oil was 720,000.00 to 740,000.00 rupees per metric ton.
+
+Coconut shells were 39,000 to 41,000 rupees per metric ton. (Colombo/Nov8/2024)
+
+◼️
+
+[Data](articles/5b1ee105.json)
+
+[Extended Data](ext_articles/5b1ee105.ext.json)
 
 ---
 
@@ -1733,6 +1849,34 @@ In 1998, the bullets seized by the police and handed over to the court, the poli
 [Data](articles/9189cfe7.json)
 
 [Extended Data](ext_articles/9189cfe7.ext.json)
+
+---
+
+### Election commission urges Sri Lankans to vote
+
+*2024-11-08 14:00:00* · [`economynextcom`](https://economynext.com/election-commission-urges-sri-lankans-to-vote-186605/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Elections Commission is urging voters to show up and vote in the parliamentary election on November 14.
+
+“Voting is your constitutional right. So it is your duty to exercise that right,” Elections Commission Chairman R M A L Rathnayake said on Friday (8).
+
+Over 3.5 million citizens eligible to vote, did not vote in the 2024 Presidential Election.
+
+He urged voters to visit their polling stations between 7 am and 4 pm on November 14.
+
+Sri Lanka will choose 225 representatives for its 10th Parliament. The new Parliament is scheduled to meet on November 21.
+
+The silent period, when all campaigning ceases, will begin at midnight on November 11, Rathnayake said.
+
+Campaigning by those seeking to get elected to the country’s Parliament has been minimal compared to previous years.
+
+“Postal voting  has concluded, and we have finished distributing polling cards.
+
+...
+
+[Data](articles/179e26d7.json)
+
+[Extended Data](ext_articles/179e26d7.ext.json)
 
 ---
 
@@ -2176,6 +2320,24 @@ Black people have expressed fear of racism and sexual language used by Trump.
 
 ---
 
+### Sri Lanka extends date to return small arms
+
+*2024-11-08 11:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-extends-date-to-return-small-arms-186601/) · `en`
+
+ECONOMYNEXT – The Ministry of Defence said it has given a two-week extension for returning firearms and ammunition provided to civilians for personal protection.
+
+Last month, all licensees were informed to return their firearms and ammunition, issued for personal protection, to the Commercial Explosive Firearms and Ammunition Procurement Unit (CEFAP) at the Sri Lanka Navy camp in Welisara before November 7.
+
+“However, in response to requests from various parties, including licensees currently abroad and due to insufficient time to notify all licensees through formal letters, the Ministry of Defence has decided to extend the deadline for the return of firearms and ammunition from 07.11.2024 to 21.11.2024,” the ministry said in a statement.
+
+All licensees will be formally notified of this extension in writing. (Colombo/Nov8/2024)
+
+◼️
+
+[Data](articles/b27cdf6b.json)
+
+---
+
 ### The 13th and 14th of the holidays for schools!
 
 *2024-11-08 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198162) · `ta`
@@ -2335,185 +2497,5 @@ Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
 [Data](articles/5a2228f9.json)
 
 [Extended Data](ext_articles/5a2228f9.ext.json)
-
----
-
-### The president, who has said that he will solve the problems of the people
-
-*2024-11-08 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198158) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake fails to deliver promised price reductions and public servant salary increases. Sajith Premadasa criticizes lack of progress on fuel price reform, electricity tariffs, education funding, and scholarships. United People's Power claims to offer better solutions for citizens' problems.
-
-🟩
-
-President Anura Kumara Dissanayake gives many beliefs to the nation and today deceives the expectations of the people during his administration today. After taking office as president, he made many promises that the prices of goods, food, beverages, fuel prices, electricity bills, tax cuts and public servants' salary would be increased every 6 months every 6 months.. However, the expectation of the people is the moment of the moment. Sajith Premadasa said that the problems of the people should be given quick solutions.
-
-United People's Power President Sajith Premadasa said this while addressing a public meeting held in Kolonnawa area on Thursday (07).
-
-These innocent people were waiting for the regime that would reduce the burden of life, in the absence of a downside of livelihoods, livelihoods, and livelihoods, and livelihoods.. Today, such an era has not been created by new rulers in the country.
-
-...
-
-[Data](articles/abc85269.json)
-
-[Extended Data](ext_articles/abc85269.ext.json)
-
----
-
-### 4 golden pendons stolen the woman caught
-
-*2024-11-08 10:51:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/4-தங்க-பெண்டன்களை-களவாடிய-பெண்-சிக்கினார்/175-346767) · `ta`
-
-Gold medals theft: Woman caught at Katunayake airport with 730k rupees worth of stolen pendants. Arrested businessman involved in smuggling goods to Sri Lanka.
-
-🟩
-
-Twenty -seven hundred and thirty thousand rupees worth of gold medals (pendons) have been seized by a businessman.
-
-Another businessman has been arrested at the Katunayake airport.
-
-The woman, who was arrested, is a 45 -year -old resident of Colombo - 10, and is frequent flights and is involved in the business of bringing a variety of goods to Sri Lanka.
-
-He arrived at the Katunayake airport at 05:00 am on Wednesday (06) at Sri Lanka Airlines flight from Dubai.
-
-He has bought 04 gold medals weighing 118 grams of 980 milligrams in the country.
-
-He has taken 04 medals around the paper to the brown paper and taken to the outside of chocolate.
-
-The other items he brought were loaded into the airport trolley and gave him another businessman who knew her to be taken out of the airport.
-
-There, the gold medals he bought were placed in a small container in Brown Paper Bye trolley.
-
-A 43 -year -old businessman, a resident of Wellampitiya, Methotamulla, is engaged in selling various goods by air.
-
-...
-
-[Data](articles/09f5f197.json)
-
-[Extended Data](ext_articles/09f5f197.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 292.68/75 to dollar, bond yields down
-
-*2024-11-08 10:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-292-68-75-to-dollar-bond-yields-down-186590/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 292.68/75 to the US dollar Friday, dealers said, from 292.55/65 Thursday, while bond yields were considerably down.
-
-A bond maturing on 15.12.2026 was quoted at 10.45/55 percent, down from 10.40/60 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.30/35 percent, down from 11.30/45 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.58/60 percent, down from 11.80/86 percent.
-
-A bond maturing on 15.10.2028 was quoted at 11.75/78 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
-
-A bond maturing on 15.05.2030 was quoted at 12.15/20 percent, down from 12.10/20 percent.
-
-The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
-
-...
-
-[Data](articles/e0876f87.json)
-
-[Extended Data](ext_articles/e0876f87.ext.json)
-
----
-
-### Suspect arrested for heroin drugs in Jaffna
-
-*2024-11-08 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198155) · `ta`
-
-Heroin suspect arrested in Jaffna: 22-year-old from Kotadi seized 120mg drugs, detained at police station.
-
-🟩
-
-A 22 -year -old youth from Kotadi was arrested yesterday (07).
-
-Yall. Based on the confidential information available to the District Crime Police Division, a youth from Kottadi area was arrested and searched by 120 milligrams of heroin.
-
-Following this, police arrested the youth and detained the police station.
-
-◼️
-
-[Data](articles/c8128b1d.json)
-
-[Extended Data](ext_articles/c8128b1d.ext.json)
-
----
-
-### Minister Vijitha suddenly to port
-
-*2024-11-08 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203030) · `si`
-
-Minister Vijitha Herath investigates port issues, including 2-year container clearance delays. Officials cite procedural irregularities, drunkenness, and corruption affecting operations. Minister urged to ensure smooth clearance without bribery.
-
-🟩
-
-Minister Vijitha Herath visited the port yesterday (07) to investigate the port issues, including container clearance delay.
-
-The officials pointed out that the container clearance delay has been severely inconvenienced due to a period of 2 years.
-
-They also pointed out that although all methods were following all the procedures about two or three years ago, about 1,800 directories were able to depart from the port.
-
-However, they said that there are many irregularities at the port of the port of the container and that a token number is not out of the respective port.
-
-It also revealed that some of the services were drinking and working on alcohol and take part of the duties and participating in funeral emerts.
-
-Therefore, officials urged the Minister to facilitate their freedom clearance without corruption.
-
-◼️
-
-[Data](articles/01cc0907.json)
-
-[Extended Data](ext_articles/01cc0907.ext.json)
-
----
-
-### Holidays for all schools across the country
-
-*2024-11-08 10:26:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-அனைத்து-பாடசாலைகளுக்கும்-விடுமுறை/175-346765) · `ta`
-
-Schools nationwide close 13th-14th reopen 18th.
-
-🟩
-
-All state schools across the country will be closed on the 13th and 14th, the Ministry of Education said.
-
-Meanwhile, schools will be opened again on the 18th of this month. Remble
-
-◼️
-
-[Data](articles/e13454f3.json)
-
-[Extended Data](ext_articles/e13454f3.ext.json)
-
----
-
-### Schools closed on Nov 13 and 14 for General Election
-
-*2024-11-08 10:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103252/schools-closed-on-nov-13-and-14-for-general-election) · `en`
-
-The Ministry of Education (MoE) has announced that all schools across the island will remain closed on November 13 and 14 due to the 2024 General Election.
-
-The 2024 parliamentary election is scheduled to be held on November 14 (Thursday).
-
-Accordingly, the schools which are to be used as polling stations are required to be handed over to the relevant Grama Niladhari Officers after school hours on November 12
-
-All Zonal Education Directors and school principals have been notified to provide the necessary tables, chairs, and hall facilities for the polling station operations.
-
-Additionally, upon the request from the Chairman of the Election Commission, the Ministry of Education (MoE) has informed that schools used as counting centers will only remain closed during the time period specified in the relevant document.
-
-◼️
-
-[Data](articles/601969cb.json)
-
-[Extended Data](ext_articles/601969cb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 02:25:01**
+As of **2024-11-09 02:40:33**
 
 ## Newspaper Stats
 
-*Scraped **53,805** Articles*
+*Scraped **53,806** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,030
 adaderanalk | 6,410
 tamilmirrorlk | 7,499
-virakesarilk | 8,711
+virakesarilk | 8,712
 adaderanasinhalalk | 9,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,805 (100.0%) of 53,805 articles have been extended.
+53,805 (100.0%) of 53,806 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -323,6 +323,24 @@ We are deeply concerned about the recent remarks made by Minister Vijitha Herath
 [Data](articles/87d4d386.json)
 
 [Extended Data](ext_articles/87d4d386.ext.json)
+
+---
+
+### 3,249 ஓட்டுநர் உரிமங்கள் தற்காலிகமாக ரத்து - மோட்டார் போக்குவரத்து திணைக்களம்
+
+*2024-11-08 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198233) · `ta`
+
+இந்த வருடத்தில் நீதிமன்றங்களால் 3,249 ஓட்டுநர் உரிமங்கள் தற்காலிகமாக ரத்து செய்யப்பட்டுள்ளதாக மோட்டார் போக்குவரத்து திணைக்களம் தெரிவித்துள்ளது.
+
+மோட்டார் போக்குவரத்து திணைக்கள பணிப்பாளர் நாயகம் நிஷாந்த அனுருத்த வீரசிங்க இதனை உறுதிப்படுத்தியுள்ளார்.
+
+சாரதிகள் மேற்கொண்ட பல்வேறு குற்றங்களுக்கு எதிராக நீதிமன்றங்களால் நடத்தப்பட்ட வழக்கு விசாரணைகளின் போது குறித்த சாரதி அனுமதிப்பத்திரங்கள் தற்காலிகமாக ரத்து செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+அதிக சாலை விபத்துகளுக்கு முக்கிய காரணம் கவனக்குறைவாக வாகனம் ஓட்டுவதும், வாகனங்கள் சரியான தரத்தில் இல்லாததும் ஆகும். கொழும்பு பல்கலைக்கழகத்தின் சமூகவியல் துறையின் பேராசிரியர் மொஹமட் மஹிஷ் இதனை வெளிப்படுத்தியமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/ce111fc7.json)
 
 ---
 
@@ -2387,41 +2405,5 @@ The Court of Appeal issued the Court after considering a Rit petition filed for 
 [Data](articles/a539588f.json)
 
 [Extended Data](ext_articles/a539588f.ext.json)
-
----
-
-### Trump begins work - Greeting up
-
-*2024-11-08 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203034) · `si`
-
-Here's a 200-character summary:
-
-
-
-Donald Trump becomes US president, first head of White House. Key role: sets daily schedule, connects with government agencies. Putin congratulates Trump on his victory.
-
-🟩
-
-Donald Trump, who was appointed president of the US, has been appointed as the Head of White House for the first time in political history of political history.
-
-The Susan Weils was a major consultant in his election campaign.
-
-The Head of the White House is the main position of US president's staff.
-
-The president is a positive impact on the president and with a decisive authority regarding his everyday duties.
-
-It is a major responsibility of the post to set up the president's daily schedule and connect with other government departments and lawmakers.
-
-Meanwhile, Russian President Vladmini Poutin greeted in Donald Trump's victory, foreign media reports say.
-
-Putin had been ready to discuss with Trump.
-
-2024 The US presidential election will commence duties as 47th January 20, 2025 as 47th January 20, 2024.
-
-◼️
-
-[Data](articles/85254221.json)
-
-[Extended Data](ext_articles/85254221.ext.json)
 
 ---

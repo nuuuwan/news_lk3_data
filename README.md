@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 11:24:32**
+As of **2024-11-08 11:40:47**
 
 ## Newspaper Stats
 
-*Scraped **53,683** Articles*
+*Scraped **53,685** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,256
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,021
-adaderanalk | 6,397
+adaderanalk | 6,398
 tamilmirrorlk | 7,478
 virakesarilk | 8,681
-adaderanasinhalalk | 9,355
+adaderanasinhalalk | 9,356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,683 (100.0%) of 53,683 articles have been extended.
+53,683 (100.0%) of 53,685 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### පාසලේදී අල්ලස් ගත් විදුහල්පතිනිය අත්අඩංගුවට
+
+*2024-11-08 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203032) · `si`
+
+රුපියල් 150,000ක් අල්ලස් වශයෙන් ඉල්ලා ලබාගත් රාගම ප්‍රදේශයේ ප්‍රාථමික පාසලක විදුහල්පතිනියක් ඊයේ (7) පස්වරුවේ අත්අඩංගුවට ගෙන තිබේ.
+
+රාගම, මත්තුමගල ප්‍රදේශයේ කාන්තාවක විසින් කරන ලද පැමිණිල්ලකට අනුව අල්ලස් හෝ දූෂණ චෝදනා විමර්ශන කොමිෂන් සභාවේ විමර්ශන නිලධාරීන් විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+අදාළ විදුහල්පතිනිය පැමිණිලිකාරියගේ දරුවා 2025 වර්ෂයේ දී පළමු ශ්‍රේණියට ඇතුළත්කර ගැනීම සඳහා මෙම මුදල් අල්ලස් වශයෙන් ඉල්ලා තිබේ.
+
+එම මුදල එම විදුහලේ පාසලේ කාර්යාලයේදී ඊයේ ප.ව. 4.00ට පමණ  ලබාගැනීමේදී ඇයව මෙලෙස අත්අඩගුවට පත්ව ඇත.
+
+අත්අඩංගුවට ගන්නා ලද සැකකාරිය කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/37b679b4.json)
+
+---
+
+### Motorcycle pillion rider killed by lightning strike
+
+*2024-11-08 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103253/motorcycle-pillion-rider-killed-by-lightning-strike) · `en`
+
+The pillion rider of two persons who were travelling on a motorcycle was struck by lightning in Eravur last evening (07).
+
+The pillion rider has died after being struck by lightning while the motorcycle rider was not injured from the incident, according to police.
+
+Accordingly, an investigation was launched by Eravur Police following information received that a person had been killed by a lightning strike last evening (7) in the Perumeli Kandan area in the Eravur police division.
+
+The deceased has been identified as a 57-year-old resident of Vantharumoolai area, police said.
+
+The incident had occurred when the two men were returning home on the motorcycle from a paddy field in the Uppodaya area.
+
+◼️
+
+[Data](articles/87ec5914.json)
+
+---
 
 ### 4 golden pendons stolen the woman caught
 
@@ -121,6 +161,12 @@ Meanwhile, schools will be opened again on the 18th of this month. Remble
 The Ministry of Education (MoE) has announced that all schools across the island will remain closed on November 13 and 14 due to the 2024 General Election.
 
 The 2024 parliamentary election is scheduled to be held on November 14 (Thursday).
+
+Accordingly, the schools which are to be used as polling stations are required to be handed over to the relevant Grama Niladhari Officers after school hours on November 12
+
+All Zonal Education Directors and school principals have been notified to provide the necessary tables, chairs, and hall facilities for the polling station operations.
+
+Additionally, upon the request from the Chairman of the Election Commission, the Ministry of Education (MoE) has informed that schools used as counting centers will only remain closed during the time period specified in the relevant document.
 
 ◼️
 
@@ -2219,47 +2265,5 @@ There was a net foreign inflow of 45 million rupees.  (Colombo/Nov7/2024)
 [Data](articles/17790195.json)
 
 [Extended Data](ext_articles/17790195.ext.json)
-
----
-
-### Ambassadors of Egypt, Japan present credentials to Sri Lanka President
-
-*2024-11-07 16:17:00* · [`economynextcom`](https://economynext.com/ambassadors-of-egypt-japan-present-credentials-to-sri-lanka-president-186539/) · `en`
-
-ECONOMYNEXT – Ambassador of Egypt to Sri Lanka Adel Ibrahim, and the Ambassador of Japan to Sri Lanka Isomata Akio, have presented credentials to President Anura Dissanayake.
-
-The two ambassadors presented credentials on Thursday (7), the president’s media said.
-
-Following the ceremony they discussed potential areas of collaboration with President Dissanayake. (Colombo/Nov7/2024)
-
-◼️
-
-[Data](articles/537fb11d.json)
-
-[Extended Data](ext_articles/537fb11d.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.55/65 to dollar, bonds down
-
-*2024-11-07 16:17:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-55-65-to-dollar-bonds-down-186553/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.55/65 to the US dollar Thursday from 292.80/90 to the US dollar on Wednesday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.40/60 percent, down from 10.50/65 percent.
-
-A bond maturing on 15.12.2027 closed stable at 11.30/45 percent.
-
-A bond maturing on 15.03.2028 closed stable at 11.65/70 percent.
-
-A bond maturing on 15.12.2028 closed stable at 11.80/85 percent.
-
-A bond maturing on 15.05.2030 closed stable at 12.10/20 percent. (Colombo/Nov07/2024)
-
-◼️
-
-[Data](articles/fb7088c5.json)
-
-[Extended Data](ext_articles/fb7088c5.ext.json)
 
 ---

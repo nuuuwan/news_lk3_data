@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 16:13:13**
+As of **2024-11-08 16:24:39**
 
 ## Newspaper Stats
 
-*Scraped **53,731** Articles*
+*Scraped **53,732** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,45 @@ adalk | 5,025
 adaderanalk | 6,402
 tamilmirrorlk | 7,490
 virakesarilk | 8,695
-adaderanasinhalalk | 9,364
+adaderanasinhalalk | 9,365
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,725 (100.0%) of 53,731 articles have been extended.
+53,727 (100.0%) of 53,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Couple remanded for pyramid racket
+
+*2024-11-08 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203042) · `si`
+
+Colombo Magistrate's Court remands couple for alleged pyramid scheme involving Rs. 1,800 million. Husband arrested at Katunayake airport, wife caught carrying him. 68 witnesses recorded statements. Investigation ongoing.
+
+🟩
+
+The Colombo Magistrate's Court ordered a man abroad and his wife was arrested on suspicion of criminal false false false false false false false use of Rs. 1,800 million.
+
+The suspects were arrested and produced before the court by the CID.
+
+The police said that the suspect was arrested in the Katunayake airport when the suspect was hiding in Malaysia.
+
+The police said that his wife was arrested at the Katunayake Airport to carry the suspect.
+
+The police informed the court that 68 people have recorded statements from 68 people regarding the incident and the number of statements will be recorded from a large number of people.
+
+The Magistrate issued these orders after considering the suspects to be remanded as investigations.
+
+◼️
+
+[Data](articles/590fe269.json)
+
+[Extended Data](ext_articles/590fe269.ext.json)
+
+---
 
 ### Government relieved to school children
 
@@ -170,19 +198,29 @@ The health department said that if a vaccine was initially loaded, the second va
 
 ---
 
-### மாற்றம் என்ற போர்வையில் நாட்டை வீழ்ச்சிக்கு இட்டுச் செல்லும் தரப்புக்கு வாக்காளர்கள் புள்ளடியிட்டு  தவறிழைக்கமாட்டார்கள் - நேர்காணலில் என்.எம்.பாசில் தெரிவிப்பு
+### Voters will not fail to point out to the side of the country to fall under the guise of change - NM Basil notice in the interview
 
 *2024-11-08 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198188) · `ta`
 
-நாட்டை கட்டியெழுப்பும் தெளிவான கொள்கையையும் வேலைத்திட்டத்தையும் ஐக்கிய மக்கள் சக்தி நாட்டுக்கு முன்வைத்துள்ளது. தேசிய மக்கள் சக்திக்கு நாட்டை கட்டியெழுப்பக் கூடிய வேலைத்திட்டம் இருக்கும் என நான் கருதவில்லை என அனுராதபுர மாவட்டத்தில் ஐக்கிய மக்கள் சக்தியில் போட்டியிடும் வேட்பாளரும் ஹொரவப்பத்தான தேர்தல் தொகுதி உதவி அமைப்பாளருமான என்.எம்.பாசில் வழங்கிய நேர்காணலில் தெரிவித்தார்.
+Here's a summary of the key points in approximately 200 characters:
 
-இதேவேளை, மக்கள் இம்முறை தேர்தலில் சரியான தீர்மானத்தை எடுப்பார்கள் என நம்புகிறேன். மாற்றம் என்ற போர்வையில் நாட்டை வீழ்ச்சிக்கு இட்டுச் செல்லும் தரப்புக்கு புள்ளடியிட்டு அநுராதபுர மாவட்ட வாக்காளர்கள் தவறிழைக்கமாட்டார்கள் என உறுதியாக நம்புவதாகவும் குறிப்பிட்டார்.
 
-அனுராதபுர மாவட்டத்தில் ஐக்கிய மக்கள் சக்தியில் போட்டியிடும் வேட்பாளரும் ஹொரவப்பத்தான தேர்தல் தொகுதி உதவி அமைப்பாளருமான என்.எம்.பாசில் வழங்கிய நேர்காணலிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+
+United People's Power candidate NM Basil contests Anuradhapura district parliamentary election. Promises to address urban development, agriculture, education, healthcare, and economic growth. Emphasizes protecting Muslim rights and supporting Tamil community. Aims to implement policies like reducing post-harvest losses and promoting exports. Confident voters will choose United People's Power for positive change.
+
+🟩
+
+The United People's Power has put forward a clear policy and program to build the country. In an interview with NM Basil, a candidate for the United People's Power in the Anuradhapura district, and the Assistant Organizer of the Horawappa Election constituency in Anuradhapura district, I do not think there will be a program to build the country for national people's power.
+
+Meanwhile, I hope that people will make the right decision in the election this time. He said he was confident that the voters of Anuradhapura would not fail, pointing to the part of the country to fall under the guise of change.
+
+He said this in an interview with NM Basil, a United People's Power candidate in the Anuradhapura district and the Assistant Organizer of the Horawappa Election constituency.
 
 ...
 
 [Data](articles/e526ca21.json)
+
+[Extended Data](ext_articles/e526ca21.ext.json)
 
 ---
 
@@ -2283,29 +2321,5 @@ Established in 2002, KTI has established itself as a household name, leading in 
 [Data](articles/b2a6276b.json)
 
 [Extended Data](ext_articles/b2a6276b.ext.json)
-
----
-
-### "If you say once a hundred times,"
-
-*2024-11-08 00:35:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒரு-தடவை-சொன்னால்-நூறு-தடவை-சொன்ன-மாதிரி/175-346750) · `ta`
-
-Ranjan Ramanayake leads United Democratic Voice Party in Nuwara Eliya district. Campaigning for three seats, he promises honesty and claims victory. Mud campaigns and legal challenges fail to deter him. He urges supporters to vote on April 14th.
-
-🟩
-
-“People will give us the status of the second largest party in the general election. Ranjan Ramanayake, leader of the United Democratic Voice Party, said, "We are sure to win three seats in Nuwara Eliya district."
-
-The election campaign meeting to introduce the party's introduction and policies to the United Democratic Voice Party supporters in Nuwara Eliya district was held on Thursday (07).
-
-United Democratic Voice Party leader Ranjan Ramanayake, United Democratic Voice Party Nuwara Eliya District Chief candidate Anusha Chandrasekaran and Badulla district candidate Vadivel Suresh were also present.
-
-The United Democratic Party has been launched and supported within a short period of time. This is why mud campaigns are being carried out against the party. Some people even sought court to prevent me from coming to parliament. That effort ended in failure. There were also arrangements to ban the party. That too will not succeed.
-
-...
-
-[Data](articles/fa9ac921.json)
-
-[Extended Data](ext_articles/fa9ac921.ext.json)
 
 ---

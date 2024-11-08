@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 18:01:22**
+As of **2024-11-08 18:21:11**
 
 ## Newspaper Stats
 
-*Scraped **53,750** Articles*
+*Scraped **53,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,66 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,027
-adaderanalk | 6,405
+adaderanalk | 6,406
 tamilmirrorlk | 7,494
 virakesarilk | 8,699
-adaderanasinhalalk | 9,370
+adaderanasinhalalk | 9,371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,750 (100.0%) of 53,750 articles have been extended.
+53,752 (100.0%) of 53,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Education Ministry issues circular on school social media groups
+
+*2024-11-08 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103263/education-ministry-issues-circular-on-school-social-media-groups) · `en`
+
+The Ministry of Education has issued a circular for school principals and relevant education authorities to oversee and minimize the adverse effects of school social media groups, introduced following the Covid-19 pandemic.
+
+The circular states that as reports of negative effects of school groups on social media platforms like WhatsApp, Viber, Telegram etc., introduced for students’ use during the Covid-19 pandemic have been reported, the relevant principals and education authorities are instructed to act as admins of said groups to reduce such negative effects.
+
+The relevant circular has been issued by the Secretary to the Education Ministry to all provincial chief secretaries, provincial education secretaries, provincial education directors, zonal education directors, divisional education directors, principals of schools and Piriven.
+
+◼️
+
+[Data](articles/97039585.json)
+
+[Extended Data](ext_articles/97039585.ext.json)
+
+---
+
+### Vijitha's emergency visit
+
+*2024-11-08 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203048) · `si`
+
+Minister Vijitha Herath visits Colombo Port to address issues: reducing container clearance times, improving customs efficiency, addressing irregularities in container testing, and managing late fees.
+
+🟩
+
+Minister Vijitha Herath had joined the inspection tour of the Colombo Port Container operation premises.
+
+The Minister had gone to the place yesterday (07), the Minister had gone to the place to solve a number of problems and problems with candidates.
+
+Considering the complaints of port workers, drivers and containers' association with the association of the Minister has instructed the relevant authorities to solve all of them.
+
+01. The demand of the transporters to provide measures to minimize the time taken to reduce the time in the container clearance.
+
+02. The last government has not obtained a satisfaceable report to the last government for the Container Inspection, and the employees of the yards have to spend the saddest of the wheels transporting the wheels to drivers.
+
+03. The main entrance of the port is a weak condition, where the main gateway. Complaints of many drivers and employees about the inefficiency of the customs personnel due to lack of proper mechanism.
+
+...
+
+[Data](articles/c60cfbc4.json)
+
+[Extended Data](ext_articles/c60cfbc4.ext.json)
+
+---
 
 ### Conditional bail for 12 Indian fishermen
 
@@ -2415,37 +2461,5 @@ The victory of Donald Trump in the US Presidential election held on 5 November 2
 [Data](articles/29a27977.json)
 
 [Extended Data](ext_articles/29a27977.ext.json)
-
----
-
-### Building social security system in  Sri Lanka: For the many, and not the few
-
-*2024-11-08 05:52:16* · [`dailyftlk`](https://www.ft.lk/columns/Building-social-security-system-in-Sri-Lanka-For-the-many-and-not-the-few/4-768979) · `en`
-
-Almost 25% of the population appealed against their exclusion from Aswesuma, indicating their lack of trust in the social registry and,
-
-Sri Lanka has a new President. One of his most important tasks will be to restore the trust of the nation’s citizens in the State. In recent decades, the public’s trust in the State has been severely damaged. Some people have paid their taxes yet, over recent years, have experienced a progressive decline in the quality of public services, while a small number of individuals have taken advantage of the State to enrich themselves. Without trust in the State, it will be impossible for any Government to build a strong, fair and prosperous nation in which no one is left behind.
-
-...
-
-[Data](articles/819a3fe8.json)
-
-[Extended Data](ext_articles/819a3fe8.ext.json)
-
----
-
-### Swastika Arulingam makes compelling case to be in next Parliament
-
-*2024-11-08 05:44:16* · [`dailyftlk`](https://www.ft.lk/opinion/Swastika-Arulingam-makes-compelling-case-to-be-in-next-Parliament/14-768978) · `en`
-
-Swastika Arulingam, a 37-year-old civil and labour lawyer, is contesting the upcoming parliamentary elections from Colombo. Educated at Ladies College, Arulingam entered the Colombo Law College in 2008 before she qualified as a lawyer in 2011.
-
-She started her first job at the Legal Aid Commission and represented several persons who needed legal aid such as workers, shop vendors and those arrested under the Prevention of Terrorism Act (PTA). She has two masters: an LLM from the University of Colombo and an LLM and Development as a Chevening Scholar at School of Oriental and African Studies, University of London. She became President of the Commercial and Industrial Workers Union (CIWU) in 2022 and the United Federation of Labour (UFL)
-
-...
-
-[Data](articles/402b8875.json)
-
-[Extended Data](ext_articles/402b8875.ext.json)
 
 ---

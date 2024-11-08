@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 00:56:40**
+As of **2024-11-09 01:09:33**
 
 ## Newspaper Stats
 
-*Scraped **53,802** Articles*
+*Scraped **53,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 548
 colombotelegraphcom | 551
 islandlk | 3,209
 economynextcom | 3,267
-dailyftlk | 3,684
+dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,030
 adaderanalk | 6,410
@@ -26,11 +26,75 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,799 (100.0%) of 53,802 articles have been extended.
+53,802 (100.0%) of 53,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Manusha criticises NPP for fielding ‘anti-progress’ candidates
+
+*2024-11-09 00:36:52* · [`dailyftlk`](https://www.ft.lk/news/Manusha-criticises-NPP-for-fielding-anti-progress-candidates/56-769041) · `en`
+
+Says there is no one left to strike over public sector employee salaries as all are contesting under NPP ticket
+
+Commends NPP voters for carrying out national duty by revealing party’s weaknesses to country
+
+Claims past protests had cost country its potential as hub for global fuel trade
+
+Former Minister Manusha Nanayakkara has criticised the National People’s Power (NPP) party for fielding candidates who had previously gone on strike and halted national progress. Nanayakkara noted that those who once obstructed the development of Sri Lanka are now vying for power under the NPP banner, questioning their role in the nation’s current challenges.
+
+“Those who disrupted the country by opposing infrastructure projects and development initiatives are now contesting from the NPP. There’s no one left to strike over public sector employee salary increases now,” Nanayakkara said.
+
+...
+
+[Data](articles/14e41f4d.json)
+
+[Extended Data](ext_articles/14e41f4d.ext.json)
+
+---
+
+### ECSL Chair appeals to citizens to vote on 14 November
+
+*2024-11-09 00:36:11* · [`dailyftlk`](https://www.ft.lk/news/ECSL-Chair-appeals-to-citizens-to-vote-on-14-November/56-769040) · `en`
+
+Urges all eligible voters to exercise their constitutional right to vote in upcoming election
+
+Highlights power of each citizen’s vote, emphasising that voting is not only a right but also a duty
+
+Election Commission of Sri Lanka (ECSL) Chairperson R.M.A.L. Ratnayake has urged all eligible voters in Sri Lanka to exercise their constitutional right to vote in the upcoming election on 14 November. Addressing a press conference yesterday, Ratnayake highlighted the power of each citizen’s vote, emphasising that voting is not only a right but also a duty.
+
+“Voting is a right granted to you by the Constitution,” Ratnayake said. “It is your duty to exercise that right. Your vote is your power, so head to the polling stations on 14,” he urged.
+
+Ratnayake also provided updates on the election process, confirming that postal voting and the distribution of ballot papers have been completed. Voters who have not yet received their ballot papers were advised to visit the nearest post office to collect them.
+
+...
+
+[Data](articles/2ae14413.json)
+
+[Extended Data](ext_articles/2ae14413.ext.json)
+
+---
+
+### Govt. pledges continuity on key welfare and housing initiatives
+
+*2024-11-09 00:35:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-continuity-on-key-welfare-and-housing-initiatives/56-769039) · `en`
+
+The Government on Tuesday announced that it will continue several key initiatives started by the previous administration, including the social welfare programs Aswesuma and Urumaya as well as housing projects for estate workers.
+
+Speaking at the post-Cabinet meeting media briefing, Cabinet Spokesman and Minister Vijitha Herath confirmed that the Government is committed to maintaining and expanding these programs.
+
+“Aswesuma, which provides financial assistance to low-income families and Urumaya, freehold land distribution program will both remain active under the new administration,” he stressed.
+
+Herath also said the Social Security Ministry has appointed a committee of experts to address grievances faced by beneficiaries of the Aswesuma, following complaints reported during inquires conducted by District and Divisional Secretariats.
+
+...
+
+[Data](articles/20d4b899.json)
+
+[Extended Data](ext_articles/20d4b899.ext.json)
+
+---
 
 ### No house for former presidents?
 
@@ -2353,71 +2417,5 @@ Putin had been ready to discuss with Trump.
 [Data](articles/85254221.json)
 
 [Extended Data](ext_articles/85254221.ext.json)
-
----
-
-### கிராந்துருகோட்டையில் காட்டு யானையின் தாக்குதலுக்கு இலக்காகி ஒருவர் உயிரிழப்பு!
-
-*2024-11-08 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198169) · `ta`
-
-Wild elephant attack kills 57-year-old man in Grandurugottai. Police investigating incident.
-
-🟩
-
-One person was killed when a wild elephant was attacked on Thursday night (07) night in Grandurugottai, Grandurukottai, police said.
-
-உயிரிழந்தவர் இலக்கம் 22, செனவிகம, உல்ஹிட்டிய, கிராந்துருகோட்டை பகுதியை சேர்ந்த 57  வயதுடைய நபர் ஒருவரே உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-நேற்று இரவு 9.00 மணியளவில் தனது காணிக்கு வந்தகாட்டு யானையை விரட்ட முற்பட்ட போது யானை குறித்த நபரை தாக்கியதாக தெரிவிக்கப்படுகிறது.
-
-உயிரிழந்தவரின் சடலத்தை நீதிவான் பார்வையிட்டதன் பின்னர் பிரேத பரிசோதனைக்காக மஹியங்கனை வைத்தியசாலை கொண்டு செல்லப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பதுளை பிரிவுக்கு பொறுப்பான சிரேஷ்ட பொலிஸ் அத்தியட்சகர் வசந்த கந்தேவத்தவின் பணிப்புரையின் பேரில் கிராந்துருகோட்டை பொலிஸ் நிலைய பொறுப்பதிகாரி சுதேஷ் சதுரங்க,  தலைமையில் பொலிஸ் குழுவினர் மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/56340c63.json)
-
-[Extended Data](ext_articles/56340c63.ext.json)
-
----
-
-### Arrested school principal bribed
-
-*2024-11-08 12:08:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-பாடசாலை-அதிபர்-கைது/175-346769) · `ta`
-
-School principal arrested for bribery attempt. Police report arrest related to financial corruption. Suspect to appear in court.
-
-🟩
-
-The Bribery Commission has said that the Chancellor of a Ragama Primary School has been arrested when he tried to bribe.
-
-Police say they were arrested for bribing Rs.
-
-The arrested suspect is to be produced before the Colombo Chief Magistrate's Court. Remble
-
-◼️
-
-[Data](articles/e8b35180.json)
-
-[Extended Data](ext_articles/e8b35180.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-08 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198173) · `ta`
-
-US Dollar to Rupee exchange rate: 288.1320 buying, 297.1876 selling on Friday, August 8th.
-
-🟩
-
-The US dollar purchasing price was 288.1320 rupees and the sales price were 297.1876 on Friday (08).
-
-◼️
-
-[Data](articles/d8b2b451.json)
-
-[Extended Data](ext_articles/d8b2b451.ext.json)
 
 ---

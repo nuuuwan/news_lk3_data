@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 17:24:31**
+As of **2024-11-08 17:41:23**
 
 ## Newspaper Stats
 
-*Scraped **53,741** Articles*
+*Scraped **53,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,86 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,027
-adaderanalk | 6,403
-tamilmirrorlk | 7,492
-virakesarilk | 8,695
-adaderanasinhalalk | 9,369
+adaderanalk | 6,405
+tamilmirrorlk | 7,494
+virakesarilk | 8,699
+adaderanasinhalalk | 9,370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,741 (100.0%) of 53,741 articles have been extended.
+53,747 (100.0%) of 53,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### Conditional bail for 12 Indian fishermen
+
+*2024-11-08 17:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இந்திய-மீனவர்கள்-12-பேருக்கும்-நிபந்தனை-பிணை/71-346788) · `ta`
+
+Indian fishermen arrested in Sri Lanka released after interrogation. Charged with illegal fishing in restricted waters. Sentenced to conditional bail pending trial.
+
+🟩
+
+The 12 Indian fishermen who were arrested and interrogated while engaged in fishing in the Sri Lankan Point Pedro Sea have been released.
+
+On October 27, the Navy arrested 12 rescuers of India Naga district with a boat.
+
+The 12 Indian fishermen were subjected to the Point Pedro Response Magistrate P. Kumaraswamy on the 27th of last month.
+
+In response to the case, the magistrate ordered the 12 fishermen to be remanded until November 8.
+
+The fishermen were booked in the presence of Point Pedro Magistrate Krisandan Ponnuthurai on Wednesday (08).
+
+Accordingly, allegations have been made, including fishing and fishing in the Sri Lankan waters using a restricted traction lap.
+
+The criminal complaint was filed separately against the sailor, including the lack of boiling the boat's nets until the boat was stopped.
+
+Accordingly, the magistrate has ordered the release of a six -month imprisonment for three crimes on the basis of a six -month imprisonment for a crime.
+
+◼️
+
+[Data](articles/0d27540c.json)
+
+[Extended Data](ext_articles/0d27540c.ext.json)
+
+---
+
+### The Tamil people should become a bargaining force - Ira Sanakiyan
+
+*2024-11-08 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198207) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil people can leverage political power post-regime change. TNA candidate R. Sanakiyan sees opportunity for Tamil representation in Sri Lankan politics, potentially becoming bargaining force for district issues.
+
+🟩
+
+"The time has come for the change and we have a chance to create a change," the Sri Lanka Tamil National Alliance (TNA) Batticaloa district parliamentary candidate and former Member of Parliament, R. Sanakiyan said.
+
+He was speaking at the election campaign meeting in Kalutara.
+
+There is a regime change in the country. The president, who had carried out racist activities, had to go home.
+
+The Rajapaksa family, who joined him as a group, has to go home.
+
+In that way, the newly elected president in the country has clearly stated that he will not connect with the government, such as corrupt, robbers, rape, and comic recipients.
+
+In that way, when we look at the other parties in the district, there is no such thing as any party to work with the president.
+
+The Tamil people have a better chance. This is because the president was elected by 42 types of votes.
+
+...
+
+[Data](articles/2d24cae4.json)
+
+[Extended Data](ext_articles/2d24cae4.ext.json)
+
+---
 
 ### Israel appreciated Sri Lanka to ensure security
 
@@ -55,6 +121,82 @@ The two countries also focus on enhancing bilateral relations between the two co
 [Data](articles/397a9cf6.json)
 
 [Extended Data](ext_articles/397a9cf6.ext.json)
+
+---
+
+### Israeli nationals attack in the Netherlands
+
+*2024-11-08 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203047) · `si`
+
+Israeli citizens clash in Amsterdam over football match. Government sends planes to evacuate. Video shows attacks on Israelis. Some assailants beaten by anti-Israel groups and Maccabi Tel Aviv supporters.
+
+🟩
+
+Israeli nationals attacked a group of Israelites to watch a football match in the Netherlands.
+
+The international media reported that the Israeli government sent two aircraft to bring the Israeli people back.
+
+The video social media is surfing how the Israeli nationals attack Israeli in the streets of Amsterdam in the streets of Amsterdam.
+
+Some attackers had been assaulted by the anti-Israel's anti-Israel.
+
+They were also assaulted by the MACCABI soccer group, if MacCabi Tel AVIV.
+
+◼️
+
+[Data](articles/9c32d8d4.json)
+
+[Extended Data](ext_articles/9c32d8d4.ext.json)
+
+---
+
+### Two killed in fishing boat sinks in South Korea12 people magic
+
+*2024-11-08 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198211) · `ta`
+
+Fishing boat sinks off South Korea: 2 dead, 12 missing, 15 rescued. Rescue operation underway involving ships, aircraft, and deep sea cylinders.
+
+🟩
+
+Officials said two people were dead and 12 were missing after a fishing boat sank in South Korea's southern resort island, Jeju, on Friday.
+
+Jeju Coast Guard officials have launched a rescue operation as another nearby boat warned, after a complaint was reported to be drowned in the sea on Thursday night (07).
+
+Of the 27 employees in the fishing boat, 15 were rescued. Two of them have died after being admitted to the hospital. 12 people are missing. Two of them are from Indonesia.
+
+A total of 43 ships, including three naval vessels, 13 aircraft and several deep sea cylinders, have been sent to rescue operations.
+
+"We offer our condolences to the families we have lost, and we will try to find out the missing persons by gathering all rescue equipment and resources," said Jeju Coast Guard Officer Sung Mo-Won.
+
+◼️
+
+[Data](articles/3b0c41fc.json)
+
+[Extended Data](ext_articles/3b0c41fc.ext.json)
+
+---
+
+### Candidate voted by post
+
+*2024-11-08 16:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூலம்-வாக்களித்த-வேட்பாளர்/175-346787) · `ta`
+
+TNA candidate A Karunakaran registered postal vote Batticaloa district general election 2024 despite Election Department request to withdraw.
+
+🟩
+
+Batticaloa district candidate A Karunakaran, the Tamil National Alliance (TNA) candidate, registered a postal vote on Friday (08) in the general election to be held on the 14th.
+
+Government official A. Karunakaran had applied for the 2024 general election when applications for postal voting were sought.
+
+He was asked by the Election Department to withdraw from the postal vote, but he did not have the opportunity.
+
+In this context, on the last day of the postal vote, the Batticaloa district candidate of the Sri Lanka Tamil National Party (TNA) A Karunakaran (Friday) registered the postal vote at the Batticaloa Election Office.
+
+◼️
+
+[Data](articles/4f3fef05.json)
+
+[Extended Data](ext_articles/4f3fef05.ext.json)
 
 ---
 
@@ -84,6 +226,24 @@ In a statement, she said that after the general election, the first day of dutie
 
 ---
 
+### Election chief’s request to all voters in Sri Lanka
+
+*2024-11-08 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103262/election-chiefs-request-to-all-voters-in-sri-lanka-) · `en`
+
+The Chairman of the Election Commission R.M.A.L. Rathnayake requests all the voters in Sri Lanka to exercise their franchise in the upcoming General Election.
+
+He stated that as voting is a right granted to people by the country’s Constitution, the public should cast their votes.
+
+“Voting is a right provided to you by the Constitution itself. Therefore, it is your responsibility to exercise that right. The vote is your right. The vote is your power... Therefore, go to the polling stations to use your valuable vote between 07.00 a.m. to 04.00 p.m. on November 14,” Rathnayake said.
+
+◼️
+
+[Data](articles/4500f2c9.json)
+
+[Extended Data](ext_articles/4500f2c9.ext.json)
+
+---
+
 ### Place of coconut and coconut products at concession
 
 *2024-11-08 16:42:13* · [`adalk`](https://www.ada.lk/breaking_news/සහන-මිලට-පොල්-හා-පොල්-නිෂ්පාදන-ගන්න-තැනක්/11-412930) · `si`
@@ -103,6 +263,42 @@ People will provide the opportunity to buy coconuts in front of the Coconut Deve
 [Data](articles/e4b3d041.json)
 
 [Extended Data](ext_articles/e4b3d041.ext.json)
+
+---
+
+### Govt aiming to provide concession to purchase stationery books for school children
+
+*2024-11-08 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103261/govt-aiming-to-provide-concession-to-purchase-stationery-books-for-school-children) · `en`
+
+Prime Minister Dr. Harini Amarasuriya says that the government intends to provide concessions for school children to purchase stationery books, staring from next year.
+
+Attending a public meeting held in Athurugiriya, she further explained that this initiative is to be carried out as per the President’s approval.
+
+She further stated that the support receive by the country from the international community has further strengthened and the government has been able to make some concessions due to the intervention of the President.
+
+The PM said the government was able to increase the pension allowance and increase the allowance given to fishermen. “Not only the short-term allowances, from the budget we are presenting, we will look into a way to strengthen social security, protect pensioners and strengthen the cost of living, especially healthcare and education. The burden on the people should be eased, “ she said.
+
+...
+
+[Data](articles/d7cac3f3.json)
+
+---
+
+### கடும் இடி, மின்னல் தாக்கம் குறித்து எச்சரிக்கை
+
+*2024-11-08 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198205) · `ta`
+
+கடும் மின்னல் தாக்கம் குறித்து வளிமண்டலவியல் திணைக்களம் எச்சரிக்கை விடுத்து அறிக்கை ஒன்றை வெளியிட்டுள்ளது.
+
+வடக்கு, வட மத்திய, வட மேற்கு, மத்திய, ஊவா, மேல் மற்றும் சப்ரகமுவ ஆகிய மாகாணங்களிலும் திருகோணமலை மற்றும் அம்பாறை மாவட்டங்களிலும் மாலை வேளையில் இடியுடன் கூடிய மழையுடன் பலத்த மின்னலுக்கான அதிக சாத்தியக்கூறுகள் காணப்படுவதாக அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழை பெய்யும் போது அந்த பகுதிகளில் தற்காலிகமாக பலத்த காற்று வீசக்கூடும் எனவும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய விபத்துக்களை குறைப்பதற்கு தேவையான நடவடிக்கைகளை எடுக்குமாறு வளிமண்டலவியல் திணைக்களம் மக்களிடம் கோரிக்கை விடுத்துள்ளது.
+
+◼️
+
+[Data](articles/f8771e2f.json)
 
 ---
 
@@ -217,6 +413,22 @@ The department said there may be temporary localized strong winds during thunder
 [Data](articles/58abf15a.json)
 
 [Extended Data](ext_articles/58abf15a.ext.json)
+
+---
+
+### மன்னாரில் சுகாதார சீர்கேடுகள் உடன் இயங்கி வந்த இரண்டு வெதுப்பகங்களுக்கு சீல்
+
+*2024-11-08 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198191) · `ta`
+
+மன்னார் பொது சுகாதார வைத்திய அதிகாரி பிரிவில்  சுகாதார சீர்கேடுகள் உடன் பொது மக்களின் சுகாதாரத்திற்கு தீங்கு விளைவிக்கும் வகையில் இயங்கி வந்த இரண்டு வெதுப்பகங்களுக்கு நீதிமன்ற உத்தரவு பெற்று மன்னார் பொது சுகாதார பரிசோதகர்கள் நேற்று வியாழக்கிழமை (07)  சீல் வைத்துள்ளனர்.
+
+கடந்த பல மாதங்களாக மன்னார் பொது சுகாதார பரிசோதகர்கள் குறித்த வெதுப்பகங்கள் தொடர்பில் பரிசோதிக்கப்பட்டு 12 குறைபாடுகள் நிவர்த்தி செய்யப்பட வேண்டும் என கடிதம் மூலம் அறிவிக்கப்பட்ட போது குறித்த வெதுப்பகங்கள் அறிவிப்புக்கள் தொடர்பில் எந்த நடவடிக்கையும் மேற்கொள்ளாத நிலையில் நேற்றைய தினம்  குறித்த வெதுப்பகங்களுக்கு சீல் வைக்கப்பட்டுள்ளது.
+
+மன்னார் நகரில் உள்ள இரண்டு வெதுப்பகங்களையும் எதிர்வரும் 21 ஆம் திகதி வரை மூடி வைக்குமாறு பொது சுகாதார பரிசோதகர்கள் சுட்டிக்காட்டி 12 சுகாதார பிரச்சினைகளும் நிவர்த்தி செய்யும் வரை குறித்த வெதுப்பகங்கள் வியாபார நடவடிக்கைகளில் ஈடுபடும் அனுமதி மறுக்கப்படுவதாகவும் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+...
+
+[Data](articles/d17aa7b7.json)
 
 ---
 
@@ -2219,195 +2431,5 @@ She started her first job at the Legal Aid Commission and represented several pe
 [Data](articles/402b8875.json)
 
 [Extended Data](ext_articles/402b8875.ext.json)
-
----
-
-### Digitalisation will fail, unless
-
-*2024-11-08 05:38:13* · [`dailyftlk`](https://www.ft.lk/columns/Digitalisation-will-fail-unless/4-768977) · `en`
-
-Unless those responsible for Government digitalisation develop an alternative to the present broken procurement model, the great hopes that have been placed on digitalisation are unlikely to be realised
-
-If there is anything everyone supports, it’s digitalisation of government. It’s seen as the panacea for all our ills: tax avoidance, corruption, inefficient agriculture… You name a problem, that is the answer, or at least part of the answer. We’ve been trying for over two decades but with meagre returns.
-
-What lessons for a reset can be drawn from our successes and failures? This moment when Dr. Hans Wijayasuriya has agreed to serve as Chief Advisor on the Digital Economy is an opportunity for a reset.
-
-Go back to mid 2022. Think of the queues. In some places, three parallel lines as far as the eye could see, with only one lane left for traffic. The first challenge was to get fuel. The second was to navigate roads blocked by fuel queues.
-
-...
-
-[Data](articles/bb9772ad.json)
-
-[Extended Data](ext_articles/bb9772ad.ext.json)
-
----
-
-### Sri Lankan apparel industry is responsible, innovative and agile
-
-*2024-11-08 05:32:39* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lankan-apparel-industry-is-responsible-innovative-and-agile/14-768976) · `en`
-
-As a globally renowned hub for quality and innovative apparel, Sri Lanka is buttoning up capacity with fully vertically integrated solutions to take on the evolving trends in retail fashion and enabling quick replenishment. A preferred manufacturing base for some of the world’s iconic fashion brands, Sri Lanka’s penchant for cutting-edge apparel solutions coupled with ethical and sustainable manufacturing has for long placed the island nation ahead of regional competition.
-
-...
-
-[Data](articles/faff1b99.json)
-
-[Extended Data](ext_articles/faff1b99.ext.json)
-
----
-
-### Dr. Shafi lodges complaint with Public Security Ministry
-
-*2024-11-08 05:22:28* · [`dailyftlk`](https://www.ft.lk/news/Dr-Shafi-lodges-complaint-with-Public-Security-Ministry/56-768970) · `en`
-
-Requests probe into the manner in which he was arrested in 2019 and prosecuted
-
-Alleges charges against him were fabricated as part of a deliberate conspiracy aimed at creating discord among communities
-
-Accuses law enforcement of collecting complaints against him only after his arrest
-
-Kurunegala Teaching Hospital Gynecology and Obstetrics Unit Senior House Officer Dr. Shafi Shihabdeen who was cleared of all charges related to his 2019 arrest has lodged a complaint with the Public Security Ministry.
-
-Dr. Shihabdeen is urging the Ministry to investigate the circumstances of his arrest and subsequent prosecution, asserting that the allegations against him were fabricated as part of a deliberate conspiracy which also involved forged documents, aimed at creating discord among communities.
-
-...
-
-[Data](articles/d569b923.json)
-
-[Extended Data](ext_articles/d569b923.ext.json)
-
----
-
-### Lohan Ratwatte and wife further remanded
-
-*2024-11-08 04:22:07* · [`dailyftlk`](https://www.ft.lk/news/Lohan-Ratwatte-and-wife-further-remanded/56-768969) · `en`
-
-The Nugegoda Magistrate’s Court yesterday ordered to further remand former State Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte till 18 November, over the case involving an unregistered luxury vehicle.
-
-The duo was arrested and remanded over the charges of using a luxury car illegally imported and assembled in Sri Lanka.
-
-The luxury vehicle in question was found without a number plate at a house belonging to Ratwatte’s wife in Embuldeniya area last month, during a probe conducted by a team of Police officials based on a tip-off from the Mirihana Police.
-
-During the investigation, both Ratwatte and his wife had explained to the Police that his mother-in-law resides in the said house. They had claimed that the car had been brought there three weeks ago by Ratwatte’s private secretary, who was recently found dead with gunshot injuries in the Katugastota area of Kandy.
-
-...
-
-[Data](articles/677813b6.json)
-
-[Extended Data](ext_articles/677813b6.ext.json)
-
----
-
-### Japan, Egypt envoys present credentials to President AKD
-
-*2024-11-08 04:21:35* · [`dailyftlk`](https://www.ft.lk/news/Japan-Egypt-envoys-present-credentials-to-President-AKD/56-768968) · `en`
-
-Two newly appointed Ambassadors to Sri Lanka presented their credentials to President Anura Kumara Dissanayake yesterday at the Presidential Secretariat.
-
-Ambassador of the Arab Republic of Egypt Adel Ibrahim and Ambassador of Japan ISOMATA Akio presented their credentials to the President.
-
-The President’s Media Division (PMD) said they also paid courtesy calls on the President following the presentation of credentials.
-
-◼️
-
-[Data](articles/2c6f99d8.json)
-
-[Extended Data](ext_articles/2c6f99d8.ext.json)
-
----
-
-### EC calls on employers to grant leave for employees for voting
-
-*2024-11-08 04:19:41* · [`dailyftlk`](https://www.ft.lk/news/EC-calls-on-employers-to-grant-leave-for-employees-for-voting/56-768967) · `en`
-
-The Election Commission has issued guidelines to be followed by employers and employees when applying for leave in view of the 2024 General Election.
-
-The Commission stresses that the employers must grant leave for public and private sector employees to cast their votes in the upcoming General Election. The renewed call comes following several complaints received by the Commission about employers not providing adequate leave for employees.
-
-The Commission reminded employers that they must grant leave in a manner which allows employees to vote without any salary deductions or reductions to their personal leave.
-
-As per the guidelines, public and private sector employees are advised to request leave through a written request.
-
-The special leave should be granted for a minimum of four hours or based on the distance required to travel.
-
-...
-
-[Data](articles/04ccadad.json)
-
-[Extended Data](ext_articles/04ccadad.ext.json)
-
----
-
-### The solution to national issues is essential for a joint operation between the government and other political parties
-
-*2024-11-08 03:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198148) · `ta`
-
-Here's a 200-character summary:
-
-
-
-National issues require joint government-party efforts. Corruption eradication is crucial. New government addresses corruption concerns, arresting former officials. Opposition criticism faces voter skepticism due to slow progress on promised reforms. Minority communities' support uncertain. Constitutional amendments depend on cooperation with opposition parties.
-
-🟩
-
-One of the most important promises of the national people's power was to end the corruption of corruption that has enslaved the country. It was the main reason for the party to have a great glamor on the party. Following the introduction of the open economy in the late 1970s, the government and the private sector have been embraced by the government and the private sector.
-
-Massive development projects and foreign aid gave people the opportunity to engage in corruption. The economic downturn and the risk of people to experience as a result, tightened the commitment to eradicate corruption and eliminate those involved in it.. As a party that never had political power, the national people's power (among the leading parties) was free from corruption.
-
-...
-
-[Data](articles/2db02465.json)
-
-[Extended Data](ext_articles/2db02465.ext.json)
-
----
-
-### Lightning hit a farmer
-
-*2024-11-08 03:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198147) · `ta`
-
-Farmer killed by lightning strike in Vandharumoolai. Incident occurred on Thursday at 5 pm. Victim identified as Sonda Acharya, 40-year-old A. Rameesakumar. Body undergoing autopsy.
-
-🟩
-
-The incident took place on Thursday (7) at 5 pm, the incident of a farmer who was killed in a lightning strike in the Uppodai Vayal area of ​​Vandharumoolai in the Eravur police division.
-
-The deceased is Sonda Acharya and a farmer's 40 -year -old A. Rameesakumar on the main road.
-
-The man was killed on the spot on Thursday (7) evening when he went to the Uppodai field and was on a motorbike and was on a motorbike.
-
-Subsequently, the police said that the body of the deceased is being carried out for an autopsy and handing over to the hospital for autopsy.
-
-◼️
-
-[Data](articles/a2c664df.json)
-
-[Extended Data](ext_articles/a2c664df.ext.json)
-
----
-
-### Illegal Leakage Production Station Siege
-
-*2024-11-08 02:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198146) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Leakage plant seized in Batticaloa. Located in Tandamalai and Mavadimunmari villages. Blocked after public tip-off. Operators fled; equipment destroyed."
-
-🟩
-
-The illegal leakage plant, which has been illegally taken up in the river in the area of ​​the Tandamalai and Mavadimunmari villages in the Batticaloa district, has been blocked on Thursday (07).
-
-Based on the information provided by the public of the village to the Grama Niladhari, the Grama Niladhari and the Development Officer were searched by the Koda River.
-
-It has been reported that the persons involved in the leakage have fled and the captured kota bolts have been destroyed.
-
-◼️
-
-[Data](articles/0f0b4d11.json)
-
-[Extended Data](ext_articles/0f0b4d11.ext.json)
 
 ---

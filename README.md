@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 21:24:24**
+As of **2024-11-08 21:40:30**
 
 ## Newspaper Stats
 
-*Scraped **53,771** Articles*
+*Scraped **53,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,42 @@ economynextcom | 3,260
 dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,029
-adaderanalk | 6,408
+adaderanalk | 6,409
 tamilmirrorlk | 7,498
-virakesarilk | 8,705
+virakesarilk | 8,708
 adaderanasinhalalk | 9,375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,771 (100.0%) of 53,771 articles have been extended.
+53,775 (100.0%) of 53,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### 11 candidates arrested for violating election laws
+
+*2024-11-08 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103265/11-candidates-arrested-for-violating-election-laws) · `en`
+
+Sri Lanka Police says it has so far received 340 complaints related to the upcoming parliamentary election.
+
+At a press briefing held today (08), Police Media Spokesperson DIG Nihal Thalduwa stated that a total of 364 individuals, including 11 candidates and 356 supporters, have been arrested for election law violations.
+
+Of the complaints received, 54 are of a criminal nature, while 286 are related to election law violations. Police have also seized 94 vehicles.
+
+Additionally, Police have removed over 1.07 million posters and seized an additional 500,000 illegally transported posters. Authorities have taken down 855 banners, confiscated 458 banners, removed 1,010 cutouts, and taken an additional 1,322 cutouts into custody. Furthermore, police have removed 5,045 leaflets and taken into custody over 64,000 leaflets, he said.
+
+Meanwhile, the Election Commission reported an increase in election-related complaints, with 150 received as of yesterday (07).
+
+...
+
+[Data](articles/42cd931c.json)
+
+[Extended Data](ext_articles/42cd931c.ext.json)
+
+---
 
 ### Nobody can buy us for money - Dilith
 
@@ -49,6 +71,86 @@ Political Politics Free of Privilege Dilith Jayarawara says that he is ready to 
 [Data](articles/81868b06.json)
 
 [Extended Data](ext_articles/81868b06.ext.json)
+
+---
+
+### Financial Treasury provided by the Republic of China for Disaster Relief and Monitoring Program
+
+*2024-11-08 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198230) · `ta`
+
+Republic of China provides 30 million rupees for disaster relief from January 1, 2024 to October 30. Additional funds allocated from National Budget Department for home rehabilitation. Treasury Department distributes funds to Ministry of Defense. Emergency Humanitarian Aid Scheme allocates 10 million yuan materials. Measures taken for house compensation and reconstruction under Disaster Relief and Monitoring Program.
+
+🟩
+
+From January 1, 2024 to October 30, from October 30, about 30 million rupees has been sent to the Financial Assistance Treasury Service by the People's Republic of China to compensate for houses and property damaged by natural disasters.
+
+Additional funds have been made from the National Budget Department to the rehabilitation of the homes of people affected by natural disasters and the Treasury Department has provided the fund to the Ministry of Defense immediately.
+
+Since there were not adequate funds in the budget assessment for 2024, there was a need to allocate additional funds to the victims of the disaster.
+
+In addition, under the Emergency Humanitarian Aid Scheme, 10 million yuan materials available from the Republic of China are to be distributed after a proper accounting.
+
+In addition, the necessary measures have been taken to provide compensation for damaged houses and possessions, the construction and reconstruction of the houses through the Disaster Relief and Monitoring Scheme.
+
+◼️
+
+[Data](articles/46048cb7.json)
+
+[Extended Data](ext_articles/46048cb7.ext.json)
+
+---
+
+### 2 competition bans for Alzari Joseph violating the protocol for professional player
+
+*2024-11-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198229) · `ta`
+
+Alzari Joseph banned twice for leaving field early in ODI match. West Indies won series 2-1 despite his absence. Player apologizes for breaking cricket protocol.
+
+🟩
+
+West Indies player Alzari Joseph has been banned for violating the protocol for a professional player in the third and last international ODIs held at Barjdown Stadium against England.
+
+Alzari Joseph left the field at the end of the 4th over due to his agreement with team captain Shay Hop over the positions of players in the field.
+
+The West Indies team had to play with 10 players across one over as Joseph Alzari left.
+
+However, Joseph, who was re -fielded, took the most important 2 wickets, and the West Indies took the series 2 - 1.
+
+In the meantime, the West Indies Cricket Company issued a statement on Thursday (08) to ensure the two competition ban imposed on Alzari Joseph.
+
+'Alzari's behavior does not agree with the cricket values ​​that the West Indies cricket company follows. Cannot ignore such behavior. We have taken firm action to consider the impact of the situation and the values ​​are confirmed, ”the statement further stated.
+
+...
+
+[Data](articles/aa231dab.json)
+
+[Extended Data](ext_articles/aa231dab.ext.json)
+
+---
+
+### Re -review the government's decision to shut down Triposha
+
+*2024-11-08 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198228) · `ta`
+
+Reviewing government shutdown of Triposha: Impact on child nutrition, criticism from former Health Minister Rajitha Senaratne, expansion under his tenure, concerns about privatization, JVP involvement, and left-wing policy opposition.
+
+🟩
+
+The government should review the resolution taken to shut down Triposha. Former Health Minister Rajitha Senaratne said this would have a huge impact on the need for children.
+
+He was speaking at a press conference held at the New Democratic Front Elections Office in Colombo on Friday (08).
+
+The government has taken steps to cover or suppress Triposha. Triposha is a government program offered by the government in this country, considering the nutrition of children, pregnant mothers and breastfeeding mothers.
+
+We are only giving Triposha on the basis of nutrition. Stopping it will have to face a massive nutritional problem in the future.
+
+1.6 million Triposha Package is distributed per month in our country. It was 70 percent in the year 2015. However, when I became the Minister of Health in 2016, I took steps to expand the Triposha project with the help of UNICEF. With this, I took steps to increase production by 100 percent.
+
+...
+
+[Data](articles/4a35bf4a.json)
+
+[Extended Data](ext_articles/4a35bf4a.ext.json)
 
 ---
 
@@ -2417,95 +2519,5 @@ At the same time, the Ministry of Commerce has announced that it is planning to 
 [Data](articles/71c66e5a.json)
 
 [Extended Data](ext_articles/71c66e5a.ext.json)
-
----
-
-### More than 3000 driver's licenses cancel
-
-*2024-11-08 09:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/3000-இற்கும்-அதிகமான-சாரதி-அனுமதிப்பத்திரங்கள்-இரத்து/175-346762) · `ta`
-
-Over 3,000 driver's licenses suspended by courts this year due to criminal offenses.
-
-🟩
-
-More than 3,000 driver's licenses have been temporarily canceled by the courts during this year, the Motor Transport Department said.
-
-3,249 driver's licenses have been temporarily canceled since January this year, its Director General Nishantha Anurutha Weerasinghe said.
-
-He said that the driver's licenses have been temporarily canceled in accordance with the trials carried out by the courts for various crimes committed by drivers.. Remble
-
-◼️
-
-[Data](articles/e0eeb2fd.json)
-
-[Extended Data](ext_articles/e0eeb2fd.ext.json)
-
----
-
-### The opportunity to vote is completed today
-
-*2024-11-08 09:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்கும்-வாய்ப்பு-இன்றுடன்-நிறைவு/175-346761) · `ta`
-
-Last chance to vote: Today's deadline for 2024 parliamentary elections. Postal voters can cast ballots at district offices instead of mailing them. No mail-in voting allowed today, says Elections Commission.
-
-🟩
-
-Today is the last day to vote by posting in the 2024 parliamentary elections.
-
-Accordingly, the Elections Commission has announced that postal voters who cannot vote by post can vote by post at the district election offices in the district where they work.
-
-We will not be given the opportunity to vote by post today, the Elections Commission said. (That)
-
-◼️
-
-[Data](articles/691ba7dc.json)
-
-[Extended Data](ext_articles/691ba7dc.ext.json)
-
----
-
-### Will Trump's victory benefit Sri Lanka?
-
-*2024-11-08 09:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ட்ரம்பின்-வெற்றி-இலங்கைக்கு-சாதகமாக-அமையும்/175-346760) · `ta`
-
-Trump's re-election may benefit Sri Lanka by reducing external pressures on its foreign policy, according to political analysts. However, this claim remains speculative without concrete evidence.
-
-🟩
-
-Political critics of the country say that the re -election of US president Donald Trump is important to Sri Lanka.
-
-"It is possible for Sri Lanka to get rid of past impacts," Senior Professor of Sripali Campus of the University of Colombo, Tudur Weerasinghe said.
-
-He added that Trump is expected to have no pressure on the implementation of Sri Lanka's foreign policy.. (That)
-
-◼️
-
-[Data](articles/7835c171.json)
-
-[Extended Data](ext_articles/7835c171.ext.json)
-
----
-
-### B. The rain will rain
-
-*2024-11-08 08:58:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பி-ப-வேளையில்-மழை-பெய்யும்/175-346759) · `ta`
-
-Rainfall warning issued for northern provinces and central regions. Thunderstorms possible after 1 PM. 100mm rainfall expected in some areas. Public advised to take lightning precautions.
-
-🟩
-
-The Department of Meteorology has announced that there is a possibility of periodic rainfall or thunderstorms in the North, North Western and Western Provinces and Trincomalee District.
-
-In other parts of the country,. It has also been reported that there is a possibility of rain or thunderstorms after 1.00 pm.
-
-100 millimeters of rainfall is expected in some parts of the Central, Sabaragamuwa, Uva, Upper and Southern Provinces.
-
-Thundershowers may be temporarily blowing in the up -and -coming areas. The Department of Meteorology has urged the public to take the necessary precautions to reduce the impacts of lightning impacts. Remble
-
-◼️
-
-[Data](articles/9492b7ac.json)
-
-[Extended Data](ext_articles/9492b7ac.ext.json)
 
 ---

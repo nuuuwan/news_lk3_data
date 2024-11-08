@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 07:27:02**
+As of **2024-11-08 08:01:48**
 
 ## Newspaper Stats
 
-*Scraped **53,658** Articles*
+*Scraped **53,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,209
 economynextcom | 3,256
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,018
+adalk | 5,019
 adaderanalk | 6,391
 tamilmirrorlk | 7,469
 virakesarilk | 8,681
@@ -26,71 +26,89 @@ adaderanasinhalalk | 9,348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,636 (100.0%) of 53,658 articles have been extended.
+53,642 (100.0%) of 53,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### යතුරුපැදියේ ගිය පසුපැදිකරුට අකුණක් වදියි
+### The motorcycle is a crack for the backdrop
 
 *2024-11-08 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203023) · `si`
 
-යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයන් දෙදෙනෙකුගෙන් පසුපැදිකරුට ඊයේ (07) සවස් කාලයේදී අකුණු සැර වැදී තිබේ.
+Motorcycle crash kills rider's passenger, driver unhurt. Incident occurred in Eravur Kanda during evening hours. Victim identified as 57-year-old local resident.
 
-එම සිද්ධියෙන් පසුපැදිකරු මියගොස් ඇති අතර පොලීසිය සඳහන් කළේ යතුරුපැදිකරුට තුවාල සිදුවී නොමැති බවය.
+🟩
 
-ඊයේ සවස් කාලයේ එරාවූර් පොලිස් වසමේ පෙරුමේලි කණ්ඩන් ප්‍රදේශයේදී අකුණු සැර වැදීමක් හේතුවෙන් පුද්ගලයෙකු මියගොස් ඇති බවට එරාවූර් පොලීසියට ලද තොරතුරක් මත සිද්ධිය ගැන විමර්ශන ආරම්භ කර තිබුණි.
+The backdrop has been hit by two people in the evening yesterday (07).
 
-පොලීසිය සඳහන් කළේ මියගොස් ඇත්තේ වයස අවුරුදු 57ක් වූ  වන්දාරමුල්ල ප්‍රදේශයේ පදිංචිකරුවෙක් බවය.
+The backdrop has died in the incident while the motorcyclist was not injured.
 
-ඔවුන් දෙදෙනා උප්පෝඩය ප්‍රදේශයේදී කුඹුරට ගොස් යතුරුපැදියෙන් නැවත නිවසට එමින් සිටියදී මෙම අනතුර සිදුවී ඇත.
+The Eravur Kanda of Eravur Kandura was a tip off received by the Eravur Kandana, Eravur Kandura, had died due to lightning at the Eravur Kandan area in the Eravur Kandan.
+
+The victim was a 57 year old resident of Vandaramulla area.
+
+The accident occurred while they went to the paddy field and returned home from the motorcycle.
 
 ◼️
 
 [Data](articles/283eaa7f.json)
 
+[Extended Data](ext_articles/283eaa7f.ext.json)
+
 ---
 
-### රියදුරු බලපත්‍ර 3000කට වැඩි ප්‍රමාණයක් තාවකාලිකව අවලංගු කරයි
+### More than 3000 driving licenses temporarily canceled
 
 *2024-11-08 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203022) · `si`
 
-වසරේ ගත වූ කලය තුළ අධිකරණ මගින් රියදුරු බලපත්‍ර තුන්දහසකට අධික ප්‍රමාණයක් තාවකාලිකව අවලංගු කර ඇති බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පවසයි.
+Over 3,000 driving licenses temporarily revoked due to court rulings. Director General cites repeated violations as reason. Expert emphasizes importance of adhering to driving standards to prevent accidents.
 
-එහි අධ්‍යක්ෂ ජනරාල් නිශාන්ත අනුරුද්ධ වීරසිංහ මහතා සදහන් කළේ, මේ වසරේ ජනවාරි මාසයේ සිට මේ දක්වා කාලය තුළ රියදුරු බලපත්‍ර 3,249ක් තාවකාලිකව අවලංගු කර ඇති බවය.
+🟩
 
-රියදුරන් විසින් සිදු කරනු ලැබු විවිධ වැරදි සඳහා පැවති නඩු විභාගවලදී අධිකරණ විසින් අදාළ රියදුරු බලපත්‍ර මෙලෙස තාවකාලිකව අවලංගු කර ඇති බව හෙතෙම පැවසීය.
+The Department of Motor Traffic said that over three,000 driving licenses have been temporarily canceled in court in the year.
 
-මේ අතර රිය අනතුරු බහුලව සිදු වීමට අපරික්ෂාකාරි රිය ධාවනය සහ  වාහන නිසි ප්‍රමිතියකින් යුක්ත නොවීම ප්‍රධානතම හේතු වි ඇති බව කොළඹ විශ්වවිද්‍යාලයේ සමාජවිද්‍යා අධ්‍යන අංශයේ මහාචාර්ය මොහොමඩ් මහීෂ් මහතා පවසනවා.
+Director General Nishantha Anuruddha Weerasinghe said that 3,249 drivers have been temporarily canceled during January this year.
 
-එමනිසා වාහනයක් ධාවනය කරවීමට පෙර එහි ප්‍රමිතිය සම්බන්ධයෙන් සොයැබැලීම අත්‍යාවශ්‍ය බව හෙතෙම පෙන්වා දුන්නේය.
+He said that the driver's licenses of the driver's licenses have been repeatedly canceled by the Court in trials for various errors conducted by drivers.
 
-මෙරට මාර්ග පද්ධතියේ පවතින අඩුපාඩුද රිය අනතුරු බහුලවීමට බලපා ඇති බවද මහාචාර්ය මොහොමඩ් මහීෂ් මහතා පවසයි.
+Meanwhile, Professor Mohammed Mahjeh, Professor Mohammed Mahjeh, says that it is not the key to the use of accidents and vehicles to exploit accidents.
+
+He pointed out that it is necessary to be linked to the quality of its standard before driving a vehicle.
+
+Dearing accidents in the country have been able to rapid attention, "says Professor Mohammed Mah.
 
 ◼️
 
 [Data](articles/e20381a5.json)
 
+[Extended Data](ext_articles/e20381a5.ext.json)
+
 ---
 
-### අද පස්වරුවේ ගිගුරුම් සහිත වැසි
+### Thundershowers during the afternoon
 
 *2024-11-08 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203021) · `si`
 
-අද (08) දිනයේ උතුරු සහ උතුරු-මැද පළාත්වලත් පුත්තලම සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+Thunderstorms expected in northern regions, western coastal areas, and central highlands. Heavy rain possible. Public advised to prepare for strong winds and lightning.
 
-කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ දිවයිනේ සෙසු ප්‍රදේශවල සවස 1:00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+🟩
 
-බස්නාහිර පළාතේ සහ ගාල්ල, මාතර, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල උදැසන කාලයේදීත් වැසි ඇති වෙයි.
+Showers or thundershowers will occur at times in the Northern and North-Central provinces today (08) and in the Puttalam and Trincomalee districts.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+The latest announcement issued by the Department of Meteorology shows that about 1: 00 in the rest of the island, showers that there will be showers.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+Showers will occur at the morning of the Western and Galle, Matara, Ampara and Batticaloa districts.
+
+Mm in the Central, Sabaragamuwa and Uva provinces. Heavy rains can occur more than 75.
+
+The public requests the public to take necessary steps to reduce the damages caused by temporary winds and lightning caused by thunderstorms.
 
 ◼️
 
 [Data](articles/18455cfb.json)
+
+[Extended Data](ext_articles/18455cfb.ext.json)
 
 ---
 
@@ -146,6 +164,8 @@ With an MBA from Edith Cowan University and a BSc in Management from the Univers
 
 [Data](articles/a80f3870.json)
 
+[Extended Data](ext_articles/a80f3870.ext.json)
+
 ---
 
 ### Why power from Sri Lanka is better option than offshore wind
@@ -163,6 +183,8 @@ The idea was first proposed about 25 years ago. Several pre-feasibility studies 
 ...
 
 [Data](articles/1cb2558b.json)
+
+[Extended Data](ext_articles/1cb2558b.ext.json)
 
 ---
 
@@ -191,6 +213,8 @@ Stresses need to establish zones for SMEs who lack resources
 ...
 
 [Data](articles/dacbff26.json)
+
+[Extended Data](ext_articles/dacbff26.ext.json)
 
 ---
 
@@ -851,6 +875,20 @@ In addition, the situation in Kandy, Kegalle, Ratnapura, Embilipitiya, Badulla, 
 [Data](articles/ec0af90b.json)
 
 [Extended Data](ext_articles/ec0af90b.ext.json)
+
+---
+
+### ජපානයෙන් ලංකාවට අලුත් නාතාපතිවරයෙක්
+
+*2024-11-07 19:51:43* · [`adalk`](https://www.ada.lk/breaking_news/ජපානයෙන්-ලංකාවට-අලුත්-නාතාපතිවරයෙක්/11-412923) · `si`
+
+ශ්‍රී ලංකාවට අලුතින් පත්ව පැමිණි තානාපතිවරු දෙදෙනෙක් අද (07) පෙරවරුවේ ජනාධිපති කාර්යාලයේ දී ජනාධිපති අනුර කුමාර දිසානායක මහතා වෙත නිල වශයෙන් සිය අක්තපත්‍ර භාර දුන්හ.
+
+ඊජිප්තු අරාබි ජනරජයේ නව තානාපතිවරයා ලෙස ඇඩෙල් ඊබ්‍රාහිම් (Adel Ibrahim) මහතා ද, ජපානයේ නව තානාපතිවරයා ලෙස ඉසොමතා අකියෝ (ISOMATA Akio) මහතා ද මෙලස පත්ව සිටින අතර ඔවුහු සිය අක්තපත්‍ර භාර දීමෙන් අනතුරුව ජනාධිපතිවරයා සමඟ සුහද කතාබහකට ද එක් වූහ.
+
+◼️
+
+[Data](articles/fae4fda5.json)
 
 ---
 
@@ -2217,29 +2255,5 @@ The Fundament commissions have stated that these vacancies have been attached to
 [Data](articles/5fefdd8c.json)
 
 [Extended Data](ext_articles/5fefdd8c.ext.json)
-
----
-
-### Police detained three candidates' vehicles on charges of violating election rules in Vavuniya: Three arrested
-
-*2024-11-07 13:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198105) · `ta`
-
-Sri Lanka election rule violators: 3 candidates' vehicles seized, drivers arrested in Vavuniya.
-
-🟩
-
-Vavuniya police said that the vehicles of three candidates have been detained and the drivers have been arrested in connection with the allegations of violating election rules in Vavuniya.
-
-Candidates can travel on the portrait of the candidate and the sticker -fried vehicles. The Department of Elections has banned his portrait or sticker traffic without a candidate.
-
-Vavuniya police have been detained by the Vavuniya police and the drivers have been detained in Vavuniya without a candidate in Vavuniya.
-
-Vanni district candidate of the Sri Lanka Tamil National Alliance (TNA) P. Satyalingam, United People's Alliance (UPFA) Vanni district candidate Rasika Priyadarshini and Democratic Tamil National Alliance candidate Selvam Adakkalanathan have been detained and the drivers have been detained.
-
-◼️
-
-[Data](articles/6f09c28b.json)
-
-[Extended Data](ext_articles/6f09c28b.ext.json)
 
 ---

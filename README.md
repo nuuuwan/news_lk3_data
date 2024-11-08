@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 09:12:59**
+As of **2024-11-08 09:24:38**
 
 ## Newspaper Stats
 
-*Scraped **53,664** Articles*
+*Scraped **53,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,020
 adaderanalk | 6,391
-tamilmirrorlk | 7,470
+tamilmirrorlk | 7,473
 virakesarilk | 8,681
 adaderanasinhalalk | 9,351
 
@@ -26,11 +26,79 @@ adaderanasinhalalk | 9,351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,652 (100.0%) of 53,664 articles have been extended.
+53,656 (100.0%) of 53,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### The opportunity to vote is completed today
+
+*2024-11-08 09:05:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்கும்-வாய்ப்பு-இன்றுடன்-நிறைவு/175-346761) · `ta`
+
+Last chance to vote: Today's deadline for 2024 parliamentary elections. Postal voters can cast ballots at district offices instead of mailing them. No mail-in voting allowed today, says Elections Commission.
+
+🟩
+
+Today is the last day to vote by posting in the 2024 parliamentary elections.
+
+Accordingly, the Elections Commission has announced that postal voters who cannot vote by post can vote by post at the district election offices in the district where they work.
+
+We will not be given the opportunity to vote by post today, the Elections Commission said. (That)
+
+◼️
+
+[Data](articles/691ba7dc.json)
+
+[Extended Data](ext_articles/691ba7dc.ext.json)
+
+---
+
+### Will Trump's victory benefit Sri Lanka?
+
+*2024-11-08 09:00:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ட்ரம்பின்-வெற்றி-இலங்கைக்கு-சாதகமாக-அமையும்/175-346760) · `ta`
+
+Trump's re-election may benefit Sri Lanka by reducing external pressures on its foreign policy, according to political analysts. However, this claim remains speculative without concrete evidence.
+
+🟩
+
+Political critics of the country say that the re -election of US president Donald Trump is important to Sri Lanka.
+
+"It is possible for Sri Lanka to get rid of past impacts," Senior Professor of Sripali Campus of the University of Colombo, Tudur Weerasinghe said.
+
+He added that Trump is expected to have no pressure on the implementation of Sri Lanka's foreign policy.. (That)
+
+◼️
+
+[Data](articles/7835c171.json)
+
+[Extended Data](ext_articles/7835c171.ext.json)
+
+---
+
+### B. The rain will rain
+
+*2024-11-08 08:58:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பி-ப-வேளையில்-மழை-பெய்யும்/175-346759) · `ta`
+
+Rainfall warning issued for northern provinces and central regions. Thunderstorms possible after 1 PM. 100mm rainfall expected in some areas. Public advised to take lightning precautions.
+
+🟩
+
+The Department of Meteorology has announced that there is a possibility of periodic rainfall or thunderstorms in the North, North Western and Western Provinces and Trincomalee District.
+
+In other parts of the country,. It has also been reported that there is a possibility of rain or thunderstorms after 1.00 pm.
+
+100 millimeters of rainfall is expected in some parts of the Central, Sabaragamuwa, Uva, Upper and Southern Provinces.
+
+Thundershowers may be temporarily blowing in the up -and -coming areas. The Department of Meteorology has urged the public to take the necessary precautions to reduce the impacts of lightning impacts. Remble
+
+◼️
+
+[Data](articles/9492b7ac.json)
+
+[Extended Data](ext_articles/9492b7ac.ext.json)
+
+---
 
 ### Postal voting marking is over today
 
@@ -601,6 +669,8 @@ Recently during the election campaign in Jaffna, president Anura Kumara Dissanay
 ...
 
 [Data](articles/a927412b.json)
+
+[Extended Data](ext_articles/a927412b.ext.json)
 
 ---
 
@@ -2189,85 +2259,5 @@ As such, it is the responsibility of the Association to reveal the people who ha
 [Data](articles/eb4b2b0c.json)
 
 [Extended Data](ext_articles/eb4b2b0c.ext.json)
-
----
-
-### We will show the lead to the President - Dilith
-
-*2024-11-07 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203004) · `si`
-
-Dilith Jayaweera criticizes unfulfilled campaign promises, discusses economic issues like electricity bills and fuel prices. Emphasizes transparency in governance and compares himself to Trump's focus on nationalism and entrepreneurship.
-
-🟩
-
-The main leader of the Gampaha District candidate Dilith Jayaweera says that they have not understood their promises to the public.
-
-He was speaking at a public meeting held in the Kandasuruwagama, Negombo.
-
-Another network of the universal authority was organized by the 50 acres in the Kandasurugama area in general area Negombo yesterday (06).
-
-The Leader of the Universal District Candid Entrepreneurship Dilith Jayaweera,
-
-"We do not make promises prominent politics. We do a politics who can only talk about what they can do. We want to show that time to our brother President. Many things he promised ... have not been fulfilled. Can't be able to fulfill. The electricity bill was reduced by 40%. Can't do. The prices of petrol will be done at Rs. Finally, the cadres were reduced only 95. You don't have anything. "
-
-"We can explain the coconut Rs 140. The method of egg prices increased. Simple concepts. Prices of a goods. These don't know. If not gone to the Market, you know. "
-
-...
-
-[Data](articles/86a81cca.json)
-
-[Extended Data](ext_articles/86a81cca.ext.json)
-
----
-
-### 37 per share of Rs. 37 per share for Bank of Ceylon from the Paddy Marketing Board
-
-*2024-11-07 13:38:55* · [`adalk`](https://www.ada.lk/breaking_news/වී-අලෙවි-මණ්ඩලයෙන්-ලංකා-බැංකුවට-රු-කෝටි-37ක-පොල්ලක්/11-412912) · `si`
-
-Bank of Ceylon receives Rs. 37 per share from Paddy Marketing Board. Loan repayment deadline: September 11, 2033. Audit report release: November 5. Delayed payment incurs fine of Rs. Loan to be repaid by Lanka Sathosa and Ministry of Trade.
-
-🟩
-
-The Paddy Marketing Board (Paddy Marketing Board) to pay harvest from the Bank of Ceylon in the 20th of September 2033The audit report issued by the Audit Office will be released on the 5th of November.
-
-The audit has revealed that the Bank of Ceylon has been given Rs.. This loan should be completed by 11th September on September 11.
-
-The audit reports say that the loan had to be paid to the due date and Rs.
-
-The fines made due to delay due to the delay in the loss of Rs.. The loan is planned to pay the loan by the Labor of Lanka Sathosa and the Ministry of Trade.
-
-◼️
-
-[Data](articles/9cdeb62e.json)
-
-[Extended Data](ext_articles/9cdeb62e.ext.json)
-
----
-
-### Sujeewa Senasinghe is confident that parliamentary power can be seized
-
-*2024-11-07 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198114) · `ta`
-
-Sujeewa Senasinghe claims parliamentary power can be seized due to public frustration. He expects people to make better choices than past elections.
-
-🟩
-
-People are frustrated with the government. Our goal was to come up with a strong opposition party. Former parliamentarian Sujeewa Senasinghe said that it is now hopeful that parliamentary power can be seized.
-
-He further stated at a press conference held at the United People's Alliance headquarters in Colombo on Thursday (07).
-
-We were surprised when we spoke directly with people. They are in frustration. Our goal was to come up with a strong opposition.
-
-But now there is hope that parliamentary power can be seized. We expect that the people will make the right decision this time, without making decisions like the presidential election.
-
-Although they informed the Criminal Investigation Division to come to my home and carry out the tests, they did not take action.. If so, why are false charges against us?
-
-I am looking forward to legal action on the allegations made. Rohana Wijeweera's party member who fought for democracy on that day is now acting as anti -democratic.
-
-◼️
-
-[Data](articles/04813b05.json)
-
-[Extended Data](ext_articles/04813b05.ext.json)
 
 ---

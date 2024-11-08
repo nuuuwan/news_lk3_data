@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 22:14:11**
+As of **2024-11-08 22:25:47**
 
 ## Newspaper Stats
 
-*Scraped **53,778** Articles*
+*Scraped **53,780** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 5,030
 adaderanalk | 6,410
 tamilmirrorlk | 7,498
 virakesarilk | 8,708
-adaderanasinhalalk | 9,376
+adaderanasinhalalk | 9,378
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,778 (100.0%) of 53,778 articles have been extended.
+53,780 (100.0%) of 53,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### The number of dollars up to the country heroes
+
+*2024-11-08 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203055) · `si`
+
+Sri Lanka received $587.7m in foreign remittances in Oct 2024, totaling $5,431.54m since Jan. This represents a 11.7% increase from the same period in 2023.
+
+🟩
+
+The number of foreign remittances received in October 2024 is US $ 587.7 million, the Central Bank of Sri Lanka.
+
+Accordingly, the total number of foreign remittances received from January to October 5,431.54 million is US $ 5,431.54 million.
+
+The Central Bank said an increase of 11.7% compared to 10.7% over the 10 months of January to October 2023.
+
+◼️
+
+[Data](articles/7b9253b1.json)
+
+[Extended Data](ext_articles/7b9253b1.ext.json)
+
+---
 
 ### Sri Lanka’s remittance inflow at $587.7 million in October 2024
 
@@ -47,6 +69,38 @@ Official figures show that workers’ remittances flow in October 2024 amounted 
 [Data](articles/8b7566e2.json)
 
 [Extended Data](ext_articles/8b7566e2.ext.json)
+
+---
+
+### A large number of areas are flooded in Badulla - Badulla is a landslide
+
+*2024-11-08 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203054) · `si`
+
+Badulla floods, landslides block roads. Heavy rains cause Puttalam flooding. Akurana town submerged. Traffic disrupted on Kandy-Jaffna A9 road.
+
+🟩
+
+The Badulla District Disaster Management Unit has also been informed due to the inclement weather conditions due to the inclement weather.
+
+Meanwhile, landslide has been interrupted due to the activation of a landslide near the 100 kilometer in the Welimada road.
+
+As a result, the police have requested the drivers using the road to drive.
+
+Meanwhile, the Puttalam Disaster Management Center (DMC) has said that heavy rains have been subjected to flooding due to heavy rains from Puttalam today (08).
+
+Puttalam District Secretary HMSP. Herath said that steps have been taken to obtain information from the Disaster Relief Officers attached to the Water in Puttalam District.
+
+The Akurana town has been flooded along the Kandy-Jaffna A9 road due to heavy rains.
+
+The main roads in Akurana have been submerged by the main road flowing across Akurana and Wehangala Oya.
+
+The traffic on the Kandy-Jaffna A9 road was blocked due to watering the city in the Kandy-Jaffna A9 road.
+
+◼️
+
+[Data](articles/8cdb8675.json)
+
+[Extended Data](ext_articles/8cdb8675.ext.json)
 
 ---
 
@@ -2461,53 +2515,5 @@ He was speaking at a public rally in Kandy yesterday (07), he said the country w
 [Data](articles/407df3c6.json)
 
 [Extended Data](ext_articles/407df3c6.ext.json)
-
----
-
-### A young person jumps into a house
-
-*2024-11-08 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203027) · `si`
-
-Young person enters house, intimidated by suspect trying to abduct residents in Walasmulla. Suspect arrested, found with firearms and weapons. 22-year-old from Deniyaya, attempted to kidnap girlfriend after breakup.
-
-🟩
-
-A person who entered a house was intimidated by a person who was trying to take the residents in Walasmulla.
-
-The suspect was arrested in connection with the incident.
-
-The suspect was immediately implemented by the Valasmulla Police officials in the Walasmulla police division yesterday (07) that the residents would be trying to abduct firearms.
-
-Two Sri Lankan firearms have taken into custody to arrest the suspect in the possession of two banned knives, iron sticks and iron cuts, police said.
-
-The suspect is a 22 year old resident of Deniyaya.
-
-The suspect has operated a romantic relationship with the girl and then it has been stopped by the suspect a few months ago.
-
-The suspect had then come and tried to abduct the girl.
-
-◼️
-
-[Data](articles/362efd44.json)
-
-[Extended Data](ext_articles/362efd44.ext.json)
-
----
-
-### Postal voting for 2024 General Election ends today
-
-*2024-11-08 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103251/postal-voting-for-2024-general-election-ends-today) · `en`
-
-The marking of postal votes for the 2024 General Election is scheduled to end today (8).
-
-The postal voters who were unable to cast their postal votes on November 01 and 04 were given the opportunity to cast their votes yesterday (07) and today as special postal voting days, the Election Commission said.
-
-Accordingly, the Commissioner General of Elections Saman Sri Ratnayakes said that the voters who could not cast their postal votes at the District Secretariats in the respective districts where their workplace is located will have the opportunity to do so today as well.
-
-◼️
-
-[Data](articles/de1f21b1.json)
-
-[Extended Data](ext_articles/de1f21b1.ext.json)
 
 ---

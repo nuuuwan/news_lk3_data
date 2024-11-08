@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 08:23:18**
+As of **2024-11-08 09:12:59**
 
 ## Newspaper Stats
 
-*Scraped **53,662** Articles*
+*Scraped **53,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,73 +16,117 @@ islandlk | 3,209
 economynextcom | 3,256
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,019
+adalk | 5,020
 adaderanalk | 6,391
 tamilmirrorlk | 7,470
 virakesarilk | 8,681
-adaderanasinhalalk | 9,350
+adaderanasinhalalk | 9,351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,643 (100.0%) of 53,662 articles have been extended.
+53,652 (100.0%) of 53,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### மலேசியாவில் இருந்து வந்த இலங்கையர் கைது
+### Postal voting marking is over today
+
+*2024-11-08 08:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203026) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Postal voting ends today for the 2024 parliamentary election. Voters had a special opportunity yesterday and today to cast ballots at district secretaries near their workplaces. Elections Commissioner Saman Sri Ratnayake announced this extension.
+
+🟩
+
+The postal voting period of the 2024 parliamentary election will be completed today (08).
+
+The Elections Commission states that yesterday and today had been given a special day to vote for voter voter turnover last November 30 and 04.
+
+Elections Commissioner General Saman Sri Ratnayake said, "Elections Commissioner General of Elections Saman Sri Ratnayake said that the postal voting in the district secretary, which is located in their workplace, has the opportunity to vote.
+
+◼️
+
+[Data](articles/d6e46d11.json)
+
+[Extended Data](ext_articles/d6e46d11.ext.json)
+
+---
+
+### Sri Lankans arrested from Malaysia
 
 *2024-11-08 08:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசியாவில்-இருந்து-வந்த-இலங்கையர்-கைது/175-346758) · `ta`
 
-மலேசியாவில் இருந்து வருகை தந்த இலங்கையர் (52 வயது) CID அதிகாரிகளால் விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+Sri Lankan man arrested in Malaysia after fleeing pyramid scheme. 52-year-old accused of defrauding multiple individuals before escaping.
 
-பிரமிட் மோசடி மூலம் பல நபர்களிடமிருந்து 1,800 மில்லியன் ரூபாய் மோசடி செய்து விட்டு சுமார் ஒரு வருடத்திற்கு முன்பு நாட்டை விட்டு தப்பிச் சென்றிருந்தார்.
+🟩
+
+Sri Lankan (52 years old) from Malaysia has been arrested at the airport by CID officials.
+
+About a year ago, he had fled the country by leaving several people from several people by pyramid fraud.
 
 ◼️
 
 [Data](articles/b766c144.json)
 
+[Extended Data](ext_articles/b766c144.ext.json)
+
 ---
 
-### මූල්‍ය වංචා සිද්ධියක සැකකරුවෙක් කටුනායකදී අත්අඩංගුවට
+### Suspect arrested in Katunayake
 
 *2024-11-08 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203025) · `si`
 
-පිරමීඩ ජාවාරමක නිරතවී රුපියල් මිලියන 1,800ක මුදල් වංචා සිදුකර රටින් පළාගිය සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Sri Lankan suspect arrested at Katunayake airport for pyramid scheme fraud of Rs 1,800 million. Man fled country last year; police spokesperson's wife involved in arrest.
 
-ශ්‍රී ලාංකිකයෙකු වන  52 හැවිරිදි අදාළ සැකකරු මැලේසියාවේ සිට අද (08) පෙරවරුවේ යළි ශ්‍රී ලංකාවට පැමිණීමේදී කටුනායක ගුවන්තොටුපොළ තුළදී අත්අඩංගුවට ගෙන ඇත.
+🟩
 
-පොලීසිය සඳහන් කරන්නේ මෙම සැකකරු පිරමීඩ ජාවාරමක් හරහා පුද්ගලයින්ගේ මුදල් වංචා කර මීට වසරකට පෙර රටින් පළාගොස් සිටි අයෙකු බවය.
+A suspect has been arrested by a pyramid racket and arrested the country with a cash fraud of Rs 1,800 million.
 
-මෙම පුද්ගලයා පිළිගැනීම සඳහා ගුවන්තොටුපොළ වෙත පැමිණ සිටි ඔහුගේ බිරිඳව ද අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+The suspect, a Sri Lankan, 52, has been taken into Sri Lanka at the Katunayake airport.
+
+Police said that the suspect was a man who had fled the country a year ago by defense the suspect.
+
+The wife of the Police Media Spokesperson DIG Talduuwa said his wife was arrested at the airport to accept the man.
 
 ◼️
 
 [Data](articles/8ddb1466.json)
 
+[Extended Data](ext_articles/8ddb1466.ext.json)
+
 ---
 
-### වෙන්නප්පුවේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+### More about the shooting of Wennappuwa
 
 *2024-11-08 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203024) · `si`
 
-වෙන්නප්පුව පොලිස් වසමේ කිඹුල්ගාල ප්‍රදේශයේදී ඊයේ (07) සවස සිදුකළ වෙඩිතැබීමේ සිද්ධිය පිළිබඳ තොරතුරු රැසක් මේ වනවිට අනාවරණය වී තිබේ
+Wennappuwa shooting: Woman, 43; man, 65, injured. Unidentified assailants on motorcycle. Investigation ongoing.
 
-නිවසක් අසල සිදුකළ එම වෙඩිතැබීම හේතුවෙන් පුද්ගලයෙකු සහ කාන්තාවක් තුවාල ලබා මාරවිල රෝහලට ඇතුළත් කෙරුණි.
+🟩
 
-තුවාලකරු වයස අවුරුදු 43ක් වන මාරවිල ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, තුවාලකාරිය වයස අවුරුදු 65ක් වන වෙන්නප්පුව ප්‍රදේශයේ පදිංචිකාරියකි.
+The shooting incident regarding the Wennappuwa Police Division was held yesterday evening yesterday (07) evening.
 
-නිවසක ජල පෙරණ කට්ටල නඩත්තු කටයුතු සඳහා පැමිණි පුද්ගලයන් දෙදෙනෙකු අලුත්වැඩියා කටයුතු සිදුකර නිවසෙන් පිටව යන අවස්ථාවේදී මුහුණු ආවරණය කරගෙන යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇත.
+A woman and woman were injured and admitted to the Marawila hospitalized due to the shooting carried out near a house.
 
-එහිදී නඩත්තු කටයුතු සඳහා පැමිණි පුද්ගලයෙකු සහ අදාළ නිවසේ කාන්තාව තුවාල ලබා තිබුණි.
+The victim is a 43 year old resident of Marawila area, a resident of the Wennappuwa area aged 65.
 
-වෙඩිතැබීම සිදුකළ සැකකරුවන් හඳුනාගෙන ඇති අතර ඔවුන් අත්අඩංගුවට ගැනීම සඳහා විමර්ශන සිදුකරන බව වෙන්නප්පුව පොලීසිය පැවසීය.
+The shooting has been carried out by two unidentified persons who came in a motorcycle when two people have been repaired by the house to be repaired at home.
+
+A person who came to maintenance and woman had wounded.
+
+The suspects were identified and investigations are being investigated and investigations are being investigated, Wennappuwa Police said.
 
 ◼️
 
 [Data](articles/dbed51b9.json)
+
+[Extended Data](ext_articles/dbed51b9.ext.json)
 
 ---
 
@@ -316,6 +360,8 @@ She started her first job at the Legal Aid Commission and represented several pe
 
 [Data](articles/402b8875.json)
 
+[Extended Data](ext_articles/402b8875.ext.json)
+
 ---
 
 ### Digitalisation will fail, unless
@@ -334,6 +380,8 @@ Go back to mid 2022. Think of the queues. In some places, three parallel lines a
 
 [Data](articles/bb9772ad.json)
 
+[Extended Data](ext_articles/bb9772ad.ext.json)
+
 ---
 
 ### Sri Lankan apparel industry is responsible, innovative and agile
@@ -345,6 +393,8 @@ As a globally renowned hub for quality and innovative apparel, Sri Lanka is butt
 ...
 
 [Data](articles/faff1b99.json)
+
+[Extended Data](ext_articles/faff1b99.ext.json)
 
 ---
 
@@ -365,6 +415,8 @@ Dr. Shihabdeen is urging the Ministry to investigate the circumstances of his ar
 ...
 
 [Data](articles/d569b923.json)
+
+[Extended Data](ext_articles/d569b923.ext.json)
 
 ---
 
@@ -520,17 +572,23 @@ Kandasashti Mahotsava "Surasamharam" was held on Thursday evening at the temple 
 
 ---
 
-### ஏற்றுமதி வருமானத்தை அதிகரிக்க தீர்மானம்
+### Resolution to increase export income
 
 *2024-11-08 01:35:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏற்றுமதி-வருமானத்தை-அதிகரிக்க-தீர்மானம்/175-346755) · `ta`
 
-நாட்டின் ஏற்றுமதி வருமானத்தை 2030 ஆம் ஆண்டளவில் 40 பில்லியன் அமெரிக்க டொலர்களாக அதிகரிக்க தீர்மானிக்கப்பட்டுள்ளது.
+Country aims to boost exports by $40B by 2030. Current earnings stand at $15B.
 
-தற்போதைக்கு 15 பில்லியன் டொலர் வருமானம் ஈட்டப்பட்டுள்ளதாகவும் அந்த சபை குறிப்பிட்டுள்ளது. (a)
+🟩
+
+It is decided to increase the country's export income by $ 40 billion by 2030.
+
+The council also stated that the income has now been earned by $ 15 billion. (A)
 
 ◼️
 
 [Data](articles/73acefed.json)
+
+[Extended Data](ext_articles/73acefed.ext.json)
 
 ---
 
@@ -1001,6 +1059,18 @@ Attorney Senaka Perera, who was found in the police custody, was in the investig
 [Data](articles/fb918153.json)
 
 [Extended Data](ext_articles/fb918153.ext.json)
+
+---
+
+### ඡන්දය දා ලංකාවට එන විශේෂ කණ්ඩායම
+
+*2024-11-07 19:30:14* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දා-ලංකාවට-එන-විශේෂ-කණ්ඩායම/11-412920) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් පිරිසක් ලබන 14දා ශ්‍රී ලංකාවට පැමිණීමට නියමිතව තිබේ. ජාත්‍යන්තර මූල්‍ය අරමුදල හා ශ්‍රී ලංකාව අතර ක්‍රියාත්මක විස්තීර්ණ මූල්‍ය පහසුකම හා මීළඟ ණය වාරිකය මෙන්ම මීළග සමාලෝචනය පිළිබදව සාකච්ඡා කිරීමට මෙම කණ්ඩායම ශ්‍රී ලංකාවට පැමිණීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/7a3d4705.json)
 
 ---
 
@@ -2199,49 +2269,5 @@ I am looking forward to legal action on the allegations made. Rohana Wijeweera's
 [Data](articles/04813b05.json)
 
 [Extended Data](ext_articles/04813b05.ext.json)
-
----
-
-### Use votes to create an era that makes people's dreams come true - Sajith
-
-*2024-11-07 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198113) · `ta`
-
-Sajith Premadasa: "Use votes to create an era where people's dreams come true." Promises include reducing passport lines, lowering food costs, eliminating bribery, and lowering fuel prices. Criticizes opponent Anura Kumara Dissanayake's handling of fuel subsidies and electricity tariffs. Claims to reduce tax burden and increase public official salaries.
-
-🟩
-
-Sajith Premadasa said that the presidential candidate Anura Kumara Dissanayake was in the process of giving the United People's Power in the upcoming general election and using the votes to create the dream of the people's dreams.
-
-United People's Power President Sajith Premadasa said this while addressing a public meeting held in Gampaha yesterday.
-
-President Anura Kumara Dissanayake has made many promises that the solution to the passport line, his promises to reduce the cost of food, and that they will eliminate bribery and fuel at low prices.The leader of the recently appointed Pottoliya Corporation of Anura Kumara Dissanayake is not clear about such corruption.
-
-He is currently telling a story on the election stage and now different stories. President has become addicted to the fuel price formula. He identified himself as the leader of the proletariat and took steps to reduce the fuel of vehicles used by the rich.
-
-...
-
-[Data](articles/286188dd.json)
-
-[Extended Data](ext_articles/286188dd.ext.json)
-
----
-
-### Explanation extending to Lohan couple
-
-*2024-11-07 13:24:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/லொஹான்-ஜோடிக்கு-விளக்கமறியல்-நீடிப்பு/150-346720) · `ta`
-
-Former ministers Lohan Ratwatta and Rasi Prabha Ratwatta remanded until 18th by Gangodawila Chief Magistrate Ruvini Jayawardena. Deputy Inspector General Ruwan Gunasekera presented case details in court.
-
-🟩
-
-Gangodawila Chief Magistrate Mrs. Ruvini Jayawardena has ordered the former ministers Lohan Ratwatta and Rasi Prabha Ratwatta to be remanded until the 18th of this month.
-
-Deputy Inspector General of Police Ruwan Gunasekera, who is responsible for the law, presented details in court on behalf of the case.
-
-◼️
-
-[Data](articles/c691b921.json)
-
-[Extended Data](ext_articles/c691b921.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 14:40:16**
+As of **2024-11-08 14:59:03**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,714 (100.0%) of 53,715 articles have been extended.
+53,715 (100.0%) of 53,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### முதன்முறையாக வெள்ளை மாளிகைக்கு பெண் தலைமை அதிகாரி நியமனம்
+### Woman chief officer appointment to White House for the first time
 
 *2024-11-08 14:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முதன்முறையாக-வெள்ளை-மாளிகைக்கு-பெண்-தலைமை-அதிகாரி-நியமனம்/50-346779) · `ta`
 
-தன்னுடைய தேர்தல் பிரசார குழுவின் தலைமை அதிகாரியாக திகழந்த சூசன் வைல்ஸ் என்ற பெண்மணியை, வெள்ளை மாளிகை தலைமை அதிகாரியாக, டொனால்ட் டிரம்ப் நியமித்துள்ளார்.
+Here's a 200-character summary:
+
+
+
+Donald Trump appoints Susan Wiles as White House Chief Officer, marking first woman in this position. She also leads his election campaign committee.
+
+🟩
+
+Donald Trump has appointed Susan Wiles, the chief of the White House, the chief of the election campaign committee.
 
 ◼️
 
 [Data](articles/1948c271.json)
+
+[Extended Data](ext_articles/1948c271.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 06:45:46**
+As of **2024-11-08 07:27:02**
 
 ## Newspaper Stats
 
-*Scraped **53,655** Articles*
+*Scraped **53,658** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,79 @@ adalk | 5,018
 adaderanalk | 6,391
 tamilmirrorlk | 7,469
 virakesarilk | 8,681
-adaderanasinhalalk | 9,345
+adaderanasinhalalk | 9,348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,634 (100.0%) of 53,655 articles have been extended.
+53,636 (100.0%) of 53,658 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### යතුරුපැදියේ ගිය පසුපැදිකරුට අකුණක් වදියි
+
+*2024-11-08 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203023) · `si`
+
+යතුරුපැදියකින් ගමන් කරමින් සිටි පුද්ගලයන් දෙදෙනෙකුගෙන් පසුපැදිකරුට ඊයේ (07) සවස් කාලයේදී අකුණු සැර වැදී තිබේ.
+
+එම සිද්ධියෙන් පසුපැදිකරු මියගොස් ඇති අතර පොලීසිය සඳහන් කළේ යතුරුපැදිකරුට තුවාල සිදුවී නොමැති බවය.
+
+ඊයේ සවස් කාලයේ එරාවූර් පොලිස් වසමේ පෙරුමේලි කණ්ඩන් ප්‍රදේශයේදී අකුණු සැර වැදීමක් හේතුවෙන් පුද්ගලයෙකු මියගොස් ඇති බවට එරාවූර් පොලීසියට ලද තොරතුරක් මත සිද්ධිය ගැන විමර්ශන ආරම්භ කර තිබුණි.
+
+පොලීසිය සඳහන් කළේ මියගොස් ඇත්තේ වයස අවුරුදු 57ක් වූ  වන්දාරමුල්ල ප්‍රදේශයේ පදිංචිකරුවෙක් බවය.
+
+ඔවුන් දෙදෙනා උප්පෝඩය ප්‍රදේශයේදී කුඹුරට ගොස් යතුරුපැදියෙන් නැවත නිවසට එමින් සිටියදී මෙම අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/283eaa7f.json)
+
+---
+
+### රියදුරු බලපත්‍ර 3000කට වැඩි ප්‍රමාණයක් තාවකාලිකව අවලංගු කරයි
+
+*2024-11-08 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203022) · `si`
+
+වසරේ ගත වූ කලය තුළ අධිකරණ මගින් රියදුරු බලපත්‍ර තුන්දහසකට අධික ප්‍රමාණයක් තාවකාලිකව අවලංගු කර ඇති බව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුව පවසයි.
+
+එහි අධ්‍යක්ෂ ජනරාල් නිශාන්ත අනුරුද්ධ වීරසිංහ මහතා සදහන් කළේ, මේ වසරේ ජනවාරි මාසයේ සිට මේ දක්වා කාලය තුළ රියදුරු බලපත්‍ර 3,249ක් තාවකාලිකව අවලංගු කර ඇති බවය.
+
+රියදුරන් විසින් සිදු කරනු ලැබු විවිධ වැරදි සඳහා පැවති නඩු විභාගවලදී අධිකරණ විසින් අදාළ රියදුරු බලපත්‍ර මෙලෙස තාවකාලිකව අවලංගු කර ඇති බව හෙතෙම පැවසීය.
+
+මේ අතර රිය අනතුරු බහුලව සිදු වීමට අපරික්ෂාකාරි රිය ධාවනය සහ  වාහන නිසි ප්‍රමිතියකින් යුක්ත නොවීම ප්‍රධානතම හේතු වි ඇති බව කොළඹ විශ්වවිද්‍යාලයේ සමාජවිද්‍යා අධ්‍යන අංශයේ මහාචාර්ය මොහොමඩ් මහීෂ් මහතා පවසනවා.
+
+එමනිසා වාහනයක් ධාවනය කරවීමට පෙර එහි ප්‍රමිතිය සම්බන්ධයෙන් සොයැබැලීම අත්‍යාවශ්‍ය බව හෙතෙම පෙන්වා දුන්නේය.
+
+මෙරට මාර්ග පද්ධතියේ පවතින අඩුපාඩුද රිය අනතුරු බහුලවීමට බලපා ඇති බවද මහාචාර්ය මොහොමඩ් මහීෂ් මහතා පවසයි.
+
+◼️
+
+[Data](articles/e20381a5.json)
+
+---
+
+### අද පස්වරුවේ ගිගුරුම් සහිත වැසි
+
+*2024-11-08 06:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203021) · `si`
+
+අද (08) දිනයේ උතුරු සහ උතුරු-මැද පළාත්වලත් පුත්තලම සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවලත් විටින්විට වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ දිවයිනේ සෙසු ප්‍රදේශවල සවස 1:00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවය.
+
+බස්නාහිර පළාතේ සහ ගාල්ල, මාතර, අම්පාර සහ මඩකලපුව දිස්ත්‍රික්කවල උදැසන කාලයේදීත් වැසි ඇති වෙයි.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 75 ට වැඩි තරමක තද වැසි ඇතිවිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලීමක් ද කරයි.
+
+◼️
+
+[Data](articles/18455cfb.json)
+
+---
 
 ### Interior and Product Design Exhibition returns at Sri Lanka Design Festival 2024
 
@@ -48,6 +110,8 @@ The exhibition was opened on Wednesday by British High Commissioner Andrew Patri
 
 [Data](articles/fa3766d1.json)
 
+[Extended Data](ext_articles/fa3766d1.ext.json)
+
 ---
 
 ### Gem Sri Lanka 2025 in January to lure global buyers
@@ -63,6 +127,8 @@ Organised by the Chinafort Gem and Jewellery Traders Association (CGJTA), Gem Sr
 ...
 
 [Data](articles/2c63d51b.json)
+
+[Extended Data](ext_articles/2c63d51b.ext.json)
 
 ---
 
@@ -2175,89 +2241,5 @@ Vanni district candidate of the Sri Lanka Tamil National Alliance (TNA) P. Satya
 [Data](articles/6f09c28b.json)
 
 [Extended Data](ext_articles/6f09c28b.ext.json)
-
----
-
-### Mannar Sathosa Human Burial "Scan" activity begins;Video and media banned to take photos
-
-*2024-11-07 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/198110) · `ta`
-
-Mannar Sathosa human burial excavation resumes; media barred from coverage. Police previously restricted from reporting. New judge denies permissions. Lawyers refuse to provide audio recordings.
-
-🟩
-
-The long -standing Sathosa human burial excavation work in the center of the Mannar city is to be reunited this week.
-
-Excavation work is being held on Thursday (07) in the area where the military camp located near the Mannar Sathosa complex, which is located in the Multipurpose Co -operative Society building.
-
-However, the Mannar district journalists have been denied permission to photograph or record the excavation work or scan activities.
-
-Earlier, the police had been allowed to report the real issues relating to the excavation work through the Mannar Magistrate's Court as the police were banned from gathering news of the Satosa human burial excavation work.
-
-Nevertheless, the new judge has now been denied permission to take excavations or other activities on the burial.
-
-It is also noteworthy that lawyers appearing on behalf of the affected parties are refusing to issue voice records on the excavation and the process of burial case.
-
-◼️
-
-[Data](articles/f1433bd1.json)
-
-[Extended Data](ext_articles/f1433bd1.ext.json)
-
----
-
-### West Indies win the ODI series against England
-
-*2024-11-07 13:01:43* · [`adalk`](https://www.ada.lk/sports/එංගලන්තයට-එරෙහි-එක්දින-තරගාවලියේ-ජය-කොදෙව්වන්ට/9-412910) · `si`
-
-West Indies triumphs over England in ODI series, winning 2 matches. England scored 263 runs, West Indies replied with 26 wickets in 43 overs.
-
-🟩
-
-West India won the three-match one-day cricket tournament against the Tourism England team yesterday (06) to win the two matches.
-
-The two wickets won the Third and Last One Day International to contest between the two wickets.
-
-England scored 263 runs for the loss of 08 wickets at the end of 50 overs.
-
-In reply, the West Indies won the match with 26 wickets in 43 overs.
-
-◼️
-
-[Data](articles/e16fe63b.json)
-
-[Extended Data](ext_articles/e16fe63b.ext.json)
-
----
-
-### Australia plan to implement new rules for social media
-
-*2024-11-07 13:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198104) · `ta`
-
-Australia plans to ban social media for children under 16. Prime Minister Anthony Albanese proposes law targeting platforms like Instagram, Facebook, TikTok, and YouTube. Law aims to protect youth from online harms. Social media companies must prove compliance. Bill to be presented to parliament this year. Implementation pending MP approval within 12 months. Parents and minors exempt from responsibility.
-
-🟩
-
-Prime Minister Antony Alpanese has announced that it is planning to implement a law to prohibit children under the age of 16 in Australia.
-
-Australian Communication Minister Michelle Roland on his official X site on Thursday (07)
-
-The law includes social media such as Meta's Instagram and Facebook, Bitonsin Dictok and Ilan Muskin X site. Alphabet's YouTube social media will also include.
-
-“Social media is harmful to our boys. So I have called for banning it, ”Antony Albanis said.
-
-Also, the law will be presented in Parliament this year. He said the law would be implemented 12 months later after receiving the approval of MPs.
-
-Social media platforms are responsible for proving that they are taking legitimate measures to prevent access, ”he said.
-
-“Responsible will not be on parents or young people,” he added.
-
-It is noteworthy that early this year, the two -party support in Australia's prohibition on the use of social media in Australia.
-
-◼️
-
-[Data](articles/d509bfd4.json)
-
-[Extended Data](ext_articles/d509bfd4.ext.json)
 
 ---

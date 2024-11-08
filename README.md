@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 15:59:08**
+As of **2024-11-08 16:13:13**
 
 ## Newspaper Stats
 
@@ -26,93 +26,147 @@ adaderanasinhalalk | 9,364
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,720 (100.0%) of 53,731 articles have been extended.
+53,725 (100.0%) of 53,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
 
-### පාසල්ට දරුවන්ට රජයෙන් සහනයක්
+### Government relieved to school children
 
 *2024-11-08 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203041) · `si`
 
-ලබන වසරේ සිට පාසල් දරුවන්ට පොත් මිල දී ගැනීම ස﻿ඳහා සහනයක් ලබාදීමට බලාපොරොත්තු වන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-අතුරුගිරිය ප්‍රදේශයේ පැවති ජන හමුවකට එක්වෙමින් ඇය වැඩිදුරටත් සඳහන් කර සිටියේ, ජනාධිපතිවරයාගේ අනුමැතිය අනුව එය සිදුකිරීමට නියමිත බවය.
+
+
+Prime Minister Dr. Haraini Amarasuriya announced relief for school children starting next year. She made this statement during a public briefing in Athurugiriya, citing presidential approval for the initiative.
+
+🟩
+
+Prime Minister Dr. Haraini Amarasuriya says that it is expected to provide relief to school children from next year.
+
+Addressing a public brief in Athurugiriya, she added that it is due to be done according to the approval of the President.
 
 ◼️
 
 [Data](articles/31926b86.json)
 
+[Extended Data](ext_articles/31926b86.ext.json)
+
 ---
 
-### மிரட்டும் தோற்றத்தில் அனுஷ்கா
+### Anushka in the appearance of intimidation
 
 *2024-11-08 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198194) · `ta`
 
-தென்னிந்திய திரையுலகின் முன்னணி நட்சத்திர நடிகையான அனுஷ்கா கதையின் நாயகியாக முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும் 'Ghatti' என ஆங்கிலத்தில் பெயரிடப்பட்டிருக்கும் திரைப்படத்தின் முதல் தோற்றப் பார்வை வெளியிடப்பட்டிருக்கிறது.
+Here's a 200-character summary:
 
-சிலம்பரசன் -அனுஷ்கா நடிப்பில் தமிழில் வெளியான 'வானம்' எனும் திரைப்படத்தை இயக்கிய இயக்குநர் கிரிஷ் இயக்கத்தில் உருவாகி இருக்கும் 'Ghatti' எனும் திரைப்படத்தில் அனுஷ்கா கதையின் நாயகியாக முதன்மையான  வேடத்தில் நடித்திருக்கிறார்.
 
-இவருடன் ரம்யா கிருஷ்ணன், ஜெகபதி பாபு , விக்ரம் பிரபு,  ரவீந்திர விஜய்,  ஜான் விஜய் , வி டி வி கணேஷ் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். மனோஜ் ரெட்டி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு நாகவல்லி வித்யாசாகர் இசையமைத்திருக்கிறார்.
 
-எக்சன் திரில்லர் ஜேனரிலான இந்த திரைப்படத்தை ஃபர்ஸ்ட் ஃபிரேம் என்டர்டெய்ன்மென்ட் எனும் நிறுவனம் சார்பில் தயாரிப்பாளர்கள் ராஜீவ் ரெட்டி மற்றும் சாய் பாபு ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள். இந்தத் திரைப்படத்தை யு வி கிரியேசன்ஸ் நிறுவனம் வழங்குகிறது.
+Anushka stars in "Ghatti" (English: "Victim-Criminal-Legend"). She appears intimidating with a bloodied face, surprising fans. Directed by Girish, produced by Rajeev Reddy and Sai Babu. Music by Nagavalli Vidyasagar.
 
-...
+🟩
+
+Anushka, the leading star actress of the South Indian film industry, has been released as the first appearance of the film titled 'Ghatti' in English.
+
+Anushka has played the lead role in the film 'Ghatti' directed by director Girish, who directed the film 'Vaanam' starring Silambarasan -Anushka.
+
+Ramya Krishnan, Jegapati Babu, Vikram Prabhu, Ravindra Vijay, John Vijay, VDV Ganesh. Nagavalli Vidyasagar has composed the film, which has been recorded by Manoj Reddy.
+
+The film was co -produced by producers Rajeev Reddy and Sai Babu on behalf of the First Frame Entertainment Company.. The film is provided by UV Creations.
+
+On the eve of actress Anushka's birthday, the film crew has released the appearance of her character in the film.
+
+Her appearance with a blooded face has been designed to be different from fans. Also, with the title of the film, Viktim - Criminal - Legend - is also in the direction of the film.
+
+◼️
 
 [Data](articles/68698560.json)
 
+[Extended Data](ext_articles/68698560.ext.json)
+
 ---
 
-### நெருப்பையும், குருதியையும் கடவுளாக வணங்கும் மக்களின் வாழ்வியல் பேசும் 'கங்குவா'
+### 'Gangua' speaking the life of the people who worship the fire and the blood.
 
 *2024-11-08 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198195) · `ta`
 
-நடிகர் சூர்யா நடிப்பில் தயாராகி எதிர்வரும் 14 ஆம் திகதியன்று உலகம் முழுவதும் தமிழ், தெலுங்கு, மலையாளம், கன்னடம், இந்தி ஆகிய மொழிகளில் பத்தாயிரத்திற்கும் மேற்பட்ட திரைகளில் வெளியாகும் 'கங்குவா ' எனும் திரைப்படத்தில் இடம்பெற்ற 'மன்னிப்பு' எனும் பாடலும், பாடலுக்கான காணொளியும் வெளியிடப்பட்டிருக்கிறது.
+"Gangua" film summary: Fire-blood worship, starring Surya, Boby Deol, Disha Patani. Directed by Siva, music by Devi Sri Prasad. Tamil, Telugu, Malayalam, Kannada, Hindi release on 14th. Experiment exploring fire-blood worship biology, forgiveness themes.
 
-இயக்குநர் சிவா இயக்கத்தில் உருவாகி இருக்கும் 'கங்குவா' எனும் திரைப்படத்தில் சூர்யா, பொபி தியோல், திசா படானி உள்ளிட்ட பல முன்னணி நட்சத்திர நடிகர்கள், நடிகைகள் நடித்திருக்கிறார்கள்.
+🟩
 
-வெற்றி பழனிச்சாமி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக்ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார்.
+Actor Surya's performance in the upcoming film 'Kangua', which will be released on the upcoming film 'Gangua', which will be released on Tamil, Telugu, Malayalam, Kannada and Hindi worldwide on the 14th of this month.
 
-ஃபேண்டஸி எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஸ்டுடியோ கிரீன் மற்றும் யுவி கிரியேஷன்ஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் கே.ஈ .ஞானவேல் ராஜா மற்றும் வம்சி- பிரமோத் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+Directed by director Siva, the film 'Gangua' has starred in many leading star stars and actresses including Surya, Bobi Deol and Dissa Patani.
+
+The film has been composed by 'Rockstar' Devi Sri Prasad.
+
+The film is being produced by Producer KE Gnanvel Raja and Vamsi-Pramod on behalf of Studio Green and Yuvi Creations.
+
+The preview of the film, which was developed in three -dimensional technology, and the release of the song 'Sorry' was held in Chennai. The film crew participated in the event.
+
+The song and a video for the song, which starts with 'Look at the thirsty soil for a man who is a thirsty man ..' has been released.
+
+Rock Star Devi Sri Prasad's charming metal, which has been released, has attracted fans as music speaks of the soul of the film.
 
 ...
 
 [Data](articles/cb73195e.json)
 
+[Extended Data](ext_articles/cb73195e.ext.json)
+
 ---
 
-### සියලු ඡන්දදායකයින්ගෙන් ඉල්ලීමක්
+### Request from all voters
 
 *2024-11-08 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203040) · `si`
 
-එළැඹෙන මහමැතිවරණ වෙනුවෙන් සියලුම ඡන්දදායකයින් ට සිය ඡන්දය භාවිත කරන ලෙස මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා ඉල්ලීමක් කරයි.
+Here's a summary of 200 characters:
 
-ඔහු පැවසුවේ ඡන්දය ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන් පුරවැසියන්ට ලබා දෙන අයිතියක් බැවින් සිය ඡන්දය භාවිත කරන ලෙසය.
 
-"ඡන්දය ඔබට ආණ්ඩුක්‍රම ව්‍යවස්ථාවෙන්ම ලබා දීලා තියෙන අයිතියක්. ඒ නිසා ඒ අයිතිය භාවිත කිරීම ඔබේ යුතුකමක්... ඡන්දය ඔබේ අයිතියයි. ඡන්දය ඔබේ බලයයි... ඒ නිසා 14 වැනිදා උදෑසන 7.00 සිට පස්වරු 4.00 දක්වා ඔබේ වටිනා ඡන්දය භාවිත කරන්න ඡන්ද පොළවල්වලට යන්න."
+
+Elections Commission Chairman Ratnayake urges citizens to exercise their constitutional right to vote. He emphasizes voting as a civic duty and powerful tool. Polls open until 4:00 pm on the 14th.
+
+🟩
+
+Elections Commission, Elections Commission, Elections Commission, Elections Commission Chairman. Mr. Ratnayake requests
+
+He said the vote is the right to citizens as the constitution is to be voted.
+
+"The vote is a right to the Constitution. So it is your duty to use that right.. The vote is your right. The vote is your power.. Therefore, to vote to the polls to vote until 4.00 pm on the 14th.
 
 ◼️
 
 [Data](articles/3382c5d1.json)
 
+[Extended Data](ext_articles/3382c5d1.ext.json)
+
 ---
 
-### மட்டக்களப்பில் சுகாதார அமைச்சினால் தட்டம்மை நோய்க்கெதிரான தடுப்பூசி ஏற்றல் நடவடிக்கைகள் ஆரம்பம்
+### The Ministry of Health in Batticaloa begins with measles vaccine adoption measures
 
 *2024-11-08 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198184) · `ta`
 
-நீண்ட கால இடைவெளிக்கு பின்னர் இலங்கையில் மீண்டும் இனம் காணப்பட்டுள்ள தட்டம்மை நோயை இல்லாதொளிக்கும் சுகாதார அமைச்சின் விசேட வேலை திட்டத்தின் கீழ் நாளை சனிக்கிழமை (09) முதல் நாடளாவிய ரீதியில் தட்டம்மை நோய்க்கெதிரான தடுப்பூசி ஏற்றல் நடவடிக்கைகள் ஆரம்பமாகின்றன.
+Measles vaccination resumes in Batticaloa after hiatus. Ministry of Health initiates special work scheme. Vaccination process conducted at Nurses College. Public Health Inspector examines child health records. Second dose required if first not received or health card missing.
 
-இத்திட்டத்தின் கீழ் நாளை மட்டக்களப்பு மாவட்டத்திலும் தட்டம்மை தடுப்பூசி ஏற்றல் நடவடிக்கைகள் நடைபெறுவதை யொட்டி மட்டக்களப்பு தாதிய கல்லூரியில் தாதிய  மாணவர்களிடையே தட்டம்மை நோய் தடுப்பூசி ஏற்றிக் கொள்ளாதவர்களை கண்டறியும் நடவடிக்கைகள் இன்று வெள்ளிக்கிழமை (08) நடைபெற்றன.
+🟩
 
-மட்டக்களப்பு மாவட்ட பிராந்திய சுகாதார சேவைகள் பணிமனையின் அனுசரணையுடன் மட்டக்களப்பு பிரதேச சுகாதார வைத்திய அதிகாரி பணிமனை இதனை மேற்கொண்டிருந்தது.
+After a long hiatus, the vaccine adoption of measles in Sri Lanka will begin tomorrow (09) under the Special Work Scheme of the Ministry of Health, which has no measles disease in Sri Lanka.
 
-மட்டக்களப்பு தாதிய  கல்லூரியில் பொது  சுகாதார பரிசோதகர் டி. மிதுன்ராஜ் முன்னிலையில் இரண்டு தடுப்பூசிகள் ஏற்றிக் கொள்ளாத தாதிய மாணவர்களின் குழந்தை சுகாதார வளர்ச்சி பதிவேடுகள் பரிசோதிக்கப்பட்டன.
+Under this scheme, the measles vaccine process was held tomorrow in the Batticaloa district and was held on Friday (08) at the Nurses College, Batticaloa.
 
-...
+This was carried out by the Batticaloa Regional Health Medical Officer's Workshop sponsored by the Batticaloa District Regional Health Services Workshop.
+
+Public Health Inspector at Nurses College, Batticaloa. In the presence of Mithunraj, the child health development records of the nurses who did not carry two vaccines were examined.
+
+The health department said that if a vaccine was initially loaded, the second vaccine should be accepted during the vaccine, or two vaccines should be loaded if the two vaccines are not loaded or the health card is lost.
+
+◼️
 
 [Data](articles/bb601685.json)
+
+[Extended Data](ext_articles/bb601685.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 09:59:54**
+As of **2024-11-08 10:24:25**
 
 ## Newspaper Stats
 
-*Scraped **53,675** Articles*
+*Scraped **53,678** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 3,209
 economynextcom | 3,256
 dailyftlk | 3,673
 dailymirrorlk | 4,733
-adalk | 5,020
+adalk | 5,021
 adaderanalk | 6,396
 tamilmirrorlk | 7,476
 virakesarilk | 8,681
-adaderanasinhalalk | 9,351
+adaderanasinhalalk | 9,353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,670 (100.0%) of 53,675 articles have been extended.
+53,675 (100.0%) of 53,678 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### දූෂිත දේශපාලනය අවසන් කළ යුතුයි - දිලිත්
+
+*2024-11-08 10:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203028) · `si`
+
+යල්පැනගිය සහ දූෂිත දේශපාලනය අවසන් කළ යුතුව ඇති බව සර්වජන බලයේ නායක ගම්පහ දිස්ත්‍රික් අපේක්ෂක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+මහනුවර ඊයේ (07) පැවති ජන හමුවකට එක්වෙමින් ඔහු පැවසුවේ සිය ප්‍රතිපත්ති ප්‍රකාශය ක්‍රියාත්මක කිරීම තුළින් රට නිවැරදි මාර්ගයේ ගමන් කරවීමට හැකියාව පවතින බවය.
+
+"තමන්ගේ ආදායම තුනෙන් එකට අඩුවෙලා. වියදම තුන්ගුණයකින්, හතර ගුණයකින් වැඩිවෙලා. තමන්ගේ කුටුම්බය පවත්වාගෙන යන්නට බෑ. ඔබට තව අවුරුදු පහක් දුක්විඳින්න පුළුවන්ද? මේ විදිහට. ඒ නිසා අපි එඩිතර විපක්ෂය හැටියට අනුර කුමාරට දෙනවා සර්වජන බලයේ උපායමාර්ගික වැඩපිළිවෙළ. කිසිම කුහකභාවයකින් තොරව."
+
+"අපි ඔක්කොම එකතුවෙන්න ඕන එක දේකට. යල්පැනගිය සහ දූෂිත චක්‍රයට හසුවූ දේශපාලනය අවසන් කළ යුතුයි. මේ රට ඉල්ලා සිටින්නේ අවංකත්වයේ දේශපාලනය. ඒ නිසයි එඩිතර විපක්ෂය පාර්ලිමේන්තුව ඇතුළට යන්න ඕන. අපට ඕන අපි හැමදාම අහපු දියුණු වෙමින් පවතින ශ්‍රී ලංකාව. මේක අඟලක් හරි ඉස්සරහට ගෙනියන්න."
+
+◼️
+
+[Data](articles/407df3c6.json)
+
+---
+
+### A young person jumps into a house
+
+*2024-11-08 09:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203027) · `si`
+
+Young person enters house, intimidated by suspect trying to abduct residents in Walasmulla. Suspect arrested, found with firearms and weapons. 22-year-old from Deniyaya, attempted to kidnap girlfriend after breakup.
+
+🟩
+
+A person who entered a house was intimidated by a person who was trying to take the residents in Walasmulla.
+
+The suspect was arrested in connection with the incident.
+
+The suspect was immediately implemented by the Valasmulla Police officials in the Walasmulla police division yesterday (07) that the residents would be trying to abduct firearms.
+
+Two Sri Lankan firearms have taken into custody to arrest the suspect in the possession of two banned knives, iron sticks and iron cuts, police said.
+
+The suspect is a 22 year old resident of Deniyaya.
+
+The suspect has operated a romantic relationship with the girl and then it has been stopped by the suspect a few months ago.
+
+The suspect had then come and tried to abduct the girl.
+
+◼️
+
+[Data](articles/362efd44.json)
+
+[Extended Data](ext_articles/362efd44.ext.json)
+
+---
 
 ### Postal voting for 2024 General Election ends today
 
@@ -263,6 +311,24 @@ Elections Commissioner General Saman Sri Ratnayake said, "Elections Commissioner
 [Data](articles/d6e46d11.json)
 
 [Extended Data](ext_articles/d6e46d11.ext.json)
+
+---
+
+### පිරමීඩ ජාවාරමකින් රු. කෝටි 1000ක් වංචා කළ අඹු සැමි යුවළක් අල්ලයි
+
+*2024-11-08 08:11:40* · [`adalk`](https://www.ada.lk/breaking_news/පිරමීඩ-ජාවාරමකින්-රු--කෝටි-1000ක්-වංචා-කළ-අඹු-සැමි-යුවළක්-අල්ලයි/11-412924) · `si`
+
+කුරුණෑගල ප්‍රදේශයේ පවත්වා ගෙන ගොස් තිබූ පිරමීඩ් මූල්‍ය ආයතනයක් මගින් තැන්පත්කකරුවන්ගේ රුපියල් කෝටි 1,000 ක පමණ මුදල් ප්‍රමාණයක් වංචා කර , රටින් පළා ගොස් සිටි පුද්ගලයෙකු සහ එම මූල්‍ය  සමාගමේ අධ්‍යක්ෂවරියක ලෙස කටයුතු කළ ඔහුගේ බිරිඳ 11/08 දින අලුයම කටුනායක ගුවන් තොටුපොළේ දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගෙන තිබේ .
+
+කුරුණෑගල ප්‍රදේශයේ පදිංචි    රණසිංහ ආරච්චිගේ ධම්මික කුමාර රණසිංහ නැමැති 52 හැවිරිදි මෙම පුද්ගලයා කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය මගහැර පළා ගොස් තිබූ අතර ,
+
+ඔහු 11/08 දින අලුයම 12.00 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට මැලේසියානු ගුවන් සේවයේ එම්.එච්.- 189 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+එසේ පැමිණි මොහු පිළිබඳ ලැබී තිබූ තොරතුරු මත  කටුනායක ගුවන් තොටුපොළ ආගමන විගමන දෙපාර්තමේන්තු නිලධාරී කවුළු වෙත යාමට පෙර  අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් විසින් අත් අඩංගුවට ගැනීමට කටයුතු කර තිබුණි .
+
+...
+
+[Data](articles/1277cadb.json)
 
 ---
 
@@ -1326,15 +1392,21 @@ Attorney Senaka Perera, who was found in the police custody, was in the investig
 
 ---
 
-### ඡන්දය දා ලංකාවට එන විශේෂ කණ්ඩායම
+### Special team coming to Sri Lanka on the election
 
 *2024-11-07 19:30:14* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දය-දා-ලංකාවට-එන-විශේෂ-කණ්ඩායම/11-412920) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයන් පිරිසක් ලබන 14දා ශ්‍රී ලංකාවට පැමිණීමට නියමිතව තිබේ. ජාත්‍යන්තර මූල්‍ය අරමුදල හා ශ්‍රී ලංකාව අතර ක්‍රියාත්මක විස්තීර්ණ මූල්‍ය පහසුකම හා මීළඟ ණය වාරිකය මෙන්ම මීළග සමාලෝචනය පිළිබදව සාකච්ඡා කිරීමට මෙම කණ්ඩායම ශ්‍රී ලංකාවට පැමිණීමට නියමිතව තිබේ.
+International Monetary Fund delegation arrives in Sri Lanka on 14th. Team visits country for financial assessment and next loan installment review.
+
+🟩
+
+A delegation from the International Monetary Fund is due to arrive on the 14th. The team is due to arrive in Sri Lanka to visit Sri Lanka with the Elapse Financial Fund and the next loan installment, as well as the next loan installment.
 
 ◼️
 
 [Data](articles/7a3d4705.json)
+
+[Extended Data](ext_articles/7a3d4705.ext.json)
 
 ---
 
@@ -2185,79 +2257,5 @@ There, Russia-Ukrainian war, the war, and what a trump is made to end the Israel
 [Data](articles/668f5b24.json)
 
 [Extended Data](ext_articles/668f5b24.ext.json)
-
----
-
-### Sri Lanka’s official reserves up by 7.9% in October
-
-*2024-11-07 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103238/sri-lankas-official-reserves-up-by-79-in-october-) · `en`
-
-Sri Lanka’s official reserve assets have significantly increased to USD 6.46 billion in October 2024, according to the Central Bank of Sri Lanka (CBSL).
-
-This is an increase of 7.9% compared to the USD 5.99 billion recorded in September 2024.
-
-Sri Lanka’s foreign currency reserves, which is the main component of official reserve assets, have also shown a significant increase to USD 6.38 billion. This is an increase of 7.3% compared to USD 5.94 billion in September 2024.
-
-In the meantime, the official gold reserves have increased to USD 42 million in October from the USD 40 million in September 2024.
-
-This is an increase of 5.8% compared to the month of September, according to the CBSL.
-
-However, this includes proceeds from the swap with the People’s Bank of China (PBoC) equivalent to around USD 1.4 billion, which is subject to conditionalities on usability.
-
-◼️
-
-[Data](articles/2011a88e.json)
-
-[Extended Data](ext_articles/2011a88e.ext.json)
-
----
-
-### Recovery as a young teacher corpse
-
-*2024-11-07 15:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளம்-ஆசிரியர்-சடலமாக-மீட்பு/175-346723) · `ta`
-
-Young teacher found dead in classroom. Body discovered after wife calls, no signs of foul play. Police investigation ongoing.
-
-🟩
-
-The body was recovered from the place where he was staying at the Nooh Lepp Mohammed Mubis (28) school on Wednesday evening (06), a native of Napittimunai and a resident of Mullaitivu.
-
-He went to the classrooms until 10.30 am after registering the arrival of the school budget on Wednesday morning.. He told the students that he would go to Trincomalee to meet the provincial governor regarding his transfer.
-
-In this case, he did not register in the machine to leave until 3.30 pm after the school.
-
-At the same time, his wife made a phone call to her husband, but he telephoned the school principal that my husband had.
-
-When the Chancellor and the teachers visited the room where the teacher was staying, he was found dead, underwear and carpet, and with blood injuries.
-
-Following this, the Pulmottai police station was informed about the incident.
-
-The body has been taken to the Mullaitivu Hospital for the death test.
-
-◼️
-
-[Data](articles/d5a1d51f.json)
-
-[Extended Data](ext_articles/d5a1d51f.ext.json)
-
----
-
-### Sri Lanka CB to monitor NGOs for money laundering, terrorism financing crimes
-
-*2024-11-07 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-to-monitor-ngos-for-money-laundering-terrorism-financing-crimes-186458/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Central Bank signed an agreement to obtain and exchange information on investigations and prosecutions of Money Laundering (ML), Terrorist Financing (TF) and related crimes in Non-Governmental Organizations (NGO) and of any persons connected with such bodies.
-
-The Central Bank’s Financial Intelligence Unit (FIU) and the National Secretariat for NGOs entered into the Memorandum of Understanding (MOU) on Monday (04) with this regard, the Central Bank said.
-
-“Non-Governmental Organizations (NGOs) could be misused for Money Laundering/Terrorism Financing and related crimes, and thereby could threaten the stability of the national and global economic and financial systems,” the Central Bank said in a statement.
-
-The National Secretariat for NGOs is responsible for registering NGOs, monitoring the activities of all the NGOs, providing facilities, and taking action against any misconduct.
-
-...
-
-[Data](articles/4d4d187e.json)
-
-[Extended Data](ext_articles/4d4d187e.ext.json)
 
 ---

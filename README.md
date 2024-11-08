@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 12:58:26**
+As of **2024-11-08 13:09:34**
 
 ## Newspaper Stats
 
-*Scraped **53,702** Articles*
+*Scraped **53,703** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,31 @@ adalk | 5,021
 adaderanalk | 6,399
 tamilmirrorlk | 7,480
 virakesarilk | 8,689
-adaderanasinhalalk | 9,358
+adaderanasinhalalk | 9,359
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,702 (100.0%) of 53,702 articles have been extended.
+53,702 (100.0%) of 53,703 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### රු බි 3.5ක වැට්‌ බදු ගෙවීම පැහැරහැරීම - සමාගම් අධ්‍යක්ෂ ඇප ඉල්ලයි
+
+*2024-11-08 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203035) · `si`
+
+රුපියල් බිලියන 3.5ක වැට් බදු මුදල් ගෙවීම පැහැරහැරීම සම්බන්ධයෙන් කොළඹ මහෙස්ත්‍රාත් අධිකරණය තමන්ට නියම කළ මාස 06ක සිරදඬුවමෙන් තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ඩබ්ලිව්. එම්. මෙන්ඩිස් සමාගමේ අධ්‍යක්ෂවරයෙකු වන රන්දෙව් දිනෙන්ද්‍ර ජෝන් ගොනුකර ඇති ඇප ඉල්ලීම පිළිබඳ නියෝගය ලබන 12 වනදා ප්‍රකාශයට පත්කරන බව අභියාචනාධිකරණය නියෝග කළේය.
+
+තමන්ව ඇප මත මුදාහරින ලෙස ඉල්ලා ඔවුන් වෙනුවෙන් ඉදිරිපත් කෙරුණු රිට් පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය මෙම නියෝගය නිකුත් කළේය.
+
+◼️
+
+[Data](articles/a539588f.json)
+
+---
 
 ### Trump begins work - Greeting up
 
@@ -2295,29 +2309,5 @@ In September, 2024, the number of official reserves reported as US $ 5,994 milli
 [Data](articles/de1c9954.json)
 
 [Extended Data](ext_articles/de1c9954.ext.json)
-
----
-
-### The government should reveal the fuel price formula - request to the government
-
-*2024-11-07 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198123) · `ta`
-
-Request: Government reveal fuel price formula. Former energy minister claims corporation operates independently, setting prices based on contracts. Current minister denies using formula for recent price adjustments. Corporation president disputes claims, urging government transparency.
-
-🟩
-
-The recent comment to the media of the Ceylon Petroleum Corporation on the determination of fuel prices is completely untrue. Kanjana Wijesekera, former minister of Energy and Energy and Energy, said that the government wants to reveal the cost of fuel prices in the last two months.
-
-He was speaking at a press conference held at the New Democratic Front's Election Office in Colombo on Thursday (07).
-
-At a media briefing, the president of the Corporation said that the Ceylon Petroleum Corporation has signed an agreement with other companies.. This claim of the leader is an attempt to make people frustrated with the past government's programs. This claim is completely untrue.
-
-Determination of the price of the Ceylon Petroleum Corporation is not based on the cost of production. The Ceylon Petroleum Corporation operates as an independent company. It is their duty to act on the basis of contracts as they acted for the past 18 months.
-
-...
-
-[Data](articles/3f5b6d21.json)
-
-[Extended Data](ext_articles/3f5b6d21.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 12:00:14**
+As of **2024-11-08 12:14:49**
 
 ## Newspaper Stats
 
-*Scraped **53,691** Articles*
+*Scraped **53,693** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,021
 adaderanalk | 6,399
-tamilmirrorlk | 7,479
+tamilmirrorlk | 7,480
 virakesarilk | 8,681
-adaderanasinhalalk | 9,356
+adaderanasinhalalk | 9,357
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,685 (100.0%) of 53,691 articles have been extended.
+53,691 (100.0%) of 53,693 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### இலஞ்சம் பெற்ற பாடசாலை அதிபர் கைது
+
+*2024-11-08 12:08:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-பெற்ற-பாடசாலை-அதிபர்-கைது/175-346769) · `ta`
+
+ராகம ஆரம்ப பாடசாலை ஒன்றின் அதிபர் இலஞ்சம் பெற முயன்ற போது கைது செய்யப்பட்டுள்ளதாக இலஞ்ச ஊழல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+ராகம மத்துமாகல பிரதேசத்தில் 2025 ஆம் ஆண்டுக்கு சிறுமியொருவர் முதலாம் தரத்திற்கு அனுமதிப்பதற்காக ஒருவரிடம் இருந்து 150,000 ரூபாயை  இலஞ்சமாக வாங்கும் போதே  கைது செய்யப்பட்டதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் கொழும்பு பிரதான நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளார். R
+
+◼️
+
+[Data](articles/e8b35180.json)
+
+---
+
+### නායකයා සමග පැටලුනු අල්සාරි ජෝසෆ්ට තහනමක්
+
+*2024-11-08 12:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203033) · `si`
+
+බ.ඉ. කොදෙව් එක්දින නායක ෂායි හෝප් සමගින් උණුසුම් වචන හුවමාරුවක පැටලුනු අල්සාරි ජෝසෆ්ට තරග දෙකක තහනමක් පැනවීමට කොදෙව් ක්‍රිකට් ආයතනය තීරණය කර ඇත.
+
+එම ආයතනය පවසන්නේ අල්සාරිගේ හැසිරීම බටහිර ඉන්දීය කොදෙව් ක්‍රිකට් ආරක්ෂාකරන මූලික ආචාරධර්මයන්ට නොගැළපෙන බවයි. එනිසා එවැනි හැසිරීම් නොසලකාහැරිය නොහැකි තත්ත්වයේ වරදක් බව පවසයි.
+
+එංගලන්තයට එරෙහිව පෙරේදා (6) අවසන් වූ තෙවැනි හා අවසන් එක්දින තරගයේදී ඇති වූ සිදුවීමක් මුල්කරගනිමින් මෙම ක්‍රියාමාර්ගය ගෙන තිබේ.
+
+එම තරගයේ 4වැනි පන්දුවාරයේදී පන්දුවට පහරදමෙින් සිටි එංගලන්ත පිතිකරු ජෝඩන් කොක්ස්ට පිටිය සැකසූ ආකාරය සම්බන්ධයෙන්
+
+කෙසේ නමුත් එම පන්දුවාරයේදී අල්සාරි ජෝසෆ්ට, කොක්ස්ගේ කඩුල්ල දවාගැනීමට හැකිවිය.
+
+එහෙත් ඔහු සිය සඟයන් සමගින් කඩුලු සැමරුමට එක් නොවූ අතර, ඒ අතරවාරයේදීද වචන විවාදයකට නිතර වී තිබේ.
+
+අල්සාරිගේ එම හැසිරීමට කොදෙව් පුහුණුකරු ඩැරස් සැමී දැඩි ලෙස අප්‍රසාදය පළකළ අතර, ඒ හේතුවෙන් ඔහු පන්දුවාරය අවසන් වනවාත් සමගම අල්සාරි වහාම ක්‍රීඩාගාරයට කැඳවීමටද කටයුතු කළේය.
+
+...
+
+[Data](articles/89681ece.json)
+
+---
 
 ### Female school principal in Ragama arrested for soliciting bribe
 
@@ -41,6 +81,8 @@ The female principal of a school in the Ragama area has been arrested for allege
 ◼️
 
 [Data](articles/586aec88.json)
+
+[Extended Data](ext_articles/586aec88.ext.json)
 
 ---
 
@@ -70,17 +112,23 @@ The suspect is to be produced before the Colombo Chief Magistrate's Court.
 
 ---
 
-### லொறி விபத்து:ஒருவர் பலி; அறுவர் காயம்
+### Lorry accident: One killed;Moor injury
 
 *2024-11-08 11:30:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/லொறி-விபத்து-ஒருவர்-பலி-அறுவர்-காயம்/76-346768) · `ta`
 
-இராகலை பொலிஸ் பிரிவுக்குட்பட்ட கந்தபளை - கொங்கொடியா பகுதியில், இன்று காலை   இடம்பெற்ற விபத்தில், ஒருவர் உயிரிழந்துள்ளதுடன், 6 பேர் காயமடைந்துள்ளதாக, இராகலை பொலிஸார் தெரிவித்தனர்.
+Tipper lorry crash kills one, injures six in Kandapalai. Vehicle overturned into 30-foot ditch near Irakalai police division.
 
-கந்தப்பளை பிரதான நகரில் இருந்து கொங்கோடியா பகுதிக்கு மர்க்கறி சேகரித்து  ஏற்றச்சென்ற டிப்பர் லொறியொன்று, பாதையை விட்டு விலகி, சுமார் 30 அடி பள்ளத்தில் விழுந்து  விபத்துக்குள்ளாகியுள்ளதாக, இராகலை பொலிஸார் தெரிவித்தனர்.
+🟩
+
+One person was killed and six people were injured in an accident this morning in Kandapalai - Kongodia area of ​​the Irakalai police division, Irakalai police said.
+
+A tipper lorry, which had been gathering and gathering from the main city of Kandapalai to the Congo, crashed into a 30 -foot ditch, and the police said.
 
 ◼️
 
 [Data](articles/3191866a.json)
+
+[Extended Data](ext_articles/3191866a.ext.json)
 
 ---
 
@@ -119,6 +167,8 @@ Sri Lanka sells Rs175bn in treasury bills, yields up for shorter maturities
 ◼️
 
 [Data](articles/5a2228f9.json)
+
+[Extended Data](ext_articles/5a2228f9.ext.json)
 
 ---
 
@@ -179,6 +229,8 @@ The central bank announced Rs 85,000 million Treasury Bonds under the series of 
 ...
 
 [Data](articles/e0876f87.json)
+
+[Extended Data](ext_articles/e0876f87.ext.json)
 
 ---
 
@@ -693,6 +745,8 @@ Sri Lanka 7-pct mortgage loans for houses, land, apartments, renovation
 ...
 
 [Data](articles/58fbf053.json)
+
+[Extended Data](ext_articles/58fbf053.ext.json)
 
 ---
 
@@ -1397,6 +1451,8 @@ It poses several potential challenges to the global dominance of the United Stat
 ...
 
 [Data](articles/f8e6178a.json)
+
+[Extended Data](ext_articles/f8e6178a.ext.json)
 
 ---
 
@@ -2197,55 +2253,5 @@ He highlighted that their wish is to provide guidance to the President and alleg
 [Data](articles/b4a92996.json)
 
 [Extended Data](ext_articles/b4a92996.ext.json)
-
----
-
-### Increase
-
-*2024-11-07 16:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சொத்துக்-கையிருப்பு-அதிகரிப்பு/175-346727) · `ta`
-
-Sri Lanka's property reserves rose from $5.99B to $6.46B in Oct 2024, a 7.9% increase. This includes $1.4B from China's PBOC, pending use.
-
-🟩
-
-Sri Lanka's official property reserves increased from $ 5.99 billion in September to $ 6.46 billion in October 2024.
-
-According to the Central Bank of Sri Lanka (CBSL), this is a significant increase in 7.9%.
-
-It also includes the Chinese People's Bank (PBOC) alternative, which is equal to US $ 1.4 billion and is subject to use.
-
-◼️
-
-[Data](articles/fcfad863.json)
-
-[Extended Data](ext_articles/fcfad863.ext.json)
-
----
-
-### Monitoring of the inquiry related to Madash's death
-
-*2024-11-07 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203009) · `si`
-
-Madash death inquiry: CID takes over, Magistrate orders investigation, lawyer requests probe assignment, Judicial Service Commission issues circular, police updates court on progress.
-
-🟩
-
-The Investigation Criminal Investigation Department (CID) has been handed over to the Investigation Criminal Investigation Department (CID) regarding the death of a powerful underworld gang leader.
-
-According to the monasteries who were present on behalf of the rights of the deceased, the case was called before Colombo Additional Magistrate Manjula Ratnayake.
-
-Attorney at Law Senak Perera, who appeared for the rights of the deceased, said that a proper investigation was not carried out regarding his client's death.
-
-Accordingly, the lawyer also requested the court to issue an order to assign the investigations into the CID.
-
-After considering the submissions, the Magistrate said that such an order was issued with the circular issued by the Judicial Service Commission.
-
-However, the Magistrate said that if the aggrieved party wanted to go to the relevant institutions, he will complain to investigations.
-
-...
-
-[Data](articles/c45c1916.json)
-
-[Extended Data](ext_articles/c45c1916.ext.json)
 
 ---

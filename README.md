@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 08:01:48**
+As of **2024-11-08 08:23:18**
 
 ## Newspaper Stats
 
-*Scraped **53,659** Articles*
+*Scraped **53,662** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 3,673
 dailymirrorlk | 4,733
 adalk | 5,019
 adaderanalk | 6,391
-tamilmirrorlk | 7,469
+tamilmirrorlk | 7,470
 virakesarilk | 8,681
-adaderanasinhalalk | 9,348
+adaderanasinhalalk | 9,350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,642 (100.0%) of 53,659 articles have been extended.
+53,643 (100.0%) of 53,662 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-08 (Friday)
+
+### மலேசியாவில் இருந்து வந்த இலங்கையர் கைது
+
+*2024-11-08 08:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலேசியாவில்-இருந்து-வந்த-இலங்கையர்-கைது/175-346758) · `ta`
+
+மலேசியாவில் இருந்து வருகை தந்த இலங்கையர் (52 வயது) CID அதிகாரிகளால் விமான நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+பிரமிட் மோசடி மூலம் பல நபர்களிடமிருந்து 1,800 மில்லியன் ரூபாய் மோசடி செய்து விட்டு சுமார் ஒரு வருடத்திற்கு முன்பு நாட்டை விட்டு தப்பிச் சென்றிருந்தார்.
+
+◼️
+
+[Data](articles/b766c144.json)
+
+---
+
+### මූල්‍ය වංචා සිද්ධියක සැකකරුවෙක් කටුනායකදී අත්අඩංගුවට
+
+*2024-11-08 08:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203025) · `si`
+
+පිරමීඩ ජාවාරමක නිරතවී රුපියල් මිලියන 1,800ක මුදල් වංචා සිදුකර රටින් පළාගිය සැකකරුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+ශ්‍රී ලාංකිකයෙකු වන  52 හැවිරිදි අදාළ සැකකරු මැලේසියාවේ සිට අද (08) පෙරවරුවේ යළි ශ්‍රී ලංකාවට පැමිණීමේදී කටුනායක ගුවන්තොටුපොළ තුළදී අත්අඩංගුවට ගෙන ඇත.
+
+පොලීසිය සඳහන් කරන්නේ මෙම සැකකරු පිරමීඩ ජාවාරමක් හරහා පුද්ගලයින්ගේ මුදල් වංචා කර මීට වසරකට පෙර රටින් පළාගොස් සිටි අයෙකු බවය.
+
+මෙම පුද්ගලයා පිළිගැනීම සඳහා ගුවන්තොටුපොළ වෙත පැමිණ සිටි ඔහුගේ බිරිඳව ද අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+◼️
+
+[Data](articles/8ddb1466.json)
+
+---
+
+### වෙන්නප්පුවේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+
+*2024-11-08 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203024) · `si`
+
+වෙන්නප්පුව පොලිස් වසමේ කිඹුල්ගාල ප්‍රදේශයේදී ඊයේ (07) සවස සිදුකළ වෙඩිතැබීමේ සිද්ධිය පිළිබඳ තොරතුරු රැසක් මේ වනවිට අනාවරණය වී තිබේ
+
+නිවසක් අසල සිදුකළ එම වෙඩිතැබීම හේතුවෙන් පුද්ගලයෙකු සහ කාන්තාවක් තුවාල ලබා මාරවිල රෝහලට ඇතුළත් කෙරුණි.
+
+තුවාලකරු වයස අවුරුදු 43ක් වන මාරවිල ප්‍රදේශයේ පදිංචිකරුවෙකු වන අතර, තුවාලකාරිය වයස අවුරුදු 65ක් වන වෙන්නප්පුව ප්‍රදේශයේ පදිංචිකාරියකි.
+
+නිවසක ජල පෙරණ කට්ටල නඩත්තු කටයුතු සඳහා පැමිණි පුද්ගලයන් දෙදෙනෙකු අලුත්වැඩියා කටයුතු සිදුකර නිවසෙන් පිටව යන අවස්ථාවේදී මුහුණු ආවරණය කරගෙන යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් මෙම වෙඩිතැබීම සිදුකර ඇත.
+
+එහිදී නඩත්තු කටයුතු සඳහා පැමිණි පුද්ගලයෙකු සහ අදාළ නිවසේ කාන්තාව තුවාල ලබා තිබුණි.
+
+වෙඩිතැබීම සිදුකළ සැකකරුවන් හඳුනාගෙන ඇති අතර ඔවුන් අත්අඩංගුවට ගැනීම සඳහා විමර්ශන සිදුකරන බව වෙන්නප්පුව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/dbed51b9.json)
+
+---
 
 ### The motorcycle is a crack for the backdrop
 
@@ -245,6 +299,8 @@ Sri Lanka has a new President. One of his most important tasks will be to restor
 ...
 
 [Data](articles/819a3fe8.json)
+
+[Extended Data](ext_articles/819a3fe8.ext.json)
 
 ---
 
@@ -642,13 +698,15 @@ Starting with a single client serving 350 employees, Raffles now provides nearly
 
 *2024-11-07 23:22:00* · [`economynextcom`](https://economynext.com/186569-186569/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s application to become a member in the BRICS has been rejected by the group’s current membership, but its request to become a member of New Development Bank (NDB) established by member countries to mobilise resources for infrastructure in emerging markets, the cabinet spokesman said.
+ECONOMYNEXT – Sri Lanka’s application to become a member in the BRICS has been rejected by the group’s current membership, but its request to become a member of BRICS’ New Development Bank (NDB) has been accepted, the cabinet spokesman said.
 
 Established in 2015 by BRICS (Brazil, Russia, India, China, and South Africa), the NDB is a multilateral development bank aimed at mobilising resources for infrastructure and sustainable development projects in BRICS and other emerging markets and developing countries (EMDCs).
 
 Sri Lanka applied for the membership of BRICS when its delegation led by Foreign Secretary Aruni Wijewardena took part in the BRICS summit last month held in Russia.
 
 BRICS, an economic and political group has been gaining increasing relevance in recent years.
+
+It poses several potential challenges to the global dominance of the United States and the central role of the U.S. dollar in international trade and finance.
 
 ...
 
@@ -2185,75 +2243,5 @@ Deputy Inspector General of Police Ruwan Gunasekera, who is responsible for the 
 [Data](articles/c691b921.json)
 
 [Extended Data](ext_articles/c691b921.ext.json)
-
----
-
-### State Veterinary Medical Officers Association to meet the Governor of the Northern Province
-
-*2024-11-07 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198098) · `ta`
-
-Northern Province Veterinary Officers Association meets Governor Vedanayaga. Discusses animal medication shortages, driver scarcity, doctor transfers, and illegal therapy impacts. Governor promises immediate action and consultation with authorities.
-
-🟩
-
-Governor of the Northern Province Vedanayagan met with the Northern Province Government Veterinary Officers Association on Wednesday (06).
-
-The meeting was attended by the President of the Northern Province State Veterinary Officers Association, Dr.M. Muralidas, Secretary Dr.S. Sukirthan and Vice President Dr.S. Kripanandakumaran.
-
-The union has informed the governor about a number of difficulties that prevent the Supreme Service to the Livestock Farmers.
-
-The governor was informed about the lack of medications to treat animals, and the lack of appropriate mechanisms, the lack of vehicle drivers and the lack of drivers, the need for the firm presence of the veterinary doctors' transfer and the stability of the livestock.
-
-Amidst various challenges, the Department of Livestock Production Health and Veterinary Husbands have been informed of the services of the entire Province and the impact of farmers by illegal therapists.
-
-...
-
-[Data](articles/afd08bf2.json)
-
-[Extended Data](ext_articles/afd08bf2.ext.json)
-
----
-
-### Clashes at the Jammu and Kashmir Council
-
-*2024-11-07 13:14:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜம்மு-காஷ்மீர்-பேரவையில்-கைகலப்பு/175-346719) · `ta`
-
-Jammu & Kashmir Assembly clash over Article 370 restoration. Opposition MLA Khurshid Ahmed Sheikh displayed banner demanding reinstatement. BJP MLA Sunil Sharma supported move. Melee erupted when BJP members attempted to seize banner. Opposition condemned revocation of Article 370 and 35A, urging federal government to restore special status and political autonomy.
-
-🟩
-
-Langeet MLA Khurshid Ahmad Sheikh in the Jammu and Kashmir assembly, a banner on Thursday called for the return of Article 370 of Article 370. Khurshid Bararamullah is a member of the Lok Sabha and a prison engineer Rashid's brother.
-
-In the banner showed by Khurshid from the Awami Ittehak Party, the legislature should be redeemed and the release of political prisoners. Sunil Sharma, the opposition leader and BJP MLA, came into the center of the Khurshid Convention that did not oppose it.
-
-The Speaker also advised Khurshid to sit in his seat. He continued to stand with the banner at the center of the House. Thus some BJP tried to snatch the banner from his hand. This caused me a melee. At that time, Pulwama MLA of the PDP was trying to save Khurshid.
-
-...
-
-[Data](articles/f1d76355.json)
-
-[Extended Data](ext_articles/f1d76355.ext.json)
-
----
-
-### 2941 students have lost universities in two years
-
-*2024-11-07 13:13:25* · [`adalk`](https://www.ada.lk/breaking_news/අධ්‍යන-වර්ෂ-දෙකකදී-සිසුන්-2941ට-සරසවි-වරම්-අහිමිවෙලා/11-412911) · `si`
-
-Summary: 2941 students lost university admissions over 2 years due to 1857 vacancies. Audit suggests universities should plan for maximum student intake. University Grants Commission responsible for vacancies.
-
-🟩
-
-The National Audit Office that the students had lost 2941 university admission to the students during the two year years of age on the basis of the universities of the universities.Nov. A newly issued audit report issued on the 5th of this month.
-
-1821/2022 Academic Year 222 After Admission of Students for Universities, 1857 vacancies. 2021/2022 The number of vacancies for the universities was 1084. Audit has revealed that the number of vacancies should be taken to ensure that maximum students should be planned to provide the university access.
-
-The Fundament commissions have stated that these vacancies have been attached to the Vacancies by the University Grants Commission.
-
-◼️
-
-[Data](articles/5fefdd8c.json)
-
-[Extended Data](ext_articles/5fefdd8c.ext.json)
 
 ---

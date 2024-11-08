@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 01:25:06**
+As of **2024-11-09 01:40:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,803 (100.0%) of 53,805 articles have been extended.
+53,805 (100.0%) of 53,805 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -304,6 +304,8 @@ As a senior journalist observed in these columns not many moons ago: “Sri Lank
 
 [Data](articles/559de7aa.json)
 
+[Extended Data](ext_articles/559de7aa.ext.json)
+
 ---
 
 ### Muslim Personal Law Reform Action Group has its say over new Govt.’s stance on MMDA
@@ -319,6 +321,8 @@ We are deeply concerned about the recent remarks made by Minister Vijitha Herath
 ...
 
 [Data](articles/87d4d386.json)
+
+[Extended Data](ext_articles/87d4d386.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-08 22:58:18**
+As of **2024-11-08 23:10:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,378
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,780 (100.0%) of 53,783 articles have been extended.
+53,783 (100.0%) of 53,783 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -104,19 +104,27 @@ The traffic on the Kandy-Jaffna A9 road was blocked due to watering the city in 
 
 ---
 
-### சட்டவிரோத மரக்களஞ்சியசாலை வைத்திருந்ததாக கயுவத்தைக்கு பொறுப்பான அத்தியட்சகர் ஒருவர் கைது
+### A superintendent in charge of Kaywat
 
 *2024-11-08 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198232) · `ta`
 
-மன்னார் சிலாவத்துறை பொலிஸ் பிரிவில் சட்டவிரோதமான முறையில் மரக்குற்றி களஞ்சியம் ஒன்றை நடாத்தி வந்ததாக கயுவத்தைக்கு பொறுப்பான அத்தியட்சகர் ஒருவர் 1820 மரத் துண்டுகளுடன் சந்தேகத்தின் மீது கைது செய்யப்பட்டுள்ளார்.
+Superintendent arrested for illegal wooden barn construction in Mannar Chilawaturai police division. 1820 wooden pieces seized. Case handed over to Chilawathurai police for further investigation.
 
-மன்னார் சிலாவத்துறை பொலிஸ் நிலையத்துக்கு உட்பட்ட பகுதியிலுள்ள கயுவத்தை பகுதியில் அனுமதி பத்திரமின்றி  கயுவத்தை பகுதியில் மரச்சாலை இயங்கி வருவதாக பொலிசாருக்கு கிடைக்கப் பெற்ற இரகசிய தகவலைத் தொடர்ந்து பொலிசார் இவ் இடத்தை கைப்பற்றியுள்ளனர்.
+🟩
 
-மன்னார் பிரிவு சிரேஷ்ட பொலிஸ் அத்தியட்சகர் எல்.ஏ.எஸ்.சந்திரபாலவின் பணிப்புரையின் கீழ் மன்னார் மாவட்ட குற்றப்புலனாய்வு பிரிவின் அதிகாரிகளால் மாவட்ட குற்றதடுப்பு பிரிவு பொறுப்பதிகாரியான பொ.பா.சில்வாவின் வழிகாட்டுதலின் கீழ், பிரதேச குற்றப் புலனாய்வுப் பிரிவினர் பொ.சா36501 ரத்ணமனல இ 74927 குணசிங்க பொ.கொ37662 கருணாசிங்க , 37883 பிரேமரத்ன , 66638 ரத்னாயக்க , 83790 விமுர்த்தி  90464 திசாநாயக்க, 313999  சுபிதரன் என்போரால் இவ்நடவடிக்கை மேற்கொள்ளப்பட்டது.
+A superintendent in charge of Kaywatte has been arrested on suspicion of 1820 wooden pieces for allegedly conducting a wooden barn in the Mannar Chilawaturai police division.
+
+Police have seized the site following confidential information received by the police that the wooden road was operating in the Kaywatte area without permission in the Kaywatte area in the Mannar Chilawaturai police station.
+
+Under the Mannar Division Senior Superintendent of Police, LAS Chandrapala, under the guidance of District Criminal Investigation Division officials in charge of the Mannar District Criminal Investigation Division, PP Silva, Divisional Criminal Investigation Division66638 Ratnayaka, 83790 Vimurthi 90464 Dissanayake, 313999 Subitharan.
+
+The barn is a large number of matches. About 1820, milk and various timber boards have been found and have been arrested on suspicion of conducting a man in charge of Kaywat.
 
 ...
 
 [Data](articles/326aec7d.json)
+
+[Extended Data](ext_articles/326aec7d.ext.json)
 
 ---
 
@@ -168,19 +176,25 @@ Meanwhile, the Election Commission reported an increase in election-related comp
 
 ---
 
-### மிகவும் விரும்பத்தக்க தீவு நாடாக சர்வதேச விருது வழங்கல் விழாவில் முதலிடம் பிடித்தது இலங்கை
+### Sri Lanka is the most desirable island country at the International Awards Ceremony
 
 *2024-11-08 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198231) · `ta`
 
-லண்டனில் நடைபெற்ற வொன்டர்லஸ்ட் ரீடர் டிரவல் (Wanderlusr Reader Travel Awards - 2024)  விருதுகள் விழாவில் உலக சுற்றுலாப்பயணிகளிடையே மிகவும் விரும்பத்தக்க தீவு நாடாக இலங்கை தேர்ந்தெடுக்கப்பட்டுள்ளது.
+Sri Lanka wins "most desirable island" at Wanderlusr Reader Travel Awards 2024 in London. Surpasses previous 8th place finish. Over 2 million tourists select it. Australia named most desirable country, city.
 
-இந்த விருதுகளில் இலங்கையானது மிகவும் விரும்பத்தக்க தீவுக்கான தங்க விருதை வென்றுள்ளது. கடந்த வருடம் இந்தப் போட்டியில் எட்டாவது இடத்திலிருந்த இலங்கை இவ்வாண்டு முதலிடத்தைப் பெற்றுள்ளது.
+🟩
 
-இரண்டு இலட்சத்துக்கும் அதிகமான சுற்றுலாப் பயணிகளால் வாக்களிக்கப்பட்டு இந்த விருது இலங்கைக்கு கிடைத்துள்ளது. மேலும் அவுஸ்திரேலியா மிகவும் விரும்பத்தக்க நாடாகத் தேர்ந்தெடுக்கப்பட்டதுடன், டோக்கியோ மிகவும் விரும்பத்தக்க நகரம் என்ற விருதையும் பெற்றுக் கொண்டுள்ளது.
+Sri Lanka has been selected as the most desirable island among world tourists at the Wanderlusr Reader Travel Awards (2024) awards ceremony in London.
+
+Sri Lanka has won the golden award for the most desirable island of these awards. Sri Lanka topped the eighth place last year.
+
+The award was received by more than two million tourists. Australia has been selected as the most desirable country and has won the award for the most desirable city.
 
 ◼️
 
 [Data](articles/c8c8100f.json)
+
+[Extended Data](ext_articles/c8c8100f.ext.json)
 
 ---
 
@@ -1242,19 +1256,27 @@ Addressing a public brief in Athurugiriya, she added that it is due to be done a
 
 ---
 
-### " தேசிய அரசியலில் தீர்க்கமான மாற்றத்துக்கு மத்தியல் தமிர்களுக்கு பலம்வாய்ந்த பாராளுமன்ற பிரதிநிதித்துவம் அவசியம் " - எம்.ஏ. சுமந்திரன்
+### "The strongest parliamentary representation is essential for the decisive change in national politics" - MA. Sumanthiran
 
 *2024-11-08 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198193) · `ta`
 
-ஜனாதிபதி தேர்தலில் தேசிய மக்கள் சக்தியின் தலைவர் அநுரா குமார திசாநாயக்க வெற்றிபெற்று ஆட்சியதிகாரத்துக்கு வந்ததையடுத்து தேசிய அரசியலில் தீர்க்கமான மாற்றம் ஏற்பட்டிருந்தாலும் கூட தமிழ் மக்கள் தங்களின் உரிமைகளையும் நீண்டகாலமாக புறக்கணிக்கப்படும் கோரிக்கைகளையும் வலியுறுத்துவதற்கு அவர்களுக்கு உறுதியான பாராளுமன்ற பிரதிநிதித்துவம் அவசியம் என்று தமிழ் அரசியல்வாதி எம்.ஏ. சுமந்திரன் கூறுகிறார்.
+Strongest parliamentary representation crucial for decisive change in national politics. Tamil National Alliance seeks firm representation to emphasize rights and long-awaited demands. Economic crisis and political shifts impact Tamil representation in Sri Lanka's Parliament.
 
-ஜனாதிபதி சட்டத்தரணியும் முன்னாள் பாராளுமன்ற உறுப்பினருமான சுமந்திரன் நவம்பர் 14 பாராளுமன்ற தேர்தலில் இலங்கை தமிழரசு கட்சியின் வேட்பாளர்களில் ஒருவராக போட்டியிடுகிறார்.
+🟩
 
-இலங்கை தமிழர்களை பல தசாப்தங்களாக பாராளுமன்றத்தில் பிரதிநிதித்துவப்படுத்தி வந்த தமிழரசு கட்சி 2001  ஆம் ஆண்டு முதல் தமிழ் தேசிய கூட்டமைப்பின் தலைமைத்துவ கட்சியாக விளங்கியது. 2015 - 2019 பாராளுமன்றத்தில் பாராளுமன்றத்தில் 16 ஆசனங்களை கொண்டிருந்த கூட்டமைப்பு கலைக்கப்பட்ட பாராளுமன்றத்தில் (2020 -2024) பத்து ஆசனங்களையே கொண்டிருந்தது.
+The leader of the National People's Power in the presidential election, Anura Kumara Dissanayake, who came to power, has a decisive change in national politics, and that the Tamil politician MA need a firm parliamentary representation to emphasize their rights and the long -awaited demands.. Says Sumanthiran.
+
+President's lawyer and former parliamentarian Sumanthiran is contesting the November 14 parliamentary election as one of the candidates of the Sri Lanka Tamil National Party.
+
+The Tamil National Alliance (TNA), which has been representing the Sri Lankan Tamils ​​for decades in Parliament for decades, has been the leadership party of the TNA since 2001. The 2015 - 2019 Parliament, which had 16 seats in Parliament, had only ten seats in the dissolved parliament (2020-2024).
+
+The 2022 economic crisis, which led to the people's Morarata movement, who chased away President Gotabhaya Rajapakse from office, has greatly converted Sri Lanka's political and electoral landscape.
 
 ...
 
 [Data](articles/dd5c3992.json)
+
+[Extended Data](ext_articles/dd5c3992.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 08:21:45**
+As of **2024-11-09 08:45:42**
 
 ## Newspaper Stats
 
-*Scraped **53,818** Articles*
+*Scraped **53,827** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,109 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,030
 adaderanalk | 6,412
-tamilmirrorlk | 7,499
+tamilmirrorlk | 7,506
 virakesarilk | 8,712
-adaderanasinhalalk | 9,380
+adaderanasinhalalk | 9,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,818 (100.0%) of 53,818 articles have been extended.
+53,824 (100.0%) of 53,827 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### මූල්‍ය වංචාවකට සම්බන්ධ ලංකාවේ 58 CID භාරයට
+
+*2024-11-09 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203059) · `si`
+
+අන්තර්ජාල මූල්‍ය වංචාවලට සම්බන්ධ බවට සැකකෙරෙන ශ්‍රී ලාංකිකයින් 58 දෙනෙකුගෙන් යුත් කණ්ඩායමක් අත්අඩංගුවට ගත්බව පොලීසිය පැවසීය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් නාරාහේන්පිටදී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/35f271e2.json)
+
+---
+
+### ’வாக்காளர்கள் இம்முறை கவனமாக இருக்க வேண்டும்’
+
+*2024-11-09 08:24:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்கள்-இம்முறை-கவனமாக-இருக்க-வேண்டும்/175-346817) · `ta`
+
+சில சிரேஷ்ட அரசியல்வாதிகள் தமது வருமான ஆதாரங்களை வெளியிட வேண்டியிருப்பதன் காரணமாக, இந்த ஆண்டு பொதுத் தேர்தலில் போட்டியிட மாட்டார்கள் என, தேர்தல் கண்காணிப்பு அமைப்புகள் தெரிவிக்கின்றன.
+
+எனவே, வாக்களிக்கும் வேட்பாளர்களை தெரிவு செய்யும் போது வாக்காளர்கள் மிகவும் கவனமாக இருக்க வேண்டும் என, ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகள் நிறுவகத்தின் நிறைவேற்று பணிப்பாளர் மஞ்சுள கஜநாயக்க தெரிவித்தார்.AN
+
+◼️
+
+[Data](articles/0b82c83e.json)
+
+---
+
+### வாக்குச்சீட்டு இல்லாமலும் இம்முறை வாக்களிக்கலாம்
+
+*2024-11-09 08:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டு-இல்லாமலும்-இம்முறை-வாக்களிக்கலாம்/175-346816) · `ta`
+
+உத்தியோகபூர்வ வாக்குச்சீட்டு இல்லாமல் கூட வாக்களிக்க முடியும் என, தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/cf6e8a3b.json)
+
+---
+
+### Government experiments seek to prevent floods from floods in Matara
+
+*2024-11-09 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203058) · `si`
+
+President of the Presidential Secretary Dr. Nandika Sanath has instructed the officials to resolve the causes of the floods in the Matara Nilwala Solutions.
+
+The Presidential Media Unit stated that the salt barrier constructed in the Nilwala River in the Nilwala River in Matara has been reported that the floods have contributed to the rise.
+
+At a meeting held at the Presidential Secretariat, the Presidential Secretary has been instructed by the Secretary to the Department of Irrigation and the National Water Supply and Drainage Board.
+
+It is reported that the provision of permanent solutions to a formal studies have been decided by a formal study to whether the construction of the salt barrier is caused by flooding and salt water.
+
+The Presidential Secretary said that the Presidential Secretary has agreed to the proposal to obtain assistance to the University of Peradeniya to proceed with the study proposals.
+
+...
+
+[Data](articles/8e6e9ee5.json)
+
+[Extended Data](ext_articles/8e6e9ee5.ext.json)
+
+---
+
+### The attention of the 20 - 30 years of age ...
+
+*2024-11-09 08:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-30-வயதுடையோரின்-கவனத்துக்கு/175-346815) · `ta`
+
+Measles vaccination event today for 20-30 year olds. Youth-led initiative. Nearby health offices offer vaccines. Systematic doses available for ages 9-19. Health department warns of potential disease resurgence. 1100 cases reported since May 2022.
+
+🟩
+
+A measles vaccination event will be held today (09).
+
+Atula Liabatrana, a social medical expert at the Infectious Disease Division, said that the program is being implemented by the youth community.
+
+Accordingly, people aged 20 to 30 can get a measles vaccine at the nearest health officer's office today.
+
+The doctor from the age of 9 to 19 can also get a dose vaccine systematically, the doctor said.
+
+The Department of Health has pointed out that there is a risk of re -spreading the disease from the country.
+
+The number of measles patients in Sri Lanka from May last year was 1,100.An
+
+◼️
+
+[Data](articles/93cec0de.json)
+
+[Extended Data](ext_articles/93cec0de.ext.json)
+
+---
 
 ### 58 arrested over online scams by CID at Narahenpita
 
@@ -63,6 +153,26 @@ Heavy showers above 150 mm are likely at some places in North western, Central, 
 [Data](articles/850371b2.json)
 
 [Extended Data](ext_articles/850371b2.ext.json)
+
+---
+
+### 58 arrested in connection with internet financial fraud
+
+*2024-11-09 07:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இணைய-நிதி-மோசடி-தொடர்பில்-58-பேர்-கைது/175-346814) · `ta`
+
+Sri Lanka: 58 arrested for internet financial fraud. Criminal Investigation Department detains suspects in Kirulapan.
+
+🟩
+
+58 Sri Lankans have been arrested on charges of fraudulent fraud.
+
+The suspects have been arrested by the Criminal Investigation Department at Kirulapan. (A)
+
+◼️
+
+[Data](articles/df9d4cf2.json)
+
+[Extended Data](ext_articles/df9d4cf2.ext.json)
 
 ---
 
@@ -102,6 +212,50 @@ New Zealand passes the event last year and win the tournament 2-1.
 
 ---
 
+### Rain in many parts of the country
+
+*2024-11-09 07:24:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-மழை/175-346813) · `ta`
+
+Rain forecast: Central, Sabaragamuwa, Uva provinces; Galle, Matara districts. Southwest winds 30-40 km/h. Thunderstorms possible.
+
+🟩
+
+The Department of Meteorology has announced that there will be a possibility of rain or thunderstorms in many parts of the Central, Sabaragamuwa and Uva provinces, Galle and Matara districts.
+
+The wind is expected to blow from the southwest direction in the seas around the country and the wind is expected to be up to 30-40 km per hour.. (A)
+
+◼️
+
+[Data](articles/03bb0c9d.json)
+
+[Extended Data](ext_articles/03bb0c9d.ext.json)
+
+---
+
+### 90,000 police appointed for election duty
+
+*2024-11-09 07:22:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கடமைக்காக-90-000-பொலிஸார்-நியமனம்/175-346812) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+9,000 police assigned election duty. 3,200 special task force officers involved. Only 11,000 soldiers deployed for state seat security during elections.
+
+🟩
+
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said they were included in the 3,200 police Special Task Force officers.
+
+During the election, only 11,000 soldiers were deployed for the safety of state seats, he said. Those
+
+◼️
+
+[Data](articles/6c77c654.json)
+
+[Extended Data](ext_articles/6c77c654.ext.json)
+
+---
+
 ### Heavy rains in several areas
 
 *2024-11-09 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203056) · `si`
@@ -123,6 +277,28 @@ The public is also requested to take necessary steps to reduce the damages cause
 [Data](articles/01d696e2.json)
 
 [Extended Data](ext_articles/01d696e2.ext.json)
+
+---
+
+### RIT Call for two
+
+*2024-11-09 06:20:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விவகாரம்-இருவருக்கு-ரி-ஐ-டி-அழைப்பு/175-346811) · `ta`
+
+Former temple members summoned by Terrorist Investigation Unit regarding Adi Shiva temple affair in Vavuniya. Sasikumar and Vettu Nirimalai asked to provide rehabilitation documents of ex-combatant Sasikumar.
+
+🟩
+
+Two former members of the temple have been summoned by the Terrorist Investigation Unit to investigate the Adi Shiva temple affair in Vavuniya.
+
+Sasikumar and former secretary of the Athilingeswarar Temple in Vavuniya North, Vettu Nirimalai have been informed to come to the Terrorist Investigation Division in Vavuniya on Saturday.
+
+It was reported that he had been informed by a telephone call by the Terrorism Investigation Department to bring all the rehabilitation documents of the ex -combatant Sasikumar.. (A)
+
+◼️
+
+[Data](articles/064e3af5.json)
+
+[Extended Data](ext_articles/064e3af5.ext.json)
 
 ---
 
@@ -2147,229 +2323,5 @@ It is noteworthy that the restaurant owner was arrested on the 27th of last mont
 [Data](articles/4eeb77db.json)
 
 [Extended Data](ext_articles/4eeb77db.ext.json)
-
----
-
-### Principal remanded
-
-*2024-11-08 14:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203039) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo Magistrate's Court orders primary school principal to admit student. Bribery Commission arrests principal for accepting bribe. Child cannot attend school due to bribery allegations.
-
-🟩
-
-The Principal of the Colombo Magistrate's Court prescribed the principal of a primary school in Maturalumakala area in Ragama to enter a child to enter his school's first grade.
-
-The suspect was arrested by the Bribery Commission today (08).
-
-The suspect was arrested by the Bribery Officers of the Bribery Commission when the bribery was obtained from his office.
-
-The Bribery Commission states that the complainant's child cannot be admitted to the school and that the correspondence could be included in the school.
-
-The suspect had found more than Rs.
-
-◼️
-
-[Data](articles/c57aec8b.json)
-
-[Extended Data](ext_articles/c57aec8b.ext.json)
-
----
-
-### Woman chief officer appointment to White House for the first time
-
-*2024-11-08 14:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/முதன்முறையாக-வெள்ளை-மாளிகைக்கு-பெண்-தலைமை-அதிகாரி-நியமனம்/50-346779) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Donald Trump appoints Susan Wiles as White House Chief Officer, marking first woman in this position. She also leads his election campaign committee.
-
-🟩
-
-Donald Trump has appointed Susan Wiles, the chief of the White House, the chief of the election campaign committee.
-
-◼️
-
-[Data](articles/1948c271.json)
-
-[Extended Data](ext_articles/1948c271.ext.json)
-
----
-
-### First female officer appointment to White House
-
-*2024-11-08 14:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வெள்ளை-மாளிகைக்கு-முதல்-பெண்-அதிகாரி-நியமனம்/50-346779) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Donald Trump appoints Susan Wiles as first female White House Chief of Staff and head of election campaign committee.
-
-🟩
-
-Donald Trump has appointed Susan Wiles, the chief of the White House, the chief of the election campaign committee.
-
-◼️
-
-[Data](articles/d1e908a3.json)
-
-[Extended Data](ext_articles/d1e908a3.ext.json)
-
----
-
-### Treasury Bonds of Rs. 500 million
-
-*2024-11-08 14:14:47* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි-132-500ක-භාණ්ඩාගාර-බැඳුම්කර-නිකතුවක්/11-412929) · `si`
-
-Central Bank of Sri Lanka auctions Treasury Bonds worth Rs. 500 million. Payment deadline: November 18. These bonds are long-term loans issued by the government under the Registered Materials and Securities Ordinance.
-
-🟩
-
-The Central Bank of Sri Lanka announced that a auction of Treasury Bonds of Rs.
-
-The Treasury Bonds of Rs. 85,000 million worth of Rs.
-
-The November 18 payments should be made for this Treasury Bond issue.
-
-(Treasury bond is a medieval and long-term loan tool issued by the Government of Sri Lanka under the Registered Material and Securities Ordinance No. 7 of 1937 under the registered mass and securities ordinance.. It is used for government budget requirements.)
-
-◼️
-
-[Data](articles/96aa7afe.json)
-
-[Extended Data](ext_articles/96aa7afe.ext.json)
-
----
-
-### New winds in the Bay of Bengal
-
-*2024-11-08 14:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-புதிய-காற்றழுத்த-தாழ்வு/175-346777) · `ta`
-
-Here's a 200-character summary:
-
-
-
-A new windmill forms in the Bay of Bengal within 48 hours. Low-lying areas may shift towards Tamil Nadu-Sri Lanka. The cyclone cycle is expected to transition to low-winds.
-
-🟩
-
-In the Bay of Bengal, the new windmill will be formed over the next 48 hours.
-
-It is predicted that the low-lying area may move towards the coast of Tamil Nadu-Sri Lanka.
-
-It is noteworthy that the cyclone cycle in the Bay of Bengal is likely to become a low winds.. Those
-
-◼️
-
-[Data](articles/0ee385ac.json)
-
-[Extended Data](ext_articles/0ee385ac.ext.json)
-
----
-
-### The new windmill is formed in the Bay of Bengal
-
-*2024-11-08 14:14:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-உருவாகிறது-புதிய-காற்றழுத்த-தாழ்வு-பகுதி/175-346777) · `ta`
-
-New windmill forms Bay of Bengal within 48 hours. Low-lying areas may shift towards Tamil Nadu-Sri Lanka coast. Cyclone cycle expected to transition to low-winds.
-
-🟩
-
-In the Bay of Bengal, the new windmill will be formed over the next 48 hours.
-
-It is predicted that the low-lying area may move towards the coast of Tamil Nadu-Sri Lanka.
-
-It is noteworthy that the cyclone cycle in the Bay of Bengal is likely to become a low winds.. That
-
-◼️
-
-[Data](articles/c15bb018.json)
-
-[Extended Data](ext_articles/c15bb018.ext.json)
-
----
-
-### Sri Lanka wins Gold award for the world's exciting island
-
-*2024-11-08 14:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203038) · `si`
-
-Sri Lanka wins Gold award for world's most exciting island. Received 200,000 votes in Wanderlust reader travel awards. Ranked 8th globally last year. Tourists praise attractions like Dambulla, Anuradhapura, and Polonnaruwa.
-
-🟩
-
-Sri Lanka is the most exciting island in the world with the famous "Wanderlust" reader vote.
-
-Distinguished Wondalst Reader Travel Awards recently held in London.
-
-Sri Lanka has received about 200,000 votes for Sri Lanka based on attractive and experienced experience among tourists.
-
-The Wanderust Tourism Band was named last year, Sri Lanka was named 8th among the world's most attractivedation.
-
-Wanderust magazine addressed a brief brief in the Indian Ocean, Dambulla, as well as the ruins of the Anuradhapura, Dambulla as well as the ruins of Anuradhapura and Polonnaruwa.
-
-◼️
-
-[Data](articles/f9733e4a.json)
-
-[Extended Data](ext_articles/f9733e4a.ext.json)
-
----
-
-### The magic of the ammunition in the case room
-
-*2024-11-08 14:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வழக்கு-அறையில்-இருந்த-வெடிபொருட்கள்-மாயம்/74-346776) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ampara police investigate case room ammunition theft. Bullets seized in 1998 went missing after handed to court. Police lodge complaint.
-
-🟩
-
-Ampara police have launched an investigation into the matter and have lodged a complaint with the court.
-
-In 1998, the bullets seized by the police and handed over to the court, the police said that they were missing.. That
-
-◼️
-
-[Data](articles/9189cfe7.json)
-
-[Extended Data](ext_articles/9189cfe7.ext.json)
-
----
-
-### Election commission urges Sri Lankans to vote
-
-*2024-11-08 14:00:00* · [`economynextcom`](https://economynext.com/election-commission-urges-sri-lankans-to-vote-186605/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Elections Commission is urging voters to show up and vote in the parliamentary election on November 14.
-
-“Voting is your constitutional right. So it is your duty to exercise that right,” Elections Commission Chairman R M A L Rathnayake said on Friday (8).
-
-Over 3.5 million citizens eligible to vote, did not vote in the 2024 Presidential Election.
-
-He urged voters to visit their polling stations between 7 am and 4 pm on November 14.
-
-Sri Lanka will choose 225 representatives for its 10th Parliament. The new Parliament is scheduled to meet on November 21.
-
-The silent period, when all campaigning ceases, will begin at midnight on November 11, Rathnayake said.
-
-Campaigning by those seeking to get elected to the country’s Parliament has been minimal compared to previous years.
-
-“Postal voting  has concluded, and we have finished distributing polling cards.
-
-...
-
-[Data](articles/179e26d7.json)
-
-[Extended Data](ext_articles/179e26d7.ext.json)
 
 ---

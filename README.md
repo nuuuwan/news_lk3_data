@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 11:24:32**
+As of **2024-11-09 11:40:34**
 
 ## Newspaper Stats
 
-*Scraped **53,840** Articles*
+*Scraped **53,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,031
-adaderanalk | 6,415
+adaderanalk | 6,416
 tamilmirrorlk | 7,509
 virakesarilk | 8,714
 adaderanasinhalalk | 9,384
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,384
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,840 (100.0%) of 53,840 articles have been extended.
+53,841 (100.0%) of 53,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Chinese funds transferred to Treasury for disaster relief and monitoring project
+
+*2024-11-09 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103272/chinese-funds-transferred-to-treasury-for-disaster-relief-and-monitoring-project) · `en`
+
+The People’s Republic of China has provided financial assistance totaling approximately Rs. 30 million to compensate for damage to houses and properties caused by natural disasters from January 1 to October 30, 2024. This amount has been forwarded to the Treasury, according to the PMD.
+
+In addition, the Department of National Budget has allocated further financial provisions to the Ministry of Defence for the reconstruction of homes affected by the disasters. The Department of Treasury Operations has promptly released these funds to the Ministry of Defence, the President’s Media Division (PMD) stated.
+
+These additional provisions were necessary because the 2024 budget did not include adequate funds to address the needs of disaster victims, it said.
+
+Furthermore, material assistance worth 10 million Yuan is expected from the People’s Republic of China under the Emergency Humanitarian Assistance Program. The goods will be properly accounted for and distributed once received, the PMD said.
+
+...
+
+[Data](articles/9c1a3b36.json)
+
+[Extended Data](ext_articles/9c1a3b36.ext.json)
+
+---
 
 ### Despite the chairman and Vice President of Elpitiya Little Vote
 
@@ -2271,29 +2291,5 @@ The Magistrate issued these orders after considering the suspects to be remanded
 [Data](articles/590fe269.json)
 
 [Extended Data](ext_articles/590fe269.ext.json)
-
----
-
-### Sri Lanka stocks close up, turnover Rs2bn
-
-*2024-11-08 15:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-rs2bn-184752/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Friday, data on its site showed.
-
-The broader ASPI closed up 0.57 percent, or 72.67 points, at 12,800; while the more liquid S&P SL20 Index closed up 0.20 percent, or 7.50 points, at 3,831.
-
-Top turnover generators were Royal Ceramics Lanka (up at 32.90), Dipped Products (up at 42.20), Lanka Milk Foods (up at 33.50), John Keells Holdings (down at 21.20), and Sampath Bank (up at 89.00).
-
-Top contributors to the ASPI included Ceylinco Holdings (up at 2,500.00), Bukit Darah (up at 457.00), and Nations Trust Bank (140.50).
-
-Other banking stocks saw mixed sentiments; Hatton National Bank (down at 226.75), Commercial Bank (up at 115.00), DFCC Bank (up at 82.70) and National Development Bank (flat at 84.40).
-
-Foreign buying interest was seen in CIC Holdings non-voting (up at 60.00), Royal Ceramics Lanka, Sampath Bank, Dipped Products, Kelani Valley Plantations (up at 77.50), and Windforce (up at 21.60).
-
-...
-
-[Data](articles/e2976e93.json)
-
-[Extended Data](ext_articles/e2976e93.ext.json)
 
 ---

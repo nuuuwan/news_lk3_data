@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 09:40:18**
+As of **2024-11-09 09:59:29**
 
 ## Newspaper Stats
 
-*Scraped **53,831** Articles*
+*Scraped **53,833** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 419
 bbccomsinhala | 548
-colombotelegraphcom | 551
+colombotelegraphcom | 553
 islandlk | 3,217
 economynextcom | 3,267
 dailyftlk | 3,687
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,831 (100.0%) of 53,831 articles have been extended.
+53,833 (100.0%) of 53,833 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -415,6 +415,36 @@ It was reported that he had been informed by a telephone call by the Terrorism I
 [Data](articles/064e3af5.json)
 
 [Extended Data](ext_articles/064e3af5.ext.json)
+
+---
+
+### Towards Stability, Equity & Prosperity: Part V
+
+*2024-11-09 03:56:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-v/) · `en`
+
+As we have previously pointed out, though IMF programs appear to solely focus on development, they do not cater to or deal with matters that affect socio-economic justice and a fair go. Their only formula is one of liberalising markets for generating more profits for investors, with drastic cuts to social welfare benefits and expanding the tax base for increased revenue.
+
+The IMF does not look into the socio-economic equity issues that are prevalent and predominant in most of the societies the world over, including in Sri Lanka. The theory of trickle-down economics[1] underpins their practice. However, nowhere has this theory once implemented been a success in terms of economic development, social stability, and an equitable sharing of the financial burden.
+
+...
+
+[Data](articles/e7163a39.json)
+
+[Extended Data](ext_articles/e7163a39.ext.json)
+
+---
+
+### A Hung Parliament?
+
+*2024-11-09 03:46:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-hung-parliament/) · `en`
+
+President Dissanayake made a smart decision to dissolve parliament after winning the presidential election on September 21. The national legislature was dissolved on September 24, and the election has been scheduled for November 14, 2024. Parliamentary elections in Sri Lanka are increasingly becoming predictable regarding winners and losers. The Sri Lanka Podujana Peramuna (SLPP) wanted a two-thirds majority in 2020, and the SLPP-led coalition won a two-thirds majority.
+
+...
+
+[Data](articles/8d46b79c.json)
+
+[Extended Data](ext_articles/8d46b79c.ext.json)
 
 ---
 
@@ -2293,57 +2323,5 @@ He said this in an interview with NM Basil, a United People's Power candidate in
 [Data](articles/e526ca21.json)
 
 [Extended Data](ext_articles/e526ca21.ext.json)
-
----
-
-### Malware that strikes Android phones
-
-*2024-11-08 15:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/ஆண்ட்ராய்டு-போன்களை-தாக்கி-பணத்தை-களவாடும்-மால்வேர்/57-346781) · `ta`
-
-Taxic Panda malware targets Android users' bank accounts. Uses techniques like account tagging and on-the-fly transactions. Affects over 1,500 users across 16 countries. Bypasses security measures and operates remotely. May be linked to Chinese actors. Also sends malicious links via WhatsApp.
-
-🟩
-
-Cyber ​​security experts have warned of a new malware browser called Taxic Panda, aimed at stealing money from Android users' bank account.
-
-Cyber ​​security experts have discovered this malware last month. Users are stolen the money in the bank account by this malware impact on Android users' phones.
-
-Tech experts have said that the technique such as account tagover and on-the-Divis Prat is used.
-
-Digi-toxic seems to be in the backdrop of Taxic Panda Malver. It is noteworthy that money was stolen from the bank account targeting Southeast Asian users by Diji-Taxic Malware. This malware will try to bypass the safety technical activities of the banks through this malware. That means crossing the Idanti Verification and Attendance.
-
-This malware uses Android Axisphile Services. It seems that the phone is not active, but it can be operated from the remote. It has been reported that the malware is now in the development of the development.
-
-...
-
-[Data](articles/08cad8c9.json)
-
-[Extended Data](ext_articles/08cad8c9.ext.json)
-
----
-
-### Sri Lanka coconut auction prices down 0.04-pct, after hitting all time high
-
-*2024-11-08 15:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-0-04-pct-after-hitting-all-time-high-186604/) · `en`
-
-ECONOMYNEXT- Sri Lanka’s average coconut prices fell from 100,000.00 to 99,959.25 for 1,000 nuts at an auction on November 7, data from the Coconut Development Authority showed.
-
-The highest price was 100,000 for 1,000 nuts while the lowest was 95,000 for 1,000 nuts, at the weekly auction conducted by the CDA.
-
-A total of 641,724 coconuts were offered at the auction and 574,938 were sold.
-
-Wholesale prices were 100-110 rupees for large nuts and 85 to 90 rupees for small nuts on November 07.
-
-Farmgate prices in Kurunegala were 100,000 to 105,000 per 1,000 nuts.
-
-Coconut oil was 720,000.00 to 740,000.00 rupees per metric ton.
-
-Coconut shells were 39,000 to 41,000 rupees per metric ton. (Colombo/Nov8/2024)
-
-◼️
-
-[Data](articles/5b1ee105.json)
-
-[Extended Data](ext_articles/5b1ee105.ext.json)
 
 ---

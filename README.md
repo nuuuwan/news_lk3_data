@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 16:11:23**
+As of **2024-11-09 16:24:30**
 
 ## Newspaper Stats
 
@@ -26,23 +26,33 @@ adaderanasinhalalk | 9,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,877 (100.0%) of 53,878 articles have been extended.
+53,878 (100.0%) of 53,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### பலப்படுத்தப்படும் பாதுகாப்பு
+### Reinforced protection
 
 *2024-11-09 15:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலப்படுத்தப்படும்-பாதுகாப்பு/175-346828) · `ta`
 
-எதிர்வரும் பொதுத் தேர்தலின் போது பாதுகாப்பை உறுதி செய்வதற்காக 90,000 பாதுகாப்புப் பணியாளர்கள் ஈடுபடுத்தப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸமா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-தேர்தலுக்குப் பிந்தைய பாதுகாப்பிற்காக நாடளாவிய ரீதியில் 3,109 நடமாடும் ரோந்துப் படையினரும் 269 வீதித் தடைகளும் 241 கலவர எதிர்ப்புக் குழுக்களும் ஈடுபடுத்தப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார். R
+
+
+Security measures: 90,000 personnel deployed; 3,109 mobile patrols, 269 roadblocks, 241 riot groups nationwide for election security.
+
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that 90,000 security personnel will be deployed to ensure security during the upcoming general election.
+
+He said that 3,109 mobile, patrols, 269 roadblocks and 241 riot groups have been deployed across the country for post -election security.. Remble
 
 ◼️
 
 [Data](articles/5c5e2e15.json)
+
+[Extended Data](ext_articles/5c5e2e15.ext.json)
 
 ---
 
@@ -1410,15 +1420,15 @@ Kamal Haasan has often  been compared to Hollywood’s Tom Cruise as an action h
 
 ---
 
-### 
+### “ Parliament must be inclusive and representative of all ethnicities, caste and gender. It must also be a space where workers have representatives to speak for them. I am a woman, a Tamil and a Trade Unionist. The people and the politics we represent must have a space in Parliament.”- An Interview with Swasthika Arulingam
 
 *2024-11-09 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85028) · `en`
-
-“ Parliament must be inclusive and representative of all ethnicities, caste and gender. It must also be a space where workers have representatives to speak for them. I am a woman, a Tamil and a Trade Unionist. The people and the politics we represent must have a space in Parliament.”-Swasthika Arulingam
 
 Passed out as a lawyer from the Colombo Law College and having two Master-LLM from the University of Colombo and a LLM and Development as a Chevening Scholar at School of Oriental and African Studies, University of London, young activist Swastika Arulingam was a prominent figure in the Aragalaya (Protest) which toppled the Gotabaya Rajapaksa government.
 
 She has been a fearless voice and as a legal representative played her part to protect those who were beaten up by political goons of Rajapaksa government and those taken into custody and incarcerated on various allegations.
+
+Representing the minority Tamils and female community, Swasthika has been a symbol of courage and justice for many young men and women. Displaced from the North during the height of war and settled in Colombo, Swasthika studied at Ladies’ College, Colombo and was into activism as soon as she passed out as an attorney-at-law.
 
 ...
 

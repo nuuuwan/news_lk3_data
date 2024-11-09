@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 19:24:41**
+As of **2024-11-09 19:40:23**
 
 ## Newspaper Stats
 
-*Scraped **53,894** Articles*
+*Scraped **53,902** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,118 @@ economynextcom | 3,270
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,034
-adaderanalk | 6,426
-tamilmirrorlk | 7,521
-virakesarilk | 8,721
-adaderanasinhalalk | 9,400
+adaderanalk | 6,427
+tamilmirrorlk | 7,523
+virakesarilk | 8,724
+adaderanasinhalalk | 9,402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,894 (100.0%) of 53,894 articles have been extended.
+53,900 (100.0%) of 53,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### ඔන්ලයින් ජාවාරමේ නිරත වූ ලාංකිකයන් - රුපියල් කෝටි 30ක් වංචා කරලා
+
+*2024-11-09 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203082) · `si`
+
+අන්තර්ජාලය හරහා මුදල් වංචාකිරීමේ ජාවාරමක සුලමුල අනාවරණය කරගැනීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය සමත්ව තිබේ.
+
+ජාවාරමට සම්බන්ධ බවට සැකපිට එහි ප්‍රධානීන් දෙදෙනෙකු ඇතුළු පුද්ගලයන් 59 දෙනෙකු ද ඊයේ (08) කොළඹදී අත්අඩංගුවට ගනු ලැබීය.
+
+විදේශීය ජාතිකයන් ඉලක්ක කර එම ජාවාරම සිදුකර ඇති අතර දැනට රුපියල් කෝටි 30ක පමණ මුදලක් ඔවුන් වංචා කර ඇති බවද පොලීසිය පැවසීය.
+
+මෙරට කොරියානු තානාපති කාර්යාලයෙන් පසුගිය බ්‍රහස්පතින්දා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ලැබී තිබුණේ කොරියානුවෙකුගෙන් මෙරට පිහිටි වේවිටෙක් නම් ආයතනයක් රුපියල් කෝටි 30කට ආසන්න මුදලක් වංචා කර ඇති බවය.
+
+අවස්ථා කිහිපයකදී ව්‍යාපාර කටයුතු සඳහා ආයෝජනය කිරීමට බව පවසමින් අමෙරිකානු ඩොලර් මිලියනයක පමණ මුදලක් අදාළ කොරියනු ජාතිකයාගෙන් ලබාගෙන ඇති අතර පසුව එම මුදල් ලබාදීම පැහැරහැර ඇති බවද එම පැමිණිල්ලේ සඳහන් ව තිබේ.
+
+ඒ අනුව අදාළ ආයතනය හැව්ලොක් පාරේ පිහිටි සුපිරි නිවාස සංකීර්ණයක පවත්වාගෙන යන බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකයේ නිලධාරීන් විසින් අනාවරණය කරගනු ලැබීය.
+
+...
+
+[Data](articles/9d95857b.json)
+
+---
+
+### මැතිවරණ පැමිණිලි තවත් ඉහළ ට
+
+*2024-11-09 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203081) · `si`
+
+පාර්ලිමේන්තු මැතිවරණයට අදාළව ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් තිබේ.
+
+මැතිවරණ කොමිෂන් සභාව පැවසුවේ ඊයේ (08) දිනයේ දී තවත් පැමිණිලි 160ක් ලැබී ඇති බවය.
+
+ඒ අනුව පසුගිය සැප්තැම්බර් මස 26 වැනදා සිට ඊයේ දිනය දක්වා පාර්ලිමේන්තු මැතිවරණයට අදාළව ලැබී ඇති මුළු පැමිණිලි සංඛ්‍යාව 2348කි.
+
+ඉන් පැමිණිලි 1861ක් මේ වන විටත් විසදා ඇති බවද මැතිවරණ කොමිෂන් සභාව වැඩිදුරටත් සදහන් කළේය.
+
+◼️
+
+[Data](articles/d92a2c34.json)
+
+---
+
+### President reveals plans to reduce electricity tariff by over 30%
+
+*2024-11-09 19:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103283/president-reveals-plans-to-reduce-electricity-tariff-by-over-30) · `en`
+
+President Anura Kumara Dissanayake says that steps will be taken to reduce the electricity tariff by more than 30 percent in the near future.
+
+He revealed this while addressing a public meeting of the National People’s Power (NPP) held in Dambulla today (09).
+
+“We will create a massive transformation in the electricity sector within a period of one to one-and-a-half years. We will reduce the electricity bill by more than 30%. Give us a little time for that. We need time to reduce even the fuel price. We will do these things,” he said.
+
+◼️
+
+[Data](articles/9d463421.json)
+
+[Extended Data](ext_articles/9d463421.ext.json)
+
+---
+
+### All universities will be closed
+
+*2024-11-09 19:05:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அனைத்து-பல்கலைக்கழகங்களும்-மூடப்படும்/175-346834) · `ta`
+
+Universities closed due to elections: UGC announces shutdown on 13th and 14th.
+
+🟩
+
+The University Grants Commission has announced that all universities will be closed on the 13th and 14th ahead of the election. Remble
+
+◼️
+
+[Data](articles/57b38be9.json)
+
+[Extended Data](ext_articles/57b38be9.ext.json)
+
+---
+
+### The extension of the warning issued to several districts
+
+*2024-11-09 19:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களுக்கு-விடுக்கப்பட்ட-எச்சரிக்கை-நீடிப்பு/175-346833) · `ta`
+
+National Building Research Institute extends landslide warning for 24 hours, issues secondary warning for specific divisions in Badulla, Kandy, and Nuwara Eliya districts. First-level warning issued for caution in certain areas.
+
+🟩
+
+The National Building Research Institute has issued a notification that the landslide warning issued to several districts has been extended for another 24 hours.
+
+Accordingly, a secondary warning has been issued to the Divisional Secretariat Divisions of the Badulla, Pasarai, Hali Ela, Kandy District, Padadumbara, Thumbanaya, Ududumbara, Yattinuwara, Bahadahewahatta Nuwara Eliya District.
+
+Also, the Badulla district of the Badulla district, Welimada, Lunugala, Bandarawela, Kandy, Kegalle, Tehiyovitta, Pulathkhapitiya, Yatiyantottai, Ruwanwella Divisional SecretariatThe first level warning has been issued to be cautious for sections. Remble
+
+◼️
+
+[Data](articles/b7668bd6.json)
+
+[Extended Data](ext_articles/b7668bd6.ext.json)
+
+---
 
 ### Steps to close universities for two days
 
@@ -302,6 +400,32 @@ No information has been disclosed as of yet regarding the person responsible for
 
 ---
 
+### The first look release of 'P B 180' starring Tanya Ravichandran
+
+*2024-11-09 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198272) · `ta`
+
+Tanya Ravichandran stars in "B P 180" alongside Daniel Balaji. Director JP helms the project produced by Atul M. and Bosemia. Post-production underway after filming completion. First look release draws fan attention.
+
+🟩
+
+The first look of the film 'B P 180', which plays the lead role of the story of Tanya Ravichandran, the leading star actress and Bharata dancer of the Tamil film industry.
+
+The late actor Daniel Balaji is the hero of the story and the hero of the story of director JP.
+
+Producer Atul M.. Produced by Bosemia.
+
+The shooting of the film is completed and the post -shooting technical work is currently underway.
+
+In this case, the film's title and First Look have been released. The appearance of Tanya Ravichandran and Daniel Balaji has attracted a lot of fans.
+
+◼️
+
+[Data](articles/37e15d01.json)
+
+[Extended Data](ext_articles/37e15d01.ext.json)
+
+---
+
 ### Information about the traum murder suspect involved in the Arugambal incident
 
 *2024-11-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203075) · `si`
@@ -335,6 +459,32 @@ The US Department of Justice has also been entrusted with the target of Israeli 
 [Data](articles/eca21c85.json)
 
 [Extended Data](ext_articles/eca21c85.ext.json)
+
+---
+
+### Deposits to the Financial Treasury provided by China
+
+*2024-11-09 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198269) · `ta`
+
+China provides 30 million rupees to Sri Lanka's Financial Assistance Treasury Scheme from Jan 1, 2024 to Oct 30, 2024. Additional funds allocated from National Budget Department for disaster relief. 10 million yuan materials from Republic of China to be distributed under Emergency Humanitarian Assistance Scheme. Measures taken for house damage compensation and reconstruction through Disaster Relief and Monitoring Scheme.
+
+🟩
+
+From January 01, 2024 to October 30, about 30 million rupees has been sent to the Financial Assistance Treasury Scheme by China to compensate for homes and property damaged by natural disasters.
+
+Additional funds have been made from the National Budget Department to the rehabilitation of the homes of the people affected by natural disasters and the Treasury Department has provided the fund to the Ministry of Defense immediately.
+
+Since there were not adequate funding in the budget estimate for 2024, there was a need to allocate additional funds to the victims of the disaster.
+
+In addition, under the Emergency Humanitarian Assistance Scheme, 10 million yuan materials available from the Republic of China are to be distributed after the proper accounting.
+
+In addition, the necessary measures have been taken to provide compensation for damaged houses and possessions, the construction and reconstruction of the houses through the Disaster Relief and Monitoring Scheme.
+
+◼️
+
+[Data](articles/7b0ea78e.json)
+
+[Extended Data](ext_articles/7b0ea78e.ext.json)
 
 ---
 
@@ -489,6 +639,32 @@ The three terms of children and pregnant mothers have been in force in the more 
 [Data](articles/93424a68.json)
 
 [Extended Data](ext_articles/93424a68.ext.json)
+
+---
+
+### Damage to DS Senanayake College, Kandy
+
+*2024-11-09 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/198261) · `ta`
+
+DS Senanayake College Kandy: Mudslides caused classroom damage due to heavy rains. 27 classrooms at risk. Principal warns of potential further damage. Authorities informed. Educational activities suspended until further notice.
+
+🟩
+
+Several classrooms have been damaged when the mudslides collapsed on TS Senanayake College, Kandy.
+
+The incident was due to heavy rains that hit last Friday night.
+
+Thus 27 more classrooms are currently at high risk. This includes the initial section classrooms. The principal of the school, Ananda Upadissa, said that heavy rains could cause more damage to the classrooms on Saturday night (09).
+
+The Chancellor said that all officials, including the Governor of the Central Province, have been informed about the existing risk.
+
+The Chancellor has stated that the school's educational activities will be carried out on the instructions of the authorities from next Monday.
+
+◼️
+
+[Data](articles/3308d23d.json)
+
+[Extended Data](ext_articles/3308d23d.ext.json)
 
 ---
 
@@ -2063,149 +2239,5 @@ Agora’24 is a place where talent meets adventure, showcasing the creativity, t
 [Data](articles/9ac167ec.json)
 
 [Extended Data](ext_articles/9ac167ec.ext.json)
-
----
-
-### Financial App Mintpay launches gift vouchers
-
-*2024-11-09 00:11:06* · [`dailyftlk`](https://www.ft.lk/business/Financial-App-Mintpay-launches-gift-vouchers/34-769034) · `en`
-
-With the festive season approaching, “Buy Now, Pay Later” platform Mintpay, is introducing Mintpay gift vouchers as an exciting new way to gift.
-
-Stepping beyond traditional gifts, Mintpay vouchers provide the “Gift of Choice”, allowing Sri Lankans the freedom to shop for what they truly want from wherever they want.
-
-In a world where personalisation and flexibility are key, Mintpay offers a seamless way to gift without the guesswork. Recipients can use their Mintpay Vouchers at over 2000 partner stores, ensuring that they find exactly what suits their preferences – whether it’s fashion, electronics, beauty, or even dining and traveling.
-
-...
-
-[Data](articles/825ff414.json)
-
-[Extended Data](ext_articles/825ff414.ext.json)
-
----
-
-### Pelwatte Dairy revolutionises Sri Lanka’s dairy industry by achieving global certification for food safety management
-
-*2024-11-09 00:10:58* · [`dailyftlk`](https://www.ft.lk/business/Pelwatte-Dairy-revolutionises-Sri-Lanka-s-dairy-industry-by-achieving-global-certification-for-food-safety-management/34-769033) · `en`
-
-Pelwatte Dairy Industries Ltd., a trailblazer in Sri Lanka’s dairy sector, has enhanced its production quality standards even further with the acquisition of the state-of-the-art FOSS FT3 machine and its recent achievement of the prestigious FSSC 22000 V6.0 Certification. These new milestones reflect Pelwatte’s unwavering commitment to delivering high-quality dairy products and setting new benchmarks in the industry.
-
-Pelwatte Dairy has made a significant leap forward in Sri Lanka’s dairy sector with the implementation of the cutting-edge FOSS FT3 machine, making it the first of its kind in Sri Lanka. This state-of-the-art tool is designed for unparalleled precision in dairy testing, capable of analysing multiple parameters simultaneously, including fat, protein, lactose, and up to 30 adulteration parameters. By ensuring that every batch of dairy products meets stringent international standards, the machine enhances the overall taste and nutritional value of Pelwatte’s offerings.
-
-...
-
-[Data](articles/28c5cfa6.json)
-
-[Extended Data](ext_articles/28c5cfa6.ext.json)
-
----
-
-### ‘Navigating the tough challenges of immigration with Ardent’
-
-*2024-11-09 00:09:00* · [`islandlk`](http://island.lk/navigating-the-tough-challenges-of-immigration-with-ardent/) · `en`
-
-Colombo, Monday 21st October 2024: The search for greener pastures overseas can be a challenging one, especially when one does not know the right process and legal requirements for migration. Whether it be skilled migration, student visas or moving your family across the globe, it is imperative to have the right kind of support to ensure that the process is stress free.
-
-Ardent Immigration Inc., a renowned name in migration consultancy has dedicated themselves to ensuring that those seeking to migrate to Canada have the end-to-end support through the rigorous process. Ardent boasts years of effective consultancy, and hundreds of migration success stories.
-
-...
-
-[Data](articles/9fd1f298.json)
-
-[Extended Data](ext_articles/9fd1f298.ext.json)
-
----
-
-### Rienzie Wijetilleke: Sons’ tribute
-
-*2024-11-09 00:03:27* · [`dailyftlk`](https://www.ft.lk/opinion/Rienzie-Wijetilleke-Sons-tribute/14-769025) · `en`
-
-On Sunday, 10 November, our dear father Rienzie Wijetilleke reaches a milestone birthday, 85 years young!
-
-We write in tribute to his service to Sri Lanka’s financial sector, its economy and communities across the country and to thank him for his commitment and devotion to his family.
-
-...
-
-[Data](articles/0a46e251.json)
-
-[Extended Data](ext_articles/0a46e251.ext.json)
-
----
-
-### 2024-11-08 (Friday)
-
-### Does it matter to the world who the next President of the USA is?
-
-*2024-11-08 23:48:28* · [`dailyftlk`](https://www.ft.lk/columns/Does-it-matter-to-the-world-who-the-next-President-of-the-USA-is/4-769020) · `en`
-
-While it is unlikely that any well-meaning President would have exercised such powers indiscriminately and without good reason, the overall global situation today of a world near chaos, and the instances of US involvement in numerous countries and in conflicts and their failure to exercise their powers to prevent conflict or at least to minimise them and take the leadership in finding solutions through discussion and negotiation, have left open the question on the effectiveness of the US President when it comes to world affairs
-
-Paradox of Power: Militarily it is a unipolar world of U.S. hegemony; economically it is a multipolar world with U.S. leadership; but on many transnational issues – such as international terrorism, the proliferation of weapons of mass destruction, the migration of people, epidemic disease, drugs, and environmental degradation – we live in a world only a step or two short of chaos (https://www.wilsoncenter.org/article/american-power-the-world)
-
-...
-
-[Data](articles/6d1a4b4d.json)
-
-[Extended Data](ext_articles/6d1a4b4d.ext.json)
-
----
-
-### “No criss-crossing between political parties for MPs under AKD’s Govt.” – Sunil Watagala
-
-*2024-11-08 23:44:18* · [`dailyftlk`](https://www.ft.lk/columns/No-criss-crossing-between-political-parties-for-MPs-under-AKD-s-Govt-Sunil-Watagala/4-769019) · `en`
-
-Putting a halt to crossovers is one of the key promises that the NPP made to people during our election campaigns. Now we are ready to fulfil these pledges through the right process. All our promises to the people have been spelt out in the NPP’s manifesto. When the law is implemented, the Parliamentarians can cross over to any political party that they wish but they will lose their seats at the Parliament. This will be a common law for all political parties
-
-Reiterates that MPs who crossed over will lose their seats under new laws
-
-Confirms NPP has fielded fresh set of politicians who have no corruption charges
-
-Says salaries of NPP parliamentarians will be credited to a public bank
-
-Requests people to vote more for NPP to get majority power in the Parliament
-
-...
-
-[Data](articles/5a158eef.json)
-
-[Extended Data](ext_articles/5a158eef.ext.json)
-
----
-
-### A new hope to sweep a House clean?
-
-*2024-11-08 23:39:57* · [`dailyftlk`](https://www.ft.lk/columns/A-new-hope-to-sweep-a-House-clean/4-769018) · `en`
-
-The citizenry vote for political leaders in the hope that ‘this time’ there will be change for the better; and the electorate is disappointed time and again
-
-Ah – yes, the old lie: that the hope of a nation resides in the chamber where chairs are thrown at critics and chillies are employed to evict policemen keen on restoring law and order.
-
-And a major reason for the electorate in general and political pundits in particular being so cynical about the assembly we unmindfully describe as being august is in both the character and performance of the legislators we elected – lest we forget, let us remember and chide ourselves!
-
-As a senior journalist observed in these columns not many moons ago: “Sri Lanka has chronically elected crooks, charlatans, the incompetent, the corrupt, and the utterly unrepentant of their litany of crimes.”
-
-...
-
-[Data](articles/559de7aa.json)
-
-[Extended Data](ext_articles/559de7aa.ext.json)
-
----
-
-### Muslim Personal Law Reform Action Group has its say over new Govt.’s stance on MMDA
-
-*2024-11-08 23:38:17* · [`dailyftlk`](https://www.ft.lk/opinion/Muslim-Personal-Law-Reform-Action-Group-has-its-say-over-new-Govt-s-stance-on-MMDA/14-769017) · `en`
-
-Says Minister Vijitha Herath’s comments that MMDA reforms are not on agenda fails to recognise longstanding demands for change
-
-Muslim Personal Law Reform Action Group yesterday in a statement said that Minister Vijitha Herath’s comments that Muslim Marriage and Divorce Act (MMDA) reforms are not on the agenda fails to recognise longstanding demands for change.
-
-We are deeply concerned about the recent remarks made by Minister Vijitha Herath that no need has arisen to change the Muslim Marriage and Divorce Act (MMDA) at this juncture. The comments fail to recognise the long journey towards MMDA reforms in Sri Lanka. For decades, Muslim women and groups have raised concerns about the serious discrimination and harm experienced by Muslim women, girls and families as a consequence of this law. The comments dismiss the grave impacts that Muslim women and girls continue to face on a daily basis due to discrimination under the current MMDA and Quazi system.
-
-...
-
-[Data](articles/87d4d386.json)
-
-[Extended Data](ext_articles/87d4d386.ext.json)
 
 ---

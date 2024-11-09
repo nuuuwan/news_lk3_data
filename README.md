@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 21:40:24**
+As of **2024-11-09 21:59:30**
 
 ## Newspaper Stats
 
-*Scraped **53,907** Articles*
+*Scraped **53,908** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,427
-tamilmirrorlk | 7,525
+tamilmirrorlk | 7,526
 virakesarilk | 8,724
 adaderanasinhalalk | 9,404
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,907 (100.0%) of 53,907 articles have been extended.
+53,908 (100.0%) of 53,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Fuel and electricity bills decrease;Assurance
+
+*2024-11-09 21:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிபொருள்-மின்-கட்டணம்-குறையும்-ஜனாதிபதி-உறுதி/175-346836) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Fuel/electricity bills drop: President vows 30% electricity cut. Promises post-election reforms. Short-term fuel price reduction expected. Massive power sector changes planned within 1.5 years.
+
+🟩
+
+President Anura Kumara Dissanayake said steps would be taken to reduce electricity tariff by more than 30 per cent.
+
+The President made this statement while addressing the National People's Power rally in Dambulla. In addition,
+
+Family politics and corruption politics that prevailed in the past. We will clean the country after the general election.
+
+People can expect a good news in the coming days. We are looking forward to making a massive change in the power supply sector in one and a half years.
+
+It requires a little time for that. President Anuragumara Dissanayake has said that a short time to reduce fuel prices will be given to the people and more relief will be given to the people.. Remble
+
+◼️
+
+[Data](articles/02b71792.json)
+
+[Extended Data](ext_articles/02b71792.ext.json)
+
+---
 
 ### Shocking news about the hexe attack
 
@@ -2257,25 +2287,5 @@ Ratnayake also provided updates on the election process, confirming that postal 
 [Data](articles/2ae14413.json)
 
 [Extended Data](ext_articles/2ae14413.ext.json)
-
----
-
-### Govt. pledges continuity on key welfare and housing initiatives
-
-*2024-11-09 00:35:18* · [`dailyftlk`](https://www.ft.lk/news/Govt-pledges-continuity-on-key-welfare-and-housing-initiatives/56-769039) · `en`
-
-The Government on Tuesday announced that it will continue several key initiatives started by the previous administration, including the social welfare programs Aswesuma and Urumaya as well as housing projects for estate workers.
-
-Speaking at the post-Cabinet meeting media briefing, Cabinet Spokesman and Minister Vijitha Herath confirmed that the Government is committed to maintaining and expanding these programs.
-
-“Aswesuma, which provides financial assistance to low-income families and Urumaya, freehold land distribution program will both remain active under the new administration,” he stressed.
-
-Herath also said the Social Security Ministry has appointed a committee of experts to address grievances faced by beneficiaries of the Aswesuma, following complaints reported during inquires conducted by District and Divisional Secretariats.
-
-...
-
-[Data](articles/20d4b899.json)
-
-[Extended Data](ext_articles/20d4b899.ext.json)
 
 ---

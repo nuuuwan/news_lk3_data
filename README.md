@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 08:59:44**
+As of **2024-11-09 09:12:23**
 
 ## Newspaper Stats
 
-*Scraped **53,829** Articles*
+*Scraped **53,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,030
-adaderanalk | 6,413
-tamilmirrorlk | 7,506
+adaderanalk | 6,414
+tamilmirrorlk | 7,507
 virakesarilk | 8,713
 adaderanasinhalalk | 9,382
 
@@ -26,21 +26,63 @@ adaderanasinhalalk | 9,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,828 (100.0%) of 53,829 articles have been extended.
+53,829 (100.0%) of 53,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### இணையவழி  ஊடாக பண மோசடியில் ஈடுப்பட்ட 58 பேர் கைது
+### சனத் இல்லத்தின் மின்சாரம்,  நீர் இணைப்புகள் துண்டிப்பு
+
+*2024-11-09 09:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-இல்லத்தின்-மின்சாரம்-நீர்-இணைப்புகள்-துண்டிப்பு/175-346818) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்த காலமாவதற்கு முன்னர், அரசாங்கத்தால்  வழங்கப்பட்ட உத்தியோகபூர்வ இல்லத்தை உடனடியாக கையளிக்குமாறு, மனைவி சட்டத்தரணி சாமரி பெரேராவுக்கு பல தடவைகள் நினைவூட்டப்பட்டுள்ளதாக, பொது நிர்வாக உள்நாட்டலுவல்கள் மாகாண சபைகள் மற்றும் உள்ளூராட்சி மற்றும் தொழிலாளர் அமைச்சு தெரிவித்துள்ளது.
+
+இந்த நிலைமையை கருத்தில் கொண்டு, உத்தியோகபூர்வ இல்லத்தின் மின்சாரம் மற்றும் நீர் விநியோகம் துண்டிக்கப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+அந்த உத்தியோகபூர்வ இல்லம் தொடர்பான வீட்டு வாடகையை கூட அவர் செலுத்தவில்லை எனவும் தெரிவிக்கப்படுகிறது.
+
+இந்நிலைமையால் பங்களாவை உரிய முறையில் கையகப்படுத்த முடியாது எனத் தெரிவித்த அமைச்சின் அதிகாரி ஒருவர், இந்த விடயங்களில் அமைச்சின் அதிகாரிகள் தன்னிடம் இருந்து போதிய ஆதரவைப் பெறவில்லை எனவும் கூறினார்.
+
+அந்த உத்தியோகபூர்வ இல்லங்கள் தவிர, முன்னாள் அமைச்சர்கள் பயன்படுத்திய மற்றைய அனைத்து இல்லங்களும் ஒப்படைக்கப்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது. AN
+
+◼️
+
+[Data](articles/3d4d1c22.json)
+
+---
+
+### President’s Secretary orders urgent probe into salinity barrier’s role in Matara flooding
+
+*2024-11-09 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103270/presidents-secretary-orders-urgent-probe-into-salinity-barriers-role-in-matara-flooding) · `en`
+
+A special discussion was held at the Presidential Secretariat, led by Dr. Nandika Sanath Kumanayake the Secretary to the President, and attended by officials from the Irrigation Department, the National Water Supply and Drainage Board, and related Ministries.
+
+The meeting was held yesterday (08)  focusing on determining if the Salinity Barrier is indeed contributing to the floods leading to agricultural damage, according to President’s Media  Division (PMD).
+
+It was decided that a thorough study is necessary to address these concerns and that the Engineering Department of the University of Peradeniya will assist in this investigation. The Secretary to the President supported this proposal and directed the officials to create an action plan based on the findings from the study.
+
+...
+
+[Data](articles/5e7f4ce0.json)
+
+---
+
+### 58 arrested for allegedly defrauding money
 
 *2024-11-09 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198235) · `ta`
 
-இணையவழி  ஊடாக பண மோசடிகளில் ஈடுபட்டதாக சந்தேகிக்கப்படும் 58 இலங்கையர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Sri Lanka: 58 arrested for alleged money laundering scheme involving foreign entities.
+
+🟩
+
+58 Sri Lankans have been arrested for allegedly involved in money laundering through enemy.
 
 ◼️
 
 [Data](articles/8a54b0a5.json)
+
+[Extended Data](ext_articles/8a54b0a5.ext.json)
 
 ---
 
@@ -2295,51 +2337,5 @@ Coconut shells were 39,000 to 41,000 rupees per metric ton. (Colombo/Nov8/2024)
 [Data](articles/5b1ee105.json)
 
 [Extended Data](ext_articles/5b1ee105.ext.json)
-
----
-
-### Seal for two warm
-
-*2024-11-08 15:19:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரண்டு-வெதுப்பகங்களுக்கு-சீல்/175-346780) · `ta`
-
-Court seals Mannar Public Health Inspectors due to health issues. Action against restaurants with health problems in Mannar district.
-
-🟩
-
-The Mannar Public Health Inspectors on Friday (8) were sealed by a court order for the health problems of the Mannar Public Health Officer Division with a court order to harm the public's health.
-
-When the letter has been examined for the past several months, the Mannar Public Health Inspectors have been selected on Thursday (7) when no action has been taken on the announcement of the reports when the letter has been announced by the letter.
-
-It has also been pointed out that the two boys in Mannar are refused to be involved in business activities until the public health inspectors point out until the 21st of this month..  நீதிமன்ற அறிவித்தல் ஊடாக சுட்டிக்காட்டப்பட்ட வெதுப்பகங்களில் காட்சிப்படுத்தப்பட்டுள்ளது.
-
-Similarly, Mannar Public Health Medical Officers are also taking action on restaurants operating with health problems in Mannar district.
-
-◼️
-
-[Data](articles/d0455438.json)
-
-[Extended Data](ext_articles/d0455438.ext.json)
-
----
-
-### Two dead and 12 missing after fishing boat sinks off South Korea
-
-*2024-11-08 14:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103257/two-dead-and-12-missing-after-fishing-boat-sinks-off-south-korea) · `en`
-
-Two people have died and 12 are missing after a fishing boat sank on Friday in waters off South Korea’s southern resort island of Jeju, officials said.
-
-Another boat nearby raised the alarm after reporting the 129-ton ship was going under at around 4:30 a.m. (1930 GMT on Thursday), prompting authorities to launch a rescue operation, said Chung Moo-won, a Jeju coast guard official.
-
-Of the 27 crew aboard, 15 were rescued, including two South Korean nationals who later died after being hospitalised, Chung said. Twelve people were still missing, two of them from Indonesia.
-
-A total of 43 vessels including three navy ships, 13 aircraft and several deep-sea divers were dispatched to assist in the rescue efforts, he said.
-
-“We offer our condolences to the bereaved families and will make utmost efforts to find the missing by mobilising all rescue equipment and resources,” Chung told a televised briefing.
-
-...
-
-[Data](articles/66281621.json)
-
-[Extended Data](ext_articles/66281621.ext.json)
 
 ---

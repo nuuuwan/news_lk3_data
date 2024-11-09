@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 18:20:01**
+As of **2024-11-09 18:32:06**
 
 ## Newspaper Stats
 
-*Scraped **53,885** Articles*
+*Scraped **53,888** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,034
 adaderanalk | 6,425
-tamilmirrorlk | 7,517
+tamilmirrorlk | 7,519
 virakesarilk | 8,721
-adaderanasinhalalk | 9,397
+adaderanasinhalalk | 9,398
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,885 (100.0%) of 53,885 articles have been extended.
+53,888 (100.0%) of 53,888 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### It is necessary to provide holidays to vote
+
+*2024-11-09 18:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்க-விடுமுறை-வழங்குவது-அவசியம்/175-346830) · `ta`
+
+Elections Commission mandates voting holidays for bank/financial sector employees. No normal leave or pay cuts allowed. Complaints about some institutions denying voting days addressed.
+
+🟩
+
+The Elections Commission has announced that all private and public banking and financial workers should be given holidays to vote in the general election.
+
+The Commission said that holidays should be given without normal leave or pay reduction.
+
+The Elections Commission said that there were complaints that employees working in some banks and financial institutions were not given a holiday to vote.
+
+◼️
+
+[Data](articles/a135ee10.json)
+
+[Extended Data](ext_articles/a135ee10.ext.json)
+
+---
+
+### Landscey warning announcement extended
+
+*2024-11-09 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203078) · `si`
+
+National Building Research Organization extends warning for 24 hours. Second-level warning issued for areas in Badulla and Nuwara Eliya districts. First-level warning for Ratnapura district.
+
+🟩
+
+The National Building Research Organization (NBRO) has been extended for another 24 hours.
+
+Accordingly, the second-level warning statement has been issued to the Divisional Secretariat Division of the Badulla District, Badulla District, Pathadumbara, Yatinuwara and Ududumbara, Yatinuwara and Ududumbara, Yatinuwara and Ududumbara, Yatinuwara and Ududumbara in Nuwara Eliya District.
+
+Also, Haldummulla, Lununugamulla, Banugala, Banugala, Udarattota, Udaragoda, Udaragoda, Udaragoda, Udattota, Udattota, Udattota, Udattota, Udattota, UdattotaThe first level warning notification has been issued to be inquisted in the Ratnapura District.
+
+◼️
+
+[Data](articles/94648182.json)
+
+[Extended Data](ext_articles/94648182.ext.json)
+
+---
 
 ### Electricity bill down more than 30% - President
 
@@ -55,6 +99,30 @@ He was speaking at a rally of the national propagation held at Dambulla today (0
 [Data](articles/ce297980.json)
 
 [Extended Data](ext_articles/ce297980.ext.json)
+
+---
+
+### Action to close Triposha?
+
+*2024-11-09 17:39:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷா-நிறுவனத்தை-மூடுவதற்கு-நடவடிக்கை/175-346829) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Finance Ministry denies shutting down Triposha. Program for children and pregnant mothers to remain operational, aiming for increased effectiveness.
+
+🟩
+
+The Finance Ministry has issued a notification that no action has been taken to shut down Triposha.
+
+The announcement is that the program for children and pregnant mothers will be more effective. Remble
+
+◼️
+
+[Data](articles/c7076105.json)
+
+[Extended Data](ext_articles/c7076105.ext.json)
 
 ---
 
@@ -2147,85 +2215,5 @@ The barn is a large number of matches. About 1820, milk and various timber board
 [Data](articles/326aec7d.json)
 
 [Extended Data](ext_articles/326aec7d.ext.json)
-
----
-
-### Police have a program to safeguard election season
-
-*2024-11-08 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203053) · `si`
-
-Safeguarding elections: 63,145 police officers, 3,200 STF, 12,227 civil security personnel, 3,109 mobile patrols, 269 checkpoints island-wide. Intelligence gathered to prevent disruptions.
-
-🟩
-
-DIG and Police Spokesperson Attorney at Law Nihal Thameda says that 63,145 police officers will be deployed for election duties for the next general election.
-
-A press conference held today (08), he said that 3200 STF officers are to be deployed as well as the three-staff officers.
-
-He also said that steps have been taken to deploy 12, 227 civil security personnel.
-
-It is also planned to implement 3109 mobile travels and 269 barriers island wide.
-
-The police spokesman Attorney at Law Nihal Talduuwa further stated that 214 riot groups have been prepared and the intelligence has been taken to ensure disruptive acts.
-
-◼️
-
-[Data](articles/ac6612f7.json)
-
-[Extended Data](ext_articles/ac6612f7.ext.json)
-
----
-
-### Currently restrictions to social communication inputs in school education
-
-*2024-11-08 21:19:42* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-අධ්‍යාපනයේදී--සමාජ-සන්නිවේදන-යෙදවුම්--භාවිතයට-සීමා-පැනවේ/11-412934) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ministry of Education imposes restrictions on social communication apps in schools. Circular issued to limit use of WhatsApp, Viber, Telegram for education during pandemic. School heads must monitor and maintain quality of online interactions. Apps should not replace curriculum or expose children to inappropriate content. Privacy and security concerns emphasized. Ministry warns against potential harm to schools, children, and national communication infrastructure.
-
-🟩
-
-The Ministry of Education takes steps to impose social communication inputs to school education and communication.
-
-A circular issued a circular this day to inform all the leaders of these limitations.
-
-Social communications applications, such as Whats app, Virber and Telegraph used for education in the Covand season are still used, and the Ministry of Education has been imposed.
-
-Accordingly, the school heads should be administered by the administrators in the communications and maintain their quality.
-
-These crowds should not be used to cover the syllabus or decompassing children without helpful technology.
-
-The group emphasized that the privacy and video, video, photography, photography, photography, visits to the privacy and moods of the privacy and mentality of the students should be taken to discipline.
-
-...
-
-[Data](articles/d3a65d00.json)
-
-[Extended Data](ext_articles/d3a65d00.ext.json)
-
----
-
-### 11 candidates arrested for violating election laws
-
-*2024-11-08 21:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103265/11-candidates-arrested-for-violating-election-laws) · `en`
-
-Sri Lanka Police says it has so far received 340 complaints related to the upcoming parliamentary election.
-
-At a press briefing held today (08), Police Media Spokesperson DIG Nihal Thalduwa stated that a total of 364 individuals, including 11 candidates and 356 supporters, have been arrested for election law violations.
-
-Of the complaints received, 54 are of a criminal nature, while 286 are related to election law violations. Police have also seized 94 vehicles.
-
-Additionally, Police have removed over 1.07 million posters and seized an additional 500,000 illegally transported posters. Authorities have taken down 855 banners, confiscated 458 banners, removed 1,010 cutouts, and taken an additional 1,322 cutouts into custody. Furthermore, police have removed 5,045 leaflets and taken into custody over 64,000 leaflets, he said.
-
-Meanwhile, the Election Commission reported an increase in election-related complaints, with 150 received as of yesterday (07).
-
-...
-
-[Data](articles/42cd931c.json)
-
-[Extended Data](ext_articles/42cd931c.ext.json)
 
 ---

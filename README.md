@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 09:12:23**
+As of **2024-11-09 09:24:39**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,382
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,829 (100.0%) of 53,831 articles have been extended.
+53,831 (100.0%) of 53,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### சனத் இல்லத்தின் மின்சாரம்,  நீர் இணைப்புகள் துண்டிப்பு
+### Electricity, water connections disconnects
 
 *2024-11-09 09:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-இல்லத்தின்-மின்சாரம்-நீர்-இணைப்புகள்-துண்டிப்பு/175-346818) · `ta`
 
-முன்னாள் இராஜாங்க அமைச்சர் சனத் நிஷாந்த காலமாவதற்கு முன்னர், அரசாங்கத்தால்  வழங்கப்பட்ட உத்தியோகபூர்வ இல்லத்தை உடனடியாக கையளிக்குமாறு, மனைவி சட்டத்தரணி சாமரி பெரேராவுக்கு பல தடவைகள் நினைவூட்டப்பட்டுள்ளதாக, பொது நிர்வாக உள்நாட்டலுவல்கள் மாகாண சபைகள் மற்றும் உள்ளூராட்சி மற்றும் தொழிலாளர் அமைச்சு தெரிவித்துள்ளது.
+Government cuts electricity, water to minister's official residence due to unpaid rent and lack of cooperation. Former State Minister Sanath Nishantha's wife's lawyer Samari Perera failed to comply with requests to return the property. This resulted in disconnection of essential services.
 
-இந்த நிலைமையை கருத்தில் கொண்டு, உத்தியோகபூர்வ இல்லத்தின் மின்சாரம் மற்றும் நீர் விநியோகம் துண்டிக்கப்பட்டுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+🟩
 
-அந்த உத்தியோகபூர்வ இல்லம் தொடர்பான வீட்டு வாடகையை கூட அவர் செலுத்தவில்லை எனவும் தெரிவிக்கப்படுகிறது.
+The Ministry of Public Administration and Labor and Labor has said that before the time of the former State Minister Sanath Nishantha, the government has repeatedly reminded the wife's lawyer Samari Perera to immediately hand over the official residence provided by the government.
 
-இந்நிலைமையால் பங்களாவை உரிய முறையில் கையகப்படுத்த முடியாது எனத் தெரிவித்த அமைச்சின் அதிகாரி ஒருவர், இந்த விடயங்களில் அமைச்சின் அதிகாரிகள் தன்னிடம் இருந்து போதிய ஆதரவைப் பெறவில்லை எனவும் கூறினார்.
+Considering the situation, the official residence of the power and water supply has been cut off.
 
-அந்த உத்தியோகபூர்வ இல்லங்கள் தவிர, முன்னாள் அமைச்சர்கள் பயன்படுத்திய மற்றைய அனைத்து இல்லங்களும் ஒப்படைக்கப்பட்டுள்ளதாக அமைச்சு தெரிவித்துள்ளது. AN
+It is also reported that he did not even pay the home rent on the official residence.
+
+A ministry official said that the bungalow could not be acquired due to this situation, saying that the ministry officials did not receive adequate support from him.
+
+All other homes used by former ministers have been handed over to the ministry, except for those official residences.. That
 
 ◼️
 
 [Data](articles/3d4d1c22.json)
+
+[Extended Data](ext_articles/3d4d1c22.ext.json)
 
 ---
 
@@ -65,6 +71,8 @@ It was decided that a thorough study is necessary to address these concerns and 
 ...
 
 [Data](articles/5e7f4ce0.json)
+
+[Extended Data](ext_articles/5e7f4ce0.ext.json)
 
 ---
 

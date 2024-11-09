@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 15:24:31**
+As of **2024-11-09 15:40:02**
 
 ## Newspaper Stats
 
-*Scraped **53,872** Articles*
+*Scraped **53,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 5,033
 adaderanalk | 6,421
 tamilmirrorlk | 7,516
 virakesarilk | 8,721
-adaderanasinhalalk | 9,391
+adaderanasinhalalk | 9,392
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,872 (100.0%) of 53,872 articles have been extended.
+53,873 (100.0%) of 53,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Ministry of Finance Anshirasing over the Norosalhe Company
+
+*2024-11-09 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203070) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+The Ministry of Finance denies allegations against Norosalhe Company. No actions have been taken against Limited Troops. Three terms protecting children and pregnant women remain effective.
+
+🟩
+
+The Ministry of Finance has issued a statement regarding certain news published in the Tharaotic Firm.
+
+It states that no action has been taken to libilize the Limited Troops.
+
+The three terms of children and pregnant mothers have been in force in the more effectiveness.
+
+◼️
+
+[Data](articles/93424a68.json)
+
+[Extended Data](ext_articles/93424a68.ext.json)
+
+---
 
 ### Shooting near the Lotus Tower
 
@@ -2207,29 +2233,5 @@ The Investigation Officeries said that he had a luxury vehicle in the house of S
 [Data](articles/d41290c5.json)
 
 [Extended Data](ext_articles/d41290c5.ext.json)
-
----
-
-### Welimada Udakkessallawa road closed
-
-*2024-11-08 19:00:49* · [`adalk`](https://www.ada.lk/breaking_news/වැලිමඩ-උඩුපුස්සල්ලාව-මාර්ගය-වැසෙයි/11-412933) · `si`
-
-Welimada Udakkessallawa road closed due to landslide caused by heavy rains exceeding 100mm. Earth slips blocking Langara Lunugala road. Floods reported in Sumanthaissagama. Landslide situation activated near Welimada Hali-Ela road.
-
-🟩
-
-The Disaster Management Center (DMC) stated that a mound is collapsed with the rock with the rock with the rock with the rock with the stone.
-
-The center also said that heavy rains exceeding 100 mm in the area.
-
-Meanwhile, the Disaster Management Divisions have developed a small flood in Sumanthaissagama due to overflowing.The management center said that the earth slips will be blocked from the Langara Lunugala road.
-
-Meanwhile, the Disaster Management Center (DMC) stated that the landslide situation has been activated near the next toake of the Welimada Hali-Ela road.
-
-◼️
-
-[Data](articles/788a4c04.json)
-
-[Extended Data](ext_articles/788a4c04.ext.json)
 
 ---

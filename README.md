@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 10:40:23**
+As of **2024-11-09 10:58:39**
 
 ## Newspaper Stats
 
-*Scraped **53,839** Articles*
+*Scraped **53,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 5,031
 adaderanalk | 6,415
 tamilmirrorlk | 7,509
 virakesarilk | 8,714
-adaderanasinhalalk | 9,383
+adaderanasinhalalk | 9,384
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,839 (100.0%) of 53,839 articles have been extended.
+53,840 (100.0%) of 53,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Despite the chairman and Vice President of Elpitiya Little Vote
+
+*2024-11-09 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203061) · `si`
+
+Elpitiya Pradeshiya Sabha election results: Chairman Pathirage Wagoda, Vice Chairman Pathirage Colombo. National Jathi Province wins 17,295 votes, followed by six other parties and an independent group winning six seats each.
+
+🟩
+
+According to the Elpitiya Pradeshiya Sabha elections, the names of the Chairman and Vice Chairman of the Pradeshiya Sabha has issued a special gazette issued by the Elections Commission yesterday.
+
+Accordingly, the Chairman of the Elpitiya Pradeshiya Sabha was designated as the Chairman of the Elpitiya Pathirage, Wagoda Pathirage, Colombo.
+
+There were eight recognized political parties accepted on behalf of the Elpitiya Pradeshiya Sabha in Galle District and only one independent group.
+
+The National Jathi Province was won by taking 17,295 votes.
+
+Second place, six seats, six other parties and the independent group, won six seats, including six seats and the Sri Lanka Campaign Pubelian Front.
+
+◼️
+
+[Data](articles/1119b733.json)
+
+[Extended Data](ext_articles/1119b733.ext.json)
+
+---
 
 ### Chairman and Vice Chairman appointed for Elpitiya PS
 
@@ -2267,29 +2293,5 @@ Foreign buying interest was seen in CIC Holdings non-voting (up at 60.00), Royal
 [Data](articles/e2976e93.json)
 
 [Extended Data](ext_articles/e2976e93.ext.json)
-
----
-
-### Government relieved to school children
-
-*2024-11-08 15:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203041) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Prime Minister Dr. Haraini Amarasuriya announced relief for school children starting next year. She made this statement during a public briefing in Athurugiriya, citing presidential approval for the initiative.
-
-🟩
-
-Prime Minister Dr. Haraini Amarasuriya says that it is expected to provide relief to school children from next year.
-
-Addressing a public brief in Athurugiriya, she added that it is due to be done according to the approval of the President.
-
-◼️
-
-[Data](articles/31926b86.json)
-
-[Extended Data](ext_articles/31926b86.ext.json)
 
 ---

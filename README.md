@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 13:40:45**
+As of **2024-11-09 13:59:36**
 
 ## Newspaper Stats
 
-*Scraped **53,858** Articles*
+*Scraped **53,860** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,65 @@ islandlk | 3,217
 economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,032
+adalk | 5,033
 adaderanalk | 6,419
 tamilmirrorlk | 7,515
 virakesarilk | 8,715
-adaderanasinhalalk | 9,388
+adaderanasinhalalk | 9,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,857 (100.0%) of 53,858 articles have been extended.
+53,858 (100.0%) of 53,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### ரயில் நிலையத்தில் குண்டு தாக்குதல்: 24 பேர் பலி
+### වැල්ලවත්තේදී කොටුවූ 58දෙනා ගැන තොරතුරු රැසක්
+
+*2024-11-09 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203067) · `si`
+
+වැල්ලවත්තේ පිහිටි සුපිරි නිවාස සංකීර්ණයකදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ (08) පස්වරුවේ අත්අඩංගුවට ගත් සැකකරුවන් 58 දෙනා පිළිබඳව තවත් තොරතුරු අනාවරණය වී තිබේ.
+
+සැකකරුවන් අද (09) කොළඹ මහේස්‍ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+හැව්ලොක් සුඛෝපභෝගී නිවාස සංකීර්ණයක රැඳී සිටිමින් නීති විරෝධී අයුරුන් අන්තර්ජාලය හරහා මුදල් වංචා කරන බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකයට ලැබුණු තොරතුරක් අනුව සැකකරුවන් අත්අඩංගුවට ගැනුණි.
+
+එහිදී එම ස්ථානය වටලා සැකකරුවන් 58 දෙනෙකු විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගත් අතර පොලීසිය පැවසුවේ ඔවුන් සියලුදෙනා ශ්‍රී ලාංකිකයින් බවය.
+
+මේ සම්බන්ධයෙන් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා,
+
+"ශ්‍රී ලංකාවේ පිහිටි විදේශීය තානාපති කාර්යාලයකින් තමයි මේ පිළිබඳ පැමිණිල්ල ලැබී තිබුණේ. කොරියාවේ සිටින කොරියානු ජාතිකයෙකුගේ මුදල්... ශ්‍රී ලංකා මුදල් වටිනාකමින් ගත්තොත් රුපියල් කෝටි 30කට ආසන්න මුදලක් වංචා කර තිබෙනවා කියලා."
+
+...
+
+[Data](articles/f537ba18.json)
+
+---
+
+### Bomb attack at train station: 24 killed
 
 *2024-11-09 13:26:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரயில்-நிலையத்தில்-குண்டு-தாக்குதல்-24-பேர்-பலி/50-346825) · `ta`
 
-பாகிஸ்தானில் உள்ள குவெட்டா ரயில் நிலையத்தில், இன்று காலை மேற்கொள்ளப்பட்ட பயங்கர குண்டு வெடிப்பில்,  சுமார் 24 பேர் பலியானதுடன், 40 பேர் காயமடைந்துள்ளனர்.
+Bomb explosion at Quetta Railway Station kills 24, injures 40. Blast occurred on platform as train approached. Investigation ongoing.
 
-ரயில் ஒன்று நடைமேடைக்கு வருவதற்கு சற்று முன்னதாக, பிளாட்பாரத்தில் குண்டு வெடித்ததாக, முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+🟩
 
-பெஷாவரில் இருந்து ஜாஃபர் எக்ஸ்பிரஸ் சரியாக 9 மணிக்கு வர இருந்தது. இருப்பினும், குறித்த ரயில் அந்நேரத்துக்கு வந்திருந்தால், பலி எண்ணிக்கை மிகப்பெரிய அளவில் அதிகரித்திருக்கும்.
+About 24 people were killed and 40 injured in a bomb blast at Quetta Railway Station in Pakistan this morning.
 
-“தற்கொலை படை மூலம் இந்த தாக்குதல் நடத்தப்பட்டிருக்கலாம். ஆனால், முன்னதாகவே அந்த முடிவுக்கு வர முடியாது. குண்டு வெடிப்பு எப்படி நடைபெற்றது என்பதை அறிய விசாரணை நடைபெற்று வருகிறது. குண்டு வெடிப்பு நடைபெற்ற போது ரயில் நிலையத்தில் சுமார் 100 பேர் இருந்தனர்” என குவெட்டா பொலிஸார் தெரிவித்தனர்.AN
+Preliminary inquiries revealed that the bomb exploded on the platform just before a train arrived at the platform.
+
+The Jaffer Express from Peshawar was to arrive at exactly 9 o'clock. However, if the train arrived at that time, the number of casualties would have increased.
+
+“The attack may have been carried out by the suicide force. But, before that end can come to that end. Investigations are underway to learn how the blast took place. There were about 100 people at the train station during the blast, ”Quetta police said.
 
 ◼️
 
 [Data](articles/9faa4861.json)
+
+[Extended Data](ext_articles/9faa4861.ext.json)
 
 ---
 
@@ -117,6 +145,20 @@ The remaining passengers have been sent to hotels and they will be sent to Melbo
 [Data](articles/4f888267.json)
 
 [Extended Data](ext_articles/4f888267.ext.json)
+
+---
+
+### ඇල්පිටිය සභාපති හා උප සභාපති පත්කරයි
+
+*2024-11-09 12:25:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-සභාපති-හා-උප-සභාපති-පත්කරයි/11-412936) · `si`
+
+ඇල්පිටිය ප්‍රාදේශීය සභාවේ නව සභාපතිවරයා ලෙස කොළඹ තන්ත්‍රීගේ නිශාන්ත පෙරේරා සහ උප සභාපතිවරයා ලෙස වාගොඩ පතිරගේ සුමිත් චන්දන යන පත්කරමින් මැතිවරණ කොමිසම විසින් අතිවිශේෂ ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+
+නිශාන්ත පෙරේරා මහතා මීට පෙර ඇල්පිටිය ප්‍රාදේශීය සභාවේ මන්ත්‍රිවරයෙකු මෙන්ම දකුණු පළාත් සභාවේ මන්ත්‍රිවරයෙකු ලෙසද කටයිතු කර තිබේ. සුමිත් චන්දන මහතා නවක ප්‍රාදේශීය සභා මන්ත්‍රිවරයෙකි.
+
+◼️
+
+[Data](articles/b0b25392.json)
 
 ---
 
@@ -2201,71 +2243,5 @@ If the government has been managing the country since the government has come to
 [Data](articles/cccbe834.json)
 
 [Extended Data](ext_articles/cccbe834.ext.json)
-
----
-
-### Conditional bail for 12 Indian fishermen
-
-*2024-11-08 17:18:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இந்திய-மீனவர்கள்-12-பேருக்கும்-நிபந்தனை-பிணை/71-346788) · `ta`
-
-Indian fishermen arrested in Sri Lanka released after interrogation. Charged with illegal fishing in restricted waters. Sentenced to conditional bail pending trial.
-
-🟩
-
-The 12 Indian fishermen who were arrested and interrogated while engaged in fishing in the Sri Lankan Point Pedro Sea have been released.
-
-On October 27, the Navy arrested 12 rescuers of India Naga district with a boat.
-
-The 12 Indian fishermen were subjected to the Point Pedro Response Magistrate P. Kumaraswamy on the 27th of last month.
-
-In response to the case, the magistrate ordered the 12 fishermen to be remanded until November 8.
-
-The fishermen were booked in the presence of Point Pedro Magistrate Krisandan Ponnuthurai on Wednesday (08).
-
-Accordingly, allegations have been made, including fishing and fishing in the Sri Lankan waters using a restricted traction lap.
-
-The criminal complaint was filed separately against the sailor, including the lack of boiling the boat's nets until the boat was stopped.
-
-Accordingly, the magistrate has ordered the release of a six -month imprisonment for three crimes on the basis of a six -month imprisonment for a crime.
-
-◼️
-
-[Data](articles/0d27540c.json)
-
-[Extended Data](ext_articles/0d27540c.ext.json)
-
----
-
-### The Tamil people should become a bargaining force - Ira Sanakiyan
-
-*2024-11-08 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198207) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil people can leverage political power post-regime change. TNA candidate R. Sanakiyan sees opportunity for Tamil representation in Sri Lankan politics, potentially becoming bargaining force for district issues.
-
-🟩
-
-"The time has come for the change and we have a chance to create a change," the Sri Lanka Tamil National Alliance (TNA) Batticaloa district parliamentary candidate and former Member of Parliament, R. Sanakiyan said.
-
-He was speaking at the election campaign meeting in Kalutara.
-
-There is a regime change in the country. The president, who had carried out racist activities, had to go home.
-
-The Rajapaksa family, who joined him as a group, has to go home.
-
-In that way, the newly elected president in the country has clearly stated that he will not connect with the government, such as corrupt, robbers, rape, and comic recipients.
-
-In that way, when we look at the other parties in the district, there is no such thing as any party to work with the president.
-
-The Tamil people have a better chance. This is because the president was elected by 42 types of votes.
-
-...
-
-[Data](articles/2d24cae4.json)
-
-[Extended Data](ext_articles/2d24cae4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 23:24:40**
+As of **2024-11-09 23:40:25**
 
 ## Newspaper Stats
 
-*Scraped **53,912** Articles*
+*Scraped **53,913** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,429
-tamilmirrorlk | 7,526
+tamilmirrorlk | 7,527
 virakesarilk | 8,724
 adaderanasinhalalk | 9,406
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,912 (100.0%) of 53,912 articles have been extended.
+53,913 (100.0%) of 53,913 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Sri Lanka won New Zealand
+
+*2024-11-09 23:06:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/நியூசிலாந்தை-வென்ற-இலங்கை/44-346837) · `ta`
+
+Sri Lanka defeated New Zealand in cricket match
+
+🟩
+
+◼️
+
+[Data](articles/60ae96a9.json)
+
+[Extended Data](ext_articles/60ae96a9.ext.json)
+
+---
 
 ### Superbid from Sri Lanka
 
@@ -2297,21 +2313,5 @@ AIA Insurance has once again fortified its position as a leading brand in Sri La
 [Data](articles/b6cb4e41.json)
 
 [Extended Data](ext_articles/b6cb4e41.ext.json)
-
----
-
-### Standard Chartered ‘Official Banking Partner’ at Sri Lanka Design Festival 2024
-
-*2024-11-09 01:24:00* · [`islandlk`](http://island.lk/standard-chartered-official-banking-partner-at-sri-lanka-design-festival-2024/) · `en`
-
-Standard Chartered is the Official Banking Partner for the prestigious event, Sri Lanka Design Festival (SLDF) 2024, the country’s most impressive celebration of creativity, design, and innovation.Organised by the Academy of Design (AOD), one of Sri Lanka’s leading design education institutes, the SLDF 2004 under the theme ‘Innovation Island’, is taking place at the Cinnamon Life at City of Dreams, Sri Lanka.
-
-The festival, celebrating its 15th anniversary, will feature a series of high-profile events including the headline event Mercedes-Benz Fashion Week (MBFW) featuring Sri Lanka’s leading design talent alongside South Asian designers, a cornerstone of the SLDF which celebrates the vital contribution of creative industries in powering economic resurgence and social transformation.
-
-...
-
-[Data](articles/f5f07e19.json)
-
-[Extended Data](ext_articles/f5f07e19.ext.json)
 
 ---

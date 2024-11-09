@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 18:00:57**
+As of **2024-11-09 18:20:01**
 
 ## Newspaper Stats
 
-*Scraped **53,884** Articles*
+*Scraped **53,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 5,034
 adaderanalk | 6,425
 tamilmirrorlk | 7,517
 virakesarilk | 8,721
-adaderanasinhalalk | 9,396
+adaderanasinhalalk | 9,397
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,884 (100.0%) of 53,884 articles have been extended.
+53,885 (100.0%) of 53,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Electricity bill down more than 30% - President
+
+*2024-11-09 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203077) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's President Anura Kumara Dissanayake promises to cut electricity bills by over 30%. He vows action within a year and a half, citing fuel price reductions as a future goal.
+
+🟩
+
+President Anura Kumara Dissanayake says steps will be taken to reduce the electricity bill over 30 percent.
+
+He was speaking at a rally of the national propagation held at Dambulla today (09).
+
+"As a year and a half, we have a major transformation in the electricity sector. This electricity bill is reduced in more than 30%. Give us a little time. Fuel prices, we need time to reduce. We'll do what work. "
+
+◼️
+
+[Data](articles/ce297980.json)
+
+[Extended Data](ext_articles/ce297980.ext.json)
+
+---
 
 ### Govt denies reports of shutting down ‘Thriposha’ company
 
@@ -2201,27 +2227,5 @@ Meanwhile, the Election Commission reported an increase in election-related comp
 [Data](articles/42cd931c.json)
 
 [Extended Data](ext_articles/42cd931c.ext.json)
-
----
-
-### Sri Lanka is the most desirable island country at the International Awards Ceremony
-
-*2024-11-08 21:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198231) · `ta`
-
-Sri Lanka wins "most desirable island" at Wanderlusr Reader Travel Awards 2024 in London. Surpasses previous 8th place finish. Over 2 million tourists select it. Australia named most desirable country, city.
-
-🟩
-
-Sri Lanka has been selected as the most desirable island among world tourists at the Wanderlusr Reader Travel Awards (2024) awards ceremony in London.
-
-Sri Lanka has won the golden award for the most desirable island of these awards. Sri Lanka topped the eighth place last year.
-
-The award was received by more than two million tourists. Australia has been selected as the most desirable country and has won the award for the most desirable city.
-
-◼️
-
-[Data](articles/c8c8100f.json)
-
-[Extended Data](ext_articles/c8c8100f.ext.json)
 
 ---

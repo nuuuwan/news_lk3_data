@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 11:59:48**
+As of **2024-11-09 12:13:55**
 
 ## Newspaper Stats
 
-*Scraped **53,843** Articles*
+*Scraped **53,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ economynextcom | 3,268
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,031
-adaderanalk | 6,416
+adaderanalk | 6,418
 tamilmirrorlk | 7,509
-virakesarilk | 8,714
-adaderanasinhalalk | 9,385
+virakesarilk | 8,715
+adaderanasinhalalk | 9,386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,843 (100.0%) of 53,843 articles have been extended.
+53,846 (100.0%) of 53,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### At least 24 killed in Pakistan train station bomb blast, police say
+
+*2024-11-09 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103275/at-least-24-killed-in-pakistan-train-station-bomb-blast-police-say) · `en`
+
+At least 24 people were killed and more than 40 injured in a bomb blast at a railway station in Quetta in southwestern Pakistan on Saturday, police and other officials told Reuters.
+
+Pakistan is grappling with a surge in strikes by separatist ethnic militants in the south and Islamist militants in its northwest.
+
+Inspector general of police for Balochistan, Mouzzam Jah Ansari, said 24 people have died from the blast so far.
+
+“The target was army personnel from the Infantry School,” he said, with many of the injured in critical condition.
+
+“So far 44 injured people have been brought to civil hospital,” Dr. Wasim Baig, a hospital spokesman, told Reuters.
+
+Senior superintendent of police operations, Muhammad Baloch, said the blast seemed to be a suicide bomb and that investigations were underway for more information.
+
+“The blast took place inside the railway station when the Peshawar-bound express was about to leave for its destination,” Baloch said.
+
+...
+
+[Data](articles/474fdc6f.json)
+
+---
+
+### Embankment collapse at DS Senanayake College in Kandy puts classes at risk
+
+*2024-11-09 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103274/embankment-collapse-at-ds-senanayake-college-in-kandy-puts-classes-at-risk) · `en`
+
+A large embankment at D.S. Senanayake College in Kandy has collapsed, causing damages to multiple classrooms.
+
+The incident had occurred following heavy rainfall last night (08).
+
+Principal Ananda Upatissa reports that 27 additional classrooms are now at high risk. All primary section classrooms and several others are at risk.
+
+He stated that further heavy rainfall tonight (09) could cause additional damage to classrooms.
+
+Authorities, including the Governor of the Central Province, have been notified of the risks, and educational activities will proceed per official instructions from next Monday, he said.
+
+◼️
+
+[Data](articles/5bfc5957.json)
+
+[Extended Data](ext_articles/5bfc5957.ext.json)
+
+---
+
+### Two sluice gates of Polgolla
+
+*2024-11-09 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203063) · `si`
+
+Polgolla Mahaweli Reservoir Kandy sluice gates opened heavy rains 140 cubic meters water released Victoria Reservoir
+
+🟩
+
+Two sluice gates of the Mahaweli Reservoir in Kandy have been opened with the heavy rains.
+
+The engineer of the Mahaweli Authority of the Mahaweli Authority of Sri Lanka said that two sluice gates of the reservoir were opened.
+
+According to the Mahaweli Authority of the Mahaweli Authority, about 140 cubic water cuts will be released to the Victoria Reservoir.
+
+◼️
+
+[Data](articles/6ef782cc.json)
+
+[Extended Data](ext_articles/6ef782cc.ext.json)
+
+---
 
 ### Kandy chief school kills many classes
 
@@ -77,6 +145,28 @@ Furthermore, material assistance worth 10 million Yuan is expected from the Peop
 [Data](articles/9c1a3b36.json)
 
 [Extended Data](ext_articles/9c1a3b36.ext.json)
+
+---
+
+### A lorry umbrella crashing in Nuwara Eliya;Fourth wound
+
+*2024-11-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198240) · `ta`
+
+Lorry crash in Nuwara Eliya: Four injured after vehicle carrying tea hits umbrella on road. Driver lost control due to brake failure, causing accident.
+
+🟩
+
+Nuwara Eliya police said that four people were injured when a lorry carrying tea in Nuwara Eliya was hit by an umbrella on the road.
+
+Nuwara Eliya police said that a lorry carrying tea from the Nuwara Eliya Scrap estate to the Beethru Tea Factory lost control of the driver and crashed into the street with a tea.
+
+The lorry that went forward suddenly came backwards due to the sudden breakdown (brake).
+
+◼️
+
+[Data](articles/9bba4a72.json)
+
+[Extended Data](ext_articles/9bba4a72.ext.json)
 
 ---
 
@@ -252,7 +342,7 @@ It was decided that a thorough study is necessary to address these concerns and 
 
 ### 58 arrested for allegedly defrauding money
 
-*2024-11-09 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198235) · `ta`
+*2024-11-09 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198235) · `ta`
 
 Sri Lanka: 58 arrested for alleged money laundering scheme involving foreign entities.
 
@@ -2191,101 +2281,5 @@ Accordingly, Haldummulla, Passara and Hali Canal, Galle District, Pathapuragala,
 [Data](articles/0db776e0.json)
 
 [Extended Data](ext_articles/0db776e0.ext.json)
-
----
-
-### Samanmalee Chandrasiri appointed to Ceylon Tobacco Company Board
-
-*2024-11-08 16:24:00* · [`economynextcom`](https://economynext.com/samanmalee-chandrasiri-appointed-to-ceylon-tobacco-company-board-186651/) · `en`
-
-ECONOMYNEXT – Samanmalee Priyanvada Chandrasiri has been appointed non-executive director to the Ceylon Tobacco Company PLC (CTC) Board of Directors, the company said.
-
-She is a globally experienced HR professional with nearly two decades of HR expertise.
-
-Chandrasiri has an MBA from Edith Cowan University and a BSc in Management from the University of London.
-
-Starting her career in 2006 with HR business partnering roles at BAT Sri Lanka, Samanmalee worked across marketing, supply chain, and corporate functions.
-
-As BAT South Asia Area Head of Talent she managed talent strategies across Pakistan, Bangladesh, and Sri Lanka. This led to her position as Organisation Effectiveness Advisor in BAT Indonesia.
-
-She served as HR Director for BAT Sri Lanka (Ceylon Tobacco Company PLC) and for Malaysia and Singapore.
-
-She assumed duties as Group Head of Organisation Effectiveness and Talent Management in July 2019, operating from London.
-
-...
-
-[Data](articles/d1647fb1.json)
-
-[Extended Data](ext_articles/d1647fb1.ext.json)
-
----
-
-### New circular on the use of WhatsApp for school learning
-
-*2024-11-08 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203043) · `si`
-
-Circular: WhatsApp use in schools during COVID-19. Education authorities instructed teachers to maintain regulated groups, prioritize education over communication. Limit personal content sharing. Ensure learning materials are appropriate and planned. No private videos, photos, or notes allowed. Legal action may be taken for harmful content.
-
-🟩
-
-A special circular has been issued to the use of 'social communication inputs' for school education and communication.
-
-The Secretary to the Ministry, JMT Jayasundara, has been referred to the education authorities including all principals, including all principals.
-
-The circular further stated that the use of social communication tools such as What missed children have already been used to cover school students in the Cowid-12 Epidemic.
-
-It is reported that the Ministry is currently reported on the other adverse effects.
-
-Accordingly, in the use of communication inputs, all teachers have been informed of the relevant parties to conduct the following instructions.
-
-The main teachers / Assistant Principal / Assistant Principal / Divisional Secretariat / Division should be maintained as administrative and regulatory communication group under regular supervision and regulation.
-
-...
-
-[Data](articles/a6366088.json)
-
-[Extended Data](ext_articles/a6366088.ext.json)
-
----
-
-### Actress Ramya (Pictures Link)
-
-*2024-11-08 16:13:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/காதலரை-கரம்பிடித்தார்-நடிகை-ரம்யா-படங்கள்-இணைப்பு/54-346783) · `ta`
-
-Actress Ramya Pandiyan marries yoga coach Lowal Dhawan in Rishikesh. Attended by family and friends. Ramya debuted in Tamil cinema in 2015. Known for roles in Dummy Tapsu, Joker, and TV shows like Cook with Comedy.
-
-🟩
-
-Actress Ramya Pandiyan and Yoga Coach Lowal Dhawan Rishikesh, who was married to Yoga coach Lowal Dhawan, held a wedding on Friday (08) at Shivpuri Gangaikara. It was attended by close relatives and friends.
-
-Actress Ramya Pandian made his debut in Tamil cinema with the film 'Dummy Tapasu', released in 2015. Next he caught the widespread attention of the fans in the movie Joker. Subsequently, he has acted in films including the male angel, Ramen and Ravana Anale. He also received focus on television shows including Cook with Comedy, BigPass.
-
-Last year, Ramya Pandian joined the Yoga Center in Bangalore. Ramya Pandiyan became friendly with Yoga Master Lowal Dhawan, who worked there, it became love. The marriage was decided with the consent of the family of the two.
-
-Actress Ramya Pandiyan and Lowal couple were married this morning at Rishikesh and Shivpuri Ganga Nathikkarai in Uttarakhand. The event was attended by family, relatives and close friends.
-
-◼️
-
-[Data](articles/b2664080.json)
-
-[Extended Data](ext_articles/b2664080.ext.json)
-
----
-
-### Weather advisory issued for severe lightning
-
-*2024-11-08 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103260/weather-advisory-issued-for-severe-lightning) · `en`
-
-The Department of Meteorology has issued an advisory for severe lightning in several provinces and districts.
-
-Thundershowers accompanied by severe lightning are likely to occur at several places in Northern and North-central, Nort-western, Central, Uva, Western and Sabaragamuwa provinces and in Trincomalee and Ampara districts, it said.
-
-The department said there may be temporary localized strong winds during thundershowers and requested the general public to take adequate precautions to minimize damages caused by lightning activity.
-
-◼️
-
-[Data](articles/58abf15a.json)
-
-[Extended Data](ext_articles/58abf15a.ext.json)
 
 ---

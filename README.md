@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 16:40:12**
+As of **2024-11-09 16:56:36**
 
 ## Newspaper Stats
 
-*Scraped **53,878** Articles*
+*Scraped **53,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,69 @@ islandlk | 3,217
 economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,033
+adalk | 5,034
 adaderanalk | 6,423
 tamilmirrorlk | 7,517
 virakesarilk | 8,721
-adaderanasinhalalk | 9,393
+adaderanasinhalalk | 9,395
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,878 (100.0%) of 53,878 articles have been extended.
+53,879 (100.0%) of 53,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### ට්‍රම්ප් ඝාතන සැකකරු ආරුගම්බේ සිද්ධියටත් සම්බන්ධ බවට තොරතුරු
+
+*2024-11-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203075) · `si`
+
+අමෙරිකාවේ තේරී පත්වූ නව ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඝාතනය කිරීමට සැලසුම් කළ ෆර්හාද් ශකේරි නම් පුද්ගලයා ශ්‍රී ලංකාවේදී ඊශ්‍රායල් ජාතිකයින් ඝාතනය කිරීමට ද සැලසුම් කර ඇති බව අමෙරිකානු අධිකරණ දෙපාර්තමේන්තුව අද (09) නිවේදනය කළේය.
+
+ඒ, කාර්ලිස්ල් රිවේරා නමැති 49 හැවිරිදි පුද්ගලයෙකු නිව්යොර්ක් නුවර බෘෘක්ලින් හිදී සහ ජොනත් ලෝඩ්හෝල්ට නම් 36 හැවිරිදි පුද්ගලයෙකු නිව්යෝර්ක් හි ස්ටැටන් දූපතේදී අත්අඩංගුවට ගැනීමත් සමඟය.
+
+අත්අඩංගුවට ගත් මෙම පුද්ගලයින් දෙදෙනා විසින් මෙම තොරතුරු අනාවරණ කර ඇති බව එම නිවේදනයේ දැක්වෙන බව සඳහන් ය.
+
+කෙසේ වෙතත්, ජනපති ට්‍රම්ප් සහ ශ්‍රී ලංකාවේ ඊශ්‍රායල් ජාතිකයින්ට ප්‍රහාර එල්ල කිරීමට සැලසුම් කර ඇති 51 හැවිරිදි ඉරාන ජාතික ෆර්හාද් ශකේරි නමැති පුද්ගලයා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර අමෙරිකාව විශ්වාසය පළකරන්නේ ඔහු මේ වන විට ඉරානයේ රැඳී සිටින බවය.
+
+කෙසේ වෙතත් ඔවුන් තිදෙනාටම එරෙහිව මේ වන විට එරට අධිකරණය හමුවේ අපරාධ චෝදනා ගොනුකර තිබේ.
+
+...
+
+[Data](articles/eca21c85.json)
+
+---
+
+### මෙරට සංචාරක ඉපැයීම් ඉහළට
+
+*2024-11-09 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203074) · `si`
+
+ගෙවුණු වසරට සාපේක්ෂව මේ වසරේදී මෙරටට ලැබුණු විදෙස් ප්‍රේෂණ සහ සංචාරක කර්මාන්තයේ ඉපැයීම් ප්‍රමාණය ඉහළ ගොස් තිබේ.
+
+සංචාරක කර්මාන්තය හරහා පසුගිය ඔක්තෝබර් මාසයේ ශ්‍රී ලංකාව උපයා ඇති මුදල ඩොලර් මිලියන 185.6කි.
+
+ඒ අනුව මේ වසරේ ජනවාරි සිට ඔක්තෝබර් දක්වා වූ මාස 10 තුළ මුළු සංචාරක කර්මාන්තයෙන් උපයන ලද මුදල ඩොලර් මිලියන 2533.7ක් වෙයි.
+
+මෙය 2023 වසරේ මුල් මාස 10 යේ සංචාරක ඉපැයීම් ප්‍රමාණය වන මිලියන 1593.4 සමග සසදන විට 59%ක වර්ධනයකි.
+
+මෙවැනි පසුබිමක 2024 නොවැම්බර් මස මුල් දින 05 තුළදී විදෙස් සංචාරකයින් 30,620 ක් මෙරටට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+
+මේ සමඟම 2024 වසරේ මේ දක්වා ශ්‍රී ලංකාවට පැමිණ ඇති සමස්ත සංචාරකයින් ප්‍රමාණය 1,651,335ක් දක්වා ඉහළ ගොස් තිබේ.
+
+නොවැම්බර් මාසයේදී පළමු දින පහ තුළ වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇත්තේ, ඉන්දියාවෙන් වන අතර එම සංඛ්‍යාව 7,785කි.
+
+දෙවැනියට වැඩිම සංචාරකයින් පිරිසක් රුසියාවෙන් පැමිණ ඇති අතර එය 4,488කි.
+
+ඉන් පසු වැඩිම සංචාරකයින් පිරිසක් ශ්‍රී ලංකාවට පැමිණ ඇත්තේ, ජර්මනිය, බ්‍රිතාන්‍ය, ඔස්ට්‍රේලියාව සහ චීනය යන රටවලිනි.
+
+...
+
+[Data](articles/6bfb0ba5.json)
+
+---
 
 ### Reinforced protection
 
@@ -333,6 +381,30 @@ Police Special Task Force said that the equipment banned for further investigati
 [Data](articles/e881f563.json)
 
 [Extended Data](ext_articles/e881f563.ext.json)
+
+---
+
+### Small Lazi cell comprine finds mobile phones and devices
+
+*2024-11-09 13:32:00* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ලැසීගේ-සිර-මැදිරියෙන්-ජංගම-දුරකතන-හා-උපාංග-සොයා-ගනියි/11-412937) · `si`
+
+Here's a 200-character summary:
+
+
+
+STF arrests suspect with mobile phones and equipment near prison. Police struggle behind bars. Equipment found in prisoner's cell.
+
+🟩
+
+Police have arrested a new mobile phone and a large number of equipment in the busherassabs were using a large number of equipment, police struggled at the back of the prison.Special Task Force says.
+
+According to the STF, the cells of the prison, which was used by the Basic Prison Base camp, according to the police STF officer in information received by the Basa Prison Base camp.
+
+◼️
+
+[Data](articles/2152ad32.json)
+
+[Extended Data](ext_articles/2152ad32.ext.json)
 
 ---
 
@@ -2143,73 +2215,5 @@ In the meantime, the West Indies Cricket Company issued a statement on Thursday 
 [Data](articles/aa231dab.json)
 
 [Extended Data](ext_articles/aa231dab.ext.json)
-
----
-
-### Re -review the government's decision to shut down Triposha
-
-*2024-11-08 20:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198228) · `ta`
-
-Reviewing government shutdown of Triposha: Impact on child nutrition, criticism from former Health Minister Rajitha Senaratne, expansion under his tenure, concerns about privatization, JVP involvement, and left-wing policy opposition.
-
-🟩
-
-The government should review the resolution taken to shut down Triposha. Former Health Minister Rajitha Senaratne said this would have a huge impact on the need for children.
-
-He was speaking at a press conference held at the New Democratic Front Elections Office in Colombo on Friday (08).
-
-The government has taken steps to cover or suppress Triposha. Triposha is a government program offered by the government in this country, considering the nutrition of children, pregnant mothers and breastfeeding mothers.
-
-We are only giving Triposha on the basis of nutrition. Stopping it will have to face a massive nutritional problem in the future.
-
-1.6 million Triposha Package is distributed per month in our country. It was 70 percent in the year 2015. However, when I became the Minister of Health in 2016, I took steps to expand the Triposha project with the help of UNICEF. With this, I took steps to increase production by 100 percent.
-
-...
-
-[Data](articles/4a35bf4a.json)
-
-[Extended Data](ext_articles/4a35bf4a.ext.json)
-
----
-
-### Rs 1,000 crore fraud:
-
-*2024-11-08 20:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரூ-1-000-கோடி-மோசடி-தம்பதிகளுக்கு-மறியல்/175-346796) · `ta`
-
-Kurunegala couple arrested for Rs 1,000 crore fraud. Owner fled country; wife director of financial institution arrested at Katunayake airport. Remanded until 22nd.
-
-🟩
-
-A couple arrested in Kurunegala have been detained on charges of defrauding about Rs 1000 crore.
-
-The owner of the company who fled the country, his wife, who was the director of the financial institution, was arrested today (08) at the Katunayake airport.
-
-When the arrested persons were produced before Colombo Chief Magistrate Thilina Kamage, he ordered to be remanded until the 22nd of this month.. Those
-
-◼️
-
-[Data](articles/eca1460a.json)
-
-[Extended Data](ext_articles/eca1460a.ext.json)
-
----
-
-### Warning to 6 districts
-
-*2024-11-08 20:01:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-மாவட்டங்களுக்கு-விடுக்கப்பட்ட-எச்சரிக்கை/175-346795) · `ta`
-
-Heavy rains trigger landslide warnings for 6 districts: Badulla, Kandy, Kegalle, Nuwara Eliya, Kurunegala, Ratnapura. National Building Research Institute warns of potential landslides, wall collapses, rock falls, and soil erosion until 4pm tomorrow.
-
-🟩
-
-Due to heavy rains in the country, the National Building Research Institute has issued a landslide warning to Badulla, Kandy, Kegalle, Nuwara Eliya, Kurunegala and Ratnapura districts till 4.00 pm tomorrow.
-
-The National Building Research Institute said that if the rain continues to the rain, the landslide, the wall collapsing, the risk of rock collapse and soil decline should be warned.. Remble
-
-◼️
-
-[Data](articles/fa92729b.json)
-
-[Extended Data](ext_articles/fa92729b.ext.json)
 
 ---

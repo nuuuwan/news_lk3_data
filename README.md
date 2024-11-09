@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 13:59:36**
+As of **2024-11-09 14:11:48**
 
 ## Newspaper Stats
 
@@ -26,31 +26,39 @@ adaderanasinhalalk | 9,389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,858 (100.0%) of 53,860 articles have been extended.
+53,860 (100.0%) of 53,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### වැල්ලවත්තේදී කොටුවූ 58දෙනා ගැන තොරතුරු රැසක්
+### Lots of information about 58 trapped in Wellawatte
 
 *2024-11-09 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203067) · `si`
 
-වැල්ලවත්තේ පිහිටි සුපිරි නිවාස සංකීර්ණයකදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් ඊයේ (08) පස්වරුවේ අත්අඩංගුවට ගත් සැකකරුවන් 58 දෙනා පිළිබඳව තවත් තොරතුරු අනාවරණය වී තිබේ.
+CID arrests 58 suspects in Wellawatte raid; case to be presented in court today. Police investigation reveals fraud scheme targeting Sri Lankan citizens and foreigners.
 
-සැකකරුවන් අද (09) කොළඹ මහේස්‍ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කිරීමට නියමිතය.
+🟩
 
-හැව්ලොක් සුඛෝපභෝගී නිවාස සංකීර්ණයක රැඳී සිටිමින් නීති විරෝධී අයුරුන් අන්තර්ජාලය හරහා මුදල් වංචා කරන බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකයට ලැබුණු තොරතුරක් අනුව සැකකරුවන් අත්අඩංගුවට ගැනුණි.
+The Criminal Investigations Department (CID) has revealed more than 58 suspects in Wellawatte yesterday (08).
 
-එහිදී එම ස්ථානය වටලා සැකකරුවන් 58 දෙනෙකු විමර්ශන නිලධාරීන් විසින් අත්අඩංගුවට ගත් අතර පොලීසිය පැවසුවේ ඔවුන් සියලුදෙනා ශ්‍රී ලාංකිකයින් බවය.
+The suspects are to be produced before the Colombo Magistrate's Court today (09).
 
-මේ සම්බන්ධයෙන් අදහස් දැක්වූ පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා,
+The Criminal Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit arrested the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Department.
 
-"ශ්‍රී ලංකාවේ පිහිටි විදේශීය තානාපති කාර්යාලයකින් තමයි මේ පිළිබඳ පැමිණිල්ල ලැබී තිබුණේ. කොරියාවේ සිටින කොරියානු ජාතිකයෙකුගේ මුදල්... ශ්‍රී ලංකා මුදල් වටිනාකමින් ගත්තොත් රුපියල් කෝටි 30කට ආසන්න මුදලක් වංචා කර තිබෙනවා කියලා."
+The police raided the site and 58 suspects were arrested by the investigators and the police said they were all Sri Lankans.
+
+Deputy Minister of Police Media Spokesperson DIG Talduwa, speaking to this,
+
+"The complaint was found at the Foreign Embassy in Sri Lanka. The money of a Korean in Korean. If you take Sri Lanka in Sri Lanka, it has been cheated for nearly Rs.
+
+"This place was rounded yesterday. The place has been maintained as a monthly rent more than Rs. 90 million. "
 
 ...
 
 [Data](articles/f537ba18.json)
+
+[Extended Data](ext_articles/f537ba18.ext.json)
 
 ---
 
@@ -148,17 +156,23 @@ The remaining passengers have been sent to hotels and they will be sent to Melbo
 
 ---
 
-### ඇල්පිටිය සභාපති හා උප සභාපති පත්කරයි
+### Elpitiya chairman and appointed Vice President
 
 *2024-11-09 12:25:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-සභාපති-හා-උප-සභාපති-පත්කරයි/11-412936) · `si`
 
-ඇල්පිටිය ප්‍රාදේශීය සභාවේ නව සභාපතිවරයා ලෙස කොළඹ තන්ත්‍රීගේ නිශාන්ත පෙරේරා සහ උප සභාපතිවරයා ලෙස වාගොඩ පතිරගේ සුමිත් චන්දන යන පත්කරමින් මැතිවරණ කොමිසම විසින් අතිවිශේෂ ගැසට් පත්‍රයක් නිකුත් කර තිබේ.
+Elpitiya Pradeshiya Sabha appoints new Chairman: Vampoda Pathiith Sumith Chandana replaces Nishantha Perera, former member of Southern Provincial Council.
 
-නිශාන්ත පෙරේරා මහතා මීට පෙර ඇල්පිටිය ප්‍රාදේශීය සභාවේ මන්ත්‍රිවරයෙකු මෙන්ම දකුණු පළාත් සභාවේ මන්ත්‍රිවරයෙකු ලෙසද කටයිතු කර තිබේ. සුමිත් චන්දන මහතා නවක ප්‍රාදේශීය සභා මන්ත්‍රිවරයෙකි.
+🟩
+
+The appointment of the Elpitiya Pradeshiya Sabha is the new Chairman of the Elpitiya Pradeshiya Sabha, Vampoda Pathiith Sumith Chandana, Vagoda Pathirage Sumith Chandana.
+
+Nishantha Perera has previously been a member of the Elpitiya Pradeshiya Sabha and a member of the Southern Provincial Council. Mr. Sumith Chandana is a new Pradeshiya Sabha member.
 
 ◼️
 
 [Data](articles/b0b25392.json)
+
+[Extended Data](ext_articles/b0b25392.ext.json)
 
 ---
 

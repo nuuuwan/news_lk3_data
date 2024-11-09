@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 13:24:35**
+As of **2024-11-09 13:40:45**
 
 ## Newspaper Stats
 
-*Scraped **53,854** Articles*
+*Scraped **53,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,107 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,032
 adaderanalk | 6,419
-tamilmirrorlk | 7,512
+tamilmirrorlk | 7,515
 virakesarilk | 8,715
-adaderanasinhalalk | 9,387
+adaderanasinhalalk | 9,388
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,854 (100.0%) of 53,854 articles have been extended.
+53,857 (100.0%) of 53,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### ரயில் நிலையத்தில் குண்டு தாக்குதல்: 24 பேர் பலி
+
+*2024-11-09 13:26:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரயில்-நிலையத்தில்-குண்டு-தாக்குதல்-24-பேர்-பலி/50-346825) · `ta`
+
+பாகிஸ்தானில் உள்ள குவெட்டா ரயில் நிலையத்தில், இன்று காலை மேற்கொள்ளப்பட்ட பயங்கர குண்டு வெடிப்பில்,  சுமார் 24 பேர் பலியானதுடன், 40 பேர் காயமடைந்துள்ளனர்.
+
+ரயில் ஒன்று நடைமேடைக்கு வருவதற்கு சற்று முன்னதாக, பிளாட்பாரத்தில் குண்டு வெடித்ததாக, முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
+
+பெஷாவரில் இருந்து ஜாஃபர் எக்ஸ்பிரஸ் சரியாக 9 மணிக்கு வர இருந்தது. இருப்பினும், குறித்த ரயில் அந்நேரத்துக்கு வந்திருந்தால், பலி எண்ணிக்கை மிகப்பெரிய அளவில் அதிகரித்திருக்கும்.
+
+“தற்கொலை படை மூலம் இந்த தாக்குதல் நடத்தப்பட்டிருக்கலாம். ஆனால், முன்னதாகவே அந்த முடிவுக்கு வர முடியாது. குண்டு வெடிப்பு எப்படி நடைபெற்றது என்பதை அறிய விசாரணை நடைபெற்று வருகிறது. குண்டு வெடிப்பு நடைபெற்ற போது ரயில் நிலையத்தில் சுமார் 100 பேர் இருந்தனர்” என குவெட்டா பொலிஸார் தெரிவித்தனர்.AN
+
+◼️
+
+[Data](articles/9faa4861.json)
+
+---
+
+### Compulsory freeze in Pakistan
+
+*2024-11-09 13:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-கட்டாய-முடக்கம்-அமுல்/50-346824) · `ta`
+
+Pakistan faces severe air pollution crisis. Smoke levels exceed 2,000, prompting government to close parks and museums until Nov 17. Situation remains critical in Punjab region.
+
+🟩
+
+In Pakistan, air pollution is uncontrollable. Smoke continues to deteriorate in Pakistan's Punjab.
+
+In this case, yesterday morning, the wind standard index worsened beyond the level of 2,000. This made the city a smoke.
+
+Thus, until November 17, the government has ordered the closure of parks and museums.
+
+◼️
+
+[Data](articles/151707dc.json)
+
+[Extended Data](ext_articles/151707dc.ext.json)
+
+---
+
+### Sri Lanka's political difference is from Dilith
+
+*2024-11-09 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203066) · `si`
+
+Sri Lanka's political landscape shifts as Dilith Jayarawara leads entrepreneurial efforts. He emphasizes grassroots support and a wide network for upcoming elections.
+
+🟩
+
+The Leader of the Entrepreneering Dilith Jayarawara says that the people have given the opportunity to choose the political change in Sri Lanka.
+
+Mr. Dilith Jayaweera addressing the Galle district meeting held today (09) at the General Elections at the General Election.
+
+"We have taken this opportunity for less than a year. When we come to the presidential election, we do not know even a group of Grama Sevaka. We can work with a large base, a widespread network.
+
+"We are contesting the 22 districts. The good lists have been left with everywhere. You have made the opportunity to make Sri Lanka's political change. "
+
+◼️
+
+[Data](articles/80634394.json)
+
+[Extended Data](ext_articles/80634394.ext.json)
+
+---
+
+### The flight to Melbourne canceled
+
+*2024-11-09 13:08:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெல்போர்னுக்கு-செல்லவிருந்த-விமானம்-இரத்து/175-346823) · `ta`
+
+SriLankan Airlines cancels Melbourne-bound flight due to technical issues. 290 passengers affected. Some rerouted, others accommodated in hotels pending rescheduling.
+
+🟩
+
+SriLankan Airlines, which was on its way to Melbourne, Australia with 290 passengers, has been greatly affected.
+
+When contacted by SriLankan Airlines, the plane was canceled due to technical failure.
+
+Following this, the company said that the passengers who wanted to go to Melbourne were returned to a different plane.
+
+The remaining passengers have been sent to hotels and they will be sent to Melbourne as soon as possible, SriLankan Airlines further said. Those
+
+◼️
+
+[Data](articles/4f888267.json)
+
+[Extended Data](ext_articles/4f888267.ext.json)
+
+---
 
 ### Sluice gates opened at Polgolla Reservoir in Kandy
 
@@ -2179,101 +2267,5 @@ The Tamil people have a better chance. This is because the president was elected
 [Data](articles/2d24cae4.json)
 
 [Extended Data](ext_articles/2d24cae4.ext.json)
-
----
-
-### Israel appreciated Sri Lanka to ensure security
-
-*2024-11-08 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203046) · `si`
-
-Sri Lanka commends Israel for protecting its citizens. Israeli ambassador praises SL's efforts. Both nations strengthen ties.
-
-🟩
-
-The Government of Sri Lanka has commended the Government of Sri Lanka to protect the Israeli nationals.
-
-Israeli Ambassador, Sri Lanka, Nimal Bandara said that the Israeli Foreign Ministry had praised the Government of Sri Lanka.
-
-Israel has said that the Government of Sri Lanka appreciates the profit and critical measures to protect the Israeli nationals targeting the Israeli nationals in the area of ​​Aruugambay.
-
-The Head of the Israeli Foreign Ministry, Avival Estra, who has met Israeli Ambassador to Israeli Ambassador, has commended the Government of Sri Lanka when he met Nimal Bandara.
-
-The two countries also focus on enhancing bilateral relations between the two countries.
-
-◼️
-
-[Data](articles/397a9cf6.json)
-
-[Extended Data](ext_articles/397a9cf6.ext.json)
-
----
-
-### Israeli nationals attack in the Netherlands
-
-*2024-11-08 17:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203047) · `si`
-
-Israeli citizens clash in Amsterdam over football match. Government sends planes to evacuate. Video shows attacks on Israelis. Some assailants beaten by anti-Israel groups and Maccabi Tel Aviv supporters.
-
-🟩
-
-Israeli nationals attacked a group of Israelites to watch a football match in the Netherlands.
-
-The international media reported that the Israeli government sent two aircraft to bring the Israeli people back.
-
-The video social media is surfing how the Israeli nationals attack Israeli in the streets of Amsterdam in the streets of Amsterdam.
-
-Some attackers had been assaulted by the anti-Israel's anti-Israel.
-
-They were also assaulted by the MACCABI soccer group, if MacCabi Tel AVIV.
-
-◼️
-
-[Data](articles/9c32d8d4.json)
-
-[Extended Data](ext_articles/9c32d8d4.ext.json)
-
----
-
-### Drugs are not at risk of Vesia
-
-*2024-11-08 17:00:05* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-හල්-වැසියාමේ-අවධානමක්-නෑ/11-412931) · `si`
-
-National Pharmaceutical Regulatory Authority denies drug risks. Chairman Dr. Ananda Wijewickrama states no emergency reserves implemented regarding drugs. Regulatory Authority's Association misled by President's Drug Regulatory Authority claims.
-
-🟩
-
-The National Pharmaceutical Regulatory Authority says that the people 'regulatory Authority's Association (NPF) has been misled by the President's Drug Regulatory Authority.
-
-Chairman of the company, Dr. Ananda Wijewickrama issues a statement saying that no emergency reserves have been made regarding the implementation of drugs.
-
-◼️
-
-[Data](articles/cc59183f.json)
-
-[Extended Data](ext_articles/cc59183f.ext.json)
-
----
-
-### Candidate voted by post
-
-*2024-11-08 16:58:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-மூலம்-வாக்களித்த-வேட்பாளர்/175-346787) · `ta`
-
-TNA candidate A Karunakaran registered postal vote Batticaloa district general election 2024 despite Election Department request to withdraw.
-
-🟩
-
-Batticaloa district candidate A Karunakaran, the Tamil National Alliance (TNA) candidate, registered a postal vote on Friday (08) in the general election to be held on the 14th.
-
-Government official A. Karunakaran had applied for the 2024 general election when applications for postal voting were sought.
-
-He was asked by the Election Department to withdraw from the postal vote, but he did not have the opportunity.
-
-In this context, on the last day of the postal vote, the Batticaloa district candidate of the Sri Lanka Tamil National Party (TNA) A Karunakaran (Friday) registered the postal vote at the Batticaloa Election Office.
-
-◼️
-
-[Data](articles/4f3fef05.json)
-
-[Extended Data](ext_articles/4f3fef05.ext.json)
 
 ---

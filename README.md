@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 18:32:06**
+As of **2024-11-09 18:42:33**
 
 ## Newspaper Stats
 
-*Scraped **53,888** Articles*
+*Scraped **53,889** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,034
 adaderanalk | 6,425
-tamilmirrorlk | 7,519
+tamilmirrorlk | 7,520
 virakesarilk | 8,721
 adaderanasinhalalk | 9,398
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,398
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,888 (100.0%) of 53,888 articles have been extended.
+53,889 (100.0%) of 53,889 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Advise students and employees to give holidays
+
+*2024-11-09 18:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-ஊழியர்களுக்கும்-விடுமுறை-வழங்குமாறு-அறிவுறுத்தல்/175-346831) · `ta`
+
+University Grants Commission advises giving holidays to employees and students for voting in the upcoming general election. Private university staff must allow students to participate in training courses without denying their right to vote.
+
+🟩
+
+The Chairman of the University Grants Commission has been informed that the employees and students will be given holidays to vote in the upcoming general election.
+
+Give holiday to employees and students of private universities and higher education institutions
+
+In addition, private class managers and teachers have been asked to conduct training courses without denial of students' voting rights, as the names of youth voters, who are born 18.05.2006 have been registered in the voter registry.
+
+◼️
+
+[Data](articles/69347519.json)
+
+[Extended Data](ext_articles/69347519.ext.json)
+
+---
 
 ### It is necessary to provide holidays to vote
 
@@ -2191,29 +2213,5 @@ The traffic on the Kandy-Jaffna A9 road was blocked due to watering the city in 
 [Data](articles/8cdb8675.json)
 
 [Extended Data](ext_articles/8cdb8675.ext.json)
-
----
-
-### A superintendent in charge of Kaywat
-
-*2024-11-08 21:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198232) · `ta`
-
-Superintendent arrested for illegal wooden barn construction in Mannar Chilawaturai police division. 1820 wooden pieces seized. Case handed over to Chilawathurai police for further investigation.
-
-🟩
-
-A superintendent in charge of Kaywatte has been arrested on suspicion of 1820 wooden pieces for allegedly conducting a wooden barn in the Mannar Chilawaturai police division.
-
-Police have seized the site following confidential information received by the police that the wooden road was operating in the Kaywatte area without permission in the Kaywatte area in the Mannar Chilawaturai police station.
-
-Under the Mannar Division Senior Superintendent of Police, LAS Chandrapala, under the guidance of District Criminal Investigation Division officials in charge of the Mannar District Criminal Investigation Division, PP Silva, Divisional Criminal Investigation Division66638 Ratnayaka, 83790 Vimurthi 90464 Dissanayake, 313999 Subitharan.
-
-The barn is a large number of matches. About 1820, milk and various timber boards have been found and have been arrested on suspicion of conducting a man in charge of Kaywat.
-
-...
-
-[Data](articles/326aec7d.json)
-
-[Extended Data](ext_articles/326aec7d.ext.json)
 
 ---

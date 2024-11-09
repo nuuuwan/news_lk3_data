@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 15:09:44**
+As of **2024-11-09 15:24:31**
 
 ## Newspaper Stats
 
@@ -1300,6 +1300,22 @@ Kamal Haasan has often  been compared to Hollywood’s Tom Cruise as an action h
 
 ---
 
+### Scenting  the Sweet Smell of Success! How and Why Anura Kumara Dissanayake Anticipated Victory  in  the 2024 Presidential Race.
+
+*2024-11-09 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84997) · `en`
+
+Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART FIVE
+
+The  Presidential election of November 2019 and the Parliamentary elections of August 2020 proved to be  huge disappointments to the Janatha Vimukthi Peramuna(JVP) and its leader Anura Kumara  Dissanauyake(AKD). As is well known, the JVP had in a strategic move,  contested both polls  as part of a new political front under a fresh symbol ,the compass (Malimawa/Thisaikaatti). The JVP formed a broad  political front named  National People’s Front(NPP) called Jathika Jana Balawegaya in Sinhala and Theseeya Makkal Sakthi in Tamil. Nominally the JVP was a first among equals in the NPP but in practice , the JVP was the dominant entity in the NPP and was in control.
+
+...
+
+[Data](articles/b4bfc6af.json)
+
+[Extended Data](ext_articles/b4bfc6af.ext.json)
+
+---
+
 ### JAT posts 67% PAT growth despite Bangladesh crisis
 
 *2024-11-09 01:24:00* · [`islandlk`](http://island.lk/jat-posts-67-pat-growth-despite-bangladesh-crisis/) · `en`
@@ -1359,6 +1375,26 @@ The crossing was reported in Royal Ceramic, which crossed 1.6 million shares to 
 [Data](articles/c1332b2e.json)
 
 [Extended Data](ext_articles/c1332b2e.ext.json)
+
+---
+
+### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
+
+*2024-11-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
+
+“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
+
+Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
+
+The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
+
+Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
+
+...
+
+[Data](articles/61c6dea3.json)
+
+[Extended Data](ext_articles/61c6dea3.ext.json)
 
 ---
 
@@ -2195,45 +2231,5 @@ Meanwhile, the Disaster Management Center (DMC) stated that the landslide situat
 [Data](articles/788a4c04.json)
 
 [Extended Data](ext_articles/788a4c04.ext.json)
-
----
-
-### Prime Minister visits Sri Sivasupramanya Swamy Temple
-
-*2024-11-08 18:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198224) · `ta`
-
-Prime Minister Dr. Harini Amarasauriya visited Sri Sivasupramanya Swamy Temple in Wattala. She took alathi from temple administrators and received Mangala lamp. Devotees attended the event.
-
-🟩
-
-Prime Minister Dr. Harini Amarasauriya, who visited the Sri Sivasupramanya Swamy Temple in Wattala on the day of the day, has taken the temple administrators alathi and gave the temple administrators the temple administrators.. The Mangala lamp was handed over to the Prime Minister in memory of the temple visit.. Devotees also attended the event.
-
-◼️
-
-[Data](articles/727dc009.json)
-
-[Extended Data](ext_articles/727dc009.ext.json)
-
----
-
-### Western revenue license shops on Thursday and 14
-
-*2024-11-08 18:38:02* · [`adalk`](https://www.ada.lk/breaking_news/13-දා--හා-14-දා-බස්නාහිර-ආදායම්-බලපත්‍ර-කවුලු-වැසෙයි/11-412932) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Western Province revenue license offices to close on November 14. The announcement was made by the Western Provincial Council."
-
-🟩
-
-The Western Provincial Council announced that the revenue license of the Western Province will be closed on November 14 and 14.
-
-◼️
-
-[Data](articles/d94a096a.json)
-
-[Extended Data](ext_articles/d94a096a.ext.json)
 
 ---

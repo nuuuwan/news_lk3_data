@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 19:58:25**
+As of **2024-11-09 20:10:40**
 
 ## Newspaper Stats
 
-*Scraped **53,902** Articles*
+*Scraped **53,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 5,034
 adaderanalk | 6,427
 tamilmirrorlk | 7,523
 virakesarilk | 8,724
-adaderanasinhalalk | 9,402
+adaderanasinhalalk | 9,403
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,902 (100.0%) of 53,902 articles have been extended.
+53,902 (100.0%) of 53,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### ඕනෑම අභියෝගයකදී ආණ්ඩුව භාර ගැනීමට සූදානම් - දිලිත්
+
+*2024-11-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203083) · `si`
+
+එඩිතර විපක්ෂයේ බලය ඉල්ලුවද ඕනෑම අභියෝගාත්මක අවස්ථාවකදි සර්වජන බලය ආණ්ඩුව භාරගැනීමට සූදානම් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+...
+
+[Data](articles/fbbc00f2.json)
+
+---
 
 ### Sri Lankans engaged in online racket - Rs.30 million has been cheated
 
@@ -2237,23 +2249,5 @@ Honoured as Most Trending Herbal Beauty Product at Entrepreneurial Excellence Aw
 [Data](articles/f4784afa.json)
 
 [Extended Data](ext_articles/f4784afa.ext.json)
-
----
-
-### Agora’24: An exciting blend of Greek mythology and traditional Sri Lankan culture
-
-*2024-11-09 00:11:12* · [`dailyftlk`](https://www.ft.lk/business/Agora-24-An-exciting-blend-of-Greek-mythology-and-traditional-Sri-Lankan-culture/34-769035) · `en`
-
-Agora’24, the annual talent show organised by the first-year undergraduates of the University of Kelaniya’s Department of Finance (DFIN), will be happening for the third consecutive time on 9 November.
-
-Held at the prestigious Sri Dharmaloka Hall, Agora’24 will be an evening of captivating performances, including traditional dances, 90s singing, baila, and drama, showcasing the diverse talents of the DFIN freshmen. The event is a project by the first-year batch as part of a course module for their skills development. Each act has been meticulously shaped by the talented freshmen, who have put much effort into making their performances special.
-
-Agora’24 is a place where talent meets adventure, showcasing the creativity, teamwork, and talent of the freshmen of DFIN. This year’s theme, ‘Experience the Odyssey of Flavour’ is an exciting blend of Greek mythology and traditional Sri Lankan fantasy and culture.
-
-...
-
-[Data](articles/9ac167ec.json)
-
-[Extended Data](ext_articles/9ac167ec.ext.json)
 
 ---

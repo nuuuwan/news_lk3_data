@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 22:39:56**
+As of **2024-11-09 22:57:59**
 
 ## Newspaper Stats
 
-*Scraped **53,911** Articles*
+*Scraped **53,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 5,035
 adaderanalk | 6,429
 tamilmirrorlk | 7,526
 virakesarilk | 8,724
-adaderanasinhalalk | 9,405
+adaderanasinhalalk | 9,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,911 (100.0%) of 53,911 articles have been extended.
+53,912 (100.0%) of 53,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Superbid from Sri Lanka
+
+*2024-11-09 22:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203086) · `si`
+
+Sri Lanka wins cricket match against New Zealand. Chasing 136, Sri Lanka reaches 140/6 in 19 overs. Kusal Mendis scores 20*. Nuwan Thushara takes 3/20. Sri Lanka leads series 1-0.
+
+🟩
+
+Sri Lanka won the first 20 and 20 wickets in 4 wickets cricket match between the Sri Lankan team and the Sri Lankan team.
+
+The New Zealand leader won the toss and elected to the toss and elected at the Rangiri Dambulla Stadium.
+
+But the batsmen were not able to fulfill the best of the New Zealand leader's decision.
+
+Sri Lanka won the first wicket 8 runs in the 96 runs.
+
+The 9th wicket for New Zealand has scored 39 runs to build a 39-run relationship with New Zealand to reach a dignified marks.
+
+This is the highest number of marks for New Zealand today.
+
+Accordingly, New Zealand scored 135 runs in 19 overs.
+
+Michael Breaswell scored 27 points while Zack Forks were 27 runs.
+
+Duti Welella's bowling took 3 wickets for 20 runs while Nuwan Thushara and Victims were destroyed among Nuwan Thusaranga and Matha Pathirana.
+
+Chasing a target of 136 runs, Sri Lanka won the winning 140 runs for the loss of 6 wickets at the end of 19 overs.
+
+The leader of Charith was unbeaten on behalf of Sri Lankan innings 35.
+
+...
+
+[Data](articles/f97cbffa.json)
+
+[Extended Data](ext_articles/f97cbffa.ext.json)
+
+---
 
 ### Phase 3 of the Central Expressway is inspected to Vijitha's observation
 
@@ -2275,23 +2313,5 @@ The festival, celebrating its 15th anniversary, will feature a series of high-pr
 [Data](articles/f5f07e19.json)
 
 [Extended Data](ext_articles/f5f07e19.ext.json)
-
----
-
-### Optimism over corporate quarterly results exerts positive impact on bourse
-
-*2024-11-09 01:19:00* · [`islandlk`](http://island.lk/optimism-over-corporate-quarterly-results-exerts-positive-impact-on-bourse/) · `en`
-
-Stock market behaviour yesterday was somewhat positive yet volatile due to the forthcoming general election. But investors are optimistic that corporate quarterly results that are expected soon would be satisfactory, market analysts said.
-
-Amid those developments both indices moved slightly upwards. The All Share Price Index went up by 74 points, while the S and P SL20 too rose by 2.6 points. Turnover stood at Rs 2.04 billion with one crossing.
-
-The crossing was reported in Royal Ceramic, which crossed 1.6 million shares to the tune of Rs 52 million; it’s shares traded at Rs 32.
-
-...
-
-[Data](articles/c1332b2e.json)
-
-[Extended Data](ext_articles/c1332b2e.ext.json)
 
 ---

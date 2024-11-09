@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 23:40:25**
+As of **2024-11-09 23:59:50**
 
 ## Newspaper Stats
 
-*Scraped **53,913** Articles*
+*Scraped **53,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 421
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,217
-economynextcom | 3,270
+economynextcom | 3,272
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,429
 tamilmirrorlk | 7,527
-virakesarilk | 8,724
+virakesarilk | 8,726
 adaderanasinhalalk | 9,406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,913 (100.0%) of 53,913 articles have been extended.
+53,913 (100.0%) of 53,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -262,6 +262,26 @@ The Sri Lankan team owns 136 runs in the match.
 
 ---
 
+### US Justice Dept says Iranian contract killer behind planned Israeli attack in Sri Lanka
+
+*2024-11-09 20:35:00* · [`economynextcom`](https://economynext.com/us-justice-dept-says-iranian-contract-killer-behind-planned-israeli-attack-in-sri-lanka-186723/) · `en`
+
+ECONOMYNEXT – The United States’ Justice Department has said an Iranian named Farhad Shakeri who was hired to murder President-elect Donald Trump was tasked with targeting Israeli tourists in Sri Lanka.
+
+There was no immediate response from Iran on the allegation against its national who the US Justice Department said is residing in Tehran.
+
+The US Justice Department in a statement said the Islamic Revolutionary Guard Corps (IGRC) — a designated foreign terrorist organization — has been conspiring with criminals and hitmen to target and gun down Americans on U.S. soil.
+
+“…according to statements made by Shakeri in recorded interviews with law enforcement agents, the IRGC has also tasked Shakeri with carrying out other assassinations against U.S. and Israeli citizens located in the United States,” it said.
+
+“In particular, Shakeri has informed law enforcement that he was tasked on Oct. 7, 2024, with providing a plan to kill President-elect Donald J. Trump.”
+
+...
+
+[Data](articles/5a7ba237.json)
+
+---
+
 ### Dilith is ready to take over any challenge - Dilith
 
 *2024-11-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203083) · `si`
@@ -279,6 +299,42 @@ Dilith Jayaweera, the Leader of the Unwagered power is ready to take over the NM
 [Data](articles/fbbc00f2.json)
 
 [Extended Data](ext_articles/fbbc00f2.ext.json)
+
+---
+
+### சசிகுமார் நடிக்கும் 'ஃப்ரீடம் ஓகஸ்ட் 14' படத்தின் புதிய பாடல் வெளியீடு
+
+*2024-11-09 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198268) · `ta`
+
+'அயோத்தி', 'கருடன்', 'நந்தன்' என தொடர்ந்து வெற்றி படங்களை அளித்து வரும் நடிகர் சசிகுமார் கதையின் நாயகனாக நடித்திருக்கும் 'ஃப்ரீடம் ஓகஸ்ட் 14 'எனும் திரைப்படத்தில் இடம் பெற்ற 'ஆகாயம் அம்புட்டையும்' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+இயக்குநர் சத்ய சிவா இயக்கத்தில் உருவாகி வரும் 'ஃப்ரீடம் ஓகஸ்ட் 14' எனும் திரைப்படத்தில் சசிகுமார், லிஜா மோள் ஜோஸ், மாளவிகா அவினாஷ், போஸ் வெங்கட் ,ரமேஷ் கண்ணா, சுதேவ் நாயர்,  'பொய்ஸ்' மணிகண்டன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+தமிழகத்திற்கு அடைக்கலமாக வருகை தரும் ஈழ ஏதிலிகளின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை விஜய கணபதி பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பாண்டியன் பரசுராமன் தயாரித்திருக்கிறார்.
+
+இப்படத்தின் ஃபர்ஸ்ட் லுக், டீசர் ஆகியவை வெளியாகி பெரும் வரவேற்பை பெற்றிருக்கும் நிலையில்.. இந்தத் திரைப்படத்தில் இடம்பெற்ற 'ஆகாயம் அம்புட்டையும் அள்ளிக்குதே மனசுதான்...' என தொடங்கும் பாடலும் , பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/e916784a.json)
+
+---
+
+### ஆர். ஜே. பாலாஜி நடிக்கும் 'சொர்க்கவாசல்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-11-09 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198274) · `ta`
+
+இயக்குநரும், நடிகருமான ஆர். ஜே. பாலாஜி கதையின் நாயகனாக உணர்வுபூர்வமான கதாபாத்திரத்தில் நடித்திருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக பிரத்யேக காணொளியுடன் அறிவிக்கப்பட்டிருக்கிறது.
+
+அறிமுக இயக்குநர் சித்தார்த் விஸ்வநாத் இயக்கத்தில் உருவாகி இருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தில் ஆர். ஜே. பாலாஜி, கருணாஸ், செல்வராகவன், நட்டி என்கிற நட்ராஜ், பாலாஜி சக்திவேல், சானியா ஐயப்பன், ஷஃரப் உதீன், ஹக்கீம் ஷா, மௌரிஷ் தாஸ்,  ரவி ராகவேந்திரா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+பிரின்ஸ் ஆண்டர்சன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கிறிஸ்டோ சேவியர் இசையமைத்திருக்கிறார். சிறைகைதிகளின் வாழ்வியலை மையப்படுத்திய இந்தத் திரைப்படத்தை ஸ்வைப் ரைட் ஸ்டுடியோஸ் , திங்க் ஸ்டுடியோஸ், எஸ் என் எஸ் மூவி புரொடக்‌ஷன் எல் எல்பி ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+இந்தத் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பு பெற்ற நிலையில் இப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+...
+
+[Data](articles/3bd0aa5d.json)
 
 ---
 
@@ -463,6 +519,26 @@ Sri Lanka and New Zealand will be held today (09) at Dambulla today (09).
 [Data](articles/2e5d96d0.json)
 
 [Extended Data](ext_articles/2e5d96d0.ext.json)
+
+---
+
+### Sri Lanka consumer good firms in aggressive price cuts amid appreciating rupee: Hemas
+
+*2024-11-09 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-good-firms-in-aggressive-price-cuts-amid-appreciating-rupee-hemas-186707/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hemas Holdings which has interests in personal care, stationery and pharmaceuticals said industry players were cutting prices as a strong rupee reduced costs at a time when consumers were looking for low prices.
+
+“During the quarter, the strengthening of the domestic currency and declining global commodity prices have led to aggressive pricing and promotion strategies among industry players, intensifying competition in key categories,” the group told shareholders in its September quarter financial review.
+
+“A strong focus on value-for-money (VFM) options continues, reflecting the current constraints on purchasing power.”
+
+In education sector there was strong competition. Hemas said it cut prices while maintaining quality.
+
+“Despite severe competition in the market, the company has successfully maintained its leading position by adapting to evolving consumer preferences for high quality products at competitive pricing,” the group said.
+
+...
+
+[Data](articles/36dbd034.json)
 
 ---
 
@@ -2251,67 +2327,5 @@ Kamal Haasan has often  been compared to Hollywood’s Tom Cruise as an action h
 [Data](articles/7c38c490.json)
 
 [Extended Data](ext_articles/7c38c490.ext.json)
-
----
-
-### “ Parliament must be inclusive and representative of all ethnicities, caste and gender. It must also be a space where workers have representatives to speak for them. I am a woman, a Tamil and a Trade Unionist. The people and the politics we represent must have a space in Parliament.”- An Interview with Swasthika Arulingam
-
-*2024-11-09 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85028) · `en`
-
-Passed out as a lawyer from the Colombo Law College and having two Master-LLM from the University of Colombo and a LLM and Development as a Chevening Scholar at School of Oriental and African Studies, University of London, young activist Swastika Arulingam was a prominent figure in the Aragalaya (Protest) which toppled the Gotabaya Rajapaksa government.
-
-She has been a fearless voice and as a legal representative played her part to protect those who were beaten up by political goons of Rajapaksa government and those taken into custody and incarcerated on various allegations.
-
-Representing the minority Tamils and female community, Swasthika has been a symbol of courage and justice for many young men and women. Displaced from the North during the height of war and settled in Colombo, Swasthika studied at Ladies’ College, Colombo and was into activism as soon as she passed out as an attorney-at-law.
-
-...
-
-[Data](articles/64e4e63b.json)
-
-[Extended Data](ext_articles/64e4e63b.ext.json)
-
----
-
-### Scenting  the Sweet Smell of Success! How and Why Anura Kumara Dissanayake Anticipated Victory  in  the 2024 Presidential Race.
-
-*2024-11-09 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84997) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART FIVE
-
-The  Presidential election of November 2019 and the Parliamentary elections of August 2020 proved to be  huge disappointments to the Janatha Vimukthi Peramuna(JVP) and its leader Anura Kumara  Dissanauyake(AKD). As is well known, the JVP had in a strategic move,  contested both polls  as part of a new political front under a fresh symbol ,the compass (Malimawa/Thisaikaatti). The JVP formed a broad  political front named  National People’s Front(NPP) called Jathika Jana Balawegaya in Sinhala and Theseeya Makkal Sakthi in Tamil. Nominally the JVP was a first among equals in the NPP but in practice , the JVP was the dominant entity in the NPP and was in control.
-
-...
-
-[Data](articles/b4bfc6af.json)
-
-[Extended Data](ext_articles/b4bfc6af.ext.json)
-
----
-
-### JAT posts 67% PAT growth despite Bangladesh crisis
-
-*2024-11-09 01:24:00* · [`islandlk`](http://island.lk/jat-posts-67-pat-growth-despite-bangladesh-crisis/) · `en`
-
-JAT Holdings PLC, the leader in wood coatings and brushes in Sri Lanka, has demonstrated resilience in Q2 and the 1st Half of FY 2024/25, continuing to deliver exceptional value to stakeholders. Accordingly, Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30th September 2024, reaching Rs. 512 million, amid challenges in Bangladesh and Maldives. Meanwhile, Revenue from the Group’s Sri Lanka operations grew by 8% to Rs. 3,287 million during the period. Gross profit margin increased by 2% reflecting the positive impact of JAT’s Acrylic Binder and Alkyd Resin manufacturing plants, which have resulted in significant cost efficiencies. Selling and Distribution expenses too declined by 10% as a result of JAT’s prudent approach to cost management and a strategic increase in marketing spend in the previous year, which are now yielding returns.
-
-...
-
-[Data](articles/87918d62.json)
-
-[Extended Data](ext_articles/87918d62.ext.json)
-
----
-
-### Sri Lanka’s Best Brand at the Brand Leadership Awards 2024
-
-*2024-11-09 01:24:00* · [`islandlk`](http://island.lk/sri-lankas-best-brand-at-the-brand-leadership-awards-2024/) · `en`
-
-AIA Insurance has once again fortified its position as a leading brand in Sri Lanka’s life insurance landscape having been certified as Sri Lanka’s Best Brand at the Brand Leadership Awards 2024. The prestigious award conferred by CMO Asia underscores AIA Sri Lanka’s unwavering commitment to building a purpose driven brand through innovation, customer service and its enduring promise to help people live Healthier, Longer, Better Lives.
-
-...
-
-[Data](articles/b6cb4e41.json)
-
-[Extended Data](ext_articles/b6cb4e41.ext.json)
 
 ---

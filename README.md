@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 07:25:16**
+As of **2024-11-09 07:58:37**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 9,379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,810 (100.0%) of 53,815 articles have been extended.
+53,814 (100.0%) of 53,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### ප්‍රදේශ කිහිපයකට අද පස්වරුවේ තද වැසි
+### Heavy rains in several areas
 
 *2024-11-09 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203056) · `si`
 
-අද (9) ප.ව. 1න් පමණ පසු මධ්‍යම, ඌව සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains expected tonight: Central, Uva, Sabaragamuwa, Matara districts; showers possible North, East; thunderstorms forecasted Western, Central provinces; potential flooding in Galle, Matara districts. Public advised to prepare for strong winds and lightning.
 
-එමෙන්ම උතුරු සහ නැගෙනහිර පළාත්වල උදැසන කාලයේදී වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+🟩
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+Today (9) pm. Showers or thundershowers will occur at several places in the Central, Uva and Sabaragamuwa and Matara districts after 1.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද ජනතාවගෙන් ඉල්ලා සිටියි.
+Showers may occur in the morning of the North and East.
+
+In some places in the Western, Sabaragamuwa and Central provinces and in some places can be a murder in the Galle and Matara districts.
+
+The public is also requested to take necessary steps to reduce the damages caused by temporary winds and lightning accidents.
 
 ◼️
 
 [Data](articles/01d696e2.json)
+
+[Extended Data](ext_articles/01d696e2.ext.json)
 
 ---
 
@@ -323,6 +329,8 @@ Ardent Immigration Inc., a renowned name in migration consultancy has dedicated 
 ...
 
 [Data](articles/9fd1f298.json)
+
+[Extended Data](ext_articles/9fd1f298.ext.json)
 
 ---
 

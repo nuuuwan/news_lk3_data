@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 10:24:34**
+As of **2024-11-09 10:40:23**
 
 ## Newspaper Stats
 
-*Scraped **53,837** Articles*
+*Scraped **53,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,031
-adaderanalk | 6,414
+adaderanalk | 6,415
 tamilmirrorlk | 7,509
-virakesarilk | 8,713
+virakesarilk | 8,714
 adaderanasinhalalk | 9,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,837 (100.0%) of 53,837 articles have been extended.
+53,839 (100.0%) of 53,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Chairman and Vice Chairman appointed for Elpitiya PS
+
+*2024-11-09 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103271/chairman-and-vice-chairman-appointed-for-elpitiya-ps) · `en`
+
+A Gazette Extraordinary has been issued, officially appointing the Chairman and Vice Chairman for the Elpitiya Pradeshiya Sabha, in the Galle District, under Section 66B (1) of the Local Authorities Elections Ordinance.
+
+According to the Gazette notification, Kolamba Thanthreege Nishantha Perera has been appointed as Chairman, and Wagoda Pathirage Sumith Chandana as Vice Chairman.
+
+◼️
+
+[Data](articles/46b5ed0d.json)
+
+[Extended Data](ext_articles/46b5ed0d.ext.json)
+
+---
+
+### The national people have no intention of solving the problem of the Tamil people;The statement of Vijitha Heeram reveals the same - Chandrakumar
+
+*2024-11-09 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198238) · `ta`
+
+Tamil people face obstacles from national powers. Equality Party leader Murugesu Chandrakumar criticizes Vijitha Herath's stance on Samasti. He emphasizes unity among Tamil and Sri Lankan communities. The party supports democratic pluralism in Sri Lanka.
+
+🟩
+
+Neither Vijitha Hera or the national power has the power to say that Samasti cannot be given. We vehemently condemn this. The party. Vijitha Herath must understand that the government and the kingdom are different. Is it possible to rule without a change, saying that we are creating a change?If so, what is the change you are trying to create?The General Secretary of the Equality Party and the United People's Power. Murukesu Chandrakumar, the chief candidate of the electoral district, has questioned.
+
+He was speaking at the election propaganda meeting in Vadamarachchi East.
+
+...
+
+[Data](articles/db66b8a6.json)
+
+[Extended Data](ext_articles/db66b8a6.ext.json)
+
+---
 
 ### Revealed about the people who died in Gaza
 
@@ -2255,61 +2291,5 @@ Addressing a public brief in Athurugiriya, she added that it is due to be done a
 [Data](articles/31926b86.json)
 
 [Extended Data](ext_articles/31926b86.ext.json)
-
----
-
-### "The strongest parliamentary representation is essential for the decisive change in national politics" - MA. Sumanthiran
-
-*2024-11-08 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198193) · `ta`
-
-Strongest parliamentary representation crucial for decisive change in national politics. Tamil National Alliance seeks firm representation to emphasize rights and long-awaited demands. Economic crisis and political shifts impact Tamil representation in Sri Lanka's Parliament.
-
-🟩
-
-The leader of the National People's Power in the presidential election, Anura Kumara Dissanayake, who came to power, has a decisive change in national politics, and that the Tamil politician MA need a firm parliamentary representation to emphasize their rights and the long -awaited demands.. Says Sumanthiran.
-
-President's lawyer and former parliamentarian Sumanthiran is contesting the November 14 parliamentary election as one of the candidates of the Sri Lanka Tamil National Party.
-
-The Tamil National Alliance (TNA), which has been representing the Sri Lankan Tamils ​​for decades in Parliament for decades, has been the leadership party of the TNA since 2001. The 2015 - 2019 Parliament, which had 16 seats in Parliament, had only ten seats in the dissolved parliament (2020-2024).
-
-The 2022 economic crisis, which led to the people's Morarata movement, who chased away President Gotabhaya Rajapakse from office, has greatly converted Sri Lanka's political and electoral landscape.
-
-...
-
-[Data](articles/dd5c3992.json)
-
-[Extended Data](ext_articles/dd5c3992.ext.json)
-
----
-
-### Anushka in the appearance of intimidation
-
-*2024-11-08 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198194) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Anushka stars in "Ghatti" (English: "Victim-Criminal-Legend"). She appears intimidating with a bloodied face, surprising fans. Directed by Girish, produced by Rajeev Reddy and Sai Babu. Music by Nagavalli Vidyasagar.
-
-🟩
-
-Anushka, the leading star actress of the South Indian film industry, has been released as the first appearance of the film titled 'Ghatti' in English.
-
-Anushka has played the lead role in the film 'Ghatti' directed by director Girish, who directed the film 'Vaanam' starring Silambarasan -Anushka.
-
-Ramya Krishnan, Jegapati Babu, Vikram Prabhu, Ravindra Vijay, John Vijay, VDV Ganesh. Nagavalli Vidyasagar has composed the film, which has been recorded by Manoj Reddy.
-
-The film was co -produced by producers Rajeev Reddy and Sai Babu on behalf of the First Frame Entertainment Company.. The film is provided by UV Creations.
-
-On the eve of actress Anushka's birthday, the film crew has released the appearance of her character in the film.
-
-Her appearance with a blooded face has been designed to be different from fans. Also, with the title of the film, Viktim - Criminal - Legend - is also in the direction of the film.
-
-◼️
-
-[Data](articles/68698560.json)
-
-[Extended Data](ext_articles/68698560.ext.json)
 
 ---

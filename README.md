@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 16:56:36**
+As of **2024-11-09 17:24:33**
 
 ## Newspaper Stats
 
@@ -26,57 +26,79 @@ adaderanasinhalalk | 9,395
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,879 (100.0%) of 53,881 articles have been extended.
+53,881 (100.0%) of 53,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### ට්‍රම්ප් ඝාතන සැකකරු ආරුගම්බේ සිද්ධියටත් සම්බන්ධ බවට තොරතුරු
+### Information about the traum murder suspect involved in the Arugambal incident
 
 *2024-11-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203075) · `si`
 
-අමෙරිකාවේ තේරී පත්වූ නව ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් ඝාතනය කිරීමට සැලසුම් කළ ෆර්හාද් ශකේරි නම් පුද්ගලයා ශ්‍රී ලංකාවේදී ඊශ්‍රායල් ජාතිකයින් ඝාතනය කිරීමට ද සැලසුම් කර ඇති බව අමෙරිකානු අධිකරණ දෙපාර්තමේන්තුව අද (09) නිවේදනය කළේය.
+Here's a 200-character summary:
 
-ඒ, කාර්ලිස්ල් රිවේරා නමැති 49 හැවිරිදි පුද්ගලයෙකු නිව්යොර්ක් නුවර බෘෘක්ලින් හිදී සහ ජොනත් ලෝඩ්හෝල්ට නම් 36 හැවිරිදි පුද්ගලයෙකු නිව්යෝර්ක් හි ස්ටැටන් දූපතේදී අත්අඩංගුවට ගැනීමත් සමඟය.
 
-අත්අඩංගුවට ගත් මෙම පුද්ගලයින් දෙදෙනා විසින් මෙම තොරතුරු අනාවරණ කර ඇති බව එම නිවේදනයේ දැක්වෙන බව සඳහන් ය.
 
-කෙසේ වෙතත්, ජනපති ට්‍රම්ප් සහ ශ්‍රී ලංකාවේ ඊශ්‍රායල් ජාතිකයින්ට ප්‍රහාර එල්ල කිරීමට සැලසුම් කර ඇති 51 හැවිරිදි ඉරාන ජාතික ෆර්හාද් ශකේරි නමැති පුද්ගලයා මෙතෙක් අත්අඩංගුවට ගෙන නොමැති අතර අමෙරිකාව විශ්වාසය පළකරන්නේ ඔහු මේ වන විට ඉරානයේ රැඳී සිටින බවය.
+Farhad Shakey, Carlissel Rivera, and Farhad Shakerai suspected in plot against Trump and Israelis. US DoJ alleges Iranian involvement. Shakey deported in 2008. Zechariyan arrested in 2019. Iran denies claims.
 
-කෙසේ වෙතත් ඔවුන් තිදෙනාටම එරෙහිව මේ වන විට එරට අධිකරණය හමුවේ අපරාධ චෝදනා ගොනුකර තිබේ.
+🟩
+
+The US Judicial Department announced that the man named Farhad Shakey, who was planning to assassinate the new President Donald Trump, has also planned to kill Israeli in Sri Lanka.
+
+A 49-year-old man named Carlissel Rivera is a 36 year old man in Brooklylin, New York, at Statton Island.
+
+The two suspects have revealed this information.
+
+However, the 51-year-old Iranian National Farhad Shakerai, a 51 year old Iranian National Indians, is still arresting the Israelites in Sri Lanka and the US.
+
+However, the three of them have filed criminal charges in the court.
+
+The US Department of Justice stated in a press release, said that the Trump's election was defeated and was planned to shoot and kill him after the election.
+
+The announcement issued by the US Judicial Department states that the Iranian rewiscourse has promised to target two million US dollars at $ 5 million per person.
+
+The US Department of Justice has also been entrusted with the target of Israeli nationals who visit Sri Lanka.
 
 ...
 
 [Data](articles/eca21c85.json)
 
+[Extended Data](ext_articles/eca21c85.ext.json)
+
 ---
 
-### මෙරට සංචාරක ඉපැයීම් ඉහළට
+### Tourist earnings up
 
 *2024-11-09 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203074) · `si`
 
-ගෙවුණු වසරට සාපේක්ෂව මේ වසරේදී මෙරටට ලැබුණු විදෙස් ප්‍රේෂණ සහ සංචාරක කර්මාන්තයේ ඉපැයීම් ප්‍රමාණය ඉහළ ගොස් තිබේ.
+Sri Lanka's tourism and remittance earnings surge: Tourist arrivals up 59%, earning $2.53 billion in 10 months; foreign remittances reach $5.43 billion, increasing 11.7%.
 
-සංචාරක කර්මාන්තය හරහා පසුගිය ඔක්තෝබර් මාසයේ ශ්‍රී ලංකාව උපයා ඇති මුදල ඩොලර් මිලියන 185.6කි.
+🟩
 
-ඒ අනුව මේ වසරේ ජනවාරි සිට ඔක්තෝබර් දක්වා වූ මාස 10 තුළ මුළු සංචාරක කර්මාන්තයෙන් උපයන ලද මුදල ඩොලර් මිලියන 2533.7ක් වෙයි.
+The number of earnings of foreign remittances and tourism industry has increased this year compared to the past year.
 
-මෙය 2023 වසරේ මුල් මාස 10 යේ සංචාරක ඉපැයීම් ප්‍රමාණය වන මිලියන 1593.4 සමග සසදන විට 59%ක වර්ධනයකි.
+Sri Lanka earned US $ 185.6 million over the tourism industry.
 
-මෙවැනි පසුබිමක 2024 නොවැම්බර් මස මුල් දින 05 තුළදී විදෙස් සංචාරකයින් 30,620 ක් මෙරටට පැමිණ ඇති බව ශ්‍රී ලංකා සංචාරක සංවර්ධන අධිකාරිය පවසයි.
+Accordingly, the total tourism industry earned $ 2533.7 million for the 10 months of this year.
 
-මේ සමඟම 2024 වසරේ මේ දක්වා ශ්‍රී ලංකාවට පැමිණ ඇති සමස්ත සංචාරකයින් ප්‍රමාණය 1,651,335ක් දක්වා ඉහළ ගොස් තිබේ.
+This is an increase of 59% when traveling earnings of 2023 to 1593.4 million years of tourism earnings.
 
-නොවැම්බර් මාසයේදී පළමු දින පහ තුළ වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇත්තේ, ඉන්දියාවෙන් වන අතර එම සංඛ්‍යාව 7,785කි.
+Sri Lanka Tourism Development Authority (SLTDA) says that 30,620 foreign tourists have arrived in Sri Lanka in the first five of November 2024.
 
-දෙවැනියට වැඩිම සංචාරකයින් පිරිසක් රුසියාවෙන් පැමිණ ඇති අතර එය 4,488කි.
+The total number of tourists visiting Sri Lanka in 2024 has increased to 1,651,335.
 
-ඉන් පසු වැඩිම සංචාරකයින් පිරිසක් ශ්‍රී ලංකාවට පැමිණ ඇත්තේ, ජර්මනිය, බ්‍රිතාන්‍ය, ඔස්ට්‍රේලියාව සහ චීනය යන රටවලිනි.
+The highest number of tourist arrivals in the first five days of November arrived from India and that was 7,785.
+
+The second most tourists came from Russia, and it was 4,488.
+
+Later, the largest number of tourists came to Sri Lanka from Germany, British, Australia and China.
 
 ...
 
 [Data](articles/6bfb0ba5.json)
+
+[Extended Data](ext_articles/6bfb0ba5.ext.json)
 
 ---
 

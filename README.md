@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 12:13:55**
+As of **2024-11-09 12:25:06**
 
 ## Newspaper Stats
 
-*Scraped **53,847** Articles*
+*Scraped **53,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,72 @@ dbsjeyarajcom | 419
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,217
-economynextcom | 3,268
+economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,031
 adaderanalk | 6,418
-tamilmirrorlk | 7,509
+tamilmirrorlk | 7,511
 virakesarilk | 8,715
-adaderanasinhalalk | 9,386
+adaderanasinhalalk | 9,387
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,846 (100.0%) of 53,847 articles have been extended.
+53,847 (100.0%) of 53,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### மற்றுமொரு சொகுசு வாகனம் மீட்பு
+
+*2024-11-09 12:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வாகனம்-மீட்பு/175-346822) · `ta`
+
+நீர்கொழும்பு, தெமங்சந்தி பிரதேசத்தில் இலக்கத் தகடு இல்லாத சொகுசு வாகனம் ஒன்று கைப்பற்றப்பட்டுள்ளதாக நீர்கொழும்பு பொலிஸ் குற்றப் புலனாய்வு பிரிவினர் தெரிவித்துள்ளனர்.
+
+குறித்த வாகனத்தின் உரிமையாளர் வெளிநாட்டில் உள்ள தனது சகோதரன் ஊடாக இந்த சொகுசு வாகனம் தனக்கு அனுப்பி வைக்கப்பட்டதாக பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+இந்த சொகுசு வாகனம் பிரபல வர்த்தகர் ஒருவரினால் வழங்கப்பட்டுள்ளதாகவும் ஆரம்பகட்ட விசாரணைகளில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/cfdad325.json)
+
+---
+
+### இரவு வேளையில் இடியுடன் கூடிய மழைக்கு வாய்ப்பு
+
+*2024-11-09 12:13:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவு-வேளையில்-இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-346821) · `ta`
+
+நாட்டின் பெரும்பாலான பகுதிகளில் பிற்பகல் வேளையில் இடியுடன் கூடிய மழை பெய்வதற்கு   சாதகமான சூழல் இருப்பதால், சில பகுதிகளுக்கு சிவப்பு எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இடியுடன் கூடிய மழையின் போது மின்னலினால் ஏற்படக்கூடிய பாதிப்புகளை குறைத்துக்கொள்ள போதிய முன்னெச்சரிக்கை நடவடிக்கைகளை எடுத்துக் கொள்ளுமாறு பொதுமக்கள் கேட்டுக் கொள்ளப்படுகிறார்கள்.
+
+தீவின் பெரும்பாலான பகுதிகளில் இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும். R
+
+◼️
+
+[Data](articles/af6872a7.json)
+
+---
+
+### පාකිස්තානයේ දුම්රිය ස්ථානයක බෝම්බ පිපිරීමක්
+
+*2024-11-09 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203065) · `si`
+
+නිරිතදිග පාකිස්තානයේ ක්වෙටා හි දුම්රිය ස්ථානයක අද (9) උදෑසන බෝම්බ පිපිරීමක් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
+
+මෙම පිපිරීමෙන් අවම වශයෙන් පුද්ගලයින් 24 දෙනෙකු මියගොස් තවත් 40කට වැඩි පිරිසක් තුවාල ලබා ඇති බව එරට ආරක්ෂක අංශ පවසයි.
+
+පාකිස්තාන බෙදුම්වාදී වාර්ගික සටන්කාමී කණ්ඩායමක් විසින් මෙම ප්‍රහාරය එල්ල කරන්නට ඇති බවට පාකිස්තාන ආරක්ෂක මේ වනවිට කරුණු අනාවරණය කරගනිමින් සිටියි.
+
+◼️
+
+[Data](articles/627295e3.json)
+
+---
 
 ### At least 24 killed in Pakistan train station bomb blast, police say
 
@@ -53,6 +101,32 @@ Senior superintendent of police operations, Muhammad Baloch, said the blast seem
 ...
 
 [Data](articles/474fdc6f.json)
+
+[Extended Data](ext_articles/474fdc6f.ext.json)
+
+---
+
+### Sri Lanka banks, Thomas Cook pay Rs2.3bn to airport for foreign exchange counters
+
+*2024-11-09 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-thomas-cook-pay-rs2-3bn-to-airport-for-foreign-exchange-counters-186656/) · `en`
+
+ECONOMYNEXT – Five foreign exchange counters at the departure terminal at Sri Lanka’s Bandaranaike International Airport (BIA) at Katunayaka are set to bring in over 2.3 billion rupees plus taxes.
+
+Bank of Ceylon, Sampath Bank, Commercial Bank, Hatton National Bank and Thomas Cook Lanka were awarded the contracts after bids were called from the licensed commercial banks, licensed special banks, and foreign exchange businesses approved by the Central Bank of Sri Lanka, to operate 5 currency counters at the BIA departure terminal.
+
+According to a cabinet statement, the breakdown of the counter allocation is as follows:
+
+– Counter No 25 to Bank of Ceylon for an amount of Rs. 798.028 million + taxes
+
+– Counter No 02 to Sampath Bank for an amount of Rs. 633.662 million taxes
+
+– Counter No 04 to Commercial Bank for an amount of Rs. 381.364 million+ taxes
+
+– Counter No 10 to Thomas Cook Lanka (Pvt) Ltd for an amount of Rs. 299.064 million + taxes
+
+...
+
+[Data](articles/e4c30e09.json)
 
 ---
 
@@ -2193,93 +2267,5 @@ People will provide the opportunity to buy coconuts in front of the Coconut Deve
 [Data](articles/e4b3d041.json)
 
 [Extended Data](ext_articles/e4b3d041.ext.json)
-
----
-
-### Govt aiming to provide concession to purchase stationery books for school children
-
-*2024-11-08 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103261/govt-aiming-to-provide-concession-to-purchase-stationery-books-for-school-children) · `en`
-
-Prime Minister Dr. Harini Amarasuriya says that the government intends to provide concessions for school children to purchase stationery books, staring from next year.
-
-Attending a public meeting held in Athurugiriya, she further explained that this initiative is to be carried out as per the President’s approval.
-
-She further stated that the support receive by the country from the international community has further strengthened and the government has been able to make some concessions due to the intervention of the President.
-
-The PM said the government was able to increase the pension allowance and increase the allowance given to fishermen. “Not only the short-term allowances, from the budget we are presenting, we will look into a way to strengthen social security, protect pensioners and strengthen the cost of living, especially healthcare and education. The burden on the people should be eased, “ she said.
-
-...
-
-[Data](articles/d7cac3f3.json)
-
-[Extended Data](ext_articles/d7cac3f3.ext.json)
-
----
-
-### Warning on heavy thunder and lightning impact
-
-*2024-11-08 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198205) · `ta`
-
-Heavy thunder and lightning warning: High risk in northern provinces and districts. Temporary power outages possible. Take precautions against lightning-related accidents.
-
-🟩
-
-The Department of Meteorology has issued a report on the impact of heavy lightning.
-
-The report also stated that there is a high likelihood of heavy lightning in the evenings in the North, North Central, North West, Central, Uva, Upper and Sabaragamuwa Provinces and Trincomalee and Ampara districts.
-
-The Department of Meteorology said that the area could be temporarily blowing in the area during thunderstorms.
-
-The Department of Meteorology has urged the people to take necessary steps to reduce accidents caused by lightning.
-
-◼️
-
-[Data](articles/f8771e2f.json)
-
-[Extended Data](ext_articles/f8771e2f.ext.json)
-
----
-
-### Lock for Motor Transport Office
-
-*2024-11-08 16:30:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மோட்டார்-போக்குவரத்து-காரியாலயத்துக்கும்-பூட்டு/175-346784) · `ta`
-
-Motor Transport Office closure: 13th-14th due to polling station use.
-
-🟩
-
-Motor Transport Commissioner General Nishantha Anurutha Weerasinghe said that the main office of the Motor Transport Department in Narahenpitiya will be closed on the 13th and 14th of this month.
-
-It has also been announced that the office is being used as a polling station and these two days will be closed.
-
-It has also been announced that the office will be used as a 6 and 7 polling station in the Colombo East Election constituency.
-
-◼️
-
-[Data](articles/f5ad3b2a.json)
-
-[Extended Data](ext_articles/f5ad3b2a.ext.json)
-
----
-
-### ප්‍රදේශ කිහිපයකට නායයෑම් අනතුරු ඇඟවීම් නිකුත් කෙරේ
-
-*2024-11-08 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203044) · `si`
-
-National Building Research Organization issues pre-landslide warning for several districts including Haldummulla, Passara, Galle, Kegalle, Kurunegala, Ratnapura, and Kuruwita from 4 PM today until 4 PM tomorrow.
-
-🟩
-
-The National Building Research Organization has taken steps to issue a pre-landslide warning to several districts of districts.
-
-එම සංවිධානය නිකුත් කල නිවේදනයේ දැක්වෙන්නේ අද (08) පස්වරු 4.00 සිට හෙට පස්වරු 4.00 දක්වා මෙම අනතුරු ඇඟවීමේ නිවේදනය වලංගු වන බවය.
-
-Accordingly, Haldummulla, Passara and Hali Canal, Galle District, Pathapuragala, Galigamuwa, Kegalle District, Kurunegala District, Kurunegala District in Eheapalagoda, Ratnapura District, Kurunegala DistrictSteps have been taken to issue a warning notification for the districts of Kuruwita, and Ratnapura.
-
-◼️
-
-[Data](articles/0db776e0.json)
-
-[Extended Data](ext_articles/0db776e0.ext.json)
 
 ---

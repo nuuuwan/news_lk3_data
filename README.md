@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 14:24:33**
+As of **2024-11-09 14:40:17**
 
 ## Newspaper Stats
 
-*Scraped **53,860** Articles*
+*Scraped **53,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,81 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,033
 adaderanalk | 6,419
-tamilmirrorlk | 7,515
-virakesarilk | 8,715
+tamilmirrorlk | 7,516
+virakesarilk | 8,721
 adaderanasinhalalk | 9,389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,860 (100.0%) of 53,860 articles have been extended.
+53,867 (100.0%) of 53,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### The person who planned to kill Trump- was responsible for attacking Jews in Sri Lanka- USA
+
+*2024-11-09 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198257) · `ta`
+
+A man planning to assassinate Trump had previously attacked Jews in Sri Lanka before becoming US president, according to US officials. This individual's history of violence against religious minorities raises concerns about his potential threat to public safety and national security.
+
+🟩
+
+The US has said that a man who planned to assassinate Donald Trump has been given the attack on Jews in Sri Lanka before being elected as the US president.
+
+◼️
+
+[Data](articles/9a7965b0.json)
+
+[Extended Data](ext_articles/9a7965b0.ext.json)
+
+---
+
+### Opening of 2 Air Doors of the Polgolla Reservoir
+
+*2024-11-09 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198256) · `ta`
+
+Sri Lanka Mahaweli Authority opens two air doors at Polgolla Reservoir. Each door opens one meter, releasing 140 cubic meters of water per second into Victoria Reservoir.
+
+🟩
+
+The Sri Lanka Mahaweli Authority has said that both air doors have been opened up to one meter each.
+
+The Mahaweli Authority further stated that 140 cubic meters of water is opened to the Victoria reservoir per second from each air door.
+
+◼️
+
+[Data](articles/c379824c.json)
+
+[Extended Data](ext_articles/c379824c.ext.json)
+
+---
+
+### A man arrested in Mannar with Kerala cannabis worth Rs 8 lakh
+
+*2024-11-09 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198255) · `ta`
+
+Man arrested in Mannar with Rs 8 lakh Kerala cannabis. Suspect from Kalpitiya, sold drugs in Mannar Nagar. Handed over to Mannar police for investigation.
+
+🟩
+
+A suspect has been arrested on Friday (08) with a Kerala ganja worth about eight lakhs in Mannar.
+
+A 35 -year -old suspect from Kalpitiya area has been arrested in connection with the Mannar Army Intelligence Unit and officials of the Trincomalee Police Drug Eradication Unit in Mannar.
+
+Police said that the man was arrested for selling Kerala cannabis at the Mannar Nagar area worth about eight lakhs of rupees.
+
+The suspect has been handed over to the Mannar police station for further investigations with Kerala ganja.
+
+◼️
+
+[Data](articles/e1e24201.json)
+
+[Extended Data](ext_articles/e1e24201.ext.json)
+
+---
 
 ### Lots of information about 58 trapped in Wellawatte
 
@@ -59,6 +121,32 @@ Deputy Minister of Police Media Spokesperson DIG Talduwa, speaking to this,
 [Data](articles/f537ba18.json)
 
 [Extended Data](ext_articles/f537ba18.ext.json)
+
+---
+
+### In the Prison
+
+*2024-11-09 13:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைக்குள்-பொடி-லெசி-இன்-அலைபேசி-மீட்பு/175-346826) · `ta`
+
+Prison contraband: Phone, tools found in inmate's cell. Police seize items for investigation.
+
+🟩
+
+The mobile phone and many equipment have been found from the jail complex of Janit Madushanga, known as Powder Lazi, detained in Pussa High Security Prison.
+
+A team of Special Task Force officers has gone to the spot to urgently inspect the cell number 42 of the Special Division of the Powder Lassie.
+
+The Special Task Force said that Powder Lazi was thrown into the back window of the cell phone and subcutaneous instruments in his belongings.
+
+Accordingly, police Special Task Force officers have seized equipment including telephone 1, charger 1, data cable and 01 hand free.
+
+Police Special Task Force said that the equipment banned for further investigations has been handed over to the Pussy Prison authorities.. Those
+
+◼️
+
+[Data](articles/e881f563.json)
+
+[Extended Data](ext_articles/e881f563.ext.json)
 
 ---
 
@@ -132,6 +220,34 @@ Mr. Dilith Jayaweera addressing the Galle district meeting held today (09) at th
 
 ---
 
+### Medical Advisory expert at Kantalai Hospital
+
+*2024-11-09 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198248) · `ta`
+
+Ministry of Health urgently appoints medical consultant due to surgery team shortage. Current consultant on leave without reason, affecting emergency care. Dr. Sivamayuran named interim consultant. Hospital struggles to provide essential services.
+
+🟩
+
+The Ministry of Health has issued an urgent request to the Ministry of Health to immediately appoint a medical consultant.
+
+In this case, the Deputy Director of the Medical Services PN. In a letter sent to the Ministry of Health, the Elderly Request.
+
+The hospital's current surgery medical consultant has been on a sick holiday for two consecutive days without submitting appropriate medical reasons.
+
+This has severely affected the surgery unit in the hospital. The emergency patients have been sent to the District General Hospital in Trincomalee.
+
+In this case, Dr. Sivamayuran has been appointed as the Deputy Institute of Medical Consultant by the Ministry of Health.
+
+Permanent Advisor appointed to the Hospital has not yet been accompanied by a surgery expert. He said that this has created a gap in the functioning of the hospital to provide essential medical services.
+
+◼️
+
+[Data](articles/9e17b70c.json)
+
+[Extended Data](ext_articles/9e17b70c.ext.json)
+
+---
+
 ### The flight to Melbourne canceled
 
 *2024-11-09 13:08:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெல்போர்னுக்கு-செல்லவிருந்த-விமானம்-இரத்து/175-346823) · `ta`
@@ -153,6 +269,60 @@ The remaining passengers have been sent to hotels and they will be sent to Melbo
 [Data](articles/4f888267.json)
 
 [Extended Data](ext_articles/4f888267.ext.json)
+
+---
+
+### Iran's conspiracy to kill Trump - US
+
+*2024-11-09 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/198253) · `ta`
+
+US accuses Iran of plotting to kill Trump before election. DOJ issues arrest warrant for Burhad Saheri. Trump resides in Iran according to US claims.
+
+🟩
+
+The US has accused Donald of trying to assassinate Donald Trump before the US presidential election.
+
+The US Department of Justice has issued a plan to assassinate Trump.
+
+The United States has said that he is residing in Iran, saying that Burhad Saheri has not yet been arrested.
+
+◼️
+
+[Data](articles/b7497c43.json)
+
+[Extended Data](ext_articles/b7497c43.ext.json)
+
+---
+
+### 2 sets for 12 percent Muslims?Think of Tamils ​​- K.Sabasan request
+
+*2024-11-09 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198251) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil VP LTTE criticizes Muslim-Sinhalese representation in Vanni elections. 80% Tamils, 8-12% Muslims, 8% Sinhalese. Urges careful voting, cites lack of inter-ethnic support. Tamil women campaign alone, party struggles to attract members.
+
+🟩
+
+8-12 percent Muslim people in Vanni get 2 parliamentary seats. The 80 percent of Tamils ​​are being deceived for a long time, said the Vice President of the Liberation Tigers of Tamil Eelam (LTTE).
+
+He was speaking to the media today (09) in Vavuniya.
+
+Tamils ​​in Vanni today have to face a massive problem. No politicians who say that we are working for the people about it.
+
+There are 8-12 percent Muslims and 8 percent Sinhalese in the Vanni-election district. 80 percent are Tamils. In this situation, it is reported by many that the JHU will win 2,3 seats.
+
+Rishad Bathiudeen contests every year in every party. Many Muslims compete. Likewise, Muslims are competing in the power of the national people.
+
+Muslim parties with fewer votes have the opportunity to get 2 seats. The Tamils ​​should vote very carefully. We should not be a side of time.
+
+...
+
+[Data](articles/67df2077.json)
+
+[Extended Data](ext_articles/67df2077.ext.json)
 
 ---
 
@@ -2085,177 +2255,5 @@ The central bank announced Rs 85,000 million Treasury Bonds under the series of 
 [Data](articles/fc295580.json)
 
 [Extended Data](ext_articles/fc295580.ext.json)
-
----
-
-### The city of Akurana was submerged
-
-*2024-11-08 17:58:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அக்குரணை-நகரம்-நீரில்-மூழ்கியது/76-346791) · `ta`
-
-Akurana city flooded due to heavy rains in Kandy district. Main roads submerged, including Kandy-Jaffna A-09 road. Traffic disrupted for over 3 hours. Flooding frequent due to overflowing rivers.
-
-🟩
-
-Due to heavy rains in many parts of Kandy district, the city of Kandy - Jaffna, A -09 road has been submerged.
-
-The main roads of the city have been submerged and the main roads in the city have been submerged and the Hathee Kanwana, Kudugala and other areas have been submerged.
-
-The traffic on the Kandy - Jaffna A -09 road was over three hours.
-
-Flooding in Akurana has become a usual situation several times a year due to overflowing the main Oya and Wahagala Oya in the city.
-
-◼️
-
-[Data](articles/fdbe1ad3.json)
-
-[Extended Data](ext_articles/fdbe1ad3.ext.json)
-
----
-
-### New Circular on Information on School Education activities - Ministry of Education
-
-*2024-11-08 17:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198219) · `ta`
-
-Ministry of Education circular advises against using social media for school communication. Secretary Tilaka Jayasundera instructs students to avoid using communication equipment during home training and work.
-
-🟩
-
-Secretary of the Ministry of Education Tilaka Jayasundera has issued a circular containing a series of instructions on the adverse effects of using social communication equipment for school education and communication.
-
-Accordingly, it is advised to avoid the use of communications committees that include the curriculum.
-
-The Ministry of Education has strongly urged students to explain at home training and work and not to use communication equipment.
-
-◼️
-
-[Data](articles/878c49a5.json)
-
-[Extended Data](ext_articles/878c49a5.ext.json)
-
----
-
-### Special Circular Release on the Use of Social Media in Schools
-
-*2024-11-08 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198214) · `ta`
-
-Ministry of Education issues circular on social media use in schools. Initially introduced during COVID-19 to restore learning opportunities, now widely used by students. Circular aims to address potential adverse effects of social media on education.
-
-🟩
-
-The Ministry of Education has issued a special circular on the use of social media for school education and communication.
-
-The circular has been released to all school principals and education officials.
-
-In the circular, social media such as WhatsApp, Viper and Telegram were initially introduced to help students restore the missing learning opportunities during the spread of Kovit-19. But they are still widely used by students today.
-
-Students use these social media processors to have adverse effects. The Ministry of Education said that the circular has been released.
-
-◼️
-
-[Data](articles/a33676ee.json)
-
-[Extended Data](ext_articles/a33676ee.ext.json)
-
----
-
-### Education Ministry issues circular on school social media groups
-
-*2024-11-08 17:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103263/education-ministry-issues-circular-on-school-social-media-groups) · `en`
-
-The Ministry of Education has issued a circular for school principals and relevant education authorities to oversee and minimize the adverse effects of school social media groups, introduced following the Covid-19 pandemic.
-
-The circular states that as reports of negative effects of school groups on social media platforms like WhatsApp, Viber, Telegram etc., introduced for students’ use during the Covid-19 pandemic have been reported, the relevant principals and education authorities are instructed to act as admins of said groups to reduce such negative effects.
-
-The relevant circular has been issued by the Secretary to the Education Ministry to all provincial chief secretaries, provincial education secretaries, provincial education directors, zonal education directors, divisional education directors, principals of schools and Piriven.
-
-◼️
-
-[Data](articles/97039585.json)
-
-[Extended Data](ext_articles/97039585.ext.json)
-
----
-
-### Vijitha's emergency visit
-
-*2024-11-08 17:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203048) · `si`
-
-Minister Vijitha Herath visits Colombo Port to address issues: reducing container clearance times, improving customs efficiency, addressing irregularities in container testing, and managing late fees.
-
-🟩
-
-Minister Vijitha Herath had joined the inspection tour of the Colombo Port Container operation premises.
-
-The Minister had gone to the place yesterday (07), the Minister had gone to the place to solve a number of problems and problems with candidates.
-
-Considering the complaints of port workers, drivers and containers' association with the association of the Minister has instructed the relevant authorities to solve all of them.
-
-01. The demand of the transporters to provide measures to minimize the time taken to reduce the time in the container clearance.
-
-02. The last government has not obtained a satisfaceable report to the last government for the Container Inspection, and the employees of the yards have to spend the saddest of the wheels transporting the wheels to drivers.
-
-03. The main entrance of the port is a weak condition, where the main gateway. Complaints of many drivers and employees about the inefficiency of the customs personnel due to lack of proper mechanism.
-
-...
-
-[Data](articles/c60cfbc4.json)
-
-[Extended Data](ext_articles/c60cfbc4.ext.json)
-
----
-
-### Two killed in fishing boat sinks in South Korea12 people magic
-
-*2024-11-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198211) · `ta`
-
-Fishing boat sinks off South Korea: 2 dead, 12 missing, 15 rescued. Rescue operation underway involving ships, aircraft, and deep sea cylinders.
-
-🟩
-
-Officials said two people were dead and 12 were missing after a fishing boat sank in South Korea's southern resort island, Jeju, on Friday.
-
-Jeju Coast Guard officials have launched a rescue operation as another nearby boat warned, after a complaint was reported to be drowned in the sea on Thursday night (07).
-
-Of the 27 employees in the fishing boat, 15 were rescued. Two of them have died after being admitted to the hospital. 12 people are missing. Two of them are from Indonesia.
-
-A total of 43 ships, including three naval vessels, 13 aircraft and several deep sea cylinders, have been sent to rescue operations.
-
-"We offer our condolences to the families we have lost, and we will try to find out the missing persons by gathering all rescue equipment and resources," said Jeju Coast Guard Officer Sung Mo-Won.
-
-◼️
-
-[Data](articles/3b0c41fc.json)
-
-[Extended Data](ext_articles/3b0c41fc.ext.json)
-
----
-
-### We will not allow the government to suppress the voice of the people by suppressing the unions and the media - Azad Sally
-
-*2024-11-08 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198212) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Government suppresses unions and media, fails to keep promises. New Democratic Front opposes this, emphasizing need for experienced leaders. Candidates lack ministerial/state experience, raising concerns about governance capabilities.
-
-🟩
-
-The government seeks to suppress the voice of the people by controlling the country's unions and threatening the media without fulfilling the promises made to the people. "We will not allow it," said Assadsali, the new Democratic Front's Colombo district candidate.
-
-In the presidential election, President Anura Kumara Dissanayake, including the President, made various promises to the people of the national people.
-
-They also made promises that they could not be implemented. Thus they came to power in the false propaganda.
-
-They are currently asking for a majority in Parliament to fulfill those promises. Nothing has been done so far to come to power.
-
-If the government has been managing the country since the government has come to power, then we will have to take responsibility for the country's rule in the new Democratic Front led by Ranil Wickremesinghe in a couple of years.
-
-...
-
-[Data](articles/cccbe834.json)
-
-[Extended Data](ext_articles/cccbe834.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 11:40:34**
+As of **2024-11-09 11:59:48**
 
 ## Newspaper Stats
 
-*Scraped **53,841** Articles*
+*Scraped **53,843** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,52 @@ dbsjeyarajcom | 419
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,217
-economynextcom | 3,267
+economynextcom | 3,268
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,031
 adaderanalk | 6,416
 tamilmirrorlk | 7,509
 virakesarilk | 8,714
-adaderanasinhalalk | 9,384
+adaderanasinhalalk | 9,385
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,841 (100.0%) of 53,841 articles have been extended.
+53,843 (100.0%) of 53,843 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Kandy chief school kills many classes
+
+*2024-11-09 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203062) · `si`
+
+Kandy school damage: Heavy rain causes wall collapse, 27 classrooms critical. Authorities aware, taking action.
+
+🟩
+
+Kandy D. S. A large wall of Senanayake Vidyalaya was damaged and several classes were damaged.
+
+The accident occurred with heavy rains last night.
+
+The Principal Ananda Upatissa says 27 more classes are in critical condition.
+
+All classes and other classes are at risk.
+
+Ananda Upatissa said that there was a number of other classes today (09).
+
+He further stated that the authorities including the Central Province Governor informed the existing risk and that the authorities are conducted in accordance with the instructions of the authorities.
+
+◼️
+
+[Data](articles/de02d87b.json)
+
+[Extended Data](ext_articles/de02d87b.ext.json)
+
+---
 
 ### Chinese funds transferred to Treasury for disaster relief and monitoring project
 
@@ -541,6 +569,26 @@ The public is also requested to take necessary steps to reduce the damages cause
 [Data](articles/01d696e2.json)
 
 [Extended Data](ext_articles/01d696e2.ext.json)
+
+---
+
+### Sri Lanka remittances $587.7mn in October, up 13.9-pct
+
+*2024-11-09 06:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-remittances-587-7mn-in-october-up-13-9-pct-186696/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers gained 13.9 percent to $587.7 million in October 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
+
+The total remittances in the first 10 months of this year also crossed $5.4 billion with a 11.7 percent gain compared to $4.7 billion in the same period in the last year, the latest Central Bank data showed.
+
+Worker remittances are one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis hit in 2022.
+
+The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
+
+...
+
+[Data](articles/a9fe50bd.json)
+
+[Extended Data](ext_articles/a9fe50bd.ext.json)
 
 ---
 
@@ -2239,57 +2287,5 @@ The department said there may be temporary localized strong winds during thunder
 [Data](articles/58abf15a.json)
 
 [Extended Data](ext_articles/58abf15a.ext.json)
-
----
-
-### Sealing for two warm boats working with health problems in Mannar
-
-*2024-11-08 15:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198191) · `ta`
-
-Court orders seal two boats in Mannar due to health issues. Public health inspectors identified 12 defects. Boats closed until 21st pending fixes. Similar actions planned for Mannar restaurants.
-
-🟩
-
-The Mannar Public Health Inspectors yesterday (07) issued a court order for the two wreaths that were in harmony with the health of the public in the Mannar Public Health Officer Division.
-
-When the letter has been examined for the past several months, the Mannar Public Health Inspectors have been examined and the 12 defects have been addressed.
-
-It has been pointed out that the public health inspectors have pointed out that the two bombshells in Mannar are closed until the 21st of this month and are denied permission to engage in business activities until the 12 health problems are addressed.
-
-Similarly, the Mannar Public Health Medical Officers will take action on restaurants in the Mannar district.
-
-◼️
-
-[Data](articles/d17aa7b7.json)
-
-[Extended Data](ext_articles/d17aa7b7.ext.json)
-
----
-
-### Couple remanded for pyramid racket
-
-*2024-11-08 15:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203042) · `si`
-
-Colombo Magistrate's Court remands couple for alleged pyramid scheme involving Rs. 1,800 million. Husband arrested at Katunayake airport, wife caught carrying him. 68 witnesses recorded statements. Investigation ongoing.
-
-🟩
-
-The Colombo Magistrate's Court ordered a man abroad and his wife was arrested on suspicion of criminal false false false false false false false use of Rs. 1,800 million.
-
-The suspects were arrested and produced before the court by the CID.
-
-The police said that the suspect was arrested in the Katunayake airport when the suspect was hiding in Malaysia.
-
-The police said that his wife was arrested at the Katunayake Airport to carry the suspect.
-
-The police informed the court that 68 people have recorded statements from 68 people regarding the incident and the number of statements will be recorded from a large number of people.
-
-The Magistrate issued these orders after considering the suspects to be remanded as investigations.
-
-◼️
-
-[Data](articles/590fe269.json)
-
-[Extended Data](ext_articles/590fe269.ext.json)
 
 ---

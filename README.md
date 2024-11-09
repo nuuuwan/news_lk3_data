@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 22:24:30**
+As of **2024-11-09 22:39:56**
 
 ## Newspaper Stats
 
-*Scraped **53,910** Articles*
+*Scraped **53,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 5,035
 adaderanalk | 6,429
 tamilmirrorlk | 7,526
 virakesarilk | 8,724
-adaderanasinhalalk | 9,404
+adaderanasinhalalk | 9,405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,910 (100.0%) of 53,910 articles have been extended.
+53,911 (100.0%) of 53,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Phase 3 of the Central Expressway is inspected to Vijitha's observation
+
+*2024-11-09 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203085) · `si`
+
+Central Expressway Phase 3 inspection: Pothuhera to Rambukkana. Estimated completion 2025. Project cost: Rs. 210 billion. Road length: 32.4 km. Four-lane highway.
+
+🟩
+
+The third phase of the Central Expressway from Pothuhera to Rambukkana has been held today (09).
+
+The Ministry of Transport, Highways, Ports, and Civil Aviation said that the Minister was instructed by the Minister on the need.
+
+Accordingly, the Minister has instructed the relevant officials to completing the work of the road in 2025.
+
+The project was commenced in the last year 2023 and the estimated amount of Rs. 210 billion is estimated to the entire project.
+
+Four lanes, this road is 32.4 km from Pothuhera to Galagedara.
+
+◼️
+
+[Data](articles/daaef745.json)
+
+[Extended Data](ext_articles/daaef745.ext.json)
+
+---
 
 ### ‘Investment scam’ operating out of luxury apartment in Colombo defrauded over Rs. 300 mln
 
@@ -2267,25 +2293,5 @@ The crossing was reported in Royal Ceramic, which crossed 1.6 million shares to 
 [Data](articles/c1332b2e.json)
 
 [Extended Data](ext_articles/c1332b2e.ext.json)
-
----
-
-### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
-
-*2024-11-09 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
-
-...
-
-[Data](articles/61c6dea3.json)
-
-[Extended Data](ext_articles/61c6dea3.ext.json)
 
 ---

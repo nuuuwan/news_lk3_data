@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 07:58:37**
+As of **2024-11-09 08:21:45**
 
 ## Newspaper Stats
 
-*Scraped **53,815** Articles*
+*Scraped **53,818** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,030
-adaderanalk | 6,410
+adaderanalk | 6,412
 tamilmirrorlk | 7,499
 virakesarilk | 8,712
-adaderanasinhalalk | 9,379
+adaderanasinhalalk | 9,380
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,814 (100.0%) of 53,815 articles have been extended.
+53,818 (100.0%) of 53,818 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### 58 arrested over online scams by CID at Narahenpita
+
+*2024-11-09 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103268/58-arrested-over-online-scams-by-cid-at-narahenpita) · `en`
+
+A group of 58 Sri Lankans suspected to be involved in online financial frauds have been arrested by the Criminal Investigations Department (CID) at Narahenpita.
+
+◼️
+
+[Data](articles/0e4a52be.json)
+
+[Extended Data](ext_articles/0e4a52be.ext.json)
+
+---
+
+### Warning issued for heavy rain in several provinces
+
+*2024-11-09 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103267/warning-issued-for-heavy-rain-in-several-provinces) · `en`
+
+The Department of Meteorology has issued a ‘Red’ warning for heavy rain in the North western, Central, Uva, and Sabaragamuwa provinces.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island during the evening or night, it said.
+
+Heavy showers above 150 mm are likely at some places in North western, Central, Uva, Sabaragamuwa, North central and Eastern provinces.
+
+◼️
+
+[Data](articles/850371b2.json)
+
+[Extended Data](ext_articles/850371b2.ext.json)
+
+---
+
+### Sri Lanka - New Zealand's first T20 match today
+
+*2024-11-09 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203057) · `si`
+
+Sri Lanka vs New Zealand: First T20 match in Dambulla tonight at 7 PM. New Zealand leads series 4-2. Sri Lanka seeks victory in home turf.
+
+🟩
+
+Sri Lanka and New Zealand will commence the first match in Dambulla (9).
+
+This is a night competition. Is to start at 7.
+
+New Zealand has been able to confirm five tournaments and the 4 tournamental tournaments have been established.
+
+Sri Lanka has won only one tournament to date and has ended three tournaments without Jayakwaran.
+
+Sri Lanka won seven matches and 13 matters.
+
+In addition, two matches are equal to two matches and one match without solutions.
+
+Today, Sri Lanka and New Zealand are the 9th T20 match in Sri Lanka.
+
+More Honowered New Zealand wins 4 matches, Sri Lanka has only 2 matches.
+
+However, between Sri Lanka and New Zealand will take place twenty20 years after the T20 tournament in Sri Lanka.
+
+New Zealand passes the event last year and win the tournament 2-1.
+
+◼️
+
+[Data](articles/dca7289e.json)
+
+[Extended Data](ext_articles/dca7289e.ext.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -2301,93 +2371,5 @@ Campaigning by those seeking to get elected to the country’s Parliament has be
 [Data](articles/179e26d7.json)
 
 [Extended Data](ext_articles/179e26d7.ext.json)
-
----
-
-### 1774 killed in 18394 road accidents died in the beginning
-
-*2024-11-08 13:54:04* · [`adalk`](https://www.ada.lk/breaking_news/මුල-මාස-නවය-තුළ-රිය-අනතුරු-18394-කින්-1774-ක්-මිය-ගිහින්/11-412928) · `si`
-
-1774 deaths in 18394 road accidents this year. 1697 fatal incidents. 24.6% cyclists, 126 motorcyclists, 121 pedestrians involved. 580 accidents caused by drunk driving.
-
-🟩
-
-Police Traffic Headquarters, 1774 persons were killed in 18394 road accidents this year.
-
-1697 of these accidents were fatal accidents.
-
-The victims were killed in these accidents, 24,6 cyclists, 126 cyclists, 126 cyclists, 121 cyclists, 126 motorcyclists, 121 cyclists).
-
-580 road accidents have taken place in drunk drivers.
-
-◼️
-
-[Data](articles/efb7f43f.json)
-
-[Extended Data](ext_articles/efb7f43f.ext.json)
-
----
-
-### Will not be provided for 2 days
-
-*2024-11-08 13:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/2-நாட்களுக்கு-வழங்கப்படாது/95-346775) · `ta`
-
-Western Province vehicle income permits suspended due to election. Last chance to obtain permit before election: Nov 13-14. Permits resume after election.
-
-🟩
-
-Due to the general election, the Western Province will not be issued a vehicle income permit on the 13th and 14th of this month, the Western Province Chief Secretariat said.
-
-The Secretariat further notes that the last date for the vehicle revenue license without paying any vehicle is November 13 and 14.
-
-The Secretariat has announced that on the first day of the election of the election, the obligations will be obtained and the vehicle income permit can be obtained.
-
-◼️
-
-[Data](articles/0327c35b.json)
-
-[Extended Data](ext_articles/0327c35b.ext.json)
-
----
-
-### Why is the Meteorological Department correctly prophesy the weather?
-
-*2024-11-08 13:46:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wqnzdngepo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Meteorological Department accurately predicts weather through:
-
-
-
-1. Sophisticated equipment and global data sharing
-
-2. Satellite imagery and ground-based observations
-
-3. Expert analysis of atmospheric patterns and climate trends
-
-4. Collaboration with international meteorological organizations
-
-
-
-Despite challenges like limited local data and geographical complexities, modern technology aids accurate forecasting.
-
-🟩
-
-Why is the Meteorological Department correctly prophesy the weather?
-
-Many evidence is found in literary sources and Janasana, that Sri Lanka has used a large number of practical knowledge of the weather conditions in the past.
-
-"The two seventh season between Yala and Maha seasons will strike the year twice. This is the fertilizer agriculture. The kings of Sri Lanka did not ran after fertilizer. They said, 'Hells.. Excess of countless. That means you see how when to hold down. It was said to be sown before lightning and he was told, "Commenting with BBC Sinhala," said the Environmental Thilak Kandagama.
-
-Nevertheless, the sophisticated equipment is not true, the source of sophisticated equipment is not the case of the socialism that it is not correct.
-
-...
-
-[Data](articles/878e615c.json)
-
-[Extended Data](ext_articles/878e615c.ext.json)
 
 ---

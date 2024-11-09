@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 21:24:25**
+As of **2024-11-09 21:40:24**
 
 ## Newspaper Stats
 
-*Scraped **53,906** Articles*
+*Scraped **53,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,427
-tamilmirrorlk | 7,524
+tamilmirrorlk | 7,525
 virakesarilk | 8,724
 adaderanasinhalalk | 9,404
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,906 (100.0%) of 53,906 articles have been extended.
+53,907 (100.0%) of 53,907 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,30 @@ The US Department of Justice has accused the Iranian citizen of the Iranian revo
 [Data](articles/194bbf47.json)
 
 [Extended Data](ext_articles/194bbf47.ext.json)
+
+---
+
+### Shocking news about the hexe attack plan
+
+*2024-11-09 20:47:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பை-தாக்குதல்-திட்டம்-குறித்து-அதிர்ச்சி-செய்தி/175-346835) · `ta`
+
+Iranian citizen charged by US DOJ for alleged involvement in hexagon attack and monitoring Donald Trump. Accused of launching gunfire targeting Israelis.
+
+🟩
+
+Shocking information has been revealed about the alleged terrorist attack on the hexagonal.
+
+There are currently information about an Iranian citizen who is suspected of being involved in the incident.
+
+The US Department of Justice has filed a charge sheet against a Iranian citizen of Burhat Shakari, who was assigned to kill and monitor Donald Trump during the US presidential election.
+
+The US Department of Justice has accused the Iranian citizen of the Iranian revolutionary forces to launch a massive gunfire targeting Israeli citizens in the area.. Remble
+
+◼️
+
+[Data](articles/81c67703.json)
+
+[Extended Data](ext_articles/81c67703.ext.json)
 
 ---
 
@@ -2253,39 +2277,5 @@ Herath also said the Social Security Ministry has appointed a committee of exper
 [Data](articles/20d4b899.json)
 
 [Extended Data](ext_articles/20d4b899.ext.json)
-
----
-
-### No house for former presidents?
-
-*2024-11-09 00:26:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-ஜனாதிபதிகளுக்கு-வீடு-இல்லையா/175-346810) · `ta`
-
-Here's a 200-character summary:
-
-
-
-President offers aid to families struggling to buy food and school supplies. Announces scholarships for needy students. Clarifies former presidents must apply like others for benefits, denies accusations of revenge. Emphasizes fairness and legality in decision-making process.
-
-🟩
-
-The President said that if there are no families who are not able to buy food, it has been decided to make some allowances for such parties without political intervention.
-
-The President added that the children who cannot afford to buy school books and school equipment will be paid.
-
-“Even though the school is over in December, we know that the next new school installment will begin at the end of January.
-
-The old installment ends in January this year. The new installment begins at the end of January.
-
-In the new school installment, when students go to school, all students who cannot afford books and school equipment will be given scholarships.
-
-Those who are not available can appeal again and will be considered reasonably without political interventions. We have already given instructions to the Divisional Secretariats.
-
-Meanwhile, the President added that if the former presidents are to obtain some concessions, the application will be submitted and presented the legal reasons.
-
-...
-
-[Data](articles/f73e9ceb.json)
-
-[Extended Data](ext_articles/f73e9ceb.ext.json)
 
 ---

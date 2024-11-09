@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 17:41:03**
+As of **2024-11-09 18:00:57**
 
 ## Newspaper Stats
 
-*Scraped **53,883** Articles*
+*Scraped **53,884** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,034
-adaderanalk | 6,424
+adaderanalk | 6,425
 tamilmirrorlk | 7,517
 virakesarilk | 8,721
 adaderanasinhalalk | 9,396
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,396
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,883 (100.0%) of 53,883 articles have been extended.
+53,884 (100.0%) of 53,884 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Govt denies reports of shutting down ‘Thriposha’ company
+
+*2024-11-09 17:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103281/govt-denies-reports-of-shutting-down-thriposha-company) · `en`
+
+The government says that reports claiming that Sri Lanka Thriposha Limited (SLTL) is to be closed down are false.
+
+Issuing a statement in this regard, the Ministry of Finance clarified that no action has been taken to liquidate the Threeposha Company and that there are no such plans.
+
+It further stated that the program of providing Triposha to children and pregnant mothers will continue forward in a more effective manner.
+
+◼️
+
+[Data](articles/e27f79c5.json)
+
+[Extended Data](ext_articles/e27f79c5.ext.json)
+
+---
 
 ### Sri Lankan arrested for fake visa to France
 
@@ -2205,25 +2223,5 @@ The award was received by more than two million tourists. Australia has been sel
 [Data](articles/c8c8100f.json)
 
 [Extended Data](ext_articles/c8c8100f.ext.json)
-
----
-
-### Nobody can buy us for money - Dilith
-
-*2024-11-08 20:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203052) · `si`
-
-Dilith Jayarawara proposes private member bill in Parliament to reform Sri Lanka without seeking financial backing or political favors. He emphasizes serving people over personal interests and seeks JVP support for his initiative.
-
-🟩
-
-Political Politics Free of Privilege Dilith Jayarawara says that he is ready to re-establish Sri Lanka through a private member proposal he will be brought through a private member proposal in Parliament.
-
-"We understand the journey and understand about the journey. We are going to help us come with us that you can change your life. So far you have sat in the queue and made your life change. We assure your scrathe this time you will definitely make your life change. Nobody can buy us for money. We are not privileged politics and we don't have to pay for MPs this time. No vehicles don't want any privileges. Why do we can serve the people, and we can make a dedication?. So our JVP comrades can also support the private member's proposal to the private MP's proposal now, but we do not need to promote parliamentary salaries. Let's start with a politics of that politics. "
-
-◼️
-
-[Data](articles/81868b06.json)
-
-[Extended Data](ext_articles/81868b06.ext.json)
 
 ---

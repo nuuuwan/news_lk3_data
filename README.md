@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 08:45:42**
+As of **2024-11-09 08:59:44**
 
 ## Newspaper Stats
 
-*Scraped **53,827** Articles*
+*Scraped **53,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,64 +17,130 @@ economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,030
-adaderanalk | 6,412
+adaderanalk | 6,413
 tamilmirrorlk | 7,506
-virakesarilk | 8,712
+virakesarilk | 8,713
 adaderanasinhalalk | 9,382
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,824 (100.0%) of 53,827 articles have been extended.
+53,828 (100.0%) of 53,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### මූල්‍ය වංචාවකට සම්බන්ධ ලංකාවේ 58 CID භාරයට
+### இணையவழி  ஊடாக பண மோசடியில் ஈடுப்பட்ட 58 பேர் கைது
+
+*2024-11-09 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198235) · `ta`
+
+இணையவழி  ஊடாக பண மோசடிகளில் ஈடுபட்டதாக சந்தேகிக்கப்படும் 58 இலங்கையர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8a54b0a5.json)
+
+---
+
+### 58 CID be transferred to financial fraud
 
 *2024-11-09 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203059) · `si`
 
-අන්තර්ජාල මූල්‍ය වංචාවලට සම්බන්ධ බවට සැකකෙරෙන ශ්‍රී ලාංකිකයින් 58 දෙනෙකුගෙන් යුත් කණ්ඩායමක් අත්අඩංගුවට ගත්බව පොලීසිය පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් නාරාහේන්පිටදී මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇත.
+
+
+Sri Lanka: 58 individuals linked to online financial fraud arrested in Narahenpita operation. Criminal Investigations Department involved.
+
+🟩
+
+A large number of 58 Sri Lankans associated with Internet fiscal fraud was arrested.
+
+The Criminal Investigations Department has taken place in Narahenpita.
 
 ◼️
 
 [Data](articles/35f271e2.json)
 
+[Extended Data](ext_articles/35f271e2.ext.json)
+
 ---
 
-### ’வாக்காளர்கள் இம்முறை கவனமாக இருக்க வேண்டும்’
+### Gaza women, children are nearly 70% of verified war dead, UN rights office says
+
+*2024-11-09 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103269/gaza-women-children-are-nearly-70-of-verified-war-dead-un-rights-office-says) · `en`
+
+The U.N. Human Rights Office said on Friday nearly 70% of the fatalities it has verified in the Gaza war were women and children, and condemned what it called a systematic violation of the fundamental principles of international humanitarian law.
+
+The U.N. tally since the start of the war, in which Israel’s military is fighting Hamas militants, includes only fatalities it has managed to verify with three sources, and counting continues.
+
+The 8,119 victims verified is a much lower number than the toll of more than 43,000 provided by Palestinian health authorities for the 13-month-old war. But the U.N. breakdown of the victims’ age and gender backs the Palestinian assertion that women and children represent a large portion of those killed in the war.
+
+This finding indicates “a systematic violation of the fundamental principles of international humanitarian law, including distinction and proportionality”, the U.N. rights office said in a statement accompanying the 32-page report.
+
+...
+
+[Data](articles/9e02602f.json)
+
+[Extended Data](ext_articles/9e02602f.ext.json)
+
+---
+
+### Model voters should be careful this time
 
 *2024-11-09 08:24:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்கள்-இம்முறை-கவனமாக-இருக்க-வேண்டும்/175-346817) · `ta`
 
-சில சிரேஷ்ட அரசியல்வாதிகள் தமது வருமான ஆதாரங்களை வெளியிட வேண்டியிருப்பதன் காரணமாக, இந்த ஆண்டு பொதுத் தேர்தலில் போட்டியிட மாட்டார்கள் என, தேர்தல் கண்காணிப்பு அமைப்புகள் தெரிவிக்கின்றன.
+Here's a 200-character summary:
 
-எனவே, வாக்களிக்கும் வேட்பாளர்களை தெரிவு செய்யும் போது வாக்காளர்கள் மிகவும் கவனமாக இருக்க வேண்டும் என, ஜனநாயக மறுசீரமைப்பு மற்றும் தேர்தல் கற்கைகள் நிறுவகத்தின் நிறைவேற்று பணிப்பாளர் மஞ்சுள கஜநாயக்க தெரிவித்தார்.AN
+
+
+"Voters beware: Senior politicians may skip elections due to income disclosure. Carefully choose candidates, warns election monitor."
+
+🟩
+
+Election monitoring organizations say that some senior politicians will not contest the general election this year because they have to publish their income.
+
+Therefore, voters should be very careful when selecting voting candidates, said Manjula Gajanayake, Executive Director of the Democratic Reforms and Election Studies Institute.
 
 ◼️
 
 [Data](articles/0b82c83e.json)
 
+[Extended Data](ext_articles/0b82c83e.ext.json)
+
 ---
 
-### வாக்குச்சீட்டு இல்லாமலும் இம்முறை வாக்களிக்கலாம்
+### You can vote this time without a ballot
 
 *2024-11-09 08:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டு-இல்லாமலும்-இம்முறை-வாக்களிக்கலாம்/175-346816) · `ta`
 
-உத்தியோகபூர்வ வாக்குச்சீட்டு இல்லாமல் கூட வாக்களிக்க முடியும் என, தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+Here's a 200-character summary:
+
+
+
+Elections Commission Chairman RMAL Ratnayake states he can vote without an official ballot. This claim challenges traditional voting procedures, potentially altering how elections are conducted. The statement raises questions about the validity and security of non-traditional voting methods.
+
+🟩
+
+Elections Commission Chairman RMAL Ratnayake said that even without an official ballot, he could vote.
 
 ◼️
 
 [Data](articles/cf6e8a3b.json)
+
+[Extended Data](ext_articles/cf6e8a3b.ext.json)
 
 ---
 
 ### Government experiments seek to prevent floods from floods in Matara
 
 *2024-11-09 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203058) · `si`
+
+Sri Lanka government investigates Matara floods. President orders study on salt barrier impact. Irrigation department and water board involved. Assistance sought from University of Peradeniya. Systematic flood control program planned for Matara district.
+
+🟩
 
 President of the Presidential Secretary Dr. Nandika Sanath has instructed the officials to resolve the causes of the floods in the Matara Nilwala Solutions.
 
@@ -2275,53 +2341,5 @@ A total of 43 vessels including three navy ships, 13 aircraft and several deep-s
 [Data](articles/66281621.json)
 
 [Extended Data](ext_articles/66281621.ext.json)
-
----
-
-### Female principal remanded over bribery charge
-
-*2024-11-08 14:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103256/female-principal-remanded-over-bribery-charge) · `en`
-
-The female principal of a school in Ragama who was arrested for allegedly soliciting a bribe of Rs. 150,000 from a parent in exchange for admitting their child to the Grade 01 class, has been remanded until November 22.
-
-She was produced before Colombo Chief Magistrate Thilina Gamage today (08), who ordered to place her under remand custody.
-
-The officers of the Commission to Investigate Allegations of Bribery or Corruption (CIABOC) had made the arrest last evening (07) following a complaint lodged by a woman in the Mattumagala area of Ragama.
-
-The female principal in question has demanded the bribe for the admission of the complainant’s child into the school’s Grade 01 class for the academic year 2025.
-
-She was arrested while accepting the bribe at her office inside the school premises at around 4.00 p.m. yesterday.
-
-◼️
-
-[Data](articles/f062adc2.json)
-
-[Extended Data](ext_articles/f062adc2.ext.json)
-
----
-
-### 50 thousand rupees fines for a restaurant owner with health disorders;5 lakh rupees released on bail
-
-*2024-11-08 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198187) · `ta`
-
-Restaurant owner fined 50k for health violations, 500k bail posted. Ordered to renovate kitchen by Dec 13. Owner threatened health inspector earlier.
-
-🟩
-
-The Ambagamuwa District Health Officer Officer's Office of Health Inspectors has been fined 50 thousand rupees in the case of the Ambagamuwa District Health Officer's Office, which has been issued a restaurant on the main road of Attan and has been ordered to release Rs.
-
-The case was taken up for hearing today (08). A team of public health inspectors submitted a report on the health problems of the restaurant's kitchen and filed 15 complaints.
-
-This includes matters such as replacing the tooth in the kitchen and the remedial of the old roofing area.
-
-The magistrate, hearing the descriptions of the health inspectors, ordered the restaurant's kitchen infrastructure to be reproduced before December 13 and submitted it before the date.
-
-It is noteworthy that the restaurant owner was arrested on the 27th of last month for the death threat to the Chief Health Inspector S. Kamadevan, who had been headed by a group of people who had previously prevented their work to prevent their work.
-
-◼️
-
-[Data](articles/4eeb77db.json)
-
-[Extended Data](ext_articles/4eeb77db.ext.json)
 
 ---

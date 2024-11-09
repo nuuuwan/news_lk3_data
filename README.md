@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 10:12:14**
+As of **2024-11-09 10:24:34**
 
 ## Newspaper Stats
 
-*Scraped **53,835** Articles*
+*Scraped **53,837** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,031
 adaderanalk | 6,414
-tamilmirrorlk | 7,507
+tamilmirrorlk | 7,509
 virakesarilk | 8,713
 adaderanasinhalalk | 9,383
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,383
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,835 (100.0%) of 53,835 articles have been extended.
+53,837 (100.0%) of 53,837 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,46 @@ The United Nations's Human Rights Office points out that 80 percent of the total
 [Data](articles/ea482a79.json)
 
 [Extended Data](ext_articles/ea482a79.ext.json)
+
+---
+
+### Special gazette release
+
+*2024-11-09 09:26:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தமானி-வெளியீடு/175-346820) · `ta`
+
+Elections Commission issues special gazette appointing Chairman and Deputy Chairman for Elpitiya Local Government Council. Colombo Tantrike Nishantha Perera named as Chairman after national people's power victory on 26th of last month.
+
+🟩
+
+The Elections Commission has issued a special gazette notification to announce the Chairman and Deputy Chairman of the Elpitiya Local Government Council.
+
+Accordingly, the Gazette Notification states that its Chairman of Colombo Tantrike Nishantha Perera has been appointed.
+
+In the election held on the 26th of last month, the national people's power was acquired by the Elpitiya Local Government Council.
+
+◼️
+
+[Data](articles/2f2bd82b.json)
+
+[Extended Data](ext_articles/2f2bd82b.ext.json)
+
+---
+
+### A group of 58 Sri Lankans arrested
+
+*2024-11-09 09:20:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/58-இலங்கையர்கள்-குழுவொன்று-கைது/175-346819) · `ta`
+
+Sri Lanka: 58 citizens arrested for online financial fraud.
+
+🟩
+
+A group of 58 Sri Lankans suspected of engaging in financial fraud on the Internet. Remble
+
+◼️
+
+[Data](articles/1cccfd4d.json)
+
+[Extended Data](ext_articles/1cccfd4d.ext.json)
 
 ---
 
@@ -2271,61 +2311,5 @@ Her appearance with a blooded face has been designed to be different from fans. 
 [Data](articles/68698560.json)
 
 [Extended Data](ext_articles/68698560.ext.json)
-
----
-
-### 'Gangua' speaking the life of the people who worship the fire and the blood.
-
-*2024-11-08 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198195) · `ta`
-
-"Gangua" film summary: Fire-blood worship, starring Surya, Boby Deol, Disha Patani. Directed by Siva, music by Devi Sri Prasad. Tamil, Telugu, Malayalam, Kannada, Hindi release on 14th. Experiment exploring fire-blood worship biology, forgiveness themes.
-
-🟩
-
-Actor Surya's performance in the upcoming film 'Kangua', which will be released on the upcoming film 'Gangua', which will be released on Tamil, Telugu, Malayalam, Kannada and Hindi worldwide on the 14th of this month.
-
-Directed by director Siva, the film 'Gangua' has starred in many leading star stars and actresses including Surya, Bobi Deol and Dissa Patani.
-
-The film has been composed by 'Rockstar' Devi Sri Prasad.
-
-The film is being produced by Producer KE Gnanvel Raja and Vamsi-Pramod on behalf of Studio Green and Yuvi Creations.
-
-The preview of the film, which was developed in three -dimensional technology, and the release of the song 'Sorry' was held in Chennai. The film crew participated in the event.
-
-The song and a video for the song, which starts with 'Look at the thirsty soil for a man who is a thirsty man ..' has been released.
-
-Rock Star Devi Sri Prasad's charming metal, which has been released, has attracted fans as music speaks of the soul of the film.
-
-...
-
-[Data](articles/cb73195e.json)
-
-[Extended Data](ext_articles/cb73195e.ext.json)
-
----
-
-### Request from all voters
-
-*2024-11-08 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203040) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Elections Commission Chairman Ratnayake urges citizens to exercise their constitutional right to vote. He emphasizes voting as a civic duty and powerful tool. Polls open until 4:00 pm on the 14th.
-
-🟩
-
-Elections Commission, Elections Commission, Elections Commission, Elections Commission Chairman. Mr. Ratnayake requests
-
-He said the vote is the right to citizens as the constitution is to be voted.
-
-"The vote is a right to the Constitution. So it is your duty to use that right.. The vote is your right. The vote is your power.. Therefore, to vote to the polls to vote until 4.00 pm on the 14th.
-
-◼️
-
-[Data](articles/3382c5d1.json)
-
-[Extended Data](ext_articles/3382c5d1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 19:40:23**
+As of **2024-11-09 19:58:25**
 
 ## Newspaper Stats
 
@@ -26,49 +26,65 @@ adaderanasinhalalk | 9,402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,900 (100.0%) of 53,902 articles have been extended.
+53,902 (100.0%) of 53,902 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### ඔන්ලයින් ජාවාරමේ නිරත වූ ලාංකිකයන් - රුපියල් කෝටි 30ක් වංචා කරලා
+### Sri Lankans engaged in online racket - Rs.30 million has been cheated
 
 *2024-11-09 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203082) · `si`
 
-අන්තර්ජාලය හරහා මුදල් වංචාකිරීමේ ජාවාරමක සුලමුල අනාවරණය කරගැනීමට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකය සමත්ව තිබේ.
+Sri Lankan online scam: 59 arrested, Rs.30m stolen. Targets foreign investors. Two directors held. Police seized computers with fake documents. Court grants bail to some suspects.
 
-ජාවාරමට සම්බන්ධ බවට සැකපිට එහි ප්‍රධානීන් දෙදෙනෙකු ඇතුළු පුද්ගලයන් 59 දෙනෙකු ද ඊයේ (08) කොළඹදී අත්අඩංගුවට ගනු ලැබීය.
+🟩
 
-විදේශීය ජාතිකයන් ඉලක්ක කර එම ජාවාරම සිදුකර ඇති අතර දැනට රුපියල් කෝටි 30ක පමණ මුදලක් ඔවුන් වංචා කර ඇති බවද පොලීසිය පැවසීය.
+The Criminal Investigation Unit of the Criminal Investigation Unit has also revealed to the Internet cash fraud trafficking.
 
-මෙරට කොරියානු තානාපති කාර්යාලයෙන් පසුගිය බ්‍රහස්පතින්දා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ලැබී තිබුණේ කොරියානුවෙකුගෙන් මෙරට පිහිටි වේවිටෙක් නම් ආයතනයක් රුපියල් කෝටි 30කට ආසන්න මුදලක් වංචා කර ඇති බවය.
+59 persons including two of the heads were arrested in Colombo yesterday (08).
 
-අවස්ථා කිහිපයකදී ව්‍යාපාර කටයුතු සඳහා ආයෝජනය කිරීමට බව පවසමින් අමෙරිකානු ඩොලර් මිලියනයක පමණ මුදලක් අදාළ කොරියනු ජාතිකයාගෙන් ලබාගෙන ඇති අතර පසුව එම මුදල් ලබාදීම පැහැරහැර ඇති බවද එම පැමිණිල්ලේ සඳහන් ව තිබේ.
+The racket had been carried out targeting the foreign nationals and has already been cheated on the company.
 
-ඒ අනුව අදාළ ආයතනය හැව්ලොක් පාරේ පිහිටි සුපිරි නිවාස සංකීර්ණයක පවත්වාගෙන යන බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන ඒකකයේ නිලධාරීන් විසින් අනාවරණය කරගනු ලැබීය.
+The Department of Criminal Investigations had a complaint last Thursday to the Korean embassy in Sri Lanka.
+
+The complaint has been taken from the Korea, saying that it was to invest in business in several occasions.
+
+Accordingly, officials of the Criminal Investigation Unit of the Criminal Investigations Department (CID) officials were revealed by the CID that the relevant institution was operating at a super housing complex on Havelock Road.
+
+As a result, 57 Sri Lankans were arrested by 57 Sri Lankans raid 57 Sri Lankans and two women including two pregnant women.
+
+Police said that they were able to handle several languages ​​and some people were able to handle over 5 languages.
 
 ...
 
 [Data](articles/9d95857b.json)
 
+[Extended Data](ext_articles/9d95857b.ext.json)
+
 ---
 
-### මැතිවරණ පැමිණිලි තවත් ඉහළ ට
+### Election Complaints
 
 *2024-11-09 19:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203081) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයට අදාළව ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් තිබේ.
+Election Complaints: 2348 filed since Sept 26, 160 yesterday. 1861 resolved.
 
-මැතිවරණ කොමිෂන් සභාව පැවසුවේ ඊයේ (08) දිනයේ දී තවත් පැමිණිලි 160ක් ලැබී ඇති බවය.
+🟩
 
-ඒ අනුව පසුගිය සැප්තැම්බර් මස 26 වැනදා සිට ඊයේ දිනය දක්වා පාර්ලිමේන්තු මැතිවරණයට අදාළව ලැබී ඇති මුළු පැමිණිලි සංඛ්‍යාව 2348කි.
+The number of complaints received regarding the parliamentary election has further increased.
 
-ඉන් පැමිණිලි 1861ක් මේ වන විටත් විසදා ඇති බවද මැතිවරණ කොමිෂන් සභාව වැඩිදුරටත් සදහන් කළේය.
+The Elections Commission said that 160 complaints were received yesterday (08).
+
+Accordingly, the total number of complaints received from the parliamentary election from September 26 was 2348 complaints.
+
+The Elections Commission further stated that 1861 complaints have already been resolved.
 
 ◼️
 
 [Data](articles/d92a2c34.json)
+
+[Extended Data](ext_articles/d92a2c34.ext.json)
 
 ---
 

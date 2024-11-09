@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 12:40:18**
+As of **2024-11-09 12:58:06**
 
 ## Newspaper Stats
 
-*Scraped **53,851** Articles*
+*Scraped **53,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,217
 economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,031
-adaderanalk | 6,418
-tamilmirrorlk | 7,511
+adalk | 5,032
+adaderanalk | 6,419
+tamilmirrorlk | 7,512
 virakesarilk | 8,715
 adaderanasinhalalk | 9,387
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,387
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,851 (100.0%) of 53,851 articles have been extended.
+53,854 (100.0%) of 53,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Sluice gates opened at Polgolla Reservoir in Kandy
+
+*2024-11-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103276/sluice-gates-opened-at-polgolla-reservoir-in-kandy) · `en`
+
+Two sluice gates of the Polgolla Reservoir in Kandy have been opened following heavy rainfall.
+
+The engineer on duty at the Sri Lanka Mahaweli Authority confirmed that the two sluice gates were opened by one meter each.
+
+The Mahaweli Authority further stated that approximately 140 cubic meters of water per second is being released into the Victoria Reservoir from each sluice gate.
+
+◼️
+
+[Data](articles/e1e7e0ab.json)
+
+[Extended Data](ext_articles/e1e7e0ab.ext.json)
+
+---
 
 ### Another luxury vehicle recovery
 
@@ -326,6 +344,24 @@ He was speaking at the election propaganda meeting in Vadamarachchi East.
 
 ---
 
+### Red notice of heavy rains
+
+*2024-11-09 09:52:42* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳව-කාලගුණයෙන්-රතු-නිවේදනයක්/11-412935) · `si`
+
+Heavy rain warning: Red alert issued by Meteorology Department. Favorable conditions expected afternoon onwards. Announcement valid for 24 hours.
+
+🟩
+
+Intensive red announcement from the Department of Meteorology has issued a warning of the Department of Meteorological. Accordingly, a favorable atmosphere is being created in the afternoon and at the end of the afternoon.. The announcement was issued this morning will be valid for a 24-hour period.
+
+◼️
+
+[Data](articles/3a81b2eb.json)
+
+[Extended Data](ext_articles/3a81b2eb.ext.json)
+
+---
+
 ### Revealed about the people who died in Gaza
 
 *2024-11-09 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203060) · `si`
@@ -517,6 +553,24 @@ Therefore, voters should be very careful when selecting voting candidates, said 
 [Data](articles/0b82c83e.json)
 
 [Extended Data](ext_articles/0b82c83e.ext.json)
+
+---
+
+### Vote this time without voter card
+
+*2024-11-09 08:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டையின்றி-இம்முறை-வாக்களிக்கலாம்/175-346816) · `ta`
+
+Chairman Election Commission RMAL Ratnayake states voting possible without official voter card.
+
+🟩
+
+The Chairman of the Election Commission, RMAL Ratnayake, said that even without the official voter card, he could vote.
+
+◼️
+
+[Data](articles/36895ed5.json)
+
+[Extended Data](ext_articles/36895ed5.ext.json)
 
 ---
 
@@ -2221,71 +2275,5 @@ In this context, on the last day of the postal vote, the Batticaloa district can
 [Data](articles/4f3fef05.json)
 
 [Extended Data](ext_articles/4f3fef05.ext.json)
-
----
-
-### Special notice of western provincial revenue license
-
-*2024-11-08 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203045) · `si`
-
-Here's a 200-character summary:
-
-
-
-"Revenue license windows closed for 2 days in Western Province. Chief Secretary L. Dhammika K. Wijayasinghe states duties unpaid after general election."
-
-🟩
-
-The windows issued all the revenue licenses in the Western Province have been closed for two days.
-
-Western Province Chief Secretary Square. L. Dhammika K. Wijayasinghe says.
-
-In a statement, she said that after the general election, the first day of duties was not paid free of charge.
-
-◼️
-
-[Data](articles/0f17cea3.json)
-
-[Extended Data](ext_articles/0f17cea3.ext.json)
-
----
-
-### Election chief’s request to all voters in Sri Lanka
-
-*2024-11-08 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103262/election-chiefs-request-to-all-voters-in-sri-lanka-) · `en`
-
-The Chairman of the Election Commission R.M.A.L. Rathnayake requests all the voters in Sri Lanka to exercise their franchise in the upcoming General Election.
-
-He stated that as voting is a right granted to people by the country’s Constitution, the public should cast their votes.
-
-“Voting is a right provided to you by the Constitution itself. Therefore, it is your responsibility to exercise that right. The vote is your right. The vote is your power... Therefore, go to the polling stations to use your valuable vote between 07.00 a.m. to 04.00 p.m. on November 14,” Rathnayake said.
-
-◼️
-
-[Data](articles/4500f2c9.json)
-
-[Extended Data](ext_articles/4500f2c9.ext.json)
-
----
-
-### Place of coconut and coconut products at concession
-
-*2024-11-08 16:42:13* · [`adalk`](https://www.ada.lk/breaking_news/සහන-මිලට-පොල්-හා-පොල්-නිෂ්පාදන-ගන්න-තැනක්/11-412930) · `si`
-
-Coconut shortage drives price hike. Consumers sell nuts directly to manufacturers for coconut milk, oil, and other products. Sales points set up near Coconut Development Authority and Colombo Fort.
-
-🟩
-
-The coconut prices of coconut has increased due to the deficit of coconut in the local market.
-
-As a result, consumer people have launched a sales of nuts to the production of coconut, coconut milk, pitfall, and coconut oil to provide coconut oil, coconut milk, and coconut oil to provide immediate relief.
-
-People will provide the opportunity to buy coconuts in front of the Coconut Development Authority and the Colombo Fort of Coconut Road Nawarata.
-
-◼️
-
-[Data](articles/e4b3d041.json)
-
-[Extended Data](ext_articles/e4b3d041.ext.json)
 
 ---

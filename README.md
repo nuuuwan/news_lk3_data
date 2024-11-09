@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 10:58:39**
+As of **2024-11-09 11:10:51**
 
 ## Newspaper Stats
 
@@ -369,6 +369,8 @@ The number of measles patients in Sri Lanka from May last year was 1,100.An
 *2024-11-09 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103268/58-arrested-over-online-scams-by-cid-at-narahenpita) · `en`
 
 A group of 58 Sri Lankans suspected to be involved in online financial frauds have been arrested by the Criminal Investigations Department (CID) at Narahenpita.
+
+The group was reportedly arrested while staying in a house in the Narahenpita area.
 
 ◼️
 

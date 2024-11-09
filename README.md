@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 14:58:43**
+As of **2024-11-09 15:09:44**
 
 ## Newspaper Stats
 
-*Scraped **53,871** Articles*
+*Scraped **53,872** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,41 @@ adalk | 5,033
 adaderanalk | 6,421
 tamilmirrorlk | 7,516
 virakesarilk | 8,721
-adaderanasinhalalk | 9,390
+adaderanasinhalalk | 9,391
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,871 (100.0%) of 53,871 articles have been extended.
+53,872 (100.0%) of 53,872 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Shooting near the Lotus Tower
+
+*2024-11-09 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203069) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Shooting incident occurred during concert near Lotus Tower. Limited details available as investigation ongoing."
+
+🟩
+
+A shooting was shot in a concert held near the Lotus Tower yesterday.
+
+It is reported that information has been revealed so far, reports say.
+
+◼️
+
+[Data](articles/b744fa9d.json)
+
+[Extended Data](ext_articles/b744fa9d.ext.json)
+
+---
 
 ### A technical error on a SriLankan flight
 
@@ -2211,33 +2235,5 @@ The Western Provincial Council announced that the revenue license of the Western
 [Data](articles/d94a096a.json)
 
 [Extended Data](ext_articles/d94a096a.ext.json)
-
----
-
-### President pays statement about salary of public worker
-
-*2024-11-08 18:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203050) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake announces salary increases for public workers, aid for food-insecure families, and school grants. Proposes method for former presidents' privileges. Emphasizes rule of law and transparency in governance.
-
-🟩
-
-President Anura Kumara Dissanayake says that state employees will increase public servants in their first budget register.
-
-Addressing a rally in the Kegalle evening in Kegalle evening, the President added that the people who do not receive the reconciliation could be back appeals.
-
-The President also said that if families who have no unavailable to buy food, they have decided to give them a given allowance for a short time without political intervention.
-
-The President added that a allowance would be given to children who cannot buy school books and school equipment.
-
-...
-
-[Data](articles/4419ed34.json)
-
-[Extended Data](ext_articles/4419ed34.ext.json)
 
 ---

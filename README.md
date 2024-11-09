@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 06:45:39**
+As of **2024-11-09 07:25:16**
 
 ## Newspaper Stats
 
-*Scraped **53,806** Articles*
+*Scraped **53,815** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 419
 bbccomsinhala | 548
 colombotelegraphcom | 551
-islandlk | 3,209
+islandlk | 3,217
 economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
@@ -20,17 +20,97 @@ adalk | 5,030
 adaderanalk | 6,410
 tamilmirrorlk | 7,499
 virakesarilk | 8,712
-adaderanasinhalalk | 9,378
+adaderanasinhalalk | 9,379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,806 (100.0%) of 53,806 articles have been extended.
+53,810 (100.0%) of 53,815 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### ප්‍රදේශ කිහිපයකට අද පස්වරුවේ තද වැසි
+
+*2024-11-09 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203056) · `si`
+
+අද (9) ප.ව. 1න් පමණ පසු මධ්‍යම, ඌව සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එමෙන්ම උතුරු සහ නැගෙනහිර පළාත්වල උදැසන කාලයේදී වැසි ස්වල්පයක් ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙසද ජනතාවගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/01d696e2.json)
+
+---
+
+### JAT posts 67% PAT growth despite Bangladesh crisis
+
+*2024-11-09 01:24:00* · [`islandlk`](http://island.lk/jat-posts-67-pat-growth-despite-bangladesh-crisis/) · `en`
+
+JAT Holdings PLC, the leader in wood coatings and brushes in Sri Lanka, has demonstrated resilience in Q2 and the 1st Half of FY 2024/25, continuing to deliver exceptional value to stakeholders. Accordingly, Profit After Tax (PAT) witnessed a 67% surge during the six months ended 30th September 2024, reaching Rs. 512 million, amid challenges in Bangladesh and Maldives. Meanwhile, Revenue from the Group’s Sri Lanka operations grew by 8% to Rs. 3,287 million during the period. Gross profit margin increased by 2% reflecting the positive impact of JAT’s Acrylic Binder and Alkyd Resin manufacturing plants, which have resulted in significant cost efficiencies. Selling and Distribution expenses too declined by 10% as a result of JAT’s prudent approach to cost management and a strategic increase in marketing spend in the previous year, which are now yielding returns.
+
+...
+
+[Data](articles/87918d62.json)
+
+[Extended Data](ext_articles/87918d62.ext.json)
+
+---
+
+### Sri Lanka’s Best Brand at the Brand Leadership Awards 2024
+
+*2024-11-09 01:24:00* · [`islandlk`](http://island.lk/sri-lankas-best-brand-at-the-brand-leadership-awards-2024/) · `en`
+
+AIA Insurance has once again fortified its position as a leading brand in Sri Lanka’s life insurance landscape having been certified as Sri Lanka’s Best Brand at the Brand Leadership Awards 2024. The prestigious award conferred by CMO Asia underscores AIA Sri Lanka’s unwavering commitment to building a purpose driven brand through innovation, customer service and its enduring promise to help people live Healthier, Longer, Better Lives.
+
+...
+
+[Data](articles/b6cb4e41.json)
+
+[Extended Data](ext_articles/b6cb4e41.ext.json)
+
+---
+
+### Standard Chartered ‘Official Banking Partner’ at Sri Lanka Design Festival 2024
+
+*2024-11-09 01:24:00* · [`islandlk`](http://island.lk/standard-chartered-official-banking-partner-at-sri-lanka-design-festival-2024/) · `en`
+
+Standard Chartered is the Official Banking Partner for the prestigious event, Sri Lanka Design Festival (SLDF) 2024, the country’s most impressive celebration of creativity, design, and innovation.Organised by the Academy of Design (AOD), one of Sri Lanka’s leading design education institutes, the SLDF 2004 under the theme ‘Innovation Island’, is taking place at the Cinnamon Life at City of Dreams, Sri Lanka.
+
+The festival, celebrating its 15th anniversary, will feature a series of high-profile events including the headline event Mercedes-Benz Fashion Week (MBFW) featuring Sri Lanka’s leading design talent alongside South Asian designers, a cornerstone of the SLDF which celebrates the vital contribution of creative industries in powering economic resurgence and social transformation.
+
+...
+
+[Data](articles/f5f07e19.json)
+
+[Extended Data](ext_articles/f5f07e19.ext.json)
+
+---
+
+### Optimism over corporate quarterly results exerts positive impact on bourse
+
+*2024-11-09 01:19:00* · [`islandlk`](http://island.lk/optimism-over-corporate-quarterly-results-exerts-positive-impact-on-bourse/) · `en`
+
+Stock market behaviour yesterday was somewhat positive yet volatile due to the forthcoming general election. But investors are optimistic that corporate quarterly results that are expected soon would be satisfactory, market analysts said.
+
+Amid those developments both indices moved slightly upwards. The All Share Price Index went up by 74 points, while the S and P SL20 too rose by 2.6 points. Turnover stood at Rs 2.04 billion with one crossing.
+
+The crossing was reported in Royal Ceramic, which crossed 1.6 million shares to the tune of Rs 52 million; it’s shares traded at Rs 32.
+
+...
+
+[Data](articles/c1332b2e.json)
+
+[Extended Data](ext_articles/c1332b2e.ext.json)
+
+---
 
 ### Manusha criticises NPP for fielding ‘anti-progress’ candidates
 
@@ -229,6 +309,20 @@ Pelwatte Dairy has made a significant leap forward in Sri Lanka’s dairy sector
 [Data](articles/28c5cfa6.json)
 
 [Extended Data](ext_articles/28c5cfa6.ext.json)
+
+---
+
+### ‘Navigating the tough challenges of immigration with Ardent’
+
+*2024-11-09 00:09:00* · [`islandlk`](http://island.lk/navigating-the-tough-challenges-of-immigration-with-ardent/) · `en`
+
+Colombo, Monday 21st October 2024: The search for greener pastures overseas can be a challenging one, especially when one does not know the right process and legal requirements for migration. Whether it be skilled migration, student visas or moving your family across the globe, it is imperative to have the right kind of support to ensure that the process is stress free.
+
+Ardent Immigration Inc., a renowned name in migration consultancy has dedicated themselves to ensuring that those seeking to migrate to Canada have the end-to-end support through the rigorous process. Ardent boasts years of effective consultancy, and hundreds of migration success stories.
+
+...
+
+[Data](articles/9fd1f298.json)
 
 ---
 
@@ -2287,133 +2381,5 @@ Nevertheless, the sophisticated equipment is not true, the source of sophisticat
 [Data](articles/878e615c.json)
 
 [Extended Data](ext_articles/878e615c.ext.json)
-
----
-
-### World's exciting island - Sri Lanka
-
-*2024-11-08 13:24:06* · [`adalk`](https://www.ada.lk/breaking_news/ලොව-ආකර්ෂණීයතම-සංචාරක-දූපත----ශ්‍රී-ලංකාවට-හිමිතැන/11-412927) · `si`
-
-Sri Lanka wins top award in Wanderlust Reader Travel Awards, moving from 8th to 1st place in tourism rankings. The country's exciting islands attract global attention.
-
-🟩
-
-Sri Lanka has won the Gold Award for the Sri Lanka Wanderlus't Reader Travel Awards, organized by the world's attractive tourism island, Wanderlus't Reader Travel Awards Awards. Sri Lanka was 8th in the 8th last year, and the first place to be held this year's tourism industry.
-
-◼️
-
-[Data](articles/e513142b.json)
-
-[Extended Data](ext_articles/e513142b.ext.json)
-
----
-
-### The General Election leave for all schools in the island
-
-*2024-11-08 13:23:42* · [`adalk`](https://www.ada.lk/breaking_news/මහමැතිවරණයට-නොවැම්බර්-13-සිට-දිවයිනේ-සියලුම-පාසල්-සඳහා-නිවාඩු/11-412926) · `si`
-
-Schools close Nov 13-14 due to elections. Ministry of Education announces reopening on Nov 11. School hours to be adjusted based on local election commission instructions.
-
-🟩
-
-The Ministry of Education will be closed by the Ministry of Education on November 13 and 14, on the request made by the election of the election commissions at the age of 14 of this month.. The Ministry of Education has also said that schools will be started on 1724-11-11.
-
-Accordingly. Ministry of National Officers should be handed over to the relevant Grama Niladhari, the school hours.Announced.
-
-The Ministry of Elections will also be taken to grant leave only during the period of time in the relevant schools as stated as the Election Commission Chairman of the Election Commission.
-
-◼️
-
-[Data](articles/5a416db6.json)
-
-[Extended Data](ext_articles/5a416db6.ext.json)
-
----
-
-### Sivajilingam meets with Murugan, Nalini
-
-*2024-11-08 13:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முருகன்-நளினியுடன்-சிவாஜிலிங்கம்-சந்திப்பு/175-346772) · `ta`
-
-Sivajilingam visits Murugan, Nalini after release. Discusses daughter's travel plans to London.
-
-🟩
-
-Former MP MK Sivajilingam met Murugan and Nalini, who was released in the Rajiv Gandhi murder case on Thursday (07).
-
-Secretary General of Tamil National Party. K. Sivajilingam has visited Murugan's residence in Ithavu area.
-
-Murugan's wife Nalini is also present. MK had gone to the Vellore jail in Tamil Nadu and had to stay in Tamil Nadu for medical treatment when they were released when they were released.. Said Sivajilingam.
-
-MK Sivajilingam added that Murugan and Nalini had applied for their daughter to go to their daughter in London and that their daughter had re -applied and they were waiting for the decision.
-
-◼️
-
-[Data](articles/a84f03df.json)
-
-[Extended Data](ext_articles/a84f03df.ext.json)
-
----
-
-### Port officials brief minister on serious delays in container clearances
-
-*2024-11-08 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103255/port-officials-brief-minister-on-serious-delays-in-container-clearances) · `en`
-
-Minister Vijitha Herath made a visit to the Colombo Port on Thursday (7) to look into the existing issues including a delay in container clearances.
-
-There, the officials shared their concerns over the persistent delays in container clearances which have been ongoing for about two years.
-
-They pointed out that, about two to three years ago despite following all the methods, around 1,800 to 2,000 containers could be dispatched from the port daily.
-
-However, they noted that recently, there have been several irregularities in the container clearance process and even when a token number is assigned for container clearance, the containers do not exit the port in the proper order.
-
-Additionally, the officials also revealed that the causes for the delays are that some of the workers are performing their duties while under the influence of alcohol, while others have been neglecting their duties and attending funerals.
-
-...
-
-[Data](articles/a19bd9bc.json)
-
-[Extended Data](ext_articles/a19bd9bc.ext.json)
-
----
-
-### Court order to give a statement under the CID
-
-*2024-11-08 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203036) · `si`
-
-Court orders CID financial crime unit to investigate money laundering case.
-
-🟩
-
-Kaduwela Magistrate's Court today (08) has ordered that the Criminal Investigation Department's Financial Criminal Investigation Unit.
-
-The order has been issued in connection with the case of an investigation into money laundering.
-
-Accordingly, the Financial Criminal Investigation Unit of the Criminal Investigation Department (CID) The unit is due to be informed to appear before the unit.
-
-◼️
-
-[Data](articles/ccc0586d.json)
-
-[Extended Data](ext_articles/ccc0586d.ext.json)
-
----
-
-### Tax paying of Rs.
-
-*2024-11-08 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203035) · `si`
-
-Colombo Magistrate's Court orders six-month jail term on bail for VAT default. Court of Appeal grants bail on 12th after reviewing appeal.
-
-🟩
-
-Colombo Magistrate's Court demands the release of six months in prison on bail due to the default of VAT. M. The Court of Appeal was ordered that the bail application on the 12th of this month, the bail application has been declared on the 12th.
-
-The Court of Appeal issued the Court after considering a Rit petition filed for them to demand him on bail.
-
-◼️
-
-[Data](articles/a539588f.json)
-
-[Extended Data](ext_articles/a539588f.ext.json)
 
 ---

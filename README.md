@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 23:59:50**
+As of **2024-11-10 00:12:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,913 (100.0%) of 53,917 articles have been extended.
+53,917 (100.0%) of 53,917 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -280,6 +280,8 @@ The US Justice Department in a statement said the Islamic Revolutionary Guard Co
 
 [Data](articles/5a7ba237.json)
 
+[Extended Data](ext_articles/5a7ba237.ext.json)
+
 ---
 
 ### Dilith is ready to take over any challenge - Dilith
@@ -302,39 +304,59 @@ Dilith Jayaweera, the Leader of the Unwagered power is ready to take over the NM
 
 ---
 
-### சசிகுமார் நடிக்கும் 'ஃப்ரீடம் ஓகஸ்ட் 14' படத்தின் புதிய பாடல் வெளியீடு
+### Sasikumar starrer 'Freedham August 14' new song release
 
 *2024-11-09 19:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198268) · `ta`
 
-'அயோத்தி', 'கருடன்', 'நந்தன்' என தொடர்ந்து வெற்றி படங்களை அளித்து வரும் நடிகர் சசிகுமார் கதையின் நாயகனாக நடித்திருக்கும் 'ஃப்ரீடம் ஓகஸ்ட் 14 'எனும் திரைப்படத்தில் இடம் பெற்ற 'ஆகாயம் அம்புட்டையும்' எனத் தொடங்கும் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Sasikumar stars in "Freedham August 14". New song "Akayam Ambuttum" released. Directed by Satya Siva. Produced by Vijay Ganapathi Pictures. Song written by Snegan, sung by Pradeep Kumar. Lyrics reflect mountain life and culture.
 
-இயக்குநர் சத்ய சிவா இயக்கத்தில் உருவாகி வரும் 'ஃப்ரீடம் ஓகஸ்ட் 14' எனும் திரைப்படத்தில் சசிகுமார், லிஜா மோள் ஜோஸ், மாளவிகா அவினாஷ், போஸ் வெங்கட் ,ரமேஷ் கண்ணா, சுதேவ் நாயர்,  'பொய்ஸ்' மணிகண்டன் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-தமிழகத்திற்கு அடைக்கலமாக வருகை தரும் ஈழ ஏதிலிகளின் வாழ்வியலை மையப்படுத்தி தயாராகி இருக்கும் இந்த திரைப்படத்தை விஜய கணபதி பிக்சர்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் பாண்டியன் பரசுராமன் தயாரித்திருக்கிறார்.
+Actor Sasikumar, who has been hit by 'Ayodhya', 'Garuda' and 'Nandan', has been released as the hero of the story of 'Freedam August 14' and the song 'Akayam Ambuttum', which is played in the movie 'Freedam August 14'.
 
-இப்படத்தின் ஃபர்ஸ்ட் லுக், டீசர் ஆகியவை வெளியாகி பெரும் வரவேற்பை பெற்றிருக்கும் நிலையில்.. இந்தத் திரைப்படத்தில் இடம்பெற்ற 'ஆகாயம் அம்புட்டையும் அள்ளிக்குதே மனசுதான்...' என தொடங்கும் பாடலும் , பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
+Directed by director Satya Siva, Sasikumar, Lija Mol Jose, Malavika Avinash, Bose Venkat, Ramesh Khanna, Sudhev Nair, 'Pois' Manikandan, directed by director Satya Siva.
 
-...
+The film is being produced by Vijay Ganapathi Pictures Company, produced by Pandiyan Parasuraman on behalf of Vijay Ganapathi Pictures.
+
+The first look and teaser of the film has been released.. The song 'Aekayam Ambuttu and Allikkuthe Manasuda ...' featured in the film has been released.
+
+The song is written by songwriter Snegan and sung by playback singer Pradeep Kumar.
+
+The lyrics are reflected in the life of the mountain and the mountain -based people and the charm of Jibran's charming mattine has attracted the attention of music fans everywhere.
+
+◼️
 
 [Data](articles/e916784a.json)
 
+[Extended Data](ext_articles/e916784a.ext.json)
+
 ---
 
-### ஆர். ஜே. பாலாஜி நடிக்கும் 'சொர்க்கவாசல்' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+### R. J.. The announcement of the release date of Balaji starring 'Parakavasal'
 
 *2024-11-09 19:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198274) · `ta`
 
-இயக்குநரும், நடிகருமான ஆர். ஜே. பாலாஜி கதையின் நாயகனாக உணர்வுபூர்வமான கதாபாத்திரத்தில் நடித்திருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக பிரத்யேக காணொளியுடன் அறிவிக்கப்பட்டிருக்கிறது.
+Balaji stars in "Parakavasal" directed by Siddharth Viswanath. Release date announced with special video. Film focuses on prisoner life, produced by Swipe Right Studios, Think Studios, and SNS Movie Production LLP. Exclusive scenes attract fans.
 
-அறிமுக இயக்குநர் சித்தார்த் விஸ்வநாத் இயக்கத்தில் உருவாகி இருக்கும் 'சொர்க்கவாசல்' எனும் திரைப்படத்தில் ஆர். ஜே. பாலாஜி, கருணாஸ், செல்வராகவன், நட்டி என்கிற நட்ராஜ், பாலாஜி சக்திவேல், சானியா ஐயப்பன், ஷஃரப் உதீன், ஹக்கீம் ஷா, மௌரிஷ் தாஸ்,  ரவி ராகவேந்திரா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+🟩
 
-பிரின்ஸ் ஆண்டர்சன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு கிறிஸ்டோ சேவியர் இசையமைத்திருக்கிறார். சிறைகைதிகளின் வாழ்வியலை மையப்படுத்திய இந்தத் திரைப்படத்தை ஸ்வைப் ரைட் ஸ்டுடியோஸ் , திங்க் ஸ்டுடியோஸ், எஸ் என் எஸ் மூவி புரொடக்‌ஷன் எல் எல்பி ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+Director and actor r. J.. The release date of the film 'Parakavasal', which plays the hero of Balaji's story, has been officially announced with a special video.
 
-இந்தத் திரைப்படத்தின் பர்ஸ்ட் லுக் வெளியாகி பெரும் வரவேற்பு பெற்ற நிலையில் இப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+In the film 'Parakavasal' directed by Siddharth Viswanath. J.. Balaji, Karunas, Selvaraghavan, Naty alias Natraj, Balaji Sakthivel, Sania Iyappan, Shafraf Udin, Hakeem Shah, Maurish Das, Ravi Raghavendra and many others.
 
-...
+Christo Xavier has composed the film, which is being recorded by Prince Anderson. The film, focusing on the life of the prisoners, has been co -produced by Swipe Right Studios, Think Studios and SNS Movie Production LLP.
+
+The release date of the film has been officially announced as the film's Burst Look has been released.
+
+The film has been announced on the 29th of this month at the film House.
+
+The filmmakers have said that the scenes featured on the exclusive video released for this are attracted by the fans.
+
+◼️
 
 [Data](articles/3bd0aa5d.json)
+
+[Extended Data](ext_articles/3bd0aa5d.ext.json)
 
 ---
 
@@ -539,6 +561,8 @@ In education sector there was strong competition. Hemas said it cut prices while
 ...
 
 [Data](articles/36dbd034.json)
+
+[Extended Data](ext_articles/36dbd034.ext.json)
 
 ---
 

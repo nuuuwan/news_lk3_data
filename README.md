@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 14:40:17**
+As of **2024-11-09 14:58:43**
 
 ## Newspaper Stats
 
-*Scraped **53,867** Articles*
+*Scraped **53,871** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 419
+dbsjeyarajcom | 420
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,217
@@ -17,20 +17,62 @@ economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,033
-adaderanalk | 6,419
+adaderanalk | 6,421
 tamilmirrorlk | 7,516
 virakesarilk | 8,721
-adaderanasinhalalk | 9,389
+adaderanasinhalalk | 9,390
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,867 (100.0%) of 53,867 articles have been extended.
+53,871 (100.0%) of 53,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### A technical error on a SriLankan flight
+
+*2024-11-09 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203068) · `si`
+
+SriLankan Airlines cancels Melbourne-bound flight due to technical issue. Passengers rebooked on alternative aircraft departing next day at midnight.
+
+🟩
+
+SriLankan Airlines Communications Communication Division says that a SriLankan Airlines set to depart to Melbourne in Melbourne, Australia.
+
+Head of Deepal Perera said that the airplane was to be canceled at the Bandaranaike International Airport in the Bandaranaike International Airport, Katunayake at 12:30 am today.
+
+Accordingly, SriLankan Airlines has taken steps to dispatch passengers through other alternative aircraft on emergency.
+
+The other passengers will be taken to Melbourn in Australia at 12.30 am tomorrow (10).
+
+◼️
+
+[Data](articles/45b483a5.json)
+
+[Extended Data](ext_articles/45b483a5.ext.json)
+
+---
+
+### ‘Sarvajana Balaya’ offers path to desired political change in Sri Lanka – Dilith
+
+*2024-11-09 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103277/sarvajana-balaya-offers-path-to-desired-political-change-in-sri-lanka-dilith) · `en`
+
+The leader of the ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate Dilith Jayaweera stated that the alliance has created an opportunity for the people to make the choice needed to bring about Sri Lanka’s desired political change.
+
+Speaking this morning (09) at a public meeting in the Galle District, aspart of a series of campaign events for the upcoming general election, Jayaweera said, “It has taken us less than a year for this opportunity to arise. When we ran in the presidential election, we didn’t even know a single Grama Niladhari officer. Today, we have a large camp and a widespread network.”
+
+“We are competing in all 22 districts, with strong candidate lists everywhere. We have given you a real chance to make the political change that Sri Lanka has longed for,” he added.
+
+◼️
+
+[Data](articles/65f43bb5.json)
+
+[Extended Data](ext_articles/65f43bb5.ext.json)
+
+---
 
 ### The person who planned to kill Trump- was responsible for attacking Jews in Sri Lanka- USA
 
@@ -980,6 +1022,24 @@ The group was reportedly arrested while staying in a house in the Narahenpita ar
 
 ---
 
+### 58 arrested in Colombo by CID over online scams
+
+*2024-11-09 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103268/58-arrested-in-colombo-by-cid-over-online-scams-) · `en`
+
+A group of 58 Sri Lankans suspected to be involved in online financial fraud have been arrested by the Criminal Investigations Department (CID) at Havelock Road in Colombo.
+
+The group was reportedly arrested while staying in a luxury housing complex at Havelock Road.
+
+The CID is conducting further investigations into the arrested suspects.
+
+◼️
+
+[Data](articles/69e96347.json)
+
+[Extended Data](ext_articles/69e96347.ext.json)
+
+---
+
 ### Warning issued for heavy rain in several provinces
 
 *2024-11-09 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103267/warning-issued-for-heavy-rain-in-several-provinces) · `en`
@@ -1193,6 +1253,26 @@ President Dissanayake made a smart decision to dissolve parliament after winning
 [Data](articles/8d46b79c.json)
 
 [Extended Data](ext_articles/8d46b79c.ext.json)
+
+---
+
+### Multi-faceted  Tamil Actor Kamal Haasan is a Great Intellectual Among  Indian Film Stars.
+
+*2024-11-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85024) · `en`
+
+(Article Denoting Kamal Haasan’s 70th Birth Anniversary on 7 November 2024)
+
+Srinivasan Kamal Haasan known popularly as Kamal Haasan and/or Kamal is arguably the finest actor in Tamil cinema today. He is also acknowledged as being one of India’s foremost thespians.The multi-faceted artiste is a film director, producer, screenwriter, film lyricist, poet, dancer, choreographer and playback singer.
+
+The 70 year old actor, whose screen debut was in 1960 as a child artiste, has acted in  233 films and won many awards and laurels. His adulatory fans hail their idol as “Ulaga Naayagan” or global hero.
+
+Kamal Haasan has often  been compared to Hollywood’s Tom Cruise as an action hero though the former’s acting skills are far above those of the latter.
+
+...
+
+[Data](articles/7c38c490.json)
+
+[Extended Data](ext_articles/7c38c490.ext.json)
 
 ---
 
@@ -2159,101 +2239,5 @@ The President added that a allowance would be given to children who cannot buy s
 [Data](articles/4419ed34.json)
 
 [Extended Data](ext_articles/4419ed34.ext.json)
-
----
-
-### Police arrest 11 candidates who broke out election laws
-
-*2024-11-08 18:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203049) · `si`
-
-Sri Lanka police arrest 11 candidates for election law violations amid 340 complaints. Over 1 million posters removed, 500k taken custody. Elections Commission reports 150 new complaints, mostly for violating election laws.
-
-🟩
-
-DIG, Media Spokesperson Attorney at Law Nihal Talduuwa said that the Sri Lankan police have received 340 complaints regarding the parliamentary election.
-
-He said that 364 persons have been arrested in connection with election laws this afternoon and 11 of them and 356 candidates were arrested.
-
-Among the complaints have received 54 complaints of criminal nature and 286 in violation of election law violations.
-
-Meanwhile, more than one million posters have been removed, and nearly a large number of past five hundred thousand has been taken into custody.
-
-Another 1,010 cuts have been taken into custody to remove 855 banners and another 458.
-
-Police Media Spokesperson DIG Nihal Talduuwa further stated that more than 645 leaflets have been taken into custody.
-
-Meanwhile, the Elections Commission says that the number of complaints received regarding the general election has further increased.
-
-Issuing a statement and the number of complaints received by 150 complaints received by yesterday.
-
-...
-
-[Data](articles/2a564ad9.json)
-
-[Extended Data](ext_articles/2a564ad9.ext.json)
-
----
-
-### Allowance for school children who can’t afford stationary books, equipment – President
-
-*2024-11-08 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103264/allowance-for-school-children-who-cant-afford-stationary-books-equipment-president) · `en`
-
-President Anura Kumara Dissanayake says an allowance will be provided for school children who are unable to purchase stationary books and equipment.
-
-He stated that this will be provided when the new school term begins at the end of January next year.
-
-President Dissanayake revealed this while addressing a public meeting in Kegalle on Friday (08).
-
-◼️
-
-[Data](articles/a8b552c9.json)
-
-[Extended Data](ext_articles/a8b552c9.ext.json)
-
----
-
-### Allowance for school children who can’t afford books and equipment – President
-
-*2024-11-08 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103264/allowance-for-school-children-who-cant-afford-books-and-equipment-president) · `en`
-
-President Anura Kumara Dissanayake says an allowance will be provided for school children who are unable to purchase stationary books and equipment.
-
-He stated that this allowance will be provided when the new school term begins at the end of January next year.
-
-President Dissanayake revealed this while addressing a public meeting in Kegalle on Friday (08).
-
-“The new school term will begin in the end of January. We will provide an allowance for all children who are unable to properly purchase school books and school equipment, when children go to school in the new term.”
-
-He stated that the National People’s Power (NPP) government will increase the salaries of public sector employees through its very first budget.
-
-President Dissanayake added that instructions have already been issued to divisional secretariats to allow those who are not receiving the ‘Aswesuma’ welfare benefits to once again present appeals.
-
-...
-
-[Data](articles/f284a5a7.json)
-
-[Extended Data](ext_articles/f284a5a7.ext.json)
-
----
-
-### Sri Lanka rupee closes flat at 292.50/65 to dollar, bonds down
-
-*2024-11-08 18:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-flat-at-292-50-65-to-dollar-bonds-down-186679/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed broadly steady at 292.50/65 to the US dollar Friday from 292.55/65 to the US dollar on Thursday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed at 10.40/55 percent, down from 10.40/60 percent.
-
-A bond maturing on 15.12.2027 closed at 11.30/35 percent, down from 11.30/45 percent.
-
-A bond maturing on 15.03.2028 closed at 11.55/60 percent, down from 11.65/70 percent.
-
-The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
-
-◼️
-
-[Data](articles/fc295580.json)
-
-[Extended Data](ext_articles/fc295580.ext.json)
 
 ---

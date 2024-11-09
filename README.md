@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 15:40:02**
+As of **2024-11-09 15:58:54**
 
 ## Newspaper Stats
 
-*Scraped **53,873** Articles*
+*Scraped **53,877** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 420
+dbsjeyarajcom | 421
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,217
@@ -17,20 +17,78 @@ economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,033
-adaderanalk | 6,421
+adaderanalk | 6,423
 tamilmirrorlk | 7,516
 virakesarilk | 8,721
-adaderanasinhalalk | 9,392
+adaderanasinhalalk | 9,393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,873 (100.0%) of 53,873 articles have been extended.
+53,874 (100.0%) of 53,877 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Iranian charged over plot to kill Trump was also told to target Israeli tourists in Sri Lanka - US
+
+*2024-11-09 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103279/iranian-charged-over-plot-to-kill-trump-was-also-told-to-target-israeli-tourists-in-sri-lanka-us) · `en`
+
+The U.S. Department of Justice has on Friday charged an “Iranian asset Farhad Shakeri,” who is accused in a plot to assassinate then-presidential candidate Donald Trump, and claim that he was also tasked with targeting Israeli tourists in Sri Lanka.
+
+The Justice Department on Friday announced federal charges in a thwarted Iranian plot to kill Donald Trump before the presidential election.
+
+According to court documents, Iranian officials asked Farhad Shakeri, 51, in September to focus on surveilling and ultimately assassinating Trump. Shakeri is still at large in Iran, the Justice Department said.
+
+This is a newly disclosed plot and marks yet another alleged attempt on Trump’s life by the Iranian regime, the CNN reported.
+
+...
+
+[Data](articles/80e5e6aa.json)
+
+---
+
+### එදා ඡන්දෙ නොදුන් අයත් දැන් සහාය දෙන බව ජනපති කියයි
+
+*2024-11-09 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203071) · `si`
+
+ළමා පරපුරට විධිමත් අධ්‍යාපනයක් ලබාදීම හරහා මෙරට දිළිඳුභාවය තුරන් කිරීමේ ප්‍රතිසංස්කරණ ක්‍රියාත්මක කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+"පසුගිය ජනාධිපතිවරණයේ අපේක්ෂා කළේ තාත්තාගෙන් පුතාට බලය. ආණ්ඩුව හසුරවපු ජනාධිපතිවරයා අපේක්ෂා කළෙත්, මාමගෙන් බෑණට බලය. හැබැයි මේ රටේ ජනතාව සැප්තැම්බර් මාසේ 21වනදා ඒ සියලු දූෂිත විනාශකාරී පවුල් පරදවලා පොදුජනතාවගේ අතට බලය මාරු කරලා තියෙනවා."
+
+"ඒ දූෂිත ප්‍රභූ සංස්ථා කවතාවත් හිතුවේ නෑ තමන්ට තමන්ගේ  ජීවිත කාලය ඇතුළත මෙවැනි ඉරණමක් අත්වෙයි කියලා. මතක තියාගන්න ආයේ බලය ඒ අයගේ අතට මාරුවෙන්නෙ නෑ කියලා."
+
+"අපේ ආණ්ඩුවේ ප්‍රමුඛතම ව්‍යාපෘතිය තමයි ග්‍රාමීය දුප්පත්භාවය තුරන් කිරීම. හොඳ අධ්‍යාපනයක්, දැනුමක් ආණ්ඩුවක් විසින් ලබාදෙන්න පුළුවන් නම්, පවුල දුප්පත් දරුවා උගත්නම් අද ඒ පවුල දුප්පත්භාවයෙන් ගොඩ එනවා. හැබැයි පවුලත් දුප්පත් නම් දරුවත් නූගත්නම් ඒ පවුලත් දුප්පත්, දරුවගේ පවුලත් දුප්පත්. මේක චක්‍රීය දුප්පත්භාවය පිළිබඳ අර්බුදයක්."
+
+"ඒ නිසා අපි අධ්‍යාපනයේ විශාල ප්‍රතිසංස්කරණයක් ඇති කරලා හැම දරුවාම පාසලෙන් එළියට එන්නේ අධ්‍යාපනය පිළිබඳව හෝ වෘත්තීමය ලෙස අනායතයට පාර හදාගෙන."
+
+...
+
+[Data](articles/5576ec9e.json)
+
+---
+
+### More details revealed on 58 arrested over online scams at luxury apartment in Colombo
+
+*2024-11-09 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103278/more-details-revealed-on-58-arrested-over-online-scams-at-luxury-apartment-in-colombo) · `en`
+
+More information has been revealed about a group of 58 Sri Lankans who were arrested by the Criminal Investigation Department (CID) on suspicion of involvement in committing online financial fraud.
+
+The group was reportedly apprehended while residing in a luxury apartment complex on Havelock Road in Colombo last afternoon (08). The suspects are scheduled to be produced before the Colombo Magistrate’s Court today (09).
+
+The arrests were made based on information received by the Computer Crime Investigation Division (CCID) of the CID, which indicated that the suspects were allegedly defrauding money through the internet while residing at the luxury apartment complex.
+
+During the raid, a total of 58 suspects, all of whom are Sri Lankan citizens, were arrested, police said.
+
+...
+
+[Data](articles/0b5d78c8.json)
+
+[Extended Data](ext_articles/0b5d78c8.ext.json)
+
+---
 
 ### Ministry of Finance Anshirasing over the Norosalhe Company
 
@@ -1326,6 +1384,22 @@ Kamal Haasan has often  been compared to Hollywood’s Tom Cruise as an action h
 
 ---
 
+### 
+
+*2024-11-09 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85028) · `en`
+
+“ Parliament must be inclusive and representative of all ethnicities, caste and gender. It must also be a space where workers have representatives to speak for them. I am a woman, a Tamil and a Trade Unionist. The people and the politics we represent must have a space in Parliament.”-Swasthika Arulingam
+
+Passed out as a lawyer from the Colombo Law College and having two Master-LLM from the University of Colombo and a LLM and Development as a Chevening Scholar at School of Oriental and African Studies, University of London, young activist Swastika Arulingam was a prominent figure in the Aragalaya (Protest) which toppled the Gotabaya Rajapaksa government.
+
+She has been a fearless voice and as a legal representative played her part to protect those who were beaten up by political goons of Rajapaksa government and those taken into custody and incarcerated on various allegations.
+
+...
+
+[Data](articles/64e4e63b.json)
+
+---
+
 ### Scenting  the Sweet Smell of Success! How and Why Anura Kumara Dissanayake Anticipated Victory  in  the 2024 Presidential Race.
 
 *2024-11-09 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=84997) · `en`
@@ -2117,121 +2191,5 @@ Israel on October 23 asked its citizens to avoid non-essential travel to Sri La
 [Data](articles/59be797d.json)
 
 [Extended Data](ext_articles/59be797d.ext.json)
-
----
-
-### Aussie. International ODIs for Pakistan 7 years later in the soil
-
-*2024-11-08 19:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198227) · `ta`
-
-Pakistan wins 2nd ODI vs Australia, 1st victory in 7 years on Aussie soil. Balanced series 1-1. Haris Rauf (5/29) and Shaheen Afridi (3/26) star in 9-wicket win. Saim Ayub (82*) and Abdullah Shafiq (64*) lead Pakistan's chase.
-
-🟩
-
-Pakistan won by 9 wickets in the second international ODI at the Adelaide Oval Stadium today.
-
-This is Pakistan's first win in the international ODIs after 7 years on Australian soil.
-
-With this victory, Pakistan balanced the three -match international ODI series as 1 - 1.
-
-Australia won by 2 wickets in the first match of the Melbourne Cricket Stadium four days ago.
-
-In the second match, Haris Rauf's 5 -wicket pile, Shaheen Shah Abridi's accurate bowling, and the half -centuries accumulated by Saim Ayub and Abdullah Shafiq made Pakistan easily.
-
-Australia lost all wickets in 35 overs and curled up for 163 runs.
-
-Steven Smith was only somewhat talent in the match and scored 35 runs. No one else reached 20 runs.
-
-Haris Rauf took 5 wickets for 29 runs while Shaheen Shah Abaridi took 3 wickets for 26 runs.
-
-In reply, Pakistan scored 169 runs in 26.3 overs and scored 169 runs.
-
-Sym Ayub scored 82 runs with 6 sixes, Abdullah Shafiq scored 64 runs, including 4 pounds and 3 sixes.
-
-...
-
-[Data](articles/3da8e784.json)
-
-[Extended Data](ext_articles/3da8e784.ext.json)
-
----
-
-### New circular on students using WhatsApp
-
-*2024-11-08 19:40:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-WhatsApp-பயன்படுத்துவது-குறித்து-புதிய-சுற்றறிக்கை/175-346794) · `ta`
-
-Circular issued by Ministry of Education regarding WhatsApp usage in schools. Emphasizes monitoring, educational purposes, privacy concerns, and potential disciplinary actions.
-
-🟩
-
-A circular has been sent to all principals, including education officials, by JMT Jayasundara, Secretary to the Ministry of Education, Science and Technology, regarding the use of social media processors such as WhatsApp in school educational activities.
-
-The circular pointed out that the use of social contact processors such as WhatsApp, Viper and Telegram has been introduced to provide missing education opportunities to school children due to the Kovit-19 epidemic and students are still using the processors.
-
-It is said that the ministry is currently informed of the adverse consequences.
-
-Accordingly, all the teachers and the relevant parties have been informed that the following instructions will be operated when using communication processors.
-
-...
-
-[Data](articles/70fa0e6c.json)
-
-[Extended Data](ext_articles/70fa0e6c.ext.json)
-
----
-
-### Meeting between Prime Minister's Secretary and British High Commission
-
-*2024-11-08 19:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198226) · `ta`
-
-British High Commissioner congratulates Sri Lanka on economic development, anti-corruption efforts, and national security. Prime Minister's Secretary emphasizes agriculture, education, and health sector development. Bilateral relations strengthened through new trade routes and tourism promotion.
-
-🟩
-
-The meeting between the Prime Minister's Secretary Pradeep Habudhantri and the British High Commission, Andrew Patrick, took place on Friday (7) at the Prime Minister's Office.
-
-The British High Commissioner congratulated the Sri Lankan government to accelerate economic development through domestic and foreign debt, implementing the anti -corruption bill and ensuring national security.
-
-Prime Minister Secretary Pradeep Habudhantri said that the new government has dedicated himself to the development of the agriculture sector and the development of the agriculture sector and the development of education and health.
-
-Focusing on further strengthening the bilateral contact between the two -nation is further strengthening the introduction of new routes and improving the tourism trade.
-
-Officials including the first secretary of the British High Commission's Office (Political) Tom Soper and FCDO Senior Advisor Ben Powis were present.
-
-◼️
-
-[Data](articles/b152f7a4.json)
-
-[Extended Data](ext_articles/b152f7a4.ext.json)
-
----
-
-### Is it a suspicion that Sujeewa's comfort was assive?
-
-*2024-11-08 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203051) · `si`
-
-Sujeewa Senasinghe's luxury jeep investigation: Suspicion of illegal assembly, CID probe ongoing, vehicle seized for forensic analysis.
-
-🟩
-
-The Criminal Investigation Department has launched an investigation on information that the luxury jeep was assembled by former Minister of State Minister Sujeewa Senasinghe.
-
-Accordingly, the Government Analyst was referred to the vehicle for further investigations.
-
-Former State Minister Sujeewa Senasinghe has recently received information that the Walana Corrupt Association has recently assembled the luxury jeep of Toyata Land V8.
-
-Accordingly, Senasinghe's residence was investigated recently, a suspicious vehicle was not found.
-
-The Investigation Department (IP) has submitted to the Public Complaints Division of the Criminal Investigation Department on the instructions of the acting IGP.
-
-Investigations have been reported from the Fort Magistrate's Court today (Fort).
-
-The Investigation Officeries said that he had a luxury vehicle in the house of Senasinghe at the Kollupitiya at the time of his minister to the CID.
-
-...
-
-[Data](articles/d41290c5.json)
-
-[Extended Data](ext_articles/d41290c5.ext.json)
 
 ---

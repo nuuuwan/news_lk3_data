@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 21:59:30**
+As of **2024-11-09 22:13:10**
 
 ## Newspaper Stats
 
-*Scraped **53,908** Articles*
+*Scraped **53,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,270
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
-adaderanalk | 6,427
+adaderanalk | 6,429
 tamilmirrorlk | 7,526
 virakesarilk | 8,724
 adaderanasinhalalk | 9,404
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,908 (100.0%) of 53,908 articles have been extended.
+53,909 (100.0%) of 53,910 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### ‘Investment scam’ operating out of luxury apartment in Colombo defrauded over Rs. 300 mln
+
+*2024-11-09 21:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103285/investment-scam-operating-out-of-luxury-apartment-in-colombo-defrauded-over-rs-300-mln) · `en`
+
+The Computer Crime Investigation Division (CCID) of the Criminal Investigation Department (CID) has uncovered a large-scale online financial scams racket in Colombo.
+
+A total of 59 suspects, including two persons who headed the racket, were arrested on suspicion of orchestrating the scheme.
+
+According to police, the scammers targeted foreign nationals, defrauding victims of an estimated Rs. 300 million.
+
+The Korean Embassy in Sri Lanka filed a complaint with the CID on Thursday reporting that a Sri Lanka-based company by the name of ‘Wavetec,’ had scammed a Korean national out of approximately Rs. 300 million under the guise of business investments.
+
+According to the complaint, about US$ 1 million was obtained from the Korean national on several occasions under the pretext of investing in business activities, and later they had avoided paying back the money.
+
+...
+
+[Data](articles/7f146df1.json)
+
+---
+
+### Election complaints surge ahead of parliamentary poll
+
+*2024-11-09 21:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103284/election-complaints-surge-ahead-of-parliamentary-poll) · `en`
+
+The number of complaints received by the Election Commission in relation to the upcoming 2024 Parliamentary Poll has further increased.
+
+The Election Commission says that 160 more complaints have been received within yesterday (08).
+
+Accordingly, a total of 2,348 election complaints have been reported in connection with the parliamentary election from September 26 to November 08, the Election Commission said.
+
+Meanwhile, the Election Commission also says that 1,861 of the total number of complaints received have been resolved thus far.
+
+The General Election is scheduled to be held on November 14.
+
+◼️
+
+[Data](articles/584d16bf.json)
+
+[Extended Data](ext_articles/584d16bf.ext.json)
+
+---
 
 ### Fuel and electricity bills decrease;Assurance
 
@@ -2243,49 +2285,5 @@ Chabad House is not a synonym for synagogue. It is a religious space belonging t
 [Data](articles/61c6dea3.json)
 
 [Extended Data](ext_articles/61c6dea3.ext.json)
-
----
-
-### Manusha criticises NPP for fielding ‘anti-progress’ candidates
-
-*2024-11-09 00:36:52* · [`dailyftlk`](https://www.ft.lk/news/Manusha-criticises-NPP-for-fielding-anti-progress-candidates/56-769041) · `en`
-
-Says there is no one left to strike over public sector employee salaries as all are contesting under NPP ticket
-
-Commends NPP voters for carrying out national duty by revealing party’s weaknesses to country
-
-Claims past protests had cost country its potential as hub for global fuel trade
-
-Former Minister Manusha Nanayakkara has criticised the National People’s Power (NPP) party for fielding candidates who had previously gone on strike and halted national progress. Nanayakkara noted that those who once obstructed the development of Sri Lanka are now vying for power under the NPP banner, questioning their role in the nation’s current challenges.
-
-“Those who disrupted the country by opposing infrastructure projects and development initiatives are now contesting from the NPP. There’s no one left to strike over public sector employee salary increases now,” Nanayakkara said.
-
-...
-
-[Data](articles/14e41f4d.json)
-
-[Extended Data](ext_articles/14e41f4d.ext.json)
-
----
-
-### ECSL Chair appeals to citizens to vote on 14 November
-
-*2024-11-09 00:36:11* · [`dailyftlk`](https://www.ft.lk/news/ECSL-Chair-appeals-to-citizens-to-vote-on-14-November/56-769040) · `en`
-
-Urges all eligible voters to exercise their constitutional right to vote in upcoming election
-
-Highlights power of each citizen’s vote, emphasising that voting is not only a right but also a duty
-
-Election Commission of Sri Lanka (ECSL) Chairperson R.M.A.L. Ratnayake has urged all eligible voters in Sri Lanka to exercise their constitutional right to vote in the upcoming election on 14 November. Addressing a press conference yesterday, Ratnayake highlighted the power of each citizen’s vote, emphasising that voting is not only a right but also a duty.
-
-“Voting is a right granted to you by the Constitution,” Ratnayake said. “It is your duty to exercise that right. Your vote is your power, so head to the polling stations on 14,” he urged.
-
-Ratnayake also provided updates on the election process, confirming that postal voting and the distribution of ballot papers have been completed. Voters who have not yet received their ballot papers were advised to visit the nearest post office to collect them.
-
-...
-
-[Data](articles/2ae14413.json)
-
-[Extended Data](ext_articles/2ae14413.ext.json)
 
 ---

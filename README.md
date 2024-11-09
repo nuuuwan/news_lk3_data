@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 20:10:40**
+As of **2024-11-09 20:40:29**
 
 ## Newspaper Stats
 
-*Scraped **53,903** Articles*
+*Scraped **53,904** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,217
 economynextcom | 3,270
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,034
+adalk | 5,035
 adaderanalk | 6,427
 tamilmirrorlk | 7,523
 virakesarilk | 8,724
@@ -26,21 +26,29 @@ adaderanasinhalalk | 9,403
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,902 (100.0%) of 53,903 articles have been extended.
+53,904 (100.0%) of 53,904 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### ඕනෑම අභියෝගයකදී ආණ්ඩුව භාර ගැනීමට සූදානම් - දිලිත්
+### Dilith is ready to take over any challenge - Dilith
 
 *2024-11-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203083) · `si`
 
-එඩිතර විපක්ෂයේ බලය ඉල්ලුවද ඕනෑම අභියෝගාත්මක අවස්ථාවකදි සර්වජන බලය ආණ්ඩුව භාරගැනීමට සූදානම් බව සර්වජන බලයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera claims readiness to lead NMOs, criticizes former president, mentions Wickremesinghe, and calls for unity against political destruction.
 
-...
+🟩
+
+Dilith Jayaweera, the Leader of the Unwagered power is ready to take over the NMOs to the government, even if the power of the opposition is asked,
+
+"Our former President now says that the sendering experienced to Parliament. Having experience of work, he destroyed his party.  සෙසු පැරණි පක්ෂ සියල්ලම විනාශ කළා. Finally, there was a party left in Sri Lanka's mainstream politics, Mr. Wickremesinghe was written by Mr. Wickremesinghe. Welcome to Nirini. Right now, is the Prime Minister. Handunnetti, Lal Kanththa, Vijitha, Tilvin, I remind you to remind them. They have a lot of deserving ones in the queue. But in front of. Because the manuel is in charge of the baby's lapse, Harini. When the Prime Minister of Harini was Prime Minister, there is no man in Sri Lanka. So we're doing today we can join the destruction of Sri Lankan politics to this destruction and bring together a politics. The Surgeoon Power Marks your affection for our medal. Then we can create the bold opposition. "
+
+◼️
 
 [Data](articles/fbbc00f2.json)
+
+[Extended Data](ext_articles/fbbc00f2.ext.json)
 
 ---
 
@@ -547,6 +555,34 @@ Later, the largest number of tourists came to Sri Lanka from Germany, British, A
 [Data](articles/6bfb0ba5.json)
 
 [Extended Data](ext_articles/6bfb0ba5.ext.json)
+
+---
+
+### Measuring between 20 to 30 years
+
+*2024-11-09 16:25:49* · [`adalk`](https://www.ada.lk/breaking_news/අවු-20---30-අතර-පිරිසට-සරම්ප-එන්නත්කරණය-අරඹයි/11-412938) · `si`
+
+Vaccination campaign targets 20-30 year olds. UNICEF, WHO attend event. Program covers 900k homes, 2k institutions. Special injection for youth aged 20-30. Implemented in 12 districts, 206 health centers. Also includes vaccine for children 9-15. Ministry announces special measles-rubella week from Nov 4-9.
+
+🟩
+
+Today, the vaccination of measures identified as 20 and 30 years of age have been identified and the identified youth have been identified.
+
+Dr. Palitha Maheepala's special observation was observed by Medical Palitha Maheepala, the Members of the Colombo Thalangama Regional Hospital in Colombo District and the International Medium Center (Clinic Home Center) at the Colombo Thalangama Regional Hospital.
+
+United Nations International Children's Fund (UNICEF) and representatives of the World Health Organization were also present.
+
+Speaking at the meeting, Dr. Palitha Mahipala said ...
+
+The health field staff covered 900,000 houses and more than 2,000 institutions that have been operated on the last 5 days of the RBBella Immunization Week.The program will be given to the youth of the youth of the 20 to 30 years of age between the ages of 20 and 30 years of age and only one dose of the ages of 20 to 30 years of age.
+
+The special injection program is also being implemented within 4 days.
+
+...
+
+[Data](articles/b374ba48.json)
+
+[Extended Data](ext_articles/b374ba48.ext.json)
 
 ---
 
@@ -2233,21 +2269,5 @@ The 2024 edition of Texpo attracted an impressive participation of over 900 dele
 [Data](articles/8bd3123f.json)
 
 [Extended Data](ext_articles/8bd3123f.ext.json)
-
----
-
-### Kudos for C Pearl White
-
-*2024-11-09 00:11:58* · [`dailyftlk`](https://www.ft.lk/business/Kudos-for-C-Pearl-White/34-769036) · `en`
-
-C Pearl White Founder and Managing Director Y. M. Chandi Gunarathna receiving the award
-
-Honoured as Most Trending Herbal Beauty Product at Entrepreneurial Excellence Awards
-
-...
-
-[Data](articles/f4784afa.json)
-
-[Extended Data](ext_articles/f4784afa.ext.json)
 
 ---

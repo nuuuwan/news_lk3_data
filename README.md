@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 20:59:22**
+As of **2024-11-09 21:10:18**
 
 ## Newspaper Stats
 
-*Scraped **53,904** Articles*
+*Scraped **53,906** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,71 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,427
-tamilmirrorlk | 7,523
+tamilmirrorlk | 7,524
 virakesarilk | 8,724
-adaderanasinhalalk | 9,403
+adaderanasinhalalk | 9,404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,904 (100.0%) of 53,904 articles have been extended.
+53,906 (100.0%) of 53,906 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Shocking news about the hexe attack
+
+*2024-11-09 20:47:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பை-தாக்குதல்-குறித்து-அதிர்ச்சி-செய்தி/175-346835) · `ta`
+
+Iranian citizen accused of terrorism in US presidential election-related attack on Israelis. US Department of Justice charges Burhat Shakari with involvement in shooting incident.
+
+🟩
+
+Shocking information has been revealed about the alleged terrorist attack on the hexagonal.
+
+There are currently information about an Iranian citizen who is suspected of being involved in the incident.
+
+The US Department of Justice has filed a charge sheet against a Iranian citizen of Burhat Shakari, who was assigned to kill and monitor Donald Trump during the US presidential election.
+
+The US Department of Justice has accused the Iranian citizen of the Iranian revolutionary forces to launch a massive gunfire targeting Israeli citizens in the area.. Remble
+
+◼️
+
+[Data](articles/194bbf47.json)
+
+[Extended Data](ext_articles/194bbf47.ext.json)
+
+---
+
+### Sri Lanka a target of 136
+
+*2024-11-09 20:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203084) · `si`
+
+Sri Lanka vs New Zealand: NZ bats first, scores 135/5. Zakary Foulkes 27*, Michael Bracewell 27*. Nuwan Thushara, Mathasha Pathirana, Veduin take wickets. Sri Lanka needs 136 to win. Match held at Dambulla.
+
+🟩
+
+Sri Lanka and New Zealand will be held at Dambulla.
+
+New Zealand won the advantage of the match and they decided to bat first.
+
+Accordingly, New Zealand scored 135 runs for the loss of 135.
+
+Zakary Foulketes scored 27 runs while Michael Bracewella scored 27 runs.
+
+Nuwan Thushara and Mathasha Pathirana and Veduin were wickets each.
+
+The Sri Lankan team owns 136 runs in the match.
+
+◼️
+
+[Data](articles/6e25f937.json)
+
+[Extended Data](ext_articles/6e25f937.ext.json)
+
+---
 
 ### Dilith is ready to take over any challenge - Dilith
 
@@ -2235,39 +2287,5 @@ Meanwhile, the President added that if the former presidents are to obtain some 
 [Data](articles/f73e9ceb.json)
 
 [Extended Data](ext_articles/f73e9ceb.ext.json)
-
----
-
-### Three Sinha Group of Companies wins Silver at CNCI Awards 2024
-
-*2024-11-09 00:13:14* · [`dailyftlk`](https://www.ft.lk/business/Three-Sinha-Group-of-Companies-wins-Silver-at-CNCI-Awards-2024/34-769038) · `en`
-
-Three Sinha Group of Companies Managing Director Manjula Ariyakumara receiving the award
-
-The Three Sinha Group of Companies received the Silver Award in the Large Category for the Manufacturing Sector at the Ceylon National Chamber of Industries (CNCI) Achievers’ Awards 2024. The award ceremony took place on 15 October at the Cinnamon Grand, Colombo, with Managing Director Manjula Ariyakumara accepting the award on behalf of the company. Established as a small-scale venture, Three Sinha has now transformed into a leader in the construction industry. Through hard work and dedication, the company has earned recognition both locally and internationally, including gold and silver awards at the CNCI Achievers’ Awards and the gold award at the Sri Lankan Entrepreneur of the Year Awards.
-
-◼️
-
-[Data](articles/e960d95e.json)
-
-[Extended Data](ext_articles/e960d95e.ext.json)
-
----
-
-### 28 Lankan firms at Pakistan’s premier textile and leather exhibition: Texpo
-
-*2024-11-09 00:12:38* · [`dailyftlk`](https://www.ft.lk/business/28-Lankan-firms-at-Pakistan-s-premier-textile-and-leather-exhibition-Texpo/34-769037) · `en`
-
-The 2024 edition of Texpo, Pakistan’s premier textile and leather exhibition, has successfully concluded, attracting a significant presence from Sri Lanka and around the world.
-
-Texpo, Pakistan’s leading textile and leather exhibition, organised by the Trade Development Authority of Pakistan (TDAP) was held from 23 to 25 October in Karachi. The event aimed to promote Pakistan’s textile and leather industries, fostering business collaborations and trade opportunities.
-
-The 2024 edition of Texpo attracted an impressive participation of over 900 delegates from 55 nations worldwide, featuring a strong contingent of 28 prominent Sri Lankan companies like Brandix Apparel Ltd., Hirdaramani International Exports Ltd., Timex Garments Ltd., Hameedia Garments Ltd., Star Garments, Harley’s Group, BATA and DSI, along with many more that showcased their expertise in textiles and leather.
-
-...
-
-[Data](articles/8bd3123f.json)
-
-[Extended Data](ext_articles/8bd3123f.ext.json)
 
 ---

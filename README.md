@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 15:58:54**
+As of **2024-11-09 16:11:23**
 
 ## Newspaper Stats
 
-*Scraped **53,877** Articles*
+*Scraped **53,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,033
 adaderanalk | 6,423
-tamilmirrorlk | 7,516
+tamilmirrorlk | 7,517
 virakesarilk | 8,721
 adaderanasinhalalk | 9,393
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,874 (100.0%) of 53,877 articles have been extended.
+53,877 (100.0%) of 53,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### பலப்படுத்தப்படும் பாதுகாப்பு
+
+*2024-11-09 15:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலப்படுத்தப்படும்-பாதுகாப்பு/175-346828) · `ta`
+
+எதிர்வரும் பொதுத் தேர்தலின் போது பாதுகாப்பை உறுதி செய்வதற்காக 90,000 பாதுகாப்புப் பணியாளர்கள் ஈடுபடுத்தப்படவுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸமா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+தேர்தலுக்குப் பிந்தைய பாதுகாப்பிற்காக நாடளாவிய ரீதியில் 3,109 நடமாடும் ரோந்துப் படையினரும் 269 வீதித் தடைகளும் 241 கலவர எதிர்ப்புக் குழுக்களும் ஈடுபடுத்தப்பட்டுள்ளதாகவும் அவர் தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/5c5e2e15.json)
+
+---
 
 ### Iranian charged over plot to kill Trump was also told to target Israeli tourists in Sri Lanka - US
 
@@ -48,25 +62,37 @@ This is a newly disclosed plot and marks yet another alleged attempt on Trump’
 
 [Data](articles/80e5e6aa.json)
 
+[Extended Data](ext_articles/80e5e6aa.ext.json)
+
 ---
 
-### එදා ඡන්දෙ නොදුන් අයත් දැන් සහාය දෙන බව ජනපති කියයි
+### President Mahinda Rajapaksa says that people who have not been elected
 
 *2024-11-09 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203071) · `si`
 
-ළමා පරපුරට විධිමත් අධ්‍යාපනයක් ලබාදීම හරහා මෙරට දිළිඳුභාවය තුරන් කිරීමේ ප්‍රතිසංස්කරණ ක්‍රියාත්මක කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Here's a 200-character summary:
 
-"පසුගිය ජනාධිපතිවරණයේ අපේක්ෂා කළේ තාත්තාගෙන් පුතාට බලය. ආණ්ඩුව හසුරවපු ජනාධිපතිවරයා අපේක්ෂා කළෙත්, මාමගෙන් බෑණට බලය. හැබැයි මේ රටේ ජනතාව සැප්තැම්බර් මාසේ 21වනදා ඒ සියලු දූෂිත විනාශකාරී පවුල් පරදවලා පොදුජනතාවගේ අතට බලය මාරු කරලා තියෙනවා."
 
-"ඒ දූෂිත ප්‍රභූ සංස්ථා කවතාවත් හිතුවේ නෑ තමන්ට තමන්ගේ  ජීවිත කාලය ඇතුළත මෙවැනි ඉරණමක් අත්වෙයි කියලා. මතක තියාගන්න ආයේ බලය ඒ අයගේ අතට මාරුවෙන්නෙ නෑ කියලා."
 
-"අපේ ආණ්ඩුවේ ප්‍රමුඛතම ව්‍යාපෘතිය තමයි ග්‍රාමීය දුප්පත්භාවය තුරන් කිරීම. හොඳ අධ්‍යාපනයක්, දැනුමක් ආණ්ඩුවක් විසින් ලබාදෙන්න පුළුවන් නම්, පවුල දුප්පත් දරුවා උගත්නම් අද ඒ පවුල දුප්පත්භාවයෙන් ගොඩ එනවා. හැබැයි පවුලත් දුප්පත් නම් දරුවත් නූගත්නම් ඒ පවුලත් දුප්පත්, දරුවගේ පවුලත් දුප්පත්. මේක චක්‍රීය දුප්පත්භාවය පිළිබඳ අර්බුදයක්."
+Sri Lankan leaders discuss education reform and poverty reduction. President Rajapaksa criticizes opponents, while Dissanayake pledges to improve education for children to combat poverty. Both emphasize the importance of education in breaking cycles of poverty.
 
-"ඒ නිසා අපි අධ්‍යාපනයේ විශාල ප්‍රතිසංස්කරණයක් ඇති කරලා හැම දරුවාම පාසලෙන් එළියට එන්නේ අධ්‍යාපනය පිළිබඳව හෝ වෘත්තීමය ලෙස අනායතයට පාර හදාගෙන."
+🟩
+
+President Anura Kumara Dissanayake says he will implement the poverty elimination reforms in Sri Lanka through a formal education for children.
+
+"The son of Dad was hostile to the last presidential election. The President who handled the government was expecting the neighborhood to the nephew. However, the people of this country have been able to defeat all these corrupt families on the 21st of September. "
+
+"It did not think that the same fate would lead to such a fate within his lifetime. Remember, they are on their own hands. "
+
+"Our government's leading project is the elimination of rural poorest. If a good education and knowledge may be given by a government, if the family is learned today, the family is building the family. But the family and the poor, poor, and the family of the poor, the family of the poor. This is a crisis of revolving poverty. "
+
+"Therefore, we have a large reform of education and produce the road to education or professionally."
 
 ...
 
 [Data](articles/5576ec9e.json)
+
+[Extended Data](ext_articles/5576ec9e.ext.json)
 
 ---
 
@@ -1398,6 +1424,8 @@ She has been a fearless voice and as a legal representative played her part to p
 
 [Data](articles/64e4e63b.json)
 
+[Extended Data](ext_articles/64e4e63b.ext.json)
+
 ---
 
 ### Scenting  the Sweet Smell of Success! How and Why Anura Kumara Dissanayake Anticipated Victory  in  the 2024 Presidential Race.
@@ -2173,23 +2201,5 @@ The National Building Research Institute said that if the rain continues to the 
 [Data](articles/fa92729b.json)
 
 [Extended Data](ext_articles/fa92729b.ext.json)
-
----
-
-### Sri Lanka sees 150 Israeli tourists in first 5 days of November despite advisories: data
-
-*2024-11-08 20:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-150-israeli-tourists-in-first-5-days-of-november-despite-advisories-data-186693/) · `en`
-
-ECONOMYNEXT – Sri Lanka has received 150 tourists from Israel in the first five days of November, official government data showed, weeks after threats over possible attack on a Eastern coastal tourism hotspot where more Israeli tourists gather.
-
-The number of tourists from Israel has increased to 22,063 as of November 5, compared to 21,913 at the end of October 31, the latest weekly tourism data showed.
-
-Israel on October 23 asked its citizens to avoid non-essential travel to Sri Lanka, leave coastal tourist areas including Arugam Bay and stop overt displays of Hebrew language in clothes or other signs that could lead to identification, following the US embassy in Colombo warned citizens not to travel to Arugam Bay in the island’s Eastern Coast as there was credible information of an attack.
-
-...
-
-[Data](articles/59be797d.json)
-
-[Extended Data](ext_articles/59be797d.ext.json)
 
 ---

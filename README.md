@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 01:40:09**
+As of **2024-11-10 01:58:54**
 
 ## Newspaper Stats
 
-*Scraped **53,917** Articles*
+*Scraped **53,918** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,429
-tamilmirrorlk | 7,527
+tamilmirrorlk | 7,528
 virakesarilk | 8,726
 adaderanasinhalalk | 9,406
 
@@ -26,9 +26,37 @@ adaderanasinhalalk | 9,406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,917 (100.0%) of 53,917 articles have been extended.
+53,918 (100.0%) of 53,918 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-10 (Sunday)
+
+### In the field of 50 foreign monitors
+
+*2024-11-10 01:30:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/50-வெளிநாட்டு-கண்காணிப்பாளர்கள்-களத்தில்/175-346838) · `ta`
+
+Sri Lanka's Election Commission announced 50 foreign monitors for general elections. EU monitors are already present. Asian Election Monitoring Network superintendents will visit soon. SAARC Zone and Russian observers invited.
+
+🟩
+
+The Election Commission said that 50 foreign monitors will be involved in general election monitoring.
+
+RMAL Ratnayake, Chairman of the Commission, said that the EU election monitors are already in Sri Lanka.
+
+The Election Commission has said that the superintendents of the Asian Election Monitoring Network will be visiting in the coming days.
+
+The Chairman of the Election Commission has stated that at the invitation of the Election Commission.
+
+SAARC Zone countries and Russia will come to Sri Lanka. (A)
+
+◼️
+
+[Data](articles/1b71792b.json)
+
+[Extended Data](ext_articles/1b71792b.ext.json)
+
+---
 
 ### 2024-11-09 (Saturday)
 
@@ -2331,25 +2359,5 @@ President Dissanayake made a smart decision to dissolve parliament after winning
 [Data](articles/8d46b79c.json)
 
 [Extended Data](ext_articles/8d46b79c.ext.json)
-
----
-
-### Multi-faceted  Tamil Actor Kamal Haasan is a Great Intellectual Among  Indian Film Stars.
-
-*2024-11-09 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85024) · `en`
-
-(Article Denoting Kamal Haasan’s 70th Birth Anniversary on 7 November 2024)
-
-Srinivasan Kamal Haasan known popularly as Kamal Haasan and/or Kamal is arguably the finest actor in Tamil cinema today. He is also acknowledged as being one of India’s foremost thespians.The multi-faceted artiste is a film director, producer, screenwriter, film lyricist, poet, dancer, choreographer and playback singer.
-
-The 70 year old actor, whose screen debut was in 1960 as a child artiste, has acted in  233 films and won many awards and laurels. His adulatory fans hail their idol as “Ulaga Naayagan” or global hero.
-
-Kamal Haasan has often  been compared to Hollywood’s Tom Cruise as an action hero though the former’s acting skills are far above those of the latter.
-
-...
-
-[Data](articles/7c38c490.json)
-
-[Extended Data](ext_articles/7c38c490.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 09:59:29**
+As of **2024-11-09 10:12:14**
 
 ## Newspaper Stats
 
-*Scraped **53,833** Articles*
+*Scraped **53,835** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,45 @@ islandlk | 3,217
 economynextcom | 3,267
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,030
+adalk | 5,031
 adaderanalk | 6,414
 tamilmirrorlk | 7,507
 virakesarilk | 8,713
-adaderanasinhalalk | 9,382
+adaderanasinhalalk | 9,383
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,833 (100.0%) of 53,833 articles have been extended.
+53,835 (100.0%) of 53,835 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Revealed about the people who died in Gaza
+
+*2024-11-09 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203060) · `si`
+
+UN reports: 70% Gaza victims women/children; 43,300+ dead in 13 months; 44% children, 26% women; 80% deaths from housing attacks.
+
+🟩
+
+The United Nations says that 70 percent of the deceased are women and children in the clashes on Gaza.
+
+The UNHRC office points out that more than 43,300 people have been killed in the Gazaka over the past 13 months.
+
+44% of them are children and 26 percent are women.
+
+The United Nations's Human Rights Office points out that 80 percent of the total deaths have occurred due to the attacks on the housing complexes and home.
+
+◼️
+
+[Data](articles/ea482a79.json)
+
+[Extended Data](ext_articles/ea482a79.ext.json)
+
+---
 
 ### Electricity, water connections disconnects
 
@@ -967,6 +991,38 @@ The police spokesman Attorney at Law Nihal Talduuwa further stated that 214 riot
 [Data](articles/ac6612f7.json)
 
 [Extended Data](ext_articles/ac6612f7.ext.json)
+
+---
+
+### Currently restrictions to social communication inputs in school education
+
+*2024-11-08 21:19:42* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-අධ්‍යාපනයේදී--සමාජ-සන්නිවේදන-යෙදවුම්--භාවිතයට-සීමා-පැනවේ/11-412934) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ministry of Education imposes restrictions on social communication apps in schools. Circular issued to limit use of WhatsApp, Viber, Telegram for education during pandemic. School heads must monitor and maintain quality of online interactions. Apps should not replace curriculum or expose children to inappropriate content. Privacy and security concerns emphasized. Ministry warns against potential harm to schools, children, and national communication infrastructure.
+
+🟩
+
+The Ministry of Education takes steps to impose social communication inputs to school education and communication.
+
+A circular issued a circular this day to inform all the leaders of these limitations.
+
+Social communications applications, such as Whats app, Virber and Telegraph used for education in the Covand season are still used, and the Ministry of Education has been imposed.
+
+Accordingly, the school heads should be administered by the administrators in the communications and maintain their quality.
+
+These crowds should not be used to cover the syllabus or decompassing children without helpful technology.
+
+The group emphasized that the privacy and video, video, photography, photography, photography, visits to the privacy and moods of the privacy and mentality of the students should be taken to discipline.
+
+...
+
+[Data](articles/d3a65d00.json)
+
+[Extended Data](ext_articles/d3a65d00.ext.json)
 
 ---
 
@@ -2271,57 +2327,5 @@ He said the vote is the right to citizens as the constitution is to be voted.
 [Data](articles/3382c5d1.json)
 
 [Extended Data](ext_articles/3382c5d1.ext.json)
-
----
-
-### The Ministry of Health in Batticaloa begins with measles vaccine adoption measures
-
-*2024-11-08 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198184) · `ta`
-
-Measles vaccination resumes in Batticaloa after hiatus. Ministry of Health initiates special work scheme. Vaccination process conducted at Nurses College. Public Health Inspector examines child health records. Second dose required if first not received or health card missing.
-
-🟩
-
-After a long hiatus, the vaccine adoption of measles in Sri Lanka will begin tomorrow (09) under the Special Work Scheme of the Ministry of Health, which has no measles disease in Sri Lanka.
-
-Under this scheme, the measles vaccine process was held tomorrow in the Batticaloa district and was held on Friday (08) at the Nurses College, Batticaloa.
-
-This was carried out by the Batticaloa Regional Health Medical Officer's Workshop sponsored by the Batticaloa District Regional Health Services Workshop.
-
-Public Health Inspector at Nurses College, Batticaloa. In the presence of Mithunraj, the child health development records of the nurses who did not carry two vaccines were examined.
-
-The health department said that if a vaccine was initially loaded, the second vaccine should be accepted during the vaccine, or two vaccines should be loaded if the two vaccines are not loaded or the health card is lost.
-
-◼️
-
-[Data](articles/bb601685.json)
-
-[Extended Data](ext_articles/bb601685.ext.json)
-
----
-
-### Voters will not fail to point out to the side of the country to fall under the guise of change - NM Basil notice in the interview
-
-*2024-11-08 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198188) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-United People's Power candidate NM Basil contests Anuradhapura district parliamentary election. Promises to address urban development, agriculture, education, healthcare, and economic growth. Emphasizes protecting Muslim rights and supporting Tamil community. Aims to implement policies like reducing post-harvest losses and promoting exports. Confident voters will choose United People's Power for positive change.
-
-🟩
-
-The United People's Power has put forward a clear policy and program to build the country. In an interview with NM Basil, a candidate for the United People's Power in the Anuradhapura district, and the Assistant Organizer of the Horawappa Election constituency in Anuradhapura district, I do not think there will be a program to build the country for national people's power.
-
-Meanwhile, I hope that people will make the right decision in the election this time. He said he was confident that the voters of Anuradhapura would not fail, pointing to the part of the country to fall under the guise of change.
-
-He said this in an interview with NM Basil, a United People's Power candidate in the Anuradhapura district and the Assistant Organizer of the Horawappa Election constituency.
-
-...
-
-[Data](articles/e526ca21.json)
-
-[Extended Data](ext_articles/e526ca21.ext.json)
 
 ---

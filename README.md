@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 18:42:33**
+As of **2024-11-09 18:59:19**
 
 ## Newspaper Stats
 
-*Scraped **53,889** Articles*
+*Scraped **53,894** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,96 @@ dbsjeyarajcom | 421
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,217
-economynextcom | 3,269
+economynextcom | 3,270
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,034
-adaderanalk | 6,425
-tamilmirrorlk | 7,520
+adaderanalk | 6,426
+tamilmirrorlk | 7,521
 virakesarilk | 8,721
-adaderanasinhalalk | 9,398
+adaderanasinhalalk | 9,400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,889 (100.0%) of 53,889 articles have been extended.
+53,892 (100.0%) of 53,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### දින දෙකක් විශ්වවිද්‍යාල වසා දැමීමට පියවර
+
+*2024-11-09 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203080) · `si`
+
+එළැඹෙන නොවැම්බර් 13 සහ 14 දෙදින වහාම නිවාඩු දිනයක් ලෙස ප්‍රකාශයට පත් කිරීමට විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව තීරණය කර තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පැවසුවේ විශ්වවිද්‍යාල සිසුන්ගේ ඡන්ද අයිතිය සුරක්ෂිත කිරීම සඳහා මෙම පියවර ගත් බවය.
+
+මේ අතර එළඹෙන පාර්ලිමේන්තු මැතිවරණ ජන්ද විමසීමේදී රාජ්‍ය විශ්ව විද්‍යාල කාර්යමණ්ඩල වලට මෙන්ම ශිෂ්‍ය ශිෂ්‍යාවන්ට ද ජන්දය ප්‍රකාශ කල හැකි අයුරින් නිවාඩු ලබා දීමට පියවර ගන්නා ලෙස මැතිවරණ කොමිශන් සභාව දැනුම් දී තිබේ.
+
+ඒ අනුව රජ්‍ය විශ්ව විද්‍යාල යටතට නොගැනෙන පෞද්ගලික විශ්ව විද්‍යාල හා උසස් අධ්‍යාපන ආයතන විසින්ද කාර්ය මණ්ඩල හා සිසුන්ට ජන්දය භාවිතා කිරීමට හැකි වන පරිදි නිවාඩු ලබා දිය යුතු බව මැතිවරණ කොම්සම නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+
+එමෙන්ම 2006 වසරේ මැයි මස 31වන දිනට පෙර උපන් වසය අවුරුදු 18 සම්පූර්ණ වන අයගේ නම් ද ජන්ද හිමි නාමලේණයේ ලියාපදිංචි  ඇති බව සදහන් වේ.
+
+ඒ අනුව උසස් පෙල සිසුන්ට ජන්දය ප්‍රකාශ කිරීමට හැකි වන පරිදි උසස්පෙල උපකාරක පන්ති යොදා ගන්නා ලෙසද මැතිවරණ කොමිසන් සභාව අදාළ ලිපිය මගින් දැනුම් දී ඇත.
+
+◼️
+
+[Data](articles/5ea62b13.json)
+
+---
+
+### Universities closed on Nov. 13 and 14
+
+*2024-11-09 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103282/universities-closed-on-nov-13-and-14) · `en`
+
+The University Grants Commission (UGC) says that all universities across the island will remain closed on November 13 and 14, in view of the 2024 General Election.
+
+◼️
+
+[Data](articles/b7b3aa02.json)
+
+[Extended Data](ext_articles/b7b3aa02.ext.json)
+
+---
+
+### කාසියේ වාසිය නවසීලන්තයට
+
+*2024-11-09 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203079) · `si`
+
+ශ්‍රී ලංකාව හා නවසීලන්තය අතර තරග 2කින් යුත් විස්සයි20 ක්‍රිකට් තරගාවලියේ පළමු තරගය දඹුල්ලේදී අද (09)  පැවැත්වෙයි.
+
+◼️
+
+[Data](articles/2e5d96d0.json)
+
+---
+
+### 12,114 affected by inconsistent weather
+
+*2024-11-09 18:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-12-114-பேர்-பாதிப்பு/175-346832) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"12,114 affected by weather: Heavy rains, strong winds, and flooding impact three provinces since Nov 1, according to Disaster Management Center report."
+
+🟩
+
+According to a report by the Disaster Management Center, a total of 12,114 people have been affected by inclement weather in the three provinces since November 1.
+
+The impact of heavy rains, heavy winds and floods is the primary. An
+
+◼️
+
+[Data](articles/f2c23184.json)
+
+[Extended Data](ext_articles/f2c23184.ext.json)
+
+---
 
 ### Advise students and employees to give holidays
 
@@ -2113,105 +2185,5 @@ We are deeply concerned about the recent remarks made by Minister Vijitha Herath
 [Data](articles/87d4d386.json)
 
 [Extended Data](ext_articles/87d4d386.ext.json)
-
----
-
-### 3,249 driving licenses temporarily canceled - Motor Transport Department
-
-*2024-11-08 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198233) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-3,249 driver's licenses temporarily canceled due to court cases. Negligent driving and poor vehicle quality cited as main reasons for high road accidents.
-
-🟩
-
-The Motor Transport Department said that 3,249 driver's licenses have been temporarily canceled by the courts this year.
-
-Motor Transport Director General Nishantha Anurutha Weerasinghe has confirmed this.
-
-It is reported that the driver's licenses have been temporarily canceled during the trial of the courts against the various crimes committed by the drivers.
-
-The main reason for high road accidents is the negligence driving and the lack of proper quality of vehicles. Mohamed Mahish, Professor of the Department of Sociology of the University of Colombo, revealed this.
-
-◼️
-
-[Data](articles/ce111fc7.json)
-
-[Extended Data](ext_articles/ce111fc7.ext.json)
-
----
-
-### The number of dollars up to the country heroes
-
-*2024-11-08 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203055) · `si`
-
-Sri Lanka received $587.7m in foreign remittances in Oct 2024, totaling $5,431.54m since Jan. This represents a 11.7% increase from the same period in 2023.
-
-🟩
-
-The number of foreign remittances received in October 2024 is US $ 587.7 million, the Central Bank of Sri Lanka.
-
-Accordingly, the total number of foreign remittances received from January to October 5,431.54 million is US $ 5,431.54 million.
-
-The Central Bank said an increase of 11.7% compared to 10.7% over the 10 months of January to October 2023.
-
-◼️
-
-[Data](articles/7b9253b1.json)
-
-[Extended Data](ext_articles/7b9253b1.ext.json)
-
----
-
-### Sri Lanka’s remittance inflow at $587.7 million in October 2024
-
-*2024-11-08 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103266/sri-lankas-remittance-inflow-at-5877-million-in-october-2024) · `en`
-
-Sri Lanka has recorded an 11.7% increase in workers’ remittances from January to October 2024 compared to the same period in 2023, according to latest figures released by the Central Bank of Sri Lanka (CBSL).
-
-The cumulative figure for the period from January to October 2024 stands at USD 5,431.5 million, reflecting this significant growth.
-
-Official figures show that workers’ remittances flow in October 2024 amounted to USD 587.7 million, compared to USD 537 million in September 2024.
-
-◼️
-
-[Data](articles/8b7566e2.json)
-
-[Extended Data](ext_articles/8b7566e2.ext.json)
-
----
-
-### A large number of areas are flooded in Badulla - Badulla is a landslide
-
-*2024-11-08 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203054) · `si`
-
-Badulla floods, landslides block roads. Heavy rains cause Puttalam flooding. Akurana town submerged. Traffic disrupted on Kandy-Jaffna A9 road.
-
-🟩
-
-The Badulla District Disaster Management Unit has also been informed due to the inclement weather conditions due to the inclement weather.
-
-Meanwhile, landslide has been interrupted due to the activation of a landslide near the 100 kilometer in the Welimada road.
-
-As a result, the police have requested the drivers using the road to drive.
-
-Meanwhile, the Puttalam Disaster Management Center (DMC) has said that heavy rains have been subjected to flooding due to heavy rains from Puttalam today (08).
-
-Puttalam District Secretary HMSP. Herath said that steps have been taken to obtain information from the Disaster Relief Officers attached to the Water in Puttalam District.
-
-The Akurana town has been flooded along the Kandy-Jaffna A9 road due to heavy rains.
-
-The main roads in Akurana have been submerged by the main road flowing across Akurana and Wehangala Oya.
-
-The traffic on the Kandy-Jaffna A9 road was blocked due to watering the city in the Kandy-Jaffna A9 road.
-
-◼️
-
-[Data](articles/8cdb8675.json)
-
-[Extended Data](ext_articles/8cdb8675.ext.json)
 
 ---

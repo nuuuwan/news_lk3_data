@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 18:59:19**
+As of **2024-11-09 19:09:47**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanasinhalalk | 9,400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,892 (100.0%) of 53,894 articles have been extended.
+53,894 (100.0%) of 53,894 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
 
-### දින දෙකක් විශ්වවිද්‍යාල වසා දැමීමට පියවර
+### Steps to close universities for two days
 
 *2024-11-09 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203080) · `si`
 
-එළැඹෙන නොවැම්බර් 13 සහ 14 දෙදින වහාම නිවාඩු දිනයක් ලෙස ප්‍රකාශයට පත් කිරීමට විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව තීරණය කර තිබේ.
+University closure: UGC declares emergency holiday due to elections. Students and staff from non-government universities receive leave. Election Commission informs about using Advanced Level exams for voting eligibility.
 
-නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පැවසුවේ විශ්වවිද්‍යාල සිසුන්ගේ ඡන්ද අයිතිය සුරක්ෂිත කිරීම සඳහා මෙම පියවර ගත් බවය.
+🟩
 
-මේ අතර එළඹෙන පාර්ලිමේන්තු මැතිවරණ ජන්ද විමසීමේදී රාජ්‍ය විශ්ව විද්‍යාල කාර්යමණ්ඩල වලට මෙන්ම ශිෂ්‍ය ශිෂ්‍යාවන්ට ද ජන්දය ප්‍රකාශ කල හැකි අයුරින් නිවාඩු ලබා දීමට පියවර ගන්නා ලෙස මැතිවරණ කොමිශන් සභාව දැනුම් දී තිබේ.
+The University Grants Commission has decided to declare the next day, as soon as a holiday.
 
-ඒ අනුව රජ්‍ය විශ්ව විද්‍යාල යටතට නොගැනෙන පෞද්ගලික විශ්ව විද්‍යාල හා උසස් අධ්‍යාපන ආයතන විසින්ද කාර්ය මණ්ඩල හා සිසුන්ට ජන්දය භාවිතා කිරීමට හැකි වන පරිදි නිවාඩු ලබා දිය යුතු බව මැතිවරණ කොම්සම නිවේදනයක් නිකුත් කරමින් සඳහන් කර තිබේ.
+The Commission made announcement and this commission was taken to ensure the rights of the university students.
 
-එමෙන්ම 2006 වසරේ මැයි මස 31වන දිනට පෙර උපන් වසය අවුරුදු 18 සම්පූර්ණ වන අයගේ නම් ද ජන්ද හිමි නාමලේණයේ ලියාපදිංචි  ඇති බව සදහන් වේ.
+Meanwhile, the election campaign has been informed to take steps to pay the vacations to state university staff as well as the students and students.
 
-ඒ අනුව උසස් පෙල සිසුන්ට ජන්දය ප්‍රකාශ කිරීමට හැකි වන පරිදි උසස්පෙල උපකාරක පන්ති යොදා ගන්නා ලෙසද මැතිවරණ කොමිසන් සභාව අදාළ ලිපිය මගින් දැනුම් දී ඇත.
+Accordingly, the official universities and higher education institutions that are not under the government universities and the staff and students should be given leave.
+
+It is also said that the names of the 18-year-old, the names of the 18-year-old, is the names of the 18-year-olds.
+
+The Elections Commission has also been informed by the letter to use Advanced Level tuition so that the A / L students can vote.
 
 ◼️
 
 [Data](articles/5ea62b13.json)
+
+[Extended Data](ext_articles/5ea62b13.ext.json)
 
 ---
 
@@ -60,7 +66,13 @@ Extensions include translations and NER (Named Entity Recognition).
 
 The University Grants Commission (UGC) says that all universities across the island will remain closed on November 13 and 14, in view of the 2024 General Election.
 
-◼️
+This has been communicated to all Vice Chancellors of universities, Rectors of campuses and Directors of institutes in writing by the UGC Vice-Chairman, Senior Professor K.L. Wasantha Kumara.
+
+The letter states that in order to secure the voting rights of the university students, the commission at its meeting held on November 07 decided to inform of the declaration of November 13 and 14 as holidays for students following undergraduate/postgraduate programmes at respective universities, campuses and institutes.
+
+Meanwhile, the Election Commission had informed to take steps to give leave to staff of state universities as well as students so that they can vote in the upcoming parliamentary election.
+
+...
 
 [Data](articles/b7b3aa02.json)
 
@@ -68,15 +80,25 @@ The University Grants Commission (UGC) says that all universities across the isl
 
 ---
 
-### කාසියේ වාසිය නවසීලන්තයට
+### The benefit of the coin to New Zealand
 
 *2024-11-09 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203079) · `si`
 
-ශ්‍රී ලංකාව හා නවසීලන්තය අතර තරග 2කින් යුත් විස්සයි20 ක්‍රිකට් තරගාවලියේ පළමු තරගය දඹුල්ලේදී අද (09)  පැවැත්වෙයි.
+Here's a 200-character summary:
+
+
+
+New Zealand cricket team plays Sri Lanka today in Dambulla. The match is part of their tour of Sri Lanka, showcasing international cricket competition between two nations.
+
+🟩
+
+Sri Lanka and New Zealand will be held today (09) at Dambulla today (09).
 
 ◼️
 
 [Data](articles/2e5d96d0.json)
+
+[Extended Data](ext_articles/2e5d96d0.ext.json)
 
 ---
 

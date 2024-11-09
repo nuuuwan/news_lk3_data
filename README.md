@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-09 17:24:33**
+As of **2024-11-09 17:41:03**
 
 ## Newspaper Stats
 
-*Scraped **53,881** Articles*
+*Scraped **53,883** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,62 @@ economynextcom | 3,269
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,034
-adaderanalk | 6,423
+adaderanalk | 6,424
 tamilmirrorlk | 7,517
 virakesarilk | 8,721
-adaderanasinhalalk | 9,395
+adaderanasinhalalk | 9,396
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,881 (100.0%) of 53,881 articles have been extended.
+53,883 (100.0%) of 53,883 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-09 (Saturday)
+
+### Sri Lankan arrested for fake visa to France
+
+*2024-11-09 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203076) · `si`
+
+Sri Lankan youth caught with fake French visa at airport. Arrested before boarding flight to India. Immigration officials discovered forged document during screening. Further investigation underway.
+
+🟩
+
+A Sri Lankan youth attempting to flee to France by using a fake preparation of a fake was arrested by the Department of Immigration and Emigration.
+
+The man has been arrested while preparing to leave for Chennai, India on the IndiGo airline e.-1196.
+
+During the problems of the immigration officers from the Immigration and Emigration Officers, he found a false-based French visa with the suspect.
+
+Steps have been taken to direct the Border Survey Unit for further investigations.
+
+◼️
+
+[Data](articles/ab7de233.json)
+
+[Extended Data](ext_articles/ab7de233.ext.json)
+
+---
+
+### Shooting incident reported near Lotus Tower
+
+*2024-11-09 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103280/shooting-incident-reported-near-lotus-tower) · `en`
+
+A shooting incident was reported during a musical concert held near the Lotus Tower in Colombo yesterday (08).
+
+A private security officer was injured in the incident and has been hospitalized.
+
+No information has been disclosed as of yet regarding the person responsible for carrying out the shooting.
+
+◼️
+
+[Data](articles/b1cc552a.json)
+
+[Extended Data](ext_articles/b1cc552a.ext.json)
+
+---
 
 ### Information about the traum murder suspect involved in the Arugambal incident
 
@@ -2183,59 +2225,5 @@ Political Politics Free of Privilege Dilith Jayarawara says that he is ready to 
 [Data](articles/81868b06.json)
 
 [Extended Data](ext_articles/81868b06.ext.json)
-
----
-
-### Financial Treasury provided by the Republic of China for Disaster Relief and Monitoring Program
-
-*2024-11-08 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198230) · `ta`
-
-Republic of China provides 30 million rupees for disaster relief from January 1, 2024 to October 30. Additional funds allocated from National Budget Department for home rehabilitation. Treasury Department distributes funds to Ministry of Defense. Emergency Humanitarian Aid Scheme allocates 10 million yuan materials. Measures taken for house compensation and reconstruction under Disaster Relief and Monitoring Program.
-
-🟩
-
-From January 1, 2024 to October 30, from October 30, about 30 million rupees has been sent to the Financial Assistance Treasury Service by the People's Republic of China to compensate for houses and property damaged by natural disasters.
-
-Additional funds have been made from the National Budget Department to the rehabilitation of the homes of people affected by natural disasters and the Treasury Department has provided the fund to the Ministry of Defense immediately.
-
-Since there were not adequate funds in the budget assessment for 2024, there was a need to allocate additional funds to the victims of the disaster.
-
-In addition, under the Emergency Humanitarian Aid Scheme, 10 million yuan materials available from the Republic of China are to be distributed after a proper accounting.
-
-In addition, the necessary measures have been taken to provide compensation for damaged houses and possessions, the construction and reconstruction of the houses through the Disaster Relief and Monitoring Scheme.
-
-◼️
-
-[Data](articles/46048cb7.json)
-
-[Extended Data](ext_articles/46048cb7.ext.json)
-
----
-
-### 2 competition bans for Alzari Joseph violating the protocol for professional player
-
-*2024-11-08 20:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198229) · `ta`
-
-Alzari Joseph banned twice for leaving field early in ODI match. West Indies won series 2-1 despite his absence. Player apologizes for breaking cricket protocol.
-
-🟩
-
-West Indies player Alzari Joseph has been banned for violating the protocol for a professional player in the third and last international ODIs held at Barjdown Stadium against England.
-
-Alzari Joseph left the field at the end of the 4th over due to his agreement with team captain Shay Hop over the positions of players in the field.
-
-The West Indies team had to play with 10 players across one over as Joseph Alzari left.
-
-However, Joseph, who was re -fielded, took the most important 2 wickets, and the West Indies took the series 2 - 1.
-
-In the meantime, the West Indies Cricket Company issued a statement on Thursday (08) to ensure the two competition ban imposed on Alzari Joseph.
-
-'Alzari's behavior does not agree with the cricket values ​​that the West Indies cricket company follows. Cannot ignore such behavior. We have taken firm action to consider the impact of the situation and the values ​​are confirmed, ”the statement further stated.
-
-...
-
-[Data](articles/aa231dab.json)
-
-[Extended Data](ext_articles/aa231dab.ext.json)
 
 ---

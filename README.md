@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 17:41:10**
+As of **2024-11-10 18:01:11**
 
 ## Newspaper Stats
 
-*Scraped **54,033** Articles*
+*Scraped **54,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,60 @@ dailymirrorlk | 4,733
 adalk | 5,047
 adaderanalk | 6,449
 tamilmirrorlk | 7,545
-virakesarilk | 8,756
-adaderanasinhalalk | 9,425
+virakesarilk | 8,760
+adaderanasinhalalk | 9,427
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,018 (100.0%) of 54,033 articles have been extended.
+54,025 (100.0%) of 54,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Tamil cinema reties
+
+*2024-11-10 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203107) · `si`
+
+Veteran Tamil actor Delhi Ganesh passes away. Contributed to 400+ films, stage dramas, and TV series. Last appeared in 'Indian-2'.
+
+🟩
+
+Delhi Ganeshe, a veteran actor in Tamil cinema, has passed away.
+
+The Indian media reported that he had died in the house last night.
+
+His final contributed to his performance in the film 'Indian-2', a few months ago.
+
+Delhi Ganesh has launched its performance across the stage drama and contributed to the field of over 400 films and the field of teledrama.
+
+◼️
+
+[Data](articles/66c26e61.json)
+
+[Extended Data](ext_articles/66c26e61.ext.json)
+
+---
+
+### Elephant attack in Dehi
+
+*2024-11-10 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198351) · `ta`
+
+Elephant attacks woman in Dehi; she's hospitalized after incident in Sandamadulla area.
+
+🟩
+
+The injured woman was admitted to the hospital after the elephant was attacked in the Sandamadulla area belonging to the Dehi Atakattai police division, police said.
+
+◼️
+
+[Data](articles/00d18511.json)
+
+[Extended Data](ext_articles/00d18511.ext.json)
+
+---
 
 ### Election complaints surpass 2,500 ahead of Parliamentary Poll
 
@@ -51,6 +93,50 @@ The General Election is scheduled to be held on November 14.
 [Data](articles/ba7ad06f.json)
 
 [Extended Data](ext_articles/ba7ad06f.ext.json)
+
+---
+
+### Drone attack on Russia from Ukraine
+
+*2024-11-10 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203106) · `si`
+
+Ukraine launches major drone attack on Moscow airport, causing temporary closure and injuries. 32 drones used, disrupting air traffic. Largest such strike since 2022 conflict began.
+
+🟩
+
+The airport of Moscow, Russia, has been temporarily close due to a drone attack on Ukraine today.
+
+In 2022, Russia - This is the biggest drone attack by Ukraine after the commencement of Ukrainian war.
+
+The attack was carried out by Ukraine using 32 drones and the Russian security forces have been thrown down.
+
+Steps were temporarily stopped and the aircraft was temporarily stopped and redirected to other airports.
+
+However, Russian authorities have confirmed that one person was injured in the drone attack.
+
+◼️
+
+[Data](articles/99443b0b.json)
+
+[Extended Data](ext_articles/99443b0b.ext.json)
+
+---
+
+### The national people should not play with the feelings of the people - Rosie Senanayake
+
+*2024-11-10 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198346) · `ta`
+
+Rosie Senanayake opposes removing 225 MPs, citing corruption. She argues against eliminating 40% of legal sector expertise. Her stance: don't manipulate public emotions for political gain.
+
+🟩
+
+“Their main campaign is that the 225 people in Parliament should be removed and the newcomers come to the public for the power of the people.. I completely oppose this. First of all, there are corrupt and fraudsters in parliament. For that, it is a wrong position to demand that 40 percent of the expertise required for the legal sector be eliminated. ”
+
+◼️
+
+[Data](articles/082c4665.json)
+
+[Extended Data](ext_articles/082c4665.ext.json)
 
 ---
 
@@ -75,6 +161,24 @@ However, 1999, however, 1999 has already been resolved and 581 complaints have b
 [Data](articles/e07e6a8e.json)
 
 [Extended Data](ext_articles/e07e6a8e.ext.json)
+
+---
+
+### An elderly woman dies after colliding with a train in Hikkaduwa
+
+*2024-11-10 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198345) · `ta`
+
+Elderly woman dies after train collision in Hikkaduwa. Police report incident occurred on Amarasena Mawatha within Hikkaduwa police division.
+
+🟩
+
+Hikkaduwa police said that an elderly woman was killed in a train in Amarasena Mawatha, which belongs to the Hikkaduwa police division.
+
+◼️
+
+[Data](articles/2329c116.json)
+
+[Extended Data](ext_articles/2329c116.ext.json)
 
 ---
 
@@ -141,6 +245,30 @@ Question: Is your position on the failure of the Rajapaksas to retain this time 
 [Data](articles/5e0ba94e.json)
 
 [Extended Data](ext_articles/5e0ba94e.ext.json)
+
+---
+
+### Motorcycle in Sevanagala - bus accident;Young man kills!
+
+*2024-11-10 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198335) · `ta`
+
+Bus crashes into motorcycle near Sevanagala, killing young rider. Driver arrested.
+
+🟩
+
+A youth has died yesterday (09) when a bus crashed into a motorcycle near the Sevanagala Police Division at the Sevanagala Tibul Kas junction, near the Mihindupura Sanasam Mandapam.
+
+The accident occurred when a bus traveling from Sevanagala to Divulkus junction crashed into the back of a motorcycle traveling from Gemunupura to Lakshirigama.
+
+The driver of the motorcycle and the back of the motorcycle suffered serious injuries and the young man sitting on the side of the Sevanagala Hospital died.
+
+The body has been placed in the funeral room of the Embilipitiya Hospital and the bus driver has been arrested in connection with the accident.
+
+◼️
+
+[Data](articles/bcd02f8f.json)
+
+[Extended Data](ext_articles/bcd02f8f.ext.json)
 
 ---
 
@@ -328,17 +456,29 @@ What happened to the country?If the Parliament is not obliged to the executive p
 
 ---
 
-### எமது வெற்றி வாய்ப்பு சிறப்பாகவே உள்ளது - மனோ கணேசன் செவ்வி
+### Our chance of our success is better - Mano Ganesan
 
 *2024-11-10 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198341) · `ta`
 
-ஜனாதிபதி சிங்கள மக்களின் பெரும்பான்மை வாக்குகளால் தெரிவாகியிருந்தாலும் சிறுபான்மையினரின் பிரச்சினைகள் தொடர்பில் கலந்தாலோசித்து தீர்மானம் எடுப்பதுடன் அவர்களுக்கு முக்கியத்துவமளிப்பது அவசியமென  தமிழ் முற்போக்கு கூட்டணியின் தலைவரும், ஐக்கிய மக்கள் கூட்டணியின் கொழும்பு மாவட்ட வேட்பாளருமான மனோகணேசன் மனோ கணேசன்  தெரிவித்தார்.  வீரகேசரிக்கு வழங்கிய விசேட செவ்வியிலேயே  அவர் இவ்வாறு குறிப்பிட்டார்.   மனோகணேசனுடனான   செவ்வி வருமாறு,
+Here's a summary of the key points in approximately 200 characters:
 
-பதில்: கொழும்பு மாவட்டத்தில் எமது வெற்றி வாய்ப்பு மிகவும் சிறப்பான நிலையில் உள்ளது. அதில் எவ்வித மாற்றுக் கருத்துக்கும் இடமில்லை. இம்முறையும் தேர்தலுக்கு எமது கட்சியான ஜனநாயக மக்கள் முன்னணி, தமிழ் முற்போக்கு கூட்டணி ஆகிய இரு கட்சிகள் சார்பிலேயே போட்டியிடுகிறோம். எமது கட்சிகளுக்கென கொழும்பில் நிலையான வாக்குத்தளம் உள்ளது.  ஐக்கிய மக்கள் சக்தியுடன் கூட்டணியாக இணைந்து போட்டியிட்டாலும் எமக்கான நிலையான வாக்குத்தளங்கள் உள்ளமையால் எவ்வித பிரச்சினையும் இல்லை.
+
+
+Mano Ganesan discusses the Tamil Progressive Alliance's chances in the Colombo district election. He emphasizes their alliance with the United People's Alliance and other parties. Ganesan addresses challenges, including reduced seats and competition from other parties. He mentions analysis of Sajith Premadasa's defeat and agreements with the United People's Alliance. Ganesan discusses potential national government formation and solutions for hill country salary conflicts. He also comments on presidential system changes and challenges from former party members Velukumar and Aravinda Kumar.
+
+🟩
+
+Manohanesan Mano Ganesan, the leader of the Tamil Progressive Alliance and the United People's Alliance's Colombo district candidate, said that even though the President was elected by the majority of the Sinhalese votes, it would be necessary to consult and make a decision on the issues of the minority.He said this in a special interview with Veerakesari.To come with Manohanesan,
+
+Answer: Our chance of success in the Colombo district is very good. There is no alternative in which there is. This time, we are contesting the election on behalf of our party, the Democratic People's Front and the Tamil Progressive Alliance.. Our parties have a standard promise in Colombo.Even if we are alliance with the United People's Power, there is no problem because we have standard promises.
+
+Question: A seat has been reduced in the Colombo district and you are going to meet the electoral field with a multi -faceted competition, is this a challenge to your success?
 
 ...
 
 [Data](articles/42e6f0e4.json)
+
+[Extended Data](ext_articles/42e6f0e4.ext.json)
 
 ---
 
@@ -2117,137 +2257,5 @@ Answer: Politics seems to be buried within this question. Politics is for ordina
 [Data](articles/65528bd6.json)
 
 [Extended Data](ext_articles/65528bd6.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-10 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103286/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says  several  spells of showers may occur in Northern and North-central Provinces and in Trincomalee district.
-
-Showers or thundershowers may occur at a few places in Central, Uva and Southern provinces in the evening or night.
-
-Fairly heavy showers about 50mm are likely at some places in Jaffna, Kilinochchi, Mullaittivu and Trincomalee district, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts during the morning
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/71d68b43.json)
-
-[Extended Data](ext_articles/71d68b43.ext.json)
-
----
-
-### Woman dies after collision with train
-
-*2024-11-10 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203089) · `si`
-
-Train collision kills 66-year-old woman in Hikkaduwa. Victim died at scene. Police investigating incident.
-
-🟩
-
-A woman was killed and a woman collided with a train on the unprotected railway crossing in Hikkaduwa and Amarasena Mawatha.
-
-The woman was hit by a train traveling from Galle to Aluthgama yesterday (09).
-
-The deceased has been identified as a 66 year old resident of the Dealapola area.
-
-The body has been placed at the Karapitiya hospital morgue and the Hikkaduwa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/702bfc17.json)
-
-[Extended Data](ext_articles/702bfc17.ext.json)
-
----
-
-### An IMF Representative to arrive in the island
-
-*2024-11-10 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203088) · `si`
-
-IMF team arrives next week for Sri Lanka's third review. Heads of mission discuss economic policies and progress under Economic Reforms Program. Review focuses on implementing IMF consensus and releasing fourth tranche of loan facility.
-
-🟩
-
-Representatives of the IMF are due to arrive in the island next week.
-
-It is reported that the delegation is due to arrive in the island to conduct the third review of the Third review of Sri Lanka by the International Monetary Fund.
-
-Heads of Head of the International Monetary Fund Senior Mission Senior Mission is due to arrive in the island.
-
-After this review, the International Monetary Fund is to be provided with the weller installment to Sri Lanka.
-
-Accordingly, the International Monetary Fund delegation to arrive in the island in the coming week is to be discussed at length to the current government's economic policy.
-
-In addition, the implementation of consensus with the IMF and the recent progress carried out under the Economic Reforms Program in the country are to be investigated.
-
-...
-
-[Data](articles/e0010eb4.json)
-
-[Extended Data](ext_articles/e0010eb4.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-11-10 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203087) · `si`
-
-Heavy rains hit North, East, and South. Thunderstorms expected in central regions. Public advised to be cautious due to strong winds and lightning.
-
-🟩
-
-Several spells of the North and the North and the North were affected by the Trincomalee district today (10).
-
-Showers or thundershowers will occur at several places in the middle, Uva and Southern provinces.
-
-And mm in Jaffna, Kilinochchi, Mullaitivu and Trincomalee districts. Strong showers are about 50.
-
-The Department of Meteorology announces that in some places in the Western, Sabaragamuwa, Central and Matara districts, the Met Department said.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/7be232fd.json)
-
-[Extended Data](ext_articles/7be232fd.ext.json)
-
----
-
-### GLIMPSES OF COLONIAL CEYLON (1935 – 1947)
-
-*2024-11-10 04:47:00* · [`islandlk`](http://island.lk/glimpses-of-colonial-ceylon-1935-1947/) · `en`
-
-(Excerpted from Falling Leaves, an anthology of autobiographical anecdotes by LC Arulpragasam)
-
-This is not meant to be a history of the colonial years, but rather a cherry-picking of childhood memories for their quaintness rather than for their historical truth, for socio-cultural insights rather than for historical facts. I can only touch on some cultural oddities of the English-speaking middleclass of those times, since I knew no other. Likewise, I can write only of the last years of colonial rule, since I lived through no others. I write as ‘an old man in a hurry’, because at the age of 88 years, I doubt that there will be others left to recount these tales.
-
-...
-
-[Data](articles/be3f6854.json)
-
-[Extended Data](ext_articles/be3f6854.ext.json)
-
----
-
-### Difficult Dealings with Strong Political Personalities
-
-*2024-11-10 04:42:00* · [`islandlk`](http://island.lk/difficult-dealings-with-strong-political-personalities/) · `en`
-
-(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
-
-Senior public officials have often to act as buffers between ministers, other important political actors, and other stakeholders in society. On many occasions, one had to absorb a significant degree of shock and act as a facilitator, mediator or referee. A rousing example of this side of one’s responsibilities came by courtesy of Mrs. Vivienne Goonewardene, the LSSP Member of Parliament for Dehiwela-Galkissa and wife of Mr. Leslie Goonewardene, Minister of Communications.
-
-...
-
-[Data](articles/b80335ab.json)
-
-[Extended Data](ext_articles/b80335ab.ext.json)
 
 ---

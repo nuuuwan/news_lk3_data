@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 14:11:48**
+As of **2024-11-10 14:24:32**
 
 ## Newspaper Stats
 
-*Scraped **53,996** Articles*
+*Scraped **53,999** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,043
 adaderanalk | 6,445
 tamilmirrorlk | 7,543
-virakesarilk | 8,733
+virakesarilk | 8,736
 adaderanasinhalalk | 9,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,996 (100.0%) of 53,996 articles have been extended.
+53,996 (100.0%) of 53,999 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -170,6 +170,22 @@ Police sources further disclosed that the monk, who is employed as a teacher at 
 
 ---
 
+### சுன்னாகத்தில் பொலிஸாரினால் தாக்கப்பட்டவர்களுக்கு நீதி வழங்க வேண்டும் - கீதநாத் காசிலிங்கம்
+
+*2024-11-10 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198321) · `ta`
+
+யாழ்ப்பாணம் சுன்னாகம் பகுதியில் இடம்பெற்ற சம்பவம் தொடர்பில் நீதி வழங்கப்பட வேண்டும் என பொதுஜன பெரமுனவின் யாழ் மாவட்ட முதன்மை வேட்பாளர் கீதநாத் காசிலிங்கம் வேண்டுகோள் விடுத்துள்ளார்.
+
+யாழ்ப்பாணம் சுன்னாகம் பகுதியில் சுன்னாகம் பொலிஸாரால் இளம் தாயொருவரும், அவரது பச்சிளம் குழந்தையும் கணவனும் நேற்றிரவு தாக்கப்பட்டதாக குறிப்பிடப்படும் சம்பவம் தொடர்பில் நான் கவலையடைவதுடன், இந்த சம்பவம் தொடர்பில் முழுமையான விசாரணை நடத்தப்பட்டு தாக்குதல் நடத்தியோர் மீது உரிய சட்ட நடவடிக்கை எடுப்பதுடன், பாதிக்கப்பட்ட தரப்புக்கு நீதி கிடைக்க சம்பந்தப்பட்ட அதிகாரிகளிடம் வேண்டி நிற்கின்றேன்.
+
+இந்த சம்பவம் தொடர்பில் பலரும் ஆளும் அரசாங்கத்தை கண்டிப்பதை காண முடிகிறது. ஒரு சில அதிகாரிகள் விடும் தவறுகளுக்கு அரசாங்கத்தை குறை கூறி பயனில்லை. இப்படியான சம்பவம் எமது பொதுஜன பெரமுன அரசாங்க காலத்திலும் இடம்பெற்றிருக்கின்றன. அதன்போது பிழை விடும் அதிகாரிகள் மீது சுமத்தவேண்டிய குற்றச்சாட்டுக்களை அரசாங்கத்தின் மீது சுமத்தினார்கள்.
+
+...
+
+[Data](articles/c4be0eae.json)
+
+---
+
 ### Couple killed in shooting
 
 *2024-11-10 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-தம்பதி-பலி/175-346873) · `ta`
@@ -231,6 +247,22 @@ Police suspect that the shooting was carried out using a T-56 assault rifle whil
 [Data](articles/2958acd7.json)
 
 [Extended Data](ext_articles/2958acd7.ext.json)
+
+---
+
+### பதுளை - மஹியங்கனை வீதியில் பயணித்த பஸ் வீட்டின் மதிலில் மோதி விபத்து!
+
+*2024-11-10 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198312) · `ta`
+
+பதுளை - மஹியங்கனை பிரதான வீதியில் பயணித்த தனியார் பஸ்ஸொன்று பதலபிட்டி பிரதேசத்தில் பலகொல்ல வீதியை விட்டு விலகி, அருகில் உள்ள வீடொன்றின் மதிலில் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+
+இந்த விபத்தில் பஸ்ஸின் சாரதிக்கு சிறு காயங்கள் ஏற்பட்டுள்ளதாகவும், பயணிகள் எவருக்கும் காயம் ஏற்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+
+விபத்து இடம்பெற்றபோது வீட்டில் ஒரு சிறு குழந்தை மற்றும் ஒரு தம்பதி இருந்ததாகவும், அவர்கள் ஒரே அறையில் இருந்ததால் எந்த பாதிப்பும் ஏற்படவில்லை எனவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ac7b69ae.json)
 
 ---
 
@@ -377,6 +409,24 @@ At the same time, lawyer Manivannan and Parthiban, who went to the scene, stood 
 [Data](articles/47142e00.json)
 
 [Extended Data](ext_articles/47142e00.ext.json)
+
+---
+
+### வென்னப்புவ துப்பாக்கிச் சூடு தொடர்பில் இருவர் கைது!
+
+*2024-11-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198313) · `ta`
+
+வென்னப்புவ பொலிஸ் பிரிவுக்குட்பட்ட கிம்புல்கால பிரதேசத்தில்  வீடொன்றுக்கு அருகில், துப்பாக்கிச் சூடு நடத்திய சம்பவம் தொடர்பில்  இரண்டு சந்தேக நபர்கள் நேற்று சனிக்கிழமை (09) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கடந்த 07ஆம் திகதி மாரவில பிரதேசத்தைச் சேர்ந்த 43 வயதுடைய நபரும், வென்னப்புவ பிரதேசத்தைச் சேர்ந்த 65 வயதுடைய பெண் ஒருவருமே இத்துப்பாக்குச் சூட்டுக்கு இலக்காகியுள்ளனர்.
+
+இதனையடுத்து, கைது செய்யப்பட்டவர்களிடமிருந்து துப்பாக்கிச் சூட்டுக்கு பயன்படுத்தப்பட்டதாக சந்தேகிக்கப்படும் வெளிநாட்டில் தயாரிக்கப்பட்ட 12 போர் ரக துப்பாக்கி பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+கைது செய்யப்பட்ட சந்தேக நபர்கள் 25 மற்றும் 37 வயதுடைய வென்னப்புவ, லுனுவில ஆகிய பிரதேசங்களைச் சேர்ந்தவர்கள் ஆவர்.
+
+◼️
+
+[Data](articles/5f63b176.json)
 
 ---
 
@@ -894,6 +944,38 @@ In a separate incident, a 19-year-old youth was killed in Mulendiyawala when a m
 
 ---
 
+### Anarchy after an accident in Chunnakam
+
+*2024-11-10 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198290) · `ta`
+
+Chunnakam incident: Police brutality reported after vehicle collision. Two-month-old baby involved. Witnesses claim officers assaulted parents, used excessive force. Investigation underway.
+
+🟩
+
+The victims said that the Chunnakam police had carried out a brutal attack on some of the two -month -old child's father's father's relatives following a collision with two men in a vehicle in Chunnakam.
+
+The mother said that the mother and father were severely assaulted by the police who lifted a two -month -old baby in the bar.
+
+As we were coming by the street, two motorcycles were trying to overtake our vehicle and fell down.
+
+The person who fell down had drunk the public. They said you should not be afraid.
+
+Those who came in civil clothes asked my husband for a vehicle permit.
+
+I did not leave my husband's hand.
+
+I contacted Anna in the Mayiliti Anna. Anna came to ask him what he was.
+
+My husband put my child down to take the child into the sky and hit my husband by hand. The wearing of a blue -eyed man, who was taken to the hospital to take the child to the hospital, stood up with an iron rod.
+
+...
+
+[Data](articles/2927f2cb.json)
+
+[Extended Data](ext_articles/2927f2cb.ext.json)
+
+---
+
 ### Dilith Jayaweera calls for politics free from hatred and racism
 
 *2024-11-10 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103290/dilith-jayaweera-calls-for-politics-free-from-hatred-and-racism) · `en`
@@ -983,6 +1065,32 @@ The central bank also allowed the exchange rate to appreciate amid balance of pa
 [Data](articles/8e3605e8.json)
 
 [Extended Data](ext_articles/8e3605e8.ext.json)
+
+---
+
+### Chunnakam police station, including a woman who was found with a baby girl, has been attacked by the Chunnakam Police Station - Gajendrakumar rushed to the scene
+
+*2024-11-10 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198292) · `ta`
+
+Chunnakam police station attack: Woman, baby injured; TNA leader rushes aid. Incident sparks calls for investigation and highlights alleged police misconduct in northeast region.
+
+🟩
+
+The Tamil National Alliance (TNA) leader Gajendrakumar Ponnambalam said that after the accident in the Chunnakam, the police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the three -wheeler.
+
+The Tamil National People's Front (TNA) leader Gajendra Kumar Ponnampalam Selvarajah Gajendran Natarajar Kandiban, who rushed to the Chunnakam police station, immediately visited the police and sent them to the hospital immediately.
+
+Police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the weather, and brought them to the police station and brought him to the police station.
+
+The police officer said that he was not in the spot when the incident took place. But he has admitted to us that they have been attacked inside the police station.
+
+He says that the incident should be investigated outside the police station.
+
+...
+
+[Data](articles/c367d103.json)
+
+[Extended Data](ext_articles/c367d103.ext.json)
 
 ---
 
@@ -1210,32 +1318,6 @@ After the autopsy, the body was placed in the funeral room of the Karapitiya Hos
 
 ---
 
-### Chunnakam police station, including a woman who was found with a baby girl, has been attacked by the Chunnakam Police Station - Gajendrakumar rushed to the scene
-
-*2024-11-10 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/198292) · `ta`
-
-Chunnakam police station attack: Woman, baby injured; TNA leader rushes aid. Incident sparks calls for investigation and highlights alleged police misconduct in northeast region.
-
-🟩
-
-The Tamil National Alliance (TNA) leader Gajendrakumar Ponnambalam said that after the accident in the Chunnakam, the police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the three -wheeler.
-
-The Tamil National People's Front (TNA) leader Gajendra Kumar Ponnampalam Selvarajah Gajendran Natarajar Kandiban, who rushed to the Chunnakam police station, immediately visited the police and sent them to the hospital immediately.
-
-Police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the weather, and brought them to the police station and brought him to the police station.
-
-The police officer said that he was not in the spot when the incident took place. But he has admitted to us that they have been attacked inside the police station.
-
-He says that the incident should be investigated outside the police station.
-
-...
-
-[Data](articles/c367d103.json)
-
-[Extended Data](ext_articles/c367d103.ext.json)
-
----
-
 ### Qatar suspends role as mediator between Israel and Hamas
 
 *2024-11-10 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103287/qatar-suspends-role-as-mediator-between-israel-and-hamas) · `en`
@@ -1367,38 +1449,6 @@ The body has been placed at the Karapitiya hospital morgue and the Hikkaduwa Pol
 [Data](articles/702bfc17.json)
 
 [Extended Data](ext_articles/702bfc17.ext.json)
-
----
-
-### Anarchy after an accident in Chunnakam
-
-*2024-11-10 07:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198290) · `ta`
-
-Chunnakam incident: Police brutality reported after vehicle collision. Two-month-old baby involved. Witnesses claim officers assaulted parents, used excessive force. Investigation underway.
-
-🟩
-
-The victims said that the Chunnakam police had carried out a brutal attack on some of the two -month -old child's father's father's relatives following a collision with two men in a vehicle in Chunnakam.
-
-The mother said that the mother and father were severely assaulted by the police who lifted a two -month -old baby in the bar.
-
-As we were coming by the street, two motorcycles were trying to overtake our vehicle and fell down.
-
-The person who fell down had drunk the public. They said you should not be afraid.
-
-Those who came in civil clothes asked my husband for a vehicle permit.
-
-I did not leave my husband's hand.
-
-I contacted Anna in the Mayiliti Anna. Anna came to ask him what he was.
-
-My husband put my child down to take the child into the sky and hit my husband by hand. The wearing of a blue -eyed man, who was taken to the hospital to take the child to the hospital, stood up with an iron rod.
-
-...
-
-[Data](articles/2927f2cb.json)
-
-[Extended Data](ext_articles/2927f2cb.ext.json)
 
 ---
 
@@ -2245,73 +2295,5 @@ In education sector there was strong competition. Hemas said it cut prices while
 [Data](articles/63ec500c.json)
 
 [Extended Data](ext_articles/63ec500c.ext.json)
-
----
-
-### 12,114 affected by inconsistent weather
-
-*2024-11-09 18:26:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீரற்ற-காலநிலையால்-12-114-பேர்-பாதிப்பு/175-346832) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"12,114 affected by weather: Heavy rains, strong winds, and flooding impact three provinces since Nov 1, according to Disaster Management Center report."
-
-🟩
-
-According to a report by the Disaster Management Center, a total of 12,114 people have been affected by inclement weather in the three provinces since November 1.
-
-The impact of heavy rains, heavy winds and floods is the primary. An
-
-◼️
-
-[Data](articles/f2c23184.json)
-
-[Extended Data](ext_articles/f2c23184.ext.json)
-
----
-
-### Advise students and employees to give holidays
-
-*2024-11-09 18:21:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்கள்-ஊழியர்களுக்கும்-விடுமுறை-வழங்குமாறு-அறிவுறுத்தல்/175-346831) · `ta`
-
-University Grants Commission advises giving holidays to employees and students for voting in the upcoming general election. Private university staff must allow students to participate in training courses without denying their right to vote.
-
-🟩
-
-The Chairman of the University Grants Commission has been informed that the employees and students will be given holidays to vote in the upcoming general election.
-
-Give holiday to employees and students of private universities and higher education institutions
-
-In addition, private class managers and teachers have been asked to conduct training courses without denial of students' voting rights, as the names of youth voters, who are born 18.05.2006 have been registered in the voter registry.
-
-◼️
-
-[Data](articles/69347519.json)
-
-[Extended Data](ext_articles/69347519.ext.json)
-
----
-
-### It is necessary to provide holidays to vote
-
-*2024-11-09 18:13:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிக்க-விடுமுறை-வழங்குவது-அவசியம்/175-346830) · `ta`
-
-Elections Commission mandates voting holidays for bank/financial sector employees. No normal leave or pay cuts allowed. Complaints about some institutions denying voting days addressed.
-
-🟩
-
-The Elections Commission has announced that all private and public banking and financial workers should be given holidays to vote in the general election.
-
-The Commission said that holidays should be given without normal leave or pay reduction.
-
-The Elections Commission said that there were complaints that employees working in some banks and financial institutions were not given a holiday to vote.
-
-◼️
-
-[Data](articles/a135ee10.json)
-
-[Extended Data](ext_articles/a135ee10.ext.json)
 
 ---

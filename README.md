@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 19:24:38**
+As of **2024-11-10 19:40:01**
 
 ## Newspaper Stats
 
-*Scraped **54,042** Articles*
+*Scraped **54,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,43 @@ adalk | 5,048
 adaderanalk | 6,449
 tamilmirrorlk | 7,546
 virakesarilk | 8,760
-adaderanasinhalalk | 9,428
+adaderanasinhalalk | 9,429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,042 (100.0%) of 54,042 articles have been extended.
+54,043 (100.0%) of 54,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Sri Lanka to benefit the decisive match
+
+*2024-11-10 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203109) · `si`
+
+Sri Lanka leads 2-0 in T20 series vs New Zealand. Won first match, likely to secure championship. Last victory over NZ in 2013. New Zealand previously won 4 matches in this tournament format.
+
+🟩
+
+Sri Lanka won the advantage of Sri Lanka and Tourist Team won the advantage of the 2-match Twenty20 cricket tournament today (10).
+
+As Sri Lanka was able to win the first match, they would easily win the championship with the match.
+
+If so, Sri Lanka will win a Twenty20 tournament against New Zealand.
+
+The last time Sri Lanka has won a Twenty20 tournament against New Zealand in 2013.
+
+New Zealand was able to win the 4 tournaments that the tournament was replaced by the tournament.
+
+◼️
+
+[Data](articles/8279dd31.json)
+
+[Extended Data](ext_articles/8279dd31.ext.json)
+
+---
 
 ### Another special program for election duration
 
@@ -2343,27 +2369,5 @@ The deceased has been identified as a 19 year old resident of Embilipitiya, Embi
 [Data](articles/65654e7b.json)
 
 [Extended Data](ext_articles/65654e7b.ext.json)
-
----
-
-### A woman death in a train
-
-*2024-11-10 08:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்தில்-மோதி-பெண்-ஒருவர்-மரணம்/175-346853) · `ta`
-
-Woman dies at unsafe railway crossing in Hikkaduwa. Killed by train from Galle to Aluthgama. Autopsy conducted, body at Karapitiya Hospital. Police investigating incident.
-
-🟩
-
-A woman who was traveling in an unsafe railway crossing in Amarasena Mawatha, Hikkaduwa has died.
-
-The woman was killed in a train traveling from Galle to Aluthgama yesterday evening.
-
-After the autopsy, the body was placed in the funeral room of the Karapitiya Hospital and Hikkaduwa police are conducting further investigations.. Remble
-
-◼️
-
-[Data](articles/8244f877.json)
-
-[Extended Data](ext_articles/8244f877.ext.json)
 
 ---

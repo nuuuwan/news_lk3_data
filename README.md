@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 02:24:39**
+As of **2024-11-11 02:40:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,081 (100.0%) of 54,088 articles have been extended.
+54,083 (100.0%) of 54,088 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Presidential Election 2024 has shown a dramatic shift in the voting behaviou
 
 [Data](articles/2759300f.json)
 
+[Extended Data](ext_articles/2759300f.ext.json)
+
 ---
 
 ### Urgent need to regulate media coverage of crimes against children
@@ -57,6 +59,8 @@ We have all heard the tragic stories of child victims—whether through news rep
 ...
 
 [Data](articles/a17dc403.json)
+
+[Extended Data](ext_articles/a17dc403.ext.json)
 
 ---
 

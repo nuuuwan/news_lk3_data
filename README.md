@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 09:40:32**
+As of **2024-11-10 09:59:32**
 
 ## Newspaper Stats
 
-*Scraped **53,948** Articles*
+*Scraped **53,955** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,120 @@ dbsjeyarajcom | 421
 bbccomsinhala | 548
 colombotelegraphcom | 553
 islandlk | 3,230
-economynextcom | 3,272
+economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,036
-adaderanalk | 6,433
+adaderanalk | 6,435
 tamilmirrorlk | 7,532
 virakesarilk | 8,729
-adaderanasinhalalk | 9,411
+adaderanasinhalalk | 9,413
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,938 (100.0%) of 53,948 articles have been extended.
+53,940 (100.0%) of 53,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### පහරදීමකින් කාන්තාවක් ජීවිතක්ෂයට
+
+*2024-11-10 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203093) · `si`
+
+පුද්ගලික ආරවුලක් හේතුවෙන් පුද්ගලයෙකු විසින් උදැල්ලකින් පහරදී කාන්තාවක් ඝාතනය කර තිබේ.
+
+ඊයේ (09) සවස් කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ ඊච්චන්කුලම්, අම්මිචෛත්‍යාන් ප්‍රදේශයේදීය.
+
+එලෙස මියගොස් ඇත්තේ, අම්මිචෛත්‍යාන්, ඊච්චන්කුලම් ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි කාන්තාවකි.
+
+මෙම ඝාතනයට සම්බන්ධ සැකකරු හඳුනාගෙන ඇති අතර, ඔහු ප්‍රදේශයෙන් පළා ගොස් ඇති බව පොලීසිය පවසයි.
+
+සැකකරු අත්අඩංගුවට ගැනීම සඳහා ඊච්චන්කුලම් පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/a60fc8b7.json)
+
+---
+
+### Two youths killed in separate road accidents in Sevanagala and Panamura
+
+*2024-11-10 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103291/two-youths-killed-in-separate-road-accidents-in-sevanagala-and-panamura) · `en`
+
+Two youths were reportedly killed in separate road accidents in the Sevanagala and Panamura police divisions yesterday (09).
+
+In the first incident, a 17-year-old was fatally injured when a bus collided with the rear of a motorcycle on the Sevanagala-Divulgas Junction road.
+
+The accident occurred as a bus traveling towards Divulgas Junction struck a motorcycle heading from Gamunupura to Laksirigama.
+
+Both the motorcyclist and the pillion rider were seriously injured, and the pillion rider succumbed to injuries after being admitted to Sevanagala Hospital.
+
+In a separate incident, a 19-year-old youth was killed in Mulendiyawala when a motorcycle collided with the trailer of a hand tractor on the Mulendiyawala-Malapalawa road.
+
+◼️
+
+[Data](articles/10cb145b.json)
+
+---
+
+### Dilith Jayaweera calls for politics free from hatred and racism
+
+*2024-11-10 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103290/dilith-jayaweera-calls-for-politics-free-from-hatred-and-racism) · `en`
+
+Gampaha District parliamentary candidate and leader of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera, emphasized the need for politics free from hatred and anger, stating that racism should never take root in the country.
+
+Speaking at a public meeting in Ambalantota, he urged the public to eliminate any divisive sentiments that may arise. “If any racist seed sprouts in this country, which has never sought our religion, dharma, or civilization, crush it immediately and eliminate racism from this country,” he said.
+
+Jayaweera also condemned “purple politics” of inconsistency, where different messages are delivered to the north and the south, calling instead for a “politics of love” that unites people.
+
+He reminded the crowd that political leaders are elected by the votes of innocent citizens and that leaders must remain committed to improving people’s lives.
+
+...
+
+[Data](articles/51f7c367.json)
+
+[Extended Data](ext_articles/51f7c367.ext.json)
+
+---
+
+### බලපෑමකින් තොරව නීතිය සැමට සමානව ක්‍රියාත්මක බව වැඩබලන පොලිස්පති කියයි
+
+*2024-11-10 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203092) · `si`
+
+‍දේශපාලන බලපෑම්වලින් තොරව නීතිය ක්‍රියාත්මක කිරීමට හැකියාව ලැබී ඇති බව වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
+
+ඔහු පැවසුවේ වත්මන් රජය විසින් සියලු දෙනාට නීතිය එකලෙස ක්‍රියාත්මක කරන ලෙස උපදෙස් ලබාදී ඇති බවය.
+
+යාපනය, චුන්නාකම් පොලිස් ස්ථානයේ නව ගොඩනැගිල්ලක් ස්ථාපිත කිරීම වෙනුවෙන් පැවති උත්සවයට එක්වෙමින් වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා මේ බව පැවසීය.
+
+"දැන් පවතින රජය සැමට නීතිය සමානව සලකන්න කියලා සහ සැමට නීතිය සමානව ක්‍රියාත්මක කරන්න කියලා මට දැනුම්දීලා තියෙනවා, මගෙන් සියලුම නිලධාරීන්ට දැනුම්දීලා තියෙනවා. මැතිවරණයෙන් පසුව සිදුවන අප්‍රසන්නතම කාලය තමයි පශ්චාත් මැතිවරණ සමය. අපි ඒකට කිව්වේ පශ්චාත් මැතිවරණ ප්‍රචණ්ඩ කාලය කියලා. හැබැයි පසුගිය ජනාධිපතිවරණයෙන් පස්සේ එහෙම කිසිම සිදුවීමක් වුණේ නැහැ. අලුත් සංස්කෘතියක් ශ්‍රී ලංකාවේ බිහිවුණා. මේකට මම හිතන්නේ ප්‍රජාවත් ඒ වගේම පත්වෙච්ච රජයත්, අපිට දීපු උපදෙසුත්... ඒ වගේම නීතිය ක්‍රියාත්මක කරන්න සමස්ත පොලීසියට ලැබුණු බලයත් නිසියාකාරයෙන් ක්‍රියාත්මක කරන්න හම්බෙලා තියෙනවා.
+
+...
+
+[Data](articles/ef9745d8.json)
+
+---
+
+### Sri Lanka central bank buys US$189mn from banks in October
+
+*2024-11-10 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us189mn-from-banks-in-october-186731/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank has bought 189.5 million US dollars from forex markets in October 2024, higher than the 96 million US dollars a month ago, official data showed.
+
+From around late 2022 the central bank has run broadly deflationary policy, triggering balance of payments surpluses amid negative or weak private credit and net repayments of state energy enterprise credit.
+
+When a reserve collecting central bank runs deflationary policy and mop up liquidity from dollar purchases, (generating a BOP surplus) it can either appreciate, depreciate or hold the exchange rate.
+
+The central bank also allowed the exchange rate to appreciate amid balance of payments surplus in sharp contrast to other IMF program, where currencies are not appreciated even in deflationary policy for ‘competitive exchange rates’.
+
+...
+
+[Data](articles/8e3605e8.json)
+
+---
 
 ### Woman killed after being hit by train in Hikkaduwa
 
@@ -117,6 +213,24 @@ Delhi Ganesh has acted in over 400 films in Tamil and Telugu.. Delhi Ganesh has 
 [Data](articles/028ab69c.json)
 
 [Extended Data](ext_articles/028ab69c.ext.json)
+
+---
+
+### Sri Lankan Airlines cancels flights over technical issues
+
+*2024-11-10 08:11:00* · [`economynextcom`](https://economynext.com/sri-lankan-airlines-cancels-flights-over-technical-issues-186729/) · `en`
+
+ECONOMYNEXT – State-run SriLankan Airlines said it had cancelled a several flights over “technical issues affecting multiple aircraft”.
+
+“We are working diligently to resolve these issues and restore normal operations, with passenger safety as our highest priority,” the airline said in a statement.
+
+“We apologise for the inconvenience and appreciate our customers’ patience.
+
+“Affected passengers are being provided with meals and hotel accommodation, and we are working hard to get everyone to their final destinations.” (Colombo/Nov10/2024)
+
+◼️
+
+[Data](articles/aa33b39c.json)
 
 ---
 
@@ -487,6 +601,8 @@ In 1991, I received an unexpected call from Sohan. “Mr. J, I just recorded a n
 ...
 
 [Data](articles/01675530.json)
+
+[Extended Data](ext_articles/01675530.ext.json)
 
 ---
 
@@ -1121,6 +1237,26 @@ In education sector there was strong competition. Hemas said it cut prices while
 [Data](articles/36dbd034.json)
 
 [Extended Data](ext_articles/36dbd034.ext.json)
+
+---
+
+### Sri Lanka consumer good firms in aggressive price cuts as rupee appreciates: HHL
+
+*2024-11-09 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-good-firms-in-aggressive-price-cuts-as-rupee-appreciates-hhl-186707/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hemas Holdings which has interests in personal care, stationery and pharmaceuticals said industry players were cutting prices as a strong rupee reduced costs at a time when consumers were looking for low prices.
+
+“During the quarter, the strengthening of the domestic currency and declining global commodity prices have led to aggressive pricing and promotion strategies among industry players, intensifying competition in key categories,” the group told shareholders in its September quarter financial review.
+
+“A strong focus on value-for-money (VFM) options continues, reflecting the current constraints on purchasing power.”
+
+In education sector there was strong competition. Hemas said it cut prices while maintaining quality.
+
+“Despite severe competition in the market, the company has successfully maintained its leading position by adapting to evolving consumer preferences for high quality products at competitive pricing,” the group said.
+
+...
+
+[Data](articles/63ec500c.json)
 
 ---
 
@@ -2179,159 +2315,5 @@ Authorities, including the Governor of the Central Province, have been notified 
 [Data](articles/5bfc5957.json)
 
 [Extended Data](ext_articles/5bfc5957.ext.json)
-
----
-
-### Two sluice gates of Polgolla
-
-*2024-11-09 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203063) · `si`
-
-Polgolla Mahaweli Reservoir Kandy sluice gates opened heavy rains 140 cubic meters water released Victoria Reservoir
-
-🟩
-
-Two sluice gates of the Mahaweli Reservoir in Kandy have been opened with the heavy rains.
-
-The engineer of the Mahaweli Authority of the Mahaweli Authority of Sri Lanka said that two sluice gates of the reservoir were opened.
-
-According to the Mahaweli Authority of the Mahaweli Authority, about 140 cubic water cuts will be released to the Victoria Reservoir.
-
-◼️
-
-[Data](articles/6ef782cc.json)
-
-[Extended Data](ext_articles/6ef782cc.ext.json)
-
----
-
-### Kandy chief school kills many classes
-
-*2024-11-09 11:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203062) · `si`
-
-Kandy school damage: Heavy rain causes wall collapse, 27 classrooms critical. Authorities aware, taking action.
-
-🟩
-
-Kandy D. S. A large wall of Senanayake Vidyalaya was damaged and several classes were damaged.
-
-The accident occurred with heavy rains last night.
-
-The Principal Ananda Upatissa says 27 more classes are in critical condition.
-
-All classes and other classes are at risk.
-
-Ananda Upatissa said that there was a number of other classes today (09).
-
-He further stated that the authorities including the Central Province Governor informed the existing risk and that the authorities are conducted in accordance with the instructions of the authorities.
-
-◼️
-
-[Data](articles/de02d87b.json)
-
-[Extended Data](ext_articles/de02d87b.ext.json)
-
----
-
-### Chinese funds transferred to Treasury for disaster relief and monitoring project
-
-*2024-11-09 11:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103272/chinese-funds-transferred-to-treasury-for-disaster-relief-and-monitoring-project) · `en`
-
-The People’s Republic of China has provided financial assistance totaling approximately Rs. 30 million to compensate for damage to houses and properties caused by natural disasters from January 1 to October 30, 2024. This amount has been forwarded to the Treasury, according to the PMD.
-
-In addition, the Department of National Budget has allocated further financial provisions to the Ministry of Defence for the reconstruction of homes affected by the disasters. The Department of Treasury Operations has promptly released these funds to the Ministry of Defence, the President’s Media Division (PMD) stated.
-
-These additional provisions were necessary because the 2024 budget did not include adequate funds to address the needs of disaster victims, it said.
-
-Furthermore, material assistance worth 10 million Yuan is expected from the People’s Republic of China under the Emergency Humanitarian Assistance Program. The goods will be properly accounted for and distributed once received, the PMD said.
-
-...
-
-[Data](articles/9c1a3b36.json)
-
-[Extended Data](ext_articles/9c1a3b36.ext.json)
-
----
-
-### A lorry umbrella crashing in Nuwara Eliya;Fourth wound
-
-*2024-11-09 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198240) · `ta`
-
-Lorry crash in Nuwara Eliya: Four injured after vehicle carrying tea hits umbrella on road. Driver lost control due to brake failure, causing accident.
-
-🟩
-
-Nuwara Eliya police said that four people were injured when a lorry carrying tea in Nuwara Eliya was hit by an umbrella on the road.
-
-Nuwara Eliya police said that a lorry carrying tea from the Nuwara Eliya Scrap estate to the Beethru Tea Factory lost control of the driver and crashed into the street with a tea.
-
-The lorry that went forward suddenly came backwards due to the sudden breakdown (brake).
-
-◼️
-
-[Data](articles/9bba4a72.json)
-
-[Extended Data](ext_articles/9bba4a72.ext.json)
-
----
-
-### Despite the chairman and Vice President of Elpitiya Little Vote
-
-*2024-11-09 10:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203061) · `si`
-
-Elpitiya Pradeshiya Sabha election results: Chairman Pathirage Wagoda, Vice Chairman Pathirage Colombo. National Jathi Province wins 17,295 votes, followed by six other parties and an independent group winning six seats each.
-
-🟩
-
-According to the Elpitiya Pradeshiya Sabha elections, the names of the Chairman and Vice Chairman of the Pradeshiya Sabha has issued a special gazette issued by the Elections Commission yesterday.
-
-Accordingly, the Chairman of the Elpitiya Pradeshiya Sabha was designated as the Chairman of the Elpitiya Pathirage, Wagoda Pathirage, Colombo.
-
-There were eight recognized political parties accepted on behalf of the Elpitiya Pradeshiya Sabha in Galle District and only one independent group.
-
-The National Jathi Province was won by taking 17,295 votes.
-
-Second place, six seats, six other parties and the independent group, won six seats, including six seats and the Sri Lanka Campaign Pubelian Front.
-
-◼️
-
-[Data](articles/1119b733.json)
-
-[Extended Data](ext_articles/1119b733.ext.json)
-
----
-
-### Chairman and Vice Chairman appointed for Elpitiya PS
-
-*2024-11-09 10:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103271/chairman-and-vice-chairman-appointed-for-elpitiya-ps) · `en`
-
-A Gazette Extraordinary has been issued, officially appointing the Chairman and Vice Chairman for the Elpitiya Pradeshiya Sabha, in the Galle District, under Section 66B (1) of the Local Authorities Elections Ordinance.
-
-According to the Gazette notification, Kolamba Thanthreege Nishantha Perera has been appointed as Chairman, and Wagoda Pathirage Sumith Chandana as Vice Chairman.
-
-◼️
-
-[Data](articles/46b5ed0d.json)
-
-[Extended Data](ext_articles/46b5ed0d.ext.json)
-
----
-
-### The national people have no intention of solving the problem of the Tamil people;The statement of Vijitha Heeram reveals the same - Chandrakumar
-
-*2024-11-09 10:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198238) · `ta`
-
-Tamil people face obstacles from national powers. Equality Party leader Murugesu Chandrakumar criticizes Vijitha Herath's stance on Samasti. He emphasizes unity among Tamil and Sri Lankan communities. The party supports democratic pluralism in Sri Lanka.
-
-🟩
-
-Neither Vijitha Hera or the national power has the power to say that Samasti cannot be given. We vehemently condemn this. The party. Vijitha Herath must understand that the government and the kingdom are different. Is it possible to rule without a change, saying that we are creating a change?If so, what is the change you are trying to create?The General Secretary of the Equality Party and the United People's Power. Murukesu Chandrakumar, the chief candidate of the electoral district, has questioned.
-
-He was speaking at the election propaganda meeting in Vadamarachchi East.
-
-...
-
-[Data](articles/db66b8a6.json)
-
-[Extended Data](ext_articles/db66b8a6.ext.json)
 
 ---

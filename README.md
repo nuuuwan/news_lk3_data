@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 20:40:13**
+As of **2024-11-10 20:58:56**
 
 ## Newspaper Stats
 
-*Scraped **54,045** Articles*
+*Scraped **54,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,049
 adaderanalk | 6,449
 tamilmirrorlk | 7,546
-virakesarilk | 8,760
+virakesarilk | 8,764
 adaderanasinhalalk | 9,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,045 (100.0%) of 54,045 articles have been extended.
+54,045 (100.0%) of 54,049 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -79,6 +79,66 @@ New Zealand was able to win the 4 tournaments that the tournament was replaced b
 [Data](articles/8279dd31.json)
 
 [Extended Data](ext_articles/8279dd31.ext.json)
+
+---
+
+### பதிவு செய்யாமல் தாமதப்படுத்தும் வாகன வர்த்தகர்களுக்கு அபராதம்
+
+*2024-11-10 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198352) · `ta`
+
+சுற்றுச்சூழல் தரமற்ற மூன்று சக்கர வாகனங்களுக்கு இறக்குமதி தடையை நிறுத்தி, மின்சார மூன்று சக்கர வாகனங்களுக்கு அனுமதி வழங்கப்பட்டுள்ளது. இது சுற்றுச்சூழலுக்கான பயணத்தில் சிறந்த மாற்றமாக கருதப்படுகிறது. மேலும், பசுமை தொழில்நுட்பத்தை ஊக்குவித்து, எரிபொருள் செலவுகளைத் தவிர்க்கும் வகையில் உருவாக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/cf865b90.json)
+
+---
+
+### உயிர்த்த ஞாயிறு தாக்குதல் குறித்து அடுத்த சில நாட்களில் முக்கியமான தகவல் - ஜனாதிபதி
+
+*2024-11-10 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198366) · `ta`
+
+உயிர்த்த ஞாயிறு தாக்குதல் குறித்து அடுத்த சில நாட்களில் குறிப்பிடத்தக்க தகவல்கள் வெளியாகலாம் என ஜனாதிபதி அனுரகுமார திசநாயக்க தெரிவித்துள்ளார்.
+
+உயிர்த்த ஞாயிறு தாக்குதல் குறித்த சிறந்த செய்தியை அடுத்த சில நாட்களில் எதிர்பாருங்கள் என அவர் தெரிவித்துள்ளார்.
+
+சண்டே லீடர் ஆசிரியர் லசந்த விக்கிரமதுங்க, ரக்பிவீரர் வாசிம் தாஜூதீன் படுகொலைகள் குறித்து விசாரணைகளை மேற்கொள்வேன் என ஜனாதிபதி  அனுரகுமாரதிசநாயக்க உறுதியளித்துள்ளார்.
+
+லசந்தவிக்கிரமதுங்க வாசிம்தாஸ்ரீஜூதீன் பிரகீத் எக்னலிகொட விவகாரங்கள் குறித்து விசாரணை செய்து அதற்கு காரணமானவர்களை அரசாங்கம் நீதியின் முன் நிறுத்தும் என அவர் தெரிவித்துள்ளார்.
+
+தம்புள்ளையில் தேர்தல் பேரணியில் உரையாற்றுகையில் இதனை தெரிவித்துள்ள அவர் அரசியல் அதிகாரம் படைத்தவர்களால் அப்பாவி மக்கள் கொல்லப்படும் யுகத்தை முடிவிற்கு கொண்டுவருவோம் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a42b343c.json)
+
+---
+
+### இ.தொ.கா செய்தவற்றை பட்டியலிட தேவையில்லை - செந்தில் தொண்டமான் விசேட செவ்வி
+
+*2024-11-10 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198349) · `ta`
+
+தோட்டத் தொழிலாளர்களுக்கு நியாயமான சம்பளத்தை வழங்குவோம் என்று ஜனாதிபதி அநுர கூறுகின்றார். ஆனால் அவரால் ஒரு தொகையை நிர்ணயிக்க முடியவில்லை. ஆகவே அவரது கதைகளை எப்படி நம்புவது? புதிய ஜனாதிபதியாக தெரிவு செய்யப்பட்ட  ஒருவரை ஒன்றரை மாதங்களில் மக்கள் முழுமையாக  நம்பி விட முடியுமா? ஆகவே  மக்கள் தெளிவான சிந்தனையுடனேயே இருக்கின்றனர். அவர்கள் என்றும் எமது பக்கமே நிற்கின்றனர். நாமும் மக்கள் பக்கமே இருக்கின்றோம்.
+
+◼️
+
+[Data](articles/5f8e41e3.json)
+
+---
+
+### உள்நாட்டுத் துப்பாக்கியுடன் இருவர் கைது !
+
+*2024-11-10 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198354) · `ta`
+
+இரு வேறு பிரதேசங்களில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புக்களின்போது உள்நாட்டு துப்பாக்கியை வைத்திருந்த சந்தேக நபர்கள் இருவர் நேற்று சனிக்கிழமை (09) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+தம்பகல்ல பொலிஸ் பிரிவுக்குட்பட்ட ஊவா கங்கொடகம பிரதேசத்தில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் சனிக்கிழமை (09) கைது செய்யப்பட்டுள்ளார்.
+
+மேலும், கிரில்ல பொலிஸ் பிரிவுக்குட்பட்ட நபடயாய பகுதியில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் நேற்றைய தினமே கைது செய்யப்பட்டார்.
+
+◼️
+
+[Data](articles/e89ed921.json)
 
 ---
 
@@ -2277,93 +2337,5 @@ He said that the electricity bill would be decreased by about 30 percent. He is 
 [Data](articles/9d3301f0.json)
 
 [Extended Data](ext_articles/9d3301f0.ext.json)
-
----
-
-### Woman killed after being hit by train in Hikkaduwa
-
-*2024-11-10 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103289/woman-killed-after-being-hit-by-train-in-hikkaduwa) · `en`
-
-A 66-year-old woman was killed after being hit by a train at an unprotected railway crossing on Amarasena Mawatha in Hikkaduwa.
-
-The accident occurred last evening (09) as the train was traveling from Galle to Aluthgama.
-
-The victim, identified as a resident of Walpitimulla in the Dewalapola area, was transported to the Karapitiya Hospital, where a post-mortem was conducted.
-
-The body is currently being held in the hospital mortuary. Hikkaduwa Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/01af62e8.json)
-
-[Extended Data](ext_articles/01af62e8.ext.json)
-
----
-
-### IMF delegation to visit Sri Lanka next week
-
-*2024-11-10 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103288/imf-delegation-to-visit-sri-lanka-next-week) · `en`
-
-A group of representatives from the International Monetary Fund (IMF) is scheduled to visit Sri Lanka next week.
-
-This delegation will conduct the third review under the country’s Extended Fund Facility (EFF) program provided by the IMF. The team will be led by the IMF’s senior mission chief, Peter Brewer.
-
-Following this review, the IMF is expected to release the next loan installment to Sri Lanka.
-
-During their visit, the IMF delegation will discuss the current government’s economic policies in detail. They will also evaluate the implementation of previous agreements with the IMF and review recent progress made under Sri Lanka’s economic reform program.
-
-The Secretary of the Ministry of Finance and the Governor of the Central Bank recently assured IMF representatives during discussions in Washington that the government remains committed to adhering to the IMF agreement.
-
-After the third review, the fourth installment for Sri Lanka under the EFF program will be released.
-
-◼️
-
-[Data](articles/a93f837e.json)
-
-[Extended Data](ext_articles/a93f837e.ext.json)
-
----
-
-### Country Want a Hate and Excertion Politics - Dilith
-
-*2024-11-10 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203091) · `si`
-
-Dilith Jayaweera calls for ending divisive politics, promoting unity and love instead. He emphasizes the need to protect innocent citizens' rights and prevent further polarization in Sri Lanka.
-
-🟩
-
-The leader of the Matara district, the Gampaha District candidate, lawyers, Entrepreneurship Dilith Jayarawara says that the country has the necessary time has come from hatred.
-
-He points out that it should not be brought back in the country.
-
-Addressing an entrepreneur Dilith Jayaweera expressed his views at a meeting held in Ambalantota.
-
-...
-
-[Data](articles/db5c0e79.json)
-
-[Extended Data](ext_articles/db5c0e79.ext.json)
-
----
-
-### Famous actor Delhi Ganesh has passed away
-
-*2024-11-10 08:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகர்-டெல்லி-கணேஷ்-காலமானார்/54-346854) · `ta`
-
-Renowned actor Delhi Ganesh (65) passed away at 11 PM. He appeared in over 400 Tamil and Telugu films, as well as stage productions.
-
-🟩
-
-Famous actor Delhi Ganesh passed away at around 11 pm last night.
-
-It is reported that his residence in Ramapuram, Chennai passed away last night.
-
-Delhi Ganesh has acted in over 400 films in Tamil and Telugu.. Delhi Ganesh has acted in not only films but also in iconic plays.
-
-◼️
-
-[Data](articles/028ab69c.json)
-
-[Extended Data](ext_articles/028ab69c.ext.json)
 
 ---

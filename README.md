@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 18:19:53**
+As of **2024-11-10 18:32:03**
 
 ## Newspaper Stats
 
-*Scraped **54,039** Articles*
+*Scraped **54,041** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,49 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,047
 adaderanalk | 6,449
-tamilmirrorlk | 7,545
+tamilmirrorlk | 7,546
 virakesarilk | 8,760
-adaderanasinhalalk | 9,427
+adaderanasinhalalk | 9,428
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,027 (100.0%) of 54,039 articles have been extended.
+54,029 (100.0%) of 54,041 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### මැතිවරණ කාලසීමාව වෙනුවෙන් තවත් විශේෂ වැඩපිළිවෙළක්
+
+*2024-11-10 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203108) · `si`
+
+පාර්ලිමේන්තු මැතිවරණ කාලසීමාව තුළ ඇතිවිය හැකි ආපදා තත්ත්වයන් වෙනුවෙන් ක්‍රියාත්මක වීම සඳහා විශේෂ වැඩපිළිවෙළක් සැලසුම් කර ඇති බව ආපදා කළමනාකරණ මධ්‍යස්ථානය පවසයි.
+
+එහි අධ්‍යක්ෂ ප්‍රදීප් කොඩිප්පිලි මහතා සඳහන් ක‍ළේ, ඒ සඳහා ආපදා කළමනාකරණ මධ්‍යස්ථානයේ විශේෂ ඒකකයක් පිහිටුවීමට ද නියමිත බවය.
+
+ලබන 12 වනදා සිට එම ඒකකයේ කටයුතු ආරම්භ කිරීමට නියමිතව ඇති බව ඒ මහතා පවසයි.
+
+ඒ අනුව මැතිවරණයට පෙර දින දෙකක් හා මැතිවරණයට පසු දින දෙකක් වන පරිදි දින 05ක කාලයක් සඳහා මැතිවරණ මහලේකම් කාර්යාලය සමග එක්ව මෙම විශේෂ වැඩසටහන ක්‍රියාත්මක කිරීමට නියමිත බව ප්‍රදීප් කොඩිප්පිලි මහතා වැඩිදුරටත් පැවසුවේය.
+
+◼️
+
+[Data](articles/abc0e897.json)
+
+---
+
+### புதிய அரசியல் கலாசாரம்   முஸ்லிம்களை பாதுகாக்குமா?
+
+*2024-11-10 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/198318) · `ta`
+
+முஸ்லிம் பாராளுமன்ற உறுப்பினர்கள் சமூகத்திற்கு எதுவும் செய்யவில்லை என்பதற்காக கால்களை இழந்து தங்கச் சப்பாத்தை கோர முடியாது. கடந்த காலங்களில் தெரிவு செய்யப்பட்ட பாராளுமன்ற உறுப்பினர்கள் எதுவும் செய்யவில்லையென்றால் அதற்கான பொறுப்பை முதலில் சமுகம்தான் ஏற்றுக் கொள்ள வேண்டும். பொருத்தமான வேட்பாளர்களை தோற்கடித்து, பொருத்தமற்றவர்களை தெரிவு செய்தமை சமூகத்தின் குற்றமாகும்.
+
+◼️
+
+[Data](articles/727af2c9.json)
+
+---
 
 ### Tamil cinema reties
 
@@ -137,6 +167,32 @@ Rosie Senanayake opposes removing 225 MPs, citing corruption. She argues against
 [Data](articles/082c4665.json)
 
 [Extended Data](ext_articles/082c4665.ext.json)
+
+---
+
+### One arrested with various foreign gun and drugs in Borella
+
+*2024-11-10 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198322) · `ta`
+
+Arrest made in Borella: Heroin, ice, drugs, bullets, firearms seized. Suspect from Dematagoda, 23 years old. Police operation based on CIID tip-off.
+
+🟩
+
+A man was arrested on Saturday (09) with heroin, ice, narcotics, bullets and foreign Tukpaki in the T20 garden area of ​​the Borella Police Division.
+
+The man was arrested during a raid carried out on the basis of information received by officials of the Colombo South Criminal Investigation Division.
+
+The arrested suspect is from the 23 -year -old Dematagoda area.
+
+120 grams of 390 milligrams of heroin has been seized by the police.
+
+Based on the suspect's confession, the police seized 30 grams of 650 milligrams of ice, 5000 drug pills, abroad -made rifles, 9 millimeters of bullets and 2 bullets used for revolver.
+
+◼️
+
+[Data](articles/0ed3f8b0.json)
+
+[Extended Data](ext_articles/0ed3f8b0.ext.json)
 
 ---
 
@@ -324,32 +380,6 @@ Answer - We are joining the United People's Alliance as a publication of the Uni
 
 ---
 
-### One arrested with various foreign gun and drugs in Borella
-
-*2024-11-10 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198322) · `ta`
-
-Arrest made in Borella: Heroin, ice, drugs, bullets, firearms seized. Suspect from Dematagoda, 23 years old. Police operation based on CIID tip-off.
-
-🟩
-
-A man was arrested on Saturday (09) with heroin, ice, narcotics, bullets and foreign Tukpaki in the T20 garden area of ​​the Borella Police Division.
-
-The man was arrested during a raid carried out on the basis of information received by officials of the Colombo South Criminal Investigation Division.
-
-The arrested suspect is from the 23 -year -old Dematagoda area.
-
-120 grams of 390 milligrams of heroin has been seized by the police.
-
-Based on the suspect's confession, the police seized 30 grams of 650 milligrams of ice, 5000 drug pills, abroad -made rifles, 9 millimeters of bullets and 2 bullets used for revolver.
-
-◼️
-
-[Data](articles/0ed3f8b0.json)
-
-[Extended Data](ext_articles/0ed3f8b0.ext.json)
-
----
-
 ### Sinhalese is the main issue faced by Vanni - Sivasakthi Ananthan
 
 *2024-11-10 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198333) · `ta`
@@ -530,31 +560,55 @@ Answer: A meeting with Douglas Devananda, who served as a minister while serving
 
 ---
 
-### நாட்டில் சிறந்த அரசியல் கலாசாரத்தை தோற்றுவிப்போம் : தேசிய மக்கள் சக்தியின் கம்பஹா மாவட்ட வேட்பாளர் சுப்பிரமணியம் செவ்வி
+### Gampaha District Candidate of National People's Power
 
 *2024-11-10 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198328) · `ta`
 
-தேசிய மக்கள் சக்தி அனைத்து இன மக்களின் அபிவிருத்திகளுக்கும் அவதானம் செலுத்தியுள்ளது. ஆகவே பொதுத்தேர்தலில் வெற்றி பெற்றவுடன் வத்தளை பகுதியில் நிலவும் அடிப்படை பிரச்சினைகளுக்கு  தீர்வு பெற்றுக் கொடுப்போம். கம்பஹா மக்கள் எம்மீது நம்பிக்கை கொண்டு எமக்கு ஒத்துழைப்பு வழங்க வேண்டும். சிறந்த அரசியல் கலாசாரத்தை தோற்றுவிப்போமென  தேசிய மக்கள் சக்தியின் கம்பஹா மாவட்ட வேட்பாளர் சுப்பிரமணியம் தெரிவித்தார்.
+Here's a 200-character summary:
 
-கேள்வி: பாரம்பரியமான அரசியல் கட்சிகள் சவால்களை எதிர்க்கொண்டுள்ள பின்னணியில் தேசிய மக்கள் சக்தியை தெரிவு செய்வதற்கான காரணம் என்ன ?
 
-பதில்: எனது குடும்பத்தினர் செயற்பாட்டு ரீதியிலான அரசியல் பின்னணியை கொண்டவர்கள். தேசிய மக்கள் சக்தியுடன் கொள்கை ரீதியில் ஒன்றிணைந்துள்ளேன்.தேசிய மக்கள் சக்தியின் தேசிய புத்திஜீவிகள் அமைப்பில் ஒன்றிணைந்து செயற்பாட்டு ரீதியிலான அரசியலில் ஈடுபட்டேன்.
+
+National People's Power candidate Subramaniam promises to address basic issues in Gampaha district, focusing on ethnic group development and creating positive political culture. He emphasizes his experience in activist politics and commitment to supporting all communities.
+
+🟩
+
+The National People's Power has paid attention to the development of all ethnic groups. So once we win the general election, we will solve the basic problems in the Wattala area. Gampaha people should trust us and cooperate with us. Subramaniam, the Gampaha district candidate of the National People's Power, said that the best political culture will be created.
+
+Question: What is the reason for the choice of national people in the context of traditional political parties opposed to challenges?
+
+Answer: My family has an active political background. I have joined the National Intelligence Agency of the National People's Power.
+
+I have decided to contest the general election with the National People's Power. Since 2018, I have been involved in activated politics.
+
+Question: People who vote for you need to know about you. So can you mention you?
 
 ...
 
 [Data](articles/4fac0a31.json)
 
+[Extended Data](ext_articles/4fac0a31.ext.json)
+
 ---
 
-### மீண்டும் “ஏக்கிய ராஜ்ய”?
+### Again "Akya Kingdom"?
 
 *2024-11-10 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198327) · `ta`
 
-ஏக்கிய ராஜ்ய என்பது ஒற்றை ஆட்சியா, ஒருமித்த நாடா என்ற ஒரு சா்ச்சை அப்போது உருவாகியது கேசரி வாசகா்களுக்கு நினைவிருக்கலாம். அரசியலமைப்பு நிா்ணய சபையின் வழிநடத்தல் குழுவில் இருந்த ஜே.வி.பி. உறுப்பினா்கள் அப்போது முன்வைத்த அறிக்கையில், “மாகாண சபை தேசியப் பிரச்சினைக்கான தீா்வல்ல” என்பது முக்கியமாகக் குறிப்பிடப்பட்டிருந்தது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Akya Kingdom" controversy: Kesari Vasakas emphasizes unity under one ruler. JVP's Constitutional Council opposes provincial councils, calling them "not the national problem".
+
+🟩
+
+Kesari Vasakas may remember that the Kingdom of Kingdom is a single rule and a consensus tape. The JVP in the guidance committee of the Constitutional Council. In a statement presented by the members, it was important that the provincial council was "not the national problem".
 
 ◼️
 
 [Data](articles/c2513ca0.json)
+
+[Extended Data](ext_articles/c2513ca0.ext.json)
 
 ---
 
@@ -614,15 +668,21 @@ Answer: A meeting with Douglas Devananda, who served as a minister while serving
 
 ---
 
-### புதிய அரசியல் கலாசாரம்   முஸ்லிம்களை பாதுகாக்குமா?
+### கனரக வாகனம் குடைசாய்ந்தது
 
-*2024-11-10 15:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198318) · `ta`
+*2024-11-10 15:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கனரக-வாகனம்-குடைசாய்ந்தது/76-346882) · `ta`
 
-முஸ்லிம் பாராளுமன்ற உறுப்பினர்கள் சமூகத்திற்கு எதுவும் செய்யவில்லை என்பதற்காக கால்களை இழந்து தங்கச் சப்பாத்தை கோர முடியாது. கடந்த காலங்களில் தெரிவு செய்யப்பட்ட பாராளுமன்ற உறுப்பினர்கள் எதுவும் செய்யவில்லையென்றால் அதற்கான பொறுப்பை முதலில் சமுகம்தான் ஏற்றுக் கொள்ள வேண்டும். பொருத்தமான வேட்பாளர்களை தோற்கடித்து, பொருத்தமற்றவர்களை தெரிவு செய்தமை சமூகத்தின் குற்றமாகும்.
+நுவரெலியா கண்டி  பிரதான வீதியில் லபுக்கலை குடாஓயா பகுதியில் ஞாயிற்றுக்கிழமை (10) பிற்பகல்  கனரக வாகனம் குடைசாய்ந்துள்ளது இதனால் சுமார் ஒரு  மணிநேரம் இவ்விதியூடான போக்குவரத்து பாதிக்கப்பட்டுள்ளது.
+
+குறித்த வீதியில் பாரிய வளைவு பகுதியில் திடீரென இயந்திரக் கோளாறு ஏற்பட்டுள்ளது இதனால் வாகனத்தை கட்டுப்படுத்த முடியாததன் காரணமாகவே இவ்விபத்து நேர்ந்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+வெளிநாடுகளில் இருந்து இறக்குமதி செய்யப்படும் புற்களைளை கொழும்பு துறைமுகத்திலிருந்து நுவரெலியா வழியாக அம்பேவல நியூசிலாந்து பாற் பண்ணைக்கு  ஏற்றிச்சென்ற கனரக  வாகனமே இவ்வாறு விபத்துக்குள்ளாகியுள்ளதாகவும், இவ்விபத்தில் எவருக்கும் எவ்வித பாதிப்புக்களும் ஏற்படவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.
+
+விபத்து காரணமாக அவ்வீதியின் ஊடாக பயணித்த ஏனைய வாகனங்கள் வீதியின் இரு புறங்களிலும் பயணத்தை தொடர முடியாதவாறு நீண்ட வரிசையில் அணிவகுத்து நின்றதன் காரணமாக சுமார் ஒரு மணிநேரம் மேற்படி வீதியூடான போக்குவரத்து பாதிக்கப்பட்டது.
 
 ◼️
 
-[Data](articles/727af2c9.json)
+[Data](articles/11a239bf.json)
 
 ---
 
@@ -2211,69 +2271,5 @@ Qatar said initial reports it had withdrawn from mediation talks and said that H
 [Data](articles/f8fc62b9.json)
 
 [Extended Data](ext_articles/f8fc62b9.ext.json)
-
----
-
-### Why should women represent Parliament?
-
-*2024-11-10 07:48:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyv7104ln9o) · `si`
-
-Here's a 200-character summary:
-
-
-
-Women underrepresented in Sri Lanka's Parliament despite being majority of population. Low female MP percentages (less than 6%) since 1989. Experts argue women's voices crucial for addressing gender-specific issues, economic challenges, and social inequalities. Increased female representation needed to create more inclusive policies benefiting both genders.
-
-🟩
-
-Women are the top of Sri Lanka in the top of Sri Lanka as the population, voter percentage and literacy.
-
-However, there is no percentage of women agents exceeding 6% in Parliament regarding citizens.
-
-In this year's general election, there was no talk about women's nominations, but in some districts, some parties or independent groups are not included in the nomination list.
-
-Why do women in politics make a terrible blasphemy?
-
-At a time of the general election, BBC was looking for as a percentage of women should be in Parliament.
-
-In 1931, with Sri Lanka to be elected elections, women have the right to vote.
-
-Accordingly, the first legislature of the Sangege elections, the first legislature of the Ruwanwella elected to the Ruwanwella electorate, is elected to its first legislature in Sri Lanka.
-
-Since then, the first elections in 1989 had been represented in the 1989 elections for the proportional representation.
-
-...
-
-[Data](articles/66b15354.json)
-
-[Extended Data](ext_articles/66b15354.ext.json)
-
----
-
-### Tamil political theater in the North should be cleaned -Jaffna of the National People's Power. Karunanathan Ilangumaran Chevi, the primary candidate of the election district
-
-*2024-11-10 07:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198291) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil political theater in Jaffna needs cleaning. Karunanathan Ilangumaran Chevi, National People's Power candidate, criticizes false promises and corrupt politics. Aims to implement 13th Amendment and promote democracy. Promises to address past injustices and serve people's interests.
-
-🟩
-
-Tamil politics has been dominated by the north, with false promises as a partner of Sri Lanka's fraudulent politics. The survivalist politics continues even after tens of thousands of youth and women died. The Tamil political arena should be cleaned up to the National People's Power. Election district chief candidate Karunanathan Ilangumaran said in a speech to Weerakesari.
-
-Jaffna of the National People's Power. The full form of the interview with the district chief candidate Karunanathan Ilangumaran Weerakesari
-
-Question: What is the reason for you to enter politics without any political background?
-
-Answer: Politics seems to be buried within this question. Politics is for ordinary people in our language. I have contributed to the People's Liberation Front for over 10 years, its trade union movement and the national people's power.. I have been involved in the street struggles. Our political merits, including the uprising of 2022. Not the face of arrogance.
-
-...
-
-[Data](articles/65528bd6.json)
-
-[Extended Data](ext_articles/65528bd6.ext.json)
 
 ---

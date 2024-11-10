@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 11:24:55**
+As of **2024-11-10 11:40:31**
 
 ## Newspaper Stats
 
-*Scraped **53,973** Articles*
+*Scraped **53,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,49 +20,85 @@ adalk | 5,038
 adaderanalk | 6,439
 tamilmirrorlk | 7,538
 virakesarilk | 8,733
-adaderanasinhalalk | 9,415
+adaderanasinhalalk | 9,416
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,971 (100.0%) of 53,973 articles have been extended.
+53,973 (100.0%) of 53,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### ஒன்லைன் பணமோசடியில் ஈடுபட்ட நிறுவனம்;59 பேர்கைது
+### මහ මැතිවරණයේ ප්‍රචාරක කටයුතු හෙටින් අවසන්
+
+*2024-11-10 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203096) · `si`
+
+මහ මැතිවරණයේ ප්‍රචාරක කටයුතු හෙට (11) මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතව තිබේ.
+
+මැතිවරණ කොමිෂන් සභාවේ සභාපති ආර්.එම්.ඒ.එල් රත්නායක මහතා පැවසුවේ මැතිවරණ ප්‍රචාරක කටයුතු අවසන් වීමෙන් අනතුරුව මැතිවරණ ප්‍රචාරක කාර්යාල ද 12 වන දින වන විට ඉවත් කළ යුතු බවය.
+
+"මේ වන විට අපේක්ෂකයින් ඡන්ද ප්‍රචාරණ කටයුතු සඳහා කාර්යාල පිහිටුවා තිබෙනවා. එම කාර්යාලවලින් ඡන්ද කොට්ඨාස මට්ටමින් පවත්වාගෙන යන කාර්යාල සියල්ල 12 වැනිදා මධ්‍යම රාත්‍රියේ සිට ඉවත් කරගත යුතු වෙනවා. 12 මධ්‍යම රාත්‍රියෙන් පසුව තබා ගන්නට හැකියාව ලැබෙන්නේ පක්ෂ සහ කණ්ඩායම් සඳහා මැතිවරණ කොට්ඨාසයට එකක් වශයෙන් පිහිටුවා තිබෙන කාර්යාලය.
+
+ඒ වගේම ඒ දිනයේ සිට අපේක්ෂකයින්ට හැකියාව තිබෙනවා මැතිවරණ කොට්ඨාසයටම එක් කාර්යාලයක් පිහිටුවා ගන්නට. ඒ වගේම අපේක්ෂකයාගේ නිවස තවදුරටත් කාර්යාලයක් හැටියට පවත්වාගෙන යන්න පුළුවන්. නමුත් ඒ කාර්යාල කිසිවක සැරසිල්ලක් හෝ වෙනත් කිසිදු ප්‍රචාරණ කටයුත්තක් කිරීමට හැකියාව නැහැ."
+
+◼️
+
+[Data](articles/4424f01b.json)
+
+---
+
+### Company involved in online cash flow; 59 people
 
 *2024-11-10 11:17:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பணமோசடியில்-ஈடுபட்ட-நிறுவனம்-59-பேர்கைது/175-346866) · `ta`
 
-வெளிநாட்டு பிரஜைகளைக் குறிவைத்து நடாத்தப்பட்டு வந்த பெரும் ஒன்லைன் நிதி மோசடி ஒன்றை குற்றப் புலனாய்வுத் திணைக்களத்தின் (சிஐடி) சைபர் கிரைம் பிரிவு கண்டுபிடித்துள்ளதுடன் குறித்த மோசடிகளை நடாத்திய நிறுவனத்தின் இரண்டு தலைவர்கள் உட்பட 59 நபர்களையும் கைது செய்துள்ளது.
+Online cash flow fraud: 59 arrests, 2 company leaders. Foreign citizens defrauded Rs. 300 million. Luxury apartment hub. Suspects unaware of scam. Director, manager remanded. Others released on bail.
 
-சந்தேகநபர்கள் கடந்த வெள்ளிக்கிழமை (08) கொழும்பில் வைத்து கைது செய்யப்பட்டுள்ளதுடன் வெளிநாட்டு பிரஜைகளிடமிருந்து குறித்த குழு சுமார் ரூ.300 மில்லியன் வரை மோசடி செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-உறுதியளித்து உள்ளுர் நிறுவனம் ஒன்று கொரிய பிரஜை ஒருவரிடம் ரூ.300 மில்லியன் பணமோசடி செய்துள்ளதாக தென் கொரியத் தூதரகம் முறைப்பாடொன்றைப் பதிவு செய்ததன் பின்னர் சம்பவம் தொடர்பில் விசாரணைகள் ஆரம்பமாகியுள்ளன.
+The Criminal Investigation Department (CIT) has discovered a major online financial fraud on foreign citizens and has arrested 59 persons, including two leaders of the company, which has been involved in fraud.
 
-ஹெவ்லொக் வீதியிலுள்ள சொகுசு அடுக்குமாடி குடியிருப்பில் இருந்து இந்த மோசடி நடத்தப்பட்டதாக விசாரணையில் தெரியவந்துள்ளதுடன் அங்கு 23 பெண்கள் உட்பட 59 இலங்கையர்களை அதிகாரிகள் கைது செய்தனர்.
+The suspects were arrested in Colombo last Friday (08) and a group of foreign citizens has defrauded about Rs. 300 million, police said.
+
+Investigations into the incident have begun after the South Korean embassy filed a complaint that a local company had paid Rs 300 million from a Korean citizen.
+
+Investigations have revealed that the fraud was carried out from the luxury apartment on Hevlok Road, where 59 Sri Lankans, including 23 women, arrested 59 Sri Lankans.
+
+The suspects are said to have been hired to target investors under the guise of multilingualists and information technicians.. They said they were not aware of the fraud because they were hired without knowing what the fund was done.
 
 ...
 
 [Data](articles/9085a445.json)
 
+[Extended Data](ext_articles/9085a445.ext.json)
+
 ---
 
-### பட்டாசு கொளுத்தியவர் கைது
+### Crackers
 
 *2024-11-10 11:16:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பட்டாசு-கொளுத்தியவர்-கைது/76-346865) · `ta`
 
-பட்டாசுகளை கொளுத்தினார் என்றக் குற்றச்சாட்டின் பேரில், ஒருவரை ஹட்டன் பொலிஸார்,சனிக்கிழமை (09)​கைது செய்தனர்.
+Here's a summary of the text in approximately 200 characters:
 
-தேர்தல் விதிமுறைகளை மீறி பட்டாசு கொளுத்தி,  பெருந்திரளான மக்களுடன் துண்டுப் பிரசுரங்களை விநியோகித்த ஜனநாயக ஆதரவு மக்கள் குரல் கட்சியின் வேட்பாளர் அனுஷா சந்திரசேகரன் மற்றும் பலருக்கும்
 
-பொலிஸார் எச்சரித்தனர். சனிக்கிழமை (09) இடம்பெற்ற இந்த சம்பவத்தை அடுத்து பட்டாசை கொளுத்தினர் என்றக் குற்றச்சாட்டின் பேரில் ஒருவரை ஹட்டன் பொலிஸார் கைது செய்தனர்.
+
+"Police arrest man for burning crackers during election campaign. Candidate Anusha Chandrasekaran and supporters distribute leaflets, violating election rules. Police warn against such activities."
+
+🟩
+
+Hatton police arrested a man on Saturday (09) on charges of burning crackers.
+
+Anusha Chandrasekaran, the candidate of the Democratic People's Voice Party, and many others who violated the election rules and distributed leaflets with large numbers of people
+
+The police warned. Hatton police arrested a man on charges of burning fireworks following the incident on Saturday (09).
 
 ◼️
 
 [Data](articles/8b6fc125.json)
+
+[Extended Data](ext_articles/8b6fc125.ext.json)
 
 ---
 
@@ -154,7 +190,13 @@ Trying to provide relief in small quantities. This is the reason why the rural S
 
 Defence Secretary Air Vice Marshal (Retired) Sampath Thuyacontha is currently on a visit to the Arugam Bay area to inspect the prevailing security situation, the Defence Ministry said.
 
-◼️
+On October 23, Israel’s national Security Council had issued an urgent warning to Israeli citizens to leave popular tourist areas in southern Sri Lanka immediately, and classified the Arugam Bay region as a level four threat, advising Israelis to take precautions, such as concealing their Jewish identity and avoiding large gatherings.
+
+“The Israeli security establishment is maintaining close communication with Sri Lankan security authorities and closely monitoring the situation,” the council stated.
+
+It also advised Israelis in other parts of Sri Lanka to exercise caution and avoid holding large public gatherings.
+
+...
 
 [Data](articles/48489d08.json)
 
@@ -2271,29 +2313,5 @@ The Mahaweli Authority further stated that 140 cubic meters of water is opened t
 [Data](articles/c379824c.json)
 
 [Extended Data](ext_articles/c379824c.ext.json)
-
----
-
-### A man arrested in Mannar with Kerala cannabis worth Rs 8 lakh
-
-*2024-11-09 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198255) · `ta`
-
-Man arrested in Mannar with Rs 8 lakh Kerala cannabis. Suspect from Kalpitiya, sold drugs in Mannar Nagar. Handed over to Mannar police for investigation.
-
-🟩
-
-A suspect has been arrested on Friday (08) with a Kerala ganja worth about eight lakhs in Mannar.
-
-A 35 -year -old suspect from Kalpitiya area has been arrested in connection with the Mannar Army Intelligence Unit and officials of the Trincomalee Police Drug Eradication Unit in Mannar.
-
-Police said that the man was arrested for selling Kerala cannabis at the Mannar Nagar area worth about eight lakhs of rupees.
-
-The suspect has been handed over to the Mannar police station for further investigations with Kerala ganja.
-
-◼️
-
-[Data](articles/e1e24201.json)
-
-[Extended Data](ext_articles/e1e24201.ext.json)
 
 ---

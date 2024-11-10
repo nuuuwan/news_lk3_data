@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 15:24:25**
+As of **2024-11-10 15:40:23**
 
 ## Newspaper Stats
 
-*Scraped **54,003** Articles*
+*Scraped **54,005** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,045
-adaderanalk | 6,445
+adaderanalk | 6,447
 tamilmirrorlk | 7,543
 virakesarilk | 8,737
 adaderanasinhalalk | 9,422
@@ -26,33 +26,81 @@ adaderanasinhalalk | 9,422
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,002 (100.0%) of 54,003 articles have been extended.
+54,003 (100.0%) of 54,005 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### சமூகத்துக்குள் ஊடுருவும் சீனா
+### SriLankan Airline’s ‘Ramayana Trail’ ad earns praise online
+
+*2024-11-10 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103305/srilankan-airlines-ramayana-trail-ad-earns-praise-online) · `en`
+
+The Sri Lankan airlines’ advertisement promoting the Ramayana Trail has garnered praise for showcasing locations tied to the epic.
+
+An advertisement by Sri Lankan Airlines showcasing the “Ramayana Trail”, a journey through the iconic locations connected to the story of Ramayana, has won hearts on the internet.
+
+The five-minute advertisement shows a grandmother narrating the story of the Hindu epic to her grandson from a children’s book. The grandson asks about the island where Ravan took Sita after kidnapping her. The grandmother then tells him the story of the kingdom of Ravan in modern-day Sri Lanka.
+
+“All the places in the Ramayana are real. Today we know Lanka as Sri Lanka,” she says, as the video shows visuals of Ravan’s Cave near Ella town, where Sita is believed to have kept before she was moved to the Ashoka Vatika inside the demon king’s palace.
+
+...
+
+[Data](articles/a3c437fa.json)
+
+---
+
+### China
 
 *2024-11-10 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198310) · `ta`
 
-இலங்கையில் ஏற்பட்டுள்ள, ஆட்சி மாற்றத்தை அடுத்து, சீனா தனது செயற்பாடுகளை விரிவுபடுத்தவும், விரைவுபடுத்தவும் ஆரம்பித்திருக்கிறது.
+Here's a 200-character summary:
 
-மார்க்சிஸ்ட் ஜனாதிபதி என மேற்குலக ஊடகங்களால் வர்ணிக்கப்பட்ட அநுரகுமார திசாநாயக்க, பதவிக்கு வந்த பின்னர், இலங்கை அரசாங்கத்துடன் சீனாவின் ஈடுபாடு அதிகரித்திருக்கிறது.
 
-2025 ஆம் ஆண்டு பாடசாலை மாணவர்களுக்குத் தேவையான சீருடைத் துணி முழுவதையும் சீனாவே கொடையாக வழங்குவதாக அறிவித்திருக்கிறது.
 
-பொருளாதார நெருக்கடி ஏற்பட்ட பின்னர், இலங்கை மாணவர்களுக்கு சீருடைத் துணிகளை வழங்குவதற்கு சீனா முன்வந்தது.
+China expands operations in Sri Lanka after coup. Provides 100% school uniforms, builds low-income housing. Chinese contractors oversee projects. China strengthens Anuragumara Dissanayake government influence. US regime change aids China's expansion strategy in Sri Lanka.
 
-2023ஆம் ஆண்டு, 70 சதவீதமான சீருடைத் துணியை சீனா கொடையாக வழங்கியது. எஞ்சிய 30 சதவீதத்திற்கு இலங்கை அரசாங்கம் பணத்தை செலுத்தியது.
+🟩
 
-2024 ஆம் ஆண்டு 80 சதவீத சீருடை துணி சீனாவினால் கொடையாக வழங்கப்பட்டது. எஞ்சிய 20 சதவீதமும் இலங்கை அரசாங்கத்தினால் பணம் கொடுத்து தீர்க்கப்பட்டது.
+Following the coup in Sri Lanka, China has begun to expand and accelerate its operations.
 
-ரணில் விக்கிரமசிங்க ஆட்சியில் இருந்தபோது- இலங்கை பொருளாதார நெருக்கடியின் உச்சக்கட்டத்தில் இருந்தபோது கூட,  சீனா 100 சதவீத சீருடை துணியை மாணவர்களுக்கு கொடையாக வழங்குவதற்கு முன் வந்திருக்கவில்லை.
+China's involvement with the Sri Lankan government has increased since Anuragumara Dissanayake, who was described by the Western media as the President of the Marxist.
+
+In 2025, China has announced that it will provide the entire uniform cloth to schoolchildren.
+
+After the economic crisis, China offered to provide uniform clothes to Sri Lankan students.
+
+In 2023, China gave 70 percent uniform cloth. The Sri Lankan government paid the remaining 30 percent.
+
+80 percent uniform fabric was donated by China in 2024. The remaining 20 percent was resolved by the Sri Lankan government.
+
+Even when Ranil Wickremesinghe was in power- even when the Sri Lankan economic crisis was at its peak, China had not come before the 100 per cent uniform cloth to the students.
+
+China was acting in the tone that should be given and not to be fully given.
 
 ...
 
 [Data](articles/18147671.json)
+
+[Extended Data](ext_articles/18147671.ext.json)
+
+---
+
+### Foreign Ministry, Russian Embassy refutes claims of Sri Lanka’s BRICS membership application rejection
+
+*2024-11-10 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103304/foreign-ministry-russian-embassy-refutes-claims-of-sri-lankas-brics-membership-application-rejection) · `en`
+
+Sri Lanka’s Ministry of Foreign Affairs refutes the media reports claiming that Sri Lanka’s application for BRICS membership has been rejected.
+
+Issuing a statement in this regard, the ministry stated that as approved by the Cabinet on 07 October 2024, Sri Lanka applied for membership in BRICS and the New Development Bank (NDB).
+
+“The Minister of Foreign Affairs Vijitha Herath wrote to his counterparts in BRICS member countries informing of Sri Lanka’s interest to join. President Anura Kumara Dissanayake also wrote to his Russian counterpart in this regard”, it added.
+
+Furthermore, the Foreign Affairs Ministry clarified: “At the BRICS Outreach Summit held in Kazan, Russia 22-24 October 2024, Foreign Secretary Aruni Wijewardane, as leader of the Sri Lanka delegation announced Sri Lanka’s interest. At the Summit, the BRICS Member States also endorsed a new category of Partner Countries, whilst ‘welcoming the considerable interest by countries of the Global South in BRICS’ (Kazan Declaration).”
+
+...
+
+[Data](articles/055be798.json)
 
 ---
 
@@ -2279,55 +2327,5 @@ The University Grants Commission has announced that all universities will be clo
 [Data](articles/57b38be9.json)
 
 [Extended Data](ext_articles/57b38be9.ext.json)
-
----
-
-### The extension of the warning issued to several districts
-
-*2024-11-09 19:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களுக்கு-விடுக்கப்பட்ட-எச்சரிக்கை-நீடிப்பு/175-346833) · `ta`
-
-National Building Research Institute extends landslide warning for 24 hours, issues secondary warning for specific divisions in Badulla, Kandy, and Nuwara Eliya districts. First-level warning issued for caution in certain areas.
-
-🟩
-
-The National Building Research Institute has issued a notification that the landslide warning issued to several districts has been extended for another 24 hours.
-
-Accordingly, a secondary warning has been issued to the Divisional Secretariat Divisions of the Badulla, Pasarai, Hali Ela, Kandy District, Padadumbara, Thumbanaya, Ududumbara, Yattinuwara, Bahadahewahatta Nuwara Eliya District.
-
-Also, the Badulla district of the Badulla district, Welimada, Lunugala, Bandarawela, Kandy, Kegalle, Tehiyovitta, Pulathkhapitiya, Yatiyantottai, Ruwanwella Divisional SecretariatThe first level warning has been issued to be cautious for sections. Remble
-
-◼️
-
-[Data](articles/b7668bd6.json)
-
-[Extended Data](ext_articles/b7668bd6.ext.json)
-
----
-
-### Steps to close universities for two days
-
-*2024-11-09 18:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203080) · `si`
-
-University closure: UGC declares emergency holiday due to elections. Students and staff from non-government universities receive leave. Election Commission informs about using Advanced Level exams for voting eligibility.
-
-🟩
-
-The University Grants Commission has decided to declare the next day, as soon as a holiday.
-
-The Commission made announcement and this commission was taken to ensure the rights of the university students.
-
-Meanwhile, the election campaign has been informed to take steps to pay the vacations to state university staff as well as the students and students.
-
-Accordingly, the official universities and higher education institutions that are not under the government universities and the staff and students should be given leave.
-
-It is also said that the names of the 18-year-old, the names of the 18-year-old, is the names of the 18-year-olds.
-
-The Elections Commission has also been informed by the letter to use Advanced Level tuition so that the A / L students can vote.
-
-◼️
-
-[Data](articles/5ea62b13.json)
-
-[Extended Data](ext_articles/5ea62b13.ext.json)
 
 ---

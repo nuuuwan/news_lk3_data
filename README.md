@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 22:24:44**
+As of **2024-11-10 22:40:25**
 
 ## Newspaper Stats
 
-*Scraped **54,061** Articles*
+*Scraped **54,063** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 5,052
 adaderanalk | 6,450
 tamilmirrorlk | 7,548
 virakesarilk | 8,765
-adaderanasinhalalk | 9,431
+adaderanasinhalalk | 9,433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,061 (100.0%) of 54,061 articles have been extended.
+54,062 (100.0%) of 54,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### දේශපාලන සිරකරුවන් ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-11-10 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203113) · `si`
+
+දෙමළ දේශපාලන සිරකරුවන් නිදහස් කිරීම සඳහා පියවර ගැනීමට තමන් සූදානම් බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+ජාතික ජන බලවේගය වව්නියාවේ අද (10) සංවිධාන කර තිබූ ජන රැලියක් අමතමින් ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේ, රජය පවරාගෙන ඇති උතුරේ දෙමළ ජනතාවගේ ඉඩම් යළි පවරාදීම පිළිබඳවද සැලකිල්ලට භාජනය කර ඇති බවය.
+
+"අපේ රට හැම අතින්ම බෙදිලා තියෙන රටක්. හැබැයි අපේ රටට ඉස්සරහට යන්න බැහැ මෙහෙම බෙදිලා. අපේ ප්‍රධාන අපේක්ෂාව මේ සියලු බෙදීම් අවසන් කරන්න ඕන. එකතු කරන්න නම් මොකක්ද වෙන්න ඕනේ. සිංහල, දෙමළ, මුස්ලිම් ජනතාව සහ නායකයින් ඉන්න එක ව්‍යාපාරයක් හදන්න ඕනේ. අන්න ඒ ව්‍යාපාරය තමයි ජාතික ජන බලවේගය."
+
+...
+
+[Data](articles/55b97bd6.json)
+
+---
+
+### Dilith proposes to the President to find aware of 'Il Mahaera'
+
+*2024-11-10 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203112) · `si`
+
+Dilith Jayaweera proposes to President Anura Kumara Dissanayake to appoint Rohana Wijeweera and investigate the assassination of Il Maha Heroes. He mentions innocent villagers killed, NGOs involved, and plans to bring a commission to Parliament to find out about the murders.
+
+🟩
+
+The Leader of the Sorve Pennulogy, Dilith Jayaweera proposes to President Anura Kumara Dissanayake to appoint Rohana Wijeweera and the assassination of Il Maha Heroes.
+
+"අනුර කුමාර ජනාධිපතිතුමනි..ඔබ තුමාගේ නායකයා ඒ ආදරණීය රෝහණ විජේවීර සහෝදරයා අමු අමුවේ කනත්තේ ආදාහනාගාරයට දාපු ඒ ඝාතනය කරපු එක ගැන ඔබතුමා ජනාධිපති වුණ දවසේ ඉදලා හොයයි කියලා අපේ ගමේ මිනිස්සු බලාගෙන ඉන්නවා.
+
+People in our university were killed. They're all the innocent people from the village. They didn't have the streets of Colombo. ඒ අයට තිබුණේ නෑ NGO හයිය. The trouble with Thajudeen, the hardenware of Lasantha, is about the heroes of Eknaligoda. That's why he wants to remind him.
+
+We're coming as the opposition to Parliament. We bring a commission to find out about all those innocent murdered people. අපි හිටගන්නවා අනුර කුමාර සහෝදරයත් සමග".
+
+◼️
+
+[Data](articles/7dc06916.json)
+
+[Extended Data](ext_articles/7dc06916.ext.json)
+
+---
 
 ### Special program in place for potential election-period disasters
 
@@ -2349,43 +2389,5 @@ A 29 -year -old security officer who was injured in the shooting has been admitt
 [Data](articles/3ab09e89.json)
 
 [Extended Data](ext_articles/3ab09e89.ext.json)
-
----
-
-### Duplicate at Lotus Tower Complex: One injury
-
-*2024-11-10 10:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுர-வளாகத்தில்-துப்பாக்ச்சசூடு-ஒருவர்-காயம்/175-346859) · `ta`
-
-Gunfire hits security guard at Lotus Tower concert, one injured. Police investigating incident.
-
-🟩
-
-The Maradana police said that an unidentified person fired at the security officer during the music concert at the Lotus Tower complex.
-
-A 29 -year -old security officer who was injured in the shooting has been admitted to the Colombo National Hospital.
-
-◼️
-
-[Data](articles/8d1fee51.json)
-
-[Extended Data](ext_articles/8d1fee51.ext.json)
-
----
-
-### Is the Tamil party close to the party?
-
-*2024-11-10 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198295) · `ta`
-
-Tamil National Alliance (TNA) maneuvering causes current situation
-
-🟩
-
-The continuation of the maneuvering of the Tamil National Alliance (TNA) is the reason for the current state of the TNA ”
-
-◼️
-
-[Data](articles/f250801a.json)
-
-[Extended Data](ext_articles/f250801a.ext.json)
 
 ---

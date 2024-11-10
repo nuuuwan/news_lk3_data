@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 13:40:54**
+As of **2024-11-10 13:59:31**
 
 ## Newspaper Stats
 
-*Scraped **53,989** Articles*
+*Scraped **53,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,95 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,041
-adaderanalk | 6,443
+adalk | 5,042
+adaderanalk | 6,444
 tamilmirrorlk | 7,543
 virakesarilk | 8,733
-adaderanasinhalalk | 9,419
+adaderanasinhalalk | 9,420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,989 (100.0%) of 53,989 articles have been extended.
+53,992 (100.0%) of 53,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Person arrested at BIA with Kush cannabis worth over Rs. 40 mln
+
+*2024-11-10 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103302/person-arrested-at-bia-with-kush-cannabis-worth-over-rs-40-mln) · `en`
+
+The officers attached to the Narcotic Control unit at the Bandaranayake International Airport (BIA) in Katunayake have arrested a passenger at the Green Channel who had arrived from Thailand with a stock of narcotic substances identified as Kush cannabis concealed in the checked luggage and his backpack.
+
+The passenger had attempted to pass the Customs area with assistance of a wheel chair, Sri Lanka Customs said.
+
+The suspect was a Sri Lankan passport holder and had arrived in Sri Lanka from Thailand onboard flight FD 140 operated by Air Asia Airline at around 10.25 p.m. last night (09).
+
+The 58-year-old has been identified as a resident of Maradana, Colombo.
+
+The weight of the arrested narcotic substance is around 5kg and with a street value of Rs. 40 million, according to Sri Lanka Customs.
+
+Sri Lanka Customs Narcotic Control Unit has requested the assistant of the Police Narcotic Bureau (PNB) and further investigations are underway.
+
+◼️
+
+[Data](articles/2bb397b5.json)
+
+[Extended Data](ext_articles/2bb397b5.ext.json)
+
+---
+
+### Immediate discreet motorcyclist to save survival from wildalia
+
+*2024-11-10 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203100) · `si`
+
+Motorcyclist saves life near Mahiyanganaya. CCTV footage shows motorcyclist parking bike near shop. Helmet saved after incident. Wildlife alert triggered.
+
+🟩
+
+In the Mahiyanganaya area, a motorcycle is recorded to CCTV camera near the next way to a motorcycle.
+
+The incident occurred at the Mapakadadabarawewa, 20th Post.
+
+The motorcyclist parked a motorcycle near a shop near a trading near the pathway.
+
+The motorcyclist had saved her helmet after the motorcyclist fruiting the motorcyclist.
+
+The motorcycle has been able to save the wildlife's attention to it.
+
+This was noted by the CCTV camera in the shop near the incident.
+
+◼️
+
+[Data](articles/4a9e4a19.json)
+
+[Extended Data](ext_articles/4a9e4a19.ext.json)
+
+---
+
+### Shooting a double murder in Ambalangoda
+
+*2024-11-10 13:18:15* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩදී-වෙඩි-තබා-ද්විත්ව-ඝාතනයක්-සිදු-කරයි/11-412948) · `si`
+
+Double murder reported on Galle Road, Ambalangoda. Couple killed while riding motorcycle. Husbands deceased, residents near Madampe Deboduwa Temple. Incident occurred during journey from Ambalangoda to Madama.
+
+🟩
+
+A couple of shooting at the Galle Road, Ambalangoda Police say that a couple has died.
+
+The husbands who died in the shooting were residents in Madampe Deboduwa Temple, Ambalangoda
+
+The victims who died in a motorcycle from Ambalangoda to MadamoA have fled from Ambalangoda to MadamoA.
+
+◼️
+
+[Data](articles/9c5b0558.json)
+
+[Extended Data](ext_articles/9c5b0558.ext.json)
+
+---
 
 ### Monk arrested as another illegally assembled luxury vehicle seized
 
@@ -2223,73 +2297,5 @@ It further stated that the program of providing Triposha to children and pregnan
 [Data](articles/e27f79c5.json)
 
 [Extended Data](ext_articles/e27f79c5.ext.json)
-
----
-
-### Sri Lankan arrested for fake visa to France
-
-*2024-11-09 17:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203076) · `si`
-
-Sri Lankan youth caught with fake French visa at airport. Arrested before boarding flight to India. Immigration officials discovered forged document during screening. Further investigation underway.
-
-🟩
-
-A Sri Lankan youth attempting to flee to France by using a fake preparation of a fake was arrested by the Department of Immigration and Emigration.
-
-The man has been arrested while preparing to leave for Chennai, India on the IndiGo airline e.-1196.
-
-During the problems of the immigration officers from the Immigration and Emigration Officers, he found a false-based French visa with the suspect.
-
-Steps have been taken to direct the Border Survey Unit for further investigations.
-
-◼️
-
-[Data](articles/ab7de233.json)
-
-[Extended Data](ext_articles/ab7de233.ext.json)
-
----
-
-### Shooting incident reported near Lotus Tower
-
-*2024-11-09 17:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103280/shooting-incident-reported-near-lotus-tower) · `en`
-
-A shooting incident was reported during a musical concert held near the Lotus Tower in Colombo yesterday (08).
-
-A private security officer was injured in the incident and has been hospitalized.
-
-No information has been disclosed as of yet regarding the person responsible for carrying out the shooting.
-
-◼️
-
-[Data](articles/b1cc552a.json)
-
-[Extended Data](ext_articles/b1cc552a.ext.json)
-
----
-
-### The first look release of 'P B 180' starring Tanya Ravichandran
-
-*2024-11-09 16:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198272) · `ta`
-
-Tanya Ravichandran stars in "B P 180" alongside Daniel Balaji. Director JP helms the project produced by Atul M. and Bosemia. Post-production underway after filming completion. First look release draws fan attention.
-
-🟩
-
-The first look of the film 'B P 180', which plays the lead role of the story of Tanya Ravichandran, the leading star actress and Bharata dancer of the Tamil film industry.
-
-The late actor Daniel Balaji is the hero of the story and the hero of the story of director JP.
-
-Producer Atul M.. Produced by Bosemia.
-
-The shooting of the film is completed and the post -shooting technical work is currently underway.
-
-In this case, the film's title and First Look have been released. The appearance of Tanya Ravichandran and Daniel Balaji has attracted a lot of fans.
-
-◼️
-
-[Data](articles/37e15d01.json)
-
-[Extended Data](ext_articles/37e15d01.ext.json)
 
 ---

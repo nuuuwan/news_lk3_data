@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 09:59:32**
+As of **2024-11-10 10:12:09**
 
 ## Newspaper Stats
 
@@ -26,29 +26,39 @@ adaderanasinhalalk | 9,413
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,940 (100.0%) of 53,955 articles have been extended.
+53,945 (100.0%) of 53,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### පහරදීමකින් කාන්තාවක් ජීවිතක්ෂයට
+### Woman killed in a attack
 
 *2024-11-10 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203093) · `si`
 
-පුද්ගලික ආරවුලක් හේතුවෙන් පුද්ගලයෙකු විසින් උදැල්ලකින් පහරදී කාන්තාවක් ඝාතනය කර තිබේ.
+Here's a 200-character summary:
 
-ඊයේ (09) සවස් කාලයේදී එම සිදුවීම වාර්තා වී තිබුණේ ඊච්චන්කුලම්, අම්මිචෛත්‍යාන් ප්‍රදේශයේදීය.
 
-එලෙස මියගොස් ඇත්තේ, අම්මිචෛත්‍යාන්, ඊච්චන්කුලම් ප්‍රදේශයේ පදිංචිව සිටි 58 හැවිරිදි කාන්තාවකි.
 
-මෙම ඝාතනයට සම්බන්ධ සැකකරු හඳුනාගෙන ඇති අතර, ඔහු ප්‍රදේශයෙන් පළා ගොස් ඇති බව පොලීසිය පවසයි.
+58-year-old woman killed in private dispute assault. Suspect fled scene. Police investigating. Incident occurred in Etherend area last night.
 
-සැකකරු අත්අඩංගුවට ගැනීම සඳහා ඊච්චන්කුලම් පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+🟩
+
+A private dispute has been assaulted by a person and killed a woman.
+
+The incident was reported in the evening yesterday (09).
+
+The deceased has been identified as a 58-year-old resident of the Etherend area in the Etherend area.
+
+The suspect has been identified and he has fled the area, police said.
+
+ENarchndakulam police are conducting further investigations.
 
 ◼️
 
 [Data](articles/a60fc8b7.json)
+
+[Extended Data](ext_articles/a60fc8b7.ext.json)
 
 ---
 
@@ -69,6 +79,8 @@ In a separate incident, a 19-year-old youth was killed in Mulendiyawala when a m
 ◼️
 
 [Data](articles/10cb145b.json)
+
+[Extended Data](ext_articles/10cb145b.ext.json)
 
 ---
 
@@ -92,21 +104,29 @@ He reminded the crowd that political leaders are elected by the votes of innocen
 
 ---
 
-### බලපෑමකින් තොරව නීතිය සැමට සමානව ක්‍රියාත්මක බව වැඩබලන පොලිස්පති කියයි
+### Acting IGP says that the law is always in effect
 
 *2024-11-10 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203092) · `si`
 
-‍දේශපාලන බලපෑම්වලින් තොරව නීතිය ක්‍රියාත්මක කිරීමට හැකියාව ලැබී ඇති බව වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා පවසයි.
+Acting IGP Priyantha Weerasuriya emphasizes law implementation without political influence. He states the current government instructs equal application of laws. Weerasuriya attributes peaceful post-election period to effective law enforcement.
 
-ඔහු පැවසුවේ වත්මන් රජය විසින් සියලු දෙනාට නීතිය එකලෙස ක්‍රියාත්මක කරන ලෙස උපදෙස් ලබාදී ඇති බවය.
+🟩
 
-යාපනය, චුන්නාකම් පොලිස් ස්ථානයේ නව ගොඩනැගිල්ලක් ස්ථාපිත කිරීම වෙනුවෙන් පැවති උත්සවයට එක්වෙමින් වැඩබලන පොලිස්පති ප්‍රියන්ත වීරසූරිය මහතා මේ බව පැවසීය.
+Acting IGP Priyantha Weerasuriya says that the law has been enabled without political pressure.
 
-"දැන් පවතින රජය සැමට නීතිය සමානව සලකන්න කියලා සහ සැමට නීතිය සමානව ක්‍රියාත්මක කරන්න කියලා මට දැනුම්දීලා තියෙනවා, මගෙන් සියලුම නිලධාරීන්ට දැනුම්දීලා තියෙනවා. මැතිවරණයෙන් පසුව සිදුවන අප්‍රසන්නතම කාලය තමයි පශ්චාත් මැතිවරණ සමය. අපි ඒකට කිව්වේ පශ්චාත් මැතිවරණ ප්‍රචණ්ඩ කාලය කියලා. හැබැයි පසුගිය ජනාධිපතිවරණයෙන් පස්සේ එහෙම කිසිම සිදුවීමක් වුණේ නැහැ. අලුත් සංස්කෘතියක් ශ්‍රී ලංකාවේ බිහිවුණා. මේකට මම හිතන්නේ ප්‍රජාවත් ඒ වගේම පත්වෙච්ච රජයත්, අපිට දීපු උපදෙසුත්... ඒ වගේම නීතිය ක්‍රියාත්මක කරන්න සමස්ත පොලීසියට ලැබුණු බලයත් නිසියාකාරයෙන් ක්‍රියාත්මක කරන්න හම්බෙලා තියෙනවා.
+He said that the present government has instructed everyone to implement the law.
 
-...
+Acting IGP Priyantha Weerasuriya said this while participating in the establishment of a new building at Chunnakam police station.
+
+"The existing government has informed me to treat all the law and implement the law equally to all. Post election season is the unpleasant time after the election. We told it that the post-election violence. But after the last presidential election, there was no event. A new culture was born in Sri Lanka. I think the community and the advice of the government and the advice to us.. The entire police have also made the power received by the entire police to implement the law.
+
+If you can't implement the law, it's our weakness. The impairment of the law enforcement is the weakness of those heads. Therefore, we have had a good environment without any effect to implement the law. "
+
+◼️
 
 [Data](articles/ef9745d8.json)
+
+[Extended Data](ext_articles/ef9745d8.ext.json)
 
 ---
 
@@ -125,6 +145,8 @@ The central bank also allowed the exchange rate to appreciate amid balance of pa
 ...
 
 [Data](articles/8e3605e8.json)
+
+[Extended Data](ext_articles/8e3605e8.ext.json)
 
 ---
 
@@ -231,6 +253,8 @@ ECONOMYNEXT – State-run SriLankan Airlines said it had cancelled a several fli
 ◼️
 
 [Data](articles/aa33b39c.json)
+
+[Extended Data](ext_articles/aa33b39c.ext.json)
 
 ---
 

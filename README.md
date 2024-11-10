@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 08:03:43**
+As of **2024-11-10 08:24:00**
 
 ## Newspaper Stats
 
-*Scraped **53,933** Articles*
+*Scraped **53,940** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,168 @@ economynextcom | 3,272
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
-adaderanalk | 6,429
+adaderanalk | 6,431
 tamilmirrorlk | 7,530
-virakesarilk | 8,726
-adaderanasinhalalk | 9,407
+virakesarilk | 8,729
+adaderanasinhalalk | 9,409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,923 (100.0%) of 53,933 articles have been extended.
+53,925 (100.0%) of 53,940 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Chunnakam police station, including a woman who was found with a baby girl, has been attacked by the Chunnakam Police Station - Gajendrakumar rushed to the scene
+
+*2024-11-10 07:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/198292) · `ta`
+
+Chunnakam police station attack: Woman, baby injured; TNA leader rushes aid. Incident sparks calls for investigation and highlights alleged police misconduct in northeast region.
+
+🟩
+
+The Tamil National Alliance (TNA) leader Gajendrakumar Ponnambalam said that after the accident in the Chunnakam, the police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the three -wheeler.
+
+The Tamil National People's Front (TNA) leader Gajendra Kumar Ponnampalam Selvarajah Gajendran Natarajar Kandiban, who rushed to the Chunnakam police station, immediately visited the police and sent them to the hospital immediately.
+
+Police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the weather, and brought them to the police station and brought him to the police station.
+
+The police officer said that he was not in the spot when the incident took place. But he has admitted to us that they have been attacked inside the police station.
+
+He says that the incident should be investigated outside the police station.
+
+...
+
+[Data](articles/c367d103.json)
+
+[Extended Data](ext_articles/c367d103.ext.json)
+
+---
+
+### Qatar suspends role as mediator between Israel and Hamas
+
+*2024-11-10 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103287/qatar-suspends-role-as-mediator-between-israel-and-hamas) · `en`
+
+Qatar has suspended its work as a mediator in ceasefire and hostage release talks between Israel and Hamas, officials say.
+
+The country said it would resume its work when Hamas and Israel “show their willingness” to negotiate.
+
+It comes after senior US officials reportedly said Washington would no longer accept the presence of Hamas representatives in Qatar, accusing the Palestinian group of rejecting fresh proposals for an end to the war in Gaza.
+
+Qatar said initial reports it had withdrawn from mediation talks and said that Hamas’s political office in Doha “no longer serves its purpose” were “inaccurate”.
+
+“Qatar notified the parties 10 days ago during the last attempts to reach an agreement, that it would stall its efforts to mediate between Hamas and Israel if an agreement was not reached in that round,” a statement from the Qatari foreign ministry said.
+
+“Qatar will resume those efforts... when the parties show their willingness and seriousness to end the brutal war.”
+
+...
+
+[Data](articles/f8fc62b9.json)
+
+[Extended Data](ext_articles/f8fc62b9.ext.json)
+
+---
+
+### வடக்கின் தமிழ் அரசியல் அரங்கு தூய்மைப்படுத்தப்பட வேண்டும் - தேசிய மக்கள் சக்தியின் யாழ். தேர்தல் மாவட்ட முதன்மை வேட்பாளர் கருணநாதன் இளங்குமரன் செவ்வி
+
+*2024-11-10 07:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198291) · `ta`
+
+76 வருட இலங்கையின் மோசடி அரசியலின் பங்குதாரராகவே வடக்கில் ஆதிக்கம் செலுத்தி வந்து தமிழ் அரசியலும் பொய்யான வாக்குறுதிகளுடன் காணப்படுகிறது. பல்லாயிரம் இளைஞர், யுவதிகள் மக்களுமாக மடிந்த பின்னரும் பிழைப்புவாத அரசியல் தொடர்கிறது. தமிழ் அரசியல் அரங்கு தூய்மைப்படுத்தப்பட வேண்டுமென தேசிய மக்கள் சக்தியின் யாழ். தேர்தல் மாவட்ட முதன்மை வேட்பாளர் கருணநாதன் இளங்குமரன் வீரகேசரிக்கு வழங்கிய செவ்வியில் தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் யாழ். மாவட்ட முதன்மை வேட்பாளர் கருணநாதன் இளங்குமரன் வீரகேசரிக்கு வழங்கிய செவ்வியின் முழுமையான வடிவம் வருமாறு,
+
+கேள்வி : நீங்கள் எவ்வித அரசியல் பின்னணியும் இல்லாது அரசியலில் நுழைவதற்கான காரணம் என்ன ?
+
+...
+
+[Data](articles/65528bd6.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-10 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103286/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says  several  spells of showers may occur in Northern and North-central Provinces and in Trincomalee district.
+
+Showers or thundershowers may occur at a few places in Central, Uva and Southern provinces in the evening or night.
+
+Fairly heavy showers about 50mm are likely at some places in Jaffna, Kilinochchi, Mullaittivu and Trincomalee district, it added.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts during the morning
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/71d68b43.json)
+
+---
+
+### දුම්රියේ ගැටී කාන්තාවක් මරුට
+
+*2024-11-10 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203089) · `si`
+
+හික්කඩුව, අමරසේන මාවත අනාරක්ෂිත දුම්රිය හරස් මාර්ගයේදී කාන්තාවක් දුම්රියේ ගැටී මියගොස් තිබේ.
+
+ඊයේ (09) සවස් කාලයේදී ‍ගාල්ල සිට අළුත්ගම බලා ධාවනය වූ දුම්රියක එම කාන්තාව ගැටී තිබුණි.
+
+එලෙස මියගොස් ඇත්තේ, වල්පිටිමුල්ල, දෙවලපොළ ප්‍රදේශයේ පදිංචිව සිටි 66 හැවිරිදි කාත්තාවකි.
+
+මෘත ශරීරය හදිසි මරණ පරීක්ෂණය සිදුකර කරාපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර හික්කඩුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/702bfc17.json)
+
+---
+
+### சுன்னாகத்தில் விபத்தொன்றின் பின்னர் பொலிஸார் அராஜகம் - இரண்டு மாத குழந்தையை தூக்கி பற்றைக்குள் வீசி தாய் தந்தையை கடுமையாக தாக்கியதாக குற்றச்சாட்டு
+
+*2024-11-10 07:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198290) · `ta`
+
+சுன்னாகத்தில் வாகனமொன்றின் மீது இருவர் மதுபோதையில் வந்து மோதிய சம்பவத்தை தொடர்ந்து சுன்னாகம் பொலிஸார் இரண்டு மாத குழந்தையின் தாய் தந்தை உறவினர்கள் சிலரின் மீது காட்டுமிராண்டித்தனமான தாக்குதலை மேற்கொண்டனர் என பாதிக்கப்பட்டவர்கள் தெரிவித்;துள்ளனர்.
+
+இரண்டு மாத குழந்தையை பற்றைக்குள் தூக்கியெறிந்த பொலிஸார் தாயையும் தந்தையும் கடுமையாக தாக்கினார்கள் என தாயார் தெரிவித்துள்ளார்
+
+நாங்கள் வீதியால் வந்துகொண்டிருக்கும்போது இரண்டு மோட்டார்சைக்கிளில் வந்தவர்கள் எங்கள் வாகனத்தை முந்தி செல்ல முயன்று தாங்களே அடிபட்டு கீழே விழுந்தார்கள்.
+
+கீழே விழுந்தவர் மது அருந்தியிருந்தார் பொதுமக்கள் அவர் சாரயம் குடித்திருக்கின்றார். நீங்கள் பயப்படவேண்டாம் என தெரிவித்தார்கள்.
+
+சிவில் உடையில் வந்தவர்கள் வந்தவர்கள் எனது கணவரிடம் வாகனச்சாரதி அனுமதிப்பத்திரத்தை கேட்டார்கள்.ஆனால் அவர் போக்குவரத்து பிரிவினர் வந்தால்தான் கொடுக்கவேண்டும் என்பதால் கொடுக்கவில்லை.
+
+எனது கணவரை கையைபிடிச்சு இழுத்தார்கள் நான் விடவில்லை எனக்கு கறுப்புநிற டீசேர்ட் அணிந்த பொலிஸ்காரர் அடித்தாh.
+
+...
+
+[Data](articles/2927f2cb.json)
+
+---
+
+### IMF නියෝජිත පිරිසක් එළැඹෙන සතියේ දිවයිනට
+
+*2024-11-10 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203088) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් පිරිසක් ලබන සතියේ දිවයිනට පැමිණීමට නියමිතව තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබා දී ඇති විස්තීර්ණ ණය අරමුදල් පහසුකම යටතේ වන තෙවන සමාලෝචනය සිදුකිරීම සදහා මෙම නියෝජිත පිරිස දිවයිනට පැමිණීමට නියමිත බව වාර්තා වේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘවර් මහතාගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමක් මෙලෙස දිවයිනට පැමිණීමට නියමිතව ඇත.
+
+මෙම සමාලෝචනයෙන් අනතුරුව ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට මීළග ණය වාරිකය ලබාදීම සිදුකිරීමට නියමිතයි.
+
+ඒ අනුව එළඹෙන සතියේ දිවයිනට පැමිණෙන ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස වත්මන් ආණ්ඩුවේ ආර්ථික ප්‍රතිපත්තිය සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡා කිරීමට නියමිත බවද වාර්තා වේ.
+
+ඊට අමතරව ජාත්‍යන්තර මූල්‍ය අරමුදල සමග ඇතිකර ගත් එකඟතා ක්‍රියාත්මක කිරීම සහ මෙරට ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන යටතේ සිදුකර ඇති මෑත කාලීන ප්‍රගතිය පිළිබඳව සොයා බැලීම මෙහිදී සිදුකිරීමට නියමිතව ඇත.
+
+...
+
+[Data](articles/e0010eb4.json)
+
+---
 
 ### Heavy rains in several areas
 
@@ -2147,159 +2295,5 @@ The Criminal Investigations Department has taken place in Narahenpita.
 [Data](articles/35f271e2.json)
 
 [Extended Data](ext_articles/35f271e2.ext.json)
-
----
-
-### Gaza women, children are nearly 70% of verified war dead, UN rights office says
-
-*2024-11-09 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103269/gaza-women-children-are-nearly-70-of-verified-war-dead-un-rights-office-says) · `en`
-
-The U.N. Human Rights Office said on Friday nearly 70% of the fatalities it has verified in the Gaza war were women and children, and condemned what it called a systematic violation of the fundamental principles of international humanitarian law.
-
-The U.N. tally since the start of the war, in which Israel’s military is fighting Hamas militants, includes only fatalities it has managed to verify with three sources, and counting continues.
-
-The 8,119 victims verified is a much lower number than the toll of more than 43,000 provided by Palestinian health authorities for the 13-month-old war. But the U.N. breakdown of the victims’ age and gender backs the Palestinian assertion that women and children represent a large portion of those killed in the war.
-
-This finding indicates “a systematic violation of the fundamental principles of international humanitarian law, including distinction and proportionality”, the U.N. rights office said in a statement accompanying the 32-page report.
-
-...
-
-[Data](articles/9e02602f.json)
-
-[Extended Data](ext_articles/9e02602f.ext.json)
-
----
-
-### Model voters should be careful this time
-
-*2024-11-09 08:24:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்கள்-இம்முறை-கவனமாக-இருக்க-வேண்டும்/175-346817) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Voters beware: Senior politicians may skip elections due to income disclosure. Carefully choose candidates, warns election monitor."
-
-🟩
-
-Election monitoring organizations say that some senior politicians will not contest the general election this year because they have to publish their income.
-
-Therefore, voters should be very careful when selecting voting candidates, said Manjula Gajanayake, Executive Director of the Democratic Reforms and Election Studies Institute.
-
-◼️
-
-[Data](articles/0b82c83e.json)
-
-[Extended Data](ext_articles/0b82c83e.ext.json)
-
----
-
-### Vote this time without voter card
-
-*2024-11-09 08:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டையின்றி-இம்முறை-வாக்களிக்கலாம்/175-346816) · `ta`
-
-Chairman Election Commission RMAL Ratnayake states voting possible without official voter card.
-
-🟩
-
-The Chairman of the Election Commission, RMAL Ratnayake, said that even without the official voter card, he could vote.
-
-◼️
-
-[Data](articles/36895ed5.json)
-
-[Extended Data](ext_articles/36895ed5.ext.json)
-
----
-
-### You can vote this time without a ballot
-
-*2024-11-09 08:20:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டு-இல்லாமலும்-இம்முறை-வாக்களிக்கலாம்/175-346816) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Elections Commission Chairman RMAL Ratnayake states he can vote without an official ballot. This claim challenges traditional voting procedures, potentially altering how elections are conducted. The statement raises questions about the validity and security of non-traditional voting methods.
-
-🟩
-
-Elections Commission Chairman RMAL Ratnayake said that even without an official ballot, he could vote.
-
-◼️
-
-[Data](articles/cf6e8a3b.json)
-
-[Extended Data](ext_articles/cf6e8a3b.ext.json)
-
----
-
-### Government experiments seek to prevent floods from floods in Matara
-
-*2024-11-09 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203058) · `si`
-
-Sri Lanka government investigates Matara floods. President orders study on salt barrier impact. Irrigation department and water board involved. Assistance sought from University of Peradeniya. Systematic flood control program planned for Matara district.
-
-🟩
-
-President of the Presidential Secretary Dr. Nandika Sanath has instructed the officials to resolve the causes of the floods in the Matara Nilwala Solutions.
-
-The Presidential Media Unit stated that the salt barrier constructed in the Nilwala River in the Nilwala River in Matara has been reported that the floods have contributed to the rise.
-
-At a meeting held at the Presidential Secretariat, the Presidential Secretary has been instructed by the Secretary to the Department of Irrigation and the National Water Supply and Drainage Board.
-
-It is reported that the provision of permanent solutions to a formal studies have been decided by a formal study to whether the construction of the salt barrier is caused by flooding and salt water.
-
-The Presidential Secretary said that the Presidential Secretary has agreed to the proposal to obtain assistance to the University of Peradeniya to proceed with the study proposals.
-
-...
-
-[Data](articles/8e6e9ee5.json)
-
-[Extended Data](ext_articles/8e6e9ee5.ext.json)
-
----
-
-### The attention of the 20 - 30 years of age ...
-
-*2024-11-09 08:03:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-30-வயதுடையோரின்-கவனத்துக்கு/175-346815) · `ta`
-
-Measles vaccination event today for 20-30 year olds. Youth-led initiative. Nearby health offices offer vaccines. Systematic doses available for ages 9-19. Health department warns of potential disease resurgence. 1100 cases reported since May 2022.
-
-🟩
-
-A measles vaccination event will be held today (09).
-
-Atula Liabatrana, a social medical expert at the Infectious Disease Division, said that the program is being implemented by the youth community.
-
-Accordingly, people aged 20 to 30 can get a measles vaccine at the nearest health officer's office today.
-
-The doctor from the age of 9 to 19 can also get a dose vaccine systematically, the doctor said.
-
-The Department of Health has pointed out that there is a risk of re -spreading the disease from the country.
-
-The number of measles patients in Sri Lanka from May last year was 1,100.An
-
-◼️
-
-[Data](articles/93cec0de.json)
-
-[Extended Data](ext_articles/93cec0de.ext.json)
-
----
-
-### 58 arrested over online scams by CID at Narahenpita
-
-*2024-11-09 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103268/58-arrested-over-online-scams-by-cid-at-narahenpita) · `en`
-
-A group of 58 Sri Lankans suspected to be involved in online financial frauds have been arrested by the Criminal Investigations Department (CID) at Narahenpita.
-
-The group was reportedly arrested while staying in a house in the Narahenpita area.
-
-◼️
-
-[Data](articles/0e4a52be.json)
-
-[Extended Data](ext_articles/0e4a52be.ext.json)
 
 ---

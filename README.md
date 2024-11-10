@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 23:24:43**
+As of **2024-11-10 23:40:28**
 
 ## Newspaper Stats
 
-*Scraped **54,065** Articles*
+*Scraped **54,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,77 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,548
+tamilmirrorlk | 7,549
 virakesarilk | 8,765
-adaderanasinhalalk | 9,434
+adaderanasinhalalk | 9,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,065 (100.0%) of 54,065 articles have been extended.
+54,067 (100.0%) of 54,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Disclosure of Nadu rice in the market
+
+*2024-11-10 23:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203115) · `si`
+
+Nadu rice shortage causes 50% price drop. Over-cost rice blamed. Government intervenes, but traders claim ongoing scarcity.
+
+🟩
+
+The deficit of some rice deficit in the market and rice has fallen by 50% due to over-cost rice, Maradagahamula rice 'Association says.
+
+The prices of rice increased over the market in the market in several weeks and there was a shortage of nadu rice.
+
+Accordingly, the President summoned the large-scale rice producers to the control of the control of the control of the prices and agreed.
+
+The Consumer Affairs Authority was handed over to the President on the instructions that the President gave immediate submission of data on paddy and rice report on the country.
+
+However, people and their traders say that there are still some rice deficit in the market and that the rice price will be purchased.
+
+However, the Ministry of Trade Ministries MM. Says Mr. Nimimudin.
+
+The Ministry Secretary said that some mill owners had a shortage of artificial rice shortage to increase the price.
+
+◼️
+
+[Data](articles/2ec84430.json)
+
+[Extended Data](ext_articles/2ec84430.ext.json)
+
+---
+
+### Immediate investigation into the Chunnakam incident
+
+*2024-11-10 23:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுன்னாகம்-சம்பவம்-குறித்து-உடனடி-விசாரணை/175-346906) · `ta`
+
+Chunnakam incident: Special police team conducts impartial investigation into van-motorcycle accident, injuries, and alleged assault.
+
+🟩
+
+சுன்னாகம் பகுதியில் பொலிஸார் நடந்து கொண்ட விடயம் தொடர்பில் விசேட பொலிஸ் குழுவினர் விசாரணைகளை முன்னெடுத்துள்ளதாக யாழ்ப்பாண பிராந்திய உதவி பொலிஸ் அத்தியட்சகர் எம் எஸ் எம் ஜருள் தெரிவித்துள்ளார்.
+
+A van -motorcycle accident occurred yesterday (09) in Chunnakam area. Following this, the driver of the driver of the driver's driver's permit was tried to examine the driver of the driver.
+
+The driver of the driver was also accused of assaulting the driver's wife and the police had knocked their two -month -old child in her hand.
+
+Following the incident, there was a tense situation in front of the Chunnakam police station yesterday.
+
+The Jaffna Regional Assistant Superintendent of Police, MSM Zarul, told the media today (10)
+
+A van on a motorcycle and a van on a motorcycle at the Kankesanthurai police station crashed near the Chunnakam junction on the Kankesanthurai road.
+
+...
+
+[Data](articles/7ad9615c.json)
+
+[Extended Data](ext_articles/7ad9615c.ext.json)
+
+---
 
 ### Sri Lanka defeated 5 runs
 
@@ -2375,41 +2433,5 @@ In addition, the suspects will be produced at the Negombo Magistrate's Court on 
 [Data](articles/439278c9.json)
 
 [Extended Data](ext_articles/439278c9.ext.json)
-
----
-
-### Woman murdered with garden hoe in Echchankulam
-
-*2024-11-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103293/woman-murdered-with-garden-hoe-in-echchankulam) · `en`
-
-A 58-year-old woman from the Ammichaithyan area in Echchankulam was reportedly killed in an attack with a garden hoe following a personal dispute last evening (09).
-
-Police have identified the suspect, who fled the area after the incident.
-
-Echchankulam Police are conducting further investigations to apprehend the individual involved in the murder.
-
-◼️
-
-[Data](articles/81e07abf.json)
-
-[Extended Data](ext_articles/81e07abf.ext.json)
-
----
-
-### Sri Lanka's disaster in March 2025: 17 billion International Credit Payment Relief - Nimal Lansa Special
-
-*2024-11-10 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198298) · `ta`
-
-Sri Lanka receives $17B loan relief from IMF in March 2025. Ranil Wickremesinghe gets debt forgiveness. IMF confirms Sri Lanka's ability to repay loans. Other countries agree to provide financial assistance based on this confirmation.
-
-🟩
-
-While Ranil Wickremesinghe received debt relief, the IMF guaranteed the country's economic growth status for Sri Lanka. World countries and other shareholders have given us a loan relief of 17 billion on the basis of the Monetary Fund confirming that Sri Lanka is in a position to repay the loan. Therefore, if those countries and shareholders feel that Sri Lanka is unable to pay the loan, they will not sign the agreement.
-
-◼️
-
-[Data](articles/10223fd1.json)
-
-[Extended Data](ext_articles/10223fd1.ext.json)
 
 ---

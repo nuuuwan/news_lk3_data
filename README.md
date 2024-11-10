@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 05:46:53**
+As of **2024-11-10 06:12:33**
 
 ## Newspaper Stats
 
-*Scraped **53,918** Articles*
+*Scraped **53,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 421
 bbccomsinhala | 548
 colombotelegraphcom | 553
-islandlk | 3,217
+islandlk | 3,229
 economynextcom | 3,272
 dailyftlk | 3,687
 dailymirrorlk | 4,733
@@ -20,17 +20,151 @@ adalk | 5,035
 adaderanalk | 6,429
 tamilmirrorlk | 7,528
 virakesarilk | 8,726
-adaderanasinhalalk | 9,406
+adaderanasinhalalk | 9,407
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,918 (100.0%) of 53,918 articles have been extended.
+53,919 (100.0%) of 53,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+
+*2024-11-10 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203087) · `si`
+
+උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් අද (10) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ,  මධ්‍යම, ඌව සහ දකුණු පළාත්වල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+එමෙන්ම යාපනය, කිලිනොච්චි, මුලතිව් සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මි.මී. 50ක පමණ තරමක තද වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7be232fd.json)
+
+---
+
+### GLIMPSES OF COLONIAL CEYLON (1935 – 1947)
+
+*2024-11-10 04:47:00* · [`islandlk`](http://island.lk/glimpses-of-colonial-ceylon-1935-1947/) · `en`
+
+(Excerpted from Falling Leaves, an anthology of autobiographical anecdotes by LC Arulpragasam)
+
+This is not meant to be a history of the colonial years, but rather a cherry-picking of childhood memories for their quaintness rather than for their historical truth, for socio-cultural insights rather than for historical facts. I can only touch on some cultural oddities of the English-speaking middleclass of those times, since I knew no other. Likewise, I can write only of the last years of colonial rule, since I lived through no others. I write as ‘an old man in a hurry’, because at the age of 88 years, I doubt that there will be others left to recount these tales.
+
+...
+
+[Data](articles/be3f6854.json)
+
+[Extended Data](ext_articles/be3f6854.ext.json)
+
+---
+
+### Difficult Dealings with Strong Political Personalities
+
+*2024-11-10 04:42:00* · [`islandlk`](http://island.lk/difficult-dealings-with-strong-political-personalities/) · `en`
+
+(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
+
+Senior public officials have often to act as buffers between ministers, other important political actors, and other stakeholders in society. On many occasions, one had to absorb a significant degree of shock and act as a facilitator, mediator or referee. A rousing example of this side of one’s responsibilities came by courtesy of Mrs. Vivienne Goonewardene, the LSSP Member of Parliament for Dehiwela-Galkissa and wife of Mr. Leslie Goonewardene, Minister of Communications.
+
+...
+
+[Data](articles/b80335ab.json)
+
+---
+
+### Chandra Arulpragasam – The enigma that was my father
+
+*2024-11-10 04:42:00* · [`islandlk`](http://island.lk/chandra-arulpragasam-the-enigma-that-was-my-father/) · `en`
+
+When my son was 11 years old and in middle school, he chose to write about his grandfather, starting his essay with the statement, “my grandfather is an enigma.” I am not sure whether to his young mind my father was so much a puzzle, being both a super -cool grandpa and an exacting teacher, or just simply unpredictable. My father was someone who could relate to his grandchildren only when they were old enough to debate the merits of the separation of state and church or play a championship game of chess. But he also had wonderful adventures which fired my son’s young imagination.
+
+...
+
+[Data](articles/e0ccffab.json)
+
+---
+
+### When Sir John Kotelawala visited St. Joseph’s College
+
+*2024-11-10 04:37:00* · [`islandlk`](http://island.lk/when-sir-john-kotelawala-visited-st-josephs-college/) · `en`
+
+Seventy-four years ago, Fr. Peter A. Pillai OMI, a distinguished educationist and the Rector of St. Joseph’s College, proposed the groundbreaking idea of constructing an Olympic-standard swimming pool at the school. This initiative met with resistance from some old boys and parents. At that time, no school in Ceylon (now Sri Lanka) had an Olympic-size pool, let alone a sub-standard swimming facility. The announcement of this ambitious project took the school community by surprise and marked a significant moment in the institution’s history. Fr. Pillai’s vision aimed not just to enhance the school’s facilities but to foster a culture of sports and physical education, paving the way for future generations.
+
+...
+
+[Data](articles/bb5bf2d3.json)
+
+---
+
+### MONKS IN CONFRONTATIONAL POLITICS
+
+*2024-11-10 04:29:00* · [`islandlk`](http://island.lk/monks-in-confrontational-politics/) · `en`
+
+Whether the participation of monks in representative politics is permissible (or proper), has been a matter of periodic discourse in the media.
+
+In preparing this note, I can claim no expertise (nor authority), on the discipline or set of rules for the Maha Sangha. Incidentally, I personally prefer to be considered as “one who seeks to follow the Dhamma,” rather than as a “Buddhist”.
+
+The ordained ones have themselves chosen to enter the Community referred to collectively as “The (Maha) Sangha” They have voluntarily resolved to abandon the lay life and to observe the rules of conduct (more than two hundred), included in the Vinaya Pitaka.
+
+In Myanmar and Thailand, the “forest dweller” (vanavasa) tradition prevails, where the monk lives alone, often in a natural cave, and devotes himself to continuous meditation and solitude, with minimum contact with others. In the commoner monastic tradition, a community of monks live together, with each engaging in his own spiritual practices.
+
+...
+
+[Data](articles/6ab635f0.json)
+
+---
+
+### Videos for TV, Songs for Radio, and Shows for Stage
+
+*2024-11-10 04:27:00* · [`islandlk`](http://island.lk/videos-for-tv-songs-for-radio-and-shows-for-stage/) · `en`
+
+Due to my deep involvement in the entertainment industry and showbiz, several leading Western musicians in Sri Lanka became my friends from the mid-eighties to the mid-nineties. One of those friends was Sohan Weerasinghe, the leader of Sohan & The X’Periments, featuring Estelle and Judy.
+
+In 1991, I received an unexpected call from Sohan. “Mr. J, I just recorded a new English song with the band at my studio. It’s called ‘Whispers in the Sand.’ If I send you the rough mix, would you be willing to share your thoughts?” The request took me by surprise. “Sohan, you know I’m not a musician and don’t have any musical training. I don’t think I’m qualified to give advice,” I replied. Nevertheless, he sent the rough mix my way.
+
+...
+
+[Data](articles/01675530.json)
+
+---
+
+### HIP has potential to become Sri Lanka’s ‘Diamond in the Crown’ – Sri Lanka Shippers’ Council
+
+*2024-11-10 04:14:00* · [`islandlk`](http://island.lk/hip-has-potential-to-become-sri-lankas-diamond-in-the-crown-sri-lanka-shippers-council/) · `en`
+
+The Sri Lanka Shippers’ Council, led by its Executive Committee, conducted a comprehensive visit to the Hambantota International Port (HIP) last week, emphasizing its critical role in Sri Lanka’s future economic development an HIP press release said.
+
+Chairman of the Council, Sean van Dort who headed the 42-member delegation said it had been a pleasure for Council members to visit the Hambantota Port. “Comparing 2017 to now, we see drastic positive changes that have taken place and we have no hesitation in recommending this beautiful facility that only has the potential to grow and be a diamond in the crown of Sri Lanka,” he added.
+
+...
+
+[Data](articles/abdc13ef.json)
+
+---
+
+### THE K.N. SENEVIRATNE ORATION 2024
+
+*2024-11-10 04:02:00* · [`islandlk`](http://island.lk/the-k-n-seneviratne-oration-2024/) · `en`
+
+The 37th K.N. Seneviratne Oration will be held at the Faculty fo Medical Sciences, University of Sri Jayawardenepura on Saturday, November 23, 2024. It will be held in conjunction with the Annual Sessions of the Physiological Society of Sri Lanka (PSSL). The inauguration will begin at 7.55 am and the Oration begins at 8.50 am.
+
+Much has been written on the life and work of Prof. Keerthi Nissanka Seneviratne by his academic colleagues, generations of his admiring students and those who knew him as a sincere friend. He is no stranger to the medical academic community in Sri Lanka. I have been very fortunate to be one of his students at the tail-end of his life as a teacher in Physiology at the Colombo Medical School.
+
+...
+
+[Data](articles/c00934fb.json)
+
+---
 
 ### In the field of 50 foreign monitors
 
@@ -2163,201 +2297,5 @@ Heavy showers above 150 mm are likely at some places in North western, Central, 
 [Data](articles/850371b2.json)
 
 [Extended Data](ext_articles/850371b2.ext.json)
-
----
-
-### 58 arrested in connection with internet financial fraud
-
-*2024-11-09 07:31:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இணைய-நிதி-மோசடி-தொடர்பில்-58-பேர்-கைது/175-346814) · `ta`
-
-Sri Lanka: 58 arrested for internet financial fraud. Criminal Investigation Department detains suspects in Kirulapan.
-
-🟩
-
-58 Sri Lankans have been arrested on charges of fraudulent fraud.
-
-The suspects have been arrested by the Criminal Investigation Department at Kirulapan. (A)
-
-◼️
-
-[Data](articles/df9d4cf2.json)
-
-[Extended Data](ext_articles/df9d4cf2.ext.json)
-
----
-
-### Sri Lanka - New Zealand's first T20 match today
-
-*2024-11-09 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203057) · `si`
-
-Sri Lanka vs New Zealand: First T20 match in Dambulla tonight at 7 PM. New Zealand leads series 4-2. Sri Lanka seeks victory in home turf.
-
-🟩
-
-Sri Lanka and New Zealand will commence the first match in Dambulla (9).
-
-This is a night competition. Is to start at 7.
-
-New Zealand has been able to confirm five tournaments and the 4 tournamental tournaments have been established.
-
-Sri Lanka has won only one tournament to date and has ended three tournaments without Jayakwaran.
-
-Sri Lanka won seven matches and 13 matters.
-
-In addition, two matches are equal to two matches and one match without solutions.
-
-Today, Sri Lanka and New Zealand are the 9th T20 match in Sri Lanka.
-
-More Honowered New Zealand wins 4 matches, Sri Lanka has only 2 matches.
-
-However, between Sri Lanka and New Zealand will take place twenty20 years after the T20 tournament in Sri Lanka.
-
-New Zealand passes the event last year and win the tournament 2-1.
-
-◼️
-
-[Data](articles/dca7289e.json)
-
-[Extended Data](ext_articles/dca7289e.ext.json)
-
----
-
-### Rain in many parts of the country
-
-*2024-11-09 07:24:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-பல-பகுதிகளில்-மழை/175-346813) · `ta`
-
-Rain forecast: Central, Sabaragamuwa, Uva provinces; Galle, Matara districts. Southwest winds 30-40 km/h. Thunderstorms possible.
-
-🟩
-
-The Department of Meteorology has announced that there will be a possibility of rain or thunderstorms in many parts of the Central, Sabaragamuwa and Uva provinces, Galle and Matara districts.
-
-The wind is expected to blow from the southwest direction in the seas around the country and the wind is expected to be up to 30-40 km per hour.. (A)
-
-◼️
-
-[Data](articles/03bb0c9d.json)
-
-[Extended Data](ext_articles/03bb0c9d.ext.json)
-
----
-
-### 90,000 police appointed for election duty
-
-*2024-11-09 07:22:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கடமைக்காக-90-000-பொலிஸார்-நியமனம்/175-346812) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-9,000 police assigned election duty. 3,200 special task force officers involved. Only 11,000 soldiers deployed for state seat security during elections.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said they were included in the 3,200 police Special Task Force officers.
-
-During the election, only 11,000 soldiers were deployed for the safety of state seats, he said. Those
-
-◼️
-
-[Data](articles/6c77c654.json)
-
-[Extended Data](ext_articles/6c77c654.ext.json)
-
----
-
-### Heavy rains in several areas
-
-*2024-11-09 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203056) · `si`
-
-Heavy rains expected tonight: Central, Uva, Sabaragamuwa, Matara districts; showers possible North, East; thunderstorms forecasted Western, Central provinces; potential flooding in Galle, Matara districts. Public advised to prepare for strong winds and lightning.
-
-🟩
-
-Today (9) pm. Showers or thundershowers will occur at several places in the Central, Uva and Sabaragamuwa and Matara districts after 1.
-
-Showers may occur in the morning of the North and East.
-
-In some places in the Western, Sabaragamuwa and Central provinces and in some places can be a murder in the Galle and Matara districts.
-
-The public is also requested to take necessary steps to reduce the damages caused by temporary winds and lightning accidents.
-
-◼️
-
-[Data](articles/01d696e2.json)
-
-[Extended Data](ext_articles/01d696e2.ext.json)
-
----
-
-### Sri Lanka remittances $587.7mn in October, up 13.9-pct
-
-*2024-11-09 06:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-remittances-587-7mn-in-october-up-13-9-pct-186696/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s remittances coming from its overseas expatriate workers gained 13.9 percent to $587.7 million in October 2024 compared to the same month last year, helped by more expatriates using the official banking channels.
-
-The total remittances in the first 10 months of this year also crossed $5.4 billion with a 11.7 percent gain compared to $4.7 billion in the same period in the last year, the latest Central Bank data showed.
-
-Worker remittances are one of the top foreign exchange revenue earners for the island nation which is still recovering from an unprecedented economic crisis hit in 2022.
-
-The remittances have risen continuously after the central bank gave up a parallel exchange rate regime, which compelled most expatriates to switch informal Undiyal and Hawala money transfer methods.
-
-...
-
-[Data](articles/a9fe50bd.json)
-
-[Extended Data](ext_articles/a9fe50bd.ext.json)
-
----
-
-### RIT Call for two
-
-*2024-11-09 06:20:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெடுக்குநாறி-விவகாரம்-இருவருக்கு-ரி-ஐ-டி-அழைப்பு/175-346811) · `ta`
-
-Former temple members summoned by Terrorist Investigation Unit regarding Adi Shiva temple affair in Vavuniya. Sasikumar and Vettu Nirimalai asked to provide rehabilitation documents of ex-combatant Sasikumar.
-
-🟩
-
-Two former members of the temple have been summoned by the Terrorist Investigation Unit to investigate the Adi Shiva temple affair in Vavuniya.
-
-Sasikumar and former secretary of the Athilingeswarar Temple in Vavuniya North, Vettu Nirimalai have been informed to come to the Terrorist Investigation Division in Vavuniya on Saturday.
-
-It was reported that he had been informed by a telephone call by the Terrorism Investigation Department to bring all the rehabilitation documents of the ex -combatant Sasikumar.. (A)
-
-◼️
-
-[Data](articles/064e3af5.json)
-
-[Extended Data](ext_articles/064e3af5.ext.json)
-
----
-
-### Towards Stability, Equity & Prosperity: Part V
-
-*2024-11-09 03:56:46* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-stability-equity-prosperity-part-v/) · `en`
-
-As we have previously pointed out, though IMF programs appear to solely focus on development, they do not cater to or deal with matters that affect socio-economic justice and a fair go. Their only formula is one of liberalising markets for generating more profits for investors, with drastic cuts to social welfare benefits and expanding the tax base for increased revenue.
-
-The IMF does not look into the socio-economic equity issues that are prevalent and predominant in most of the societies the world over, including in Sri Lanka. The theory of trickle-down economics[1] underpins their practice. However, nowhere has this theory once implemented been a success in terms of economic development, social stability, and an equitable sharing of the financial burden.
-
-...
-
-[Data](articles/e7163a39.json)
-
-[Extended Data](ext_articles/e7163a39.ext.json)
-
----
-
-### A Hung Parliament?
-
-*2024-11-09 03:46:57* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-hung-parliament/) · `en`
-
-President Dissanayake made a smart decision to dissolve parliament after winning the presidential election on September 21. The national legislature was dissolved on September 24, and the election has been scheduled for November 14, 2024. Parliamentary elections in Sri Lanka are increasingly becoming predictable regarding winners and losers. The Sri Lanka Podujana Peramuna (SLPP) wanted a two-thirds majority in 2020, and the SLPP-led coalition won a two-thirds majority.
-
-...
-
-[Data](articles/8d46b79c.json)
-
-[Extended Data](ext_articles/8d46b79c.ext.json)
 
 ---

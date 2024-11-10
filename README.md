@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 21:40:34**
+As of **2024-11-10 21:59:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,054 (100.0%) of 54,056 articles have been extended.
+54,056 (100.0%) of 54,056 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,25 +48,33 @@ The program will cover two days before the election day, election day itself, an
 
 [Data](articles/7de31146.json)
 
+[Extended Data](ext_articles/7de31146.ext.json)
+
 ---
 
-### ’அரசியல் கைதிகளை விடுவிப்போம்’
+### Release political prisoners
 
 *2024-11-10 21:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளை-விடுவிப்போம்/175-346904) · `ta`
 
-சட்டமா அதிபரின் ஆலோசனைக்கு அமைய அரசியல் கைதிகளை விடுவிப்பதுடன், மக்களின் காணிகளை விரைவில் விடுவிப்போம் என ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+Summary: Political prisoner releases planned, opposition leaders criticized, land restitution promised, fisheries protected, renewable energy prioritized, drug issues addressed, public servant salaries increased.
 
-தேசிய மக்கள் சக்தியின் பாராளுமன்றத் தேர்தலுக்கான பிரச்சார கூட்டம் வவுனியா நகரசபை விளையாட்டு மைதானத்தில் ஞாயிற்றுக்கிழமை (10) மாலை இடம்பெற்றது. அதில், உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த தேர்தலில் பிரச்சாரத்திற்காக இந்த மாவட்டத்திற்கு வந்தார். வன்னி மக்கள் ஓரளவு வாக்கை அவருக்கு வழங்கியிருந்தனர். இந்த தேர்தலில் அவர் வருவாரா? அதேபோல் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அவரும் வந்தார். இந்த தேர்தலுக்கு அவர் இங்கு வருவாரா? வரவில்லை.ஏன்? அவர்கள் அவர்களது வெற்றிக்காக மாத்திரமே தேர்தலில் நின்றார்கள்.
+President Anuragumara Dissanayake said that the release of political prisoners on the advice of the Attorney General will be released and the people will be released soon.
 
-ஜனாதிபதித் தேர்தலில் வன்னியில் எனக்கு விழுந்த 21 ஆயிரமாகும். அந்த வாக்குகளும் எமது வெற்றிக்கு பாரிய ஒரு பங்களிப்பையும் சக்தியையும் வழங்கியிருந்தது.
+The campaign meeting for the National People's Power's Parliamentary Election was held on Sunday evening at the Vavuniya Municipal Playground. He said the above while addressing.
 
-வடக்கு மக்களுக்கு சொந்தமான காணிகள் பாதுகாப்பு  அரசாங்கத்திடம் இருக்கிறது. இந்த காணிகள் அனைத்தையும் மீண்டும் அந்த மக்களுக்கு நாங்கள் வழங்குவோம்.
+Former President Ranil Wickremesinghe came to the district for the last election campaign. The Vanni people gave him some vote. Will he come in this election?Similarly, Opposition Leader Sajith Premadasa. Will he come here for this election?Don't come.They were the only election for their victory.
+
+It is 21 thousand that fell to me in the presidential election. Those votes also made a huge contribution and power to our victory.
+
+Lands owned by the northern people have the safety government. We will give all these lands back to those people.
 
 ...
 
 [Data](articles/5534dee2.json)
+
+[Extended Data](ext_articles/5534dee2.ext.json)
 
 ---
 

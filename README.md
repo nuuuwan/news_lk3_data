@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 01:24:38**
+As of **2024-11-11 01:40:24**
 
 ## Newspaper Stats
 
-*Scraped **54,079** Articles*
+*Scraped **54,080** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,689
+dailyftlk | 3,690
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,079 (100.0%) of 54,079 articles have been extended.
+54,080 (100.0%) of 54,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### “Without reforms SL will be dead in the water” – Dr. Harsha de Silva
+
+*2024-11-11 01:12:06* · [`dailyftlk`](https://www.ft.lk/columns/Without-reforms-SL-will-be-dead-in-the-water-Dr-Harsha-de-Silva/4-769054) · `en`
+
+Says the Government is not sending the right message for the foreign investors to start thinking about Sri Lanka again
+
+Emphasises that if the Government changes the Debt Sustainability Agreement, the entire debt restructuring plan falls apart
+
+Accuses Ranil Wickremesinghe Government of ignoring economic justice for other reasons
+
+Says a mixed team with experienced and novice politicians should be elected to the Parliament
+
+The Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) is suddenly glorifying new liberal agenda of Ranil Wickremesinghe, claims Dr. Harsha de Silva, who is contesting for the Colombo district from the Samagi Jana Balawegaya (SJB).
+
+He accused the JVP of opposing every single reform including the International Monetary Fund (IMF) agreement, Central Bank law and debt management, for the last 40 years.
+
+...
+
+[Data](articles/b6c7a8a9.json)
+
+[Extended Data](ext_articles/b6c7a8a9.ext.json)
+
+---
 
 ### The man who could have been the President!
 
@@ -2409,29 +2433,5 @@ Additionally, a candidate’s house can be used as a party office, however, no d
 [Data](articles/9172b5ed.json)
 
 [Extended Data](ext_articles/9172b5ed.ext.json)
-
----
-
-### Over 4 crores in handbag
-
-*2024-11-10 11:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203097) · `si`
-
-Arrest made at Katunayake airport: Thai national caught with over 4 crore worth of handbags containing 5 kg of Kush drugs. Suspect handed over to police for investigation.
-
-🟩
-
-A person has been arrested at the Katunayake International Airport with a cousy drug worth over Rs.
-
-According to the Customs Department, 58-year-old resident of Maradana from Thailand, the Customs Department said.
-
-Nearly 5 kilograms of Cush drugs in the man's handgrow have been seized by nearly 5 kilograms of Kush drug.
-
-The suspect was handed over to the Police Medical Investigation Bureau for further investigations.
-
-◼️
-
-[Data](articles/e2f5d157.json)
-
-[Extended Data](ext_articles/e2f5d157.ext.json)
 
 ---

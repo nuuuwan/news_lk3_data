@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 00:57:14**
+As of **2024-11-11 01:10:06**
 
 ## Newspaper Stats
 
-*Scraped **54,078** Articles*
+*Scraped **54,079** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,688
+dailyftlk | 3,689
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,077 (100.0%) of 54,078 articles have been extended.
+54,078 (100.0%) of 54,079 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### The man who could have been the President!
+
+*2024-11-11 01:00:53* · [`dailyftlk`](https://www.ft.lk/columns/The-man-who-could-have-been-the-President/4-769053) · `en`
+
+Sri Lanka is currently on a path to establishing a government free of injustice, nepotism, fraud, bribery, and all forms of corruption. For this ambitious goal to be achieved, individuals of impeccable character must hold government positions, and citizens must likewise adopt a mindset that supports integrity and accountability in all capacities. Achieving a truly corruption-free state requires that the ruling party remain open to constructive criticism, and that its supporters welcome such feedback without becoming sycophants—rejecting good advice or silencing critics.
+
+Lawyer Nagananda, a respected attorney in both Sri Lanka and England, is widely known for his unwavering commitment to fighting injustice and corruption in all its forms. His constructive criticism is imparted without bias toward any individual or party. Consequently, he has often been regarded as an enemy by many, finding support only among a few rational-minded individuals.
+
+...
+
+[Data](articles/00e74a6b.json)
+
+---
 
 ### “President AKD’s Govt. has no strategic plan to run SL” – Dilith Jayaweera
 
@@ -55,6 +69,8 @@ Gampaha district candidate from the Sarvajana Balaya alliance Dilith Jayaweera c
 ...
 
 [Data](articles/3b94b370.json)
+
+[Extended Data](ext_articles/3b94b370.ext.json)
 
 ---
 
@@ -2415,29 +2431,5 @@ The suspect was handed over to the Police Medical Investigation Bureau for furth
 [Data](articles/e2f5d157.json)
 
 [Extended Data](ext_articles/e2f5d157.ext.json)
-
----
-
-### Bus that toppled the wall and entered the house
-
-*2024-11-10 11:34:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மதிலை-கவிழ்த்து-வீட்டுக்குள்-நுழைந்த-பஸ்/76-346868) · `ta`
-
-Private bus crashes into house near Badulla, minor injuries reported. Incident occurred Sunday morning on Badulla-Mahiyanganaya main road. No serious casualties among residents or passengers.
-
-🟩
-
-A private bus that left the road crashed into a nearby house and crashed, police said.. The incident took place on Sunday morning (10) at Palagolla in Padalapitiya on the Badulla-Mahiyanganaya main road.
-
-The driver of the bus was a minor injury and no one was injured, police said.
-
-When the bus crashed, there was a small child and a couple in the house, but they were in the same room and had no harm to the residents, police said.
-
-About 30 people were traveling on the bus while the bus crashed, and many school teachers and office staff were pouring on the bus daily, but only fewer passengers were pasked on Sunday (10).
-
-◼️
-
-[Data](articles/1f99d496.json)
-
-[Extended Data](ext_articles/1f99d496.ext.json)
 
 ---

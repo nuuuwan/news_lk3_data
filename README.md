@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 13:24:38**
+As of **2024-11-10 13:40:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,419
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,987 (100.0%) of 53,989 articles have been extended.
+53,989 (100.0%) of 53,989 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,29 @@ Police sources further disclosed that the monk, who is employed as a teacher at 
 
 [Data](articles/3da30cb2.json)
 
+[Extended Data](ext_articles/3da30cb2.ext.json)
+
 ---
 
-### துப்பாக்கி பிரயோகத்தில் தம்பதி பலி
+### Couple killed in shooting
 
 *2024-11-10 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-தம்பதி-பலி/175-346873) · `ta`
 
-காலி வீதி, அம்பலாங்கொடை - உரவத்த பிரதேசத்தில், இன்று (10) பிற்பகல் இடம்பெற்ற துப்பாக்கிச் சூட்டில், கணவன் மனைவி இருவரும் உயிரிழந்துள்ளதாக, அம்பலாங்கொடை பொலிஸார் தெரிவிக்கின்றனர்.
+Couple killed in shooting: Husband and wife shot dead while riding motorcycle in Ambalangoda. Unidentified gunmen opened fire on them. Incident occurred on Galle Road near Uravatha area.
 
-உயிரிழந்த இருவரும் அம்பலாங்கொடை - மாதம்பே, தேவகொட பிரதேசத்தை சேர்ந்தவர்கள் எனவும், பொலிஸார் தெரிவித்துள்ளனர்.
+🟩
 
-இவர்கள் இருவரும் அம்பலாங்கொடையில் இருந்து மோட்டார் சைக்கிளில் பயணித்தபோது,  இனந்தெரியாத ஆயுததாரிகள் மோட்டார் சைக்கிளில் வந்து அவர்கள் மீது துப்பாக்கி பிரயோகம் மேற்கொண்டுவிட்டு தப்பிச் சென்றுள்ளதாக, பொலிஸார் தெரிவிக்கின்றனர்.AN
+Ambalangoda police said that both husband and wife were killed in a shooting that took place this afternoon in Galle Road, Ambalangoda - Uravatha area.
+
+The two deceased are from Ambalangoda - Madampe, Devagoda area, police said.
+
+When the two were riding a motorbike from Ambalangoda, the unidentified armed men came on a motorbike and fired at them, police said.
 
 ◼️
 
 [Data](articles/6531850b.json)
+
+[Extended Data](ext_articles/6531850b.ext.json)
 
 ---
 

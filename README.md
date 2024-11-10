@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 00:41:11**
+As of **2024-11-11 00:57:14**
 
 ## Newspaper Stats
 
-*Scraped **54,077** Articles*
+*Scraped **54,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,687
+dailyftlk | 3,688
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
@@ -26,9 +26,37 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,077 (100.0%) of 54,077 articles have been extended.
+54,077 (100.0%) of 54,078 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-11 (Monday)
+
+### “President AKD’s Govt. has no strategic plan to run SL” – Dilith Jayaweera
+
+*2024-11-11 00:42:02* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-Govt-has-no-strategic-plan-to-run-SL-Dilith-Jayaweera/4-769052) · `en`
+
+Claims NPP has become a hybrid party and two ideologies, including JVP’s Marxism thinking, clashing with each other
+
+Claims no JVP in the NPP and Ranil Wickremesinghe is the de-facto leader of the NPP
+
+Calls on people to embrace Sarvajana Balaya as the only living party
+
+Notes most politicians don’t have management skills, creativity, risk taking ability and exposure
+
+Emphasises Sri Lanka should become an entrepreneur State to come out of crisis
+
+Says creating digital platforms is vital as it supports Govt. in correct decision making with data
+
+Requests people to vote for politicians with substantial capability of representing people
+
+Gampaha district candidate from the Sarvajana Balaya alliance Dilith Jayaweera claims that the National People’s Power (NPP) doesn’t have a vision and a strategic plan to define ways and means on how the Government can solve the issues and keep people’s promises.
+
+...
+
+[Data](articles/3b94b370.json)
+
+---
 
 ### 2024-11-10 (Sunday)
 
@@ -2411,29 +2439,5 @@ About 30 people were traveling on the bus while the bus crashed, and many school
 [Data](articles/1f99d496.json)
 
 [Extended Data](ext_articles/1f99d496.ext.json)
-
----
-
-### General election campaign ends tomorrow
-
-*2024-11-10 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203096) · `si`
-
-Election campaign ends midnight tomorrow. Candidates must remove all propaganda materials by 12th midnight. Only one office per electorate allowed after 12th, not including homes. No decorations or additional propaganda permitted.
-
-🟩
-
-The general election is scheduled to end midnight tomorrow (11).
-
-Chairman of the Election Commission RM V.L Ratnayake said that after the end of election propaganda, the election propaganda should be removed by 12th.
-
-"Candidates have been established for election campaigns. These offices should be removed from midnight on the 12th to the 12th midnight office. After midnight, the office is located in one of the electorate for parties and groups.
-
-And from that day candidates have the ability to set up one office for the electorate. Also, the candidate's home is no longer an office. But none of those offices can be decorated or any other propaganda. "
-
-◼️
-
-[Data](articles/4424f01b.json)
-
-[Extended Data](ext_articles/4424f01b.ext.json)
 
 ---

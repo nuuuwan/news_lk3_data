@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 12:57:40**
+As of **2024-11-10 13:09:42**
 
 ## Newspaper Stats
 
-*Scraped **53,981** Articles*
+*Scraped **53,983** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,58 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,038
-adaderanalk | 6,441
+adaderanalk | 6,442
 tamilmirrorlk | 7,541
 virakesarilk | 8,733
-adaderanasinhalalk | 9,418
+adaderanasinhalalk | 9,419
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,981 (100.0%) of 53,981 articles have been extended.
+53,983 (100.0%) of 53,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Man and woman killed in shooting at Ambalangoda
+
+*2024-11-10 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103300/man-and-woman-killed-in-shooting-at-ambalangoda) · `en`
+
+Two individuals including a female have been reported dead following a shooting incident that took place in the Urawatte area of Ambalangoda, police said.
+
+Police revealed that two unidentified individuals who arrived on a motorcycle, had opened fire at the man and the woman who were also travelling on a motorcycle.
+
+◼️
+
+[Data](articles/2958acd7.json)
+
+[Extended Data](ext_articles/2958acd7.ext.json)
+
+---
+
+### Ambalangoda shouting - two killed
+
+*2024-11-10 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203099) · `si`
+
+Ambalangoda shooting: Two killed, including woman. Motorcycle riders shot dead in Urawewa area. Police investigating incident.
+
+🟩
+
+Two persons including a woman, including a shot dead in the Urawewa area, Ambalangoda has died.
+
+It is reported that the two had been shot dead while traveling with a motorcycle.
+
+Police said two persons who came from a motorcycle had fled the shot.
+
+◼️
+
+[Data](articles/07282efa.json)
+
+[Extended Data](ext_articles/07282efa.ext.json)
+
+---
 
 ### Request of the former Chairman of the Electoral Commission voters
 
@@ -2285,55 +2323,5 @@ This is a newly disclosed plot and marks yet another alleged attempt on Trump’
 [Data](articles/80e5e6aa.json)
 
 [Extended Data](ext_articles/80e5e6aa.ext.json)
-
----
-
-### President Mahinda Rajapaksa says that people who have not been elected
-
-*2024-11-09 15:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203071) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan leaders discuss education reform and poverty reduction. President Rajapaksa criticizes opponents, while Dissanayake pledges to improve education for children to combat poverty. Both emphasize the importance of education in breaking cycles of poverty.
-
-🟩
-
-President Anura Kumara Dissanayake says he will implement the poverty elimination reforms in Sri Lanka through a formal education for children.
-
-"The son of Dad was hostile to the last presidential election. The President who handled the government was expecting the neighborhood to the nephew. However, the people of this country have been able to defeat all these corrupt families on the 21st of September. "
-
-"It did not think that the same fate would lead to such a fate within his lifetime. Remember, they are on their own hands. "
-
-"Our government's leading project is the elimination of rural poorest. If a good education and knowledge may be given by a government, if the family is learned today, the family is building the family. But the family and the poor, poor, and the family of the poor, the family of the poor. This is a crisis of revolving poverty. "
-
-"Therefore, we have a large reform of education and produce the road to education or professionally."
-
-...
-
-[Data](articles/5576ec9e.json)
-
-[Extended Data](ext_articles/5576ec9e.ext.json)
-
----
-
-### More details revealed on 58 arrested over online scams at luxury apartment in Colombo
-
-*2024-11-09 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103278/more-details-revealed-on-58-arrested-over-online-scams-at-luxury-apartment-in-colombo) · `en`
-
-More information has been revealed about a group of 58 Sri Lankans who were arrested by the Criminal Investigation Department (CID) on suspicion of involvement in committing online financial fraud.
-
-The group was reportedly apprehended while residing in a luxury apartment complex on Havelock Road in Colombo last afternoon (08). The suspects are scheduled to be produced before the Colombo Magistrate’s Court today (09).
-
-The arrests were made based on information received by the Computer Crime Investigation Division (CCID) of the CID, which indicated that the suspects were allegedly defrauding money through the internet while residing at the luxury apartment complex.
-
-During the raid, a total of 58 suspects, all of whom are Sri Lankan citizens, were arrested, police said.
-
-...
-
-[Data](articles/0b5d78c8.json)
-
-[Extended Data](ext_articles/0b5d78c8.ext.json)
 
 ---

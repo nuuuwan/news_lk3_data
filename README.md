@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 22:12:43**
+As of **2024-11-10 22:24:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,059 (100.0%) of 54,061 articles have been extended.
+54,061 (100.0%) of 54,061 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -370,23 +370,33 @@ Muslim MPs cannot claim the gold sabbath for losing their feet because they have
 
 ---
 
-### ලංකාවේ විශේෂිත ළමා රෝහල් දෙකේම එම්.ආර්.අයි. යන්ත්‍ර දෙකම ක්‍රියා විරහිතයි
+### MRI of two specialized children's hospitals in Sri Lanka. Both machines are off
 
 *2024-11-10 17:48:23* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශේෂිත-ළමා-රෝහල්-දෙකේම-එම්-ආර්-අයි--යන්ත්‍ර-දෙකම-ක්‍රියා-විරහිතයි/11-412958) · `si`
 
-මෙරට තිබෙන  විශේෂිත ළමා රෝහල් දෙකේ ස්ථාපිත කර තිබෙන එම්. ආර්. අයි. (MRI) යන්ත්‍ර දෙකම ක්‍රියා විරහිත වී තිබෙන බව රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය සඳහන් කරයි.
+Sri Lanka: MRI machines at children's hospitals offline. Government technicians report issues. Tender process delayed, new machines needed. Estimated cost increase of Rs. 150 million. Hospitals face transport challenges.
 
-කළුතර මහ රෝහලේ පවතින සී ටී ස්කෑන් යන්ත්‍රයද ක්‍රියා විරහිත වී තිබෙන නිසා රෝගී  ජනතාව දැඩි දුෂ්කරතාවන්ට පත්ව සිටින බව එම සංගමය පෙන්වා දෙයි.
+🟩
 
-කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ එම්. ආර්. අයි. ස්කෑන් යන්ත්‍රය මීට සති දෙකකට පමණ පෙර ක්‍රියා විරහිත වී තිබෙන බවත්, පේරාදෙණිය ළමා රෝහලේ යන්ත්‍රය මීට වසර හතරකට පෙර ක්‍රියා විරහිත වී තිබෙන බවත් සංගමය සඳහන් කරයි.
+The mid-to-date of the two-specific children's hospitals. R. I. The government radiation technicians Association states that both machines have been working.
 
-කළුතර මහා රෝහලේ සී ටී ස්කෑන් යන්ත්‍රය  2023 වසරේ පෙබරවාරි මාසයේ සිට සම්පූර්ණයෙන්ම බිඳ වැටී ඇත. මෙම යන්ත්‍රය මෙරට  පවතින සිටි ස්කෑන් යන්ත්‍ර 44න්  ඉතා පැරණිම යන්ත්‍රය බවද සංගමය පෙන්වා දෙයි.
+The Association points out that the CB scanner at the Kalutara General has also been working hard.
 
-මෙම පැරණි යන්ත්‍රය වෙනුවට අලුත් යන්ත්‍රයක්  කළුතර මහ රෝහලට ලබා දීම සඳහා 2021 වර්ෂයේදී ටෙන්ඩර් කැදවීම සිදු කළද එය නිසි ලෙස  ක්‍රියාත්මක වී නොමැත.
+M. Ridgeway Hospital hospitalized. R. I. The scanner has turned off the scan, and the machine machine has been working twice ahead of four years ago.
+
+CB Scanner in Kalutara Hospital has been completely collapsed from February 2023. The association states that this machine is the oldest machine in 44 scans.
+
+The tenders have been executed in 2021 to give a new machine to Kalutara General Hospital, but not properly.
+
+The radiation technology union points out that the machine was selected for the selection of a provider under the summit of tenders.
+
+The program is to be issued in July this year, the Ministry of Health has not issued the loan posting letters since the beginning.
 
 ...
 
 [Data](articles/a0c2ab19.json)
+
+[Extended Data](ext_articles/a0c2ab19.ext.json)
 
 ---
 
@@ -1655,6 +1665,8 @@ BRICS, an economic and political group, has been gaining increasing relevance in
 ...
 
 [Data](articles/da19cf28.json)
+
+[Extended Data](ext_articles/da19cf28.ext.json)
 
 ---
 

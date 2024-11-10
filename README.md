@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 16:40:20**
+As of **2024-11-10 17:10:06**
 
 ## Newspaper Stats
 
-*Scraped **54,028** Articles*
+*Scraped **54,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,046
-adaderanalk | 6,447
-tamilmirrorlk | 7,544
+adaderanalk | 6,448
+tamilmirrorlk | 7,545
 virakesarilk | 8,756
-adaderanasinhalalk | 9,424
+adaderanasinhalalk | 9,425
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,007 (100.0%) of 54,028 articles have been extended.
+54,013 (100.0%) of 54,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Over 2,500 complaints of general elections
+
+*2024-11-10 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203105) · `si`
+
+2024 parliamentary election: 2,580 complaints filed, 20 related to violence; 1,999 resolved, 581 pending resolution.
+
+🟩
+
+The Elections Commission says that the number of complaints received in the 2024 parliamentary election has exceeded 2,500.
+
+Accordingly, the total number of complaints received from the election has increased to 2,580 complaints.
+
+There are 20 complaints related to violence.
+
+However, 1999, however, 1999 has already been resolved and 581 complaints have been left to solve another 581 complaints.
+
+◼️
+
+[Data](articles/e07e6a8e.json)
+
+[Extended Data](ext_articles/e07e6a8e.ext.json)
+
+---
+
+### FSP calls on President to probe 88-89 ‘state terrorism’, demands justice for JVP martyrs
+
+*2024-11-10 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103307/fsp-calls-on-president-to-probe-88-89-state-terrorism-demands-justice-for-jvp-martyrs) · `en`
+
+The Frontline Socialist Party (FSP) has urged President Anura Kumara Dissanayake in writing to launch an immediate investigation into state-sanctioned crimes during the 1988-89 period, and serve justice for the lives of fallen Janatha Vimukthi Peramuna (JVP) heroes including Rohana Wijeweera.
+
+Ahead of the 35th “Il Maha Viru Samaruwa”, the commemoration of fallen JVP heroes on November 13, the FSP’s letter to the President, honoring Comrade Rohana Wijeweera and others who lost their lives in the struggle for socialist transformation, emphasized the need to uncover the truth behind kidnappings, forced disappearances, and extrajudicial killings attributed to “state terrorism” at that time.
+
+...
+
+[Data](articles/07e400f2.json)
+
+[Extended Data](ext_articles/07e400f2.ext.json)
+
+---
 
 ### People will soon realize the false propaganda against us - the national organizer of the PA
 
@@ -60,73 +100,107 @@ Question: Is your position on the failure of the Rajapaksas to retain this time 
 
 ---
 
-### பனாமுரயில் மோட்டார் சைக்கிள் விபத்து ; இளைஞன் பலி
+### Motorcycle accident in Panamurai;Youth killed
 
 *2024-11-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198329) · `ta`
 
-பனாமுர பொலிஸ் பிரிவிற்குட்பட்ட,  முலடியாவல மலபலவ வீதியில், மோட்டார் சைக்கிள் ஒன்று உழவு இயந்திரத்துடன் மோதியதில் , மோட்டார் சைக்கிளில் பயணித்த இளைஞன் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Motorcycle crash kills 19-year-old in Panamurai. Rider dies after colliding with plowing machine. Driver arrested. Incident occurs on Muladiyawala Malabalawa Road.
 
-எம்பிலிபிட்டிய முலடியாவல பிரதேசத்தில் வசிக்கும் 19 வயதுடைய இளைஞரே இவ் விபத்தில்   உயிரிழந்துள்ளார்.
+🟩
 
-முலடியாவலயிலிருந்து மலபலாவ நோக்கி பயணித்த மோட்டார் சைக்கிள் மலபலாவயிலிருந்து முலடியாவல நோக்கி பயணித்த  உழவு இயந்திரத்துடன் மோதியதில் இவ் விபத்து ஏற்பட்டுள்ளது.
+A motorcyclist was killed when a motorcycle crashed into a plowing machine on Muladiyawala Malabalawa Road, belonging to the Panamura Police Division, police said.
 
-விபத்தில், மோட்டார் சைக்கிளில் பயணித்தவர் பலத்த காயங்களுக்கு உள்ளாகி எம்பிலிப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+The 19 -year -old youth, who lives in Muladiyawala, Embilipitiya, died in the accident.
 
-சடலம் எம்பிலிபிட்டிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன்  விபத்து தொடர்பில் உழவு இயந்திரத்தின் சாரதி கைது செய்யப்பட்டுள்ளார்.
+The accident occurred when a motorcycle traveling from Muladiyavala to Malabala collided with a plowing machine traveling from Mulabalawa to Muladiyawala.
+
+In the accident, a motorcyclist was seriously injured and admitted to the Embilipitiya Hospital and died without treatment.
+
+The body has been placed in the funeral room of the Embilipitiya Hospital and the driver of the plowing machine has been arrested in connection with the accident.
 
 ◼️
 
 [Data](articles/b03f4523.json)
 
+[Extended Data](ext_articles/b03f4523.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்திக்கு மட்டுமே தமிழரின்  உரிமைகளில் கரிசனை -  யாழ் - கிளிநொச்சி தலைமை வேட்பாளா் சந்திரகுமார்
+### Chandrakumar is the chief candidate of Jaffna - Kilinochchi
 
 *2024-11-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198343) · `ta`
 
-“ஐக்கிய மக்கள் சக்தி மட்டுமே தமிழ்பேசும் மக்களின் உரிமைகளைப் பற்றிய கரிசனையைக் கொண்டுள்ளது. இதை கடந்த ஜனாதிபதித் தேர்தலின்போது சஜித் பிரேமதாஸவின் தேர்தல் விஞ்ஞாபனமே உறுதிப்படுத்தியது. அதனால்தான், அப்போது தமிழரசுக் கட்சியும் சஜித் பிரேமதாசவை வெளிப்படையாகவே ஆதரித்தது. அதன் தொடர்ச்சியாகவே ஐக்கிய மக்கள் சக்தியுடன் நாம் பொதுத் தோ்தலை எதிர்கொள்கின்றோம்” என்று சமத்துவக் கட்சியின் தலைவரும், ஐக்கிய மக்கள் சக்தியின் யாழ் - கிளிநொச்சி தோ்தல் மாவட்ட தலைமை வேட்பாளருமான முருகேசு சந்திரகுமார் தெரிவித்தார்.வீரகேசரிக்கு அவா் அளித்துள்ள செவ்வியில் இதனைத் தெரிவித்தார். அவரது செவ்வியின் முழுவடிவம் வருமாறு
+Here's a 200-character summary:
 
-கேள்வி - ஐக்கிய மக்கள் சக்தி இணைந்து பொதுத்தேர்தலை சந்திப்பதற்கு நீங்கள் எடுத்த முடிவுக்கு என்ன காரணம்?
+
+
+Murugesu Chandrakumar leads United People's Power in Jaffna-Kilinochchi. He emphasizes Tamil rights, citing Sajith Premadasa's manifesto. United People's Alliance unites Tamil, Sinhala, Muslim, and upcountry groups. Chandrakumar highlights welfare programs in Kilinochchi and Jaffna, including garment factories and technical colleges. He proposes agricultural development and private investment to create jobs.
+
+🟩
+
+“The United People's Power alone has a concern about the rights of the Tamil people. This was confirmed by Sajith Premadasa's election manifesto during the last presidential election. That is why the TNA openly supported Sajith Premadasa. We are facing a general loss with the United People's Power, ”said Murukesu Chandrakumar, leader of the United People's Power and Kilinochchi Dal district.. To come to the full form of his examination
+
+Question - What is the reason you made to meet the general election with the United People's Power?
+
+Answer - We are joining the United People's Alliance as a publication of the United People's Power. The Tamil Progressive Alliance, the Muslim Congress and the Sri Lanka People's Congress, which are joining our Equality Party and the Upcountry parties, have formed the United People's Alliance.
 
 ...
 
 [Data](articles/d53fe721.json)
 
+[Extended Data](ext_articles/d53fe721.ext.json)
+
 ---
 
-### பொரளையில் பல்வேறு வெளிநாட்டு துப்பாக்கி மற்றும் போதைப் பொருட்களுடன் ஒருவர் கைது !
+### One arrested with various foreign gun and drugs in Borella
 
 *2024-11-10 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198322) · `ta`
 
-பொரளை பொலிஸ் பிரிவுக்குட்பட்ட ரி -20 தோட்டப் பகுதியில் ஹெரோயின், ஐஸ், போதை மாத்திரை , தோட்டாக்கள் மற்றும் வெளிநாட்டு துக்பாக்கியுடன் ஒருவர் நேற்று சனிக்கிழமை (09) கைது செய்யப்பட்டுள்ளார்.
+Arrest made in Borella: Heroin, ice, drugs, bullets, firearms seized. Suspect from Dematagoda, 23 years old. Police operation based on CIID tip-off.
 
-கொழும்பு தெற்கு குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகளுக்குக் கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே குறித்த நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் 23 வயதுடைய தெமட்டகொட பிரதேசத்தைச் சேர்ந்தவர் ஆவார்.
+A man was arrested on Saturday (09) with heroin, ice, narcotics, bullets and foreign Tukpaki in the T20 garden area of ​​the Borella Police Division.
 
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 120 கிராம் 390 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+The man was arrested during a raid carried out on the basis of information received by officials of the Colombo South Criminal Investigation Division.
 
-சந்தேகநபரின் வாக்குமூலத்தின் அடிப்படையில், அவரது வீட்டில் மேற்கொள்ளப்பட்ட சோதனையின் போது, 30 கிராம் 650 மில்லிகிராம் ஐஸ் போதைப்பொருள், 5000 போதை மாத்திரைகள் ,வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி ,  9 மில்லிமீற்றர் ரக 5 தோட்டாக்கள் மற்றும் ரிவோல்வரிற்கு பயன்படுத்தப்படும் 2 தோட்டாக்கள் பொலிஸாரால் கைப்பற்றப்ட்டுள்ளன.
+The arrested suspect is from the 23 -year -old Dematagoda area.
+
+120 grams of 390 milligrams of heroin has been seized by the police.
+
+Based on the suspect's confession, the police seized 30 grams of 650 milligrams of ice, 5000 drug pills, abroad -made rifles, 9 millimeters of bullets and 2 bullets used for revolver.
 
 ◼️
 
 [Data](articles/0ed3f8b0.json)
 
+[Extended Data](ext_articles/0ed3f8b0.ext.json)
+
 ---
 
-### சிங்கள மயமாக்கல்தான் வன்னி  எதிர்கொள்ளும் பிரதான பிரச்சினை  -  சிவசக்தி அனந்தன் செவ்வி
+### Sinhalese is the main issue faced by Vanni - Sivasakthi Ananthan
 
 *2024-11-10 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198333) · `ta`
 
-அனைவரும் சமசமாக வாழ்வோம் என்று சொல்கின்ற இன்றைய அநுர அரசாட்சியில் வவுனியா பெரியகுளம் சந்தியில் ஒரு புத்தர்சிலை நிறுவப்பட்டுள்ளது. சிங்கள மக்கள் யாருமே இல்லாத இடத்தில் இந்த புத்தர் சிலையை நிறுவியுள்ளனர். பின்னர் சிங்கள மக்கள் மெதுவாக குடியேற்றப்படுவர் என்று கூறுகின்றார் வன்னி தோ்தல் மாவட்டத்தில் ஜனநாயக தமிழ் தேசியக் கூட்டணி சார்பில் பொதுத் தோ்தலில் போட்டியிடும் சிவசக்தி ஆனந்தன்.  முன்னாள் பாராளுமன்ற உறுப்பினருமான சிவசக்தி அனந்தன் வீரகேசரிக்கு வழங்கிய செவ்வியில் இதனைத் தெரிவித்தார் அவரது செவ்வியின் விபரம் வருமாறு,
+Here's a summary of the key points in approximately 200 characters:
 
-கேள்வி - நடைபெறவுள்ள பொதுத் தேர்தலில் ஜனநாயக தமிழ் தேசியக் கூட்டணிக்கான வெற்றிவாய்ப்புகள் எவ்வாறுள்ளது?
 
-பதில் - வெற்றி வாய்ப்புகள் மிகவும் பிரகாசமாக உள்ளன. ஜனாதிபதி தேர்தலில் சங்கு சின்னத்துக்காக இரண்டு இலட்சத்து இருபத்தாறாயிரம் பேர் வாக்களித்துள்ளனர். அந்தவகையில் மக்கள் மனதில் சங்கு சின்னம் ஆழப்பதிந்துள்ளது. தமிழ்த் தேசிய விடுதலையை முன்னெடுக்கும் சக்தியாக ஜனநாயக தமிழ் தேசியக் கூட்டணியை மக்கள் தெரிவு செய்துள்ளனர்.  வீட்டுக்கு பதிலாக சங்கை மக்கள் வரவேற்கின்றனர்.
+
+Democratic Tamil National Alliance (DTNA) main issues: Sinhalese settlements, Buddhist temples, Archaeology/Forest Department occupations, elephant troubles. Past solutions: Newspaper reports, protests, magazine articles. Future plans: Unite parties/civil orgs, create democratic public organization. DTNA differs from Tamil National Alliance (TNA), focusing on Tamil rights and unity.
+
+🟩
+
+A Buddhasil has been established at Vavuniya Periyakulam junction today. The Buddha statue has been installed in the absence of none of the Sinhalese people. Sivasakthi Anandan, who is contesting on behalf of the Democratic Tamil National Alliance in the Vanni Thottal district, says that the Sinhalese will be slowly settled.Former MP Sivasakthi Ananthan told the Weerakesari that the details of his examination said.
+
+Question - What are the victories of the Democratic Tamil National Alliance?
+
+Answer - The chances of success are very bright. Two hundred and twenty -six thousand voted for the presidential election. The conch symbol is deep in the minds of the people. The people have elected the Democratic Tamil National Alliance (TNA) as the power to carry out the Tamil national liberation.The people of Sangha welcomed the house.
 
 ...
 
 [Data](articles/eb2f631c.json)
+
+[Extended Data](ext_articles/eb2f631c.ext.json)
 
 ---
 
@@ -191,6 +265,24 @@ Question: Is your position on the failure of the Rajapaksas to retain this time 
 ...
 
 [Data](articles/42e6f0e4.json)
+
+---
+
+### ’’ஜே.வி.பி  மன்னிப்பு கேட்க வேண்டும்’’
+
+*2024-11-10 15:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பி-மன்னிப்பு-கேட்க-வேண்டும்/175-346886) · `ta`
+
+தோட்டத் தொழிலாளர்களுக்கு குடியுரிமை வழங்குவதை எதிர்த்த மக்கள் விடுதலை முன்னணி (ஜே.வி.பி) அவர்களிடம் மன்னிப்பு கேட்க வேண்டும் என முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தெரிவித்துள்ளார்.
+
+“ஐ.தே.க சார்பில் நான் உரையாற்றும் முதலாவது சந்திப்பு இதுவாகும். நாங்கள் வேறு இடங்களில் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிட்டாலும், நுவரெலியாவில் யானைச் சின்னத்தில் போட்டியிட வேண்டும் என்று ஜீவன் தொண்டமான் வலியுறுத்தினார்” என கொட்டகலையில் இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போது அவர் தெரிவித்தார்.
+
+"அந்த நேரத்தில், தோட்டத் தொழிலாளர்களுக்கு குடியுரிமை வழங்கப்பட்ட போது, ​​ஜே.வி.பி. தலைவர் ரோஹண விஜேவீர அதை கடுமையாக எதிர்த்தார்," என்று அவர் நினைவு கூர்ந்ததுடன், ஐக்கிய தேசியக் கட்சிக்கும் (UNP) தோட்ட சமூகத்திற்கும் இடையிலான நெருங்கிய உறவுகளையும் வலியுறுத்தினார்.
+
+1947 ஆம் ஆண்டிலிருந்து ஐக்கிய தேசியக் கட்சி தொடர்ச்சியாக பாராளுமன்றத் தேர்தலில் போட்டியிட்டதுடன், இந்த மக்களின் வாழ்க்கையை மேம்படுத்துவதற்கு நாங்கள் எப்போதும் வசதிகளை ஏற்படுத்திக் கொடுத்துள்ளோம் என அவர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/6bf7c386.json)
 
 ---
 
@@ -2111,55 +2203,5 @@ Seventy-four years ago, Fr. Peter A. Pillai OMI, a distinguished educationist an
 [Data](articles/bb5bf2d3.json)
 
 [Extended Data](ext_articles/bb5bf2d3.ext.json)
-
----
-
-### Mother and Daughter
-
-*2024-11-10 04:36:00* · [`islandlk`](http://island.lk/mother-and-daughter/) · `en`
-
-Anticipating Kamala Harris winning the US presidency, the original title of my article was The Woman Behind the 47th President of the United States. Most unfortunately and surprisingly to us, Donald Trump won the election. However, defeated Kamala has a couple of achievements to her name. She is the first woman, Black American and South Asian American to be elected Vice President of the US, District Attorney of San Francisco and Attorney General of California. And more importantly she is young, healthy, vibrant and next time around may overcome obvious prejudices in the minds of the American voting public and garner the honour of being first woman president of the US. Four years hence?
-
-...
-
-[Data](articles/f3362dc1.json)
-
-[Extended Data](ext_articles/f3362dc1.ext.json)
-
----
-
-### MONKS IN CONFRONTATIONAL POLITICS
-
-*2024-11-10 04:29:00* · [`islandlk`](http://island.lk/monks-in-confrontational-politics/) · `en`
-
-Whether the participation of monks in representative politics is permissible (or proper), has been a matter of periodic discourse in the media.
-
-In preparing this note, I can claim no expertise (nor authority), on the discipline or set of rules for the Maha Sangha. Incidentally, I personally prefer to be considered as “one who seeks to follow the Dhamma,” rather than as a “Buddhist”.
-
-The ordained ones have themselves chosen to enter the Community referred to collectively as “The (Maha) Sangha” They have voluntarily resolved to abandon the lay life and to observe the rules of conduct (more than two hundred), included in the Vinaya Pitaka.
-
-In Myanmar and Thailand, the “forest dweller” (vanavasa) tradition prevails, where the monk lives alone, often in a natural cave, and devotes himself to continuous meditation and solitude, with minimum contact with others. In the commoner monastic tradition, a community of monks live together, with each engaging in his own spiritual practices.
-
-...
-
-[Data](articles/6ab635f0.json)
-
-[Extended Data](ext_articles/6ab635f0.ext.json)
-
----
-
-### Videos for TV, Songs for Radio, and Shows for Stage
-
-*2024-11-10 04:27:00* · [`islandlk`](http://island.lk/videos-for-tv-songs-for-radio-and-shows-for-stage/) · `en`
-
-Due to my deep involvement in the entertainment industry and showbiz, several leading Western musicians in Sri Lanka became my friends from the mid-eighties to the mid-nineties. One of those friends was Sohan Weerasinghe, the leader of Sohan & The X’Periments, featuring Estelle and Judy.
-
-In 1991, I received an unexpected call from Sohan. “Mr. J, I just recorded a new English song with the band at my studio. It’s called ‘Whispers in the Sand.’ If I send you the rough mix, would you be willing to share your thoughts?” The request took me by surprise. “Sohan, you know I’m not a musician and don’t have any musical training. I don’t think I’m qualified to give advice,” I replied. Nevertheless, he sent the rough mix my way.
-
-...
-
-[Data](articles/01675530.json)
-
-[Extended Data](ext_articles/01675530.ext.json)
 
 ---

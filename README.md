@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 17:10:06**
+As of **2024-11-10 17:24:28**
 
 ## Newspaper Stats
 
-*Scraped **54,031** Articles*
+*Scraped **54,033** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,046
-adaderanalk | 6,448
+adalk | 5,047
+adaderanalk | 6,449
 tamilmirrorlk | 7,545
 virakesarilk | 8,756
 adaderanasinhalalk | 9,425
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,013 (100.0%) of 54,031 articles have been extended.
+54,014 (100.0%) of 54,033 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Election complaints surpass 2,500 ahead of Parliamentary Poll
+
+*2024-11-10 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103308/election-complaints-surpass-2500-ahead-of-parliamentary-poll) · `en`
+
+The number of complaints received by the Election Commission in relation to the upcoming 2024 Parliamentary Poll has further increased.
+
+The Election Commission says that 232 more complaints have been received within yesterday (09).
+
+Accordingly, a total of 2,580 election complaints have been reported in connection with the parliamentary election from September 26 to November 09, the Election Commission said.
+
+Meanwhile, the Election Commission also says that 1,999 of the total number of complaints received have been resolved thus far.
+
+The General Election is scheduled to be held on November 14.
+
+◼️
+
+[Data](articles/ba7ad06f.json)
+
+---
 
 ### Over 2,500 complaints of general elections
 
@@ -69,6 +89,22 @@ Ahead of the 35th “Il Maha Viru Samaruwa”, the commemoration of fallen JVP h
 [Data](articles/07e400f2.json)
 
 [Extended Data](ext_articles/07e400f2.ext.json)
+
+---
+
+### වත්මන් ආණ්ඩුව වට්ටන්නවා කියන අයට ජනපතිගෙන් අභියෝගයක්
+
+*2024-11-10 16:20:18* · [`adalk`](https://www.ada.lk/breaking_news/වත්මන්-ආණ්ඩුව-වට්ටන්නවා-කියන-අයට-ජනපතිගෙන්-අභියෝගයක්/11-412950) · `si`
+
+වත්මන් ආණ්ඩුව වට්ටන බවට ප්‍රකාශ කරන පුද්ගලයන් හැකි නම් මහ මැතිවරණයේදී ජනාධිපතිවරනයට වඩා එක් ඡන්දයක් ​හෝ ගෙන පෙන්වන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+වව්නියාවේ අද (10දා) පැවති ජන රැළියක් අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+“අද වේදනාවෙන් කෑමොර දෙනවා සති තුනෙන් වට්ටනවාලු, මාස තුනෙන් වට්ටනවාලු, අවුරුද්දකින් වට්ටනවාලු. එහෙම කියනවා. මතක තබා ගන්න ​මේ ආණ්ඩුව මේ රට හදලා මිසක් ආපසු හැරෙන්නේ නෑ. ඔය දේශපාලන ව්‍යාපාර සියල්ල දියවෙන්න පටන් ගන්නවා. මම ඔය වට්ටන්න කතා කරන මහත්වරුන්ට කියනවා ජනාධිපති ඡන්දයේදී ගත්තට වඩා එක ඡන්දයක් අරන් පෙන්වන්න. මොන වැට්ටිලිද?ඒ අය වැටෙනවා ජනාධිපති ඡන්දෙටත් වැඩිය මහ ඡන්දයේදී බිමට.”
+
+◼️
+
+[Data](articles/f27e01df.json)
 
 ---
 
@@ -204,17 +240,29 @@ Answer - The chances of success are very bright. Two hundred and twenty -six tho
 
 ---
 
-### தெற்கில் ஏற்பட்ட மாற்றம் எமக்கான மாற்றம் இல்லை - ஜனநாயக தேசிய கூட்டணியின் வன்னிமாவட்ட தலைமை வேட்பாளர் உதயராசா
+### There is no change in the South - Udayarasa, the chief candidate of the Democratic National Alliance
 
 *2024-11-10 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198332) · `ta`
 
-தெற்கில் ஏற்பட்ட மாற்றம் தமிழர்களுக்கான மாற்றம் அல்ல. தமிழர்களுக்கு ஒரு மாற்றம் வேண்டுமாக இருந்தால் வன்னி தேர்தல் மாவட்டத்தில் ஒரு தமிழரை அமைச்சராக நாங்கள் தெரிவு செய்ய வேண்டும் என்று ஜனநாயக தமிழ் தேசிய கூட்டணியின் முதன்மை வேட்பாளர் ப.உதயராசா தெரிவித்தார்.வீரகேசரிக்கு அவர் வழங்கிய செவ்வியிலேயே மேற்கண்டவாறு தெரிவித்தார்.
+Here's a summary of the key points in approximately 200 characters:
 
-பதில்: நான் இதற்கு முதல் மூன்று தடவைகள் பாராளுமன்றத் தேர்தலில் போட்டியிட்டு இருக்கின்றேன். முதல் தடவை நான் போட்டியிடுகின்ற போது சொற்ப வாக்குகள் தான் எனக்கு கிடைத்திருந்தது. ஆனால் இரண்டாவது தடவை சொற்ப வாக்குகளால் நான் தோற்கடிக்கப்பட்டிருந்தேன்.
+
+
+P. Udayarasa, TNA candidate, emphasizes Tamil representation in Vanni district. Criticizes lack of development in Northern/Eastern regions. Expresses skepticism about current government's commitment to Tamil rights. Calls for unity among Tamils and protection of their identity. Promises to focus on Vanni district development if elected MP.
+
+🟩
+
+The change in the South is not a change for Tamils. "We should elect a Tamil minister in the Vanni electoral district if the Tamils ​​want a change in the election," said P. Udayarasa, the primary candidate of the Democratic Tamil National Alliance (TNA).
+
+A: I have contested the first three times in parliamentary elections. I got a few votes when I contested the first time. But for the second time I was defeated by a few votes.
+
+The third time I got the votes I got more. However there was an opportunity that could not win. So every time my vote has gone up. So people who voted for me need to do what they voted for. Cannot leave those people because they have lost. So this time I contest the parliamentary election so that they should meet that need.
 
 ...
 
 [Data](articles/f4241116.json)
+
+[Extended Data](ext_articles/f4241116.ext.json)
 
 ---
 
@@ -2175,33 +2223,5 @@ Senior public officials have often to act as buffers between ministers, other im
 [Data](articles/b80335ab.json)
 
 [Extended Data](ext_articles/b80335ab.ext.json)
-
----
-
-### Chandra Arulpragasam – The enigma that was my father
-
-*2024-11-10 04:42:00* · [`islandlk`](http://island.lk/chandra-arulpragasam-the-enigma-that-was-my-father/) · `en`
-
-When my son was 11 years old and in middle school, he chose to write about his grandfather, starting his essay with the statement, “my grandfather is an enigma.” I am not sure whether to his young mind my father was so much a puzzle, being both a super -cool grandpa and an exacting teacher, or just simply unpredictable. My father was someone who could relate to his grandchildren only when they were old enough to debate the merits of the separation of state and church or play a championship game of chess. But he also had wonderful adventures which fired my son’s young imagination.
-
-...
-
-[Data](articles/e0ccffab.json)
-
-[Extended Data](ext_articles/e0ccffab.ext.json)
-
----
-
-### When Sir John Kotelawala visited St. Joseph’s College
-
-*2024-11-10 04:37:00* · [`islandlk`](http://island.lk/when-sir-john-kotelawala-visited-st-josephs-college/) · `en`
-
-Seventy-four years ago, Fr. Peter A. Pillai OMI, a distinguished educationist and the Rector of St. Joseph’s College, proposed the groundbreaking idea of constructing an Olympic-standard swimming pool at the school. This initiative met with resistance from some old boys and parents. At that time, no school in Ceylon (now Sri Lanka) had an Olympic-size pool, let alone a sub-standard swimming facility. The announcement of this ambitious project took the school community by surprise and marked a significant moment in the institution’s history. Fr. Pillai’s vision aimed not just to enhance the school’s facilities but to foster a culture of sports and physical education, paving the way for future generations.
-
-...
-
-[Data](articles/bb5bf2d3.json)
-
-[Extended Data](ext_articles/bb5bf2d3.ext.json)
 
 ---

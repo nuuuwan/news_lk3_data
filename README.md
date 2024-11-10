@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 12:40:29**
+As of **2024-11-10 12:57:40**
 
 ## Newspaper Stats
 
@@ -26,23 +26,29 @@ adaderanasinhalalk | 9,418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,979 (100.0%) of 53,981 articles have been extended.
+53,981 (100.0%) of 53,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### මැතිවරණ කොමිසමේ හිටපු සභාපති ඡන්ද දායකයන්ගෙන් කළ ඉල්ලීම
+### Request of the former Chairman of the Electoral Commission voters
 
 *2024-11-10 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203098) · `si`
 
-ඡන්දය භාවිත නොකර සිටීමෙන් හෝ එය කුරුටු ගෑමෙන් වැළකී, ඉදිරි මැතිවරණයේදී තම ඡන්දය ලබා දීමට ඡන්දපොළට පැමිණෙන ලෙස මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා ඡන්දදායකයින්ගෙන් ඉල්ලීමක් කරයි.
+Former Chairman Mahinda Deshapriya urges voters to cast ballots in upcoming elections, emphasizing voting as a fundamental right and crucial for shaping the nation's future. He cautions against abstaining from voting, likening it to self-imposed crucifixion.
 
-"ඡන්දය අපේ අයිතියයි, ඡන්දය අපේ බලයයි, ඡන්දය අපේ හඬයි, අපේ ඡන්දය රටේ අනාගතයයි. ඒක නිසා අපි ඇවිල්ලා ඡන්දේ දාන්න ඕනේ. ඒක මතක් කරලා දෙන එක තමයි අපි කරන්නේ. ඡන්දේ විතරයි අපිට තියෙන්නේ එකම දේ භේදයක් නැතිව නොලැබෙන මරණය ඇරුණාම. ඒක නිසා ඡන්දේ නොදා හිටියාම වෙන්නේ ඡන්ද දාන අයට වුවමනා පාලකයා එනවා පාලනය කර ගැනීමට. ඒ නිසා ඡන්දය කුරුටු ගාන්නවත්, නොදා ඉන්නවත් එපා ඡන්දේ දාන්න එන්න."
+🟩
+
+Former Chairman Mahinda Deshapriya requests voters to reach the polls to vote in the coming elections without votes or to avoid crucifixion.
+
+"Voting is our right, voting, our voice, our votes, our vote is the future of the country. So we have to come and vote. It is the reminder that we do. Only when we have the death of the death we have the same thing without divides.. When votes, the voters want to control the vote. So come to the vote without crucifying and not to be voted. "
 
 ◼️
 
 [Data](articles/687098b0.json)
+
+[Extended Data](ext_articles/687098b0.ext.json)
 
 ---
 
@@ -69,6 +75,8 @@ The United Arab Emirates National Centre of Meteorology attributed the unusual w
 ...
 
 [Data](articles/db4b0873.json)
+
+[Extended Data](ext_articles/db4b0873.ext.json)
 
 ---
 

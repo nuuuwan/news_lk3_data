@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 21:59:20**
+As of **2024-11-10 22:12:43**
 
 ## Newspaper Stats
 
-*Scraped **54,056** Articles*
+*Scraped **54,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,10 +13,10 @@ dbsjeyarajcom | 421
 bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
-economynextcom | 3,275
+economynextcom | 3,279
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,051
+adalk | 5,052
 adaderanalk | 6,450
 tamilmirrorlk | 7,548
 virakesarilk | 8,765
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,056 (100.0%) of 54,056 articles have been extended.
+54,059 (100.0%) of 54,061 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,32 @@ Meanwhile, the former Chairman of the View Ordinal Advisory Organization Mahinda
 [Data](articles/fc0c97c5.json)
 
 [Extended Data](ext_articles/fc0c97c5.ext.json)
+
+---
+
+### Sri Lanka private credit up Rs89bn in September, government down
+
+*2024-11-10 20:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-up-rs89bn-in-september-government-down-186801/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s private credit grew 88.9 billion rupees in September 2024, on top of 135.1 billion rupees in August, while credit to government declined, official data showed.
+
+Credit to government fell to 8,016 billion rupees in September from 8,058 billion rupees in August.
+
+Credit to state enterprises rose marginally by 5.8 billion rupees to 657.4 billion rupees.
+
+Central bank credit to government fell 9.2 billion to 1,745 billion rupees.
+
+It is not clear whether the negative number came from government deposits in banks, or because banks were now focusing on private credit and was less inclined to buy Treasuries.
+
+Sri Lanka’s private credit is now recovering from negative credit in a stabilization crisis that followed the last currency crisis.
+
+Up to September private credit (including in foreign currency) has expanded by 430 billion rupees, compared to a contraction of 47.7 billion rupees last year.
+
+...
+
+[Data](articles/5c30fa82.json)
+
+[Extended Data](ext_articles/5c30fa82.ext.json)
 
 ---
 
@@ -344,6 +370,26 @@ Muslim MPs cannot claim the gold sabbath for losing their feet because they have
 
 ---
 
+### ලංකාවේ විශේෂිත ළමා රෝහල් දෙකේම එම්.ආර්.අයි. යන්ත්‍ර දෙකම ක්‍රියා විරහිතයි
+
+*2024-11-10 17:48:23* · [`adalk`](https://www.ada.lk/breaking_news/ලංකාවේ-විශේෂිත-ළමා-රෝහල්-දෙකේම-එම්-ආර්-අයි--යන්ත්‍ර-දෙකම-ක්‍රියා-විරහිතයි/11-412958) · `si`
+
+මෙරට තිබෙන  විශේෂිත ළමා රෝහල් දෙකේ ස්ථාපිත කර තිබෙන එම්. ආර්. අයි. (MRI) යන්ත්‍ර දෙකම ක්‍රියා විරහිත වී තිබෙන බව රජයේ විකිරණ විද්‍යා තාක්ෂණවේදීන්ගේ සංගමය සඳහන් කරයි.
+
+කළුතර මහ රෝහලේ පවතින සී ටී ස්කෑන් යන්ත්‍රයද ක්‍රියා විරහිත වී තිබෙන නිසා රෝගී  ජනතාව දැඩි දුෂ්කරතාවන්ට පත්ව සිටින බව එම සංගමය පෙන්වා දෙයි.
+
+කොළඹ රිජ්වේ ආර්යා ළමා රෝහලේ එම්. ආර්. අයි. ස්කෑන් යන්ත්‍රය මීට සති දෙකකට පමණ පෙර ක්‍රියා විරහිත වී තිබෙන බවත්, පේරාදෙණිය ළමා රෝහලේ යන්ත්‍රය මීට වසර හතරකට පෙර ක්‍රියා විරහිත වී තිබෙන බවත් සංගමය සඳහන් කරයි.
+
+කළුතර මහා රෝහලේ සී ටී ස්කෑන් යන්ත්‍රය  2023 වසරේ පෙබරවාරි මාසයේ සිට සම්පූර්ණයෙන්ම බිඳ වැටී ඇත. මෙම යන්ත්‍රය මෙරට  පවතින සිටි ස්කෑන් යන්ත්‍ර 44න්  ඉතා පැරණිම යන්ත්‍රය බවද සංගමය පෙන්වා දෙයි.
+
+මෙම පැරණි යන්ත්‍රය වෙනුවට අලුත් යන්ත්‍රයක්  කළුතර මහ රෝහලට ලබා දීම සඳහා 2021 වර්ෂයේදී ටෙන්ඩර් කැදවීම සිදු කළද එය නිසි ලෙස  ක්‍රියාත්මක වී නොමැත.
+
+...
+
+[Data](articles/a0c2ab19.json)
+
+---
+
 ### Indian submarine to port Colombo
 
 *2024-11-10 17:35:44* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරීනයක්-කොළඹ-වරායට/10-412957) · `si`
@@ -389,6 +435,32 @@ Delhi Ganesh has launched its performance across the stage drama and contributed
 [Data](articles/66c26e61.json)
 
 [Extended Data](ext_articles/66c26e61.ext.json)
+
+---
+
+### India’s INS Vela submarine visits Sri Lanka
+
+*2024-11-10 17:28:00* · [`economynextcom`](https://economynext.com/indias-ins-vela-submarine-visits-sri-lanka-186784/) · `en`
+
+ECONOMYNEXT – Indian Navy submarine INS Vela arrived in Colombo on November 10 on a three-day visit, India’s High Commission (embassy) in Colombo said.
+
+INS Vela a Kalvari-class diesel-electric submarine, commissioned on November 25, 2021.
+
+The visit is classified as an Operational Turn Around (OTR), where the submarine will replenish provisions, the Indian embassy said.
+
+The crew will have the opportunity of visiting places of interest in and around Colombo.
+
+Commander Kapil Kumaris will call on the Commander of the Western Naval Area, Rear Admiral WDCU Kumarasinghe at Western Naval Headquarters. Personnel from Sri Lanka Navy and High Commission of India will also visit the sub.
+
+A basketball match is planned between the Submarine crew and SLN personnel at Sri Lanka Naval Base in Welisara.
+
+The submarine will depart the island on 13 November 2024. (Colombo/Nov10/2024)
+
+◼️
+
+[Data](articles/354eb663.json)
+
+[Extended Data](ext_articles/354eb663.ext.json)
 
 ---
 
@@ -503,6 +575,26 @@ However, Russian authorities have confirmed that one person was injured in the d
 [Data](articles/99443b0b.json)
 
 [Extended Data](ext_articles/99443b0b.ext.json)
+
+---
+
+### Sri Lanka Podujana Party younger wing pushing for more liberal policies, freedom
+
+*2024-11-10 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-party-younger-wing-pushing-for-more-liberal-policies-freedom-186791/) · `en`
+
+ECONOMYNEXT – Sri Lanka Podujana Party’s younger members are pushing for more liberal ideas in a globalized world from within, says Milinda Rajapaksha, a party activist and vocal leader representing the group.
+
+Following the currency collapse, shortages and high inflation under the President Gotabaya Rajapaksa, the party split with a faction supporting ex-President Ranil Wickremesinghe in the last election, while its own candidate Namal Rajapaksha trailed far behind.
+
+The younger members are undaunted and are looking to change the direction of the party, he says. Since SLPP is a democratic party, some will entertain different views, suggestions and ideologies.
+
+“They are the young people who are very pro LGBT rights,” Rajapaksha says. “They are the young people who are very pro of a small government. They are the young people who think SOE reforms are necessary.
+
+...
+
+[Data](articles/00edc49d.json)
+
+[Extended Data](ext_articles/00edc49d.ext.json)
 
 ---
 
@@ -1544,6 +1636,28 @@ We do not know that the criminals should be punished in yesterday's attack. Our 
 
 ---
 
+### Sri Lanka’s BRICS membership not rejected, FM, Russian Embassy clarify
+
+*2024-11-10 13:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-brics-membership-not-rejected-fm-russian-embassy-clarify-186754/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s application for membership in BRICS has not been rejected, but not accepted due to the decision by nine members in the block, the island nation’s Foreign Ministry said.
+
+Cabinet Spokesman Vijitha Herath last week said Sri Lanka’s application to become a member in the BRICS has not been accepted by the group’s current membership, but its request to become a member of BRICS’ New Development Bank (NDB) has been accepted.
+
+“Not accepted means our application was not rejected,” a Foreign Ministry official said.
+
+“Our application is in the process. We do not have to apply again for the membership.”
+
+Sri Lanka applied for the membership of BRICS when its delegation led by Foreign Secretary Aruni Wijewardena took part in the BRICS summit last month held in Russia.
+
+BRICS, an economic and political group, has been gaining increasing relevance in recent years.
+
+...
+
+[Data](articles/da19cf28.json)
+
+---
+
 ### Couple killed in shooting
 
 *2024-11-10 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-தம்பதி-பலி/175-346873) · `ta`
@@ -2261,129 +2375,5 @@ The continuation of the maneuvering of the Tamil National Alliance (TNA) is the 
 [Data](articles/f250801a.json)
 
 [Extended Data](ext_articles/f250801a.ext.json)
-
----
-
-### Acting IGP asserts law enforcement free from political influence
-
-*2024-11-10 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103292/acting-igp-asserts-law-enforcement-free-from-political-influence) · `en`
-
-Acting Inspector General of Police (IGP) Priyantha Weerasooriya affirmed that law enforcement in Sri Lanka operates without political interference, following instructions from the current government to apply the law equally to all citizens.
-
-Speaking at the inauguration of a new building at Chunnakam Police Station in Jaffna, Weerasooriya noted,
-
-“The government has informed me to ensure equal application of the law, and I have relayed this to all officials. After the last presidential election, no incidents of post-election violence were reported. This reflects a new culture in Sri Lanka and underscores the community’s support and the authority granted to us to enforce the law without bias.”
-
-He added that any failure to enforce the law would be a shortcoming on the part of the law enforcement agency and its leadership. “We now have an environment free from external influence on legal proceedings,” Weerasooriya added.
-
-◼️
-
-[Data](articles/a2baca09.json)
-
-[Extended Data](ext_articles/a2baca09.ext.json)
-
----
-
-### Woman killed in a attack
-
-*2024-11-10 09:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203093) · `si`
-
-Here's a 200-character summary:
-
-
-
-58-year-old woman killed in private dispute assault. Suspect fled scene. Police investigating. Incident occurred in Etherend area last night.
-
-🟩
-
-A private dispute has been assaulted by a person and killed a woman.
-
-The incident was reported in the evening yesterday (09).
-
-The deceased has been identified as a 58-year-old resident of the Etherend area in the Etherend area.
-
-The suspect has been identified and he has fled the area, police said.
-
-ENarchndakulam police are conducting further investigations.
-
-◼️
-
-[Data](articles/a60fc8b7.json)
-
-[Extended Data](ext_articles/a60fc8b7.ext.json)
-
----
-
-### Two youths killed in separate road accidents in Sevanagala and Panamura
-
-*2024-11-10 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103291/two-youths-killed-in-separate-road-accidents-in-sevanagala-and-panamura) · `en`
-
-Two youths were reportedly killed in separate road accidents in the Sevanagala and Panamura police divisions yesterday (09).
-
-In the first incident, a 17-year-old was fatally injured when a bus collided with the rear of a motorcycle on the Sevanagala-Divulgas Junction road.
-
-The accident occurred as a bus traveling towards Divulgas Junction struck a motorcycle heading from Gamunupura to Laksirigama.
-
-Both the motorcyclist and the pillion rider were seriously injured, and the pillion rider succumbed to injuries after being admitted to Sevanagala Hospital.
-
-In a separate incident, a 19-year-old youth was killed in Mulendiyawala when a motorcycle collided with the trailer of a hand tractor on the Mulendiyawala-Malapalawa road.
-
-◼️
-
-[Data](articles/10cb145b.json)
-
-[Extended Data](ext_articles/10cb145b.ext.json)
-
----
-
-### Anarchy after an accident in Chunnakam
-
-*2024-11-10 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198290) · `ta`
-
-Chunnakam incident: Police brutality reported after vehicle collision. Two-month-old baby involved. Witnesses claim officers assaulted parents, used excessive force. Investigation underway.
-
-🟩
-
-The victims said that the Chunnakam police had carried out a brutal attack on some of the two -month -old child's father's father's relatives following a collision with two men in a vehicle in Chunnakam.
-
-The mother said that the mother and father were severely assaulted by the police who lifted a two -month -old baby in the bar.
-
-As we were coming by the street, two motorcycles were trying to overtake our vehicle and fell down.
-
-The person who fell down had drunk the public. They said you should not be afraid.
-
-Those who came in civil clothes asked my husband for a vehicle permit.
-
-I did not leave my husband's hand.
-
-I contacted Anna in the Mayiliti Anna. Anna came to ask him what he was.
-
-My husband put my child down to take the child into the sky and hit my husband by hand. The wearing of a blue -eyed man, who was taken to the hospital to take the child to the hospital, stood up with an iron rod.
-
-...
-
-[Data](articles/2927f2cb.json)
-
-[Extended Data](ext_articles/2927f2cb.ext.json)
-
----
-
-### Dilith Jayaweera calls for politics free from hatred and racism
-
-*2024-11-10 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103290/dilith-jayaweera-calls-for-politics-free-from-hatred-and-racism) · `en`
-
-Gampaha District parliamentary candidate and leader of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera, emphasized the need for politics free from hatred and anger, stating that racism should never take root in the country.
-
-Speaking at a public meeting in Ambalantota, he urged the public to eliminate any divisive sentiments that may arise. “If any racist seed sprouts in this country, which has never sought our religion, dharma, or civilization, crush it immediately and eliminate racism from this country,” he said.
-
-Jayaweera also condemned “purple politics” of inconsistency, where different messages are delivered to the north and the south, calling instead for a “politics of love” that unites people.
-
-He reminded the crowd that political leaders are elected by the votes of innocent citizens and that leaders must remain committed to improving people’s lives.
-
-...
-
-[Data](articles/51f7c367.json)
-
-[Extended Data](ext_articles/51f7c367.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 08:24:00**
+As of **2024-11-10 08:45:20**
 
 ## Newspaper Stats
 
-*Scraped **53,940** Articles*
+*Scraped **53,946** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,125 @@ newsfirstlk | 363
 dbsjeyarajcom | 421
 bbccomsinhala | 548
 colombotelegraphcom | 553
-islandlk | 3,229
+islandlk | 3,230
 economynextcom | 3,272
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
-adaderanalk | 6,431
-tamilmirrorlk | 7,530
+adaderanalk | 6,432
+tamilmirrorlk | 7,532
 virakesarilk | 8,729
-adaderanasinhalalk | 9,409
+adaderanasinhalalk | 9,411
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,925 (100.0%) of 53,940 articles have been extended.
+53,928 (100.0%) of 53,946 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### IMF delegation to visit Sri Lanka next week
+
+*2024-11-10 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103288/imf-delegation-to-visit-sri-lanka-next-week) · `en`
+
+A group of representatives from the International Monetary Fund (IMF) is scheduled to visit Sri Lanka next week.
+
+This delegation will conduct the third review under the country’s Extended Fund Facility (EFF) program provided by the IMF. The team will be led by the IMF’s senior mission chief, Peter Brewer.
+
+Following this review, the IMF is expected to release the next loan installment to Sri Lanka.
+
+During their visit, the IMF delegation will discuss the current government’s economic policies in detail. They will also evaluate the implementation of previous agreements with the IMF and review recent progress made under Sri Lanka’s economic reform program.
+
+The Secretary of the Ministry of Finance and the Governor of the Central Bank recently assured IMF representatives during discussions in Washington that the government remains committed to adhering to the IMF agreement.
+
+After the third review, the fourth installment for Sri Lanka under the EFF program will be released.
+
+◼️
+
+[Data](articles/a93f837e.json)
+
+---
+
+### වෛරයෙන්, ක්‍රෝධයෙන් තොර දේශපාලනයක් රටට අවශ්‍යයි - දිලිත්
+
+*2024-11-10 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203091) · `si`
+
+වෛරයෙන්, ක්‍රෝධයෙන් තොර දේශපාලනයක් රටට අවශ්‍ය කාලය එළැඹ ඇති බව සර්ව ජන බලයේ නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක, නීතීඥ, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ රට තුළ යළිත් ජාතිවාදය ඇති කිරීමට ඉඩලබා නොදිය යුතු බවය.
+
+අම්බලන්තොට ප්‍රදේශයේ පැවති ජනහමුවකට එක්වෙමින් ව්‍යවසායක දිලිත් ජයවීර මහතා එම අදහස් පළකළේය.
+
+...
+
+[Data](articles/db5c0e79.json)
+
+---
+
+### பிரபல நடிகர் டெல்லி கணேஷ் காலமானார்
+
+*2024-11-10 08:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகர்-டெல்லி-கணேஷ்-காலமானார்/54-346854) · `ta`
+
+பிரபல நடிகர் டெல்லி கணேஷ் நேற்று இரவு 11 மணியளவில் தூக்கத்திலேயே காலமானார்.
+
+சென்னை ராமாபுரத்தில் உள்ள அவரது இல்லத்தில் நேற்று இரவு காலமானதாக தகவல் வெளியாகியுள்ளது.
+
+தமிழ், தெலுங்கு உள்ளிட்ட மொழிகளில் 400க்கும் மேற்பட்ட படங்களில் நடித்துள்ளார் டெல்லி கணேஷ். திரைப்படங்கள் மட்டுமின்றி, சின்னத்திரை நாடகங்களிலும் டெல்லி கணேஷ் நடித்துள்ளார்.
+
+◼️
+
+[Data](articles/028ab69c.json)
+
+---
+
+### Two fatal accidents - lose two young lives
+
+*2024-11-10 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203090) · `si`
+
+Two fatal accidents claim young lives: 17-year-old killed in bus-motorcycle collision near Sevanagala; 19-year-old dies in car crash on Early Inauwa road. Both incidents occurred yesterday.
+
+🟩
+
+Two youths were killed in two incidents of road accident.
+
+The accident had occurred yesterday (09) by the Sevanagala and Pharmacera.
+
+A 17-year-old youth was killed in an accident near the Mihindupura Community Center in Sevanagala road.
+
+The accident had occurred when a bus traveling to Divhamunagala from Sevanagala and a motorcycle to Luzaigama to Luziigama to Luziigama.
+
+The driver has been identified as the motorcyclist and the passagers were seriously injured and taken to the Sevanagala hospital.
+
+Meanwhile, a 19-year-old youth has killed in an accident in an accident in the foundation of the Early In the Early Inauwa road.
+
+The deceased has been identified as a 19 year old resident of Embilipitiya, Embilipitiya.
+
+◼️
+
+[Data](articles/65654e7b.json)
+
+[Extended Data](ext_articles/65654e7b.ext.json)
+
+---
+
+### புகையிரதத்தில் மோதி பெண் ஒருவர் மரணம்
+
+*2024-11-10 08:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்தில்-மோதி-பெண்-ஒருவர்-மரணம்/175-346853) · `ta`
+
+ஹிக்கடுவ, அமரசேன மாவத்தையில் உள்ள பாதுகாப்பற்ற புகையிரத கடவையில் சென்ற  பெண் ஒருவர் புகையிரதத்தில் மோதி உயிரிழந்துள்ளார்.
+
+காலியில் இருந்து அளுத்கம நோக்கி நேற்று (09) மாலை பயணித்த புகையிரதத்தில் மோதி குறித்த பெண் உயிரிழந்துள்ளார்.
+
+பிரேத பரிசோதனையின் பின்னர் சடலம் கராப்பிட்டிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், ஹிக்கடுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/8244f877.json)
+
+---
 
 ### Chunnakam police station, including a woman who was found with a baby girl, has been attacked by the Chunnakam Police Station - Gajendrakumar rushed to the scene
 
@@ -82,19 +182,31 @@ Qatar said initial reports it had withdrawn from mediation talks and said that H
 
 ---
 
-### வடக்கின் தமிழ் அரசியல் அரங்கு தூய்மைப்படுத்தப்பட வேண்டும் - தேசிய மக்கள் சக்தியின் யாழ். தேர்தல் மாவட்ட முதன்மை வேட்பாளர் கருணநாதன் இளங்குமரன் செவ்வி
+### Tamil political theater in the North should be cleaned -Jaffna of the National People's Power. Karunanathan Ilangumaran Chevi, the primary candidate of the election district
 
 *2024-11-10 07:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198291) · `ta`
 
-76 வருட இலங்கையின் மோசடி அரசியலின் பங்குதாரராகவே வடக்கில் ஆதிக்கம் செலுத்தி வந்து தமிழ் அரசியலும் பொய்யான வாக்குறுதிகளுடன் காணப்படுகிறது. பல்லாயிரம் இளைஞர், யுவதிகள் மக்களுமாக மடிந்த பின்னரும் பிழைப்புவாத அரசியல் தொடர்கிறது. தமிழ் அரசியல் அரங்கு தூய்மைப்படுத்தப்பட வேண்டுமென தேசிய மக்கள் சக்தியின் யாழ். தேர்தல் மாவட்ட முதன்மை வேட்பாளர் கருணநாதன் இளங்குமரன் வீரகேசரிக்கு வழங்கிய செவ்வியில் தெரிவித்தார்.
+Here's a 200-character summary:
 
-தேசிய மக்கள் சக்தியின் யாழ். மாவட்ட முதன்மை வேட்பாளர் கருணநாதன் இளங்குமரன் வீரகேசரிக்கு வழங்கிய செவ்வியின் முழுமையான வடிவம் வருமாறு,
 
-கேள்வி : நீங்கள் எவ்வித அரசியல் பின்னணியும் இல்லாது அரசியலில் நுழைவதற்கான காரணம் என்ன ?
+
+Tamil political theater in Jaffna needs cleaning. Karunanathan Ilangumaran Chevi, National People's Power candidate, criticizes false promises and corrupt politics. Aims to implement 13th Amendment and promote democracy. Promises to address past injustices and serve people's interests.
+
+🟩
+
+Tamil politics has been dominated by the north, with false promises as a partner of Sri Lanka's fraudulent politics. The survivalist politics continues even after tens of thousands of youth and women died. The Tamil political arena should be cleaned up to the National People's Power. Election district chief candidate Karunanathan Ilangumaran said in a speech to Weerakesari.
+
+Jaffna of the National People's Power. The full form of the interview with the district chief candidate Karunanathan Ilangumaran Weerakesari
+
+Question: What is the reason for you to enter politics without any political background?
+
+Answer: Politics seems to be buried within this question. Politics is for ordinary people in our language. I have contributed to the People's Liberation Front for over 10 years, its trade union movement and the national people's power.. I have been involved in the street struggles. Our political merits, including the uprising of 2022. Not the face of arrogance.
 
 ...
 
 [Data](articles/65528bd6.json)
+
+[Extended Data](ext_articles/65528bd6.ext.json)
 
 ---
 
@@ -115,6 +227,8 @@ Thus, the general public is kindly requested to take adequate precautions to min
 ◼️
 
 [Data](articles/71d68b43.json)
+
+[Extended Data](ext_articles/71d68b43.ext.json)
 
 ---
 
@@ -263,6 +377,18 @@ Seventy-four years ago, Fr. Peter A. Pillai OMI, a distinguished educationist an
 [Data](articles/bb5bf2d3.json)
 
 [Extended Data](ext_articles/bb5bf2d3.ext.json)
+
+---
+
+### Mother and Daughter
+
+*2024-11-10 04:36:00* · [`islandlk`](http://island.lk/mother-and-daughter/) · `en`
+
+Anticipating Kamala Harris winning the US presidency, the original title of my article was The Woman Behind the 47th President of the United States. Most unfortunately and surprisingly to us, Donald Trump won the election. However, defeated Kamala has a couple of achievements to her name. She is the first woman, Black American and South Asian American to be elected Vice President of the US, District Attorney of San Francisco and Attorney General of California. And more importantly she is young, healthy, vibrant and next time around may overcome obvious prejudices in the minds of the American voting public and garner the honour of being first woman president of the US. Four years hence?
+
+...
+
+[Data](articles/f3362dc1.json)
 
 ---
 
@@ -2169,131 +2295,5 @@ The United Nations's Human Rights Office points out that 80 percent of the total
 [Data](articles/ea482a79.json)
 
 [Extended Data](ext_articles/ea482a79.ext.json)
-
----
-
-### Special gazette release
-
-*2024-11-09 09:26:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-வர்த்தமானி-வெளியீடு/175-346820) · `ta`
-
-Elections Commission issues special gazette appointing Chairman and Deputy Chairman for Elpitiya Local Government Council. Colombo Tantrike Nishantha Perera named as Chairman after national people's power victory on 26th of last month.
-
-🟩
-
-The Elections Commission has issued a special gazette notification to announce the Chairman and Deputy Chairman of the Elpitiya Local Government Council.
-
-Accordingly, the Gazette Notification states that its Chairman of Colombo Tantrike Nishantha Perera has been appointed.
-
-In the election held on the 26th of last month, the national people's power was acquired by the Elpitiya Local Government Council.
-
-◼️
-
-[Data](articles/2f2bd82b.json)
-
-[Extended Data](ext_articles/2f2bd82b.ext.json)
-
----
-
-### A group of 58 Sri Lankans arrested
-
-*2024-11-09 09:20:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/58-இலங்கையர்கள்-குழுவொன்று-கைது/175-346819) · `ta`
-
-Sri Lanka: 58 citizens arrested for online financial fraud.
-
-🟩
-
-A group of 58 Sri Lankans suspected of engaging in financial fraud on the Internet. Remble
-
-◼️
-
-[Data](articles/1cccfd4d.json)
-
-[Extended Data](ext_articles/1cccfd4d.ext.json)
-
----
-
-### Electricity, water connections disconnects
-
-*2024-11-09 09:03:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-இல்லத்தின்-மின்சாரம்-நீர்-இணைப்புகள்-துண்டிப்பு/175-346818) · `ta`
-
-Government cuts electricity, water to minister's official residence due to unpaid rent and lack of cooperation. Former State Minister Sanath Nishantha's wife's lawyer Samari Perera failed to comply with requests to return the property. This resulted in disconnection of essential services.
-
-🟩
-
-The Ministry of Public Administration and Labor and Labor has said that before the time of the former State Minister Sanath Nishantha, the government has repeatedly reminded the wife's lawyer Samari Perera to immediately hand over the official residence provided by the government.
-
-Considering the situation, the official residence of the power and water supply has been cut off.
-
-It is also reported that he did not even pay the home rent on the official residence.
-
-A ministry official said that the bungalow could not be acquired due to this situation, saying that the ministry officials did not receive adequate support from him.
-
-All other homes used by former ministers have been handed over to the ministry, except for those official residences.. That
-
-◼️
-
-[Data](articles/3d4d1c22.json)
-
-[Extended Data](ext_articles/3d4d1c22.ext.json)
-
----
-
-### President’s Secretary orders urgent probe into salinity barrier’s role in Matara flooding
-
-*2024-11-09 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103270/presidents-secretary-orders-urgent-probe-into-salinity-barriers-role-in-matara-flooding) · `en`
-
-A special discussion was held at the Presidential Secretariat, led by Dr. Nandika Sanath Kumanayake the Secretary to the President, and attended by officials from the Irrigation Department, the National Water Supply and Drainage Board, and related Ministries.
-
-The meeting was held yesterday (08)  focusing on determining if the Salinity Barrier is indeed contributing to the floods leading to agricultural damage, according to President’s Media  Division (PMD).
-
-It was decided that a thorough study is necessary to address these concerns and that the Engineering Department of the University of Peradeniya will assist in this investigation. The Secretary to the President supported this proposal and directed the officials to create an action plan based on the findings from the study.
-
-...
-
-[Data](articles/5e7f4ce0.json)
-
-[Extended Data](ext_articles/5e7f4ce0.ext.json)
-
----
-
-### 58 arrested for allegedly defrauding money
-
-*2024-11-09 08:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198235) · `ta`
-
-Sri Lanka: 58 arrested for alleged money laundering scheme involving foreign entities.
-
-🟩
-
-58 Sri Lankans have been arrested for allegedly involved in money laundering through enemy.
-
-◼️
-
-[Data](articles/8a54b0a5.json)
-
-[Extended Data](ext_articles/8a54b0a5.ext.json)
-
----
-
-### 58 CID be transferred to financial fraud
-
-*2024-11-09 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203059) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka: 58 individuals linked to online financial fraud arrested in Narahenpita operation. Criminal Investigations Department involved.
-
-🟩
-
-A large number of 58 Sri Lankans associated with Internet fiscal fraud was arrested.
-
-The Criminal Investigations Department has taken place in Narahenpita.
-
-◼️
-
-[Data](articles/35f271e2.json)
-
-[Extended Data](ext_articles/35f271e2.ext.json)
 
 ---

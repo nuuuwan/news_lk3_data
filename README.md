@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 03:40:26**
+As of **2024-11-11 03:58:40**
 
 ## Newspaper Stats
 
-*Scraped **54,092** Articles*
+*Scraped **54,095** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,697
+dailyftlk | 3,700
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
@@ -26,11 +26,63 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,091 (100.0%) of 54,092 articles have been extended.
+54,094 (100.0%) of 54,095 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### India-funded surgical unit inaugurated at Batticaloa Teaching Hospital
+
+*2024-11-11 03:35:24* · [`dailyftlk`](https://www.ft.lk/news/India-funded-surgical-unit-inaugurated-at-Batticaloa-Teaching-Hospital/56-769091) · `en`
+
+High Commissioner of India to Sri Lanka Santosh Jha and Sri Lanka Health Ministry Secretary Dr. Palitha Gunaratna Mahipala jointly inaugurated the newly constructed surgical unit at the Batticaloa Teaching Hospital on 4 November.
+
+Batticaloa Government Agent Muralidharan, Eastern Provincial Health Secretary and Batticaloa Municipal Commissioner Sivalingam, Batticaloa Teaching Hospital Director Dr. Kalaranchane Ganeshalingam, senior officials from the Health Ministry of Sri Lanka, Eastern Provincial Council and Batticaloa District administration, and staff of the Batticaloa Teaching Hospital, among others, attended the event.
+
+The need for a new surgical ward was identified at the hospital around 2015 due to the escalating number of patients admitted to wards, and the growing number of surgeries performed. At the time of the proposal, approximately 1,280 patients were on waiting lists for surgeries. Due to the hospital’s limited facilities, patients had to face excessive waiting times.
+
+...
+
+[Data](articles/aeeac49c.json)
+
+[Extended Data](ext_articles/aeeac49c.ext.json)
+
+---
+
+### Ambassador Isomata presents credentials to President Dissanayake
+
+*2024-11-11 03:33:40* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Isomata-presents-credentials-to-President-Dissanayake/56-769090) · `en`
+
+New Ambassador of Japan Isomata Akio presented his Letter of Credence to President Anura Kumara Dissanayake on 7 November at the Presidential Secretariat.
+
+Following the presentation of the credentials, Ambassador Isomata conveyed the message from His Majesty the Emperor to President. the Ambassador also exchanged views with the President on how to strengthen Sri Lanka-Japan relationship through cooperation in various sectors that will contribute to socio-economic development of Sri Lanka. This meeting reaffirmed the strong bonds of friendship between Japan and Sri Lanka. Together, they are looking forward to building a future of mutual growth, prosperity, and lasting partnership.
+
+◼️
+
+[Data](articles/25f4e0cf.json)
+
+[Extended Data](ext_articles/25f4e0cf.ext.json)
+
+---
+
+### Pakistan High Commission awards prestigious Allama Iqbal Scholarships to Lankan students
+
+*2024-11-11 03:31:53* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-awards-prestigious-Allama-Iqbal-Scholarships-to-Lankan-students/56-769089) · `en`
+
+THE Pakistan High Commission, Colombo, in collaboration with the Higher Education Commission, Pakistan held the Allama Iqbal Scholarship Award distribution ceremony on 30 October.
+
+The scholarship is named after Allama Muhammad Iqbal, one of the greatest philosophers and visionary also known as ‘Poet of the East’. Allama Iqbal inspired countless individuals through his profound thoughts and unwavering commitment to education.
+
+The Allama Iqbal scholarship program for the deserving Sri Lankan students was started in 2019. This year, for the sixth batch of the program, 200 fully funded scholarships have been awarded to the students. At present, around 500 students are already pursuing their academic degrees at graduate, postgraduate and PhD level. The next intake will start in February 2025.
+
+...
+
+[Data](articles/4b488b06.json)
+
+[Extended Data](ext_articles/4b488b06.ext.json)
+
+---
 
 ### “AKD’s Govt. follows same path ‘Vel Palama’ after RW” – Susil Premajayanth
 
@@ -2329,73 +2381,5 @@ We do not know that the criminals should be punished in yesterday's attack. Our 
 [Data](articles/c4be0eae.json)
 
 [Extended Data](ext_articles/c4be0eae.ext.json)
-
----
-
-### Sri Lanka’s BRICS membership not rejected, FM, Russian Embassy clarify
-
-*2024-11-10 13:06:00* · [`economynextcom`](https://economynext.com/sri-lankas-brics-membership-not-rejected-fm-russian-embassy-clarify-186754/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s application for membership in BRICS has not been rejected, but not accepted due to the decision by nine members in the block, the island nation’s Foreign Ministry said.
-
-Cabinet Spokesman Vijitha Herath last week said Sri Lanka’s application to become a member in the BRICS has not been accepted by the group’s current membership, but its request to become a member of BRICS’ New Development Bank (NDB) has been accepted.
-
-“Not accepted means our application was not rejected,” a Foreign Ministry official said.
-
-“Our application is in the process. We do not have to apply again for the membership.”
-
-Sri Lanka applied for the membership of BRICS when its delegation led by Foreign Secretary Aruni Wijewardena took part in the BRICS summit last month held in Russia.
-
-BRICS, an economic and political group, has been gaining increasing relevance in recent years.
-
-...
-
-[Data](articles/da19cf28.json)
-
-[Extended Data](ext_articles/da19cf28.ext.json)
-
----
-
-### Couple killed in shooting
-
-*2024-11-10 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-தம்பதி-பலி/175-346873) · `ta`
-
-Couple killed in shooting: Husband and wife shot dead while riding motorcycle in Ambalangoda. Unidentified gunmen opened fire on them. Incident occurred on Galle Road near Uravatha area.
-
-🟩
-
-Ambalangoda police said that both husband and wife were killed in a shooting that took place this afternoon in Galle Road, Ambalangoda - Uravatha area.
-
-The two deceased are from Ambalangoda - Madampe, Devagoda area, police said.
-
-When the two were riding a motorbike from Ambalangoda, the unidentified armed men came on a motorbike and fired at them, police said.
-
-◼️
-
-[Data](articles/6531850b.json)
-
-[Extended Data](ext_articles/6531850b.ext.json)
-
----
-
-### New Zealand - Second T20 T20 T20 match today
-
-*2024-11-10 12:58:44* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත---ශ්‍රී-ලංකා-දෙවන-විස්සයි-20-තරගය-අද/9-412946) · `si`
-
-New Zealand vs Sri Lanka: Second T20 match today at Dambulla International Cricket Stadium at 7 PM. Sri Lanka won first match yesterday.
-
-🟩
-
-The second T20 match between the New Zealand team and the Sri Lankan team will be held today (10).
-
-The match will be held at the Dambulla International Cricket Stadium today at 07 pm.
-
-The Sri Lankan team has won the first Twenty20 match between the two countries yesterday (09).
-
-◼️
-
-[Data](articles/08bea754.json)
-
-[Extended Data](ext_articles/08bea754.ext.json)
 
 ---

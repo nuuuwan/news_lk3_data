@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 01:10:06**
+As of **2024-11-11 01:24:38**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,078 (100.0%) of 54,079 articles have been extended.
+54,079 (100.0%) of 54,079 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Lawyer Nagananda, a respected attorney in both Sri Lanka and England, is widely 
 ...
 
 [Data](articles/00e74a6b.json)
+
+[Extended Data](ext_articles/00e74a6b.ext.json)
 
 ---
 

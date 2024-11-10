@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 13:09:42**
+As of **2024-11-10 13:24:38**
 
 ## Newspaper Stats
 
-*Scraped **53,983** Articles*
+*Scraped **53,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,038
-adaderanalk | 6,442
-tamilmirrorlk | 7,541
+adalk | 5,041
+adaderanalk | 6,443
+tamilmirrorlk | 7,543
 virakesarilk | 8,733
 adaderanasinhalalk | 9,419
 
@@ -26,11 +26,45 @@ adaderanasinhalalk | 9,419
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,983 (100.0%) of 53,983 articles have been extended.
+53,987 (100.0%) of 53,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Monk arrested as another illegally assembled luxury vehicle seized
+
+*2024-11-10 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103301/monk-arrested-as-another-illegally-assembled-luxury-vehicle-seized-) · `en`
+
+Police have apprehended a Buddhist monk in connection with a luxury vehicle found in the Mahiyanganaya area that reportedly had no valid registration or legal documentation. Officers suspect that the vehicle’s license plate is also fraudulent, raising further concerns about the vehicle’s legitimacy.
+
+Preliminary investigations have revealed that the “Trooper” Jeep in question had been transferred to the monk through an informal document, without any official or verifiable paperwork. Authorities state that no formal ownership records exist for the vehicle, adding to suspicions about its origins and use.
+
+However, police have also uncovered that the luxury vehicle in question bore the same license plate as another vehicle found in the Kurunegala area.
+
+Police sources further disclosed that the monk, who is employed as a teacher at a school in Theldeniya, had been in possession of the vehicle for some time.
+
+...
+
+[Data](articles/3da30cb2.json)
+
+---
+
+### துப்பாக்கி பிரயோகத்தில் தம்பதி பலி
+
+*2024-11-10 13:01:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-தம்பதி-பலி/175-346873) · `ta`
+
+காலி வீதி, அம்பலாங்கொடை - உரவத்த பிரதேசத்தில், இன்று (10) பிற்பகல் இடம்பெற்ற துப்பாக்கிச் சூட்டில், கணவன் மனைவி இருவரும் உயிரிழந்துள்ளதாக, அம்பலாங்கொடை பொலிஸார் தெரிவிக்கின்றனர்.
+
+உயிரிழந்த இருவரும் அம்பலாங்கொடை - மாதம்பே, தேவகொட பிரதேசத்தை சேர்ந்தவர்கள் எனவும், பொலிஸார் தெரிவித்துள்ளனர்.
+
+இவர்கள் இருவரும் அம்பலாங்கொடையில் இருந்து மோட்டார் சைக்கிளில் பயணித்தபோது,  இனந்தெரியாத ஆயுததாரிகள் மோட்டார் சைக்கிளில் வந்து அவர்கள் மீது துப்பாக்கி பிரயோகம் மேற்கொண்டுவிட்டு தப்பிச் சென்றுள்ளதாக, பொலிஸார் தெரிவிக்கின்றனர்.AN
+
+◼️
+
+[Data](articles/6531850b.json)
+
+---
 
 ### Man and woman killed in shooting at Ambalangoda
 
@@ -70,6 +104,28 @@ Police said two persons who came from a motorcycle had fled the shot.
 
 ---
 
+### Has Sri Lanka's application rejected?
+
+*2024-11-10 12:34:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-விண்ணப்பம்-நிராகரிக்கப்பட்டதா/175-346872) · `ta`
+
+Sri Lanka's BRICS membership application status: Under review. Russian Embassy clarifies no rejection reported. Application still considered by BRICS leadership.
+
+🟩
+
+The Russian Embassy in Sri Lanka, which has issued a false details in a local newspaper, has clarified the recent reports of Sri Lanka's attempt to join the BRICS.
+
+Sri Lanka's application is still under consideration and the Russian BRICS leadership has welcomed Sri Lanka's interest, the embassy said.
+
+The embassy has urged the reports that the application of Sri Lanka's application has been rejected by a consensus among the members of the Prix.
+
+◼️
+
+[Data](articles/6f0eaba1.json)
+
+[Extended Data](ext_articles/6f0eaba1.ext.json)
+
+---
+
 ### Request of the former Chairman of the Electoral Commission voters
 
 *2024-11-10 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203098) · `si`
@@ -87,6 +143,30 @@ Former Chairman Mahinda Deshapriya requests voters to reach the polls to vote in
 [Data](articles/687098b0.json)
 
 [Extended Data](ext_articles/687098b0.ext.json)
+
+---
+
+### Rs. 280000 Treasury Bills and Bonds auction
+
+*2024-11-10 12:23:52* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--280000ක-භාණ්ඩාගාර-බිල්පත්-හා-බැඳුම්කර-වෙන්දේසියක්/11-412944) · `si`
+
+Central Bank Sri Lanka auctions Treasury Bonds Rs. 130 billion, Treasury Bills Rs. 62.5 billion. Short-term debt instruments issued under Treasury Bill Act 1923. Long-term loans also available.
+
+🟩
+
+The Central Bank of Sri Lanka (SLTB) has taken measures to hold a auction of Treasury Bonds worth Rs. 13 thousand million and Rs.
+
+Treasury Bonds of Rs.
+
+Treasury bills of Rs. 62,500 million worth of Rs. 6,000 million worth RsThe Central Bank announced.
+
+(Treasury bill is a short-term debt instrument issued by the Government of Sri Lanka under the local Treasury Bill Act No. 8 of 1923 under the local Treasury Bill Act No. 8 of 1923). A RevisedIs a medieval and long-term loan tool issued by.)
+
+◼️
+
+[Data](articles/e207a0c3.json)
+
+[Extended Data](ext_articles/e207a0c3.ext.json)
 
 ---
 
@@ -708,6 +788,32 @@ If you can't implement the law, it's our weakness. The impairment of the law enf
 
 ---
 
+### 117 lakhs cigarettes cannot be chased from Katunayake
+
+*2024-11-10 09:35:57* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-117ක-නිතිවිරෝධී-සිගරට්-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-412943) · `si`
+
+Two Sri Lankans arrested at airport with 117 lakh cigarettes. Businessman and daughter, ages 61 and 38, detained by Police Narcotics Bureau. Cigarettes found in luggage. Case to be heard at Negombo Magistrate's Court on 11/13.
+
+🟩
+
+A business of a businessman and a daughter has been arrested by a group of Rs.
+
+The mother 61 was the mother of the two residents of Gampola. Her daughter is 38.
+
+The two were FLIA Dubai from Dubai, Fly Dubai, from Dubai, from Dubai, about 5:00 pm.
+
+The Police Narcotics Bureau has also been arrested by 391 cigarettes crocodies, which contain 78,200 smoking cigarettes in the baggage they brought.
+
+The two are to be released on police bail and the two persons and the cigarettes that they have illegally brought to the Negombo Magistrate's Court on 11/13.
+
+◼️
+
+[Data](articles/86cc2284.json)
+
+[Extended Data](ext_articles/86cc2284.ext.json)
+
+---
+
 ### Sri Lanka central bank buys US$189mn from banks in October
 
 *2024-11-10 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us189mn-from-banks-in-october-186731/) · `en`
@@ -725,6 +831,28 @@ The central bank also allowed the exchange rate to appreciate amid balance of pa
 [Data](articles/8e3605e8.json)
 
 [Extended Data](ext_articles/8e3605e8.ext.json)
+
+---
+
+### Two candidates in Dilith joins Douglaus
+
+*2024-11-10 09:07:45* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ගේ-අපේක්ෂකයන්-දෙදෙනෙක්-ඩග්ලස්ට-එක්වෙයි/11-412942) · `si`
+
+Two candidates join EPDP: District Organizer T. Pushparasa and Trincomalee District candidate M.I.Cheragan. They left another party after nomination issues. Former MP Kapila Athukorala's nominees were dismissed.
+
+🟩
+
+The two candidates contesting the presidential power in the party from the parliamentary election, two candidates contesting the party and the candidate, joined the Eelam People's Democratic Party (EPDP) led by former Minister Douglas Devananda.
+
+District Organizer T. According to the instructions of Pushparasa, the party's media spokesman and the Trincomalee District candidate M.I.Cheragan joined the party.
+
+The two candidates who left the party of the universal power in the party that former MP Kapila Athukorala has nominated and submitting the nomination after the nomination subvertgives have been dismissed due to the EPD.. Added to the party.
+
+◼️
+
+[Data](articles/e9107e31.json)
+
+[Extended Data](ext_articles/e9107e31.ext.json)
 
 ---
 
@@ -2155,173 +2283,5 @@ In this case, the film's title and First Look have been released. The appearance
 [Data](articles/37e15d01.json)
 
 [Extended Data](ext_articles/37e15d01.ext.json)
-
----
-
-### Information about the traum murder suspect involved in the Arugambal incident
-
-*2024-11-09 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203075) · `si`
-
-Here's a 200-character summary:
-
-
-
-Farhad Shakey, Carlissel Rivera, and Farhad Shakerai suspected in plot against Trump and Israelis. US DoJ alleges Iranian involvement. Shakey deported in 2008. Zechariyan arrested in 2019. Iran denies claims.
-
-🟩
-
-The US Judicial Department announced that the man named Farhad Shakey, who was planning to assassinate the new President Donald Trump, has also planned to kill Israeli in Sri Lanka.
-
-A 49-year-old man named Carlissel Rivera is a 36 year old man in Brooklylin, New York, at Statton Island.
-
-The two suspects have revealed this information.
-
-However, the 51-year-old Iranian National Farhad Shakerai, a 51 year old Iranian National Indians, is still arresting the Israelites in Sri Lanka and the US.
-
-However, the three of them have filed criminal charges in the court.
-
-The US Department of Justice stated in a press release, said that the Trump's election was defeated and was planned to shoot and kill him after the election.
-
-The announcement issued by the US Judicial Department states that the Iranian rewiscourse has promised to target two million US dollars at $ 5 million per person.
-
-The US Department of Justice has also been entrusted with the target of Israeli nationals who visit Sri Lanka.
-
-...
-
-[Data](articles/eca21c85.json)
-
-[Extended Data](ext_articles/eca21c85.ext.json)
-
----
-
-### Deposits to the Financial Treasury provided by China
-
-*2024-11-09 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198269) · `ta`
-
-China provides 30 million rupees to Sri Lanka's Financial Assistance Treasury Scheme from Jan 1, 2024 to Oct 30, 2024. Additional funds allocated from National Budget Department for disaster relief. 10 million yuan materials from Republic of China to be distributed under Emergency Humanitarian Assistance Scheme. Measures taken for house damage compensation and reconstruction through Disaster Relief and Monitoring Scheme.
-
-🟩
-
-From January 01, 2024 to October 30, about 30 million rupees has been sent to the Financial Assistance Treasury Scheme by China to compensate for homes and property damaged by natural disasters.
-
-Additional funds have been made from the National Budget Department to the rehabilitation of the homes of the people affected by natural disasters and the Treasury Department has provided the fund to the Ministry of Defense immediately.
-
-Since there were not adequate funding in the budget estimate for 2024, there was a need to allocate additional funds to the victims of the disaster.
-
-In addition, under the Emergency Humanitarian Assistance Scheme, 10 million yuan materials available from the Republic of China are to be distributed after the proper accounting.
-
-In addition, the necessary measures have been taken to provide compensation for damaged houses and possessions, the construction and reconstruction of the houses through the Disaster Relief and Monitoring Scheme.
-
-◼️
-
-[Data](articles/7b0ea78e.json)
-
-[Extended Data](ext_articles/7b0ea78e.ext.json)
-
----
-
-### Tourist earnings up
-
-*2024-11-09 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203074) · `si`
-
-Sri Lanka's tourism and remittance earnings surge: Tourist arrivals up 59%, earning $2.53 billion in 10 months; foreign remittances reach $5.43 billion, increasing 11.7%.
-
-🟩
-
-The number of earnings of foreign remittances and tourism industry has increased this year compared to the past year.
-
-Sri Lanka earned US $ 185.6 million over the tourism industry.
-
-Accordingly, the total tourism industry earned $ 2533.7 million for the 10 months of this year.
-
-This is an increase of 59% when traveling earnings of 2023 to 1593.4 million years of tourism earnings.
-
-Sri Lanka Tourism Development Authority (SLTDA) says that 30,620 foreign tourists have arrived in Sri Lanka in the first five of November 2024.
-
-The total number of tourists visiting Sri Lanka in 2024 has increased to 1,651,335.
-
-The highest number of tourist arrivals in the first five days of November arrived from India and that was 7,785.
-
-The second most tourists came from Russia, and it was 4,488.
-
-Later, the largest number of tourists came to Sri Lanka from Germany, British, Australia and China.
-
-...
-
-[Data](articles/6bfb0ba5.json)
-
-[Extended Data](ext_articles/6bfb0ba5.ext.json)
-
----
-
-### Measuring between 20 to 30 years
-
-*2024-11-09 16:25:49* · [`adalk`](https://www.ada.lk/breaking_news/අවු-20---30-අතර-පිරිසට-සරම්ප-එන්නත්කරණය-අරඹයි/11-412938) · `si`
-
-Vaccination campaign targets 20-30 year olds. UNICEF, WHO attend event. Program covers 900k homes, 2k institutions. Special injection for youth aged 20-30. Implemented in 12 districts, 206 health centers. Also includes vaccine for children 9-15. Ministry announces special measles-rubella week from Nov 4-9.
-
-🟩
-
-Today, the vaccination of measures identified as 20 and 30 years of age have been identified and the identified youth have been identified.
-
-Dr. Palitha Maheepala's special observation was observed by Medical Palitha Maheepala, the Members of the Colombo Thalangama Regional Hospital in Colombo District and the International Medium Center (Clinic Home Center) at the Colombo Thalangama Regional Hospital.
-
-United Nations International Children's Fund (UNICEF) and representatives of the World Health Organization were also present.
-
-Speaking at the meeting, Dr. Palitha Mahipala said ...
-
-The health field staff covered 900,000 houses and more than 2,000 institutions that have been operated on the last 5 days of the RBBella Immunization Week.The program will be given to the youth of the youth of the 20 to 30 years of age between the ages of 20 and 30 years of age and only one dose of the ages of 20 to 30 years of age.
-
-The special injection program is also being implemented within 4 days.
-
-...
-
-[Data](articles/b374ba48.json)
-
-[Extended Data](ext_articles/b374ba48.ext.json)
-
----
-
-### Reinforced protection
-
-*2024-11-09 15:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பலப்படுத்தப்படும்-பாதுகாப்பு/175-346828) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Security measures: 90,000 personnel deployed; 3,109 mobile patrols, 269 roadblocks, 241 riot groups nationwide for election security.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that 90,000 security personnel will be deployed to ensure security during the upcoming general election.
-
-He said that 3,109 mobile, patrols, 269 roadblocks and 241 riot groups have been deployed across the country for post -election security.. Remble
-
-◼️
-
-[Data](articles/5c5e2e15.json)
-
-[Extended Data](ext_articles/5c5e2e15.ext.json)
-
----
-
-### Iranian charged over plot to kill Trump was also told to target Israeli tourists in Sri Lanka - US
-
-*2024-11-09 15:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103279/iranian-charged-over-plot-to-kill-trump-was-also-told-to-target-israeli-tourists-in-sri-lanka-us) · `en`
-
-The U.S. Department of Justice has on Friday charged an “Iranian asset Farhad Shakeri,” who is accused in a plot to assassinate then-presidential candidate Donald Trump, and claim that he was also tasked with targeting Israeli tourists in Sri Lanka.
-
-The Justice Department on Friday announced federal charges in a thwarted Iranian plot to kill Donald Trump before the presidential election.
-
-According to court documents, Iranian officials asked Farhad Shakeri, 51, in September to focus on surveilling and ultimately assassinating Trump. Shakeri is still at large in Iran, the Justice Department said.
-
-This is a newly disclosed plot and marks yet another alleged attempt on Trump’s life by the Iranian regime, the CNN reported.
-
-...
-
-[Data](articles/80e5e6aa.json)
-
-[Extended Data](ext_articles/80e5e6aa.ext.json)
 
 ---

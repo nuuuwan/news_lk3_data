@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 08:59:49**
+As of **2024-11-10 09:24:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,411
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,928 (100.0%) of 53,948 articles have been extended.
+53,937 (100.0%) of 53,948 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The body is currently being held in the hospital mortuary. Hikkaduwa Police are 
 ◼️
 
 [Data](articles/01af62e8.json)
+
+[Extended Data](ext_articles/01af62e8.ext.json)
 
 ---
 
@@ -70,37 +72,51 @@ After the third review, the fourth installment for Sri Lanka under the EFF progr
 
 [Data](articles/a93f837e.json)
 
+[Extended Data](ext_articles/a93f837e.ext.json)
+
 ---
 
-### වෛරයෙන්, ක්‍රෝධයෙන් තොර දේශපාලනයක් රටට අවශ්‍යයි - දිලිත්
+### Country Want a Hate and Excertion Politics - Dilith
 
 *2024-11-10 08:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203091) · `si`
 
-වෛරයෙන්, ක්‍රෝධයෙන් තොර දේශපාලනයක් රටට අවශ්‍ය කාලය එළැඹ ඇති බව සර්ව ජන බලයේ නායක, ගම්පහ දිස්ත්‍රික් අපේක්ෂක, නීතීඥ, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+Dilith Jayaweera calls for ending divisive politics, promoting unity and love instead. He emphasizes the need to protect innocent citizens' rights and prevent further polarization in Sri Lanka.
 
-ඔහු පෙන්වා දෙන්නේ රට තුළ යළිත් ජාතිවාදය ඇති කිරීමට ඉඩලබා නොදිය යුතු බවය.
+🟩
 
-අම්බලන්තොට ප්‍රදේශයේ පැවති ජනහමුවකට එක්වෙමින් ව්‍යවසායක දිලිත් ජයවීර මහතා එම අදහස් පළකළේය.
+The leader of the Matara district, the Gampaha District candidate, lawyers, Entrepreneurship Dilith Jayarawara says that the country has the necessary time has come from hatred.
+
+He points out that it should not be brought back in the country.
+
+Addressing an entrepreneur Dilith Jayaweera expressed his views at a meeting held in Ambalantota.
 
 ...
 
 [Data](articles/db5c0e79.json)
 
+[Extended Data](ext_articles/db5c0e79.ext.json)
+
 ---
 
-### பிரபல நடிகர் டெல்லி கணேஷ் காலமானார்
+### Famous actor Delhi Ganesh has passed away
 
 *2024-11-10 08:17:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பிரபல-நடிகர்-டெல்லி-கணேஷ்-காலமானார்/54-346854) · `ta`
 
-பிரபல நடிகர் டெல்லி கணேஷ் நேற்று இரவு 11 மணியளவில் தூக்கத்திலேயே காலமானார்.
+Renowned actor Delhi Ganesh (65) passed away at 11 PM. He appeared in over 400 Tamil and Telugu films, as well as stage productions.
 
-சென்னை ராமாபுரத்தில் உள்ள அவரது இல்லத்தில் நேற்று இரவு காலமானதாக தகவல் வெளியாகியுள்ளது.
+🟩
 
-தமிழ், தெலுங்கு உள்ளிட்ட மொழிகளில் 400க்கும் மேற்பட்ட படங்களில் நடித்துள்ளார் டெல்லி கணேஷ். திரைப்படங்கள் மட்டுமின்றி, சின்னத்திரை நாடகங்களிலும் டெல்லி கணேஷ் நடித்துள்ளார்.
+Famous actor Delhi Ganesh passed away at around 11 pm last night.
+
+It is reported that his residence in Ramapuram, Chennai passed away last night.
+
+Delhi Ganesh has acted in over 400 films in Tamil and Telugu.. Delhi Ganesh has acted in not only films but also in iconic plays.
 
 ◼️
 
 [Data](articles/028ab69c.json)
+
+[Extended Data](ext_articles/028ab69c.ext.json)
 
 ---
 
@@ -134,19 +150,25 @@ The deceased has been identified as a 19 year old resident of Embilipitiya, Embi
 
 ---
 
-### புகையிரதத்தில் மோதி பெண் ஒருவர் மரணம்
+### A woman death in a train
 
 *2024-11-10 08:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகையிரதத்தில்-மோதி-பெண்-ஒருவர்-மரணம்/175-346853) · `ta`
 
-ஹிக்கடுவ, அமரசேன மாவத்தையில் உள்ள பாதுகாப்பற்ற புகையிரத கடவையில் சென்ற  பெண் ஒருவர் புகையிரதத்தில் மோதி உயிரிழந்துள்ளார்.
+Woman dies at unsafe railway crossing in Hikkaduwa. Killed by train from Galle to Aluthgama. Autopsy conducted, body at Karapitiya Hospital. Police investigating incident.
 
-காலியில் இருந்து அளுத்கம நோக்கி நேற்று (09) மாலை பயணித்த புகையிரதத்தில் மோதி குறித்த பெண் உயிரிழந்துள்ளார்.
+🟩
 
-பிரேத பரிசோதனையின் பின்னர் சடலம் கராப்பிட்டிய வைத்தியசாலையின் பிரேத அறையில் வைக்கப்பட்டுள்ளதுடன், ஹிக்கடுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+A woman who was traveling in an unsafe railway crossing in Amarasena Mawatha, Hikkaduwa has died.
+
+The woman was killed in a train traveling from Galle to Aluthgama yesterday evening.
+
+After the autopsy, the body was placed in the funeral room of the Karapitiya Hospital and Hikkaduwa police are conducting further investigations.. Remble
 
 ◼️
 
 [Data](articles/8244f877.json)
+
+[Extended Data](ext_articles/8244f877.ext.json)
 
 ---
 
@@ -250,65 +272,87 @@ Thus, the general public is kindly requested to take adequate precautions to min
 
 ---
 
-### දුම්රියේ ගැටී කාන්තාවක් මරුට
+### Woman dies after collision with train
 
 *2024-11-10 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203089) · `si`
 
-හික්කඩුව, අමරසේන මාවත අනාරක්ෂිත දුම්රිය හරස් මාර්ගයේදී කාන්තාවක් දුම්රියේ ගැටී මියගොස් තිබේ.
+Train collision kills 66-year-old woman in Hikkaduwa. Victim died at scene. Police investigating incident.
 
-ඊයේ (09) සවස් කාලයේදී ‍ගාල්ල සිට අළුත්ගම බලා ධාවනය වූ දුම්රියක එම කාන්තාව ගැටී තිබුණි.
+🟩
 
-එලෙස මියගොස් ඇත්තේ, වල්පිටිමුල්ල, දෙවලපොළ ප්‍රදේශයේ පදිංචිව සිටි 66 හැවිරිදි කාත්තාවකි.
+A woman was killed and a woman collided with a train on the unprotected railway crossing in Hikkaduwa and Amarasena Mawatha.
 
-මෘත ශරීරය හදිසි මරණ පරීක්ෂණය සිදුකර කරාපිටිය රෝහලේ මෘත ශරීරාගාරයේ තැන්පත් කර ඇති අතර හික්කඩුව පොලීසිය වැඩිදුර විමර්ශන සිදුකරනු ලබයි.
+The woman was hit by a train traveling from Galle to Aluthgama yesterday (09).
+
+The deceased has been identified as a 66 year old resident of the Dealapola area.
+
+The body has been placed at the Karapitiya hospital morgue and the Hikkaduwa Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/702bfc17.json)
 
+[Extended Data](ext_articles/702bfc17.ext.json)
+
 ---
 
-### சுன்னாகத்தில் விபத்தொன்றின் பின்னர் பொலிஸார் அராஜகம் - இரண்டு மாத குழந்தையை தூக்கி பற்றைக்குள் வீசி தாய் தந்தையை கடுமையாக தாக்கியதாக குற்றச்சாட்டு
+### Anarchy after an accident in Chunnakam
 
 *2024-11-10 07:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198290) · `ta`
 
-சுன்னாகத்தில் வாகனமொன்றின் மீது இருவர் மதுபோதையில் வந்து மோதிய சம்பவத்தை தொடர்ந்து சுன்னாகம் பொலிஸார் இரண்டு மாத குழந்தையின் தாய் தந்தை உறவினர்கள் சிலரின் மீது காட்டுமிராண்டித்தனமான தாக்குதலை மேற்கொண்டனர் என பாதிக்கப்பட்டவர்கள் தெரிவித்;துள்ளனர்.
+Chunnakam incident: Police brutality reported after vehicle collision. Two-month-old baby involved. Witnesses claim officers assaulted parents, used excessive force. Investigation underway.
 
-இரண்டு மாத குழந்தையை பற்றைக்குள் தூக்கியெறிந்த பொலிஸார் தாயையும் தந்தையும் கடுமையாக தாக்கினார்கள் என தாயார் தெரிவித்துள்ளார்
+🟩
 
-நாங்கள் வீதியால் வந்துகொண்டிருக்கும்போது இரண்டு மோட்டார்சைக்கிளில் வந்தவர்கள் எங்கள் வாகனத்தை முந்தி செல்ல முயன்று தாங்களே அடிபட்டு கீழே விழுந்தார்கள்.
+The victims said that the Chunnakam police had carried out a brutal attack on some of the two -month -old child's father's father's relatives following a collision with two men in a vehicle in Chunnakam.
 
-கீழே விழுந்தவர் மது அருந்தியிருந்தார் பொதுமக்கள் அவர் சாரயம் குடித்திருக்கின்றார். நீங்கள் பயப்படவேண்டாம் என தெரிவித்தார்கள்.
+The mother said that the mother and father were severely assaulted by the police who lifted a two -month -old baby in the bar.
 
-சிவில் உடையில் வந்தவர்கள் வந்தவர்கள் எனது கணவரிடம் வாகனச்சாரதி அனுமதிப்பத்திரத்தை கேட்டார்கள்.ஆனால் அவர் போக்குவரத்து பிரிவினர் வந்தால்தான் கொடுக்கவேண்டும் என்பதால் கொடுக்கவில்லை.
+As we were coming by the street, two motorcycles were trying to overtake our vehicle and fell down.
 
-எனது கணவரை கையைபிடிச்சு இழுத்தார்கள் நான் விடவில்லை எனக்கு கறுப்புநிற டீசேர்ட் அணிந்த பொலிஸ்காரர் அடித்தாh.
+The person who fell down had drunk the public. They said you should not be afraid.
+
+Those who came in civil clothes asked my husband for a vehicle permit.
+
+I did not leave my husband's hand.
+
+I contacted Anna in the Mayiliti Anna. Anna came to ask him what he was.
+
+My husband put my child down to take the child into the sky and hit my husband by hand. The wearing of a blue -eyed man, who was taken to the hospital to take the child to the hospital, stood up with an iron rod.
 
 ...
 
 [Data](articles/2927f2cb.json)
 
+[Extended Data](ext_articles/2927f2cb.ext.json)
+
 ---
 
-### IMF නියෝජිත පිරිසක් එළැඹෙන සතියේ දිවයිනට
+### An IMF Representative to arrive in the island
 
 *2024-11-10 07:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203088) · `si`
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් පිරිසක් ලබන සතියේ දිවයිනට පැමිණීමට නියමිතව තිබේ.
+IMF team arrives next week for Sri Lanka's third review. Heads of mission discuss economic policies and progress under Economic Reforms Program. Review focuses on implementing IMF consensus and releasing fourth tranche of loan facility.
 
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට ලබා දී ඇති විස්තීර්ණ ණය අරමුදල් පහසුකම යටතේ වන තෙවන සමාලෝචනය සිදුකිරීම සදහා මෙම නියෝජිත පිරිස දිවයිනට පැමිණීමට නියමිත බව වාර්තා වේ.
+🟩
 
-ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘවර් මහතාගේ ප්‍රධානත්වයෙන් යුත් කණ්ඩායමක් මෙලෙස දිවයිනට පැමිණීමට නියමිතව ඇත.
+Representatives of the IMF are due to arrive in the island next week.
 
-මෙම සමාලෝචනයෙන් අනතුරුව ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට මීළග ණය වාරිකය ලබාදීම සිදුකිරීමට නියමිතයි.
+It is reported that the delegation is due to arrive in the island to conduct the third review of the Third review of Sri Lanka by the International Monetary Fund.
 
-ඒ අනුව එළඹෙන සතියේ දිවයිනට පැමිණෙන ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස වත්මන් ආණ්ඩුවේ ආර්ථික ප්‍රතිපත්තිය සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡා කිරීමට නියමිත බවද වාර්තා වේ.
+Heads of Head of the International Monetary Fund Senior Mission Senior Mission is due to arrive in the island.
 
-ඊට අමතරව ජාත්‍යන්තර මූල්‍ය අරමුදල සමග ඇතිකර ගත් එකඟතා ක්‍රියාත්මක කිරීම සහ මෙරට ආර්ථික ප්‍රතිසංස්කරණ වැඩසටහන යටතේ සිදුකර ඇති මෑත කාලීන ප්‍රගතිය පිළිබඳව සොයා බැලීම මෙහිදී සිදුකිරීමට නියමිතව ඇත.
+After this review, the International Monetary Fund is to be provided with the weller installment to Sri Lanka.
+
+Accordingly, the International Monetary Fund delegation to arrive in the island in the coming week is to be discussed at length to the current government's economic policy.
+
+In addition, the implementation of consensus with the IMF and the recent progress carried out under the Economic Reforms Program in the country are to be investigated.
 
 ...
 
 [Data](articles/e0010eb4.json)
+
+[Extended Data](ext_articles/e0010eb4.ext.json)
 
 ---
 
@@ -407,6 +451,8 @@ Anticipating Kamala Harris winning the US presidency, the original title of my a
 ...
 
 [Data](articles/f3362dc1.json)
+
+[Extended Data](ext_articles/f3362dc1.ext.json)
 
 ---
 

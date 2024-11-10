@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 04:24:37**
+As of **2024-11-11 04:40:17**
 
 ## Newspaper Stats
 
-*Scraped **54,095** Articles*
+*Scraped **54,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,177 @@ bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,700
+dailyftlk | 3,709
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
 tamilmirrorlk | 7,553
-virakesarilk | 8,775
+virakesarilk | 8,777
 adaderanasinhalalk | 9,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,095 (100.0%) of 54,095 articles have been extended.
+54,099 (100.0%) of 54,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### President AKD pledges to release Tamil political prisoners
+
+*2024-11-11 04:09:41* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-pledges-to-release-Tamil-political-prisoners/56-769100) · `en`
+
+Says Govt. will take necessary steps on advice of AG to release Tamil political prisoners
+
+Commits to returning land in North taken over for security purposes to rightful owners
+
+Pledges to defend rights of Northern fishermen whose livelihoods have long been threatened by Indian poachers
+
+Promises to review renewable energy project contracts to ensure agreements have not been entered into under unfair terms
+
+President Anura Kumara Dissanayake has announced that the Sri Lankan Government is prepared to take necessary steps, under the guidance of the Attorney General (AG), to release Tamil political prisoners currently incarcerated.
+
+Speaking at a National People’s Power (NPP) rally in Vavuniya over the weekend, Dissanayake emphasised that, unlike in the past, this move would not face opposition from the South, as the nation now stands united under the NPP banner.
+
+...
+
+[Data](articles/006206cd.json)
+
+[Extended Data](ext_articles/006206cd.ext.json)
+
+---
+
+### Foreign Affairs Ministry says BRICS membership still pending
+
+*2024-11-11 04:06:37* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Affairs-Ministry-says-BRICS-membership-still-pending/56-769099) · `en`
+
+The Foreign Affairs Ministry yesterday insisted pending requests for BRICS membership from many countries, including Sri Lanka, will be considered by BRICS member countries in due course.
+
+It was responding to media reports which claimed “rejection” of Sri Lanka’s membership application to BRICS. The Foreign Ministry noted such reports were incorrect and misleading.
+
+As approved by the Cabinet on 7 October 2024, Sri Lanka applied for membership in BRICS and the new development bank (NDB). Foreign Affairs Minister Vijitha Herath wrote to his counterparts in BRICS member countries informing of Sri Lanka’s interest to join. President Anura Kumara Dissanayake also wrote to his Russian counterpart in this regard.
+
+...
+
+[Data](articles/01fae46b.json)
+
+[Extended Data](ext_articles/01fae46b.ext.json)
+
+---
+
+### Manthri.lk launches new election platform
+
+*2024-11-11 04:05:59* · [`dailyftlk`](https://www.ft.lk/news/Manthri-lk-launches-new-election-platform/56-769098) · `en`
+
+Manthri.lk is set to transform its website into a one-stop, trilingual online election tool ahead of the upcoming General Election on 14 November, and guide voters through the entire election process.
+
+Watch election results with the fastest updates and the only dynamic vote-to-seat predictions for the 10th Parliament
+
+The platform will also allow candidates to voluntarily disclose additional information about themselves.
+
+After voting, the public will get a first-hand view of the 10th Parliament of Sri Lanka. The platform’s signature vote-to-seat tracker, which predicted the 2020 Parliament, is geared to provide a real-time graphic simulation of the new Parliament while the country watches the election results.
+
+◼️
+
+[Data](articles/021137ee.json)
+
+[Extended Data](ext_articles/021137ee.ext.json)
+
+---
+
+### ‘Tax Conundrum, Democracy, and Rule of Law’ take centre stage at CA Sri Lanka’s 26th Annual Tax Oration
+
+*2024-11-11 03:47:55* · [`dailyftlk`](https://www.ft.lk/business/Tax-Conundrum-Democracy-and-Rule-of-Law-take-centre-stage-at-CA-Sri-Lanka-s-26th-Annual-Tax-Oration/34-769097) · `en`
+
+CA Sri Lanka President Heshana Kuruppu presenting a copy of the publication ‘Latest Tax Case Report: A Decade of Insights’ to President's Counsel Dr. Shivaji Felix
+
+The 26th Annual Tax Oration, organised by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), examined the intricate relationship between tax policy, democracy, and the rule of law. Under the theme ‘Tax Conundrum, Democracy, and the Rule of Law,’ President’s Counsel Dr. Shivaji Felix, highlighted concerns that the Inland Revenue’s tax practices may overburden taxpayers without clear benefits. He argued that excessive taxation diminishes citizens’ spending power and may conflict with economic fairness.
+
+...
+
+[Data](articles/a160a37e.json)
+
+[Extended Data](ext_articles/a160a37e.ext.json)
+
+---
+
+### HVA Foods partners Müggenburg Group Germany
+
+*2024-11-11 03:47:08* · [`dailyftlk`](https://www.ft.lk/business/HVA-Foods-partners-Müggenburg-Group-Germany/34-769096) · `en`
+
+From left: HVA Foods Chairman Samantha Ranatunga, Müggenburg Group Chief Executive Officer Jan Müggenburg, HVA Foods Chief Executive Officer Graham Stork, and George Steuart & Co. Group Chairman Sarva Ameresekere
+
+HVA Foods PLC, a member of the George Steuart Group, announces its exclusive distributor partnership with Müggenburg Group, Germany, a renowned family-owned company with over 80 years of expertise in high-quality herbs and botanicals.
+
+This partnership enables HVA Foods PLC to introduce Müggenburg’s extensive range of raw and processed natural ingredients to Sri Lanka, for its value addition in the tea industry and other emerging industries in nutraceuticals and natural supplements.
+
+...
+
+[Data](articles/234c10cb.json)
+
+---
+
+### Swing into Action: New Zealand’s Tour of Sri Lanka 2024 on Dialog Television
+
+*2024-11-11 03:44:28* · [`dailyftlk`](https://www.ft.lk/business/Swing-into-Action-New-Zealand-s-Tour-of-Sri-Lanka-2024-on-Dialog-Television/34-769095) · `en`
+
+Cricket fever is set to ignite as Dialog Television proudly presents the highly anticipated New Zealand Tour of Sri Lanka from 9th to 19th November. This thrilling series promises to be filled with excitement as Sri Lanka’s talented squad takes on the formidable New Zealand team at multiple stadiums in Sri Lanka, including venues in Dambulla and Pallekele.
+
+...
+
+[Data](articles/a31f3575.json)
+
+---
+
+### LAN partners SLDF to host “Creative Entrepreneurs for Social Change” competition
+
+*2024-11-11 03:43:36* · [`dailyftlk`](https://www.ft.lk/business/LAN-partners-SLDF-to-host-Creative-Entrepreneurs-for-Social-Change-competition/34-769094) · `en`
+
+The Lanka Angel Network (LAN) last week partnered with the Sri Lanka Design Festival (SLDF) to bring forward the “Creative Entrepreneurs for Social Change” competition, a transformative initiative aimed at fostering social innovation within the creative sector.
+
+The event, held at Cinnamon Life at City of Dreams, showcased how creativity can effectively address pressing societal issues.
+
+The “Creative Entrepreneurs for Social Change” competition aimed to discover and support innovative ideas that harness creativity for social good. It received numerous inspiring applications from passionate entrepreneurs across Sri Lanka. The top finalists – Generation Alpha, AGC Innovate, White Shadow Art, and Aaythura – pitched their innovative ideas to a panel of judges of angel investors from LAN.
+
+...
+
+[Data](articles/e2abd477.json)
+
+---
+
+### Chinese Ambassador Scholarship award ceremony at Keppetipola School
+
+*2024-11-11 03:40:39* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Ambassador-Scholarship-award-ceremony-at-Keppetipola-School/56-769093) · `en`
+
+China’s Ambassador to Sri Lanka Qi Zhenhong recently travelled to Keppetipola School in the central mountainous region of Sri Lanka to award students with the Chinese Ambassador Scholarship.
+
+Over 300 people attended the event, including Counsellor of the Chinese Embassy Ji Lili, Senior Additional Secretary to the President G. M. R. D. Aponsu, Uva Provincial Director of Education A. H. R. Amaradasa, Principal of Keppetipola School R. M. S. B. Rathnayaka, award-winning students, teacher representatives, and alumni.
+
+Ambassador Qi first paid tribute to the statue of the national hero Keppitipola by laying flowers, with the ribbon inscribed in both Chinese and Sinhala, ‘Tribute to Heroes who Fought Bravely for Independence and Freedom Against Colonisation and Invasion.’
+
+...
+
+[Data](articles/bcb8ed15.json)
+
+---
+
+### High Commissioner visits Indian Housing Project sites in Uva Province, extends multi-sectoral assistance
+
+*2024-11-11 03:37:59* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-visits-Indian-Housing-Project-sites-in-Uva-Province-extends-multi-sectoral-assistance/56-769092) · `en`
+
+High Commissioner of India to Sri Lanka Santosh Jha this week visited one of the sites of the Indian Housing Project (IHP) Phase-III at Narangala Division in Uva Province.
+
+He interacted with the 54 beneficiary families of the IHP at the site. As part of the multi-sectoral Indian grant assistance of INR 750 million announced last year to mark 200 years of arrival of the Indian-origin Tamil community to Sri Lanka, the High Commissioner also distributed solar lanterns among the beneficiary families.
+
+At a special event organised at Narangala Tamil Vidyalayam, the High Commissioner distributed multi-sectoral assistance. Based on requests received from the recipients, the assistance included power back-up gensets and medical equipment to Dalauda and Kandegedere Divisional Hospitals and Narangala Health Dispensary, sports kits to Narangala and Ledgerwatte Tamil Vidyalayams No.2 and No.3, and raincoats to the plantation workers.
+
+...
+
+[Data](articles/9f60cc52.json)
+
+---
 
 ### India-funded surgical unit inaugurated at Batticaloa Teaching Hospital
 
@@ -121,6 +275,38 @@ Q: Dimitra, can you tell us about your background and your role in the upcoming 
 [Data](articles/d9d4a55e.json)
 
 [Extended Data](ext_articles/d9d4a55e.ext.json)
+
+---
+
+### பொதுத் தேர்தல் தொடர்பில் இதுவரை 2580 முறைப்பாடுகள் பதிவு!
+
+*2024-11-11 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198378) · `ta`
+
+எதிர்வரும் 14 ஆம் திகதி நடைபெறவுள்ள பொதுத் தேர்தல் தொடர்பில் இதுவரை (செப்டெம்பர் மாதம் 26 ஆம் திகதி முதல் நவம்பர் மாதம் 11 ஆம் திகதி வரை) 2,580 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாகத் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+அதன்படி, தேர்தல் சட்டங்களை மீறியமை தொடர்பில் தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 744 முறைப்பாடுகளும், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 1,781 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+
+இதேவேளை, மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு வன்முறைச் சம்பவங்கள் தொடர்பில் 20 முறைப்பாடுகளும் ஏனைய விடயங்கள் தொடர்பில் 35 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+
+◼️
+
+[Data](articles/3c65f913.json)
+
+---
+
+### மட்டக்களப்பில் கொலை மற்றும் ஆலையங்களில் குண்டுவைத்து மோசடி செய்தவர்களுக்கு வாக்களிக்க போகின்றீர்களா? - இரா.துரைரெத்தினம்
+
+*2024-11-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198379) · `ta`
+
+மட்டக்களப்பு மாவட்டத்தில் ஊழல் மோசடி செய்த பல மோசடிக்கு சொந்தகாரர்களும் படுகொலை செய்தவர்களும் பல படுகொலைக்கு காரணமாக இருந்ததுடன் ஆலயங்களுக்குள்ளே குண்டுவைத்த மோசடியாகப் பெற்ற பணத்தை மக்களுக்குச் செலவு செய்துவரும் மோசடிகாரர்களுக்கும் தமிழ் தேசியத்தை சிதைப்பதற்காக வாக்குகளை பிரிக்க களமிறக்கப்பட்ட சுயேச்சைக்குழுக்களுக்கும் வாக்களிக்கப் போகின்றீர்களா? மக்களே சிந்தியுங்கள் எனச் சங்கு சின்னத்தில் போட்டியிடும் முன்னாள் கிழக்கு மாகாணசபை உறுப்பினர் இரா.துரைரெத்தினம் தெரிவித்தார்
+
+மட்டக்களப்பு வாவிகரை வீதியிலுள்ள ஈ.பி.ஆர்.எல்.எப் கட்சிகாரியாலயத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற ஊடகமாநாட்டில் அவர் இவ்வாறு தெரிவித்தார்.
+
+இலங்கையில் மக்களுக்குச் சேவை செய்யக் கூடிய நல்ல திறமையான நேர்மையான ஆரோக்கியமுள்ள ஊழல் மோசடி அற்ற பிரதி நிதியைத் தெரிவு செய்கின்றதற்காகவே இந்த தேர்தல் நடாத்தப்படுகின்றது
+
+...
+
+[Data](articles/cdb7122c.json)
 
 ---
 
@@ -2117,269 +2303,5 @@ China was acting in the tone that should be given and not to be fully given.
 [Data](articles/18147671.json)
 
 [Extended Data](ext_articles/18147671.ext.json)
-
----
-
-### Foreign Ministry, Russian Embassy refutes claims of Sri Lanka’s BRICS membership application rejection
-
-*2024-11-10 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103304/foreign-ministry-russian-embassy-refutes-claims-of-sri-lankas-brics-membership-application-rejection) · `en`
-
-Sri Lanka’s Ministry of Foreign Affairs refutes the media reports claiming that Sri Lanka’s application for BRICS membership has been rejected.
-
-Issuing a statement in this regard, the ministry stated that as approved by the Cabinet on 07 October 2024, Sri Lanka applied for membership in BRICS and the New Development Bank (NDB).
-
-“The Minister of Foreign Affairs Vijitha Herath wrote to his counterparts in BRICS member countries informing of Sri Lanka’s interest to join. President Anura Kumara Dissanayake also wrote to his Russian counterpart in this regard”, it added.
-
-Furthermore, the Foreign Affairs Ministry clarified: “At the BRICS Outreach Summit held in Kazan, Russia 22-24 October 2024, Foreign Secretary Aruni Wijewardane, as leader of the Sri Lanka delegation announced Sri Lanka’s interest. At the Summit, the BRICS Member States also endorsed a new category of Partner Countries, whilst ‘welcoming the considerable interest by countries of the Global South in BRICS’ (Kazan Declaration).”
-
-...
-
-[Data](articles/055be798.json)
-
-[Extended Data](ext_articles/055be798.ext.json)
-
----
-
-### Pakistan beat Pakistan win by 22 years
-
-*2024-11-10 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203102) · `si`
-
-Pakistan wins 3rd ODI vs Australia in Perth, ending 22-year drought. This victory completes the series sweep, marking a significant milestone in cricket history between the two nations.
-
-🟩
-
-The Pakistan won the third ODI winner from the third ODI winning today (10) in Perth today.
-
-Accordingly, Pakistan were able to win the three-match tournament.
-
-This is a 22 years after a group of Pakistani visits in Australia.
-
-The last year's tour of Vakar Unison had won 2-1.
-
-Australia was bowled out for 140 runs in the winning the match.
-
-◼️
-
-[Data](articles/1575a179.json)
-
-[Extended Data](ext_articles/1575a179.ext.json)
-
----
-
-### Pakistan ODI win after 22 years
-
-*2024-11-10 14:50:05* · [`adalk`](https://www.ada.lk/sports/වසර-22ට-පසු-පාකිස්තානය-ලද-එක්දින-තරගාවලි-ජය/9-412949) · `si`
-
-Pakistan wins ODI series vs Australia after 22 years. Pakistan defeated Australia by 8 wickets in the final match, winning the series 1-2.
-
-🟩
-
-The Pakistan won the ODI series against Australian team today (10).
-
-The third and final ODI will win by eight wickets.
-
-It is significant that Pakistan won a tournament after 22 years against Australia.
-
-The Australian team scored 140 runs for the loss of 31 balls at the end of 31 balls.
-
-In reply, Pakistan won the competition with 14 wickets in 26 overs.
-
-With this victory, Pakistan won the tournament as one to 2 matches.
-
-◼️
-
-[Data](articles/41faf736.json)
-
-[Extended Data](ext_articles/41faf736.ext.json)
-
----
-
-### Mahinda Deshapriya urges voters to properly exercise right to vote
-
-*2024-11-10 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103303/mahinda-deshapriya-urges-voters-to-properly-exercise-right-to-vote) · `en`
-
-Former Election Commission Chairman Mahinda Deshapriya urged voters to cast their ballots properly in the upcoming General Election, avoiding the option of abstaining from voting or casting an invalid vote.
-
-Speaking at a press briefing held yesterday (09), Deshapriya emphasized the importance of voting, stating, “The vote is our right, our power, our voice, and it shapes the future of our country. This is a reminder that we should exercise this right.”
-
-“Other than death, voting is the only privilege we receive without a difference. If you don’t vote, those who do will decide the leaders. So, avoid marking an invalid vote or abstaining from voting; come and vote”, he added.
-
-◼️
-
-[Data](articles/d3af02d1.json)
-
-[Extended Data](ext_articles/d3af02d1.ext.json)
-
----
-
-### Identity emerges from another superficial room
-
-*2024-11-10 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203101) · `si`
-
-Luxury vehicle found in airport house. Police investigation ongoing. Vehicle assembly unclear. Customs and government agencies involved. Owner unknown.
-
-🟩
-
-A luxury vehicle that was not established was found in a house on the airport on the airport road, Kimbulapitiya.
-
-On information received by the Negombo Division Crime Crimes Investigation Division, the vehicle was recovered from a shop room.
-
-The police have been unsure that the luxury vehicle was assembled.
-
-Accordingly, after reporting the judiciary, the vehicle was ordered to submit the reports following the customs department and the Government Analyquet.
-
-However, it is not yet reported regarding the owner of it.
-
-◼️
-
-[Data](articles/f9c970e2.json)
-
-[Extended Data](ext_articles/f9c970e2.ext.json)
-
----
-
-### Person arrested at BIA with Kush cannabis worth over Rs. 40 mln
-
-*2024-11-10 13:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103302/person-arrested-at-bia-with-kush-cannabis-worth-over-rs-40-mln) · `en`
-
-The officers attached to the Narcotic Control unit at the Bandaranayake International Airport (BIA) in Katunayake have arrested a passenger at the Green Channel who had arrived from Thailand with a stock of narcotic substances identified as Kush cannabis concealed in the checked luggage and his backpack.
-
-The passenger had attempted to pass the Customs area with assistance of a wheel chair, Sri Lanka Customs said.
-
-The suspect was a Sri Lankan passport holder and had arrived in Sri Lanka from Thailand onboard flight FD 140 operated by Air Asia Airline at around 10.25 p.m. last night (09).
-
-The 58-year-old has been identified as a resident of Maradana, Colombo.
-
-The weight of the arrested narcotic substance is around 5kg and with a street value of Rs. 40 million, according to Sri Lanka Customs.
-
-Sri Lanka Customs Narcotic Control Unit has requested the assistant of the Police Narcotic Bureau (PNB) and further investigations are underway.
-
-◼️
-
-[Data](articles/2bb397b5.json)
-
-[Extended Data](ext_articles/2bb397b5.ext.json)
-
----
-
-### Immediate discreet motorcyclist to save survival from wildalia
-
-*2024-11-10 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203100) · `si`
-
-Motorcyclist saves life near Mahiyanganaya. CCTV footage shows motorcyclist parking bike near shop. Helmet saved after incident. Wildlife alert triggered.
-
-🟩
-
-In the Mahiyanganaya area, a motorcycle is recorded to CCTV camera near the next way to a motorcycle.
-
-The incident occurred at the Mapakadadabarawewa, 20th Post.
-
-The motorcyclist parked a motorcycle near a shop near a trading near the pathway.
-
-The motorcyclist had saved her helmet after the motorcyclist fruiting the motorcyclist.
-
-The motorcycle has been able to save the wildlife's attention to it.
-
-This was noted by the CCTV camera in the shop near the incident.
-
-◼️
-
-[Data](articles/4a9e4a19.json)
-
-[Extended Data](ext_articles/4a9e4a19.ext.json)
-
----
-
-### Shooting a double murder in Ambalangoda
-
-*2024-11-10 13:18:15* · [`adalk`](https://www.ada.lk/breaking_news/අම්බලන්ගොඩදී-වෙඩි-තබා-ද්විත්ව-ඝාතනයක්-සිදු-කරයි/11-412948) · `si`
-
-Double murder reported on Galle Road, Ambalangoda. Couple killed while riding motorcycle. Husbands deceased, residents near Madampe Deboduwa Temple. Incident occurred during journey from Ambalangoda to Madama.
-
-🟩
-
-A couple of shooting at the Galle Road, Ambalangoda Police say that a couple has died.
-
-The husbands who died in the shooting were residents in Madampe Deboduwa Temple, Ambalangoda
-
-The victims who died in a motorcycle from Ambalangoda to MadamoA have fled from Ambalangoda to MadamoA.
-
-◼️
-
-[Data](articles/9c5b0558.json)
-
-[Extended Data](ext_articles/9c5b0558.ext.json)
-
----
-
-### Several Sri Lankan aircraft face technologies simultaneously
-
-*2024-11-10 13:11:23* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-යානා-කිහිපයක්ම-එකවර-කාර්මික-දෝෂවලට-ලක්වෙයි/11-412947) · `si`
-
-SriLankan Airlines cancels flights due to technical issues. Multiple aircraft grounded simultaneously. Passengers rebooked on alternative flights. Corporate Communications Division affected.
-
-🟩
-
-SriLankanaka Communications Division headed by SriLankanaka Communications Division, SriLankanaka Communications Division, has been canceled as the SriLankan Airlines' Corporate Communications Division has been canceled due to the flight of Australia from the Bandaranaike International Airport.
-
-The SriLankan Airlines was due to leave the Katunayake airport at the Katunayake airport at the Katunayake airport at 12.30 am.
-
-However, the airline had been canceled, as the 330-type flight was suddenly a technical error and the aircraft had been canceled on the aircraft, other alternative aircraft.
-
-The other passengers will be taken to the Sri Lankan plane, Australia from the Sri Lankan plane, Australia, Australia.
-
-But the SriLankan Airlines UL to leave for Sydney in Australia on April 11/10 am.
-
-The Sri Lankan Airlines Corporate Communications Division states that several aircrafts have been canceled at the same time.
-
-◼️
-
-[Data](articles/348babf3.json)
-
-[Extended Data](ext_articles/348babf3.ext.json)
-
----
-
-### Monk arrested as another illegally assembled luxury vehicle seized
-
-*2024-11-10 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103301/monk-arrested-as-another-illegally-assembled-luxury-vehicle-seized-) · `en`
-
-Police have apprehended a Buddhist monk in connection with a luxury vehicle found in the Mahiyanganaya area that reportedly had no valid registration or legal documentation. Officers suspect that the vehicle’s license plate is also fraudulent, raising further concerns about the vehicle’s legitimacy.
-
-Preliminary investigations have revealed that the “Trooper” Jeep in question had been transferred to the monk through an informal document, without any official or verifiable paperwork. Authorities state that no formal ownership records exist for the vehicle, adding to suspicions about its origins and use.
-
-However, police have also uncovered that the luxury vehicle in question bore the same license plate as another vehicle found in the Kurunegala area.
-
-Police sources further disclosed that the monk, who is employed as a teacher at a school in Theldeniya, had been in possession of the vehicle for some time.
-
-...
-
-[Data](articles/3da30cb2.json)
-
-[Extended Data](ext_articles/3da30cb2.ext.json)
-
----
-
-### Justice should be given to those attacked by police in Chunnakam - Geetanath Kasilingam
-
-*2024-11-10 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198321) · `ta`
-
-Geetanath Kasilingam appeals for justice after family attacked by police in Chunnakam. Demands thorough investigation and legal action against perpetrators. Accuses government of shielding officials responsible.
-
-🟩
-
-Jaffna District Principal Candidate Geetanath Kasilingam has appealed to the PA.
-
-யாழ்ப்பாணம் சுன்னாகம் பகுதியில் சுன்னாகம் பொலிஸாரால் இளம் தாயொருவரும், அவரது பச்சிளம் குழந்தையும் கணவனும் நேற்றிரவு தாக்கப்பட்டதாக குறிப்பிடப்படும் சம்பவம் தொடர்பில் நான் கவலையடைவதுடன், இந்த சம்பவம் தொடர்பில் முழுமையான விசாரணை நடத்தப்பட்டு தாக்குதல் நடத்தியோர் மீது உரிய சட்ட நடவடிக்கை எடுப்பதுடன், பாதிக்கப்பட்ட தரப்புக்கு நீதி கிடைக்க சம்பந்தப்பட்ட அதிகாரிகளிடம் வேண்டி நிற்கின்றேன்.
-
-Many people can see the ruling government in connection with the incident. The government does not use the government for mistakes made by a few officials. Such incidents have taken place during our PA. At the same time, they imposed the allegations against the authorities.
-
-We do not know that the criminals should be punished in yesterday's attack. Our demand is to conduct a proper investigation into this and establish justice.
-
-◼️
-
-[Data](articles/c4be0eae.json)
-
-[Extended Data](ext_articles/c4be0eae.ext.json)
 
 ---

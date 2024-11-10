@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 09:24:35**
+As of **2024-11-10 09:38:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,411
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,937 (100.0%) of 53,948 articles have been extended.
+53,938 (100.0%) of 53,948 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -471,6 +471,8 @@ In Myanmar and Thailand, the “forest dweller” (vanavasa) tradition prevails,
 ...
 
 [Data](articles/6ab635f0.json)
+
+[Extended Data](ext_articles/6ab635f0.ext.json)
 
 ---
 

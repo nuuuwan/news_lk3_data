@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 03:24:32**
+As of **2024-11-11 03:40:26**
 
 ## Newspaper Stats
 
-*Scraped **54,091** Articles*
+*Scraped **54,092** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,697
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,552
+tamilmirrorlk | 7,553
 virakesarilk | 8,775
 adaderanasinhalalk | 9,435
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,089 (100.0%) of 54,091 articles have been extended.
+54,091 (100.0%) of 54,092 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,32 @@ The Presidential Election 2024 has shown a dramatic shift in the voting behaviou
 [Data](articles/2759300f.json)
 
 [Extended Data](ext_articles/2759300f.ext.json)
+
+---
+
+### Our struggle is only after 114
+
+*2024-11-11 01:49:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-க்குப்-பின்னரே-எமது-போராட்டம்/175-346911) · `ta`
+
+Former President Ranil Wickremesinghe announced his struggle will begin after Nov 14. He criticized hiding economic issues behind political mudslinging and demanded parliamentary representation. Wickremesinghe called for responsibility regarding rejecting the IMF agreement before the election. He emphasized the need for transparency from the IMF on the government's policies and plans. The former president also stressed the importance of accountability rather than blaming others.
+
+🟩
+
+Former President Ranil Wickremesinghe, speaking on Saturday (09) in all constituencies through digital technology, said his struggle would begin after November 14.
+
+Ranil Wickremesinghe said he would not try to hide the real economic problems he raised by political mudslides and demand that the country be appointed to the parliament if the country wants the future.
+
+The country must be responsible for the directional compass which rejected the IMF agreement before the presidential election.However, the International Monetary Fund is now compass to consulting the economy.
+
+Moreover, the President of the International Monetary Fund should explain to the country about the government's policy, the government's vision and work plan.
+
+Former President Ranil Wickremesinghe added that instead of reporting on this, it is the duty of the president to blame and slander others.
+
+◼️
+
+[Data](articles/eee1a59d.json)
+
+[Extended Data](ext_articles/eee1a59d.ext.json)
 
 ---
 
@@ -219,6 +245,8 @@ Millions of tourists apply for visas every year to explore Sri Lanka. But in 202
 ...
 
 [Data](articles/ecc4fd5c.json)
+
+[Extended Data](ext_articles/ecc4fd5c.ext.json)
 
 ---
 
@@ -2369,25 +2397,5 @@ The Sri Lankan team has won the first Twenty20 match between the two countries y
 [Data](articles/08bea754.json)
 
 [Extended Data](ext_articles/08bea754.ext.json)
-
----
-
-### Man and woman killed in shooting at Ambalangoda
-
-*2024-11-10 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103300/man-and-woman-killed-in-shooting-at-ambalangoda) · `en`
-
-Two individuals including a female have been reported dead following a shooting incident that took place in the Urawatte area of Ambalangoda, police said.
-
-Police revealed that two unidentified individuals who arrived on a motorcycle, had opened fire at the man and the woman who were also travelling on a motorcycle.
-
-The deceased man and the woman, both aged 46, have been identified as a married couple who were residing in the Kuleegoda area of Ambalangoda, police said.
-
-Police suspect that the shooting was carried out using a T-56 assault rifle while no suspects have been arrested as of yet.
-
-◼️
-
-[Data](articles/2958acd7.json)
-
-[Extended Data](ext_articles/2958acd7.ext.json)
 
 ---

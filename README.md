@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 17:24:28**
+As of **2024-11-10 17:41:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,425
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,014 (100.0%) of 54,033 articles have been extended.
+54,018 (100.0%) of 54,033 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The General Election is scheduled to be held on November 14.
 ◼️
 
 [Data](articles/ba7ad06f.json)
+
+[Extended Data](ext_articles/ba7ad06f.ext.json)
 
 ---
 
@@ -92,19 +94,25 @@ Ahead of the 35th “Il Maha Viru Samaruwa”, the commemoration of fallen JVP h
 
 ---
 
-### වත්මන් ආණ්ඩුව වට්ටන්නවා කියන අයට ජනපතිගෙන් අභියෝගයක්
+### President is a challenge to the present government
 
 *2024-11-10 16:20:18* · [`adalk`](https://www.ada.lk/breaking_news/වත්මන්-ආණ්ඩුව-වට්ටන්නවා-කියන-අයට-ජනපතිගෙන්-අභියෝගයක්/11-412950) · `si`
 
-වත්මන් ආණ්ඩුව වට්ටන බවට ප්‍රකාශ කරන පුද්ගලයන් හැකි නම් මහ මැතිවරණයේදී ජනාධිපතිවරනයට වඩා එක් ඡන්දයක් ​හෝ ගෙන පෙන්වන ලෙස ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+President Anura Kumara Dissanayake criticizes current government at Vavuniya rally. He warns of future challenges and political upheaval, comparing current situation to past struggles.
 
-වව්නියාවේ අද (10දා) පැවති ජන රැළියක් අමතමින් හෙතෙම මේ බව සඳහන් කළේය.
+🟩
 
-“අද වේදනාවෙන් කෑමොර දෙනවා සති තුනෙන් වට්ටනවාලු, මාස තුනෙන් වට්ටනවාලු, අවුරුද්දකින් වට්ටනවාලු. එහෙම කියනවා. මතක තබා ගන්න ​මේ ආණ්ඩුව මේ රට හදලා මිසක් ආපසු හැරෙන්නේ නෑ. ඔය දේශපාලන ව්‍යාපාර සියල්ල දියවෙන්න පටන් ගන්නවා. මම ඔය වට්ටන්න කතා කරන මහත්වරුන්ට කියනවා ජනාධිපති ඡන්දයේදී ගත්තට වඩා එක ඡන්දයක් අරන් පෙන්වන්න. මොන වැට්ටිලිද?ඒ අය වැටෙනවා ජනාධිපති ඡන්දෙටත් වැඩිය මහ ඡන්දයේදී බිමට.”
+President Anura Kumara Dissanayake said that if people who proclaim the present government to the present government, said President Anura Kumara Dissanayake said.
+
+He was speaking at a rally held in Vavuniya this morning (10).
+
+"Today's pain is a three-week Vatnaalu, a year in a year, Vatnaalnawalau. Says that. Remember this government does not return this country, but not back. All that political business will start to melt. I tell you the gentlemen who talk to you in the presidential election. What detest? They fall into the presidential election, the biggest election. "
 
 ◼️
 
 [Data](articles/f27e01df.json)
+
+[Extended Data](ext_articles/f27e01df.ext.json)
 
 ---
 
@@ -266,39 +274,57 @@ The third time I got the votes I got more. However there was an opportunity that
 
 ---
 
-### ඉන්දීයාවේ නාවික හමුදාවට අයත් සබ්මැරීනයක් ලංකාවට
+### Sri Lanka Navy submarine to Sri Lanka
 
 *2024-11-10 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203104) · `si`
 
-ඉන්දීය නාවික හමුදාවට අයත් සබ්මැරීනයක් නිල සංචාරයක් සඳහා කොළඹ වරායට පැමිණ තිබේ.
+Indian Navy submarine arrives in Colombo for official visit. Sri Lanka Navy hosts event honoring tradition. Submarine crew of 53 personnel. Scheduled programs enhance goodwill support. Indian sailors to visit key locations during stay.
 
-අද (10) පෙරවරුවේ කොළඹ වරායට ළඟා වූ ‘INS Vela’ සබ්මැරීනය ශ්‍රී ලංකා නාවික හමුදාව විසින් නාවික හමුදා සම්ප්‍රදායානුකූලව පිළිගත් බව නාවික හමුදාව පවසයි.
+🟩
 
-දිගින් මීටර් 67.5කින් යුත් සබ්මැරීනයේ කාර්යමණ්ඩලය 53 දෛනකුගෙන් සමන්විත වේ.
+The Indian Navy submarine has arrived at the Port of Colombo for an official visit.
 
-‘INS Vela’ සබ්මැරීනය ලබන 13 වනදා දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+The Sri Lanka Navy recognized the Sri Lanka Navy's tradition by the Sri Lanka Navy.
 
-එම කාලය තුළ එහි කාර්යමණ්ඩලය, දෙරටේ නාවික හමුදාවන්ගේ සුහදත්වය වර්ධනය කිරීම වෙනුවෙන් සංවිධානය කරනු ලබන වැඩසටහන් කිහිපයකට සහභාගී වීමට නියමිතව ඇත.
+The 67.5m submarine staff composed of 53 daily.
 
-එමෙන්ම ඉන්දීය නාවිකයින් පිරිස මෙරට වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමට ද සැලසුම් කර ඇති බව නාවික හමුදාව වැඩිදුරටත් සඳහන් කළේය.
+The 'Ins VEla' submarine is due to leave the island on the 13th.
+
+During that period, the staff is scheduled to attend several programs organized to enhance the support of the goodwill of the Navy.
+
+The navy added that Indian sailors also plan to visit several areas to visit important places.
 
 ◼️
 
 [Data](articles/5d025a40.json)
 
+[Extended Data](ext_articles/5d025a40.ext.json)
+
 ---
 
-### நாட்டுக்காக ஜனாதிபதியுடன் இணக்கமாக செயற்படத்தயார் - எரான் விக்கிரமரத்ன செவ்வி
+### Eran Wickremaratne Sevy
 
 *2024-11-10 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198339) · `ta`
 
-நாடு பொருளாதார நெருக்கடியில் இருந்து மீளவில்லை என்பதை மக்கள் நினைவில் வைத்துக் கொள்ள வேண்டும். அரசியலில்  உணர்ச்சிபூர்வமான தீர்மானம் எடுத்தால் 2020 ஆம் ஆண்டு சூழலே தோற்றம் பெறும். நாட்டின் எதிர்காலத்தை கருத்திற் கொண்டு சிறந்த தீர்மானத்தை மக்கள் எடுக்க வேண்டும். பொருளாதார நெருக்கடிக்கு தீர்வு காண ஜனாதிபதியுடன்  நாட்டுக்காக இணக்கமாக செயற்பட தயார் என ஐக்கிய மக்கள் சக்தியின் கொழும்பு மாவட்ட வேட்பாளரான எரான் விக்கிரமரத்ன தெரிவித்தார்.
+Here's a summary of the key points in approximately 200 characters:
 
-சிறந்த முகாமைத்துவ திட்டமிடலுடன் செயற்பட்டால் பொருளாதார நெருக்கடிக்கு ஐந்து ஆண்டுக்குள் தீர்வு காணலாம். ஜனாதிபதியின் தவறான தீர்மானத்துடன் செயற்பட்டால் 15 ஆண்டுகாலத்துக்கு பின்னரும் பொருளாதார நெருக்கடிக்கு தீர்வு காண்பது சாத்தியமற்றது. 2020 ஆம் ஆண்டு பொதுஜன பெரமுன அரசாங்கத்தில் பலர் புதியவர்கள்.
+
+
+Former President Gotabhaya Rajapakse blamed for economic crisis. New ministers criticized for handling economy. President Anura Kumara Dissanayake accused of poor decision-making. Economic crisis resolution within 5 years possible with proper management. Parliament's role questioned, experienced politicians urged. Cooperation between president and opposition suggested to address economic issues.
+
+🟩
+
+People should remember that the country has not recovered from the economic crisis. If you make emotional decisions in politics, the context of 2020 will appear. To make the best resolution of people to consider the future of the country. United People's Power Colombo District Candidate Eran Wickramaratne said he was ready to act in harmony with the president to solve the economic crisis.
+
+If you act with the best management planning, the solution to the economic crisis can be resolved within five years. It is impossible to resolve the economic crisis even after 15 years if the president is acting with the wrong decision. Many are new in the PA in 2020.
+
+What happened to the country?If the Parliament is not obliged to the executive power, those with political experience should be elected to Parliament. He also said that if the newcomers were elected, the Parliament would submit to the Executive Department.. The full form of the interview comes up,
 
 ...
 
 [Data](articles/95b3ff11.json)
+
+[Extended Data](ext_articles/95b3ff11.ext.json)
 
 ---
 

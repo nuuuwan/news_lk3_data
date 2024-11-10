@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 06:46:06**
+As of **2024-11-10 07:28:44**
 
 ## Newspaper Stats
 
-*Scraped **53,931** Articles*
+*Scraped **53,932** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,429
-tamilmirrorlk | 7,528
+tamilmirrorlk | 7,529
 virakesarilk | 8,726
 adaderanasinhalalk | 9,407
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,921 (100.0%) of 53,931 articles have been extended.
+53,922 (100.0%) of 53,932 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -100,6 +100,8 @@ When my son was 11 years old and in middle school, he chose to write about his g
 
 [Data](articles/e0ccffab.json)
 
+[Extended Data](ext_articles/e0ccffab.ext.json)
+
 ---
 
 ### When Sir John Kotelawala visited St. Joseph’s College
@@ -171,6 +173,20 @@ Much has been written on the life and work of Prof. Keerthi Nissanka Seneviratne
 ...
 
 [Data](articles/c00934fb.json)
+
+---
+
+### இன்று இடியுடன் கூடிய மழை
+
+*2024-11-10 01:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-346839) · `ta`
+
+வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் இன்று இடைக்கிடையே மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+அத்துடன் மத்திய, ஊவா மற்றும் தென் மாகாணங்களின் சில பகுதிகளில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/b7a98275.json)
 
 ---
 
@@ -2285,25 +2301,5 @@ The CID is conducting further investigations into the arrested suspects.
 [Data](articles/69e96347.json)
 
 [Extended Data](ext_articles/69e96347.ext.json)
-
----
-
-### Warning issued for heavy rain in several provinces
-
-*2024-11-09 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103267/warning-issued-for-heavy-rain-in-several-provinces) · `en`
-
-The Department of Meteorology has issued a ‘Red’ warning for heavy rain in the North western, Central, Uva, and Sabaragamuwa provinces.
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island during the evening or night, it said.
-
-Heavy showers above 150 mm are likely at some places in North western, Central, Uva, Sabaragamuwa, North central and Eastern provinces.
-
-◼️
-
-[Data](articles/850371b2.json)
-
-[Extended Data](ext_articles/850371b2.ext.json)
 
 ---

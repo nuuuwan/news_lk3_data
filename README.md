@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 02:09:52**
+As of **2024-11-11 02:24:39**
 
 ## Newspaper Stats
 
-*Scraped **54,081** Articles*
+*Scraped **54,088** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 421
+dbsjeyarajcom | 422
 bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,690
+dailyftlk | 3,695
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,550
+tamilmirrorlk | 7,551
 virakesarilk | 8,775
 adaderanasinhalalk | 9,435
 
@@ -26,23 +26,119 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,080 (100.0%) of 54,081 articles have been extended.
+54,081 (100.0%) of 54,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### ’உடன் நடவடிக்கை எடுக்கவும்’
+### Rise of new faces: Paradigm shift in east Muslim voter behaviour
 
-*2024-11-11 01:37:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-நடவடிக்கை-எடுக்கவும்/175-346908) · `ta`
+*2024-11-11 01:50:14* · [`dailyftlk`](https://www.ft.lk/columns/Rise-of-new-faces-Paradigm-shift-in-east-Muslim-voter-behaviour/4-769060) · `en`
 
-யாழ்ப்பாணம் சுன்னாகம் பொலிஸாரால் இளந்தாயொருவரும், அவரது பச்சிளம் குழந்தையும் கணவனும், சனிக்கிழமை (09) இரவு தாக்கப்பட்டதாக குறிப்பிடப்படும் சம்பவம் தொடர்பில்  கவலை அடைந்துள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளர் கீதநாத் காசிலிங்கம் இந்த சம்பவம் தொடர்பில் முழுமையான விசாரணை நடத்தப்பட்டு தாக்குதல் நடத்தியோர் மீது உரிய சட்ட நடவடிக்கை எடுப்பதுடன், பாதிக்கப்பட்ட தரப்பிற்கு நீதி கிடைக்க சம்பந்தப்பட்ட அதிகாரிகளிடம் நடவடிக்கை எடுக்க வேண்டும் என்று வலியுறுத்தியுள்ளார்.
+Eastern Muslim voters are increasingly moving away from racial and ethno-centric politics
 
-இந்த சம்பவம் தொடர்பில் பலரும் ஆளும் அரசாங்கத்தை கண்டிப்பதை காண முடிகிறது. ஒரு சில அதிகாரிகள் விடும் தவறுகளுக்கு அரசாங்கத்தை குறை கூறி பயனில்லை. இப்படியான சம்பவம் எமது பொதுஜன பெரமுன அரசாங்க காலத்திலும் இடம்பெற்றிருக்கின்றன. அதன்போது பிழை விடும் அதிகாரிகள் மீது சுமத்த வேண்டிய குற்றச்சாட்டுக்களை அரசாங்கத்தின் மீது சுமத்தினார்கள்.
+The Presidential Election 2024 has shown a dramatic shift in the voting behaviour of Muslim voters in the Eastern Province. A long struggle for an alternative political force of the Muslims has finally gained significant behavioural change in areas traditionally led by established political figures. These results reflect a departure from conventional voting patterns, emphasising a strong desire for a change among Muslim voters in Eastern Province, who are increasingly drawn to progressive and inclusive approaches.
 
 ...
 
+[Data](articles/2759300f.json)
+
+---
+
+### Urgent need to regulate media coverage of crimes against children
+
+*2024-11-11 01:44:09* · [`dailyftlk`](https://www.ft.lk/opinion/Urgent-need-to-regulate-media-coverage-of-crimes-against-children/14-769059) · `en`
+
+The constant re-victimisation that occurs through such media exposure only serves to deepen their psychological scars
+
+We have all heard the tragic stories of child victims—whether through news reports, social media, or articles—stories that bring public attention to the horrific realities of child exploitation and violence in our island. However, what we don’t realise is the lasting harm caused by media coverage. By exposing sensitive details, it creates a multitude of complications, both legally and personally, for the victims themselves.
+
+...
+
+[Data](articles/a17dc403.json)
+
+---
+
+### ’சிலிண்டர்களை அனுப்பாவிடின் முட்டைகளின் விலை கூடும்’
+
+*2024-11-11 01:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்களை-அனுப்பாவிடின்-முட்டைகளின்-விலை-கூடும்/175-346909) · `ta`
+
+எதிர்வரும் 14ம் திகதி பாராளுமன்ற தேர்தலில் நுவரெலியா மாவட்டத்தில் ஜக்கிய தேசிய கட்சியின் சார்பாக யானை சின்னத்திலும் சிலிண்டர் சின்னத்திலும் போட்டியிடும் வேட்பாளர்களை பாராளுமன்றத்திற்கு அனுப்பவிட்டால் முட்டையின் விலை ஆயிரம் ரூபாவாக அதிகரிக்குமென ஜக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்ரமசிங்க தெரிவித்தார்
+
+பாராளுமன்ற தேர்தலில் ஜக்கிய தேசிய கட்சியின் சார்பில் போட்டியிடும் வேட்பாளர்களுக்கு ஆதரவு தெரிவிக்கும் வகையில் கொட்டக்கலை சி.எல்.எப்பில் ஞாயிற்றுக்கிழமை (10)  இடம் தேர்தல் பிரச்சார கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+இந்த நாட்டு மக்கள், ஜனாதிபதித் தேர்தலில், அனுரகுமார திசாநாயக்கவை  தெரிவு செய்தனர் ஜனாதிபதியாக பதவியேற்றவுடன் பாராளுமன்றத்தை கலைத்தார். எதற்காக பாராளுமன்றத்தை கலைத்தார். அவருடைய வேலைத்திட்டம் என்னவென்று கூற வேண்டும். என்னிடம் 16 குடைகள் இருந்தன. அதனை கூட எனது பாதுகாவலர்கள் தான் பிடிக்கின்றனர்.
+
+பாராளுமன்றத்தை சுத்தசெய்வதற்கு வாக்களிக்குமாறு கூறுகின்றனர். தேசிய மக்கள் சக்தியில் வேட்பாளர்களின் பெயர்கள் கூட தெரியாது.
+
+...
+
+[Data](articles/66539d15.json)
+
+---
+
+### Take action with the model
+
+*2024-11-11 01:37:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-நடவடிக்கை-எடுக்கவும்/175-346908) · `ta`
+
+Geetanath Kasilingam calls for thorough investigation into reported attack on Sri Lanka PA candidate and her husband. Demands legal action against perpetrators and criticizes government handling of similar incidents.
+
+🟩
+
+Sri Lanka PA candidate Geetanath Kasilingam, who is worried about the incident that has been reported to have been attacked by a young man and her husband and husband on Saturday night (09) night (09), should take a full investigation into the incident and take appropriate legal action against the victims and take appropriate legal action against the victims.He insisted.
+
+Many people can see the ruling government in connection with the incident. The government does not use the government for mistakes made by a few officials. Such incidents have taken place during our PA. At the same time, the government was charged with the allegations that the authorities were charged.
+
+We do not know that the perpetrators of the Chunnakam attack should be punished. "It is our demand for a proper investigation into the matter and establish justice," Geetanath Kasilingam said.
+
+◼️
+
 [Data](articles/9cbe9866.json)
+
+[Extended Data](ext_articles/9cbe9866.ext.json)
+
+---
+
+### AKD: Abandoning neoliberalism and embracing Kautilyan statism?
+
+*2024-11-11 01:35:01* · [`dailyftlk`](https://www.ft.lk/columns/AKD-Abandoning-neoliberalism-and-embracing-Kautilyan-statism/4-769057) · `en`
+
+But his critics charge that he is without experience in statesmanship. Being a first timer in presidency, his critics are technically correct because he does not have a track-record. But experience does not matter to a person who can quickly grasp an issue, has a ready ear to listen, and change himself suitably to an emerging diverse situation. He has shown this adaptability by accepting IMF’s EFF as the most pragmatic way forward for Sri Lanka without dragging the country to a destabilising shock as predicted by his critics. AKD has the capacity to convert information to knowledge strengthened by experience, a requirement of knowledge as presented by Albert Einstein
+
+...
+
+[Data](articles/c1862234.json)
+
+---
+
+### Representation of minority groups in Parliament is in danger
+
+*2024-11-11 01:26:18* · [`dailyftlk`](https://www.ft.lk/columns/Representation-of-minority-groups-in-Parliament-is-in-danger/4-769056) · `en`
+
+Representation of minority groups in Sri Lanka’s Parliament appears to be in danger of weakening in the upcoming elections, which could affect their rights
+
+The main national parties in Sri Lanka have had a history of nominating representatives from minority communities who have gone on to take leadership positions. This is changing now with minority politicians in these parties often feeling isolated and finding fewer opportunities to raise minority rights issues
+
+Sri Lanka concluded its Presidential election on 21 September and elected a new president Anura Kumara Dissanayake from the NPP, which resulted in the dissolution of the Parliament before its maturity period. The Election Commission announced a Parliamentary election for 14 November 2024 with deadlines for nominations of candidates set for 11 October, 2024.
+
+...
+
+[Data](articles/583bd0cb.json)
+
+---
+
+### How COPF exposed Sri Lanka’s visa scam
+
+*2024-11-11 01:20:35* · [`dailyftlk`](https://www.ft.lk/opinion/How-COPF-exposed-Sri-Lanka-s-visa-scam/14-769055) · `en`
+
+The fight for justice is far from over. The Supreme Court has scheduled the next inquiry for January 2025, and COPF continues to push for full transparency and accountability. Their work has set a precedent, showing that even the most powerful deals can be undone when public funds and integrity are at stake. This case is not just about visas – it’s about upholding the rule of law and ensuring that public officials serve the people, not themselves. COPF’s relentless efforts have shown the power of accountability and how one committee’s determination can make all the difference
+
+Millions of tourists apply for visas every year to explore Sri Lanka. But in 2023, something went very wrong with Sri Lanka’s visa system, leaving many tourists and citizens questioning how such a simple process could turn into a national controversy.
+
+...
+
+[Data](articles/ecc4fd5c.json)
 
 ---
 
@@ -2279,153 +2375,5 @@ The embassy has urged the reports that the application of Sri Lanka's applicatio
 [Data](articles/6f0eaba1.json)
 
 [Extended Data](ext_articles/6f0eaba1.ext.json)
-
----
-
-### Pity and vote for us
-
-*2024-11-10 12:32:40* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-අනුකම්පා-කර-පොහොට්ටුව-ඡන්දය-දෙන්න/11-412945) · `si`
-
-Namal Rajapaksa urges voters to support SLPP, citing challenges faced by the party. He emphasizes the need for unity and participation in elections to shape the country's future.
-
-🟩
-
-Namal Rajapaksa, the national list of the National list candidate on the Sri Lanka Civil Appointment, calls for the party to pity for us and vote.
-
-He was requested at a functioning conference held at Panadura recently in Panadura recently.
-
-Speaking further Mr. Herath said,. The Civil Front is a difficult stage as a party. But in the next decade, it makes the country decisive factor. In a difficult time. When the party left the party, the following were disappointed. By not doing what he expected, voted for other opposition parties. At the presidential election, our members did not go to the polling stations. So no votes expected of this presidential election. And our members did not go to the polling station. In the election, we have pity and go to the polling station and vote for pointer.
-
-...
-
-[Data](articles/7576c108.json)
-
-[Extended Data](ext_articles/7576c108.ext.json)
-
----
-
-### Request of the former Chairman of the Electoral Commission voters
-
-*2024-11-10 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203098) · `si`
-
-Former Chairman Mahinda Deshapriya urges voters to cast ballots in upcoming elections, emphasizing voting as a fundamental right and crucial for shaping the nation's future. He cautions against abstaining from voting, likening it to self-imposed crucifixion.
-
-🟩
-
-Former Chairman Mahinda Deshapriya requests voters to reach the polls to vote in the coming elections without votes or to avoid crucifixion.
-
-"Voting is our right, voting, our voice, our votes, our vote is the future of the country. So we have to come and vote. It is the reminder that we do. Only when we have the death of the death we have the same thing without divides.. When votes, the voters want to control the vote. So come to the vote without crucifying and not to be voted. "
-
-◼️
-
-[Data](articles/687098b0.json)
-
-[Extended Data](ext_articles/687098b0.ext.json)
-
----
-
-### Rs. 280000 Treasury Bills and Bonds auction
-
-*2024-11-10 12:23:52* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--280000ක-භාණ්ඩාගාර-බිල්පත්-හා-බැඳුම්කර-වෙන්දේසියක්/11-412944) · `si`
-
-Central Bank Sri Lanka auctions Treasury Bonds Rs. 130 billion, Treasury Bills Rs. 62.5 billion. Short-term debt instruments issued under Treasury Bill Act 1923. Long-term loans also available.
-
-🟩
-
-The Central Bank of Sri Lanka (SLTB) has taken measures to hold a auction of Treasury Bonds worth Rs. 13 thousand million and Rs.
-
-Treasury Bonds of Rs.
-
-Treasury bills of Rs. 62,500 million worth of Rs. 6,000 million worth RsThe Central Bank announced.
-
-(Treasury bill is a short-term debt instrument issued by the Government of Sri Lanka under the local Treasury Bill Act No. 8 of 1923 under the local Treasury Bill Act No. 8 of 1923). A RevisedIs a medieval and long-term loan tool issued by.)
-
-◼️
-
-[Data](articles/e207a0c3.json)
-
-[Extended Data](ext_articles/e207a0c3.ext.json)
-
----
-
-### Saudi Arabian desert turned into winter wonderland for first time in history
-
-*2024-11-10 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103298/saudi-arabian-desert-turned-into-winter-wonderland-for-first-time-in-history) · `en`
-
-Rolling dunes, typically golden and sunbaked, lie transformed by snow and balls of ice – this is what a desert in Saudi Arabia looks like right now.
-
-It is the first time in history that the region of Al-Jawf, which lies at the northern edge of the Al-Nafūd desert, has experienced a snowfall.
-
-Footage shows the arid desert turned into an unexpected winter landscape, with the flakes still settling.
-
-A caravan of camels are seen treading cautiously on the layer of ice that covers the sand.
-
-People are shown getting out of their cars to capture the unprecedented weather.
-
-Temperatures in the Al-Nafūd desert could reach as high as 55°C  in places, so the sudden drop comes is a phenomenon.
-
-State media reported that heavy rainfall and hailstorms swept through parts of the Al-Jawf region on Monday.
-
-The United Arab Emirates National Centre of Meteorology attributed the unusual weather event to a low-pressure system moving from the Arabian Sea to Oman.
-
-...
-
-[Data](articles/db4b0873.json)
-
-[Extended Data](ext_articles/db4b0873.ext.json)
-
----
-
-### Chunnakam police Attakasam
-
-*2024-11-10 12:16:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சுன்னாகம்-பொலிஸார்-அட்டகாசம்/71-346871) · `ta`
-
-Chunnakam police assault case: Victim claims brutal beating, baby thrown away. Incident occurred during traffic stop after motorcycle crash. Police arrested husband, allegedly assaulted wife and infant. Lawyers intervened, supporting victims. Case to be brought to court.
-
-🟩
-
-The victim has accused the Chunnakam police of brutally assaulting the young mother and her husband, who threw away the baby and threw the baby.
-
-While the family was traveling in their vehicle in the Chunnakam area in Jaffna, their vehicle had been hit by a motorbike and crashed in front of the vehicle.
-
-While we were traveling in the vehicle, two people on a motorbike went out and crashed. Since they were in alcohol, we too had stopped the vehicle.
-
-Those who came in civil clothes had asked my husband's driver's permit and vehicle documents. You don't need to show it to you in civil clothes. He said that the traffic unit should be summoned to the site of the accident.
-
-Those who came in civil clothes were attacked by my husband.. They attacked me to prevent it and grabbed my two -month -old baby.
-
-Later, the police took the vehicle to the police station and arrested my husband.
-
-At the same time, lawyer Manivannan and Parthiban, who went to the scene, stood in favor of the affected parties.
-
-...
-
-[Data](articles/47142e00.json)
-
-[Extended Data](ext_articles/47142e00.ext.json)
-
----
-
-### Two arrested for shooting
-
-*2024-11-10 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198313) · `ta`
-
-Two suspects arrested for shooting incident in Wennappuwa. Police seized 12mm rifle. Victims aged 43 and 65 from Marawila and Wennappuwa areas. Suspects ages 25 and 37 from Wennapaluwa and Lunuwila.
-
-🟩
-
-Two suspects have been arrested by the police on Saturday (09) in connection with the shooting incident near a house in Kimbulkal area of ​​the Wennappuwa police division.
-
-On the 7th of this month, a 43 -year -old man from Marawila area and a 65 -year -old woman from Wennappuwa area were targeted.
-
-Subsequently, a 12 -man -made rifle gun has been seized by the police, suspected of being used for firing from the arrested persons.
-
-கைது செய்யப்பட்ட சந்தேக நபர்கள் 25 மற்றும் 37 வயதுடைய வென்னப்புவ, லுனுவில ஆகிய பிரதேசங்களைச் சேர்ந்தவர்கள் ஆவர்.
-
-◼️
-
-[Data](articles/5f63b176.json)
-
-[Extended Data](ext_articles/5f63b176.ext.json)
 
 ---

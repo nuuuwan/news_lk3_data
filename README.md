@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 22:40:25**
+As of **2024-11-10 22:57:48**
 
 ## Newspaper Stats
 
@@ -26,25 +26,33 @@ adaderanasinhalalk | 9,433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,062 (100.0%) of 54,063 articles have been extended.
+54,063 (100.0%) of 54,063 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### දේශපාලන සිරකරුවන් ගැන ජනපතිගෙන් ප්‍රකාශයක්
+### President pays a statement about political prisoners
 
 *2024-11-10 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203113) · `si`
 
-දෙමළ දේශපාලන සිරකරුවන් නිදහස් කිරීම සඳහා පියවර ගැනීමට තමන් සූදානම් බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+President Anura Kumara Dissanayake promises to release Tamil political prisoners, emphasizing unity and reconciliation. He highlights the National Folk Force's efforts to unite Sinhalese, Tamils, and Muslims. The President vows to address past injustices and work towards healing the nation's divisions.
 
-ජාතික ජන බලවේගය වව්නියාවේ අද (10) සංවිධාන කර තිබූ ජන රැලියක් අමතමින් ජනාධිපතිවරයා වැඩිදුරටත් කියා සිටියේ, රජය පවරාගෙන ඇති උතුරේ දෙමළ ජනතාවගේ ඉඩම් යළි පවරාදීම පිළිබඳවද සැලකිල්ලට භාජනය කර ඇති බවය.
+🟩
 
-"අපේ රට හැම අතින්ම බෙදිලා තියෙන රටක්. හැබැයි අපේ රටට ඉස්සරහට යන්න බැහැ මෙහෙම බෙදිලා. අපේ ප්‍රධාන අපේක්ෂාව මේ සියලු බෙදීම් අවසන් කරන්න ඕන. එකතු කරන්න නම් මොකක්ද වෙන්න ඕනේ. සිංහල, දෙමළ, මුස්ලිම් ජනතාව සහ නායකයින් ඉන්න එක ව්‍යාපාරයක් හදන්න ඕනේ. අන්න ඒ ව්‍යාපාරය තමයි ජාතික ජන බලවේගය."
+President Anura Kumara Dissanayake says he is ready to take action to release Tamil political prisoners.
+
+The President added that the National Folk Force has addressed a rally organized by the government today (10).
+
+"Our country is a country that is divided. But we cannot go before our country and it is divided this way. Our main prospect should end all these divisions. To add, you have to be. There should be a movement to have Sinhala, Tamil, Muslims and leaders. That is the national folk force. "
+
+"There was a lack of operation in Tamil language. So they chose the old parties. But what happened to the September.The NPP won the NPP and made confidence in the people. I think that victory was the most excited of the people in the North. They started waking up. How many parties have told the other parties that after the day, the government is going to the government of the compass after. We have to miss the bus, late. "
 
 ...
 
 [Data](articles/55b97bd6.json)
+
+[Extended Data](ext_articles/55b97bd6.ext.json)
 
 ---
 

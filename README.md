@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 01:59:14**
+As of **2024-11-11 02:09:52**
 
 ## Newspaper Stats
 
-*Scraped **54,080** Articles*
+*Scraped **54,081** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,690
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,549
+tamilmirrorlk | 7,550
 virakesarilk | 8,775
 adaderanasinhalalk | 9,435
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,080 (100.0%) of 54,080 articles have been extended.
+54,080 (100.0%) of 54,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### ’உடன் நடவடிக்கை எடுக்கவும்’
+
+*2024-11-11 01:37:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-நடவடிக்கை-எடுக்கவும்/175-346908) · `ta`
+
+யாழ்ப்பாணம் சுன்னாகம் பொலிஸாரால் இளந்தாயொருவரும், அவரது பச்சிளம் குழந்தையும் கணவனும், சனிக்கிழமை (09) இரவு தாக்கப்பட்டதாக குறிப்பிடப்படும் சம்பவம் தொடர்பில்  கவலை அடைந்துள்ள ஸ்ரீலங்கா பொதுஜன பெரமுனவின் வேட்பாளர் கீதநாத் காசிலிங்கம் இந்த சம்பவம் தொடர்பில் முழுமையான விசாரணை நடத்தப்பட்டு தாக்குதல் நடத்தியோர் மீது உரிய சட்ட நடவடிக்கை எடுப்பதுடன், பாதிக்கப்பட்ட தரப்பிற்கு நீதி கிடைக்க சம்பந்தப்பட்ட அதிகாரிகளிடம் நடவடிக்கை எடுக்க வேண்டும் என்று வலியுறுத்தியுள்ளார்.
+
+இந்த சம்பவம் தொடர்பில் பலரும் ஆளும் அரசாங்கத்தை கண்டிப்பதை காண முடிகிறது. ஒரு சில அதிகாரிகள் விடும் தவறுகளுக்கு அரசாங்கத்தை குறை கூறி பயனில்லை. இப்படியான சம்பவம் எமது பொதுஜன பெரமுன அரசாங்க காலத்திலும் இடம்பெற்றிருக்கின்றன. அதன்போது பிழை விடும் அதிகாரிகள் மீது சுமத்த வேண்டிய குற்றச்சாட்டுக்களை அரசாங்கத்தின் மீது சுமத்தினார்கள்.
+
+...
+
+[Data](articles/9cbe9866.json)
+
+---
 
 ### “Without reforms SL will be dead in the water” – Dr. Harsha de Silva
 
@@ -2413,25 +2427,5 @@ Subsequently, a 12 -man -made rifle gun has been seized by the police, suspected
 [Data](articles/5f63b176.json)
 
 [Extended Data](ext_articles/5f63b176.ext.json)
-
----
-
-### General Election campaigning ends tomorrow
-
-*2024-11-10 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103297/general-election-campaigning-ends-tomorrow) · `en`
-
-The election campaigning activities for the 2024 General Election are scheduled to end at midnight tomorrow (Nov. 11).
-
-The Chairman of the Election Commission, R.M.A.L. Ratnayake, stated that all election campaign offices established at the electorate level must be removed by November 12.
-
-“Currently, candidates have set up campaign offices. All offices at the constituency level must be removed by midnight on the 12th. After that, only one office per constituency can be maintained by the parties and groups,” he explained.
-
-Additionally, a candidate’s house can be used as a party office, however, no decorations or advertising are permitted in any of these offices, as per the election commission.
-
-◼️
-
-[Data](articles/9172b5ed.json)
-
-[Extended Data](ext_articles/9172b5ed.ext.json)
 
 ---

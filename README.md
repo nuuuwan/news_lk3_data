@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 07:28:44**
+As of **2024-11-10 08:03:43**
 
 ## Newspaper Stats
 
-*Scraped **53,932** Articles*
+*Scraped **53,933** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,035
 adaderanalk | 6,429
-tamilmirrorlk | 7,529
+tamilmirrorlk | 7,530
 virakesarilk | 8,726
 adaderanasinhalalk | 9,407
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,922 (100.0%) of 53,932 articles have been extended.
+53,923 (100.0%) of 53,933 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -114,6 +114,8 @@ Seventy-four years ago, Fr. Peter A. Pillai OMI, a distinguished educationist an
 
 [Data](articles/bb5bf2d3.json)
 
+[Extended Data](ext_articles/bb5bf2d3.ext.json)
+
 ---
 
 ### MONKS IN CONFRONTATIONAL POLITICS
@@ -173,6 +175,22 @@ Much has been written on the life and work of Prof. Keerthi Nissanka Seneviratne
 ...
 
 [Data](articles/c00934fb.json)
+
+---
+
+### மண்வெட்டியால் தாக்கி பெண் கொலை
+
+*2024-11-10 01:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்வெட்டியால்-தாக்கி-பெண்-கொலை/175-346840) · `ta`
+
+சம்பவத்தில் ஈச்சங்குளம் பகுதியை சேர்ந்த வெற்றிமலர் (வயது 57) என்ற பெண்ணே உயிரிழந்துள்ளார்.
+
+வவுனியா, ஈச்சங்குளம், அம்மிவைத்தான் பகுதியில் உள்ள தனது வீட்டில் நேற்று குறித்த பெண் தனிமையில் இருந்துள்ளார். இதன்போது அங்கு அத்துமீறி வந்த இளைஞர் ஒருவர் அந்தப் பெண் மீது மண்வெட்டியைக் கொண்டு தாக்குதல் நடத்தியுள்ளார்.
+
+இதனால் படுகாயமடைந்த பெண் அம்புலன்ஸ் மூலம் வவுனியா வைத்தியசாலையில் சேர்க்கப்பட்டார். எனினும், அவர் வைத்தியசாலைக்குக்  கொண்டு வருவதற்கு முன்னரே உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/2ed80f44.json)
 
 ---
 
@@ -2283,23 +2301,5 @@ The group was reportedly arrested while staying in a house in the Narahenpita ar
 [Data](articles/0e4a52be.json)
 
 [Extended Data](ext_articles/0e4a52be.ext.json)
-
----
-
-### 58 arrested in Colombo by CID over online scams
-
-*2024-11-09 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103268/58-arrested-in-colombo-by-cid-over-online-scams-) · `en`
-
-A group of 58 Sri Lankans suspected to be involved in online financial fraud have been arrested by the Criminal Investigations Department (CID) at Havelock Road in Colombo.
-
-The group was reportedly arrested while staying in a luxury housing complex at Havelock Road.
-
-The CID is conducting further investigations into the arrested suspects.
-
-◼️
-
-[Data](articles/69e96347.json)
-
-[Extended Data](ext_articles/69e96347.ext.json)
 
 ---

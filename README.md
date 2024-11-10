@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 21:09:46**
+As of **2024-11-10 21:24:43**
 
 ## Newspaper Stats
 
-*Scraped **54,049** Articles*
+*Scraped **54,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,93 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,049
+adalk | 5,051
 adaderanalk | 6,449
-tamilmirrorlk | 7,546
-virakesarilk | 8,764
-adaderanasinhalalk | 9,430
+tamilmirrorlk | 7,547
+virakesarilk | 8,765
+adaderanasinhalalk | 9,431
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,049 (100.0%) of 54,049 articles have been extended.
+54,052 (100.0%) of 54,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### ශ්‍රී ලංකාවට පහසු ඉලක්කයක්
+
+*2024-11-10 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203111) · `si`
+
+දඹුල්ලේ පැවැත්වෙන් ශ්‍රී ලංකා - නවසීලන්ත දෙවැනි විස්සයි20 තරගයේ පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 19.3කදී ලකුණු 108කට දවාගැනීමට ශ්‍රී ලංකා පන්දු යවන්නෝ සමත් වූහ.
+
+ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමට ජයග්‍රහණය සඳහා ලකුණු 109ක පහසු ඉලක්කයක්  හිමිවිය.
+
+ශ්‍රී ලංකාව වෙනුවෙන් විශිෂ්ට පන්දු යැවීමක නිතර වූ වනිඳු හසරංග කඩුලු 4ක් දවාගැනීමට සමත් විය. ඒ වෙනුවෙන් ඔහු සිය පන්දුවාර 4 තුළදී ලබාදුන්නේ ලකුණු 17ක් පමණි.
+
+ඔහුට අමතරව මතීෂ පතිරණ ලකුණු 11කට කඩුලු 3ක්ද, නුවන් තුෂාර ලකුණු 22කට කඩුලු 2ක්ද දවාගත්තේය.
+
+නවසීලන්තය වෙනුවෙන් විල් යන්ග් ලකුණු 30ක් හා ජොෂ් කැලැක්සන් ලකුණු 24ක් රැස් කළේය.
+
+◼️
+
+[Data](articles/ff85ffe8.json)
+
+---
+
+### Employees must be given holidays to employees to go to vote - Elections Commission
+
+*2024-11-10 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198373) · `ta`
+
+Elections Commission announces holiday system for voting. Campaign offices must be removed by midnight. Public servants and private sector employers encouraged to provide adequate time off for citizens to cast ballots.
+
+🟩
+
+Election campaign office in the electorate must be removed at midnight tomorrow. We have advised the police to remove the law according to the law if the offices are not removed. Elections Commission Chairman RMAL Ratnayake said that all should cooperate in the peaceful election.
+
+Servants of the Public and Public Sector to provide adequate time for voting. We have announced a holiday system according to the Elections Act. He also urged the employers to give their employees a holiday for their employees to vote.
+
+தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு தெரிவித்தார்.
+
+பொதுத்தேர்தல் வாக்களிப்புக்கான சகல பணிகளும் பூர்த்தியடைந்துள்ளன. Campaigning ends at midnight today as it has been given enough time for election campaigns. Candidates and their supporters will not be able to engage in election campaigns until the day of the general election on Thursday.
+
+...
+
+[Data](articles/a1cb5fad.json)
+
+[Extended Data](ext_articles/a1cb5fad.ext.json)
+
+---
+
+### Defense Secretary Surveillance
+
+*2024-11-10 20:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-பகுதியில்-பாதுகாப்புச்-செயலாளர்-கண்காணிப்பு/175-346903) · `ta`
+
+Defense Secretary visits Ambalangoda, meets security officials, discusses security measures and tourist safety.
+
+🟩
+
+தாக்குதல் நடத்த திட்டமிடப்பட்டதாக கூறப்படும் அம்பாறை அறுகம்பே பிரதேசத்தில்,  பாதுகாப்புச் செயலாளர் ஓய்வுபெற்ற எயார் வைஸ் மார்ஷல் சம்பத் துய்யகொந்தா இன்று  கண்காணிப்பு விஜயத்தில் ஈடுபட்டார்.
+
+He went to the area and asked about the security situation and held talks with security officials in the area.
+
+Senior local military and police officers explained to the defense secretary about the existing security program.
+
+The Secretary of Defense gave the necessary instructions to the concerned authorities on the steps to be taken to maintain the security of the area and to ensure the safety of tourist attractions in other parts of the island.
+
+He stressed that action should be taken so that the freedom of the tourists should not be disrupted and that they should be confident in Sri Lanka's security.
+
+இந்த நிகழ்வில் ஆயுதப்படை, விசேட அதிரடிப்படை மற்றும் பொலிஸ் திணைக்களத்தின் சிரேஷ்ட அதிகாரிகள் மற்றும் பாதுகாப்பு அமைச்சின் அதிகாரிகள் குழுவும் கலந்துகொண்டனர். R
+
+◼️
+
+[Data](articles/fe52f5f0.json)
+
+[Extended Data](ext_articles/fe52f5f0.ext.json)
+
+---
 
 ### Date to end in general election
 
@@ -220,6 +292,24 @@ Muslim MPs cannot claim the gold sabbath for losing their feet because they have
 
 ---
 
+### ඉන්දීය සබ්මැරීනයක් කොළඹ වරායට
+
+*2024-11-10 17:35:44* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරීනයක්-කොළඹ-වරායට/10-412957) · `si`
+
+ඉන්දීය නාවික හමුදාවට අයත් ‘INS Vela’ සබ්මැරීනය නිල සංචාරයක් සඳහා අද (10දා) උදෑසන කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම සබ්මැරීනය නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට පැමිණි ‘INS Vela’ සබ්මැරීනය, දිගින් මීටර් 67.5 ක් හා නැව් මුළුව 53 ක ගෙන් සමන්විත වන අතර, එහි අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් කපිල් කුමාර් (Kapil Kumar) කටයුතු කරනු ලබයි.
+
+‘INS Vela’ සබ්මැරීනය දිවයිනේ රැඳී සිටින කාලසීමාව තුල, දෙරටේ නාවික හමුදාවන්ගේ සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් ශ්‍රී ලංකා නාවික හමුදාව විසින් සංවිධානය කරනු ලබන විවිධ වැඩසටහන් සඳහා එම සබ්මැරීනයේ නැව් මුළුව සහභාගී වීමට නියමිතව ඇති අතර, එහි මෙහෙයුම් ක්‍රියාකරීත්වය පිළිබඳව පැවැත්වෙන දැනුවත් කිරීමේ වැඩසටහනක් සඳහා ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් සහභාගී වීමට ද නියමිතව ඇත. එමෙන්ම, සබ්මැරීනයේ නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+
+තවද, මෙම නිල සංචාරය නිමා කරමින් 2024 නොවැම්බර් මස 13 වන දින ‘INS Vela’ සබ්මැරීනය දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/04c7b570.json)
+
+---
+
 ### Tamil cinema reties
 
 *2024-11-10 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203107) · `si`
@@ -241,6 +331,32 @@ Delhi Ganesh has launched its performance across the stage drama and contributed
 [Data](articles/66c26e61.json)
 
 [Extended Data](ext_articles/66c26e61.ext.json)
+
+---
+
+### If the wheat flour drops a dangerous situation in the country
+
+*2024-11-10 17:26:52* · [`adalk`](https://www.ada.lk/breaking_news/තිරිඟු-පිටි-බද්ද-අඩු-කළොත්-රට-තුළ-භයානක-තත්ත්වයක්/11-412956) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rice manufacturers warn of danger if wheat flour prices drop. They propose reducing flour taxes to lower bakery product costs. Government urged to protect farmers and intervene in health issues. Large-scale mill owners accused of monopolizing rice market. Association calls for Consumer Authority to regulate prices and promote local rice production.
+
+🟩
+
+The All Ceylon Rice Manufacturers Association President Nishantha Attanayake says that if the prices have fallen in the country with rice, the All Ceylon Rice Manufacturers Association is a dangerous situation in the country.
+
+වෙළෙඳ සංගම් නියෝජිතයන් හමුවීමට පැමිණි මොහොතක ගම්පොළ නගරයේ පැවති මාධ්‍ය හමුවකදී ඒ මහතා සඳහන් කර සිටියේ සහල් පරිභෝජනය පහත වැටී ඇති මොහොතක මෙවැනි තත්ත්වයක් මතු වුවහොත් පාන් පිටි පරිභෝජනය ඉහළ යාමෙන් සමස්ත ජාතියම රෝගීන් බවට පත්වන බවයි.ඒ මහතා එහිදී මෙසේ ද පැවසීය.
+
+"They have proposed to the government that flour taxes should be reduced in order to download the prices of bakery products. Accordingly, we have come back to the government to follow the steps.. If so, the President must decide to protect the wheat flour farmer in the United States to protect the paddy farmer in Sri Lanka.
+
+...
+
+[Data](articles/2838d53e.json)
+
+[Extended Data](ext_articles/2838d53e.ext.json)
 
 ---
 
@@ -2263,115 +2379,5 @@ The two are to be released on police bail and the two persons and the cigarettes
 [Data](articles/86cc2284.json)
 
 [Extended Data](ext_articles/86cc2284.ext.json)
-
----
-
-### Sri Lanka central bank buys US$189mn from banks in October
-
-*2024-11-10 09:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-buys-us189mn-from-banks-in-october-186731/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank has bought 189.5 million US dollars from forex markets in October 2024, higher than the 96 million US dollars a month ago, official data showed.
-
-From around late 2022 the central bank has run broadly deflationary policy, triggering balance of payments surpluses amid negative or weak private credit and net repayments of state energy enterprise credit.
-
-When a reserve collecting central bank runs deflationary policy and mop up liquidity from dollar purchases, (generating a BOP surplus) it can either appreciate, depreciate or hold the exchange rate.
-
-The central bank also allowed the exchange rate to appreciate amid balance of payments surplus in sharp contrast to other IMF program, where currencies are not appreciated even in deflationary policy for ‘competitive exchange rates’.
-
-...
-
-[Data](articles/8e3605e8.json)
-
-[Extended Data](ext_articles/8e3605e8.ext.json)
-
----
-
-### Chunnakam police station, including a woman who was found with a baby girl, has been attacked by the Chunnakam Police Station - Gajendrakumar rushed to the scene
-
-*2024-11-10 09:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198292) · `ta`
-
-Chunnakam police station attack: Woman, baby injured; TNA leader rushes aid. Incident sparks calls for investigation and highlights alleged police misconduct in northeast region.
-
-🟩
-
-The Tamil National Alliance (TNA) leader Gajendrakumar Ponnambalam said that after the accident in the Chunnakam, the police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the three -wheeler.
-
-The Tamil National People's Front (TNA) leader Gajendra Kumar Ponnampalam Selvarajah Gajendran Natarajar Kandiban, who rushed to the Chunnakam police station, immediately visited the police and sent them to the hospital immediately.
-
-Police have been hit by a woman in the weather, including a woman who had been hit by a baby girl in the weather, and brought them to the police station and brought him to the police station.
-
-The police officer said that he was not in the spot when the incident took place. But he has admitted to us that they have been attacked inside the police station.
-
-He says that the incident should be investigated outside the police station.
-
-...
-
-[Data](articles/c367d103.json)
-
-[Extended Data](ext_articles/c367d103.ext.json)
-
----
-
-### Two candidates in Dilith joins Douglaus
-
-*2024-11-10 09:07:45* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්ගේ-අපේක්ෂකයන්-දෙදෙනෙක්-ඩග්ලස්ට-එක්වෙයි/11-412942) · `si`
-
-Two candidates join EPDP: District Organizer T. Pushparasa and Trincomalee District candidate M.I.Cheragan. They left another party after nomination issues. Former MP Kapila Athukorala's nominees were dismissed.
-
-🟩
-
-The two candidates contesting the presidential power in the party from the parliamentary election, two candidates contesting the party and the candidate, joined the Eelam People's Democratic Party (EPDP) led by former Minister Douglas Devananda.
-
-District Organizer T. According to the instructions of Pushparasa, the party's media spokesman and the Trincomalee District candidate M.I.Cheragan joined the party.
-
-The two candidates who left the party of the universal power in the party that former MP Kapila Athukorala has nominated and submitting the nomination after the nomination subvertgives have been dismissed due to the EPD.. Added to the party.
-
-◼️
-
-[Data](articles/e9107e31.json)
-
-[Extended Data](ext_articles/e9107e31.ext.json)
-
----
-
-### Vijitha Days to Finish Rambukkana work from the Central Expressway
-
-*2024-11-10 09:02:56* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පොතුහැර-සිට-රඹුක්කන-වැඩ-අවසන්-කරන්න-ඇමති-විජිත-දින-දෙයි/11-412941) · `si`
-
-Minister Vijitha Herath inspects Central Expressway section from Puthuhera to Rambukkana. Work progress reported, future timeline set, and obstacles resolved under her guidance.
-
-🟩
-
-Work on the section of the Central Expressway has been inspected by the Ministry of Road Vijitha Herath, from Puthuhera to Rambukkana.
-
-The Minister was instructed to prevent the time of the next year.
-
-The Minister also addressed the obstacles and the obstacles have ended on his intervention.
-
-◼️
-
-[Data](articles/d10da23c.json)
-
-[Extended Data](ext_articles/d10da23c.ext.json)
-
----
-
-### President appeals to the electricity bill and fuel prices
-
-*2024-11-10 08:49:21* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-හා-ඉන්ධන-මිල-අඩු-කිරීමට-ජනපති-කාලයක්-ඉල්ලයි/11-412940) · `si`
-
-President Anura Kumara Dissanayake announced plans to lower electricity bills and fuel prices. He stated electricity bills will decrease by approximately 30% and aims for significant changes in the electricity sector. This move is part of efforts to reduce government costs.
-
-🟩
-
-President Anura Kumara Dissanayake said that the electricity bills and fuel prices will be taken to reduce the cost of the government.. He was speaking at a meeting held at Dambulla.
-
-He said that the electricity bill would be decreased by about 30 percent. He is also a major transformation in the electricity sector in a period of time.
-
-◼️
-
-[Data](articles/9d3301f0.json)
-
-[Extended Data](ext_articles/9d3301f0.ext.json)
 
 ---

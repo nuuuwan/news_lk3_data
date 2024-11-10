@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 14:40:17**
+As of **2024-11-10 14:58:51**
 
 ## Newspaper Stats
 
-*Scraped **53,999** Articles*
+*Scraped **54,001** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,043
+adalk | 5,045
 adaderanalk | 6,445
 tamilmirrorlk | 7,543
 virakesarilk | 8,736
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,421
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,999 (100.0%) of 53,999 articles have been extended.
+53,999 (100.0%) of 54,001 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -147,6 +147,24 @@ The victims who died in a motorcycle from Ambalangoda to MadamoA have fled from 
 [Data](articles/9c5b0558.json)
 
 [Extended Data](ext_articles/9c5b0558.ext.json)
+
+---
+
+### ශ්‍රී ලන්කන් යානා කිහිපයක්ම එකවර කාර්මික දෝෂවලට ලක්වෙයි
+
+*2024-11-10 13:11:23* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-යානා-කිහිපයක්ම-එකවර-කාර්මික-දෝෂවලට-ලක්වෙයි/11-412947) · `si`
+
+කටුනායක ගුවන් තොටුපොළෙන්   ඕස්ට්‍රේලියාවේ මෙල්බර්න් නුවර බලා 11/09 දින අලුයම පිටත්ව යාමට නියමිතව තිබූ ශ්‍රී ලන්කන් ගුවන් යානය තාක්ෂණික දෝශයකට ලක් වීම නිසා එම ගුවන් ගමන  අවලංගු කර ඇති බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය .
+
+මෙම ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 604 දරන ගුවන් යානය  11/09 දින අලුයම 12.30 ට කටුනායක ගුවන් තොටුපොළෙන් ඕස්ට්‍රේලියාවේ මෙල්බර්න් නුවර බලා පිටත්ව යාමට නියමිතව තිබුණි.
+
+එහෙත් එම ඒ.- 330 වර්ගයේ  ගුවන් යානය හදිසියේම තාක්ෂණික දෝෂයකට ලක් වීම නිසා , එම ගුවන් ගමන අවලංගු කර ඇති අතර , එම ගුවන් යානයෙන් හදිසියේම පිටත්ව යාමට අවශ්‍ය ගුවන් මගීන් , වෙනත් විකල්ප ගුවන් යානා මගින් පිටත් කර හැරීමට ශ්‍රී ලන්කන් ගුවන් සේවය පියවර ගෙන තිබුණි.
+
+අනෙකුත් ඉතිරි ගුවන් මගීන් පිරිස 11/10 දින අලුයම 01.45 ට පිටත්ව යාමට නියමිත ශ්‍රී ලන්කන් ගුවන් යානයෙන් ඕස්ට්‍රේලියාවේ මෙල්බර්න් නුවර බලා රැගෙන යන බව දීපාල් පෙරේරා මහතා වැඩිදුරටත් පැවසීය .
+
+...
+
+[Data](articles/348babf3.json)
 
 ---
 
@@ -321,6 +339,22 @@ The embassy has urged the reports that the application of Sri Lanka's applicatio
 [Data](articles/6f0eaba1.json)
 
 [Extended Data](ext_articles/6f0eaba1.ext.json)
+
+---
+
+### අපිට අනුකම්පා කර පොහොට්ටුව ඡන්දය දෙන්න
+
+*2024-11-10 12:32:40* · [`adalk`](https://www.ada.lk/breaking_news/අපිට-අනුකම්පා-කර-පොහොට්ටුව-ඡන්දය-දෙන්න/11-412945) · `si`
+
+"අප කෙරෙහි අනුකම්පා කර පොහොට්ටුවට ඡන්දය පාවිච්චි කරන්නැ"යි ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික ලැයිස්තු අපේක්ෂක නාමල් රාජපක්ෂ මහතා පාක්ෂිකයන් ගෙන් ඉල්ලා සිටියේය.
+
+පානදුර,  කළුදෑවල ප්‍රදේශයේ පසුගියදා (08) පස්වරුවේ  පැවතී පක්ෂ ක්‍රියාකාරී හමුවකදී ඒ මහතා එසේ ඉල්ලා සිටියේය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා මෙසේද පැවසීය. පොදුජන පෙරමුණ පක්ෂයක් ලෙස අසීරු අවධියක පසුවෙන්නේ. නමුත් ඊළග දශකයේදී එය රටේ තීරණාත්මක සාධකය බවට පත්කරනවා. අමාරු කාලයක ඉන්නේ. නායකයා පක්ෂය අතහැර යනවිට පාක්ෂිකයන් කලකිරුනා. තමන් බලාපොරොත්තු වූ දේවල් ඉටුනොවීමෙන් විපක්ෂයේ වෙනත් පක්ෂ වලට ඡන්දය දුන්නා. ජනාධිපතිවරණයේදී අපේ පාක්ෂිකයන්  ඡන්ද මධ්‍යස්ථානට ගියේ නෑ. ඒ නිසා මේ ජනාධිපතිවරණයේ බලාපොරොත්තු වූ ඡන්ද ප්‍රමාණය ලැබුනේ නෑ. ඒ වගේම අපේ පාක්ෂිකයන් ඡන්ද මධ්‍යස්ථානයට ගියේ නෑ. මැතිවරණයේදී අපට අනුකම්පා කරලා ඡන්ද මධ්‍යස්ථානයට ගිහින් පොහොට්ටුවට ඡන්දය දාන්න.
+
+...
+
+[Data](articles/7576c108.json)
 
 ---
 
@@ -2271,49 +2305,5 @@ Sri Lanka and New Zealand will be held today (09) at Dambulla today (09).
 [Data](articles/2e5d96d0.json)
 
 [Extended Data](ext_articles/2e5d96d0.ext.json)
-
----
-
-### Sri Lanka consumer good firms in aggressive price cuts as rupee appreciates: HHL
-
-*2024-11-09 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-good-firms-in-aggressive-price-cuts-amid-appreciating-rupee-hemas-186707/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hemas Holdings which has interests in personal care, stationery and pharmaceuticals said industry players were cutting prices as a strong rupee reduced costs at a time when consumers were looking for low prices.
-
-“During the quarter, the strengthening of the domestic currency and declining global commodity prices have led to aggressive pricing and promotion strategies among industry players, intensifying competition in key categories,” the group told shareholders in its September quarter financial review.
-
-“A strong focus on value-for-money (VFM) options continues, reflecting the current constraints on purchasing power.”
-
-In education sector there was strong competition. Hemas said it cut prices while maintaining quality.
-
-“Despite severe competition in the market, the company has successfully maintained its leading position by adapting to evolving consumer preferences for high quality products at competitive pricing,” the group said.
-
-...
-
-[Data](articles/36dbd034.json)
-
-[Extended Data](ext_articles/36dbd034.ext.json)
-
----
-
-### Sri Lanka consumer good firms in aggressive price cuts as rupee appreciates: HHL
-
-*2024-11-09 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-good-firms-in-aggressive-price-cuts-as-rupee-appreciates-hhl-186707/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hemas Holdings which has interests in personal care, stationery and pharmaceuticals said industry players were cutting prices as a strong rupee reduced costs at a time when consumers were looking for low prices.
-
-“During the quarter, the strengthening of the domestic currency and declining global commodity prices have led to aggressive pricing and promotion strategies among industry players, intensifying competition in key categories,” the group told shareholders in its September quarter financial review.
-
-“A strong focus on value-for-money (VFM) options continues, reflecting the current constraints on purchasing power.”
-
-In education sector there was strong competition. Hemas said it cut prices while maintaining quality.
-
-“Despite severe competition in the market, the company has successfully maintained its leading position by adapting to evolving consumer preferences for high quality products at competitive pricing,” the group said.
-
-...
-
-[Data](articles/63ec500c.json)
-
-[Extended Data](ext_articles/63ec500c.ext.json)
 
 ---

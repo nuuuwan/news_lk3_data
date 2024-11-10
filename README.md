@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 04:40:17**
+As of **2024-11-11 04:59:21**
 
 ## Newspaper Stats
 
-*Scraped **54,106** Articles*
+*Scraped **54,107** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,709
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,553
+tamilmirrorlk | 7,554
 virakesarilk | 8,777
 adaderanasinhalalk | 9,435
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,099 (100.0%) of 54,106 articles have been extended.
+54,102 (100.0%) of 54,107 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -124,6 +124,8 @@ This partnership enables HVA Foods PLC to introduce Müggenburg’s extensive ra
 
 [Data](articles/234c10cb.json)
 
+[Extended Data](ext_articles/234c10cb.ext.json)
+
 ---
 
 ### Swing into Action: New Zealand’s Tour of Sri Lanka 2024 on Dialog Television
@@ -135,6 +137,8 @@ Cricket fever is set to ignite as Dialog Television proudly presents the highly 
 ...
 
 [Data](articles/a31f3575.json)
+
+[Extended Data](ext_articles/a31f3575.ext.json)
 
 ---
 
@@ -151,6 +155,8 @@ The “Creative Entrepreneurs for Social Change” competition aimed to discover
 ...
 
 [Data](articles/e2abd477.json)
+
+[Extended Data](ext_articles/e2abd477.ext.json)
 
 ---
 
@@ -307,6 +313,26 @@ Q: Dimitra, can you tell us about your background and your role in the upcoming 
 ...
 
 [Data](articles/cdb7122c.json)
+
+---
+
+### செவ்வாய் நள்ளிரவுடன் தேர்தல் பிரசாரம் நிறைவு
+
+*2024-11-11 01:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செவ்வாய்-நள்ளிரவுடன்-தேர்தல்-பிரசாரம்-நிறைவு/175-346912) · `ta`
+
+நவம்பர் 14 ஆம் திகதியன்று நடைபெற இருக்கும் பாராளுமன்றத் தேர்தல் தொடர்பான அனைத்து பிரசார நடவடிக்கைகள் செவ்வாய்க்கிழமை (11) நள்ளிரவுடன் நிறைவடையும் என தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+இதனிடையே, தேர்தல் அலுவலகங்களை அகற்றுவதற்கு புதன்கிழமை (12)  நள்ளிரவு வரை அவகாசம் வழங்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+இந்நிலையில், பொதுத் தேர்தல் காலத்தில் சமூக வலைத்தளங்களில் மேற்கொள்ளப்படும் பொய்ப் பிரசாரங்கள் தொடர்பில் விசாரணைகளை மேற்கொள்ள விசேட குழு நியமிக்கப்பட்டுள்ளது. தேர்தல் ஆணைக்குழுவால் நியமிக்கப்பட்டுள்ள இக்குழுவில் 5 அதிகாரிகள் அங்கம் வகிக்கின்றனர்.
+
+பேஸ்புக், இன்ஸ்டாகிராம், டிக் டாக் போன்ற சமூக ஊடகங்கள் ஊடாக ஒரு கட்சி அல்லது வேட்பாளருக்கு எதிராக பதிவிடப்படும் தவறான பிரச்சாரங்கள் தொடர்பில் கண்காணிபடவுள்ளது. பொய்ப் பிரசாரங்களை சமூக வலைத்தளங்களில் இருந்து நீக்கவும் நடவடிக்கை எடுக்கப்படும் என தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+
+எவ்வாறாயினும், கடுமையான விளைவுகளை ஏற்படுத்தும் வகையிலான பதிவுகள் தொடர்பில் நடவடிக்கை எடுக்கப்படும் எனவும் ஆணைக்குழு எச்சரித்துள்ளது.
+
+...
+
+[Data](articles/18ebf11d.json)
 
 ---
 
@@ -2267,41 +2293,5 @@ The Tamil political community is scattered today as a prophecy of members of the
 [Data](articles/8587364c.json)
 
 [Extended Data](ext_articles/8587364c.ext.json)
-
----
-
-### China
-
-*2024-11-10 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198310) · `ta`
-
-Here's a 200-character summary:
-
-
-
-China expands operations in Sri Lanka after coup. Provides 100% school uniforms, builds low-income housing. Chinese contractors oversee projects. China strengthens Anuragumara Dissanayake government influence. US regime change aids China's expansion strategy in Sri Lanka.
-
-🟩
-
-Following the coup in Sri Lanka, China has begun to expand and accelerate its operations.
-
-China's involvement with the Sri Lankan government has increased since Anuragumara Dissanayake, who was described by the Western media as the President of the Marxist.
-
-In 2025, China has announced that it will provide the entire uniform cloth to schoolchildren.
-
-After the economic crisis, China offered to provide uniform clothes to Sri Lankan students.
-
-In 2023, China gave 70 percent uniform cloth. The Sri Lankan government paid the remaining 30 percent.
-
-80 percent uniform fabric was donated by China in 2024. The remaining 20 percent was resolved by the Sri Lankan government.
-
-Even when Ranil Wickremesinghe was in power- even when the Sri Lankan economic crisis was at its peak, China had not come before the 100 per cent uniform cloth to the students.
-
-China was acting in the tone that should be given and not to be fully given.
-
-...
-
-[Data](articles/18147671.json)
-
-[Extended Data](ext_articles/18147671.ext.json)
 
 ---

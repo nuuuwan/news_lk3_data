@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 21:24:43**
+As of **2024-11-10 21:40:34**
 
 ## Newspaper Stats
 
-*Scraped **54,054** Articles*
+*Scraped **54,056** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,051
-adaderanalk | 6,449
-tamilmirrorlk | 7,547
+adaderanalk | 6,450
+tamilmirrorlk | 7,548
 virakesarilk | 8,765
 adaderanasinhalalk | 9,431
 
@@ -26,29 +26,73 @@ adaderanasinhalalk | 9,431
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,052 (100.0%) of 54,054 articles have been extended.
+54,054 (100.0%) of 54,056 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### ශ්‍රී ලංකාවට පහසු ඉලක්කයක්
+### Special program in place for potential election-period disasters
+
+*2024-11-10 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103310/special-program-in-place-for-potential-election-period-disasters) · `en`
+
+The Disaster Management Center (DMC) announced that a dedicated program is in place to manage potential disaster situations during the upcoming parliamentary election period.
+
+Director of the DMC Pradeep Kodippili said a special unit will be set up specifically for this purpose, with operations set to commence on November 12.
+
+This unit will coordinate closely with the Election Commission, focusing on disaster readiness and response for a five-day period surrounding the election.
+
+The program will cover two days before the election day, election day itself, and two days afterward, according to the DMC.
+
+◼️
+
+[Data](articles/7de31146.json)
+
+---
+
+### ’அரசியல் கைதிகளை விடுவிப்போம்’
+
+*2024-11-10 21:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளை-விடுவிப்போம்/175-346904) · `ta`
+
+சட்டமா அதிபரின் ஆலோசனைக்கு அமைய அரசியல் கைதிகளை விடுவிப்பதுடன், மக்களின் காணிகளை விரைவில் விடுவிப்போம் என ஜனாதிபதி அனுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் பாராளுமன்றத் தேர்தலுக்கான பிரச்சார கூட்டம் வவுனியா நகரசபை விளையாட்டு மைதானத்தில் ஞாயிற்றுக்கிழமை (10) மாலை இடம்பெற்றது. அதில், உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க கடந்த தேர்தலில் பிரச்சாரத்திற்காக இந்த மாவட்டத்திற்கு வந்தார். வன்னி மக்கள் ஓரளவு வாக்கை அவருக்கு வழங்கியிருந்தனர். இந்த தேர்தலில் அவர் வருவாரா? அதேபோல் எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச அவரும் வந்தார். இந்த தேர்தலுக்கு அவர் இங்கு வருவாரா? வரவில்லை.ஏன்? அவர்கள் அவர்களது வெற்றிக்காக மாத்திரமே தேர்தலில் நின்றார்கள்.
+
+ஜனாதிபதித் தேர்தலில் வன்னியில் எனக்கு விழுந்த 21 ஆயிரமாகும். அந்த வாக்குகளும் எமது வெற்றிக்கு பாரிய ஒரு பங்களிப்பையும் சக்தியையும் வழங்கியிருந்தது.
+
+வடக்கு மக்களுக்கு சொந்தமான காணிகள் பாதுகாப்பு  அரசாங்கத்திடம் இருக்கிறது. இந்த காணிகள் அனைத்தையும் மீண்டும் அந்த மக்களுக்கு நாங்கள் வழங்குவோம்.
+
+...
+
+[Data](articles/5534dee2.json)
+
+---
+
+### Easy goal to Sri Lanka
 
 *2024-11-10 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203111) · `si`
 
-දඹුල්ලේ පැවැත්වෙන් ශ්‍රී ලංකා - නවසීලන්ත දෙවැනි විස්සයි20 තරගයේ පළමුව පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 19.3කදී ලකුණු 108කට දවාගැනීමට ශ්‍රී ලංකා පන්දු යවන්නෝ සමත් වූහ.
+Sri Lanka wins T20 match against New Zealand in Dambulla. SL bowlers dominated: 1 bowler 4 wickets for 17 runs, another 3 wickets for 11 runs, third 2 wickets for 22 runs. NZ top scorers: Will Young (30), Josh Cales (24). SL won by 109 runs.
 
-ඒ අනුව ශ්‍රී ලංකා කණ්ඩායමට ජයග්‍රහණය සඳහා ලකුණු 109ක පහසු ඉලක්කයක්  හිමිවිය.
+🟩
 
-ශ්‍රී ලංකාව වෙනුවෙන් විශිෂ්ට පන්දු යැවීමක නිතර වූ වනිඳු හසරංග කඩුලු 4ක් දවාගැනීමට සමත් විය. ඒ වෙනුවෙන් ඔහු සිය පන්දුවාර 4 තුළදී ලබාදුන්නේ ලකුණු 17ක් පමණි.
+New Zealand in the second T20 match of Sri Lanka - New Zealand in Dambulla and batted first in 19.3 overs were bowled.
 
-ඔහුට අමතරව මතීෂ පතිරණ ලකුණු 11කට කඩුලු 3ක්ද, නුවන් තුෂාර ලකුණු 22කට කඩුලු 2ක්ද දවාගත්තේය.
+Accordingly, Sri Lanka won a 109 runs easy to win.
 
-නවසීලන්තය වෙනුවෙන් විල් යන්ග් ලකුණු 30ක් හා ජොෂ් කැලැක්සන් ලකුණු 24ක් රැස් කළේය.
+Frequent bowling bowler for Sri Lanka was 4 wickets. He gave only 17 points in his 4 overs.
+
+In addition, Matheyathirana took 3 wickets for 11 runs and Nuwan Thushara took 2 wickets for 22 runs.
+
+Wil Young scored 30 runs and Josh Calexes scored 24 runs.
 
 ◼️
 
 [Data](articles/ff85ffe8.json)
+
+[Extended Data](ext_articles/ff85ffe8.ext.json)
 
 ---
 
@@ -292,21 +336,27 @@ Muslim MPs cannot claim the gold sabbath for losing their feet because they have
 
 ---
 
-### ඉන්දීය සබ්මැරීනයක් කොළඹ වරායට
+### Indian submarine to port Colombo
 
 *2024-11-10 17:35:44* · [`adalk`](https://www.ada.lk/picture_story/ඉන්දීය-සබ්මැරීනයක්-කොළඹ-වරායට/10-412957) · `si`
 
-ඉන්දීය නාවික හමුදාවට අයත් ‘INS Vela’ සබ්මැරීනය නිල සංචාරයක් සඳහා අද (10දා) උදෑසන කොළඹ වරායට පැමිණි අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම සබ්මැරීනය නාවික හමුදා සම්ප්‍රදායානුකුලව පිළිගැනීමට කටයුතු කෙරිණි.
+Indian submarine arrives at Colombo Port for official visit. "INS Vela" to participate in Sri Lanka Navy events and visit key sites before departing on Nov 13, 2024.
 
-මෙලෙස කොළඹ වරායට පැමිණි ‘INS Vela’ සබ්මැරීනය, දිගින් මීටර් 67.5 ක් හා නැව් මුළුව 53 ක ගෙන් සමන්විත වන අතර, එහි අණදෙන නිලධාරී ලෙස කොමාණ්ඩර් කපිල් කුමාර් (Kapil Kumar) කටයුතු කරනු ලබයි.
+🟩
 
-‘INS Vela’ සබ්මැරීනය දිවයිනේ රැඳී සිටින කාලසීමාව තුල, දෙරටේ නාවික හමුදාවන්ගේ සුහදත්වය වැඩිදියුණු කිරීම වෙනුවෙන් ශ්‍රී ලංකා නාවික හමුදාව විසින් සංවිධානය කරනු ලබන විවිධ වැඩසටහන් සඳහා එම සබ්මැරීනයේ නැව් මුළුව සහභාගී වීමට නියමිතව ඇති අතර, එහි මෙහෙයුම් ක්‍රියාකරීත්වය පිළිබඳව පැවැත්වෙන දැනුවත් කිරීමේ වැඩසටහනක් සඳහා ශ්‍රී ලංකා නාවික හමුදා පුද්ගලයන් සහභාගී වීමට ද නියමිතව ඇත. එමෙන්ම, සබ්මැරීනයේ නැව් මුළුව දිවයිනේ වැදගත් ස්ථාන නැරඹීම සඳහා ප්‍රදේශ කිහිපයක සංචාරය කිරීමටද නියමිතව ඇත.
+The Indian Navy's submarine arrived at the Port of Colombo on an official visit this morning.
 
-තවද, මෙම නිල සංචාරය නිමා කරමින් 2024 නොවැම්බර් මස 13 වන දින ‘INS Vela’ සබ්මැරීනය දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+The 'insacle submarine arrived at the Colombo Port, which is 67.5 meters and 53 meters and 53 meters and 53 cups.
+
+'Ins Vela' submarine is scheduled to participate in various programs organized by the Sri Lanka Navy to improve the support of the Sri Lanka Navy in the country.Navy people are also scheduled to attend. Also, the submarine is to visit several areas to visit important places of the country.
+
+In November 13, 2024, will leave the island on 13, 2024, ending the official visit.
 
 ◼️
 
 [Data](articles/04c7b570.json)
+
+[Extended Data](ext_articles/04c7b570.ext.json)
 
 ---
 
@@ -2327,57 +2377,5 @@ He reminded the crowd that political leaders are elected by the votes of innocen
 [Data](articles/51f7c367.json)
 
 [Extended Data](ext_articles/51f7c367.ext.json)
-
----
-
-### Acting IGP says that the law is always in effect
-
-*2024-11-10 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203092) · `si`
-
-Acting IGP Priyantha Weerasuriya emphasizes law implementation without political influence. He states the current government instructs equal application of laws. Weerasuriya attributes peaceful post-election period to effective law enforcement.
-
-🟩
-
-Acting IGP Priyantha Weerasuriya says that the law has been enabled without political pressure.
-
-He said that the present government has instructed everyone to implement the law.
-
-Acting IGP Priyantha Weerasuriya said this while participating in the establishment of a new building at Chunnakam police station.
-
-"The existing government has informed me to treat all the law and implement the law equally to all. Post election season is the unpleasant time after the election. We told it that the post-election violence. But after the last presidential election, there was no event. A new culture was born in Sri Lanka. I think the community and the advice of the government and the advice to us.. The entire police have also made the power received by the entire police to implement the law.
-
-If you can't implement the law, it's our weakness. The impairment of the law enforcement is the weakness of those heads. Therefore, we have had a good environment without any effect to implement the law. "
-
-◼️
-
-[Data](articles/ef9745d8.json)
-
-[Extended Data](ext_articles/ef9745d8.ext.json)
-
----
-
-### 117 lakhs cigarettes cannot be chased from Katunayake
-
-*2024-11-10 09:35:57* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-117ක-නිතිවිරෝධී-සිගරට්-කටුනායකින්-පන්නන්න-බැරිවෙයි/11-412943) · `si`
-
-Two Sri Lankans arrested at airport with 117 lakh cigarettes. Businessman and daughter, ages 61 and 38, detained by Police Narcotics Bureau. Cigarettes found in luggage. Case to be heard at Negombo Magistrate's Court on 11/13.
-
-🟩
-
-A business of a businessman and a daughter has been arrested by a group of Rs.
-
-The mother 61 was the mother of the two residents of Gampola. Her daughter is 38.
-
-The two were FLIA Dubai from Dubai, Fly Dubai, from Dubai, from Dubai, about 5:00 pm.
-
-The Police Narcotics Bureau has also been arrested by 391 cigarettes crocodies, which contain 78,200 smoking cigarettes in the baggage they brought.
-
-The two are to be released on police bail and the two persons and the cigarettes that they have illegally brought to the Negombo Magistrate's Court on 11/13.
-
-◼️
-
-[Data](articles/86cc2284.json)
-
-[Extended Data](ext_articles/86cc2284.ext.json)
 
 ---

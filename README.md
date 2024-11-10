@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 10:40:08**
+As of **2024-11-10 10:58:40**
 
 ## Newspaper Stats
 
-*Scraped **53,959** Articles*
+*Scraped **53,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,037
-adaderanalk | 6,436
+adaderanalk | 6,437
 tamilmirrorlk | 7,533
 virakesarilk | 8,729
 adaderanasinhalalk | 9,414
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,955 (100.0%) of 53,959 articles have been extended.
+53,960 (100.0%) of 53,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Woman murdered with garden hoe in Echchankulam
+
+*2024-11-10 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103293/woman-murdered-with-garden-hoe-in-echchankulam) · `en`
+
+A 58-year-old woman from the Ammichaithyan area in Echchankulam was reportedly killed in an attack with a garden hoe following a personal dispute last evening (09).
+
+Police have identified the suspect, who fled the area after the incident.
+
+Echchankulam Police are conducting further investigations to apprehend the individual involved in the murder.
+
+◼️
+
+[Data](articles/81e07abf.json)
+
+[Extended Data](ext_articles/81e07abf.ext.json)
+
+---
 
 ### Assembled Defender was found in a house in Pallekele
 
@@ -2335,27 +2353,5 @@ Preliminary investigations have revealed that the luxury vehicle has been suppli
 [Data](articles/cfdad325.json)
 
 [Extended Data](ext_articles/cfdad325.ext.json)
-
----
-
-### Chance for thunderstorms at night
-
-*2024-11-09 12:13:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரவு-வேளையில்-இடியுடன்-கூடிய-மழைக்கு-வாய்ப்பு/175-346821) · `ta`
-
-Thunderstorms expected tonight across much of the country. Red warning issued for some areas. Public advised to take precautions against lightning. Rain likely in many regions.
-
-🟩
-
-In most parts of the country, a red warning has been issued to some areas due to the favorable environment for thunderstorms in the afternoon.
-
-The public is asked to take adequate precautions to reduce the damage caused by lightning during thunderstorms.
-
-Rain or thunderstorms at night at most parts of the island. Remble
-
-◼️
-
-[Data](articles/af6872a7.json)
-
-[Extended Data](ext_articles/af6872a7.ext.json)
 
 ---

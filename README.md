@@ -1,36 +1,80 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 13:59:31**
+As of **2024-11-10 14:11:48**
 
 ## Newspaper Stats
 
-*Scraped **53,992** Articles*
+*Scraped **53,996** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 421
-bbccomsinhala | 548
+bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,042
-adaderanalk | 6,444
+adalk | 5,043
+adaderanalk | 6,445
 tamilmirrorlk | 7,543
 virakesarilk | 8,733
-adaderanasinhalalk | 9,420
+adaderanasinhalalk | 9,421
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,992 (100.0%) of 53,992 articles have been extended.
+53,996 (100.0%) of 53,996 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Mahinda Deshapriya urges voters to properly exercise right to vote
+
+*2024-11-10 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103303/mahinda-deshapriya-urges-voters-to-properly-exercise-right-to-vote) · `en`
+
+Former Election Commission Chairman Mahinda Deshapriya urged voters to cast their ballots properly in the upcoming General Election, avoiding the option of abstaining from voting or casting an invalid vote.
+
+Speaking at a press briefing held yesterday (09), Deshapriya emphasized the importance of voting, stating, “The vote is our right, our power, our voice, and it shapes the future of our country. This is a reminder that we should exercise this right.”
+
+“Other than death, voting is the only privilege we receive without a difference. If you don’t vote, those who do will decide the leaders. So, avoid marking an invalid vote or abstaining from voting; come and vote”, he added.
+
+◼️
+
+[Data](articles/d3af02d1.json)
+
+[Extended Data](ext_articles/d3af02d1.ext.json)
+
+---
+
+### Identity emerges from another superficial room
+
+*2024-11-10 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203101) · `si`
+
+Luxury vehicle found in airport house. Police investigation ongoing. Vehicle assembly unclear. Customs and government agencies involved. Owner unknown.
+
+🟩
+
+A luxury vehicle that was not established was found in a house on the airport on the airport road, Kimbulapitiya.
+
+On information received by the Negombo Division Crime Crimes Investigation Division, the vehicle was recovered from a shop room.
+
+The police have been unsure that the luxury vehicle was assembled.
+
+Accordingly, after reporting the judiciary, the vehicle was ordered to submit the reports following the customs department and the Government Analyquet.
+
+However, it is not yet reported regarding the owner of it.
+
+◼️
+
+[Data](articles/f9c970e2.json)
+
+[Extended Data](ext_articles/f9c970e2.ext.json)
+
+---
 
 ### Person arrested at BIA with Kush cannabis worth over Rs. 40 mln
 
@@ -148,6 +192,28 @@ When the two were riding a motorbike from Ambalangoda, the unidentified armed me
 
 ---
 
+### New Zealand - Second T20 T20 T20 match today
+
+*2024-11-10 12:58:44* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත---ශ්‍රී-ලංකා-දෙවන-විස්සයි-20-තරගය-අද/9-412946) · `si`
+
+New Zealand vs Sri Lanka: Second T20 match today at Dambulla International Cricket Stadium at 7 PM. Sri Lanka won first match yesterday.
+
+🟩
+
+The second T20 match between the New Zealand team and the Sri Lankan team will be held today (10).
+
+The match will be held at the Dambulla International Cricket Stadium today at 07 pm.
+
+The Sri Lankan team has won the first Twenty20 match between the two countries yesterday (09).
+
+◼️
+
+[Data](articles/08bea754.json)
+
+[Extended Data](ext_articles/08bea754.ext.json)
+
+---
+
 ### Man and woman killed in shooting at Ambalangoda
 
 *2024-11-10 12:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103300/man-and-woman-killed-in-shooting-at-ambalangoda) · `en`
@@ -155,6 +221,10 @@ When the two were riding a motorbike from Ambalangoda, the unidentified armed me
 Two individuals including a female have been reported dead following a shooting incident that took place in the Urawatte area of Ambalangoda, police said.
 
 Police revealed that two unidentified individuals who arrived on a motorcycle, had opened fire at the man and the woman who were also travelling on a motorcycle.
+
+The deceased man and the woman, both aged 46, have been identified as a married couple who were residing in the Kuleegoda area of Ambalangoda, police said.
+
+Police suspect that the shooting was carried out using a T-56 assault rifle while no suspects have been arrested as of yet.
 
 ◼️
 
@@ -1190,6 +1260,42 @@ Qatar said initial reports it had withdrawn from mediation talks and said that H
 
 ---
 
+### Why should women represent Parliament?
+
+*2024-11-10 07:48:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyv7104ln9o) · `si`
+
+Here's a 200-character summary:
+
+
+
+Women underrepresented in Sri Lanka's Parliament despite being majority of population. Low female MP percentages (less than 6%) since 1989. Experts argue women's voices crucial for addressing gender-specific issues, economic challenges, and social inequalities. Increased female representation needed to create more inclusive policies benefiting both genders.
+
+🟩
+
+Women are the top of Sri Lanka in the top of Sri Lanka as the population, voter percentage and literacy.
+
+However, there is no percentage of women agents exceeding 6% in Parliament regarding citizens.
+
+In this year's general election, there was no talk about women's nominations, but in some districts, some parties or independent groups are not included in the nomination list.
+
+Why do women in politics make a terrible blasphemy?
+
+At a time of the general election, BBC was looking for as a percentage of women should be in Parliament.
+
+In 1931, with Sri Lanka to be elected elections, women have the right to vote.
+
+Accordingly, the first legislature of the Sangege elections, the first legislature of the Ruwanwella elected to the Ruwanwella electorate, is elected to its first legislature in Sri Lanka.
+
+Since then, the first elections in 1989 had been represented in the 1989 elections for the proportional representation.
+
+...
+
+[Data](articles/66b15354.json)
+
+[Extended Data](ext_articles/66b15354.ext.json)
+
+---
+
 ### Tamil political theater in the North should be cleaned -Jaffna of the National People's Power. Karunanathan Ilangumaran Chevi, the primary candidate of the election district
 
 *2024-11-10 07:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198291) · `ta`
@@ -2207,95 +2313,5 @@ The Elections Commission said that there were complaints that employees working 
 [Data](articles/a135ee10.json)
 
 [Extended Data](ext_articles/a135ee10.ext.json)
-
----
-
-### Landscey warning announcement extended
-
-*2024-11-09 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203078) · `si`
-
-National Building Research Organization extends warning for 24 hours. Second-level warning issued for areas in Badulla and Nuwara Eliya districts. First-level warning for Ratnapura district.
-
-🟩
-
-The National Building Research Organization (NBRO) has been extended for another 24 hours.
-
-Accordingly, the second-level warning statement has been issued to the Divisional Secretariat Division of the Badulla District, Badulla District, Pathadumbara, Yatinuwara and Ududumbara, Yatinuwara and Ududumbara, Yatinuwara and Ududumbara, Yatinuwara and Ududumbara in Nuwara Eliya District.
-
-Also, Haldummulla, Lununugamulla, Banugala, Banugala, Udarattota, Udaragoda, Udaragoda, Udaragoda, Udattota, Udattota, Udattota, Udattota, Udattota, UdattotaThe first level warning notification has been issued to be inquisted in the Ratnapura District.
-
-◼️
-
-[Data](articles/94648182.json)
-
-[Extended Data](ext_articles/94648182.ext.json)
-
----
-
-### Electricity bill down more than 30% - President
-
-*2024-11-09 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203077) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake promises to cut electricity bills by over 30%. He vows action within a year and a half, citing fuel price reductions as a future goal.
-
-🟩
-
-President Anura Kumara Dissanayake says steps will be taken to reduce the electricity bill over 30 percent.
-
-He was speaking at a rally of the national propagation held at Dambulla today (09).
-
-"As a year and a half, we have a major transformation in the electricity sector. This electricity bill is reduced in more than 30%. Give us a little time. Fuel prices, we need time to reduce. We'll do what work. "
-
-◼️
-
-[Data](articles/ce297980.json)
-
-[Extended Data](ext_articles/ce297980.ext.json)
-
----
-
-### Action to close Triposha?
-
-*2024-11-09 17:39:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷா-நிறுவனத்தை-மூடுவதற்கு-நடவடிக்கை/175-346829) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Finance Ministry denies shutting down Triposha. Program for children and pregnant mothers to remain operational, aiming for increased effectiveness.
-
-🟩
-
-The Finance Ministry has issued a notification that no action has been taken to shut down Triposha.
-
-The announcement is that the program for children and pregnant mothers will be more effective. Remble
-
-◼️
-
-[Data](articles/c7076105.json)
-
-[Extended Data](ext_articles/c7076105.ext.json)
-
----
-
-### Govt denies reports of shutting down ‘Thriposha’ company
-
-*2024-11-09 17:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103281/govt-denies-reports-of-shutting-down-thriposha-company) · `en`
-
-The government says that reports claiming that Sri Lanka Thriposha Limited (SLTL) is to be closed down are false.
-
-Issuing a statement in this regard, the Ministry of Finance clarified that no action has been taken to liquidate the Threeposha Company and that there are no such plans.
-
-It further stated that the program of providing Triposha to children and pregnant mothers will continue forward in a more effective manner.
-
-◼️
-
-[Data](articles/e27f79c5.json)
-
-[Extended Data](ext_articles/e27f79c5.ext.json)
 
 ---

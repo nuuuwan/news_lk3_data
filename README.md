@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 02:40:16**
+As of **2024-11-11 02:57:52**
 
 ## Newspaper Stats
 
-*Scraped **54,088** Articles*
+*Scraped **54,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 549
 colombotelegraphcom | 553
 islandlk | 3,230
 economynextcom | 3,279
-dailyftlk | 3,695
+dailyftlk | 3,697
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,551
+tamilmirrorlk | 7,552
 virakesarilk | 8,775
 adaderanasinhalalk | 9,435
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,083 (100.0%) of 54,088 articles have been extended.
+54,085 (100.0%) of 54,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### “AKD’s Govt. follows same path ‘Vel Palama’ after RW” – Susil Premajayanth
+
+*2024-11-11 02:48:34* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-Govt-follows-same-path-Vel-Palama-after-RW-Susil-Premajayanth/4-769076) · `en`
+
+Confirms Ranil Wickremesinghe Govt. planned to resolve salary anomalies in public sector by January 2025
+
+Appreciates Ranil Wickremesinghe for putting SL back on track and says he is the real leader
+
+Says NPP carefully and strategically deviated from JVP to form NPP to show their hands are clean
+
+Claims NPP has no permanent vote base and it fluctuates when it breaches its promises to people
+
+Suggests Namal Rajapaksa has to wait for 10 to 15 years and show his genuineness and anti-corruption stance to rebuild SLPP
+
+The Government is confronted with many challenges including finalising debt restructuring and strictly following the conditions laid down by the International Monetary Fund (IMF) while keeping promises that the NPP have given to people, Colombo district candidate for the New Democratic Front (NDF) Susil Premajayath said.
+
+...
+
+[Data](articles/ed8f118e.json)
+
+---
+
+### Dimitra Abeysekara: Young voice for Sri Lanka’s political future
+
+*2024-11-11 02:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/Dimitra-Abeysekara-Young-voice-for-Sri-Lanka-s-political-future/14-769075) · `en`
+
+As the youngest candidate contesting for the Colombo district on the Sri Lanka Podujana Peramuna (SLPP) ticket, Dimitra Abeysekara brings a fresh perspective to Sri Lanka’s political arena. Representing the Lanka Sama Samaja Party (LSSP) within a coalition, Abeysekara is committed to safeguarding democracy and promoting a political environment where diverse voices are heard. In a candid conversation, he shares his thoughts on the dangers of single-party rule, the role of youth in reshaping the political landscape, and the need for continuity in policy-making. Following are excerpts:
+
+Q: Dimitra, can you tell us about your background and your role in the upcoming election?
+
+...
+
+[Data](articles/d9d4a55e.json)
+
+---
 
 ### Rise of new faces: Paradigm shift in east Muslim voter behaviour
 
@@ -45,6 +81,22 @@ The Presidential Election 2024 has shown a dramatic shift in the voting behaviou
 [Data](articles/2759300f.json)
 
 [Extended Data](ext_articles/2759300f.ext.json)
+
+---
+
+### பாதுகாப்பு பணியில் இம்முறை 90,000 பேர்
+
+*2024-11-11 01:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பணியில்-இம்முறை-90-000-பேர்/175-346910) · `ta`
+
+இம்முறை பொதுத் தேர்தலின் பாதுகாப்பிற்காக 90,000 பாதுகாப்பு பணியாளர்கள் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+இக்குழுவில் 63,145 பொலிஸ் அதிகாரிகள், 3,200 விசேட அதிரடிப்படை அதிகாரிகள், தேவைக்கு ஏற்ப பொலிஸ் அதிகாரிகள் பாதுகாப்புக்காக பயன்படுத்தப்படுவர். 11,000 இராணுவத்தினர் மற்றும் நடமாடும் பாதுகாப்பு சேவை உள்ளிட்ட பாதுகாப்பு சேவைகளுக்காக 12,227 சிவில் பாதுகாப்பு உத்தியோகத்தர்கள் உள்ளடங்குவதாக நிஹால் தல்துவ தெரிவித்தார்.
+
+தேர்தலுக்குப் பிந்தைய பாதுகாப்பிற்காக நாடளாவிய ரீதியில் 3,109 நடமாடும் ரோந்து படையினரும் 269 வீதித் தடைகளும் 241 கலவர எதிர்ப்புக் குழுக்களும் ஈடுபடுத்தப்பட்ட உள்ளதாகவும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/f5ace007.json)
 
 ---
 
@@ -64,21 +116,27 @@ We have all heard the tragic stories of child victims—whether through news rep
 
 ---
 
-### ’சிலிண்டர்களை அனுப்பாவிடின் முட்டைகளின் விலை கூடும்’
+### The price of eggs may increase if she does not send cylinders
 
 *2024-11-11 01:42:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிலிண்டர்களை-அனுப்பாவிடின்-முட்டைகளின்-விலை-கூடும்/175-346909) · `ta`
 
-எதிர்வரும் 14ம் திகதி பாராளுமன்ற தேர்தலில் நுவரெலியா மாவட்டத்தில் ஜக்கிய தேசிய கட்சியின் சார்பாக யானை சின்னத்திலும் சிலிண்டர் சின்னத்திலும் போட்டியிடும் வேட்பாளர்களை பாராளுமன்றத்திற்கு அனுப்பவிட்டால் முட்டையின் விலை ஆயிரம் ரூபாவாக அதிகரிக்குமென ஜக்கிய தேசிய கட்சியின் தலைவரும் முன்னாள் ஜனாதிபதியுமான ரணில் விக்ரமசிங்க தெரிவித்தார்
+Egg prices may rise if certain candidates win seats. Former President Ranil Wickremesinghe made this statement during an election campaign. He also criticized unnamed candidates and called for cleaning up Parliament.
 
-பாராளுமன்ற தேர்தலில் ஜக்கிய தேசிய கட்சியின் சார்பில் போட்டியிடும் வேட்பாளர்களுக்கு ஆதரவு தெரிவிக்கும் வகையில் கொட்டக்கலை சி.எல்.எப்பில் ஞாயிற்றுக்கிழமை (10)  இடம் தேர்தல் பிரச்சார கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+🟩
 
-இந்த நாட்டு மக்கள், ஜனாதிபதித் தேர்தலில், அனுரகுமார திசாநாயக்கவை  தெரிவு செய்தனர் ஜனாதிபதியாக பதவியேற்றவுடன் பாராளுமன்றத்தை கலைத்தார். எதற்காக பாராளுமன்றத்தை கலைத்தார். அவருடைய வேலைத்திட்டம் என்னவென்று கூற வேண்டும். என்னிடம் 16 குடைகள் இருந்தன. அதனை கூட எனது பாதுகாவலர்கள் தான் பிடிக்கின்றனர்.
+Ranil Wickremesinghe, the leader and former president of the JP, said that if the candidates contesting the elephant symbol and the cylinder symbol will be sent to parliament on behalf of the JHU in the Nuwara Eliya district on the 14th of this month, the price of eggs will increase to a thousand rupees.
 
-பாராளுமன்றத்தை சுத்தசெய்வதற்கு வாக்களிக்குமாறு கூறுகின்றனர். தேசிய மக்கள் சக்தியில் வேட்பாளர்களின் பெயர்கள் கூட தெரியாது.
+He said this while addressing the election campaign meeting at the CLI on Sunday (10) in Kotakkalai to support the candidates contesting on behalf of the National Party in the parliamentary election.
+
+The people of this country, in the presidential election, elected Anurakumara Dissanayake after he took office as president.. Why dissolved Parliament. What is his program to say. I had 16 umbrellas. Even my guards catch it.
+
+Are told to vote to clean up parliament. The names of the candidates are not even known in the national popular power.
 
 ...
 
 [Data](articles/66539d15.json)
+
+[Extended Data](ext_articles/66539d15.ext.json)
 
 ---
 
@@ -113,6 +171,8 @@ But his critics charge that he is without experience in statesmanship. Being a f
 ...
 
 [Data](articles/c1862234.json)
+
+[Extended Data](ext_articles/c1862234.ext.json)
 
 ---
 
@@ -2313,71 +2373,5 @@ Police suspect that the shooting was carried out using a T-56 assault rifle whil
 [Data](articles/2958acd7.json)
 
 [Extended Data](ext_articles/2958acd7.ext.json)
-
----
-
-### A bus traveling on Badulla - Mahiyanganaya road
-
-*2024-11-10 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198312) · `ta`
-
-Bus crash on Badulla-Mahiyanganaya road: Driver hurt, no passengers injured. Vehicle hit house wall near Padalapitiya. Family in adjacent room unharmed.
-
-🟩
-
-A private bus traveling on the Badulla -Mahiyanganaya main road, leaving the Balakolla road in Padalapitiya area and crashed into a wall of a nearby house, police said.
-
-The driver of the bus was injured in the accident and no passengers were injured, police said.
-
-Police said that at the time of the accident, there was a small child and a couple at home and that they were in the same room.
-
-◼️
-
-[Data](articles/ac7b69ae.json)
-
-[Extended Data](ext_articles/ac7b69ae.ext.json)
-
----
-
-### Ambalangoda shouting - two killed
-
-*2024-11-10 12:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203099) · `si`
-
-Ambalangoda shooting: Two killed, including woman. Motorcycle riders shot dead in Urawewa area. Police investigating incident.
-
-🟩
-
-Two persons including a woman, including a shot dead in the Urawewa area, Ambalangoda has died.
-
-It is reported that the two had been shot dead while traveling with a motorcycle.
-
-Police said two persons who came from a motorcycle had fled the shot.
-
-◼️
-
-[Data](articles/07282efa.json)
-
-[Extended Data](ext_articles/07282efa.ext.json)
-
----
-
-### Has Sri Lanka's application rejected?
-
-*2024-11-10 12:34:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையின்-விண்ணப்பம்-நிராகரிக்கப்பட்டதா/175-346872) · `ta`
-
-Sri Lanka's BRICS membership application status: Under review. Russian Embassy clarifies no rejection reported. Application still considered by BRICS leadership.
-
-🟩
-
-The Russian Embassy in Sri Lanka, which has issued a false details in a local newspaper, has clarified the recent reports of Sri Lanka's attempt to join the BRICS.
-
-Sri Lanka's application is still under consideration and the Russian BRICS leadership has welcomed Sri Lanka's interest, the embassy said.
-
-The embassy has urged the reports that the application of Sri Lanka's application has been rejected by a consensus among the members of the Prix.
-
-◼️
-
-[Data](articles/6f0eaba1.json)
-
-[Extended Data](ext_articles/6f0eaba1.ext.json)
 
 ---

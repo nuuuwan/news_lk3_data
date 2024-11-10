@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 03:09:39**
+As of **2024-11-11 03:24:32**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,086 (100.0%) of 54,091 articles have been extended.
+54,089 (100.0%) of 54,091 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -68,6 +68,8 @@ Q: Dimitra, can you tell us about your background and your role in the upcoming 
 
 [Data](articles/d9d4a55e.json)
 
+[Extended Data](ext_articles/d9d4a55e.ext.json)
+
 ---
 
 ### Rise of new faces: Paradigm shift in east Muslim voter behaviour
@@ -86,19 +88,29 @@ The Presidential Election 2024 has shown a dramatic shift in the voting behaviou
 
 ---
 
-### பாதுகாப்பு பணியில் இம்முறை 90,000 பேர்
+### 90,000 people this time in security work
 
 *2024-11-11 01:45:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-பணியில்-இம்முறை-90-000-பேர்/175-346910) · `ta`
 
-இம்முறை பொதுத் தேர்தலின் பாதுகாப்பிற்காக 90,000 பாதுகாப்பு பணியாளர்கள் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Here's a 200-character summary:
 
-இக்குழுவில் 63,145 பொலிஸ் அதிகாரிகள், 3,200 விசேட அதிரடிப்படை அதிகாரிகள், தேவைக்கு ஏற்ப பொலிஸ் அதிகாரிகள் பாதுகாப்புக்காக பயன்படுத்தப்படுவர். 11,000 இராணுவத்தினர் மற்றும் நடமாடும் பாதுகாப்பு சேவை உள்ளிட்ட பாதுகாப்பு சேவைகளுக்காக 12,227 சிவில் பாதுகாப்பு உத்தியோகத்தர்கள் உள்ளடங்குவதாக நிஹால் தல்துவ தெரிவித்தார்.
 
-தேர்தலுக்குப் பிந்தைய பாதுகாப்பிற்காக நாடளாவிய ரீதியில் 3,109 நடமாடும் ரோந்து படையினரும் 269 வீதித் தடைகளும் 241 கலவர எதிர்ப்புக் குழுக்களும் ஈடுபடுத்தப்பட்ட உள்ளதாகவும் அவர் கூறினார்.
+
+90,000 security personnel deployed for election protection. Includes 63,145 police, 3,200 Special Task Force, 12,227 civil security officers, 11,000 soldiers. 3,109 mobile patrols, 269 roadblocks, 241 riot groups involved in post-election security efforts.
+
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that 90,000 security personnel have been deployed for the protection of the general election this time.
+
+The committee will be used for the safety of 63,145 police officers, 3,200 Special Task Force Officers and Police Officers in demand.. Nihal Talduwa said that 12,227 civil security officers are included in security services including 11,000 soldiers and mobile security services.
+
+He said that 3,109 mobile, patrols, 269 roadblocks and 241 riot groups were involved in the country for post -election security.
 
 ◼️
 
 [Data](articles/f5ace007.json)
+
+[Extended Data](ext_articles/f5ace007.ext.json)
 
 ---
 
@@ -191,6 +203,8 @@ Sri Lanka concluded its Presidential election on 21 September and elected a new 
 ...
 
 [Data](articles/583bd0cb.json)
+
+[Extended Data](ext_articles/583bd0cb.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 15:09:48**
+As of **2024-11-10 15:24:25**
 
 ## Newspaper Stats
 
-*Scraped **54,002** Articles*
+*Scraped **54,003** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,66 @@ dailymirrorlk | 4,733
 adalk | 5,045
 adaderanalk | 6,445
 tamilmirrorlk | 7,543
-virakesarilk | 8,736
+virakesarilk | 8,737
 adaderanasinhalalk | 9,422
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,001 (100.0%) of 54,002 articles have been extended.
+54,002 (100.0%) of 54,003 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### වසර 22කින් නොලැබුණු තරගාවලි ජයක් පාකිස්තානයට
+### சமூகத்துக்குள் ஊடுருவும் சீனா
+
+*2024-11-10 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198310) · `ta`
+
+இலங்கையில் ஏற்பட்டுள்ள, ஆட்சி மாற்றத்தை அடுத்து, சீனா தனது செயற்பாடுகளை விரிவுபடுத்தவும், விரைவுபடுத்தவும் ஆரம்பித்திருக்கிறது.
+
+மார்க்சிஸ்ட் ஜனாதிபதி என மேற்குலக ஊடகங்களால் வர்ணிக்கப்பட்ட அநுரகுமார திசாநாயக்க, பதவிக்கு வந்த பின்னர், இலங்கை அரசாங்கத்துடன் சீனாவின் ஈடுபாடு அதிகரித்திருக்கிறது.
+
+2025 ஆம் ஆண்டு பாடசாலை மாணவர்களுக்குத் தேவையான சீருடைத் துணி முழுவதையும் சீனாவே கொடையாக வழங்குவதாக அறிவித்திருக்கிறது.
+
+பொருளாதார நெருக்கடி ஏற்பட்ட பின்னர், இலங்கை மாணவர்களுக்கு சீருடைத் துணிகளை வழங்குவதற்கு சீனா முன்வந்தது.
+
+2023ஆம் ஆண்டு, 70 சதவீதமான சீருடைத் துணியை சீனா கொடையாக வழங்கியது. எஞ்சிய 30 சதவீதத்திற்கு இலங்கை அரசாங்கம் பணத்தை செலுத்தியது.
+
+2024 ஆம் ஆண்டு 80 சதவீத சீருடை துணி சீனாவினால் கொடையாக வழங்கப்பட்டது. எஞ்சிய 20 சதவீதமும் இலங்கை அரசாங்கத்தினால் பணம் கொடுத்து தீர்க்கப்பட்டது.
+
+ரணில் விக்கிரமசிங்க ஆட்சியில் இருந்தபோது- இலங்கை பொருளாதார நெருக்கடியின் உச்சக்கட்டத்தில் இருந்தபோது கூட,  சீனா 100 சதவீத சீருடை துணியை மாணவர்களுக்கு கொடையாக வழங்குவதற்கு முன் வந்திருக்கவில்லை.
+
+...
+
+[Data](articles/18147671.json)
+
+---
+
+### Pakistan beat Pakistan win by 22 years
 
 *2024-11-10 14:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203102) · `si`
 
-ඔස්ට්‍රේලියානු කණ්ඩායම පරාජය කර පර්ත්හිදී අද (10) අවසන් වූ තෙවැනි එක්දින ක්‍රිකට් තරගයෙන් ද කඩුලු 8ක පහසු ජයක් ලැබීමට පාකිස්තාන කණ්ඩායම සමත් විය.
+Pakistan wins 3rd ODI vs Australia in Perth, ending 22-year drought. This victory completes the series sweep, marking a significant milestone in cricket history between the two nations.
 
-ඒ අනුව තරග තුනකින් යුත් මෙම තරගාවලිය තරග 2-1ක් ලෙස ජය ගැනීමට පාකිස්තානයට හැකිවිය.
+🟩
 
-මෙලෙස පාකිස්තානු කණ්ඩායමක් ඔස්ට්‍රේලියාවේදී තරගාවලි ජයක් ලැබුවේ වසර 22කට පසුව වීම විශේෂත්වයක්.
+The Pakistan won the third ODI winner from the third ODI winning today (10) in Perth today.
 
-අවසන් වරට වකාර් යුනිස්ගේ නායකත්වය යටතේ 2002 වසරේ වසරේ සිදුකළ තරග සංචාරය තරග 2-1ක් ලෙස ජයගෙන තිබුණි.
+Accordingly, Pakistan were able to win the three-match tournament.
 
-අද අවසන් වූ තරගයේ පළමුව පන්දුවට පහරදුන් ඔස්ට්‍රේලියාව ලකුණු 140කට දැවීගිය අතර, ඒ අනුව ලකුණු 141ක පහසු ඉලක්කයක් හඹාගිය පාකිස්තානය කඩුලු 2ක් පමණක් දැවී එම ඉලක්කය පසුකර යාමට සමත් විය.
+This is a 22 years after a group of Pakistani visits in Australia.
+
+The last year's tour of Vakar Unison had won 2-1.
+
+Australia was bowled out for 140 runs in the winning the match.
 
 ◼️
 
 [Data](articles/1575a179.json)
+
+[Extended Data](ext_articles/1575a179.ext.json)
 
 ---
 
@@ -173,6 +203,10 @@ The victims who died in a motorcycle from Ambalangoda to MadamoA have fled from 
 ### Several Sri Lankan aircraft face technologies simultaneously
 
 *2024-11-10 13:11:23* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-යානා-කිහිපයක්ම-එකවර-කාර්මික-දෝෂවලට-ලක්වෙයි/11-412947) · `si`
+
+SriLankan Airlines cancels flights due to technical issues. Multiple aircraft grounded simultaneously. Passengers rebooked on alternative flights. Corporate Communications Division affected.
+
+🟩
 
 SriLankanaka Communications Division headed by SriLankanaka Communications Division, SriLankanaka Communications Division, has been canceled as the SriLankan Airlines' Corporate Communications Division has been canceled due to the flight of Australia from the Bandaranaike International Airport.
 
@@ -2295,25 +2329,5 @@ The Elections Commission has also been informed by the letter to use Advanced Le
 [Data](articles/5ea62b13.json)
 
 [Extended Data](ext_articles/5ea62b13.ext.json)
-
----
-
-### Universities closed on Nov. 13 and 14
-
-*2024-11-09 18:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103282/universities-closed-on-nov-13-and-14) · `en`
-
-The University Grants Commission (UGC) says that all universities across the island will remain closed on November 13 and 14, in view of the 2024 General Election.
-
-This has been communicated to all Vice Chancellors of universities, Rectors of campuses and Directors of institutes in writing by the UGC Vice-Chairman, Senior Professor K.L. Wasantha Kumara.
-
-The letter states that in order to secure the voting rights of the university students, the commission at its meeting held on November 07 decided to inform of the declaration of November 13 and 14 as holidays for students following undergraduate/postgraduate programmes at respective universities, campuses and institutes.
-
-Meanwhile, the Election Commission had informed to take steps to give leave to staff of state universities as well as students so that they can vote in the upcoming parliamentary election.
-
-...
-
-[Data](articles/b7b3aa02.json)
-
-[Extended Data](ext_articles/b7b3aa02.ext.json)
 
 ---

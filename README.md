@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 10:12:09**
+As of **2024-11-10 10:24:46**
 
 ## Newspaper Stats
 
-*Scraped **53,955** Articles*
+*Scraped **53,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,73 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,036
-adaderanalk | 6,435
-tamilmirrorlk | 7,532
+adalk | 5,037
+adaderanalk | 6,436
+tamilmirrorlk | 7,533
 virakesarilk | 8,729
-adaderanasinhalalk | 9,413
+adaderanasinhalalk | 9,414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,945 (100.0%) of 53,955 articles have been extended.
+53,948 (100.0%) of 53,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### එකලස් කළ ඩිෆෙන්ඩර් රථයක් පල්ලේකැලේ නිවසක තිබී සොයාගනියි
+
+*2024-11-10 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203094) · `si`
+
+මහනුවර පල්ලේකැලේ ප්‍රදේශයේ නිවසක් තුළ තිබී සැක සහිත ඩිෆෙන්ඩර් රථයක් රථයක් පොලිස් භාරයට ගෙන තිබේ.
+
+රථය පරික්ෂා කිරීමේදි හෙළිව ඇත්තේ එය ලියාපදිංචි කර නොමැති බවත් චැසි අංකය හා එන්ජිම් අංකයද නොමැති බවය .
+
+ඒ අනුව අදාළ ඩිෆෙන්ඩර් රථය නීතිවිරෝධිව එකලස් කරන ලද්දක් බවට තහවුරු වී තිබේ.
+
+නීතිවිරෝධීව සකස් කරන ලද වාහනයක් සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් එම නිවෙස් හිමියා පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගෙන ඇත්තේ ජයශ්‍රී උයන පල්ලේකැලේ ප්‍රදේශයේ පදිංචි 48 හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/bf62c868.json)
+
+---
+
+### தாமரை கோபுர வளாகத்தில் துப்பாக்ச்சசூடு : ஒருவர் காயம்
+
+*2024-11-10 10:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுர-வளாகத்தில்-துப்பாக்ச்சசூடு-ஒருவர்-காயம்/175-346859) · `ta`
+
+தாமரை கோபுர வளாகத்தில் இடம்பெற்ற இசைக் கச்சேரியின் போது இனந்தெரியாத நபர் ஒருவரால், பாதுகாப்பு உத்தியோகத்தர் மீது துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக மருதானை பொலிஸார் தெரிவித்துள்ளனர்.
+
+துப்பாக்கிச் சூட்டில் காயமடைந்த 29 வயதுடைய பாதுகாப்பு உத்தியோகத்தர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/8d1fee51.json)
+
+---
+
+### Acting IGP asserts law enforcement free from political influence
+
+*2024-11-10 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103292/acting-igp-asserts-law-enforcement-free-from-political-influence) · `en`
+
+Acting Inspector General of Police (IGP) Priyantha Weerasooriya affirmed that law enforcement in Sri Lanka operates without political interference, following instructions from the current government to apply the law equally to all citizens.
+
+Speaking at the inauguration of a new building at Chunnakam Police Station in Jaffna, Weerasooriya noted,
+
+“The government has informed me to ensure equal application of the law, and I have relayed this to all officials. After the last presidential election, no incidents of post-election violence were reported. This reflects a new culture in Sri Lanka and underscores the community’s support and the authority granted to us to enforce the law without bias.”
+
+He added that any failure to enforce the law would be a shortcoming on the part of the law enforcement agency and its leadership. “We now have an environment free from external influence on legal proceedings,” Weerasooriya added.
+
+◼️
+
+[Data](articles/a2baca09.json)
+
+---
 
 ### Woman killed in a attack
 
@@ -147,6 +199,26 @@ The central bank also allowed the exchange rate to appreciate amid balance of pa
 [Data](articles/8e3605e8.json)
 
 [Extended Data](ext_articles/8e3605e8.ext.json)
+
+---
+
+### President appeals to the electricity bill and fuel prices
+
+*2024-11-10 08:49:21* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-බිල-හා-ඉන්ධන-මිල-අඩු-කිරීමට-ජනපති-කාලයක්-ඉල්ලයි/11-412940) · `si`
+
+President Anura Kumara Dissanayake announced plans to lower electricity bills and fuel prices. He stated electricity bills will decrease by approximately 30% and aims for significant changes in the electricity sector. This move is part of efforts to reduce government costs.
+
+🟩
+
+President Anura Kumara Dissanayake said that the electricity bills and fuel prices will be taken to reduce the cost of the government.. He was speaking at a meeting held at Dambulla.
+
+He said that the electricity bill would be decreased by about 30 percent. He is also a major transformation in the electricity sector in a period of time.
+
+◼️
+
+[Data](articles/9d3301f0.json)
+
+[Extended Data](ext_articles/9d3301f0.ext.json)
 
 ---
 
@@ -642,6 +714,8 @@ Chairman of the Council, Sean van Dort who headed the 42-member delegation said 
 
 [Data](articles/abdc13ef.json)
 
+[Extended Data](ext_articles/abdc13ef.ext.json)
+
 ---
 
 ### THE K.N. SENEVIRATNE ORATION 2024
@@ -655,6 +729,8 @@ Much has been written on the life and work of Prof. Keerthi Nissanka Seneviratne
 ...
 
 [Data](articles/c00934fb.json)
+
+[Extended Data](ext_articles/c00934fb.ext.json)
 
 ---
 
@@ -2243,101 +2319,5 @@ Rain or thunderstorms at night at most parts of the island. Remble
 [Data](articles/af6872a7.json)
 
 [Extended Data](ext_articles/af6872a7.ext.json)
-
----
-
-### Bomb explosion in Pakistan
-
-*2024-11-09 12:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203065) · `si`
-
-Pakistan bomb explosion: At least 24 dead, over 40 injured. Attack blamed on separatists.
-
-🟩
-
-Foreign media reports that a bomb explosion has taken place this morning at a station at the southwestern Pakistan.
-
-At least 24 people were killed and more than 40 were injured in the blast.
-
-The Pakistani defense is revealed that the attack took place by Pakistan's separatist communique.
-
-◼️
-
-[Data](articles/627295e3.json)
-
-[Extended Data](ext_articles/627295e3.ext.json)
-
----
-
-### At least 24 killed in Pakistan train station bomb blast, police say
-
-*2024-11-09 12:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103275/at-least-24-killed-in-pakistan-train-station-bomb-blast-police-say) · `en`
-
-At least 24 people were killed and more than 40 injured in a bomb blast at a railway station in Quetta in southwestern Pakistan on Saturday, police and other officials told Reuters.
-
-Pakistan is grappling with a surge in strikes by separatist ethnic militants in the south and Islamist militants in its northwest.
-
-Inspector general of police for Balochistan, Mouzzam Jah Ansari, said 24 people have died from the blast so far.
-
-“The target was army personnel from the Infantry School,” he said, with many of the injured in critical condition.
-
-“So far 44 injured people have been brought to civil hospital,” Dr. Wasim Baig, a hospital spokesman, told Reuters.
-
-Senior superintendent of police operations, Muhammad Baloch, said the blast seemed to be a suicide bomb and that investigations were underway for more information.
-
-“The blast took place inside the railway station when the Peshawar-bound express was about to leave for its destination,” Baloch said.
-
-...
-
-[Data](articles/474fdc6f.json)
-
-[Extended Data](ext_articles/474fdc6f.ext.json)
-
----
-
-### Sri Lanka banks, Thomas Cook pay Rs2.3bn to airport for foreign exchange counters
-
-*2024-11-09 12:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-thomas-cook-pay-rs2-3bn-to-airport-for-foreign-exchange-counters-186656/) · `en`
-
-ECONOMYNEXT – Five foreign exchange counters at the departure terminal at Sri Lanka’s Bandaranaike International Airport (BIA) at Katunayaka are set to bring in over 2.3 billion rupees plus taxes.
-
-Bank of Ceylon, Sampath Bank, Commercial Bank, Hatton National Bank and Thomas Cook Lanka were awarded the contracts after bids were called from the licensed commercial banks, licensed special banks, and foreign exchange businesses approved by the Central Bank of Sri Lanka, to operate 5 currency counters at the BIA departure terminal.
-
-According to a cabinet statement, the breakdown of the counter allocation is as follows:
-
-– Counter No 25 to Bank of Ceylon for an amount of Rs. 798.028 million + taxes
-
-– Counter No 02 to Sampath Bank for an amount of Rs. 633.662 million taxes
-
-– Counter No 04 to Commercial Bank for an amount of Rs. 381.364 million+ taxes
-
-– Counter No 10 to Thomas Cook Lanka (Pvt) Ltd for an amount of Rs. 299.064 million + taxes
-
-...
-
-[Data](articles/e4c30e09.json)
-
-[Extended Data](ext_articles/e4c30e09.ext.json)
-
----
-
-### Embankment collapse at DS Senanayake College in Kandy puts classes at risk
-
-*2024-11-09 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103274/embankment-collapse-at-ds-senanayake-college-in-kandy-puts-classes-at-risk) · `en`
-
-A large embankment at D.S. Senanayake College in Kandy has collapsed, causing damages to multiple classrooms.
-
-The incident had occurred following heavy rainfall last night (08).
-
-Principal Ananda Upatissa reports that 27 additional classrooms are now at high risk. All primary section classrooms and several others are at risk.
-
-He stated that further heavy rainfall tonight (09) could cause additional damage to classrooms.
-
-Authorities, including the Governor of the Central Province, have been notified of the risks, and educational activities will proceed per official instructions from next Monday, he said.
-
-◼️
-
-[Data](articles/5bfc5957.json)
-
-[Extended Data](ext_articles/5bfc5957.ext.json)
 
 ---

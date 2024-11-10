@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 12:13:35**
+As of **2024-11-10 12:25:02**
 
 ## Newspaper Stats
 
-*Scraped **53,977** Articles*
+*Scraped **53,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,038
-adaderanalk | 6,439
+adaderanalk | 6,440
 tamilmirrorlk | 7,540
 virakesarilk | 8,733
 adaderanasinhalalk | 9,417
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,417
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,977 (100.0%) of 53,977 articles have been extended.
+53,978 (100.0%) of 53,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### General Election campaigning ends tomorrow
+
+*2024-11-10 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103297/general-election-campaigning-ends-tomorrow) · `en`
+
+The election campaigning activities for the 2024 General Election are scheduled to end at midnight tomorrow (Nov. 11).
+
+The Chairman of the Election Commission, R.M.A.L. Ratnayake, stated that all election campaign offices established at the electorate level must be removed by November 12.
+
+“Currently, candidates have set up campaign offices. All offices at the constituency level must be removed by midnight on the 12th. After that, only one office per constituency can be maintained by the parties and groups,” he explained.
+
+Additionally, a candidate’s house can be used as a party office, however, no decorations or advertising are permitted in any of these offices, as per the election commission.
+
+◼️
+
+[Data](articles/9172b5ed.json)
+
+[Extended Data](ext_articles/9172b5ed.ext.json)
+
+---
 
 ### Over 4 crores in handbag
 
@@ -2313,29 +2333,5 @@ It is reported that information has been revealed so far, reports say.
 [Data](articles/b744fa9d.json)
 
 [Extended Data](ext_articles/b744fa9d.ext.json)
-
----
-
-### A technical error on a SriLankan flight
-
-*2024-11-09 14:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203068) · `si`
-
-SriLankan Airlines cancels Melbourne-bound flight due to technical issue. Passengers rebooked on alternative aircraft departing next day at midnight.
-
-🟩
-
-SriLankan Airlines Communications Communication Division says that a SriLankan Airlines set to depart to Melbourne in Melbourne, Australia.
-
-Head of Deepal Perera said that the airplane was to be canceled at the Bandaranaike International Airport in the Bandaranaike International Airport, Katunayake at 12:30 am today.
-
-Accordingly, SriLankan Airlines has taken steps to dispatch passengers through other alternative aircraft on emergency.
-
-The other passengers will be taken to Melbourn in Australia at 12.30 am tomorrow (10).
-
-◼️
-
-[Data](articles/45b483a5.json)
-
-[Extended Data](ext_articles/45b483a5.ext.json)
 
 ---

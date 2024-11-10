@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 04:59:21**
+As of **2024-11-11 05:09:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,102 (100.0%) of 54,107 articles have been extended.
+54,106 (100.0%) of 54,107 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -174,6 +174,8 @@ Ambassador Qi first paid tribute to the statue of the national hero Keppitipola 
 
 [Data](articles/bcb8ed15.json)
 
+[Extended Data](ext_articles/bcb8ed15.ext.json)
+
 ---
 
 ### High Commissioner visits Indian Housing Project sites in Uva Province, extends multi-sectoral assistance
@@ -189,6 +191,8 @@ At a special event organised at Narangala Tamil Vidyalayam, the High Commissione
 ...
 
 [Data](articles/9f60cc52.json)
+
+[Extended Data](ext_articles/9f60cc52.ext.json)
 
 ---
 
@@ -284,35 +288,53 @@ Q: Dimitra, can you tell us about your background and your role in the upcoming 
 
 ---
 
-### பொதுத் தேர்தல் தொடர்பில் இதுவரை 2580 முறைப்பாடுகள் பதிவு!
+### 2580 complaints on general election
 
 *2024-11-11 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198378) · `ta`
 
-எதிர்வரும் 14 ஆம் திகதி நடைபெறவுள்ள பொதுத் தேர்தல் தொடர்பில் இதுவரை (செப்டெம்பர் மாதம் 26 ஆம் திகதி முதல் நவம்பர் மாதம் 11 ஆம் திகதி வரை) 2,580 முறைப்பாடுகள் கிடைக்கப் பெற்றுள்ளதாகத் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
+Election Commission reports 2,580 complaints from Sept 26-Nov 11. 744 for national center, 1,781 for district centers. 20 violence complaints, 35 others received.
 
-அதன்படி, தேர்தல் சட்டங்களை மீறியமை தொடர்பில் தேசிய தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 744 முறைப்பாடுகளும், மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு 1,781 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+🟩
 
-இதேவேளை, மாவட்ட தேர்தல் முறைப்பாட்டு முகாமைத்துவ நிலையத்திற்கு வன்முறைச் சம்பவங்கள் தொடர்பில் 20 முறைப்பாடுகளும் ஏனைய விடயங்கள் தொடர்பில் 35 முறைப்பாடுகளும் கிடைக்கப்பெற்றுள்ளன.
+The Election Commission said that 2,580 complaints have been received from the 14th of September (from September 26 to November 11).
+
+Accordingly, 744 complaints have been received for the National Election Complaint Management Center and 1,781 to the District Election Complaint Management Center for violating election laws.
+
+Meanwhile, the District Election Complaint Management Center has received 20 complaints of violence and 35 complaints.
 
 ◼️
 
 [Data](articles/3c65f913.json)
 
+[Extended Data](ext_articles/3c65f913.ext.json)
+
 ---
 
-### மட்டக்களப்பில் கொலை மற்றும் ஆலையங்களில் குண்டுவைத்து மோசடி செய்தவர்களுக்கு வாக்களிக்க போகின்றீர்களா? - இரா.துரைரெத்தினம்
+### Are you going to vote for those who bombed and bombed in Batticaloa?- Irrigation
 
 *2024-11-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198379) · `ta`
 
-மட்டக்களப்பு மாவட்டத்தில் ஊழல் மோசடி செய்த பல மோசடிக்கு சொந்தகாரர்களும் படுகொலை செய்தவர்களும் பல படுகொலைக்கு காரணமாக இருந்ததுடன் ஆலயங்களுக்குள்ளே குண்டுவைத்த மோசடியாகப் பெற்ற பணத்தை மக்களுக்குச் செலவு செய்துவரும் மோசடிகாரர்களுக்கும் தமிழ் தேசியத்தை சிதைப்பதற்காக வாக்குகளை பிரிக்க களமிறக்கப்பட்ட சுயேச்சைக்குழுக்களுக்கும் வாக்களிக்கப் போகின்றீர்களா? மக்களே சிந்தியுங்கள் எனச் சங்கு சின்னத்தில் போட்டியிடும் முன்னாள் கிழக்கு மாகாணசபை உறுப்பினர் இரா.துரைரெத்தினம் தெரிவித்தார்
+Here's a 200-character summary:
 
-மட்டக்களப்பு வாவிகரை வீதியிலுள்ள ஈ.பி.ஆர்.எல்.எப் கட்சிகாரியாலயத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற ஊடகமாநாட்டில் அவர் இவ்வாறு தெரிவித்தார்.
 
-இலங்கையில் மக்களுக்குச் சேவை செய்யக் கூடிய நல்ல திறமையான நேர்மையான ஆரோக்கியமுள்ள ஊழல் மோசடி அற்ற பிரதி நிதியைத் தெரிவு செய்கின்றதற்காகவே இந்த தேர்தல் நடாத்தப்படுகின்றது
+
+Election debate in Batticaloa: Candidates accused of fraud, corruption, temple bombings. Voter choice impacts Tamil nationalism, development projects. Candidates' past actions questioned. Symbolism of unity discussed.
+
+🟩
+
+Do you vote for the fraudsters and the assassination of many people who have been accused of corruption in the Batticaloa district and are going to vote for fraudulent money laundering in the temples and the independent groups who have been bombed by the bombing of the temples?Former Eastern Provincial Council member R. Durairatnam said that people should think
+
+He was speaking at a media conference held at the EPRLF party at the Wavikarai Road, Batticaloa on Sunday (10).
+
+The election is being held for selecting a good and healthy healthy corruption scam who can serve the people in Sri Lanka.
+
+While the people are ready to choose the talented and the good ones in the district, the people who have committed many corrupt massacres are spending the money that has taken place on the 14th.
 
 ...
 
 [Data](articles/cdb7122c.json)
+
+[Extended Data](ext_articles/cdb7122c.ext.json)
 
 ---
 

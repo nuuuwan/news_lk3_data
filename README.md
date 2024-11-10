@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 20:10:15**
+As of **2024-11-10 20:24:33**
 
 ## Newspaper Stats
 
-*Scraped **54,043** Articles*
+*Scraped **54,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,048
+adalk | 5,049
 adaderanalk | 6,449
 tamilmirrorlk | 7,546
 virakesarilk | 8,760
-adaderanasinhalalk | 9,429
+adaderanasinhalalk | 9,430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,043 (100.0%) of 54,043 articles have been extended.
+54,043 (100.0%) of 54,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### මහ මැතිවරණයේ ප්‍රචාරක කටයුතු අවසන්වන දිනය
+
+*2024-11-10 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203110) · `si`
+
+නොවැම්බර් 14 වනදා පැවැත්වීමට නියමිත 2024 මහ මැතිවරණයේ ප්‍රචාරක කටයුතු හෙට (11) මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතයි.
+
+කෙසේ වෙතත් මැතිවරණය සඳහා ඉදිරිපත්ව සිටින අපේක්ෂකයින්ට සිය කාර්යාල පවත්වාගෙන යෑම සඳහා අනිද්දා මධ්‍යම රාත්‍රී 12 දක්වා අවසර හිමිවන බව මැතිවරණ මහලේකම් කාර්යාලය සඳහන් කළේය.
+
+මැතිවරණ නීතිවලට අනුකූලව කටයුතු කරන ලෙස මැතිවරණ කොමිෂන් සභාව අපේක්ෂකයන්ගෙන් සහ ඡන්දදායකයන්ගෙන් ඉල්ලා සිටියි.
+
+මේ අතර රටේ සැබෑ ජනමතය නියෝජනය වීම සඳහා ඡන්දය ප්‍රකාශ කිරීමට යන ලෙස   VIEW නිරීක්ෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ උපදේශක , මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා සියලු ඡන්දදායකයන්ගෙන් ඉල්ලා සිටියි.
+
+◼️
+
+[Data](articles/fc0c97c5.json)
+
+---
 
 ### Sri Lanka to benefit the decisive match
 
@@ -139,6 +157,22 @@ The injured woman was admitted to the hospital after the elephant was attacked i
 [Data](articles/00d18511.json)
 
 [Extended Data](ext_articles/00d18511.ext.json)
+
+---
+
+### අපේ සටන නොවැම්බර් 14දායින් පසුව පටන් ගන්නවා
+
+*2024-11-10 17:21:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-සටන-නොවැම්බර්-14දායින්-පසුව-පටන්-ගන්නවා/11-412955) · `si`
+
+නොවැම්බර් 14 වැනිදායින් පසුව සිය කණ්ඩායම සමග සටන ආරම්භ කරන බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය. ඩිජිටල් තාක්ෂණය ඔස්සේ සියලු මැතිවරණ කොට්ඨාස එකවර අමතමින්  හෙතෙම මේ බව සඳහන් කළේය.
+
+එහිදී වැඩිදුරටත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“තව දින කිහිපයකින් අප අලුත් පාර්ලිමේන්තුවක් තෝරා ගන්නවා. නව ජනාධිපතිවරයෙක් පත්වී පාර්ලිමේන්තුව විසුරුවා හැරිය විට තම ප්‍රතිපත්තිය කුමක්දැයි රටට කියන්නට ජනාධිපතිට යුතුකමක් තිබෙනවා. ජනාධිපතිවරණයට පෙර අයි.එම්.එෆ් ගිවිසුම ප්‍රතික්ෂේප කරපු මාලිමාව දැන් අයි.එම්.එෆ් හමුවී ඒ අනුව ක්‍රියා කරන්නට සාකච්ඡා කරනවා. ඔවුන්ගේ සංශෝධන තිබෙනවාද කියා අප දන්නේ නැහැ. එමෙන්ම අයිඑම්එෆ් එකඟතාවත්, ආ ණ්ඩුවේ  ප්‍රතිපත්තියත්, රජයේ ඉදිරි දැක්ම සහ වැඩපිළිවෙළ පිළිබඳවත් ජනාධිපතිවරයා රටට පැහැදිලි කිරීමක් කළ යුතුයි.
+
+...
+
+[Data](articles/d3cee69c.json)
 
 ---
 
@@ -2319,55 +2353,5 @@ Delhi Ganesh has acted in over 400 films in Tamil and Telugu.. Delhi Ganesh has 
 [Data](articles/028ab69c.json)
 
 [Extended Data](ext_articles/028ab69c.ext.json)
-
----
-
-### Sri Lankan Airlines cancels flights over technical issues
-
-*2024-11-10 08:11:00* · [`economynextcom`](https://economynext.com/sri-lankan-airlines-cancels-flights-over-technical-issues-186729/) · `en`
-
-ECONOMYNEXT – State-run SriLankan Airlines said it had cancelled a several flights over “technical issues affecting multiple aircraft”.
-
-“We are working diligently to resolve these issues and restore normal operations, with passenger safety as our highest priority,” the airline said in a statement.
-
-“We apologise for the inconvenience and appreciate our customers’ patience.
-
-“Affected passengers are being provided with meals and hotel accommodation, and we are working hard to get everyone to their final destinations.” (Colombo/Nov10/2024)
-
-◼️
-
-[Data](articles/aa33b39c.json)
-
-[Extended Data](ext_articles/aa33b39c.ext.json)
-
----
-
-### Two fatal accidents - lose two young lives
-
-*2024-11-10 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203090) · `si`
-
-Two fatal accidents claim young lives: 17-year-old killed in bus-motorcycle collision near Sevanagala; 19-year-old dies in car crash on Early Inauwa road. Both incidents occurred yesterday.
-
-🟩
-
-Two youths were killed in two incidents of road accident.
-
-The accident had occurred yesterday (09) by the Sevanagala and Pharmacera.
-
-A 17-year-old youth was killed in an accident near the Mihindupura Community Center in Sevanagala road.
-
-The accident had occurred when a bus traveling to Divhamunagala from Sevanagala and a motorcycle to Luzaigama to Luziigama to Luziigama.
-
-The driver has been identified as the motorcyclist and the passagers were seriously injured and taken to the Sevanagala hospital.
-
-Meanwhile, a 19-year-old youth has killed in an accident in an accident in the foundation of the Early In the Early Inauwa road.
-
-The deceased has been identified as a 19 year old resident of Embilipitiya, Embilipitiya.
-
-◼️
-
-[Data](articles/65654e7b.json)
-
-[Extended Data](ext_articles/65654e7b.ext.json)
 
 ---

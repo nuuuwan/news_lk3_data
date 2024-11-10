@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 00:12:51**
+As of **2024-11-11 00:24:58**
 
 ## Newspaper Stats
 
-*Scraped **54,067** Articles*
+*Scraped **54,077** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,42 @@ dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
 tamilmirrorlk | 7,549
-virakesarilk | 8,765
+virakesarilk | 8,775
 adaderanasinhalalk | 9,435
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,067 (100.0%) of 54,067 articles have been extended.
+54,073 (100.0%) of 54,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Traffic on Matara Coast Road
+
+*2024-11-10 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198376) · `ta`
+
+Matara Coast Road traffic closure: 2pm-1pm on 12th due to election setup. Use New Tangalle Rd or Old Tangalle Rd instead.
+
+🟩
+
+The Voting Center is to be set up at Rahul College, Matara, following the parliamentary elections to be held on the 14th.
+
+Therefore, according to the Parliamentary Election Safety and Transport Scheme, traffic will be stopped on the road from 02.00 pm to 13 pm on the 12th of this month.
+
+Therefore, the police have requested the use of the following roads except the road from Ranaviru to Eliyakanda on the coastal road of Matara.
+
+Vehicles traveling from Matara to Kadirgamam and from Kadirgama to Matara can travel on New Tangalle Road and Old Tangalle Road.
+
+◼️
+
+[Data](articles/d0b2d0cd.json)
+
+[Extended Data](ext_articles/d0b2d0cd.ext.json)
+
+---
 
 ### Disclosure of Nadu rice in the market
 
@@ -59,6 +83,30 @@ The Ministry Secretary said that some mill owners had a shortage of artificial r
 [Data](articles/2ec84430.json)
 
 [Extended Data](ext_articles/2ec84430.ext.json)
+
+---
+
+### Sri Lanka - New Zealand T20 Series Balance
+
+*2024-11-10 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198377) · `ta`
+
+Sri Lanka vs New Zealand T20 series tied 1-1 after NZ wins final match by 5 runs. SL batted first, scoring 108/10 in 19.3 overs. NZ replied with 103/10 in 19.5 overs.
+
+🟩
+
+New Zealand have won by 5 runs in the final of the two -match T20 series between the New Zealand cricket team and Sri Lanka.
+
+The Sri Lankan team won the match first and decided to bowl first and scored 108 runs for the loss of all the wickets at the end of 19 overs and 3 balls.
+
+In reply, the Sri Lankan team lost all the wickets at the end of 19.5 overs and scored only 103 runs.
+
+So the T20 series between the two teams ended at 1: 1.
+
+◼️
+
+[Data](articles/6ee920d0.json)
+
+[Extended Data](ext_articles/6ee920d0.ext.json)
 
 ---
 
@@ -168,6 +216,46 @@ We're coming as the opposition to Parliament. We bring a commission to find out 
 
 ---
 
+### The government does not blame the government for the mistakes of a few officials - Geetanath Kasilingam
+
+*2024-11-10 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198374) · `ta`
+
+Government denies responsibility for official misconduct. Demands thorough investigation and justice for victims of attack.
+
+🟩
+
+The government does not use the government for mistakes made by a few officials. "It is our demand for the incident to conduct a proper investigation and establish justice," said Geetanath Kasilingam, a member of the Central Committee of the Sri Lanka PA and the Jaffna election district candidate.
+
+In a media statement condemned by the Chunnakam police, a young man and his husband and husband were attacked.
+
+I am worried about the incident that the Chunnakam police in the Chunnakam police in the Chunnakam area in Jaffna, his child and her husband and her husband have been attacked on Saturday night and are taking appropriate legal action against the attackers and taking appropriate legal action against the attackers.
+
+...
+
+[Data](articles/edb9b34a.json)
+
+[Extended Data](ext_articles/edb9b34a.ext.json)
+
+---
+
+### Proportional Deputy Finance and Member of Parliament
+
+*2024-11-10 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198350) · `ta`
+
+National List system distributes seats proportionally based on party vote percentages. Total 29 seats allocated.
+
+🟩
+
+Total number of National List 29. The National List System was formed to bring in parliament to parliament. In the election on how the National List seat is shared. The National List is distributed based on the number of votes received by the parties, with a hundred per cent.
+
+◼️
+
+[Data](articles/4022b5a0.json)
+
+[Extended Data](ext_articles/4022b5a0.ext.json)
+
+---
+
 ### Special program in place for potential election-period disasters
 
 *2024-11-10 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103310/special-program-in-place-for-potential-election-period-disasters) · `en`
@@ -185,6 +273,76 @@ The program will cover two days before the election day, election day itself, an
 [Data](articles/7de31146.json)
 
 [Extended Data](ext_articles/7de31146.ext.json)
+
+---
+
+### Wife death
+
+*2024-11-10 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198357) · `ta`
+
+Woman dies in house in Mahama Eliya. Police investigation ongoing. Husband flees scene.
+
+🟩
+
+A woman has died in a house in the Mahama Eliya area of ​​the Puttalam and Mundal police division, Mundal police said.
+
+The deceased is a 27 woman from Mahama Eliya Baduloya.
+
+Investigations carried out by the police revealed that the deceased woman was living with her husband and her husband has now fled.
+
+◼️
+
+[Data](articles/298a9f3b.json)
+
+[Extended Data](ext_articles/298a9f3b.ext.json)
+
+---
+
+### Three arrested for heroin and ice drugs in Colombo
+
+*2024-11-10 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198358) · `ta`
+
+Colombo police arrest three for heroin and ice: Two in Kalkissa, one in Udugama. Heroin seizures range from 10g to 12g. Ice seizures vary from 8g to 52g. Further investigations ongoing.
+
+🟩
+
+Three persons have been arrested by police on Saturday (09) in Kalkissa and Udugama areas during two other raids in Colombo.
+
+Two suspects have been arrested with heroin, near the Pattala Road, belonging to the Kalkissa police division, police said.
+
+They have been arrested during two rounds carried out on the basis of information received by the Criminal Investigation Department officials.
+
+The arrested suspects are from McCona and Moratuwa, aged 38, 40.
+
+From the arrested suspects, 10 g 350 milligrams and 11 g of 200 milligrams of heroin have been seized by the police.
+
+In addition, a suspect has been arrested for possessing ice drugs in Samagigama area belonging to the Udugama Police Division.
+
+He was arrested during a raid carried out on the basis of information received by a team of officials of the Moratuwa Police Special Task Force Base.
+
+The arrested suspect is from Udugama, aged 46.
+
+The police have seized 12 grams of 700 milligrams of heroin from the arrested suspect.
+
+...
+
+[Data](articles/23f87017.json)
+
+[Extended Data](ext_articles/23f87017.ext.json)
+
+---
+
+### புளியங்குளத்தில் உள்நாட்டு துப்பாக்கியுடன் ஒருவர் கைது !
+
+*2024-11-10 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198362) · `ta`
+
+புளியங்குளம் பொலிஸ் பிரிவிற்குட்பட்ட  பிரதேசத்தில், உள்நாட்டு துப்பாக்கியுடன் ஒருவர்  நேற்று சனிக்கிழமை (09) கைது செய்யப்பட்டுள்ளார்.
+
+புளியங்குளம் பொலிஸ் விசேட அதிரடிப்படையினருக்கு கிடைத்த இரகசியத் தகவலின் பேரில் மேற்கொண்ட சுற்றிவளைப்பிலேயே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c5653711.json)
 
 ---
 
@@ -211,6 +369,56 @@ Lands owned by the northern people have the safety government. We will give all 
 [Data](articles/5534dee2.json)
 
 [Extended Data](ext_articles/5534dee2.ext.json)
+
+---
+
+### சப்புகஸ்கந்தயில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது !
+
+*2024-11-10 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198368) · `ta`
+
+சப்புகஸ்கந்த பொலிஸ் நிலையத்தில், சிறிமங்கல சந்தியில், ஐஸ் போதைப்பொருளை வைத்திருந்த சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (09) கைது செய்யப்பட்டுள்ளார்.
+
+சப்புகஸ்கந்த பொலிஸ் நிலைய அதிகாரிகள் குழுவிற்கு கிடைத்த இரகசிய தகவலையடுத்து , மேற்கொண்ட சுற்றிவளைப்பிலேயே இவர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து 10 கிராம் 540 மில்லிகிராம் ஐஸ் போதைப்பொருள்  பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/fde74e2d.json)
+
+---
+
+### அம்பலாங்கொடையில் துப்பாக்கிச்சூடு ; கணவன், மனைவி உயிரிழப்பு !
+
+*2024-11-10 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198365) · `ta`
+
+அம்பலாங்கொடை பொலிஸ் பிரிவுக்குட்பட்ட உரவத்த பகுதியில் மோட்டார் சைக்கிளில் பயணித்த கணவன், மனைவியை மோட்டார் சைக்கிளில் வந்த துப்பாக்கிதாரி ஒருவர் சுட்டுக் கொன்றுள்ளதாக அம்பலாங்கொடை பொலிஸார் தெரிவித்தனர்.
+
+உயிரிழந்தவர்கள் அம்பலாங்கொடை , குளீகொட பிரதேசத்தில் வசிக்கும் 46 வயதுடைய தம்பதி ஆவர்.
+
+பொலிஸார் மேற்கொண்ட விசாரணையில் ரி 56 ரக துப்பாக்கியால் துப்பாக்கிச்சூடு மேற்கொள்ளப்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+சந்தேக நபரை கைது செய்வதற்கான மேலதிக விசாரணைகளை அம்பலாங்கொடை பொலிஸார் மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/f77da887.json)
+
+---
+
+### ஐஸ் போதைப்பொருளுடன் சிறைச்சாலை அதிகாரி கைது !
+
+*2024-11-10 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198371) · `ta`
+
+கொழும்பு விளக்கமறியல் சிறைச்சாலையில் உள்ள கைதிகளுக்கு விற்பனை செய்வதற்காக ஐஸ் போதைப்பொருளை எடுத்துச் சென்ற சிறைச்சாலை அதிகாரி, கைது செய்யப்பட்டுள்ளதாக பொரளை பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பு விளக்கமறியலில் சிறைச்சாலை அதிகாரிகளுக்கு கிடைத்த தகவலின்படி மேற்கொண்ட விசாரணையில் இவர் நேற்று சனிக்கிழமை (09) கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டவர், இரண்டு வருடங்கள் மற்றும் ஒன்பது மாதங்களுக்கு முன்னர் பணிக்காக வந்திருந்த 35 வயதுடையவர் ஆவார்.
+
+◼️
+
+[Data](articles/b149780e.json)
 
 ---
 
@@ -2203,235 +2411,5 @@ And from that day candidates have the ability to set up one office for the elect
 [Data](articles/4424f01b.json)
 
 [Extended Data](ext_articles/4424f01b.ext.json)
-
----
-
-### ONLINE MONEY; 59
-
-*2024-11-10 11:17:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பணமோசடி-59-பேர்கைது/175-346866) · `ta`
-
-Sri Lanka CIT arrests 59 for online fraud targeting foreigners. Company defrauded $2.5M, mostly from South Koreans. Two executives remanded, others bailed. Operation run from luxury apartment in Colombo.
-
-🟩
-
-The Criminal Investigation Department (CIT) has discovered a major online financial fraud on foreign citizens and has arrested 59 persons, including two leaders of the company, which has been involved in fraud.
-
-The suspects were arrested in Colombo last Friday (08) and a group of foreign citizens has defrauded about Rs. 300 million, police said.
-
-Investigations into the incident have begun after the South Korean embassy filed a complaint that a local company had paid Rs 300 million from a Korean citizen.
-
-Investigations have revealed that the fraud was carried out from the luxury apartment on Hevlok Road, where 59 Sri Lankans, including 23 women, arrested 59 Sri Lankans.
-
-The suspects are said to have been hired to target investors under the guise of multilingualists and information technicians.. They said they were not aware of the fraud because they were hired without knowing what the fund was done.
-
-...
-
-[Data](articles/767bd421.json)
-
-[Extended Data](ext_articles/767bd421.ext.json)
-
----
-
-### Company involved in online cash flow; 59 people
-
-*2024-11-10 11:17:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பணமோசடியில்-ஈடுபட்ட-நிறுவனம்-59-பேர்கைது/175-346866) · `ta`
-
-Online cash flow fraud: 59 arrests, 2 company leaders. Foreign citizens defrauded Rs. 300 million. Luxury apartment hub. Suspects unaware of scam. Director, manager remanded. Others released on bail.
-
-🟩
-
-The Criminal Investigation Department (CIT) has discovered a major online financial fraud on foreign citizens and has arrested 59 persons, including two leaders of the company, which has been involved in fraud.
-
-The suspects were arrested in Colombo last Friday (08) and a group of foreign citizens has defrauded about Rs. 300 million, police said.
-
-Investigations into the incident have begun after the South Korean embassy filed a complaint that a local company had paid Rs 300 million from a Korean citizen.
-
-Investigations have revealed that the fraud was carried out from the luxury apartment on Hevlok Road, where 59 Sri Lankans, including 23 women, arrested 59 Sri Lankans.
-
-The suspects are said to have been hired to target investors under the guise of multilingualists and information technicians.. They said they were not aware of the fraud because they were hired without knowing what the fund was done.
-
-...
-
-[Data](articles/9085a445.json)
-
-[Extended Data](ext_articles/9085a445.ext.json)
-
----
-
-### Crackers
-
-*2024-11-10 11:16:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பட்டாசு-கொளுத்தியவர்-கைது/76-346865) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Police arrest man for burning crackers during election campaign. Candidate Anusha Chandrasekaran and supporters distribute leaflets, violating election rules. Police warn against such activities."
-
-🟩
-
-Hatton police arrested a man on Saturday (09) on charges of burning crackers.
-
-Anusha Chandrasekaran, the candidate of the Democratic People's Voice Party, and many others who violated the election rules and distributed leaflets with large numbers of people
-
-The police warned. Hatton police arrested a man on charges of burning fireworks following the incident on Saturday (09).
-
-◼️
-
-[Data](articles/8b6fc125.json)
-
-[Extended Data](ext_articles/8b6fc125.ext.json)
-
----
-
-### Attack on journalist
-
-*2024-11-10 11:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஊடகவியலாளர்-மீது-தாக்குதல்/71-346864) · `ta`
-
-Journalist attacked in Kopay area. Incident occurred Sunday morning. Unidentified assailants involved. Complaint filed at Kopay police station. Victim hospitalized.
-
-🟩
-
-Yall. A journalist in the Kopay area has been attacked by unidentified persons.
-
-The incident took place on Sunday morning (10) when a journalist was traveling near Kopay junction.
-
-A complaint has been lodged at the Kopay police station and the attacker Jaffna Jaffna. It is noteworthy that the teaching hospital has been admitted to the hospital.
-
-◼️
-
-[Data](articles/1588df3b.json)
-
-[Extended Data](ext_articles/1588df3b.ext.json)
-
----
-
-### Illegally assembled Defender seized in Pallekele
-
-*2024-11-10 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103295/illegally-assembled-defender-seized-in-pallekele) · `en`
-
-Police have seized a suspicious Land Rover Defender discovered at a residence in Pallekele, Kandy.
-
-Upon inspection, the vehicle was found to be unregistered, with both its chassis and engine numbers missing, confirming that it had been assembled illegally, the police said.
-
-The homeowner, a 48-year-old, has been arrested for possession of the illegally assembled vehicle.
-
-◼️
-
-[Data](articles/6178d22b.json)
-
-[Extended Data](ext_articles/6178d22b.ext.json)
-
----
-
-### Defense Secretary to visit Arugam
-
-*2024-11-10 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203095) · `si`
-
-Defense Secretary Air Vice Marshal Retired visits Arugambay to assess security situation.
-
-🟩
-
-Defense Secretary Air Vice Marshal (Retired) - Resources Resources (Pension) - Tyiyakantha visited Arugambay.
-
-The Ministry of Defense states that he will visit these days to investigate the security situation.
-
-◼️
-
-[Data](articles/e6b3ba2a.json)
-
-[Extended Data](ext_articles/e6b3ba2a.ext.json)
-
----
-
-### The 10th Parliament is the lowest 10th Parliament
-
-*2024-11-10 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198302) · `ta`
-
-Here's a 200-character summary:
-
-
-
-The 10th Parliament aims to provide limited relief. Rural Sinhalese, struggling financially, eagerly anticipate voting for national power. Their support stems from pride in having a rural Sinhala representative. Former admiration for Ranasinghe Premadasa has shifted to Anura.
-
-🟩
-
-Trying to provide relief in small quantities. This is the reason why the rural Sinhalese people living below the poverty line are keen to vote for the power of the national people in the upcoming parliamentary elections with great anticipation.. They have nothing to say except for the pride that a rural Sinhala youth has been sitting on a seat. The love of the rural Sinhalese people at that time on Ranasinghe Premadasa has now turned to Anura.
-
-◼️
-
-[Data](articles/745c94f0.json)
-
-[Extended Data](ext_articles/745c94f0.ext.json)
-
----
-
-### Defence Secretary inspects security situation in Arugam Bay
-
-*2024-11-10 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103294/defence-secretary-inspects-security-situation-in-arugam-bay) · `en`
-
-Defence Secretary Air Vice Marshal (Retired) Sampath Thuyacontha is currently on a visit to the Arugam Bay area to inspect the prevailing security situation, the Defence Ministry said.
-
-On October 23, Israel’s national Security Council had issued an urgent warning to Israeli citizens to leave popular tourist areas in southern Sri Lanka immediately, and classified the Arugam Bay region as a level four threat, advising Israelis to take precautions, such as concealing their Jewish identity and avoiding large gatherings.
-
-“The Israeli security establishment is maintaining close communication with Sri Lankan security authorities and closely monitoring the situation,” the council stated.
-
-It also advised Israelis in other parts of Sri Lanka to exercise caution and avoid holding large public gatherings.
-
-...
-
-[Data](articles/48489d08.json)
-
-[Extended Data](ext_articles/48489d08.ext.json)
-
----
-
-### "I will investigate the killings of Tajuddin Lasantha"
-
-*2024-11-10 10:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீன்-லசந்தவின்-கொலைகள்-குறித்து-விசாரணை-நடத்துவேன்/175-346862) · `ta`
-
-President Anura Kumara Dissanayake vows to investigate killings of journalists Tajuddin and Wickrematunge, disappearance of Eknaligoda, promising justice and ending political violence.
-
-🟩
-
-President Anura Kumara Dissanayake has said that the government will investigate those responsible for the killings of Wasim Tajuddin and Lasantha Wickrematunge and the disappearance of Pradeep Eknaligoda.
-
-Speaking at a rally in Dambulla, he said that the government would end the era of the killing of innocent people by political power and that everyone's lives were valued.
-
-“We will end the era of all the killings used by political power. No one responds to the killings of Vasim Tajuddin and Lasantha Wickrematunge and Eknaligoda disappeared.. We will put the criminals who killed innocent people before the law. ”He promised to create an environment without fear.
-
-◼️
-
-[Data](articles/cee1855e.json)
-
-[Extended Data](ext_articles/cee1855e.ext.json)
-
----
-
-### Mother and daughter arrested in Katunayake with cigarettes
-
-*2024-11-10 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198299) · `ta`
-
-Mother-daughter duo arrested at Katunayake airport with foreign cigarettes. Police seize 78,200 cigarettes worth Rs. 391. To appear in court on 13th.
-
-🟩
-
-The mother and daughter have been arrested at the Katunayake airport with foreign cigarettes worth Rs.
-
-They were arrested by a group of police narcotics officers on Saturday (09).
-
-A 61 -year -old mother and a 38 -year -old daughter of Gampola have been arrested.
-
-The two arrived from Dubai at around 5 pm yesterday, police said.
-
-391 cigarette cartoons, containing 78,200 cigarettes made of "platinum" abroad from the suspects' travel packages, were seized by the police officials.
-
-In addition, the suspects will be produced at the Negombo Magistrate's Court on the 13th of this month with the seized cigarettes, police said.
-
-◼️
-
-[Data](articles/439278c9.json)
-
-[Extended Data](ext_articles/439278c9.ext.json)
 
 ---

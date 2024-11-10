@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 10:24:46**
+As of **2024-11-10 10:40:08**
 
 ## Newspaper Stats
 
@@ -26,43 +26,55 @@ adaderanasinhalalk | 9,414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,948 (100.0%) of 53,959 articles have been extended.
+53,955 (100.0%) of 53,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### එකලස් කළ ඩිෆෙන්ඩර් රථයක් පල්ලේකැලේ නිවසක තිබී සොයාගනියි
+### Assembled Defender was found in a house in Pallekele
 
 *2024-11-10 10:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203094) · `si`
 
-මහනුවර පල්ලේකැලේ ප්‍රදේශයේ නිවසක් තුළ තිබී සැක සහිත ඩිෆෙන්ඩර් රථයක් රථයක් පොලිස් භාරයට ගෙන තිබේ.
+Illegal Defender seized in Pallekele: Unregistered chassis and engine numbers. Homeowner arrested for possessing illegally assembled vehicle.
 
-රථය පරික්ෂා කිරීමේදි හෙළිව ඇත්තේ එය ලියාපදිංචි කර නොමැති බවත් චැසි අංකය හා එන්ජිම් අංකයද නොමැති බවය .
+🟩
 
-ඒ අනුව අදාළ ඩිෆෙන්ඩර් රථය නීතිවිරෝධිව එකලස් කරන ලද්දක් බවට තහවුරු වී තිබේ.
+Police have seized a suspicious Defender vehicle in a house in Pallekele area in Kandy.
 
-නීතිවිරෝධීව සකස් කරන ලද වාහනයක් සන්තකයේ තබා ගැනීම සම්බන්ධයෙන් එම නිවෙස් හිමියා පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+It was revealed when it was not registered and the Chassis number and the engim number were not registered.
 
-අත්අඩංගුවට ගෙන ඇත්තේ ජයශ්‍රී උයන පල්ලේකැලේ ප්‍රදේශයේ පදිංචි 48 හැවිරිදි පුද්ගලයෙකි.
+Accordingly, the relevant Defender has been assembled by illegal assembled.
+
+The homeowner has been arrested by the police regarding the possession of an illegal vehicle.
+
+The arrested was a 48 year old resident of the Jayasiri Uyana Pallekele area.
 
 ◼️
 
 [Data](articles/bf62c868.json)
 
+[Extended Data](ext_articles/bf62c868.ext.json)
+
 ---
 
-### தாமரை கோபுர வளாகத்தில் துப்பாக்ச்சசூடு : ஒருவர் காயம்
+### Duplicate at Lotus Tower Complex: One injury
 
 *2024-11-10 10:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுர-வளாகத்தில்-துப்பாக்ச்சசூடு-ஒருவர்-காயம்/175-346859) · `ta`
 
-தாமரை கோபுர வளாகத்தில் இடம்பெற்ற இசைக் கச்சேரியின் போது இனந்தெரியாத நபர் ஒருவரால், பாதுகாப்பு உத்தியோகத்தர் மீது துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக மருதானை பொலிஸார் தெரிவித்துள்ளனர்.
+Gunfire hits security guard at Lotus Tower concert, one injured. Police investigating incident.
 
-துப்பாக்கிச் சூட்டில் காயமடைந்த 29 வயதுடைய பாதுகாப்பு உத்தியோகத்தர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+🟩
+
+The Maradana police said that an unidentified person fired at the security officer during the music concert at the Lotus Tower complex.
+
+A 29 -year -old security officer who was injured in the shooting has been admitted to the Colombo National Hospital.
 
 ◼️
 
 [Data](articles/8d1fee51.json)
+
+[Extended Data](ext_articles/8d1fee51.ext.json)
 
 ---
 
@@ -81,6 +93,8 @@ He added that any failure to enforce the law would be a shortcoming on the part 
 ◼️
 
 [Data](articles/a2baca09.json)
+
+[Extended Data](ext_articles/a2baca09.ext.json)
 
 ---
 
@@ -734,33 +748,45 @@ Much has been written on the life and work of Prof. Keerthi Nissanka Seneviratne
 
 ---
 
-### மண்வெட்டியால் தாக்கி பெண் கொலை
+### Killing
 
 *2024-11-10 01:53:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்வெட்டியால்-தாக்கி-பெண்-கொலை/175-346840) · `ta`
 
-சம்பவத்தில் ஈச்சங்குளம் பகுதியை சேர்ந்த வெற்றிமலர் (வயது 57) என்ற பெண்ணே உயிரிழந்துள்ளார்.
+A 57-year-old woman named Vijayamalar was killed in her home in Vavuniya, Ichangulam. She was attacked with a shovel by a young intruder while alone. The victim was rushed to the hospital but succumbed to injuries before arrival.
 
-வவுனியா, ஈச்சங்குளம், அம்மிவைத்தான் பகுதியில் உள்ள தனது வீட்டில் நேற்று குறித்த பெண் தனிமையில் இருந்துள்ளார். இதன்போது அங்கு அத்துமீறி வந்த இளைஞர் ஒருவர் அந்தப் பெண் மீது மண்வெட்டியைக் கொண்டு தாக்குதல் நடத்தியுள்ளார்.
+🟩
 
-இதனால் படுகாயமடைந்த பெண் அம்புலன்ஸ் மூலம் வவுனியா வைத்தியசாலையில் சேர்க்கப்பட்டார். எனினும், அவர் வைத்தியசாலைக்குக்  கொண்டு வருவதற்கு முன்னரே உயிரிழந்துள்ளார்.
+Vijayamalar (age 57), a resident of Ichangulam, died in the incident.
+
+The woman was in solitude yesterday at her home in Vavuniya, Ichangulam. A young man who was infiltrated there was attacked the woman with a shovel.
+
+The injured woman was admitted to the Vavuniya Hospital by ambulance. However, he died before he was brought to the hospital.
 
 ◼️
 
 [Data](articles/2ed80f44.json)
 
+[Extended Data](ext_articles/2ed80f44.ext.json)
+
 ---
 
-### இன்று இடியுடன் கூடிய மழை
+### Thunderstorms today
 
 *2024-11-10 01:38:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-இடியுடன்-கூடிய-மழை/175-346839) · `ta`
 
-வடக்கு மற்றும் வடமத்திய மாகாணங்களிலும் திருகோணமலை மாவட்டத்திலும் இன்று இடைக்கிடையே மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+Rainfall forecasted in Northern, North Central Provinces and Trincomalee District today. Thunderstorms expected in Central, Uva, Southern Provinces in evening/night.
 
-அத்துடன் மத்திய, ஊவா மற்றும் தென் மாகாணங்களின் சில பகுதிகளில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என அறிவிக்கப்பட்டுள்ளது. (a)
+🟩
+
+The Department of Meteorology has forecast rainfall in the Northern and North Central Provinces and Trincomalee District today.
+
+It has also been announced that rain or thunderstorms are expected in the evening or night in some parts of the Central, Uva and Southern Provinces. (A)
 
 ◼️
 
 [Data](articles/b7a98275.json)
+
+[Extended Data](ext_articles/b7a98275.ext.json)
 
 ---
 
@@ -1044,17 +1070,27 @@ The US Justice Department in a statement said the Islamic Revolutionary Guard Co
 
 ---
 
-### ත්‍රීපෝෂ සමාගම ගැන රජයේ ස්ථාවරය කියයි
+### Government's stand on the three terrorist company
 
 *2024-11-09 20:18:24* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීපෝෂ-සමාගම-ගැන-රජයේ-ස්ථාවරය-කියයි/11-412939) · `si`
 
-ශ්‍රී ලංකා ත්‍රිපෝෂ සමාගම ඇවර කිරිමට රජය කිසිම තිරණයක් ගෙන නොමැති බව මුදල් අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ගැබිණි මව්වරුන්ට හා බිළිඳුන් වෙනුවෙන් ත්‍රිපෝෂ ලබාදිම අඛණ්ඩව සිදුකරන බවත්  සමාගම වඩාත් ශක්තිමත් කිරිමට කටයුතු කරන බවත් එම නිවේදනයේ දැක්වෙයි.
+
+
+Sri Lanka government denies decision to support terrorist organizations. Statement emphasizes continuation of aid for pregnant women and infants.
+
+🟩
+
+The Ministry of Finance issued a statement that the Government of Sri Lanka has not taken any decision to endure.
+
+The announcement states that the thripsy is continued to continue the pregnantic mothers and babies.
 
 ◼️
 
 [Data](articles/92167926.json)
+
+[Extended Data](ext_articles/92167926.ext.json)
 
 ---
 
@@ -1357,6 +1393,8 @@ In education sector there was strong competition. Hemas said it cut prices while
 ...
 
 [Data](articles/63ec500c.json)
+
+[Extended Data](ext_articles/63ec500c.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 20:24:33**
+As of **2024-11-10 20:40:13**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ adaderanasinhalalk | 9,430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,043 (100.0%) of 54,045 articles have been extended.
+54,045 (100.0%) of 54,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### මහ මැතිවරණයේ ප්‍රචාරක කටයුතු අවසන්වන දිනය
+### Date to end in general election
 
 *2024-11-10 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203110) · `si`
 
-නොවැම්බර් 14 වනදා පැවැත්වීමට නියමිත 2024 මහ මැතිවරණයේ ප්‍රචාරක කටයුතු හෙට (11) මධ්‍යම රාත්‍රියෙන් අවසන් වීමට නියමිතයි.
+Election propaganda ends tomorrow. Candidates must register by midnight. Election commission warns against law violations. Former chairman urges voters to choose based on true national interests.
 
-කෙසේ වෙතත් මැතිවරණය සඳහා ඉදිරිපත්ව සිටින අපේක්ෂකයින්ට සිය කාර්යාල පවත්වාගෙන යෑම සඳහා අනිද්දා මධ්‍යම රාත්‍රී 12 දක්වා අවසර හිමිවන බව මැතිවරණ මහලේකම් කාර්යාලය සඳහන් කළේය.
+🟩
 
-මැතිවරණ නීතිවලට අනුකූලව කටයුතු කරන ලෙස මැතිවරණ කොමිෂන් සභාව අපේක්ෂකයන්ගෙන් සහ ඡන්දදායකයන්ගෙන් ඉල්ලා සිටියි.
+The propaganda work in the 2024 general election will be completed tomorrow (11).
 
-මේ අතර රටේ සැබෑ ජනමතය නියෝජනය වීම සඳහා ඡන්දය ප්‍රකාශ කිරීමට යන ලෙස   VIEW නිරීක්ෂණ සංවිධානයේ ජ්‍යෙෂ්ඨ උපදේශක , මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා සියලු ඡන්දදායකයන්ගෙන් ඉල්ලා සිටියි.
+However, the Elections Secretariat stated that the candidates who have come forward to maintain their offices will be allocated to 12 midnight.
+
+The Elections Commission calls for candidates and voters to act in accordance with election laws.
+
+Meanwhile, the former Chairman of the View Ordinal Advisory Organization Mahinda Deshapriya asks all voters to vote to vote for the country's real views.
 
 ◼️
 
 [Data](articles/fc0c97c5.json)
+
+[Extended Data](ext_articles/fc0c97c5.ext.json)
 
 ---
 
@@ -160,19 +166,25 @@ The injured woman was admitted to the hospital after the elephant was attacked i
 
 ---
 
-### අපේ සටන නොවැම්බර් 14දායින් පසුව පටන් ගන්නවා
+### Our battle is starting afternoon
 
 *2024-11-10 17:21:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-සටන-නොවැම්බර්-14දායින්-පසුව-පටන්-ගන්නවා/11-412955) · `si`
 
-නොවැම්බර් 14 වැනිදායින් පසුව සිය කණ්ඩායම සමග සටන ආරම්භ කරන බව හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය. ඩිජිටල් තාක්ෂණය ඔස්සේ සියලු මැතිවරණ කොට්ඨාස එකවර අමතමින්  හෙතෙම මේ බව සඳහන් කළේය.
+Former President Ranil Wickremesinghe announces political battle after Nov 14. Criticizes current leadership, promises economic reforms and anti-corruption measures. Calls for unity among voters to shape future of Sri Lanka's democracy.
 
-එහිදී වැඩිදුරටත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+🟩
 
-“තව දින කිහිපයකින් අප අලුත් පාර්ලිමේන්තුවක් තෝරා ගන්නවා. නව ජනාධිපතිවරයෙක් පත්වී පාර්ලිමේන්තුව විසුරුවා හැරිය විට තම ප්‍රතිපත්තිය කුමක්දැයි රටට කියන්නට ජනාධිපතිට යුතුකමක් තිබෙනවා. ජනාධිපතිවරණයට පෙර අයි.එම්.එෆ් ගිවිසුම ප්‍රතික්ෂේප කරපු මාලිමාව දැන් අයි.එම්.එෆ් හමුවී ඒ අනුව ක්‍රියා කරන්නට සාකච්ඡා කරනවා. ඔවුන්ගේ සංශෝධන තිබෙනවාද කියා අප දන්නේ නැහැ. එමෙන්ම අයිඑම්එෆ් එකඟතාවත්, ආ ණ්ඩුවේ  ප්‍රතිපත්තියත්, රජයේ ඉදිරි දැක්ම සහ වැඩපිළිවෙළ පිළිබඳවත් ජනාධිපතිවරයා රටට පැහැදිලි කිරීමක් කළ යුතුයි.
+Former President Ranil Wickremesinghe said that the fight with his group will commence after November 14th.. He was speaking at all electorates at once through digital technology.
+
+Former President Ranil Wickremesinghe said:
+
+"In a few days we select a new Parliament. When a new president appoint and dissolves the Parliament, the president has the duty to tell the country. The Company that refused the IMF covenant before the presidential election is now meeting and discussed the IMF. We do not know if their amendments are. The President should also clarify the country's policy and the government's policy and the program and the program and the program.
 
 ...
 
 [Data](articles/d3cee69c.json)
+
+[Extended Data](ext_articles/d3cee69c.ext.json)
 
 ---
 

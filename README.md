@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 23:09:49**
+As of **2024-11-10 23:24:43**
 
 ## Newspaper Stats
 
@@ -26,33 +26,39 @@ adaderanasinhalalk | 9,434
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,063 (100.0%) of 54,065 articles have been extended.
+54,065 (100.0%) of 54,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### ශ්‍රී ලංකාවට ලකුණු 5ක පරාජයක්
+### Sri Lanka defeated 5 runs
 
 *2024-11-10 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203114) · `si`
 
-දඹුල්ලේ දී අද (10) අවසන් වූ දෙවැනි හා අවසන් විස්සයි20 ක්‍රිකට් තරගයෙන් නවසීලන්ත කණ්ඩායම හමුවේ ලකුණු 5ක තියුණු පරාජයක් ලැබීමට ශ්‍රී ලංකා කණ්ඩායමට සිදුවිය.
+Sri Lanka lost 5-run T20 match to New Zealand in Dambulla. NZ wins series 2-1, ending 11-year drought. NZ batted first, scoring 108/10 in 19.3 overs. SL replied with 103/10 in 19.5 overs.
 
-ඒ අනුව තරග 2-0ක තරගාවලි ජයක් තහවුරු කරගැනීමට අවස්ථාව හිමිව තිබූ ශ්‍රී ලංකාවට, තරග 1-1ක් ලෙස අවසන් කරගැනීමට සිදුවිය.
+🟩
 
-අද තරගය ජයගැනීමට ශ්‍රී ලංකාවට හැකිවූවානම්, නවසීලන්තයට එරෙහිව වසර 11කට පසු විස්සයි20 තරගාවලියක් ජයගැනීමට හැකියාව තිබුණි.
+Sri Lanka were defeated in the second and final T20 match against New Zealand today (10) in Dambulla.
 
-අවසන්වරට ඔවුන් නවසීලන්තයට එරෙහිව විස්සයි20 තරගාවලියක් ජයගෙන සිටියේ 2013 වසරේදීය.
+Accordingly, Sri Lanka, which was able to confirm a 2-0-match tournament, matches 1-1.
 
-ඒ හැරෙන්න එම තරගාවලියෙන් අනතුරුව නවසීලන්තයේ මෙන්ම ශ්‍රී ලංකාවේ පැවැත් වූ සෑම තරගාවලියක්ම (තරගාවලි 4) ජයගැනීමට සමත් වූයේ නවසීලන්තය යි.
+If Sri Lanka were able to win the match today, New Zealand could have won a Twenty20 tournament after 11 years.
 
-මෙම තරගයේ පළමුව පන්දුවට පහරදුන් නවසීලන්තය පන්දුවාර 19.3කදී සියලු දෙනා දැවී ලකුණු 108ක් රැස්කිරීමට සමත් විය.
+Lasty they won the Twenty20 tournament against New Zealand in 2013.
 
-කෙසේ නමුත් ඊට පිළිතුරු ලෙස ශ්‍රී ලංකාවට පන්දුවාර 19.5කදී සියලු දෙනා දැවී රැස්කළ හැකිවූයේ ලකුණු 103ක් පමණි.
+Timot, New Zealand were able to win every tournament (the tournaments) in New Zealand and Sri Lanka.
+
+Batting first, New Zealand scored 108 runs for the loss of all wickets in 19.3 overs.
+
+However, it was only 103 runs in 19.5 overs to Sri Lanka in 19.5 overs.
 
 ◼️
 
 [Data](articles/9d5d3fbf.json)
+
+[Extended Data](ext_articles/9d5d3fbf.ext.json)
 
 ---
 
@@ -442,23 +448,33 @@ Muslim MPs cannot claim the gold sabbath for losing their feet because they have
 
 ---
 
-### රේගුව ආදායම් ඉලක්කයට යන්න සූදානම්
+### Customs is about to go to the income target
 
 *2024-11-10 18:00:36* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-ආදායම්-ඉලක්කයට-යන්න-සූදානම්/11-412959) · `si`
 
-රේගු දෙපාර්තමේන්තුව මේ වසරේ ගෙවීගිය කාලය තුළදී රුපියල් බිලියන 1200ක් ඉක්ම වූ ආදායමක් උපයා ගෙන තිබෙන බව එම දෙපාර්තමේන්තුව සඳහන් කරයි.
+Customs exceeds income target, earning Rs. 1200 billion. Plans to reach Rs. 1533 billion goal. Implements risk-based physical examinations, increasing revenue by Rs. 15 billion. Addresses challenges like inadequate testing facilities and traffic congestion. Proposes new testing yard construction. Introduces complaint unit for customs-related issues.
 
-මේ වසරේ ඉලක්කය රුපියල් බිලියන1533ක් බවත්, අදාළ ආදායම් ඉලක්ක සපුරා ගැනීමට අවශ්‍ය කටයුතු කරන බවද එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
+🟩
 
-පසුගිය වසරේදී රුපියල් බිලියන 975ක ආදායමක් උපයා ගෙන තිබෙන  බවත්, සාමාන්‍යයෙන් කොළඹ වරායෙන් දිනකට බහලුම් 1500ක් පමණ නිෂ්කාශනය වන අතර, එය දිනකට 2500ක් දක්වා වැඩි වන අවස්ථාද තිබෙන බව පෙන්වා දෙයි.
+The Customs Department has earned an income of over Rs. 1200 billion during the past year, the Department said.
 
-මෙම බහලුම්වලින් රේගු පරීක්ෂාවට ලක්වන්නේ 35%ක් පමණ ප්‍රමාණයක් වන අතර, ඉතිරි සියලු බහලුම් රේගු පරීක්ෂාවකින් තොරව පැය කිහිපයක් ඇතුළත නිදහස් කරන බවද සඳහන් කරයි.
+The department is Rs. 1533 billion and will be necessary to meet the income goals.
 
-රේගුව විසින් භෞතික පරීක්ෂාව සඳහා බහලුම් තෝරා ගනු ලබන්නේ, අවදානම් කළමනාකරණ මූලධර්ම මත පදනම්ව ඉහළ අවදානමක් ඇති බහලුම් වන අතර, මෙම පරීක්ෂාවන් නිසා පසුගිය වසරේදී රුපියල් බිලියන 15ක පමණ අමතර ආදායමක් උපයා ගෙන තිබෙන බවද සඳහන් කරයි.
+975 billion in the year earlier last year, about 1500 directions daily from the Colombo port, show that it is more than 2,500 per day.
+
+Customs test is about 35% of the customs test, which is released within hours without customs check.
+
+The customs have chosen the physical examination, which is a high risk directory based on risk management principles, and these trials have earned an additional income of Rs 15 billion last year.
+
+It also shows that some 65% and 70% of the checking directories will find a custom mistake and reduce the tax secure and the inspiration to customs wrongdoing.
+
+It is also said that a consideratory is also referred to the testing of the public institutions on quality, food safety, plant quarantine, animal quarantine.
 
 ...
 
 [Data](articles/ee37a118.json)
+
+[Extended Data](ext_articles/ee37a118.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 12:25:02**
+As of **2024-11-10 12:40:29**
 
 ## Newspaper Stats
 
-*Scraped **53,978** Articles*
+*Scraped **53,981** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,90 @@ economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
 adalk | 5,038
-adaderanalk | 6,440
-tamilmirrorlk | 7,540
+adaderanalk | 6,441
+tamilmirrorlk | 7,541
 virakesarilk | 8,733
-adaderanasinhalalk | 9,417
+adaderanasinhalalk | 9,418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,978 (100.0%) of 53,978 articles have been extended.
+53,979 (100.0%) of 53,981 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### මැතිවරණ කොමිසමේ හිටපු සභාපති ඡන්ද දායකයන්ගෙන් කළ ඉල්ලීම
+
+*2024-11-10 12:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203098) · `si`
+
+ඡන්දය භාවිත නොකර සිටීමෙන් හෝ එය කුරුටු ගෑමෙන් වැළකී, ඉදිරි මැතිවරණයේදී තම ඡන්දය ලබා දීමට ඡන්දපොළට පැමිණෙන ලෙස මැතිවරණ කොමිසමේ හිටපු සභාපති මහින්ද දේශප්‍රිය මහතා ඡන්දදායකයින්ගෙන් ඉල්ලීමක් කරයි.
+
+"ඡන්දය අපේ අයිතියයි, ඡන්දය අපේ බලයයි, ඡන්දය අපේ හඬයි, අපේ ඡන්දය රටේ අනාගතයයි. ඒක නිසා අපි ඇවිල්ලා ඡන්දේ දාන්න ඕනේ. ඒක මතක් කරලා දෙන එක තමයි අපි කරන්නේ. ඡන්දේ විතරයි අපිට තියෙන්නේ එකම දේ භේදයක් නැතිව නොලැබෙන මරණය ඇරුණාම. ඒක නිසා ඡන්දේ නොදා හිටියාම වෙන්නේ ඡන්ද දාන අයට වුවමනා පාලකයා එනවා පාලනය කර ගැනීමට. ඒ නිසා ඡන්දය කුරුටු ගාන්නවත්, නොදා ඉන්නවත් එපා ඡන්දේ දාන්න එන්න."
+
+◼️
+
+[Data](articles/687098b0.json)
+
+---
+
+### Saudi Arabian desert turned into winter wonderland for first time in history
+
+*2024-11-10 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103298/saudi-arabian-desert-turned-into-winter-wonderland-for-first-time-in-history) · `en`
+
+Rolling dunes, typically golden and sunbaked, lie transformed by snow and balls of ice – this is what a desert in Saudi Arabia looks like right now.
+
+It is the first time in history that the region of Al-Jawf, which lies at the northern edge of the Al-Nafūd desert, has experienced a snowfall.
+
+Footage shows the arid desert turned into an unexpected winter landscape, with the flakes still settling.
+
+A caravan of camels are seen treading cautiously on the layer of ice that covers the sand.
+
+People are shown getting out of their cars to capture the unprecedented weather.
+
+Temperatures in the Al-Nafūd desert could reach as high as 55°C  in places, so the sudden drop comes is a phenomenon.
+
+State media reported that heavy rainfall and hailstorms swept through parts of the Al-Jawf region on Monday.
+
+The United Arab Emirates National Centre of Meteorology attributed the unusual weather event to a low-pressure system moving from the Arabian Sea to Oman.
+
+...
+
+[Data](articles/db4b0873.json)
+
+---
+
+### Chunnakam police Attakasam
+
+*2024-11-10 12:16:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/சுன்னாகம்-பொலிஸார்-அட்டகாசம்/71-346871) · `ta`
+
+Chunnakam police assault case: Victim claims brutal beating, baby thrown away. Incident occurred during traffic stop after motorcycle crash. Police arrested husband, allegedly assaulted wife and infant. Lawyers intervened, supporting victims. Case to be brought to court.
+
+🟩
+
+The victim has accused the Chunnakam police of brutally assaulting the young mother and her husband, who threw away the baby and threw the baby.
+
+While the family was traveling in their vehicle in the Chunnakam area in Jaffna, their vehicle had been hit by a motorbike and crashed in front of the vehicle.
+
+While we were traveling in the vehicle, two people on a motorbike went out and crashed. Since they were in alcohol, we too had stopped the vehicle.
+
+Those who came in civil clothes had asked my husband's driver's permit and vehicle documents. You don't need to show it to you in civil clothes. He said that the traffic unit should be summoned to the site of the accident.
+
+Those who came in civil clothes were attacked by my husband.. They attacked me to prevent it and grabbed my two -month -old baby.
+
+Later, the police took the vehicle to the police station and arrested my husband.
+
+At the same time, lawyer Manivannan and Parthiban, who went to the scene, stood in favor of the affected parties.
+
+...
+
+[Data](articles/47142e00.json)
+
+[Extended Data](ext_articles/47142e00.ext.json)
+
+---
 
 ### General Election campaigning ends tomorrow
 
@@ -2257,81 +2327,5 @@ During the raid, a total of 58 suspects, all of whom are Sri Lankan citizens, we
 [Data](articles/0b5d78c8.json)
 
 [Extended Data](ext_articles/0b5d78c8.ext.json)
-
----
-
-### Ministry of Finance Anshirasing over the Norosalhe Company
-
-*2024-11-09 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203070) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-The Ministry of Finance denies allegations against Norosalhe Company. No actions have been taken against Limited Troops. Three terms protecting children and pregnant women remain effective.
-
-🟩
-
-The Ministry of Finance has issued a statement regarding certain news published in the Tharaotic Firm.
-
-It states that no action has been taken to libilize the Limited Troops.
-
-The three terms of children and pregnant mothers have been in force in the more effectiveness.
-
-◼️
-
-[Data](articles/93424a68.json)
-
-[Extended Data](ext_articles/93424a68.ext.json)
-
----
-
-### Damage to DS Senanayake College, Kandy
-
-*2024-11-09 15:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/198261) · `ta`
-
-DS Senanayake College Kandy: Mudslides caused classroom damage due to heavy rains. 27 classrooms at risk. Principal warns of potential further damage. Authorities informed. Educational activities suspended until further notice.
-
-🟩
-
-Several classrooms have been damaged when the mudslides collapsed on TS Senanayake College, Kandy.
-
-The incident was due to heavy rains that hit last Friday night.
-
-Thus 27 more classrooms are currently at high risk. This includes the initial section classrooms. The principal of the school, Ananda Upadissa, said that heavy rains could cause more damage to the classrooms on Saturday night (09).
-
-The Chancellor said that all officials, including the Governor of the Central Province, have been informed about the existing risk.
-
-The Chancellor has stated that the school's educational activities will be carried out on the instructions of the authorities from next Monday.
-
-◼️
-
-[Data](articles/3308d23d.json)
-
-[Extended Data](ext_articles/3308d23d.ext.json)
-
----
-
-### Shooting near the Lotus Tower
-
-*2024-11-09 14:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203069) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Shooting incident occurred during concert near Lotus Tower. Limited details available as investigation ongoing."
-
-🟩
-
-A shooting was shot in a concert held near the Lotus Tower yesterday.
-
-It is reported that information has been revealed so far, reports say.
-
-◼️
-
-[Data](articles/b744fa9d.json)
-
-[Extended Data](ext_articles/b744fa9d.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 18:59:10**
+As of **2024-11-10 19:09:55**
 
 ## Newspaper Stats
 
-*Scraped **54,041** Articles*
+*Scraped **54,042** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,047
+adalk | 5,048
 adaderanalk | 6,449
 tamilmirrorlk | 7,546
 virakesarilk | 8,760
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,428
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,041 (100.0%) of 54,041 articles have been extended.
+54,042 (100.0%) of 54,042 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -179,6 +179,48 @@ Rosie Senanayake opposes removing 225 MPs, citing corruption. She argues against
 [Data](articles/082c4665.json)
 
 [Extended Data](ext_articles/082c4665.ext.json)
+
+---
+
+### Steps from the Commission to reassure the ballot boxes
+
+*2024-11-10 16:38:22* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පෙට්ටි-මාරු-කිරීමේ-සැක-දුරුකරන්න-කොමිෂන්-සභාවෙන්-පියවර/11-412951) · `si`
+
+Elections Commission reassures ballot box security:
+
+
+
+1. Allows delegation from last police checkpoint to count votes.
+
+2. Not mandatory for all candidates.
+
+3. Counting agents can request representatives from last police post.
+
+4. Original cup seals randomly signed by randomly selected polling hall.
+
+5. Transparent bags used for ballot containers.
+
+
+
+This summary captures the key points about the Commission's measures to ensure ballot box integrity in 200 characters.
+
+🟩
+
+The Elections Commission has said that some of the parties have taken several steps in the parliamentary election regarding the ballot boxes after a polling.
+
+According to the voter after the polls, the Elections Commission has decided to allow the delegation from the last police checkpoint from the polling roll to the counting of the polls.
+
+The Elections Commission states that the requests are not practiced for all the election candidates of all contesting candidates.
+
+In addition, the Commission says that the counting agents from the last police post will be able to demand their counting representatives from the last police post.
+
+In addition, the original copy of the cups were randomly signed by the randomly selected polling hall and the number of copies of the formation of the ballot boxes in the sealing of the ballot boxes.The Elections Commission says that the tract container is transparent bag and locks a transparent bag.
+
+◼️
+
+[Data](articles/229db7c0.json)
+
+[Extended Data](ext_articles/229db7c0.ext.json)
 
 ---
 
@@ -2323,29 +2365,5 @@ After the autopsy, the body was placed in the funeral room of the Karapitiya Hos
 [Data](articles/8244f877.json)
 
 [Extended Data](ext_articles/8244f877.ext.json)
-
----
-
-### Qatar suspends role as mediator between Israel and Hamas
-
-*2024-11-10 07:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103287/qatar-suspends-role-as-mediator-between-israel-and-hamas) · `en`
-
-Qatar has suspended its work as a mediator in ceasefire and hostage release talks between Israel and Hamas, officials say.
-
-The country said it would resume its work when Hamas and Israel “show their willingness” to negotiate.
-
-It comes after senior US officials reportedly said Washington would no longer accept the presence of Hamas representatives in Qatar, accusing the Palestinian group of rejecting fresh proposals for an end to the war in Gaza.
-
-Qatar said initial reports it had withdrawn from mediation talks and said that Hamas’s political office in Doha “no longer serves its purpose” were “inaccurate”.
-
-“Qatar notified the parties 10 days ago during the last attempts to reach an agreement, that it would stall its efforts to mediate between Hamas and Israel if an agreement was not reached in that round,” a statement from the Qatari foreign ministry said.
-
-“Qatar will resume those efforts... when the parties show their willingness and seriousness to end the brutal war.”
-
-...
-
-[Data](articles/f8fc62b9.json)
-
-[Extended Data](ext_articles/f8fc62b9.ext.json)
 
 ---

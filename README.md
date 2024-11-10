@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 06:12:33**
+As of **2024-11-10 06:46:06**
 
 ## Newspaper Stats
 
@@ -26,29 +26,35 @@ adaderanasinhalalk | 9,407
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,919 (100.0%) of 53,931 articles have been extended.
+53,921 (100.0%) of 53,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
 
-### ප්‍රදේශ කිහිපයකට තරමක තද වැසි
+### Heavy rains in several areas
 
 *2024-11-10 06:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203087) · `si`
 
-උතුරු සහ උතුරු-මැද පළාත්වලත් ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් අද (10) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy rains hit North, East, and South. Thunderstorms expected in central regions. Public advised to be cautious due to strong winds and lightning.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ,  මධ්‍යම, ඌව සහ දකුණු පළාත්වල ස්ථාන ස්වල්පයක සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+🟩
 
-එමෙන්ම යාපනය, කිලිනොච්චි, මුලතිව් සහ ත්‍රිකුණාමලය දිස්ත්‍රික්කවල ඇතැම් ස්ථානවලට මි.මී. 50ක පමණ තරමක තද වැසි ඇතිවේ.
+Several spells of the North and the North and the North were affected by the Trincomalee district today (10).
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+Showers or thundershowers will occur at several places in the middle, Uva and Southern provinces.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+And mm in Jaffna, Kilinochchi, Mullaitivu and Trincomalee districts. Strong showers are about 50.
+
+The Department of Meteorology announces that in some places in the Western, Sabaragamuwa, Central and Matara districts, the Met Department said.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7be232fd.json)
+
+[Extended Data](ext_articles/7be232fd.ext.json)
 
 ---
 
@@ -79,6 +85,8 @@ Senior public officials have often to act as buffers between ministers, other im
 ...
 
 [Data](articles/b80335ab.json)
+
+[Extended Data](ext_articles/b80335ab.ext.json)
 
 ---
 

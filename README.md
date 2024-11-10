@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 11:10:40**
+As of **2024-11-10 11:24:55**
 
 ## Newspaper Stats
 
-*Scraped **53,960** Articles*
+*Scraped **53,973** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,201 @@ islandlk | 3,230
 economynextcom | 3,275
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,037
-adaderanalk | 6,437
-tamilmirrorlk | 7,533
-virakesarilk | 8,729
-adaderanasinhalalk | 9,414
+adalk | 5,038
+adaderanalk | 6,439
+tamilmirrorlk | 7,538
+virakesarilk | 8,733
+adaderanasinhalalk | 9,415
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,960 (100.0%) of 53,960 articles have been extended.
+53,971 (100.0%) of 53,973 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### ஒன்லைன் பணமோசடியில் ஈடுபட்ட நிறுவனம்;59 பேர்கைது
+
+*2024-11-10 11:17:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பணமோசடியில்-ஈடுபட்ட-நிறுவனம்-59-பேர்கைது/175-346866) · `ta`
+
+வெளிநாட்டு பிரஜைகளைக் குறிவைத்து நடாத்தப்பட்டு வந்த பெரும் ஒன்லைன் நிதி மோசடி ஒன்றை குற்றப் புலனாய்வுத் திணைக்களத்தின் (சிஐடி) சைபர் கிரைம் பிரிவு கண்டுபிடித்துள்ளதுடன் குறித்த மோசடிகளை நடாத்திய நிறுவனத்தின் இரண்டு தலைவர்கள் உட்பட 59 நபர்களையும் கைது செய்துள்ளது.
+
+சந்தேகநபர்கள் கடந்த வெள்ளிக்கிழமை (08) கொழும்பில் வைத்து கைது செய்யப்பட்டுள்ளதுடன் வெளிநாட்டு பிரஜைகளிடமிருந்து குறித்த குழு சுமார் ரூ.300 மில்லியன் வரை மோசடி செய்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+உறுதியளித்து உள்ளுர் நிறுவனம் ஒன்று கொரிய பிரஜை ஒருவரிடம் ரூ.300 மில்லியன் பணமோசடி செய்துள்ளதாக தென் கொரியத் தூதரகம் முறைப்பாடொன்றைப் பதிவு செய்ததன் பின்னர் சம்பவம் தொடர்பில் விசாரணைகள் ஆரம்பமாகியுள்ளன.
+
+ஹெவ்லொக் வீதியிலுள்ள சொகுசு அடுக்குமாடி குடியிருப்பில் இருந்து இந்த மோசடி நடத்தப்பட்டதாக விசாரணையில் தெரியவந்துள்ளதுடன் அங்கு 23 பெண்கள் உட்பட 59 இலங்கையர்களை அதிகாரிகள் கைது செய்தனர்.
+
+...
+
+[Data](articles/9085a445.json)
+
+---
+
+### பட்டாசு கொளுத்தியவர் கைது
+
+*2024-11-10 11:16:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பட்டாசு-கொளுத்தியவர்-கைது/76-346865) · `ta`
+
+பட்டாசுகளை கொளுத்தினார் என்றக் குற்றச்சாட்டின் பேரில், ஒருவரை ஹட்டன் பொலிஸார்,சனிக்கிழமை (09)​கைது செய்தனர்.
+
+தேர்தல் விதிமுறைகளை மீறி பட்டாசு கொளுத்தி,  பெருந்திரளான மக்களுடன் துண்டுப் பிரசுரங்களை விநியோகித்த ஜனநாயக ஆதரவு மக்கள் குரல் கட்சியின் வேட்பாளர் அனுஷா சந்திரசேகரன் மற்றும் பலருக்கும்
+
+பொலிஸார் எச்சரித்தனர். சனிக்கிழமை (09) இடம்பெற்ற இந்த சம்பவத்தை அடுத்து பட்டாசை கொளுத்தினர் என்றக் குற்றச்சாட்டின் பேரில் ஒருவரை ஹட்டன் பொலிஸார் கைது செய்தனர்.
+
+◼️
+
+[Data](articles/8b6fc125.json)
+
+---
+
+### Attack on journalist
+
+*2024-11-10 11:00:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஊடகவியலாளர்-மீது-தாக்குதல்/71-346864) · `ta`
+
+Journalist attacked in Kopay area. Incident occurred Sunday morning. Unidentified assailants involved. Complaint filed at Kopay police station. Victim hospitalized.
+
+🟩
+
+Yall. A journalist in the Kopay area has been attacked by unidentified persons.
+
+The incident took place on Sunday morning (10) when a journalist was traveling near Kopay junction.
+
+A complaint has been lodged at the Kopay police station and the attacker Jaffna Jaffna. It is noteworthy that the teaching hospital has been admitted to the hospital.
+
+◼️
+
+[Data](articles/1588df3b.json)
+
+[Extended Data](ext_articles/1588df3b.ext.json)
+
+---
+
+### Illegally assembled Defender seized in Pallekele
+
+*2024-11-10 11:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103295/illegally-assembled-defender-seized-in-pallekele) · `en`
+
+Police have seized a suspicious Land Rover Defender discovered at a residence in Pallekele, Kandy.
+
+Upon inspection, the vehicle was found to be unregistered, with both its chassis and engine numbers missing, confirming that it had been assembled illegally, the police said.
+
+The homeowner, a 48-year-old, has been arrested for possession of the illegally assembled vehicle.
+
+◼️
+
+[Data](articles/6178d22b.json)
+
+[Extended Data](ext_articles/6178d22b.ext.json)
+
+---
+
+### Defense Secretary to visit Arugam
+
+*2024-11-10 10:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203095) · `si`
+
+Defense Secretary Air Vice Marshal Retired visits Arugambay to assess security situation.
+
+🟩
+
+Defense Secretary Air Vice Marshal (Retired) - Resources Resources (Pension) - Tyiyakantha visited Arugambay.
+
+The Ministry of Defense states that he will visit these days to investigate the security situation.
+
+◼️
+
+[Data](articles/e6b3ba2a.json)
+
+[Extended Data](ext_articles/e6b3ba2a.ext.json)
+
+---
+
+### The 10th Parliament is the lowest 10th Parliament
+
+*2024-11-10 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198302) · `ta`
+
+Here's a 200-character summary:
+
+
+
+The 10th Parliament aims to provide limited relief. Rural Sinhalese, struggling financially, eagerly anticipate voting for national power. Their support stems from pride in having a rural Sinhala representative. Former admiration for Ranasinghe Premadasa has shifted to Anura.
+
+🟩
+
+Trying to provide relief in small quantities. This is the reason why the rural Sinhalese people living below the poverty line are keen to vote for the power of the national people in the upcoming parliamentary elections with great anticipation.. They have nothing to say except for the pride that a rural Sinhala youth has been sitting on a seat. The love of the rural Sinhalese people at that time on Ranasinghe Premadasa has now turned to Anura.
+
+◼️
+
+[Data](articles/745c94f0.json)
+
+[Extended Data](ext_articles/745c94f0.ext.json)
+
+---
+
+### Defence Secretary inspects security situation in Arugam Bay
+
+*2024-11-10 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103294/defence-secretary-inspects-security-situation-in-arugam-bay) · `en`
+
+Defence Secretary Air Vice Marshal (Retired) Sampath Thuyacontha is currently on a visit to the Arugam Bay area to inspect the prevailing security situation, the Defence Ministry said.
+
+◼️
+
+[Data](articles/48489d08.json)
+
+[Extended Data](ext_articles/48489d08.ext.json)
+
+---
+
+### "I will investigate the killings of Tajuddin Lasantha"
+
+*2024-11-10 10:47:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாஜுதீன்-லசந்தவின்-கொலைகள்-குறித்து-விசாரணை-நடத்துவேன்/175-346862) · `ta`
+
+President Anura Kumara Dissanayake vows to investigate killings of journalists Tajuddin and Wickrematunge, disappearance of Eknaligoda, promising justice and ending political violence.
+
+🟩
+
+President Anura Kumara Dissanayake has said that the government will investigate those responsible for the killings of Wasim Tajuddin and Lasantha Wickrematunge and the disappearance of Pradeep Eknaligoda.
+
+Speaking at a rally in Dambulla, he said that the government would end the era of the killing of innocent people by political power and that everyone's lives were valued.
+
+“We will end the era of all the killings used by political power. No one responds to the killings of Vasim Tajuddin and Lasantha Wickrematunge and Eknaligoda disappeared.. We will put the criminals who killed innocent people before the law. ”He promised to create an environment without fear.
+
+◼️
+
+[Data](articles/cee1855e.json)
+
+[Extended Data](ext_articles/cee1855e.ext.json)
+
+---
+
+### Mother and daughter arrested in Katunayake with cigarettes
+
+*2024-11-10 10:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198299) · `ta`
+
+Mother-daughter duo arrested at Katunayake airport with foreign cigarettes. Police seize 78,200 cigarettes worth Rs. 391. To appear in court on 13th.
+
+🟩
+
+The mother and daughter have been arrested at the Katunayake airport with foreign cigarettes worth Rs.
+
+They were arrested by a group of police narcotics officers on Saturday (09).
+
+A 61 -year -old mother and a 38 -year -old daughter of Gampola have been arrested.
+
+The two arrived from Dubai at around 5 pm yesterday, police said.
+
+391 cigarette cartoons, containing 78,200 cigarettes made of "platinum" abroad from the suspects' travel packages, were seized by the police officials.
+
+In addition, the suspects will be produced at the Negombo Magistrate's Court on the 13th of this month with the seized cigarettes, police said.
+
+◼️
+
+[Data](articles/439278c9.json)
+
+[Extended Data](ext_articles/439278c9.ext.json)
+
+---
 
 ### Woman murdered with garden hoe in Echchankulam
 
@@ -47,6 +227,24 @@ Echchankulam Police are conducting further investigations to apprehend the indiv
 [Data](articles/81e07abf.json)
 
 [Extended Data](ext_articles/81e07abf.ext.json)
+
+---
+
+### Sri Lanka's disaster in March 2025: 17 billion International Credit Payment Relief - Nimal Lansa Special
+
+*2024-11-10 10:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198298) · `ta`
+
+Sri Lanka receives $17B loan relief from IMF in March 2025. Ranil Wickremesinghe gets debt forgiveness. IMF confirms Sri Lanka's ability to repay loans. Other countries agree to provide financial assistance based on this confirmation.
+
+🟩
+
+While Ranil Wickremesinghe received debt relief, the IMF guaranteed the country's economic growth status for Sri Lanka. World countries and other shareholders have given us a loan relief of 17 billion on the basis of the Monetary Fund confirming that Sri Lanka is in a position to repay the loan. Therefore, if those countries and shareholders feel that Sri Lanka is unable to pay the loan, they will not sign the agreement.
+
+◼️
+
+[Data](articles/10223fd1.json)
+
+[Extended Data](ext_articles/10223fd1.ext.json)
 
 ---
 
@@ -76,6 +274,26 @@ The arrested was a 48 year old resident of the Jayasiri Uyana Pallekele area.
 
 ---
 
+### Gunfire at Lotus Tower Complex: One injury
+
+*2024-11-10 10:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுர-வளாகத்தில்-துப்பாக்கிச்சூடு-ஒருவர்-காயம்/175-346859) · `ta`
+
+Gunfire at Lotus Tower: Security guard hurt. Unidentified shooter targets officer during concert. Victim hospitalized.
+
+🟩
+
+The Maradana police said that an unidentified person fired at the security officer during the music concert at the Lotus Tower complex.
+
+A 29 -year -old security officer who was injured in the shooting has been admitted to the Colombo National Hospital.
+
+◼️
+
+[Data](articles/3ab09e89.json)
+
+[Extended Data](ext_articles/3ab09e89.ext.json)
+
+---
+
 ### Duplicate at Lotus Tower Complex: One injury
 
 *2024-11-10 10:09:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாமரை-கோபுர-வளாகத்தில்-துப்பாக்ச்சசூடு-ஒருவர்-காயம்/175-346859) · `ta`
@@ -93,6 +311,24 @@ A 29 -year -old security officer who was injured in the shooting has been admitt
 [Data](articles/8d1fee51.json)
 
 [Extended Data](ext_articles/8d1fee51.ext.json)
+
+---
+
+### Is the Tamil party close to the party?
+
+*2024-11-10 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198295) · `ta`
+
+Tamil National Alliance (TNA) maneuvering causes current situation
+
+🟩
+
+The continuation of the maneuvering of the Tamil National Alliance (TNA) is the reason for the current state of the TNA ”
+
+◼️
+
+[Data](articles/f250801a.json)
+
+[Extended Data](ext_articles/f250801a.ext.json)
 
 ---
 
@@ -231,6 +467,28 @@ The central bank also allowed the exchange rate to appreciate amid balance of pa
 [Data](articles/8e3605e8.json)
 
 [Extended Data](ext_articles/8e3605e8.ext.json)
+
+---
+
+### Vijitha Days to Finish Rambukkana work from the Central Expressway
+
+*2024-11-10 09:02:56* · [`adalk`](https://www.ada.lk/breaking_news/මධ්‍යම-අධිවේගයේ-පොතුහැර-සිට-රඹුක්කන-වැඩ-අවසන්-කරන්න-ඇමති-විජිත-දින-දෙයි/11-412941) · `si`
+
+Minister Vijitha Herath inspects Central Expressway section from Puthuhera to Rambukkana. Work progress reported, future timeline set, and obstacles resolved under her guidance.
+
+🟩
+
+Work on the section of the Central Expressway has been inspected by the Ministry of Road Vijitha Herath, from Puthuhera to Rambukkana.
+
+The Minister was instructed to prevent the time of the next year.
+
+The Minister also addressed the obstacles and the obstacles have ended on his intervention.
+
+◼️
+
+[Data](articles/d10da23c.json)
+
+[Extended Data](ext_articles/d10da23c.ext.json)
 
 ---
 
@@ -2037,321 +2295,5 @@ The suspect has been handed over to the Mannar police station for further invest
 [Data](articles/e1e24201.json)
 
 [Extended Data](ext_articles/e1e24201.ext.json)
-
----
-
-### Lots of information about 58 trapped in Wellawatte
-
-*2024-11-09 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203067) · `si`
-
-CID arrests 58 suspects in Wellawatte raid; case to be presented in court today. Police investigation reveals fraud scheme targeting Sri Lankan citizens and foreigners.
-
-🟩
-
-The Criminal Investigations Department (CID) has revealed more than 58 suspects in Wellawatte yesterday (08).
-
-The suspects are to be produced before the Colombo Magistrate's Court today (09).
-
-The Criminal Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit arrested the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Unit of the Criminal Investigation Department.
-
-The police raided the site and 58 suspects were arrested by the investigators and the police said they were all Sri Lankans.
-
-Deputy Minister of Police Media Spokesperson DIG Talduwa, speaking to this,
-
-"The complaint was found at the Foreign Embassy in Sri Lanka. The money of a Korean in Korean. If you take Sri Lanka in Sri Lanka, it has been cheated for nearly Rs.
-
-"This place was rounded yesterday. The place has been maintained as a monthly rent more than Rs. 90 million. "
-
-...
-
-[Data](articles/f537ba18.json)
-
-[Extended Data](ext_articles/f537ba18.ext.json)
-
----
-
-### In the Prison
-
-*2024-11-09 13:37:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறைச்சாலைக்குள்-பொடி-லெசி-இன்-அலைபேசி-மீட்பு/175-346826) · `ta`
-
-Prison contraband: Phone, tools found in inmate's cell. Police seize items for investigation.
-
-🟩
-
-The mobile phone and many equipment have been found from the jail complex of Janit Madushanga, known as Powder Lazi, detained in Pussa High Security Prison.
-
-A team of Special Task Force officers has gone to the spot to urgently inspect the cell number 42 of the Special Division of the Powder Lassie.
-
-The Special Task Force said that Powder Lazi was thrown into the back window of the cell phone and subcutaneous instruments in his belongings.
-
-Accordingly, police Special Task Force officers have seized equipment including telephone 1, charger 1, data cable and 01 hand free.
-
-Police Special Task Force said that the equipment banned for further investigations has been handed over to the Pussy Prison authorities.. Those
-
-◼️
-
-[Data](articles/e881f563.json)
-
-[Extended Data](ext_articles/e881f563.ext.json)
-
----
-
-### Small Lazi cell comprine finds mobile phones and devices
-
-*2024-11-09 13:32:00* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ලැසීගේ-සිර-මැදිරියෙන්-ජංගම-දුරකතන-හා-උපාංග-සොයා-ගනියි/11-412937) · `si`
-
-Here's a 200-character summary:
-
-
-
-STF arrests suspect with mobile phones and equipment near prison. Police struggle behind bars. Equipment found in prisoner's cell.
-
-🟩
-
-Police have arrested a new mobile phone and a large number of equipment in the busherassabs were using a large number of equipment, police struggled at the back of the prison.Special Task Force says.
-
-According to the STF, the cells of the prison, which was used by the Basic Prison Base camp, according to the police STF officer in information received by the Basa Prison Base camp.
-
-◼️
-
-[Data](articles/2152ad32.json)
-
-[Extended Data](ext_articles/2152ad32.ext.json)
-
----
-
-### Bomb attack at train station: 24 killed
-
-*2024-11-09 13:26:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ரயில்-நிலையத்தில்-குண்டு-தாக்குதல்-24-பேர்-பலி/50-346825) · `ta`
-
-Bomb explosion at Quetta Railway Station kills 24, injures 40. Blast occurred on platform as train approached. Investigation ongoing.
-
-🟩
-
-About 24 people were killed and 40 injured in a bomb blast at Quetta Railway Station in Pakistan this morning.
-
-Preliminary inquiries revealed that the bomb exploded on the platform just before a train arrived at the platform.
-
-The Jaffer Express from Peshawar was to arrive at exactly 9 o'clock. However, if the train arrived at that time, the number of casualties would have increased.
-
-“The attack may have been carried out by the suicide force. But, before that end can come to that end. Investigations are underway to learn how the blast took place. There were about 100 people at the train station during the blast, ”Quetta police said.
-
-◼️
-
-[Data](articles/9faa4861.json)
-
-[Extended Data](ext_articles/9faa4861.ext.json)
-
----
-
-### Compulsory freeze in Pakistan
-
-*2024-11-09 13:17:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/பாகிஸ்தானில்-கட்டாய-முடக்கம்-அமுல்/50-346824) · `ta`
-
-Pakistan faces severe air pollution crisis. Smoke levels exceed 2,000, prompting government to close parks and museums until Nov 17. Situation remains critical in Punjab region.
-
-🟩
-
-In Pakistan, air pollution is uncontrollable. Smoke continues to deteriorate in Pakistan's Punjab.
-
-In this case, yesterday morning, the wind standard index worsened beyond the level of 2,000. This made the city a smoke.
-
-Thus, until November 17, the government has ordered the closure of parks and museums.
-
-◼️
-
-[Data](articles/151707dc.json)
-
-[Extended Data](ext_articles/151707dc.ext.json)
-
----
-
-### Sri Lanka's political difference is from Dilith
-
-*2024-11-09 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203066) · `si`
-
-Sri Lanka's political landscape shifts as Dilith Jayarawara leads entrepreneurial efforts. He emphasizes grassroots support and a wide network for upcoming elections.
-
-🟩
-
-The Leader of the Entrepreneering Dilith Jayarawara says that the people have given the opportunity to choose the political change in Sri Lanka.
-
-Mr. Dilith Jayaweera addressing the Galle district meeting held today (09) at the General Elections at the General Election.
-
-"We have taken this opportunity for less than a year. When we come to the presidential election, we do not know even a group of Grama Sevaka. We can work with a large base, a widespread network.
-
-"We are contesting the 22 districts. The good lists have been left with everywhere. You have made the opportunity to make Sri Lanka's political change. "
-
-◼️
-
-[Data](articles/80634394.json)
-
-[Extended Data](ext_articles/80634394.ext.json)
-
----
-
-### Medical Advisory expert at Kantalai Hospital
-
-*2024-11-09 13:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198248) · `ta`
-
-Ministry of Health urgently appoints medical consultant due to surgery team shortage. Current consultant on leave without reason, affecting emergency care. Dr. Sivamayuran named interim consultant. Hospital struggles to provide essential services.
-
-🟩
-
-The Ministry of Health has issued an urgent request to the Ministry of Health to immediately appoint a medical consultant.
-
-In this case, the Deputy Director of the Medical Services PN. In a letter sent to the Ministry of Health, the Elderly Request.
-
-The hospital's current surgery medical consultant has been on a sick holiday for two consecutive days without submitting appropriate medical reasons.
-
-This has severely affected the surgery unit in the hospital. The emergency patients have been sent to the District General Hospital in Trincomalee.
-
-In this case, Dr. Sivamayuran has been appointed as the Deputy Institute of Medical Consultant by the Ministry of Health.
-
-Permanent Advisor appointed to the Hospital has not yet been accompanied by a surgery expert. He said that this has created a gap in the functioning of the hospital to provide essential medical services.
-
-◼️
-
-[Data](articles/9e17b70c.json)
-
-[Extended Data](ext_articles/9e17b70c.ext.json)
-
----
-
-### The flight to Melbourne canceled
-
-*2024-11-09 13:08:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மெல்போர்னுக்கு-செல்லவிருந்த-விமானம்-இரத்து/175-346823) · `ta`
-
-SriLankan Airlines cancels Melbourne-bound flight due to technical issues. 290 passengers affected. Some rerouted, others accommodated in hotels pending rescheduling.
-
-🟩
-
-SriLankan Airlines, which was on its way to Melbourne, Australia with 290 passengers, has been greatly affected.
-
-When contacted by SriLankan Airlines, the plane was canceled due to technical failure.
-
-Following this, the company said that the passengers who wanted to go to Melbourne were returned to a different plane.
-
-The remaining passengers have been sent to hotels and they will be sent to Melbourne as soon as possible, SriLankan Airlines further said. Those
-
-◼️
-
-[Data](articles/4f888267.json)
-
-[Extended Data](ext_articles/4f888267.ext.json)
-
----
-
-### Iran's conspiracy to kill Trump - US
-
-*2024-11-09 13:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/198253) · `ta`
-
-US accuses Iran of plotting to kill Trump before election. DOJ issues arrest warrant for Burhad Saheri. Trump resides in Iran according to US claims.
-
-🟩
-
-The US has accused Donald of trying to assassinate Donald Trump before the US presidential election.
-
-The US Department of Justice has issued a plan to assassinate Trump.
-
-The United States has said that he is residing in Iran, saying that Burhad Saheri has not yet been arrested.
-
-◼️
-
-[Data](articles/b7497c43.json)
-
-[Extended Data](ext_articles/b7497c43.ext.json)
-
----
-
-### 2 sets for 12 percent Muslims?Think of Tamils ​​- K.Sabasan request
-
-*2024-11-09 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198251) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil VP LTTE criticizes Muslim-Sinhalese representation in Vanni elections. 80% Tamils, 8-12% Muslims, 8% Sinhalese. Urges careful voting, cites lack of inter-ethnic support. Tamil women campaign alone, party struggles to attract members.
-
-🟩
-
-8-12 percent Muslim people in Vanni get 2 parliamentary seats. The 80 percent of Tamils ​​are being deceived for a long time, said the Vice President of the Liberation Tigers of Tamil Eelam (LTTE).
-
-He was speaking to the media today (09) in Vavuniya.
-
-Tamils ​​in Vanni today have to face a massive problem. No politicians who say that we are working for the people about it.
-
-There are 8-12 percent Muslims and 8 percent Sinhalese in the Vanni-election district. 80 percent are Tamils. In this situation, it is reported by many that the JHU will win 2,3 seats.
-
-Rishad Bathiudeen contests every year in every party. Many Muslims compete. Likewise, Muslims are competing in the power of the national people.
-
-Muslim parties with fewer votes have the opportunity to get 2 seats. The Tamils ​​should vote very carefully. We should not be a side of time.
-
-...
-
-[Data](articles/67df2077.json)
-
-[Extended Data](ext_articles/67df2077.ext.json)
-
----
-
-### Elpitiya chairman and appointed Vice President
-
-*2024-11-09 12:25:48* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්පිටිය-සභාපති-හා-උප-සභාපති-පත්කරයි/11-412936) · `si`
-
-Elpitiya Pradeshiya Sabha appoints new Chairman: Vampoda Pathiith Sumith Chandana replaces Nishantha Perera, former member of Southern Provincial Council.
-
-🟩
-
-The appointment of the Elpitiya Pradeshiya Sabha is the new Chairman of the Elpitiya Pradeshiya Sabha, Vampoda Pathiith Sumith Chandana, Vagoda Pathirage Sumith Chandana.
-
-Nishantha Perera has previously been a member of the Elpitiya Pradeshiya Sabha and a member of the Southern Provincial Council. Mr. Sumith Chandana is a new Pradeshiya Sabha member.
-
-◼️
-
-[Data](articles/b0b25392.json)
-
-[Extended Data](ext_articles/b0b25392.ext.json)
-
----
-
-### Sluice gates opened at Polgolla Reservoir in Kandy
-
-*2024-11-09 12:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103276/sluice-gates-opened-at-polgolla-reservoir-in-kandy) · `en`
-
-Two sluice gates of the Polgolla Reservoir in Kandy have been opened following heavy rainfall.
-
-The engineer on duty at the Sri Lanka Mahaweli Authority confirmed that the two sluice gates were opened by one meter each.
-
-The Mahaweli Authority further stated that approximately 140 cubic meters of water per second is being released into the Victoria Reservoir from each sluice gate.
-
-◼️
-
-[Data](articles/e1e7e0ab.json)
-
-[Extended Data](ext_articles/e1e7e0ab.ext.json)
-
----
-
-### Another luxury vehicle recovery
-
-*2024-11-09 12:16:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வாகனம்-மீட்பு/175-346822) · `ta`
-
-Luxury vehicle seized in Negombo: No license plate found. Owner claims it was shipped from abroad via brother. Preliminary investigation links to local businessman.
-
-🟩
-
-The Criminal Investigation Department of the Negombo Police said that a luxury vehicle with no digit in the Negombo, Themangsandi area has been seized.
-
-The owner of the vehicle told the police that the luxury vehicle had been sent to him through his brother abroad.
-
-Preliminary investigations have revealed that the luxury vehicle has been supplied by a famous businessman.
-
-◼️
-
-[Data](articles/cfdad325.json)
-
-[Extended Data](ext_articles/cfdad325.ext.json)
 
 ---

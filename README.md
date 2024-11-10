@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-10 08:45:20**
+As of **2024-11-10 08:59:49**
 
 ## Newspaper Stats
 
-*Scraped **53,946** Articles*
+*Scraped **53,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,230
 economynextcom | 3,272
 dailyftlk | 3,687
 dailymirrorlk | 4,733
-adalk | 5,035
-adaderanalk | 6,432
+adalk | 5,036
+adaderanalk | 6,433
 tamilmirrorlk | 7,532
 virakesarilk | 8,729
 adaderanasinhalalk | 9,411
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,411
 
 Extensions include translations and NER (Named Entity Recognition).
 
-53,928 (100.0%) of 53,946 articles have been extended.
+53,928 (100.0%) of 53,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-10 (Sunday)
+
+### Woman killed after being hit by train in Hikkaduwa
+
+*2024-11-10 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103289/woman-killed-after-being-hit-by-train-in-hikkaduwa) · `en`
+
+A 66-year-old woman was killed after being hit by a train at an unprotected railway crossing on Amarasena Mawatha in Hikkaduwa.
+
+The accident occurred last evening (09) as the train was traveling from Galle to Aluthgama.
+
+The victim, identified as a resident of Walpitimulla in the Dewalapola area, was transported to the Karapitiya Hospital, where a post-mortem was conducted.
+
+The body is currently being held in the hospital mortuary. Hikkaduwa Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/01af62e8.json)
+
+---
 
 ### IMF delegation to visit Sri Lanka next week
 
@@ -762,6 +780,20 @@ The US Justice Department in a statement said the Islamic Revolutionary Guard Co
 
 ---
 
+### ත්‍රීපෝෂ සමාගම ගැන රජයේ ස්ථාවරය කියයි
+
+*2024-11-09 20:18:24* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රීපෝෂ-සමාගම-ගැන-රජයේ-ස්ථාවරය-කියයි/11-412939) · `si`
+
+ශ්‍රී ලංකා ත්‍රිපෝෂ සමාගම ඇවර කිරිමට රජය කිසිම තිරණයක් ගෙන නොමැති බව මුදල් අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+ගැබිණි මව්වරුන්ට හා බිළිඳුන් වෙනුවෙන් ත්‍රිපෝෂ ලබාදිම අඛණ්ඩව සිදුකරන බවත්  සමාගම වඩාත් ශක්තිමත් කිරිමට කටයුතු කරන බවත් එම නිවේදනයේ දැක්වෙයි.
+
+◼️
+
+[Data](articles/92167926.json)
+
+---
+
 ### Dilith is ready to take over any challenge - Dilith
 
 *2024-11-09 20:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203083) · `si`
@@ -1022,7 +1054,7 @@ Sri Lanka and New Zealand will be held today (09) at Dambulla today (09).
 
 ---
 
-### Sri Lanka consumer good firms in aggressive price cuts amid appreciating rupee: Hemas
+### Sri Lanka consumer good firms in aggressive price cuts as rupee appreciates: HHL
 
 *2024-11-09 18:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-good-firms-in-aggressive-price-cuts-amid-appreciating-rupee-hemas-186707/) · `en`
 
@@ -2253,47 +2285,5 @@ He was speaking at the election propaganda meeting in Vadamarachchi East.
 [Data](articles/db66b8a6.json)
 
 [Extended Data](ext_articles/db66b8a6.ext.json)
-
----
-
-### Red notice of heavy rains
-
-*2024-11-09 09:52:42* · [`adalk`](https://www.ada.lk/breaking_news/තද-වැසි-පිළිබඳව-කාලගුණයෙන්-රතු-නිවේදනයක්/11-412935) · `si`
-
-Heavy rain warning: Red alert issued by Meteorology Department. Favorable conditions expected afternoon onwards. Announcement valid for 24 hours.
-
-🟩
-
-Intensive red announcement from the Department of Meteorology has issued a warning of the Department of Meteorological. Accordingly, a favorable atmosphere is being created in the afternoon and at the end of the afternoon.. The announcement was issued this morning will be valid for a 24-hour period.
-
-◼️
-
-[Data](articles/3a81b2eb.json)
-
-[Extended Data](ext_articles/3a81b2eb.ext.json)
-
----
-
-### Revealed about the people who died in Gaza
-
-*2024-11-09 09:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203060) · `si`
-
-UN reports: 70% Gaza victims women/children; 43,300+ dead in 13 months; 44% children, 26% women; 80% deaths from housing attacks.
-
-🟩
-
-The United Nations says that 70 percent of the deceased are women and children in the clashes on Gaza.
-
-The UNHRC office points out that more than 43,300 people have been killed in the Gazaka over the past 13 months.
-
-44% of them are children and 26 percent are women.
-
-The United Nations's Human Rights Office points out that 80 percent of the total deaths have occurred due to the attacks on the housing complexes and home.
-
-◼️
-
-[Data](articles/ea482a79.json)
-
-[Extended Data](ext_articles/ea482a79.ext.json)
 
 ---

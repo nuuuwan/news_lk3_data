@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 12:40:26**
+As of **2024-11-11 12:59:27**
 
 ## Newspaper Stats
 
-*Scraped **54,169** Articles*
+*Scraped **54,172** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,239
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,061
+adalk | 5,062
 adaderanalk | 6,457
-tamilmirrorlk | 7,569
+tamilmirrorlk | 7,571
 virakesarilk | 8,781
 adaderanasinhalalk | 9,448
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,169 (100.0%) of 54,169 articles have been extended.
+54,172 (100.0%) of 54,172 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Changes the colored finger at the general election
+
+*2024-11-11 12:15:48* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-වර්ණ-ගන්වන-ඇඟිල්ල-වෙනස්-කරයි/11-412966) · `si`
+
+Election changes: Dambarawella replaces Dambaralla. Director General Saman Sri Ratnayake explains decision based on presidential election criteria.
+
+🟩
+
+Dambaralla has made Dambarawella instead of the election of the general election.
+
+The Director General of the Elections Commissioner Saman Sri Ratnayake said that the decision was taken at the Presidential Election.
+
+"The appropriate sign was marked at the left hand in the left hand. There are still still a marked manner of many. Therefore, the election commission has been decided to mark the left hand. "
+
+◼️
+
+[Data](articles/842f4c4c.json)
+
+[Extended Data](ext_articles/842f4c4c.ext.json)
+
+---
 
 ### Difficult Dealings with Strong Political Personalities
 
@@ -141,6 +163,30 @@ So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vom
 [Data](articles/56b9ca62.json)
 
 [Extended Data](ext_articles/56b9ca62.ext.json)
+
+---
+
+### Virus again for boys
+
+*2024-11-11 11:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்கு-மீண்டும்-வைரஸ்/175-346936) · `ta`
+
+Viral fever rising in children: Fever, cough, mucus, vomiting. Dengue cases increasing. If fever persists over 3 days, get blood tests.
+
+🟩
+
+Ridgeway Arya Children's Hospital Specialist Dr. Deepal Perera says the fever is increasing among children.
+
+He said more attention should be paid to the flu if the flu lasts for almost three days.
+
+“Viral fever has increased between children in recent days. It is a fever with coughing and mucus. Also, the number of dengue patients is also increasing.
+
+So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vomiting. So, if you have a fever for more than three days, do the appropriate blood test. ”He advised.
+
+◼️
+
+[Data](articles/ac6cd01f.json)
+
+[Extended Data](ext_articles/ac6cd01f.ext.json)
 
 ---
 
@@ -291,6 +337,30 @@ I would like to simply describe the process of Tamil voters in the districts of 
 [Data](articles/7f05826b.json)
 
 [Extended Data](ext_articles/7f05826b.ext.json)
+
+---
+
+### “The preferential vote is not racism”
+
+*2024-11-11 11:24:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்கு-இனவாதம்-அல்ல/175-346931) · `ta`
+
+Preferential voting ensures ethnic representation. Tamil minorities in specific districts use it to elect representatives democratically.
+
+🟩
+
+It is the ethnic right to ensure ethnic representation.In fact, it emphasizes the preferential vote of the existing electoral system.
+
+It is essential that Tamil voters in the districts of Colombo, Kegalle, Ratnapura, Kandy, Gampaha and Badulla are only a minority of Tamils.. This is the only way to get our representation. Tamil Progressive Alliance leader Mano Ganesan has announced that this is what the proportional electoral system emphasizes.
+
+Speaking at a meeting held on Sunday (10) at Jampatta Road, Colombo:
+
+I would like to simply describe the process of Tamil voters in the districts of Colombo, Kegalle, Ratnapura, Kandy, Gampaha and Badulla where Tamils ​​live in a minority. First of all, our voters have to decide which team to win the Tamil candidates in their districts and what is its science.
+
+...
+
+[Data](articles/be7be67f.json)
+
+[Extended Data](ext_articles/be7be67f.ext.json)
 
 ---
 
@@ -2211,81 +2281,5 @@ The program will cover two days before the election day, election day itself, an
 [Data](articles/7de31146.json)
 
 [Extended Data](ext_articles/7de31146.ext.json)
-
----
-
-### Wife death
-
-*2024-11-10 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198357) · `ta`
-
-Woman dies in house in Mahama Eliya. Police investigation ongoing. Husband flees scene.
-
-🟩
-
-A woman has died in a house in the Mahama Eliya area of ​​the Puttalam and Mundal police division, Mundal police said.
-
-The deceased is a 27 woman from Mahama Eliya Baduloya.
-
-Investigations carried out by the police revealed that the deceased woman was living with her husband and her husband has now fled.
-
-◼️
-
-[Data](articles/298a9f3b.json)
-
-[Extended Data](ext_articles/298a9f3b.ext.json)
-
----
-
-### Three arrested for heroin and ice drugs in Colombo
-
-*2024-11-10 21:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198358) · `ta`
-
-Colombo police arrest three for heroin and ice: Two in Kalkissa, one in Udugama. Heroin seizures range from 10g to 12g. Ice seizures vary from 8g to 52g. Further investigations ongoing.
-
-🟩
-
-Three persons have been arrested by police on Saturday (09) in Kalkissa and Udugama areas during two other raids in Colombo.
-
-Two suspects have been arrested with heroin, near the Pattala Road, belonging to the Kalkissa police division, police said.
-
-They have been arrested during two rounds carried out on the basis of information received by the Criminal Investigation Department officials.
-
-The arrested suspects are from McCona and Moratuwa, aged 38, 40.
-
-From the arrested suspects, 10 g 350 milligrams and 11 g of 200 milligrams of heroin have been seized by the police.
-
-In addition, a suspect has been arrested for possessing ice drugs in Samagigama area belonging to the Udugama Police Division.
-
-He was arrested during a raid carried out on the basis of information received by a team of officials of the Moratuwa Police Special Task Force Base.
-
-The arrested suspect is from Udugama, aged 46.
-
-The police have seized 12 grams of 700 milligrams of heroin from the arrested suspect.
-
-...
-
-[Data](articles/23f87017.json)
-
-[Extended Data](ext_articles/23f87017.ext.json)
-
----
-
-### One arrested with domestic gun in Puliyankulam
-
-*2024-11-10 21:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198362) · `ta`
-
-Man arrested with domestic gun in Puliyankulam police division during special task force operation.
-
-🟩
-
-A man was arrested yesterday (09) with a domestic gun in the area of ​​Puliyankulam police division.
-
-He was arrested in a roundup of confidential information received by the Puliyankulam Police Special Task Force.
-
-◼️
-
-[Data](articles/c5653711.json)
-
-[Extended Data](ext_articles/c5653711.ext.json)
 
 ---

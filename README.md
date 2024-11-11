@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 19:02:06**
+As of **2024-11-11 19:25:13**
 
 ## Newspaper Stats
 
-*Scraped **54,245** Articles*
+*Scraped **54,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,63 +20,99 @@ adalk | 5,072
 adaderanalk | 6,471
 tamilmirrorlk | 7,580
 virakesarilk | 8,799
-adaderanasinhalalk | 9,464
+adaderanasinhalalk | 9,465
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,242 (100.0%) of 54,245 articles have been extended.
+54,245 (100.0%) of 54,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### පියුමි හංසමාලි සහ විරංජත් තාඹුගලට එරෙහි විමර්ශන කඩිනම් කරන ලෙසට නියෝග
+### අත්අඩංගුවට ගත් පොලිස් නිලධාරීන් තිදෙනාට ඇප
+
+*2024-11-11 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203146) · `si`
+
+පොලිස් සිරමැදිරිය තුළදී සැකකරුවන් පිරිසකට සූදු ක්‍රීඩාවේ නිරතවීමට පහසුකම් සැලසූ බවට අනුරාධපුර, ගිරානේගම පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරීන් තිදෙනෙකුව අත්අඩංගුවට ගෙන තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ පළවූ විඩියෝවක් සැලකිල්ලට ගනිමින් වැඩබලන පොලිස්පතිවරයාගේ නියෝග පරිදි මෙම පිරිස අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+අද (11) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා සඳහන් කළේ අනුරාධපුර පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති බවය.
+
+අත්අඩංගුවට ගත් ගිරානේගම පොලිස් ස්ථානාධිපතිවරයා සහ සෙසු නිලධාරීන් දෙදෙනා කැකිරාව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ බවත් එහිදී රුපියල් ලක්ෂ 02 බැගින් වූ ශරීර ඇප මත ඔවුන්ව මුදාහැරීමට අධිකරණය නියෝග කළ බවත් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+
+...
+
+[Data](articles/751c7d94.json)
+
+---
+
+### Piyumi Hansayali and Wirajith Polugods ordered to expedite investigations
 
 *2024-11-11 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203145) · `si`
 
-නිරූපන ශිල්පිණී පියුමි හංසමාලි සහ අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාඹුගල යන දෙදෙනාට එරෙහි විමර්ශන කඩිනම් කරන ලෙස දේශීය ආදායම් දෙපාර්තමේන්තුවට කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා අද (11) නියෝග කර තිබේ
+Colombo Additional Magistrate orders expedited investigation against two individuals under Tax Act Section 190. Case filed by Inland Revenue Department. Attorney Dinesh Perera requests document review.
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව අධිකරණය හමුවේ ගොනුකර තිබූ නඩුවක් අද (11) නැවත කැඳවූ අවස්ථාවේදී කොළඹ අතිරේක මහෙස්ත්‍රාත් බණ්ඩාර ඉලංගසිංහ මහතා මෙම නියෝගය ලබා දුන්නේය.
+🟩
 
-දේශීය අදායම් පනතේ 190 වගන්තිය ප්‍රකාරව එම දෙදෙනා බදු පනතට අදාළ වැරදි සිදුකර තිබේද යන්න විමර්ශනය කිරීම සඳහා නියෝගයක් ලබා දෙන ලෙසට දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් එම නඩුව ගොනු කර තිබුණි.
+Colombo Additional Magistrate today (11) ordered the Department of Inland Revenue to expedite investigations against Deliming Technician Piyumi Hansagami and Branjith Combugala.
 
-මෙම සිද්ධියට අදාළ ලිපි ලේඛණ පරීක්ෂා කිරීම සඳහා එම දෙදෙනාගේ නිවාස සෝදිසි කිරීමට අධිකරණ නියෝගයක් ලබාගත් නමුත් එසේ සෝදිසි කිරීම් කටයුතුවල නිරත වන අවස්ථාවේදී එම දෙදෙනා නිවාසවල නොසිටි බවත් දේශීය අදායම් දෙපාර්තමේන්තුව  වෙනුවෙන් පෙනී සිටි නීතීඥ දිනේෂ් පෙරේරා මහතා අධිකරණයට දැන්වීය.
+Additional Magistrate Bandara Ilangasinghe gave the order when a case was filed before the Inland Revenue Department today (11).
+
+The Inland Revenue Department had filed an order to direct the Tax Act, as per section 190 of the Local Income Act.
+
+Attorney-at-Law Dinesh Perera informed the courts in order to investigate the documents related to the incident.
 
 ◼️
 
 [Data](articles/8af7d2d1.json)
 
+[Extended Data](ext_articles/8af7d2d1.ext.json)
+
 ---
 
-### ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ජනපතිගෙන් ප්‍රකාශයක්
+### President's statement on restructuring of credit
 
 *2024-11-11 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203144) · `si`
 
-දෙසැම්බර් මාසය වනවිට ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කරගත හැකිවන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+Sri Lankan President Anura Kumara Dissanayake announces loan restructuring plan. Loans will be repaid starting 2028. Government aims to stabilize economy by late February 2024. IMF visit expected soon after elections.
 
-අද (11) පස්වරුවේ ගම්පහ පැවති මැතිවරණ රැලිය අමතමින් ඒ මහතා ඒ බව පැවසීය.
+🟩
 
-"මේ වනවිට එය සම්පූර්ණයෙන් අවසන්. තව යම් ප්‍රමාණයක් තියෙනවා. 2028 දී තමයි අපි ණය ගෙවන්න පටන් ගන්නේ. 2028 දී අපි ගෙවිය යුතු ණය අපි ගණනය කරලා තියෙනවා. එම ණය පංගුව ගෙවිය හැකි ආර්ථිකයක් ආණ්ඩුවට හදන්න පුළුවන්. මහ මැතිවරණය නිමාවී දින දෙකකට පසුව IMF කණ්ඩායම ලංකාවට එනවා. එවිට අපි 3න් වන සමාලෝචනය අවසන් කරලා ජනවාරි අග, පෙබරවාරි මුල වෙනකොට ඒ කටයුත්ත අවසන් කරනවා. එවිට ආර්ථිකයේ සැලකිය යුතු ස්ථාවර භාවයක් අපිට ලබාගන්න පුළුවන්."
+President Anura Kumara Dissanayake says that the restructuring of Sri Lankan loans in December is possible.
+
+He was speaking at the rally in Gampaha this afternoon.
+
+"At present it is complete. There's some of the more. In 2028, we start paying. We have calculated the loans that we have to pay in 2028. The government can build an economy that can be paid by that credit. IMF arrives in Sri Lanka two days after the end of the general election. Then we finish the review of 3 by late January, late February. Then we can gain significant stability of the economy. "
 
 ◼️
 
 [Data](articles/419c7d5c.json)
 
+[Extended Data](ext_articles/419c7d5c.ext.json)
+
 ---
 
-### කොච්චිකඩේ පොලිස් ස්ථානාධිපති අත්අඩංගුවට
+### Kochchikade Police OIC arrested
 
 *2024-11-11 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203143) · `si`
 
-ඔහු අත්අඩංගුවට ගෙන ඇත්තේ මැතිවරණ නීති උල්ලංඝනය කිරීමේ සිද්ධියක් සම්බන්ධයෙනි.
+Kochchikade Police OIC arrested for election law violation by Colombo North Police Current Division.
 
-කොළඹ උතුර පොලිස් අපරාධ කොට්ඨාසය විසින් ඔහු අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+🟩
+
+He was arrested in connection with a violation of election laws.
+
+He has been arrested by the Colombo North Police Current Division.
 
 ◼️
 
 [Data](articles/e41f09e1.json)
+
+[Extended Data](ext_articles/e41f09e1.ext.json)
 
 ---
 
@@ -2331,29 +2367,5 @@ Furthermore, it is also stated that instructions have been given to the relevant
 [Data](articles/7f8bfbb1.json)
 
 [Extended Data](ext_articles/7f8bfbb1.ext.json)
-
----
-
-### Commissioner has many conditions
-
-*2024-11-11 09:53:57* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නිහඬ-කාලයට-කොමිෂමෙන්-මාධ්‍යටත්-කොන්දේසි-රැසක්/11-412963) · `si`
-
-Elections Commission announces restrictions on campaign broadcasts and social media promotions, limiting content for minors and biased reporting.
-
-🟩
-
-The propaganda period of the propaganda period of the parliamentary election held on November 14th will commence today (11).
-
-Broadcasting of the videos and details of the final political propaganda meetings of the final political propaganda meetings today (11) should be limited to one major newspapers in the television and radio broadcasts tomorrow (12).The Elections Commission announced that he is announced.
-
-The propaganda meetings will be published tomorrow (12) newspapers and their social media networks.The Elections Commission states that these conditions are also applicable to all other social media networks.
-
-The Elections Commission also enacted to all media institutions, which should not be published at the age of 13 and 14 and promote the political news or promote party headlines or promotes party headlines or prejudice.
-
-◼️
-
-[Data](articles/15b2aa6e.json)
-
-[Extended Data](ext_articles/15b2aa6e.ext.json)
 
 ---

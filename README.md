@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 23:41:30**
+As of **2024-11-12 00:56:54**
 
 ## Newspaper Stats
 
-*Scraped **54,280** Articles*
+*Scraped **54,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,159 @@ dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
-tamilmirrorlk | 7,584
-virakesarilk | 8,799
+tamilmirrorlk | 7,586
+virakesarilk | 8,811
 adaderanasinhalalk | 9,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,272 (100.0%) of 54,280 articles have been extended.
+54,288 (100.0%) of 54,294 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-11-12 (Tuesday)
+
+### பொதுஜன பெரமுன அமைப்பாளராக கீதநாத் நியமனம்
+
+*2024-11-12 00:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுஜன-பெரமுன-அமைப்பாளராக-கீதநாத்-நியமனம்/175-346968) · `ta`
+
+அந்த கட்சித் தலைவரும் முன்னாள் ஜனாதிபதியுமான மஹிந்த ராஜபக்சவினால் குறித்த நியமனம் வழங்கப்பட்டுள்ளது.
+
+இதன்படி நேற்று (11) முதல் அமுலுக்கு வரும் வகையில் இந்த நியமனம் வழங்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/994d54fc.json)
+
+---
+
 ### 2024-11-11 (Monday)
+
+### Suresh Premachandran is the country's degradation if JVP gets more seat
+
+*2024-11-11 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198473) · `ta`
+
+Suresh Premachandran warns of national degradation if JVP gains seats. Former TNA MP criticizes JVP's handling of Tamil issues. President Anura Kumara Dissanayake promises land releases but faces criticism from own party. JVP founder Rohana Wijeweera predicts deterioration if JVP gains more seats. Crisis may occur if national people's power doesn't secure 113 seats. Tamil party needs strong policy support. Young women should represent Parliament to address Tamil national problems effectively.
+
+🟩
+
+Some people consider what the national people give the power of power. You will think six months after voting for the present state side. So wait up to six months. Suresh Premachandran, a former member of the Democratic Tamil National Alliance (TNA) and former Member of Parliament, said they would not solve the problems of the Tamil people.
+
+He was speaking at a media briefing held at the Jaffna Media Center on Monday (11).
+
+The President who came to Jaffna has made some comments. President Anura Kumara Dissanayake, who arrived in Jaffna before the presidential election, said that if his party government was formed, he would do many issues, including the repeal of the Terrorism Act.. But when Anura Kumara Dissanayake is currently in power, the general secretary of the party makes no comments.
+
+It would not be possible if the JVP would release the land of the Tamil people by speaking with the army. The same was true of the Rajapaksa period.
+
+...
+
+[Data](articles/fe7b7855.json)
+
+[Extended Data](ext_articles/fe7b7855.ext.json)
+
+---
+
+### Steps are being taken to scatter the votes of the Tamils ​​and give other communities the opportunity to win. - A.Rogej
+
+*2024-11-11 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198472) · `ta`
+
+Tamils' votes scattered to benefit other communities. Political parties and independent groups contesting in Vanni district. Leaderships associated with foreign funding. Vote properly, says TNA candidate A. Rogan.
+
+🟩
+
+Steps are being taken to divide the votes of Tamils ​​and give other communities the opportunity to win. It is clear that the Tamils ​​should not have one of the Tamils. Money is served on all sides. The Democratic Tamil National Alliance (TNA) Wanni district candidate A. Rogan said that the people should vote properly.
+
+He made this statement during a media briefing held at the office in Mannar on Monday evening.
+
+In our area, like the change in South Sri Lanka, people are looking forward to making a change in the parliamentary election.
+
+However, if the money is spent in a few months, the Vanni district will become a cub in a few months. I do not know that there are opportunities. I do not know.Are.
+
+Those who can go to the people of Layi within the last one month will not give people the opportunity after the election.
+
+Many parties and independent groups are contesting in Vanni to show that Tamils ​​have no right to scatter the votes of Tamils.
+
+...
+
+[Data](articles/42ae3b50.json)
+
+[Extended Data](ext_articles/42ae3b50.ext.json)
+
+---
+
+### Let us revolutionize education!Independent candidate Mayuran
+
+*2024-11-11 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198471) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Mayuran, independent candidate for Karamba Board, calls for education revolution. Demands government not ban Heroes Day. Aims to reform education system, combat drug use in schools, improve university admissions, establish pharmacies in underserved areas, and grant amnesty to ex-combatants.
+
+🟩
+
+The Independent Candidate of the Karamba Board, M.Maurathan, said that the development of our society could be achieved only by establishing a new revolution in education and demanded that the government should not ban the upcoming Heroes Day.
+
+He was speaking at a media briefing held at his office in Vavuniya on Monday (11).
+
+All these parties have the oldest principles and old leaders. They only change the symbol and compete. But the Tamils ​​have begun to think towards the new transformation. In that respect, we are contesting the change through the Independent Group in the blackboard symbol as a symbol of education.
+
+Our first purpose is to bring about change in education. Today, drug use has been infiltrated into the school level. So we have made a change in education in our election manifesto to change this situation.
+
+...
+
+[Data](articles/6f037afa.json)
+
+[Extended Data](ext_articles/6f037afa.ext.json)
+
+---
+
+### Talaimannar - Colombo train will resume tomorrow
+
+*2024-11-11 23:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைமன்னார்-கொழும்பு-ரயில்-நாளை-மீண்டும்-ஆரம்பம்/175-346967) · `ta`
+
+Colombo-Talaimannar train resumes tomorrow due to railway road development. Service restarts after pause.
+
+🟩
+
+Accordingly, due to the development of the Railway Road to Mahawa and Anuradhapura, the train service between Colombo Fort and Talamannar will be resumed tomorrow (12).. Remble
+
+◼️
+
+[Data](articles/51d61ebb.json)
+
+[Extended Data](ext_articles/51d61ebb.ext.json)
+
+---
+
+### Contraindications among Rishad Mastan supporters in Patanichur!A riot public meeting;Rishad's vehicle was beaten!
+
+*2024-11-11 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198470) · `ta`
+
+Riot breaks out during Rishad Mastan supporter meeting in Patanichur. Vehicles damaged, two hospitalized. Police intervene, maintain order. Campaign continues under police protection.
+
+🟩
+
+Two persons were admitted to the hospital in a confusion in the area where former Minister of State for the former Minister of State, Khadarmastan, were admitted to the hospital and the vehicles of Rizatpathiudeen were beaten.
+
+The Campaign Meeting was held at 8 pm today near the main road in Pattanichur, Vavuniya.. Some people who came on a motorcycle to the area shouted at the public meeting.
+
+For a while, behind the motorcycles, the former minister Rizadpathiudheen and his supporters came to the main street near the area where the travelers were gathering.
+
+Rishad Bathiudeen's vehicle. While he was inside the vehicle, his vehicle was completely smashed and his supporters' vehicles were smashed.After the attack, the vehicle continued to stop in the area.
+
+The police arrived at the scene and had taken steps to control the situation.Two persons injured in the incident were admitted to the Vavuniya Hospital for treatment.
+
+...
+
+[Data](articles/018f90ff.json)
+
+[Extended Data](ext_articles/018f90ff.ext.json)
+
+---
 
 ### Sri Lanka President reveals IMF review, budget timelines
 
@@ -49,6 +189,8 @@ The third IMF review was to be completed by October, but the parliament election
 ...
 
 [Data](articles/79279187.json)
+
+[Extended Data](ext_articles/79279187.ext.json)
 
 ---
 
@@ -72,6 +214,8 @@ From the time of the default about 1.8 billion dollars of coupons interest has a
 
 [Data](articles/baf19161.json)
 
+[Extended Data](ext_articles/baf19161.ext.json)
+
 ---
 
 ### Dilith offers president a practical plan to solve Sri Lanka’s debt crisis
@@ -91,6 +235,32 @@ He emphasized that eliminating corruption and prosecuting wrongdoers is the firs
 [Data](articles/f4aed7d4.json)
 
 [Extended Data](ext_articles/f4aed7d4.ext.json)
+
+---
+
+### Tamilnadu Party has fallen - KV Dawarasa
+
+*2024-11-11 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198469) · `ta`
+
+Tamilnadu Party collapse: KV Dawarasa speaks on splits and failures. Sumanthiran likely to win if Tamil people support party. Party accused of prioritizing individual interests over Tamil nationalism. Economic concerns raised about foreign funding. Candidates question party leadership and strategy.
+
+🟩
+
+Sri Lanka Tamil State Party has split up and fails. In this case, Sumanthiran will be elected if the Tamil people vote for the party. President Attorney KV Dawarasa, who is contesting as the primary candidate at the mango symbol in the electoral district.
+
+He was speaking at a media briefing held at the Jaffna Media Center on Monday (11).
+
+Sri Lanka Tamil State Party has split up and fails. After being included in the national list of Sumanthiran, Gajendrakumar, Sivakaran, Chittambalam, Arundhavapalan, Anandi and Vigneswaran have left.
+
+I tried to not go beyond the party Tamil nationalism for over 14 years.
+
+The Tamil National Alliance was formed by the leader for the unity of the Tamil people. But the Sri Lanka Tamil State Party decided to contest the party's central committee meeting.. The party has become an individual's company. If someone strives for Tamil nationalism, they will be expelled.
+
+...
+
+[Data](articles/9035699e.json)
+
+[Extended Data](ext_articles/9035699e.ext.json)
 
 ---
 
@@ -148,6 +318,40 @@ Accordingly, he has been summoned to the CID tomorrow morning at 9.30 am.
 
 ---
 
+### Asian Bowl Cricket under the age of 19 is November 29
+
+*2024-11-11 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198468) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Asian Bowl Cricket U-19: Nov 29 in Dubai & Sharjah. 8 countries compete. India/Pakistan in A group, Sri Lanka/Afghanistan/Nepal in B. Semi-finals Dec 6, finals Dec 8. India 7-time co-champ, Bangladesh/Sri Lanka 5-time runners-up.
+
+🟩
+
+The 50 -over Asian Cup cricket tournament for men under the age of 19 will be held in Dubai and Sharjah.
+
+Eight countries, including five countries with full status, will participate in the competition at the International Cricket Council.
+
+Sri Lanka, Afghanistan and Nepal are in the B group with the current champion Bangladesh.
+
+India and Pakistan are in the A group. The group also features the United Arab Emirates and Japan with the two countries.
+
+The United Arab Emirates, Nepal and Japan qualified to play the Asian Cup cricket match by winning the first three places in the Asian Premier Bowl.
+
+Sri Lanka will meet Nepal in Nepal on November 28, Afghanistan in Sharjah on Sharjah on December 1 and Bangladesh on December 3 in Dubai.
+
+After the end of the first round of the two groups, the four teams will qualify to play in the semi -finals.
+
+...
+
+[Data](articles/4a083809.json)
+
+[Extended Data](ext_articles/4a083809.ext.json)
+
+---
+
 ### This is a lboard government - Ranil
 
 *2024-11-11 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203151) · `si`
@@ -170,6 +374,30 @@ He made these comments addressing the public meeting held today (11) in Maradana
 
 ---
 
+### To form a strong government
+
+*2024-11-11 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198467) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National People's Power aims to form a strong government through Parliament. President Anura Kumara Dissanayake emphasizes the importance of experienced leaders and economic reforms. The party promises to address poverty, improve education, and restore debts. A new political culture is emerging, focusing on discipline and the rule of law.
+
+🟩
+
+We will carry out our plans strongly without allowing the people to make the hope and expectations of the people of the country.. We need the strength of Parliament for that. To be created by the government that can serve the country. President Anura Kumara Dissanayake said that the people should be sent to parliament from the national people's power to form a firm government.
+
+The last day of the National People's Power's election campaign was held in Gampaha on Monday afternoon under the patronage of party leader and president Anura Kumara Dissanayake on the theme of 'We are the one for the building of the country'.. The President said this while addressing the gathering.
+
+...
+
+[Data](articles/781cf8dc.json)
+
+[Extended Data](ext_articles/781cf8dc.ext.json)
+
+---
+
 ### Sajith says the existing ISF agreement should be changed
 
 *2024-11-11 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203150) · `si`
@@ -189,6 +417,28 @@ The leader of the party Sajith Premadasa requests the public to win their party 
 [Data](articles/4e0c1fef.json)
 
 [Extended Data](ext_articles/4e0c1fef.ext.json)
+
+---
+
+### Colombo - Talaimannar Railway Service from today - Railway Department
+
+*2024-11-11 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198466) · `ta`
+
+Colombo-Talaimannar railway service resumes Tuesday after suspension. Train departs Colombo Fort 4:15 PM, Talaimannar 4:15 AM next day.
+
+🟩
+
+The Railway Department has announced that the Colombo -Talaimannar railway service, which has been suspended due to the development of the Railway Road to Mahawa - Anuradhapura, will be resumed from Tuesday.
+
+Accordingly, the train will leave the Colombo Fort Railway Station at 04.15 pm on Tuesday (12) at 10.15 pm.
+
+Similarly, the train will depart from Talaimannar at 04.15 am on Wednesday (13) at 10.15 am.
+
+◼️
+
+[Data](articles/a76419e9.json)
+
+[Extended Data](ext_articles/a76419e9.ext.json)
 
 ---
 
@@ -330,6 +580,30 @@ In addition, the Tamil translation of his speech was given to the Sinhala people
 
 ---
 
+### Bio -Sunday attack - Pillayan invited to attend
+
+*2024-11-11 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198465) · `ta`
+
+Sivanesathurai Chandrakanthan Pillayan summoned over Sunday attack investigation. Police invite him for questioning about Channel 4 allegations.
+
+🟩
+
+Former Parliamentarian Sivanesathurai Chandrakanthan Pillayan Pillayan is investigating the life -threatening Sunday.
+
+The police spokesman said that the CIT has been invited to attend the CIT's hearing tomorrow to obtain a confession on the allegations made in Channel 4.
+
+Pillaiyan has been summoned to obtain a statement to the Ministry of Public Security on the issue of Channel 4 media issued by Azadmoulana regarding the lifeblood.
+
+Accordingly, he said that investigations have begun in the Tutabi report on Sunday.
+
+◼️
+
+[Data](articles/79ed1c7e.json)
+
+[Extended Data](ext_articles/79ed1c7e.ext.json)
+
+---
+
 ### Sujeewa Senasinghe V8 handed over to CID
 
 *2024-11-11 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203147) · `si`
@@ -359,6 +633,48 @@ The Criminal Investigations Department Public Complaints Investigation Division 
 [Data](articles/ec67df97.json)
 
 [Extended Data](ext_articles/ec67df97.ext.json)
+
+---
+
+### Rice is scarce in the country because of the high consumption of pear!
+
+*2024-11-11 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198464) · `ta`
+
+Sri Lanka faces rice scarcity due to increased beer demand and new pear manufacturing. Government must balance needs of citizens and industry.
+
+🟩
+
+The demand for crude rice, which is the main ingredient for beer production, has now increased.Tourists coming to Sri Lanka more drinks beer. Also a new pear manufacturing company has entered the market. Due to this, the demand for crude rice has also increased. Crude rice is obtained from Naturisi paddy available to the country. The small and medium -rice mill owners association said that there was a shortage of nationals in the market for food in the market.. The government has to decide whether the people need Risia Piyara.
+
+◼️
+
+[Data](articles/21c1cca0.json)
+
+[Extended Data](ext_articles/21c1cca0.ext.json)
+
+---
+
+### If a 'Elord' parliament was set up - Ranil
+
+*2024-11-11 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198463) · `ta`
+
+Ranil Wickremesinghe warns against setting up Elord Parliament, citing potential economic crisis due to inexperienced rulers. He emphasizes the need for economic development, tax relief, and managing government finances effectively.
+
+🟩
+
+If the Elord Parliament is set up in the elections, the country may have a huge crisis. It is currently proven that the rulers in the first compass of the president have no experience. Former President Ranil Wickremesinghe said that the candidates who are contesting in the ruling cylinder symbol should send more to Parliament.
+
+He was speaking at the final election campaign in Maradana on Monday (10) in support of the Colombo district candidates contesting the New Democratic Front.
+
+We stopped all the rows in the country. We have consulted with the Monetary Fund and managing all the loans. 2028 We need to start paying off the loan. There is a period of time until 2042. If the loan is not paid, you will have to go back to the row.
+
+The president has not yet reported the economic target. And so there is a massive state of affairs. Currently, the price of coconuts is higher than the coconut tree. Price of goods rise like a lotus tower. Egg prices go up. Can the government resolve this?
+
+...
+
+[Data](articles/f7767b75.json)
+
+[Extended Data](ext_articles/f7767b75.ext.json)
 
 ---
 
@@ -507,6 +823,16 @@ Attorney-at-Law Dinesh Perera informed the courts in order to investigate the do
 [Data](articles/8af7d2d1.json)
 
 [Extended Data](ext_articles/8af7d2d1.ext.json)
+
+---
+
+### கொச்சிக்கடை பொலிஸ் நிலைய பொறுப்பதிகாரி கைது
+
+*2024-11-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198461) · `ta`
+
+◼️
+
+[Data](articles/f2540723.json)
 
 ---
 
@@ -753,6 +1079,8 @@ Attendees examined ways for the banking sector to provide additional support to 
 ...
 
 [Data](articles/17072968.json)
+
+[Extended Data](ext_articles/17072968.ext.json)
 
 ---
 
@@ -1031,6 +1359,8 @@ The full outline of the day’s proceedings is reproduced below:
 ...
 
 [Data](articles/8a0f18ae.json)
+
+[Extended Data](ext_articles/8a0f18ae.ext.json)
 
 ---
 
@@ -2083,293 +2413,5 @@ The suspect is to be produced before the Matara Magistrate's Court, police said.
 [Data](articles/c8d838ef.json)
 
 [Extended Data](ext_articles/c8d838ef.ext.json)
-
----
-
-### Sri Lanka’s Vallibel Finance to raise upto Rs3bn in debenture issue
-
-*2024-11-11 12:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-vallibel-finance-to-raise-upto-rs3bn-in-debenture-issue-186835/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Vallibel Finance Plc is planning to raise up to 3 billion rupees in a debenture issue, the finance company said.
-
-The listed, rated, subordinated, unsecured, redeemable debentures will be offered at 100 rupees each.
-
-Initially 20 million of the 5-year debentures will be issued.
-
-A further 10 million will be issued if the first tranche is oversubscribed, the company said in a stock exchange filing.
-
-The Colombo Stock Exchange has approved the listing in principle.
-
-◼️
-
-[Data](articles/9f7c533b.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-11 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198411) · `ta`
-
-US dollar exchange rate: 288.1635 rupees buying, 297.1536 selling. Released by Central Bank on Monday (11).
-
-🟩
-
-The US dollar purchasing price was 288.1635 rupees and the sales price were 297.1536 rupees based on a currency exchange rate released by the Central Bank on Monday (11).
-
-◼️
-
-[Data](articles/85323b32.json)
-
-[Extended Data](ext_articles/85323b32.ext.json)
-
----
-
-### Make the United People's Power Success - Sajith Premadasa
-
-*2024-11-11 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198405) · `ta`
-
-Sajith Premadasa addresses Maharagama rally, criticizes fuel price hikes, promises electricity reduction despite lack of parliamentary majority. Calls for United People's Power victory to secure IMF agreement benefits.
-
-🟩
-
-The current president said in all election platforms that the stolen, bribery, corruption will be eradicated and fuel prices will be reduced. The new leader of the Petroleum Corporation appointed by the President Anurakumara Dissanayake has said that there are no such corruption scandals. They are now deceiving the people who have reduced fuel and give people offers. Anuragumara Dissanayake, who said he was not going to succumb to the fuel price formula, has become the hostage of the fuel price formula. Sajith Premadasa said that the fuel prices used by the rich class were finally reduced.
-
-A meeting with the people of Maharagama was held yesterday (10), headed by Sajith Premadasa, the leader of the United People's Alliance and the United People's Alliance.
-
-The meeting was organized by the United People's Power Colombo District Candidate Gamini Tilakasiri and many others including party activists participated in the meeting.. He said this while addressing the gathering.
-
-...
-
-[Data](articles/f16ae8cb.json)
-
-[Extended Data](ext_articles/f16ae8cb.ext.json)
-
----
-
-### A 9 -year -old boy arrested for rape
-
-*2024-11-11 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198386) · `ta`
-
-9-year-old boy arrested for alleged rape in Sri Lanka. Police claim he forcibly drank alcohol. Case under investigation.
-
-🟩
-
-A 9 -year -old boy has been arrested for allegedly drinking a suspect, Kahatuduwa police said.
-
-The suspect has been arrested in Kahauduwa Singagama area on the basis of information received by a police emergency telephone number 119, who was admitted to the Kalubowila Teaching Hospital.
-
-Police investigations have revealed that the suspect is living near the house of a sick boy.
-
-Police have received information that the suspect has been forcibly drinking alcohol, but no further information has been received.
-
-◼️
-
-[Data](articles/d4ba9b55.json)
-
-[Extended Data](ext_articles/d4ba9b55.ext.json)
-
----
-
-### General Election: Voter’s index finger to be marked instead of little finger
-
-*2024-11-11 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103325/general-election-voters-index-finger-to-be-marked-instead-of-little-finger) · `en`
-
-The Election Commission has announced a key measure for the upcoming Parliamentary Election scheduled for November 14, 2024.
-
-Accordingly, voters will have their left hand’s index finger marked with an appropriate sign to prevent double voting and ensure transparency, the election regulatory body said.
-
-This decision comes in light of concerns about possible confusion during the polling process for the Presidential Election 2024, which took place recently.
-
-Meanwhile, if a voter’s left index finger is unavailable, the mark will be applied to another finger, as suitable, according to the Election Commission.
-
-◼️
-
-[Data](articles/2ebcf0d7.json)
-
-[Extended Data](ext_articles/2ebcf0d7.ext.json)
-
----
-
-### Mother and Daughter
-
-*2024-11-11 12:16:00* · [`islandlk`](http://island.lk/mother-and-daughter/) · `en`
-
-Anticipating Kamala Harris winning the US presidency, the original title of my article was The Woman Behind the 47th President of the United States. Most unfortunately and surprisingly to us, Donald Trump won the election. However, defeated Kamala has a couple of achievements to her name. She is the first woman, Black American and South Asian American to be elected Vice President of the US, District Attorney of San Francisco and Attorney General of California. And more importantly she is young, healthy, vibrant and next time around may overcome obvious prejudices in the minds of the American voting public and garner the honour of being first woman president of the US. Four years hence?
-
-...
-
-[Data](articles/f3362dc1.json)
-
-[Extended Data](ext_articles/f3362dc1.ext.json)
-
----
-
-### Changes the colored finger at the general election
-
-*2024-11-11 12:15:48* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-වර්ණ-ගන්වන-ඇඟිල්ල-වෙනස්-කරයි/11-412966) · `si`
-
-Election changes: Dambarawella replaces Dambaralla. Director General Saman Sri Ratnayake explains decision based on presidential election criteria.
-
-🟩
-
-Dambaralla has made Dambarawella instead of the election of the general election.
-
-The Director General of the Elections Commissioner Saman Sri Ratnayake said that the decision was taken at the Presidential Election.
-
-"The appropriate sign was marked at the left hand in the left hand. There are still still a marked manner of many. Therefore, the election commission has been decided to mark the left hand. "
-
-◼️
-
-[Data](articles/842f4c4c.json)
-
-[Extended Data](ext_articles/842f4c4c.ext.json)
-
----
-
-### Special program to face disasters during elections
-
-*2024-11-11 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198407) · `ta`
-
-Disaster Management Center implements special program for 5 days during election, involving Meteorology, Irrigation, National Building Research Institute, Army, and police.
-
-🟩
-
-A special program has been implemented to address the disaster conditions during the upcoming general election, the Disaster Management Center said.
-
-Pradeep Kodippili, Director of the Disaster Management Center, said that the Department of Meteorology, the Department of Irrigation, the National Building Research Institute, the Army and the police will work together in the special program.
-
-Accordingly, the special program will be implemented for 5 days from the 12th to the 16th.
-
-◼️
-
-[Data](articles/ae4c8f86.json)
-
-[Extended Data](ext_articles/ae4c8f86.ext.json)
-
----
-
-### Difficult Dealings with Strong Political Personalities
-
-*2024-11-11 12:07:00* · [`islandlk`](http://island.lk/difficult-dealings-with-strong-political-personalities/) · `en`
-
-(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
-
-Senior public officials have often to act as buffers between ministers, other important political actors, and other stakeholders in society. On many occasions, one had to absorb a significant degree of shock and act as a facilitator, mediator or referee. A rousing example of this side of one’s responsibilities came by courtesy of Mrs. Vivienne Goonewardene, the LSSP Member of Parliament for Dehiwela-Galkissa and wife of Mr. Leslie Goonewardene, Minister of Communications.
-
-...
-
-[Data](articles/b80335ab.json)
-
-[Extended Data](ext_articles/b80335ab.ext.json)
-
----
-
-### India’s luxury airline Vistara concludes operations
-
-*2024-11-11 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103324/indias-luxury-airline-vistara-concludes-operations) · `en`
-
-Indian full-service carrier Vistara will operate its last flight on Monday, after nine years in existence.
-
-A joint venture between Singapore Airlines and the Tata Sons, Vistara will merge with Tata-owned Air India to form a single entity with an expanded network and broader fleet.
-
-This means that all Vistara operations will be transferred to and managed by Air India, including helpdesk kiosks and ticketing offices.
-
-The process of migrating passengers with existing Vistara bookings and loyalty programmes to Air India has been under way over the past few months.
-
-“As part of the merger process, meals, service ware and other soft elements have been upgraded and incorporates aspects of both Vistara and Air India,” an Air India spokesperson said in an email response.
-
-Amid concerns that the merger could impact service standards, the Tatas have assured that Vistara’s in-flight experience will remain unchanged.
-
-...
-
-[Data](articles/03c054a6.json)
-
-[Extended Data](ext_articles/03c054a6.ext.json)
-
----
-
-### Haitian prime minister leaves
-
-*2024-11-11 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203129) · `si`
-
-Haiti's PM resigns amid unrest. UN official replaces him. New leader faces challenges restoring stability ahead of elections. International community watches closely.
-
-🟩
-
-The ruling Council of Haitian Prime Minister has taken away the ruling Council.
-
-Eight of the nine members of the council have issued an order with the signatures.
-
-Alani Senate Candidity, a well-known businessman of the constitute, has been appointed.
-
-The former officer of the United Nations was appointed Prime Minister of Haiti to restore the security situation of the country.
-
-International media said that the expansion between conflict between the country's streets and conflicts between the various armed groups, the international media said.
-
-It is a major responsibility to create a suitable environment for the presidential election after 2016.
-
-Meanwhile, Connal says he is illegal to rid of him.
-
-He says that the future of Haiti will be another problem.
-
-◼️
-
-[Data](articles/79c64b96.json)
-
-[Extended Data](ext_articles/79c64b96.ext.json)
-
----
-
-### The 13th and 14th of the holidays for all universities
-
-*2024-11-11 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198404) · `ta`
-
-Universities granted holidays on 13th and 14th for elections. UGC decision affects public and private institutions. Aim: Ensure voting rights for staff and students. Resolution applies to all educational entities.
-
-🟩
-
-The University Grants Commission has announced that it has decided to grant holidays to all universities on the 13th and 14th of the upcoming general election.
-
-In a statement issued by the Commission, the action has been taken to ensure the voting rights of the state university staff and students.
-
-The resolution also applies to private universities and NGOs.
-
-Meanwhile, the Election Commission has ordered that the employees and students working in universities should be given holidays to vote in the election.
-
-◼️
-
-[Data](articles/28a21ee4.json)
-
-[Extended Data](ext_articles/28a21ee4.ext.json)
-
----
-
-### The liberal centre lost, again. Will it ever learn?
-
-*2024-11-11 11:54:00* · [`islandlk`](http://island.lk/the-liberal-centre-lost-again-will-it-ever-learn/) · `en`
-
-Victory may have many fathers, but defeat isn’t always an orphan. Just 24 hours after Donald Trump was declared as the 47th President of the United States, pundits and analysts are at it, trying to deconstruct perhaps one of the most consequential elections in US history and trying to find out what went wrong. The upshot of it is that yet another attempt at breaking the glass ceiling in the world’s supposed bastion of democracy has failed – though, unlike Hillary Clinton, Kamala Harris may return to the fight after the next five years are up. Until then, of course, a lot can happen. Not least of which, to the Democrats.
-
-...
-
-[Data](articles/9a0629c5.json)
-
-[Extended Data](ext_articles/9a0629c5.ext.json)
-
----
-
-### Trump’s greatest comeback the greatest setback for the USA
-
-*2024-11-11 11:51:00* · [`islandlk`](http://island.lk/trumps-greatest-comeback-the-greatest-setback-for-the-usa/) · `en`
-
-Last Tuesday, one of the most consequential elections in the history of the United States was concluded, with the people deciding, according to the constitution of the nation, to abandon the ideological system of governance defined by that very constitution. The living ideology of democracy, in the words of President Abraham Lincoln, of a “government of the people, by the people and for the people” has been replaced by an authoritarian kleptocracy.
-
-The archaic Constitution of the United States written over two centuries ago will be updated, replaced by a document created by the conservative Heritage Foundation, Project 2025 – Mandate for Leadership, to reflect the traditions and ideology of pre-World War II Germany. The Good Old Days of Jim Crow and Segregation.
-
-...
-
-[Data](articles/2ff5bfad.json)
-
-[Extended Data](ext_articles/2ff5bfad.ext.json)
 
 ---

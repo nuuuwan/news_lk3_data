@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 04:11:52**
+As of **2024-11-12 04:40:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,308 (100.0%) of 54,311 articles have been extended.
+54,311 (100.0%) of 54,311 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ As Sri Lanka prioritises seamless tourist services and experiences, safeguarding
 
 [Data](articles/72248de9.json)
 
+[Extended Data](ext_articles/72248de9.ext.json)
+
 ---
 
 ### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
@@ -58,6 +60,8 @@ Throughout his career, Indrarathna has exemplified dedication and integrity, bri
 
 [Data](articles/ddf3bea9.json)
 
+[Extended Data](ext_articles/ddf3bea9.ext.json)
+
 ---
 
 ### Call from university teachers for commitment to free education
@@ -71,6 +75,8 @@ For nearly two decades, State universities have been under siege. They were targ
 ...
 
 [Data](articles/2b3803ff.json)
+
+[Extended Data](ext_articles/2b3803ff.ext.json)
 
 ---
 

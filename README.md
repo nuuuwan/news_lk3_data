@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 19:25:13**
+As of **2024-11-11 19:41:27**
 
 ## Newspaper Stats
 
-*Scraped **54,246** Articles*
+*Scraped **54,253** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,244
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,072
-adaderanalk | 6,471
+adalk | 5,073
+adaderanalk | 6,477
 tamilmirrorlk | 7,580
 virakesarilk | 8,799
 adaderanasinhalalk | 9,465
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,465
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,245 (100.0%) of 54,246 articles have been extended.
+54,245 (100.0%) of 54,253 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/751c7d94.json)
+
+---
+
+### Sri Lanka’s debt restructuring to be completed by year-end: President
+
+*2024-11-11 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103337/sri-lankas-debt-restructuring-to-be-completed-by-year-end-president) · `en`
+
+President Anura Kumara Dissanayake says that Sri Lanka’s debt restructuring process can be completed by December.
+
+Speaking at a public rally in Gampaha today (11), he outlined the government’s plan to achieve financial stability amid ongoing economic challenges.
+
+“Our restructuring process is nearly complete, with only a small amount left to finalize,” President Dissanayake stated.
+
+He assured that by 2028, the country would be in a position to start repaying the restructured debt, as calculations are already underway to manage these future obligations.
+
+The President further highlighted that an International Monetary Fund (IMF) team is expected to arrive in Sri Lanka shortly after the upcoming general election to conduct a third review of the economic recovery program.
+
+He expressed confidence that this review would be wrapped up by the end of January or early February 2025, paving the way for a more stable economic foundation.
+
+◼️
+
+[Data](articles/61cc3a5b.json)
 
 ---
 
@@ -116,6 +138,18 @@ He has been arrested by the Colombo North Police Current Division.
 
 ---
 
+### Kochchikade OIC arrested over election law violation
+
+*2024-11-11 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103336/kochchikade-oic-arrested-over-election-law-violation-) · `en`
+
+The Officer-in-Charge (OIC) of the Kochchikade Police Station has been arrested by the Colombo-North Crimes Division over an alleged incident of violating election laws, the police said.
+
+◼️
+
+[Data](articles/ba9ac995.json)
+
+---
+
 ### Three police officers released on bail
 
 *2024-11-11 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203142) · `si`
@@ -167,6 +201,22 @@ The Ministry says that the main objective is to create legal and economic resour
 [Data](articles/00a3d71e.json)
 
 [Extended Data](ext_articles/00a3d71e.ext.json)
+
+---
+
+### Probe launched into Channel 4’s Easter attack allegations: CID summons Pilleyan for inquiry
+
+*2024-11-11 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103335/probe-launched-into-channel-4s-easter-attack-allegations-cid-summons-pilleyan-for-inquiry) · `en`
+
+Former Chief Minister of the Eastern Province Sivanesathurai Chandrakanthan alias Pilleyan has been summoned to the Criminal Investigations Department (CID) tomorrow (12), in order to record a statement related to the allegations in the documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
+
+Speaking at a press conference held today (11), Police Media Spokesman DIG Nihal Thalduwa said that the CID has launched a probe into the relevant incident as per a complaint lodged by an organization with the Ministry of Public Security against the statement made by Azad Maulana to Channel 4 on the 2019 Easter Sunday terror attacks.
+
+He said that accordingly, an investigation was launched by the CID into the controversial statements made by several individuals regarding the Easter attacks.
+
+...
+
+[Data](articles/e28ba1e7.json)
 
 ---
 
@@ -250,6 +300,20 @@ Investigations have been found that the birthday party was celebrated, with the 
 
 ---
 
+### බ්‍රික්ස් අයදුම්පත ප්‍රතික්ෂේප වෙලා නෑ
+
+*2024-11-11 17:46:34* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රික්ස්-අයදුම්පත-ප්‍රතික්ෂේප-වෙලා-නෑ/11-412977) · `si`
+
+BRICS සාමාජිකත්වය සඳහා ශ්‍රී ලංකාව ඉදිරිපත් කළ අයදුම්පත ප්‍රතික්ෂේප කර ඇති බවට පළ වූ පුවත් ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යංශය විසින් ප්‍රතික්ෂේප කර තිබේ.  විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කළේ, ඔක්තෝබර් 07 වැනිදා අමාත්‍ය මණ්ඩලය විසින් අනුමත කළ පරිදි ශ්‍රී ලංකාව BRICS සහ නව සංවර්ධන බැංකුවේ සාමාජිකත්වය සඳහා ඉල්ලුම් කළ බවයි.
+
+විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා විසින් BRICS සාමාජික රටවල සිටින අදාළ පිරිසට, ශ්‍රී ලංකාව RICS වෙත එක්වීමට ඇති කැමැත්ත ලිඛිතව ප්‍රකාශ කර ඇති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා ද මේ සම්බන්ධයෙන් රුසියානු ජනාධිපතිට ලිඛිතව දන්වා ඇති බවත් විදේශ කටයුතු අමාත්‍යංශය සඳහන් කරයි.
+
+...
+
+[Data](articles/b8873e65.json)
+
+---
+
 ### Government attention to provide relief to small and medium enterprises!
 
 *2024-11-11 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198448) · `ta`
@@ -322,6 +386,26 @@ Police Media Spokesperson DIG Talduuwa said that a police search, police sergean
 
 ---
 
+### Parliamentary Election-related complaints exceed 2,800
+
+*2024-11-11 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103334/parliamentary-election-related-complaints-exceed-2800-) · `en`
+
+The number of complaints received by the Election Commission in relation to the upcoming 2024 Parliamentary Poll has further increased.
+
+The Election Commission says that 231 more complaints have been received within yesterday (10).
+
+Accordingly, a total of 2,811 election complaints have been reported in connection with the parliamentary election from September 26 to November 10, the Election Commission said.
+
+Meanwhile, the Election Commission also says that 2,162 of the total number of complaints received have been resolved thus far.
+
+The General Election is scheduled to be held on November 14.
+
+◼️
+
+[Data](articles/8d705332.json)
+
+---
+
 ### Share market work limits at 3 hours on election day
 
 *2024-11-11 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනයේදී-කොටස්-වෙළඳපොළ-කටයුතු-පැය-3ට-සීමා-වෙයි/11-412975) · `si`
@@ -366,6 +450,24 @@ He was also the Director of the Environment Sustainability of the University.
 
 ---
 
+### Sri Lankan workers in UAE trafficked to Myanmar cybercrime camps, authorities warn
+
+*2024-11-11 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103333/sri-lankan-workers-in-uae-trafficked-to-myanmar-cybercrime-camps-authorities-warn-) · `en`
+
+The National Anti-Human Trafficking Task Force (NAHTTF) has issued a warning regarding a spike in cases of Sri Lankans being referred to cybercrime camps in Myanmar.
+
+According to the NAHTTF, recent reports have revealed that Sri Lankan citizens, particularly those living in the United Arab Emirates (UAE), are being targeted by human traffickers who falsely promise high-paying jobs, particularly in the IT sector.
+
+As per NAHTTF’s latest findings, traffickers lure skilled IT professionals under the pretense of lucrative foreign job opportunities. Victims are taken to places like Dubai for supposed interviews, only to be illegally transported and forced into cybercrime operations in Myanmar.
+
+Investigations into these cybercrime camps have uncovered severe human rights abuses, with detainees facing both mental and brutal physical torture, including electrocution, the NAHTTF said in a statement.
+
+...
+
+[Data](articles/823bb54c.json)
+
+---
+
 ### After the presidential election, the biggest upheaval in Jaffna
 
 *2024-11-11 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198439) · `ta`
@@ -387,6 +489,26 @@ The main election campaign of the National People's Power was held in front of t
 [Data](articles/865b6ffc.json)
 
 [Extended Data](ext_articles/865b6ffc.ext.json)
+
+---
+
+### 2024 General Election: What to do if you have not received polling card?
+
+*2024-11-11 17:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103332/2024-general-election-what-to-do-if-you-have-not-received-polling-card) · `en`
+
+The Deputy Postmaster General (Operations), Rajitha K. Ranasinghe announced that the distribution of official polling cards for the 2024 General Election has been completed.
+
+According to Ranasinghe, 97% of the total official polling cards have been distributed.
+
+He stated that those who have not received their official polling cards as of yet, can visit their local post office during working hours to collect them. He further said that this will be in effect until the date of the election.
+
+“So far, 97% of the official polling cards have been distributed. We have received more than 171 million official polling cards from the Election Commission. So far, we have been able to distribute more than 165 million polling cards,” Ranasinghe added.
+
+The Deputy Postmaster General further stated that the distribution process requires recipients to sign for their polling cards and if a recipient was not home at the time of delivery, the polling cards are being held at their designated post office.
+
+...
+
+[Data](articles/ea8a5614.json)
 
 ---
 
@@ -2213,159 +2335,5 @@ Following the last currency crisis, arguably the worst in the history of Sri Lan
 [Data](articles/db6d2b9b.json)
 
 [Extended Data](ext_articles/db6d2b9b.ext.json)
-
----
-
-### A virus fever disease again among young children
-
-*2024-11-11 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203126) · `si`
-
-Viral fever outbreak affects young children, warns Dr. Deepal Perera.
-
-🟩
-
-Dr. Deepal Perera, Specialist Dr. Deepal Perera, said that a fever disease among children is reported.
-
-◼️
-
-[Data](articles/0a11a021.json)
-
-[Extended Data](ext_articles/0a11a021.ext.json)
-
----
-
-### National United Nations Government - Vijitha Herath
-
-*2024-11-11 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198387) · `ta`
-
-National United Nations Government Minister Vijitha Herath confident majority seats parliamentary elections Tamil Muslim parties United National Party negotiations formation national united government
-
-🟩
-
-Minister Vijitherat has said that the National People's Power Government is confident of getting a majority seats in the parliamentary elections.
-
-He said that the national people's power is confident of seizing more seats in the new parliament, but his party would call for parliamentarians representing the Tamil Muslim parties to strengthen the political situation.
-
-However, he will not invite the United National Party and the United National Party to invite Tamil Muslim MPs, he said.
-
-"We are ready for negotiations on the formation of the national united government with the MPs representing the Tamil Muslim community," he said.
-
-◼️
-
-[Data](articles/1d0c0c3d.json)
-
-[Extended Data](ext_articles/1d0c0c3d.ext.json)
-
----
-
-### Gunmen kill 10 in bar shooting in Mexico’s Queretaro state
-
-*2024-11-11 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103317/gunmen-kill-10-in-bar-shooting-in-mexicos-queretaro-state) · `en`
-
-Gunmen killed 10 people in a bar in the central Mexican state of Queretaro late Saturday, authorities said, adding to a wave of violent crime that is gripping several areas of the country.
-
-The incident took place in a bar in the downtown area of the state’s capital, also known as Queretaro, where four gunmen entered, killing seven men and three women, according to the state attorney general and Queretaro city’s security chief.
-
-Seven other people were injured. One person was so far in police custody, authorities said. Investigators were at the scene and also looking into a vehicle believed to be linked to the incident.
-
-Queretaro is not commonly prone to high levels of violent crime, such as homicide, and is considered relatively safer than many other areas of Mexico.
-
-...
-
-[Data](articles/8d58bb7d.json)
-
-[Extended Data](ext_articles/8d58bb7d.ext.json)
-
----
-
-### Senior Officers of the Ministry of Health
-
-*2024-11-11 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198382) · `ta`
-
-Ministry of Health warns against fraudulent schemes involving senior officers. Officials advise against sending money via phone, WhatsApp, or other means. Public cautioned about potential scams targeting healthcare institutions.
-
-🟩
-
-The Ministry of Health has issued a special warning to health workers and the public regarding the organized committee of money laundering as senior officials of the Ministry of Health.
-
-The Ministry of Health has issued a statement saying that any official of the Ministry of Health will use the phone, WhatsApp or any other media to collect such money.
-
-Therefore, the Senior Officers of the Ministry of Health have advised the fraudsters not to deposit money in the bank account or not to send money in other ways.
-
-◼️
-
-[Data](articles/abbcb4a1.json)
-
-[Extended Data](ext_articles/abbcb4a1.ext.json)
-
----
-
-### Car collision on Colombo Lake House building
-
-*2024-11-11 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198384) · `ta`
-
-Car crashes into Colombo Lake House building. Driver uninjured. Safety wall damaged. Incident occurred on Monday morning.
-
-🟩
-
-A car crashed into the Colombo Lake House building on Monday morning, police said.
-
-The driver had no injuries as the safety wall in front of Lake House was damaged during the accident, police said.
-
-◼️
-
-[Data](articles/6ed2cf0c.json)
-
-[Extended Data](ext_articles/6ed2cf0c.ext.json)
-
----
-
-### Shipping service between Nagapattinam - Kankesanthurai
-
-*2024-11-11 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198381) · `ta`
-
-Nagapattinam-Kankesanthurai shipping service disrupted due to heavy rain. Resumed after weather check. 150 bookings cancelled. Ocean wave height and wind direction influence planning. Relying on Sri Lanka/India weather forecasts. Northeast monsoon expected soon.
-
-🟩
-
-Due to inclement weather, the service was halted from Thursday (7) last Thursday (7).
-
-Sri Lanka - Indian Shipping Service Private Company Director. Niranjan Nandakopan said,
-
-“On Friday (8), Saturday (9) and Sunday (10), the rainfall was unable to operate the shipping service.
-
-The shipping service will be determined by the weather weather for the day (12). So we have not booked on November 16th.
-
-Nearly 150 seats were booked before the shipping service suspended due to inclement weather.
-
-The height of the ocean wave and the direction of the wind help plan shipping trips. We rely on Sri Lanka and Indian weather forecasts and processors such as Windy App to determine whether it is safe to transport passengers.
-
-Moreover, the Department of Meteorology has said that the northeast monsoon will begin by the end of this month and that the low -lying low -lying area is being developed.
-
-◼️
-
-[Data](articles/97b67e06.json)
-
-[Extended Data](ext_articles/97b67e06.ext.json)
-
----
-
-### Minister Herath visits BIA; discusses creating special unit for flight delays
-
-*2024-11-11 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103316/minister-herath-visits-bia-discusses-creating-special-unit-for-flight-delays) · `en`
-
-Minister Vijitha Herath visited Bandaranaike International Airport (BIA) in Colombo to look into the complaints received with regards to the delays in Sri Lankan flights.
-
-During the visit, the minister had visited various sections of the airport and engaged in friendly discussions with the staff working there.
-
-Minister Vijitha Herath has emphasized the need to create a special unit representing the airport and SriLankan Airlines at the airport premises to provide passengers with immediate updates on flight delays while operating 24 hours a day and to provide maximum facilities to passengers during the delays.
-
-Furthermore, it is also stated that instructions have been given to the relevant authorities to take steps to minimize these delays.
-
-◼️
-
-[Data](articles/7f8bfbb1.json)
-
-[Extended Data](ext_articles/7f8bfbb1.ext.json)
 
 ---

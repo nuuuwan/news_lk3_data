@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 22:59:03**
+As of **2024-11-11 23:25:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,271 (100.0%) of 54,272 articles have been extended.
+54,272 (100.0%) of 54,272 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -320,19 +320,29 @@ The Criminal Investigations Department Public Complaints Investigation Division 
 
 ---
 
-### එල් බෝඩ් පාර්ලිමේන්තුවක් ආවොත් රටේ විශාල අර්බුදයක්
+### A large crisis in the country if an El board is coming
 
 *2024-11-11 19:14:20* · [`adalk`](https://www.ada.lk/breaking_news/එල්-බෝඩ්-පාර්ලිමේන්තුවක්-ආවොත්-රටේ-විශාල-අර්බුදයක්/11-412982) · `si`
 
-ණය ගෙවීමට නොහැකි වුණොත් නැවතත් පෝලිම් යුගයකට ගමන් කළ හැකි බවත්, 2028 දී ණය ගෙවීම ආරම්භ කළ යුතු බවත් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.  "එල් බෝඩ්"පාර්ලිමේන්තුවක් පත් වුව හොත් රටේ විශාල අර්බුදයක් ඇතිවීමට ඉඩ ඇති බවද ඔහු සඳහන් කළේය. ගෑස් සිලින්ඩරයෙන් තරග වදින නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ අවසන් ජනරැලිය අමතමින් මරදානයේදී අද (11දා) පැවති රැස්වීමේ දී ඔහු එසේ පැවසීය.
+Sri Lanka faces potential crisis if "El board" parliament formed. Former President Ranil Wickremesinghe warns of economic instability due to unpaid debts. Government struggles to negotiate with IMF over policies and tax reforms. Political tensions rise as opposition challenges current economic plans.
 
-ජනපතිගේ සිට මාලිමාවේ කිසිම පාලකයෙකුට පළපුරුද්දක් නැති බව දැනටමත් ඔප්පු වෙමින් තිබෙන බව කී හිටපු ජනාධිපතිවරයා පලපුරුද්ද මෙන්ම කළ පුරුද්ද ඇති ගෑස් සිලින්ඩර අපේක්ෂකයන් බහුතර පිරිසක් පාර්ලිමේන්තුවට යවන්නැයි ඉල්ලා සිටින බවද සඳහන් කළේය.
+🟩
 
-අවසන් ජන රැලියේදී වැඩිදුරටත් අදහස් දැක්වූ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙසේද කීය.“මේ රටේ තිබුණු පෝලිම් සියල්ල අප විසින් නතර කළා.අපි මූල්‍ය අරමුදල සමග සාකච්ඡා කොට ණය සියල්ල කළමනාකරණය කර ගත්තා. 2028 වන විට අප ණය ගෙවීම ඇරැඹිය යුතුයි.ඊට2042 වෙනතුරු කල් තිබෙනවා.
+Former President Ranil Wickremesinghe said that if the debt could be moved again and to commence the debt in 2028, former President Ranil Wickremesinghe said.If a "El board" parliament is appointed, a major crisis in the country may have caused a big crisis. He said so at the meeting held today (11) at the meeting held today (11) at the meeting of the New Democratic Front.
+
+The former president said that the former president said that no ruler of the President had already been proven to be proven to no one ruler of the compass to Parliament.
+
+Speaking further, President Ranil Wickremesinghe said at the final rally.. By 2028, we must pay off debts.
+
+If you do not pay off the debt, the President has not been uncertain.Can the government solve?
+
+How does this government discuss with the IMF?In the presidential election, a rich country brought a beautiful life policy. Can you have been implemented with the IMF and in Washington?. Are you discussing the third premium?
 
 ...
 
 [Data](articles/a5fe9c08.json)
+
+[Extended Data](ext_articles/a5fe9c08.ext.json)
 
 ---
 

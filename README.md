@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 14:59:41**
+As of **2024-11-11 15:41:24**
 
 ## Newspaper Stats
 
-*Scraped **54,202** Articles*
+*Scraped **54,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,143 @@ newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 551
 colombotelegraphcom | 554
-islandlk | 3,239
+islandlk | 3,242
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,065
+adalk | 5,066
 adaderanalk | 6,467
-tamilmirrorlk | 7,574
+tamilmirrorlk | 7,578
 virakesarilk | 8,789
-adaderanasinhalalk | 9,453
+adaderanasinhalalk | 9,454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,202 (100.0%) of 54,202 articles have been extended.
+54,207 (100.0%) of 54,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### வாக்காளர் அட்டைகளை அணுக ஒன்லைன் முறை அறிமுகம்
+
+*2024-11-11 15:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டைகளை-அணுக-ஒன்லைன்-முறை-அறிமுகம்/175-346944) · `ta`
+
+பாராளுமன்றத் தேர்தலை முன்னிட்டு, வாக்காளர்கள் தங்களது வாக்காளர் அட்டைகளை அணுகுவதற்கு ஏதுவான, நிகழ்நிலை முறையை தேர்தல் ஆணைக்குழு அறிமுகப்படுத்தியுள்ளது.
+
+உத்தியோகபூர்வ வாக்காளர் அட்டைகளை இதுவரை பெற்றுக் கொள்ளாத வாக்காளர்கள் சரியான அடையாள அட்டையைப் பயன்படுத்தி ஒதுக்கப்பட்ட வாக்களிப்பு நிலையங்களில் வாக்களிக்க முடியும் என ஆணைக்குழு தெளிவுபடுத்தியுள்ளது.
+
+மேலும், இதுவரை தங்களின் வாக்காளர் அட்டைகளை தபால் மூலம் பெற்றுக் கொள்ளாத வாக்காளர்கள், தங்கள் வாக்காளர் அட்டைகளின் நிலையை அறிய, அருகிலுள்ள அல்லது உள்ளூர் தபால் நிலையங்களுக்குச் சென்று அதுகுறித்து கேட்டு அறிந்து கொள்ள முடியும்.
+
+◼️
+
+[Data](articles/1c09e47f.json)
+
+---
+
+### Petitions against Patriot
+
+*2024-11-11 15:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசபந்துவுக்கு-எதிரான-மனுக்கள்-விசாரணைக்கு-நாள்-குறிப்பு/175-346943) · `ta`
+
+High Court orders hearings for petitions against Patriot Act on Feb 24-25, 2025, filed by 8 parties including Archbishop Malcolm Ranjith and Young Journalists Association.
+
+🟩
+
+The fundamental rights petitions filed by the National Rights Petitions are to be taken up for hearing.
+
+The High Court today (11) ordered the hearing of the petitions on February 24 and 25, 2025.
+
+The petitions have been filed by eight parties, including Archbishop Malcolm Ranjith and the Young Journalists Association.
+
+The order was issued today as the petitions were taken up in the presence of a panel of High Court Judges, Yasantha Gothagoda, Achala Venkapuli and Arjuna Obeesekera.
+
+◼️
+
+[Data](articles/c853c93f.json)
+
+[Extended Data](ext_articles/c853c93f.ext.json)
+
+---
+
+### CIT order to take charge of Sujiva's car
+
+*2024-11-11 15:17:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜிவவின்-காரை-பொறுப்பேற்குமாறு-சிஐடிக்கு-உத்தரவு/175-346941) · `ta`
+
+Sujeewa Senasinghe orders CID to investigate suspicious car case at Fort Magistrate's Court.
+
+🟩
+
+Former parliamentarian Sujeewa Senasinghe has ordered the Criminal Investigation Department to take up the suspicious car at the Fort Magistrate's Court.
+
+The order was issued by the Criminal Investigation Division (CID) in connection with the car.
+
+◼️
+
+[Data](articles/f6e4ed3c.json)
+
+[Extended Data](ext_articles/f6e4ed3c.ext.json)
+
+---
+
+### Shift
+
+*2024-11-11 15:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மை-பூசும்-விரலில்-மாற்றம்/175-346940) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Election Commission announcement: During the upcoming general election, voters will use their little finger for voting instead of the index finger of their left hand. This change aims to improve efficiency and accuracy in the voting process.
+
+🟩
+
+The Election Commission said that during the upcoming general election, the voters' small finger will not be covered and the index of the left hand will be applied.
+
+◼️
+
+[Data](articles/1d809791.json)
+
+[Extended Data](ext_articles/1d809791.ext.json)
+
+---
+
+### The robber raised his home for the gem business
+
+*2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
+
+Robber flees with gems, cash, gold after stealing car. Police recover vehicle, suspect shoe prints. Wife, father undergo forensic tests. Security footage compromised.
+
+🟩
+
+Five unidentified robbers have fled a car worth Rs.
+
+The millionaire businessman last night, his wife and his father's arms were treated with the roof.
+
+The police have been able to find the gem businessman's car in the Talawela Police area in the Talawela Police area.
+
+The thieves have also taken money, gold and three billion worth of gemstone.
+
+Police say that the robberies have come to the back of the wall and cover a pistol with a pistol in the head, police said.
+
+The complaint lodged with the wife and his father had taken the robbery and the car had taken the robbery.
+
+Later, the car was placed on the police station, the police dog was inspected by the police dog.
+
+A pair of footwear has been a suspected pair of shoes who have been robbed.
+
+The police said that the dog was staying at a very distance from the businessman's house and was observed that the suspects were staying at the site.
+
+The official dog was staying on a three-kilometer route, alongside another by road, police said.
+
+...
+
+[Data](articles/7e8b8d54.json)
+
+[Extended Data](ext_articles/7e8b8d54.ext.json)
+
+---
 
 ### Court orders Sujeewa's car to take over the CID
 
@@ -131,6 +249,34 @@ Some political outputs call for crocodile tears on the election stage, and some 
 [Data](articles/d1cf7452.json)
 
 [Extended Data](ext_articles/d1cf7452.ext.json)
+
+---
+
+### Laggala businessman robbed property property
+
+*2024-11-11 13:41:44* · [`adalk`](https://www.ada.lk/breaking_news/ලග්ගල-මැණික්-ව්‍යාපාරිකයෙකුගේ-කෝටි-7ක-දේපළ-කොල්ලකාලා/11-412968) · `si`
+
+Businessman robbed millionaire's house in Laggala. Thieves stole gold, gems worth billions. Police found car near Galewela. Suspects identified, investigation ongoing.
+
+🟩
+
+The businessman who entered the house of a millionaire gem and businessman in Laggala Deposita area, Laggala police said.
+
+The abducted car was found in the Talakiriyagama Police area near the Maha Path of the Galewela area.
+
+Laggala police say that the money of the famous gem businessman, Laggala, a public gem businessman, is stolen of gold items and three billion worth of gems.
+
+According to the police, five persons who came to the head of the house and pasted his hands on the head of the house while the businessman had come to the house and was taken into the house with the businessman who had come to the house.
+
+His complaint was carried out by the police, gold and mobile phone and car when they left the house and the arms of his wife had taken their father's leather when they left.
+
+Testing of Talakiriyagama Police Station was inspected to the Trincomalee Police Station in the Galewela Police.The police were made 11 days before the 11th.
+
+...
+
+[Data](articles/d385aed1.json)
+
+[Extended Data](ext_articles/d385aed1.ext.json)
 
 ---
 
@@ -506,6 +652,20 @@ Meanwhile, if a voter’s left index finger is unavailable, the mark will be app
 
 ---
 
+### Mother and Daughter
+
+*2024-11-11 12:16:00* · [`islandlk`](http://island.lk/mother-and-daughter/) · `en`
+
+Anticipating Kamala Harris winning the US presidency, the original title of my article was The Woman Behind the 47th President of the United States. Most unfortunately and surprisingly to us, Donald Trump won the election. However, defeated Kamala has a couple of achievements to her name. She is the first woman, Black American and South Asian American to be elected Vice President of the US, District Attorney of San Francisco and Attorney General of California. And more importantly she is young, healthy, vibrant and next time around may overcome obvious prejudices in the minds of the American voting public and garner the honour of being first woman president of the US. Four years hence?
+
+...
+
+[Data](articles/f3362dc1.json)
+
+[Extended Data](ext_articles/f3362dc1.ext.json)
+
+---
+
 ### Changes the colored finger at the general election
 
 *2024-11-11 12:15:48* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයේදී-වර්ණ-ගන්වන-ඇඟිල්ල-වෙනස්-කරයි/11-412966) · `si`
@@ -643,6 +803,52 @@ Meanwhile, the Election Commission has ordered that the employees and students w
 [Data](articles/28a21ee4.json)
 
 [Extended Data](ext_articles/28a21ee4.ext.json)
+
+---
+
+### The liberal centre lost, again. Will it ever learn?
+
+*2024-11-11 11:54:00* · [`islandlk`](http://island.lk/the-liberal-centre-lost-again-will-it-ever-learn/) · `en`
+
+Victory may have many fathers, but defeat isn’t always an orphan. Just 24 hours after Donald Trump was declared as the 47th President of the United States, pundits and analysts are at it, trying to deconstruct perhaps one of the most consequential elections in US history and trying to find out what went wrong. The upshot of it is that yet another attempt at breaking the glass ceiling in the world’s supposed bastion of democracy has failed – though, unlike Hillary Clinton, Kamala Harris may return to the fight after the next five years are up. Until then, of course, a lot can happen. Not least of which, to the Democrats.
+
+...
+
+[Data](articles/9a0629c5.json)
+
+---
+
+### Trump’s greatest comeback the greatest setback for the USA
+
+*2024-11-11 11:51:00* · [`islandlk`](http://island.lk/trumps-greatest-comeback-the-greatest-setback-for-the-usa/) · `en`
+
+Last Tuesday, one of the most consequential elections in the history of the United States was concluded, with the people deciding, according to the constitution of the nation, to abandon the ideological system of governance defined by that very constitution. The living ideology of democracy, in the words of President Abraham Lincoln, of a “government of the people, by the people and for the people” has been replaced by an authoritarian kleptocracy.
+
+The archaic Constitution of the United States written over two centuries ago will be updated, replaced by a document created by the conservative Heritage Foundation, Project 2025 – Mandate for Leadership, to reflect the traditions and ideology of pre-World War II Germany. The Good Old Days of Jim Crow and Segregation.
+
+...
+
+[Data](articles/2ff5bfad.json)
+
+---
+
+### JRJ’s detailed account of the drawing of the Indo-Lanka Peace Agreement
+
+*2024-11-11 11:47:00* · [`islandlk`](http://island.lk/jrjs-detailed-account-of-the-drawing-of-the-indo-lanka-peace-agreement/) · `en`
+
+A timetable was worked out between the two governments for signing an Accord based on these proposals to take place preferably in January 1987. Chidambaram and Natwar Singh visited Colombo for further discussions with me for the third time on December 17, 1986. No agreement could be reached at these discussions for (a) ( the merger of the two Provinces (the North and the East) or (b) exclusion of the Amparai District from the Eastern Province.
+
+An official statement issued after the 19 December 19 meeting, made the following points:
+
+President J.R. Jayewardene and the two Indian Ministers discussed further ideas in continuation of the discussions held in the past. At the end of the discussions, the following proposals emerged:
+
+i) The present territory comprising the Eastern Province minus the Amparai Electoral District may constitute the new Eastern Province.
+
+ii) A Provincial Council will be established for the new Eastern Province.
+
+...
+
+[Data](articles/a9a31ccd.json)
 
 ---
 
@@ -2117,231 +2323,5 @@ At a special event organised at Narangala Tamil Vidyalayam, the High Commissione
 [Data](articles/9f60cc52.json)
 
 [Extended Data](ext_articles/9f60cc52.ext.json)
-
----
-
-### India-funded surgical unit inaugurated at Batticaloa Teaching Hospital
-
-*2024-11-11 03:35:24* · [`dailyftlk`](https://www.ft.lk/news/India-funded-surgical-unit-inaugurated-at-Batticaloa-Teaching-Hospital/56-769091) · `en`
-
-High Commissioner of India to Sri Lanka Santosh Jha and Sri Lanka Health Ministry Secretary Dr. Palitha Gunaratna Mahipala jointly inaugurated the newly constructed surgical unit at the Batticaloa Teaching Hospital on 4 November.
-
-Batticaloa Government Agent Muralidharan, Eastern Provincial Health Secretary and Batticaloa Municipal Commissioner Sivalingam, Batticaloa Teaching Hospital Director Dr. Kalaranchane Ganeshalingam, senior officials from the Health Ministry of Sri Lanka, Eastern Provincial Council and Batticaloa District administration, and staff of the Batticaloa Teaching Hospital, among others, attended the event.
-
-The need for a new surgical ward was identified at the hospital around 2015 due to the escalating number of patients admitted to wards, and the growing number of surgeries performed. At the time of the proposal, approximately 1,280 patients were on waiting lists for surgeries. Due to the hospital’s limited facilities, patients had to face excessive waiting times.
-
-...
-
-[Data](articles/aeeac49c.json)
-
-[Extended Data](ext_articles/aeeac49c.ext.json)
-
----
-
-### Ambassador Isomata presents credentials to President Dissanayake
-
-*2024-11-11 03:33:40* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Isomata-presents-credentials-to-President-Dissanayake/56-769090) · `en`
-
-New Ambassador of Japan Isomata Akio presented his Letter of Credence to President Anura Kumara Dissanayake on 7 November at the Presidential Secretariat.
-
-Following the presentation of the credentials, Ambassador Isomata conveyed the message from His Majesty the Emperor to President. the Ambassador also exchanged views with the President on how to strengthen Sri Lanka-Japan relationship through cooperation in various sectors that will contribute to socio-economic development of Sri Lanka. This meeting reaffirmed the strong bonds of friendship between Japan and Sri Lanka. Together, they are looking forward to building a future of mutual growth, prosperity, and lasting partnership.
-
-◼️
-
-[Data](articles/25f4e0cf.json)
-
-[Extended Data](ext_articles/25f4e0cf.ext.json)
-
----
-
-### Pakistan High Commission awards prestigious Allama Iqbal Scholarships to Lankan students
-
-*2024-11-11 03:31:53* · [`dailyftlk`](https://www.ft.lk/news/Pakistan-High-Commission-awards-prestigious-Allama-Iqbal-Scholarships-to-Lankan-students/56-769089) · `en`
-
-THE Pakistan High Commission, Colombo, in collaboration with the Higher Education Commission, Pakistan held the Allama Iqbal Scholarship Award distribution ceremony on 30 October.
-
-The scholarship is named after Allama Muhammad Iqbal, one of the greatest philosophers and visionary also known as ‘Poet of the East’. Allama Iqbal inspired countless individuals through his profound thoughts and unwavering commitment to education.
-
-The Allama Iqbal scholarship program for the deserving Sri Lankan students was started in 2019. This year, for the sixth batch of the program, 200 fully funded scholarships have been awarded to the students. At present, around 500 students are already pursuing their academic degrees at graduate, postgraduate and PhD level. The next intake will start in February 2025.
-
-...
-
-[Data](articles/4b488b06.json)
-
-[Extended Data](ext_articles/4b488b06.ext.json)
-
----
-
-### The election campaign is completed today at midnight
-
-*2024-11-11 03:03:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரசாரம்-இன்று-நள்ளிரவுடன்-நிறைவு/175-346914) · `ta`
-
-Election campaign ends midnight Monday: Chairman RMAL. Media banned from paying bills after deadline. Candidates must remove banners from homes. Election Day silence begins.
-
-🟩
-
-The chairman of the Election Commission, RMAL, said that the campaign for the parliamentary elections will be completed at 12 midnight on Monday.. Ratnayake said.
-
-He explained this during a media briefing held at the Election Commission office in Rajagiriya on Sunday.
-
-All the campaigns for the election will be completed on Monday midnight. The media is prohibited for bills being paid. After that, the election day is silent.
-
-Similarly, if banners are displayed and decorated in candidates' homes, they should also be removed. Otherwise, according to the Election Act, all of them will be taken to remove them.. (A)
-
-◼️
-
-[Data](articles/5b1d3285.json)
-
-[Extended Data](ext_articles/5b1d3285.ext.json)
-
----
-
-### “AKD’s Govt. follows same path ‘Vel Palama’ after RW” – Susil Premajayanth
-
-*2024-11-11 02:48:34* · [`dailyftlk`](https://www.ft.lk/columns/AKD-s-Govt-follows-same-path-Vel-Palama-after-RW-Susil-Premajayanth/4-769076) · `en`
-
-Confirms Ranil Wickremesinghe Govt. planned to resolve salary anomalies in public sector by January 2025
-
-Appreciates Ranil Wickremesinghe for putting SL back on track and says he is the real leader
-
-Says NPP carefully and strategically deviated from JVP to form NPP to show their hands are clean
-
-Claims NPP has no permanent vote base and it fluctuates when it breaches its promises to people
-
-Suggests Namal Rajapaksa has to wait for 10 to 15 years and show his genuineness and anti-corruption stance to rebuild SLPP
-
-The Government is confronted with many challenges including finalising debt restructuring and strictly following the conditions laid down by the International Monetary Fund (IMF) while keeping promises that the NPP have given to people, Colombo district candidate for the New Democratic Front (NDF) Susil Premajayath said.
-
-...
-
-[Data](articles/ed8f118e.json)
-
-[Extended Data](ext_articles/ed8f118e.ext.json)
-
----
-
-### Dimitra Abeysekara: Young voice for Sri Lanka’s political future
-
-*2024-11-11 02:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/Dimitra-Abeysekara-Young-voice-for-Sri-Lanka-s-political-future/14-769075) · `en`
-
-As the youngest candidate contesting for the Colombo district on the Sri Lanka Podujana Peramuna (SLPP) ticket, Dimitra Abeysekara brings a fresh perspective to Sri Lanka’s political arena. Representing the Lanka Sama Samaja Party (LSSP) within a coalition, Abeysekara is committed to safeguarding democracy and promoting a political environment where diverse voices are heard. In a candid conversation, he shares his thoughts on the dangers of single-party rule, the role of youth in reshaping the political landscape, and the need for continuity in policy-making. Following are excerpts:
-
-Q: Dimitra, can you tell us about your background and your role in the upcoming election?
-
-...
-
-[Data](articles/d9d4a55e.json)
-
-[Extended Data](ext_articles/d9d4a55e.ext.json)
-
----
-
-### 2580 complaints on general election
-
-*2024-11-11 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198378) · `ta`
-
-Election Commission reports 2,580 complaints from Sept 26-Nov 11. 744 for national center, 1,781 for district centers. 20 violence complaints, 35 others received.
-
-🟩
-
-The Election Commission said that 2,580 complaints have been received from the 14th of September (from September 26 to November 11).
-
-Accordingly, 744 complaints have been received for the National Election Complaint Management Center and 1,781 to the District Election Complaint Management Center for violating election laws.
-
-Meanwhile, the District Election Complaint Management Center has received 20 complaints of violence and 35 complaints.
-
-◼️
-
-[Data](articles/3c65f913.json)
-
-[Extended Data](ext_articles/3c65f913.ext.json)
-
----
-
-### Are you going to vote for those who bombed and bombed in Batticaloa?- Irrigation
-
-*2024-11-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198379) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Election debate in Batticaloa: Candidates accused of fraud, corruption, temple bombings. Voter choice impacts Tamil nationalism, development projects. Candidates' past actions questioned. Symbolism of unity discussed.
-
-🟩
-
-Do you vote for the fraudsters and the assassination of many people who have been accused of corruption in the Batticaloa district and are going to vote for fraudulent money laundering in the temples and the independent groups who have been bombed by the bombing of the temples?Former Eastern Provincial Council member R. Durairatnam said that people should think
-
-He was speaking at a media conference held at the EPRLF party at the Wavikarai Road, Batticaloa on Sunday (10).
-
-The election is being held for selecting a good and healthy healthy corruption scam who can serve the people in Sri Lanka.
-
-While the people are ready to choose the talented and the good ones in the district, the people who have committed many corrupt massacres are spending the money that has taken place on the 14th.
-
-...
-
-[Data](articles/cdb7122c.json)
-
-[Extended Data](ext_articles/cdb7122c.ext.json)
-
----
-
-### Conspiracy to close Triposha
-
-*2024-11-11 01:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷாவை-மூடுவதற்கு-சதி/175-346913) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sajith Premadasa accuses President Anura Kumara Dissanayake of conspiring to close Triposha, a program providing food aid to vulnerable groups. Premadasa claims this threatens children and mothers' nutrition. He vows to protect Triposha and criticizes the government's handling of fuel prices and corruption allegations.
-
-🟩
-
-United People's Power Leader Sajith Premadasa has said that President Anura Kumara Dissanayake, who represents the ordinary people's class, has been involved in a conspiracy to dissolve the Triposha factory a week before he took office.
-
-It is a plot against children and mothers. The Triposha is being offered to children under the age of 5, pregnant mothers and lactating mothers in the country.. 16 lakh buckets are being provided a month. It is currently being provided to 664,920 mothers and 925,172 children.
-
-A meeting with the people of Avissawella, organized by the United People's Power Candidate Sudath Wickramaratne, was held on Saturday (09). He said the above while addressing it.
-
-The meeting was attended by many, including party activists. He said this while addressing the gathering.
-
-...
-
-[Data](articles/405a1634.json)
-
-[Extended Data](ext_articles/405a1634.ext.json)
-
----
-
-### Indian 'expansionism' and the government: Before and now a change of positions?
-
-*2024-11-11 01:51:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy5lp9e2r33o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's JVP/NPP party stance on India has shifted under new leadership. Formerly critical, now seeking cooperation. President Anura Kumara Dissanayake visits India, criticizes past agreements. Party members express mixed views on relations with India. Experts caution careful handling of sensitive diplomacy.
-
-🟩
-
-Indian 'expansionism' and the government: Before and now a change of positions?
-
-The national folk force represented by President Anura Kumara Dissanayake was based on his leadership.
-
-The Indian Airlines was a major slogan from the early days of his leadership.
-
-The JVP is considered one of the five public classes since the 1960's, the Indian expansion has been allocated to explain.
-
-In addition, the JVP continued to protest with many agreements including the Indo-Lanka Accord.
-
-Anura Kumara Dissanayake has criticized the proposed agreements that were proposed to have with India by 2022.
-
-...
-
-[Data](articles/2d6a5db2.json)
-
-[Extended Data](ext_articles/2d6a5db2.ext.json)
 
 ---

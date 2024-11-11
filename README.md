@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 05:46:25**
+As of **2024-11-11 06:11:27**
 
 ## Newspaper Stats
 
-*Scraped **54,108** Articles*
+*Scraped **54,114** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 549
 colombotelegraphcom | 553
-islandlk | 3,230
+islandlk | 3,236
 economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,108 (100.0%) of 54,108 articles have been extended.
+54,113 (100.0%) of 54,114 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -502,6 +502,36 @@ Are told to vote to clean up parliament. The names of the candidates are not eve
 
 ---
 
+### LOLC Finance reports Rs. 8.1 billion PAT in 1H 2024
+
+*2024-11-11 01:39:00* · [`islandlk`](http://island.lk/lolc-finance-reports-rs-8-1-billion-pat-in-1h-2024/) · `en`
+
+LOLC Finance PLC has announced outstanding financial results for the six months ending 30th September 2024, marking a strong first half of profitability and growth. The company achieved a Profit After Tax (PAT) of Rs. 8.1 billion, a significant 46% increase compared to the Rs. 5.6 billion reported during the same period in 2023. This robust performance emphasises LOLC Finance’s strength and resilience within a dynamic financial landscape.
+
+...
+
+[Data](articles/47e772c9.json)
+
+[Extended Data](ext_articles/47e772c9.ext.json)
+
+---
+
+### ‘ComBank Digital’ wins Gold at national ICT Awards 2024
+
+*2024-11-11 01:38:00* · [`islandlk`](http://island.lk/combank-digital-wins-gold-at-national-ict-awards-2024/) · `en`
+
+The Commercial Bank of Ceylon has won the coveted Gold at the 2024 National Best Quality Software Awards (NBQSA), the national ICT awards.The Bank won the Gold in the highly competitive ‘Banking, Insurance & Finance Consumer’ category for ‘ComBank Digital’ – the Bank’s flagship digital channel that serves retail, SME and corporate clients.
+
+Complementing this triumph, the Bank received a Merit award in the same category for ‘Jimi GPT’ – the generative AI-powered Knowledge Assistant that assists more than 3,000 branch staff to instantly access the information they need from the Bank’s Intranet to serve customers.
+
+...
+
+[Data](articles/1a42ad8b.json)
+
+[Extended Data](ext_articles/1a42ad8b.ext.json)
+
+---
+
 ### Take action with the model
 
 *2024-11-11 01:37:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-நடவடிக்கை-எடுக்கவும்/175-346908) · `ta`
@@ -535,6 +565,44 @@ But his critics charge that he is without experience in statesmanship. Being a f
 [Data](articles/c1862234.json)
 
 [Extended Data](ext_articles/c1862234.ext.json)
+
+---
+
+### Sargia Sri Lanka ramps up destination marketing in expansion drive
+
+*2024-11-11 01:30:00* · [`islandlk`](http://island.lk/sargia-sri-lanka-ramps-up-destination-marketing-in-expansion-drive/) · `en`
+
+The newly formed Sargia Sri Lanka, a destination management company Co-Founded by George Paul and Rochelle Edirisinghe, has unveiled its reimagined headquarters in Moratuwa.
+
+Known for its distinctively authentic travel experiences and renowned hospitality, Sargia has garnered a global reputation, drawing clients from countries including Australia, the United Kingdom, Dubai, the Netherlands, Malta and India.
+
+“With the company’s recent expansion, Sargia now creates over 250 direct and indirect employment opportunities for Sri Lankans across the travel industry and related sectors,” said Sargia Sri Lanka, Co-Founders George Paul and Rochelle Edirisinghe.
+
+Sargia Sri Lanka also extends its influence internationally through its Dubai-based subsidiary, Al Taraf Al Mukhtalif Tourism, which operates under the Sargia Dubai brand. This branch offers exceptional travel services and hospitality for Sri Lankan nationals and other travelers in the Middle East.
+
+...
+
+[Data](articles/80b5a70a.json)
+
+[Extended Data](ext_articles/80b5a70a.ext.json)
+
+---
+
+### Singapore press club delegates explore Sri Lanka with SriLankan Airlines
+
+*2024-11-11 01:27:00* · [`islandlk`](http://island.lk/singapore-press-club-delegates-explore-sri-lanka-with-srilankan-airlines/) · `en`
+
+Delegates from the Singapore Press Club recently visited Sri Lanka, with SriLankan Airlines collaborating with the Sri Lanka High Commission in Singapore as the airline partner for the group’s tour. During their visit, they were welcomed by the Head of Worldwide Sales, Dimuthu Tennakoon, and the SriLankan Airlines Corporate Communications team, who shared insights into the airline’s operations between Colombo and Singapore.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/45309c66.json)
+
+[Extended Data](ext_articles/45309c66.ext.json)
 
 ---
 
@@ -2247,91 +2315,5 @@ The road traffic was disrupted for about an hour as the other vehicles that were
 [Data](articles/9de1ebf5.json)
 
 [Extended Data](ext_articles/9de1ebf5.ext.json)
-
----
-
-### Trump again: Is Sri Lanka favorable?
-
-*2024-11-10 15:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198319) · `ta`
-
-Trump comments on Sri Lanka's left-wing president, drawing parallels between US election and SL political landscape.
-
-🟩
-
-It is in the context of the radical left -wing president in Sri Lanka that Trump has been elected as the president of the United States.
-
-◼️
-
-[Data](articles/fdf43252.json)
-
-[Extended Data](ext_articles/fdf43252.ext.json)
-
----
-
-### Notice of Matara Traffic restricted
-
-*2024-11-10 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203103) · `si`
-
-Matara traffic restricted due to election. Counting center at Rahula College. Ballot boxes from Ranaviru Roundabout to centers. Use alternative routes. Vehicles can travel via New Tangalle Road or old Tangalle Road.
-
-🟩
-
-Police say that traffic on the Matara coast will be restricted to the Matara coast with the general election.
-
-The Police Media Media has issued an announcement and said that a counting center is to be established at Rahula College in Matara regarding the parliamentary general election on November 14.
-
-Therefore, according to the security and traffic plan for the election on the 12th. The ballot boxes will be parked from the Ranaviru Roundabount on the Matara Coast to the respective centers until 12 to 13.
-
-As a result, the police urges the public to use alternative routes instead of that road.
-
-Accordingly, vehicles from Matara to Kataragama and Kataragama to Matara can be operated along the New Tangalle Road and the old Tangalle road.
-
-◼️
-
-[Data](articles/3b7d2690.json)
-
-[Extended Data](ext_articles/3b7d2690.ext.json)
-
----
-
-### One killed in Kiliyapitiya
-
-*2024-11-10 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198331) · `ta`
-
-A 50-year-old man from Kupukoduwa, Anukane, died after falling into the Weliyaye canal in Kiliyapitiya. He was on his way to work on a motorcycle when the incident occurred on August 8th. The victim was a school guardian in Kuliyapitiya.
-
-🟩
-
-The Kiliyapitiya police said that a man died after falling into the Weliyaye canal in the Wahumuwa area belonging to the Kiliyapitiya police division.
-
-The deceased is a 50 -year -old man from Kupukoduwa, Anukane.
-
-The deceased is working as a guardian at a school in Kuliyapitiya. Investigations have revealed that the canal fell and died while on his way to work on a motorcycle on the 8th.
-
-◼️
-
-[Data](articles/ea946035.json)
-
-[Extended Data](ext_articles/ea946035.ext.json)
-
----
-
-### SriLankan Airline’s ‘Ramayana Trail’ ad earns praise online
-
-*2024-11-10 15:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103305/srilankan-airlines-ramayana-trail-ad-earns-praise-online) · `en`
-
-The Sri Lankan airlines’ advertisement promoting the Ramayana Trail has garnered praise for showcasing locations tied to the epic.
-
-An advertisement by Sri Lankan Airlines showcasing the “Ramayana Trail”, a journey through the iconic locations connected to the story of Ramayana, has won hearts on the internet.
-
-The five-minute advertisement shows a grandmother narrating the story of the Hindu epic to her grandson from a children’s book. The grandson asks about the island where Ravan took Sita after kidnapping her. The grandmother then tells him the story of the kingdom of Ravan in modern-day Sri Lanka.
-
-“All the places in the Ramayana are real. Today we know Lanka as Sri Lanka,” she says, as the video shows visuals of Ravan’s Cave near Ella town, where Sita is believed to have kept before she was moved to the Ashoka Vatika inside the demon king’s palace.
-
-...
-
-[Data](articles/a3c437fa.json)
-
-[Extended Data](ext_articles/a3c437fa.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 06:11:27**
+As of **2024-11-11 06:46:04**
 
 ## Newspaper Stats
 
-*Scraped **54,114** Articles*
+*Scraped **54,118** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 549
 colombotelegraphcom | 553
-islandlk | 3,236
+islandlk | 3,239
 economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
 adalk | 5,053
 adaderanalk | 6,450
-tamilmirrorlk | 7,555
+tamilmirrorlk | 7,556
 virakesarilk | 8,777
 adaderanasinhalalk | 9,435
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,113 (100.0%) of 54,114 articles have been extended.
+54,114 (100.0%) of 54,118 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -245,6 +245,24 @@ The Allama Iqbal scholarship program for the deserving Sri Lankan students was s
 [Data](articles/4b488b06.json)
 
 [Extended Data](ext_articles/4b488b06.ext.json)
+
+---
+
+### தேர்தல் பிரசாரம் இன்று நள்ளிரவுடன் நிறைவு
+
+*2024-11-11 03:03:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-பிரசாரம்-இன்று-நள்ளிரவுடன்-நிறைவு/175-346914) · `ta`
+
+நாடாளுமன்றத் தேர்தலுக்கான பிரசாரப் பணிகள் இன்று திங்கட்கிழமை நள்ளிரவு 12 மணியுடன் நிறைவடைகின்றது என்று தேர்தல் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல். ரத்நாயக்க தெரிவித்தார்.
+
+இராஜகிரியவில் அமைந்துள்ள தேர்தல் ஆணைக்குழு அலுவலகத்தில் நேற்று ஞாயிற்றுக்கிழமை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின்போது அவர் இது குறித்து விளக்கமளித்தார்.
+
+தேர்தலுக்கான பிரசாரப் பணிகள் அனைத்தும் திங்கட்கிழமை  நள்ளிரவுடன் நிறைவுக்கு வருகின்றன. ஊடகங்கள் வாயிலாக கட்டணம் செலுத்தப்பட்டட விளம்பரங்களுக்குத் தடை விதிக்கப்படுகின்றது. அதன் பிறகு தேர்தல் தினம் வரை மௌன காலமாகும்.
+
+அதேபோன்று வேட்பாளர்களின் இல்லங்களில் பதாகைகள் காட்சிப்படுத்தப்பட்டு அலங்கரிக்கப்பட்டிருந்தால் அவற்றையும் அகற்ற வேண்டும். இல்லையேல் தேர்தல் சட்டத்துக்கு அமைய அவை அனைத்தும் அகற்றுவதற்கான நடவடிக்கைககள் எடுக்கப்படும் என்றார். (a)
+
+◼️
+
+[Data](articles/5b1d3285.json)
 
 ---
 
@@ -502,6 +520,22 @@ Are told to vote to clean up parliament. The names of the candidates are not eve
 
 ---
 
+### Sri Lanka’s Ferentino Tyres unveils its latest range in Las Vegas
+
+*2024-11-11 01:40:00* · [`islandlk`](http://island.lk/sri-lankas-ferentino-tyres-unveils-its-latest-range-in-las-vegas/) · `en`
+
+Ferentino Tyres, Sri Lanka’s leading tyre manufacturer, successfully showcased its latest range of tyres at the prestigious SEMA (Specialty Equipment Market Association) Show 2024, held from November 5-8 at the Las Vegas Convention Center, USA.
+
+Marking its second consecutive year at this flagship event, Ferentino impressed attendees with its commitment to quality, performance, and global standards, unveiling a range of tyres sized from 12″ to 19″. This new range, designed with precision for diverse driving conditions, is set to be available in the Sri Lankan market by early 2025.
+
+The SEMA Show, a premier event in the automotive aftermarket industry, brought together over 7,000-member companies worldwide.
+
+...
+
+[Data](articles/8db69e91.json)
+
+---
+
 ### LOLC Finance reports Rs. 8.1 billion PAT in 1H 2024
 
 *2024-11-11 01:39:00* · [`islandlk`](http://island.lk/lolc-finance-reports-rs-8-1-billion-pat-in-1h-2024/) · `en`
@@ -554,6 +588,24 @@ We do not know that the perpetrators of the Chunnakam attack should be punished.
 
 ---
 
+### Sri Lanka Tourism makes its presence felt at WTM 2024 in London
+
+*2024-11-11 01:37:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-makes-its-presence-felt-at-wtm-2024-in-london/) · `en`
+
+Sri Lanka made a remarkable entry at the World Travel Market (WTM) 2024 held in London with record number of trade delegation of over 100 industry participants, highlighting the nation’s commitment to revitalize and strengthening its tourism sector.
+
+This record-breaking participation underscores Sri Lanka’s dynamic push to position itself as a top global travel destination. The grand occasion was attended by  Rohitha Bogollagama, High Commissioner of Sri Lanka to the UK, Buddhika Hewawasam, Chairman of Sri Lanka Tourism, and VVIPs like Lord Naseby PC from the House of Lords and Emma Manners, Duchess of Rutland.
+
+The participation at WTM 2024 marks a pivotal moment for Sri Lanka’s tourism industry, reinforcing its readiness to welcoming visitors from around the world with renewed enthusiasm and expanded offerings propelled by the new vision and strategy of the destination.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/493d5a25.json)
+
+---
+
 ### AKD: Abandoning neoliberalism and embracing Kautilyan statism?
 
 *2024-11-11 01:35:01* · [`dailyftlk`](https://www.ft.lk/columns/AKD-Abandoning-neoliberalism-and-embracing-Kautilyan-statism/4-769057) · `en`
@@ -585,6 +637,20 @@ Sargia Sri Lanka also extends its influence internationally through its Dubai-ba
 [Data](articles/80b5a70a.json)
 
 [Extended Data](ext_articles/80b5a70a.ext.json)
+
+---
+
+### NCHS-Swinburne graduation marks 10 years of partnership
+
+*2024-11-11 01:29:00* · [`islandlk`](http://island.lk/nchs-swinburne-graduation-marks-10-years-of-partnership/) · `en`
+
+Nawaloka College of Higher Studies (NCHS) and Swinburne University of Technology celebrated their decade-long partnership in Sri Lanka, a collaboration that has provided countless Sri Lankan students with pathways to global education and career opportunities. Held at the BMICH on the 23rd of October 2024, this milestone graduation ceremony saw over 400 students awarded qualifications, marking both a pivotal personal achievement and a testament to the lasting impact of the NCHS-Swinburne alliance.
+
+The event opened with a recognition of NCHS’s journey in making quality, internationally recognized education accessible to students throughout Sri Lanka. With campuses in Colombo and Kandy, NCHS has built a reputation for providing a learning environment that meets the highest global standards while supporting the aspirations of students locally.
+
+...
+
+[Data](articles/5164bb96.json)
 
 ---
 
@@ -2223,97 +2289,5 @@ India has become a force that can continue its "national interests" in violation
 [Data](articles/5b619861.json)
 
 [Extended Data](ext_articles/5b619861.ext.json)
-
----
-
-### JVP. Not gaining?
-
-*2024-11-10 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198315) · `ta`
-
-JVP not gaining support? Prime Minister Harini Amarasuriya aims to portray politicians as war beneficiaries to sway Tamil voters.
-
-🟩
-
-Prime Minister Harini Amarasuriya seeks to create an image that politicians have benefited from the war to get the votes of the Tamils.
-
-◼️
-
-[Data](articles/c13495dc.json)
-
-[Extended Data](ext_articles/c13495dc.ext.json)
-
----
-
-### Two women arrested in connection with theft
-
-*2024-11-10 15:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198317) · `ta`
-
-Two women arrested for stealing over 2.4 million rupees and gold jewelry. They were caught after a complaint to the police station. One helped steal, the other disposed of the loot. Four gold pieces were recovered.
-
-🟩
-
-Two women have been arrested on suspicion of robbing more than 24 lakh rupees of money and gold jewelery.
-
-Based on a complaint made to the Kesbhewa Police Station, they were arrested yesterday (09) during an investigation by the Calciss Criminal Investigation Division.
-
-The arrested suspects are from Battaramulla, aged 24 and 29.
-
-Investigations revealed that one of the arrested persons had helped the theft and the other had disposed of stolen goods.
-
-From them, the police have seized 04 gold pieces with different colored pieces.
-
-◼️
-
-[Data](articles/07006761.json)
-
-[Extended Data](ext_articles/07006761.ext.json)
-
----
-
-### The heavy vehicle was umbilical
-
-*2024-11-10 15:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கனரக-வாகனம்-குடைசாய்ந்தது/76-346882) · `ta`
-
-Heavy vehicle crash causes traffic jam on Nuwara Eliya-Kandy road due to mechanical issue while transporting grass from Colombo port to Ambewewala farm.
-
-🟩
-
-The heavy vehicle crashed on Sunday afternoon (10) at the Lapukkalai Kudaoya area on the Nuwara Eliya Kandy main road, causing about an hour of traffic.
-
-It is reported that the vehicle has caused a sudden mechanical problem in the massive curve area on the road.
-
-The heavy vehicle that transported the grass from overseas from the Colombo port to the Ambewewala New Zealand farm via Nuwara Eliya, the police said.
-
-The road traffic was disrupted for about an hour as the other vehicles traveling through the road were unable to continue the journey on both sides of the road.
-
-◼️
-
-[Data](articles/11a239bf.json)
-
-[Extended Data](ext_articles/11a239bf.ext.json)
-
----
-
-### Heavy Vehicle Umbrella - Traffic Impact
-
-*2024-11-10 15:37:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கனரக-வாகனம்-குடைசாய்ந்து-போக்குவரத்து-பாதிப்பு/76-346882) · `ta`
-
-Heavy vehicle crash causes traffic disruption on Nuwara Eliya-Kandy main road due to mechanical issue while transporting grass from Colombo to New Zealand farm.
-
-🟩
-
-A heavy vehicle crashed on Sunday afternoon on Sunday afternoon on the Nuwara Eliya Kandy main road in Lapukkalai.
-
-It is reported that the vehicle has caused a sudden mechanical problem in the massive curve area on the road.
-
-The heavy vehicle that transported the grass from overseas from the Colombo port to the Ambewewala New Zealand farm via Nuwara Eliya, the police said.
-
-The road traffic was disrupted for about an hour as the other vehicles that were traveling through the accident were unable to continue the journey on both sides of the road.
-
-◼️
-
-[Data](articles/9de1ebf5.json)
-
-[Extended Data](ext_articles/9de1ebf5.ext.json)
 
 ---

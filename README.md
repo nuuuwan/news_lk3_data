@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 03:59:29**
+As of **2024-11-12 04:11:52**
 
 ## Newspaper Stats
 
-*Scraped **54,308** Articles*
+*Scraped **54,311** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 553
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,290
-dailyftlk | 3,722
+dailyftlk | 3,725
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,308 (100.0%) of 54,308 articles have been extended.
+54,308 (100.0%) of 54,311 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/opinion/Towards-building-a-digital-tourism-fortress/14-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/72248de9.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/opinion/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/14-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/ddf3bea9.json)
+
+---
+
+### Call from university teachers for commitment to free education
+
+*2024-11-12 03:54:08* · [`dailyftlk`](https://www.ft.lk/opinion/Call-from-university-teachers-for-commitment-to-free-education/14-769152) · `en`
+
+Neither party recognises the dire need to strengthen existing undergraduate programs or develop student support systems at State universities
+
+For nearly two decades, State universities have been under siege. They were targeted by a deliberate campaign of discreditation. Various ‘expert committees’ were set up by incumbent governments to deliberate on the problems in higher education, with minimal involvement of university communities. The sector was increasingly politicised, with undue State involvement in recruitments and appointments.
+
+...
+
+[Data](articles/2b3803ff.json)
+
+---
 
 ### Marikkar warns Govt.’s current path will deter FDIs
 
@@ -2277,87 +2319,5 @@ The Fort Magistrate’s Court has ordered the Criminal Investigations Department
 [Data](articles/fae2e9ab.json)
 
 [Extended Data](ext_articles/fae2e9ab.ext.json)
-
----
-
-### Difficulty with green clothing
-
-*2024-11-11 14:08:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சை-ஆடையினரால்-சிரமம்/175-346938) · `ta`
-
-Green dress collectors causing issues at Galle Face Grounds in Colombo. Accused of overcharging visitors. Authorities investigating. Vehicle owners request free parking allocation in Colombo.
-
-🟩
-
-A group of green dresses have made people serious difficulties due to spontaneous charges for parking at the Galle Facial Ground in Colombo.
-
-They accuse them of collecting money from those who come to rest at the shortest time. People point out that a reasonable system should be followed in collecting money to the people of this country.
-
-When asked by an official of the Colombo Municipal Council, he said he was investigating the matter.
-
-Meanwhile, vehicle owners who claim that specific groups are collecting money for parking in many places in Colombo, have been told to the government to allocate free vehicles in the city without charging those who come for their daily activities.
-
-◼️
-
-[Data](articles/ebab3d86.json)
-
-[Extended Data](ext_articles/ebab3d86.ext.json)
-
----
-
-### Petitions against the appointment of Deshabandu as IGP
-
-*2024-11-11 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203133) · `si`
-
-Supreme Court hears petitions against Deshabandu appointment as IGP. Petitioners claim unconstitutional appointment, violate human rights. Court orders hearings Feb 24-25.
-
-🟩
-
-The Supreme Court today (11th) appointed the Supreme Court today (11) fundamental rights petitions to be heard on February 24 and 25.
-
-The petitions were presented by the Cardinal Malcolm Ranjith, 08 parties including the Young Journalists Association.
-
-The petitions were summoned before a three-member Supreme Court Judge of Yasanantha Kodagoda, Aethantha Kodagoda, Achala Wedassepi and Arjuna Obeysekere.
-
-Additional Solicitor General, who appeared in behalf of the Attorney General, appeared before the Attorney General, as a respondent in the petitions, was asked to give the protests for the president of the present president.
-
-The three-judge's panel of judges accepted the request, the Attorney General gave the Attorney General to file the protests.
-
-His lawyers have filed a motion on behalf of Mr. Deshabandu Tennakoon to be heard in front of the full judiciary petitions in front of the fundamental rights petitions.
-
-...
-
-[Data](articles/e8fe99f3.json)
-
-[Extended Data](ext_articles/e8fe99f3.ext.json)
-
----
-
-### Dilshan shows evidence of removal of dual citizenship
-
-*2024-11-11 13:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ඩිල්ෂාන්-ද්විත්ව-පුරවැසි-භාවය-ඉවත්කිරීමේ-සාක්ෂි-පෙන්වයි/11-412970) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka cricketer Dilshan denies dual citizenship claims, accuses political opponents of spreading false allegations during election campaign.
-
-🟩
-
-Tillakaratne Dilshan holds a media briefing in Kalutara this afternoon, as many political outlets were charged with a dual citizenship.
-
-Speaking further Mr. He said that some of the political prabsets allegered their dual citizenship.
-
-Many political parties and powerful politicians are questioning my dual citizenship rather than their election propagation. Advertising in social media. If one of the most plane can be challenged if one can challenge one. If you can have more than hours, you will have to offer dual citizenship by saying that the letter of dual citizenship.
-
-Some characters were parliament privileged with dual citizenship. Attached when it was proven. I am contending for the parliamentary election because they want to get rid of dual citizenship.
-
-Some political outputs call for crocodile tears on the election stage, and some appeal to votes. Because that work is not. He said, when I will seek out politics, he said.
-
-◼️
-
-[Data](articles/d1cf7452.json)
-
-[Extended Data](ext_articles/d1cf7452.ext.json)
 
 ---

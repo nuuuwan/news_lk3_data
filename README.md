@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 10:40:32**
+As of **2024-11-11 10:59:06**
 
 ## Newspaper Stats
 
-*Scraped **54,147** Articles*
+*Scraped **54,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,71 @@ islandlk | 3,239
 economynextcom | 3,279
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,056
+adalk | 5,057
 adaderanalk | 6,457
-tamilmirrorlk | 7,560
-virakesarilk | 8,779
+tamilmirrorlk | 7,561
+virakesarilk | 8,781
 adaderanasinhalalk | 9,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,145 (100.0%) of 54,147 articles have been extended.
+54,147 (100.0%) of 54,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### කුඩා දරුවන් අතර යළිත් වෛරස් උණ රෝග තත්ත්වයක්
+### கூட்டத்தில் கண்ணீர் விட்ட ரோஹித
+
+*2024-11-11 10:50:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டத்தில்-கண்ணீர்-விட்ட-ரோஹித/175-346924) · `ta`
+
+களுத்துறையில் ஞாயிற்றுக்கிழமை (10)  பிற்பகல்  நடைபெற்ற தேர்தல் கூட்டமொன்றின் போது முன்னாள் அமைச்சர் ரோஹித அபேகுணவர்தன கண்ணீர் விட்டுள்ளார்.
+
+“ கேஸ் சிலிண்டருக்கும் ,11 ஆம் இலக்கத்திற்கும் வாக்களித்தாலும்  ரோஹித அபேகுணவர்தன அமைச்சராக மாட்டார் என்பது இங்குள்ள மக்களுக்கு தெரியும். நாங்கள் ஆட்சி அமைக்க மாட்டோம் என்பதும் இவர்களுக்குத் தெரியும். அதையறிந்தும் இங்கு வந்து நன்றிக்கடன் செலுத்துகிறேன். ” என்று  கூறி முன்னாள் அமைச்சர் கண்ணீருடன் உணர்ச்சிவசப்பட்டார்.
+
+“எனக்கு வாக்களித்தீர்களா என்று நான் மக்களிடம் கேட்க மாட்டேன். நான் தனிப்பட்ட முறையிலும் பார்க்க மாட்டேன். நான் மக்களுடன் இருந்தேன். மேலும் எதிர்க்கட்சி உறுப்பினராக உங்களுடன் தொடர்ந்து இருப்பேன்.
+
+மீனுக்கு தண்ணீர் வேண்டும், ராணுவ வீரனுக்கு ஆயுதம் வேண்டும்.  அது போல அரசியல்வாதிக்கு மக்கள் தேவை. அரசாங்கம் இல்லாவிட்டாலும்  என்னை பாராளுமன்றத்திற்கு அனுப்புவீர்கள் என்பதில் நான் உறுதியாக உள்ளேன். நான் விரக்தியடைந்து அரசியலை விட்டு விலக மாட்டேன்.” என்றும் முன்னாள் அமைச்சர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/c0d72458.json)
+
+---
+
+### A virus fever disease again among young children
 
 *2024-11-11 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203126) · `si`
 
-දරුවන් අතර උණ රෝගයේ ඉහළ යාමක් මේ දිනවල වාර්තා වන බව රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+Viral fever outbreak affects young children, warns Dr. Deepal Perera.
+
+🟩
+
+Dr. Deepal Perera, Specialist Dr. Deepal Perera, said that a fever disease among children is reported.
 
 ◼️
 
 [Data](articles/0a11a021.json)
+
+[Extended Data](ext_articles/0a11a021.ext.json)
+
+---
+
+### தமிழ்முஸ்லீம் நாடாளுமன்ற உறுப்பினர்களுடன் இணைந்து  தேசியஐக்கிய அரசாங்கம் - விஜித ஹேரத்
+
+*2024-11-11 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198387) · `ta`
+
+நாடாளுமன்ற தேர்தலில் தேசிய மக்கள் சக்தி அரசாங்கம் பெரும்பான்மை ஆசனங்களை பெறுவது குறித்து நம்பிக்கையுடன் உள்ளதாக தெரிவித்துள்ள அமைச்சர் விஜிதஹேரத் தேசிய ஐக்கியத்தை உருவாக்குவதற்காக தமிழ் முஸ்லீம் நாடாளுமன்ற உறுப்பினர்களுடன் இணைந்து தேசிய ஐக்கிய அரசாங்கத்தினை அமைப்பதற்கான முயற்சிகளை மேற்கொள்வோம் என தெரிவித்துள்ளார்.
+
+புதிய நாடாளுமன்றத்தில் அதிக ஆசனங்களை கைப்பற்றுவது குறித்து தேசிய மக்கள் சக்தி நம்பிக்கையுடன் உள்ளதாக தெரிவித்துள்ள அவர் எனினும் அரசியல் சூழ்நிலையை வலுப்படுத்துவதற்காக தனது கட்சி தமிழ் முஸ்லீம் கட்சிகளை பிரதிநிதித்துவம் செய்யும் நாடளுமன்ற உறுப்பினர்களிற்கு அழைப்பு விடுக்கும் என தெரிவித்துள்ளார்.
+
+எனினும் ஐக்கிய மக்கள் சக்திக்கும் ஐக்கிய தேசிய கட்சிக்கும் அழைப்பு விடுக்கப்போவதில்லை தமிழ் முஸ்லீம் நாடாளுமன்ற உறுப்பினர்களிற்கே அழைப்புவிடுப்போம் என அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/1d0c0c3d.json)
 
 ---
 
@@ -61,6 +101,42 @@ Queretaro is not commonly prone to high levels of violent crime, such as homicid
 [Data](articles/8d58bb7d.json)
 
 [Extended Data](ext_articles/8d58bb7d.ext.json)
+
+---
+
+### Senior Officers of the Ministry of Health
+
+*2024-11-11 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198382) · `ta`
+
+Ministry of Health warns against fraudulent schemes involving senior officers. Officials advise against sending money via phone, WhatsApp, or other means. Public cautioned about potential scams targeting healthcare institutions.
+
+🟩
+
+The Ministry of Health has issued a special warning to health workers and the public regarding the organized committee of money laundering as senior officials of the Ministry of Health.
+
+The Ministry of Health has issued a statement saying that any official of the Ministry of Health will use the phone, WhatsApp or any other media to collect such money.
+
+Therefore, the Senior Officers of the Ministry of Health have advised the fraudsters not to deposit money in the bank account or not to send money in other ways.
+
+◼️
+
+[Data](articles/abbcb4a1.json)
+
+[Extended Data](ext_articles/abbcb4a1.ext.json)
+
+---
+
+### கொழும்பு  லேக் ஹவுஸ் நிறுவன கட்டிடத்தின் மீது கார் மோதி விபத்து!
+
+*2024-11-11 10:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198384) · `ta`
+
+கொழும்பு லேக் ஹவுஸ் நிறுவனத்தின் கட்டிடத்தின் மீது இன்று திங்கட்கிழமை (11) காலை கார் ஒன்று மோதி  விபத்துக்குள்ளாகியுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இந்த விபத்தின் போது லேக்ஹவுஸ் நிறுவனத்திற்கு முன்பாக உள்ள பாதுகாப்பு சுவர் சேதமடைந்துள்ள நிலையில் சாரதிக்கு காயங்கள் எதுவும் ஏற்படவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/6ed2cf0c.json)
 
 ---
 
@@ -111,28 +187,6 @@ Furthermore, it is also stated that instructions have been given to the relevant
 [Data](articles/7f8bfbb1.json)
 
 [Extended Data](ext_articles/7f8bfbb1.ext.json)
-
----
-
-### Senior Officers of the Ministry of Health
-
-*2024-11-11 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198382) · `ta`
-
-Ministry of Health warns against fraudulent schemes involving senior officers. Officials advise against sending money via phone, WhatsApp, or other means. Public cautioned about potential scams targeting healthcare institutions.
-
-🟩
-
-The Ministry of Health has issued a special warning to health workers and the public regarding the organized committee of money laundering as senior officials of the Ministry of Health.
-
-The Ministry of Health has issued a statement saying that any official of the Ministry of Health will use the phone, WhatsApp or any other media to collect such money.
-
-Therefore, the Senior Officers of the Ministry of Health have advised the fraudsters not to deposit money in the bank account or not to send money in other ways.
-
-◼️
-
-[Data](articles/abbcb4a1.json)
-
-[Extended Data](ext_articles/abbcb4a1.ext.json)
 
 ---
 
@@ -1328,6 +1382,8 @@ Millions of tourists apply for visas every year to explore Sri Lanka. But in 202
 
 [Data](articles/f4e98233.json)
 
+[Extended Data](ext_articles/f4e98233.ext.json)
+
 ---
 
 ### “Without reforms SL will be dead in the water” – Dr. Harsha de Silva
@@ -2106,6 +2162,24 @@ Muslim MPs cannot claim the gold sabbath for losing their feet because they have
 
 ---
 
+### උතුරේ පවරාගෙන තිබෙන ඉඩම් ජනතාවට දෙනවා
+
+*2024-11-10 18:10:29* · [`adalk`](https://www.ada.lk/breaking_news/උතුරේ-පවරාගෙන-තිබෙන-ඉඩම්-ජනතාවට-දෙනවා/11-412960) · `si`
+
+විවිධ ආරක්ෂක හේතූ මත පවරාගෙන තිබෙන උතුරේ ජනතාවගේ ඉඩම් යළි ඔවුන් ලබා දීමට කටයුතු කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
+
+එමෙන්ම නීතිපතිවරයාගේ උපදෙස් මත දේශපාලන සිරකරුන් නිදහස් කිරීමට ආණ්ඩුව සූදානම් බව ඊයේ(10දා) වව්නියාවේ පැවති ජන හමුවක් අමතමින් හෙතෙම සඳහන් කළේය.එහිදී වැඩිදුරටත් ජනාධිපති අනුර කුමාර දිසානායක මහතා මෙලෙස අදහස් දක්වා සිටියේය.
+
+“පසුගිය සැප්තැම්බර් මාසයේ 21 වැනිදා අපේ රටේ දේශපාලනයේ තියුණු තරගයක් මතුවෙලා තිබුණා. ඒ ජනාධිපති ඡන්දයේදී හිටපු ජනාධිපතිතුමා වව්නියාවට ආවා. වන්නියේ ජනතාවත් යම් ප්‍රමාණයකට ඡන්දය දුන්නා. ඒ විතරක් නෙවෙයි ජනාධිපති ඡන්දේදි විපක්ෂනායකතුමත් මේ වව්නියාවට ආවා. දැන් මේ ඡන්දෙට එනවාද? නෑ. ඇයි ඒ ? ඒ අය ඒ අයව දිනවන්න විතරයි ඡන්දේ කරන්නේ.
+
+පසුගිය ජනාධිපති ඡන්දේදී වන්නි දිස්ත්‍රික්කයේ ජනතාව 21,000ක් අපිට ඡන්දය ලබා දුන්නා. ජාතික ජන බලවේගය ජයග්‍රහණය කරන්න ඒක විශාල පිටිවහල් වුනා. ඒත් එදා අපි වන්නි දිස්ත්‍රික්කය පරාදයි.
+
+...
+
+[Data](articles/39adfa8a.json)
+
+---
+
 ### Customs is about to go to the income target
 
 *2024-11-10 18:00:36* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-ආදායම්-ඉලක්කයට-යන්න-සූදානම්/11-412959) · `si`
@@ -2187,99 +2261,5 @@ In November 13, 2024, will leave the island on 13, 2024, ending the official vis
 [Data](articles/04c7b570.json)
 
 [Extended Data](ext_articles/04c7b570.ext.json)
-
----
-
-### Tamil cinema reties
-
-*2024-11-10 17:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203107) · `si`
-
-Veteran Tamil actor Delhi Ganesh passes away. Contributed to 400+ films, stage dramas, and TV series. Last appeared in 'Indian-2'.
-
-🟩
-
-Delhi Ganeshe, a veteran actor in Tamil cinema, has passed away.
-
-The Indian media reported that he had died in the house last night.
-
-His final contributed to his performance in the film 'Indian-2', a few months ago.
-
-Delhi Ganesh has launched its performance across the stage drama and contributed to the field of over 400 films and the field of teledrama.
-
-◼️
-
-[Data](articles/66c26e61.json)
-
-[Extended Data](ext_articles/66c26e61.ext.json)
-
----
-
-### India’s INS Vela submarine visits Sri Lanka
-
-*2024-11-10 17:28:00* · [`economynextcom`](https://economynext.com/indias-ins-vela-submarine-visits-sri-lanka-186784/) · `en`
-
-ECONOMYNEXT – Indian Navy submarine INS Vela arrived in Colombo on November 10 on a three-day visit, India’s High Commission (embassy) in Colombo said.
-
-INS Vela a Kalvari-class diesel-electric submarine, commissioned on November 25, 2021.
-
-The visit is classified as an Operational Turn Around (OTR), where the submarine will replenish provisions, the Indian embassy said.
-
-The crew will have the opportunity of visiting places of interest in and around Colombo.
-
-Commander Kapil Kumaris will call on the Commander of the Western Naval Area, Rear Admiral WDCU Kumarasinghe at Western Naval Headquarters. Personnel from Sri Lanka Navy and High Commission of India will also visit the sub.
-
-A basketball match is planned between the Submarine crew and SLN personnel at Sri Lanka Naval Base in Welisara.
-
-The submarine will depart the island on 13 November 2024. (Colombo/Nov10/2024)
-
-◼️
-
-[Data](articles/354eb663.json)
-
-[Extended Data](ext_articles/354eb663.ext.json)
-
----
-
-### If the wheat flour drops a dangerous situation in the country
-
-*2024-11-10 17:26:52* · [`adalk`](https://www.ada.lk/breaking_news/තිරිඟු-පිටි-බද්ද-අඩු-කළොත්-රට-තුළ-භයානක-තත්ත්වයක්/11-412956) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rice manufacturers warn of danger if wheat flour prices drop. They propose reducing flour taxes to lower bakery product costs. Government urged to protect farmers and intervene in health issues. Large-scale mill owners accused of monopolizing rice market. Association calls for Consumer Authority to regulate prices and promote local rice production.
-
-🟩
-
-The All Ceylon Rice Manufacturers Association President Nishantha Attanayake says that if the prices have fallen in the country with rice, the All Ceylon Rice Manufacturers Association is a dangerous situation in the country.
-
-වෙළෙඳ සංගම් නියෝජිතයන් හමුවීමට පැමිණි මොහොතක ගම්පොළ නගරයේ පැවති මාධ්‍ය හමුවකදී ඒ මහතා සඳහන් කර සිටියේ සහල් පරිභෝජනය පහත වැටී ඇති මොහොතක මෙවැනි තත්ත්වයක් මතු වුවහොත් පාන් පිටි පරිභෝජනය ඉහළ යාමෙන් සමස්ත ජාතියම රෝගීන් බවට පත්වන බවයි.ඒ මහතා එහිදී මෙසේ ද පැවසීය.
-
-"They have proposed to the government that flour taxes should be reduced in order to download the prices of bakery products. Accordingly, we have come back to the government to follow the steps.. If so, the President must decide to protect the wheat flour farmer in the United States to protect the paddy farmer in Sri Lanka.
-
-...
-
-[Data](articles/2838d53e.json)
-
-[Extended Data](ext_articles/2838d53e.ext.json)
-
----
-
-### Elephant attack in Dehi
-
-*2024-11-10 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198351) · `ta`
-
-Elephant attacks woman in Dehi; she's hospitalized after incident in Sandamadulla area.
-
-🟩
-
-The injured woman was admitted to the hospital after the elephant was attacked in the Sandamadulla area belonging to the Dehi Atakattai police division, police said.
-
-◼️
-
-[Data](articles/00d18511.json)
-
-[Extended Data](ext_articles/00d18511.ext.json)
 
 ---

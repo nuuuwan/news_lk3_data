@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 15:41:24**
+As of **2024-11-11 17:10:20**
 
 ## Newspaper Stats
 
-*Scraped **54,211** Articles*
+*Scraped **54,229** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,39 +12,271 @@ newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 551
 colombotelegraphcom | 554
-islandlk | 3,242
+islandlk | 3,244
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,066
-adaderanalk | 6,467
+adalk | 5,069
+adaderanalk | 6,471
 tamilmirrorlk | 7,578
-virakesarilk | 8,789
-adaderanasinhalalk | 9,454
+virakesarilk | 8,795
+adaderanasinhalalk | 9,457
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,207 (100.0%) of 54,211 articles have been extended.
+54,222 (100.0%) of 54,229 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### வாக்காளர் அட்டைகளை அணுக ஒன்லைன் முறை அறிமுகம்
+### කොළඹ කොටස් වෙළෙඳපොළ බ්‍රහස්පතින්දා වරුවයි
+
+*2024-11-11 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203138) · `si`
+
+2024 මහ මැතිවරණය හේතුවෙන් නොවැම්බර් 14 වනදා කොළඹ කොටස් වෙළෙඳපොළේ කටයුතු පැය 3කට සීමා කර තිබේ.
+
+ඒ අනුව කොළඹ කොටස් වෙළෙඳපොළ පවසන්නේ එහි ගනුදෙනු 14 වනදා උදෑසන 09:30 සිට පස්වරු 12:30 දක්වා පමණක් සිදුකරන බවයි.
+
+මේ අතර අද (11) දිනය තුළදී කොළඹ කොටස් වෙළෙඳපොළේ සියලු කොටස් මිල දර්ශකය සහ S&P SL 20 දර්ශකය සැලකිය යුතු වර්ධනයක් පෙන්නුම්කර තිබුණි.
+
+සියලු කොටස් මිල දර්ශකය ඒකක 74.86ක වර්ධනයක් පෙන්නුම්කළ අතර දිනය නිමාවන විට එහි අගය සඳහන් වූයේ 12,875.32ක් ලෙසට ය.
+
+◼️
+
+[Data](articles/de6ce0cd.json)
+
+---
+
+### CSE to close early for parliamentary election
+
+*2024-11-11 16:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103331/cse-to-close-early-for-parliamentary-election-) · `en`
+
+The Colombo Stock Exchange announced that the market will be closed at 12:30 p.m. on Thursday (14), in view of the 2024 Parliamentary Election.
+
+◼️
+
+[Data](articles/f87c0424.json)
+
+---
+
+### මැතිවරණ පැමිණිලි තවදුරටත් ඉහළට
+
+*2024-11-11 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203137) · `si`
+
+මහමැතිවරණයට අදාළව මැතිවරණ කොමිසම වෙත ලැබී ඇති පැමිණිලි සංඛ්‍යාව තවදුරටත් ඉහළ ගොස් තිබේ.
+
+නිවේදනයක් නිකුත් කරමින් එම කොමිෂන් සභාව පෙන්වා දී ඇත්තේ ඊයේ (10) දිනෙන් අවසන් වූ ගතවූ පැය 24ක කාලය ඇතුළත මැතිවරණ පැමිණිලි 231ක් වාර්තා වූ බවය.
+
+එම පැමිණිලි සියල්ල නීති උල්ලංඝනය කිරීම් සම්බන්ධව පැමිණිලි  බව එම නිවේදනයේ සඳහන් ව තිබේ.
+
+මේ අතර පසුගිය සැප්තැම්බර් 26 දින සිට ඊයේ (10) වන දින දක්වා මැතිවරණ කොමිසම වෙත වාර්තා වී ඇති මුළු පැමිණිලි සංඛ්‍යාව 2811ක් බව මැතිවරණ කොමිසම පවසයි.
+
+එම පැමිණිලි අතරින් නීති උල්ලංඝනය කිරීම් සම්බන්ධව පැමිණිලි 2756ක් සහ ප්‍රචණ්ඩ ක්‍රියා සම්බන්ධව පැමිණිලි 20ක් සහ වෙනත් පැමිණිලි 35ක් ද ඇතුළත් වේ.
+
+මින් පැමිණිලි 2162ක් විසඳා ඇති බවත් තවත් පැමිණිලි 649ක් විසඳමින් පවතින බවත් එම නිවේදනයේ සඳහන් ව තිබේ.
+
+◼️
+
+[Data](articles/74cb09ba.json)
+
+---
+
+### Murder by a sharp weapon
+
+*2024-11-11 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198431) · `ta`
+
+Murder by sharp weapon: 54-year-old man killed in border dispute. 59-year-old suspect arrested. Argument over tunnel involvement led to fatal attack.
+
+🟩
+
+Siripagama police said that the argument between the two men has been assassinated by a sharp weapon due to the violation of the border.
+
+The murderer is 54 years old from Madagama Aluthwatta, Kilimalai.
+
+Police said the attack was due to the dispute between the two men who were involved in the tunnel.
+
+A 59 -year -old man from Padukka has been arrested by police in connection with the incident.
+
+◼️
+
+[Data](articles/4fa5f661.json)
+
+[Extended Data](ext_articles/4fa5f661.ext.json)
+
+---
+
+### Valuables worth Rs. 70M robbed from gem businessman’s house in Laggala
+
+*2024-11-11 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103330/valuables-worth-rs-70m-robbed-from-gem-businessmans-house-in-laggala) · `en`
+
+Five masked robbers reportedly broke into the residence of a wealthy gem businessman in the Devaladeniya area, Laggala, making off with cash, gold, and gemstones worth approximately Rs. 70 million.
+
+The robbery took place late on November 10, when the suspects infiltrated the property by scaling the wall at the back of the house. Armed and masked, they reportedly subdued the businessman with a pistol, forced him inside, and restrained him with duct tape.
+
+The robbers also tied up his wife and father before ransacking the home and fleeing the scene in the businessman’s car.
+
+Among the stolen items were cash, as well as significant amounts of gold and a gemstone worth around Rs. 30 million. The suspects dismantled and took the home’s security camera system, erasing any video evidence, the police said.
+
+The businessman’s vehicle, which the robbers used for their escape, was later found abandoned by police this morning in the Thalakiriyagama area of the Galewela police division.
+
+...
+
+[Data](articles/a45514d2.json)
+
+---
+
+### Japan’s parliament reelects struggling leader Ishiba as prime minister
+
+*2024-11-11 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103329/japans-parliament-reelects-struggling-leader-ishiba-as-prime-minister) · `en`
+
+Japan’s parliament reelected Prime Minister Shigeru Ishiba on Monday after his governing coalition suffered the worst election loss in more than a decade, forcing the struggling leader to form his second Cabinet in just over a month since taking office.
+
+Ishiba’s ruling Liberal Democratic Party and its junior partner Komeito together lost their majority in the 465-seat Lower House, the more powerful of Japan’s two-house parliament, in the Oct. 27 election due to continued voter outrage over financial misconduct by his party and its lukewarm response.
+
+A special parliamentary session convened Monday to pick a new leader in a vote required within 30 days of a general election. Ishiba beat top opposition leader Yoshihiko Noda 221-160 in the first runoff in 30 years.
+
+...
+
+[Data](articles/f600178f.json)
+
+---
+
+### Civil community activists, organizations are an open letter to the President and the Prime Minister
+
+*2024-11-11 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198432) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Open letter from 153 civil society activists/organizations to President & PM regarding Muslim Divorce Act. Criticizing government inaction on protecting Muslim women & children rights. Demanding amendments to end gender discrimination. Condemning Cabinet spokesperson's stance. Urging National People's Power to fulfill election promises on reforming discriminatory laws.
+
+🟩
+
+135 civil society activists and 18 civil organizations have sent a letter to the President and the Prime Minister.
+
+The state is responsible for honor and protect the rights of Muslim women and children. Are you going to be inactive?
+
+In a recent video, Cabinet Spokesperson Vijitha Herath said to the media that there was no need for the government to change the Muslim Divorce Act No. 13, 1951.
+
+He also said that the comments on the law are only viewed as comments and valued freedom of expression. His unintelligible speech has caused shock among activists and intellectuals who are trying to amend the law, the women affected by the divorce law.. The reason is that such views cannot be accepted from a government that is responsible for the type.
+
+...
+
+[Data](articles/3ebd4d68.json)
+
+[Extended Data](ext_articles/3ebd4d68.ext.json)
+
+---
+
+### Postal department released on distribution of official ballot papers
+
+*2024-11-11 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203136) · `si`
+
+Postal department completes 97% distribution of official ballot papers for parliamentary election. Remaining ballots will be available at post offices after election. Official votes transmitted with signatures.
+
+🟩
+
+Deputy Post Master General Rajitha K.sasinghe says that the distribution of official votes have been completed in connection with the parliamentary election has been completed.
+
+Accordingly, the Deputy Postrent said that the official votes have been distributed by 97%.
+
+He said that if he had not yet had the official voter turnout, it would be available to the post office where he receives letters at work.
+
+He further stated that it is running until the election.
+
+"The number of official ballot papers has already been distributed to us. We had more than one seventy-seven thousand unleasils from the Election Commission. By now we have been able to distribute more than one hundred thousand or more than 100,000.
+
+...
+
+[Data](articles/83bcfd74.json)
+
+[Extended Data](ext_articles/83bcfd74.ext.json)
+
+---
+
+### 'Global Star' Ramsaran starrer 'Game Changer'
+
+*2024-11-11 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198424) · `ta`
+
+"Game Changer" starring Ram Saran, Kiara Advani, directed by Shankar, produced by Sri Venkateswara Creations & Aditya Ram Movies, releasing January 10th in Lucknow.
+
+🟩
+
+Telugu's leading star actor, who has made his debut for Tamil fans through 'RRR', has been released by the film 'Game Changer', which has played the lead roles as the hero of the story of 'Global Star'.
+
+Ram Saran, Kiara Advani, Anjali, Prakashraj, Sunil and many others have starred in the upcoming film 'Game Changer' directed by Shankar.
+
+The film is being produced by Sri Venkateswara Creations & Aditya Ram Movies on behalf of Sri Venkateswara Creations & Aditya Ram Movies.
+
+The film, which will be released on the 10th of January next year, will be released in Lucknow, one of the major cities of North India.
+
+Man Ramsaran, heroine Kiara Advani, actor S. J.. Surya and producer Dil Raju participated.
+
+The film's climax is getting great support as Ramsaran is a young man who realizes the needs of the people of the people, and the role of the IAS officer on behalf of the state on behalf of the state.
+
+Within a short period of time, the revolution has been visited by over 45 million viewers.
+
+◼️
+
+[Data](articles/02dd5cd3.json)
+
+[Extended Data](ext_articles/02dd5cd3.ext.json)
+
+---
+
+### Sivakarthikeyan
+
+*2024-11-11 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198426) · `ta`
+
+Sivakarthikeyan's "Amaran" breaks records, collecting 200 crores. Actor sets new box office mark, salary doubles. Film directed by Rajkumar Periyasamy, based on Major Mukund Varadarajan's biography.
+
+🟩
+
+The film 'Amaran' starring Sivakarthikeyan, the leading star actor of the Tamil film industry, has passed a collection of two hundred crores.
+
+Sivakarthikeyan has also enthusiastically mentioned that this huge collection is the new record of the young star actor.
+
+The film 'Amaran' was released last Diwali starring Sivakarthikeyan directed by Rajkumar Periyasamy, directed by Rajkumar Periyasamy, director of 'World Man' Kamal Haasan.
+
+The biography of Major Mukund Varadarajan, who died in the Indian Army, has been critically successful in the film, which has been a huge success and has been a great success.
+
+As a result, the collection of the film has increased day by day to two hundred crores.
+
+Thus, the filmmakers are comparing the collections of many films that have previously grossed.
+
+In addition, actor Sivakarthikeyan has been crowned at a young age and thereby praising him as he has set a new record.
+
+...
+
+[Data](articles/12292902.json)
+
+[Extended Data](ext_articles/12292902.ext.json)
+
+---
+
+### Introduction of Online Method to access voter cards
 
 *2024-11-11 15:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டைகளை-அணுக-ஒன்லைன்-முறை-அறிமுகம்/175-346944) · `ta`
 
-பாராளுமன்றத் தேர்தலை முன்னிட்டு, வாக்காளர்கள் தங்களது வாக்காளர் அட்டைகளை அணுகுவதற்கு ஏதுவான, நிகழ்நிலை முறையை தேர்தல் ஆணைக்குழு அறிமுகப்படுத்தியுள்ளது.
+Election Commission introduces online method for accessing voter cards. Voters without official cards can use ID at polling stations. Those awaiting cards can check status at local post offices.
 
-உத்தியோகபூர்வ வாக்காளர் அட்டைகளை இதுவரை பெற்றுக் கொள்ளாத வாக்காளர்கள் சரியான அடையாள அட்டையைப் பயன்படுத்தி ஒதுக்கப்பட்ட வாக்களிப்பு நிலையங்களில் வாக்களிக்க முடியும் என ஆணைக்குழு தெளிவுபடுத்தியுள்ளது.
+🟩
 
-மேலும், இதுவரை தங்களின் வாக்காளர் அட்டைகளை தபால் மூலம் பெற்றுக் கொள்ளாத வாக்காளர்கள், தங்கள் வாக்காளர் அட்டைகளின் நிலையை அறிய, அருகிலுள்ள அல்லது உள்ளூர் தபால் நிலையங்களுக்குச் சென்று அதுகுறித்து கேட்டு அறிந்து கொள்ள முடியும்.
+The Election Commission has introduced a process that the voters approach their voter cards in front of the parliamentary election.
+
+The Commission has made it clear that voters who have not received official voter cards can vote at allotted voting centers using the right identity card.
+
+Moreover, voters who have not yet received their voter cards by post can go to nearby or local post offices to find out the status of their voter cards.
 
 ◼️
 
 [Data](articles/1c09e47f.json)
+
+[Extended Data](ext_articles/1c09e47f.ext.json)
 
 ---
 
@@ -69,6 +301,24 @@ The order was issued today as the petitions were taken up in the presence of a p
 [Data](articles/c853c93f.json)
 
 [Extended Data](ext_articles/c853c93f.ext.json)
+
+---
+
+### 2 days of liquor closes
+
+*2024-11-11 15:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දින-2ක්-සුරාසැල්-වැසෙයි/11-412973) · `si`
+
+Excise Department announces closure: Liquor stores will be shut down for 2 days (14th and 15th) due to general election. Stores closed due to lack of staff caused by elephant-related issues.
+
+🟩
+
+The Excise Department is informed that 3 days after the general election is scheduled to be closed on 14th and 15ths of 14th and 15th.. The 14-day general election is due to covering the lack of layers of both days due to the elephant.
+
+◼️
+
+[Data](articles/a6e36515.json)
+
+[Extended Data](ext_articles/a6e36515.ext.json)
 
 ---
 
@@ -114,6 +364,36 @@ The Election Commission said that during the upcoming general election, the vote
 
 ---
 
+### Wild elephant attack
+
+*2024-11-11 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198425) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Father of 8 killed by wild elephant in Batticaloa district. Body at hospital for examination."
+
+🟩
+
+A family member from Thikkodai Thumbalikkal village belonging to the Wellaveli police division in Batticaloa district has died on Sunday night (10).
+
+The deceased has been identified as Karthikeesu Rudrakanthan, the father of 8 children from Tikkodai village.
+
+The body of the deceased is currently being held at the Kaluwanchikudi Resource Hospital for examination, according to the Kaluwanchikudi Resource Hospital.
+
+Residents say that he died after being attacked by a wild elephant while he was in his granite.
+
+It is noteworthy that the long -standing area of ​​the Wellaveli area of ​​the Batticaloa district has been increasing.
+
+◼️
+
+[Data](articles/61649dc3.json)
+
+[Extended Data](ext_articles/61649dc3.ext.json)
+
+---
+
 ### The robber raised his home for the gem business
 
 *2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
@@ -150,6 +430,30 @@ The official dog was staying on a three-kilometer route, alongside another by ro
 
 ---
 
+### Actor Pradeep Ranganathan starrer 'Dragon' update
+
+*2024-11-11 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198422) · `ta`
+
+"Pradeep Ranganathan stars in 'Dragon', alongside Anupama Parameswaran. Directed by Aswath Marimuthu, featuring a star-studded cast including Ravikumar, Menon, Mishkin, and others. Leon James composed the music, produced by Kalpathi S. Ganesh and Suresh. Tasks completed, awaiting release."
+
+🟩
+
+Pradeep Ranganathan, who played the role of a director and actor in the first film, has taken a huge success with the film 'Dragon'.
+
+Pradeep Ranganathan and Anupama Parameswaran have played the lead roles in the upcoming film 'Dragon' directed by director Aswath Marimuthu.. Directors and actors. S.. Ravikumar, Gautham Vasudev Menon, Mishkin, Actress Gayadu Loger, George Marian, Indumati, VJ Sidhu and Harshad Khan.
+
+Leon James has composed the film, which is being recorded by Niket Pommy, and the film is based on Romantic Janer.. Akoram, Kalpathi S. Ganesh, Kalpathi S. Suresh, co -produced.
+
+All the tasks of the film are completed and waiting for the release soon. In this case, the film crew has released the star actors and the names of the character they are loaded with with a special photo.. This has increased the expectation of the film.
+
+◼️
+
+[Data](articles/fc20ce7d.json)
+
+[Extended Data](ext_articles/fc20ce7d.ext.json)
+
+---
+
 ### Court orders Sujeewa's car to take over the CID
 
 *2024-11-11 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203134) · `si`
@@ -167,6 +471,38 @@ The Medarantriar department critches investigations into the motor vehicle
 [Data](articles/cf5eed00.json)
 
 [Extended Data](ext_articles/cf5eed00.ext.json)
+
+---
+
+### Alikotaara reservoir
+
+*2024-11-11 14:12:02* · [`adalk`](https://www.ada.lk/breaking_news/අලිකොටආර-ජලාශය-වාන්-දමයි/11-412971) · `si`
+
+Akikotaara reservoir Uma Oya Project under construction controls floods three rivers
+
+🟩
+
+The Akikotaara reservoir in the Uma Oya Project is currently under wands these days. The reservoir, the reservoir, has opened all three of the rivers to control the floods with the water of the tank.
+
+The engineer further requests the people who use the reservoir and the reservoir.
+
+◼️
+
+[Data](articles/361e215c.json)
+
+[Extended Data](ext_articles/361e215c.ext.json)
+
+---
+
+### Court orders to seize Sujeewa Senasinghe’s controversial vehicle
+
+*2024-11-11 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103328/court-orders-to-seize-sujeewa-senasinghes-controversial-vehicle) · `en`
+
+The Fort Magistrate’s Court has ordered the Criminal Investigations Department (CID) to take former MP Sujeewa Senasinghe’s controversial vehicle into custody and produce it before the court, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/fae2e9ab.json)
 
 ---
 
@@ -249,6 +585,26 @@ Some political outputs call for crocodile tears on the election stage, and some 
 [Data](articles/d1cf7452.json)
 
 [Extended Data](ext_articles/d1cf7452.ext.json)
+
+---
+
+### Malama politics celebrated in schools - Gammanpila
+
+*2024-11-11 13:50:11* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-දේශපාලනය-පාසල්-ඇතුළට-රිංගවලා---ගම්මන්පිල/11-412969) · `si`
+
+Udaya Gammanpila criticizes Malala politics in schools. He questions exam questions related to President Anura Bandaranaike's policies. Parents oppose politicizing children's education. The JVP supports education against government policies.
+
+🟩
+
+Five questions relating to the General Testing Questioned General of Kalutara District Team Dr. Nalinda Jayatissa, who was studying at the Kalutara District Team Leader Dr. Nalinda Jayatissa.The Leader Surgeon Leader of the Colombo District candidate, Udaya Gammanpila says he has questioned whether this is.
+
+He was speaking at a press conference held at the party headquarters today (11). Attorney Udaya Gammanpila, he said:
+
+...
+
+[Data](articles/6fbdcebd.json)
+
+[Extended Data](ext_articles/6fbdcebd.ext.json)
 
 ---
 
@@ -816,6 +1172,8 @@ Victory may have many fathers, but defeat isn’t always an orphan. Just 24 hour
 
 [Data](articles/9a0629c5.json)
 
+[Extended Data](ext_articles/9a0629c5.ext.json)
+
 ---
 
 ### Trump’s greatest comeback the greatest setback for the USA
@@ -829,6 +1187,22 @@ The archaic Constitution of the United States written over two centuries ago wil
 ...
 
 [Data](articles/2ff5bfad.json)
+
+[Extended Data](ext_articles/2ff5bfad.ext.json)
+
+---
+
+### America stands by its Man!
+
+*2024-11-11 11:49:00* · [`islandlk`](http://island.lk/america-stands-by-its-man/) · `en`
+
+Donald Trump did not simply win a second presidential election. He crushed Kamala Harris and the top-down electoral coalition that she was hurriedly assembling to overcome what Democrats rhetorically kept defining as an existential threat to American democracy. The American voters have resoundingly sided with the perpetrator of the threat not only in the contested seven swing states, but also in the popular vote across the country. And they ignored all the warnings dramatized by celebrities, meticulously explained by President Clinton in small voter gatherings in swing states, and soaringly articulated across the land by the Obamas – Michelle and Barak, the country’s most eloquent political couple.
+
+...
+
+[Data](articles/df26c530.json)
+
+[Extended Data](ext_articles/df26c530.ext.json)
 
 ---
 
@@ -849,6 +1223,8 @@ ii) A Provincial Council will be established for the new Eastern Province.
 ...
 
 [Data](articles/a9a31ccd.json)
+
+[Extended Data](ext_articles/a9a31ccd.ext.json)
 
 ---
 
@@ -1967,361 +2343,5 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/3f464c23.json)
 
 [Extended Data](ext_articles/3f464c23.ext.json)
-
----
-
-### Presidential Election Results & Tamil Aspirations: A New Era Or Continued Challenges?
-
-*2024-11-11 07:52:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-election-results-tamil-aspirations-a-new-era-or-continued-challenges/) · `en`
-
-During the recent presidential election, many analysts paid special attention to the Northern and Eastern Provinces, which are the traditional homelands of the Tamil-speaking people. This focus stemmed from the fact that the election was an intense four-way contest. The candidates included former President and United National Party (UNP) leader Ranil Wickremesinghe, National People’s Power (NPP) leader Anura Kumara Dissanayake, Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, and an independent Tamil candidate, Ariyanethiran Pakkiyaselvam. Prior to the election various Tamil political activists argued that the time had come for an independent Tamil candidate, reasoning that despite previously supporting Sinhala candidates from the south, those candidates consistently failed to fulfill the aspirations of the Tamil people.
-
-...
-
-[Data](articles/5978275e.json)
-
-[Extended Data](ext_articles/5978275e.ext.json)
-
----
-
-### The car that broke into Lake House
-
-*2024-11-11 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203121) · `si`
-
-Car crashes through Lake House security fence, damaging property and injuring driver. Incident occurred on November 11th at the Colombo Lake House premises.
-
-🟩
-
-It was seen in the Colombo Lake House to launch a car to the Colombo Lake House today (11).
-
-The security fence was severely damaged in front of Lake House in front of Lake House and the driver has been harmed.
-
-◼️
-
-[Data](articles/c3b1b676.json)
-
-[Extended Data](ext_articles/c3b1b676.ext.json)
-
----
-
-### Heavy rain today
-
-*2024-11-11 07:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-346915) · `ta`
-
-Heavy rain expected in Northern, North Central Provinces and Trincomalee District. Thunderstorms possible in Central, Uva, Sabaragamuwa, Southern Provinces. Over 50mm rainfall predicted in some areas.
-
-🟩
-
-The Department of Meteorology has said that rainfall is expected several times in the Northern and North Central Provinces and Trincomalee District.
-
-In the evening or night, rain or thunderstorms are expected in some parts of the Central, Uva, Sabaragamuwa and Southern Provinces.
-
-In addition, the weather forecast of the Department of Meteorology has stated that there are more than 50 millimeters of heavy rainfall in some places.. (A)
-
-◼️
-
-[Data](articles/1878e0db.json)
-
-[Extended Data](ext_articles/1878e0db.ext.json)
-
----
-
-### A person is thrown into the road during a dispute and collides in a vehicle
-
-*2024-11-11 07:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203120) · `si`
-
-Person injured in road collision during dispute. Vehicle involved, suspect arrests made. Investigation ongoing.
-
-🟩
-
-An injury was killed in a vehicle that had been hit by a vehicle while a man was run by a person during a dispute between two parties near the Nalukulama.
-
-The accident had occurred yesterday (10) and the person was admitted to the Vavuniya Hospital while receiving treatment at the Vavuniya Hospital.
-
-Investigations have revealed that the accident had occurred when three people were struggled with a dispute near the road.
-
-Two suspects have been arrested in connection with the incident and the Nelkkulam Police are conducting further investigations to arrest the vehicle and driver.
-
-◼️
-
-[Data](articles/71ce6f90.json)
-
-[Extended Data](ext_articles/71ce6f90.ext.json)
-
----
-
-### A person is thrown into the road during a dispute and collides in a vehicle
-
-*2024-11-11 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203119) · `si`
-
-Person thrown into road during dispute, injured by vehicle. Three involved in altercation. Two suspects arrested. Incident under investigation.
-
-🟩
-
-An injury was killed in a vehicle that had been hit by a vehicle while a man was run by a person during a dispute between two parties near the Nalukulama.
-
-The accident had occurred yesterday (10) and the person was admitted to the Vavuniya Hospital while receiving treatment at the Vavuniya Hospital.
-
-Investigations have revealed that the accident had occurred when three people were struggled with a dispute near the road.
-
-Two suspects have been arrested in connection with the incident and the Nelkkulam Police are conducting further investigations to arrest the vehicle and driver.
-
-◼️
-
-[Data](articles/f5ce8210.json)
-
-[Extended Data](ext_articles/f5ce8210.ext.json)
-
----
-
-### General election campaign ended today
-
-*2024-11-11 07:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203118) · `si`
-
-Election campaign ends tonight. No propaganda allowed after midnight. Electoral offices remain open. Parliament ballot preparations complete. International observers arriving. Political rallies conclude today. President addresses crowds in Gampaha and Piliyandala. Final rallies in Colombo and Tangalle.
-
-🟩
-
-Propaganda campaign is due to end a midnight today (11).
-
-According to the Election Commission, there is no propaganda work during the midnight today, and no propaganda activity cannot be done.
-
-However, the Elections Commission has taken steps to promote the electoral offices established by the candidates until midnight.
-
-The Elections Commission states that all matters pertaining to the Parliamental ballot on 14th November have been prepared.
-
-A delegation from the Elections Commission in Asian countries will visit the island today.
-
-Representatives of the European Organization, including the European Organization, is already returning to the island and another is due to arrive in the future.
-
-Meanwhile, the final waves organized by political parties will be held this afternoon.
-
-President Anura Kumara Dissanayake, Kandy is scheduled to be held at the Gampaha Municipal Council and Piliyandala Swemera Chandrasiri Stadium.
-
-...
-
-[Data](articles/8f756e81.json)
-
-[Extended Data](ext_articles/8f756e81.ext.json)
-
----
-
-### Thunder showers in several areas
-
-*2024-11-11 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203117) · `si`
-
-Thunderstorms forecasted for Northern, Central, Eastern, and Southern regions. Heavy rain expected in Western, Sabaragamuwa, and Matara districts. Strong winds and lightning possible. Residents advised to prepare for potential disruptions.
-
-🟩
-
-Showers or thundershowers will occur at several places in the North and North-Media areas and at a few places in the Central, Uva, Sabaragamuwa and Southern provinces.
-
-In some places in the Western, Sabaragamuwa, Central and Central and Matara districts, some locations can be found in the morning.
-
-The Department of Meteorology has informed the people to take necessary steps to reduce temporary strong winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/5503cd86.json)
-
-[Extended Data](ext_articles/5503cd86.ext.json)
-
----
-
-### The General Election 2024: What should be the purpose of the opposition purpose and role?
-
-*2024-11-11 04:17:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8ekxnkw5wdo) · `si`
-
-Here's a 200-character summary:
-
-
-
-The opposition's role in the 2024 General Election should focus on constructive criticism and policy alternatives rather than seeking power. A strong opposition requires a robust organizational structure and community support. The government's two-thirds majority poses challenges for the opposition, but a balanced political system is crucial for democratic stability.
-
-🟩
-
-The General Election 2024: What should be the purpose of the opposition purpose and role?
-
-This year's general election will be seen that a struggle is created to acquire the power of the opposition instead of acquiring the power of the government.
-
-Many people call for the power of the opposition while the government representing the President to fill in Parliament from his MPs to fill in Parliament.
-
-When the president fled the people of the people, his opponent, or his opposition, failed to acquire the power of the country.
-
-We also consulted on how the opposition role in the upcoming Parliament.
-
-Why should women represent Parliament? What are the problems that the newly appointed government's challenges and solutions to find solutions?
-
-"Opposition is the next moment to the work group to get power. Such a group is as advanced as a strong organizing program, a strong organizational structure, and a very wide community. "Senior Lecturer of the University of Colombo, Dhamma Dissanayake explains.
-
-...
-
-[Data](articles/d54941e5.json)
-
-[Extended Data](ext_articles/d54941e5.ext.json)
-
----
-
-### President AKD pledges to release Tamil political prisoners
-
-*2024-11-11 04:09:41* · [`dailyftlk`](https://www.ft.lk/news/President-AKD-pledges-to-release-Tamil-political-prisoners/56-769100) · `en`
-
-Says Govt. will take necessary steps on advice of AG to release Tamil political prisoners
-
-Commits to returning land in North taken over for security purposes to rightful owners
-
-Pledges to defend rights of Northern fishermen whose livelihoods have long been threatened by Indian poachers
-
-Promises to review renewable energy project contracts to ensure agreements have not been entered into under unfair terms
-
-President Anura Kumara Dissanayake has announced that the Sri Lankan Government is prepared to take necessary steps, under the guidance of the Attorney General (AG), to release Tamil political prisoners currently incarcerated.
-
-Speaking at a National People’s Power (NPP) rally in Vavuniya over the weekend, Dissanayake emphasised that, unlike in the past, this move would not face opposition from the South, as the nation now stands united under the NPP banner.
-
-...
-
-[Data](articles/006206cd.json)
-
-[Extended Data](ext_articles/006206cd.ext.json)
-
----
-
-### Foreign Affairs Ministry says BRICS membership still pending
-
-*2024-11-11 04:06:37* · [`dailyftlk`](https://www.ft.lk/news/Foreign-Affairs-Ministry-says-BRICS-membership-still-pending/56-769099) · `en`
-
-The Foreign Affairs Ministry yesterday insisted pending requests for BRICS membership from many countries, including Sri Lanka, will be considered by BRICS member countries in due course.
-
-It was responding to media reports which claimed “rejection” of Sri Lanka’s membership application to BRICS. The Foreign Ministry noted such reports were incorrect and misleading.
-
-As approved by the Cabinet on 7 October 2024, Sri Lanka applied for membership in BRICS and the new development bank (NDB). Foreign Affairs Minister Vijitha Herath wrote to his counterparts in BRICS member countries informing of Sri Lanka’s interest to join. President Anura Kumara Dissanayake also wrote to his Russian counterpart in this regard.
-
-...
-
-[Data](articles/01fae46b.json)
-
-[Extended Data](ext_articles/01fae46b.ext.json)
-
----
-
-### Manthri.lk launches new election platform
-
-*2024-11-11 04:05:59* · [`dailyftlk`](https://www.ft.lk/news/Manthri-lk-launches-new-election-platform/56-769098) · `en`
-
-Manthri.lk is set to transform its website into a one-stop, trilingual online election tool ahead of the upcoming General Election on 14 November, and guide voters through the entire election process.
-
-Watch election results with the fastest updates and the only dynamic vote-to-seat predictions for the 10th Parliament
-
-The platform will also allow candidates to voluntarily disclose additional information about themselves.
-
-After voting, the public will get a first-hand view of the 10th Parliament of Sri Lanka. The platform’s signature vote-to-seat tracker, which predicted the 2020 Parliament, is geared to provide a real-time graphic simulation of the new Parliament while the country watches the election results.
-
-◼️
-
-[Data](articles/021137ee.json)
-
-[Extended Data](ext_articles/021137ee.ext.json)
-
----
-
-### ‘Tax Conundrum, Democracy, and Rule of Law’ take centre stage at CA Sri Lanka’s 26th Annual Tax Oration
-
-*2024-11-11 03:47:55* · [`dailyftlk`](https://www.ft.lk/business/Tax-Conundrum-Democracy-and-Rule-of-Law-take-centre-stage-at-CA-Sri-Lanka-s-26th-Annual-Tax-Oration/34-769097) · `en`
-
-CA Sri Lanka President Heshana Kuruppu presenting a copy of the publication ‘Latest Tax Case Report: A Decade of Insights’ to President's Counsel Dr. Shivaji Felix
-
-The 26th Annual Tax Oration, organised by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), examined the intricate relationship between tax policy, democracy, and the rule of law. Under the theme ‘Tax Conundrum, Democracy, and the Rule of Law,’ President’s Counsel Dr. Shivaji Felix, highlighted concerns that the Inland Revenue’s tax practices may overburden taxpayers without clear benefits. He argued that excessive taxation diminishes citizens’ spending power and may conflict with economic fairness.
-
-...
-
-[Data](articles/a160a37e.json)
-
-[Extended Data](ext_articles/a160a37e.ext.json)
-
----
-
-### HVA Foods partners Müggenburg Group Germany
-
-*2024-11-11 03:47:08* · [`dailyftlk`](https://www.ft.lk/business/HVA-Foods-partners-Müggenburg-Group-Germany/34-769096) · `en`
-
-From left: HVA Foods Chairman Samantha Ranatunga, Müggenburg Group Chief Executive Officer Jan Müggenburg, HVA Foods Chief Executive Officer Graham Stork, and George Steuart & Co. Group Chairman Sarva Ameresekere
-
-HVA Foods PLC, a member of the George Steuart Group, announces its exclusive distributor partnership with Müggenburg Group, Germany, a renowned family-owned company with over 80 years of expertise in high-quality herbs and botanicals.
-
-This partnership enables HVA Foods PLC to introduce Müggenburg’s extensive range of raw and processed natural ingredients to Sri Lanka, for its value addition in the tea industry and other emerging industries in nutraceuticals and natural supplements.
-
-...
-
-[Data](articles/234c10cb.json)
-
-[Extended Data](ext_articles/234c10cb.ext.json)
-
----
-
-### Swing into Action: New Zealand’s Tour of Sri Lanka 2024 on Dialog Television
-
-*2024-11-11 03:44:28* · [`dailyftlk`](https://www.ft.lk/business/Swing-into-Action-New-Zealand-s-Tour-of-Sri-Lanka-2024-on-Dialog-Television/34-769095) · `en`
-
-Cricket fever is set to ignite as Dialog Television proudly presents the highly anticipated New Zealand Tour of Sri Lanka from 9th to 19th November. This thrilling series promises to be filled with excitement as Sri Lanka’s talented squad takes on the formidable New Zealand team at multiple stadiums in Sri Lanka, including venues in Dambulla and Pallekele.
-
-...
-
-[Data](articles/a31f3575.json)
-
-[Extended Data](ext_articles/a31f3575.ext.json)
-
----
-
-### LAN partners SLDF to host “Creative Entrepreneurs for Social Change” competition
-
-*2024-11-11 03:43:36* · [`dailyftlk`](https://www.ft.lk/business/LAN-partners-SLDF-to-host-Creative-Entrepreneurs-for-Social-Change-competition/34-769094) · `en`
-
-The Lanka Angel Network (LAN) last week partnered with the Sri Lanka Design Festival (SLDF) to bring forward the “Creative Entrepreneurs for Social Change” competition, a transformative initiative aimed at fostering social innovation within the creative sector.
-
-The event, held at Cinnamon Life at City of Dreams, showcased how creativity can effectively address pressing societal issues.
-
-The “Creative Entrepreneurs for Social Change” competition aimed to discover and support innovative ideas that harness creativity for social good. It received numerous inspiring applications from passionate entrepreneurs across Sri Lanka. The top finalists – Generation Alpha, AGC Innovate, White Shadow Art, and Aaythura – pitched their innovative ideas to a panel of judges of angel investors from LAN.
-
-...
-
-[Data](articles/e2abd477.json)
-
-[Extended Data](ext_articles/e2abd477.ext.json)
-
----
-
-### Chinese Ambassador Scholarship award ceremony at Keppetipola School
-
-*2024-11-11 03:40:39* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Ambassador-Scholarship-award-ceremony-at-Keppetipola-School/56-769093) · `en`
-
-China’s Ambassador to Sri Lanka Qi Zhenhong recently travelled to Keppetipola School in the central mountainous region of Sri Lanka to award students with the Chinese Ambassador Scholarship.
-
-Over 300 people attended the event, including Counsellor of the Chinese Embassy Ji Lili, Senior Additional Secretary to the President G. M. R. D. Aponsu, Uva Provincial Director of Education A. H. R. Amaradasa, Principal of Keppetipola School R. M. S. B. Rathnayaka, award-winning students, teacher representatives, and alumni.
-
-Ambassador Qi first paid tribute to the statue of the national hero Keppitipola by laying flowers, with the ribbon inscribed in both Chinese and Sinhala, ‘Tribute to Heroes who Fought Bravely for Independence and Freedom Against Colonisation and Invasion.’
-
-...
-
-[Data](articles/bcb8ed15.json)
-
-[Extended Data](ext_articles/bcb8ed15.ext.json)
-
----
-
-### High Commissioner visits Indian Housing Project sites in Uva Province, extends multi-sectoral assistance
-
-*2024-11-11 03:37:59* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-visits-Indian-Housing-Project-sites-in-Uva-Province-extends-multi-sectoral-assistance/56-769092) · `en`
-
-High Commissioner of India to Sri Lanka Santosh Jha this week visited one of the sites of the Indian Housing Project (IHP) Phase-III at Narangala Division in Uva Province.
-
-He interacted with the 54 beneficiary families of the IHP at the site. As part of the multi-sectoral Indian grant assistance of INR 750 million announced last year to mark 200 years of arrival of the Indian-origin Tamil community to Sri Lanka, the High Commissioner also distributed solar lanterns among the beneficiary families.
-
-At a special event organised at Narangala Tamil Vidyalayam, the High Commissioner distributed multi-sectoral assistance. Based on requests received from the recipients, the assistance included power back-up gensets and medical equipment to Dalauda and Kandegedere Divisional Hospitals and Narangala Health Dispensary, sports kits to Narangala and Ledgerwatte Tamil Vidyalayams No.2 and No.3, and raincoats to the plantation workers.
-
-...
-
-[Data](articles/9f60cc52.json)
-
-[Extended Data](ext_articles/9f60cc52.ext.json)
 
 ---

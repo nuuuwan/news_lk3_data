@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 18:02:04**
+As of **2024-11-11 18:36:18**
 
 ## Newspaper Stats
 
-*Scraped **54,232** Articles*
+*Scraped **54,242** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,225 @@ islandlk | 3,244
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,070
+adalk | 5,072
 adaderanalk | 6,471
-tamilmirrorlk | 7,578
-virakesarilk | 8,795
-adaderanasinhalalk | 9,459
+tamilmirrorlk | 7,580
+virakesarilk | 8,799
+adaderanasinhalalk | 9,461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,231 (100.0%) of 54,232 articles have been extended.
+54,237 (100.0%) of 54,242 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### පොලිස් නිලධාරීන් සිව් දෙනෙකුගේ වැඩතහනම්
+### Three police officers released on bail
+
+*2024-11-11 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203142) · `si`
+
+Three police officers arrested over funeral procession incident released on bail.
+
+🟩
+
+The OIC of the Giranegama Police Station, the OIC of the Giranegama Police have arrested three OIC of the police station.
+
+The police spokesman DIG Talduuwa said that these people were arrested as a video in the social media regarding the incident.
+
+Addressing a media briefing held today (11), he said that the arrest was made by the Anuradhapura Police.
+
+The court said the court was ordered to be released on bail of Rs.
+
+"On the 18th, the OIC of the Giranegama Police Station had come to play a group of people who have come to a funeral home in a nearby area.. Later, the OIC and several officials have gone there. These people are the group, as they have played the corner of the corpses.. Nearly 12 people have been. Since the traditional vehicle is not brought to bringing these people. The starding was informed to come to the police. After they arrived in police, they all left the carriage. Then they were drunken and engaged in the sport of the prison. "
+
+◼️
+
+[Data](articles/a256e42e.json)
+
+[Extended Data](ext_articles/a256e42e.ext.json)
+
+---
+
+### Land deeds will begin
+
+*2024-11-11 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203141) · `si`
+
+Land deeds implementation begins in mountains. 214 families receive titles in Ratwatte Plantation. Distribution planned for Nuwara Eliya, Kandy, Matale, Badulla. Aims to improve lives of plantation workers.
+
+🟩
+
+Land deeds are implemented to the mountains.
+
+That is the New Village Control and Land Reforms Commission for Plantation Zones under the Ministry of Environment, Wildlife, Wildlife, Wildlife, Water Supply and Community Infrastructure.
+
+Land Rights to 214 mountain families have taken place at the Ratwatte Plantation Company belonging to the Ministry of Haruna.
+
+This basic deeds is part of the distribution plan in Nuwara Eliya, Kandy, Matale and Badulla distribution plan.
+
+The program is due to be distributed in 1049, the remaining land title deeds will be distributed in the next days and ensuring that all qualified persons in the plantation are receiving their legal rights.
+
+The Ministry says that the main objective is to create legal and economic resources to improve the overall quality of life of plantation workers and their families.
+
+...
+
+[Data](articles/00a3d71e.json)
+
+[Extended Data](ext_articles/00a3d71e.ext.json)
+
+---
+
+### Tension in Badulla by Number 10
+
+*2024-11-11 17:53:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/10ஆம்-இலக்கத்தால்-பதுளையில்-பதற்றம்/76-346948) · `ta`
+
+Tensions rise as police halt Harin Fernando's campaign in Badulla. Dispute over Lionel Messi jerseys sparks controversy between candidate, supporters, and election officials.
+
+🟩
+
+Tensions were followed by police trying to prevent former minister Harinbernando's election campaign in Badulla.
+
+Harinbernando and his supporters campaigned for international footballer Lionel Messi Jersey, like Jersey, a tenth -digit teacher.
+
+However, the police and the election officials called for a campaign to stop it.
+
+Following this, the argument broke out - Harinbernando and his supporters argued that the resort was not involved in the election campaign.
+
+However, the Election Commission officials and the police said that this was a symbol of the former minister's electoral competition and that a deception was a political campaign.
+
+◼️
+
+[Data](articles/6bc1c584.json)
+
+[Extended Data](ext_articles/6bc1c584.ext.json)
+
+---
+
+### Elections Commission can get voter cards into the e -service of the Elections Commission - Elections Commission
+
+*2024-11-11 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198454) · `ta`
+
+Elections Commission allows non-card holders to access e-service. Valid ID required for voting. No need for official voter card. Visit eservices.elections.gov.lk for registration and card download. OTP required for mobile verification.
+
+🟩
+
+The Elections Commission has announced that those who do not have the official voter card can get voter cards to enter the Elections Commission's official e-service website.
+
+The presence of the official voter card to vote for voters is not mandatory. 2024 Voter who has a valid identity card named in the 2024 Chariot Idabe can go to the polling station they have notes and confirm their personality.
+
+The official voter card postage posting ended on the 07th of this month as the official referendum for the general election is scheduled for tomorrow.
+
+Those who do not have official voter cards can get their voter cards by going to the Divisional Post Office they have registered in the Idapam by 2024.11.14.
+
+Accordingly, the election of https://eservices.elections.gov.lk should enter the e-service website and enter the e-service search for the citizens in its area.
+
+...
+
+[Data](articles/d1c7e6df.json)
+
+[Extended Data](ext_articles/d1c7e6df.ext.json)
+
+---
+
+### Four people wound
+
+*2024-11-11 17:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-விழுந்ததில்-நால்வர்-காயம்/175-346947) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"4 injured in Grandpass police incident: Constable & 3 others hospitalized after police fall during birthday party investigation."
+
+🟩
+
+Grandpass police said that four others, including the Grandpass police constable, were admitted to the Colombo National Hospital after the Grandpass police fell in the Grandpass Mudura Apartments Complex.
+
+Police said that the constable of Grandpass police was undergoing treatment at the Colombo National Hospital after being severely injured.
+
+According to a telephone call from a police sergeant who was on the night patrol of the Grandpass police, people on the 5th floor of the house held a birthday party on Sunday (10).
+
+Investigations have been found that the birthday party was celebrated, with the inquiries that the police rushed there, on the fourth floor, on the fourth floor, after revealing the birthday party.
+
+◼️
+
+[Data](articles/57b81d42.json)
+
+[Extended Data](ext_articles/57b81d42.ext.json)
+
+---
+
+### சிறிய மற்றும் நடுத்தர தொழில்துறைகளுக்கு நிவாரணம் வழங்க அரசாங்கம் கவனம் !
+
+*2024-11-11 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198448) · `ta`
+
+சிறிய மற்றும் நடுத்தர தொழில்துறைகளுக்கான சலுகை வழங்குவது குறித்து, நிதி மற்றும் பொருளாதார விவகாரங்களுக்கான ஜனாதிபதியின் சிரேஷ்ட மேலதிக செயலாளர் ஜி.என்.ஆர்.டி அபொன்சு மற்றும் இலங்கை வங்கிகள் சங்கம், நிதி அமைச்சின் அதிகாரிகள் மற்றும் இலங்கை மத்திய வங்கியின் அதிகாரிகளுக்கு இடையிலான கலந்துரையாடல் இன்று திங்கட்கிழமை (11) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்றது.
+
+சிறிய மற்றும் நடுத்தர தொழில்துறையினர் கடன் சுமையால் எதிர்நோக்கும் பிரச்சினைகள் குறித்து இங்கு கலந்துரையாடப்பட்டது.
+
+பராட்டே சட்டத்தை (Parate Execution) அமுல்படுத்துவது தற்போது இடைநிறுத்தப்பட்டுள்ளதுடன்  அது எதிர்வரும் டிசம்பர் 15 ஆம் திகதியுடன் காலாவதியாகிறது. இது தொடர்பில் மேற்கொள்ள வேண்டிய அடுத்த கட்ட நடவடிக்கைகள் குறித்து இக் கலந்துரையாடலில் கவனம் செலுத்தப்பட்டது.
+
+பொருளாதாரத்தின் உற்பத்தித் திறனை மேம்படுத்த வங்கித் துறைக்கு வழங்கக்கூடிய ஆதரவு மற்றும் தற்போது சிறிய மற்றும் நடுத்தர தொழில்துறையினர் பெற்றுக்கொண்டுள்ள கடன்கள் குறித்தும் இதன்போது விரிவாக கலந்துரையாடப்பட்டது.
+
+...
+
+[Data](articles/18092ef8.json)
+
+---
+
+### தந்தை செலுத்திய ஜீப் வாகனத்தில் மோதி 3 வயது குழந்தை உயிரிழப்பு!
+
+*2024-11-11 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198441) · `ta`
+
+கொழும்பு, மருதானை பொலிஸ் பிரிவிற்கு உட்பட்ட புகையிரத குடியிருப்புக்கு முன்பாக தந்தை செலுத்திய ஜீப் வாகனத்தில் மோதி குழந்தை ஒன்று உயிரிழந்துள்ளதாக மருதானை பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பு, மருதானை பிரதேசத்தில் உள்ள புகையிரத குடியிருப்பில் வசித்து வந்த 3 வயது குழந்தையே உயிரிழந்துள்ளது.
+
+உயிரிழந்த குழந்தையின் தந்தை தனது ஜீப் வாகனத்தை வீட்டிற்கு அருகில் நிறுத்துவதற்காக பின்பக்கமாக வாகனத்தை செலுத்திய போது, பின்னால் வந்த குழந்தை வாகனத்தில் மோதியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f33c3158.json)
+
+---
+
+### Four police officers study
 
 *2024-11-11 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203140) · `si`
 
-මාර්ග අනතුරකින් අනතුරුව පුද්ගලයෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් යාපනය, චුන්නාකම් පොලිස් ස්ථානයේ නිලධාරීන් සිව්දෙනෙකුගේ වැඩතහනම් කර තිබේ.
+Four Chunnakam police officers investigate assault case: A road accident led to a heated argument during attempted arrest, prompting an investigation involving four officers.
 
-එලෙස වැඩතහනම් කර ඇත්තේ, පොලිස් පරික්ෂකවරයෙක්, පොලිස් සැරයන්වරයෙක් සහ පොලිස් කොස්තාපල්වරුන් දෙදෙනෙකුගේ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+🟩
 
-"රිය අනතුරක් සිදුකර පුද්ගලයෙකු විසින් රථය නතර නොකර පළා ගිහින් තිබුණා. ඒ පුද්ගලයා අත්අඩංගුවට ගැනීමට යාමේදී ඇතිවූ බහින්බස්වීමක් මත පොලිස් නිලධාරීන් විසින් ඔහුට යම් ආකාරයේ පහරදීමක් සිදුවුණා කියන චෝදනාව ඔහු විසින් ඉදිරිපත් කරලා තිබුණා. ඒ අනුව පරික්ෂණයක් කරලා තමයි මේ පොලිස් නිලධාරීන් 04 දෙනෙකුගේ වැඩතහනමට ලක් කළේ."
+Four members of the Chunnakam police officers have been assigned to a person who was attacked after a road accident.
+
+Police Media Spokesperson DIG Talduuwa said that a police search, police sergeant and two police constables said.
+
+"The vehicle was fled by a car accident. He had made the accusation that he had to attack him on a heated argument when he was trying to arrest him. Accordingly, four police officers were under investigation. "
 
 ◼️
 
 [Data](articles/830887ed.json)
+
+[Extended Data](ext_articles/830887ed.ext.json)
+
+---
+
+### මැතිවරණ දිනයේදී කොටස් වෙළඳපොළ කටයුතු පැය 3ට සීමා වෙයි
+
+*2024-11-11 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනයේදී-කොටස්-වෙළඳපොළ-කටයුතු-පැය-3ට-සීමා-වෙයි/11-412975) · `si`
+
+2024 මහ මැතිවරණය හේතුවෙන් නොවැම්බර් 14 වනදා කොළඹ කොටස් වෙළෙඳපොළේ කටයුතු වරුවකට පමණක් සිමා කර තිබේ. ඒ අනුව එදින කොළඹ කොටස් වෙළඳපොළ උදෑසන 9.30 සිට පස්වරු 12.30 දක්වා පමණක්  ගනුදෙනු සිදු කරනු ඇත.
+
+මේ අතර අද (11) දිනය තුළදී කොළඹ කොටස් වෙළෙඳපොළේ සියලු කොටස් මිල දර්ශකය සහ S&P SL 20 දර්ශකය  වර්ධනයක් පෙන්නුම්කර තිබුණි.
+
+සියලු කොටස් මිල දර්ශකය ඒකක 74.86ක වර්ධනයක් පෙන්නුම්කළ අතර S&P SL 20 දර්ශකය ඒකක 23.16කින් ඉහළ ගියේය. දිනයේ වෙළඳපොළ පිරිවැටුම රුපියල් බිලියන 2.4ක් විය.
+
+◼️
+
+[Data](articles/672324a5.json)
 
 ---
 
@@ -67,6 +257,20 @@ He was also the Director of the Environment Sustainability of the University.
 [Data](articles/3855ea59.json)
 
 [Extended Data](ext_articles/3855ea59.ext.json)
+
+---
+
+### ஜனாதிபதித் தேர்தலின் பின்னர் யாழில் மிகப்பெரிய எழுச்சி காணப்படுகின்றது - அநுரகுமார
+
+*2024-11-11 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198439) · `ta`
+
+ஜனாதிபதித் தேர்தலுக்கு பின்னர் மிகப்பெரிய எழுச்சி யாழ்ப்பாணத்தில் காணப்படுகின்றது. கடந்த ஜனாதிபதித் தேர்தலில் ஏனையவர்களில் இருவர் வெல்வார்கள் என்றே வடக்கில் சொல்லப்பட்டது. ஊடகங்களும் அதை தான் சொன்னது. நாம் வெல்வோம் என்ற செய்தி வடக்கில் சரியாக செல்லவில்லை. தேர்தலுக்கு பின்னர் எமது காரியாலயம் நிரம்பி வழியத் தொடங்கியது. இதன் பலன் இன்று ஆயிரக்கணக்கான மக்கள் கூடியுள்ளனர் என ஜனாதிபதி அனுர குமார திஸாநாயக்க தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தியின் யாழ்ப்பாண பிரதான தேர்தல் பிரசார கூட்டம் பாஷையூர் புனித அந்தோனியார் தேவாலயத்திற்கு முன்பாக நேற்று மாலை கட்சியின் தலைவரும் ஜனாதிபதியுமான அநுர குமார திஸாநாயக்க தலைமையில் நடைபெற்றது.இதன்போது உரையாற்றிய போதே ஜனாதிபதி அநுரகுமார திஸாநாயக்க இதனை தெரிவித்தார்.மேலும் தெரிவிக்கையில்,
+
+...
+
+[Data](articles/865b6ffc.json)
 
 ---
 
@@ -105,6 +309,22 @@ The Colombo Stock Exchange announced that the market will be closed at 12:30 p.m
 [Data](articles/f87c0424.json)
 
 [Extended Data](ext_articles/f87c0424.ext.json)
+
+---
+
+### දේශබන්දුගේ පොලිස්පති ධුරයට එරෙහි පෙත්සම් ලබන වසරේදී සලකා බලයි
+
+*2024-11-11 16:39:45* · [`adalk`](https://www.ada.lk/breaking_news/දේශබන්දුගේ-පොලිස්පති-ධුරයට-එරෙහි-පෙත්සම්-ලබන-වසරේදී-සලකා-බලයි/11-412974) · `si`
+
+දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිධූරයට පත් කිරීමට එරෙහිව තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමයේ සභාපති තරිදු ජයවර්ධන මහතා  ඇතුළු පිරිසක් ගොනු කළ මූලික අයිතිවාසිකම් පෙත්සම් ලබන වර්ෂයේ මාර්තු 24 සහ 25 වැනි දිනයන්හි විභාගයට ගැනීමට දින නියම කළ ශ්‍රේෂ්ඨාධිකරණය මෙම පෙත්සම් පූර්ණ විනිසුරු මඩුල්ලක් හමුවේ සලකා බලන ලෙස පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතාද ඊට එරෙහිව පෙත්සමකාර පාර්ශවයෙන්ද ඉදිරිපත් කළ මෝෂන් අගවිනිසුරු ජයන්ත ජයසූරිය මහතා වෙත අද (11) යොමු කළේය.
+
+ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන යසන්ත කෝදාගොඩ, අර්ජුන ඔබේසේකර සහ අචල වෙන්ගප්පුලි යන මහත්වරුන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ලක් හමුවේ පෙත්සම සළකා බැලිණි.
+
+තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමයේ සභාපති තරිදු ජයවර්ධන මහතා  ඇතුළු පිරිසක් ගොනු කළ මෙම මූලික අයිතිවාසිකම් පෙත්සමේ වගඋත්තරකරුවන් වශයෙන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා, පොලිස්පතිවරයා, ව්‍යවස්ථාදායක සභාවේ සාමාජිකයන්, නීතිපතිවරයා ඇතුළු පිරිසක් නම් කර ඇත.
+
+...
+
+[Data](articles/f977733a.json)
 
 ---
 
@@ -2123,237 +2343,5 @@ According to reports, the Department of Liquor has focused on the four companies
 [Data](articles/b386ce23.json)
 
 [Extended Data](ext_articles/b386ce23.ext.json)
-
----
-
-### Iran responds to Arugambay incident and the main suspect who tried to murder
-
-*2024-11-11 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203125) · `si`
-
-Iran denies involvement in plot to kill Trump. Foreign Minister calls for trust-building between nations. Accused individual linked to Revolutionary Guard. Case highlights tensions between Iran and US.
-
-🟩
-
-The Iranian Foreign Ministry has responded against the man who is accused of being accused of attempting to attempt to attack Donald Trump.
-
-Accordingly, Indian Foreign Minister Abbas Arachchi has been accused of allegations that Donald Trump is to assassinate Donald Trump.
-
-The Iranian Foreign Minister has asked the US that the US will be able to build trust between the two opposite countries.
-
-Iranian Foreign Minister Abbas Arachchi has made this statement in a "x" account.
-
-He has said that some parties are trying to produce a third level generation in creation today.
-
-It is said that the Iranian Foreign Minister (Iranian Foreign Minister has respected the existing owner to elect a president.
-
-Iran is not in a period of marking nuclear weapons.
-
-Iranian Foreign Minister Abbas Arachchi added that the building of trust is the essential point of both sides and it is not a single path.
-
-...
-
-[Data](articles/d8f6b39c.json)
-
-[Extended Data](ext_articles/d8f6b39c.ext.json)
-
----
-
-### J CEb, requested by time
-
-*2024-11-11 09:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-கோரியj-CEB/175-346917) · `ta`
-
-Ceylon Electricity Board requests additional two weeks to submit proposals for reducing electricity tariffs.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has sought two weeks' time to submit proposals to reduce electricity tariffs.
-
-Until the 8th, the Public Utilities Commission had given the Electricity Board time to submit proposals for the reduction in electricity tariffs.
-
-The Ceylon Electricity Board (CEB) said that further data should be carried out on the reduction of the electricity tariffs and that it requires time to analyze.
-
-Accordingly, the Ceylon Electricity Board (CEB) has demanded a further two weeks to submit the proposals.. Remble
-
-◼️
-
-[Data](articles/218dca30.json)
-
-[Extended Data](ext_articles/218dca30.ext.json)
-
----
-
-### Ceb
-
-*2024-11-11 09:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-கோரிய-CEB/175-346917) · `ta`
-
-Ceylon Electricity Board seeks two-week extension to propose electricity tariff reductions. Public Utilities Commission initially set deadline until August 8th. CEB requests more data analysis time before submitting proposals.
-
-🟩
-
-The Ceylon Electricity Board (CEB) has sought two weeks' time to submit proposals to reduce electricity tariffs.
-
-Until the 8th, the Public Utilities Commission had given the Electricity Board time to submit proposals for the reduction in electricity tariffs.
-
-The Ceylon Electricity Board (CEB) said that further data should be carried out on the reduction of electricity tariffs and that it would take time.
-
-Accordingly, the Ceylon Electricity Board (CEB) has demanded a further two weeks to submit the proposals.. Remble
-
-◼️
-
-[Data](articles/feda2e9a.json)
-
-[Extended Data](ext_articles/feda2e9a.ext.json)
-
----
-
-### පියාගේ ජිප් රියට යටවී දරුවා මරුට
-
-*2024-11-11 09:13:22* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-ජිප්-රියට-යටවී-දරුවා-මරුට/11-412962) · `si`
-
-Child dies after being run over by father's jeep near railway quarters.
-
-🟩
-
-His child, who was behind the jeep, has died after the jeep when he was driving his jeep before the railway quarters.
-
-A 3-year-old child has died. පියා විසින් ජීප් රථය ගාල් කිරිමට යාමේදී මෙම අනතුර සිදුව තිබේ.
-
-◼️
-
-[Data](articles/b545b0f0.json)
-
-[Extended Data](ext_articles/b545b0f0.ext.json)
-
----
-
-### Vijitha suddenly observed at the airport
-
-*2024-11-11 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203124) · `si`
-
-SriLankan Airlines delay: Minister Vijitha Herath visits Katunayake airport, meets staff, promises 24-hour support team to address issues. Authorities instructed to reduce delays.
-
-🟩
-
-Minister Vijitha Herath has visited the Katunayake airport to look into the complaints of the SriLankan Airlines delay.
-
-The Minister has gone to all aspects of the airport and had a friendly conversation with employees of each sector.
-
-Minister Vijitha Herath has said that a special unit to be instantaneous for 24 hours of the airport passengers on the airport delay in the airport.
-
-It is said that the authorities have been instructed to minimize these delays.
-
-◼️
-
-[Data](articles/500d313e.json)
-
-[Extended Data](ext_articles/500d313e.ext.json)
-
----
-
-### Vehicle crashes into Lake House in Colombo
-
-*2024-11-11 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103314/vehicle-crashes-into-lake-house-in-colombo) · `en`
-
-A car reportedly crashed into the front of the Lake House in Colombo early this morning (11), causing significant damage to the building’s safety fence.
-
-The incident is suspected to have occurred due to the driver falling asleep at the wheel.
-
-Despite the severe impact, the driver emerged uninjured. However, the security fencing surrounding the Lake House sustained considerable damage.
-
-Colombo Fort Police are conducting further investigations into the circumstances surrounding the incident.
-
-◼️
-
-[Data](articles/b5630ba8.json)
-
-[Extended Data](ext_articles/b5630ba8.ext.json)
-
----
-
-### Health Ministry warns of fraudulent money collection scheme impersonating officials
-
-*2024-11-11 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103313/health-ministry-warns-of-fraudulent-money-collection-scheme-impersonating-officials) · `en`
-
-The Ministry of Health has issued an alert regarding a recent scam in which an organized group is reportedly collecting money from health staff and the general public, fraudulently using the names of senior ministry officials.
-
-In an official statement, the ministry clarified that no health ministry official would ever solicit money through telephone calls, WhatsApp messages, or any other communication channel. It emphasized that any such requests are not legitimate and warned the public against falling victim to these schemes.
-
-The Ministry of Health advised the public to refrain from transferring money to unknown accounts or engaging in any monetary transactions with suspicious individuals claiming affiliation with the ministry.
-
-It also urged those affected to report any fraudulent activity to authorities and take steps to bring the perpetrators to justice.
-
-...
-
-[Data](articles/6081a72f.json)
-
-[Extended Data](ext_articles/6081a72f.ext.json)
-
----
-
-### At least 40 Palestinians killed in Israeli strikes in Gaza, medics say
-
-*2024-11-11 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103312/at-least-40-palestinians-killed-in-israeli-strikes-in-gaza-medics-say) · `en`
-
-At least 40 Palestinians were killed by Israeli strikes across Gaza on Sunday, including two dozen when a residential building in the northern town of Jabalia was hit, Palestinian health officials and a human rights group said.
-
-The Palestinian Center for Human Rights (PCHR) in Gaza said at least 24 people were killed when an Israeli strike destroyed the three-story building in Jabalia at dawn. Thirty other people from nearby houses were wounded, PCHR said in a statement.
-
-Footage circulating on social media, which Reuters could not immediately verify, showed about a dozen bodies wrapped in blankets and laid on the ground outside a hospital near Jabalia. Local media said they were the bodies of people killed in the attack on the residential building, which housed at least 30 people, according to residents.
-
-The Israeli military said it struck a site in Jabalia in which “terrorists were operating.”
-
-...
-
-[Data](articles/69f6cd4f.json)
-
-[Extended Data](ext_articles/69f6cd4f.ext.json)
-
----
-
-### Houses binding over 'Police' 'Thief'
-
-*2024-11-11 08:28:23* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-බින්ඳ-’පොලිස්-හොරා’-අල්ලයි/11-412961) · `si`
-
-Dehiwala Police arrest 29-year-old constable suspected of theft. Motorcycles recovered. Investigation ongoing.
-
-🟩
-
-The Dehiwala Police have arrested a police constable attached to the Maligawatta Police
-
-The suspect is the age of 29 years in the Ruhunugama Central Camp area in Ampara and a police constable attached to the Maligawatta Police has also been attached to the Maligawatta Police.
-
-The suspect was banned from the 1st tomorrow, due to the preposal of property launched in further investigation.
-
-According to the suspect, the stolen motor vehicles have been able to be taken into custody while the layer of Lane Ratmalana, police said.
-
-◼️
-
-[Data](articles/0f5431ec.json)
-
-[Extended Data](ext_articles/0f5431ec.ext.json)
-
----
-
-### Three people die after falling into father's jeep
-
-*2024-11-11 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203123) · `si`
-
-Three people died after falling into a father's jeep in Maradana. A child was killed while another was injured. The incident occurred when the father was parking the vehicle. The bodies were taken to the Colombo National Hospital morgue for investigation.
-
-🟩
-
-At the front of Maradana - a jeep was in front of the house in front of the residence of railway quarters, a child was killed and a child was killed.
-
-The deceased has been identified as a child, a child of a resident of Maradana.
-
-Investigations have revealed that the accident had occurred when his child was behind the vehicle by the father to park the jeep yesterday afternoon.
-
-The body has been placed at the Colombo National Hospital morgue and the Maradana Police are conducting further investigations.
-
-◼️
-
-[Data](articles/0fe16ebb.json)
-
-[Extended Data](ext_articles/0fe16ebb.ext.json)
 
 ---

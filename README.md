@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 18:49:41**
+As of **2024-11-11 19:02:06**
 
 ## Newspaper Stats
 
-*Scraped **54,243** Articles*
+*Scraped **54,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adalk | 5,072
 adaderanalk | 6,471
 tamilmirrorlk | 7,580
 virakesarilk | 8,799
-adaderanasinhalalk | 9,462
+adaderanasinhalalk | 9,464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,242 (100.0%) of 54,243 articles have been extended.
+54,242 (100.0%) of 54,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### පියුමි හංසමාලි සහ විරංජත් තාඹුගලට එරෙහි විමර්ශන කඩිනම් කරන ලෙසට නියෝග
+
+*2024-11-11 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203145) · `si`
+
+නිරූපන ශිල්පිණී පියුමි හංසමාලි සහ අවුරා ලංකා සමාගමේ සභාපති විරංජිත් තාඹුගල යන දෙදෙනාට එරෙහි විමර්ශන කඩිනම් කරන ලෙස දේශීය ආදායම් දෙපාර්තමේන්තුවට කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා අද (11) නියෝග කර තිබේ
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව අධිකරණය හමුවේ ගොනුකර තිබූ නඩුවක් අද (11) නැවත කැඳවූ අවස්ථාවේදී කොළඹ අතිරේක මහෙස්ත්‍රාත් බණ්ඩාර ඉලංගසිංහ මහතා මෙම නියෝගය ලබා දුන්නේය.
+
+දේශීය අදායම් පනතේ 190 වගන්තිය ප්‍රකාරව එම දෙදෙනා බදු පනතට අදාළ වැරදි සිදුකර තිබේද යන්න විමර්ශනය කිරීම සඳහා නියෝගයක් ලබා දෙන ලෙසට දේශීය ආදායම් දෙපාර්තමේන්තුව විසින් එම නඩුව ගොනු කර තිබුණි.
+
+මෙම සිද්ධියට අදාළ ලිපි ලේඛණ පරීක්ෂා කිරීම සඳහා එම දෙදෙනාගේ නිවාස සෝදිසි කිරීමට අධිකරණ නියෝගයක් ලබාගත් නමුත් එසේ සෝදිසි කිරීම් කටයුතුවල නිරත වන අවස්ථාවේදී එම දෙදෙනා නිවාසවල නොසිටි බවත් දේශීය අදායම් දෙපාර්තමේන්තුව  වෙනුවෙන් පෙනී සිටි නීතීඥ දිනේෂ් පෙරේරා මහතා අධිකරණයට දැන්වීය.
+
+◼️
+
+[Data](articles/8af7d2d1.json)
+
+---
+
+### ණය ප්‍රතිව්‍යුහගත කිරීම ගැන ජනපතිගෙන් ප්‍රකාශයක්
+
+*2024-11-11 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203144) · `si`
+
+දෙසැම්බර් මාසය වනවිට ශ්‍රී ලංකාවේ ණය ප්‍රතිව්‍යුහගත කරගත හැකිවන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පවසයි.
+
+අද (11) පස්වරුවේ ගම්පහ පැවති මැතිවරණ රැලිය අමතමින් ඒ මහතා ඒ බව පැවසීය.
+
+"මේ වනවිට එය සම්පූර්ණයෙන් අවසන්. තව යම් ප්‍රමාණයක් තියෙනවා. 2028 දී තමයි අපි ණය ගෙවන්න පටන් ගන්නේ. 2028 දී අපි ගෙවිය යුතු ණය අපි ගණනය කරලා තියෙනවා. එම ණය පංගුව ගෙවිය හැකි ආර්ථිකයක් ආණ්ඩුවට හදන්න පුළුවන්. මහ මැතිවරණය නිමාවී දින දෙකකට පසුව IMF කණ්ඩායම ලංකාවට එනවා. එවිට අපි 3න් වන සමාලෝචනය අවසන් කරලා ජනවාරි අග, පෙබරවාරි මුල වෙනකොට ඒ කටයුත්ත අවසන් කරනවා. එවිට ආර්ථිකයේ සැලකිය යුතු ස්ථාවර භාවයක් අපිට ලබාගන්න පුළුවන්."
+
+◼️
+
+[Data](articles/419c7d5c.json)
+
+---
 
 ### කොච්චිකඩේ පොලිස් ස්ථානාධිපති අත්අඩංගුවට
 
@@ -2321,55 +2355,5 @@ The Elections Commission also enacted to all media institutions, which should no
 [Data](articles/15b2aa6e.json)
 
 [Extended Data](ext_articles/15b2aa6e.ext.json)
-
----
-
-### General Election campaigning ends today
-
-*2024-11-11 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103315/general-election-campaigning-ends-today-) · `en`
-
-The election campaigning activities for the 2024 General Election are scheduled to end at midnight today (Nov. 11).
-
-Accordingly, the Election Commission stated that the silence period will be in effect from midnight today until Election Day and no campaign activities can be carried out during that period.
-
-However, the Election Commission has given candidates time until midnight tomorrow (12) remove their campaign offices.
-
-The Election Commission stated that all preparations for the parliamentary elections, scheduled for November 14, have been completed.
-
-A group of representatives from election commissions of various Asian countries who are monitoring this year’s election are also scheduled to arrive in the island today.
-
-Representatives from international election monitoring organizations, including the European Union (EU), have already arrived, with more expected in the coming days.
-
-...
-
-[Data](articles/9dec096e.json)
-
-[Extended Data](ext_articles/9dec096e.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 292.60/70 to dollar, bond yields down
-
-*2024-11-11 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-292-60-70-to-dollar-bond-yields-down-186821/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 292.60/70 to the US dollar Monday, dealers said, from 292.50/65 Friday, while bond yields were down.
-
-A bond maturing on 15.12.2026 was quoted at 10.45/55 percent, up from 10.40/55 percent.
-
-A bond maturing on 15.12.2027 was quoted at 11.25/35 percent, down from 11.30/35 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.53/57 percent.
-
-A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
-
-The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
-
-In equities, Colombo’s All Share Price Index opened up 0.14 percent, or 18.01 points higher at 12,818, while the S&P SL20 of more liquid stocks opened up 0.17 percent or 6.36 points higher at 3,837.
-
-◼️
-
-[Data](articles/bde9e7d7.json)
-
-[Extended Data](ext_articles/bde9e7d7.ext.json)
 
 ---

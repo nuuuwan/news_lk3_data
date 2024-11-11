@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 16:14:38**
+As of **2024-11-11 15:41:24**
 
 ## Newspaper Stats
 
-*Scraped **54,215** Articles*
+*Scraped **54,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 551
 colombotelegraphcom | 554
-islandlk | 3,244
+islandlk | 3,242
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,068
+adalk | 5,066
 adaderanalk | 6,467
 tamilmirrorlk | 7,578
 virakesarilk | 8,789
@@ -26,31 +26,25 @@ adaderanasinhalalk | 9,454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,209 (100.0%) of 54,215 articles have been extended.
+54,207 (100.0%) of 54,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### Introduction of Online Method to access voter cards
+### வாக்காளர் அட்டைகளை அணுக ஒன்லைன் முறை அறிமுகம்
 
 *2024-11-11 15:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டைகளை-அணுக-ஒன்லைன்-முறை-அறிமுகம்/175-346944) · `ta`
 
-Election Commission introduces online method for accessing voter cards. Voters without official cards can use ID at polling stations. Those awaiting cards can check status at local post offices.
+பாராளுமன்றத் தேர்தலை முன்னிட்டு, வாக்காளர்கள் தங்களது வாக்காளர் அட்டைகளை அணுகுவதற்கு ஏதுவான, நிகழ்நிலை முறையை தேர்தல் ஆணைக்குழு அறிமுகப்படுத்தியுள்ளது.
 
-🟩
+உத்தியோகபூர்வ வாக்காளர் அட்டைகளை இதுவரை பெற்றுக் கொள்ளாத வாக்காளர்கள் சரியான அடையாள அட்டையைப் பயன்படுத்தி ஒதுக்கப்பட்ட வாக்களிப்பு நிலையங்களில் வாக்களிக்க முடியும் என ஆணைக்குழு தெளிவுபடுத்தியுள்ளது.
 
-The Election Commission has introduced a process that the voters approach their voter cards in front of the parliamentary election.
-
-The Commission has made it clear that voters who have not received official voter cards can vote at allotted voting centers using the right identity card.
-
-Moreover, voters who have not yet received their voter cards by post can go to nearby or local post offices to find out the status of their voter cards.
+மேலும், இதுவரை தங்களின் வாக்காளர் அட்டைகளை தபால் மூலம் பெற்றுக் கொள்ளாத வாக்காளர்கள், தங்கள் வாக்காளர் அட்டைகளின் நிலையை அறிய, அருகிலுள்ள அல்லது உள்ளூர் தபால் நிலையங்களுக்குச் சென்று அதுகுறித்து கேட்டு அறிந்து கொள்ள முடியும்.
 
 ◼️
 
 [Data](articles/1c09e47f.json)
-
-[Extended Data](ext_articles/1c09e47f.ext.json)
 
 ---
 
@@ -75,18 +69,6 @@ The order was issued today as the petitions were taken up in the presence of a p
 [Data](articles/c853c93f.json)
 
 [Extended Data](ext_articles/c853c93f.ext.json)
-
----
-
-### දින 2ක් සුරාසැල් වැසෙයි
-
-*2024-11-11 15:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දින-2ක්-සුරාසැල්-වැසෙයි/11-412973) · `si`
-
-මහ මැතිවරණය හේතුවෙන් දින 2ක් එනම් එලඹෙන 14සහ 15 දා සුරාසල් වසාතැබීමට නියමිත බව සුරාබදු දෙපාර්ථමේන්තුව දන්වා සිටියි. නොවැ 14 මහමැතිවරණය පැවතීමත් ඊට පසුදින ඉල් පොහොය යෙදී තිබීමත් හේතුවෙන් එම දින දෙකම සුරාසල් වසා තැබීමට හේතුවන බව වැඩිදුරටත් දක්වා සිටියි.
-
-◼️
-
-[Data](articles/a6e36515.json)
 
 ---
 
@@ -267,20 +249,6 @@ Some political outputs call for crocodile tears on the election stage, and some 
 [Data](articles/d1cf7452.json)
 
 [Extended Data](ext_articles/d1cf7452.ext.json)
-
----
-
-### මාලිමා දේශපාලනය පාසල් ඇතුළට රිංගවලා - ගම්මන්පිල
-
-*2024-11-11 13:50:11* · [`adalk`](https://www.ada.lk/breaking_news/මාලිමා-දේශපාලනය-පාසල්-ඇතුළට-රිංගවලා---ගම්මන්පිල/11-412969) · `si`
-
-මාලිමාවේ කළුතර දිස්ත්‍රික් කණ්ඩායම් නායක වෛද්‍ය නලින්ද ජයතිස්ස මහතා ඉගෙන ගත් සී ඩබ්ලිව් ඩබ්ලිව් කන්නන්ගර මධ්‍යම මහ විද්‍යාලයේ දෙවන වාර පරීක්ෂණයේ දී  උසස් පෙළ දරුවන්ට ලබා දුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට ජාතික ජන බලවේගයට සම්බන්ධ ප්‍රශ්න 5ක් අන්තර්ග කර ඇති බවත්, පාසල් දරුවන් දේශපාලනීකරණය කිරීමේ ආණ්ඩුවේ පළමු පියවර මෙයදැයි තමන් ප්‍රශ්න කරණ බවත් පිවිතුරු හෙළ උරුමය නායක සර්වජන බලය කොළඹ දිස්ත්‍රික් අපේක්ෂක නීතිඥ උදය ගම්මන්පිල මහතා පවසයි.
-
-ඒ මහතා මේ බව සදහන් කර සිටියේ අද (11) පිවිතුරු හෙළ උරුමය පක්ෂ මූලස්ථානයේ පැවති මාධ්‍ය හමුවකට එක් වෙමිනි. එහිදී නීතිඥ උදය ගම්මන්පිල මහතා වැඩිදුරටත් මෙසේ අදහස් දැක් වීය.
-
-...
-
-[Data](articles/6fbdcebd.json)
 
 ---
 
@@ -848,8 +816,6 @@ Victory may have many fathers, but defeat isn’t always an orphan. Just 24 hour
 
 [Data](articles/9a0629c5.json)
 
-[Extended Data](ext_articles/9a0629c5.ext.json)
-
 ---
 
 ### Trump’s greatest comeback the greatest setback for the USA
@@ -863,18 +829,6 @@ The archaic Constitution of the United States written over two centuries ago wil
 ...
 
 [Data](articles/2ff5bfad.json)
-
----
-
-### America stands by its Man!
-
-*2024-11-11 11:49:00* · [`islandlk`](http://island.lk/america-stands-by-its-man/) · `en`
-
-Donald Trump did not simply win a second presidential election. He crushed Kamala Harris and the top-down electoral coalition that she was hurriedly assembling to overcome what Democrats rhetorically kept defining as an existential threat to American democracy. The American voters have resoundingly sided with the perpetrator of the threat not only in the contested seven swing states, but also in the popular vote across the country. And they ignored all the warnings dramatized by celebrities, meticulously explained by President Clinton in small voter gatherings in swing states, and soaringly articulated across the land by the Obamas – Michelle and Barak, the country’s most eloquent political couple.
-
-...
-
-[Data](articles/df26c530.json)
 
 ---
 
@@ -2315,5 +2269,59 @@ Cricket fever is set to ignite as Dialog Television proudly presents the highly 
 [Data](articles/a31f3575.json)
 
 [Extended Data](ext_articles/a31f3575.ext.json)
+
+---
+
+### LAN partners SLDF to host “Creative Entrepreneurs for Social Change” competition
+
+*2024-11-11 03:43:36* · [`dailyftlk`](https://www.ft.lk/business/LAN-partners-SLDF-to-host-Creative-Entrepreneurs-for-Social-Change-competition/34-769094) · `en`
+
+The Lanka Angel Network (LAN) last week partnered with the Sri Lanka Design Festival (SLDF) to bring forward the “Creative Entrepreneurs for Social Change” competition, a transformative initiative aimed at fostering social innovation within the creative sector.
+
+The event, held at Cinnamon Life at City of Dreams, showcased how creativity can effectively address pressing societal issues.
+
+The “Creative Entrepreneurs for Social Change” competition aimed to discover and support innovative ideas that harness creativity for social good. It received numerous inspiring applications from passionate entrepreneurs across Sri Lanka. The top finalists – Generation Alpha, AGC Innovate, White Shadow Art, and Aaythura – pitched their innovative ideas to a panel of judges of angel investors from LAN.
+
+...
+
+[Data](articles/e2abd477.json)
+
+[Extended Data](ext_articles/e2abd477.ext.json)
+
+---
+
+### Chinese Ambassador Scholarship award ceremony at Keppetipola School
+
+*2024-11-11 03:40:39* · [`dailyftlk`](https://www.ft.lk/news/Chinese-Ambassador-Scholarship-award-ceremony-at-Keppetipola-School/56-769093) · `en`
+
+China’s Ambassador to Sri Lanka Qi Zhenhong recently travelled to Keppetipola School in the central mountainous region of Sri Lanka to award students with the Chinese Ambassador Scholarship.
+
+Over 300 people attended the event, including Counsellor of the Chinese Embassy Ji Lili, Senior Additional Secretary to the President G. M. R. D. Aponsu, Uva Provincial Director of Education A. H. R. Amaradasa, Principal of Keppetipola School R. M. S. B. Rathnayaka, award-winning students, teacher representatives, and alumni.
+
+Ambassador Qi first paid tribute to the statue of the national hero Keppitipola by laying flowers, with the ribbon inscribed in both Chinese and Sinhala, ‘Tribute to Heroes who Fought Bravely for Independence and Freedom Against Colonisation and Invasion.’
+
+...
+
+[Data](articles/bcb8ed15.json)
+
+[Extended Data](ext_articles/bcb8ed15.ext.json)
+
+---
+
+### High Commissioner visits Indian Housing Project sites in Uva Province, extends multi-sectoral assistance
+
+*2024-11-11 03:37:59* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-visits-Indian-Housing-Project-sites-in-Uva-Province-extends-multi-sectoral-assistance/56-769092) · `en`
+
+High Commissioner of India to Sri Lanka Santosh Jha this week visited one of the sites of the Indian Housing Project (IHP) Phase-III at Narangala Division in Uva Province.
+
+He interacted with the 54 beneficiary families of the IHP at the site. As part of the multi-sectoral Indian grant assistance of INR 750 million announced last year to mark 200 years of arrival of the Indian-origin Tamil community to Sri Lanka, the High Commissioner also distributed solar lanterns among the beneficiary families.
+
+At a special event organised at Narangala Tamil Vidyalayam, the High Commissioner distributed multi-sectoral assistance. Based on requests received from the recipients, the assistance included power back-up gensets and medical equipment to Dalauda and Kandegedere Divisional Hospitals and Narangala Health Dispensary, sports kits to Narangala and Ledgerwatte Tamil Vidyalayams No.2 and No.3, and raincoats to the plantation workers.
+
+...
+
+[Data](articles/9f60cc52.json)
+
+[Extended Data](ext_articles/9f60cc52.ext.json)
 
 ---

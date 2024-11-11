@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 10:13:09**
+As of **2024-11-11 10:24:44**
 
 ## Newspaper Stats
 
-*Scraped **54,140** Articles*
+*Scraped **54,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,92 @@ economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
 adalk | 5,056
-adaderanalk | 6,455
+adaderanalk | 6,456
 tamilmirrorlk | 7,560
-virakesarilk | 8,777
+virakesarilk | 8,779
 adaderanasinhalalk | 9,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,140 (100.0%) of 54,140 articles have been extended.
+54,143 (100.0%) of 54,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Shipping service between Nagapattinam - Kankesanthurai
+
+*2024-11-11 10:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198381) · `ta`
+
+Nagapattinam-Kankesanthurai shipping service disrupted due to heavy rain. Resumed after weather check. 150 bookings cancelled. Ocean wave height and wind direction influence planning. Relying on Sri Lanka/India weather forecasts. Northeast monsoon expected soon.
+
+🟩
+
+Due to inclement weather, the service was halted from Thursday (7) last Thursday (7).
+
+Sri Lanka - Indian Shipping Service Private Company Director. Niranjan Nandakopan said,
+
+“On Friday (8), Saturday (9) and Sunday (10), the rainfall was unable to operate the shipping service.
+
+The shipping service will be determined by the weather weather for the day (12). So we have not booked on November 16th.
+
+Nearly 150 seats were booked before the shipping service suspended due to inclement weather.
+
+The height of the ocean wave and the direction of the wind help plan shipping trips. We rely on Sri Lanka and Indian weather forecasts and processors such as Windy App to determine whether it is safe to transport passengers.
+
+Moreover, the Department of Meteorology has said that the northeast monsoon will begin by the end of this month and that the low -lying low -lying area is being developed.
+
+◼️
+
+[Data](articles/97b67e06.json)
+
+[Extended Data](ext_articles/97b67e06.ext.json)
+
+---
+
+### Minister Herath visits BIA; discusses creating special unit for flight delays
+
+*2024-11-11 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103316/minister-herath-visits-bia-discusses-creating-special-unit-for-flight-delays) · `en`
+
+Minister Vijitha Herath visited Bandaranaike International Airport (BIA) in Colombo to look into the complaints received with regards to the delays in Sri Lankan flights.
+
+During the visit, the minister had visited various sections of the airport and engaged in friendly discussions with the staff working there.
+
+Minister Vijitha Herath has emphasized the need to create a special unit representing the airport and SriLankan Airlines at the airport premises to provide passengers with immediate updates on flight delays while operating 24 hours a day and to provide maximum facilities to passengers during the delays.
+
+Furthermore, it is also stated that instructions have been given to the relevant authorities to take steps to minimize these delays.
+
+◼️
+
+[Data](articles/7f8bfbb1.json)
+
+[Extended Data](ext_articles/7f8bfbb1.ext.json)
+
+---
+
+### Senior Officers of the Ministry of Health
+
+*2024-11-11 09:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198382) · `ta`
+
+Ministry of Health warns against fraudulent schemes involving senior officers. Officials advise against sending money via phone, WhatsApp, or other means. Public cautioned about potential scams targeting healthcare institutions.
+
+🟩
+
+The Ministry of Health has issued a special warning to health workers and the public regarding the organized committee of money laundering as senior officials of the Ministry of Health.
+
+The Ministry of Health has issued a statement saying that any official of the Ministry of Health will use the phone, WhatsApp or any other media to collect such money.
+
+Therefore, the Senior Officers of the Ministry of Health have advised the fraudsters not to deposit money in the bank account or not to send money in other ways.
+
+◼️
+
+[Data](articles/abbcb4a1.json)
+
+[Extended Data](ext_articles/abbcb4a1.ext.json)
+
+---
 
 ### General Election campaigning ends today
 
@@ -2223,71 +2295,5 @@ However, Russian authorities have confirmed that one person was injured in the d
 [Data](articles/99443b0b.json)
 
 [Extended Data](ext_articles/99443b0b.ext.json)
-
----
-
-### Sri Lanka Podujana Party younger wing pushing for more liberal policies, freedom
-
-*2024-11-10 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-party-younger-wing-pushing-for-more-liberal-policies-freedom-186791/) · `en`
-
-ECONOMYNEXT – Sri Lanka Podujana Party’s younger members are pushing for more liberal ideas in a globalized world from within, says Milinda Rajapaksa, a party activist and vocal leader representing the group.
-
-Following the currency collapse, shortages and high inflation under the President Gotabaya Rajapaksa, the party split with a faction supporting ex-President Ranil Wickremesinghe in the last election, while its own candidate Namal Rajapaksa trailed far behind.
-
-The younger members are undaunted and are looking to change the direction of the party, he says. Since SLPP is a democratic party, some will entertain different views, suggestions and ideologies.
-
-“They are the young people who are very pro LGBT rights,” Rajapaksa says. “They are the young people who are very pro of a small government. They are the young people who think SOE reforms are necessary.
-
-...
-
-[Data](articles/00edc49d.json)
-
-[Extended Data](ext_articles/00edc49d.ext.json)
-
----
-
-### Nine identity papers use
-
-*2024-11-10 17:03:27* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දේ-භාවිත-කරන්න-අනන්‍යතා-පත්‍ර-9ක්/11-412953) · `si`
-
-Election Commission publishes 9 approved IDs for parliamentary vote. Must bring one of these: National ID, driver's license, passport, elders' ID, or temporary Election Commission ID. No default or government department IDs allowed.
-
-🟩
-
-The Elections Commission has published nine identity papers that can be used at the parliamentary election on the 14th of this month.
-
-The Election Commission states that it is inevitable to carry one of these identity leaves as it goes to the poll.
-
-In addition, it is not accepted as a valid ID card issued in the ballot identity card issued by the Department of Default or the Department of Ministries and the Department of Government Institutions.
-
-Identity Cards in the polling boundary is the National Identity Card, Valid Driving License, Valid Passport, Elders Identity CardOnly a temporary ID issued by the Election Commission for the temporary identity card and disabled citizens.
-
-◼️
-
-[Data](articles/1d2663df.json)
-
-[Extended Data](ext_articles/1d2663df.ext.json)
-
----
-
-### Himaophylia patients are in danger due to a problem with purchasing drugs
-
-*2024-11-10 16:58:02* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-මිලදී-ගැනීමේ-ගැටලුවක්-නිසා-හිමෝෆීලියා-රෝගීන්ගේ-ජීවිත-අනතුරේ/11-412952) · `si`
-
-Himaphylia patients face danger due to issues with purchasing drugs, particularly Factor VIII and emicizumab. The Sri Lankan healthcare system risks compromising patient safety over concerns about drug quality and cost.
-
-🟩
-
-The eighth factor, which is a key factor in the blood clot, is the eighth factor of huge blood gang patients, as well as Factor VIII, and newly used emicizumab throughout the world for control of the affected conditionThe Colombo District candidate, specialist, Colombo, the Colombo District candidate, Dr. Chamal Sanjeewa emphasizes that the health system in Sri Lanka's health system can create a huge risk of the lives of these patients.
-
-At the recent past, the eighth factor has been purchased for the health system in Sri Lanka, but questioned by the relevant authority to question the quality of the relevant factor.. He added that the patients will suffer a major enforcement on the needs of certain persons in the health system.
-
-The Ministry of Health has spent a large sum of money annually for Hahapoli's patients.Dr. Chamal Sanjeewa stressed that the use of Emicizumab medicine used worldwide is controlled in the long run.
-
-...
-
-[Data](articles/0cbe018a.json)
-
-[Extended Data](ext_articles/0cbe018a.ext.json)
 
 ---

@@ -1,108 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 22:26:26**
+As of **2024-11-11 22:14:46**
 
 ## Newspaper Stats
 
-*Scraped **54,271** Articles*
+*Scraped **54,266** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 422
-bbccomsinhala | 552
+bbccomsinhala | 551
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,076
-adaderanalk | 6,479
+adaderanalk | 6,478
 tamilmirrorlk | 7,584
 virakesarilk | 8,799
-adaderanasinhalalk | 9,472
+adaderanasinhalalk | 9,469
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,265 (100.0%) of 54,271 articles have been extended.
+54,265 (100.0%) of 54,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
-
-### Dilith offers president a practical plan to solve Sri Lanka’s debt crisis
-
-*2024-11-11 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103339/dilith-offers-president-a-practical-plan-to-solve-sri-lankas-debt-crisis) · `en`
-
-Gampaha District parliamentary candidate and leader of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera, stated that he has a practical plan to address Sri Lanka’s ongoing debt crisis and is ready to assist the President in repaying the debt through this plan.
-
-Jayaweera made these remarks while addressing a public rally in Maharagama today (11).
-
-“We want to bring this country to a positive state. That is why ‘Sarvajana Balaya’ is here. We are the political force of the developing people. Our goal is to inspire the nation to rise up and move forward, not to fill their minds with fantasies, hate, and anger. This is not the politics we need,” Jayaweera said.
-
-He emphasized that eliminating corruption and prosecuting wrongdoers is the first step toward national development. He criticized other political groups for focusing on social media campaigns, contrasting their approach with the ‘Sarvajana Balaya’ movement’s focus on real change.
-
-...
-
-[Data](articles/f4aed7d4.json)
-
----
-
-### ජනතාවට දුන් පොරොන්දු ඉටු කරන ලෙස නාමල් ආණ්ඩුවෙන් ඉල්ලයි
-
-*2024-11-11 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203153) · `si`
-
-ජනතාවට බොරු කීම නවතා දුන් පොරොන්දු ඉටු කරන ලෙස ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා ජනාධිපතිවරයාගෙන් ඉල්ලා සිටියි.
-
-ඔහු මෙම ඉල්ලීම සිදුකළේ මතුගම අද (11) පැවති ජන හමුවකට එක්වෙමිනි.
-
-"පහුගිය කාලේ අපිට චෝදනා නැගුවා. අද ඒ අය විසින්ම කියනවා ඒ නගපු චෝදනා අවබෝදයකින් කරපු බොරුවක් මැතිවරණ වාසි ලබා ගන්න. රැකියා උත්පාදනය සඳහා ආණ්ඩුවේ වැඩපිළිවෙළ මොකක්ද? අපි ආණ්ඩුවට කියන්නේ තවදුරටත් රටේ ජනතාවට බොරු කිව්වා ඇති ඔබ වැඩ කරන්න"
-
-◼️
-
-[Data](articles/36097d35.json)
-
----
-
-### චැනල් ෆෝ නාලිකාවේ වීඩියෝව සම්බන්ධයෙන් CID යෙන් විමර්ශනයක්
-
-*2024-11-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203152) · `si`
-
-පාස්කු ඉරිදා ප්‍රහාරයට අදාළව විදෙස් රූපවාහිනී නාලිකාවක විකාශය වූ වීඩියෝ පටයක් සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශන ආරම්භ කර තිබේ.
-
-බාහිර සංවිධානයක් විසින් එම වීඩියෝව පිළිබඳව මහජන ආරක්ෂක අමාත්‍යංශය වෙත යොමු කරන ලද පැමිණිල්ලක්, පොලිස් මූලස්ථානය වෙත යොමු කිරීමෙන් පසු එහි විමර්ශන කටයුතු සඳහා අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව වෙත බාර දී ඇත.
-
-බ්‍රිතාන්‍ය රූපවාහිනී නාලිකාවක් වූ Channel 4 නාලිකාව විසින් ශ්‍රී ලාංකිකයෙකු වූ මොහොමඩ් මිහිලාල් මොහොමඩ් හෆ්සීර් නොහොත් අසාද් මවුලානා යන අය සමඟ සම්මුඛ සාකච්ඡාවක් පවත්වා තිබුණි.
-
-මෙම සම්මුඛ සාකච්ඡාව පසුගිය 2023 වසරේ සැප්තැම්බර් 06 වන දින හෝ ඊට ආසන්න දිනකදී එම නාලිකාව මඟින් විකාශය කර තිබුණි.
-
-ඒ අනුව එම වීඩියෝවේ අඩංගු පාස්කු දින ප්‍රහාරය සම්බන්ධ ආන්දෝලනාත්මක කරුණු සහ දණ්ඩ නීති සංග්‍රහයේ සඳහන් කුමන්ත්‍රණය ඇතුළු චෝදනා කිහිපයක් යටතේ අපරාධ පරික්ෂණ දෙපාර්තමේන්තුව විසින් මේ වනවිට විමර්ශනයක් ආරම්භ කර තිබේ.
-
-මෙම විමර්ශනයට අදාළව අද (11) අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් කොටුව ගරු මහෙස්ත්‍රාත් අධිකරණය වෙත කරුණු වාර්තා කරන ලදී.
-
-...
-
-[Data](articles/01ec3639.json)
-
----
-
-### මේක L බෝඩ් ආණ්ඩුවක් - රනිල්
-
-*2024-11-11 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203151) · `si`
-
-පළපුරුද්ද නොමැති ආණ්ඩුවක් සමඟ පළපුරුද්ද නොමැති පාර්ලිමේන්තුවක් බිහිවුවහොත් එය රට විනාශයට ඇද දමනු ඇතැයි හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-ඔහු මේ අදහස් පළ කළේ, නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ මරදානේ අද (11) පැවති ජන හමුව අමතමිනි.
-
-"මේක පළපුරුද්ද නැති ආණ්ඩුවක්. L බෝඩ් ආණ්ඩුවක් දැන් තියෙන්නේ. L බෝඩ් ආණ්ඩුවයි L බෝඩ් පාර්ලිමේන්තුවයි තිබුණොත් හරිම ප්‍රශ්නයක් ඇති වෙන්නේ. රට විනාශ වෙනවා...."
-
-◼️
-
-[Data](articles/70d92e90.json)
-
----
 
 ### Sajith says the existing ISF agreement should be changed
 
@@ -1157,26 +1085,6 @@ In addition, actor Sivakarthikeyan has been crowned at a young age and thereby p
 [Data](articles/12292902.json)
 
 [Extended Data](ext_articles/12292902.ext.json)
-
----
-
-### මෙවර මහ මැතිවරණයේදී සුළු ජාතීන්ගේ ඡන්ද කෙසේ බෙදී යයි ද?
-
-*2024-11-11 15:48:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdd0r2dmp1vo) · `si`
-
-“ජාතීන් හැටියට බෙදිලා දේශපාලනය කරලා එකතු වෙන්න බැහැ. එකතු කරන්න නම් සියලු ජාතීන් සිටින සහ ඔවුන්ගේ නායකයින් සිටින එක ව්‍යාපාරයක් හදන්න ඕනෑ. එම ව්‍යාපාරය ජාතික ජන බලවේගය යි.” ඒ, ජනාධිපති අනුර කුමාර දිසානායක නොවැම්බර් 10 වන දා වවුනියාවේ පැවති මහ මැතිවරණ ප්‍රචාරක රැළියකදී පළ කළ අදහසකි.
-
-ජනධිපතිවරණයේදී සුළු ජාතීන්ගේ ප්‍රදේශ ජය ගැනීමට නොහැකි වූ වත්මන් ජනාධිපතිවරයා තම ධූරයේ දිවුරුම් දී ජාතිය අමතමින් තමාව විශ්වාස නොකළ පුරවැසියන්ගේ විශ්වාසය දිනා ගැනීමට කටයුතු කරන බව අවධාරණය කළේ ය.
-
-ජනාධිපතිවරණයෙන් පසුව තව දින කිහිපයකින් පවත්වන මහ මැතිවරණයේදී උතුරු නැගෙනහිර හා වතුකරයේ සිටින සුළු ජාතීන් නියෝජනය කරන ජනතාවගේ ඡන්දය ප්‍රකාශ කිරීම කෙබඳු වේවි ද? එහි වාසිය ලැබෙන්නේ කාට ද?
-
-2020 වසරේ පැවති මහමැතිවරණයේදී දෙමළ ජනයා බහුලව ජීවත්වෙන වන්නි හා යාපනය දිස්ත්‍රික්ක ජය ගනු ලැබුවේ ඉලංගෙයි තමිල් අරසු පක්ෂය යි.
-
-එවර මඩකලපුව දිස්ත්‍රික්කය ඉලංගෙයි තමිල් අරසු පක්ෂය ජය ගනිද්දී, ත්‍රිකුණාමලය දිස්ත්‍රික්කය ජය ගැනීමට සමගි ජන බලවේගය සමත් විය.
-
-...
-
-[Data](articles/39757c7e.json)
 
 ---
 
@@ -2317,5 +2225,125 @@ So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vom
 [Data](articles/56b9ca62.json)
 
 [Extended Data](ext_articles/56b9ca62.ext.json)
+
+---
+
+### Virus again for boys
+
+*2024-11-11 11:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்கு-மீண்டும்-வைரஸ்/175-346936) · `ta`
+
+Viral fever rising in children: Fever, cough, mucus, vomiting. Dengue cases increasing. If fever persists over 3 days, get blood tests.
+
+🟩
+
+Ridgeway Arya Children's Hospital Specialist Dr. Deepal Perera says the fever is increasing among children.
+
+He said more attention should be paid to the flu if the flu lasts for almost three days.
+
+“Viral fever has increased between children in recent days. It is a fever with coughing and mucus. Also, the number of dengue patients is also increasing.
+
+So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vomiting. So, if you have a fever for more than three days, do the appropriate blood test. ”He advised.
+
+◼️
+
+[Data](articles/ac6cd01f.json)
+
+[Extended Data](ext_articles/ac6cd01f.ext.json)
+
+---
+
+### Car collision in Lakehouse building
+
+*2024-11-11 11:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்ஹவுஸ்-கட்டிடத்தில்-கார்-மோதி-விபத்து/175-346935) · `ta`
+
+Car crash damages entrance of Lake House building in Colombo. Driver survives. Police investigating.
+
+🟩
+
+A car accident near the entrance of the Lake House building in Colombo has caused heavy damage to property.
+
+Police said the car crashed into the cement wall near the entrance of the building this morning.
+
+It is reported that the driver has survived the incident. Colombo -Fort Police are investigating the incident.
+
+◼️
+
+[Data](articles/773e1feb.json)
+
+[Extended Data](ext_articles/773e1feb.ext.json)
+
+---
+
+### Petition for Lohan Ratwatte
+
+*2024-11-11 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203128) · `si`
+
+Former State Minister Lohan Ratwatte released on bail after court hearing over unregistered vehicle case.
+
+🟩
+
+Former State Minister Lohan Ratwatte, who was remanded in the Mirihana area, was presented to the dissemination of unregistered car.
+
+The Court of Justice Nissanka Bandula Karunaratne and Shashi Mahendran were released after considering the petition.
+
+The Court informed the petitioner to issue notice to the respondents, including the respondents including the IGP.
+
+◼️
+
+[Data](articles/3e8543a8.json)
+
+[Extended Data](ext_articles/3e8543a8.ext.json)
+
+---
+
+### The first day of the new parliament
+
+*2024-11-11 11:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்றத்தின்-முதல்-நாள்/175-346934) · `ta`
+
+First day of new Parliament: Nov 21. Election on Nov 14. 225 MPs elected (196 popular vote, 29 National List). Special measures for first session. General Secretary assigns roles. No seat allocation on first day.
+
+🟩
+
+The first day of the new Parliament is November 21, the Parliamentary Communications Division said.
+
+The general election to elect members of the 10th Parliament will be held on November 14.
+
+196 MPs elected by the people and 29 MPs from the National List, 225 members will be elected to parliament.
+
+The Parliamentary Communications Division has announced that many special measures will be taken on the first day of the first session of Parliament.
+
+On the first day, the main responsibilities of the House will be assigned to the General Secretary of Parliament. On the first day, MPs do not allocate the seat, so MPs have the opportunity to sit in any seat they want.
+
+◼️
+
+[Data](articles/592e9d93.json)
+
+[Extended Data](ext_articles/592e9d93.ext.json)
+
+---
+
+### The responsibility of the defeat should be responsible for all the batsmen, including I
+
+*2024-11-11 11:30:26* · [`adalk`](https://www.ada.lk/sports/පරාජයේ-වගකීම-මම-ඇතුළුව-පිතිකරුවන්-සියලු-දෙනා-වගකීම-භාර-ගන්න-ඕනී/9-412964) · `si`
+
+Sri Lanka cricket captain Charith takes blame for team's loss against New Zealand in T20 match. He attributes defeat to poor batting performance, including his own. Team failed to surpass NZ's score of 108/7 in 19 overs.
+
+🟩
+
+The leader of the Sri Lanka factor Charith said that he should take responsibility for the defeat of the second T20 match with New Zealand.
+
+He said this to the media yesterday (10) after the match.
+
+"I think it's hard to look forward to bowling more than a group. It is a good thing to be limited to any wicket and 108. I see all the batsmen, including I want to take responsibility for the defeat. "
+
+Batting first, New Zealand scored 108 runs for the loss of 19 overs.
+
+In reply, the Sri Lankan team was only 103 runs for the loss of all 19 overs.
+
+◼️
+
+[Data](articles/e936af7a.json)
+
+[Extended Data](ext_articles/e936af7a.ext.json)
 
 ---

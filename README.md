@@ -1,36 +1,188 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 08:02:58**
+As of **2024-11-11 09:00:19**
 
 ## Newspaper Stats
 
-*Scraped **54,122** Articles*
+*Scraped **54,131** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 422
-bbccomsinhala | 549
+bbccomsinhala | 550
 colombotelegraphcom | 553
 islandlk | 3,239
 economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
-adalk | 5,053
-adaderanalk | 6,450
-tamilmirrorlk | 7,556
+adalk | 5,054
+adaderanalk | 6,453
+tamilmirrorlk | 7,557
 virakesarilk | 8,777
-adaderanasinhalalk | 9,439
+adaderanasinhalalk | 9,442
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,122 (100.0%) of 54,122 articles have been extended.
+54,131 (100.0%) of 54,131 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Health Ministry warns of fraudulent money collection scheme impersonating officials
+
+*2024-11-11 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103313/health-ministry-warns-of-fraudulent-money-collection-scheme-impersonating-officials) · `en`
+
+The Ministry of Health has issued an alert regarding a recent scam in which an organized group is reportedly collecting money from health staff and the general public, fraudulently using the names of senior ministry officials.
+
+In an official statement, the ministry clarified that no health ministry official would ever solicit money through telephone calls, WhatsApp messages, or any other communication channel. It emphasized that any such requests are not legitimate and warned the public against falling victim to these schemes.
+
+The Ministry of Health advised the public to refrain from transferring money to unknown accounts or engaging in any monetary transactions with suspicious individuals claiming affiliation with the ministry.
+
+It also urged those affected to report any fraudulent activity to authorities and take steps to bring the perpetrators to justice.
+
+...
+
+[Data](articles/6081a72f.json)
+
+[Extended Data](ext_articles/6081a72f.ext.json)
+
+---
+
+### At least 40 Palestinians killed in Israeli strikes in Gaza, medics say
+
+*2024-11-11 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103312/at-least-40-palestinians-killed-in-israeli-strikes-in-gaza-medics-say) · `en`
+
+At least 40 Palestinians were killed by Israeli strikes across Gaza on Sunday, including two dozen when a residential building in the northern town of Jabalia was hit, Palestinian health officials and a human rights group said.
+
+The Palestinian Center for Human Rights (PCHR) in Gaza said at least 24 people were killed when an Israeli strike destroyed the three-story building in Jabalia at dawn. Thirty other people from nearby houses were wounded, PCHR said in a statement.
+
+Footage circulating on social media, which Reuters could not immediately verify, showed about a dozen bodies wrapped in blankets and laid on the ground outside a hospital near Jabalia. Local media said they were the bodies of people killed in the attack on the residential building, which housed at least 30 people, according to residents.
+
+The Israeli military said it struck a site in Jabalia in which “terrorists were operating.”
+
+...
+
+[Data](articles/69f6cd4f.json)
+
+[Extended Data](ext_articles/69f6cd4f.ext.json)
+
+---
+
+### Three people die after falling into father's jeep
+
+*2024-11-11 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203123) · `si`
+
+Three people died after falling into a father's jeep in Maradana. A child was killed while another was injured. The incident occurred when the father was parking the vehicle. The bodies were taken to the Colombo National Hospital morgue for investigation.
+
+🟩
+
+At the front of Maradana - a jeep was in front of the house in front of the residence of railway quarters, a child was killed and a child was killed.
+
+The deceased has been identified as a child, a child of a resident of Maradana.
+
+Investigations have revealed that the accident had occurred when his child was behind the vehicle by the father to park the jeep yesterday afternoon.
+
+The body has been placed at the Colombo National Hospital morgue and the Maradana Police are conducting further investigations.
+
+◼️
+
+[Data](articles/0fe16ebb.json)
+
+[Extended Data](ext_articles/0fe16ebb.ext.json)
+
+---
+
+### A gang of cash from the people using health bossels
+
+*2024-11-11 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203122) · `si`
+
+Health Ministry warns against scams: Reporters claim cash demands via phone/WhatsApp. Public advised to deposit money in banks instead. Legal action planned against fraudsters.
+
+🟩
+
+The Ministry of Health states that information has been reported from health staff and people from health staff and people using senior officers of the Ministry of Health.
+
+The Ministry has issued an announcement that any of the health ministry is not working or demanding such cash using phone, whatsapp or any media.
+
+The Ministry of Health has informed the public to deposit money to such cheats to deposit money to the bank accounts or to remit funds from other media.
+
+The Ministry further stated that arrangements have been made to take legal action in this regard.
+
+◼️
+
+[Data](articles/177a17e8.json)
+
+[Extended Data](ext_articles/177a17e8.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-11 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103311/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+Several spells of showers will occur in Northern and North-central Provinces and in Trincomalee district, according to the Meteorology Department.
+
+Showers or thundershowers may occur at a few places in Central, Uva and Southern provinces in the evening or night.
+
+Fairly heavy showers of about 50mm are likely at some places in Jaffna, Kilinochchi, Mullaittivu and Trincomalee districts, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and North-western provinces and in Galle and Matara districts during the morning.
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/3f464c23.json)
+
+[Extended Data](ext_articles/3f464c23.ext.json)
+
+---
+
+### The car that broke into Lake House
+
+*2024-11-11 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203121) · `si`
+
+Car crashes through Lake House security fence, damaging property and injuring driver. Incident occurred on November 11th at the Colombo Lake House premises.
+
+🟩
+
+It was seen in the Colombo Lake House to launch a car to the Colombo Lake House today (11).
+
+The security fence was severely damaged in front of Lake House in front of Lake House and the driver has been harmed.
+
+◼️
+
+[Data](articles/c3b1b676.json)
+
+[Extended Data](ext_articles/c3b1b676.ext.json)
+
+---
+
+### Heavy rain today
+
+*2024-11-11 07:46:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பலத்த-மழை/175-346915) · `ta`
+
+Heavy rain expected in Northern, North Central Provinces and Trincomalee District. Thunderstorms possible in Central, Uva, Sabaragamuwa, Southern Provinces. Over 50mm rainfall predicted in some areas.
+
+🟩
+
+The Department of Meteorology has said that rainfall is expected several times in the Northern and North Central Provinces and Trincomalee District.
+
+In the evening or night, rain or thunderstorms are expected in some parts of the Central, Uva, Sabaragamuwa and Southern Provinces.
+
+In addition, the weather forecast of the Department of Meteorology has stated that there are more than 50 millimeters of heavy rainfall in some places.. (A)
+
+◼️
+
+[Data](articles/1878e0db.json)
+
+[Extended Data](ext_articles/1878e0db.ext.json)
+
+---
 
 ### A person is thrown into the road during a dispute and collides in a vehicle
 
@@ -489,6 +641,38 @@ The meeting was attended by many, including party activists. He said this while 
 [Data](articles/405a1634.json)
 
 [Extended Data](ext_articles/405a1634.ext.json)
+
+---
+
+### Indian 'expansionism' and the government: Before and now a change of positions?
+
+*2024-11-11 01:51:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy5lp9e2r33o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's JVP/NPP party stance on India has shifted under new leadership. Formerly critical, now seeking cooperation. President Anura Kumara Dissanayake visits India, criticizes past agreements. Party members express mixed views on relations with India. Experts caution careful handling of sensitive diplomacy.
+
+🟩
+
+Indian 'expansionism' and the government: Before and now a change of positions?
+
+The national folk force represented by President Anura Kumara Dissanayake was based on his leadership.
+
+The Indian Airlines was a major slogan from the early days of his leadership.
+
+The JVP is considered one of the five public classes since the 1960's, the Indian expansion has been allocated to explain.
+
+In addition, the JVP continued to protest with many agreements including the Indo-Lanka Accord.
+
+Anura Kumara Dissanayake has criticized the proposed agreements that were proposed to have with India by 2022.
+
+...
+
+[Data](articles/2d6a5db2.json)
+
+[Extended Data](ext_articles/2d6a5db2.ext.json)
 
 ---
 
@@ -1864,6 +2048,30 @@ The younger members are undaunted and are looking to change the direction of the
 
 ---
 
+### Nine identity papers use
+
+*2024-11-10 17:03:27* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දේ-භාවිත-කරන්න-අනන්‍යතා-පත්‍ර-9ක්/11-412953) · `si`
+
+Election Commission publishes 9 approved IDs for parliamentary vote. Must bring one of these: National ID, driver's license, passport, elders' ID, or temporary Election Commission ID. No default or government department IDs allowed.
+
+🟩
+
+The Elections Commission has published nine identity papers that can be used at the parliamentary election on the 14th of this month.
+
+The Election Commission states that it is inevitable to carry one of these identity leaves as it goes to the poll.
+
+In addition, it is not accepted as a valid ID card issued in the ballot identity card issued by the Department of Default or the Department of Ministries and the Department of Government Institutions.
+
+Identity Cards in the polling boundary is the National Identity Card, Valid Driving License, Valid Passport, Elders Identity CardOnly a temporary ID issued by the Election Commission for the temporary identity card and disabled citizens.
+
+◼️
+
+[Data](articles/1d2663df.json)
+
+[Extended Data](ext_articles/1d2663df.ext.json)
+
+---
+
 ### The national people should not play with the feelings of the people - Rosie Senanayake
 
 *2024-11-10 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198346) · `ta`
@@ -2079,237 +2287,5 @@ The body has been placed in the funeral room of the Embilipitiya Hospital and th
 [Data](articles/bcd02f8f.json)
 
 [Extended Data](ext_articles/bcd02f8f.ext.json)
-
----
-
-### Motorcycle accident in Panamurai;Youth killed
-
-*2024-11-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198329) · `ta`
-
-Motorcycle crash kills 19-year-old in Panamurai. Rider dies after colliding with plowing machine. Driver arrested. Incident occurs on Muladiyawala Malabalawa Road.
-
-🟩
-
-A motorcyclist was killed when a motorcycle crashed into a plowing machine on Muladiyawala Malabalawa Road, belonging to the Panamura Police Division, police said.
-
-The 19 -year -old youth, who lives in Muladiyawala, Embilipitiya, died in the accident.
-
-The accident occurred when a motorcycle traveling from Muladiyavala to Malabala collided with a plowing machine traveling from Mulabalawa to Muladiyawala.
-
-In the accident, a motorcyclist was seriously injured and admitted to the Embilipitiya Hospital and died without treatment.
-
-The body has been placed in the funeral room of the Embilipitiya Hospital and the driver of the plowing machine has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/b03f4523.json)
-
-[Extended Data](ext_articles/b03f4523.ext.json)
-
----
-
-### Chandrakumar is the chief candidate of Jaffna - Kilinochchi
-
-*2024-11-10 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198343) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Murugesu Chandrakumar leads United People's Power in Jaffna-Kilinochchi. He emphasizes Tamil rights, citing Sajith Premadasa's manifesto. United People's Alliance unites Tamil, Sinhala, Muslim, and upcountry groups. Chandrakumar highlights welfare programs in Kilinochchi and Jaffna, including garment factories and technical colleges. He proposes agricultural development and private investment to create jobs.
-
-🟩
-
-“The United People's Power alone has a concern about the rights of the Tamil people. This was confirmed by Sajith Premadasa's election manifesto during the last presidential election. That is why the TNA openly supported Sajith Premadasa. We are facing a general loss with the United People's Power, ”said Murukesu Chandrakumar, leader of the United People's Power and Kilinochchi Dal district.. To come to the full form of his examination
-
-Question - What is the reason you made to meet the general election with the United People's Power?
-
-Answer - We are joining the United People's Alliance as a publication of the United People's Power. The Tamil Progressive Alliance, the Muslim Congress and the Sri Lanka People's Congress, which are joining our Equality Party and the Upcountry parties, have formed the United People's Alliance.
-
-...
-
-[Data](articles/d53fe721.json)
-
-[Extended Data](ext_articles/d53fe721.ext.json)
-
----
-
-### Sinhalese is the main issue faced by Vanni - Sivasakthi Ananthan
-
-*2024-11-10 16:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198333) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Democratic Tamil National Alliance (DTNA) main issues: Sinhalese settlements, Buddhist temples, Archaeology/Forest Department occupations, elephant troubles. Past solutions: Newspaper reports, protests, magazine articles. Future plans: Unite parties/civil orgs, create democratic public organization. DTNA differs from Tamil National Alliance (TNA), focusing on Tamil rights and unity.
-
-🟩
-
-A Buddhasil has been established at Vavuniya Periyakulam junction today. The Buddha statue has been installed in the absence of none of the Sinhalese people. Sivasakthi Anandan, who is contesting on behalf of the Democratic Tamil National Alliance in the Vanni Thottal district, says that the Sinhalese will be slowly settled.Former MP Sivasakthi Ananthan told the Weerakesari that the details of his examination said.
-
-Question - What are the victories of the Democratic Tamil National Alliance?
-
-Answer - The chances of success are very bright. Two hundred and twenty -six thousand voted for the presidential election. The conch symbol is deep in the minds of the people. The people have elected the Democratic Tamil National Alliance (TNA) as the power to carry out the Tamil national liberation.The people of Sangha welcomed the house.
-
-...
-
-[Data](articles/eb2f631c.json)
-
-[Extended Data](ext_articles/eb2f631c.ext.json)
-
----
-
-### There is no change in the South - Udayarasa, the chief candidate of the Democratic National Alliance
-
-*2024-11-10 16:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198332) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-P. Udayarasa, TNA candidate, emphasizes Tamil representation in Vanni district. Criticizes lack of development in Northern/Eastern regions. Expresses skepticism about current government's commitment to Tamil rights. Calls for unity among Tamils and protection of their identity. Promises to focus on Vanni district development if elected MP.
-
-🟩
-
-The change in the South is not a change for Tamils. "We should elect a Tamil minister in the Vanni electoral district if the Tamils ​​want a change in the election," said P. Udayarasa, the primary candidate of the Democratic Tamil National Alliance (TNA).
-
-A: I have contested the first three times in parliamentary elections. I got a few votes when I contested the first time. But for the second time I was defeated by a few votes.
-
-The third time I got the votes I got more. However there was an opportunity that could not win. So every time my vote has gone up. So people who voted for me need to do what they voted for. Cannot leave those people because they have lost. So this time I contest the parliamentary election so that they should meet that need.
-
-...
-
-[Data](articles/f4241116.json)
-
-[Extended Data](ext_articles/f4241116.ext.json)
-
----
-
-### Sri Lanka Navy submarine to Sri Lanka
-
-*2024-11-10 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203104) · `si`
-
-Indian Navy submarine arrives in Colombo for official visit. Sri Lanka Navy hosts event honoring tradition. Submarine crew of 53 personnel. Scheduled programs enhance goodwill support. Indian sailors to visit key locations during stay.
-
-🟩
-
-The Indian Navy submarine has arrived at the Port of Colombo for an official visit.
-
-The Sri Lanka Navy recognized the Sri Lanka Navy's tradition by the Sri Lanka Navy.
-
-The 67.5m submarine staff composed of 53 daily.
-
-The 'Ins VEla' submarine is due to leave the island on the 13th.
-
-During that period, the staff is scheduled to attend several programs organized to enhance the support of the goodwill of the Navy.
-
-The navy added that Indian sailors also plan to visit several areas to visit important places.
-
-◼️
-
-[Data](articles/5d025a40.json)
-
-[Extended Data](ext_articles/5d025a40.ext.json)
-
----
-
-### Eran Wickremaratne Sevy
-
-*2024-11-10 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198339) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Former President Gotabhaya Rajapakse blamed for economic crisis. New ministers criticized for handling economy. President Anura Kumara Dissanayake accused of poor decision-making. Economic crisis resolution within 5 years possible with proper management. Parliament's role questioned, experienced politicians urged. Cooperation between president and opposition suggested to address economic issues.
-
-🟩
-
-People should remember that the country has not recovered from the economic crisis. If you make emotional decisions in politics, the context of 2020 will appear. To make the best resolution of people to consider the future of the country. United People's Power Colombo District Candidate Eran Wickramaratne said he was ready to act in harmony with the president to solve the economic crisis.
-
-If you act with the best management planning, the solution to the economic crisis can be resolved within five years. It is impossible to resolve the economic crisis even after 15 years if the president is acting with the wrong decision. Many are new in the PA in 2020.
-
-What happened to the country?If the Parliament is not obliged to the executive power, those with political experience should be elected to Parliament. He also said that if the newcomers were elected, the Parliament would submit to the Executive Department.. The full form of the interview comes up,
-
-...
-
-[Data](articles/95b3ff11.json)
-
-[Extended Data](ext_articles/95b3ff11.ext.json)
-
----
-
-### Our chance of our success is better - Mano Ganesan
-
-*2024-11-10 15:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198341) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Mano Ganesan discusses the Tamil Progressive Alliance's chances in the Colombo district election. He emphasizes their alliance with the United People's Alliance and other parties. Ganesan addresses challenges, including reduced seats and competition from other parties. He mentions analysis of Sajith Premadasa's defeat and agreements with the United People's Alliance. Ganesan discusses potential national government formation and solutions for hill country salary conflicts. He also comments on presidential system changes and challenges from former party members Velukumar and Aravinda Kumar.
-
-🟩
-
-Manohanesan Mano Ganesan, the leader of the Tamil Progressive Alliance and the United People's Alliance's Colombo district candidate, said that even though the President was elected by the majority of the Sinhalese votes, it would be necessary to consult and make a decision on the issues of the minority.He said this in a special interview with Veerakesari.To come with Manohanesan,
-
-Answer: Our chance of success in the Colombo district is very good. There is no alternative in which there is. This time, we are contesting the election on behalf of our party, the Democratic People's Front and the Tamil Progressive Alliance.. Our parties have a standard promise in Colombo.Even if we are alliance with the United People's Power, there is no problem because we have standard promises.
-
-Question: A seat has been reduced in the Colombo district and you are going to meet the electoral field with a multi -faceted competition, is this a challenge to your success?
-
-...
-
-[Data](articles/42e6f0e4.json)
-
-[Extended Data](ext_articles/42e6f0e4.ext.json)
-
----
-
-### JVP to apologize
-
-*2024-11-10 15:57:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜே-வி-பி-மன்னிப்பு-கேட்க-வேண்டும்/175-346886) · `ta`
-
-Ranil Wickremesinghe criticizes JVP over apology to plantation workers. He recalls JVP opposition to granting citizenship to plantation workers in 1986. Wickremesinghe questions why JVP should be voted for after opposing voting rights.
-
-🟩
-
-Former President Ranil Wickremesinghe has said that the People's Liberation Front (JVP) should apologize to the plantation workers.
-
-“This is the first meeting I am addressing the UNP. நாங்கள் வேறு இடங்களில் எரிவாயு சிலிண்டர் சின்னத்தில் போட்டியிட்டாலும், நுவரெலியாவில் யானைச் சின்னத்தில் போட்டியிட வேண்டும் என்று ஜீவன் தொண்டமான் வலியுறுத்தினார்” என கொட்டகலையில் இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போது அவர் தெரிவித்தார்.
-
-“At the time, when the plantation workers were granted citizenship, the JVP. Chairman Rohana Wijeweera vehemently opposed it, ”he recalled and stressed the close ties between the United National Party (UNP) and the plantation community.
-
-He added that the United National Party has continued to contest the parliamentary elections since 1947 and we have always provided facilities to improve the lives of these people.
-
-...
-
-[Data](articles/6bf7c386.json)
-
-[Extended Data](ext_articles/6bf7c386.ext.json)
-
----
-
-### The disintegration of the Tamil representation of Colombo is not the intention of the EPDP - Dr. Sri Ramachandra priests
-
-*2024-11-10 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198336) · `ta`
-
-Here's a summary of the key points in approximately 200 characters:
-
-
-
-Dr. Sri Ramachandra Guru, leader of the Eelam People's Democratic Party, aims to increase Tamil representation in Colombo. He emphasizes addressing issues like housing, employment, education, and healthcare for Tamil communities. The party contests elections to improve the lives of Tamils in Colombo and advocate for their rights.
-
-🟩
-
-"The main objective of dedicating the aspirations of the Tamil people of Colombo is to dedicate the Tamil representation of the people of Colombo," said Dr. Sri Ramachandra Guru, the National List of the National Unity and Realization of the Eelam People's Democratic Party (Eelam People's Democratic Party).. He made this statement during his interview with Veerakesari. The full form of Achchevi is coming
-
-Answer: A meeting with Douglas Devananda, who served as a minister while serving as a teacher of science.. I had made the demands that "there is no minister to focus on the society.". He accepted my demands and set up a school in the name of 'Sri Vidya' at the Sarvarth Siddhi Vinayakar Temple in Colombo for about five years.. During his time when Chandrika Bandaranaike was president, she had the opportunity to attend a religious reconciliation conference headed by her.. Chandrika congratulated the comments I put forward in it. Thus, my political journey began.
-
-...
-
-[Data](articles/14ed9d93.json)
-
-[Extended Data](ext_articles/14ed9d93.ext.json)
 
 ---

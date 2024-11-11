@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 12:00:26**
+As of **2024-11-11 12:15:02**
 
 ## Newspaper Stats
 
-*Scraped **54,167** Articles*
+*Scraped **54,168** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,239
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,060
+adalk | 5,061
 adaderanalk | 6,457
 tamilmirrorlk | 7,569
 virakesarilk | 8,781
@@ -26,43 +26,105 @@ adaderanasinhalalk | 9,447
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,160 (100.0%) of 54,167 articles have been extended.
+54,165 (100.0%) of 54,168 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### சிறுவர்களுக்கு இடையில் மீண்டும் வைரஸ் காய்ச்சல்
+### Difficult Dealings with Strong Political Personalities
+
+*2024-11-11 12:07:00* · [`islandlk`](http://island.lk/difficult-dealings-with-strong-political-personalities/) · `en`
+
+(Excerpted from the autobiography of MDD Pieris, Secretary to the Prime Minister)
+
+Senior public officials have often to act as buffers between ministers, other important political actors, and other stakeholders in society. On many occasions, one had to absorb a significant degree of shock and act as a facilitator, mediator or referee. A rousing example of this side of one’s responsibilities came by courtesy of Mrs. Vivienne Goonewardene, the LSSP Member of Parliament for Dehiwela-Galkissa and wife of Mr. Leslie Goonewardene, Minister of Communications.
+
+...
+
+[Data](articles/b80335ab.json)
+
+[Extended Data](ext_articles/b80335ab.ext.json)
+
+---
+
+### සරසවි සිසුන් හා උසස් පෙළ සිසුන් සඳහා මැතිවරණ කොමිසම ගත් තීරණය
+
+*2024-11-11 11:39:55* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුන්-හා-උසස්-පෙළ-සිසුන්-සඳහා-මැතිවරණ-කොමිසම-ගත්-තීරණය/11-412965) · `si`
+
+පාර්ලිමේන්තු ඡන්ද විමසීමේදී රාජ්‍ය විශ්වවිද්‍යාල කාර්යමණ්ඩලවලට මෙන්ම ශිෂ්‍ය ශිෂ්‍යාවන්ට ද ඡන්දය ප්‍රකාශකිරීමට හැකි අයුරින් නිවාඩු ලබාදීමට පියවර ගන්නා ලෙස මැතිවරණ කොමිසම දැනුම් දී ඇත.
+
+ඒ් අනුව ලබන මහ මැතිවරණය හේතුවෙන් මේ මස 13 හා 14 දෙදින විශ්ව විද්‍යාල වසා තැබීමට විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව තීරණය කර තිබේ.
+
+එසේම පෞද්ගලික විශ්වවිද්‍යාල හා උසස් අධ්‍යාපන ආයතන සඳහාද නිවාඩු ලබා දිය යුතු බව මැතිවරණ කොමිෂන් සභාව දැනුම් දී ඇත.
+
+2006 මැයි 31 දිනට පෙර උපන් වයස අවුරුදු 18 සම්පූර්ණ වන අයගේ නම්ද ඡන්ද හිමි නාමලේඛනයේ ඇති බැවින් අපොස උසස් පෙළ සිසුනට ඡන්දය පුකාශකිරීමට බාධාවක් නොවන අයුරින් උසස්පෙළ උපකාරක පන්ති යොදා ගනනා ලෙසද මැතිවරණ කොමිෂන් සභාව සිය ලිපිය මගින් දැනුම් දී තිබේ.
+
+◼️
+
+[Data](articles/17ffbb10.json)
+
+---
+
+### The Assassination of Mr Bandaranaike
+
+*2024-11-11 11:39:00* · [`islandlk`](http://island.lk/the-assassination-of-mr-bandaranaike/) · `en`
+
+(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
+
+Mr Bandaranaike was to address the UN General Assembly sessions in the first week of October and was to leave for New York on the September 28, the Monday after the weekend. As usual it was necessary to advice the governor-general as to who would act for the prime minister while he was away from the country. On Wednesday, the afternoon of September 24, I met Mr Bandaranaike with the customary pile of papers for signature and orders at his office on the second floor of Parliament.
+
+...
+
+[Data](articles/00a985aa.json)
+
+[Extended Data](ext_articles/00a985aa.ext.json)
+
+---
+
+### Viral fever again between boys
 
 *2024-11-11 11:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்கு-இடையில்-மீண்டும்-வைரஸ்-காய்ச்சல்/175-346936) · `ta`
 
-சிறுவர்களுக்கு மத்தியில் காய்ச்சல் அதிகரித்து வருவதாக ரிட்ஜ்வே ஆர்யா சிறுவர் வைத்தியசாலையின் விசேட வைத்திய நிபுணர் டொக்டர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+Viral fever rising in children: Dr. Deepal Perera warns of increasing cases and advises blood tests if fever persists over 3 days. Symptoms include cough, mucus, vomiting. Dengue cases also on the rise.
 
-ஏறக்குறைய மூன்று நாட்களுக்கு காய்ச்சல் நீடித்தால் அது தொடர்பில் அதிக கவனம் செலுத்தப்பட வேண்டுமென அவர் கூறியுள்ளார்.
+🟩
 
-“அண்மைய நாட்களாக குழந்தைகளுக்கு இடையில் வைரஸ் காய்ச்சல் அதிகரித்துள்ளது. இது இருமல் மற்றும் சளியுடன் கூடிய காய்ச்சலாகும். மேலும், டெங்கு நோயாளிகளின் எண்ணிக்கையும் அதிகரித்து வருகிறது.
+Ridgeway Arya Children's Hospital Specialist Dr. Deepal Perera says the fever is increasing among children.
 
-எனவே இருமல், சளி, காய்ச்சல், உடல்வலி, வாந்தி இருந்தால் வைரஸ் காய்ச்சலுக்கான அறிகுறியாகும். எனவே, மூன்று நாட்களுக்கு மேல் காய்ச்சல் இருந்தால், உரிய இரத்தப் பரிசோதனை செய்துகொள்ளுங்கள்.” என அவர் அறிவுறுத்தியுள்ளார்.
+He said more attention should be paid to the flu if the flu lasts for almost three days.
+
+“Viral fever has increased between children in recent days. It is a fever with coughing and mucus. Also, the number of dengue patients is also increasing.
+
+So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vomiting. So, if you have a fever for more than three days, do the appropriate blood test. ”He advised.
 
 ◼️
 
 [Data](articles/56b9ca62.json)
 
+[Extended Data](ext_articles/56b9ca62.ext.json)
+
 ---
 
-### லேக்ஹவுஸ் கட்டிடத்தில் கார் மோதி விபத்து
+### Car collision in Lakehouse building
 
 *2024-11-11 11:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்ஹவுஸ்-கட்டிடத்தில்-கார்-மோதி-விபத்து/175-346935) · `ta`
 
-கொழும்பு லேக்ஹவுஸ் கட்டிடத்தின் நுழைவாயிலுக்கு அருகில் கார் ஒன்று விபத்துக்குள்ளானதில் சொத்துக்களுக்கு பாரிய சேதம் ஏற்பட்டுள்ளது.
+Car crash damages entrance of Lake House building in Colombo. Driver survives. Police investigating.
 
-இன்று அதிகாலை கட்டிடத்தின் நுழைவாயிலுக்கு அருகில் உள்ள சீமெந்து சுவரில் கார் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-சம்பவத்தில் சாரதி காயமின்றி உயிர்தப்பியுள்ளதாக தெரிவிக்கப்படுகின்றது. சம்பவம் தொடர்பில் கொழும்பு – கோட்டை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+A car accident near the entrance of the Lake House building in Colombo has caused heavy damage to property.
+
+Police said the car crashed into the cement wall near the entrance of the building this morning.
+
+It is reported that the driver has survived the incident. Colombo -Fort Police are investigating the incident.
 
 ◼️
 
 [Data](articles/773e1feb.json)
+
+[Extended Data](ext_articles/773e1feb.ext.json)
 
 ---
 
@@ -88,23 +150,29 @@ The Court informed the petitioner to issue notice to the respondents, including 
 
 ---
 
-### புதிய பாராளுமன்றத்தின் முதல் நாள்
+### The first day of the new parliament
 
 *2024-11-11 11:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்றத்தின்-முதல்-நாள்/175-346934) · `ta`
 
-புதிய பாராளுமன்றத்தின் முதல் நாள், நவம்பர் 21 ஆம் திகதி என பாராளுமன்ற தொடர்பாடல் பிரிவு தெரிவித்துள்ளது.
+First day of new Parliament: Nov 21. Election on Nov 14. 225 MPs elected (196 popular vote, 29 National List). Special measures for first session. General Secretary assigns roles. No seat allocation on first day.
 
-10ஆவது பாராளுமன்றத்துக்கான உறுப்பினர்களைத் தெரிவு செய்வதற்கான பொதுத் தேர்தல் நவம்பர் 14ஆம் திகதி நடைபெறவுள்ளது.
+🟩
 
-மக்களால் தெரிவு செய்யப்பட்ட 196 பாராளுமன்ற உறுப்பினர்கள், தேசிய பட்டியலிலிருந்து 29 பாராளுமன்ற உறுப்பினர்கள் என, பாராளுமன்றத்துக்கு  225 உறுப்பினர்கள் தெரிவு செய்யப்படவுள்ளனர்.
+The first day of the new Parliament is November 21, the Parliamentary Communications Division said.
 
-நாடாளுமன்றத்தின் முதல் அமர்வின் முதல் நாளில் பல சிறப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட உள்ளதாக நாடாளுமன்ற தகவல் தொடர்புப் பிரிவு அறிவித்துள்ளது.
+The general election to elect members of the 10th Parliament will be held on November 14.
 
-முதல் நாளில், அவையின் முக்கியப் பொறுப்புகள், பாராளுமன்ற பொதுச் செயலாளருக்கு ஒதுக்கப்படும். முதல் நாளில், எம்.பி.,க்களுக்கு இருக்கை ஒதுக்கப்பாது என்பதால், எம்.பி.,க்கள், தாங்கள் விரும்பும் எந்த இருக்கையில் அமரவும் வாய்ப்பு உள்ளது.
+196 MPs elected by the people and 29 MPs from the National List, 225 members will be elected to parliament.
+
+The Parliamentary Communications Division has announced that many special measures will be taken on the first day of the first session of Parliament.
+
+On the first day, the main responsibilities of the House will be assigned to the General Secretary of Parliament. On the first day, MPs do not allocate the seat, so MPs have the opportunity to sit in any seat they want.
 
 ◼️
 
 [Data](articles/592e9d93.json)
+
+[Extended Data](ext_articles/592e9d93.ext.json)
 
 ---
 
@@ -134,39 +202,57 @@ In reply, the Sri Lankan team was only 103 runs for the loss of all 19 overs.
 
 ---
 
-### ”ரணில் இருந்திருந்தால் இப்போது கிடைத்திருக்கும்”
+### "If Ranil was now available"
 
 *2024-11-11 11:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-இருந்திருந்தால்-இப்போது-கிடைத்திருக்கும்/175-346932) · `ta`
 
-ரணில் விக்ரமசிங்க ஜனாதிபதியாக இருந்திருந்தால் சர்வதேச நாணய நிதியத்தின் மூன்றாவது கடனுதவி தற்போது கிடைத்திருக்கும் என முன்னாள் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-காலியில் நேற்று இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே, வரவு செலவுத் திட்டம் ஒத்திவைக்கப்பட்டுள்ளதாலும், பொதுத் தேர்தலை நடத்துவதற்கு தற்போதைய அரசாங்கம் எடுத்த தீர்மானத்தினாலும், தவணை காலவரையறையின்றி ஒத்திவைக்கப்பட்டுள்ளதாக தெரிவித்தார்.
 
-"தற்போதைய அரசாங்கம் புதிய அரசியலமைப்பை அறிமுகப்படுத்த முயற்சிக்கும், மக்களின் கருத்துக் கேட்காமல் கொண்டு வரப்படும் இந்த அரசியலமைப்பு இன, மத நிலையை மாற்ற முயற்சிக்குமா என்பது சந்தேகமே" என்றார்.
 
-“தேர்தல் சூடு நாளுக்கு நாள் அதிகரித்து வருகிறது. நம்பிக்கையோடு இருந்த மக்கள்,பொய்களால் ஏமாற்றப் பட்ட மக்கள்,அதை புரிந்துகொண்டு, மெல்ல மெல்ல தமது சொந்த சித்தாந்தங்கள்  நம்பிக்கைகளை மாற்றுகின்றனர்.இவர்கள் சொன்னது பொய் என்பது பலருக்கும் புரிகிறது. உகாண்டாவில் பணம் மறைத்து வைக்கப்படவில்லை என்பதையும், 150 ரூபாய்க்கு எரிபொருள் வாங்க முடியாது என்பதையும் மக்கள் புரிந்து கொண்டுள்ளனர்.
+Former Minister Manusha Nanayakkara claims if Ranil Wickremesinghe were president, Sri Lanka would've received the third IMF loan. He criticizes the current government for postponing the budget and election, questioning their priorities and economic management.
+
+🟩
+
+Former Minister Manusha Nanayakkara has said that if Ranil Wickremesinghe was president, the third loan of the IMF would have been available.
+
+Speaking at a public meeting held in Galle yesterday, he said that the budget has been postponed and the current government's decision to hold the general election has been postponed indefinitely.
+
+"It is doubtful whether the current government is trying to introduce the new constitution and will try to change this constitution without the opinion of the people."
+
+“The election is increasing day by day. People who are confident, people who are deceived by lies, understand it and slowly change their own ideologies. Many people understand that they are lying.. People understand that the money is not hidden in Uganda and cannot buy fuel for 150 rupees.
+
+“On the 15th of November, the most important Poya day passes. These days, the Pingam is built in every village.
 
 ...
 
 [Data](articles/e9d15c28.json)
 
+[Extended Data](ext_articles/e9d15c28.ext.json)
+
 ---
 
-### விருப்பு வாக்குகளை வழங்க வேண்டும் என்பது இனவாதம் அல்ல
+### It is not racism to give preferential votes
 
 *2024-11-11 11:24:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்குகளை-வழங்க-வேண்டும்-என்பது-இனவாதம்-அல்ல/175-346931) · `ta`
 
-அது இன பிரதிநிதித்துவத்தை உறுதி செய்யும் இன உரிமை ஆகும்.  உண்மையில், நடைமுறையில் உள்ள தேர்தல் முறையின் விருப்பு வாக்கு என்ற முறைமை அதைதான் வலியுறுத்துகிறது.
+Preferential voting ensures Tamil representation in majority districts. Voters prioritize Tamil candidates over other parties. System allows for proportional representation through strategic voting.
 
-அதிலும் மிக குறிப்பாக தமிழர்கள் சிறுபான்மையாக வாழும் கொழும்பு, கேகாலை, இரத்தினபுரி,கண்டி, கம்பஹா, பதுளை ஆகிய  மாவட்டங்களில் தமிழ் வாக்காளர்கள் தமது விருப்பு வாக்குகளை தமிழ் வேட்பாளர்களுக்கு மாத்திரம் வழங்குவது அத்தியாவசியமாகும். இதுவே எமது பிரதிநிதித்துவத்தை பெற்று கொள்ள உள்ள ஒரே வழி. இதைதான் விகிதாசார தேர்தல் முறையும் வலியுறுத்துகிறது என தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் அறிவித்துள்ளார்.
+🟩
 
-கொழும்பு கொச்சிக்கடை ஜம்பட்டா வீதியில் ஞாயிற்றுக்கிழமை (10) நடைபெற்ற கூட்டத்தில் உரையாற்றிய ​அவர்:
+It is the ethnic right to ensure ethnic representation.In fact, it emphasizes the preferential vote of the existing electoral system.
 
-தமிழர்கள் சிறுபான்மையாக வாழும் கொழும்பு, கேகாலை, இரத்தினபுரி, கண்டி,கம்பஹா, பதுளை ஆகிய  மாவட்டங்களில் தமிழ் வாக்காளர்கள் கடை பிடிக்க வேண்டிய செயன்முறைமையை நான் எளிமையாக விவரிக்க விரும்புகிறேன். முதலில் நமது வாக்காளர்கள், தமது மாவட்டங்ளில் போட்டி இடும்   தமிழ் வேட்பாளர்களில் வெற்றி பெறக்கூடிய அணி எது, அதன் சின்ன்னம் எது என தீர்மானிக்க வேண்டும்.
+It is essential that Tamil voters in the districts of Colombo, Kegalle, Ratnapura, Kandy, Gampaha and Badulla are only a minority of Tamils.. This is the only way to get our representation. Tamil Progressive Alliance leader Mano Ganesan has announced that this is what the proportional electoral system emphasizes.
+
+Speaking at a meeting held on Sunday (10) at Jampatta Road, Colombo:
+
+I would like to simply describe the process of Tamil voters in the districts of Colombo, Kegalle, Ratnapura, Kandy, Gampaha and Badulla where Tamils ​​live in a minority. First of all, our voters have to decide which team to win the Tamil candidates in their districts and what is its science.
 
 ...
 
 [Data](articles/7f05826b.json)
+
+[Extended Data](ext_articles/7f05826b.ext.json)
 
 ---
 
@@ -2173,73 +2259,5 @@ Lands owned by the northern people have the safety government. We will give all 
 [Data](articles/5534dee2.json)
 
 [Extended Data](ext_articles/5534dee2.ext.json)
-
----
-
-### One person arrested with ice drugs in Sapukaskanda
-
-*2024-11-10 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198368) · `ta`
-
-Person arrested with ice drugs in Sapukaskanda. Police seize 10g of 540mg ice at Sirimangala junction. Arrest made based on confidential tip.
-
-🟩
-
-A suspect who had ice drugs was arrested on Saturday (09) at the Sirimangala junction, Sapukaskanda police station.
-
-He was arrested in a roundup of confidential information received by a group of Sapukaskanda police station officials.
-
-10 grams of 540 milligrams of ice has been seized by the police.
-
-◼️
-
-[Data](articles/fde74e2d.json)
-
-[Extended Data](ext_articles/fde74e2d.ext.json)
-
----
-
-### Shooting at Ambalangoda;Husband and wife die
-
-*2024-11-10 21:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198365) · `ta`
-
-Gunman kills husband-wife duo in Ambalangoda. Police investigating R-56 firearm involvement. Suspect still at large.
-
-🟩
-
-Ambalangoda police said that a gunman and his wife on a motorcycle riding a motorcycle in Uruvatta area belonging to the Ambalangoda police division had shot dead a gunman on a motorbike.
-
-The victims are a 46 -year -old couple living in Kuligoda, Ambalangoda.
-
-Investigations carried out by the police suspected that the R -56 firing may have been carried out.
-
-Ambalangoda police are conducting further investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/f77da887.json)
-
-[Extended Data](ext_articles/f77da887.ext.json)
-
----
-
-### Prison officer arrested with ice drug
-
-*2024-11-10 21:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198371) · `ta`
-
-Prison officer caught smuggling ice drugs to inmates at Colombo Prison. Arrested during investigation, aged 35.
-
-🟩
-
-Borella police said that a prison officer who carried an ice drug has been arrested for selling the prisoners at the Colombo Prison.
-
-He was arrested on Saturday (09) during an investigation into the details of the Colombo destination.
-
-The arrested man was 35 years old for two years and nine months ago.
-
-◼️
-
-[Data](articles/b149780e.json)
-
-[Extended Data](ext_articles/b149780e.ext.json)
 
 ---

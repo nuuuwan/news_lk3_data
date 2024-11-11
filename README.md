@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 09:13:32**
+As of **2024-11-11 09:25:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,442
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,131 (100.0%) of 54,132 articles have been extended.
+54,132 (100.0%) of 54,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Colombo Fort Police are conducting further investigations into the circumstances
 ◼️
 
 [Data](articles/b5630ba8.json)
+
+[Extended Data](ext_articles/b5630ba8.ext.json)
 
 ---
 

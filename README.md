@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 01:10:24**
+As of **2024-11-12 01:42:26**
 
 ## Newspaper Stats
 
-*Scraped **54,294** Articles*
+*Scraped **54,298** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ bbccomsinhala | 552
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,290
-dailyftlk | 3,710
+dailyftlk | 3,713
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
-tamilmirrorlk | 7,586
+tamilmirrorlk | 7,587
 virakesarilk | 8,811
 adaderanasinhalalk | 9,472
 
@@ -26,11 +26,67 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,294 (100.0%) of 54,294 articles have been extended.
+54,295 (100.0%) of 54,298 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### Politicisation of Foreign Service: Multidimensional and systemic challenge
+
+*2024-11-12 01:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Politicisation-of-Foreign-Service-Multidimensional-and-systemic-challenge/4-769114) · `en`
+
+Much of what is sought to be achieved on the foreign relations front would depend on who the ‘right persons’ are to be entrusted with the responsibility of representing Sri Lanka. This is not about missions only, it is also about what should have been the diplomatic powerhouse of Sri Lanka – the Foreign Ministry. I mean the collective, not one individual. It would do well to consider merit alongside probity, astuteness, temperament, maturity and resilience as among criteria for appointment of right persons. These are missing attributes in the Foreign Service nowadays, temperament undoubtedly topping the list. What is denoted by ‘right’ here is the right mix, and not being politically on the right side. The latter of course was the cause of many diplomatic misadventures in the recent past
+
+...
+
+[Data](articles/82d9f9da.json)
+
+---
+
+### ரிசாட் - மஸ்தான் ஆதரவாளர்கள் மோதல்
+
+*2024-11-12 01:22:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிசாட்-மஸ்தான்-ஆதரவாளர்கள்-மோதல்/175-346970) · `ta`
+
+வவுனியா பட்டாணிச்சூர் பகுதியில் முன்னாள் இராஜாங்க அமைச்சர் காதர்மஸ்தானின் பொதுக்கூட்டம் இடம்பெற்ற பகுதியில் ஏற்பட்ட குழப்பநிலையில் இருவர் படுகாயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+வவுனியா பட்டாணிச்சூர் பகுதியின் பிரதான வீதிக்கு அருகாக நேற்று (11) இரவு 8 மணியளவில் காதர்மஸ்தானின் பிரசாரக் கூட்டம் இடம்பெற்றது.
+
+சற்றுநேரத்தில் குறித்த உந்துருளிகளுக்குப் பின்னால், முன்னாள் அமைச்சர் ரிசாத் பதியூதீனும் அவரது ஆதரவாளர்களும் பயணித்த வாகனத்தொடரணி கூட்டம் இடம்பெற்றுக்கொண்டிருந்த பகுதிக்கு அருகே உள்ள பிரதான வீதிக்கு வந்தன.
+
+◼️
+
+[Data](articles/39258466.json)
+
+---
+
+### Monitoring and following-up spin-off decisions
+
+*2024-11-12 01:21:02* · [`dailyftlk`](https://www.ft.lk/columns/Monitoring-and-following-up-spin-off-decisions/4-769113) · `en`
+
+It was not reported that any of the agencies present at the meeting with the President held on the 14th has commented or qualified the President’s emphasis for a specific sustainable program. This does not mean that nothing has happened in the past or no institutional and regulatory arrangements are in place. Sri Lanka is abundant in the solutions and technologies and legal and institutional network required addressing disaster management
+
+I have worked with all the Executive Presidents except President Gotabaya Rajapaksa (I have no idea whether it was his luck or mine) in different capacities during my tenure in the public service and even afterwards. The way they managed or rather mis-managed the economy was different from one to the other. Late President Ranasinghe Premadasa’s management style was unique, flawless and foolproof. He monitored and followed up each and every decision he made.
+
+...
+
+[Data](articles/ede0f13e.json)
+
+---
+
+### Foreign direct investment opportunities in Sri Lanka: Sector-by-sector analysis
+
+*2024-11-12 01:14:50* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-direct-investment-opportunities-in-Sri-Lanka-Sector-by-sector-analysis/4-769112) · `en`
+
+Sri Lanka is at a pivotal moment in its economic development journey, with a fresh political climate following recent elections and numerous policy reforms aimed at bolstering foreign direct investment (FDI). The Government has unveiled an agenda that actively encourages international partnerships across key sectors, positioning Sri Lanka as a prime investment destination in South Asia. This comprehensive article explores why the island is strategically attractive to foreign investors and highlights sector-specific opportunities ripe for investment.
+
+...
+
+[Data](articles/a2c225a0.json)
+
+[Extended Data](ext_articles/a2c225a0.ext.json)
+
+---
 
 ### Geetanath's appointment as PA
 
@@ -2333,111 +2389,5 @@ Furthermore, the judge bench granted permission for a request made by Additional
 [Data](articles/11b28a68.json)
 
 [Extended Data](ext_articles/11b28a68.ext.json)
-
----
-
-### The Russian Embassy announced on the request made by BRICS membership
-
-*2024-11-11 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203130) · `si`
-
-Sri Lanka's BRICS membership application status: Russian Embassy denies rejection claims, External Affairs Ministry confirms application submitted, awaiting consideration.
-
-🟩
-
-The Sri Lanka External Affairs Ministry has rejected media reports that Sri Lanka's application has been rejected for the membership of the BRICS membership.
-
-According to the Ministry, Sri Lanka applied for members of the BRICS and the New Development Bank as approved by the Cabinet of Ministers.
-
-Minister of External Affairs Vijitha Herath has stated that Sri Lanka has informed the Russian president that Sri Lanka has informed the Russian president.
-
-On October 22-24, Foreign Secretary Aruni Wijewardena expressed his interest in this regard at the conference with the Sri Lankan delegation, Russia, October 22-24.
-
-The BRICs members have commended the demands of the new membership countries.
-
-The External Affairs Ministry stated that the demands for the BRICs membership of Sri Lanka and members of Sri Lanka will be considered in the future.
-
-It is also said that the Chairman of Sri Lanka has also been accepted to join the new Development Bank (NDB).
-
-...
-
-[Data](articles/69dd1034.json)
-
-[Extended Data](ext_articles/69dd1034.ext.json)
-
----
-
-### Couple killed in Ambalangoda shooting linked to drug networks; drug feud suspected
-
-*2024-11-11 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103326/couple-killed-in-ambalangoda-shooting-linked-to-drug-networks-drug-feud-suspected) · `en`
-
-Police suspect that the Ambalangoda shooting incident which claimed lives of a man and a woman on Sunday (10) is linked to ongoing drug-related disputes and tensions.
-
-The couple, who were shot while traveling on a motorcycle in the Urawatte area, succumbed to gunfire allegedly fired by two unidentified assailants on another motorcycle.
-
-Police report that the victims, identified as a married couple, had previously lodged a complaint with Ambalangoda Police, regarding a dispute with the neighbors.
-
-Both had reportedly been embroiled in drug-related issues, with the man having a criminal history and being remanded on several occasions. Authorities believe that an earlier attempt on his life, which failed, was also drug-related.
-
-Meanwhile, the deceased man’s brother had also been shot dead around a year ago in a drug-linked incident, according to police.
-
-Police suspect that the recent killings may be a continuation of unresolved issues within the same criminal network.
-
-...
-
-[Data](articles/80044aa4.json)
-
-[Extended Data](ext_articles/80044aa4.ext.json)
-
----
-
-### Sub -Inspector arrested for allegedly threatening to kill neighbors
-
-*2024-11-11 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198410) · `ta`
-
-Sub-inspector arrested for threatening neighbors after assault on father. Allegedly used handgun to intimidate neighbors. Incident occurred in Anamaduwa, Sri Lanka.
-
-🟩
-
-Anamaduwa police said that the sub -inspector of the police has been arrested for allegedly threatening to kill his neighbors who assaulted his father.
-
-The arrested was the Sub -Inspector of Police in the Colombo Police Crime Prevention Division of Anamaduwa Dharmapala.
-
-His neighbors attacked the father of the Sub -Inspector on the 7th.
-
-Subsequently, police investigations revealed that the suspect went to his neighboring houses and threatened to kill them with a handgun.
-
-◼️
-
-[Data](articles/9c77f174.json)
-
-[Extended Data](ext_articles/9c77f174.ext.json)
-
----
-
-### A man arrested with fake US dollar currencies
-
-*2024-11-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198402) · `ta`
-
-Man arrested with fake US dollars in Sri Lanka. Accountant caught in Mirissa. Suspect claims used for cash transactions with foreigners. Police investigating possible foreign involvement. Case to be presented in Matara Magistrate Court.
-
-🟩
-
-The Matara Police Crime Unit said that an accountant of a tourist accommodation in Mirissa, Weligama, has been arrested with a fake US dollar currency.
-
-The suspect has been arrested during a roundup of information received by the Matara Police Crime Unit.
-
-The arrested suspect is a 60 -year -old from Galle.
-
-The suspect told police that the fake dollar currency notes were available during the cash transaction with foreigners.
-
-Police said further investigations are underway regarding whether the suspect was abducted by a foreign citizen with a foreign citizen.
-
-The suspect is to be produced before the Matara Magistrate's Court, police said.
-
-◼️
-
-[Data](articles/c8d838ef.json)
-
-[Extended Data](ext_articles/c8d838ef.ext.json)
 
 ---

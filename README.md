@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 11:12:21**
+As of **2024-11-11 11:24:41**
 
 ## Newspaper Stats
 
@@ -26,43 +26,65 @@ adaderanasinhalalk | 9,445
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,151 (100.0%) of 54,153 articles have been extended.
+54,153 (100.0%) of 54,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### பழைய அரசியலை கைவிடுவோம், புதிய அரசியலுக்கு வருவோம்.
+### We will abandon old politics and come to new politics.
 
 *2024-11-11 11:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-அரசியலை-கைவிடுவோம்-புதிய-அரசியலுக்கு-வருவோம்/175-346927) · `ta`
 
-கடந்த ஜனாதிபதித் தேர்தலில் ஏனையவர்களில் இருவர் வெல்வார்கள் என்றே வடக்கில் சொல்லப்பட்டது. ஊடகங்களும் அதை தான் சொன்னது. நாம் வெல்வோம் என்ற செய்தி வடக்கில் சரியாக செல்லவில்லை. தேர்தலுக்கு பின்னர் எமது காரியாலயம் நிரம்பி வழியத் தொடங்கியது. இதன் பலன் இன்று ஆயிரக்கணக்கான மக்கள் கூடியுள்ளனர் என ஜனாதிபதி அனுர குமார திஸாநாயக்க தெரிவித்தார்.
+Here's a 200-character summary:
 
-தேசிய மக்கள் சக்தியின் யாழ்ப்பாண பிரதான தேர்தல் பிரசார கூட்டம் பாஷையூர் புனித அந்தோனியார் தேவாலயத்திற்கு முன்பாக ஞாயிற்றுக்கிழமை (10)  கட்சியின் தலைவரும் ஜனாதிபதியுமான அனுர குமார திஸாநாயக்க தலைமையில் இடம்பெற்றது.
 
-பாராளுமன்ற தேர்தல் பிரசாரத்திற்காக தற்போது முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க யாழ்ப்பாணம் வந்தாரா? முன்னாள் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசா யாழ்ப்பாணம் வந்தாரா?
 
-நாம் வந்தோம். தேர்தலை வெற்றி கொள்ள மட்டும் எமக்கு யாழ்ப்பாணம்  தேவை இல்லை. யுத்தம் இல்லாத நாட்டை உருவாக்கவும் இந்த நாட்டை கட்டியெழுப்பவும் யாழ்ப்பாணம் தேவை.
+National People's Power wins presidential election, overcoming challenges in Jaffna. Campaign focuses on unity and development, criticizing old politics. Party emphasizes grassroots support and equal representation for all communities.
+
+🟩
+
+It was said in the north that two others would win the last presidential election. The media also said that. The news that we win does not go properly in the north. After the election, our office began to overflow. Thousands of people gather today, President Anura Kumara Dissanayake said.
+
+The main election campaign of the National People's Power was held on Sunday (10) in front of St. Anthony's Church, Bashayoor, led by Anura Kumara Dissanayake.
+
+Did former President Ranil Wickremesinghe come to Jaffna for the parliamentary election campaign?Former Opposition Leader Sajith Premadasa came to Jaffna?
+
+We came. We do not need Jaffna to win the election. Jaffna needs to build a war -free country and build this country.
+
+In the last presidential election received 27000 votes. It is very small compared to other districts. But it is very big for us. Our news is not going to the Tamil people. The south did not work in the north as much as we worked.
 
 ...
 
 [Data](articles/76e30b49.json)
 
+[Extended Data](ext_articles/76e30b49.ext.json)
+
 ---
 
-### அடைமொழிகள் துறந்தார்   கமல்ஹாசன்
+### Kamal Haasan renounced the adjectives
 
 *2024-11-11 10:58:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அடைமொழிகள்-துறந்தார்-கமல்ஹாசன்/54-346926) · `ta`
 
-‘உலக நாயகன்’ உள்ளிட்ட அடமொழிகளைத் துறப்பதாக நடிகரும், மக்கள் நீதி மய்யத் தலைவருமான கமல்ஹாசன் திடீரென அறிவித்துள்ளார்.
+Kamal Haasan renounces titles, emphasizes unity in cinema. Actor-leader appeals to fans, media, and public to use "Kamal" instead of honorifics. Emphasizes art over individual fame.
 
-மேலும், தன்னை இனி ‘கமல்ஹாசன்’ அல்லது ‘KH’ என்று அழைத்தாலே போதும் என்று சினிமாத் துறையினர், ஊடகவியலாளர்கள், கட்சியினர், அரசியல்வாதிகள், இந்திய மக்கள் என அனைவருக்கும் வேண்டுகோளும் விடுத்துள்ளார்.
+🟩
 
-இது தொடர்பாக அவர் இன்று (11)  தனது எக்ஸ் சமூகவலைதளப் பக்கத்தில் பகிர்ந்துள்ள அறிக்கையில் கூறியிருப்பதாவது: என் மீது கொண்ட அன்பினால் ‘உலக நாயகன்’ உட்பட பல பிரியம் ததும்பும் பட்டங்களால் என்னை அழைக்கிறீர்கள். மக்கள் கொடுத்து சக கலைஞர்களாலும், ரசிகர்களாலும் ஏற்றுக் கொள்ளப்பட்ட இப்படிப்பட்ட பாராட்டுச் சொற்களால் மகிழ்ந்திருக்கிறேன். உங்கள் இந்த அன்பால் நெகிழ்ந்தும் இருக்கிறேன். உங்களின் பிரியத்தின் மீது எனக்கு மாறாத நன்றியுணர்வும் உண்டு.
+Kamal Haasan, the actor and the leader of the People's Justice, has suddenly announced that he will abandon the words, including the world hero.
+
+Moreover, the cinema department, journalists, parties, politicians and Indian people have appealed to all the people of Kamal Haasan.
+
+In a statement shared on his X -social network today, he said:. I am delighted with such compliments, accepted by fellow artists and fans.. I'm flexible with this love of your. I have no gratitude on your love.
+
+Cinemac art, bigger than any individual. I am a student who wants to learn more and more in that art. Like other arts, cinema is for everyone;Made by all. Cinema is formed with talented artists, technicians and good fans.
+
+My deep hope is that the artist is not bigger than the art. It is advisable to me that the learned is the size of the hand, and the persistent predecessor is a great man.
 
 ...
 
 [Data](articles/6b15326d.json)
+
+[Extended Data](ext_articles/6b15326d.ext.json)
 
 ---
 

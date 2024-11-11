@@ -1,36 +1,68 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 10:24:44**
+As of **2024-11-11 10:40:32**
 
 ## Newspaper Stats
 
-*Scraped **54,143** Articles*
+*Scraped **54,147** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 422
-bbccomsinhala | 550
+bbccomsinhala | 551
 colombotelegraphcom | 553
 islandlk | 3,239
 economynextcom | 3,279
-dailyftlk | 3,709
+dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,056
-adaderanalk | 6,456
+adaderanalk | 6,457
 tamilmirrorlk | 7,560
 virakesarilk | 8,779
-adaderanasinhalalk | 9,444
+adaderanasinhalalk | 9,445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,143 (100.0%) of 54,143 articles have been extended.
+54,145 (100.0%) of 54,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### කුඩා දරුවන් අතර යළිත් වෛරස් උණ රෝග තත්ත්වයක්
+
+*2024-11-11 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203126) · `si`
+
+දරුවන් අතර උණ රෝගයේ ඉහළ යාමක් මේ දිනවල වාර්තා වන බව රිජ්වේ ආර්යා ළමා රෝහලේ විශේෂඥ වෛද්‍ය දීපාල් පෙරේරා මහතා පවසයි.
+
+◼️
+
+[Data](articles/0a11a021.json)
+
+---
+
+### Gunmen kill 10 in bar shooting in Mexico’s Queretaro state
+
+*2024-11-11 10:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103317/gunmen-kill-10-in-bar-shooting-in-mexicos-queretaro-state) · `en`
+
+Gunmen killed 10 people in a bar in the central Mexican state of Queretaro late Saturday, authorities said, adding to a wave of violent crime that is gripping several areas of the country.
+
+The incident took place in a bar in the downtown area of the state’s capital, also known as Queretaro, where four gunmen entered, killing seven men and three women, according to the state attorney general and Queretaro city’s security chief.
+
+Seven other people were injured. One person was so far in police custody, authorities said. Investigators were at the scene and also looking into a vehicle believed to be linked to the incident.
+
+Queretaro is not commonly prone to high levels of violent crime, such as homicide, and is considered relatively safer than many other areas of Mexico.
+
+...
+
+[Data](articles/8d58bb7d.json)
+
+[Extended Data](ext_articles/8d58bb7d.ext.json)
+
+---
 
 ### Shipping service between Nagapattinam - Kankesanthurai
 
@@ -529,6 +561,40 @@ The Department of Meteorology has informed the people to take necessary steps to
 [Data](articles/5503cd86.json)
 
 [Extended Data](ext_articles/5503cd86.ext.json)
+
+---
+
+### The General Election 2024: What should be the purpose of the opposition purpose and role?
+
+*2024-11-11 04:17:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c8ekxnkw5wdo) · `si`
+
+Here's a 200-character summary:
+
+
+
+The opposition's role in the 2024 General Election should focus on constructive criticism and policy alternatives rather than seeking power. A strong opposition requires a robust organizational structure and community support. The government's two-thirds majority poses challenges for the opposition, but a balanced political system is crucial for democratic stability.
+
+🟩
+
+The General Election 2024: What should be the purpose of the opposition purpose and role?
+
+This year's general election will be seen that a struggle is created to acquire the power of the opposition instead of acquiring the power of the government.
+
+Many people call for the power of the opposition while the government representing the President to fill in Parliament from his MPs to fill in Parliament.
+
+When the president fled the people of the people, his opponent, or his opposition, failed to acquire the power of the country.
+
+We also consulted on how the opposition role in the upcoming Parliament.
+
+Why should women represent Parliament? What are the problems that the newly appointed government's challenges and solutions to find solutions?
+
+"Opposition is the next moment to the work group to get power. Such a group is as advanced as a strong organizing program, a strong organizational structure, and a very wide community. "Senior Lecturer of the University of Colombo, Dhamma Dissanayake explains.
+
+...
+
+[Data](articles/d54941e5.json)
+
+[Extended Data](ext_articles/d54941e5.ext.json)
 
 ---
 
@@ -1247,6 +1313,20 @@ Millions of tourists apply for visas every year to explore Sri Lanka. But in 202
 [Data](articles/ecc4fd5c.json)
 
 [Extended Data](ext_articles/ecc4fd5c.ext.json)
+
+---
+
+### How COPF exposed Sri Lanka’s visa scam
+
+*2024-11-11 01:20:35* · [`dailyftlk`](https://www.ft.lk/columns/How-COPF-exposed-Sri-Lanka-s-visa-scam/4-769055) · `en`
+
+The fight for justice is far from over. The Supreme Court has scheduled the next inquiry for January 2025, and COPF continues to push for full transparency and accountability. Their work has set a precedent, showing that even the most powerful deals can be undone when public funds and integrity are at stake. This case is not just about visas – it’s about upholding the rule of law and ensuring that public officials serve the people, not themselves. COPF’s relentless efforts have shown the power of accountability and how one committee’s determination can make all the difference
+
+Millions of tourists apply for visas every year to explore Sri Lanka. But in 2023, something went very wrong with Sri Lanka’s visa system, leaving many tourists and citizens questioning how such a simple process could turn into a national controversy.
+
+...
+
+[Data](articles/f4e98233.json)
 
 ---
 
@@ -2201,99 +2281,5 @@ The injured woman was admitted to the hospital after the elephant was attacked i
 [Data](articles/00d18511.json)
 
 [Extended Data](ext_articles/00d18511.ext.json)
-
----
-
-### Our battle is starting afternoon
-
-*2024-11-10 17:21:17* · [`adalk`](https://www.ada.lk/breaking_news/අපේ-සටන-නොවැම්බර්-14දායින්-පසුව-පටන්-ගන්නවා/11-412955) · `si`
-
-Former President Ranil Wickremesinghe announces political battle after Nov 14. Criticizes current leadership, promises economic reforms and anti-corruption measures. Calls for unity among voters to shape future of Sri Lanka's democracy.
-
-🟩
-
-Former President Ranil Wickremesinghe said that the fight with his group will commence after November 14th.. He was speaking at all electorates at once through digital technology.
-
-Former President Ranil Wickremesinghe said:
-
-"In a few days we select a new Parliament. When a new president appoint and dissolves the Parliament, the president has the duty to tell the country. The Company that refused the IMF covenant before the presidential election is now meeting and discussed the IMF. We do not know if their amendments are. The President should also clarify the country's policy and the government's policy and the program and the program and the program.
-
-...
-
-[Data](articles/d3cee69c.json)
-
-[Extended Data](ext_articles/d3cee69c.ext.json)
-
----
-
-### Election complaints surpass 2,500 ahead of Parliamentary Poll
-
-*2024-11-10 17:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103308/election-complaints-surpass-2500-ahead-of-parliamentary-poll) · `en`
-
-The number of complaints received by the Election Commission in relation to the upcoming 2024 Parliamentary Poll has further increased.
-
-The Election Commission says that 232 more complaints have been received within yesterday (09).
-
-Accordingly, a total of 2,580 election complaints have been reported in connection with the parliamentary election from September 26 to November 09, the Election Commission said.
-
-Meanwhile, the Election Commission also says that 1,999 of the total number of complaints received have been resolved thus far.
-
-The General Election is scheduled to be held on November 14.
-
-◼️
-
-[Data](articles/ba7ad06f.json)
-
-[Extended Data](ext_articles/ba7ad06f.ext.json)
-
----
-
-### Rs.. 21 in water
-
-*2024-11-10 17:12:42* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-සුහුරු-ටිකට්පත්-පද්ධතියට-ගෙවපු-රු-මි--21ක්-වතුරේ/11-412954) · `si`
-
-Sri Lanka Railways: Private consultancy hired for $19m ticket system. Project deadline extended from Dec 31, 2021 to Dec 31, 2024 due to delays attributed to contractor and unstable political climate. Audit recommends completion without further delay.
-
-🟩
-
-A private audit office has been issued on November 09, that a private consultancy has been paid a new ticket system for the Sri Lanka Railways Department.
-
-The Railway Department signed an agreement with a $ 19 million cost of US $ 19 million after a long tender evaluation process to establish a friendly ticket system.
-
-This project is to be completed on 31st of 2021, but the date has been extended to 31st of December 2024. The audit recommended that the project should be completed without delay. Two years have passed since this project has passed, but the Railway Department has stated that it will be a backward.
-
-The Railway Department has informed the audit that the delay in the railway department is delayed by the contractor and the unstableness of the country.
-
-◼️
-
-[Data](articles/673ed3b4.json)
-
-[Extended Data](ext_articles/673ed3b4.ext.json)
-
----
-
-### Drone attack on Russia from Ukraine
-
-*2024-11-10 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203106) · `si`
-
-Ukraine launches major drone attack on Moscow airport, causing temporary closure and injuries. 32 drones used, disrupting air traffic. Largest such strike since 2022 conflict began.
-
-🟩
-
-The airport of Moscow, Russia, has been temporarily close due to a drone attack on Ukraine today.
-
-In 2022, Russia - This is the biggest drone attack by Ukraine after the commencement of Ukrainian war.
-
-The attack was carried out by Ukraine using 32 drones and the Russian security forces have been thrown down.
-
-Steps were temporarily stopped and the aircraft was temporarily stopped and redirected to other airports.
-
-However, Russian authorities have confirmed that one person was injured in the drone attack.
-
-◼️
-
-[Data](articles/99443b0b.json)
-
-[Extended Data](ext_articles/99443b0b.ext.json)
 
 ---

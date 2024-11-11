@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 14:40:36**
+As of **2024-11-11 14:59:41**
 
 ## Newspaper Stats
 
-*Scraped **54,199** Articles*
+*Scraped **54,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,63 @@ dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,065
 adaderanalk | 6,467
-tamilmirrorlk | 7,572
+tamilmirrorlk | 7,574
 virakesarilk | 8,789
-adaderanasinhalalk | 9,452
+adaderanasinhalalk | 9,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,196 (100.0%) of 54,199 articles have been extended.
+54,202 (100.0%) of 54,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Court orders Sujeewa's car to take over the CID
+
+*2024-11-11 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203134) · `si`
+
+Sujeewa Senasinghe, former MP, arrested by CID. Ordered to appear in court. Motor vehicle investigation criticized by Medarantriar department.
+
+🟩
+
+Former parliamentar MP Sujeewa Senasinghe has been taken into custody by the CID and produced before the CID to be produced before the Fort Magistrate's Court.
+
+The Medarantriar department critches investigations into the motor vehicle
+
+◼️
+
+[Data](articles/cf5eed00.json)
+
+[Extended Data](ext_articles/cf5eed00.ext.json)
+
+---
+
+### Difficulty with green clothing
+
+*2024-11-11 14:08:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பச்சை-ஆடையினரால்-சிரமம்/175-346938) · `ta`
+
+Green dress collectors causing issues at Galle Face Grounds in Colombo. Accused of overcharging visitors. Authorities investigating. Vehicle owners request free parking allocation in Colombo.
+
+🟩
+
+A group of green dresses have made people serious difficulties due to spontaneous charges for parking at the Galle Facial Ground in Colombo.
+
+They accuse them of collecting money from those who come to rest at the shortest time. People point out that a reasonable system should be followed in collecting money to the people of this country.
+
+When asked by an official of the Colombo Municipal Council, he said he was investigating the matter.
+
+Meanwhile, vehicle owners who claim that specific groups are collecting money for parking in many places in Colombo, have been told to the government to allocate free vehicles in the city without charging those who come for their daily activities.
+
+◼️
+
+[Data](articles/ebab3d86.json)
+
+[Extended Data](ext_articles/ebab3d86.ext.json)
+
+---
 
 ### Petitions against the appointment of Deshabandu as IGP
 
@@ -87,6 +131,28 @@ Some political outputs call for crocodile tears on the election stage, and some 
 [Data](articles/d1cf7452.json)
 
 [Extended Data](ext_articles/d1cf7452.ext.json)
+
+---
+
+### Petition for Lohan
+
+*2024-11-11 13:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானுக்கு-பிணை-கோரி-மனு/175-346937) · `ta`
+
+Court orders bail hearing for Lohan Ratwatta on 19th regarding unrested car arrest in Mirihana.
+
+🟩
+
+The Court of Appeal has ordered that the bail plea filed on behalf of Lohan Ratwatta, who is being remanded, should be considered on the 19th.
+
+The order was issued today (11) by a session of Justice Nishanga Bandula Karunaratne and Sashi Mahendran.
+
+Lohan Ratwatta has been arrested in connection with the discovery of an unristed car in a house in the Mirihana area.
+
+◼️
+
+[Data](articles/0eaae312.json)
+
+[Extended Data](ext_articles/0eaae312.ext.json)
 
 ---
 
@@ -1112,6 +1178,8 @@ He was referring to the alleged plot which Washington said was ordered by Iran�
 
 [Data](articles/6f69ae86.json)
 
+[Extended Data](ext_articles/6f69ae86.ext.json)
+
 ---
 
 ### Sri Lanka pharmaceutical sector beginning to grow after crisis
@@ -1292,19 +1360,27 @@ Furthermore, it is also stated that instructions have been given to the relevant
 
 ---
 
-### මැතිවරණ නිහඬ කාලයට කොමිෂමෙන් මාධ්‍යටත් කොන්දේසි රැසක්
+### Commissioner has many conditions
 
 *2024-11-11 09:53:57* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නිහඬ-කාලයට-කොමිෂමෙන්-මාධ්‍යටත්-කොන්දේසි-රැසක්/11-412963) · `si`
 
-නොවැම්බර් 14 දා පැවැත්වෙන පාර්ලිමේන්තු මැතිවරණයේ ප්‍රචාරක කටයුතු තහනම් නිහඬ කාල සීමාව   අද (11) මධ්‍යම රාත්‍රි 12.00 න්  ආරම්භවන අතර එයින් පසු  මැතිවරණයේ    ප්‍රචාරක කටයුතු  නොකළ  කළ යුතු බව මැතිවරණ කොමිෂන් සභාව  අවධාරණය කරයි.
+Elections Commission announces restrictions on campaign broadcasts and social media promotions, limiting content for minors and biased reporting.
 
-අද (11) පැවැත්වෙන අවසන් දේශපාලන ප්‍රචාරක රැස්වීම්වල වීඩියෝ දර්ශන  හා විස්තර විකාශය කිරීම  හෙට(12) දා රූපවාහිනී හා ගුවන් විදුලි විකාශවල එක්  ප්‍රධාන ප්‍රවෘත්ති ව්කාශයකට පමණක් සීමා කළ යුතු  බවත් පුවත්පත් සිරස්තල ඉදිරිපත් කිරීමේදී  වෙනත් විස්තර හෝ අදහස් නොමැතිව   පුවත්පතේ  පුවත් සිරස්තලය පමණක් ඉදිරිපත් කළ යුතු බවත් මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+🟩
 
-අද පැවත්වෙන ප්‍රචාරක රැස්වීම් වාර්තා හෙට (12)  පුවත්පත් හා ඒවායේ සමාජ මාධ්‍ය ජාලාවන්හි පල  කළ හැකිවේ.  අනෙකුත්    සියලු සමාජ මාධ්‍ය ජාලාවලටද මෙකී කොන්දේසි අදාලවන බවත්    මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+The propaganda period of the propaganda period of the parliamentary election held on November 14th will commence today (11).
 
-...
+Broadcasting of the videos and details of the final political propaganda meetings of the final political propaganda meetings today (11) should be limited to one major newspapers in the television and radio broadcasts tomorrow (12).The Elections Commission announced that he is announced.
+
+The propaganda meetings will be published tomorrow (12) newspapers and their social media networks.The Elections Commission states that these conditions are also applicable to all other social media networks.
+
+The Elections Commission also enacted to all media institutions, which should not be published at the age of 13 and 14 and promote the political news or promote party headlines or promotes party headlines or prejudice.
+
+◼️
 
 [Data](articles/15b2aa6e.json)
+
+[Extended Data](ext_articles/15b2aa6e.ext.json)
 
 ---
 
@@ -1697,6 +1773,8 @@ During the recent presidential election, many analysts paid special attention to
 ...
 
 [Data](articles/5978275e.json)
+
+[Extended Data](ext_articles/5978275e.ext.json)
 
 ---
 
@@ -2265,75 +2343,5 @@ Anura Kumara Dissanayake has criticized the proposed agreements that were propos
 [Data](articles/2d6a5db2.json)
 
 [Extended Data](ext_articles/2d6a5db2.ext.json)
-
----
-
-### The election campaign is completed by Mars midnight
-
-*2024-11-11 01:51:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செவ்வாய்-நள்ளிரவுடன்-தேர்தல்-பிரசாரம்-நிறைவு/175-346912) · `ta`
-
-Election campaign ends Nov 11. Social media monitoring begins. False propaganda removed. 50 foreign observers participate. EU and Asian monitors arrive. General election criticized for inappropriate use.
-
-🟩
-
-The Elections Commission has announced that all campaigns relating to the parliamentary elections to be held on November 14 will end on Tuesday (11).
-
-Meanwhile, the Elections Commission said that the removal of the election offices has been granted until midnight on Wednesday (12).
-
-In this context, a special committee has been appointed to investigate false propaganda on social media during the general election.. The committee, appointed by the Election Commission, is part of 5 officers.
-
-Social media such as Facebook, Instagram and Dick Doc will be monitored on false campaigns against a party or candidate. The Election Commission said that steps would be taken to remove false propaganda from social media.
-
-However, the Commission has warned that action will be taken on registrations that will have serious consequences.
-
-The Election Commission has said that 50 foreign monitors will be involved in the general election monitoring.
-
-...
-
-[Data](articles/18ebf11d.json)
-
-[Extended Data](ext_articles/18ebf11d.ext.json)
-
----
-
-### Rise of new faces: Paradigm shift in east Muslim voter behaviour
-
-*2024-11-11 01:50:14* · [`dailyftlk`](https://www.ft.lk/columns/Rise-of-new-faces-Paradigm-shift-in-east-Muslim-voter-behaviour/4-769060) · `en`
-
-Eastern Muslim voters are increasingly moving away from racial and ethno-centric politics
-
-The Presidential Election 2024 has shown a dramatic shift in the voting behaviour of Muslim voters in the Eastern Province. A long struggle for an alternative political force of the Muslims has finally gained significant behavioural change in areas traditionally led by established political figures. These results reflect a departure from conventional voting patterns, emphasising a strong desire for a change among Muslim voters in Eastern Province, who are increasingly drawn to progressive and inclusive approaches.
-
-...
-
-[Data](articles/2759300f.json)
-
-[Extended Data](ext_articles/2759300f.ext.json)
-
----
-
-### Our struggle is only after 114
-
-*2024-11-11 01:49:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14-க்குப்-பின்னரே-எமது-போராட்டம்/175-346911) · `ta`
-
-Former President Ranil Wickremesinghe announced his struggle will begin after Nov 14. He criticized hiding economic issues behind political mudslinging and demanded parliamentary representation. Wickremesinghe called for responsibility regarding rejecting the IMF agreement before the election. He emphasized the need for transparency from the IMF on the government's policies and plans. The former president also stressed the importance of accountability rather than blaming others.
-
-🟩
-
-Former President Ranil Wickremesinghe, speaking on Saturday (09) in all constituencies through digital technology, said his struggle would begin after November 14.
-
-Ranil Wickremesinghe said he would not try to hide the real economic problems he raised by political mudslides and demand that the country be appointed to the parliament if the country wants the future.
-
-The country must be responsible for the directional compass which rejected the IMF agreement before the presidential election.However, the International Monetary Fund is now compass to consulting the economy.
-
-Moreover, the President of the International Monetary Fund should explain to the country about the government's policy, the government's vision and work plan.
-
-Former President Ranil Wickremesinghe added that instead of reporting on this, it is the duty of the president to blame and slander others.
-
-◼️
-
-[Data](articles/eee1a59d.json)
-
-[Extended Data](ext_articles/eee1a59d.ext.json)
 
 ---

@@ -1,36 +1,132 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 22:14:46**
+As of **2024-11-11 22:41:10**
 
 ## Newspaper Stats
 
-*Scraped **54,266** Articles*
+*Scraped **54,271** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 422
-bbccomsinhala | 551
+bbccomsinhala | 552
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,076
-adaderanalk | 6,478
+adaderanalk | 6,479
 tamilmirrorlk | 7,584
 virakesarilk | 8,799
-adaderanasinhalalk | 9,469
+adaderanasinhalalk | 9,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,265 (100.0%) of 54,266 articles have been extended.
+54,270 (100.0%) of 54,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Dilith offers president a practical plan to solve Sri Lanka’s debt crisis
+
+*2024-11-11 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103339/dilith-offers-president-a-practical-plan-to-solve-sri-lankas-debt-crisis) · `en`
+
+Gampaha District parliamentary candidate and leader of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera, stated that he has a practical plan to address Sri Lanka’s ongoing debt crisis and is ready to assist the President in repaying the debt through this plan.
+
+Jayaweera made these remarks while addressing a public rally in Maharagama today (11).
+
+“We want to bring this country to a positive state. That is why ‘Sarvajana Balaya’ is here. We are the political force of the developing people. Our goal is to inspire the nation to rise up and move forward, not to fill their minds with fantasies, hate, and anger. This is not the politics we need,” Jayaweera said.
+
+He emphasized that eliminating corruption and prosecuting wrongdoers is the first step toward national development. He criticized other political groups for focusing on social media campaigns, contrasting their approach with the ‘Sarvajana Balaya’ movement’s focus on real change.
+
+...
+
+[Data](articles/f4aed7d4.json)
+
+[Extended Data](ext_articles/f4aed7d4.ext.json)
+
+---
+
+### Namal requests the government to fulfill the promises given to the people
+
+*2024-11-11 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203153) · `si`
+
+Namal Rajapaksa urges President to keep election promises. He criticizes government for lying about job creation during public speech in Matugama.
+
+🟩
+
+Namal Rajapaksa, the National Organizer of the Sri Lanka General Manager Namal Rajapaksa has requested the President to fulfill his promises to the people.
+
+He made this request participating in a public briefing in Matugama today.
+
+"In the recent past, we have been accused. They say that they say a lie that has been abused by the allegations. What is the government's program for job creation?We call the government and have lied to the people of the country "
+
+◼️
+
+[Data](articles/36097d35.json)
+
+[Extended Data](ext_articles/36097d35.ext.json)
+
+---
+
+### Investigation from CID regarding Channel 4 video
+
+*2024-11-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203152) · `si`
+
+CID investigates Channel 4 video Easter attack complaint Police Headquarters interview Mohamed Mihil Mohal Moulana Penal Code allegations Fort Hon. Magistrate's Court media briefing DIG Talduuwa summons
+
+🟩
+
+The CID has commenced investigations into a video broadcast on a foreign television channel in connection with the Easter attack.
+
+A complaint to the Police Headquarters has been handed over to the Police Headquarters following the video on the video by an external organization.
+
+A British Television channel Channel 4 was interviewed by Sri Lankans, Mohamed Mihil Mohal Moulana, a Sri Lankan.
+
+The interview was broadcast on or near the 6th of September 2023.
+
+Accordingly, the Department of Criminal Investigations have commenced under several allegations, including the controversial matters and the plot of the Penal Code on the video.
+
+The Criminal Investigations Department (CID) has reported to the Fort Hon. Magistrate's Court today (11).
+
+Meanwhile, police spokesman DIG Talduuwa said that he was speaking at a media briefing held today.
+
+Accordingly, he has been summoned to the CID tomorrow morning at 9.30 am.
+
+◼️
+
+[Data](articles/01ec3639.json)
+
+[Extended Data](ext_articles/01ec3639.ext.json)
+
+---
+
+### This is a lboard government - Ranil
+
+*2024-11-11 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203151) · `si`
+
+Ranil Wickremesinghe warns inexperienced government threatens national stability. He criticizes current administration during New Democratic Front rally in Maradana, stating lack of governance experience could lead to country's downfall.
+
+🟩
+
+Former President Ranil Wickremesinghe says that if a parliamentary parliament has not experienced with a government that does not have experience, it will bring it to the destruction of the country.
+
+He made these comments addressing the public meeting held today (11) in Maradana, the New Democratic Front.
+
+"This is a government that has no experience. Lboard government is now. LBod L. The country will be destroyed .... "
+
+◼️
+
+[Data](articles/70d92e90.json)
+
+[Extended Data](ext_articles/70d92e90.ext.json)
+
+---
 
 ### Sajith says the existing ISF agreement should be changed
 
@@ -274,19 +370,25 @@ He expressed confidence that this review would be wrapped up by the end of Janua
 
 ---
 
-### ණය පංගුව ඉක්මවා යන ආර්ථිකයක් ඇති කරනවා
+### The credit-share is overwhelming
 
 *2024-11-11 19:05:08* · [`adalk`](https://www.ada.lk/breaking_news/ණය-පංගුව-ඉක්මවා-යන-ආර්ථිකයක්-ඇති-කරනවා/11-412981) · `si`
 
-2028 වසරේ දී ණය ගෙවීම ආරම්භ කිරීමේ දී ගෙවිය යුතු ණය පංගුව ඉක්මවා යන ආර්ථිකයක් මෙරට තුළ ඇති කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසුවේය. ඒ සඳහා අවශ්‍ය ආර්ථික සැලසුම් සැලසුම් සකස් කර ඇති බව ද ජනාධිපතිවරයා කීවේය.
+Sri Lanka's President Anura Kumara Dissanayake addressed a rally, discussing loan shares, economic plans, and upcoming elections. He emphasized the need for a majority government and filling Parliament with capable representatives.
 
-ජනාධිපතිවරණයේ දී ඡන්දය ලබාදුන් ජනතාවට වඩා වැඩි ජනතාවක් මහ මැතිවරණයේ දී ඡන්දය ලබාදීමට බලාපොරොත්තුවෙන් සිටින බවද හෙතෙම පැවසීය. ඔහු මේ බව පැවසුවේ ඊයේ (11දා) ගම්පහ දී පැවති ජාතික ජනබලවේගයේ මහමැතිවරණ අවසන් ජන රැලිය අමතමිනි. හිටපු පාලකයන් මෙම ආණ්ඩුව කඩා වැටෙන තෙක් බලා සිටින බවත්, ජනතාව රට ගොඩනැගීමේ අපේක්ෂාවෙන් සිටින බවත් ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+🟩
 
-ජනතාවගේ බලාපොරොත්තු බිඳ වැටීමට ඉඩ නොදී එම බලාපොරොත්තු සපල කිරීම ජාතික ජනබලවේගයේ අපේක්ෂාව බවත්, එම බලාපොරොත්තු ඉටු කිරීමට කැප වන බවත් ජනාධිපතිවරයා ප්‍රකාශ කළේය. එළඹෙන මැතිවරණයේ දී ශක්තිමත් බහුතර බලයකින් යුත් ආණ්ඩුවක් ගොඩනැගිය යුතු බවත්, ඒ සඳහා පාර්ලිමේන්තුව මාලිමාවෙන් පිරවිය යුතු බවත් ඔහු කීවේය.
+President Anura Kumara Dissanayake said that the loan share owing to the borrowing owes in the country in 2028. The President also said that the necessary economic plan plans have been made for this purpose.
+
+He said that more than the people who voted in the presidential election, more people hope to vote in general election. He said this addressing the final rally of the National People's Representative in Gampaha yesterday (11). The President stated that the former rulers waiting for the government and the people are looking for the building of the country.
+
+The President also stated that it is the expected hope for the prospect of the people without allowing the hope of the people.. He said that a majority government with a majority government in the coming elections should be built and that Parliament should be filled with the compass.
 
 ...
 
 [Data](articles/63eb03c3.json)
+
+[Extended Data](ext_articles/63eb03c3.ext.json)
 
 ---
 
@@ -1085,6 +1187,26 @@ In addition, actor Sivakarthikeyan has been crowned at a young age and thereby p
 [Data](articles/12292902.json)
 
 [Extended Data](ext_articles/12292902.ext.json)
+
+---
+
+### මෙවර මහ මැතිවරණයේදී සුළු ජාතීන්ගේ ඡන්ද කෙසේ බෙදී යයි ද?
+
+*2024-11-11 15:48:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdd0r2dmp1vo) · `si`
+
+“ජාතීන් හැටියට බෙදිලා දේශපාලනය කරලා එකතු වෙන්න බැහැ. එකතු කරන්න නම් සියලු ජාතීන් සිටින සහ ඔවුන්ගේ නායකයින් සිටින එක ව්‍යාපාරයක් හදන්න ඕනෑ. එම ව්‍යාපාරය ජාතික ජන බලවේගය යි.” ඒ, ජනාධිපති අනුර කුමාර දිසානායක නොවැම්බර් 10 වන දා වවුනියාවේ පැවති මහ මැතිවරණ ප්‍රචාරක රැළියකදී පළ කළ අදහසකි.
+
+ජනධිපතිවරණයේදී සුළු ජාතීන්ගේ ප්‍රදේශ ජය ගැනීමට නොහැකි වූ වත්මන් ජනාධිපතිවරයා තම ධූරයේ දිවුරුම් දී ජාතිය අමතමින් තමාව විශ්වාස නොකළ පුරවැසියන්ගේ විශ්වාසය දිනා ගැනීමට කටයුතු කරන බව අවධාරණය කළේ ය.
+
+ජනාධිපතිවරණයෙන් පසුව තව දින කිහිපයකින් පවත්වන මහ මැතිවරණයේදී උතුරු නැගෙනහිර හා වතුකරයේ සිටින සුළු ජාතීන් නියෝජනය කරන ජනතාවගේ ඡන්දය ප්‍රකාශ කිරීම කෙබඳු වේවි ද? එහි වාසිය ලැබෙන්නේ කාට ද?
+
+2020 වසරේ පැවති මහමැතිවරණයේදී දෙමළ ජනයා බහුලව ජීවත්වෙන වන්නි හා යාපනය දිස්ත්‍රික්ක ජය ගනු ලැබුවේ ඉලංගෙයි තමිල් අරසු පක්ෂය යි.
+
+එවර මඩකලපුව දිස්ත්‍රික්කය ඉලංගෙයි තමිල් අරසු පක්ෂය ජය ගනිද්දී, ත්‍රිකුණාමලය දිස්ත්‍රික්කය ජය ගැනීමට සමගි ජන බලවේගය සමත් විය.
+
+...
+
+[Data](articles/39757c7e.json)
 
 ---
 
@@ -2225,125 +2347,5 @@ So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vom
 [Data](articles/56b9ca62.json)
 
 [Extended Data](ext_articles/56b9ca62.ext.json)
-
----
-
-### Virus again for boys
-
-*2024-11-11 11:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்கு-மீண்டும்-வைரஸ்/175-346936) · `ta`
-
-Viral fever rising in children: Fever, cough, mucus, vomiting. Dengue cases increasing. If fever persists over 3 days, get blood tests.
-
-🟩
-
-Ridgeway Arya Children's Hospital Specialist Dr. Deepal Perera says the fever is increasing among children.
-
-He said more attention should be paid to the flu if the flu lasts for almost three days.
-
-“Viral fever has increased between children in recent days. It is a fever with coughing and mucus. Also, the number of dengue patients is also increasing.
-
-So it is a sign of viral fever if you have coughing, colds, fever, vomiting, vomiting. So, if you have a fever for more than three days, do the appropriate blood test. ”He advised.
-
-◼️
-
-[Data](articles/ac6cd01f.json)
-
-[Extended Data](ext_articles/ac6cd01f.ext.json)
-
----
-
-### Car collision in Lakehouse building
-
-*2024-11-11 11:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்ஹவுஸ்-கட்டிடத்தில்-கார்-மோதி-விபத்து/175-346935) · `ta`
-
-Car crash damages entrance of Lake House building in Colombo. Driver survives. Police investigating.
-
-🟩
-
-A car accident near the entrance of the Lake House building in Colombo has caused heavy damage to property.
-
-Police said the car crashed into the cement wall near the entrance of the building this morning.
-
-It is reported that the driver has survived the incident. Colombo -Fort Police are investigating the incident.
-
-◼️
-
-[Data](articles/773e1feb.json)
-
-[Extended Data](ext_articles/773e1feb.ext.json)
-
----
-
-### Petition for Lohan Ratwatte
-
-*2024-11-11 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203128) · `si`
-
-Former State Minister Lohan Ratwatte released on bail after court hearing over unregistered vehicle case.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was remanded in the Mirihana area, was presented to the dissemination of unregistered car.
-
-The Court of Justice Nissanka Bandula Karunaratne and Shashi Mahendran were released after considering the petition.
-
-The Court informed the petitioner to issue notice to the respondents, including the respondents including the IGP.
-
-◼️
-
-[Data](articles/3e8543a8.json)
-
-[Extended Data](ext_articles/3e8543a8.ext.json)
-
----
-
-### The first day of the new parliament
-
-*2024-11-11 11:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்றத்தின்-முதல்-நாள்/175-346934) · `ta`
-
-First day of new Parliament: Nov 21. Election on Nov 14. 225 MPs elected (196 popular vote, 29 National List). Special measures for first session. General Secretary assigns roles. No seat allocation on first day.
-
-🟩
-
-The first day of the new Parliament is November 21, the Parliamentary Communications Division said.
-
-The general election to elect members of the 10th Parliament will be held on November 14.
-
-196 MPs elected by the people and 29 MPs from the National List, 225 members will be elected to parliament.
-
-The Parliamentary Communications Division has announced that many special measures will be taken on the first day of the first session of Parliament.
-
-On the first day, the main responsibilities of the House will be assigned to the General Secretary of Parliament. On the first day, MPs do not allocate the seat, so MPs have the opportunity to sit in any seat they want.
-
-◼️
-
-[Data](articles/592e9d93.json)
-
-[Extended Data](ext_articles/592e9d93.ext.json)
-
----
-
-### The responsibility of the defeat should be responsible for all the batsmen, including I
-
-*2024-11-11 11:30:26* · [`adalk`](https://www.ada.lk/sports/පරාජයේ-වගකීම-මම-ඇතුළුව-පිතිකරුවන්-සියලු-දෙනා-වගකීම-භාර-ගන්න-ඕනී/9-412964) · `si`
-
-Sri Lanka cricket captain Charith takes blame for team's loss against New Zealand in T20 match. He attributes defeat to poor batting performance, including his own. Team failed to surpass NZ's score of 108/7 in 19 overs.
-
-🟩
-
-The leader of the Sri Lanka factor Charith said that he should take responsibility for the defeat of the second T20 match with New Zealand.
-
-He said this to the media yesterday (10) after the match.
-
-"I think it's hard to look forward to bowling more than a group. It is a good thing to be limited to any wicket and 108. I see all the batsmen, including I want to take responsibility for the defeat. "
-
-Batting first, New Zealand scored 108 runs for the loss of 19 overs.
-
-In reply, the Sri Lankan team was only 103 runs for the loss of all 19 overs.
-
-◼️
-
-[Data](articles/e936af7a.json)
-
-[Extended Data](ext_articles/e936af7a.ext.json)
 
 ---

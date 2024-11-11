@@ -1,36 +1,108 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 13:41:00**
+As of **2024-11-11 14:00:06**
 
 ## Newspaper Stats
 
-*Scraped **54,190** Articles*
+*Scraped **54,196** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 551
-colombotelegraphcom | 553
+colombotelegraphcom | 554
 islandlk | 3,239
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,062
+adalk | 5,063
 adaderanalk | 6,467
-tamilmirrorlk | 7,571
+tamilmirrorlk | 7,572
 virakesarilk | 8,789
-adaderanasinhalalk | 9,448
+adaderanasinhalalk | 9,451
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,175 (100.0%) of 54,190 articles have been extended.
+54,181 (100.0%) of 54,196 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### லொஹான் ரத்வத்தவுக்கு பிணை கோரி மனு
+
+*2024-11-11 13:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவுக்கு-பிணை-கோரி-மனு/175-346937) · `ta`
+
+விளக்கமறியலில் வைக்கப்பட்டுள்ள லொஹான் ரத்வத்த சார்பில் தாக்கல் செய்யப்பட்ட பிணை மனுவை எதிர்வரும் 19ஆம் திகதி பரிசீலிக்குமாறு மேன்முறையீட்டு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+குறித்த மனுவை பரிசீலித்த நீதியரசர் நிஷங்க பந்துல கருணாரத்ன மற்றும் சஷி மகேந்திரன் ஆகியோர் அடங்கிய அமர்வு இந்த உத்தரவை இன்று (11) பிறப்பித்துள்ளது.
+
+மிரிஹான பகுதியிலுள்ள வீடொன்றில் பதிவு செய்யப்படாத கார் ஒன்று கண்டுபிடிக்கப்பட்டமை தொடர்பில் கைதுசெய்யப்பட்டு லொஹான் ரத்வத்த விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/88b434ed.json)
+
+---
+
+### මහ ජන්දෙට පාට කරන ඇඟිල්ලත් වෙනස්වෙයි
+
+*2024-11-11 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203132) · `si`
+
+2024 මහ මැතිවරණ සඳහා ඡන්දය ප්‍රකාශ කිරීමේ දී මෙවර යොදාගැනෙන්නේ වම් අතෙහි දබරැඟිල්ල බව මැතිවරණ කොමිෂන් සභාවේ අධ්‍යක්ෂ ජනරාල් සමන් රත්නායක මහතා පවසයි.
+
+අද (11) මාධ්‍ය වෙත අදහස් දක්වමින් ඒ මහතා මේ බව පැහැදිලි කළේය.
+
+"පසුගිය ජනාධිපතිවරණයේ දී අපි වම්අතේ සුලැඟිල්ල වර්ණ ගන්වනු ලැබුවා. බොහෝදෙනෙකුගේ ඒ සලකුණු කළ ආකාරය ඒ අයුරින්ම තිබෙනවා. ඒ නිසා මෙවර මැතිවරණ කොමිෂන් සභාව තීරණය කරලා තියෙනවා වම් අතේ දබරැඟිල්ල සලකුණු කිරීම සඳහා භාවිතා කරන්න."
+
+නොවැම්බර් 14 වනදා මහ මැතිවරණය පැවැත්වීම සඳහා අවශ්‍ය මූලික කටයුතු සියල්ල අවසන් බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+එමෙන්ම මැතිවරණයට අදාළ ප්‍රචාරක කටයුතු අද (11) මධ්‍යම රාත්‍රියෙන් අවසන් වේ.
+
+තව දින 3කින් පැවැත්වෙන මහ මැතිවරණයේදී මෙරට දස වැනි පාර්ලිමේන්තුවට මන්ත්‍රීවරුන් තෝරා පත්කරගැනීම සඳහා ඡන්දදායකයින් 17,140,354 දෙනෙකු ඡන්ද භාවිත කිරීමට සුදුසුකම් ලබා සිටියි.
+
+එමෙන්ම මෙවර මැතිවරණයේ නිරීක්ෂණ ක්‍රියාවලිය වෙනුවෙන් ජාත්‍යන්තර නිරීක්ෂකයින් පිරිසක් ද මේවන විටත් දිවයිනට පැමිණ සිටියහ.
+
+◼️
+
+[Data](articles/eb39b9ce.json)
+
+---
+
+### The husband has escaped from the house to kill young people
+
+*2024-11-11 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203131) · `si`
+
+Husband kills wife over dispute. Woman's body found in house. Police investigating. Husband flees. Identity card recovered. Post-mortem ordered.
+
+🟩
+
+Mundalama has been killed and one mother of the country has been killed and found the bodies in the house.
+
+The victim is one of the 27-year-old resident of the Mahamyaliya.
+
+The police suspect that she had been killed by a severe attack on her husband after a dispute between the woman and her husband.
+
+However, the woman had seen her grandmother, however, and that the woman had already died.
+
+Investigations have stated that the woman's head has been a worst attack and the hair has been harsh.
+
+However, the husband of the deceased woman who is suspected of the murder has fled the police, police said.
+
+The identity card of the deceased woman has been taken and that police teams have been deployed to arrest him in connection with the murder.
+
+Puttalam Acting Magistrate Indika Tennakoon has ordered the police to direct the body for the Puttalam Base Hospital for post mortem.
+
+◼️
+
+[Data](articles/b95acf4e.json)
+
+[Extended Data](ext_articles/b95acf4e.ext.json)
+
+---
 
 ### புதிய பாராளுமன்றத்தின் முதல் நாள்...
 
@@ -78,6 +150,36 @@ Furthermore, the judge bench granted permission for a request made by Additional
 
 ---
 
+### The Russian Embassy announced on the request made by BRICS membership
+
+*2024-11-11 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203130) · `si`
+
+Sri Lanka's BRICS membership application status: Russian Embassy denies rejection claims, External Affairs Ministry confirms application submitted, awaiting consideration.
+
+🟩
+
+The Sri Lanka External Affairs Ministry has rejected media reports that Sri Lanka's application has been rejected for the membership of the BRICS membership.
+
+According to the Ministry, Sri Lanka applied for members of the BRICS and the New Development Bank as approved by the Cabinet of Ministers.
+
+Minister of External Affairs Vijitha Herath has stated that Sri Lanka has informed the Russian president that Sri Lanka has informed the Russian president.
+
+On October 22-24, Foreign Secretary Aruni Wijewardena expressed his interest in this regard at the conference with the Sri Lankan delegation, Russia, October 22-24.
+
+The BRICs members have commended the demands of the new membership countries.
+
+The External Affairs Ministry stated that the demands for the BRICs membership of Sri Lanka and members of Sri Lanka will be considered in the future.
+
+It is also said that the Chairman of Sri Lanka has also been accepted to join the new Development Bank (NDB).
+
+...
+
+[Data](articles/69dd1034.json)
+
+[Extended Data](ext_articles/69dd1034.ext.json)
+
+---
+
 ### Couple killed in Ambalangoda shooting linked to drug networks; drug feud suspected
 
 *2024-11-11 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103326/couple-killed-in-ambalangoda-shooting-linked-to-drug-networks-drug-feud-suspected) · `en`
@@ -102,69 +204,95 @@ Police suspect that the recent killings may be a continuation of unresolved issu
 
 ---
 
-### அயலவர்களுக்கு கைத்துப்பாக்கியை காட்டி கொலை மிரட்டல் விடுத்த உப பொலிஸ் பரிசோதகர் கைது !
+### Sub -Inspector arrested for allegedly threatening to kill neighbors
 
 *2024-11-11 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198410) · `ta`
 
-தனது தந்தையை தாக்கிய அயலவர்களுக்கு கைத்துப்பாக்கியை காட்டி கொலை மிரட்டல் விடுத்த உப பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளதாக ஆனமடுவ பொலிஸார் தெரிவித்தனர்.
+Sub-inspector arrested for threatening neighbors after assault on father. Allegedly used handgun to intimidate neighbors. Incident occurred in Anamaduwa, Sri Lanka.
 
-கைது செய்யப்பட்டவர் ஆனமடுவ தர்மபால பிரதேசத்தைச் சேர்ந்த கொழும்பு பொலிஸ் குற்றத் தடுப்பு பிரிவில் கடமையாற்றும் உப பொலிஸ் பரிசோதகர் ஆவார்.
+🟩
 
-உப பொலிஸ் பரிசோதகரின் தந்தையை அவரது அயலவர்கள் கடந்த 7 ஆம் திகதி அன்று பலமாக தாக்கியுள்ளனர்.
+Anamaduwa police said that the sub -inspector of the police has been arrested for allegedly threatening to kill his neighbors who assaulted his father.
 
-இதனையடுத்து, சந்தேக நபர் தனது அயல் வீடுகளுக்கு சென்று அவர்களிடம் கைத்துப்பாக்கியை காட்டி கொலை மிரட்டல் விடுத்து தாக்குதல் நடத்தியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+The arrested was the Sub -Inspector of Police in the Colombo Police Crime Prevention Division of Anamaduwa Dharmapala.
+
+His neighbors attacked the father of the Sub -Inspector on the 7th.
+
+Subsequently, police investigations revealed that the suspect went to his neighboring houses and threatened to kill them with a handgun.
 
 ◼️
 
 [Data](articles/9c77f174.json)
 
+[Extended Data](ext_articles/9c77f174.ext.json)
+
 ---
 
-### போலி அமெரிக்க டொலர் நாணயத்தாள்களுடன் ஒருவர் கைது !
+### A man arrested with fake US dollar currencies
 
 *2024-11-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198402) · `ta`
 
-வெலிகம, மிரிஸ்ஸ பிரதேசத்தில் உள்ள சுற்றுலா விடுதி ஒன்றின் கணக்காளர் ஒருவர் போலி அமெரிக்க டொலர் நாணயத்தாள்களுடன் கைது செய்யப்பட்டுள்ளதாக  மாத்தறை பொலிஸ் குற்றத் தடுப்பு பிரிவினர் தெரிவித்தனர்.
+Man arrested with fake US dollars in Sri Lanka. Accountant caught in Mirissa. Suspect claims used for cash transactions with foreigners. Police investigating possible foreign involvement. Case to be presented in Matara Magistrate Court.
 
-மாத்தறை பொலிஸ் குற்றத் தடுப்பு பிரிவினருக்குக் கிடைத்த தகவலுக்கு அமைய மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-கைது செய்யப்பட்ட சந்தேக நபர் , காலி பிரதேசத்தைச் சேர்ந்த 60 வயதுடையவர் ஆவார்.
+The Matara Police Crime Unit said that an accountant of a tourist accommodation in Mirissa, Weligama, has been arrested with a fake US dollar currency.
 
-வெளிநாட்டவர்களுடனான பணப் பரிவர்த்தனையின் போது இந்த போலி டொலர்  நாணயத்தாள்கள் கிடைக்கப் பெற்றதாக சந்தேக நபர் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+The suspect has been arrested during a roundup of information received by the Matara Police Crime Unit.
 
-சந்தேக நபர் வெளிநாட்டு பிரஜை ஒருவருடன் இணைந்து போலி டொலர் நாணயத்தாள்களை கடத்தினாரா என்பது தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+The arrested suspect is a 60 -year -old from Galle.
 
-கைது செய்யப்பட்ட சந்தேக நபர் மாத்தறை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+The suspect told police that the fake dollar currency notes were available during the cash transaction with foreigners.
+
+Police said further investigations are underway regarding whether the suspect was abducted by a foreign citizen with a foreign citizen.
+
+The suspect is to be produced before the Matara Magistrate's Court, police said.
 
 ◼️
 
 [Data](articles/c8d838ef.json)
 
+[Extended Data](ext_articles/c8d838ef.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-11-11 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198411) · `ta`
 
-இன்று திங்கட்கிழமை (11) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.1635 ரூபாவாகவும், விற்பனை விலை 297.1536 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+US dollar exchange rate: 288.1635 rupees buying, 297.1536 selling. Released by Central Bank on Monday (11).
+
+🟩
+
+The US dollar purchasing price was 288.1635 rupees and the sales price were 297.1536 rupees based on a currency exchange rate released by the Central Bank on Monday (11).
 
 ◼️
 
 [Data](articles/85323b32.json)
 
+[Extended Data](ext_articles/85323b32.ext.json)
+
 ---
 
-### பொய்யான வாக்குறுதிகளை வழங்கி நாட்டை ஏமாற்றி வரும் இந்த தரப்பை விடுத்து ஐக்கிய மக்கள் சக்தியை வெற்றிபெறச் செய்யுங்கள் - சஜித் பிரேமதாச
+### Make the United People's Power Success - Sajith Premadasa
 
 *2024-11-11 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198405) · `ta`
 
-களவு, இலஞ்சம், ஊழல் ஒழிக்கப்படும், எரிபொருள் விலை குறைக்கப்படும் என தற்போதைய ஜனாதிபதி சகல தேர்தல் மேடைகளிலும் கூறினார். அவ்வாறான ஊழல் மோசடிகள் இல்லை என அனுரகுமார திஸாநாயக்க ஜனாதிபதியினால் நியமிக்கப்பட்ட பெற்றோலியக்  கூட்டுத்தாபனத்தின் புதிய தலைவர் தற்போது தெரிவித்துவருகிறார். எரிபொருள் குறைத்து மக்களுக்கு சலுகைகளை தருவதாக கூறிய இவர்கள் தற்போது மக்களை ஏமாற்றி வருகின்றனர். எரிபொருள் விலை சூத்திரத்திற்கு தாம் அடிபணியப்போவதில்லை என கூறிய அனுரகுமார திஸாநாயக்க, எரிபொருள் விலை சூத்திரத்தின் பிணைக்கைதியாக மாறியுள்ளார். கடைசியாக பணக்கார வர்க்கம் பயன்படுத்தும் எரிபொருள் விலைகளை குறைத்துள்ளனர் என சஜித் பிரேமதாச தெரிவித்தார்.
+Sajith Premadasa addresses Maharagama rally, criticizes fuel price hikes, promises electricity reduction despite lack of parliamentary majority. Calls for United People's Power victory to secure IMF agreement benefits.
 
-2024 பொதுத் தேர்தலை இலக்காக் கொண்டு மஹரகம பிரதேச மக்களுடனான சந்திப்பொன்று நேற்று (10) ஐக்கிய மக்கள் சக்தியினதும் ஐக்கிய மக்கள் கூட்டணியினதும் தலைவரான சஜித் பிரேமதாச தலைமையில் இடம்பெற்றது.
+🟩
+
+The current president said in all election platforms that the stolen, bribery, corruption will be eradicated and fuel prices will be reduced. The new leader of the Petroleum Corporation appointed by the President Anurakumara Dissanayake has said that there are no such corruption scandals. They are now deceiving the people who have reduced fuel and give people offers. Anuragumara Dissanayake, who said he was not going to succumb to the fuel price formula, has become the hostage of the fuel price formula. Sajith Premadasa said that the fuel prices used by the rich class were finally reduced.
+
+A meeting with the people of Maharagama was held yesterday (10), headed by Sajith Premadasa, the leader of the United People's Alliance and the United People's Alliance.
+
+The meeting was organized by the United People's Power Colombo District Candidate Gamini Tilakasiri and many others including party activists participated in the meeting.. He said this while addressing the gathering.
 
 ...
 
 [Data](articles/f16ae8cb.json)
+
+[Extended Data](ext_articles/f16ae8cb.ext.json)
 
 ---
 
@@ -363,6 +491,26 @@ According to Dr. Perera, many children are presenting with symptoms of viral fev
 ...
 
 [Data](articles/c7458897.json)
+
+---
+
+### MONKS IN CONFRONTATIONAL POLITICS
+
+*2024-11-11 11:42:00* · [`islandlk`](http://island.lk/monks-in-confrontational-politics/) · `en`
+
+Whether the participation of monks in representative politics is permissible (or proper), has been a matter of periodic discourse in the media.
+
+In preparing this note, I can claim no expertise (nor authority), on the discipline or set of rules for the Maha Sangha. Incidentally, I personally prefer to be considered as “one who seeks to follow the Dhamma,” rather than as a “Buddhist”.
+
+The ordained ones have themselves chosen to enter the Community referred to collectively as “The (Maha) Sangha” They have voluntarily resolved to abandon the lay life and to observe the rules of conduct (more than two hundred), included in the Vinaya Pitaka.
+
+In Myanmar and Thailand, the “forest dweller” (vanavasa) tradition prevails, where the monk lives alone, often in a natural cave, and devotes himself to continuous meditation and solitude, with minimum contact with others. In the commoner monastic tradition, a community of monks live together, with each engaging in his own spiritual practices.
+
+...
+
+[Data](articles/6ab635f0.json)
+
+[Extended Data](ext_articles/6ab635f0.ext.json)
 
 ---
 
@@ -1012,6 +1160,22 @@ Furthermore, it is also stated that instructions have been given to the relevant
 
 ---
 
+### මැතිවරණ නිහඬ කාලයට කොමිෂමෙන් මාධ්‍යටත් කොන්දේසි රැසක්
+
+*2024-11-11 09:53:57* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-නිහඬ-කාලයට-කොමිෂමෙන්-මාධ්‍යටත්-කොන්දේසි-රැසක්/11-412963) · `si`
+
+නොවැම්බර් 14 දා පැවැත්වෙන පාර්ලිමේන්තු මැතිවරණයේ ප්‍රචාරක කටයුතු තහනම් නිහඬ කාල සීමාව   අද (11) මධ්‍යම රාත්‍රි 12.00 න්  ආරම්භවන අතර එයින් පසු  මැතිවරණයේ    ප්‍රචාරක කටයුතු  නොකළ  කළ යුතු බව මැතිවරණ කොමිෂන් සභාව  අවධාරණය කරයි.
+
+අද (11) පැවැත්වෙන අවසන් දේශපාලන ප්‍රචාරක රැස්වීම්වල වීඩියෝ දර්ශන  හා විස්තර විකාශය කිරීම  හෙට(12) දා රූපවාහිනී හා ගුවන් විදුලි විකාශවල එක්  ප්‍රධාන ප්‍රවෘත්ති ව්කාශයකට පමණක් සීමා කළ යුතු  බවත් පුවත්පත් සිරස්තල ඉදිරිපත් කිරීමේදී  වෙනත් විස්තර හෝ අදහස් නොමැතිව   පුවත්පතේ  පුවත් සිරස්තලය පමණක් ඉදිරිපත් කළ යුතු බවත් මැතිවරණ කොමිෂන් සභාව නිවේදනය කරයි.
+
+අද පැවත්වෙන ප්‍රචාරක රැස්වීම් වාර්තා හෙට (12)  පුවත්පත් හා ඒවායේ සමාජ මාධ්‍ය ජාලාවන්හි පල  කළ හැකිවේ.  අනෙකුත්    සියලු සමාජ මාධ්‍ය ජාලාවලටද මෙකී කොන්දේසි අදාලවන බවත්    මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+...
+
+[Data](articles/15b2aa6e.json)
+
+---
+
 ### General Election campaigning ends today
 
 *2024-11-11 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103315/general-election-campaigning-ends-today-) · `en`
@@ -1389,6 +1553,18 @@ The general public is kindly requested to take adequate precautions to minimize 
 [Data](articles/3f464c23.json)
 
 [Extended Data](ext_articles/3f464c23.ext.json)
+
+---
+
+### Presidential Election Results & Tamil Aspirations: A New Era Or Continued Challenges?
+
+*2024-11-11 07:52:08* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/presidential-election-results-tamil-aspirations-a-new-era-or-continued-challenges/) · `en`
+
+During the recent presidential election, many analysts paid special attention to the Northern and Eastern Provinces, which are the traditional homelands of the Tamil-speaking people. This focus stemmed from the fact that the election was an intense four-way contest. The candidates included former President and United National Party (UNP) leader Ranil Wickremesinghe, National People’s Power (NPP) leader Anura Kumara Dissanayake, Samagi Jana Balawegaya (SJB) leader Sajith Premadasa, and an independent Tamil candidate, Ariyanethiran Pakkiyaselvam. Prior to the election various Tamil political activists argued that the time had come for an independent Tamil candidate, reasoning that despite previously supporting Sinhala candidates from the south, those candidates consistently failed to fulfill the aspirations of the Tamil people.
+
+...
+
+[Data](articles/5978275e.json)
 
 ---
 
@@ -2093,129 +2269,5 @@ Are told to vote to clean up parliament. The names of the candidates are not eve
 [Data](articles/66539d15.json)
 
 [Extended Data](ext_articles/66539d15.ext.json)
-
----
-
-### Sri Lanka’s Ferentino Tyres unveils its latest range in Las Vegas
-
-*2024-11-11 01:40:00* · [`islandlk`](http://island.lk/sri-lankas-ferentino-tyres-unveils-its-latest-range-in-las-vegas/) · `en`
-
-Ferentino Tyres, Sri Lanka’s leading tyre manufacturer, successfully showcased its latest range of tyres at the prestigious SEMA (Specialty Equipment Market Association) Show 2024, held from November 5-8 at the Las Vegas Convention Center, USA.
-
-Marking its second consecutive year at this flagship event, Ferentino impressed attendees with its commitment to quality, performance, and global standards, unveiling a range of tyres sized from 12″ to 19″. This new range, designed with precision for diverse driving conditions, is set to be available in the Sri Lankan market by early 2025.
-
-The SEMA Show, a premier event in the automotive aftermarket industry, brought together over 7,000-member companies worldwide.
-
-...
-
-[Data](articles/8db69e91.json)
-
-[Extended Data](ext_articles/8db69e91.ext.json)
-
----
-
-### LOLC Finance reports Rs. 8.1 billion PAT in 1H 2024
-
-*2024-11-11 01:39:00* · [`islandlk`](http://island.lk/lolc-finance-reports-rs-8-1-billion-pat-in-1h-2024/) · `en`
-
-LOLC Finance PLC has announced outstanding financial results for the six months ending 30th September 2024, marking a strong first half of profitability and growth. The company achieved a Profit After Tax (PAT) of Rs. 8.1 billion, a significant 46% increase compared to the Rs. 5.6 billion reported during the same period in 2023. This robust performance emphasises LOLC Finance’s strength and resilience within a dynamic financial landscape.
-
-...
-
-[Data](articles/47e772c9.json)
-
-[Extended Data](ext_articles/47e772c9.ext.json)
-
----
-
-### ‘ComBank Digital’ wins Gold at national ICT Awards 2024
-
-*2024-11-11 01:38:00* · [`islandlk`](http://island.lk/combank-digital-wins-gold-at-national-ict-awards-2024/) · `en`
-
-The Commercial Bank of Ceylon has won the coveted Gold at the 2024 National Best Quality Software Awards (NBQSA), the national ICT awards.The Bank won the Gold in the highly competitive ‘Banking, Insurance & Finance Consumer’ category for ‘ComBank Digital’ – the Bank’s flagship digital channel that serves retail, SME and corporate clients.
-
-Complementing this triumph, the Bank received a Merit award in the same category for ‘Jimi GPT’ – the generative AI-powered Knowledge Assistant that assists more than 3,000 branch staff to instantly access the information they need from the Bank’s Intranet to serve customers.
-
-...
-
-[Data](articles/1a42ad8b.json)
-
-[Extended Data](ext_articles/1a42ad8b.ext.json)
-
----
-
-### Take action with the model
-
-*2024-11-11 01:37:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உடன்-நடவடிக்கை-எடுக்கவும்/175-346908) · `ta`
-
-Geetanath Kasilingam calls for thorough investigation into reported attack on Sri Lanka PA candidate and her husband. Demands legal action against perpetrators and criticizes government handling of similar incidents.
-
-🟩
-
-Sri Lanka PA candidate Geetanath Kasilingam, who is worried about the incident that has been reported to have been attacked by a young man and her husband and husband on Saturday night (09) night (09), should take a full investigation into the incident and take appropriate legal action against the victims and take appropriate legal action against the victims.He insisted.
-
-Many people can see the ruling government in connection with the incident. The government does not use the government for mistakes made by a few officials. Such incidents have taken place during our PA. At the same time, the government was charged with the allegations that the authorities were charged.
-
-We do not know that the perpetrators of the Chunnakam attack should be punished. "It is our demand for a proper investigation into the matter and establish justice," Geetanath Kasilingam said.
-
-◼️
-
-[Data](articles/9cbe9866.json)
-
-[Extended Data](ext_articles/9cbe9866.ext.json)
-
----
-
-### Sri Lanka Tourism makes its presence felt at WTM 2024 in London
-
-*2024-11-11 01:37:00* · [`islandlk`](http://island.lk/sri-lanka-tourism-makes-its-presence-felt-at-wtm-2024-in-london/) · `en`
-
-Sri Lanka made a remarkable entry at the World Travel Market (WTM) 2024 held in London with record number of trade delegation of over 100 industry participants, highlighting the nation’s commitment to revitalize and strengthening its tourism sector.
-
-This record-breaking participation underscores Sri Lanka’s dynamic push to position itself as a top global travel destination. The grand occasion was attended by  Rohitha Bogollagama, High Commissioner of Sri Lanka to the UK, Buddhika Hewawasam, Chairman of Sri Lanka Tourism, and VVIPs like Lord Naseby PC from the House of Lords and Emma Manners, Duchess of Rutland.
-
-The participation at WTM 2024 marks a pivotal moment for Sri Lanka’s tourism industry, reinforcing its readiness to welcoming visitors from around the world with renewed enthusiasm and expanded offerings propelled by the new vision and strategy of the destination.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/493d5a25.json)
-
-[Extended Data](ext_articles/493d5a25.ext.json)
-
----
-
-### AKD: Abandoning neoliberalism and embracing Kautilyan statism?
-
-*2024-11-11 01:35:01* · [`dailyftlk`](https://www.ft.lk/columns/AKD-Abandoning-neoliberalism-and-embracing-Kautilyan-statism/4-769057) · `en`
-
-But his critics charge that he is without experience in statesmanship. Being a first timer in presidency, his critics are technically correct because he does not have a track-record. But experience does not matter to a person who can quickly grasp an issue, has a ready ear to listen, and change himself suitably to an emerging diverse situation. He has shown this adaptability by accepting IMF’s EFF as the most pragmatic way forward for Sri Lanka without dragging the country to a destabilising shock as predicted by his critics. AKD has the capacity to convert information to knowledge strengthened by experience, a requirement of knowledge as presented by Albert Einstein
-
-...
-
-[Data](articles/c1862234.json)
-
-[Extended Data](ext_articles/c1862234.ext.json)
-
----
-
-### Sargia Sri Lanka ramps up destination marketing in expansion drive
-
-*2024-11-11 01:30:00* · [`islandlk`](http://island.lk/sargia-sri-lanka-ramps-up-destination-marketing-in-expansion-drive/) · `en`
-
-The newly formed Sargia Sri Lanka, a destination management company Co-Founded by George Paul and Rochelle Edirisinghe, has unveiled its reimagined headquarters in Moratuwa.
-
-Known for its distinctively authentic travel experiences and renowned hospitality, Sargia has garnered a global reputation, drawing clients from countries including Australia, the United Kingdom, Dubai, the Netherlands, Malta and India.
-
-“With the company’s recent expansion, Sargia now creates over 250 direct and indirect employment opportunities for Sri Lankans across the travel industry and related sectors,” said Sargia Sri Lanka, Co-Founders George Paul and Rochelle Edirisinghe.
-
-Sargia Sri Lanka also extends its influence internationally through its Dubai-based subsidiary, Al Taraf Al Mukhtalif Tourism, which operates under the Sargia Dubai brand. This branch offers exceptional travel services and hospitality for Sri Lankan nationals and other travelers in the Middle East.
-
-...
-
-[Data](articles/80b5a70a.json)
-
-[Extended Data](ext_articles/80b5a70a.ext.json)
 
 ---

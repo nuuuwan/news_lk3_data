@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 14:25:58**
+As of **2024-11-11 14:40:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,452
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,192 (100.0%) of 54,199 articles have been extended.
+54,196 (100.0%) of 54,199 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -616,6 +616,8 @@ According to Dr. Perera, many children are presenting with symptoms of viral fev
 
 [Data](articles/c7458897.json)
 
+[Extended Data](ext_articles/c7458897.ext.json)
+
 ---
 
 ### MONKS IN CONFRONTATIONAL POLITICS
@@ -651,6 +653,8 @@ Speaking at the rally, Premadasa added: “President Anura Kumara Dissanayake on
 ...
 
 [Data](articles/18965c1d.json)
+
+[Extended Data](ext_articles/18965c1d.ext.json)
 
 ---
 
@@ -884,6 +888,8 @@ In recent weeks, rice prices in the market have exceeded the government control 
 
 [Data](articles/8730ef43.json)
 
+[Extended Data](ext_articles/8730ef43.ext.json)
+
 ---
 
 ### It is not racism to give preferential votes
@@ -949,6 +955,8 @@ The first day of Parliament’s inaugural session holds particular significance 
 ...
 
 [Data](articles/b894840a.json)
+
+[Extended Data](ext_articles/b894840a.ext.json)
 
 ---
 

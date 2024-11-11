@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 02:59:01**
+As of **2024-11-12 02:41:19**
 
 ## Newspaper Stats
 
-*Scraped **54,306** Articles*
+*Scraped **54,300** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 553
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,290
-dailyftlk | 3,720
+dailyftlk | 3,714
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
@@ -26,121 +26,11 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,300 (100.0%) of 54,306 articles have been extended.
+54,299 (100.0%) of 54,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
-
-### Rohitha Abeygunawardena gets emotional on stage, says ready to serve as Opposition MP
-
-*2024-11-12 02:48:35* · [`dailyftlk`](https://www.ft.lk/news/Rohitha-Abeygunawardena-gets-emotional-on-stage-says-ready-to-serve-as-Opposition-MP/56-769141) · `en`
-
-The New Democratic Front (NDF) Kalutara district candidate Rohitha Abeygunawardena became emotional during a rally recently, as he addressed the crowd in preparation for the upcoming General Election.
-
-He was seen struggling to hold back tears and shakily stated, “I have always stood by the people.” During his address, Abeygunawardena declared his willingness to serve as an Opposition MP, indicating the determination to continue his political journey, regardless of position.
-
-“We are going to do what the Opposition is supposed to do. We are not going to topple the Government. But we urge President Anura Kumara Dissanayake to deliver on those Presidential Election promises without further delaying,” he added.
-
-Abeygunawardena said if the Government manages to deliver on those promises, he would not shy away from acknowledging the integrity of the Government, whilst noting that if it be unsuccessful he will raise his voice at the Parliament stating that the administration failed.
-
-◼️
-
-[Data](articles/ebdc683a.json)
-
----
-
-### FRs against Deshabandu’s IGP appointment to be taken up on 24 Feb.
-
-*2024-11-12 02:46:24* · [`dailyftlk`](https://www.ft.lk/news/FRs-against-Deshabandu-s-IGP-appointment-to-be-taken-up-on-24-Feb/56-769140) · `en`
-
-The Supreme Court has scheduled a hearing for the fundamental rights petitions filed by nine parties, including Archbishop of Colombo Malcolm Cardinal Ranjith and the Young Journalists’ Association (YJA), challenging the appointment of Deshabandu Thennakoon as Inspector General of Police (IGP). The petitions will be heard on 24 and 25 February 2025.
-
-A three-judge bench, consisting of Justices Yasantha Kodagoda, Achala Wengappuli, and Arjuna Obeyesekere, reviewed the petitions.
-
-During the proceedings, Additional Solicitor General Nerin Pulle, representing the Attorney General, requested additional time to file objections on behalf of the current President, a respondent in the case. The Court granted this request.
-
-Thennakoon’s legal team filed a motion for a full bench hearing, which the petitioners opposed. The three-judge panel referred the matter to the Chief Justice for a final decision.
-
-...
-
-[Data](articles/1278dde5.json)
-
----
-
-### CID to probe Channel 4 allegations against ex-SIS Chief Suresh Salley
-
-*2024-11-12 02:45:50* · [`dailyftlk`](https://www.ft.lk/news/CID-to-probe-Channel-4-allegations-againstex-SIS-Chief-Suresh-Salley/56-769139) · `en`
-
-The Criminal Investigation Department (CID) informed the Colombo Fort Magistrate’s Court that it has launched a criminal investigation into the alleged involvement of former State Intelligence Services (SIS) Chief Major General Suresh Salley in the Easter Sunday attacks.
-
-The investigation follows a complaint filed by Centre for Society and Religion Executive Director Rev. Fr. Rohan Silva.
-
-According to CID sources, a statement has been taken from Fr. Silva, who made the complaint in relation to claims made in a Channel 4 documentary implicating Major General Salley in the attacks.
-
-The complaint is based on statements made by Hanzeer Azad Maulana, a former aide to Tamil Makkal Viduthalaip Puligal (TMVP) leader Sivanesathurai Chandrakanthan, also known as Pillaiyan. In the Channel 4 documentary, Maulana accuses Salley of being involved in the attack. Fr. Silva’s complaint calls for an independent investigation into these revelations.
-
-...
-
-[Data](articles/7a991c38.json)
-
----
-
-### Fresh initiative to diversify Sri Lankan exports in UAE
-
-*2024-11-12 02:43:32* · [`dailyftlk`](https://www.ft.lk/business/Fresh-initiative-to-diversify-Sri-Lankan-exports-in-UAE/34-769138) · `en`
-
-Consulate General of Sri Lanka to Dubai and Northern Emirates supports launch of ‘Naturalz’
-
-Consulate General of Sri Lanka to Dubai and Northern Emirates supported the brand launch of ‘Naturalz’, a venture by NRS Group of Companies, held on 5 November, at the Pullman Hotel, Deira, Dubai.
-
-Naturalz introduced a wide variety of high-quality Sri Lankan products, including fresh fruit pulps, spices, bottled fresh fruits, condiments, and a signature range of ice creams crafted from Sri Lankan fresh fruit pulp. The brand also facilitates the import of perishable items from Sri Lanka to the UAE, including fresh fruits, vegetables, and king coconut, as well as processed foods such as jackfruit.
-
-The ice cream range made exclusively with Sri Lankan fruit pulp, manufactured at a MENA region’s 100% solar powered facility in Sharjah. This unique production facility adheres to the highest standards of sustainability and ensures that all ice cream products are free from preservatives and additives.
-
-...
-
-[Data](articles/4082dda0.json)
-
----
-
-### AKD declares 14 Nov. election ‘National Shramadana’ to transform SL
-
-*2024-11-12 02:38:36* · [`dailyftlk`](https://www.ft.lk/news/AKD-declares-14-Nov-election-National-Shramadana-to-transform-SL/56-769137) · `en`
-
-Says 21 Sep. political shift has unsettled ruling classes, who anticipated that power would remain within a few influential families
-
-Notes they are now actively hoping for the Govt.’s failure, sentiments he believes stem from disappointment at losing power
-
-Rejects notion that his party lacks capable leaders, says while some NPP candidates may be new to Parliament, they are not new to politics
-
-Assures Govt. will remain strong due to trust placed by people of SL
-
-President Anura Kumara Dissanayake, speaking at the National People’s Party (NPP) final rally in Piliyandala last evening, described the upcoming 14 November Parliamentary Election as crucial to solidifying the recent political shift in Sri Lanka.
-
-Dissanayake called it “an election that must be won,” highlighting that the 21 September Presidential election marked a historic transfer of power from the “corrupt elite” to the people.
-
-...
-
-[Data](articles/0e8ce147.json)
-
----
-
-### Kalupahana new Treasurer at OPA
-
-*2024-11-12 02:37:05* · [`dailyftlk`](https://www.ft.lk/news/Kalupahana-new-Treasurer-at-OPA/56-769136) · `en`
-
-Senior Chartered Accountant Chandrasiri Kalupahana was elected uncontested as the Treasurer of the Organisation of Professional Associations of Sri Lanka (OPA) for the year 2024/2025 at its recent Annual General Meeting.
-
-The OPA is the apex body representing 51 professional associations across 34 professions, with a combined membership of over 60,000 professionals. Member associations include, among others, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), the Bar Association of Sri Lanka (BASL), and the Government Medical Officers’ Association of Sri Lanka (GMOA).
-
-Kalupahana has been an Executive Council Member of the OPA since 2022/2023 and a Forum Member since 2017, representing CA Sri Lanka. Throughout his tenure, he has contributed to several committees, including the Finance and Budget, Annual Conference, and Development Policies and National Financial Budget Committees.
-
-...
-
-[Data](articles/f812550f.json)
-
----
 
 ### Lifting import ban on automobiles: Sri Lanka sleepwalks into disaster
 
@@ -804,31 +694,25 @@ Accordingly, he said that investigations have begun in the Tutabi report on Sund
 
 ---
 
-### "Children in Sri Lanka never banned the animal. But parliament was banned
+### 'ලංකාවේ දරුවන්ට කවදාවත් සත්තු වත්ත තහනම් කළේ නෑ. ඒත් පාර්ලිමේන්තුව තහනම් කළා'
 
 *2024-11-11 19:59:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wq995ewp1o) · `si`
 
-Sri Lanka: Children not banned from animals, but parliament restricted. Leader calls for cleaning parliament, questioning effectiveness of current system.
+'ලංකාවේ දරුවන්ට කවදාවත් සත්තු වත්ත තහනම් කළේ නෑ. ඒත් පාර්ලිමේන්තුව තහනම් කළා'
 
-🟩
+දේශපාලන සංස්කෘතිය වෙනස් කර ආදර්ශවත් පාර්ලිමේන්තුවක් ගොඩ නැගීම සඳහා ජනතාව නොවැම්බර් 14 වැනි දින ඡන්දය භාවිත කළ යුතු බව ජාතික ජන බලවේගයේ නායක, ජනාධිපති අනුර කුමාර දිසානායක පවසයි.
 
-"Children in Sri Lanka never banned the animal. But parliament was banned
+සඳුදා (නොවැම්බර් 11) පිළියන්දල පැවති අවසන් ප්‍රචාරක රැස්වීමේ දී ඔහු මේ අදහස් පළ කළේය.
 
-Leader of the National Power and the National Institute of Jana Sangha should vote on November 14 to change the political culture and build an exemplary parliament.
+''පාර්ලිමේන්තුව ක්ලීන් කරන්න ඕනා. ඇයි? අපරාධකාරයෝ ඉන්න පාර්ලිමේන්තුවක්, දුශිතයෝ ඉන්න පාර්ලිමේන්තුවක්, මිරිස්කුඩු ගේන පාර්ලිමේන්තුවක්? දරුවන්ට කාලයක් බලන්න තහනම් කළා පාර්ලිමේන්තුව. මම අහලා නෑ කවදාවත් දරුවන්ට සත්තු වත්ත තහනම් කළා කියලා. '' යනුවෙන් ඔහු පැවසුවේය.
 
-He was speaking at the final propaganda meeting held on Piliyandala.
+මේ අතර ''L බෝර්ඩ් ආණ්ඩුවයි, L බෝර්ඩ් පාර්ලිමේන්තුවයි එක්ක රටක් දුවන්න පුළුවන් ද?'' යනුවෙන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සිය අවසන් රැලියේ දී ප්‍රශ්න කළේය.
 
-"You have to clean Parliament. Why?Parliament is a parliament with a parliament with the criminals, the universal parliaments, miracles?The parliament was forbidden to children. I have never heard that children have been banned on the animal. "He said.
-
-Meanwhile can a country run a country with the LOOBED government, lboard Parliament, "Ranil Wickremesinghe questioned his final rally.
-
-The video contains views of the President, Ranil Wickremesinghe as well as Sajith Premadasa, Ranjan Ramanayake and Dilith Jayaweera.
+ජනාධිපතිවරයා,  රනිල් වික්‍රමසිංහ මෙන්ම සජිත් ප්‍රේමදාස,  රංජන් රාමනායක සහ දිලිත් ජයවීර පළ කළ අදහස් මේ වීඩියෝවේ අන්තර්ගත වේ.
 
 ◼️
 
 [Data](articles/17851412.json)
-
-[Extended Data](ext_articles/17851412.ext.json)
 
 ---
 
@@ -2349,5 +2233,161 @@ Testing of Talakiriyagama Police Station was inspected to the Trincomalee Police
 [Data](articles/d385aed1.json)
 
 [Extended Data](ext_articles/d385aed1.ext.json)
+
+---
+
+### Sri Lanka to auction Rs132bn in 2028, 2032 bonds on Nov 12
+
+*2024-11-11 13:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-auction-rs132bn-in-2028-2032-bonds-on-nov-12-186849/) · `en`
+
+ECONOMYNEXT – Sri Lanka is offering to sell 85 billion rupees of 2028 and 47.5 billion rupees of 2032 bond at an auction on November 12, the state debt office said.
+
+The 2028 bonds will pay a coupon of 9.00 percent and mature on 1 May 2028.
+
+The 2032 bonds will pay a coupon of 9.00 percent and mature on 1 October 2032
+
+In the secondary market Monday a 15.02.2028 bond was quoted at 11.53/57 percent, dealers said. (Colombo/Nov11/2024)
+
+◼️
+
+[Data](articles/66f30d38.json)
+
+[Extended Data](ext_articles/66f30d38.ext.json)
+
+---
+
+### Petition for Lohan
+
+*2024-11-11 13:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானுக்கு-பிணை-கோரி-மனு/175-346937) · `ta`
+
+Court orders bail hearing for Lohan Ratwatta on 19th regarding unrested car arrest in Mirihana.
+
+🟩
+
+The Court of Appeal has ordered that the bail plea filed on behalf of Lohan Ratwatta, who is being remanded, should be considered on the 19th.
+
+The order was issued today (11) by a session of Justice Nishanga Bandula Karunaratne and Sashi Mahendran.
+
+Lohan Ratwatta has been arrested in connection with the discovery of an unristed car in a house in the Mirihana area.
+
+◼️
+
+[Data](articles/0eaae312.json)
+
+[Extended Data](ext_articles/0eaae312.ext.json)
+
+---
+
+### Petition for Lohan Ratwatta
+
+*2024-11-11 13:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தவுக்கு-பிணை-கோரி-மனு/175-346937) · `ta`
+
+Court orders bail hearing for Lohan Ratwatta on 19th regarding unrested car arrest case.
+
+🟩
+
+The Court of Appeal has ordered that the bail plea filed on behalf of Lohan Ratwatta, who is being remanded, should be considered on the 19th.
+
+The order was issued today (11) by a session of Justice Nishanga Bandula Karunaratne and Sashi Mahendran.
+
+Lohan Ratwatta has been arrested in connection with the discovery of an unristed car in a house in the Mirihana area.
+
+◼️
+
+[Data](articles/88b434ed.json)
+
+[Extended Data](ext_articles/88b434ed.ext.json)
+
+---
+
+### The thumb changing the thumb changing
+
+*2024-11-11 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203132) · `si`
+
+Election Commission Director General Saman Ratnayake announces left-hand voting for 2024 elections. Campaign ends tonight. International observers present. Preliminary work complete by Nov 14.
+
+🟩
+
+The Director General of the Election Commission Saman Ratnayake says that the left hand is used for the left hand deransation of the 2024 election.
+
+Speaking to the media today (11), he explained this.
+
+"In the last presidential election, we were colored to the left-handed. It is true that many of the victims. So this year's election commission has been decided to mark the left hand deransation. "
+
+The Elections Commission says that all the preliminary work required for the general election will be completed on November 14.
+
+The election campaign ends in midnight today (11).
+
+At the General Election of 3 days, 17,140,354 voters are eligible to elect a vote to the Ten Commonwealth.
+
+International observers have also been on the island for the observation process this year.
+
+◼️
+
+[Data](articles/eb39b9ce.json)
+
+[Extended Data](ext_articles/eb39b9ce.ext.json)
+
+---
+
+### Vijitha Katunayake Observation
+
+*2024-11-11 13:26:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-කටුනායක-හදිසි-නිරීක්ෂණයකට/11-412967) · `si`
+
+Minister Vijitha Herath visits Katunayake airport late night. Meets officials, discusses issues. Announces bonuses for staff. Plans special communication unit for flight delays. Instructs new security officers to wear three uniforms. Orders higher management to address worker problems.
+
+🟩
+
+Minister of Transport, Highways, Ports and Civil Aviation Vijitha Herath arrived in the Katunayake airport at 11/10 pm on the Katunayake airport.
+
+Airport and Aviation Company Chairman Harsha D.Wbewickrama, Vice Chairman Cyril Wanigod and Airport Cyril Wanigod and Airports were also present.
+
+The Minister and their group went to various departments, speaking to various departments, and discussed their problems, identifying their problems, identifying their problems.
+
+The airport employees were paid to the bonus of Rs.
+
+In addition, a special communication unit was being taken up in 24 hours to inform passengers on the delay in SriLankan Airlines.
+
+The newly recruited officers as the airport security officers in 2024 had been instructed to provide three uniforms with immediate effect.
+
+The Minister also instructed the higher management of the airport to take steps to provide solutions to the problems faced by airport workers.
+
+◼️
+
+[Data](articles/a581df84.json)
+
+[Extended Data](ext_articles/a581df84.ext.json)
+
+---
+
+### The husband has escaped from the house to kill young people
+
+*2024-11-11 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203131) · `si`
+
+Husband kills wife over dispute. Woman's body found in house. Police investigating. Husband flees. Identity card recovered. Post-mortem ordered.
+
+🟩
+
+Mundalama has been killed and one mother of the country has been killed and found the bodies in the house.
+
+The victim is one of the 27-year-old resident of the Mahamyaliya.
+
+The police suspect that she had been killed by a severe attack on her husband after a dispute between the woman and her husband.
+
+However, the woman had seen her grandmother, however, and that the woman had already died.
+
+Investigations have stated that the woman's head has been a worst attack and the hair has been harsh.
+
+However, the husband of the deceased woman who is suspected of the murder has fled the police, police said.
+
+The identity card of the deceased woman has been taken and that police teams have been deployed to arrest him in connection with the murder.
+
+Puttalam Acting Magistrate Indika Tennakoon has ordered the police to direct the body for the Puttalam Base Hospital for post mortem.
+
+◼️
+
+[Data](articles/b95acf4e.json)
+
+[Extended Data](ext_articles/b95acf4e.ext.json)
 
 ---

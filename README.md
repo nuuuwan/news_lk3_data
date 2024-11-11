@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 23:41:30**
+As of **2024-11-12 00:00:59**
 
 ## Newspaper Stats
 
-*Scraped **54,280** Articles*
+*Scraped **54,281** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
-tamilmirrorlk | 7,584
+tamilmirrorlk | 7,585
 virakesarilk | 8,799
 adaderanasinhalalk | 9,472
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,272 (100.0%) of 54,280 articles have been extended.
+54,272 (100.0%) of 54,281 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### தலைமன்னார் - கொழும்பு ரயில் நாளை மீண்டும் ஆரம்பம்
+
+*2024-11-11 23:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைமன்னார்-கொழும்பு-ரயில்-நாளை-மீண்டும்-ஆரம்பம்/175-346967) · `ta`
+
+இதன்படி மஹவ மற்றும் அநுராதபுரம் வரையிலான ரயில் வீதி அபிவிருத்தி காரணமாக , இடைநிறுத்தப்பட்ட  கொழும்பு கோட்டை மற்றும் தலைமன்னார் இடையிலான ரயில் சேவையானது நாளை (12) மீண்டும் ஆரம்பிக்கப்பட உள்ளது. R
+
+◼️
+
+[Data](articles/51d61ebb.json)
+
+---
 
 ### Sri Lanka President reveals IMF review, budget timelines
 
@@ -2355,21 +2367,5 @@ Victory may have many fathers, but defeat isn’t always an orphan. Just 24 hour
 [Data](articles/9a0629c5.json)
 
 [Extended Data](ext_articles/9a0629c5.ext.json)
-
----
-
-### Trump’s greatest comeback the greatest setback for the USA
-
-*2024-11-11 11:51:00* · [`islandlk`](http://island.lk/trumps-greatest-comeback-the-greatest-setback-for-the-usa/) · `en`
-
-Last Tuesday, one of the most consequential elections in the history of the United States was concluded, with the people deciding, according to the constitution of the nation, to abandon the ideological system of governance defined by that very constitution. The living ideology of democracy, in the words of President Abraham Lincoln, of a “government of the people, by the people and for the people” has been replaced by an authoritarian kleptocracy.
-
-The archaic Constitution of the United States written over two centuries ago will be updated, replaced by a document created by the conservative Heritage Foundation, Project 2025 – Mandate for Leadership, to reflect the traditions and ideology of pre-World War II Germany. The Good Old Days of Jim Crow and Segregation.
-
-...
-
-[Data](articles/2ff5bfad.json)
-
-[Extended Data](ext_articles/2ff5bfad.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 20:14:41**
+As of **2024-11-11 20:25:09**
 
 ## Newspaper Stats
 
@@ -26,29 +26,41 @@ adaderanasinhalalk | 9,466
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,253 (100.0%) of 54,255 articles have been extended.
+54,255 (100.0%) of 54,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### සුජීව සේනසිංහ V8 රථය CIDයට භාරදෙයි
+### Sujeewa Senasinghe V8 handed over to CID
 
 *2024-11-11 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203147) · `si`
 
-හිටපු රාජ්‍ය අමාත්‍ය සුජීව සේමසිංහ මහතා සතුව තිබූ ප්‍රශ්නගත V8 රථය අද (11) සවස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී ඇති බව වාර්තා වෙයි.
+Former State Minister Sujeewa Senasinghe's car handed to CID after court order. Vehicle linked to fatal 2011 crash. Probe ongoing.
 
-එම රථය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස කොටුව මහේස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
+🟩
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණය හමුවේ කියා සිටියේ හිටපු රාජ්‍ය අමාත්‍යවරයා සන්තකයේ පවතින්නේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජේ ශ්‍රී රංගා මහතා සතුව තිබූ, රිය අනතුරකින් මනුෂ්‍ය මරණයක් සිදුකිරීමකට අදාළව නඩු භාණ්ඩයක් වූ මෝටර් රථය බවයි.
+The question of former State Minister Sujeewa Semasinghe has been handed over to the CID today (11).
 
-නීතිවිරෝධීව එකලස් කරන ලද ටොයෝටා V8 සුඛෝපභෝගී ජීප් රථයක් ඇති බවට ලද තොරතුරකට අනුව වලාන දූෂණ මර්ධන ප්‍රහාරක ඒකකය ඉකුත් නොවැම්බර් 02 වැනිදා හිටපු රාජ්‍ය අමාත්‍ය සුජීව සේනසිංහ මහතාගේ නිවස පරික්ෂා කළද එහිදී සැකකටයුතු මෝටර් රථය හමුවී තිබුණේ නැත.
+The Fort Magistrate's Court today ordered the Criminal Investigation Department to be taken into court.
 
-අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහ මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිලධාරින් සුජීව සේනසිංහ මහතාට අයත් කොල්ලුපිටියේ නිවසක් පරීක්ෂා කළේ ප්‍රශ්නගත සුඛෝපභෝගී මෝටර් රථය එම නිවසේ ගාල්කර ඇති බවට තොරතුරු ලැබී තිබු තොරතුරු අනුව ය.
+The Criminal Investigations Department stated that the former state minister is in possession of the car accident in a car accident.
+
+The Wall Minister Sujeewa Senasinghe was found on November 2, but the suspect's car was found on November 2.
+
+The Criminal Investigations Department and Officers of the Department of Motor Traffic were inspected of the Colpetty of Sujeewa Senasinghe, who had the luxury car park in the house.
+
+The Fort Magistrate Karuja Lakmali ordered the Government Analyst and called for a report to the Government Analyst.
+
+Sujeewa Senasinghe presented the questionable car in terms of that order.
+
+The Criminal Investigations Department Public Complaints Investigation Division (CPT) reported the progress of investigations into the Fort Magistrate's Court today.
 
 ...
 
 [Data](articles/ec67df97.json)
+
+[Extended Data](ext_articles/ec67df97.ext.json)
 
 ---
 
@@ -579,6 +591,8 @@ The Deputy Postmaster General further stated that the distribution process requi
 ...
 
 [Data](articles/ea8a5614.json)
+
+[Extended Data](ext_articles/ea8a5614.ext.json)
 
 ---
 

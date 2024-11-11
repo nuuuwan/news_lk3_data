@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 20:25:09**
+As of **2024-11-11 21:11:14**
 
 ## Newspaper Stats
 
-*Scraped **54,255** Articles*
+*Scraped **54,260** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 3,244
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,073
-adaderanalk | 6,477
-tamilmirrorlk | 7,581
+adalk | 5,074
+adaderanalk | 6,478
+tamilmirrorlk | 7,582
 virakesarilk | 8,799
-adaderanasinhalalk | 9,466
+adaderanasinhalalk | 9,468
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,255 (100.0%) of 54,255 articles have been extended.
+54,257 (100.0%) of 54,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන දෙන්න රජයේ අවධානය
+
+*2024-11-11 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203149) · `si`
+
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් ණයගැතිභාවය නිසා මුහුණ දෙන ගැටලු පිළිබඳව සහ එම කර්මාන්තවලට සහන ලබා දීම පිළිබඳ වූ සාකච්ඡාවක් අද (11) ජනාධිපති ලේකම් කාර්යාලයේදී පවත්වා තිබේ.
+
+ඒ මූල්‍ය සහ ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් ජී.එන්.ආර්.ඩී. අපොන්සු මහතාගේ ප්‍රධානත්වයෙනි.
+
+මේ සඳහා ශ්‍රී ලංකා බැංකු සංගමය, මුදල් අමාත්‍යංශය හා ශ්‍රී ලංකා මහා බැංකුවේ නිලධාරීන් සහභාගී වී තිබේ.
+
+ආර්ථිකයේ නිෂ්පාදන හැකියාව වර්ධනය කිරීම සඳහා බැංකු අංශයට ලබා දිය හැකි සහායද, මේ වන විට සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් ලබා ගෙන ඇති ණය සම්බන්ධවද මෙම සාකච්ඡාවේදී දීර්ඝ ලෙස සාකච්ඡා වී ඇත.
+
+එහිදී සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් බැංකුවලින් ලබා ගත් ණය සම්බන්ධ වාර්තාවක් සකස් කිරීමටද මෙම සාකච්ඡාවේදී තීරණය වී තිබේ.
+
+මේ වන විට බැංකු විසින් පරාටේ නීතිය යටතේ සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන්ට ලබා දී තිබෙන ණය නැවත අය කර ගැනීම තාවකාලික අත්හිටුවා ඇති අතර ඒ සම්බන්ධයෙන් ඉදිරි පියවර ගැනීම සම්බන්ධයෙන්ද මෙහිදී සාකච්ඡා වූ බව ජනාධිපති මාධ්‍ය අංශය නිකුත් කළ නිවේදනයේ සඳහන් වේ.
+
+◼️
+
+[Data](articles/a2685cd0.json)
+
+---
+
+### Court orders to expedite tax probes on Piumi Hansamali and Aura Lanka chairman
+
+*2024-11-11 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103338/court-orders-to-expedite-tax-probes-on-piumi-hansamali-and-aura-lanka-chairman) · `en`
+
+Colombo Additional Magistrate Bandara Ilangasinghe has ordered the Inland Revenue Department today (11) to expedite its investigations into actress Piumi Hansamali and Aura Lanka Chairman Viranjith Thambugala.
+
+The directive came as the case filed by the Inland Revenue Department under Section 190 of the Inland Revenue Act was brought before the court.
+
+The investigation seeks to determine if any offenses under section 190 of the Inland Revenue Act were committed by the two individuals in question.
+
+The counsel representing the Department of Revenue informed the court that a search warrant had been issued to examine documents at the residences of both individuals, but they were not present at their homes during the searches.
+
+◼️
+
+[Data](articles/aa2a1d74.json)
+
+---
+
+### We need this country into a positive situation - Dilith
+
+*2024-11-11 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203148) · `si`
+
+Dilith Jayarawara addresses debt crisis, vows to support president. Aims to improve country's situation through political development and anti-corruption efforts. Promises strategic programs to overcome loan issues and increase productivity.
+
+🟩
+
+Heads of the Norrological Leader Dilith Jayarawara says he is ready to address the debt crisis in the country and to support the president.
+
+"We want to bring this country to a positive situation. That is why the ovenoms are coming forward. The political force of people we are developed. So we want to keep this nation to motivate this nation, to go up, and to get rid of the people, and we can't burn the people and the mind of these people, a wrath, hypocrisy.. This is not a politician politician.
+
+When we eliminate corruption, we need to develop this country. That is why this is a developed party, not the Nibbana Team of Social Media. The vote dear people went to the camp, who believed in the camp, and trusted our nationality, and he was angry. Come on this side now. Become part of the journey. But we continue to praise Anura Kumara's leg.
+
+...
+
+[Data](articles/bb0d226f.json)
+
+[Extended Data](ext_articles/bb0d226f.ext.json)
+
+---
+
+### "Tamil translation was given to the Sinhalese"
+
+*2024-11-11 20:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிங்களவர்களுக்கு-தமிழ்-மொழிபெயர்ப்பு-வழங்கப்பட்டது/175-346951) · `ta`
+
+Sinhalese politician accused of bringing buses to Tamil area for rally. Accused of providing Tamil translation to Sinhalese audience. Criticized for high transportation costs and targeting specific region.
+
+🟩
+
+Former Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has accused President Anuragumara Dissanayake of brought thousands of buses to Jaffna last evening for participating in a political rally of the president.
+
+“For some strange reasons, President Anuragumara Dissanayake brought a few thousand buses to Jaffna yesterday evening and addressed them here. Instead of going to their districts.. If you do so, the cost of travel will be low.
+
+In addition, the Tamil translation of his speech was given to the Sinhala people and is a novel, ”he said in a post on his X site.
+
+◼️
+
+[Data](articles/9756288c.json)
+
+[Extended Data](ext_articles/9756288c.ext.json)
+
+---
 
 ### Sujeewa Senasinghe V8 handed over to CID
 
@@ -213,6 +297,20 @@ The Officer-in-Charge (OIC) of the Kochchikade Police Station has been arrested 
 [Data](articles/ba9ac995.json)
 
 [Extended Data](ext_articles/ba9ac995.ext.json)
+
+---
+
+### පියුමි හා විරාජ් ආදායම් බදු නෙගෙවීම ගැන නඩුවක්
+
+*2024-11-11 18:16:00* · [`adalk`](https://www.ada.lk/breaking_news/පියුමි-හා-විරාජ්-ආදායම්-බදු-නෙගෙවීම-ගැන-නඩුවක්/11-412979) · `si`
+
+උපයාගත් ආකාරයේ හෙළි කළ නොහැකි අන්දමේ විශාල වත්කම් ප්‍රමාණයක් තමන් සතු කරගෙන ඇතැයි කියන අවුරා ලංකා සමාගමේ සභාපති විරාජ් තාඹුගල නමැත්තා සහ කෙටිකලකින් රුපියල් කෝටි ගණනක් මුදල් ඉපයූයේ යැයි කියන පියුමි හංසමාලි නමැත්තිය රජයට ආදායම් බදු නොගෙවීම සම්බන්ධයෙන් කරන විමර්ශනවල ප්‍රගතිය වහාම අධිකරණයට වාර්තා කරන ලෙස කොළඹ අතිරේක මහේස්ත්‍රාත් බණ්ඩාර ඉළංගසිංහ මහතා දේශීය ආදායම් කොමසාරිස්වරයාට අද (11දා) නියෝග කළේය.
+
+තාඹුගල සහ හංසමාලී නමැති අය බදු පරිපාලනයට බාධා කර අපරාධමය වරදක් කර ඇති බවට චෝදනා කරමින් දේශීය ආදායම් කොමසාරිස්වරයා විසින් විත්තිකරුවන්ට එරෙහිව පැවරු නඩු දෙක කැඳවූ අවස්ථාවේදී ඉදිරිපත් වු කරුණු සලකා බැලීමෙන් පසු මහේස්ත්‍රාත්වරයා එලෙස නියම කළේය.නඩු කැඳවූ අවස්ථාවේදී පැමිණිල්ල වෙනුවෙන් පෙනී සිටි දේශීය ආදායම් කොමසාරිස් දෙපාර්තමේන්තුවේ නිලධාරීන් විමර්ශන ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කරමින් 2017 අංක 24 දරන දේශීය ආදායම් පනතේ 190 වගන්තිය යටතේ කළ ඉල්ලීමක් පිළිගනිමින් මහේස්ත්‍රාත්වරයා එලෙස නියම කළේය.
+
+...
+
+[Data](articles/3a8c861a.json)
 
 ---
 
@@ -2239,141 +2337,5 @@ The first day of Parliament’s inaugural session holds particular significance 
 [Data](articles/b894840a.json)
 
 [Extended Data](ext_articles/b894840a.ext.json)
-
----
-
-### First day of the new Parliament
-
-*2024-11-11 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203127) · `si`
-
-Here's a 200-character summary:
-
-
-
-New Parliament inaugurated Nov 21. 225 MPs elected. First day: Speaker elected through secret ballot. Speaker takes oath, thanks God. Other roles filled. Parliament adjourns after inaugural activities. President may suspend Parliament temporarily.
-
-🟩
-
-The Parliamentary Communications Unit stated that the first day of the new Parliament has been played on November 21st.
-
-The general elections to be elected for the 10th parliament will be gone on November 14.
-
-There are 225 MPs who are elected to Parliament with 196 electoral MPs and 29 national lists.
-
-The announcement issued by the Parliamentary Communication Unit is issued on the first day of the first session of the Parliament.
-
-The main responsibility of the first day is to be assigned to the Secretary General of Parliament. Members of Parliament there is no seating order for MPs on the first day and MPs have the opportunity to sit on a pretext. After the deposition of the Mace is buried in the Chamber, the General Secretary of the President presents the first task on the date on the date on the day.
-
-...
-
-[Data](articles/ee650e90.json)
-
-[Extended Data](ext_articles/ee650e90.ext.json)
-
----
-
-### ’’சிறுபான்மை எம்.பிக்களை இணைக்க NPP தயார்’’
-
-*2024-11-11 11:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுபான்மை-எம்-பிக்களை-இணைக்க-NPP-தயார்/175-346929) · `ta`
-
-Here's a summary of the article in approximately 200 characters:
-
-
-
-National People's Power (NPP) aims to win majority seats in upcoming Sri Lanka parliamentary elections. They plan to form a national unity government including Tamil and Muslim MPs. NPP leader says this will help achieve true national unity despite opposition claims of declining popularity.
-
-🟩
-
-Minister Vijitha Herath Daily told the Mirror yesterday evening that the National People's Power (NPP) hopes to win a majority seat in the upcoming parliamentary elections on Thursday, but will set up a national united government with MPs representing Tamil and Muslim communities to achieve nationality.
-
-நவம்பர் 14ஆம் திகதி நடைபெறவுள்ள பாராளுமன்றத் தேர்தலுக்கு சில நாட்களுக்கு முன்னர், புதிய பாராளுமன்றத்தில் அதிக ஆசனங்களை வெல்வதில் NPP 'மிகவும் நம்பிக்கையுடன்' இருப்பதாகவும் ஆனால் அரசியல் சூழலை வலுப்படுத்துவதற்காக முஸ்லிம்கள் மற்றும் தமிழர்களைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்களை இணைக்க தமது கட்சி தயாராக இருப்பதாக ஹேரத் கூறினார்.
-
-எவ்வாறாயினும், தேசிய ஐக்கிய அரசாங்கத்திற்கான இவ் அழைப்பு இச் சமூகங்களை பிரதிநிதித்துவப்படுத்தும் குறித்த பாராளுமன்ற உறுப்பினர்களுக்கு மட்டுமே மட்டுப்படுத்தப்படுமே தவிர ஐக்கிய மக்கள் ச்கதி (SJB) மற்றும் ஐக்கிய தேசிய கட்சியை சேர்ந்தவரடகளுக்கு (UNP) அல்ல என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/b02ce767.json)
-
-[Extended Data](ext_articles/b02ce767.ext.json)
-
----
-
-### We will abandon old politics and come to new politics.
-
-*2024-11-11 11:04:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-அரசியலை-கைவிடுவோம்-புதிய-அரசியலுக்கு-வருவோம்/175-346927) · `ta`
-
-Here's a 200-character summary:
-
-
-
-National People's Power wins presidential election, overcoming challenges in Jaffna. Campaign focuses on unity and development, criticizing old politics. Party emphasizes grassroots support and equal representation for all communities.
-
-🟩
-
-It was said in the north that two others would win the last presidential election. The media also said that. The news that we win does not go properly in the north. After the election, our office began to overflow. Thousands of people gather today, President Anura Kumara Dissanayake said.
-
-The main election campaign of the National People's Power was held on Sunday (10) in front of St. Anthony's Church, Bashayoor, led by Anura Kumara Dissanayake.
-
-Did former President Ranil Wickremesinghe come to Jaffna for the parliamentary election campaign?Former Opposition Leader Sajith Premadasa came to Jaffna?
-
-We came. We do not need Jaffna to win the election. Jaffna needs to build a war -free country and build this country.
-
-In the last presidential election received 27000 votes. It is very small compared to other districts. But it is very big for us. Our news is not going to the Tamil people. The south did not work in the north as much as we worked.
-
-...
-
-[Data](articles/76e30b49.json)
-
-[Extended Data](ext_articles/76e30b49.ext.json)
-
----
-
-### Kamal Haasan renounced the adjectives
-
-*2024-11-11 10:58:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அடைமொழிகள்-துறந்தார்-கமல்ஹாசன்/54-346926) · `ta`
-
-Kamal Haasan renounces titles, emphasizes unity in cinema. Actor-leader appeals to fans, media, and public to use "Kamal" instead of honorifics. Emphasizes art over individual fame.
-
-🟩
-
-Kamal Haasan, the actor and the leader of the People's Justice, has suddenly announced that he will abandon the words, including the world hero.
-
-Moreover, the cinema department, journalists, parties, politicians and Indian people have appealed to all the people of Kamal Haasan.
-
-In a statement shared on his X -social network today, he said:. I am delighted with such compliments, accepted by fellow artists and fans.. I'm flexible with this love of your. I have no gratitude on your love.
-
-Cinemac art, bigger than any individual. I am a student who wants to learn more and more in that art. Like other arts, cinema is for everyone;Made by all. Cinema is formed with talented artists, technicians and good fans.
-
-My deep hope is that the artist is not bigger than the art. It is advisable to me that the learned is the size of the hand, and the persistent predecessor is a great man.
-
-...
-
-[Data](articles/6b15326d.json)
-
-[Extended Data](ext_articles/6b15326d.ext.json)
-
----
-
-### Rohitha tears in the crowd
-
-*2024-11-11 10:50:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூட்டத்தில்-கண்ணீர்-விட்ட-ரோஹித/175-346924) · `ta`
-
-Former Minister Rohitha Abeygunawardena tearfully addressed supporters in Kalutara, vowing to remain in politics despite losing his position. He thanked the public and promised continued service as an opposition member.
-
-🟩
-
-Former Minister Rohitha Abeygunawardena has been tears during a election meeting held in Kalutara on Sunday afternoon.
-
-“The people here know that Rohitha Abeygunawardena will not be a minister for voting for the case cylinder and No. 11. They also know that we will not rule. I come here and pay thanksgiving. ”The former minister was passionate about tears.
-
-“I won't ask people whether you voted for me. I will not see in private. I was with people. And I will continue to be with you as a member of the opposition.
-
-Fish should have water and weapon for a soldier.  அது போல அரசியல்வாதிக்கு மக்கள் தேவை. I am sure you will send me to parliament even if there is no government. I will not leave politics. ”The former minister has said.
-
-◼️
-
-[Data](articles/c0d72458.json)
-
-[Extended Data](ext_articles/c0d72458.ext.json)
 
 ---

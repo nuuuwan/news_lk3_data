@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 12:25:58**
+As of **2024-11-11 12:40:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,448
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,168 (100.0%) of 54,169 articles have been extended.
+54,169 (100.0%) of 54,169 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,29 +48,35 @@ Senior public officials have often to act as buffers between ministers, other im
 
 ---
 
-### හයිටි අගමැති ව ඉවත් කෙරේ
+### Haitian prime minister leaves
 
 *2024-11-11 12:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203129) · `si`
 
-හයිටි අග්‍රාමාත්‍ය ගැරී කොනීල් ව එම ධුරයෙන් ඉවත් කිරීමට එරට පාලක කවුන්සිලය සියවර ගෙන තිබේ.
+Haiti's PM resigns amid unrest. UN official replaces him. New leader faces challenges restoring stability ahead of elections. International community watches closely.
 
-එම කවුන්සිලයේ සාමාජිකයින් 9 දෙනාගෙන් 8 දෙනෙකුගේ අත්සන් සහිතව ඒ සඳහා නියෝගයක් නිකුත්කර තිබුණි.
+🟩
 
-කොනීල් වෙනුවට ප්‍රකට ව්‍යාපාරිකයෙක් වන හයිටි සෙනෙට් අපේක්ෂකයෙක් වන ඇලික්ස් ඩිඩියර් ව පත්කර ඇත.
+The ruling Council of Haitian Prime Minister has taken away the ruling Council.
 
-එක්සත් ජාතීන් ගේ සංවිධානයේ හිටපු නිලධාරියෙක් වන කොනීල් ව හයිටියේ අගමැති ලෙස පත්කළේ එරට ආරක්ෂක තත්ත්වය යථා තත්ත්වයකට පත්කිරීමේ අරමුණින් නි.
+Eight of the nine members of the council have issued an order with the signatures.
 
-එරට වීථි ගැටුම් සහ විවිධ සන්නද්ධ කල්ලි අතර ඇතිවූ ගැටුම් ව්‍යාප්ත වීම හේතුවෙන් ආරක්ෂාව සම්බන්ධයෙන් මතුවූ ගැටලු විසඳීමේ අරමුණකින් බව ජාත්‍යන්තර මාධ්‍ය පැවසීය.
+Alani Senate Candidity, a well-known businessman of the constitute, has been appointed.
 
-ඒ ඔස්සේ 2016ට පසු එරට ජනාධිපතිවරණය පැවැත්වීම සඳහා සුදුසු පරිසරය නිර්මාණය කිරීම ඔහුට පැවරුනු ප්‍රධානතම වගකීමකි.
+The former officer of the United Nations was appointed Prime Minister of Haiti to restore the security situation of the country.
 
-මේ අතර කොනීල් පවසන්නේ තමාව එම ධුරයෙන් අස්කිරීම නීතිවිරෝධී බවයි.
+International media said that the expansion between conflict between the country's streets and conflicts between the various armed groups, the international media said.
 
-ඔහු පවසන්නේ එමගින් හයිටි යේ අනාගතය තවත් ගැටලුකාරී වනු ඇති බවයි.
+It is a major responsibility to create a suitable environment for the presidential election after 2016.
+
+Meanwhile, Connal says he is illegal to rid of him.
+
+He says that the future of Haiti will be another problem.
 
 ◼️
 
 [Data](articles/79c64b96.json)
+
+[Extended Data](ext_articles/79c64b96.ext.json)
 
 ---
 

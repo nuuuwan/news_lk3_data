@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 11:41:34**
+As of **2024-11-11 12:00:26**
 
 ## Newspaper Stats
 
-*Scraped **54,154** Articles*
+*Scraped **54,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,162 @@ dbsjeyarajcom | 422
 bbccomsinhala | 551
 colombotelegraphcom | 553
 islandlk | 3,239
-economynextcom | 3,279
+economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,057
+adalk | 5,060
 adaderanalk | 6,457
-tamilmirrorlk | 7,563
+tamilmirrorlk | 7,569
 virakesarilk | 8,781
-adaderanasinhalalk | 9,446
+adaderanasinhalalk | 9,447
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,154 (100.0%) of 54,154 articles have been extended.
+54,160 (100.0%) of 54,167 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### சிறுவர்களுக்கு இடையில் மீண்டும் வைரஸ் காய்ச்சல்
+
+*2024-11-11 11:36:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்கு-இடையில்-மீண்டும்-வைரஸ்-காய்ச்சல்/175-346936) · `ta`
+
+சிறுவர்களுக்கு மத்தியில் காய்ச்சல் அதிகரித்து வருவதாக ரிட்ஜ்வே ஆர்யா சிறுவர் வைத்தியசாலையின் விசேட வைத்திய நிபுணர் டொக்டர் தீபால் பெரேரா தெரிவித்துள்ளார்.
+
+ஏறக்குறைய மூன்று நாட்களுக்கு காய்ச்சல் நீடித்தால் அது தொடர்பில் அதிக கவனம் செலுத்தப்பட வேண்டுமென அவர் கூறியுள்ளார்.
+
+“அண்மைய நாட்களாக குழந்தைகளுக்கு இடையில் வைரஸ் காய்ச்சல் அதிகரித்துள்ளது. இது இருமல் மற்றும் சளியுடன் கூடிய காய்ச்சலாகும். மேலும், டெங்கு நோயாளிகளின் எண்ணிக்கையும் அதிகரித்து வருகிறது.
+
+எனவே இருமல், சளி, காய்ச்சல், உடல்வலி, வாந்தி இருந்தால் வைரஸ் காய்ச்சலுக்கான அறிகுறியாகும். எனவே, மூன்று நாட்களுக்கு மேல் காய்ச்சல் இருந்தால், உரிய இரத்தப் பரிசோதனை செய்துகொள்ளுங்கள்.” என அவர் அறிவுறுத்தியுள்ளார்.
+
+◼️
+
+[Data](articles/56b9ca62.json)
+
+---
+
+### லேக்ஹவுஸ் கட்டிடத்தில் கார் மோதி விபத்து
+
+*2024-11-11 11:36:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லேக்ஹவுஸ்-கட்டிடத்தில்-கார்-மோதி-விபத்து/175-346935) · `ta`
+
+கொழும்பு லேக்ஹவுஸ் கட்டிடத்தின் நுழைவாயிலுக்கு அருகில் கார் ஒன்று விபத்துக்குள்ளானதில் சொத்துக்களுக்கு பாரிய சேதம் ஏற்பட்டுள்ளது.
+
+இன்று அதிகாலை கட்டிடத்தின் நுழைவாயிலுக்கு அருகில் உள்ள சீமெந்து சுவரில் கார் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+
+சம்பவத்தில் சாரதி காயமின்றி உயிர்தப்பியுள்ளதாக தெரிவிக்கப்படுகின்றது. சம்பவம் தொடர்பில் கொழும்பு – கோட்டை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/773e1feb.json)
+
+---
+
+### Petition for Lohan Ratwatte
+
+*2024-11-11 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203128) · `si`
+
+Former State Minister Lohan Ratwatte released on bail after court hearing over unregistered vehicle case.
+
+🟩
+
+Former State Minister Lohan Ratwatte, who was remanded in the Mirihana area, was presented to the dissemination of unregistered car.
+
+The Court of Justice Nissanka Bandula Karunaratne and Shashi Mahendran were released after considering the petition.
+
+The Court informed the petitioner to issue notice to the respondents, including the respondents including the IGP.
+
+◼️
+
+[Data](articles/3e8543a8.json)
+
+[Extended Data](ext_articles/3e8543a8.ext.json)
+
+---
+
+### புதிய பாராளுமன்றத்தின் முதல் நாள்
+
+*2024-11-11 11:32:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-பாராளுமன்றத்தின்-முதல்-நாள்/175-346934) · `ta`
+
+புதிய பாராளுமன்றத்தின் முதல் நாள், நவம்பர் 21 ஆம் திகதி என பாராளுமன்ற தொடர்பாடல் பிரிவு தெரிவித்துள்ளது.
+
+10ஆவது பாராளுமன்றத்துக்கான உறுப்பினர்களைத் தெரிவு செய்வதற்கான பொதுத் தேர்தல் நவம்பர் 14ஆம் திகதி நடைபெறவுள்ளது.
+
+மக்களால் தெரிவு செய்யப்பட்ட 196 பாராளுமன்ற உறுப்பினர்கள், தேசிய பட்டியலிலிருந்து 29 பாராளுமன்ற உறுப்பினர்கள் என, பாராளுமன்றத்துக்கு  225 உறுப்பினர்கள் தெரிவு செய்யப்படவுள்ளனர்.
+
+நாடாளுமன்றத்தின் முதல் அமர்வின் முதல் நாளில் பல சிறப்பு நடவடிக்கைகள் மேற்கொள்ளப்பட உள்ளதாக நாடாளுமன்ற தகவல் தொடர்புப் பிரிவு அறிவித்துள்ளது.
+
+முதல் நாளில், அவையின் முக்கியப் பொறுப்புகள், பாராளுமன்ற பொதுச் செயலாளருக்கு ஒதுக்கப்படும். முதல் நாளில், எம்.பி.,க்களுக்கு இருக்கை ஒதுக்கப்பாது என்பதால், எம்.பி.,க்கள், தாங்கள் விரும்பும் எந்த இருக்கையில் அமரவும் வாய்ப்பு உள்ளது.
+
+◼️
+
+[Data](articles/592e9d93.json)
+
+---
+
+### The responsibility of the defeat should be responsible for all the batsmen, including I
+
+*2024-11-11 11:30:26* · [`adalk`](https://www.ada.lk/sports/පරාජයේ-වගකීම-මම-ඇතුළුව-පිතිකරුවන්-සියලු-දෙනා-වගකීම-භාර-ගන්න-ඕනී/9-412964) · `si`
+
+Sri Lanka cricket captain Charith takes blame for team's loss against New Zealand in T20 match. He attributes defeat to poor batting performance, including his own. Team failed to surpass NZ's score of 108/7 in 19 overs.
+
+🟩
+
+The leader of the Sri Lanka factor Charith said that he should take responsibility for the defeat of the second T20 match with New Zealand.
+
+He said this to the media yesterday (10) after the match.
+
+"I think it's hard to look forward to bowling more than a group. It is a good thing to be limited to any wicket and 108. I see all the batsmen, including I want to take responsibility for the defeat. "
+
+Batting first, New Zealand scored 108 runs for the loss of 19 overs.
+
+In reply, the Sri Lankan team was only 103 runs for the loss of all 19 overs.
+
+◼️
+
+[Data](articles/e936af7a.json)
+
+[Extended Data](ext_articles/e936af7a.ext.json)
+
+---
+
+### ”ரணில் இருந்திருந்தால் இப்போது கிடைத்திருக்கும்”
+
+*2024-11-11 11:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-இருந்திருந்தால்-இப்போது-கிடைத்திருக்கும்/175-346932) · `ta`
+
+ரணில் விக்ரமசிங்க ஜனாதிபதியாக இருந்திருந்தால் சர்வதேச நாணய நிதியத்தின் மூன்றாவது கடனுதவி தற்போது கிடைத்திருக்கும் என முன்னாள் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+
+காலியில் நேற்று இடம்பெற்ற மக்கள் சந்திப்பில் கலந்து கொண்டு உரையாற்றும் போதே, வரவு செலவுத் திட்டம் ஒத்திவைக்கப்பட்டுள்ளதாலும், பொதுத் தேர்தலை நடத்துவதற்கு தற்போதைய அரசாங்கம் எடுத்த தீர்மானத்தினாலும், தவணை காலவரையறையின்றி ஒத்திவைக்கப்பட்டுள்ளதாக தெரிவித்தார்.
+
+"தற்போதைய அரசாங்கம் புதிய அரசியலமைப்பை அறிமுகப்படுத்த முயற்சிக்கும், மக்களின் கருத்துக் கேட்காமல் கொண்டு வரப்படும் இந்த அரசியலமைப்பு இன, மத நிலையை மாற்ற முயற்சிக்குமா என்பது சந்தேகமே" என்றார்.
+
+“தேர்தல் சூடு நாளுக்கு நாள் அதிகரித்து வருகிறது. நம்பிக்கையோடு இருந்த மக்கள்,பொய்களால் ஏமாற்றப் பட்ட மக்கள்,அதை புரிந்துகொண்டு, மெல்ல மெல்ல தமது சொந்த சித்தாந்தங்கள்  நம்பிக்கைகளை மாற்றுகின்றனர்.இவர்கள் சொன்னது பொய் என்பது பலருக்கும் புரிகிறது. உகாண்டாவில் பணம் மறைத்து வைக்கப்படவில்லை என்பதையும், 150 ரூபாய்க்கு எரிபொருள் வாங்க முடியாது என்பதையும் மக்கள் புரிந்து கொண்டுள்ளனர்.
+
+...
+
+[Data](articles/e9d15c28.json)
+
+---
+
+### விருப்பு வாக்குகளை வழங்க வேண்டும் என்பது இனவாதம் அல்ல
+
+*2024-11-11 11:24:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்குகளை-வழங்க-வேண்டும்-என்பது-இனவாதம்-அல்ல/175-346931) · `ta`
+
+அது இன பிரதிநிதித்துவத்தை உறுதி செய்யும் இன உரிமை ஆகும்.  உண்மையில், நடைமுறையில் உள்ள தேர்தல் முறையின் விருப்பு வாக்கு என்ற முறைமை அதைதான் வலியுறுத்துகிறது.
+
+அதிலும் மிக குறிப்பாக தமிழர்கள் சிறுபான்மையாக வாழும் கொழும்பு, கேகாலை, இரத்தினபுரி,கண்டி, கம்பஹா, பதுளை ஆகிய  மாவட்டங்களில் தமிழ் வாக்காளர்கள் தமது விருப்பு வாக்குகளை தமிழ் வேட்பாளர்களுக்கு மாத்திரம் வழங்குவது அத்தியாவசியமாகும். இதுவே எமது பிரதிநிதித்துவத்தை பெற்று கொள்ள உள்ள ஒரே வழி. இதைதான் விகிதாசார தேர்தல் முறையும் வலியுறுத்துகிறது என தமிழ் முற்போக்கு கூட்டணி தலைவர் மனோ கணேசன் அறிவித்துள்ளார்.
+
+கொழும்பு கொச்சிக்கடை ஜம்பட்டா வீதியில் ஞாயிற்றுக்கிழமை (10) நடைபெற்ற கூட்டத்தில் உரையாற்றிய ​அவர்:
+
+தமிழர்கள் சிறுபான்மையாக வாழும் கொழும்பு, கேகாலை, இரத்தினபுரி, கண்டி,கம்பஹா, பதுளை ஆகிய  மாவட்டங்களில் தமிழ் வாக்காளர்கள் கடை பிடிக்க வேண்டிய செயன்முறைமையை நான் எளிமையாக விவரிக்க விரும்புகிறேன். முதலில் நமது வாக்காளர்கள், தமது மாவட்டங்ளில் போட்டி இடும்   தமிழ் வேட்பாளர்களில் வெற்றி பெறக்கூடிய அணி எது, அதன் சின்ன்னம் எது என தீர்மானிக்க வேண்டும்.
+
+...
+
+[Data](articles/7f05826b.json)
+
+---
 
 ### First day of the new Parliament
 
@@ -59,6 +197,22 @@ The main responsibility of the first day is to be assigned to the Secretary Gene
 [Data](articles/ee650e90.json)
 
 [Extended Data](ext_articles/ee650e90.ext.json)
+
+---
+
+### ’’சிறுபான்மை எம்.பிக்களை இணைக்க NPP தயார்’’
+
+*2024-11-11 11:06:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுபான்மை-எம்-பிக்களை-இணைக்க-NPP-தயார்/175-346929) · `ta`
+
+தேசிய மக்கள் சக்தி (NPP) வியாழன் அன்று நடைபெறவுள்ள பாராளுமன்றத் தேர்தலில் பெரும்பான்மை ஆசனங்களைக் கைப்பற்றும் என நம்புகிறது, ஆனால் தேசியத்தை அடைவதற்காக தமிழ் மற்றும் முஸ்லிம் சமூகங்களைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்களைக் கொண்ட தேசிய ஐக்கிய அரசாங்கத்தை அமைக்கும் என அமைச்சர் விஜித ஹேரத் டெய்லி மிரருக்கு நேற்று மாலை தெரிவித்தார்.
+
+நவம்பர் 14ஆம் திகதி நடைபெறவுள்ள பாராளுமன்றத் தேர்தலுக்கு சில நாட்களுக்கு முன்னர், புதிய பாராளுமன்றத்தில் அதிக ஆசனங்களை வெல்வதில் NPP 'மிகவும் நம்பிக்கையுடன்' இருப்பதாகவும் ஆனால் அரசியல் சூழலை வலுப்படுத்துவதற்காக முஸ்லிம்கள் மற்றும் தமிழர்களைப் பிரதிநிதித்துவப்படுத்தும் பாராளுமன்ற உறுப்பினர்களை இணைக்க தமது கட்சி தயாராக இருப்பதாக ஹேரத் கூறினார்.
+
+எவ்வாறாயினும், தேசிய ஐக்கிய அரசாங்கத்திற்கான இவ் அழைப்பு இச் சமூகங்களை பிரதிநிதித்துவப்படுத்தும் குறித்த பாராளுமன்ற உறுப்பினர்களுக்கு மட்டுமே மட்டுப்படுத்தப்படுமே தவிர ஐக்கிய மக்கள் ச்கதி (SJB) மற்றும் ஐக்கிய தேசிய கட்சியை சேர்ந்தவரடகளுக்கு (UNP) அல்ல என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/b02ce767.json)
 
 ---
 
@@ -139,6 +293,30 @@ Fish should have water and weapon for a soldier.  அது போல அரச
 [Data](articles/c0d72458.json)
 
 [Extended Data](ext_articles/c0d72458.ext.json)
+
+---
+
+### Sri Lanka pharmaceutical sector beginning to grow after crisis
+
+*2024-11-11 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-pharmaceutical-sector-beginning-to-grow-after-crisis-186833/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s pharmaceutical sales are starting to grow, recovering from a currency crisis in 2022, Hemas Holdings Plc, a group involved in pharma and consumer goods said.
+
+The expansion was driven by lower priced items, including diabetic drugs and vitamins.
+
+“During the quarter under review, the pharmaceutical industry experienced volume growth, for the first time since the economic crisis in the year 2022,” the firm told shareholders in the September quarter review.
+
+“This increase was largely attributed to local manufacturers and low-cost products, particularly in categories such as diabetic drugs and vitamins.
+
+“This trend highlights a shift in consumer preference toward more affordable pharmaceutical options.”
+
+Following the last currency crisis, arguably the worst in the history of Sri Lanka’s soft-pegged central bank, a large section of the population was driven into poverty and were forced to adopt ‘coping mechanisms.’
+
+...
+
+[Data](articles/db6d2b9b.json)
+
+[Extended Data](ext_articles/db6d2b9b.ext.json)
 
 ---
 
@@ -320,6 +498,32 @@ Representatives from international election monitoring organizations, including 
 
 ---
 
+### Sri Lanka rupee opens weaker at 292.60/70 to dollar, bond yields down
+
+*2024-11-11 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-292-60-70-to-dollar-bond-yields-down-186821/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 292.60/70 to the US dollar Monday, dealers said, from 292.50/65 Friday, while bond yields were down.
+
+A bond maturing on 15.12.2026 was quoted at 10.45/55 percent, up from 10.40/55 percent.
+
+A bond maturing on 15.12.2027 was quoted at 11.25/35 percent, down from 11.30/35 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.53/57 percent.
+
+A bond maturing on 15.09.2029 was quoted stable at 11.95/12.05 percent.
+
+The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
+
+In equities, Colombo’s All Share Price Index opened up 0.14 percent, or 18.01 points higher at 12,818, while the S&P SL20 of more liquid stocks opened up 0.17 percent or 6.36 points higher at 3,837.
+
+◼️
+
+[Data](articles/bde9e7d7.json)
+
+[Extended Data](ext_articles/bde9e7d7.ext.json)
+
+---
+
 ### Lock for liquor schools
 
 *2024-11-11 09:22:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-346918) · `ta`
@@ -426,6 +630,20 @@ Accordingly, the Ceylon Electricity Board (CEB) has demanded a further two weeks
 
 ---
 
+### පියාගේ ජිප් රියට යටවී දරුවා මරුට
+
+*2024-11-11 09:13:22* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-ජිප්-රියට-යටවී-දරුවා-මරුට/11-412962) · `si`
+
+මරදාන දුම්රිය නිල නිවාස ඉදිරිපිටදි පියා විසින් සිය ජීප් රථය පසුපසට ධාවනය කිරීමේදි එම ජීප් රිය පසුපස සිටි ඔහුගේ දරුවා ජීප් රියට යටවී ජීවිතක්ෂයට පත්ව ඇතැයි පොලීසිය කියයි.
+
+අවුරුදු 3ක දරුවෙක් මෙසේ අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්ව තිබේ. පියා විසින් ජීප් රථය ගාල් කිරිමට යාමේදී මෙම අනතුර සිදුව තිබේ.
+
+◼️
+
+[Data](articles/b545b0f0.json)
+
+---
+
 ### Vijitha suddenly observed at the airport
 
 *2024-11-11 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203124) · `si`
@@ -510,6 +728,30 @@ The Israeli military said it struck a site in Jabalia in which “terrorists wer
 
 ---
 
+### Houses binding over 'Police' 'Thief'
+
+*2024-11-11 08:28:23* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-බින්ඳ-’පොලිස්-හොරා’-අල්ලයි/11-412961) · `si`
+
+Dehiwala Police arrest 29-year-old constable suspected of theft. Motorcycles recovered. Investigation ongoing.
+
+🟩
+
+The Dehiwala Police have arrested a police constable attached to the Maligawatta Police
+
+The suspect is the age of 29 years in the Ruhunugama Central Camp area in Ampara and a police constable attached to the Maligawatta Police has also been attached to the Maligawatta Police.
+
+The suspect was banned from the 1st tomorrow, due to the preposal of property launched in further investigation.
+
+According to the suspect, the stolen motor vehicles have been able to be taken into custody while the layer of Lane Ratmalana, police said.
+
+◼️
+
+[Data](articles/0f5431ec.json)
+
+[Extended Data](ext_articles/0f5431ec.ext.json)
+
+---
+
 ### Three people die after falling into father's jeep
 
 *2024-11-11 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203123) · `si`
@@ -555,6 +797,32 @@ The Ministry further stated that arrangements have been made to take legal actio
 [Data](articles/177a17e8.json)
 
 [Extended Data](ext_articles/177a17e8.ext.json)
+
+---
+
+### Sri Lanka President promises to unify nation, build a country without war
+
+*2024-11-11 08:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-promises-to-unify-nation-build-a-country-without-war-186804/) · `en`
+
+ECONOMYNEXT – Sri Lanka should move forward together with the North and South, and all ethnic groups working together to build a country without war for the next generation, President Anura Kumara Dissanayake said.
+
+“We have focused on several issues that will be solved during a National People’s Power administration,” President Dissanayake told a rally in Jaffna in Sri Lanka’s North.
+
+“First of all, we will build national unity. The North and South were at war. After 30 years of war, there were tears and lost family members. We have to build country without war for the next generation.
+
+“This is the responsibility of this generation. The distrust, anger between the Sinhalese, Tamils and Muslims has to be removed. The NPP will build a united nation.”
+
+The NPP will take action one by one to remove the distrust, he said.
+
+“We will act so that people will feel this is our government.”
+
+A free and peaceful environment will be built in the North he said.
+
+...
+
+[Data](articles/a3a024b0.json)
+
+[Extended Data](ext_articles/a3a024b0.ext.json)
 
 ---
 
@@ -1973,325 +2241,5 @@ The arrested man was 35 years old for two years and nine months ago.
 [Data](articles/b149780e.json)
 
 [Extended Data](ext_articles/b149780e.ext.json)
-
----
-
-### Easy goal to Sri Lanka
-
-*2024-11-10 21:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203111) · `si`
-
-Sri Lanka wins T20 match against New Zealand in Dambulla. SL bowlers dominated: 1 bowler 4 wickets for 17 runs, another 3 wickets for 11 runs, third 2 wickets for 22 runs. NZ top scorers: Will Young (30), Josh Cales (24). SL won by 109 runs.
-
-🟩
-
-New Zealand in the second T20 match of Sri Lanka - New Zealand in Dambulla and batted first in 19.3 overs were bowled.
-
-Accordingly, Sri Lanka won a 109 runs easy to win.
-
-Frequent bowling bowler for Sri Lanka was 4 wickets. He gave only 17 points in his 4 overs.
-
-In addition, Matheyathirana took 3 wickets for 11 runs and Nuwan Thushara took 2 wickets for 22 runs.
-
-Wil Young scored 30 runs and Josh Calexes scored 24 runs.
-
-◼️
-
-[Data](articles/ff85ffe8.json)
-
-[Extended Data](ext_articles/ff85ffe8.ext.json)
-
----
-
-### Employees must be given holidays to employees to go to vote - Elections Commission
-
-*2024-11-10 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198373) · `ta`
-
-Elections Commission announces holiday system for voting. Campaign offices must be removed by midnight. Public servants and private sector employers encouraged to provide adequate time off for citizens to cast ballots.
-
-🟩
-
-Election campaign office in the electorate must be removed at midnight tomorrow. We have advised the police to remove the law according to the law if the offices are not removed. Elections Commission Chairman RMAL Ratnayake said that all should cooperate in the peaceful election.
-
-Servants of the Public and Public Sector to provide adequate time for voting. We have announced a holiday system according to the Elections Act. He also urged the employers to give their employees a holiday for their employees to vote.
-
-தேர்தல்கள் ஆணைக்குழுவின் காரியாலயத்தில் ஞாயிற்றுக்கிழமை (10) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு தெரிவித்தார்.
-
-பொதுத்தேர்தல் வாக்களிப்புக்கான சகல பணிகளும் பூர்த்தியடைந்துள்ளன. Campaigning ends at midnight today as it has been given enough time for election campaigns. Candidates and their supporters will not be able to engage in election campaigns until the day of the general election on Thursday.
-
-...
-
-[Data](articles/a1cb5fad.json)
-
-[Extended Data](ext_articles/a1cb5fad.ext.json)
-
----
-
-### Defense Secretary Surveillance
-
-*2024-11-10 20:41:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அறுகம்பே-பகுதியில்-பாதுகாப்புச்-செயலாளர்-கண்காணிப்பு/175-346903) · `ta`
-
-Defense Secretary visits Ambalangoda, meets security officials, discusses security measures and tourist safety.
-
-🟩
-
-தாக்குதல் நடத்த திட்டமிடப்பட்டதாக கூறப்படும் அம்பாறை அறுகம்பே பிரதேசத்தில்,  பாதுகாப்புச் செயலாளர் ஓய்வுபெற்ற எயார் வைஸ் மார்ஷல் சம்பத் துய்யகொந்தா இன்று  கண்காணிப்பு விஜயத்தில் ஈடுபட்டார்.
-
-He went to the area and asked about the security situation and held talks with security officials in the area.
-
-Senior local military and police officers explained to the defense secretary about the existing security program.
-
-The Secretary of Defense gave the necessary instructions to the concerned authorities on the steps to be taken to maintain the security of the area and to ensure the safety of tourist attractions in other parts of the island.
-
-He stressed that action should be taken so that the freedom of the tourists should not be disrupted and that they should be confident in Sri Lanka's security.
-
-இந்த நிகழ்வில் ஆயுதப்படை, விசேட அதிரடிப்படை மற்றும் பொலிஸ் திணைக்களத்தின் சிரேஷ்ட அதிகாரிகள் மற்றும் பாதுகாப்பு அமைச்சின் அதிகாரிகள் குழுவும் கலந்துகொண்டனர். R
-
-◼️
-
-[Data](articles/fe52f5f0.json)
-
-[Extended Data](ext_articles/fe52f5f0.ext.json)
-
----
-
-### Date to end in general election
-
-*2024-11-10 20:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203110) · `si`
-
-Election propaganda ends tomorrow. Candidates must register by midnight. Election commission warns against law violations. Former chairman urges voters to choose based on true national interests.
-
-🟩
-
-The propaganda work in the 2024 general election will be completed tomorrow (11).
-
-However, the Elections Secretariat stated that the candidates who have come forward to maintain their offices will be allocated to 12 midnight.
-
-The Elections Commission calls for candidates and voters to act in accordance with election laws.
-
-Meanwhile, the former Chairman of the View Ordinal Advisory Organization Mahinda Deshapriya asks all voters to vote to vote for the country's real views.
-
-◼️
-
-[Data](articles/fc0c97c5.json)
-
-[Extended Data](ext_articles/fc0c97c5.ext.json)
-
----
-
-### Sri Lanka private credit up Rs89bn in September, government down
-
-*2024-11-10 20:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-private-credit-up-rs89bn-in-september-government-down-186801/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s private credit grew 88.9 billion rupees in September 2024, on top of 135.1 billion rupees in August, while credit to government declined, official data showed.
-
-Credit to government fell to 8,016 billion rupees in September from 8,058 billion rupees in August.
-
-Credit to state enterprises rose marginally by 5.8 billion rupees to 657.4 billion rupees.
-
-Central bank credit to government fell 9.2 billion to 1,745 billion rupees.
-
-It is not clear whether the negative number came from government deposits in banks, or because banks were now focusing on private credit and was less inclined to buy Treasuries.
-
-Sri Lanka’s private credit is now recovering from negative credit in a stabilization crisis that followed the last currency crisis.
-
-Up to September private credit (including in foreign currency) has expanded by 430 billion rupees, compared to a contraction of 47.7 billion rupees last year.
-
-...
-
-[Data](articles/5c30fa82.json)
-
-[Extended Data](ext_articles/5c30fa82.ext.json)
-
----
-
-### Sri Lanka to benefit the decisive match
-
-*2024-11-10 19:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203109) · `si`
-
-Sri Lanka leads 2-0 in T20 series vs New Zealand. Won first match, likely to secure championship. Last victory over NZ in 2013. New Zealand previously won 4 matches in this tournament format.
-
-🟩
-
-Sri Lanka won the advantage of Sri Lanka and Tourist Team won the advantage of the 2-match Twenty20 cricket tournament today (10).
-
-As Sri Lanka was able to win the first match, they would easily win the championship with the match.
-
-If so, Sri Lanka will win a Twenty20 tournament against New Zealand.
-
-The last time Sri Lanka has won a Twenty20 tournament against New Zealand in 2013.
-
-New Zealand was able to win the 4 tournaments that the tournament was replaced by the tournament.
-
-◼️
-
-[Data](articles/8279dd31.json)
-
-[Extended Data](ext_articles/8279dd31.ext.json)
-
----
-
-### Fines for vehicle traders who delayed registering
-
-*2024-11-10 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198352) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Vehicle traders face fines for delaying registration. Electric three-wheelers now allowed, easing import barriers. This change promotes green technology and reduces fuel costs.
-
-🟩
-
-Electric three -wheelers have been allowed to stop import barrier for three -wheelers in the environment. It is considered the best change in the journey to the environment. Also, it has been developed to promote green technology and avoid fuel costs.
-
-◼️
-
-[Data](articles/cf865b90.json)
-
-[Extended Data](ext_articles/cf865b90.ext.json)
-
----
-
-### Important Information on the next few days about the lifeblood attack - the President
-
-*2024-11-10 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198366) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Pres. Anura Kumaranatissa: Significant revelations soon on "lifeblood" attack. Promises investigation into Raghveer Wasim Tajuddin's assassination. Government will bring perpetrators to justice, ending era of political killings.
-
-🟩
-
-President Anuragumara Dissanayake has said that significant information may be revealed in the next few days.
-
-In the next few days, the best news about the lifeblood attack, he said.
-
-President Anura Kumaratisanayake has promised to investigate the assassinations of Raghveerew Wasim Tajuddin.
-
-லசந்தவிக்கிரமதுங்க வாசிம்தாஸ்ரீஜூதீன் பிரகீத் எக்னலிகொட விவகாரங்கள் குறித்து விசாரணை செய்து அதற்கு காரணமானவர்களை அரசாங்கம் நீதியின் முன் நிறுத்தும் என அவர் தெரிவித்துள்ளார்.
-
-Speaking at a rally in Dambulla, he said this would end the era of the killing of innocent people by political power.
-
-◼️
-
-[Data](articles/a42b343c.json)
-
-[Extended Data](ext_articles/a42b343c.ext.json)
-
----
-
-### No need to list the CWC - Senthil Thondaman Special
-
-*2024-11-10 18:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198349) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-President promises fair wages for plantation workers but lacks specific details. People question reliability of new leader after just over a month. Clear-thinking citizens remain loyal. Politicians claim solidarity with the public.
-
-🟩
-
-The President says that we will pay a fair salary to plantation workers. But he could not determine a sum. So how do you trust his stories?Can people completely rely on a new president in one and a half months?So people are with clear thinking. They stand by our side forever. We too are on the side of the people.
-
-◼️
-
-[Data](articles/5f8e41e3.json)
-
-[Extended Data](ext_articles/5f8e41e3.ext.json)
-
----
-
-### Two arrested with domestic gun
-
-*2024-11-10 18:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198354) · `ta`
-
-Two suspects caught with local guns during sting operations in Uva and Nabadayaya areas. Arrests made by police on Saturday and previous day.
-
-🟩
-
-இரு வேறு பிரதேசங்களில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்புக்களின்போது உள்நாட்டு துப்பாக்கியை வைத்திருந்த சந்தேக நபர்கள் இருவர் நேற்று சனிக்கிழமை (09) பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
-
-A man was arrested on Saturday (09) with a domestic gun in Uva Gangodagama area belonging to the Tambagalla police division.
-
-In addition, a person was arrested yesterday with a domestic gun in the Nabadayaya area belonging to the Grilla Police Division.
-
-◼️
-
-[Data](articles/e89ed921.json)
-
-[Extended Data](ext_articles/e89ed921.ext.json)
-
----
-
-### Another special program for election duration
-
-*2024-11-10 18:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203108) · `si`
-
-Special disaster management program for election period: DMC establishes unit to start on 12th, collaborate with Election Secretariat for 4-day implementation before and after polls.
-
-🟩
-
-The Disaster Management Center (DMC) says that a special program is scheduled to implement the disasters that can occur during the period during the period period.
-
-Its director Pradeep Kodippili stated that a special unit of the Disaster Management Center is expected to be established.
-
-He said that the unit is due to commence from the 12th.
-
-Accordingly, this special program is to be implemented with the Elections Secretariat for two days before the election and two days after the election.
-
-◼️
-
-[Data](articles/abc0e897.json)
-
-[Extended Data](ext_articles/abc0e897.ext.json)
-
----
-
-### Will the new political culture protect Muslims?
-
-*2024-11-10 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/198318) · `ta`
-
-New political culture may not fully protect Muslim rights. Elected officials' inaction blamed on community. Community's choice of candidates seen as betrayal.
-
-🟩
-
-Muslim MPs cannot claim the gold sabbath for losing their feet because they have nothing to do with the community. If the MPs who have been elected in the past do nothing, the responsibility must first accept the community.. It is the crime of the community to defeat the appropriate candidates and choose the inappropriate.
-
-◼️
-
-[Data](articles/727af2c9.json)
-
-[Extended Data](ext_articles/727af2c9.ext.json)
-
----
-
-### Lands taken over in the North will be given people
-
-*2024-11-10 18:10:29* · [`adalk`](https://www.ada.lk/breaking_news/උතුරේ-පවරාගෙන-තිබෙන-ඉඩම්-ජනතාවට-දෙනවා/11-412960) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka: President Anura Kumara Dissanayake promises to restore lands taken over in North for security reasons. Focuses on unity, ending divisions based on religion and caste. Plans to release political prisoners. Emphasizes harmony and opposition cooperation.
-
-🟩
-
-President Anura Kumara Dissanayake said that they will be restored to be reopens in the North who have been taken over by various security reasons.
-
-He was speaking at a public meeting in Vavuniya yesterday (10) to release political prisoners on the instructions of the Attorney General yesterday (10), he said.
-
-"On the 21st of September, the politics of our country had emerged. The former President arrived in Vavuniya. The people of the Vanni voted to some extent. Not only that but the Opposition leader of the presidential votes came to Vavuniya. Does this election come now?Not. why is that ?They only vote for them.
-
-21,000 people of the Wanni district voted for us in the presidential election. It was big alloy to win the national folk force. But then we lose the Vanni district.
-
-...
-
-[Data](articles/39adfa8a.json)
-
-[Extended Data](ext_articles/39adfa8a.ext.json)
 
 ---

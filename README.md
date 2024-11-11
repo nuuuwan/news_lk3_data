@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 17:42:42**
+As of **2024-11-11 18:02:04**
 
 ## Newspaper Stats
 
-*Scraped **54,231** Articles*
+*Scraped **54,232** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,33 @@ adalk | 5,070
 adaderanalk | 6,471
 tamilmirrorlk | 7,578
 virakesarilk | 8,795
-adaderanasinhalalk | 9,458
+adaderanasinhalalk | 9,459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,231 (100.0%) of 54,231 articles have been extended.
+54,231 (100.0%) of 54,232 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### පොලිස් නිලධාරීන් සිව් දෙනෙකුගේ වැඩතහනම්
+
+*2024-11-11 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203140) · `si`
+
+මාර්ග අනතුරකින් අනතුරුව පුද්ගලයෙකුට පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් යාපනය, චුන්නාකම් පොලිස් ස්ථානයේ නිලධාරීන් සිව්දෙනෙකුගේ වැඩතහනම් කර තිබේ.
+
+එලෙස වැඩතහනම් කර ඇත්තේ, පොලිස් පරික්ෂකවරයෙක්, පොලිස් සැරයන්වරයෙක් සහ පොලිස් කොස්තාපල්වරුන් දෙදෙනෙකුගේ බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+
+"රිය අනතුරක් සිදුකර පුද්ගලයෙකු විසින් රථය නතර නොකර පළා ගිහින් තිබුණා. ඒ පුද්ගලයා අත්අඩංගුවට ගැනීමට යාමේදී ඇතිවූ බහින්බස්වීමක් මත පොලිස් නිලධාරීන් විසින් ඔහුට යම් ආකාරයේ පහරදීමක් සිදුවුණා කියන චෝදනාව ඔහු විසින් ඉදිරිපත් කරලා තිබුණා. ඒ අනුව පරික්ෂණයක් කරලා තමයි මේ පොලිස් නිලධාරීන් 04 දෙනෙකුගේ වැඩතහනමට ලක් කළේ."
+
+◼️
+
+[Data](articles/830887ed.json)
+
+---
 
 ### Central Environmental Authority is a new Chairman
 
@@ -2339,29 +2355,5 @@ The body has been placed at the Colombo National Hospital morgue and the Maradan
 [Data](articles/0fe16ebb.json)
 
 [Extended Data](ext_articles/0fe16ebb.ext.json)
-
----
-
-### A gang of cash from the people using health bossels
-
-*2024-11-11 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203122) · `si`
-
-Health Ministry warns against scams: Reporters claim cash demands via phone/WhatsApp. Public advised to deposit money in banks instead. Legal action planned against fraudsters.
-
-🟩
-
-The Ministry of Health states that information has been reported from health staff and people from health staff and people using senior officers of the Ministry of Health.
-
-The Ministry has issued an announcement that any of the health ministry is not working or demanding such cash using phone, whatsapp or any media.
-
-The Ministry of Health has informed the public to deposit money to such cheats to deposit money to the bank accounts or to remit funds from other media.
-
-The Ministry further stated that arrangements have been made to take legal action in this regard.
-
-◼️
-
-[Data](articles/177a17e8.json)
-
-[Extended Data](ext_articles/177a17e8.ext.json)
 
 ---

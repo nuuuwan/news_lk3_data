@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 19:41:27**
+As of **2024-11-11 20:14:41**
 
 ## Newspaper Stats
 
-*Scraped **54,253** Articles*
+*Scraped **54,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,63 @@ dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,073
 adaderanalk | 6,477
-tamilmirrorlk | 7,580
+tamilmirrorlk | 7,581
 virakesarilk | 8,799
-adaderanasinhalalk | 9,465
+adaderanasinhalalk | 9,466
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,245 (100.0%) of 54,253 articles have been extended.
+54,253 (100.0%) of 54,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### අත්අඩංගුවට ගත් පොලිස් නිලධාරීන් තිදෙනාට ඇප
+### සුජීව සේනසිංහ V8 රථය CIDයට භාරදෙයි
 
-*2024-11-11 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203146) · `si`
+*2024-11-11 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203147) · `si`
 
-පොලිස් සිරමැදිරිය තුළදී සැකකරුවන් පිරිසකට සූදු ක්‍රීඩාවේ නිරතවීමට පහසුකම් සැලසූ බවට අනුරාධපුර, ගිරානේගම පොලිස් ස්ථානයේ ස්ථානාධිපතිවරයා ඇතුළු නිලධාරීන් තිදෙනෙකුව අත්අඩංගුවට ගෙන තිබේ.
+හිටපු රාජ්‍ය අමාත්‍ය සුජීව සේමසිංහ මහතා සතුව තිබූ ප්‍රශ්නගත V8 රථය අද (11) සවස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට භාරදී ඇති බව වාර්තා වෙයි.
 
-සිද්ධිය සම්බන්ධයෙන් සමාජ මාධ්‍ය ඔස්සේ පළවූ විඩියෝවක් සැලකිල්ලට ගනිමින් වැඩබලන පොලිස්පතිවරයාගේ නියෝග පරිදි මෙම පිරිස අත්අඩංගුවට ගත් බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසීය.
+එම රථය අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව භාරයට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස කොටුව මහේස්ත්‍රාත් අධිකරණය අද නියෝග කළේය.
 
-අද (11) පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා සඳහන් කළේ අනුරාධපුර පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර ඇති බවය.
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණය හමුවේ කියා සිටියේ හිටපු රාජ්‍ය අමාත්‍යවරයා සන්තකයේ පවතින්නේ හිටපු පාර්ලිමේන්තු මන්ත්‍රී ජේ ශ්‍රී රංගා මහතා සතුව තිබූ, රිය අනතුරකින් මනුෂ්‍ය මරණයක් සිදුකිරීමකට අදාළව නඩු භාණ්ඩයක් වූ මෝටර් රථය බවයි.
 
-අත්අඩංගුවට ගත් ගිරානේගම පොලිස් ස්ථානාධිපතිවරයා සහ සෙසු නිලධාරීන් දෙදෙනා කැකිරාව මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කළ බවත් එහිදී රුපියල් ලක්ෂ 02 බැගින් වූ ශරීර ඇප මත ඔවුන්ව මුදාහැරීමට අධිකරණය නියෝග කළ බවත් පොලිස් මාධ්‍ය ප්‍රකාශකවරයා පැවසීය.
+නීතිවිරෝධීව එකලස් කරන ලද ටොයෝටා V8 සුඛෝපභෝගී ජීප් රථයක් ඇති බවට ලද තොරතුරකට අනුව වලාන දූෂණ මර්ධන ප්‍රහාරක ඒකකය ඉකුත් නොවැම්බර් 02 වැනිදා හිටපු රාජ්‍ය අමාත්‍ය සුජීව සේනසිංහ මහතාගේ නිවස පරික්ෂා කළද එහිදී සැකකටයුතු මෝටර් රථය හමුවී තිබුණේ නැත.
+
+අනතුරුව අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ සහ මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නිලධාරින් සුජීව සේනසිංහ මහතාට අයත් කොල්ලුපිටියේ නිවසක් පරීක්ෂා කළේ ප්‍රශ්නගත සුඛෝපභෝගී මෝටර් රථය එම නිවසේ ගාල්කර ඇති බවට තොරතුරු ලැබී තිබු තොරතුරු අනුව ය.
 
 ...
 
+[Data](articles/ec67df97.json)
+
+---
+
+### Three police officers released on bail
+
+*2024-11-11 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203146) · `si`
+
+Three police officers arrested over funeral procession incident, released on bail after court order.
+
+🟩
+
+The OIC of the Giranegama Police Station, the OIC of the Giranegama Police have arrested three OIC of the police station.
+
+The police spokesman DIG Talduuwa said that these people were arrested as a video in the social media regarding the incident.
+
+Addressing a media briefing held today (11), he said that the arrest was made by the Anuradhapura Police.
+
+The court said the court was ordered to be released on bail of Rs.
+
+"On the 18th, the OIC of the Giranegama Police Station had come to play a group of people who have come to a funeral home in a nearby area.. Later, the OIC and several officials have gone there. These people are the group, as they have played the corner of the corpses.. Nearly 12 people have been. Since the traditional vehicle is not brought to bringing these people. The starding was informed to come to the police. After they arrived in police, they all left the carriage. Then they were drunken and engaged in the sport of the prison. "
+
+◼️
+
 [Data](articles/751c7d94.json)
+
+[Extended Data](ext_articles/751c7d94.ext.json)
 
 ---
 
@@ -69,6 +97,8 @@ He expressed confidence that this review would be wrapped up by the end of Janua
 ◼️
 
 [Data](articles/61cc3a5b.json)
+
+[Extended Data](ext_articles/61cc3a5b.ext.json)
 
 ---
 
@@ -118,6 +148,28 @@ He was speaking at the rally in Gampaha this afternoon.
 
 ---
 
+### Arrest of Oic Oic
+
+*2024-11-11 18:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடை-OIC-கைது/175-346950) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo North Police Crime Branch arrests officer from Kochchikkadai Police Station for election law violation.
+
+🟩
+
+The Kochchikkadai Police Station in charge of violating election law has been arrested by the Colombo North Police Crime Branch. Remble
+
+◼️
+
+[Data](articles/4775e76c.json)
+
+[Extended Data](ext_articles/4775e76c.ext.json)
+
+---
+
 ### Kochchikade Police OIC arrested
 
 *2024-11-11 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203143) · `si`
@@ -147,6 +199,8 @@ The Officer-in-Charge (OIC) of the Kochchikade Police Station has been arrested 
 ◼️
 
 [Data](articles/ba9ac995.json)
+
+[Extended Data](ext_articles/ba9ac995.ext.json)
 
 ---
 
@@ -217,6 +271,8 @@ He said that accordingly, an investigation was launched by the CID into the cont
 ...
 
 [Data](articles/e28ba1e7.json)
+
+[Extended Data](ext_articles/e28ba1e7.ext.json)
 
 ---
 
@@ -300,17 +356,27 @@ Investigations have been found that the birthday party was celebrated, with the 
 
 ---
 
-### බ්‍රික්ස් අයදුම්පත ප්‍රතික්ෂේප වෙලා නෑ
+### The BRICS application has not been rejected
 
 *2024-11-11 17:46:34* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රික්ස්-අයදුම්පත-ප්‍රතික්ෂේප-වෙලා-නෑ/11-412977) · `si`
 
-BRICS සාමාජිකත්වය සඳහා ශ්‍රී ලංකාව ඉදිරිපත් කළ අයදුම්පත ප්‍රතික්ෂේප කර ඇති බවට පළ වූ පුවත් ශ්‍රී ලංකා විදේශ කටයුතු අමාත්‍යංශය විසින් ප්‍රතික්ෂේප කර තිබේ.  විදේශ කටයුතු අමාත්‍යාංශය සඳහන් කළේ, ඔක්තෝබර් 07 වැනිදා අමාත්‍ය මණ්ඩලය විසින් අනුමත කළ පරිදි ශ්‍රී ලංකාව BRICS සහ නව සංවර්ධන බැංකුවේ සාමාජිකත්වය සඳහා ඉල්ලුම් කළ බවයි.
+Sri Lanka's BRICS application status: Not rejected. External Affairs Ministry denies rejection claims. Application submitted for BRICS and New Development Bank membership. President informs Russian counterpart about preliminary steps. Sri Lankan delegation participates in discussions. Membership consideration pending. NDB membership acceptance confirmed. Full consultation process ongoing with other countries. No corrective media reports issued in Sri Lanka.
 
-විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා විසින් BRICS සාමාජික රටවල සිටින අදාළ පිරිසට, ශ්‍රී ලංකාව RICS වෙත එක්වීමට ඇති කැමැත්ත ලිඛිතව ප්‍රකාශ කර ඇති බවත් ජනාධිපති අනුර කුමාර දිසානායක මහතා ද මේ සම්බන්ධයෙන් රුසියානු ජනාධිපතිට ලිඛිතව දන්වා ඇති බවත් විදේශ කටයුතු අමාත්‍යංශය සඳහන් කරයි.
+🟩
+
+The Sri Lanka External Affairs Ministry has rejected the news that the application has been rejected by Sri Lanka for the membership of the BRICS membership.According to the Ministry of External Affairs, Sri Lanka applied for members of the BRICS and the New Development Bank as approved by the Cabinet of Ministers.
+
+President Anura Kumara Dissanayake has informed the Russian president that the preliminary in BRICs had written to the Russian president.
+
+On October 22-24, at October 22-24, the Sri Lankan delegation, the captain of the Sri Lankan delegation, and the leader of the Sri Lankan delegation was expressed in this regard.The Ministry of External Affairs stated that the demands of the BRICS membership for BRICS membership including Sri Lanka and the foreign affairs are expected to be considered in the future.
+
+The Chairman of Sri Lanka has also accepted the intention to join the new Development Bank (NDB).That accepted is accepted.
 
 ...
 
 [Data](articles/b8873e65.json)
+
+[Extended Data](ext_articles/b8873e65.ext.json)
 
 ---
 
@@ -404,6 +470,8 @@ The General Election is scheduled to be held on November 14.
 
 [Data](articles/8d705332.json)
 
+[Extended Data](ext_articles/8d705332.ext.json)
+
 ---
 
 ### Share market work limits at 3 hours on election day
@@ -465,6 +533,8 @@ Investigations into these cybercrime camps have uncovered severe human rights ab
 ...
 
 [Data](articles/823bb54c.json)
+
+[Extended Data](ext_articles/823bb54c.ext.json)
 
 ---
 
@@ -2291,49 +2361,5 @@ Fish should have water and weapon for a soldier.  அது போல அரச
 [Data](articles/c0d72458.json)
 
 [Extended Data](ext_articles/c0d72458.ext.json)
-
----
-
-### Iran responds to claims of Iranian linked to Trump assassination attempt, Arugam Bay attack plot
-
-*2024-11-11 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103318/iran-responds-to-claims-of-iranian-linked-to-trump-assassination-attempt-arugam-bay-attack-plot-) · `en`
-
-Iran’s Foreign Minister Abbas Araqchi has responded to U.S. charges that Tehran was linked to an alleged plot to kill Donald Trump and tasked with targeting Israeli tourists in Sri Lanka while calling on for confidence-building between the two hostile countries.
-
-“Now ... a new scenario is fabricated ... as a killer does not exist in reality, scriptwriters are brought in to manufacture a third-rate comedy,” Araqchi said in a post on X.
-
-He was referring to the alleged plot which Washington said was ordered by Iran’s elite Revolutionary Guards to assassinate Trump, who won Tuesday’s presidential election and takes office in January.
-
-“The American people have made their decision. And Iran respects their right to elect the President of their choice. The path forward is also a choice. It begins with respect,” Araqchi said.
-
-...
-
-[Data](articles/6f69ae86.json)
-
-[Extended Data](ext_articles/6f69ae86.ext.json)
-
----
-
-### Sri Lanka pharmaceutical sector beginning to grow after crisis
-
-*2024-11-11 10:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-pharmaceutical-sector-beginning-to-grow-after-crisis-186833/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s pharmaceutical sales are starting to grow, recovering from a currency crisis in 2022, Hemas Holdings Plc, a group involved in pharma and consumer goods said.
-
-The expansion was driven by lower priced items, including diabetic drugs and vitamins.
-
-“During the quarter under review, the pharmaceutical industry experienced volume growth, for the first time since the economic crisis in the year 2022,” the firm told shareholders in the September quarter review.
-
-“This increase was largely attributed to local manufacturers and low-cost products, particularly in categories such as diabetic drugs and vitamins.
-
-“This trend highlights a shift in consumer preference toward more affordable pharmaceutical options.”
-
-Following the last currency crisis, arguably the worst in the history of Sri Lanka’s soft-pegged central bank, a large section of the population was driven into poverty and were forced to adopt ‘coping mechanisms.’
-
-...
-
-[Data](articles/db6d2b9b.json)
-
-[Extended Data](ext_articles/db6d2b9b.ext.json)
 
 ---

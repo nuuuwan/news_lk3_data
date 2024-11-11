@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 14:14:08**
+As of **2024-11-11 14:25:58**
 
 ## Newspaper Stats
 
@@ -26,47 +26,67 @@ adaderanasinhalalk | 9,452
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,187 (100.0%) of 54,199 articles have been extended.
+54,192 (100.0%) of 54,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### දේශබන්දු පොලිස්පති ලෙස පත්කිරීමට එරෙහි පෙත්සම් විභාගයට දින නියම කෙරේ
+### Petitions against the appointment of Deshabandu as IGP
 
 *2024-11-11 14:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203133) · `si`
 
-දේශබන්දු තෙන්නකෝන් මහතා පොලිස්පතිවරයා වශයෙන් පත්කිරීමට ගනු ලැබූ තීරණය බලරහිත කිරීමේ නියෝගයක් ඉල්ලා ගොනුකර ඇති මූලික අයිතිවාසිකම් පෙත්සම් 2025 පෙබරවාරි 24 සහ 25 යන දිනවල විභාගයට ගැනීමට  ශ්‍රේෂ්ඨාධිකරණය අද (11) නියම කළේය.
+Supreme Court hears petitions against Deshabandu appointment as IGP. Petitioners claim unconstitutional appointment, violate human rights. Court orders hearings Feb 24-25.
 
-කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන්, තරුණ ජනමාධ්‍යවේදීන්ගේ සංගමය ඇතුළු පාර්ශ්ව 08ක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+🟩
 
-එම පෙත්සම් අද යසන්ත කෝදාගොඩ, අචල වෙංගප්පුලි සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් ඉදිරියේ කැඳවනු ලැබීය.
+The Supreme Court today (11th) appointed the Supreme Court today (11) fundamental rights petitions to be heard on February 24 and 25.
 
-පෙත්සම් කැඳවූ අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් නෙරින් පුල්ලේ මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම් වල වගඋත්තරකරුවකු ලෙස නම්කර සිටින වත්මන් ජනාධිපතිවරයා වෙනුවෙන් විරෝධතා ගොනු කිරීම සඳහා කාලය ලබාදෙන ලෙස ඉල්ලා සිටියේය.
+The petitions were presented by the Cardinal Malcolm Ranjith, 08 parties including the Young Journalists Association.
 
-එම ඉල්ලීම පිළිගත් ත්‍රිපුද්ගල විනිසුරු මඩුල්ල ඒ අනුව අදාළ විරෝධතා ගොනු කිරීම සඳහා නීතිපතිවරයාට කල් ලබාදුන්නේය.
+The petitions were summoned before a three-member Supreme Court Judge of Yasanantha Kodagoda, Aethantha Kodagoda, Achala Wedassepi and Arjuna Obeysekere.
+
+Additional Solicitor General, who appeared in behalf of the Attorney General, appeared before the Attorney General, as a respondent in the petitions, was asked to give the protests for the president of the present president.
+
+The three-judge's panel of judges accepted the request, the Attorney General gave the Attorney General to file the protests.
+
+His lawyers have filed a motion on behalf of Mr. Deshabandu Tennakoon to be heard in front of the full judiciary petitions in front of the fundamental rights petitions.
 
 ...
 
 [Data](articles/e8fe99f3.json)
 
+[Extended Data](ext_articles/e8fe99f3.ext.json)
+
 ---
 
-### ඩිල්ෂාන් ද්විත්ව පුරවැසි භාවය ඉවත්කිරීමේ සාක්ෂි පෙන්වයි
+### Dilshan shows evidence of removal of dual citizenship
 
 *2024-11-11 13:57:35* · [`adalk`](https://www.ada.lk/breaking_news/ඩිල්ෂාන්-ද්විත්ව-පුරවැසි-භාවය-ඉවත්කිරීමේ-සාක්ෂි-පෙන්වයි/11-412970) · `si`
 
-තමන් ද්විත්ව පුරවැසි භාවය ඇති අයෙක් කියා බොහෝ දේශපාලන ප්‍රභලයින් චෝදනා නගන නිසා එය ඉවත්කර ගැනීමේ ලිපිය මාධ්‍යට ඉදිරිපත් කරන බව  තිලකරත්න දිල්ෂාන් මහතා  අද දහවල් කළුතර දී මාධ්‍ය හමුවක් පවත්වමින් පැවසීය .
+Here's a summary of the text in approximately 200 characters:
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් ඒ මහතා සදහන් කලේ සමහර දේශපාලන ප්‍රබලයින් තමන්ගේ ද්විත්ව පුරවැසි භාවය සම්බන්ධයෙන් චෝදනා නගන බැවින් එය ඉදිරිපත් කරන බවයි.
 
-බොහෝ දේශපාලන පක්ෂ වලට සහ ප්‍රභල දේශපාලකයන් ඔවුන්ගේ මැතිවරණ ප්‍රචාර කටයුතු කරනවට වඩා මගේ ද්විත්ව පුරවැසි භාවය ගැන ප්‍රශ්න කරනවා. සමාජ මාධ්‍ය වල ප්‍රචාරය කරනවා.මම එක් ප්‍රභල පුද්ගලයෙකුට අභියෝග කලා පුළුවන් නම් ඔප්පු කරන්න කියලා. තව පැය කිහිපයයි තියෙන්නේ හැකිනම් ඔප්පු කරන්න.මේ තියෙන්නේ ද්විත්ව පුරවැසි භාවය ඉවත්කල ලිපිය යැයි පවසමින් ඉදිරිපත් කලේය.
 
-සමහර චරිත ද්විත්ව පුරවැසි භාවය තියාගෙන පාර්ලිමේන්තු වරප්‍රසාද ලැබුවා. ඉවත්වුනේ ඒක ඔප්පු උනාම. මම පාර්ලිමේන්තු මැතිවරණයට ඉදිරිපත් වෙන්නේ ද්විත්ව පුරවැසි භාවය ඉවත් කරගන සැබෑවටම  ජනතාවට වැඩක් කරන්න ඕන නිසයි.
+Sri Lanka cricketer Dilshan denies dual citizenship claims, accuses political opponents of spreading false allegations during election campaign.
 
-...
+🟩
+
+Tillakaratne Dilshan holds a media briefing in Kalutara this afternoon, as many political outlets were charged with a dual citizenship.
+
+Speaking further Mr. He said that some of the political prabsets allegered their dual citizenship.
+
+Many political parties and powerful politicians are questioning my dual citizenship rather than their election propagation. Advertising in social media. If one of the most plane can be challenged if one can challenge one. If you can have more than hours, you will have to offer dual citizenship by saying that the letter of dual citizenship.
+
+Some characters were parliament privileged with dual citizenship. Attached when it was proven. I am contending for the parliamentary election because they want to get rid of dual citizenship.
+
+Some political outputs call for crocodile tears on the election stage, and some appeal to votes. Because that work is not. He said, when I will seek out politics, he said.
+
+◼️
 
 [Data](articles/d1cf7452.json)
+
+[Extended Data](ext_articles/d1cf7452.ext.json)
 
 ---
 
@@ -122,23 +142,33 @@ International observers have also been on the island for the observation process
 
 ---
 
-### ඇමති විජිත කටුනායක හදිසි නිරීක්ෂණයකට
+### Vijitha Katunayake Observation
 
 *2024-11-11 13:26:17* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-කටුනායක-හදිසි-නිරීක්ෂණයකට/11-412967) · `si`
 
-ප්‍රවාහන , මහාමාර්ග , වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය විජිත හේරත් මහතා කටුනායක ගුවන් තොටුපොළ තුළ 11/10 දින  දහවල්  නිරීක්ෂණ චාරිකාවක නිරත විය.
+Minister Vijitha Herath visits Katunayake airport late night. Meets officials, discusses issues. Announces bonuses for staff. Plans special communication unit for flight delays. Instructs new security officers to wear three uniforms. Orders higher management to address worker problems.
 
-එම චාරිකාවට සීමාසහිත ගුවන් තොටුපොළ සහ ගුවන් සේවා සමාගමේ සභාපති හර්ෂ ඩී.අබේවික්‍රම , උප සභාපති සිරිල් වන්නිගම සහ ගුවන් තොටුපොළ ඉහළ කළමනාකාරිත්වයේ නිලධාරීන් සහභාගී වී සිටියහ .
+🟩
 
-එහිදී අමාත්‍යවරයා ඇතුළු පිරිස ගුවන් තොටුපොළ විවිධ දෙපාර්තමේන්තු වෙත ගොස් , එහි සේවයේ නිරත සේවකයින් සමග කතා කරමින් , ඔවුන්ගේ ගැටළු හදුනා ගනිමින් , ඒවාට පිළියම් යෙදීමට උත්සුක වූහ .
+Minister of Transport, Highways, Ports and Civil Aviation Vijitha Herath arrived in the Katunayake airport at 11/10 pm on the Katunayake airport.
 
-ගුවන් තොටුපොළ සේවකයින්ට ඉකුත් 2023 වසරේ ප්‍රසාද දීමනා සදහා ගෙවූ රුපියල් 50,000 ක මුදල , මෙම 2025 වසරේ ඔවුන් ගෙන් ආපසු අය කර ගැනීමට වූ යෝජනාව සදාචාර විරෝධී එකක් බැවින් එම යෝජනාව අහෝසි කිරීමට පියවර ගැනීමට පියවර ගෙන තිබුණි .
+Airport and Aviation Company Chairman Harsha D.Wbewickrama, Vice Chairman Cyril Wanigod and Airport Cyril Wanigod and Airports were also present.
 
-මීට අමතරව ශ්‍රී ලන්කන් ගුවන් යානා ප්‍රමාද වීම පිළිබඳ ක්ෂණිකව ගුවන් මගීන්ට දැනුම් දීම සදහා , පැය 24 තුළ ක්‍රියාත්මක විශේෂ සන්නිවේදන ඒකකයක් පිපිහිටුවීමට  ද උපදෙස් දී තිබුණි .
+The Minister and their group went to various departments, speaking to various departments, and discussed their problems, identifying their problems, identifying their problems.
 
-...
+The airport employees were paid to the bonus of Rs.
+
+In addition, a special communication unit was being taken up in 24 hours to inform passengers on the delay in SriLankan Airlines.
+
+The newly recruited officers as the airport security officers in 2024 had been instructed to provide three uniforms with immediate effect.
+
+The Minister also instructed the higher management of the airport to take steps to provide solutions to the problems faced by airport workers.
+
+◼️
 
 [Data](articles/a581df84.json)
+
+[Extended Data](ext_articles/a581df84.ext.json)
 
 ---
 
@@ -526,21 +556,27 @@ He says that the future of Haiti will be another problem.
 
 ---
 
-### 13, 14 ஆம் திகதிகள் அனைத்து பல்கலைக்கழகங்களுக்கும் விடுமுறை
+### The 13th and 14th of the holidays for all universities
 
 *2024-11-11 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198404) · `ta`
 
-எதிர்வரும் பொதுத்  தேர்தலை முன்னிட்டு அனைத்த பல்கலைக்கழகங்களுக்கும் 13 மற்றும் 14 ஆகிய திகதிகளில் விடுமுறை வழங்க தீர்மானித்துள்ளதாக பல்கலைக்கழக மானியங்கள் ஆணைக்குழு அறிவித்துள்ளது.
+Universities granted holidays on 13th and 14th for elections. UGC decision affects public and private institutions. Aim: Ensure voting rights for staff and students. Resolution applies to all educational entities.
 
-அரச பல்கலைக்கழக ஊழியர்கள் மற்றும் மாணவர்களின் வாக்குரிமையை உறுதிப்படுத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ஆணைக்குழு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+🟩
 
-மேலும், தனியார் பல்கலைக்கழகங்கள் மற்றும் அரசு சாரா உயர்கல்வி நிறுவனங்களுக்கும் இந்த தீர்மானம் பொருந்தும் என தெரிவித்துள்ளது.
+The University Grants Commission has announced that it has decided to grant holidays to all universities on the 13th and 14th of the upcoming general election.
 
-இதேவேளை, தேர்தலில் வாக்களிப்பதற்கு வசதியாக பல்கலைக்கழகங்களில் பணிபுரியும் ஊழியர்கள் மற்றும் மாணவர்களுக்கு விடுமுறை அளிக்க வேண்டும் என்று தேர்தல்  ஆணைக்குழு உத்தரவிட்டுள்ளது.
+In a statement issued by the Commission, the action has been taken to ensure the voting rights of the state university staff and students.
+
+The resolution also applies to private universities and NGOs.
+
+Meanwhile, the Election Commission has ordered that the employees and students working in universities should be given holidays to vote in the election.
 
 ◼️
 
 [Data](articles/28a21ee4.json)
+
+[Extended Data](ext_articles/28a21ee4.ext.json)
 
 ---
 
@@ -559,6 +595,8 @@ Former Minister Lohan Ratwatte and his wife, who were arrested over the charges 
 ...
 
 [Data](articles/f68bd082.json)
+
+[Extended Data](ext_articles/f68bd082.ext.json)
 
 ---
 

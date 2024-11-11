@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 23:25:04**
+As of **2024-11-11 23:41:30**
 
 ## Newspaper Stats
 
-*Scraped **54,272** Articles*
+*Scraped **54,280** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 422
 bbccomsinhala | 552
 colombotelegraphcom | 554
 islandlk | 3,245
-economynextcom | 3,282
+economynextcom | 3,290
 dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,077
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,272 (100.0%) of 54,272 articles have been extended.
+54,272 (100.0%) of 54,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Sri Lanka President reveals IMF review, budget timelines
+
+*2024-11-11 23:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-reveals-imf-review-budget-timelines-186951/) · `en`
+
+ECONOMYNEXT – Sri Lanka President President Anura Kumara Dissanayake said the government expects to complete the third review for the International Monetary Fund (IMF) loan by early February 2025 and present a full year budget in the same month.
+
+The third IMF review was to be completed by October, but the parliament election has delayed the process after the September 21 presidential poll and upcoming Thursday parliamentary election.
+
+“Two days after the (Parliament) election, an IMF delegation will come to Sri Lanka. We will complete the third review by the end of January or early February,” the President said in Sri Lanka’s Western district of Gampaha when he addressed a parliamentary election campaign meeting.
+
+“We will present a vote-on-account for four months in December. We expect to approve a new budget in February.”
+
+“In the budget, we will reduce PAYE tax in a fair manner. Similarly, we will definitely raise the wages of government servants.”
+
+...
+
+[Data](articles/79279187.json)
+
+---
+
+### Sri Lanka President says to complete debt restructuring by December 2024
+
+*2024-11-11 22:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-to-complete-debt-restructuring-by-december-2024-186949/) · `en`
+
+ECONOMYNEXT – Sri Lanka will complete its debt restructuring deals by December this year and the island nation will start repaying loans in 2028 in a stronger economy, President Anura Kumara Dissanayake said.
+
+Sri Lanka reached an in-principle deal with sovereign bondholders, which was in line with International Monetary Fund’s (IMF) debt sustainability analysis (DSA).
+
+Sri Lanka is regarded as a country in default until the debt is restructured. A court case has also been filed in the US by some bondholders.
+
+“We will complete the debt restructuring by December,” the President said in the Western district of Gampaha when he addressed a parliamentary election campaign meeting.
+
+“We will start repaying loans in 2028. We have confidence that the National People’s Power (NPP) government can establish an economy which is stronger to repay the loans we need to pay.”
+
+From the time of the default about 1.8 billion dollars of coupons interest has accumulated.
+
+...
+
+[Data](articles/baf19161.json)
+
+---
 
 ### Dilith offers president a practical plan to solve Sri Lanka’s debt crisis
 
@@ -692,6 +734,28 @@ Accordingly, the election of https://eservices.elections.gov.lk should enter the
 
 ---
 
+### Sri Lanka banks, SMEs meet at Presidents office to discuss parate law, loans
+
+*2024-11-11 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-smes-meet-at-presidents-office-to-discuss-parate-law-loans-186934/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks, regulators and small and medium enterprises met at the Presidential Secretariat to discuss parate execution (foreclosure) and loan repayment difficulties faced by SMEs, a statement said.
+
+The law on parate execution or deciding on auctioning collateral of defaulted loans by banks has been suspended till December 15.
+
+The meeting discussed financial difficulties encountered by SMEs due to loan obligations, president’s media division said. “The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.”
+
+The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs, G N R D
+
+Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks Association (Guarantee) Limited.
+
+Attendees examined ways for the banking sector to provide additional support to SMEs and boost productivity in the economy.
+
+...
+
+[Data](articles/17072968.json)
+
+---
+
 ### Four people wound
 
 *2024-11-11 17:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-விழுந்ததில்-நால்வர்-காயம்/175-346947) · `ta`
@@ -948,6 +1012,50 @@ The Deputy Postmaster General further stated that the distribution process requi
 
 ---
 
+### Inaugural session of Tenth Parliament to be held on November 21
+
+*2024-11-11 17:00:00* · [`economynextcom`](https://economynext.com/inaugural-session-of-tenth-parliament-to-be-held-on-november-21-186874/) · `en`
+
+ECONOMYNEXT – The inaugural session of the Tenth Parliament, with 196 members elected by public vote and 29 members entering through the national list, is scheduled to commence on November 21.
+
+A total of 225 members of parliament will be elected in the upcoming general election on November 14.
+
+A series of special proceedings expected to take place on that day, including the appointment of Speaker, the Parliament of Sri Lanka said in a statement.
+
+On the first day, the primary responsibilities within the Chamber are entrusted to the Secretary-General of Parliament.
+
+Members of parliament are not assigned specific seating arrangements on this day and are allowed to sit in any seat of their choice.
+
+The full outline of the day’s proceedings is reproduced below:
+
+...
+
+[Data](articles/8a0f18ae.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 292.55/75 to dollar, bonds down
+
+*2024-11-11 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-55-75-to-dollar-bonds-down-186876/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 292.55/75 to the US dollar from 292.50/65 to the US dollar on Friday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed stable at 10.40/55 percent.
+
+A bond maturing on 15.12.2027 closed at 11.20/35 percent, down from 11.30/35 percent.
+
+A bond maturing on 15.03.2028 closed at 11.50/60 percent, down from 11.55/60 percent.
+
+A bond maturing on 15.06.2029 closed at 11.90/12.00 percent, down from 11.90/12.05 percent.
+
+The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
+
+◼️
+
+[Data](articles/777675cd.json)
+
+---
+
 ### Colombo Stock Exchange is Thursday
 
 *2024-11-11 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203138) · `si`
@@ -1099,6 +1207,30 @@ A special parliamentary session convened Monday to pick a new leader in a vote r
 [Data](articles/f600178f.json)
 
 [Extended Data](ext_articles/f600178f.ext.json)
+
+---
+
+### Sri Lanka stocks close up, pushed by banks
+
+*2024-11-11 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-pushed-by-banks-186867/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
+
+The broader ASPI closed up 0.58 percent, or 74.86 points, at 12,875; while the more liquid S&P SL20 Index closed up 0.91 percent, or 34.94 points, at 3,866.
+
+Banking sector stocks brought in over 1 billion of the turnover.
+
+Top turnover generators were Hatton National Bank (up at 230.00), Lanka Aluminum Industries (up at 27.50), John Keells Holdings (down at 20.90), Pan Asia Banking Corporation (up at 26.80), and Commercial Bank (up at 92.90).
+
+Crossings were recorded on HNB, Pan Asia, Commercial Bank, Lanka Aluminum.
+
+Top contributors to the ASPI were Commercial Bank (up at 118.25), Ceylon Tobacco (up at 1,270.00), Melstacorp (up at 104.00), Hatton National Bank (230.00) and National Development Bank (up at 85.80).
+
+Other banking stocks saw mixed sentiments; Sampath Bank (up at 89.10), DFCC Bank (down at 80.80).
+
+...
+
+[Data](articles/8e1b837b.json)
 
 ---
 
@@ -1648,6 +1780,24 @@ Testing of Talakiriyagama Police Station was inspected to the Trincomalee Police
 
 ---
 
+### Sri Lanka to auction Rs132bn in 2028, 2032 bonds on Nov 12
+
+*2024-11-11 13:41:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-auction-rs132bn-in-2028-2032-bonds-on-nov-12-186849/) · `en`
+
+ECONOMYNEXT – Sri Lanka is offering to sell 85 billion rupees of 2028 and 47.5 billion rupees of 2032 bond at an auction on November 12, the state debt office said.
+
+The 2028 bonds will pay a coupon of 9.00 percent and mature on 1 May 2028.
+
+The 2032 bonds will pay a coupon of 9.00 percent and mature on 1 October 2032
+
+In the secondary market Monday a 15.02.2028 bond was quoted at 11.53/57 percent, dealers said. (Colombo/Nov11/2024)
+
+◼️
+
+[Data](articles/66f30d38.json)
+
+---
+
 ### Petition for Lohan
 
 *2024-11-11 13:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானுக்கு-பிணை-கோரி-மனு/175-346937) · `ta`
@@ -1936,6 +2086,26 @@ The suspect is to be produced before the Matara Magistrate's Court, police said.
 
 ---
 
+### Sri Lanka’s Vallibel Finance to raise upto Rs3bn in debenture issue
+
+*2024-11-11 12:40:00* · [`economynextcom`](https://economynext.com/sri-lankas-vallibel-finance-to-raise-upto-rs3bn-in-debenture-issue-186835/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Vallibel Finance Plc is planning to raise up to 3 billion rupees in a debenture issue, the finance company said.
+
+The listed, rated, subordinated, unsecured, redeemable debentures will be offered at 100 rupees each.
+
+Initially 20 million of the 5-year debentures will be issued.
+
+A further 10 million will be issued if the first tranche is oversubscribed, the company said in a stock exchange filing.
+
+The Colombo Stock Exchange has approved the listing in principle.
+
+◼️
+
+[Data](articles/9f7c533b.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-11-11 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198411) · `ta`
@@ -2201,159 +2371,5 @@ The archaic Constitution of the United States written over two centuries ago wil
 [Data](articles/2ff5bfad.json)
 
 [Extended Data](ext_articles/2ff5bfad.ext.json)
-
----
-
-### America stands by its Man!
-
-*2024-11-11 11:49:00* · [`islandlk`](http://island.lk/america-stands-by-its-man/) · `en`
-
-Donald Trump did not simply win a second presidential election. He crushed Kamala Harris and the top-down electoral coalition that she was hurriedly assembling to overcome what Democrats rhetorically kept defining as an existential threat to American democracy. The American voters have resoundingly sided with the perpetrator of the threat not only in the contested seven swing states, but also in the popular vote across the country. And they ignored all the warnings dramatized by celebrities, meticulously explained by President Clinton in small voter gatherings in swing states, and soaringly articulated across the land by the Obamas – Michelle and Barak, the country’s most eloquent political couple.
-
-...
-
-[Data](articles/df26c530.json)
-
-[Extended Data](ext_articles/df26c530.ext.json)
-
----
-
-### JRJ’s detailed account of the drawing of the Indo-Lanka Peace Agreement
-
-*2024-11-11 11:47:00* · [`islandlk`](http://island.lk/jrjs-detailed-account-of-the-drawing-of-the-indo-lanka-peace-agreement/) · `en`
-
-A timetable was worked out between the two governments for signing an Accord based on these proposals to take place preferably in January 1987. Chidambaram and Natwar Singh visited Colombo for further discussions with me for the third time on December 17, 1986. No agreement could be reached at these discussions for (a) ( the merger of the two Provinces (the North and the East) or (b) exclusion of the Amparai District from the Eastern Province.
-
-An official statement issued after the 19 December 19 meeting, made the following points:
-
-President J.R. Jayewardene and the two Indian Ministers discussed further ideas in continuation of the discussions held in the past. At the end of the discussions, the following proposals emerged:
-
-i) The present territory comprising the Eastern Province minus the Amparai Electoral District may constitute the new Eastern Province.
-
-ii) A Provincial Council will be established for the new Eastern Province.
-
-...
-
-[Data](articles/a9a31ccd.json)
-
-[Extended Data](ext_articles/a9a31ccd.ext.json)
-
----
-
-### Lohan Ratwatte’s bail request fixed for consideration
-
-*2024-11-11 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103323/lohan-ratwattes-bail-request-fixed-for-consideration) · `en`
-
-The Court of Appeal has fixed for consideration a petition filed by former State Minister Lohan Ratwatte requesting him to be released on bail, on November 19.
-
-The relevant petition was taken up before the two-member Appeals Court judge bench comprising President of the Court of Appeal Nissanka Bandula Karunaratne and Justice Shashi Mahendran this morning (11).
-
-Furthermore, the judge bench has ordered the petitioning party to issue notices to the respondents of the petition including the Inspector General of Police to present facts before the court on that date.
-
-Former Minister Lohan Ratwatte and his wife, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, have been remanded in custody until November 18 by the Nugegoda Magistrate’s Court.
-
-...
-
-[Data](articles/f68bd082.json)
-
-[Extended Data](ext_articles/f68bd082.ext.json)
-
----
-
-### Spike in fever among children: Officials warn of rising viral fevers and Dengue risk
-
-*2024-11-11 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103322/spike-in-fever-among-children-officials-warn-of-rising-viral-fevers-and-dengue-risk) · `en`
-
-Dr. Deepal Perera, a paediatrician at the Lady Ridgeway Hospital for Children, states that a recent rise in fever cases among children is observed, attributing this to a surge in viral infections as well as an uptick in dengue cases.
-
-He emphasized that parents should closely monitor children’s symptoms, especially if a fever lasts more than three days, as it may indicate a more serious infection.
-
-According to Dr. Perera, many children are presenting with symptoms of viral fever, such as cough, cold, body aches, and occasional vomiting. He warned that some of these symptoms can mimic those of influenza, making it essential for parents to observe children carefully and seek medical attention if fevers persist. Additionally, he advised obtaining relevant blood tests to identify potential dengue infections.
-
-“Dengue is a particularly concerning risk, as it can be fatal, with a 0.1% mortality rate,” Dr. Perera cautioned.
-
-...
-
-[Data](articles/c7458897.json)
-
-[Extended Data](ext_articles/c7458897.ext.json)
-
----
-
-### MONKS IN CONFRONTATIONAL POLITICS
-
-*2024-11-11 11:42:00* · [`islandlk`](http://island.lk/monks-in-confrontational-politics/) · `en`
-
-Whether the participation of monks in representative politics is permissible (or proper), has been a matter of periodic discourse in the media.
-
-In preparing this note, I can claim no expertise (nor authority), on the discipline or set of rules for the Maha Sangha. Incidentally, I personally prefer to be considered as “one who seeks to follow the Dhamma,” rather than as a “Buddhist”.
-
-The ordained ones have themselves chosen to enter the Community referred to collectively as “The (Maha) Sangha” They have voluntarily resolved to abandon the lay life and to observe the rules of conduct (more than two hundred), included in the Vinaya Pitaka.
-
-In Myanmar and Thailand, the “forest dweller” (vanavasa) tradition prevails, where the monk lives alone, often in a natural cave, and devotes himself to continuous meditation and solitude, with minimum contact with others. In the commoner monastic tradition, a community of monks live together, with each engaging in his own spiritual practices.
-
-...
-
-[Data](articles/6ab635f0.json)
-
-[Extended Data](ext_articles/6ab635f0.ext.json)
-
----
-
-### Govt. will face another crisis in 2028 – Sajith Premadasa
-
-*2024-11-11 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103321/govt-will-face-another-crisis-in-2028-sajith-premadasa) · `en`
-
-Leader of the Samagi Jana Balawegaya (SJB) Sajith Premadasa claims that the new government will also face the same consequences as the previous government by not being able to begin debt repayments in 2028.
-
-Addressing a public rally held in Avissawella, Premadasa criticized the new government for planning to shut down the Thriposha factory which could affect the lives of mothers and children in the country.
-
-Speaking at the rally, Premadasa added: “President Anura Kumara Dissanayake once said that he represents the oppressed society and knows the agony of deprived people. A week later after he assumed power, he plotted against the nation’s mothers and children by planning to shut down the Thriposha factory.”
-
-...
-
-[Data](articles/18965c1d.json)
-
-[Extended Data](ext_articles/18965c1d.ext.json)
-
----
-
-### Decision taken by the Election Commission for university students and A / L students
-
-*2024-11-11 11:39:55* · [`adalk`](https://www.ada.lk/breaking_news/සරසවි-සිසුන්-හා-උසස්-පෙළ-සිසුන්-සඳහා-මැතිවරණ-කොමිසම-ගත්-තීරණය/11-412965) · `si`
-
-Election Commission decision: university staff, students get voting leave; universities closed on 13th-14th due to general election; private universities and higher education institutions also granted holidays.
-
-🟩
-
-The Elections Commission has instructed state university staff as well as the student university staff as well as the students can be given leave to vote.
-
-The University Grants Commission has decided to close the universities of the 13th and 14th of this month due to the general election.
-
-එසේම පෞද්ගලික විශ්වවිද්‍යාල හා උසස් අධ්‍යාපන ආයතන සඳහාද නිවාඩු ලබා දිය යුතු බව මැතිවරණ කොමිෂන් සභාව දැනුම් දී ඇත.
-
-The Elections Commission has informed the Elections Commission to use A / L students to prevent Adv.
-
-◼️
-
-[Data](articles/17ffbb10.json)
-
-[Extended Data](ext_articles/17ffbb10.ext.json)
-
----
-
-### The Assassination of Mr Bandaranaike
-
-*2024-11-11 11:39:00* · [`islandlk`](http://island.lk/the-assassination-of-mr-bandaranaike/) · `en`
-
-(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to the Prime Minister)
-
-Mr Bandaranaike was to address the UN General Assembly sessions in the first week of October and was to leave for New York on the September 28, the Monday after the weekend. As usual it was necessary to advice the governor-general as to who would act for the prime minister while he was away from the country. On Wednesday, the afternoon of September 24, I met Mr Bandaranaike with the customary pile of papers for signature and orders at his office on the second floor of Parliament.
-
-...
-
-[Data](articles/00a985aa.json)
-
-[Extended Data](ext_articles/00a985aa.ext.json)
 
 ---

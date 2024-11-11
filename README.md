@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 13:10:55**
+As of **2024-11-11 13:24:32**
 
 ## Newspaper Stats
 
-*Scraped **54,172** Articles*
+*Scraped **54,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,178 @@ economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,062
-adaderanalk | 6,457
+adaderanalk | 6,467
 tamilmirrorlk | 7,571
-virakesarilk | 8,781
+virakesarilk | 8,789
 adaderanasinhalalk | 9,448
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,172 (100.0%) of 54,172 articles have been extended.
+54,172 (100.0%) of 54,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### புதிய பாராளுமன்றத்தின் முதல் நாள்...
+
+*2024-11-11 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198414) · `ta`
+
+பத்தாவது பாராளுமன்றத்திற்கான பாராளுமன்ற உறுப்பினர்களைத் தெரிவுசெய்வுதற்கான பொதுத் தேர்தல்  நாளை மறுதினம் (14) நடைபெறவுள்ளது. இதில் மக்களின் வாக்குகளால் தெரிவுசெய்யப்படும் 196 உறுப்பினர்கள் மற்றும் தேசியப் பட்டியல் ஊடாகத் தெரிவு செய்யப்படும் 29 உறுப்பினர்கள் என ஒட்டுமொத்தமாக பாராளுமன்ற உறுப்பினர்களின் எண்ணிக்கை 225 ஆகும்.
+
+இவ்வாறு தெரிவுசெய்யப்படும் பாராளுமன்ற உறுப்பினர்கள் கலந்து கொள்ளும் பத்தாவது பாராளுமன்றத்தின் முதலாவது அமர்வு நவம்பர் மாதம் 21ஆம் திகதி இடம்பெறும் என ஜனாதிபதி அவர்களினால் வெளியிடப்பட்ட 2024.09.24 ஆம் திகதி 2403/13 ஆம் இலக்க வர்த்தமானி அறிவித்தலின் மூலம் அறிவிக்கப்பட்டுள்ளது. பாராளுமன்றத்தின் முதலாவது கூட்டத் தொடரின் முதலாவது அமர்வு நாளில் பல்வேறு முக்கியமான நடவடிக்கைகள் இடம்பெறுவதால் அன்றைய நாள் மிகவும் விசேடமானதாகும். முதலாவது அமர்வு நாளில் சபா மண்டபத்தில் இடம்பெறும் செயற்பாடுகளில் பாராளுமன்ற செயலாளர் நாயகத்துக்கே பிரதான பொறுப்புக் காணப்படுகிறது.
+
+...
+
+[Data](articles/618ef799.json)
+
+---
+
+### SC allows to present President’s stance on Deshabandu’s appointment as IGP
+
+*2024-11-11 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103327/sc-allows-to-present-presidents-stance-on-deshabandus-appointment-as-igp) · `en`
+
+The Supreme Court has fixed for hearing the Fundamental Rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP) on February 24, 2025.
+
+The petitions, filed by several parties including the Archbishop of Colombo Cardinal Malcolm Ranjith, were taken up before a three-member Supreme Court judge bench led by Justice Yasantha Kodagoda today (11).
+
+During the trial, the court also granted time for the Attorney General to file objections for former President Ranil Wickremesinghe, who has been named as a respondent of the petitions.
+
+On October 29, the Supreme Court allowed naming former President Ranil Wickremesinghe as a respondent of the relevant petitions.
+
+Furthermore, the judge bench granted permission for a request made by Additional Solicitor General Nerin Pulle for an opportunity to inform the current President’s stance pertaining to Deshabandu’s appointment as the IGP.
+
+◼️
+
+[Data](articles/11b28a68.json)
+
+---
+
+### Couple killed in Ambalangoda shooting linked to drug networks; drug feud suspected
+
+*2024-11-11 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103326/couple-killed-in-ambalangoda-shooting-linked-to-drug-networks-drug-feud-suspected) · `en`
+
+Police suspect that the Ambalangoda shooting incident which claimed lives of a man and a woman on Sunday (10) is linked to ongoing drug-related disputes and tensions.
+
+The couple, who were shot while traveling on a motorcycle in the Urawatte area, succumbed to gunfire allegedly fired by two unidentified assailants on another motorcycle.
+
+Police report that the victims, identified as a married couple, had previously lodged a complaint with Ambalangoda Police, regarding a dispute with the neighbors.
+
+Both had reportedly been embroiled in drug-related issues, with the man having a criminal history and being remanded on several occasions. Authorities believe that an earlier attempt on his life, which failed, was also drug-related.
+
+Meanwhile, the deceased man’s brother had also been shot dead around a year ago in a drug-linked incident, according to police.
+
+Police suspect that the recent killings may be a continuation of unresolved issues within the same criminal network.
+
+...
+
+[Data](articles/80044aa4.json)
+
+---
+
+### அயலவர்களுக்கு கைத்துப்பாக்கியை காட்டி கொலை மிரட்டல் விடுத்த உப பொலிஸ் பரிசோதகர் கைது !
+
+*2024-11-11 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198410) · `ta`
+
+தனது தந்தையை தாக்கிய அயலவர்களுக்கு கைத்துப்பாக்கியை காட்டி கொலை மிரட்டல் விடுத்த உப பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளதாக ஆனமடுவ பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவர் ஆனமடுவ தர்மபால பிரதேசத்தைச் சேர்ந்த கொழும்பு பொலிஸ் குற்றத் தடுப்பு பிரிவில் கடமையாற்றும் உப பொலிஸ் பரிசோதகர் ஆவார்.
+
+உப பொலிஸ் பரிசோதகரின் தந்தையை அவரது அயலவர்கள் கடந்த 7 ஆம் திகதி அன்று பலமாக தாக்கியுள்ளனர்.
+
+இதனையடுத்து, சந்தேக நபர் தனது அயல் வீடுகளுக்கு சென்று அவர்களிடம் கைத்துப்பாக்கியை காட்டி கொலை மிரட்டல் விடுத்து தாக்குதல் நடத்தியுள்ளதாக பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/9c77f174.json)
+
+---
+
+### போலி அமெரிக்க டொலர் நாணயத்தாள்களுடன் ஒருவர் கைது !
+
+*2024-11-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198402) · `ta`
+
+வெலிகம, மிரிஸ்ஸ பிரதேசத்தில் உள்ள சுற்றுலா விடுதி ஒன்றின் கணக்காளர் ஒருவர் போலி அமெரிக்க டொலர் நாணயத்தாள்களுடன் கைது செய்யப்பட்டுள்ளதாக  மாத்தறை பொலிஸ் குற்றத் தடுப்பு பிரிவினர் தெரிவித்தனர்.
+
+மாத்தறை பொலிஸ் குற்றத் தடுப்பு பிரிவினருக்குக் கிடைத்த தகவலுக்கு அமைய மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் , காலி பிரதேசத்தைச் சேர்ந்த 60 வயதுடையவர் ஆவார்.
+
+வெளிநாட்டவர்களுடனான பணப் பரிவர்த்தனையின் போது இந்த போலி டொலர்  நாணயத்தாள்கள் கிடைக்கப் பெற்றதாக சந்தேக நபர் பொலிஸாரிடம் தெரிவித்துள்ளார்.
+
+சந்தேக நபர் வெளிநாட்டு பிரஜை ஒருவருடன் இணைந்து போலி டொலர் நாணயத்தாள்களை கடத்தினாரா என்பது தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டு வருவதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்ட சந்தேக நபர் மாத்தறை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்படவுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c8d838ef.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-11-11 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198411) · `ta`
+
+இன்று திங்கட்கிழமை (11) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.1635 ரூபாவாகவும், விற்பனை விலை 297.1536 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/85323b32.json)
+
+---
+
+### பொய்யான வாக்குறுதிகளை வழங்கி நாட்டை ஏமாற்றி வரும் இந்த தரப்பை விடுத்து ஐக்கிய மக்கள் சக்தியை வெற்றிபெறச் செய்யுங்கள் - சஜித் பிரேமதாச
+
+*2024-11-11 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198405) · `ta`
+
+களவு, இலஞ்சம், ஊழல் ஒழிக்கப்படும், எரிபொருள் விலை குறைக்கப்படும் என தற்போதைய ஜனாதிபதி சகல தேர்தல் மேடைகளிலும் கூறினார். அவ்வாறான ஊழல் மோசடிகள் இல்லை என அனுரகுமார திஸாநாயக்க ஜனாதிபதியினால் நியமிக்கப்பட்ட பெற்றோலியக்  கூட்டுத்தாபனத்தின் புதிய தலைவர் தற்போது தெரிவித்துவருகிறார். எரிபொருள் குறைத்து மக்களுக்கு சலுகைகளை தருவதாக கூறிய இவர்கள் தற்போது மக்களை ஏமாற்றி வருகின்றனர். எரிபொருள் விலை சூத்திரத்திற்கு தாம் அடிபணியப்போவதில்லை என கூறிய அனுரகுமார திஸாநாயக்க, எரிபொருள் விலை சூத்திரத்தின் பிணைக்கைதியாக மாறியுள்ளார். கடைசியாக பணக்கார வர்க்கம் பயன்படுத்தும் எரிபொருள் விலைகளை குறைத்துள்ளனர் என சஜித் பிரேமதாச தெரிவித்தார்.
+
+2024 பொதுத் தேர்தலை இலக்காக் கொண்டு மஹரகம பிரதேச மக்களுடனான சந்திப்பொன்று நேற்று (10) ஐக்கிய மக்கள் சக்தியினதும் ஐக்கிய மக்கள் கூட்டணியினதும் தலைவரான சஜித் பிரேமதாச தலைமையில் இடம்பெற்றது.
+
+...
+
+[Data](articles/f16ae8cb.json)
+
+---
+
+### 9 வயது சிறுவனுக்கு பலாத்காரமாக கசிப்பு அருந்த கொடுத்தவர் கைது !
+
+*2024-11-11 12:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198386) · `ta`
+
+9 வயது சிறுவனுக்கு பலாத்காரமாக கசிப்பு அருந்த கொடுத்தாக கூறப்படும் சந்தேக  நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக கஹதுடுவ பொலிஸார் தெரிவித்துள்ளனர்.
+
+கசிப்பு அருந்தி சுகயீனமுற்ற சிறுவன் ஒருவன் களுபோவில போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக 119 என்ற பொலிஸ் அவசர தொலைபேசி இலக்கத்திற்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணையில் சந்தேக நபர் கஹதுடுவ சிங்ககம பிரதேசத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+
+சந்தேக நபர் சுகயீனமுற்ற சிறுவனின் வீட்டிற்கு அருகில் வசித்து வருவதாக பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளன.
+
+சந்தேக நபர், மேலும் இரு சிறுவர்களுக்கு பலாத்காரமாக மது அருந்த கொடுத்துள்ளதாக பொலிஸாருக்கு தகவல் கிடைத்துள்ள போதிலும் அது தொடர்பில் மேலதிக தகவல்கள் எதுவும் கிடைக்கவில்லை என பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/d4ba9b55.json)
+
+---
+
+### General Election: Voter’s index finger to be marked instead of little finger
+
+*2024-11-11 12:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103325/general-election-voters-index-finger-to-be-marked-instead-of-little-finger) · `en`
+
+The Election Commission has announced a key measure for the upcoming Parliamentary Election scheduled for November 14, 2024.
+
+Accordingly, voters will have their left hand’s index finger marked with an appropriate sign to prevent double voting and ensure transparency, the election regulatory body said.
+
+This decision comes in light of concerns about possible confusion during the polling process for the Presidential Election 2024, which took place recently.
+
+Meanwhile, if a voter’s left index finger is unavailable, the mark will be applied to another finger, as suitable, according to the Election Commission.
+
+◼️
+
+[Data](articles/2ebcf0d7.json)
+
+---
 
 ### Changes the colored finger at the general election
 
@@ -54,6 +212,22 @@ The Director General of the Elections Commissioner Saman Sri Ratnayake said that
 
 ---
 
+### தேர்தலின் போது ஏற்படும் அனர்த்தங்களை எதிர்கொள்ள விசேட வேலைத்திட்டம்
+
+*2024-11-11 12:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198407) · `ta`
+
+எதிர்வரும் பொதுத் தேர்தலின் போது ஏற்படும் அனர்த்த நிலைமைகளை எதிர்கொள்ள விசேட வேலைத்திட்டம் ஒன்று அமுல்படுத்தப்பட்டுள்ளதாக அனர்த்த முகாமைத்துவ நிலையம் தெரிவித்துள்ளது.
+
+வளிமண்டலவியல் திணைக்களம், நீர்ப்பாசனத் திணைக்களம், தேசிய கட்டிட ஆராய்ச்சி நிறுவனம், முப்படையினர் மற்றும் பொலிஸார் ஆகியோர் ஒன்றிணைந்து இந்த விசேட வேலைத்திட்டத்தில் செயற்படவுள்ளதாக அனர்த்த முகாமைத்துவ நிலையத்தின் பணிப்பாளர் பிரதீப் கொடிப்பிலி தெரிவித்துள்ளார்.
+
+அதன்படி, 12 ஆம் திகதி முதல் 16 ஆம் திகதி வரை 5 நாட்களுக்கு  விசேட வேலைத்திட்டம் செயல்படவுள்ளமை குறிப்பிடதத்க்கது.
+
+◼️
+
+[Data](articles/ae4c8f86.json)
+
+---
+
 ### Difficult Dealings with Strong Political Personalities
 
 *2024-11-11 12:07:00* · [`islandlk`](http://island.lk/difficult-dealings-with-strong-political-personalities/) · `en`
@@ -67,6 +241,28 @@ Senior public officials have often to act as buffers between ministers, other im
 [Data](articles/b80335ab.json)
 
 [Extended Data](ext_articles/b80335ab.ext.json)
+
+---
+
+### India’s luxury airline Vistara concludes operations
+
+*2024-11-11 12:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103324/indias-luxury-airline-vistara-concludes-operations) · `en`
+
+Indian full-service carrier Vistara will operate its last flight on Monday, after nine years in existence.
+
+A joint venture between Singapore Airlines and the Tata Sons, Vistara will merge with Tata-owned Air India to form a single entity with an expanded network and broader fleet.
+
+This means that all Vistara operations will be transferred to and managed by Air India, including helpdesk kiosks and ticketing offices.
+
+The process of migrating passengers with existing Vistara bookings and loyalty programmes to Air India has been under way over the past few months.
+
+“As part of the merger process, meals, service ware and other soft elements have been upgraded and incorporates aspects of both Vistara and Air India,” an Air India spokesperson said in an email response.
+
+Amid concerns that the merger could impact service standards, the Tatas have assured that Vistara’s in-flight experience will remain unchanged.
+
+...
+
+[Data](articles/03c054a6.json)
 
 ---
 
@@ -99,6 +295,76 @@ He says that the future of Haiti will be another problem.
 [Data](articles/79c64b96.json)
 
 [Extended Data](ext_articles/79c64b96.ext.json)
+
+---
+
+### 13, 14 ஆம் திகதிகள் அனைத்து பல்கலைக்கழகங்களுக்கும் விடுமுறை
+
+*2024-11-11 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198404) · `ta`
+
+எதிர்வரும் பொதுத்  தேர்தலை முன்னிட்டு அனைத்த பல்கலைக்கழகங்களுக்கும் 13 மற்றும் 14 ஆகிய திகதிகளில் விடுமுறை வழங்க தீர்மானித்துள்ளதாக பல்கலைக்கழக மானியங்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+அரச பல்கலைக்கழக ஊழியர்கள் மற்றும் மாணவர்களின் வாக்குரிமையை உறுதிப்படுத்தும் நோக்கில் இந்த நடவடிக்கை எடுக்கப்பட்டுள்ளதாக ஆணைக்குழு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், தனியார் பல்கலைக்கழகங்கள் மற்றும் அரசு சாரா உயர்கல்வி நிறுவனங்களுக்கும் இந்த தீர்மானம் பொருந்தும் என தெரிவித்துள்ளது.
+
+இதேவேளை, தேர்தலில் வாக்களிப்பதற்கு வசதியாக பல்கலைக்கழகங்களில் பணிபுரியும் ஊழியர்கள் மற்றும் மாணவர்களுக்கு விடுமுறை அளிக்க வேண்டும் என்று தேர்தல்  ஆணைக்குழு உத்தரவிட்டுள்ளது.
+
+◼️
+
+[Data](articles/28a21ee4.json)
+
+---
+
+### Lohan Ratwatte’s bail request fixed for consideration
+
+*2024-11-11 11:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103323/lohan-ratwattes-bail-request-fixed-for-consideration) · `en`
+
+The Court of Appeal has fixed for consideration a petition filed by former State Minister Lohan Ratwatte requesting him to be released on bail, on November 19.
+
+The relevant petition was taken up before the two-member Appeals Court judge bench comprising President of the Court of Appeal Nissanka Bandula Karunaratne and Justice Shashi Mahendran this morning (11).
+
+Furthermore, the judge bench has ordered the petitioning party to issue notices to the respondents of the petition including the Inspector General of Police to present facts before the court on that date.
+
+Former Minister Lohan Ratwatte and his wife, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, have been remanded in custody until November 18 by the Nugegoda Magistrate’s Court.
+
+...
+
+[Data](articles/f68bd082.json)
+
+---
+
+### Spike in fever among children: Officials warn of rising viral fevers and Dengue risk
+
+*2024-11-11 11:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103322/spike-in-fever-among-children-officials-warn-of-rising-viral-fevers-and-dengue-risk) · `en`
+
+Dr. Deepal Perera, a paediatrician at the Lady Ridgeway Hospital for Children, states that a recent rise in fever cases among children is observed, attributing this to a surge in viral infections as well as an uptick in dengue cases.
+
+He emphasized that parents should closely monitor children’s symptoms, especially if a fever lasts more than three days, as it may indicate a more serious infection.
+
+According to Dr. Perera, many children are presenting with symptoms of viral fever, such as cough, cold, body aches, and occasional vomiting. He warned that some of these symptoms can mimic those of influenza, making it essential for parents to observe children carefully and seek medical attention if fevers persist. Additionally, he advised obtaining relevant blood tests to identify potential dengue infections.
+
+“Dengue is a particularly concerning risk, as it can be fatal, with a 0.1% mortality rate,” Dr. Perera cautioned.
+
+...
+
+[Data](articles/c7458897.json)
+
+---
+
+### Govt. will face another crisis in 2028 – Sajith Premadasa
+
+*2024-11-11 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103321/govt-will-face-another-crisis-in-2028-sajith-premadasa) · `en`
+
+Leader of the Samagi Jana Balawegaya (SJB) Sajith Premadasa claims that the new government will also face the same consequences as the previous government by not being able to begin debt repayments in 2028.
+
+Addressing a public rally held in Avissawella, Premadasa criticized the new government for planning to shut down the Thriposha factory which could affect the lives of mothers and children in the country.
+
+Speaking at the rally, Premadasa added: “President Anura Kumara Dissanayake once said that he represents the oppressed society and knows the agony of deprived people. A week later after he assumed power, he plotted against the nation’s mothers and children by planning to shut down the Thriposha factory.”
+
+...
+
+[Data](articles/18965c1d.json)
 
 ---
 
@@ -316,6 +582,24 @@ Speaking at a public meeting held in Galle yesterday, he said that the budget ha
 
 ---
 
+### Ministry accuses mill owners of creating artificial rice shortage, vows prompt action
+
+*2024-11-11 11:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103320/ministry-accuses-mill-owners-of-creating-artificial-rice-shortage-vows-prompt-action) · `en`
+
+The Ministry of Trade assures that there are sufficient stocks of ‘Nadu’ rice available within the country, as per the recent report prepared by the Consumer Affairs Authority (CAA) pertaining to the national rice stocks.
+
+The Secretary to the Ministry of Trade M.M. Naimuddin accused rice mill owners of creating an artificial shortage in local markets to drive up prices, and he promised immediate measures to address the issue.
+
+Meanwhile, the Maradagahamula Rice Traders’ Association says that due to the shortage and high prices of certain types of rice in the market, the sale of rice has dropped by about 50%.
+
+In recent weeks, rice prices in the market have exceeded the government control price, with a noted shortage of Nadu rice.
+
+...
+
+[Data](articles/8730ef43.json)
+
+---
+
 ### It is not racism to give preferential votes
 
 *2024-11-11 11:24:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்குகளை-வழங்க-வேண்டும்-என்பது-இனவாதம்-அல்ல/175-346931) · `ta`
@@ -361,6 +645,24 @@ I would like to simply describe the process of Tamil voters in the districts of 
 [Data](articles/be7be67f.json)
 
 [Extended Data](ext_articles/be7be67f.ext.json)
+
+---
+
+### First day of new Parliament on Nov. 21
+
+*2024-11-11 11:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103319/first-day-of-new-parliament-on-nov-21) · `en`
+
+The Parliamentary Communications Department has issued a statement regarding the inaugural session of the tenth Parliament, to be commenced on November 21, following the 2024 General Election.
+
+The upcoming general election to elect Members of Parliament for the Tenth Parliament is scheduled for November 14. Through this election, a total of 225 Members of Parliament will be elected, comprising 196 members elected by public vote and 29 members entering through the national list, the statement added.
+
+The inaugural session of the Tenth Parliament, comprising of members through this process, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President, according to the Parliamentary Communications Department.
+
+The first day of Parliament’s inaugural session holds particular significance due to the series of special proceedings expected to take place on that day.
+
+...
+
+[Data](articles/b894840a.json)
 
 ---
 
@@ -497,6 +799,24 @@ Fish should have water and weapon for a soldier.  அது போல அரச
 [Data](articles/c0d72458.json)
 
 [Extended Data](ext_articles/c0d72458.ext.json)
+
+---
+
+### Iran responds to claims of Iranian linked to Trump assassination attempt, Arugam Bay attack plot
+
+*2024-11-11 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/103318/iran-responds-to-claims-of-iranian-linked-to-trump-assassination-attempt-arugam-bay-attack-plot-) · `en`
+
+Iran’s Foreign Minister Abbas Araqchi has responded to U.S. charges that Tehran was linked to an alleged plot to kill Donald Trump and tasked with targeting Israeli tourists in Sri Lanka while calling on for confidence-building between the two hostile countries.
+
+“Now ... a new scenario is fabricated ... as a killer does not exist in reality, scriptwriters are brought in to manufacture a third-rate comedy,” Araqchi said in a post on X.
+
+He was referring to the alleged plot which Washington said was ordered by Iran’s elite Revolutionary Guards to assassinate Trump, who won Tuesday’s presidential election and takes office in January.
+
+“The American people have made their decision. And Iran respects their right to elect the President of their choice. The path forward is also a choice. It begins with respect,” Araqchi said.
+
+...
+
+[Data](articles/6f69ae86.json)
 
 ---
 
@@ -1883,403 +2203,5 @@ Sargia Sri Lanka also extends its influence internationally through its Dubai-ba
 [Data](articles/80b5a70a.json)
 
 [Extended Data](ext_articles/80b5a70a.ext.json)
-
----
-
-### NCHS-Swinburne graduation marks 10 years of partnership
-
-*2024-11-11 01:29:00* · [`islandlk`](http://island.lk/nchs-swinburne-graduation-marks-10-years-of-partnership/) · `en`
-
-Nawaloka College of Higher Studies (NCHS) and Swinburne University of Technology celebrated their decade-long partnership in Sri Lanka, a collaboration that has provided countless Sri Lankan students with pathways to global education and career opportunities. Held at the BMICH on the 23rd of October 2024, this milestone graduation ceremony saw over 400 students awarded qualifications, marking both a pivotal personal achievement and a testament to the lasting impact of the NCHS-Swinburne alliance.
-
-The event opened with a recognition of NCHS’s journey in making quality, internationally recognized education accessible to students throughout Sri Lanka. With campuses in Colombo and Kandy, NCHS has built a reputation for providing a learning environment that meets the highest global standards while supporting the aspirations of students locally.
-
-...
-
-[Data](articles/5164bb96.json)
-
-[Extended Data](ext_articles/5164bb96.ext.json)
-
----
-
-### Singapore press club delegates explore Sri Lanka with SriLankan Airlines
-
-*2024-11-11 01:27:00* · [`islandlk`](http://island.lk/singapore-press-club-delegates-explore-sri-lanka-with-srilankan-airlines/) · `en`
-
-Delegates from the Singapore Press Club recently visited Sri Lanka, with SriLankan Airlines collaborating with the Sri Lanka High Commission in Singapore as the airline partner for the group’s tour. During their visit, they were welcomed by the Head of Worldwide Sales, Dimuthu Tennakoon, and the SriLankan Airlines Corporate Communications team, who shared insights into the airline’s operations between Colombo and Singapore.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/45309c66.json)
-
-[Extended Data](ext_articles/45309c66.ext.json)
-
----
-
-### Representation of minority groups in Parliament is in danger
-
-*2024-11-11 01:26:18* · [`dailyftlk`](https://www.ft.lk/columns/Representation-of-minority-groups-in-Parliament-is-in-danger/4-769056) · `en`
-
-Representation of minority groups in Sri Lanka’s Parliament appears to be in danger of weakening in the upcoming elections, which could affect their rights
-
-The main national parties in Sri Lanka have had a history of nominating representatives from minority communities who have gone on to take leadership positions. This is changing now with minority politicians in these parties often feeling isolated and finding fewer opportunities to raise minority rights issues
-
-Sri Lanka concluded its Presidential election on 21 September and elected a new president Anura Kumara Dissanayake from the NPP, which resulted in the dissolution of the Parliament before its maturity period. The Election Commission announced a Parliamentary election for 14 November 2024 with deadlines for nominations of candidates set for 11 October, 2024.
-
-...
-
-[Data](articles/583bd0cb.json)
-
-[Extended Data](ext_articles/583bd0cb.ext.json)
-
----
-
-### How COPF exposed Sri Lanka’s visa scam
-
-*2024-11-11 01:20:35* · [`dailyftlk`](https://www.ft.lk/opinion/How-COPF-exposed-Sri-Lanka-s-visa-scam/14-769055) · `en`
-
-The fight for justice is far from over. The Supreme Court has scheduled the next inquiry for January 2025, and COPF continues to push for full transparency and accountability. Their work has set a precedent, showing that even the most powerful deals can be undone when public funds and integrity are at stake. This case is not just about visas – it’s about upholding the rule of law and ensuring that public officials serve the people, not themselves. COPF’s relentless efforts have shown the power of accountability and how one committee’s determination can make all the difference
-
-Millions of tourists apply for visas every year to explore Sri Lanka. But in 2023, something went very wrong with Sri Lanka’s visa system, leaving many tourists and citizens questioning how such a simple process could turn into a national controversy.
-
-...
-
-[Data](articles/ecc4fd5c.json)
-
-[Extended Data](ext_articles/ecc4fd5c.ext.json)
-
----
-
-### How COPF exposed Sri Lanka’s visa scam
-
-*2024-11-11 01:20:35* · [`dailyftlk`](https://www.ft.lk/columns/How-COPF-exposed-Sri-Lanka-s-visa-scam/4-769055) · `en`
-
-The fight for justice is far from over. The Supreme Court has scheduled the next inquiry for January 2025, and COPF continues to push for full transparency and accountability. Their work has set a precedent, showing that even the most powerful deals can be undone when public funds and integrity are at stake. This case is not just about visas – it’s about upholding the rule of law and ensuring that public officials serve the people, not themselves. COPF’s relentless efforts have shown the power of accountability and how one committee’s determination can make all the difference
-
-Millions of tourists apply for visas every year to explore Sri Lanka. But in 2023, something went very wrong with Sri Lanka’s visa system, leaving many tourists and citizens questioning how such a simple process could turn into a national controversy.
-
-...
-
-[Data](articles/f4e98233.json)
-
-[Extended Data](ext_articles/f4e98233.ext.json)
-
----
-
-### “Without reforms SL will be dead in the water” – Dr. Harsha de Silva
-
-*2024-11-11 01:12:06* · [`dailyftlk`](https://www.ft.lk/columns/Without-reforms-SL-will-be-dead-in-the-water-Dr-Harsha-de-Silva/4-769054) · `en`
-
-Says the Government is not sending the right message for the foreign investors to start thinking about Sri Lanka again
-
-Emphasises that if the Government changes the Debt Sustainability Agreement, the entire debt restructuring plan falls apart
-
-Accuses Ranil Wickremesinghe Government of ignoring economic justice for other reasons
-
-Says a mixed team with experienced and novice politicians should be elected to the Parliament
-
-The Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) is suddenly glorifying new liberal agenda of Ranil Wickremesinghe, claims Dr. Harsha de Silva, who is contesting for the Colombo district from the Samagi Jana Balawegaya (SJB).
-
-He accused the JVP of opposing every single reform including the International Monetary Fund (IMF) agreement, Central Bank law and debt management, for the last 40 years.
-
-...
-
-[Data](articles/b6c7a8a9.json)
-
-[Extended Data](ext_articles/b6c7a8a9.ext.json)
-
----
-
-### The man who could have been the President!
-
-*2024-11-11 01:00:53* · [`dailyftlk`](https://www.ft.lk/columns/The-man-who-could-have-been-the-President/4-769053) · `en`
-
-Sri Lanka is currently on a path to establishing a government free of injustice, nepotism, fraud, bribery, and all forms of corruption. For this ambitious goal to be achieved, individuals of impeccable character must hold government positions, and citizens must likewise adopt a mindset that supports integrity and accountability in all capacities. Achieving a truly corruption-free state requires that the ruling party remain open to constructive criticism, and that its supporters welcome such feedback without becoming sycophants—rejecting good advice or silencing critics.
-
-Lawyer Nagananda, a respected attorney in both Sri Lanka and England, is widely known for his unwavering commitment to fighting injustice and corruption in all its forms. His constructive criticism is imparted without bias toward any individual or party. Consequently, he has often been regarded as an enemy by many, finding support only among a few rational-minded individuals.
-
-...
-
-[Data](articles/00e74a6b.json)
-
-[Extended Data](ext_articles/00e74a6b.ext.json)
-
----
-
-### “President AKD’s Govt. has no strategic plan to run SL” – Dilith Jayaweera
-
-*2024-11-11 00:42:02* · [`dailyftlk`](https://www.ft.lk/columns/President-AKD-s-Govt-has-no-strategic-plan-to-run-SL-Dilith-Jayaweera/4-769052) · `en`
-
-Claims NPP has become a hybrid party and two ideologies, including JVP’s Marxism thinking, clashing with each other
-
-Claims no JVP in the NPP and Ranil Wickremesinghe is the de-facto leader of the NPP
-
-Calls on people to embrace Sarvajana Balaya as the only living party
-
-Notes most politicians don’t have management skills, creativity, risk taking ability and exposure
-
-Emphasises Sri Lanka should become an entrepreneur State to come out of crisis
-
-Says creating digital platforms is vital as it supports Govt. in correct decision making with data
-
-Requests people to vote for politicians with substantial capability of representing people
-
-Gampaha district candidate from the Sarvajana Balaya alliance Dilith Jayaweera claims that the National People’s Power (NPP) doesn’t have a vision and a strategic plan to define ways and means on how the Government can solve the issues and keep people’s promises.
-
-...
-
-[Data](articles/3b94b370.json)
-
-[Extended Data](ext_articles/3b94b370.ext.json)
-
----
-
-### 2024-11-10 (Sunday)
-
-### Traffic on Matara Coast Road
-
-*2024-11-10 23:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198376) · `ta`
-
-Matara Coast Road traffic closure: 2pm-1pm on 12th due to election setup. Use New Tangalle Rd or Old Tangalle Rd instead.
-
-🟩
-
-The Voting Center is to be set up at Rahul College, Matara, following the parliamentary elections to be held on the 14th.
-
-Therefore, according to the Parliamentary Election Safety and Transport Scheme, traffic will be stopped on the road from 02.00 pm to 13 pm on the 12th of this month.
-
-Therefore, the police have requested the use of the following roads except the road from Ranaviru to Eliyakanda on the coastal road of Matara.
-
-Vehicles traveling from Matara to Kadirgamam and from Kadirgama to Matara can travel on New Tangalle Road and Old Tangalle Road.
-
-◼️
-
-[Data](articles/d0b2d0cd.json)
-
-[Extended Data](ext_articles/d0b2d0cd.ext.json)
-
----
-
-### Disclosure of Nadu rice in the market
-
-*2024-11-10 23:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203115) · `si`
-
-Nadu rice shortage causes 50% price drop. Over-cost rice blamed. Government intervenes, but traders claim ongoing scarcity.
-
-🟩
-
-The deficit of some rice deficit in the market and rice has fallen by 50% due to over-cost rice, Maradagahamula rice 'Association says.
-
-The prices of rice increased over the market in the market in several weeks and there was a shortage of nadu rice.
-
-Accordingly, the President summoned the large-scale rice producers to the control of the control of the control of the prices and agreed.
-
-The Consumer Affairs Authority was handed over to the President on the instructions that the President gave immediate submission of data on paddy and rice report on the country.
-
-However, people and their traders say that there are still some rice deficit in the market and that the rice price will be purchased.
-
-However, the Ministry of Trade Ministries MM. Says Mr. Nimimudin.
-
-The Ministry Secretary said that some mill owners had a shortage of artificial rice shortage to increase the price.
-
-◼️
-
-[Data](articles/2ec84430.json)
-
-[Extended Data](ext_articles/2ec84430.ext.json)
-
----
-
-### Sri Lanka - New Zealand T20 Series Balance
-
-*2024-11-10 23:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198377) · `ta`
-
-Sri Lanka vs New Zealand T20 series tied 1-1 after NZ wins final match by 5 runs. SL batted first, scoring 108/10 in 19.3 overs. NZ replied with 103/10 in 19.5 overs.
-
-🟩
-
-New Zealand have won by 5 runs in the final of the two -match T20 series between the New Zealand cricket team and Sri Lanka.
-
-The Sri Lankan team won the match first and decided to bowl first and scored 108 runs for the loss of all the wickets at the end of 19 overs and 3 balls.
-
-In reply, the Sri Lankan team lost all the wickets at the end of 19.5 overs and scored only 103 runs.
-
-So the T20 series between the two teams ended at 1: 1.
-
-◼️
-
-[Data](articles/6ee920d0.json)
-
-[Extended Data](ext_articles/6ee920d0.ext.json)
-
----
-
-### Immediate investigation into the Chunnakam incident
-
-*2024-11-10 23:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுன்னாகம்-சம்பவம்-குறித்து-உடனடி-விசாரணை/175-346906) · `ta`
-
-Chunnakam incident: Special police team conducts impartial investigation into van-motorcycle accident, injuries, and alleged assault.
-
-🟩
-
-சுன்னாகம் பகுதியில் பொலிஸார் நடந்து கொண்ட விடயம் தொடர்பில் விசேட பொலிஸ் குழுவினர் விசாரணைகளை முன்னெடுத்துள்ளதாக யாழ்ப்பாண பிராந்திய உதவி பொலிஸ் அத்தியட்சகர் எம் எஸ் எம் ஜருள் தெரிவித்துள்ளார்.
-
-A van -motorcycle accident occurred yesterday (09) in Chunnakam area. Following this, the driver of the driver of the driver's driver's permit was tried to examine the driver of the driver.
-
-The driver of the driver was also accused of assaulting the driver's wife and the police had knocked their two -month -old child in her hand.
-
-Following the incident, there was a tense situation in front of the Chunnakam police station yesterday.
-
-The Jaffna Regional Assistant Superintendent of Police, MSM Zarul, told the media today (10)
-
-A van on a motorcycle and a van on a motorcycle at the Kankesanthurai police station crashed near the Chunnakam junction on the Kankesanthurai road.
-
-...
-
-[Data](articles/7ad9615c.json)
-
-[Extended Data](ext_articles/7ad9615c.ext.json)
-
----
-
-### Sri Lanka defeated 5 runs
-
-*2024-11-10 23:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203114) · `si`
-
-Sri Lanka lost 5-run T20 match to New Zealand in Dambulla. NZ wins series 2-1, ending 11-year drought. NZ batted first, scoring 108/10 in 19.3 overs. SL replied with 103/10 in 19.5 overs.
-
-🟩
-
-Sri Lanka were defeated in the second and final T20 match against New Zealand today (10) in Dambulla.
-
-Accordingly, Sri Lanka, which was able to confirm a 2-0-match tournament, matches 1-1.
-
-If Sri Lanka were able to win the match today, New Zealand could have won a Twenty20 tournament after 11 years.
-
-Lasty they won the Twenty20 tournament against New Zealand in 2013.
-
-Timot, New Zealand were able to win every tournament (the tournaments) in New Zealand and Sri Lanka.
-
-Batting first, New Zealand scored 108 runs for the loss of all wickets in 19.3 overs.
-
-However, it was only 103 runs in 19.5 overs to Sri Lanka in 19.5 overs.
-
-◼️
-
-[Data](articles/9d5d3fbf.json)
-
-[Extended Data](ext_articles/9d5d3fbf.ext.json)
-
----
-
-### President pays a statement about political prisoners
-
-*2024-11-10 22:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203113) · `si`
-
-President Anura Kumara Dissanayake promises to release Tamil political prisoners, emphasizing unity and reconciliation. He highlights the National Folk Force's efforts to unite Sinhalese, Tamils, and Muslims. The President vows to address past injustices and work towards healing the nation's divisions.
-
-🟩
-
-President Anura Kumara Dissanayake says he is ready to take action to release Tamil political prisoners.
-
-The President added that the National Folk Force has addressed a rally organized by the government today (10).
-
-"Our country is a country that is divided. But we cannot go before our country and it is divided this way. Our main prospect should end all these divisions. To add, you have to be. There should be a movement to have Sinhala, Tamil, Muslims and leaders. That is the national folk force. "
-
-"There was a lack of operation in Tamil language. So they chose the old parties. But what happened to the September.The NPP won the NPP and made confidence in the people. I think that victory was the most excited of the people in the North. They started waking up. How many parties have told the other parties that after the day, the government is going to the government of the compass after. We have to miss the bus, late. "
-
-...
-
-[Data](articles/55b97bd6.json)
-
-[Extended Data](ext_articles/55b97bd6.ext.json)
-
----
-
-### Dilith proposes to the President to find aware of 'Il Mahaera'
-
-*2024-11-10 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203112) · `si`
-
-Dilith Jayaweera proposes to President Anura Kumara Dissanayake to appoint Rohana Wijeweera and investigate the assassination of Il Maha Heroes. He mentions innocent villagers killed, NGOs involved, and plans to bring a commission to Parliament to find out about the murders.
-
-🟩
-
-The Leader of the Sorve Pennulogy, Dilith Jayaweera proposes to President Anura Kumara Dissanayake to appoint Rohana Wijeweera and the assassination of Il Maha Heroes.
-
-"අනුර කුමාර ජනාධිපතිතුමනි..ඔබ තුමාගේ නායකයා ඒ ආදරණීය රෝහණ විජේවීර සහෝදරයා අමු අමුවේ කනත්තේ ආදාහනාගාරයට දාපු ඒ ඝාතනය කරපු එක ගැන ඔබතුමා ජනාධිපති වුණ දවසේ ඉදලා හොයයි කියලා අපේ ගමේ මිනිස්සු බලාගෙන ඉන්නවා.
-
-People in our university were killed. They're all the innocent people from the village. They didn't have the streets of Colombo. ඒ අයට තිබුණේ නෑ NGO හයිය. The trouble with Thajudeen, the hardenware of Lasantha, is about the heroes of Eknaligoda. That's why he wants to remind him.
-
-We're coming as the opposition to Parliament. We bring a commission to find out about all those innocent murdered people. අපි හිටගන්නවා අනුර කුමාර සහෝදරයත් සමග".
-
-◼️
-
-[Data](articles/7dc06916.json)
-
-[Extended Data](ext_articles/7dc06916.ext.json)
-
----
-
-### The government does not blame the government for the mistakes of a few officials - Geetanath Kasilingam
-
-*2024-11-10 21:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198374) · `ta`
-
-Government denies responsibility for official misconduct. Demands thorough investigation and justice for victims of attack.
-
-🟩
-
-The government does not use the government for mistakes made by a few officials. "It is our demand for the incident to conduct a proper investigation and establish justice," said Geetanath Kasilingam, a member of the Central Committee of the Sri Lanka PA and the Jaffna election district candidate.
-
-In a media statement condemned by the Chunnakam police, a young man and his husband and husband were attacked.
-
-I am worried about the incident that the Chunnakam police in the Chunnakam police in the Chunnakam area in Jaffna, his child and her husband and her husband have been attacked on Saturday night and are taking appropriate legal action against the attackers and taking appropriate legal action against the attackers.
-
-...
-
-[Data](articles/edb9b34a.json)
-
-[Extended Data](ext_articles/edb9b34a.ext.json)
-
----
-
-### Proportional Deputy Finance and Member of Parliament
-
-*2024-11-10 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198350) · `ta`
-
-National List system distributes seats proportionally based on party vote percentages. Total 29 seats allocated.
-
-🟩
-
-Total number of National List 29. The National List System was formed to bring in parliament to parliament. In the election on how the National List seat is shared. The National List is distributed based on the number of votes received by the parties, with a hundred per cent.
-
-◼️
-
-[Data](articles/4022b5a0.json)
-
-[Extended Data](ext_articles/4022b5a0.ext.json)
-
----
-
-### Special program in place for potential election-period disasters
-
-*2024-11-10 21:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103310/special-program-in-place-for-potential-election-period-disasters) · `en`
-
-The Disaster Management Center (DMC) announced that a dedicated program is in place to manage potential disaster situations during the upcoming parliamentary election period.
-
-Director of the DMC Pradeep Kodippili said a special unit will be set up specifically for this purpose, with operations set to commence on November 12.
-
-This unit will coordinate closely with the Election Commission, focusing on disaster readiness and response for a five-day period surrounding the election.
-
-The program will cover two days before the election day, election day itself, and two days afterward, according to the DMC.
-
-◼️
-
-[Data](articles/7de31146.json)
-
-[Extended Data](ext_articles/7de31146.ext.json)
 
 ---

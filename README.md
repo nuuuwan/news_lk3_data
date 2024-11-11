@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 09:25:01**
+As of **2024-11-11 09:59:53**
 
 ## Newspaper Stats
 
-*Scraped **54,132** Articles*
+*Scraped **54,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,151 @@ islandlk | 3,239
 economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
-adalk | 5,054
+adalk | 5,056
 adaderanalk | 6,454
-tamilmirrorlk | 7,557
+tamilmirrorlk | 7,560
 virakesarilk | 8,777
-adaderanasinhalalk | 9,442
+adaderanasinhalalk | 9,444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,132 (100.0%) of 54,132 articles have been extended.
+54,139 (100.0%) of 54,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Lock for liquor schools
+
+*2024-11-11 09:22:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-346918) · `ta`
+
+Liquor stores nationwide closing 14th-15th due to elections. Commissioner issues directive against illegal activities. Companies not paying taxes get license renewal deadline extended to 30th. Four companies' permits suspended.
+
+🟩
+
+All liquor stores in the country will be closed on the 14th and 15th due to the general election.
+
+Steps have been taken to close liquor stores on the 14th of this month and on the 15th.
+
+The Commissioner General of Liquor has issued a directive to implement the law on liquor and other illegal activities that violate the law.
+
+Meanwhile, companies that do not pay income tax to renew pending liquor licenses have been granted until the 30th of this month.
+
+According to reports, the Department of Liquor has focused on the four companies of these companies and the permits of the companies will be suspended.
+
+◼️
+
+[Data](articles/b386ce23.json)
+
+[Extended Data](ext_articles/b386ce23.ext.json)
+
+---
+
+### Iran responds to Arugambay incident and the main suspect who tried to murder
+
+*2024-11-11 09:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203125) · `si`
+
+Iran denies involvement in plot to kill Trump. Foreign Minister calls for trust-building between nations. Accused individual linked to Revolutionary Guard. Case highlights tensions between Iran and US.
+
+🟩
+
+The Iranian Foreign Ministry has responded against the man who is accused of being accused of attempting to attempt to attack Donald Trump.
+
+Accordingly, Indian Foreign Minister Abbas Arachchi has been accused of allegations that Donald Trump is to assassinate Donald Trump.
+
+The Iranian Foreign Minister has asked the US that the US will be able to build trust between the two opposite countries.
+
+Iranian Foreign Minister Abbas Arachchi has made this statement in a "x" account.
+
+He has said that some parties are trying to produce a third level generation in creation today.
+
+It is said that the Iranian Foreign Minister (Iranian Foreign Minister has respected the existing owner to elect a president.
+
+Iran is not in a period of marking nuclear weapons.
+
+Iranian Foreign Minister Abbas Arachchi added that the building of trust is the essential point of both sides and it is not a single path.
+
+...
+
+[Data](articles/d8f6b39c.json)
+
+[Extended Data](ext_articles/d8f6b39c.ext.json)
+
+---
+
+### J CEb, requested by time
+
+*2024-11-11 09:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-கோரியj-CEB/175-346917) · `ta`
+
+Ceylon Electricity Board requests additional two weeks to submit proposals for reducing electricity tariffs.
+
+🟩
+
+The Ceylon Electricity Board (CEB) has sought two weeks' time to submit proposals to reduce electricity tariffs.
+
+Until the 8th, the Public Utilities Commission had given the Electricity Board time to submit proposals for the reduction in electricity tariffs.
+
+The Ceylon Electricity Board (CEB) said that further data should be carried out on the reduction of the electricity tariffs and that it requires time to analyze.
+
+Accordingly, the Ceylon Electricity Board (CEB) has demanded a further two weeks to submit the proposals.. Remble
+
+◼️
+
+[Data](articles/218dca30.json)
+
+[Extended Data](ext_articles/218dca30.ext.json)
+
+---
+
+### Ceb
+
+*2024-11-11 09:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால-அவகாசம்-கோரிய-CEB/175-346917) · `ta`
+
+Ceylon Electricity Board seeks two-week extension to propose electricity tariff reductions. Public Utilities Commission initially set deadline until August 8th. CEB requests more data analysis time before submitting proposals.
+
+🟩
+
+The Ceylon Electricity Board (CEB) has sought two weeks' time to submit proposals to reduce electricity tariffs.
+
+Until the 8th, the Public Utilities Commission had given the Electricity Board time to submit proposals for the reduction in electricity tariffs.
+
+The Ceylon Electricity Board (CEB) said that further data should be carried out on the reduction of electricity tariffs and that it would take time.
+
+Accordingly, the Ceylon Electricity Board (CEB) has demanded a further two weeks to submit the proposals.. Remble
+
+◼️
+
+[Data](articles/feda2e9a.json)
+
+[Extended Data](ext_articles/feda2e9a.ext.json)
+
+---
+
+### Vijitha suddenly observed at the airport
+
+*2024-11-11 08:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203124) · `si`
+
+SriLankan Airlines delay: Minister Vijitha Herath visits Katunayake airport, meets staff, promises 24-hour support team to address issues. Authorities instructed to reduce delays.
+
+🟩
+
+Minister Vijitha Herath has visited the Katunayake airport to look into the complaints of the SriLankan Airlines delay.
+
+The Minister has gone to all aspects of the airport and had a friendly conversation with employees of each sector.
+
+Minister Vijitha Herath has said that a special unit to be instantaneous for 24 hours of the airport passengers on the airport delay in the airport.
+
+It is said that the authorities have been instructed to minimize these delays.
+
+◼️
+
+[Data](articles/500d313e.json)
+
+[Extended Data](ext_articles/500d313e.ext.json)
+
+---
 
 ### Vehicle crashes into Lake House in Colombo
 
@@ -2022,6 +2152,30 @@ The General Election is scheduled to be held on November 14.
 
 ---
 
+### Rs.. 21 in water
+
+*2024-11-10 17:12:42* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-සුහුරු-ටිකට්පත්-පද්ධතියට-ගෙවපු-රු-මි--21ක්-වතුරේ/11-412954) · `si`
+
+Sri Lanka Railways: Private consultancy hired for $19m ticket system. Project deadline extended from Dec 31, 2021 to Dec 31, 2024 due to delays attributed to contractor and unstable political climate. Audit recommends completion without further delay.
+
+🟩
+
+A private audit office has been issued on November 09, that a private consultancy has been paid a new ticket system for the Sri Lanka Railways Department.
+
+The Railway Department signed an agreement with a $ 19 million cost of US $ 19 million after a long tender evaluation process to establish a friendly ticket system.
+
+This project is to be completed on 31st of 2021, but the date has been extended to 31st of December 2024. The audit recommended that the project should be completed without delay. Two years have passed since this project has passed, but the Railway Department has stated that it will be a backward.
+
+The Railway Department has informed the audit that the delay in the railway department is delayed by the contractor and the unstableness of the country.
+
+◼️
+
+[Data](articles/673ed3b4.json)
+
+[Extended Data](ext_articles/673ed3b4.ext.json)
+
+---
+
 ### Drone attack on Russia from Ukraine
 
 *2024-11-10 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203106) · `si`
@@ -2052,13 +2206,13 @@ However, Russian authorities have confirmed that one person was injured in the d
 
 *2024-11-10 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-podujana-party-younger-wing-pushing-for-more-liberal-policies-freedom-186791/) · `en`
 
-ECONOMYNEXT – Sri Lanka Podujana Party’s younger members are pushing for more liberal ideas in a globalized world from within, says Milinda Rajapaksha, a party activist and vocal leader representing the group.
+ECONOMYNEXT – Sri Lanka Podujana Party’s younger members are pushing for more liberal ideas in a globalized world from within, says Milinda Rajapaksa, a party activist and vocal leader representing the group.
 
-Following the currency collapse, shortages and high inflation under the President Gotabaya Rajapaksa, the party split with a faction supporting ex-President Ranil Wickremesinghe in the last election, while its own candidate Namal Rajapaksha trailed far behind.
+Following the currency collapse, shortages and high inflation under the President Gotabaya Rajapaksa, the party split with a faction supporting ex-President Ranil Wickremesinghe in the last election, while its own candidate Namal Rajapaksa trailed far behind.
 
 The younger members are undaunted and are looking to change the direction of the party, he says. Since SLPP is a democratic party, some will entertain different views, suggestions and ideologies.
 
-“They are the young people who are very pro LGBT rights,” Rajapaksha says. “They are the young people who are very pro of a small government. They are the young people who think SOE reforms are necessary.
+“They are the young people who are very pro LGBT rights,” Rajapaksa says. “They are the young people who are very pro of a small government. They are the young people who think SOE reforms are necessary.
 
 ...
 
@@ -2092,6 +2246,28 @@ Identity Cards in the polling boundary is the National Identity Card, Valid Driv
 
 ---
 
+### Himaophylia patients are in danger due to a problem with purchasing drugs
+
+*2024-11-10 16:58:02* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-මිලදී-ගැනීමේ-ගැටලුවක්-නිසා-හිමෝෆීලියා-රෝගීන්ගේ-ජීවිත-අනතුරේ/11-412952) · `si`
+
+Himaphylia patients face danger due to issues with purchasing drugs, particularly Factor VIII and emicizumab. The Sri Lankan healthcare system risks compromising patient safety over concerns about drug quality and cost.
+
+🟩
+
+The eighth factor, which is a key factor in the blood clot, is the eighth factor of huge blood gang patients, as well as Factor VIII, and newly used emicizumab throughout the world for control of the affected conditionThe Colombo District candidate, specialist, Colombo, the Colombo District candidate, Dr. Chamal Sanjeewa emphasizes that the health system in Sri Lanka's health system can create a huge risk of the lives of these patients.
+
+At the recent past, the eighth factor has been purchased for the health system in Sri Lanka, but questioned by the relevant authority to question the quality of the relevant factor.. He added that the patients will suffer a major enforcement on the needs of certain persons in the health system.
+
+The Ministry of Health has spent a large sum of money annually for Hahapoli's patients.Dr. Chamal Sanjeewa stressed that the use of Emicizumab medicine used worldwide is controlled in the long run.
+
+...
+
+[Data](articles/0cbe018a.json)
+
+[Extended Data](ext_articles/0cbe018a.ext.json)
+
+---
+
 ### The national people should not play with the feelings of the people - Rosie Senanayake
 
 *2024-11-10 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198346) · `ta`
@@ -2107,181 +2283,5 @@ Rosie Senanayake opposes removing 225 MPs, citing corruption. She argues against
 [Data](articles/082c4665.json)
 
 [Extended Data](ext_articles/082c4665.ext.json)
-
----
-
-### Steps from the Commission to reassure the ballot boxes
-
-*2024-11-10 16:38:22* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පෙට්ටි-මාරු-කිරීමේ-සැක-දුරුකරන්න-කොමිෂන්-සභාවෙන්-පියවර/11-412951) · `si`
-
-Elections Commission reassures ballot box security:
-
-
-
-1. Allows delegation from last police checkpoint to count votes.
-
-2. Not mandatory for all candidates.
-
-3. Counting agents can request representatives from last police post.
-
-4. Original cup seals randomly signed by randomly selected polling hall.
-
-5. Transparent bags used for ballot containers.
-
-
-
-This summary captures the key points about the Commission's measures to ensure ballot box integrity in 200 characters.
-
-🟩
-
-The Elections Commission has said that some of the parties have taken several steps in the parliamentary election regarding the ballot boxes after a polling.
-
-According to the voter after the polls, the Elections Commission has decided to allow the delegation from the last police checkpoint from the polling roll to the counting of the polls.
-
-The Elections Commission states that the requests are not practiced for all the election candidates of all contesting candidates.
-
-In addition, the Commission says that the counting agents from the last police post will be able to demand their counting representatives from the last police post.
-
-In addition, the original copy of the cups were randomly signed by the randomly selected polling hall and the number of copies of the formation of the ballot boxes in the sealing of the ballot boxes.The Elections Commission says that the tract container is transparent bag and locks a transparent bag.
-
-◼️
-
-[Data](articles/229db7c0.json)
-
-[Extended Data](ext_articles/229db7c0.ext.json)
-
----
-
-### One arrested with various foreign gun and drugs in Borella
-
-*2024-11-10 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198322) · `ta`
-
-Arrest made in Borella: Heroin, ice, drugs, bullets, firearms seized. Suspect from Dematagoda, 23 years old. Police operation based on CIID tip-off.
-
-🟩
-
-A man was arrested on Saturday (09) with heroin, ice, narcotics, bullets and foreign Tukpaki in the T20 garden area of ​​the Borella Police Division.
-
-The man was arrested during a raid carried out on the basis of information received by officials of the Colombo South Criminal Investigation Division.
-
-The arrested suspect is from the 23 -year -old Dematagoda area.
-
-120 grams of 390 milligrams of heroin has been seized by the police.
-
-Based on the suspect's confession, the police seized 30 grams of 650 milligrams of ice, 5000 drug pills, abroad -made rifles, 9 millimeters of bullets and 2 bullets used for revolver.
-
-◼️
-
-[Data](articles/0ed3f8b0.json)
-
-[Extended Data](ext_articles/0ed3f8b0.ext.json)
-
----
-
-### Over 2,500 complaints of general elections
-
-*2024-11-10 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203105) · `si`
-
-2024 parliamentary election: 2,580 complaints filed, 20 related to violence; 1,999 resolved, 581 pending resolution.
-
-🟩
-
-The Elections Commission says that the number of complaints received in the 2024 parliamentary election has exceeded 2,500.
-
-Accordingly, the total number of complaints received from the election has increased to 2,580 complaints.
-
-There are 20 complaints related to violence.
-
-However, 1999, however, 1999 has already been resolved and 581 complaints have been left to solve another 581 complaints.
-
-◼️
-
-[Data](articles/e07e6a8e.json)
-
-[Extended Data](ext_articles/e07e6a8e.ext.json)
-
----
-
-### An elderly woman dies after colliding with a train in Hikkaduwa
-
-*2024-11-10 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198345) · `ta`
-
-Elderly woman dies after train collision in Hikkaduwa. Police report incident occurred on Amarasena Mawatha within Hikkaduwa police division.
-
-🟩
-
-Hikkaduwa police said that an elderly woman was killed in a train in Amarasena Mawatha, which belongs to the Hikkaduwa police division.
-
-◼️
-
-[Data](articles/2329c116.json)
-
-[Extended Data](ext_articles/2329c116.ext.json)
-
----
-
-### FSP calls on President to probe 88-89 ‘state terrorism’, demands justice for JVP martyrs
-
-*2024-11-10 16:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103307/fsp-calls-on-president-to-probe-88-89-state-terrorism-demands-justice-for-jvp-martyrs) · `en`
-
-The Frontline Socialist Party (FSP) has urged President Anura Kumara Dissanayake in writing to launch an immediate investigation into state-sanctioned crimes during the 1988-89 period, and serve justice for the lives of fallen Janatha Vimukthi Peramuna (JVP) heroes including Rohana Wijeweera.
-
-Ahead of the 35th “Il Maha Viru Samaruwa”, the commemoration of fallen JVP heroes on November 13, the FSP’s letter to the President, honoring Comrade Rohana Wijeweera and others who lost their lives in the struggle for socialist transformation, emphasized the need to uncover the truth behind kidnappings, forced disappearances, and extrajudicial killings attributed to “state terrorism” at that time.
-
-...
-
-[Data](articles/07e400f2.json)
-
-[Extended Data](ext_articles/07e400f2.ext.json)
-
----
-
-### President is a challenge to the present government
-
-*2024-11-10 16:20:18* · [`adalk`](https://www.ada.lk/breaking_news/වත්මන්-ආණ්ඩුව-වට්ටන්නවා-කියන-අයට-ජනපතිගෙන්-අභියෝගයක්/11-412950) · `si`
-
-President Anura Kumara Dissanayake criticizes current government at Vavuniya rally. He warns of future challenges and political upheaval, comparing current situation to past struggles.
-
-🟩
-
-President Anura Kumara Dissanayake said that if people who proclaim the present government to the present government, said President Anura Kumara Dissanayake said.
-
-He was speaking at a rally held in Vavuniya this morning (10).
-
-"Today's pain is a three-week Vatnaalu, a year in a year, Vatnaalnawalau. Says that. Remember this government does not return this country, but not back. All that political business will start to melt. I tell you the gentlemen who talk to you in the presidential election. What detest? They fall into the presidential election, the biggest election. "
-
-◼️
-
-[Data](articles/f27e01df.json)
-
-[Extended Data](ext_articles/f27e01df.ext.json)
-
----
-
-### People will soon realize the false propaganda against us - the national organizer of the PA
-
-*2024-11-10 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198344) · `ta`
-
-Here's a 200-character summary:
-
-
-
-PA leader Namal Rajapaksa denies setbacks, claims rising voter support. Blames opposition for fake allegations. Promises to address issues before general election. Reaffirms commitment to party positions despite defections. Focuses on eliminating false accusations and strengthening the party.
-
-🟩
-
-The party's national organizer Namal Rajapaksa said that the constituency organizers who did not support us in the presidential election, but also the former ministers and parliamentarians contesting the general election, indirectly support the Sri Lanka PA.
-
-Supporters have little confidence or will of some famous members who left the party. Namal Rajapaksa said that even though such people reunite with us, they are not ready to make any changes in the party's existing positions.
-
-He said this in a statement to Veerakesari. Its full form is as follows:
-
-Question: Is your position on the failure of the Rajapaksas to retain this time in the presidential election?
-
-...
-
-[Data](articles/5e0ba94e.json)
-
-[Extended Data](ext_articles/5e0ba94e.ext.json)
 
 ---

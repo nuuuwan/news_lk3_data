@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 09:00:19**
+As of **2024-11-11 09:13:32**
 
 ## Newspaper Stats
 
-*Scraped **54,131** Articles*
+*Scraped **54,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
 adalk | 5,054
-adaderanalk | 6,453
+adaderanalk | 6,454
 tamilmirrorlk | 7,557
 virakesarilk | 8,777
 adaderanasinhalalk | 9,442
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,442
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,131 (100.0%) of 54,131 articles have been extended.
+54,131 (100.0%) of 54,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### Vehicle crashes into Lake House in Colombo
+
+*2024-11-11 08:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103314/vehicle-crashes-into-lake-house-in-colombo) · `en`
+
+A car reportedly crashed into the front of the Lake House in Colombo early this morning (11), causing significant damage to the building’s safety fence.
+
+The incident is suspected to have occurred due to the driver falling asleep at the wheel.
+
+Despite the severe impact, the driver emerged uninjured. However, the security fencing surrounding the Lake House sustained considerable damage.
+
+Colombo Fort Police are conducting further investigations into the circumstances surrounding the incident.
+
+◼️
+
+[Data](articles/b5630ba8.json)
+
+---
 
 ### Health Ministry warns of fraudulent money collection scheme impersonating officials
 
@@ -2263,29 +2281,5 @@ Question: Is your position on the failure of the Rajapaksas to retain this time 
 [Data](articles/5e0ba94e.json)
 
 [Extended Data](ext_articles/5e0ba94e.ext.json)
-
----
-
-### Motorcycle in Sevanagala - bus accident;Young man kills!
-
-*2024-11-10 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198335) · `ta`
-
-Bus crashes into motorcycle near Sevanagala, killing young rider. Driver arrested.
-
-🟩
-
-A youth has died yesterday (09) when a bus crashed into a motorcycle near the Sevanagala Police Division at the Sevanagala Tibul Kas junction, near the Mihindupura Sanasam Mandapam.
-
-The accident occurred when a bus traveling from Sevanagala to Divulkus junction crashed into the back of a motorcycle traveling from Gemunupura to Lakshirigama.
-
-The driver of the motorcycle and the back of the motorcycle suffered serious injuries and the young man sitting on the side of the Sevanagala Hospital died.
-
-The body has been placed in the funeral room of the Embilipitiya Hospital and the bus driver has been arrested in connection with the accident.
-
-◼️
-
-[Data](articles/bcd02f8f.json)
-
-[Extended Data](ext_articles/bcd02f8f.ext.json)
 
 ---

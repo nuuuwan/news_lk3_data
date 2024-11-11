@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 11:24:41**
+As of **2024-11-11 11:41:34**
 
 ## Newspaper Stats
 
-*Scraped **54,153** Articles*
+*Scraped **54,154** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,47 @@ adalk | 5,057
 adaderanalk | 6,457
 tamilmirrorlk | 7,563
 virakesarilk | 8,781
-adaderanasinhalalk | 9,445
+adaderanasinhalalk | 9,446
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,153 (100.0%) of 54,153 articles have been extended.
+54,154 (100.0%) of 54,154 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### First day of the new Parliament
+
+*2024-11-11 11:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203127) · `si`
+
+Here's a 200-character summary:
+
+
+
+New Parliament inaugurated Nov 21. 225 MPs elected. First day: Speaker elected through secret ballot. Speaker takes oath, thanks God. Other roles filled. Parliament adjourns after inaugural activities. President may suspend Parliament temporarily.
+
+🟩
+
+The Parliamentary Communications Unit stated that the first day of the new Parliament has been played on November 21st.
+
+The general elections to be elected for the 10th parliament will be gone on November 14.
+
+There are 225 MPs who are elected to Parliament with 196 electoral MPs and 29 national lists.
+
+The announcement issued by the Parliamentary Communication Unit is issued on the first day of the first session of the Parliament.
+
+The main responsibility of the first day is to be assigned to the Secretary General of Parliament. Members of Parliament there is no seating order for MPs on the first day and MPs have the opportunity to sit on a pretext. After the deposition of the Mace is buried in the Chamber, the General Secretary of the President presents the first task on the date on the date on the day.
+
+...
+
+[Data](articles/ee650e90.json)
+
+[Extended Data](ext_articles/ee650e90.ext.json)
+
+---
 
 ### We will abandon old politics and come to new politics.
 
@@ -2263,35 +2293,5 @@ He was speaking at a public meeting in Vavuniya yesterday (10) to release politi
 [Data](articles/39adfa8a.json)
 
 [Extended Data](ext_articles/39adfa8a.ext.json)
-
----
-
-### Customs is about to go to the income target
-
-*2024-11-10 18:00:36* · [`adalk`](https://www.ada.lk/breaking_news/රේගුව-ආදායම්-ඉලක්කයට-යන්න-සූදානම්/11-412959) · `si`
-
-Customs exceeds income target, earning Rs. 1200 billion. Plans to reach Rs. 1533 billion goal. Implements risk-based physical examinations, increasing revenue by Rs. 15 billion. Addresses challenges like inadequate testing facilities and traffic congestion. Proposes new testing yard construction. Introduces complaint unit for customs-related issues.
-
-🟩
-
-The Customs Department has earned an income of over Rs. 1200 billion during the past year, the Department said.
-
-The department is Rs. 1533 billion and will be necessary to meet the income goals.
-
-975 billion in the year earlier last year, about 1500 directions daily from the Colombo port, show that it is more than 2,500 per day.
-
-Customs test is about 35% of the customs test, which is released within hours without customs check.
-
-The customs have chosen the physical examination, which is a high risk directory based on risk management principles, and these trials have earned an additional income of Rs 15 billion last year.
-
-It also shows that some 65% and 70% of the checking directories will find a custom mistake and reduce the tax secure and the inspiration to customs wrongdoing.
-
-It is also said that a consideratory is also referred to the testing of the public institutions on quality, food safety, plant quarantine, animal quarantine.
-
-...
-
-[Data](articles/ee37a118.json)
-
-[Extended Data](ext_articles/ee37a118.ext.json)
 
 ---

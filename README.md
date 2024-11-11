@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 21:41:30**
+As of **2024-11-11 22:14:46**
 
 ## Newspaper Stats
 
-*Scraped **54,265** Articles*
+*Scraped **54,266** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,245
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,075
+adalk | 5,076
 adaderanalk | 6,478
 tamilmirrorlk | 7,584
 virakesarilk | 8,799
@@ -26,25 +26,31 @@ adaderanasinhalalk | 9,469
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,262 (100.0%) of 54,265 articles have been extended.
+54,265 (100.0%) of 54,266 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
 
-### පවතින IMF ගිවිසුම වෙනස් කළ යුතු බව සජිත් කියයි
+### Sajith says the existing ISF agreement should be changed
 
 *2024-11-11 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203150) · `si`
 
-බදු බරින් ජනතාව මුදාගැනීමට ජාත්‍යන්තර මූල්‍ය අරමුදල සමග නව ගිවිසුමකට එළැඹීමට අවශ්‍ය බව සමගි ජන බලවේගයේ නායක සජිත් ප්‍රේමදාස මහතා පවසයි.
+Sajith Premadasa calls for changing IMF agreement, citing need for tax relief. He urges public support for new deal, criticizing current economic situation.
 
-එම නව ගිවිසුම සිදුකිරීමට නම් තම පක්ෂය ජයග්‍රහණය කරවන ලෙස එම පක්ෂයේ නායක සජිත් ප්‍රේමදාස මහතා ජනතාවගෙන් ඉල්ලා සිටී.
+🟩
 
-"අනුර කුමාර දිසානායක ජනාධිපතිවරයා යන්නේ ගෝඨාභය රාජපක්ෂ ජනාධිපතිවරයායි, රනිල් වික්‍රමසිංහ ජනාධිපතිවරයායි ගිය අඩි පාරේ.  මේ IMF ගිවිසුම වෙනස් කරලා අපි අලුත් ගිවිසුමකට යන්න ඕනේ. ණය ගෙවීම ආරම්භ කිරීම IMF කියපු විදිහට 2033 වසරට කල් දාගන්න ඕනේ. එසේ නොකළහොත් මම අද කියුවායි කියලා මතක තියාගන්න මේ විදිහටම යනවානම් ඉස්සරහට 2028 වෙනකොට 2022 වගේ තත්ත්වයක් අපේ රටේ නිර්මාණය වෙලා අති විශාල පීඩනයකට, අසහනයකට ලක් වෙනවයි කියන එක බොහොම පැහැදිලියි."
+Leader of the Power Sajith Premadasa says that the International Monetary Fund is required to redeem taxes from the tax burden.
+
+The leader of the party Sajith Premadasa requests the public to win their party to the new agreement.
+
+"Mr. Gotabhaya Rajapaksa is the President of the President of the President of Gotabhaya Rajapakse, President of the President of Gotabhaya Rajapakse..  මේ IMF ගිවිසුම වෙනස් කරලා අපි අලුත් ගිවිසුමකට යන්න ඕනේ. Establishment of Credit Payment According to the IMF, 2033. Otherwise, when I was saying that I was saying today, it is very clear that 2022, as 2022, we are in depression and discomfort. "
 
 ◼️
 
 [Data](articles/4e0c1fef.json)
+
+[Extended Data](ext_articles/4e0c1fef.ext.json)
 
 ---
 
@@ -268,17 +274,45 @@ He expressed confidence that this review would be wrapped up by the end of Janua
 
 ---
 
-### සිර මැදිරියේ සූදු ගහන්නත් දීලා මත් වතුර බොන්නත් දීලා
+### ණය පංගුව ඉක්මවා යන ආර්ථිකයක් ඇති කරනවා
 
-*2024-11-11 19:01:16* · [`adalk`](https://www.ada.lk/breaking_news/සිර-මැදිරියේ-සූදු-ගහන්නත්-දීලා-මත්-වතුර-බොන්නත්-දීලා/11-412980) · `si`
+*2024-11-11 19:05:08* · [`adalk`](https://www.ada.lk/breaking_news/ණය-පංගුව-ඉක්මවා-යන-ආර්ථිකයක්-ඇති-කරනවා/11-412981) · `si`
 
-අනුරාධපුර පොලිස් කොට්ඨාසයට අයත් ගිරානේගම පොලීසිය මගින් අත්අඩංගුවට ගත් සැකකරුවන් පිරිසකට පොලිස් සිර මැදිරිය තුළ සූදු ක්‍රීඩාවේ (බූරු ගැසීමේ) නිරත වීමට අවස්ථාව සලසා දී, සිර මැදිරිය තුළ මත්පැන් පානය කිරීමේ සිද්ධියක් සම්බන්ධයෙන් ගිරානේගම පොලිසියේ ස්ථානාධිපතිවරයා ඇතුළු පොලිස් නිලධාරීන් තිදෙනෙකු අද (11දා) අත්අඩංගුවට ගත් බව අනුරාධපුර කොට්ඨාස අපරාධ විමර්ශන අංශය පවසයි.
+2028 වසරේ දී ණය ගෙවීම ආරම්භ කිරීමේ දී ගෙවිය යුතු ණය පංගුව ඉක්මවා යන ආර්ථිකයක් මෙරට තුළ ඇති කරන බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසුවේය. ඒ සඳහා අවශ්‍ය ආර්ථික සැලසුම් සැලසුම් සකස් කර ඇති බව ද ජනාධිපතිවරයා කීවේය.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ ගිරානේගම පොලීසියේ ස්ථානාධිපතිවරයා ලෙස කටයුතු කළ පොලිස් පරීක්ෂකවරයෙකු , පොලිස් සැරයන්වරයෙකු සහ පොලිස් කොස්තාපල්වරයෙකි.එම පොලිස් වසමේ වැටලීමක් සිදු කර සූදු කෙළියෙහි නිරතව සිටි 10 දෙනකු අත්අඩංගුවට ගෙන රඳවා සිටියදී ඔවුන් සිර මැදිරියෙහි සූදූ ක්‍රීඩාවේ නිරතව සිට ඇති බව පොලීසිය කියයි.
+ජනාධිපතිවරණයේ දී ඡන්දය ලබාදුන් ජනතාවට වඩා වැඩි ජනතාවක් මහ මැතිවරණයේ දී ඡන්දය ලබාදීමට බලාපොරොත්තුවෙන් සිටින බවද හෙතෙම පැවසීය. ඔහු මේ බව පැවසුවේ ඊයේ (11දා) ගම්පහ දී පැවති ජාතික ජනබලවේගයේ මහමැතිවරණ අවසන් ජන රැලිය අමතමිනි. හිටපු පාලකයන් මෙම ආණ්ඩුව කඩා වැටෙන තෙක් බලා සිටින බවත්, ජනතාව රට ගොඩනැගීමේ අපේක්ෂාවෙන් සිටින බවත් ජනාධිපතිවරයා ප්‍රකාශ කළේය.
+
+ජනතාවගේ බලාපොරොත්තු බිඳ වැටීමට ඉඩ නොදී එම බලාපොරොත්තු සපල කිරීම ජාතික ජනබලවේගයේ අපේක්ෂාව බවත්, එම බලාපොරොත්තු ඉටු කිරීමට කැප වන බවත් ජනාධිපතිවරයා ප්‍රකාශ කළේය. එළඹෙන මැතිවරණයේ දී ශක්තිමත් බහුතර බලයකින් යුත් ආණ්ඩුවක් ගොඩනැගිය යුතු බවත්, ඒ සඳහා පාර්ලිමේන්තුව මාලිමාවෙන් පිරවිය යුතු බවත් ඔහු කීවේය.
 
 ...
 
+[Data](articles/63eb03c3.json)
+
+---
+
+### Giver and gambling gambling and give up water to drink
+
+*2024-11-11 19:01:16* · [`adalk`](https://www.ada.lk/breaking_news/සිර-මැදිරියේ-සූදු-ගහන්නත්-දීලා-මත්-වතුර-බොන්නත්-දීලා/11-412980) · `si`
+
+Police officers arrested for gambling in cell. Three officers from Giranagama Police station detained. Case filed under alcohol and gambling charges.
+
+🟩
+
+Three police officers including the OIC of the Giranagama Police have been arrested in connection with a group of suspects to engage in gambling in the police cell (Drain) in the police cell.The Divisional Criminal Investigation Division says.
+
+A police inspector of the OIC of the Giranagama Police, a police sergeant, a police sergeant and a police constable.
+
+The Suspect's Criminal Investigation Unit, the suspects have launched an investigation into the event of a mobile phone to the social media.They were produced in court regarding the allegations of alcohol and gambling in the prison room.
+
+The three arrested suspects were produced before the Kekirawa Magistrate's Court today (11), police said.
+
+Chaminda Gunasekera, Chief Inspector Crime Investigation Division (SSP) of the Senior Superintendent of Police Thilina Hewapathirana, arrested the suspects.
+
+◼️
+
 [Data](articles/3ecdcd51.json)
+
+[Extended Data](ext_articles/3ecdcd51.ext.json)
 
 ---
 
@@ -2311,35 +2345,5 @@ In reply, the Sri Lankan team was only 103 runs for the loss of all 19 overs.
 [Data](articles/e936af7a.json)
 
 [Extended Data](ext_articles/e936af7a.ext.json)
-
----
-
-### "If Ranil was now available"
-
-*2024-11-11 11:28:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-இருந்திருந்தால்-இப்போது-கிடைத்திருக்கும்/175-346932) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Manusha Nanayakkara claims if Ranil Wickremesinghe were president, Sri Lanka would've received the third IMF loan. He criticizes the current government for postponing the budget and election, questioning their priorities and economic management.
-
-🟩
-
-Former Minister Manusha Nanayakkara has said that if Ranil Wickremesinghe was president, the third loan of the IMF would have been available.
-
-Speaking at a public meeting held in Galle yesterday, he said that the budget has been postponed and the current government's decision to hold the general election has been postponed indefinitely.
-
-"It is doubtful whether the current government is trying to introduce the new constitution and will try to change this constitution without the opinion of the people."
-
-“The election is increasing day by day. People who are confident, people who are deceived by lies, understand it and slowly change their own ideologies. Many people understand that they are lying.. People understand that the money is not hidden in Uganda and cannot buy fuel for 150 rupees.
-
-“On the 15th of November, the most important Poya day passes. These days, the Pingam is built in every village.
-
-...
-
-[Data](articles/e9d15c28.json)
-
-[Extended Data](ext_articles/e9d15c28.ext.json)
 
 ---

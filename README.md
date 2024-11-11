@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 01:25:06**
+As of **2024-11-12 01:10:24**
 
 ## Newspaper Stats
 
-*Scraped **54,295** Articles*
+*Scraped **54,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ bbccomsinhala | 552
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,290
-dailyftlk | 3,711
+dailyftlk | 3,710
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
@@ -26,23 +26,11 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,294 (100.0%) of 54,295 articles have been extended.
+54,294 (100.0%) of 54,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
-
-### Foreign direct investment opportunities in Sri Lanka: Sector-by-sector analysis
-
-*2024-11-12 01:14:50* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-direct-investment-opportunities-in-Sri-Lanka-Sector-by-sector-analysis/4-769112) · `en`
-
-Sri Lanka is at a pivotal moment in its economic development journey, with a fresh political climate following recent elections and numerous policy reforms aimed at bolstering foreign direct investment (FDI). The Government has unveiled an agenda that actively encourages international partnerships across key sectors, positioning Sri Lanka as a prime investment destination in South Asia. This comprehensive article explores why the island is strategically attractive to foreign investors and highlights sector-specific opportunities ripe for investment.
-
-...
-
-[Data](articles/a2c225a0.json)
-
----
 
 ### Geetanath's appointment as PA
 
@@ -2423,5 +2411,33 @@ Subsequently, police investigations revealed that the suspect went to his neighb
 [Data](articles/9c77f174.json)
 
 [Extended Data](ext_articles/9c77f174.ext.json)
+
+---
+
+### A man arrested with fake US dollar currencies
+
+*2024-11-11 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198402) · `ta`
+
+Man arrested with fake US dollars in Sri Lanka. Accountant caught in Mirissa. Suspect claims used for cash transactions with foreigners. Police investigating possible foreign involvement. Case to be presented in Matara Magistrate Court.
+
+🟩
+
+The Matara Police Crime Unit said that an accountant of a tourist accommodation in Mirissa, Weligama, has been arrested with a fake US dollar currency.
+
+The suspect has been arrested during a roundup of information received by the Matara Police Crime Unit.
+
+The arrested suspect is a 60 -year -old from Galle.
+
+The suspect told police that the fake dollar currency notes were available during the cash transaction with foreigners.
+
+Police said further investigations are underway regarding whether the suspect was abducted by a foreign citizen with a foreign citizen.
+
+The suspect is to be produced before the Matara Magistrate's Court, police said.
+
+◼️
+
+[Data](articles/c8d838ef.json)
+
+[Extended Data](ext_articles/c8d838ef.ext.json)
 
 ---

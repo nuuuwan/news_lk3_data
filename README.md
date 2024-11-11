@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 15:28:15**
+As of **2024-11-11 14:59:41**
 
 ## Newspaper Stats
 
-*Scraped **54,207** Articles*
+*Scraped **54,202** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,21 @@ islandlk | 3,239
 economynextcom | 3,282
 dailyftlk | 3,710
 dailymirrorlk | 4,733
-adalk | 5,066
+adalk | 5,065
 adaderanalk | 6,467
-tamilmirrorlk | 7,577
+tamilmirrorlk | 7,574
 virakesarilk | 8,789
-adaderanasinhalalk | 9,454
+adaderanasinhalalk | 9,453
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,202 (100.0%) of 54,207 articles have been extended.
+54,202 (100.0%) of 54,202 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
-
-### தேசபந்துவுக்கு எதிரான மனுக்கள் விசாரணைக்கு நாள் குறிப்பு
-
-*2024-11-11 15:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசபந்துவுக்கு-எதிரான-மனுக்கள்-விசாரணைக்கு-நாள்-குறிப்பு/175-346943) · `ta`
-
-தேசபந்து தென்னகோனை பொலிஸ் மா அதிபராக நியமிப்பதற்கு எடுக்கப்பட்ட தீர்மானத்தை இரத்து செய்யுமாறு கோரி தாக்கல் செய்யப்பட்டுள்ள அடிப்படை உரிமை மனுக்கள் விசாரணைக்கு எடுத்துக்கொள்ளப்பட உள்ளன.
-
-குறித்த மனுக்களை  2025 ஆம் ஆண்டு பெப்ரவரி 24 மற்றும் 25 ஆம் திகதிகளில் விசாரணைக்கு எடுத்துக்கொள்ள உயர்  நீதிமன்றம் இன்று (11) உத்தரவிட்டுள்ளது.
-
-பேராயர் மல்கம் ரஞ்சித், இளம் ஊடகவியலாளர்கள் சங்கம் உள்ளிட்ட 08 தரப்பினரால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன.
-
-யசந்த கோதாகொட,  அச்சல வெங்கப்புலி மற்றும் அர்ஜுன ஒபேசேகர ஆகிய மூவரடங்கிய உயர் நீதிமன்ற நீதிபதிகள் குழாம் முன்னிலையில் இந்த மனுக்கள் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட நிலையில் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/c853c93f.json)
-
----
-
-### சுஜிவவின் காரை பொறுப்பேற்குமாறு  சிஐடிக்கு உத்தரவு
-
-*2024-11-11 15:17:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜிவவின்-காரை-பொறுப்பேற்குமாறு-சிஐடிக்கு-உத்தரவு/175-346941) · `ta`
-
-முன்னாள் பாராளுமன்ற உறுப்பினர் சுஜீவ சேனசிங்கவிடம் உள்ள சந்தேகத்திற்குரிய காரை, குற்றப் புலனாய்வுத் திணைக்களத்தின் பொறுப்பில் எடுத்து கோட்டை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்துமாறு உத்தரவிட்டுள்ளது.
-
-குறித்த கார் தொடர்பில் குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்ட விசாரணைகளின் அறிக்கை  கோட்டை நீதவான் நீதிமன்றில் இன்று (11) சமர்ப்பிக்கப்பட்ட நிலையில் இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/f6e4ed3c.json)
-
----
-
-### மை பூசும் விரலில் மாற்றம்
-
-*2024-11-11 15:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மை-பூசும்-விரலில்-மாற்றம்/175-346940) · `ta`
-
-எதிர்வரும் பொதுத் தேர்தல் வாக்களிப்பின் போது, வாக்காளர்களின் சிறிய விரலில் மை பூசப்படாது எனவும் இடது கையின் ஆள்காட்டி விரலில் மை பூசப்படும் எனவும் தேர்தல் ஆணைக்குழு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/1d809791.json)
-
----
-
-### මැණික් ව්‍යාපාරිකයාගේ නිවසට පැන්න කොල්ලකරුවෝ කෝටි 7ක් උස්සලා
-
-*2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
-
-ලග්ගල දේවාලදෙණිය ප්‍රදේශයේ කෝටිපති මැණික් ව්‍යාපාරිකයෙකුගේ නිවසට ඇතුළු වූ නාඳුනන කොල්ලකරුවන් පස්දෙනෙකු නිවසේ තිබූ කෝටි 7ක් පමණ වටිනා ස්වර්ණාභරණ සහ මුදල් කොල්ලකා නිවසේ තිබූ මෝටර් රථයකින් පළා ගොස් තිබේ.
-
-ඊයේ (10) රාත්‍රියේ කෝටිපති ව්‍යාපාරිකයා, ඔහුගේ බිරිඳ සහ ඔහුගේ පියාගේ දෑත් දෙපා ගැට ගසා අදාළ සොරකම සිදුකර තිබුණි.
-
-කොල්ලකරුවන් පළා ගිය මැණික් ව්‍යාපාරිකයාගේ මෝටර් රථය ගලේවෙල පොලිස් බලප්‍රදේශයේ තලකිරියාගම ප්‍රදේශයේ මාර්ගය අසල දමා ගොස් තිබිය දී අද (11) උදෑසන සොයාගැනීමට පොලීසියට හැකිව තිබේ.
-
-අදාළ මැණික් ව්‍යාපාරිකයා සතු මුදල්, රන්භාණ්ඩ සහ කෝටි තුනක් පමණ වටිනා මැණික් ගලක් ද සොරුන් විසින් රැගෙන ගොස් ඇත.
-
-ඊයේ රාත්‍රී 9ට පමණ නිවස පිටුපස තාප්පයකින් පැන මුහුණු ආවරණය කරගෙන අදාළ මංකොල්ලකරුවන් පැමිණ ඇති අතර, පිස්තෝලයක් හිසට තබා ව්‍යාපාරිකයා බියවද්දා දෑත් දෙපා සෙලෝටේප්වලින් අලවා ඔහුව රැගෙන නිවස තුළට ගොස් ඇතැයි පොලීසිය පවසයි.
-
-පසුව බිරිඳගේ සහ පියාගේ දෑත් දෙපා ද ගැට ගසා මංකොල්ලය සිදුකර මෝටර් රථය ද රැගෙන පළාගිය බව පොලීසියට සිදුකළ පැමිණිල්ලේ සඳහන්ව තිබේ.
-
-...
-
-[Data](articles/7e8b8d54.json)
-
----
 
 ### Court orders Sujeewa's car to take over the CID
 
@@ -197,24 +131,6 @@ Some political outputs call for crocodile tears on the election stage, and some 
 [Data](articles/d1cf7452.json)
 
 [Extended Data](ext_articles/d1cf7452.ext.json)
-
----
-
-### ලග්ගල මැණික් ව්‍යාපාරිකයෙකුගේ කෝටි 7ක දේපළ කොල්ලකාලා
-
-*2024-11-11 13:41:44* · [`adalk`](https://www.ada.lk/breaking_news/ලග්ගල-මැණික්-ව්‍යාපාරිකයෙකුගේ-කෝටි-7ක-දේපළ-කොල්ලකාලා/11-412968) · `si`
-
-ලග්ගල දේවාලදෙනිය ප්‍රදේශයේ කෝටිපති මැණික් ව්‍යාපාරිකයෙකුගේ නිවසට ඇතුළු වී නාදුනන පස් දෙනෙකු කෝටිපති ව්‍යාපාරිකයා බිරිඳ සහ ව්‍යාපාරිකයාගේ පියාණන්ගේ දෑත් දෙපා ගැටගසා 10 දින රාත්‍රියේ රුපියල් කෝටි හතක් පමණ වටිනා මැණික් ස්වර්ණාභරණ සහ මුදල් මෙන්ම මෝටර් රථයක් පැහැරගෙන ගොස් ඇතැයි ලග්ගල පොලිසිය කියයි.
-
-පැහැරගෙන ගිය මෝටර් රථය ගලේවෙල පොලිස් බල ප්‍රදේශයේ තලකිරියාගම   ප්‍රදේශයේ මහා මාර්ගය අසල දමා ගොස් තිබියදී 11 දින පෙරවරුවේ සොයා ගැනීමට හැකි වූ බව පොලිසිය කියයි.
-
-ලග්ගල  ප්‍රසිද්ධ මැණික් ව්‍යාපාරිකයෙකු වන සුසන්ත ප්‍රදීප් කුමාර නොහොත්  පොඩි රෝහණ  නැමැති ව්‍යාපාරිකයාගේ මුදල් රන් භාණ්ඩ මෙන්ම කෝටි තුනක් පමණ වටිනා මැණික් ගලක් මෙසේ සොරාගෙන ගොස් ඇතැයි ලග්ගල පොලිසිය කියයි
-
-රාත්‍රී නමය පසුවනවාත් සමග මෙම ව්‍යාපාරිකයා නිවසට පැමිණ   නිවස ඉදිරිපිට බුදු මැදුරේ බුදුන් වැඳීම සිදුකරමින් සිටියදී නිවස පිටුපස තාප්පයකින් පැන පැමිණි  මුහුණු ආවරණය කරගෙන පැමිණි පුද්ගලයන් පස් දෙනෙකු පිස්තෝලයක් හිසට තබා ඔහුගේ දෑත් දෙපා සෙලෝ ටේප් වලින් අලවා ඔහු ඔසවාගෙන ගේ තුලට රැගෙන ගොස් ඇතැයි පොලිසිය කියයි.
-
-...
-
-[Data](articles/d385aed1.json)
 
 ---
 
@@ -2301,5 +2217,131 @@ The Government is confronted with many challenges including finalising debt rest
 [Data](articles/ed8f118e.json)
 
 [Extended Data](ext_articles/ed8f118e.ext.json)
+
+---
+
+### Dimitra Abeysekara: Young voice for Sri Lanka’s political future
+
+*2024-11-11 02:39:46* · [`dailyftlk`](https://www.ft.lk/opinion/Dimitra-Abeysekara-Young-voice-for-Sri-Lanka-s-political-future/14-769075) · `en`
+
+As the youngest candidate contesting for the Colombo district on the Sri Lanka Podujana Peramuna (SLPP) ticket, Dimitra Abeysekara brings a fresh perspective to Sri Lanka’s political arena. Representing the Lanka Sama Samaja Party (LSSP) within a coalition, Abeysekara is committed to safeguarding democracy and promoting a political environment where diverse voices are heard. In a candid conversation, he shares his thoughts on the dangers of single-party rule, the role of youth in reshaping the political landscape, and the need for continuity in policy-making. Following are excerpts:
+
+Q: Dimitra, can you tell us about your background and your role in the upcoming election?
+
+...
+
+[Data](articles/d9d4a55e.json)
+
+[Extended Data](ext_articles/d9d4a55e.ext.json)
+
+---
+
+### 2580 complaints on general election
+
+*2024-11-11 02:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198378) · `ta`
+
+Election Commission reports 2,580 complaints from Sept 26-Nov 11. 744 for national center, 1,781 for district centers. 20 violence complaints, 35 others received.
+
+🟩
+
+The Election Commission said that 2,580 complaints have been received from the 14th of September (from September 26 to November 11).
+
+Accordingly, 744 complaints have been received for the National Election Complaint Management Center and 1,781 to the District Election Complaint Management Center for violating election laws.
+
+Meanwhile, the District Election Complaint Management Center has received 20 complaints of violence and 35 complaints.
+
+◼️
+
+[Data](articles/3c65f913.json)
+
+[Extended Data](ext_articles/3c65f913.ext.json)
+
+---
+
+### Are you going to vote for those who bombed and bombed in Batticaloa?- Irrigation
+
+*2024-11-11 02:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198379) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Election debate in Batticaloa: Candidates accused of fraud, corruption, temple bombings. Voter choice impacts Tamil nationalism, development projects. Candidates' past actions questioned. Symbolism of unity discussed.
+
+🟩
+
+Do you vote for the fraudsters and the assassination of many people who have been accused of corruption in the Batticaloa district and are going to vote for fraudulent money laundering in the temples and the independent groups who have been bombed by the bombing of the temples?Former Eastern Provincial Council member R. Durairatnam said that people should think
+
+He was speaking at a media conference held at the EPRLF party at the Wavikarai Road, Batticaloa on Sunday (10).
+
+The election is being held for selecting a good and healthy healthy corruption scam who can serve the people in Sri Lanka.
+
+While the people are ready to choose the talented and the good ones in the district, the people who have committed many corrupt massacres are spending the money that has taken place on the 14th.
+
+...
+
+[Data](articles/cdb7122c.json)
+
+[Extended Data](ext_articles/cdb7122c.ext.json)
+
+---
+
+### Conspiracy to close Triposha
+
+*2024-11-11 01:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷாவை-மூடுவதற்கு-சதி/175-346913) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sajith Premadasa accuses President Anura Kumara Dissanayake of conspiring to close Triposha, a program providing food aid to vulnerable groups. Premadasa claims this threatens children and mothers' nutrition. He vows to protect Triposha and criticizes the government's handling of fuel prices and corruption allegations.
+
+🟩
+
+United People's Power Leader Sajith Premadasa has said that President Anura Kumara Dissanayake, who represents the ordinary people's class, has been involved in a conspiracy to dissolve the Triposha factory a week before he took office.
+
+It is a plot against children and mothers. The Triposha is being offered to children under the age of 5, pregnant mothers and lactating mothers in the country.. 16 lakh buckets are being provided a month. It is currently being provided to 664,920 mothers and 925,172 children.
+
+A meeting with the people of Avissawella, organized by the United People's Power Candidate Sudath Wickramaratne, was held on Saturday (09). He said the above while addressing it.
+
+The meeting was attended by many, including party activists. He said this while addressing the gathering.
+
+...
+
+[Data](articles/405a1634.json)
+
+[Extended Data](ext_articles/405a1634.ext.json)
+
+---
+
+### Indian 'expansionism' and the government: Before and now a change of positions?
+
+*2024-11-11 01:51:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cy5lp9e2r33o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's JVP/NPP party stance on India has shifted under new leadership. Formerly critical, now seeking cooperation. President Anura Kumara Dissanayake visits India, criticizes past agreements. Party members express mixed views on relations with India. Experts caution careful handling of sensitive diplomacy.
+
+🟩
+
+Indian 'expansionism' and the government: Before and now a change of positions?
+
+The national folk force represented by President Anura Kumara Dissanayake was based on his leadership.
+
+The Indian Airlines was a major slogan from the early days of his leadership.
+
+The JVP is considered one of the five public classes since the 1960's, the Indian expansion has been allocated to explain.
+
+In addition, the JVP continued to protest with many agreements including the Indo-Lanka Accord.
+
+Anura Kumara Dissanayake has criticized the proposed agreements that were proposed to have with India by 2022.
+
+...
+
+[Data](articles/2d6a5db2.json)
+
+[Extended Data](ext_articles/2d6a5db2.ext.json)
 
 ---

@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 01:42:26**
+As of **2024-11-12 01:59:54**
 
 ## Newspaper Stats
 
-*Scraped **54,298** Articles*
+*Scraped **54,300** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 422
-bbccomsinhala | 552
+bbccomsinhala | 553
 colombotelegraphcom | 554
 islandlk | 3,245
 economynextcom | 3,290
-dailyftlk | 3,713
+dailyftlk | 3,714
 dailymirrorlk | 4,733
 adalk | 5,077
 adaderanalk | 6,479
@@ -26,11 +26,23 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,295 (100.0%) of 54,298 articles have been extended.
+54,295 (100.0%) of 54,300 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### Lifting import ban on automobiles: Sri Lanka sleepwalks into disaster
+
+*2024-11-12 01:36:22* · [`dailyftlk`](https://www.ft.lk/columns/Lifting-import-ban-on-automobiles-Sri-Lanka-sleepwalks-into-disaster/4-769115) · `en`
+
+Having saddled the nation with a disastrous International Sovereign Bond (ISB) restructuring that ballooned debt repayments by billions (see https://www.ft.lk/columns/Sri-Lanka-s-ISB-restructure-Debt-trap-backed-by-IMF-and-Ceylon-Chamber-of-Commerce/4-768633), the Central Bank Governor (CBSL) now pushes for lifting the import ban on personal vehicles – a blatant kowtow to the IMF’s imperial agenda. Two days after the Governor’s remarks National People’s Power (NPP) Government spokesperson Minister Vijitha Herath announced that the import ban on all vehicles will be lifted by 1 February 2025 as previously proposed by unelected Ranil Wickremesinghe administration.
+
+...
+
+[Data](articles/93eaa892.json)
+
+---
 
 ### Politicisation of Foreign Service: Multidimensional and systemic challenge
 
@@ -667,6 +679,28 @@ Accordingly, he said that investigations have begun in the Tutabi report on Sund
 [Data](articles/79ed1c7e.json)
 
 [Extended Data](ext_articles/79ed1c7e.ext.json)
+
+---
+
+### 'ලංකාවේ දරුවන්ට කවදාවත් සත්තු වත්ත තහනම් කළේ නෑ. ඒත් පාර්ලිමේන්තුව තහනම් කළා'
+
+*2024-11-11 19:59:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wq995ewp1o) · `si`
+
+'ලංකාවේ දරුවන්ට කවදාවත් සත්තු වත්ත තහනම් කළේ නෑ. ඒත් පාර්ලිමේන්තුව තහනම් කළා'
+
+දේශපාලන සංස්කෘතිය වෙනස් කර ආදර්ශවත් පාර්ලිමේන්තුවක් ගොඩ නැගීම සඳහා ජනතාව නොවැම්බර් 14 වැනි දින ඡන්දය භාවිත කළ යුතු බව ජාතික ජන බලවේගයේ නායක, ජනාධිපති අනුර කුමාර දිසානායක පවසයි.
+
+සඳුදා (නොවැම්බර් 11) පිළියන්දල පැවති අවසන් ප්‍රචාරක රැස්වීමේ දී ඔහු මේ අදහස් පළ කළේය.
+
+''පාර්ලිමේන්තුව ක්ලීන් කරන්න ඕනා. ඇයි? අපරාධකාරයෝ ඉන්න පාර්ලිමේන්තුවක්, දුශිතයෝ ඉන්න පාර්ලිමේන්තුවක්, මිරිස්කුඩු ගේන පාර්ලිමේන්තුවක්? දරුවන්ට කාලයක් බලන්න තහනම් කළා පාර්ලිමේන්තුව. මම අහලා නෑ කවදාවත් දරුවන්ට සත්තු වත්ත තහනම් කළා කියලා. '' යනුවෙන් ඔහු පැවසුවේය.
+
+මේ අතර ''L බෝර්ඩ් ආණ්ඩුවයි, L බෝර්ඩ් පාර්ලිමේන්තුවයි එක්ක රටක් දුවන්න පුළුවන් ද?'' යනුවෙන් හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ සිය අවසන් රැලියේ දී ප්‍රශ්න කළේය.
+
+ජනාධිපතිවරයා,  රනිල් වික්‍රමසිංහ මෙන්ම සජිත් ප්‍රේමදාස,  රංජන් රාමනායක සහ දිලිත් ජයවීර පළ කළ අදහස් මේ වීඩියෝවේ අන්තර්ගත වේ.
+
+◼️
+
+[Data](articles/17851412.json)
 
 ---
 
@@ -2343,51 +2377,5 @@ Puttalam Acting Magistrate Indika Tennakoon has ordered the police to direct the
 [Data](articles/b95acf4e.json)
 
 [Extended Data](ext_articles/b95acf4e.ext.json)
-
----
-
-### புதிய பாராளுமன்றத்தின் முதல் நாள்...
-
-*2024-11-11 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198414) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New Parliament's first day: Election of Speaker, Deputy Speaker, Committee Chairs. Voting process, rules, and procedures explained. First session concludes with President's policy address.
-
-🟩
-
-பத்தாவது பாராளுமன்றத்திற்கான பாராளுமன்ற உறுப்பினர்களைத் தெரிவுசெய்வுதற்கான பொதுத் தேர்தல்  நாளை மறுதினம் (14) நடைபெறவுள்ளது. The total number of MPs is 225, with 196 members elected by the votes of the people and 29 members elected through the national list.
-
-இவ்வாறு தெரிவுசெய்யப்படும் பாராளுமன்ற உறுப்பினர்கள் கலந்து கொள்ளும் பத்தாவது பாராளுமன்றத்தின் முதலாவது அமர்வு நவம்பர் மாதம் 21ஆம் திகதி இடம்பெறும் என ஜனாதிபதி அவர்களினால் வெளியிடப்பட்ட 2024.09.24 ஆம் திகதி 2403/13 ஆம் இலக்க வர்த்தமானி அறிவித்தலின் மூலம் அறிவிக்கப்பட்டுள்ளது. On the first session of Parliament's first session on the day of various important measures, the day is very special. On the first session, the main responsibility of the Secretary General of Parliament is in the process of the Sabha Hall.
-
-...
-
-[Data](articles/618ef799.json)
-
-[Extended Data](ext_articles/618ef799.ext.json)
-
----
-
-### SC allows to present President’s stance on Deshabandu’s appointment as IGP
-
-*2024-11-11 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103327/sc-allows-to-present-presidents-stance-on-deshabandus-appointment-as-igp) · `en`
-
-The Supreme Court has fixed for hearing the Fundamental Rights (FR) petitions filed challenging the appointment of Deshabandu Tennakoon as the Inspector General of Police (IGP) on February 24, 2025.
-
-The petitions, filed by several parties including the Archbishop of Colombo Cardinal Malcolm Ranjith, were taken up before a three-member Supreme Court judge bench led by Justice Yasantha Kodagoda today (11).
-
-During the trial, the court also granted time for the Attorney General to file objections for former President Ranil Wickremesinghe, who has been named as a respondent of the petitions.
-
-On October 29, the Supreme Court allowed naming former President Ranil Wickremesinghe as a respondent of the relevant petitions.
-
-Furthermore, the judge bench granted permission for a request made by Additional Solicitor General Nerin Pulle for an opportunity to inform the current President’s stance pertaining to Deshabandu’s appointment as the IGP.
-
-◼️
-
-[Data](articles/11b28a68.json)
-
-[Extended Data](ext_articles/11b28a68.ext.json)
 
 ---

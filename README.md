@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 05:24:50**
+As of **2024-11-11 05:46:25**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,435
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,107 (100.0%) of 54,108 articles have been extended.
+54,108 (100.0%) of 54,108 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -338,19 +338,31 @@ While the people are ready to choose the talented and the good ones in the distr
 
 ---
 
-### ’திரிபோஷாவை மூடுவதற்கு சதி’
+### Conspiracy to close Triposha
 
 *2024-11-11 01:55:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திரிபோஷாவை-மூடுவதற்கு-சதி/175-346913) · `ta`
 
-தாம் பாட்டாளி சாதாரண மக்கள் வர்க்கத்தை பிரதிநிதித்துவபடுத்துவதாகும், சாதாரண மக்களின் துன்பங்களை அறிவதாகும் கூறிய ஜனாதிபதி அனுரகுமார திஸாநாயக்க, தான் ஜனாதிபதியாக பதவியேற்று ஒரு வாரத்திற்கு முன்னரே திரிபோஷ தொழிற்சாலையை கலைத்து மூடும் சதியில் ஈடுபட்டுள்ளார் என்று ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாச தெரிவித்துள்ளார்.
+Here's a summary of the text in approximately 200 characters:
 
-இது குழந்தைகள் மற்றும் தாய்மார்களுக்கு எதிரான சதியாகும். நாட்டில் 5 வயதுக்குட்பட்ட குழந்தைகள், இரத்தசோகையால் பாதிக்கப்பட்ட கர்ப்பிணித் தாய்மார்கள், பாலூட்டும் தாய்மார்களுக்கு இந்த திரிபோஷ வழங்கப்பட்டு வருகிறது. மாதம் 16 லட்சம் பக்கெட்டுகள் வழங்கப்பட்டு வருகின்றன. தற்போது 664,920 தாய்மார்களுக்கும் 925,172 குழந்தைகளுக்கு இது வழங்கப்பட்டு வருகின்றன என்றும் குறிப்பிட்டுள்ளார்.
 
-ஐக்கிய மக்கள் சக்தியின் கொழும்பு மாவட்ட வேட்பாளர் சுதத் விக்ரமரத்னவினால் ஏற்பாடு செய்யப்பட்ட அவிசாவளை பிரதேச மக்களுடனான சந்திப்பு சனிக்கிழமை (09) இடம்பெற்றது. அதில் கலந்து கொண்டு உரையாற்றும் போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+Sajith Premadasa accuses President Anura Kumara Dissanayake of conspiring to close Triposha, a program providing food aid to vulnerable groups. Premadasa claims this threatens children and mothers' nutrition. He vows to protect Triposha and criticizes the government's handling of fuel prices and corruption allegations.
+
+🟩
+
+United People's Power Leader Sajith Premadasa has said that President Anura Kumara Dissanayake, who represents the ordinary people's class, has been involved in a conspiracy to dissolve the Triposha factory a week before he took office.
+
+It is a plot against children and mothers. The Triposha is being offered to children under the age of 5, pregnant mothers and lactating mothers in the country.. 16 lakh buckets are being provided a month. It is currently being provided to 664,920 mothers and 925,172 children.
+
+A meeting with the people of Avissawella, organized by the United People's Power Candidate Sudath Wickramaratne, was held on Saturday (09). He said the above while addressing it.
+
+The meeting was attended by many, including party activists. He said this while addressing the gathering.
 
 ...
 
 [Data](articles/405a1634.json)
+
+[Extended Data](ext_articles/405a1634.ext.json)
 
 ---
 

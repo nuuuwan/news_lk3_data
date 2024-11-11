@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-11 09:59:53**
+As of **2024-11-11 10:13:09**
 
 ## Newspaper Stats
 
-*Scraped **54,139** Articles*
+*Scraped **54,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,279
 dailyftlk | 3,709
 dailymirrorlk | 4,733
 adalk | 5,056
-adaderanalk | 6,454
+adaderanalk | 6,455
 tamilmirrorlk | 7,560
 virakesarilk | 8,777
 adaderanasinhalalk | 9,444
@@ -26,11 +26,35 @@ adaderanasinhalalk | 9,444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,139 (100.0%) of 54,139 articles have been extended.
+54,140 (100.0%) of 54,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-11 (Monday)
+
+### General Election campaigning ends today
+
+*2024-11-11 09:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103315/general-election-campaigning-ends-today-) · `en`
+
+The election campaigning activities for the 2024 General Election are scheduled to end at midnight today (Nov. 11).
+
+Accordingly, the Election Commission stated that the silence period will be in effect from midnight today until Election Day and no campaign activities can be carried out during that period.
+
+However, the Election Commission has given candidates time until midnight tomorrow (12) remove their campaign offices.
+
+The Election Commission stated that all preparations for the parliamentary elections, scheduled for November 14, have been completed.
+
+A group of representatives from election commissions of various Asian countries who are monitoring this year’s election are also scheduled to arrive in the island today.
+
+Representatives from international election monitoring organizations, including the European Union (EU), have already arrived, with more expected in the coming days.
+
+...
+
+[Data](articles/9dec096e.json)
+
+[Extended Data](ext_articles/9dec096e.ext.json)
+
+---
 
 ### Lock for liquor schools
 
@@ -2265,23 +2289,5 @@ The Ministry of Health has spent a large sum of money annually for Hahapoli's pa
 [Data](articles/0cbe018a.json)
 
 [Extended Data](ext_articles/0cbe018a.ext.json)
-
----
-
-### The national people should not play with the feelings of the people - Rosie Senanayake
-
-*2024-11-10 16:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198346) · `ta`
-
-Rosie Senanayake opposes removing 225 MPs, citing corruption. She argues against eliminating 40% of legal sector expertise. Her stance: don't manipulate public emotions for political gain.
-
-🟩
-
-“Their main campaign is that the 225 people in Parliament should be removed and the newcomers come to the public for the power of the people.. I completely oppose this. First of all, there are corrupt and fraudsters in parliament. For that, it is a wrong position to demand that 40 percent of the expertise required for the legal sector be eliminated. ”
-
-◼️
-
-[Data](articles/082c4665.json)
-
-[Extended Data](ext_articles/082c4665.ext.json)
 
 ---

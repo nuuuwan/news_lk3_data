@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 20:25:26**
+As of **2024-11-12 20:41:18**
 
 ## Newspaper Stats
 
-*Scraped **54,462** Articles*
+*Scraped **54,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,254
 economynextcom | 3,298
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,094
+adalk | 5,095
 adaderanalk | 6,498
 tamilmirrorlk | 7,619
 virakesarilk | 8,837
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,503
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,461 (100.0%) of 54,462 articles have been extended.
+54,462 (100.0%) of 54,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### දෙසැ 30ට පෙර ගිනිඅවි භාරදෙන්නැයි දැනුම්දෙයි
+### Awareness is to hand over firearms before December 30
 
 *2024-11-12 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203187) · `si`
 
-පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට, පළාත් සභා මන්ත්‍රීවරුන්ට, විවිධ දේශපාලන පක්‍ෂ නායකයින්ට, දේශපාලන සංවිධානවලට මෙන්ම විවිධ තනතුරු දැරූ රජයේ විධායක නිලධාරීන්ට ජීවිත ආරක්‍ෂාව සඳහා නිකුත්කර තිබු ගිනිඅවි 2024 දෙසැම්බර් මස 30 වනදාට පෙර ළඟම තිබෙන පොලීසිය වෙත භාරදීමට කටයුතු කරන ලෙස ආරක්‍ෂක අමාත්‍යාංශය අදාළ පුද්ගලයින් වෙත දැනුම්දෙයි.
+Here's a summary in 200 characters:
+
+
+
+Ministry of Defense informs relevant parties to hand over firearms to Provincial Councilors, political parties, and government executives by December 30, 2024.
+
+🟩
+
+The Ministry of Defense will be informed of the relevant persons to hand over the firearms to the Provincial Councilors, Various Political Party and Government Executors to the Government of Government Executives before December 30, 2024 before December 30, 202.
 
 ◼️
 
 [Data](articles/520216a4.json)
+
+[Extended Data](ext_articles/520216a4.ext.json)
 
 ---
 
@@ -453,6 +463,22 @@ Meanwhile, the voting boxes for the Nedundi Island will be taken by the boats on
 [Data](articles/48d34bf0.json)
 
 [Extended Data](ext_articles/48d34bf0.ext.json)
+
+---
+
+### දකුණු අප්‍රිකානු සංචාරයට දකුණු අප්‍රිකාවේ ප්‍රභලයෙක් ලංකාව තෝරා ගනියි
+
+*2024-11-12 17:05:21* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකානු-සංචාරයට-දකුණු-අප්‍රිකාවේ-ප්‍රභලයෙක්-ලංකාව-තෝරා-ගනියි/9-412999) · `si`
+
+ශ්‍රි ලංකා ටෙස්ට් කණ්ඩායමේ දකුණු අප්‍රිකානු සංචාරය සඳහා දකුණු අප්‍රිකානු කණ්ඩායමේ හිටපු දක්ෂ පිතිකරුවෙක් වන නීල් මැකෙන්සි ව කෙටි කාලීනව ශ්‍රී ලංකා කණ්ඩායමේ උපදේශක පුහුණුකරුවෙක් ලෙස පත්කර තිබේ.
+
+මෙම තරගාවලියට එක්වීම සඳහා ශ්‍රී ලංකා ටෙස්ට් කණ්ඩායමේ කිහිප දෙනෙක් ඊයේ දිනයේදී දකුණු අප්‍රිකාව බලා පිටත්ව ගොස් තිබේ.
+
+ඔවුන් සමග එක්ව නීල් මැකෙන්සි මහතා පුහුණු උපදේශන සැසි කිහිපයක් පවත්වනු ඇත.  දකුණු අප්‍රිකාව සහ ශ්‍රී ලංකාව අතර තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලියේ පළමු තරගය නොවැම්බර් 27 වනදාත් දෙවැනි ටෙස්ට් තරගය දෙසැම්බර් 05 වනදාත් ආරම්භ වීමට නියමිතය.
+
+◼️
+
+[Data](articles/f1076c24.json)
 
 ---
 
@@ -2545,19 +2571,5 @@ As well as the price of a barrel lubricant barrel at $ 71.83. Remble
 [Data](articles/4c589372.json)
 
 [Extended Data](ext_articles/4c589372.ext.json)
-
----
-
-### Ranil Wickremesinghe participates at final NDF rally
-
-*2024-11-12 10:18:11* · [`dailyftlk`](https://www.ft.lk/news/Ranil-Wickremesinghe-participates-at-final-NDF-rally/56-769155) · `en`
-
-Former President Ranil Wickremesinghe participated at the final New Democratic Front (NDF) rally in Colombo yesterday. Here Wickremesinghe is seen in conversation with several of the Colombo district candidates from the NDF – Pic by Pradeep Pathirana
-
-◼️
-
-[Data](articles/67ba972b.json)
-
-[Extended Data](ext_articles/67ba972b.ext.json)
 
 ---

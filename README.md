@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 10:41:02**
+As of **2024-11-12 11:42:06**
 
 ## Newspaper Stats
 
-*Scraped **54,354** Articles*
+*Scraped **54,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,60 +13,408 @@ dbsjeyarajcom | 423
 bbccomsinhala | 555
 colombotelegraphcom | 555
 islandlk | 3,254
-economynextcom | 3,290
+economynextcom | 3,295
 dailyftlk | 3,726
 dailymirrorlk | 4,733
-adalk | 5,082
+adalk | 5,083
 adaderanalk | 6,483
-tamilmirrorlk | 7,593
-virakesarilk | 8,814
-adaderanasinhalalk | 9,483
+tamilmirrorlk | 7,601
+virakesarilk | 8,816
+adaderanasinhalalk | 9,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,350 (100.0%) of 54,354 articles have been extended.
+54,363 (100.0%) of 54,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### අවසන් රැලියේ දී රිෂාඩ්ගේ සහ මස්තාන්ගේ ආධාරකරුවන් යකා නටයි
+### මහමැතිවරණයේ ඡන්ද ගණන් කිරීමේ කටයුතු සිදුවන්නේ මෙහෙමයි
+
+*2024-11-12 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203169) · `si`
+
+මහමැතිවරණයට අදාළව ඡන්ද ගණන් කිරීමේ කටයුතු එළැඹෙන 14 වනදා පස්වරු 4.15ට ආරම්භ කිරීමට කටයුතු කරන බව මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පවසයි.
+
+ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද (12) පැවති මහමැතිවරණය සම්බන්ධ දැනුවත් කිරීමේ විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව පැවසීය.
+
+එමෙන්ම ඡන්ද ප්‍රදේශවල ප්‍රතිඵලය හා දිස්ත්‍රික් ප්‍රතිඵලය මැතිවරණ මහලේකම් කාර්යාලයෙන් නැවත පරීක්ෂා කර අනුමත කළ පසු මාධය වෙත නිකුත් කරන බවත් එම නිසා නිල නොවන ඡන්ද ප්‍රතිඵල නිකුත් කිරීමෙන් වළකින ලෙසත් ඔහු ඉල්ලා සිටියේය.
+
+"තැපැල් ඡන්ද ගණන් කිරීමේ කටයුතු 4.15ට ආරම්භ කිරීමට විධි විධාන යොදා තිබෙනවා. ඒ වගේම සාමාන්‍ය ඡන්ද ගණන් කිරීම 14 වැනි දින ඒ ඒ ඡන්ද මධ්‍යස්ථානවලින් ඡන්ද පෙට්ටි ලැබුණු පසුව පස්වරු 7.15ට පමණ නිලධාරීන් සම්පූර්ණ වූ පසුව ආරම්භ කිරීමට කටයුතු යොදල තියෙනවා. ගණන් කිරීමේ කටයුතු අවසන් වූ පසුව එම ප්‍රතිඵල මාධ්‍යට ලබා දීමට අවශ්‍ය විධිවිධාන යොදලා තියෙනවා. එතෙක් නිල නොවන ප්‍රතිඵල නිකුත් කිරීමෙන් වැළකී සිටින ලෙස සියලුදෙනාගෙන් ඉල්ලා සිටිනවා."
+
+...
+
+[Data](articles/01ad4086.json)
+
+---
+
+### රාජගිරියේ ව්‍යාපාරික ස්ථානයක ගින්නක්
+
+*2024-11-12 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203168) · `si`
+
+රාජගිරිය මැදවැලිකඩ මාර්ගයේ නිවසක පවත්වාගෙන යන තාවකාලික ඇඟලුම් කර්මාන්ත ශාලාවක ගින්නක් හට ගෙන තිබේ.
+
+ගින්න පාලනය සඳහා මේ වනවිට කෝට්ටේ ගිනිනිවන ඒකකයේ රථ 4ක් යොදවා ඇතැයි වාර්තා වේ.
+
+◼️
+
+[Data](articles/193c2a62.json)
+
+---
+
+### கண்டியில் சீன பிரஜைகள் இருவர் கைது
+
+*2024-11-12 11:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-சீன-பிரஜைகள்-இருவர்-கைது/175-346988) · `ta`
+
+இலங்கையில் சுற்றுலா விசாவில் தங்கியிருந்து வணிக நடவடிக்கைகளில் ஈடுபட்ட சீனப் பிரஜைகள் இருவர் கண்டி சுற்றுலாப் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
+
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து 47 மற்றும் 48 வயதுடைய குறித்த இரு பெண்களும் கண்டியில் உள்ள பொருளாதார நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/54efb9d3.json)
+
+---
+
+### பெண் வன்புணர்வு  ;  பின்  கதவு வழியாக ஓடியவருக்கு வலை
+
+*2024-11-12 11:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்-வன்புணர்வு-பின்-கதவு-வழியாக-ஓடியவருக்கு-வலை/76-346986) · `ta`
+
+மொனராகலை பொலிஸ் பிரிவிற்குட்பட்ட வெந்திக்கும்புர, அந்தாயம்பொலை   பிரதேசத்தில்  வீடொன்றில் தூங்கிக்கொண்டிருந்த இரண்டு பிள்ளைகளின் தாயை வன்புணர்வதற்கு முயன்ற ஒருவரை தேடி, வலைவிரித்துள்ளதாக மொனராகலை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த பெண்ணின் கணவன், கொழும்பு பிரதேசத்தில் வேலைச்செய்துவருகின்றார். தன்னுடைய பிள்ளைகள் இருவருடன், அயலில் இடம்பெற்ற பூப்புனித நீராட்டு விழாவுக்குச் சென்றிருந்த அப்பெண், அன்றிரவு 10 மணியளவில் வீட்டுக்குத் திரும்பியுள்ளார்.
+
+கட்டிலில் படுக்கச்சென்ற அப்பெண், கட்டிலுக்கு அருகில் உள்ள நாட்காலியில் யாரோ ஒருவர் அமர்ந்திருப்பதை அவதானித்தார்.
+
+அச்சமடைந்த அந்த பெண், கூச்சலிடமுயன்றபோது, பாய்ந்துபிடித்த அந்தநபர், அப்பெண்ணின் வாயை பொத்தி, கழுத்தை நெரித்து, சத்தம்போட்டால், கொலை​ச்செய்துவிடுவேன் என அச்சுறுத்தி, பாலியல் வன்புணர்ந்துள்ளார்.
+
+ஏதோவிபரீதம் இடம்பெறுவதை அறிந்த அப்பெண்ணின் மகன், பக்கத்து அறையில் இருந்து தும்புத்தடியை எடுத்துவந்து தாக்குவதற்கு முயன்றபோது, பின்கதவால் அந்த நபர் தப்பியோடிவிட்டார்.
+
+...
+
+[Data](articles/8bdfae83.json)
+
+---
+
+### වනිඳු ආබාධයකට ලක්වෙයි
+
+*2024-11-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203167) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර හෙට (13) ආරම්භවන එක්දින ක්‍රිකට් තරගාවලිය සඳහා වනිඳු හසරංග සහභාගී නොවන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+ඒ දෙරට අතර දඹුල්ලේදී පැවති දෙවැනි 20/20 ජාත්‍යන්තර තරගයේදී ඇතිවූ ආබාධයක් හේතුවෙනි.
+
+◼️
+
+[Data](articles/33366482.json)
+
+---
+
+### The tragedy that happened to the man who went to the massage station
+
+*2024-11-12 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையம்-சென்றவருக்கு-நேர்ந்த-சோகம்/175-346985) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Arrests made in Bambalapitiya massage scam: Couple & 4 others detained for forcing victim to transfer money & steal cash.
+
+🟩
+
+Six suspects, including a couple, have been arrested for allegedly taking a person to a massage station in Bambalapitiya and forced to transfer Rs.
+
+According to Bambalapitiya Police, the victim has been invited to massage the body. He has been informed that the service will be provided when he arrives.
+
+However, when he reached the massage station, the couple attacked him to send 1 million money from the bank online.
+
+In addition, the suspects have stolen 15,000 rupees from the man's wallet.
+
+Police have arrested a 44 and 54 -year -old couple from Piliyandala area with a three -wheeler used for the crime.
+
+Following further investigations, the police have arrested four more suspects aged 19 and 23 in Ratmalana and Malkisai area in connection with the incident.
+
+◼️
+
+[Data](articles/36af6320.json)
+
+[Extended Data](ext_articles/36af6320.ext.json)
+
+---
+
+### IMF mission in Sri Lanka next week to begin review, budget in Feb
+
+*2024-11-12 11:08:00* · [`economynextcom`](https://economynext.com/imf-mission-in-sri-lanka-next-week-to-begin-review-budget-in-feb-186992/) · `en`
+
+ECONOMYNEXT – An International Monetary Fund team will visit Sri Lanka next week, the agency said, while President Anura Dissanayake said he expected a budget to be presented and passed in parliament by February.
+
+“An IMF team led by Peter Breuer, senior mission chief for Sri Lanka, is expected to visit Colombo next week to conduct the third review for Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility,” a spokesperson said.
+
+President Anura Dissanayake said at his last campaign rally that the mission would arrive soon after the election to conduct the third review of the program.
+
+“We will finish the review by end January/early February,” he said. “Then we can achieve considerable stability in the economy.”
+
+For an IMF program review to pass, a staff level agreement has to be crafted with fiscal and monetary targets for the next year. For that a budget in line with program parameters is required.
+
+...
+
+[Data](articles/86a5957c.json)
+
+---
+
+### Loki Ferguson will lose the ODI series with Sri Lanka
+
+*2024-11-12 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203166) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Locky Ferguson, New Zealand's fast bowler, faces defeat in the upcoming ODI series against Sri Lanka. He previously achieved a hat-trick in 2020 but was forced to leave the field due to a foot injury during the second match. The series begins tomorrow (13).
+
+🟩
+
+New Zealand's fast bowler locky Ferguni has lost Sri Lanka-New Zealand ODI series.
+
+The Sri Lanka-New Zealand ODI series will commence tomorrow (13).
+
+Ferguson obtained a hattric in the second 2020 match against Sri Lanka.
+
+He had left the flock due to a foot disorder while sending his second ball over.
+
+◼️
+
+[Data](articles/f22e7aa4.json)
+
+[Extended Data](ext_articles/f22e7aa4.ext.json)
+
+---
+
+### Sri Lanka rupee trading at 292.65/75 to dollar, bond yields down
+
+*2024-11-12 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-at-292-65-75-to-dollar-bond-yields-down-186855/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading weaker at 292.65/75 to the US dollar Tuesday from 292.55/75 to the US dollar on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 01.05.2027 was quoted at 11.12/18 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.58/60 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.95/12.00 percent.
+
+An auction of 85,000 million rupees of treasury Bonds was ongoing.
+
+In equities, Colombo’s All Share Price Index was trading up 0.45 percent, or 58.58 points higher at 12,933.90, while the S&P SL20 of more liquid stocks was up 0.72 percent or 27.89 points higher at 3,882.
+
+◼️
+
+[Data](articles/fb445205.json)
+
+---
+
+### Confused at Sumanthiran's meeting
+
+*2024-11-12 10:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-கூட்டத்தில்-குழப்பம்/175-346983) · `ta`
+
+Sri Lanka Tamil National Alliance TNA campaign meeting at Vaddukoddai-Chiripuram turns chaotic. Former MP M.A. Sumanthiran addresses crowd, but attendees try questioning him. Police intervene as situation escalates.
+
+🟩
+
+The Sri Lanka Tamil National Alliance (TNA) campaign held on Monday (12) at Vaddukoddai - Chiripuram area is confused.
+
+Former Parliamentarian MP MA. Some people in the crowd tried to ask questions after Sumanthiran addressed. There was confusion in the meeting. When there was a clash, the police arrived at the scene.
+
+◼️
+
+[Data](articles/3c157a70.json)
+
+[Extended Data](ext_articles/3c157a70.ext.json)
+
+---
+
+### Request to US embassy to remove warning
+
+*2024-11-12 10:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கையை-நீக்க-அமெரிக்கத்-தூதரகத்திடம்-கோரிக்கை/175-346982) · `ta`
+
+Sri Lankan government requests US embassy remove security warning for Gulf of Health tourist areas. US embassy issues travel ban due to terrorism threat. Sri Lankan authorities take steps to strengthen security and reassure diplomatic community. Six arrests made related to security threat. Defense Secretary visits Eastern Province to assess security conditions. US embassy spokesperson confirms cooperation with Sri Lankan authorities.
+
+🟩
+
+A spokesman yesterday said that the Foreign Ministry had requested the US embassy to remove the security warning issued before his countrymen to avoid going to the Gulf of the Health Gulf until the re -announcement.
+
+“The embassy received reliable information that the attack would be targeted by popular tourist destinations in the Gulf. Due to the severe risk of this threat, the embassy has imposed a travel ban on hearing until immediately and re -notice. US Embassy warned on October 23, "US citizens are strongly urged to avoid the bay of bay until the re -announcement comes."
+
+Following the US security warning, the Israeli National Security Council has called on the Israelites to immediately leave its citizens in some tourist areas in South Sri Lanka due to the threat of terrorist attacks.
+
+The warning on the beaches in the Gulf of Health and the southern and west of Sri Lanka is "from the latest information on the threat of terrorism centered on tourism and beaches."
+
+...
+
+[Data](articles/a41d0941.json)
+
+[Extended Data](ext_articles/a41d0941.ext.json)
+
+---
+
+### The police were in alert
+
+*2024-11-12 10:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உஷார்-நிலையில்-பொலிஸார்/175-346981) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Police deploy 64,000 officers nationwide for election security. Special Task Force stands ready. Authorities seek public support for peaceful polls.
+
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the police have carried out special security measures from today (12) ahead of the general election.
+
+About 64,000 police officers will be deployed at all polling booths across the country, he said.
+
+He added that police officers will be deployed on the day of elections nationwide and the next day, if needed.
+
+He also pointed out that about 64,000 policemen have been deployed for security and 3,200 officers of the Police Special Task Force are ready for duty.
+
+At the same time, he said that everyone is asking for the support to hold an independent and peaceful election.
+
+◼️
+
+[Data](articles/91e56d6f.json)
+
+[Extended Data](ext_articles/91e56d6f.ext.json)
+
+---
+
+### Tamil Nadu fishermen arrested 12 more
+
+*2024-11-12 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-மேலும்-12-பேர்-கைது/175-346980) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Sri Lankan navy arrests 12 Tamil Nadu fishermen, bringing total arrests to 485 since 2024. Fishermen's families urge governments for permanent solution as courts impose hefty fines and lengthy prison terms."
+
+🟩
+
+12 more fishermen arrested by Sri Lankan navy. Sri Lankan navy has arrested 12 fishermen today (Nov 12) after 23 Rameshwaram fishermen were arrested on November 10.
+
+Nagapattinam: Sri Lankan navy has arrested 12 fishermen for allegedly crossing the border. Also, have also seized a vessel. This has caused turmoil among fishermen in the last few days.
+
+More than 485 fishermen have been arrested by the Sri Lankan navy since the beginning of 2024. More than 65 boats have been imprisoned.
+
+The Sri Lankan courts impose huge fines for the arrested fishermen. Also, fishermen are in prison for months. As a result, fishermen are constantly urging the central and state governments to find a permanent solution to the problem as the families of the families of the fishermen who have lost their livelihoods.
+
+...
+
+[Data](articles/ac0821cc.json)
+
+[Extended Data](ext_articles/ac0821cc.ext.json)
+
+---
+
+### Student admitted to hospital
+
+*2024-11-12 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198482) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Student hurt in train accident. 21-year-old fell off night train near Haputale. Seriously injured. Admitted to hospital. Police investigating incident.
+
+🟩
+
+Haputale police said that a 1045 -year -old night post train traveling from Colombo Fort to Badulla at the Haputale railway station was hit by a train on Tuesday (12).
+
+A 21 -year -old university student from Ratgama, Araliya, Mavadavila, fell off the train and was seriously injured, police said.
+
+When the train stopped at the Haputtala railway station at 6.30 am when the train was stopped at the Haputtala railway station at 6.30 am, the police said that they were injured when they got off the train and got back on the train.
+
+It is reported that Yuvati was immediately admitted to the Diyatalawa General Hospital for treatment.
+
+On the advice of Senior Superintendent of Police Pradeep Kalubahana, who is in charge of the Bandarawela Police Division, a police team headed by Haputtai Police Station Prabhopa Sebala Ratnayake is conducting further investigations.
+
+◼️
+
+[Data](articles/89175976.json)
+
+[Extended Data](ext_articles/89175976.ext.json)
+
+---
+
+### Fonterra says gets meaningful buyer interest for Sri Lanka unit, consumer division
+
+*2024-11-12 10:38:00* · [`economynextcom`](https://economynext.com/fonterra-says-gets-meaningful-buyer-interest-for-sri-lanka-unit-consumer-division-186928/) · `en`
+
+ECONOMYNEXT – New Zealand-based Fonterra said it has received meaningful buyer interest in initial exploration to sell off its global consumer division and integrated units in Sri Lanka and Oceania.
+
+Earlier this year Fonterra said that it was planning to exit consumer (retail) business and focus on ingredients and food service distribution channels.
+
+“We have received meaningful buyer interest in the businesses in scope for divestment, which is testament to their strength and potential,” Chief Executive Miles Hurrell said in a statement.
+
+“Through the scoping phase, we have assessed both a trade sale and IPO as attractive divestment options and will now prepare for a sale process which will pursue both options.”
+
+“We will thoroughly test the terms and value of both a trade sale and IPO with the market before seeking support from farmer shareholders for a divestment option through a vote,” Hurrell said.
+
+...
+
+[Data](articles/1486224b.json)
+
+---
+
+### Rishad's and Masathan supporters delegated at the final rally
 
 *2024-11-12 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203165) · `si`
 
-හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතාගේ හා හිටපු රාජ්‍ය අමාත්‍ය කාදර් මස්තාන් මහතාගේ ආධාරකරුවන් අතර ගැටුමක් හට ගෙන තිබේ.
+Clash between Rishad Bathiudeen and Kader Masthan supporters injures two, damages vehicles in Vavuniya. Police investigating. Both politicians contesting parliamentary election from Vanni electorate.
 
-ඊයේ (11) රාත්‍රියේ වවුනියාව, පට්ටාන්ච්චිචූර් ප්‍රදේශයේ ඇති වූ එම ගැටුමෙන්  පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා ඇති බව වවුනියාව පොලීසිය පවසයි.
+🟩
 
-හිටපු රාජ්‍ය අමාත්‍ය කාදර් මස්තාන් මහතාගේ අවසන් ප්‍රචාරණ රැලිය පට්ටාන්ච්චිචූර් ප්‍රදේශයේ පැවති අතර, හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතාගේ ප්‍රචාරණ රැස්වීමක්ද අදාළ ප්‍රදේශයේ පැවැත්වීමට නියමිතව තිබුණි.
+Former Minister Rishad Bathiudeen and former Minister of State Minister Kader Masathan has conflicts.
+
+The Vavuniya Police states that two persons were injured in the clash at the Pattitchur area in Vavuniya last night.
+
+Former State Minister Kader Masathan's final advertising rally was scheduled to be held in Pattranchchur, former Minister Rishad Bathiudeen's propaganda meeting.
 
 රැස්වීම වෙනුවෙන් රිෂාඩ් බදියුදීන් මහතා හා ඔහුගේ ආධාරකරුවන් ගමන් කරමින් සිටියදී මස්තාන් මහතාගේ ආධාරකරුවන් රිෂාඩ් බදියුදීන් මහතා ගමන්ගත් වාහනය වෙත පහරදී තිබේ.
 
-අදාළ අවස්ථාවේ ආධාරකරුවන් දෙපාර්ශවය අතර ගැටුමක් හටගෙන ඇති අතර,වවුනියාව පොලීසිය හා නෙලුක්කුලම පොලීසිය මැදිහත්ව ගැටුම සමතයකට පත්කර ඇත.
+The clash had occurred between the two parties, while the Vavuniya Police and the Nelukkulama police have intervened.
 
-ගැටුම අතරතුර පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා වවුනියාව රෝහලට ඇතුළත් කළ අතර, දෙපාර්ශවයේම වාහන කිහිපයකට හානි සිදුව ඇති බවද පොලීසිය සඳහන් කළේය.
+Two persons were injured and admitted to the Vavuniya hospital while several vehicles were damaged in the confrontation, police said.
+
+The Vavuniya Police and the Nelukkulama Police are conducting further investigations into the incident.
 
 ...
 
 [Data](articles/a8ed0c69.json)
 
+[Extended Data](ext_articles/a8ed0c69.ext.json)
+
 ---
 
-### இயற்கை எரிவாயுவின் விலையில் மாற்றம்
+### Change in the price of natural gas
 
 *2024-11-12 10:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இயற்கை-எரிவாயுவின்-விலையில்-மாற்றம்/50-346978) · `ta`
 
-உலக சந்தையில் இயற்கை எரிவாயுவின் விலை இன்றைய தினம் 2.928 அமெரிக்க டொலராக அதிகரிப்பைப் பதிவு செய்துள்ளது
+Natural gas price rises to $2.928 globally. WTI crude oil barrel falls to $68.21, while another type drops to $71.83. Market fluctuations continue.
 
-உலக சந்தையில் WTI ரக மசகு எண்ணெய் பீப்பாய் ஒன்றின் விலை 68.21 அமெரிக்க டொலராக வீழ்ச்சியைப் பதிவு செய்துள்ளது.
+🟩
 
-அத்துடன் பிரெண்ட் ரக மசகு எண்ணெய் பீப்பாய் ஒன்றின் விலை 71.83 அமெரிக்க டொலராக நிலவுகிறது. R
+The price of natural gas in the world market has increased to $ 2.928 today
+
+In the world market, the price of a WTI lubricant barrel has fallen to $ 68.21.
+
+As well as the price of a barrel lubricant barrel at $ 71.83. Remble
 
 ◼️
 
 [Data](articles/4c589372.json)
+
+[Extended Data](ext_articles/4c589372.ext.json)
 
 ---
 
@@ -79,6 +427,34 @@ Former President Ranil Wickremesinghe participated at the final New Democratic F
 ◼️
 
 [Data](articles/67ba972b.json)
+
+[Extended Data](ext_articles/67ba972b.ext.json)
+
+---
+
+### Abhi Pinkenavar visits Sri Lanka on World Youth Issues of US State Department
+
+*2024-11-12 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198483) · `ta`
+
+Abhi Pinkenavar visits Sri Lanka & Nepal for US State Dept's World Youth Affairs. Promotes US interests in South Asian youth leadership, citizenship, culture, and social issues. Meets with young leaders, entrepreneurs, and political figures. Discusses challenges & opportunities in youth empowerment.
+
+🟩
+
+Abhi Pinkenavar will visit Sri Lanka and Nepal, a special ambassador to the US State Department's World Youth Affairs issues.
+
+Abhi Pinkenavar is making a visit to Sri Lanka and Nepal from the 12th to the 15th.
+
+Abhi Pinkenavar's visit is aimed at promoting the United States of America to promote South Asian youth leaders and aims to cooperate on major issues such as citizenship participation and younger leadership, cultural protection and social flexibility.
+
+In Sri Lanka, Special Ambassador Pinkenavar will observe the impact of programs to encourage young leaders in the fields of education, leadership and citizenship through the cooperation of Sri Lanka.
+
+US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussions with alumni of the US Embassy's Youth Council and the USAI International Development Organization (USAI) Emerging Leaders Academy.
+
+...
+
+[Data](articles/f0af2e43.json)
+
+[Extended Data](ext_articles/f0af2e43.ext.json)
 
 ---
 
@@ -380,6 +756,34 @@ He has been summoned to the Criminal Investigation Department yesterday.. Remble
 
 ---
 
+### 21/4 attack;CID call to child
+
+*2024-11-12 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/21-4-தாக்குதல்-பிள்ளையானுக்கு-CID-அழைப்பு/150-346974) · `ta`
+
+Sum:0
+
+🟩
+
+Former State Minister Pillaiyan alias Sivanesathurai Chandrakanthan has been summoned to the Criminal Investigation Department today.
+
+The video, which aired on April 21, on September 6 last year, was reported to have been reported to have been reported to have been reported between Major General Suresh Saleh, the Director of the State Intelligence Unit and the alleged meeting between Major General Suresh Saleh and the April 21 bomb.
+
+The video was named as Channel 4 television.
+
+From 2005 to 2015, Channel 4 TV revealed that Sivanesathurai Chandrakanthan, the so -called Pillaiyan, has been aimed at the Rajapaksa's political opponents, targeting the political opponents of the Rajapaksa.
+
+The Criminal Investigation Department has begun investigations into the surrogate issues.
+
+The Submissions for this were filed yesterday by the Criminal Investigation Department of the Criminal Investigation Department.. Remble
+
+◼️
+
+[Data](articles/81e76dbd.json)
+
+[Extended Data](ext_articles/81e76dbd.ext.json)
+
+---
+
 ### Introduction to the first peace period today
 
 *2024-11-12 08:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அமைதி-காலம்-அறிமுகம்/175-346973) · `ta`
@@ -590,6 +994,20 @@ Talamanna Mannar road from 23.11.11. 04.15 Colombo Fort. 10.15
 
 ---
 
+### සුජීවගේ V8 රථය අධිකරණයට භාර දෙයි
+
+*2024-11-12 06:15:27* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවගේ-V8-රථය-අධිකරණයට-භාර-දෙයි/11-412985) · `si`
+
+අධිකරණ නියෝගයකට අනුව අත්අඩංගුවට ගැනීමට රහස් පොලිසිය විමර්ශන කරමින් සිටි රුපියල් කෝටි 10 ක් පමණ වටිනා වී-8 වර්ගයේ සුඛෝපභෝගී මෝටර් රථය සමගි ජන බලවේගයේ ජාතික සංවිධායක සුජීව සේනසිංහ මහතා ඊයේ (11) සවසම අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ගෙනැවිත් බාරදුන් බව පොලිසස් ආරංචි මාර්ග සඳහන් කරයි.
+
+මෙම වී-8 වර්ගයේ සුඛෝපභෝගී මෝටර් රථය විනාශ කිරීමට හෝ එය සැඟවීමට සුජීව සේනසිංහ මහතා කටයුතු කරනු ඇති බවට සැකයක් මතුව ඇතැයි කියමින් රහස් පොලිසිය කළ ඉල්ලීමක් පිළිගනිමින් අදාළ රථය වහාම අතත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කරන ලෙස කොටුව මහේස්ත්‍රාත් තනුජා ලක්මාලි මහත්මිය නියම කර තිබු පසුබිමක සේනසිංහ මහතා රථය මෙලෙස අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට ගෙනැවිත් බාරදී ඇතැයි වාර්තාවේ.
+
+◼️
+
+[Data](articles/12e81235.json)
+
+---
+
 ### A change in weather from tomorrow
 
 *2024-11-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203154) · `si`
@@ -618,23 +1036,31 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන ලබා දීමට රජයේ අවධානය
+### State attention to relief to SMEs
 
 *2024-11-12 05:51:46* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-කර්මාන්තවලට-සහන-ලබා-දීමට-රජයේ-අවධානය/11-412984) · `si`
 
-සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන ලබා දීම සම්බන්ධයෙන්  මූල්‍ය සහ ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් ජී.එන්.ආර්.ඩී අපොන්සු මහතා සහ ශ්‍රී ලංකා බැංකු සංගමය, මුදල් අමාත්‍යාංශය හා ශ්‍රී ලංකා  මහා බැංකුවේ නිලධාරීන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී ඊයේ (11දා) පැවැත්විණි.
+SME relief efforts discussed, including Parate Execution law implementation deadline, banking sector support, and SME debt report preparation.
 
-සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් ණයගැතිභාවය නිසා මුහුණ දෙන ගැටලු පිළිබඳ මෙහිදී සාකච්ඡා කෙරිණි.
+🟩
+
+Hon..
+
+Discussions were discussed at the discussion due to the problems faced by SMEs.
 
 පරාටේ නීතිය (Parate Execution) ක්‍රියාත්මක කිරීම මේ වන විට අත්හිටුවා ඇති අතර  එය ලබන දෙසැම්බර් මස 15වන දා කල් ඉකුත් වීමට නියමිතය.  ඒ සම්බන්ධයෙන් ගත යුතු ඉදිරි පියවර පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානය යොමු විය.
 
-ආර්ථිකයේ නිෂ්පාදනය හැකියාව වර්ධනය කිරීම සඳහා බැංකු අංශයට ලබා දිය හැකි සහායද, මේ වන විට සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් ලබා ගෙන ඇති ණය සම්බන්ධවද මෙම සාකච්ඡාවේදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+The assistorary support to the banking sector to enhance the production capability of the economy is also discussed at length in the discussion.
 
-සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් බැංකුවලින් ලබා ගත් ණය සම්බන්ධ වාර්තාවක් සකස් කිරීමටද මෙම සාකච්ඡාවේදී තීරණය විය.
+The discussion also decided to prepare a report on the debt obtained by the SMEs by the SMEs.
 
-...
+මේ වන විට බැංකු විසින් පරාටේ නීතිය යටතේ සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන්ට ලබා දී තිබෙන ණය නැවත අය කර ගැනීම තාවකාලික අත්හිටුවා ඇති අතර ඒ සම්බන්ධයෙන් ඉදිරි පියවර ගැනීම සම්බන්ධයෙන්ද  මෙහිදී සාකච්ඡා කෙරිණි.
+
+◼️
 
 [Data](articles/87e437f4.json)
+
+[Extended Data](ext_articles/87e437f4.ext.json)
 
 ---
 
@@ -1100,6 +1526,22 @@ It would not be possible if the JVP would release the land of the Tamil people b
 
 ---
 
+### Sri Lanka poll campaign ends; ruling NPP seen favourite amid criticism over experience
+
+*2024-11-11 23:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-poll-campaign-ends-ruling-npp-seen-favourite-amid-criticism-over-experience-186953/) · `en`
+
+ECONOMYNEXT – Campaign for Sri Lanka’s parliamentary elections scheduled for November 14 ended at midnight on Monday with President Anura Kumara Dissanayake’s ruling National People’s Power (NPP) is seen favourite despite strong criticism by opposition over experience of NPP members.
+
+Sri Lanka’s 17.1 million voters will select 196 legislators through direct constituencies in the election, while 29 seats are reserved for a national list, bringing the total number of seats to 225.
+
+The upcoming election is significant as it could shape the political landscape of the country following an unprecedented economic crisis with sovereign debt default in 2022 and mass protests which ousted the then president and government in the same year.
+
+...
+
+[Data](articles/b864448b.json)
+
+---
+
 ### Steps are being taken to scatter the votes of the Tamils ​​and give other communities the opportunity to win. - A.Rogej
 
 *2024-11-11 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198472) · `ta`
@@ -1267,6 +1709,26 @@ His monastic life of 57 years. 38 years as a popular Dharmachara in many parts o
 [Data](articles/cb4fd8a2.json)
 
 [Extended Data](ext_articles/cb4fd8a2.ext.json)
+
+---
+
+### IMF program should focus on cutting Sri Lanka state costs instead of simply raising taxes: Eran
+
+*2024-11-11 22:21:00* · [`economynextcom`](https://economynext.com/imf-program-should-focus-on-cutting-sri-lanka-state-costs-instead-of-simply-raising-taxes-eran-186957/) · `en`
+
+ECONOMYNEXT  – The International Monetary Fund program should look at cutting costs of the island’s bloated state instead of simply raising taxes on the people, former State Minister for Finance Eran Wickremaratne has said.
+
+The IMF has been promoting ‘revenue based fiscal consolidation’ an unusual strategy of supporting the ruler against the ruled, instead of fixing deficits with a combination of spending and revenue consolidation.
+
+“Why the IMF didn’t go to a fiscal consolidation not based on revenue?”, Wickramaratne said in an interview.
+
+“To their credit, I would say they talked about governance issues. But why didn’t they go more drastically on cost? I ran a bank. Others have run companies. The first thing you look at is cost.
+
+“If you look at cost savings, eliminating wastage, reform, whether it’s the armed forces, whether it’s the public service, whether it’s state-owned enterprises.”
+
+...
+
+[Data](articles/4f42028b.json)
 
 ---
 
@@ -1871,471 +2333,5 @@ The president has not yet reported the economic target. And so there is a massiv
 [Data](articles/f7767b75.json)
 
 [Extended Data](ext_articles/f7767b75.ext.json)
-
----
-
-### A large crisis in the country if an El board is coming
-
-*2024-11-11 19:14:20* · [`adalk`](https://www.ada.lk/breaking_news/එල්-බෝඩ්-පාර්ලිමේන්තුවක්-ආවොත්-රටේ-විශාල-අර්බුදයක්/11-412982) · `si`
-
-Sri Lanka faces potential crisis if "El board" parliament formed. Former President Ranil Wickremesinghe warns of economic instability due to unpaid debts. Government struggles to negotiate with IMF over policies and tax reforms. Political tensions rise as opposition challenges current economic plans.
-
-🟩
-
-Former President Ranil Wickremesinghe said that if the debt could be moved again and to commence the debt in 2028, former President Ranil Wickremesinghe said.If a "El board" parliament is appointed, a major crisis in the country may have caused a big crisis. He said so at the meeting held today (11) at the meeting held today (11) at the meeting of the New Democratic Front.
-
-The former president said that the former president said that no ruler of the President had already been proven to be proven to no one ruler of the compass to Parliament.
-
-Speaking further, President Ranil Wickremesinghe said at the final rally.. By 2028, we must pay off debts.
-
-If you do not pay off the debt, the President has not been uncertain.Can the government solve?
-
-How does this government discuss with the IMF?In the presidential election, a rich country brought a beautiful life policy. Can you have been implemented with the IMF and in Washington?. Are you discussing the third premium?
-
-...
-
-[Data](articles/a5fe9c08.json)
-
-[Extended Data](ext_articles/a5fe9c08.ext.json)
-
----
-
-### Three police officers released on bail
-
-*2024-11-11 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203146) · `si`
-
-Three police officers arrested over funeral procession incident, released on bail after court order.
-
-🟩
-
-The OIC of the Giranegama Police Station, the OIC of the Giranegama Police have arrested three OIC of the police station.
-
-The police spokesman DIG Talduuwa said that these people were arrested as a video in the social media regarding the incident.
-
-Addressing a media briefing held today (11), he said that the arrest was made by the Anuradhapura Police.
-
-The court said the court was ordered to be released on bail of Rs.
-
-"On the 18th, the OIC of the Giranegama Police Station had come to play a group of people who have come to a funeral home in a nearby area.. Later, the OIC and several officials have gone there. These people are the group, as they have played the corner of the corpses.. Nearly 12 people have been. Since the traditional vehicle is not brought to bringing these people. The starding was informed to come to the police. After they arrived in police, they all left the carriage. Then they were drunken and engaged in the sport of the prison. "
-
-◼️
-
-[Data](articles/751c7d94.json)
-
-[Extended Data](ext_articles/751c7d94.ext.json)
-
----
-
-### Sri Lanka’s debt restructuring to be completed by year-end: President
-
-*2024-11-11 19:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103337/sri-lankas-debt-restructuring-to-be-completed-by-year-end-president) · `en`
-
-President Anura Kumara Dissanayake says that Sri Lanka’s debt restructuring process can be completed by December.
-
-Speaking at a public rally in Gampaha today (11), he outlined the government’s plan to achieve financial stability amid ongoing economic challenges.
-
-“Our restructuring process is nearly complete, with only a small amount left to finalize,” President Dissanayake stated.
-
-He assured that by 2028, the country would be in a position to start repaying the restructured debt, as calculations are already underway to manage these future obligations.
-
-The President further highlighted that an International Monetary Fund (IMF) team is expected to arrive in Sri Lanka shortly after the upcoming general election to conduct a third review of the economic recovery program.
-
-He expressed confidence that this review would be wrapped up by the end of January or early February 2025, paving the way for a more stable economic foundation.
-
-◼️
-
-[Data](articles/61cc3a5b.json)
-
-[Extended Data](ext_articles/61cc3a5b.ext.json)
-
----
-
-### The credit-share is overwhelming
-
-*2024-11-11 19:05:08* · [`adalk`](https://www.ada.lk/breaking_news/ණය-පංගුව-ඉක්මවා-යන-ආර්ථිකයක්-ඇති-කරනවා/11-412981) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake addressed a rally, discussing loan shares, economic plans, and upcoming elections. He emphasized the need for a majority government and filling Parliament with capable representatives.
-
-🟩
-
-President Anura Kumara Dissanayake said that the loan share owing to the borrowing owes in the country in 2028. The President also said that the necessary economic plan plans have been made for this purpose.
-
-He said that more than the people who voted in the presidential election, more people hope to vote in general election. He said this addressing the final rally of the National People's Representative in Gampaha yesterday (11). The President stated that the former rulers waiting for the government and the people are looking for the building of the country.
-
-The President also stated that it is the expected hope for the prospect of the people without allowing the hope of the people.. He said that a majority government with a majority government in the coming elections should be built and that Parliament should be filled with the compass.
-
-...
-
-[Data](articles/63eb03c3.json)
-
-[Extended Data](ext_articles/63eb03c3.ext.json)
-
----
-
-### Giver and gambling gambling and give up water to drink
-
-*2024-11-11 19:01:16* · [`adalk`](https://www.ada.lk/breaking_news/සිර-මැදිරියේ-සූදු-ගහන්නත්-දීලා-මත්-වතුර-බොන්නත්-දීලා/11-412980) · `si`
-
-Police officers arrested for gambling in cell. Three officers from Giranagama Police station detained. Case filed under alcohol and gambling charges.
-
-🟩
-
-Three police officers including the OIC of the Giranagama Police have been arrested in connection with a group of suspects to engage in gambling in the police cell (Drain) in the police cell.The Divisional Criminal Investigation Division says.
-
-A police inspector of the OIC of the Giranagama Police, a police sergeant, a police sergeant and a police constable.
-
-The Suspect's Criminal Investigation Unit, the suspects have launched an investigation into the event of a mobile phone to the social media.They were produced in court regarding the allegations of alcohol and gambling in the prison room.
-
-The three arrested suspects were produced before the Kekirawa Magistrate's Court today (11), police said.
-
-Chaminda Gunasekera, Chief Inspector Crime Investigation Division (SSP) of the Senior Superintendent of Police Thilina Hewapathirana, arrested the suspects.
-
-◼️
-
-[Data](articles/3ecdcd51.json)
-
-[Extended Data](ext_articles/3ecdcd51.ext.json)
-
----
-
-### Piyumi Hansayali and Wirajith Polugods ordered to expedite investigations
-
-*2024-11-11 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203145) · `si`
-
-Colombo Additional Magistrate orders expedited investigation against two individuals under Tax Act Section 190. Case filed by Inland Revenue Department. Attorney Dinesh Perera requests document review.
-
-🟩
-
-Colombo Additional Magistrate today (11) ordered the Department of Inland Revenue to expedite investigations against Deliming Technician Piyumi Hansagami and Branjith Combugala.
-
-Additional Magistrate Bandara Ilangasinghe gave the order when a case was filed before the Inland Revenue Department today (11).
-
-The Inland Revenue Department had filed an order to direct the Tax Act, as per section 190 of the Local Income Act.
-
-Attorney-at-Law Dinesh Perera informed the courts in order to investigate the documents related to the incident.
-
-◼️
-
-[Data](articles/8af7d2d1.json)
-
-[Extended Data](ext_articles/8af7d2d1.ext.json)
-
----
-
-### Kochchikadai Police Station Superintendent
-
-*2024-11-11 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198461) · `ta`
-
-Here's a summary of "Kochchikadai Police Station Superintendent" in 200 characters:
-
-
-
-Kochchikadai Police Station: A law enforcement facility overseeing local crime prevention and investigation. The superintendent manages daily operations, personnel, and community relations within this station.
-
-🟩
-
-◼️
-
-[Data](articles/f2540723.json)
-
-[Extended Data](ext_articles/f2540723.ext.json)
-
----
-
-### President's statement on restructuring of credit
-
-*2024-11-11 18:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203144) · `si`
-
-Sri Lankan President Anura Kumara Dissanayake announces loan restructuring plan. Loans will be repaid starting 2028. Government aims to stabilize economy by late February 2024. IMF visit expected soon after elections.
-
-🟩
-
-President Anura Kumara Dissanayake says that the restructuring of Sri Lankan loans in December is possible.
-
-He was speaking at the rally in Gampaha this afternoon.
-
-"At present it is complete. There's some of the more. In 2028, we start paying. We have calculated the loans that we have to pay in 2028. The government can build an economy that can be paid by that credit. IMF arrives in Sri Lanka two days after the end of the general election. Then we finish the review of 3 by late January, late February. Then we can gain significant stability of the economy. "
-
-◼️
-
-[Data](articles/419c7d5c.json)
-
-[Extended Data](ext_articles/419c7d5c.ext.json)
-
----
-
-### Arrest of Oic Oic
-
-*2024-11-11 18:35:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொச்சிக்கடை-OIC-கைது/175-346950) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo North Police Crime Branch arrests officer from Kochchikkadai Police Station for election law violation.
-
-🟩
-
-The Kochchikkadai Police Station in charge of violating election law has been arrested by the Colombo North Police Crime Branch. Remble
-
-◼️
-
-[Data](articles/4775e76c.json)
-
-[Extended Data](ext_articles/4775e76c.ext.json)
-
----
-
-### Kochchikade Police OIC arrested
-
-*2024-11-11 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203143) · `si`
-
-Kochchikade Police OIC arrested for election law violation by Colombo North Police Current Division.
-
-🟩
-
-He was arrested in connection with a violation of election laws.
-
-He has been arrested by the Colombo North Police Current Division.
-
-◼️
-
-[Data](articles/e41f09e1.json)
-
-[Extended Data](ext_articles/e41f09e1.ext.json)
-
----
-
-### Kochchikade OIC arrested over election law violation
-
-*2024-11-11 18:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103336/kochchikade-oic-arrested-over-election-law-violation-) · `en`
-
-The Officer-in-Charge (OIC) of the Kochchikade Police Station has been arrested by the Colombo-North Crimes Division over an alleged incident of violating election laws, the police said.
-
-◼️
-
-[Data](articles/ba9ac995.json)
-
-[Extended Data](ext_articles/ba9ac995.ext.json)
-
----
-
-### President Anura  Dissanayake Addressing Meeting in Jaffna Assures Tamils that  their Lands Seized by the State would be returned to them but  makes no reference to Greater Power Devolution or a Political Settlement to the Ethnic Question
-
-*2024-11-11 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85037) · `en`
-
-Sri Lanka’s President Anura Kumara Dissanayake on Sunday (November 10, 2024) assured Tamils that their land —currently held by state agencies — will be returned by his government.
-
-Mr. Dissanayake, who was elected to the country’s top office in September, made the pledge at a public rally in Jaffna, days ahead of Sri Lanka’s November 14 parliamentary polls. His promise evoked instant cheer and applause from the sizeable crowd gathered at an open ground adjoining St. Anthony’s Church in the coastal suburb of Passaiyoor.
-
-Over the last few years, Tamils living across the island’s war-affected north and east have been agitating to reclaim their lands that state agencies, including the archaeology and forest departments, have forcibly taken over.
-
-...
-
-[Data](articles/2339a43a.json)
-
-[Extended Data](ext_articles/2339a43a.ext.json)
-
----
-
-### Piyumi and Viraja file case
-
-*2024-11-11 18:16:00* · [`adalk`](https://www.ada.lk/breaking_news/පියුමි-හා-විරාජ්-ආදායම්-බදු-නෙගෙවීම-ගැන-නඩුවක්/11-412979) · `si`
-
-Piyumi and Viraja case: Magistrate orders Commissioner of Inland Revenue to investigate. Attorney Dinesh Perera argues lack of evidence. Case adjourned for further inquiry.
-
-🟩
-
-Low to say that they have been unable to reveal the earlier assets of the earned assets, Colombo Additional Magistrate Bandara, Colombo Additional Magistrate BandaraMr. Reaching Order ordered the Commissioner of Inland Revenue today (11).
-
-The magistrate was sent by the Commissioner of Inland Revenue, accusing the accused by the Commissioner of Inland Revenue, accusing the accused by the Commissioner of Inland Revenue.The Magistrate also presented a report on the Inland Revenue Act No. 24 of 2017, submitting a report on the progress of the investigation.
-
-Attorney-at-Law Dinesh Perera appearing on behalf of the complaint with Article 122 (2) of the Criminal Informance Code, which is said to have been released in the Code of the Inland Revenue Code, who appeared with the Criminal Procedure of the Inland Revenue Code.According to search arrests, Thalawatugoda returned to his home in Talawatugoda, but he had left the residence.
-
-...
-
-[Data](articles/3a8c861a.json)
-
-[Extended Data](ext_articles/3a8c861a.ext.json)
-
----
-
-### Three police officers released on bail
-
-*2024-11-11 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203142) · `si`
-
-Three police officers arrested over funeral procession incident released on bail.
-
-🟩
-
-The OIC of the Giranegama Police Station, the OIC of the Giranegama Police have arrested three OIC of the police station.
-
-The police spokesman DIG Talduuwa said that these people were arrested as a video in the social media regarding the incident.
-
-Addressing a media briefing held today (11), he said that the arrest was made by the Anuradhapura Police.
-
-The court said the court was ordered to be released on bail of Rs.
-
-"On the 18th, the OIC of the Giranegama Police Station had come to play a group of people who have come to a funeral home in a nearby area.. Later, the OIC and several officials have gone there. These people are the group, as they have played the corner of the corpses.. Nearly 12 people have been. Since the traditional vehicle is not brought to bringing these people. The starding was informed to come to the police. After they arrived in police, they all left the carriage. Then they were drunken and engaged in the sport of the prison. "
-
-◼️
-
-[Data](articles/a256e42e.json)
-
-[Extended Data](ext_articles/a256e42e.ext.json)
-
----
-
-### Land deeds will begin
-
-*2024-11-11 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203141) · `si`
-
-Land deeds implementation begins in mountains. 214 families receive titles in Ratwatte Plantation. Distribution planned for Nuwara Eliya, Kandy, Matale, Badulla. Aims to improve lives of plantation workers.
-
-🟩
-
-Land deeds are implemented to the mountains.
-
-That is the New Village Control and Land Reforms Commission for Plantation Zones under the Ministry of Environment, Wildlife, Wildlife, Wildlife, Water Supply and Community Infrastructure.
-
-Land Rights to 214 mountain families have taken place at the Ratwatte Plantation Company belonging to the Ministry of Haruna.
-
-This basic deeds is part of the distribution plan in Nuwara Eliya, Kandy, Matale and Badulla distribution plan.
-
-The program is due to be distributed in 1049, the remaining land title deeds will be distributed in the next days and ensuring that all qualified persons in the plantation are receiving their legal rights.
-
-The Ministry says that the main objective is to create legal and economic resources to improve the overall quality of life of plantation workers and their families.
-
-...
-
-[Data](articles/00a3d71e.json)
-
-[Extended Data](ext_articles/00a3d71e.ext.json)
-
----
-
-### The price of big onions and potatoes up
-
-*2024-11-11 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-ලූණු-හා-අර්තාපල්-මිල-ඉහළට/11-412978) · `si`
-
-Vegetable prices surge: onions (Rs. 340-360/kg), potatoes (Rs. 200-360/kg), coconuts (rising). Farmer difficulties due to low returns. Local stock depletion affecting markets.
-
-🟩
-
-In some areas, the retail price of a kilogram and potatoes of a kilogram of potatoes have risen to Rs.. In addition, a kilogram of kilograms of a large ground onion imported from foreign countries has risen to Rs. 340 and Rs. 360.
-
-But the retail price of a kilo of potatoes imported from foreign countries is priced between Rs. 200 and Rs.
-
-In some areas, the retail price of a coconut prices rose to Rs.
-
-The number of vegetables including carrots, potatoes, potatoes, carrots, cabbage, radish, the farmer organizations said that the farmer organizations have been severely difficult.
-
-All Ceylon Integrated Specialized Economic Centers and Manning Trade Society Ltd.. Idessa was inquired from Mr. Master.
-
-The National Organizer said that the local big onion stocks have been reduced to the market.
-
-In addition, coconut consignment receipts have also been reduced and the consignment of coconut is in a large number of Rs. 150 and Rs 160.
-
-The cost of a kilogram of carrots is reduced to Rs.
-
-...
-
-[Data](articles/8ccf191d.json)
-
-[Extended Data](ext_articles/8ccf191d.ext.json)
-
----
-
-### Probe launched into Channel 4’s Easter attack allegations: CID summons Pilleyan for inquiry
-
-*2024-11-11 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103335/probe-launched-into-channel-4s-easter-attack-allegations-cid-summons-pilleyan-for-inquiry) · `en`
-
-Former Chief Minister of the Eastern Province Sivanesathurai Chandrakanthan alias Pilleyan has been summoned to the Criminal Investigations Department (CID) tomorrow (12), in order to record a statement related to the allegations in the documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
-
-Speaking at a press conference held today (11), Police Media Spokesman DIG Nihal Thalduwa said that the CID has launched a probe into the relevant incident as per a complaint lodged by an organization with the Ministry of Public Security against the statement made by Azad Maulana to Channel 4 on the 2019 Easter Sunday terror attacks.
-
-He said that accordingly, an investigation was launched by the CID into the controversial statements made by several individuals regarding the Easter attacks.
-
-...
-
-[Data](articles/e28ba1e7.json)
-
-[Extended Data](ext_articles/e28ba1e7.ext.json)
-
----
-
-### Tension in Badulla by Number 10
-
-*2024-11-11 17:53:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/10ஆம்-இலக்கத்தால்-பதுளையில்-பதற்றம்/76-346948) · `ta`
-
-Tensions rise as police halt Harin Fernando's campaign in Badulla. Dispute over Lionel Messi jerseys sparks controversy between candidate, supporters, and election officials.
-
-🟩
-
-Tensions were followed by police trying to prevent former minister Harinbernando's election campaign in Badulla.
-
-Harinbernando and his supporters campaigned for international footballer Lionel Messi Jersey, like Jersey, a tenth -digit teacher.
-
-However, the police and the election officials called for a campaign to stop it.
-
-Following this, the argument broke out - Harinbernando and his supporters argued that the resort was not involved in the election campaign.
-
-However, the Election Commission officials and the police said that this was a symbol of the former minister's electoral competition and that a deception was a political campaign.
-
-◼️
-
-[Data](articles/6bc1c584.json)
-
-[Extended Data](ext_articles/6bc1c584.ext.json)
-
----
-
-### Elections Commission can get voter cards into the e -service of the Elections Commission - Elections Commission
-
-*2024-11-11 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198454) · `ta`
-
-Elections Commission allows non-card holders to access e-service. Valid ID required for voting. No need for official voter card. Visit eservices.elections.gov.lk for registration and card download. OTP required for mobile verification.
-
-🟩
-
-The Elections Commission has announced that those who do not have the official voter card can get voter cards to enter the Elections Commission's official e-service website.
-
-The presence of the official voter card to vote for voters is not mandatory. 2024 Voter who has a valid identity card named in the 2024 Chariot Idabe can go to the polling station they have notes and confirm their personality.
-
-The official voter card postage posting ended on the 07th of this month as the official referendum for the general election is scheduled for tomorrow.
-
-Those who do not have official voter cards can get their voter cards by going to the Divisional Post Office they have registered in the Idapam by 2024.11.14.
-
-Accordingly, the election of https://eservices.elections.gov.lk should enter the e-service website and enter the e-service search for the citizens in its area.
-
-...
-
-[Data](articles/d1c7e6df.json)
-
-[Extended Data](ext_articles/d1c7e6df.ext.json)
-
----
-
-### Sri Lanka banks, SMEs meet at Presidents office to discuss parate law, loans
-
-*2024-11-11 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-smes-meet-at-presidents-office-to-discuss-parate-law-loans-186934/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s banks, regulators and small and medium enterprises met at the Presidential Secretariat to discuss parate execution (foreclosure) and loan repayment difficulties faced by SMEs, a statement said.
-
-The law on parate execution or deciding on auctioning collateral of defaulted loans by banks has been suspended till December 15.
-
-The meeting discussed financial difficulties encountered by SMEs due to loan obligations, president’s media division said. “The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.”
-
-The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs, G N R D
-
-Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks Association (Guarantee) Limited.
-
-Attendees examined ways for the banking sector to provide additional support to SMEs and boost productivity in the economy.
-
-...
-
-[Data](articles/17072968.json)
-
-[Extended Data](ext_articles/17072968.ext.json)
 
 ---

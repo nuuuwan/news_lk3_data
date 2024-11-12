@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 08:47:14**
+As of **2024-11-12 09:00:10**
 
 ## Newspaper Stats
 
-*Scraped **54,338** Articles*
+*Scraped **54,339** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
 bbccomsinhala | 554
-colombotelegraphcom | 554
+colombotelegraphcom | 555
 islandlk | 3,254
 economynextcom | 3,290
 dailyftlk | 3,725
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,334 (100.0%) of 54,338 articles have been extended.
+54,335 (100.0%) of 54,339 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -2104,19 +2104,27 @@ The General Election is scheduled to be held on November 14.
 
 ---
 
-### பிரபாகரனின் நோக்கத்தை புதிய அரசியலமைப்பால் நிறைவேற்ற இடமளிக்க முடியாது - சரத் வீரசேகர
+### Prabhakaran's purpose cannot be accomplished by the new Constitution - Sarath Weerasekera
 
 *2024-11-11 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198446) · `ta`
 
-விடுதலை செய்யும் தமிழ் அரசியல் கைதிகளின் பெயரை ஜனாதிபதி குறிப்பிட்டால்  அவர்கள் செய்த பயங்கரவாத செயற்பாட்டை நான் குறிப்பிடுவேன். பிரபாகரனின் நோக்கத்தை புதிய அரசியலமைப்பால் நிறைவேற்ற இடமளிக்க முடியாது. நாட்டின் ஒற்றையாட்சியை கருத்திற் கொண்டு மக்கள் பொதுத்தேர்தலில் வாக்களிக்க வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாவட்ட வேட்பாளர் சரத் வீரசேகர தெரிவித்தார்.
+Sarath Weerasekera opposes new constitution, citing Prabhakaran's goals. Emphasizes unity over federalism. Warns against releasing Tamil political prisoners due to alleged terrorist ties. Urges voters to prioritize national security in upcoming elections.
 
-ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது கொள்கை பிரகடனத்தில் புதிய அரசியலமைப்பு உருவாக்கத்துக்காக 2015 முதல் 2019 வரை ஆட்சியில் இருந்த நல்லாட்சி அரசாங்கம் தயாரித்த சட்ட வரைவினை அடிப்படையாகக் கொண்டு புதிய அரசியலமைப்பை தயாரிப்பதாக குறிப்பிட்டுள்ளார்.
+🟩
 
-புதிய அரசியலமைப்பு உருவாக்கத்துக்காக நியமிக்கப்பட்ட குழுவில் பதவி வகித்த லால் விஜயநாயக்க ஜனாதிபதித் தேர்தலின் போது தேசிய மக்கள் சக்தியின் தேர்தல் பிரச்சார மேடைகளில் முன்னிலையில் இருந்தார். ஒற்றையாட்சி அரசியலமைப்பினை இரத்துச் செய்து சமஷ்டியாட்சி முறைமையிலான அரசியலமைப்பை உருவாக்கும் பரிந்துரைகள் முன்வைக்கப்பட்டுள்ளன.
+If the president mentions the name of the Tamil political prisoners who are liberated, I will refer to the terrorist activities they have done. Prabhakaran's purpose cannot be accomplished by the new constitution. Sri Lanka PA's Colombo district candidate Sarath Weerasekera said that the people should vote in the general election in view of the country's unity.
+
+President Anura Kumara Dissanayake has stated that in his policy declaration, the new constitution is being prepared for the creation of a new constitution from 2015 to 2019, based on the law prepared by the government.
+
+Lal Vijayanayake, who was appointed to the new constitution, was present at the presence of the National People's Power During the presidential election.. Suggestions have been made to abolish the unilateral constitution and create a federal system.
+
+Buddhist Charter is preserved because Sri Lanka is a single country. All ethnic people live freely and peacefully.
 
 ...
 
 [Data](articles/9e0f38e5.json)
+
+[Extended Data](ext_articles/9e0f38e5.ext.json)
 
 ---
 

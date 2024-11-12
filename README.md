@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 22:15:03**
+As of **2024-11-12 21:25:30**
 
 ## Newspaper Stats
 
-*Scraped **54,476** Articles*
+*Scraped **54,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,98 +13,36 @@ dbsjeyarajcom | 423
 colombotelegraphcom | 556
 bbccomsinhala | 556
 islandlk | 3,254
-economynextcom | 3,301
+economynextcom | 3,298
 dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,096
 adaderanalk | 6,498
 tamilmirrorlk | 7,620
 virakesarilk | 8,843
-adaderanasinhalalk | 9,505
+adaderanasinhalalk | 9,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,476 (100.0%) of 54,476 articles have been extended.
+54,469 (100.0%) of 54,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### Notice to election commissioners
-
-*2024-11-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203191) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-General elections: 10th Parliament, 8,888 candidates, 71 lakh voters, 13,421 polling centers. EC warns voters about ballot cards. 64,000 police deployed. Local & foreign observers present.
-
-🟩
-
-The General Elections in the country will be held for the 10th-year Parliament of Parliament.
-
-8,888 candidates will compete in this year, 71 lakhs of number of voters who have qualified to vote.
-
-The masses will be voted in 13,421 polling centers island wide.
-
-The Elections Commission will inform the voters that if they have not received a ballot card, the identity of the identity can be taken to the voters.
-
-• Temporary ID issued for disabled citizens
-
-* Temporary ID card issued to other people
-
-There are 64,000 police officers who have been deployed for the security duties of the general election.
-
-Local and foreign observers are also present at the Passover of the 2024 General Election.
-
-◼️
-
-[Data](articles/6caa3963.json)
-
-[Extended Data](ext_articles/6caa3963.ext.json)
-
----
-
-### Sri Lanka sees foreign inflows into govt securities for 8th straight week
-
-*2024-11-12 21:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-inflows-into-govt-securities-for-8th-straight-week-187070/) · `en`
-
-ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the eighth straight week ended on November 7, the Central Bank data showed.
-
-Analysts said investors see some quick profits in the island nations treasury bonds due to possible appreciation in the rupee and fall in market interest rates.
-
-Sri Lanka witnessed 1,896 million rupees ($6.4 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 7, extending the total inflows into treasury bonds and bills to 15.5 billion rupees (($52.4 mln) in the eight straight weeks, the official data showed.
-
-The value of government securities held by foreign investors was at 54,813 million rupees by November 7.
-
-...
-
-[Data](articles/0f4a92ae.json)
-
-[Extended Data](ext_articles/0f4a92ae.ext.json)
-
----
-
-### Official reserves in the country are US $ 6.5 billion
+### මෙරට නිල සංචිත වත්කම් ප්‍රමාණය ඩොලර් බිලියන 6.5ක්
 
 *2024-11-12 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203189) · `si`
 
-Sri Lanka's official reserves reached $6.5 billion in October 2023, according to Fitch Ratings. This growth is attributed to the impact of the International Monetary Fund program.
-
-🟩
-
 ෆිච් රේටින්ග්ස් සමාගම ඉදිරිපත් කළ වාර්තාවකට අනුව මෙම වසරේ ඔක්තෝබර් මාසය වනවිට මෙරට නිල සංචිත ප්‍රමාණය අමෙරිකානු ඩොලර් බිලියන 6.5ක් ලෙස සටහන්වී තිබේ.
 
-The growth has occurred on the impact of the International Monetary Fund program.
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන හරහා ඇතිවූ බලපෑම මත මෙම වර්ධනය සිදුවී ඇති බව ෆිච් රේටින්ග්ස් ආයතනය සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/b6f6d6d7.json)
-
-[Extended Data](ext_articles/b6f6d6d7.ext.json)
 
 ---
 
@@ -136,21 +74,13 @@ This has been announced through a special gazette notification by President Anur
 
 *2024-11-12 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198536) · `ta`
 
-Sri Lanka Foreign Employment Bureau warns legal action against companies collecting money under false E8 visa claims. No valid agreement exists for E8 visa for Korean businesses.
+ஈ 8விசா பத்திரத்தின் கீழ் தொழில் வழங்குவதாக தெரிவித்து பணம் அறவிட்டுள்ள வெளிநாட்டு தொழில் முகவர் நிறுவனங்கள் தொடர்பில்  பாதிக்கப்பட்டவர்கள் முறையிட்டால் குறித்த நிறுவனங்களுக்கு எதிராக சட்ட நடவடிக்கை எடுப்போம். ஈ8 விசா மூலம் வெளிநாடுகளுக்கு தொழிலுக்கு செல்ல எந்த நாட்டுடனும் அரசாங்கம் ஒப்பந்தம் செய்ததில்லை என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைவர் கோஷல விக்ரமசிங்க தெரிவித்தார்.
 
-🟩
-
-We will take legal action against companies if the victims appeal to the foreign industry agencies that have been charged with the E8 visa deed.. Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe said the government had not signed any country to go to work abroad with the E8 visa.
-
-A press conference was held on Tuesday (12) at the Sri Lanka Foreign Employment Bureau, to clarify that some people who were looking for a V8 visa and working to Korea were protesting in front of the Foreign Employment Bureau on Monday (11). He said this while participating.
-
-The contract signed by the E8 visa for Korea is not legal, and the Sri Lanka Foreign Employment Bureau is not involved.. However, a few parties in Korea have stirred up their business in Korea, accusing them of the job and protested.
+ஈ8 விசா பெற்றுக்கொண்டு கொரியாவுக்கு தொழிலுக்கு செல்ல எதிர்பார்த்திருக்கும் சிலர் திங்கட்கிழமை (11) வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு முன்னால் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தமை தொடர்பில் தெளிவுபடுத்தும் செய்தியாளர் சந்திப்பு செவ்வாய்க்கிழமை (12) இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
 
 ...
 
 [Data](articles/3bf136c2.json)
-
-[Extended Data](ext_articles/3bf136c2.ext.json)
 
 ---
 
@@ -554,28 +484,6 @@ Investigators have revealed that the inspired persons were taken to places like 
 
 ---
 
-### Sri Lanka rupee closes stronger at 292.45/55 to dollar, bonds down
-
-*2024-11-12 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-45-55-to-dollar-bonds-down-187062/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.45/55 to the US dollar on Tuesday from 292.55/75 to the US dollar on Monday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed stable at 10.40/55 percent.
-
-A bond maturing on 15.12.2027 closed at 11.10/25 percent, down from 11.20/35 percent.
-
-A bond maturing on 15.03.2028 closed at 11.30/40 percent, down from 11.50/60 percent.
-
-A bond maturing on 15.09.2029 closed at 11.65/80 percent. (Colombo/Nov12/2024)
-
-◼️
-
-[Data](articles/312262c7.json)
-
-[Extended Data](ext_articles/312262c7.ext.json)
-
----
-
 ### Inadequate buses service until Monday: Chairman of the Sri Lanka Transport Board
 
 *2024-11-12 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198528) · `ta`
@@ -626,25 +534,15 @@ US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussion
 
 ---
 
-### There was no work on Monday
+### පුලිදෙ 14දා වැඩ නෑ
 
 *2024-11-12 17:17:59* · [`adalk`](https://www.ada.lk/breaking_news/පුලිදෙ-14දා-වැඩ-නෑ/11-413000) · `si`
 
-Here's a summary of 200 characters:
-
-
-
-No work on Monday. Department informed officials won't be held responsible for registration delays due to previous orders affecting services.
-
-🟩
-
-The Department is informed that the officials of the Department of Registration of Persons will not be held as well as the order of the other day service as well as the order of the Department.
+නොවැම්බර් 14 දා පැවැත්වෙන මහ මැතිවරණයේ රාජකාරී කටයුතු සඳහා පුද්ගලයන් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ නිලධාරීන්ද සේවයට යොදවන බැවින් එදින එම දෙපාර්තමේන්තුවේ එක්දින සේවා කටයුතු මෙන්ම සාමාන්‍ය ලෙස හැඳුනුම්පත් ලබාදීමේ කටයුතු සිදු නොවන බව දෙපාර්තමේන්තුව දන්වා සිටියි.
 
 ◼️
 
 [Data](articles/85e13fd0.json)
-
-[Extended Data](ext_articles/85e13fd0.ext.json)
 
 ---
 
@@ -675,30 +573,6 @@ The suspect has not been able to interfere in the condition of the coma in the c
 [Data](articles/ab6cb8a2.json)
 
 [Extended Data](ext_articles/ab6cb8a2.ext.json)
-
----
-
-### Sri Lanka stocks close up, pushed by financials
-
-*2024-11-12 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-pushed-by-financials-187056/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 0.88 percent, or 113.67 points, at 12,988; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.73 points, at 3,887.
-
-The ASPI crossed the 13,000 mark just before market close, before settling. “This was a historical milestone,” Softlogic Stockbrokers said.
-
-“There was lots of interest in non-banking financial institutions, diversified financials, because the impending lifting of the vehicle import ban will give more traction to these.”
-
-Top contributors to the ASPI were John Keells Holdings (up at 21.40), Richard Pieris and Co (up at 24.10), C T Holdings (up at 300.50), Bukit Darah (498.00), and DFCC Bank (up at 83.10).
-
-“Most of the corporate earnings that are our so far have been on the positive side, JKH, Tokyo (up at 56.90), Dialog Axiata (down at 10.80), so this is a market confidence booster.”
-
-...
-
-[Data](articles/8472a889.json)
-
-[Extended Data](ext_articles/8472a889.ext.json)
 
 ---
 
@@ -2561,5 +2435,99 @@ According to the complaint, the investigation was commenced in the investigation
 [Data](articles/6f6cdf5f.json)
 
 [Extended Data](ext_articles/6f6cdf5f.ext.json)
+
+---
+
+### IMF mission in Sri Lanka next week to begin review, budget in Feb
+
+*2024-11-12 11:08:00* · [`economynextcom`](https://economynext.com/imf-mission-in-sri-lanka-next-week-to-begin-review-budget-in-feb-186992/) · `en`
+
+ECONOMYNEXT – An International Monetary Fund team will visit Sri Lanka next week, the agency said, while President Anura Dissanayake said he expected a budget to be presented and passed in parliament by February.
+
+“An IMF team led by Peter Breuer, senior mission chief for Sri Lanka, is expected to visit Colombo next week to conduct the third review for Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility,” a spokesperson said.
+
+President Anura Dissanayake said at his last campaign rally that the mission would arrive soon after the election to conduct the third review of the program.
+
+“We will finish the review by end January/early February,” he said. “Then we can achieve considerable stability in the economy.”
+
+For an IMF program review to pass, a staff level agreement has to be crafted with fiscal and monetary targets for the next year. For that a budget in line with program parameters is required.
+
+...
+
+[Data](articles/86a5957c.json)
+
+[Extended Data](ext_articles/86a5957c.ext.json)
+
+---
+
+### Loki Ferguson will lose the ODI series with Sri Lanka
+
+*2024-11-12 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203166) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Locky Ferguson, New Zealand's fast bowler, faces defeat in the upcoming ODI series against Sri Lanka. He previously achieved a hat-trick in 2020 but was forced to leave the field due to a foot injury during the second match. The series begins tomorrow (13).
+
+🟩
+
+New Zealand's fast bowler locky Ferguni has lost Sri Lanka-New Zealand ODI series.
+
+The Sri Lanka-New Zealand ODI series will commence tomorrow (13).
+
+Ferguson obtained a hattric in the second 2020 match against Sri Lanka.
+
+He had left the flock due to a foot disorder while sending his second ball over.
+
+◼️
+
+[Data](articles/f22e7aa4.json)
+
+[Extended Data](ext_articles/f22e7aa4.ext.json)
+
+---
+
+### Sri Lanka rupee trading at 292.65/75 to dollar, bond yields down
+
+*2024-11-12 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-at-292-65-75-to-dollar-bond-yields-down-186855/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading weaker at 292.65/75 to the US dollar Tuesday from 292.55/75 to the US dollar on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 01.05.2027 was quoted at 11.12/18 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.58/60 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.95/12.00 percent.
+
+An auction of 85,000 million rupees of treasury Bonds was ongoing.
+
+In equities, Colombo’s All Share Price Index was trading up 0.45 percent, or 58.58 points higher at 12,933.90, while the S&P SL20 of more liquid stocks was up 0.72 percent or 27.89 points higher at 3,882.
+
+◼️
+
+[Data](articles/fb445205.json)
+
+[Extended Data](ext_articles/fb445205.ext.json)
+
+---
+
+### Confused at Sumanthiran's meeting
+
+*2024-11-12 10:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-கூட்டத்தில்-குழப்பம்/175-346983) · `ta`
+
+Sri Lanka Tamil National Alliance TNA campaign meeting at Vaddukoddai-Chiripuram turns chaotic. Former MP M.A. Sumanthiran addresses crowd, but attendees try questioning him. Police intervene as situation escalates.
+
+🟩
+
+The Sri Lanka Tamil National Alliance (TNA) campaign held on Monday (12) at Vaddukoddai - Chiripuram area is confused.
+
+Former Parliamentarian MP MA. Some people in the crowd tried to ask questions after Sumanthiran addressed. There was confusion in the meeting. When there was a clash, the police arrived at the scene.
+
+◼️
+
+[Data](articles/3c157a70.json)
+
+[Extended Data](ext_articles/3c157a70.ext.json)
 
 ---

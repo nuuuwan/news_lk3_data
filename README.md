@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 00:14:51**
+As of **2024-11-13 01:10:18**
 
 ## Newspaper Stats
 
-*Scraped **54,493** Articles*
+*Scraped **54,495** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,098
 adaderanalk | 6,504
-tamilmirrorlk | 7,623
+tamilmirrorlk | 7,625
 virakesarilk | 8,847
 adaderanasinhalalk | 9,505
 
@@ -26,23 +26,87 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,492 (100.0%) of 54,493 articles have been extended.
+54,495 (100.0%) of 54,495 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
 
-### இலங்கை மீது பொருளாதாரத் தடை விதிக்க வேண்டும் ; சீமான்
+### Special arrangements for specialists
+
+*2024-11-13 00:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோருக்கு-சிறப்பு-ஏற்பாடுகள்/175-347037) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Election Commission report: Special arrangements for voters with needs. Assistants allowed in polling stations. Transportation for distant stations. Touch frames for visual guidance. Sign translations for announcements and results.
+
+🟩
+
+The Election Commission has issued a report on the facilities provided to voters with special needed in the general election.
+
+Arrangements have been made to take an assistant to identify their ballot into the polling station.
+
+Transporting facilities can be obtained through their election district officials to visit the polling station.
+
+If the distance of the referendum is more than 100 meters, the polling station can go to the three -wheeler.
+
+The facility will be arranged to use a touch frame that guides the ballot for those who cannot identify the vote.
+
+Displaying the announcements on the premises of the referendum with the image of the signature.
+
+Objects such as the release of the Election Commission's official election results are advised to release with sign translation. (A)
+
+◼️
+
+[Data](articles/9551f2b3.json)
+
+[Extended Data](ext_articles/9551f2b3.ext.json)
+
+---
+
+### Services will not be available on the 14th
+
+*2024-11-13 00:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14ஆம்-திகதி-சேவைகள்-கிடைக்காது/175-347036) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Public services closed Nov 14: Department of Registration cancels all services due to election work on parliamentary election day. One-day service also unavailable.
+
+🟩
+
+The Department of Registration has announced that all public services, including one day service, will not be available on November 14, the day of parliamentary elections.
+
+The report said that the department employees were assigned to the election work that day, so that the services would not be operated.. Remble
+
+◼️
+
+[Data](articles/8ea21114.json)
+
+[Extended Data](ext_articles/8ea21114.ext.json)
+
+---
+
+### Economic ban on Sri Lanka;Baron
 
 *2024-11-13 00:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீது-பொருளாதாரத்-தடை-விதிக்க-வேண்டும்-சீமான்/175-347035) · `ta`
 
-இலங்கை மீது இந்திய அரசு பொருளாதார தடை விதிக்க வேண்டும் என நாம் தமிழர் கட்சி தலைவர் சீமான் வலியுறுத்தியுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+India urges economic sanctions on Sri Lanka. Sri Lankan president threatens action against illegal Indian fishing.
 
-சட்டவிரோதமாக எல்லை தாண்டி வரும் இந்திய கடற்றொழிலாளர்கள் மீது கடும் நடவடிக்கை எடுக்கப்படும் என இலங்கை ஜனாதிபதி அநுரகுமார திசாநாயக்க கூறியதை சுட்டிக்காட்டியே அவர் இந்த வலியுறுத்தலை மத்திய அரசாங்கத்திடம் விடுத்துள்ளார்.
+🟩
+
+The Indian media has reported that the Indian government has urged the Indian government to impose an economic ban on Sri Lanka.
+
+Sri Lankan President Anura Kumara Dissanayake has said that he has made this insistence to the central government that he has said that strict action will be taken against Indian fishermen who are illegally crossing the border.
 
 ◼️
 
 [Data](articles/6c883e04.json)
+
+[Extended Data](ext_articles/6c883e04.ext.json)
 
 ---
 
@@ -2459,65 +2523,5 @@ Meanwhile, the Cricket Selection Committee has taken steps to replace him to the
 [Data](articles/b58b9b7b.json)
 
 [Extended Data](ext_articles/b58b9b7b.ext.json)
-
----
-
-### Violence of Catier gang in Haiti continues - firing on two American planes
-
-*2024-11-12 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198500) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Haiti gang violence escalates: US planes damaged, flights suspended. Gangs control parts of Port-au-Prince, disrupting life. Political instability, economic hardship fuel crisis. International community struggles to intervene effectively. Long-term solutions needed for stability and development.
-
-🟩
-
-CNN said two US jets were damaged by the gunfire on Haiti's airplane.
-
-The incident has revealed that the country has suspended the aircraft transport amid violence of the rising quadruple groups in Haiti.
-
-According to reports, a firing on the Spirit Airlines flight, which was landing in the Bott of the capital, Bott of the capital, was reported to be a minority.
-
-The plane then landed in the Santiago of the Dominic Republic without landing there, where the plane was checked there, officials said.
-
-Meanwhile, Jedbulu Airlines said that a flight that was returning from Haiti had been found by the shootings.
-
-Jedbulu 935 New York John Eve landed safely at Kennedy Airport but officials said that the firing had been hit by the aircraft.
-
-The incidents have been revealed on the day of Haiti's new prime minister, Alix Dedier Bills, a businessman.
-
-The US has evacuated some of its employees following the firing on US embassy vehicles.
-
-...
-
-[Data](articles/103221cc.json)
-
-[Extended Data](ext_articles/103221cc.ext.json)
-
----
-
-### Massive fire in Rajagiriya
-
-*2024-11-12 12:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜகிரியவில்-பாரிய-தீ/175-346991) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rajagiriya: Massive fire engulfs temporary garment factory. Four fire trucks from Kotte Fire Department respond.
-
-🟩
-
-The fire broke out in a temporary garment factory located on the Rajagiriya, Welikada road.
-
-Four fire trucks of the Kotte Fire Department were sent to the scene to bring the fire under control.
-
-◼️
-
-[Data](articles/a129a6dc.json)
-
-[Extended Data](ext_articles/a129a6dc.ext.json)
 
 ---

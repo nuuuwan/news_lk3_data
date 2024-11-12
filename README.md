@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 09:41:23**
+As of **2024-11-12 10:00:15**
 
 ## Newspaper Stats
 
-*Scraped **54,343** Articles*
+*Scraped **54,349** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,159 @@ islandlk | 3,254
 economynextcom | 3,290
 dailyftlk | 3,725
 dailymirrorlk | 4,733
-adalk | 5,080
+adalk | 5,081
 adaderanalk | 6,483
 tamilmirrorlk | 7,592
-virakesarilk | 8,812
-adaderanasinhalalk | 9,479
+virakesarilk | 8,814
+adaderanasinhalalk | 9,482
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,342 (100.0%) of 54,343 articles have been extended.
+54,343 (100.0%) of 54,349 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### ரணிலின் அமைச்சரவையிடம் விரைவில் விசாரணை
+### සරසවි සිසුවියක් දුම්රියෙන් ඇද වැටෙයි
+
+*2024-11-12 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203164) · `si`
+
+දුම්රියේ ගමන් ගත් තරුණියක් අද (12) උදෑසන හපුතලේ දුම්රිය ස්ථානයේ දී ඇද වැටීමෙන් බරපතළ තුවාල ලබා ඇතැයි හපුතලේ පොලීසිය පවසයි.
+
+කොළඹ කොටුව සිට බදුල්ල බලා ගමන් කරමින් තිබු අංක 1045 දරණ රාත්‍රි තැපැල් දුම්රියේ එම තරුණිය සිට ඇත.
+
+එලෙස අනතුරට ලක්ව ඇත්තේ, අරලිය උයන මාවඩවිල, රත්ගම ලිපිනයේ පදිංචි 21 හැවිරිදි විශ්වවිද්‍යාල සිසුවියක බව පොලීසිය පැවසීය.
+
+ඇල්ල ප්‍රදේශයේ සංචාරයක් සඳහා ඇය ඇතුළු 18 දෙනෙකු පැමිණෙමින් සිටියදී උදෑසන 6.30ට පමණ හපුතලේ දුම්රිය ස්ථානයේ දුම්රිය නැවැත්වු අවස්ථාවේ දී ඉන් බැස ඇති අතර, නැවත දුම්රිය ගමන් ගන්නා අවස්ථාවේ දී එයට ගොඩවීමට යාමේදී තරුණිය ඉන් ඇද වැටී තිබේ.
+
+ඇද වැටීමත් සමග ඇගේ වම් පාදයේ විලුබ මතින් දුම්රිය ගමන් කර ඇති අතර, ඒ හේතුවෙන් බරපතළ තුවාල සිදුව ඇතැයි පොලීසිය පැවසීය.
+
+අනතුරට ලක්වූ තරුණියව කඩිනමින් ප්‍රතිකාර සඳහා දියතලාව මුලික රෝහලට ඇතුළත් කර ඇති අතර, හපුතලේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/4e661337.json)
+
+---
+
+### පොලීසිය සමග ගැටුමකින් ඉන්දියාවේ කැරලිකරුවන් 10ක් මරුට
+
+*2024-11-12 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203163) · `si`
+
+පොලීසිය සමග හටගත් ගැටුමකින් ඉන්දියාවේ මනිපූර් ප්‍රදේශයේ දී කුකී කැරලිකරුවන් 10 දෙනෙකු මියගොස් තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ මෙම ගැටුමෙන් ඉන්දියාවේ මධ්‍යම පොලිස් බළකායේ සෙබලෙකු තුවාල ලබා ඇති බවය.
+
+මනිපූර්හි, ජිරිබාම් දිස්ත්‍රික්කයේ පොලිස් ස්ථානයකට කැරලිකරුවන් පිරිසක් ප්‍රහාරයක් එල්ල කිරීමට පැමිණි අවස්ථාවේ මෙම ගැටුම හටගෙන තිබේ.
+
+මෙම ගැටුමෙන් අනතුරුව පොලීසිය සිදුකළ සෝදිසි මෙහෙයුමක දී ඒ.කේ 47 වර්ගයේ ගිනිඅවි කිහිපයක් සහ ආර්.පී.ජී අවියක් ද සොයාගත් බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/517a6824.json)
+
+---
+
+### ඇෆ්ගනිස්ථානය ඉදිරියේ බංගලියන් දණනමයි
+
+*2024-11-12 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203162) · `si`
+
+සංචාරක බංග්ලාදේශ කණ්ඩායමට එරෙහි අවසන් සහ තුන්වන එක්දින තරගය කඩුලු 5කින් ජය ගැනීමට ඇෆ්ගනිස්ථාන කණ්ඩායම සමත්ව තිබේ.
+
+තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායම නියමිත පන්දුවාර 50 තුළ කඩුලු 8ක් දැවී ලකුණු 244ක් ලබාගත්තේය.
+
+පිළිතුරු ඉනිම ක්‍රීඩාකළ ඇෆ්ගනිස්ථාන කණ්ඩායම පන්දුවාර 48යි පන්දු 2ක් තුළ කඩුලු 5ක් පමණක් දැවී ජයග්‍රාහී ඉලක්කය පසු කළේය.
+
+ඒ අනුව දෙරට පැවති එක්දින තරගාවලිය දෙකට එකක් ලෙස ජයගැනීමට ඇෆ්ගනිස්ථාන කණ්ඩායම සමත් වුණි.
+
+◼️
+
+[Data](articles/4b197f71.json)
+
+---
+
+### தரமற்ற மருந்து விநியோகம் ; 18 முன்னாள் அமைச்சர்களிடம் வாக்கு மூலம் பதிவு செய்ய நீதிமன்றம் உத்தரவு
+
+*2024-11-12 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198476) · `ta`
+
+அரசாங்க வைத்தியசாலைகளுக்கு தரமற்ற மருந்துகளை விநியோகித்தமை தொடர்பில் தாக்கல் செய்யப்பட்ட வழக்கு  தொடர்பில் 18 முன்னாள் அமைச்சர்களிடம் வாக்கு மூலம் பதிவு செய்யுமாறு மாளிகாகந்த நீதவான் லோச்சனி அபேவிக்ரம உத்தரவிட்டுள்ளார்.
+
+கெஹெலிய ரம்புக்வெல்ல சமர்ப்பித்த அமைச்சரவை பத்திரத்திற்கு அமைச்சரவையில் அங்கம் வகித்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, முன்னாள் பிரதமர் தினேஷ் குணவர்தன, முன்னாள் அமைச்சர்களான திரான் அலஸ், மஹிந்த அமரவீர, விஜயதாச ராஜபக்ஷ, ஹரின் பெர்னாண்டோ, ரொஷான் ரணசிங்க, நிமல் சிறிபால மற்றும் அமைச்சரவையை பிரதிநிதித்துவப்படுத்திய 18 பேரிடம் வாக்கு மூலங்களைப் பெறுவது அவசியம் என நீதிமன்றத்தில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், சட்டமா அதிபர் சார்பில் ஆஜரான பிரதி சொலிசிட்டர்  ஜெனரல் மிஸ் லக்மினி கிரிஹாகம, இந்த விடயம்  தொடர்பில் மாளிகாகந்த நீதிமன்றில் உத்தரவு பிறப்பிக்குமாறு கோரியதையடுத்து, அதற்கு அனுமதியளித்து நீதவான் இந்த உத்தரவைப் பிறப்பித்துள்ளார்.
+
+◼️
+
+[Data](articles/8ec590f5.json)
+
+---
+
+### பொதுத் தேர்தலை கண்காணிக்க 20க்கும் மேற்பட்ட வெளிநாட்டு தேர்தல் கண்காணிப்பாளர்கள்
+
+*2024-11-12 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198477) · `ta`
+
+எதிர்வரும் 14 ஆம் திகதி நடைபெறவுள்ள பொதுத் தேர்தலை கண்காணிப்பதற்காக 20க்கும் மேற்பட்ட வெளிநாட்டு தேர்தல் கண்காணிப்பாளர்கள் பங்கேற்கவுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+அதில் தெற்காசிய நாடுகளின் தேர்தல் கண்காணிப்பாளர்களும் அடங்குவதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+
+தேசிய தேர்தல்கள் ஆணைக்குழுவின் அழைப்பின் பேரில் மேலதிகமாக 10 வெளிநாட்டு தேர்தல் கண்காணிப்பாளர்கள் இலங்கை வரவுள்ளனர், இதில் ரஷ்யா மற்றும் தாய்லாந்து போன்ற நாடுகளின் கண்காணிப்பாளர்கள் உள்ளனர்.
+
+இதேவேளை, The Asian Network for Free Elections (ANFREL) சர்வதேச கண்காணிப்பாளர்கள் குழு நேற்று தேர்தல்கள் ஆணைக்குழுவின் அதிகாரிகளை சந்தித்து தமது தேர்தல் கண்காணிப்பு கடமைகளை ஆரம்பித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b8fa3ca3.json)
+
+---
+
+### Ranil's cabinet inquiry soon
 
 *2024-11-12 08:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-அமைச்சரவையிடம்-விரைவில்-விசாரணை/175-346975) · `ta`
 
-நாட்டில் மருந்துப் பொருட்களுக்கு தட்டுப்பாடு நிலவுவதாக பொய் கூறி முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சமர்ப்பித்த அமைச்சரவைப் பத்திரத்திற்கு அன்றைய அமைச்சரவையை பிரதிநிதித்துவப்படுத்திய ரணில் விக்கிரமசிங்க மற்றும்  தினேஷ் குணவர்தன உள்ளிட்ட 18 முன்னாள் அமைச்சர்களிடம் குற்றப் புலனாய்வு திணைக்களம்  விசாரணைகளை மேற்கொள்ளவுள்ளதாக சட்டமா அதிபர் நேற்று (11) பிற்பகல் நீதிமன்றத்திற்கு அறிவித்தார்.
+Ranil's cabinet faces inquiry over alleged drug shortage. CID probes 18 ex-ministers, including Wickremesinghe, over Cabinet approval for non-existent scarcity.
 
-2022 ஆம் ஆண்டு செப்டெம்பர் 26 ஆம் திகதி முன்னாள் அமைச்சர் கெஹலிய ரம்புக்வெல்ல 182 மருந்துகள் தட்டுப்பாடு என்றும் 17 மருந்துகள் இல்லை என்றும், மருத்துவ உபகரணங்களை கொள்வனவு செய்வதற்கும் பொய்யாக அமைச்சரவை பத்திரத்தை அமைச்சரவையில் சமர்ப்பித்ததாக பிரதி சொலிசிட்டர் ஜெனரல் நீதிமன்றத்திற்கு அறிவித்தார்.
+🟩
 
-முன்னாள் சுகாதார அமைச்சர் கெஹலிய ரம்புக்வெல்ல சமர்ப்பித்த அமைச்சரவைப் பத்திரத்தில் மருந்துத் தட்டுப்பாடு இருப்பதாக குறிப்பிடப்பட்டிருந்த போதிலும், அந்த மருந்துகள் என்னவென்று குறிப்பிடப்படவில்லை. ஆனால் அப்போது மருந்து தட்டுப்பாடு இல்லை என்பது குற்றப் புலனாய்வுப் பிரிவினரின் விசாரணையில் தெரியவந்துள்ளது.
+The Attorney General announced yesterday that the Criminal Investigation Department (CID) will be investigated by 18 former ministers, including Ranil Wickremesinghe and Dinesh Gunawardena, who represented the Cabinet of Cabinet, submitted by former Health Minister Keheliya Rambukwella.
+
+On September 26, 2022, former Minister Keheliya Rambukwella informed the court that 182 drugs were scarce and 17 drugs were submitted to the Cabinet.
+
+Although the Cabinet paper submitted by former Health Minister Keheliya Rambukwella was mentioned, there was no drug shortage, but what the drugs were not mentioned.. But the investigation by the Criminal Investigation Department revealed that there was no drug shortage at the time.
+
+The Cabinet's approval for the Cabinet paper submitted by the suspect, Keheliya Rambukwella, for the purchase of drugs that are not scarce in the country.
 
 ...
 
 [Data](articles/25221004.json)
+
+[Extended Data](ext_articles/25221004.ext.json)
+
+---
+
+### Prabhakaran's purpose cannot be accomplished by the new Constitution - Sarath Weerasekera
+
+*2024-11-12 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198446) · `ta`
+
+Sarath Weerasekera opposes new constitution, citing Prabhakaran's goals. Emphasizes unity over federalism. Warns against releasing Tamil political prisoners due to alleged terrorist ties. Urges voters to prioritize national security in upcoming elections.
+
+🟩
+
+If the president mentions the name of the Tamil political prisoners who are liberated, I will refer to the terrorist activities they have done. Prabhakaran's purpose cannot be accomplished by the new constitution. Sri Lanka PA's Colombo district candidate Sarath Weerasekera said that the people should vote in the general election in view of the country's unity.
+
+President Anura Kumara Dissanayake has stated that in his policy declaration, the new constitution is being prepared for the creation of a new constitution from 2015 to 2019, based on the law prepared by the government.
+
+Lal Vijayanayake, who was appointed to the new constitution, was present at the presence of the National People's Power During the presidential election.. Suggestions have been made to abolish the unilateral constitution and create a federal system.
+
+Buddhist Charter is preserved because Sri Lanka is a single country. All ethnic people live freely and peacefully.
+
+...
+
+[Data](articles/9e0f38e5.json)
+
+[Extended Data](ext_articles/9e0f38e5.ext.json)
 
 ---
 
@@ -794,7 +918,7 @@ Accordingly, the appointment has been issued with effect from yesterday (11). (A
 
 *2024-11-11 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-reveals-imf-review-budget-timelines-186951/) · `en`
 
-ECONOMYNEXT – Sri Lanka President President Anura Kumara Dissanayake said the government expects to complete the third review for the International Monetary Fund (IMF) loan by early February 2025 and present a full year budget in the same month.
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake said the government expects to complete the third review for the International Monetary Fund (IMF) loan by early February 2025 and present a full year budget in the same month.
 
 The third IMF review was to be completed by October, but the parliament election has delayed the process after the September 21 presidential poll and upcoming Thursday parliamentary election.
 
@@ -1950,6 +2074,26 @@ The Ministry says that the main objective is to create legal and economic resour
 
 ---
 
+### ලොකු ලූණු හා අර්තාපල් මිල ඉහළට
+
+*2024-11-11 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-ලූණු-හා-අර්තාපල්-මිල-ඉහළට/11-412978) · `si`
+
+ඇතැම් ප්‍රදේශවල ලොකු ලූනු කිලෝවක හා අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් හාරසියයත් රුපියල් හාරසිය විස්සත් දක්වා ඉහළ ගොස් තිබේ. මීට අමතරව විදේශ රටවලින් ගෙන්වූ හොඳ තත්ත්වයේ ලොකු ලූනු කිලෝවක සිල්ලර මිල රුපියල් 340ත් රුපියල් 360ත් දක්වා ඉහළ ගොස් තිබේ.
+
+එහෙත් විදේශ රටවලින් ගෙන්වූ අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් 200ත් රුපියල් 220ත් අතර මිලක පවතී.
+
+සමහර ප්‍රදේශවල පොල් ගෙඩියක සිල්ලර මිල රුපියල් 180ක් දක්වා ඉහළ ගොස් තිබෙන අතර, ලොකු පොල් ගෙඩියක තොග මිල පවා රුපියල් 150ත් රුපියල් 160ත් අතර මිලක් ගෙන තිබේ.
+
+දේශීය ලොකු ලූනු, අර්තාපල්, පොල් මිල ඉහළ ගියත් කැරට්, ලීස්, ගෝවා, රාබු ඇතුළු එළවළු වර්ග සැලකිය යුතු ප්‍රමාණයක් කිලෝවක තොග මිල රුපියල් 100ත් රුපියල් 150ත් දක්වා පහත වැටී තිබෙන අතර, මේ නිසා ගොවිජනතාව දැඩි දුෂ්කරතාවන්ට පත්ව සිටින බව ගොවි සංවිධාන සඳහන් කරයි.
+
+මේ පිළිබඳව ‘අද’ සීමාසහිත සමස්ත ලංකා ඒකාබද්ධ විශේෂිත ආර්ථික මධ්‍යස්ථාන හා මැනිං වෙළෙඳ සමිතියේ ජාතික සංවිධායක එච්.එම්. උපසේන මහතාගෙන් විමසීමක් සිදුකළේය.
+
+...
+
+[Data](articles/8ccf191d.json)
+
+---
+
 ### Probe launched into Channel 4’s Easter attack allegations: CID summons Pilleyan for inquiry
 
 *2024-11-11 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103335/probe-launched-into-channel-4s-easter-attack-allegations-cid-summons-pilleyan-for-inquiry) · `en`
@@ -2171,161 +2315,5 @@ When the father of the deceased child drove his jeep near the house, the child w
 [Data](articles/f33c3158.json)
 
 [Extended Data](ext_articles/f33c3158.ext.json)
-
----
-
-### Four police officers study
-
-*2024-11-11 17:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203140) · `si`
-
-Four Chunnakam police officers investigate assault case: A road accident led to a heated argument during attempted arrest, prompting an investigation involving four officers.
-
-🟩
-
-Four members of the Chunnakam police officers have been assigned to a person who was attacked after a road accident.
-
-Police Media Spokesperson DIG Talduuwa said that a police search, police sergeant and two police constables said.
-
-"The vehicle was fled by a car accident. He had made the accusation that he had to attack him on a heated argument when he was trying to arrest him. Accordingly, four police officers were under investigation. "
-
-◼️
-
-[Data](articles/830887ed.json)
-
-[Extended Data](ext_articles/830887ed.ext.json)
-
----
-
-### Parliamentary Election-related complaints exceed 2,800
-
-*2024-11-11 17:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/103334/parliamentary-election-related-complaints-exceed-2800-) · `en`
-
-The number of complaints received by the Election Commission in relation to the upcoming 2024 Parliamentary Poll has further increased.
-
-The Election Commission says that 231 more complaints have been received within yesterday (10).
-
-Accordingly, a total of 2,811 election complaints have been reported in connection with the parliamentary election from September 26 to November 10, the Election Commission said.
-
-Meanwhile, the Election Commission also says that 2,162 of the total number of complaints received have been resolved thus far.
-
-The General Election is scheduled to be held on November 14.
-
-◼️
-
-[Data](articles/8d705332.json)
-
-[Extended Data](ext_articles/8d705332.ext.json)
-
----
-
-### Prabhakaran's purpose cannot be accomplished by the new Constitution - Sarath Weerasekera
-
-*2024-11-11 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198446) · `ta`
-
-Sarath Weerasekera opposes new constitution, citing Prabhakaran's goals. Emphasizes unity over federalism. Warns against releasing Tamil political prisoners due to alleged terrorist ties. Urges voters to prioritize national security in upcoming elections.
-
-🟩
-
-If the president mentions the name of the Tamil political prisoners who are liberated, I will refer to the terrorist activities they have done. Prabhakaran's purpose cannot be accomplished by the new constitution. Sri Lanka PA's Colombo district candidate Sarath Weerasekera said that the people should vote in the general election in view of the country's unity.
-
-President Anura Kumara Dissanayake has stated that in his policy declaration, the new constitution is being prepared for the creation of a new constitution from 2015 to 2019, based on the law prepared by the government.
-
-Lal Vijayanayake, who was appointed to the new constitution, was present at the presence of the National People's Power During the presidential election.. Suggestions have been made to abolish the unilateral constitution and create a federal system.
-
-Buddhist Charter is preserved because Sri Lanka is a single country. All ethnic people live freely and peacefully.
-
-...
-
-[Data](articles/9e0f38e5.json)
-
-[Extended Data](ext_articles/9e0f38e5.ext.json)
-
----
-
-### Share market work limits at 3 hours on election day
-
-*2024-11-11 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනයේදී-කොටස්-වෙළඳපොළ-කටයුතු-පැය-3ට-සීමා-වෙයි/11-412975) · `si`
-
-Colombo Stock Exchange operates 3 hours on election day (Nov 14). Market opens 9:30 AM to 12:30 PM. All indices show growth: Colombo Stock Price Index rises 74.86 units, S&P 20 index increases 23.16 units. Turnover reaches Rs. 2.4 billion.
-
-🟩
-
-The Colombo Stock Exchange is limited to November 14th due to the general election of the 2024 general election.. The Colombo Stock Exchange will be transached from 9.30 am to 12.30 pm.
-
-Meanwhile, all stock price index in the Colombo Stock Exchange and the S & P20 index have shown growth.
-
-All stock price index increased by 74.86 units, and the S & PL 20 index rose by 23.16 units. Turnover on the day was Rs. 2.4 billion.
-
-◼️
-
-[Data](articles/672324a5.json)
-
-[Extended Data](ext_articles/672324a5.ext.json)
-
----
-
-### Central Environmental Authority is a new Chairman
-
-*2024-11-11 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203139) · `si`
-
-New Chairman: Prof. Thilak Hewawasam assumes duties at Central Environmental Authority. He's a geography professor from University of Peradeniya and former director of environment sustainability.
-
-🟩
-
-Prof. Thilak Hewawasam has assumed duties as the new Chairman of the Central Environmental Authority.
-
-He is a professor of the Geography of the Geographical Studies of the University of Peradeniya.
-
-He was also the Director of the Environment Sustainability of the University.
-
-◼️
-
-[Data](articles/3855ea59.json)
-
-[Extended Data](ext_articles/3855ea59.ext.json)
-
----
-
-### Sri Lankan workers in UAE trafficked to Myanmar cybercrime camps, authorities warn
-
-*2024-11-11 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103333/sri-lankan-workers-in-uae-trafficked-to-myanmar-cybercrime-camps-authorities-warn-) · `en`
-
-The National Anti-Human Trafficking Task Force (NAHTTF) has issued a warning regarding a spike in cases of Sri Lankans being referred to cybercrime camps in Myanmar.
-
-According to the NAHTTF, recent reports have revealed that Sri Lankan citizens, particularly those living in the United Arab Emirates (UAE), are being targeted by human traffickers who falsely promise high-paying jobs, particularly in the IT sector.
-
-As per NAHTTF’s latest findings, traffickers lure skilled IT professionals under the pretense of lucrative foreign job opportunities. Victims are taken to places like Dubai for supposed interviews, only to be illegally transported and forced into cybercrime operations in Myanmar.
-
-Investigations into these cybercrime camps have uncovered severe human rights abuses, with detainees facing both mental and brutal physical torture, including electrocution, the NAHTTF said in a statement.
-
-...
-
-[Data](articles/823bb54c.json)
-
-[Extended Data](ext_articles/823bb54c.ext.json)
-
----
-
-### After the presidential election, the biggest upheaval in Jaffna
-
-*2024-11-11 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198439) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Jaffna sees major upheaval post-presidential election. National People's Power rallies draw thousands. Promises made on education, economy, healthcare, and infrastructure development. Challenges include drug issues and political prisoner releases. New political culture emphasized over old-party politics.
-
-🟩
-
-The biggest upheaval after the presidential election is seen in Jaffna. It was said in the north that two others would win the last presidential election. The media also said that. The news that we win does not go properly in the north. After the election, our office began to overflow. Thousands of people gather today, President Anura Kumara Dissanayake said.
-
-The main election campaign of the National People's Power was held in front of the St. Anthony's Church of the National People's Power yesterday under the leadership of the party leader and President Anura Kumara Dissanayake.
-
-...
-
-[Data](articles/865b6ffc.json)
-
-[Extended Data](ext_articles/865b6ffc.ext.json)
 
 ---

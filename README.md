@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 05:49:45**
+As of **2024-11-12 06:10:04**
 
 ## Newspaper Stats
 
-*Scraped **54,320** Articles*
+*Scraped **54,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ adalk | 5,077
 adaderanalk | 6,479
 tamilmirrorlk | 7,587
 virakesarilk | 8,811
-adaderanasinhalalk | 9,472
+adaderanasinhalalk | 9,473
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,311 (100.0%) of 54,320 articles have been extended.
+54,311 (100.0%) of 54,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### හෙට සිට කාලගුණයේ වෙනසක්
+
+*2024-11-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203154) · `si`
+
+නිරිතදිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව අද (12) දිනයේදී අඩු පීඩන කලාපයක් නිර්මාණය වීමේ හැකියාවක් ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, එහි බලපෑමෙන් දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති වීමට හිතකර වායුගෝලීය තත්ත්වයක් නොවැම්බර් 13 වන දින සිට ඉදිරි දින කිහිපයේදී බලාපොරොත්තු විය හැකි බවය.
+
+එමෙන්ම උතුරු පළාතේ වැසි වාර කිහිපයක් ඇතිවිය හැකි අතර සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකියි.
+
+නැගෙනහිර, මධ්‍යම, ඌව, සබරගමුව, සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50ට වැඩි තරමක තද වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේනදය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/829dbf99.json)
+
+---
 
 ### Towards building a digital tourism fortress
 
@@ -2271,41 +2293,5 @@ It is noteworthy that the long -standing area of ​​the Wellaveli area of ​
 [Data](articles/61649dc3.json)
 
 [Extended Data](ext_articles/61649dc3.ext.json)
-
----
-
-### The robber raised his home for the gem business
-
-*2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
-
-Robber flees with gems, cash, gold after stealing car. Police recover vehicle, suspect shoe prints. Wife, father undergo forensic tests. Security footage compromised.
-
-🟩
-
-Five unidentified robbers have fled a car worth Rs.
-
-The millionaire businessman last night, his wife and his father's arms were treated with the roof.
-
-The police have been able to find the gem businessman's car in the Talawela Police area in the Talawela Police area.
-
-The thieves have also taken money, gold and three billion worth of gemstone.
-
-Police say that the robberies have come to the back of the wall and cover a pistol with a pistol in the head, police said.
-
-The complaint lodged with the wife and his father had taken the robbery and the car had taken the robbery.
-
-Later, the car was placed on the police station, the police dog was inspected by the police dog.
-
-A pair of footwear has been a suspected pair of shoes who have been robbed.
-
-The police said that the dog was staying at a very distance from the businessman's house and was observed that the suspects were staying at the site.
-
-The official dog was staying on a three-kilometer route, alongside another by road, police said.
-
-...
-
-[Data](articles/7e8b8d54.json)
-
-[Extended Data](ext_articles/7e8b8d54.ext.json)
 
 ---

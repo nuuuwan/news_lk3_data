@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 12:15:21**
+As of **2024-11-12 11:42:06**
 
 ## Newspaper Stats
 
-*Scraped **54,381** Articles*
+*Scraped **54,374** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,235 +18,97 @@ dailyftlk | 3,726
 dailymirrorlk | 4,733
 adalk | 5,083
 adaderanalk | 6,483
-tamilmirrorlk | 7,602
-virakesarilk | 8,822
+tamilmirrorlk | 7,601
+virakesarilk | 8,816
 adaderanasinhalalk | 9,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,369 (100.0%) of 54,381 articles have been extended.
+54,363 (100.0%) of 54,374 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2024-11-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198494) · `ta`
-
-இன்று செவ்வாய்க்கிழமை (12) மத்திய வங்கி வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 288.1975 ரூபாவாகவும், விற்பனை விலை 297.2248 ரூபாவாகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/0d6643bc.json)
-
----
-
-### காதல் முறிவால் உயிரை மாய்த்த யுவதி
-
-*2024-11-12 11:49:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/காதல்-முறிவால்-உயிரை-மாய்த்த-யுவதி/76-346989) · `ta`
-
-மொனராகலை நக்கல்லை யொவுன் கிராமத்தைச் சேர்ந்த முன்பள்ளி ஆசிரியை ஒருவர்  தனது வீட்டில் வைத்து தன் உயிரை மாய்த்துக்கொண்டு உயிரிழந்த சம்பவம் செவ்வாய்க்கிழமை (12) இடம்பெற்றுள்ளது.
-
-மொனராகலை நக்கல்லை  யொவுன் கிராமம், நக்கலவத்தை பாரதி முன்பள்ளியின் ஆசிரியராக பணிபுரிந்த 29 வயதுடைய ராமச்சந்திரன் இந்திராதேவி என்ற யுவதியே இவ்வாறு உயிரிழந்துள்ளார்.
-
-அவருடைய காதல் முறிவு காரணமாகவே உயிரை மாய்த்துக்கொண்டுள்ளதாக பொலிஸாரின் முதற்கட்ட விசாரணையில் தெரியவந்துள்ளது.
-
-◼️
-
-[Data](articles/f212b597.json)
-
----
-
-### இலங்கை என்பியில் சங்கத்தின் தலைவராக என்பு முறிவு சத்திர சிகிச்சை நிபுணர் தயாசிவம் கோபிசங்கர்
-
-*2024-11-12 11:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198488) · `ta`
-
-யாழ்ப்பாணம் போதனா வைத்தியசாலை என்பு முறிவு சத்திர சிகிச்சை நிபுணர் தயாசிவம் கோபிசங்கர் இலங்கை என்பியில் சங்கத்தின் 2024 - 2025ம் ஆண்டுக்கான தலைவராக பதவியேற்றார்.
-
-கோபி சங்கர் யாழ்ப்பாணம் பரியோவான் கல்லூரியின் பழைய மாணவனும், யாழ்ப்பாணப் பல்கலைக்கழக மருத்துவ பீடத்தின் பட்டதாரியும் ஆவார்.
-
-யாழ் போதானா வைத்தியசாலையிலிருந்து இவ்வாறான ஒரு சங்கத்திற்கு தலைவராக தெரிவு செய்யப்படும் முதலாவது வைத்திய நிபுணர் இவராவார்.
-
-அத்துடன் அண்மையில் ஸ்தாபிக்கப்பட்ட சர்வதேச சத்திரசிகிச்சையாளர் சங்கத்தின் இலங்கைக்கான பிரிவின் முதலாவது தலைவராகவும் கோபிசங்கர் செயற்படுகிறார்.
-
-◼️
-
-[Data](articles/aa7e2ad7.json)
-
----
-
-### Counting of votes in general
+### මහමැතිවරණයේ ඡන්ද ගණන් කිරීමේ කටයුතු සිදුවන්නේ මෙහෙමයි
 
 *2024-11-12 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203169) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+මහමැතිවරණයට අදාළව ඡන්ද ගණන් කිරීමේ කටයුතු එළැඹෙන 14 වනදා පස්වරු 4.15ට ආරම්භ කිරීමට කටයුතු කරන බව මැතිවරණ කොමිසමේ සභාපති ආර්.එම්.ඒ.එල්. රත්නායක මහතා පවසයි.
 
+ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ අද (12) පැවති මහමැතිවරණය සම්බන්ධ දැනුවත් කිරීමේ විශේෂ ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් ඔහු මේ බව පැවසීය.
 
+එමෙන්ම ඡන්ද ප්‍රදේශවල ප්‍රතිඵලය හා දිස්ත්‍රික් ප්‍රතිඵලය මැතිවරණ මහලේකම් කාර්යාලයෙන් නැවත පරීක්ෂා කර අනුමත කළ පසු මාධය වෙත නිකුත් කරන බවත් එම නිසා නිල නොවන ඡන්ද ප්‍රතිඵල නිකුත් කිරීමෙන් වළකින ලෙසත් ඔහු ඉල්ලා සිටියේය.
 
-Election Commission Chairman explains vote counting process: 3-phase system; first count ballots, then tally party/independent group votes, finally calculate MP seats based on total votes and preferential votes. Results will be released after official verification.
-
-🟩
-
-Elections Commission Chairman, the Chairman of the Election Commission (Elections). Says Mr. Ratnayake.
-
-He was speaking at a special press conference on the General Elections held today (12).
-
-He also requested the media to the media after the results and the district results were inspected at the Elections Secretariat and approved.
-
-"Postal number of postal votes has been made to start at 4.15. Also, the counting of ordinary voting has been taken to commence over 7.15 pm after receiving the ballot boxes on the 14th day.. The provisions have been made to give the results for the media after the counting is over.. We call on everyone to avoid releasing unofficial results. "
-
-The Chairman of the Elections commented on the counting of the election.
-
-He said that the counting of votes is under 3 phases.
-
-Accordingly, the candidates who have come forward with recognized political parties and independent groups have been selected for the seatment.
+"තැපැල් ඡන්ද ගණන් කිරීමේ කටයුතු 4.15ට ආරම්භ කිරීමට විධි විධාන යොදා තිබෙනවා. ඒ වගේම සාමාන්‍ය ඡන්ද ගණන් කිරීම 14 වැනි දින ඒ ඒ ඡන්ද මධ්‍යස්ථානවලින් ඡන්ද පෙට්ටි ලැබුණු පසුව පස්වරු 7.15ට පමණ නිලධාරීන් සම්පූර්ණ වූ පසුව ආරම්භ කිරීමට කටයුතු යොදල තියෙනවා. ගණන් කිරීමේ කටයුතු අවසන් වූ පසුව එම ප්‍රතිඵල මාධ්‍යට ලබා දීමට අවශ්‍ය විධිවිධාන යොදලා තියෙනවා. එතෙක් නිල නොවන ප්‍රතිඵල නිකුත් කිරීමෙන් වැළකී සිටින ලෙස සියලුදෙනාගෙන් ඉල්ලා සිටිනවා."
 
 ...
 
 [Data](articles/01ad4086.json)
 
-[Extended Data](ext_articles/01ad4086.ext.json)
-
 ---
 
-### Fire in a business location of Rajagiriya
+### රාජගිරියේ ව්‍යාපාරික ස්ථානයක ගින්නක්
 
 *2024-11-12 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203168) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+රාජගිරිය මැදවැලිකඩ මාර්ගයේ නිවසක පවත්වාගෙන යන තාවකාලික ඇඟලුම් කර්මාන්ත ශාලාවක ගින්නක් හට ගෙන තිබේ.
 
-
-
-"Fire breaks out at temporary garment factory in Rajagiriya. Four vehicles deployed from Kotte fire station to control blaze."
-
-🟩
-
-A fire has erupted at a temporary garment factory maintained at the Mediwikadu road in Rajagiriya.
-
-Four vehicles have been deployed in the Kotte failure unit for the control of the fire.
+ගින්න පාලනය සඳහා මේ වනවිට කෝට්ටේ ගිනිනිවන ඒකකයේ රථ 4ක් යොදවා ඇතැයි වාර්තා වේ.
 
 ◼️
 
 [Data](articles/193c2a62.json)
 
-[Extended Data](ext_articles/193c2a62.ext.json)
-
 ---
 
-### Two Chinese citizens arrested in Kandy
+### கண்டியில் சீன பிரஜைகள் இருவர் கைது
 
 *2024-11-12 11:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-சீன-பிரஜைகள்-இருவர்-கைது/175-346988) · `ta`
 
-Here's a summary of 200 characters:
+இலங்கையில் சுற்றுலா விசாவில் தங்கியிருந்து வணிக நடவடிக்கைகளில் ஈடுபட்ட சீனப் பிரஜைகள் இருவர் கண்டி சுற்றுலாப் பொலிஸாரால் கைது செய்யப்பட்டுள்ளனர்.
 
-
-
-Chinese nationals (47 & 48) arrested in Kandy, Sri Lanka. Detained at Economic Center after police received confidential tip.
-
-🟩
-
-Two Chinese citizens have been arrested by the Kandy Tourism Police in Sri Lanka.
-
-Two women aged 47 and 48 have been arrested at the Economic Center in Kandy following confidential information received by the police.
+பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து 47 மற்றும் 48 வயதுடைய குறித்த இரு பெண்களும் கண்டியில் உள்ள பொருளாதார நிலையத்தில் வைத்து கைது செய்யப்பட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/54efb9d3.json)
 
-[Extended Data](ext_articles/54efb9d3.ext.json)
-
 ---
 
-### வடக்கு கடலில் வைத்து 12 இந்திய மீனவர்கள் கைது !
-
-*2024-11-12 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198493) · `ta`
-
-யாழ்ப்பாணம் - பருத்தித்துறையை அண்மித்த கடற்பகுதியில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 12 இந்திய மீனவர்கள் கைதுசெய்யப்பட்டுள்ளதாக இலங்கை கடற்படைப் பேச்சாளர் தெரிவித்தார்.
-
-இன்று செவ்வாய்க்கிழமை (12) அதிகாலை பருத்தித்துறையை அண்மித்த கடற்பரப்பில் அத்துமீறி கடற்றொழிலில் ஈடுபட்ட போது குறித்த 12 இந்திய மீனவர்களும் கைதுசெய்யப்பட்டதுடன் அவர்கள் பயணித்த படகும் கடற்படையினரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/4b7bbd95.json)
-
----
-
-### தேர்தலை நடத்த கடுமையான முறையில் சட்டம் அமுல்படுத்தப்படும் - தேர்தல்கள் ஆணைக்குழு
-
-*2024-11-12 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198492) · `ta`
-
-அமைதியான முறையில் தேர்தலை நடத்துவதற்கு கடுமையான முறையில் சட்டம் அமுல்படுத்தப்படும் எனவும் வாக்களித்ததன் பின்னர் பொது இடங்களில் ஒன்று கூடுவதை தவிர்த்துக் கொள்ளுமாறும் தேர்தல்கள் ஆணைக்குழு பொதுமக்களிடம் வலியுறுத்தியுள்ளது.
-
-இதேவேளை, வாக்காளர் அட்டை கிடைக்கப்பெறாத வாக்காளர்கள் தமக்குரிய வாக்களிப்பு மத்திய நிலையத்துக்கு சென்று தமது ஆளடையாளத்தை உறுதிப்படுத்தி வாக்களிக்க முடியும் என்றும் தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது.
-
-தேர்தல் பெறுபெறுகள் வெளியானவுடன் பொது இடங்களில் ஒன்று கூடி, பட்டாசு கொளுத்துவது சட்டத்தின் பிரகாரம் குற்றச்செயலாகும் என்றும் தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
-
-இதேவேளை, தேர்தல் கடமைகளுக்காக நியமிக்கப்பட்டுள்ள உத்தியோகஸ்த்தர்கள் வாக்களிப்பு தினத்தன்று கடமைகளில் ஈடுபட வேண்டும் என்றும் கடமையில் ஈடுபடாமல் இருப்பது தண்டனைக்குரிய குற்றமாகும் என்றும் தேர்தல்கள் ஆணைக்குழு வலியுறுத்தியுள்ளது.
-
-இதேவேளை, தனியார் துறையில் சேவையில் ஈடுபடும் வாக்காளர்கள் வாக்களிக்க செல்வதற்கு தொழில் வழங்குநர்கள் கட்டாயம் விடுமுறை வழங்க வேண்டும் என்றும் தேர்தல்கள் ஆணைக்குழு குறிப்பிட்டுள்ளது.
-
-...
-
-[Data](articles/2e8bd578.json)
-
----
-
-### Female harassment;Web to the man who ran through the back door
+### பெண் வன்புணர்வு  ;  பின்  கதவு வழியாக ஓடியவருக்கு வலை
 
 *2024-11-12 11:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்-வன்புணர்வு-பின்-கதவு-வழியாக-ஓடியவருக்கு-வலை/76-346986) · `ta`
 
-Here's a summary in 200 characters:
+மொனராகலை பொலிஸ் பிரிவிற்குட்பட்ட வெந்திக்கும்புர, அந்தாயம்பொலை   பிரதேசத்தில்  வீடொன்றில் தூங்கிக்கொண்டிருந்த இரண்டு பிள்ளைகளின் தாயை வன்புணர்வதற்கு முயன்ற ஒருவரை தேடி, வலைவிரித்துள்ளதாக மொனராகலை பொலிஸார் தெரிவித்தனர்.
 
+குறித்த பெண்ணின் கணவன், கொழும்பு பிரதேசத்தில் வேலைச்செய்துவருகின்றார். தன்னுடைய பிள்ளைகள் இருவருடன், அயலில் இடம்பெற்ற பூப்புனித நீராட்டு விழாவுக்குச் சென்றிருந்த அப்பெண், அன்றிரவு 10 மணியளவில் வீட்டுக்குத் திரும்பியுள்ளார்.
 
+கட்டிலில் படுக்கச்சென்ற அப்பெண், கட்டிலுக்கு அருகில் உள்ள நாட்காலியில் யாரோ ஒருவர் அமர்ந்திருப்பதை அவதானித்தார்.
 
-Woman attacked by man during flower ceremony. She fought off attacker. Police investigating.
+அச்சமடைந்த அந்த பெண், கூச்சலிடமுயன்றபோது, பாய்ந்துபிடித்த அந்தநபர், அப்பெண்ணின் வாயை பொத்தி, கழுத்தை நெரித்து, சத்தம்போட்டால், கொலை​ச்செய்துவிடுவேன் என அச்சுறுத்தி, பாலியல் வன்புணர்ந்துள்ளார்.
 
-🟩
+ஏதோவிபரீதம் இடம்பெறுவதை அறிந்த அப்பெண்ணின் மகன், பக்கத்து அறையில் இருந்து தும்புத்தடியை எடுத்துவந்து தாக்குவதற்கு முயன்றபோது, பின்கதவால் அந்த நபர் தப்பியோடிவிட்டார்.
 
-The Moneragala police said that the mother of two children who was sleeping in a house in Venundikumbura, Anthayambur, belonging to the Moneragala Police Division, was searching for a man who was trying to rape.
-
-The woman's husband is working in the Colombo area. The woman, who had gone to the neighboring flower water ceremony with two of her children, returned home at around 10 pm.
-
-The woman, who was in bed, noticed that someone was sitting in the night near the bed.
-
-Fearing the woman, when she shouted, the man who was shouting, threatened to kill the girl's mouth, strangled her neck, and threatened to kill her.
-
-The woman's son, who knew that somebody was taking place, tried to take the thumb from the neighboring room and attack the man.
-
-The Moneragala police are conducting further investigations, saying that the mysterious person has been identified as the arrival of the flowering water ceremony.
-
-◼️
+...
 
 [Data](articles/8bdfae83.json)
 
-[Extended Data](ext_articles/8bdfae83.ext.json)
-
 ---
 
-### Forests suffer
+### වනිඳු ආබාධයකට ලක්වෙයි
 
 *2024-11-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203167) · `si`
 
-Here's a summary of 200 characters:
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර හෙට (13) ආරම්භවන එක්දින ක්‍රිකට් තරගාවලිය සඳහා වනිඳු හසරංග සහභාගී නොවන බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
 
-
-
-"Forests face threats. Sri Lanka & New Zealand cricket teams play 2nd T20 match at Dambulla tomorrow."
-
-🟩
-
-Sri Lanka SLC announced that Sri Lanka and New Zealand will commence tomorrow (13) tomorrow.
-
-The two countries caused a second 20/20 international match at Dambulla.
+ඒ දෙරට අතර දඹුල්ලේදී පැවති දෙවැනි 20/20 ජාත්‍යන්තර තරගයේදී ඇතිවූ ආබාධයක් හේතුවෙනි.
 
 ◼️
 
 [Data](articles/33366482.json)
-
-[Extended Data](ext_articles/33366482.ext.json)
 
 ---
 
@@ -282,18 +144,6 @@ Following further investigations, the police have arrested four more suspects ag
 
 ---
 
-### வளிமண்டலவியல் திணைக்களத்தின் இணையத்தளம் மீது சைபர் தாக்குதல் !
-
-*2024-11-12 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198491) · `ta`
-
-இந்நிலையில், வளிமண்டலவியல் திணைக்களத்தின் இணையதளத்தை மீளமைக்க அதிகாரிகள் தற்போது செயற்பட்டு வருவதாக இலங்கை கணினி அவசர பதிலளிப்பு பிரிவு தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/f280896b.json)
-
----
-
 ### IMF mission in Sri Lanka next week to begin review, budget in Feb
 
 *2024-11-12 11:08:00* · [`economynextcom`](https://economynext.com/imf-mission-in-sri-lanka-next-week-to-begin-review-budget-in-feb-186992/) · `en`
@@ -311,8 +161,6 @@ For an IMF program review to pass, a staff level agreement has to be crafted wit
 ...
 
 [Data](articles/86a5957c.json)
-
-[Extended Data](ext_articles/86a5957c.ext.json)
 
 ---
 
@@ -407,24 +255,6 @@ The warning on the beaches in the Gulf of Health and the southern and west of Sr
 [Data](articles/a41d0941.json)
 
 [Extended Data](ext_articles/a41d0941.ext.json)
-
----
-
-### கிளிநொச்சி மாவட்ட விவசாயிகளின் வங்கி  கணக்குகளில் பெரும் போகத்திற்கான கொடுப்பனவாக 127.191  மில்லியன் ரூபா நிதி  வைப்பு
-
-*2024-11-12 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198486) · `ta`
-
-கிளிநொச்சி மாவட்ட விவசாயிகளின் வங்கி  கணக்குகளில்பெரும் போகத்திற்கான முதற்கட்ட   கொடுப்பனவாக  127.191  மில்லியன் ரூபா நிதி  வைப்பிலிடப்பட்டுள்ளது.
-
-2024 /2025 பெரும் போக பயிர் செய்கை  மேற்கொண்டுள்ள  விவசாயிகளுக்கான உரமானிய த்திற்கான கொடுப்பனவுகள் வழங்கப்பட்டுவருகிறது.
-
-அந்த அடிப்படையில் கிளிநொச்சி மாவட்டத்தில் பெரும் போக நெற்செய்கை மேற்கொண்டுள்ள 9064 விவசாயிகளுக்கு முதற்கட்டமாக 127.191 மில்லியன் ரூபா வங்கி கணக்குகளில் வைப்பிலிடப்பட்டுள்ளது.
-
-பூனகரி இராமநாதபுரம்  புளியம்பக்கணை  பரந்தன் கண்டாவளை முழங்காவில்  பளை கிளிநொச்சி ஆகிய கமநல சேவை நிலையங்களின் கீழ் உள்ள குறித்த செய்கை மேற்கொண்ட விவசாயிகளுக்கு வழங்கி வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/a15a85d0.json)
 
 ---
 
@@ -2333,5 +2163,175 @@ Currently, debt recovery processes under the Parate law have been temporarily su
 [Data](articles/2391bf9b.json)
 
 [Extended Data](ext_articles/2391bf9b.ext.json)
+
+---
+
+### We need this country into a positive situation - Dilith
+
+*2024-11-11 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203148) · `si`
+
+Dilith Jayarawara addresses debt crisis, vows to support president. Aims to improve country's situation through political development and anti-corruption efforts. Promises strategic programs to overcome loan issues and increase productivity.
+
+🟩
+
+Heads of the Norrological Leader Dilith Jayarawara says he is ready to address the debt crisis in the country and to support the president.
+
+"We want to bring this country to a positive situation. That is why the ovenoms are coming forward. The political force of people we are developed. So we want to keep this nation to motivate this nation, to go up, and to get rid of the people, and we can't burn the people and the mind of these people, a wrath, hypocrisy.. This is not a politician politician.
+
+When we eliminate corruption, we need to develop this country. That is why this is a developed party, not the Nibbana Team of Social Media. The vote dear people went to the camp, who believed in the camp, and trusted our nationality, and he was angry. Come on this side now. Become part of the journey. But we continue to praise Anura Kumara's leg.
+
+...
+
+[Data](articles/bb0d226f.json)
+
+[Extended Data](ext_articles/bb0d226f.ext.json)
+
+---
+
+### "Tamil translation was given to the Sinhalese"
+
+*2024-11-11 20:22:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிங்களவர்களுக்கு-தமிழ்-மொழிபெயர்ப்பு-வழங்கப்பட்டது/175-346951) · `ta`
+
+Sinhalese politician accused of bringing buses to Tamil area for rally. Accused of providing Tamil translation to Sinhalese audience. Criticized for high transportation costs and targeting specific region.
+
+🟩
+
+Former Tamil National Alliance (TNA) parliamentarian MA Sumanthiran has accused President Anuragumara Dissanayake of brought thousands of buses to Jaffna last evening for participating in a political rally of the president.
+
+“For some strange reasons, President Anuragumara Dissanayake brought a few thousand buses to Jaffna yesterday evening and addressed them here. Instead of going to their districts.. If you do so, the cost of travel will be low.
+
+In addition, the Tamil translation of his speech was given to the Sinhala people and is a novel, ”he said in a post on his X site.
+
+◼️
+
+[Data](articles/9756288c.json)
+
+[Extended Data](ext_articles/9756288c.ext.json)
+
+---
+
+### Bio -Sunday attack - Pillayan invited to attend
+
+*2024-11-11 20:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198465) · `ta`
+
+Sivanesathurai Chandrakanthan Pillayan summoned over Sunday attack investigation. Police invite him for questioning about Channel 4 allegations.
+
+🟩
+
+Former Parliamentarian Sivanesathurai Chandrakanthan Pillayan Pillayan is investigating the life -threatening Sunday.
+
+The police spokesman said that the CIT has been invited to attend the CIT's hearing tomorrow to obtain a confession on the allegations made in Channel 4.
+
+Pillaiyan has been summoned to obtain a statement to the Ministry of Public Security on the issue of Channel 4 media issued by Azadmoulana regarding the lifeblood.
+
+Accordingly, he said that investigations have begun in the Tutabi report on Sunday.
+
+◼️
+
+[Data](articles/79ed1c7e.json)
+
+[Extended Data](ext_articles/79ed1c7e.ext.json)
+
+---
+
+### "Children in Sri Lanka never banned the animal. But parliament was banned
+
+*2024-11-11 19:59:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c3wq995ewp1o) · `si`
+
+Sri Lanka: Children not banned from animals, but parliament restricted. Leader calls for cleaning parliament, questioning effectiveness of current system.
+
+🟩
+
+"Children in Sri Lanka never banned the animal. But parliament was banned
+
+Leader of the National Power and the National Institute of Jana Sangha should vote on November 14 to change the political culture and build an exemplary parliament.
+
+He was speaking at the final propaganda meeting held on Piliyandala.
+
+"You have to clean Parliament. Why?Parliament is a parliament with a parliament with the criminals, the universal parliaments, miracles?The parliament was forbidden to children. I have never heard that children have been banned on the animal. "He said.
+
+Meanwhile can a country run a country with the LOOBED government, lboard Parliament, "Ranil Wickremesinghe questioned his final rally.
+
+The video contains views of the President, Ranil Wickremesinghe as well as Sajith Premadasa, Ranjan Ramanayake and Dilith Jayaweera.
+
+◼️
+
+[Data](articles/17851412.json)
+
+[Extended Data](ext_articles/17851412.ext.json)
+
+---
+
+### Sujeewa Senasinghe V8 handed over to CID
+
+*2024-11-11 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203147) · `si`
+
+Former State Minister Sujeewa Senasinghe's car handed to CID after court order. Vehicle linked to fatal 2011 crash. Probe ongoing.
+
+🟩
+
+The question of former State Minister Sujeewa Semasinghe has been handed over to the CID today (11).
+
+The Fort Magistrate's Court today ordered the Criminal Investigation Department to be taken into court.
+
+The Criminal Investigations Department stated that the former state minister is in possession of the car accident in a car accident.
+
+The Wall Minister Sujeewa Senasinghe was found on November 2, but the suspect's car was found on November 2.
+
+The Criminal Investigations Department and Officers of the Department of Motor Traffic were inspected of the Colpetty of Sujeewa Senasinghe, who had the luxury car park in the house.
+
+The Fort Magistrate Karuja Lakmali ordered the Government Analyst and called for a report to the Government Analyst.
+
+Sujeewa Senasinghe presented the questionable car in terms of that order.
+
+The Criminal Investigations Department Public Complaints Investigation Division (CPT) reported the progress of investigations into the Fort Magistrate's Court today.
+
+...
+
+[Data](articles/ec67df97.json)
+
+[Extended Data](ext_articles/ec67df97.ext.json)
+
+---
+
+### Rice is scarce in the country because of the high consumption of pear!
+
+*2024-11-11 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198464) · `ta`
+
+Sri Lanka faces rice scarcity due to increased beer demand and new pear manufacturing. Government must balance needs of citizens and industry.
+
+🟩
+
+The demand for crude rice, which is the main ingredient for beer production, has now increased.Tourists coming to Sri Lanka more drinks beer. Also a new pear manufacturing company has entered the market. Due to this, the demand for crude rice has also increased. Crude rice is obtained from Naturisi paddy available to the country. The small and medium -rice mill owners association said that there was a shortage of nationals in the market for food in the market.. The government has to decide whether the people need Risia Piyara.
+
+◼️
+
+[Data](articles/21c1cca0.json)
+
+[Extended Data](ext_articles/21c1cca0.ext.json)
+
+---
+
+### If a 'Elord' parliament was set up - Ranil
+
+*2024-11-11 19:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198463) · `ta`
+
+Ranil Wickremesinghe warns against setting up Elord Parliament, citing potential economic crisis due to inexperienced rulers. He emphasizes the need for economic development, tax relief, and managing government finances effectively.
+
+🟩
+
+If the Elord Parliament is set up in the elections, the country may have a huge crisis. It is currently proven that the rulers in the first compass of the president have no experience. Former President Ranil Wickremesinghe said that the candidates who are contesting in the ruling cylinder symbol should send more to Parliament.
+
+He was speaking at the final election campaign in Maradana on Monday (10) in support of the Colombo district candidates contesting the New Democratic Front.
+
+We stopped all the rows in the country. We have consulted with the Monetary Fund and managing all the loans. 2028 We need to start paying off the loan. There is a period of time until 2042. If the loan is not paid, you will have to go back to the row.
+
+The president has not yet reported the economic target. And so there is a massive state of affairs. Currently, the price of coconuts is higher than the coconut tree. Price of goods rise like a lotus tower. Egg prices go up. Can the government resolve this?
+
+...
+
+[Data](articles/f7767b75.json)
+
+[Extended Data](ext_articles/f7767b75.ext.json)
 
 ---

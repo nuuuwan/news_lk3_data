@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 22:58:58**
+As of **2024-11-12 21:25:30**
 
 ## Newspaper Stats
 
-*Scraped **54,485** Articles*
+*Scraped **54,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,176 +13,36 @@ dbsjeyarajcom | 423
 colombotelegraphcom | 556
 bbccomsinhala | 556
 islandlk | 3,254
-economynextcom | 3,301
+economynextcom | 3,298
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,097
-adaderanalk | 6,502
+adalk | 5,096
+adaderanalk | 6,498
 tamilmirrorlk | 7,620
-virakesarilk | 8,847
-adaderanasinhalalk | 9,505
+virakesarilk | 8,843
+adaderanasinhalalk | 9,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,483 (100.0%) of 54,485 articles have been extended.
+54,469 (100.0%) of 54,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### Notice to election commissioners
-
-*2024-11-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203191) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-General elections: 10th Parliament, 8,888 candidates, 71 lakh voters, 13,421 polling centers. EC warns voters about ballot cards. 64,000 police deployed. Local & foreign observers present.
-
-🟩
-
-The General Elections in the country will be held for the 10th-year Parliament of Parliament.
-
-8,888 candidates will compete in this year, 71 lakhs of number of voters who have qualified to vote.
-
-The masses will be voted in 13,421 polling centers island wide.
-
-The Elections Commission will inform the voters that if they have not received a ballot card, the identity of the identity can be taken to the voters.
-
-• Temporary ID issued for disabled citizens
-
-* Temporary ID card issued to other people
-
-There are 64,000 police officers who have been deployed for the security duties of the general election.
-
-Local and foreign observers are also present at the Passover of the 2024 General Election.
-
-◼️
-
-[Data](articles/6caa3963.json)
-
-[Extended Data](ext_articles/6caa3963.ext.json)
-
----
-
-### Elections Completion - Marudalingam Pradeepan
-
-*2024-11-12 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198546) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliamentary elections complete in Jaffna. 392,280 eligible voters. Special traffic arrangements & ferry services. 62 incidents reported. Voting from 7am-4pm on Thursday at Jaffna Central College.
-
-🟩
-
-Arrangements for parliamentary elections have been completed. District Elections Officer Marudalingam Pradeepan said.
-
-Yall. He said this during a media briefing held at the District Secretariat on Tuesday (12).
-
-Jaffna in the upcoming parliamentary election4 lakhs 92 thousand 280 people are eligible to vote in the district.
-
-Special traffic arrangements have been made for voters to vote. Special ferry services will be featured from the indicator area, especially to the island.
-
-A violent incident and 62 law violations have been reported in Jaffna. A series of measures have been taken in connection with it.
-
-Voting can vote from 7 am to 4 pm on Thursday. Voting activities will begin at night at Jaffna Central College.
-
-◼️
-
-[Data](articles/d45a9b78.json)
-
-[Extended Data](ext_articles/d45a9b78.ext.json)
-
----
-
-### 12 Indian fishermen arrested till 20th
-
-*2024-11-12 21:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198545) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-12 Indian fishermen arrested for crossing border. Point Pedro Court orders remand until 20th. Arrested in Point Pedro Sea, investigated at Mayiliti Naval Base. Case handed to Ministry of Affairs and Corruption Ministry.
-
-🟩
-
-Indian fishermen arrested on charges of crossing border. The Point Pedro Court has ordered the 12th to be remanded until the twentieth day.
-
-After being arrested in the Point Pedro Sea this morning and under investigation at the Mayiliti Naval Base, the Jaffna Aquatic Resources and Corruption Ministry has been handed over to the Ministry of Affairs and the Corruption Ministry.
-
-◼️
-
-[Data](articles/c12d2b4e.json)
-
-[Extended Data](ext_articles/c12d2b4e.ext.json)
-
----
-
-### No services will be provided to the public, including a one -day service - the Department of Registration of Persons
-
-*2024-11-12 21:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198544) · `ta`
-
-National Identity Card services suspended due to election duties on Thursday. Public advised to avoid visiting Department of Registration.
-
-🟩
-
-The Department of Registration has announced that the National Identity Card will not be provided with any services to the public on Thursday (14) as the department officials will be involved in the general election.
-
-Department officials will engage in election duties as a referendum for the general election is scheduled for Thursday (14).. Therefore, no services for the public, including the National Identity Card, will not be provided tomorrow.
-
-The public should avoid visiting the Department on Thursday (14) to obtain other services, including the National Identity Card.
-
-◼️
-
-[Data](articles/166fd830.json)
-
-[Extended Data](ext_articles/166fd830.ext.json)
-
----
-
-### Sri Lanka sees foreign inflows into govt securities for 8th straight week
-
-*2024-11-12 21:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-foreign-inflows-into-govt-securities-for-8th-straight-week-187070/) · `en`
-
-ECONOMYNEXT – Sri Lanka saw offshore inflows into its government securities for the eighth straight week ended on November 7, the Central Bank data showed.
-
-Analysts said investors see some quick profits in the island nations treasury bonds due to possible appreciation in the rupee and fall in market interest rates.
-
-Sri Lanka witnessed 1,896 million rupees ($6.4 million at 1 US dollar = 295 LKR) inflow into government securities in the week ended on November 7, extending the total inflows into treasury bonds and bills to 15.5 billion rupees (($52.4 mln) in the eight straight weeks, the official data showed.
-
-The value of government securities held by foreign investors was at 54,813 million rupees by November 7.
-
-...
-
-[Data](articles/0f4a92ae.json)
-
-[Extended Data](ext_articles/0f4a92ae.ext.json)
-
----
-
-### Official reserves in the country are US $ 6.5 billion
+### මෙරට නිල සංචිත වත්කම් ප්‍රමාණය ඩොලර් බිලියන 6.5ක්
 
 *2024-11-12 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203189) · `si`
 
-Sri Lanka's official reserves reached $6.5 billion in October 2023, according to Fitch Ratings. This growth is attributed to the impact of the International Monetary Fund program.
-
-🟩
-
 ෆිච් රේටින්ග්ස් සමාගම ඉදිරිපත් කළ වාර්තාවකට අනුව මෙම වසරේ ඔක්තෝබර් මාසය වනවිට මෙරට නිල සංචිත ප්‍රමාණය අමෙරිකානු ඩොලර් බිලියන 6.5ක් ලෙස සටහන්වී තිබේ.
 
-The growth has occurred on the impact of the International Monetary Fund program.
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන හරහා ඇතිවූ බලපෑම මත මෙම වර්ධනය සිදුවී ඇති බව ෆිච් රේටින්ග්ස් ආයතනය සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/b6f6d6d7.json)
-
-[Extended Data](ext_articles/b6f6d6d7.ext.json)
 
 ---
 
@@ -214,39 +74,13 @@ This has been announced through a special gazette notification by President Anur
 
 *2024-11-12 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198536) · `ta`
 
-Sri Lanka Foreign Employment Bureau warns legal action against companies collecting money under false E8 visa claims. No valid agreement exists for E8 visa for Korean businesses.
+ஈ 8விசா பத்திரத்தின் கீழ் தொழில் வழங்குவதாக தெரிவித்து பணம் அறவிட்டுள்ள வெளிநாட்டு தொழில் முகவர் நிறுவனங்கள் தொடர்பில்  பாதிக்கப்பட்டவர்கள் முறையிட்டால் குறித்த நிறுவனங்களுக்கு எதிராக சட்ட நடவடிக்கை எடுப்போம். ஈ8 விசா மூலம் வெளிநாடுகளுக்கு தொழிலுக்கு செல்ல எந்த நாட்டுடனும் அரசாங்கம் ஒப்பந்தம் செய்ததில்லை என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைவர் கோஷல விக்ரமசிங்க தெரிவித்தார்.
 
-🟩
-
-We will take legal action against companies if the victims appeal to the foreign industry agencies that have been charged with the E8 visa deed.. Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe said the government had not signed any country to go to work abroad with the E8 visa.
-
-A press conference was held on Tuesday (12) at the Sri Lanka Foreign Employment Bureau, to clarify that some people who were looking for a V8 visa and working to Korea were protesting in front of the Foreign Employment Bureau on Monday (11). He said this while participating.
-
-The contract signed by the E8 visa for Korea is not legal, and the Sri Lanka Foreign Employment Bureau is not involved.. However, a few parties in Korea have stirred up their business in Korea, accusing them of the job and protested.
+ஈ8 விசா பெற்றுக்கொண்டு கொரியாவுக்கு தொழிலுக்கு செல்ல எதிர்பார்த்திருக்கும் சிலர் திங்கட்கிழமை (11) வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு முன்னால் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தமை தொடர்பில் தெளிவுபடுத்தும் செய்தியாளர் சந்திப்பு செவ்வாய்க்கிழமை (12) இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
 
 ...
 
 [Data](articles/3bf136c2.json)
-
-[Extended Data](ext_articles/3bf136c2.ext.json)
-
----
-
-### Ex-MPs, PC members and party leaders set deadline to return firearms and ammo
-
-*2024-11-12 20:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103364/ex-mps-pc-members-and-party-leaders-set-deadline-to-return-firearms-and-ammo) · `en`
-
-The Ministry of Defence has informed former MPs, former Provincial Councillors, political party leaders and political organizations, as well as officers who held executive appointments in the government to surrender the firearms and ammunition issued to them at various periods, before December 30, 2024.
-
-Issuing a statement, the Ministry of Defence said it has observed that the Sri Lanka Police and Sri Lanka Army have issued a significant number of pistols, revolvers and other firearms for the protection of Members of Parliament, Provincial Council members, political party leaders and political organizations as well as officers who held executive appointments in the government.
-
-The Ministry of Defence informs the concerned individuals, parties and organizations to hand over these firearms to the nearest police station before December 30, 2024.
-
-...
-
-[Data](articles/3ed5bbd8.json)
-
-[Extended Data](ext_articles/3ed5bbd8.ext.json)
 
 ---
 
@@ -269,26 +103,6 @@ The Ministry of Defense will be informed of the relevant persons to hand over th
 [Data](articles/520216a4.json)
 
 [Extended Data](ext_articles/520216a4.ext.json)
-
----
-
-### President summons new Parliament to meet on Nov 21
-
-*2024-11-12 19:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103363/president-summons-new-parliament-to-meet-on-nov-21) · `en`
-
-President Anura Kumara Dissanayake has issued Extraordinary Gazette notification summoning the new Parliament to convene at 10.00 a.m. on November 21 (Thursday).
-
-The proclamation has been issued today (12) by the Secretary to the President, by order of the President, by virtue of the powers vested in him by Article 70 of the Constitution.
-
-The upcoming general election to elect Members of Parliament for the Tenth Parliament is scheduled for November 14. Through this election, a total of 225 Members of Parliament will be elected, comprising 196 members elected by public vote and 29 members entering through the national list, the statement added.
-
-The inaugural session of the Tenth Parliament, comprising of members through this process, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President, according to the Parliamentary Communications Department.
-
-...
-
-[Data](articles/7872e433.json)
-
-[Extended Data](ext_articles/7872e433.ext.json)
 
 ---
 
@@ -670,78 +484,6 @@ Investigators have revealed that the inspired persons were taken to places like 
 
 ---
 
-### SL Navy’s arrest of Indian fishermen in 2024 the highest in 7 years: Tamil Nadu CM
-
-*2024-11-12 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103362/sl-navys-arrest-of-indian-fishermen-in-2024-the-highest-in-7-years-tamil-nadu-cm) · `en`
-
-MK Stalin, the Chief Minister of the southern Indian state of Tamil Nadu has written to Indian External Affairs Minister Dr S Jaishankar, highlighting the increasing frequency of arrests of Indian fishermen by the Sri Lankan Navy.
-
-In a letter, Stalin highlighted that the number of Indian fishermen arrested by the Sri Lankan Navy this year is the highest in seven years.
-
-The Sri Lankan Navy maintains that Indian fishing boats are poaching in Sri Lankan waters and that their Naval vessels conduct regular patrols and operations in their waters to curb illegal fishing practices of foreign fishing boats, taking into account the impact of those practices on the livelihood of local fishermen.
-
-Thus far this year, the Sri Lankan Navy says they have held 66 Indian fishing boats and 497 Indian fishermen in the island nation’s waters.
-
-The fishermen issue remains a sore point in India-Sri Lanka ties, with fishers from each side crossing over into the other’s waters.
-
-...
-
-[Data](articles/a53d2769.json)
-
-[Extended Data](ext_articles/a53d2769.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.45/55 to dollar, bonds down
-
-*2024-11-12 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-45-55-to-dollar-bonds-down-187062/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.45/55 to the US dollar on Tuesday from 292.55/75 to the US dollar on Monday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed stable at 10.40/55 percent.
-
-A bond maturing on 15.12.2027 closed at 11.10/25 percent, down from 11.20/35 percent.
-
-A bond maturing on 15.03.2028 closed at 11.30/40 percent, down from 11.50/60 percent.
-
-A bond maturing on 15.09.2029 closed at 11.65/80 percent. (Colombo/Nov12/2024)
-
-◼️
-
-[Data](articles/312262c7.json)
-
-[Extended Data](ext_articles/312262c7.ext.json)
-
----
-
-### 5000 to Korea this year
-
-*2024-11-12 17:29:48* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-කොරියාවට-5000-ක්/11-413001) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"5,000+ Sri Lankans went to Korea this year. SLBFE discusses E-9 visa issues with South Korean officials. 5,120 left in late 2024, mostly for manufacturing & construction. Youth employment continues, with 102 girls working in Korea under MoU between SLBFE & South Korean HRD Services since 2004."
-
-🟩
-
-Sri Lanka Bureau Chairman Kiosala Wickremasinghe says that the SLBFE will be discussed with the South Korean government authorities in the back wage of the E-9 Visa section of South Korea.. He also said that various people would raise money in providing employment in the E-8 Visa category and implementing such racketeers.
-
-Also, during the last days of 2024, 5120 Sri Lankans have left for South Korea. 4384 persons for the manufacturing sector have left 4384 and 14 people for the construction industry.
-
-3984 of the youths were left for the first time in South Korea, and 719 others were in South Korea and returned to the island and returned to the country.. Another 417 have left for South Korea for 417 people.
-
-Youths are ongoing jobs in South Korea, and 102 girls have left for work in South Korea during this period.
-
-...
-
-[Data](articles/0c088ba5.json)
-
-[Extended Data](ext_articles/0c088ba5.ext.json)
-
----
-
 ### Inadequate buses service until Monday: Chairman of the Sri Lanka Transport Board
 
 *2024-11-12 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198528) · `ta`
@@ -792,25 +534,15 @@ US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussion
 
 ---
 
-### There was no work on Monday
+### පුලිදෙ 14දා වැඩ නෑ
 
 *2024-11-12 17:17:59* · [`adalk`](https://www.ada.lk/breaking_news/පුලිදෙ-14දා-වැඩ-නෑ/11-413000) · `si`
 
-Here's a summary of 200 characters:
-
-
-
-No work on Monday. Department informed officials won't be held responsible for registration delays due to previous orders affecting services.
-
-🟩
-
-The Department is informed that the officials of the Department of Registration of Persons will not be held as well as the order of the other day service as well as the order of the Department.
+නොවැම්බර් 14 දා පැවැත්වෙන මහ මැතිවරණයේ රාජකාරී කටයුතු සඳහා පුද්ගලයන් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ නිලධාරීන්ද සේවයට යොදවන බැවින් එදින එම දෙපාර්තමේන්තුවේ එක්දින සේවා කටයුතු මෙන්ම සාමාන්‍ය ලෙස හැඳුනුම්පත් ලබාදීමේ කටයුතු සිදු නොවන බව දෙපාර්තමේන්තුව දන්වා සිටියි.
 
 ◼️
 
 [Data](articles/85e13fd0.json)
-
-[Extended Data](ext_articles/85e13fd0.ext.json)
 
 ---
 
@@ -841,30 +573,6 @@ The suspect has not been able to interfere in the condition of the coma in the c
 [Data](articles/ab6cb8a2.json)
 
 [Extended Data](ext_articles/ab6cb8a2.ext.json)
-
----
-
-### Sri Lanka stocks close up, pushed by financials
-
-*2024-11-12 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-pushed-by-financials-187056/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 0.88 percent, or 113.67 points, at 12,988; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.73 points, at 3,887.
-
-The ASPI crossed the 13,000 mark just before market close, before settling. “This was a historical milestone,” Softlogic Stockbrokers said.
-
-“There was lots of interest in non-banking financial institutions, diversified financials, because the impending lifting of the vehicle import ban will give more traction to these.”
-
-Top contributors to the ASPI were John Keells Holdings (up at 21.40), Richard Pieris and Co (up at 24.10), C T Holdings (up at 300.50), Bukit Darah (498.00), and DFCC Bank (up at 83.10).
-
-“Most of the corporate earnings that are our so far have been on the positive side, JKH, Tokyo (up at 56.90), Dialog Axiata (down at 10.80), so this is a market confidence booster.”
-
-...
-
-[Data](articles/8472a889.json)
-
-[Extended Data](ext_articles/8472a889.ext.json)
 
 ---
 
@@ -901,22 +609,6 @@ When the elderly elder went out of her house, a wild elephant hidden in the gard
 [Data](articles/f91d651d.json)
 
 [Extended Data](ext_articles/f91d651d.ext.json)
-
----
-
-### அமைதியான முறையில் தேர்தலை நடத்த ஒத்துழையுங்கள் : சட்டத்தை முழுமையாக செயற்படுத்த பாதுகாப்பு தரப்புக்கு பணிப்புரை - தேர்தல்கள் ஆணைக்குழு
-
-*2024-11-12 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198520) · `ta`
-
-அமைதியான முறையில் தேர்தலை நடத்துவதற்கு ஒட்டுமொத்த மக்களும் ஒத்துழைப்பு வழங்க வேண்டும். தேர்தலை சிறந்த முறையில் நடத்துவதற்கு சட்டத்தை முழுமையாக செயற்படுத்துமாறு பாதுகாப்பு தரப்புக்கு பணிப்புரை விடுத்துள்ளோம். சட்ட விரோதமான முறையில் செயற்படுவதை தவிர்த்துக் கொள்ளுங்கள். வாக்கு உங்களின் உரிமை மற்றும் பலம். அந்த உரிமையை நாளைய தினம் சிறந்த முறையில் பயன்படுத்துங்கள். அத்துடன் சட்டம் மற்றும் ஒழுங்கையும் பாதுகாக்க ஒத்துழையுங்கள் என தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல் ரத்நாயக்க நாட்டு மக்களிடம் வலியுறுத்தியுள்ளார்.
-
-அரசாங்கத் தகவல் திணைக்களத்தில் செவ்வாய்க்கிழமை (12) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் பொதுத்தேர்தல் குறித்து தெளிவுப்படுத்துகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பொதுத்தேர்தலுக்கான சகல பணிகளும் நிறைவடைந்துள்ளன. தேர்தல் கடமைகளுக்காக நியமிக்கப்பட்டுள்ள அரச உத்தியோகஸ்த்தர்கள் மற்றும் தற்காலிக உத்தியோகஸ்த்தர்கள் தமக்குரிய கடமைகளில் ஈடுபட வேண்டும். கடமைகளில் ஈடுபடாமலிருப்பது தண்டனைக்குரிய குற்றமாகும்.
-
-...
-
-[Data](articles/6bc7ced7.json)
 
 ---
 
@@ -1085,26 +777,6 @@ According to the Korean ton Bay, a Korean ton Bay, a Korean ton Bay, a 61 year o
 [Data](articles/bff3654d.json)
 
 [Extended Data](ext_articles/bff3654d.ext.json)
-
----
-
-### MoE launches probe into political party-related questions in school exam paper
-
-*2024-11-12 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103359/moe-launches-probe-into-political-party-related-questions-in-school-exam-paper) · `en`
-
-The Ministry of Education (MoE) announced the launch of an immediate investigation at the ministerial level regarding the inclusion of questions of a political nature in a school term exam paper.
-
-In a statement, the Secretary of the Ministry of Education, Science and Technology, Mrs. J.M. Thilaka Jayasundara, noted that relevant officials have already been provided with instructions to address the issue.
-
-The investigation pertains to the inclusion of five questions related to a political party in the Common General Test paper provided to Advanced Level students during the second term examination at C.W.W. Kannangara Central College in the Kalutara District.
-
-The Secretary clarified that the controversial question paper was prepared solely by the school and has no affiliation with the ministry or any other external institution.
-
-She further stated that necessary actions will be taken following a formal investigation at the ministry level.
-
-◼️
-
-[Data](articles/1a8c96ee.json)
 
 ---
 
@@ -2523,5 +2195,339 @@ Accordingly, the candidates who have come forward with recognized political part
 [Data](articles/01ad4086.json)
 
 [Extended Data](ext_articles/01ad4086.ext.json)
+
+---
+
+### Fire in a business location of Rajagiriya
+
+*2024-11-12 11:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203168) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Fire breaks out at temporary garment factory in Rajagiriya. Four vehicles deployed from Kotte fire station to control blaze."
+
+🟩
+
+A fire has erupted at a temporary garment factory maintained at the Mediwikadu road in Rajagiriya.
+
+Four vehicles have been deployed in the Kotte failure unit for the control of the fire.
+
+◼️
+
+[Data](articles/193c2a62.json)
+
+[Extended Data](ext_articles/193c2a62.ext.json)
+
+---
+
+### Two Chinese citizens arrested in Kandy
+
+*2024-11-12 11:31:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-சீன-பிரஜைகள்-இருவர்-கைது/175-346988) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Chinese nationals (47 & 48) arrested in Kandy, Sri Lanka. Detained at Economic Center after police received confidential tip.
+
+🟩
+
+Two Chinese citizens have been arrested by the Kandy Tourism Police in Sri Lanka.
+
+Two women aged 47 and 48 have been arrested at the Economic Center in Kandy following confidential information received by the police.
+
+◼️
+
+[Data](articles/54efb9d3.json)
+
+[Extended Data](ext_articles/54efb9d3.ext.json)
+
+---
+
+### 12 Indian fishermen arrested in North Sea
+
+*2024-11-12 11:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198493) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+12 Indian fishermen arrested in North Sea near Jaffna. Sri Lankan navy seized their boat after a fire incident off Point Pedro coast.
+
+🟩
+
+The Sri Lankan navy spokesman said that 12 Indian fishermen have been arrested for fishing in the adjoining seas of Jaffna - Point Pedro.
+
+At least 12 Indian fishermen were arrested and the boat was seized by the Navy while engaging in a fire in the sea near the Point Pedro on Tuesday morning.
+
+◼️
+
+[Data](articles/4b7bbd95.json)
+
+[Extended Data](ext_articles/4b7bbd95.ext.json)
+
+---
+
+### The law will be implemented in a strong manner - Elections Commission
+
+*2024-11-12 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198492) · `ta`
+
+Elections Commission urges strict enforcement of laws for peaceful polls. Voters without cards can still cast ballots. Gathering in public places after results may violate fireworks ban. Officials must fulfill election duties or face penalties. Private sector workers deserve voting leave. Mobile phones prohibited inside polling stations.
+
+🟩
+
+The Elections Commission has urged the public to strictly enforce the law to hold elections peacefully and to avoid gathering in public places.
+
+Meanwhile, voters who do not have voter cards can go to their voting center and vote for their rule.
+
+The Elections Commission said that once the election results were released, the public places gathered in public places and the fireworks law was a crime.
+
+Meanwhile, the Elections Commission has urged the officials appointed to be appointed for election obligations and that it is a punishable offense to not be obligated on the day of voting.
+
+Meanwhile, the Elections Commission also stated that voters working in the private sector must be given holidays to vote.
+
+The Elections Commission said the mobile phone was completely prohibited inside the voting center.
+
+◼️
+
+[Data](articles/2e8bd578.json)
+
+[Extended Data](ext_articles/2e8bd578.ext.json)
+
+---
+
+### Female harassment;Web to the man who ran through the back door
+
+*2024-11-12 11:25:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பெண்-வன்புணர்வு-பின்-கதவு-வழியாக-ஓடியவருக்கு-வலை/76-346986) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Woman attacked by man during flower ceremony. She fought off attacker. Police investigating.
+
+🟩
+
+The Moneragala police said that the mother of two children who was sleeping in a house in Venundikumbura, Anthayambur, belonging to the Moneragala Police Division, was searching for a man who was trying to rape.
+
+The woman's husband is working in the Colombo area. The woman, who had gone to the neighboring flower water ceremony with two of her children, returned home at around 10 pm.
+
+The woman, who was in bed, noticed that someone was sitting in the night near the bed.
+
+Fearing the woman, when she shouted, the man who was shouting, threatened to kill the girl's mouth, strangled her neck, and threatened to kill her.
+
+The woman's son, who knew that somebody was taking place, tried to take the thumb from the neighboring room and attack the man.
+
+The Moneragala police are conducting further investigations, saying that the mysterious person has been identified as the arrival of the flowering water ceremony.
+
+◼️
+
+[Data](articles/8bdfae83.json)
+
+[Extended Data](ext_articles/8bdfae83.ext.json)
+
+---
+
+### Forests suffer
+
+*2024-11-12 11:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203167) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Forests face threats. Sri Lanka & New Zealand cricket teams play 2nd T20 match at Dambulla tomorrow."
+
+🟩
+
+Sri Lanka SLC announced that Sri Lanka and New Zealand will commence tomorrow (13) tomorrow.
+
+The two countries caused a second 20/20 international match at Dambulla.
+
+◼️
+
+[Data](articles/33366482.json)
+
+[Extended Data](ext_articles/33366482.ext.json)
+
+---
+
+### The tragedy that happened to the man who went to the massage station
+
+*2024-11-12 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையம்-சென்றவருக்கு-நேர்ந்த-சோகம்/175-346985) · `ta`
+
+Here's a summary of the article in approximately 200 characters:
+
+
+
+Arrests made in Bambalapitiya massage scam: Couple & 4 others detained for forcing victim to transfer money & steal cash.
+
+🟩
+
+Six suspects, including a couple, have been arrested for allegedly taking a person to a massage station in Bambalapitiya and forced to transfer Rs.
+
+According to Bambalapitiya Police, the victim has been invited to massage the body. He has been informed that the service will be provided when he arrives.
+
+However, when he reached the massage station, the couple attacked him to send 1 million money from the bank online.
+
+In addition, the suspects have stolen 15,000 rupees from the man's wallet.
+
+Police have arrested a 44 and 54 -year -old couple from Piliyandala area with a three -wheeler used for the crime.
+
+Following further investigations, the police have arrested four more suspects aged 19 and 23 in Ratmalana and Malkisai area in connection with the incident.
+
+◼️
+
+[Data](articles/36af6320.json)
+
+[Extended Data](ext_articles/36af6320.ext.json)
+
+---
+
+### Cyber ​​attack on the website of the Department of Meteorology!
+
+*2024-11-12 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198491) · `ta`
+
+Sri Lanka's Department of Meteorology website hacked. Authorities restoring site. Cyber attack reported by SL Computer Emergency Response Unit.
+
+🟩
+
+According to the Sri Lanka Computer Emergency Response Unit, the authorities are currently working to restore the website of the Department of Meteorology.
+
+◼️
+
+[Data](articles/f280896b.json)
+
+[Extended Data](ext_articles/f280896b.ext.json)
+
+---
+
+### What is the newly opened test on Passover attacks?
+
+*2024-11-12 11:10:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyvk4qqlgzo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New investigation launched into 2019 Easter bombings in Sri Lanka. Channel 4 documentary alleges government involvement. CID opens case, magistrate court orders probe. Defense ministry denies claims. Three-member committee formed to examine Channel 4 video.
+
+🟩
+
+Over 5 years ago, more than 260 people have laid down to 260 Catholic Churches and 3 tourist hotels have commenced a new investigation.
+
+According to a report issued by the Police Media Division (Yannel 4, a British Television Channel 4, is conducting investigations into the series.
+
+The Criminal Investigation Department (CID) has launched an investigation under several allegations, including the controversial matters of the Passover and the Penal Code.
+
+The investigation was reported to the Fort Magistrate's Court on November 11.
+
+This is the first time a criminal investigation has been launched in the documentary video issued from Channel 4 channel in September 2023.
+
+Executive Director of the Club and Peace Center Rohan Silva has asked Secretary Defense Secretary Ravi Seneviratne in connection with the Secretary of the Government of the British Channel 4.
+
+According to the complaint, the investigation was commenced in the investigation, Nihal Talduwa told the BBC Sinhala.
+
+...
+
+[Data](articles/6f6cdf5f.json)
+
+[Extended Data](ext_articles/6f6cdf5f.ext.json)
+
+---
+
+### IMF mission in Sri Lanka next week to begin review, budget in Feb
+
+*2024-11-12 11:08:00* · [`economynextcom`](https://economynext.com/imf-mission-in-sri-lanka-next-week-to-begin-review-budget-in-feb-186992/) · `en`
+
+ECONOMYNEXT – An International Monetary Fund team will visit Sri Lanka next week, the agency said, while President Anura Dissanayake said he expected a budget to be presented and passed in parliament by February.
+
+“An IMF team led by Peter Breuer, senior mission chief for Sri Lanka, is expected to visit Colombo next week to conduct the third review for Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility,” a spokesperson said.
+
+President Anura Dissanayake said at his last campaign rally that the mission would arrive soon after the election to conduct the third review of the program.
+
+“We will finish the review by end January/early February,” he said. “Then we can achieve considerable stability in the economy.”
+
+For an IMF program review to pass, a staff level agreement has to be crafted with fiscal and monetary targets for the next year. For that a budget in line with program parameters is required.
+
+...
+
+[Data](articles/86a5957c.json)
+
+[Extended Data](ext_articles/86a5957c.ext.json)
+
+---
+
+### Loki Ferguson will lose the ODI series with Sri Lanka
+
+*2024-11-12 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203166) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Locky Ferguson, New Zealand's fast bowler, faces defeat in the upcoming ODI series against Sri Lanka. He previously achieved a hat-trick in 2020 but was forced to leave the field due to a foot injury during the second match. The series begins tomorrow (13).
+
+🟩
+
+New Zealand's fast bowler locky Ferguni has lost Sri Lanka-New Zealand ODI series.
+
+The Sri Lanka-New Zealand ODI series will commence tomorrow (13).
+
+Ferguson obtained a hattric in the second 2020 match against Sri Lanka.
+
+He had left the flock due to a foot disorder while sending his second ball over.
+
+◼️
+
+[Data](articles/f22e7aa4.json)
+
+[Extended Data](ext_articles/f22e7aa4.ext.json)
+
+---
+
+### Sri Lanka rupee trading at 292.65/75 to dollar, bond yields down
+
+*2024-11-12 11:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-at-292-65-75-to-dollar-bond-yields-down-186855/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was trading weaker at 292.65/75 to the US dollar Tuesday from 292.55/75 to the US dollar on Monday, dealers said, while bond yields were down.
+
+A bond maturing on 01.05.2027 was quoted at 11.12/18 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.58/60 percent.
+
+A bond maturing on 15.06.2029 was quoted at 11.95/12.00 percent.
+
+An auction of 85,000 million rupees of treasury Bonds was ongoing.
+
+In equities, Colombo’s All Share Price Index was trading up 0.45 percent, or 58.58 points higher at 12,933.90, while the S&P SL20 of more liquid stocks was up 0.72 percent or 27.89 points higher at 3,882.
+
+◼️
+
+[Data](articles/fb445205.json)
+
+[Extended Data](ext_articles/fb445205.ext.json)
+
+---
+
+### Confused at Sumanthiran's meeting
+
+*2024-11-12 10:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-கூட்டத்தில்-குழப்பம்/175-346983) · `ta`
+
+Sri Lanka Tamil National Alliance TNA campaign meeting at Vaddukoddai-Chiripuram turns chaotic. Former MP M.A. Sumanthiran addresses crowd, but attendees try questioning him. Police intervene as situation escalates.
+
+🟩
+
+The Sri Lanka Tamil National Alliance (TNA) campaign held on Monday (12) at Vaddukoddai - Chiripuram area is confused.
+
+Former Parliamentarian MP MA. Some people in the crowd tried to ask questions after Sumanthiran addressed. There was confusion in the meeting. When there was a clash, the police arrived at the scene.
+
+◼️
+
+[Data](articles/3c157a70.json)
+
+[Extended Data](ext_articles/3c157a70.ext.json)
 
 ---

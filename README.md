@@ -1,58 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 19:41:14**
+As of **2024-11-12 20:12:59**
 
 ## Newspaper Stats
 
-*Scraped **54,458** Articles*
+*Scraped **54,461** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
-colombotelegraphcom | 555
+colombotelegraphcom | 556
 bbccomsinhala | 556
 islandlk | 3,254
 economynextcom | 3,298
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,093
+adalk | 5,094
 adaderanalk | 6,498
 tamilmirrorlk | 7,619
 virakesarilk | 8,837
-adaderanasinhalalk | 9,501
+adaderanasinhalalk | 9,502
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,456 (100.0%) of 54,458 articles have been extended.
+54,461 (100.0%) of 54,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### 21 වනදා පාර්ලිමේන්තුව කැඳවමින් ජනපතිගෙන් ගැසට් නිවේදනයක්
+### Notification from the Department of Registration of Persons
+
+*2024-11-12 19:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203186) · `si`
+
+Department of Registration notification: All public services, including ODI, suspended Nov 14, 2024 due to officer deployment for election duties.
+
+🟩
+
+All public services, including the ODI service in the Department of Registration of November 14, 2024, says that all public services will not be implemented.
+
+The announcement indicates that the officers of the department have been deployed for election duties and that the services were not implemented.
+
+◼️
+
+[Data](articles/12a766bb.json)
+
+[Extended Data](ext_articles/12a766bb.ext.json)
+
+---
+
+### President summoned parliament on 21st
 
 *2024-11-12 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203185) · `si`
 
-ජනාධිපතිවරයා වෙත පැවරී ඇති බලතල අනුව 2024 නොවැම්බර් 21 වනදා පෙරවරු 10ට පාර්ලිමේන්තුව කැඳවමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+Here's a summary in 200 characters:
+
+
+
+"President summons parliament Nov 21, 2024: Gazette notification issued."
+
+🟩
+
+According to the November 21st, 2024, was issued a gazette notification to the President.
 
 ◼️
 
 [Data](articles/2098d444.json)
 
+[Extended Data](ext_articles/2098d444.ext.json)
+
 ---
 
-### தேர்தல் ஆணைக்குழு விசேட அறிக்கை
+### The Election Commission Special Report
 
 *2024-11-12 19:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-விசேட-அறிக்கை/175-347018) · `ta`
 
-அரச, தனியார் துறை ஊழியர்களுக்கு வாக்களிப்பதற்கான விடுமுறை வழங்கல் குறித்து  தேர்தல் ஆணைக்குழு விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளது. R
+Here's a summary of the Election Commission Special Report in approximately 200 characters:
+
+
+
+Election Commission issues report on voting holidays for public/private sector employees. Remble
+
+🟩
+
+The Election Commission has issued a special report on the holidays for voting for public and private sector employees. Remble
 
 ◼️
 
 [Data](articles/5c589ad0.json)
+
+[Extended Data](ext_articles/5c589ad0.ext.json)
 
 ---
 
@@ -481,6 +521,30 @@ The Achuveli Central College Hall 2 Voting Center has been shifted to the Achchu
 [Data](articles/2956b975.json)
 
 [Extended Data](ext_articles/2956b975.ext.json)
+
+---
+
+### Korean tourist and Sri Lankan girl injures two accidents on train
+
+*2024-11-12 16:48:28* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-සෙල්ෆි-ගන්න-ගිහින්-අනතුරු-දෙකකින්-කොරියානු-සංචාරකයෙක්-හා-ලංකාවේ-තරුණියක්-බරපතල-තුවාල-ලබයි/11-412998) · `si`
+
+Two accidents on train: Sri Lankan girl and Korean tourist injured. Girl's right leg severely hurt. Korean tourist, 61, fell near Haputale Railway Station. Both hospitalized.
+
+🟩
+
+Haputale police say that a young girl train and a Korean National Train traveling to Badulla and a large number of train services to Badulla was traveling from Colombo Fort to Badulla..
+
+Train from the Haputale Railway Station at the Haputale Railway Station at the Haputale Road, Galle is located at the Haputale Railway Station at the Haputale Road, Galle today (12).According to the police, he was admitted to the Badulla Teaching Hospital with serious injuries when it comes to the train.
+
+A hospital statement said her right leg was seriously injured. Meanwhile, a Korean National Foreign Tourist tourist who was traveling from Colombo Fort to Badulla, a Korean National Foreign Tourist at Haputale Railway Station at Haputale Railway StationThe police said that fell and was seriously injured.
+
+According to the Korean ton Bay, a Korean ton Bay, a Korean ton Bay, a 61 year old tourist.
+
+...
+
+[Data](articles/bff3654d.json)
+
+[Extended Data](ext_articles/bff3654d.ext.json)
 
 ---
 
@@ -1213,6 +1277,20 @@ He added that the necessary surveillance measures were taken to ensure the safet
 [Data](articles/23512144.json)
 
 [Extended Data](ext_articles/23512144.ext.json)
+
+---
+
+### National Unity Government Needs To Include Minority Parties
+
+*2024-11-12 14:13:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/national-unity-government-needs-to-include-minority-parties/) · `en`
+
+The government is aware as much as anyone else that the country continues to be in an extremely vulnerable situation with the possibility of reversal to a state of economic decline a possible scenario. Both national and international experts have pointed this out with the IMF saying that the country is poised at knife’s edge. The government’s care taken in navigating the sitiuation has included accepting the IMF package, which the main opposition party is making so bold as to reject, but which the former government negotiated and considered to be its signal triumph. The government has also not been engaging in any high cost and self-interested activities unlike its predecessors who sooner rather than later made major wasteful expenditures.
+
+...
+
+[Data](articles/0b1d2205.json)
+
+[Extended Data](ext_articles/0b1d2205.ext.json)
 
 ---
 
@@ -2497,75 +2575,5 @@ The victim has been admitted to the Diyatalawa road for treatment and the Haputa
 [Data](articles/4e661337.json)
 
 [Extended Data](ext_articles/4e661337.ext.json)
-
----
-
-### Six arrested over Rs. 1M robbery after pretending to offer massage service
-
-*2024-11-12 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103347/six-arrested-over-rs-1m-robbery-after-pretending-to-offer-massage-service) · `en`
-
-Police have arrested six individuals, five men and one woman, involved in a fraudulent scheme that led to a robbery under the guise of offering massage services.
-
-The suspects allegedly deceived a man with the promise of a massage service, only to assault and threaten him at knifepoint, forcing him to transfer Rs. 1 million through online banking.
-
-Police reports indicate that the perpetrators further robbed the victim of Rs. 15,000 in cash from his wallet.
-
-Following a complaint received by Bambalapitiya Police in this regard, the police arrested two individuals, including a 44-year-old man and a 54-year-old woman from Piliyandala, along with a three-wheeler used in the crime, on November 8.
-
-Information obtained from these suspects had led to the arrest of four more individuals, aged between 19 and 23, hailing from Ratmalana and Mount Lavinia.
-
-◼️
-
-[Data](articles/290f2ba0.json)
-
-[Extended Data](ext_articles/290f2ba0.ext.json)
-
----
-
-### 10 rebels killed in clash with police
-
-*2024-11-12 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203163) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Clash between rebels and police in Manipur, India: 10 rebels killed, troops injured. Police claim recovery of STF and RPG weapons. Foreign media reports central police force involvement.
-
-🟩
-
-Troops of the clash killed in a clash with the police in Manipur, India.
-
-Foreign media reports that a central police force in India was injured in the clash.
-
-The clash had broke out when a group of insurgents were attacked by a police station in Manipur, Manipur.
-
-According to the police, several STF and RPG weapons were recovered following the clash.
-
-◼️
-
-[Data](articles/517a6824.json)
-
-[Extended Data](ext_articles/517a6824.ext.json)
-
----
-
-### 70,000 police officers deployed for election security efforts across the island
-
-*2024-11-12 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103346/70000-police-officers-deployed-for-election-security-efforts-across-the-island) · `en`
-
-Police Spokesman DIG Nihal Thalduwa announced that approximately 64,000 police officers will be deployed from today (12) to ensure security during the general election across all constituencies.
-
-He stated that “13,383 polling stations have been set up for the total 13,314 constituencies. To cover this period, we deploy police officers on duty on the day of the election and the day after, and if necessary, even after that.”
-
-The deployment includes nearly 3,200 Special Task Force (STF) officers prepared for duty, with 12,227 people directly involved in the election. In total, approximately 70,000 police officers will be involved in election security efforts, according to DIG Thalduwa.
-
-“In addition to the police force, almost 11,000 army personnel are being deployed for the security of hotspots, which are vacated due to the use of police officers for election duties,” DIG Thalduwa explained, adding that “if there is any need, army officers are on standby.”
-
-...
-
-[Data](articles/7637f4bf.json)
-
-[Extended Data](ext_articles/7637f4bf.ext.json)
 
 ---

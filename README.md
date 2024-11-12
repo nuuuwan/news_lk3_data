@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 00:14:51**
+As of **2024-11-13 00:25:45**
 
 ## Newspaper Stats
 
-*Scraped **54,493** Articles*
+*Scraped **54,494** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,098
 adaderanalk | 6,504
-tamilmirrorlk | 7,623
+tamilmirrorlk | 7,624
 virakesarilk | 8,847
 adaderanasinhalalk | 9,505
 
@@ -26,23 +26,43 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,492 (100.0%) of 54,493 articles have been extended.
+54,493 (100.0%) of 54,494 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
 
-### இலங்கை மீது பொருளாதாரத் தடை விதிக்க வேண்டும் ; சீமான்
+### 14ஆம் திகதி சேவைகள் கிடைக்காது
+
+*2024-11-13 00:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14ஆம்-திகதி-சேவைகள்-கிடைக்காது/175-347036) · `ta`
+
+ஆட்பதிவு திணைக்களம் அதன் ஒரு நாள் சேவை உட்பட அனைத்து பொது சேவைகளும் பாராளுமன்றத் தேர்தல் நடைபெறும் தினமான நவம்பர் 14ஆம் திகதி கிடைக்காது என அறிவித்துள்ளது.
+
+அன்றைய தினம் தேர்தல் பணிகளுக்கு திணைக்கள ஊழியர்கள் நியமிக்கப்பட்டுள்ளதாகவும், அதனால் சேவைகள் இயங்காது எனவும் அந்த அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/8ea21114.json)
+
+---
+
+### Economic ban on Sri Lanka;Baron
 
 *2024-11-13 00:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீது-பொருளாதாரத்-தடை-விதிக்க-வேண்டும்-சீமான்/175-347035) · `ta`
 
-இலங்கை மீது இந்திய அரசு பொருளாதார தடை விதிக்க வேண்டும் என நாம் தமிழர் கட்சி தலைவர் சீமான் வலியுறுத்தியுள்ளதாக இந்திய ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+India urges economic sanctions on Sri Lanka. Sri Lankan president threatens action against illegal Indian fishing.
 
-சட்டவிரோதமாக எல்லை தாண்டி வரும் இந்திய கடற்றொழிலாளர்கள் மீது கடும் நடவடிக்கை எடுக்கப்படும் என இலங்கை ஜனாதிபதி அநுரகுமார திசாநாயக்க கூறியதை சுட்டிக்காட்டியே அவர் இந்த வலியுறுத்தலை மத்திய அரசாங்கத்திடம் விடுத்துள்ளார்.
+🟩
+
+The Indian media has reported that the Indian government has urged the Indian government to impose an economic ban on Sri Lanka.
+
+Sri Lankan President Anura Kumara Dissanayake has said that he has made this insistence to the central government that he has said that strict action will be taken against Indian fishermen who are illegally crossing the border.
 
 ◼️
 
 [Data](articles/6c883e04.json)
+
+[Extended Data](ext_articles/6c883e04.ext.json)
 
 ---
 
@@ -2495,29 +2515,5 @@ The US has evacuated some of its employees following the firing on US embassy ve
 [Data](articles/103221cc.json)
 
 [Extended Data](ext_articles/103221cc.ext.json)
-
----
-
-### Massive fire in Rajagiriya
-
-*2024-11-12 12:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜகிரியவில்-பாரிய-தீ/175-346991) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Rajagiriya: Massive fire engulfs temporary garment factory. Four fire trucks from Kotte Fire Department respond.
-
-🟩
-
-The fire broke out in a temporary garment factory located on the Rajagiriya, Welikada road.
-
-Four fire trucks of the Kotte Fire Department were sent to the scene to bring the fire under control.
-
-◼️
-
-[Data](articles/a129a6dc.json)
-
-[Extended Data](ext_articles/a129a6dc.ext.json)
 
 ---

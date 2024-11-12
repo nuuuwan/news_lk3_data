@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 14:13:54**
+As of **2024-11-12 13:41:53**
 
 ## Newspaper Stats
 
-*Scraped **54,397** Articles*
+*Scraped **54,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,117 +16,21 @@ islandlk | 3,254
 economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,087
+adalk | 5,086
 adaderanalk | 6,483
-tamilmirrorlk | 7,604
+tamilmirrorlk | 7,603
 virakesarilk | 8,824
-adaderanasinhalalk | 9,493
+adaderanasinhalalk | 9,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,394 (100.0%) of 54,397 articles have been extended.
+54,392 (100.0%) of 54,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
-
-### அரசியல் கைதிகளின் விடுதலை தொடர்பில் கலந்துரையாடல்
-
-*2024-11-12 13:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளின்-விடுதலை-தொடர்பில்-கலந்துரையாடல்/175-347000) · `ta`
-
-அரசியல் கைதிகளின் விடுதலை தொடர்பில் ஜனாதிபதி செயலகத்துக்கும் சட்டமா அதிபர் திணைக்களத்துக்கும் இடையில் கலந்துரையாடல் இடம்பெற்று வருவதாக ஜனாதிபதி செயலகத்தின் சட்டப் பணிப்பாளர் சட்டத்தரணி ஜே.எம். விஜேபண்டார தெரிவித்துள்ளார்.
-
-இலங்கையில் 'அரசியல் கைதிகள்' என பெரும்பாலும் பயங்கரவாத எதிர்ப்புச் சட்டங்களின் கீழ் தடுத்து வைக்கப்பட்டுள்ளவர்களைக் குறிப்பிடுகின்றனர்.
-
-இந்த நிலையில், அரசியல் கைதிகளின் விடுதலை தொடர்பில் ஏதாவது வேலைத்திட்டம் முன்னெடுக்கப்படுகிறதா என ஊடகவியலாளர்கள் எழுப்பிய கேள்விக்கு பதிலளித்த விஜேபண்டார, அரசியல் கைதிகளின் விடுதலை தொடர்பில் சட்டமா அதிபர் திணைக்களத்துடன் கலந்துரையாடி வருவதாகத் தெரிவித்துள்ளார்.
-
-அரசியல் கைதிகள் என்று அழைக்கப்படுபவர்களில் பெரும்பாலானவர்கள் விசாரணையின்றி கைது செய்யப்பட்ட அல்லது கடுமையான நிலைமைகளின் கீழ் நீண்டகாலமாக தடுத்து வைக்கப்பட்டிருக்கும் தமிழர்களாவர்.
-
-...
-
-[Data](articles/8a146d33.json)
-
----
-
-### දෙරණට අභිමන් සම්මාන
-
-*2024-11-12 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203175) · `si`
-
-කැලණිය විශ්වවිද්‍යාලයේ Rotaract සමාජය විසින් සංවිධානය කරනු ලැබු නවමු මාධ්‍යකරණයේ සරසවි හරසර 'අභිමන්' සම්මාන උළෙලේ දී යූටියුබ් අවකාශයේ ජනප්‍රියම රූපවාහිනි නාලිකාව ලෙස 'ටීවි දෙරණ' සහ ජනප්‍රියතම ප්‍රවෘත්ති සපයන්නා ලෙස 'අද දෙරණ' සම්මානයෙන් පිදුම් ලැබීය.
-
-මෙරට නව ඩිජිටල් මාධ්‍ය නිර්මාණකරුවන් හා අන්තර්ගත නිර්මාණකරුවන් ඇගයීමට ලක්කරමින් මෙම සම්මාන උළෙල ඊයේ (11) කැලණිය විශ්වවිද්‍යාලයේ පරිගණක සහ තාක්ෂණ විද්‍යා පීඨ ශ්‍රවණාගාරයේ දී පැවැත්වුණි.
-
-එහිදී ශ්‍රී ලංකාවේ ඩිජිටල් අවකාශය දිනූ ප්‍රමුඛයින් කිහිපදෙනෙකු ඇගයීමට ලක්වූ අතර, යූටියුබ් අවකාශයේ ජනප්‍රියතම 'Cover Song' නිර්මාණය ලෙස සන්තාන සුසුම් ගීතය වෙනුවෙන් සුනීර සුමංගල සම්මානයට පාත්‍රවිය.
-
-මේ අතර යූටියුබ් අවකාශයේ ජනප්‍රියතම ගුරුවරයා ලෙස දිනේෂ් මුතුගල මහතා සම්මානයෙන් පිදුම් ලැබූ අතර, යූටියුබ් අවකාශයේ ජනප්‍රියතම ගායිකාව ලෙස කාංචනා අනුරාධි සහ ජනප්‍රියතම ගායකයා ලෙස භාතිය සන්තුෂ් සම්මානයෙන් පිදුම් ලැබීය.
-
-ෆේස්බුක්, ඉන්ස්ටර්ගෑම් සහ VLOG සමාජ මාධ්‍ය ජාලාවන්හි ජනප්‍රියතම චරිතයට හිමි සම්මානය රංගන ශිල්පිණී ශනුද්‍රි ප්‍රියසාද් විසින් හිමිකර ගත්තාය.
-
-...
-
-[Data](articles/f691f020.json)
-
----
-
-### Tearsheltories hearing on the mountain - the two acre tea cultivation was destroyed
-
-*2024-11-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203174) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Tea plantation owner Thusharanaan's 2-acre cultivation destroyed by Samarasuriya. Neluwa Police OIC involved, citing land dispute. Owner seeks justice, claims ancestral property.
-
-🟩
-
-If a plantation crop cultivation is unstable with the sweat, can be thought of the pain.
-
-Borders in Galle and Matara districts is owner of two acres of tea cultivation in the Mount Kanda Mount Kanda Mount Kandalawa. The name Thusharanaan is the one.
-
-Two acres of tea to him have been removed a few days ago, Thimbirigasyaya, Colombo have removed. By a woman named Samarasuriya.
-
-The OIC of the Neluwa Police has also telephoned him.
-
-"From the country, a man called, he asked him Jothi. I said yes. If he would have said that he should quit the land, he threatened to remove the people from Colombo. "
-
-The Neluwa Police OIC also called on the incident, Jothi said it was telephoned him.
-
-OIC - "I speak OIC at Neluwa. Miss's lands are all measured by all these measures today. If you don't understand the Sinhalese, we have nothing to do. It was to ask that the man, he lost. "
-
-Oic- "In addition to the hunting of guns in addition to. There is also stingled. "
-
-...
-
-[Data](articles/3716babc.json)
-
-[Extended Data](ext_articles/3716babc.ext.json)
-
----
-
-### Lift is collapse at a Colombo apartment complex
-
-*2024-11-12 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203173) · `si`
-
-Elevator collapses at Colombo apartment, injures police officer. Incident happened at 1:30 AM in Grandpass Falls building.
-
-🟩
-
-A police officer suffered injuries due to collapsing the elevator of apartment complex.
-
-The elevator was collapsed in the Grandpass Falls, a building at the Grandpass Face Show.
-
-The accident had occurred at 1.30 am yesterday (11), a police constable was a police constable.
-
-◼️
-
-[Data](articles/c3dbb335.json)
-
-[Extended Data](ext_articles/c3dbb335.ext.json)
-
----
 
 ### Two Chinese women arrested
 
@@ -243,22 +147,6 @@ The Defense Secretary Thusicontha visited the Arumbain, who was in a tour of the
 [Data](articles/6ed34b91.json)
 
 [Extended Data](ext_articles/6ed34b91.ext.json)
-
----
-
-### නවසීලන්තයට එරෙහි එක්දින තරගාවලිය වනිඳුට අහිමි වෙයි - ආදේශක ක්‍රීඩකයා මෙන්න
-
-*2024-11-12 12:30:36* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-එක්දින-තරගාවලිය-වනිඳුට-අහිමි-වෙයි---ආදේශක-ක්‍රීඩකයා-මෙන්න/9-412991) · `si`
-
-සංචාරක නවසීලන්ත කණ්ඩායමට එරෙහිව පැවැත්වෙන එක්දින ක්‍රිකට් තරගාවලිය ශ්‍රී ලංකාවේ දඟ පන්දු යවන ක්‍රීඩක වනිඳු හසරංගට අහිමි වී තිබේ.
-
-දෙරට අතර පැවති දෙවන විස්සයි 20 තරගයේදී සිදු වූ ආබාධ තත්ත්වය හේතුවෙන් මෙලෙස ඔහු​ට එක්දින තරගාවලියට ක්‍රීඩා කිරීම අහිමි වී ඇත.
-
-මේ අතර ඔහු වෙනුවට දුෂාන් හේමන්ත එක්දින කණ්ඩායමට ආදේශ කිරීමට ක්‍රිකට් තේරීම් කමිටුව පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/b58b9b7b.json)
 
 ---
 
@@ -2455,5 +2343,107 @@ The Tamil National Alliance was formed by the leader for the unity of the Tamil 
 [Data](articles/9035699e.json)
 
 [Extended Data](ext_articles/9035699e.ext.json)
+
+---
+
+### Cinnamon Citadel Kandy celebrates the Season with annual Christmas Cake Mixing Ceremony
+
+*2024-11-11 22:04:00* · [`islandlk`](http://island.lk/cinnamon-citadel-kandy-celebrates-the-season-with-annual-christmas-cake-mixing-ceremony/) · `en`
+
+Cinnamon Citadel Kandy, part of Cinnamon Hotels & Resorts, hosted its cherished annual Christmas Cake Mixing Ceremony, recently, welcoming the season in grand style. This year’s event not only celebrated the spirit of Christmas but also honoured the resort’s recent accolade as South Asia’s Leading Riverfront Hotel/Resort at the South Asian Travel Awards (SATA) 2024. Set against the breathtaking backdrop of the Mahaweli River, the occasion brought together loyal guests and resort staff for a memorable day of festivities.
+
+The event commenced with an enchanting dance performance by students from the Senkadagala Special School, setting a joyous tone. Guests were then guided along the scenic Mahaweli River to the cake mixing area. In a unique tribute to the SATA award, a ceremonial boat delivered the trophy down the river, honouring Cinnamon Citadel Kandy’s distinction as the South Asian region’s premier riverfront destination.
+
+...
+
+[Data](articles/7173da1a.json)
+
+[Extended Data](ext_articles/7173da1a.ext.json)
+
+---
+
+### Namal requests the government to fulfill the promises given to the people
+
+*2024-11-11 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203153) · `si`
+
+Namal Rajapaksa urges President to keep election promises. He criticizes government for lying about job creation during public speech in Matugama.
+
+🟩
+
+Namal Rajapaksa, the National Organizer of the Sri Lanka General Manager Namal Rajapaksa has requested the President to fulfill his promises to the people.
+
+He made this request participating in a public briefing in Matugama today.
+
+"In the recent past, we have been accused. They say that they say a lie that has been abused by the allegations. What is the government's program for job creation?We call the government and have lied to the people of the country "
+
+◼️
+
+[Data](articles/36097d35.json)
+
+[Extended Data](ext_articles/36097d35.ext.json)
+
+---
+
+### NCCSL workshop on Market Research Insights and Analytics for Business Competitiveness
+
+*2024-11-11 21:58:00* · [`islandlk`](http://island.lk/nccsl-workshop-on-market-research-insights-and-analytics-for-business-competitiveness/) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a comprehensive workshop titled “Market Research Insights and Analytics for Business Competitiveness” on November 7, 2024, at the National Chamber Auditorium. The event attracted participants from diverse industries, including entrepreneurs, brand management, marketers, and business development professionals, all aiming to enhance their strategic approaches through effective market research. The workshop focused on understanding market opportunities and consumer behavior, offering hands-on experience in designing research processes and using advanced technology for data analysis.
+
+...
+
+[Data](articles/7e15019f.json)
+
+[Extended Data](ext_articles/7e15019f.ext.json)
+
+---
+
+### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
+
+*2024-11-11 21:54:00* · [`islandlk`](http://island.lk/imf-delegations-impending-visit-to-sri-lanka-sends-positive-vibes-to-stock-market/) · `en`
+
+The stock market moved to positive territory yesterday in anticipation of favourable corporate quarter results and a sense of optimism stemming from the high level IMF delegation’s visit to Sri Lanka after the election to review the third tranche for Sri Lanka, market analysts said.
+
+Due to these factors the stock market moved upwards and investor confidence seemed to be gathering momentum. Both indices moved upwards. The All Share Price Index went up by 73.86 points while S and P SL20 rose by 43.94 points. Turnover was Rs 2.42 billion with four crossings.
+
+Those crossings were reported in HNB, which crossed 2.31 million shares to the tune of Rs 528 million; its shares traded at Rs 228, Pan Asia Bank 1.9 million shares crossed for Rs 49.4 million; its shares traded at Rs 26, Commercial Bank 200,000 shares crossed for Rs 23.4 million; its shares sold at Rs 117 and Lanka Aluminium 750,000 shares crossed to the tune of Rs 20 million; its shares sold at Rs 26.50.
+
+...
+
+[Data](articles/b74daa8e.json)
+
+[Extended Data](ext_articles/b74daa8e.ext.json)
+
+---
+
+### Investigation from CID regarding Channel 4 video
+
+*2024-11-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203152) · `si`
+
+CID investigates Channel 4 video Easter attack complaint Police Headquarters interview Mohamed Mihil Mohal Moulana Penal Code allegations Fort Hon. Magistrate's Court media briefing DIG Talduuwa summons
+
+🟩
+
+The CID has commenced investigations into a video broadcast on a foreign television channel in connection with the Easter attack.
+
+A complaint to the Police Headquarters has been handed over to the Police Headquarters following the video on the video by an external organization.
+
+A British Television channel Channel 4 was interviewed by Sri Lankans, Mohamed Mihil Mohal Moulana, a Sri Lankan.
+
+The interview was broadcast on or near the 6th of September 2023.
+
+Accordingly, the Department of Criminal Investigations have commenced under several allegations, including the controversial matters and the plot of the Penal Code on the video.
+
+The Criminal Investigations Department (CID) has reported to the Fort Hon. Magistrate's Court today (11).
+
+Meanwhile, police spokesman DIG Talduuwa said that he was speaking at a media briefing held today.
+
+Accordingly, he has been summoned to the CID tomorrow morning at 9.30 am.
+
+◼️
+
+[Data](articles/01ec3639.json)
+
+[Extended Data](ext_articles/01ec3639.ext.json)
 
 ---

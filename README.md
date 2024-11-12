@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 15:41:22**
+As of **2024-11-12 16:25:09**
 
 ## Newspaper Stats
 
-*Scraped **54,411** Articles*
+*Scraped **54,428** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,119 +16,307 @@ islandlk | 3,254
 economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,088
-adaderanalk | 6,483
-tamilmirrorlk | 7,611
+adalk | 5,090
+adaderanalk | 6,495
+tamilmirrorlk | 7,613
 virakesarilk | 8,827
-adaderanasinhalalk | 9,496
+adaderanasinhalalk | 9,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,404 (100.0%) of 54,411 articles have been extended.
+54,413 (100.0%) of 54,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### දේශපාලනික ස්වරූපයේ ප්‍රශ්න පත්‍රය ගැන විශේෂ පරීක්ෂණයක්
+### පසුගිය රජය නිකුත්කළ ගැසට් නිවේදනයක් සම්බන්ධයෙන් අධිකරණ නියෝගයක්
+
+*2024-11-12 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203180) · `si`
+
+ඉස්සන් ගොවිපොළක් නිර්මාණය කිරීමට විල්පත්තුව ආශ්‍රිත වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් බිම් කොටසක් මුදාහැරීමට ඉකුත් රජයේ වනජීවී අමාත්‍යංශය විසින් නිකුත් කළ ගැසට් නිවේදනයක් ක්‍රියාත්මක වීම වළක්වාලමින් පනවා තිබූ අතුරු තහනම් නියෝගය ශ්‍රේෂ්ඨාධිකරණය විසින් දීර්ඝ කර තිබේ.
+
+වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් අක්කර 168 ක් මුදා හැරීම සඳහා අදාළ ගැසට් නිවේදනයක් නිකුත් කර තිබී ඇත.
+
+එස්. තුරෙයිරාජා, ඒ. එච්.එම්.ඩී. නවාස් සහ ජනක් ද සිල්වා යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම අද (12) කැඳවා ඇති අතර එහිදී නියෝග කර ඇත්තේ පනවා තිබූ අතුරු තහනම් නියෝගය ජූලි මස 29 වනදා දක්වා දීර්ඝ කරණ ලෙසටය.
+
+එම අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් ෆස්ලි රසික් මහතා සඳහන් කළේ මෙම ගැසට් නිවේදනය සම්බන්ධයෙන් යළි සමාලෝචනයක් සිදුකිරීමට නව රජය තීරණය කර ඇති බවය.
+
+ඒ අනුව මෙම නඩුකරයට අදාළ මීළඟ පියවර දැනුම්දීම සඳහා දිනයක් ලබාදෙන ලෙසත් නියෝජ්‍ය සොලිසිටර් ජනරාල්වරයා අධිකරණයෙන් ඉල්ලා තිබේ.
+
+...
+
+[Data](articles/a91d11e1.json)
+
+---
+
+### “டிக் டொக்” காதல் ; மாணவி பாலியல் வன்கொடுமை
+
+*2024-11-12 16:11:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்-டொக்-காதல்-மாணவி-பாலியல்-வன்கொடுமை/175-347011) · `ta`
+
+“டிக் டொக்” இணையத்தளம் ஊடாக அறிந்துக்கொண்ட, அநுராதபுரம் அலையாபத்து பிரதேசத்தை சேர்ந்த 14 வயதுடைய  பாடசாலை மாணவியை , இரத்தினபுரி பிரதேசத்தைச் சேர்ந்த இளைஞன் ஒருவன் பாலியல் வன்கொடுமை செய்துள்ளதாக  பொலிஸார் தெரிவித்தனர்.
+
+குறித்த மாணவி , பாடசாலைக்கு வராமல் இளைஞனொருவனுடன் சென்றுவிட்டு மறுநாள் பாடசாலைக்கு வந்ததாக அதிபர் செய்த முறைப்பாட்டின் அடிப்படையில்  விசாரணைகள் ஆரம்பிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+“டிக் டொக்” இணையத்தளம் ஊடாக அறிந்துக்கொண்ட  இளைஞனுடன்  மாணவி காதல் உறவில் ஈடுபட்டு வந்துள்ளதுடன் , அவருடைய நிர்வாண புகைப்படங்களையும் இளைஞனுக்கு அனுப்பியுள்ளார்.
+
+பின்னர் குறித்த புகைப்படங்களை முகப்புத்தகத்திற்கு வெளியிடுவதாக கூறி அச்சுறுத்திய  இளைஞன் மாணவியை,  குருநாகல் பகுதிக்கு வரவழைத்து   பாலியல் வன்கொடுமை செய்துள்ளதாக தெரிவித்த பொலிஸார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/5c0ca881.json)
+
+---
+
+### Notice on issuing exam certificates
+
+*2024-11-12 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103358/notice-on-issuing-exam-certificates) · `en`
+
+The Department of Examinations has issued a special notice regarding the issuance of exam certificates.
+
+Accordingly, the department announces that the issuing of exam certificates will not be carried out on November 14 due to the departmental staff being deployed for election duties.
+
+Furthermore, the examination department stated that all service counters and the online service will not be operational on Thursday (14).
+
+◼️
+
+[Data](articles/53010031.json)
+
+---
+
+### Another intervention for the child
+
+*2024-11-12 15:38:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானுக்கு-மற்றுமொரு-தலையிடி/175-347009) · `ta`
+
+Tamil LTTE press conference blocked by Election Dept over transparency concerns
+
+🟩
+
+A press conference organized by the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) on Tuesday (12) has been blocked by the Department of Elections.
+
+A media briefing was organized by Sivanesathurai Chandrakanthan, the leader of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) and the parliamentary election candidate.
+
+The media meeting has been blocked by the Department of Elections Department officials on the basis of a complaint lodged by the Assistant Elections Officer of the Transparency International Organization for the National Elections Elections and Elections Division.
+
+The Tamil People's Liberation Tigers of Tamil Eelam (LTTE) was organized by a media briefing on contrary to the elections as all the parliamentary election campaigns ended on Monday (11).
+
+◼️
+
+[Data](articles/ffd1bdd2.json)
+
+[Extended Data](ext_articles/ffd1bdd2.ext.json)
+
+---
+
+### US Special Envoy for Global Youth Issues arrives in Sri Lanka
+
+*2024-11-12 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103357/us-special-envoy-for-global-youth-issues-arrives-in-sri-lanka) · `en`
+
+The U.S. Department of State’s Special Envoy for Global Youth Issues, Abby Finkenauer, has arrived in Sri Lanka on Tuesday (12) for an official visit.
+
+“Proud to welcome US Special Envoy for Global Youth Issues Abby Finkenauer to Sri Lanka! Her work as an advocate for youth voices around the world highlights the incredible role young people play in shaping a brighter future here.”
+
+“Our U.S.-Sri Lanka partnership is committed to empowering youth as leaders in areas that truly matter—from economic growth to environmental sustainability,” the U.S. Ambassador to Sri Lanka Julie Chung posted on ‘X’.
+
+The U.S. Department of State had announced that Special Envoy Abby Finkenauer, will travel to Sri Lanka and Nepal from November 12-15, 2024.
+
+This visit highlights the United States’ commitment to empowering young leaders in South Asia, fostering collaboration on civic engagement, and addressing key issues such as youth leadership, cultural preservation, and community resilience, the statement said.
+
+...
+
+[Data](articles/1efe18ac.json)
+
+---
+
+### සමාජයේ කතාබහට ලක්වූ විභාග ප්‍රශ්න පත්‍රය ගැන අමාත්‍යාංශ මට්ටමින් පරීක්ෂණයක්
+
+*2024-11-12 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාජයේ-කතාබහට-ලක්වූ-විභාග-ප්‍රශ්න-පත්‍රය-ගැන-අමාත්‍යාංශ-මට්ටමින්-පරීක්ෂණයක්/11-412994) · `si`
+
+කළුතර දිස්ත්‍රික්කයේ සී.ඩබ්ලිව්.ඩබ්ලිව්.කන්නන්ගර මධ්‍ය විද්‍යාලයේ දෙවැනි වාර පරීක්ෂණයේදී උසස් පෙළ දරුවන්ට ලබා දුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට දේශපාලන පක්ෂයකට සම්බන්ධ ප්‍රශ්න 05ක් අන්තර්ගත වීම පිළිබඳව අමාත්‍යාංශ මට්ටමින් කඩිනම් පරීක්ෂණයක් ආරම්භ කිරීමට උපදෙස් ලබා දී තිබේ.
+
+අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිට අදාළ නිලධාරීන්ට මෙලෙස උපදෙස් ලබා දී ඇත.
+
+සමාජය තුළ කතාබහට ලක් වී ඇති මෙම ප්‍රශ්න පත්‍රය සකස් කර ඇත්තේ අදාළ පාසලෙන්ම බවත්, ඒ සඳහා අමාත්‍යාංශ මට්ටමින් හෝ වෙනත් ආයතනික මට්ටමකින් හෝ කිසිදු සම්බන්ධයක් නොමැති බවත් අමාත්‍යාංශ ලේකම්වරිය පැවසීය.
+
+◼️
+
+[Data](articles/9844ff8a.json)
+
+---
+
+### Special investigation into political form
 
 *2024-11-12 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203178) · `si`
 
-පාසල් වාර විභාග ප්‍රශ්න පත්‍රයක දේශපාලනික ස්වරූපයෙන් යුත් ප්‍රශ්න ඇතුළත්වීම සම්බන්ධව අමාත්‍යංශ මට්ටමින් කඩිනම් පරීක්ෂණයක් ආරම්භ කර ඇති බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+Here's a summary of 200 characters:
 
-නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය සඳහන් කළේ, අදාළ නිලධාරීන්ට මේ සම්බන්ධයෙන් අවශ්‍ය උපදෙස් මේ වනවිටත් ලබාදී ඇති බවය.
 
-කළුතර දිස්ත්‍රික්කයේ සී. ඩබ්ලිව්. ඩබ්ලිව්. කන්නන්ගර මධ්‍ය මහා විද්‍යාලයේ දෙවැනි වාර පරීක්ෂණයේදී උසස් පෙළ දරුවන්ට ලබාදුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට දේශපාලන පක්ෂයකට සම්බන්ධ ප්‍රශ්න 05ක් අන්තර්ගත වීමට අදාළව මෙම පරීක්ෂණය පවත්වයි.
 
-ලේකම්වරිය වැඩිදුරටත් සඳහන් කර ඇත්තේ සමාජය තුළ කතාබහට ලක්වී ඇති මෙම ප්‍රශ්න පත්‍රය, සකස් කර ඇත්තේ අදාළ පාසලෙන් ම බවත් ඒ සඳහා අමාත්‍යංශ මට්ටමින් හෝ වෙනත් ආයතනික මට්ටමකින් හෝ කිසිදු සම්බන්ධයක් නොමැති බවත් ය.
+Ministry of Education launches probe into political content in exam papers. Investigation focuses on Kannangara Central College's General Testing Committee. Measures will be taken after formal inquiry concludes.
 
-අමාත්‍යංශ මට්ටමින් සිදු කරනු ලබන විධිමත් පරීක්ෂණයකින් පසුව ඒ සම්බන්ධයෙන් නිසි ක්‍රියාමාර්ග ගන්නා බවත් ඇය අදාළ නිවේදනයෙන් වැඩිදුරටත් සඳහන් කරයි.
+🟩
+
+The Ministry of Education states that an accelerated investigation has been launched at the ministry level regarding the political strides in the school term examination paper.
+
+Thilaka Jayasundara said that the Secretary to the Ministry of Education, Science, Science and Technology, said that the relevant officials have already advised the relevant officials.
+
+Kalutara District. W. W. The investigation is held in relation to the average public investigation into the General Testing Committee on Kannangara Central College.
+
+The Secretary said that the meeting has been prepared in society and has been prepared by the Ministry's level or any other institutional level or other institutional level.
+
+After a formal investigation conducted at the ministry level, measures will be taken in this regard.
 
 ◼️
 
 [Data](articles/79c766c7.json)
 
+[Extended Data](ext_articles/79c766c7.ext.json)
+
 ---
 
-### குறிகாட்டுவான் – நெடுந்தீவுக்கு விசேட படகு சேவைகள்
+### Special Boat Services to Nedundevu
 
 *2024-11-12 15:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறிகாட்டுவான்-நெடுந்தீவுக்கு-விசேட-படகு-சேவைகள்/175-347008) · `ta`
 
-நடைபெறவுள்ள பாராளுமன்ற தேர்தலை முன்னிட்டு, யாழ்ப்பாணம் , குறிகாட்டுவான் - நெடுந்தீவுக்கு இடையிலான விசேட படகு சேவைகள் ஒழுங்கு செய்யப்பட்டுள்ளன.
+Special ferry services run Jaffna to Nedundevu for polls. 7 trips daily from 6:30 AM to 5:30 PM. Voting boxes transported by boat on Wednesday.
 
-வியாழக்கிழமை (14)  காலை 06,30 மணி முதல் மாலை 5.30 மணி வரையில் குறிகாட்டுவானில் இருந்து நெடுந்தீவுக்கு 07 படகு சேவைகள் இடம்பெறவுள்ளன.
+🟩
 
-அதேபோன்று நெடுந்தீவில் இருந்து குறிகாட்டுவான் நோக்கி காலை 06.45 மணி முதல் மலை 04.30 மணி வரையிலும் படகு சேவைகள் இடம்பெறவுள்ளன என நெடுந்தீவு பிரதேச செயலகம் அறிவித்துள்ளது.
+Special ferry services have been organized between Jaffna, Indigatuwan - Nedundevu ahead of the upcoming parliamentary elections.
 
-அதேவேளை நெடுந்தீவுக்கான வாக்கு பெட்டிகளை  புதன்கிழமை (13)  படகுகள் மூலம் உத்தியோகஸ்தர்கள் எடுத்து சென்று, வியாழக்கிழமை (14) வாக்களிப்பு நிறைவு பெற்றதும் விமான படையினரின் உலங்கு வானுர்தியில் வாக்கெண்ணும் மத்திய நிலையமான யாழ்ப்பாணம் மத்திய கல்லூரிக்கு எடுத்து வரப்படும் என்பது குறிப்பிடத்தக்கது.
+From 06,30 am to 5.30 pm on Thursday (14), 07 ferry services will be held from Neduntivu to Neduntivu.
+
+Similarly, the Divisional Secretariat has announced that the boat services will be held from 06.45 am to 04.30 pm from Neduntivu.
+
+Meanwhile, the voting boxes for the Nedundi Island will be taken by the officers by the boats on Wednesday (13) and the voting of the Air Force will be taken to the Central College, the Central College of the Air Force.
 
 ◼️
 
 [Data](articles/98032362.json)
 
+[Extended Data](ext_articles/98032362.ext.json)
+
 ---
 
-### வட்டவளையில் பாரிய விபத்து: சாரதி படுகாயம்
+### Driver injured
 
 *2024-11-12 15:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வட்டவளையில்-பாரிய-விபத்து-சாரதி-படுகாயம்/76-347007) · `ta`
 
-இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸூம், வா​னொன்றும் நேருக்கு நேர் மோதி விபத்துக்கு உள்ளானதில், ​வானின் சாரதி படுகாயமடைந்துள்ளார்.
+Driver injured in SLTB bus accident. Head injury sustained while overtaking. Transferred to Navalapitiya Hospital. Buses damaged. Traffic police investigating.
 
-கொழும்பு- ஹட்டன் பிரதான வீதியில் ஸ்கேடன் தோட்ட பகுதியில்  செவ்வாய்க்கிழமை (12) பிற்பகல் 2 மணியளவில், இடம்பெற்ற இந்த விபத்தில் படுகாயமடைந்த சாரதி, வட்டவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர், மேலதிக சிகிச்சைகளுக்கான நாவலப்பிட்டிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+🟩
 
-ஹட்டனில் இருந்து கொழும்பு வரையிலும் பயணித்த இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸூக்கு எதிர் திசையில், கினிகத்ஹேனவில் இருந்து ஹட்டன் நோக்கி அதிவேகத்தில் பயணித்த வான்,  முன்பாக பயணித்த ஓட்டோவை, முறைக்கேடான முறையில் முந்திச்செல்வதற்கு முயன்ற போதே எதிரேவந்த பஸ்ஸூடன் மோதியதில் இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+The driver of the Sri Lanka Transport Board (SLTB) has been hit by a bus and a head injury.
 
-பஸ்ஸூக்கும், வானுக்கும் பலத்த சேதம் ஏற்பட்டுள்ளது எனத்தெரிவித்த ஹட்டன் போக்குவரத்துப் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The driver, who was injured in the accident, has been transferred to the Navalapitiya Hospital for further treatment after being admitted to the Vattawala Hospital.
+
+The buses traveling from Hatton to Colombo and the Sri Lanka Transport Board (SLTB) belonging to the Basu, which was traveled from Ginigathena to Hatton, was trying to overtake Otto, who was traveling in front of Hatton.
+
+Hatton traffic police are conducting further investigations, claiming that the buses and the sky have been severely damaged.
 
 ◼️
 
 [Data](articles/abfa79d4.json)
 
+[Extended Data](ext_articles/abfa79d4.ext.json)
+
 ---
 
-### வளிமண்டலவியல் திணைக்களத்தின் இணையதளம் ஹேக்
+### TV Derana and Ada Derana honored with ‘Abhiman’ Awards for digital presence
+
+*2024-11-12 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103356/tv-derana-and-ada-derana-honored-with-abhiman-awards-for-digital-presence-) · `en`
+
+Sri Lanka’s premium entertainment channel, TV Derana, and its news arm, Ada Derana, garnered top honors at the “Abhiman” Awards 2024, organized by the Rotaract Club of the University of Kelaniya.
+
+Held at the Faculty of Computing and Technology Auditorium of the Kelaniya University on Monday (11), the event recognized the most influential digital content creators in Sri Lanka.
+
+TV Derana clinched the award for Most Popular TV Channel on YouTube, reflecting its dominant presence and engagement on the platform, while Ada Derana secured the award for Most Popular News YouTube Channel, underlining its significant role in digital news media.
+
+Adding to the night’s highlights, musician Suneera Sumanga, the winner of Derana Dream Star Season 7, received the Most Popular Cover Song on YouTube award for his song “Santhana Susum”.
+
+...
+
+[Data](articles/412dbb41.json)
+
+---
+
+### Hague of the Department of Meteorology
 
 *2024-11-12 15:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-இணையதளம்-ஹேக்/175-347006) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Hague: A city in the Netherlands known for its historic center, canals, and windmills. It's also home to the International Court of Justice and the Peace Palace."
+
+🟩
 
 ◼️
 
 [Data](articles/e33f07dc.json)
 
+[Extended Data](ext_articles/e33f07dc.ext.json)
+
 ---
 
-### பரீட்சை திணைக்களம் விடுத்துள்ள விசேட அறிவிப்பு
+### A special notification issued by the Department of Examination
 
 *2024-11-12 15:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-திணைக்களம்-விடுத்துள்ள-விசேட-அறிவிப்பு/175-347005) · `ta`
 
-நவம்பர் 14ஆம் திகதி பரீட்சை சான்றிதழ்கள் வழங்கப்படாது என பரீட்சை திணைக்களம் அறிவித்துள்ளது.
+Here's a summary in 200 characters:
 
-2024ஆம் ஆண்டு பாராளுமன்றத் தேர்தலை முன்னிட்டு, தேர்தல் பணிகளுக்காக திணைக்களப் பணியாளர்கள் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+
+"Exam certificates delayed: Department of Examinations notifies no issuance on Nov 14 due to employee deployment for 2024 parliamentary elections."
+
+🟩
+
+The Department of Examinations has announced that the exam certificates will not be issued on November 14.
+
+The department employees have been deployed for election work in front of the 2024 parliamentary elections.
 
 ◼️
 
 [Data](articles/c833e400.json)
 
+[Extended Data](ext_articles/c833e400.ext.json)
+
 ---
 
-### இயக்குநருக்கு இன்ப அதிர்ச்சி அளித்த ஈழத்து நடிகர் சரண்
+### Eelam actor Saran
 
 *2024-11-12 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198508) · `ta`
 
-'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நடிப்பதற்கு வாய்ப்பளித்த இயக்குநருக்குன்ப அதிர்ச்சி அளித்து, ரசிகர்களை மட்டுமல்லாமல் ஒட்டுமொத்த தமிழ் திரையுலகத்தின் கவனத்தையும் ஈர்த்திருக்கிறார் புலம்பெயர் நடிகர் சரண்.
+Here's a summary of the text in approximately 200 characters:
 
-இயக்குநர் பாலாஜி இயக்கத்தில் உருவாகி இருக்கும் 'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நகுல், சரண், டேனி தயாள், அலெக்ஸ், கோதை சந்தானம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி. கே. மணிகண்டன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சக்தி பாலாஜி இசையமைத்திருக்கிறார்.
 
-வல்துறையின் புலனாய்வு வகைமையிலான இந்த திரைப்படத்தை கோதை எண்டர்டெயின்மெண்ட் மற்றும் எஸ் எம் மீடியா ஃபேக்டரி ஆகிய பட நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
 
-இப்படத்தின் அறிமுக காணொளி பிரத்யேக நிகழ்வாக சென்னையில் நடைபெற்றது. இந்த தருணத்தில் எம் மண்ணில் பிறந்து தற்போது சுவிட்சர்லாந்து நாட்டில் புலம் பெயர்ந்து வாழும் நடிகர் சரண் உள்ளிட்ட பட குழுவினர் பலர் பங்கு பற்றினர்.
+Actor Saran from Eelam has gained popularity in Tamil cinema. He stars in "Dark Heaven" directed by Balaji, alongside Nakul, Danny Dayal, and others. The film's debut was held in Chennai, featuring Saran and crew members born in Switzerland. Director Balaji gifted Saran a zodiac Lakshmi statue as a token of appreciation, symbolizing his success in the industry.
 
-இந்நிகழ்வில் நடிகர் சரண் படத்தின் இயக்குநர் பாலாஜிக்கு இன்ப அதிர்ச்சி அளிக்கும் வகையில் அவர் பயன்படுத்திய மகிழுந்தை மீண்டும் அவருக்கு பரிசாக அளித்தார்
+🟩
+
+Diaspora actor Saran has attracted not only fans but also the attention of the entire Tamil film industry.
+
+Directed by director Balaji, 'Dark Heaven', Nakul, Saran, Danny Dayal, Alex, Gotham Santhanam and many others have been cast.. B.. K. Shakti Balaji has composed the film, which is being recorded by Manikandan.
+
+The film is co -produced by film companies such as Gotham Entertainment and SM Media Factory.
+
+The film's debut video was held in Chennai. Many of the film crews, including actor Saran, were born in Switzerland, who was born in M ​​soil at this moment.
+
+At the event, the director of the film Saran, the director of the film Balaji, re -gifted him with the fun.
+
+Speaking to the film crew, 'Balaji, the director of the film, has sold his glory for the release of' D3 'directed by D3.
+
+He has repeatedly referred to the film crew on the shooting site, 'I have sold my zodiac Lakshmi'.He also noted that he had sold it in a town called Mukkudal near the site of the shooting.
 
 ...
 
 [Data](articles/c5c0b026.json)
+
+[Extended Data](ext_articles/c5c0b026.ext.json)
 
 ---
 
@@ -136,17 +324,55 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-12 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198512) · `ta`
 
-தெலுங்கின் முன்னணி நட்சத்திர நடிகரான அல்லு அர்ஜுன் கதையின் நாயகனாக எக்சன் அவதாரத்தில் நடித்திருக்கும் 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகும் திகதி பிரத்யேகப் புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Allu Arjun's 'Pushpa 2 - The Rule' trailer release date announced. Directed by Sukumar, starring Allu Arjun, Rashmika Mandanna, Fahad Fasil. Music by Devi Sri Prasad. Set to release on December 17th at 6 PM. Expected to break box office records.
+
+🟩
+
+Allu Arjun, Telugu star actor Allu Arjun, has been officially announced with a special photo of the film 'Pushpa 2 -Thi Rule' starring in the Avatar.
 
 இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் பாசில், ராவ் ரமேஷ், சுனில், ஸ்ரீ லீலா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
 
-'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் சுகுமார் ரைட்டிங்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+The film is composed by 'Rock Star' Devi Sri Prasad and is co -produced by Maithri Movie Makers and Sukumar Writings.
 
-பிரம்மாண்டமான பொருட்செலவில் தயாராகி இருக்கும் இந்த திரைப்படத்தின் மீதான எதிர்பார்ப்பு ரசிகர்களிடத்தில் தொடர்ந்து அதிகரித்து வருகிறது.
+The expectation of the film, which is being prepared at a huge cost, continues to rise in fans.
+
+The film, which will be released in Tamil, Telugu, Malayalam, Kannada and Kannada and Hindi on the 5th of December, will be released on the 17th of this month at 6:00 pm.
+
+மேலும் இந்த முன்னோட்டம் இணையத்தில் வெளியான குறுகிய கால அவகாசத்திற்குள் ஐந்து கோடிக்கும் மேற்பட்ட பார்வைகளை பெற கூடும் என்ற எதிர்பார்ப்பும் ஏற்பட்டிருக்கிறது.
 
 ...
 
 [Data](articles/fdec0496.json)
+
+[Extended Data](ext_articles/fdec0496.ext.json)
+
+---
+
+### Police have 64,000 from police for security
+
+*2024-11-12 14:47:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණ-කාල-සීමා​වේ-ආරක්ෂාවට-පොලීසියෙන්-64-000ක්/11-412993) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Approximately 134,000 security personnel (64,000 police + 70,000 others) deployed during elections. 6,000 police officers handle service duties. 10,000 army personnel assist at police stations. Military deployed to secure universities.
+
+🟩
+
+Police Media Spokesperson DIG Talduduwa said about 64,000 police officers have been deployed during the general election period.
+
+"As a whole, the police officers join 64,000 directly. Also, approximately 70,000 security is being used. That is said that about 6,000 have been deployed in police service duties. In addition, the Army has been deployed 10,000 in police stations. In order to be called. Also, the military personnel have been deployed to obtain police officers from those places, especially in the universities.. "
+
+◼️
+
+[Data](articles/659bd575.json)
+
+[Extended Data](ext_articles/659bd575.ext.json)
 
 ---
 
@@ -338,6 +564,22 @@ The Prince Mohamed Bin Salman has criticized the Israeli attacks on Lebanon and 
 
 ---
 
+### Two Chinese women arrested in Kandy for visa violations
+
+*2024-11-12 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103355/two-chinese-women-arrested-in-kandy-for-visa-violations) · `en`
+
+Two foreign national women who had arrived in Sri Lanka on tourist visas and were found engaging in business activities have been arrested in Kandy.
+
+According to the police, the women were apprehended at the Kandy Central Market during a raid carried out based on information received by officers of the Tourist Police in Kandy.
+
+The two women, aged 47 and 48, have been identified as Chinese nationals.
+
+◼️
+
+[Data](articles/7c69a25c.json)
+
+---
+
 ### Abhayan Awards
 
 *2024-11-12 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203175) · `si`
@@ -458,6 +700,24 @@ The film will be released on the 29th of this month at the film House.. It has a
 
 ---
 
+### Met. Department’s website being restored after cyber attack
+
+*2024-11-12 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103354/met-departments-website-being-restored-after-cyber-attack) · `en`
+
+The website of Sri Lanka’s Meteorological Department is currently being restored after a cyber attack disrupted its services early last week.
+
+Sri Lanka Computer Emergency Readiness Team (SL CERT), the country’s lead body for cyber security, said that they’re currently managing the response and recovery efforts.
+
+Senior Information Officer at SL CERT Charuka Damunopola said the attack was reported on November 01, noting that “Due to this cyber attack, changes were detected on the Meteorological Department’s official website. Following preliminary investigations, necessary measures are underway to restore the website, with further inquiries ongoing to assess the full impact.”
+
+Mr. Damunopola confirmed that initial findings indicate no data was accessed or stolen by external parties, however, SL CERT continues to monitor the situation closely to ensure the website’s functionality and security are fully restored.
+
+◼️
+
+[Data](articles/c54474ef.json)
+
+---
+
 ### Two Chinese women arrested
 
 *2024-11-12 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203172) · `si`
@@ -481,6 +741,22 @@ The arrested were two 47-year-old and 48-year-old Chinese women.
 [Data](articles/b71eb583.json)
 
 [Extended Data](ext_articles/b71eb583.ext.json)
+
+---
+
+### UN Security Council considers action on Sudan war
+
+*2024-11-12 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103353/un-security-council-considers-action-on-sudan-war) · `en`
+
+The United Nations Security Council is discussing a British-drafted resolution that demands Sudan’s warring parties cease hostilities and calls on them to allow safe, rapid and unhindered deliveries of aid across front lines and borders.
+
+War erupted in April 2023 from a power struggle between the Sudanese army and the paramilitary Rapid Support Forces ahead of a planned transition to civilian rule, and triggered the world’s largest displacement crisis.
+
+It has produced waves of ethnically driven violence blamed largely on the RSF. The RSF has denied harming civilians in Sudan and attributed the activity to rogue actors. In the first U.N. sanctions imposed during the current conflict, a Security Council committee designated two RSF generals last week.
+
+...
+
+[Data](articles/47e4d1eb.json)
 
 ---
 
@@ -541,6 +817,22 @@ Senior Information Security Officer of the Computer Emergency Response Team is t
 [Data](articles/360bf18b.json)
 
 [Extended Data](ext_articles/360bf18b.ext.json)
+
+---
+
+### 2024 General Election: Process of counting votes explained
+
+*2024-11-12 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103352/2024-general-election-process-of-counting-votes-explained) · `en`
+
+The Chairman of the Election Commission, R.M.A.L. Ratnayake, stated that the counting of votes for the general election will commence at 4.15 p.m. on November 14.
+
+He made these remarks during a special press briefing held today (12) at the Department of Government Information, where he provided updates on the general election.
+
+Ratnayake also informed that the results from polling areas and district-level results will be released to the media only after being re-checked and approved by the Election Commission. Thus, he urged everyone to refrain from releasing unofficial election results.
+
+...
+
+[Data](articles/98adfca9.json)
 
 ---
 
@@ -684,6 +976,20 @@ A fire broke out at the Media Welikada road in Rajagiriya.
 
 ---
 
+### Fire breaks out at garment factory in Rajagiriya
+
+*2024-11-12 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103351/fire-breaks-out-at-garment-factory-in-rajagiriya) · `en`
+
+A fire has reportedly broken out at a temporary garment factory located in a house on Medawelikada Road in Rajagiriya.
+
+Four fire trucks attached to the Kotte Fire Department have been deployed to control the fire, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/0cc93239.json)
+
+---
+
 ### Today's currency exchange rate
 
 *2024-11-12 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198494) · `ta`
@@ -763,6 +1069,26 @@ Gopishankar also serves as the first president of the Sri Lankan section of the 
 [Data](articles/aa7e2ad7.json)
 
 [Extended Data](ext_articles/aa7e2ad7.ext.json)
+
+---
+
+### Sri Lanka discuss execution of ‘parate’ law as suspension ends mid-December
+
+*2024-11-12 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103350/sri-lanka-discuss-execution-of-parate-law-as-suspension-ends-mid-december) · `en`
+
+Sri Lanka’s banks, regulators, and small and medium enterprises have met at the Presidential Secretariat to discuss the execution of ‘parate’ law and the difficulties in loan repayment faced by the SMEs.
+
+The law on parate execution, which allows banks to auction collateral on defaulted loans, has been suspended until December 15, 2025.
+
+According to the President’s Media Division, the meeting, led by the Senior Additional Secretary to the President on Finance and Economic Affairs, G.N.R.D. Aponsu, addressed the financial challenges SMEs face due to loan obligations and explored potential measures to support struggling SMEs before the suspension ends.
+
+It has also been decided to compile a comprehensive report on SME loans from banks to serve as a foundation for future relief efforts.
+
+The statement further noted that the Central Bank of Sri Lanka and various commercial banks are assessing steps needed for the temporary suspension of debt recovery under the Parate law for SME loans.
+
+◼️
+
+[Data](articles/469a18cc.json)
 
 ---
 
@@ -1432,6 +1758,24 @@ According to the police, several STF and RPG weapons were recovered following th
 
 ---
 
+### 70,000 police officers deployed for election security efforts across the island
+
+*2024-11-12 09:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103346/70000-police-officers-deployed-for-election-security-efforts-across-the-island) · `en`
+
+Police Spokesman DIG Nihal Thalduwa announced that approximately 64,000 police officers will be deployed from today (12) to ensure security during the general election across all constituencies.
+
+He stated that “13,383 polling stations have been set up for the total 13,314 constituencies. To cover this period, we deploy police officers on duty on the day of the election and the day after, and if necessary, even after that.”
+
+The deployment includes nearly 3,200 Special Task Force (STF) officers prepared for duty, with 12,227 people directly involved in the election. In total, approximately 70,000 police officers will be involved in election security efforts, according to DIG Thalduwa.
+
+“In addition to the police force, almost 11,000 army personnel are being deployed for the security of hotspots, which are vacated due to the use of police officers for election duties,” DIG Thalduwa explained, adding that “if there is any need, army officers are on standby.”
+
+...
+
+[Data](articles/7637f4bf.json)
+
+---
+
 ### Bingalli knees before Afghanistan
 
 *2024-11-12 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203162) · `si`
@@ -1506,6 +1850,22 @@ Meanwhile, a group of International Superintendents (Anfrel) International Commi
 
 ---
 
+### Substandard Immunoglobulin import: Court orders to record statements from 18 members of former Cabinet
+
+*2024-11-12 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103345/substandard-immunoglobulin-import-court-orders-to-record-statements-from-18-members-of-former-cabinet-) · `en`
+
+The Maligakanda Magistrate’s Court has ordered to record statements from 18 then-Cabinet Ministers pertaining to the alleged importation of substandard human immunoglobulin vials.
+
+The Attorney General’ Department has informed the court that statements are required to be obtained from 18 individuals including former President Ranil Wickremesinghe, former Prime Minister Dinesh Gunawardena, former Ministers Tiran Alles, Mahinda Amaraweera, Wijeyadasa Rajapakse, Harin Fernando, Roshan Ranasinghe and Nimal Siripala who were members of the Cabinet which approved the Cabinet paper presented by former Health Minister Keheliya Rambukwella for the import of the drugs in question.
+
+Maligakanda Magistrate Lochani Abeywickrema who granted permission for the request, ordered to record statements from the 18 former Cabinet members related to the matter.
+
+...
+
+[Data](articles/43fd12a9.json)
+
+---
+
 ### Ranil's cabinet inquiry soon
 
 *2024-11-12 08:55:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணிலின்-அமைச்சரவையிடம்-விரைவில்-விசாரணை/175-346975) · `ta`
@@ -1527,6 +1887,22 @@ The Cabinet's approval for the Cabinet paper submitted by the suspect, Keheliya 
 [Data](articles/25221004.json)
 
 [Extended Data](ext_articles/25221004.ext.json)
+
+---
+
+### Haiti’s main airport shuts down as gang violence surges and a new prime minister is sworn in
+
+*2024-11-12 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103344/haitis-main-airport-shuts-down-as-gang-violence-surges-and-a-new-prime-minister-is-sworn-in) · `en`
+
+Haiti’s international airport shut down on Monday after gangs opened fire at a commercial flight landing in Port-Au-Prince, prompting some airlines to temporarily suspend operations as the country swore in a new interim prime minister who promised to restore peace.
+
+The Spirit Airlines flight headed from Fort Lauderdale, Florida, to Port-Au-Prince was just hundreds of feet from landing in Haiti’s capital when gangs shot at the plane striking a flight attendant, who suffered minor injuries, according to the airline, the U.S. Embassy and flight tracking data. The flight was diverted and landed in the Dominican Republic.
+
+Photos and videos obtained by The Associated Press show bullet holes dotting the interior of a plane.
+
+...
+
+[Data](articles/97d69fcc.json)
 
 ---
 
@@ -2113,355 +2489,5 @@ Throughout his career, Indrarathna has exemplified dedication and integrity, bri
 [Data](articles/ddf3bea9.json)
 
 [Extended Data](ext_articles/ddf3bea9.ext.json)
-
----
-
-### Call from university teachers for commitment to free education
-
-*2024-11-12 03:54:08* · [`dailyftlk`](https://www.ft.lk/opinion/Call-from-university-teachers-for-commitment-to-free-education/14-769152) · `en`
-
-Neither party recognises the dire need to strengthen existing undergraduate programs or develop student support systems at State universities
-
-For nearly two decades, State universities have been under siege. They were targeted by a deliberate campaign of discreditation. Various ‘expert committees’ were set up by incumbent governments to deliberate on the problems in higher education, with minimal involvement of university communities. The sector was increasingly politicised, with undue State involvement in recruitments and appointments.
-
-...
-
-[Data](articles/2b3803ff.json)
-
-[Extended Data](ext_articles/2b3803ff.ext.json)
-
----
-
-### Marikkar warns Govt.’s current path will deter FDIs
-
-*2024-11-12 02:53:19* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-warns-Govt-s-current-path-will-deter-FDIs/56-769143) · `en`
-
-Warns continued borrowing could lead to higher inflation, rising commodity prices, and escalating fuel costs in 2025
-
-Asks President to not repeat promises on campaign trail and now deliver instead
-
-Predicts NPP’s failure to deliver on promises would likely result in reduction in votes for NPP
-
-Samagi Jana Balawegaya (SJB) Colombo district candidate S.M. Marikkar has sharply criticised the current National People’s Power (NPP) Government’s handling of the country’s economy and its failure to meet the promises made to the public.
-
-Addressing a press conference in Colombo yesterday, Marikkar argued that the Government’s current path would prevent foreign investors from coming to Sri Lanka, hinder production, and restrict the growth of exports. He warned that continued borrowing could lead to higher inflation, rising commodity prices, and escalating fuel costs in the coming year.
-
-...
-
-[Data](articles/d192e18e.json)
-
-[Extended Data](ext_articles/d192e18e.ext.json)
-
----
-
-### Kumar Gunaratnam and Dilith unite to demand justice for JVP martyrs
-
-*2024-11-12 02:51:11* · [`dailyftlk`](https://www.ft.lk/news/Kumar-Gunaratnam-and-Dilith-unite-to-demand-justice-for-JVP-martyrs/56-769142) · `en`
-
-Gunaratnam says President Anura Kumara Dissanayake and Govt. bear significant responsibility to investigate deaths of JVP members killed during the 1987–1989 insurrection
-
-Stresses JVP supporters and families are still yearning for justice for all those who gave their lives at the time
-
-Claims FSP is willing to support President in this endeavour
-
-Dilith Jayaweera demands Govt. to appoint commission to investigate deaths of Rohana Wijeweera and other JVP martyrs
-
-Reminds President to show concern for JVP heroes similar to his concern for Waseem Thajudeen, Lasantha Wickramatunge, and Prageeth Ekneligoda
-
-Frontline Socialist Party (FSP) General Secretary Kumar Gunaratnam and Sarvajana Balaya Alliance leader businessman Dilith Jayaweera have called on President Anura Kumara Dissanayake to deliver justice to Janatha Vimukthi Peramuna (JVP) members who lost their lives in the 1987–1989 insurrection, including JVP leader Rohana Wijeweera.
-
-...
-
-[Data](articles/e26ee181.json)
-
-[Extended Data](ext_articles/e26ee181.ext.json)
-
----
-
-### Rohitha Abeygunawardena gets emotional on stage, says ready to serve as Opposition MP
-
-*2024-11-12 02:48:35* · [`dailyftlk`](https://www.ft.lk/news/Rohitha-Abeygunawardena-gets-emotional-on-stage-says-ready-to-serve-as-Opposition-MP/56-769141) · `en`
-
-The New Democratic Front (NDF) Kalutara district candidate Rohitha Abeygunawardena became emotional during a rally recently, as he addressed the crowd in preparation for the upcoming General Election.
-
-He was seen struggling to hold back tears and shakily stated, “I have always stood by the people.” During his address, Abeygunawardena declared his willingness to serve as an Opposition MP, indicating the determination to continue his political journey, regardless of position.
-
-“We are going to do what the Opposition is supposed to do. We are not going to topple the Government. But we urge President Anura Kumara Dissanayake to deliver on those Presidential Election promises without further delaying,” he added.
-
-Abeygunawardena said if the Government manages to deliver on those promises, he would not shy away from acknowledging the integrity of the Government, whilst noting that if it be unsuccessful he will raise his voice at the Parliament stating that the administration failed.
-
-◼️
-
-[Data](articles/ebdc683a.json)
-
-[Extended Data](ext_articles/ebdc683a.ext.json)
-
----
-
-### FRs against Deshabandu’s IGP appointment to be taken up on 24 Feb.
-
-*2024-11-12 02:46:24* · [`dailyftlk`](https://www.ft.lk/news/FRs-against-Deshabandu-s-IGP-appointment-to-be-taken-up-on-24-Feb/56-769140) · `en`
-
-The Supreme Court has scheduled a hearing for the fundamental rights petitions filed by nine parties, including Archbishop of Colombo Malcolm Cardinal Ranjith and the Young Journalists’ Association (YJA), challenging the appointment of Deshabandu Thennakoon as Inspector General of Police (IGP). The petitions will be heard on 24 and 25 February 2025.
-
-A three-judge bench, consisting of Justices Yasantha Kodagoda, Achala Wengappuli, and Arjuna Obeyesekere, reviewed the petitions.
-
-During the proceedings, Additional Solicitor General Nerin Pulle, representing the Attorney General, requested additional time to file objections on behalf of the current President, a respondent in the case. The Court granted this request.
-
-Thennakoon’s legal team filed a motion for a full bench hearing, which the petitioners opposed. The three-judge panel referred the matter to the Chief Justice for a final decision.
-
-...
-
-[Data](articles/1278dde5.json)
-
-[Extended Data](ext_articles/1278dde5.ext.json)
-
----
-
-### CID to probe Channel 4 allegations against ex-SIS Chief Suresh Salley
-
-*2024-11-12 02:45:50* · [`dailyftlk`](https://www.ft.lk/news/CID-to-probe-Channel-4-allegations-againstex-SIS-Chief-Suresh-Salley/56-769139) · `en`
-
-The Criminal Investigation Department (CID) informed the Colombo Fort Magistrate’s Court that it has launched a criminal investigation into the alleged involvement of former State Intelligence Services (SIS) Chief Major General Suresh Salley in the Easter Sunday attacks.
-
-The investigation follows a complaint filed by Centre for Society and Religion Executive Director Rev. Fr. Rohan Silva.
-
-According to CID sources, a statement has been taken from Fr. Silva, who made the complaint in relation to claims made in a Channel 4 documentary implicating Major General Salley in the attacks.
-
-The complaint is based on statements made by Hanzeer Azad Maulana, a former aide to Tamil Makkal Viduthalaip Puligal (TMVP) leader Sivanesathurai Chandrakanthan, also known as Pillaiyan. In the Channel 4 documentary, Maulana accuses Salley of being involved in the attack. Fr. Silva’s complaint calls for an independent investigation into these revelations.
-
-...
-
-[Data](articles/7a991c38.json)
-
-[Extended Data](ext_articles/7a991c38.ext.json)
-
----
-
-### Fresh initiative to diversify Sri Lankan exports in UAE
-
-*2024-11-12 02:43:32* · [`dailyftlk`](https://www.ft.lk/business/Fresh-initiative-to-diversify-Sri-Lankan-exports-in-UAE/34-769138) · `en`
-
-Consulate General of Sri Lanka to Dubai and Northern Emirates supports launch of ‘Naturalz’
-
-Consulate General of Sri Lanka to Dubai and Northern Emirates supported the brand launch of ‘Naturalz’, a venture by NRS Group of Companies, held on 5 November, at the Pullman Hotel, Deira, Dubai.
-
-Naturalz introduced a wide variety of high-quality Sri Lankan products, including fresh fruit pulps, spices, bottled fresh fruits, condiments, and a signature range of ice creams crafted from Sri Lankan fresh fruit pulp. The brand also facilitates the import of perishable items from Sri Lanka to the UAE, including fresh fruits, vegetables, and king coconut, as well as processed foods such as jackfruit.
-
-The ice cream range made exclusively with Sri Lankan fruit pulp, manufactured at a MENA region’s 100% solar powered facility in Sharjah. This unique production facility adheres to the highest standards of sustainability and ensures that all ice cream products are free from preservatives and additives.
-
-...
-
-[Data](articles/4082dda0.json)
-
-[Extended Data](ext_articles/4082dda0.ext.json)
-
----
-
-### AKD declares 14 Nov. election ‘National Shramadana’ to transform SL
-
-*2024-11-12 02:38:36* · [`dailyftlk`](https://www.ft.lk/news/AKD-declares-14-Nov-election-National-Shramadana-to-transform-SL/56-769137) · `en`
-
-Says 21 Sep. political shift has unsettled ruling classes, who anticipated that power would remain within a few influential families
-
-Notes they are now actively hoping for the Govt.’s failure, sentiments he believes stem from disappointment at losing power
-
-Rejects notion that his party lacks capable leaders, says while some NPP candidates may be new to Parliament, they are not new to politics
-
-Assures Govt. will remain strong due to trust placed by people of SL
-
-President Anura Kumara Dissanayake, speaking at the National People’s Party (NPP) final rally in Piliyandala last evening, described the upcoming 14 November Parliamentary Election as crucial to solidifying the recent political shift in Sri Lanka.
-
-Dissanayake called it “an election that must be won,” highlighting that the 21 September Presidential election marked a historic transfer of power from the “corrupt elite” to the people.
-
-...
-
-[Data](articles/0e8ce147.json)
-
-[Extended Data](ext_articles/0e8ce147.ext.json)
-
----
-
-### Kalupahana new Treasurer at OPA
-
-*2024-11-12 02:37:05* · [`dailyftlk`](https://www.ft.lk/news/Kalupahana-new-Treasurer-at-OPA/56-769136) · `en`
-
-Senior Chartered Accountant Chandrasiri Kalupahana was elected uncontested as the Treasurer of the Organisation of Professional Associations of Sri Lanka (OPA) for the year 2024/2025 at its recent Annual General Meeting.
-
-The OPA is the apex body representing 51 professional associations across 34 professions, with a combined membership of over 60,000 professionals. Member associations include, among others, the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), the Bar Association of Sri Lanka (BASL), and the Government Medical Officers’ Association of Sri Lanka (GMOA).
-
-Kalupahana has been an Executive Council Member of the OPA since 2022/2023 and a Forum Member since 2017, representing CA Sri Lanka. Throughout his tenure, he has contributed to several committees, including the Finance and Budget, Annual Conference, and Development Policies and National Financial Budget Committees.
-
-...
-
-[Data](articles/f812550f.json)
-
-[Extended Data](ext_articles/f812550f.ext.json)
-
----
-
-### Lifting import ban on automobiles: Sri Lanka sleepwalks into disaster
-
-*2024-11-12 01:36:22* · [`dailyftlk`](https://www.ft.lk/columns/Lifting-import-ban-on-automobiles-Sri-Lanka-sleepwalks-into-disaster/4-769115) · `en`
-
-Having saddled the nation with a disastrous International Sovereign Bond (ISB) restructuring that ballooned debt repayments by billions (see https://www.ft.lk/columns/Sri-Lanka-s-ISB-restructure-Debt-trap-backed-by-IMF-and-Ceylon-Chamber-of-Commerce/4-768633), the Central Bank Governor (CBSL) now pushes for lifting the import ban on personal vehicles – a blatant kowtow to the IMF’s imperial agenda. Two days after the Governor’s remarks National People’s Power (NPP) Government spokesperson Minister Vijitha Herath announced that the import ban on all vehicles will be lifted by 1 February 2025 as previously proposed by unelected Ranil Wickremesinghe administration.
-
-...
-
-[Data](articles/93eaa892.json)
-
-[Extended Data](ext_articles/93eaa892.ext.json)
-
----
-
-### Why do you need to vote, even if you like politics?
-
-*2024-11-12 01:34:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y3knx0gxqo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Voting matters regardless of political views. Economic policies affect daily life, including housing, transportation, education, healthcare, and taxes. Political decisions impact personal freedoms, opportunities, and quality of life. Voting gives citizens a voice in shaping their country's future.
-
-🟩
-
-Why do you need to vote, even if you like politics?
-
-Are you like this, "I don't like politics,"?"I don't care about politics, I am living,"?
-
-Do you think you don't have to afford to politics?But did you know that politics would affect your everyday life?
-
-Today, young people have the same problem with stabilization.
-
-Many people have still been a dream that many have still been a dream of buying a car, buying a car, rent their own home or rent home.
-
-With the economic situation in the country, you may not be able to meet your expectations on the salary you take. How do you get involved with your expectations this year?
-
-Politics intervenes until selecting a land for building a house. When you get a loan to create a home, the debt interest rates you have to pay for the economic situation in the country. It is through the decision to make your home and the prices of the products and services needed to make.
-
-...
-
-[Data](articles/9160cbbe.json)
-
-[Extended Data](ext_articles/9160cbbe.ext.json)
-
----
-
-### Politicisation of Foreign Service: Multidimensional and systemic challenge
-
-*2024-11-12 01:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Politicisation-of-Foreign-Service-Multidimensional-and-systemic-challenge/4-769114) · `en`
-
-Much of what is sought to be achieved on the foreign relations front would depend on who the ‘right persons’ are to be entrusted with the responsibility of representing Sri Lanka. This is not about missions only, it is also about what should have been the diplomatic powerhouse of Sri Lanka – the Foreign Ministry. I mean the collective, not one individual. It would do well to consider merit alongside probity, astuteness, temperament, maturity and resilience as among criteria for appointment of right persons. These are missing attributes in the Foreign Service nowadays, temperament undoubtedly topping the list. What is denoted by ‘right’ here is the right mix, and not being politically on the right side. The latter of course was the cause of many diplomatic misadventures in the recent past
-
-...
-
-[Data](articles/82d9f9da.json)
-
-[Extended Data](ext_articles/82d9f9da.ext.json)
-
----
-
-### Risad - Mastan supporters clash
-
-*2024-11-12 01:22:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரிசாட்-மஸ்தான்-ஆதரவாளர்கள்-மோதல்/175-346970) · `ta`
-
-Clashes between Risad Mastan supporters in Vavuniya. Two injured, hospitalized. Incident occurred during campaign meeting near Patanichur area. Former Minister Rishad Bathiudeen involved.
-
-🟩
-
-Two persons have been admitted to the hospital after being injured in a confusion in the area where former Minister of State for Minister of State for Minister of State for Patanichur area in Vavuniya.
-
-The campaign meeting of Khadharmastan was held at 8 pm last night near the main road in the Patanichur area of ​​Vavuniya.
-
-After some time, former minister Rishad Bathiudeen and his supporters came to the main street near the area where the vehicle was held.
-
-◼️
-
-[Data](articles/39258466.json)
-
-[Extended Data](ext_articles/39258466.ext.json)
-
----
-
-### Monitoring and following-up spin-off decisions
-
-*2024-11-12 01:21:02* · [`dailyftlk`](https://www.ft.lk/columns/Monitoring-and-following-up-spin-off-decisions/4-769113) · `en`
-
-It was not reported that any of the agencies present at the meeting with the President held on the 14th has commented or qualified the President’s emphasis for a specific sustainable program. This does not mean that nothing has happened in the past or no institutional and regulatory arrangements are in place. Sri Lanka is abundant in the solutions and technologies and legal and institutional network required addressing disaster management
-
-I have worked with all the Executive Presidents except President Gotabaya Rajapaksa (I have no idea whether it was his luck or mine) in different capacities during my tenure in the public service and even afterwards. The way they managed or rather mis-managed the economy was different from one to the other. Late President Ranasinghe Premadasa’s management style was unique, flawless and foolproof. He monitored and followed up each and every decision he made.
-
-...
-
-[Data](articles/ede0f13e.json)
-
-[Extended Data](ext_articles/ede0f13e.ext.json)
-
----
-
-### Foreign direct investment opportunities in Sri Lanka: Sector-by-sector analysis
-
-*2024-11-12 01:14:50* · [`dailyftlk`](https://www.ft.lk/columns/Foreign-direct-investment-opportunities-in-Sri-Lanka-Sector-by-sector-analysis/4-769112) · `en`
-
-Sri Lanka is at a pivotal moment in its economic development journey, with a fresh political climate following recent elections and numerous policy reforms aimed at bolstering foreign direct investment (FDI). The Government has unveiled an agenda that actively encourages international partnerships across key sectors, positioning Sri Lanka as a prime investment destination in South Asia. This comprehensive article explores why the island is strategically attractive to foreign investors and highlights sector-specific opportunities ripe for investment.
-
-...
-
-[Data](articles/a2c225a0.json)
-
-[Extended Data](ext_articles/a2c225a0.ext.json)
-
----
-
-### Relief for small, medium -sized industries
-
-*2024-11-12 00:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-நடுத்தர-தொழில்துறைகளுக்கு-நிவாரணம்/175-346969) · `ta`
-
-Sum:0
-
-🟩
-
-The President's Senior Additional Additional Secretary of the President for Financial and Economic Affairs, GNRT Abonsu and the Ceylon Banks Association, Finance Ministry officials and officials of the Central Bank of Sri Lanka (Central Bank) were held at the Presidential Office yesterday.
-
-The issues faced by small and medium enterprises were discussed here.
-
-The implementation of the Paratete Act is currently suspended and it expires on December 15. The discussion was focused on the next phase of this.
-
-The support of the banking sector to improve the productivity of the economy and the debts obtained by the small and medium enterprises at the present time were discussed.
-
-It was also decided to prepare a debt -related report received by small and medium enterprises in banks.
-
-Currently, the banks have suspended the collection of loans given to small and medium enterprises under the Paratede Act and further related measures are being taken to take further measures.. (A)
-
-◼️
-
-[Data](articles/7ff2c55e.json)
-
-[Extended Data](ext_articles/7ff2c55e.ext.json)
-
----
-
-### Geetanath's appointment as PA
-
-*2024-11-12 00:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுஜன-பெரமுன-அமைப்பாளராக-கீதநாத்-நியமனம்/175-346968) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Geetanath named PA. Party leader Mahinda Rajapaksa appointed. Appointment effective yesterday (11).
-
-🟩
-
-The appointment of the party leader and former president Mahinda Rajapaksa has been appointed.
-
-Accordingly, the appointment has been issued with effect from yesterday (11). (A)
-
-◼️
-
-[Data](articles/994d54fc.json)
-
-[Extended Data](ext_articles/994d54fc.ext.json)
 
 ---

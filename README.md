@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 19:02:28**
+As of **2024-11-12 19:13:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,454 (100.0%) of 54,456 articles have been extended.
+54,456 (100.0%) of 54,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -88,23 +88,35 @@ It is noteworthy that the questionnaire includes many questions about the Nation
 
 ---
 
-### வினாத்தாளில் அரசியல் கட்சி வினாக்கள்
+### Political Party Questions in Questionnaire
 
 *2024-11-12 18:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளில்-அரசியல்-கட்சி-வினாக்கள்/175-347016) · `ta`
 
-களுத்துறையிலுள்ள பாடசாலை ஒன்றின் இரண்டாம் தவணைப் பரீட்சை வினாத்தாளில் அரசியல் கட்சி தொடர்பான கேள்விகள் உள்ளடக்கப்பட்டமை தொடர்பில் அமைச்சு மட்ட விசாரணை நடத்தப்பட உள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+Here's a summary in 200 characters:
 
-இது தொடர்பில் அமைச்சின் செயலாளர் திலகா ஜயசுந்தர உரிய அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளதாக கல்வி அமைச்சு அறிக்கையொன்றை வெளியிட்டுள்ளது.
 
-இதன்படி, களுத்துறை மாவட்டத்தில் உள்ள CWW கன்னங்கர மத்திய கல்லூரியின் உயர்தர மாணவர்களின் இரண்டாம் தவணை பொது அறிவுப் பரீட்சை வினாத்தாளில் அரசியல் தொடர்பான வினாக்கள் உள்ளடக்கப்பட்டுள்ளமை தொடர்பில் விசாரணை நடத்தப்படவுள்ளது.
 
-கல்வி அமைச்சின் செயலாளர் வினாத்தாள் பாடசாலை அதிகாரிகளால் அமைக்கப்பட்டுள்ளதாகவும், அது அமைச்சு அல்லது வேறு எந்த நிறுவன மட்டத்திலும் இணைக்கப்படவில்லை என்றும் சுட்டிக்காட்டியுள்ளார்.
+Education Ministry probes Kalutara school over political questionnaire. Inquiry focuses on questions about National People's Power Party and last presidential election. School officials deny Ministry involvement. Investigation ongoing.
 
-அமைச்சு மட்டத்தில் முறையான விசாரணை நடத்தப்பட்ட பின்னர் இது தொடர்பாக உரிய நடவடிக்கை எடுக்கப்படும் என அவர் மேலும் தெரிவித்தார்.
+🟩
 
-...
+The Ministry of Education has announced that the Ministry of Education will be conducting a ministry level inquiry into the second term of a school in Kalutara.
+
+The Ministry of Education has issued a statement that the Secretary to the Ministry Tilaka Jayasundera has issued a directive to the relevant authorities.
+
+Accordingly, the second installment of the high -quality students of the CWW Gunnangara Central College in the Kalutara District is to be investigated on the inclusion of political questions.
+
+The Secretary of the Ministry of Education pointed out that the questionnaire was set up by the school officials and that it was not connected to the Ministry or any other institutional level.
+
+He added that appropriate action will be taken after a proper investigation at the ministry level.
+
+It is noteworthy that the questionnaire includes many questions about the National People's Power Political Party, President Anura Kumara Dissanayake and the last presidential election.
+
+◼️
 
 [Data](articles/a42bee71.json)
+
+[Extended Data](ext_articles/a42bee71.ext.json)
 
 ---
 
@@ -448,19 +460,35 @@ The Achuveli Central College Hall 2 Voting Center has been shifted to the Achchu
 
 ---
 
-### චීන්නු වීස්සකට ලක්ෂය බැගින් දඩ, ලක්ෂ පහක ශරීර ඇප සහ පනස් දහසක බැගින් මුදල් ඇප
+### Chinese labor bail labor bail and fifty thousand
 
 *2024-11-12 16:39:39* · [`adalk`](https://www.ada.lk/breaking_news/චීන්නු-වීස්සකට-ලක්ෂය-බැගින්-දඩ--ලක්ෂ-පහක-ශරීර-ඇප-සහ-පනස්-දහසක-බැගින්-මුදල්-ඇප/11-412997) · `si`
 
-වීසා බලපත් නොමැතිව ජංගම දුරකථන 436 ක් සහ  පරිඝණක උපාංග රාශියක් සමග අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාර ගතකර සිටී චීන ජාතිකයින් විසි දෙදෙනකු හට  පානදුර අතිරේක මහේස්ත්‍රාත් ලහිරු එන් සිල්වා මහතා විසින්  රුපියල් ලක්ෂය  බැගින් රුපියල් ලක්ෂ විස්සක දඩ නියම කලේය.
+Here's a summary of the text in approximately 200 characters:
 
-මෙසේ දඩ නියම කෙරුණේ චාඕ ලී,  ජියූෆෙන් යූ, ඩවේ කායි, ගුන්ග්මින් වූ, බිආඕ ෂෙන්ග්, බාඔහොන් ලියූ, පින්ග් වෙන්, යෑන් ෆෑන්, ලිංග්ෆීන් වෙන්, සියෝන්ග්ෆි ලී, යු ඈන්ග්ලී යෑන්ග්, කොන්ග් ෂේන්, යූ ටෑන්, ෂින්ග් ෂොයූ, හයිලොන්ග් වැන්ග්,කයියාන් ෂේන් , ක්වින්ග් ෂාහූ, ලොන්ෆා ලියෑන්ග්, සයිබාඕ හී සහ ජූන් ෆෙන්ෆ් නැමැති චීන ජාතිකයින් පිරිසකි.
 
-සැකකාර චීන ජාතිකයින් විසි දෙනා වලංගු වීසා බලපත් නොමැතිව පානදුර ගොරකාන ප්‍රදේශයේ සංචාරක හෝටලයක නවාතැන් ගෙන සිටියදී ඉකුත් ඔක්තෝබර් 9  දින ජංගම දුරකථන 436 ක් සහ පරිඝණක උපාංග තොගයක් සමග අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරිමෙන් පසු රිමාන්ඩ් බන්ධනාගාර ගතකර තිබුණි .
 
-...
+Additional Magistrate Lahiru N. Silva fined Chao Le Lee for illegal possession of 436 mobile phones and computers. Bail set at Rs. [amount]. Case adjourned until January 17. Police officers Sanjeewa and Pushpakumara presented evidence.
+
+🟩
+
+The Additional Magistrate Lahiru N. Silva was fined Rs.
+
+The fined, Chao Le Lee, Juffen, Gangan, Bio, Bio, Bio, and Zhene, Years, Shing Shooou, Hyylon Wang,Kyan Shane, Kyan Shane, Kyan Shaheth, Lonfa Lang, SiBa and Jun Fenff.
+
+He remanded after 436 mobile phones and computers were produced before the court on October 9, while he was staying at a tourist hotel in Panadura, Panadura.
+
+The Magistrate also issued a bail of bail of Rs.
+
+The Hon. Court was granted permission to be allowed to permit the mobile phones and computer crime that had been submitted to the University of Moratuwa and had been submitted to the University of Moratuwa.
+
+Police Inspector Sanjeewa and Constable Sumith Pushpakumara (32119) was reported to the court. The case is due to be released on January 17.
+
+◼️
 
 [Data](articles/40968017.json)
+
+[Extended Data](ext_articles/40968017.ext.json)
 
 ---
 

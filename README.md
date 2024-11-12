@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 05:10:17**
+As of **2024-11-12 05:49:45**
 
 ## Newspaper Stats
 
-*Scraped **54,311** Articles*
+*Scraped **54,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 422
 bbccomsinhala | 553
 colombotelegraphcom | 554
-islandlk | 3,245
+islandlk | 3,254
 economynextcom | 3,290
 dailyftlk | 3,725
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,472
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,311 (100.0%) of 54,311 articles have been extended.
+54,311 (100.0%) of 54,320 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -354,6 +354,28 @@ Accordingly, the appointment has been issued with effect from yesterday (11). (A
 
 ### 2024-11-11 (Monday)
 
+### Sri Lanka President reveals IMF review, budget timelines
+
+*2024-11-11 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-reveals-imf-review-budget-timelines-186951/) · `en`
+
+ECONOMYNEXT – Sri Lanka President President Anura Kumara Dissanayake said the government expects to complete the third review for the International Monetary Fund (IMF) loan by early February 2025 and present a full year budget in the same month.
+
+The third IMF review was to be completed by October, but the parliament election has delayed the process after the September 21 presidential poll and upcoming Thursday parliamentary election.
+
+“Two days after the (Parliament) election, an IMF delegation will come to Sri Lanka. We will complete the third review by the end of January or early February,” the President said in Sri Lanka’s Western district of Gampaha when he addressed a parliamentary election campaign meeting.
+
+“We will present a vote-on-account for four months in December. We expect to approve a new budget in February.”
+
+“In the budget, we will reduce PAYE tax in a fair manner. Similarly, we will definitely raise the wages of government servants.”
+
+...
+
+[Data](articles/79279187.json)
+
+[Extended Data](ext_articles/79279187.ext.json)
+
+---
+
 ### Suresh Premachandran is the country's degradation if JVP gets more seat
 
 *2024-11-11 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198473) · `ta`
@@ -478,28 +500,6 @@ The police arrived at the scene and had taken steps to control the situation.Two
 
 ---
 
-### Sri Lanka President reveals IMF review, budget timelines
-
-*2024-11-11 23:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-reveals-imf-review-budget-timelines-186951/) · `en`
-
-ECONOMYNEXT – Sri Lanka President President Anura Kumara Dissanayake said the government expects to complete the third review for the International Monetary Fund (IMF) loan by early February 2025 and present a full year budget in the same month.
-
-The third IMF review was to be completed by October, but the parliament election has delayed the process after the September 21 presidential poll and upcoming Thursday parliamentary election.
-
-“Two days after the (Parliament) election, an IMF delegation will come to Sri Lanka. We will complete the third review by the end of January or early February,” the President said in Sri Lanka’s Western district of Gampaha when he addressed a parliamentary election campaign meeting.
-
-“We will present a vote-on-account for four months in December. We expect to approve a new budget in February.”
-
-“In the budget, we will reduce PAYE tax in a fair manner. Similarly, we will definitely raise the wages of government servants.”
-
-...
-
-[Data](articles/79279187.json)
-
-[Extended Data](ext_articles/79279187.ext.json)
-
----
-
 ### Sri Lanka President says to complete debt restructuring by December 2024
 
 *2024-11-11 22:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-to-complete-debt-restructuring-by-december-2024-186949/) · `en`
@@ -521,6 +521,32 @@ From the time of the default about 1.8 billion dollars of coupons interest has a
 [Data](articles/baf19161.json)
 
 [Extended Data](ext_articles/baf19161.ext.json)
+
+---
+
+### Cherry & The Bees…
+
+*2024-11-11 22:17:00* · [`islandlk`](http://island.lk/cherry-the-bees/) · `en`
+
+Cherrie Chamari, a Sri Lanka Living in Melbourne, Australia, has got herself a band and they operate as Cherry & The Bees.
+
+Although Cherrie, originally from Dehiwela, is seen and heard quite often in the music scene, especially in Melbourne, her day time job keeps her busy.
+
+“I was having a busy routine with work so couldn’t focus on my music the past few months but now things are kind of settling down and that’s the reason I decided to have my own band.”
+
+She went on to say that Cherry & The Bees have already been booked for a New Year’s Eve event.
+
+She did one recently with Sharmalee De Silva, who is based in Germany, called ‘Kandulu Pisala Gannam.’
+
+According to Sharmalee, they did the song as a celebration of their friendship, in the music industry.
+
+“Cherrie and I have performed together, on several occasions, not in Sri Lanka, but abroad.”
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+...
+
+[Data](articles/680949c4.json)
 
 ---
 
@@ -570,6 +596,20 @@ The Tamil National Alliance was formed by the leader for the unity of the Tamil 
 
 ---
 
+### Cinnamon Citadel Kandy celebrates the Season with annual Christmas Cake Mixing Ceremony
+
+*2024-11-11 22:04:00* · [`islandlk`](http://island.lk/cinnamon-citadel-kandy-celebrates-the-season-with-annual-christmas-cake-mixing-ceremony/) · `en`
+
+Cinnamon Citadel Kandy, part of Cinnamon Hotels & Resorts, hosted its cherished annual Christmas Cake Mixing Ceremony, recently, welcoming the season in grand style. This year’s event not only celebrated the spirit of Christmas but also honoured the resort’s recent accolade as South Asia’s Leading Riverfront Hotel/Resort at the South Asian Travel Awards (SATA) 2024. Set against the breathtaking backdrop of the Mahaweli River, the occasion brought together loyal guests and resort staff for a memorable day of festivities.
+
+The event commenced with an enchanting dance performance by students from the Senkadagala Special School, setting a joyous tone. Guests were then guided along the scenic Mahaweli River to the cake mixing area. In a unique tribute to the SATA award, a ceremonial boat delivered the trophy down the river, honouring Cinnamon Citadel Kandy’s distinction as the South Asian region’s premier riverfront destination.
+
+...
+
+[Data](articles/7173da1a.json)
+
+---
+
 ### Namal requests the government to fulfill the promises given to the people
 
 *2024-11-11 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203153) · `si`
@@ -589,6 +629,34 @@ He made this request participating in a public briefing in Matugama today.
 [Data](articles/36097d35.json)
 
 [Extended Data](ext_articles/36097d35.ext.json)
+
+---
+
+### NCCSL workshop on Market Research Insights and Analytics for Business Competitiveness
+
+*2024-11-11 21:58:00* · [`islandlk`](http://island.lk/nccsl-workshop-on-market-research-insights-and-analytics-for-business-competitiveness/) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a comprehensive workshop titled “Market Research Insights and Analytics for Business Competitiveness” on November 7, 2024, at the National Chamber Auditorium. The event attracted participants from diverse industries, including entrepreneurs, brand management, marketers, and business development professionals, all aiming to enhance their strategic approaches through effective market research. The workshop focused on understanding market opportunities and consumer behavior, offering hands-on experience in designing research processes and using advanced technology for data analysis.
+
+...
+
+[Data](articles/7e15019f.json)
+
+---
+
+### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
+
+*2024-11-11 21:54:00* · [`islandlk`](http://island.lk/imf-delegations-impending-visit-to-sri-lanka-sends-positive-vibes-to-stock-market/) · `en`
+
+The stock market moved to positive territory yesterday in anticipation of favourable corporate quarter results and a sense of optimism stemming from the high level IMF delegation’s visit to Sri Lanka after the election to review the third tranche for Sri Lanka, market analysts said.
+
+Due to these factors the stock market moved upwards and investor confidence seemed to be gathering momentum. Both indices moved upwards. The All Share Price Index went up by 73.86 points while S and P SL20 rose by 43.94 points. Turnover was Rs 2.42 billion with four crossings.
+
+Those crossings were reported in HNB, which crossed 2.31 million shares to the tune of Rs 528 million; its shares traded at Rs 228, Pan Asia Bank 1.9 million shares crossed for Rs 49.4 million; its shares traded at Rs 26, Commercial Bank 200,000 shares crossed for Rs 23.4 million; its shares sold at Rs 117 and Lanka Aluminium 750,000 shares crossed to the tune of Rs 20 million; its shares sold at Rs 26.50.
+
+...
+
+[Data](articles/b74daa8e.json)
 
 ---
 
@@ -839,6 +907,24 @@ The counsel representing the Department of Revenue informed the court that a sea
 [Data](articles/aa2a1d74.json)
 
 [Extended Data](ext_articles/aa2a1d74.ext.json)
+
+---
+
+### Government prioritizes relief for Small and Medium Enterprises in Sri Lanka
+
+*2024-11-11 20:32:00* · [`islandlk`](http://island.lk/government-prioritizes-relief-for-small-and-medium-enterprises-in-sri-lanka/) · `en`
+
+A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
+
+The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs,  G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited.
+
+The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
+
+Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15. The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
+
+...
+
+[Data](articles/2391bf9b.json)
 
 ---
 
@@ -2221,109 +2307,5 @@ The official dog was staying on a three-kilometer route, alongside another by ro
 [Data](articles/7e8b8d54.json)
 
 [Extended Data](ext_articles/7e8b8d54.ext.json)
-
----
-
-### Actor Pradeep Ranganathan starrer 'Dragon' update
-
-*2024-11-11 14:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198422) · `ta`
-
-"Pradeep Ranganathan stars in 'Dragon', alongside Anupama Parameswaran. Directed by Aswath Marimuthu, featuring a star-studded cast including Ravikumar, Menon, Mishkin, and others. Leon James composed the music, produced by Kalpathi S. Ganesh and Suresh. Tasks completed, awaiting release."
-
-🟩
-
-Pradeep Ranganathan, who played the role of a director and actor in the first film, has taken a huge success with the film 'Dragon'.
-
-Pradeep Ranganathan and Anupama Parameswaran have played the lead roles in the upcoming film 'Dragon' directed by director Aswath Marimuthu.. Directors and actors. S.. Ravikumar, Gautham Vasudev Menon, Mishkin, Actress Gayadu Loger, George Marian, Indumati, VJ Sidhu and Harshad Khan.
-
-Leon James has composed the film, which is being recorded by Niket Pommy, and the film is based on Romantic Janer.. Akoram, Kalpathi S. Ganesh, Kalpathi S. Suresh, co -produced.
-
-All the tasks of the film are completed and waiting for the release soon. In this case, the film crew has released the star actors and the names of the character they are loaded with with a special photo.. This has increased the expectation of the film.
-
-◼️
-
-[Data](articles/fc20ce7d.json)
-
-[Extended Data](ext_articles/fc20ce7d.ext.json)
-
----
-
-### Court orders Sujeewa's car to take over the CID
-
-*2024-11-11 14:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203134) · `si`
-
-Sujeewa Senasinghe, former MP, arrested by CID. Ordered to appear in court. Motor vehicle investigation criticized by Medarantriar department.
-
-🟩
-
-Former parliamentar MP Sujeewa Senasinghe has been taken into custody by the CID and produced before the CID to be produced before the Fort Magistrate's Court.
-
-The Medarantriar department critches investigations into the motor vehicle
-
-◼️
-
-[Data](articles/cf5eed00.json)
-
-[Extended Data](ext_articles/cf5eed00.ext.json)
-
----
-
-### This is how the Parliamentary will work after the election
-
-*2024-11-11 14:19:55* · [`adalk`](https://www.ada.lk/opinion/මැතිවරණයෙන්-පසුව-පාර්ලමේන්තුවේ-වැඩ-වෙන්නේ-මෙහෙමයි/2-412972) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Election process: 225 members elected Nov 14. First session starts Nov 21. Speaker elected through secret vote. Traditionally, Speaker thanks church before taking office. Other roles like Deputy Speaker also elected. Parliament adjourns after initial proceedings. President may suspend Parliament temporarily.
-
-🟩
-
-The General Elections held to elected Members of Parliament for the Third Parliament will be held on November 14. The total number of members of the parliament, including 196 people who are elected by popular vote and 29 national list becomes 225.
-
-The first Parliament of the Third Parliament participated by the President is to commence on November 21, 20.04.2013, a special gazette notification No.. The first day of the first meeting of Parliament is very important that there is a number of special work on that day.
-
-The main responsibility of the first day is to be assigned to the Secretary General of Parliament. Members of Parliament there is no seating order for MPs on the first day and MPs have the opportunity to sit on a pretext. After the deposition of the Mace is buried in the Chamber, the General Secretary of the President presents the first task on the date on the date on the day.
-
-...
-
-[Data](articles/692d5826.json)
-
-[Extended Data](ext_articles/692d5826.ext.json)
-
----
-
-### Alikotaara reservoir
-
-*2024-11-11 14:12:02* · [`adalk`](https://www.ada.lk/breaking_news/අලිකොටආර-ජලාශය-වාන්-දමයි/11-412971) · `si`
-
-Akikotaara reservoir Uma Oya Project under construction controls floods three rivers
-
-🟩
-
-The Akikotaara reservoir in the Uma Oya Project is currently under wands these days. The reservoir, the reservoir, has opened all three of the rivers to control the floods with the water of the tank.
-
-The engineer further requests the people who use the reservoir and the reservoir.
-
-◼️
-
-[Data](articles/361e215c.json)
-
-[Extended Data](ext_articles/361e215c.ext.json)
-
----
-
-### Court orders to seize Sujeewa Senasinghe’s controversial vehicle
-
-*2024-11-11 14:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103328/court-orders-to-seize-sujeewa-senasinghes-controversial-vehicle) · `en`
-
-The Fort Magistrate’s Court has ordered the Criminal Investigations Department (CID) to take former MP Sujeewa Senasinghe’s controversial vehicle into custody and produce it before the court, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/fae2e9ab.json)
-
-[Extended Data](ext_articles/fae2e9ab.ext.json)
 
 ---

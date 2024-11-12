@@ -1,156 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 16:58:04**
+As of **2024-11-12 16:25:09**
 
 ## Newspaper Stats
 
-*Scraped **54,433** Articles*
+*Scraped **54,428** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
+bbccomsinhala | 555
 colombotelegraphcom | 555
-bbccomsinhala | 556
 islandlk | 3,254
-economynextcom | 3,298
+economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,090
 adaderanalk | 6,495
 tamilmirrorlk | 7,613
 virakesarilk | 8,827
-adaderanasinhalalk | 9,498
+adaderanasinhalalk | 9,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,419 (100.0%) of 54,433 articles have been extended.
+54,413 (100.0%) of 54,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### අනවශ්‍ය වැඩ කරපු නිසා තමයි මෙහෙම වුණේ - රේගු වෘත්තීය සමිති
-
-*2024-11-12 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203181) · `si`
-
-අමාත්‍ය විජිත හේරත් මහතා ඉකුත් 07 වනදා කොළඹ වරායේ සිදුකළ නිරීක්ෂණ චාරිකාවේදී රේගු නිලධාරීන් පිළිබඳව විවිධ පාර්ශ්වවලින් එල්ලවූ චෝදනා තරයේ ප්‍රතික්ෂේප කරන බව රේගු වෘත්තීය සමිති සන්ධානය පවසයි.
-
-ඒ ඔස්සේ ජනගත වූ සාවද්‍ය කරුණු පිළිබඳව රේගු වෘත්තීය සමිති සන්ධානයේ බලවත් අප්‍රසාදය පළ කර කරන බවද නිවේදනයක් නිකුත් කරමින් රේගු වෘත්තීය සමිති සන්ධානය පැවසීය.
-
-කොළඹ වරාය පරිශ්‍රයෙන් බහාලුම් නිදහස් කිරීමේ ක්‍රමවේදය විධිමත් කිරීමේ එක් පියවරක් ලෙස කෙරවළපිටියේ බහාලුම් පරික්ෂා කිරීමේ අංගනයක් ස්ථාපනය කිරීමට 2022 වසරේදී යෝජනා ඉදිරිපත් කළේය.
-
-නමුත් යෝජනාව ඉදිරිපත් කර වසර තුනකට ආසන්න කාලයක් ගතවී ඇතත් මෙම ගැටලු විසඳීමට ස්ථිරසාර විසඳුමක් ලබාදීමට පැවැති රජයන් මෙන්ම පසුගිය වසර දෙකක කාලය තුළ සිටි රේගු අධ්‍යක්ෂ ජනරාල්තුමා ප්‍රමුඛ ඉහළ පරිපාලනය කටයුතු කර නොමැත.
-
-බහාලුම් නිෂ්කාශන ක්‍රියාවලිය සුමට කිරිමෙහිලා ඉතා වැදගත් සන්ධිස්ථානයක් වන කෙරවළපිටිය අංගනයට අදාළ යෝජනාව වසර ගණනාවක් තිස්සේ ප්‍රමාද වීම හරහා මේ පසුපස අදිසි හස්තයක් ක්‍රියාත්මක වන බවට සාධාරණ සැකයක් උද්ගතවී ඇත.
-
-...
-
-[Data](articles/3100065b.json)
-
----
-
-### Sri Lanka sells Rs132.5bn in 2028 and 2032 bonds
-
-*2024-11-12 16:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs132-5bn-in-2028-and-2032-bonds-187033/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 132.5 billion rupees in 2028 and 2032 bonds, data from the state debt office showed.
-
-All offered 85 billion rupees of 01 May 2028 bonds were sold at an average yield of 11.63 percent.
-
-All offered 47.5 billion rupees of 01 October 2032 bonds were sold at an average yield of 12.32 percent.
-
-An issuance window for the ISINs LKB01528E016 and LKB02032J017 is open until close of business of day
-
-prior to settlement date (i.e., 4.00 pm on 14.11.2024) at the Weighted Average Yield Rates (WAYRs)
-
-determined for the said ISINs at the auction, up to 10% of the respective amounts offered, the debt office said.
-
-◼️
-
-[Data](articles/cff5066a.json)
-
----
-
-### Court order on a gazette notification issued by the government
+### පසුගිය රජය නිකුත්කළ ගැසට් නිවේදනයක් සම්බන්ධයෙන් අධිකරණ නියෝගයක්
 
 *2024-11-12 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203180) · `si`
 
-Supreme Court extends Wildlife Ministry injunction on prawn farm. Gazette notification released 168 acres Vedithalthivu Forest Reserve. Government reviews notification. Wildlife Security Society, Environment Justice Center present petitions against former Wildlife Minister.
+ඉස්සන් ගොවිපොළක් නිර්මාණය කිරීමට විල්පත්තුව ආශ්‍රිත වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් බිම් කොටසක් මුදාහැරීමට ඉකුත් රජයේ වනජීවී අමාත්‍යංශය විසින් නිකුත් කළ ගැසට් නිවේදනයක් ක්‍රියාත්මක වීම වළක්වාලමින් පනවා තිබූ අතුරු තහනම් නියෝගය ශ්‍රේෂ්ඨාධිකරණය විසින් දීර්ඝ කර තිබේ.
 
-🟩
+වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් අක්කර 168 ක් මුදා හැරීම සඳහා අදාළ ගැසට් නිවේදනයක් නිකුත් කර තිබී ඇත.
 
-The Supreme Court has extended the interim injunction order issued by the Wildlife Ministry to create a prawn farm.
+එස්. තුරෙයිරාජා, ඒ. එච්.එම්.ඩී. නවාස් සහ ජනක් ද සිල්වා යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම අද (12) කැඳවා ඇති අතර එහිදී නියෝග කර ඇත්තේ පනවා තිබූ අතුරු තහනම් නියෝගය ජූලි මස 29 වනදා දක්වා දීර්ඝ කරණ ලෙසටය.
 
-A gazette notification has been issued to release 168 acres from the Vedithalthivu Forest Reserve forest area.
+එම අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් ෆස්ලි රසික් මහතා සඳහන් කළේ මෙම ගැසට් නිවේදනය සම්බන්ධයෙන් යළි සමාලෝචනයක් සිදුකිරීමට නව රජය තීරණය කර ඇති බවය.
 
-S. Turairaja, A. HMD. The petition has been convened today before the Supreme Court Bench, the Supreme Court Bench, which is accompanied by Nawaz and Janak de Silva.
+ඒ අනුව මෙම නඩුකරයට අදාළ මීළඟ පියවර දැනුම්දීම සඳහා දිනයක් ලබාදෙන ලෙසත් නියෝජ්‍ය සොලිසිටර් ජනරාල්වරයා අධිකරණයෙන් ඉල්ලා තිබේ.
 
-Deputy Solicitor General, Fastly General, appearing on behalf of the Attorney General, said the new government has decided to review this gazette notification.
-
-Accordingly, the Deputy Solicitor General has asked the court to give the next step in notifying the following steps.
-
-These petitions were presented by the Wildlife Security Society and the Environment Justice Center.
-
-Former Wildlife Minister, including the Minister, has been named as respondents.
-
-◼️
+...
 
 [Data](articles/a91d11e1.json)
 
-[Extended Data](ext_articles/a91d11e1.ext.json)
-
 ---
 
-### "Dick Tok" love;Pupilism
+### “டிக் டொக்” காதல் ; மாணவி பாலியல் வன்கொடுமை
 
 *2024-11-12 16:11:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்-டொக்-காதல்-மாணவி-பாலியல்-வன்கொடுமை/175-347011) · `ta`
 
-Here's a summary in 200 characters:
+“டிக் டொக்” இணையத்தளம் ஊடாக அறிந்துக்கொண்ட, அநுராதபுரம் அலையாபத்து பிரதேசத்தை சேர்ந்த 14 வயதுடைய  பாடசாலை மாணவியை , இரத்தினபுரி பிரதேசத்தைச் சேர்ந்த இளைஞன் ஒருவன் பாலியல் வன்கொடுமை செய்துள்ளதாக  பொலிஸார் தெரிவித்தனர்.
 
+குறித்த மாணவி , பாடசாலைக்கு வராமல் இளைஞனொருவனுடன் சென்றுவிட்டு மறுநாள் பாடசாலைக்கு வந்ததாக அதிபர் செய்த முறைப்பாட்டின் அடிப்படையில்  விசாரணைகள் ஆரம்பிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
 
+“டிக் டொக்” இணையத்தளம் ஊடாக அறிந்துக்கொண்ட  இளைஞனுடன்  மாணவி காதல் உறவில் ஈடுபட்டு வந்துள்ளதுடன் , அவருடைய நிர்வாண புகைப்படங்களையும் இளைஞனுக்கு அனுப்பியுள்ளார்.
 
-"14-year-old girl from Anuradhapura learns via 'Dick Tok'. Raped by Ratnapura youth. Police investigate after Chancellor complaint. Girl sent naked photos to suspect. Police summon suspect from Kurunegala."
-
-🟩
-
-A 14 -year -old schoolgirl from Alaiyapattu area of ​​Anuradhapura, who was learning through the "Dick Tok" website, has been raped by a youth from Ratnapura, a youth from Ratnapura has been raped.
-
-Investigations have begun based on the complaint made by the Chancellor that the student went to school the next day without going to school.
-
-The student has been in love with a young man who has learned through the "Dick Tok" website and sent his naked photos to the young man.
-
-Further investigations are being carried out by the police that the young man who threatened to publish the photos to the homepage has been summoned to the Kurunegala area.
+பின்னர் குறித்த புகைப்படங்களை முகப்புத்தகத்திற்கு வெளியிடுவதாக கூறி அச்சுறுத்திய  இளைஞன் மாணவியை,  குருநாகல் பகுதிக்கு வரவழைத்து   பாலியல் வன்கொடுமை செய்துள்ளதாக தெரிவித்த பொலிஸார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/5c0ca881.json)
-
-[Extended Data](ext_articles/5c0ca881.ext.json)
-
----
-
-### Sri Lanka’s CEB restructure faces execution risk, BB+(lka) rating confirmed: Fitch
-
-*2024-11-12 15:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-restructure-faces-execution-risk-bblka-rating-confirmed-fitch-187020/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board’s re-structuring faces execution risk, Fitch Ratings said, while confirming its ‘BB+(lka) rating on expected state support.
-
-“The new Electricity Act includes provisions to unbundle CEB’s generation, transmission and distribution into separate entities,” Fitch said.
-
-“We believe the unbundling will improve CEB’s efficiency and competitiveness. The utility is already preparing separate financials, maintains separate bank accounts and is in the process of allocating assets and liabilities for the three units.
-
-“However, we believe the restructuring faces execution risk and may be contingent on the outcome of Sri Lanka’s general election on 14 November.”
-
-A deviation from cost reflective tariffs is risk to the CEB’s balance sheet.
-
-“CEB has operated on a cost-reflective tariff mechanism since June 2023, which is revised quarterly to ensure operating costs are covered,” Fitch said.
-
-...
-
-[Data](articles/76ed2d7a.json)
 
 ---
 
@@ -167,8 +83,6 @@ Furthermore, the examination department stated that all service counters and the
 ◼️
 
 [Data](articles/53010031.json)
-
-[Extended Data](ext_articles/53010031.ext.json)
 
 ---
 
@@ -214,33 +128,21 @@ This visit highlights the United States’ commitment to empowering young leader
 
 [Data](articles/1efe18ac.json)
 
-[Extended Data](ext_articles/1efe18ac.ext.json)
-
 ---
 
-### Ministry at Ministry at Ministry at Ministry Question Paper
+### සමාජයේ කතාබහට ලක්වූ විභාග ප්‍රශ්න පත්‍රය ගැන අමාත්‍යාංශ මට්ටමින් පරීක්ෂණයක්
 
 *2024-11-12 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාජයේ-කතාබහට-ලක්වූ-විභාග-ප්‍රශ්න-පත්‍රය-ගැන-අමාත්‍යාංශ-මට්ටමින්-පරීක්ෂණයක්/11-412994) · `si`
 
-Here's a summary in 200 characters:
+කළුතර දිස්ත්‍රික්කයේ සී.ඩබ්ලිව්.ඩබ්ලිව්.කන්නන්ගර මධ්‍ය විද්‍යාලයේ දෙවැනි වාර පරීක්ෂණයේදී උසස් පෙළ දරුවන්ට ලබා දුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට දේශපාලන පක්ෂයකට සම්බන්ධ ප්‍රශ්න 05ක් අන්තර්ගත වීම පිළිබඳව අමාත්‍යාංශ මට්ටමින් කඩිනම් පරීක්ෂණයක් ආරම්භ කිරීමට උපදෙස් ලබා දී තිබේ.
 
+අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිට අදාළ නිලධාරීන්ට මෙලෙස උපදෙස් ලබා දී ඇත.
 
-
-Education Ministry orders probe into controversial exam paper. Education Secretary Thilaka Jayasundara instructs officials to investigate. Minister denies involvement in paper preparation.
-
-🟩
-
-The second period in the second period of the CWW W.KL Kindara Central College, Kalutara District has been instructed to initiate an experimental inquiry into the Ministry of General Testing.
-
-The Secretary of Education, Science and Technology Secretary Thilaka Jayasundara has instructed the relevant officials.
-
-The Secretary to the Ministry said that this question paper has been prepared in the society and has no involvement at the ministry or institutional level.
+සමාජය තුළ කතාබහට ලක් වී ඇති මෙම ප්‍රශ්න පත්‍රය සකස් කර ඇත්තේ අදාළ පාසලෙන්ම බවත්, ඒ සඳහා අමාත්‍යාංශ මට්ටමින් හෝ වෙනත් ආයතනික මට්ටමකින් හෝ කිසිදු සම්බන්ධයක් නොමැති බවත් අමාත්‍යාංශ ලේකම්වරිය පැවසීය.
 
 ◼️
 
 [Data](articles/9844ff8a.json)
-
-[Extended Data](ext_articles/9844ff8a.ext.json)
 
 ---
 
@@ -337,8 +239,6 @@ Adding to the night’s highlights, musician Suneera Sumanga, the winner of Dera
 ...
 
 [Data](articles/412dbb41.json)
-
-[Extended Data](ext_articles/412dbb41.ext.json)
 
 ---
 
@@ -1076,22 +976,6 @@ A fire broke out at the Media Welikada road in Rajagiriya.
 
 ---
 
-### Liquor stores, bars to be closed during Sri Lanka general election
-
-*2024-11-12 12:14:00* · [`economynextcom`](https://economynext.com/liquor-stores-bars-to-be-closed-during-sri-lanka-general-election-187014/) · `en`
-
-ECONOMYNEXT – All licensed liquor retailers throughout the island will be closed on November 14 and 15 due to the Parliamentary Elections, the Excise Department said in a statement.
-
-However, liquor will be made available to tourists residing in Tourist Board-approved, three-star and above hotels and boutique villas.
-
-Sri Lanka usually prohibits the sale of liquor during holidays. (Colombo/Nov12/2024)
-
-◼️
-
-[Data](articles/cc6caead.json)
-
----
-
 ### Fire breaks out at garment factory in Rajagiriya
 
 *2024-11-12 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103351/fire-breaks-out-at-garment-factory-in-rajagiriya) · `en`
@@ -1445,26 +1329,6 @@ According to the Sri Lanka Computer Emergency Response Unit, the authorities are
 [Data](articles/f280896b.json)
 
 [Extended Data](ext_articles/f280896b.ext.json)
-
----
-
-### පාස්කු ප්‍රහාර සම්බන්ධයෙන් අලුතින් ආරම්භ කළ පරීක්ෂණය කුමක් ද?
-
-*2024-11-12 11:10:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyvk4qqlgzo) · `si`
-
-වසර 5කට අධික කාලයකට පෙර පුද්ගලයින් 260කට වැඩි පිරිසකට දිවි අහිමි කරමින් කතෝලික දේවස්ථාන 3ක් හා සංචාරක හෝටල් 3ක් ඉලක්ක කර එල්ල කරන ලද මරාගෙන මැරෙන බෝම්බ ප්‍රහාර මාලාවට අදාළව අලුතින් විමර්ශනයක් ආරම්භ කළ බව පොලිසිය පවසයි.
-
-බ්‍රිතාන්‍ය රූපවාහිනී නාලිකාවක් වන චැනල් 4 නාලිකාව විසින් පාස්කු ප්‍රහාර මාලාවට අදාළව විකාශය කරන ලද වාර්තාමය විඩියෝ වැඩසටහනට අදාළව මෙම විමර්ශනය පවත්වන බව පොලිස් මාධ්‍ය කොට්ඨාසය නිකුත් කළ නිවේදනයක දැක්වේ.
-
-‘එම විඩියෝවේ අඩංගු පාස්කු දින ප්‍රහාරය සම්බන්ධ ආන්දෝලනාත්මක කරුණු සහ දණ්ඩ නීති සංග්‍රහයේ සඳහන් කුමන්ත්‍රණය ඇතුළු චෝදනා කිහිපයක් යටතේ අපරාධ පරීක්ෂණ දෙපාර්තුමේන්තුව මේ වන විට විමර්ශනයක් ආරම්භ කර ඇතැයි’ එම නිවේදනයේ දැක්වේ.
-
-මෙම විමර්ශනය පිළිබඳව නොවැම්බර් 11 වන දා කොටුව මහේස්ත්‍රාත් අධිකරණයට කරුණු වාර්තා කළ බව ද පොලිසිය නිකුත් කළ නිවේදනයේ සඳහන් කර ඇත.
-
-2023 සැප්තැම්බර් මාසයේදී චැනල් 4 නාලිකාවෙන් නිකුත් කළ වාර්තාමය විඩියෝව සම්බන්ධව අපරාධ පරීක්ෂණයක් ආරම්භ කළ පළමු අවස්ථාව මෙය යි.
-
-...
-
-[Data](articles/6f6cdf5f.json)
 
 ---
 
@@ -2529,5 +2393,101 @@ The discussion also decided to prepare a report on the debt obtained by the SMEs
 [Data](articles/87e437f4.json)
 
 [Extended Data](ext_articles/87e437f4.ext.json)
+
+---
+
+### Kelly Fraser: The British girl told the world about Sri Lanka's struggle
+
+*2024-11-12 04:22:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crr9e72kd5eo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+British girl Kelly Fraser exposed Sri Lanka's struggles. Her visa was cancelled in 2022. She faced legal issues and sexual abuse allegations. Her lawyer sought presidential intervention for her rights.
+
+🟩
+
+Kelly Fraser: The British girl told the world about Sri Lanka's struggle
+
+Some political commentators have called the current President to be powerful as the current president of the struggle, the BBC observes in a two-year-old girl who has been impossible to return to their homeland in Sri Lanka for more than two years in a foreign young man who has been impiired by the authorities.Was
+
+The Department of Immigration and Emigration (Immigration and Emigration) said that the British Kelly Fraser's Visa has been canceled since August 15, 2022.
+
+She had decided to deportate her Sri Lankans accusing of violating immigration laws.
+
+The Department of Immigration and Emigration had said that after a investigation by the Immigration and Emigration Department, after investigating the struggle about the struggle, the Department of Immigration and Emigration has said.
+
+The petition filed by the Supreme Court of the 20th lakhs was ordered to pay a case of Rs.
+
+...
+
+[Data](articles/f675d3a9.json)
+
+[Extended Data](ext_articles/f675d3a9.ext.json)
+
+---
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/opinion/Towards-building-a-digital-tourism-fortress/14-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/72248de9.json)
+
+[Extended Data](ext_articles/72248de9.ext.json)
+
+---
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/columns/Towards-building-a-digital-tourism-fortress/4-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/e606713e.json)
+
+[Extended Data](ext_articles/e606713e.ext.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/columns/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/4-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/0bc219d6.json)
+
+[Extended Data](ext_articles/0bc219d6.ext.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/opinion/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/14-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/ddf3bea9.json)
+
+[Extended Data](ext_articles/ddf3bea9.ext.json)
 
 ---

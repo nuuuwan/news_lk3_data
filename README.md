@@ -1,36 +1,258 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 05:49:45**
+As of **2024-11-12 08:37:43**
 
 ## Newspaper Stats
 
-*Scraped **54,320** Articles*
+*Scraped **54,335** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 422
-bbccomsinhala | 553
+dbsjeyarajcom | 423
+bbccomsinhala | 554
 colombotelegraphcom | 554
 islandlk | 3,254
 economynextcom | 3,290
 dailyftlk | 3,725
 dailymirrorlk | 4,733
-adalk | 5,077
-adaderanalk | 6,479
-tamilmirrorlk | 7,587
-virakesarilk | 8,811
-adaderanasinhalalk | 9,472
+adalk | 5,078
+adaderanalk | 6,480
+tamilmirrorlk | 7,591
+virakesarilk | 8,812
+adaderanasinhalalk | 9,478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,311 (100.0%) of 54,320 articles have been extended.
+54,331 (100.0%) of 54,335 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### ஏப்ரல் 21 தாக்குதல் ; பிள்ளையானுக்கு CID அழைப்பு
+
+*2024-11-12 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-21-தாக்குதல்-பிள்ளையானுக்கு-CID-அழைப்பு/175-346974) · `ta`
+
+முன்னாள் இராஜாங்க அமைச்சரான பிள்ளையான் எனப்படும் சிவநேசத்துரை சந்திரகாந்தன் இன்று குற்றப்புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டுள்ளார்.
+
+ஏப்ரல் 21 தாக்குதல் தொடர்பில் கடந்த வருடம் செப்டெம்பர் மாதம் 6ஆம் திகதி ஒளிபரப்பான அந்த காணொளியில் முன்னாள் அரச புலனாய்வு பிரிவின் பணிப்பாளர் மேஜர் ஜெனரல் சுரேஷ் சலே மற்றும் ஏப்ரல் 21 குண்டுதாரிகளுக்கு இடையே இடம்பெற்றதாக கூறப்படும் சந்திப்பு மற்றும் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ தொடர்பில் தகவல் வெளிப்படுத்தப்பட்டிருந்ததது.
+
+குறித்த காணொளிக்கு செனல் 4 தொலைகாட்சி 'ஸ்ரீ லங்கா ஈஸ்டர்ஸ் பொம்பிங் டிஸ்பெஜர்ஸ்' எனப் பெயரிட்டிருந்தது.
+
+2005 ஆம் ஆண்டு முதல் 2015 ஆம் ஆண்டு வரை ராஜபக்ஷர்களின் அரசியல் எதிரிகளை இலக்கு வைத்துத் துணை இராணுவ கொலை குழுவின் அங்கத்தவர்களை பிள்ளையான் என அழைக்கப்படும் சிவநேசத்துரை சந்திரகாந்தன் இணைத்துக் கொண்டுள்ளதாக செனல் 4 தொலைக்காட்சி வெளிப்படுத்தியது.
+
+இந்த காணொளியில் அடங்கும் சர்சைக்குரிய விடயங்கள் தொடர்பில் குற்றப்புலனாய்வு திணைக்களம் விசாரணைகள் ஆரம்பித்துள்ளது.
+
+...
+
+[Data](articles/0aa71d23.json)
+
+---
+
+### இன்று முதல் அமைதி காலம் அறிமுகம்
+
+*2024-11-12 08:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அமைதி-காலம்-அறிமுகம்/175-346973) · `ta`
+
+பாராளுமன்றத் தேர்தல் தொடர்பான பிரசார நடவடிக்கைகள் நேற்று (11) நள்ளிரவுடன் நிறைவடைந்த நிலையில், நேற்று நள்ளிரவு முதல் தேர்தல் நடைபெறும் நாள் வரை அமைதி காலம் அமுலில் இருக்கும் என அறிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், வேட்பாளர்கள் அமைக்கப்பட்டுள்ள தேர்தல் அலுவலகங்களை இன்று நள்ளிரவுக்குப் பின்னர் அகற்றுமாறு தேர்தல்கள் ஆணைக்குழுவின் தலைவர்  ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்தார்.
+
+நவம்பர் 14ஆம் திகதி நடைபெறவுள்ள பாராளுமன்றத் தேர்தலுக்கான அனைத்து நடவடிக்கைகளும் தற்போது தயார் செய்யப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/48401abb.json)
+
+---
+
+### Court order to express 18 former Cabinet Ministers
+
+*2024-11-12 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203160) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Court orders statements from 18 former Cabinet ministers regarding substandard drug distribution. Magistrate Lokawickrama issues directive. Deputy Solicitor General Lakshitha Girihagama represents Attorney General.
+
+🟩
+
+Alleganda Magistrate Lokawickrama has been addressed the 18 Ministers who have been filed in the 18 Ministers of the Cabinet at the time of the distribution of substandard drugs.
+
+Former Minister of Health, Ranil Wickremesinghe, former Prime Minister Dinesh Gunawardena, former Prime Minister Tiran Alles, Roshan Fernando, Roshan Fernando, Roshan Fernando, Rhanadasa Rajapakse, Rahanadasa, Vijayadasa Rajapakse, Rahan Fernando, Rambukwella.The court has informed the court that they need to obtain statements from 18 to announced by the cabinet.
+
+Deputy Solicitor General Lakisitar General Lakessita Girihagama appearing on behalf of the Attorney General were requested by the Attorney General, and the Magistrate issued the order.
+
+◼️
+
+[Data](articles/f4bebc81.json)
+
+[Extended Data](ext_articles/f4bebc81.ext.json)
+
+---
+
+### Railway trafficking racket
+
+*2024-11-12 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203159) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Railway trafficking racket: Five suspects arrested for cash fraud and robbery. One suspect linked to massage service scam."
+
+🟩
+
+Five suspects and a suspect have been arrested by a cash fraud and robbery saying he was given a massage service.
+
+◼️
+
+[Data](articles/e307880f.json)
+
+[Extended Data](ext_articles/e307880f.ext.json)
+
+---
+
+### Today's windmill zone
+
+*2024-11-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காற்றழுத்த-தாழ்வு-மண்டலம்/175-346971) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Low-lying zone forms SW Bengal Sea today. Thunderstorms expected in coming days. Heavy rainfall (>50mm) forecasted for Eastern, Central, Uva, Sabaragamuwa & Southern Provinces."
+
+🟩
+
+The Department of Meteorology has said that the low -lying low -lying zone is likely to be formed today in the southwestern Bengal Sea.
+
+Due to this, the Department of Meteorology has said that the favorable atmospheric condition of thunderstorms will be expected in the next few days in the next few days.
+
+Rainfall is expected in the Northern Province several times while rain or thunderstorms are likely in some places in the evening or night.
+
+In addition, more than 50 millimeters of heavy rains are likely to occur in some parts of the Eastern, Central, Uva, Sabaragamuwa and Southern Provinces, the Department of Weather forecast said.. (A)
+
+◼️
+
+[Data](articles/9875a6a0.json)
+
+[Extended Data](ext_articles/9875a6a0.ext.json)
+
+---
+
+### Sri Lankans refer to cyber bases in Myanmar
+
+*2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203157) · `si`
+
+Sri Lankans targeted by cyber scams in Myanmar. National Task Force warns of deception regarding overseas jobs. Scammers conduct interviews in Dubai, leading victims to Myanmar. Use legitimate recruitment methods. Report suspicious activities to 0112102570 or NAHTTFSRILANKA@Gmail.com.
+
+🟩
+
+The National Task Force warns that there is information about the sending Sri Lankans in the UAE in the UAE.
+
+The brigade says that most of the recently attractes Sri Lankan cases to the camps.
+
+In particular, the professionals are deceived saying that high-communicated people will be referred to employment in other countries.
+
+It is reported that some people are conducting interviews in Dubai and have been reported to be taken to Myanmar.
+
+Therefore, the National Task Force (JOB) says to use legitimate methods.
+
+Therefore, the National Task Force informs the National Task Force to provide information to the email addresses 0112102570, 0112102570, 076 844 7700 or NAHTTFSRILANKA@GMail.com.
+
+◼️
+
+[Data](articles/3329a472.json)
+
+[Extended Data](ext_articles/3329a472.ext.json)
+
+---
+
+### General elections have been completed
+
+*2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203158) · `si`
+
+Elections complete, propaganda ends. Electoral offices must close. Candidates' homes remain as offices but without decorations or campaigning. Preliminary arrangements ready. Approximately 6,000 delegates deployed.
+
+🟩
+
+The propaganda campaign ended at midnight yesterday (11).
+
+According to the Election Commission, no propaganda work will be carried out on the middle of the night last night and no propaganda activity could be done.
+
+The electoral offices of candidates should be removed after midnight today, he said.
+
+"The offices of candidates should remove all the offices located from the polling centers from the polling centers. Only the office has been set up to the division of parties and groups after midnight. And to set up one office for candidates from that day. Also, the candidate's house can be maintained as an office. But none of the ability to make any decorations or propaganda. "
+
+The Elections Commission states that all the preliminary arrangements have already been prepared on November 14, the Elections Commission said.
+
+Meanwhile, PAFFREL Executive Director Rohana Hettiarachchi said that about 6,000 delegates have decided to deploy the election.
+
+◼️
+
+[Data](articles/c88d9529.json)
+
+[Extended Data](ext_articles/c88d9529.ext.json)
+
+---
+
+### The train starting from today
+
+*2024-11-12 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203156) · `si`
+
+Train service resumes Colombo Fort to Talamannar today. Trains depart Colombo Fort at 12:15 PM, arrive Talamannar at 22:15. Return journey from Talamannar at 23:11, arrive Colombo Fort at 10:15 on 23/11/2011.
+
+🟩
+
+The train service between Colombo Fort to Talamannar will be resumed today (12), the Railway Department said.
+
+The department stated that steps have been made to start a train operation of the Talamannawara road, which has been temporarily temporarily incurred between Mahawa and Anuradhapura.
+
+Accordingly, the following trains will be operated between Colombo and Talamannar.
+
+From 12.11.2011 - Departure of Colombo Fort. 16.15 Talamannar reaching up. 22.15
+
+Talamanna Mannar road from 23.11.11. 04.15 Colombo Fort. 10.15
+
+◼️
+
+[Data](articles/f2e6a824.json)
+
+[Extended Data](ext_articles/f2e6a824.ext.json)
+
+---
+
+### A change in weather from tomorrow
+
+*2024-11-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203154) · `si`
+
+Weather alert: Low pressure zone forming over Bay of Bengal. Heavy rains expected in Northern Province, Eastern, Central, Uva, Sabaragamuwa, Southern Provinces from Nov 13. Thunderstorms possible with strong winds and lightning. Public advised to take precautions.
+
+🟩
+
+The Meteorological Department says that the Bay of Bay of Bengal is capable of building a low pressure zone today (12).
+
+The department states that in many parts of the island in many parts of the island, the intense atmospheric objective of thundershowers will be expected in the next few days from November 13.
+
+Showers will occur in the Northern Province and showers at several places in the evening or night during the evening.
+
+MM on the Eastern, Central, Uva, Sabaragamuwa, and Southern Provinces. Heavy rains experience more than 50.
+
+The Department of Meteorology will be held in some places in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/829dbf99.json)
+
+[Extended Data](ext_articles/829dbf99.ext.json)
+
+---
 
 ### Towards building a digital tourism fortress
 
@@ -262,6 +484,28 @@ Having saddled the nation with a disastrous International Sovereign Bond (ISB) r
 
 ---
 
+### දේශපාලනයට කැමති වුණත්, අකමැති වුණත් ඔබ ඔබේ ඡන්දය  ප්‍රකාශ කළ යුත්තේ ඇයි?
+
+*2024-11-12 01:34:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5y3knx0gxqo) · `si`
+
+දේශපාලනයට කැමති වුණත්, අකමැති වුණත් ඔබ ඔබේ ඡන්දය  ප්‍රකාශ කළ යුත්තේ ඇයි?
+
+ඔබත් මේ ආකාරයට "මම නම් දේශපාලනයට කැමති නෑ," කියන කෙනෙක් ද? "මට දේශපාලනයෙන් වැඩක් නෑ, මම හම්බ කර ගත්තොත් මම ජීවත් වෙනවා," යනුවෙන් සිතන කෙනෙක් ද?
+
+ඔබ සිතන්නේ ඔබ දේශපාලනයට සම්බන්ධයක් නැති බව ද? නමුත් දේශපාලනය ඔබේ එදිනෙදා ජීවිතයට බලපාන බව ඔබ දැන සිටියා ද?
+
+වර්තමානයේ තරුණ තරුණියන්ට ඇති ලොකු ම ගැටලුව ස්ථාවර වීම පිළිබඳ ගැටලුවයි.
+
+තමාගේ ම නිවසක් සාදා ගැනීම හෝ නිවසක් කුලියට ගැනීම, වාහනයක් මිල දී ගැනීම, මානසික නිදහස, විවේක කාලය ගත කිරීම, විවාහ වීම බොහෝ දෙනෙකුට තවමත් ළඟා කර ගත නොහැකි සිහිනයක් වී තිබෙනවා.
+
+රට තුළ පවතින ආර්ථික තත්ත්වයත් සමග ඔබ ගන්නා වැටුපෙන් ඔබේ බලාපොරොත්තු ඉටු කර ගැනීමට නොහැකිව ඇති. මෙවර ඔබ ඡන්දය ප්‍රකාශ කිරීම ඔබේ බලාපොරොත්තු සමග සම්බන්ධ වන්නේ කෙසේ ද?
+
+...
+
+[Data](articles/9160cbbe.json)
+
+---
+
 ### Politicisation of Foreign Service: Multidimensional and systemic challenge
 
 *2024-11-12 01:29:17* · [`dailyftlk`](https://www.ft.lk/columns/Politicisation-of-Foreign-Service-Multidimensional-and-systemic-challenge/4-769114) · `en`
@@ -325,6 +569,34 @@ Sri Lanka is at a pivotal moment in its economic development journey, with a fre
 [Data](articles/a2c225a0.json)
 
 [Extended Data](ext_articles/a2c225a0.ext.json)
+
+---
+
+### Relief for small, medium -sized industries
+
+*2024-11-12 00:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-நடுத்தர-தொழில்துறைகளுக்கு-நிவாரணம்/175-346969) · `ta`
+
+Sum:0
+
+🟩
+
+The President's Senior Additional Additional Secretary of the President for Financial and Economic Affairs, GNRT Abonsu and the Ceylon Banks Association, Finance Ministry officials and officials of the Central Bank of Sri Lanka (Central Bank) were held at the Presidential Office yesterday.
+
+The issues faced by small and medium enterprises were discussed here.
+
+The implementation of the Paratete Act is currently suspended and it expires on December 15. The discussion was focused on the next phase of this.
+
+The support of the banking sector to improve the productivity of the economy and the debts obtained by the small and medium enterprises at the present time were discussed.
+
+It was also decided to prepare a debt -related report received by small and medium enterprises in banks.
+
+Currently, the banks have suspended the collection of loans given to small and medium enterprises under the Paratede Act and further related measures are being taken to take further measures.. (A)
+
+◼️
+
+[Data](articles/7ff2c55e.json)
+
+[Extended Data](ext_articles/7ff2c55e.ext.json)
 
 ---
 
@@ -500,6 +772,28 @@ The police arrived at the scene and had taken steps to control the situation.Two
 
 ---
 
+### Govt to prioritizes relief for SMEs in Sri Lanka
+
+*2024-11-11 23:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103340/govt-to-prioritizes-relief-for-smes-in-sri-lanka) · `en`
+
+A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
+
+The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs, Mr. G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited, the PMD said.
+
+The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
+
+Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15.
+
+The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
+
+...
+
+[Data](articles/730051e9.json)
+
+[Extended Data](ext_articles/730051e9.ext.json)
+
+---
+
 ### Sri Lanka President says to complete debt restructuring by December 2024
 
 *2024-11-11 22:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-to-complete-debt-restructuring-by-december-2024-186949/) · `en`
@@ -521,6 +815,30 @@ From the time of the default about 1.8 billion dollars of coupons interest has a
 [Data](articles/baf19161.json)
 
 [Extended Data](ext_articles/baf19161.ext.json)
+
+---
+
+### Dhammika Nampeas for the Chief Sanganayake of Switzerland
+
+*2024-11-11 22:30:09* · [`adalk`](https://www.ada.lk/religion/ස්විට්සර්ලන්තයේ-ප්‍රධාන-සංඝනායක-පදවිය-පුජ්‍ය-තවලම-ධම්මික-නාමියන්ට/4-412983) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Chief Justice Syam Maha Nikaya approved by Swiss Vihara Sangha and Jinava Buddhist Temple. 57-year monastic life, 38 years as popular Dharmacharya in Sri Lanka. Appointed to distinguished position in recognition of service.
+
+🟩
+
+The Chief Justice of the Syam Maha Nikaya has been given full approval from the Swiss Vihara Sangha, the Chief Teachers of the Jinava Buddhist Temple and Hokandara Sri Vijayananda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda.
+
+His monastic life of 57 years. 38 years as a popular Dharmachara in many parts of Sri Lanka, including a large number of people in Sri Lanka, including Ananda Maha Vidyalaya, Colombo, Colombo, and in many parts of Sri Lanka.His mother is to take care of his mother to take over the distinguished position in appreciation.
+
+◼️
+
+[Data](articles/cb4fd8a2.json)
+
+[Extended Data](ext_articles/cb4fd8a2.ext.json)
 
 ---
 
@@ -547,6 +865,8 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/680949c4.json)
+
+[Extended Data](ext_articles/680949c4.ext.json)
 
 ---
 
@@ -608,6 +928,8 @@ The event commenced with an enchanting dance performance by students from the Se
 
 [Data](articles/7173da1a.json)
 
+[Extended Data](ext_articles/7173da1a.ext.json)
+
 ---
 
 ### Namal requests the government to fulfill the promises given to the people
@@ -642,6 +964,8 @@ The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a compr
 
 [Data](articles/7e15019f.json)
 
+[Extended Data](ext_articles/7e15019f.ext.json)
+
 ---
 
 ### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
@@ -657,6 +981,8 @@ Those crossings were reported in HNB, which crossed 2.31 million shares to the t
 ...
 
 [Data](articles/b74daa8e.json)
+
+[Extended Data](ext_articles/b74daa8e.ext.json)
 
 ---
 
@@ -816,6 +1142,26 @@ Similarly, the train will depart from Talaimannar at 04.15 am on Wednesday (13) 
 
 ---
 
+### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
+
+*2024-11-11 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
+
+“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
+
+Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
+
+The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
+
+Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
+
+...
+
+[Data](articles/61c6dea3.json)
+
+[Extended Data](ext_articles/61c6dea3.ext.json)
+
+---
+
 ### Tilshan made clear about his citizenship
 
 *2024-11-11 20:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-பிரஜாவுரிமை-பற்றி-தெளிவுபடுத்தினார்-டில்ஷான்/175-346953) · `ta`
@@ -925,6 +1271,8 @@ Currently, debt recovery processes under the Parate law have been temporarily su
 ...
 
 [Data](articles/2391bf9b.json)
+
+[Extended Data](ext_articles/2391bf9b.ext.json)
 
 ---
 
@@ -1344,6 +1692,24 @@ The Officer-in-Charge (OIC) of the Kochchikade Police Station has been arrested 
 
 ---
 
+### President Anura  Dissanayake Addressing Meeting in Jaffna Assures Tamils that  their Lands Seized by the State would be returned to them but  makes no reference to Greater Power Devolution or a Political Settlement to the Ethnic Question
+
+*2024-11-11 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85037) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake on Sunday (November 10, 2024) assured Tamils that their land —currently held by state agencies — will be returned by his government.
+
+Mr. Dissanayake, who was elected to the country’s top office in September, made the pledge at a public rally in Jaffna, days ahead of Sri Lanka’s November 14 parliamentary polls. His promise evoked instant cheer and applause from the sizeable crowd gathered at an open ground adjoining St. Anthony’s Church in the coastal suburb of Passaiyoor.
+
+Over the last few years, Tamils living across the island’s war-affected north and east have been agitating to reclaim their lands that state agencies, including the archaeology and forest departments, have forcibly taken over.
+
+...
+
+[Data](articles/2339a43a.json)
+
+[Extended Data](ext_articles/2339a43a.ext.json)
+
+---
+
 ### Piyumi and Viraja file case
 
 *2024-11-11 18:16:00* · [`adalk`](https://www.ada.lk/breaking_news/පියුමි-හා-විරාජ්-ආදායම්-බදු-නෙගෙවීම-ගැන-නඩුවක්/11-412979) · `si`
@@ -1660,6 +2026,22 @@ The General Election is scheduled to be held on November 14.
 
 ---
 
+### பிரபாகரனின் நோக்கத்தை புதிய அரசியலமைப்பால் நிறைவேற்ற இடமளிக்க முடியாது - சரத் வீரசேகர
+
+*2024-11-11 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198446) · `ta`
+
+விடுதலை செய்யும் தமிழ் அரசியல் கைதிகளின் பெயரை ஜனாதிபதி குறிப்பிட்டால்  அவர்கள் செய்த பயங்கரவாத செயற்பாட்டை நான் குறிப்பிடுவேன். பிரபாகரனின் நோக்கத்தை புதிய அரசியலமைப்பால் நிறைவேற்ற இடமளிக்க முடியாது. நாட்டின் ஒற்றையாட்சியை கருத்திற் கொண்டு மக்கள் பொதுத்தேர்தலில் வாக்களிக்க வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாவட்ட வேட்பாளர் சரத் வீரசேகர தெரிவித்தார்.
+
+ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது கொள்கை பிரகடனத்தில் புதிய அரசியலமைப்பு உருவாக்கத்துக்காக 2015 முதல் 2019 வரை ஆட்சியில் இருந்த நல்லாட்சி அரசாங்கம் தயாரித்த சட்ட வரைவினை அடிப்படையாகக் கொண்டு புதிய அரசியலமைப்பை தயாரிப்பதாக குறிப்பிட்டுள்ளார்.
+
+புதிய அரசியலமைப்பு உருவாக்கத்துக்காக நியமிக்கப்பட்ட குழுவில் பதவி வகித்த லால் விஜயநாயக்க ஜனாதிபதித் தேர்தலின் போது தேசிய மக்கள் சக்தியின் தேர்தல் பிரச்சார மேடைகளில் முன்னிலையில் இருந்தார். ஒற்றையாட்சி அரசியலமைப்பினை இரத்துச் செய்து சமஷ்டியாட்சி முறைமையிலான அரசியலமைப்பை உருவாக்கும் பரிந்துரைகள் முன்வைக்கப்பட்டுள்ளன.
+
+...
+
+[Data](articles/9e0f38e5.json)
+
+---
+
 ### Share market work limits at 3 hours on election day
 
 *2024-11-11 17:25:15* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-දිනයේදී-කොටස්-වෙළඳපොළ-කටයුතු-පැය-3ට-සීමා-වෙයි/11-412975) · `si`
@@ -1905,407 +2287,5 @@ The announcement states that 2162 complaints have been resolved and another 649 
 [Data](articles/74cb09ba.json)
 
 [Extended Data](ext_articles/74cb09ba.ext.json)
-
----
-
-### Murder by a sharp weapon
-
-*2024-11-11 16:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198431) · `ta`
-
-Murder by sharp weapon: 54-year-old man killed in border dispute. 59-year-old suspect arrested. Argument over tunnel involvement led to fatal attack.
-
-🟩
-
-Siripagama police said that the argument between the two men has been assassinated by a sharp weapon due to the violation of the border.
-
-The murderer is 54 years old from Madagama Aluthwatta, Kilimalai.
-
-Police said the attack was due to the dispute between the two men who were involved in the tunnel.
-
-A 59 -year -old man from Padukka has been arrested by police in connection with the incident.
-
-◼️
-
-[Data](articles/4fa5f661.json)
-
-[Extended Data](ext_articles/4fa5f661.ext.json)
-
----
-
-### Valuables worth Rs. 70M robbed from gem businessman’s house in Laggala
-
-*2024-11-11 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103330/valuables-worth-rs-70m-robbed-from-gem-businessmans-house-in-laggala) · `en`
-
-Five masked robbers reportedly broke into the residence of a wealthy gem businessman in the Devaladeniya area, Laggala, making off with cash, gold, and gemstones worth approximately Rs. 70 million.
-
-The robbery took place late on November 10, when the suspects infiltrated the property by scaling the wall at the back of the house. Armed and masked, they reportedly subdued the businessman with a pistol, forced him inside, and restrained him with duct tape.
-
-The robbers also tied up his wife and father before ransacking the home and fleeing the scene in the businessman’s car.
-
-Among the stolen items were cash, as well as significant amounts of gold and a gemstone worth around Rs. 30 million. The suspects dismantled and took the home’s security camera system, erasing any video evidence, the police said.
-
-The businessman’s vehicle, which the robbers used for their escape, was later found abandoned by police this morning in the Thalakiriyagama area of the Galewela police division.
-
-...
-
-[Data](articles/a45514d2.json)
-
-[Extended Data](ext_articles/a45514d2.ext.json)
-
----
-
-### Japan’s parliament reelects struggling leader Ishiba as prime minister
-
-*2024-11-11 16:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103329/japans-parliament-reelects-struggling-leader-ishiba-as-prime-minister) · `en`
-
-Japan’s parliament reelected Prime Minister Shigeru Ishiba on Monday after his governing coalition suffered the worst election loss in more than a decade, forcing the struggling leader to form his second Cabinet in just over a month since taking office.
-
-Ishiba’s ruling Liberal Democratic Party and its junior partner Komeito together lost their majority in the 465-seat Lower House, the more powerful of Japan’s two-house parliament, in the Oct. 27 election due to continued voter outrage over financial misconduct by his party and its lukewarm response.
-
-A special parliamentary session convened Monday to pick a new leader in a vote required within 30 days of a general election. Ishiba beat top opposition leader Yoshihiko Noda 221-160 in the first runoff in 30 years.
-
-...
-
-[Data](articles/f600178f.json)
-
-[Extended Data](ext_articles/f600178f.ext.json)
-
----
-
-### Sri Lanka stocks close up, pushed by banks
-
-*2024-11-11 16:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-pushed-by-banks-186867/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday, data on its site showed.
-
-The broader ASPI closed up 0.58 percent, or 74.86 points, at 12,875; while the more liquid S&P SL20 Index closed up 0.91 percent, or 34.94 points, at 3,866.
-
-Banking sector stocks brought in over 1 billion of the turnover.
-
-Top turnover generators were Hatton National Bank (up at 230.00), Lanka Aluminum Industries (up at 27.50), John Keells Holdings (down at 20.90), Pan Asia Banking Corporation (up at 26.80), and Commercial Bank (up at 92.90).
-
-Crossings were recorded on HNB, Pan Asia, Commercial Bank, Lanka Aluminum.
-
-Top contributors to the ASPI were Commercial Bank (up at 118.25), Ceylon Tobacco (up at 1,270.00), Melstacorp (up at 104.00), Hatton National Bank (230.00) and National Development Bank (up at 85.80).
-
-Other banking stocks saw mixed sentiments; Sampath Bank (up at 89.10), DFCC Bank (down at 80.80).
-
-...
-
-[Data](articles/8e1b837b.json)
-
-[Extended Data](ext_articles/8e1b837b.ext.json)
-
----
-
-### Civil community activists, organizations are an open letter to the President and the Prime Minister
-
-*2024-11-11 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198432) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Open letter from 153 civil society activists/organizations to President & PM regarding Muslim Divorce Act. Criticizing government inaction on protecting Muslim women & children rights. Demanding amendments to end gender discrimination. Condemning Cabinet spokesperson's stance. Urging National People's Power to fulfill election promises on reforming discriminatory laws.
-
-🟩
-
-135 civil society activists and 18 civil organizations have sent a letter to the President and the Prime Minister.
-
-The state is responsible for honor and protect the rights of Muslim women and children. Are you going to be inactive?
-
-In a recent video, Cabinet Spokesperson Vijitha Herath said to the media that there was no need for the government to change the Muslim Divorce Act No. 13, 1951.
-
-He also said that the comments on the law are only viewed as comments and valued freedom of expression. His unintelligible speech has caused shock among activists and intellectuals who are trying to amend the law, the women affected by the divorce law.. The reason is that such views cannot be accepted from a government that is responsible for the type.
-
-...
-
-[Data](articles/3ebd4d68.json)
-
-[Extended Data](ext_articles/3ebd4d68.ext.json)
-
----
-
-### Postal department released on distribution of official ballot papers
-
-*2024-11-11 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203136) · `si`
-
-Postal department completes 97% distribution of official ballot papers for parliamentary election. Remaining ballots will be available at post offices after election. Official votes transmitted with signatures.
-
-🟩
-
-Deputy Post Master General Rajitha K.sasinghe says that the distribution of official votes have been completed in connection with the parliamentary election has been completed.
-
-Accordingly, the Deputy Postrent said that the official votes have been distributed by 97%.
-
-He said that if he had not yet had the official voter turnout, it would be available to the post office where he receives letters at work.
-
-He further stated that it is running until the election.
-
-"The number of official ballot papers has already been distributed to us. We had more than one seventy-seven thousand unleasils from the Election Commission. By now we have been able to distribute more than one hundred thousand or more than 100,000.
-
-...
-
-[Data](articles/83bcfd74.json)
-
-[Extended Data](ext_articles/83bcfd74.ext.json)
-
----
-
-### 'Global Star' Ramsaran starrer 'Game Changer'
-
-*2024-11-11 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198424) · `ta`
-
-"Game Changer" starring Ram Saran, Kiara Advani, directed by Shankar, produced by Sri Venkateswara Creations & Aditya Ram Movies, releasing January 10th in Lucknow.
-
-🟩
-
-Telugu's leading star actor, who has made his debut for Tamil fans through 'RRR', has been released by the film 'Game Changer', which has played the lead roles as the hero of the story of 'Global Star'.
-
-Ram Saran, Kiara Advani, Anjali, Prakashraj, Sunil and many others have starred in the upcoming film 'Game Changer' directed by Shankar.
-
-The film is being produced by Sri Venkateswara Creations & Aditya Ram Movies on behalf of Sri Venkateswara Creations & Aditya Ram Movies.
-
-The film, which will be released on the 10th of January next year, will be released in Lucknow, one of the major cities of North India.
-
-Man Ramsaran, heroine Kiara Advani, actor S. J.. Surya and producer Dil Raju participated.
-
-The film's climax is getting great support as Ramsaran is a young man who realizes the needs of the people of the people, and the role of the IAS officer on behalf of the state on behalf of the state.
-
-Within a short period of time, the revolution has been visited by over 45 million viewers.
-
-◼️
-
-[Data](articles/02dd5cd3.json)
-
-[Extended Data](ext_articles/02dd5cd3.ext.json)
-
----
-
-### Sivakarthikeyan
-
-*2024-11-11 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198426) · `ta`
-
-Sivakarthikeyan's "Amaran" breaks records, collecting 200 crores. Actor sets new box office mark, salary doubles. Film directed by Rajkumar Periyasamy, based on Major Mukund Varadarajan's biography.
-
-🟩
-
-The film 'Amaran' starring Sivakarthikeyan, the leading star actor of the Tamil film industry, has passed a collection of two hundred crores.
-
-Sivakarthikeyan has also enthusiastically mentioned that this huge collection is the new record of the young star actor.
-
-The film 'Amaran' was released last Diwali starring Sivakarthikeyan directed by Rajkumar Periyasamy, directed by Rajkumar Periyasamy, director of 'World Man' Kamal Haasan.
-
-The biography of Major Mukund Varadarajan, who died in the Indian Army, has been critically successful in the film, which has been a huge success and has been a great success.
-
-As a result, the collection of the film has increased day by day to two hundred crores.
-
-Thus, the filmmakers are comparing the collections of many films that have previously grossed.
-
-In addition, actor Sivakarthikeyan has been crowned at a young age and thereby praising him as he has set a new record.
-
-...
-
-[Data](articles/12292902.json)
-
-[Extended Data](ext_articles/12292902.ext.json)
-
----
-
-### How small nations split split at this year's general election?
-
-*2024-11-11 15:48:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cdd0r2dmp1vo) · `si`
-
-Small nations divided in 2023 general election. President Anura Kumara Dissanayake emphasizes unity. Ilangai Tamil Arasu Party leads in Batticaloa and Trincomalee. Sri Lanka Crown Front wins Nuwara Eliya and Badulla districts. Tamil parties expected to receive majority votes. Independent candidates face challenges.
-
-🟩
-
-"You cannot divide politics as nations. To collect, all nations have all the nations and their leaders have a business. The business is the national folk force. "President Anura Kumara Dissanayake expressed his views on the General Elections rally in Vavuniya on November 10.
-
-The present president who was unable to win the minorities in the presence of the minorities in the presence of the minority, emphasized that he would be speaking to the nation and grieving the nation.
-
-What will be the voting of the people of the North and minorities in the North and the estate sector at the general election after the presidential election?Who will benefit it?
-
-The Ilangai Thamil Arippi party, which is most commonly lived in the General Election of 2020, the Ilangai Tamil Arasu Party.
-
-The Batticaloa district won the Ilangai Tamil Arasu Party in the Ilangei Thamil Arasu Party and won the Trincomalee District.
-
-...
-
-[Data](articles/39757c7e.json)
-
-[Extended Data](ext_articles/39757c7e.ext.json)
-
----
-
-### Introduction of Online Method to access voter cards
-
-*2024-11-11 15:29:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்காளர்-அட்டைகளை-அணுக-ஒன்லைன்-முறை-அறிமுகம்/175-346944) · `ta`
-
-Election Commission introduces online method for accessing voter cards. Voters without official cards can use ID at polling stations. Those awaiting cards can check status at local post offices.
-
-🟩
-
-The Election Commission has introduced a process that the voters approach their voter cards in front of the parliamentary election.
-
-The Commission has made it clear that voters who have not received official voter cards can vote at allotted voting centers using the right identity card.
-
-Moreover, voters who have not yet received their voter cards by post can go to nearby or local post offices to find out the status of their voter cards.
-
-◼️
-
-[Data](articles/1c09e47f.json)
-
-[Extended Data](ext_articles/1c09e47f.ext.json)
-
----
-
-### Petitions against Patriot
-
-*2024-11-11 15:23:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசபந்துவுக்கு-எதிரான-மனுக்கள்-விசாரணைக்கு-நாள்-குறிப்பு/175-346943) · `ta`
-
-High Court orders hearings for petitions against Patriot Act on Feb 24-25, 2025, filed by 8 parties including Archbishop Malcolm Ranjith and Young Journalists Association.
-
-🟩
-
-The fundamental rights petitions filed by the National Rights Petitions are to be taken up for hearing.
-
-The High Court today (11) ordered the hearing of the petitions on February 24 and 25, 2025.
-
-The petitions have been filed by eight parties, including Archbishop Malcolm Ranjith and the Young Journalists Association.
-
-The order was issued today as the petitions were taken up in the presence of a panel of High Court Judges, Yasantha Gothagoda, Achala Venkapuli and Arjuna Obeesekera.
-
-◼️
-
-[Data](articles/c853c93f.json)
-
-[Extended Data](ext_articles/c853c93f.ext.json)
-
----
-
-### 2 days of liquor closes
-
-*2024-11-11 15:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දින-2ක්-සුරාසැල්-වැසෙයි/11-412973) · `si`
-
-Excise Department announces closure: Liquor stores will be shut down for 2 days (14th and 15th) due to general election. Stores closed due to lack of staff caused by elephant-related issues.
-
-🟩
-
-The Excise Department is informed that 3 days after the general election is scheduled to be closed on 14th and 15ths of 14th and 15th.. The 14-day general election is due to covering the lack of layers of both days due to the elephant.
-
-◼️
-
-[Data](articles/a6e36515.json)
-
-[Extended Data](ext_articles/a6e36515.ext.json)
-
----
-
-### CIT order to take charge of Sujiva's car
-
-*2024-11-11 15:17:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜிவவின்-காரை-பொறுப்பேற்குமாறு-சிஐடிக்கு-உத்தரவு/175-346941) · `ta`
-
-Sujeewa Senasinghe orders CID to investigate suspicious car case at Fort Magistrate's Court.
-
-🟩
-
-Former parliamentarian Sujeewa Senasinghe has ordered the Criminal Investigation Department to take up the suspicious car at the Fort Magistrate's Court.
-
-The order was issued by the Criminal Investigation Division (CID) in connection with the car.
-
-◼️
-
-[Data](articles/f6e4ed3c.json)
-
-[Extended Data](ext_articles/f6e4ed3c.ext.json)
-
----
-
-### Shift
-
-*2024-11-11 15:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மை-பூசும்-விரலில்-மாற்றம்/175-346940) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Election Commission announcement: During the upcoming general election, voters will use their little finger for voting instead of the index finger of their left hand. This change aims to improve efficiency and accuracy in the voting process.
-
-🟩
-
-The Election Commission said that during the upcoming general election, the voters' small finger will not be covered and the index of the left hand will be applied.
-
-◼️
-
-[Data](articles/1d809791.json)
-
-[Extended Data](ext_articles/1d809791.ext.json)
-
----
-
-### Wild elephant attack
-
-*2024-11-11 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198425) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Father of 8 killed by wild elephant in Batticaloa district. Body at hospital for examination."
-
-🟩
-
-A family member from Thikkodai Thumbalikkal village belonging to the Wellaveli police division in Batticaloa district has died on Sunday night (10).
-
-The deceased has been identified as Karthikeesu Rudrakanthan, the father of 8 children from Tikkodai village.
-
-The body of the deceased is currently being held at the Kaluwanchikudi Resource Hospital for examination, according to the Kaluwanchikudi Resource Hospital.
-
-Residents say that he died after being attacked by a wild elephant while he was in his granite.
-
-It is noteworthy that the long -standing area of ​​the Wellaveli area of ​​the Batticaloa district has been increasing.
-
-◼️
-
-[Data](articles/61649dc3.json)
-
-[Extended Data](ext_articles/61649dc3.ext.json)
-
----
-
-### The robber raised his home for the gem business
-
-*2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
-
-Robber flees with gems, cash, gold after stealing car. Police recover vehicle, suspect shoe prints. Wife, father undergo forensic tests. Security footage compromised.
-
-🟩
-
-Five unidentified robbers have fled a car worth Rs.
-
-The millionaire businessman last night, his wife and his father's arms were treated with the roof.
-
-The police have been able to find the gem businessman's car in the Talawela Police area in the Talawela Police area.
-
-The thieves have also taken money, gold and three billion worth of gemstone.
-
-Police say that the robberies have come to the back of the wall and cover a pistol with a pistol in the head, police said.
-
-The complaint lodged with the wife and his father had taken the robbery and the car had taken the robbery.
-
-Later, the car was placed on the police station, the police dog was inspected by the police dog.
-
-A pair of footwear has been a suspected pair of shoes who have been robbed.
-
-The police said that the dog was staying at a very distance from the businessman's house and was observed that the suspects were staying at the site.
-
-The official dog was staying on a three-kilometer route, alongside another by road, police said.
-
-...
-
-[Data](articles/7e8b8d54.json)
-
-[Extended Data](ext_articles/7e8b8d54.ext.json)
 
 ---

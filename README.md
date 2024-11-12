@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 12:59:08**
+As of **2024-11-12 12:41:00**
 
 ## Newspaper Stats
 
-*Scraped **54,386** Articles*
+*Scraped **54,381** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,69 +16,21 @@ islandlk | 3,254
 economynextcom | 3,295
 dailyftlk | 3,726
 dailymirrorlk | 4,733
-adalk | 5,086
+adalk | 5,083
 adaderanalk | 6,483
-tamilmirrorlk | 7,603
+tamilmirrorlk | 7,602
 virakesarilk | 8,822
-adaderanasinhalalk | 9,488
+adaderanasinhalalk | 9,487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,381 (100.0%) of 54,386 articles have been extended.
+54,381 (100.0%) of 54,381 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
-
-### ආරුගම්බේ ගැන අමෙරිකාවෙන් කළ ඉල්ලීමක්
-
-*2024-11-12 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203170) · `si`
-
-නැවත දැනුම්දෙන තුරු ආරුගම්බේ ප්‍රදේශයේ සංචාරය කිරීමෙන් වළකින ලෙස අමෙරිකානු තානාපති කාර්යාලය නිකුත් කළ සංචාරක උපදේශනය ඉවත් කරන ලෙස විදේශ අමාත්‍යාංශය කොළඹ අමෙරිකානු තානාපති කාර්යාලයෙන් ඉල්ලීමක් කර තිබේ.
-
-විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා විසින් පසුගියදා අදාළ ඉල්ලීම සිදුකර ඇති බව වාර්තා වෙයි.
-
-පසුගිය ඔක්තෝබර් මස 23 වැනිදා එක්සත් ජනපද තානාපති කාර්යාලය විසින් ආරුගම්බේ ප්‍රදේශය ඇතුළු මෙරට සංචාරක ස්ථාන ඉලක්ක කරගනිමින් ප්‍රහාරයක් එල්ල වන බවට අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කළේය.
-
-එහිදී ඔවුන් පෙන්වාදුන්නේ නැවත දැනුම්දෙන තුරු ආරුගම්බේ ප්‍රදේශයේ සංචාරය කිරීමෙන් වළකින ලෙස මෙරට සිටින එක්සත් ජනපද පුරවැසියන්ගෙන් ඉල්ලා සිටින බවය.
-
-අදාළ නිවේදනයෙන් අනතුරුව තවත් රටවල් කිහිපයක් එම රටවල පුරවැසියන්ට මෙම කලාපවල සංචාරය කිරීමෙන් වළකින ලෙසත් ආරක්ෂාව සම්බන්ධයෙන් වඩාත් අවධානය යොමුකරන ලෙසත් ඉල්ලා සිටියේය.
-
-එම තත්ත්වය හමුවේ රජය එම ප්‍රදේශවල ආරක්ෂාව තර කිරීමට පියවර ගත් අතර බුද්ධි අංශ යොදවා එහි ආරක්ෂක කටයුතු නිරන්තරයෙන් සොයා බැලීමට පියවර ගත්තේය.
-
-...
-
-[Data](articles/6ed34b91.json)
-
----
-
-### ராஜகிரியவில் பாரிய தீ
-
-*2024-11-12 12:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜகிரியவில்-பாரிய-தீ/175-346991) · `ta`
-
-ராஜகிரிய, மெத வெலிக்கடை வீதியில் அமைந்துள்ள தற்காலிக ஆடைத் தொழிற்சாலை கட்டிடத்தில் தீ பரவியுள்ளது.
-
-தீயை கட்டுக்குள் கொண்டுவர கோட்டே தீயணைப்புத் திணைக்களத்தின் நான்கு தீயணைப்பு வாகனங்கள் சம்பவ இடத்திற்கு அனுப்பிவைக்கப்பட்டன.
-
-◼️
-
-[Data](articles/a129a6dc.json)
-
----
-
-### රාජගිරියේ ඇගලුම් කර්මාන්ත ශාලවක ගින්නක්
-
-*2024-11-12 12:18:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජගිරියේ-ඇගලුම්-කර්මාන්ත-ශාලවක-ගින්නක්/11-412990) · `si`
-
-රාජගිරි​යේ මැද වැලිකඩ මාර්ගයේ නිවසක තාවකාලිකව පවත්වාගෙන ගිය ඇගලුම් කර්මාන්තශාලාවක  ගින්නක් හටගෙන තිබේ.
-
-◼️
-
-[Data](articles/65217efa.json)
-
----
 
 ### Today's currency exchange rate
 
@@ -517,22 +469,6 @@ The warning on the beaches in the Gulf of Health and the southern and west of Sr
 [Data](articles/a41d0941.json)
 
 [Extended Data](ext_articles/a41d0941.ext.json)
-
----
-
-### තලෙයිමන්නාරම් දුම්රිය යළි ඇරඹෙයි
-
-*2024-11-12 10:56:01* · [`adalk`](https://www.ada.lk/breaking_news/තලෙයිමන්නාරම්-දුම්රිය-යළි-ඇරඹෙයි/11-412989) · `si`
-
-උතුරු දුම්රිය මාර්ගයේ මහව සිට අනුරාධපුර දක්වා දුම්රිය මාර්ගය නවීකරණය කිරිම හේතුවෙන් තාවකාලකව නවතා තිබූ කොළඹ කොටුව - තලෙයි මන්නාරම දුම්රිය ධාවනය යළි ආරම්භ කර තිබේ.
-
-මේ අනුව අද දිනයේ සිට එම දුම්රිය ධාවන කටයුතු ආරම්භ කෙරෙනු ඇත. කොළඹ කොටුවෙන් පස්වරු 4.15ට ගමන් ආරම්භ කරන දුම්රිය රාත්‍රී  10.15ටබ තලෙයි මන්නාරමට ළඟා විමට නියමිතය.
-
-යළිත් පසුදා උදෑසන 4.15ට තලෙයි මන්නාරමෙන් ගමන් ආරම්භ කරන දුම්රිය පෙරවරු 10.15ට කොළඹ කොටුවට ළඟා වීමට නියමිතය.
-
-◼️
-
-[Data](articles/bdea05b7.json)
 
 ---
 
@@ -1191,24 +1127,6 @@ In addition, more than 50 millimeters of heavy rains are likely to occur in some
 [Data](articles/9875a6a0.json)
 
 [Extended Data](ext_articles/9875a6a0.ext.json)
-
----
-
-### චුන්නාකම් පොලීසියේ 4කගේ වැඩ තහනම්
-
-*2024-11-12 07:23:47* · [`adalk`](https://www.ada.lk/breaking_news/චුන්නාකම්-පොලීසියේ-4කගේ-වැඩ-තහනම්/11-412988) · `si`
-
-අනතුරකින් පසුව පුද්ගල පහරදීමක් සම්බන්ධයෙන් සිදුකළ පරික්ෂණයකින් අනතුරුව යාපනය චුන්නාකම් පොලිස් ස්ථානයේ පොලිස් නිලධාරීන් සිව් දෙනෙකුගේ වැඩ තහනම් කිරීමට පියවර ගෙන ඇතැයි යාපනය පොලීසිය පැවසීය.
-
-පසුගිය 09 වනද චුන්නාකම් ප්‍රදේශයේදී රිය අනතුරක් සිදුවීමෙන් පසුව චුන්නාකම් පොලිස් ස්ථානයේ සිවිල් ඇඳුමින් සැරසී සිටි පොලිස් නිලධාරීණ් පිරිසක් විසින් අනතුර සිදුකල පුද්ගලයා පසුපස ලුහුබැඳ ගොස් ඔහු අතුඅඩංගුවට ගැනීමට යාමේදී පොලීසිය හා ප්‍රදේශවාසීන් අතර උණුසුම් තත්වයක් ඇතිවූයේ සිවිල් ඇඳුමින් සැරසුන පොලිස් නිලධාරීන්ට ඒලෙස අත්අඩංගුවට ගැනීමට නොහැකි බව පවසමිනි.
-
-එහිදී ඇති වූ උණුසුම් තත්වයේදී පොලිස් නිලධාරීන් පහරදුන් බව පවසමින් කාන්තවක් ඇතුලු පිරිසක් චුන්නාකම් පොලීසියට එරෙහිව දැඩි විරෝධයක් ඒල්ල කොට සිටියහ.
-
-ඉන් අනතුරුව යපනය නියෝජ්‍ය පොලිස්පතිවරයා විසින් අදාල සිදුවීම සම්බන්ධයෙන් සොයා බැලීම සඳහා විශේෂ පොලිස් කණ්ඩයමක් යොදවා සිදුකරන ලද පරික්ෂණයකින් අනතුරුව මෙලෙස පොලිස් නිලධාරීන් සිව් දෙනෙකුගේ වැඩ තහනම් කිරීඹට පියවර ගෙන තිබුණි.
-
-...
-
-[Data](articles/d22dd942.json)
 
 ---
 
@@ -2385,5 +2303,119 @@ Chabad House is not a synonym for synagogue. It is a religious space belonging t
 [Data](articles/61c6dea3.json)
 
 [Extended Data](ext_articles/61c6dea3.ext.json)
+
+---
+
+### Tilshan made clear about his citizenship
+
+*2024-11-11 20:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-பிரஜாவுரிமை-பற்றி-தெளிவுபடுத்தினார்-டில்ஷான்/175-346953) · `ta`
+
+DM Dilshan denies dual citizenship claim, confirms renouncing Australian citizenship to run in Sri Lankan parliamentary election.
+
+🟩
+
+Former Sri Lankan cricketer DM Dilshan, who is contesting in the upcoming parliamentary elections in the Kalutara district, has denied the allegation that he did not quit his dual citizenship.
+
+Speaking at a media briefing, Dilshan confirmed that he had renounced his Australian citizenship to qualify for the Sri Lankan parliamentary election.. “Various people are spreading rumors that I have not abandoned my citizenship for fear of my success.”
+
+Dilshan is contesting in the new political party created by actor and former parliamentarian Ranjan Ramanayake.
+
+Dilshan made clear the doubts and false information about his merits, as candidates should only get Sri Lankan citizenship under the country's election laws.
+
+◼️
+
+[Data](articles/14569b7d.json)
+
+[Extended Data](ext_articles/14569b7d.ext.json)
+
+---
+
+### State attention to SMEs to SMEs
+
+*2024-11-11 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203149) · `si`
+
+SMEs meeting: Banking support, loan reports, Paradise Law loan recoveries discussed.
+
+🟩
+
+The Presidential Secretariat was held at the Presidential Secretariat today (11) a discussion on issues due to the problems faced by SMEs.
+
+Secretary Defense of the President and Economic Affairs GNRD. Mr. Angsu's chairman.
+
+The Sri Lankan Bank Association, Ministry of Finance and the Sri Lanka Officers of Sri Lanka have participated in this.
+
+The discussion has been discussed at length regarding the support available to the banking sector to enhance the production capability of the economy.
+
+The discussion has also been decided to prepare a report on the loan obtained by the SMEs from the banks by small and medium scale industrialists.
+
+The Presidential Media Union stated that the recovery of the loans given to SMEs under the Paradise Law have been suspended and discussed in this regard.
+
+◼️
+
+[Data](articles/a2685cd0.json)
+
+[Extended Data](ext_articles/a2685cd0.ext.json)
+
+---
+
+### Sujeeva handed over the vehicle
+
+*2024-11-11 20:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனத்தை-ஒப்படைத்தார்-சுஜீவ/175-346952) · `ta`
+
+Sujeewa Senasinghe hands over vehicle to High Court for investigation. Government corruption unit requested further probe. Toyota requires vehicle report. Senasinghe claims it's political revenge after previous clearance.
+
+🟩
+
+United People's Alliance (SJS) National Organizer Sujeewa Senasinghe says his vehicle has been handed over to the High Court for further investigations.
+
+I was asked to hand over the vehicle as the government's corruption unit had informed the courts that further investigations should be carried out. Toyota said in court that a vehicle report was needed. Accordingly, I had to hand over the vehicle, ”Senasinghe told the Daily Mirror.
+
+“This is nothing but political revenge. The government inspector allowed my vehicle last week. However, the authorities want to be investigated, ”he added.
+
+◼️
+
+[Data](articles/b300431a.json)
+
+[Extended Data](ext_articles/b300431a.ext.json)
+
+---
+
+### Court orders to expedite tax probes on Piumi Hansamali and Aura Lanka chairman
+
+*2024-11-11 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103338/court-orders-to-expedite-tax-probes-on-piumi-hansamali-and-aura-lanka-chairman) · `en`
+
+Colombo Additional Magistrate Bandara Ilangasinghe has ordered the Inland Revenue Department today (11) to expedite its investigations into actress Piumi Hansamali and Aura Lanka Chairman Viranjith Thambugala.
+
+The directive came as the case filed by the Inland Revenue Department under Section 190 of the Inland Revenue Act was brought before the court.
+
+The investigation seeks to determine if any offenses under section 190 of the Inland Revenue Act were committed by the two individuals in question.
+
+The counsel representing the Department of Revenue informed the court that a search warrant had been issued to examine documents at the residences of both individuals, but they were not present at their homes during the searches.
+
+◼️
+
+[Data](articles/aa2a1d74.json)
+
+[Extended Data](ext_articles/aa2a1d74.ext.json)
+
+---
+
+### Government prioritizes relief for Small and Medium Enterprises in Sri Lanka
+
+*2024-11-11 20:32:00* · [`islandlk`](http://island.lk/government-prioritizes-relief-for-small-and-medium-enterprises-in-sri-lanka/) · `en`
+
+A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
+
+The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs,  G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited.
+
+The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
+
+Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15. The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
+
+...
+
+[Data](articles/2391bf9b.json)
+
+[Extended Data](ext_articles/2391bf9b.ext.json)
 
 ---

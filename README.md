@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 19:25:07**
+As of **2024-11-12 19:41:14**
 
 ## Newspaper Stats
 
-*Scraped **54,457** Articles*
+*Scraped **54,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 5,093
 adaderanalk | 6,498
 tamilmirrorlk | 7,619
 virakesarilk | 8,837
-adaderanasinhalalk | 9,500
+adaderanasinhalalk | 9,501
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,456 (100.0%) of 54,457 articles have been extended.
+54,456 (100.0%) of 54,458 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### 21 වනදා පාර්ලිමේන්තුව කැඳවමින් ජනපතිගෙන් ගැසට් නිවේදනයක්
+
+*2024-11-12 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203185) · `si`
+
+ජනාධිපතිවරයා වෙත පැවරී ඇති බලතල අනුව 2024 නොවැම්බර් 21 වනදා පෙරවරු 10ට පාර්ලිමේන්තුව කැඳවමින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/2098d444.json)
+
+---
 
 ### தேர்தல் ஆணைக்குழு விசேட அறிக்கை
 
@@ -2555,29 +2567,5 @@ The deployment includes nearly 3,200 Special Task Force (STF) officers prepared 
 [Data](articles/7637f4bf.json)
 
 [Extended Data](ext_articles/7637f4bf.ext.json)
-
----
-
-### Bingalli knees before Afghanistan
-
-*2024-11-12 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203162) · `si`
-
-Afghanistan wins ODI series 2-1 over Bangladesh.
-
-🟩
-
-The Afghan group has been able to win the final and third ODI against the Tourist Bangladesh team by 5 wickets.
-
-Bangladesh scored 244 runs for the loss of 8 wickets in their eight overs.
-
-In reply, Afghanistan marked the target of 48 overs and 5 wickets in 5 overs.
-
-Accordingly, the Afghan group was able to win the two ODIs.
-
-◼️
-
-[Data](articles/4b197f71.json)
-
-[Extended Data](ext_articles/4b197f71.ext.json)
 
 ---

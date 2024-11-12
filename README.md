@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 16:13:50**
+As of **2024-11-12 15:41:22**
 
 ## Newspaper Stats
 
-*Scraped **54,413** Articles*
+*Scraped **54,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,254
 economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,089
+adalk | 5,088
 adaderanalk | 6,483
-tamilmirrorlk | 7,612
+tamilmirrorlk | 7,611
 virakesarilk | 8,827
 adaderanasinhalalk | 9,496
 
@@ -26,189 +26,109 @@ adaderanasinhalalk | 9,496
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,411 (100.0%) of 54,413 articles have been extended.
+54,404 (100.0%) of 54,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### Another intervention for the child
-
-*2024-11-12 15:38:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானுக்கு-மற்றுமொரு-தலையிடி/175-347009) · `ta`
-
-Tamil LTTE press conference blocked by Election Dept over transparency concerns
-
-🟩
-
-A press conference organized by the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) on Tuesday (12) has been blocked by the Department of Elections.
-
-A media briefing was organized by Sivanesathurai Chandrakanthan, the leader of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) and the parliamentary election candidate.
-
-The media meeting has been blocked by the Department of Elections Department officials on the basis of a complaint lodged by the Assistant Elections Officer of the Transparency International Organization for the National Elections Elections and Elections Division.
-
-The Tamil People's Liberation Tigers of Tamil Eelam (LTTE) was organized by a media briefing on contrary to the elections as all the parliamentary election campaigns ended on Monday (11).
-
-◼️
-
-[Data](articles/ffd1bdd2.json)
-
-[Extended Data](ext_articles/ffd1bdd2.ext.json)
-
----
-
-### Special investigation into political form
+### දේශපාලනික ස්වරූපයේ ප්‍රශ්න පත්‍රය ගැන විශේෂ පරීක්ෂණයක්
 
 *2024-11-12 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203178) · `si`
 
-Here's a summary of 200 characters:
+පාසල් වාර විභාග ප්‍රශ්න පත්‍රයක දේශපාලනික ස්වරූපයෙන් යුත් ප්‍රශ්න ඇතුළත්වීම සම්බන්ධව අමාත්‍යංශ මට්ටමින් කඩිනම් පරීක්ෂණයක් ආරම්භ කර ඇති බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
 
+නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය සඳහන් කළේ, අදාළ නිලධාරීන්ට මේ සම්බන්ධයෙන් අවශ්‍ය උපදෙස් මේ වනවිටත් ලබාදී ඇති බවය.
 
+කළුතර දිස්ත්‍රික්කයේ සී. ඩබ්ලිව්. ඩබ්ලිව්. කන්නන්ගර මධ්‍ය මහා විද්‍යාලයේ දෙවැනි වාර පරීක්ෂණයේදී උසස් පෙළ දරුවන්ට ලබාදුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට දේශපාලන පක්ෂයකට සම්බන්ධ ප්‍රශ්න 05ක් අන්තර්ගත වීමට අදාළව මෙම පරීක්ෂණය පවත්වයි.
 
-Ministry of Education launches probe into political content in exam papers. Investigation focuses on Kannangara Central College's General Testing Committee. Measures will be taken after formal inquiry concludes.
+ලේකම්වරිය වැඩිදුරටත් සඳහන් කර ඇත්තේ සමාජය තුළ කතාබහට ලක්වී ඇති මෙම ප්‍රශ්න පත්‍රය, සකස් කර ඇත්තේ අදාළ පාසලෙන් ම බවත් ඒ සඳහා අමාත්‍යංශ මට්ටමින් හෝ වෙනත් ආයතනික මට්ටමකින් හෝ කිසිදු සම්බන්ධයක් නොමැති බවත් ය.
 
-🟩
-
-The Ministry of Education states that an accelerated investigation has been launched at the ministry level regarding the political strides in the school term examination paper.
-
-Thilaka Jayasundara said that the Secretary to the Ministry of Education, Science, Science and Technology, said that the relevant officials have already advised the relevant officials.
-
-Kalutara District. W. W. The investigation is held in relation to the average public investigation into the General Testing Committee on Kannangara Central College.
-
-The Secretary said that the meeting has been prepared in society and has been prepared by the Ministry's level or any other institutional level or other institutional level.
-
-After a formal investigation conducted at the ministry level, measures will be taken in this regard.
+අමාත්‍යංශ මට්ටමින් සිදු කරනු ලබන විධිමත් පරීක්ෂණයකින් පසුව ඒ සම්බන්ධයෙන් නිසි ක්‍රියාමාර්ග ගන්නා බවත් ඇය අදාළ නිවේදනයෙන් වැඩිදුරටත් සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/79c766c7.json)
 
-[Extended Data](ext_articles/79c766c7.ext.json)
-
 ---
 
-### Special Boat Services to Nedundevu
+### குறிகாட்டுவான் – நெடுந்தீவுக்கு விசேட படகு சேவைகள்
 
 *2024-11-12 15:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறிகாட்டுவான்-நெடுந்தீவுக்கு-விசேட-படகு-சேவைகள்/175-347008) · `ta`
 
-Special ferry services run Jaffna to Nedundevu for polls. 7 trips daily from 6:30 AM to 5:30 PM. Voting boxes transported by boat on Wednesday.
+நடைபெறவுள்ள பாராளுமன்ற தேர்தலை முன்னிட்டு, யாழ்ப்பாணம் , குறிகாட்டுவான் - நெடுந்தீவுக்கு இடையிலான விசேட படகு சேவைகள் ஒழுங்கு செய்யப்பட்டுள்ளன.
 
-🟩
+வியாழக்கிழமை (14)  காலை 06,30 மணி முதல் மாலை 5.30 மணி வரையில் குறிகாட்டுவானில் இருந்து நெடுந்தீவுக்கு 07 படகு சேவைகள் இடம்பெறவுள்ளன.
 
-Special ferry services have been organized between Jaffna, Indigatuwan - Nedundevu ahead of the upcoming parliamentary elections.
+அதேபோன்று நெடுந்தீவில் இருந்து குறிகாட்டுவான் நோக்கி காலை 06.45 மணி முதல் மலை 04.30 மணி வரையிலும் படகு சேவைகள் இடம்பெறவுள்ளன என நெடுந்தீவு பிரதேச செயலகம் அறிவித்துள்ளது.
 
-From 06,30 am to 5.30 pm on Thursday (14), 07 ferry services will be held from Neduntivu to Neduntivu.
-
-Similarly, the Divisional Secretariat has announced that the boat services will be held from 06.45 am to 04.30 pm from Neduntivu.
-
-Meanwhile, the voting boxes for the Nedundi Island will be taken by the officers by the boats on Wednesday (13) and the voting of the Air Force will be taken to the Central College, the Central College of the Air Force.
+அதேவேளை நெடுந்தீவுக்கான வாக்கு பெட்டிகளை  புதன்கிழமை (13)  படகுகள் மூலம் உத்தியோகஸ்தர்கள் எடுத்து சென்று, வியாழக்கிழமை (14) வாக்களிப்பு நிறைவு பெற்றதும் விமான படையினரின் உலங்கு வானுர்தியில் வாக்கெண்ணும் மத்திய நிலையமான யாழ்ப்பாணம் மத்திய கல்லூரிக்கு எடுத்து வரப்படும் என்பது குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/98032362.json)
 
-[Extended Data](ext_articles/98032362.ext.json)
-
 ---
 
-### Driver injured
+### வட்டவளையில் பாரிய விபத்து: சாரதி படுகாயம்
 
 *2024-11-12 15:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வட்டவளையில்-பாரிய-விபத்து-சாரதி-படுகாயம்/76-347007) · `ta`
 
-Driver injured in SLTB bus accident. Head injury sustained while overtaking. Transferred to Navalapitiya Hospital. Buses damaged. Traffic police investigating.
+இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸூம், வா​னொன்றும் நேருக்கு நேர் மோதி விபத்துக்கு உள்ளானதில், ​வானின் சாரதி படுகாயமடைந்துள்ளார்.
 
-🟩
+கொழும்பு- ஹட்டன் பிரதான வீதியில் ஸ்கேடன் தோட்ட பகுதியில்  செவ்வாய்க்கிழமை (12) பிற்பகல் 2 மணியளவில், இடம்பெற்ற இந்த விபத்தில் படுகாயமடைந்த சாரதி, வட்டவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர், மேலதிக சிகிச்சைகளுக்கான நாவலப்பிட்டிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
 
-The driver of the Sri Lanka Transport Board (SLTB) has been hit by a bus and a head injury.
+ஹட்டனில் இருந்து கொழும்பு வரையிலும் பயணித்த இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸூக்கு எதிர் திசையில், கினிகத்ஹேனவில் இருந்து ஹட்டன் நோக்கி அதிவேகத்தில் பயணித்த வான்,  முன்பாக பயணித்த ஓட்டோவை, முறைக்கேடான முறையில் முந்திச்செல்வதற்கு முயன்ற போதே எதிரேவந்த பஸ்ஸூடன் மோதியதில் இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
 
-The driver, who was injured in the accident, has been transferred to the Navalapitiya Hospital for further treatment after being admitted to the Vattawala Hospital.
-
-The buses traveling from Hatton to Colombo and the Sri Lanka Transport Board (SLTB) belonging to the Basu, which was traveled from Ginigathena to Hatton, was trying to overtake Otto, who was traveling in front of Hatton.
-
-Hatton traffic police are conducting further investigations, claiming that the buses and the sky have been severely damaged.
+பஸ்ஸூக்கும், வானுக்கும் பலத்த சேதம் ஏற்பட்டுள்ளது எனத்தெரிவித்த ஹட்டன் போக்குவரத்துப் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/abfa79d4.json)
 
-[Extended Data](ext_articles/abfa79d4.ext.json)
-
 ---
 
-### Hague of the Department of Meteorology
+### வளிமண்டலவியல் திணைக்களத்தின் இணையதளம் ஹேக்
 
 *2024-11-12 15:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-இணையதளம்-ஹேக்/175-347006) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Hague: A city in the Netherlands known for its historic center, canals, and windmills. It's also home to the International Court of Justice and the Peace Palace."
-
-🟩
 
 ◼️
 
 [Data](articles/e33f07dc.json)
 
-[Extended Data](ext_articles/e33f07dc.ext.json)
-
 ---
 
-### A special notification issued by the Department of Examination
+### பரீட்சை திணைக்களம் விடுத்துள்ள விசேட அறிவிப்பு
 
 *2024-11-12 15:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-திணைக்களம்-விடுத்துள்ள-விசேட-அறிவிப்பு/175-347005) · `ta`
 
-Here's a summary in 200 characters:
+நவம்பர் 14ஆம் திகதி பரீட்சை சான்றிதழ்கள் வழங்கப்படாது என பரீட்சை திணைக்களம் அறிவித்துள்ளது.
 
-
-
-"Exam certificates delayed: Department of Examinations notifies no issuance on Nov 14 due to employee deployment for 2024 parliamentary elections."
-
-🟩
-
-The Department of Examinations has announced that the exam certificates will not be issued on November 14.
-
-The department employees have been deployed for election work in front of the 2024 parliamentary elections.
+2024ஆம் ஆண்டு பாராளுமன்றத் தேர்தலை முன்னிட்டு, தேர்தல் பணிகளுக்காக திணைக்களப் பணியாளர்கள் ஈடுபடுத்தப்பட்டுள்ளனர்.
 
 ◼️
 
 [Data](articles/c833e400.json)
 
-[Extended Data](ext_articles/c833e400.ext.json)
-
 ---
 
-### Eelam actor Saran
+### இயக்குநருக்கு இன்ப அதிர்ச்சி அளித்த ஈழத்து நடிகர் சரண்
 
 *2024-11-12 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198508) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நடிப்பதற்கு வாய்ப்பளித்த இயக்குநருக்குன்ப அதிர்ச்சி அளித்து, ரசிகர்களை மட்டுமல்லாமல் ஒட்டுமொத்த தமிழ் திரையுலகத்தின் கவனத்தையும் ஈர்த்திருக்கிறார் புலம்பெயர் நடிகர் சரண்.
 
+இயக்குநர் பாலாஜி இயக்கத்தில் உருவாகி இருக்கும் 'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நகுல், சரண், டேனி தயாள், அலெக்ஸ், கோதை சந்தானம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி. கே. மணிகண்டன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சக்தி பாலாஜி இசையமைத்திருக்கிறார்.
 
+வல்துறையின் புலனாய்வு வகைமையிலான இந்த திரைப்படத்தை கோதை எண்டர்டெயின்மெண்ட் மற்றும் எஸ் எம் மீடியா ஃபேக்டரி ஆகிய பட நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
 
-Actor Saran from Eelam has gained popularity in Tamil cinema. He stars in "Dark Heaven" directed by Balaji, alongside Nakul, Danny Dayal, and others. The film's debut was held in Chennai, featuring Saran and crew members born in Switzerland. Director Balaji gifted Saran a zodiac Lakshmi statue as a token of appreciation, symbolizing his success in the industry.
+இப்படத்தின் அறிமுக காணொளி பிரத்யேக நிகழ்வாக சென்னையில் நடைபெற்றது. இந்த தருணத்தில் எம் மண்ணில் பிறந்து தற்போது சுவிட்சர்லாந்து நாட்டில் புலம் பெயர்ந்து வாழும் நடிகர் சரண் உள்ளிட்ட பட குழுவினர் பலர் பங்கு பற்றினர்.
 
-🟩
-
-Diaspora actor Saran has attracted not only fans but also the attention of the entire Tamil film industry.
-
-Directed by director Balaji, 'Dark Heaven', Nakul, Saran, Danny Dayal, Alex, Gotham Santhanam and many others have been cast.. B.. K. Shakti Balaji has composed the film, which is being recorded by Manikandan.
-
-The film is co -produced by film companies such as Gotham Entertainment and SM Media Factory.
-
-The film's debut video was held in Chennai. Many of the film crews, including actor Saran, were born in Switzerland, who was born in M ​​soil at this moment.
-
-At the event, the director of the film Saran, the director of the film Balaji, re -gifted him with the fun.
-
-Speaking to the film crew, 'Balaji, the director of the film, has sold his glory for the release of' D3 'directed by D3.
-
-He has repeatedly referred to the film crew on the shooting site, 'I have sold my zodiac Lakshmi'.He also noted that he had sold it in a town called Mukkudal near the site of the shooting.
+இந்நிகழ்வில் நடிகர் சரண் படத்தின் இயக்குநர் பாலாஜிக்கு இன்ப அதிர்ச்சி அளிக்கும் வகையில் அவர் பயன்படுத்திய மகிழுந்தை மீண்டும் அவருக்கு பரிசாக அளித்தார்
 
 ...
 
 [Data](articles/c5c0b026.json)
-
-[Extended Data](ext_articles/c5c0b026.ext.json)
 
 ---
 
@@ -227,20 +147,6 @@ He has repeatedly referred to the film crew on the shooting site, 'I have sold m
 ...
 
 [Data](articles/fdec0496.json)
-
----
-
-### මහ මැතිවරණ කාල සීමා​වේ ආරක්ෂාවට පොලීසියෙන් 64,000ක්
-
-*2024-11-12 14:47:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණ-කාල-සීමා​වේ-ආරක්ෂාවට-පොලීසියෙන්-64-000ක්/11-412993) · `si`
-
-මහ මැතිවරණය පැවැත්වෙන කාල සීමාව තුළ ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් 64,000ක් පමණ යොදවා ඇති බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නීතීඥ නිහාල් තල්දූව මහතා පැවසීය.
-
-“සමස්ථයක් විදියට ගත්තම පොලිස් නිලධාරීන් ඍජුව 64,000ක් විතර සම්බන්ධ වෙනවා. ඒ වගේම දළ වශයෙන් 70,000ක ආරක්ෂාවක් යොදවනවා. ඒ කියන්නේ 6000ක් පමණ පොලිස් සේවා රාජකාරී වල යොදවලා තිබෙනවා. මීට අමතරව යුධ හමුදාව යොදවලා තිබෙවා පොලිස් ස්ථාන වල 10,000ක​ට ආසන්න සංඛ්‍යාවක්. අවශ්‍යතාවයක් වුණොත් කැඳවීම සඳහා. ඒ වගේම විශේෂයෙන්ම මර්මස්ථාන වල ආරක්ෂාව සඳහා පොලිස් නිලධාරීන් ඒ ස්ථාන වලින් ලබා ගැනීම සඳහා යුධ හමුදා නිලධාරීන් යොදවලා තියෙනවා. ”
-
-◼️
-
-[Data](articles/659bd575.json)
 
 ---
 
@@ -2505,5 +2411,57 @@ Sri Lanka is at a pivotal moment in its economic development journey, with a fre
 [Data](articles/a2c225a0.json)
 
 [Extended Data](ext_articles/a2c225a0.ext.json)
+
+---
+
+### Relief for small, medium -sized industries
+
+*2024-11-12 00:59:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறிய-நடுத்தர-தொழில்துறைகளுக்கு-நிவாரணம்/175-346969) · `ta`
+
+Sum:0
+
+🟩
+
+The President's Senior Additional Additional Secretary of the President for Financial and Economic Affairs, GNRT Abonsu and the Ceylon Banks Association, Finance Ministry officials and officials of the Central Bank of Sri Lanka (Central Bank) were held at the Presidential Office yesterday.
+
+The issues faced by small and medium enterprises were discussed here.
+
+The implementation of the Paratete Act is currently suspended and it expires on December 15. The discussion was focused on the next phase of this.
+
+The support of the banking sector to improve the productivity of the economy and the debts obtained by the small and medium enterprises at the present time were discussed.
+
+It was also decided to prepare a debt -related report received by small and medium enterprises in banks.
+
+Currently, the banks have suspended the collection of loans given to small and medium enterprises under the Paratede Act and further related measures are being taken to take further measures.. (A)
+
+◼️
+
+[Data](articles/7ff2c55e.json)
+
+[Extended Data](ext_articles/7ff2c55e.ext.json)
+
+---
+
+### Geetanath's appointment as PA
+
+*2024-11-12 00:48:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுஜன-பெரமுன-அமைப்பாளராக-கீதநாத்-நியமனம்/175-346968) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Geetanath named PA. Party leader Mahinda Rajapaksa appointed. Appointment effective yesterday (11).
+
+🟩
+
+The appointment of the party leader and former president Mahinda Rajapaksa has been appointed.
+
+Accordingly, the appointment has been issued with effect from yesterday (11). (A)
+
+◼️
+
+[Data](articles/994d54fc.json)
+
+[Extended Data](ext_articles/994d54fc.ext.json)
 
 ---

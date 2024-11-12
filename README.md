@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 11:25:11**
+As of **2024-11-12 10:41:02**
 
 ## Newspaper Stats
 
-*Scraped **54,363** Articles*
+*Scraped **54,354** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,241 +18,55 @@ dailyftlk | 3,726
 dailymirrorlk | 4,733
 adalk | 5,082
 adaderanalk | 6,483
-tamilmirrorlk | 7,599
-virakesarilk | 8,816
-adaderanasinhalalk | 9,484
+tamilmirrorlk | 7,593
+virakesarilk | 8,814
+adaderanasinhalalk | 9,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,359 (100.0%) of 54,363 articles have been extended.
+54,350 (100.0%) of 54,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### மசாஜ் நிலையம் சென்றவருக்கு நேர்ந்த சோகம்
-
-*2024-11-12 11:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-நிலையம்-சென்றவருக்கு-நேர்ந்த-சோகம்/175-346985) · `ta`
-
-நபர் ஒருவரை பம்பலபிட்டியிலுள்ள மசாஜ் நிலையத்திற்கு அழைத்து அவரின் வங்கிக் கணக்கிலிருந்து ஒரு மில்லியன் ரூபாய் தொகையை பணப்பரிமாற்றம் செய்யுமாறு வற்புறுத்திய தம்பதி உட்பட 6 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-பம்பலப்பிட்டி பொலிஸாரின் கூற்றுப்படி, பாதிக்கப்பட்ட நபருக்கு உடல் மசாஜ் செய்வதற்கான அழைப்பு விடுக்கப்பட்டுள்ளது. அவர் வந்தவுடன் சேவை வழங்கப்படும் என்று தெரிவிக்கப்பட்டுள்ளார்.
-
-இருப்பினும், அவர் மசாஜ் நிலையத்தை அடைந்ததும், ஒன்லைன் மூலம் வங்கியிலிருந்து 1 மில்லியன் பணத்தை அனுப்புமாறு குறித்த தம்பதியினர் அவர் மீது தாக்குதல் நடாத்தியுள்ளனர்.
-
-அத்துடன் சந்தேகநபர்கள் குறித்த நபரின் பணப்பையில் இருந்து 15,000 ரூபாய் பணத்தையும் திருடியுள்ளனர்.
-
-குற்றத்திற்கு பயன்படுத்திய முச்சக்கர வண்டியுடன் பிலியந்தலை பிரதேசத்தை சேர்ந்த 44 மற்றும் 54 வயதுடைய தம்பதியினரை பொலிஸார் கைது செய்துள்ளனர்.
-
-மேலதிக விசாரணைகளை அடுத்து, சம்பவம் தொடர்பில் இரத்மலானை மற்றும் கல்கிசை பிரதேசத்தைச் சேர்ந்த 19 மற்றும் 23 வயதுடைய மேலும் நான்கு சந்தேக நபர்களையும் பொலிஸார் கைது செய்துள்ளனர்.
-
-◼️
-
-[Data](articles/36af6320.json)
-
----
-
-### ලොකී ෆර්ගියුසන් ට ශ්‍රී ලංකාව සමග පැවැත්වෙන එක්දින තරගාවලිය අහිමිවෙයි
-
-*2024-11-12 11:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203166) · `si`
-
-නවසීලන්ත කණ්ඩායමේ වේගපන්දු යවන ක්‍රීඩක ලොකී ෆර්ගියුසන් ට ශ්‍රී ලංකා - නවසීලන්ත එක්දින තරගාවලි‍ය අහිමිවී තිබේ.
-
-ශ්‍රී ලංකා - නවසීලන්ත එක්දින තරගාවලිය හෙට (13) සිට ආරම්භවීමට නියමිතව ඇත.
-
-ෆර්ගියුසන් ශ්‍රී ලංකාවට එරෙහිව පැවති දෙවන 20යි 20 තරගයේදී හැට්ට්‍රික් එකක් ලබා ගත්තේය.
-
-එම තරගයේ සිය දෙවැනි පන්දු ඕවරය යවන අතරතුර පාදයේ ඇතිවූ ආබාධ තත්ත්වයක් හේතුවෙන් ඔහු පිටියෙන් ඉවත්ව ගොස් තිබුණි.
-
-◼️
-
-[Data](articles/f22e7aa4.json)
-
----
-
-### Confused at Sumanthiran's meeting
-
-*2024-11-12 10:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரனின்-கூட்டத்தில்-குழப்பம்/175-346983) · `ta`
-
-Sri Lanka Tamil National Alliance TNA campaign meeting at Vaddukoddai-Chiripuram turns chaotic. Former MP M.A. Sumanthiran addresses crowd, but attendees try questioning him. Police intervene as situation escalates.
-
-🟩
-
-The Sri Lanka Tamil National Alliance (TNA) campaign held on Monday (12) at Vaddukoddai - Chiripuram area is confused.
-
-Former Parliamentarian MP MA. Some people in the crowd tried to ask questions after Sumanthiran addressed. There was confusion in the meeting. When there was a clash, the police arrived at the scene.
-
-◼️
-
-[Data](articles/3c157a70.json)
-
-[Extended Data](ext_articles/3c157a70.ext.json)
-
----
-
-### Request to US embassy to remove warning
-
-*2024-11-12 10:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கையை-நீக்க-அமெரிக்கத்-தூதரகத்திடம்-கோரிக்கை/175-346982) · `ta`
-
-Sri Lankan government requests US embassy remove security warning for Gulf of Health tourist areas. US embassy issues travel ban due to terrorism threat. Sri Lankan authorities take steps to strengthen security and reassure diplomatic community. Six arrests made related to security threat. Defense Secretary visits Eastern Province to assess security conditions. US embassy spokesperson confirms cooperation with Sri Lankan authorities.
-
-🟩
-
-A spokesman yesterday said that the Foreign Ministry had requested the US embassy to remove the security warning issued before his countrymen to avoid going to the Gulf of the Health Gulf until the re -announcement.
-
-“The embassy received reliable information that the attack would be targeted by popular tourist destinations in the Gulf. Due to the severe risk of this threat, the embassy has imposed a travel ban on hearing until immediately and re -notice. US Embassy warned on October 23, "US citizens are strongly urged to avoid the bay of bay until the re -announcement comes."
-
-Following the US security warning, the Israeli National Security Council has called on the Israelites to immediately leave its citizens in some tourist areas in South Sri Lanka due to the threat of terrorist attacks.
-
-The warning on the beaches in the Gulf of Health and the southern and west of Sri Lanka is "from the latest information on the threat of terrorism centered on tourism and beaches."
-
-...
-
-[Data](articles/a41d0941.json)
-
-[Extended Data](ext_articles/a41d0941.ext.json)
-
----
-
-### The police were in alert
-
-*2024-11-12 10:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உஷார்-நிலையில்-பொலிஸார்/175-346981) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Police deploy 64,000 officers nationwide for election security. Special Task Force stands ready. Authorities seek public support for peaceful polls.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the police have carried out special security measures from today (12) ahead of the general election.
-
-About 64,000 police officers will be deployed at all polling booths across the country, he said.
-
-He added that police officers will be deployed on the day of elections nationwide and the next day, if needed.
-
-He also pointed out that about 64,000 policemen have been deployed for security and 3,200 officers of the Police Special Task Force are ready for duty.
-
-At the same time, he said that everyone is asking for the support to hold an independent and peaceful election.
-
-◼️
-
-[Data](articles/91e56d6f.json)
-
-[Extended Data](ext_articles/91e56d6f.ext.json)
-
----
-
-### Tamil Nadu fishermen arrested 12 more
-
-*2024-11-12 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-மேலும்-12-பேர்-கைது/175-346980) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Sri Lankan navy arrests 12 Tamil Nadu fishermen, bringing total arrests to 485 since 2024. Fishermen's families urge governments for permanent solution as courts impose hefty fines and lengthy prison terms."
-
-🟩
-
-12 more fishermen arrested by Sri Lankan navy. Sri Lankan navy has arrested 12 fishermen today (Nov 12) after 23 Rameshwaram fishermen were arrested on November 10.
-
-Nagapattinam: Sri Lankan navy has arrested 12 fishermen for allegedly crossing the border. Also, have also seized a vessel. This has caused turmoil among fishermen in the last few days.
-
-More than 485 fishermen have been arrested by the Sri Lankan navy since the beginning of 2024. More than 65 boats have been imprisoned.
-
-The Sri Lankan courts impose huge fines for the arrested fishermen. Also, fishermen are in prison for months. As a result, fishermen are constantly urging the central and state governments to find a permanent solution to the problem as the families of the families of the fishermen who have lost their livelihoods.
-
-...
-
-[Data](articles/ac0821cc.json)
-
-[Extended Data](ext_articles/ac0821cc.ext.json)
-
----
-
-### Student admitted to hospital
-
-*2024-11-12 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198482) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Student hurt in train accident. 21-year-old fell off night train near Haputale. Seriously injured. Admitted to hospital. Police investigating incident.
-
-🟩
-
-Haputale police said that a 1045 -year -old night post train traveling from Colombo Fort to Badulla at the Haputale railway station was hit by a train on Tuesday (12).
-
-A 21 -year -old university student from Ratgama, Araliya, Mavadavila, fell off the train and was seriously injured, police said.
-
-When the train stopped at the Haputtala railway station at 6.30 am when the train was stopped at the Haputtala railway station at 6.30 am, the police said that they were injured when they got off the train and got back on the train.
-
-It is reported that Yuvati was immediately admitted to the Diyatalawa General Hospital for treatment.
-
-On the advice of Senior Superintendent of Police Pradeep Kalubahana, who is in charge of the Bandarawela Police Division, a police team headed by Haputtai Police Station Prabhopa Sebala Ratnayake is conducting further investigations.
-
-◼️
-
-[Data](articles/89175976.json)
-
-[Extended Data](ext_articles/89175976.ext.json)
-
----
-
-### Rishad's and Masathan supporters delegated at the final rally
+### අවසන් රැලියේ දී රිෂාඩ්ගේ සහ මස්තාන්ගේ ආධාරකරුවන් යකා නටයි
 
 *2024-11-12 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203165) · `si`
 
-Clash between Rishad Bathiudeen and Kader Masthan supporters injures two, damages vehicles in Vavuniya. Police investigating. Both politicians contesting parliamentary election from Vanni electorate.
+හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතාගේ හා හිටපු රාජ්‍ය අමාත්‍ය කාදර් මස්තාන් මහතාගේ ආධාරකරුවන් අතර ගැටුමක් හට ගෙන තිබේ.
 
-🟩
+ඊයේ (11) රාත්‍රියේ වවුනියාව, පට්ටාන්ච්චිචූර් ප්‍රදේශයේ ඇති වූ එම ගැටුමෙන්  පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා ඇති බව වවුනියාව පොලීසිය පවසයි.
 
-Former Minister Rishad Bathiudeen and former Minister of State Minister Kader Masathan has conflicts.
-
-The Vavuniya Police states that two persons were injured in the clash at the Pattitchur area in Vavuniya last night.
-
-Former State Minister Kader Masathan's final advertising rally was scheduled to be held in Pattranchchur, former Minister Rishad Bathiudeen's propaganda meeting.
+හිටපු රාජ්‍ය අමාත්‍ය කාදර් මස්තාන් මහතාගේ අවසන් ප්‍රචාරණ රැලිය පට්ටාන්ච්චිචූර් ප්‍රදේශයේ පැවති අතර, හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතාගේ ප්‍රචාරණ රැස්වීමක්ද අදාළ ප්‍රදේශයේ පැවැත්වීමට නියමිතව තිබුණි.
 
 රැස්වීම වෙනුවෙන් රිෂාඩ් බදියුදීන් මහතා හා ඔහුගේ ආධාරකරුවන් ගමන් කරමින් සිටියදී මස්තාන් මහතාගේ ආධාරකරුවන් රිෂාඩ් බදියුදීන් මහතා ගමන්ගත් වාහනය වෙත පහරදී තිබේ.
 
-The clash had occurred between the two parties, while the Vavuniya Police and the Nelukkulama police have intervened.
+අදාළ අවස්ථාවේ ආධාරකරුවන් දෙපාර්ශවය අතර ගැටුමක් හටගෙන ඇති අතර,වවුනියාව පොලීසිය හා නෙලුක්කුලම පොලීසිය මැදිහත්ව ගැටුම සමතයකට පත්කර ඇත.
 
-Two persons were injured and admitted to the Vavuniya hospital while several vehicles were damaged in the confrontation, police said.
-
-The Vavuniya Police and the Nelukkulama Police are conducting further investigations into the incident.
+ගැටුම අතරතුර පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා වවුනියාව රෝහලට ඇතුළත් කළ අතර, දෙපාර්ශවයේම වාහන කිහිපයකට හානි සිදුව ඇති බවද පොලීසිය සඳහන් කළේය.
 
 ...
 
 [Data](articles/a8ed0c69.json)
 
-[Extended Data](ext_articles/a8ed0c69.ext.json)
-
 ---
 
-### Change in the price of natural gas
+### இயற்கை எரிவாயுவின் விலையில் மாற்றம்
 
 *2024-11-12 10:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இயற்கை-எரிவாயுவின்-விலையில்-மாற்றம்/50-346978) · `ta`
 
-Natural gas price rises to $2.928 globally. WTI crude oil barrel falls to $68.21, while another type drops to $71.83. Market fluctuations continue.
+உலக சந்தையில் இயற்கை எரிவாயுவின் விலை இன்றைய தினம் 2.928 அமெரிக்க டொலராக அதிகரிப்பைப் பதிவு செய்துள்ளது
 
-🟩
+உலக சந்தையில் WTI ரக மசகு எண்ணெய் பீப்பாய் ஒன்றின் விலை 68.21 அமெரிக்க டொலராக வீழ்ச்சியைப் பதிவு செய்துள்ளது.
 
-The price of natural gas in the world market has increased to $ 2.928 today
-
-In the world market, the price of a WTI lubricant barrel has fallen to $ 68.21.
-
-As well as the price of a barrel lubricant barrel at $ 71.83. Remble
+அத்துடன் பிரெண்ட் ரக மசகு எண்ணெய் பீப்பாய் ஒன்றின் விலை 71.83 அமெரிக்க டொலராக நிலவுகிறது. R
 
 ◼️
 
 [Data](articles/4c589372.json)
-
-[Extended Data](ext_articles/4c589372.ext.json)
 
 ---
 
@@ -265,26 +79,6 @@ Former President Ranil Wickremesinghe participated at the final New Democratic F
 ◼️
 
 [Data](articles/67ba972b.json)
-
-[Extended Data](ext_articles/67ba972b.ext.json)
-
----
-
-### அமெரிக்க இராஜாங்க திணைக்களத்தின் உலக இளையோர் பிரச்சினைகளுக்கான சிறப்பு தூதர் அபி பின்கெனவர் இலங்கை விஜயம் !
-
-*2024-11-12 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198483) · `ta`
-
-அமெரிக்க இராஜாங்க திணைக்களத்தின் உலக இளையோர் பிரச்சினைகளுக்கான சிறப்பு தூதர், அபி பின்கெனவர் இலங்கை மற்றும் நேபாளத்திற்கு விஜயம் செய்யவுள்ளார்.
-
-இன்று 12 ஆம் திகதி முதல் எதிர்வரும் 15 ஆம் திகதி வரை அபி பின்கெனவர் இலங்கை மற்றும் நேபாளத்திற்கான விஜயத்தை மேற்கொள்கின்றார்.
-
-அபி பின்கெனவரின் விஜயமானது, தெற்காசிய இளையோர் தலைவர்களை ஊக்குவிப்பதில் அமெரிக்காவின் அர்ப்பணிப்பை உணர்த்துவதோடு, குடியுரிமை பங்கேற்பு மற்றும் இளையோரின் தலைமைத்துவம், கலாச்சாரப் பாதுகாப்பு  மற்றும் சமூக நெகிழ்வுத்தன்மை போன்ற முக்கிய பிரச்சினைகள் குறித்த ஒத்துழைப்பை வளர்க்கும் நோக்கத்தையும் கொண்டுள்ளது.
-
-இலங்கையில், அமெரிக்க தூதரகம் மற்றும் இலங்கையின் கூட்டுறவின் மூலம் கல்வி, தலைமைத்துவம் மற்றும் குடியுரிமை பங்கேற்பு போன்ற துறைகளில் இளம் தலைவர்களை ஊக்குவிக்கும் திட்டங்களின் தாக்கத்தை சிறப்பு தூதர் பின்கெனவர் இந்த விஜயந்தின் போது அவதானிப்பார்.
-
-...
-
-[Data](articles/f0af2e43.json)
 
 ---
 
@@ -586,26 +380,6 @@ He has been summoned to the Criminal Investigation Department yesterday.. Remble
 
 ---
 
-### 21/4 தாக்குதல் ; பிள்ளையானுக்கு CID அழைப்பு
-
-*2024-11-12 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/21-4-தாக்குதல்-பிள்ளையானுக்கு-CID-அழைப்பு/150-346974) · `ta`
-
-முன்னாள் இராஜாங்க அமைச்சரான பிள்ளையான் எனப்படும் சிவநேசத்துரை சந்திரகாந்தன் இன்று குற்றப்புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டுள்ளார்.
-
-ஏப்ரல் 21 தாக்குதல் தொடர்பில் கடந்த வருடம் செப்டெம்பர் மாதம் 6ஆம் திகதி ஒளிபரப்பான அந்த காணொளியில் முன்னாள் அரச புலனாய்வு பிரிவின் பணிப்பாளர் மேஜர் ஜெனரல் சுரேஷ் சலே மற்றும் ஏப்ரல் 21 குண்டுதாரிகளுக்கு இடையே இடம்பெற்றதாக கூறப்படும் சந்திப்பு மற்றும் முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷ தொடர்பில் தகவல் வெளிப்படுத்தப்பட்டிருந்ததது.
-
-குறித்த காணொளிக்கு செனல் 4 தொலைகாட்சி 'ஸ்ரீ லங்கா ஈஸ்டர்ஸ் பொம்பிங் டிஸ்பெஜர்ஸ்' எனப் பெயரிட்டிருந்தது.
-
-2005 ஆம் ஆண்டு முதல் 2015 ஆம் ஆண்டு வரை ராஜபக்ஷர்களின் அரசியல் எதிரிகளை இலக்கு வைத்துத் துணை இராணுவ கொலை குழுவின் அங்கத்தவர்களை பிள்ளையான் என அழைக்கப்படும் சிவநேசத்துரை சந்திரகாந்தன் இணைத்துக் கொண்டுள்ளதாக செனல் 4 தொலைக்காட்சி வெளிப்படுத்தியது.
-
-இந்த காணொளியில் அடங்கும் சர்சைக்குரிய விடயங்கள் தொடர்பில் குற்றப்புலனாய்வு திணைக்களம் விசாரணைகள் ஆரம்பித்துள்ளது.
-
-...
-
-[Data](articles/81e76dbd.json)
-
----
-
 ### Introduction to the first peace period today
 
 *2024-11-12 08:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அமைதி-காலம்-அறிமுகம்/175-346973) · `ta`
@@ -844,31 +618,23 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### State attention to relief to SMEs
+### සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන ලබා දීමට රජයේ අවධානය
 
 *2024-11-12 05:51:46* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-කර්මාන්තවලට-සහන-ලබා-දීමට-රජයේ-අවධානය/11-412984) · `si`
 
-SME relief efforts discussed, including Parate Execution law implementation deadline, banking sector support, and SME debt report preparation.
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන ලබා දීම සම්බන්ධයෙන්  මූල්‍ය සහ ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් ජී.එන්.ආර්.ඩී අපොන්සු මහතා සහ ශ්‍රී ලංකා බැංකු සංගමය, මුදල් අමාත්‍යාංශය හා ශ්‍රී ලංකා  මහා බැංකුවේ නිලධාරීන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී ඊයේ (11දා) පැවැත්විණි.
 
-🟩
-
-Hon..
-
-Discussions were discussed at the discussion due to the problems faced by SMEs.
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් ණයගැතිභාවය නිසා මුහුණ දෙන ගැටලු පිළිබඳ මෙහිදී සාකච්ඡා කෙරිණි.
 
 පරාටේ නීතිය (Parate Execution) ක්‍රියාත්මක කිරීම මේ වන විට අත්හිටුවා ඇති අතර  එය ලබන දෙසැම්බර් මස 15වන දා කල් ඉකුත් වීමට නියමිතය.  ඒ සම්බන්ධයෙන් ගත යුතු ඉදිරි පියවර පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානය යොමු විය.
 
-The assistorary support to the banking sector to enhance the production capability of the economy is also discussed at length in the discussion.
+ආර්ථිකයේ නිෂ්පාදනය හැකියාව වර්ධනය කිරීම සඳහා බැංකු අංශයට ලබා දිය හැකි සහායද, මේ වන විට සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් ලබා ගෙන ඇති ණය සම්බන්ධවද මෙම සාකච්ඡාවේදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
 
-The discussion also decided to prepare a report on the debt obtained by the SMEs by the SMEs.
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් බැංකුවලින් ලබා ගත් ණය සම්බන්ධ වාර්තාවක් සකස් කිරීමටද මෙම සාකච්ඡාවේදී තීරණය විය.
 
-මේ වන විට බැංකු විසින් පරාටේ නීතිය යටතේ සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන්ට ලබා දී තිබෙන ණය නැවත අය කර ගැනීම තාවකාලික අත්හිටුවා ඇති අතර ඒ සම්බන්ධයෙන් ඉදිරි පියවර ගැනීම සම්බන්ධයෙන්ද  මෙහිදී සාකච්ඡා කෙරිණි.
-
-◼️
+...
 
 [Data](articles/87e437f4.json)
-
-[Extended Data](ext_articles/87e437f4.ext.json)
 
 ---
 
@@ -2351,5 +2117,225 @@ The Officer-in-Charge (OIC) of the Kochchikade Police Station has been arrested 
 [Data](articles/ba9ac995.json)
 
 [Extended Data](ext_articles/ba9ac995.ext.json)
+
+---
+
+### President Anura  Dissanayake Addressing Meeting in Jaffna Assures Tamils that  their Lands Seized by the State would be returned to them but  makes no reference to Greater Power Devolution or a Political Settlement to the Ethnic Question
+
+*2024-11-11 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85037) · `en`
+
+Sri Lanka’s President Anura Kumara Dissanayake on Sunday (November 10, 2024) assured Tamils that their land —currently held by state agencies — will be returned by his government.
+
+Mr. Dissanayake, who was elected to the country’s top office in September, made the pledge at a public rally in Jaffna, days ahead of Sri Lanka’s November 14 parliamentary polls. His promise evoked instant cheer and applause from the sizeable crowd gathered at an open ground adjoining St. Anthony’s Church in the coastal suburb of Passaiyoor.
+
+Over the last few years, Tamils living across the island’s war-affected north and east have been agitating to reclaim their lands that state agencies, including the archaeology and forest departments, have forcibly taken over.
+
+...
+
+[Data](articles/2339a43a.json)
+
+[Extended Data](ext_articles/2339a43a.ext.json)
+
+---
+
+### Piyumi and Viraja file case
+
+*2024-11-11 18:16:00* · [`adalk`](https://www.ada.lk/breaking_news/පියුමි-හා-විරාජ්-ආදායම්-බදු-නෙගෙවීම-ගැන-නඩුවක්/11-412979) · `si`
+
+Piyumi and Viraja case: Magistrate orders Commissioner of Inland Revenue to investigate. Attorney Dinesh Perera argues lack of evidence. Case adjourned for further inquiry.
+
+🟩
+
+Low to say that they have been unable to reveal the earlier assets of the earned assets, Colombo Additional Magistrate Bandara, Colombo Additional Magistrate BandaraMr. Reaching Order ordered the Commissioner of Inland Revenue today (11).
+
+The magistrate was sent by the Commissioner of Inland Revenue, accusing the accused by the Commissioner of Inland Revenue, accusing the accused by the Commissioner of Inland Revenue.The Magistrate also presented a report on the Inland Revenue Act No. 24 of 2017, submitting a report on the progress of the investigation.
+
+Attorney-at-Law Dinesh Perera appearing on behalf of the complaint with Article 122 (2) of the Criminal Informance Code, which is said to have been released in the Code of the Inland Revenue Code, who appeared with the Criminal Procedure of the Inland Revenue Code.According to search arrests, Thalawatugoda returned to his home in Talawatugoda, but he had left the residence.
+
+...
+
+[Data](articles/3a8c861a.json)
+
+[Extended Data](ext_articles/3a8c861a.ext.json)
+
+---
+
+### Three police officers released on bail
+
+*2024-11-11 18:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203142) · `si`
+
+Three police officers arrested over funeral procession incident released on bail.
+
+🟩
+
+The OIC of the Giranegama Police Station, the OIC of the Giranegama Police have arrested three OIC of the police station.
+
+The police spokesman DIG Talduuwa said that these people were arrested as a video in the social media regarding the incident.
+
+Addressing a media briefing held today (11), he said that the arrest was made by the Anuradhapura Police.
+
+The court said the court was ordered to be released on bail of Rs.
+
+"On the 18th, the OIC of the Giranegama Police Station had come to play a group of people who have come to a funeral home in a nearby area.. Later, the OIC and several officials have gone there. These people are the group, as they have played the corner of the corpses.. Nearly 12 people have been. Since the traditional vehicle is not brought to bringing these people. The starding was informed to come to the police. After they arrived in police, they all left the carriage. Then they were drunken and engaged in the sport of the prison. "
+
+◼️
+
+[Data](articles/a256e42e.json)
+
+[Extended Data](ext_articles/a256e42e.ext.json)
+
+---
+
+### Land deeds will begin
+
+*2024-11-11 18:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203141) · `si`
+
+Land deeds implementation begins in mountains. 214 families receive titles in Ratwatte Plantation. Distribution planned for Nuwara Eliya, Kandy, Matale, Badulla. Aims to improve lives of plantation workers.
+
+🟩
+
+Land deeds are implemented to the mountains.
+
+That is the New Village Control and Land Reforms Commission for Plantation Zones under the Ministry of Environment, Wildlife, Wildlife, Wildlife, Water Supply and Community Infrastructure.
+
+Land Rights to 214 mountain families have taken place at the Ratwatte Plantation Company belonging to the Ministry of Haruna.
+
+This basic deeds is part of the distribution plan in Nuwara Eliya, Kandy, Matale and Badulla distribution plan.
+
+The program is due to be distributed in 1049, the remaining land title deeds will be distributed in the next days and ensuring that all qualified persons in the plantation are receiving their legal rights.
+
+The Ministry says that the main objective is to create legal and economic resources to improve the overall quality of life of plantation workers and their families.
+
+...
+
+[Data](articles/00a3d71e.json)
+
+[Extended Data](ext_articles/00a3d71e.ext.json)
+
+---
+
+### The price of big onions and potatoes up
+
+*2024-11-11 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-ලූණු-හා-අර්තාපල්-මිල-ඉහළට/11-412978) · `si`
+
+Vegetable prices surge: onions (Rs. 340-360/kg), potatoes (Rs. 200-360/kg), coconuts (rising). Farmer difficulties due to low returns. Local stock depletion affecting markets.
+
+🟩
+
+In some areas, the retail price of a kilogram and potatoes of a kilogram of potatoes have risen to Rs.. In addition, a kilogram of kilograms of a large ground onion imported from foreign countries has risen to Rs. 340 and Rs. 360.
+
+But the retail price of a kilo of potatoes imported from foreign countries is priced between Rs. 200 and Rs.
+
+In some areas, the retail price of a coconut prices rose to Rs.
+
+The number of vegetables including carrots, potatoes, potatoes, carrots, cabbage, radish, the farmer organizations said that the farmer organizations have been severely difficult.
+
+All Ceylon Integrated Specialized Economic Centers and Manning Trade Society Ltd.. Idessa was inquired from Mr. Master.
+
+The National Organizer said that the local big onion stocks have been reduced to the market.
+
+In addition, coconut consignment receipts have also been reduced and the consignment of coconut is in a large number of Rs. 150 and Rs 160.
+
+The cost of a kilogram of carrots is reduced to Rs.
+
+...
+
+[Data](articles/8ccf191d.json)
+
+[Extended Data](ext_articles/8ccf191d.ext.json)
+
+---
+
+### Probe launched into Channel 4’s Easter attack allegations: CID summons Pilleyan for inquiry
+
+*2024-11-11 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103335/probe-launched-into-channel-4s-easter-attack-allegations-cid-summons-pilleyan-for-inquiry) · `en`
+
+Former Chief Minister of the Eastern Province Sivanesathurai Chandrakanthan alias Pilleyan has been summoned to the Criminal Investigations Department (CID) tomorrow (12), in order to record a statement related to the allegations in the documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
+
+Speaking at a press conference held today (11), Police Media Spokesman DIG Nihal Thalduwa said that the CID has launched a probe into the relevant incident as per a complaint lodged by an organization with the Ministry of Public Security against the statement made by Azad Maulana to Channel 4 on the 2019 Easter Sunday terror attacks.
+
+He said that accordingly, an investigation was launched by the CID into the controversial statements made by several individuals regarding the Easter attacks.
+
+...
+
+[Data](articles/e28ba1e7.json)
+
+[Extended Data](ext_articles/e28ba1e7.ext.json)
+
+---
+
+### Tension in Badulla by Number 10
+
+*2024-11-11 17:53:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/10ஆம்-இலக்கத்தால்-பதுளையில்-பதற்றம்/76-346948) · `ta`
+
+Tensions rise as police halt Harin Fernando's campaign in Badulla. Dispute over Lionel Messi jerseys sparks controversy between candidate, supporters, and election officials.
+
+🟩
+
+Tensions were followed by police trying to prevent former minister Harinbernando's election campaign in Badulla.
+
+Harinbernando and his supporters campaigned for international footballer Lionel Messi Jersey, like Jersey, a tenth -digit teacher.
+
+However, the police and the election officials called for a campaign to stop it.
+
+Following this, the argument broke out - Harinbernando and his supporters argued that the resort was not involved in the election campaign.
+
+However, the Election Commission officials and the police said that this was a symbol of the former minister's electoral competition and that a deception was a political campaign.
+
+◼️
+
+[Data](articles/6bc1c584.json)
+
+[Extended Data](ext_articles/6bc1c584.ext.json)
+
+---
+
+### Elections Commission can get voter cards into the e -service of the Elections Commission - Elections Commission
+
+*2024-11-11 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198454) · `ta`
+
+Elections Commission allows non-card holders to access e-service. Valid ID required for voting. No need for official voter card. Visit eservices.elections.gov.lk for registration and card download. OTP required for mobile verification.
+
+🟩
+
+The Elections Commission has announced that those who do not have the official voter card can get voter cards to enter the Elections Commission's official e-service website.
+
+The presence of the official voter card to vote for voters is not mandatory. 2024 Voter who has a valid identity card named in the 2024 Chariot Idabe can go to the polling station they have notes and confirm their personality.
+
+The official voter card postage posting ended on the 07th of this month as the official referendum for the general election is scheduled for tomorrow.
+
+Those who do not have official voter cards can get their voter cards by going to the Divisional Post Office they have registered in the Idapam by 2024.11.14.
+
+Accordingly, the election of https://eservices.elections.gov.lk should enter the e-service website and enter the e-service search for the citizens in its area.
+
+...
+
+[Data](articles/d1c7e6df.json)
+
+[Extended Data](ext_articles/d1c7e6df.ext.json)
+
+---
+
+### Sri Lanka banks, SMEs meet at Presidents office to discuss parate law, loans
+
+*2024-11-11 17:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-smes-meet-at-presidents-office-to-discuss-parate-law-loans-186934/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s banks, regulators and small and medium enterprises met at the Presidential Secretariat to discuss parate execution (foreclosure) and loan repayment difficulties faced by SMEs, a statement said.
+
+The law on parate execution or deciding on auctioning collateral of defaulted loans by banks has been suspended till December 15.
+
+The meeting discussed financial difficulties encountered by SMEs due to loan obligations, president’s media division said. “The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.”
+
+The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs, G N R D
+
+Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks Association (Guarantee) Limited.
+
+Attendees examined ways for the banking sector to provide additional support to SMEs and boost productivity in the economy.
+
+...
+
+[Data](articles/17072968.json)
+
+[Extended Data](ext_articles/17072968.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 15:00:03**
+As of **2024-11-12 15:13:27**
 
 ## Newspaper Stats
 
-*Scraped **54,403** Articles*
+*Scraped **54,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,254
 economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,087
+adalk | 5,088
 adaderanalk | 6,483
 tamilmirrorlk | 7,607
 virakesarilk | 8,825
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,495
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,401 (100.0%) of 54,403 articles have been extended.
+54,401 (100.0%) of 54,404 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -175,6 +175,22 @@ Human rights groups, families and activists of the suspects have been fighting f
 [Data](articles/8a146d33.json)
 
 [Extended Data](ext_articles/8a146d33.ext.json)
+
+---
+
+### ඊශ්‍රායලය ‘ජන සංහාරයක් ’ සිදු කරන බවට සෞදියේ ඔටුන්න හිමි කුමරුගෙන් චෝදනාවක්
+
+*2024-11-12 13:57:40* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලය-‘ජන-සංහාරයක්-’-සිදු-කරන-බවට-සෞදියේ-ඔටුන්න-හිමි-කුමරුගෙන්-චෝදනාවක්/11-412992) · `si`
+
+ඊශ්‍රායලය විසින් ගාසා තීරය තුළ ‘ජන සංහාරයක් ’ සිදු කරන බවට සෞදියේ ඔටුන්න හිමි මොහොමඩ් බින් සල්මාන් කුමරු සඳහන් කර තිබේ.
+
+මුස්ලිම් සහ අරාබි නායකයින්ගේ සමුළුවකදී අදහස් දක්වමින් ඔහු මේ බව සඳහන් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
+
+එමෙන්ම ලෙබනනයට සහ ඉරානයට ඊශ්‍රායල ප්‍රහාර එල්ල කිරීම ද මොහොමඩ් බින් සල්මාන් කුමරු මෙහිදී විවේචනය කර තිබේ.
+
+◼️
+
+[Data](articles/41e4c016.json)
 
 ---
 
@@ -2469,27 +2485,5 @@ The police arrived at the scene and had taken steps to control the situation.Two
 [Data](articles/018f90ff.json)
 
 [Extended Data](ext_articles/018f90ff.ext.json)
-
----
-
-### Govt to prioritizes relief for SMEs in Sri Lanka
-
-*2024-11-11 23:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103340/govt-to-prioritizes-relief-for-smes-in-sri-lanka) · `en`
-
-A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
-
-The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs, Mr. G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited, the PMD said.
-
-The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
-
-Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15.
-
-The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
-
-...
-
-[Data](articles/730051e9.json)
-
-[Extended Data](ext_articles/730051e9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 20:41:18**
+As of **2024-11-12 21:11:44**
 
 ## Newspaper Stats
 
-*Scraped **54,463** Articles*
+*Scraped **54,469** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,095
 adaderanalk | 6,498
-tamilmirrorlk | 7,619
-virakesarilk | 8,837
+tamilmirrorlk | 7,620
+virakesarilk | 8,842
 adaderanasinhalalk | 9,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,462 (100.0%) of 54,463 articles have been extended.
+54,468 (100.0%) of 54,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### 10 ஆவது பாராளுமன்றத்தின் முதலாவது அமர்வு...
+
+*2024-11-12 20:56:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றத்தின்-முதலாவது-அமர்வு/175-347019) · `ta`
+
+10 ஆவது பாராளுமன்றத்தின் முதலாவது அமர்வு இம்மாதம் 21 ஆம் திகதி இடம்பெறவுள்ளது.
+
+அரசியலமைப்பின் 70 ஆம் உறுப்புரையின் பிரகாரம் ஜனாதிபதி அநுர குமார திசாநாயக்கவினால் விசேட வர்த்தமானி அறிவித்தலின் ஊடாக இது அறிவிக்கப்பட்டுள்ளது.R
+
+◼️
+
+[Data](articles/094cb436.json)
+
+---
 
 ### Awareness is to hand over firearms before December 30
 
@@ -74,6 +88,28 @@ The announcement indicates that the officers of the department have been deploye
 
 ---
 
+### 35 killed in car accident in China
+
+*2024-11-12 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198543) · `ta`
+
+Car crash kills 35 in China. Driver, under stress from divorce, crashes into exerciser. Driver now in coma, unable to confess fully.
+
+🟩
+
+35 people were killed when a vehicle crashed into a man who was exercising outside the stadium in Juhai, China.
+
+Investigations have revealed that the suspect has done so due to stress relating to the problem of a property settlement after the divorce, a 62 -year -old man.
+
+Foreign media reports that the driver of the accident is currently in a coma and that the full confession of the accident cannot be obtained by the police.
+
+◼️
+
+[Data](articles/3a194dfa.json)
+
+[Extended Data](ext_articles/3a194dfa.ext.json)
+
+---
+
 ### President summoned parliament on 21st
 
 *2024-11-12 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203185) · `si`
@@ -96,6 +132,30 @@ According to the November 21st, 2024, was issued a gazette notification to the P
 
 ---
 
+### The first session of the Tenth Parliament: The Presidential Published by the President
+
+*2024-11-12 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198542) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+First session of 10th Parliament: Thursday, Nov 21, 10 AM. General election for MPs on Nov 14.
+
+🟩
+
+The first session of MPs, elected by the votes of the people of the tenth parliamentary session, will be held on Thursday, November 21 at 10 am.
+
+It is noteworthy that the general election to elect MPs for the tenth parliament will be held on the 14th.
+
+◼️
+
+[Data](articles/a1948b80.json)
+
+[Extended Data](ext_articles/a1948b80.ext.json)
+
+---
+
 ### The Election Commission Special Report
 
 *2024-11-12 19:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-விசேட-அறிக்கை/175-347018) · `ta`
@@ -115,6 +175,32 @@ The Election Commission has issued a special report on the holidays for voting f
 [Data](articles/5c589ad0.json)
 
 [Extended Data](ext_articles/5c589ad0.ext.json)
+
+---
+
+### Sri Lankan team consultant instructor;Neil McKenzie of South Africa
+
+*2024-11-12 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198541) · `ta`
+
+Sri Lankan cricket team appoints Neil McKenzie as consultant coach. Former South African cricketer will advise players on adapting to South African conditions and pitch characteristics.
+
+🟩
+
+இலங்கை கிரிக்கெட் அணியின் ஆலோசக பயிற்றுநராக தென் ஆபிரிக்காவின் முன்னாள் துடுப்பாட்ட வீரர் நீல் மெக்கென்ஸி நியமிக்கப்பட்டுள்ளார்.
+
+மிகக் குறுகிய காலத்திற்கு ஆலோசகப் பயற்றுநராக ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நியமிக்கப்பட்டுள்ள   நீல் மெக்கென்ஸி, தென் ஆபிரிக்கா சென்றுள்ள இலங்கையின் ஒரு தொகுதி டெஸ்ட் கிரிக்கெட் வீரர்களுக்கு ஆலோசனைகளையும் பயிற்சிகளையும் வழங்கவுள்ளார்.
+
+தென் ஆபிரிக்காவில் டெஸ்ட் தொடருக்கு முன்பதாக பயிற்சிப் போட்டிகள் நடைபெறாததால் பத்து வீரர்களைக் கொண்ட முதல் தொகுதி டெஸ்ட் வீரர்கள் முன்னாயத்த பயிற்சிகளில் ஈடுபடவுள்ளனர்.
+
+The Sri Lankan players will receive the most important advice from Neil McCensi to accustomed to the inherent characteristics of the South African conditions and the nature of the pitch.
+
+மூவகை சர்வதேச கிரிக்கெட் போட்டிகளில்  தென் ஆபிரிக்காவுக்காக   விளையாடி 4948 ஓட்டங்களை மொத்தமாக பெற்றுள்ள நீல் மெக்கென்ஸி, இன்று முதல் எதிர்வரும் 21ஆம் திகதிவரை இலங்கை வீரர்களுடன் இணைந்து செயற்படுவார்.
+
+...
+
+[Data](articles/db8f0a9a.json)
+
+[Extended Data](ext_articles/db8f0a9a.ext.json)
 
 ---
 
@@ -206,6 +292,58 @@ It is noteworthy that the questionnaire includes many questions about the Nation
 
 ---
 
+### மத்துகம சி.டபிள்யூ.டபிள்யூ. Kannangara Central Maha Vidyalaya: Proper inquiry into the General Knowledge Examination Questionnaire - Ministry of Education
+
+*2024-11-12 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198538) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Education Ministry investigates exam questions controversy at Kalutara school. Proper inquiry to be conducted before taking action.
+
+🟩
+
+Kalutara District CWW. கண்ணங்கர மத்திய மகா வித்தியாலயத்தில் இரண்டாம் தவணை பரீட்சையில் உயர்தர மாணவர்களுக்கு வழங்கப்பட்ட பொது அறிவு பரீட்சை வினாத்தாள் தொடர்பில் அமைச்சு மட்டத்தில் முன்னெடுக்கப்படும் முறையான விசாரணைகளின் பின்னர்; உரிய நடவடிக்கைகள் எடுக்கப்படும் எனக் கல்வி அமைச்சு அறிவித்துள்ளது.
+
+Kalutara District CWW. கண்ணங்கர மத்திய மகா வித்தியாலயத்தில் இரண்டாம் தவணை பரீட்சையில் உயர்தர மாணவர்களுக்கு வழங்கப்பட்ட பொது அறிவு பரீட்சை வினாத்தாளில் அரசியல் கட்சி  தொடர்பில் கேள்விகள் கேட்கப்பட்டுள்ளதாக முன்வைக்கப்படும் விடயம் குறித்து உடன் விசாரணைகளை மேற்கொள்ளுமாறு கல்வி, விஞ்ஞானம், மற்றும் தொழில்நுட்ப  அமைச்சின்  செயலாளர் திலகா ஜயசுந்தர உரிய அதிகாரிகளுக்கு ஆலோசனை வழங்கியுள்ளார்.
+
+The exam question paper is prepared at the appropriate school level. Therefore, the Ministry of Education or other institutions has nothing to do with the Ministry of Education.
+
+The Ministry of Education has stated that appropriate action will be taken after a proper inquiry into the ministry level.
+
+◼️
+
+[Data](articles/651af6f1.json)
+
+[Extended Data](ext_articles/651af6f1.ext.json)
+
+---
+
+### Legal action will be taken on the financial fraud of politicians in the Sri Lanka Foreign Employment Bureau - Goshala Wickremasinghe
+
+*2024-11-12 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198534) · `ta`
+
+Sri Lanka Foreign Employment Bureau investigates 15 corruption complaints involving politicians. Chairman Goshala Wickremasinghe vows to clean up bureau's image after political interference.
+
+🟩
+
+15 complaints have been received regarding corruption scandal in the past at the Sri Lanka Foreign Employment Bureau. Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe said that politicians have been informed of financial fraud and financial fraud.
+
+He was speaking at a special press conference held at the Sri Lanka Foreign Employment Bureau on Tuesday (12).
+
+With the intervention of politicians within the Sri Lanka Foreign Employment Bureau, I gave my personal telephone number to complain about corruption scandals. Accordingly, we have informed the Internal Audit Division for the complaints we received.
+
+Accordingly, we are going to start 15 complaints in those complaints. In the coming weeks, we will find out about the departments of those inquiries.The Internal Audit Unit has taken steps to investigate 15 complaints of corruption scandal in the Bureau.
+
+...
+
+[Data](articles/4c9ff989.json)
+
+[Extended Data](ext_articles/4c9ff989.ext.json)
+
+---
+
 ### Two killed and drinking a bottle of illegal liquor
 
 *2024-11-12 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203184) · `si`
@@ -279,6 +417,32 @@ India views foreign interference in South Asia warily. In Sri Lanka, India suppo
 [Data](articles/ce015cf7.json)
 
 [Extended Data](ext_articles/ce015cf7.ext.json)
+
+---
+
+### Increase in Sri Lankans in Myanmar's ecommerce scam - Ministry of Defense
+
+*2024-11-12 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198497) · `ta`
+
+Sri Lankans targeted in Myanmar ecommerce scams. Ministry warns public about fraudulent recruitment schemes. Victims lured with higher IT salaries, then forced into illegal labor camps. Mental & physical abuse reported. Authorities advise against illegal settlements and warn employers about tourist visas. Public urged to report suspicious activities.
+
+🟩
+
+The Ministry of Defense has said that the National Human Trafficking Prevention Committee (NAHTTF) has received information from the United Kingdoms in the United Arab Emirates to the e -mail fraudulent slave camps in Myanmar's Miyawadi area.
+
+The National Human Trafficking Prevention Committee has issued a warning to the public on several occasions over the rise of recruitment for egoist fraudsters in Myanmar's Miyawadi area.
+
+Recent investigations have revealed that smugglers are targeting information technology experts claiming to provide more salary for more salary abroad.
+
+In other countries, they attract workers, promising to provide more wages in information technology sector.
+
+Investigators have revealed that the inspired persons were taken to places like Dubai under the guise of an interview for employment and then forced to work illegally to work in the Miyawadi area of ​​Myanmar.
+
+...
+
+[Data](articles/43bd85e9.json)
+
+[Extended Data](ext_articles/43bd85e9.ext.json)
 
 ---
 
@@ -378,32 +542,6 @@ The Monday night incident came on the eve of the country’s premier aviation ex
 
 ---
 
-### Increase in Sri Lankans in Myanmar's ecommerce scam - Ministry of Defense
-
-*2024-11-12 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198497) · `ta`
-
-Sri Lankans targeted in Myanmar ecommerce scams. Ministry warns public about fraudulent recruitment schemes. Victims lured with higher IT salaries, then forced into illegal labor camps. Mental & physical abuse reported. Authorities advise against illegal settlements and warn employers about tourist visas. Public urged to report suspicious activities.
-
-🟩
-
-The Ministry of Defense has said that the National Human Trafficking Prevention Committee (NAHTTF) has received information from the United Kingdoms in the United Arab Emirates to the e -mail fraudulent slave camps in Myanmar's Miyawadi area.
-
-The National Human Trafficking Prevention Committee has issued a warning to the public on several occasions over the rise of recruitment for egoist fraudsters in Myanmar's Miyawadi area.
-
-Recent investigations have revealed that smugglers are targeting information technology experts claiming to provide more salary for more salary abroad.
-
-In other countries, they attract workers, promising to provide more wages in information technology sector.
-
-Investigators have revealed that the inspired persons were taken to places like Dubai under the guise of an interview for employment and then forced to work illegally to work in the Miyawadi area of ​​Myanmar.
-
-...
-
-[Data](articles/43bd85e9.json)
-
-[Extended Data](ext_articles/43bd85e9.ext.json)
-
----
-
 ### Wild elephant attack in Anuradhapura
 
 *2024-11-12 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198501) · `ta`
@@ -466,19 +604,25 @@ Meanwhile, the voting boxes for the Nedundi Island will be taken by the boats on
 
 ---
 
-### දකුණු අප්‍රිකානු සංචාරයට දකුණු අප්‍රිකාවේ ප්‍රභලයෙක් ලංකාව තෝරා ගනියි
+### Sri Lanka chooses a strong one in South Africa to visit South Africa
 
 *2024-11-12 17:05:21* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකානු-සංචාරයට-දකුණු-අප්‍රිකාවේ-ප්‍රභලයෙක්-ලංකාව-තෝරා-ගනියි/9-412999) · `si`
 
-ශ්‍රි ලංකා ටෙස්ට් කණ්ඩායමේ දකුණු අප්‍රිකානු සංචාරය සඳහා දකුණු අප්‍රිකානු කණ්ඩායමේ හිටපු දක්ෂ පිතිකරුවෙක් වන නීල් මැකෙන්සි ව කෙටි කාලීනව ශ්‍රී ලංකා කණ්ඩායමේ උපදේශක පුහුණුකරුවෙක් ලෙස පත්කර තිබේ.
+Sri Lanka selects Neil McKenzie as short-term coach for South Africa tour. Sri Lankan Test team arrives in South Africa. Second Test between teams starts November 27th.
 
-මෙම තරගාවලියට එක්වීම සඳහා ශ්‍රී ලංකා ටෙස්ට් කණ්ඩායමේ කිහිප දෙනෙක් ඊයේ දිනයේදී දකුණු අප්‍රිකාව බලා පිටත්ව ගොස් තිබේ.
+🟩
 
-ඔවුන් සමග එක්ව නීල් මැකෙන්සි මහතා පුහුණු උපදේශන සැසි කිහිපයක් පවත්වනු ඇත.  දකුණු අප්‍රිකාව සහ ශ්‍රී ලංකාව අතර තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලියේ පළමු තරගය නොවැම්බර් 27 වනදාත් දෙවැනි ටෙස්ට් තරගය දෙසැම්බර් 05 වනදාත් ආරම්භ වීමට නියමිතය.
+South Africa's southern African to tour southern African tourist Neil McCanksy has been appointed as a short term trainer in the Sri Lankan team.
+
+Several Sri Lanka Test team left for South Africa yesterday to join the tournament.
+
+Mr. Neil McCmency collapses with them will conduct several training consulting sessions.The second match between South Africa and Sri Lanka will commence the second Test on November 27th.
 
 ◼️
 
 [Data](articles/f1076c24.json)
+
+[Extended Data](ext_articles/f1076c24.ext.json)
 
 ---
 
@@ -2409,167 +2553,5 @@ It is noteworthy that Poonakari Ramanathapuram Puliyampakkani Paranthan has been
 [Data](articles/a15a85d0.json)
 
 [Extended Data](ext_articles/a15a85d0.ext.json)
-
----
-
-### The police were in alert
-
-*2024-11-12 10:55:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உஷார்-நிலையில்-பொலிஸார்/175-346981) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Police deploy 64,000 officers nationwide for election security. Special Task Force stands ready. Authorities seek public support for peaceful polls.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Talduwa said that the police have carried out special security measures from today (12) ahead of the general election.
-
-About 64,000 police officers will be deployed at all polling booths across the country, he said.
-
-He added that police officers will be deployed on the day of elections nationwide and the next day, if needed.
-
-He also pointed out that about 64,000 policemen have been deployed for security and 3,200 officers of the Police Special Task Force are ready for duty.
-
-At the same time, he said that everyone is asking for the support to hold an independent and peaceful election.
-
-◼️
-
-[Data](articles/91e56d6f.json)
-
-[Extended Data](ext_articles/91e56d6f.ext.json)
-
----
-
-### Tamil Nadu fishermen arrested 12 more
-
-*2024-11-12 10:49:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழக-மீனவர்கள்-மேலும்-12-பேர்-கைது/175-346980) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Sri Lankan navy arrests 12 Tamil Nadu fishermen, bringing total arrests to 485 since 2024. Fishermen's families urge governments for permanent solution as courts impose hefty fines and lengthy prison terms."
-
-🟩
-
-12 more fishermen arrested by Sri Lankan navy. Sri Lankan navy has arrested 12 fishermen today (Nov 12) after 23 Rameshwaram fishermen were arrested on November 10.
-
-Nagapattinam: Sri Lankan navy has arrested 12 fishermen for allegedly crossing the border. Also, have also seized a vessel. This has caused turmoil among fishermen in the last few days.
-
-More than 485 fishermen have been arrested by the Sri Lankan navy since the beginning of 2024. More than 65 boats have been imprisoned.
-
-The Sri Lankan courts impose huge fines for the arrested fishermen. Also, fishermen are in prison for months. As a result, fishermen are constantly urging the central and state governments to find a permanent solution to the problem as the families of the families of the fishermen who have lost their livelihoods.
-
-...
-
-[Data](articles/ac0821cc.json)
-
-[Extended Data](ext_articles/ac0821cc.ext.json)
-
----
-
-### Student admitted to hospital
-
-*2024-11-12 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198482) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Student hurt in train accident. 21-year-old fell off night train near Haputale. Seriously injured. Admitted to hospital. Police investigating incident.
-
-🟩
-
-Haputale police said that a 1045 -year -old night post train traveling from Colombo Fort to Badulla at the Haputale railway station was hit by a train on Tuesday (12).
-
-A 21 -year -old university student from Ratgama, Araliya, Mavadavila, fell off the train and was seriously injured, police said.
-
-When the train stopped at the Haputtala railway station at 6.30 am when the train was stopped at the Haputtala railway station at 6.30 am, the police said that they were injured when they got off the train and got back on the train.
-
-It is reported that Yuvati was immediately admitted to the Diyatalawa General Hospital for treatment.
-
-On the advice of Senior Superintendent of Police Pradeep Kalubahana, who is in charge of the Bandarawela Police Division, a police team headed by Haputtai Police Station Prabhopa Sebala Ratnayake is conducting further investigations.
-
-◼️
-
-[Data](articles/89175976.json)
-
-[Extended Data](ext_articles/89175976.ext.json)
-
----
-
-### Fonterra says gets meaningful buyer interest for Sri Lanka unit, consumer division
-
-*2024-11-12 10:38:00* · [`economynextcom`](https://economynext.com/fonterra-says-gets-meaningful-buyer-interest-for-sri-lanka-unit-consumer-division-186928/) · `en`
-
-ECONOMYNEXT – New Zealand-based Fonterra said it has received meaningful buyer interest in initial exploration to sell off its global consumer division and integrated units in Sri Lanka and Oceania.
-
-Earlier this year Fonterra said that it was planning to exit consumer (retail) business and focus on ingredients and food service distribution channels.
-
-“We have received meaningful buyer interest in the businesses in scope for divestment, which is testament to their strength and potential,” Chief Executive Miles Hurrell said in a statement.
-
-“Through the scoping phase, we have assessed both a trade sale and IPO as attractive divestment options and will now prepare for a sale process which will pursue both options.”
-
-“We will thoroughly test the terms and value of both a trade sale and IPO with the market before seeking support from farmer shareholders for a divestment option through a vote,” Hurrell said.
-
-...
-
-[Data](articles/1486224b.json)
-
-[Extended Data](ext_articles/1486224b.ext.json)
-
----
-
-### Rishad's and Masathan supporters delegated at the final rally
-
-*2024-11-12 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203165) · `si`
-
-Clash between Rishad Bathiudeen and Kader Masthan supporters injures two, damages vehicles in Vavuniya. Police investigating. Both politicians contesting parliamentary election from Vanni electorate.
-
-🟩
-
-Former Minister Rishad Bathiudeen and former Minister of State Minister Kader Masathan has conflicts.
-
-The Vavuniya Police states that two persons were injured in the clash at the Pattitchur area in Vavuniya last night.
-
-Former State Minister Kader Masathan's final advertising rally was scheduled to be held in Pattranchchur, former Minister Rishad Bathiudeen's propaganda meeting.
-
-රැස්වීම වෙනුවෙන් රිෂාඩ් බදියුදීන් මහතා හා ඔහුගේ ආධාරකරුවන් ගමන් කරමින් සිටියදී මස්තාන් මහතාගේ ආධාරකරුවන් රිෂාඩ් බදියුදීන් මහතා ගමන්ගත් වාහනය වෙත පහරදී තිබේ.
-
-The clash had occurred between the two parties, while the Vavuniya Police and the Nelukkulama police have intervened.
-
-Two persons were injured and admitted to the Vavuniya hospital while several vehicles were damaged in the confrontation, police said.
-
-The Vavuniya Police and the Nelukkulama Police are conducting further investigations into the incident.
-
-...
-
-[Data](articles/a8ed0c69.json)
-
-[Extended Data](ext_articles/a8ed0c69.ext.json)
-
----
-
-### Change in the price of natural gas
-
-*2024-11-12 10:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இயற்கை-எரிவாயுவின்-விலையில்-மாற்றம்/50-346978) · `ta`
-
-Natural gas price rises to $2.928 globally. WTI crude oil barrel falls to $68.21, while another type drops to $71.83. Market fluctuations continue.
-
-🟩
-
-The price of natural gas in the world market has increased to $ 2.928 today
-
-In the world market, the price of a WTI lubricant barrel has fallen to $ 68.21.
-
-As well as the price of a barrel lubricant barrel at $ 71.83. Remble
-
-◼️
-
-[Data](articles/4c589372.json)
-
-[Extended Data](ext_articles/4c589372.ext.json)
 
 ---

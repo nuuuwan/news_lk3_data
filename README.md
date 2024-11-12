@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 13:41:53**
+As of **2024-11-12 14:00:42**
 
 ## Newspaper Stats
 
-*Scraped **54,392** Articles*
+*Scraped **54,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ adalk | 5,086
 adaderanalk | 6,483
 tamilmirrorlk | 7,603
 virakesarilk | 8,824
-adaderanasinhalalk | 9,490
+adaderanasinhalalk | 9,492
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,392 (100.0%) of 54,392 articles have been extended.
+54,392 (100.0%) of 54,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### යක්දෙහි කන්දෙන් ඇසෙන කඳුළු කතාව - අක්කර දෙකක තේ වගාව විනාශ කරලා
+
+*2024-11-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203174) · `si`
+
+දහඩිය වගුරුවමින් වෙහෙස මහන්සි වී සිදුකළ වැවිලි බෝග වගාවක් නොසිතූ ලෙස විනාශ වී යන්නේ නම් එහි වේදනාව කොතරම්දැයි සිතා ගත හැකිය.
+
+ගාල්ල හා මාතර දිස්ත්‍රික්කවලට මායිම්ව ලෝක උරුම සිංහරාජ රක්ෂිත මායිමේ පිහිටි නෙළුව දෙල්ලව යක්දෙහි කන්ද කඳුපාමුල පිහිටි අක්කර දෙකක තේ වගාවේ හිමිකරුවා වන්නේ 50 හැවිරිදි එච්.ජී. තුෂාරනන්ද හෙවත් ජෝති නැමැත්තායි.
+
+ඔහුට සිය පියාගෙන් ලැබුණු අක්කර දෙකක තේ වගාව මීට දින කිහිපයකට පෙර හදිසියේම ගලවා ඉවත්කර ඇත්තේ කොළඹ තිඹිරිගස්යායේ පදිංචි කේ. සමරසූරිය නමැති කාන්තාවක් විසිනි.
+
+එහිදී සිද්ධිය සම්බන්ධයෙන් නෙළුව පොලීසියේ ස්ථානාධිපතිවරයා ද තමාට දුරකථන ඇමතුමක් ලබාදුන් බව ජෝති නම් පුද්ගලයා පවසයි.
+
+"රට ඉඳලා නෝනා කෙනෙක් කතා කරලා ඇහුවා තමා ජෝති ද කියලා. මම කිව්වා ඔව් කියලා. තමා ඒ ඉඩමෙන් අයින් වෙන්න ඕනේ කියුවා නැත්නම් කොළඹින් කට්ටිය එවලා අයින් කරනවායි කියලා මට තර්ජනය කළා."
+
+සිද්ධිය සම්බන්ධයෙන් නෙළුව පොලීසියේ ස්ථානාධිපතිවරයාද තමාට දුරකතන ඇමතුමක් ලබා දුන් බව ජෝති නැමති පුද්ගලයා පවසයි.
+
+...
+
+[Data](articles/3716babc.json)
+
+---
+
+### කොළඹ මහල් නිවාස සංකීර්ණයක විදුලි සෝපානය කඩාවැටෙයි
+
+*2024-11-12 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203173) · `si`
+
+මහල් නිවාස සංකීර්ණයක විදුලි සෝපානය කඩා වැටීමෙන් පොලිස් නිලධාරියෙකු තුවාල ලබා තිබේ.
+
+එලෙස විදුලි සෝපානය කඩා වැටී තිබුණේ ග්‍රෑන්ඩ්පාස් මුවදොර උයන මහල් නිවාස සංකීර්ණයේ D ගොඩනැගිල්ලෙහිදීය.
+
+ඊයේ (11) අලුයම 1.30ට එම අනතුර සිදුව ඇති අතර මෙම අනතුරට මුහුණ දී තිබුණේ සම්පත් නම් පොලිස් කොස්තාපල්වරයෙකි.
+
+◼️
+
+[Data](articles/c3dbb335.json)
+
+---
 
 ### Two Chinese women arrested
 
@@ -2395,55 +2433,5 @@ The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a compr
 [Data](articles/7e15019f.json)
 
 [Extended Data](ext_articles/7e15019f.ext.json)
-
----
-
-### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
-
-*2024-11-11 21:54:00* · [`islandlk`](http://island.lk/imf-delegations-impending-visit-to-sri-lanka-sends-positive-vibes-to-stock-market/) · `en`
-
-The stock market moved to positive territory yesterday in anticipation of favourable corporate quarter results and a sense of optimism stemming from the high level IMF delegation’s visit to Sri Lanka after the election to review the third tranche for Sri Lanka, market analysts said.
-
-Due to these factors the stock market moved upwards and investor confidence seemed to be gathering momentum. Both indices moved upwards. The All Share Price Index went up by 73.86 points while S and P SL20 rose by 43.94 points. Turnover was Rs 2.42 billion with four crossings.
-
-Those crossings were reported in HNB, which crossed 2.31 million shares to the tune of Rs 528 million; its shares traded at Rs 228, Pan Asia Bank 1.9 million shares crossed for Rs 49.4 million; its shares traded at Rs 26, Commercial Bank 200,000 shares crossed for Rs 23.4 million; its shares sold at Rs 117 and Lanka Aluminium 750,000 shares crossed to the tune of Rs 20 million; its shares sold at Rs 26.50.
-
-...
-
-[Data](articles/b74daa8e.json)
-
-[Extended Data](ext_articles/b74daa8e.ext.json)
-
----
-
-### Investigation from CID regarding Channel 4 video
-
-*2024-11-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203152) · `si`
-
-CID investigates Channel 4 video Easter attack complaint Police Headquarters interview Mohamed Mihil Mohal Moulana Penal Code allegations Fort Hon. Magistrate's Court media briefing DIG Talduuwa summons
-
-🟩
-
-The CID has commenced investigations into a video broadcast on a foreign television channel in connection with the Easter attack.
-
-A complaint to the Police Headquarters has been handed over to the Police Headquarters following the video on the video by an external organization.
-
-A British Television channel Channel 4 was interviewed by Sri Lankans, Mohamed Mihil Mohal Moulana, a Sri Lankan.
-
-The interview was broadcast on or near the 6th of September 2023.
-
-Accordingly, the Department of Criminal Investigations have commenced under several allegations, including the controversial matters and the plot of the Penal Code on the video.
-
-The Criminal Investigations Department (CID) has reported to the Fort Hon. Magistrate's Court today (11).
-
-Meanwhile, police spokesman DIG Talduuwa said that he was speaking at a media briefing held today.
-
-Accordingly, he has been summoned to the CID tomorrow morning at 9.30 am.
-
-◼️
-
-[Data](articles/01ec3639.json)
-
-[Extended Data](ext_articles/01ec3639.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 06:46:18**
+As of **2024-11-12 05:49:45**
 
 ## Newspaper Stats
 
-*Scraped **54,322** Articles*
+*Scraped **54,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,65 +20,17 @@ adalk | 5,077
 adaderanalk | 6,479
 tamilmirrorlk | 7,587
 virakesarilk | 8,811
-adaderanasinhalalk | 9,474
+adaderanasinhalalk | 9,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,316 (100.0%) of 54,322 articles have been extended.
+54,311 (100.0%) of 54,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
-
-### අද සිට යළි ගමන් අරඹන දුම්රිය
-
-*2024-11-12 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203156) · `si`
-
-කොළඹ කොටුව සිට තලේමන්නාරම අතර දුම්රිය ධාවනය අද (12) සිට යළි ආරම්භ කරන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කළේ මහව සහ අනුරාධපුරය අතර දුම්රිය මාර්ග සංවර්ධන ව්‍යාපෘතිය හේතුවෙන් දැනට තාවකාලිකව නවතා තිබූ තලේමන්නාරම මාර්ගයේ දුම්රිය ධාවනය මෙලෙස ආරම්භ කිරීමට කටයුතු සැලසුම්කර ඇති බවය.
-
-ඒ අනුව හෙට සිට කොළඹ සහ තලේමන්නාරම අතර පහත පරිදි දුම්රිය ධාවනය සිදු කෙරේ.
-
-2024.11.12 දින සිට - කොළඹ කොටුව පිටත්වීම ප.ව. 16.15 තලේමන්නාරම ළඟාවීම ප.ව. 22.15
-
-2024.11.13 දින සිට - තලේමන්නාරම පිටත්වීම පෙ.ව. 04.15 කොළඹ කොටුව ළඟාවීම පෙ.ව. 10.15
-
-◼️
-
-[Data](articles/f2e6a824.json)
-
----
-
-### A change in weather from tomorrow
-
-*2024-11-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203154) · `si`
-
-Weather alert: Low pressure zone forming over Bay of Bengal. Heavy rains expected in Northern Province, Eastern, Central, Uva, Sabaragamuwa, Southern Provinces from Nov 13. Thunderstorms possible with strong winds and lightning. Public advised to take precautions.
-
-🟩
-
-The Meteorological Department says that the Bay of Bay of Bengal is capable of building a low pressure zone today (12).
-
-The department states that in many parts of the island in many parts of the island, the intense atmospheric objective of thundershowers will be expected in the next few days from November 13.
-
-Showers will occur in the Northern Province and showers at several places in the evening or night during the evening.
-
-MM on the Eastern, Central, Uva, Sabaragamuwa, and Southern Provinces. Heavy rains experience more than 50.
-
-The Department of Meteorology will be held in some places in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/829dbf99.json)
-
-[Extended Data](ext_articles/829dbf99.ext.json)
-
----
 
 ### Towards building a digital tourism fortress
 
@@ -596,8 +548,6 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 [Data](articles/680949c4.json)
 
-[Extended Data](ext_articles/680949c4.ext.json)
-
 ---
 
 ### Dilith offers president a practical plan to solve Sri Lanka’s debt crisis
@@ -658,8 +608,6 @@ The event commenced with an enchanting dance performance by students from the Se
 
 [Data](articles/7173da1a.json)
 
-[Extended Data](ext_articles/7173da1a.ext.json)
-
 ---
 
 ### Namal requests the government to fulfill the promises given to the people
@@ -694,8 +642,6 @@ The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a compr
 
 [Data](articles/7e15019f.json)
 
-[Extended Data](ext_articles/7e15019f.ext.json)
-
 ---
 
 ### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
@@ -711,8 +657,6 @@ Those crossings were reported in HNB, which crossed 2.31 million shares to the t
 ...
 
 [Data](articles/b74daa8e.json)
-
-[Extended Data](ext_articles/b74daa8e.ext.json)
 
 ---
 
@@ -2297,5 +2241,71 @@ The Election Commission said that during the upcoming general election, the vote
 [Data](articles/1d809791.json)
 
 [Extended Data](ext_articles/1d809791.ext.json)
+
+---
+
+### Wild elephant attack
+
+*2024-11-11 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198425) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Father of 8 killed by wild elephant in Batticaloa district. Body at hospital for examination."
+
+🟩
+
+A family member from Thikkodai Thumbalikkal village belonging to the Wellaveli police division in Batticaloa district has died on Sunday night (10).
+
+The deceased has been identified as Karthikeesu Rudrakanthan, the father of 8 children from Tikkodai village.
+
+The body of the deceased is currently being held at the Kaluwanchikudi Resource Hospital for examination, according to the Kaluwanchikudi Resource Hospital.
+
+Residents say that he died after being attacked by a wild elephant while he was in his granite.
+
+It is noteworthy that the long -standing area of ​​the Wellaveli area of ​​the Batticaloa district has been increasing.
+
+◼️
+
+[Data](articles/61649dc3.json)
+
+[Extended Data](ext_articles/61649dc3.ext.json)
+
+---
+
+### The robber raised his home for the gem business
+
+*2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
+
+Robber flees with gems, cash, gold after stealing car. Police recover vehicle, suspect shoe prints. Wife, father undergo forensic tests. Security footage compromised.
+
+🟩
+
+Five unidentified robbers have fled a car worth Rs.
+
+The millionaire businessman last night, his wife and his father's arms were treated with the roof.
+
+The police have been able to find the gem businessman's car in the Talawela Police area in the Talawela Police area.
+
+The thieves have also taken money, gold and three billion worth of gemstone.
+
+Police say that the robberies have come to the back of the wall and cover a pistol with a pistol in the head, police said.
+
+The complaint lodged with the wife and his father had taken the robbery and the car had taken the robbery.
+
+Later, the car was placed on the police station, the police dog was inspected by the police dog.
+
+A pair of footwear has been a suspected pair of shoes who have been robbed.
+
+The police said that the dog was staying at a very distance from the businessman's house and was observed that the suspects were staying at the site.
+
+The official dog was staying on a three-kilometer route, alongside another by road, police said.
+
+...
+
+[Data](articles/7e8b8d54.json)
+
+[Extended Data](ext_articles/7e8b8d54.ext.json)
 
 ---

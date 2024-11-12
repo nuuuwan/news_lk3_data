@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 07:27:11**
+As of **2024-11-12 05:49:45**
 
 ## Newspaper Stats
 
-*Scraped **54,325** Articles*
+*Scraped **54,320** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,97 +16,21 @@ islandlk | 3,254
 economynextcom | 3,290
 dailyftlk | 3,725
 dailymirrorlk | 4,733
-adalk | 5,078
-adaderanalk | 6,480
+adalk | 5,077
+adaderanalk | 6,479
 tamilmirrorlk | 7,587
 virakesarilk | 8,811
-adaderanasinhalalk | 9,475
+adaderanasinhalalk | 9,472
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,319 (100.0%) of 54,325 articles have been extended.
+54,311 (100.0%) of 54,320 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
-
-### මියන්මාරයේ සයිබර් කඳවුරු වෙත ශ්‍රී ලාංකිකයින් යොමු කරන්නේ මෙහෙමයි
-
-*2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203157) · `si`
-
-එක්සත් අරාබි එමිර් රාජ්‍යයේ රැදී සිටින ශ්‍රී ලාංකිකයින් කණ්ඩායම් වශයෙන් මියන්මාරයේ සයිබර් කඳවුරු වෙත යැවීම පිළිබඳ තොරතුරු ලැබී ඇති බව ජාතික කාර්ය සාධක බළකායේ අනතුරු අඟවයි.
-
-එම බළකාය පවසන්නේ මෑතක සිට වැඩි වශයෙන් ශ්‍රී ලාකිකයින් එම කඳවුරු වෙත ආකර්ෂණය කරගෙන ඇති බවයි.
-
-විශේෂයෙන්ම වැඩි වැටුප් පෙන්වමින් ඉහළ පරිගණක දැනුම සහිත පුද්ගලයින්ව වෙනත් රටවල රැකියා සඳහා යොමුකරන බව පවසමින් එම වෘත්තීයවේදීන්ව රවටන බවයි.
-
-සමහරුන්ව ඩුබායි හි සම්මුඛ පරීක්ෂණ පවත්වන බව පවසා පසුව රවටා මියන්මාරය වෙත රැගෙන යන බව වාර්තා වී ඇති බව සඳහන් ය.
-
-එබැවින් විදෙස් ගත වන්නේ නම් නීත්‍යානුකූල ක්‍රමවේද භාවිත කරන ලෙස සියලු දෙනාගෙන් ජාතික කාර්ය සාධක බළකාය පවසයි.
-
-එබැවින් යම් සැක කටයුතු සිද්ධියක් සම්බන්ධයෙන් තොරතුරු ඇත්නම් ඒ සම්බන්ධයෙන් 0112102570, 076 844 7700 යන දුරකථන අංකවලට හෝ nahttfsrilanka@gmail.com යන විද්‍යුත් තැපැල් ලිපිනයට තොරතුරු ලබාදෙන ලෙස ජාතික කාර්ය සාධක බළකාය දැනුම් දෙයි.
-
-◼️
-
-[Data](articles/3329a472.json)
-
----
-
-### The train starting from today
-
-*2024-11-12 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203156) · `si`
-
-Train service resumes Colombo Fort to Talamannar today. Trains depart Colombo Fort at 12:15 PM, arrive Talamannar at 22:15. Return journey from Talamannar at 23:11, arrive Colombo Fort at 10:15 on 23/11/2011.
-
-🟩
-
-The train service between Colombo Fort to Talamannar will be resumed today (12), the Railway Department said.
-
-The department stated that steps have been made to start a train operation of the Talamannawara road, which has been temporarily temporarily incurred between Mahawa and Anuradhapura.
-
-Accordingly, the following trains will be operated between Colombo and Talamannar.
-
-From 12.11.2011 - Departure of Colombo Fort. 16.15 Talamannar reaching up. 22.15
-
-Talamanna Mannar road from 23.11.11. 04.15 Colombo Fort. 10.15
-
-◼️
-
-[Data](articles/f2e6a824.json)
-
-[Extended Data](ext_articles/f2e6a824.ext.json)
-
----
-
-### A change in weather from tomorrow
-
-*2024-11-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203154) · `si`
-
-Weather alert: Low pressure zone forming over Bay of Bengal. Heavy rains expected in Northern Province, Eastern, Central, Uva, Sabaragamuwa, Southern Provinces from Nov 13. Thunderstorms possible with strong winds and lightning. Public advised to take precautions.
-
-🟩
-
-The Meteorological Department says that the Bay of Bay of Bengal is capable of building a low pressure zone today (12).
-
-The department states that in many parts of the island in many parts of the island, the intense atmospheric objective of thundershowers will be expected in the next few days from November 13.
-
-Showers will occur in the Northern Province and showers at several places in the evening or night during the evening.
-
-MM on the Eastern, Central, Uva, Sabaragamuwa, and Southern Provinces. Heavy rains experience more than 50.
-
-The Department of Meteorology will be held in some places in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/829dbf99.json)
-
-[Extended Data](ext_articles/829dbf99.ext.json)
-
----
 
 ### Towards building a digital tourism fortress
 
@@ -576,26 +500,6 @@ The police arrived at the scene and had taken steps to control the situation.Two
 
 ---
 
-### Govt to prioritizes relief for SMEs in Sri Lanka
-
-*2024-11-11 23:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103340/govt-to-prioritizes-relief-for-smes-in-sri-lanka) · `en`
-
-A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
-
-The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs, Mr. G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited, the PMD said.
-
-The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
-
-Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15.
-
-The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
-
-...
-
-[Data](articles/730051e9.json)
-
----
-
 ### Sri Lanka President says to complete debt restructuring by December 2024
 
 *2024-11-11 22:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-to-complete-debt-restructuring-by-december-2024-186949/) · `en`
@@ -617,20 +521,6 @@ From the time of the default about 1.8 billion dollars of coupons interest has a
 [Data](articles/baf19161.json)
 
 [Extended Data](ext_articles/baf19161.ext.json)
-
----
-
-### ස්විට්සර්ලන්තයේ ප්‍රධාන සංඝනායක පදවිය පුජ්‍ය තවලම ධම්මික නාමියන්ට
-
-*2024-11-11 22:30:09* · [`adalk`](https://www.ada.lk/religion/ස්විට්සර්ලන්තයේ-ප්‍රධාන-සංඝනායක-පදවිය-පුජ්‍ය-තවලම-ධම්මික-නාමියන්ට/4-412983) · `si`
-
-සියම් මහා නිකායේ මල්වතු විහාර පාර්ශ්වයේ මහානායක අනුනායක ස්වාමීන්දුවර ප්‍රමුඛ විංශත්වර්ගික කාරක සංඝ සභාවේ පුර්ණ අනුමැතියෙන් ස්විට්සර්ලන්තයේ ප්‍රධාන සංඝනායක පදවිය , ජිනීවා බෞද්ධ විහාරයේ හා හෝකන්දර ශ්‍රී විජයානන්ද ධර්මායතනයේ ප්‍රධාන ආචාර්ය පුජ්‍ය තවලම ධම්මික නාමියන්වෙත ධර්ම කීර්ති ශ්‍රී ජාත්‍යන්තර භාෂා විශාරද යන ගෞරව නාමය සහිතව පිරිනමා තිබේ.
-
-වසර 57 වු උන්වහන්සේගේ පැවිදි දිවියේ. බොහෝ කාලයක් කොළඹ ආනන්ද මහා විද්‍යාලය ඇතුලු දිවයිනේ පළාත් ගණනාවක විදුහල්හි ජනප්‍රිය ධර්මාචාර්ය වරයෙකු ලෙසද ශ්‍රී ලංකාවේ බොහෝ මාධ්‍යන්හි උගත් ධර්මදේශකයකු ලෙසද පුවත්පත් හා ග්‍රන්ථ කතුවරයෙකු ලෙසද වසර 38 ක්  ස්විට්සර්ලන්තයේ හා ප්‍රංශය ඇතුලු යුරෝපයේ හා ආසියාතික බොහෝ රටවල ද අමෙරිකාව කැනඩාව ඕස්ට්‍රේලියාව හා නිව්සීලන්තය ආදී රටවලද ධර්මදූත භික්ෂුවක් ලෙස කරණ ලද සුවිශේෂී .සේවාවන් අගය කරමින් ප්‍රධානය කරණ ලද මෙම සම්භාවනීය තනතුර භාර ගැනීමට උන්වහන්සේ සිය මවුරට බලා වැඩම කිරිමට නියමිතය.
-
-◼️
-
-[Data](articles/cb4fd8a2.json)
 
 ---
 
@@ -657,8 +547,6 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 ...
 
 [Data](articles/680949c4.json)
-
-[Extended Data](ext_articles/680949c4.ext.json)
 
 ---
 
@@ -720,8 +608,6 @@ The event commenced with an enchanting dance performance by students from the Se
 
 [Data](articles/7173da1a.json)
 
-[Extended Data](ext_articles/7173da1a.ext.json)
-
 ---
 
 ### Namal requests the government to fulfill the promises given to the people
@@ -756,8 +642,6 @@ The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a compr
 
 [Data](articles/7e15019f.json)
 
-[Extended Data](ext_articles/7e15019f.ext.json)
-
 ---
 
 ### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
@@ -773,8 +657,6 @@ Those crossings were reported in HNB, which crossed 2.31 million shares to the t
 ...
 
 [Data](articles/b74daa8e.json)
-
-[Extended Data](ext_articles/b74daa8e.ext.json)
 
 ---
 
@@ -1043,8 +925,6 @@ Currently, debt recovery processes under the Parate law have been temporarily su
 ...
 
 [Data](articles/2391bf9b.json)
-
-[Extended Data](ext_articles/2391bf9b.ext.json)
 
 ---
 
@@ -2301,5 +2181,131 @@ The order was issued today as the petitions were taken up in the presence of a p
 [Data](articles/c853c93f.json)
 
 [Extended Data](ext_articles/c853c93f.ext.json)
+
+---
+
+### 2 days of liquor closes
+
+*2024-11-11 15:20:41* · [`adalk`](https://www.ada.lk/breaking_news/දින-2ක්-සුරාසැල්-වැසෙයි/11-412973) · `si`
+
+Excise Department announces closure: Liquor stores will be shut down for 2 days (14th and 15th) due to general election. Stores closed due to lack of staff caused by elephant-related issues.
+
+🟩
+
+The Excise Department is informed that 3 days after the general election is scheduled to be closed on 14th and 15ths of 14th and 15th.. The 14-day general election is due to covering the lack of layers of both days due to the elephant.
+
+◼️
+
+[Data](articles/a6e36515.json)
+
+[Extended Data](ext_articles/a6e36515.ext.json)
+
+---
+
+### CIT order to take charge of Sujiva's car
+
+*2024-11-11 15:17:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுஜிவவின்-காரை-பொறுப்பேற்குமாறு-சிஐடிக்கு-உத்தரவு/175-346941) · `ta`
+
+Sujeewa Senasinghe orders CID to investigate suspicious car case at Fort Magistrate's Court.
+
+🟩
+
+Former parliamentarian Sujeewa Senasinghe has ordered the Criminal Investigation Department to take up the suspicious car at the Fort Magistrate's Court.
+
+The order was issued by the Criminal Investigation Division (CID) in connection with the car.
+
+◼️
+
+[Data](articles/f6e4ed3c.json)
+
+[Extended Data](ext_articles/f6e4ed3c.ext.json)
+
+---
+
+### Shift
+
+*2024-11-11 15:14:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மை-பூசும்-விரலில்-மாற்றம்/175-346940) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Election Commission announcement: During the upcoming general election, voters will use their little finger for voting instead of the index finger of their left hand. This change aims to improve efficiency and accuracy in the voting process.
+
+🟩
+
+The Election Commission said that during the upcoming general election, the voters' small finger will not be covered and the index of the left hand will be applied.
+
+◼️
+
+[Data](articles/1d809791.json)
+
+[Extended Data](ext_articles/1d809791.ext.json)
+
+---
+
+### Wild elephant attack
+
+*2024-11-11 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198425) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Father of 8 killed by wild elephant in Batticaloa district. Body at hospital for examination."
+
+🟩
+
+A family member from Thikkodai Thumbalikkal village belonging to the Wellaveli police division in Batticaloa district has died on Sunday night (10).
+
+The deceased has been identified as Karthikeesu Rudrakanthan, the father of 8 children from Tikkodai village.
+
+The body of the deceased is currently being held at the Kaluwanchikudi Resource Hospital for examination, according to the Kaluwanchikudi Resource Hospital.
+
+Residents say that he died after being attacked by a wild elephant while he was in his granite.
+
+It is noteworthy that the long -standing area of ​​the Wellaveli area of ​​the Batticaloa district has been increasing.
+
+◼️
+
+[Data](articles/61649dc3.json)
+
+[Extended Data](ext_articles/61649dc3.ext.json)
+
+---
+
+### The robber raised his home for the gem business
+
+*2024-11-11 14:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203135) · `si`
+
+Robber flees with gems, cash, gold after stealing car. Police recover vehicle, suspect shoe prints. Wife, father undergo forensic tests. Security footage compromised.
+
+🟩
+
+Five unidentified robbers have fled a car worth Rs.
+
+The millionaire businessman last night, his wife and his father's arms were treated with the roof.
+
+The police have been able to find the gem businessman's car in the Talawela Police area in the Talawela Police area.
+
+The thieves have also taken money, gold and three billion worth of gemstone.
+
+Police say that the robberies have come to the back of the wall and cover a pistol with a pistol in the head, police said.
+
+The complaint lodged with the wife and his father had taken the robbery and the car had taken the robbery.
+
+Later, the car was placed on the police station, the police dog was inspected by the police dog.
+
+A pair of footwear has been a suspected pair of shoes who have been robbed.
+
+The police said that the dog was staying at a very distance from the businessman's house and was observed that the suspects were staying at the site.
+
+The official dog was staying on a three-kilometer route, alongside another by road, police said.
+
+...
+
+[Data](articles/7e8b8d54.json)
+
+[Extended Data](ext_articles/7e8b8d54.ext.json)
 
 ---

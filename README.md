@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 15:13:27**
+As of **2024-11-12 15:41:22**
 
 ## Newspaper Stats
 
-*Scraped **54,404** Articles*
+*Scraped **54,411** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,187 @@ dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,088
 adaderanalk | 6,483
-tamilmirrorlk | 7,607
-virakesarilk | 8,825
-adaderanasinhalalk | 9,495
+tamilmirrorlk | 7,611
+virakesarilk | 8,827
+adaderanasinhalalk | 9,496
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,401 (100.0%) of 54,404 articles have been extended.
+54,404 (100.0%) of 54,411 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට උපදේශක පුහුණුකරුවෙක්
+### දේශපාලනික ස්වරූපයේ ප්‍රශ්න පත්‍රය ගැන විශේෂ පරීක්ෂණයක්
+
+*2024-11-12 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203178) · `si`
+
+පාසල් වාර විභාග ප්‍රශ්න පත්‍රයක දේශපාලනික ස්වරූපයෙන් යුත් ප්‍රශ්න ඇතුළත්වීම සම්බන්ධව අමාත්‍යංශ මට්ටමින් කඩිනම් පරීක්ෂණයක් ආරම්භ කර ඇති බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යංශයේ ලේකම් තිලකා ජයසුන්දර මහත්මිය සඳහන් කළේ, අදාළ නිලධාරීන්ට මේ සම්බන්ධයෙන් අවශ්‍ය උපදෙස් මේ වනවිටත් ලබාදී ඇති බවය.
+
+කළුතර දිස්ත්‍රික්කයේ සී. ඩබ්ලිව්. ඩබ්ලිව්. කන්නන්ගර මධ්‍ය මහා විද්‍යාලයේ දෙවැනි වාර පරීක්ෂණයේදී උසස් පෙළ දරුවන්ට ලබාදුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට දේශපාලන පක්ෂයකට සම්බන්ධ ප්‍රශ්න 05ක් අන්තර්ගත වීමට අදාළව මෙම පරීක්ෂණය පවත්වයි.
+
+ලේකම්වරිය වැඩිදුරටත් සඳහන් කර ඇත්තේ සමාජය තුළ කතාබහට ලක්වී ඇති මෙම ප්‍රශ්න පත්‍රය, සකස් කර ඇත්තේ අදාළ පාසලෙන් ම බවත් ඒ සඳහා අමාත්‍යංශ මට්ටමින් හෝ වෙනත් ආයතනික මට්ටමකින් හෝ කිසිදු සම්බන්ධයක් නොමැති බවත් ය.
+
+අමාත්‍යංශ මට්ටමින් සිදු කරනු ලබන විධිමත් පරීක්ෂණයකින් පසුව ඒ සම්බන්ධයෙන් නිසි ක්‍රියාමාර්ග ගන්නා බවත් ඇය අදාළ නිවේදනයෙන් වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/79c766c7.json)
+
+---
+
+### குறிகாட்டுவான் – நெடுந்தீவுக்கு விசேட படகு சேவைகள்
+
+*2024-11-12 15:22:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குறிகாட்டுவான்-நெடுந்தீவுக்கு-விசேட-படகு-சேவைகள்/175-347008) · `ta`
+
+நடைபெறவுள்ள பாராளுமன்ற தேர்தலை முன்னிட்டு, யாழ்ப்பாணம் , குறிகாட்டுவான் - நெடுந்தீவுக்கு இடையிலான விசேட படகு சேவைகள் ஒழுங்கு செய்யப்பட்டுள்ளன.
+
+வியாழக்கிழமை (14)  காலை 06,30 மணி முதல் மாலை 5.30 மணி வரையில் குறிகாட்டுவானில் இருந்து நெடுந்தீவுக்கு 07 படகு சேவைகள் இடம்பெறவுள்ளன.
+
+அதேபோன்று நெடுந்தீவில் இருந்து குறிகாட்டுவான் நோக்கி காலை 06.45 மணி முதல் மலை 04.30 மணி வரையிலும் படகு சேவைகள் இடம்பெறவுள்ளன என நெடுந்தீவு பிரதேச செயலகம் அறிவித்துள்ளது.
+
+அதேவேளை நெடுந்தீவுக்கான வாக்கு பெட்டிகளை  புதன்கிழமை (13)  படகுகள் மூலம் உத்தியோகஸ்தர்கள் எடுத்து சென்று, வியாழக்கிழமை (14) வாக்களிப்பு நிறைவு பெற்றதும் விமான படையினரின் உலங்கு வானுர்தியில் வாக்கெண்ணும் மத்திய நிலையமான யாழ்ப்பாணம் மத்திய கல்லூரிக்கு எடுத்து வரப்படும் என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/98032362.json)
+
+---
+
+### வட்டவளையில் பாரிய விபத்து: சாரதி படுகாயம்
+
+*2024-11-12 15:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வட்டவளையில்-பாரிய-விபத்து-சாரதி-படுகாயம்/76-347007) · `ta`
+
+இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸூம், வா​னொன்றும் நேருக்கு நேர் மோதி விபத்துக்கு உள்ளானதில், ​வானின் சாரதி படுகாயமடைந்துள்ளார்.
+
+கொழும்பு- ஹட்டன் பிரதான வீதியில் ஸ்கேடன் தோட்ட பகுதியில்  செவ்வாய்க்கிழமை (12) பிற்பகல் 2 மணியளவில், இடம்பெற்ற இந்த விபத்தில் படுகாயமடைந்த சாரதி, வட்டவளை வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர், மேலதிக சிகிச்சைகளுக்கான நாவலப்பிட்டிய வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+ஹட்டனில் இருந்து கொழும்பு வரையிலும் பயணித்த இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பஸ்ஸூக்கு எதிர் திசையில், கினிகத்ஹேனவில் இருந்து ஹட்டன் நோக்கி அதிவேகத்தில் பயணித்த வான்,  முன்பாக பயணித்த ஓட்டோவை, முறைக்கேடான முறையில் முந்திச்செல்வதற்கு முயன்ற போதே எதிரேவந்த பஸ்ஸூடன் மோதியதில் இவ்வனர்த்தம் ஏற்பட்டுள்ளது.
+
+பஸ்ஸூக்கும், வானுக்கும் பலத்த சேதம் ஏற்பட்டுள்ளது எனத்தெரிவித்த ஹட்டன் போக்குவரத்துப் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/abfa79d4.json)
+
+---
+
+### வளிமண்டலவியல் திணைக்களத்தின் இணையதளம் ஹேக்
+
+*2024-11-12 15:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-இணையதளம்-ஹேக்/175-347006) · `ta`
+
+◼️
+
+[Data](articles/e33f07dc.json)
+
+---
+
+### பரீட்சை திணைக்களம் விடுத்துள்ள விசேட அறிவிப்பு
+
+*2024-11-12 15:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-திணைக்களம்-விடுத்துள்ள-விசேட-அறிவிப்பு/175-347005) · `ta`
+
+நவம்பர் 14ஆம் திகதி பரீட்சை சான்றிதழ்கள் வழங்கப்படாது என பரீட்சை திணைக்களம் அறிவித்துள்ளது.
+
+2024ஆம் ஆண்டு பாராளுமன்றத் தேர்தலை முன்னிட்டு, தேர்தல் பணிகளுக்காக திணைக்களப் பணியாளர்கள் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/c833e400.json)
+
+---
+
+### இயக்குநருக்கு இன்ப அதிர்ச்சி அளித்த ஈழத்து நடிகர் சரண்
+
+*2024-11-12 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198508) · `ta`
+
+'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நடிப்பதற்கு வாய்ப்பளித்த இயக்குநருக்குன்ப அதிர்ச்சி அளித்து, ரசிகர்களை மட்டுமல்லாமல் ஒட்டுமொத்த தமிழ் திரையுலகத்தின் கவனத்தையும் ஈர்த்திருக்கிறார் புலம்பெயர் நடிகர் சரண்.
+
+இயக்குநர் பாலாஜி இயக்கத்தில் உருவாகி இருக்கும் 'டார்க் ஹெவன்' எனும் திரைப்படத்தில் நகுல், சரண், டேனி தயாள், அலெக்ஸ், கோதை சந்தானம் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். பி. கே. மணிகண்டன் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சக்தி பாலாஜி இசையமைத்திருக்கிறார்.
+
+வல்துறையின் புலனாய்வு வகைமையிலான இந்த திரைப்படத்தை கோதை எண்டர்டெயின்மெண்ட் மற்றும் எஸ் எம் மீடியா ஃபேக்டரி ஆகிய பட நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+இப்படத்தின் அறிமுக காணொளி பிரத்யேக நிகழ்வாக சென்னையில் நடைபெற்றது. இந்த தருணத்தில் எம் மண்ணில் பிறந்து தற்போது சுவிட்சர்லாந்து நாட்டில் புலம் பெயர்ந்து வாழும் நடிகர் சரண் உள்ளிட்ட பட குழுவினர் பலர் பங்கு பற்றினர்.
+
+இந்நிகழ்வில் நடிகர் சரண் படத்தின் இயக்குநர் பாலாஜிக்கு இன்ப அதிர்ச்சி அளிக்கும் வகையில் அவர் பயன்படுத்திய மகிழுந்தை மீண்டும் அவருக்கு பரிசாக அளித்தார்
+
+...
+
+[Data](articles/c5c0b026.json)
+
+---
+
+### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2' திரைப்படத்தின் முன்னோட்டம் வெளியாகும் திகதி அறிவிப்பு
+
+*2024-11-12 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198512) · `ta`
+
+தெலுங்கின் முன்னணி நட்சத்திர நடிகரான அல்லு அர்ஜுன் கதையின் நாயகனாக எக்சன் அவதாரத்தில் நடித்திருக்கும் 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படத்தின் முன்னோட்டம் வெளியாகும் திகதி பிரத்யேகப் புகைப்படத்துடன் அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் பாசில், ராவ் ரமேஷ், சுனில், ஸ்ரீ லீலா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கும் இந்த திரைப்படத்தை மைத்ரி மூவி மேக்கர்ஸ் மற்றும் சுகுமார் ரைட்டிங்ஸ் ஆகிய நிறுவனங்கள் இணைந்து தயாரித்திருக்கிறது.
+
+பிரம்மாண்டமான பொருட்செலவில் தயாராகி இருக்கும் இந்த திரைப்படத்தின் மீதான எதிர்பார்ப்பு ரசிகர்களிடத்தில் தொடர்ந்து அதிகரித்து வருகிறது.
+
+...
+
+[Data](articles/fdec0496.json)
+
+---
+
+### A consultant coach for Sri Lankan cricket team
 
 *2024-11-12 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203177) · `si`
 
-දකුණු අප්‍රිකානු කණ්ඩායමේ හිටපු දක්ෂ පිතිකරුවෙක් වන නීල් මැකෙන්සි ව කෙටි කාලයක් සඳහා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ උපදේශක පුහුණුකරු ලෙස පත්කර තිබේ.
+Sri Lanka appoints Neil McCensei as consultant coach. He'll work with key players ahead of SA tour. Team leaves for pre-tournament training in SA. First Test starts Nov 27, second Dec 5.
 
-ඒ අනුව ඔහු ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයින් කිහිපදෙනෙක් සමග කටයුතු කිරීමට නියමිත බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+🟩
 
-එබැවින් ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයින් කිහිපදෙනෙක් පූර්ව තරගාවලි පුහුණුවකට ඊයේ (11) රාත්‍රීයේ දකුණු අප්‍රිකාව බලා පිටත් වී තිබුණි.
+Neil McCensesi, a former smarter batsman in the South African team, has been appointed as the Consultant Coach of the Sri Lankan cricket coach for a short period of time.
 
-එම ක්‍රීඩකයින් වන්නේ, ධනංජය ද සිල්වා, දිමුත් කරුණාරත්න, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, ළහිරු කුමාර, ප්‍රබාත් ජයසූරිය, නිශාන් පීරිස්, මිලාන් රත්නායක, කසුන් රාජිත සහ ලසිත් ඇඹුල්දෙණිය.
+According to the SLC announced that he would work with several players in the Sri Lankan team.
 
-දකුණු අප්‍රිකාව සහ ශ්‍රී ලංකාව අතර තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලියේ පළමු තරගය නොවැම්බර් 27 වනදා ඩර්බන් හිදී ආරම්භ වන අතර දෙවැනි ටෙස්ට් තරගය දෙසැම්බර් 05 වනදා ආරම්භ වෙයි.
+Several players in Sri Lanka were traveling to South Africa at a pre-tournament training last night.
+
+Those players are Dananjaya de Silva, Dimuth Karunaratne, Angelo Mathews, Dinesh Chandimal, Kasun Ratnayake, Kasun Rajitha and Kasun Rajitha and Lasath Embadeniya.
+
+South Africa and Sri Lanka will start at Derban on November 27 and the second Test will commence on December 5.
 
 ◼️
 
 [Data](articles/6a0b41c6.json)
 
+[Extended Data](ext_articles/6a0b41c6.ext.json)
+
 ---
 
-### பாம்பன் பாலத்தில் போராட்டம்
+### Struggle in the Pamban Bridge
 
 *2024-11-12 14:33:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்பன்-பாலத்தில்-போராட்டம்/175-347003) · `ta`
 
-இலங்கை சிறையில் அடைக்கப்பட்டுள்ள இந்திய மீனவர்களை விடுதலை செய்ய வலியுறுத்தி விசைப்படகு மற்றும் நாட்டுப்படகு மீனவர்கள் ஒருங்கிணைந்து செவ்வாய்கிழமை (12) பாம்பன் பாலத்தில் சாலை மறியல் போராட்டம் நடத்தினர்.
+Pamban Bridge fishermen protest demands Indian captives' release. 497 arrests since Jan; 90 sentenced. Road block causes traffic on Rameswaram-Madurai highway.
 
-கடந்த ஜனவரி மாதத்திலிருந்து தற்போது வரை தமிழக மீனவர்களின் 66 படகுகளை சிறைப்பிடித்து, 497 மீனவர்கள் இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+🟩
 
-இலங்கை கடற்படையினரால் கைது செய்யப்படும் மீனவர்கள், அந்நாட்டின் வெளிநாட்டு மீன்பிடி தடை சட்டத்தின் கீழ் குற்றப்பத்திரிக்கை தாக்கல் செய்யப்பட்டு நீதிமன்றங்களில் வழக்கு பதிவு செய்யப்பபடுகிறது. இதில் 90 மீனவர்கள் ஆறு மாதம் முதல் இரண்டு ஆண்டு காலம் வரையிலும் தண்டனை மற்றும் அபராதம் விதிக்கப்பட்டு வழங்கப்பட்டு இலங்கை சிறைகளில் தண்டனை கைதிகளாக உள்ளனர்.
+Fishermen and fishermen staged a road picket at the Pamban Bridge on Tuesday (12) demanding the release of Indian fishermen in Sri Lankan jails.
+
+From January to the present, 497 fishermen have been arrested by the Sri Lankan navy.
+
+Fishermen arrested by the Sri Lankan navy are filed under the country's Foreign Fisheries Prohibition Act and filed a case in courts.. Of these, 90 fishermen have been sentenced to six months to two years and have been sentenced to Sri Lankan jails.
+
+In the meantime, 16 Rameswaram fishermen were taken up at the Rameshwaram fishermen's consultative meeting on November 12, demanding the release of fishermen and boats at the Rameshwaram fishermen.
+
+Fisheries Fisheries Organizations also supported the announcement of the struggle. Earlier, there was no agreement at a meeting held by government officials with fishermen representatives demanding the withdrawal of the road picket at the Rameswaram Vattachayar office on Monday.
 
 ...
 
 [Data](articles/02abd5a3.json)
+
+[Extended Data](ext_articles/02abd5a3.ext.json)
 
 ---
 
@@ -178,19 +312,29 @@ Human rights groups, families and activists of the suspects have been fighting f
 
 ---
 
-### ඊශ්‍රායලය ‘ජන සංහාරයක් ’ සිදු කරන බවට සෞදියේ ඔටුන්න හිමි කුමරුගෙන් චෝදනාවක්
+### Saudi Crown Prince of Saudi is accused of doing more Israeli 'genocide'
 
 *2024-11-12 13:57:40* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලය-‘ජන-සංහාරයක්-’-සිදු-කරන-බවට-සෞදියේ-ඔටුන්න-හිමි-කුමරුගෙන්-චෝදනාවක්/11-412992) · `si`
 
-ඊශ්‍රායලය විසින් ගාසා තීරය තුළ ‘ජන සංහාරයක් ’ සිදු කරන බවට සෞදියේ ඔටුන්න හිමි මොහොමඩ් බින් සල්මාන් කුමරු සඳහන් කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මුස්ලිම් සහ අරාබි නායකයින්ගේ සමුළුවකදී අදහස් දක්වමින් ඔහු මේ බව සඳහන් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
 
-එමෙන්ම ලෙබනනයට සහ ඉරානයට ඊශ්‍රායල ප්‍රහාර එල්ල කිරීම ද මොහොමඩ් බින් සල්මාන් කුමරු මෙහිදී විවේචනය කර තිබේ.
+
+Saudi Crown Prince Mohammed bin Salman accused of supporting Israeli "genocide" in Gaza. He criticized Israeli attacks on Lebanon and Iran while speaking at a gathering of Muslim and Arab leaders.
+
+🟩
+
+Saudi Crown Mohammed Bin Salman, who is 'genocide' in Gaza, said that in the Gazaka.
+
+Speaking at a convention of Muslim and Arab leaders, foreign media reports have said this.
+
+The Prince Mohamed Bin Salman has criticized the Israeli attacks on Lebanon and Iran.
 
 ◼️
 
 [Data](articles/41e4c016.json)
+
+[Extended Data](ext_articles/41e4c016.ext.json)
 
 ---
 
@@ -2319,171 +2463,5 @@ Accordingly, the appointment has been issued with effect from yesterday (11). (A
 [Data](articles/994d54fc.json)
 
 [Extended Data](ext_articles/994d54fc.ext.json)
-
----
-
-### 2024-11-11 (Monday)
-
-### Sri Lanka President reveals IMF review, budget timelines
-
-*2024-11-11 23:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-reveals-imf-review-budget-timelines-186951/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake said the government expects to complete the third review for the International Monetary Fund (IMF) loan by early February 2025 and present a full year budget in the same month.
-
-The third IMF review was to be completed by October, but the parliament election has delayed the process after the September 21 presidential poll and upcoming Thursday parliamentary election.
-
-“Two days after the (Parliament) election, an IMF delegation will come to Sri Lanka. We will complete the third review by the end of January or early February,” the President said in Sri Lanka’s Western district of Gampaha when he addressed a parliamentary election campaign meeting.
-
-“We will present a vote-on-account for four months in December. We expect to approve a new budget in February.”
-
-“In the budget, we will reduce PAYE tax in a fair manner. Similarly, we will definitely raise the wages of government servants.”
-
-...
-
-[Data](articles/79279187.json)
-
-[Extended Data](ext_articles/79279187.ext.json)
-
----
-
-### Suresh Premachandran is the country's degradation if JVP gets more seat
-
-*2024-11-11 23:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198473) · `ta`
-
-Suresh Premachandran warns of national degradation if JVP gains seats. Former TNA MP criticizes JVP's handling of Tamil issues. President Anura Kumara Dissanayake promises land releases but faces criticism from own party. JVP founder Rohana Wijeweera predicts deterioration if JVP gains more seats. Crisis may occur if national people's power doesn't secure 113 seats. Tamil party needs strong policy support. Young women should represent Parliament to address Tamil national problems effectively.
-
-🟩
-
-Some people consider what the national people give the power of power. You will think six months after voting for the present state side. So wait up to six months. Suresh Premachandran, a former member of the Democratic Tamil National Alliance (TNA) and former Member of Parliament, said they would not solve the problems of the Tamil people.
-
-He was speaking at a media briefing held at the Jaffna Media Center on Monday (11).
-
-The President who came to Jaffna has made some comments. President Anura Kumara Dissanayake, who arrived in Jaffna before the presidential election, said that if his party government was formed, he would do many issues, including the repeal of the Terrorism Act.. But when Anura Kumara Dissanayake is currently in power, the general secretary of the party makes no comments.
-
-It would not be possible if the JVP would release the land of the Tamil people by speaking with the army. The same was true of the Rajapaksa period.
-
-...
-
-[Data](articles/fe7b7855.json)
-
-[Extended Data](ext_articles/fe7b7855.ext.json)
-
----
-
-### Sri Lanka poll campaign ends; ruling NPP seen favourite amid criticism over experience
-
-*2024-11-11 23:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-poll-campaign-ends-ruling-npp-seen-favourite-amid-criticism-over-experience-186953/) · `en`
-
-ECONOMYNEXT – Campaign for Sri Lanka’s parliamentary elections scheduled for November 14 ended at midnight on Monday with President Anura Kumara Dissanayake’s ruling National People’s Power (NPP) is seen favourite despite strong criticism by opposition over experience of NPP members.
-
-Sri Lanka’s 17.1 million voters will select 196 legislators through direct constituencies in the election, while 29 seats are reserved for a national list, bringing the total number of seats to 225.
-
-The upcoming election is significant as it could shape the political landscape of the country following an unprecedented economic crisis with sovereign debt default in 2022 and mass protests which ousted the then president and government in the same year.
-
-...
-
-[Data](articles/b864448b.json)
-
-[Extended Data](ext_articles/b864448b.ext.json)
-
----
-
-### Steps are being taken to scatter the votes of the Tamils ​​and give other communities the opportunity to win. - A.Rogej
-
-*2024-11-11 23:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198472) · `ta`
-
-Tamils' votes scattered to benefit other communities. Political parties and independent groups contesting in Vanni district. Leaderships associated with foreign funding. Vote properly, says TNA candidate A. Rogan.
-
-🟩
-
-Steps are being taken to divide the votes of Tamils ​​and give other communities the opportunity to win. It is clear that the Tamils ​​should not have one of the Tamils. Money is served on all sides. The Democratic Tamil National Alliance (TNA) Wanni district candidate A. Rogan said that the people should vote properly.
-
-He made this statement during a media briefing held at the office in Mannar on Monday evening.
-
-In our area, like the change in South Sri Lanka, people are looking forward to making a change in the parliamentary election.
-
-However, if the money is spent in a few months, the Vanni district will become a cub in a few months. I do not know that there are opportunities. I do not know.Are.
-
-Those who can go to the people of Layi within the last one month will not give people the opportunity after the election.
-
-Many parties and independent groups are contesting in Vanni to show that Tamils ​​have no right to scatter the votes of Tamils.
-
-...
-
-[Data](articles/42ae3b50.json)
-
-[Extended Data](ext_articles/42ae3b50.ext.json)
-
----
-
-### Let us revolutionize education!Independent candidate Mayuran
-
-*2024-11-11 23:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198471) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Mayuran, independent candidate for Karamba Board, calls for education revolution. Demands government not ban Heroes Day. Aims to reform education system, combat drug use in schools, improve university admissions, establish pharmacies in underserved areas, and grant amnesty to ex-combatants.
-
-🟩
-
-The Independent Candidate of the Karamba Board, M.Maurathan, said that the development of our society could be achieved only by establishing a new revolution in education and demanded that the government should not ban the upcoming Heroes Day.
-
-He was speaking at a media briefing held at his office in Vavuniya on Monday (11).
-
-All these parties have the oldest principles and old leaders. They only change the symbol and compete. But the Tamils ​​have begun to think towards the new transformation. In that respect, we are contesting the change through the Independent Group in the blackboard symbol as a symbol of education.
-
-Our first purpose is to bring about change in education. Today, drug use has been infiltrated into the school level. So we have made a change in education in our election manifesto to change this situation.
-
-...
-
-[Data](articles/6f037afa.json)
-
-[Extended Data](ext_articles/6f037afa.ext.json)
-
----
-
-### Talaimannar - Colombo train will resume tomorrow
-
-*2024-11-11 23:40:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தலைமன்னார்-கொழும்பு-ரயில்-நாளை-மீண்டும்-ஆரம்பம்/175-346967) · `ta`
-
-Colombo-Talaimannar train resumes tomorrow due to railway road development. Service restarts after pause.
-
-🟩
-
-Accordingly, due to the development of the Railway Road to Mahawa and Anuradhapura, the train service between Colombo Fort and Talamannar will be resumed tomorrow (12).. Remble
-
-◼️
-
-[Data](articles/51d61ebb.json)
-
-[Extended Data](ext_articles/51d61ebb.ext.json)
-
----
-
-### Contraindications among Rishad Mastan supporters in Patanichur!A riot public meeting;Rishad's vehicle was beaten!
-
-*2024-11-11 23:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198470) · `ta`
-
-Riot breaks out during Rishad Mastan supporter meeting in Patanichur. Vehicles damaged, two hospitalized. Police intervene, maintain order. Campaign continues under police protection.
-
-🟩
-
-Two persons were admitted to the hospital in a confusion in the area where former Minister of State for the former Minister of State, Khadarmastan, were admitted to the hospital and the vehicles of Rizatpathiudeen were beaten.
-
-The Campaign Meeting was held at 8 pm today near the main road in Pattanichur, Vavuniya.. Some people who came on a motorcycle to the area shouted at the public meeting.
-
-For a while, behind the motorcycles, the former minister Rizadpathiudheen and his supporters came to the main street near the area where the travelers were gathering.
-
-Rishad Bathiudeen's vehicle. While he was inside the vehicle, his vehicle was completely smashed and his supporters' vehicles were smashed.After the attack, the vehicle continued to stop in the area.
-
-The police arrived at the scene and had taken steps to control the situation.Two persons injured in the incident were admitted to the Vavuniya Hospital for treatment.
-
-...
-
-[Data](articles/018f90ff.json)
-
-[Extended Data](ext_articles/018f90ff.ext.json)
 
 ---

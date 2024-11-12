@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 01:25:12**
+As of **2024-11-13 02:00:06**
 
 ## Newspaper Stats
 
-*Scraped **54,495** Articles*
+*Scraped **54,502** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 556
 bbccomsinhala | 556
 islandlk | 3,254
 economynextcom | 3,303
-dailyftlk | 3,728
+dailyftlk | 3,735
 dailymirrorlk | 4,733
 adalk | 5,098
 adaderanalk | 6,504
@@ -26,11 +26,141 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,495 (100.0%) of 54,495 articles have been extended.
+54,498 (100.0%) of 54,502 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### 49th Annual International Convention on Quality Control Circles kicks off
+
+*2024-11-13 01:34:16* · [`dailyftlk`](https://www.ft.lk/business/49th-Annual-International-Convention-on-Quality-Control-Circles-kicks-off/34-769162) · `en`
+
+Over 2,000 delegates from 14 countries converge to discuss “Beyond Boundaries: A Quest for Quality and Productivity and Innovation”
+
+The 49th Annual International Convention on Quality Control Circles (ICQCC), organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), was inaugurated in a colourful event at the Bandaranaike International Memorial Hall (BMICH), Colombo.
+
+Taking place from 11 to 13 November at the Mount Lavinia Hotel, the Convention, themed ‘Beyond Boundaries: A Quest for Quality and Productivity and Innovation,’ welcomed a gathering of over 2,000 delegates from 14 member countries, including Japan, China, Thailand, Philippines, Mauritius, Bangladesh, Korea and Singapore. It aims to foster collaboration and knowledge exchange between organisations with diverse fields around the globe.
+
+...
+
+[Data](articles/a521dd9b.json)
+
+[Extended Data](ext_articles/a521dd9b.ext.json)
+
+---
+
+### SLNAC forges closer ties with Hong Kong International Arbitration Centre via MoU
+
+*2024-11-13 01:31:38* · [`dailyftlk`](https://www.ft.lk/business/SLNAC-forges-closer-ties-with-Hong-Kong-International-Arbitration-Centre-via-MoU/34-769161) · `en`
+
+Signing of the MoU and exchange of souvenirs between SLNAC Chairman Hiran de Alwis and HKIAC Secretary General Joanne Lau
+
+HKIAC Co-Chairman David Rivkin delivering the address at the conference
+
+The Hong Kong International Arbitration Centre (HKIAC), the premier dispute resolution services provider in Hong Kong, entered into a Memorandum of Understanding (Mou) with the Sri Lanka National Arbitration Centre (SLNAC), thereby paving the way for a closer collaboration between the parties in facilitating and promoting alternative dispute resolution processes in the region.
+
+The MoU was entered into on 21 October, coinciding with the start of the highly successful Hong Kong International Arbitration Week organised by the HKIAC with over a 1,000 registrations from 36 jurisdictions featuring over 170 speakers.
+
+SLNAC Board Chairman Hiran de Alwis and HKIAC Secretary General Joanne Lau signed the MoU on behalf of the two organisations at the HKIAC offices.
+
+...
+
+[Data](articles/849baab6.json)
+
+[Extended Data](ext_articles/849baab6.ext.json)
+
+---
+
+### EU reaffirms support for economic growth with focus on anti-corruption and trade expansion
+
+*2024-11-13 01:28:04* · [`dailyftlk`](https://www.ft.lk/business/EU-reaffirms-support-for-economic-growth-with-focus-on-anti-corruption-and-trade-expansion/34-769160) · `en`
+
+In a renewed commitment to support Sri Lanka’s economic recovery and trade expansion, the European Union (EU) Ambassador to Sri Lanka Carmen Moreno highlighted the EU’s dedication to fostering economic stability in the country during a recent meeting with the Export Development Board (EDB) Chairman Mangala Wijesinghe.
+
+Accompanied by Deputy Head of Mission Lara Bredal, Moreno stressed the importance of anti-corruption and governance reforms to attract further EU investment.
+
+She commended the Government’s recent initiatives to combat bribery and enhance anti-corruption institutions, noting that this focus on transparency is critical to gaining investor confidence.
+
+Moreno also highlighted Sri Lanka’s steady advancements in anti-money laundering and counter-terrorism finance efforts, as well as its adherence to international environmental, labour and human rights standards — key considerations for foreign direct investments (FDIs) from the EU.
+
+...
+
+[Data](articles/df984c02.json)
+
+[Extended Data](ext_articles/df984c02.ext.json)
+
+---
+
+### XpressJobs Official Recruitment Partner for Global Entrepreneurship Week 2024
+
+*2024-11-13 01:27:04* · [`dailyftlk`](https://www.ft.lk/business/XpressJobs-Official-Recruitment-Partner-for-Global-Entrepreneurship-Week-2024/34-769159) · `en`
+
+From left: XpressJobs COO Dr. Oshadie Korale, Partner Tyner Fernando, ICTA Associate Chief Digital Economy Officer Sachindra Samararatne, and GEW Program Director Abith Latiff
+
+XpressJobs has announced the status as the Official Recruitment Partner for Global Entrepreneurship Week (GEW) 2024, happening from 18 to 24 November.
+
+This year’s GEW theme, “Entrepreneurship is for Everyone,” aims to inspire young entrepreneurs to start their own businesses, contribute to economic growth, and drive sustainable solutions.
+
+GEW is the world’s largest celebration of entrepreneurship, bringing together over 10 million participants, 40,000 activities, and 20,000 partners from more than 200 countries. The week-long event connects entrepreneurs, educators, policy-makers, and innovators on a global stage to inspire, exchange ideas, and take action on key entrepreneurial initiatives.
+
+...
+
+[Data](articles/1c8865f6.json)
+
+---
+
+### New Parliament to convene on 21 November
+
+*2024-11-13 01:25:35* · [`dailyftlk`](https://www.ft.lk/news/New-Parliament-to-convene-on-21-November/56-769158) · `en`
+
+President Anura Kumara Dissanayake has issued an Extraordinary Gazette notification summoning the newly elected Tenth Parliament to convene at 10:00 a.m. on 21 November.
+
+This announcement follows the General Election scheduled for 14 November, where 225 Members of Parliament will be chosen—196 through direct public vote and 29 from the national list.
+
+The inaugural session, set to be a momentous occasion, will see the commencement of the 10th Parliament’s legislative duties. On the first day, special protocols will be followed. Members will have the freedom to sit in any seat as there will be no assigned seating.
+
+The Secretary-General of Parliament will open the session by presenting the Gazette notification that formally establishes the date and time for the Parliamentary convening.
+
+Following this, Members will elect the Speaker, marking the first major task for the new Parliament. Any Member of Parliament is eligible to become the Speaker, provided they accept the nomination.
+
+...
+
+[Data](articles/9d509ff8.json)
+
+---
+
+### NMSJ urges political parties  to uphold people’s expectations
+
+*2024-11-13 01:23:33* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-urges-political-parties-to-uphold-people-s-expectations/56-769157) · `en`
+
+The National Movement for Social Justice (NMS) in a statement urged all political parties to uphold people’s expectations.
+
+We believe that in three days, the new Parliament, made up of representatives elected by the people, will take on a greater responsibility than ever before in history.
+
+This is especially important given the irresponsible behaviour we have seen in Parliament in recent years. Both the incoming Government and the Opposition will have a huge responsibility. Their first task should be to strengthen democracy by helping the country recover from the financial crisis we are facing. Additionally, the new Parliament must reflect the political culture that the people expect, with both the ruling party and the Opposition playing their part.
+
+...
+
+[Data](articles/049d6d28.json)
+
+---
+
+### 35 killed, over 40 injured after driver rams car into crowd in China
+
+*2024-11-13 01:23:18* · [`dailyftlk`](https://www.ft.lk/news/35-killed-over-40-injured-after-driver-rams-car-into-crowd-in-China/56-769156) · `en`
+
+Police in China say 35 people were killed and another 43 injured when a driver rammed his car into people exercising at a sports centre in the southern Chinese city of Zhuhai.
+
+The 62-year-old driver was detained, police said Monday. It was not immediately clear whether it was an attack or an accident. No motive was mentioned, and police said investigations continued.
+
+The Monday night incident came on the eve of the country’s premier aviation exhibition by the People’s Liberation Army, hosted annually in Zhuhai. There has been heavy censorship of information about the incident given the timing and location, with officials only announcing the death toll the following day. One of the four hospitals that took in people for treatment said it had more than 20 injured people, state media reported Monday.
+
+...
+
+[Data](articles/b34584ab.json)
+
+---
 
 ### Special arrangements for specialists
 
@@ -2343,185 +2473,5 @@ Mr. Damunopola confirmed that initial findings indicate no data was accessed or 
 [Data](articles/c54474ef.json)
 
 [Extended Data](ext_articles/c54474ef.ext.json)
-
----
-
-### Two Chinese women arrested
-
-*2024-11-12 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203172) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Two Chinese women, aged 47 & 48, arrested in Kandy on tourist visas. Detained at Central Market by Travel Police Unit."
-
-🟩
-
-Two foreign women were arrested in the Kandy area in Kandy on the tourist visa.
-
-Police said they have been arrested at the Central Market premises in the Central Market premises at the center of the Kandy-Travel Police Unit.
-
-The arrested were two 47-year-old and 48-year-old Chinese women.
-
-◼️
-
-[Data](articles/b71eb583.json)
-
-[Extended Data](ext_articles/b71eb583.ext.json)
-
----
-
-### UN Security Council considers action on Sudan war
-
-*2024-11-12 12:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103353/un-security-council-considers-action-on-sudan-war) · `en`
-
-The United Nations Security Council is discussing a British-drafted resolution that demands Sudan’s warring parties cease hostilities and calls on them to allow safe, rapid and unhindered deliveries of aid across front lines and borders.
-
-War erupted in April 2023 from a power struggle between the Sudanese army and the paramilitary Rapid Support Forces ahead of a planned transition to civilian rule, and triggered the world’s largest displacement crisis.
-
-It has produced waves of ethnically driven violence blamed largely on the RSF. The RSF has denied harming civilians in Sudan and attributed the activity to rogue actors. In the first U.N. sanctions imposed during the current conflict, a Security Council committee designated two RSF generals last week.
-
-...
-
-[Data](articles/47e4d1eb.json)
-
-[Extended Data](ext_articles/47e4d1eb.ext.json)
-
----
-
-### New Secretary of the United States Marco Rubio?
-
-*2024-11-12 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198503) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Reports: Marco Rubio likely to become US Secretary under Donald Trump. Former rivals now allies. Rubio, 53, served in Senate since 2010. His profile rose significantly since 2016. Trump once called him "Little Marco," but they've since reconciled. This appointment would be a significant shift in Trump's administration.
-
-🟩
-
-It is reported that Marco Rubio will be appointed as the new Secretary of the United States.
-
-US media reports that Donald Trump is in talks with the Senator of the Republican Party from Florida.
-
-Rubio, a member of the US Senate's Intelligence Committee, is also included in the Foreign Relations Committee.
-
-Marco Rubio is said to be considered for a senior role in Donald Trump's administration-this was unthinkable when the couple first entered the national political arena.
-
-Since 2016, the star of Rupio has been rising at the age of 40 and has been a member of the Senate since 2010.
-
-When his profile was so good, he was suggested that he had more chances when he announced that he would contest in 2016.
-
-In 2016, when the presidential candidate was held within the Republican Party, Rubio criticized Trump and both of them personally criticized each other.
-
-Trump publicly called Rubio "small Marco" while Rubio made sharp views on Trump's "small hands".
-
-...
-
-[Data](articles/63ff3687.json)
-
-[Extended Data](ext_articles/63ff3687.ext.json)
-
----
-
-### The latest situation on the weather site under cyber attack
-
-*2024-11-12 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203171) · `si`
-
-Meteorological Department website under cyber attack since Nov 5th. Attack detected on Nov 1st. Site restoration ongoing. No data breach confirmed so far. Investigation continues.
-
-🟩
-
-The web site of the Department of Meteorological Department website is currently being carried out by now, said the computer emergency response forum.
-
-The web site of the department was attacked on the first fifth.
-
-Senior Information Security Officer of the Computer Emergency Response Team is the Senior Information Officer of the Computer Emergency Response System, Chartka Damunueru
-
-"On November 1st, the Department of Meteorological Department has made information aware of a cyber attack on cyber attack on the Department of Cyber ​​attack on the relevant department. The Meteorological Department website had a change of the Department of Meteorological Department. Subject to the preliminary investigations are already necessary to restore the site to recover. Examination is already underway whether or not any other external party has gone to another external party on the web site website.. According to the basic examinations, no such information is not available to an external party. "
-
-◼️
-
-[Data](articles/360bf18b.json)
-
-[Extended Data](ext_articles/360bf18b.ext.json)
-
----
-
-### 2024 General Election: Process of counting votes explained
-
-*2024-11-12 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103352/2024-general-election-process-of-counting-votes-explained) · `en`
-
-The Chairman of the Election Commission, R.M.A.L. Ratnayake, stated that the counting of votes for the general election will commence at 4.15 p.m. on November 14.
-
-He made these remarks during a special press briefing held today (12) at the Department of Government Information, where he provided updates on the general election.
-
-Ratnayake also informed that the results from polling areas and district-level results will be released to the media only after being re-checked and approved by the Election Commission. Thus, he urged everyone to refrain from releasing unofficial election results.
-
-...
-
-[Data](articles/98adfca9.json)
-
-[Extended Data](ext_articles/98adfca9.ext.json)
-
----
-
-### A request from USA about Arugambay
-
-*2024-11-12 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203170) · `si`
-
-USA requests removal of US Embassy tourist counselor. Sri Lanka strengthens security in Arugambay after US warning. Government arrests suspects, ongoing investigations. Defense Secretary visits area.
-
-🟩
-
-The Foreign Ministry has requested the US Embassy to remove the tourist counsel for the US embassy until he was notified.
-
-It is reported that the demand has been made by External Affairs Vijitha Herath recently.
-
-On October 23, the US embassy on October 23, the US Embassy issued a warning announcement targeting the country, including Arugambay area.
-
-There they showed that US citizens in Sri Lanka are asked to avoid traveling to Arugampe until again.
-
-After the announcement, several other countries asked to travel to the citizens of the region and to focus on security.
-
-In the face of the situation, the government took steps to strengthen the security of the area and carried out intelligence and measured its security for security.
-
-Accordingly, several persons have already been arrested and further investigations are underway.
-
-The Defense Secretary Thusicontha visited the Arumbain, who was in a tour of the area.
-
-◼️
-
-[Data](articles/6ed34b91.json)
-
-[Extended Data](ext_articles/6ed34b91.ext.json)
-
----
-
-### Fannu loses the ODI series against New Zealand - Here is the substitute player
-
-*2024-11-12 12:30:36* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-එක්දින-තරගාවලිය-වනිඳුට-අහිමි-වෙයි---ආදේශක-ක්‍රීඩකයා-මෙන්න/9-412991) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Fannu misses ODI series vs NZ due to injury. Spinner replaced in squad by Cricket Selection Committee. Team faces tough challenge without key player.
-
-🟩
-
-The ODI tournament against the New Zealand team has been deprived of the spinner tournament.
-
-Due to the condition of the Second Twenty20 match between the two countries, he has lost playing playing playing sports.
-
-Meanwhile, the Cricket Selection Committee has taken steps to replace him to the ODI team.
-
-◼️
-
-[Data](articles/b58b9b7b.json)
-
-[Extended Data](ext_articles/b58b9b7b.ext.json)
 
 ---

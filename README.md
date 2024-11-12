@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 18:49:46**
+As of **2024-11-12 19:02:28**
 
 ## Newspaper Stats
 
-*Scraped **54,454** Articles*
+*Scraped **54,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,254
 economynextcom | 3,298
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,092
+adalk | 5,093
 adaderanalk | 6,498
-tamilmirrorlk | 7,617
+tamilmirrorlk | 7,618
 virakesarilk | 8,837
 adaderanasinhalalk | 9,500
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,454 (100.0%) of 54,454 articles have been extended.
+54,454 (100.0%) of 54,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,26 @@ It is noteworthy that the questionnaire includes many questions about the Nation
 [Data](articles/14ed7115.json)
 
 [Extended Data](ext_articles/14ed7115.ext.json)
+
+---
+
+### வினாத்தாளில் அரசியல் கட்சி வினாக்கள்
+
+*2024-11-12 18:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளில்-அரசியல்-கட்சி-வினாக்கள்/175-347016) · `ta`
+
+களுத்துறையிலுள்ள பாடசாலை ஒன்றின் இரண்டாம் தவணைப் பரீட்சை வினாத்தாளில் அரசியல் கட்சி தொடர்பான கேள்விகள் உள்ளடக்கப்பட்டமை தொடர்பில் அமைச்சு மட்ட விசாரணை நடத்தப்பட உள்ளதாக கல்வி அமைச்சு அறிவித்துள்ளது.
+
+இது தொடர்பில் அமைச்சின் செயலாளர் திலகா ஜயசுந்தர உரிய அதிகாரிகளுக்கு பணிப்புரை விடுத்துள்ளதாக கல்வி அமைச்சு அறிக்கையொன்றை வெளியிட்டுள்ளது.
+
+இதன்படி, களுத்துறை மாவட்டத்தில் உள்ள CWW கன்னங்கர மத்திய கல்லூரியின் உயர்தர மாணவர்களின் இரண்டாம் தவணை பொது அறிவுப் பரீட்சை வினாத்தாளில் அரசியல் தொடர்பான வினாக்கள் உள்ளடக்கப்பட்டுள்ளமை தொடர்பில் விசாரணை நடத்தப்படவுள்ளது.
+
+கல்வி அமைச்சின் செயலாளர் வினாத்தாள் பாடசாலை அதிகாரிகளால் அமைக்கப்பட்டுள்ளதாகவும், அது அமைச்சு அல்லது வேறு எந்த நிறுவன மட்டத்திலும் இணைக்கப்படவில்லை என்றும் சுட்டிக்காட்டியுள்ளார்.
+
+அமைச்சு மட்டத்தில் முறையான விசாரணை நடத்தப்பட்ட பின்னர் இது தொடர்பாக உரிய நடவடிக்கை எடுக்கப்படும் என அவர் மேலும் தெரிவித்தார்.
+
+...
+
+[Data](articles/a42bee71.json)
 
 ---
 
@@ -425,6 +445,22 @@ The Achuveli Central College Hall 2 Voting Center has been shifted to the Achchu
 [Data](articles/2956b975.json)
 
 [Extended Data](ext_articles/2956b975.ext.json)
+
+---
+
+### චීන්නු වීස්සකට ලක්ෂය බැගින් දඩ, ලක්ෂ පහක ශරීර ඇප සහ පනස් දහසක බැගින් මුදල් ඇප
+
+*2024-11-12 16:39:39* · [`adalk`](https://www.ada.lk/breaking_news/චීන්නු-වීස්සකට-ලක්ෂය-බැගින්-දඩ--ලක්ෂ-පහක-ශරීර-ඇප-සහ-පනස්-දහසක-බැගින්-මුදල්-ඇප/11-412997) · `si`
+
+වීසා බලපත් නොමැතිව ජංගම දුරකථන 436 ක් සහ  පරිඝණක උපාංග රාශියක් සමග අත්අඩංගුවට ගෙන රිමාන්ඩ් බන්ධනාගාර ගතකර සිටී චීන ජාතිකයින් විසි දෙදෙනකු හට  පානදුර අතිරේක මහේස්ත්‍රාත් ලහිරු එන් සිල්වා මහතා විසින්  රුපියල් ලක්ෂය  බැගින් රුපියල් ලක්ෂ විස්සක දඩ නියම කලේය.
+
+මෙසේ දඩ නියම කෙරුණේ චාඕ ලී,  ජියූෆෙන් යූ, ඩවේ කායි, ගුන්ග්මින් වූ, බිආඕ ෂෙන්ග්, බාඔහොන් ලියූ, පින්ග් වෙන්, යෑන් ෆෑන්, ලිංග්ෆීන් වෙන්, සියෝන්ග්ෆි ලී, යු ඈන්ග්ලී යෑන්ග්, කොන්ග් ෂේන්, යූ ටෑන්, ෂින්ග් ෂොයූ, හයිලොන්ග් වැන්ග්,කයියාන් ෂේන් , ක්වින්ග් ෂාහූ, ලොන්ෆා ලියෑන්ග්, සයිබාඕ හී සහ ජූන් ෆෙන්ෆ් නැමැති චීන ජාතිකයින් පිරිසකි.
+
+සැකකාර චීන ජාතිකයින් විසි දෙනා වලංගු වීසා බලපත් නොමැතිව පානදුර ගොරකාන ප්‍රදේශයේ සංචාරක හෝටලයක නවාතැන් ගෙන සිටියදී ඉකුත් ඔක්තෝබර් 9  දින ජංගම දුරකථන 436 ක් සහ පරිඝණක උපාංග තොගයක් සමග අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරිමෙන් පසු රිමාන්ඩ් බන්ධනාගාර ගතකර තිබුණි .
+
+...
+
+[Data](articles/40968017.json)
 
 ---
 
@@ -2529,47 +2565,5 @@ In addition, Deputy Solicitor General Miss Lakmini Girihagama, appearing on beha
 [Data](articles/8ec590f5.json)
 
 [Extended Data](ext_articles/8ec590f5.ext.json)
-
----
-
-### More than 20 foreign election monitors to monitor the general election
-
-*2024-11-12 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198477) · `ta`
-
-Over 20 foreign election observers will monitor Sri Lanka's general election on the 14th. The Election Commission invited monitors from South Asia and countries like Russia and Thailand. International Superintendents have also begun their duties.
-
-🟩
-
-More than 20 foreign election monitors will participate in monitoring the upcoming general election on the 14th, the Election Commission said.
-
-Elections Commission Chairman RMAL Ratnayake said that it includes election superintendents of South Asian countries.
-
-At the invitation of the National Elections Commission, 10 foreign election monitors are coming to Sri Lanka, including monitors from countries such as Russia and Thailand.
-
-Meanwhile, a group of International Superintendents (Anfrel) International Commission of Elections Commission yesterday started their election monitoring duties.
-
-◼️
-
-[Data](articles/b8fa3ca3.json)
-
-[Extended Data](ext_articles/b8fa3ca3.ext.json)
-
----
-
-### Substandard Immunoglobulin import: Court orders to record statements from 18 members of former Cabinet
-
-*2024-11-12 09:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103345/substandard-immunoglobulin-import-court-orders-to-record-statements-from-18-members-of-former-cabinet-) · `en`
-
-The Maligakanda Magistrate’s Court has ordered to record statements from 18 then-Cabinet Ministers pertaining to the alleged importation of substandard human immunoglobulin vials.
-
-The Attorney General’ Department has informed the court that statements are required to be obtained from 18 individuals including former President Ranil Wickremesinghe, former Prime Minister Dinesh Gunawardena, former Ministers Tiran Alles, Mahinda Amaraweera, Wijeyadasa Rajapakse, Harin Fernando, Roshan Ranasinghe and Nimal Siripala who were members of the Cabinet which approved the Cabinet paper presented by former Health Minister Keheliya Rambukwella for the import of the drugs in question.
-
-Maligakanda Magistrate Lochani Abeywickrema who granted permission for the request, ordered to record statements from the 18 former Cabinet members related to the matter.
-
-...
-
-[Data](articles/43fd12a9.json)
-
-[Extended Data](ext_articles/43fd12a9.ext.json)
 
 ---

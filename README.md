@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 09:12:35**
+As of **2024-11-12 08:47:14**
 
 ## Newspaper Stats
 
-*Scraped **54,342** Articles*
+*Scraped **54,338** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
 bbccomsinhala | 554
-colombotelegraphcom | 555
+colombotelegraphcom | 554
 islandlk | 3,254
 economynextcom | 3,290
 dailyftlk | 3,725
 dailymirrorlk | 4,733
 adalk | 5,080
-adaderanalk | 6,483
+adaderanalk | 6,480
 tamilmirrorlk | 7,591
 virakesarilk | 8,812
 adaderanasinhalalk | 9,479
@@ -26,95 +26,23 @@ adaderanasinhalalk | 9,479
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,338 (100.0%) of 54,342 articles have been extended.
+54,334 (100.0%) of 54,338 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### Train service resumes between Colombo and Talaimannar
-
-*2024-11-12 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103343/train-service-resumes-between-colombo-and-talaimannar) · `en`
-
-The Department of Railways has announced that the train service between Colombo Fort and Talaimannar will resume today (12).
-
-This service had been temporarily suspended due to the railway development project between Mahawa and Anuradhapura.
-
-- Departure from Colombo Fort at 16.15 p.m., arriving in Talaimannar at 22.15 p.m.
-
-- Departure from Talaimannar at 4:15 a.m., arriving in Colombo Fort at 10:15 a.m.
-
-◼️
-
-[Data](articles/f549676d.json)
-
----
-
-### Police are alert
+### පොලීසිය සීරුවෙන්
 
 *2024-11-12 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203161) · `si`
 
-Here's a summary of 200 characters:
+‍මහ මැතිවරණයේ ආරක්ෂක කටයුතු සඳහා අද (12) දිනයේ සිට පොලිස් නිලධාරීන් යොදවන බව පොලිස් මාධ්‍ය ප්‍රකාශක නියෝජ්‍ය පොලිස්පති නිහාල් තල්දූව මහතා පවසයි.
 
-
-
-Police deploy 64,000 officers for general election security. 13,383 polling centers covered. 3,200 STF & 12,227 civil security personnel assist. Police use 11,000 officers for exhibit protection. Army ready if needed. Support free, peaceful election urged.
-
-🟩
-
-Police Media Spokesperson DIG Nihal Talduuwa says that police officers will be deployed from today (12) to the security of the general election.
-
-He says that about 64,000 police officers will be deployed covering all the polling centers located in the total parties in the country.
-
-13,383 polling centers were established for 13,314 electorates. We are employed in duty to cover this period of time and then after the date of the election. Nearly 64,000 police officers are employed. Also, 3,200 STF officers have been prepared to be employed on duty. 12,227 civil security personnel join the election directly. The police officers join the election with the Election with the waiting service officials. In addition, the police officers use nearly 11,000 officers to protect the exhibition for election duties.. Also, if there is a need, the Army Officialse stays in the waiting industry. "
-
-He also requested everyone to support the support of a free and peaceful election.
-
-◼️
-
-[Data](articles/f2ed2fee.json)
-
-[Extended Data](ext_articles/f2ed2fee.ext.json)
-
----
-
-### Silence period begins ahead of Parliamentary Election
-
-*2024-11-12 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103342/silence-period-begins-ahead-of-parliamentary-election) · `en`
-
-The election campaign activities for the upcoming parliamentary election concluded at midnight on November 11, marking the start of the silence period, which will remain in effect until Election Day on November 14.
-
-During this period, no campaign activities are permitted, according to the Election Commission.
-
-However, the Election Commission has given candidates time until midnight tonight (12) to remove their campaign offices, said the Chairman of the Election Commission, R.M.A.L. Ratnayake.
-
-“Currently, candidates have set up campaign offices. All offices at the constituency level must be removed by midnight on the 12th. After that, only one office per constituency can be maintained by the parties and groups,” he explained.
-
-Additionally, a candidate’s house can be used as a party office, however, no decorations or advertising are permitted in any of these offices, as per the election commission.
+ඔහු පවසන්නේ ඒ සඳහා දිවයිනේ මුළු ඡන්ද කොට්ඨාසවල පිහිටා ඇති ඡන්ද මධ්‍යස්ථාන සියල්ල ආවරණය වන පරිදි පොලිස් නිලධාරීන් 64,000ක් පමණ පිරිසක් යෙදවීමට කටයුතු කරන බවය.
 
 ...
 
-[Data](articles/3b628b5c.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-12 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103341/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-A low-pressure area is likely to form over the south west Bay of Bengal today (12). Under its influence, atmospheric conditions will be favorable for afternoon thundershowers in most parts of the island from November 13, says the Department of Meteorology.
-
-Several  spells of showers  will occur in Northern Province. Showers or thundershowers may occur at several places elsewhere during the evening or night.
-
-Fairly heavy showers above 50 mm are likely at some  places in Eastern, Central,  Uva, Sabaragamuwa, and Southern provinces.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning, it added.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/eed21ba7.json)
+[Data](articles/f2ed2fee.json)
 
 ---
 
@@ -304,29 +232,17 @@ Meanwhile, PAFFREL Executive Director Rohana Hettiarachchi said that about 6,000
 
 ---
 
-### Permission to be expressed by the Prime Minister of the Prime Minister of Minor
+### බාල බෙහෙත් සිද්ධියට හිටපු ජනපති අගමැති ඇතුළු පැවැති කැබිනට් මණ්ඩලයෙන් ප්‍රකාශ ගන්න අවසර
 
 *2024-11-12 07:16:25* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-සිද්ධියට-හිටපු-ජනපති-අගමැති-ඇතුළු-පැවැති-කැබිනට්-මණ්ඩලයෙන්-ප්‍රකාශ-ගන්න-අවසර/11-412987) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+ඖෂධ හිඟයක් මවාපාමින් ඉන්දීය ණය යෝජනා ක්‍රමය යටතේ ඖෂධ වර්ග 182ක් ගෙන්වීම සඳහා හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා ඉදිරිපත් කළ කැබිනට් පත්‍රකාවට අනුමැතිය දුන් කැබිනට් මණ්ඩලය නියෝජනය කළ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රමුඛ අමාත්‍යවරුන් 18 දෙනාගෙන් ප්‍රශ්න කර ප්‍රකාශ ලබාගැනීමට මාලිගාකන්ද මහේස්ත්‍රාත් ලෝචනි අබේවික්‍රම වීරසිංහ මහත්මිය රහස් පොලිසියට ඊයේ (11) අවසර දුන්නාය.
 
-
-
-Prime Minister's permission granted for interrogation of Cabinet papers. Former Health Minister Keheliya Rambukwella presented Cabinet paper. Ministers involved: Dinesh Gunawardena, Douglas Devananda, Susil Premajayantha, Wijeyadasa Rajapakse, Ramesh Pathirana, Prasanna Ranatunga, Nalin Fernando, Nasan Ranasinghe, Jagath Pushpakumara. Case involves Ritocuppin drug shortage controversy. Deputy Solicitor General Lakdha Girihamaga accepts request. First suspect Sugath Janaka Fernando removed from case.
-
-🟩
-
-Maligakanda Magistrate Loku Abeywickrama Weerasinghe to interrogate the Cabinet paper to be interrogated by the Cabinet paper, who was approved by the Cabinet paper to be imported by the Cabinet paper.Yesterday (11) allowed.
-
-Former Minister of Health, Keheliya Rambukwella, who was presented to the Cabinet paper, Minister of Prime Minister Dinesh Gunawardena, who was presented by the Cabinet paper, Minister of Fisheries and Aviation Minister Nimal Siripala, Fisheries and Aquatic ResourcesDaglas Devananda, Minister of Education Susil Premajans, Minister of Transport and Highways, Minister of Justice Wijeyadasa Rajapakse, Health Minister Ramesh Pathirana,
-
-Urban Development Minister Prasanna Ranatunga, Minister of Power and Culture Minister of Power and Culture, Minister of Environment, Minister of Environment, Sports and Youth Minister Nalin Fernando and Labor Minister Nasan Ranasinghe and LaborAnd the Magistrate also allowed State Minister Jagath Pushpakumara about foreign employment.
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතා මෙම කැබිනට් පත්‍රකාව ඉදිරිපත් කළ 2022 සැප්තැම්බර් මාසයේ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට අමතරව කැබිනට් මණ්ඩලයේ සාමාජිකයන් වශයෙන් වශයෙන් කටයුතු කළ හිටපු අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන අමාත්‍යවරුන් වශයෙන් කටයුතු කළ වරාය, නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල, ධීවර හා ජලජ සම්පත් අමාත්‍ය ඩග්ලස් දේවානන්ද, අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත්, ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන, කුෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර, අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ, සංචාරකථ ඉඩම්, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය හරින් ප්‍රනාන්දු, සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ,
 
 ...
 
 [Data](articles/48c9ea7d.json)
-
-[Extended Data](ext_articles/48c9ea7d.ext.json)
 
 ---
 
@@ -2074,31 +1990,23 @@ The Chairman of Sri Lanka has also accepted the intention to join the new Develo
 
 ---
 
-### Bay of Bay of Bengal is a low bake zone today
+### බෙංගාල බොක්කේ අඩු පිඩන කලාපයක් නිසා අද සවස වැස්ස වැඩිවෙයි
 
 *2024-11-11 17:40:59* · [`adalk`](https://www.ada.lk/breaking_news/බෙංගාල-බොක්කේ-අඩු-පිඩන-කලාපයක්-නිසා-අද-සවස-වැස්ස-වැඩිවෙයි/11-412976) · `si`
 
-Low pressure zone forming in Bay of Bengal, heavy rainfall expected in Sri Lanka. Showers in Trincomalee, North & Central provinces. Thunderstorms possible with strong winds. Rough seas forecasted. DMC warns of potential disasters.
+නිරිත දිග බෙංගාල බොක්ක මුහුදු ප්‍රදේශය ආශ්‍රිතව අඩු පීඩන කලාපයක් වර්ධනය වීමේ හැකියාවක් පවතින බවත්, එහි බලපෑමෙන් අද (12දා) දිවයිනේ බොහෝ ප්‍රදේශවල සවස් කාලයේ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවත් කාලගුණවිද්‍යා දෙපාර්තමේන්තුව සඳහන් කරයි.
 
-🟩
+හෙට (13දා) සිට ඉදිරි දින කිහිපයේදීත් වැසි බලාපොරොත්තු වන බවත්, අද උතුරු සහ උතුරු මැද පළාත්වලත්, ත්‍රිකුණාමලය දිස්ත්‍රික්කයේත් වැසි වාර කිහිපයක් ඇති විය හැකි අතර, සෙසු ප්‍රදේශවල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවද පෙන්වා දෙයි.
 
-The Meteorological Department states that there is a possibility of developing a low pressure zone in the Bay of Bay of Bay of Bay of Bay of Bengal.
+නැගෙනහිර, මධ්‍යම, ඌව සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවලට මි.මී. 50 ට වැඩි තරමක තද වැසි ඇති විය හැකි බවද සඳහන් කරයි.
 
-Showers will occur in the Trincomalee District tomorrow (13th) and several showers in the North and North Central provinces..
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත්, ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැක.
 
-Mm in the Eastern, Central, Uva and Sabaragamuwa provinces. It is said that there may be heavy rain than 50.
-
-In some places in the Western, Sabaragamuwa, Central and Central and Matara districts, can last a morning in the Galle and Matara districts.
-
-The public is requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Showers or thundershowers will occur at several places in the sea areas off the coast extending from Kankesanthurai to Trincomalee.
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මගින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස ජනතාවගෙන් ඉල්ලා සිටියි.
 
 ...
 
 [Data](articles/a3a1d051.json)
-
-[Extended Data](ext_articles/a3a1d051.ext.json)
 
 ---
 
@@ -2196,27 +2104,19 @@ The General Election is scheduled to be held on November 14.
 
 ---
 
-### Prabhakaran's purpose cannot be accomplished by the new Constitution - Sarath Weerasekera
+### பிரபாகரனின் நோக்கத்தை புதிய அரசியலமைப்பால் நிறைவேற்ற இடமளிக்க முடியாது - சரத் வீரசேகர
 
 *2024-11-11 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198446) · `ta`
 
-Sarath Weerasekera opposes new constitution, citing Prabhakaran's goals. Emphasizes unity over federalism. Warns against releasing Tamil political prisoners due to alleged terrorist ties. Urges voters to prioritize national security in upcoming elections.
+விடுதலை செய்யும் தமிழ் அரசியல் கைதிகளின் பெயரை ஜனாதிபதி குறிப்பிட்டால்  அவர்கள் செய்த பயங்கரவாத செயற்பாட்டை நான் குறிப்பிடுவேன். பிரபாகரனின் நோக்கத்தை புதிய அரசியலமைப்பால் நிறைவேற்ற இடமளிக்க முடியாது. நாட்டின் ஒற்றையாட்சியை கருத்திற் கொண்டு மக்கள் பொதுத்தேர்தலில் வாக்களிக்க வேண்டும் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் கொழும்பு மாவட்ட வேட்பாளர் சரத் வீரசேகர தெரிவித்தார்.
 
-🟩
+ஜனாதிபதி அநுரகுமார திசாநாயக்க தனது கொள்கை பிரகடனத்தில் புதிய அரசியலமைப்பு உருவாக்கத்துக்காக 2015 முதல் 2019 வரை ஆட்சியில் இருந்த நல்லாட்சி அரசாங்கம் தயாரித்த சட்ட வரைவினை அடிப்படையாகக் கொண்டு புதிய அரசியலமைப்பை தயாரிப்பதாக குறிப்பிட்டுள்ளார்.
 
-If the president mentions the name of the Tamil political prisoners who are liberated, I will refer to the terrorist activities they have done. Prabhakaran's purpose cannot be accomplished by the new constitution. Sri Lanka PA's Colombo district candidate Sarath Weerasekera said that the people should vote in the general election in view of the country's unity.
-
-President Anura Kumara Dissanayake has stated that in his policy declaration, the new constitution is being prepared for the creation of a new constitution from 2015 to 2019, based on the law prepared by the government.
-
-Lal Vijayanayake, who was appointed to the new constitution, was present at the presence of the National People's Power During the presidential election.. Suggestions have been made to abolish the unilateral constitution and create a federal system.
-
-Buddhist Charter is preserved because Sri Lanka is a single country. All ethnic people live freely and peacefully.
+புதிய அரசியலமைப்பு உருவாக்கத்துக்காக நியமிக்கப்பட்ட குழுவில் பதவி வகித்த லால் விஜயநாயக்க ஜனாதிபதித் தேர்தலின் போது தேசிய மக்கள் சக்தியின் தேர்தல் பிரச்சார மேடைகளில் முன்னிலையில் இருந்தார். ஒற்றையாட்சி அரசியலமைப்பினை இரத்துச் செய்து சமஷ்டியாட்சி முறைமையிலான அரசியலமைப்பை உருவாக்கும் பரிந்துரைகள் முன்வைக்கப்பட்டுள்ளன.
 
 ...
 
 [Data](articles/9e0f38e5.json)
-
-[Extended Data](ext_articles/9e0f38e5.ext.json)
 
 ---
 
@@ -2327,5 +2227,77 @@ The Deputy Postmaster General further stated that the distribution process requi
 [Data](articles/ea8a5614.json)
 
 [Extended Data](ext_articles/ea8a5614.ext.json)
+
+---
+
+### Inaugural session of Tenth Parliament to be held on November 21
+
+*2024-11-11 17:00:00* · [`economynextcom`](https://economynext.com/inaugural-session-of-tenth-parliament-to-be-held-on-november-21-186874/) · `en`
+
+ECONOMYNEXT – The inaugural session of the Tenth Parliament, with 196 members elected by public vote and 29 members entering through the national list, is scheduled to commence on November 21.
+
+A total of 225 members of parliament will be elected in the upcoming general election on November 14.
+
+A series of special proceedings expected to take place on that day, including the appointment of Speaker, the Parliament of Sri Lanka said in a statement.
+
+On the first day, the primary responsibilities within the Chamber are entrusted to the Secretary-General of Parliament.
+
+Members of parliament are not assigned specific seating arrangements on this day and are allowed to sit in any seat of their choice.
+
+The full outline of the day’s proceedings is reproduced below:
+
+...
+
+[Data](articles/8a0f18ae.json)
+
+[Extended Data](ext_articles/8a0f18ae.ext.json)
+
+---
+
+### Sri Lanka rupee closes weaker at 292.55/75 to dollar, bonds down
+
+*2024-11-11 16:59:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-weaker-at-292-55-75-to-dollar-bonds-down-186876/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed weaker at 292.55/75 to the US dollar from 292.50/65 to the US dollar on Friday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed stable at 10.40/55 percent.
+
+A bond maturing on 15.12.2027 closed at 11.20/35 percent, down from 11.30/35 percent.
+
+A bond maturing on 15.03.2028 closed at 11.50/60 percent, down from 11.55/60 percent.
+
+A bond maturing on 15.06.2029 closed at 11.90/12.00 percent, down from 11.90/12.05 percent.
+
+The central bank announced Rs 85,000 million Treasury Bonds under the series of 09.00%2028 ‘B’ and Rs. 47,500 million Treasury Bonds under the series of 09.00%2032 ‘A’ are to be issued through an auction on November 12.
+
+◼️
+
+[Data](articles/777675cd.json)
+
+[Extended Data](ext_articles/777675cd.ext.json)
+
+---
+
+### Colombo Stock Exchange is Thursday
+
+*2024-11-11 16:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203138) · `si`
+
+Colombo Stock Exchange operates 3-hour session today due to elections. Market opens at 9:30 AM, closes at 12:30 PM. S&P SL20 Index shows significant growth, increasing by 74.86 units to 12,875.32.
+
+🟩
+
+The Colombo Stock Exchange is limited to 3 hours due to the general election.
+
+Accordingly, the Colombo Stock Exchange says that the Colombo Stock Exchange is only 9:30 am at 12:30 pm.
+
+Meanwhile, all stock price index in the Colombo Stock Exchange and the S & P SL20 Index have shown significant growth.
+
+All stock price index increased by 74.86 units, and the day was 12,875.32.
+
+◼️
+
+[Data](articles/de6ce0cd.json)
+
+[Extended Data](ext_articles/de6ce0cd.ext.json)
 
 ---

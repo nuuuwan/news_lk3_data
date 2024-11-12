@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 12:41:00**
+As of **2024-11-12 13:10:35**
 
 ## Newspaper Stats
 
-*Scraped **54,381** Articles*
+*Scraped **54,389** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,119 @@ bbccomsinhala | 555
 colombotelegraphcom | 555
 islandlk | 3,254
 economynextcom | 3,295
-dailyftlk | 3,726
+dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,083
+adalk | 5,086
 adaderanalk | 6,483
-tamilmirrorlk | 7,602
+tamilmirrorlk | 7,603
 virakesarilk | 8,822
-adaderanasinhalalk | 9,487
+adaderanasinhalalk | 9,489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,381 (100.0%) of 54,381 articles have been extended.
+54,386 (100.0%) of 54,389 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### සයිබර් ප්‍රහාරයකට ලක් වූ කාලගුණ වෙබ් අඩවියේ අලුත්ම තත්ත්වය
+
+*2024-11-12 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203171) · `si`
+
+සයිබර් ප්‍රහාරයක් එල්ලවූ කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ වෙබ් අඩවිය යථා තත්ත්වයට පත් කිරීමේ කටයුතු මේ වනවිට සිදුකරමින් පවතින බව පරිගණක හදිසි ප්‍රතිචාර සංසදය පැවසීය.
+
+පසුගිය පළමු වැනිදා එම දෙපාර්තමේන්තුවේ වෙබ් අඩවිය සයිබර් ප්‍රහාරයට ලක්විය.
+
+මේ සම්බන්ධයෙන් අදහස් දක්වන පරිගණක හදිසි ප්‍රතිචාර සංසදයේ ජ්‍යෙෂ්ඨ තොරතුරු ආරක්ෂක නිලධාරි චරුක දමුණුපොළ මහතා,
+
+"නොවැම්බර් පළවෙනිදා කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ නිල වෙබ් අඩවියට සයිබර් ප්‍රහාරයක් සම්බන්ධ තොරතුරු දැනුවත් කිරීමක් කළා අදාළ දෙපාර්තමේන්තුව විසින්. මෙම සයිබර් ප්‍රහාරයෙන් කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ වෙබ් අඩවියේ වෙනස්වීමක් ඇති වුණා. ඒ සම්බන්ධ මූලික පරික්ෂණවලින් අනතුරුව වෙබ් අඩවිය නැවතත් යථා තත්ත්වයට පත්කිරීමට අවශ්‍ය කටයුතු දැනටමත් කරමින් පවතිනවා. මේ සම්බන්ධ විමර්ශනයකුත් දැනටමත් ක්‍රියාත්මක වෙනවා කාලගුණවිද්‍යා දෙපාර්තමේන්තුවේ වෙබ් අඩවියේ යම් තොරතුරු වෙනත් බාහිර පාර්ශ්වයකට ගියාද නැද්ද යන්න වග. මූලික පරික්ෂණවලින් අනාවරණය වුණ තොරතුරු අනුව එවැනි කිසිදු තොරතුරක් බාහිර පාර්ශ්වයකට ලබාගැනීමක් හෝ සොරා ගැනීමක් වාර්තා වෙන්නේ නෑ."
+
+◼️
+
+[Data](articles/360bf18b.json)
+
+---
+
+### A request from USA about Arugambay
+
+*2024-11-12 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203170) · `si`
+
+USA requests removal of US Embassy tourist counselor. Sri Lanka strengthens security in Arugambay after US warning. Government arrests suspects, ongoing investigations. Defense Secretary visits area.
+
+🟩
+
+The Foreign Ministry has requested the US Embassy to remove the tourist counsel for the US embassy until he was notified.
+
+It is reported that the demand has been made by External Affairs Vijitha Herath recently.
+
+On October 23, the US embassy on October 23, the US Embassy issued a warning announcement targeting the country, including Arugambay area.
+
+There they showed that US citizens in Sri Lanka are asked to avoid traveling to Arugampe until again.
+
+After the announcement, several other countries asked to travel to the citizens of the region and to focus on security.
+
+In the face of the situation, the government took steps to strengthen the security of the area and carried out intelligence and measured its security for security.
+
+Accordingly, several persons have already been arrested and further investigations are underway.
+
+The Defense Secretary Thusicontha visited the Arumbain, who was in a tour of the area.
+
+◼️
+
+[Data](articles/6ed34b91.json)
+
+[Extended Data](ext_articles/6ed34b91.ext.json)
+
+---
+
+### Massive fire in Rajagiriya
+
+*2024-11-12 12:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜகிரியவில்-பாரிய-தீ/175-346991) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rajagiriya: Massive fire engulfs temporary garment factory. Four fire trucks from Kotte Fire Department respond.
+
+🟩
+
+The fire broke out in a temporary garment factory located on the Rajagiriya, Welikada road.
+
+Four fire trucks of the Kotte Fire Department were sent to the scene to bring the fire under control.
+
+◼️
+
+[Data](articles/a129a6dc.json)
+
+[Extended Data](ext_articles/a129a6dc.ext.json)
+
+---
+
+### Fire breaks out in Rajagiriya
+
+*2024-11-12 12:18:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජගිරියේ-ඇගලුම්-කර්මාන්ත-ශාලවක-ගින්නක්/11-412990) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Rajagiriya: Fire erupts at Media Welikada Rd. Flames engulfed buildings, causing panic. Emergency services rushed to scene. No casualties reported yet."
+
+🟩
+
+A fire broke out at the Media Welikada road in Rajagiriya.
+
+◼️
+
+[Data](articles/65217efa.json)
+
+[Extended Data](ext_articles/65217efa.ext.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -469,6 +565,28 @@ The warning on the beaches in the Gulf of Health and the southern and west of Sr
 [Data](articles/a41d0941.json)
 
 [Extended Data](ext_articles/a41d0941.ext.json)
+
+---
+
+### Talaimannar train resumes
+
+*2024-11-12 10:56:01* · [`adalk`](https://www.ada.lk/breaking_news/තලෙයිමන්නාරම්-දුම්රිය-යළි-ඇරඹෙයි/11-412989) · `si`
+
+Colombo-Talai Mannar train service resumes after Northern Railway Station renovation. Train departs Colombo Fort at 4:15 AM, arrives Talai Mannar at 10:15 PM. Return journey starts at 4:15 AM from Talai Mannar, reaches Colombo Fort at 10:15 AM.
+
+🟩
+
+The Colombo-Talai Mannar train was reopened by the renovation of the Northern Railway Station to Anuradhapura.
+
+Accordingly, the railway will commence from today. The train, which will commence at 4.15 am in Colombo Fort, is to be reached at 10.15 pm Talai.
+
+The train commencing from Thalai town back to 4.15 am will reach Colombo Fort at 10.15 am.
+
+◼️
+
+[Data](articles/bdea05b7.json)
+
+[Extended Data](ext_articles/bdea05b7.ext.json)
 
 ---
 
@@ -1130,6 +1248,38 @@ In addition, more than 50 millimeters of heavy rains are likely to occur in some
 
 ---
 
+### 4 suspects of Chunnakam police banned
+
+*2024-11-12 07:23:47* · [`adalk`](https://www.ada.lk/breaking_news/චුන්නාකම්-පොලීසියේ-4කගේ-වැඩ-තහනම්/11-412988) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"4 Chunnakam police officers suspended after accident investigation. Incident involved car chase & heated argument. Police Inspector General & 2 constables affected."
+
+🟩
+
+The Jaffna Police have said that four police officers of the Chunnakam police station in Jaffna after an investigation into an accident have been suspended.
+
+After a police accident in Chunnakam, the police officers were chased after the accident in the Chunnakam area.
+
+A group of men, including a person, had strongly objected against Chunnakam police.
+
+The department then investigated the police team to look into the incident, four police officers had been suspended.
+
+The police media spokesman's office said that a Police Inspector General of Chunnakam Police and two policemen constables said.
+
+"The vehicle was fled by a car accident. He had made the accusation that he had to attack him on a heated argument when he was trying to arrest him. Accordingly, four policemen have been investigating. "
+
+◼️
+
+[Data](articles/d22dd942.json)
+
+[Extended Data](ext_articles/d22dd942.ext.json)
+
+---
+
 ### Sri Lankans refer to cyber bases in Myanmar
 
 *2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203157) · `si`
@@ -1359,6 +1509,34 @@ As Sri Lanka prioritises seamless tourist services and experiences, safeguarding
 [Data](articles/72248de9.json)
 
 [Extended Data](ext_articles/72248de9.ext.json)
+
+---
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/columns/Towards-building-a-digital-tourism-fortress/4-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/e606713e.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/columns/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/4-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/0bc219d6.json)
 
 ---
 
@@ -2239,183 +2417,5 @@ The last day of the National People's Power's election campaign was held in Gamp
 [Data](articles/781cf8dc.json)
 
 [Extended Data](ext_articles/781cf8dc.ext.json)
-
----
-
-### Sajith says the existing ISF agreement should be changed
-
-*2024-11-11 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203150) · `si`
-
-Sajith Premadasa calls for changing IMF agreement, citing need for tax relief. He urges public support for new deal, criticizing current economic situation.
-
-🟩
-
-Leader of the Power Sajith Premadasa says that the International Monetary Fund is required to redeem taxes from the tax burden.
-
-The leader of the party Sajith Premadasa requests the public to win their party to the new agreement.
-
-"Mr. Gotabhaya Rajapaksa is the President of the President of the President of Gotabhaya Rajapakse, President of the President of Gotabhaya Rajapakse..  මේ IMF ගිවිසුම වෙනස් කරලා අපි අලුත් ගිවිසුමකට යන්න ඕනේ. Establishment of Credit Payment According to the IMF, 2033. Otherwise, when I was saying that I was saying today, it is very clear that 2022, as 2022, we are in depression and discomfort. "
-
-◼️
-
-[Data](articles/4e0c1fef.json)
-
-[Extended Data](ext_articles/4e0c1fef.ext.json)
-
----
-
-### Colombo - Talaimannar Railway Service from today - Railway Department
-
-*2024-11-11 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198466) · `ta`
-
-Colombo-Talaimannar railway service resumes Tuesday after suspension. Train departs Colombo Fort 4:15 PM, Talaimannar 4:15 AM next day.
-
-🟩
-
-The Railway Department has announced that the Colombo -Talaimannar railway service, which has been suspended due to the development of the Railway Road to Mahawa - Anuradhapura, will be resumed from Tuesday.
-
-Accordingly, the train will leave the Colombo Fort Railway Station at 04.15 pm on Tuesday (12) at 10.15 pm.
-
-Similarly, the train will depart from Talaimannar at 04.15 am on Wednesday (13) at 10.15 am.
-
-◼️
-
-[Data](articles/a76419e9.json)
-
-[Extended Data](ext_articles/a76419e9.ext.json)
-
----
-
-### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
-
-*2024-11-11 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
-
-...
-
-[Data](articles/61c6dea3.json)
-
-[Extended Data](ext_articles/61c6dea3.ext.json)
-
----
-
-### Tilshan made clear about his citizenship
-
-*2024-11-11 20:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-பிரஜாவுரிமை-பற்றி-தெளிவுபடுத்தினார்-டில்ஷான்/175-346953) · `ta`
-
-DM Dilshan denies dual citizenship claim, confirms renouncing Australian citizenship to run in Sri Lankan parliamentary election.
-
-🟩
-
-Former Sri Lankan cricketer DM Dilshan, who is contesting in the upcoming parliamentary elections in the Kalutara district, has denied the allegation that he did not quit his dual citizenship.
-
-Speaking at a media briefing, Dilshan confirmed that he had renounced his Australian citizenship to qualify for the Sri Lankan parliamentary election.. “Various people are spreading rumors that I have not abandoned my citizenship for fear of my success.”
-
-Dilshan is contesting in the new political party created by actor and former parliamentarian Ranjan Ramanayake.
-
-Dilshan made clear the doubts and false information about his merits, as candidates should only get Sri Lankan citizenship under the country's election laws.
-
-◼️
-
-[Data](articles/14569b7d.json)
-
-[Extended Data](ext_articles/14569b7d.ext.json)
-
----
-
-### State attention to SMEs to SMEs
-
-*2024-11-11 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203149) · `si`
-
-SMEs meeting: Banking support, loan reports, Paradise Law loan recoveries discussed.
-
-🟩
-
-The Presidential Secretariat was held at the Presidential Secretariat today (11) a discussion on issues due to the problems faced by SMEs.
-
-Secretary Defense of the President and Economic Affairs GNRD. Mr. Angsu's chairman.
-
-The Sri Lankan Bank Association, Ministry of Finance and the Sri Lanka Officers of Sri Lanka have participated in this.
-
-The discussion has been discussed at length regarding the support available to the banking sector to enhance the production capability of the economy.
-
-The discussion has also been decided to prepare a report on the loan obtained by the SMEs from the banks by small and medium scale industrialists.
-
-The Presidential Media Union stated that the recovery of the loans given to SMEs under the Paradise Law have been suspended and discussed in this regard.
-
-◼️
-
-[Data](articles/a2685cd0.json)
-
-[Extended Data](ext_articles/a2685cd0.ext.json)
-
----
-
-### Sujeeva handed over the vehicle
-
-*2024-11-11 20:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனத்தை-ஒப்படைத்தார்-சுஜீவ/175-346952) · `ta`
-
-Sujeewa Senasinghe hands over vehicle to High Court for investigation. Government corruption unit requested further probe. Toyota requires vehicle report. Senasinghe claims it's political revenge after previous clearance.
-
-🟩
-
-United People's Alliance (SJS) National Organizer Sujeewa Senasinghe says his vehicle has been handed over to the High Court for further investigations.
-
-I was asked to hand over the vehicle as the government's corruption unit had informed the courts that further investigations should be carried out. Toyota said in court that a vehicle report was needed. Accordingly, I had to hand over the vehicle, ”Senasinghe told the Daily Mirror.
-
-“This is nothing but political revenge. The government inspector allowed my vehicle last week. However, the authorities want to be investigated, ”he added.
-
-◼️
-
-[Data](articles/b300431a.json)
-
-[Extended Data](ext_articles/b300431a.ext.json)
-
----
-
-### Court orders to expedite tax probes on Piumi Hansamali and Aura Lanka chairman
-
-*2024-11-11 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103338/court-orders-to-expedite-tax-probes-on-piumi-hansamali-and-aura-lanka-chairman) · `en`
-
-Colombo Additional Magistrate Bandara Ilangasinghe has ordered the Inland Revenue Department today (11) to expedite its investigations into actress Piumi Hansamali and Aura Lanka Chairman Viranjith Thambugala.
-
-The directive came as the case filed by the Inland Revenue Department under Section 190 of the Inland Revenue Act was brought before the court.
-
-The investigation seeks to determine if any offenses under section 190 of the Inland Revenue Act were committed by the two individuals in question.
-
-The counsel representing the Department of Revenue informed the court that a search warrant had been issued to examine documents at the residences of both individuals, but they were not present at their homes during the searches.
-
-◼️
-
-[Data](articles/aa2a1d74.json)
-
-[Extended Data](ext_articles/aa2a1d74.ext.json)
-
----
-
-### Government prioritizes relief for Small and Medium Enterprises in Sri Lanka
-
-*2024-11-11 20:32:00* · [`islandlk`](http://island.lk/government-prioritizes-relief-for-small-and-medium-enterprises-in-sri-lanka/) · `en`
-
-A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
-
-The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs,  G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited.
-
-The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
-
-Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15. The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
-
-...
-
-[Data](articles/2391bf9b.json)
-
-[Extended Data](ext_articles/2391bf9b.ext.json)
 
 ---

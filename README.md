@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 19:13:04**
+As of **2024-11-12 19:25:07**
 
 ## Newspaper Stats
 
-*Scraped **54,456** Articles*
+*Scraped **54,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,728
 dailymirrorlk | 4,733
 adalk | 5,093
 adaderanalk | 6,498
-tamilmirrorlk | 7,618
+tamilmirrorlk | 7,619
 virakesarilk | 8,837
 adaderanasinhalalk | 9,500
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 9,500
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,456 (100.0%) of 54,456 articles have been extended.
+54,456 (100.0%) of 54,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### தேர்தல் ஆணைக்குழு விசேட அறிக்கை
+
+*2024-11-12 19:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-விசேட-அறிக்கை/175-347018) · `ta`
+
+அரச, தனியார் துறை ஊழியர்களுக்கு வாக்களிப்பதற்கான விடுமுறை வழங்கல் குறித்து  தேர்தல் ஆணைக்குழு விசேட அறிக்கை ஒன்றை வெளியிட்டுள்ளது. R
+
+◼️
+
+[Data](articles/5c589ad0.json)
+
+---
 
 ### Massage affair: Bail for female candidate
 
@@ -2567,31 +2579,5 @@ Accordingly, the Afghan group was able to win the two ODIs.
 [Data](articles/4b197f71.json)
 
 [Extended Data](ext_articles/4b197f71.ext.json)
-
----
-
-### Non -standard drug distribution;Court order to register by voting for 18 former ministers
-
-*2024-11-12 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198476) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Court orders 18 ex-ministers to register over substandard drug distribution to hospitals. Former leaders including Wickremesinghe and Gunawardena named. Attorney General seeks legal action.
-
-🟩
-
-Magistrate Lochani Abeywickrama has ordered 18 former ministers to register with the vote in connection with the distribution of substandard drugs to government hospitals.
-
-Former President Ranil Wickremesinghe, former Prime Minister Dinesh Gunawardena, former Prime Minister Dinesh Gunawardena, former ministers Thon Alas, Mahinda Amaraweera, Vijayadasa Rajapaksa, Harin Fernando, Roshan Ranasinghe, Nimal Siripala and Nimal Siripala, were a member of the Cabinet.
-
-In addition, Deputy Solicitor General Miss Lakmini Girihagama, appearing on behalf of the Attorney General, requested the Magistrate to issue an order in the court on the issue.
-
-◼️
-
-[Data](articles/8ec590f5.json)
-
-[Extended Data](ext_articles/8ec590f5.ext.json)
 
 ---

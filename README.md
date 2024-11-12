@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 13:41:53**
+As of **2024-11-12 14:41:29**
 
 ## Newspaper Stats
 
-*Scraped **54,392** Articles*
+*Scraped **54,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,267 @@ islandlk | 3,254
 economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,086
+adalk | 5,087
 adaderanalk | 6,483
-tamilmirrorlk | 7,603
-virakesarilk | 8,824
-adaderanasinhalalk | 9,490
+tamilmirrorlk | 7,607
+virakesarilk | 8,825
+adaderanasinhalalk | 9,494
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,392 (100.0%) of 54,392 articles have been extended.
+54,401 (100.0%) of 54,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### பாம்பன் பாலத்தில் போராட்டம்
+
+*2024-11-12 14:33:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாம்பன்-பாலத்தில்-போராட்டம்/175-347003) · `ta`
+
+இலங்கை சிறையில் அடைக்கப்பட்டுள்ள இந்திய மீனவர்களை விடுதலை செய்ய வலியுறுத்தி விசைப்படகு மற்றும் நாட்டுப்படகு மீனவர்கள் ஒருங்கிணைந்து செவ்வாய்கிழமை (12) பாம்பன் பாலத்தில் சாலை மறியல் போராட்டம் நடத்தினர்.
+
+கடந்த ஜனவரி மாதத்திலிருந்து தற்போது வரை தமிழக மீனவர்களின் 66 படகுகளை சிறைப்பிடித்து, 497 மீனவர்கள் இலங்கை கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+இலங்கை கடற்படையினரால் கைது செய்யப்படும் மீனவர்கள், அந்நாட்டின் வெளிநாட்டு மீன்பிடி தடை சட்டத்தின் கீழ் குற்றப்பத்திரிக்கை தாக்கல் செய்யப்பட்டு நீதிமன்றங்களில் வழக்கு பதிவு செய்யப்பபடுகிறது. இதில் 90 மீனவர்கள் ஆறு மாதம் முதல் இரண்டு ஆண்டு காலம் வரையிலும் தண்டனை மற்றும் அபராதம் விதிக்கப்பட்டு வழங்கப்பட்டு இலங்கை சிறைகளில் தண்டனை கைதிகளாக உள்ளனர்.
+
+...
+
+[Data](articles/02abd5a3.json)
+
+---
+
+### Special announcement from the Department of Examinations
+
+*2024-11-12 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203176) · `si`
+
+Here's a 200-character summary:
+
+
+
+Department of Examinations statement: Exam certificates delayed due to staff deployment for 2024 parliamentary election. All service windows and online services will be closed on that day.
+
+🟩
+
+The Department of Examinations has issued a statement regarding the issuance of examination certificates.
+
+It is said that due to the deployment of departmental staff for election duties due to the 2024 parliamentary election, the exam certificates will not issue exam certificates.
+
+Accordingly, all service windows and online service will not work on that day.
+
+◼️
+
+[Data](articles/ba38872f.json)
+
+[Extended Data](ext_articles/ba38872f.ext.json)
+
+---
+
+### More than 400 calls on security
+
+*2024-11-12 14:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-குறித்து-400க்கும்-மேற்பட்ட-அழைப்புகள்/175-347002) · `ta`
+
+Sri Lanka: Over 400 security calls for tourist safety. DIG Damayantha Vijaya Sri leads coastal and tourism security efforts. Measures include patrols and surveillance. No current tourist concerns reported.
+
+🟩
+
+DIG in charge of coastal and tourism. It is reported that Damayantha Vijaya Sri has received more than 400 calls in the last few days.
+
+A few weeks ago, it was warned that terrorist attacks could be launched targeting Israeli tourists and other tourists.
+
+Subsequently, the US embassy in Sri Lanka and the Israeli government warned its citizens to avoid traveling to some other coastal areas.
+
+Accordingly, the DIG is a special center to take steps on the safety of tourists. The Division headed by Damayantha Vijaya Sri was appointed.
+
+DIG Damayantha Vijaya Sri said that they have received more than 400 calls for their division for the past few days.
+
+He also said that the police coast and tourism unit is functioning to address all the problems.
+
+He added that the necessary surveillance measures were taken to ensure the safety of tourists, as well as the Inspector General of Police on the instructions of the Inspector General of Police.
+
+...
+
+[Data](articles/23512144.json)
+
+[Extended Data](ext_articles/23512144.ext.json)
+
+---
+
+### Special Workshop for Bus Depots
+
+*2024-11-12 14:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-டிப்போக்களுக்கு-விசேட-பணிப்புரை/175-347001) · `ta`
+
+Sri Lanka Transport Board deploys extra buses for election duty and holiday traffic. Over 1000 buses allocated for transport officers, polling stations, and police. Additional buses planned for Colombo during long weekend. Public transport to resume after election and police duties.
+
+🟩
+
+Sri Lanka Transport Board Chairman Ramal Siriwardena said that all the Sri Lanka Transport Board (SLTB) depots have been issued to operate existing buses from today (18).
+
+He told the Daily Mirror that all provincial depots have been instructed to operate buses according to the current schedule to ease the traffic of passengers inside and outside Colombo.
+
+Accordingly, more than 70 buses have been deployed in the Gampaha, Kalutara and Colombo regions today and 80 more buses have been allocated to the Colombo Fort tomorrow to meet the demand of passengers.
+
+He said the buses would be operated in addition to the existing schedule.
+
+A total of 1,017 buses have been allocated for transport officers and polling boxes for election work. In addition, 290 buses have been assigned to the police on their respective fare basis.
+
+Once the transportation of the election works and the police is over, these buses will be available for public transport.
+
+...
+
+[Data](articles/83c29f53.json)
+
+[Extended Data](ext_articles/83c29f53.ext.json)
+
+---
+
+### Discussion on the release of political prisoners
+
+*2024-11-12 13:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளின்-விடுதலை-தொடர்பில்-கலந்துரையாடல்/175-347000) · `ta`
+
+Sri Lanka: Political prisoner release talks underway between Presidential Secretariat & AG's Dept. Most detainees are Tamil, held without trial. Human rights groups demand fair investigations & legal reforms. President Dissanayake vows to discuss prisoner release.
+
+🟩
+
+Attorney -at -Law JM JM says that a discussion is taking place between the Presidential Secretariat and the Attorney General's Department regarding the release of political prisoners.. Wijebandara said.
+
+In Sri Lanka, 'political prisoners' often refer to those who are detained under anti -terror laws.
+
+Responding to a question raised by journalists as to whether a program is being carried out on the release of political prisoners, Wijebandara said he was in consultation with the Attorney General's Department on the release of political prisoners.
+
+Most of the so -called political prisoners are Tamils ​​who have been arrested without interrogation or have been detained under severe conditions.
+
+Human rights groups, families and activists of the suspects have been fighting for a long time that these prisoners are suffering from spontaneous detention, long -term imprisonment and lack of fair trial.
+
+...
+
+[Data](articles/8a146d33.json)
+
+[Extended Data](ext_articles/8a146d33.ext.json)
+
+---
+
+### Abhayan Awards
+
+*2024-11-12 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203175) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Abhayan Awards: Tiwara Na Award won by 'Tiwuba'. University of Kelaniya ceremony. Digital space winners. Ganira Summan for YouTube design. Dinesh Muthugala, most popular teacher. Bhaya Batah, top singer. Shanudri Priyasad, Facebook/Vlog winner. Charith Silva, TikTok star. Wild Cook Book, popular cooking show. Vini Production, YouTube producer."
+
+🟩
+
+Tiwarana Award, the most popular news center of the UTUUB space was won by the 'Tiwuba' awards at the 'Abhiwan' Awards organized by the University of Kelaniya, the University of Kelaniya.
+
+The awards ceremony was held at the Faculty Faculty of Computer and Technology Husbandry of the University of Kelaniya yesterday (11).
+
+There were a number of predominants who won the digital space in Sri Lanka and the Ganira Summan was awarded for the design of the youtube space.
+
+Meanwhile, Dinesh Muthugala was awarded as the most popular teacher in the Youtube space, while the most popular singer of the youtube space was awarded the Bhaya Batah as the most popular singer.
+
+The most popular role award at Facebook and Vlog Social Media Network of Social Media Network won by Shanudri Priyasad.
+
+The Wild Cook Book, the Fold Cook Book, Charith Silva was awarded as the most popular character of the Ticktock Social Media Network.
+
+...
+
+[Data](articles/f691f020.json)
+
+[Extended Data](ext_articles/f691f020.ext.json)
+
+---
+
+### Tearsheltories hearing on the mountain - the two acre tea cultivation was destroyed
+
+*2024-11-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203174) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Tea plantation owner Thusharanaan's 2-acre cultivation destroyed by Samarasuriya. Neluwa Police OIC involved, citing land dispute. Owner seeks justice, claims ancestral property.
+
+🟩
+
+If a plantation crop cultivation is unstable with the sweat, can be thought of the pain.
+
+Borders in Galle and Matara districts is owner of two acres of tea cultivation in the Mount Kanda Mount Kanda Mount Kandalawa. The name Thusharanaan is the one.
+
+Two acres of tea to him have been removed a few days ago, Thimbirigasyaya, Colombo have removed. By a woman named Samarasuriya.
+
+The OIC of the Neluwa Police has also telephoned him.
+
+"From the country, a man called, he asked him Jothi. I said yes. If he would have said that he should quit the land, he threatened to remove the people from Colombo. "
+
+The Neluwa Police OIC also called on the incident, Jothi said it was telephoned him.
+
+OIC - "I speak OIC at Neluwa. Miss's lands are all measured by all these measures today. If you don't understand the Sinhalese, we have nothing to do. It was to ask that the man, he lost. "
+
+Oic- "In addition to the hunting of guns in addition to. There is also stingled. "
+
+...
+
+[Data](articles/3716babc.json)
+
+[Extended Data](ext_articles/3716babc.ext.json)
+
+---
+
+### Lift is collapse at a Colombo apartment complex
+
+*2024-11-12 13:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203173) · `si`
+
+Elevator collapses at Colombo apartment, injures police officer. Incident happened at 1:30 AM in Grandpass Falls building.
+
+🟩
+
+A police officer suffered injuries due to collapsing the elevator of apartment complex.
+
+The elevator was collapsed in the Grandpass Falls, a building at the Grandpass Face Show.
+
+The accident had occurred at 1.30 am yesterday (11), a police constable was a police constable.
+
+◼️
+
+[Data](articles/c3dbb335.json)
+
+[Extended Data](ext_articles/c3dbb335.ext.json)
+
+---
+
+### Siddharth starrer 'Miss You'
+
+*2024-11-12 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198505) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Siddharth stars in "Miss You," a Tamil romantic film directed by N. Siddharth. Co-starring Ashika Ranganath, Karunakaran, and more. Music by K.G. Venkatesh. Produced by Samuel Mathew under 7 Miles Bur Second. Releasing on 29th at Film House. Fans eagerly await romantic, song, exam, and emotional scenes.
+
+🟩
+
+Siddharth, the leading star actor of the Tamil film industry, has been released as a romantic hero.
+
+Director n. Siddharth, Ashika Ranganath, Karunakaran, Bala Saravanan, Maran, Sashtika and many others have starred in Rajasekhar's upcoming film 'Miss You'.
+
+K. G. The film, which has been recorded by Venkatesh, has composed the film.
+
+The film, which is centered on, has produced the producer Samuel Mathew on behalf of the 7 Miles Bur Second.
+
+The film will be released on the 29th of this month at the film House.. It has a minimum anticipation of the film due to the expectation of the fans, the romantic scenes, the song scenes, the exam scenes, the sentimental scenes.
+
+◼️
+
+[Data](articles/fe5c894c.json)
+
+[Extended Data](ext_articles/fe5c894c.ext.json)
+
+---
 
 ### Two Chinese women arrested
 
@@ -147,6 +393,32 @@ The Defense Secretary Thusicontha visited the Arumbain, who was in a tour of the
 [Data](articles/6ed34b91.json)
 
 [Extended Data](ext_articles/6ed34b91.ext.json)
+
+---
+
+### Fannu loses the ODI series against New Zealand - Here is the substitute player
+
+*2024-11-12 12:30:36* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-එක්දින-තරගාවලිය-වනිඳුට-අහිමි-වෙයි---ආදේශක-ක්‍රීඩකයා-මෙන්න/9-412991) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Fannu misses ODI series vs NZ due to injury. Spinner replaced in squad by Cricket Selection Committee. Team faces tough challenge without key player.
+
+🟩
+
+The ODI tournament against the New Zealand team has been deprived of the spinner tournament.
+
+Due to the condition of the Second Twenty20 match between the two countries, he has lost playing playing playing sports.
+
+Meanwhile, the Cricket Selection Committee has taken steps to replace him to the ODI team.
+
+◼️
+
+[Data](articles/b58b9b7b.json)
+
+[Extended Data](ext_articles/b58b9b7b.ext.json)
 
 ---
 
@@ -2223,227 +2495,5 @@ From the time of the default about 1.8 billion dollars of coupons interest has a
 [Data](articles/baf19161.json)
 
 [Extended Data](ext_articles/baf19161.ext.json)
-
----
-
-### Dhammika Nampeas for the Chief Sanganayake of Switzerland
-
-*2024-11-11 22:30:09* · [`adalk`](https://www.ada.lk/religion/ස්විට්සර්ලන්තයේ-ප්‍රධාන-සංඝනායක-පදවිය-පුජ්‍ය-තවලම-ධම්මික-නාමියන්ට/4-412983) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Chief Justice Syam Maha Nikaya approved by Swiss Vihara Sangha and Jinava Buddhist Temple. 57-year monastic life, 38 years as popular Dharmacharya in Sri Lanka. Appointed to distinguished position in recognition of service.
-
-🟩
-
-The Chief Justice of the Syam Maha Nikaya has been given full approval from the Swiss Vihara Sangha, the Chief Teachers of the Jinava Buddhist Temple and Hokandara Sri Vijayananda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda Dhammikanda.
-
-His monastic life of 57 years. 38 years as a popular Dharmachara in many parts of Sri Lanka, including a large number of people in Sri Lanka, including Ananda Maha Vidyalaya, Colombo, Colombo, and in many parts of Sri Lanka.His mother is to take care of his mother to take over the distinguished position in appreciation.
-
-◼️
-
-[Data](articles/cb4fd8a2.json)
-
-[Extended Data](ext_articles/cb4fd8a2.ext.json)
-
----
-
-### IMF program should focus on cutting Sri Lanka state costs instead of simply raising taxes: Eran
-
-*2024-11-11 22:21:00* · [`economynextcom`](https://economynext.com/imf-program-should-focus-on-cutting-sri-lanka-state-costs-instead-of-simply-raising-taxes-eran-186957/) · `en`
-
-ECONOMYNEXT  – The International Monetary Fund program should look at cutting costs of the island’s bloated state instead of simply raising taxes on the people, former State Minister for Finance Eran Wickremaratne has said.
-
-The IMF has been promoting ‘revenue based fiscal consolidation’ an unusual strategy of supporting the ruler against the ruled, instead of fixing deficits with a combination of spending and revenue consolidation.
-
-“Why the IMF didn’t go to a fiscal consolidation not based on revenue?”, Wickramaratne said in an interview.
-
-“To their credit, I would say they talked about governance issues. But why didn’t they go more drastically on cost? I ran a bank. Others have run companies. The first thing you look at is cost.
-
-“If you look at cost savings, eliminating wastage, reform, whether it’s the armed forces, whether it’s the public service, whether it’s state-owned enterprises.”
-
-...
-
-[Data](articles/4f42028b.json)
-
-[Extended Data](ext_articles/4f42028b.ext.json)
-
----
-
-### Cherry & The Bees…
-
-*2024-11-11 22:17:00* · [`islandlk`](http://island.lk/cherry-the-bees/) · `en`
-
-Cherrie Chamari, a Sri Lanka Living in Melbourne, Australia, has got herself a band and they operate as Cherry & The Bees.
-
-Although Cherrie, originally from Dehiwela, is seen and heard quite often in the music scene, especially in Melbourne, her day time job keeps her busy.
-
-“I was having a busy routine with work so couldn’t focus on my music the past few months but now things are kind of settling down and that’s the reason I decided to have my own band.”
-
-She went on to say that Cherry & The Bees have already been booked for a New Year’s Eve event.
-
-She did one recently with Sharmalee De Silva, who is based in Germany, called ‘Kandulu Pisala Gannam.’
-
-According to Sharmalee, they did the song as a celebration of their friendship, in the music industry.
-
-“Cherrie and I have performed together, on several occasions, not in Sri Lanka, but abroad.”
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-...
-
-[Data](articles/680949c4.json)
-
-[Extended Data](ext_articles/680949c4.ext.json)
-
----
-
-### Dilith offers president a practical plan to solve Sri Lanka’s debt crisis
-
-*2024-11-11 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103339/dilith-offers-president-a-practical-plan-to-solve-sri-lankas-debt-crisis) · `en`
-
-Gampaha District parliamentary candidate and leader of the ‘Sarvajana Balaya’ alliance, Dilith Jayaweera, stated that he has a practical plan to address Sri Lanka’s ongoing debt crisis and is ready to assist the President in repaying the debt through this plan.
-
-Jayaweera made these remarks while addressing a public rally in Maharagama today (11).
-
-“We want to bring this country to a positive state. That is why ‘Sarvajana Balaya’ is here. We are the political force of the developing people. Our goal is to inspire the nation to rise up and move forward, not to fill their minds with fantasies, hate, and anger. This is not the politics we need,” Jayaweera said.
-
-He emphasized that eliminating corruption and prosecuting wrongdoers is the first step toward national development. He criticized other political groups for focusing on social media campaigns, contrasting their approach with the ‘Sarvajana Balaya’ movement’s focus on real change.
-
-...
-
-[Data](articles/f4aed7d4.json)
-
-[Extended Data](ext_articles/f4aed7d4.ext.json)
-
----
-
-### Tamilnadu Party has fallen - KV Dawarasa
-
-*2024-11-11 22:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198469) · `ta`
-
-Tamilnadu Party collapse: KV Dawarasa speaks on splits and failures. Sumanthiran likely to win if Tamil people support party. Party accused of prioritizing individual interests over Tamil nationalism. Economic concerns raised about foreign funding. Candidates question party leadership and strategy.
-
-🟩
-
-Sri Lanka Tamil State Party has split up and fails. In this case, Sumanthiran will be elected if the Tamil people vote for the party. President Attorney KV Dawarasa, who is contesting as the primary candidate at the mango symbol in the electoral district.
-
-He was speaking at a media briefing held at the Jaffna Media Center on Monday (11).
-
-Sri Lanka Tamil State Party has split up and fails. After being included in the national list of Sumanthiran, Gajendrakumar, Sivakaran, Chittambalam, Arundhavapalan, Anandi and Vigneswaran have left.
-
-I tried to not go beyond the party Tamil nationalism for over 14 years.
-
-The Tamil National Alliance was formed by the leader for the unity of the Tamil people. But the Sri Lanka Tamil State Party decided to contest the party's central committee meeting.. The party has become an individual's company. If someone strives for Tamil nationalism, they will be expelled.
-
-...
-
-[Data](articles/9035699e.json)
-
-[Extended Data](ext_articles/9035699e.ext.json)
-
----
-
-### Cinnamon Citadel Kandy celebrates the Season with annual Christmas Cake Mixing Ceremony
-
-*2024-11-11 22:04:00* · [`islandlk`](http://island.lk/cinnamon-citadel-kandy-celebrates-the-season-with-annual-christmas-cake-mixing-ceremony/) · `en`
-
-Cinnamon Citadel Kandy, part of Cinnamon Hotels & Resorts, hosted its cherished annual Christmas Cake Mixing Ceremony, recently, welcoming the season in grand style. This year’s event not only celebrated the spirit of Christmas but also honoured the resort’s recent accolade as South Asia’s Leading Riverfront Hotel/Resort at the South Asian Travel Awards (SATA) 2024. Set against the breathtaking backdrop of the Mahaweli River, the occasion brought together loyal guests and resort staff for a memorable day of festivities.
-
-The event commenced with an enchanting dance performance by students from the Senkadagala Special School, setting a joyous tone. Guests were then guided along the scenic Mahaweli River to the cake mixing area. In a unique tribute to the SATA award, a ceremonial boat delivered the trophy down the river, honouring Cinnamon Citadel Kandy’s distinction as the South Asian region’s premier riverfront destination.
-
-...
-
-[Data](articles/7173da1a.json)
-
-[Extended Data](ext_articles/7173da1a.ext.json)
-
----
-
-### Namal requests the government to fulfill the promises given to the people
-
-*2024-11-11 21:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203153) · `si`
-
-Namal Rajapaksa urges President to keep election promises. He criticizes government for lying about job creation during public speech in Matugama.
-
-🟩
-
-Namal Rajapaksa, the National Organizer of the Sri Lanka General Manager Namal Rajapaksa has requested the President to fulfill his promises to the people.
-
-He made this request participating in a public briefing in Matugama today.
-
-"In the recent past, we have been accused. They say that they say a lie that has been abused by the allegations. What is the government's program for job creation?We call the government and have lied to the people of the country "
-
-◼️
-
-[Data](articles/36097d35.json)
-
-[Extended Data](ext_articles/36097d35.ext.json)
-
----
-
-### NCCSL workshop on Market Research Insights and Analytics for Business Competitiveness
-
-*2024-11-11 21:58:00* · [`islandlk`](http://island.lk/nccsl-workshop-on-market-research-insights-and-analytics-for-business-competitiveness/) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) recently concluded a comprehensive workshop titled “Market Research Insights and Analytics for Business Competitiveness” on November 7, 2024, at the National Chamber Auditorium. The event attracted participants from diverse industries, including entrepreneurs, brand management, marketers, and business development professionals, all aiming to enhance their strategic approaches through effective market research. The workshop focused on understanding market opportunities and consumer behavior, offering hands-on experience in designing research processes and using advanced technology for data analysis.
-
-...
-
-[Data](articles/7e15019f.json)
-
-[Extended Data](ext_articles/7e15019f.ext.json)
-
----
-
-### IMF delegation’s impending visit to Sri Lanka sends positive vibes to stock market
-
-*2024-11-11 21:54:00* · [`islandlk`](http://island.lk/imf-delegations-impending-visit-to-sri-lanka-sends-positive-vibes-to-stock-market/) · `en`
-
-The stock market moved to positive territory yesterday in anticipation of favourable corporate quarter results and a sense of optimism stemming from the high level IMF delegation’s visit to Sri Lanka after the election to review the third tranche for Sri Lanka, market analysts said.
-
-Due to these factors the stock market moved upwards and investor confidence seemed to be gathering momentum. Both indices moved upwards. The All Share Price Index went up by 73.86 points while S and P SL20 rose by 43.94 points. Turnover was Rs 2.42 billion with four crossings.
-
-Those crossings were reported in HNB, which crossed 2.31 million shares to the tune of Rs 528 million; its shares traded at Rs 228, Pan Asia Bank 1.9 million shares crossed for Rs 49.4 million; its shares traded at Rs 26, Commercial Bank 200,000 shares crossed for Rs 23.4 million; its shares sold at Rs 117 and Lanka Aluminium 750,000 shares crossed to the tune of Rs 20 million; its shares sold at Rs 26.50.
-
-...
-
-[Data](articles/b74daa8e.json)
-
-[Extended Data](ext_articles/b74daa8e.ext.json)
-
----
-
-### Investigation from CID regarding Channel 4 video
-
-*2024-11-11 21:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203152) · `si`
-
-CID investigates Channel 4 video Easter attack complaint Police Headquarters interview Mohamed Mihil Mohal Moulana Penal Code allegations Fort Hon. Magistrate's Court media briefing DIG Talduuwa summons
-
-🟩
-
-The CID has commenced investigations into a video broadcast on a foreign television channel in connection with the Easter attack.
-
-A complaint to the Police Headquarters has been handed over to the Police Headquarters following the video on the video by an external organization.
-
-A British Television channel Channel 4 was interviewed by Sri Lankans, Mohamed Mihil Mohal Moulana, a Sri Lankan.
-
-The interview was broadcast on or near the 6th of September 2023.
-
-Accordingly, the Department of Criminal Investigations have commenced under several allegations, including the controversial matters and the plot of the Penal Code on the video.
-
-The Criminal Investigations Department (CID) has reported to the Fort Hon. Magistrate's Court today (11).
-
-Meanwhile, police spokesman DIG Talduuwa said that he was speaking at a media briefing held today.
-
-Accordingly, he has been summoned to the CID tomorrow morning at 9.30 am.
-
-◼️
-
-[Data](articles/01ec3639.json)
-
-[Extended Data](ext_articles/01ec3639.ext.json)
 
 ---

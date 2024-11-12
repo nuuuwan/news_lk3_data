@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 14:41:29**
+As of **2024-11-12 15:00:03**
 
 ## Newspaper Stats
 
-*Scraped **54,402** Articles*
+*Scraped **54,403** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 5,087
 adaderanalk | 6,483
 tamilmirrorlk | 7,607
 virakesarilk | 8,825
-adaderanasinhalalk | 9,494
+adaderanasinhalalk | 9,495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,401 (100.0%) of 54,402 articles have been extended.
+54,401 (100.0%) of 54,403 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමට උපදේශක පුහුණුකරුවෙක්
+
+*2024-11-12 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203177) · `si`
+
+දකුණු අප්‍රිකානු කණ්ඩායමේ හිටපු දක්ෂ පිතිකරුවෙක් වන නීල් මැකෙන්සි ව කෙටි කාලයක් සඳහා ශ්‍රී ලංකා ක්‍රිකට් කණ්ඩායමේ උපදේශක පුහුණුකරු ලෙස පත්කර තිබේ.
+
+ඒ අනුව ඔහු ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයින් කිහිපදෙනෙක් සමග කටයුතු කිරීමට නියමිත බව ශ්‍රී ලංකා ක්‍රිකට් ආයතනය නිවේදනය කළේය.
+
+එබැවින් ශ්‍රී ලංකා කණ්ඩායමේ ක්‍රීඩකයින් කිහිපදෙනෙක් පූර්ව තරගාවලි පුහුණුවකට ඊයේ (11) රාත්‍රීයේ දකුණු අප්‍රිකාව බලා පිටත් වී තිබුණි.
+
+එම ක්‍රීඩකයින් වන්නේ, ධනංජය ද සිල්වා, දිමුත් කරුණාරත්න, ඇන්ජලෝ මැතිව්ස්, දිනේෂ් චන්දිමාල්, ළහිරු කුමාර, ප්‍රබාත් ජයසූරිය, නිශාන් පීරිස්, මිලාන් රත්නායක, කසුන් රාජිත සහ ලසිත් ඇඹුල්දෙණිය.
+
+දකුණු අප්‍රිකාව සහ ශ්‍රී ලංකාව අතර තරග දෙකකින් සමන්විත ටෙස්ට් තරගාවලියේ පළමු තරගය නොවැම්බර් 27 වනදා ඩර්බන් හිදී ආරම්භ වන අතර දෙවැනි ටෙස්ට් තරගය දෙසැම්බර් 05 වනදා ආරම්භ වෙයි.
+
+◼️
+
+[Data](articles/6a0b41c6.json)
+
+---
 
 ### பாம்பன் பாலத்தில் போராட்டம்
 
@@ -2471,29 +2491,5 @@ The meeting considered potential steps that could be taken before the expiration
 [Data](articles/730051e9.json)
 
 [Extended Data](ext_articles/730051e9.ext.json)
-
----
-
-### Sri Lanka President says to complete debt restructuring by December 2024
-
-*2024-11-11 22:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-to-complete-debt-restructuring-by-december-2024-186949/) · `en`
-
-ECONOMYNEXT – Sri Lanka will complete its debt restructuring deals by December this year and the island nation will start repaying loans in 2028 in a stronger economy, President Anura Kumara Dissanayake said.
-
-Sri Lanka reached an in-principle deal with sovereign bondholders, which was in line with International Monetary Fund’s (IMF) debt sustainability analysis (DSA).
-
-Sri Lanka is regarded as a country in default until the debt is restructured. A court case has also been filed in the US by some bondholders.
-
-“We will complete the debt restructuring by December,” the President said in the Western district of Gampaha when he addressed a parliamentary election campaign meeting.
-
-“We will start repaying loans in 2028. We have confidence that the National People’s Power (NPP) government can establish an economy which is stronger to repay the loans we need to pay.”
-
-From the time of the default about 1.8 billion dollars of coupons interest has accumulated.
-
-...
-
-[Data](articles/baf19161.json)
-
-[Extended Data](ext_articles/baf19161.ext.json)
 
 ---

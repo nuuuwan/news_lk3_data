@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 12:41:00**
+As of **2024-11-12 13:25:11**
 
 ## Newspaper Stats
 
-*Scraped **54,381** Articles*
+*Scraped **54,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,183 @@ bbccomsinhala | 555
 colombotelegraphcom | 555
 islandlk | 3,254
 economynextcom | 3,295
-dailyftlk | 3,726
+dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,083
+adalk | 5,086
 adaderanalk | 6,483
-tamilmirrorlk | 7,602
-virakesarilk | 8,822
-adaderanasinhalalk | 9,487
+tamilmirrorlk | 7,603
+virakesarilk | 8,824
+adaderanasinhalalk | 9,490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,381 (100.0%) of 54,381 articles have been extended.
+54,389 (100.0%) of 54,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### චීන ජාතික කාන්තාවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-11-12 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203172) · `si`
+
+සංචාරක වීසා මත මෙරටට පැමිණ වෙළෙඳාම් කරමින් සිටි විදේශීය කාන්තාවන් දෙදෙනෙකු මහනුවර ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+මහනුවර සංචාරක පොලිස් ඒකකයේ නිලධාරීන්ට ලද තොරතුරක් මත සිදුකළ වැටලීමකදී මහනුවර මධ්‍යම වෙළෙඳපොළ පරිශ්‍රයේදී ඔවුන් අත්අඩංගුවට ගෙන ඇති බව පොලීසිය පැවසීය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ 47 හැවිරිදි සහ 48 හැවිරිදි චීන ජාතික කාන්තාවන් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/b71eb583.json)
+
+---
+
+### அமெரிக்காவின் புதிய இராஜாங்க செயலாளர் மார்க்கோ ருபியோ?
+
+*2024-11-12 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198503) · `ta`
+
+அமெரிக்காவின் புதிய இராஜாங்க செயலாளராக மார்க்கோ ருபியோ நியமிக்கப்படவுள்ளார் என தகவல்கள் வெளியாகியுள்ளன.
+
+புளோரிடாவை சேர்ந்த குடியரசுக்கட்சியின் செனெட்டர் உயர் பதவி குறித்து டொனால்ட் டிரம்புடன் பேச்சுவார்த்தைகளில் ஈடுபட்டுள்ளார் என அமெரிக்க ஊடகங்கள் தெரிவித்துள்ளன.
+
+அமெரிக்க செனெட்டின் புலனாய்வு குழு உறுப்பினராக உள்ள ருபியோ வெளிவிவகார உறவுகுழுவிலும் இடம்பெற்றுள்ளார்.
+
+டொனால்ட் ட்ரம்பின் நிர்வாகத்தில் ஒரு மூத்த பாத்திரத்திற்காக மார்கோ ரூபியோ பரிசீலிக்கப்படுவதாக கூறப்படுகிறது-இந்த ஜோடி முதன்முதலில் தேசிய அரசியல் அரங்கில் நுழைந்தபோது இது நினைத்துப்பாக்க முடியாத விடயமாக காணப்பட்டது.
+
+2016 முதல் ருபியோ என்ற நட்சத்திரம் உயர்ந்துகொண்டே வந்தார்40வயதுகளில் காணப்பட்ட அவர் 2010 முதல் செனெட் உறுப்பினராக பதவி வகித்தார் கியுபாவை சேர்ந்த தொழிலாளர் வர்க்க குடியேற்றவாசிகளின் பிள்ளை என்பது அவரை ஏனையவர்களிடமிருந்து வேறுபடுத்தி காட்டியது.
+
+அவரது சுயவிபரம் அவ்வளவு சிறப்பானதாக காணப்பட்டதால் 2016 இல் தான் போட்டியிடுவேன் என அறிவித்தபோது அவருக்கே அதிக வாய்ப்புகள் உள்ளதாக கருத்து நிலவியது.
+
+...
+
+[Data](articles/63ff3687.json)
+
+---
+
+### The latest situation on the weather site under cyber attack
+
+*2024-11-12 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203171) · `si`
+
+Meteorological Department website under cyber attack since Nov 5th. Attack detected on Nov 1st. Site restoration ongoing. No data breach confirmed so far. Investigation continues.
+
+🟩
+
+The web site of the Department of Meteorological Department website is currently being carried out by now, said the computer emergency response forum.
+
+The web site of the department was attacked on the first fifth.
+
+Senior Information Security Officer of the Computer Emergency Response Team is the Senior Information Officer of the Computer Emergency Response System, Chartka Damunueru
+
+"On November 1st, the Department of Meteorological Department has made information aware of a cyber attack on cyber attack on the Department of Cyber ​​attack on the relevant department. The Meteorological Department website had a change of the Department of Meteorological Department. Subject to the preliminary investigations are already necessary to restore the site to recover. Examination is already underway whether or not any other external party has gone to another external party on the web site website.. According to the basic examinations, no such information is not available to an external party. "
+
+◼️
+
+[Data](articles/360bf18b.json)
+
+[Extended Data](ext_articles/360bf18b.ext.json)
+
+---
+
+### A request from USA about Arugambay
+
+*2024-11-12 12:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203170) · `si`
+
+USA requests removal of US Embassy tourist counselor. Sri Lanka strengthens security in Arugambay after US warning. Government arrests suspects, ongoing investigations. Defense Secretary visits area.
+
+🟩
+
+The Foreign Ministry has requested the US Embassy to remove the tourist counsel for the US embassy until he was notified.
+
+It is reported that the demand has been made by External Affairs Vijitha Herath recently.
+
+On October 23, the US embassy on October 23, the US Embassy issued a warning announcement targeting the country, including Arugambay area.
+
+There they showed that US citizens in Sri Lanka are asked to avoid traveling to Arugampe until again.
+
+After the announcement, several other countries asked to travel to the citizens of the region and to focus on security.
+
+In the face of the situation, the government took steps to strengthen the security of the area and carried out intelligence and measured its security for security.
+
+Accordingly, several persons have already been arrested and further investigations are underway.
+
+The Defense Secretary Thusicontha visited the Arumbain, who was in a tour of the area.
+
+◼️
+
+[Data](articles/6ed34b91.json)
+
+[Extended Data](ext_articles/6ed34b91.ext.json)
+
+---
+
+### ஹெய்ட்டியில் காடையர் கும்பலின் வன்முறைகள் தொடர்கின்றன - இரண்டு அமெரிக்க விமானங்கள் மீது துப்பாக்கி பிரயோகம்
+
+*2024-11-12 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198500) · `ta`
+
+ஹெய்ட்டியின் வான்பரப்பில் அமெரிக்காவின் இரண்டு ஜெட்விமானங்கள் துப்பாக்கி பிரயோகத்தினால் சேதமடைந்துள்ளதாக சிஎன்என் தெரிவித்துள்ளது.
+
+ஹெய்ட்டியில் அதிகரிக்கும் காடையர் குழுக்களின் வன்முறைகளின் மத்தியில் அந்த நாடு விமானப்போக்குவரத்தினை இடைநிறுத்தியுள்ள நிலையிலேயே இந்த சம்பவம் குறித்து தகவல் வெளியாகியுள்ளது.
+
+ஹெய்;ட்டி தலைநகர் போட் ஒவ் பிரின்சில் தரையிறங்கிக்கொண்டிருந்த ஸ்பிரிட் எயர்லைன்ஸ் விமானத்தின் மீது துப்பாக்கி பிரயோகம் இடம்பெற்றது, அதன் பணியாளர் ஒருவர் சிறியகாயங்களிற்குள்ளானார் என தகவல்கள் வெளியாகியுள்ளன.
+
+அதன் பின்னர் அந்த விமானம்  அங்கு தரையிறங்காமல் டொமினிக் குடியரசின் சான்டியாகோவில் தரையிறங்கியது,அங்கு விமானத்தை சோதனையிட்டவேளை துப்பாக்கி பிரயோகத்திற்கு உட்பட்டது உறுதி செய்யப்பட்டதாக அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+இதேவேளை ஹெய்ட்டியிலிருந்து திரும்பிக்கொண்டிருந்த தனது விமானமொன்றில் துப்பாக்கிரவைகளால் ஏற்பட்ட சேதத்தை கண்டுபிடித்துள்ளதாக ஜெட்புளு விமானசேவை தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/103221cc.json)
+
+---
+
+### Massive fire in Rajagiriya
+
+*2024-11-12 12:23:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜகிரியவில்-பாரிய-தீ/175-346991) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rajagiriya: Massive fire engulfs temporary garment factory. Four fire trucks from Kotte Fire Department respond.
+
+🟩
+
+The fire broke out in a temporary garment factory located on the Rajagiriya, Welikada road.
+
+Four fire trucks of the Kotte Fire Department were sent to the scene to bring the fire under control.
+
+◼️
+
+[Data](articles/a129a6dc.json)
+
+[Extended Data](ext_articles/a129a6dc.ext.json)
+
+---
+
+### Fire breaks out in Rajagiriya
+
+*2024-11-12 12:18:30* · [`adalk`](https://www.ada.lk/breaking_news/රාජගිරියේ-ඇගලුම්-කර්මාන්ත-ශාලවක-ගින්නක්/11-412990) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Rajagiriya: Fire erupts at Media Welikada Rd. Flames engulfed buildings, causing panic. Emergency services rushed to scene. No casualties reported yet."
+
+🟩
+
+A fire broke out at the Media Welikada road in Rajagiriya.
+
+◼️
+
+[Data](articles/65217efa.json)
+
+[Extended Data](ext_articles/65217efa.ext.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -469,6 +629,28 @@ The warning on the beaches in the Gulf of Health and the southern and west of Sr
 [Data](articles/a41d0941.json)
 
 [Extended Data](ext_articles/a41d0941.ext.json)
+
+---
+
+### Talaimannar train resumes
+
+*2024-11-12 10:56:01* · [`adalk`](https://www.ada.lk/breaking_news/තලෙයිමන්නාරම්-දුම්රිය-යළි-ඇරඹෙයි/11-412989) · `si`
+
+Colombo-Talai Mannar train service resumes after Northern Railway Station renovation. Train departs Colombo Fort at 4:15 AM, arrives Talai Mannar at 10:15 PM. Return journey starts at 4:15 AM from Talai Mannar, reaches Colombo Fort at 10:15 AM.
+
+🟩
+
+The Colombo-Talai Mannar train was reopened by the renovation of the Northern Railway Station to Anuradhapura.
+
+Accordingly, the railway will commence from today. The train, which will commence at 4.15 am in Colombo Fort, is to be reached at 10.15 pm Talai.
+
+The train commencing from Thalai town back to 4.15 am will reach Colombo Fort at 10.15 am.
+
+◼️
+
+[Data](articles/bdea05b7.json)
+
+[Extended Data](ext_articles/bdea05b7.ext.json)
 
 ---
 
@@ -1130,6 +1312,38 @@ In addition, more than 50 millimeters of heavy rains are likely to occur in some
 
 ---
 
+### 4 suspects of Chunnakam police banned
+
+*2024-11-12 07:23:47* · [`adalk`](https://www.ada.lk/breaking_news/චුන්නාකම්-පොලීසියේ-4කගේ-වැඩ-තහනම්/11-412988) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"4 Chunnakam police officers suspended after accident investigation. Incident involved car chase & heated argument. Police Inspector General & 2 constables affected."
+
+🟩
+
+The Jaffna Police have said that four police officers of the Chunnakam police station in Jaffna after an investigation into an accident have been suspended.
+
+After a police accident in Chunnakam, the police officers were chased after the accident in the Chunnakam area.
+
+A group of men, including a person, had strongly objected against Chunnakam police.
+
+The department then investigated the police team to look into the incident, four police officers had been suspended.
+
+The police media spokesman's office said that a Police Inspector General of Chunnakam Police and two policemen constables said.
+
+"The vehicle was fled by a car accident. He had made the accusation that he had to attack him on a heated argument when he was trying to arrest him. Accordingly, four policemen have been investigating. "
+
+◼️
+
+[Data](articles/d22dd942.json)
+
+[Extended Data](ext_articles/d22dd942.ext.json)
+
+---
+
 ### Sri Lankans refer to cyber bases in Myanmar
 
 *2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203157) · `si`
@@ -1359,6 +1573,38 @@ As Sri Lanka prioritises seamless tourist services and experiences, safeguarding
 [Data](articles/72248de9.json)
 
 [Extended Data](ext_articles/72248de9.ext.json)
+
+---
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/columns/Towards-building-a-digital-tourism-fortress/4-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/e606713e.json)
+
+[Extended Data](ext_articles/e606713e.ext.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/columns/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/4-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/0bc219d6.json)
+
+[Extended Data](ext_articles/0bc219d6.ext.json)
 
 ---
 
@@ -2159,263 +2405,5 @@ Accordingly, he has been summoned to the CID tomorrow morning at 9.30 am.
 [Data](articles/01ec3639.json)
 
 [Extended Data](ext_articles/01ec3639.ext.json)
-
----
-
-### Asian Bowl Cricket under the age of 19 is November 29
-
-*2024-11-11 21:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198468) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Asian Bowl Cricket U-19: Nov 29 in Dubai & Sharjah. 8 countries compete. India/Pakistan in A group, Sri Lanka/Afghanistan/Nepal in B. Semi-finals Dec 6, finals Dec 8. India 7-time co-champ, Bangladesh/Sri Lanka 5-time runners-up.
-
-🟩
-
-The 50 -over Asian Cup cricket tournament for men under the age of 19 will be held in Dubai and Sharjah.
-
-Eight countries, including five countries with full status, will participate in the competition at the International Cricket Council.
-
-Sri Lanka, Afghanistan and Nepal are in the B group with the current champion Bangladesh.
-
-India and Pakistan are in the A group. The group also features the United Arab Emirates and Japan with the two countries.
-
-The United Arab Emirates, Nepal and Japan qualified to play the Asian Cup cricket match by winning the first three places in the Asian Premier Bowl.
-
-Sri Lanka will meet Nepal in Nepal on November 28, Afghanistan in Sharjah on Sharjah on December 1 and Bangladesh on December 3 in Dubai.
-
-After the end of the first round of the two groups, the four teams will qualify to play in the semi -finals.
-
-...
-
-[Data](articles/4a083809.json)
-
-[Extended Data](ext_articles/4a083809.ext.json)
-
----
-
-### This is a lboard government - Ranil
-
-*2024-11-11 21:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203151) · `si`
-
-Ranil Wickremesinghe warns inexperienced government threatens national stability. He criticizes current administration during New Democratic Front rally in Maradana, stating lack of governance experience could lead to country's downfall.
-
-🟩
-
-Former President Ranil Wickremesinghe says that if a parliamentary parliament has not experienced with a government that does not have experience, it will bring it to the destruction of the country.
-
-He made these comments addressing the public meeting held today (11) in Maradana, the New Democratic Front.
-
-"This is a government that has no experience. Lboard government is now. LBod L. The country will be destroyed .... "
-
-◼️
-
-[Data](articles/70d92e90.json)
-
-[Extended Data](ext_articles/70d92e90.ext.json)
-
----
-
-### To form a strong government
-
-*2024-11-11 21:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198467) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National People's Power aims to form a strong government through Parliament. President Anura Kumara Dissanayake emphasizes the importance of experienced leaders and economic reforms. The party promises to address poverty, improve education, and restore debts. A new political culture is emerging, focusing on discipline and the rule of law.
-
-🟩
-
-We will carry out our plans strongly without allowing the people to make the hope and expectations of the people of the country.. We need the strength of Parliament for that. To be created by the government that can serve the country. President Anura Kumara Dissanayake said that the people should be sent to parliament from the national people's power to form a firm government.
-
-The last day of the National People's Power's election campaign was held in Gampaha on Monday afternoon under the patronage of party leader and president Anura Kumara Dissanayake on the theme of 'We are the one for the building of the country'.. The President said this while addressing the gathering.
-
-...
-
-[Data](articles/781cf8dc.json)
-
-[Extended Data](ext_articles/781cf8dc.ext.json)
-
----
-
-### Sajith says the existing ISF agreement should be changed
-
-*2024-11-11 21:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203150) · `si`
-
-Sajith Premadasa calls for changing IMF agreement, citing need for tax relief. He urges public support for new deal, criticizing current economic situation.
-
-🟩
-
-Leader of the Power Sajith Premadasa says that the International Monetary Fund is required to redeem taxes from the tax burden.
-
-The leader of the party Sajith Premadasa requests the public to win their party to the new agreement.
-
-"Mr. Gotabhaya Rajapaksa is the President of the President of the President of Gotabhaya Rajapakse, President of the President of Gotabhaya Rajapakse..  මේ IMF ගිවිසුම වෙනස් කරලා අපි අලුත් ගිවිසුමකට යන්න ඕනේ. Establishment of Credit Payment According to the IMF, 2033. Otherwise, when I was saying that I was saying today, it is very clear that 2022, as 2022, we are in depression and discomfort. "
-
-◼️
-
-[Data](articles/4e0c1fef.json)
-
-[Extended Data](ext_articles/4e0c1fef.ext.json)
-
----
-
-### Colombo - Talaimannar Railway Service from today - Railway Department
-
-*2024-11-11 21:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198466) · `ta`
-
-Colombo-Talaimannar railway service resumes Tuesday after suspension. Train departs Colombo Fort 4:15 PM, Talaimannar 4:15 AM next day.
-
-🟩
-
-The Railway Department has announced that the Colombo -Talaimannar railway service, which has been suspended due to the development of the Railway Road to Mahawa - Anuradhapura, will be resumed from Tuesday.
-
-Accordingly, the train will leave the Colombo Fort Railway Station at 04.15 pm on Tuesday (12) at 10.15 pm.
-
-Similarly, the train will depart from Talaimannar at 04.15 am on Wednesday (13) at 10.15 am.
-
-◼️
-
-[Data](articles/a76419e9.json)
-
-[Extended Data](ext_articles/a76419e9.ext.json)
-
----
-
-### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
-
-*2024-11-11 21:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
-
-...
-
-[Data](articles/61c6dea3.json)
-
-[Extended Data](ext_articles/61c6dea3.ext.json)
-
----
-
-### Tilshan made clear about his citizenship
-
-*2024-11-11 20:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தனது-பிரஜாவுரிமை-பற்றி-தெளிவுபடுத்தினார்-டில்ஷான்/175-346953) · `ta`
-
-DM Dilshan denies dual citizenship claim, confirms renouncing Australian citizenship to run in Sri Lankan parliamentary election.
-
-🟩
-
-Former Sri Lankan cricketer DM Dilshan, who is contesting in the upcoming parliamentary elections in the Kalutara district, has denied the allegation that he did not quit his dual citizenship.
-
-Speaking at a media briefing, Dilshan confirmed that he had renounced his Australian citizenship to qualify for the Sri Lankan parliamentary election.. “Various people are spreading rumors that I have not abandoned my citizenship for fear of my success.”
-
-Dilshan is contesting in the new political party created by actor and former parliamentarian Ranjan Ramanayake.
-
-Dilshan made clear the doubts and false information about his merits, as candidates should only get Sri Lankan citizenship under the country's election laws.
-
-◼️
-
-[Data](articles/14569b7d.json)
-
-[Extended Data](ext_articles/14569b7d.ext.json)
-
----
-
-### State attention to SMEs to SMEs
-
-*2024-11-11 20:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203149) · `si`
-
-SMEs meeting: Banking support, loan reports, Paradise Law loan recoveries discussed.
-
-🟩
-
-The Presidential Secretariat was held at the Presidential Secretariat today (11) a discussion on issues due to the problems faced by SMEs.
-
-Secretary Defense of the President and Economic Affairs GNRD. Mr. Angsu's chairman.
-
-The Sri Lankan Bank Association, Ministry of Finance and the Sri Lanka Officers of Sri Lanka have participated in this.
-
-The discussion has been discussed at length regarding the support available to the banking sector to enhance the production capability of the economy.
-
-The discussion has also been decided to prepare a report on the loan obtained by the SMEs from the banks by small and medium scale industrialists.
-
-The Presidential Media Union stated that the recovery of the loans given to SMEs under the Paradise Law have been suspended and discussed in this regard.
-
-◼️
-
-[Data](articles/a2685cd0.json)
-
-[Extended Data](ext_articles/a2685cd0.ext.json)
-
----
-
-### Sujeeva handed over the vehicle
-
-*2024-11-11 20:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாகனத்தை-ஒப்படைத்தார்-சுஜீவ/175-346952) · `ta`
-
-Sujeewa Senasinghe hands over vehicle to High Court for investigation. Government corruption unit requested further probe. Toyota requires vehicle report. Senasinghe claims it's political revenge after previous clearance.
-
-🟩
-
-United People's Alliance (SJS) National Organizer Sujeewa Senasinghe says his vehicle has been handed over to the High Court for further investigations.
-
-I was asked to hand over the vehicle as the government's corruption unit had informed the courts that further investigations should be carried out. Toyota said in court that a vehicle report was needed. Accordingly, I had to hand over the vehicle, ”Senasinghe told the Daily Mirror.
-
-“This is nothing but political revenge. The government inspector allowed my vehicle last week. However, the authorities want to be investigated, ”he added.
-
-◼️
-
-[Data](articles/b300431a.json)
-
-[Extended Data](ext_articles/b300431a.ext.json)
-
----
-
-### Court orders to expedite tax probes on Piumi Hansamali and Aura Lanka chairman
-
-*2024-11-11 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103338/court-orders-to-expedite-tax-probes-on-piumi-hansamali-and-aura-lanka-chairman) · `en`
-
-Colombo Additional Magistrate Bandara Ilangasinghe has ordered the Inland Revenue Department today (11) to expedite its investigations into actress Piumi Hansamali and Aura Lanka Chairman Viranjith Thambugala.
-
-The directive came as the case filed by the Inland Revenue Department under Section 190 of the Inland Revenue Act was brought before the court.
-
-The investigation seeks to determine if any offenses under section 190 of the Inland Revenue Act were committed by the two individuals in question.
-
-The counsel representing the Department of Revenue informed the court that a search warrant had been issued to examine documents at the residences of both individuals, but they were not present at their homes during the searches.
-
-◼️
-
-[Data](articles/aa2a1d74.json)
-
-[Extended Data](ext_articles/aa2a1d74.ext.json)
-
----
-
-### Government prioritizes relief for Small and Medium Enterprises in Sri Lanka
-
-*2024-11-11 20:32:00* · [`islandlk`](http://island.lk/government-prioritizes-relief-for-small-and-medium-enterprises-in-sri-lanka/) · `en`
-
-A special meeting was held today (11) at the Presidential Secretariat to address relief measures for Small and Medium Enterprises (SMEs) facing financial challenges.
-
-The meeting was led by the Senior Additional Secretary to the President for Finance and Economic Affairs,  G. N. R. D. Aponsu, and included officials from the Ministry of Finance, the Central Bank of Sri Lanka, and Sri Lanka Banks’ Association (Guarantee) Limited.
-
-The discussions focused on the financial difficulties encountered by SMEs due to loan obligations.
-
-Currently, debt recovery processes under the Parate law have been temporarily suspended for SMEs, with this suspension set to expire on December 15. The meeting considered potential steps that could be taken before the expiration date to further support struggling SMEs.
-
-...
-
-[Data](articles/2391bf9b.json)
-
-[Extended Data](ext_articles/2391bf9b.ext.json)
 
 ---

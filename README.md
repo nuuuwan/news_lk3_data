@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 21:11:44**
+As of **2024-11-12 21:25:30**
 
 ## Newspaper Stats
 
-*Scraped **54,469** Articles*
+*Scraped **54,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,71 @@ islandlk | 3,254
 economynextcom | 3,298
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,095
+adalk | 5,096
 adaderanalk | 6,498
 tamilmirrorlk | 7,620
-virakesarilk | 8,842
-adaderanasinhalalk | 9,503
+virakesarilk | 8,843
+adaderanasinhalalk | 9,504
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,468 (100.0%) of 54,469 articles have been extended.
+54,469 (100.0%) of 54,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### 10 ஆவது பாராளுமன்றத்தின் முதலாவது அமர்வு...
+### මෙරට නිල සංචිත වත්කම් ප්‍රමාණය ඩොලර් බිලියන 6.5ක්
+
+*2024-11-12 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203189) · `si`
+
+ෆිච් රේටින්ග්ස් සමාගම ඉදිරිපත් කළ වාර්තාවකට අනුව මෙම වසරේ ඔක්තෝබර් මාසය වනවිට මෙරට නිල සංචිත ප්‍රමාණය අමෙරිකානු ඩොලර් බිලියන 6.5ක් ලෙස සටහන්වී තිබේ.
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන හරහා ඇතිවූ බලපෑම මත මෙම වර්ධනය සිදුවී ඇති බව ෆිච් රේටින්ග්ස් ආයතනය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/b6f6d6d7.json)
+
+---
+
+### The first session of the 10th Parliament ...
 
 *2024-11-12 20:56:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றத்தின்-முதலாவது-அமர்வு/175-347019) · `ta`
 
-10 ஆவது பாராளுமன்றத்தின் முதலாவது அமர்வு இம்மாதம் 21 ஆம் திகதி இடம்பெறவுள்ளது.
+Here's a summary in 200 characters:
 
-அரசியலமைப்பின் 70 ஆம் உறுப்புரையின் பிரகாரம் ஜனாதிபதி அநுர குமார திசாநாயக்கவினால் விசேட வர்த்தமானி அறிவித்தலின் ஊடாக இது அறிவிக்கப்பட்டுள்ளது.R
+
+
+1st session of 10th Parliament: 21st this month. Announced via special gazette by President Anura Kumara Dissanayake, as per Constitutional Article 70.
+
+🟩
+
+The first session of the 10th Parliament will be held on the 21st of this month.
+
+This has been announced through a special gazette notification by President Anura Kumara Dissanayake in accordance with Article 70 of the Constitution.
 
 ◼️
 
 [Data](articles/094cb436.json)
+
+[Extended Data](ext_articles/094cb436.ext.json)
+
+---
+
+### தொழில் பெற்றுத்தருவதாக பணம் அறவிடும் முகவர் நிறுவனங்கள் தொடர்பில் முறையிட்டால் நடவடிக்கை - வெளிநாட்டு வேலைவாய்ப்பு பணியகம்
+
+*2024-11-12 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198536) · `ta`
+
+ஈ 8விசா பத்திரத்தின் கீழ் தொழில் வழங்குவதாக தெரிவித்து பணம் அறவிட்டுள்ள வெளிநாட்டு தொழில் முகவர் நிறுவனங்கள் தொடர்பில்  பாதிக்கப்பட்டவர்கள் முறையிட்டால் குறித்த நிறுவனங்களுக்கு எதிராக சட்ட நடவடிக்கை எடுப்போம். ஈ8 விசா மூலம் வெளிநாடுகளுக்கு தொழிலுக்கு செல்ல எந்த நாட்டுடனும் அரசாங்கம் ஒப்பந்தம் செய்ததில்லை என இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தின் தலைவர் கோஷல விக்ரமசிங்க தெரிவித்தார்.
+
+ஈ8 விசா பெற்றுக்கொண்டு கொரியாவுக்கு தொழிலுக்கு செல்ல எதிர்பார்த்திருக்கும் சிலர் திங்கட்கிழமை (11) வெளிநாட்டு வேலைவாய்ப்பு பணியகத்துக்கு முன்னால் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தமை தொடர்பில் தெளிவுபடுத்தும் செய்தியாளர் சந்திப்பு செவ்வாய்க்கிழமை (12) இலங்கை வெளிநாட்டு வேலைவாய்ப்பு பணியகத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/3bf136c2.json)
 
 ---
 
@@ -493,6 +531,18 @@ US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussion
 [Data](articles/f0af2e43.json)
 
 [Extended Data](ext_articles/f0af2e43.ext.json)
+
+---
+
+### පුලිදෙ 14දා වැඩ නෑ
+
+*2024-11-12 17:17:59* · [`adalk`](https://www.ada.lk/breaking_news/පුලිදෙ-14දා-වැඩ-නෑ/11-413000) · `si`
+
+නොවැම්බර් 14 දා පැවැත්වෙන මහ මැතිවරණයේ රාජකාරී කටයුතු සඳහා පුද්ගලයන් ලියාපදිංචි කිරීමේ දෙපාර්තමේන්තුවේ නිලධාරීන්ද සේවයට යොදවන බැවින් එදින එම දෙපාර්තමේන්තුවේ එක්දින සේවා කටයුතු මෙන්ම සාමාන්‍ය ලෙස හැඳුනුම්පත් ලබාදීමේ කටයුතු සිදු නොවන බව දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+◼️
+
+[Data](articles/85e13fd0.json)
 
 ---
 
@@ -2479,79 +2529,5 @@ Former Parliamentarian MP MA. Some people in the crowd tried to ask questions af
 [Data](articles/3c157a70.json)
 
 [Extended Data](ext_articles/3c157a70.ext.json)
-
----
-
-### Request to US embassy to remove warning
-
-*2024-11-12 10:56:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எச்சரிக்கையை-நீக்க-அமெரிக்கத்-தூதரகத்திடம்-கோரிக்கை/175-346982) · `ta`
-
-Sri Lankan government requests US embassy remove security warning for Gulf of Health tourist areas. US embassy issues travel ban due to terrorism threat. Sri Lankan authorities take steps to strengthen security and reassure diplomatic community. Six arrests made related to security threat. Defense Secretary visits Eastern Province to assess security conditions. US embassy spokesperson confirms cooperation with Sri Lankan authorities.
-
-🟩
-
-A spokesman yesterday said that the Foreign Ministry had requested the US embassy to remove the security warning issued before his countrymen to avoid going to the Gulf of the Health Gulf until the re -announcement.
-
-“The embassy received reliable information that the attack would be targeted by popular tourist destinations in the Gulf. Due to the severe risk of this threat, the embassy has imposed a travel ban on hearing until immediately and re -notice. US Embassy warned on October 23, "US citizens are strongly urged to avoid the bay of bay until the re -announcement comes."
-
-Following the US security warning, the Israeli National Security Council has called on the Israelites to immediately leave its citizens in some tourist areas in South Sri Lanka due to the threat of terrorist attacks.
-
-The warning on the beaches in the Gulf of Health and the southern and west of Sri Lanka is "from the latest information on the threat of terrorism centered on tourism and beaches."
-
-...
-
-[Data](articles/a41d0941.json)
-
-[Extended Data](ext_articles/a41d0941.ext.json)
-
----
-
-### Talaimannar train resumes
-
-*2024-11-12 10:56:01* · [`adalk`](https://www.ada.lk/breaking_news/තලෙයිමන්නාරම්-දුම්රිය-යළි-ඇරඹෙයි/11-412989) · `si`
-
-Colombo-Talai Mannar train service resumes after Northern Railway Station renovation. Train departs Colombo Fort at 4:15 AM, arrives Talai Mannar at 10:15 PM. Return journey starts at 4:15 AM from Talai Mannar, reaches Colombo Fort at 10:15 AM.
-
-🟩
-
-The Colombo-Talai Mannar train was reopened by the renovation of the Northern Railway Station to Anuradhapura.
-
-Accordingly, the railway will commence from today. The train, which will commence at 4.15 am in Colombo Fort, is to be reached at 10.15 pm Talai.
-
-The train commencing from Thalai town back to 4.15 am will reach Colombo Fort at 10.15 am.
-
-◼️
-
-[Data](articles/bdea05b7.json)
-
-[Extended Data](ext_articles/bdea05b7.ext.json)
-
----
-
-### Kilinochchi District Farmers' Bank Accounts
-
-*2024-11-12 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198486) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Kilinochchi District: 127.191m rupees deposited in 9,064 farmers' accounts for the first time. Part of "Great Poetry" initiative for major crop cultivation.
-
-🟩
-
-127.191 million rupees has been deposited as the first allowance for the Great Poetry of Kilinochchi District Farmers' Bank Accounts.
-
-2024 /2025 The farmers who have been cultivated to go to the biggest crop are being given perforations.
-
-On that basis, 9064 farmers in the Kilinochchi district have been deposited in bank accounts of 127.191 million for the first time.
-
-It is noteworthy that Poonakari Ramanathapuram Puliyampakkani Paranthan has been provided to the farmers who have carried out the work under the Kilinochchi Agrarian Service Centers at Kandawala.
-
-◼️
-
-[Data](articles/a15a85d0.json)
-
-[Extended Data](ext_articles/a15a85d0.ext.json)
 
 ---

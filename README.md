@@ -1,608 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 18:22:06**
+As of **2024-11-12 16:25:09**
 
 ## Newspaper Stats
 
-*Scraped **54,452** Articles*
+*Scraped **54,428** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
+bbccomsinhala | 555
 colombotelegraphcom | 555
-bbccomsinhala | 556
 islandlk | 3,254
-economynextcom | 3,298
+economynextcom | 3,295
 dailyftlk | 3,728
 dailymirrorlk | 4,733
-adalk | 5,092
-adaderanalk | 6,498
-tamilmirrorlk | 7,615
-virakesarilk | 8,837
-adaderanasinhalalk | 9,500
+adalk | 5,090
+adaderanalk | 6,495
+tamilmirrorlk | 7,613
+virakesarilk | 8,827
+adaderanasinhalalk | 9,497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,442 (100.0%) of 54,452 articles have been extended.
+54,413 (100.0%) of 54,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### නීතිවිරෝධී මත්පැන් බෝතලයක් පානය කළ දෙදෙනෙක් මරුට
-
-*2024-11-12 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203184) · `si`
-
-නීතිවිරෝධි අයුරින් නිෂ්පාදනය කරන ලද මත්පැන් බෝතලයක් පානය කළ සිව් දෙනෙකුගෙන් දෙදෙනකු මියයෑමේ පුවතක් පිටිගලින් වාර්තා වෙයි.
-
-ගාල්ල දිස්ත්‍රික් නියෝජ්‍ය පොලිස්පති කාර්යාලය සඳහන් කළේ, අනෙක් පුද්ගලයන් දෙදෙනා බරපතළ තත්වයෙන් රෝහල්ගත කර ඇති බවය.
-
-පිටිගල පොලිස් වසමේ මත්තක ප්‍රදේශයේ පදිංචි පුද්ගලයෙකුගේ නිවසේදී මෙම සිද්ධිය ඇතිවී තිබේ.
-
-පුද්ගලයන් 4 දෙනෙකු ඊයේ (11) රාත්‍රියේ මෙලෙස අදාළ මත්පැන් බෝතලය පානය කර ඇති අතර පසුව ඔවුන්ට ඇතිවූ ආසාත්මිකතා හේතුවෙන් ඇල්පිටිය රෝහලට ඇතුළත් කර තිබුණි.
-
-එහිදී මත්තක මාරක්ගොඩ පදිංචි ධර්මපාල නමැති 60 හැවිරිදි පුද්ගලයෙක් සහ හැරිසන් විජේරත්න නමැති 76 හැවිරිදි පුද්ගලයෙකු මියගොස් ඇත.
-
-බරපතළ තත්වයෙන් පසුවන 64 හැවිරිදි පුද්ගලයෙකු කරාපිටිය රෝහලේ දැඩි සත්කාර ඒකකයට මාරුකර ඇති අතර මත්පැන් බෝතලය ගෙනැවින් ඇත්තේ ඔහු බවට අනාවරණය වී ඇත.
-
-අනෙක් පුද්ගලයා මේ වනවිට ඇල්පිටිය රෝහලේ හදිසි ප්‍රතිකාර ඒකකයේ අසාධ්‍ය තත්වයෙන් පසුවන බවද පොලීසිය පවසයි.
-
-◼️
-
-[Data](articles/949c5922.json)
-
----
-
-### 70 ஆண்டுகளில் நேர்ந்த கொடூரம்:  மன்னிப்பு கோரிய  பிரதமர்
-
-*2024-11-12 17:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/70-ஆண்டுகளில்-நேர்ந்த-கொடூரம்-மன்னிப்பு-கோரிய-பிரதமர்/175-347015) · `ta`
-
-சிறுவர்களுக்கான அரசு பராமரிப்பு இல்லங்கள், மனநல மருத்துவமனைகள் உள்ளிட்ட காப்பகங்களில் கடந்த 70 ஆண்டுகளாக சுமார் 2 லட்சம் பேருக்கு நிகழ்த்தப்பட்ட கொடூரங்களுக்காக நியூசிலாந்து பிரதமர் கிறிஸ்டோபர் லக்சன் பாராளுமன்றத்தில் பகிரங்கமான, வரலாற்றுபூர்வமான மன்னிப்பு கோரினார்.
-
-நியூசிலாந்தில் சிறுவர்களுக்கான அரசு பராமரிப்பு இல்லங்களில் ஏராளமான சிறுவர்கள் துன்புறுத்தப்பட்டதாகவும், மனநலம் பாதிக்கப்பட்டவர்களுக்கான மருத்துவமனைகளில் நோயாளிகளுக்கு மின்சாரம் பாய்ச்சி கொடுமைப்படுத்தப்பட்டதாகவும், தேவாலயங்களில் இளைஞர்கள் பாலியல் துன்புறுத்தலுக்கு உள்ளாக்கப்பட்டதாகவும், தாய்மார்களிடம் இருந்து குழந்தைகள் வலுக்கட்டாயமாக பிடுங்கப்பட்டு தத்து கொடுக்கப்பட்டதாகவும் புகார்கள் எழுந்தன.
-
-...
-
-[Data](articles/c83a1db0.json)
-
----
-
-### தெற்காசியாவில் சீனாவின் எழுச்சியில் இந்திய பின்னடைவுகள்
-
-*2024-11-12 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198530) · `ta`
-
-'இந்தியா வரலாற்று ரீதியாக பிராந்தியங்களில் வெளிநாட்டு சக்திகளின் தலையீட்டை சந்தேகத்துடன் பார்க்கிறது. இலங்கையைப் பொறுத்தவரை, ஜே.ஆர்.ஜெயவர்தன அமெரிக்காவுடன் நெருக்கமாக இருந்த போது, இந்தியா இலங்கை தமிழ் போராளிக் குழுக்களுக்கு நிதியுதவி, பயிற்சி மற்றும் தங்குமிடம் அளித்தது. இறுதியில் 1987 ஆம் ஆண்டில் தமிழர் பகுதிகளில் வான்வழியாக  உணவு பொருட்களை வழங்கி நேரடியாகத் தலையிட்டிருந்தது. இதன் பின்னணியிலேயே இலங்கை - இந்திய அமைதி ஒப்பந்தம் கைச்சாத்தானது'
-
-◼️
-
-[Data](articles/ce015cf7.json)
-
----
-
-### Inadequate buses service until Monday: Chairman of the Sri Lanka Transport Board
-
-*2024-11-12 17:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198528) · `ta`
-
-Sri Lanka Transport Board Chairman Ramal Siriwardena announced increased bus services starting today, deploying over 70 additional buses in Gampaha, Kalutara, and Colombo regions. More buses will be allocated to Colombo Fort tomorrow to meet passenger demands. Existing schedules will continue unchanged.
-
-🟩
-
-Sri Lanka Transport Board Chairman Ramal Siriwardena said that all the Sri Lanka Transport Board's depots have been issued to serve existing buses from today (18).
-
-He said that all provincial depots have been advised to operate buses according to the current schedule to ease the traffic of passengers inside and outside Colombo.
-
-Accordingly, more than 70 buses have been deployed in the Gampaha, Kalutara and Colombo regions today and 80 more buses have been allocated to the Colombo Fort tomorrow to meet the demand of passengers.
-
-These buses will be served in addition to the existing schedule, he said.
-
-◼️
-
-[Data](articles/bb1565a1.json)
-
-[Extended Data](ext_articles/bb1565a1.ext.json)
-
----
-
-### Abhi Pinkenavar visits Sri Lanka on World Youth Issues of US State Department
-
-*2024-11-12 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198483) · `ta`
-
-Abhi Pinkenavar visits Sri Lanka & Nepal for US State Dept's World Youth Affairs. Promotes US interests in South Asian youth leadership, citizenship, culture, and social issues. Meets with young leaders, entrepreneurs, and political figures. Discusses challenges & opportunities in youth empowerment.
-
-🟩
-
-Abhi Pinkenavar will visit Sri Lanka and Nepal, a special ambassador to the US State Department's World Youth Affairs issues.
-
-Abhi Pinkenavar is making a visit to Sri Lanka and Nepal from the 12th to the 15th.
-
-Abhi Pinkenavar's visit is aimed at promoting the United States of America to promote South Asian youth leaders and aims to cooperate on major issues such as citizenship participation and younger leadership, cultural protection and social flexibility.
-
-In Sri Lanka, Special Ambassador Pinkenavar will observe the impact of programs to encourage young leaders in the fields of education, leadership and citizenship through the cooperation of Sri Lanka.
-
-US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussions with alumni of the US Embassy's Youth Council and the USAI International Development Organization (USAI) Emerging Leaders Academy.
-
-...
-
-[Data](articles/f0af2e43.json)
-
-[Extended Data](ext_articles/f0af2e43.ext.json)
-
----
-
-### 35 persons were killed in China and killed 35
-
-*2024-11-12 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203183) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-35 killed, 43 injured in China incident. Victims included all ages. Suspect, under stress from divorce, caused harm before falling into coma.
-
-🟩
-
-A large number of people were drunk to a large number of people who were trying to spend a large number of people in the area.
-
-According to the international media, 35 people died and 43 were injured in the incident.
-
-It is said that between the dead and injured were older, youth and children.
-
-Later investigations have been revealed that this person had done this due to the stress of a problem with the divorce of the suspect's divorce.
-
-The suspect has not been able to interfere in the condition of the coma in the coma, as he is inundated.
-
-◼️
-
-[Data](articles/ab6cb8a2.json)
-
-[Extended Data](ext_articles/ab6cb8a2.ext.json)
-
----
-
-### 35 killed, over 40 injured after driver rams car into crowd in China
-
-*2024-11-12 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103361/35-killed-over-40-injured-after-driver-rams-car-into-crowd-in-china) · `en`
-
-Police in China say 35 people were killed and another 43 injured when a driver rammed his car into people exercising at a sports center in the southern Chinese city of Zhuhai. The 62-year-old driver was detained, police said Monday. It was not immediately clear whether it was an attack or an accident. No motive was mentioned, and police said investigations continued.
-
-The Monday night incident came on the eve of the country’s premier aviation exhibition by the People’s Liberation Army, hosted annually in Zhuhai. There has been heavy censorship of information about the incident given the timing and location, with officials only announcing the death toll the following day. One of the four hospitals that took in people for treatment said it had more than 20 injured people, state media reported Monday.
-
-...
-
-[Data](articles/b0e1eaad.json)
-
----
-
-### Increase in Sri Lankans in Myanmar's ecommerce scam - Ministry of Defense
-
-*2024-11-12 17:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198497) · `ta`
-
-Sri Lankans targeted in Myanmar ecommerce scams. Ministry warns public about fraudulent recruitment schemes. Victims lured with higher IT salaries, then forced into illegal labor camps. Mental & physical abuse reported. Authorities advise against illegal settlements and warn employers about tourist visas. Public urged to report suspicious activities.
-
-🟩
-
-The Ministry of Defense has said that the National Human Trafficking Prevention Committee (NAHTTF) has received information from the United Kingdoms in the United Arab Emirates to the e -mail fraudulent slave camps in Myanmar's Miyawadi area.
-
-The National Human Trafficking Prevention Committee has issued a warning to the public on several occasions over the rise of recruitment for egoist fraudsters in Myanmar's Miyawadi area.
-
-Recent investigations have revealed that smugglers are targeting information technology experts claiming to provide more salary for more salary abroad.
-
-In other countries, they attract workers, promising to provide more wages in information technology sector.
-
-Investigators have revealed that the inspired persons were taken to places like Dubai under the guise of an interview for employment and then forced to work illegally to work in the Miyawadi area of ​​Myanmar.
-
-...
-
-[Data](articles/43bd85e9.json)
-
-[Extended Data](ext_articles/43bd85e9.ext.json)
-
----
-
-### Wild elephant attack in Anuradhapura
-
-*2024-11-12 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198501) · `ta`
-
-Elephant attacks another elephant in Anuradhapura. Elderly woman killed when she encountered the elephant in her garden. Police report details incident.
-
-🟩
-
-A wild elephant attacked a wild elephant in Kadiyawa, Anuradhapura, Anuradhapura, police said.
-
-When the elderly elder went out of her house, a wild elephant hidden in the garden died and died on the spot, police said.
-
-◼️
-
-[Data](articles/f91d651d.json)
-
-[Extended Data](ext_articles/f91d651d.ext.json)
-
----
-
-### The Department of Registration will not work
-
-*2024-11-12 17:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்பதிவு-திணைக்களம்-இயங்காது/175-347013) · `ta`
-
-Department of Registration closed on 14th due to public service cancellation announced by Secretary General Suriyaiyaruma.
-
-🟩
-
-The Secretary General of the Department, Suriyaiyaruma, said that the public service will not be held on Thursday, the 14th of this month.
-
-◼️
-
-[Data](articles/40944ff4.json)
-
-[Extended Data](ext_articles/40944ff4.ext.json)
-
----
-
-### Special Boat Services to Nedundevu ahead of the election
-
-*2024-11-12 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198524) · `ta`
-
-Special ferry services Jaffna-Neduntivu ahead of polls. 7 trips daily. Voting boxes transported by boat to Jaffna Central College after polling.
-
-🟩
-
-Special ferry services have been organized between Jaffna, Indigatuwan - Neduntivu ahead of the upcoming parliamentary elections.
-
-07 ferry services will be held from Indicatan to Neduntivu from 06,30 am to 5.30 pm tomorrow (14).
-
-Similarly, the Divisional Secretariat has announced that the boat services will be held from 06.45 am to 04.30 pm from Neduntivu.
-
-Meanwhile, the voting boxes for the Nedundi Island will be taken by the boats on Wednesday and will be taken to the Central College of Jaffna, the center of the Air Force's airplane, after the voting is completed tomorrow.
-
-◼️
-
-[Data](articles/48d34bf0.json)
-
-[Extended Data](ext_articles/48d34bf0.ext.json)
-
----
-
-### Sri Lanka's new president faces his first parliamentary test.
-
-*2024-11-12 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/198526) · `ta`
-
-Sri Lanka's new left-wing President Anura Kumara Dissanayake faces first parliamentary test. Supported by business leaders, he aims to increase party's MPs. Economic reforms and IMF agreements are key focus areas. Low voter interest and opposition challenges expected in Thursday's election.
-
-🟩
-
-Sri Lanka's new left -wing President Anura Kumaratisanayake has been supported from an unexpected place as he is trying to increase the number of three MPs of his party.
-
-Anuragumaratisanayake, who considers her heroes Segura and Karlmarx, has received the support of the country's most influential private trade organization.
-
-Anuragumaratisayake received the support of the people who were furious over the collapse of the economic crisis of Sri Lanka.
-
-Business leaders have said that under Dissanayake, the country may follow China or Vietnam's economic model.
-
-The party of Anura Kumaradisanayake has its symbol of the International Communist Movement.
-
-Australia's geopolitical risk institute, Imran Burkhan, says they would have been better than Vietnam in the first term of Dissanayake.
-
-He says that democracy is deeply rooted in Sri Lanka than Vietnam, which has long been a Communist regime.
-
-...
-
-[Data](articles/2ba056ad.json)
-
-[Extended Data](ext_articles/2ba056ad.ext.json)
-
----
-
-### Govt to reassess gazette on Vidataltivu reserve
-
-*2024-11-12 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103360/govt-to-reassess-gazette-on-vidataltivu-reserve-) · `en`
-
-The Supreme Court has ordered the extension of the interim injunction issued preventing the execution of a gazette notification issued by the Ministry of Wildlife and Forest Conservation under the previous government to release 168 acres of land from the Vidataltivu Nature Reserve associated with the Wilpattu National Park for the establishment of a shrimp farm.
-
-Accordingly, the interim order was extended until 29 July 2025 when a petition filed challenging the former government’s decision was taken up before the three-member Supreme Court bench consisting of Justices S. Thurairaja, A.H.M.D. Nawaz and Janak de Silva today (12).
-
-During the hearing, Deputy Solicitor General Fazly Razik who appeared on behalf of the Attorney General, informed the court that the new government has decided to review the relevant gazette notification and requested the court for a new date to inform the next step related to the case.
-
-...
-
-[Data](articles/10327087.json)
-
----
-
-### Transfer 12 polling stations in Jaffna
-
-*2024-11-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198521) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna: 12 polling stations moved. Velanai, Vadaliyadipattu, Vaddukoddai, Manipayi, Achuveli, Udupitti, Kokuvil stations shifted to new locations.
-
-🟩
-
-The Jaffna District Government Agent and Electoral Officer Marudalingam Pradeepan has announced that 12 polling stations have been changed in the past.
-
-Velanai Central College Hostel Voting Station in Kayts Election constituency Saravana Pallambulam Murugamoorthy Temple has been shifted to the Narandana South Public Vision Hall Voting Center Narandana South Village Shakti Public Hall.
-
-The Vadaliyadipattu Saivaprakasa Vidyalaya Hall in Vaddukoddai Election constituency
-
-Vasavilan Central College Hall Voting Center in Kankesanthurai Election constituency
-
-In Manipayi constituency, Thavadi Hindu Tamil Kalavan School Hall
-
-The Achuveli Central College Hall 2 Voting Center has been shifted to the Achchuveli Primary School and the Achuveli Vigneswara Community Center Voting Center Vigneswara Pre -School.
-
-...
-
-[Data](articles/2956b975.json)
-
-[Extended Data](ext_articles/2956b975.ext.json)
-
----
-
-### It was because of the unnecessary work - Customs Trade Unions
-
-*2024-11-12 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203181) · `si`
-
-Customs Trade Unions criticize government delays on Karawalapitiya yard project and container clearance process.
-
-🟩
-
-The Customs Trade Union Alliance says that Minister Vijitha Herath will strongly deny the allegations from various parties on customs.
-
-The Customs Trade Union UPFA said that the UPFA was announced that the Customs Tra University Union alliance would express the powerful displeasure of the palcedimony.
-
-The proposals were made to install a Karawipitiya Contextual testing yard to formulate the consolation of the Colombo Port premises.
-
-However, almost three years after the proposal has passed, the governments of the past two years have not been able to resolve these issues.
-
-The proposal to the Karawalapitiya yard against the Karawalapitiya yard, a milestone of the Container Clearance Process, has been a delayed suspicion over the late years.
-
-Meanwhile, the Chairman of the Customs Officers' Association, Amila Sanjeewa stated that the management of the directories is a function of the management of containers today (12) in Colombo today.
-
-...
-
-[Data](articles/3100065b.json)
-
-[Extended Data](ext_articles/3100065b.ext.json)
-
----
-
-### Sri Lanka sells Rs132.5bn in 2028 and 2032 bonds
-
-*2024-11-12 16:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs132-5bn-in-2028-and-2032-bonds-187033/) · `en`
-
-ECONOMYNEXT – Sri Lanka has sold 132.5 billion rupees in 2028 and 2032 bonds, data from the state debt office showed.
-
-All offered 85 billion rupees of 01 May 2028 bonds were sold at an average yield of 11.63 percent.
-
-All offered 47.5 billion rupees of 01 October 2032 bonds were sold at an average yield of 12.32 percent.
-
-An issuance window for the ISINs LKB01528E016 and LKB02032J017 is open until close of business of day
-
-prior to settlement date (i.e., 4.00 pm on 14.11.2024) at the Weighted Average Yield Rates (WAYRs)
-
-determined for the said ISINs at the auction, up to 10% of the respective amounts offered, the debt office said.
-
-◼️
-
-[Data](articles/cff5066a.json)
-
-[Extended Data](ext_articles/cff5066a.ext.json)
-
----
-
-### Stand up the expectations of the people: the national movement for social justice
-
-*2024-11-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198516) · `ta`
-
-National Movement for Social Justice urges political parties to meet public expectations. New parliament expected to address financial crisis and maintain democratic standards.
-
-🟩
-
-The National Movement for Social Justice has urged political parties to uphold the expectations of the people.
-
-In a media statement issued by Sunil Jayasekera, the General Secretary of the National Movement for Social Justice, said,
-
-We hope that the new parliament, which has been elected by the people in two days, will take on unprecedented responsibility in history.
-
-New Parliament is very important in terms of reckless behavior we see in parliament in recent years. ஆகவே வரப்போகும் அரசுக்கும் எதிர்க்கட்சிக்கும் பாரிய பொறுப்பு இருக்கும்.
-
-Their first task is to strengthen democracy by helping to restore the country from the financial crisis we face. In addition, the new parliament must reflect the political culture that the people expect, and both the ruling party and the opposition play their role.
-
-In recent days, we have been watching some of the confused incidents during the election campaign.
-
-...
-
-[Data](articles/9e29ce4f.json)
-
-[Extended Data](ext_articles/9e29ce4f.ext.json)
-
----
-
-### පොල් විකුණා කොළඹ ගිහින් සමස්ත ලංකා ජය ලබයි
-
-*2024-11-12 16:27:33* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-විකුණා-කොළඹ-ගිහින්-සමස්ත-ලංකා-ජය-ලබයි/11-412996) · `si`
-
-බිබිල නාගල පියරතන පාසලේ දරුවන් ඒක්ව පොල් විකුණා   කොළඹ යැවු සංගීත කණ්ඩායමක් සමස්ථ ලංකා  තෙවන ස්ථානයට පත්ව ජය ලැබු  බව විදුහල්පතිනි ටී.ඒම් රුවනි චන්ද්‍රිකා  ජයවර්ධන මහත්මිය පැවසීය.
-
-ආර්ථික අපහසුතාවලින් පෙළෙන බිබිල නාගල පියරතන විදුහලේ දරුවන් මෙවර සංගීත අංශයේ "සබරගමුව සාන්තිකර්ම නිර්මාණ" අංශයෙන් කළාප,දිස්ත්‍රික් හා  පළාත් අංශයෙන් ප්‍රථම ස්ථානය ලබා  සමස්ථ ලංකා  තරගාවලියට තේරී පත්ව තිබේ.
-
-මෙම පාසාලේ සංගීත කණ්ඩායමේ දරුවන්ට කොළඹ තරග සදහා  යෑමට ප්‍රවාහන ප හසුකම් ඇතුළු වියදම් සදහා  මුදල් නොමැති නිසා   පාසලේ සිටින දරුවන් 275 දෙනාම පොල් ගෙඩි දෙක බැගින් ගෙනවිත් ඒ්වා  විකුණා  ලබා ගත්  මුදල් සහ  රුපියල්  100ක ටිකට් පතක් අළෙවිකර  සොයාගත් මුදල් වැය කර කොලඹ ගිය දරුවන්  දිවයිනේ පාසල් අතර පැවති තරගාවලියේ  තුන්වන ස්ථානයට පත්ව ජය ලබා  තිබෙන බව විදුහල්පතිනිය කියයි.
-
-මෙම පාසලේ දරුවන්ට සංගීත උපකරණ,ක්‍රීඩා  උපකරණ,නොමැති බවත් පවසන විදුහල්පතිනිය කියා  සිටියේ පාසලට අත්‍යවශ්‍ය උපකරණ තිබුනේ නම් මෙයට වඩා  ජයග්‍රහණ ගැනීමට දරුවන් උනන්දු වන බවයි.
-
-◼️
-
-[Data](articles/c14d8593.json)
-
----
-
-### The International Election Monitoring Committee will observe everything, including the media's activities -Chairman of the Cambridge Organization
-
-*2024-11-12 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198509) · `ta`
-
-International Election Monitoring Committee observes voter, party, Election Commission, and media activities in Sri Lanka's upcoming presidential election. Committee expects peaceful parliamentary election similar to last presidential one.
-
-🟩
-
-Cambridge Chairman Nasim Saidi said that the activities of the voters, the activities of the parties contesting the election, the activities of the Election Commission, and the media activities will be taken up by international election monitors.
-
-The International Election Monitoring Committee of 10 people from Russia, Bangladesh, India, Maldives and the Netherlands visited Sri Lanka today (12) at the invitation of the Election Commission to monitor the upcoming presidential election in Sri Lanka on the 14th of this month.A media briefing was held.
-
-The International Election Monitoring Committee said that the parliamentary elections in Sri Lanka have been very good and the last presidential election has been very quiet.
-
-Cambridge Chairman Nasim Saidi provided further information that the International Election Inspectors who visited Sri Lanka at the invitation of the Election Commission have visited Sri Lanka on their work and the election practical surveillance.
-
-...
-
-[Data](articles/63295f48.json)
-
-[Extended Data](ext_articles/63295f48.ext.json)
-
----
-
-### Suggested ban on Vedithalthivu Reserve
-
-*2024-11-12 16:18:07* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතලතිව්-රක්ෂිතයේ-යෝජිත-ඉස්සෝ-ගොවිපොළට-අතුරු-තහනම-තවදුරටත්/11-412995) · `si`
-
-Supreme Court orders interim injunction on Vedithalthivu Reserve ban. Government to review wildlife gazette notification. Petition filed by Wildlife Security Association and Environmental Justice Center. Next hearing on July 29.
-
-🟩
-
-The Supreme Court today ordered the an interim injunction order issued by the Wilpattu Vedithalaye Reserve Reserve Suittu.
-
-The Supreme Court also ordered that the new government had decided to review the Gazette notification issued by the Ministry of Wildlife.
-
-The SHEP, the Supreme Court Judges. The petition was in the face of the judge, which is made up of Turari, Dilip Nawala, and Janakamuwa.
-
-The Memorandum of the Wildlife Security Association including the Environmental Justice Center, the Minister of Wildlife and several others have been named.
-
-When the petition was taken up, the Deputy Solicitor General Fertain General Fuselle Gen. Fuselly General, who appeared for the respondents, the government has decided to review the gazette notification.
-
-Deputy Fuselley Rachem asked for a date to notify the next step in the petition.
-
-After considering the facts, the panel of judges issued to be called on July 29 this year.
-
-◼️
-
-[Data](articles/1574e114.json)
-
-[Extended Data](ext_articles/1574e114.ext.json)
-
----
-
-### Court order on a gazette notification issued by the government
+### පසුගිය රජය නිකුත්කළ ගැසට් නිවේදනයක් සම්බන්ධයෙන් අධිකරණ නියෝගයක්
 
 *2024-11-12 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203180) · `si`
 
-Supreme Court extends Wildlife Ministry injunction on prawn farm. Gazette notification released 168 acres Vedithalthivu Forest Reserve. Government reviews notification. Wildlife Security Society, Environment Justice Center present petitions against former Wildlife Minister.
+ඉස්සන් ගොවිපොළක් නිර්මාණය කිරීමට විල්පත්තුව ආශ්‍රිත වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් බිම් කොටසක් මුදාහැරීමට ඉකුත් රජයේ වනජීවී අමාත්‍යංශය විසින් නිකුත් කළ ගැසට් නිවේදනයක් ක්‍රියාත්මක වීම වළක්වාලමින් පනවා තිබූ අතුරු තහනම් නියෝගය ශ්‍රේෂ්ඨාධිකරණය විසින් දීර්ඝ කර තිබේ.
 
-🟩
+වෙඩිතලතිව් රක්ෂිත වනාන්තර කලාපයෙන් අක්කර 168 ක් මුදා හැරීම සඳහා අදාළ ගැසට් නිවේදනයක් නිකුත් කර තිබී ඇත.
 
-The Supreme Court has extended the interim injunction order issued by the Wildlife Ministry to create a prawn farm.
+එස්. තුරෙයිරාජා, ඒ. එච්.එම්.ඩී. නවාස් සහ ජනක් ද සිල්වා යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම අද (12) කැඳවා ඇති අතර එහිදී නියෝග කර ඇත්තේ පනවා තිබූ අතුරු තහනම් නියෝගය ජූලි මස 29 වනදා දක්වා දීර්ඝ කරණ ලෙසටය.
 
-A gazette notification has been issued to release 168 acres from the Vedithalthivu Forest Reserve forest area.
+එම අවස්ථාවේදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි නියෝජ්‍ය සොලිසිටර් ජනරාල් ෆස්ලි රසික් මහතා සඳහන් කළේ මෙම ගැසට් නිවේදනය සම්බන්ධයෙන් යළි සමාලෝචනයක් සිදුකිරීමට නව රජය තීරණය කර ඇති බවය.
 
-S. Turairaja, A. HMD. The petition has been convened today before the Supreme Court Bench, the Supreme Court Bench, which is accompanied by Nawaz and Janak de Silva.
-
-Deputy Solicitor General, Fastly General, appearing on behalf of the Attorney General, said the new government has decided to review this gazette notification.
-
-Accordingly, the Deputy Solicitor General has asked the court to give the next step in notifying the following steps.
-
-These petitions were presented by the Wildlife Security Society and the Environment Justice Center.
-
-Former Wildlife Minister, including the Minister, has been named as respondents.
-
-◼️
-
-[Data](articles/a91d11e1.json)
-
-[Extended Data](ext_articles/a91d11e1.ext.json)
-
----
-
-### The demand of the people's uprising from Pottuvil to Polikandi
-
-*2024-11-12 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198514) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil people demand self-determination. Sri Lankan election Nov 14 imposes Tamil Eelam issue. Tamil nationalism unity needed. Reject Sinhalese communal parties like JVP. Left parties oppose Tamil self-rule. Vote for Tamil unity candidates. Universal referendum key to permanent solution.
-
-🟩
-
-The solution to the ethnic problem of the Tamil people will be permanent by the use of our self -determination.
-
-Therefore, the people's upgrading movement has called for the use of the Tamil people's votes to use the unity of the Tamil nationalism and the strength of the Tamil people.
-
-The Sri Lankan parliamentary election is scheduled for November 14. While this is an election that will decide its power, this election has been imposed on the Tamil Eelam.
-
-While the Sri Lankan Parliament does not provide any solution to the political issue of the Tamil people, we are in a compulsion to ensure our representation. Similarly, there is a need for the Tamil people to express our political position.
-
-Sri Lanka's chauvinist parties are just as the saints of the Tamil people, and the Tamil people are demanding a mystery, especially the younger society, as there is no political issue for the Tamil people.
+ඒ අනුව මෙම නඩුකරයට අදාළ මීළඟ පියවර දැනුම්දීම සඳහා දිනයක් ලබාදෙන ලෙසත් නියෝජ්‍ය සොලිසිටර් ජනරාල්වරයා අධිකරණයෙන් ඉල්ලා තිබේ.
 
 ...
 
-[Data](articles/c95fbd14.json)
-
-[Extended Data](ext_articles/c95fbd14.ext.json)
+[Data](articles/a91d11e1.json)
 
 ---
 
-### "Dick Tok" love;Pupilism
+### “டிக் டொக்” காதல் ; மாணவி பாலியல் வன்கொடுமை
 
 *2024-11-12 16:11:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்-டொக்-காதல்-மாணவி-பாலியல்-வன்கொடுமை/175-347011) · `ta`
 
-Here's a summary in 200 characters:
+“டிக் டொக்” இணையத்தளம் ஊடாக அறிந்துக்கொண்ட, அநுராதபுரம் அலையாபத்து பிரதேசத்தை சேர்ந்த 14 வயதுடைய  பாடசாலை மாணவியை , இரத்தினபுரி பிரதேசத்தைச் சேர்ந்த இளைஞன் ஒருவன் பாலியல் வன்கொடுமை செய்துள்ளதாக  பொலிஸார் தெரிவித்தனர்.
 
+குறித்த மாணவி , பாடசாலைக்கு வராமல் இளைஞனொருவனுடன் சென்றுவிட்டு மறுநாள் பாடசாலைக்கு வந்ததாக அதிபர் செய்த முறைப்பாட்டின் அடிப்படையில்  விசாரணைகள் ஆரம்பிக்கப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
 
+“டிக் டொக்” இணையத்தளம் ஊடாக அறிந்துக்கொண்ட  இளைஞனுடன்  மாணவி காதல் உறவில் ஈடுபட்டு வந்துள்ளதுடன் , அவருடைய நிர்வாண புகைப்படங்களையும் இளைஞனுக்கு அனுப்பியுள்ளார்.
 
-"14-year-old girl from Anuradhapura learns via 'Dick Tok'. Raped by Ratnapura youth. Police investigate after Chancellor complaint. Girl sent naked photos to suspect. Police summon suspect from Kurunegala."
-
-🟩
-
-A 14 -year -old schoolgirl from Alaiyapattu area of ​​Anuradhapura, who was learning through the "Dick Tok" website, has been raped by a youth from Ratnapura, a youth from Ratnapura has been raped.
-
-Investigations have begun based on the complaint made by the Chancellor that the student went to school the next day without going to school.
-
-The student has been in love with a young man who has learned through the "Dick Tok" website and sent his naked photos to the young man.
-
-Further investigations are being carried out by the police that the young man who threatened to publish the photos to the homepage has been summoned to the Kurunegala area.
+பின்னர் குறித்த புகைப்படங்களை முகப்புத்தகத்திற்கு வெளியிடுவதாக கூறி அச்சுறுத்திய  இளைஞன் மாணவியை,  குருநாகல் பகுதிக்கு வரவழைத்து   பாலியல் வன்கொடுமை செய்துள்ளதாக தெரிவித்த பொலிஸார்  மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/5c0ca881.json)
-
-[Extended Data](ext_articles/5c0ca881.ext.json)
-
----
-
-### Sri Lanka’s CEB restructure faces execution risk, BB+(lka) rating confirmed: Fitch
-
-*2024-11-12 15:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-restructure-faces-execution-risk-bblka-rating-confirmed-fitch-187020/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board’s re-structuring faces execution risk, Fitch Ratings said, while confirming its ‘BB+(lka) rating on expected state support.
-
-“The new Electricity Act includes provisions to unbundle CEB’s generation, transmission and distribution into separate entities,” Fitch said.
-
-“We believe the unbundling will improve CEB’s efficiency and competitiveness. The utility is already preparing separate financials, maintains separate bank accounts and is in the process of allocating assets and liabilities for the three units.
-
-“However, we believe the restructuring faces execution risk and may be contingent on the outcome of Sri Lanka’s general election on 14 November.”
-
-A deviation from cost reflective tariffs is risk to the CEB’s balance sheet.
-
-“CEB has operated on a cost-reflective tariff mechanism since June 2023, which is revised quarterly to ensure operating costs are covered,” Fitch said.
-
-...
-
-[Data](articles/76ed2d7a.json)
-
-[Extended Data](ext_articles/76ed2d7a.ext.json)
 
 ---
 
@@ -619,8 +83,6 @@ Furthermore, the examination department stated that all service counters and the
 ◼️
 
 [Data](articles/53010031.json)
-
-[Extended Data](ext_articles/53010031.ext.json)
 
 ---
 
@@ -666,33 +128,21 @@ This visit highlights the United States’ commitment to empowering young leader
 
 [Data](articles/1efe18ac.json)
 
-[Extended Data](ext_articles/1efe18ac.ext.json)
-
 ---
 
-### Ministry at Ministry at Ministry at Ministry Question Paper
+### සමාජයේ කතාබහට ලක්වූ විභාග ප්‍රශ්න පත්‍රය ගැන අමාත්‍යාංශ මට්ටමින් පරීක්ෂණයක්
 
 *2024-11-12 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාජයේ-කතාබහට-ලක්වූ-විභාග-ප්‍රශ්න-පත්‍රය-ගැන-අමාත්‍යාංශ-මට්ටමින්-පරීක්ෂණයක්/11-412994) · `si`
 
-Here's a summary in 200 characters:
+කළුතර දිස්ත්‍රික්කයේ සී.ඩබ්ලිව්.ඩබ්ලිව්.කන්නන්ගර මධ්‍ය විද්‍යාලයේ දෙවැනි වාර පරීක්ෂණයේදී උසස් පෙළ දරුවන්ට ලබා දුන් සාමාන්‍ය පොදු පරීක්ෂණයේ ප්‍රශ්න පත්‍රයට දේශපාලන පක්ෂයකට සම්බන්ධ ප්‍රශ්න 05ක් අන්තර්ගත වීම පිළිබඳව අමාත්‍යාංශ මට්ටමින් කඩිනම් පරීක්ෂණයක් ආරම්භ කිරීමට උපදෙස් ලබා දී තිබේ.
 
+අධ්‍යාපන, විද්‍යා සහ තාක්ෂණ අමාත්‍යාංශ ලේකම් තිලකා ජයසුන්දර මහත්මිට අදාළ නිලධාරීන්ට මෙලෙස උපදෙස් ලබා දී ඇත.
 
-
-Education Ministry orders probe into controversial exam paper. Education Secretary Thilaka Jayasundara instructs officials to investigate. Minister denies involvement in paper preparation.
-
-🟩
-
-The second period in the second period of the CWW W.KL Kindara Central College, Kalutara District has been instructed to initiate an experimental inquiry into the Ministry of General Testing.
-
-The Secretary of Education, Science and Technology Secretary Thilaka Jayasundara has instructed the relevant officials.
-
-The Secretary to the Ministry said that this question paper has been prepared in the society and has no involvement at the ministry or institutional level.
+සමාජය තුළ කතාබහට ලක් වී ඇති මෙම ප්‍රශ්න පත්‍රය සකස් කර ඇත්තේ අදාළ පාසලෙන්ම බවත්, ඒ සඳහා අමාත්‍යාංශ මට්ටමින් හෝ වෙනත් ආයතනික මට්ටමකින් හෝ කිසිදු සම්බන්ධයක් නොමැති බවත් අමාත්‍යාංශ ලේකම්වරිය පැවසීය.
 
 ◼️
 
 [Data](articles/9844ff8a.json)
-
-[Extended Data](ext_articles/9844ff8a.ext.json)
 
 ---
 
@@ -789,8 +239,6 @@ Adding to the night’s highlights, musician Suneera Sumanga, the winner of Dera
 ...
 
 [Data](articles/412dbb41.json)
-
-[Extended Data](ext_articles/412dbb41.ext.json)
 
 ---
 
@@ -1130,8 +578,6 @@ The two women, aged 47 and 48, have been identified as Chinese nationals.
 
 [Data](articles/7c69a25c.json)
 
-[Extended Data](ext_articles/7c69a25c.ext.json)
-
 ---
 
 ### Abhayan Awards
@@ -1270,8 +716,6 @@ Mr. Damunopola confirmed that initial findings indicate no data was accessed or 
 
 [Data](articles/c54474ef.json)
 
-[Extended Data](ext_articles/c54474ef.ext.json)
-
 ---
 
 ### Two Chinese women arrested
@@ -1313,8 +757,6 @@ It has produced waves of ethnically driven violence blamed largely on the RSF. T
 ...
 
 [Data](articles/47e4d1eb.json)
-
-[Extended Data](ext_articles/47e4d1eb.ext.json)
 
 ---
 
@@ -1391,8 +833,6 @@ Ratnayake also informed that the results from polling areas and district-level r
 ...
 
 [Data](articles/98adfca9.json)
-
-[Extended Data](ext_articles/98adfca9.ext.json)
 
 ---
 
@@ -1536,24 +976,6 @@ A fire broke out at the Media Welikada road in Rajagiriya.
 
 ---
 
-### Liquor stores, bars to be closed during Sri Lanka general election
-
-*2024-11-12 12:14:00* · [`economynextcom`](https://economynext.com/liquor-stores-bars-to-be-closed-during-sri-lanka-general-election-187014/) · `en`
-
-ECONOMYNEXT – All licensed liquor retailers throughout the island will be closed on November 14 and 15 due to the Parliamentary Elections, the Excise Department said in a statement.
-
-However, liquor will be made available to tourists residing in Tourist Board-approved, three-star and above hotels and boutique villas.
-
-Sri Lanka usually prohibits the sale of liquor during holidays. (Colombo/Nov12/2024)
-
-◼️
-
-[Data](articles/cc6caead.json)
-
-[Extended Data](ext_articles/cc6caead.ext.json)
-
----
-
 ### Fire breaks out at garment factory in Rajagiriya
 
 *2024-11-12 12:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103351/fire-breaks-out-at-garment-factory-in-rajagiriya) · `en`
@@ -1565,8 +987,6 @@ Four fire trucks attached to the Kotte Fire Department have been deployed to con
 ◼️
 
 [Data](articles/0cc93239.json)
-
-[Extended Data](ext_articles/0cc93239.ext.json)
 
 ---
 
@@ -1669,8 +1089,6 @@ The statement further noted that the Central Bank of Sri Lanka and various comme
 ◼️
 
 [Data](articles/469a18cc.json)
-
-[Extended Data](ext_articles/469a18cc.ext.json)
 
 ---
 
@@ -1911,40 +1329,6 @@ According to the Sri Lanka Computer Emergency Response Unit, the authorities are
 [Data](articles/f280896b.json)
 
 [Extended Data](ext_articles/f280896b.ext.json)
-
----
-
-### What is the newly opened test on Passover attacks?
-
-*2024-11-12 11:10:53* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyvk4qqlgzo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New investigation launched into 2019 Easter bombings in Sri Lanka. Channel 4 documentary alleges government involvement. CID opens case, magistrate court orders probe. Defense ministry denies claims. Three-member committee formed to examine Channel 4 video.
-
-🟩
-
-Over 5 years ago, more than 260 people have laid down to 260 Catholic Churches and 3 tourist hotels have commenced a new investigation.
-
-According to a report issued by the Police Media Division (Yannel 4, a British Television Channel 4, is conducting investigations into the series.
-
-The Criminal Investigation Department (CID) has launched an investigation under several allegations, including the controversial matters of the Passover and the Penal Code.
-
-The investigation was reported to the Fort Magistrate's Court on November 11.
-
-This is the first time a criminal investigation has been launched in the documentary video issued from Channel 4 channel in September 2023.
-
-Executive Director of the Club and Peace Center Rohan Silva has asked Secretary Defense Secretary Ravi Seneviratne in connection with the Secretary of the Government of the British Channel 4.
-
-According to the complaint, the investigation was commenced in the investigation, Nihal Talduwa told the BBC Sinhala.
-
-...
-
-[Data](articles/6f6cdf5f.json)
-
-[Extended Data](ext_articles/6f6cdf5f.ext.json)
 
 ---
 
@@ -2292,6 +1676,32 @@ Former President Ranil Wickremesinghe participated at the final New Democratic F
 
 ---
 
+### Abhi Pinkenavar visits Sri Lanka on World Youth Issues of US State Department
+
+*2024-11-12 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198483) · `ta`
+
+Abhi Pinkenavar visits Sri Lanka & Nepal for US State Dept's World Youth Affairs. Promotes US interests in South Asian youth leadership, citizenship, culture, and social issues. Meets with young leaders, entrepreneurs, and political figures. Discusses challenges & opportunities in youth empowerment.
+
+🟩
+
+Abhi Pinkenavar will visit Sri Lanka and Nepal, a special ambassador to the US State Department's World Youth Affairs issues.
+
+Abhi Pinkenavar is making a visit to Sri Lanka and Nepal from the 12th to the 15th.
+
+Abhi Pinkenavar's visit is aimed at promoting the United States of America to promote South Asian youth leaders and aims to cooperate on major issues such as citizenship participation and younger leadership, cultural protection and social flexibility.
+
+In Sri Lanka, Special Ambassador Pinkenavar will observe the impact of programs to encourage young leaders in the fields of education, leadership and citizenship through the cooperation of Sri Lanka.
+
+US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussions with alumni of the US Embassy's Youth Council and the USAI International Development Organization (USAI) Emerging Leaders Academy.
+
+...
+
+[Data](articles/f0af2e43.json)
+
+[Extended Data](ext_articles/f0af2e43.ext.json)
+
+---
+
 ### University student falls by train
 
 *2024-11-12 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203164) · `si`
@@ -2317,26 +1727,6 @@ The victim has been admitted to the Diyatalawa road for treatment and the Haputa
 [Data](articles/4e661337.json)
 
 [Extended Data](ext_articles/4e661337.ext.json)
-
----
-
-### Six arrested over Rs. 1M robbery after pretending to offer massage service
-
-*2024-11-12 09:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103347/six-arrested-over-rs-1m-robbery-after-pretending-to-offer-massage-service) · `en`
-
-Police have arrested six individuals, five men and one woman, involved in a fraudulent scheme that led to a robbery under the guise of offering massage services.
-
-The suspects allegedly deceived a man with the promise of a massage service, only to assault and threaten him at knifepoint, forcing him to transfer Rs. 1 million through online banking.
-
-Police reports indicate that the perpetrators further robbed the victim of Rs. 15,000 in cash from his wallet.
-
-Following a complaint received by Bambalapitiya Police in this regard, the police arrested two individuals, including a 44-year-old man and a 54-year-old woman from Piliyandala, along with a three-wheeler used in the crime, on November 8.
-
-Information obtained from these suspects had led to the arrest of four more individuals, aged between 19 and 23, hailing from Ratmalana and Mount Lavinia.
-
-◼️
-
-[Data](articles/290f2ba0.json)
 
 ---
 
@@ -2513,5 +1903,591 @@ Photos and videos obtained by The Associated Press show bullet holes dotting the
 ...
 
 [Data](articles/97d69fcc.json)
+
+---
+
+### Prabhakaran's purpose cannot be accomplished by the new Constitution - Sarath Weerasekera
+
+*2024-11-12 08:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198446) · `ta`
+
+Sarath Weerasekera opposes new constitution, citing Prabhakaran's goals. Emphasizes unity over federalism. Warns against releasing Tamil political prisoners due to alleged terrorist ties. Urges voters to prioritize national security in upcoming elections.
+
+🟩
+
+If the president mentions the name of the Tamil political prisoners who are liberated, I will refer to the terrorist activities they have done. Prabhakaran's purpose cannot be accomplished by the new constitution. Sri Lanka PA's Colombo district candidate Sarath Weerasekera said that the people should vote in the general election in view of the country's unity.
+
+President Anura Kumara Dissanayake has stated that in his policy declaration, the new constitution is being prepared for the creation of a new constitution from 2015 to 2019, based on the law prepared by the government.
+
+Lal Vijayanayake, who was appointed to the new constitution, was present at the presence of the National People's Power During the presidential election.. Suggestions have been made to abolish the unilateral constitution and create a federal system.
+
+Buddhist Charter is preserved because Sri Lanka is a single country. All ethnic people live freely and peacefully.
+
+...
+
+[Data](articles/9e0f38e5.json)
+
+[Extended Data](ext_articles/9e0f38e5.ext.json)
+
+---
+
+### Train service resumes between Colombo and Talaimannar
+
+*2024-11-12 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103343/train-service-resumes-between-colombo-and-talaimannar) · `en`
+
+The Department of Railways has announced that the train service between Colombo Fort and Talaimannar will resume today (12).
+
+This service had been temporarily suspended due to the railway development project between Mahawa and Anuradhapura.
+
+- Departure from Colombo Fort at 16.15 p.m., arriving in Talaimannar at 22.15 p.m.
+
+- Departure from Talaimannar at 4:15 a.m., arriving in Colombo Fort at 10:15 a.m.
+
+◼️
+
+[Data](articles/f549676d.json)
+
+[Extended Data](ext_articles/f549676d.ext.json)
+
+---
+
+### Police are alert
+
+*2024-11-12 08:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203161) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Police deploy 64,000 officers for general election security. 13,383 polling centers covered. 3,200 STF & 12,227 civil security personnel assist. Police use 11,000 officers for exhibit protection. Army ready if needed. Support free, peaceful election urged.
+
+🟩
+
+Police Media Spokesperson DIG Nihal Talduuwa says that police officers will be deployed from today (12) to the security of the general election.
+
+He says that about 64,000 police officers will be deployed covering all the polling centers located in the total parties in the country.
+
+13,383 polling centers were established for 13,314 electorates. We are employed in duty to cover this period of time and then after the date of the election. Nearly 64,000 police officers are employed. Also, 3,200 STF officers have been prepared to be employed on duty. 12,227 civil security personnel join the election directly. The police officers join the election with the Election with the waiting service officials. In addition, the police officers use nearly 11,000 officers to protect the exhibition for election duties.. Also, if there is a need, the Army Officialse stays in the waiting industry. "
+
+He also requested everyone to support the support of a free and peaceful election.
+
+◼️
+
+[Data](articles/f2ed2fee.json)
+
+[Extended Data](ext_articles/f2ed2fee.ext.json)
+
+---
+
+### Silence period begins ahead of Parliamentary Election
+
+*2024-11-12 08:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103342/silence-period-begins-ahead-of-parliamentary-election) · `en`
+
+The election campaign activities for the upcoming parliamentary election concluded at midnight on November 11, marking the start of the silence period, which will remain in effect until Election Day on November 14.
+
+During this period, no campaign activities are permitted, according to the Election Commission.
+
+However, the Election Commission has given candidates time until midnight tonight (12) to remove their campaign offices, said the Chairman of the Election Commission, R.M.A.L. Ratnayake.
+
+“Currently, candidates have set up campaign offices. All offices at the constituency level must be removed by midnight on the 12th. After that, only one office per constituency can be maintained by the parties and groups,” he explained.
+
+Additionally, a candidate’s house can be used as a party office, however, no decorations or advertising are permitted in any of these offices, as per the election commission.
+
+...
+
+[Data](articles/3b628b5c.json)
+
+[Extended Data](ext_articles/3b628b5c.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-12 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103341/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+A low-pressure area is likely to form over the south west Bay of Bengal today (12). Under its influence, atmospheric conditions will be favorable for afternoon thundershowers in most parts of the island from November 13, says the Department of Meteorology.
+
+Several  spells of showers  will occur in Northern Province. Showers or thundershowers may occur at several places elsewhere during the evening or night.
+
+Fairly heavy showers above 50 mm are likely at some  places in Eastern, Central,  Uva, Sabaragamuwa, and Southern provinces.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning, it added.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/eed21ba7.json)
+
+[Extended Data](ext_articles/eed21ba7.ext.json)
+
+---
+
+### April 21 attack;CID call to child
+
+*2024-11-12 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஏப்ரல்-21-தாக்குதல்-பிள்ளையானுக்கு-CID-அழைப்பு/175-346974) · `ta`
+
+Sivanesathurai Chandrakanthan summoned CID April 21 attack Channel 4 video investigation surrogate issues
+
+🟩
+
+Former State Minister Pillaiyan alias Sivanesathurai Chandrakanthan has been summoned to the Criminal Investigation Department today.
+
+The video, which aired on April 21, on September 6 last year, was reported to have been reported to have been reported to have been reported between Major General Suresh Saleh, the Director of the State Intelligence Unit and the alleged meeting between Major General Suresh Saleh and the April 21 bomb.
+
+The video was named as Channel 4 television.
+
+From 2005 to 2015, Channel 4 TV revealed that Sivanesathurai Chandrakanthan, the so -called Pillaiyan, has been aimed at the Rajapaksa's political opponents, targeting the political opponents of the Rajapaksa.
+
+The Criminal Investigation Department has begun investigations into the surrogate issues.
+
+He has been summoned to the Criminal Investigation Department yesterday.. Remble
+
+◼️
+
+[Data](articles/0aa71d23.json)
+
+[Extended Data](ext_articles/0aa71d23.ext.json)
+
+---
+
+### 21/4 attack;CID call to child
+
+*2024-11-12 08:21:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/21-4-தாக்குதல்-பிள்ளையானுக்கு-CID-அழைப்பு/150-346974) · `ta`
+
+Sum:0
+
+🟩
+
+Former State Minister Pillaiyan alias Sivanesathurai Chandrakanthan has been summoned to the Criminal Investigation Department today.
+
+The video, which aired on April 21, on September 6 last year, was reported to have been reported to have been reported to have been reported between Major General Suresh Saleh, the Director of the State Intelligence Unit and the alleged meeting between Major General Suresh Saleh and the April 21 bomb.
+
+The video was named as Channel 4 television.
+
+From 2005 to 2015, Channel 4 TV revealed that Sivanesathurai Chandrakanthan, the so -called Pillaiyan, has been aimed at the Rajapaksa's political opponents, targeting the political opponents of the Rajapaksa.
+
+The Criminal Investigation Department has begun investigations into the surrogate issues.
+
+The Submissions for this were filed yesterday by the Criminal Investigation Department of the Criminal Investigation Department.. Remble
+
+◼️
+
+[Data](articles/81e76dbd.json)
+
+[Extended Data](ext_articles/81e76dbd.ext.json)
+
+---
+
+### Introduction to the first peace period today
+
+*2024-11-12 08:09:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-அமைதி-காலம்-அறிமுகம்/175-346973) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Peace period begins tonight until election day. Campaigns ended yesterday. Candidates' offices must close by midnight. All election preparations complete for Nov 14 polls.
+
+🟩
+
+It has been announced that the peace period will be in effect from midnight to the day of the election, with campaigns on parliamentary elections yesterday (11).
+
+The Chairman of the Elections Commission, RMAL Ratnayake, said that the election offices set up by the candidates should be removed after midnight today.
+
+All proceedings for the parliamentary elections to be held on November 14 have now been prepared, the Election Commission said the Commission said.. Remble
+
+◼️
+
+[Data](articles/48401abb.json)
+
+[Extended Data](ext_articles/48401abb.ext.json)
+
+---
+
+### Court order to express 18 former Cabinet Ministers
+
+*2024-11-12 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203160) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Court orders statements from 18 former Cabinet ministers regarding substandard drug distribution. Magistrate Lokawickrama issues directive. Deputy Solicitor General Lakshitha Girihagama represents Attorney General.
+
+🟩
+
+Alleganda Magistrate Lokawickrama has been addressed the 18 Ministers who have been filed in the 18 Ministers of the Cabinet at the time of the distribution of substandard drugs.
+
+Former Minister of Health, Ranil Wickremesinghe, former Prime Minister Dinesh Gunawardena, former Prime Minister Tiran Alles, Roshan Fernando, Roshan Fernando, Roshan Fernando, Rhanadasa Rajapakse, Rahanadasa, Vijayadasa Rajapakse, Rahan Fernando, Rambukwella.The court has informed the court that they need to obtain statements from 18 to announced by the cabinet.
+
+Deputy Solicitor General Lakisitar General Lakessita Girihagama appearing on behalf of the Attorney General were requested by the Attorney General, and the Magistrate issued the order.
+
+◼️
+
+[Data](articles/f4bebc81.json)
+
+[Extended Data](ext_articles/f4bebc81.ext.json)
+
+---
+
+### Railway trafficking racket
+
+*2024-11-12 07:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203159) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Railway trafficking racket: Five suspects arrested for cash fraud and robbery. One suspect linked to massage service scam."
+
+🟩
+
+Five suspects and a suspect have been arrested by a cash fraud and robbery saying he was given a massage service.
+
+◼️
+
+[Data](articles/e307880f.json)
+
+[Extended Data](ext_articles/e307880f.ext.json)
+
+---
+
+### Today's windmill zone
+
+*2024-11-12 07:43:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-காற்றழுத்த-தாழ்வு-மண்டலம்/175-346971) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Low-lying zone forms SW Bengal Sea today. Thunderstorms expected in coming days. Heavy rainfall (>50mm) forecasted for Eastern, Central, Uva, Sabaragamuwa & Southern Provinces."
+
+🟩
+
+The Department of Meteorology has said that the low -lying low -lying zone is likely to be formed today in the southwestern Bengal Sea.
+
+Due to this, the Department of Meteorology has said that the favorable atmospheric condition of thunderstorms will be expected in the next few days in the next few days.
+
+Rainfall is expected in the Northern Province several times while rain or thunderstorms are likely in some places in the evening or night.
+
+In addition, more than 50 millimeters of heavy rains are likely to occur in some parts of the Eastern, Central, Uva, Sabaragamuwa and Southern Provinces, the Department of Weather forecast said.. (A)
+
+◼️
+
+[Data](articles/9875a6a0.json)
+
+[Extended Data](ext_articles/9875a6a0.ext.json)
+
+---
+
+### 4 suspects of Chunnakam police banned
+
+*2024-11-12 07:23:47* · [`adalk`](https://www.ada.lk/breaking_news/චුන්නාකම්-පොලීසියේ-4කගේ-වැඩ-තහනම්/11-412988) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"4 Chunnakam police officers suspended after accident investigation. Incident involved car chase & heated argument. Police Inspector General & 2 constables affected."
+
+🟩
+
+The Jaffna Police have said that four police officers of the Chunnakam police station in Jaffna after an investigation into an accident have been suspended.
+
+After a police accident in Chunnakam, the police officers were chased after the accident in the Chunnakam area.
+
+A group of men, including a person, had strongly objected against Chunnakam police.
+
+The department then investigated the police team to look into the incident, four police officers had been suspended.
+
+The police media spokesman's office said that a Police Inspector General of Chunnakam Police and two policemen constables said.
+
+"The vehicle was fled by a car accident. He had made the accusation that he had to attack him on a heated argument when he was trying to arrest him. Accordingly, four policemen have been investigating. "
+
+◼️
+
+[Data](articles/d22dd942.json)
+
+[Extended Data](ext_articles/d22dd942.ext.json)
+
+---
+
+### Sri Lankans refer to cyber bases in Myanmar
+
+*2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203157) · `si`
+
+Sri Lankans targeted by cyber scams in Myanmar. National Task Force warns of deception regarding overseas jobs. Scammers conduct interviews in Dubai, leading victims to Myanmar. Use legitimate recruitment methods. Report suspicious activities to 0112102570 or NAHTTFSRILANKA@Gmail.com.
+
+🟩
+
+The National Task Force warns that there is information about the sending Sri Lankans in the UAE in the UAE.
+
+The brigade says that most of the recently attractes Sri Lankan cases to the camps.
+
+In particular, the professionals are deceived saying that high-communicated people will be referred to employment in other countries.
+
+It is reported that some people are conducting interviews in Dubai and have been reported to be taken to Myanmar.
+
+Therefore, the National Task Force (JOB) says to use legitimate methods.
+
+Therefore, the National Task Force informs the National Task Force to provide information to the email addresses 0112102570, 0112102570, 076 844 7700 or NAHTTFSRILANKA@GMail.com.
+
+◼️
+
+[Data](articles/3329a472.json)
+
+[Extended Data](ext_articles/3329a472.ext.json)
+
+---
+
+### General elections have been completed
+
+*2024-11-12 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203158) · `si`
+
+Elections complete, propaganda ends. Electoral offices must close. Candidates' homes remain as offices but without decorations or campaigning. Preliminary arrangements ready. Approximately 6,000 delegates deployed.
+
+🟩
+
+The propaganda campaign ended at midnight yesterday (11).
+
+According to the Election Commission, no propaganda work will be carried out on the middle of the night last night and no propaganda activity could be done.
+
+The electoral offices of candidates should be removed after midnight today, he said.
+
+"The offices of candidates should remove all the offices located from the polling centers from the polling centers. Only the office has been set up to the division of parties and groups after midnight. And to set up one office for candidates from that day. Also, the candidate's house can be maintained as an office. But none of the ability to make any decorations or propaganda. "
+
+The Elections Commission states that all the preliminary arrangements have already been prepared on November 14, the Elections Commission said.
+
+Meanwhile, PAFFREL Executive Director Rohana Hettiarachchi said that about 6,000 delegates have decided to deploy the election.
+
+◼️
+
+[Data](articles/c88d9529.json)
+
+[Extended Data](ext_articles/c88d9529.ext.json)
+
+---
+
+### Permission to be expressed by the Prime Minister of the Prime Minister of Minor
+
+*2024-11-12 07:16:25* · [`adalk`](https://www.ada.lk/breaking_news/බාල-බෙහෙත්-සිද්ධියට-හිටපු-ජනපති-අගමැති-ඇතුළු-පැවැති-කැබිනට්-මණ්ඩලයෙන්-ප්‍රකාශ-ගන්න-අවසර/11-412987) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Prime Minister's permission granted for interrogation of Cabinet papers. Former Health Minister Keheliya Rambukwella presented Cabinet paper. Ministers involved: Dinesh Gunawardena, Douglas Devananda, Susil Premajayantha, Wijeyadasa Rajapakse, Ramesh Pathirana, Prasanna Ranatunga, Nalin Fernando, Nasan Ranasinghe, Jagath Pushpakumara. Case involves Ritocuppin drug shortage controversy. Deputy Solicitor General Lakdha Girihamaga accepts request. First suspect Sugath Janaka Fernando removed from case.
+
+🟩
+
+Maligakanda Magistrate Loku Abeywickrama Weerasinghe to interrogate the Cabinet paper to be interrogated by the Cabinet paper, who was approved by the Cabinet paper to be imported by the Cabinet paper.Yesterday (11) allowed.
+
+Former Minister of Health, Keheliya Rambukwella, who was presented to the Cabinet paper, Minister of Prime Minister Dinesh Gunawardena, who was presented by the Cabinet paper, Minister of Fisheries and Aviation Minister Nimal Siripala, Fisheries and Aquatic ResourcesDaglas Devananda, Minister of Education Susil Premajans, Minister of Transport and Highways, Minister of Justice Wijeyadasa Rajapakse, Health Minister Ramesh Pathirana,
+
+Urban Development Minister Prasanna Ranatunga, Minister of Power and Culture Minister of Power and Culture, Minister of Environment, Minister of Environment, Sports and Youth Minister Nalin Fernando and Labor Minister Nasan Ranasinghe and LaborAnd the Magistrate also allowed State Minister Jagath Pushpakumara about foreign employment.
+
+...
+
+[Data](articles/48c9ea7d.json)
+
+[Extended Data](ext_articles/48c9ea7d.ext.json)
+
+---
+
+### The train starting from today
+
+*2024-11-12 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203156) · `si`
+
+Train service resumes Colombo Fort to Talamannar today. Trains depart Colombo Fort at 12:15 PM, arrive Talamannar at 22:15. Return journey from Talamannar at 23:11, arrive Colombo Fort at 10:15 on 23/11/2011.
+
+🟩
+
+The train service between Colombo Fort to Talamannar will be resumed today (12), the Railway Department said.
+
+The department stated that steps have been made to start a train operation of the Talamannawara road, which has been temporarily temporarily incurred between Mahawa and Anuradhapura.
+
+Accordingly, the following trains will be operated between Colombo and Talamannar.
+
+From 12.11.2011 - Departure of Colombo Fort. 16.15 Talamannar reaching up. 22.15
+
+Talamanna Mannar road from 23.11.11. 04.15 Colombo Fort. 10.15
+
+◼️
+
+[Data](articles/f2e6a824.json)
+
+[Extended Data](ext_articles/f2e6a824.ext.json)
+
+---
+
+### Sujeewa's V8 handed over to court
+
+*2024-11-12 06:15:27* · [`adalk`](https://www.ada.lk/breaking_news/සුජීවගේ-V8-රථය-අධිකරණයට-භාර-දෙයි/11-412985) · `si`
+
+Sujeewa Senasinghe, National Organizer of Sivawa Senasinghe, handed over V8 luxury car to court after police investigation.
+
+🟩
+
+According to Police, Sujeewa Senasinghe, the National Organizer of the Sivawa Senasinghe, was brought to the Criminal Investigation Department yesterday (11), about Rs.
+
+Mr. Sujeewa Senasinghe has been appointed to destroy the V-8 luxury car and hides it, Mr. Senasinghe has been appointed to court and submit the vehicle immediately to the court.It is reported that the CID has been brought to the Department of Investigations.
+
+◼️
+
+[Data](articles/12e81235.json)
+
+[Extended Data](ext_articles/12e81235.ext.json)
+
+---
+
+### A change in weather from tomorrow
+
+*2024-11-12 06:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203154) · `si`
+
+Weather alert: Low pressure zone forming over Bay of Bengal. Heavy rains expected in Northern Province, Eastern, Central, Uva, Sabaragamuwa, Southern Provinces from Nov 13. Thunderstorms possible with strong winds and lightning. Public advised to take precautions.
+
+🟩
+
+The Meteorological Department says that the Bay of Bay of Bengal is capable of building a low pressure zone today (12).
+
+The department states that in many parts of the island in many parts of the island, the intense atmospheric objective of thundershowers will be expected in the next few days from November 13.
+
+Showers will occur in the Northern Province and showers at several places in the evening or night during the evening.
+
+MM on the Eastern, Central, Uva, Sabaragamuwa, and Southern Provinces. Heavy rains experience more than 50.
+
+The Department of Meteorology will be held in some places in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
+
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/829dbf99.json)
+
+[Extended Data](ext_articles/829dbf99.ext.json)
+
+---
+
+### State attention to relief to SMEs
+
+*2024-11-12 05:51:46* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-කර්මාන්තවලට-සහන-ලබා-දීමට-රජයේ-අවධානය/11-412984) · `si`
+
+SME relief efforts discussed, including Parate Execution law implementation deadline, banking sector support, and SME debt report preparation.
+
+🟩
+
+Hon..
+
+Discussions were discussed at the discussion due to the problems faced by SMEs.
+
+පරාටේ නීතිය (Parate Execution) ක්‍රියාත්මක කිරීම මේ වන විට අත්හිටුවා ඇති අතර  එය ලබන දෙසැම්බර් මස 15වන දා කල් ඉකුත් වීමට නියමිතය.  ඒ සම්බන්ධයෙන් ගත යුතු ඉදිරි පියවර පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානය යොමු විය.
+
+The assistorary support to the banking sector to enhance the production capability of the economy is also discussed at length in the discussion.
+
+The discussion also decided to prepare a report on the debt obtained by the SMEs by the SMEs.
+
+මේ වන විට බැංකු විසින් පරාටේ නීතිය යටතේ සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන්ට ලබා දී තිබෙන ණය නැවත අය කර ගැනීම තාවකාලික අත්හිටුවා ඇති අතර ඒ සම්බන්ධයෙන් ඉදිරි පියවර ගැනීම සම්බන්ධයෙන්ද  මෙහිදී සාකච්ඡා කෙරිණි.
+
+◼️
+
+[Data](articles/87e437f4.json)
+
+[Extended Data](ext_articles/87e437f4.ext.json)
+
+---
+
+### Kelly Fraser: The British girl told the world about Sri Lanka's struggle
+
+*2024-11-12 04:22:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crr9e72kd5eo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+British girl Kelly Fraser exposed Sri Lanka's struggles. Her visa was cancelled in 2022. She faced legal issues and sexual abuse allegations. Her lawyer sought presidential intervention for her rights.
+
+🟩
+
+Kelly Fraser: The British girl told the world about Sri Lanka's struggle
+
+Some political commentators have called the current President to be powerful as the current president of the struggle, the BBC observes in a two-year-old girl who has been impossible to return to their homeland in Sri Lanka for more than two years in a foreign young man who has been impiired by the authorities.Was
+
+The Department of Immigration and Emigration (Immigration and Emigration) said that the British Kelly Fraser's Visa has been canceled since August 15, 2022.
+
+She had decided to deportate her Sri Lankans accusing of violating immigration laws.
+
+The Department of Immigration and Emigration had said that after a investigation by the Immigration and Emigration Department, after investigating the struggle about the struggle, the Department of Immigration and Emigration has said.
+
+The petition filed by the Supreme Court of the 20th lakhs was ordered to pay a case of Rs.
+
+...
+
+[Data](articles/f675d3a9.json)
+
+[Extended Data](ext_articles/f675d3a9.ext.json)
+
+---
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/opinion/Towards-building-a-digital-tourism-fortress/14-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/72248de9.json)
+
+[Extended Data](ext_articles/72248de9.ext.json)
+
+---
+
+### Towards building a digital tourism fortress
+
+*2024-11-12 03:58:13* · [`dailyftlk`](https://www.ft.lk/columns/Towards-building-a-digital-tourism-fortress/4-769154) · `en`
+
+Tourism stands as a cornerstone of the Sri Lankan economy, drawing visitors from across the globe to experience its diverse landscapes and cultural heritage. The traveller entry system to the country serves as a gateway, streamlining arrivals and boosting tourism revenue. However, the efficiency and convenience of this system must be balanced with robust security measures since the country’s framework of managing its borders processes vast amounts of sensitive data.
+
+As Sri Lanka prioritises seamless tourist services and experiences, safeguarding its systems from digital threats become increasingly important.
+
+...
+
+[Data](articles/e606713e.json)
+
+[Extended Data](ext_articles/e606713e.ext.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/columns/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/4-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/0bc219d6.json)
+
+[Extended Data](ext_articles/0bc219d6.ext.json)
+
+---
+
+### Why recall Ambassador Udaya Indrarathna? Diplomatic asset for Sri Lanka
+
+*2024-11-12 03:56:01* · [`dailyftlk`](https://www.ft.lk/opinion/Why-recall-Ambassador-Udaya-Indrarathna-Diplomatic-asset-for-Sri-Lanka/14-769153) · `en`
+
+The recent recall of Ambassador Udaya Indrarathna from his post in Abu Dhabi has sparked questions about the criteria used to define “political appointees.” Widely regarded as one of Sri Lanka’s most effective ambassadors, Indrarathna has garnered respect as a skilled diplomat and earned a reputation as one of the top diplomats in the United Arab Emirates. Many even consider him worthy of the title “Dean of Ambassadors,” recognising his exceptional service and influence in the region.
+
+Throughout his career, Indrarathna has exemplified dedication and integrity, bringing his vast expertise, influential connections, and strategic vision to the forefront of Sri Lanka’s international representation. He has strengthened diplomatic ties and secured critical funding for Sri Lanka, achievements that underline his impact. In a short period, he has elevated Sri Lanka’s profile within the Middle East, a region where his extensive network has proven invaluable.
+
+...
+
+[Data](articles/ddf3bea9.json)
+
+[Extended Data](ext_articles/ddf3bea9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 20:12:59**
+As of **2024-11-12 20:25:26**
 
 ## Newspaper Stats
 
-*Scraped **54,461** Articles*
+*Scraped **54,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ adalk | 5,094
 adaderanalk | 6,498
 tamilmirrorlk | 7,619
 virakesarilk | 8,837
-adaderanasinhalalk | 9,502
+adaderanasinhalalk | 9,503
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,461 (100.0%) of 54,461 articles have been extended.
+54,461 (100.0%) of 54,462 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
+
+### දෙසැ 30ට පෙර ගිනිඅවි භාරදෙන්නැයි දැනුම්දෙයි
+
+*2024-11-12 20:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203187) · `si`
+
+පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට, පළාත් සභා මන්ත්‍රීවරුන්ට, විවිධ දේශපාලන පක්‍ෂ නායකයින්ට, දේශපාලන සංවිධානවලට මෙන්ම විවිධ තනතුරු දැරූ රජයේ විධායක නිලධාරීන්ට ජීවිත ආරක්‍ෂාව සඳහා නිකුත්කර තිබු ගිනිඅවි 2024 දෙසැම්බර් මස 30 වනදාට පෙර ළඟම තිබෙන පොලීසිය වෙත භාරදීමට කටයුතු කරන ලෙස ආරක්‍ෂක අමාත්‍යාංශය අදාළ පුද්ගලයින් වෙත දැනුම්දෙයි.
+
+◼️
+
+[Data](articles/520216a4.json)
+
+---
 
 ### Notification from the Department of Registration of Persons
 
@@ -2547,33 +2559,5 @@ Former President Ranil Wickremesinghe participated at the final New Democratic F
 [Data](articles/67ba972b.json)
 
 [Extended Data](ext_articles/67ba972b.ext.json)
-
----
-
-### University student falls by train
-
-*2024-11-12 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203164) · `si`
-
-A 21-year-old university student fell off a train at Haputale Railway Station. She was severely injured, particularly her left leg. The victim is being treated at a hospital, and police are investigating the incident.
-
-🟩
-
-The girl was severely injured in the Haputale Railway Station this morning (12).
-
-The girl was from Colombo Fort to Badulla and the night mail train.
-
-The victim was a 21 year old, a 21 year old resident of the Rathgama Misswila, Araliya Uyana Maduna Misswila.
-
-She had been down at 6.30 am, while he had stopped train at Haputale station around 6.30 am, while he had stopped train at Haputale.
-
-With the fall of the fall, her left foot has traveled on the heels of her left leg, and it has severely injured.
-
-The victim has been admitted to the Diyatalawa road for treatment and the Haputale police are conducting further investigations.
-
-◼️
-
-[Data](articles/4e661337.json)
-
-[Extended Data](ext_articles/4e661337.ext.json)
 
 ---

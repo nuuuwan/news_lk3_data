@@ -1,126 +1,214 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-12 10:00:15**
+As of **2024-11-12 10:41:02**
 
 ## Newspaper Stats
 
-*Scraped **54,349** Articles*
+*Scraped **54,354** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
-bbccomsinhala | 554
+bbccomsinhala | 555
 colombotelegraphcom | 555
 islandlk | 3,254
 economynextcom | 3,290
-dailyftlk | 3,725
+dailyftlk | 3,726
 dailymirrorlk | 4,733
-adalk | 5,081
+adalk | 5,082
 adaderanalk | 6,483
-tamilmirrorlk | 7,592
+tamilmirrorlk | 7,593
 virakesarilk | 8,814
-adaderanasinhalalk | 9,482
+adaderanasinhalalk | 9,483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,343 (100.0%) of 54,349 articles have been extended.
+54,350 (100.0%) of 54,354 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-12 (Tuesday)
 
-### සරසවි සිසුවියක් දුම්රියෙන් ඇද වැටෙයි
+### අවසන් රැලියේ දී රිෂාඩ්ගේ සහ මස්තාන්ගේ ආධාරකරුවන් යකා නටයි
+
+*2024-11-12 10:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203165) · `si`
+
+හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතාගේ හා හිටපු රාජ්‍ය අමාත්‍ය කාදර් මස්තාන් මහතාගේ ආධාරකරුවන් අතර ගැටුමක් හට ගෙන තිබේ.
+
+ඊයේ (11) රාත්‍රියේ වවුනියාව, පට්ටාන්ච්චිචූර් ප්‍රදේශයේ ඇති වූ එම ගැටුමෙන්  පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා ඇති බව වවුනියාව පොලීසිය පවසයි.
+
+හිටපු රාජ්‍ය අමාත්‍ය කාදර් මස්තාන් මහතාගේ අවසන් ප්‍රචාරණ රැලිය පට්ටාන්ච්චිචූර් ප්‍රදේශයේ පැවති අතර, හිටපු අමාත්‍ය රිෂාඩ් බදියුදීන් මහතාගේ ප්‍රචාරණ රැස්වීමක්ද අදාළ ප්‍රදේශයේ පැවැත්වීමට නියමිතව තිබුණි.
+
+රැස්වීම වෙනුවෙන් රිෂාඩ් බදියුදීන් මහතා හා ඔහුගේ ආධාරකරුවන් ගමන් කරමින් සිටියදී මස්තාන් මහතාගේ ආධාරකරුවන් රිෂාඩ් බදියුදීන් මහතා ගමන්ගත් වාහනය වෙත පහරදී තිබේ.
+
+අදාළ අවස්ථාවේ ආධාරකරුවන් දෙපාර්ශවය අතර ගැටුමක් හටගෙන ඇති අතර,වවුනියාව පොලීසිය හා නෙලුක්කුලම පොලීසිය මැදිහත්ව ගැටුම සමතයකට පත්කර ඇත.
+
+ගැටුම අතරතුර පුද්ගලයින් දෙදෙනෙකු තුවාල ලබා වවුනියාව රෝහලට ඇතුළත් කළ අතර, දෙපාර්ශවයේම වාහන කිහිපයකට හානි සිදුව ඇති බවද පොලීසිය සඳහන් කළේය.
+
+...
+
+[Data](articles/a8ed0c69.json)
+
+---
+
+### இயற்கை எரிவாயுவின் விலையில் மாற்றம்
+
+*2024-11-12 10:19:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இயற்கை-எரிவாயுவின்-விலையில்-மாற்றம்/50-346978) · `ta`
+
+உலக சந்தையில் இயற்கை எரிவாயுவின் விலை இன்றைய தினம் 2.928 அமெரிக்க டொலராக அதிகரிப்பைப் பதிவு செய்துள்ளது
+
+உலக சந்தையில் WTI ரக மசகு எண்ணெய் பீப்பாய் ஒன்றின் விலை 68.21 அமெரிக்க டொலராக வீழ்ச்சியைப் பதிவு செய்துள்ளது.
+
+அத்துடன் பிரெண்ட் ரக மசகு எண்ணெய் பீப்பாய் ஒன்றின் விலை 71.83 அமெரிக்க டொலராக நிலவுகிறது. R
+
+◼️
+
+[Data](articles/4c589372.json)
+
+---
+
+### Ranil Wickremesinghe participates at final NDF rally
+
+*2024-11-12 10:18:11* · [`dailyftlk`](https://www.ft.lk/news/Ranil-Wickremesinghe-participates-at-final-NDF-rally/56-769155) · `en`
+
+Former President Ranil Wickremesinghe participated at the final New Democratic Front (NDF) rally in Colombo yesterday. Here Wickremesinghe is seen in conversation with several of the Colombo district candidates from the NDF – Pic by Pradeep Pathirana
+
+◼️
+
+[Data](articles/67ba972b.json)
+
+---
+
+### University student falls by train
 
 *2024-11-12 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203164) · `si`
 
-දුම්රියේ ගමන් ගත් තරුණියක් අද (12) උදෑසන හපුතලේ දුම්රිය ස්ථානයේ දී ඇද වැටීමෙන් බරපතළ තුවාල ලබා ඇතැයි හපුතලේ පොලීසිය පවසයි.
+A 21-year-old university student fell off a train at Haputale Railway Station. She was severely injured, particularly her left leg. The victim is being treated at a hospital, and police are investigating the incident.
 
-කොළඹ කොටුව සිට බදුල්ල බලා ගමන් කරමින් තිබු අංක 1045 දරණ රාත්‍රි තැපැල් දුම්රියේ එම තරුණිය සිට ඇත.
+🟩
 
-එලෙස අනතුරට ලක්ව ඇත්තේ, අරලිය උයන මාවඩවිල, රත්ගම ලිපිනයේ පදිංචි 21 හැවිරිදි විශ්වවිද්‍යාල සිසුවියක බව පොලීසිය පැවසීය.
+The girl was severely injured in the Haputale Railway Station this morning (12).
 
-ඇල්ල ප්‍රදේශයේ සංචාරයක් සඳහා ඇය ඇතුළු 18 දෙනෙකු පැමිණෙමින් සිටියදී උදෑසන 6.30ට පමණ හපුතලේ දුම්රිය ස්ථානයේ දුම්රිය නැවැත්වු අවස්ථාවේ දී ඉන් බැස ඇති අතර, නැවත දුම්රිය ගමන් ගන්නා අවස්ථාවේ දී එයට ගොඩවීමට යාමේදී තරුණිය ඉන් ඇද වැටී තිබේ.
+The girl was from Colombo Fort to Badulla and the night mail train.
 
-ඇද වැටීමත් සමග ඇගේ වම් පාදයේ විලුබ මතින් දුම්රිය ගමන් කර ඇති අතර, ඒ හේතුවෙන් බරපතළ තුවාල සිදුව ඇතැයි පොලීසිය පැවසීය.
+The victim was a 21 year old, a 21 year old resident of the Rathgama Misswila, Araliya Uyana Maduna Misswila.
 
-අනතුරට ලක්වූ තරුණියව කඩිනමින් ප්‍රතිකාර සඳහා දියතලාව මුලික රෝහලට ඇතුළත් කර ඇති අතර, හපුතලේ පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+She had been down at 6.30 am, while he had stopped train at Haputale station around 6.30 am, while he had stopped train at Haputale.
+
+With the fall of the fall, her left foot has traveled on the heels of her left leg, and it has severely injured.
+
+The victim has been admitted to the Diyatalawa road for treatment and the Haputale police are conducting further investigations.
 
 ◼️
 
 [Data](articles/4e661337.json)
 
+[Extended Data](ext_articles/4e661337.ext.json)
+
 ---
 
-### පොලීසිය සමග ගැටුමකින් ඉන්දියාවේ කැරලිකරුවන් 10ක් මරුට
+### 10 rebels killed in clash with police
 
 *2024-11-12 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203163) · `si`
 
-පොලීසිය සමග හටගත් ගැටුමකින් ඉන්දියාවේ මනිපූර් ප්‍රදේශයේ දී කුකී කැරලිකරුවන් 10 දෙනෙකු මියගොස් තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ මෙම ගැටුමෙන් ඉන්දියාවේ මධ්‍යම පොලිස් බළකායේ සෙබලෙකු තුවාල ලබා ඇති බවය.
 
-මනිපූර්හි, ජිරිබාම් දිස්ත්‍රික්කයේ පොලිස් ස්ථානයකට කැරලිකරුවන් පිරිසක් ප්‍රහාරයක් එල්ල කිරීමට පැමිණි අවස්ථාවේ මෙම ගැටුම හටගෙන තිබේ.
 
-මෙම ගැටුමෙන් අනතුරුව පොලීසිය සිදුකළ සෝදිසි මෙහෙයුමක දී ඒ.කේ 47 වර්ගයේ ගිනිඅවි කිහිපයක් සහ ආර්.පී.ජී අවියක් ද සොයාගත් බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Clash between rebels and police in Manipur, India: 10 rebels killed, troops injured. Police claim recovery of STF and RPG weapons. Foreign media reports central police force involvement.
+
+🟩
+
+Troops of the clash killed in a clash with the police in Manipur, India.
+
+Foreign media reports that a central police force in India was injured in the clash.
+
+The clash had broke out when a group of insurgents were attacked by a police station in Manipur, Manipur.
+
+According to the police, several STF and RPG weapons were recovered following the clash.
 
 ◼️
 
 [Data](articles/517a6824.json)
 
+[Extended Data](ext_articles/517a6824.ext.json)
+
 ---
 
-### ඇෆ්ගනිස්ථානය ඉදිරියේ බංගලියන් දණනමයි
+### Bingalli knees before Afghanistan
 
 *2024-11-12 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203162) · `si`
 
-සංචාරක බංග්ලාදේශ කණ්ඩායමට එරෙහි අවසන් සහ තුන්වන එක්දින තරගය කඩුලු 5කින් ජය ගැනීමට ඇෆ්ගනිස්ථාන කණ්ඩායම සමත්ව තිබේ.
+Afghanistan wins ODI series 2-1 over Bangladesh.
 
-තරගයේ පළමුවෙන් පන්දුවට පහරදුන් බංග්ලාදේශ කණ්ඩායම නියමිත පන්දුවාර 50 තුළ කඩුලු 8ක් දැවී ලකුණු 244ක් ලබාගත්තේය.
+🟩
 
-පිළිතුරු ඉනිම ක්‍රීඩාකළ ඇෆ්ගනිස්ථාන කණ්ඩායම පන්දුවාර 48යි පන්දු 2ක් තුළ කඩුලු 5ක් පමණක් දැවී ජයග්‍රාහී ඉලක්කය පසු කළේය.
+The Afghan group has been able to win the final and third ODI against the Tourist Bangladesh team by 5 wickets.
 
-ඒ අනුව දෙරට පැවති එක්දින තරගාවලිය දෙකට එකක් ලෙස ජයගැනීමට ඇෆ්ගනිස්ථාන කණ්ඩායම සමත් වුණි.
+Bangladesh scored 244 runs for the loss of 8 wickets in their eight overs.
+
+In reply, Afghanistan marked the target of 48 overs and 5 wickets in 5 overs.
+
+Accordingly, the Afghan group was able to win the two ODIs.
 
 ◼️
 
 [Data](articles/4b197f71.json)
 
+[Extended Data](ext_articles/4b197f71.ext.json)
+
 ---
 
-### தரமற்ற மருந்து விநியோகம் ; 18 முன்னாள் அமைச்சர்களிடம் வாக்கு மூலம் பதிவு செய்ய நீதிமன்றம் உத்தரவு
+### Non -standard drug distribution;Court order to register by voting for 18 former ministers
 
 *2024-11-12 09:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198476) · `ta`
 
-அரசாங்க வைத்தியசாலைகளுக்கு தரமற்ற மருந்துகளை விநியோகித்தமை தொடர்பில் தாக்கல் செய்யப்பட்ட வழக்கு  தொடர்பில் 18 முன்னாள் அமைச்சர்களிடம் வாக்கு மூலம் பதிவு செய்யுமாறு மாளிகாகந்த நீதவான் லோச்சனி அபேவிக்ரம உத்தரவிட்டுள்ளார்.
+Here's a summary in 200 characters:
 
-கெஹெலிய ரம்புக்வெல்ல சமர்ப்பித்த அமைச்சரவை பத்திரத்திற்கு அமைச்சரவையில் அங்கம் வகித்த முன்னாள் ஜனாதிபதி ரணில் விக்ரமசிங்க, முன்னாள் பிரதமர் தினேஷ் குணவர்தன, முன்னாள் அமைச்சர்களான திரான் அலஸ், மஹிந்த அமரவீர, விஜயதாச ராஜபக்ஷ, ஹரின் பெர்னாண்டோ, ரொஷான் ரணசிங்க, நிமல் சிறிபால மற்றும் அமைச்சரவையை பிரதிநிதித்துவப்படுத்திய 18 பேரிடம் வாக்கு மூலங்களைப் பெறுவது அவசியம் என நீதிமன்றத்தில் தெரிவிக்கப்பட்டுள்ளது.
 
-மேலும், சட்டமா அதிபர் சார்பில் ஆஜரான பிரதி சொலிசிட்டர்  ஜெனரல் மிஸ் லக்மினி கிரிஹாகம, இந்த விடயம்  தொடர்பில் மாளிகாகந்த நீதிமன்றில் உத்தரவு பிறப்பிக்குமாறு கோரியதையடுத்து, அதற்கு அனுமதியளித்து நீதவான் இந்த உத்தரவைப் பிறப்பித்துள்ளார்.
+
+Court orders 18 ex-ministers to register over substandard drug distribution to hospitals. Former leaders including Wickremesinghe and Gunawardena named. Attorney General seeks legal action.
+
+🟩
+
+Magistrate Lochani Abeywickrama has ordered 18 former ministers to register with the vote in connection with the distribution of substandard drugs to government hospitals.
+
+Former President Ranil Wickremesinghe, former Prime Minister Dinesh Gunawardena, former Prime Minister Dinesh Gunawardena, former ministers Thon Alas, Mahinda Amaraweera, Vijayadasa Rajapaksa, Harin Fernando, Roshan Ranasinghe, Nimal Siripala and Nimal Siripala, were a member of the Cabinet.
+
+In addition, Deputy Solicitor General Miss Lakmini Girihagama, appearing on behalf of the Attorney General, requested the Magistrate to issue an order in the court on the issue.
 
 ◼️
 
 [Data](articles/8ec590f5.json)
 
+[Extended Data](ext_articles/8ec590f5.ext.json)
+
 ---
 
-### பொதுத் தேர்தலை கண்காணிக்க 20க்கும் மேற்பட்ட வெளிநாட்டு தேர்தல் கண்காணிப்பாளர்கள்
+### More than 20 foreign election monitors to monitor the general election
 
 *2024-11-12 09:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198477) · `ta`
 
-எதிர்வரும் 14 ஆம் திகதி நடைபெறவுள்ள பொதுத் தேர்தலை கண்காணிப்பதற்காக 20க்கும் மேற்பட்ட வெளிநாட்டு தேர்தல் கண்காணிப்பாளர்கள் பங்கேற்கவுள்ளதாக தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
+Over 20 foreign election observers will monitor Sri Lanka's general election on the 14th. The Election Commission invited monitors from South Asia and countries like Russia and Thailand. International Superintendents have also begun their duties.
 
-அதில் தெற்காசிய நாடுகளின் தேர்தல் கண்காணிப்பாளர்களும் அடங்குவதாக தேர்தல்கள் ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க தெரிவித்துள்ளார்.
+🟩
 
-தேசிய தேர்தல்கள் ஆணைக்குழுவின் அழைப்பின் பேரில் மேலதிகமாக 10 வெளிநாட்டு தேர்தல் கண்காணிப்பாளர்கள் இலங்கை வரவுள்ளனர், இதில் ரஷ்யா மற்றும் தாய்லாந்து போன்ற நாடுகளின் கண்காணிப்பாளர்கள் உள்ளனர்.
+More than 20 foreign election monitors will participate in monitoring the upcoming general election on the 14th, the Election Commission said.
 
-இதேவேளை, The Asian Network for Free Elections (ANFREL) சர்வதேச கண்காணிப்பாளர்கள் குழு நேற்று தேர்தல்கள் ஆணைக்குழுவின் அதிகாரிகளை சந்தித்து தமது தேர்தல் கண்காணிப்பு கடமைகளை ஆரம்பித்துள்ளனர்.
+Elections Commission Chairman RMAL Ratnayake said that it includes election superintendents of South Asian countries.
+
+At the invitation of the National Elections Commission, 10 foreign election monitors are coming to Sri Lanka, including monitors from countries such as Russia and Thailand.
+
+Meanwhile, a group of International Superintendents (Anfrel) International Commission of Elections Commission yesterday started their election monitoring duties.
 
 ◼️
 
 [Data](articles/b8fa3ca3.json)
+
+[Extended Data](ext_articles/b8fa3ca3.ext.json)
 
 ---
 
@@ -527,6 +615,58 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/829dbf99.json)
 
 [Extended Data](ext_articles/829dbf99.ext.json)
+
+---
+
+### සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන ලබා දීමට රජයේ අවධානය
+
+*2024-11-12 05:51:46* · [`adalk`](https://www.ada.lk/breaking_news/සුළු-හා-මධ්‍ය-පරිමාණ-කර්මාන්තවලට-සහන-ලබා-දීමට-රජයේ-අවධානය/11-412984) · `si`
+
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තවලට සහන ලබා දීම සම්බන්ධයෙන්  මූල්‍ය සහ ආර්ථික කටයුතු පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ අතිරේක ලේකම් ජී.එන්.ආර්.ඩී අපොන්සු මහතා සහ ශ්‍රී ලංකා බැංකු සංගමය, මුදල් අමාත්‍යාංශය හා ශ්‍රී ලංකා  මහා බැංකුවේ නිලධාරීන් අතර සාකච්ඡාවක් ජනාධිපති කාර්යාලයේදී ඊයේ (11දා) පැවැත්විණි.
+
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් ණයගැතිභාවය නිසා මුහුණ දෙන ගැටලු පිළිබඳ මෙහිදී සාකච්ඡා කෙරිණි.
+
+පරාටේ නීතිය (Parate Execution) ක්‍රියාත්මක කිරීම මේ වන විට අත්හිටුවා ඇති අතර  එය ලබන දෙසැම්බර් මස 15වන දා කල් ඉකුත් වීමට නියමිතය.  ඒ සම්බන්ධයෙන් ගත යුතු ඉදිරි පියවර පිළිබඳවද මෙම සාකච්ඡාවේදී අවධානය යොමු විය.
+
+ආර්ථිකයේ නිෂ්පාදනය හැකියාව වර්ධනය කිරීම සඳහා බැංකු අංශයට ලබා දිය හැකි සහායද, මේ වන විට සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් ලබා ගෙන ඇති ණය සම්බන්ධවද මෙම සාකච්ඡාවේදී දීර්ඝ ලෙස සාකච්ඡා කෙරිණි.
+
+සුළු හා මධ්‍ය පරිමාණ කර්මාන්තකරුවන් විසින් බැංකුවලින් ලබා ගත් ණය සම්බන්ධ වාර්තාවක් සකස් කිරීමටද මෙම සාකච්ඡාවේදී තීරණය විය.
+
+...
+
+[Data](articles/87e437f4.json)
+
+---
+
+### Kelly Fraser: The British girl told the world about Sri Lanka's struggle
+
+*2024-11-12 04:22:00* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crr9e72kd5eo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+British girl Kelly Fraser exposed Sri Lanka's struggles. Her visa was cancelled in 2022. She faced legal issues and sexual abuse allegations. Her lawyer sought presidential intervention for her rights.
+
+🟩
+
+Kelly Fraser: The British girl told the world about Sri Lanka's struggle
+
+Some political commentators have called the current President to be powerful as the current president of the struggle, the BBC observes in a two-year-old girl who has been impossible to return to their homeland in Sri Lanka for more than two years in a foreign young man who has been impiired by the authorities.Was
+
+The Department of Immigration and Emigration (Immigration and Emigration) said that the British Kelly Fraser's Visa has been canceled since August 15, 2022.
+
+She had decided to deportate her Sri Lankans accusing of violating immigration laws.
+
+The Department of Immigration and Emigration had said that after a investigation by the Immigration and Emigration Department, after investigating the struggle about the struggle, the Department of Immigration and Emigration has said.
+
+The petition filed by the Supreme Court of the 20th lakhs was ordered to pay a case of Rs.
+
+...
+
+[Data](articles/f675d3a9.json)
+
+[Extended Data](ext_articles/f675d3a9.ext.json)
 
 ---
 
@@ -2074,23 +2214,35 @@ The Ministry says that the main objective is to create legal and economic resour
 
 ---
 
-### ලොකු ලූණු හා අර්තාපල් මිල ඉහළට
+### The price of big onions and potatoes up
 
 *2024-11-11 18:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-ලූණු-හා-අර්තාපල්-මිල-ඉහළට/11-412978) · `si`
 
-ඇතැම් ප්‍රදේශවල ලොකු ලූනු කිලෝවක හා අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් හාරසියයත් රුපියල් හාරසිය විස්සත් දක්වා ඉහළ ගොස් තිබේ. මීට අමතරව විදේශ රටවලින් ගෙන්වූ හොඳ තත්ත්වයේ ලොකු ලූනු කිලෝවක සිල්ලර මිල රුපියල් 340ත් රුපියල් 360ත් දක්වා ඉහළ ගොස් තිබේ.
+Vegetable prices surge: onions (Rs. 340-360/kg), potatoes (Rs. 200-360/kg), coconuts (rising). Farmer difficulties due to low returns. Local stock depletion affecting markets.
 
-එහෙත් විදේශ රටවලින් ගෙන්වූ අර්තාපල් කිලෝවක සිල්ලර මිල රුපියල් 200ත් රුපියල් 220ත් අතර මිලක පවතී.
+🟩
 
-සමහර ප්‍රදේශවල පොල් ගෙඩියක සිල්ලර මිල රුපියල් 180ක් දක්වා ඉහළ ගොස් තිබෙන අතර, ලොකු පොල් ගෙඩියක තොග මිල පවා රුපියල් 150ත් රුපියල් 160ත් අතර මිලක් ගෙන තිබේ.
+In some areas, the retail price of a kilogram and potatoes of a kilogram of potatoes have risen to Rs.. In addition, a kilogram of kilograms of a large ground onion imported from foreign countries has risen to Rs. 340 and Rs. 360.
 
-දේශීය ලොකු ලූනු, අර්තාපල්, පොල් මිල ඉහළ ගියත් කැරට්, ලීස්, ගෝවා, රාබු ඇතුළු එළවළු වර්ග සැලකිය යුතු ප්‍රමාණයක් කිලෝවක තොග මිල රුපියල් 100ත් රුපියල් 150ත් දක්වා පහත වැටී තිබෙන අතර, මේ නිසා ගොවිජනතාව දැඩි දුෂ්කරතාවන්ට පත්ව සිටින බව ගොවි සංවිධාන සඳහන් කරයි.
+But the retail price of a kilo of potatoes imported from foreign countries is priced between Rs. 200 and Rs.
 
-මේ පිළිබඳව ‘අද’ සීමාසහිත සමස්ත ලංකා ඒකාබද්ධ විශේෂිත ආර්ථික මධ්‍යස්ථාන හා මැනිං වෙළෙඳ සමිතියේ ජාතික සංවිධායක එච්.එම්. උපසේන මහතාගෙන් විමසීමක් සිදුකළේය.
+In some areas, the retail price of a coconut prices rose to Rs.
+
+The number of vegetables including carrots, potatoes, potatoes, carrots, cabbage, radish, the farmer organizations said that the farmer organizations have been severely difficult.
+
+All Ceylon Integrated Specialized Economic Centers and Manning Trade Society Ltd.. Idessa was inquired from Mr. Master.
+
+The National Organizer said that the local big onion stocks have been reduced to the market.
+
+In addition, coconut consignment receipts have also been reduced and the consignment of coconut is in a large number of Rs. 150 and Rs 160.
+
+The cost of a kilogram of carrots is reduced to Rs.
 
 ...
 
 [Data](articles/8ccf191d.json)
+
+[Extended Data](ext_articles/8ccf191d.ext.json)
 
 ---
 
@@ -2185,135 +2337,5 @@ Attendees examined ways for the banking sector to provide additional support to 
 [Data](articles/17072968.json)
 
 [Extended Data](ext_articles/17072968.ext.json)
-
----
-
-### Four people wound
-
-*2024-11-11 17:47:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்தூக்கி-விழுந்ததில்-நால்வர்-காயம்/175-346947) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"4 injured in Grandpass police incident: Constable & 3 others hospitalized after police fall during birthday party investigation."
-
-🟩
-
-Grandpass police said that four others, including the Grandpass police constable, were admitted to the Colombo National Hospital after the Grandpass police fell in the Grandpass Mudura Apartments Complex.
-
-Police said that the constable of Grandpass police was undergoing treatment at the Colombo National Hospital after being severely injured.
-
-According to a telephone call from a police sergeant who was on the night patrol of the Grandpass police, people on the 5th floor of the house held a birthday party on Sunday (10).
-
-Investigations have been found that the birthday party was celebrated, with the inquiries that the police rushed there, on the fourth floor, on the fourth floor, after revealing the birthday party.
-
-◼️
-
-[Data](articles/57b81d42.json)
-
-[Extended Data](ext_articles/57b81d42.ext.json)
-
----
-
-### The BRICS application has not been rejected
-
-*2024-11-11 17:46:34* · [`adalk`](https://www.ada.lk/breaking_news/බ්‍රික්ස්-අයදුම්පත-ප්‍රතික්ෂේප-වෙලා-නෑ/11-412977) · `si`
-
-Sri Lanka's BRICS application status: Not rejected. External Affairs Ministry denies rejection claims. Application submitted for BRICS and New Development Bank membership. President informs Russian counterpart about preliminary steps. Sri Lankan delegation participates in discussions. Membership consideration pending. NDB membership acceptance confirmed. Full consultation process ongoing with other countries. No corrective media reports issued in Sri Lanka.
-
-🟩
-
-The Sri Lanka External Affairs Ministry has rejected the news that the application has been rejected by Sri Lanka for the membership of the BRICS membership.According to the Ministry of External Affairs, Sri Lanka applied for members of the BRICS and the New Development Bank as approved by the Cabinet of Ministers.
-
-President Anura Kumara Dissanayake has informed the Russian president that the preliminary in BRICs had written to the Russian president.
-
-On October 22-24, at October 22-24, the Sri Lankan delegation, the captain of the Sri Lankan delegation, and the leader of the Sri Lankan delegation was expressed in this regard.The Ministry of External Affairs stated that the demands of the BRICS membership for BRICS membership including Sri Lanka and the foreign affairs are expected to be considered in the future.
-
-The Chairman of Sri Lanka has also accepted the intention to join the new Development Bank (NDB).That accepted is accepted.
-
-...
-
-[Data](articles/b8873e65.json)
-
-[Extended Data](ext_articles/b8873e65.ext.json)
-
----
-
-### Bay of Bay of Bengal is a low bake zone today
-
-*2024-11-11 17:40:59* · [`adalk`](https://www.ada.lk/breaking_news/බෙංගාල-බොක්කේ-අඩු-පිඩන-කලාපයක්-නිසා-අද-සවස-වැස්ස-වැඩිවෙයි/11-412976) · `si`
-
-Low pressure zone forming in Bay of Bengal, heavy rainfall expected in Sri Lanka. Showers in Trincomalee, North & Central provinces. Thunderstorms possible with strong winds. Rough seas forecasted. DMC warns of potential disasters.
-
-🟩
-
-The Meteorological Department states that there is a possibility of developing a low pressure zone in the Bay of Bay of Bay of Bay of Bay of Bengal.
-
-Showers will occur in the Trincomalee District tomorrow (13th) and several showers in the North and North Central provinces..
-
-Mm in the Eastern, Central, Uva and Sabaragamuwa provinces. It is said that there may be heavy rain than 50.
-
-In some places in the Western, Sabaragamuwa, Central and Central and Matara districts, can last a morning in the Galle and Matara districts.
-
-The public is requested to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-Showers or thundershowers will occur at several places in the sea areas off the coast extending from Kankesanthurai to Trincomalee.
-
-...
-
-[Data](articles/a3a1d051.json)
-
-[Extended Data](ext_articles/a3a1d051.ext.json)
-
----
-
-### Government attention to provide relief to small and medium enterprises!
-
-*2024-11-11 17:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198448) · `ta`
-
-Sri Lanka government discusses relief for SMEs, focuses on loan support and debt management. Meeting attended by finance officials and bank executives to address economic challenges faced by small businesses.
-
-🟩
-
-The President's Senior Additional Additional Secretary of the President of the Ceylon Bank of Ceylon, the Finance Ministry and officials of the Central Bank of Sri Lanka, held a discussion on the concession for the concession for small and medium enterprises.
-
-The issues faced by small and medium enterprises were discussed here.
-
-The implementation of the Parate Execution has been suspended and expires on December 15. The discussion was focused on the next phase of this.
-
-The support of the banking sector to improve the productivity of the economy and the debts obtained by the small and medium enterprises were discussed in detail.
-
-It was also decided to prepare a loan report received by small and medium enterprises in banks.
-
-Currently, banks have suspended the collection of loans given to small and medium enterprises under the Paratede Act and further action taken further measures.
-
-...
-
-[Data](articles/18092ef8.json)
-
-[Extended Data](ext_articles/18092ef8.ext.json)
-
----
-
-### 3 -year -old child killed in jeep vehicle
-
-*2024-11-11 17:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198441) · `ta`
-
-Child dies in jeep accident near railway residence in Maradana, Colombo. 3-year-old victim involved while father driving. Police investigation ongoing.
-
-🟩
-
-A child was killed in a jeep vehicle in front of the railway residence of the Colombo and Maradana police division, Maradana police said.
-
-A 3 -year -old child who lives in a railway residence in Maradana, Colombo has died.
-
-When the father of the deceased child drove his jeep near the house, the child was involved in a back vehicle, police said.
-
-◼️
-
-[Data](articles/f33c3158.json)
-
-[Extended Data](ext_articles/f33c3158.ext.json)
 
 ---

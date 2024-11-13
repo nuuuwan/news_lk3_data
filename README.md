@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 07:27:54**
+As of **2024-11-13 05:49:14**
 
 ## Newspaper Stats
 
-*Scraped **54,517** Articles*
+*Scraped **54,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,098
 adaderanalk | 6,504
-tamilmirrorlk | 7,627
+tamilmirrorlk | 7,625
 virakesarilk | 8,847
 adaderanasinhalalk | 9,505
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,511 (100.0%) of 54,517 articles have been extended.
+54,505 (100.0%) of 54,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
-
-### வங்கக்கடலில் இன்று காற்றழுத்த தாழ்வு
-
-*2024-11-13 07:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-இன்று-காற்றழுத்த-தாழ்வு/175-347039) · `ta`
-
-அதன் தாக்கம் காரணமாக நாட்டின் பல பகுதிகளில் இன்று முதல் எதிர்வரும் சில தினங்களில் மழை பெய்யக்கூடிய சாத்தியம் காணப்படுவதாக வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-இதன்படி மத்திய, ஊவா, சபரகமுவ மற்றும் தென் மாகாணங்களிலும் களுத்துறை மாவட்டத்தின் சில இடங்களிலும் 100 மில்லிமீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும் என குறிப்பிடப்பட்டுள்ளது.
-
-வடமாகாணத்தில் அவ்வப்போது மழை பெய்யும் எனவும், நாட்டின் ஏனைய பகுதிகளில் மாலை அல்லது இரவு வேளைகளில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது. (a)
-
-◼️
-
-[Data](articles/28e66f26.json)
-
----
 
 ### Class conflict shattered, politics returned to people
 
@@ -236,28 +220,6 @@ The Monday night incident came on the eve of the country’s premier aviation ex
 
 ---
 
-### Death in accident
-
-*2024-11-13 00:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-மரணம்/175-347038) · `ta`
-
-Family member dies instantly in car crash on Manipay-Kaithadi highway in Jaffna. 53-year-old man from southern Vaddukoddai area riding motorcycle collides with another bike while overtaking, resulting in fatal impact.
-
-🟩
-
-A family member died on the spot in a vehicle accident on the Manipay -Kaithadi main road in Jaffna.
-
-In the meantime, the Rajadi Road, Disk. The 53 -year -old from the southern and Vaddukoddai area has died.
-
-While traveling on a motorbike, he tried to overtake the man on the road on the other motorcycle.. He was then killed on the spot when he collided with the motorcycle.
-
-◼️
-
-[Data](articles/1b2e18af.json)
-
-[Extended Data](ext_articles/1b2e18af.ext.json)
-
----
-
 ### Special arrangements for specialists
 
 *2024-11-13 00:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோருக்கு-சிறப்பு-ஏற்பாடுகள்/175-347037) · `ta`
@@ -424,8 +386,6 @@ HUTCH, one of Sri Lanka’s leading mobile networks, has once again distinguishe
 
 [Data](articles/5cd401b9.json)
 
-[Extended Data](ext_articles/5cd401b9.ext.json)
-
 ---
 
 ### ‘Daraz 11.11 kicks off with unbeatable discounts, exclusive offers’
@@ -437,8 +397,6 @@ Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its an
 ...
 
 [Data](articles/5cd0181e.json)
-
-[Extended Data](ext_articles/5cd0181e.ext.json)
 
 ---
 
@@ -458,8 +416,6 @@ Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 t
 
 [Data](articles/69385842.json)
 
-[Extended Data](ext_articles/69385842.ext.json)
-
 ---
 
 ### CSE surpasses 13000 index points in anticipation of positive corporate financial results
@@ -475,8 +431,6 @@ Turnover stood at Rs 4.29 billion with three crossings. Those crossings were rep
 ...
 
 [Data](articles/b67d619b.json)
-
-[Extended Data](ext_articles/b67d619b.ext.json)
 
 ---
 
@@ -2397,5 +2351,59 @@ The government is aware as much as anyone else that the country continues to be 
 [Data](articles/0b1d2205.json)
 
 [Extended Data](ext_articles/0b1d2205.ext.json)
+
+---
+
+### Special Workshop for Bus Depots
+
+*2024-11-12 14:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-டிப்போக்களுக்கு-விசேட-பணிப்புரை/175-347001) · `ta`
+
+Sri Lanka Transport Board deploys extra buses for election duty and holiday traffic. Over 1000 buses allocated for transport officers, polling stations, and police. Additional buses planned for Colombo during long weekend. Public transport to resume after election and police duties.
+
+🟩
+
+Sri Lanka Transport Board Chairman Ramal Siriwardena said that all the Sri Lanka Transport Board (SLTB) depots have been issued to operate existing buses from today (18).
+
+He told the Daily Mirror that all provincial depots have been instructed to operate buses according to the current schedule to ease the traffic of passengers inside and outside Colombo.
+
+Accordingly, more than 70 buses have been deployed in the Gampaha, Kalutara and Colombo regions today and 80 more buses have been allocated to the Colombo Fort tomorrow to meet the demand of passengers.
+
+He said the buses would be operated in addition to the existing schedule.
+
+A total of 1,017 buses have been allocated for transport officers and polling boxes for election work. In addition, 290 buses have been assigned to the police on their respective fare basis.
+
+Once the transportation of the election works and the police is over, these buses will be available for public transport.
+
+...
+
+[Data](articles/83c29f53.json)
+
+[Extended Data](ext_articles/83c29f53.ext.json)
+
+---
+
+### Discussion on the release of political prisoners
+
+*2024-11-12 13:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளின்-விடுதலை-தொடர்பில்-கலந்துரையாடல்/175-347000) · `ta`
+
+Sri Lanka: Political prisoner release talks underway between Presidential Secretariat & AG's Dept. Most detainees are Tamil, held without trial. Human rights groups demand fair investigations & legal reforms. President Dissanayake vows to discuss prisoner release.
+
+🟩
+
+Attorney -at -Law JM JM says that a discussion is taking place between the Presidential Secretariat and the Attorney General's Department regarding the release of political prisoners.. Wijebandara said.
+
+In Sri Lanka, 'political prisoners' often refer to those who are detained under anti -terror laws.
+
+Responding to a question raised by journalists as to whether a program is being carried out on the release of political prisoners, Wijebandara said he was in consultation with the Attorney General's Department on the release of political prisoners.
+
+Most of the so -called political prisoners are Tamils ​​who have been arrested without interrogation or have been detained under severe conditions.
+
+Human rights groups, families and activists of the suspects have been fighting for a long time that these prisoners are suffering from spontaneous detention, long -term imprisonment and lack of fair trial.
+
+...
+
+[Data](articles/8a146d33.json)
+
+[Extended Data](ext_articles/8a146d33.ext.json)
 
 ---

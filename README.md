@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 01:41:37**
+As of **2024-11-14 02:25:24**
 
 ## Newspaper Stats
 
-*Scraped **54,643** Articles*
+*Scraped **54,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,744
+dailyftlk | 3,747
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,652
+tamilmirrorlk | 7,653
 virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
@@ -26,43 +26,137 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,641 (100.0%) of 54,643 articles have been extended.
+54,646 (100.0%) of 54,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### கண்டியில் சொகுசு வாகன உரிமையாளருக்கு சிக்கல்
+### Five liquor companies to face licence suspension over unpaid taxes
+
+*2024-11-14 01:45:07* · [`dailyftlk`](https://www.ft.lk/news/Five-liquor-companies-to-face-licence-suspension-over-unpaid-taxes/56-769231) · `en`
+
+The Attorney General has informed the Supreme Court that five liquor manufacturing companies, including the leading W. M. Mendis & Co., risk having their licences suspended if they fail to settle outstanding tax arrears by 30 November.
+
+The announcement was made yesterday during a hearing before a Supreme Court bench comprising Justices Prithi Padman Surasena, Yasanta Kodagoda, and Priyantha Fernando.
+
+Additional Solicitor General Nerin Pulle, representing the Commissioner General of Excise, stated that the Excise Department has issued final notices to the five companies to clear their arrears by the end of the month. If the payments are not made, the department has decided to proceed with suspending the companies’ licences.
+
+...
+
+[Data](articles/2511effc.json)
+
+[Extended Data](ext_articles/2511effc.ext.json)
+
+---
+
+### Two defendants acquitted from murder case after 27 years
+
+*2024-11-14 01:44:36* · [`dailyftlk`](https://www.ft.lk/news/Two-defendants-acquitted-from-murder-case-after-27-years/56-769230) · `en`
+
+The North Central Province Predecessor High Court Judge and incumbent Kuliyapitiya High Court Judge Manoj Thalgodapitiya has ordered the acquittal of two defendants indicted before the Anuradhapura High Court for a murder that took place in Rajanganaya 27 years ago.
+
+The defendants, identified as Dadigamage Premasiri alias “Ukkuwa” and K. Wasantha Kumar alias “K. Wasantha,” both residents of Rajanganaya, were acquitted due to insufficient evidence presented by the prosecution.
+
+The High Court Judge ruled that the prosecution had failed to prove the allegations against the defendants beyond a reasonable doubt.
+
+The case, which dates back to 29 October 1997, was initially brought to the Anuradhapura High Court under Section 296 of the Sri Lanka Penal Code Ordinance by the Attorney General, accusing the two defendants of committing the offence within the Anuradhapura HC’s jurisdiction.
+
+◼️
+
+[Data](articles/a84c014b.json)
+
+[Extended Data](ext_articles/a84c014b.ext.json)
+
+---
+
+### Sierra Leone national arrested with Rs. 13 m worth cocaine at BIA
+
+*2024-11-14 01:44:05* · [`dailyftlk`](https://www.ft.lk/news/Sierra-Leone-national-arrested-with-Rs-13-m-worth-cocaine-at-BIA/56-769229) · `en`
+
+In a major drug trafficking bust, officers attached to the Narcotics Control Unit at the Bandaranaike International Airport yesterday arrested a 32-year old Sierra Leone national on suspension of smuggling, who had 17 capsules of swallowed  cocaine valued at Rs. 13 million.
+
+The passenger who arrived via Istanbul on Turkish Airline flight TK 730 was apprehended after attempting to pass through the airport’s green channel.
+
+Sri Lanka Customs Spokesman Seewali Arukgoda said suspicious of the individual’s behaviour the officers conducted a body scan in the Customs area, revealing that the suspect has concealed narcotics within his body. The individual was immediately transferred to Negombo Hospital, where medical personnel have since retrieved 17 pellets of cocaine.
+
+The suspect has reportedly confessed that additional pellets remain in his stomach.
+
+...
+
+[Data](articles/4c7be050.json)
+
+[Extended Data](ext_articles/4c7be050.ext.json)
+
+---
+
+### அரசாங்க சேவைகளை டிஜிட்டல் மயமாகும்
+
+*2024-11-14 01:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-சேவைகளை-டிஜிட்டல்-மயமாகும்/175-347080) · `ta`
+
+வெளிநாடுகளில் உள்ள இலங்கையர்களுக்கான பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் பிரதிகள் சம்பந்தப்பட்ட தூதரகங்களின் ஊடாக விநியோகிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+குவைத், ஜப்பான், கட்டார் தூதரங்கள்,அவுஸ்திரேலியா மெல்பேர்ன், கனடா டொராண்டோ,  இத்தாலியின் மிலான்,டுபாய், கொன்சல் ஜெனரல் அலுவலகங்கள் ஊடாக  இந்த முன்னோடித் திட்டம் முன்னெடுக்கப்படுகின்றது.
+
+வெளிநாடுகளில் உள்ள இலங்கையர்களின் வசதிக்காக வெளிநாடுகளில் உள்ள இலங்கை தூதரகங்களில் இருந்து பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் நகல்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
+
+இந்த வேலைத்திட்டம் தெரிவு செய்யப்பட்ட 07 வெளிநாட்டு தூதரகங்கள் மற்றும் கொன்சல் ஜெனரல்  அலுவலகங்கள் மூலம் முன்னோடித் திட்டமாக நடைமுறைப்படுத்தப்படவுள்ளது.
+
+அதன்படி, குவைத், ஜப்பான் மற்றும் கட்டார் தூதரகங்கள், அவுஸ்திரேலியாவின் மெல்போர்ன், கனடாவின் டொராண்டோ, இத்தாலியின் மிலான் மற்றும் டுபாய் தூதரகங்கள் மூலம் இந்த முன்னோடி திட்டத்தை செயல்படுத்த எதிர்பார்க்கப்படுகிறது.
+
+...
+
+[Data](articles/2ef13f3d.json)
+
+---
+
+### Trouble for luxury vehicle owner in Kandy
 
 *2024-11-14 01:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-சொகுசு-வாகன-உரிமையாளருக்கு-சிக்கல்/175-347079) · `ta`
 
-பல கோடி ரூபாய் பெறுமதியான இரண்டு வாகனங்களை சட்டவிரோதமான முறையில் வைத்திருந்ததாகக் கூறப்படும் கண்டியில் உள்ள கார் விற்பனை நிலையம் ஒன்றின் உரிமையாளருக்கு நாட்டை விட்டு வெளியேற முடியாதவாறு கண்டி நீதவான் வாசன நவரத்ன, செவ்வாய்க்கிழமை (12) தடை உத்தரவு பிறப்பித்துள்ளார்.
+Luxury car dealer banned in Kandy for illegal vehicles. Magistrate orders owner to report to police. Two high-value cars seized. Owner restricted from traveling abroad.
 
-கண்டி பிரதேச குற்றப் புலனாய்வுப் பிரிவினர் விடுத்த கோரிக்கையை ஏற்றுக்கொண்ட நீதவான், சட்டவிரோத வாகனங்கள் தொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு பல தடவைகள் சந்தேகநபருக்கு அறிவிக்கப்பட்ட போதும் பொலிஸாரைத் தவிர்த்துவிட்டு அவர் வெளிநாடு செல்ல வாய்ப்புள்ளதாகக் கூறி தடை உத்தரவு.பிறப்பித்துள்ளார்.
+🟩
 
-கண்டியில் உள்ள கார் விற்பனை நிலையம் ஒன்றின் உரிமையாளர் என கூறப்படும் டொன் இசுரு பிரதீப் சத்தாதிஸ்ஸ சேரம் வெளிநாடு செல்வதை தடுக்கும் வகையில் அவருக்கு எதிராக தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Kandy Magistrate Vasana Nawaratne on Tuesday (12) issued a ban on the owner of a car sales station in Kandy, which is allegedly illegally holding two vehicles worth several crores of rupees.
+
+The magistrate, who accepted the request made by the Kandy Pradeshiya Criminal Investigation Division, has repeatedly ordered the suspect to lodge a complaint with the police on illegal vehicles.
+
+Don Isuru Pradeep Satadissa, who is supposed to be the owner of a car stall station in Kandy, has been banned against him from going abroad.
+
+Commander of the Kandy Pradeshiya Criminal Investigation Division (CID), Chief Inspector of the Kandy Pradeshiya Criminal Investigation Division, Tilak Samaranayake, conducted an investigation into the information received by two suspicious vehicles parked in the carriage of a house on a house on Kandy.. .MW. It is reported that a modern racing car and a Mitsubishi jeep were found.
 
 ...
 
 [Data](articles/a5cf16a1.json)
 
+[Extended Data](ext_articles/a5cf16a1.ext.json)
+
 ---
 
-### விவசாயம், கல்வி, சுற்றுலா மற்றும்  அரச சேவை மேம்பாட்டுக்கான தொழில்நுட்ப உதவி மற்றும் நிதி வசதிகளை வழங்குவது குறித்து நெதர்லாந்து அரசாங்கம் கவனம்
+### The Netherlands government focuses on providing technical assistance and financial facilities for agriculture, education, tourism and public service development.
 
 *2024-11-14 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198631) · `ta`
 
-இந்நாட்டில் விவசாயம், கல்வி, சுற்றுலா மற்றும் பொதுச் சேவை மேம்பாட்டுக்கு தேவையான தொழில்நுட்ப உதவி மற்றும் நிதி வசதிகளை வழங்க நெதர்லாந்து அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+Netherlands supports agriculture, education, tourism in Sri Lanka. Wageningen University leads global rankings. Cooperation agreements focus on sustainable food systems and economic development.
 
-நெதர்லாந்தின் இலங்கைக்கான பிரதித் தூதுவர் இவான் ருட்ஜென்ஸ் உள்ளிட்ட நெதர்லாந்து தூதுக்குழுவினர், ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவை புதன்கிழமை (13) ஜனாதிபதி அலுவலகத்தில் சந்தித்து  இது தொடர்பில் கலந்துரையாடினர்.
+🟩
 
-நெதர்லாந்தில் உள்ள Wageningen பல்கலைக்கழகம் மற்றும் ஆராய்ச்சி நிறுவனம் (Wageningen University & Research) கடந்த 7 ஆண்டுகளாக உலக பல்கலைக்கழக தரவரிசையில் முதலிடத்தை பிடித்துள்ள நிலையான பல்கலைக்கழகமாக பெயரிடப்பட்டுள்ளது.
+The Government of the Netherlands has focused on providing technical assistance and financial facilities for the development of agriculture, education, tourism and public service in this country.
 
-விவசாயம், விவசாயம்-சுற்றுச்சூழல் மற்றும் சுற்றுலா ஆகிய துறைகளில் இலங்கையின் முக்கிய பங்குதாரர்களுடன் இணைந்து புதிய ஒத்துழைப்பு திட்டங்களை ஆரம்பிக்க மேற்படி பல்கலைக்கழகம் எதிர்பார்த்துள்ளது.
+The Netherlands Ambassador, including the Deputy Ambassador to Sri Lanka of the Netherlands, Ivan Rudgens, met with President's Secretary Dr. Nandika Sanath Kumanayake on Wednesday (13).
+
+The Wageningen University & Research in the Netherlands has been named as the standard university that topped the World University rankings for the past 7 years.
+
+The university is looking forward to launching new cooperation programs in collaboration with Sri Lanka's prominent shareholders in agriculture, agriculture, environment and tourism.
+
+Knowing the opportunities and challenges, a wide range of companies such as the Asian Development Bank and the World Bank and the private sector cooperate, focusing on yields and projects for stable food structure.
 
 ...
 
 [Data](articles/20d27797.json)
+
+[Extended Data](ext_articles/20d27797.ext.json)
 
 ---
 
@@ -2341,93 +2435,5 @@ This case is the case number in the Court of Appeal in Room No. 302. Sri Lanka P
 [Data](articles/1cc89d42.json)
 
 [Extended Data](ext_articles/1cc89d42.ext.json)
-
----
-
-### SLBFE to initiate investigations on fraud and corruption cases
-
-*2024-11-13 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103375/slbfe-to-initiate-investigations-on-fraud-and-corruption-cases) · `en`
-
-The Sri Lanka Bureau of Foreign Employment (SLBFE) has stated that it has taken steps to initiate investigations into nearly 15 cases of alleged fraud and corruption that have occurred recently.
-
-According to SLBFE’s Chairman, Kosala Wickramasinghe, the Bureau has received a total of 3,040 complaints.
-
-“Special unit has received 3,040 complaints. 1,124 complaints can be resolved on a day-to-day basis,” he added.
-
-Additionally, he further stated that they have identified 15 cases of suspected fraud and corruption, which were selected based on information gathered through an internal audit. Currently, three of these cases are under formal auditing.
-
-He also stated that they also reviewing other cases that have been discussed in the media and are gathering more information on them.
-
-◼️
-
-[Data](articles/a79dba3c.json)
-
-[Extended Data](ext_articles/a79dba3c.ext.json)
-
----
-
-### Trump names Elon Musk to role for creating greater government efficiency
-
-*2024-11-13 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103373/trump-names-elon-musk-to-role-for-creating-greater-government-efficiency) · `en`
-
-U.S. President-elect Donald Trump on Tuesday named Elon Musk to a role aimed at creating a more efficient government, handing even more influence to the world’s richest man who donated millions of dollars to helping Trump get elected.
-
-Musk and former Republican presidential candidate Vivek Ramaswamy will co-lead a newly created Department of Government Efficiency, an entity Trump indicated will operate outside the confines of government.
-
-Trump said in a statement that Musk and Ramaswamy “will pave the way for my Administration to dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies.”
-
-Trump said the new department will realize long-held Republican dreams and “provide advice and guidance from outside of government,” signaling the Musk and Ramaswamy roles would be informal, without requiring Senate approval and allowing Musk to remain the head of electric car company Tesla social media platform X and rocket company SpaceX.
-
-...
-
-[Data](articles/170996dd.json)
-
-[Extended Data](ext_articles/170996dd.ext.json)
-
----
-
-### Container transporters facing difficulties due to actions of Customs officials
-
-*2024-11-13 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103372/container-transporters-facing-difficulties-due-to-actions-of-customs-officials) · `en`
-
-The Container Transport Owners’ Association says they are in dire straits due to the arbitrary actions of the Customs officials.
-
-The Association’s chairman, Sanath Manjula, mentioned that this has caused heavy traffic congestion in roads around the Colombo Port area.
-
-Manjula explained that due to safety concerns in areas like Orugodawatta, Thotalaga, and Grandpass, these containers were being held within the port and released to facilitate container clearances. However, after a recent inspection by the minister, authorities have decided to remove the container trucks from the port and send them out, causing traffic jams, especially in areas such as Orugodawatta and Thotalaga.
-
-He further emphasized that this decision had put both the drivers and the containers at risk, as there have been threats to their safety.
-
-“The Inspector General of Police and the Director General of Customs had been informed. Accordingly, they were stopped at the port premises and sent through a system,” he added.
-
-...
-
-[Data](articles/9ae075dd.json)
-
-[Extended Data](ext_articles/9ae075dd.ext.json)
-
----
-
-### Former MPs announce to hand guns!
-
-*2024-11-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198551) · `ta`
-
-Sri Lanka: Former lawmakers must surrender weapons by Dec 30. Guns and ammo issued to ex-MPs, councilors, and officials to be returned to nearest police station. Police to verify recipients' identities and seize firearms.
-
-🟩
-
-The Ministry of Defense has announced that the guns and ammunition issued by former MPs, Provincial Councils and political party leaders, political organizations and government administrators will be handed over by December 30.
-
-In a statement issued by the Ministry of Defense, the Defense Ministry said that they should be handed over to the nearby police station within the time.
-
-It is also reported that the Sri Lankan police have a list of the names of the people who received the guns.
-
-All police officers have been instructed to investigate the names of the persons mentioned in the list and take the guns into the police custody.
-
-◼️
-
-[Data](articles/81599328.json)
-
-[Extended Data](ext_articles/81599328.ext.json)
 
 ---

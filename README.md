@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 00:26:41**
+As of **2024-11-14 01:41:37**
 
 ## Newspaper Stats
 
-*Scraped **54,638** Articles*
+*Scraped **54,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,21 +14,113 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,743
+dailyftlk | 3,744
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,650
-virakesarilk | 8,874
+tamilmirrorlk | 7,652
+virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,633 (100.0%) of 54,638 articles have been extended.
+54,641 (100.0%) of 54,643 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-14 (Thursday)
+
+### கண்டியில் சொகுசு வாகன உரிமையாளருக்கு சிக்கல்
+
+*2024-11-14 01:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-சொகுசு-வாகன-உரிமையாளருக்கு-சிக்கல்/175-347079) · `ta`
+
+பல கோடி ரூபாய் பெறுமதியான இரண்டு வாகனங்களை சட்டவிரோதமான முறையில் வைத்திருந்ததாகக் கூறப்படும் கண்டியில் உள்ள கார் விற்பனை நிலையம் ஒன்றின் உரிமையாளருக்கு நாட்டை விட்டு வெளியேற முடியாதவாறு கண்டி நீதவான் வாசன நவரத்ன, செவ்வாய்க்கிழமை (12) தடை உத்தரவு பிறப்பித்துள்ளார்.
+
+கண்டி பிரதேச குற்றப் புலனாய்வுப் பிரிவினர் விடுத்த கோரிக்கையை ஏற்றுக்கொண்ட நீதவான், சட்டவிரோத வாகனங்கள் தொடர்பில் பொலிஸில் முறைப்பாடு செய்யுமாறு பல தடவைகள் சந்தேகநபருக்கு அறிவிக்கப்பட்ட போதும் பொலிஸாரைத் தவிர்த்துவிட்டு அவர் வெளிநாடு செல்ல வாய்ப்புள்ளதாகக் கூறி தடை உத்தரவு.பிறப்பித்துள்ளார்.
+
+கண்டியில் உள்ள கார் விற்பனை நிலையம் ஒன்றின் உரிமையாளர் என கூறப்படும் டொன் இசுரு பிரதீப் சத்தாதிஸ்ஸ சேரம் வெளிநாடு செல்வதை தடுக்கும் வகையில் அவருக்கு எதிராக தடை உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a5cf16a1.json)
+
+---
+
+### விவசாயம், கல்வி, சுற்றுலா மற்றும்  அரச சேவை மேம்பாட்டுக்கான தொழில்நுட்ப உதவி மற்றும் நிதி வசதிகளை வழங்குவது குறித்து நெதர்லாந்து அரசாங்கம் கவனம்
+
+*2024-11-14 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198631) · `ta`
+
+இந்நாட்டில் விவசாயம், கல்வி, சுற்றுலா மற்றும் பொதுச் சேவை மேம்பாட்டுக்கு தேவையான தொழில்நுட்ப உதவி மற்றும் நிதி வசதிகளை வழங்க நெதர்லாந்து அரசாங்கம் கவனம் செலுத்தியுள்ளது.
+
+நெதர்லாந்தின் இலங்கைக்கான பிரதித் தூதுவர் இவான் ருட்ஜென்ஸ் உள்ளிட்ட நெதர்லாந்து தூதுக்குழுவினர், ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக சனத் குமாநாயக்கவை புதன்கிழமை (13) ஜனாதிபதி அலுவலகத்தில் சந்தித்து  இது தொடர்பில் கலந்துரையாடினர்.
+
+நெதர்லாந்தில் உள்ள Wageningen பல்கலைக்கழகம் மற்றும் ஆராய்ச்சி நிறுவனம் (Wageningen University & Research) கடந்த 7 ஆண்டுகளாக உலக பல்கலைக்கழக தரவரிசையில் முதலிடத்தை பிடித்துள்ள நிலையான பல்கலைக்கழகமாக பெயரிடப்பட்டுள்ளது.
+
+விவசாயம், விவசாயம்-சுற்றுச்சூழல் மற்றும் சுற்றுலா ஆகிய துறைகளில் இலங்கையின் முக்கிய பங்குதாரர்களுடன் இணைந்து புதிய ஒத்துழைப்பு திட்டங்களை ஆரம்பிக்க மேற்படி பல்கலைக்கழகம் எதிர்பார்த்துள்ளது.
+
+...
+
+[Data](articles/20d27797.json)
+
+---
+
+### Don't photograph
+
+*2024-11-14 00:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுக்கவேண்டாம்/175-347078) · `ta`
+
+Election Commission warns against photographing polling booths, marked ballots, and sharing on social media. Violators may face legal action.
+
+🟩
+
+The Election Commission has advised the public to avoid photography, photographing or uploading pictures or videos on social networks.
+
+In a statement issued by the Commission, the Commission said in a statement that the polling booths, photographing or photography of marked ballots, and sharing them on social networks would violate the election law.
+
+Therefore, the Election Commission has warned that those who ignore these guidelines will face legal consequences.
+
+◼️
+
+[Data](articles/0e04991b.json)
+
+[Extended Data](ext_articles/0e04991b.ext.json)
+
+---
+
+### Gusal Mendis, Avishka Fernando great centuries;Sri Lanka success in DLS mode
+
+*2024-11-14 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198630) · `ta`
+
+Sri Lanka won first ODI vs New Zealand by 45 runs. Gusal Mendis (143*) and Avishka Fernando (100) scored centuries. New Zealand was set 221 runs but fell short at 175/9. Dilshan Madushan took 3 wickets. Match affected by rain at Rangiri Dambulla Stadium.
+
+🟩
+
+Sri Lanka won by 45 runs in the first international ODI match between Sri Lanka and New Zealand, which was affected by the rains at the Rangiri and Dambulla International Cricket Stadium on Wednesday.
+
+Significantly, Sri Lanka won New Zealand for the first time in the international ODIs.
+
+Gusal Mendis and Avishka Fernando were the most efficient centuries and the double -stricken merger of Sri Lanka.
+
+Sri Lanka decided to bat first and scored 324 runs for the loss of 5 wickets in 49.2 overs.
+
+After about two and a half hours, when the match continued at 9.00 pm, New Zealand was a toughest winning target of 221 runs in 27 overs.
+
+New Zealand lost by 9 wickets for 175 runs.
+
+Will Young and Tim Robinson shared 88 runs off 80 balls.
+
+New Zealand started playing by 22 runs in 28 balls. These 5 wickets were overthrown by Sri Lankan spin bowlers. (110 - 5 wig.)
+
+Michael Brasewell and debutant Michelle Hai then tried to recover the team from the slope.
+
+...
+
+[Data](articles/e1515bcc.json)
+
+[Extended Data](ext_articles/e1515bcc.ext.json)
+
+---
 
 ### 2024-11-13 (Wednesday)
 
@@ -43,6 +135,8 @@ The purchase and use of unauthorised 3M products could lead to a variety of seri
 ...
 
 [Data](articles/a0a79777.json)
+
+[Extended Data](ext_articles/a0a79777.ext.json)
 
 ---
 
@@ -84,6 +178,8 @@ Deflating systemic debt means reducing debt burden in the economy by design. Som
 
 [Data](articles/ca7f676a.json)
 
+[Extended Data](ext_articles/ca7f676a.ext.json)
+
 ---
 
 ### Will the 2024 General elections redefine Sri Lanka’s political future?
@@ -99,6 +195,28 @@ First, economic challenges remain a critical concern. Sri Lanka’s economic rec
 ...
 
 [Data](articles/83f01fc1.json)
+
+[Extended Data](ext_articles/83f01fc1.ext.json)
+
+---
+
+### Trump’s triumph: American Revolution/counter-revolution and world order
+
+*2024-11-13 23:21:40* · [`dailyftlk`](https://www.ft.lk/columns/Trump-s-triumph-American-Revolution-counter-revolution-and-world-order/4-769213) · `en`
+
+President Trump actually thought that Kamala Harris, a feminist progressive-liberal, was a “radical-leftist, Marxist, Socialist, Communist”.
+
+The Trump administration and a Republican Senate are going to regard a JVP-NPP regime in the Indian Ocean headed by JVP leader Anura Dissanayake, pale-pink NPP frill, crony corporate décor and all, differently from the way a Democrat White House and Senate did.
+
+The multidimensional triumph of Donald Trump is an outcome I hardly applaud, but as a political scientist and former diplomat, I cannot fail to note its magnitude, even epic character, and respect the political achievement.
+
+Was it a counter-revolution or a revolution? Critics would argue the former; fans, the latter. It is like those two-dimensional pictures we had as postcards or key-tags when we were schoolkids. It all depends on which side you tilt it; which angle you view it from.
+
+...
+
+[Data](articles/34e87f95.json)
+
+[Extended Data](ext_articles/34e87f95.ext.json)
 
 ---
 
@@ -162,6 +280,8 @@ While today there is a deluge of superstitious clerics and leaders everywhere in
 
 [Data](articles/e0dfa0e5.json)
 
+[Extended Data](ext_articles/e0dfa0e5.ext.json)
+
 ---
 
 ### Reality will dawn on 15 November; election promises should become legally enforceable
@@ -179,6 +299,8 @@ Politicians are the same all over. They promise to build bridges even when there
 ...
 
 [Data](articles/65e38544.json)
+
+[Extended Data](ext_articles/65e38544.ext.json)
 
 ---
 
@@ -2307,141 +2429,5 @@ All police officers have been instructed to investigate the names of the persons
 [Data](articles/81599328.json)
 
 [Extended Data](ext_articles/81599328.ext.json)
-
----
-
-### Five fatalities reported in separate road accidents
-
-*2024-11-13 09:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103371/five-fatalities-reported-in-separate-road-accidents) · `en`
-
-Five people have reportedly died in separate road accidents across various areas of Sri Lanka over the past 24 hours, according to police.
-
-The incidents occurred in Pitigala, Moragahahena, Hikkaduwa, Baduraliya, and Katupotha.
-
-In the early hours yesterday (12), on the Pitigala-Elpitiya road in Amugoda, a motorcycle traveling toward Elpitiya collided with the rear of a bicycle traveling in the same direction. Both the cyclist and motorcyclist sustained serious injuries and were admitted to Elpitiya Hospital.
-
-The cyclist, a 68-year-old resident of Amugoda, Pitigala, succumbed to his injuries after being transferred to Karapitiya Hospital.
-
-Another accident occurred last morning in Gonapala, Moragahahena, on the Colombo-Horana road. A lorry heading toward Colombo collided with a three-wheeler turning onto a side road.
-
-The driver of the three-wheeler, along with a woman and two children in the back seat, sustained serious injuries.
-
-...
-
-[Data](articles/d8d94315.json)
-
-[Extended Data](ext_articles/d8d94315.ext.json)
-
----
-
-### Thundershowers atmatoes in Matale
-
-*2024-11-13 09:33:05* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-තක්කාලි-වගාවට-වැසි-හරහට-හිටියි/11-413011) · `si`
-
-Heavy rainfall affects tomato crops in Matale district, disrupting farming activities and potentially impacting yields and prices.
-
-🟩
-
-Due to the rainy cultivars that have been cultivated in the district has been affected by the wide range of tomatoes in the district for days.
-
-The farmers say that the application of agrochemicals, harvesting and cultivation and cultivation is also disrupted due to rain.
-
-Farmers have cultivated the most abundant tomatoes in Matale, Naula, Laggala and Dambulla Divisional Secretariat areas.
-
-The bulk of the tomatoes of the Dambulla Economic Center is priced between Rs. 200.00.00.
-
-However, the tomato growers of the Matale district said that the tomatoes would not be able to earn their income as expected.
-
-◼️
-
-[Data](articles/b240bd5f.json)
-
-[Extended Data](ext_articles/b240bd5f.ext.json)
-
----
-
-### Demanding
-
-*2024-11-13 09:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளடியை-மாத்திரம்-பயன்படுத்துமாறு-கோரிக்கை/175-347046) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Elections Commission Chairman RMAL Ratnayake emphasizes proper voting methods for tomorrow's general election. He states that only valid votes should be counted, using the appropriate method as required.
-
-🟩
-
-RMAL Ratnayake, Chairman of the Elections Commission, said that when voting in the general election to be held tomorrow, only the point was used.
-
-However, the point should be used only when voting and voting votes in the general election to be held tomorrow.
-
-The Chairman of the Elections Commission, RMAL, demands that voters should be converted into a valid vote that follows the appropriate method.. Ratnayake said. Remble
-
-◼️
-
-[Data](articles/7ba3648d.json)
-
-[Extended Data](ext_articles/7ba3648d.ext.json)
-
----
-
-### Zaralione crashed into cocaine
-
-*2024-11-13 09:25:15* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-ගුලි-ගිල-දමා-පැමිණි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-413010) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan man caught smuggling cocaine at Katunayake airport. 32-year-old farmer attempted to swallow 56 cocaine pellets worth $200. Arrested and hospitalized after police intervention. Doctors treating him for cocaine overdose.
-
-🟩
-
-A clirelione who has been pulled in cocaine and swallowed them in the Katunayake airport, "Green Channel" (GREEN PACE), the Customs Drug Administration Division while attempting to go out of the airport on the Bandaranaike International Airport on 11/12Was arrested.
-
-He is a 32-year-old farmer who lives in Zearlaione. He was from Istanbul, Turkish Airlines, Turkish Airport, at Turkish Airport on 11/12.
-
-Customs Drug Administration and Officers who were suspicious of the airport to leave the airport..
-
-Accordingly, the passenger was handed over to the officers of the Police Narcotics Bureau of Katunayake and the officials were admitted to the Negombo General Hospital.
-
-The hospital's doctors have recovered 56 cocaine gulus worth about Rs. 30,000.
-
-A spokesman for the Katunayake Police Narcard of Katunayake has been swallowed up of 80 of the air passenger gulus, cocaine.
-
-Accordingly, doctors in the Negombo General Hospital are trying to overcome the saver of cocaine, which is left in his stomach.
-
-◼️
-
-[Data](articles/1b9a48de.json)
-
-[Extended Data](ext_articles/1b9a48de.ext.json)
-
----
-
-### Pussellawa
-
-*2024-11-13 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198550) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Wasps attack plantation workers in Pussella-Melbatwatta. One worker killed, six injured. Three hospitalized, including one who died untreated. Four others treated locally. Police investigating incident.
-
-🟩
-
-One person was killed when a wasps were dumped on plantation workers who were working in Pussella - Melbatwatta.
-
-Six persons who were targeted for the wasps were admitted to the Gampola Hospital after being admitted to the Gampolai Hospital, a man died without treatment, police said.
-
-In addition, another person who is targeted for the wasp is receiving treatment at the Gampola hospital and four other people have been treated for treatment, police said.
-
-◼️
-
-[Data](articles/bc9a8466.json)
-
-[Extended Data](ext_articles/bc9a8466.ext.json)
 
 ---

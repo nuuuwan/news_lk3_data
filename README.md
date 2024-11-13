@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 05:25:18**
+As of **2024-11-13 05:49:14**
 
 ## Newspaper Stats
 
-*Scraped **54,505** Articles*
+*Scraped **54,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 556
 bbccomsinhala | 556
-islandlk | 3,254
+islandlk | 3,264
 economynextcom | 3,303
 dailyftlk | 3,738
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,505 (100.0%) of 54,505 articles have been extended.
+54,505 (100.0%) of 54,515 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -373,6 +373,64 @@ Out of the total 490 complaints on online contents, social media platforms have 
 [Data](articles/81150de8.json)
 
 [Extended Data](ext_articles/81150de8.ext.json)
+
+---
+
+### HUTCH triumphs with six wins at SLIM Digis 2024
+
+*2024-11-12 22:36:00* · [`islandlk`](http://island.lk/hutch-triumphs-with-six-wins-at-slim-digis-2024/) · `en`
+
+HUTCH, one of Sri Lanka’s leading mobile networks, has once again distinguished itself for its digital marketing excellence, winning an outstanding six awards at the SLIM Digis 2024 – 1 Gold, 4 Silvers and a Bronze. As the only telecom company to have gained recognition at the SLIM Digis this year, HUTCH showcased its forward-thinking approach to digital engagement and its commitments to innovation in a highly dynamic market. This year also marked HUTCH’s first-ever SLIM Digis GOLD award in the category of Best Performance Marketing Campaign, reflecting on the operator’s steadfast commitment to driving exceptional results.
+
+...
+
+[Data](articles/5cd401b9.json)
+
+---
+
+### ‘Daraz 11.11 kicks off with unbeatable discounts, exclusive offers’
+
+*2024-11-12 22:34:00* · [`islandlk`](http://island.lk/daraz-11-11-kicks-off-with-unbeatable-discounts-exclusive-offers/) · `en`
+
+Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its annual 11.11 shopping festival, known as the “Biggest Sale of the Year.” The event will run until November 17. This year’s 11.11 sale features exceptional discounts and exclusive promotions, offering Sri Lankans the lowest prices of the year on a wide variety of products. Additionally, there are vouchers worth over LKR 150 million available, making this sale a must for anyone looking to save big.
+
+...
+
+[Data](articles/5cd0181e.json)
+
+---
+
+### ‘Need for sustainable approach to development urgent’
+
+*2024-11-12 22:30:00* · [`islandlk`](http://island.lk/need-for-sustainable-approach-to-development-urgent/) · `en`
+
+Professor Mohan Munasinghe, an esteemed academic and Nobel laureate, highlighted the urgent need for a balanced, sustainable approach to development at the University of Colombo’s Annual Research Symposium.
+
+Speaking to a diverse audience of policymakers, academics and students last week, Prof. Munasinghe stressed the importance of adopting “Balanced Inclusive Green Growth” (BIGG) to combat the interconnected challenges of climate change, poverty, and economic inequality.
+
+Munasinghe, known for pioneering the “Sustainomics” framework, warned that unchecked climate change and overconsumption by wealthy nations could destabilize ecosystems and deepen global inequalities.
+
+Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 times the rate of the poorest 10%, revealing the stark imbalance in resource consumption and environmental impact.
+
+...
+
+[Data](articles/69385842.json)
+
+---
+
+### CSE surpasses 13000 index points in anticipation of positive corporate financial results
+
+*2024-11-12 22:25:00* · [`islandlk`](http://island.lk/cse-surpasses-13000-index-points-in-anticipation-of-positive-corporate-financial-results/) · `en`
+
+Stock market activities which were very positive yesterday, surpassed 13000 index points due to an anticipation of favourable corporate financial results, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 122 points, while the S and P SL20 rose by 37.84 points.
+
+Turnover stood at Rs 4.29 billion with three crossings. Those crossings were reported in HNB, which crossed 6.2 million shares to the tune of Rs 1.43 billion and its shares traded at Rs 230, Overseas Realty 14.3 million shares crossed for Rs 265 million; its shares traded at Rs 18.50 and LOLC Holdings 95000 shares crossed for Rs 43.1 million; its shares sold at Rs 458.50.
+
+...
+
+[Data](articles/b67d619b.json)
 
 ---
 
@@ -2347,117 +2405,5 @@ Human rights groups, families and activists of the suspects have been fighting f
 [Data](articles/8a146d33.json)
 
 [Extended Data](ext_articles/8a146d33.ext.json)
-
----
-
-### Saudi Crown Prince of Saudi is accused of doing more Israeli 'genocide'
-
-*2024-11-12 13:57:40* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායලය-‘ජන-සංහාරයක්-’-සිදු-කරන-බවට-සෞදියේ-ඔටුන්න-හිමි-කුමරුගෙන්-චෝදනාවක්/11-412992) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Saudi Crown Prince Mohammed bin Salman accused of supporting Israeli "genocide" in Gaza. He criticized Israeli attacks on Lebanon and Iran while speaking at a gathering of Muslim and Arab leaders.
-
-🟩
-
-Saudi Crown Mohammed Bin Salman, who is 'genocide' in Gaza, said that in the Gazaka.
-
-Speaking at a convention of Muslim and Arab leaders, foreign media reports have said this.
-
-The Prince Mohamed Bin Salman has criticized the Israeli attacks on Lebanon and Iran.
-
-◼️
-
-[Data](articles/41e4c016.json)
-
-[Extended Data](ext_articles/41e4c016.ext.json)
-
----
-
-### Two Chinese women arrested in Kandy for visa violations
-
-*2024-11-12 13:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103355/two-chinese-women-arrested-in-kandy-for-visa-violations) · `en`
-
-Two foreign national women who had arrived in Sri Lanka on tourist visas and were found engaging in business activities have been arrested in Kandy.
-
-According to the police, the women were apprehended at the Kandy Central Market during a raid carried out based on information received by officers of the Tourist Police in Kandy.
-
-The two women, aged 47 and 48, have been identified as Chinese nationals.
-
-◼️
-
-[Data](articles/7c69a25c.json)
-
-[Extended Data](ext_articles/7c69a25c.ext.json)
-
----
-
-### Abhayan Awards
-
-*2024-11-12 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203175) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Abhayan Awards: Tiwara Na Award won by 'Tiwuba'. University of Kelaniya ceremony. Digital space winners. Ganira Summan for YouTube design. Dinesh Muthugala, most popular teacher. Bhaya Batah, top singer. Shanudri Priyasad, Facebook/Vlog winner. Charith Silva, TikTok star. Wild Cook Book, popular cooking show. Vini Production, YouTube producer."
-
-🟩
-
-Tiwarana Award, the most popular news center of the UTUUB space was won by the 'Tiwuba' awards at the 'Abhiwan' Awards organized by the University of Kelaniya, the University of Kelaniya.
-
-The awards ceremony was held at the Faculty Faculty of Computer and Technology Husbandry of the University of Kelaniya yesterday (11).
-
-There were a number of predominants who won the digital space in Sri Lanka and the Ganira Summan was awarded for the design of the youtube space.
-
-Meanwhile, Dinesh Muthugala was awarded as the most popular teacher in the Youtube space, while the most popular singer of the youtube space was awarded the Bhaya Batah as the most popular singer.
-
-The most popular role award at Facebook and Vlog Social Media Network of Social Media Network won by Shanudri Priyasad.
-
-The Wild Cook Book, the Fold Cook Book, Charith Silva was awarded as the most popular character of the Ticktock Social Media Network.
-
-...
-
-[Data](articles/f691f020.json)
-
-[Extended Data](ext_articles/f691f020.ext.json)
-
----
-
-### Tearsheltories hearing on the mountain - the two acre tea cultivation was destroyed
-
-*2024-11-12 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203174) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Tea plantation owner Thusharanaan's 2-acre cultivation destroyed by Samarasuriya. Neluwa Police OIC involved, citing land dispute. Owner seeks justice, claims ancestral property.
-
-🟩
-
-If a plantation crop cultivation is unstable with the sweat, can be thought of the pain.
-
-Borders in Galle and Matara districts is owner of two acres of tea cultivation in the Mount Kanda Mount Kanda Mount Kandalawa. The name Thusharanaan is the one.
-
-Two acres of tea to him have been removed a few days ago, Thimbirigasyaya, Colombo have removed. By a woman named Samarasuriya.
-
-The OIC of the Neluwa Police has also telephoned him.
-
-"From the country, a man called, he asked him Jothi. I said yes. If he would have said that he should quit the land, he threatened to remove the people from Colombo. "
-
-The Neluwa Police OIC also called on the incident, Jothi said it was telephoned him.
-
-OIC - "I speak OIC at Neluwa. Miss's lands are all measured by all these measures today. If you don't understand the Sinhalese, we have nothing to do. It was to ask that the man, he lost. "
-
-Oic- "In addition to the hunting of guns in addition to. There is also stingled. "
-
-...
-
-[Data](articles/3716babc.json)
-
-[Extended Data](ext_articles/3716babc.ext.json)
 
 ---

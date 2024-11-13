@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 18:36:36**
+As of **2024-11-13 18:49:40**
 
 ## Newspaper Stats
 
-*Scraped **54,596** Articles*
+*Scraped **54,597** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,113
 adaderanalk | 6,516
-tamilmirrorlk | 7,642
+tamilmirrorlk | 7,643
 virakesarilk | 8,867
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,590 (100.0%) of 54,596 articles have been extended.
+54,590 (100.0%) of 54,597 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### வெளிநாட்டில் உள்ள இலங்கையர்களுக்கான செய்தி
+
+*2024-11-13 18:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டில்-உள்ள-இலங்கையர்களுக்கான-செய்தி/175-347067) · `ta`
+
+வெளிநாடுகளில் உள்ள இலங்கையர்கள் வெளிநாடுகளில் உள்ள இலங்கை தூதரகங்களில் இருந்து பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் நகல்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
+
+இந்த வேலைத்திட்டம் தெரிவு செய்யப்பட்ட 07 வெளிநாட்டு தூதரகங்கள் மற்றும் கொன்சல் ஜெனரல் அலுவலகங்கள் மூலம் முன்னோடித் திட்டமாக நடைமுறைப்படுத்தப்படவுள்ளது.
+
+அதன்படி, குவைத், ஜப்பான் மற்றும் கட்டார் தூதரகங்கள், அவுஸ்திரேலியாவின் மெல்பர்ன், கனடாவின் டொராண்டோ, இத்தாலியின் மிலான் மற்றும் டுபாய் தூதரகங்கள் மூலம் இந்த முன்னோடி திட்டத்தை செயல்படுத்த எதிர்பார்க்கப்படுகிறது.
+
+இலங்கையில் உள்ள எந்தவொரு பிரதேச செயலகத்திலிருந்தும் பிறப்பு, திருமணம் மற்றும் இறப்புச் சான்றிதழ்களைப் பெறுவதற்கு அமைக்கப்பட்டுள்ள முறைமைக்கு ஏற்ப வெளிநாட்டு தூதரகங்கள் மூலம் இந்தச் சான்றிதழ்களை வழங்கும் வகையில் பதிவாளர் நாயக திணைக்களம் மற்றும் வெளிவிவகார அமைச்சினால் கூட்டாகப் பராமரிக்கப்பட்டு e- BMD தரவுக் கட்டமைப்பை மேம்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/0dabdc49.json)
+
+---
 
 ### Century from unconscious and kusal against New Zealand
 
@@ -2305,37 +2323,5 @@ Local and foreign observers are also present at the Passover of the 2024 General
 [Data](articles/6caa3963.json)
 
 [Extended Data](ext_articles/6caa3963.ext.json)
-
----
-
-### Elections Completion - Marudalingam Pradeepan
-
-*2024-11-12 21:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198546) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliamentary elections complete in Jaffna. 392,280 eligible voters. Special traffic arrangements & ferry services. 62 incidents reported. Voting from 7am-4pm on Thursday at Jaffna Central College.
-
-🟩
-
-Arrangements for parliamentary elections have been completed. District Elections Officer Marudalingam Pradeepan said.
-
-Yall. He said this during a media briefing held at the District Secretariat on Tuesday (12).
-
-Jaffna in the upcoming parliamentary election4 lakhs 92 thousand 280 people are eligible to vote in the district.
-
-Special traffic arrangements have been made for voters to vote. Special ferry services will be featured from the indicator area, especially to the island.
-
-A violent incident and 62 law violations have been reported in Jaffna. A series of measures have been taken in connection with it.
-
-Voting can vote from 7 am to 4 pm on Thursday. Voting activities will begin at night at Jaffna Central College.
-
-◼️
-
-[Data](articles/d45a9b78.json)
-
-[Extended Data](ext_articles/d45a9b78.ext.json)
 
 ---

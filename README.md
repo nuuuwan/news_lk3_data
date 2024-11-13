@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 16:41:00**
+As of **2024-11-13 17:10:29**
 
 ## Newspaper Stats
 
-*Scraped **54,570** Articles*
+*Scraped **54,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,108 @@ dailymirrorlk | 4,733
 adalk | 5,110
 adaderanalk | 6,512
 tamilmirrorlk | 7,641
-virakesarilk | 8,858
+virakesarilk | 8,865
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,569 (100.0%) of 54,570 articles have been extended.
+54,573 (100.0%) of 54,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
 
+### The first meeting of the ICTA Board of Directors today
+
+*2024-11-13 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198606) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New ICTA Board meets, led by Hans Vijayasuriya. Members include Sanjaya Karunasena, Harsha Prasinghe, Chandima Kure, Bandula Ranatunga, Jeffrey Sulbar, Samisa Abeysinghe, Shanuka Rebel. Board aims to strengthen Sri Lanka's digital economy and implement ICT initiatives.
+
+🟩
+
+Meeting of the newly appointed Information Technology Agency (ICTA) Board of Directors (13) will be held in the afternoon.
+
+Hans Vijayasuzha, the executive presidency of the Digital Economics, is the head of the Digital Economics by President Anuragumara Dissanayake, who will expedite economic development, national competitiveness and all citizens who can benefit all citizens, and to strengthen the digital economy of Sri Lanka in parallel to the developed countries.
+
+Sanjaya Karunasena, Harsha Prasinghe, Chandima Kure, Bandula Ranatunga, Jeffrey Sulbar, Samisa Abeysinghe and Shanuka Rebel are members of the ITA Agency (ICTA) Board of Directors (ICTA).
+
+...
+
+[Data](articles/20b1eacc.json)
+
+[Extended Data](ext_articles/20b1eacc.ext.json)
+
+---
+
 ### ​  பயணக்கட்டுபாடுகளை நீக்கியது அமெரிக்கா
 
 *2024-11-13 16:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்கட்டுபாடுகளை-நீக்கியது-அமெரிக்கா/175-347063) · `ta`
 
-இலங்கையில் உள்ள அமெரிக்கத் தூதரகம்  அறுகம்பேவுக்கான  பயணக் கட்டுப்பாடுகளை ஒக்டோபர் 23ஆம் திகதி நீக்கியுள்ளது.
+US Embassy lifts travel restrictions on Arugambe, Sri Lanka. Encourages Americans to exercise caution, report suspicious activities.
 
-"அறுகம்பேவுக்கு 2024 ஒக்டோபர் 23 ஆம் திகதி வெளியிடப்பட்ட பயணக் கட்டுப்பாடுகளை கொழும்பு அமெரிக்கத் தூதரகம் நீக்கியுள்ளது.
+🟩
 
-கொழும்பில் உள்ள அமெரிக்கத் தூதரகம் அனைத்து அமெரிக்க குடிமக்களையும் இலங்கைக்கான பயண ஆலோசனையை மதிப்பாய்வு செய்யவும், விழிப்புடன் இருக்கவும், உங்கள் சுற்றுப்புறங்கள் குறித்து விழிப்புடன் இருக்கவும், சந்தேகத்திற்கிடமான செயல்பாடுகளைப் புகாரளிக்கவும் ஊக்குவிக்கிறது. உள்ளூர் அதிகாரிகளுக்கு அவசரநிலைகள் (119)," தூதரகம் ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+The US Embassy in Sri Lanka has removed travel restrictions on Arughambe on October 23.
 
-இலங்கையில் இஸ்ரேலிய சுற்றுலாப் பயணிகளை குறிவைத்து தாக்குதல் நடத்தும் பணியில் ஈடுபட்டிருந்த அமெரிக்க ஜனாதிபதி வேட்பாளர் டொனால்ட் ட்ரம்ப் படுகொலை செய்ய சதித் திட்டம் தீட்டியதாக ஈரானிய பிரஜை ஒருவருக்கு எதிராக அமெரிக்க நீதித்துறை குற்றஞ்சாட்டியதைத் தொடர்ந்து கடந்த வாரம் பயண ஆலோசனை வழங்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+“The US Embassy in Colombo has lifted the travel restrictions on October 23, 2024 to Arughambe.
+
+கொழும்பில் உள்ள அமெரிக்கத் தூதரகம் அனைத்து அமெரிக்க குடிமக்களையும் இலங்கைக்கான பயண ஆலோசனையை மதிப்பாய்வு செய்யவும், விழிப்புடன் இருக்கவும், உங்கள் சுற்றுப்புறங்கள் குறித்து விழிப்புடன் இருக்கவும், சந்தேகத்திற்கிடமான செயல்பாடுகளைப் புகாரளிக்கவும் ஊக்குவிக்கிறது. Emergency (119) for local authorities, “The embassy said in a statement.
+
+The US Justice Department has been advised last week after the US Justice Department has accused an Iranian citizen of a conspiracy to assassinate US presidential candidate Donald Trump, who was involved in the attack on Israeli tourists in Sri Lanka.
 
 ◼️
 
 [Data](articles/7e74ab71.json)
+
+[Extended Data](ext_articles/7e74ab71.ext.json)
+
+---
+
+### Action Change in Colombo Stock Exchange: Front in Asia
+
+*2024-11-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198602) · `ta`
+
+Colombo Stock Exchange (CSE) performance summary:
+
+
+
+• Ranked 2nd in Bloomberg's Asia list as of Oct 25
+
+• 29.65% growth in USD value
+
+• Daily avg sales: Rs.3.058 billion
+
+• All-share index: 12,517.58
+
+• S&P SL20 index: 3,759.30 points
+
+
+
+Attractive for investors, offering strong growth potential.
+
+🟩
+
+As of October 25, the Colombo Stock Exchange (CSE) is the second highest performance in the Bloomberg bent, with the growth of the 29.65 percent of the US $ 29.65 percent of the US dollars in Asia.
+
+This excellent effectiveness underlines the erection of the capital market in Sri Lanka and the positiveness of its growth for domestic and international investors.
+
+The daily average sale of the week ended on October 25, 2024 is Rs.3.058 billion. Moreover, the CSE has crossed Rs.
+
+In the same week, the all -billion was completed at 12,517.58, and the best record was made by the only point for the record for the highest sales registration for the year.. At the same time, the S&P SL20 index representing the top 20 large and higher liquid shares recorded strong gains and ended at 3,759.30 points.
+
+This makes CSE an attractive choice for investors and retains positive speed and leads to advanced investment opportunities.
+
+◼️
+
+[Data](articles/cebc49e2.json)
+
+[Extended Data](ext_articles/cebc49e2.ext.json)
 
 ---
 
@@ -73,6 +147,34 @@ Therefore, the Commission has warned that those who ignore these guidelines will
 [Data](articles/1f531627.json)
 
 [Extended Data](ext_articles/1f531627.ext.json)
+
+---
+
+### Indonesia - Volcano in Bali;Airline Services cancer
+
+*2024-11-13 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198596) · `ta`
+
+Volcanic ash cancels flights in Bali, Indonesia. Nine killed in nearby eruption. 80 flights cancelled affecting Singapore, Hong Kong, Australia. 130 active volcanoes in Indonesia, part of Pacific Ring of Fire.
+
+🟩
+
+Many international airlines canceled airlines on Indonesia's Bali Tourism Island on Wednesday as the volcanic ash is 10 km (32,808 feet).
+
+Jetstar and Quantas airlines have reported that Bali's airline has been suspended for security reasons due to the surrounding volcano in the sky.
+
+Meanwhile, AirAsia and Virgin have also canceled airlines, according to the flight surveillance website Flyitradar 24.
+
+Bali is part of Indonesia's best tourism and is a place where Australian tourists are attracted.
+
+Nine people were killed when the Levotopi Lucky-Lucky volcano in the Eastern Nusa Tengara province, about 800 km (497 miles) from Bali, was caught in the first time.
+
+Due to this, 80 flights for several countries including Singapore, Hong Kong and Australia have been canceled from the 4th to the 12th of this month, the general manager of the Ngura Rai Airport said.
+
+...
+
+[Data](articles/6562cd73.json)
+
+[Extended Data](ext_articles/6562cd73.ext.json)
 
 ---
 
@@ -124,6 +226,36 @@ The petition was called to date the petition in the face of a judicial body.
 
 ---
 
+### இலங்கைத் தேர்தல்கள்: தமிழர்களுக்கும் பழையன கழிந்து, புதியன புகுந்து
+
+*2024-11-13 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198589) · `ta`
+
+இலங்கையின் அரசியல் உயரடுக்கிற்கு வெளியே முதன்முறையாக ஜனாதிபதி ஒருவர் தெரிவு செய்யப்பட்டமை என்பது இலங்கையின் “அரசியல் பூகம்பம்” என அழைக்கப்படுகின்றது. அனுர குமார திசாநாயக்கவின் தெரிவு என்பது, ஆளும் உயரடுக்கிற்கு வெளிப்படையான வருத்தம் மற்றும் சவாலாக இருந்த போதிலும், இலங்கை அரசின் சில உட்பொதிந்த, கட்டமைப்புசார் பிரச்சினைகளைப் பேணுவதற்கு உறுதியளிப்பதாகவே இருக்கின்றது.
+
+எனினும், வடக்கு-கிழக்கின் வாக்களிப்பு பாங்கானது திசாநாயக்கவின் கட்சி மீதான தமிழ் மக்களின் சந்தேகத்தினை வெளிப்படையாக தெரிவிக்கின்றது. ஏனெனில், அவர்கள் சமகி ஜன பலவேகயவின் சஜித் பிரேமதாச மற்றும் சிவில் சமூகத்தினால் ஆதரிக்கப்பட்ட வேட்பாளரான அரியநேத்திரன் பாக்கியசெல்வம் ஆகியோருக்கே பெருமளவில் வாக்களித்திருந்தனர்.
+
+...
+
+[Data](articles/14da6930.json)
+
+---
+
+### தேர்தல்கள் சட்டத்துக்கும் பொதுச் சட்டத்துக்கும் அமைய பொதுமக்கள் பொறுப்புடன் செயற்பட வேண்டும் - பொலிஸ் ஊடகப் பேச்சாளர்
+
+*2024-11-13 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198584) · `ta`
+
+நாடளாவிய ரீதியில் 1,3421 வாக்களிப்பு மத்திய நிலையங்களின் பாதுகாப்பு உறுதிப்படுத்தப்பட்டுள்ளது. தேர்தல்கள் சட்டத்துக்கும், பொதுச் சட்டத்துக்கும் அமைய பொதுமக்கள் பொறுப்புடன் செயற்பட வேண்டும். சட்டம் மற்றும் ஒழுங்கை பாதுகாப்பதற்கு பொலிஸ் உட்பட முப்படையினர் பாதுகாப்பு கடமைகளில் ஈடுபட்டுள்ளனர்.
+
+வாக்களித்தன் பின்னர் வீடுகளுக்கு செல்லுங்கள், பொது இடங்களில் ஒன்று சட்டம் மற்றும் ஒழுங்குக்கு பாதிப்பு ஏற்படும் வகையில் செயற்படுவதை இயலுமான வகையில் தவிர்த்துக் கொள்ளுங்கள். அமைதியான முறையில் தேர்தலை நடத்துவதற்கும், அதனைத் தொடர்ந்து சட்டம் மற்றும் ஒழுங்கை பாதுகாப்பதற்கும் கடுமையான நடவடிக்கைகள் எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு அமைச்சு நாட்டு மக்களுக்கு அறிவுறுத்தியுள்ளது.
+
+தேர்தல் பணிகள் மற்றும் பாதுகாப்பு விடயங்கள் குறித்து பொலிஸ் ஊடகப்பேச்சாளர் பதில் பொலிஸ்மா அதிபரும், சட்டத்தரணியுமான நிஹால் தல்துவ குறிப்பிடுகையில்,
+
+...
+
+[Data](articles/01443fd1.json)
+
+---
+
 ### Sri Lanka to benefit the coin
 
 *2024-11-13 14:02:59* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413014) · `si`
@@ -148,6 +280,26 @@ Sri Lanka captain Charith won the toss and elected to bat first, he decided to b
 
 ---
 
+### ஏர்ஷோ சைனா ஆரம்பம்: அமெரிக்காவும் பங்கேற்பு
+
+*2024-11-13 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198583) · `ta`
+
+ஏர்ஷோ சைனா அல்லது ஜுஹாய் ஏர்ஷோ 2024 என்றும் அழைக்கப்படும் 15ஆவது சீன சர்வதேச விமான மற்றும் விண்வெளி கண்காட்சி, தெற்கு சீனாவின் குவாங்டாங் மாகாணத்தில் உள்ள ஜுஹாய் நகரில் இன்று ஆரம்பமாகியுள்ளது.
+
+சீன மக்கள் விடுதலை இராணுவ விமானப்படையின் தளபதி ஜெனரல் சாங் டிங்கியூ ஆரம்ப விழாவில் உரையை நிகழ்த்தினார்.தகவல் தொடர்புத் தளத்தை திறந்ததாகக் முன்னேற வேண்டியதன் அவசியத்தை அவர் வலியுறுத்தினார்.
+
+தொடக்க விழாவில் பல்வேறு நாடுகளின் விமானப் படையைச் சேர்ந்த ராணுவ அதிகாரிகள் பங்கேற்று விமானச் செயற்பாட்டைப் பார்வையிட்டனர்.
+
+கண்கவர் விண்வெளி நிகழ்ச்சிகள் மற்றும் உலகளாவிய பார்வையாளர்களுக்காக சமீபத்திய மேம்பட்ட இராணுவ உபகரணங்களை காட்சிப்படுத்தும் இந்த விமான நிகழ்ச்சி நவம்பர் 12 முதல் 17 வரை நடைபெறவுள்ளது.
+
+ரஷ்யா, பிரான்ஸ், அமெரிக்கா, சவுதி அரேபியா மற்றும் இத்தாலி உள்ளிட்ட 47 நாடுகளில் இருந்து மொத்தம் 1,022 கண்காட்சியாளர்கள் இந்த விமானக் கண்காட்சியில் பங்கேற்கவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/65daf2fd.json)
+
+---
+
 ### Sri Lanka sees less election complaints than in previous years
 
 *2024-11-13 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-less-election-complaints-than-in-previous-years-187148/) · `en`
@@ -167,6 +319,24 @@ Historically, Sri Lanka has seen violent incidents sometimes leading to deaths, 
 [Data](articles/28d4cd31.json)
 
 [Extended Data](ext_articles/28d4cd31.ext.json)
+
+---
+
+### காற்றின் தரம் குறைவு : டெல்லியில் விமான சேவை பாதிப்பு
+
+*2024-11-13 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198585) · `ta`
+
+இந்திய தலைநகர் டெல்லியில் குளிர்காலம் தொடங்கியது முதலே காற்று மாசு அதிகரித்து காணப்படுவதாக தெரிவிக்கப்படுகிறது.
+
+இந்நிலையில், டெல்லியில் கடந்த சில நாட்களாக காற்று மாசு அதிகரித்துள்ளது. இந்திய மத்திய மாசுக்கட்டுப்பாட்டு வாரியத்தின் தரவுகளின்படி, கடந்த 24 மணி நேரத்தில் டெல்லியில் காற்று தரக் குறியீடு (AQI) 366 ஆக பதிவாகியுள்ளது. காற்றின் தரம் 'மிகவும் மோசமான' பிரிவில் இருந்ததால், பல்வேறு பகுதியில் இன்று புதன்கிழமை (13)  காலை அடர்ந்த மூடுபனி நிலவியுள்ளது.
+
+இந்நிலையில், டெல்லி இந்திரா காந்தி சர்வதேச விமான நிலையத்தில் காலை 8.30 மணிக்கு விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்ததால், ஒரு சில விமானங்கள் தரையிறங்காமல் திருப்பி விடப்பட்டன. இதனால் டெல்லியில் விமான சேவை பாதிக்கப்பட்டுள்ளது.
+
+அதேபோல, ஆனந்த் விஹார் மற்றும் ஆயா நகர் ஆகிய 2 கண்காணிப்பு நிலையங்களில் காற்றின் தரம் கடுமையான பிரிவில் பதிவானதாக இந்திய மத்திய மாசு கட்டுப்பாட்டு வாரியம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b89d1c50.json)
 
 ---
 
@@ -2165,191 +2335,5 @@ It is noteworthy that the questionnaire includes many questions about the Nation
 [Data](articles/14ed7115.json)
 
 [Extended Data](ext_articles/14ed7115.ext.json)
-
----
-
-### Political Party Questions in Questionnaire
-
-*2024-11-12 18:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளில்-அரசியல்-கட்சி-வினாக்கள்/175-347016) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Education Ministry probes Kalutara school over political questionnaire. Inquiry focuses on questions about National People's Power Party and last presidential election. School officials deny Ministry involvement. Investigation ongoing.
-
-🟩
-
-The Ministry of Education has announced that the Ministry of Education will be conducting a ministry level inquiry into the second term of a school in Kalutara.
-
-The Ministry of Education has issued a statement that the Secretary to the Ministry Tilaka Jayasundera has issued a directive to the relevant authorities.
-
-Accordingly, the second installment of the high -quality students of the CWW Gunnangara Central College in the Kalutara District is to be investigated on the inclusion of political questions.
-
-The Secretary of the Ministry of Education pointed out that the questionnaire was set up by the school officials and that it was not connected to the Ministry or any other institutional level.
-
-He added that appropriate action will be taken after a proper investigation at the ministry level.
-
-It is noteworthy that the questionnaire includes many questions about the National People's Power Political Party, President Anura Kumara Dissanayake and the last presidential election.
-
-◼️
-
-[Data](articles/a42bee71.json)
-
-[Extended Data](ext_articles/a42bee71.ext.json)
-
----
-
-### 497 Indian fishermen arrested this year
-
-*2024-11-12 18:13:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ඉන්දීය-ධීවරයින්-497ක්-අල්ලයි/11-413005) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Indian fishermen arrests: 496 vessels, 497 fishermen detained by Sri Lankan Navy this year. Recent arrest of 12 fishermen highlights ongoing efforts to combat illegal fishing activities.
-
-🟩
-
-Shipping sixty-six Indian fishing vessels and four hundred and ninety-six Indian fishermen have been arrested in the Navy's operations in the Navy this year.
-
-The Navy has arrested twelve Indian fishermen with Indian fishing vessel from the Sri Lanka Navy yesterday.
-
-Navy Headquarters said that the Navy has continued to suppress the illegal fishing of the local fishing community in foreign fishing vessels.
-
-◼️
-
-[Data](articles/8eb7b9b2.json)
-
-[Extended Data](ext_articles/8eb7b9b2.ext.json)
-
----
-
-### Request of Minister Vijitha America Embassy
-
-*2024-11-12 18:09:14* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-ඇමෙරිකානු-තානාපති-කාර්යාලයෙන්-කළ-ඉල්ලීම/11-413004) · `si`
-
-Sri Lanka requests US Embassy remove tourist counselor due to security concerns. Defense Secretary visits area, strengthens security measures. US warns citizens to avoid Arugambay. Government investigates threats, arrests suspects.
-
-🟩
-
-The Foreign Ministry has requested the United States Embassy to remove the tourist counsel for the US embassy until he was notified in the area.. The Defense Secretary Thusicontha was also visiting the area of ​​Thusicontha in the face of this situation, and he said the security area has been strengthened.
-
-The request was made by External Affairs Minister Vijitha Herath. On October 23, the US Embassy issued a warning announcement that the US Embassy was attacked targeting Sri Lanka, including Arugambay area. The US citizens of Sri Lanka have been asked to avoid traveling in Arumbe until again.
-
-After the announcement, several other countries asked to preclude to the citizens of the region.
-
-In the face of the situation, the government had taken steps to strengthen the security of the area and the intelligence had been used to constantly investigate its security activities.. Accordingly, several persons have already been arrested. Further investigations are conducting further investigations.
-
-◼️
-
-[Data](articles/fe032c9a.json)
-
-[Extended Data](ext_articles/fe032c9a.ext.json)
-
----
-
-### மத்துகம சி.டபிள்யூ.டபிள்யூ. Kannangara Central Maha Vidyalaya: Proper inquiry into the General Knowledge Examination Questionnaire - Ministry of Education
-
-*2024-11-12 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198538) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Education Ministry investigates exam questions controversy at Kalutara school. Proper inquiry to be conducted before taking action.
-
-🟩
-
-Kalutara District CWW. கண்ணங்கர மத்திய மகா வித்தியாலயத்தில் இரண்டாம் தவணை பரீட்சையில் உயர்தர மாணவர்களுக்கு வழங்கப்பட்ட பொது அறிவு பரீட்சை வினாத்தாள் தொடர்பில் அமைச்சு மட்டத்தில் முன்னெடுக்கப்படும் முறையான விசாரணைகளின் பின்னர்; உரிய நடவடிக்கைகள் எடுக்கப்படும் எனக் கல்வி அமைச்சு அறிவித்துள்ளது.
-
-Kalutara District CWW. கண்ணங்கர மத்திய மகா வித்தியாலயத்தில் இரண்டாம் தவணை பரீட்சையில் உயர்தர மாணவர்களுக்கு வழங்கப்பட்ட பொது அறிவு பரீட்சை வினாத்தாளில் அரசியல் கட்சி  தொடர்பில் கேள்விகள் கேட்கப்பட்டுள்ளதாக முன்வைக்கப்படும் விடயம் குறித்து உடன் விசாரணைகளை மேற்கொள்ளுமாறு கல்வி, விஞ்ஞானம், மற்றும் தொழில்நுட்ப  அமைச்சின்  செயலாளர் திலகா ஜயசுந்தர உரிய அதிகாரிகளுக்கு ஆலோசனை வழங்கியுள்ளார்.
-
-The exam question paper is prepared at the appropriate school level. Therefore, the Ministry of Education or other institutions has nothing to do with the Ministry of Education.
-
-The Ministry of Education has stated that appropriate action will be taken after a proper inquiry into the ministry level.
-
-◼️
-
-[Data](articles/651af6f1.json)
-
-[Extended Data](ext_articles/651af6f1.ext.json)
-
----
-
-### 29 national list MPs 527 queue
-
-*2024-11-12 18:03:57* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ලැයිස්තු-මන්ත්‍රීන්-29ට-තේරෙන්න--527-ක්-පෝලිමේ/11-413003) · `si`
-
-Elections Commission publishes 527 qualified candidates for national list MP positions. 29 will be elected from these candidates based on party vote totals.
-
-🟩
-
-The Elections Commission has published 527 qualified persons who have come to the Election Commission as a national listing Men.
-
-The Elections Commission states that 27 reputable political parties and two independent groups in the election of this year's parliamentary election have been submitted with the electoral names.
-
-Accordingly, 29 persons who have been submitted by the total number of votes achieved by the total number of votes taken this year's general election will be given to national lists as parliamentarians according to the 99 constitution.
-
-◼️
-
-[Data](articles/77f8e1e6.json)
-
-[Extended Data](ext_articles/77f8e1e6.ext.json)
-
----
-
-### Legal action will be taken on the financial fraud of politicians in the Sri Lanka Foreign Employment Bureau - Goshala Wickremasinghe
-
-*2024-11-12 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198534) · `ta`
-
-Sri Lanka Foreign Employment Bureau investigates 15 corruption complaints involving politicians. Chairman Goshala Wickremasinghe vows to clean up bureau's image after political interference.
-
-🟩
-
-15 complaints have been received regarding corruption scandal in the past at the Sri Lanka Foreign Employment Bureau. Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe said that politicians have been informed of financial fraud and financial fraud.
-
-He was speaking at a special press conference held at the Sri Lanka Foreign Employment Bureau on Tuesday (12).
-
-With the intervention of politicians within the Sri Lanka Foreign Employment Bureau, I gave my personal telephone number to complain about corruption scandals. Accordingly, we have informed the Internal Audit Division for the complaints we received.
-
-Accordingly, we are going to start 15 complaints in those complaints. In the coming weeks, we will find out about the departments of those inquiries.The Internal Audit Unit has taken steps to investigate 15 complaints of corruption scandal in the Bureau.
-
-...
-
-[Data](articles/4c9ff989.json)
-
-[Extended Data](ext_articles/4c9ff989.ext.json)
-
----
-
-### Two killed and drinking a bottle of illegal liquor
-
-*2024-11-12 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203184) · `si`
-
-Two men hospitalized after consuming illicit liquor in Pitigala. Four individuals affected, including elderly residents. Liquor production site identified.
-
-🟩
-
-Pitigala reportedly reported a number of two men who have drunk into a bottle of liquor produced in a manufacture of liquor.
-
-The Galle District DIG's office said that the two people were hospitalized in a serious condition.
-
-The incident has occurred at the residence of a resident of Mathta area in Pitigala.
-
-Four persons have been drunk with the liquor bottle at night last night and later admitted to the Elpitiya Hospital due to allergies.
-
-Dharmapala, a 60-year-old man named Harrison Wijeratne, a 76-year-old man who was a 76-year-old man in Mattala.
-
-A 64-year-old man has been transferred to the ICU of the Karapitiya Hospital and the liquor bottle is being brought.
-
-The other person is currently in critical condition of the emergency unit of the Elpitiya Hospital.
-
-◼️
-
-[Data](articles/949c5922.json)
-
-[Extended Data](ext_articles/949c5922.ext.json)
 
 ---

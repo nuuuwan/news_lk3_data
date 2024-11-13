@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 19:40:58**
+As of **2024-11-13 20:00:06**
 
 ## Newspaper Stats
 
-*Scraped **54,600** Articles*
+*Scraped **54,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,266
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,114
+adalk | 5,115
 adaderanalk | 6,516
 tamilmirrorlk | 7,644
 virakesarilk | 8,867
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,600 (100.0%) of 54,600 articles have been extended.
+54,600 (100.0%) of 54,601 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,22 @@ Accordingly, at an early stage, only about 45 million birth, marriage and death 
 [Data](articles/0dabdc49.json)
 
 [Extended Data](ext_articles/0dabdc49.ext.json)
+
+---
+
+### මැතිවරණයට අදාළව සමාජ මාධ්‍ය පැමිණිලි 490 ක් ලැබිලා
+
+*2024-11-13 18:06:14* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-සමාජ-මාධ්‍ය-පැමිණිලි-490-ක්-ලැබිලා/11-413020) · `si`
+
+මෙවර පාර්ලිමේන්තු මැතිවරණයට අදාළව ඔක්තෝම්බර් 11 දා සිට මේ දක්වා  මාසයක  කාලය තුළ  සමාජ මාධ්‍ය හා සම්බන්ධ පැමිණිලි 490 ක් ලැබී ඇතැයි මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+එම පැමිණිලිවලට අදාළ අන්තර්ගතයන් අදාළ සමාජ මාධ්‍ය ආයතන වෙත යොමු කිරීමෙන් පසු එයින්  අන්තර්ගතයන් 184 ක් එම ආයතන මගින් ඉවත් කර  අන්තර්ගතයන් 87 ක්   ඉවත්කර ගැනීම ප්‍රතික්ෂේප කළ බවත් ඉතිරි  අන්තර්ගතයන් 219 සඳහා පසු විපරම් පණිවුඩ  ලැබීමට නියමිතව ඇති බවත් මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+මෙලෙස ලැබුණු පැමිණිලිවලින් 179 ක් අපහාසාත්මක අන්තර්ගතයන් සම්බන්ධයෙනි.වෛරී ප්‍රකාශන 67  ක් දුස් තොරතුරු 52 ක්  ,ළමුන් සම්බන්ධයෙන් 39 ක්,මැතිවරණ පනතට පටහැනි 124 ක් සහ වැරදි පුවත් 29 ක් වශයෙන් ඉතිරි අන්තර්ගතයන් පැවති බව මැතිවරණ කොමිෂන් සභාව වැඩි දුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/161b3d7b.json)
 
 ---
 
@@ -2337,21 +2353,5 @@ Turnover stood at Rs 4.29 billion with three crossings. Those crossings were rep
 [Data](articles/b67d619b.json)
 
 [Extended Data](ext_articles/b67d619b.ext.json)
-
----
-
-### Dept. for Registration of Persons closed on election day
-
-*2024-11-12 22:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103366/dept-for-registration-of-persons-closed-on-election-day) · `en`
-
-The Department for Registration of Persons has announced that all public services including its one-day service will be unavailable on November 14, 2024.
-
-The statement explains that, due to the General Election being held on that day, department staff have been assigned to election duties and therefore, the services will not be operational.
-
-◼️
-
-[Data](articles/ac46166d.json)
-
-[Extended Data](ext_articles/ac46166d.ext.json)
 
 ---

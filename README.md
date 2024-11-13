@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 00:41:09**
+As of **2024-11-14 00:26:41**
 
 ## Newspaper Stats
 
-*Scraped **54,639** Articles*
+*Scraped **54,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,743
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,651
+tamilmirrorlk | 7,650
 virakesarilk | 8,874
 adaderanasinhalalk | 9,505
 
@@ -26,27 +26,9 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,633 (100.0%) of 54,639 articles have been extended.
+54,633 (100.0%) of 54,638 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-14 (Thursday)
-
-### புகைப்படம் எடுக்கவேண்டாம்
-
-*2024-11-14 00:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுக்கவேண்டாம்/175-347078) · `ta`
-
-வாக்குப்பதிவு தொடர்பான நடவடிக்கைகளை புகைப்படம் எடுப்பதையோ, படம் எடுப்பதையோ, அதுபோன்ற படங்கள் அல்லது வீடியோக்களை சமூக வலைதளங்களில் பதிவேற்றுவதையோ பொதுமக்கள் தவிர்க்க வேண்டும் என்று தேர்தல் ஆணையம் அறிவுறுத்தியுள்ளது.
-
-வாக்குச் சாவடிகள், குறியிடப்பட்ட வாக்குச் சீட்டுகளை புகைப்படம் எடுப்பது அல்லது படமெடுப்பது, அவற்றை சமூக வலைதளங்களில் பகிர்வது தேர்தல் சட்டத்தை மீறும் செயல் என்று ஆணையம் விடுத்துள்ள ஓர் அறிக்கையில் தெரிவித்துள்ளது.
-
-எனவே, இந்த வழிகாட்டுதல்களை புறக்கணிப்பவர்கள் சட்டரீதியான விளைவுகளை சந்திக்க நேரிடும் என்று தேர்தல் ஆணையம் எச்சரித்துள்ளது.
-
-◼️
-
-[Data](articles/0e04991b.json)
-
----
 
 ### 2024-11-13 (Wednesday)
 
@@ -2435,5 +2417,31 @@ Accordingly, doctors in the Negombo General Hospital are trying to overcome the 
 [Data](articles/1b9a48de.json)
 
 [Extended Data](ext_articles/1b9a48de.ext.json)
+
+---
+
+### Pussellawa
+
+*2024-11-13 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198550) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wasps attack plantation workers in Pussella-Melbatwatta. One worker killed, six injured. Three hospitalized, including one who died untreated. Four others treated locally. Police investigating incident.
+
+🟩
+
+One person was killed when a wasps were dumped on plantation workers who were working in Pussella - Melbatwatta.
+
+Six persons who were targeted for the wasps were admitted to the Gampola Hospital after being admitted to the Gampolai Hospital, a man died without treatment, police said.
+
+In addition, another person who is targeted for the wasp is receiving treatment at the Gampola hospital and four other people have been treated for treatment, police said.
+
+◼️
+
+[Data](articles/bc9a8466.json)
+
+[Extended Data](ext_articles/bc9a8466.ext.json)
 
 ---

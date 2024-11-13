@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 16:25:18**
+As of **2024-11-13 16:41:00**
 
 ## Newspaper Stats
 
-*Scraped **54,569** Articles*
+*Scraped **54,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,110
 adaderanalk | 6,512
-tamilmirrorlk | 7,640
+tamilmirrorlk | 7,641
 virakesarilk | 8,858
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,568 (100.0%) of 54,569 articles have been extended.
+54,569 (100.0%) of 54,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### ​  பயணக்கட்டுபாடுகளை நீக்கியது அமெரிக்கா
+
+*2024-11-13 16:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்கட்டுபாடுகளை-நீக்கியது-அமெரிக்கா/175-347063) · `ta`
+
+இலங்கையில் உள்ள அமெரிக்கத் தூதரகம்  அறுகம்பேவுக்கான  பயணக் கட்டுப்பாடுகளை ஒக்டோபர் 23ஆம் திகதி நீக்கியுள்ளது.
+
+"அறுகம்பேவுக்கு 2024 ஒக்டோபர் 23 ஆம் திகதி வெளியிடப்பட்ட பயணக் கட்டுப்பாடுகளை கொழும்பு அமெரிக்கத் தூதரகம் நீக்கியுள்ளது.
+
+கொழும்பில் உள்ள அமெரிக்கத் தூதரகம் அனைத்து அமெரிக்க குடிமக்களையும் இலங்கைக்கான பயண ஆலோசனையை மதிப்பாய்வு செய்யவும், விழிப்புடன் இருக்கவும், உங்கள் சுற்றுப்புறங்கள் குறித்து விழிப்புடன் இருக்கவும், சந்தேகத்திற்கிடமான செயல்பாடுகளைப் புகாரளிக்கவும் ஊக்குவிக்கிறது. உள்ளூர் அதிகாரிகளுக்கு அவசரநிலைகள் (119)," தூதரகம் ஒரு அறிக்கையில் தெரிவித்துள்ளது.
+
+இலங்கையில் இஸ்ரேலிய சுற்றுலாப் பயணிகளை குறிவைத்து தாக்குதல் நடத்தும் பணியில் ஈடுபட்டிருந்த அமெரிக்க ஜனாதிபதி வேட்பாளர் டொனால்ட் ட்ரம்ப் படுகொலை செய்ய சதித் திட்டம் தீட்டியதாக ஈரானிய பிரஜை ஒருவருக்கு எதிராக அமெரிக்க நீதித்துறை குற்றஞ்சாட்டியதைத் தொடர்ந்து கடந்த வாரம் பயண ஆலோசனை வழங்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/7e74ab71.json)
+
+---
 
 ### Violation of the telephone number can cause legal consequences
 
@@ -82,17 +100,27 @@ The police rushed to the scene and rescued the ballot boxes on the accident and 
 
 ---
 
-### හිඟ බදු නොගෙව්වොත් මත්පැන් සමාගම් 05ක බලපත්‍ර වලට කරන්න යන දේ මෙන්න
+### Here is what five liquor licenses will be done if arrears are not leased out
 
 *2024-11-13 15:35:32* · [`adalk`](https://www.ada.lk/breaking_news/හිඟ-බදු-නොගෙව්වොත්-මත්පැන්-සමාගම්-05ක-බලපත්‍ර-වලට-කරන්න-යන-දේ-මෙන්න/11-413015) · `si`
 
-හිඟ බදු මුදල් ලබන 30 වැනිදාට පෙර නොගෙවීමට කටයුතු කරන මත්පැන් නිෂ්පාද සමාගම් 05ක බලපත්‍ර අත්හිටුවීමට සුරාබදු දෙපාර්තමේන්තුව තීරණය කර ඇති බව නීතිපතිවරයා විසින් අද (13දා) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+Here's a summary in 200 characters:
 
-ඒ අදාළ පෙත්සම ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ අද කැඳවනු ලැබූ අවස්ථාවේදීයි.
+
+
+5 liquor licenses suspended if arrears unpaid: AG informs SC about Excise Dept.'s decision to revoke licenses of non-paying liquor manufacturers. Petition filed seeking immediate action from judicial body.
+
+🟩
+
+The Attorney General has informed the Supreme Court today that the Excise Department has decided to suspend the licenses of the liquor manufacturers who do not pay for the loss of the deficit.
+
+The petition was called to date the petition in the face of a judicial body.
 
 ◼️
 
 [Data](articles/f6966692.json)
+
+[Extended Data](ext_articles/f6966692.ext.json)
 
 ---
 
@@ -2323,35 +2351,5 @@ The other person is currently in critical condition of the emergency unit of the
 [Data](articles/949c5922.json)
 
 [Extended Data](ext_articles/949c5922.ext.json)
-
----
-
-### Rohitha's cousin prohibited from leaving country
-
-*2024-11-12 17:49:40* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-ගැටලුවක්-නිසා-රෝහිතගේ-ඥාති-පුතෙකුට-රටින්-පිටවීම-තහනම්/11-413002) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court order bans relative of ex-minister from leaving country. Two vehicles seized, report indicates possible government ownership or theft. Suspect evades police questioning, claims absence when visited at home.
-
-🟩
-
-Mrs. Kandy Additional Magistrate Vasana Navaratne has issued a court order for banning a relative of a former powerful minister.
-
-The Government Analyst's report was sent into custody vehicles into two billion vehicles and the Government Analyst vehicles were given by two bans of Rs.
-
-Don Isuru Isuru Pradeep Saddhatississississississississa, Don Isuru, has been released against anyone who operates.
-
-The Kandy Criminal Investigation Unit informed the suspect on several occasions to get a statement on the two illegal vehicles, he has taken the injunction due to police misses. Police say that the police go to his home on several occasions, but he said he was not at home.
-
-The suspect's modern car in the 20th of October last October and the Mitsusubishi jeep was arrested by the Kandy Criminal Investigation Unit of Kandy.
-
-...
-
-[Data](articles/d65e8b57.json)
-
-[Extended Data](ext_articles/d65e8b57.ext.json)
 
 ---

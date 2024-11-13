@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 12:41:23**
+As of **2024-11-13 12:59:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,548 (100.0%) of 54,549 articles have been extended.
+54,549 (100.0%) of 54,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -450,19 +450,37 @@ The Chairman of the Elections Commission, RMAL, demands that voters should be co
 
 ---
 
-### කොකේන් මත්ද්‍රව්‍ය ගුලි ගිල දමා පැමිණි සියරාලියොන් ජාතිකයෙක් අල්ලයි
+### Zaralione crashed into cocaine
 
 *2024-11-13 09:25:15* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-ගුලි-ගිල-දමා-පැමිණි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-413010) · `si`
 
-කොකේන් මත්ද්‍රව්‍ය තොගයක් ගුලි වශයෙන් සකස් කර , ඒවා ගිල දමා පැමිණි සියරාලියෝන් ජාතිකයෙකු 11/12 දින කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට යාමට තැත් කරමින් සිටියදී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මොහු සියරාලියෝන් හි වාසය කරන 32 හැවිරිදි වී ගොවියෙකි. මොහු 11/12 දින අලුයම 05.49 ට තුර්කියේ ඉස්තාන්බුල් නුවර සිට තුර්කි ගුවන් සේවයේ ටී.කේ.- 730 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
 
-ගුවන් තොටුපොළ හරිත මාවත ඔස්සේ පිටව යාමට පැමිණි මෙම ගුවන් මගියා පිළිබඳ සැක සිතූ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් , මොහු පරිලෝකන පරීක්ෂා කිරීමකට ( Scan Test ) ලක් කිරීමේ දී , මොහුගේ ආමාශය තුළ , කොකේන් මත්ද්‍රව්‍ය ගුලි වශයෙන් සකස් කර ගිල දමා පැමිණ ඇති බව අනාවරණය වී තිබේ .
 
-...
+Sri Lankan man caught smuggling cocaine at Katunayake airport. 32-year-old farmer attempted to swallow 56 cocaine pellets worth $200. Arrested and hospitalized after police intervention. Doctors treating him for cocaine overdose.
+
+🟩
+
+A clirelione who has been pulled in cocaine and swallowed them in the Katunayake airport, "Green Channel" (GREEN PACE), the Customs Drug Administration Division while attempting to go out of the airport on the Bandaranaike International Airport on 11/12Was arrested.
+
+He is a 32-year-old farmer who lives in Zearlaione. He was from Istanbul, Turkish Airlines, Turkish Airport, at Turkish Airport on 11/12.
+
+Customs Drug Administration and Officers who were suspicious of the airport to leave the airport..
+
+Accordingly, the passenger was handed over to the officers of the Police Narcotics Bureau of Katunayake and the officials were admitted to the Negombo General Hospital.
+
+The hospital's doctors have recovered 56 cocaine gulus worth about Rs. 30,000.
+
+A spokesman for the Katunayake Police Narcard of Katunayake has been swallowed up of 80 of the air passenger gulus, cocaine.
+
+Accordingly, doctors in the Negombo General Hospital are trying to overcome the saver of cocaine, which is left in his stomach.
+
+◼️
 
 [Data](articles/1b9a48de.json)
+
+[Extended Data](ext_articles/1b9a48de.ext.json)
 
 ---
 

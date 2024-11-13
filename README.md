@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 12:01:00**
+As of **2024-11-13 11:25:02**
 
 ## Newspaper Stats
 
-*Scraped **54,547** Articles*
+*Scraped **54,540** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
-colombotelegraphcom | 557
+colombotelegraphcom | 556
 bbccomsinhala | 557
 islandlk | 3,265
-economynextcom | 3,305
+economynextcom | 3,303
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,105
+adalk | 5,104
 adaderanalk | 6,504
-tamilmirrorlk | 7,637
+tamilmirrorlk | 7,634
 virakesarilk | 8,855
 adaderanasinhalalk | 9,505
 
@@ -26,79 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,545 (100.0%) of 54,547 articles have been extended.
+54,539 (100.0%) of 54,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
-
-### ”இம்முறை தேர்தல் ஆணைக்குழுவிற்கு செலவு அதிகம்”
-
-*2024-11-13 11:50:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்முறை-தேர்தல்-ஆணைக்குழுவிற்கு-செலவு-அதிகம்/175-347057) · `ta`
-
-இம்முறை பாராளுமன்ற தேர்தலுக்கு அதிக எண்ணிக்கையிலான வேட்பாளர்கள் இருப்பதால், கூடுதல் வாக்கு எண்ணும் மையங்கள், ஆவணப் பணிகள், வாக்குச் சீட்டு அச்சிடுதல் போன்றவற்றில் கூடுதல் செலவுகள் தேர்தல் ஆணைக்குழுவிற்கு ஏற்பட்டுள்ளதாக தேர்தல்கள் ஆணையாளர் நாயகம் நேற்று (13) தெரிவித்தார்.
-
-தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க டெய்லி மிரருக்குத் தெரிவித்ததாவது, வேட்பாளர்களின் எண்ணிக்கை அதிகரித்ததன் விளைவாக ஒவ்வொரு தேர்தல் மாவட்டத்திற்கும் ஏற்ப வாக்குச்சீட்டுகளில் பெரும் வேறுபாடுகள் உள்ளன.
-
-கடந்த முறை 1713 ஆக இருந்த வாக்கு எண்ணும் மையங்களின் எண்ணிக்கை இம்முறை 2034 ஆக அதிகரித்துள்ளது என்றார்.
-
-"இவை அனைத்தும் தேர்தல் அலுவலகத்திற்கு கூடுதல் செலவாகும். இருப்பினும், வாக்குப்பதிவைத் தொடர்ந்து சரியான மதிப்பீடுகள் செய்யப்பட்ட பின்னரே துல்லியமான செலவு உயர்வை அறிய முடியும்," என்று அவர் கூறினார்.
-
-...
-
-[Data](articles/5d2e2d89.json)
-
----
-
-### Sri Lanka rupee trading stronger at 292.25/35 to dollar, bond yields down further
-
-*2024-11-13 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-stronger-at-292-25-35-to-dollar-bond-yields-down-further-187090/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 292.25/35 to the US dollar Wednesday from 292.45/55 to the US dollar on Tuesday, dealers said, while bond yields were considerably down.
-
-A bond maturing on 15.12.2027 was quoted at 10.95/11.05 percent, from 11.10/25 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.25/33 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.60/70 percent, down from 11.65/80 percent.
-
-An auction of 147,500 million rupees of treasury bills was ongoing.
-
-In equities, Colombo’s All Share Price Index was trading up 0.66 percent, or 85.09 points higher at 13,074.08, while the S&P SL20 of more liquid stocks was up 1.00 percent or 38.78 points higher at 3,925.94.
-
-◼️
-
-[Data](articles/768439ae.json)
-
-[Extended Data](ext_articles/768439ae.ext.json)
-
----
-
-### Selby from the running train; two men injured
-
-*2024-11-13 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓடும்-ரயிலில்-இருந்து-செல்பி-இருவர்-படுகாயம்/175-347054) · `ta`
-
-Korean tourist dies taking selfie on moving train in Sri Lanka. Two men injured in separate incidents at Haputale railway station. Police investigating.
-
-🟩
-
-A Korean tourist who tried to take a selfie from a running train died tragically.
-
-On Monday night (11), a foreigner, who was traveling on a fast train heading to Badulla, was hit by a railway line when he was standing in a train staircase near the Haputtala railway station.
-
-The injured tourist has been taken to the Diyathalawa Hospital and transferred to the Badulla Teaching Hospital in critical condition, police said.. The victim has been identified as Sholi Tong Bay, a 61 -year -old Korean tourist.
-
-Dr. Palitha Rajapaksa, a senior medical officer of the Badulla Teaching Hospital's Emergency Department, said that a Korean tourist head injury was severely injured.
-
-Meanwhile, a woman from Ratgama area was traveling to Badulla on a night postal train and fell off a running train when he was trying to board a running train at the Haputhal Railway Station.
-
-...
-
-[Data](articles/291f8a12.json)
-
-[Extended Data](ext_articles/291f8a12.ext.json)
-
----
 
 ### Complaint regarding slandered video recordings
 
@@ -224,30 +156,6 @@ Voting boxes and officials for the general election, which will be held on Thurs
 
 ### Name of candidate list;Complaint
 
-*2024-11-13 10:44:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வேட்பாளர்-பட்டியலில்-பெயர்-பெண்-முறைப்பாடு/150-347050) · `ta`
-
-Candidate list controversy: Woman's name added without consent in Jaffna election. She filed a complaint with the Election Commission, seeking removal from the list.
-
-🟩
-
-Jaffna in the upcoming parliamentary election. A woman has lodged a complaint with the Election Commission that an independent committee contesting in the electoral district has mentioned her name on the list of candidates.
-
-“An independent group mentioned my name on the list of candidates without his permission. I have not been able to know this so far. Yesterday, a student of my student took me a phone call and contest the election?When I questioned, it was revealed that my name had come to the list.
-
-Jaffna to ensure that. I have confirmed that it is my name for the District Election Department office on Tuesday and that my name is included in the candidate list without my permission. ”
-
-In this regard, Jaffna. I have appealed to the District Assistant Election Commissioner in writing. ”
-
-◼️
-
-[Data](articles/676df91f.json)
-
-[Extended Data](ext_articles/676df91f.ext.json)
-
----
-
-### Name of candidate list;Complaint
-
 *2024-11-13 10:44:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-பட்டியலில்-பெயர்-பெண்-முறைப்பாடு/175-347050) · `ta`
 
 Candidate list controversy: Woman's name added without consent in Jaffna election. She filed a complaint with the Election Commission and contacted the District Election Department.
@@ -267,24 +175,6 @@ In this regard, Jaffna. I have appealed to the District Assistant Election Commi
 [Data](articles/d5df0d7c.json)
 
 [Extended Data](ext_articles/d5df0d7c.ext.json)
-
----
-
-### New Zealand and Sri Lanka ODI match today
-
-*2024-11-13 10:39:28* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත---ශ්‍රී-ලංකා-පළමු-එක්දින-ක්‍රිකට්-තරගය-අද/9-413012) · `si`
-
-Sri Lanka vs New Zealand ODI match today at Dambulla International Cricket Stadium.
-
-🟩
-
-The first one-day match between Sri Lanka and the Sri Lankan team will be held today (13) at the Dambulla International Cricket Stadium.
-
-◼️
-
-[Data](articles/24ef4ffe.json)
-
-[Extended Data](ext_articles/24ef4ffe.ext.json)
 
 ---
 
@@ -342,23 +232,17 @@ All measures have been completed for the general election to be held in the Batt
 
 ---
 
-### Today's case against the Nuwara Eliya Post Office
+### நுவரெலியா அஞ்சல் அலுவலகத்தை விற்கும் நடவடிக்கைக்கு எதிரான வழக்கு விசாரணை இன்று
 
 *2024-11-13 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198556) · `ta`
 
-Nuwara Eliya Post Office case summary: Case #40/2024 to be heard at Colombo Court of Appeal on Wednesday, Room 302.
+நுவரெலியா அஞ்சல் அலுவலகத்தை விற்பனை செய்ய மேற்கொண்ட நடவடிக்கைக்கு எதிரான வழக்கு விசாரணை இன்று புதன்கிழமை (13) கொழும்பு மேன்முறையீட்டு நீதிமன்றத்தில் இடம்பெறவுள்ளது.
 
-🟩
-
-The case against the Nuwara Eliya Post Office will be held at the Colombo Court of Appeal on Wednesday (13).
-
-This case is the case number in the Court of Appeal in Room No. 302. Sri Lanka Postal Service Association President Jagath Mahinda said that he will be investigated under 40/2024.
+இந்த வழக்கானது மேன்முறையீட்டு நீதிமன்றத்தில் அறை எண் 302 இல் வழக்கு எண். 40/2024 இன் கீழ் விசாரணை செய்யப்படவுள்ளதாக இலங்கை அஞ்சல் சேவை சங்கத்தின் தலைவர்  ஜகத் மஹிந்த தெரிவித்துள்ளார்.
 
 ◼️
 
 [Data](articles/1cc89d42.json)
-
-[Extended Data](ext_articles/1cc89d42.ext.json)
 
 ---
 
@@ -486,26 +370,6 @@ If the voter card is not available and registered in the voter list, it has been
 
 ---
 
-### Sri Lanka finance companies invest in treasuries, repos amid vehicle import ban
-
-*2024-11-13 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-finance-companies-invest-in-treasuries-repos-amid-vehicle-import-ban-187084/) · `en`
-
-ECONOMYNEXT – Sri Lanka finance companies have increased their holdings of government securities, repos and also unit trusts in the first half of 2024, official data showed, as car imports were banned following forex shortages from inflationary rate cuts in 2020.
-
-“Recovering business activities amidst reduced market interest rates contributed to an increase in the demand for credit despite challenges in the sector’s key business segments, such as vehicle leasing and hire purchase,” the central bank said in a report.
-
-Loans and advances of the finance companies started to expand in 2024 after a contraction in credit in 2023, which the central bank said reflecting improved macroeconomic conditions and demand for credit.
-
-Gross loans and advances of the sector had increased by 11.4 per cent, reaching 1,359 billion rupees at end of the second quarter of 2024.
-
-...
-
-[Data](articles/0421bea1.json)
-
-[Extended Data](ext_articles/0421bea1.ext.json)
-
----
-
 ### Special Transport Services
 
 *2024-11-13 07:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-போக்குவரத்து-சேவைகள்/175-347040) · `ta`
@@ -573,20 +437,6 @@ The Department of Meteorology has said that there will be rains in the Northern 
 [Data](articles/28e66f26.json)
 
 [Extended Data](ext_articles/28e66f26.ext.json)
-
----
-
-### Piyāsara Samaya: Lest History Be Forgotten
-
-*2024-11-13 06:16:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/piyasara-samaya-lest-history-be-forgotten/) · `en`
-
-Chandrarathna Bandara’s most recent novel Piyāsara Samaya,of which the title might be loosely translated as A Time for Flying (or even a Time to Flee), is a thought-provoking novel which offers the reader a space to connect their lived experience with the narrative. It deals with the socio-political realities which were our lived experience as Sri Lankans in the recent past. The novelist’s previous work Premānishansa received the Swarnapusthaka award and the Vidyodaya award for best novel in 2022. Piyāsara Samaya which came out this September has themes which are in common with Premānishansa and the novel is set in such a way that the narrative deals with recent happenings in Sri Lanka. However, what is most noteworthy is its contribution to the literary genre of diasporic writing or novels of expatriation.
-
-The novelist introduces two protagonists and through their characters offers many insights to certain aspects of life.
-
-...
-
-[Data](articles/ae660645.json)
 
 ---
 
@@ -2349,5 +2199,195 @@ She further stated that necessary actions will be taken following a formal inves
 [Data](articles/1a8c96ee.json)
 
 [Extended Data](ext_articles/1a8c96ee.ext.json)
+
+---
+
+### Chinese labor bail labor bail and fifty thousand
+
+*2024-11-12 16:39:39* · [`adalk`](https://www.ada.lk/breaking_news/චීන්නු-වීස්සකට-ලක්ෂය-බැගින්-දඩ--ලක්ෂ-පහක-ශරීර-ඇප-සහ-පනස්-දහසක-බැගින්-මුදල්-ඇප/11-412997) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Additional Magistrate Lahiru N. Silva fined Chao Le Lee for illegal possession of 436 mobile phones and computers. Bail set at Rs. [amount]. Case adjourned until January 17. Police officers Sanjeewa and Pushpakumara presented evidence.
+
+🟩
+
+The Additional Magistrate Lahiru N. Silva was fined Rs.
+
+The fined, Chao Le Lee, Juffen, Gangan, Bio, Bio, Bio, and Zhene, Years, Shing Shooou, Hyylon Wang,Kyan Shane, Kyan Shane, Kyan Shaheth, Lonfa Lang, SiBa and Jun Fenff.
+
+He remanded after 436 mobile phones and computers were produced before the court on October 9, while he was staying at a tourist hotel in Panadura, Panadura.
+
+The Magistrate also issued a bail of bail of Rs.
+
+The Hon. Court was granted permission to be allowed to permit the mobile phones and computer crime that had been submitted to the University of Moratuwa and had been submitted to the University of Moratuwa.
+
+Police Inspector Sanjeewa and Constable Sumith Pushpakumara (32119) was reported to the court. The case is due to be released on January 17.
+
+◼️
+
+[Data](articles/40968017.json)
+
+[Extended Data](ext_articles/40968017.ext.json)
+
+---
+
+### It was because of the unnecessary work - Customs Trade Unions
+
+*2024-11-12 16:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203181) · `si`
+
+Customs Trade Unions criticize government delays on Karawalapitiya yard project and container clearance process.
+
+🟩
+
+The Customs Trade Union Alliance says that Minister Vijitha Herath will strongly deny the allegations from various parties on customs.
+
+The Customs Trade Union UPFA said that the UPFA was announced that the Customs Tra University Union alliance would express the powerful displeasure of the palcedimony.
+
+The proposals were made to install a Karawipitiya Contextual testing yard to formulate the consolation of the Colombo Port premises.
+
+However, almost three years after the proposal has passed, the governments of the past two years have not been able to resolve these issues.
+
+The proposal to the Karawalapitiya yard against the Karawalapitiya yard, a milestone of the Container Clearance Process, has been a delayed suspicion over the late years.
+
+Meanwhile, the Chairman of the Customs Officers' Association, Amila Sanjeewa stated that the management of the directories is a function of the management of containers today (12) in Colombo today.
+
+...
+
+[Data](articles/3100065b.json)
+
+[Extended Data](ext_articles/3100065b.ext.json)
+
+---
+
+### Sri Lanka sells Rs132.5bn in 2028 and 2032 bonds
+
+*2024-11-12 16:37:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs132-5bn-in-2028-and-2032-bonds-187033/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 132.5 billion rupees in 2028 and 2032 bonds, data from the state debt office showed.
+
+All offered 85 billion rupees of 01 May 2028 bonds were sold at an average yield of 11.63 percent.
+
+All offered 47.5 billion rupees of 01 October 2032 bonds were sold at an average yield of 12.32 percent.
+
+An issuance window for the ISINs LKB01528E016 and LKB02032J017 is open until close of business of day
+
+prior to settlement date (i.e., 4.00 pm on 14.11.2024) at the Weighted Average Yield Rates (WAYRs)
+
+determined for the said ISINs at the auction, up to 10% of the respective amounts offered, the debt office said.
+
+◼️
+
+[Data](articles/cff5066a.json)
+
+[Extended Data](ext_articles/cff5066a.ext.json)
+
+---
+
+### Stand up the expectations of the people: the national movement for social justice
+
+*2024-11-12 16:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198516) · `ta`
+
+National Movement for Social Justice urges political parties to meet public expectations. New parliament expected to address financial crisis and maintain democratic standards.
+
+🟩
+
+The National Movement for Social Justice has urged political parties to uphold the expectations of the people.
+
+In a media statement issued by Sunil Jayasekera, the General Secretary of the National Movement for Social Justice, said,
+
+We hope that the new parliament, which has been elected by the people in two days, will take on unprecedented responsibility in history.
+
+New Parliament is very important in terms of reckless behavior we see in parliament in recent years. ஆகவே வரப்போகும் அரசுக்கும் எதிர்க்கட்சிக்கும் பாரிய பொறுப்பு இருக்கும்.
+
+Their first task is to strengthen democracy by helping to restore the country from the financial crisis we face. In addition, the new parliament must reflect the political culture that the people expect, and both the ruling party and the opposition play their role.
+
+In recent days, we have been watching some of the confused incidents during the election campaign.
+
+...
+
+[Data](articles/9e29ce4f.json)
+
+[Extended Data](ext_articles/9e29ce4f.ext.json)
+
+---
+
+### All Island wins in Colombo
+
+*2024-11-12 16:27:33* · [`adalk`](https://www.ada.lk/breaking_news/පොල්-විකුණා-කොළඹ-ගිහින්-සමස්ත-ලංකා-ජය-ලබයි/11-412996) · `si`
+
+Nagala Primary School students win All Island competition. Band placed third in Bank of Ceylon event. Children compensated for transport costs. School lacks musical instruments and sports equipment.
+
+🟩
+
+Principal TAham Ruwanay Jayawardena said that the Nagala Primary School sold at Nagala's Nagala's Nagala's bands and won the Bank of Ceylon Third.
+
+Children at Nagala Primiliya Vidyalaya have been elected to the All Ceylon Competition from the Nagala Paradeshi Creation Division, which is suffering from economic difficulties.
+
+The band's children to compensation for Colombo's transportation to compete for Colombo, and the children of the school were among the schools in the country, as well as a ticket of transportation and a ticket of the school and sells Rs.Principal says that the third place in the tournament has been won.
+
+The principal said that children were not musical instruments, including musical instruments, sports equipment, that the school had essential equipment for the school.
+
+◼️
+
+[Data](articles/c14d8593.json)
+
+[Extended Data](ext_articles/c14d8593.ext.json)
+
+---
+
+### The International Election Monitoring Committee will observe everything, including the media's activities -Chairman of the Cambridge Organization
+
+*2024-11-12 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198509) · `ta`
+
+International Election Monitoring Committee observes voter, party, Election Commission, and media activities in Sri Lanka's upcoming presidential election. Committee expects peaceful parliamentary election similar to last presidential one.
+
+🟩
+
+Cambridge Chairman Nasim Saidi said that the activities of the voters, the activities of the parties contesting the election, the activities of the Election Commission, and the media activities will be taken up by international election monitors.
+
+The International Election Monitoring Committee of 10 people from Russia, Bangladesh, India, Maldives and the Netherlands visited Sri Lanka today (12) at the invitation of the Election Commission to monitor the upcoming presidential election in Sri Lanka on the 14th of this month.A media briefing was held.
+
+The International Election Monitoring Committee said that the parliamentary elections in Sri Lanka have been very good and the last presidential election has been very quiet.
+
+Cambridge Chairman Nasim Saidi provided further information that the International Election Inspectors who visited Sri Lanka at the invitation of the Election Commission have visited Sri Lanka on their work and the election practical surveillance.
+
+...
+
+[Data](articles/63295f48.json)
+
+[Extended Data](ext_articles/63295f48.ext.json)
+
+---
+
+### Suggested ban on Vedithalthivu Reserve
+
+*2024-11-12 16:18:07* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතලතිව්-රක්ෂිතයේ-යෝජිත-ඉස්සෝ-ගොවිපොළට-අතුරු-තහනම-තවදුරටත්/11-412995) · `si`
+
+Supreme Court orders interim injunction on Vedithalthivu Reserve ban. Government to review wildlife gazette notification. Petition filed by Wildlife Security Association and Environmental Justice Center. Next hearing on July 29.
+
+🟩
+
+The Supreme Court today ordered the an interim injunction order issued by the Wilpattu Vedithalaye Reserve Reserve Suittu.
+
+The Supreme Court also ordered that the new government had decided to review the Gazette notification issued by the Ministry of Wildlife.
+
+The SHEP, the Supreme Court Judges. The petition was in the face of the judge, which is made up of Turari, Dilip Nawala, and Janakamuwa.
+
+The Memorandum of the Wildlife Security Association including the Environmental Justice Center, the Minister of Wildlife and several others have been named.
+
+When the petition was taken up, the Deputy Solicitor General Fertain General Fuselle Gen. Fuselly General, who appeared for the respondents, the government has decided to review the gazette notification.
+
+Deputy Fuselley Rachem asked for a date to notify the next step in the petition.
+
+After considering the facts, the panel of judges issued to be called on July 29 this year.
+
+◼️
+
+[Data](articles/1574e114.json)
+
+[Extended Data](ext_articles/1574e114.ext.json)
 
 ---

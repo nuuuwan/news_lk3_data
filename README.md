@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 08:23:57**
+As of **2024-11-13 08:44:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,520 (100.0%) of 54,521 articles have been extended.
+54,521 (100.0%) of 54,521 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,19 +56,27 @@ Meanwhile, Deputy General Manager of the Railway Department, NJ Indibollake said
 
 ---
 
-### මන්ත්‍රීන්ට, පක්ෂ නායකයන්ට, රජයේ විධායක නිලධාරීන්ට දුන් ගිනි අවි නැවත රජයට ඉල්ලයි
+### Firearms to UNP leaders, party leaders and Government Executives
 
 *2024-11-13 07:45:11* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීන්ට--පක්ෂ-නායකයන්ට--රජයේ-විධායක-නිලධාරීන්ට-දුන්-ගිනි-අවි-නැවත-රජයට-ඉල්ලයි/11-413009) · `si`
 
-පසුගිය  කාලවකවානුවලදී පාර්ලිමෙන්තු මන්ත්‍රීවරුන්ට, පළාත් සභා මන්ත්‍රී වරුන්ට, විවිධ දේශපාලන පක්‍ෂ නායකයින්ට, දේශපාලන සංවිධානවලට මෙන්ම, විවිධ තනතුරු දැරූ රජයේ විධායක නිලධාරීන්ට ජීවිත ආරක්‍ෂාව සඳහා ශ්‍රී ලංකා පොලිසියෙන් හා යුද්ධ හමුදාවෙන් නිකුත්කර තිබු පිස්තෝල, රිවෝල්වර් හා පතුරොම් තුවක්කු සැලකිය යුතු ප්‍රමාණයක් ඇති බව ආරක්‍ෂක අමාත්‍යාංශයට නිරීක්‍ෂණය වී ඇත.
+Here's a summary in 200 characters:
 
-එබැවින්, මෙම ගිණිඅවි 2024 දෙසැම්බර් මස 30 වන දිනට පෙර ලඟම තිබෙන පොලිසිය වෙත භාරදීමට කටයුතු කරන මෙන් ආරක්‍ෂක අමාත්‍යාංශය අදාල පුද්ගලයින් වෙත දැනුම්දෙනු ලැබේ.
 
-තවද, මෙම නිකුත්කර ඇති ගිණිඅවි ලබාදුන් පුද්ගලයින්ගේ නාම ලේඛණයක් ශ්‍රී ලංකා පොලිසිය සතු වන අතර, ශ්‍රී ලංකා පොලිසිය විසින් එම නාම ලේඛණයේ නම් සඳහන් පුද්ගලයින්ගේ තොරතුරු විමසා ගිණිඅවි පොලිසිය භාරයට ගැනීමට සියලුම පොලිස් ස්ථානාධිපතිවරුන් විසින් කටයුතු කිරීමට උපදෙස් ලබා දී ඇත.
+
+Sri Lanka Ministry of Defense issues firearms to UNP leaders, party leaders, and government executives. Deadline: Return weapons to nearest police station by Dec 30, 2024.
+
+🟩
+
+Recently, the Ministry of Defense has a significant number of pistols and army guns who have been issued by the Sri Lanka Police and the Army to protect the Sri Lanka Police and the Army to protect the Sri Lankan police, politicians, political organizations, as well as political organizations, as well as government executives for pistols, political organizations, as well as government executives for pistols, political organizations, as well as government executives for pistols, politicians, as well as government executives for pistols, political organizations, as well as government executives for pistols, political organizations, as well as government executives for pistols, political organizations, as well as political organizers, as well as government executives for Parliament.Has been.
+
+Therefore, the Ministry of Defense will be informed to the persons to be handed over to the nearest police of December 30, 2024 before December 30, 2024.
 
 ...
 
 [Data](articles/ff297e18.json)
+
+[Extended Data](ext_articles/ff297e18.ext.json)
 
 ---
 

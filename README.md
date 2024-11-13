@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 02:59:33**
+As of **2024-11-14 02:41:09**
 
 ## Newspaper Stats
 
-*Scraped **54,650** Articles*
+*Scraped **54,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,750
+dailyftlk | 3,747
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
@@ -26,57 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,647 (100.0%) of 54,650 articles have been extended.
+54,646 (100.0%) of 54,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
-
-### BPPL Holdings records stellar 85% growth in QoQ net earnings in Q2 ‘24
-
-*2024-11-14 02:52:13* · [`dailyftlk`](https://www.ft.lk/business/BPPL-Holdings-records-stellar-85-growth-in-QoQ-net-earnings-in-Q2-24/34-769252) · `en`
-
-BPPL Holdings PLC said yesterday it witnessed a significant improvement in its financial performance during the three months ended 30 September 2024, as compared to both the corresponding quarter in FY2023/24 and the three months ended 30 June 2024.
-
-The increase in revenue and gross margins was despite an appreciation in Sri Lankan Rupee rates used to convert US Dollar-denominated sales to Sri Lankan Rupees.
-
-Consolidated revenue for the three months until 30 September 2024 was Rs. 1.6 billion, a growth of 5% in Rupee terms and 11% in US Dollar terms over the same period in the previous year. EBITDA for the period was Rs. 356 million compared to Rs. 233 million in the corresponding period the previous year, a growth of 53%. Net earnings after tax were up 85% to Rs. 184 million, compared to Rs. 99 million in the previous year.
-
-...
-
-[Data](articles/1d410b96.json)
-
----
-
-### Board of Investment of Sri Lanka provides knowledge and training to professionals joining industry to  build low-carbon, environment-friendly industries
-
-*2024-11-14 02:49:48* · [`dailyftlk`](https://www.ft.lk/business/Board-of-Investment-of-Sri-Lanka-provides-knowledge-and-training-to-professionals-joining-industry-to-build-low-carbon-environment-friendly-industries/34-769251) · `en`
-
-The Board of Investment of Sri Lanka (BOI) is transforming existing factories and future industries into environmentally friendly green industries. The BOI has implemented changes to transform several investment promotion zones into green industrial zones. Industries under the purview of the BOI are currently in the process of upgrading the machinery used in their factories to minimise the amount of carbon emissions released into the environment, and the BOI considers the approval only for the use of environmentally friendly machines for the industries under the BOI with proper guidance in accordance with regulations.
-
-Moving forward, the Environment Management Department of the BOI has taken steps to provide internship training to the students of the Faculty of Technology in collaboration with the University of Jayawardenepura, Sri Lanka, with the intention of providing theoretical and practical knowledge to the new professionals entering the field of environment management.
-
-...
-
-[Data](articles/fd0c4dd3.json)
-
----
-
-### DIMO drives agri mechanisation
-
-*2024-11-14 02:48:36* · [`dailyftlk`](https://www.ft.lk/business/DIMO-drives-agri-mechanisation/34-769250) · `en`
-
-Successfully completes phase one of ‘Mahata Wahina Wasi Wassa’ initiative
-
-DIMO, a leading diversified conglomerate in Sri Lanka, launched the ‘Mahata Wahina Wasi Wassa’ initiative to empower farmers by offering free laptops, tabs, electric bicycles, and overseas travel opportunities with each Mahindra tractor purchase.
-
-Farmers who purchase Mahindra tractors between 1 August and 30 November, are eligible for these exclusive gift packages with various choices available. The first package includes an electric bicycle, the second offers a group trip to Malaysia with meals and accommodation, the third combines a laptop and tabs, and the fourth includes two mud wheels and a laptop. Farmers can select their preferred gift package from these options with each Mahindra tractor purchase. The company successfully completed the first phase of this transformative project recently.
-
-...
-
-[Data](articles/9b82f248.json)
-
----
 
 ### Five liquor companies to face licence suspension over unpaid taxes
 
@@ -136,29 +90,23 @@ The suspect has reportedly confessed that additional pellets remain in his stoma
 
 ---
 
-### Digitally of government services
+### அரசாங்க சேவைகளை டிஜிட்டல் மயமாகும்
 
 *2024-11-14 01:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-சேவைகளை-டிஜிட்டல்-மயமாகும்/175-347080) · `ta`
 
-Sri Lankan government digitizes certificate distribution for citizens abroad through embassies in Kuwait, Japan, Qatar, Melbourne, Toronto, Milan, Dubai. Certificates issued from Divisional Secretariats to improve E-BMD data structure.
+வெளிநாடுகளில் உள்ள இலங்கையர்களுக்கான பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் பிரதிகள் சம்பந்தப்பட்ட தூதரகங்களின் ஊடாக விநியோகிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
 
-🟩
+குவைத், ஜப்பான், கட்டார் தூதரங்கள்,அவுஸ்திரேலியா மெல்பேர்ன், கனடா டொராண்டோ,  இத்தாலியின் மிலான்,டுபாய், கொன்சல் ஜெனரல் அலுவலகங்கள் ஊடாக  இந்த முன்னோடித் திட்டம் முன்னெடுக்கப்படுகின்றது.
 
-Steps have been taken to distribute copies of birth, marriage and death certificates for Sri Lankans abroad.
+வெளிநாடுகளில் உள்ள இலங்கையர்களின் வசதிக்காக வெளிநாடுகளில் உள்ள இலங்கை தூதரகங்களில் இருந்து பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் நகல்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
 
-The pioneering program is being carried out through Kuwait, Japan, Qatar, Melbourne, Canada Toronto, Italy's Milan, Dubai and Consul General Offices.
+இந்த வேலைத்திட்டம் தெரிவு செய்யப்பட்ட 07 வெளிநாட்டு தூதரகங்கள் மற்றும் கொன்சல் ஜெனரல்  அலுவலகங்கள் மூலம் முன்னோடித் திட்டமாக நடைமுறைப்படுத்தப்படவுள்ளது.
 
-The government is planning to provide copies of birth, marriage and death certificates from the Sri Lankan embassies abroad for the convenience of Sri Lankans abroad.
-
-This program will be implemented as a pioneering program through the selected 07 foreign embassies and Consul General Offices.
-
-Accordingly, Kuwait, Japan and Qatar are expected to implement this pioneer program through Melbourne of Australia, Toronto, Canada, Italy's Milan and Dubai embassies.
+அதன்படி, குவைத், ஜப்பான் மற்றும் கட்டார் தூதரகங்கள், அவுஸ்திரேலியாவின் மெல்போர்ன், கனடாவின் டொராண்டோ, இத்தாலியின் மிலான் மற்றும் டுபாய் தூதரகங்கள் மூலம் இந்த முன்னோடி திட்டத்தை செயல்படுத்த எதிர்பார்க்கப்படுகிறது.
 
 ...
 
 [Data](articles/2ef13f3d.json)
-
-[Extended Data](ext_articles/2ef13f3d.ext.json)
 
 ---
 
@@ -2413,5 +2361,79 @@ The first one-day match between Sri Lanka and the Sri Lankan team will be held t
 [Data](articles/24ef4ffe.json)
 
 [Extended Data](ext_articles/24ef4ffe.ext.json)
+
+---
+
+### Voting boxes for 137 polling stations in Mullaitivu
+
+*2024-11-13 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198552) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Voting boxes sent to 137 polling stations in Mullaitivu for presidential election. 432 candidates contesting 6 MP seats. 86,889 voters eligible. 1653 officials and 500 police on duty."
+
+🟩
+
+Voting boxes for 137 polling stations for the presidential election in the Mullaitivu district have been sent from the Mullaitivu Maha Vidyalaya.
+
+These votes have been sent to 137 polling stations set up in the Mullaitivu district for the election to elect six MPs in the Vanni electorate.
+
+The Elections Commission has announced that 432 candidates will contest the Vanni electoral seat as a total of 23 parties and 25 independent groups.
+
+Voting boxes have been sent from the Mullaitivu Maha Vidyalaya to 137 stations to vote for 86,889 voters in the Mullaitivu district on Wednesday (13).
+
+It is noteworthy that 1653 state officials were on duty in the election and 500 policemen were on duty.
+
+◼️
+
+[Data](articles/adeac6e0.json)
+
+[Extended Data](ext_articles/adeac6e0.ext.json)
+
+---
+
+### All measures for the general election are completed in Batticaloa
+
+*2024-11-13 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198561) · `ta`
+
+Batticaloa election preparations complete: 6,750 officials deployed, 442 polling stations set up, 218 violations reported, massive violence avoided, legal actions taken against violators, 1,900 police and 87 special monitors deployed for security.
+
+🟩
+
+All activities for the general election have been completed. Batticaloa District Government Agent and Electoral Officer Mrs. JJ Muralitharan said that there were no incidents of violence in the Batticaloa district.
+
+During a media briefing held at the Old District Secretariat in Batticaloa on Tuesday (12), he made this comment on the election situation in the district.
+
+All measures have been completed for the general election to be held in the Batticaloa district. 6,750 government officials in the district are on duty.
+
+442 polling stations have been set up in the district.Batticaloa Hindu College has been set up as a polling station. There are 46 voting centers set up here.
+
+...
+
+[Data](articles/bd4795b1.json)
+
+[Extended Data](ext_articles/bd4795b1.ext.json)
+
+---
+
+### Today's case against the Nuwara Eliya Post Office
+
+*2024-11-13 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198556) · `ta`
+
+Nuwara Eliya Post Office case summary: Case #40/2024 to be heard at Colombo Court of Appeal on Wednesday, Room 302.
+
+🟩
+
+The case against the Nuwara Eliya Post Office will be held at the Colombo Court of Appeal on Wednesday (13).
+
+This case is the case number in the Court of Appeal in Room No. 302. Sri Lanka Postal Service Association President Jagath Mahinda said that he will be investigated under 40/2024.
+
+◼️
+
+[Data](articles/1cc89d42.json)
+
+[Extended Data](ext_articles/1cc89d42.ext.json)
 
 ---

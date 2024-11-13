@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 22:15:00**
+As of **2024-11-13 22:40:53**
 
 ## Newspaper Stats
 
-*Scraped **54,618** Articles*
+*Scraped **54,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,269
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,117
+adalk | 5,118
 adaderanalk | 6,516
 tamilmirrorlk | 7,649
 virakesarilk | 8,873
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,618 (100.0%) of 54,618 articles have been extended.
+54,618 (100.0%) of 54,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -271,6 +271,20 @@ We have received a complaint that the parliamentary elections are not given holi
 [Data](articles/b64e5093.json)
 
 [Extended Data](ext_articles/b64e5093.ext.json)
+
+---
+
+### මෙන්ඩිස් සමාගමට අවසන් දිනය දැනුම් දෙයි
+
+*2024-11-13 19:27:34* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමට-අවසන්-දිනය-දැනුම්-දෙයි/11-413027) · `si`
+
+රජයට අයවිය යුතු රුපියල් කෝටි 600 කට අධික බදු මුදල් නොගෙවා පැහැර හැර ඇතැයි කියන ඩබ්ලිව්.එම්. මෙන්ඩිස් සමාගම ඇතුළු මහා පරිමාණ මත්පැන් නිෂ්පාදන සමාගම් පහක් ලබන 30 වැනිදාට පෙර පැහැර හැර ඇති බදු මුදල් නොගෙවුවහොත් එම මත්පැන් නිෂ්පාදන සමාගම්වල බලපත්‍ර අත්හිටුවීමට රජය තීරණය කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (13දා) දැනුම් දුන්නේය.
+
+පැහැර හැර ඇති බදු මුදල් නොගෙවුවහොත් ඩබ්ලිව්.එම්. මෙන්ඩිස් සමාගමට අමතරව මෙලෙස බලපත්‍ර අත්හිටුවන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේ ‘පින්ලේ ඩිස්ටිරිස්‘, ‘සයින ජී ඩිස්ටරිලිස්’, ‘හිඟුරාන ඩිස්ලිරිස්’ සහ ‘රොයල් ඩිස්ට්‍රලිරිස්‘ යන සමාගම්වලය.
+
+...
+
+[Data](articles/8952db8f.json)
 
 ---
 
@@ -2447,27 +2461,5 @@ GEW is the world’s largest celebration of entrepreneurship, bringing together 
 [Data](articles/1c8865f6.json)
 
 [Extended Data](ext_articles/1c8865f6.ext.json)
-
----
-
-### New Parliament to convene on 21 November
-
-*2024-11-13 01:25:35* · [`dailyftlk`](https://www.ft.lk/news/New-Parliament-to-convene-on-21-November/56-769158) · `en`
-
-President Anura Kumara Dissanayake has issued an Extraordinary Gazette notification summoning the newly elected Tenth Parliament to convene at 10:00 a.m. on 21 November.
-
-This announcement follows the General Election scheduled for 14 November, where 225 Members of Parliament will be chosen—196 through direct public vote and 29 from the national list.
-
-The inaugural session, set to be a momentous occasion, will see the commencement of the 10th Parliament’s legislative duties. On the first day, special protocols will be followed. Members will have the freedom to sit in any seat as there will be no assigned seating.
-
-The Secretary-General of Parliament will open the session by presenting the Gazette notification that formally establishes the date and time for the Parliamentary convening.
-
-Following this, Members will elect the Speaker, marking the first major task for the new Parliament. Any Member of Parliament is eligible to become the Speaker, provided they accept the nomination.
-
-...
-
-[Data](articles/9d509ff8.json)
-
-[Extended Data](ext_articles/9d509ff8.ext.json)
 
 ---

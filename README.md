@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 20:41:05**
+As of **2024-11-13 20:25:15**
 
 ## Newspaper Stats
 
-*Scraped **54,606** Articles*
+*Scraped **54,605** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 557
-bbccomsinhala | 558
+bbccomsinhala | 557
 islandlk | 3,267
 economynextcom | 3,317
 dailyftlk | 3,738
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,605 (100.0%) of 54,606 articles have been extended.
+54,605 (100.0%) of 54,605 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -801,34 +801,6 @@ The NPP has historically advocated for stronger state control over strategic eco
 [Data](articles/fc85f4cc.json)
 
 [Extended Data](ext_articles/fc85f4cc.ext.json)
-
----
-
-### මහ මැතිවරණය 2024: ඔබේ  ඡන්දය නිවැරදිව ප්‍රකාශ කරන්නේ කොහොම ද? ඡන්ද පොළට යන්න කලින් දැනුවත් වෙමු
-
-*2024-11-13 14:42:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7891qvn00do) · `si`
-
-මහ මැතිවරණය 2024: ඔබේ  ඡන්දය නිවැරදිව ප්‍රකාශ කරන්නේ කොහොම ද? ඡන්ද පොළට යන්න කලින් දැනුවත් වෙමු
-
-වසර පහකට පසුව ඔබේ මහජන මනාපයෙන්, ඔබ වෙනුවෙන් තීරණ ගැනීම සඳහා පාර්ලිමේන්තුවට නියෝජිතයන් තෝරා ගැනීමට පැවැත්වෙන මහ මැතිවරණයට නිවැරදි ආකාරයෙන් ඔබේ ඡන්දය ප්‍රකාශය කිරීම වැදගත්.
-
-2022 වසරේ පැවති ආණ්ඩු විරෝධී මහජන විරෝධතාවලින් (ගාලුමුවදොර අරගලය) පසුව පළමුවරට පැවැත්වෙන මහ මැතිවරණය මෙයයි.
-
-ඔබ ඒ ආකාරයෙන් තෝරා ගන්නා නියෝජිතයන් විසින් පාර්ලිමේන්තුව තුළ දී, ඔබගේ එදිනෙදා ජීවීතයට බලපාන තීන්දු තීරණ රැසක් ගනු ලබනවා.
-
-දේශපාලනයට කැමති වුණත්, අකමැති වුණත් ඔබ ඔබේ ඡන්දය ප්‍රකාශ කළ යුත්තේ ඇයි?
-
-ඒ සම්බන්ධ සියලු බලය ඔවුන්ට පැවරී ඇති නිසා නිවැරදි ආකාරයෙන් ඡන්දය ප්‍රකාශ කර ඔබට අවශ්‍ය නියෝජිතයන් පාර්ලිමේන්තුවට තෝරා පත් කර යැවිය යුතුයි.
-
-නොවැම්බර් 14 වැනිදා පැවැත්වෙන මහ මැතිවරණයේ දී හරියට ම ඡන්දය ප්‍රකාශ කරන ආකාරය මෙතැන් සිට කියවන්න.
-
-ඡන්දය ප්‍රකාශ කරන්න යනවිට ඔබ සතුව වලංගු හැඳුනුම්පතක් තිබීම අනිවාර්ය යි.
-
-මැතිවරණ කොමිෂන් සභාව විසින් අනුමත කර තිබෙන පහත දැක්වෙන ඕනෑ ම වලංගු හැඳුනුම්පතක් ඡන්දය ප්‍රකාශ කිරීමට ඔයාට ඉදිරිපත් කරන්න පුළුවන්.
-
-...
-
-[Data](articles/dce87938.json)
 
 ---
 
@@ -2405,5 +2377,19 @@ HUTCH, one of Sri Lanka’s leading mobile networks, has once again distinguishe
 [Data](articles/5cd401b9.json)
 
 [Extended Data](ext_articles/5cd401b9.ext.json)
+
+---
+
+### ‘Daraz 11.11 kicks off with unbeatable discounts, exclusive offers’
+
+*2024-11-12 22:34:00* · [`islandlk`](http://island.lk/daraz-11-11-kicks-off-with-unbeatable-discounts-exclusive-offers/) · `en`
+
+Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its annual 11.11 shopping festival, known as the “Biggest Sale of the Year.” The event will run until November 17. This year’s 11.11 sale features exceptional discounts and exclusive promotions, offering Sri Lankans the lowest prices of the year on a wide variety of products. Additionally, there are vouchers worth over LKR 150 million available, making this sale a must for anyone looking to save big.
+
+...
+
+[Data](articles/5cd0181e.json)
+
+[Extended Data](ext_articles/5cd0181e.ext.json)
 
 ---

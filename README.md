@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 05:49:14**
+As of **2024-11-13 06:46:29**
 
 ## Newspaper Stats
 
-*Scraped **54,515** Articles*
+*Scraped **54,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,098
 adaderanalk | 6,504
-tamilmirrorlk | 7,625
+tamilmirrorlk | 7,626
 virakesarilk | 8,847
 adaderanasinhalalk | 9,505
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,505 (100.0%) of 54,515 articles have been extended.
+54,509 (100.0%) of 54,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -220,6 +220,22 @@ The Monday night incident came on the eve of the country’s premier aviation ex
 
 ---
 
+### விபத்தில் குடும்பஸ்தர் மரணம்
+
+*2024-11-13 00:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-மரணம்/175-347038) · `ta`
+
+யாழ்ப்பாணம், மானிப்பாய் - கைதடி பிரதான வீதியில் இடம்பெற்ற வாகன விபத்தில் குடும்பஸ்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளார்.
+
+இதன்போது, அரசடி வீதி, வட்டு. தெற்கு, வட்டுக்கோட்டைப் பகுதியைச் சேர்ந்த 53 வயதுடையவரே உயிரிழந்துள்ளார்.
+
+இந்நபர் மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்தபோது வீதியில் மற்றுமொரு மோட்டார் சைக்கிளில் சென்ற நபரை முந்திச் செல்வதற்கு முயற்சித்துள்ளார். அப்போதே அந்த மோட்டார் சைக்கிளுடனும் மோதி சம்பவ இடத்திலேயே இவர் உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/1b2e18af.json)
+
+---
+
 ### Special arrangements for specialists
 
 *2024-11-13 00:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோருக்கு-சிறப்பு-ஏற்பாடுகள்/175-347037) · `ta`
@@ -386,6 +402,8 @@ HUTCH, one of Sri Lanka’s leading mobile networks, has once again distinguishe
 
 [Data](articles/5cd401b9.json)
 
+[Extended Data](ext_articles/5cd401b9.ext.json)
+
 ---
 
 ### ‘Daraz 11.11 kicks off with unbeatable discounts, exclusive offers’
@@ -397,6 +415,8 @@ Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its an
 ...
 
 [Data](articles/5cd0181e.json)
+
+[Extended Data](ext_articles/5cd0181e.ext.json)
 
 ---
 
@@ -416,6 +436,8 @@ Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 t
 
 [Data](articles/69385842.json)
 
+[Extended Data](ext_articles/69385842.ext.json)
+
 ---
 
 ### CSE surpasses 13000 index points in anticipation of positive corporate financial results
@@ -431,6 +453,8 @@ Turnover stood at Rs 4.29 billion with three crossings. Those crossings were rep
 ...
 
 [Data](articles/b67d619b.json)
+
+[Extended Data](ext_articles/b67d619b.ext.json)
 
 ---
 
@@ -2379,31 +2403,5 @@ Once the transportation of the election works and the police is over, these buse
 [Data](articles/83c29f53.json)
 
 [Extended Data](ext_articles/83c29f53.ext.json)
-
----
-
-### Discussion on the release of political prisoners
-
-*2024-11-12 13:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளின்-விடுதலை-தொடர்பில்-கலந்துரையாடல்/175-347000) · `ta`
-
-Sri Lanka: Political prisoner release talks underway between Presidential Secretariat & AG's Dept. Most detainees are Tamil, held without trial. Human rights groups demand fair investigations & legal reforms. President Dissanayake vows to discuss prisoner release.
-
-🟩
-
-Attorney -at -Law JM JM says that a discussion is taking place between the Presidential Secretariat and the Attorney General's Department regarding the release of political prisoners.. Wijebandara said.
-
-In Sri Lanka, 'political prisoners' often refer to those who are detained under anti -terror laws.
-
-Responding to a question raised by journalists as to whether a program is being carried out on the release of political prisoners, Wijebandara said he was in consultation with the Attorney General's Department on the release of political prisoners.
-
-Most of the so -called political prisoners are Tamils ​​who have been arrested without interrogation or have been detained under severe conditions.
-
-Human rights groups, families and activists of the suspects have been fighting for a long time that these prisoners are suffering from spontaneous detention, long -term imprisonment and lack of fair trial.
-
-...
-
-[Data](articles/8a146d33.json)
-
-[Extended Data](ext_articles/8a146d33.ext.json)
 
 ---

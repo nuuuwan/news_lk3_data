@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 18:49:40**
+As of **2024-11-13 19:02:09**
 
 ## Newspaper Stats
 
-*Scraped **54,597** Articles*
+*Scraped **54,598** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,265
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,113
+adalk | 5,114
 adaderanalk | 6,516
 tamilmirrorlk | 7,643
 virakesarilk | 8,867
@@ -26,27 +26,53 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,590 (100.0%) of 54,597 articles have been extended.
+54,597 (100.0%) of 54,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
 
-### வெளிநாட்டில் உள்ள இலங்கையர்களுக்கான செய்தி
+### News for Sri Lankans abroad
 
 *2024-11-13 18:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டில்-உள்ள-இலங்கையர்களுக்கான-செய்தி/175-347067) · `ta`
 
-வெளிநாடுகளில் உள்ள இலங்கையர்கள் வெளிநாடுகளில் உள்ள இலங்கை தூதரகங்களில் இருந்து பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் நகல்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
+Sri Lankan government initiative: Copies of birth, marriage & death certificates available at select foreign embassies. Implemented in 7 countries including Kuwait, Japan, Qatar. Certificates registered since 1960, with potential delays in processing.
 
-இந்த வேலைத்திட்டம் தெரிவு செய்யப்பட்ட 07 வெளிநாட்டு தூதரகங்கள் மற்றும் கொன்சல் ஜெனரல் அலுவலகங்கள் மூலம் முன்னோடித் திட்டமாக நடைமுறைப்படுத்தப்படவுள்ளது.
+🟩
 
-அதன்படி, குவைத், ஜப்பான் மற்றும் கட்டார் தூதரகங்கள், அவுஸ்திரேலியாவின் மெல்பர்ன், கனடாவின் டொராண்டோ, இத்தாலியின் மிலான் மற்றும் டுபாய் தூதரகங்கள் மூலம் இந்த முன்னோடி திட்டத்தை செயல்படுத்த எதிர்பார்க்கப்படுகிறது.
+The government plans to provide copies of birth, marriage and death certificates from Sri Lankan embassies abroad.
 
-இலங்கையில் உள்ள எந்தவொரு பிரதேச செயலகத்திலிருந்தும் பிறப்பு, திருமணம் மற்றும் இறப்புச் சான்றிதழ்களைப் பெறுவதற்கு அமைக்கப்பட்டுள்ள முறைமைக்கு ஏற்ப வெளிநாட்டு தூதரகங்கள் மூலம் இந்தச் சான்றிதழ்களை வழங்கும் வகையில் பதிவாளர் நாயக திணைக்களம் மற்றும் வெளிவிவகார அமைச்சினால் கூட்டாகப் பராமரிக்கப்பட்டு e- BMD தரவுக் கட்டமைப்பை மேம்படுத்த நடவடிக்கை எடுக்கப்பட்டுள்ளது.
+This program will be implemented as a pioneering program through the selected 07 foreign embassies and Consul General Offices.
+
+Accordingly, Kuwait, Japan and Qatar are expected to implement this pioneer program through Melbourne of Australia, Toronto, Canada, Italy's Milan and Dubai embassies.
+
+Steps have been taken to ensure that these certificates are issued by foreign embassies to obtain birth, marriage and death certificates from any Divisional Secretariat in Sri Lanka, collectively maintained by the Registrar General Department and Foreign Ministry.
+
+Accordingly, at an early stage, only about 45 million birth, marriage and death certificates are distributed in the E-BMD data structure.
 
 ...
 
 [Data](articles/0dabdc49.json)
+
+[Extended Data](ext_articles/0dabdc49.ext.json)
+
+---
+
+### හිටපු අමාත්‍ය රෝහිතගේ බෑණා කරුණු පහදයි
+
+*2024-11-13 17:59:45* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-රෝහිතගේ-බෑණා-කරුණු-පහදයි/11-413019) · `si`
+
+මහනුවර ප්‍රදේශයේ දී පොලිස් භාරයට ගැනුන සැප වාහන සම්බන්ධයෙන් රෝහිත අබේගුණවර්ධන හිටපු අමාත්‍ය වරයාගේ බෑනා සම්බන්ධ බවට මාධ්‍ය මගින් ගෙනයන ප්‍රචාරය සම්බන්ධයෙන් අද (13)  හිටපු  අමාත්‍යවරයාගේ බැණා වන ගයාන් සේරම් මහතා මාධ්‍ය හමුවක් පවත්වන ලදී.
+
+එහිදී කරුණු පැහැදිලි කරමින් ඒ මහතා සදහන් කර සිටියේ එකී වාහන සම්බන්ධයෙන් තමන් හෝ තමන්ගේ බිරිදගේ පියා වන හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන මහතා ගේ සම්බන්ධයක් නොමැති බවයි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා මෙසේද පැවසීය . "එම වාහන පොලිස් භාරයට ගැනීම සම්බන්ධයෙන් මට එරෙහිව අධිකරණය වෙතින් නියෝගයක් නිකුත් කර ඇති බවට මාධ්‍ය ආයතන කිහිපයක් ප්‍රචාරය කලා. එයට මාගේ සම්බන්ධයක් නොමැති බවට මම මීට පෙර බම්බලපිටිය පොලිසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තියෙනවා .
+
+දැන් නැවතත් මැතිවරණයක් ආසන්නයේ සිට අසත්‍ය චෝදනා එල්ල කරනවා. එම වාහන වලට මගේ කිසි සම්බන්ධයක් නෑ.
+
+...
+
+[Data](articles/fce6d997.json)
 
 ---
 
@@ -438,6 +464,8 @@ The embassy on October 23 warned tourists to stay away from Arugam Bay following
 
 [Data](articles/67702236.json)
 
+[Extended Data](ext_articles/67702236.ext.json)
+
 ---
 
 ### Violation of the telephone number can cause legal consequences
@@ -680,23 +708,33 @@ Sri Lanka captain Charith won the toss and elected to bat first, he decided to b
 
 ---
 
-### ஏர்ஷோ சைனா ஆரம்பம்: அமெரிக்காவும் பங்கேற்பு
+### Arsho China Beginning: America also participates
 
 *2024-11-13 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198583) · `ta`
 
-ஏர்ஷோ சைனா அல்லது ஜுஹாய் ஏர்ஷோ 2024 என்றும் அழைக்கப்படும் 15ஆவது சீன சர்வதேச விமான மற்றும் விண்வெளி கண்காட்சி, தெற்கு சீனாவின் குவாங்டாங் மாகாணத்தில் உள்ள ஜுஹாய் நகரில் இன்று ஆரம்பமாகியுள்ளது.
+Here's a summary of 200 characters:
 
-சீன மக்கள் விடுதலை இராணுவ விமானப்படையின் தளபதி ஜெனரல் சாங் டிங்கியூ ஆரம்ப விழாவில் உரையை நிகழ்த்தினார்.தகவல் தொடர்புத் தளத்தை திறந்ததாகக் முன்னேற வேண்டியதன் அவசியத்தை அவர் வலியுறுத்தினார்.
 
-தொடக்க விழாவில் பல்வேறு நாடுகளின் விமானப் படையைச் சேர்ந்த ராணுவ அதிகாரிகள் பங்கேற்று விமானச் செயற்பாட்டைப் பார்வையிட்டனர்.
 
-கண்கவர் விண்வெளி நிகழ்ச்சிகள் மற்றும் உலகளாவிய பார்வையாளர்களுக்காக சமீபத்திய மேம்பட்ட இராணுவ உபகரணங்களை காட்சிப்படுத்தும் இந்த விமான நிகழ்ச்சி நவம்பர் 12 முதல் 17 வரை நடைபெறவுள்ளது.
+15th Chinese International Air & Space Exhibition begins in Juhai, Guangdong. Commander-in-Chief of PLA Air Force delivers inaugural address. Military officers from 47 countries attend, showcasing latest equipment. Event runs Nov 12-17, featuring space demonstrations and international participation.
 
-ரஷ்யா, பிரான்ஸ், அமெரிக்கா, சவுதி அரேபியா மற்றும் இத்தாலி உள்ளிட்ட 47 நாடுகளில் இருந்து மொத்தம் 1,022 கண்காட்சியாளர்கள் இந்த விமானக் கண்காட்சியில் பங்கேற்கவுள்ளமை குறிப்பிடத்தக்கது.
+🟩
+
+The 15th Chinese International Air and Space Exhibition, also known as Arsho China or Juhai Aersho 2024, has begun today in Juhai, South China's Guangdong Province.
+
+Commander -in -Chief of the Chinese People's Liberation Army Air Force delivered the speech at the inaugural ceremony.
+
+Army officers from various countries participated in the opening ceremony and visited the air operation.
+
+The aircraft will be held from November 12 to 17, showing the latest advanced military equipment for spectacular space shows and global observers.
+
+A total of 1,022 exhibitions from 47 countries, including Russia, France, the United States, Saudi Arabia and Italy, will participate in the airport.
 
 ◼️
 
 [Data](articles/65daf2fd.json)
+
+[Extended Data](ext_articles/65daf2fd.ext.json)
 
 ---
 
@@ -722,21 +760,27 @@ Historically, Sri Lanka has seen violent incidents sometimes leading to deaths, 
 
 ---
 
-### காற்றின் தரம் குறைவு : டெல்லியில் விமான சேவை பாதிப்பு
+### Wind quality low: air service in Delhi
 
 *2024-11-13 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198585) · `ta`
 
-இந்திய தலைநகர் டெல்லியில் குளிர்காலம் தொடங்கியது முதலே காற்று மாசு அதிகரித்து காணப்படுவதாக தெரிவிக்கப்படுகிறது.
+Delhi air pollution increases AQI "very bad" wind conditions cause flight diversions and affect airlines. Dense fog prevails, impacting air services.
 
-இந்நிலையில், டெல்லியில் கடந்த சில நாட்களாக காற்று மாசு அதிகரித்துள்ளது. இந்திய மத்திய மாசுக்கட்டுப்பாட்டு வாரியத்தின் தரவுகளின்படி, கடந்த 24 மணி நேரத்தில் டெல்லியில் காற்று தரக் குறியீடு (AQI) 366 ஆக பதிவாகியுள்ளது. காற்றின் தரம் 'மிகவும் மோசமான' பிரிவில் இருந்ததால், பல்வேறு பகுதியில் இன்று புதன்கிழமை (13)  காலை அடர்ந்த மூடுபனி நிலவியுள்ளது.
+🟩
 
-இந்நிலையில், டெல்லி இந்திரா காந்தி சர்வதேச விமான நிலையத்தில் காலை 8.30 மணிக்கு விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்ததால், ஒரு சில விமானங்கள் தரையிறங்காமல் திருப்பி விடப்பட்டன. இதனால் டெல்லியில் விமான சேவை பாதிக்கப்பட்டுள்ளது.
+Air pollution is reported to be increasing since winter in the Indian capital of Delhi.
 
-அதேபோல, ஆனந்த் விஹார் மற்றும் ஆயா நகர் ஆகிய 2 கண்காணிப்பு நிலையங்களில் காற்றின் தரம் கடுமையான பிரிவில் பதிவானதாக இந்திய மத்திய மாசு கட்டுப்பாட்டு வாரியம் தெரிவித்துள்ளது.
+In this case, air pollution has increased in Delhi for the past few days. According to data from the Central Pollution Control Board of India, the air standard code (AQI) in Delhi has been recorded in the last 24 hours.. Due to the 'very bad' section of the wind, the dense fog was prevailed in various parts of the country this morning.
+
+In this case, a few flights were diverted at the Indira Gandhi International Airport at 8.30 am at the Indira Gandhi International Airport at 8.30 am.. This has affected the airline in Delhi.
+
+Similarly, the Central Pollution Control Board of India said that the quality of the air was recorded in the two surveillance centers of Anand Vihar and Ana Nagar.
 
 ◼️
 
 [Data](articles/b89d1c50.json)
+
+[Extended Data](ext_articles/b89d1c50.ext.json)
 
 ---
 
@@ -905,6 +949,8 @@ Perera is a chartered accountant by profession and a former partner of KPMG.
 ◼️
 
 [Data](articles/31640e01.json)
+
+[Extended Data](ext_articles/31640e01.ext.json)
 
 ---
 
@@ -1224,6 +1270,8 @@ The estimated street value of the arrested cocaine pellets is around Rs. 13 mill
 
 [Data](articles/fa6d88ad.json)
 
+[Extended Data](ext_articles/fa6d88ad.ext.json)
+
 ---
 
 ### New Zealand and Sri Lanka ODI match today
@@ -1425,6 +1473,8 @@ The driver of the three-wheeler, along with a woman and two children in the back
 ...
 
 [Data](articles/d8d94315.json)
+
+[Extended Data](ext_articles/d8d94315.ext.json)
 
 ---
 
@@ -2287,41 +2337,5 @@ Pressure on Welby had been building since Thursday, when release of the inquiry�
 [Data](articles/88cc76ae.json)
 
 [Extended Data](ext_articles/88cc76ae.ext.json)
-
----
-
-### Notice to election commissioners
-
-*2024-11-12 21:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203191) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-General elections: 10th Parliament, 8,888 candidates, 71 lakh voters, 13,421 polling centers. EC warns voters about ballot cards. 64,000 police deployed. Local & foreign observers present.
-
-🟩
-
-The General Elections in the country will be held for the 10th-year Parliament of Parliament.
-
-8,888 candidates will compete in this year, 71 lakhs of number of voters who have qualified to vote.
-
-The masses will be voted in 13,421 polling centers island wide.
-
-The Elections Commission will inform the voters that if they have not received a ballot card, the identity of the identity can be taken to the voters.
-
-• Temporary ID issued for disabled citizens
-
-* Temporary ID card issued to other people
-
-There are 64,000 police officers who have been deployed for the security duties of the general election.
-
-Local and foreign observers are also present at the Passover of the 2024 General Election.
-
-◼️
-
-[Data](articles/6caa3963.json)
-
-[Extended Data](ext_articles/6caa3963.ext.json)
 
 ---

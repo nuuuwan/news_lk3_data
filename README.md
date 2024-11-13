@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 23:25:18**
+As of **2024-11-14 00:14:58**
 
 ## Newspaper Stats
 
-*Scraped **54,619** Articles*
+*Scraped **54,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,98 @@ dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
-economynextcom | 3,317
+economynextcom | 3,319
 dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,118
-adaderanalk | 6,516
-tamilmirrorlk | 7,649
-virakesarilk | 8,873
+adaderanalk | 6,526
+tamilmirrorlk | 7,650
+virakesarilk | 8,874
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,619 (100.0%) of 54,619 articles have been extended.
+54,629 (100.0%) of 54,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### Shortly before: One death
+
+*2024-11-13 23:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-347077) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+1 death reported in shooting near Kalkissa police division. Victim hospitalized, succumbed to injuries. Police investigating via emergency hotline. Incident occurred last night in Badovita area.
+
+🟩
+
+One person was killed in a shooting that took place last night (13) in the Badovita area of ​​the Kalkissa police division.
+
+A person who was injured in the shooting has died after being admitted to the Kalubowila hospital for treatment.
+
+The police said that Kalkis has launched an investigation into the incident through information received for 119 emergency numbers.
+
+◼️
+
+[Data](articles/33220896.json)
+
+[Extended Data](ext_articles/33220896.ext.json)
+
+---
+
+### 30-year-old killed in Badowita shooting
+
+*2024-11-13 23:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103390/30-year-old-killed-in-badowita-shooting) · `en`
+
+A 30-year-old man has been killed in a shooting incident in the Badowita area within the Mount Lavinia Police Division tonight (13).
+
+The victim, a resident of Badowita Phase 3, was pronounced dead upon admission to the Kalubowila Hospital.
+
+A T-56 assault rifle is suspected to have been used in the shooting, though details of the suspects involved remain unknown.
+
+Mount Lavinia Police have launched an investigation into the incident based on information received via the ‘119’ police emergency hotline.
+
+◼️
+
+[Data](articles/7be76394.json)
+
+[Extended Data](ext_articles/7be76394.ext.json)
+
+---
+
+### Firing in Kalkissa;One killed
+
+*2024-11-13 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198629) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Shooting in Kalkissa; one killed. Incident occurred Wednesday night in Badovita area. Victim died at Kalubowila hospital. T56 rifle suspected. No suspects identified yet. Mount police investigating through emergency number 119.
+
+🟩
+
+One person was killed in a shooting that took place on Wednesday night (13) in the Badovita area of ​​the Kalkissa police division.
+
+The man who was injured in the shooting has died after being admitted to the Kalubowila hospital for treatment.
+
+It is suspected that the T56 rifle may have been used for the shooting, and no information on the suspects has yet been released.
+
+Mount police have launched an investigation into the incident through information received for 119 emergency numbers, police said.
+
+◼️
+
+[Data](articles/579ecf57.json)
+
+[Extended Data](ext_articles/579ecf57.ext.json)
+
+---
 
 ### Lightning strikes
 
@@ -82,6 +156,24 @@ This procedure will continue if the responsible authorities are unable to hire t
 
 ---
 
+### Govt. to issue birth, marriage, and death certificates for overseas Sri Lankans through embassies
+
+*2024-11-13 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103389/govt-to-issue-birth-marriage-and-death-certificates-for-overseas-sri-lankans-through-embassies) · `en`
+
+The government has announced a new initiative to issue copies of birth, marriage, and death certificates to Sri Lankans living abroad through Sri Lankan embassies, aimed at providing greater convenience to the expatriate community.
+
+The program will be launched as a pilot project across seven selected foreign missions, including the embassies in Kuwait, Japan, and Qatar, and the consulates in Melbourne (Australia), Toronto (Canada), Milan (Italy), and Dubai (UAE), according to the President’s Media Division (PMD).
+
+In Sri Lanka, efforts are underway to enhance the e-BMD (electronic Birth, Marriage, and Death) database system, which is jointly managed by the Registrar General’s Department and the Ministry of Foreign Affairs. This will allow birth, marriage, and death certificates to be issued through foreign embassies, following a model already in place for obtaining certificates at Divisional Secretariat offices across Sri Lanka.
+
+...
+
+[Data](articles/e2a2d10b.json)
+
+[Extended Data](ext_articles/e2a2d10b.ext.json)
+
+---
+
 ### The 31st anniversary commemoration of St. Yakapar Temple, Gurunagar
 
 *2024-11-13 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198628) · `ta`
@@ -105,6 +197,24 @@ Mind of the Mind of the Mind. Conscious Raj Adikallar gave up.
 [Data](articles/d75f0cf1.json)
 
 [Extended Data](ext_articles/d75f0cf1.ext.json)
+
+---
+
+### “Sri Lanka is a peaceful, beautiful and friendly destination ahead of tourist season” – Foreign Ministry
+
+*2024-11-13 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103388/sri-lanka-is-a-peaceful-beautiful-and-friendly-destination-ahead-of-tourist-season-foreign-ministry) · `en`
+
+Sri Lanka’s Foreign Ministry has announced that the United States today lifted the security alert on the Arugam Bay area, following close collaboration with the Sri Lankan side and the immediate and extensive security measures put in place by the Ministry of Defence, the Ministry of Public Security and related agencies.
+
+In a statement, the Ministry of Foreign Affairs emphasized that, Sri Lanka takes any security alert seriously, and accordingly the Sri Lankan authorities promptly implemented a series of coordinated security measures in the area to safeguard tourists, foreigners and residents against any possible threat.
+
+Detailed instructions were given by Sri Lanka Police to maintain security in the Arugam Bay area while emphasising the importance of safeguarding the freedom of tourists. The residents of the concerned areas as well as owners of tourist establishments and all persons engaged in the field of tourism cooperated closely with the Sri Lanka Police in these efforts, it said.
+
+...
+
+[Data](articles/43ed2bbe.json)
+
+[Extended Data](ext_articles/43ed2bbe.ext.json)
 
 ---
 
@@ -384,6 +494,26 @@ Court of Appeal, Judge Shashi Mahendran, with a group of parents had complained 
 
 ---
 
+### ICTA’s new director board holds inaugural meeting
+
+*2024-11-13 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103387/ictas-new-director-board-holds-inaugural-meeting) · `en`
+
+The newly appointed Board of Directors of the Information and Communication Technology Agency (ICTA) will convene for their first meeting this afternoon (13).
+
+Dr. Hans Wijeyasuriya, recently appointed by President Anura Kumara Dissanayake as the Principal Presidential Advisor on Digital Economy, will chair the board in a non-executive role, according to the President’s Media Division (PMD).
+
+Dr. Wijeyasuriya’s leadership reflects a commitment to strengthening Sri Lanka’s digital economy, aiming to boost economic growth, enhance national competitiveness, and deliver meaningful digital benefits to citizens, the PMD said.
+
+Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Cooray, Bandula Ranatunga, Jeffrey Sulfer, Samisa Abeysinghe, and Shanaka Rebel.
+
+...
+
+[Data](articles/b69deadc.json)
+
+[Extended Data](ext_articles/b69deadc.ext.json)
+
+---
+
 ### New Parliament gathers on Thursday
 
 *2024-11-13 18:40:05* · [`adalk`](https://www.ada.lk/breaking_news/නව-පාර්ලිමේන්තුව-21දා-රැස්වෙයි/11-413023) · `si`
@@ -468,6 +598,20 @@ Accordingly, at an early stage, only about 45 million birth, marriage and death 
 
 ---
 
+### EXPLAINER – Possible policy implications on Sri Lanka’s construction sector after parliament polls
+
+*2024-11-13 18:15:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-implications-on-sri-lankas-construction-sector-after-parliament-polls-187378/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s construction sector is expected to face several transformative shifts under new President Anura Kumara Dissanayake and the leftist-leaning National People’s Power (NPP) government after the November 14 poll. Here are five likely policy implications in the construction sector in a future NPP government:
+
+...
+
+[Data](articles/39229cc3.json)
+
+[Extended Data](ext_articles/39229cc3.ext.json)
+
+---
+
 ### 490 social media complaints have been received in relation to the election
 
 *2024-11-13 18:06:14* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-සමාජ-මාධ්‍ය-පැමිණිලි-490-ක්-ලැබිලා/11-413020) · `si`
@@ -491,6 +635,28 @@ The Elections Commission further states that there were 67 Votes of Visual, whic
 [Data](articles/161b3d7b.json)
 
 [Extended Data](ext_articles/161b3d7b.ext.json)
+
+---
+
+### Sri Lanka deploys 70,000 police personnel to ensure uneventful election
+
+*2024-11-13 18:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-deploys-70000-police-personnel-to-ensure-uneventful-election-187285/) · `en`
+
+ECONOMYNEXT- 70,000 police personnel have been deployed for election efforts, Police media spokesman DIG Nihal Thalduwa said.
+
+“Directly 64,000 [personnel] have been deployed,” Thalduwa said, and an “additional 6,000 are on stand-by”.
+
+Stringent security measures have been put in place for the general election on Thursday, Thalduwa told reporters this week.
+
+3,200 Special Task Force (STF) personnel are included in this deployment to encourage a free and fair voting.
+
+He requested the public to refrain from committing election offenses and to maintain a peaceful voting environment. (Colombo/Nov13/2024)
+
+◼️
+
+[Data](articles/28cd2454.json)
+
+[Extended Data](ext_articles/28cd2454.ext.json)
 
 ---
 
@@ -587,6 +753,28 @@ World countries told us to discuss with the Monetary Fund. சர்வதேச
 [Data](articles/3e81316a.json)
 
 [Extended Data](ext_articles/3e81316a.ext.json)
+
+---
+
+### Customs officers temporarily call of trade union action
+
+*2024-11-13 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103386/customs-officers-temporarily-call-of-trade-union-action) · `en`
+
+The Sri Lanka Customs Trade Union Alliance says that the decision taken by the customs officers to only carry out the activities related to their respective duties has been temporarily suspended.
+
+The customs officers had resorted to a union action of carrying out only the work related to their official duties, in protest against the alleged false accusations levelled against them by container truck owners and drivers during an observation visit by Minister Vijitha Herath to the Colombo Port on November 07.
+
+This had resulted in a serious delay in the clearing of the containers at the port.
+
+However, the President of the Customs Trade Union Alliance stated that the decision to carry out only duty-related activities was temporarily suspended considering that the container truck drivers and assistants would not be able to vote due to having to park their container trucks.
+
+The President of the alliance Mr. Amila Sanjeeva said the following during a press conference this afternoon (13):
+
+...
+
+[Data](articles/79da34f9.json)
+
+[Extended Data](ext_articles/79da34f9.ext.json)
 
 ---
 
@@ -758,6 +946,26 @@ A bond maturing on 15.09.2029 closed at 11.55/70 percent, down from 11.65/80. (C
 
 ---
 
+### Five liquor distilleries given deadline to pay arrears taxes – AG tells court
+
+*2024-11-13 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103384/five-liquor-distilleries-given-deadline-to-pay-arrears-taxes-ag-tells-court-) · `en`
+
+The Attorney General has informed the Supreme Court that the Department of Excise has decided to suspend the licenses of five liquor manufacturers, including W.M. Mendis & Co. Ltd., if they fail to pay arrears taxes before November 30, 2024.
+
+Additional Solicitor General Nerin Pulle, representing the Excise Commissioner General, informed the court of this when a fundamental rights petition filed by social activist Sanjaya Mahawaththa and others was taken up today (13).
+
+The petition was heard before a bench comprising Justices Preethi Padman Surasena, Yasantha Kodagoda, and Priyantha Fernando.
+
+The Additional Solicitor General stated that five liquor manufacturing companies including W. M. Mendis & Co Ltd and Royal Casks Distilleries (Pvt) Ltd, that have been named as respondents, have agreed to pay the arrears by the end of the month. He also reiterated the Excise Department’s decision to suspend their licenses if payments are not made on time.
+
+...
+
+[Data](articles/1d6d458c.json)
+
+[Extended Data](ext_articles/1d6d458c.ext.json)
+
+---
+
 ### The first meeting of the ICTA Board of Directors today
 
 *2024-11-13 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198606) · `ta`
@@ -915,6 +1123,20 @@ The embassy on October 23 warned tourists to stay away from Arugam Bay following
 [Data](articles/67702236.json)
 
 [Extended Data](ext_articles/67702236.ext.json)
+
+---
+
+### CSE’s ASPI crosses 13,000 points
+
+*2024-11-13 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103382/cses-aspi-crosses-13000-points) · `en`
+
+The All Share Price Index (ASPI) of the Colombo Stock Exchange has surpassed the 13,000 mark today (13), for the first time since January 31, 2022.
+
+Accordingly, the index has increased by 136.20 points to close at 13,125.19.
+
+◼️
+
+[Data](articles/38a6e525.json)
 
 ---
 
@@ -1105,6 +1327,28 @@ The NPP has historically advocated for stronger state control over strategic eco
 [Data](articles/fc85f4cc.json)
 
 [Extended Data](ext_articles/fc85f4cc.ext.json)
+
+---
+
+### Businessman arrested after illegally assembled luxury vehicle seized in Tangalle
+
+*2024-11-13 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103381/businessman-arrested-after-illegally-assembled-luxury-vehicle-seized-in-tangalle) · `en`
+
+A luxury vehicle valued at around Rs. 30 million and suspected to have been illegally assembled has been seized by the Matara Division Criminal Investigation Unit (CIU) after being found hidden at a residence in the Vitharandeniya area of the Tangalle Police Division.
+
+One suspect has been arrested in connection with the incident.
+
+Based on a tip-off received regarding a suspicious vehicle hidden in the house, officers from the Matara Division Criminal Investigation Unit had searched the residence in Vitharandeniya last afternoon (12) and discovered the Toyota Land Cruiser.
+
+The current owner had failed to provide any documentation verifying the jeep’s registration.
+
+Accordingly, a businessman from the Pallegama area in Embilipitiya, who is considered to be its owner, has surrendered to Matara Police through an attorney.
+
+He was later arrested and the suspect is to be produced before the Walasmulla Magistrate’s Court.
+
+...
+
+[Data](articles/6b7ea7eb.json)
 
 ---
 
@@ -1397,6 +1641,24 @@ Givon did not commit suicide, and his immense love for life and the attitude of 
 [Data](articles/01ffbe65.json)
 
 [Extended Data](ext_articles/01ffbe65.ext.json)
+
+---
+
+### Two defendants acquitted from murder case after 27 years
+
+*2024-11-13 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103378/two-defendants-acquitted-from-murder-case-after-27-years) · `en`
+
+The North Central Province Predecessor High Court Judge and incumbent Kuliyapitiya High Court Judge, Manoj Thalgodapitiya, has ordered the acquittal of two defendants indicted before the Anuradhapura High Court for a murder that took place in Rajanganaya 27 years ago.
+
+The defendants, identified as Dadigamage Premasiri alias “Ukkuwa” and K. Wasantha Kumar alias “K. Wasantha,” both residents of Rajanganaya, were acquitted due to insufficient evidence presented by the prosecution.
+
+The High Court Judge ruled that the prosecution had failed to prove the allegations against the defendants beyond a reasonable doubt.
+
+The case, which dates back to October 29, 1997, was initially brought to the Anuradhapura High Court under Section 296 of the Sri Lanka Penal Code Ordinance by the Attorney General, accusing the two defendants of committing the offense within the Anuradhapura HC’s jurisdiction.
+
+◼️
+
+[Data](articles/450cf147.json)
 
 ---
 
@@ -1735,6 +1997,24 @@ In this regard, Jaffna. I have appealed to the District Assistant Election Commi
 [Data](articles/d5df0d7c.json)
 
 [Extended Data](ext_articles/d5df0d7c.ext.json)
+
+---
+
+### Suspect arrested with stock of commercial explosives in Bandaragama
+
+*2024-11-13 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103377/suspect-arrested-with-stock-of-commercial-explosives-in-bandaragama-) · `en`
+
+A suspect was arrested in Bandaragama for the illegal possession of a large stock of commercial explosives, police reported.
+
+Acting on received information, authorities conducted a raid in the Gungamuwa area, where the suspect was apprehended.
+
+The seized items included 4 water gel sticks, 890 grams of gunpowder, over 21 kilograms of ammonium nitrate, 56 detonators, and 250 meters of detonation cords.
+
+The suspect has been identified as a 57-year-old resident of Gungamuwa, Bandaragama.
+
+◼️
+
+[Data](articles/e8b85b0e.json)
 
 ---
 
@@ -2189,287 +2469,5 @@ Road accidents are common in Pakistan due to poor infrastructure and disregard f
 [Data](articles/c41e360f.json)
 
 [Extended Data](ext_articles/c41e360f.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-11-13 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103367/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-A low-pressure area is formed over the south west Bay of Bengal. Under its influence, atmospheric conditions are favorable for afternoon thundershowers in most parts of the island, today (November 13) and in the next few days, says the Department of Meteorology.
-
-Several spells of showers will occur in Northern Province. Showers or thundershowers will occur at several places elsewhere during the evening or night.
-
-Heavy showers about 100 mm are likely at some places in Central, Uva, Sabaragamuwa, and Southern provinces and in Kalutara district, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0905336a.json)
-
-[Extended Data](ext_articles/0905336a.ext.json)
-
----
-
-### Sri Lanka finance companies invest in treasuries, repos amid vehicle import ban
-
-*2024-11-13 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-finance-companies-invest-in-treasuries-repos-amid-vehicle-import-ban-187084/) · `en`
-
-ECONOMYNEXT – Sri Lanka finance companies have increased their holdings of government securities, repos and also unit trusts in the first half of 2024, official data showed, as car imports were banned following forex shortages from inflationary rate cuts in 2020.
-
-“Recovering business activities amidst reduced market interest rates contributed to an increase in the demand for credit despite challenges in the sector’s key business segments, such as vehicle leasing and hire purchase,” the central bank said in a report.
-
-Loans and advances of the finance companies started to expand in 2024 after a contraction in credit in 2023, which the central bank said reflecting improved macroeconomic conditions and demand for credit.
-
-Gross loans and advances of the sector had increased by 11.4 per cent, reaching 1,359 billion rupees at end of the second quarter of 2024.
-
-...
-
-[Data](articles/0421bea1.json)
-
-[Extended Data](ext_articles/0421bea1.ext.json)
-
----
-
-### Special Transport Services
-
-*2024-11-13 07:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-போக்குவரத்து-சேவைகள்/175-347040) · `ta`
-
-Special transport services continue for voters in Sri Lanka's general election. The Sri Lanka Transport Board, Private Bus Owners Association, and Department of Persons have arranged transportation. Additional buses and trains have been deployed to facilitate passengers during the election period.
-
-🟩
-
-Special transport services are still being carried out today for the public who go to their own places to vote in the general election.
-
-The Sri Lanka Transport Board, the Private Bus Owners Association and the Department of Persons have announced that the necessary transport services have been provided for the facilities of the passengers.
-
-According to the Sri Lanka Transport Board Chairman Ramal Siriwardena, steps have been taken to provide more 80 buses in addition to the passenger facilities.
-
-Meanwhile, Deputy General Manager of the Railway Department, NJ Indibollake said that additional trains have been deployed in view of the election period rather than daily trains.(a)
-
-◼️
-
-[Data](articles/4ed6c021.json)
-
-[Extended Data](ext_articles/4ed6c021.ext.json)
-
----
-
-### Firearms to UNP leaders, party leaders and Government Executives
-
-*2024-11-13 07:45:11* · [`adalk`](https://www.ada.lk/breaking_news/මන්ත්‍රීන්ට--පක්ෂ-නායකයන්ට--රජයේ-විධායක-නිලධාරීන්ට-දුන්-ගිනි-අවි-නැවත-රජයට-ඉල්ලයි/11-413009) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka Ministry of Defense issues firearms to UNP leaders, party leaders, and government executives. Deadline: Return weapons to nearest police station by Dec 30, 2024.
-
-🟩
-
-Recently, the Ministry of Defense has a significant number of pistols and army guns who have been issued by the Sri Lanka Police and the Army to protect the Sri Lanka Police and the Army to protect the Sri Lankan police, politicians, political organizations, as well as political organizations, as well as government executives for pistols, political organizations, as well as government executives for pistols, political organizations, as well as government executives for pistols, politicians, as well as government executives for pistols, political organizations, as well as government executives for pistols, political organizations, as well as government executives for pistols, political organizations, as well as political organizers, as well as government executives for Parliament.Has been.
-
-Therefore, the Ministry of Defense will be informed to the persons to be handed over to the nearest police of December 30, 2024 before December 30, 2024.
-
-...
-
-[Data](articles/ff297e18.json)
-
-[Extended Data](ext_articles/ff297e18.ext.json)
-
----
-
-### Today's winds in the Bay of Bengal
-
-*2024-11-13 07:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-இன்று-காற்றழுத்த-தாழ்வு/175-347039) · `ta`
-
-Bay of Bengal winds cause rain across Sri Lanka. Heavy downpours forecasted in central, southern regions. Lighter showers expected in north and other areas tonight.
-
-🟩
-
-Due to its impact, the Department of Meteorology has said that rainfall is likely to occur in many parts of the country from today.
-
-Accordingly, heavy rains are expected in the Central, Uva, Sabaragamuwa and Southern Provinces and some parts of the Kalutara districts.
-
-The Department of Meteorology has said that there will be rains in the Northern Province and in the rest of the country in the evening or night.. (A)
-
-◼️
-
-[Data](articles/28e66f26.json)
-
-[Extended Data](ext_articles/28e66f26.ext.json)
-
----
-
-### Piyāsara Samaya: Lest History Be Forgotten
-
-*2024-11-13 06:16:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/piyasara-samaya-lest-history-be-forgotten/) · `en`
-
-Chandrarathna Bandara’s most recent novel Piyāsara Samaya,of which the title might be loosely translated as A Time for Flying (or even a Time to Flee), is a thought-provoking novel which offers the reader a space to connect their lived experience with the narrative. It deals with the socio-political realities which were our lived experience as Sri Lankans in the recent past. The novelist’s previous work Premānishansa received the Swarnapusthaka award and the Vidyodaya award for best novel in 2022. Piyāsara Samaya which came out this September has themes which are in common with Premānishansa and the novel is set in such a way that the narrative deals with recent happenings in Sri Lanka. However, what is most noteworthy is its contribution to the literary genre of diasporic writing or novels of expatriation.
-
-The novelist introduces two protagonists and through their characters offers many insights to certain aspects of life.
-
-...
-
-[Data](articles/ae660645.json)
-
-[Extended Data](ext_articles/ae660645.ext.json)
-
----
-
-### How was Sri Lanka become a hub of global wildlife racket?
-
-*2024-11-13 03:42:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c89v17847njo) · `si`
-
-N
-
-🟩
-
-How was Sri Lanka become a hub of global wildlife racket?
-
-"We arrested 28 containers of 'Rose Wood' in the world that was planned to send Hong Kong through ports. Two days after that raid, I attended three Super rich people. See also we can release the containers. "
-
-The above statement made by the BBC Sinhala service by Ceylon Head of the Sri Lanka Customs, Biodiversity Protection Unit, by Samantha Gunasekera. The world focuses on a number of raids with a global 'Rose Wood' racket and elephants, including Sri Lanka.. He has a professional experience as an Investigation Officer for over 30 years, he says the leading government agencies and governments of some countries to prepare for the global wildlife racket.
-
-Sri Lanka has become a hub of global wildlife racket network due to the main road between Africa, Middle East and Asia. This geographical location and biodiversity allows the southeast of Asia, China and the Middle East to illegally.
-
-...
-
-[Data](articles/a13594f4.json)
-
-[Extended Data](ext_articles/a13594f4.ext.json)
-
----
-
-### Class conflict shattered, politics returned to people
-
-*2024-11-13 02:21:51* · [`dailyftlk`](https://www.ft.lk/columns/Class-conflict-shattered-politics-returned-to-people/4-769190) · `en`
-
-I have always been struck by two distinct moments in history. First, in June 1865, during the tenure of President Abraham Lincoln, slavery was abolished in the United States of America. And yet, there were slaves who were reluctant to embrace the associated freedoms. They appeared to be too attached to their chains.
-
-Then, in July 1945 C.W.W. Kannangara introduced an act in parliament to ensure free education for all Sri Lankans. He was compelled to debate for hours extolling the virtues of this move. There were many who attempted to throw sand in his wheels. Among the elites there were even those who argued that if this piece of legislation was passed, they wouldn’t be able to find a boy to pluck coconuts on their extensive properties.
-
-...
-
-[Data](articles/916a9afc.json)
-
-[Extended Data](ext_articles/916a9afc.ext.json)
-
----
-
-### Sharing to sustainability
-
-*2024-11-13 02:15:26* · [`dailyftlk`](https://www.ft.lk/columns/Sharing-to-sustainability/4-769189) · `en`
-
-Companies and schools can significantly reduce their carbon footprint by implementing ride-sharing apps for employees and students
-
-The Sri Lanka Institute of Directors (SLID) recently called upon Sri Lanka’s top business leaders to prioritise Sustainability, Governance, and Diversity (SGD) issues. With the global goal of achieving net-zero carbon emissions by 2050, significant challenges and opportunities lie ahead. While human history demonstrates our capacity for adaptation, tackling these issues requires a collaborative effort.
-
-SLID emphasises the importance of sharing resources as a key strategy for achieving sustainability. Here are two potential areas for fostering a sharing economy:
-
-...
-
-[Data](articles/7a537c65.json)
-
-[Extended Data](ext_articles/7a537c65.ext.json)
-
----
-
-### Eradicate poverty sans charity; create dignity and sustainability
-
-*2024-11-13 02:13:12* · [`dailyftlk`](https://www.ft.lk/columns/Eradicate-poverty-sans-charity-create-dignity-and-sustainability/4-769188) · `en`
-
-This article discusses a strategy to eradicate poverty without relying on charity, aiming instead to promote dignity and self-sufficiency among the poor. Key aspects of the proposal include:
-
-Objective: The goal is to empower people, reduce dependency on imports, improve communal harmony, and ensure the nation’s productivity. The approach emphasises reducing poverty sustainably and aims to accomplish this within two years through proper implementation.
-
-...
-
-[Data](articles/d30aa847.json)
-
-[Extended Data](ext_articles/d30aa847.ext.json)
-
----
-
-### 49th Annual International Convention on Quality Control Circles kicks off
-
-*2024-11-13 01:34:16* · [`dailyftlk`](https://www.ft.lk/business/49th-Annual-International-Convention-on-Quality-Control-Circles-kicks-off/34-769162) · `en`
-
-Over 2,000 delegates from 14 countries converge to discuss “Beyond Boundaries: A Quest for Quality and Productivity and Innovation”
-
-The 49th Annual International Convention on Quality Control Circles (ICQCC), organised by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), was inaugurated in a colourful event at the Bandaranaike International Memorial Hall (BMICH), Colombo.
-
-Taking place from 11 to 13 November at the Mount Lavinia Hotel, the Convention, themed ‘Beyond Boundaries: A Quest for Quality and Productivity and Innovation,’ welcomed a gathering of over 2,000 delegates from 14 member countries, including Japan, China, Thailand, Philippines, Mauritius, Bangladesh, Korea and Singapore. It aims to foster collaboration and knowledge exchange between organisations with diverse fields around the globe.
-
-...
-
-[Data](articles/a521dd9b.json)
-
-[Extended Data](ext_articles/a521dd9b.ext.json)
-
----
-
-### SLNAC forges closer ties with Hong Kong International Arbitration Centre via MoU
-
-*2024-11-13 01:31:38* · [`dailyftlk`](https://www.ft.lk/business/SLNAC-forges-closer-ties-with-Hong-Kong-International-Arbitration-Centre-via-MoU/34-769161) · `en`
-
-Signing of the MoU and exchange of souvenirs between SLNAC Chairman Hiran de Alwis and HKIAC Secretary General Joanne Lau
-
-HKIAC Co-Chairman David Rivkin delivering the address at the conference
-
-The Hong Kong International Arbitration Centre (HKIAC), the premier dispute resolution services provider in Hong Kong, entered into a Memorandum of Understanding (Mou) with the Sri Lanka National Arbitration Centre (SLNAC), thereby paving the way for a closer collaboration between the parties in facilitating and promoting alternative dispute resolution processes in the region.
-
-The MoU was entered into on 21 October, coinciding with the start of the highly successful Hong Kong International Arbitration Week organised by the HKIAC with over a 1,000 registrations from 36 jurisdictions featuring over 170 speakers.
-
-SLNAC Board Chairman Hiran de Alwis and HKIAC Secretary General Joanne Lau signed the MoU on behalf of the two organisations at the HKIAC offices.
-
-...
-
-[Data](articles/849baab6.json)
-
-[Extended Data](ext_articles/849baab6.ext.json)
-
----
-
-### EU reaffirms support for economic growth with focus on anti-corruption and trade expansion
-
-*2024-11-13 01:28:04* · [`dailyftlk`](https://www.ft.lk/business/EU-reaffirms-support-for-economic-growth-with-focus-on-anti-corruption-and-trade-expansion/34-769160) · `en`
-
-In a renewed commitment to support Sri Lanka’s economic recovery and trade expansion, the European Union (EU) Ambassador to Sri Lanka Carmen Moreno highlighted the EU’s dedication to fostering economic stability in the country during a recent meeting with the Export Development Board (EDB) Chairman Mangala Wijesinghe.
-
-Accompanied by Deputy Head of Mission Lara Bredal, Moreno stressed the importance of anti-corruption and governance reforms to attract further EU investment.
-
-She commended the Government’s recent initiatives to combat bribery and enhance anti-corruption institutions, noting that this focus on transparency is critical to gaining investor confidence.
-
-Moreno also highlighted Sri Lanka’s steady advancements in anti-money laundering and counter-terrorism finance efforts, as well as its adherence to international environmental, labour and human rights standards — key considerations for foreign direct investments (FDIs) from the EU.
-
-...
-
-[Data](articles/df984c02.json)
-
-[Extended Data](ext_articles/df984c02.ext.json)
-
----
-
-### XpressJobs Official Recruitment Partner for Global Entrepreneurship Week 2024
-
-*2024-11-13 01:27:04* · [`dailyftlk`](https://www.ft.lk/business/XpressJobs-Official-Recruitment-Partner-for-Global-Entrepreneurship-Week-2024/34-769159) · `en`
-
-From left: XpressJobs COO Dr. Oshadie Korale, Partner Tyner Fernando, ICTA Associate Chief Digital Economy Officer Sachindra Samararatne, and GEW Program Director Abith Latiff
-
-XpressJobs has announced the status as the Official Recruitment Partner for Global Entrepreneurship Week (GEW) 2024, happening from 18 to 24 November.
-
-This year’s GEW theme, “Entrepreneurship is for Everyone,” aims to inspire young entrepreneurs to start their own businesses, contribute to economic growth, and drive sustainable solutions.
-
-GEW is the world’s largest celebration of entrepreneurship, bringing together over 10 million participants, 40,000 activities, and 20,000 partners from more than 200 countries. The week-long event connects entrepreneurs, educators, policy-makers, and innovators on a global stage to inspire, exchange ideas, and take action on key entrepreneurial initiatives.
-
-...
-
-[Data](articles/1c8865f6.json)
-
-[Extended Data](ext_articles/1c8865f6.ext.json)
 
 ---

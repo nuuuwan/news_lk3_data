@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 10:41:36**
+As of **2024-11-13 10:59:55**
 
 ## Newspaper Stats
 
-*Scraped **54,531** Articles*
+*Scraped **54,534** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,265
 economynextcom | 3,303
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,103
+adalk | 5,104
 adaderanalk | 6,504
-tamilmirrorlk | 7,630
+tamilmirrorlk | 7,632
 virakesarilk | 8,851
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,41 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,530 (100.0%) of 54,531 articles have been extended.
+54,531 (100.0%) of 54,534 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### முன்னேற்பாடு....
+
+*2024-11-13 10:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/வாக்குப்பெட்டிகள்-கொண்டுசெல்லும்-நடவடிக்கை-ஆரம்பம்/46-347051) · `ta`
+
+நாடளாவிய ரீதியில் வியாழக்கிழமை (14) இடம்பெறவுள்ள பொதுத் தேர்தலுக்கான வாக்கு பெட்டிகளையும் அதிகாரிகளையும் வாக்களிப்பு நிலையங்களுக்கு அனுப்பும் செயற்பாடுகள் முன்னெடுக்கப்பட்டு வருகின்றன.
+
+◼️
+
+[Data](articles/21627fd2.json)
+
+---
+
+### வேட்பாளர் பட்டியலில் பெயர் ; பெண் முறைப்பாடு
+
+*2024-11-13 10:44:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-பட்டியலில்-பெயர்-பெண்-முறைப்பாடு/175-347050) · `ta`
+
+நடைபெறவுள்ள பாராளுமன்ற தேர்தலில் யாழ் . தேர்தல் மாவட்டத்தில் போட்டியிடும் சுயேட்சை குழுவொன்று தனக்கு தெரியாமல் தன்னுடைய பெயரை வேட்பாளர் பட்டியலில் குறிப்பிட்டுள்ளதாக பெண்ணொருவர் தேர்தல் ஆணைக்குழுவிடம் முறைப்பாடு செய்துள்ளார்.
+
+“சுயேட்சை குழுவொன்று தன்னுடைய அனுமதி இன்றி , வேட்பாளர் பட்டியலில் எனது பெயரை குறிப்பிட்டுள்ளனர். இதுவரை காலமும் எனக்கு இந்த விடயம் தெரிய வரவில்லை. நேற்றைய தினம் திங்கட்கிழமை எனது மாணவி ஒருவர் எனக்கு தொலைபேசி அழைப்பினை எடுத்து , தேர்தலில் போட்டியிடுகிறீர்களா ? என வினாவிய போதே , எனது பெயர் வேட்பாளர் பட்டியலில் வந்திருந்தமை தெரிய வந்தது.
+
+அதனை உறுதிப்படுத்திக்கொள்ள யாழ் . மாவட்ட தேர்தல் திணைக்கள அலுவலகத்திற்கு இன்றைய தினம் செவ்வாய்க்கிழமை அது என்னுடைய பெயர் தான் என்பதனையும் எனது அனுமதியின்றி எனது பெயரை வேட்பாளர் பட்டியலில் சுயேட்சை குழு தலைவர் உள்ளடக்கி உள்ளார் என்பதனையும் உறுதிப்படுத்திக்கொண்டேன்.”
+
+அது தொடர்பில் யாழ் . மாவட்ட உதவி தேர்தல் ஆணையாளரிடம் எழுத்து மூலம் முறையிட்டுள்ளேன்" என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/d5df0d7c.json)
+
+---
 
 ### Voting boxes for 137 polling stations in Mullaitivu
 
@@ -1162,6 +1192,24 @@ The Sri Lankan players will receive the most important advice from Neil McCensi 
 
 ---
 
+### කඩාකප්පල්කාරී ක්‍රියාවක් සිදු වුවහොත් එම ඡන්ද පොළේ ඡන්දය ශුන්‍යයි
+
+*2024-11-12 18:32:59* · [`adalk`](https://www.ada.lk/breaking_news/කඩාකප්පල්කාරී-ක්‍රියාවක්-සිදු-වුවහොත්-එම-ඡන්ද-පොළේ-ඡන්දය-ශුන්‍යයි/11-413007) · `si`
+
+ඡන්ද විමසීම් පැවැත්වෙන දින ඡන්ද පොළක යම් කඩාකප්පල්කාරී ක්‍රියාවක් සිදු වුවහොත් එම ඡන්ද පොළේ ඡන්දය ශුන්‍ය කිරීමට කටයුතු කරන බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+
+නීතිය තදින් ක්‍රියාත්මක කරන ලෙස ආරක්ෂක අංශවලට උපදෙස් දී තිබෙන බවත්, සාමය ආරක්ෂා කිරීම සඳහා පොලීසිය හා විශේෂ කාර්ය බළකාය යොදවා තිබෙන බවද පෙන්වා දෙයි.
+
+ඕනෑම හදිසි අවස්ථාවකදී කැඳවීම සඳහා ත්‍රිවිධ හමුදාව සූදානමින් තබා තිබෙන බවත්, ඡන්දය පාවිච්චි කිරීමෙන් පසුව නිවසේ රැඳී සිටින් ලෙසත් තමන්ගේ දෙමවුපියන්, දරුවන්, පවුලේ අය නිවෙස්වල රඳවා ගන්නා ලෙස මැතිවරණ කොමිෂන් සභවා සියලු දෙනාගෙන් ඉල්ලා සිටියි.
+
+මැතිවරණ රාජකාරී සඳහා පත්වීම් ලිපි ලබා ඇති සියලුම නිලධාරීන් තමාට නියමිත දින නියමිත ස්ථානයට අනිවාර්යයෙන්ම රාජකාරී සඳහා වාර්තා කළ යුතු බවත්, එම පත්වීම් ලිපි වෙනස් කිරීමට හෝ අවලංගු කිරීමට කිසිදු හැකියාවක් නොමැති බවත්, සේවයට වාර්තා නොකිරීම දඬුවම් ලැබිය හැකි වරදක් බවද පෙන්වා දෙයි.
+
+...
+
+[Data](articles/a1f4148c.json)
+
+---
+
 ### Massage affair: Bail for female candidate
 
 *2024-11-12 18:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-விவகாரம்-பெண்-வேட்பாளருக்கு-பிணை/175-347017) · `ta`
@@ -1190,19 +1238,31 @@ The magistrate has issued the order by the Bambalapitiya police, following a com
 
 ---
 
-### බිත්තරේ රු. 60ට 65ට යාවි
+### Egg Rs. Will pass at 65 to 6
 
 *2024-11-12 18:27:37* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරේ-රු--60ට-65ට-යාවි/11-413006) · `si`
 
-හාල් මෝල් හිමියන් රයිස් පොලිස් මිල හා හුණුසහල් මිල තුන්ගුණයකින් වැඩිකිරීම නිසා කුකුළු ආහාර නිෂ්පාදනය කරගත නොහැකි පසුබිමක බිත්තරයක මිළ රුපියල් 60ක් 65ක් අතර ඉහළ යන ලකුණු පෙන්නුම් කරන බව සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමයේ සභාපති සරත් රත්නායක මහතා පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ මහතා මාධ්‍යයට විශේෂ ප්‍රකාශයක් කරමින් අද (11දා) ඒ බැව් පැවසීය.එහිදී අදහස් දැක්වූ රත්නායක මහතා මෙසේද කීවේය.
 
-“සත්ව ආහාර නිෂ්පාදනයට අපි සියයට 20ක් හුණු සහල් භාවිත කරද්දී රයිස් පොලිස් සියයට 30ක් භාවිත කරනවා. ඒ වගේම දැන් වනවිට සහල් පරිභෝජනය කරන පාරිභෝගිකයන්ට වඩා සත්ව ආහාරවලට රයිස් පොලිස් හා හුණුසහල් ඉල්ලුම වැඩිවෙමින් තියනවා. ඒ  වගේම සහල් වැඩිවශයෙන් එතනෝල් නිෂ්පාදනයට මහා පරිමාණයෙන් ඉල්ලනවා. හේතු රැසක් නිසා මේ දිනවල සහල් මිල ඉහළ යනවා.
+
+Rice shortage affects egg production. Due to high rice costs, egg prices may exceed Rs. 60/kg. Rice mill owners blame rising prices on increased demand for animal feed and ethanol production.
+
+🟩
+
+Due to rice mill owners, rice police prices and limecurred prices in three times the prices of the entire Lanka Egg Manufacturers Association Chairman Sarath Ratnayake said.
+
+He said that he was speaking to the media by making a special statement today (11), Mr. Ratnayake said,
+
+"As we use 20 percent of the lives of animal food, rice using 30 percent of rice. Also, now, rice police and lime demand has increased to animal feed, rather than customers who consume rice. Also, rice increasingly demands the production of ethanol production. Rice prices are rising due to many reasons.
+
+Simultaneously the broken rice, shells herself rise to about three times. As a result, a kilo of food produced at Rs. 150 has come nearly around Rs. There was a daily product in a country that was self-sufficient in the eggs. About Rs.
 
 ...
 
 [Data](articles/c0e3cf23.json)
+
+[Extended Data](ext_articles/c0e3cf23.ext.json)
 
 ---
 
@@ -2315,83 +2375,5 @@ The Tamil People's Liberation Tigers of Tamil Eelam (LTTE) was organized by a me
 [Data](articles/ffd1bdd2.json)
 
 [Extended Data](ext_articles/ffd1bdd2.ext.json)
-
----
-
-### US Special Envoy for Global Youth Issues arrives in Sri Lanka
-
-*2024-11-12 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103357/us-special-envoy-for-global-youth-issues-arrives-in-sri-lanka) · `en`
-
-The U.S. Department of State’s Special Envoy for Global Youth Issues, Abby Finkenauer, has arrived in Sri Lanka on Tuesday (12) for an official visit.
-
-“Proud to welcome US Special Envoy for Global Youth Issues Abby Finkenauer to Sri Lanka! Her work as an advocate for youth voices around the world highlights the incredible role young people play in shaping a brighter future here.”
-
-“Our U.S.-Sri Lanka partnership is committed to empowering youth as leaders in areas that truly matter—from economic growth to environmental sustainability,” the U.S. Ambassador to Sri Lanka Julie Chung posted on ‘X’.
-
-The U.S. Department of State had announced that Special Envoy Abby Finkenauer, will travel to Sri Lanka and Nepal from November 12-15, 2024.
-
-This visit highlights the United States’ commitment to empowering young leaders in South Asia, fostering collaboration on civic engagement, and addressing key issues such as youth leadership, cultural preservation, and community resilience, the statement said.
-
-...
-
-[Data](articles/1efe18ac.json)
-
-[Extended Data](ext_articles/1efe18ac.ext.json)
-
----
-
-### Ministry at Ministry at Ministry at Ministry Question Paper
-
-*2024-11-12 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාජයේ-කතාබහට-ලක්වූ-විභාග-ප්‍රශ්න-පත්‍රය-ගැන-අමාත්‍යාංශ-මට්ටමින්-පරීක්ෂණයක්/11-412994) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Education Ministry orders probe into controversial exam paper. Education Secretary Thilaka Jayasundara instructs officials to investigate. Minister denies involvement in paper preparation.
-
-🟩
-
-The second period in the second period of the CWW W.KL Kindara Central College, Kalutara District has been instructed to initiate an experimental inquiry into the Ministry of General Testing.
-
-The Secretary of Education, Science and Technology Secretary Thilaka Jayasundara has instructed the relevant officials.
-
-The Secretary to the Ministry said that this question paper has been prepared in the society and has no involvement at the ministry or institutional level.
-
-◼️
-
-[Data](articles/9844ff8a.json)
-
-[Extended Data](ext_articles/9844ff8a.ext.json)
-
----
-
-### Special investigation into political form
-
-*2024-11-12 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203178) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ministry of Education launches probe into political content in exam papers. Investigation focuses on Kannangara Central College's General Testing Committee. Measures will be taken after formal inquiry concludes.
-
-🟩
-
-The Ministry of Education states that an accelerated investigation has been launched at the ministry level regarding the political strides in the school term examination paper.
-
-Thilaka Jayasundara said that the Secretary to the Ministry of Education, Science, Science and Technology, said that the relevant officials have already advised the relevant officials.
-
-Kalutara District. W. W. The investigation is held in relation to the average public investigation into the General Testing Committee on Kannangara Central College.
-
-The Secretary said that the meeting has been prepared in society and has been prepared by the Ministry's level or any other institutional level or other institutional level.
-
-After a formal investigation conducted at the ministry level, measures will be taken in this regard.
-
-◼️
-
-[Data](articles/79c766c7.json)
-
-[Extended Data](ext_articles/79c766c7.ext.json)
 
 ---

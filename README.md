@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 17:25:12**
+As of **2024-11-13 16:41:00**
 
 ## Newspaper Stats
 
-*Scraped **54,585** Articles*
+*Scraped **54,570** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,192 +13,40 @@ dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 557
 islandlk | 3,265
-economynextcom | 3,315
+economynextcom | 3,308
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,111
+adalk | 5,110
 adaderanalk | 6,512
 tamilmirrorlk | 7,641
-virakesarilk | 8,865
+virakesarilk | 8,858
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,574 (100.0%) of 54,585 articles have been extended.
+54,569 (100.0%) of 54,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
 
-### Sri Lanka bond market unworried on election, waiting for IMF deal
-
-*2024-11-13 17:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-bond-market-unworried-on-election-waiting-for-imf-deal-187297/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s bond market is betting on a comfortable majority for President Anura Dissanayake’s party in the general elections, but investors would be keenly watching the outcome of the talks with the International Monetary Fund, market participants said.
-
-“Investors are confident that the NPP will get a simple majority, so there is no worry of a stable government,” a dealer said.
-
-“What is more critical is the IMF deal. Any bad news on that front will reverse sentiment.”
-
-Completing the external debt restructuring is also key to completing the IMF review.
-
-Following statements by President Dissanayake on completing the debt restructuring and negotiations with the IMF there were more positive expectations, another market participant said.
-
-On the rupee, market participants are waiting for any impact on opening of vehicle imports next year.
-
-...
-
-[Data](articles/37b30537.json)
-
----
-
-### Sri Lanka rupee closes stronger at 292.20/30 to dollar, bonds down
-
-*2024-11-13 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-20-30-to-dollar-bonds-down-187301/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.20/30 to the US dollar on Wednesday from 292.45/55 to the US dollar on Tuesday dealers said, while bond yields were down.
-
-A bond maturing on 15.12.2026 closed down at 10.25/38 percent, from 10.40/55 percent.
-
-A bond maturing on 15.12.2027 closed at 10.90/11.05 percent, down from 11.10/25 percent.
-
-A bond maturing on 15.03.2028 closed at 11.15/35 percent, down from 11.30/40 percent.
-
-A bond maturing on 15.09.2029 closed at 11.55/70 percent, down from 11.65/80. (Colombo/Nov13/2024)
-
-◼️
-
-[Data](articles/273c1fe2.json)
-
----
-
-### The first meeting of the ICTA Board of Directors today
-
-*2024-11-13 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198606) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-New ICTA Board meets, led by Hans Vijayasuriya. Members include Sanjaya Karunasena, Harsha Prasinghe, Chandima Kure, Bandula Ranatunga, Jeffrey Sulbar, Samisa Abeysinghe, Shanuka Rebel. Board aims to strengthen Sri Lanka's digital economy and implement ICT initiatives.
-
-🟩
-
-Meeting of the newly appointed Information Technology Agency (ICTA) Board of Directors (13) will be held in the afternoon.
-
-Hans Vijayasuzha, the executive presidency of the Digital Economics, is the head of the Digital Economics by President Anuragumara Dissanayake, who will expedite economic development, national competitiveness and all citizens who can benefit all citizens, and to strengthen the digital economy of Sri Lanka in parallel to the developed countries.
-
-Sanjaya Karunasena, Harsha Prasinghe, Chandima Kure, Bandula Ranatunga, Jeffrey Sulbar, Samisa Abeysinghe and Shanuka Rebel are members of the ITA Agency (ICTA) Board of Directors (ICTA).
-
-...
-
-[Data](articles/20b1eacc.json)
-
-[Extended Data](ext_articles/20b1eacc.ext.json)
-
----
-
-### US Embassy Colombo rescinds travel restrictions for Arugam Bay
-
-*2024-11-13 16:34:00* · [`economynextcom`](https://economynext.com/us-embassy-colombo-rescinds-travel-restrictions-for-arugam-bay-187309/) · `en`
-
-ECONOMYNEXT – The US Embassy in Colombo Sri Lanka has lifted travel restrictions issued on October 23, for Arugam Bay, telling US citizens to “Trust your gut”.
-
-“The US Embassy in Colombo encourages all US citizens to review the Travel Advisory for Sri Lanka, maintain vigilance, be aware of your surroundings and report suspicious activity and emergencies to local authorities (119),” the Embassy said on Wednesday.
-
-– Report all suspicious activity and emergencies to local authorities (119).
-
-– Always maintain vigilance and be aware of your surroundings. Trust your gut, if a situation doesn’t feel right, get out of it.
-
-– Always have some form of communication on you (i.e. cell phone).
-
-On October 23, the embassy asked nationals to avoid Arugam Bay in Sri Lanka’s Eastern Coast, a popular tourist destination, saying there was credible information of an attack.
-
-...
-
-[Data](articles/cf021fb3.json)
-
----
-
 ### ​  பயணக்கட்டுபாடுகளை நீக்கியது அமெரிக்கா
 
 *2024-11-13 16:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்கட்டுபாடுகளை-நீக்கியது-அமெரிக்கா/175-347063) · `ta`
 
-US Embassy lifts travel restrictions on Arugambe, Sri Lanka. Encourages Americans to exercise caution, report suspicious activities.
+இலங்கையில் உள்ள அமெரிக்கத் தூதரகம்  அறுகம்பேவுக்கான  பயணக் கட்டுப்பாடுகளை ஒக்டோபர் 23ஆம் திகதி நீக்கியுள்ளது.
 
-🟩
+"அறுகம்பேவுக்கு 2024 ஒக்டோபர் 23 ஆம் திகதி வெளியிடப்பட்ட பயணக் கட்டுப்பாடுகளை கொழும்பு அமெரிக்கத் தூதரகம் நீக்கியுள்ளது.
 
-The US Embassy in Sri Lanka has removed travel restrictions on Arughambe on October 23.
+கொழும்பில் உள்ள அமெரிக்கத் தூதரகம் அனைத்து அமெரிக்க குடிமக்களையும் இலங்கைக்கான பயண ஆலோசனையை மதிப்பாய்வு செய்யவும், விழிப்புடன் இருக்கவும், உங்கள் சுற்றுப்புறங்கள் குறித்து விழிப்புடன் இருக்கவும், சந்தேகத்திற்கிடமான செயல்பாடுகளைப் புகாரளிக்கவும் ஊக்குவிக்கிறது. உள்ளூர் அதிகாரிகளுக்கு அவசரநிலைகள் (119)," தூதரகம் ஒரு அறிக்கையில் தெரிவித்துள்ளது.
 
-“The US Embassy in Colombo has lifted the travel restrictions on October 23, 2024 to Arughambe.
-
-கொழும்பில் உள்ள அமெரிக்கத் தூதரகம் அனைத்து அமெரிக்க குடிமக்களையும் இலங்கைக்கான பயண ஆலோசனையை மதிப்பாய்வு செய்யவும், விழிப்புடன் இருக்கவும், உங்கள் சுற்றுப்புறங்கள் குறித்து விழிப்புடன் இருக்கவும், சந்தேகத்திற்கிடமான செயல்பாடுகளைப் புகாரளிக்கவும் ஊக்குவிக்கிறது. Emergency (119) for local authorities, “The embassy said in a statement.
-
-The US Justice Department has been advised last week after the US Justice Department has accused an Iranian citizen of a conspiracy to assassinate US presidential candidate Donald Trump, who was involved in the attack on Israeli tourists in Sri Lanka.
+இலங்கையில் இஸ்ரேலிய சுற்றுலாப் பயணிகளை குறிவைத்து தாக்குதல் நடத்தும் பணியில் ஈடுபட்டிருந்த அமெரிக்க ஜனாதிபதி வேட்பாளர் டொனால்ட் ட்ரம்ப் படுகொலை செய்ய சதித் திட்டம் தீட்டியதாக ஈரானிய பிரஜை ஒருவருக்கு எதிராக அமெரிக்க நீதித்துறை குற்றஞ்சாட்டியதைத் தொடர்ந்து கடந்த வாரம் பயண ஆலோசனை வழங்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
 
 ◼️
 
 [Data](articles/7e74ab71.json)
-
-[Extended Data](ext_articles/7e74ab71.ext.json)
-
----
-
-### ආරුගම්ගේ ප්‍රදේශය ගැන අමෙරිකාව නිකුත් කළ සංචාරක සීමා නිවේදනය ඉවත් කර ගනී
-
-*2024-11-13 16:19:32* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්ගේ-ප්‍රදේශය-ගැන-අමෙරිකාව-නිකුත්-කළ-සංචාරක-සීමා-නිවේදනය-ඉවත්-කර-ගනී/11-413016) · `si`
-
-ආරුගම්බේ ප්‍රදේශය ආශ්‍රිතව අමෙරිකානු තානාපති කාර්යාලය අමෙරිකානු සංචාරකයන් සහ මෙරට වෙසෙන අමෙරිකානු නිලධාරීන්ට නිකුත් කළ සංචාරක සීමා නිවේදනය ඉවත් කර තිබේ.
-
-අමෙරිකානු තානාපති කාර්යාලය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කළේය.
-
-◼️
-
-[Data](articles/9dccc217.json)
-
----
-
-### Action Change in Colombo Stock Exchange: Front in Asia
-
-*2024-11-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198602) · `ta`
-
-Colombo Stock Exchange (CSE) performance summary:
-
-
-
-• Ranked 2nd in Bloomberg's Asia list as of Oct 25
-
-• 29.65% growth in USD value
-
-• Daily avg sales: Rs.3.058 billion
-
-• All-share index: 12,517.58
-
-• S&P SL20 index: 3,759.30 points
-
-
-
-Attractive for investors, offering strong growth potential.
-
-🟩
-
-As of October 25, the Colombo Stock Exchange (CSE) is the second highest performance in the Bloomberg bent, with the growth of the 29.65 percent of the US $ 29.65 percent of the US dollars in Asia.
-
-This excellent effectiveness underlines the erection of the capital market in Sri Lanka and the positiveness of its growth for domestic and international investors.
-
-The daily average sale of the week ended on October 25, 2024 is Rs.3.058 billion. Moreover, the CSE has crossed Rs.
-
-In the same week, the all -billion was completed at 12,517.58, and the best record was made by the only point for the record for the highest sales registration for the year.. At the same time, the S&P SL20 index representing the top 20 large and higher liquid shares recorded strong gains and ended at 3,759.30 points.
-
-This makes CSE an attractive choice for investors and retains positive speed and leads to advanced investment opportunities.
-
-◼️
-
-[Data](articles/cebc49e2.json)
-
-[Extended Data](ext_articles/cebc49e2.ext.json)
 
 ---
 
@@ -225,54 +73,6 @@ Therefore, the Commission has warned that those who ignore these guidelines will
 [Data](articles/1f531627.json)
 
 [Extended Data](ext_articles/1f531627.ext.json)
-
----
-
-### Indonesia - Volcano in Bali;Airline Services cancer
-
-*2024-11-13 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198596) · `ta`
-
-Volcanic ash cancels flights in Bali, Indonesia. Nine killed in nearby eruption. 80 flights cancelled affecting Singapore, Hong Kong, Australia. 130 active volcanoes in Indonesia, part of Pacific Ring of Fire.
-
-🟩
-
-Many international airlines canceled airlines on Indonesia's Bali Tourism Island on Wednesday as the volcanic ash is 10 km (32,808 feet).
-
-Jetstar and Quantas airlines have reported that Bali's airline has been suspended for security reasons due to the surrounding volcano in the sky.
-
-Meanwhile, AirAsia and Virgin have also canceled airlines, according to the flight surveillance website Flyitradar 24.
-
-Bali is part of Indonesia's best tourism and is a place where Australian tourists are attracted.
-
-Nine people were killed when the Levotopi Lucky-Lucky volcano in the Eastern Nusa Tengara province, about 800 km (497 miles) from Bali, was caught in the first time.
-
-Due to this, 80 flights for several countries including Singapore, Hong Kong and Australia have been canceled from the 4th to the 12th of this month, the general manager of the Ngura Rai Airport said.
-
-...
-
-[Data](articles/6562cd73.json)
-
-[Extended Data](ext_articles/6562cd73.ext.json)
-
----
-
-### Sri Lanka sells Rs147.5bn in treasury bills, yields drop across maturities
-
-*2024-11-13 15:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs147-5bn-in-treasury-bills-yields-drop-across-maturities-187238/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across  maturities at Wednesday’s auction, with all offered 147.5 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield was down 2 basis points at 9.35 percent, with all offered 62.5 billion rupees of bills sold.
-
-The 6-month yield was down 6 basis points at 9.70 percent, with all offered 65 billion rupees of bills sold.
-
-The 12-month bills was down 7 basis points at 9.95 percent, with all offered and 20 billion rupees of bills sold.
-
-The bills are available on tap after the auction. (Colombo/Nov13/2024)
-
-◼️
-
-[Data](articles/36a7d590.json)
 
 ---
 
@@ -324,82 +124,6 @@ The petition was called to date the petition in the face of a judicial body.
 
 ---
 
-### Sri Lankan elections: Tamils ​​are old and new
-
-*2024-11-13 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198589) · `ta`
-
-N
-
-🟩
-
-The first time a president was elected outside the political elite of Sri Lanka is called Sri Lanka's “political earthquake”. The choice of Anura Kumara Dissanayake has been an obvious regret and challenge to the ruling elite, but it is a pledge to maintain some embedded and structural issues of the Government of Sri Lanka.
-
-However, the Voting of the North and East expresses the suspicion of the Tamil people on Dissanayake's party. This is because they have voted for Samaki Jan. Balavegaya's Sajith Premadasa and the candidate of the civil society, Ariyanethran Pakiyaselvam.
-
-The two candidates were supported by the political elite in the Tamil politics of the Sri Lanka Tamil National Alliance, the Democratic Tamil National Alliance and the Tamil People's Alliance.. This was supported among the bitter infrastructure among the former coalition partners. The Muslims there were largely supported Premadasa.
-
-...
-
-[Data](articles/14da6930.json)
-
-[Extended Data](ext_articles/14da6930.ext.json)
-
----
-
-### தேர்தல்கள் சட்டத்துக்கும் பொதுச் சட்டத்துக்கும் அமைய பொதுமக்கள் பொறுப்புடன் செயற்பட வேண்டும் - பொலிஸ் ஊடகப் பேச்சாளர்
-
-*2024-11-13 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198584) · `ta`
-
-நாடளாவிய ரீதியில் 1,3421 வாக்களிப்பு மத்திய நிலையங்களின் பாதுகாப்பு உறுதிப்படுத்தப்பட்டுள்ளது. தேர்தல்கள் சட்டத்துக்கும், பொதுச் சட்டத்துக்கும் அமைய பொதுமக்கள் பொறுப்புடன் செயற்பட வேண்டும். சட்டம் மற்றும் ஒழுங்கை பாதுகாப்பதற்கு பொலிஸ் உட்பட முப்படையினர் பாதுகாப்பு கடமைகளில் ஈடுபட்டுள்ளனர்.
-
-வாக்களித்தன் பின்னர் வீடுகளுக்கு செல்லுங்கள், பொது இடங்களில் ஒன்று சட்டம் மற்றும் ஒழுங்குக்கு பாதிப்பு ஏற்படும் வகையில் செயற்படுவதை இயலுமான வகையில் தவிர்த்துக் கொள்ளுங்கள். அமைதியான முறையில் தேர்தலை நடத்துவதற்கும், அதனைத் தொடர்ந்து சட்டம் மற்றும் ஒழுங்கை பாதுகாப்பதற்கும் கடுமையான நடவடிக்கைகள் எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு அமைச்சு நாட்டு மக்களுக்கு அறிவுறுத்தியுள்ளது.
-
-தேர்தல் பணிகள் மற்றும் பாதுகாப்பு விடயங்கள் குறித்து பொலிஸ் ஊடகப்பேச்சாளர் பதில் பொலிஸ்மா அதிபரும், சட்டத்தரணியுமான நிஹால் தல்துவ குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/01443fd1.json)
-
----
-
-### EXPLAINER: Possible policy impacts on Sri Lanka’s banking sector after parliament polls
-
-*2024-11-13 15:08:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-impacts-on-sri-lankas-banking-sector-after-parliament-polls-187241/) · `en`
-
-ECONOMYNEXT – Under Sri Lanka’s President Anura Dissanayake and his Marxist-leaning National People’s Power (NPP) government, Sri Lanka’s banking sector is likely to experience significant changes and challenges as it navigates policy shifts focused on economic redistribution, social reforms, and restructuring. Here are five potential impacts on the banking sector after the parliament polls, in which NPP is believed to have an edge:
-
-The NPP has historically advocated for stronger state control over strategic economic sectors, including banking. Under Dissanayake, the sector may face increased regulation and scrutiny aimed at reducing perceived corruption, addressing financial mismanagement, and protecting consumer interests. This could lead to a more restrictive operational environment for banks, with potential impacts on profitability and compliance costs. ​
-
-...
-
-[Data](articles/fc85f4cc.json)
-
----
-
-### Sri Lanka’s stock market bullish ahead of general election
-
-*2024-11-13 14:31:00* · [`economynextcom`](https://economynext.com/sri-lankas-stock-market-bullish-ahead-of-general-election-187094/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange has been bullish ahead of Sri Lanka’s general election on Thursday, market participants said.
-
-The island nation is set to vote to elect 225 representatives to its legislature, after electing a president last month.
-
-“With one election over, the market is expecting the same sentiment to continue. There is a reduction in political uncertainty,” market participants said on Wednesday.
-
-Ahead of the presidential election in September, activity levels were low due to the then prevailing political uncertainty.
-
-This time around the ASPI has closed in green most days, and on Tuesday the All Share Price Price Index crossed the 13,000 mark briefly before closing at 12,988. On Wednesday, a day before the election, it closed up at 13,134. This was an increase of 1.12 percent, or 145.54 points.
-
-The more liquid S&P SL20 was up 1.40 percent, or 54.56 points at 3,941.
-
-“There is clear expectation that there won’t be any political uncertainty.”
-
-...
-
-[Data](articles/0540881f.json)
-
----
-
 ### Sri Lanka to benefit the coin
 
 *2024-11-13 14:02:59* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413014) · `si`
@@ -424,26 +148,6 @@ Sri Lanka captain Charith won the toss and elected to bat first, he decided to b
 
 ---
 
-### ஏர்ஷோ சைனா ஆரம்பம்: அமெரிக்காவும் பங்கேற்பு
-
-*2024-11-13 13:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198583) · `ta`
-
-ஏர்ஷோ சைனா அல்லது ஜுஹாய் ஏர்ஷோ 2024 என்றும் அழைக்கப்படும் 15ஆவது சீன சர்வதேச விமான மற்றும் விண்வெளி கண்காட்சி, தெற்கு சீனாவின் குவாங்டாங் மாகாணத்தில் உள்ள ஜுஹாய் நகரில் இன்று ஆரம்பமாகியுள்ளது.
-
-சீன மக்கள் விடுதலை இராணுவ விமானப்படையின் தளபதி ஜெனரல் சாங் டிங்கியூ ஆரம்ப விழாவில் உரையை நிகழ்த்தினார்.தகவல் தொடர்புத் தளத்தை திறந்ததாகக் முன்னேற வேண்டியதன் அவசியத்தை அவர் வலியுறுத்தினார்.
-
-தொடக்க விழாவில் பல்வேறு நாடுகளின் விமானப் படையைச் சேர்ந்த ராணுவ அதிகாரிகள் பங்கேற்று விமானச் செயற்பாட்டைப் பார்வையிட்டனர்.
-
-கண்கவர் விண்வெளி நிகழ்ச்சிகள் மற்றும் உலகளாவிய பார்வையாளர்களுக்காக சமீபத்திய மேம்பட்ட இராணுவ உபகரணங்களை காட்சிப்படுத்தும் இந்த விமான நிகழ்ச்சி நவம்பர் 12 முதல் 17 வரை நடைபெறவுள்ளது.
-
-ரஷ்யா, பிரான்ஸ், அமெரிக்கா, சவுதி அரேபியா மற்றும் இத்தாலி உள்ளிட்ட 47 நாடுகளில் இருந்து மொத்தம் 1,022 கண்காட்சியாளர்கள் இந்த விமானக் கண்காட்சியில் பங்கேற்கவுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/65daf2fd.json)
-
----
-
 ### Sri Lanka sees less election complaints than in previous years
 
 *2024-11-13 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-less-election-complaints-than-in-previous-years-187148/) · `en`
@@ -463,24 +167,6 @@ Historically, Sri Lanka has seen violent incidents sometimes leading to deaths, 
 [Data](articles/28d4cd31.json)
 
 [Extended Data](ext_articles/28d4cd31.ext.json)
-
----
-
-### காற்றின் தரம் குறைவு : டெல்லியில் விமான சேவை பாதிப்பு
-
-*2024-11-13 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198585) · `ta`
-
-இந்திய தலைநகர் டெல்லியில் குளிர்காலம் தொடங்கியது முதலே காற்று மாசு அதிகரித்து காணப்படுவதாக தெரிவிக்கப்படுகிறது.
-
-இந்நிலையில், டெல்லியில் கடந்த சில நாட்களாக காற்று மாசு அதிகரித்துள்ளது. இந்திய மத்திய மாசுக்கட்டுப்பாட்டு வாரியத்தின் தரவுகளின்படி, கடந்த 24 மணி நேரத்தில் டெல்லியில் காற்று தரக் குறியீடு (AQI) 366 ஆக பதிவாகியுள்ளது. காற்றின் தரம் 'மிகவும் மோசமான' பிரிவில் இருந்ததால், பல்வேறு பகுதியில் இன்று புதன்கிழமை (13)  காலை அடர்ந்த மூடுபனி நிலவியுள்ளது.
-
-இந்நிலையில், டெல்லி இந்திரா காந்தி சர்வதேச விமான நிலையத்தில் காலை 8.30 மணிக்கு விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்ததால், ஒரு சில விமானங்கள் தரையிறங்காமல் திருப்பி விடப்பட்டன. இதனால் டெல்லியில் விமான சேவை பாதிக்கப்பட்டுள்ளது.
-
-அதேபோல, ஆனந்த் விஹார் மற்றும் ஆயா நகர் ஆகிய 2 கண்காணிப்பு நிலையங்களில் காற்றின் தரம் கடுமையான பிரிவில் பதிவானதாக இந்திய மத்திய மாசு கட்டுப்பாட்டு வாரியம் தெரிவித்துள்ளது.
-
-◼️
-
-[Data](articles/b89d1c50.json)
 
 ---
 
@@ -631,24 +317,6 @@ The photographer said that during the ongoing inquiries, the former Director Gen
 [Data](articles/444af323.json)
 
 [Extended Data](ext_articles/444af323.ext.json)
-
----
-
-### Sujeewa Rajapakse leaves Sri Lanka’s Dipped Products board
-
-*2024-11-13 12:01:00* · [`economynextcom`](https://economynext.com/sujeewa-rajapakse-leaves-sri-lankas-dipped-products-board-187088/) · `en`
-
-ECONOMYNEXT- Sujeewa Rajapakse, who is also the chairman of the state-owned People’s Bank, will resign from the board of Dipped Products Plc, a subsidiary of Hayley’s Plc, the company said in a stock exchange filing.
-
-Rajapakse has served on the board for nine years and will step down from the positions of chairman of the audit committee and independent non-executive director from November 12 and 30 respectively.
-
-Pathiranage Yohan Srineth Perera, an independent non-executive Director will replace Rajapakse as the chairman of the audit committee, the company said.
-
-Perera is a chartered accountant by profession and a former partner of KPMG.
-
-◼️
-
-[Data](articles/31640e01.json)
 
 ---
 
@@ -2287,5 +1955,401 @@ Foreign media reports that the driver of the accident is currently in a coma and
 [Data](articles/3a194dfa.json)
 
 [Extended Data](ext_articles/3a194dfa.ext.json)
+
+---
+
+### President summoned parliament on 21st
+
+*2024-11-12 19:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203185) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"President summons parliament Nov 21, 2024: Gazette notification issued."
+
+🟩
+
+According to the November 21st, 2024, was issued a gazette notification to the President.
+
+◼️
+
+[Data](articles/2098d444.json)
+
+[Extended Data](ext_articles/2098d444.ext.json)
+
+---
+
+### The first session of the Tenth Parliament: The Presidential Published by the President
+
+*2024-11-12 19:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198542) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+First session of 10th Parliament: Thursday, Nov 21, 10 AM. General election for MPs on Nov 14.
+
+🟩
+
+The first session of MPs, elected by the votes of the people of the tenth parliamentary session, will be held on Thursday, November 21 at 10 am.
+
+It is noteworthy that the general election to elect MPs for the tenth parliament will be held on the 14th.
+
+◼️
+
+[Data](articles/a1948b80.json)
+
+[Extended Data](ext_articles/a1948b80.ext.json)
+
+---
+
+### The Election Commission Special Report
+
+*2024-11-12 19:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-ஆணைக்குழு-விசேட-அறிக்கை/175-347018) · `ta`
+
+Here's a summary of the Election Commission Special Report in approximately 200 characters:
+
+
+
+Election Commission issues report on voting holidays for public/private sector employees. Remble
+
+🟩
+
+The Election Commission has issued a special report on the holidays for voting for public and private sector employees. Remble
+
+◼️
+
+[Data](articles/5c589ad0.json)
+
+[Extended Data](ext_articles/5c589ad0.ext.json)
+
+---
+
+### Sri Lankan team consultant instructor;Neil McKenzie of South Africa
+
+*2024-11-12 18:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198541) · `ta`
+
+Sri Lankan cricket team appoints Neil McKenzie as consultant coach. Former South African cricketer will advise players on adapting to South African conditions and pitch characteristics.
+
+🟩
+
+இலங்கை கிரிக்கெட் அணியின் ஆலோசக பயிற்றுநராக தென் ஆபிரிக்காவின் முன்னாள் துடுப்பாட்ட வீரர் நீல் மெக்கென்ஸி நியமிக்கப்பட்டுள்ளார்.
+
+மிகக் குறுகிய காலத்திற்கு ஆலோசகப் பயற்றுநராக ஸ்ரீலங்கா கிரிக்கெட் நிறுவனத்தினால் நியமிக்கப்பட்டுள்ள   நீல் மெக்கென்ஸி, தென் ஆபிரிக்கா சென்றுள்ள இலங்கையின் ஒரு தொகுதி டெஸ்ட் கிரிக்கெட் வீரர்களுக்கு ஆலோசனைகளையும் பயிற்சிகளையும் வழங்கவுள்ளார்.
+
+தென் ஆபிரிக்காவில் டெஸ்ட் தொடருக்கு முன்பதாக பயிற்சிப் போட்டிகள் நடைபெறாததால் பத்து வீரர்களைக் கொண்ட முதல் தொகுதி டெஸ்ட் வீரர்கள் முன்னாயத்த பயிற்சிகளில் ஈடுபடவுள்ளனர்.
+
+The Sri Lankan players will receive the most important advice from Neil McCensi to accustomed to the inherent characteristics of the South African conditions and the nature of the pitch.
+
+மூவகை சர்வதேச கிரிக்கெட் போட்டிகளில்  தென் ஆபிரிக்காவுக்காக   விளையாடி 4948 ஓட்டங்களை மொத்தமாக பெற்றுள்ள நீல் மெக்கென்ஸி, இன்று முதல் எதிர்வரும் 21ஆம் திகதிவரை இலங்கை வீரர்களுடன் இணைந்து செயற்படுவார்.
+
+...
+
+[Data](articles/db8f0a9a.json)
+
+[Extended Data](ext_articles/db8f0a9a.ext.json)
+
+---
+
+### The polls vote in the polling fair if a disruptive act
+
+*2024-11-12 18:32:59* · [`adalk`](https://www.ada.lk/breaking_news/කඩාකප්පල්කාරී-ක්‍රියාවක්-සිදු-වුවහොත්-එම-ඡන්ද-පොළේ-ඡන්දය-ශුන්‍යයි/11-413007) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Polls open despite disruption. Election commission reports zero turnout due to unrest. Security forces deployed to maintain order. Armed forces on standby for emergencies. Officials must report for duty or cancel appointments. Postal votes counted at 2 PM. Voters can cast ballots without official notice. Stay-at-home orders enforced near polling stations. Balloon lighting gatherings prohibited; security forces may disperse or arrest violators.
+
+🟩
+
+The Elections Commission states that the voter turnout is to zero after a disruption in the polling station on a day of election.
+
+It pointed out that the security forces have been instructed to implement the law and that the police and the STF have been deployed to protect peace.
+
+The Armed Forces are ready to call on any emergency and remain in the home after the election, and staying at home.
+
+All officials who have received appointments for election duties are required to report or cancel the appointment letters.
+
+If the appointment letters have been received, the appointment letters will be received, the election posts will be obtained from the post office, if the election office has not yet received the official voter papers.It also pointed out.
+
+It is said that the official ballot notification is not a compulsory requirement for voting and it can be voted with a ballot and to get a ballot.
+
+...
+
+[Data](articles/a1f4148c.json)
+
+[Extended Data](ext_articles/a1f4148c.ext.json)
+
+---
+
+### Massage affair: Bail for female candidate
+
+*2024-11-12 18:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-விவகாரம்-பெண்-வேட்பாளருக்கு-பிணை/175-347017) · `ta`
+
+Colombo Magistrate's Court identifies 4 suspects in 1.015m robbery case. Female candidate and husband released on bail. Other suspects remanded for interrogation. Police investigating further.
+
+🟩
+
+Four suspects identified at the Colombo Magistrate's Court on Tuesday (12) in connection with the robbery of 10 lakhs 15 thousand rupees on the Internet.
+
+The identification action was held in the presence of Colombo Additional Magistrate Basan Amarasena and ordered the four suspects to be remanded until the 18th.
+
+The Colombo district female candidate and her husband were ordered to be released on a physical bail of the alleged People's Struggle, which allegedly supported the incident.
+
+The man who was released on bail is the Colombo district contesting female candidate and her husband, Atul Mudige Saminda Puspakumara.
+
+The four suspects - Sudaraka Devapriya, Mohamed Sathib Yusuf, Rajapaksa's Ashan Hazaranga and Timuthu Eranga - were ordered to be interrogated.
+
+The magistrate has issued the order by the Bambalapitiya police, following a complaint lodged by a doctor at the Kurunegala Teaching Hospital.
+
+...
+
+[Data](articles/626f0eb9.json)
+
+[Extended Data](ext_articles/626f0eb9.ext.json)
+
+---
+
+### Egg Rs. Will pass at 65 to 6
+
+*2024-11-12 18:27:37* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරේ-රු--60ට-65ට-යාවි/11-413006) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rice shortage affects egg production. Due to high rice costs, egg prices may exceed Rs. 60/kg. Rice mill owners blame rising prices on increased demand for animal feed and ethanol production.
+
+🟩
+
+Due to rice mill owners, rice police prices and limecurred prices in three times the prices of the entire Lanka Egg Manufacturers Association Chairman Sarath Ratnayake said.
+
+He said that he was speaking to the media by making a special statement today (11), Mr. Ratnayake said,
+
+"As we use 20 percent of the lives of animal food, rice using 30 percent of rice. Also, now, rice police and lime demand has increased to animal feed, rather than customers who consume rice. Also, rice increasingly demands the production of ethanol production. Rice prices are rising due to many reasons.
+
+Simultaneously the broken rice, shells herself rise to about three times. As a result, a kilo of food produced at Rs. 150 has come nearly around Rs. There was a daily product in a country that was self-sufficient in the eggs. About Rs.
+
+...
+
+[Data](articles/c0e3cf23.json)
+
+[Extended Data](ext_articles/c0e3cf23.ext.json)
+
+---
+
+### Political Party Questions in Questionnaire; Ministry Inquiry
+
+*2024-11-12 18:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளில்-அரசியல்-கட்சி-சார்-வினாக்கள்-அமைச்சு-விசாரணை/175-347016) · `ta`
+
+Ministry of Education inquiry into Kalutara school questionnaire controversy involving political questions about National People's Power Party and presidential election.
+
+🟩
+
+The Ministry of Education has announced that the Ministry of Education will be conducting a ministry level inquiry into the second term of a school in Kalutara.
+
+The Ministry of Education has issued a statement that the Secretary to the Ministry Tilaka Jayasundera has issued a directive to the relevant authorities.
+
+Accordingly, the second installment of the high -quality students of the CWW Gunnangara Central College in the Kalutara District is to be investigated on the inclusion of political questions.
+
+The Secretary of the Ministry of Education pointed out that the questionnaire was set up by the school officials and that it was not attached to the Ministry or any other institutional level.
+
+He added that appropriate action will be taken after a proper inquiry at the ministry level.
+
+It is noteworthy that the questionnaire includes many questions about the National People's Power Political Party, President Anura Kumara Dissanayake and the last presidential election.
+
+◼️
+
+[Data](articles/14ed7115.json)
+
+[Extended Data](ext_articles/14ed7115.ext.json)
+
+---
+
+### Political Party Questions in Questionnaire
+
+*2024-11-12 18:21:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாளில்-அரசியல்-கட்சி-வினாக்கள்/175-347016) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Education Ministry probes Kalutara school over political questionnaire. Inquiry focuses on questions about National People's Power Party and last presidential election. School officials deny Ministry involvement. Investigation ongoing.
+
+🟩
+
+The Ministry of Education has announced that the Ministry of Education will be conducting a ministry level inquiry into the second term of a school in Kalutara.
+
+The Ministry of Education has issued a statement that the Secretary to the Ministry Tilaka Jayasundera has issued a directive to the relevant authorities.
+
+Accordingly, the second installment of the high -quality students of the CWW Gunnangara Central College in the Kalutara District is to be investigated on the inclusion of political questions.
+
+The Secretary of the Ministry of Education pointed out that the questionnaire was set up by the school officials and that it was not connected to the Ministry or any other institutional level.
+
+He added that appropriate action will be taken after a proper investigation at the ministry level.
+
+It is noteworthy that the questionnaire includes many questions about the National People's Power Political Party, President Anura Kumara Dissanayake and the last presidential election.
+
+◼️
+
+[Data](articles/a42bee71.json)
+
+[Extended Data](ext_articles/a42bee71.ext.json)
+
+---
+
+### 497 Indian fishermen arrested this year
+
+*2024-11-12 18:13:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ඉන්දීය-ධීවරයින්-497ක්-අල්ලයි/11-413005) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Indian fishermen arrests: 496 vessels, 497 fishermen detained by Sri Lankan Navy this year. Recent arrest of 12 fishermen highlights ongoing efforts to combat illegal fishing activities.
+
+🟩
+
+Shipping sixty-six Indian fishing vessels and four hundred and ninety-six Indian fishermen have been arrested in the Navy's operations in the Navy this year.
+
+The Navy has arrested twelve Indian fishermen with Indian fishing vessel from the Sri Lanka Navy yesterday.
+
+Navy Headquarters said that the Navy has continued to suppress the illegal fishing of the local fishing community in foreign fishing vessels.
+
+◼️
+
+[Data](articles/8eb7b9b2.json)
+
+[Extended Data](ext_articles/8eb7b9b2.ext.json)
+
+---
+
+### Request of Minister Vijitha America Embassy
+
+*2024-11-12 18:09:14* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-ඇමෙරිකානු-තානාපති-කාර්යාලයෙන්-කළ-ඉල්ලීම/11-413004) · `si`
+
+Sri Lanka requests US Embassy remove tourist counselor due to security concerns. Defense Secretary visits area, strengthens security measures. US warns citizens to avoid Arugambay. Government investigates threats, arrests suspects.
+
+🟩
+
+The Foreign Ministry has requested the United States Embassy to remove the tourist counsel for the US embassy until he was notified in the area.. The Defense Secretary Thusicontha was also visiting the area of ​​Thusicontha in the face of this situation, and he said the security area has been strengthened.
+
+The request was made by External Affairs Minister Vijitha Herath. On October 23, the US Embassy issued a warning announcement that the US Embassy was attacked targeting Sri Lanka, including Arugambay area. The US citizens of Sri Lanka have been asked to avoid traveling in Arumbe until again.
+
+After the announcement, several other countries asked to preclude to the citizens of the region.
+
+In the face of the situation, the government had taken steps to strengthen the security of the area and the intelligence had been used to constantly investigate its security activities.. Accordingly, several persons have already been arrested. Further investigations are conducting further investigations.
+
+◼️
+
+[Data](articles/fe032c9a.json)
+
+[Extended Data](ext_articles/fe032c9a.ext.json)
+
+---
+
+### மத்துகம சி.டபிள்யூ.டபிள்யூ. Kannangara Central Maha Vidyalaya: Proper inquiry into the General Knowledge Examination Questionnaire - Ministry of Education
+
+*2024-11-12 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198538) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Education Ministry investigates exam questions controversy at Kalutara school. Proper inquiry to be conducted before taking action.
+
+🟩
+
+Kalutara District CWW. கண்ணங்கர மத்திய மகா வித்தியாலயத்தில் இரண்டாம் தவணை பரீட்சையில் உயர்தர மாணவர்களுக்கு வழங்கப்பட்ட பொது அறிவு பரீட்சை வினாத்தாள் தொடர்பில் அமைச்சு மட்டத்தில் முன்னெடுக்கப்படும் முறையான விசாரணைகளின் பின்னர்; உரிய நடவடிக்கைகள் எடுக்கப்படும் எனக் கல்வி அமைச்சு அறிவித்துள்ளது.
+
+Kalutara District CWW. கண்ணங்கர மத்திய மகா வித்தியாலயத்தில் இரண்டாம் தவணை பரீட்சையில் உயர்தர மாணவர்களுக்கு வழங்கப்பட்ட பொது அறிவு பரீட்சை வினாத்தாளில் அரசியல் கட்சி  தொடர்பில் கேள்விகள் கேட்கப்பட்டுள்ளதாக முன்வைக்கப்படும் விடயம் குறித்து உடன் விசாரணைகளை மேற்கொள்ளுமாறு கல்வி, விஞ்ஞானம், மற்றும் தொழில்நுட்ப  அமைச்சின்  செயலாளர் திலகா ஜயசுந்தர உரிய அதிகாரிகளுக்கு ஆலோசனை வழங்கியுள்ளார்.
+
+The exam question paper is prepared at the appropriate school level. Therefore, the Ministry of Education or other institutions has nothing to do with the Ministry of Education.
+
+The Ministry of Education has stated that appropriate action will be taken after a proper inquiry into the ministry level.
+
+◼️
+
+[Data](articles/651af6f1.json)
+
+[Extended Data](ext_articles/651af6f1.ext.json)
+
+---
+
+### 29 national list MPs 527 queue
+
+*2024-11-12 18:03:57* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ලැයිස්තු-මන්ත්‍රීන්-29ට-තේරෙන්න--527-ක්-පෝලිමේ/11-413003) · `si`
+
+Elections Commission publishes 527 qualified candidates for national list MP positions. 29 will be elected from these candidates based on party vote totals.
+
+🟩
+
+The Elections Commission has published 527 qualified persons who have come to the Election Commission as a national listing Men.
+
+The Elections Commission states that 27 reputable political parties and two independent groups in the election of this year's parliamentary election have been submitted with the electoral names.
+
+Accordingly, 29 persons who have been submitted by the total number of votes achieved by the total number of votes taken this year's general election will be given to national lists as parliamentarians according to the 99 constitution.
+
+◼️
+
+[Data](articles/77f8e1e6.json)
+
+[Extended Data](ext_articles/77f8e1e6.ext.json)
+
+---
+
+### Legal action will be taken on the financial fraud of politicians in the Sri Lanka Foreign Employment Bureau - Goshala Wickremasinghe
+
+*2024-11-12 18:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/198534) · `ta`
+
+Sri Lanka Foreign Employment Bureau investigates 15 corruption complaints involving politicians. Chairman Goshala Wickremasinghe vows to clean up bureau's image after political interference.
+
+🟩
+
+15 complaints have been received regarding corruption scandal in the past at the Sri Lanka Foreign Employment Bureau. Sri Lanka's Foreign Employment Bureau Chairman Goshala Wickremasinghe said that politicians have been informed of financial fraud and financial fraud.
+
+He was speaking at a special press conference held at the Sri Lanka Foreign Employment Bureau on Tuesday (12).
+
+With the intervention of politicians within the Sri Lanka Foreign Employment Bureau, I gave my personal telephone number to complain about corruption scandals. Accordingly, we have informed the Internal Audit Division for the complaints we received.
+
+Accordingly, we are going to start 15 complaints in those complaints. In the coming weeks, we will find out about the departments of those inquiries.The Internal Audit Unit has taken steps to investigate 15 complaints of corruption scandal in the Bureau.
+
+...
+
+[Data](articles/4c9ff989.json)
+
+[Extended Data](ext_articles/4c9ff989.ext.json)
+
+---
+
+### Two killed and drinking a bottle of illegal liquor
+
+*2024-11-12 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203184) · `si`
+
+Two men hospitalized after consuming illicit liquor in Pitigala. Four individuals affected, including elderly residents. Liquor production site identified.
+
+🟩
+
+Pitigala reportedly reported a number of two men who have drunk into a bottle of liquor produced in a manufacture of liquor.
+
+The Galle District DIG's office said that the two people were hospitalized in a serious condition.
+
+The incident has occurred at the residence of a resident of Mathta area in Pitigala.
+
+Four persons have been drunk with the liquor bottle at night last night and later admitted to the Elpitiya Hospital due to allergies.
+
+Dharmapala, a 60-year-old man named Harrison Wijeratne, a 76-year-old man who was a 76-year-old man in Mattala.
+
+A 64-year-old man has been transferred to the ICU of the Karapitiya Hospital and the liquor bottle is being brought.
+
+The other person is currently in critical condition of the emergency unit of the Elpitiya Hospital.
+
+◼️
+
+[Data](articles/949c5922.json)
+
+[Extended Data](ext_articles/949c5922.ext.json)
 
 ---

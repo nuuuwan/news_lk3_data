@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 15:11:40**
+As of **2024-11-13 15:25:06**
 
 ## Newspaper Stats
 
@@ -210,7 +210,7 @@ The photographer said that during the ongoing inquiries, the former Director Gen
 
 ECONOMYNEXT- Sujeewa Rajapakse, who is also the chairman of the state-owned People’s Bank, will resign from the board of Dipped Products Plc, a subsidiary of Hayley’s Plc, the company said in a stock exchange filing.
 
-Rajapakse has served on the board for nine years and will step down from the positions of independent non-executive director and chairman of the audit committee from November 30 and 12 respectively.
+Rajapakse has served on the board for nine years and will step down from the positions of chairman of the audit committee and independent non-executive director from November 12 and 30 respectively.
 
 Pathiranage Yohan Srineth Perera, an independent non-executive Director will replace Rajapakse as the chairman of the audit committee, the company said.
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 01:41:37**
+As of **2024-11-14 02:00:08**
 
 ## Newspaper Stats
 
-*Scraped **54,643** Articles*
+*Scraped **54,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,744
+dailyftlk | 3,747
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
@@ -26,11 +26,63 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,641 (100.0%) of 54,643 articles have been extended.
+54,641 (100.0%) of 54,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### Five liquor companies to face licence suspension over unpaid taxes
+
+*2024-11-14 01:45:07* · [`dailyftlk`](https://www.ft.lk/news/Five-liquor-companies-to-face-licence-suspension-over-unpaid-taxes/56-769231) · `en`
+
+The Attorney General has informed the Supreme Court that five liquor manufacturing companies, including the leading W. M. Mendis & Co., risk having their licences suspended if they fail to settle outstanding tax arrears by 30 November.
+
+The announcement was made yesterday during a hearing before a Supreme Court bench comprising Justices Prithi Padman Surasena, Yasanta Kodagoda, and Priyantha Fernando.
+
+Additional Solicitor General Nerin Pulle, representing the Commissioner General of Excise, stated that the Excise Department has issued final notices to the five companies to clear their arrears by the end of the month. If the payments are not made, the department has decided to proceed with suspending the companies’ licences.
+
+...
+
+[Data](articles/2511effc.json)
+
+---
+
+### Two defendants acquitted from murder case after 27 years
+
+*2024-11-14 01:44:36* · [`dailyftlk`](https://www.ft.lk/news/Two-defendants-acquitted-from-murder-case-after-27-years/56-769230) · `en`
+
+The North Central Province Predecessor High Court Judge and incumbent Kuliyapitiya High Court Judge Manoj Thalgodapitiya has ordered the acquittal of two defendants indicted before the Anuradhapura High Court for a murder that took place in Rajanganaya 27 years ago.
+
+The defendants, identified as Dadigamage Premasiri alias “Ukkuwa” and K. Wasantha Kumar alias “K. Wasantha,” both residents of Rajanganaya, were acquitted due to insufficient evidence presented by the prosecution.
+
+The High Court Judge ruled that the prosecution had failed to prove the allegations against the defendants beyond a reasonable doubt.
+
+The case, which dates back to 29 October 1997, was initially brought to the Anuradhapura High Court under Section 296 of the Sri Lanka Penal Code Ordinance by the Attorney General, accusing the two defendants of committing the offence within the Anuradhapura HC’s jurisdiction.
+
+◼️
+
+[Data](articles/a84c014b.json)
+
+---
+
+### Sierra Leone national arrested with Rs. 13 m worth cocaine at BIA
+
+*2024-11-14 01:44:05* · [`dailyftlk`](https://www.ft.lk/news/Sierra-Leone-national-arrested-with-Rs-13-m-worth-cocaine-at-BIA/56-769229) · `en`
+
+In a major drug trafficking bust, officers attached to the Narcotics Control Unit at the Bandaranaike International Airport yesterday arrested a 32-year old Sierra Leone national on suspension of smuggling, who had 17 capsules of swallowed  cocaine valued at Rs. 13 million.
+
+The passenger who arrived via Istanbul on Turkish Airline flight TK 730 was apprehended after attempting to pass through the airport’s green channel.
+
+Sri Lanka Customs Spokesman Seewali Arukgoda said suspicious of the individual’s behaviour the officers conducted a body scan in the Customs area, revealing that the suspect has concealed narcotics within his body. The individual was immediately transferred to Negombo Hospital, where medical personnel have since retrieved 17 pellets of cocaine.
+
+The suspect has reportedly confessed that additional pellets remain in his stomach.
+
+...
+
+[Data](articles/4c7be050.json)
+
+---
 
 ### கண்டியில் சொகுசு வாகன உரிமையாளருக்கு சிக்கல்
 
@@ -2363,71 +2415,5 @@ He also stated that they also reviewing other cases that have been discussed in 
 [Data](articles/a79dba3c.json)
 
 [Extended Data](ext_articles/a79dba3c.ext.json)
-
----
-
-### Trump names Elon Musk to role for creating greater government efficiency
-
-*2024-11-13 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103373/trump-names-elon-musk-to-role-for-creating-greater-government-efficiency) · `en`
-
-U.S. President-elect Donald Trump on Tuesday named Elon Musk to a role aimed at creating a more efficient government, handing even more influence to the world’s richest man who donated millions of dollars to helping Trump get elected.
-
-Musk and former Republican presidential candidate Vivek Ramaswamy will co-lead a newly created Department of Government Efficiency, an entity Trump indicated will operate outside the confines of government.
-
-Trump said in a statement that Musk and Ramaswamy “will pave the way for my Administration to dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies.”
-
-Trump said the new department will realize long-held Republican dreams and “provide advice and guidance from outside of government,” signaling the Musk and Ramaswamy roles would be informal, without requiring Senate approval and allowing Musk to remain the head of electric car company Tesla social media platform X and rocket company SpaceX.
-
-...
-
-[Data](articles/170996dd.json)
-
-[Extended Data](ext_articles/170996dd.ext.json)
-
----
-
-### Container transporters facing difficulties due to actions of Customs officials
-
-*2024-11-13 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103372/container-transporters-facing-difficulties-due-to-actions-of-customs-officials) · `en`
-
-The Container Transport Owners’ Association says they are in dire straits due to the arbitrary actions of the Customs officials.
-
-The Association’s chairman, Sanath Manjula, mentioned that this has caused heavy traffic congestion in roads around the Colombo Port area.
-
-Manjula explained that due to safety concerns in areas like Orugodawatta, Thotalaga, and Grandpass, these containers were being held within the port and released to facilitate container clearances. However, after a recent inspection by the minister, authorities have decided to remove the container trucks from the port and send them out, causing traffic jams, especially in areas such as Orugodawatta and Thotalaga.
-
-He further emphasized that this decision had put both the drivers and the containers at risk, as there have been threats to their safety.
-
-“The Inspector General of Police and the Director General of Customs had been informed. Accordingly, they were stopped at the port premises and sent through a system,” he added.
-
-...
-
-[Data](articles/9ae075dd.json)
-
-[Extended Data](ext_articles/9ae075dd.ext.json)
-
----
-
-### Former MPs announce to hand guns!
-
-*2024-11-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198551) · `ta`
-
-Sri Lanka: Former lawmakers must surrender weapons by Dec 30. Guns and ammo issued to ex-MPs, councilors, and officials to be returned to nearest police station. Police to verify recipients' identities and seize firearms.
-
-🟩
-
-The Ministry of Defense has announced that the guns and ammunition issued by former MPs, Provincial Councils and political party leaders, political organizations and government administrators will be handed over by December 30.
-
-In a statement issued by the Ministry of Defense, the Defense Ministry said that they should be handed over to the nearby police station within the time.
-
-It is also reported that the Sri Lankan police have a list of the names of the people who received the guns.
-
-All police officers have been instructed to investigate the names of the persons mentioned in the list and take the guns into the police custody.
-
-◼️
-
-[Data](articles/81599328.json)
-
-[Extended Data](ext_articles/81599328.ext.json)
 
 ---

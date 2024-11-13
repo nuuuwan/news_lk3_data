@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 01:10:27**
+As of **2024-11-14 00:26:41**
 
 ## Newspaper Stats
 
-*Scraped **54,641** Articles*
+*Scraped **54,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,65 +14,21 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,744
+dailyftlk | 3,743
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,651
-virakesarilk | 8,875
+tamilmirrorlk | 7,650
+virakesarilk | 8,874
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,638 (100.0%) of 54,641 articles have been extended.
+54,633 (100.0%) of 54,638 articles have been extended.
 
 ## Latest 100 Articles 
-
-### 2024-11-14 (Thursday)
-
-### Don't photograph
-
-*2024-11-14 00:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுக்கவேண்டாம்/175-347078) · `ta`
-
-Election Commission warns against photographing polling booths, marked ballots, and sharing on social media. Violators may face legal action.
-
-🟩
-
-The Election Commission has advised the public to avoid photography, photographing or uploading pictures or videos on social networks.
-
-In a statement issued by the Commission, the Commission said in a statement that the polling booths, photographing or photography of marked ballots, and sharing them on social networks would violate the election law.
-
-Therefore, the Election Commission has warned that those who ignore these guidelines will face legal consequences.
-
-◼️
-
-[Data](articles/0e04991b.json)
-
-[Extended Data](ext_articles/0e04991b.ext.json)
-
----
-
-### குசல் மெண்டிஸ், அவிஷ்க பெர்னாண்டோ அபார சதங்கள்; DLS முறையில் இலங்கை வெற்றியீட்டியது
-
-*2024-11-14 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198630) · `ta`
-
-ரங்கிரி, தம்புள்ளை சர்வதேச கிரிக்கெட் விளையாட்டரங்கில் நேற்று புதன்கிழமை (13) மழையினால் பாதிக்கப்பட்டு தொடரப்பட்ட இலங்கைக்கும் நியூஸிலாந்துக்கும் இடையிலான முதலாவது சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் டக்வேர்த் லூயிஸ் முறைமை பிரகாரம் 45 ஓட்டங்களால் இலங்கை வெற்றியீட்டியது.
-
-சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் 9 வருடங்களின் பின்னர் நியூஸிலாந்தை முதல் தடவையாக இலங்கை வெற்றிகொண்டது குறிப்பிடத்தக்க அம்சமாகும்.
-
-குசல் மெண்டிஸ், அவிஷ்க பெர்னாண்டோ ஆகிய இருவரும் மிகத் திறமையாகத் துடுப்பெடுத்தாடி பெற்ற சதங்களும் அவர்கள் பகிர்ந்த இரட்டைச் சத இணைப்பாட்டமும் இலங்கையின் வெற்றிக்கு வித்திட்டிருந்தன.
-
-அப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த இலங்கை 49.2 ஓவர்களில் 5 விக்கெட்களை இழந்து 324 ஓட்டங்களைப் பெற்றிருந்தபோது மாலை 6.35 மணியளவில் மழை பெய்ததால் ஆட்டம் தடைப்பட்டது.
-
-சுமார் இரண்டரை மணித்தியாலங்களின் பின்னர் இரவு 9.00 மணிக்கு ஆட்டம் தொடர்ந்துபோது நியூஸிலாந்துக்கு டக்வேர்த் லூயிஸ் முறைமைப் பிரகாரம் 27 ஓவர்களில் 221 ஓட்டங்கள் என்ற கடினமான வெற்றி இலக்கு நிர்ணயிக்கப்பட்டது.
-
-...
-
-[Data](articles/e1515bcc.json)
-
----
 
 ### 2024-11-13 (Wednesday)
 
@@ -87,8 +43,6 @@ The purchase and use of unauthorised 3M products could lead to a variety of seri
 ...
 
 [Data](articles/a0a79777.json)
-
-[Extended Data](ext_articles/a0a79777.ext.json)
 
 ---
 
@@ -130,8 +84,6 @@ Deflating systemic debt means reducing debt burden in the economy by design. Som
 
 [Data](articles/ca7f676a.json)
 
-[Extended Data](ext_articles/ca7f676a.ext.json)
-
 ---
 
 ### Will the 2024 General elections redefine Sri Lanka’s political future?
@@ -147,28 +99,6 @@ First, economic challenges remain a critical concern. Sri Lanka’s economic rec
 ...
 
 [Data](articles/83f01fc1.json)
-
-[Extended Data](ext_articles/83f01fc1.ext.json)
-
----
-
-### Trump’s triumph: American Revolution/counter-revolution and world order
-
-*2024-11-13 23:21:40* · [`dailyftlk`](https://www.ft.lk/columns/Trump-s-triumph-American-Revolution-counter-revolution-and-world-order/4-769213) · `en`
-
-President Trump actually thought that Kamala Harris, a feminist progressive-liberal, was a “radical-leftist, Marxist, Socialist, Communist”.
-
-The Trump administration and a Republican Senate are going to regard a JVP-NPP regime in the Indian Ocean headed by JVP leader Anura Dissanayake, pale-pink NPP frill, crony corporate décor and all, differently from the way a Democrat White House and Senate did.
-
-The multidimensional triumph of Donald Trump is an outcome I hardly applaud, but as a political scientist and former diplomat, I cannot fail to note its magnitude, even epic character, and respect the political achievement.
-
-Was it a counter-revolution or a revolution? Critics would argue the former; fans, the latter. It is like those two-dimensional pictures we had as postcards or key-tags when we were schoolkids. It all depends on which side you tilt it; which angle you view it from.
-
-...
-
-[Data](articles/34e87f95.json)
-
-[Extended Data](ext_articles/34e87f95.ext.json)
 
 ---
 
@@ -2427,5 +2357,91 @@ However, the tomato growers of the Matale district said that the tomatoes would 
 [Data](articles/b240bd5f.json)
 
 [Extended Data](ext_articles/b240bd5f.ext.json)
+
+---
+
+### Demanding
+
+*2024-11-13 09:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளடியை-மாத்திரம்-பயன்படுத்துமாறு-கோரிக்கை/175-347046) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Elections Commission Chairman RMAL Ratnayake emphasizes proper voting methods for tomorrow's general election. He states that only valid votes should be counted, using the appropriate method as required.
+
+🟩
+
+RMAL Ratnayake, Chairman of the Elections Commission, said that when voting in the general election to be held tomorrow, only the point was used.
+
+However, the point should be used only when voting and voting votes in the general election to be held tomorrow.
+
+The Chairman of the Elections Commission, RMAL, demands that voters should be converted into a valid vote that follows the appropriate method.. Ratnayake said. Remble
+
+◼️
+
+[Data](articles/7ba3648d.json)
+
+[Extended Data](ext_articles/7ba3648d.ext.json)
+
+---
+
+### Zaralione crashed into cocaine
+
+*2024-11-13 09:25:15* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-ගුලි-ගිල-දමා-පැමිණි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-413010) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan man caught smuggling cocaine at Katunayake airport. 32-year-old farmer attempted to swallow 56 cocaine pellets worth $200. Arrested and hospitalized after police intervention. Doctors treating him for cocaine overdose.
+
+🟩
+
+A clirelione who has been pulled in cocaine and swallowed them in the Katunayake airport, "Green Channel" (GREEN PACE), the Customs Drug Administration Division while attempting to go out of the airport on the Bandaranaike International Airport on 11/12Was arrested.
+
+He is a 32-year-old farmer who lives in Zearlaione. He was from Istanbul, Turkish Airlines, Turkish Airport, at Turkish Airport on 11/12.
+
+Customs Drug Administration and Officers who were suspicious of the airport to leave the airport..
+
+Accordingly, the passenger was handed over to the officers of the Police Narcotics Bureau of Katunayake and the officials were admitted to the Negombo General Hospital.
+
+The hospital's doctors have recovered 56 cocaine gulus worth about Rs. 30,000.
+
+A spokesman for the Katunayake Police Narcard of Katunayake has been swallowed up of 80 of the air passenger gulus, cocaine.
+
+Accordingly, doctors in the Negombo General Hospital are trying to overcome the saver of cocaine, which is left in his stomach.
+
+◼️
+
+[Data](articles/1b9a48de.json)
+
+[Extended Data](ext_articles/1b9a48de.ext.json)
+
+---
+
+### Pussellawa
+
+*2024-11-13 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198550) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wasps attack plantation workers in Pussella-Melbatwatta. One worker killed, six injured. Three hospitalized, including one who died untreated. Four others treated locally. Police investigating incident.
+
+🟩
+
+One person was killed when a wasps were dumped on plantation workers who were working in Pussella - Melbatwatta.
+
+Six persons who were targeted for the wasps were admitted to the Gampola Hospital after being admitted to the Gampolai Hospital, a man died without treatment, police said.
+
+In addition, another person who is targeted for the wasp is receiving treatment at the Gampola hospital and four other people have been treated for treatment, police said.
+
+◼️
+
+[Data](articles/bc9a8466.json)
+
+[Extended Data](ext_articles/bc9a8466.ext.json)
 
 ---

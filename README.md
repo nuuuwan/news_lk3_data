@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 20:13:09**
+As of **2024-11-13 20:00:06**
 
 ## Newspaper Stats
 
-*Scraped **54,605** Articles*
+*Scraped **54,601** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 557
-islandlk | 3,267
+islandlk | 3,266
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,115
 adaderanalk | 6,516
-tamilmirrorlk | 7,647
+tamilmirrorlk | 7,644
 virakesarilk | 8,867
 adaderanasinhalalk | 9,505
 
@@ -26,63 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,601 (100.0%) of 54,605 articles have been extended.
+54,600 (100.0%) of 54,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
-
-### விசேட தொலைபேசி இலக்கங்கள் அறிமுகம்
-
-*2024-11-13 19:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தொலைபேசி-இலக்கங்கள்-அறிமுகம்/175-347073) · `ta`
-
-தேர்தல் காலத்தில் ஏதேனும் அனர்த்தங்கள் ஏற்பட்டால் அது தொடர்பில் அறிவிப்பதற்காக 06 விசேட தொலைபேசி இலக்கங்கள் அறிமுகப்படுத்தப்பட்டுள்ளன.
-
-இத்திட்டத்தை தேசிய கட்டிட ஆராய்ச்சி நிறுவனம், வளிமண்டலவியல் திணைக்களம், நீர்ப்பாசனத் திணைக்களம், ஆயுதப்படை மற்றும் பொலிஸ் ஆகியன இணைந்து நடைமுறைப்படுத்துகின்றன. R
-
-◼️
-
-[Data](articles/b69c9fc8.json)
-
----
-
-### இலங்கை விவசாயத் துறை வளர்ச்சிக்கு கொரியா உதவி
-
-*2024-11-13 19:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-விவசாயத்-துறை-வளர்ச்சிக்கு-கொரியா-உதவி/175-347072) · `ta`
-
-விவசாயம் மற்றும் அது சார்ந்த தொழில்வாய்ப்புகளுக்கு கொரிய சிறிய அளவிலான தொழில் முயற்சிகள் சங்கம், இலங்கைக்கு உதவ முன்வந்துள்ளது.
-
-அத்தோடு மீன்பிடித் தொழிலுக்குத் தேவையான தொழில்நுட்ப உதவி மற்றும் பயிற்சி வழங்குவதற்கான வசதி அளிக்கவும் குறித்த சங்கம் உடன்பாடு தெரிவித்துள்ளது.
-
-கொரிய சிறிய அளவிலான வர்த்தக சங்கத்தின் பிரதிநிதிகள் குழுவிற்கும் ஜனாதிபதி அலுவலக அதிகாரிகளுக்கும் இடையில் இன்று (13) ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலில் இந்த விடயங்கள் வெளிப்படுத்தப்பட்டுள்ளன.
-
-இக்கலந்துரையாடலில், கொரியாவில் மீன்பிடித் தொழிலுக்காக இலங்கைத் தொழிலாளர்களுக்கு இலங்கையில் பயிற்சி மற்றும் வேலை வாய்ப்புகளை வழங்குவது தொடர்பிலும் கவனம் செலுத்தப்பட்டது.
-
-இந்த சந்திப்பில் கொரியா சிறிள அளவிலான தொழில் முனைவோர் சங்கத்தின் தலைவர் கிம் சுங் ரேங் (Kim Chung Ryong) மற்றும் பலர் கலந்து கொண்டனர்.
-
-◼️
-
-[Data](articles/e74e447e.json)
-
----
-
-### மன்னாரில் உலர் உணவு பொதிகள் மீட்பு: மூவர் கைது
-
-*2024-11-13 19:54:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-உலர்-உணவு-பொதிகள்-மீட்பு-மூவர்-கைது/72-347071) · `ta`
-
-மன்னாரில் வாக்காளர்களுக்கு அரசியல் கட்சி ஒன்றினால்  வழங்குவதற்கு என கொண்டு வரப்பட்ட ஒரு தொகுதி உலர் உணவு பொருட்கள்  புதன்கிழமை(13) மாலை மன்னார்-யாழ் பிரதான வீதியில் வைத்து அடம்பன் பொலிஸாரினால் வாகனம் ஒன்றில் வைத்து மீட்கப்பட்டுள்ளதோடு மூன்று சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
-
-பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலின் அடிப்படையில் மன்னார்-யாழ் பிரதான வீதியில்   வைத்து வாகனம் ஒன்றை சோதனை செய்த போது குறித்த வாகனத்தில் ஒரு தொகுதி உலர் உணவு பொருட்கள் காணப்பட்டன.
-
-இதன் போது பொலிஸார் முன்னெடுத்த விசாரணைகளின் போது குறித்த உலர் உணவு பொருட்கள் அரசியல் கட்சி ஒன்றினால் வாக்காளர்களுக்கு வழங்க கொண்டு வரப்பட்டமை தெரியவந்தது.
-
-இந்த நிலையில் குறித்த பொருட்களை பொலிஸார் அடம்பன் பொலிஸ் நிலையத்திற்கு கொண்டு சென்றதோடு,குறித்த வாகனத்தின் சாரதி,உதவியாளர் உள்ளடங்களாக வாகனத்தில் பயணித்த மூவர் கைது செய்யப்பட்டனர்.
-
-...
-
-[Data](articles/f54343fe.json)
-
----
 
 ### நீலகாமத்தில் முறிந்தது ஆலமரம்: இருவர் காயம்
 
@@ -132,29 +80,19 @@ Accordingly, at an early stage, only about 45 million birth, marriage and death 
 
 ---
 
-### 490 social media complaints have been received in relation to the election
+### මැතිවරණයට අදාළව සමාජ මාධ්‍ය පැමිණිලි 490 ක් ලැබිලා
 
 *2024-11-13 18:06:14* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-සමාජ-මාධ්‍ය-පැමිණිලි-490-ක්-ලැබිලා/11-413020) · `si`
 
-Here's a summary of 200 characters:
+මෙවර පාර්ලිමේන්තු මැතිවරණයට අදාළව ඔක්තෝම්බර් 11 දා සිට මේ දක්වා  මාසයක  කාලය තුළ  සමාජ මාධ්‍ය හා සම්බන්ධ පැමිණිලි 490 ක් ලැබී ඇතැයි මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
 
+එම පැමිණිලිවලට අදාළ අන්තර්ගතයන් අදාළ සමාජ මාධ්‍ය ආයතන වෙත යොමු කිරීමෙන් පසු එයින්  අන්තර්ගතයන් 184 ක් එම ආයතන මගින් ඉවත් කර  අන්තර්ගතයන් 87 ක්   ඉවත්කර ගැනීම ප්‍රතික්ෂේප කළ බවත් ඉතිරි  අන්තර්ගතයන් 219 සඳහා පසු විපරම් පණිවුඩ  ලැබීමට නියමිතව ඇති බවත් මැතිවරණ කොමිෂන් සභාව පවසයි.
 
-
-Elections Commission received 490 social media complaints about parliamentary election. Removed 87 content, left 403. 67 visual votes, 39 student, 52 child-related violations, 234 other complaints.
-
-🟩
-
-The Elections Commission states that 490 complaints have been received from October 11 to this month, 490 social media reports have been received in connection with the Parliamentary election.
-
-The Elections Commission says that the contents of the relevant social institutes to the relevant social media institutions and refused to remove the total number of content and removed 87 content.
-
-The Elections Commission further states that there were 67 Votes of Visual, which was contrary to the Election Act, 39 students, contrary to the Elections Act, which was contrary to 52 children, children, and 234 cases of complaints.
+මෙලෙස ලැබුණු පැමිණිලිවලින් 179 ක් අපහාසාත්මක අන්තර්ගතයන් සම්බන්ධයෙනි.වෛරී ප්‍රකාශන 67  ක් දුස් තොරතුරු 52 ක්  ,ළමුන් සම්බන්ධයෙන් 39 ක්,මැතිවරණ පනතට පටහැනි 124 ක් සහ වැරදි පුවත් 29 ක් වශයෙන් ඉතිරි අන්තර්ගතයන් පැවති බව මැතිවරණ කොමිෂන් සභාව වැඩි දුරටත් සඳහන් කරයි.
 
 ◼️
 
 [Data](articles/161b3d7b.json)
-
-[Extended Data](ext_articles/161b3d7b.ext.json)
 
 ---
 
@@ -2359,5 +2297,61 @@ Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its an
 [Data](articles/5cd0181e.json)
 
 [Extended Data](ext_articles/5cd0181e.ext.json)
+
+---
+
+### ‘Need for sustainable approach to development urgent’
+
+*2024-11-12 22:30:00* · [`islandlk`](http://island.lk/need-for-sustainable-approach-to-development-urgent/) · `en`
+
+Professor Mohan Munasinghe, an esteemed academic and Nobel laureate, highlighted the urgent need for a balanced, sustainable approach to development at the University of Colombo’s Annual Research Symposium.
+
+Speaking to a diverse audience of policymakers, academics and students last week, Prof. Munasinghe stressed the importance of adopting “Balanced Inclusive Green Growth” (BIGG) to combat the interconnected challenges of climate change, poverty, and economic inequality.
+
+Munasinghe, known for pioneering the “Sustainomics” framework, warned that unchecked climate change and overconsumption by wealthy nations could destabilize ecosystems and deepen global inequalities.
+
+Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 times the rate of the poorest 10%, revealing the stark imbalance in resource consumption and environmental impact.
+
+...
+
+[Data](articles/69385842.json)
+
+[Extended Data](ext_articles/69385842.ext.json)
+
+---
+
+### SLT-MOBITEL recognised as the Fastest 4G Mobile Network by Ookla®
+
+*2024-11-12 22:26:00* · [`islandlk`](http://island.lk/slt-mobitel-recognised-as-the-fastest-4g-mobile-network-by-ookla/) · `en`
+
+Reaffirming its commitment to providing fast and superior network user experience in Sri Lanka, SLT-MOBITEL Mobile has once again been recognised as Sri Lanka’s fastest 4G mobile network by Ookla®, the global leader in fixed broadband and mobile network testing applications, data, and analysis.
+
+SLT-MOBITEL was recognised by Ookla®of Speedtest Intelligence® data as the Fastest 4G LTE Network in Sri Lanka for the first half of 2024, cementing its position as the undisputed leader in mobile network performance and superior user experience. The achievement highlights the company’s dedication to excellence in digital infrastructure in the country, aligning with the growing demand for reliable mobile services and catering to the ever-evolving digital needs of both retail and corporate consumers.
+
+Setting a benchmark in the market, SLT-MOBITEL was previously acknowledged as the fastest mobile network for three consecutive years in 2019, 2020, and 2021 by Ookla® Speedtest Intelligence® data.
+
+...
+
+[Data](articles/f65ce97e.json)
+
+[Extended Data](ext_articles/f65ce97e.ext.json)
+
+---
+
+### CSE surpasses 13000 index points in anticipation of positive corporate financial results
+
+*2024-11-12 22:25:00* · [`islandlk`](http://island.lk/cse-surpasses-13000-index-points-in-anticipation-of-positive-corporate-financial-results/) · `en`
+
+Stock market activities which were very positive yesterday, surpassed 13000 index points due to an anticipation of favourable corporate financial results, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 122 points, while the S and P SL20 rose by 37.84 points.
+
+Turnover stood at Rs 4.29 billion with three crossings. Those crossings were reported in HNB, which crossed 6.2 million shares to the tune of Rs 1.43 billion and its shares traded at Rs 230, Overseas Realty 14.3 million shares crossed for Rs 265 million; its shares traded at Rs 18.50 and LOLC Holdings 95000 shares crossed for Rs 43.1 million; its shares sold at Rs 458.50.
+
+...
+
+[Data](articles/b67d619b.json)
+
+[Extended Data](ext_articles/b67d619b.ext.json)
 
 ---

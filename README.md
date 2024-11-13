@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 08:02:53**
+As of **2024-11-13 05:49:14**
 
 ## Newspaper Stats
 
-*Scraped **54,520** Articles*
+*Scraped **54,515** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,264
 economynextcom | 3,303
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,100
+adalk | 5,098
 adaderanalk | 6,504
-tamilmirrorlk | 7,628
+tamilmirrorlk | 7,625
 virakesarilk | 8,847
 adaderanasinhalalk | 9,505
 
@@ -26,51 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,515 (100.0%) of 54,520 articles have been extended.
+54,505 (100.0%) of 54,515 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
-
-### விசேட போக்குவரத்து சேவைகள்
-
-*2024-11-13 07:52:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-போக்குவரத்து-சேவைகள்/175-347040) · `ta`
-
-பொதுத் தேர்தலில் வாக்களிப்பதற்காக தமது சொந்த இடங்களுக்குச் செல்லும் பொதுமக்களுக்காக இன்றும் விசேட போக்குவரத்து சேவைகள் முன்னெடுக்கப்படுகின்றன.
-
-பயணிகளின் வசதி கருதி தேவையான போக்குவரத்து சேவைகள் வழங்கப்பட்டுள்ளதாக இலங்கை போக்குவரத்து சபை, தனியார் பேருந்து உரிமையாளர்கள் சங்கம் மற்றும் தொடருந்து திணைக்களம் என்பன அறிவித்துள்ளன.
-
-அதற்கமைய, பயணிகளின் வசதி கருதி இன்றைய தினம் 80 பேருந்துகளை மேலதிகமாக சேவையில் ஈடுபடுத்துவதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளதாக இலங்கை போக்குவரத்து சபையின் தலைவர் ரமல் சிறிவர்தன குறிப்பிட்டுள்ளார்.
-
-இதேவேளை, நாளாந்தம் பயணிக்கும் ரயில்களை விடவும் தேர்தல் காலத்தைக் கருத்திற் கொண்டு மேலதிக ரயில்கள்  சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாகத் ரயில்வே திணைக்களத்தின் பிரதி பொது முகாமையாளர் என்.ஜே.இந்திபொலகே தெரிவித்துள்ளார்.  (a)
-
-◼️
-
-[Data](articles/4ed6c021.json)
-
----
-
-### Today's winds in the Bay of Bengal
-
-*2024-11-13 07:17:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கக்கடலில்-இன்று-காற்றழுத்த-தாழ்வு/175-347039) · `ta`
-
-Bay of Bengal winds cause rain across Sri Lanka. Heavy downpours forecasted in central, southern regions. Lighter showers expected in north and other areas tonight.
-
-🟩
-
-Due to its impact, the Department of Meteorology has said that rainfall is likely to occur in many parts of the country from today.
-
-Accordingly, heavy rains are expected in the Central, Uva, Sabaragamuwa and Southern Provinces and some parts of the Kalutara districts.
-
-The Department of Meteorology has said that there will be rains in the Northern Province and in the rest of the country in the evening or night.. (A)
-
-◼️
-
-[Data](articles/28e66f26.json)
-
-[Extended Data](ext_articles/28e66f26.ext.json)
-
----
 
 ### Class conflict shattered, politics returned to people
 
@@ -260,28 +220,6 @@ The Monday night incident came on the eve of the country’s premier aviation ex
 
 ---
 
-### Death in accident
-
-*2024-11-13 00:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-மரணம்/175-347038) · `ta`
-
-Family member dies instantly in car crash on Manipay-Kaithadi highway in Jaffna. 53-year-old man from southern Vaddukoddai area riding motorcycle collides with another bike while overtaking, resulting in fatal impact.
-
-🟩
-
-A family member died on the spot in a vehicle accident on the Manipay -Kaithadi main road in Jaffna.
-
-In the meantime, the Rajadi Road, Disk. The 53 -year -old from the southern and Vaddukoddai area has died.
-
-While traveling on a motorbike, he tried to overtake the man on the road on the other motorcycle.. He was then killed on the spot when he collided with the motorcycle.
-
-◼️
-
-[Data](articles/1b2e18af.json)
-
-[Extended Data](ext_articles/1b2e18af.ext.json)
-
----
-
 ### Special arrangements for specialists
 
 *2024-11-13 00:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோருக்கு-சிறப்பு-ஏற்பாடுகள்/175-347037) · `ta`
@@ -448,8 +386,6 @@ HUTCH, one of Sri Lanka’s leading mobile networks, has once again distinguishe
 
 [Data](articles/5cd401b9.json)
 
-[Extended Data](ext_articles/5cd401b9.ext.json)
-
 ---
 
 ### ‘Daraz 11.11 kicks off with unbeatable discounts, exclusive offers’
@@ -461,8 +397,6 @@ Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its an
 ...
 
 [Data](articles/5cd0181e.json)
-
-[Extended Data](ext_articles/5cd0181e.ext.json)
 
 ---
 
@@ -482,8 +416,6 @@ Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 t
 
 [Data](articles/69385842.json)
 
-[Extended Data](ext_articles/69385842.ext.json)
-
 ---
 
 ### CSE surpasses 13000 index points in anticipation of positive corporate financial results
@@ -499,8 +431,6 @@ Turnover stood at Rs 4.29 billion with three crossings. Those crossings were rep
 ...
 
 [Data](articles/b67d619b.json)
-
-[Extended Data](ext_articles/b67d619b.ext.json)
 
 ---
 
@@ -1042,22 +972,6 @@ It is noteworthy that the questionnaire includes many questions about the Nation
 
 ---
 
-### ඇමති විජිත ඇමෙරිකානු තානාපති කාර්යාලයෙන් කළ ඉල්ලීම
-
-*2024-11-12 18:09:14* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-ඇමෙරිකානු-තානාපති-කාර්යාලයෙන්-කළ-ඉල්ලීම/11-413004) · `si`
-
-නැවත දැනුම්දෙන තුරු ආරුගම්බේ ප්‍රදේශයේ සංචාරය කිරීමෙන් වළකින ලෙස ඇමෙරිකානු තානාපති කාර්යාලය නිකුත් කළ සංචාරක උපදේශනය ඉවත් කරන ලෙස විදේශ අමාත්‍යාංශය මෙරට අමෙරිකානු තානාපති කාර්යාලයෙන් ඉල්ලීමක් කර තිබේ. මෙම තත්ත්වය හමුවේ පසුගිය ඉරිදා ආරක්ෂක ලේකම් සම්පත් තුයියකොන්තා මහතාද ආරුගම්බේ ප්‍රදේශයේ සංචාරයක නිරත වූ අතර, එහිදී ඔහු සඳහන් කළේ අදාළ ප්‍රදේශයේ ආරක්ෂාව තර කර ඇති බවය.
-
-විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා විසින් එම ඉල්ලීම සිදුකර ඇත. පසුගිය ඔක්තෝබර් මස 23වැනිදා එක්සත් ජනපද තානාපති කාර්යාලය විසින් ආරුගම්බේ ප්‍රදේශය ඇතුළු මෙරට සංචාරක ස්ථාන ඉලක්ක කර ගනිමින් ප්‍රහාරයක් එල්ල වන බවට අනතුරු ඇඟවීමේ නිවේදනයක් නිකුත් කළේය. නැවත දැනුම්දෙන තුරු ආරුගම්බේ ප්‍රදේශයේ සංචාරය කිරීමෙන් වළකින ලෙස මෙරට සිටින එක්සත් ජනපද පුරවැසියන්ගෙන් ඉල්ලා සිටින බව සඳහන් කර තිබුණි.
-
-අදාළ නිවේදනයෙන් අනතුරුව තවත් රටවල් කිහිපයක් එම රටවල පුරවැසියන්ට මෙම කලාපවල සංචාරය කිරීමෙන් වළකින ලෙස හා ආරක්ෂාව සම්බන්ධයෙන් වඩාත් අවධානය යොමුකරන ලෙස ඉල්ලා සිටියේය.
-
-...
-
-[Data](articles/fe032c9a.json)
-
----
-
 ### மத்துகம சி.டபிள்யூ.டபிள்யூ. Kannangara Central Maha Vidyalaya: Proper inquiry into the General Knowledge Examination Questionnaire - Ministry of Education
 
 *2024-11-12 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198538) · `ta`
@@ -1083,22 +997,6 @@ The Ministry of Education has stated that appropriate action will be taken after
 [Data](articles/651af6f1.json)
 
 [Extended Data](ext_articles/651af6f1.ext.json)
-
----
-
-### ජාතික ලැයිස්තු මන්ත්‍රීන් 29ට තේරෙන්න  527 ක් පෝලිමේ
-
-*2024-11-12 18:03:57* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ලැයිස්තු-මන්ත්‍රීන්-29ට-තේරෙන්න--527-ක්-පෝලිමේ/11-413003) · `si`
-
-1981 අංක 01 දරන පාර්ලිමේන්තු මැතිවරණ පනතේ 99 අ ව්‍යවස්ථාව යටතේ ජාතික ලැයිස්තු මන්ත්‍ර්‍රීන් ලෙස  මෙවර  පාර්ලිමේන්තුවට තෝරාපත් කරගැනීම පිණිස මැතිවරණ කොමිෂන් සභාව වෙත ඉදිරිපත්වී ඇති   සුදුසුකම් ලත් තැනැත්තන්    527 කගේ නාම ලේඛනය මැතිවරණ කොමිෂන් සභාව විසින් ප්‍රකාශයට පත්කර ඇත.
-
-මෙවර පාර්ලිමේන්තු මැතිවරණයට තරග වදින පිළිගත් දේශපාලන පක්ෂ 27 ක් හා  හා ස්වාධීන කණ්ඩායම් දෙකක්  විසින් මැතිවරණ නාම යෝජනා සමග මෙම ජාතික ලැයිස්තු  නම් 527 ඉදිරිපත් කළ බව මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
-
-ඒ අනුව මෙවර මහ මැතිවරණයේදී ඒ ඒ දේශපාලන පක්ෂ මුලු දිවයිනෙන්ම ලබා ගන්නා ඡන්ද ප්‍රමාණය පදනම් කරගෙන මෙලෙස ඉදිරිපත් කර ඇති තැනැත්තන් 527 අතරින් 29 දෙනෙකුට 99 අ ව්‍යවස්ථාව අනුව   ජාතික ලැයිස්තු පාර්ලිමේන්තු මන්ත්‍රීන් ලෙස පත් වීමට වරම් ලැබේ.
-
-◼️
-
-[Data](articles/77f8e1e6.json)
 
 ---
 
@@ -2383,5 +2281,129 @@ Fisheries Fisheries Organizations also supported the announcement of the struggl
 [Data](articles/02abd5a3.json)
 
 [Extended Data](ext_articles/02abd5a3.ext.json)
+
+---
+
+### Special announcement from the Department of Examinations
+
+*2024-11-12 14:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203176) · `si`
+
+Here's a 200-character summary:
+
+
+
+Department of Examinations statement: Exam certificates delayed due to staff deployment for 2024 parliamentary election. All service windows and online services will be closed on that day.
+
+🟩
+
+The Department of Examinations has issued a statement regarding the issuance of examination certificates.
+
+It is said that due to the deployment of departmental staff for election duties due to the 2024 parliamentary election, the exam certificates will not issue exam certificates.
+
+Accordingly, all service windows and online service will not work on that day.
+
+◼️
+
+[Data](articles/ba38872f.json)
+
+[Extended Data](ext_articles/ba38872f.ext.json)
+
+---
+
+### More than 400 calls on security
+
+*2024-11-12 14:17:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதுகாப்பு-குறித்து-400க்கும்-மேற்பட்ட-அழைப்புகள்/175-347002) · `ta`
+
+Sri Lanka: Over 400 security calls for tourist safety. DIG Damayantha Vijaya Sri leads coastal and tourism security efforts. Measures include patrols and surveillance. No current tourist concerns reported.
+
+🟩
+
+DIG in charge of coastal and tourism. It is reported that Damayantha Vijaya Sri has received more than 400 calls in the last few days.
+
+A few weeks ago, it was warned that terrorist attacks could be launched targeting Israeli tourists and other tourists.
+
+Subsequently, the US embassy in Sri Lanka and the Israeli government warned its citizens to avoid traveling to some other coastal areas.
+
+Accordingly, the DIG is a special center to take steps on the safety of tourists. The Division headed by Damayantha Vijaya Sri was appointed.
+
+DIG Damayantha Vijaya Sri said that they have received more than 400 calls for their division for the past few days.
+
+He also said that the police coast and tourism unit is functioning to address all the problems.
+
+He added that the necessary surveillance measures were taken to ensure the safety of tourists, as well as the Inspector General of Police on the instructions of the Inspector General of Police.
+
+...
+
+[Data](articles/23512144.json)
+
+[Extended Data](ext_articles/23512144.ext.json)
+
+---
+
+### National Unity Government Needs To Include Minority Parties
+
+*2024-11-12 14:13:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/national-unity-government-needs-to-include-minority-parties/) · `en`
+
+The government is aware as much as anyone else that the country continues to be in an extremely vulnerable situation with the possibility of reversal to a state of economic decline a possible scenario. Both national and international experts have pointed this out with the IMF saying that the country is poised at knife’s edge. The government’s care taken in navigating the sitiuation has included accepting the IMF package, which the main opposition party is making so bold as to reject, but which the former government negotiated and considered to be its signal triumph. The government has also not been engaging in any high cost and self-interested activities unlike its predecessors who sooner rather than later made major wasteful expenditures.
+
+...
+
+[Data](articles/0b1d2205.json)
+
+[Extended Data](ext_articles/0b1d2205.ext.json)
+
+---
+
+### Special Workshop for Bus Depots
+
+*2024-11-12 14:13:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-டிப்போக்களுக்கு-விசேட-பணிப்புரை/175-347001) · `ta`
+
+Sri Lanka Transport Board deploys extra buses for election duty and holiday traffic. Over 1000 buses allocated for transport officers, polling stations, and police. Additional buses planned for Colombo during long weekend. Public transport to resume after election and police duties.
+
+🟩
+
+Sri Lanka Transport Board Chairman Ramal Siriwardena said that all the Sri Lanka Transport Board (SLTB) depots have been issued to operate existing buses from today (18).
+
+He told the Daily Mirror that all provincial depots have been instructed to operate buses according to the current schedule to ease the traffic of passengers inside and outside Colombo.
+
+Accordingly, more than 70 buses have been deployed in the Gampaha, Kalutara and Colombo regions today and 80 more buses have been allocated to the Colombo Fort tomorrow to meet the demand of passengers.
+
+He said the buses would be operated in addition to the existing schedule.
+
+A total of 1,017 buses have been allocated for transport officers and polling boxes for election work. In addition, 290 buses have been assigned to the police on their respective fare basis.
+
+Once the transportation of the election works and the police is over, these buses will be available for public transport.
+
+...
+
+[Data](articles/83c29f53.json)
+
+[Extended Data](ext_articles/83c29f53.ext.json)
+
+---
+
+### Discussion on the release of political prisoners
+
+*2024-11-12 13:58:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்-கைதிகளின்-விடுதலை-தொடர்பில்-கலந்துரையாடல்/175-347000) · `ta`
+
+Sri Lanka: Political prisoner release talks underway between Presidential Secretariat & AG's Dept. Most detainees are Tamil, held without trial. Human rights groups demand fair investigations & legal reforms. President Dissanayake vows to discuss prisoner release.
+
+🟩
+
+Attorney -at -Law JM JM says that a discussion is taking place between the Presidential Secretariat and the Attorney General's Department regarding the release of political prisoners.. Wijebandara said.
+
+In Sri Lanka, 'political prisoners' often refer to those who are detained under anti -terror laws.
+
+Responding to a question raised by journalists as to whether a program is being carried out on the release of political prisoners, Wijebandara said he was in consultation with the Attorney General's Department on the release of political prisoners.
+
+Most of the so -called political prisoners are Tamils ​​who have been arrested without interrogation or have been detained under severe conditions.
+
+Human rights groups, families and activists of the suspects have been fighting for a long time that these prisoners are suffering from spontaneous detention, long -term imprisonment and lack of fair trial.
+
+...
+
+[Data](articles/8a146d33.json)
+
+[Extended Data](ext_articles/8a146d33.ext.json)
 
 ---

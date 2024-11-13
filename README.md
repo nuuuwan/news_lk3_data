@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 00:26:41**
+As of **2024-11-14 00:57:38**
 
 ## Newspaper Stats
 
-*Scraped **54,638** Articles*
+*Scraped **54,640** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,743
+dailyftlk | 3,744
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,650
+tamilmirrorlk | 7,651
 virakesarilk | 8,874
 adaderanasinhalalk | 9,505
 
@@ -26,9 +26,33 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,633 (100.0%) of 54,638 articles have been extended.
+54,636 (100.0%) of 54,640 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-14 (Thursday)
+
+### Don't photograph
+
+*2024-11-14 00:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுக்கவேண்டாம்/175-347078) · `ta`
+
+Election Commission warns against photographing polling booths, marked ballots, and sharing on social media. Violators may face legal action.
+
+🟩
+
+The Election Commission has advised the public to avoid photography, photographing or uploading pictures or videos on social networks.
+
+In a statement issued by the Commission, the Commission said in a statement that the polling booths, photographing or photography of marked ballots, and sharing them on social networks would violate the election law.
+
+Therefore, the Election Commission has warned that those who ignore these guidelines will face legal consequences.
+
+◼️
+
+[Data](articles/0e04991b.json)
+
+[Extended Data](ext_articles/0e04991b.ext.json)
+
+---
 
 ### 2024-11-13 (Wednesday)
 
@@ -43,6 +67,8 @@ The purchase and use of unauthorised 3M products could lead to a variety of seri
 ...
 
 [Data](articles/a0a79777.json)
+
+[Extended Data](ext_articles/a0a79777.ext.json)
 
 ---
 
@@ -84,6 +110,8 @@ Deflating systemic debt means reducing debt burden in the economy by design. Som
 
 [Data](articles/ca7f676a.json)
 
+[Extended Data](ext_articles/ca7f676a.ext.json)
+
 ---
 
 ### Will the 2024 General elections redefine Sri Lanka’s political future?
@@ -99,6 +127,24 @@ First, economic challenges remain a critical concern. Sri Lanka’s economic rec
 ...
 
 [Data](articles/83f01fc1.json)
+
+---
+
+### Trump’s triumph: American Revolution/counter-revolution and world order
+
+*2024-11-13 23:21:40* · [`dailyftlk`](https://www.ft.lk/columns/Trump-s-triumph-American-Revolution-counter-revolution-and-world-order/4-769213) · `en`
+
+President Trump actually thought that Kamala Harris, a feminist progressive-liberal, was a “radical-leftist, Marxist, Socialist, Communist”.
+
+The Trump administration and a Republican Senate are going to regard a JVP-NPP regime in the Indian Ocean headed by JVP leader Anura Dissanayake, pale-pink NPP frill, crony corporate décor and all, differently from the way a Democrat White House and Senate did.
+
+The multidimensional triumph of Donald Trump is an outcome I hardly applaud, but as a political scientist and former diplomat, I cannot fail to note its magnitude, even epic character, and respect the political achievement.
+
+Was it a counter-revolution or a revolution? Critics would argue the former; fans, the latter. It is like those two-dimensional pictures we had as postcards or key-tags when we were schoolkids. It all depends on which side you tilt it; which angle you view it from.
+
+...
+
+[Data](articles/34e87f95.json)
 
 ---
 
@@ -2383,65 +2429,5 @@ The Chairman of the Elections Commission, RMAL, demands that voters should be co
 [Data](articles/7ba3648d.json)
 
 [Extended Data](ext_articles/7ba3648d.ext.json)
-
----
-
-### Zaralione crashed into cocaine
-
-*2024-11-13 09:25:15* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-ගුලි-ගිල-දමා-පැමිණි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-413010) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan man caught smuggling cocaine at Katunayake airport. 32-year-old farmer attempted to swallow 56 cocaine pellets worth $200. Arrested and hospitalized after police intervention. Doctors treating him for cocaine overdose.
-
-🟩
-
-A clirelione who has been pulled in cocaine and swallowed them in the Katunayake airport, "Green Channel" (GREEN PACE), the Customs Drug Administration Division while attempting to go out of the airport on the Bandaranaike International Airport on 11/12Was arrested.
-
-He is a 32-year-old farmer who lives in Zearlaione. He was from Istanbul, Turkish Airlines, Turkish Airport, at Turkish Airport on 11/12.
-
-Customs Drug Administration and Officers who were suspicious of the airport to leave the airport..
-
-Accordingly, the passenger was handed over to the officers of the Police Narcotics Bureau of Katunayake and the officials were admitted to the Negombo General Hospital.
-
-The hospital's doctors have recovered 56 cocaine gulus worth about Rs. 30,000.
-
-A spokesman for the Katunayake Police Narcard of Katunayake has been swallowed up of 80 of the air passenger gulus, cocaine.
-
-Accordingly, doctors in the Negombo General Hospital are trying to overcome the saver of cocaine, which is left in his stomach.
-
-◼️
-
-[Data](articles/1b9a48de.json)
-
-[Extended Data](ext_articles/1b9a48de.ext.json)
-
----
-
-### Pussellawa
-
-*2024-11-13 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198550) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Wasps attack plantation workers in Pussella-Melbatwatta. One worker killed, six injured. Three hospitalized, including one who died untreated. Four others treated locally. Police investigating incident.
-
-🟩
-
-One person was killed when a wasps were dumped on plantation workers who were working in Pussella - Melbatwatta.
-
-Six persons who were targeted for the wasps were admitted to the Gampola Hospital after being admitted to the Gampolai Hospital, a man died without treatment, police said.
-
-In addition, another person who is targeted for the wasp is receiving treatment at the Gampola hospital and four other people have been treated for treatment, police said.
-
-◼️
-
-[Data](articles/bc9a8466.json)
-
-[Extended Data](ext_articles/bc9a8466.ext.json)
 
 ---

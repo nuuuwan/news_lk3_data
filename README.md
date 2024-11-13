@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 19:02:09**
+As of **2024-11-13 19:40:58**
 
 ## Newspaper Stats
 
-*Scraped **54,598** Articles*
+*Scraped **54,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 557
-islandlk | 3,265
+islandlk | 3,266
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,114
 adaderanalk | 6,516
-tamilmirrorlk | 7,643
+tamilmirrorlk | 7,644
 virakesarilk | 8,867
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,597 (100.0%) of 54,598 articles have been extended.
+54,600 (100.0%) of 54,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### நீலகாமத்தில் முறிந்தது ஆலமரம்: இருவர் காயம்
+
+*2024-11-13 19:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீலகாமத்தில்-முறிந்தது-ஆலமரம்-இருவர்-காயம்/76-347069) · `ta`
+
+Tree falls in Lion apartments, Nilakamam; two injured hospitalized. Heavy rain causes damage to 7 homes, affecting six families.
+
+🟩
+
+Two people have been admitted to hospital after a massive tree fell in the Lion apartment of the Kavatha Nilakamam No. 4 plantation unit.
+
+இரத்தினபுரி மாவட்டத்தில்  புதன்கிழமை (13) மாலை பெய்த அடை மழை காரணமாக காவத்தை நீலகாமம் இலக்கம் 4 தோட்டப் பிரிவின் லயன் குடியிருப்பில் பாரிய ஆல மரமொன்று  முறிந்து வீழ்ந்ததில்  ஆலயம் உட்பட குறித்த லயன் குடியிருப்பின் 7 வீடுகள் முற்றாக சேதமடைந்துள்ளதுடன் இதில் ஆறு குடும்பங்கள் பாதிக்கப்பட்டுள்ளன.
+
+இதில் பலத்த காயமடைந்த இருவர் வைத்தியசாலை அனுமதிக்கப்பட்டுள்ளனர். P. Muthusamy (59 years old) at the Ratnapura Teaching Hospital
+
+◼️
+
+[Data](articles/49cc3f11.json)
+
+[Extended Data](ext_articles/49cc3f11.ext.json)
+
+---
 
 ### News for Sri Lankans abroad
 
@@ -58,21 +80,35 @@ Accordingly, at an early stage, only about 45 million birth, marriage and death 
 
 ---
 
-### හිටපු අමාත්‍ය රෝහිතගේ බෑණා කරුණු පහදයි
+### Former Minister Rohitha's nephew
 
 *2024-11-13 17:59:45* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-රෝහිතගේ-බෑණා-කරුණු-පහදයි/11-413019) · `si`
 
-මහනුවර ප්‍රදේශයේ දී පොලිස් භාරයට ගැනුන සැප වාහන සම්බන්ධයෙන් රෝහිත අබේගුණවර්ධන හිටපු අමාත්‍ය වරයාගේ බෑනා සම්බන්ධ බවට මාධ්‍ය මගින් ගෙනයන ප්‍රචාරය සම්බන්ධයෙන් අද (13)  හිටපු  අමාත්‍යවරයාගේ බැණා වන ගයාන් සේරම් මහතා මාධ්‍ය හමුවක් පවත්වන ලදී.
+Here's a summary of the text in approximately 200 characters:
 
-එහිදී කරුණු පැහැදිලි කරමින් ඒ මහතා සදහන් කර සිටියේ එකී වාහන සම්බන්ධයෙන් තමන් හෝ තමන්ගේ බිරිදගේ පියා වන හිටපු අමාත්‍ය රෝහිත අබේගුණවර්ධන මහතා ගේ සම්බන්ධයක් නොමැති බවයි.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ ඒ මහතා මෙසේද පැවසීය . "එම වාහන පොලිස් භාරයට ගැනීම සම්බන්ධයෙන් මට එරෙහිව අධිකරණය වෙතින් නියෝගයක් නිකුත් කර ඇති බවට මාධ්‍ය ආයතන කිහිපයක් ප්‍රචාරය කලා. එයට මාගේ සම්බන්ධයක් නොමැති බවට මම මීට පෙර බම්බලපිටිය පොලිසියට පැමිණිල්ලක් ද ඉදිරිපත් කර තියෙනවා .
 
-දැන් නැවතත් මැතිවරණයක් ආසන්නයේ සිට අසත්‍ය චෝදනා එල්ල කරනවා. එම වාහන වලට මගේ කිසි සම්බන්ධයක් නෑ.
+Former Minister Gayan Serem denies involvement in police case related to his father-in-law Rohitha Abeygunawardena. He claims false allegations about vehicles and passport cancellation. Threatens legal action against media institutions.
+
+🟩
+
+Former minister Gayan Serem held a media briefing regarding the public minister's son-in-law of the media that Rohitha Abeygunawardena was involved in the police in the Kandy area.
+
+Speaking
+
+Speaking further Mr. Herath said,. "The media institutions have propagated that the court has issued an order against me about taking the vehicles. I have earlier has lodged a complaint with the Police Bambalapitiya that there was no connection to it.
+
+It is now being again false allegations from near election. Those vehicles have nothing to do with me.
+
+I have had a court order, that a police investigation is held and propagated that my passport canceled. But it doesn't know that I have issued an order from any court. At least I have not been informed or not informed. It is also responsible for that my passport is not banned.
+
+It is evident to anyone that my wife is targeting the electoral victory of my wife's father.
 
 ...
 
 [Data](articles/fce6d997.json)
+
+[Extended Data](ext_articles/fce6d997.ext.json)
 
 ---
 
@@ -2268,6 +2304,24 @@ Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 t
 
 ---
 
+### SLT-MOBITEL recognised as the Fastest 4G Mobile Network by Ookla®
+
+*2024-11-12 22:26:00* · [`islandlk`](http://island.lk/slt-mobitel-recognised-as-the-fastest-4g-mobile-network-by-ookla/) · `en`
+
+Reaffirming its commitment to providing fast and superior network user experience in Sri Lanka, SLT-MOBITEL Mobile has once again been recognised as Sri Lanka’s fastest 4G mobile network by Ookla®, the global leader in fixed broadband and mobile network testing applications, data, and analysis.
+
+SLT-MOBITEL was recognised by Ookla®of Speedtest Intelligence® data as the Fastest 4G LTE Network in Sri Lanka for the first half of 2024, cementing its position as the undisputed leader in mobile network performance and superior user experience. The achievement highlights the company’s dedication to excellence in digital infrastructure in the country, aligning with the growing demand for reliable mobile services and catering to the ever-evolving digital needs of both retail and corporate consumers.
+
+Setting a benchmark in the market, SLT-MOBITEL was previously acknowledged as the fastest mobile network for three consecutive years in 2019, 2020, and 2021 by Ookla® Speedtest Intelligence® data.
+
+...
+
+[Data](articles/f65ce97e.json)
+
+[Extended Data](ext_articles/f65ce97e.ext.json)
+
+---
+
 ### CSE surpasses 13000 index points in anticipation of positive corporate financial results
 
 *2024-11-12 22:25:00* · [`islandlk`](http://island.lk/cse-surpasses-13000-index-points-in-anticipation-of-positive-corporate-financial-results/) · `en`
@@ -2299,43 +2353,5 @@ The statement explains that, due to the General Election being held on that day,
 [Data](articles/ac46166d.json)
 
 [Extended Data](ext_articles/ac46166d.ext.json)
-
----
-
-### Sri Lanka’s tourism, remittance inflows up 23.4-pct in Jan-Oct 2024
-
-*2024-11-12 21:58:00* · [`economynextcom`](https://economynext.com/sri-lankas-tourism-remittance-inflows-up-23-4-pct-in-jan-oct-2024-187072/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cumulative foreign inflows from tourism earnings and remittances have risen 23.4 percent to $7.97 billion in the first 10 months of this year compared to the same period last year, the latest central bank data showed.
-
-The island nation received $2.53 billion in tourism earnings in the first 10 months of this year amid increased arrivals of foreign visitors compared to $1.59 billion in the same period last year.
-
-The remittances recorded an 11.7 percent growth in the January to October period to $5.43 billion with higher number of Sri Lankans have sought foreign jobs after an unprecedented economic crisis in 2022.
-
-Both tourism earnings and remittances have helped the island nation to boost its foreign currency reserves with the Central Bank has been actively buying US dollars from the market, which also has helped to prevent a sharp appreciation of the rupee currency. (Colombo/November 12/2024)
-
-◼️
-
-[Data](articles/1d26d4e1.json)
-
-[Extended Data](ext_articles/1d26d4e1.ext.json)
-
----
-
-### Archbishop of Canterbury resigns over handling of church child abuse case
-
-*2024-11-12 21:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103365/archbishop-of-canterbury-resigns-over-handling-of-church-child-abuse-case) · `en`
-
-Archbishop of Canterbury Justin Welby, head of the Church of England and spiritual leader of the global Anglican Communion, resigned Tuesday after an investigation found that he failed to tell police about serial physical and sexual abuse by a volunteer at Christian summer camps as soon as he became aware of it.
-
-Pressure on Welby had been building since Thursday, when release of the inquiry’s findings kindled anger about a lack of accountability at the highest reaches of the church.
-
-“It is very clear that I must take personal and institutional responsibility for the long and retraumatizing period between 2013 and 2024,” Welby said in the statement announcing his resignation. “I believe that stepping aside is in the best interests of the Church of England, which I dearly love and which I have been honored to serve.”
-
-...
-
-[Data](articles/88cc76ae.json)
-
-[Extended Data](ext_articles/88cc76ae.ext.json)
 
 ---

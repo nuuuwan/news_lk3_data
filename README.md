@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 15:41:38**
+As of **2024-11-13 16:25:18**
 
 ## Newspaper Stats
 
-*Scraped **54,565** Articles*
+*Scraped **54,569** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,265
 economynextcom | 3,308
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,108
+adalk | 5,110
 adaderanalk | 6,512
-tamilmirrorlk | 7,638
+tamilmirrorlk | 7,640
 virakesarilk | 8,858
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,99 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,565 (100.0%) of 54,565 articles have been extended.
+54,568 (100.0%) of 54,569 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### Violation of the telephone number can cause legal consequences
+
+*2024-11-13 15:51:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீறினால்-சட்டரீதியான-விளைவுகளை-சந்திக்க-நேரிடும்/175-347061) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Election Commission warns public: Avoid photography/video at polling stations. Violating election law may result in legal consequences. Sharing such content on social media is prohibited.
+
+🟩
+
+The Election Commission has instructed the public to avoid photography or video recordings, such pictures or videos on social media.
+
+The Commission said in a special statement that photography and sharing of polling stations and sharing them on social networks would violate the election law.
+
+Therefore, the Commission has warned that those who ignore these guidelines will face legal consequences.
+
+◼️
+
+[Data](articles/1f531627.json)
+
+[Extended Data](ext_articles/1f531627.ext.json)
+
+---
+
+### Bus accident carrying boxes
+
+*2024-11-13 15:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெட்டிகளை-ஏற்றிச்-சென்ற-பஸ்-விபத்து/175-347060) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Bus carrying ballots crashes; police rescue boxes, transfer to another vehicle for delivery."
+
+🟩
+
+A bus carrying ballot from Galle Southlands College to polling stations crashed into the car today.
+
+The police rushed to the scene and rescued the ballot boxes on the accident and moved them to a different vehicle for transport.
+
+◼️
+
+[Data](articles/1c3d1a7f.json)
+
+[Extended Data](ext_articles/1c3d1a7f.ext.json)
+
+---
+
+### හිඟ බදු නොගෙව්වොත් මත්පැන් සමාගම් 05ක බලපත්‍ර වලට කරන්න යන දේ මෙන්න
+
+*2024-11-13 15:35:32* · [`adalk`](https://www.ada.lk/breaking_news/හිඟ-බදු-නොගෙව්වොත්-මත්පැන්-සමාගම්-05ක-බලපත්‍ර-වලට-කරන්න-යන-දේ-මෙන්න/11-413015) · `si`
+
+හිඟ බදු මුදල් ලබන 30 වැනිදාට පෙර නොගෙවීමට කටයුතු කරන මත්පැන් නිෂ්පාද සමාගම් 05ක බලපත්‍ර අත්හිටුවීමට සුරාබදු දෙපාර්තමේන්තුව තීරණය කර ඇති බව නීතිපතිවරයා විසින් අද (13දා) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දී තිබේ.
+
+ඒ අදාළ පෙත්සම ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ලක් හමුවේ අද කැඳවනු ලැබූ අවස්ථාවේදීයි.
+
+◼️
+
+[Data](articles/f6966692.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-11-13 14:02:59* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413014) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka vs Sri Lanka one-day match today (13). Captain Charith wins toss, chooses to bat first.
+
+🟩
+
+The first one-day match between Sri Lanka and Sri Lanka will be held today (13).
+
+Sri Lanka captain Charith won the toss and elected to bat first, he decided to bat first.
+
+◼️
+
+[Data](articles/b056e3c4.json)
+
+[Extended Data](ext_articles/b056e3c4.ext.json)
+
+---
 
 ### Sri Lanka sees less election complaints than in previous years
 
@@ -204,7 +292,7 @@ The photographer said that during the ongoing inquiries, the former Director Gen
 
 ---
 
-### Sujeewa Rajapakse resigns from Sri Lanka’s Dipped Products board
+### Sujeewa Rajapakse leaves Sri Lanka’s Dipped Products board
 
 *2024-11-13 12:01:00* · [`economynextcom`](https://economynext.com/sujeewa-rajapakse-resigns-from-sri-lankas-dipped-products-board-187088/) · `en`
 
@@ -2265,99 +2353,5 @@ The suspect's modern car in the 20th of October last October and the Mitsusubish
 [Data](articles/d65e8b57.json)
 
 [Extended Data](ext_articles/d65e8b57.ext.json)
-
----
-
-### In 70 years of cruelty: Prime Minister
-
-*2024-11-12 17:49:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/70-ஆண்டுகளில்-நேர்ந்த-கொடூரம்-மன்னிப்பு-கோரிய-பிரதமர்/175-347015) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-NZ PM apologizes for 70 years of child abuse in homes & hospitals. 200k victims, 233 recommendations accepted. Government calls it national disaster. Apology aims to acknowledge pain & offer comfort to victims.
-
-🟩
-
-New Zealand Prime Minister Christopher Laxon has apologized in parliament for the atrocities committed by nearly 2 lakh people for the past 70 years in archives including children's maintenance homes and psychiatric hospitals.
-
-In New Zealand, there were complaints that a large number of children were harassed in government maintenance homes for children, and that the children were sexually harassed in hospitals, and that young people were sexually harassed in churches, and children from mothers were forcibly adopted and adopted.
-
-...
-
-[Data](articles/c83a1db0.json)
-
-[Extended Data](ext_articles/c83a1db0.ext.json)
-
----
-
-### Indian setbacks in China's rise in South Asia
-
-*2024-11-12 17:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198530) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-India views foreign interference in South Asia warily. In Sri Lanka, India supported Tamil militants when JR Jayewardene aligned with US. India directly intervened in Tamil areas in 1987. This led to the Sri Lanka-India Peace Accord.
-
-🟩
-
-'India historically sees the intervention of foreign powers in the region with suspicion. As for Sri Lanka, when JR Jayawardene was close to the United States, India provided funding, training and shelter to Sri Lankan Tamil militant groups. Eventually in 1987, the Tamil areas intervened directly by supplying food products. It is in this context that the Sri Lanka -Indian Peace Agreement signed '
-
-◼️
-
-[Data](articles/ce015cf7.json)
-
-[Extended Data](ext_articles/ce015cf7.ext.json)
-
----
-
-### Increase in Sri Lankans in Myanmar's ecommerce scam - Ministry of Defense
-
-*2024-11-12 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198497) · `ta`
-
-Sri Lankans targeted in Myanmar ecommerce scams. Ministry warns public about fraudulent recruitment schemes. Victims lured with higher IT salaries, then forced into illegal labor camps. Mental & physical abuse reported. Authorities advise against illegal settlements and warn employers about tourist visas. Public urged to report suspicious activities.
-
-🟩
-
-The Ministry of Defense has said that the National Human Trafficking Prevention Committee (NAHTTF) has received information from the United Kingdoms in the United Arab Emirates to the e -mail fraudulent slave camps in Myanmar's Miyawadi area.
-
-The National Human Trafficking Prevention Committee has issued a warning to the public on several occasions over the rise of recruitment for egoist fraudsters in Myanmar's Miyawadi area.
-
-Recent investigations have revealed that smugglers are targeting information technology experts claiming to provide more salary for more salary abroad.
-
-In other countries, they attract workers, promising to provide more wages in information technology sector.
-
-Investigators have revealed that the inspired persons were taken to places like Dubai under the guise of an interview for employment and then forced to work illegally to work in the Miyawadi area of ​​Myanmar.
-
-...
-
-[Data](articles/43bd85e9.json)
-
-[Extended Data](ext_articles/43bd85e9.ext.json)
-
----
-
-### SL Navy’s arrest of Indian fishermen in 2024 the highest in 7 years: Tamil Nadu CM
-
-*2024-11-12 17:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103362/sl-navys-arrest-of-indian-fishermen-in-2024-the-highest-in-7-years-tamil-nadu-cm) · `en`
-
-MK Stalin, the Chief Minister of the southern Indian state of Tamil Nadu has written to Indian External Affairs Minister Dr S Jaishankar, highlighting the increasing frequency of arrests of Indian fishermen by the Sri Lankan Navy.
-
-In a letter, Stalin highlighted that the number of Indian fishermen arrested by the Sri Lankan Navy this year is the highest in seven years.
-
-The Sri Lankan Navy maintains that Indian fishing boats are poaching in Sri Lankan waters and that their Naval vessels conduct regular patrols and operations in their waters to curb illegal fishing practices of foreign fishing boats, taking into account the impact of those practices on the livelihood of local fishermen.
-
-Thus far this year, the Sri Lankan Navy says they have held 66 Indian fishing boats and 497 Indian fishermen in the island nation’s waters.
-
-The fishermen issue remains a sore point in India-Sri Lanka ties, with fishers from each side crossing over into the other’s waters.
-
-...
-
-[Data](articles/a53d2769.json)
-
-[Extended Data](ext_articles/a53d2769.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 03:10:45**
+As of **2024-11-14 02:41:09**
 
 ## Newspaper Stats
 
-*Scraped **54,653** Articles*
+*Scraped **54,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
 economynextcom | 3,319
-dailyftlk | 3,753
+dailyftlk | 3,747
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
@@ -26,109 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,649 (100.0%) of 54,653 articles have been extended.
+54,646 (100.0%) of 54,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
-
-### Cross-Party Youth Dialogue unites young leaders ahead of Parliamentary poll
-
-*2024-11-14 03:00:06* · [`dailyftlk`](https://www.ft.lk/news/Cross-Party-Youth-Dialogue-unites-young-leaders-ahead-of-Parliamentary-poll/56-769255) · `en`
-
-The Coalition for Inclusive Impact (CII) successfully hosted a Cross-Party Youth Dialogue at the Galle Face Hotel, Colombo on 10 November.
-
-It brought together young representatives from across the political spectrum to discuss critical issues shaping Sri Lanka’s future. Through the CII’s non-partisan, independent platform, attendees engaged in open and impactful dialogue on the country’s challenges and opportunities.
-
-The panel included Keshal Jayasinghe (National Democratic Front), Pathum Kerner (United Democratic Voice), Swasthika Arulingam (People’s Socialist Alliance), Lakmali Hemachandra (National People’s Power), Milinda Rajapaksha (Sri Lanka Podujana Peramuna), and Anuradha Wimalarathna (Samagi Jana Balawegaya). Each panellist brought unique perspectives, highlighting their parties’ stances on important national issues.
-
-The dialogue centred around several pressing topics that resonate deeply with Sri Lankan citizens:
-
-...
-
-[Data](articles/ca2ce6f7.json)
-
----
-
-### IHP says General Election voting intent estimates uncertain due  to substantial response bias
-
-*2024-11-14 02:58:37* · [`dailyftlk`](https://www.ft.lk/news/IHP-says-General-Election-voting-intent-estimates-uncertain-due-to-substantial-response-bias/56-769254) · `en`
-
-SLOTS polling of voter intent conducted by the Institute for Health Policy (IHP) since the Presidential Election through 8 November has suffered from an increased level of response bias.
-
-“This has been due to respondents’ over-reporting support for the NPP. This has resulted in large uncertainty and a significant bias in favour of the NPP in the resulting vote intent estimates,” said IHP in a statement.
-
-“Nonetheless, we are releasing estimates based on these polling data in the interests of transparency. We advise that these estimates are likely to be associated with a large margin of error, and caution should be taken when interpreting them. As with any opinion poll, they should not be regarded as a prediction of the final election result,” it added.
-
-...
-
-[Data](articles/c0733978.json)
-
----
-
-### Sunshine Holdings delivers robust performance in 1H
-
-*2024-11-14 02:56:54* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-delivers-robust-performance-in-1H/34-769253) · `en`
-
-Continuing its resilience in robust growth, diversified conglomerate Sunshine Holdings PLC posted consolidated revenue of Rs. 30.1 billion for the six months ending 30 September 2024 (1HFY25), an increase of 6.8% YoY.
-
-Gross profit for the period in review increased by 6.2% YoY to Rs. 9.1 billion, with the gross profit margin holding steady at 30.4%. This margin stability reflects successful margin expansion in the Healthcare sector positively impacted the group’s overall profitability, despite margin contraction in Consumer Brands and Agribusiness sectors. The group reported profit after tax (PAT) for the period of Rs. 2.9 billion, a 19.6% YoY decrease, primarily impacted by the higher taxation in the agribusiness sector.
-
-The Group’s Healthcare business emerged as the largest contributor to Sunshine’s top-line performance, accounting for 53.7% of total revenue. In comparison, Consumer and Agribusiness sectors of the group contributed 32.2% and 14.2% respectively of the total revenue.
-
-...
-
-[Data](articles/8f58854d.json)
-
----
-
-### BPPL Holdings records stellar 85% growth in QoQ net earnings in Q2 ‘24
-
-*2024-11-14 02:52:13* · [`dailyftlk`](https://www.ft.lk/business/BPPL-Holdings-records-stellar-85-growth-in-QoQ-net-earnings-in-Q2-24/34-769252) · `en`
-
-BPPL Holdings PLC said yesterday it witnessed a significant improvement in its financial performance during the three months ended 30 September 2024, as compared to both the corresponding quarter in FY2023/24 and the three months ended 30 June 2024.
-
-The increase in revenue and gross margins was despite an appreciation in Sri Lankan Rupee rates used to convert US Dollar-denominated sales to Sri Lankan Rupees.
-
-Consolidated revenue for the three months until 30 September 2024 was Rs. 1.6 billion, a growth of 5% in Rupee terms and 11% in US Dollar terms over the same period in the previous year. EBITDA for the period was Rs. 356 million compared to Rs. 233 million in the corresponding period the previous year, a growth of 53%. Net earnings after tax were up 85% to Rs. 184 million, compared to Rs. 99 million in the previous year.
-
-...
-
-[Data](articles/1d410b96.json)
-
-[Extended Data](ext_articles/1d410b96.ext.json)
-
----
-
-### Board of Investment of Sri Lanka provides knowledge and training to professionals joining industry to  build low-carbon, environment-friendly industries
-
-*2024-11-14 02:49:48* · [`dailyftlk`](https://www.ft.lk/business/Board-of-Investment-of-Sri-Lanka-provides-knowledge-and-training-to-professionals-joining-industry-to-build-low-carbon-environment-friendly-industries/34-769251) · `en`
-
-Madhushani Gunawardhana, a first-class graduate of Biosystems and Technology from the University of Sri Jayewardenepura, presents the research paper she compiled during her internship training on “Industrial Boiler Fuel Assessment Guidelines for Sustainable Boiler Operations” to BOI Director General Renuka Weerakoone (right), Director – Environment Department Asanka Welagedara (third from left), and University of Sri Jayewardenepura Faculty of Technology Senior Lecturer Dr. Udayagi Kumarasinghe (left)
-
-...
-
-[Data](articles/fd0c4dd3.json)
-
-[Extended Data](ext_articles/fd0c4dd3.ext.json)
-
----
-
-### DIMO drives agri mechanisation
-
-*2024-11-14 02:48:36* · [`dailyftlk`](https://www.ft.lk/business/DIMO-drives-agri-mechanisation/34-769250) · `en`
-
-Successfully completes phase one of ‘Mahata Wahina Wasi Wassa’ initiative
-
-DIMO, a leading diversified conglomerate in Sri Lanka, launched the ‘Mahata Wahina Wasi Wassa’ initiative to empower farmers by offering free laptops, tabs, electric bicycles, and overseas travel opportunities with each Mahindra tractor purchase.
-
-Farmers who purchase Mahindra tractors between 1 August and 30 November, are eligible for these exclusive gift packages with various choices available. The first package includes an electric bicycle, the second offers a group trip to Malaysia with meals and accommodation, the third combines a laptop and tabs, and the fourth includes two mud wheels and a laptop. Farmers can select their preferred gift package from these options with each Mahindra tractor purchase. The company successfully completed the first phase of this transformative project recently.
-
-...
-
-[Data](articles/9b82f248.json)
-
----
 
 ### Five liquor companies to face licence suspension over unpaid taxes
 
@@ -188,29 +90,23 @@ The suspect has reportedly confessed that additional pellets remain in his stoma
 
 ---
 
-### Digitally of government services
+### அரசாங்க சேவைகளை டிஜிட்டல் மயமாகும்
 
 *2024-11-14 01:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-சேவைகளை-டிஜிட்டல்-மயமாகும்/175-347080) · `ta`
 
-Sri Lankan government digitizes certificate distribution for citizens abroad through embassies in Kuwait, Japan, Qatar, Melbourne, Toronto, Milan, Dubai. Certificates issued from Divisional Secretariats to improve E-BMD data structure.
+வெளிநாடுகளில் உள்ள இலங்கையர்களுக்கான பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் பிரதிகள் சம்பந்தப்பட்ட தூதரகங்களின் ஊடாக விநியோகிப்பதற்கு நடவடிக்கை எடுக்கப்பட்டுள்ளது.
 
-🟩
+குவைத், ஜப்பான், கட்டார் தூதரங்கள்,அவுஸ்திரேலியா மெல்பேர்ன், கனடா டொராண்டோ,  இத்தாலியின் மிலான்,டுபாய், கொன்சல் ஜெனரல் அலுவலகங்கள் ஊடாக  இந்த முன்னோடித் திட்டம் முன்னெடுக்கப்படுகின்றது.
 
-Steps have been taken to distribute copies of birth, marriage and death certificates for Sri Lankans abroad.
+வெளிநாடுகளில் உள்ள இலங்கையர்களின் வசதிக்காக வெளிநாடுகளில் உள்ள இலங்கை தூதரகங்களில் இருந்து பிறப்பு, திருமணம் மற்றும் இறப்பு சான்றிதழ்களின் நகல்களை வழங்க அரசாங்கம் திட்டமிட்டுள்ளது.
 
-The pioneering program is being carried out through Kuwait, Japan, Qatar, Melbourne, Canada Toronto, Italy's Milan, Dubai and Consul General Offices.
+இந்த வேலைத்திட்டம் தெரிவு செய்யப்பட்ட 07 வெளிநாட்டு தூதரகங்கள் மற்றும் கொன்சல் ஜெனரல்  அலுவலகங்கள் மூலம் முன்னோடித் திட்டமாக நடைமுறைப்படுத்தப்படவுள்ளது.
 
-The government is planning to provide copies of birth, marriage and death certificates from the Sri Lankan embassies abroad for the convenience of Sri Lankans abroad.
-
-This program will be implemented as a pioneering program through the selected 07 foreign embassies and Consul General Offices.
-
-Accordingly, Kuwait, Japan and Qatar are expected to implement this pioneer program through Melbourne of Australia, Toronto, Canada, Italy's Milan and Dubai embassies.
+அதன்படி, குவைத், ஜப்பான் மற்றும் கட்டார் தூதரகங்கள், அவுஸ்திரேலியாவின் மெல்போர்ன், கனடாவின் டொராண்டோ, இத்தாலியின் மிலான் மற்றும் டுபாய் தூதரகங்கள் மூலம் இந்த முன்னோடி திட்டத்தை செயல்படுத்த எதிர்பார்க்கப்படுகிறது.
 
 ...
 
 [Data](articles/2ef13f3d.json)
-
-[Extended Data](ext_articles/2ef13f3d.ext.json)
 
 ---
 
@@ -2401,5 +2297,143 @@ In this regard, Jaffna. I have appealed to the District Assistant Election Commi
 [Data](articles/d5df0d7c.json)
 
 [Extended Data](ext_articles/d5df0d7c.ext.json)
+
+---
+
+### Suspect arrested with stock of commercial explosives in Bandaragama
+
+*2024-11-13 10:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103377/suspect-arrested-with-stock-of-commercial-explosives-in-bandaragama-) · `en`
+
+A suspect was arrested in Bandaragama for the illegal possession of a large stock of commercial explosives, police reported.
+
+Acting on received information, authorities conducted a raid in the Gungamuwa area, where the suspect was apprehended.
+
+The seized items included 4 water gel sticks, 890 grams of gunpowder, over 21 kilograms of ammonium nitrate, 56 detonators, and 250 meters of detonation cords.
+
+The suspect has been identified as a 57-year-old resident of Gungamuwa, Bandaragama.
+
+◼️
+
+[Data](articles/e8b85b0e.json)
+
+[Extended Data](ext_articles/e8b85b0e.ext.json)
+
+---
+
+### Foreign national arrested at BIA with cocaine worth Rs. 13 mln hidden in stomach
+
+*2024-11-13 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103376/foreign-national-arrested-at-bia-with-cocaine-worth-rs-13-mln-hidden-in-stomach) · `en`
+
+The officers attached to the Narcotic Control unit at the Bandaranaike International Airport (BIA) in Katunayake have arrested a passenger at the Green Channel who arrived from Sierra Leon last morning on suspicion of trafficking narcotic substances.
+
+The officers put the suspect through the body scanner at the Customs area and identified that the passenger had concealed drugs in his person.
+
+The 32-year-old suspect is a Sierra Leon national and had arrived in Sri Lanka via Istanbul by flight TK 730 operated by Turkish Airlines in the morning yesterday (12).
+
+The suspect was admitted to the Negombo Hospital and 17 pellets suspected of containing narcotics have been retrieved so far.
+
+The suspect has confessed that more pellets are in his stomach.
+
+The retrieved pellets and the suspect were handed over to the Police Narcotics Bureau for further investigation.
+
+The estimated street value of the arrested cocaine pellets is around Rs. 13 million, according to Sri Lanka Customs.
+
+...
+
+[Data](articles/fa6d88ad.json)
+
+[Extended Data](ext_articles/fa6d88ad.ext.json)
+
+---
+
+### New Zealand and Sri Lanka ODI match today
+
+*2024-11-13 10:39:28* · [`adalk`](https://www.ada.lk/sports/නවසීලන්ත---ශ්‍රී-ලංකා-පළමු-එක්දින-ක්‍රිකට්-තරගය-අද/9-413012) · `si`
+
+Sri Lanka vs New Zealand ODI match today at Dambulla International Cricket Stadium.
+
+🟩
+
+The first one-day match between Sri Lanka and the Sri Lankan team will be held today (13) at the Dambulla International Cricket Stadium.
+
+◼️
+
+[Data](articles/24ef4ffe.json)
+
+[Extended Data](ext_articles/24ef4ffe.ext.json)
+
+---
+
+### Voting boxes for 137 polling stations in Mullaitivu
+
+*2024-11-13 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198552) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Voting boxes sent to 137 polling stations in Mullaitivu for presidential election. 432 candidates contesting 6 MP seats. 86,889 voters eligible. 1653 officials and 500 police on duty."
+
+🟩
+
+Voting boxes for 137 polling stations for the presidential election in the Mullaitivu district have been sent from the Mullaitivu Maha Vidyalaya.
+
+These votes have been sent to 137 polling stations set up in the Mullaitivu district for the election to elect six MPs in the Vanni electorate.
+
+The Elections Commission has announced that 432 candidates will contest the Vanni electoral seat as a total of 23 parties and 25 independent groups.
+
+Voting boxes have been sent from the Mullaitivu Maha Vidyalaya to 137 stations to vote for 86,889 voters in the Mullaitivu district on Wednesday (13).
+
+It is noteworthy that 1653 state officials were on duty in the election and 500 policemen were on duty.
+
+◼️
+
+[Data](articles/adeac6e0.json)
+
+[Extended Data](ext_articles/adeac6e0.ext.json)
+
+---
+
+### All measures for the general election are completed in Batticaloa
+
+*2024-11-13 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198561) · `ta`
+
+Batticaloa election preparations complete: 6,750 officials deployed, 442 polling stations set up, 218 violations reported, massive violence avoided, legal actions taken against violators, 1,900 police and 87 special monitors deployed for security.
+
+🟩
+
+All activities for the general election have been completed. Batticaloa District Government Agent and Electoral Officer Mrs. JJ Muralitharan said that there were no incidents of violence in the Batticaloa district.
+
+During a media briefing held at the Old District Secretariat in Batticaloa on Tuesday (12), he made this comment on the election situation in the district.
+
+All measures have been completed for the general election to be held in the Batticaloa district. 6,750 government officials in the district are on duty.
+
+442 polling stations have been set up in the district.Batticaloa Hindu College has been set up as a polling station. There are 46 voting centers set up here.
+
+...
+
+[Data](articles/bd4795b1.json)
+
+[Extended Data](ext_articles/bd4795b1.ext.json)
+
+---
+
+### Today's case against the Nuwara Eliya Post Office
+
+*2024-11-13 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198556) · `ta`
+
+Nuwara Eliya Post Office case summary: Case #40/2024 to be heard at Colombo Court of Appeal on Wednesday, Room 302.
+
+🟩
+
+The case against the Nuwara Eliya Post Office will be held at the Colombo Court of Appeal on Wednesday (13).
+
+This case is the case number in the Court of Appeal in Room No. 302. Sri Lanka Postal Service Association President Jagath Mahinda said that he will be investigated under 40/2024.
+
+◼️
+
+[Data](articles/1cc89d42.json)
+
+[Extended Data](ext_articles/1cc89d42.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 11:12:42**
+As of **2024-11-13 10:41:36**
 
 ## Newspaper Stats
 
-*Scraped **54,540** Articles*
+*Scraped **54,531** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,135 +16,25 @@ islandlk | 3,265
 economynextcom | 3,303
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,104
+adalk | 5,103
 adaderanalk | 6,504
-tamilmirrorlk | 7,634
-virakesarilk | 8,855
+tamilmirrorlk | 7,630
+virakesarilk | 8,851
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,534 (100.0%) of 54,540 articles have been extended.
+54,530 (100.0%) of 54,531 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
 
-### அவதூறான வீடியோ பதிவு தொடர்பில் முறைப்பாடு
-
-*2024-11-13 10:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவதூறான-வீடியோ-பதிவு-தொடர்பில்-முறைப்பாடு/175-347053) · `ta`
-
-தேசிய மக்கள் சக்தியின் வேட்பாளர் பிர்தௌஸ் நளீமிக்கு எதிராகவும் பிரதமர் ஹரிணி அமரசூரிய தொடர்பிலும் காத்தான்குடியின் பிரமுகர்கள் சிலர் தொடர்பாகவும் வெளியிடப்பட்ட வீடியோ பதிவு தொடர்பாக பிர்தௌஸ் நளீமியினால் செவ்வாய்க்கிழமை(12)  இரவு காத்தான்குடி பொலிஸ் நிலைய குற்றப் புலனாய்வுப் பிரிவில் முறைப்பாடு செய்யப்பட்டுள்ளது.
-
-குறித்த வீடியோவை தயாரித்தவர்கள்,  சமூக வலைத்தளங்களில் பதிவேற்றியவர்கள், பகிர்ந்தவர்கள் தொடர்பில் ஆதாரங்களுடன்  முறைப்பாடு பதிவு செய்யப்பட்டுள்ளது.
-
-இதனைத் தொடர்ந்து பொலிஸ் குற்றப் புலனாய்வுப் பிரிவினர் மற்றும்  கணினி குற்றப் புலனாய்வுப் பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ள நிலையில், தனது சட்டத்தரணிகள் ஊடாக விரைவில் சட்ட நடவடிக்கை எடுக்கவுள்ளதாகவும் பிர்தௌஸ் நளீமி தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/96c7dad3.json)
-
----
-
-### மட்டக்களப்பு மாவட்டத்தில் வாக்களிப்பு நிலையங்களுக்கு வாக்குப் பெட்டிகள் அனுப்பி வைப்பு
-
-*2024-11-13 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198563) · `ta`
-
-இலங்கையின் பாராளுமன்ற பொதுத் தேர்தல் நாளை நடைபெறவுள்ள நிலையில் மட்டக்களப்பு மாவட்டத்தில் வாக்களிப்பு நிலையங்களுக்கு வாக்குப் பெட்டிகளை கொண்டு செல்லும் நடவடிக்கைகள் இன்று புதன்கிழமை (13) காலை முதல் முன்னெடுக்கப்பட்டுவருகிறது.
-
-மட்டக்களப்பு இந்துக்கல்லூரியில் அமைக்கப்பட்டுள்ள பிரதான தேர்தல் அலுவலகத்தில் இருந்து இன்றையதினம்  காலை முதல் வாக்கு பெட்டிகள் வாக்களிப்பு நிலையங்களுக்கு அனுப்பும் நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளது.
-
-மட்டக்களப்பு மாவட்ட அரசாங்க அதிபரும் மாவட்ட தெரிவித்தாட்சி அலுவலகருமான திருமதி ஜே.ஜஸ்ரீனா முரளிதரன் தலைமையில் இந்த வாக்குப்பெட்டிகள் விநியோகம் செய்யும் நடவடிக்கைகள் முன்னெடுக்கப்பட்டு வருகிறது.
-
-இன்றைய தினம் தேர்தல் கடமைகளுக்காக சுமார் 300க்கும் அதிகமான வாகனங்கள் போக்குவரத்துக்காக பயன்படுத்தப்பட்டுள்ளதாக மாவட்ட தேர்தல் அலுவலகம் தெரிவித்துள்ளது.
-
-...
-
-[Data](articles/73d92cc0.json)
-
----
-
-### தமிழ் மக்கள் இம்முறையும் ஒரு தேசமாக திரண்டு தமிழ்தேசிய இனத்தின் நலனை முன்னிலைப்படுத்தி வாக்களிக்கவேண்டும்- கனடிய தமிழர் தேசிய அவை
-
-*2024-11-13 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198562) · `ta`
-
-தமிழ் மக்கள் இம்முறையும் ஒரு தேசமாக திரண்டு தமிழ்தேசிய இனத்தின் நலனை முன்னிலைப்படுத்தி வாக்களிக்கவேண்டும் என கனடிய தமிழர் தேசிய அவை வேண்டுகோள் விடுத்துள்ளது.
-
-தமிழ் மக்கள் வழக்கமாக காலம்காலமாக இடம்பெற்றுவரும் தேர்தல்களில் தனிமனித நலனை முன்னிலைப்படுத்தாது தமிழ் தேசிய இனத்தின் கூட்டு நலனை முன்னிலைப்படுத்தி தமது வாக்குகளை செலுத்தி தமது பிரதிநிதிகளை தேர்ந்தெடுத்து வந்திருக்கின்றார்கள்.
-
-அதேபோன்று நவம்பர் 14ம் திகதி நடைபெறவுள்ள ஸ்ரீலங்காவின் பாராளுமன்ற தேர்தலில் தமிழ்மக்கள் ஒரு தேசமாக திரண்டு 75வருடங்களிற்கு மேலாக இடம்பெற்றுவரும் மாபெரும் வீரமும் உயரிய தியாகமும் நிறைந்த விடுதலைப்போராட்டத்திற்கும் மத்தியில் இன்றும் ஓயாது தொடர்ந்துகொண்டிருக்கும் தமிழ் மக்களின் உரிமைக்கான பயணத்திற்கு வலுச்சேர்ப்பார்கள் என எதிர்பார்க்கன்றோம்.
-
-தமிழ் மக்கள் வழக்கமாக காலம்காலமாக இடம்பெற்றுவரும் தேர்தல்களில் தனிமனித நலனை முன்னிலைப்படுத்தாது தமிழ் தேசிய இனத்தின் கூட்டு நலனை முன்னிலைப்படுத்தி தமது வாக்குகளை செலுத்தி தமது பிரதிநிதிகளை தேர்ந்தெடுத்து வந்திருக்கின்றார்கள்.
-
-...
-
-[Data](articles/faecfede.json)
-
----
-
-### Preparation ....
-
-*2024-11-13 10:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/வாக்குப்பெட்டிகள்-கொண்டுசெல்லும்-நடவடிக்கை-ஆரம்பம்/46-347051) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"General election preparations underway: Voting boxes and officials are being transported to polling stations nationwide for Thursday's vote."
-
-🟩
-
-Voting boxes and officials for the general election, which will be held on Thursday (14) across the country, are being carried out to polling stations.
-
-◼️
-
-[Data](articles/21627fd2.json)
-
-[Extended Data](ext_articles/21627fd2.ext.json)
-
----
-
-### முன்னேற்பாடு....
-
-*2024-11-13 10:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/முன்னேற்பாடு/46-347051) · `ta`
-
-நாடளாவிய ரீதியில் வியாழக்கிழமை (14) இடம்பெறவுள்ள பொதுத் தேர்தலுக்கான வாக்கு பெட்டிகளையும் அதிகாரிகளையும் வாக்களிப்பு நிலையங்களுக்கு அனுப்பும் செயற்பாடுகள் முன்னெடுக்கப்பட்டு வருகின்றன.
-
-◼️
-
-[Data](articles/b3a55850.json)
-
----
-
-### Name of candidate list;Complaint
-
-*2024-11-13 10:44:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-பட்டியலில்-பெயர்-பெண்-முறைப்பாடு/175-347050) · `ta`
-
-Candidate list controversy: Woman's name added without consent in Jaffna election. She filed a complaint with the Election Commission and contacted the District Election Department.
-
-🟩
-
-Jaffna in the upcoming parliamentary election. A woman has lodged a complaint with the Election Commission that an independent committee contesting in the electoral district has mentioned her name on the list of candidates.
-
-“An independent group mentioned my name on the list of candidates without his permission. I have not been able to know this so far. Yesterday, a student of my student took me a phone call and contest the election?When I questioned, it was revealed that my name had come to the list.
-
-Jaffna to ensure that. I have confirmed that it is my name for the District Election Department office on Tuesday and that my name is included in the candidate list without my permission. ”
-
-In this regard, Jaffna. I have appealed to the District Assistant Election Commissioner in writing. ”
-
-◼️
-
-[Data](articles/d5df0d7c.json)
-
-[Extended Data](ext_articles/d5df0d7c.ext.json)
-
----
-
 ### Voting boxes for 137 polling stations in Mullaitivu
 
-*2024-11-13 10:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198552) · `ta`
+*2024-11-13 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198552) · `ta`
 
 Here's a summary of the text in approximately 200 characters:
 
@@ -169,38 +59,6 @@ It is noteworthy that 1653 state officials were on duty in the election and 500 
 [Data](articles/adeac6e0.json)
 
 [Extended Data](ext_articles/adeac6e0.ext.json)
-
----
-
-### பொதுத் தேர்தலுக்கான சகல நடவடிக்கைகளும் மட்டக்களப்பில் பூர்த்தி
-
-*2024-11-13 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198561) · `ta`
-
-பொதுத் தேர்தலுக்கான சகல நடவடிக்கைகளும் பூர்த்தி செய்யப்பட்டுள்ளன. வன்முறை சம்பவங்கள் எதுவும் மட்டக்களப்பு மாவட்டத்தில் பதியப்படவில்லை, பாதுகாப்பு பணிகளில் முப்படையினரும்  ஈடுபட்டுள்ளனர் என மட்டக்களப்பு மாவட்ட அரசாங்க அதிபரும் தெரிவத்தாட்சி அதிகாரியுமான திருமதி ஜேஜே முரளிதரன் தெரிவித்துள்ளார்.
-
-செவ்வாய்கிழமை(12) மட்டக்களப்பு பழைய மாவட்ட செயலகத்தில் இடம்பெற்ற ஊடக சந்திப்பின் போது மாவட்டத்தில் தேர்தல் கள நிலவரம் சம்பந்தமாக இவ்வாறு கருத்து தெரிவித்தார்.
-
-மட்டக்களப்பு மாவட்டத்தில் இடம்பெற உள்ள பொதுத் தேர்தலுக்கான சகல நடவடிக்கைகளும் பூர்த்தி செய்யப்பட்டுள்ளன. இதற்காக மாவட்டத்தில் 6,750 அரச அதிகாரிகள் கடமையில் ஈடுபட உள்ளனர்.
-
-மாவட்டத்தில் 442 வாக்களிப்பு நிலையங்கள் அமைக்கப்பட்டுள்ளன.  வாக்கு எண்ணும் நிலையமாக மட்டக்களப்பு இந்துக்கல்லூரி அமைக்கப்பட்டுள்ளது. இங்கு 46  வாக்கு எண்ணும் நிலையங்கள் அமைக்கப்பட்டுள்ளன.
-
-...
-
-[Data](articles/bd4795b1.json)
-
----
-
-### நுவரெலியா அஞ்சல் அலுவலகத்தை விற்கும் நடவடிக்கைக்கு எதிரான வழக்கு விசாரணை இன்று
-
-*2024-11-13 10:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198556) · `ta`
-
-நுவரெலியா அஞ்சல் அலுவலகத்தை விற்பனை செய்ய மேற்கொண்ட நடவடிக்கைக்கு எதிரான வழக்கு விசாரணை இன்று புதன்கிழமை (13) கொழும்பு மேன்முறையீட்டு நீதிமன்றத்தில் இடம்பெறவுள்ளது.
-
-இந்த வழக்கானது மேன்முறையீட்டு நீதிமன்றத்தில் அறை எண் 302 இல் வழக்கு எண். 40/2024 இன் கீழ் விசாரணை செய்யப்படவுள்ளதாக இலங்கை அஞ்சல் சேவை சங்கத்தின் தலைவர்  ஜகத் மஹிந்த தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/1cc89d42.json)
 
 ---
 
@@ -1304,38 +1162,6 @@ The Sri Lankan players will receive the most important advice from Neil McCensi 
 
 ---
 
-### The polls vote in the polling fair if a disruptive act
-
-*2024-11-12 18:32:59* · [`adalk`](https://www.ada.lk/breaking_news/කඩාකප්පල්කාරී-ක්‍රියාවක්-සිදු-වුවහොත්-එම-ඡන්ද-පොළේ-ඡන්දය-ශුන්‍යයි/11-413007) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Polls open despite disruption. Election commission reports zero turnout due to unrest. Security forces deployed to maintain order. Armed forces on standby for emergencies. Officials must report for duty or cancel appointments. Postal votes counted at 2 PM. Voters can cast ballots without official notice. Stay-at-home orders enforced near polling stations. Balloon lighting gatherings prohibited; security forces may disperse or arrest violators.
-
-🟩
-
-The Elections Commission states that the voter turnout is to zero after a disruption in the polling station on a day of election.
-
-It pointed out that the security forces have been instructed to implement the law and that the police and the STF have been deployed to protect peace.
-
-The Armed Forces are ready to call on any emergency and remain in the home after the election, and staying at home.
-
-All officials who have received appointments for election duties are required to report or cancel the appointment letters.
-
-If the appointment letters have been received, the appointment letters will be received, the election posts will be obtained from the post office, if the election office has not yet received the official voter papers.It also pointed out.
-
-It is said that the official ballot notification is not a compulsory requirement for voting and it can be voted with a ballot and to get a ballot.
-
-...
-
-[Data](articles/a1f4148c.json)
-
-[Extended Data](ext_articles/a1f4148c.ext.json)
-
----
-
 ### Massage affair: Bail for female candidate
 
 *2024-11-12 18:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மசாஜ்-விவகாரம்-பெண்-வேட்பாளருக்கு-பிணை/175-347017) · `ta`
@@ -1364,31 +1190,19 @@ The magistrate has issued the order by the Bambalapitiya police, following a com
 
 ---
 
-### Egg Rs. Will pass at 65 to 6
+### බිත්තරේ රු. 60ට 65ට යාවි
 
 *2024-11-12 18:27:37* · [`adalk`](https://www.ada.lk/breaking_news/බිත්තරේ-රු--60ට-65ට-යාවි/11-413006) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+හාල් මෝල් හිමියන් රයිස් පොලිස් මිල හා හුණුසහල් මිල තුන්ගුණයකින් වැඩිකිරීම නිසා කුකුළු ආහාර නිෂ්පාදනය කරගත නොහැකි පසුබිමක බිත්තරයක මිළ රුපියල් 60ක් 65ක් අතර ඉහළ යන ලකුණු පෙන්නුම් කරන බව සමස්ත ලංකා බිත්තර නිෂ්පාදකයන්ගේ සංගමයේ සභාපති සරත් රත්නායක මහතා පවසයි.
 
+ඒ මහතා මාධ්‍යයට විශේෂ ප්‍රකාශයක් කරමින් අද (11දා) ඒ බැව් පැවසීය.එහිදී අදහස් දැක්වූ රත්නායක මහතා මෙසේද කීවේය.
 
-
-Rice shortage affects egg production. Due to high rice costs, egg prices may exceed Rs. 60/kg. Rice mill owners blame rising prices on increased demand for animal feed and ethanol production.
-
-🟩
-
-Due to rice mill owners, rice police prices and limecurred prices in three times the prices of the entire Lanka Egg Manufacturers Association Chairman Sarath Ratnayake said.
-
-He said that he was speaking to the media by making a special statement today (11), Mr. Ratnayake said,
-
-"As we use 20 percent of the lives of animal food, rice using 30 percent of rice. Also, now, rice police and lime demand has increased to animal feed, rather than customers who consume rice. Also, rice increasingly demands the production of ethanol production. Rice prices are rising due to many reasons.
-
-Simultaneously the broken rice, shells herself rise to about three times. As a result, a kilo of food produced at Rs. 150 has come nearly around Rs. There was a daily product in a country that was self-sufficient in the eggs. About Rs.
+“සත්ව ආහාර නිෂ්පාදනයට අපි සියයට 20ක් හුණු සහල් භාවිත කරද්දී රයිස් පොලිස් සියයට 30ක් භාවිත කරනවා. ඒ වගේම දැන් වනවිට සහල් පරිභෝජනය කරන පාරිභෝගිකයන්ට වඩා සත්ව ආහාරවලට රයිස් පොලිස් හා හුණුසහල් ඉල්ලුම වැඩිවෙමින් තියනවා. ඒ  වගේම සහල් වැඩිවශයෙන් එතනෝල් නිෂ්පාදනයට මහා පරිමාණයෙන් ඉල්ලනවා. හේතු රැසක් නිසා මේ දිනවල සහල් මිල ඉහළ යනවා.
 
 ...
 
 [Data](articles/c0e3cf23.json)
-
-[Extended Data](ext_articles/c0e3cf23.ext.json)
 
 ---
 
@@ -2347,5 +2161,237 @@ After considering the facts, the panel of judges issued to be called on July 29 
 [Data](articles/1574e114.json)
 
 [Extended Data](ext_articles/1574e114.ext.json)
+
+---
+
+### Court order on a gazette notification issued by the government
+
+*2024-11-12 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203180) · `si`
+
+Supreme Court extends Wildlife Ministry injunction on prawn farm. Gazette notification released 168 acres Vedithalthivu Forest Reserve. Government reviews notification. Wildlife Security Society, Environment Justice Center present petitions against former Wildlife Minister.
+
+🟩
+
+The Supreme Court has extended the interim injunction order issued by the Wildlife Ministry to create a prawn farm.
+
+A gazette notification has been issued to release 168 acres from the Vedithalthivu Forest Reserve forest area.
+
+S. Turairaja, A. HMD. The petition has been convened today before the Supreme Court Bench, the Supreme Court Bench, which is accompanied by Nawaz and Janak de Silva.
+
+Deputy Solicitor General, Fastly General, appearing on behalf of the Attorney General, said the new government has decided to review this gazette notification.
+
+Accordingly, the Deputy Solicitor General has asked the court to give the next step in notifying the following steps.
+
+These petitions were presented by the Wildlife Security Society and the Environment Justice Center.
+
+Former Wildlife Minister, including the Minister, has been named as respondents.
+
+◼️
+
+[Data](articles/a91d11e1.json)
+
+[Extended Data](ext_articles/a91d11e1.ext.json)
+
+---
+
+### The demand of the people's uprising from Pottuvil to Polikandi
+
+*2024-11-12 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198514) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamil people demand self-determination. Sri Lankan election Nov 14 imposes Tamil Eelam issue. Tamil nationalism unity needed. Reject Sinhalese communal parties like JVP. Left parties oppose Tamil self-rule. Vote for Tamil unity candidates. Universal referendum key to permanent solution.
+
+🟩
+
+The solution to the ethnic problem of the Tamil people will be permanent by the use of our self -determination.
+
+Therefore, the people's upgrading movement has called for the use of the Tamil people's votes to use the unity of the Tamil nationalism and the strength of the Tamil people.
+
+The Sri Lankan parliamentary election is scheduled for November 14. While this is an election that will decide its power, this election has been imposed on the Tamil Eelam.
+
+While the Sri Lankan Parliament does not provide any solution to the political issue of the Tamil people, we are in a compulsion to ensure our representation. Similarly, there is a need for the Tamil people to express our political position.
+
+Sri Lanka's chauvinist parties are just as the saints of the Tamil people, and the Tamil people are demanding a mystery, especially the younger society, as there is no political issue for the Tamil people.
+
+...
+
+[Data](articles/c95fbd14.json)
+
+[Extended Data](ext_articles/c95fbd14.ext.json)
+
+---
+
+### "Dick Tok" love;Pupilism
+
+*2024-11-12 16:11:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்-டொக்-காதல்-மாணவி-பாலியல்-வன்கொடுமை/175-347011) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"14-year-old girl from Anuradhapura learns via 'Dick Tok'. Raped by Ratnapura youth. Police investigate after Chancellor complaint. Girl sent naked photos to suspect. Police summon suspect from Kurunegala."
+
+🟩
+
+A 14 -year -old schoolgirl from Alaiyapattu area of ​​Anuradhapura, who was learning through the "Dick Tok" website, has been raped by a youth from Ratnapura, a youth from Ratnapura has been raped.
+
+Investigations have begun based on the complaint made by the Chancellor that the student went to school the next day without going to school.
+
+The student has been in love with a young man who has learned through the "Dick Tok" website and sent his naked photos to the young man.
+
+Further investigations are being carried out by the police that the young man who threatened to publish the photos to the homepage has been summoned to the Kurunegala area.
+
+◼️
+
+[Data](articles/5c0ca881.json)
+
+[Extended Data](ext_articles/5c0ca881.ext.json)
+
+---
+
+### Sri Lanka’s CEB restructure faces execution risk, BB+(lka) rating confirmed: Fitch
+
+*2024-11-12 15:54:00* · [`economynextcom`](https://economynext.com/sri-lankas-ceb-restructure-faces-execution-risk-bblka-rating-confirmed-fitch-187020/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s state-run Ceylon Electricity Board’s re-structuring faces execution risk, Fitch Ratings said, while confirming its ‘BB+(lka) rating on expected state support.
+
+“The new Electricity Act includes provisions to unbundle CEB’s generation, transmission and distribution into separate entities,” Fitch said.
+
+“We believe the unbundling will improve CEB’s efficiency and competitiveness. The utility is already preparing separate financials, maintains separate bank accounts and is in the process of allocating assets and liabilities for the three units.
+
+“However, we believe the restructuring faces execution risk and may be contingent on the outcome of Sri Lanka’s general election on 14 November.”
+
+A deviation from cost reflective tariffs is risk to the CEB’s balance sheet.
+
+“CEB has operated on a cost-reflective tariff mechanism since June 2023, which is revised quarterly to ensure operating costs are covered,” Fitch said.
+
+...
+
+[Data](articles/76ed2d7a.json)
+
+[Extended Data](ext_articles/76ed2d7a.ext.json)
+
+---
+
+### Notice on issuing exam certificates
+
+*2024-11-12 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103358/notice-on-issuing-exam-certificates) · `en`
+
+The Department of Examinations has issued a special notice regarding the issuance of exam certificates.
+
+Accordingly, the department announces that the issuing of exam certificates will not be carried out on November 14 due to the departmental staff being deployed for election duties.
+
+Furthermore, the examination department stated that all service counters and the online service will not be operational on Thursday (14).
+
+◼️
+
+[Data](articles/53010031.json)
+
+[Extended Data](ext_articles/53010031.ext.json)
+
+---
+
+### Another intervention for the child
+
+*2024-11-12 15:38:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிள்ளையானுக்கு-மற்றுமொரு-தலையிடி/175-347009) · `ta`
+
+Tamil LTTE press conference blocked by Election Dept over transparency concerns
+
+🟩
+
+A press conference organized by the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) on Tuesday (12) has been blocked by the Department of Elections.
+
+A media briefing was organized by Sivanesathurai Chandrakanthan, the leader of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE) and the parliamentary election candidate.
+
+The media meeting has been blocked by the Department of Elections Department officials on the basis of a complaint lodged by the Assistant Elections Officer of the Transparency International Organization for the National Elections Elections and Elections Division.
+
+The Tamil People's Liberation Tigers of Tamil Eelam (LTTE) was organized by a media briefing on contrary to the elections as all the parliamentary election campaigns ended on Monday (11).
+
+◼️
+
+[Data](articles/ffd1bdd2.json)
+
+[Extended Data](ext_articles/ffd1bdd2.ext.json)
+
+---
+
+### US Special Envoy for Global Youth Issues arrives in Sri Lanka
+
+*2024-11-12 15:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103357/us-special-envoy-for-global-youth-issues-arrives-in-sri-lanka) · `en`
+
+The U.S. Department of State’s Special Envoy for Global Youth Issues, Abby Finkenauer, has arrived in Sri Lanka on Tuesday (12) for an official visit.
+
+“Proud to welcome US Special Envoy for Global Youth Issues Abby Finkenauer to Sri Lanka! Her work as an advocate for youth voices around the world highlights the incredible role young people play in shaping a brighter future here.”
+
+“Our U.S.-Sri Lanka partnership is committed to empowering youth as leaders in areas that truly matter—from economic growth to environmental sustainability,” the U.S. Ambassador to Sri Lanka Julie Chung posted on ‘X’.
+
+The U.S. Department of State had announced that Special Envoy Abby Finkenauer, will travel to Sri Lanka and Nepal from November 12-15, 2024.
+
+This visit highlights the United States’ commitment to empowering young leaders in South Asia, fostering collaboration on civic engagement, and addressing key issues such as youth leadership, cultural preservation, and community resilience, the statement said.
+
+...
+
+[Data](articles/1efe18ac.json)
+
+[Extended Data](ext_articles/1efe18ac.ext.json)
+
+---
+
+### Ministry at Ministry at Ministry at Ministry Question Paper
+
+*2024-11-12 15:27:03* · [`adalk`](https://www.ada.lk/breaking_news/සමාජයේ-කතාබහට-ලක්වූ-විභාග-ප්‍රශ්න-පත්‍රය-ගැන-අමාත්‍යාංශ-මට්ටමින්-පරීක්ෂණයක්/11-412994) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Education Ministry orders probe into controversial exam paper. Education Secretary Thilaka Jayasundara instructs officials to investigate. Minister denies involvement in paper preparation.
+
+🟩
+
+The second period in the second period of the CWW W.KL Kindara Central College, Kalutara District has been instructed to initiate an experimental inquiry into the Ministry of General Testing.
+
+The Secretary of Education, Science and Technology Secretary Thilaka Jayasundara has instructed the relevant officials.
+
+The Secretary to the Ministry said that this question paper has been prepared in the society and has no involvement at the ministry or institutional level.
+
+◼️
+
+[Data](articles/9844ff8a.json)
+
+[Extended Data](ext_articles/9844ff8a.ext.json)
+
+---
+
+### Special investigation into political form
+
+*2024-11-12 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203178) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Ministry of Education launches probe into political content in exam papers. Investigation focuses on Kannangara Central College's General Testing Committee. Measures will be taken after formal inquiry concludes.
+
+🟩
+
+The Ministry of Education states that an accelerated investigation has been launched at the ministry level regarding the political strides in the school term examination paper.
+
+Thilaka Jayasundara said that the Secretary to the Ministry of Education, Science, Science and Technology, said that the relevant officials have already advised the relevant officials.
+
+Kalutara District. W. W. The investigation is held in relation to the average public investigation into the General Testing Committee on Kannangara Central College.
+
+The Secretary said that the meeting has been prepared in society and has been prepared by the Ministry's level or any other institutional level or other institutional level.
+
+After a formal investigation conducted at the ministry level, measures will be taken in this regard.
+
+◼️
+
+[Data](articles/79c766c7.json)
+
+[Extended Data](ext_articles/79c766c7.ext.json)
 
 ---

@@ -1,36 +1,174 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 08:44:29**
+As of **2024-11-13 10:00:40**
 
 ## Newspaper Stats
 
-*Scraped **54,521** Articles*
+*Scraped **54,529** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 556
-bbccomsinhala | 556
+bbccomsinhala | 557
 islandlk | 3,264
 economynextcom | 3,303
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,101
+adalk | 5,102
 adaderanalk | 6,504
-tamilmirrorlk | 7,628
-virakesarilk | 8,847
+tamilmirrorlk | 7,630
+virakesarilk | 8,851
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,521 (100.0%) of 54,521 articles have been extended.
+54,525 (100.0%) of 54,529 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### முல்லைத்தீவில் 137 வாக்களிப்பு நிலையங்களுக்குமான வாக்குப் பெட்டிகள் அனுப்பி வைப்பு
+
+*2024-11-13 09:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198552) · `ta`
+
+முல்லைத்தீவு மாவட்டத்தில் நடைபெறவுள்ள ஜனாதிபதி தேர்தலுக்கான 137 வாக்களிப்பு நிலையங்களுக்குரிய வாக்கு பெட்டிகள் முல்லைத்தீவு மகாவித்தியாலயத்தில் இருந்து அனுப்பி வைக்கப்பட்டுள்ளது.
+
+வன்னி தேர்தல் தொகுதியில் 6 பாராளுமன்ற உறுப்பினர்களை தெரிவு செய்வதற்கான தேர்தலுக்காக முல்லைத்தீவு மாவட்டத்தில் அமைக்கப்பட்டுள்ள 137 வாக்களிப்பு நிலையங்களிற்கே இவ் வாக்கு பெட்டிகள் அனுப்பி வைக்கப்பட்டுள்ளன.
+
+23 கட்சிகளும், 25 சுயேட்சை குழுக்களுமாக மொத்தமாக இம்முறை வன்னி தேர்தல் தொகுதியில் 432 வேட்பாளர்கள் போட்டியிடவுள்ளதாக தேர்தல்கள் ஆணைக்குழு அறிவித்துள்ளது.
+
+முல்லைத்தீவு மாவட்டத்தில் 86,889 வாக்காளர்கள் வாக்களிக்க தகுதி பெற்றுள்ள நிலையில் அவர்கள் வாக்களிப்பதற்குரிய 137 நிலையங்களுக்கும் முல்லைத்தீவு மகாவித்தியாலயத்தில் இருந்து இன்று புதன்கிழமை (13) காலை 7 மணி முதல் வாக்கு பெட்டிகள் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+குறித்த தேர்தலில் 1653 அரச உத்தியோகத்தர்கள் கடமையில் ஈடுபட்டுள்ளதுடன் 500 பொலிசாரும் பாதுகாப்பு கடமையில் ஈடுபட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/adeac6e0.json)
+
+---
+
+### துப்பாக்கிகளை ஒப்படைக்குமாறு முன்னாள் எம்பிகளுக்கு அறிவிப்பு!
+
+*2024-11-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198551) · `ta`
+
+முன்னாள் பாராளுமன்ற உறுப்பினர்கள், மாகாண சபைகள் மற்றும் அரசியல் கட்சித் தலைவர்கள், அரசியல் அமைப்புகள் மற்றும் அரசு நிர்வாகிகள் ஆகியோரின் தற்பாதுகாப்புக்காக வழங்கப்பட்ட துப்பாக்கிகள் மற்றும் வெடிபொருட்களை டிசம்பர் மாதம்  30  ஆம் திகதிக்குள் ஒப்படைக்குமாறு பாதுகாப்பு அமைச்சு அறிவித்துள்ளது.
+
+குறித்த காலப்பகுதிக்குள் அவைகளை அருகில் உள்ள பொலிஸ் நிலையத்தில் ஒப்படைக்குமாறு பாதுகாப்பு அமைச்சு  வெளியிட்டுள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+மேலும், இவ்வாறு வழங்கப்பட்ட துப்பாக்கிகளை பெற்ற நபர்களின் பெயர் பட்டியல் இலங்கை பொலிஸாரிடம் உள்ளதாகவும் தெரிவிக்கப்படுகிறது.
+
+பட்டியலில் குறிப்பிடப்பட்டுள்ள நபர்களின் பெயர்கள் குறித்து விசாரித்து துப்பாக்கிகளை பொலிஸ் காவலில் எடுக்க அனைத்து பொலிஸ் நிலைய பொறுப்பதிகாரிகளுக்கும் அறிவுறுத்தப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/81599328.json)
+
+---
+
+### Demanding
+
+*2024-11-13 09:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளடியை-மாத்திரம்-பயன்படுத்துமாறு-கோரிக்கை/175-347046) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Elections Commission Chairman RMAL Ratnayake emphasizes proper voting methods for tomorrow's general election. He states that only valid votes should be counted, using the appropriate method as required.
+
+🟩
+
+RMAL Ratnayake, Chairman of the Elections Commission, said that when voting in the general election to be held tomorrow, only the point was used.
+
+However, the point should be used only when voting and voting votes in the general election to be held tomorrow.
+
+The Chairman of the Elections Commission, RMAL, demands that voters should be converted into a valid vote that follows the appropriate method.. Ratnayake said. Remble
+
+◼️
+
+[Data](articles/7ba3648d.json)
+
+[Extended Data](ext_articles/7ba3648d.ext.json)
+
+---
+
+### Pussellawa
+
+*2024-11-13 09:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198550) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Wasps attack plantation workers in Pussella-Melbatwatta. One worker killed, six injured. Three hospitalized, including one who died untreated. Four others treated locally. Police investigating incident.
+
+🟩
+
+One person was killed when a wasps were dumped on plantation workers who were working in Pussella - Melbatwatta.
+
+Six persons who were targeted for the wasps were admitted to the Gampola Hospital after being admitted to the Gampolai Hospital, a man died without treatment, police said.
+
+In addition, another person who is targeted for the wasp is receiving treatment at the Gampola hospital and four other people have been treated for treatment, police said.
+
+◼️
+
+[Data](articles/bc9a8466.json)
+
+[Extended Data](ext_articles/bc9a8466.ext.json)
+
+---
+
+### It is necessary for the government to consider the vast federalism
+
+*2024-11-13 09:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198549) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Government faces economic crisis; IMF assistance program controversial. New administration avoids abusing state resources for elections. Minority representation crucial post-conflict. Women's quotas debated. Terrorism Act divides Tamils/Muslims vs Sinhalese. Power devolution needed for national security and law reform.
+
+🟩
+
+Like everyone, the government knows that the economic crisis continues to be harshly embedded in the midst of the possibility of re -climbing. National experts and international experts have pointed out this as the International Monetary Fund has said that the country is on the knife.
+
+The action taken by the government in transporting the country through such a situation includes the action of the International Monetary Fund's assistance program.. Although the main opposition opposed the aid plan, the previous government negotiated and obtained it. The government also considered it a great success. Today's government is not involved in self -interest that can lead to massive costs, like the previous government.
+
+The government has expressed great admirable order and control by not abuse of state resources for election purposes. This shows that today's government leaders act as a law -abiding rule, unlike the previous leaders who considered themselves as law.
+
+...
+
+[Data](articles/e8e4950e.json)
+
+[Extended Data](ext_articles/e8e4950e.ext.json)
+
+---
+
+### Take these things ...
+
+*2024-11-13 08:57:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கட்டாயம்-இவற்றை-எடுத்துச்-செல்லுங்கள்/175-347042) · `ta`
+
+Sri Lanka's 10th Parliament election: 8,888 candidates, 71 lakh voters. Voter card optional; identity document accepted.
+
+🟩
+
+The general election will be held tomorrow (14) to elect members for the 10th Parliament of Sri Lanka.
+
+8,888 candidates are contesting in this election and the number of voters qualified to vote is 71 lakhs 40,354.
+
+If the voter card is not available and registered in the voter list, it has been announced to take the identity document.
+
+◼️
+
+[Data](articles/d9353059.json)
+
+[Extended Data](ext_articles/d9353059.ext.json)
+
+---
 
 ### Special Transport Services
 
@@ -99,6 +237,22 @@ The Department of Meteorology has said that there will be rains in the Northern 
 [Data](articles/28e66f26.json)
 
 [Extended Data](ext_articles/28e66f26.ext.json)
+
+---
+
+### ගෝලීය වනජීවී ජාවාරමේ කේන්ද්‍රස්ථානයක් බවට ශ්‍රී ලංකාව පත් වූයේ කෙසේ ද?
+
+*2024-11-13 03:42:51* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c89v17847njo) · `si`
+
+ගෝලීය වනජීවී ජාවාරමේ කේන්ද්‍රස්ථානයක් බවට ශ්‍රී ලංකාව පත් වූයේ කෙසේ ද?
+
+''කොළඹ වරාය හරහා හොංකොං යවන්න සැලසුම් කර තිබු ලෝකයේ මිල අධිකම 'රෝස් වුඩ්' අඩංගු කන්ටේනර් 28ක් අපි අත්අඩංගුවට ගත්තා. ඒ වැටලීමෙන් දවස් දෙකකට පසු මම කාර්යාලයට යන විට ලෝකයේ සුපිරි ධනවතුන් තුන් දෙනෙක් ඇවිත් හිටියා. ඒ, අපිට බලපෑම් කරලා කන්ටේනර් නිදහස් කර ගන්න පුළුවන් ද බලන්න.''
+
+BBC සිංහල සේවයට ඉහත ප්‍රකාශය කළේ ශ්‍රී ලංකා රේගුවේ, ජෛව විවිධත්ව ආරක්ෂණ ඒකකයේ හිටපු ප්‍රධානී සමන්ත ගුණසේකර විසිනි. ශ්‍රී ලංකාව හරහා සිදුවන ගෝලීය 'රෝස් වුඩ්'  ජාවාරම සහ ඇත් දල ජාවාරම ඇතුළු පසුගිය කාලයේ ඔහුගේ ප්‍රධානත්වයෙන් සිදු වූ වැටලීම් රැසක් ගැන ලෝකයේ අවධානය යොමු විය. වසර 30කට අධික කාලයක් විමර්ශන නිලධාරියෙකු ලෙස වෘත්තීය අත්දැකීම් ඇති ඔහු පවසන්නේ ගෝලීය වනජීවි ජාවාරම සඳහා ව්‍යාජ ලේඛන සකස් කිරීමට ඇතැම් රටවල ප්‍රමුඛ පෙළේ රාජ්‍ය ආයතන සහ රජයන් ද ක්‍රියා කරන බව ය.
+
+...
+
+[Data](articles/a13594f4.json)
 
 ---
 
@@ -1069,6 +1223,22 @@ It is noteworthy that the questionnaire includes many questions about the Nation
 [Data](articles/a42bee71.json)
 
 [Extended Data](ext_articles/a42bee71.ext.json)
+
+---
+
+### මේ වසරේදී ඉන්දීය ධීවරයින් 497ක් අල්ලයි
+
+*2024-11-12 18:13:37* · [`adalk`](https://www.ada.lk/breaking_news/මේ-වසරේදී-ඉන්දීය-ධීවරයින්-497ක්-අල්ලයි/11-413005) · `si`
+
+මේ  වර්ෂයේ ජනවරි 01 වැනි දින සිට ඊයේ (12දා) දක්වා කාලයෙහිදී නාවික හමුදාව විසින් සිදු කළ මෙහෙයුම්වලදී මෙරට මුහුදු සීමාවෙහි අනවසර ධීවර කටයුතු සිදු කළ ඉන්දීය ධීවර යාත්‍රා හැට හයක් සහ ඉන්දීය ධීවරයන් හාරසිය අනූ හත්දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+නාවික හමුදාව ඊයේ දින  යාපනය, චූණ්ඩිකුලම් ප්‍රදේශයට ඔබ්බෙන් වූ මෙරට මුහුදු ප්‍රදේශයේ සිදු කළ විශේෂ සෝදිසි මෙහෙයුමක් මඟින්,  ඉන්දීය ධීවර යාත්‍රාවක් සමඟ ඉන්දීය ධීවරයන් දොළොස් දෙනෙකු අත්අඩංගුවට ගෙන ඇත.
+
+විදේශීය ධීවර යාත්‍රා මෙරට මුහුදු සීමාව උල්ලංඝනය කරමින් සිදු කරන නීති විරෝධී ධීවර කටයුතු මැඩ පවත්වා දේශීය ධීවර ප්‍රජාවගේ ජීවනෝපාය රැකදීම වෙනුවෙන් නාවික හමුදාව නිරන්තර මෙහෙයුම් සිදු කරනු ලබන බවද නාවික හමුදා මූලස්ථානය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/8eb7b9b2.json)
 
 ---
 
@@ -2197,209 +2367,5 @@ Meanwhile, the voting boxes for the Nedundi Island will be taken by the officers
 [Data](articles/98032362.json)
 
 [Extended Data](ext_articles/98032362.ext.json)
-
----
-
-### Driver injured
-
-*2024-11-12 15:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வட்டவளையில்-பாரிய-விபத்து-சாரதி-படுகாயம்/76-347007) · `ta`
-
-Driver injured in SLTB bus accident. Head injury sustained while overtaking. Transferred to Navalapitiya Hospital. Buses damaged. Traffic police investigating.
-
-🟩
-
-The driver of the Sri Lanka Transport Board (SLTB) has been hit by a bus and a head injury.
-
-The driver, who was injured in the accident, has been transferred to the Navalapitiya Hospital for further treatment after being admitted to the Vattawala Hospital.
-
-The buses traveling from Hatton to Colombo and the Sri Lanka Transport Board (SLTB) belonging to the Basu, which was traveled from Ginigathena to Hatton, was trying to overtake Otto, who was traveling in front of Hatton.
-
-Hatton traffic police are conducting further investigations, claiming that the buses and the sky have been severely damaged.
-
-◼️
-
-[Data](articles/abfa79d4.json)
-
-[Extended Data](ext_articles/abfa79d4.ext.json)
-
----
-
-### TV Derana and Ada Derana honored with ‘Abhiman’ Awards for digital presence
-
-*2024-11-12 15:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103356/tv-derana-and-ada-derana-honored-with-abhiman-awards-for-digital-presence-) · `en`
-
-Sri Lanka’s premium entertainment channel, TV Derana, and its news arm, Ada Derana, garnered top honors at the “Abhiman” Awards 2024, organized by the Rotaract Club of the University of Kelaniya.
-
-Held at the Faculty of Computing and Technology Auditorium of the Kelaniya University on Monday (11), the event recognized the most influential digital content creators in Sri Lanka.
-
-TV Derana clinched the award for Most Popular TV Channel on YouTube, reflecting its dominant presence and engagement on the platform, while Ada Derana secured the award for Most Popular News YouTube Channel, underlining its significant role in digital news media.
-
-Adding to the night’s highlights, musician Suneera Sumanga, the winner of Derana Dream Star Season 7, received the Most Popular Cover Song on YouTube award for his song “Santhana Susum”.
-
-...
-
-[Data](articles/412dbb41.json)
-
-[Extended Data](ext_articles/412dbb41.ext.json)
-
----
-
-### Hague of the Department of Meteorology
-
-*2024-11-12 15:09:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வளிமண்டலவியல்-திணைக்களத்தின்-இணையதளம்-ஹேக்/175-347006) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Hague: A city in the Netherlands known for its historic center, canals, and windmills. It's also home to the International Court of Justice and the Peace Palace."
-
-🟩
-
-◼️
-
-[Data](articles/e33f07dc.json)
-
-[Extended Data](ext_articles/e33f07dc.ext.json)
-
----
-
-### A special notification issued by the Department of Examination
-
-*2024-11-12 15:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சை-திணைக்களம்-விடுத்துள்ள-விசேட-அறிவிப்பு/175-347005) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Exam certificates delayed: Department of Examinations notifies no issuance on Nov 14 due to employee deployment for 2024 parliamentary elections."
-
-🟩
-
-The Department of Examinations has announced that the exam certificates will not be issued on November 14.
-
-The department employees have been deployed for election work in front of the 2024 parliamentary elections.
-
-◼️
-
-[Data](articles/c833e400.json)
-
-[Extended Data](ext_articles/c833e400.ext.json)
-
----
-
-### Eelam actor Saran
-
-*2024-11-12 14:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198508) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Actor Saran from Eelam has gained popularity in Tamil cinema. He stars in "Dark Heaven" directed by Balaji, alongside Nakul, Danny Dayal, and others. The film's debut was held in Chennai, featuring Saran and crew members born in Switzerland. Director Balaji gifted Saran a zodiac Lakshmi statue as a token of appreciation, symbolizing his success in the industry.
-
-🟩
-
-Diaspora actor Saran has attracted not only fans but also the attention of the entire Tamil film industry.
-
-Directed by director Balaji, 'Dark Heaven', Nakul, Saran, Danny Dayal, Alex, Gotham Santhanam and many others have been cast.. B.. K. Shakti Balaji has composed the film, which is being recorded by Manikandan.
-
-The film is co -produced by film companies such as Gotham Entertainment and SM Media Factory.
-
-The film's debut video was held in Chennai. Many of the film crews, including actor Saran, were born in Switzerland, who was born in M ​​soil at this moment.
-
-At the event, the director of the film Saran, the director of the film Balaji, re -gifted him with the fun.
-
-Speaking to the film crew, 'Balaji, the director of the film, has sold his glory for the release of' D3 'directed by D3.
-
-He has repeatedly referred to the film crew on the shooting site, 'I have sold my zodiac Lakshmi'.He also noted that he had sold it in a town called Mukkudal near the site of the shooting.
-
-...
-
-[Data](articles/c5c0b026.json)
-
-[Extended Data](ext_articles/c5c0b026.ext.json)
-
----
-
-### அல்லு அர்ஜுன் நடிக்கும் 'புஷ்பா 2' திரைப்படத்தின் முன்னோட்டம் வெளியாகும் திகதி அறிவிப்பு
-
-*2024-11-12 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198512) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Allu Arjun's 'Pushpa 2 - The Rule' trailer release date announced. Directed by Sukumar, starring Allu Arjun, Rashmika Mandanna, Fahad Fasil. Music by Devi Sri Prasad. Set to release on December 17th at 6 PM. Expected to break box office records.
-
-🟩
-
-Allu Arjun, Telugu star actor Allu Arjun, has been officially announced with a special photo of the film 'Pushpa 2 -Thi Rule' starring in the Avatar.
-
-இயக்குநர் சுகுமார் இயக்கத்தில் உருவாகி வரும் 'புஷ்பா 2 -தி ரூல்' எனும் திரைப்படத்தில் அல்லு அர்ஜுன், ராஷ்மிகா மந்தானா, பகத் பாசில், ராவ் ரமேஷ், சுனில், ஸ்ரீ லீலா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-The film is composed by 'Rock Star' Devi Sri Prasad and is co -produced by Maithri Movie Makers and Sukumar Writings.
-
-The expectation of the film, which is being prepared at a huge cost, continues to rise in fans.
-
-The film, which will be released in Tamil, Telugu, Malayalam, Kannada and Kannada and Hindi on the 5th of December, will be released on the 17th of this month at 6:00 pm.
-
-மேலும் இந்த முன்னோட்டம் இணையத்தில் வெளியான குறுகிய கால அவகாசத்திற்குள் ஐந்து கோடிக்கும் மேற்பட்ட பார்வைகளை பெற கூடும் என்ற எதிர்பார்ப்பும் ஏற்பட்டிருக்கிறது.
-
-...
-
-[Data](articles/fdec0496.json)
-
-[Extended Data](ext_articles/fdec0496.ext.json)
-
----
-
-### Police have 64,000 from police for security
-
-*2024-11-12 14:47:04* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණ-කාල-සීමා​වේ-ආරක්ෂාවට-පොලීසියෙන්-64-000ක්/11-412993) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Approximately 134,000 security personnel (64,000 police + 70,000 others) deployed during elections. 6,000 police officers handle service duties. 10,000 army personnel assist at police stations. Military deployed to secure universities.
-
-🟩
-
-Police Media Spokesperson DIG Talduduwa said about 64,000 police officers have been deployed during the general election period.
-
-"As a whole, the police officers join 64,000 directly. Also, approximately 70,000 security is being used. That is said that about 6,000 have been deployed in police service duties. In addition, the Army has been deployed 10,000 in police stations. In order to be called. Also, the military personnel have been deployed to obtain police officers from those places, especially in the universities.. "
-
-◼️
-
-[Data](articles/659bd575.json)
-
-[Extended Data](ext_articles/659bd575.ext.json)
-
----
-
-### A consultant coach for Sri Lankan cricket team
-
-*2024-11-12 14:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203177) · `si`
-
-Sri Lanka appoints Neil McCensei as consultant coach. He'll work with key players ahead of SA tour. Team leaves for pre-tournament training in SA. First Test starts Nov 27, second Dec 5.
-
-🟩
-
-Neil McCensesi, a former smarter batsman in the South African team, has been appointed as the Consultant Coach of the Sri Lankan cricket coach for a short period of time.
-
-According to the SLC announced that he would work with several players in the Sri Lankan team.
-
-Several players in Sri Lanka were traveling to South Africa at a pre-tournament training last night.
-
-Those players are Dananjaya de Silva, Dimuth Karunaratne, Angelo Mathews, Dinesh Chandimal, Kasun Ratnayake, Kasun Rajitha and Kasun Rajitha and Lasath Embadeniya.
-
-South Africa and Sri Lanka will start at Derban on November 27 and the second Test will commence on December 5.
-
-◼️
-
-[Data](articles/6a0b41c6.json)
-
-[Extended Data](ext_articles/6a0b41c6.ext.json)
 
 ---

@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 20:25:15**
+As of **2024-11-13 21:00:15**
 
 ## Newspaper Stats
 
-*Scraped **54,605** Articles*
+*Scraped **54,607** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 557
-bbccomsinhala | 557
+bbccomsinhala | 558
 islandlk | 3,267
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,115
+adalk | 5,116
 adaderanalk | 6,516
 tamilmirrorlk | 7,647
 virakesarilk | 8,867
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,605 (100.0%) of 54,605 articles have been extended.
+54,606 (100.0%) of 54,607 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -135,6 +135,20 @@ Two people have been admitted to hospital after a massive tree fell in the Lion 
 [Data](articles/49cc3f11.json)
 
 [Extended Data](ext_articles/49cc3f11.ext.json)
+
+---
+
+### නව පාර්ලිමේන්තුව 21දා රැස්වෙයි
+
+*2024-11-13 18:40:05* · [`adalk`](https://www.ada.lk/breaking_news/නව-පාර්ලිමේන්තුව-21දා-රැස්වෙයි/11-413023) · `si`
+
+අද (14දා) පැවැත්වෙන පාර්ලිමේන්තු මැතිවරණයෙන් සතියකට පසු එනම් නොවැම්බර් 21 දින පෙරවරු 10.00 ට නව පාර්ලිමේන්තුව රැස්වේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 වගන්තියෙන් පැවරී ඇති බලතල අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් එදින පාර්ලිමේන්තුව කැඳවීමේ අතිවිශේෂ ගැසට් නිවේදන ඊයේ (12දා) නිකුත් කර ඇත . මෙලෙස රැස්වන්නේ ශ්‍රී ලංකාවේ 10 වැනි පාර්ලිමේන්තුවයි.
+
+◼️
+
+[Data](articles/f35c086e.json)
 
 ---
 
@@ -801,6 +815,46 @@ The NPP has historically advocated for stronger state control over strategic eco
 [Data](articles/fc85f4cc.json)
 
 [Extended Data](ext_articles/fc85f4cc.ext.json)
+
+---
+
+### General Election 2024: How do you declare your votes correctly?Let us be aware of the polls
+
+*2024-11-13 14:42:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c7891qvn00do) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"General Election 2024: Voting guide. Use valid ID. Mark preferences clearly. No photography allowed. Assistances available for disabled voters. Leave promptly after voting."
+
+🟩
+
+General Election 2024: How do you declare your votes correctly?Let us be aware of the polls
+
+Five years later, it is important to make your vote in the right way to select the representatives of the general election to make decisions on your public preferences.
+
+This is the first general election in the first time since the year 2022.
+
+In Parliament, the representatives you choose from that way, take many decisions that affect your everyday life.
+
+Why do you need to vote, even if you like politics?
+
+Since they have been assigned to them, they must vote in the right way and send them to Parliament.
+
+From the General Elections held on November 14, read from here how to vote.
+
+When you vote, you have a valid ID you have a valid ID.
+
+You can vote for the following valid ID approved by the Election Commission.
+
+Valid National Identity Card Licensing Driving Driver License License License License Application Form
+
+...
+
+[Data](articles/dce87938.json)
+
+[Extended Data](ext_articles/dce87938.ext.json)
 
 ---
 
@@ -2363,33 +2417,5 @@ Out of the total 490 complaints on online contents, social media platforms have 
 [Data](articles/81150de8.json)
 
 [Extended Data](ext_articles/81150de8.ext.json)
-
----
-
-### HUTCH triumphs with six wins at SLIM Digis 2024
-
-*2024-11-12 22:36:00* · [`islandlk`](http://island.lk/hutch-triumphs-with-six-wins-at-slim-digis-2024/) · `en`
-
-HUTCH, one of Sri Lanka’s leading mobile networks, has once again distinguished itself for its digital marketing excellence, winning an outstanding six awards at the SLIM Digis 2024 – 1 Gold, 4 Silvers and a Bronze. As the only telecom company to have gained recognition at the SLIM Digis this year, HUTCH showcased its forward-thinking approach to digital engagement and its commitments to innovation in a highly dynamic market. This year also marked HUTCH’s first-ever SLIM Digis GOLD award in the category of Best Performance Marketing Campaign, reflecting on the operator’s steadfast commitment to driving exceptional results.
-
-...
-
-[Data](articles/5cd401b9.json)
-
-[Extended Data](ext_articles/5cd401b9.ext.json)
-
----
-
-### ‘Daraz 11.11 kicks off with unbeatable discounts, exclusive offers’
-
-*2024-11-12 22:34:00* · [`islandlk`](http://island.lk/daraz-11-11-kicks-off-with-unbeatable-discounts-exclusive-offers/) · `en`
-
-Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its annual 11.11 shopping festival, known as the “Biggest Sale of the Year.” The event will run until November 17. This year’s 11.11 sale features exceptional discounts and exclusive promotions, offering Sri Lankans the lowest prices of the year on a wide variety of products. Additionally, there are vouchers worth over LKR 150 million available, making this sale a must for anyone looking to save big.
-
-...
-
-[Data](articles/5cd0181e.json)
-
-[Extended Data](ext_articles/5cd0181e.ext.json)
 
 ---

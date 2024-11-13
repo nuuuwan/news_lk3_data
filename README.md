@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 12:59:27**
+As of **2024-11-13 13:41:43**
 
 ## Newspaper Stats
 
-*Scraped **54,549** Articles*
+*Scraped **54,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,101 @@ islandlk | 3,265
 economynextcom | 3,305
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,106
-adaderanalk | 6,504
+adalk | 5,107
+adaderanalk | 6,512
 tamilmirrorlk | 7,638
-virakesarilk | 8,855
+virakesarilk | 8,858
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,549 (100.0%) of 54,549 articles have been extended.
+54,555 (100.0%) of 54,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### Flights cancelled to and from Indonesia’s Bali due to volcanic ash
+
+*2024-11-13 12:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103380/flights-cancelled-to-and-from-indonesias-bali-due-to-volcanic-ash) · `en`
+
+Several international airlines cancelled flights to and from Indonesia’s resort island of Bali on Wednesday, after further eruptions of a volcano that has spewed ash clouds as high as 10 km (32,808 ft) and forced thousands to evacuate.
+
+Jetstar and Qantas said they had stopped flights to Bali on Wednesday for safety reasons because of volcanic ash, while plane tracking website Flightradar24 showed flights to the island by AirAsia and Virgin were also cancelled.
+
+Bali is Indonesia’s top tourist hotspot and is a popular destination for Australian visitors.
+
+The first eruption of the Mount Lewotobi Laki-laki on Nov. 3 in the East Nusa Tenggara province, about 800 km (497 miles)from Bali, killed at least nine people. It has since erupted repeatedly, including multiple times on Tuesday.
+
+From Nov. 4 to Nov. 12, 80 flights in Bali were cancelled, including from Singapore, Hong Kong, and several Australian cities, said Ahmad Syaugi Shahab, general manager of Bali’s Ngurah Rai airport.
+
+...
+
+[Data](articles/20224086.json)
+
+[Extended Data](ext_articles/20224086.ext.json)
+
+---
+
+### Ready to vote?
+
+*2024-11-13 12:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198577) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Parliamentary election on 14th. Over 8000 candidates. 225 seats: 196 direct votes, 29 national list. Eligible voters: 1 crore 71 lakhs 40 thousand 354. Exercise democratic rights. Clear voting process. Voter ID required. Symbol-based voting. Responsible representatives needed."
+
+🟩
+
+The election for the 10th Parliament will be held on Thursday 14th. More than 8,000 candidates have been fielded on behalf of political parties and independent committees, with nominations for the parliamentary elections from October 4 to 11.The campaign for the parliamentary election was completed by midnight on Monday.
+
+The election for the 9th Parliament was held on August 5, 2020. The life span of Parliament is visible until August 2025. However, the President has the power to dissolve parliament after a period of time. On that basis, Parliament was dissolved by the current president.
+
+...
+
+[Data](articles/d5b7ffbc.json)
+
+[Extended Data](ext_articles/d5b7ffbc.ext.json)
+
+---
+
+### 'Our son does not commit suicide, he needs justice'
+
+*2024-11-13 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198576) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Parents dispute suicide claim for son. Cite his helpful nature & love for life. Seek justice rather than accepting death as self-inflicted."
+
+🟩
+
+The death of two students of an international school in Colombo's luxury series has caused great controversy and many questions.
+
+Although many claimed suicide, the parents of one of the students who died, Joro Singh's parents, have rejected it and have reported that there have been many misunderstandings.
+
+They have shared their memories of Givon and have reported the events that caused him to die.
+
+The attitude of Jivon, who helped others, was the cause of his death on July 2 at luxury.
+
+Jivon tried to help someone who was in need of his help that day. It was his natural attitude.
+
+However, due to his dedication to help others, we have decided to respond to the false information about his death.
+
+Givon did not commit suicide, and his immense love for life and the attitude of thinking favorably were his characteristics, and we are trying to protect his memories and ensure that his character is understood.
+
+...
+
+[Data](articles/01ffbe65.json)
+
+[Extended Data](ext_articles/01ffbe65.ext.json)
+
+---
 
 ### Theft in PMD; former official tension
 
@@ -53,6 +133,28 @@ The photographer said that during the ongoing inquiries, the former Director Gen
 [Data](articles/444af323.json)
 
 [Extended Data](ext_articles/444af323.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-11-13 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198571) · `ta`
+
+Here's a summary of the currency exchange rate in 200 characters:
+
+
+
+US Dollar: 1 USD = 287.9534 INR (buying) / 296.9762 INR (selling) on Wednesday, 13th
+
+🟩
+
+The US dollar purchasing price was 287.9534 rupees and the sales price were 296.9762 on Wednesday (13).
+
+◼️
+
+[Data](articles/44c8f994.json)
+
+[Extended Data](ext_articles/44c8f994.ext.json)
 
 ---
 
@@ -400,6 +502,68 @@ This case is the case number in the Court of Appeal in Room No. 302. Sri Lanka P
 
 ---
 
+### SLBFE to initiate investigations on fraud and corruption cases
+
+*2024-11-13 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103375/slbfe-to-initiate-investigations-on-fraud-and-corruption-cases) · `en`
+
+The Sri Lanka Bureau of Foreign Employment (SLBFE) has stated that it has taken steps to initiate investigations into nearly 15 cases of alleged fraud and corruption that have occurred recently.
+
+According to SLBFE’s Chairman, Kosala Wickramasinghe, the Bureau has received a total of 3,040 complaints.
+
+“Special unit has received 3,040 complaints. 1,124 complaints can be resolved on a day-to-day basis,” he added.
+
+Additionally, he further stated that they have identified 15 cases of suspected fraud and corruption, which were selected based on information gathered through an internal audit. Currently, three of these cases are under formal auditing.
+
+He also stated that they also reviewing other cases that have been discussed in the media and are gathering more information on them.
+
+◼️
+
+[Data](articles/a79dba3c.json)
+
+[Extended Data](ext_articles/a79dba3c.ext.json)
+
+---
+
+### Trump names Elon Musk to role for creating greater government efficiency
+
+*2024-11-13 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103373/trump-names-elon-musk-to-role-for-creating-greater-government-efficiency) · `en`
+
+U.S. President-elect Donald Trump on Tuesday named Elon Musk to a role aimed at creating a more efficient government, handing even more influence to the world’s richest man who donated millions of dollars to helping Trump get elected.
+
+Musk and former Republican presidential candidate Vivek Ramaswamy will co-lead a newly created Department of Government Efficiency, an entity Trump indicated will operate outside the confines of government.
+
+Trump said in a statement that Musk and Ramaswamy “will pave the way for my Administration to dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies.”
+
+Trump said the new department will realize long-held Republican dreams and “provide advice and guidance from outside of government,” signaling the Musk and Ramaswamy roles would be informal, without requiring Senate approval and allowing Musk to remain the head of electric car company Tesla social media platform X and rocket company SpaceX.
+
+...
+
+[Data](articles/170996dd.json)
+
+[Extended Data](ext_articles/170996dd.ext.json)
+
+---
+
+### Container transporters facing difficulties due to actions of Customs officials
+
+*2024-11-13 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103372/container-transporters-facing-difficulties-due-to-actions-of-customs-officials) · `en`
+
+The Container Transport Owners’ Association says they are in dire straits due to the arbitrary actions of the Customs officials.
+
+The Association’s chairman, Sanath Manjula, mentioned that this has caused heavy traffic congestion in roads around the Colombo Port area.
+
+Manjula explained that due to safety concerns in areas like Orugodawatta, Thotalaga, and Grandpass, these containers were being held within the port and released to facilitate container clearances. However, after a recent inspection by the minister, authorities have decided to remove the container trucks from the port and send them out, causing traffic jams, especially in areas such as Orugodawatta and Thotalaga.
+
+He further emphasized that this decision had put both the drivers and the containers at risk, as there have been threats to their safety.
+
+“The Inspector General of Police and the Director General of Customs had been informed. Accordingly, they were stopped at the port premises and sent through a system,” he added.
+
+...
+
+[Data](articles/9ae075dd.json)
+
+---
+
 ### Former MPs announce to hand guns!
 
 *2024-11-13 09:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198551) · `ta`
@@ -421,6 +585,26 @@ All police officers have been instructed to investigate the names of the persons
 [Data](articles/81599328.json)
 
 [Extended Data](ext_articles/81599328.ext.json)
+
+---
+
+### මාතලේ තක්කාලි වගාවට වැසි හරහට හිටියි
+
+*2024-11-13 09:33:05* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-තක්කාලි-වගාවට-වැසි-හරහට-හිටියි/11-413011) · `si`
+
+දින ගනනක් තිස්සේ මාතලේ දිස්ත්‍රික්කයට බලපා ඇති වැසි සහිත කාලගුණික තත්ත්වය හේතුවෙන් බහුල වශයෙන් දිස්ත්‍රික්කය පුරා වගා කර ඇති තක්කාලි වගා වලට බලපෑම් එල්ල වී ඇතැයි ගොවිහු කියා සිටිති.
+
+වැසි හේතුවෙන් කෘෂි රසායන යෙදිම,අස්වනු නෙළිම හා වගා නඩත්තු කටයුතු ද අඩාල වී ඇතැයි ගොවිහු කියා සිටිති.
+
+ගොවීන් විසින් මාතලේ දිස්ත්‍රික්කයේ මාතලේ,නාඋල,ලග්ගල සහ දඹුල්ල ප්‍රාදේශිය ලේකම් කොට්ඨාශ වල බහුල වශයෙන් තක්කාලි වගාකර තිබේ.
+
+මේ දිනවල දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ තක්කාලි කිලෝවක තොග මිල රුපියල් 200.00 ත් 230.00 ත් අතර මිලක පවතියි.
+
+කෙසේ වෙතත් මාතලේ දිස්ත්‍රික්කයේ තක්කාලි වගාකරුවන් කියා සිටියේ මුල්‍ය ආයතන වලට ණය වී හා සිය කණකර අඹරන උගසට තබා වගාකටයුතු සිදුකර ඇති බැවින් මෙවර තක්කාලි වගාවන් වලින් බලාපොරොත්තු වු පරිදි ආදායමක් ලබාගැනීමට නොහැකි වනු ඇති බවයි.
+
+◼️
+
+[Data](articles/b240bd5f.json)
 
 ---
 
@@ -555,6 +739,84 @@ If the voter card is not available and registered in the voter list, it has been
 [Data](articles/d9353059.json)
 
 [Extended Data](ext_articles/d9353059.ext.json)
+
+---
+
+### One dead, 6 injured in wasp attack on plantation workers in Pussellawa
+
+*2024-11-13 08:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103370/one-dead-6-injured-in-wasp-attack-on-plantation-workers-in-pussellawa) · `en`
+
+A group of plantation workers in Melfort Canal, Pussellawa, were attacked by wasps, resulting in the death of one person.
+
+Police reported that the wasp attack occurred last evening (12), with six individuals injured.
+
+One of the injured workers, a 50-year-old resident of Melfort Canal, succumbed to injuries after being admitted to the Gampola Hospital.
+
+One person in serious condition remains under treatment at Gampola Hospital, while the other four have returned home after receiving medical treatment.
+
+◼️
+
+[Data](articles/bc39b7ac.json)
+
+---
+
+### Ballot boxes and election stationery to be issued today ahead of General Election
+
+*2024-11-13 08:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103369/ballot-boxes-and-election-stationery-to-be-issued-today-ahead-of-general-election) · `en`
+
+The Election Commission states that ballot boxes and all stationery related to the general election will be issued throughout the day today (13).
+
+The Commissioner General of Elections Saman Sri Ratnayake said these activities will take place from 7:00 a.m. to 4:00 p.m.
+
+“All officials and ballot boxes, ballot papers, and other stationery to be sent to the 13,314 polling stations for tomorrow’s parliamentary election will be issued today across 49 premises on the island. This distribution is being carried out in 25 district secretariats covering the 22 constituencies. Activities will start at 7:00 a.m., and a rehearsal will be conducted for the staff working at all polling stations.”
+
+Police Spokesman DIG Nihal Thalduwa announced that approximately 64,000 police officers were deployed yesterday (12) to ensure security across all constituencies during the general election.
+
+...
+
+[Data](articles/cf1946d5.json)
+
+---
+
+### Bus carrying wedding guests falls into river in northern Pakistan, killing 18
+
+*2024-11-13 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103368/bus-carrying-wedding-guests-falls-into-river-in-northern-pakistan-killing-18) · `en`
+
+A bus carrying about two dozen wedding guests fell into the Indus River in northern Pakistan on Tuesday, killing at least 18 people, officials said.
+
+It happened in the Gilgit Baltistan region as the bus was heading to Chakwal, a city in Punjab province, government spokesman Faizullah Faraq said.
+
+He said so far only one woman had been found alive and was being treated at a hospital. Police said rescuers will resume searching for missing passengers on Wednesday.
+
+Police also said it was unclear what caused the crash, and officers were yet to record the lone survivor’s statement.
+
+Pakistani President Asif Ali Zardari offered condolences and asked rescuers to expedite efforts to find missing passengers.
+
+Road accidents are common in Pakistan due to poor infrastructure and disregard for traffic laws and safety standards. In August, 36 people were killed and dozens of others were injured in two separate bus crashes.
+
+◼️
+
+[Data](articles/c41e360f.json)
+
+---
+
+### Heavy showers expected in parts of the island
+
+*2024-11-13 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103367/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+A low-pressure area is formed over the south west Bay of Bengal. Under its influence, atmospheric conditions are favorable for afternoon thundershowers in most parts of the island, today (November 13) and in the next few days, says the Department of Meteorology.
+
+Several spells of showers will occur in Northern Province. Showers or thundershowers will occur at several places elsewhere during the evening or night.
+
+Heavy showers about 100 mm are likely at some places in Central, Uva, Sabaragamuwa, and Southern provinces and in Kalutara district, it added.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0905336a.json)
 
 ---
 
@@ -2093,289 +2355,5 @@ US Ambassador Julie Sangh and Special Ambassador Pinkenavar will hold discussion
 [Data](articles/f0af2e43.json)
 
 [Extended Data](ext_articles/f0af2e43.ext.json)
-
----
-
-### There was no work on Monday
-
-*2024-11-12 17:17:59* · [`adalk`](https://www.ada.lk/breaking_news/පුලිදෙ-14දා-වැඩ-නෑ/11-413000) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-No work on Monday. Department informed officials won't be held responsible for registration delays due to previous orders affecting services.
-
-🟩
-
-The Department is informed that the officials of the Department of Registration of Persons will not be held as well as the order of the other day service as well as the order of the Department.
-
-◼️
-
-[Data](articles/85e13fd0.json)
-
-[Extended Data](ext_articles/85e13fd0.ext.json)
-
----
-
-### 35 persons were killed in China and killed 35
-
-*2024-11-12 17:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203183) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-35 killed, 43 injured in China incident. Victims included all ages. Suspect, under stress from divorce, caused harm before falling into coma.
-
-🟩
-
-A large number of people were drunk to a large number of people who were trying to spend a large number of people in the area.
-
-According to the international media, 35 people died and 43 were injured in the incident.
-
-It is said that between the dead and injured were older, youth and children.
-
-Later investigations have been revealed that this person had done this due to the stress of a problem with the divorce of the suspect's divorce.
-
-The suspect has not been able to interfere in the condition of the coma in the coma, as he is inundated.
-
-◼️
-
-[Data](articles/ab6cb8a2.json)
-
-[Extended Data](ext_articles/ab6cb8a2.ext.json)
-
----
-
-### Sri Lanka stocks close up, pushed by financials
-
-*2024-11-12 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-pushed-by-financials-187056/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 0.88 percent, or 113.67 points, at 12,988; while the more liquid S&P SL20 Index closed up 0.85 percent, or 32.73 points, at 3,887.
-
-The ASPI crossed the 13,000 mark just before market close, before settling. “This was a historical milestone,” Softlogic Stockbrokers said.
-
-“There was lots of interest in non-banking financial institutions, diversified financials, because the impending lifting of the vehicle import ban will give more traction to these.”
-
-Top contributors to the ASPI were John Keells Holdings (up at 21.40), Richard Pieris and Co (up at 24.10), C T Holdings (up at 300.50), Bukit Darah (498.00), and DFCC Bank (up at 83.10).
-
-“Most of the corporate earnings that are our so far have been on the positive side, JKH, Tokyo (up at 56.90), Dialog Axiata (down at 10.80), so this is a market confidence booster.”
-
-...
-
-[Data](articles/8472a889.json)
-
-[Extended Data](ext_articles/8472a889.ext.json)
-
----
-
-### 35 killed, over 40 injured after driver rams car into crowd in China
-
-*2024-11-12 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103361/35-killed-over-40-injured-after-driver-rams-car-into-crowd-in-china) · `en`
-
-Police in China say 35 people were killed and another 43 injured when a driver rammed his car into people exercising at a sports center in the southern Chinese city of Zhuhai. The 62-year-old driver was detained, police said Monday. It was not immediately clear whether it was an attack or an accident. No motive was mentioned, and police said investigations continued.
-
-The Monday night incident came on the eve of the country’s premier aviation exhibition by the People’s Liberation Army, hosted annually in Zhuhai. There has been heavy censorship of information about the incident given the timing and location, with officials only announcing the death toll the following day. One of the four hospitals that took in people for treatment said it had more than 20 injured people, state media reported Monday.
-
-...
-
-[Data](articles/b0e1eaad.json)
-
-[Extended Data](ext_articles/b0e1eaad.ext.json)
-
----
-
-### Wild elephant attack in Anuradhapura
-
-*2024-11-12 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198501) · `ta`
-
-Elephant attacks another elephant in Anuradhapura. Elderly woman killed when she encountered the elephant in her garden. Police report details incident.
-
-🟩
-
-A wild elephant attacked a wild elephant in Kadiyawa, Anuradhapura, Anuradhapura, police said.
-
-When the elderly elder went out of her house, a wild elephant hidden in the garden died and died on the spot, police said.
-
-◼️
-
-[Data](articles/f91d651d.json)
-
-[Extended Data](ext_articles/f91d651d.ext.json)
-
----
-
-### Cooperate in peacefully to hold elections
-
-*2024-11-12 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198520) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Peaceful cooperation crucial for elections. Security forces to strictly enforce laws. Voting is a right and strength. Follow election guidelines. No violence or illegal activities allowed."
-
-🟩
-
-The entire population should cooperate in the peaceful manner. We have issued a directive to the Security Forces to fully implement the law to make the election better. To avoid acting illegally. Vote is your right and strength. Use that right day for the best of the day. Elections Commission Chairman RMAL Ratnayake has urged the people of the country to cooperate with law and order.
-
-He made this statement at a media briefing held at the Government Information Department on Tuesday (12).
-
-All work for the general election has been completed. State officials and temporary officials appointed for election duties must engage in their duties. Not to engage in duties is a punishable offense.
-
-The distribution of voter cards has been completed. Those who have not received voter cards in the time of this time can enter the E-service of the Elections Commission and download their voter cards by following the formal instructions.
-
-...
-
-[Data](articles/6bc7ced7.json)
-
-[Extended Data](ext_articles/6bc7ced7.ext.json)
-
----
-
-### The Department of Registration will not work
-
-*2024-11-12 17:10:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆட்பதிவு-திணைக்களம்-இயங்காது/175-347013) · `ta`
-
-Department of Registration closed on 14th due to public service cancellation announced by Secretary General Suriyaiyaruma.
-
-🟩
-
-The Secretary General of the Department, Suriyaiyaruma, said that the public service will not be held on Thursday, the 14th of this month.
-
-◼️
-
-[Data](articles/40944ff4.json)
-
-[Extended Data](ext_articles/40944ff4.ext.json)
-
----
-
-### Special Boat Services to Nedundevu ahead of the election
-
-*2024-11-12 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198524) · `ta`
-
-Special ferry services Jaffna-Neduntivu ahead of polls. 7 trips daily. Voting boxes transported by boat to Jaffna Central College after polling.
-
-🟩
-
-Special ferry services have been organized between Jaffna, Indigatuwan - Neduntivu ahead of the upcoming parliamentary elections.
-
-07 ferry services will be held from Indicatan to Neduntivu from 06,30 am to 5.30 pm tomorrow (14).
-
-Similarly, the Divisional Secretariat has announced that the boat services will be held from 06.45 am to 04.30 pm from Neduntivu.
-
-Meanwhile, the voting boxes for the Nedundi Island will be taken by the boats on Wednesday and will be taken to the Central College of Jaffna, the center of the Air Force's airplane, after the voting is completed tomorrow.
-
-◼️
-
-[Data](articles/48d34bf0.json)
-
-[Extended Data](ext_articles/48d34bf0.ext.json)
-
----
-
-### Sri Lanka chooses a strong one in South Africa to visit South Africa
-
-*2024-11-12 17:05:21* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකානු-සංචාරයට-දකුණු-අප්‍රිකාවේ-ප්‍රභලයෙක්-ලංකාව-තෝරා-ගනියි/9-412999) · `si`
-
-Sri Lanka selects Neil McKenzie as short-term coach for South Africa tour. Sri Lankan Test team arrives in South Africa. Second Test between teams starts November 27th.
-
-🟩
-
-South Africa's southern African to tour southern African tourist Neil McCanksy has been appointed as a short term trainer in the Sri Lankan team.
-
-Several Sri Lanka Test team left for South Africa yesterday to join the tournament.
-
-Mr. Neil McCmency collapses with them will conduct several training consulting sessions.The second match between South Africa and Sri Lanka will commence the second Test on November 27th.
-
-◼️
-
-[Data](articles/f1076c24.json)
-
-[Extended Data](ext_articles/f1076c24.ext.json)
-
----
-
-### Sri Lanka's new president faces his first parliamentary test.
-
-*2024-11-12 17:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/198526) · `ta`
-
-Sri Lanka's new left-wing President Anura Kumara Dissanayake faces first parliamentary test. Supported by business leaders, he aims to increase party's MPs. Economic reforms and IMF agreements are key focus areas. Low voter interest and opposition challenges expected in Thursday's election.
-
-🟩
-
-Sri Lanka's new left -wing President Anura Kumaratisanayake has been supported from an unexpected place as he is trying to increase the number of three MPs of his party.
-
-Anuragumaratisanayake, who considers her heroes Segura and Karlmarx, has received the support of the country's most influential private trade organization.
-
-Anuragumaratisayake received the support of the people who were furious over the collapse of the economic crisis of Sri Lanka.
-
-Business leaders have said that under Dissanayake, the country may follow China or Vietnam's economic model.
-
-The party of Anura Kumaradisanayake has its symbol of the International Communist Movement.
-
-Australia's geopolitical risk institute, Imran Burkhan, says they would have been better than Vietnam in the first term of Dissanayake.
-
-He says that democracy is deeply rooted in Sri Lanka than Vietnam, which has long been a Communist regime.
-
-...
-
-[Data](articles/2ba056ad.json)
-
-[Extended Data](ext_articles/2ba056ad.ext.json)
-
----
-
-### Govt to reassess gazette on Vidataltivu reserve
-
-*2024-11-12 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103360/govt-to-reassess-gazette-on-vidataltivu-reserve-) · `en`
-
-The Supreme Court has ordered the extension of the interim injunction issued preventing the execution of a gazette notification issued by the Ministry of Wildlife and Forest Conservation under the previous government to release 168 acres of land from the Vidataltivu Nature Reserve associated with the Wilpattu National Park for the establishment of a shrimp farm.
-
-Accordingly, the interim order was extended until 29 July 2025 when a petition filed challenging the former government’s decision was taken up before the three-member Supreme Court bench consisting of Justices S. Thurairaja, A.H.M.D. Nawaz and Janak de Silva today (12).
-
-During the hearing, Deputy Solicitor General Fazly Razik who appeared on behalf of the Attorney General, informed the court that the new government has decided to review the relevant gazette notification and requested the court for a new date to inform the next step related to the case.
-
-...
-
-[Data](articles/10327087.json)
-
-[Extended Data](ext_articles/10327087.ext.json)
-
----
-
-### Transfer 12 polling stations in Jaffna
-
-*2024-11-12 16:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198521) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna: 12 polling stations moved. Velanai, Vadaliyadipattu, Vaddukoddai, Manipayi, Achuveli, Udupitti, Kokuvil stations shifted to new locations.
-
-🟩
-
-The Jaffna District Government Agent and Electoral Officer Marudalingam Pradeepan has announced that 12 polling stations have been changed in the past.
-
-Velanai Central College Hostel Voting Station in Kayts Election constituency Saravana Pallambulam Murugamoorthy Temple has been shifted to the Narandana South Public Vision Hall Voting Center Narandana South Village Shakti Public Hall.
-
-The Vadaliyadipattu Saivaprakasa Vidyalaya Hall in Vaddukoddai Election constituency
-
-Vasavilan Central College Hall Voting Center in Kankesanthurai Election constituency
-
-In Manipayi constituency, Thavadi Hindu Tamil Kalavan School Hall
-
-The Achuveli Central College Hall 2 Voting Center has been shifted to the Achchuveli Primary School and the Achuveli Vigneswara Community Center Voting Center Vigneswara Pre -School.
-
-...
-
-[Data](articles/2956b975.json)
-
-[Extended Data](ext_articles/2956b975.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 04:25:17**
+As of **2024-11-14 04:12:52**
 
 ## Newspaper Stats
 
-*Scraped **54,655** Articles*
+*Scraped **54,653** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 424
+dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,269
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,654
+tamilmirrorlk | 7,653
 virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,653 (100.0%) of 54,655 articles have been extended.
+54,653 (100.0%) of 54,653 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -135,22 +135,6 @@ Farmers who purchase Mahindra tractors between 1 August and 30 November, are eli
 [Data](articles/9b82f248.json)
 
 [Extended Data](ext_articles/9b82f248.ext.json)
-
----
-
-### ’வாக்களித்தன் பின்னர் வீடுகளுக்கு செல்லுங்கள்’
-
-*2024-11-14 01:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களித்தன்-பின்னர்-வீடுகளுக்கு-செல்லுங்கள்/175-347083) · `ta`
-
-நாடளாவிய ரீதியில் 1,3421 வாக்களிப்பு மத்திய நிலையங்களின் பாதுகாப்பு உறுதிப்படுத்தப்பட்டுள்ளது. தேர்தல்கள் சட்டத்துக்கும், பொதுச் சட்டத்துக்கும் அமைய பொதுமக்கள் பொறுப்புடன் செயற்பட வேண்டும். சட்டம் மற்றும் ஒழுங்கை பாதுகாப்பதற்கு பொலிஸ் உட்பட முப்படையினர் பாதுகாப்பு கடமைகளில் ஈடுபட்டுள்ளனர்.
-
-வாக்களித்தன் பின்னர் வீடுகளுக்கு செல்லுங்கள், பொது இடங்களில் ஒன்று சட்டம் மற்றும் ஒழுங்குக்கு பாதிப்பு ஏற்படும் வகையில் செயற்படுவதை இயலுமான வகையில் தவிர்த்துக் கொள்ளுங்கள். அமைதியான முறையில் தேர்தலை நடத்துவதற்கும், அதனைத் தொடர்ந்து சட்டம் மற்றும் ஒழுங்கை பாதுகாப்பதற்கும் கடுமையான நடவடிக்கைகள் எடுக்கப்படும் என பொதுமக்கள் பாதுகாப்பு அமைச்சு நாட்டு மக்களுக்கு அறிவுறுத்தியுள்ளது.
-
-தேர்தல் பணிகள் மற்றும் பாதுகாப்பு விடயங்கள் குறித்து பொலிஸ் ஊடகப்பேச்சாளர் பதில் பொலிஸ்மா அதிபரும், சட்டத்தரணியுமான நிஹால் தல்துவ குறிப்பிடுகையில்,
-
-...
-
-[Data](articles/fd7c1c12.json)
 
 ---
 
@@ -1018,20 +1002,6 @@ Accordingly, at an early stage, only about 45 million birth, marriage and death 
 
 ---
 
-### How Anura Kumara Dissanayake Won the Presidency in a Fourteen Fold Quantum Leap from 3% in 2019 to 42% in 2024.
-
-*2024-11-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85042) · `en`
-
-The Janatha Vimukthi Peramuna(JVP)and  National People’s Power(NPP) leader Anura Kumara Dissanayake  contested the 2019  presidential election under the compass symbol.He finished a poor third with 418,553(3.16%) votes. Anura refused to be cowed down by that crushing  defeat. AKD   refurbished his image  and re-invented the political approach of his party.
-
-This enabled  Anura to  spearhead  a commendable political renaissance of the JVP led NPP. As is well known , Anura Kumara Dissanayake finished first in  the presidential election held on 24 September 2024. Politically, it was a gigantic quantum leap. AKD polled 5,634,915(42.31%) votes on the first count and 5,740,179(55.89%) on the second count. It was truly a famous victory!
-
-...
-
-[Data](articles/64529c6d.json)
-
----
-
 ### EXPLAINER – Possible policy implications on Sri Lanka’s construction sector after parliament polls
 
 *2024-11-13 18:15:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-implications-on-sri-lankas-construction-sector-after-parliament-polls-187378/) · `en`
@@ -1043,26 +1013,6 @@ ECONOMYNEXT – Sri Lanka’s construction sector is expected to face several tr
 [Data](articles/39229cc3.json)
 
 [Extended Data](ext_articles/39229cc3.ext.json)
-
----
-
-### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
-
-*2024-11-13 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
-
-...
-
-[Data](articles/61c6dea3.json)
-
-[Extended Data](ext_articles/61c6dea3.ext.json)
 
 ---
 
@@ -2389,5 +2339,75 @@ Voting boxes and officials for the general election, which will be held on Thurs
 [Data](articles/21627fd2.json)
 
 [Extended Data](ext_articles/21627fd2.ext.json)
+
+---
+
+### Preparation ....
+
+*2024-11-13 10:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/முன்னேற்பாடு/46-347051) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"General election preparations underway: Voting boxes and officials are being transported to polling stations nationwide for Thursday's vote."
+
+🟩
+
+Voting boxes and officials for the general election, which will be held on Thursday (14) across the country, are being carried out to polling stations.
+
+◼️
+
+[Data](articles/b3a55850.json)
+
+[Extended Data](ext_articles/b3a55850.ext.json)
+
+---
+
+### Name of candidate list;Complaint
+
+*2024-11-13 10:44:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வேட்பாளர்-பட்டியலில்-பெயர்-பெண்-முறைப்பாடு/150-347050) · `ta`
+
+Candidate list controversy: Woman's name added without consent in Jaffna election. She filed a complaint with the Election Commission, seeking removal from the list.
+
+🟩
+
+Jaffna in the upcoming parliamentary election. A woman has lodged a complaint with the Election Commission that an independent committee contesting in the electoral district has mentioned her name on the list of candidates.
+
+“An independent group mentioned my name on the list of candidates without his permission. I have not been able to know this so far. Yesterday, a student of my student took me a phone call and contest the election?When I questioned, it was revealed that my name had come to the list.
+
+Jaffna to ensure that. I have confirmed that it is my name for the District Election Department office on Tuesday and that my name is included in the candidate list without my permission. ”
+
+In this regard, Jaffna. I have appealed to the District Assistant Election Commissioner in writing. ”
+
+◼️
+
+[Data](articles/676df91f.json)
+
+[Extended Data](ext_articles/676df91f.ext.json)
+
+---
+
+### Name of candidate list;Complaint
+
+*2024-11-13 10:44:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வேட்பாளர்-பட்டியலில்-பெயர்-பெண்-முறைப்பாடு/175-347050) · `ta`
+
+Candidate list controversy: Woman's name added without consent in Jaffna election. She filed a complaint with the Election Commission and contacted the District Election Department.
+
+🟩
+
+Jaffna in the upcoming parliamentary election. A woman has lodged a complaint with the Election Commission that an independent committee contesting in the electoral district has mentioned her name on the list of candidates.
+
+“An independent group mentioned my name on the list of candidates without his permission. I have not been able to know this so far. Yesterday, a student of my student took me a phone call and contest the election?When I questioned, it was revealed that my name had come to the list.
+
+Jaffna to ensure that. I have confirmed that it is my name for the District Election Department office on Tuesday and that my name is included in the candidate list without my permission. ”
+
+In this regard, Jaffna. I have appealed to the District Assistant Election Commissioner in writing. ”
+
+◼️
+
+[Data](articles/d5df0d7c.json)
+
+[Extended Data](ext_articles/d5df0d7c.ext.json)
 
 ---

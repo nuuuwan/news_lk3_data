@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 22:40:53**
+As of **2024-11-13 23:12:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,618 (100.0%) of 54,619 articles have been extended.
+54,619 (100.0%) of 54,619 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -274,17 +274,27 @@ We have received a complaint that the parliamentary elections are not given holi
 
 ---
 
-### මෙන්ඩිස් සමාගමට අවසන් දිනය දැනුම් දෙයි
+### Mendis informs the last day to the company
 
 *2024-11-13 19:27:34* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමට-අවසන්-දිනය-දැනුම්-දෙයි/11-413027) · `si`
 
-රජයට අයවිය යුතු රුපියල් කෝටි 600 කට අධික බදු මුදල් නොගෙවා පැහැර හැර ඇතැයි කියන ඩබ්ලිව්.එම්. මෙන්ඩිස් සමාගම ඇතුළු මහා පරිමාණ මත්පැන් නිෂ්පාදන සමාගම් පහක් ලබන 30 වැනිදාට පෙර පැහැර හැර ඇති බදු මුදල් නොගෙවුවහොත් එම මත්පැන් නිෂ්පාදන සමාගම්වල බලපත්‍ර අත්හිටුවීමට රජය තීරණය කර ඇතැයි නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට අද (13දා) දැනුම් දුන්නේය.
+Government owes Rs. 600B in taxes. Liquor licenses may be suspended if unpaid by month-end. Case filed against Mendis Company and others.
 
-පැහැර හැර ඇති බදු මුදල් නොගෙවුවහොත් ඩබ්ලිව්.එම්. මෙන්ඩිස් සමාගමට අමතරව මෙලෙස බලපත්‍ර අත්හිටුවන බව නීතිපතිවරයා ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේ ‘පින්ලේ ඩිස්ටිරිස්‘, ‘සයින ජී ඩිස්ටරිලිස්’, ‘හිඟුරාන ඩිස්ලිරිස්’ සහ ‘රොයල් ඩිස්ට්‍රලිරිස්‘ යන සමාගම්වලය.
+🟩
+
+The government has not paid over Rs. 600 billion taxes.. The Attorney General stated that the government has decided to suspend the license of the liquor companies before the 5th of this month, if the five large-scale liquor products will not be paid before the month of this month.
+
+If the defaulted taxes are not paid off WM. The Attorney General told the Supreme Court that the license will be suspended in addition to the Mendis Company.
+
+Additional Solicitor General, Ven.The petition was found in a pair of pairmansena, Yasantha Kodagoda and Priyantha Kodagoda and Priyantha Pun.
+
+The Commissioner General of Excise as respondents on the petitions filed by a civil society operator.. Mendis, 'Pinley Dysutiris', 'Hingurana Disleriiris' and 'Royal Distrorerrit' has been named 'Hingurana Dislerith' and 'Rayal Distroyrrrit'.
 
 ...
 
 [Data](articles/8952db8f.json)
+
+[Extended Data](ext_articles/8952db8f.ext.json)
 
 ---
 

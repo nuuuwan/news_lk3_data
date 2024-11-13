@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 20:00:06**
+As of **2024-11-13 20:25:15**
 
 ## Newspaper Stats
 
-*Scraped **54,601** Articles*
+*Scraped **54,605** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 557
-islandlk | 3,266
+islandlk | 3,267
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
 adalk | 5,115
 adaderanalk | 6,516
-tamilmirrorlk | 7,644
+tamilmirrorlk | 7,647
 virakesarilk | 8,867
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,95 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,600 (100.0%) of 54,601 articles have been extended.
+54,605 (100.0%) of 54,605 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### Introduction of Special Telephone numbers
+
+*2024-11-13 19:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தொலைபேசி-இலக்கங்கள்-அறிமுகம்/175-347073) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+06 special phone numbers announced for disaster alerts during elections. Implemented by National Building Research Institute, Meteorology Dept., Irrigation Dept., Armed Forces, and Police.
+
+🟩
+
+06 special telephone numbers have been introduced to announce any disasters during the election period.
+
+The project is being implemented by the National Building Research Institute, the Department of Meteorology, the Irrigation Department, the Armed Forces and the Police.. Remble
+
+◼️
+
+[Data](articles/b69c9fc8.json)
+
+[Extended Data](ext_articles/b69c9fc8.ext.json)
+
+---
+
+### Korea assist in the development of Sri Lanka's agricultural sector
+
+*2024-11-13 19:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-விவசாயத்-துறை-வளர்ச்சிக்கு-கொரியா-உதவி/175-347072) · `ta`
+
+Korean SMEs aid Sri Lanka's agri & fisheries sectors. Training & jobs offered. Meeting at Presidential Office discussed cooperation.
+
+🟩
+
+The Korean Small Entrepreneurship Association has come forward to assist Sri Lanka for agriculture and its related employment.
+
+The Association has also agreed to provide technical assistance and training for the fishing industry.
+
+These issues were revealed in a discussion held at the Presidential Office today (13) between the Korean Small Business Association representatives and the President's Office officials.
+
+In this case, Sri Lankan workers for fishing in Korea also focused on providing training and employment opportunities in Sri Lanka.
+
+Kim Chung Ryong and many others were present at the meeting.
+
+◼️
+
+[Data](articles/e74e447e.json)
+
+[Extended Data](ext_articles/e74e447e.ext.json)
+
+---
+
+### Recovery of dry food packages in Mannar: trio arrested
+
+*2024-11-13 19:54:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-உலர்-உணவு-பொதிகள்-மீட்பு-மூவர்-கைது/72-347071) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dry food rescue in Mannar: 3 arrests
+
+
+
+Police seized 5kg rice, 2kg mangoes, 1kg sugar from vehicle on Mannar-Juda road. Items worth 613500 LKR were meant for voters. Three suspects, including driver, arrested. Investigation ongoing.
+
+🟩
+
+A batch of dry food items brought by a political party to voters in Mannar has been rescued on Wednesday evening (13) on the main road of Mannar-Jeevai by Adampan police and three suspects have been arrested.
+
+Based on the information available to the police, a batch of dry food items were found in the vehicle when a vehicle was checked on the Mannar-Juda main road.
+
+During the investigation by the police, it was revealed that the dry food items were brought to voters by a political party.
+
+The police were taken to the Adampan Police Station and the three were arrested in the vehicle, including the driver of the vehicle, including the driver of the vehicle.
+
+The vehicle has been recovered by the police as 5 kg of rice buckthood, 2 kg of mango, 1 kg sugar and 20g of rinzo bucket have been prepared to provide about 290 persons in the vehicle.. It has been revealed that the items were purchased for 6 lakhs 13 thousand 500 rupees.
+
+...
+
+[Data](articles/f54343fe.json)
+
+[Extended Data](ext_articles/f54343fe.ext.json)
+
+---
 
 ### நீலகாமத்தில் முறிந்தது ஆலமரம்: இருவர் காயம்
 
@@ -80,19 +164,29 @@ Accordingly, at an early stage, only about 45 million birth, marriage and death 
 
 ---
 
-### මැතිවරණයට අදාළව සමාජ මාධ්‍ය පැමිණිලි 490 ක් ලැබිලා
+### 490 social media complaints have been received in relation to the election
 
 *2024-11-13 18:06:14* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-සමාජ-මාධ්‍ය-පැමිණිලි-490-ක්-ලැබිලා/11-413020) · `si`
 
-මෙවර පාර්ලිමේන්තු මැතිවරණයට අදාළව ඔක්තෝම්බර් 11 දා සිට මේ දක්වා  මාසයක  කාලය තුළ  සමාජ මාධ්‍ය හා සම්බන්ධ පැමිණිලි 490 ක් ලැබී ඇතැයි මැතිවරණ කොමිෂන් සභාව සඳහන් කරයි.
+Here's a summary of 200 characters:
 
-එම පැමිණිලිවලට අදාළ අන්තර්ගතයන් අදාළ සමාජ මාධ්‍ය ආයතන වෙත යොමු කිරීමෙන් පසු එයින්  අන්තර්ගතයන් 184 ක් එම ආයතන මගින් ඉවත් කර  අන්තර්ගතයන් 87 ක්   ඉවත්කර ගැනීම ප්‍රතික්ෂේප කළ බවත් ඉතිරි  අන්තර්ගතයන් 219 සඳහා පසු විපරම් පණිවුඩ  ලැබීමට නියමිතව ඇති බවත් මැතිවරණ කොමිෂන් සභාව පවසයි.
 
-මෙලෙස ලැබුණු පැමිණිලිවලින් 179 ක් අපහාසාත්මක අන්තර්ගතයන් සම්බන්ධයෙනි.වෛරී ප්‍රකාශන 67  ක් දුස් තොරතුරු 52 ක්  ,ළමුන් සම්බන්ධයෙන් 39 ක්,මැතිවරණ පනතට පටහැනි 124 ක් සහ වැරදි පුවත් 29 ක් වශයෙන් ඉතිරි අන්තර්ගතයන් පැවති බව මැතිවරණ කොමිෂන් සභාව වැඩි දුරටත් සඳහන් කරයි.
+
+Elections Commission received 490 social media complaints about parliamentary election. Removed 87 content, left 403. 67 visual votes, 39 student, 52 child-related violations, 234 other complaints.
+
+🟩
+
+The Elections Commission states that 490 complaints have been received from October 11 to this month, 490 social media reports have been received in connection with the Parliamentary election.
+
+The Elections Commission says that the contents of the relevant social institutes to the relevant social media institutions and refused to remove the total number of content and removed 87 content.
+
+The Elections Commission further states that there were 67 Votes of Visual, which was contrary to the Election Act, 39 students, contrary to the Elections Act, which was contrary to 52 children, children, and 234 cases of complaints.
 
 ◼️
 
 [Data](articles/161b3d7b.json)
+
+[Extended Data](ext_articles/161b3d7b.ext.json)
 
 ---
 
@@ -2297,61 +2391,5 @@ Sri Lanka’s leading e-commerce platform, Daraz, has officially launched its an
 [Data](articles/5cd0181e.json)
 
 [Extended Data](ext_articles/5cd0181e.ext.json)
-
----
-
-### ‘Need for sustainable approach to development urgent’
-
-*2024-11-12 22:30:00* · [`islandlk`](http://island.lk/need-for-sustainable-approach-to-development-urgent/) · `en`
-
-Professor Mohan Munasinghe, an esteemed academic and Nobel laureate, highlighted the urgent need for a balanced, sustainable approach to development at the University of Colombo’s Annual Research Symposium.
-
-Speaking to a diverse audience of policymakers, academics and students last week, Prof. Munasinghe stressed the importance of adopting “Balanced Inclusive Green Growth” (BIGG) to combat the interconnected challenges of climate change, poverty, and economic inequality.
-
-Munasinghe, known for pioneering the “Sustainomics” framework, warned that unchecked climate change and overconsumption by wealthy nations could destabilize ecosystems and deepen global inequalities.
-
-Notably, he said that the world’s wealthiest 1% emit greenhouse gases at 175 times the rate of the poorest 10%, revealing the stark imbalance in resource consumption and environmental impact.
-
-...
-
-[Data](articles/69385842.json)
-
-[Extended Data](ext_articles/69385842.ext.json)
-
----
-
-### SLT-MOBITEL recognised as the Fastest 4G Mobile Network by Ookla®
-
-*2024-11-12 22:26:00* · [`islandlk`](http://island.lk/slt-mobitel-recognised-as-the-fastest-4g-mobile-network-by-ookla/) · `en`
-
-Reaffirming its commitment to providing fast and superior network user experience in Sri Lanka, SLT-MOBITEL Mobile has once again been recognised as Sri Lanka’s fastest 4G mobile network by Ookla®, the global leader in fixed broadband and mobile network testing applications, data, and analysis.
-
-SLT-MOBITEL was recognised by Ookla®of Speedtest Intelligence® data as the Fastest 4G LTE Network in Sri Lanka for the first half of 2024, cementing its position as the undisputed leader in mobile network performance and superior user experience. The achievement highlights the company’s dedication to excellence in digital infrastructure in the country, aligning with the growing demand for reliable mobile services and catering to the ever-evolving digital needs of both retail and corporate consumers.
-
-Setting a benchmark in the market, SLT-MOBITEL was previously acknowledged as the fastest mobile network for three consecutive years in 2019, 2020, and 2021 by Ookla® Speedtest Intelligence® data.
-
-...
-
-[Data](articles/f65ce97e.json)
-
-[Extended Data](ext_articles/f65ce97e.ext.json)
-
----
-
-### CSE surpasses 13000 index points in anticipation of positive corporate financial results
-
-*2024-11-12 22:25:00* · [`islandlk`](http://island.lk/cse-surpasses-13000-index-points-in-anticipation-of-positive-corporate-financial-results/) · `en`
-
-Stock market activities which were very positive yesterday, surpassed 13000 index points due to an anticipation of favourable corporate financial results, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 122 points, while the S and P SL20 rose by 37.84 points.
-
-Turnover stood at Rs 4.29 billion with three crossings. Those crossings were reported in HNB, which crossed 6.2 million shares to the tune of Rs 1.43 billion and its shares traded at Rs 230, Overseas Realty 14.3 million shares crossed for Rs 265 million; its shares traded at Rs 18.50 and LOLC Holdings 95000 shares crossed for Rs 43.1 million; its shares sold at Rs 458.50.
-
-...
-
-[Data](articles/b67d619b.json)
-
-[Extended Data](ext_articles/b67d619b.ext.json)
 
 ---

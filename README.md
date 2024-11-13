@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 12:26:18**
+As of **2024-11-13 12:41:23**
 
 ## Newspaper Stats
 
-*Scraped **54,548** Articles*
+*Scraped **54,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,265
 economynextcom | 3,305
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,105
+adalk | 5,106
 adaderanalk | 6,504
 tamilmirrorlk | 7,638
 virakesarilk | 8,855
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,548 (100.0%) of 54,548 articles have been extended.
+54,548 (100.0%) of 54,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -447,6 +447,22 @@ The Chairman of the Elections Commission, RMAL, demands that voters should be co
 [Data](articles/7ba3648d.json)
 
 [Extended Data](ext_articles/7ba3648d.ext.json)
+
+---
+
+### කොකේන් මත්ද්‍රව්‍ය ගුලි ගිල දමා පැමිණි සියරාලියොන් ජාතිකයෙක් අල්ලයි
+
+*2024-11-13 09:25:15* · [`adalk`](https://www.ada.lk/breaking_news/කොකේන්-මත්ද්‍රව්‍ය-ගුලි-ගිල-දමා-පැමිණි-සියරාලියොන්-ජාතිකයෙක්-අල්ලයි/11-413010) · `si`
+
+කොකේන් මත්ද්‍රව්‍ය තොගයක් ගුලි වශයෙන් සකස් කර , ඒවා ගිල දමා පැමිණි සියරාලියෝන් ජාතිකයෙකු 11/12 දින කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ කිසිවක් ප්‍රකාශ කිරීමට නොමැති " හරිත මාවත " ( Green Channel ) ඔස්සේ ගුවන් තොටුපොළෙන් පිටතට යාමට තැත් කරමින් සිටියදී රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+මොහු සියරාලියෝන් හි වාසය කරන 32 හැවිරිදි වී ගොවියෙකි. මොහු 11/12 දින අලුයම 05.49 ට තුර්කියේ ඉස්තාන්බුල් නුවර සිට තුර්කි ගුවන් සේවයේ ටී.කේ.- 730 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබුණි .
+
+ගුවන් තොටුපොළ හරිත මාවත ඔස්සේ පිටව යාමට පැමිණි මෙම ගුවන් මගියා පිළිබඳ සැක සිතූ රේගු මත්ද්‍රව්‍ය පාලන අංශයේ නිලධාරීන් , මොහු පරිලෝකන පරීක්ෂා කිරීමකට ( Scan Test ) ලක් කිරීමේ දී , මොහුගේ ආමාශය තුළ , කොකේන් මත්ද්‍රව්‍ය ගුලි වශයෙන් සකස් කර ගිල දමා පැමිණ ඇති බව අනාවරණය වී තිබේ .
+
+...
+
+[Data](articles/1b9a48de.json)
 
 ---
 
@@ -2343,29 +2359,5 @@ The Achuveli Central College Hall 2 Voting Center has been shifted to the Achchu
 [Data](articles/2956b975.json)
 
 [Extended Data](ext_articles/2956b975.ext.json)
-
----
-
-### Korean tourist and Sri Lankan girl injures two accidents on train
-
-*2024-11-12 16:48:28* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-සෙල්ෆි-ගන්න-ගිහින්-අනතුරු-දෙකකින්-කොරියානු-සංචාරකයෙක්-හා-ලංකාවේ-තරුණියක්-බරපතල-තුවාල-ලබයි/11-412998) · `si`
-
-Two accidents on train: Sri Lankan girl and Korean tourist injured. Girl's right leg severely hurt. Korean tourist, 61, fell near Haputale Railway Station. Both hospitalized.
-
-🟩
-
-Haputale police say that a young girl train and a Korean National Train traveling to Badulla and a large number of train services to Badulla was traveling from Colombo Fort to Badulla..
-
-Train from the Haputale Railway Station at the Haputale Railway Station at the Haputale Road, Galle is located at the Haputale Railway Station at the Haputale Road, Galle today (12).According to the police, he was admitted to the Badulla Teaching Hospital with serious injuries when it comes to the train.
-
-A hospital statement said her right leg was seriously injured. Meanwhile, a Korean National Foreign Tourist tourist who was traveling from Colombo Fort to Badulla, a Korean National Foreign Tourist at Haputale Railway Station at Haputale Railway StationThe police said that fell and was seriously injured.
-
-According to the Korean ton Bay, a Korean ton Bay, a Korean ton Bay, a 61 year old tourist.
-
-...
-
-[Data](articles/bff3654d.json)
-
-[Extended Data](ext_articles/bff3654d.ext.json)
 
 ---

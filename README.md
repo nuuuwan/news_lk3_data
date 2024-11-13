@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 21:00:15**
+As of **2024-11-13 22:15:00**
 
 ## Newspaper Stats
 
-*Scraped **54,607** Articles*
+*Scraped **54,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,129 @@ newsfirstlk | 363
 dbsjeyarajcom | 423
 colombotelegraphcom | 557
 bbccomsinhala | 558
-islandlk | 3,267
+islandlk | 3,269
 economynextcom | 3,317
 dailyftlk | 3,738
 dailymirrorlk | 4,733
-adalk | 5,116
+adalk | 5,117
 adaderanalk | 6,516
-tamilmirrorlk | 7,647
-virakesarilk | 8,867
+tamilmirrorlk | 7,649
+virakesarilk | 8,873
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,606 (100.0%) of 54,607 articles have been extended.
+54,618 (100.0%) of 54,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-13 (Wednesday)
+
+### Lightning strikes
+
+*2024-11-13 21:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-ஒருவர்-பலி/175-347075) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+47-year-old man killed by lightning while plowing paddy field in Madhavachi.
+
+🟩
+
+A 47 -year -old man has died after being struck by lightning this afternoon in Madhavachi.
+
+Police said the disaster was suffered when the man was plowing in the paddy field.
+
+◼️
+
+[Data](articles/e44de5c4.json)
+
+[Extended Data](ext_articles/e44de5c4.ext.json)
+
+---
+
+### 10 trains will be canceled tomorrow
+
+*2024-11-13 21:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-10-ரயில்கள்-ரத்து-செய்யப்படும்/175-347074) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"10+ train cancellations tomorrow due to driver shortage. SLRSMU warns more may follow if authorities can't hire enough drivers."
+
+🟩
+
+The Sri Lanka Railway Station Principals Association (SLRSMU) said that at least ten train services will be canceled tomorrow due to lack of train drivers and assistants.
+
+They also said that due to the lack of train drivers, 22 more train services will not work tomorrow.
+
+This procedure will continue if the responsible authorities are unable to hire the required number of train drivers and railway regulators. The union said the situation would cause uncomfortable for passengers and that many more train services could be canceled in the future.
+
+◼️
+
+[Data](articles/09cbec6f.json)
+
+[Extended Data](ext_articles/09cbec6f.ext.json)
+
+---
+
+### The 31st anniversary commemoration of St. Yakapar Temple, Gurunagar
+
+*2024-11-13 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198628) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+St. Yakapar Temple, Gurunagar, commemorates its 31st anniversary. The temple was bombed in 1993 due to state terrorism. A ceremony was held, led by Arutpani Yavis Adikallar, remembering the past events.
+
+🟩
+
+The 31st anniversary commemoration was commemorated on Wednesday (13) that the St. Yagapar Temple of Gurunagar was bombed and corrupted by state terrorism in 1993.
+
+At the end of the morning at the temple, led by the partner Arutpani Yavis Adikallar, the morning was recalled.
+
+Mind of the Mind of the Mind. Conscious Raj Adikallar gave up.
+
+◼️
+
+[Data](articles/d75f0cf1.json)
+
+[Extended Data](ext_articles/d75f0cf1.ext.json)
+
+---
+
+### A batch of dry food packages brought to voters in Mannar by police;3 persons arrested
+
+*2024-11-13 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198626) · `ta`
+
+Police arrest 3 distributing dry food in Mannar, recover 7kg goods worth ₹613500
+
+🟩
+
+A batch of dry food items brought by a political party to voters in Mannar has been rescued on Wednesday evening (13) on the main road of Mannar-Jeevai by Adampan police and three suspects have been arrested.
+
+Based on the information available to the police, a batch of dry food items found in the vehicle when a vehicle was checked on the main road of Mannar-Jeeva.
+
+During the investigation by the police, it was revealed that the dry food items were brought to voters by a political party.
+
+The police were taken to the Adampan Police Station and the three were arrested in the vehicle, including the driver of the vehicle, including the driver of the vehicle.
+
+The police have recovered 5 kg of rice packets, 2 kg of mango, 1 kg sugar and 20 g rinkso bucket of 5 % to be supplied to about 290 persons in the vehicle.
+
+It has been revealed that the items were purchased for 6 lakhs 13 thousand 500 rupees.
+
+...
+
+[Data](articles/2bc66454.json)
+
+[Extended Data](ext_articles/2bc66454.ext.json)
+
+---
 
 ### Introduction of Special Telephone numbers
 
@@ -116,6 +220,96 @@ The vehicle has been recovered by the police as 5 kg of rice buckthood, 2 kg of 
 
 ---
 
+### Prayer in Jaffna
+
+*2024-11-13 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198624) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Jaffna residents gathered for a prayer ceremony led by Hindu priest Kripananda. Leaders from various faiths participated, including Chief Minister Arutpani Jayaratnam and Islamic representative Rajkumar. The event aimed to promote peaceful parliamentary elections and encourage citizens to fulfill their democratic duties.
+
+🟩
+
+All the people in Jaffna were launched by the leaders of the Sarvadam to fulfill their democratic duties for the parliamentary elections to be held peaceful and without violence.
+
+The prayer ceremony was held at the Jaffna Sarvamadha leader Hindu religious leader Hindu cleric Kripananda priests at the Jaffna Pastur Home.
+
+In this, those who are elected to Parliament prayed that the people should be elected to the needs of the people and that the people should fulfill their democratic duty properly.
+
+The event was attended by Guru Chief Minister Arutpani Jayaratnam, Hindu Religious Guru Kripananda on behalf of the Catholic Church, Jaffna Religious Guru Kripananda, Naga Vikarai on behalf of the Religious Leader, Rakim Melvi on behalf of the Islamists and Sarvamadhi Secretary Rajkumar on behalf of the Islamists.
+
+◼️
+
+[Data](articles/83eb8d51.json)
+
+[Extended Data](ext_articles/83eb8d51.ext.json)
+
+---
+
+### One month in prison if not given holidays to vote
+
+*2024-11-13 19:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198625) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Company chiefs face 1-month jail or Rs 100k fine if they don't give voting holidays. Election Commission warns corporations. Low conflict incidents mark this election season. State power abuse minimal. People urged to drive political culture change.
+
+🟩
+
+We have lodged a complaint with corporations that do not give holidays to vote in the parliamentary elections today. The Executive Director of the February, Rahan Hettiarachchi, said that if the case is not given, the company's chief can be sentenced to a month's imprisonment.
+
+He said this on the complaint that he would not give holidays to vote in the parliamentary election.
+
+We have received a complaint that the parliamentary elections are not given holidays to go to vote today. According to the Election Commission's announcement, the company's chief can be sentenced to a monthly imprisonment if the company does not give a holiday to the vote to vote.. Or one lakh rupees may be imposed. In some cases the two may be imposed. So everyone is obligated to protect the basic rights of the people.
+
+...
+
+[Data](articles/b64e5093.json)
+
+[Extended Data](ext_articles/b64e5093.ext.json)
+
+---
+
+### Kusal Mendis 143, Avishka 100;Sri Lanka 324 -5 wig.
+
+*2024-11-13 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198623) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka batted first in the first ODI. Kusal Mendis (143) and Avishka Fernando (100) scored centuries. The match was delayed due to rain but resumed after Betham Nissank's dismissal. Mendis faced 128 balls for his highest ODI score. New Zealand debutants Michelle Hi, Tim Robinson, and Nathan Smith played.
+
+🟩
+
+Sri Lanka decided to bat first in the first ODI match at Rangiri and Dambulla on Wednesday (13).
+
+Gusal Mendis and Avishka Fernando, who played the most efficiently, accumulated their fourth centuries and added to the total number of Sri Lanka.
+
+Although the match started at a certain time, the game was blocked for some time due to a raining of a bowling.
+
+Shortly after the match was resumed, Betham Nissank (12) lost the match when the total number was 17 runs.
+
+Avishka Fernando and Kusal Mendis then scored centuries and shared 206 runs in the 2nd wicket.
+
+Avishka Fernando lost exactly 100 runs. It contained 9 pounds and 2 sixes.
+
+Gusal Mendis faced 128 balls with 17 pounds and 2 sixes with 143 runs. This is his personal highest number of ODIs in an international ODI.
+
+Michelle Hi, Tim Robinson and Nathan Smith were the debutants of the International ODI for New Zealand.
+
+◼️
+
+[Data](articles/33afa2cf.json)
+
+[Extended Data](ext_articles/33afa2cf.ext.json)
+
+---
+
 ### நீலகாமத்தில் முறிந்தது ஆலமரம்: இருவர் காயம்
 
 *2024-11-13 19:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீலகாமத்தில்-முறிந்தது-ஆலமரம்-இருவர்-காயம்/76-347069) · `ta`
@@ -138,17 +332,89 @@ Two people have been admitted to hospital after a massive tree fell in the Lion 
 
 ---
 
-### නව පාර්ලිමේන්තුව 21දා රැස්වෙයි
+### Siyambalanduwa Places to the Principal of Vidyalaya
+
+*2024-11-13 19:08:23* · [`adalk`](https://www.ada.lk/breaking_news/සියඹලාන්ඩුව-විදුහලේ-විදුහල්පතිනියට-දුන්-ස්ථාන-මාරුව-බල-රහිත-කරයි/11-413026) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Court of Appeal judges investigated over school development meeting controversy. Petition filed against Moneragala Director of Education. Uva Provincial Director issues transfer letter allowing petition to proceed.
+
+🟩
+
+The Court of Appeal, which has been appointed to the Siyambalanduwa, has been sent to the Siyambalanduwa Central Provincial Director of Education to the Siyambalanduwa Provincial Director of Education to the Siyambalanduwa Provincial Director of Education at the Maha Vidyalaya in Moneragala.
+
+The Court of Appeal President Nissanka Bandula Karunaratne and Judge Shashi Mahendran were investigated in the face of a panel of judges.
+
+As respondents in the petitate, Moneragala Director of India, Sri Lanka Director of India, as respondents, was respondents with Indica Paranamana.. Amaradasa and others were named.
+
+Court of Appeal, Judge Shashi Mahendran, with a group of parents had complained that the Petroleum of the Provincial Director of Education had come to a complaint with a group of parents in Moneragala.He is stated in the decision.
+
+...
+
+[Data](articles/b63e9f6d.json)
+
+[Extended Data](ext_articles/b63e9f6d.ext.json)
+
+---
+
+### New Parliament gathers on Thursday
 
 *2024-11-13 18:40:05* · [`adalk`](https://www.ada.lk/breaking_news/නව-පාර්ලිමේන්තුව-21දා-රැස්වෙයි/11-413023) · `si`
 
-අද (14දා) පැවැත්වෙන පාර්ලිමේන්තු මැතිවරණයෙන් සතියකට පසු එනම් නොවැම්බර් 21 දින පෙරවරු 10.00 ට නව පාර්ලිමේන්තුව රැස්වේ.
+Here's a summary in 200 characters:
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 වගන්තියෙන් පැවරී ඇති බලතල අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් එදින පාර්ලිමේන්තුව කැඳවීමේ අතිවිශේෂ ගැසට් නිවේදන ඊයේ (12දා) නිකුත් කර ඇත . මෙලෙස රැස්වන්නේ ශ්‍රී ලංකාවේ 10 වැනි පාර්ලිමේන්තුවයි.
+
+
+New Parliament convenes Nov 21 at 10 AM. President Anura Kumara Dissanayake issues gazette notifications under Section 70 of the Constitution. 10th Parliament of Sri Lanka begins its session.
+
+🟩
+
+A week later, the new Parliament gathered at 10.00 am on November 21 parliament today (14).
+
+President Anura Kumara Dissanayake has issued special gazette notifications to be called by President Anura Kumara Dissanayake on the powers vested in Section 70 of the Constitution.. The 10th parliament of Sri Lanka are collected in Sri Lanka.
 
 ◼️
 
 [Data](articles/f35c086e.json)
+
+[Extended Data](ext_articles/f35c086e.ext.json)
+
+---
+
+### Hazaranga second place in Pakistanis in ICC ODI rankings
+
+*2024-11-13 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198622) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Pakistan's Babar Azam and Shaheen Shah Afridi lead ICC ODI rankings. Sri Lanka's Hazaranga ranks 2nd in T20. Shaheen Afridi excelled in Australia series, taking 8 wickets. Hazaranga jumps 4 spots in T20 rankings after 6 wickets against NZ.
+
+🟩
+
+Pakistanis Babar Azam and Shaheen Shah Abridi tops the international ODI bowling and cricket rankings.
+
+Sri Lanka's Vaikkunnu Hazaranga is ranked 2nd in the international T20 cricket rankings.
+
+Fast bowler Shaheen Shah Avridi was one of the key players who played the leading ODI series 2 - 1 for the first time after 22 years on Australian soil.
+
+Shaheen Shah Avari, who played in all three matches in the series, took 8 wickets with an average of 12.62.
+
+In the rankings for international ODI bowlers, Shaheen Shah Abridi became the first place with Keshav Maharaj, Rashid Khan and Kuldeep Yadav with 686 points.
+
+South African player Keshav Maharaj (674 points) behind 3rd place. Afghan player Rashid Khan (687 points) continues to be in the 2nd place and Indian player Kuldeep Yadav (674 points) behind 3rd place to 4th.
+
+Shaheen Shah Abridi, who was first in the first place for bowlers' rankings during the 2023 ICC ODI World Cup in India.
+
+...
+
+[Data](articles/eb40caee.json)
+
+[Extended Data](ext_articles/eb40caee.ext.json)
 
 ---
 
@@ -2203,219 +2469,5 @@ Following this, Members will elect the Speaker, marking the first major task for
 [Data](articles/9d509ff8.json)
 
 [Extended Data](ext_articles/9d509ff8.ext.json)
-
----
-
-### NMSJ urges political parties  to uphold people’s expectations
-
-*2024-11-13 01:23:33* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-urges-political-parties-to-uphold-people-s-expectations/56-769157) · `en`
-
-The National Movement for Social Justice (NMS) in a statement urged all political parties to uphold people’s expectations.
-
-We believe that in three days, the new Parliament, made up of representatives elected by the people, will take on a greater responsibility than ever before in history.
-
-This is especially important given the irresponsible behaviour we have seen in Parliament in recent years. Both the incoming Government and the Opposition will have a huge responsibility. Their first task should be to strengthen democracy by helping the country recover from the financial crisis we are facing. Additionally, the new Parliament must reflect the political culture that the people expect, with both the ruling party and the Opposition playing their part.
-
-...
-
-[Data](articles/049d6d28.json)
-
-[Extended Data](ext_articles/049d6d28.ext.json)
-
----
-
-### 35 killed, over 40 injured after driver rams car into crowd in China
-
-*2024-11-13 01:23:18* · [`dailyftlk`](https://www.ft.lk/news/35-killed-over-40-injured-after-driver-rams-car-into-crowd-in-China/56-769156) · `en`
-
-Police in China say 35 people were killed and another 43 injured when a driver rammed his car into people exercising at a sports centre in the southern Chinese city of Zhuhai.
-
-The 62-year-old driver was detained, police said Monday. It was not immediately clear whether it was an attack or an accident. No motive was mentioned, and police said investigations continued.
-
-The Monday night incident came on the eve of the country’s premier aviation exhibition by the People’s Liberation Army, hosted annually in Zhuhai. There has been heavy censorship of information about the incident given the timing and location, with officials only announcing the death toll the following day. One of the four hospitals that took in people for treatment said it had more than 20 injured people, state media reported Monday.
-
-...
-
-[Data](articles/b34584ab.json)
-
-[Extended Data](ext_articles/b34584ab.ext.json)
-
----
-
-### Death in accident
-
-*2024-11-13 00:52:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-குடும்பஸ்தர்-மரணம்/175-347038) · `ta`
-
-Family member dies instantly in car crash on Manipay-Kaithadi highway in Jaffna. 53-year-old man from southern Vaddukoddai area riding motorcycle collides with another bike while overtaking, resulting in fatal impact.
-
-🟩
-
-A family member died on the spot in a vehicle accident on the Manipay -Kaithadi main road in Jaffna.
-
-In the meantime, the Rajadi Road, Disk. The 53 -year -old from the southern and Vaddukoddai area has died.
-
-While traveling on a motorbike, he tried to overtake the man on the road on the other motorcycle.. He was then killed on the spot when he collided with the motorcycle.
-
-◼️
-
-[Data](articles/1b2e18af.json)
-
-[Extended Data](ext_articles/1b2e18af.ext.json)
-
----
-
-### Special arrangements for specialists
-
-*2024-11-13 00:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தேவையுடையோருக்கு-சிறப்பு-ஏற்பாடுகள்/175-347037) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Election Commission report: Special arrangements for voters with needs. Assistants allowed in polling stations. Transportation for distant stations. Touch frames for visual guidance. Sign translations for announcements and results.
-
-🟩
-
-The Election Commission has issued a report on the facilities provided to voters with special needed in the general election.
-
-Arrangements have been made to take an assistant to identify their ballot into the polling station.
-
-Transporting facilities can be obtained through their election district officials to visit the polling station.
-
-If the distance of the referendum is more than 100 meters, the polling station can go to the three -wheeler.
-
-The facility will be arranged to use a touch frame that guides the ballot for those who cannot identify the vote.
-
-Displaying the announcements on the premises of the referendum with the image of the signature.
-
-Objects such as the release of the Election Commission's official election results are advised to release with sign translation. (A)
-
-◼️
-
-[Data](articles/9551f2b3.json)
-
-[Extended Data](ext_articles/9551f2b3.ext.json)
-
----
-
-### Services will not be available on the 14th
-
-*2024-11-13 00:16:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/14ஆம்-திகதி-சேவைகள்-கிடைக்காது/175-347036) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Public services closed Nov 14: Department of Registration cancels all services due to election work on parliamentary election day. One-day service also unavailable.
-
-🟩
-
-The Department of Registration has announced that all public services, including one day service, will not be available on November 14, the day of parliamentary elections.
-
-The report said that the department employees were assigned to the election work that day, so that the services would not be operated.. Remble
-
-◼️
-
-[Data](articles/8ea21114.json)
-
-[Extended Data](ext_articles/8ea21114.ext.json)
-
----
-
-### Economic ban on Sri Lanka;Baron
-
-*2024-11-13 00:02:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-மீது-பொருளாதாரத்-தடை-விதிக்க-வேண்டும்-சீமான்/175-347035) · `ta`
-
-India urges economic sanctions on Sri Lanka. Sri Lankan president threatens action against illegal Indian fishing.
-
-🟩
-
-The Indian media has reported that the Indian government has urged the Indian government to impose an economic ban on Sri Lanka.
-
-Sri Lankan President Anura Kumara Dissanayake has said that he has made this insistence to the central government that he has said that strict action will be taken against Indian fishermen who are illegally crossing the border.
-
-◼️
-
-[Data](articles/6c883e04.json)
-
-[Extended Data](ext_articles/6c883e04.ext.json)
-
----
-
-### 2024-11-12 (Tuesday)
-
-### 490 social media violations so far
-
-*2024-11-12 23:33:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையில்-490-சமூக-ஊடக-விதிமீறல்கள்-பதிவு/175-347034) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"490 social media violations reported Oct 11-Nov 11, 2024. 184 resolved, 87 refused removal, 219 pending review. Complaints include hate speech, defamation, child exploitation, misinformation."
-
-🟩
-
-From October 11, 2024 to November 11, 2024, a total of 490 complaints of social media violations have been received to the National Election Commission.
-
-The Election Commission has issued a statement saying that the relevant social media institutions have removed the links and contents of 184 such complaints once the records have been announced.
-
-However, social media companies have refused to remove 87 complaints related to connections or content.
-
-The Election Commission said that social media companies have not yet reviewed the content of 219 complaints.
-
-Complaints have been lodged on the use of hate speech, defamation reports against race and religion, the use of children for election campaign and false or fake communication.
-
-◼️
-
-[Data](articles/5cfe901d.json)
-
-[Extended Data](ext_articles/5cfe901d.ext.json)
-
----
-
-### Former MPs time up to December
-
-*2024-11-12 23:21:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முன்னாள்-எம்-பிக்களுக்கு-டிசம்பர்-வரை-காலவகாசம்/175-347033) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Former politicians must return weapons and gifts by Dec 2024. Ministry orders handover to police stations. Investigation to follow."
-
-🟩
-
-The Ministry of Defense has announced that former MPs, Provincial Councils, political parties and organizations leaders and government executive officers will hand over the guns and shops given to them by December 2024.
-
-The Ministry issued a statement today (12) and has requested them to hand over firearms and bombs at a nearby police station.
-
-The police have been instructed to investigate the list of people who have received guns and take steps to seize weapons.
-
-◼️
-
-[Data](articles/4cd12646.json)
-
-[Extended Data](ext_articles/4cd12646.ext.json)
-
----
-
-### Sri Lanka EC says social media platforms refused to take down 87 contents
-
-*2024-11-12 23:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-ec-says-social-media-platforms-refused-to-take-down-87-contents-187078/) · `en`
-
-ECONOMYNEXT – Social media platforms have refused to remove 87 contents/links despite complaints by the Sri Lanka Election Commission (EC) for violating the laws amid the island nation saw the highest number of complaints on defaming, the official data showed.
-
-The EC has forwarded 490 complaints to social media platforms to take action against the contents and links which it considered to have violated the country’s election laws.
-
-These complaints include hate speech (67), misinformation (52), defaming based on ethnicity, religion, privacy, and gender (179), use of children in campaigns (39), false news (29), and contents against the election law (124), the EC data showed.
-
-Out of the total 490 complaints on online contents, social media platforms have removed 184 contents and links, while the EC is waiting for responses on 219 complaints, the data showed.
-
-...
-
-[Data](articles/81150de8.json)
-
-[Extended Data](ext_articles/81150de8.ext.json)
 
 ---

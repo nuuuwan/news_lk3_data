@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-13 14:14:25**
+As of **2024-11-13 14:41:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,564 (100.0%) of 54,565 articles have been extended.
+54,565 (100.0%) of 54,565 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,19 +54,29 @@ Historically, Sri Lanka has seen violent incidents sometimes leading to deaths, 
 
 ---
 
-### 26 දෙනෙකුට දිවි අහිමි වූ මංගල ගමන
+### 26 wedding journey lost
 
 *2024-11-13 12:58:09* · [`adalk`](https://www.ada.lk/breaking_news/26-දෙනෙකුට-දිවි-අහිමි-වූ-මංගල-ගමන/11-413013) · `si`
 
-උතුරු පාකිස්තානයේ ඉන්දු ගඟට බස් රථයක් පෙරලීමෙන් පුද්ගලයන් 26 දෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Here's a summary of 200 characters:
 
-අධික වේගයෙන් ගමන් ගත් බස් රථය රියදුරුට පාලනය කර ගත නොහැකි වීමෙන් මෙම අනතුර සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කර ඇත.
 
-මංගල සාදයක් සඳහා ගමන් කරමින් සිටි පිරිසක් මෙලෙස අනතුරට පත්ව ඇති අතර, එහි මංගල යුවලද සිට ඇති බව එම මාධ්‍ය වාර්තා වල වැඩිදුරටත් සඳහන් කර තිබේ.
+
+26 people died when a bus crashed into the Indus River in Pakistan. The accident occurred during a wedding celebration. Reports suggest the driver lost control while driving at high speed.
+
+🟩
+
+26 people were killed by a bus topple bus to the Indus River in North Pakistan.
+
+Foreign media reports that the accident had occurred when the driver was not controlled by the high speed.
+
+The victims were accidental and had been traged by a wedding party.
 
 ◼️
 
 [Data](articles/0f689eef.json)
+
+[Extended Data](ext_articles/0f689eef.ext.json)
 
 ---
 

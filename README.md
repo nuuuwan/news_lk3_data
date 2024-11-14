@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 06:46:55**
+As of **2024-11-14 05:49:09**
 
 ## Newspaper Stats
 
-*Scraped **54,669** Articles*
+*Scraped **54,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 424
 colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,278
-economynextcom | 3,321
+economynextcom | 3,319
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,657
+tamilmirrorlk | 7,655
 virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
@@ -26,33 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,660 (100.0%) of 54,669 articles have been extended.
+54,656 (100.0%) of 54,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
-
-### Sri Lanka goes for parliament polls amid unfinished debt restructuring, economic reforms
-
-*2024-11-14 06:00:00* · [`economynextcom`](https://economynext.com/preview-sri-lanka-goes-for-parliament-polls-amid-unfinished-debt-restructuring-economic-reforms-187408/) · `en`
-
-ECONOMYNEXT – Over 17.1 million voters in Sri Lanka are eligible to cast their votes to elect a 225-member parliament in the November 14 polls amid the sovereign defaulted nation’s partially completed debt restructuring and unfinished economic reforms.
-
-President Anura Kumara Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led ruling National People’s Power (NPP) is likely to secure most seats in the polls held 51 days after historic victory of Dissanayake, the first Marxists leader of the island nation.
-
-The NPP has shown signs of positioning itself as a reformist force, leveraging populist appeal and a Marxist-leaning platform focused on socio-economic equity and anti-corruption.
-
-The NPP’s policy platform has resonated strongly with voter segments disillusioned by the economic crises and prior administrations, analysts say.
-
-The election campaign was dominated by debates over the state of economy, corruption, and experience.
-
-...
-
-[Data](articles/f424e991.json)
-
-[Extended Data](ext_articles/f424e991.ext.json)
-
----
 
 ### Cross-Party Youth Dialogue unites young leaders ahead of Parliamentary poll
 
@@ -274,22 +252,6 @@ The suspect has reportedly confessed that additional pellets remain in his stoma
 
 ---
 
-### 10 ஆவது பாராளுமன்றத்துக்காக இன்று வாக்களிப்பு
-
-*2024-11-14 01:41:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றத்துக்காக-இன்று-வாக்களிப்பு/175-347081) · `ta`
-
-இலங்கையின் 10 ஆவது பாராளுமன்றத்திற்கான தேர்தல், இன்று வியாழக்கிழமை   14 ஆம் திகதி நடைபெறுகின்றது.
-
-பாராளுமன்றத்திலுள்ள 225 ஆசனங்களில் மக்களின் நேரடி வாக்குகள் மூலம் தெரிவாகும் 196 பாராளுமன்ற ஆசனங்களுக்காக  8,352 வேட்பாளர்கள் களமிறங்கியுள்ளனர்.இந்த தேர்தலில் அங்கீகரிக்கப்பட்ட அரசியல் கட்சிகளைச் சேர்ந்த 5006 வேட்பாளர்களும் 3346 சுயேச்சைக்குழு வேட்பாளர்களும் போட்டியிடும் நிலையில் இவர்களுக்கு  17,140,354 பேர் வாக்களிக்க தகுதி பெற்றுள்ளனர்.
-
-நாடு முழுவதும் 22 தேர்தல் மாவட்டங்களிலும் 160 தொகுதிகளில் அமைக்கப்படவுள்ள 13,421 வாக்களிப்பு நிலையங்களில் 14ஆம் திகதி காலை 7 மணி முதல் மாலை 4 மணிவரையில் வாக்களிப்புகள் இடம்பெறவுள்ளன.  அதன்பின்னர், தபால் மூல வாக்களிப்புகளை எண்ணும் நடவடிக்கைகள் ஆரம்பமாகும். நிறைவில், வாக்கெண்ணும் நடவடிக்கைகள் ஆரம்பமாகும்.
-
-...
-
-[Data](articles/59c01515.json)
-
----
-
 ### Digitally of government services
 
 *2024-11-14 01:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-சேவைகளை-டிஜிட்டல்-மயமாகும்/175-347080) · `ta`
@@ -490,8 +452,6 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/cdde9d7c.json)
 
-[Extended Data](ext_articles/cdde9d7c.ext.json)
-
 ---
 
 ### Strategy to deflate systemic debt and to support growth
@@ -558,8 +518,6 @@ Prime Lands (Pvt) Ltd, Sri Lanka’s trailblazer in real estate industry, has ma
 
 [Data](articles/ff6c310b.json)
 
-[Extended Data](ext_articles/ff6c310b.ext.json)
-
 ---
 
 ### Fems elevates feminine hygiene with 3X Protection
@@ -577,8 +535,6 @@ Fems understand the diverse needs of women and the relaunch is focused on enhanc
 ...
 
 [Data](articles/c57b12f6.json)
-
-[Extended Data](ext_articles/c57b12f6.ext.json)
 
 ---
 
@@ -1157,20 +1113,6 @@ Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Coor
 [Data](articles/b69deadc.json)
 
 [Extended Data](ext_articles/b69deadc.ext.json)
-
----
-
-### வாக்களிப்பதற்கு உங்கள் கால்களை பயன்படுத்துங்கள்
-
-*2024-11-13 18:44:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பதற்கு-உங்கள்-கால்களை-பயன்படுத்துங்கள்/175-347068) · `ta`
-
-நாட்டின் 10ஆவது பாராளுமன்றத்துக்கான பொதுத் தேர்தல் வாக்களிப்பு, நாடளாவிய ரீதியில், இன்று 14ஆம் திகதி வியாழக்கிழமை காலை 7 மணிக்கு ஆரம்பமாகி, மாலை 4 மணிக்கு நிறைவடையும். வாக்குப் பெட்டிகள் அனைத்தும் வாக்கெண்ணும் நிலையங்களுக்கு எடுத்துச்செல்லப்பட்டதன் பின்னர், வாக்கெண்ணும் நடவடிக்கைகள் முன்னெடுக்கப்படும். தபால்மூல வாக்குகளே முதலில் எண்ணப்படும்.
-
-பலர் இந்த நாளுக்காக கை விரலைக் கட்டிக் காத்திருந்தனர், மற்றவர்கள் இந்த நாள் வராமல் இருந்தால் நல்லது என்று காத்திருந்தனர். வெற்றியாளர் மட்டுமே ஒரு வாக்கை விரும்புகிறார். தோற்றவனுக்கு அது பிடிக்காது. ஒவ்வொரு ஜனாதிபதி,பொது, மாகாண சபைகள், உள்ளூராட்சி மன்றத் தேர்தல்களிலும் இது பொதுவான அம்சமாகும்.
-
-...
-
-[Data](articles/f75bbab3.json)
 
 ---
 
@@ -2030,24 +1972,6 @@ The NPP has historically advocated for stronger state control over strategic eco
 
 ---
 
-### Rusi Pestonjee leaves Sri Lanka’s Abans Finance
-
-*2024-11-13 15:00:00* · [`economynextcom`](https://economynext.com/rusi-pestonjee-leaves-sri-lankas-abans-finance-187119/) · `en`
-
-ECONOMYNEXT – Rusi Pestonjee has resigned from Abans Finance Plc, the finance subsidiary of consumer durables retailer Abans Plc, the company said.
-
-Pestonjee has served as non-independent non-executive director of the finance company for nine years and is also the managing director of the Abans Group, according to the stock exchange filing.
-
-He is the majority shareholder (98.73% stake) of International Restaurant Systems (Private) Limited, which was the local franchisee of McDonald’s.
-
-Sri Lanka Abans says McDonald’s local franchisee mainly owned by its MD, not subsidiary
-
-◼️
-
-[Data](articles/253b6138.json)
-
----
-
 ### Businessman arrested after illegally assembled luxury vehicle seized in Tangalle
 
 *2024-11-13 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103381/businessman-arrested-after-illegally-assembled-luxury-vehicle-seized-in-tangalle) · `en`
@@ -2327,5 +2251,103 @@ The election for the 9th Parliament was held on August 5, 2020. The life span of
 [Data](articles/d5b7ffbc.json)
 
 [Extended Data](ext_articles/d5b7ffbc.ext.json)
+
+---
+
+### 'Our son does not commit suicide, he needs justice'
+
+*2024-11-13 12:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198576) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Parents dispute suicide claim for son. Cite his helpful nature & love for life. Seek justice rather than accepting death as self-inflicted."
+
+🟩
+
+The death of two students of an international school in Colombo's luxury series has caused great controversy and many questions.
+
+Although many claimed suicide, the parents of one of the students who died, Joro Singh's parents, have rejected it and have reported that there have been many misunderstandings.
+
+They have shared their memories of Givon and have reported the events that caused him to die.
+
+The attitude of Jivon, who helped others, was the cause of his death on July 2 at luxury.
+
+Jivon tried to help someone who was in need of his help that day. It was his natural attitude.
+
+However, due to his dedication to help others, we have decided to respond to the false information about his death.
+
+Givon did not commit suicide, and his immense love for life and the attitude of thinking favorably were his characteristics, and we are trying to protect his memories and ensure that his character is understood.
+
+...
+
+[Data](articles/01ffbe65.json)
+
+[Extended Data](ext_articles/01ffbe65.ext.json)
+
+---
+
+### Two defendants acquitted from murder case after 27 years
+
+*2024-11-13 12:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103378/two-defendants-acquitted-from-murder-case-after-27-years) · `en`
+
+The North Central Province Predecessor High Court Judge and incumbent Kuliyapitiya High Court Judge, Manoj Thalgodapitiya, has ordered the acquittal of two defendants indicted before the Anuradhapura High Court for a murder that took place in Rajanganaya 27 years ago.
+
+The defendants, identified as Dadigamage Premasiri alias “Ukkuwa” and K. Wasantha Kumar alias “K. Wasantha,” both residents of Rajanganaya, were acquitted due to insufficient evidence presented by the prosecution.
+
+The High Court Judge ruled that the prosecution had failed to prove the allegations against the defendants beyond a reasonable doubt.
+
+The case, which dates back to October 29, 1997, was initially brought to the Anuradhapura High Court under Section 296 of the Sri Lanka Penal Code Ordinance by the Attorney General, accusing the two defendants of committing the offense within the Anuradhapura HC’s jurisdiction.
+
+◼️
+
+[Data](articles/450cf147.json)
+
+[Extended Data](ext_articles/450cf147.ext.json)
+
+---
+
+### Theft in PMD; former official tension
+
+*2024-11-13 12:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PMD-இல்-திருட்டு-முன்னாள்-அதிகாரி-பதற்றம்/175-347058) · `ta`
+
+Kahatuduwa police investigating theft at PMD. Former director accused of calling photographer about missing equipment after president's departure.
+
+🟩
+
+The Kahatuduwa police have launched an investigation following a complaint that a photographer of the Presidential Media Division (PMD) has received a phone call from the former Director General of the PMD by telephone.
+
+The President has reportedly disappeared from the presidential media unit, including a drone camera.
+
+After President Anura Kumara Dissanayake took office, it was revealed that many equipment had disappeared during the segregation.
+
+The photographer said that during the ongoing inquiries, the former Director General of the phone had telephoned himself, claiming that the photographer would provide the police about the missing equipment.
+
+◼️
+
+[Data](articles/444af323.json)
+
+[Extended Data](ext_articles/444af323.ext.json)
+
+---
+
+### Sujeewa Rajapakse leaves Sri Lanka’s Dipped Products board
+
+*2024-11-13 12:01:00* · [`economynextcom`](https://economynext.com/sujeewa-rajapakse-leaves-sri-lankas-dipped-products-board-187088/) · `en`
+
+ECONOMYNEXT- Sujeewa Rajapakse, who is also the chairman of the state-owned People’s Bank, will resign from the board of Dipped Products Plc, a subsidiary of Hayley’s Plc, the company said in a stock exchange filing.
+
+Rajapakse has served on the board for nine years and will step down from the positions of chairman of the audit committee and independent non-executive director from November 12 and 30 respectively.
+
+Pathiranage Yohan Srineth Perera, an independent non-executive Director will replace Rajapakse as the chairman of the audit committee, the company said.
+
+Perera is a chartered accountant by profession and a former partner of KPMG.
+
+◼️
+
+[Data](articles/31640e01.json)
+
+[Extended Data](ext_articles/31640e01.ext.json)
 
 ---

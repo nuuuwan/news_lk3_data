@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 22:41:27**
+As of **2024-11-15 00:01:13**
 
 ## Newspaper Stats
 
-*Scraped **54,798** Articles*
+*Scraped **54,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,140 @@ dbsjeyarajcom | 424
 bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,278
-economynextcom | 3,338
+economynextcom | 3,340
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,135
+adalk | 5,136
 adaderanalk | 6,547
-tamilmirrorlk | 7,701
-virakesarilk | 8,903
+tamilmirrorlk | 7,707
+virakesarilk | 8,905
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,798 (100.0%) of 54,798 articles have been extended.
+54,806 (100.0%) of 54,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### திருகோணமலையில் தபாலில் இழந்தது தமிழரசு கட்சி
+
+*2024-11-14 23:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-தபாலில்-இழந்தது-தமிழரசு-கட்சி/175-347162) · `ta`
+
+◼️
+
+[Data](articles/db12bc73.json)
+
+---
+
+### ஊவா மாகாணம் -  பதுளை மாவட்டம்  தபால் மூல பெறுபேறுகள்
+
+*2024-11-14 23:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊவா-மாகாணம்-பதுளை-மாவட்டம்-தபால்-மூல-பெறுபேறுகள்/175-347161) · `ta`
+
+◼️
+
+[Data](articles/b5c0d069.json)
+
+---
+
+### கொழும்பு மாவட்ட தபால் மூல பெறுபேறு
+
+*2024-11-14 23:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்ட-தபால்-மூல-பெறுபேறு/175-347160) · `ta`
+
+◼️
+
+[Data](articles/7ce7adc5.json)
+
+---
+
+### Moneragala Postal Source
+
+*2024-11-14 23:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-தபால்-மூல-பெறுபேறு/175-347158) · `ta`
+
+Here's a summary of "Moneragala Postal Source" in approximately 200 characters:
+
+
+
+Moneragala Postal Source refers to the primary mail processing facility serving Moneragala District in Sri Lanka. It handles local and regional postal services, including letter sorting, package delivery, and stamp distribution. The source may also encompass related infrastructure like post offices, sorting machines, and staff responsible for efficient mail management within the district.
+
+🟩
+
+◼️
+
+[Data](articles/95add4fb.json)
+
+[Extended Data](ext_articles/95add4fb.ext.json)
+
+---
+
+### Hambantota Postal Source Recognition
+
+*2024-11-14 23:17:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-தபால்-மூல-பெறுபேறு/175-347157) · `ta`
+
+Here's a summary of "Hambantota Postal Source Recognition" in approximately 200 characters:
+
+
+
+Hambantota Postal Source Recognition refers to a system used to identify the origin of mail sent from Hambantota, Sri Lanka. It likely involves postal codes, tracking systems, and possibly AI technology to verify the source of mail items. This recognition helps streamline mail processing and prevent fraud or misrouting of packages.
+
+🟩
+
+◼️
+
+[Data](articles/c1ffdc76.json)
+
+[Extended Data](ext_articles/c1ffdc76.ext.json)
+
+---
+
+### Kalutara postal source results
+
+*2024-11-14 22:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தபால்-மூல-பெறுபேறுகள்/175-347156) · `ta`
+
+Here's a summary of "Kalutara postal source results" in approximately 200 characters:
+
+
+
+Results from Kalutara postal sources indicate mixed delivery performance. Some areas report high success rates, while others experience frequent delays or lost mail. Factors affecting delivery include weather conditions, road infrastructure, and staffing levels. Overall, service reliability varies significantly across different postal zones within Kalutara.
+
+🟩
+
+◼️
+
+[Data](articles/0bab265c.json)
+
+[Extended Data](ext_articles/0bab265c.ext.json)
+
+---
+
+### Bus crashes in Matale;Three kills;More than 30 people injured
+
+*2024-11-14 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198736) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Bus crash in Matale: 3 dead, over 30 injured. Accident occurred on Dambulla-Mahiyanganaya road when bus collided with van."
+
+🟩
+
+Three persons were killed when a bus and a van crashed into an accident on Thursday evening in the Lakkala Elavaganda area in Matale.
+
+A bus traveling from Dambulla to Mahiyanganan in Elavaganda area of ​​Dambulla - Mahiyanganaya road belonging to the Wilgamuwa Police Division crashed into a van from the opposite direction.
+
+Two persons on the bus and one in the van have died after being admitted to the Wilgamuwa Hospital, 37 passengers and five people in the van were injured.
+
+◼️
+
+[Data](articles/b5a67d38.json)
+
+[Extended Data](ext_articles/b5a67d38.ext.json)
+
+---
 
 ### Three killed in accident: 39 injured
 
@@ -80,6 +196,34 @@ The bus was traveling from Colombo to Vasamuwa via Lakkala.
 
 ---
 
+### Supporters of other parties other than one party are not interested in voting - Mahinda Deshapriya
+
+*2024-11-14 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198734) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Low voter interest observed in general election. Only one party's supporters actively participated. Other parties' supporters showed little enthusiasm for voting. Election monitoring organization expresses concern over low turnout and lack of engagement from certain political groups.
+
+🟩
+
+During our mobile surveillance, supporters of other parties except the only party in the general election voted were not interested in the voting.. But this is very unfortunate, ”said Mahinda Deshapriya, president of the Election Monitoring Organization.
+
+He further stated this at a press conference held at the Headquarters of the Wave Election Monitoring Organization in Rajagiriya on Thursday (14).
+
+The rate of interest in the election is very low compared to the presidential election. During the mobile surveillance we carried out, only one party supporters were able to observe voting.
+
+It could not be observed among other party supporters. However, this is unfortunate. When we asked some people, it was reported that no one was interested in this. The parties are also concerned.
+
+...
+
+[Data](articles/20ad1c9d.json)
+
+[Extended Data](ext_articles/20ad1c9d.ext.json)
+
+---
+
 ### Ratnapura Postal Election Results
 
 *2024-11-14 21:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-தபால்-மூல-தேர்தல்-முடிவுகள்/175-347153) · `ta`
@@ -113,6 +257,32 @@ Accordingly, the NPP has polled 24,776 postal votes, while the Samagi Jana Balaw
 [Data](articles/462d455d.json)
 
 [Extended Data](ext_articles/462d455d.ext.json)
+
+---
+
+### Sri Lanka President’s NPP sweeps Galle postal votes
+
+*2024-11-14 21:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-npp-sweeps-galle-postal-votes-187732/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National People’s Power of Anura Kumara Dissanayake polled 79 percent or 32,298 votes in postal votes of the Galle district, made up mainly of state workers.
+
+The election, acclaimed as the most people, was held amid a fragmented opposition and the lowest turnout for a general election since 2010.
+
+“We definitely believe we will (get a majority),” Prime Minister Harini Amarasuriya told reporters after voting earlier in the day.
+
+“After the Presidential elections many who did not vote for us, are now looking at us favorably.
+
+“The false scares that were made about us has now been shown to be false. Also the way we worked in the past two months.”
+
+Samagi Jana Balawegaya of Sajith Premadasa polled 8.63 percent or 3,526 votes.
+
+The New Democratic Front led by ex-President Ranil Wickremesinghe polled 1,984.
+
+◼️
+
+[Data](articles/cd27c4b4.json)
+
+[Extended Data](ext_articles/cd27c4b4.ext.json)
 
 ---
 
@@ -181,6 +351,28 @@ He was responding to questions from reporters at a media briefing held in Colomb
 [Data](articles/95706cc8.json)
 
 [Extended Data](ext_articles/95706cc8.ext.json)
+
+---
+
+### 51 candidates arrested
+
+*2024-11-14 19:44:24* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-දෙදෙනෙක්-ඇතුළු-51ක්-අල්ලයි/11-413042) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"51 election candidates arrested, including 2 violating laws. Campaign day crackdown."
+
+🟩
+
+51 candidates, including two candidates in violation of election laws, were arrested in this day of election campaign.
+
+◼️
+
+[Data](articles/f97a33f2.json)
+
+[Extended Data](ext_articles/f97a33f2.ext.json)
 
 ---
 
@@ -373,6 +565,32 @@ Elections Commissioner Saman Sri Ratnayake said that 2,034 stations have been se
 [Data](articles/64c01801.json)
 
 [Extended Data](ext_articles/64c01801.ext.json)
+
+---
+
+### Sri Lanka police arrest 41, including 2 candidates over poll violations
+
+*2024-11-14 18:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-arrest-41-including-2-candidates-over-poll-violations-187665/) · `en`
+
+ECONOMYNEXT – Sri Lanka police arrested 41 people, including two candidates, for violating election rules, mainly for illegal election promotions, police said.
+
+“The two candidates were from Kalpitiya and Vavuniya areas,” Nihal Thalduwa, Police Media Spokesperson told reporters.
+
+“Most arrests were for illegal election promotions, taking photographs, tearing up ballot papers, distributing money, and other disturbances to the peaceful voting process,” he said.
+
+An election officer was taken off duty following an incident where a voter was not given the right assistance in the Kattankudy area.
+
+Another incident was reported from Nallathanniya when two intoxicated persons were arrested for harassing a driver of an election official.
+
+A 64 year old person was arrested for tearing a ballot paper in an election center in Wadduwa.
+
+All ballot boxes are being transported to counting centers currently. Only persons with permission are allowed to follow the ballot boxes.
+
+...
+
+[Data](articles/3b179cec.json)
+
+[Extended Data](ext_articles/3b179cec.ext.json)
 
 ---
 
@@ -2119,251 +2337,5 @@ In addition, 203 incidents have been reported regarding hate speech and the Elec
 [Data](articles/4f17c2bd.json)
 
 [Extended Data](ext_articles/4f17c2bd.ext.json)
-
----
-
-### Voting in Mannar peacefully
-
-*2024-11-14 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198646) · `ta`
-
-Peaceful voting underway in Mannar district. 98 polling stations open since 7 AM. High voter turnout observed, surpassing last presidential election morning numbers.
-
-🟩
-
-Voting is being held at the voting centers selected in the district from 7 am today (14).
-
-Voting is taking place in 98 polling stations in the Mannar electorate of Vanni district.
-
-Although voting in the morning in the morning, it is possible to observe that people visit and vote.
-
-With 90 thousand 607 voters qualified to vote in Mannar district, it is possible to observe that more people are voting in the last presidential election in the morning.
-
-◼️
-
-[Data](articles/695db3bd.json)
-
-[Extended Data](ext_articles/695db3bd.ext.json)
-
----
-
-### General Election: Voter turnout as at 10am
-
-*2024-11-14 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103395/general-election-voter-turnout-as-at-10am) · `en`
-
-The district-level voter turnout for the 2024 General Election has already exceeded 20 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 10.00 a.m. this morning (Nov.14) are as follows:
-
-◼️
-
-[Data](articles/7bf61164.json)
-
-[Extended Data](ext_articles/7bf61164.ext.json)
-
----
-
-### Bringing a change is complex
-
-*2024-11-14 10:34:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றத்தை-கொண்டுவருவது-சிக்கலானது/175-347103) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Changing election laws is complex. Mahinda Deshapriya says modifying existing rules is challenging. Some targeted adjustments may be preferable to full overhaul.
-
-🟩
-
-Mahinda Deshapriya, former chairman of the Election Commission, said that changing the existing election law is a long -term complex program.
-
-It is desirable if it is possible to make some selected changes in the existing legal system.. Those
-
-◼️
-
-[Data](articles/07f30594.json)
-
-[Extended Data](ext_articles/07f30594.ext.json)
-
----
-
-### “Vote before the rain”
-
-*2024-11-14 10:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மழைக்கு-முன்பு-வாக்களிக்கவும்/76-347102) · `ta`
-
-"Voting underway in Nuwara Eliya district. 20% cast ballots so far. Election officer urges voters to participate before potential rain."
-
-🟩
-
-Nuwara Eliya District Elections Officer Nandana Kalada said that voting activities at 534 polling centers in the Nuwara Eliya district have begun today and 20 % have voted for the 2024 parliamentary elections.
-
-He has asked the people to vote before it rains again, with the inclement weather in some parts of the Nuwara Eliya district on Wednesday night.
-
-◼️
-
-[Data](articles/d3e09dec.json)
-
-[Extended Data](ext_articles/d3e09dec.ext.json)
-
----
-
-### Two persons arrested for posters
-
-*2024-11-14 10:30:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவரொட்டிகளை-ஒட்டிய-இருவர்-கைது/175-347101) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"2 men (66 & 55) arrested for illegal posters in Galle. Violated election rules. Caught in Kandawattai area. Handed to police."
-
-🟩
-
-Galle police said that two persons who illegally stuck the posters of a political party in violation of election regulations have been arrested this morning.
-
-Two persons, aged 66 and 55, have been arrested in Kandawattai area while following posters in the Galle Kandawatte area.
-
-They were arrested by the police and handed over to the police.
-
-◼️
-
-[Data](articles/1fe94f82.json)
-
-[Extended Data](ext_articles/1fe94f82.ext.json)
-
----
-
-### Sri Lanka’s Singer Finance to raise Rs1bn through bond issue
-
-*2024-11-14 10:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-singer-finance-to-raise-rs1bn-through-bond-issue-187519/) · `en`
-
-ECONOMYNEXT – Singer Finance Plc will issue 10 million bonds at 100 rupees each to raise 1 billion, the company said.
-
-The tier 2, listed, rated, unsecured, subordinated, redeemable, high yield bonds will have a tenor of five years.
-
-The issue is subject to receiving central bank and other regulatory approvals.
-
-Singer Finance has a National Long-Term Rating of ‘BBB(lka)’; outlook stable, by Fitch Ratings. “SFL’s rating is based on our expectation of support from its parent, consumer-durable retailer, Singer (Sri Lanka) PLC (Singer, A(lka)/Stable),” the rating agency said in March.
-
-Fitch also affirmed SFL’s outstanding senior unsecured debt at ‘BBB(lka)’ and outstanding subordinated unsecured debentures at ‘BB+(lka)’.
-
-Singer Sri Lanka is part of one of Sri Lanka’s largest conglomerates, Hayleys.
-
-◼️
-
-[Data](articles/7f8e4b3c.json)
-
-[Extended Data](ext_articles/7f8e4b3c.ext.json)
-
----
-
-### Voting for 106 years old
-
-*2024-11-14 10:17:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/106-வயது-முதியவர்-வாக்களிப்பு/175-347098) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-106-year-old Yon Philip Lewis votes in Trincomalee. Born in Jaffna in 1918, he's voted in every Sri Lankan parliamentary election since moving to Trincomalee at 22.
-
-🟩
-
-106 -year -old Yon Philip Lewis made his vote for the parliamentary election at St. Mary's College, Trincomalee today (14).
-
-He said that he was born in Jaffna on 18.11.1918 and came to Trincomalee at the age of 22 and that he had voted for all the parliamentary elections in Sri Lanka.. (S.Kethabonkalan)
-
-◼️
-
-[Data](articles/5bd84446.json)
-
-[Extended Data](ext_articles/5bd84446.ext.json)
-
----
-
-### Voting in a peaceful manner in Batticaloa
-
-*2024-11-14 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198642) · `ta`
-
-Batticaloa district sees peaceful voting for Sri Lanka's 10th parliamentary election. 392 candidates contest for 5 seats. 44,286 voters cast ballots across 442 polling stations. No major incidents reported. Security measures in place involving military, police, and election officials.
-
-🟩
-
-Based on the 10th parliamentary election plan in Sri Lanka, it is observed that the votes are taking place on Thursday, the 14th of Thursday.
-
-It is also seen that people are eagerly attending voting to choose their representatives.
-
-A total of 56 candidates were submitted to 23 political parties and 33 independent groups in the Batticaloa district for the parliamentary election.
-
-A total of 49 nominations have been accepted, with 22 political parties and 27 independent groups, and this time 392 candidates are contesting in the Batticaloa district to select 5 MPs.
-
-A total of 7 nominations were rejected by a political party and 6 independent groups.
-
-14,222 candidates from the Batticaloa district applied for postal voting by posting in parliamentary elections. However, the applications of 14,003 have been accepted, said Batticaloa Assistant Election Commissioner MPM Subiyan.
-
-...
-
-[Data](articles/f1b4f27e.json)
-
-[Extended Data](ext_articles/f1b4f27e.ext.json)
-
----
-
-### Towards A More Profitable & Sustainable Agriculture
-
-*2024-11-14 10:06:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-a-more-profitable-sustainable-agriculture/) · `en`
-
-One of the key happenings in human history, is the so-called “Industrial Revolution,” that originated about two centuries ago, with Europe, North America and Japan, as the focal points. These are now broadly defined as “Developed Countries.” They distinguish themselves as having higher per capita incomes, and thereby offering their citizens better living conditions than do the ”Developing” or “Less developed” ones.
-
-It is tempting yet erroneous, to believe that what prevailed two centuries ago, can be transposed today to other countries including Sri Lanka, presently classified among the “Developing countries.”
-
-Typically, the industrial era manifested as a movement away from labour and towards machinery driven enterprises. The unspoken assumption Is that what worked for them then, should do for us now.
-
-...
-
-[Data](articles/a02e2d62.json)
-
-[Extended Data](ext_articles/a02e2d62.ext.json)
-
----
-
-### 37 years of age
-
-*2024-11-14 10:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-வயதுடையை-நபர்-வெட்டிக்-கொலை/175-347097) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Body found on beach behind Habaraduwa hotel. 37-year-old man recovered. Police investigating unidentified suspects. Incident occurred near Mihiripenna area.
-
-🟩
-
-A 37 -year -old man has been recovered yesterday after being hacked to the beach on the back of the Habaraduwa hotel.
-
-The body of a man has been recovered from the beach in the back of a hotel located in Mihiripenna area in Habaraduwa, police said.
-
-Habaraduwa police are investigating the incident as the suspects involved in the murder have not yet been identified.
-
-◼️
-
-[Data](articles/719dcdf5.json)
-
-[Extended Data](ext_articles/719dcdf5.ext.json)
-
----
-
-### General Election: Voter turnout as at 9am
-
-*2024-11-14 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103394/general-election-voter-turnout-as-at-9am) · `en`
-
-The district-level voter turnout for the 2024 General Election has already exceeded 10 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 09.00 a.m. this morning (Nov.14) are as follows:
-
-◼️
-
-[Data](articles/3a7ef97f.json)
-
-[Extended Data](ext_articles/3a7ef97f.ext.json)
 
 ---

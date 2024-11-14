@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 00:40:56**
+As of **2024-11-15 00:57:54**
 
 ## Newspaper Stats
 
-*Scraped **54,822** Articles*
+*Scraped **54,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,27 +18,105 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,136
 adaderanalk | 6,555
-tamilmirrorlk | 7,711
-virakesarilk | 8,906
+tamilmirrorlk | 7,717
+virakesarilk | 8,907
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,821 (100.0%) of 54,822 articles have been extended.
+54,822 (100.0%) of 54,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### மாத்தளை தபாலில் அனுர வெற்றி
+### காலி மாவட்டம் அம்பலாங்கொடை தேர்தல் முடிவுகள்
+
+*2024-11-15 00:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-அம்பலாங்கொடை-தேர்தல்-முடிவுகள்/175-347169) · `ta`
+
+◼️
+
+[Data](articles/c4a6a46b.json)
+
+---
+
+### காலி மாவட்டம் பலபிட்டிய தேர்தல் முடிவுகள்
+
+*2024-11-15 00:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-பலபிட்டிய-தேர்தல்-முடிவுகள்/175-347168) · `ta`
+
+◼️
+
+[Data](articles/6fcb694f.json)
+
+---
+
+### தென் மாகாணம் - மாத்தறை மாவட்டம்  தபால் மூலம்
+
+*2024-11-15 00:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்-மாகாணம்-மாத்தறை-மாவட்டம்-தபால்-மூலம்/175-347167) · `ta`
+
+◼️
+
+[Data](articles/77394731.json)
+
+---
+
+### காலி மாவட்டம் - அக்மீமன தேர்தல் முடிவுகள்
+
+*2024-11-15 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-அக்மீமன-தேர்தல்-முடிவுகள்/175-347166) · `ta`
+
+◼️
+
+[Data](articles/0dacf13d.json)
+
+---
+
+### Anura wins in Matale Postal
 
 *2024-11-15 00:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-தபாலில்-அனுர-வெற்றி/175-347165) · `ta`
+
+Here's a summary of "Anura wins in Matale Postal" in approximately 200 characters:
+
+
+
+"A decisive victory for Anura in the Matale postal district election. The candidate secured a strong mandate from local voters, reflecting their popularity and campaign effectiveness."
+
+🟩
 
 ◼️
 
 [Data](articles/059ebcdd.json)
+
+[Extended Data](ext_articles/059ebcdd.ext.json)
+
+---
+
+### அநுராதபுரத்தில் தேசிய மக்கள் சக்தியிலிருந்து 9  உறுப்பினர்களை மக்கள் தெரிவு செய்வர் - வசந்த சமரசிங்க
+
+*2024-11-15 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198741) · `ta`
+
+அநுராதபுரம் மாவட்டத்தில் 9 பாராளுமன்ற உறுப்பினர்களை மக்கள் தெரிவு செய்வர். வெற்றிகரமாக தேர்தல் பிரசார நடவடிக்கைகளை முன்னெடுத்த குழுவினர் என்ற அடிப்படையில் எமக்கு அந்த நம்பிக்கை இருக்கிறது என வசந்த சமரசிங்க தெரிவித்தார்.
+
+வியாழக்கிழமை (14)  வாக்களித்தன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிடும் போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+கடந்த செப்டெம்பர் 21ஆம் திகதி மக்கள் புரட்சியொன்றை ஏற்படுத்தி அநுரகுமார திஸாநாயக்கவை ஜனாதிபதியாக தெரிவு செய்தனர். மக்களால் எடுக்கப்பட்ட அந்த வரலாற்று தீர்மானத்தை தொடர்ந்தும் நடைமுறைப்படுத்துவதற்கு பாராளுமன்றத்தை தேசிய மக்கள் சக்தியால் நிரப்புமாறு கோரினோம்.
+
+அந்த வகையில் தேசிய மக்கள் சக்தியின் ஆதரவாளர்கள் ஆர்வத்துடன் வாக்களித்திருக்கின்றனர். அந்த வகையில் அநுராதபுரம் மாவட்டத்தில் 9 பாராளுமன்ற உறுப்பினர்களை மக்கள் தெரிவு செய்வர். வெற்றிகரமாக தேர்தல் பிரசார நடவடிக்கைகளை முன்னெடுத்த குழுவினர் என்ற அடிப்படையில் எமக்கு அந்த நம்பிக்கை இருக்கிறது.
+
+...
+
+[Data](articles/662b8591.json)
+
+---
+
+### நுவரெலியாவில் தபாலில் சரிந்தது யானை
+
+*2024-11-15 00:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-தபாலில்-சரிந்தது-யானை/76-347164) · `ta`
+
+◼️
+
+[Data](articles/47b887db.json)
 
 ---
 
@@ -117,6 +195,16 @@ Here's a summary of "Anura captured the empty constituency" in approximately 200
 [Data](articles/48398bf7.json)
 
 [Extended Data](ext_articles/48398bf7.ext.json)
+
+---
+
+### திருகோணமலையில் தபாலில் இழந்தது தமிழரசு
+
+*2024-11-14 23:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-தபாலில்-இழந்தது-தமிழரசு/175-347162) · `ta`
+
+◼️
+
+[Data](articles/6658926f.json)
 
 ---
 
@@ -2117,151 +2205,5 @@ In particular, the party's symbol of such candidates has been thrown into the re
 [Data](articles/a64ec7f1.json)
 
 [Extended Data](ext_articles/a64ec7f1.ext.json)
-
----
-
-### Republicans win majority of US House seats, giving Donald Trump and party control of govt
-
-*2024-11-14 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103398/republicans-win-majority-of-us-house-seats-giving-donald-trump-and-party-control-of-govt) · `en`
-
-Republicans have won enough seats to control the U.S. House, completing the party’s sweep into power and securing their hold on U.S. government alongside President-elect Donald Trump.
-
-A House Republican victory in Arizona, alongside a win in slow-counting California earlier Wednesday, gave the GOP the 218 House victories that make up the majority. Republicans earlier gained control of the Senate from Democrats.
-
-With hard-fought yet thin majorities, Republican leaders are envisioning a mandate to upend the federal government and swiftly implement Trump’s vision for the country.
-
-The incoming president has promised to carry out the country’s largest-ever deportation operation, extend tax breaks, punish his political enemies, seize control of the federal government’s most powerful tools and reshape the U.S. economy. The GOP election victories ensure that Congress will be onboard for that agenda, and Democrats will be almost powerless to check it.
-
-...
-
-[Data](articles/ed57c674.json)
-
-[Extended Data](ext_articles/ed57c674.ext.json)
-
----
-
-### Arrest
-
-*2024-11-14 12:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-விநியோகித்தவர்-கைது/175-347111) · `ta`
-
-Candidate arrested distributing money voters police seize funds
-
-🟩
-
-A general election candidate has been arrested by the police near the Kalpitiya Almanar camp while distributing money to voters today (14).
-
-The candidate already had 97,200 rupees and the police had seized the money.
-
-◼️
-
-[Data](articles/f12d750e.json)
-
-[Extended Data](ext_articles/f12d750e.ext.json)
-
----
-
-### Arugambay Travel Ladens Language Israel
-
-*2024-11-14 12:38:10* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සංචාරක-සීමා-ඊශ්‍රායෙලය-ලිහිල්-කරයි/11-413035) · `si`
-
-Israel eases travel restrictions to Sri Lanka, reduces alert level from 4 to 2. Warns citizens to avoid Arugambay area due to intelligence suggesting potential threats.
-
-🟩
-
-Israel has acted to ease the travel limits of Israel's travel limits on the tour of Sri Lanka.
-
-So according to the National Security Council of the National Security Council has reduced the alarm level from four to two.
-
-Israel released a warning to the citizens of the country to avoid returning to Arugambay area. It was with intelligence information that the land would allow his countrymen to go aim to their countrymen.
-
-◼️
-
-[Data](articles/63f97bb2.json)
-
-[Extended Data](ext_articles/63f97bb2.ext.json)
-
----
-
-### Election Commissioner urges Sri Lankans to vote early
-
-*2024-11-14 12:27:00* · [`economynextcom`](https://economynext.com/election-commissioner-urges-sri-lankans-to-vote-early-187543/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commissioner General of Elections Saman Sri Ratnayake urged voters to show up and vote in the ongoing general election.
-
-“We ask that all eligible voters to go to their polling stations as soon as possible,” Ratnayake told reporters.
-
-Other officials urged citizens to vote while the weather was still favourable, with rains expected later in the day.
-
-Polls will close at 4 pm, after which Ratnayake said, counting will begin at 5 pm.
-
-“I believe we will  be able to announce the first results by 10 pm, and regularly thereafter.”
-
-Sri Lanka is voting to choose 225 members to its legislature.
-
-◼️
-
-[Data](articles/deabd0d6.json)
-
-[Extended Data](ext_articles/deabd0d6.ext.json)
-
----
-
-### 17 boys vulnerable in wasp
-
-*2024-11-14 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவிகொட்டில்-17-சிறுவர்கள்-பாதிப்பு/175-347110) · `ta`
-
-17 boys hospitalized after wasp sting during preschool event in Sri Lanka. Three transferred to teaching hospital.
-
-🟩
-
-At the pre -school in the Talawa - Halambawewa area, 17 boys have been admitted to the hospital, Talawa police said.
-
-During the annual diversity exhibition of the pre -school, the boys between the ages of three and four were targeted as a wasp of a wasp of a wasp of a mango tree at the school grounds.
-
-The boys were later admitted to the Talawa Primary Hospital. Among them, three boys have been transferred to the Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/e63bdbf8.json)
-
-[Extended Data](ext_articles/e63bdbf8.ext.json)
-
----
-
-### General Election: Voter turnout as at 11am
-
-*2024-11-14 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103397/general-election-voter-turnout-as-at-11am) · `en`
-
-The district-level voter turnout for the 2024 General Election has already exceeded 30 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 11.00 a.m. this morning (Nov.14) are as follows:
-
-◼️
-
-[Data](articles/658abdae.json)
-
-[Extended Data](ext_articles/658abdae.ext.json)
-
----
-
-### Voting in Trincomalee smoothly
-
-*2024-11-14 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198667) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Election day in Trincomalee: Voting underway smoothly. Sri Lanka's 10th Parliament poll begins at 7 AM.
-
-🟩
-
-The election for Sri Lanka's 10th Parliament began today (14) at 7.00 am.
-
-◼️
-
-[Data](articles/579d3801.json)
-
-[Extended Data](ext_articles/579d3801.ext.json)
 
 ---

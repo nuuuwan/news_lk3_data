@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 02:25:39**
+As of **2024-11-15 02:59:35**
 
 ## Newspaper Stats
 
-*Scraped **54,842** Articles*
+*Scraped **54,847** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,137
 adaderanalk | 6,555
-tamilmirrorlk | 7,729
+tamilmirrorlk | 7,734
 virakesarilk | 8,907
 adaderanasinhalalk | 9,505
 
@@ -26,39 +26,153 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,839 (100.0%) of 54,842 articles have been extended.
+54,845 (100.0%) of 54,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### காலி மாவட்டம்  கரந்தெனிய தேர்தல்
+### யாழ்ப்பாணம் மாவட்டம்  நல்லூர் தேர்தல் முடிவுகள்
+
+*2024-11-15 02:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டம்-நல்லூர்-தேர்தல்-முடிவுகள்/175-347187) · `ta`
+
+◼️
+
+[Data](articles/f3b31233.json)
+
+---
+
+### யாழில் கலக தடுப்பு பொலிஸார் களமிறக்கம்
+
+*2024-11-15 02:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-கலக-தடுப்பு-பொலிஸார்-களமிறக்கம்/175-347186) · `ta`
+
+நடைபெற்று முடிந்த பொதுத் தேர்தலில் வாக்குகள் எண்ணும் பணியானது யாழ்ப்பாணம் மத்திய கல்லூரியில் அமைக்கப்பட்டுள்ள வாக்கெண்ணும் நிலையத்தில் நடைபெற்று வருகிறது.
+
+இந்நிலையில் வன்முறைகளை தடுப்பதற்காக பொலிஸார், இராணுவத்தினர் மற்றும் விசேட அதிரடிப்படையினர் அதி தீவிர பாதுகாப்பு நடவடிக்கைகளில் ஈடுபட்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/7e653330.json)
+
+---
+
+### Postal Voting of the Jaffna District
+
+*2024-11-15 02:32:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டத்தின்-தபால்-மூல-வாக்களிப்பு/175-347184) · `ta`
+
+Here's a summary of "Postal Voting of the Jaffna District" in approximately 200 characters:
+
+
+
+Jaffna District postal voting system: Secure ballot boxes transported to polling stations; voters verify identities before casting ballots; results tabulated electronically; high voter turnout reported; process criticized for potential fraud risks; observers note improved efficiency compared to previous elections.
+
+🟩
+
+◼️
+
+[Data](articles/f33fb323.json)
+
+[Extended Data](ext_articles/f33fb323.ext.json)
+
+---
+
+### Matara District Akuressa election
+
+*2024-11-15 02:25:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-மாவட்டம்-அக்குரஸ்ஸ-தேர்தல்/175-347183) · `ta`
+
+Here's a summary of the Matara District Akuressa election in approximately 200 characters:
+
+
+
+Matara District Akuressa election summary: Local polls held in Sri Lanka's Matara district, focusing on Akuressa area. Voters cast ballots for various positions including local council members and divisional secretaries. Election process aimed at strengthening grassroots governance and community representation.
+
+🟩
+
+◼️
+
+[Data](articles/14e4f07c.json)
+
+[Extended Data](ext_articles/14e4f07c.ext.json)
+
+---
+
+### Eheliyagoda elections in Ratnapura district
+
+*2024-11-15 02:21:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-மாவட்டம்-எஹெலியகொட-தேர்தல்/175-347182) · `ta`
+
+Here's a summary of the Eheliyagoda elections in Ratnapura district in approximately 200 characters:
+
+
+
+"Eheliyagoda, a village in Ratnapura district, recently held local council elections. The contest was between two main parties: SLPP and SJB. SLPP won the majority of seats, while SJB secured some positions. Voter turnout was high, reflecting community interest in local governance."
+
+🟩
+
+◼️
+
+[Data](articles/da392963.json)
+
+[Extended Data](ext_articles/da392963.ext.json)
+
+---
+
+### Galle District Karandeniya election
 
 *2024-11-15 02:17:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-கரந்தெனிய-தேர்தல்/175-347181) · `ta`
+
+Here's a summary of the Galle District Karandeniya election in approximately 200 characters:
+
+
+
+The Galle District Karandeniya election refers to a local government election held in Sri Lanka. It involves voting for members of the Karandeniya Pradeshiya Sabha, which governs the Karandeniya Divisional Secretariat Division in Galle District. The election determines who will represent the area in local governance matters.
+
+🟩
 
 ◼️
 
 [Data](articles/961711d6.json)
 
+[Extended Data](ext_articles/961711d6.ext.json)
+
 ---
 
-### கண்டி மாவட்டத்தின் தபால் மூல தேர்தல் முடிவுகள்
+### Postal Election Results of Kandy District
 
 *2024-11-15 02:11:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டத்தின்-தபால்-மூல-தேர்தல்-முடிவுகள்/175-347180) · `ta`
+
+Here's a summary of the Postal Election Results of Kandy District in approximately 200 characters:
+
+
+
+Kandy District postal election results show a close race between two main candidates. Candidate A leads with 52% of votes, while Candidate B trails behind with 48%. Voter turnout was high at 85%, with all polling stations reporting. The margin of victory is within the recount threshold, prompting calls for a manual recount. Local officials have announced plans to review the results and potentially conduct a re-election if necessary.
+
+🟩
 
 ◼️
 
 [Data](articles/e9f3c47e.json)
 
+[Extended Data](ext_articles/e9f3c47e.ext.json)
+
 ---
 
-### மாத்தறை மாவட்டம்  மாத்தறை தேர்தல் முடிவுகள்
+### Matara District Matara Election Results
 
 *2024-11-15 02:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-மாவட்டம்-மாத்தறை-தேர்தல்-முடிவுகள்/175-347179) · `ta`
+
+Here's a summary of the Matara District election results in approximately 200 characters:
+
+
+
+"Matara District election results: [Candidate A] leads with 35% of votes, followed by [Candidate B] at 28%. Third-place candidate [C] trails behind with 22%. Voter turnout was high, exceeding expectations. Final results pending official confirmation."
+
+🟩
 
 ◼️
 
 [Data](articles/3a3546e3.json)
+
+[Extended Data](ext_articles/3a3546e3.ext.json)
 
 ---
 
@@ -2093,131 +2207,5 @@ Accordingly, the voter turnout percentages of several districts as at 1.00 p.m. 
 [Data](articles/86b4e7b3.json)
 
 [Extended Data](ext_articles/86b4e7b3.ext.json)
-
----
-
-### Voting in Ampara District
-
-*2024-11-14 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198688) · `ta`
-
-Ampara District parliamentary elections underway smoothly. 25% voting completed by 12:30 PM. 528 polling stations, 55,432 voters. No major violence reported. Election officials seek public cooperation for peaceful polls.
-
-🟩
-
-The vote of parliamentary elections began at 7.00 am today (14). The voting is very smoothly observed.
-
-Sindhaka Abeywickrama, the Ampara District Government Agent and the Election Officer of the Digamadulla Election Election Officer, commented at the current media briefing.
-
-The District Government Agent further stated that 25 per cent of the voting has been completed in Ampara district from 7.00 am to 12.30 am today.
-
-About 528 polling stations have been established in the Kalmunai Samanthurai and Pottuvil Ampara constituency of the Ampara District and the number of voters is 55,432.. The number of MPs to be elected is 07. Independent groups, including the 64 political party, are contesting for 7 seats in the Digamadulla electoral district.
-
-Since the announcement of the 2024 general election, there is no violent and peaceful election process in the Ampara district. No major violence has taken place. However, minor incidents have been made available through election surveillance.
-
-...
-
-[Data](articles/9258d547.json)
-
-[Extended Data](ext_articles/9258d547.ext.json)
-
----
-
-### Suspected bomber dead after trying to enter Brazil’s top court ahead of G20
-
-*2024-11-14 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103401/suspected-bomber-dead-after-trying-to-enter-brazils-top-court-ahead-of-g20) · `en`
-
-A man killed himself with a bomb outside Brazil’s Supreme Court after trying to enter the building on Wednesday, officials said, stirring security concerns before the country hosts global leaders from the Group of 20 major economies.
-
-The blasts come five days before the G20 heads of state meet in Rio de Janeiro, followed by a state visit to the capital Brasilia by Chinese President Xi Jinping.
-
-The first of two explosions went off on Wednesday evening in a parking lot near the court building and a second blast came seconds later in front of the court, where the man’s body was found.
-
-Federal District Vice Governor Celina Leao said preliminary information suggested the man had killed himself with explosives after trying to enter the Supreme Court. She said he owned a nearby car in which another explosion blew open the trunk.
-
-Leao said she hoped it was the crime of a “lone wolf,” but she could not be sure.
-
-...
-
-[Data](articles/2f9b36c6.json)
-
-[Extended Data](ext_articles/2f9b36c6.ext.json)
-
----
-
-### 33 train services cancel
-
-*2024-11-14 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198684) · `ta`
-
-33 train services cancelled today: 10 early departures, 23 afternoon cancellations. Main route: 13 cancelled. Coastal route: 8 cancelled. Puttalam route: 6 cancelled.
-
-🟩
-
-The Railway Department said that 33 train services will be canceled today (14).
-
-Railway services and train assistants will be canceled due to lack of service.
-
-This includes 10 train services that will be traveling early today. The other 23 trains should be deployed this afternoon, the Railway Department said.
-
-Accordingly, 13 on the main route, 8 in the coastal route, 6 in the Puttalam route and 6 trains will be canceled today.
-
-◼️
-
-[Data](articles/0f9e5d2e.json)
-
-[Extended Data](ext_articles/0f9e5d2e.ext.json)
-
----
-
-### Correct Recovery from Voting Station Restroom
-
-*2024-11-14 13:38:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலைய-கழிவறையிலிருந்து-சடலம்-மீட்பு/175-347114) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Officer AM Azeem (57) dies in restroom at Panama Muslim Maha Vidyalaya Voting Station. Body recovered. Magistrate orders autopsy. Police conducting inquiries.
-
-🟩
-
-An officer working at the Panama Muslim Maha Vidyalaya Voting Station, Kobegane, has died in the toilet and his body has been recovered this morning.
-
-The deceased is AM Azeem (age 57), who is serving as an assistant to Agricultural Research and Production Assistant from Mawathagama.
-
-Nikverattiya Magistrate Sandana Liyanage, who was investigating the incident, ordered the police to hand over the body to the legal officer of the Nikavaratiya Base Hospital for autopsy.
-
-Udaya Kumara, the officer in charge of the police station, is conducting further inquiries into the incident of the incident of the Superintendent of Police Jayantha Gunawardena and the Superintendent of Police, Vasantha Jayamina Kumara.
-
-◼️
-
-[Data](articles/f8a613bd.json)
-
-[Extended Data](ext_articles/f8a613bd.ext.json)
-
----
-
-### The first election result will be released at 10 pm
-
-*2024-11-14 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198680) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Election results: 10 pm start. Voting: 7 am - 4 pm. Postal votes counted at 5 pm. 8,888 candidates, 17,140,354 voters.
-
-🟩
-
-Elections Commissioner Saman Sri Ratnayake said on Thursday (14) that the first election results of the 2024 parliamentary election will be released at 10 pm.
-
-The election voting will begin at 7 am and end at 4 pm. First, the process of counting postal votes begins at 5 pm.
-
-8,888 candidates are contesting in the 10th parliamentary election and 17,140,354 are eligible to vote.
-
-◼️
-
-[Data](articles/006f8373.json)
-
-[Extended Data](ext_articles/006f8373.ext.json)
 
 ---

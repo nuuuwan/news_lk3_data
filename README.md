@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 06:11:03**
+As of **2024-11-14 05:49:09**
 
 ## Newspaper Stats
 
-*Scraped **54,667** Articles*
+*Scraped **54,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 424
 colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,278
-economynextcom | 3,321
+economynextcom | 3,319
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,118
@@ -26,31 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,656 (100.0%) of 54,667 articles have been extended.
+54,656 (100.0%) of 54,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
-
-### PREVIEW-Sri Lanka goes for parliament polls amid unfinished debt restructuring, economic reforms
-
-*2024-11-14 06:00:00* · [`economynextcom`](https://economynext.com/preview-sri-lanka-goes-for-parliament-polls-amid-unfinished-debt-restructuring-economic-reforms-187408/) · `en`
-
-ECONOMYNEXT – Over 17.1 million voters in Sri Lanka are eligible to cast their votes to elect a 225-member parliament in the November 14 polls amid the sovereign defaulted nation’s partially completed debt restructuring and unfinished economic reforms.
-
-President Anura Kumara Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led ruling National People’s Power (NPP) is likely to secure most seats in the polls held 51 days after historic victory of Dissanayake, the first Marxists leader of the island nation.
-
-The NPP has shown signs of positioning itself as a reformist force, leveraging populist appeal and a Marxist-leaning platform focused on socio-economic equity and anti-corruption.
-
-The NPP’s policy platform has resonated strongly with voter segments disillusioned by the economic crises and prior administrations, analysts say.
-
-The election campaign was dominated by debates over the state of economy, corruption, and experience.
-
-...
-
-[Data](articles/f424e991.json)
-
----
 
 ### Cross-Party Youth Dialogue unites young leaders ahead of Parliamentary poll
 
@@ -1992,24 +1972,6 @@ The NPP has historically advocated for stronger state control over strategic eco
 
 ---
 
-### Rusi Pestonjee leaves Sri Lanka’s Abans Finance
-
-*2024-11-13 15:00:00* · [`economynextcom`](https://economynext.com/rusi-pestonjee-leaves-sri-lankas-abans-finance-187119/) · `en`
-
-ECONOMYNEXT – Rusi Pestonjee has resigned from Abans Finance Plc, the finance subsidiary of consumer durables retailer Abans Plc, the company said.
-
-Pestonjee has served as non-independent non-executive director of the finance company for nine years and is also the managing director of the Abans Group, according to the stock exchange filing.
-
-He is the majority shareholder (98.73% stake) of International Restaurant Systems (Private) Limited, which was the local franchisee of McDonald’s.
-
-Sri Lanka Abans says McDonald’s local franchisee mainly owned by its MD, not subsidiary
-
-◼️
-
-[Data](articles/253b6138.json)
-
----
-
 ### Businessman arrested after illegally assembled luxury vehicle seized in Tangalle
 
 *2024-11-13 14:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103381/businessman-arrested-after-illegally-assembled-luxury-vehicle-seized-in-tangalle) · `en`
@@ -2343,5 +2305,49 @@ The case, which dates back to October 29, 1997, was initially brought to the Anu
 [Data](articles/450cf147.json)
 
 [Extended Data](ext_articles/450cf147.ext.json)
+
+---
+
+### Theft in PMD; former official tension
+
+*2024-11-13 12:07:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/PMD-இல்-திருட்டு-முன்னாள்-அதிகாரி-பதற்றம்/175-347058) · `ta`
+
+Kahatuduwa police investigating theft at PMD. Former director accused of calling photographer about missing equipment after president's departure.
+
+🟩
+
+The Kahatuduwa police have launched an investigation following a complaint that a photographer of the Presidential Media Division (PMD) has received a phone call from the former Director General of the PMD by telephone.
+
+The President has reportedly disappeared from the presidential media unit, including a drone camera.
+
+After President Anura Kumara Dissanayake took office, it was revealed that many equipment had disappeared during the segregation.
+
+The photographer said that during the ongoing inquiries, the former Director General of the phone had telephoned himself, claiming that the photographer would provide the police about the missing equipment.
+
+◼️
+
+[Data](articles/444af323.json)
+
+[Extended Data](ext_articles/444af323.ext.json)
+
+---
+
+### Sujeewa Rajapakse leaves Sri Lanka’s Dipped Products board
+
+*2024-11-13 12:01:00* · [`economynextcom`](https://economynext.com/sujeewa-rajapakse-leaves-sri-lankas-dipped-products-board-187088/) · `en`
+
+ECONOMYNEXT- Sujeewa Rajapakse, who is also the chairman of the state-owned People’s Bank, will resign from the board of Dipped Products Plc, a subsidiary of Hayley’s Plc, the company said in a stock exchange filing.
+
+Rajapakse has served on the board for nine years and will step down from the positions of chairman of the audit committee and independent non-executive director from November 12 and 30 respectively.
+
+Pathiranage Yohan Srineth Perera, an independent non-executive Director will replace Rajapakse as the chairman of the audit committee, the company said.
+
+Perera is a chartered accountant by profession and a former partner of KPMG.
+
+◼️
+
+[Data](articles/31640e01.json)
+
+[Extended Data](ext_articles/31640e01.ext.json)
 
 ---

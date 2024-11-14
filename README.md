@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 17:42:45**
+As of **2024-11-14 18:37:56**
 
 ## Newspaper Stats
 
-*Scraped **54,748** Articles*
+*Scraped **54,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,132
+adalk | 5,133
 adaderanalk | 6,539
-tamilmirrorlk | 7,685
+tamilmirrorlk | 7,692
 virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
@@ -26,45 +26,187 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,745 (100.0%) of 54,748 articles have been extended.
+54,752 (100.0%) of 54,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### பயணக் கட்டுப்பாட்டை இஸ்ரேலும் தளர்த்தியது
+### மலையக நிருபர் மீது தாக்குதல்
+
+*2024-11-14 18:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-நிருபர்-மீது-தாக்குதல்/76-347132) · `ta`
+
+பாராளுமன்ற தேர்தல் தொடர்பில் ஊடகங்களுக்கு செய்தி சேகரிக்கச் சென்ற பொகவந்தலாவ பிரதேச பிராந்திய ஊடகவியலாளர் ஒருவர் கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+தமிழ் இலத்திரனியல் மற்றும் அச்சு ஊடகங்கள் பலவற்றின் பிராந்திய நிருபராகப் பணிபுரியும் பொகவந்தலாவ எஸ்.சதீஸ்குமார் கூரிய ஆயுதத்தால் தலையில் தாக்கப்பட்டு பலத்த காயங்களுக்குள்ளாகி பொகவந்தலாவ பிரதேச வைத்தியசாலையில் வியாழக்கிழமை (14) அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக டிக்கோயா கிளங்கன் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+
+பொகவந்தலாவ கெக்கர்ஸ்வோல்ட் இலக்கம் 2 தமிழ் வித்தியாலயத்தில் அமைக்கப்பட்டிருந்த வாக்களிப்பு நிலையத்திற்கு அருகில் இந்த தாக்குதல் சம்பவம் இடம்பெற்றதாகவும், குறித்த நபர் ஒருவர் தனக்குப் பின்னால் வந்து அருகில் கடையொன்றில் இருந்து கத்தியை எடுத்து தனது தலையில் தாக்கியதாக சதீஸ்குமார் தெரிவித்தார். மேலும், சம்மந்தப்பட்ட சந்தேக நபர் மதுபோதையில் இருந்ததாகவும் அவர் தெரிவித்துள்ளார். சம்பவம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b80e6e45.json)
+
+---
+
+### Do not announce the results
+
+*2024-11-14 18:14:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிவுகளை-அறிவிக்க-வேண்டாம்/175-347131) · `ta`
+
+The Election Commission advises against premature announcements of unofficial results until official results are declared.
+
+🟩
+
+The Commission has advised not to announce unofficial results until official results are announced by the Elections Commission.
+
+◼️
+
+[Data](articles/28995f33.json)
+
+[Extended Data](ext_articles/28995f33.ext.json)
+
+---
+
+### Problem with the ax to go
+
+*2024-11-14 17:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோடரியுடன்-சென்றதால்-சிக்கல்/175-347130) · `ta`
+
+Etho & family denied voting due to cultural ax tradition. Leader allowed, others followed. Vice President & family excluded.
+
+🟩
+
+Vice President of the Veduwa community in Tambana did not allow Etho and her family to vote.
+
+They returned home without voting because they were refused permission to enter the polling booth with an ax on the shoulder.
+
+When he was invited to vote for the Junior School Voting Station, the Senior Chief Officer, who was on duty at the polling station, refused permission to enter the polling station as he was carrying the hand axle of the tradition of the Vedu community and their culture.
+
+However, when Etho, the leader of the community, came to Vannila, he was allowed to enter the polling booth with an ax on his shoulder.
+
+In addition, others from the clan followed him and were allowed to enter the polling booth as usual.
+
+However, the vice president of the clan and his family did not vote.
+
+◼️
+
+[Data](articles/45e3003c.json)
+
+[Extended Data](ext_articles/45e3003c.ext.json)
+
+---
+
+### "Let's get the opportunity"
+
+*2024-11-14 17:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சந்தர்ப்பம்-கிட்டட்டும்/175-347129) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Sajith Premadasa votes, calls for free elections and citizen participation in Sri Lanka's 2024 parliamentary polls."
+
+🟩
+
+Voting for the 2024 parliamentary election began this morning.Sajith Premadasa Rajagiriya, the leader of the United People's Power and the leader of the United People's Alliance, registered his vote at the Vivekarama Vihara, the Vivekarama Vihara, Chandralka Daham School building.
+
+Speaking to the media afterwards, he said that the general election should be a free election that would lead the rights of the people and the rights of the people.
+
+Sajith Premadasa said that the people will have the opportunity to express their opinions and wishes independently.
+
+Sajith Premadasa demanded that all the people join hands and rescue the land that is under the influence of the country and the banks of the country.
+
+◼️
+
+[Data](articles/cf4decfb.json)
+
+[Extended Data](ext_articles/cf4decfb.ext.json)
+
+---
+
+### “Unifying rule”
+
+*2024-11-14 17:47:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்றிணைக்கும்-ஆட்சி-அமையும்/175-347128) · `ta`
+
+"Summarized: President Anura Kumara Dissanayake hopes national People's Power will form a strong parliament, pass people's laws, and create a new parliamentary culture."
+
+🟩
+
+President Anura Kumara Dissanayake assured that the national People's Power would form the North, East, South and West.
+
+In the election to elect members to the tenth parliament of Sri Lanka, he made his vote on Thursday (14) at Panjikawatta Abayasingarama.
+
+Commenting on the votes after voting, the President hoped that the national people's power would form a strong parliament.
+
+The President also said that the laws of the people could be passed and the new parliamentary culture could be created.
+
+The President added that the democratic independence in the country after the presidential election victory is expected in the coming elections, and that the people have realized it in the regime of the national people's power.
+
+◼️
+
+[Data](articles/ea3f91c9.json)
+
+[Extended Data](ext_articles/ea3f91c9.ext.json)
+
+---
+
+### Israel also relaxed travel control
 
 *2024-11-14 17:23:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்-கட்டுப்பாட்டை-இஸ்ரேலும்-தளர்த்தியது/175-347127) · `ta`
 
-அறுகம்பே பகுதிக்கு வருகை தரும் பயணிகளின் எண்ணிக்கையில் இஸ்ரேல் விதித்துள்ள பயணக் கட்டுப்பாடுகளை தளர்த்த இஸ்ரேல் நடவடிக்கை எடுத்துள்ளது.
+Israel eases travel restrictions in Arughambe area, reduces warning level from 4 to 3 after previous advisory on October 23 to avoid the region.
 
-அதன்படி, தேசிய பாதுகாப்பு கவுன்சில் எச்சரிக்கை அளவை நான்கில் இருந்து இரண்டாக குறைத்துள்ளது.
+🟩
 
-மறு அறிவித்தல் வரை அறுகம்பே பகுதிக்கு செல்வதை தவிர்க்குமாறு இஸ்ரேல் தனது பிரஜைகளுக்கு கடந்த ஒக்டோபர் 23ஆம் திகதி எச்சரிக்கை விடுத்திருந்தமை குறிப்பிடத்தக்கது.AN
+Israel has taken steps to relax the travel restrictions imposed by Israel on the number of passengers visiting the Arughambe area.
+
+Accordingly, the National Security Council has reduced the warning level from four to four.
+
+Israel had warned its citizens on October 23 to avoid going to the Arughambe area until the re -announcement.
 
 ◼️
 
 [Data](articles/6716e1af.json)
 
+[Extended Data](ext_articles/6716e1af.ext.json)
+
 ---
 
-### நிறுவனங்களுக்கு எச்சரிக்கை
+### Warning to companies
 
 *2024-11-14 17:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறுவனங்களுக்கு-எச்சரிக்கை/175-347126) · `ta`
 
-பாராளுமன்றத் தேர்தலில் வாக்களிக்கச் செல்ல விடுமுறை வழங்காத நிறுவனத்தின் பிரதானிக்கு ஒரு மாத காலம் சிறைத்தண்டனை விதிக்கப்படலாம் என பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி தெரிவித்துள்ளார்.
+Companies must provide voting leave or face penalties: 1-month jail or Rs.100,000 fine.
 
-பாராளுமன்றத் தேர்தலில் வாக்களிக்க விடுமுறை வழங்குவதில்லை என்ற முறைப்பாடு தொடர்பில் கருத்து தெரிவிக்கையிலே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+🟩
 
-இது தொடர்பில் அவர் மேலும் தெரிவிக்கையில், "இன்று இடம்பெறும் பாராளுமன்றத் தேர்தலில் வாக்களிக்கச் செல்வதற்கு விடுமுறை வழங்குவதில்லை என்ற முறைப்பாடு எமக்குக் கிடைத்திருக்கின்றது.
+The Executive Director of the February, Rohana Hettiarachchi said that the chief of the company that does not give a holiday to vote in the parliamentary election can be sentenced to one month in prison.
 
-அவ்வாறு எந்த நிறுவனமாவது, தேர்தல் ஆணைக்குழு அறிவித்துள்ளதன் பிரகாரம், வாக்களிக்கச் செல்ல இருக்கும் தூரத்துக்கு அமைய விடுமுறை வழங்காவிட்டால், நிறுவனத்தின் பிரதானிக்கு ஒரு மாத காலம் சிறைத்தண்டனை விதிக்கப்படலாம் அல்லது ஒரு இலட்சம் ரூபா தண்டம் விதிக்கப்படலாம்.
+He said this in a statement on the complaint that he would not give holidays to vote in the parliamentary election.
 
-சில சந்தர்ப்பங்களில் இரண்டும் விதிக்கப்படலாம். அதனால் மக்களின் அடிப்படை உரிமையைப் பாதுகாக்க அனைவரும் கடமைப்பட்டுள்ளனர்  என்றார்.
+He added, “We have received a complaint that he does not give holidays to vote in the parliamentary elections today.
+
+If any company has announced the Election Commission, the company may be sentenced to one month in prison or a penalty of one lakh rupees.
+
+In some cases the two may be imposed. So everyone is obliged to protect the basic rights of the people.
 
 ◼️
 
 [Data](articles/ac4dbaa7.json)
+
+[Extended Data](ext_articles/ac4dbaa7.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය ක්‍රිලෝග්‍රෑම් 60ක් සමග බහුදින ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට
+
+*2024-11-14 17:19:23* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ක්‍රිලෝග්‍රෑම්-60ක්-සමග-බහුදින-ධීවර-යාත්‍රාවක්-නාවික-හමුදා-භාරයට/11-413039) · `si`
+
+ශ්‍රී ලංකාවට බටහිර දෙසින් ගැඹුරු මුහු​දේ සිදු කළ විශේෂ මෙහෙයුමකදී මත්ද්‍රව්‍ය සමග බහුදින ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට ගෙන තිබේ.
+
+එලෙස නාවික හමුදා භාරයට ගත් මත්ද්‍රව්‍ය ප්‍රමාණය කිලෝග්‍රෑම් 60ක් පමණ වන බව නාවික හමුදාව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/f6117145.json)
 
 ---
 
@@ -158,15 +300,29 @@ The voting for the country's 10th parliamentary voting commenced today (14) at 7
 
 ---
 
-### ඡන්ද පත්‍රිකාවක් ඉරා දැමූ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested for shrinking a ballot
 
 *2024-11-14 15:52:25* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පත්‍රිකාවක්-ඉරා-දැමූ-පුද්ගලයෙකු-අත්අඩංගුවට/11-413038) · `si`
 
-ඡන්ද පත්‍රිකාවක් ඉරා දැමූ පුද්ගලයෙකු වාද්දූව ​පොතුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Man Arrested: Ballot Tampering Incident in Pothupitiya, Wadduwa"
+
+
+
+This concise summary captures the key elements of the original text while adhering to the character limit requirement. It includes the main action (man arrested), the location (Pothupitiya, Wadduwa), and the context (ballot tampering incident).
+
+🟩
+
+A man torn a ballot has been arrested in the Pothupitiya area in Wadduwa.
 
 ◼️
 
 [Data](articles/08509991.json)
+
+[Extended Data](ext_articles/08509991.ext.json)
 
 ---
 
@@ -1354,6 +1510,18 @@ The first election results of the 2024 parliamentary election will be released a
 
 ---
 
+### தேர்தல் முடிவுகள் இரவு 10 மணிக்கு வெளியாகும்
+
+*2024-11-14 09:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகள்-இரவு-10-மணிக்கு-வெளியாகும்/175-347096) · `ta`
+
+2024 பாராளுமன்றத் தேர்தலின் முதல் தேர்தல் முடிவுகள் இரவு 10 மணிக்கு வெளியாகும். தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க இன்று தெரிவித்தார்.
+
+◼️
+
+[Data](articles/ebf7b6b8.json)
+
+---
+
 ### Police officer who was on duty at the polling station in Jaffna
 
 *2024-11-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198636) · `ta`
@@ -1527,6 +1695,24 @@ Further investigations are being carried out by the lorry police. Remble
 [Data](articles/03338ca8.json)
 
 [Extended Data](ext_articles/03338ca8.ext.json)
+
+---
+
+### வாக்களிப்பு நிலையத்தை தாக்க திட்டம் ; ஆயுதங்கள் மீட்பு
+
+*2024-11-14 08:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்தை-தாக்க-திட்டம்-ஆயுதங்கள்-மீட்பு/175-347088) · `ta`
+
+வாக்களிப்பு நிலையத்தை தாக்க தயாராக இருந்ததாகக் கூறப்படும் லொறியை நேற்று (13)  சோதனையிட்ட போது கைக்குண்டு, டி-56 தோட்டா, டி கடக் துப்பாக்கி, இரண்டு கூரிய கத்திகள் மற்றும் வாள் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக சூரியவெவ பொலிஸார் தெரிவித்தனர். .
+
+இதையடுத்து லொறியின் உரிமையாளர் மற்றும் குடியிருப்பாளர்களிடம் வாக்குமூலம் பதிவு செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+லொறியில் T-56 துப்பாக்கி மறைத்து வைக்கப்பட்டு வாக்களிப்பு நிலையத்தை தாக்குவதற்கு தயாராக இருப்பதாக பொலிஸ் அவசர இலக்கமான 119 க்கு கிடைத்த தகவலுக்கு அமைய  பொலிஸார் உடனடியாக செயற்பட்டு மேற்கொண்ட விசாரணைகளின் போது T-cut துப்பாக்கி, வெடிகுண்டுகள், மற்றும் லாரியின் மேல் பகுதியில் மெழுகு பையில் சுற்றப்பட்ட தோட்டாக்கள் மறைத்து வைக்கப்பட்டிருந்தன.
+
+இந்த தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ள நிலையில், லொறி பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/2f17cc22.json)
 
 ---
 
@@ -2137,165 +2323,5 @@ Michael Brasewell and debutant Michelle Hai then tried to recover the team from 
 [Data](articles/e1515bcc.json)
 
 [Extended Data](ext_articles/e1515bcc.ext.json)
-
----
-
-### 2024-11-13 (Wednesday)
-
-### 3M-MLL warns customers about dangers of purchasing fake and grey channel products
-
-*2024-11-13 23:39:24* · [`dailyftlk`](https://www.ft.lk/business/3M-MLL-warns-customers-about-dangers-of-purchasing-fake-and-grey-channel-products/34-769217) · `en`
-
-The McLarens Group (3M-MLL), the master distributor for 3M products in Sri Lanka, is reaffirming its commitment to safeguarding customers by ensuring that they are the channel for authentic 3M products.
-
-The purchase and use of unauthorised 3M products could lead to a variety of serious problems. These products often do not have warranties, leaving consumers without any kind of support or recourse for complaints. The use of counterfeit or grey channel products, especially personal safety products, pose significant risks to health and safety.
-
-...
-
-[Data](articles/a0a79777.json)
-
-[Extended Data](ext_articles/a0a79777.ext.json)
-
----
-
-### Shortly before: One death
-
-*2024-11-13 23:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-347077) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-1 death reported in shooting near Kalkissa police division. Victim hospitalized, succumbed to injuries. Police investigating via emergency hotline. Incident occurred last night in Badovita area.
-
-🟩
-
-One person was killed in a shooting that took place last night (13) in the Badovita area of ​​the Kalkissa police division.
-
-A person who was injured in the shooting has died after being admitted to the Kalubowila hospital for treatment.
-
-The police said that Kalkis has launched an investigation into the incident through information received for 119 emergency numbers.
-
-◼️
-
-[Data](articles/33220896.json)
-
-[Extended Data](ext_articles/33220896.ext.json)
-
----
-
-### Relieving Tired Eyes
-
-*2024-11-13 23:37:00* · [`islandlk`](http://island.lk/relieving-tired-eyes/) · `en`
-
-Steep two tea bags (black or green tea) in a mug of boiled water for 02 to 04 minutes and then remove the tea bags, and press out the excess water from the bags.
-
-Let the tea bags cool slowly at room temperature or chill in the refrigerator for 10 minutes.
-
-Your cold brew might give you a refreshing jolt, but a caffeine fix for the skin can also help calm blotchiness or swelling.
-
-Start by freezing some brewed coffee in an ice cube tray. Once the coffee ice is ready, spend a few minutes gently rubbing an ice cube: under your eyes, along your brows, across the bridge of your nose, and from the outer corners of your eyes to your temples
-
-Place the slices over your closed eyes for about 15 minutes.
-
-As an alternative, try cold spoons. They can help constrict blood vessels and reduce areas of under-eye darkness.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/cdde9d7c.json)
-
-[Extended Data](ext_articles/cdde9d7c.ext.json)
-
----
-
-### Strategy to deflate systemic debt and to support growth
-
-*2024-11-13 23:35:08* · [`dailyftlk`](https://www.ft.lk/columns/Strategy-to-deflate-systemic-debt-and-to-support-growth/4-769216) · `en`
-
-For a country where there is no monetary sovereignty, systemic debt deflation via quantitative easing is not possible
-
-Deflating systemic debt means reducing debt burden in the economy by design. Sometimes debt deflation takes place by accident. Let us discuss this subject within the Sri Lankan context.
-
-...
-
-[Data](articles/ca7f676a.json)
-
-[Extended Data](ext_articles/ca7f676a.ext.json)
-
----
-
-### Will the 2024 General elections redefine Sri Lanka’s political future?
-
-*2024-11-13 23:31:48* · [`dailyftlk`](https://www.ft.lk/columns/Will-the-2024-General-elections-redefine-Sri-Lanka-s-political-future/4-769215) · `en`
-
-This election is expected to be a defining moment for Sri Lanka, with outcomes that could significantly impact its political and economic trajectory in the coming years – Pic by Shehan Gunasekara
-
-The upcoming General elections in Sri Lanka are pivotal, given the country’s complex political and economic landscape. Several key factors are shaping expectations for the outcome.
-
-First, economic challenges remain a critical concern. Sri Lanka’s economic recovery from a severe debt crisis and inflation surge has been slow, with many citizens still experiencing financial hardship. This context has led to frustration with the ruling Sri Lanka Podujana Peramuna (SLPP), as many view its policies as ineffective in alleviating economic pressures. This dissatisfaction may boost Opposition parties like the Samagi Jana Balawegaya (SJB) and National People’s Power (NPP), who have gained traction with promises of economic reforms and anti-corruption measures.
-
-...
-
-[Data](articles/83f01fc1.json)
-
-[Extended Data](ext_articles/83f01fc1.ext.json)
-
----
-
-### Trump’s triumph: American Revolution/counter-revolution and world order
-
-*2024-11-13 23:21:40* · [`dailyftlk`](https://www.ft.lk/columns/Trump-s-triumph-American-Revolution-counter-revolution-and-world-order/4-769213) · `en`
-
-President Trump actually thought that Kamala Harris, a feminist progressive-liberal, was a “radical-leftist, Marxist, Socialist, Communist”.
-
-The Trump administration and a Republican Senate are going to regard a JVP-NPP regime in the Indian Ocean headed by JVP leader Anura Dissanayake, pale-pink NPP frill, crony corporate décor and all, differently from the way a Democrat White House and Senate did.
-
-The multidimensional triumph of Donald Trump is an outcome I hardly applaud, but as a political scientist and former diplomat, I cannot fail to note its magnitude, even epic character, and respect the political achievement.
-
-Was it a counter-revolution or a revolution? Critics would argue the former; fans, the latter. It is like those two-dimensional pictures we had as postcards or key-tags when we were schoolkids. It all depends on which side you tilt it; which angle you view it from.
-
-...
-
-[Data](articles/34e87f95.json)
-
-[Extended Data](ext_articles/34e87f95.ext.json)
-
----
-
-### Prime Lands recognised for excellence on global stage with double wins at World Business Outlook Awards 2024
-
-*2024-11-13 23:13:00* · [`islandlk`](http://island.lk/prime-lands-recognised-for-excellence-on-global-stage-with-double-wins-at-world-business-outlook-awards-2024/) · `en`
-
-Prime Lands (Pvt) Ltd, Sri Lanka’s trailblazer in real estate industry, has made a resounding mark on the global stage at the World Business Outlook Awards 2024 in Thailand. The company was honoured with the titles ‘Best Real Estate Company of the Year Sri Lanka 2024’ and ‘Best Real Estate Project of the Year Sri Lanka 2024’ for its vibrant YOLO project. The awards reflect Prime Lands’ commitment to innovation, dedication to excellence, and world-class standards that continue to redefine real estate landscape.
-
-...
-
-[Data](articles/ff6c310b.json)
-
-[Extended Data](ext_articles/ff6c310b.ext.json)
-
----
-
-### Fems elevates feminine hygiene with 3X Protection
-
-*2024-11-13 23:12:00* · [`islandlk`](http://island.lk/fems-elevates-feminine-hygiene-with-3x-protection/) · `en`
-
-Fems, the trusted name in feminine hygiene, has relaunched its sanitary napkin line, with an all-new 3X Protection technology designed to offer unparalleled comfort & safety, and featuring enhanced packaging designed to better inform and empower consumers.
-
-The relaunch highlights the brand’s commitment to providing superior protection and comfort inspiring Sri Lankan women to live lives confidently, free from worries about leaks and discomfort.
-
-The Fems range showcases a fresh packaging design that reflects innovation and care that goes into each product. The range includes Fems Cotton Feel (Pink Pack), Fems Drytex (Purple Pack), and Fems Heavy Flow (Turquoise Blue Pack).
-
-Fems understand the diverse needs of women and the relaunch is focused on enhancing the customer experience by clearly communicating the unique benefits and features of the products ensuring every woman feels confident, comfortable, and protected throughout her day.
-
-...
-
-[Data](articles/c57b12f6.json)
-
-[Extended Data](ext_articles/c57b12f6.ext.json)
 
 ---

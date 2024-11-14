@@ -1,0 +1,17 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0db8\u0dd9\u0dad\u0dd9\u0d9a\u0dca \u0da1\u0db1\u0dca\u0daf \u0d85\u0db1\u0dd4\u0db4\u0dcf\u0dad\u0dba",
+      "body_lines": []
+    },
+    "en": {
+      "title": "Voting rate so far",
+      "body_lines": []
+    }
+  },
+  "summary_lines": [
+    "Here's a summary of the voting rate in 200 characters:",
+    "",
+    "\"Current voting rate: [X]%. Based on [Y] total votes cast, with [Z] votes in favor and [W] against. Voter turnout at [percentage]%. Results may change as more ballots are counted.\""
+  ]
+}

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 11:25:12**
+As of **2024-11-14 11:00:02**
 
 ## Newspaper Stats
 
-*Scraped **54,699** Articles*
+*Scraped **54,691** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,187 +16,67 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,126
+adalk | 5,125
 adaderanalk | 6,526
 tamilmirrorlk | 7,670
-virakesarilk | 8,883
+virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,695 (100.0%) of 54,699 articles have been extended.
+54,688 (100.0%) of 54,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### நுவரெலியா மாவட்டத்தில் அமைதியான முறையில் வாக்களிப்பு
-
-*2024-11-14 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198652) · `ta`
-
-பாராளுமன்ற தேர்தலுக்கான வாக்களிப்பு இன்று வியாழக்கிழமை (14)  காலை 7 மணிக்கு ஆரம்பமாகி தற்போது நடைபெற்று வருகின்றது.
-
-குறிப்பாக மலையகத்தை பொருத்தவரை பெருந்தோட்ட மக்கள் உட்பட அணைவரும் வாக்களிப்பு நிலையங்களுக்கு சென்று தங்களுடைய வாக்குகளை பயன்படுத்துவதை காணக்கூடியதாக இருக்கின்றது.
-
-அதேவேளை, பாதுகாப்பு பணியில் பொலிஸார் ஈடுப்பட்டுள்ளதுடன், உள்நாட்டு வெளிநாட்டு சர்வதேச கண்காணிப்பாளர்களும் தங்களது பார்வையை செலுத்தி வருகின்றனர்.
-
-இதேவேளை காலை 8 மணி வரையான காலப்பகுதியில் நுவரெலியா மாவட்டத்தில்  7% சத வீத வாக்கு பதிவு நடைபெற்றுள்ளதாக  நுவரெலியா மாவட்ட தேர்தல் தெரிவத்தாட்சி அதிகாரி / மாவட்ட செயலாளர் நந்தன கலபட தெரிவித்தார்.
-
-நுவரெலியா மாவட்டத்தில் மாலை வேளையில் சீரற்ற காலநிலை இருக்கும் என்பதால் காலை வேளையிலேயே மக்கள் வாக்குச்சாவடிக்குச் சென்று வாக்களிக்கவும் என்று அவர் மேலும் தெரிவித்தார்.
-
-◼️
-
-[Data](articles/9bd76b97.json)
-
----
-
-### Parliamentary Election 2024: Voting Rate Till 10 am!
-
-*2024-11-14 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198649) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's 10th parliamentary election underway. Voting rate at 10 AM: Colombo 20%, Kandy 25%, Nuwara Eliya 20%, Wanni 15%, Badulla 21%, Puttalam 22%, Kalutara 20%, Batticaloa 15%, Ampara 18%, Kegalle 20%, Jaffna 16%, Ratnaruwa 22%, Kurunegala 22%, Matara 10%, Trincomalee 23%. Voting continues nationwide from 7 AM to 4 PM.
-
-🟩
-
-Sri Lanka's 10th parliamentary election is being held on Thursday 14th.
-
-As such, the voting will be held nationwide from 7 am to 4 pm.
-
-Accordingly, the voting rates held at 10 am this morning
-
-Colombo 20%, Kandy 25%, Nuwara Eliya 20%, Wanni 15%, Badulla 21%, Puttalam 22%, Kalutara 20%, Batticaloa 15%, Ampara 18%, Kegalle 20%, Jaffna 16%, Ratnaruwa 22 22%, Kurunegala 22%, Matara 10%and Trincomalee 23%.
-
-◼️
-
-[Data](articles/d92af751.json)
-
-[Extended Data](ext_articles/d92af751.ext.json)
-
----
-
-### Election voting peacefully in Negombo City
-
-*2024-11-14 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198647) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Elections proceed calmly in Negombo. Former Minister Nimal Lansa votes in Sakitam. Henry Rosiro Vijayarathinam casts ballot at Hindu Central College. Two polling stations serve 1,198 and 2,240 voters each.
-
-🟩
-
-Former Minister Nimal Lansa, who is contesting at the cylinder symbol in Gampaha district, came to his parish Sakitam at St. Sebastian College, Street, Negombo.
-
-Henry Rosiro Vijayarathinam, who is contesting in the symbol of the Gampaha district, registered our vote at the polling station set up at Hindu Central College.
-
-Two polling stations have been set up at Vijayaratnam Hindu Central College. One of them will vote for 1,198 voters and second 2240 voters.
-
-◼️
-
-[Data](articles/a39ca03d.json)
-
-[Extended Data](ext_articles/a39ca03d.ext.json)
-
----
-
-### Election campaign on social media: Increase of complaints
+### சமூக ஊடகங்களில் தேர்தல் பிரச்சாரம்:  முறைப்பாடுகள்  அதிகரிப்பு
 
 *2024-11-14 10:46:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-தேர்தல்-பிரச்சாரம்-முறைப்பாடுகள்-அதிகரிப்பு/175-347104) · `ta`
 
-Social media election campaign complaints surge: 1,388 filed, 747 links removed, 2,033 received overall. Complaints focus on race, religion, personality, gender. 203 hate speech incidents reported.
+அமைதியான முறையில் பொதுத் தேர்தலுக்கான வாக்களிப்பு நடவடிக்கைகள் இடம்பெற்று வரும் இந்த காலப்பகுதியில், சமூக ஊடகங்கள் ஊடாக தேர்தல் பிரசாரங்களை மேற்கொண்டமை தொடர்பில் 1,388 முறைப்பாடுகள் பதிவாகியுள்ளதாக, தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
 
-🟩
+மேலும், 11ஆம் திகதி நள்ளிரவு 12 மணி முதல் 12ஆம் திகதி நள்ளிரவு 12 மணி வரையிலான காலப்பகுதியில், 747  சமூக ஊடக இணைப்புகள் அகற்றப்பட்டுள்ளன.
 
-The Elections Commission said that 1,388 complaints have been made regarding election campaigns through social media during this period of voting for the general election.
+அத்துடன், ஒக்டோபர் 11 முதல் இதுவரையில் மொத்தமாக  2,033 சமூக ஊடகங்கள் தொடர்பான புகார்கள் பெறப்பட்டுள்ளன.
 
-In addition, 747 social media links have been removed from midnight on the 11th to 12 midnight.
+அதிக எண்ணிக்கையிலான முறைப்பாடுகள், இனம், மதம், ஆளுமை மற்றும் பாலினம் ஆகியவற்றின் அடிப்படையில், 385 பதிவாகியுள்ளன.
 
-In addition, a total of 2,033 social media complaints have been received from October 11.
-
-A large number of complaints have been reported, based on race, religion, personality and gender.
-
-In addition, 203 incidents have been reported regarding hate speech and the Elections Commission said.
+மேலும், வெறுப்பு பேச்சு தொடர்பாக 203 சம்பவங்களும் பதிவாகியுள்ளதாகவும், தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.AN
 
 ◼️
 
 [Data](articles/4f17c2bd.json)
 
-[Extended Data](ext_articles/4f17c2bd.ext.json)
-
 ---
 
-### Voting in Mannar peacefully
-
-*2024-11-14 10:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198646) · `ta`
-
-Peaceful voting underway in Mannar district. 98 polling stations open since 7 AM. High voter turnout observed, surpassing last presidential election morning numbers.
-
-🟩
-
-Voting is being held at the voting centers selected in the district from 7 am today (14).
-
-Voting is taking place in 98 polling stations in the Mannar electorate of Vanni district.
-
-Although voting in the morning in the morning, it is possible to observe that people visit and vote.
-
-With 90 thousand 607 voters qualified to vote in Mannar district, it is possible to observe that more people are voting in the last presidential election in the morning.
-
-◼️
-
-[Data](articles/695db3bd.json)
-
-[Extended Data](ext_articles/695db3bd.ext.json)
-
----
-
-### Bringing a change is complex
+### ’மாற்றத்தை கொண்டுவருவது சிக்கலானது’
 
 *2024-11-14 10:34:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாற்றத்தை-கொண்டுவருவது-சிக்கலானது/175-347103) · `ta`
 
-Here's a summary of 200 characters:
+தற்போதுள்ள தேர்தல் சட்டத்தை மாற்றுவது, நீண்ட கால சிக்கலான வேலைத்திட்டம் என,  தேர்தல்கள் ஆணைக்குழுவின் முன்னாள் தலைவர் மஹிந்த தேசப்பிரிய தெரிவித்துள்ளார்.
 
-
-
-Changing election laws is complex. Mahinda Deshapriya says modifying existing rules is challenging. Some targeted adjustments may be preferable to full overhaul.
-
-🟩
-
-Mahinda Deshapriya, former chairman of the Election Commission, said that changing the existing election law is a long -term complex program.
-
-It is desirable if it is possible to make some selected changes in the existing legal system.. Those
+தற்போதுள்ள சட்ட அமைப்பில் சில தெரிவு செய்யப்பட்ட மாற்றங்களைச் செய்ய முடியுமானால் அது விரும்பத்தக்கது எனவும், அவர் குறிப்பிட்டுள்ளார். AN
 
 ◼️
 
 [Data](articles/07f30594.json)
 
-[Extended Data](ext_articles/07f30594.ext.json)
-
 ---
 
-### “Vote before the rain”
+### “ மழைக்கு முன்பு வாக்களிக்கவும் ”
 
 *2024-11-14 10:32:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மழைக்கு-முன்பு-வாக்களிக்கவும்/76-347102) · `ta`
 
-"Voting underway in Nuwara Eliya district. 20% cast ballots so far. Election officer urges voters to participate before potential rain."
+2024 பாராளுமன்ற தேர்தலுக்காக நுவரெலியா மாவட்டத்தில் 534 வாக்களிப்பு மையங்களில் வாக்களிப்பு நடவடிக்கைகள் இன்று காலை 7 மணி முதல் ஆரம்பமாகியுள்ளதாகவும் இதுவரை 20 % மக்கள் வாக்களித்துள்ளதாகவும் நுவரெலியா மாவட்ட தெரிவத்தாட்சி அலுவலர் நந்தன கலபட தெரிவித்தார்.
 
-🟩
-
-Nuwara Eliya District Elections Officer Nandana Kalada said that voting activities at 534 polling centers in the Nuwara Eliya district have begun today and 20 % have voted for the 2024 parliamentary elections.
-
-He has asked the people to vote before it rains again, with the inclement weather in some parts of the Nuwara Eliya district on Wednesday night.
+நுவரெலியா மாவட்டத்தின் சில பகுதிகளில் புதன்கிழமை (13) இரவு முதல் நிலவி வரும் மழையுடன் கூடிய  சீரற்ற காலநிலையால் பல சிரமங்கள் ஏற்பட்டதாகவும் , மீண்டும் மழை பெய்வதற்கு முன்பு வாக்களிக்குமாறும் அவர் மக்களிடம் கேட்டுக் கொண்டுள்ளார்.
 
 ◼️
 
 [Data](articles/d3e09dec.json)
-
-[Extended Data](ext_articles/d3e09dec.ext.json)
 
 ---
 
@@ -250,34 +130,6 @@ He said that he was born in Jaffna on 18.11.1918 and came to Trincomalee at the 
 
 ---
 
-### Voting in a peaceful manner in Batticaloa
-
-*2024-11-14 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198642) · `ta`
-
-Batticaloa district sees peaceful voting for Sri Lanka's 10th parliamentary election. 392 candidates contest for 5 seats. 44,286 voters cast ballots across 442 polling stations. No major incidents reported. Security measures in place involving military, police, and election officials.
-
-🟩
-
-Based on the 10th parliamentary election plan in Sri Lanka, it is observed that the votes are taking place on Thursday, the 14th of Thursday.
-
-It is also seen that people are eagerly attending voting to choose their representatives.
-
-A total of 56 candidates were submitted to 23 political parties and 33 independent groups in the Batticaloa district for the parliamentary election.
-
-A total of 49 nominations have been accepted, with 22 political parties and 27 independent groups, and this time 392 candidates are contesting in the Batticaloa district to select 5 MPs.
-
-A total of 7 nominations were rejected by a political party and 6 independent groups.
-
-14,222 candidates from the Batticaloa district applied for postal voting by posting in parliamentary elections. However, the applications of 14,003 have been accepted, said Batticaloa Assistant Election Commissioner MPM Subiyan.
-
-...
-
-[Data](articles/f1b4f27e.json)
-
-[Extended Data](ext_articles/f1b4f27e.ext.json)
-
----
-
 ### 37 years of age
 
 *2024-11-14 10:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-வயதுடையை-நபர்-வெட்டிக்-கொலை/175-347097) · `ta`
@@ -323,46 +175,6 @@ The first election results of the 2024 parliamentary election will be released a
 [Data](articles/be869d90.json)
 
 [Extended Data](ext_articles/be869d90.ext.json)
-
----
-
-### யாழில் வாக்களிப்பு நிலையத்தில் கடமையில் இருந்த பொலிஸ் உத்தியோகத்தர் உயிரிழப்பு
-
-*2024-11-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198636) · `ta`
-
-யாழ்ப்பாணத்தில் வாக்களிப்பு நிலையத்தில் கடமையில் இருந்த பொலிஸ் உத்தியோகத்தர் ஒருவர் சடலமாக மீட்கப்பட்டுள்ளார்.
-
-கோப்பாய் பொலிஸ் நிலையத்தில் கடமையாற்றும் வட்டுக்கோட்டை பகுதியை சேர்ந்த சுபாஷ் (34) எனும் பொலிஸ் உத்தியோகத்தரே உயிரிழந்துள்ளார்.
-
-உரும்பிராய் சைவத்தமிழ் வித்தியாசாலையில் அமைந்துள்ள வாக்களிப்பு நிலையத்தில் நேற்று புதன்கிழமை (13) முதல் பாதுகாப்பு கடமையில் ஈடுபட்டிருந்த நிலையில் இன்று வியாழக்கிழமை (14) காலை உயிரிழந்த நிலையில் சடலமாக காணப்பட்டுள்ளார்.
-
-அதனை அடுத்து சடலத்தை மீட்ட கோப்பாய் பொலிஸார் உடற்கூற்று பரிசோதனைக்காக யாழ்,போதனா வைத்தியசாலையில் சடலத்தை ஒப்படைத்துள்ளதுடன், சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-குறித்த சம்பவத்தினால் இன்றையதினம் காலை குறித்த வாக்களிப்பு நிலையத்தில் சிறிது நேரம் பரபரப்பு ஏற்பட்டதுடன், பிறிதொரு பொலிஸ் உத்தியோகத்தர் கடமைக்கு அமர்த்தப்பட்டு, வாக்களிப்பு சுமூகமான முறையில் ஆரம்பிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/030ac462.json)
-
----
-
-### சீர்திருத்தங்களிற்காக பெரும்பான்மையை கோரும் ஜனாதிபதி : இலங்கையில் இன்று நாடாளுமன்றத் தேர்தல் !
-
-*2024-11-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198634) · `ta`
-
-இடதுசாரி கொள்கைகளில் ஆர்வமுள்ள இலங்கையின் புதிய ஜனாதிபதி அநுரகுமாரதிசநாயக்கவிற்கு மிக முக்கியமானது என கருதப்படும் நாடாளுமன்ற தேர்தல் இலங்கையில் இன்று வியாழக்கிழமை (14) இடம்பெறுகின்றது.
-
-பாரம்பரிய அரசியல் கட்சிகள் மீதான அதிருப்தி அலையின் மத்தியில் ஊழல் எதிர்ப்பு கொள்கையை மையப்படுத்திய அனுரகுமார திசநாயக்க செப்டம்பரில் இடம்பெற்ற ஜனாதிபதித் தேர்தலில் ஆட்சியை கைப்பற்றினார்.
-
-225 நாடாளுமன்ற உறுப்பினர்களை கொண்ட இலங்கையின் கலைக்கப்பட்ட நாடாளுமன்றத்தில் திசநாயக்கவின் தேசிய மக்கள் சக்தி கூட்டணிக்கு மூன்று ஆசனங்கள் மாத்திரமே காணப்பட்டது.
-
-இலங்கையின் தொழிலாளர் வர்க்கத்தின் வாழ்க்கை தரத்தினை உயர்த்துவதற்கான - ஊழல்களிற்கு முடிவு கட்டுவதற்கான அமைப்பு முறை மாற்றத்தை அனுரகுமார திசநாயக்க ஏற்படுத்துவதற்கு இதுதடையாக காணப்பட்டது.
-
-இதன் காரணமாக தேசிய மக்கள் சக்தியின் நாடாளுமன்ற பிரதிநிதித்துவத்தை அதிகரிப்பதற்காக, தான் ஜனாதிபதியான பின்னர் அனுரகுமாரதிசநாயக்க நாடாளுமன்றத்தை கலைத்தார். முன்கூட்டியே தேர்தலிற்கு அழைப்பு விடுத்தார்.
-
-...
-
-[Data](articles/d8dd0e73.json)
 
 ---
 
@@ -1814,20 +1626,6 @@ Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Coor
 
 ---
 
-### දේශීයව ලබා ගත් ගෝස් තිබියදී වැඩි මිල ගෝස් මිලදී ගෙන රජයට රු.මි. 43.6ක පාඩුවක් කරලා
-
-*2024-11-13 18:53:12* · [`adalk`](https://www.ada.lk/breaking_news/දේශීයව-ලබා-ගත්-ගෝස්-තිබියදී-වැඩි-මිල-ගෝස්-මිලදී-ගෙන-රජයට-රු-මි--43-6ක-පාඩුවක්-කරලා/11-413025) · `si`
-
-දේශීය සැපයුම් කරුවන්ගෙන් ලබා ගත් ගෝස් තොගයක් වෛද්‍ය සැපයුම් අංශයේ තිබිය දී ගෝස් මීටරයක් සඳහා රුපියල් 14.54 වැඩියෙන් ගෙවා මීටර් මිලියන 03 ක් මිලදී ගැනීම හේතුවෙන් රජයට රුපියල් මිලියන 43.6 පාඩුවක් සිදු කොට ඇති බැව් ජාතික විගණන කාර්යාලය මගින් නොවැම්බර් මස 12 වැනි දින නිකුත් කර ඇති විගණන වාර්තාවක සඳහන්වේ. ඒ වන විට  වෛද්‍ය සැපයුම් අංශයෙහි  වැඩි මිලට ගෝස් මිලදී ගැනීමේ අවශ්‍යතාවක් නොතිබූ අතර ව්‍යාජ හිඟයක් පෙන්නුම් කර හදිසි  මිලදී ගැනීමක් ලෙස  ගෝස් මිල දී ගෙන ඇති බවද එම විගණනය මඟින් අනාවරණය කර ඇත.
-
-ප්‍රසම්පාදන කමිටුවේ දී වෛද්‍ය සැපයුම් අංශයේ හදිසි අවශ්‍යතාවක් ලෙස දක්වමින්  ලංසු ඉදිරිපත් කර තිබූ එකම ලංසුකරුට  ගෝස් මීටර් මිලියන  තුනක ඇණවුම් ප්‍රමාණයකට අනුමැතිය ලබා දී  තිබේ. මෙම ඇනවුම ප්‍රදානය කරන  අවස්ථාව වන විටත් දේශීය සැපයුම් කරුවකු විසින් ගෝස් මීටර් 3,635,700 ක ප්‍රමාණයක් සපයා ඇති බව එම විගණන වාර්තාවේ සඳහන්වේ.
-
-...
-
-[Data](articles/44cdd551.json)
-
----
-
 ### There is no error to reserve online passport days
 
 *2024-11-13 18:48:26* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පාස්පෝට්-දින-වෙන්-කර-ගැනීමේ-දෝෂයක්-නෑ/11-413024) · `si`
@@ -2345,5 +2143,215 @@ Speaking to Ada Derana today (13), he requests that all employees in the private
 [Data](articles/dac6a2af.json)
 
 [Extended Data](ext_articles/dac6a2af.ext.json)
+
+---
+
+### Voting box transported by boat to Nedundevu
+
+*2024-11-13 16:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/198611) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Voting boxes transported by boat to islands near Jaffna. Police protection provided. Boxes from Central College Jaffna moved to islands via special boats. After tomorrow's vote, boxes will return to Central College by bus.
+
+🟩
+
+Voting boxes have been transported by special boats to the islands of Neduntivu, Nainadivu, Analadeevu and Ezhuvai Island.
+
+Voting boxes from the Central College in Jaffna on Wednesday (13) were taken to the area with police protection and the voting boxes were taken to the island area in special boats.
+
+நாளையதினம் வியாழக்கிழமை (14) வாக்களிப்பு நிறைவு பெற்றதும், நெடுந்தீவு தவிர ஏனைய தீவக பகுதிகளில் இருந்து வாக்கு பெட்டிகள் விசேட படகுகளில் குறிகட்டுவான் பகுதிக்கு  எடுத்து வரப்பட்டு, பேருந்துக்களில் வாக்கெண்ணும் நிலையமான மத்திய கல்லூரிக்கு எடுத்துவரப்படும்.
+
+The voting box from Nedundi will be brought to the Central College in the Air Force Air Force.
+
+◼️
+
+[Data](articles/f62b3a20.json)
+
+[Extended Data](ext_articles/f62b3a20.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 292.20/30 to dollar, bonds down
+
+*2024-11-13 16:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-292-20-30-to-dollar-bonds-down-187301/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 292.20/30 to the US dollar on Wednesday from 292.45/55 to the US dollar on Tuesday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed down at 10.25/38 percent, from 10.40/55 percent.
+
+A bond maturing on 15.12.2027 closed at 10.90/11.05 percent, down from 11.10/25 percent.
+
+A bond maturing on 15.03.2028 closed at 11.15/35 percent, down from 11.30/40 percent.
+
+A bond maturing on 15.09.2029 closed at 11.55/70 percent, down from 11.65/80. (Colombo/Nov13/2024)
+
+◼️
+
+[Data](articles/273c1fe2.json)
+
+[Extended Data](ext_articles/273c1fe2.ext.json)
+
+---
+
+### Five liquor distilleries given deadline to pay arrears taxes – AG tells court
+
+*2024-11-13 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103384/five-liquor-distilleries-given-deadline-to-pay-arrears-taxes-ag-tells-court-) · `en`
+
+The Attorney General has informed the Supreme Court that the Department of Excise has decided to suspend the licenses of five liquor manufacturers, including W.M. Mendis & Co. Ltd., if they fail to pay arrears taxes before November 30, 2024.
+
+Additional Solicitor General Nerin Pulle, representing the Excise Commissioner General, informed the court of this when a fundamental rights petition filed by social activist Sanjaya Mahawaththa and others was taken up today (13).
+
+The petition was heard before a bench comprising Justices Preethi Padman Surasena, Yasantha Kodagoda, and Priyantha Fernando.
+
+The Additional Solicitor General stated that five liquor manufacturing companies including W. M. Mendis & Co Ltd and Royal Casks Distilleries (Pvt) Ltd, that have been named as respondents, have agreed to pay the arrears by the end of the month. He also reiterated the Excise Department’s decision to suspend their licenses if payments are not made on time.
+
+...
+
+[Data](articles/1d6d458c.json)
+
+[Extended Data](ext_articles/1d6d458c.ext.json)
+
+---
+
+### The first meeting of the ICTA Board of Directors today
+
+*2024-11-13 16:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/198606) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New ICTA Board meets, led by Hans Vijayasuriya. Members include Sanjaya Karunasena, Harsha Prasinghe, Chandima Kure, Bandula Ranatunga, Jeffrey Sulbar, Samisa Abeysinghe, Shanuka Rebel. Board aims to strengthen Sri Lanka's digital economy and implement ICT initiatives.
+
+🟩
+
+Meeting of the newly appointed Information Technology Agency (ICTA) Board of Directors (13) will be held in the afternoon.
+
+Hans Vijayasuzha, the executive presidency of the Digital Economics, is the head of the Digital Economics by President Anuragumara Dissanayake, who will expedite economic development, national competitiveness and all citizens who can benefit all citizens, and to strengthen the digital economy of Sri Lanka in parallel to the developed countries.
+
+Sanjaya Karunasena, Harsha Prasinghe, Chandima Kure, Bandula Ranatunga, Jeffrey Sulbar, Samisa Abeysinghe and Shanuka Rebel are members of the ITA Agency (ICTA) Board of Directors (ICTA).
+
+...
+
+[Data](articles/20b1eacc.json)
+
+[Extended Data](ext_articles/20b1eacc.ext.json)
+
+---
+
+### US embassy in Sri Lanka lifts travel restriction on Arugam Bay
+
+*2024-11-13 16:34:00* · [`economynextcom`](https://economynext.com/us-embassy-colombo-rescinds-travel-restrictions-for-arugam-bay-187309/) · `en`
+
+ECONOMYNEXT – The US Embassy in Colombo Sri Lanka has lifted travel restrictions issued on last month, for Arugam Bay, telling US citizens to “Trust your gut”.
+
+“The US Embassy in Colombo encourages all US citizens to review the Travel Advisory for Sri Lanka, maintain vigilance, be aware of your surroundings and report suspicious activity and emergencies to local authorities (119),” the Embassy said on Wednesday.
+
+– Report all suspicious activity and emergencies to local authorities (119).
+
+– Always maintain vigilance and be aware of your surroundings. Trust your gut, if a situation doesn’t feel right, get out of it.
+
+– Always have some form of communication on you (i.e. cell phone).
+
+On October 23, the embassy asked nationals to avoid Arugam Bay in Sri Lanka’s Eastern Coast, a popular tourist destination, saying there was credible information of an attack.
+
+...
+
+[Data](articles/cf021fb3.json)
+
+[Extended Data](ext_articles/cf021fb3.ext.json)
+
+---
+
+### ​  பயணக்கட்டுபாடுகளை நீக்கியது அமெரிக்கா
+
+*2024-11-13 16:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்கட்டுபாடுகளை-நீக்கியது-அமெரிக்கா/175-347063) · `ta`
+
+US Embassy lifts travel restrictions on Arugambe, Sri Lanka. Encourages Americans to exercise caution, report suspicious activities.
+
+🟩
+
+The US Embassy in Sri Lanka has removed travel restrictions on Arughambe on October 23.
+
+“The US Embassy in Colombo has lifted the travel restrictions on October 23, 2024 to Arughambe.
+
+கொழும்பில் உள்ள அமெரிக்கத் தூதரகம் அனைத்து அமெரிக்க குடிமக்களையும் இலங்கைக்கான பயண ஆலோசனையை மதிப்பாய்வு செய்யவும், விழிப்புடன் இருக்கவும், உங்கள் சுற்றுப்புறங்கள் குறித்து விழிப்புடன் இருக்கவும், சந்தேகத்திற்கிடமான செயல்பாடுகளைப் புகாரளிக்கவும் ஊக்குவிக்கிறது. Emergency (119) for local authorities, “The embassy said in a statement.
+
+The US Justice Department has been advised last week after the US Justice Department has accused an Iranian citizen of a conspiracy to assassinate US presidential candidate Donald Trump, who was involved in the attack on Israeli tourists in Sri Lanka.
+
+◼️
+
+[Data](articles/7e74ab71.json)
+
+[Extended Data](ext_articles/7e74ab71.ext.json)
+
+---
+
+### US withdrawal the US news released on Arugam's area
+
+*2024-11-13 16:19:32* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්ගේ-ප්‍රදේශය-ගැන-අමෙරිකාව-නිකුත්-කළ-සංචාරක-සීමා-නිවේදනය-ඉවත්-කර-ගනී/11-413016) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+US withdraws embassy from Arugam Bay area. Statement issued, affecting US tourists and officials in Sri Lanka.
+
+🟩
+
+The American Embassy in the area of ​​Arugam's area has been removed from US tourists and US officials in Sri Lanka.
+
+The US embassy was issued in a statement.
+
+◼️
+
+[Data](articles/9dccc217.json)
+
+[Extended Data](ext_articles/9dccc217.ext.json)
+
+---
+
+### Action Change in Colombo Stock Exchange: Front in Asia
+
+*2024-11-13 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198602) · `ta`
+
+Colombo Stock Exchange (CSE) performance summary:
+
+
+
+• Ranked 2nd in Bloomberg's Asia list as of Oct 25
+
+• 29.65% growth in USD value
+
+• Daily avg sales: Rs.3.058 billion
+
+• All-share index: 12,517.58
+
+• S&P SL20 index: 3,759.30 points
+
+
+
+Attractive for investors, offering strong growth potential.
+
+🟩
+
+As of October 25, the Colombo Stock Exchange (CSE) is the second highest performance in the Bloomberg bent, with the growth of the 29.65 percent of the US $ 29.65 percent of the US dollars in Asia.
+
+This excellent effectiveness underlines the erection of the capital market in Sri Lanka and the positiveness of its growth for domestic and international investors.
+
+The daily average sale of the week ended on October 25, 2024 is Rs.3.058 billion. Moreover, the CSE has crossed Rs.
+
+In the same week, the all -billion was completed at 12,517.58, and the best record was made by the only point for the record for the highest sales registration for the year.. At the same time, the S&P SL20 index representing the top 20 large and higher liquid shares recorded strong gains and ended at 3,759.30 points.
+
+This makes CSE an attractive choice for investors and retains positive speed and leads to advanced investment opportunities.
+
+◼️
+
+[Data](articles/cebc49e2.json)
+
+[Extended Data](ext_articles/cebc49e2.ext.json)
 
 ---

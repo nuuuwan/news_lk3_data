@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 01:41:27**
+As of **2024-11-15 01:25:17**
 
 ## Newspaper Stats
 
-*Scraped **54,834** Articles*
+*Scraped **54,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,137
 adaderanalk | 6,555
-tamilmirrorlk | 7,721
+tamilmirrorlk | 7,720
 virakesarilk | 8,907
 adaderanasinhalalk | 9,505
 
@@ -26,21 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,830 (100.0%) of 54,834 articles have been extended.
+54,830 (100.0%) of 54,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### தமிழ் கட்சிகள் யாழ்ப்பாணத்தை இழந்தன
-
-*2024-11-15 01:23:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-கட்சிகள்-யாழ்ப்பாணத்தை-இழந்தன/175-347173) · `ta`
-
-◼️
-
-[Data](articles/5075d48f.json)
-
----
 
 ### வன்னி தபாலில் மண்ணை கௌவியது தமிழரசு கட்சி
 
@@ -2241,5 +2231,27 @@ The District Secretariat has announced that a 16% voting registration has been h
 [Data](articles/5ac3f298.json)
 
 [Extended Data](ext_articles/5ac3f298.ext.json)
+
+---
+
+### Sri Lanka stocks close up on general election day
+
+*2024-11-14 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-on-general-election-day-187556/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader ASPI closed up 0.56 percent, or 73.61 points, at 13,198; while the more liquid S&P SL20 Index closed up 1.23 percent, or 48.60 points, at 3,986.
+
+Turnover was 3.7 billion. Most of this came from interest in banking sector stocks (Rs1.6 billion).
+
+Other sectors that saw high activity were food, beverage and tobacco (Rs874mn), capital goods (Rs418mn), and diversified financials (Rs261mn.)
+
+Top contributors to the ASPI were Sampath Bank (up at 95.50), Commercial Bank (up at 122.50), DFCC Bank (up at 87.80), Nations Trust Bank (up at 150.25), and Browns Investments (up at 6.50). (Colombo/Nov14/2024)
+
+◼️
+
+[Data](articles/57d470ff.json)
+
+[Extended Data](ext_articles/57d470ff.ext.json)
 
 ---

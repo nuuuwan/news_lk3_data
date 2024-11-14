@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 15:25:30**
+As of **2024-11-14 15:41:49**
 
 ## Newspaper Stats
 
-*Scraped **54,730** Articles*
+*Scraped **54,732** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 424
-colombotelegraphcom | 558
 bbccomsinhala | 558
+colombotelegraphcom | 559
 islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,130
 adaderanalk | 6,532
-tamilmirrorlk | 7,679
+tamilmirrorlk | 7,680
 virakesarilk | 8,894
 adaderanasinhalalk | 9,505
 
@@ -26,25 +26,41 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,729 (100.0%) of 54,730 articles have been extended.
+54,730 (100.0%) of 54,732 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### விருப்பு வாக்கை படம் பிடித்தவர் கைது
+### இதுவரையிலான வாக்களிப்பு வீதம்
+
+*2024-11-14 15:32:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இதுவரையிலான-வாக்களிப்பு-வீதம்/175-347121) · `ta`
+
+◼️
+
+[Data](articles/57e8842e.json)
+
+---
+
+### Arrested
 
 *2024-11-14 15:05:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விருப்பு-வாக்கை-படம்-பிடித்தவர்-கைது/175-347120) · `ta`
 
-வாக்களிப்பு நிலையத்தில் தனது விருப்பத்தை உறுதிப்படுத்திய பின்னர் அதனை புகைப்படம் எடுத்த ஒருவர் ஆலங்குடா முஸ்லிம் கல்லூரியின் மண்டபம் இலக்கம் 1 வளாகத்தில் வைத்து கைது செய்யப்பட்டுள்ளார்.
+A 42-year-old man was arrested after taking photos at a polling station. He faces charges filed by the polling center head at Alanguda Muslim College Hall.
 
-வாக்களிப்பு நிலையத்தின் சிரேஷ்ட நிலைய பொறுப்பதிகாரி செய்த முறைப்பாட்டின் பிரகாரம் இவர் கைது செய்யப்பட்டுள்ளார்.
+🟩
 
-சந்தேக நபர் ஆலங்குடாவ பெய்தல பிரதேசத்தை சேர்ந்த 42 வயதுடையவர் என தெரிவிக்கப்பட்டுள்ளது.
+After confirming his wishes at the polling station, a man who photographed it was arrested at the Alanguda Muslim College Hall on No. 1 campus.
+
+He has been arrested on a complaint lodged by the Senior Center in charge of the polling station.
+
+The suspect is said to be a 42 -year -old from Alangudava Beadala area.
 
 ◼️
 
 [Data](articles/fd7ee270.json)
+
+[Extended Data](ext_articles/fd7ee270.ext.json)
 
 ---
 
@@ -897,6 +913,22 @@ A total of 7 nominations were rejected by a political party and 6 independent gr
 [Data](articles/f1b4f27e.json)
 
 [Extended Data](ext_articles/f1b4f27e.ext.json)
+
+---
+
+### Towards A More Profitable & Sustainable Agriculture
+
+*2024-11-14 10:06:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-a-more-profitable-sustainable-agriculture/) · `en`
+
+One of the key happenings in human history, is the so-called “Industrial Revolution,” that originated about two centuries ago, with Europe, North America and Japan, as the focal points. These are now broadly defined as “Developed Countries.” They distinguish themselves as having higher per capita incomes, and thereby offering their citizens better living conditions than do the ”Developing” or “Less developed” ones.
+
+It is tempting yet erroneous, to believe that what prevailed two centuries ago, can be transposed today to other countries including Sri Lanka, presently classified among the “Developing countries.”
+
+Typically, the industrial era manifested as a movement away from labour and towards machinery driven enterprises. The unspoken assumption Is that what worked for them then, should do for us now.
+
+...
+
+[Data](articles/a02e2d62.json)
 
 ---
 
@@ -2297,61 +2329,5 @@ The vehicle has been recovered by the police as 5 kg of rice buckthood, 2 kg of 
 [Data](articles/f54343fe.json)
 
 [Extended Data](ext_articles/f54343fe.ext.json)
-
----
-
-### Birth, Marriage and Death Certificates of Sri Lankans Abroad
-
-*2024-11-13 19:44:22* · [`adalk`](https://www.ada.lk/breaking_news/විදේශගත-ලාංකිකයන්ට-උපත්--විවාහ-හා-මරණ-සහතික-පිටපත්-අදාළ-තානාපති-කාර්යාල-වලින්/11-413028) · `si`
-
-Sri Lankan government launches pilot project for issuing birth, marriage and death certificates through embassies in Kuwait, Japan, Qatar, Melbourne, Canada, Milan, and Dubai. The program aims to facilitate convenience for expatriates.
-
-🟩
-
-Pilot project is implemented through Kuit, Japan, Qatar Embassy, ​​Australia Melbourne, Canada, and Milan, Milan, Dubai, Dubai, Dubai
-
-The Government has planned to issue births, marriage and death certificates by Sri Lankan Embassy in foreign countries for the convenience of Sri Lankan expatriates.
-
-The program is to be implemented through seven Foreign Ambassador and seven Consulate offices selected as a pilot project.
-
-The pilot project is expected to be implemented through Kuwait, Japan and Qatar embassies, Melbourne, Canada, Canada, Canada, Kilan, Milan, Dubai Consulate.
-
-The Registrar General's Department and the Ministry of External Affairs jointly maintains the certificates through the Foreign Embassies by any Divisional Secretariat in Sri Lanka.Steps have already been taken to improve the system.
-
-Accordingly, the E-BMD database will be scanned and issued only 45% of the marriage and death certificates that have been scanned and stored.
-
-...
-
-[Data](articles/153d3985.json)
-
-[Extended Data](ext_articles/153d3985.ext.json)
-
----
-
-### Prayer in Jaffna
-
-*2024-11-13 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198624) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna residents gathered for a prayer ceremony led by Hindu priest Kripananda. Leaders from various faiths participated, including Chief Minister Arutpani Jayaratnam and Islamic representative Rajkumar. The event aimed to promote peaceful parliamentary elections and encourage citizens to fulfill their democratic duties.
-
-🟩
-
-All the people in Jaffna were launched by the leaders of the Sarvadam to fulfill their democratic duties for the parliamentary elections to be held peaceful and without violence.
-
-The prayer ceremony was held at the Jaffna Sarvamadha leader Hindu religious leader Hindu cleric Kripananda priests at the Jaffna Pastur Home.
-
-In this, those who are elected to Parliament prayed that the people should be elected to the needs of the people and that the people should fulfill their democratic duty properly.
-
-The event was attended by Guru Chief Minister Arutpani Jayaratnam, Hindu Religious Guru Kripananda on behalf of the Catholic Church, Jaffna Religious Guru Kripananda, Naga Vikarai on behalf of the Religious Leader, Rakim Melvi on behalf of the Islamists and Sarvamadhi Secretary Rajkumar on behalf of the Islamists.
-
-◼️
-
-[Data](articles/83eb8d51.json)
-
-[Extended Data](ext_articles/83eb8d51.ext.json)
 
 ---

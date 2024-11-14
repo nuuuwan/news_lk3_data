@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 22:16:00**
+As of **2024-11-14 22:41:27**
 
 ## Newspaper Stats
 
-*Scraped **54,797** Articles*
+*Scraped **54,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,135
 adaderanalk | 6,547
-tamilmirrorlk | 7,700
+tamilmirrorlk | 7,701
 virakesarilk | 8,903
 adaderanasinhalalk | 9,505
 
@@ -26,23 +26,57 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,796 (100.0%) of 54,797 articles have been extended.
+54,798 (100.0%) of 54,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### பஸ் விபத்தில் 20 பேர் காயம்
+### Three killed in accident: 39 injured
+
+*2024-11-14 22:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபத்தில்-மூவர்-பலி-39பேர்-படுகாயம்/76-347155) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"3 dead, 39 hurt in bus-van crash on Dambulla-Mahiyanganaya rd. 37 bus passengers & 5 van riders injured, hospitalized."
+
+🟩
+
+Three people were killed and 39 people were injured when a private bus collided with a van on the Dambulla - Mahiyanganaya road.
+
+37 passengers and five passengers in the van were injured and admitted to the Wilgamuwa Divisional Hospital.
+
+◼️
+
+[Data](articles/57d7fcb7.json)
+
+[Extended Data](ext_articles/57d7fcb7.ext.json)
+
+---
+
+### 20 people injured in bus accident
 
 *2024-11-14 21:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-20-பேர்-காயம்/175-347154) · `ta`
 
-மாத்தளை,  லக்கல எலவனகந்த பிரதேசத்தில் இன்று (14) பிற்பகல் பஸ் ஒன்று குன்றின் மீது கவிழ்ந்து விபத்துக்குள்ளானது.
+Here's a summary in 200 characters:
 
-கொழும்பில் இருந்து லக்கல ஊடாக வஸ்கமுவ பகுதிக்கு சென்று கொண்டிருந்த பஸ்ஸே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+
+
+Bus crash: 20 injured. Vehicle hit cliff in Matale's Lakkala Elavanakanda. Traveling Colombo-Vasamuwa route. Incident occurred this afternoon.
+
+🟩
+
+A bus crashed into a cliff this afternoon in the Lakkala Elavanakanda area in Matale.
+
+The bus was traveling from Colombo to Vasamuwa via Lakkala.
 
 ◼️
 
 [Data](articles/28dc22e4.json)
+
+[Extended Data](ext_articles/28dc22e4.ext.json)
 
 ---
 
@@ -2331,27 +2365,5 @@ Accordingly, the voter turnout percentages of several districts as at 09.00 a.m.
 [Data](articles/3a7ef97f.json)
 
 [Extended Data](ext_articles/3a7ef97f.ext.json)
-
----
-
-### Election results will be released at 10 pm
-
-*2024-11-14 09:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேர்தல்-முடிவுகள்-இரவு-10-மணிக்கு-வெளியாகும்/150-347096) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"2024 parliamentary election results: First batch announced at 10 PM. Election Commissioner Saman Sri Ratnayake confirms."
-
-🟩
-
-The first election results of the 2024 parliamentary election will be released at 10 pm. Elections Commissioner Saman Sri Ratnayake said today.
-
-◼️
-
-[Data](articles/be869d90.json)
-
-[Extended Data](ext_articles/be869d90.ext.json)
 
 ---

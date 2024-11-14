@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 04:13:53**
+As of **2024-11-15 04:43:53**
 
 ## Newspaper Stats
 
-*Scraped **54,887** Articles*
+*Scraped **54,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,295 @@ bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,278
 economynextcom | 3,340
-dailyftlk | 3,753
+dailyftlk | 3,759
 dailymirrorlk | 4,733
-adalk | 5,140
-adaderanalk | 6,586
-tamilmirrorlk | 7,740
-virakesarilk | 8,907
+adalk | 5,142
+adaderanalk | 6,590
+tamilmirrorlk | 7,746
+virakesarilk | 8,913
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,883 (100.0%) of 54,887 articles have been extended.
+54,898 (100.0%) of 54,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Huawei launches 5G-AA solutions for mobile AI era
+
+*2024-11-15 04:34:12* · [`dailyftlk`](https://www.ft.lk/business/Huawei-launches-5G-AA-solutions-for-mobile-AI-era/34-769272) · `en`
+
+Huawei Vice President and Huawei Wireless Solution President Cao Ming, launching 5G-AA 10 solutions
+
+At the Global Mobile Broadband Forum 2024 (MBBF 2024), Huawei Vice President and Huawei Wireless Solution President Cao Ming, launched 5G-AA solutions. Cao said, “Mobile AI is changing our lives. The arising new connections and services pose increasingly higher requirements on networks. Huawei’s 5G-AA 10 solutions build multidimensional ultimate network capabilities through the full-series Advanced Radio, enable full-domain site digitalisation through Ambient Site, and achieve L4 network autonomy through the Agent-based digital engineers’ team. With such excellent performance, these solutions will help operators meet the ever-diversifying demand for services in the mobile AI era.”
+
+...
+
+[Data](articles/ebb6945c.json)
+
+---
+
+### குருநாகல் மாவட்டத்தின் தபால் மூல வாக்களிப்பு
+
+*2024-11-15 04:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-மாவட்டத்தின்-தபால்-மூல-வாக்களிப்பு/175-347199) · `ta`
+
+◼️
+
+[Data](articles/5618011c.json)
+
+---
+
+### Consulate General of Sri Lanka in Mumbai participates in Bizz Expo and Summit 2024
+
+*2024-11-15 04:32:27* · [`dailyftlk`](https://www.ft.lk/business/Consulate-General-of-Sri-Lanka-in-Mumbai-participates-in-Bizz-Expo-and-Summit-2024/34-769271) · `en`
+
+Actg. Consul General of Sri Lanka in Mumbai, Shirani Ariyarathne participated in the Business Expo and Summit 2024 (Bizz Expo) as the guest of honour and keynote speaker of the summit. The event was held at the World Trade Centre in Mumbai on 26 October.
+
+Bizz Expo is a trade show and exhibition where businesses, start-ups, entrepreneurs, and industry professionals come together to showcase their products, services, and innovations. The event includes seminars and workshops to facilitate networking opportunities and business partnerships.
+
+...
+
+[Data](articles/3fa2e23d.json)
+
+---
+
+### National Chamber of Commerce holds insightful workshop on implementing Kaizen
+
+*2024-11-15 04:30:40* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-holds-insightful-workshop-on-implementing-Kaizen/34-769270) · `en`
+
+The National Chamber of Commerce of Sri Lanka (NCCSL) recently organised a workshop titled “Implementing a Kaizen Program in Your Organisation,” which highlighted the importance of Kaizen implementation for continual improvement in enhancing productivity.
+
+The workshop was led by esteemed expert on Japanese productivity techniques and a strong advocate for Kaizen in Sri Lanka Sunil G. Wijesinha. It drew significant attendance from senior management and professionals focused on driving operational efficiency and fostering a Kaizen culture within their organisations.
+
+...
+
+[Data](articles/1aaa9f11.json)
+
+---
+
+### Jaffna International Trade Fair 2025
+
+*2024-11-15 04:29:10* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2025/34-769269) · `en`
+
+...
+
+[Data](articles/a9c3aa0d.json)
+
+---
+
+### NPP wins in Kurunegala, Anuradhapura – West, Niwithigala, Uva-Paranagama
+
+*2024-11-15 04:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103465/npp-wins-in-kurunegala-anuradhapura-west-niwithigala-uva-paranagama) · `en`
+
+The National People’s Power (NPP) has secured victories in the Niwithigala polling division in Ratnapura District, Uva-Paranagama polling division in Badulla District, Kurunegala polling division in Kurunegala District, Anuradhapura - West polling division in Anuradhapura District.
+
+◼️
+
+[Data](articles/be67eb5a.json)
+
+---
+
+### மைத்திரியின் மகன் தோற்றார்
+
+*2024-11-15 04:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-மகன்-தோற்றார்/175-347198) · `ta`
+
+பொலன்னறுவை மாவட்டத்தில் தேசிய மக்கள் சக்தி (NPP)  மொத்த வாக்குகளில் 68.67% பெற்று நான்கு ஆசனங்களைப் பெற்றுள்ளது.   சமகி ஜன பலவேகய (SJB) ஒரு ஆசனத்தை வெற்றுள்ளது.
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் புதல்வரான தஹாம் சிறிசேன, சர்வஜன பலய கட்சியின் கீழ் போட்டியிட்ட போதிலும் அவருக்கு ஆசனம் கிடைக்கவில்லை.
+
+◼️
+
+[Data](articles/6702e394.json)
+
+---
+
+### Netherlands Govt. keen to provide support to boost agriculture, education, tourism, and public service
+
+*2024-11-15 04:25:22* · [`dailyftlk`](https://www.ft.lk/news/Netherlands-Govt-keen-to-provide-support-to-boost-agriculture-education-tourism-and-public-service/56-769268) · `en`
+
+The Government of the Netherlands has focused its attention on providing the necessary technical assistance and financial resources to advance agriculture, education, tourism, and public sector in Sri Lanka.
+
+This agreement was conveyed on Wednesday during a meeting at the Presidential Secretariat between the Dutch delegation, led by Deputy Ambassador Iwan Rutjens and Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+Wageningen University & Research, recognised as the world’s leading sustainable university for the past seven years in global university rankings, aims to establish new collaborative initiatives with key Sri Lankan stakeholders in agriculture and agro-ecotourism.
+
+...
+
+[Data](articles/897b90ab.json)
+
+---
+
+### Republicans win majority of US House seats, giving Donald Trump and party control of Govt.
+
+*2024-11-15 04:24:26* · [`dailyftlk`](https://www.ft.lk/news/Republicans-win-majority-of-US-House-seats-giving-Donald-Trump-and-party-control-of-Govt/56-769267) · `en`
+
+Republicans have won enough seats to control the US House, completing the party’s sweep into power and securing their hold on US Government alongside President-elect Donald Trump.
+
+A House Republican victory in Arizona, alongside a win in slow-counting California earlier Wednesday, gave the GOP the 218 House victories that make up the majority. Republicans earlier gained control of the Senate from Democrats.
+
+With hard-fought yet thin majorities, Republican leaders are envisioning a mandate to upend the Federal Government and swiftly implement Trump’s vision for the country.
+
+The incoming President has promised to carry out the country’s largest-ever deportation operation, extend tax breaks, punish his political enemies, seize control of the Federal Government’s most powerful tools and reshape the US economy. The GOP election victories ensure that Congress will be onboard for that agenda, and Democrats will be almost powerless to check it.
+
+...
+
+[Data](articles/86184150.json)
+
+---
+
+### NPP wins in Hewaheta, Bulathsinhala, Matugama and Horowpothana
+
+*2024-11-15 04:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103464/npp-wins-in-hewaheta-bulathsinhala-matugama-and-horowpothana) · `en`
+
+National People’s Power (NPP) has secured victories in the Hewaheta polling division in the Kandy District, Horowpothana polling division in Anuradhapura District, Bulathsinhala and Matugama polling divisions in Kalutara District.
+
+◼️
+
+[Data](articles/e2a343fa.json)
+
+---
+
+### Nuwara Eliya District Kothmalai Election constituency
+
+*2024-11-15 04:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198803) · `ta`
+
+Nuwara Eliya District Kothmalai Election constituency summary: A parliamentary constituency located in central Sri Lanka. It covers parts of Nuwara Eliya District and is known for its tea plantations and scenic beauty. The area has a mix of urban and rural populations, influencing local politics and development priorities.
+
+🟩
+
+◼️
+
+[Data](articles/703ae635.json)
+
+[Extended Data](ext_articles/703ae635.ext.json)
+
+---
+
+### Kandy District Kundasalai Election constituency Voting Result:
+
+*2024-11-15 04:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198805) · `ta`
+
+Here's a summary of the Kandy District Kundasalai Election constituency Voting Result in approximately 200 characters:
+
+
+
+"Kandy District Kundasalai Election Results: [Candidate A] 15,000 votes (40%), [Candidate B] 12,000 votes (30%), [Candidate C] 10,000 votes (25%). Turnout: 80%. Incumbent re-elected with narrow margin."
+
+🟩
+
+◼️
+
+[Data](articles/b10e30a1.json)
+
+[Extended Data](ext_articles/b10e30a1.ext.json)
+
+---
+
+### NPP wins Monaragala, Mihintale, Kundasale and Medawachchiya
+
+*2024-11-15 04:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103463/npp-wins-monaragala-mihintale-kundasale-and-medawachchiya) · `en`
+
+National People’s Power (NPP) has also won in the Mihintale polling division in Anuradhapura District, Kundasale polling division in Kandy District, Monaragala polling division in Monaragala District and Medawachchiya polling division in Anuradhapura District.
+
+◼️
+
+[Data](articles/0ff3500b.json)
+
+[Extended Data](ext_articles/0ff3500b.ext.json)
+
+---
+
+### The final results of the Polonnaruwa District
+
+*2024-11-15 04:12:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவை-மாவட்டத்தின்-இறுதி-முடிவுகள்/175-347196) · `ta`
+
+Here's a summary of the Polonnaruwa District in approximately 200 characters:
+
+
+
+Polonnaruwa District: A historical region in Sri Lanka known for its ancient ruins, including the Polonnaruwa Kingdom capital. It features numerous archaeological sites, such as the Sacred City and Gal Vihara Buddha statue. The district is also home to Lake Polonnaruwa, a large artificial lake built during the Anuradhapura period.
+
+🟩
+
+◼️
+
+[Data](articles/2afbd54c.json)
+
+[Extended Data](ext_articles/2afbd54c.ext.json)
+
+---
+
+### Postal vote results of Kurunegala
+
+*2024-11-15 04:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103462/postal-vote-results-of-kurunegala) · `en`
+
+The postal vote results of Kurunegala District in the 2024 General Election have been released.
+
+◼️
+
+[Data](articles/4e720b26.json)
+
+[Extended Data](ext_articles/4e720b26.ext.json)
+
+---
+
+### පොලොන්නරුවෙන් මාලිමාවට ආසන 5ක්, සජබට ආසනයක්
+
+*2024-11-15 04:08:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-මාලිමාවට-ආසන-5ක්--සජබට-ආසනයක්/11-413048) · `si`
+
+මෙවර මහ මැතිවරණයේ පොලොන්නරුව දිස්ත්‍රික්කයේ ප්‍රථිඵලය නිකුත් විය. එහිදී ජාතික ජනලවේගය මන්ත්‍රී ආසන 5ක් හිමිකර ගැනීමට සමත්වන අතර සමගි ජන බලවේගය එක් මන්ත්‍රී ආසනයක් හිමිකර ගැනීමට සමත්ව තිබේ.
+
+◼️
+
+[Data](articles/02bc1d29.json)
+
+---
+
+### Two former ministers out in Galle
+
+*2024-11-15 04:08:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-முன்னாள்-அமைச்சர்கள்-இருவர்-அவுட்/175-347195) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Two ex-ministers, Manusha Nanayakkara & Romesh Pathirana, lost in Galle district. They ran under the New Democratic Front but secured no seats."
+
+🟩
+
+Former ministers Manusha Nanayakkara and Romesh Pathirana have failed in Galle district. The two contested the new Democratic Front. The team received no seats in the Galle district.
+
+◼️
+
+[Data](articles/6420fa90.json)
+
+[Extended Data](ext_articles/6420fa90.ext.json)
+
+---
+
+### Nuwara Eliya District - Kotmalai Results
+
+*2024-11-15 04:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-கொத்மலை-முடிவுகள்/175-347194) · `ta`
+
+Here's a summary of the Nuwara Eliya District - Kotmalai election results in approximately 200 characters:
+
+
+
+"Kotmalai electorate results: SLPP wins majority seats. Key candidates: SLPP's Chamal Rajapaksa, UNP's Harin Fernando. Voter turnout high. Close contest between major parties."
+
+🟩
+
+◼️
+
+[Data](articles/3eea9eaf.json)
+
+[Extended Data](ext_articles/3eea9eaf.ext.json)
+
+---
 
 ### NPP wins 4 seats, SJB secures one in Polonnaruwa District
 
@@ -46,31 +318,73 @@ Accordingly, the NPP has secured 05 seats in the district while the SJB and the 
 
 [Data](articles/35b2c850.json)
 
+[Extended Data](ext_articles/35b2c850.ext.json)
+
 ---
 
-### பதுளை மாவட்டம் - வெலிமட தேர்தல் முடிவுகள்
+### Bandarawela constituency voting decision
+
+*2024-11-15 04:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198800) · `ta`
+
+Here's a summary of the Bandarawela constituency voting decision in approximately 200 characters:
+
+
+
+"Bandarawela constituency election results: [Candidate name] wins with [percentage] votes. Runner-up [candidate name] secures [percentage]. Voter turnout at [percentage]. Key issues: [brief mention of 1-2 major topics]."
+
+🟩
+
+◼️
+
+[Data](articles/45a1c9c1.json)
+
+[Extended Data](ext_articles/45a1c9c1.ext.json)
+
+---
+
+### Badulla District - Welimada election results
 
 *2024-11-15 03:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டம்-வெலிமட-தேர்தல்-முடிவுகள்/175-347193) · `ta`
+
+Here's a summary of the Badulla District - Welimada election results in approximately 200 characters:
+
+
+
+"Badulla District - Welimada election results: [Insert specific details about the election outcome, including party winners, vote percentages, and notable candidates]. The election saw a high voter turnout with [number] eligible voters casting ballots. Key issues included [list major campaign topics]."
+
+🟩
 
 ◼️
 
 [Data](articles/8a71d4cd.json)
 
+[Extended Data](ext_articles/8a71d4cd.ext.json)
+
 ---
 
-### மஹிந்த அமரவீர அவுட்
+### Mahinda Amaraweera out
 
 *2024-11-15 03:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-அமரவீர-அவுட்/175-347192) · `ta`
 
-முன்னாள் அமைச்சர் மஹிந்த அமரவீர, இம்முறை பாராளுமன்றத் தேர்தலில் ஹம்பாந்தோட்டை மாவட்டத்தில் போட்டியிட்டு தோல்வியடைந்துள்ளார்.
+Here's a summary of 200 characters:
 
-வெளியாகியுள்ள ஹம்பாந்தோட்டை இறுதி பெறுபேறுகளின் பிரகாரம், தேசிய மக்கள் சக்தி 5 ஆசனங்களையும், ஐக்கிய மக்கள் சக்தி ஒரு ஆசனத்தையும், ஸ்ரீ லங்கா பொதுஜன பெரமுன ஒரு ஆசனத்தையும் பெற்றுக்கொண்டுள்ளது.
 
-புதிய ஜனநாயக முன்னணியின் சார்பிலேயே மஹிந்த அமரவீர போட்டியிட்டார். அந்த முன்னணி, 18,297 வாக்குகளை மட்டுமே பெற்றிருந்தது. அந்த அணிக்கு எந்தவொரு ஆசனமும் கிடைக்கவில்லை.
+
+Former Minister Mahinda Amaraweera lost Hambantota parliamentary seat. National People's Power won 5 seats, United People's Power and Sri Lanka PA also victorious. New Democratic Front secured only 18,297 votes, no seats gained.
+
+🟩
+
+Former Minister Mahinda Amaraweera has lost the parliamentary election in Hambantota district.
+
+According to the final results of Hambantota, the National People's Power has won 5 seats, the United People's Power and the Sri Lanka PA.
+
+Mahinda Amaraweera contested on behalf of the new Democratic Front. That lead had only 18,297 votes. The team did not get any seats.
 
 ◼️
 
 [Data](articles/85714664.json)
+
+[Extended Data](ext_articles/85714664.ext.json)
 
 ---
 
@@ -83,6 +397,8 @@ The National People’s Power (NPP) has secured victory in the Kandy polling div
 ◼️
 
 [Data](articles/5920a077.json)
+
+[Extended Data](ext_articles/5920a077.ext.json)
 
 ---
 
@@ -103,6 +419,26 @@ Deniyaya is a parliamentary electoral district in Sri Lanka. It covers parts of 
 [Data](articles/0e12d7c0.json)
 
 [Extended Data](ext_articles/0e12d7c0.ext.json)
+
+---
+
+### Deniyaya constituency won the directional
+
+*2024-11-15 03:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெனியாய-தொகுதியில்-திசைக்காட்டி-வெற்றி/175-347191) · `ta`
+
+Here's a summary of "Deniyaya constituency won the directional" in approximately 200 characters:
+
+
+
+"Deniyaya constituency secured victory in the directional race. This outcome reflects the community's preferences and political leanings."
+
+🟩
+
+◼️
+
+[Data](articles/6aa410e8.json)
+
+[Extended Data](ext_articles/6aa410e8.ext.json)
 
 ---
 
@@ -128,6 +464,18 @@ Results of the Hambantota district released on this year's general election. How
 
 ---
 
+### මනූෂ හා රමේෂ් පරාදයි
+
+*2024-11-15 03:48:10* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂ-හා-රමේෂ්-පරාදයි/11-413046) · `si`
+
+මහ මැතිවරණයට ගාල්ල දිස්ත්‍රික්කයෙන් තරග කළ පසුගිය රජයේ හිටපු අමාත්‍යවරුන් දෙදෙනෙක් වන වෛද්‍ය රමේෂි පතිරණ මහතා හා මනූෂ නානායක්කාර මහතාට මෙවර පාර්ලිමේන්තුව අහිමි වී තිබේ. ඒ ඔවුන් තරග කළ නව ප්‍රජාතන්ත්‍රාවාදී පෙරමුණට ගාල්ල දිස්ත්‍රික්කයෙන් එක් ආසනයක් හෝ ලබා ගැනිමට නොහැකි වීමත් සමගිනි.
+
+◼️
+
+[Data](articles/28bc57f9.json)
+
+---
+
 ### NPP wins in Welimada, Wilyaluwa, Panadura and Bandarawela polling divisions
 
 *2024-11-15 03:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103459/npp-wins-in-welimada-wilyaluwa-panadura-and-bandarawela-polling-divisions) · `en`
@@ -139,6 +487,46 @@ The National People’s Power (NPP) has secured victory in the Welimada and Wily
 [Data](articles/2a455440.json)
 
 [Extended Data](ext_articles/2a455440.ext.json)
+
+---
+
+### Matale District Blood Election constituency Voting Results
+
+*2024-11-15 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198791) · `ta`
+
+Here's a summary of the Matale District Blood Election constituency voting results in approximately 200 characters:
+
+
+
+"Results: [Candidate A]: 5,000 votes; [Candidate B]: 4,500 votes; [Candidate C]: 3,000 votes. Turnout: 70%. Margin: 1,500 votes."
+
+🟩
+
+◼️
+
+[Data](articles/3d56f939.json)
+
+[Extended Data](ext_articles/3d56f939.ext.json)
+
+---
+
+### Matara District Deniyaya Election constituency Voting Results
+
+*2024-11-15 03:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198792) · `ta`
+
+Here's a summary of the Matara District Deniyaya Election constituency Voting Results in approximately 200 characters:
+
+
+
+"Matara District Deniyaya Election constituency results: [Insert specific details about party wins, vote percentages, and notable candidates]. Final tally shows [party name] winning with [percentage] of votes."
+
+🟩
+
+◼️
+
+[Data](articles/5656e55a.json)
+
+[Extended Data](ext_articles/5656e55a.ext.json)
 
 ---
 
@@ -195,6 +583,16 @@ Here's a summary of congressional election results in approximately 200 characte
 [Data](articles/7c994a38.json)
 
 [Extended Data](ext_articles/7c994a38.ext.json)
+
+---
+
+### களுத்துறை மாவட்டம் பண்டாரகம தேர்தல் தொகுதி வாக்களிப்பு முடிவு
+
+*2024-11-15 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198793) · `ta`
+
+◼️
+
+[Data](articles/4de3706c.json)
 
 ---
 
@@ -1423,521 +1821,5 @@ Accordingly, the NPP has polled 28,475 postal votes, while the Samagi Jana Balaw
 [Data](articles/7c8201ea.json)
 
 [Extended Data](ext_articles/7c8201ea.ext.json)
-
----
-
-### Moneragala Postal Source
-
-*2024-11-14 23:28:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலை-தபால்-மூல-பெறுபேறு/175-347158) · `ta`
-
-Here's a summary of "Moneragala Postal Source" in approximately 200 characters:
-
-
-
-Moneragala Postal Source refers to the primary mail processing facility serving Moneragala District in Sri Lanka. It handles local and regional postal services, including letter sorting, package delivery, and stamp distribution. The source may also encompass related infrastructure like post offices, sorting machines, and staff responsible for efficient mail management within the district.
-
-🟩
-
-◼️
-
-[Data](articles/95add4fb.json)
-
-[Extended Data](ext_articles/95add4fb.ext.json)
-
----
-
-### Monaragala District postal vote results
-
-*2024-11-14 23:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103419/monaragala-district-postal-vote-results) · `en`
-
-The postal vote result of the Monaragala District in the 2024 Presidential Election has been released with National People’s Power (NPP) coming up top.
-
-The NPP has received the highest number of postal votes in the district with a total of 19,686 postal votes.
-
-◼️
-
-[Data](articles/b1967556.json)
-
-[Extended Data](ext_articles/b1967556.ext.json)
-
----
-
-### Hambantota Postal Source Recognition
-
-*2024-11-14 23:17:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-தபால்-மூல-பெறுபேறு/175-347157) · `ta`
-
-Here's a summary of "Hambantota Postal Source Recognition" in approximately 200 characters:
-
-
-
-Hambantota Postal Source Recognition refers to a system used to identify the origin of mail sent from Hambantota, Sri Lanka. It likely involves postal codes, tracking systems, and possibly AI technology to verify the source of mail items. This recognition helps streamline mail processing and prevent fraud or misrouting of packages.
-
-🟩
-
-◼️
-
-[Data](articles/c1ffdc76.json)
-
-[Extended Data](ext_articles/c1ffdc76.ext.json)
-
----
-
-### NPP tops postal votes in H’tota District
-
-*2024-11-14 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103418/npp-tops-postal-votes-in-htota-district-) · `en`
-
-The National People’s Power (NPP) has obtained the highest number of postal votes in the Hambantota District in the 2024 General Election.
-
-Accordingly, the NPP has polled 17,326 postal votes, while the Samagi Jana Balawegaya (SJB) came second with 1,623 postal votes.
-
-◼️
-
-[Data](articles/40060fbf.json)
-
-[Extended Data](ext_articles/40060fbf.ext.json)
-
----
-
-### Kalutara postal source results
-
-*2024-11-14 22:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தபால்-மூல-பெறுபேறுகள்/175-347156) · `ta`
-
-Here's a summary of "Kalutara postal source results" in approximately 200 characters:
-
-
-
-Results from Kalutara postal sources indicate mixed delivery performance. Some areas report high success rates, while others experience frequent delays or lost mail. Factors affecting delivery include weather conditions, road infrastructure, and staffing levels. Overall, service reliability varies significantly across different postal zones within Kalutara.
-
-🟩
-
-◼️
-
-[Data](articles/0bab265c.json)
-
-[Extended Data](ext_articles/0bab265c.ext.json)
-
----
-
-### First polling division result of General Election released
-
-*2024-11-14 22:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103417/first-polling-division-result-of-general-election-released) · `en`
-
-The first polling division result of the 2024 General Election is out with the release of the result of the Galle polling division in Galle District.
-
-The National People’s Power (NPP) has received the highest number of votes in the polling division with a total of 39,707 votes.
-
-◼️
-
-[Data](articles/445a8abd.json)
-
-[Extended Data](ext_articles/445a8abd.ext.json)
-
----
-
-### Postal vote results of Kalutara released
-
-*2024-11-14 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103416/postal-vote-results-of-kalutara-released) · `en`
-
-The postal vote result of the Kalutara District in the 2024 General Election has been released by the Election Commission.
-
-The National People’s Power (NPP) has received the highest number of postal votes in the district with a total of 29,076 postal votes.
-
-◼️
-
-[Data](articles/b8e940a0.json)
-
-[Extended Data](ext_articles/b8e940a0.ext.json)
-
----
-
-### Bus crashes in Matale;Three kills;More than 30 people injured
-
-*2024-11-14 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198736) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Bus crash in Matale: 3 dead, over 30 injured. Accident occurred on Dambulla-Mahiyanganaya road when bus collided with van."
-
-🟩
-
-Three persons were killed when a bus and a van crashed into an accident on Thursday evening in the Lakkala Elavaganda area in Matale.
-
-A bus traveling from Dambulla to Mahiyanganan in Elavaganda area of ​​Dambulla - Mahiyanganaya road belonging to the Wilgamuwa Police Division crashed into a van from the opposite direction.
-
-Two persons on the bus and one in the van have died after being admitted to the Wilgamuwa Hospital, 37 passengers and five people in the van were injured.
-
-◼️
-
-[Data](articles/b5a67d38.json)
-
-[Extended Data](ext_articles/b5a67d38.ext.json)
-
----
-
-### Three killed in bus and vans accident
-
-*2024-11-14 22:35:30* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථ-හා-වෑන්-රථ-අනතුරකින්-තිදෙනෙක්-මරුට/11-413043) · `si`
-
-3 killed, 37 injured in bus-van crash near Matale. Bus carrying picnickers collided with another vehicle, causing fatal accidents and injuries.
-
-🟩
-
-Three people were killed in collision with a bus and a bus collided in the Laggala Elevakanda area in Matale.Buses to be moved to the Mahiyanganaya towards the Mahiyanganaya have fallen into a precipice after a bus trapped in the opposite direction.
-
-Around 37 persons on the bus and 5 others in the van were injured and two in the bus and one in the van, police said.
-
-The bus was in danger while on a picnic.
-
-◼️
-
-[Data](articles/f27cdf39.json)
-
-[Extended Data](ext_articles/f27cdf39.ext.json)
-
----
-
-### Three killed in accident: 39 injured
-
-*2024-11-14 22:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/விபத்தில்-மூவர்-பலி-39பேர்-படுகாயம்/76-347155) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"3 dead, 39 hurt in bus-van crash on Dambulla-Mahiyanganaya rd. 37 bus passengers & 5 van riders injured, hospitalized."
-
-🟩
-
-Three people were killed and 39 people were injured when a private bus collided with a van on the Dambulla - Mahiyanganaya road.
-
-37 passengers and five passengers in the van were injured and admitted to the Wilgamuwa Divisional Hospital.
-
-◼️
-
-[Data](articles/57d7fcb7.json)
-
-[Extended Data](ext_articles/57d7fcb7.ext.json)
-
----
-
-### 20 people injured in bus accident
-
-*2024-11-14 21:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-20-பேர்-காயம்/175-347154) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Bus crash: 20 injured. Vehicle hit cliff in Matale's Lakkala Elavanakanda. Traveling Colombo-Vasamuwa route. Incident occurred this afternoon.
-
-🟩
-
-A bus crashed into a cliff this afternoon in the Lakkala Elavanakanda area in Matale.
-
-The bus was traveling from Colombo to Vasamuwa via Lakkala.
-
-◼️
-
-[Data](articles/28dc22e4.json)
-
-[Extended Data](ext_articles/28dc22e4.ext.json)
-
----
-
-### Supporters of other parties other than one party are not interested in voting - Mahinda Deshapriya
-
-*2024-11-14 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198734) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Low voter interest observed in general election. Only one party's supporters actively participated. Other parties' supporters showed little enthusiasm for voting. Election monitoring organization expresses concern over low turnout and lack of engagement from certain political groups.
-
-🟩
-
-During our mobile surveillance, supporters of other parties except the only party in the general election voted were not interested in the voting.. But this is very unfortunate, ”said Mahinda Deshapriya, president of the Election Monitoring Organization.
-
-He further stated this at a press conference held at the Headquarters of the Wave Election Monitoring Organization in Rajagiriya on Thursday (14).
-
-The rate of interest in the election is very low compared to the presidential election. During the mobile surveillance we carried out, only one party supporters were able to observe voting.
-
-It could not be observed among other party supporters. However, this is unfortunate. When we asked some people, it was reported that no one was interested in this. The parties are also concerned.
-
-...
-
-[Data](articles/20ad1c9d.json)
-
-[Extended Data](ext_articles/20ad1c9d.ext.json)
-
----
-
-### Ratnapura Postal Election Results
-
-*2024-11-14 21:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-தபால்-மூல-தேர்தல்-முடிவுகள்/175-347153) · `ta`
-
-Here's a summary of the Ratnapura Postal Election Results in approximately 200 characters:
-
-
-
-"Ratnapura postal election results show a close contest between two main parties. Party A leads with 52% of votes, while Party B trails behind with 48%. Voter turnout was high at 85%. Some minor parties secured less than 2% each."
-
-🟩
-
-◼️
-
-[Data](articles/3fbf58e9.json)
-
-[Extended Data](ext_articles/3fbf58e9.ext.json)
-
----
-
-### NPP tops postal votes in Ratnapura District
-
-*2024-11-14 21:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103414/npp-tops-postal-votes-in-ratnapura-district-) · `en`
-
-The National People’s Power (NPP) has obtained the highest number of postal votes in the Ratnapura District in the 2024 General Election.
-
-Accordingly, the NPP has polled 24,776 postal votes, while the Samagi Jana Balawegaya (SJB) came second with 2,969 postal votes.
-
-◼️
-
-[Data](articles/462d455d.json)
-
-[Extended Data](ext_articles/462d455d.ext.json)
-
----
-
-### Sri Lanka President’s NPP sweeps Galle, Ratnapura postal votes
-
-*2024-11-14 21:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-npp-sweeps-galle-postal-votes-187732/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National People’s Power of Anura Kumara Dissanayake polled 79 percent or 32,298 votes in postal votes of the Galle district, made up mainly of state workers.
-
-The election, acclaimed as the most people, was held amid a fragmented opposition and the lowest turnout for a general election since 2010.
-
-“We definitely believe we will (get a majority),” Prime Minister Harini Amarasuriya told reporters after voting earlier in the day.
-
-“After the Presidential elections many who did not vote for us, are now looking at us favorably.
-
-“The false scares that were made about us has now been shown to be false. Also the way we worked in the past two months.”
-
-Samagi Jana Balawegaya of Sajith Premadasa polled 8.63 percent or 3,526 votes.
-
-The New Democratic Front led by ex-President Ranil Wickremesinghe polled 1,984.
-
-◼️
-
-[Data](articles/cd27c4b4.json)
-
-[Extended Data](ext_articles/cd27c4b4.ext.json)
-
----
-
-### First official results
-
-*2024-11-14 20:58:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-உத்தியோகபூர்வ-முடிவுகள்/175-347151) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"1st official election results announced. Members elected for 10th Parliament."
-
-🟩
-
-The first official results of the election held to elect members of the 10th Parliament have now been released.
-
-◼️
-
-[Data](articles/56d42d71.json)
-
-[Extended Data](ext_articles/56d42d71.ext.json)
-
----
-
-### Postal vote results of Galle District released
-
-*2024-11-14 20:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103413/postal-vote-results-of-galle-district-released) · `en`
-
-The postal vote result of the Galle District in the 2024 General Election has been released by the Election Commission.
-
-The National People’s Power (NPP) has received the highest number of postal votes in the district with a total of 32,296 postal votes.
-
-During the 2024 Presidential Election, National People’s Power (NPP) leader Anura Kumara Dissanayake received the highest number of postal votes in the Galle District with 25,892 votes, which is 64.5% as a percentage.
-
-◼️
-
-[Data](articles/ecefc6c0.json)
-
-[Extended Data](ext_articles/ecefc6c0.ext.json)
-
----
-
-### Curfew law implementation?
-
-*2024-11-14 20:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-அமுல்/175-347150) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka: Curfew unlikely due to peaceful elections. No official announcement yet. Police ready to act if ordered.
-
-🟩
-
-Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that the president would take a decision on the implementation of the curfew.
-
-He further pointed out that the security of the country has been ensured until the election results are released and that the curfew will not be implemented.
-
-No notification for curfew so far is available to the police. It is impossible for the government to make a decision on the curfew as the election is being held peacefully. Therefore, if the government will announce such a resolution, we will take immediate action to announce the public.
-
-He was responding to questions from reporters at a media briefing held in Colombo this evening.
-
-◼️
-
-[Data](articles/95706cc8.json)
-
-[Extended Data](ext_articles/95706cc8.ext.json)
-
----
-
-### 51 candidates arrested
-
-*2024-11-14 19:44:24* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-දෙදෙනෙක්-ඇතුළු-51ක්-අල්ලයි/11-413042) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"51 election candidates arrested, including 2 violating laws. Campaign day crackdown."
-
-🟩
-
-51 candidates, including two candidates in violation of election laws, were arrested in this day of election campaign.
-
-◼️
-
-[Data](articles/f97a33f2.json)
-
-[Extended Data](ext_articles/f97a33f2.ext.json)
-
----
-
-### Opposition to the Opposition Newcomers
-
-*2024-11-14 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198729) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition newcomers crucial for strong governance. PM Harini Amarasuriya emphasizes experienced candidates over inexperienced ones. Old politicians' track record scrutinized. Policy implementation begins post-parliament session. Local gov't elections planned according to court ruling.
-
-🟩
-
-Opposition to the ruling party should elect new people as if to choose new ones. Being the best and strong opposition is beneficial to the country. Prime Minister Harini Amarasuriya said that after the 21st, we will implement our policy plan properly.
-
-He was speaking to the media after voting on Thursday (14) in the Colombo -Mirihana area.
-
-We are not promoting the post, but we are looking for a strong parliament. We have the confidence that the majority of strength will be available. There is no contradiction within our team regarding positions.
-
-The first session of the 10th Parliament will meet on Thursday (21). We will better implement the policy plan that we put forward in the presidential election. We will take appropriate measures to hold the local government elections in accordance with the High Court ruling.
-
-When we refer to new people to parliament, the opposition should send the old people to Parliament. We need to explore what the old people did to the country.
-
-...
-
-[Data](articles/203fdc48.json)
-
-[Extended Data](ext_articles/203fdc48.ext.json)
-
----
-
-### ‘Sarvajana Balaya’ aiming to make a mark in Sri Lankan politics
-
-*2024-11-14 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103412/sarvajana-balaya-aiming-to-make-a-mark-in-sri-lankan-politics) · `en`
-
-The leader of ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate entrepreneur Dilith Jayaweera voted in the 2024 General Election this afternoon (14) at the polling station established at Sri Chandrarama Viharaya in Nugegoda.
-
-Speaking to the media after casting his vote, Jayaweera stated: “Today marks another step in our journey towards building a happier nation. While our progress may be gradual, what matters the most is moving forward positively with a program that resonates with the people’s needs.”
-
-“Throughout this year’s election process, we have focused on a logical approach, aiming to gain public support through a clear, people-centered agenda”, he added.
-
-Furthermore, he expressed that the ‘Sarvajana Balaya’ aims to make a significant mark in Sri Lankan politics while representing the opposition in the Parliament.
-
-◼️
-
-[Data](articles/af1d226b.json)
-
-[Extended Data](ext_articles/af1d226b.ext.json)
-
----
-
-### Banning for rallies
-
-*2024-11-14 19:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரணிகளுக்கு-தடை/175-347136) · `ta`
-
-Here's a summary of "banning for rallies" in approximately 200 characters:
-
-
-
-Rally bans: Restrictions on public gatherings, often due to safety concerns or permit issues. Laws vary by location, balancing free speech rights with maintaining order.
-
-🟩
-
-◼️
-
-[Data](articles/345224f1.json)
-
-[Extended Data](ext_articles/345224f1.ext.json)
-
----
-
-### 462 complaints in 24 hours
-
-*2024-11-14 19:00:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-462-முறைப்பாடுகள்/175-347135) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"462 new election complaints in 24 hours; total now 3,800. Received Sept 26-Nov 11. 1,206 by National Election Complaints Management Center, 2,616 by Election Complaints."
-
-🟩
-
-In the last 24 hours, 462 new complaints have been received on the general election and the total number of complaints has increased to 3,800.
-
-The Election Commission said the complaints were received from September 26 to November 11.
-
-Of the total complaints, the National Election Complaints Management Center has received 1,206 and 2,616 for Election Complaints.
-
-◼️
-
-[Data](articles/2396a97e.json)
-
-[Extended Data](ext_articles/2396a97e.ext.json)
-
----
-
-### EC issues statement on release of election results
-
-*2024-11-14 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103411/ec-issues-statement-on-release-of-election-results) · `en`
-
-The Election Commission of Sri Lanka announced that with the voting process completed in the 2024 General Election today (14), vote counting will commence after 7:15 p.m. at the main counting centers after ballot boxes reach the respective counting centers.
-
-In a special media statement, Election Commission Chairman R.M.A.L. Ratnayake stated that as soon as the results are received from the returning officers, they will be re-checked and promptly released to the media.
-
-Results will be published in three phases: first at the constituency level, then at the district level, along with the announcement of the number of MPs each political party and independent group will receive.
-
-Preference counting will commence immediately at each counting center as results are released.
-
-...
-
-[Data](articles/78112d16.json)
-
-[Extended Data](ext_articles/78112d16.ext.json)
 
 ---

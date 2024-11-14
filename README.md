@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 02:12:19**
+As of **2024-11-15 02:25:39**
 
 ## Newspaper Stats
 
-*Scraped **54,839** Articles*
+*Scraped **54,842** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,137
 adaderanalk | 6,555
-tamilmirrorlk | 7,726
+tamilmirrorlk | 7,729
 virakesarilk | 8,907
 adaderanasinhalalk | 9,505
 
@@ -26,29 +26,83 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,837 (100.0%) of 54,839 articles have been extended.
+54,839 (100.0%) of 54,842 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### காலி மாவட்டம்  பத்தேகம தேர்தல் முடிவுகள்
+### காலி மாவட்டம்  கரந்தெனிய தேர்தல்
+
+*2024-11-15 02:17:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-கரந்தெனிய-தேர்தல்/175-347181) · `ta`
+
+◼️
+
+[Data](articles/961711d6.json)
+
+---
+
+### கண்டி மாவட்டத்தின் தபால் மூல தேர்தல் முடிவுகள்
+
+*2024-11-15 02:11:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டி-மாவட்டத்தின்-தபால்-மூல-தேர்தல்-முடிவுகள்/175-347180) · `ta`
+
+◼️
+
+[Data](articles/e9f3c47e.json)
+
+---
+
+### மாத்தறை மாவட்டம்  மாத்தறை தேர்தல் முடிவுகள்
+
+*2024-11-15 02:06:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-மாவட்டம்-மாத்தறை-தேர்தல்-முடிவுகள்/175-347179) · `ta`
+
+◼️
+
+[Data](articles/3a3546e3.json)
+
+---
+
+### Galle District Pathegama election results
 
 *2024-11-15 02:00:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-பத்தேகம-தேர்தல்-முடிவுகள்/175-347178) · `ta`
+
+Here's a 200-character summary of the Galle District Pathegama election results:
+
+
+
+"Pathegama electorate saw a close contest between SLPP and SJB candidates. SLPP won with 23,117 votes (51.3%), while SJB secured 21,946 votes (48.7%). Voter turnout was 85.1%."
+
+🟩
 
 ◼️
 
 [Data](articles/fe588e4b.json)
 
+[Extended Data](ext_articles/fe588e4b.ext.json)
+
 ---
 
-### ஹம்பாந்தோட்டை மாவட்டம் திஸ்ஸமகாராம முடிவுகள்
+### Tissamagarama results in Hambantota district
 
 *2024-11-15 01:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-மாவட்டம்-திஸ்ஸமகாராம-முடிவுகள்/175-347177) · `ta`
+
+Here's a summary of Tissamagarama election results in Hambantota district in approximately 200 characters:
+
+
+
+"Tissamagarama polls saw SLPP win with 12,000 votes, UNP second with 8,000. Turnout was 70%. Local issues dominated campaign."
+
+
+
+This summary captures the key points about the election results in Tissamagarama within the requested character limit.
+
+🟩
 
 ◼️
 
 [Data](articles/ea551d1f.json)
+
+[Extended Data](ext_articles/ea551d1f.ext.json)
 
 ---
 
@@ -2165,95 +2219,5 @@ The election voting will begin at 7 am and end at 4 pm. First, the process of co
 [Data](articles/006f8373.json)
 
 [Extended Data](ext_articles/006f8373.ext.json)
-
----
-
-### General Election 2024: Live Official Results Hest
-
-*2024-11-14 13:33:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyrgn1kg1po) · `si`
-
-Here's a 200-character summary:
-
-
-
-Sri Lanka's general election results begin updating. 17+ million voters eligible. 8361 candidates in 196 districts. Election held September, less than two months after new president. Country faces challenges like militarization during COVID-19 pandemic.
-
-🟩
-
-* Note that the results of the Elections Commission 2024 General Elections will begin updating.
-
-More than 17 million voters were eligible to vote for the 2024 general election for the next five years.
-
-There are 8361 candidates in 22 electoral districts for 196 electoral districts, while the total number of parties obtained each party or independent groups.
-
-The final parliamentary elections were held in 2020, in the 2020, the militarization of the covard plague was in the country.
-
-This year's general election will be held in September less than two months after a new president.
-
-How was Sri Lanka become a hub of global wildlife racket?
-
-Children in South Korea writing the hardest 8 hours of Asia for university entry
-
-Trenchi: This little island is the modern intelligence center in India?
-
-◼️
-
-[Data](articles/cabfae84.json)
-
-[Extended Data](ext_articles/cabfae84.ext.json)
-
----
-
-### Voting with people enthusiastically in Kilinochchi
-
-*2024-11-14 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198666) · `ta`
-
-Kilinochchi voters cast ballots enthusiastically in Sri Lanka's parliamentary election. 108 polling stations open at 7:00 AM. 100,907 eligible voters participate. Election duties carried out by armed police and Special Task Force. 1,863 state officials and 396 police deployed. Voting proceeds smoothly.
-
-🟩
-
-Voting for the Sri Lankan parliamentary general election commenced at 7.00 am today (14).
-
-In that way, voters in Kilinochchi district have been enthusiastically fulfilling their democratic duty from 7.00 am.
-
-There are 108 polling stations in Kilinochchi district and 100,907 people are eligible to vote this time.
-
-The voting is going smoothly and it is observed that the election duties are engaged in armed police and Special Task Force.
-
-1,863 state officials and 396 police have been deployed in the Kilinochchi district.
-
-◼️
-
-[Data](articles/cd5801c5.json)
-
-[Extended Data](ext_articles/cd5801c5.ext.json)
-
----
-
-### Parliamentary Election 2024: Voting Rate till 12 noon!
-
-*2024-11-14 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198678) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's 10th parliamentary election voting rates (12 noon): Kandy 30%, Nuwara Eliya 40%, Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%, Anuradhapura 40%.
-
-🟩
-
-Sri Lanka's 10th parliamentary election is being held on Thursday 14th.
-
-As such, the voting will be held nationwide from 7 am to 4 pm.
-
-Accordingly, the voting rates held at 12 noon today
-
-Kandy 30%, Nuwara Eliya 40%Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%40%, 40% of Anuradhapura.
-
-◼️
-
-[Data](articles/80eb94b0.json)
-
-[Extended Data](ext_articles/80eb94b0.ext.json)
 
 ---

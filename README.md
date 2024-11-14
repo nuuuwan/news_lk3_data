@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 17:10:33**
+As of **2024-11-14 17:42:45**
 
 ## Newspaper Stats
 
-*Scraped **54,743** Articles*
+*Scraped **54,748** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,131
+adalk | 5,132
 adaderanalk | 6,539
-tamilmirrorlk | 7,681
+tamilmirrorlk | 7,685
 virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,742 (100.0%) of 54,743 articles have been extended.
+54,745 (100.0%) of 54,748 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### பயணக் கட்டுப்பாட்டை இஸ்ரேலும் தளர்த்தியது
+
+*2024-11-14 17:23:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்-கட்டுப்பாட்டை-இஸ்ரேலும்-தளர்த்தியது/175-347127) · `ta`
+
+அறுகம்பே பகுதிக்கு வருகை தரும் பயணிகளின் எண்ணிக்கையில் இஸ்ரேல் விதித்துள்ள பயணக் கட்டுப்பாடுகளை தளர்த்த இஸ்ரேல் நடவடிக்கை எடுத்துள்ளது.
+
+அதன்படி, தேசிய பாதுகாப்பு கவுன்சில் எச்சரிக்கை அளவை நான்கில் இருந்து இரண்டாக குறைத்துள்ளது.
+
+மறு அறிவித்தல் வரை அறுகம்பே பகுதிக்கு செல்வதை தவிர்க்குமாறு இஸ்ரேல் தனது பிரஜைகளுக்கு கடந்த ஒக்டோபர் 23ஆம் திகதி எச்சரிக்கை விடுத்திருந்தமை குறிப்பிடத்தக்கது.AN
+
+◼️
+
+[Data](articles/6716e1af.json)
+
+---
+
+### நிறுவனங்களுக்கு எச்சரிக்கை
+
+*2024-11-14 17:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிறுவனங்களுக்கு-எச்சரிக்கை/175-347126) · `ta`
+
+பாராளுமன்றத் தேர்தலில் வாக்களிக்கச் செல்ல விடுமுறை வழங்காத நிறுவனத்தின் பிரதானிக்கு ஒரு மாத காலம் சிறைத்தண்டனை விதிக்கப்படலாம் என பெப்ரல் அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாரச்சி தெரிவித்துள்ளார்.
+
+பாராளுமன்றத் தேர்தலில் வாக்களிக்க விடுமுறை வழங்குவதில்லை என்ற முறைப்பாடு தொடர்பில் கருத்து தெரிவிக்கையிலே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+இது தொடர்பில் அவர் மேலும் தெரிவிக்கையில், "இன்று இடம்பெறும் பாராளுமன்றத் தேர்தலில் வாக்களிக்கச் செல்வதற்கு விடுமுறை வழங்குவதில்லை என்ற முறைப்பாடு எமக்குக் கிடைத்திருக்கின்றது.
+
+அவ்வாறு எந்த நிறுவனமாவது, தேர்தல் ஆணைக்குழு அறிவித்துள்ளதன் பிரகாரம், வாக்களிக்கச் செல்ல இருக்கும் தூரத்துக்கு அமைய விடுமுறை வழங்காவிட்டால், நிறுவனத்தின் பிரதானிக்கு ஒரு மாத காலம் சிறைத்தண்டனை விதிக்கப்படலாம் அல்லது ஒரு இலட்சம் ரூபா தண்டம் விதிக்கப்படலாம்.
+
+சில சந்தர்ப்பங்களில் இரண்டும் விதிக்கப்படலாம். அதனால் மக்களின் அடிப்படை உரிமையைப் பாதுகாக்க அனைவரும் கடமைப்பட்டுள்ளனர்  என்றார்.
+
+◼️
+
+[Data](articles/ac4dbaa7.json)
+
+---
+
+### Arrest
+
+*2024-11-14 17:14:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-கிழித்தவர்-கைது/175-347125) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Man arrested for destroying ballots. Incident raises concerns about election integrity and potential voter suppression. Investigation ongoing.
+
+🟩
+
+A man has been arrested for tearing down the ballot
+
+◼️
+
+[Data](articles/f20c4c23.json)
+
+[Extended Data](ext_articles/f20c4c23.ext.json)
+
+---
+
+### Three killed in election duty
+
+*2024-11-14 17:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கடமையில்-ஈடுபட்டிருந்த-மூவர்-பலி/175-347124) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"3 killed during election duties: Police spokesperson confirms deaths of 1 officer & 2 civilians involved in polls today."
+
+🟩
+
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Talduwa said that the police officer and two civil officers who were involved in the election were killed today (14).
+
+He said this while attending a media briefing held today.
+
+◼️
+
+[Data](articles/0fcf9732.json)
+
+[Extended Data](ext_articles/0fcf9732.ext.json)
+
+---
 
 ### Parliamentary Election 2024: Voting proceedings are completed!
 
@@ -73,6 +155,18 @@ The voting for the country's 10th parliamentary voting commenced today (14) at 7
 [Data](articles/eac3202d.json)
 
 [Extended Data](ext_articles/eac3202d.ext.json)
+
+---
+
+### ඡන්ද පත්‍රිකාවක් ඉරා දැමූ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-11-14 15:52:25* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-පත්‍රිකාවක්-ඉරා-දැමූ-පුද්ගලයෙකු-අත්අඩංගුවට/11-413038) · `si`
+
+ඡන්ද පත්‍රිකාවක් ඉරා දැමූ පුද්ගලයෙකු වාද්දූව ​පොතුපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/08509991.json)
 
 ---
 
@@ -709,6 +803,8 @@ Accordingly, the voter turnout percentages of several districts as at 11.00 a.m.
 ◼️
 
 [Data](articles/658abdae.json)
+
+[Extended Data](ext_articles/658abdae.ext.json)
 
 ---
 
@@ -2201,107 +2297,5 @@ Fems understand the diverse needs of women and the relaunch is focused on enhanc
 [Data](articles/c57b12f6.json)
 
 [Extended Data](ext_articles/c57b12f6.ext.json)
-
----
-
-### Invest in education plans: Securing the future of the nation’s children
-
-*2024-11-13 23:11:00* · [`islandlk`](http://island.lk/invest-in-education-plans-securing-the-future-of-the-nations-children/) · `en`
-
-A strong educational foundation is one of the most powerful investments we can make in our children’s future. In 2023, data from the Department of Census and Statistics revealed that over 3.88 million children were enrolled across 9,103 government schools, while over 137,869 attended private institutions. These young learners, aged 6 to 18, represent the promise of our nation’s future, and supporting their educational journey is crucial for building a brighter and a more prosperous tomorrow.
-
-The rising cost of education, whether locally or abroad makes early financial planning crucial. Limited access to state universities and the increasing trend of pursuing higher education overseas highlight the need for structured savings. Education insurance offers a solution that combines savings with financial protection, ensuring children’s education is uninterrupted, even in uncertain times.
-
-...
-
-[Data](articles/b339094e.json)
-
-[Extended Data](ext_articles/b339094e.ext.json)
-
----
-
-### Hayleys Fentons triumphs at the CNCI Achiever Awards 2024
-
-*2024-11-13 23:10:00* · [`islandlk`](http://island.lk/hayleys-fentons-triumphs-at-the-cnci-achiever-awards-2024/) · `en`
-
-Hayleys Fentons Limited has achieved remarkable success at the prestigious CNCI Achiever Awards 2024, winning 05 awards for business and engineering excellence.
-
-The awards, organised by the Ceylon National Chamber of Industries (CNCI), recognise and celebrate the outstanding contributions of local industrialists in Sri Lanka’s manufacturing and service sectors.
-
-Hayleys Fentons Limited secured the Gold Award in the National Level Service Sector – Extra Large Category, marking a significant milestone in the company’s journey. Additionally, the company was honoured with the Top Ten Award by the CNCI, solidifying its position as a leader in the engineering industry.
-
-Fentons Smart Facilities (PVT) Limited won the Gold Award in the National Level Service Sector – Small Category for exceptional repairs and maintenance services.
-
-...
-
-[Data](articles/0bcb6233.json)
-
-[Extended Data](ext_articles/0bcb6233.ext.json)
-
----
-
-### Bullish uptick in share market as country goes to the polls
-
-*2024-11-13 23:06:00* · [`islandlk`](http://island.lk/bullish-uptick-in-share-market-as-country-goes-to-the-polls/) · `en`
-
-The CSE was bullish yesterday ahead of the general election and also in consideration of the impending debt restructuring process, stock market analysts said.
-
-“With one election over, the market is expecting the same sentiment to continue. There is a reduction in political uncertainty. Further, banking sector counters were very active and half of their turnover was reported from a DFCC Bank crossing and retail trading, market analytics added.
-
-Amid those developments the ASPI closed in green on most days and the All Share Price Index crossed the 13,000 mark. The All Share Price Index went up by 136.2 points while S and P SL20 rose by 54.56 points.
-
-...
-
-[Data](articles/127c59fe.json)
-
-[Extended Data](ext_articles/127c59fe.ext.json)
-
----
-
-### 30-year-old killed in Badowita shooting
-
-*2024-11-13 23:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103390/30-year-old-killed-in-badowita-shooting) · `en`
-
-A 30-year-old man has been killed in a shooting incident in the Badowita area within the Mount Lavinia Police Division tonight (13).
-
-The victim, a resident of Badowita Phase 3, was pronounced dead upon admission to the Kalubowila Hospital.
-
-A T-56 assault rifle is suspected to have been used in the shooting, though details of the suspects involved remain unknown.
-
-Mount Lavinia Police have launched an investigation into the incident based on information received via the ‘119’ police emergency hotline.
-
-◼️
-
-[Data](articles/7be76394.json)
-
-[Extended Data](ext_articles/7be76394.ext.json)
-
----
-
-### Firing in Kalkissa;One killed
-
-*2024-11-13 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198629) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Shooting in Kalkissa; one killed. Incident occurred Wednesday night in Badovita area. Victim died at Kalubowila hospital. T56 rifle suspected. No suspects identified yet. Mount police investigating through emergency number 119.
-
-🟩
-
-One person was killed in a shooting that took place on Wednesday night (13) in the Badovita area of ​​the Kalkissa police division.
-
-The man who was injured in the shooting has died after being admitted to the Kalubowila hospital for treatment.
-
-It is suspected that the T56 rifle may have been used for the shooting, and no information on the suspects has yet been released.
-
-Mount police have launched an investigation into the incident through information received for 119 emergency numbers, police said.
-
-◼️
-
-[Data](articles/579ecf57.json)
-
-[Extended Data](ext_articles/579ecf57.ext.json)
 
 ---

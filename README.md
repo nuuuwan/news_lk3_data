@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 10:26:23**
+As of **2024-11-14 10:41:25**
 
 ## Newspaper Stats
 
-*Scraped **54,686** Articles*
+*Scraped **54,688** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,124
+adalk | 5,125
 adaderanalk | 6,526
-tamilmirrorlk | 7,666
+tamilmirrorlk | 7,667
 virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,685 (100.0%) of 54,686 articles have been extended.
+54,685 (100.0%) of 54,688 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### சுவரொட்டிகளை ஒட்டிய இருவர் கைது
+
+*2024-11-14 10:30:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுவரொட்டிகளை-ஒட்டிய-இருவர்-கைது/175-347101) · `ta`
+
+தேர்தல் விதிமுறைகளை மீறி அரசியல் கட்சி ஒன்றின் சுவரொட்டிகளை சட்டவிரோதமான முறையில் ஒட்டிய இருவர் இன்று (14) அதிகாலை கைது செய்யப்பட்டுள்ளதாக காலி பொலிஸார் தெரிவித்துள்ளனர்.
+
+காலி கந்தவத்தை பகுதியில் சுவரொட்டிகளை ஒட்டிய வேளையில் கண்டவத்தை பிரதேசத்தை சேர்ந்த 66 வயது மற்றும் 55 வயதுடைய இருவர் கைது செய்யப்பட்டுள்ளனர்.
+
+நடமாடும் ரோந்துப் பணியில் ஈடுபட்டிருந்த காவல் துறையினர் அவர்களைக் கைது செய்து பொலிஸாரிடம் ஒப்படைத்தனர்.
+
+◼️
+
+[Data](articles/1fe94f82.json)
+
+---
 
 ### 106 வயது முதியவர் வாக்களிப்பு
 
@@ -1542,6 +1558,22 @@ Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Coor
 
 ---
 
+### ඔන්ලයින් පාස්පෝට් දින වෙන් කර ගැනීමේ දෝෂයක් නෑ
+
+*2024-11-13 18:48:26* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පාස්පෝට්-දින-වෙන්-කර-ගැනීමේ-දෝෂයක්-නෑ/11-413024) · `si`
+
+ආගමන විගමන දෙපාර්තමේන්තුව හරහා පාස්පෝස් ලබාගැනීම වෙනුවෙන් දිනයක් වෙන් කරගැනීම ඔන්ලයින් ක්‍රමවේදය යටතේ කිසිදු ගැටලුවකින් තොරව සිදුවෙමින් පවතින බව මහජන ආරක්ෂක අමාත්‍යාංශය පවසයි. අද පුවත්පත කළ විමසීමේ දී එම අමාත්‍යාංශය පැවසුවේ එහි කිසිදු තාක්ෂණික දෝෂයක් ඇති වී නොමැති බවය.
+
+එම ක්‍රමවේදය තවදුරටත් පුළුල් කරමින් ආගමන විගමන දෙපාර්තමේන්තුවේ ඇමතුම් මධ්‍යස්ථානය වෙත ඇමතුමක් ලබාදී දිනයක් හා වෙලාවක් වෙන් කරවා ගැනීමේ ක්‍රමය ද කඩිනමින් ආරම්භ කරන බවත්, මේ වන විට ආගමන විගමන දෙපාර්තමේන්තුවේ වෙබ් පිටුව හරහා දිනයක් හා වෙලාවක් වෙන් කරගනිමින් ජනතාව පාස්පෝට් ලබාගැනීමේ කටයුතු සාර්ථකව සිදු කරන බවත් අමාත්‍යාංශයෙන් කළ විමසීමේ දී පැවසුවේය.
+
+වෙබ් පිටුවට පිවිසීමට අපහසුතා ඇති අය සඳහා 1919 රාජ්‍ය තොරතුරු කේන්ද්‍රය අමතා ඊට අදාළව උපදෙස් ලබාගනිමින් දිනයක් හා වේලාවක් වෙන් කරවා ගත හැකි බව ද අමාත්‍යාංශය ප්‍රකාශ කළේය.
+
+◼️
+
+[Data](articles/b2adfbce.json)
+
+---
+
 ### Use your feet to vote
 
 *2024-11-13 18:44:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பதற்கு-உங்கள்-கால்களை-பயன்படுத்துங்கள்/175-347068) · `ta`
@@ -2305,55 +2337,5 @@ Therefore, the Commission has warned that those who ignore these guidelines will
 [Data](articles/1f531627.json)
 
 [Extended Data](ext_articles/1f531627.ext.json)
-
----
-
-### Indonesia - Volcano in Bali;Airline Services cancer
-
-*2024-11-13 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198596) · `ta`
-
-Volcanic ash cancels flights in Bali, Indonesia. Nine killed in nearby eruption. 80 flights cancelled affecting Singapore, Hong Kong, Australia. 130 active volcanoes in Indonesia, part of Pacific Ring of Fire.
-
-🟩
-
-Many international airlines canceled airlines on Indonesia's Bali Tourism Island on Wednesday as the volcanic ash is 10 km (32,808 feet).
-
-Jetstar and Quantas airlines have reported that Bali's airline has been suspended for security reasons due to the surrounding volcano in the sky.
-
-Meanwhile, AirAsia and Virgin have also canceled airlines, according to the flight surveillance website Flyitradar 24.
-
-Bali is part of Indonesia's best tourism and is a place where Australian tourists are attracted.
-
-Nine people were killed when the Levotopi Lucky-Lucky volcano in the Eastern Nusa Tengara province, about 800 km (497 miles) from Bali, was caught in the first time.
-
-Due to this, 80 flights for several countries including Singapore, Hong Kong and Australia have been canceled from the 4th to the 12th of this month, the general manager of the Ngura Rai Airport said.
-
-...
-
-[Data](articles/6562cd73.json)
-
-[Extended Data](ext_articles/6562cd73.ext.json)
-
----
-
-### Sri Lanka sells Rs147.5bn in treasury bills, yields drop across maturities
-
-*2024-11-13 15:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs147-5bn-in-treasury-bills-yields-drop-across-maturities-187238/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across  maturities at Wednesday’s auction, with all offered 147.5 billion rupees of bills sold, data from the debt office showed.
-
-The 3-month yield was down 2 basis points at 9.35 percent, with all offered 62.5 billion rupees of bills sold.
-
-The 6-month yield was down 6 basis points at 9.70 percent, with all offered 65 billion rupees of bills sold.
-
-The 12-month bills was down 7 basis points at 9.95 percent, with all offered and 20 billion rupees of bills sold.
-
-The bills are available on tap after the auction. (Colombo/Nov13/2024)
-
-◼️
-
-[Data](articles/36a7d590.json)
-
-[Extended Data](ext_articles/36a7d590.ext.json)
 
 ---

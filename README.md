@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 20:41:30**
+As of **2024-11-14 21:00:29**
 
 ## Newspaper Stats
 
-*Scraped **54,778** Articles*
+*Scraped **54,779** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,135
 adaderanalk | 6,539
-tamilmirrorlk | 7,696
+tamilmirrorlk | 7,697
 virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,778 (100.0%) of 54,778 articles have been extended.
+54,778 (100.0%) of 54,779 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### ஊரடங்குச் சட்டம் அமுல்?
+
+*2024-11-14 20:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-அமுல்/175-347150) · `ta`
+
+ஊரடங்குச் சட்டத்தை அமுல்படுத்துவது தொடர்பில் அரசாங்கத்திடமிருந்து இதுவரையில் எவ்வித அறிவிப்பும் கிடைக்கவில்லையென்றும் ஜனாதிபதியே அது தொடர்பில் கலந்துரையாடி தீர்மானம் எடுப்பாரென்றும் பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+
+தேர்தல் முடிவுகள் வெளியாகும் வரையில் நாட்டின் பாதுகாப்பு உறுதிப்படுத்தப்பட்டுள்ளதாகவும் ஊரடங்குச் சட்டம் அமுலாகுமா இல்லையா என்பதை உறுதியாகக் கூறமுடியாதென்றும் அவர் மேலும் சுட்டிகாட்டினார்.
+
+இதுவரையில் ஊரடங்குக்கான எந்தவொரு அறிவிப்பும் பொலிஸாருக்கு கிடைக்கவில்லை. அமைதியான முறையில் தேர்தல் செயற்பாடுகள் இடம்பெறுவதால் ஊரடங்குச் சட்டம் தொடர்பில் அரசாங்கம் எவ்வாறான தீர்மானம் எடுக்குமென்பதைக் கூறமுடியாது. எனவே, அரசாங்கம் அப்படியொரு தீர்மானத்தை அறிவிக்குமென்றால் பொதுமக்களுக்கு உடனடியாக அறிவிக்க நடவடிக்கை எடுப்போமென்றும் குறிப்பிட்டார்.
+
+கொழும்பில் இன்று மாலை இடம்பெற்ற ஊடக சந்திப்பில் செய்தியாளர்களின் கேள்விகளுக்குப் பதிலளிக்கும்போதே இவ்வாறு குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/95706cc8.json)
+
+---
 
 ### Banning for rallies
 
@@ -2375,29 +2393,5 @@ President Dissanayake, leader was elected on September 21 has called a strong pa
 [Data](articles/ec3b8594.json)
 
 [Extended Data](ext_articles/ec3b8594.ext.json)
-
----
-
-### Sri Lanka’s Commercial Bank net up 100-pct, credit expands
-
-*2024-11-14 06:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-100-pct-credit-expands-187463/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commercial Bank profits of 12.5 billion rupees in the September 2024 quarter, up 100 percent from a year ago, as interest income fell and credit to customers picked up pace, interim accounts show.
-
-While credit to customers increased, investments in debt securities were down from a year ago.
-
-Commercial Bank group reported earnings of 9.11 rupees per share for the quarter, and 22.63 rupees for the nine months on total profits of 31.07 billion rupees, up 118 percent.
-
-Net fee and commission income was up 5.6 percent to 5.9 billion rupees.
-
-Interest income fell 8 percent 73.7 billion rupees as rates fell, interest expenses fell at a faster 25 percent to 37.4 billion rupees, expanding net interest income 29 percent to 30.5 billion rupees.
-
-“The challenge for banks operating in periods of low interest rates is to grow their portfolios while managing margins with timely adjustments,” Commercial Bank Chairman Sharhan Muhseen said in a statement.
-
-...
-
-[Data](articles/0fa9ade3.json)
-
-[Extended Data](ext_articles/0fa9ade3.ext.json)
 
 ---

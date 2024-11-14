@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 19:04:38**
+As of **2024-11-14 20:13:34**
 
 ## Newspaper Stats
 
-*Scraped **54,759** Articles*
+*Scraped **54,778** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 424
-bbccomsinhala | 558
+bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,278
-economynextcom | 3,323
+economynextcom | 3,338
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,134
+adalk | 5,135
 adaderanalk | 6,539
-tamilmirrorlk | 7,694
+tamilmirrorlk | 7,696
 virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,89 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,758 (100.0%) of 54,759 articles have been extended.
+54,778 (100.0%) of 54,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### Banning for rallies
+
+*2024-11-14 19:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரணிகளுக்கு-தடை/175-347136) · `ta`
+
+Here's a summary of "banning for rallies" in approximately 200 characters:
+
+
+
+Rally bans: Restrictions on public gatherings, often due to safety concerns or permit issues. Laws vary by location, balancing free speech rights with maintaining order.
+
+🟩
+
+◼️
+
+[Data](articles/345224f1.json)
+
+[Extended Data](ext_articles/345224f1.ext.json)
+
+---
+
+### 462 complaints in 24 hours
+
+*2024-11-14 19:00:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-462-முறைப்பாடுகள்/175-347135) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"462 new election complaints in 24 hours; total now 3,800. Received Sept 26-Nov 11. 1,206 by National Election Complaints Management Center, 2,616 by Election Complaints."
+
+🟩
+
+In the last 24 hours, 462 new complaints have been received on the general election and the total number of complaints has increased to 3,800.
+
+The Election Commission said the complaints were received from September 26 to November 11.
+
+Of the total complaints, the National Election Complaints Management Center has received 1,206 and 2,616 for Election Complaints.
+
+◼️
+
+[Data](articles/2396a97e.json)
+
+[Extended Data](ext_articles/2396a97e.ext.json)
+
+---
+
+### The Peace in the history of electoral was held
+
+*2024-11-14 18:53:43* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ඉතිහාසයේ-සාමකාමීම-මැතිවරණය-පැවැත්වූවා/11-413041) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Presidential candidate Anura Kumara Dissanayake addresses media post-voting. Promises strong parliamentary representation for national government. Aims to establish political culture across all provinces through new parliament.
+
+🟩
+
+President Anura Kumara Dissanayake said the media addressing the media after votes the election of a political culture of the North, South, Eastern and West.
+
+President Anura Kumara Dissanayake voted in connection with the 2024 general election in the 2024 General Election today (14).
+
+After his vote, President Anura Kumara Dissanayake said he would receive a strong parliamentary representation for the national government.
+
+The President pointed out that the country can carry a new parliament with a new political culture by building a strong parliament that can pass the populist command.
+
+President Anura Kumara Dissanayake added that a political culture of all provinces collected by the North, South, Eastern and West will be established under the government.
+
+The President said that the people of the electoral elections were expected to become the political culture of the country that the people of the electoral elections were expected after the presidential election.
+
+◼️
+
+[Data](articles/df4ae333.json)
+
+[Extended Data](ext_articles/df4ae333.ext.json)
+
+---
 
 ### The process of counting postal votes
 
@@ -78,21 +156,53 @@ When voting this morning, he predicted that voting would be low.
 
 ---
 
-### ගාල්ලේ ජනාධිපතිවරණයට ඡන්දය දැමූ 148,424  කට මහ මැතිවරණයේ දී  ඡන්දය එපාවෙලා
+### Sri Lanka 2024 parliament election turnout at 60-65-pct, lowest since 2010
+
+*2024-11-14 18:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-2024-parliament-election-turnout-at-60-65-pct-lowest-since-2010-187666/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s election turnout at the 2024 parliament election has been around 55 to 65 percent at several districts, according to their returning officers, which is the lowest since the 2010 general election, according to information now available.
+
+President Anura Dissanayake said he expected a “strong mandate” to govern during his term.
+
+In 2010 when President Mahinda Rajapaksa’s United Poeple’s Freedom Alliance won 144 seats, the turnout was 61.3 percent.
+
+Sri Lanka President Dissanayake says strong parliamentary mandate is enough
+
+Initial assessments by the district returning officer of Puttalam put the turnout at 56 percent, speaking to Sri Lanka’s Sirsa TV, which lower than the 61 percent polled in the district in 2010.
+
+In Badulla turnout was estimated at 66 percent in the 2024 election, against 58 percent in 2010.
+
+In Polonnaruwa District Returning Officer Sujantha Ekanayake estimated turnout of 65 percent compared with 61 percent in 2010.
+
+...
+
+[Data](articles/cc2ab687.json)
+
+[Extended Data](ext_articles/cc2ab687.ext.json)
+
+---
+
+### 148,424 voted for 148,424 votes for the presidential election in Galle
 
 *2024-11-14 18:27:38* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-ජනාධිපතිවරණයට-ඡන්දය-දැමූ-148-424--කට-මහ-මැතිවරණයේ-දී--ඡන්දය-එපාවෙලා/11-413040) · `si`
 
-මෙවර මහ මැතිවරණයේදී  ගාල්ල දිස්ත්‍රික්කයේ 903 ,163 ක් වූ  ලියාපදිංචි ඡන්ද දායකයින්ගෙන් 576,937 ක් ඡන්දය පාවිච්චි කර ඇතැයි ගාල්ල දිස්ත්‍රික් තේරීම් බාර නිලධාරි ඩබ්ලිව් .ඒ.ධර්මසිරි මහතා පැවසීය.
+Galle District election summary: 64% turnout, 148,424 votes cast, 326,226 unvoted. Presidential race saw 16% drop from general election vote count.
 
-ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ ඡන්ද ප්‍රකාශ කිරීමේ ප්‍රතිශතය සියයට 64 ක් බවද ඒ මහතා පැවසීය.මෙම සංඛ්‍යාවන් අනුව සලකා බැලීමේදී  මෙවර පාර්ලිමේන්තු මැතිවරණයේදී ගාල්ල දිස්ත්‍රික්කයේ  ලියාපදිංචි ඡන්ද දායකයන්ගෙන් 326,226 ක් සිය ඡන්දය පාවිච්චි කර නැත.
+🟩
 
-ඉකුත් ජනාධිපතිවරණයේදීද  ගාල්ල දිස්ත්‍රික්කයේ ලියාපදිංචි ඡන්ද හිමියන් සංඛ්‍යාව 903,163 ක් වූ අතර එයින් සියයට 80 ක ප්‍රතිශතයක් වූ 725,361 ක් ඡන්දය පාවිච්චි කර තිබිණි.
+573,937 registered voters voted in this year's general election.
 
-ඒ අනුව ජනාධිපතිවරණය පවත්වා මාස දෙකක් ගතවීමට මත්තෙන් පැවැත්වූ පාර්ලිමේන්තු මැතිවරණයේදී ජනාධිපතිවරණයට පාවිච්චි කළ ඡන්ද ප්‍රතිශතය සියයට 16 කින් එනම් ඡන්ද 148,424 කින් අඩුවී තිබේ.
+Accordingly, the voter turnout in the Galle District is 64%, and 326,226 registered voters in the Galle District have not been voted on.
+
+The number of registered voters registered in the presidential election was 903,163, of which 725,361 were elected.
+
+Accordingly, the presidential election took place two months after the election, the vote was fell 16 percent of 148,424 votes.
 
 ◼️
 
 [Data](articles/3a886e74.json)
+
+[Extended Data](ext_articles/3a886e74.ext.json)
 
 ---
 
@@ -332,6 +442,30 @@ He said this while attending a media briefing held today.
 
 ---
 
+### Sri Lanka President Dissanayake says strong parliamentary mandate is enough
+
+*2024-11-14 16:44:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-dissanayake-says-strong-parliamentary-mandate-is-enough-187608/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake said a strong mandate in parliament is sufficient to carry out his program in the next few years.
+
+“The NPP expects a strong mandate for the parliament,” he said after casting his vote in Colombo.
+
+“We are confident that the people will give it to us.  A strong parliament is sufficient for us.
+
+“The laws and bills that we bring will be beneficial for the people. So, no one in the parliament can go against them.
+
+“If we make laws to benefit the people a thirds vote can be obtained. Always a two thirds majority (of members) is expected to pass laws against the people.
+
+“Other political movements have used the two thirds majority to formulate laws against the people. Two thirds is required for that type of political camp.”
+
+...
+
+[Data](articles/52d272c9.json)
+
+[Extended Data](ext_articles/52d272c9.ext.json)
+
+---
+
 ### Parliamentary Election 2024: Voting proceedings are completed!
 
 *2024-11-14 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198706) · `ta`
@@ -373,6 +507,30 @@ The voting for the country's 10th parliamentary voting commenced today (14) at 7
 [Data](articles/eac3202d.json)
 
 [Extended Data](ext_articles/eac3202d.ext.json)
+
+---
+
+### Sri Lanka parliamentary elections close peacefully
+
+*2024-11-14 16:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-elections-close-peacefully-187600/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliamentary polls closed at 400 pm on November 14, without major violent incidents being reported, officials and poll monitors said.
+
+Over 17.1 million voters were eligible to cast their votes to elect a 225-member parliament.
+
+Sri Lanka President Dissanayake says strong parliamentary mandate is enough
+
+Some district officials said they hoped to start counting postal votes by 4.30 pm.
+
+Counting of votes cast today is expected to begin around 8.30 pm.
+
+Counting of the ballot boxes from polling stations may begin around 830 pm, district returning officers said. (Colombo/Nov14/2024)
+
+◼️
+
+[Data](articles/93aa3075.json)
+
+[Extended Data](ext_articles/93aa3075.ext.json)
 
 ---
 
@@ -425,6 +583,32 @@ At 5:30 am, the visionary vision on the Amritsar and Pathankot runway in Punjab 
 [Data](articles/b35535ed.json)
 
 [Extended Data](ext_articles/b35535ed.ext.json)
+
+---
+
+### Sri Lanka elections 2024 live updates
+
+*2024-11-14 15:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-elections-2024-live-updates-187560/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s elections where president Anura Dissanayake said he expected a strong mandate is concluded on November 14 in peaceful environment, officials said.
+
+“The peaceful election so far is a victory for the people,” President Dissanayake told reporters soon after voting in the morning.
+
+“We should celebrate our victor peacefully without harming supporters of other parties.”
+
+Some district returning officers have reported low turnouts of around 56 to 66 percent.
+
+Dissanayake won the Presidency in the latest stabilization crisis of the island, after inflationary rate cuts to boost growth, triggered yet another currency crisis which ended in sovereign default.
+
+Some district officials said they hoped to start counting postal votes by 4.30 pm. Postal votes results are expected from around 1030 pm.
+
+Counting of the ballot boxes from polling stations may begin around 830 pm, district returning officers said.
+
+◼️
+
+[Data](articles/fd0eb731.json)
+
+[Extended Data](ext_articles/fd0eb731.ext.json)
 
 ---
 
@@ -710,6 +894,42 @@ The election voting will begin at 7 am and end at 4 pm. First, the process of co
 
 ---
 
+### General Election 2024: Live Official Results Hest
+
+*2024-11-14 13:33:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyrgn1kg1po) · `si`
+
+Here's a 200-character summary:
+
+
+
+Sri Lanka's general election results begin updating. 17+ million voters eligible. 8361 candidates in 196 districts. Election held September, less than two months after new president. Country faces challenges like militarization during COVID-19 pandemic.
+
+🟩
+
+* Note that the results of the Elections Commission 2024 General Elections will begin updating.
+
+More than 17 million voters were eligible to vote for the 2024 general election for the next five years.
+
+There are 8361 candidates in 22 electoral districts for 196 electoral districts, while the total number of parties obtained each party or independent groups.
+
+The final parliamentary elections were held in 2020, in the 2020, the militarization of the covard plague was in the country.
+
+This year's general election will be held in September less than two months after a new president.
+
+How was Sri Lanka become a hub of global wildlife racket?
+
+Children in South Korea writing the hardest 8 hours of Asia for university entry
+
+Trenchi: This little island is the modern intelligence center in India?
+
+◼️
+
+[Data](articles/cabfae84.json)
+
+[Extended Data](ext_articles/cabfae84.ext.json)
+
+---
+
 ### Voting with people enthusiastically in Kilinochchi
 
 *2024-11-14 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198666) · `ta`
@@ -874,6 +1094,48 @@ The District Secretariat has announced that a 16% voting registration has been h
 
 ---
 
+### Sri Lanka stocks close up on general election day
+
+*2024-11-14 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-on-general-election-day-187556/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The broader ASPI closed up 0.56 percent, or 73.61 points, at 13,198; while the more liquid S&P SL20 Index closed up 1.23 percent, or 48.60 points, at 3,986.
+
+Turnover was 3.7 billion. Most of this came from interest in banking sector stocks (Rs1.6 billion).
+
+Other sectors that saw high activity were food, beverage and tobacco (Rs874mn), capital goods (Rs418mn), and diversified financials (Rs261mn.)
+
+Top contributors to the ASPI were Sampath Bank (up at 95.50), Commercial Bank (up at 122.50), DFCC Bank (up at 87.80), Nations Trust Bank (up at 150.25), and Browns Investments (up at 6.50). (Colombo/Nov14/2024)
+
+◼️
+
+[Data](articles/57d470ff.json)
+
+[Extended Data](ext_articles/57d470ff.ext.json)
+
+---
+
+### Sri Lanka sees 30-ct voter turnout by 12 noon; Ratnapura, Kegalle exceed: poll monitor
+
+*2024-11-14 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-30-ct-voter-turnout-by-12-noon-ratnapura-kegalle-exceed-poll-monitor-187552/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s voter turnout in the Thursday parliament election was around 30 percent on average by 12 noon with Ratnapura and Kegalle districts were outperforming, an election monitor said.
+
+“On average, the voter turnout is around 30 percent, according to our monitors at district level. It has exceeded 35 percent in both Ratnapura and Kegalle distrcts,” Manjula Gajanayake, Executive Director at Institute for Democratic Reforms and Electoral Studies (IRES).
+
+“There is huge interest in voting in Vanni electoral district while it has been usual in Jaffna. The turnout is low in the Eastern province, but usually most people vote in the afternoon there,” he said.
+
+Election commission officials have asked the people to vote as early as possible due to risks of possible rains and thunder showers throughout the country. (Colombo/November 14/2024)
+
+◼️
+
+[Data](articles/5bc8e28d.json)
+
+[Extended Data](ext_articles/5bc8e28d.ext.json)
+
+---
+
 ### An increase in sales of abortion pill
 
 *2024-11-14 12:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கருக்கலைப்பு-மாத்திரை-விற்பனை-அதிகரிப்பு/50-347113) · `ta`
@@ -1002,6 +1264,30 @@ Israel released a warning to the citizens of the country to avoid returning to A
 
 ---
 
+### Election Commissioner urges Sri Lankans to vote early
+
+*2024-11-14 12:27:00* · [`economynextcom`](https://economynext.com/election-commissioner-urges-sri-lankans-to-vote-early-187543/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Commissioner General of Elections Saman Sri Ratnayake urged voters to show up and vote in the ongoing general election.
+
+“We ask that all eligible voters to go to their polling stations as soon as possible,” Ratnayake told reporters.
+
+Other officials urged citizens to vote while the weather was still favourable, with rains expected later in the day.
+
+Polls will close at 4 pm, after which Ratnayake said, counting will begin at 5 pm.
+
+“I believe we will  be able to announce the first results by 10 pm, and regularly thereafter.”
+
+Sri Lanka is voting to choose 225 members to its legislature.
+
+◼️
+
+[Data](articles/deabd0d6.json)
+
+[Extended Data](ext_articles/deabd0d6.ext.json)
+
+---
+
 ### 17 boys vulnerable in wasp
 
 *2024-11-14 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவிகொட்டில்-17-சிறுவர்கள்-பாதிப்பு/175-347110) · `ta`
@@ -1109,6 +1395,28 @@ The US Embassy in Sri Lanka has announced that the US has received a travel cont
 [Data](articles/9b561786.json)
 
 [Extended Data](ext_articles/9b561786.ext.json)
+
+---
+
+### Sri Lanka’s Blue Diamonds to offer digital certificates for gemstones for USD5
+
+*2024-11-14 11:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-blue-diamonds-to-offer-digital-certificates-for-gemstones-for-usd5-187534/) · `en`
+
+ECONOMYNEXT – Blue Diamonds Jewellery Worldwide Plc (BDJ) said its online marketplace would offer digital certification services at 5 dollars a gem and private keys with every gemstone listed.
+
+“In addition, BDJ is thrilled to announce a strategic partnership with FiorGems.com, first-of-its-kind online marketplace in Sri Lanka and globally to integrate digital certificates and private keys with every gemstone listed,” the company said in a stock exchange filing.
+
+FiorGems.coms connects global gem suppliers directly with end consumers, providing a platform for both purchasing and reselling gemstones.
+
+“In the initial phase, BDJ and FiorGems.coms have partnered with over eight gemologists across Sri Lanka to offer digital certification services at an affordable rate of USD $5 per gem.”
+
+By adopting leading Web3 technology, FiorGems.coms ensures that every gemstone on the platform is supported by a secure, verifiable digital certification process.”
+
+...
+
+[Data](articles/cce1f149.json)
+
+[Extended Data](ext_articles/cce1f149.ext.json)
 
 ---
 
@@ -1259,6 +1567,28 @@ Seven (14) the 17th and a large number of the morning to the election. With fire
 [Data](articles/35383526.json)
 
 [Extended Data](ext_articles/35383526.ext.json)
+
+---
+
+### Sri Lanka records 463 election complaints on day before voting
+
+*2024-11-14 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-records-463-election-complaints-on-day-before-voting-187528/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission had received 463 complaints on Wednesday (13) in the last 24 hours ahead of the Parliamentary Election on Thursday (14).
+
+A majority of the complaints were on election law violations, with only one incident reported of actual violence.
+
+Total complaints received by the commission since the election was declared on September 26 was 3,822.
+
+The number of incidents are considerably less compared to the total 8,683 reported in the previous parliamentary election in August 2022.
+
+Historically, Sri Lanka has seen violent incidents, sometimes even leading to deaths, in the run-up to general elections as not just opposing party candidates, but also inter-party contenders vie for preference votes (manapa poraya). (Colombo/Nov14/2024)
+
+◼️
+
+[Data](articles/8e802f4a.json)
+
+[Extended Data](ext_articles/8e802f4a.ext.json)
 
 ---
 
@@ -1449,6 +1779,30 @@ They were arrested by the police and handed over to the police.
 [Data](articles/1fe94f82.json)
 
 [Extended Data](ext_articles/1fe94f82.ext.json)
+
+---
+
+### Sri Lanka’s Singer Finance to raise Rs1bn through bond issue
+
+*2024-11-14 10:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-singer-finance-to-raise-rs1bn-through-bond-issue-187519/) · `en`
+
+ECONOMYNEXT – Singer Finance Plc will issue 10 million bonds at 100 rupees each to raise 1 billion, the company said.
+
+The tier 2, listed, rated, unsecured, subordinated, redeemable, high yield bonds will have a tenor of five years.
+
+The issue is subject to receiving central bank and other regulatory approvals.
+
+Singer Finance has a National Long-Term Rating of ‘BBB(lka)’; outlook stable, by Fitch Ratings. “SFL’s rating is based on our expectation of support from its parent, consumer-durable retailer, Singer (Sri Lanka) PLC (Singer, A(lka)/Stable),” the rating agency said in March.
+
+Fitch also affirmed SFL’s outstanding senior unsecured debt at ‘BBB(lka)’ and outstanding subordinated unsecured debentures at ‘BB+(lka)’.
+
+Singer Sri Lanka is part of one of Sri Lanka’s largest conglomerates, Hayleys.
+
+◼️
+
+[Data](articles/7f8e4b3c.json)
+
+[Extended Data](ext_articles/7f8e4b3c.ext.json)
 
 ---
 
@@ -1715,6 +2069,28 @@ The incident caused some stir at the polling station this morning and another po
 [Data](articles/016f283c.json)
 
 [Extended Data](ext_articles/016f283c.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 292.15/18 to dollar, bond trades quiet as voting begins
+
+*2024-11-14 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-292-15-18-to-dollar-bond-trades-quiet-as-voting-begins-187512/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 292.15/18 to the US dollar Thursday from 292.20/30 to the US dollar on Wednesday, dealers said, while bond trading was subdued as voting began.
+
+“Market is very quiet due to the election,” dealers said. Of the actively quoted bonds:
+
+A bond maturing on 15.03.2028 was quoted at 11.25/35 percent, up from 11.15/35 percent.
+
+A bond maturing on 01.05.2028 was quoted at 11.35/45 percent.
+
+In equities, Colombo’s All Share Price Index was trading up 0.69 percent, or 90.18 points higher at 13,215.37, while the S&P SL20 of more liquid stocks was up 0.98 percent or 30.73 points higher at 3,976.98.
+
+◼️
+
+[Data](articles/cc89d5a7.json)
+
+[Extended Data](ext_articles/cc89d5a7.ext.json)
 
 ---
 
@@ -2002,340 +2378,26 @@ President Dissanayake, leader was elected on September 21 has called a strong pa
 
 ---
 
-### Sri Lanka holds elections amid unfinished debt restructuring, economic reforms
+### Sri Lanka’s Commercial Bank net up 100-pct, credit expands
 
-*2024-11-14 06:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-goes-for-parliament-polls-amid-unfinished-debt-restructuring-economic-reforms-187408/) · `en`
+*2024-11-14 06:53:00* · [`economynextcom`](https://economynext.com/sri-lankas-commercial-bank-net-up-100-pct-credit-expands-187463/) · `en`
 
-ECONOMYNEXT – Over 17.1 million voters in Sri Lanka are eligible to cast their votes to elect a 225-member parliament in the November 14 polls amid the sovereign defaulted nation’s partially completed debt restructuring and unfinished economic reforms.
+ECONOMYNEXT – Sri Lanka’s Commercial Bank profits of 12.5 billion rupees in the September 2024 quarter, up 100 percent from a year ago, as interest income fell and credit to customers picked up pace, interim accounts show.
 
-President Anura Kumara Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led ruling National People’s Power (NPP) is likely to secure most seats in the polls held 51 days after historic victory of Dissanayake, the first Marxists leader of the island nation.
+While credit to customers increased, investments in debt securities were down from a year ago.
 
-The NPP has shown signs of positioning itself as a reformist force, leveraging populist appeal and a Marxist-leaning platform focused on socio-economic equity and anti-corruption.
+Commercial Bank group reported earnings of 9.11 rupees per share for the quarter, and 22.63 rupees for the nine months on total profits of 31.07 billion rupees, up 118 percent.
 
-The NPP’s policy platform has resonated strongly with voter segments disillusioned by the economic crises and prior administrations, analysts say.
+Net fee and commission income was up 5.6 percent to 5.9 billion rupees.
 
-The election campaign was dominated by debates over the state of economy, corruption, and experience.
+Interest income fell 8 percent 73.7 billion rupees as rates fell, interest expenses fell at a faster 25 percent to 37.4 billion rupees, expanding net interest income 29 percent to 30.5 billion rupees.
 
-...
-
-[Data](articles/634f1739.json)
-
-[Extended Data](ext_articles/634f1739.ext.json)
-
----
-
-### Sri Lanka goes for parliament polls amid unfinished debt restructuring, economic reforms
-
-*2024-11-14 06:00:00* · [`economynextcom`](https://economynext.com/preview-sri-lanka-goes-for-parliament-polls-amid-unfinished-debt-restructuring-economic-reforms-187408/) · `en`
-
-ECONOMYNEXT – Over 17.1 million voters in Sri Lanka are eligible to cast their votes to elect a 225-member parliament in the November 14 polls amid the sovereign defaulted nation’s partially completed debt restructuring and unfinished economic reforms.
-
-President Anura Kumara Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led ruling National People’s Power (NPP) is likely to secure most seats in the polls held 51 days after historic victory of Dissanayake, the first Marxists leader of the island nation.
-
-The NPP has shown signs of positioning itself as a reformist force, leveraging populist appeal and a Marxist-leaning platform focused on socio-economic equity and anti-corruption.
-
-The NPP’s policy platform has resonated strongly with voter segments disillusioned by the economic crises and prior administrations, analysts say.
-
-The election campaign was dominated by debates over the state of economy, corruption, and experience.
+“The challenge for banks operating in periods of low interest rates is to grow their portfolios while managing margins with timely adjustments,” Commercial Bank Chairman Sharhan Muhseen said in a statement.
 
 ...
 
-[Data](articles/f424e991.json)
+[Data](articles/0fa9ade3.json)
 
-[Extended Data](ext_articles/f424e991.ext.json)
-
----
-
-### Cross-Party Youth Dialogue unites young leaders ahead of Parliamentary poll
-
-*2024-11-14 03:00:06* · [`dailyftlk`](https://www.ft.lk/news/Cross-Party-Youth-Dialogue-unites-young-leaders-ahead-of-Parliamentary-poll/56-769255) · `en`
-
-The Coalition for Inclusive Impact (CII) successfully hosted a Cross-Party Youth Dialogue at the Galle Face Hotel, Colombo on 10 November.
-
-It brought together young representatives from across the political spectrum to discuss critical issues shaping Sri Lanka’s future. Through the CII’s non-partisan, independent platform, attendees engaged in open and impactful dialogue on the country’s challenges and opportunities.
-
-The panel included Keshal Jayasinghe (National Democratic Front), Pathum Kerner (United Democratic Voice), Swasthika Arulingam (People’s Socialist Alliance), Lakmali Hemachandra (National People’s Power), Milinda Rajapaksha (Sri Lanka Podujana Peramuna), and Anuradha Wimalarathna (Samagi Jana Balawegaya). Each panellist brought unique perspectives, highlighting their parties’ stances on important national issues.
-
-The dialogue centred around several pressing topics that resonate deeply with Sri Lankan citizens:
-
-...
-
-[Data](articles/ca2ce6f7.json)
-
-[Extended Data](ext_articles/ca2ce6f7.ext.json)
-
----
-
-### IHP says General Election voting intent estimates uncertain due  to substantial response bias
-
-*2024-11-14 02:58:37* · [`dailyftlk`](https://www.ft.lk/news/IHP-says-General-Election-voting-intent-estimates-uncertain-due-to-substantial-response-bias/56-769254) · `en`
-
-SLOTS polling of voter intent conducted by the Institute for Health Policy (IHP) since the Presidential Election through 8 November has suffered from an increased level of response bias.
-
-“This has been due to respondents’ over-reporting support for the NPP. This has resulted in large uncertainty and a significant bias in favour of the NPP in the resulting vote intent estimates,” said IHP in a statement.
-
-“Nonetheless, we are releasing estimates based on these polling data in the interests of transparency. We advise that these estimates are likely to be associated with a large margin of error, and caution should be taken when interpreting them. As with any opinion poll, they should not be regarded as a prediction of the final election result,” it added.
-
-...
-
-[Data](articles/c0733978.json)
-
-[Extended Data](ext_articles/c0733978.ext.json)
-
----
-
-### Sunshine Holdings delivers robust performance in 1H
-
-*2024-11-14 02:56:54* · [`dailyftlk`](https://www.ft.lk/business/Sunshine-Holdings-delivers-robust-performance-in-1H/34-769253) · `en`
-
-Continuing its resilience in robust growth, diversified conglomerate Sunshine Holdings PLC posted consolidated revenue of Rs. 30.1 billion for the six months ending 30 September 2024 (1HFY25), an increase of 6.8% YoY.
-
-Gross profit for the period in review increased by 6.2% YoY to Rs. 9.1 billion, with the gross profit margin holding steady at 30.4%. This margin stability reflects successful margin expansion in the Healthcare sector positively impacted the group’s overall profitability, despite margin contraction in Consumer Brands and Agribusiness sectors. The group reported profit after tax (PAT) for the period of Rs. 2.9 billion, a 19.6% YoY decrease, primarily impacted by the higher taxation in the agribusiness sector.
-
-The Group’s Healthcare business emerged as the largest contributor to Sunshine’s top-line performance, accounting for 53.7% of total revenue. In comparison, Consumer and Agribusiness sectors of the group contributed 32.2% and 14.2% respectively of the total revenue.
-
-...
-
-[Data](articles/8f58854d.json)
-
-[Extended Data](ext_articles/8f58854d.ext.json)
-
----
-
-### BPPL Holdings records stellar 85% growth in QoQ net earnings in Q2 ‘24
-
-*2024-11-14 02:52:13* · [`dailyftlk`](https://www.ft.lk/business/BPPL-Holdings-records-stellar-85-growth-in-QoQ-net-earnings-in-Q2-24/34-769252) · `en`
-
-BPPL Holdings PLC said yesterday it witnessed a significant improvement in its financial performance during the three months ended 30 September 2024, as compared to both the corresponding quarter in FY2023/24 and the three months ended 30 June 2024.
-
-The increase in revenue and gross margins was despite an appreciation in Sri Lankan Rupee rates used to convert US Dollar-denominated sales to Sri Lankan Rupees.
-
-Consolidated revenue for the three months until 30 September 2024 was Rs. 1.6 billion, a growth of 5% in Rupee terms and 11% in US Dollar terms over the same period in the previous year. EBITDA for the period was Rs. 356 million compared to Rs. 233 million in the corresponding period the previous year, a growth of 53%. Net earnings after tax were up 85% to Rs. 184 million, compared to Rs. 99 million in the previous year.
-
-...
-
-[Data](articles/1d410b96.json)
-
-[Extended Data](ext_articles/1d410b96.ext.json)
-
----
-
-### Board of Investment of Sri Lanka provides knowledge and training to professionals joining industry to  build low-carbon, environment-friendly industries
-
-*2024-11-14 02:49:48* · [`dailyftlk`](https://www.ft.lk/business/Board-of-Investment-of-Sri-Lanka-provides-knowledge-and-training-to-professionals-joining-industry-to-build-low-carbon-environment-friendly-industries/34-769251) · `en`
-
-Madhushani Gunawardhana, a first-class graduate of Biosystems and Technology from the University of Sri Jayewardenepura, presents the research paper she compiled during her internship training on “Industrial Boiler Fuel Assessment Guidelines for Sustainable Boiler Operations” to BOI Director General Renuka Weerakoone (right), Director – Environment Department Asanka Welagedara (third from left), and University of Sri Jayewardenepura Faculty of Technology Senior Lecturer Dr. Udayagi Kumarasinghe (left)
-
-...
-
-[Data](articles/fd0c4dd3.json)
-
-[Extended Data](ext_articles/fd0c4dd3.ext.json)
-
----
-
-### DIMO drives agri mechanisation
-
-*2024-11-14 02:48:36* · [`dailyftlk`](https://www.ft.lk/business/DIMO-drives-agri-mechanisation/34-769250) · `en`
-
-Successfully completes phase one of ‘Mahata Wahina Wasi Wassa’ initiative
-
-DIMO, a leading diversified conglomerate in Sri Lanka, launched the ‘Mahata Wahina Wasi Wassa’ initiative to empower farmers by offering free laptops, tabs, electric bicycles, and overseas travel opportunities with each Mahindra tractor purchase.
-
-Farmers who purchase Mahindra tractors between 1 August and 30 November, are eligible for these exclusive gift packages with various choices available. The first package includes an electric bicycle, the second offers a group trip to Malaysia with meals and accommodation, the third combines a laptop and tabs, and the fourth includes two mud wheels and a laptop. Farmers can select their preferred gift package from these options with each Mahindra tractor purchase. The company successfully completed the first phase of this transformative project recently.
-
-...
-
-[Data](articles/9b82f248.json)
-
-[Extended Data](ext_articles/9b82f248.ext.json)
-
----
-
-### Go home after voting
-
-*2024-11-14 01:47:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களித்தன்-பின்னர்-வீடுகளுக்கு-செல்லுங்கள்/175-347083) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Elections: 1342 voting centers secure. Police, military ensure law & order. Voters return home after casting ballots. Strict measures for security, transport rules, and legal actions against violators.
-
-🟩
-
-The safety of 1,3421 voting centers has been confirmed across the country. Elections should be responsible for the law and the general law. Armed forces, including the police, are involved in security duties to protect law and order.
-
-Vote then go to homes, and one of the public places can be impact on law and order.. The Ministry of Public Security has advised the people that strict measures will be taken to hold elections and protect law and order.
-
-Police Media Spokesperson and Attorney Nihal Talduwa said that the police spokesman responded to election work and security issues.
-
-It is illegal to provide transport facilities for a candidate to go to voting center for voters. People with special needs.If the elderly are provided with transport facilities, the District Elections Office should get permission for the office.
-
-...
-
-[Data](articles/fd7c1c12.json)
-
-[Extended Data](ext_articles/fd7c1c12.ext.json)
-
----
-
-### Put the point only
-
-*2024-11-14 01:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளடியை-மட்டும்-இடவும்/175-347082) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-RMAL Ratnayake: Use point system in general election, not numbers. Call for valid votes following proper method.
-
-🟩
-
-RMAL Ratnayake, Chairman of the Elections Commission, said that when voting in the general election on Thursday (14), only the point was used.
-
-The number or statistics were used as 1,2 and 3 when voting in the presidential election.
-
-However, the point should be used only when voting and voting in the general election.
-
-Therefore, the Chairman of the Elections Commission RMAL has called for voters to be transformed into a valid vote that follows the appropriate method.. Ratnayake said.
-
-◼️
-
-[Data](articles/25052a5f.json)
-
-[Extended Data](ext_articles/25052a5f.ext.json)
-
----
-
-### Five liquor companies to face licence suspension over unpaid taxes
-
-*2024-11-14 01:45:07* · [`dailyftlk`](https://www.ft.lk/news/Five-liquor-companies-to-face-licence-suspension-over-unpaid-taxes/56-769231) · `en`
-
-The Attorney General has informed the Supreme Court that five liquor manufacturing companies, including the leading W. M. Mendis & Co., risk having their licences suspended if they fail to settle outstanding tax arrears by 30 November.
-
-The announcement was made yesterday during a hearing before a Supreme Court bench comprising Justices Prithi Padman Surasena, Yasanta Kodagoda, and Priyantha Fernando.
-
-Additional Solicitor General Nerin Pulle, representing the Commissioner General of Excise, stated that the Excise Department has issued final notices to the five companies to clear their arrears by the end of the month. If the payments are not made, the department has decided to proceed with suspending the companies’ licences.
-
-...
-
-[Data](articles/2511effc.json)
-
-[Extended Data](ext_articles/2511effc.ext.json)
-
----
-
-### Two defendants acquitted from murder case after 27 years
-
-*2024-11-14 01:44:36* · [`dailyftlk`](https://www.ft.lk/news/Two-defendants-acquitted-from-murder-case-after-27-years/56-769230) · `en`
-
-The North Central Province Predecessor High Court Judge and incumbent Kuliyapitiya High Court Judge Manoj Thalgodapitiya has ordered the acquittal of two defendants indicted before the Anuradhapura High Court for a murder that took place in Rajanganaya 27 years ago.
-
-The defendants, identified as Dadigamage Premasiri alias “Ukkuwa” and K. Wasantha Kumar alias “K. Wasantha,” both residents of Rajanganaya, were acquitted due to insufficient evidence presented by the prosecution.
-
-The High Court Judge ruled that the prosecution had failed to prove the allegations against the defendants beyond a reasonable doubt.
-
-The case, which dates back to 29 October 1997, was initially brought to the Anuradhapura High Court under Section 296 of the Sri Lanka Penal Code Ordinance by the Attorney General, accusing the two defendants of committing the offence within the Anuradhapura HC’s jurisdiction.
-
-◼️
-
-[Data](articles/a84c014b.json)
-
-[Extended Data](ext_articles/a84c014b.ext.json)
-
----
-
-### Sierra Leone national arrested with Rs. 13 m worth cocaine at BIA
-
-*2024-11-14 01:44:05* · [`dailyftlk`](https://www.ft.lk/news/Sierra-Leone-national-arrested-with-Rs-13-m-worth-cocaine-at-BIA/56-769229) · `en`
-
-In a major drug trafficking bust, officers attached to the Narcotics Control Unit at the Bandaranaike International Airport yesterday arrested a 32-year old Sierra Leone national on suspension of smuggling, who had 17 capsules of swallowed  cocaine valued at Rs. 13 million.
-
-The passenger who arrived via Istanbul on Turkish Airline flight TK 730 was apprehended after attempting to pass through the airport’s green channel.
-
-Sri Lanka Customs Spokesman Seewali Arukgoda said suspicious of the individual’s behaviour the officers conducted a body scan in the Customs area, revealing that the suspect has concealed narcotics within his body. The individual was immediately transferred to Negombo Hospital, where medical personnel have since retrieved 17 pellets of cocaine.
-
-The suspect has reportedly confessed that additional pellets remain in his stomach.
-
-...
-
-[Data](articles/4c7be050.json)
-
-[Extended Data](ext_articles/4c7be050.ext.json)
-
----
-
-### Voting for the 10th Parliament today
-
-*2024-11-14 01:41:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றத்துக்காக-இன்று-வாக்களிப்பு/175-347081) · `ta`
-
-Sri Lanka's 10th Parliament elections: 8,352 candidates for 196 seats, voting on Aug 14, 7am-4pm at 13,421 polling stations. Election commission warns against late voting and threatens legal action against violators.
-
-🟩
-
-Elections for the 10th Parliament of Sri Lanka will be held on Thursday 14th.
-
-Out of the 225 seats in Parliament, 8,352 candidates have been fielded for 196 parliamentary seats.
-
-Voting will be held from 7 am to 4 pm on the 14th of the 13,421 polling stations to be set up in 160 constituencies in 22 electoral districts across the country.Thereafter, the process of counting postal voting will begin. At the end, the voting process begins.
-
-The process of accepting the nominations for the parliamentary election was held from October 4 to 11. During this period, 764 groups filed nominations on behalf of political parties and independent groups in 22 electoral districts and 74 of them were rejected for various reasons.. Accordingly, 690 groups qualified to contest the election field. There are 8352 candidates nationwide on behalf of these groups.
-
-...
-
-[Data](articles/59c01515.json)
-
-[Extended Data](ext_articles/59c01515.ext.json)
-
----
-
-### Digitally of government services
-
-*2024-11-14 01:36:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசாங்க-சேவைகளை-டிஜிட்டல்-மயமாகும்/175-347080) · `ta`
-
-Sri Lankan government digitizes certificate distribution for citizens abroad through embassies in Kuwait, Japan, Qatar, Melbourne, Toronto, Milan, Dubai. Certificates issued from Divisional Secretariats to improve E-BMD data structure.
-
-🟩
-
-Steps have been taken to distribute copies of birth, marriage and death certificates for Sri Lankans abroad.
-
-The pioneering program is being carried out through Kuwait, Japan, Qatar, Melbourne, Canada Toronto, Italy's Milan, Dubai and Consul General Offices.
-
-The government is planning to provide copies of birth, marriage and death certificates from the Sri Lankan embassies abroad for the convenience of Sri Lankans abroad.
-
-This program will be implemented as a pioneering program through the selected 07 foreign embassies and Consul General Offices.
-
-Accordingly, Kuwait, Japan and Qatar are expected to implement this pioneer program through Melbourne of Australia, Toronto, Canada, Italy's Milan and Dubai embassies.
-
-...
-
-[Data](articles/2ef13f3d.json)
-
-[Extended Data](ext_articles/2ef13f3d.ext.json)
-
----
-
-### Trouble for luxury vehicle owner in Kandy
-
-*2024-11-14 01:34:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்டியில்-சொகுசு-வாகன-உரிமையாளருக்கு-சிக்கல்/175-347079) · `ta`
-
-Luxury car dealer banned in Kandy for illegal vehicles. Magistrate orders owner to report to police. Two high-value cars seized. Owner restricted from traveling abroad.
-
-🟩
-
-Kandy Magistrate Vasana Nawaratne on Tuesday (12) issued a ban on the owner of a car sales station in Kandy, which is allegedly illegally holding two vehicles worth several crores of rupees.
-
-The magistrate, who accepted the request made by the Kandy Pradeshiya Criminal Investigation Division, has repeatedly ordered the suspect to lodge a complaint with the police on illegal vehicles.
-
-Don Isuru Pradeep Satadissa, who is supposed to be the owner of a car stall station in Kandy, has been banned against him from going abroad.
-
-Commander of the Kandy Pradeshiya Criminal Investigation Division (CID), Chief Inspector of the Kandy Pradeshiya Criminal Investigation Division, Tilak Samaranayake, conducted an investigation into the information received by two suspicious vehicles parked in the carriage of a house on a house on Kandy.. .MW. It is reported that a modern racing car and a Mitsubishi jeep were found.
-
-...
-
-[Data](articles/a5cf16a1.json)
-
-[Extended Data](ext_articles/a5cf16a1.ext.json)
+[Extended Data](ext_articles/0fa9ade3.ext.json)
 
 ---

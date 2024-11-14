@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 16:00:40**
+As of **2024-11-14 16:14:28**
 
 ## Newspaper Stats
 
-*Scraped **54,733** Articles*
+*Scraped **54,734** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailymirrorlk | 4,733
 adalk | 5,131
 adaderanalk | 6,532
 tamilmirrorlk | 7,680
-virakesarilk | 8,894
+virakesarilk | 8,895
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,732 (100.0%) of 54,733 articles have been extended.
+54,733 (100.0%) of 54,734 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### டெல்லியில் இரண்டாவது நாளாகவும் காற்றின் தரம் குறைவு
+
+*2024-11-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198697) · `ta`
+
+இந்திய தலைநகர் டெல்லியின் காற்றின் தரம் குறைவு கடந்த 24 மணி நேரத்தில் கடுமையான அளவில் அதிகரித்துள்ளது.
+
+இந்நிலையில், டெல்லியில் கடந்த சில நாட்களாக காற்று மாசு அதிகரித்து வருகிறது. இந்திய மத்திய மாசுக்கட்டுப்பாட்டு வாரியத்தின் தரவுகளின்படி, கடந்த 24 மணி நேரத்தில் டெல்லியில் காற்று தரக் குறியீடு (AQI) 432 ஆக பதிவாகியுள்ளது. இது "கடுமையான" வகையின் கீழ் வருகிறது.
+
+காற்றின் தரம் 'மிகவும் மோசமான' பிரிவில் இருந்ததால், பல்வேறு பகுதியில் இரண்டாவது நாளாக இன்றும் காலையில் அடர்ந்த மூடுபனி நிலவியது. இதனால் மக்கள் கடுமையாக அவதியடைந்து வருகின்றனர்.
+
+இதற்கிடையே, டெல்லி இந்திரா காந்தி சர்வதேச விமான நிலையத்தில் விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்ததால், ஒரு சில விமானங்கள் தரையிறங்காமல் திருப்பி விடப்பட்டன.
+
+காலை 5:30 மணியளவில், பஞ்சாபில் உள்ள அமிர்தசரஸ் மற்றும் பதான்கோட் விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்தது. காலை 7 மணியளவில், உத்தரபிரதேசத்தின் கோரக்பூர் விமான நிலையத்தில் தெரிவுநிலை பூஜ்ஜியமாகக் குறைந்துள்ளது.
+
+◼️
+
+[Data](articles/b35535ed.json)
+
+---
 
 ### Voting rate so far
 
@@ -49,6 +69,34 @@ Here's a summary of the voting rate in 200 characters:
 [Data](articles/57e8842e.json)
 
 [Extended Data](ext_articles/57e8842e.ext.json)
+
+---
+
+### President for reforms: Parliamentary election in Sri Lanka today
+
+*2024-11-14 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/198634) · `ta`
+
+Sri Lanka holds parliamentary election today, key test for President Anuragumara Dissanayake's reform agenda amid economic crisis and public discontent with traditional parties.
+
+🟩
+
+The parliamentary election, which is considered to be the most important of Sri Lanka's new President, is interested in left -wing policies, is being held in Sri Lanka today (14).
+
+In the midst of a wave of dissatisfaction with traditional political parties, Anuragumara Dissanayake, who focuses on anti -corruption policy, took over the presidential election in September.
+
+Dissanayake's National People's Power Alliance has only three seats in the dissolved parliament of 225 MPs.
+
+This was a hindrance to the Anurakumara Dissanayake, which is a change in the system of enhancing the quality of life of the working class of Sri Lanka - to end corruption.
+
+As a result, he became the president to dissolve the parliament to increase the parliamentary representation of the National People's Power.. He called for the election in advance.
+
+Researchers say that the election will be available in the presidential election seven weeks ago in the presidential election.
+
+...
+
+[Data](articles/d8dd0e73.json)
+
+[Extended Data](ext_articles/d8dd0e73.ext.json)
 
 ---
 
@@ -286,17 +334,27 @@ Kandy 30%, Nuwara Eliya 40%Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%
 
 ---
 
-### නොවැම්බර් මුල් දින 10ට සංචාරකයන් 61767ක් ඇවිත්
+### 61767 tourists arrived at first 10 days
 
 *2024-11-14 13:25:37* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-මුල්-දින-10ට-සංචාරකයන්-61767ක්-ඇවිත්/11-413037) · `si`
 
-නොවැම්බර් මාසයේ මුල් දින 10 තුළ ශ්‍රි ලංකාවට සංචාරකයන් 61 767ක් පැමිණ තිබේ. ඒ අනුව නොවැම්බරයේ මුල් දින 10 තුළ දිනක සාමාන්‍ය සංචාරක පැමිණීම 6100 ඉක්මවා තිබේ.
+Here's a summary of 200 characters:
 
-එසේම නොවැම්බර් 10 දක්වා ශ්‍රී ලංකාවට පැමිණ ඇති සමස්ත සංචාරකයන් ප්‍රමාණය 1 682 482කි.
+
+
+Sri Lanka welcomed 61,767 tourists in November's first 10 days, averaging over 6,100 daily arrivals. Total tourist count since November 10: 1,682,482.
+
+🟩
+
+Tourist arrivals arrived in Sri Lanka 61 767 tourists in the first 10 days of November. Accordingly, average tourist arrivals over the first 10 days of November have exceeded 6100.
+
+The total number of tourists visiting Sri Lanka from November 10 is 1 682 482.
 
 ◼️
 
 [Data](articles/14c4566f.json)
+
+[Extended Data](ext_articles/14c4566f.ext.json)
 
 ---
 
@@ -1049,34 +1107,6 @@ The incident caused some stir at the polling station this morning and another po
 [Data](articles/030ac462.json)
 
 [Extended Data](ext_articles/030ac462.ext.json)
-
----
-
-### President for reforms: Parliamentary election in Sri Lanka today
-
-*2024-11-14 09:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/198634) · `ta`
-
-Sri Lanka holds parliamentary election today, key test for President Anuragumara Dissanayake's reform agenda amid economic crisis and public discontent with traditional parties.
-
-🟩
-
-The parliamentary election, which is considered to be the most important of Sri Lanka's new President, is interested in left -wing policies, is being held in Sri Lanka today (14).
-
-In the midst of a wave of dissatisfaction with traditional political parties, Anuragumara Dissanayake, who focuses on anti -corruption policy, took over the presidential election in September.
-
-Dissanayake's National People's Power Alliance has only three seats in the dissolved parliament of 225 MPs.
-
-This was a hindrance to the Anurakumara Dissanayake, which is a change in the system of enhancing the quality of life of the working class of Sri Lanka - to end corruption.
-
-As a result, he became the president to dissolve the parliament to increase the parliamentary representation of the National People's Power.. He called for the election in advance.
-
-Researchers say that the election will be available in the presidential election seven weeks ago in the presidential election.
-
-...
-
-[Data](articles/d8dd0e73.json)
-
-[Extended Data](ext_articles/d8dd0e73.ext.json)
 
 ---
 
@@ -2295,31 +2325,5 @@ The project is being implemented by the National Building Research Institute, th
 [Data](articles/b69c9fc8.json)
 
 [Extended Data](ext_articles/b69c9fc8.ext.json)
-
----
-
-### Korea assist in the development of Sri Lanka's agricultural sector
-
-*2024-11-13 19:56:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-விவசாயத்-துறை-வளர்ச்சிக்கு-கொரியா-உதவி/175-347072) · `ta`
-
-Korean SMEs aid Sri Lanka's agri & fisheries sectors. Training & jobs offered. Meeting at Presidential Office discussed cooperation.
-
-🟩
-
-The Korean Small Entrepreneurship Association has come forward to assist Sri Lanka for agriculture and its related employment.
-
-The Association has also agreed to provide technical assistance and training for the fishing industry.
-
-These issues were revealed in a discussion held at the Presidential Office today (13) between the Korean Small Business Association representatives and the President's Office officials.
-
-In this case, Sri Lankan workers for fishing in Korea also focused on providing training and employment opportunities in Sri Lanka.
-
-Kim Chung Ryong and many others were present at the meeting.
-
-◼️
-
-[Data](articles/e74e447e.json)
-
-[Extended Data](ext_articles/e74e447e.ext.json)
 
 ---

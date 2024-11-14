@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 04:43:53**
+As of **2024-11-15 05:10:50**
 
 ## Newspaper Stats
 
-*Scraped **54,911** Articles*
+*Scraped **54,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,278
 economynextcom | 3,340
-dailyftlk | 3,759
+dailyftlk | 3,765
 dailymirrorlk | 4,733
-adalk | 5,142
-adaderanalk | 6,590
+adalk | 5,143
+adaderanalk | 6,593
 tamilmirrorlk | 7,746
 virakesarilk | 8,913
 adaderanasinhalalk | 9,505
@@ -26,11 +26,137 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,898 (100.0%) of 54,911 articles have been extended.
+54,911 (100.0%) of 54,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Lankan envoy participates in Tripitaka Chanting and Asela Buddhist Festival 2024 in Indonesia
+
+*2024-11-15 04:52:21* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-participates-in-Tripitaka-Chanting-and-Asela-Buddhist-Festival-2024-in-Indonesia/56-769279) · `en`
+
+Ambassador of Sri Lanka to Indonesia and ASEAN, Admiral (Prof.) Jayanath Colombage, attended the Indonesian Tripitaka Chanting and Asela Mahapuja – 2024, held at the famous World Heritage site of Borobudur Temple in Central Java from 12 to 14 July, as a special guest. The recitation was conducted by Buddhist monks from Indonesia, India, Cambodia, and Sri Lanka, with the purpose of invoking blessings for people around the world. Three Sri Lankan Buddhist monks who are visiting Indonesia as part of the Temple-to-Temple Diplomacy program also participated in this Tripitaka Chanting at Borobudur.
+
+The event, attended by 5,000 participants including Buddhist monks, Novice monks, female Atthasilanis and devotees, was organised by Sangha Theravada Indonesia together with Wanitha Theravada Indonesia (WANDANI), Majelis Agama Buddha Indonesia (MAGABUDHI), Pemuda Theravada Indonesia (PATRIA), and Atthasilani Theravada Indonesia (ASTINDA).
+
+...
+
+[Data](articles/ecd361a0.json)
+
+---
+
+### NPP wins in Borella, Colombo-West, Colombo - East and Horana
+
+*2024-11-15 04:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103468/npp-wins-in-borella-colombo-west-colombo-east-and-horana) · `en`
+
+The National People’s Power (NPP) has secured victories in the Colombo-West and Borella polling divisions in Colombo District and Horana polling division in Kalutara District.
+
+◼️
+
+[Data](articles/431395fb.json)
+
+---
+
+### Lankan envoy in Myanmar meets with Chief Minister and Mayor of Yangon
+
+*2024-11-15 04:46:16* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Myanmar-meets-with-Chief-Minister-and-Mayor-of-Yangon/56-769277) · `en`
+
+Ambassador of Sri Lanka to Myanmar Prabashini Ponnamperuma held meetings with the Yangon Region Chief Minister U Soe Thein and Yangon City Development Committee (YCDC) Chairman and Mayor U Bo Htay on 30 October 2024 in Yangon, Myanmar.
+
+Discussions were centred mainly on enhancing cooperation between the two countries in trade, economic and investment sectors. Accordingly, the requirement for expansion of existing long-standing and cordial relations between the two countries towards collaboration in investment and trade sectors was highlighted, while reminiscing about the 75th anniversary of the establishment of diplomatic relations between Sri Lanka and Myanmar.
+
+...
+
+[Data](articles/eb97c3ef.json)
+
+---
+
+### Matara District final result: NPP wins 6 seats, SJB secures one
+
+*2024-11-15 04:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103467/matara-district-final-result-npp-wins-6-seats-sjb-secures-one) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Matara District in the 2024 General Election with the National People’s Power (NPP) polling more than 69% of the total votes in the district.
+
+NPP has polled 317,541 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 74,475 votes (16.38%).
+
+Accordingly, the NPP has secured 6 seats in the district while the SJB have won one seat in the district.
+
+◼️
+
+[Data](articles/8c5790c1.json)
+
+---
+
+### Sri Lanka participates in 55th Annual Bazaar of Women’s International Club in Jakarta
+
+*2024-11-15 04:44:56* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-participates-in-55thAnnual-Bazaar-of-Women-s-International-Club-in-Jakarta/56-769276) · `en`
+
+The Embassy of Sri Lanka participated in the 55th Annual Charity Bazaar organised by the Women’s International Club in Jakarta. Held at the Jakarta Convention Centre on 13 and 14 November, the primary purpose of the bazaar was to support several selected orphanages and elderly care centres across Indonesia, in addition to providing scholarships to children to continue their education without obstacles.
+
+The Sri Lankan stall attracted numerous visitors with its exotic display of Ceylon tea, cinnamon, as well as apparel inspired by distinctive Sri Lankan cultural features such as decorated elephants, moonstone and punkalasa. A total of 42 embassies based in Indonesia, along with various business vendors operated stalls at the event.
+
+...
+
+[Data](articles/c244e6bc.json)
+
+---
+
+### ITAK wins Kilinochchi; NPP claims Beruwala, Manipay and Wellawaya
+
+*2024-11-15 04:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103466/itak-wins-kilinochchi-npp-claims-beruwala-manipay-and-wellawaya) · `en`
+
+The Ilankai Tamil Arasu Kachchi (ITAK) has secured a victory in the Kilinochchi polling division in Jaffna District while National People’s Power (NPP) has won in the Wellawaya polling division in Monaragala District, Beruwala polling division in Kalutara District and Manipay polling division in Jaffna District.
+
+◼️
+
+[Data](articles/ea4367c3.json)
+
+---
+
+### Ambassador of Sri Lanka presents Credentials to Prince Albert II of Monaco
+
+*2024-11-15 04:38:03* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-Sri-Lanka-presents-Credentials-to-Prince-Albert-II-of-Monaco/56-769275) · `en`
+
+The Ambassador of Sri Lanka Manisha Gunasekera presented her Letters of Credence to Prince Albert II of the Principality of Monaco at the Salon des Glaces, Prince’s Palace in Monaco on 17 Thursday October 2024. The formal Presentation of Credentials was followed by a meeting with Prince Albert II in which the Ambassador conveyed the warm greetings and best wishes of the President of Sri Lanka Anura Kumara Dissanayake, to the Prince of Monaco. Reciprocating the sentiments, Prince Albert II conveyed his warm greetings to President Dissanayake, as well as his felicitations on the latter’s recent election as President with a decisive mandate from the people of Sri Lanka. The meeting entailed discussion on areas of shared interest between Sri Lanka (an Indian Ocean island country) and Monaco, with a focus on cooperation in multilateral fora, i.e., ocean conservation, environmental protection and sustainable development.
+
+...
+
+[Data](articles/775ee1fd.json)
+
+---
+
+### Sri Lanka showcases innovation and technology at Thailand Smart City Expo 2024
+
+*2024-11-15 04:36:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-showcases-innovation-and-technology-at-Thailand-Smart-City-Expo-2024/34-769274) · `en`
+
+The Embassy and Permanent Mission of Sri Lanka in Thailand, in collaboration with the Sri Lanka Export Development Board (EDB), organised Sri Lanka’s participation at the Thailand Smart City Expo 2024, held from 6-8 November in Bangkok.
+
+This event, hosted by Thailand’s Digital Economy Promotion Agency (DEPA) in association with N.C.C. Management and Development Co. Ltd., serves as Southeast Asia’s largest exhibition dedicated to smart city innovations and emerging technologies.
+
+The Thailand Smart City Expo 2024 brings together international stakeholders, innovators, and industry leaders focused on advancing smart city solutions across critical areas such as smart telecommunications, energy, living, industry and retail, mobility, environment, and healthcare.
+
+...
+
+[Data](articles/dd799af5.json)
+
+---
+
+### Madulkelle Tea and Eco Lodge to export home grown agro products
+
+*2024-11-15 04:35:29* · [`dailyftlk`](https://www.ft.lk/business/Madulkelle-Tea-and-Eco-Lodge-to-export-home-grown-agro-products/34-769273) · `en`
+
+For the first time in the leisure industry, a trendsetter in the Sri Lankan hospitality sector, Madulkelle Tea and Eco Lodge, Kandy Chairman Philippe Gomez would be engaging in Agro-based exports from products from their hotel.
+
+The mentor behind the project, Gomez, a French national, said that they have already planted 4,500 vanilla trees, 4,000 coffee plants and 1,000 pepper plants.
+
+“We have allocated more than half of the land from the hotel property and hope to expand this plantation by nearly six more acres as an export-based initiative. We started this project some time ago and are ready to start exports targeting the European market in a more organised manner from early next year. In a bid to support the community we also have an out-grower system and soon their products would reach the export market as well.”
+
+...
+
+[Data](articles/77cb278a.json)
+
+---
 
 ### Huawei launches 5G-AA solutions for mobile AI era
 
@@ -44,15 +170,27 @@ At the Global Mobile Broadband Forum 2024 (MBBF 2024), Huawei Vice President and
 
 [Data](articles/ebb6945c.json)
 
+[Extended Data](ext_articles/ebb6945c.ext.json)
+
 ---
 
-### குருநாகல் மாவட்டத்தின் தபால் மூல வாக்களிப்பு
+### Postal vote of the Kurunegala District
 
 *2024-11-15 04:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-மாவட்டத்தின்-தபால்-மூல-வாக்களிப்பு/175-347199) · `ta`
+
+Here's a summary of the postal vote of the Kurunegala District in approximately 200 characters:
+
+
+
+"Kurunegala District postal vote results: [X] votes cast, [Y] valid, [Z] rejected. Turnout rate: [A]%. Main issues: [B]. Analysis: [C]."
+
+🟩
 
 ◼️
 
 [Data](articles/5618011c.json)
+
+[Extended Data](ext_articles/5618011c.ext.json)
 
 ---
 
@@ -68,6 +206,8 @@ Bizz Expo is a trade show and exhibition where businesses, start-ups, entreprene
 
 [Data](articles/3fa2e23d.json)
 
+[Extended Data](ext_articles/3fa2e23d.ext.json)
+
 ---
 
 ### National Chamber of Commerce holds insightful workshop on implementing Kaizen
@@ -82,6 +222,8 @@ The workshop was led by esteemed expert on Japanese productivity techniques and 
 
 [Data](articles/1aaa9f11.json)
 
+[Extended Data](ext_articles/1aaa9f11.ext.json)
+
 ---
 
 ### Jaffna International Trade Fair 2025
@@ -91,6 +233,8 @@ The workshop was led by esteemed expert on Japanese productivity techniques and 
 ...
 
 [Data](articles/a9c3aa0d.json)
+
+[Extended Data](ext_articles/a9c3aa0d.ext.json)
 
 ---
 
@@ -104,19 +248,27 @@ The National People’s Power (NPP) has secured victories in the Niwithigala pol
 
 [Data](articles/be67eb5a.json)
 
+[Extended Data](ext_articles/be67eb5a.ext.json)
+
 ---
 
-### மைத்திரியின் மகன் தோற்றார்
+### Maithri's son lost
 
 *2024-11-15 04:26:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-மகன்-தோற்றார்/175-347198) · `ta`
 
-பொலன்னறுவை மாவட்டத்தில் தேசிய மக்கள் சக்தி (NPP)  மொத்த வாக்குகளில் 68.67% பெற்று நான்கு ஆசனங்களைப் பெற்றுள்ளது.   சமகி ஜன பலவேகய (SJB) ஒரு ஆசனத்தை வெற்றுள்ளது.
+National People's Power wins 4 seats in Polonnaruwa with 68.67% vote share. Samagi Jana Balavegaya secures one seat. Daham Sirisena, son of former President Maithripala Sirisena, fails to secure a seat under Sarvajana Multiple Party.
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் புதல்வரான தஹாம் சிறிசேன, சர்வஜன பலய கட்சியின் கீழ் போட்டியிட்ட போதிலும் அவருக்கு ஆசனம் கிடைக்கவில்லை.
+🟩
+
+The National People's Power (NPP) has won four seats with 68.67% of the total votes in the Polonnaruwa district.   சமகி ஜன பலவேகய (SJB) ஒரு ஆசனத்தை வெற்றுள்ளது.
+
+Daham Sirisena, the son of former President Maithripala Sirisena, contested under the Sarvajana Multiple Party, but he did not get a seat.
 
 ◼️
 
 [Data](articles/6702e394.json)
+
+[Extended Data](ext_articles/6702e394.ext.json)
 
 ---
 
@@ -133,6 +285,8 @@ Wageningen University & Research, recognised as the world’s leading sustainabl
 ...
 
 [Data](articles/897b90ab.json)
+
+[Extended Data](ext_articles/897b90ab.ext.json)
 
 ---
 
@@ -152,6 +306,8 @@ The incoming President has promised to carry out the country’s largest-ever de
 
 [Data](articles/86184150.json)
 
+[Extended Data](ext_articles/86184150.ext.json)
+
 ---
 
 ### NPP wins in Hewaheta, Bulathsinhala, Matugama and Horowpothana
@@ -163,6 +319,8 @@ National People’s Power (NPP) has secured victories in the Hewaheta polling di
 ◼️
 
 [Data](articles/e2a343fa.json)
+
+[Extended Data](ext_articles/e2a343fa.ext.json)
 
 ---
 
@@ -199,6 +357,18 @@ Here's a summary of the Kandy District Kundasalai Election constituency Voting R
 [Data](articles/b10e30a1.json)
 
 [Extended Data](ext_articles/b10e30a1.ext.json)
+
+---
+
+### මෛත්‍රීගේ පුතා පරාදයි
+
+*2024-11-15 04:14:55* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගේ-පුතා-පරාදයි/11-413049) · `si`
+
+මෙවර මහ මැතිවරණය සඳහා සර්ව  ජන බලය පක්ෂය නියෝජනය කරමින් තරග කළ හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාගේ පුත් දහම් සිරිසේන මහතා පරාජයට පත්ව තිබේ. ඒ පොලොන්නරුවෙන් එම පක්ෂයට එකඳු ආසනයක් හෝ හිමි නොවීම හේතුවෙනි.
+
+◼️
+
+[Data](articles/4a63ec9e.json)
 
 ---
 
@@ -250,15 +420,25 @@ The postal vote results of Kurunegala District in the 2024 General Election have
 
 ---
 
-### පොලොන්නරුවෙන් මාලිමාවට ආසන 5ක්, සජබට ආසනයක්
+### Polonnaruwa for 5 seats and a seat
 
 *2024-11-15 04:08:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-මාලිමාවට-ආසන-5ක්--සජබට-ආසනයක්/11-413048) · `si`
 
-මෙවර මහ මැතිවරණයේ පොලොන්නරුව දිස්ත්‍රික්කයේ ප්‍රථිඵලය නිකුත් විය. එහිදී ජාතික ජනලවේගය මන්ත්‍රී ආසන 5ක් හිමිකර ගැනීමට සමත්වන අතර සමගි ජන බලවේගය එක් මන්ත්‍රී ආසනයක් හිමිකර ගැනීමට සමත්ව තිබේ.
+Here's a summary of 200 characters:
+
+
+
+"Polonnaruwa district election results: National Tamil Party wins 5 seats, other party secures 1 seat."
+
+🟩
+
+Results of the Polonnaruwa District released on this year's general election. The National Tamil Province has won five seats and has won one seat one seat.
 
 ◼️
 
 [Data](articles/02bc1d29.json)
+
+[Extended Data](ext_articles/02bc1d29.ext.json)
 
 ---
 
@@ -464,15 +644,25 @@ Results of the Hambantota district released on this year's general election. How
 
 ---
 
-### මනූෂ හා රමේෂ් පරාදයි
+### Manusha and Ramesh defeated
 
 *2024-11-15 03:48:10* · [`adalk`](https://www.ada.lk/breaking_news/මනූෂ-හා-රමේෂ්-පරාදයි/11-413046) · `si`
 
-මහ මැතිවරණයට ගාල්ල දිස්ත්‍රික්කයෙන් තරග කළ පසුගිය රජයේ හිටපු අමාත්‍යවරුන් දෙදෙනෙක් වන වෛද්‍ය රමේෂි පතිරණ මහතා හා මනූෂ නානායක්කාර මහතාට මෙවර පාර්ලිමේන්තුව අහිමි වී තිබේ. ඒ ඔවුන් තරග කළ නව ප්‍රජාතන්ත්‍රාවාදී පෙරමුණට ගාල්ල දිස්ත්‍රික්කයෙන් එක් ආසනයක් හෝ ලබා ගැනිමට නොහැකි වීමත් සමගිනි.
+Here's a summary of 200 characters:
+
+
+
+Manusha and Ramesh lost to Dr. Ramashi Pathirana and Manusha Nanayakkara in Parliament this year. They contested as part of the Democratic Front in Galle District.
+
+🟩
+
+Dr. Ramashi Pathirana and Manusha Nanayakkara has lost the Parliament this year. It was with the new Democratic Front that they competed in the Galle District.
 
 ◼️
 
 [Data](articles/28bc57f9.json)
+
+[Extended Data](ext_articles/28bc57f9.ext.json)
 
 ---
 
@@ -586,13 +776,23 @@ Here's a summary of congressional election results in approximately 200 characte
 
 ---
 
-### களுத்துறை மாவட்டம் பண்டாரகம தேர்தல் தொகுதி வாக்களிப்பு முடிவு
+### Kalutara District Bandaragama Election constituency
 
 *2024-11-15 03:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/198793) · `ta`
+
+Here's a summary of Kalutara District Bandaragama Election constituency in approximately 200 characters:
+
+
+
+Kalutara District Bandaragama Election constituency: A parliamentary electoral district in Sri Lanka. It covers parts of the Kalutara District, including the town of Bandaragama. The area is known for its agricultural production and historical sites.
+
+🟩
 
 ◼️
 
 [Data](articles/4de3706c.json)
+
+[Extended Data](ext_articles/4de3706c.ext.json)
 
 ---
 
@@ -1631,195 +1831,5 @@ Accordingly, the NPP has polled 13,937 postal votes, while the Samagi Jana Balaw
 [Data](articles/d9120dd8.json)
 
 [Extended Data](ext_articles/d9120dd8.ext.json)
-
----
-
-### Yall. Riot police stationed at the polling station
-
-*2024-11-15 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198745) · `ta`
-
-Riot police guard polling station in Jaffna. Military and Special Task Force deployed for security. Election underway at Central College.
-
-🟩
-
-The number of votes in the parliamentary election is being carried out at the polling station set up at the Central College, Jaffna.
-
-In this case, the police, the military and the Special Task Force are engaged in extreme security measures to prevent violence.
-
-◼️
-
-[Data](articles/af110f20.json)
-
-[Extended Data](ext_articles/af110f20.ext.json)
-
----
-
-### 2024-11-14 (Thursday)
-
-### Anura captured the empty constituency
-
-*2024-11-14 23:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-தொகுதியை-கைப்பற்றினார்-அனுர/175-347163) · `ta`
-
-Here's a summary of "Anura captured the empty constituency" in approximately 200 characters:
-
-
-
-"Aura seized control of an unoccupied district. This strategic move could significantly impact local politics and power dynamics."
-
-🟩
-
-◼️
-
-[Data](articles/48398bf7.json)
-
-[Extended Data](ext_articles/48398bf7.ext.json)
-
----
-
-### Lost in Trincomalee
-
-*2024-11-14 23:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-தபாலில்-இழந்தது-தமிழரசு/175-347162) · `ta`
-
-Here's a summary of "Lost in Trincomalee" in approximately 200 characters:
-
-
-
-In this gripping adventure, protagonist Sarah finds herself stranded in Trincomalee, Sri Lanka. With limited resources and no clear way out, she must navigate treacherous landscapes, encounter unexpected allies, and unravel ancient mysteries hidden within the city's walls. As tensions rise and danger lurks around every corner, Sarah discovers her own resilience and uncovers secrets about the enigmatic port town that challenge everything she thought she knew. Will she escape, or will Trincomalee claim another lost soul?
-
-🟩
-
-◼️
-
-[Data](articles/6658926f.json)
-
-[Extended Data](ext_articles/6658926f.ext.json)
-
----
-
-### Tamilnadu Party lost in postal in Trincomalee
-
-*2024-11-14 23:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-தபாலில்-இழந்தது-தமிழரசு-கட்சி/175-347162) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamilnadu party faces defeat in Trincomalee election. Postal votes play crucial role in outcome. Local factors influence voter decisions. Political analysts attribute loss to internal conflicts and external challenges.
-
-🟩
-
-◼️
-
-[Data](articles/db12bc73.json)
-
-[Extended Data](ext_articles/db12bc73.ext.json)
-
----
-
-### Badulla District Postal Source Grades
-
-*2024-11-14 23:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டம்-தபால்-மூல-பெறுபேறுகள்/175-347161) · `ta`
-
-Here's a summary of "Badulla District Postal Source Grades" in approximately 200 characters:
-
-
-
-Badulla District postal grades refer to the classification system used by Sri Lanka Post to categorize post offices based on their size and functionality. The grades range from A1 (largest) to C3 (smallest). Grade A1 offices offer comprehensive services, while lower grades provide more limited facilities. This grading system helps optimize resource allocation and service delivery across the district.
-
-🟩
-
-◼️
-
-[Data](articles/4aa256db.json)
-
-[Extended Data](ext_articles/4aa256db.ext.json)
-
----
-
-### Uva Province - Badulla District Postal Source
-
-*2024-11-14 23:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊவா-மாகாணம்-பதுளை-மாவட்டம்-தபால்-மூல-பெறுபேறுகள்/175-347161) · `ta`
-
-Here's a summary of Uva Province - Badulla District Postal Source in approximately 200 characters:
-
-
-
-"Badulla District, Uva Province: Key postal details. Main post office located in Badulla town. Postal codes start with 81000 for Badulla area. Nearby towns include Ella, Passara, and Wellawaya. Postal services available, including parcel delivery and money transfers."
-
-🟩
-
-◼️
-
-[Data](articles/b5c0d069.json)
-
-[Extended Data](ext_articles/b5c0d069.ext.json)
-
----
-
-### Postal vote results of Trincomalee released
-
-*2024-11-14 23:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103422/postal-vote-results-of-trincomalee-released) · `en`
-
-The postal vote result of the Trincomalee District in the 2024 General Election has been released by the Election Commission.
-
-The National People’s Power (NPP) has received the highest number of postal votes in the district with a total of 9,705 postal votes.
-
-◼️
-
-[Data](articles/9473ce2d.json)
-
-[Extended Data](ext_articles/9473ce2d.ext.json)
-
----
-
-### Colombo District Postal Source
-
-*2024-11-14 23:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்ட-தபால்-மூல-பெறுபேறு/175-347160) · `ta`
-
-Here's a summary of "Colombo District Postal Source" in approximately 200 characters:
-
-
-
-Colombo District Postal Source: A comprehensive guide detailing postal services, delivery routes, and facilities within Colombo District. It covers ZIP codes, post office locations, and mailing regulations specific to this area. The source provides valuable information for residents, businesses, and postal workers operating in Colombo District.
-
-🟩
-
-◼️
-
-[Data](articles/7ce7adc5.json)
-
-[Extended Data](ext_articles/7ce7adc5.ext.json)
-
----
-
-### Badulla District postal vote results
-
-*2024-11-14 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103421/badulla-district-postal-vote-results) · `en`
-
-The postal vote result of the Badulla District in the 2024 Presidential Election has been released with National People’s Power (NPP) coming up top.
-
-The NPP has received the highest number of postal votes in the district with a total of 33,780 postal votes.
-
-◼️
-
-[Data](articles/005d6eaa.json)
-
-[Extended Data](ext_articles/005d6eaa.ext.json)
-
----
-
-### NPP tops postal votes in Colombo District
-
-*2024-11-14 23:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103420/npp-tops-postal-votes-in-colombo-district-) · `en`
-
-The National People’s Power (NPP) has obtained the highest number of postal votes in the Colombo District in the 2024 General Election.
-
-Accordingly, the NPP has polled 28,475 postal votes, while the Samagi Jana Balawegaya (SJB) placed second with 1,623 postal votes.
-
-◼️
-
-[Data](articles/7c8201ea.json)
-
-[Extended Data](ext_articles/7c8201ea.ext.json)
 
 ---

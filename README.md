@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 14:41:29**
+As of **2024-11-14 15:11:54**
 
 ## Newspaper Stats
 
-*Scraped **54,722** Articles*
+*Scraped **54,729** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 424
-colombotelegraphcom | 557
+colombotelegraphcom | 558
 bbccomsinhala | 558
 islandlk | 3,278
 economynextcom | 3,323
@@ -18,19 +18,103 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,130
 adaderanalk | 6,532
-tamilmirrorlk | 7,676
-virakesarilk | 8,890
+tamilmirrorlk | 7,678
+virakesarilk | 8,894
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,722 (100.0%) of 54,722 articles have been extended.
+54,724 (100.0%) of 54,729 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### வாக்குச் சீட்டைக் கிழித்தவர் கைது
+
+*2024-11-14 14:57:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்-சீட்டைக்-கிழித்தவர்-கைது/175-347119) · `ta`
+
+வாக்களிப்பு நிலைய உத்தியோகத்தர்களுடன் ஏற்பட்ட வாக்குவாதத்தை தொடர்ந்து  வாக்குச் சீட்டைக் கிழித்த நபர் ஒருவர் கைது செய்யப்பட்டதாக வாதுவ பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர் வாக்களிப்பதற்காக பொத்துப்பிட்டிய பூஜாராமய விகாரஸ்தானத்தில் உள்ள வாக்களிப்பு நிலையத்திற்கு முற்பகல் 11 மணியளவில் வந்துள்ளார்.
+
+வாக்களித்த பின்னர் பிரபல அரசியல் கட்சி ஒன்றின் குழு தலைவரின் விருப்பு இலக்கம் ஊழியர்களிடம் கேட்கப்பட்டுள்ளதாக குறிப்பிடப்படுகின்றது.
+
+அந்த எண்ணை தெரிவிக்க அதிகாரிகள் தயக்கம் காட்டியதால் குறிக்கப்பட்ட வாக்குச்சீட்டு கிழித்ததாக தெரிவிக்கப்பட்டுள்ளது.
+
+வாதுவ நிலைய பிரதான பொலிஸ் பரிசோதகர் சமிந்திர குமார தலைமையில் விசாரணைகள் இடம்பெற்று வருகின்றன.
+
+◼️
+
+[Data](articles/55da6273.json)
+
+---
+
+### Rahul adventure trip on zip line
+
+*2024-11-14 14:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிப்-லைனில்-ராகுல்-சாகச-பயணம்/175-347117) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rahul Gandhi votes for Priyanka in Wayanad by-election. He promotes tourism via zip line adventure after July landslides killed over 400. "I Love Wayanad" stunt aims to revive tourism industry affected by natural disaster.
+
+🟩
+
+Rahul Gandhi, who was in the process of voting in favor of sister Priyanka Gandhi for the Wayanad Lok Sabha by -election. He then traveled adventure on the longest zip line. The video has gone viral on social networks.
+
+Landslide in Wayanad caused by heavy rains last July. More than 400 people died. As a result, the number of tourists to Wayanad has declined. In this case, Rahul engaged in adventure games in a teaser printed 'I Love Wayanad' to promote tourism. He said, “Landslide has affected the livelihood of the people who are in the tour.
+
+All industries are paralyzed from stores to lodges. The story of the mothers mock me
+
+Loses. At the same time their diligence and the ability to attack me amazed me. It is the most beautiful land. I and Priyanka Gandhi are sure to improve the tourism of Wayanad. ”
+
+◼️
+
+[Data](articles/0019c567.json)
+
+[Extended Data](ext_articles/0019c567.ext.json)
+
+---
+
+### அம்பாறை மாவட்டத்தில் சுமுகமாக நடைபெறும் வாக்களிப்பு
+
+*2024-11-14 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198688) · `ta`
+
+நாடு பூராகவும் இன்று வியாழக்கிழமை (14) பாராளுமன்றத் தேர்தல் வாக்களிப்பானது காலை 7.00 மணிக்கு ஆரம்பமாகியுள்ளது. வாக்களிப்பானது மிகவும் சுமுகமான முறையில் இடம் பெறுவதை அவதானிக்கக்கூடியதாக உள்ளது.
+
+அந்தவகையில் அம்பாறை  மாவட்ட அரசாங்க அதிபரும் திகாமடுல்ல தேர்தல் தெரிவத்தாட்சி அதிகாரியுமான  சிந்தக அபேவிக்ரம   தற்சமயம் ஊடக சந்திப்பில் பின்வருமாறு கருத்து தெரிவித்தார்.
+
+இன்றையதினம் காலை 7.00 மணி முதல்  12.30 வரையிலான அம்பாறை  மாவட்டத்தில் வாக்குப்பதிவுகளின் நிலவரப்படி 25 சதவீதமான வாக்குப்பதிவுகள் நிறைவுபெற்றுள்ளதாக மாவட்ட அரசாங்க அதிபர்  மேலும்  தெரிவித்துள்ளார்.
+
+அம்பாறை  மாவட்டத்தின் கல்முனை சம்மாந்துறை  மற்றும் பொத்துவில் அம்பாறை  ஆகிய தேர்தல் தொகுதிகளில் சுமார் 528  வாக்களிப்பு நிலையங்கள் நிறுவப்பட்டுள்ளதுடன்  வாக்காளர்களின் எண்ணிக்கை 555,432 ஆகும். மற்றும்  தெரிவு செய்யப்படவுள்ள பாராளுமன்ற உறுப்பினர்கள் எண்ணிக்கை 07 ஆகும்.மொத்தமாக 64 அரசியல் கட்சி உட்பட சுயேட்சைக்குழுக்கள் திகாமடுல்ல தேர்தல் மாவட்டத்தில் 7 ஆசனங்களுக்காக போட்டியிடுகின்றன.
+
+...
+
+[Data](articles/9258d547.json)
+
+---
+
+### 33 ரயில் சேவைகள் இரத்து
+
+*2024-11-14 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198684) · `ta`
+
+இன்று வியாழக்கிழமை (14) 33 ரயில் சேவைகள் இரத்து செய்யப்படும் என ரயில் திணைக்களம் தெரிவித்துள்ளது.
+
+ரயில் சாரதிகள் மற்றும் ரயில் உதவியாளர்கள் சேவைக்கு சமுகமளிக்காமை காரணமாக இவ்வாறு ரயில் சேவைகள் இரத்துச் செய்யப்படவுள்ளன.
+
+இன்று முற்பகல் பயணிக்கவிருந்த 10 ரயில் சேவைகளும் இதில் உள்ளடங்குவதாக குறிப்பிடப்பட்டுள்ளது. ஏனைய 23 ரயில்களும் இன்று பிற்பகல் சேவையில் ஈடுபடுத்தப்பட வேண்டியவை என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+அதன்படி, பிரதான மார்க்கத்தில் 13, கரையோர மார்க்கத்தில் 8 , புத்தளம் மார்க்கத்தில் 6, களனி மார்க்கத்தில் 6 புகையிரதங்களும் இன்று இரத்து செய்யப்படவுள்ளன.
+
+◼️
+
+[Data](articles/0f9e5d2e.json)
+
+---
 
 ### Correct Recovery from Voting Station Restroom
 
@@ -57,6 +141,70 @@ Udaya Kumara, the officer in charge of the police station, is conducting further
 [Data](articles/f8a613bd.json)
 
 [Extended Data](ext_articles/f8a613bd.ext.json)
+
+---
+
+### முதலாவது தேர்தல் முடிவு இரவு 10  மணிக்கு வெளியாகும்
+
+*2024-11-14 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198680) · `ta`
+
+2024 பாராளுமன்றத் தேர்தலின் முதலாவது தேர்தல் முடிவுகள் இரவு 10 மணிக்கு வெளியாகும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க இன்று வியாழக்கிழமை (14) தெரிவித்தார்.
+
+நாடளாவிய ரீதியில் தேர்தல் வாக்களிப்பு நடவடிக்கைகள் காலை 7 மணிக்கு ஆரம்பமாகி இடம்பெற்றுவரும் நிலையில் மாலை 4 மணிக்கு நிறைவடையும். முதலாவதாக தபால் வாக்குகள் எண்ணும் பணி மாலை 5 மணிக்கு ஆரம்பமாகும்.
+
+10 ஆவது பாராளுமன்றத் தேர்தலில் 8,888 வேட்பாளர்கள் போட்டியிடுவதோடு, 17,140,354 நபர்கள் வாக்களிக்கத் தகுதி பெற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/006f8373.json)
+
+---
+
+### கிளிநொச்சியில் மக்கள் ஆர்வத்துடன் வாக்களிப்பு
+
+*2024-11-14 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198666) · `ta`
+
+இலங்கை பாராளுமன்ற பொதுத் தேர்தலுக்கான வாக்களிப்பு நாடளாவிய ரீதியில் இன்று வியாழக்கிழமை (14) காலை 7.00 மணிக்கு ஆரம்பமாகியுள்ளது.
+
+அந்தவகையில், கிளிநொச்சி மாவட்டத்திலும் வாக்காளர்கள் காலை 7.00 மணி தொடக்கம் தமது ஜனநாயக கடமையினை ஆர்வத்துடன் நிறைவேற்றி வருகின்றனர்.
+
+கிளிநொச்சி மாவட்டத்தில் 108 வாக்களிப்பு நிலையங்கள் அமைக்கப்பட்டுள்ளதுடன், இம்முறை 100,907 பேர் வாக்களிக்கத் தகுதி பெற்றுள்ளனர்.
+
+வாக்களிப்பு சுமூகமான முறையில் இடம்பெற்றுவருவதுடன், தேர்தல் கடமைகளில் ஆயுதம் தாங்கிய பொலிஸார் மற்றும் விசேட அதிரடிப்படையினர் ஈடுபட்டு வருகின்றமையை அவதானிக்க முடிகிறது.
+
+இத்தேர்தல் பணியில் கிளிநொச்சி மாவட்டத்தில் 1,863 அரச உத்தியோகத்தர்கள், 396 பொலிஸார் ஈடுபடுத்தப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/cd5801c5.json)
+
+---
+
+### Parliamentary Election 2024: Voting Rate till 12 noon!
+
+*2024-11-14 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198678) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's 10th parliamentary election voting rates (12 noon): Kandy 30%, Nuwara Eliya 40%, Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%, Anuradhapura 40%.
+
+🟩
+
+Sri Lanka's 10th parliamentary election is being held on Thursday 14th.
+
+As such, the voting will be held nationwide from 7 am to 4 pm.
+
+Accordingly, the voting rates held at 12 noon today
+
+Kandy 30%, Nuwara Eliya 40%Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%40%, 40% of Anuradhapura.
+
+◼️
+
+[Data](articles/80eb94b0.json)
+
+[Extended Data](ext_articles/80eb94b0.ext.json)
 
 ---
 
@@ -103,34 +251,6 @@ The District Secretariat has announced that a 16% voting registration has been h
 [Data](articles/5ac3f298.json)
 
 [Extended Data](ext_articles/5ac3f298.ext.json)
-
----
-
-### Parliamentary Election 2024: Voting Rate till 12 noon!
-
-*2024-11-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198678) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's 10th parliamentary election voting rates (12 noon): Kandy 30%, Nuwara Eliya 40%, Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%, Anuradhapura 40%.
-
-🟩
-
-Sri Lanka's 10th parliamentary election is being held on Thursday 14th.
-
-As such, the voting will be held nationwide from 7 am to 4 pm.
-
-Accordingly, the voting rates held at 12 noon today
-
-Kandy 30%, Nuwara Eliya 40%Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%40%, 40% of Anuradhapura.
-
-◼️
-
-[Data](articles/80eb94b0.json)
-
-[Extended Data](ext_articles/80eb94b0.ext.json)
 
 ---
 
@@ -927,6 +1047,22 @@ The incident caused some stir at the polling station this morning and another po
 [Data](articles/016f283c.json)
 
 [Extended Data](ext_articles/016f283c.ext.json)
+
+---
+
+### I See You: A Thrilling Story That Transcends Life & Mortality
+
+*2024-11-14 09:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/i-see-you-a-thrilling-story-that-transcends-life-mortality/) · `en`
+
+Ramzi Zaindeen is a trainer by profession who mainly works on projects surrounding community development, leadership, entrepreneurship and peace-building. Trained in forum theatre by the British Council, he is also a huge fan of theatre work and does a variety of community based theatre that helps bring out community problems. He is an ardent admirer of art in general and is now a newly published author as well. His debut book, I See You published by The Jam Fruit Tree Publications was launched recently, which is a novel that holds a variety of exciting themes weaved around death, fate, philosophy, mystery, fantasy, etc with the most attention grabbing storylines and plot twists.
+
+“I still consider myself as a work-in-progress writer,” Ramzi said. “Writing is something I simply like to do because it helps me get into a certain zone.” As a student during his childhood, Ramzi had difficulty expressing himself verbally and therefore resorted to writing and composing poetry.
+
+...
+
+[Data](articles/4a47430c.json)
+
+[Extended Data](ext_articles/4a47430c.ext.json)
 
 ---
 
@@ -2191,177 +2327,5 @@ We have received a complaint that the parliamentary elections are not given holi
 [Data](articles/b64e5093.json)
 
 [Extended Data](ext_articles/b64e5093.ext.json)
-
----
-
-### Mendis informs the last day to the company
-
-*2024-11-13 19:27:34* · [`adalk`](https://www.ada.lk/breaking_news/මෙන්ඩිස්-සමාගමට-අවසන්-දිනය-දැනුම්-දෙයි/11-413027) · `si`
-
-Government owes Rs. 600B in taxes. Liquor licenses may be suspended if unpaid by month-end. Case filed against Mendis Company and others.
-
-🟩
-
-The government has not paid over Rs. 600 billion taxes.. The Attorney General stated that the government has decided to suspend the license of the liquor companies before the 5th of this month, if the five large-scale liquor products will not be paid before the month of this month.
-
-If the defaulted taxes are not paid off WM. The Attorney General told the Supreme Court that the license will be suspended in addition to the Mendis Company.
-
-Additional Solicitor General, Ven.The petition was found in a pair of pairmansena, Yasantha Kodagoda and Priyantha Kodagoda and Priyantha Pun.
-
-The Commissioner General of Excise as respondents on the petitions filed by a civil society operator.. Mendis, 'Pinley Dysutiris', 'Hingurana Disleriiris' and 'Royal Distrorerrit' has been named 'Hingurana Dislerith' and 'Rayal Distroyrrrit'.
-
-...
-
-[Data](articles/8952db8f.json)
-
-[Extended Data](ext_articles/8952db8f.ext.json)
-
----
-
-### Kusal Mendis 143, Avishka 100;Sri Lanka 324 -5 wig.
-
-*2024-11-13 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198623) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka batted first in the first ODI. Kusal Mendis (143) and Avishka Fernando (100) scored centuries. The match was delayed due to rain but resumed after Betham Nissank's dismissal. Mendis faced 128 balls for his highest ODI score. New Zealand debutants Michelle Hi, Tim Robinson, and Nathan Smith played.
-
-🟩
-
-Sri Lanka decided to bat first in the first ODI match at Rangiri and Dambulla on Wednesday (13).
-
-Gusal Mendis and Avishka Fernando, who played the most efficiently, accumulated their fourth centuries and added to the total number of Sri Lanka.
-
-Although the match started at a certain time, the game was blocked for some time due to a raining of a bowling.
-
-Shortly after the match was resumed, Betham Nissank (12) lost the match when the total number was 17 runs.
-
-Avishka Fernando and Kusal Mendis then scored centuries and shared 206 runs in the 2nd wicket.
-
-Avishka Fernando lost exactly 100 runs. It contained 9 pounds and 2 sixes.
-
-Gusal Mendis faced 128 balls with 17 pounds and 2 sixes with 143 runs. This is his personal highest number of ODIs in an international ODI.
-
-Michelle Hi, Tim Robinson and Nathan Smith were the debutants of the International ODI for New Zealand.
-
-◼️
-
-[Data](articles/33afa2cf.json)
-
-[Extended Data](ext_articles/33afa2cf.ext.json)
-
----
-
-### Korean SME Association offers support to Sri Lanka’s Agriculture and fishing Industries
-
-*2024-11-13 19:14:00* · [`islandlk`](http://island.lk/korean-sme-association-offers-support-to-sri-lankas-agriculture-and-fishing-industries/) · `en`
-
-The Korean Small and Medium Enterprise (SME) Association has expressed its commitment to support Sri Lanka in advancing the agriculture sector and enhancing related employment opportunities.
-
-Additionally, the association has agreed to provide technical assistance and training Sri Lankan workers locally for Korea’s fishing industry and creating employment opportunities for them.
-
-These topics were highlighted during a meeting held today (13) at the Presidential Secretariat between a delegation led by Kim Chung Ryong, President of the Korean SME Association and officials from the President’s Office.
-
-Sri Lankans living overseas can request birth, marriage, and death certificates through embassies in Kuwait, Japan, Qatar, Australia, Canada, Italy, and Dubai
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/83b7e872.json)
-
-[Extended Data](ext_articles/83b7e872.ext.json)
-
----
-
-### நீலகாமத்தில் முறிந்தது ஆலமரம்: இருவர் காயம்
-
-*2024-11-13 19:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீலகாமத்தில்-முறிந்தது-ஆலமரம்-இருவர்-காயம்/76-347069) · `ta`
-
-Tree falls in Lion apartments, Nilakamam; two injured hospitalized. Heavy rain causes damage to 7 homes, affecting six families.
-
-🟩
-
-Two people have been admitted to hospital after a massive tree fell in the Lion apartment of the Kavatha Nilakamam No. 4 plantation unit.
-
-இரத்தினபுரி மாவட்டத்தில்  புதன்கிழமை (13) மாலை பெய்த அடை மழை காரணமாக காவத்தை நீலகாமம் இலக்கம் 4 தோட்டப் பிரிவின் லயன் குடியிருப்பில் பாரிய ஆல மரமொன்று  முறிந்து வீழ்ந்ததில்  ஆலயம் உட்பட குறித்த லயன் குடியிருப்பின் 7 வீடுகள் முற்றாக சேதமடைந்துள்ளதுடன் இதில் ஆறு குடும்பங்கள் பாதிக்கப்பட்டுள்ளன.
-
-இதில் பலத்த காயமடைந்த இருவர் வைத்தியசாலை அனுமதிக்கப்பட்டுள்ளனர். P. Muthusamy (59 years old) at the Ratnapura Teaching Hospital
-
-◼️
-
-[Data](articles/49cc3f11.json)
-
-[Extended Data](ext_articles/49cc3f11.ext.json)
-
----
-
-### Siyambalanduwa Places to the Principal of Vidyalaya
-
-*2024-11-13 19:08:23* · [`adalk`](https://www.ada.lk/breaking_news/සියඹලාන්ඩුව-විදුහලේ-විදුහල්පතිනියට-දුන්-ස්ථාන-මාරුව-බල-රහිත-කරයි/11-413026) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Court of Appeal judges investigated over school development meeting controversy. Petition filed against Moneragala Director of Education. Uva Provincial Director issues transfer letter allowing petition to proceed.
-
-🟩
-
-The Court of Appeal, which has been appointed to the Siyambalanduwa, has been sent to the Siyambalanduwa Central Provincial Director of Education to the Siyambalanduwa Provincial Director of Education to the Siyambalanduwa Provincial Director of Education at the Maha Vidyalaya in Moneragala.
-
-The Court of Appeal President Nissanka Bandula Karunaratne and Judge Shashi Mahendran were investigated in the face of a panel of judges.
-
-As respondents in the petitate, Moneragala Director of India, Sri Lanka Director of India, as respondents, was respondents with Indica Paranamana.. Amaradasa and others were named.
-
-Court of Appeal, Judge Shashi Mahendran, with a group of parents had complained that the Petroleum of the Provincial Director of Education had come to a complaint with a group of parents in Moneragala.He is stated in the decision.
-
-...
-
-[Data](articles/b63e9f6d.json)
-
-[Extended Data](ext_articles/b63e9f6d.ext.json)
-
----
-
-### ICTA’s new Board of Directors hold inaugural meeting
-
-*2024-11-13 19:07:00* · [`islandlk`](http://island.lk/ictas-new-board-of-directors-hold-inaugural-meeting/) · `en`
-
-The newly appointed Board of Directors of the Information and Communication Technology Agency (ICTA) convened for their first meeting this afternoon (13).
-
-President Anura Kumara Dissanayake recently appointed Dr. Hans Wijeyasuriya, as the Principal Presidential Advisor on Digital Economy, chaired the board in a non-executive role. Dr. Wijeyasuriya’s leadership reflects a commitment to strengthening Sri Lanka’s digital economy, aiming to boost economic growth, enhance national competitiveness, and deliver meaningful digital benefits to citizens.
-
-Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Cooray, Bandula Ranatunga, Jeffrey Sulfer, Samisa Abeysinghe, and Shanaka Rebel.
-
-...
-
-[Data](articles/6e5183df.json)
-
-[Extended Data](ext_articles/6e5183df.ext.json)
-
----
-
-### ICTA’s new director board holds inaugural meeting
-
-*2024-11-13 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103387/ictas-new-director-board-holds-inaugural-meeting) · `en`
-
-The newly appointed Board of Directors of the Information and Communication Technology Agency (ICTA) will convene for their first meeting this afternoon (13).
-
-Dr. Hans Wijeyasuriya, recently appointed by President Anura Kumara Dissanayake as the Principal Presidential Advisor on Digital Economy, will chair the board in a non-executive role, according to the President’s Media Division (PMD).
-
-Dr. Wijeyasuriya’s leadership reflects a commitment to strengthening Sri Lanka’s digital economy, aiming to boost economic growth, enhance national competitiveness, and deliver meaningful digital benefits to citizens, the PMD said.
-
-Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Cooray, Bandula Ranatunga, Jeffrey Sulfer, Samisa Abeysinghe, and Shanaka Rebel.
-
-...
-
-[Data](articles/b69deadc.json)
-
-[Extended Data](ext_articles/b69deadc.ext.json)
 
 ---

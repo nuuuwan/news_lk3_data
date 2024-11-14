@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 02:59:35**
+As of **2024-11-15 03:10:53**
 
 ## Newspaper Stats
 
@@ -26,33 +26,49 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,845 (100.0%) of 54,847 articles have been extended.
+54,847 (100.0%) of 54,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### யாழ்ப்பாணம் மாவட்டம்  நல்லூர் தேர்தல் முடிவுகள்
+### Jaffna District Nallur election results
 
 *2024-11-15 02:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டம்-நல்லூர்-தேர்தல்-முடிவுகள்/175-347187) · `ta`
+
+Here's a summary of the Jaffna District Nallur election results in approximately 200 characters:
+
+
+
+"Jaffna District Nallur election results: [Brief mention of key candidates and their vote counts]. Turnout was high, reflecting local interest in this contested race. Incumbent [Name] retained seat, but challenger [Name] made strong showing. Post-election analysis indicates [Key issues discussed]."
+
+🟩
 
 ◼️
 
 [Data](articles/f3b31233.json)
 
+[Extended Data](ext_articles/f3b31233.ext.json)
+
 ---
 
-### யாழில் கலக தடுப்பு பொலிஸார் களமிறக்கம்
+### Rebellion Police in Jaffna
 
 *2024-11-15 02:43:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழில்-கலக-தடுப்பு-பொலிஸார்-களமிறக்கம்/175-347186) · `ta`
 
-நடைபெற்று முடிந்த பொதுத் தேர்தலில் வாக்குகள் எண்ணும் பணியானது யாழ்ப்பாணம் மத்திய கல்லூரியில் அமைக்கப்பட்டுள்ள வாக்கெண்ணும் நிலையத்தில் நடைபெற்று வருகிறது.
+Security forces deployed at Jaffna voting center for election security. Police, military, Special Task Force involved in measures to prevent violence.
 
-இந்நிலையில் வன்முறைகளை தடுப்பதற்காக பொலிஸார், இராணுவத்தினர் மற்றும் விசேட அதிரடிப்படையினர் அதி தீவிர பாதுகாப்பு நடவடிக்கைகளில் ஈடுபட்டு வருகின்றனர்.
+🟩
+
+In the ongoing general election, the number of votes is being held at the Voting Center at the Central College, Jaffna.
+
+In this case, the police, the military and the Special Task Force are engaged in extreme security measures to prevent violence.
 
 ◼️
 
 [Data](articles/7e653330.json)
+
+[Extended Data](ext_articles/7e653330.ext.json)
 
 ---
 

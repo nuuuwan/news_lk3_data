@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 15:00:01**
+As of **2024-11-14 14:41:29**
 
 ## Newspaper Stats
 
-*Scraped **54,724** Articles*
+*Scraped **54,722** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 424
-colombotelegraphcom | 558
+colombotelegraphcom | 557
 bbccomsinhala | 558
 islandlk | 3,278
 economynextcom | 3,323
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,130
 adaderanalk | 6,532
-tamilmirrorlk | 7,677
+tamilmirrorlk | 7,676
 virakesarilk | 8,890
 adaderanasinhalalk | 9,505
 
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,722 (100.0%) of 54,724 articles have been extended.
+54,722 (100.0%) of 54,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
-
-### ஜிப் லைனில் ராகுல் சாகச பயணம்
-
-*2024-11-14 14:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிப்-லைனில்-ராகுல்-சாகச-பயணம்/175-347117) · `ta`
-
-வயநாடு மக்களவைத் தொகுதி இடைத்தேர்தலுக்காக சகோதரி பிரியங்கா காந்திக்கு ஆதரவாக வாக்குச் சேகரிக்கும் பணியில் ஈடுபட்டு வந்த ராகுல் காந்தி, தேர்தல் பிரச்சாரம் நிறைவடைந்த நிலையில் கடந்த செவ்வாய்க்கிழமை வயநாட்டில் சுற்றுலா மேற் கொண்டார். அப்போது அவர் மிக நீளமான ஜிப் லைனில் சாகச பயணம் செய்தார். இது தொடர்பான வீடியோ சமூக வலைதளங்களில் வைரலாகியுள்ளது.
-
-கடந்த ஜூலை மாதத்தில் கனமழை காரணமாக வயநாட்டில் நிலச்சரிவு ஏற்பட்டது. இதில் 400-க்கும் மேற்பட்டோர் உயிரிழந்தனர். இதன் நீட்சியாக வயநாட்டுக்கு சுற்றுலா செல்பவர்களின் எண்ணிக்கை குறைந்துள்ளது. இந்நிலையில், வயநாடு சுற்றுலாவை ஊக்குவிக்கும் நோக்கில் ‘ஐ லவ் வயநாடு’ என்ற வாசகம் அச்சடிக்கப்பட்ட டீசர்ட்டில் ராகுல் சாகச விளையாட்டுகளில் ஈடுபட்டார். இதுகுறித்து அவர் கூறுகையில், “நிலச்சரிவால் சுற்றுலாவைநம்பியிருக்கும் மக்களின் வாழ்வாதாரம் பாதிக்கப்பட்டுள்ளது.
-
-கடைகள் முதல் தங்கும் விடுதிகள் வரை அனைத்துத் தொழில்களும் முடங்கியுள்ளன. அம்மக்களின் கதை என்னை துயருரச் செய்
-
-...
-
-[Data](articles/0019c567.json)
-
----
 
 ### Correct Recovery from Voting Station Restroom
 
@@ -943,20 +927,6 @@ The incident caused some stir at the polling station this morning and another po
 [Data](articles/016f283c.json)
 
 [Extended Data](ext_articles/016f283c.ext.json)
-
----
-
-### I See You: A Thrilling Story That Transcends Life & Mortality
-
-*2024-11-14 09:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/i-see-you-a-thrilling-story-that-transcends-life-mortality/) · `en`
-
-Ramzi Zaindeen is a trainer by profession who mainly works on projects surrounding community development, leadership, entrepreneurship and peace-building. Trained in forum theatre by the British Council, he is also a huge fan of theatre work and does a variety of community based theatre that helps bring out community problems. He is an ardent admirer of art in general and is now a newly published author as well. His debut book, I See You published by The Jam Fruit Tree Publications was launched recently, which is a novel that holds a variety of exciting themes weaved around death, fate, philosophy, mystery, fantasy, etc with the most attention grabbing storylines and plot twists.
-
-“I still consider myself as a work-in-progress writer,” Ramzi said. “Writing is something I simply like to do because it helps me get into a certain zone.” As a student during his childhood, Ramzi had difficulty expressing himself verbally and therefore resorted to writing and composing poetry.
-
-...
-
-[Data](articles/4a47430c.json)
 
 ---
 
@@ -2355,5 +2325,43 @@ Court of Appeal, Judge Shashi Mahendran, with a group of parents had complained 
 [Data](articles/b63e9f6d.json)
 
 [Extended Data](ext_articles/b63e9f6d.ext.json)
+
+---
+
+### ICTA’s new Board of Directors hold inaugural meeting
+
+*2024-11-13 19:07:00* · [`islandlk`](http://island.lk/ictas-new-board-of-directors-hold-inaugural-meeting/) · `en`
+
+The newly appointed Board of Directors of the Information and Communication Technology Agency (ICTA) convened for their first meeting this afternoon (13).
+
+President Anura Kumara Dissanayake recently appointed Dr. Hans Wijeyasuriya, as the Principal Presidential Advisor on Digital Economy, chaired the board in a non-executive role. Dr. Wijeyasuriya’s leadership reflects a commitment to strengthening Sri Lanka’s digital economy, aiming to boost economic growth, enhance national competitiveness, and deliver meaningful digital benefits to citizens.
+
+Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Cooray, Bandula Ranatunga, Jeffrey Sulfer, Samisa Abeysinghe, and Shanaka Rebel.
+
+...
+
+[Data](articles/6e5183df.json)
+
+[Extended Data](ext_articles/6e5183df.ext.json)
+
+---
+
+### ICTA’s new director board holds inaugural meeting
+
+*2024-11-13 19:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103387/ictas-new-director-board-holds-inaugural-meeting) · `en`
+
+The newly appointed Board of Directors of the Information and Communication Technology Agency (ICTA) will convene for their first meeting this afternoon (13).
+
+Dr. Hans Wijeyasuriya, recently appointed by President Anura Kumara Dissanayake as the Principal Presidential Advisor on Digital Economy, will chair the board in a non-executive role, according to the President’s Media Division (PMD).
+
+Dr. Wijeyasuriya’s leadership reflects a commitment to strengthening Sri Lanka’s digital economy, aiming to boost economic growth, enhance national competitiveness, and deliver meaningful digital benefits to citizens, the PMD said.
+
+Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Cooray, Bandula Ranatunga, Jeffrey Sulfer, Samisa Abeysinghe, and Shanaka Rebel.
+
+...
+
+[Data](articles/b69deadc.json)
+
+[Extended Data](ext_articles/b69deadc.ext.json)
 
 ---

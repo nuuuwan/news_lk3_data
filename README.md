@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 00:26:57**
+As of **2024-11-15 00:01:13**
 
 ## Newspaper Stats
 
-*Scraped **54,821** Articles*
+*Scraped **54,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,214 +17,48 @@ economynextcom | 3,340
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,136
-adaderanalk | 6,555
-tamilmirrorlk | 7,710
-virakesarilk | 8,906
+adaderanalk | 6,547
+tamilmirrorlk | 7,707
+virakesarilk | 8,905
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,820 (100.0%) of 54,821 articles have been extended.
+54,806 (100.0%) of 54,809 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-11-15 (Friday)
-
-### நுவரெலியாவில் தபாலில் சரிந்தது யானை
-
-*2024-11-15 00:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-தபாலில்-சரிந்தது-யானை/175-347164) · `ta`
-
-◼️
-
-[Data](articles/8bca0e9d.json)
-
----
-
-### NPP tops postal votes in Nuwara Eliya District
-
-*2024-11-15 00:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103423/npp-tops-postal-votes-in-nuwara-eliya-district-) · `en`
-
-The National People’s Power (NPP) has obtained the highest number of postal votes in the Nuwara Eliya District in the 2024 General Election.
-
-Accordingly, the NPP has polled 13,937 postal votes, while the Samagi Jana Balawegaya (SJB) placed second with 2,477 postal votes.
-
-◼️
-
-[Data](articles/d9120dd8.json)
-
-[Extended Data](ext_articles/d9120dd8.ext.json)
-
----
-
-### Yall. Riot police stationed at the polling station
-
-*2024-11-15 00:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/198745) · `ta`
-
-Riot police guard polling station in Jaffna. Military and Special Task Force deployed for security. Election underway at Central College.
-
-🟩
-
-The number of votes in the parliamentary election is being carried out at the polling station set up at the Central College, Jaffna.
-
-In this case, the police, the military and the Special Task Force are engaged in extreme security measures to prevent violence.
-
-◼️
-
-[Data](articles/af110f20.json)
-
-[Extended Data](ext_articles/af110f20.ext.json)
-
----
-
 ### 2024-11-14 (Thursday)
 
-### Anura captured the empty constituency
-
-*2024-11-14 23:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-தொகுதியை-கைப்பற்றினார்-அனுர/175-347163) · `ta`
-
-Here's a summary of "Anura captured the empty constituency" in approximately 200 characters:
-
-
-
-"Aura seized control of an unoccupied district. This strategic move could significantly impact local politics and power dynamics."
-
-🟩
-
-◼️
-
-[Data](articles/48398bf7.json)
-
-[Extended Data](ext_articles/48398bf7.ext.json)
-
----
-
-### Tamilnadu Party lost in postal in Trincomalee
+### திருகோணமலையில் தபாலில் இழந்தது தமிழரசு கட்சி
 
 *2024-11-14 23:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-தபாலில்-இழந்தது-தமிழரசு-கட்சி/175-347162) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamilnadu party faces defeat in Trincomalee election. Postal votes play crucial role in outcome. Local factors influence voter decisions. Political analysts attribute loss to internal conflicts and external challenges.
-
-🟩
 
 ◼️
 
 [Data](articles/db12bc73.json)
 
-[Extended Data](ext_articles/db12bc73.ext.json)
-
 ---
 
-### Badulla District Postal Source Grades
-
-*2024-11-14 23:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டம்-தபால்-மூல-பெறுபேறுகள்/175-347161) · `ta`
-
-Here's a summary of "Badulla District Postal Source Grades" in approximately 200 characters:
-
-
-
-Badulla District postal grades refer to the classification system used by Sri Lanka Post to categorize post offices based on their size and functionality. The grades range from A1 (largest) to C3 (smallest). Grade A1 offices offer comprehensive services, while lower grades provide more limited facilities. This grading system helps optimize resource allocation and service delivery across the district.
-
-🟩
-
-◼️
-
-[Data](articles/4aa256db.json)
-
-[Extended Data](ext_articles/4aa256db.ext.json)
-
----
-
-### Uva Province - Badulla District Postal Source
+### ஊவா மாகாணம் -  பதுளை மாவட்டம்  தபால் மூல பெறுபேறுகள்
 
 *2024-11-14 23:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊவா-மாகாணம்-பதுளை-மாவட்டம்-தபால்-மூல-பெறுபேறுகள்/175-347161) · `ta`
-
-Here's a summary of Uva Province - Badulla District Postal Source in approximately 200 characters:
-
-
-
-"Badulla District, Uva Province: Key postal details. Main post office located in Badulla town. Postal codes start with 81000 for Badulla area. Nearby towns include Ella, Passara, and Wellawaya. Postal services available, including parcel delivery and money transfers."
-
-🟩
 
 ◼️
 
 [Data](articles/b5c0d069.json)
 
-[Extended Data](ext_articles/b5c0d069.ext.json)
-
 ---
 
-### Postal vote results of Trincomalee released
-
-*2024-11-14 23:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103422/postal-vote-results-of-trincomalee-released) · `en`
-
-The postal vote result of the Trincomalee District in the 2024 General Election has been released by the Election Commission.
-
-The National People’s Power (NPP) has received the highest number of postal votes in the district with a total of 9,705 postal votes.
-
-◼️
-
-[Data](articles/9473ce2d.json)
-
-[Extended Data](ext_articles/9473ce2d.ext.json)
-
----
-
-### Colombo District Postal Source
+### கொழும்பு மாவட்ட தபால் மூல பெறுபேறு
 
 *2024-11-14 23:44:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்ட-தபால்-மூல-பெறுபேறு/175-347160) · `ta`
-
-Here's a summary of "Colombo District Postal Source" in approximately 200 characters:
-
-
-
-Colombo District Postal Source: A comprehensive guide detailing postal services, delivery routes, and facilities within Colombo District. It covers ZIP codes, post office locations, and mailing regulations specific to this area. The source provides valuable information for residents, businesses, and postal workers operating in Colombo District.
-
-🟩
 
 ◼️
 
 [Data](articles/7ce7adc5.json)
-
-[Extended Data](ext_articles/7ce7adc5.ext.json)
-
----
-
-### Badulla District postal vote results
-
-*2024-11-14 23:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103421/badulla-district-postal-vote-results) · `en`
-
-The postal vote result of the Badulla District in the 2024 Presidential Election has been released with National People’s Power (NPP) coming up top.
-
-The NPP has received the highest number of postal votes in the district with a total of 33,780 postal votes.
-
-◼️
-
-[Data](articles/005d6eaa.json)
-
-[Extended Data](ext_articles/005d6eaa.ext.json)
-
----
-
-### NPP tops postal votes in Colombo District
-
-*2024-11-14 23:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103420/npp-tops-postal-votes-in-colombo-district-) · `en`
-
-The National People’s Power (NPP) has obtained the highest number of postal votes in the Colombo District in the 2024 General Election.
-
-Accordingly, the NPP has polled 28,475 postal votes, while the Samagi Jana Balawegaya (SJB) placed second with 1,623 postal votes.
-
-◼️
-
-[Data](articles/7c8201ea.json)
-
-[Extended Data](ext_articles/7c8201ea.ext.json)
 
 ---
 
@@ -248,22 +82,6 @@ Moneragala Postal Source refers to the primary mail processing facility serving 
 
 ---
 
-### Monaragala District postal vote results
-
-*2024-11-14 23:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/103419/monaragala-district-postal-vote-results) · `en`
-
-The postal vote result of the Monaragala District in the 2024 Presidential Election has been released with National People’s Power (NPP) coming up top.
-
-The NPP has received the highest number of postal votes in the district with a total of 19,686 postal votes.
-
-◼️
-
-[Data](articles/b1967556.json)
-
-[Extended Data](ext_articles/b1967556.ext.json)
-
----
-
 ### Hambantota Postal Source Recognition
 
 *2024-11-14 23:17:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-தபால்-மூல-பெறுபேறு/175-347157) · `ta`
@@ -284,22 +102,6 @@ Hambantota Postal Source Recognition refers to a system used to identify the ori
 
 ---
 
-### NPP tops postal votes in H’tota District
-
-*2024-11-14 23:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103418/npp-tops-postal-votes-in-htota-district-) · `en`
-
-The National People’s Power (NPP) has obtained the highest number of postal votes in the Hambantota District in the 2024 General Election.
-
-Accordingly, the NPP has polled 17,326 postal votes, while the Samagi Jana Balawegaya (SJB) came second with 1,623 postal votes.
-
-◼️
-
-[Data](articles/40060fbf.json)
-
-[Extended Data](ext_articles/40060fbf.ext.json)
-
----
-
 ### Kalutara postal source results
 
 *2024-11-14 22:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தபால்-மூல-பெறுபேறுகள்/175-347156) · `ta`
@@ -317,38 +119,6 @@ Results from Kalutara postal sources indicate mixed delivery performance. Some a
 [Data](articles/0bab265c.json)
 
 [Extended Data](ext_articles/0bab265c.ext.json)
-
----
-
-### First polling division result of General Election released
-
-*2024-11-14 22:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103417/first-polling-division-result-of-general-election-released) · `en`
-
-The first polling division result of the 2024 General Election is out with the release of the result of the Galle polling division in Galle District.
-
-The National People’s Power (NPP) has received the highest number of votes in the polling division with a total of 39,707 votes.
-
-◼️
-
-[Data](articles/445a8abd.json)
-
-[Extended Data](ext_articles/445a8abd.ext.json)
-
----
-
-### Postal vote results of Kalutara released
-
-*2024-11-14 22:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103416/postal-vote-results-of-kalutara-released) · `en`
-
-The postal vote result of the Kalutara District in the 2024 General Election has been released by the Election Commission.
-
-The National People’s Power (NPP) has received the highest number of postal votes in the district with a total of 29,076 postal votes.
-
-◼️
-
-[Data](articles/b8e940a0.json)
-
-[Extended Data](ext_articles/b8e940a0.ext.json)
 
 ---
 
@@ -490,7 +260,7 @@ Accordingly, the NPP has polled 24,776 postal votes, while the Samagi Jana Balaw
 
 ---
 
-### Sri Lanka President’s NPP sweeps Galle, Ratnapura postal votes
+### Sri Lanka President’s NPP sweeps Galle postal votes
 
 *2024-11-14 21:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-npp-sweeps-galle-postal-votes-187732/) · `en`
 
@@ -2269,5 +2039,303 @@ At the same time, people can see voting in the morning at other polling stations
 [Data](articles/0cc3f550.json)
 
 [Extended Data](ext_articles/0cc3f550.ext.json)
+
+---
+
+### US withdrawal of travel control
+
+*2024-11-14 12:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்-கட்டுப்பாட்டை-வாபஸ்-பெற்றது-அமெரிக்கா/175-347109) · `ta`
+
+US withdraws travel advisory for Arugambe, Sri Lanka. Embassy lifts security warning after consultation. Tourists encouraged to visit area again.
+
+🟩
+
+The US Embassy in Sri Lanka has announced that the US has received a travel control consultation on the tourism for the Arugampe area.
+
+On the 23rd of this month, the US embassy in Colombo gave security advice that "US citizens are urging citizens to avoid coming to the Healthy area until a re -announcement."
+
+In this context, the Foreign Ministry has asked the US embassy in Sri Lanka to regain the security warning imposed on Sri Lanka.
+
+The US Embassy in Sri Lanka has announced that the US has received a travel control consultation on tourism for the Arugambe area.
+
+◼️
+
+[Data](articles/9b561786.json)
+
+[Extended Data](ext_articles/9b561786.ext.json)
+
+---
+
+### Sri Lanka’s Blue Diamonds to offer digital certificates for gemstones for USD5
+
+*2024-11-14 11:48:00* · [`economynextcom`](https://economynext.com/sri-lankas-blue-diamonds-to-offer-digital-certificates-for-gemstones-for-usd5-187534/) · `en`
+
+ECONOMYNEXT – Blue Diamonds Jewellery Worldwide Plc (BDJ) said its online marketplace would offer digital certification services at 5 dollars a gem and private keys with every gemstone listed.
+
+“In addition, BDJ is thrilled to announce a strategic partnership with FiorGems.com, first-of-its-kind online marketplace in Sri Lanka and globally to integrate digital certificates and private keys with every gemstone listed,” the company said in a stock exchange filing.
+
+FiorGems.coms connects global gem suppliers directly with end consumers, providing a platform for both purchasing and reselling gemstones.
+
+“In the initial phase, BDJ and FiorGems.coms have partnered with over eight gemologists across Sri Lanka to offer digital certification services at an affordable rate of USD $5 per gem.”
+
+By adopting leading Web3 technology, FiorGems.coms ensures that every gemstone on the platform is supported by a secure, verifiable digital certification process.”
+
+...
+
+[Data](articles/cce1f149.json)
+
+[Extended Data](ext_articles/cce1f149.ext.json)
+
+---
+
+### Voting peacefully in Nuwara Eliya district
+
+*2024-11-14 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198652) · `ta`
+
+Nuwara Eliya voting begins 7am. Plantation workers casting ballots. Police ensuring security. 7% turnout reported. Weather warning: vote early, avoid evening.
+
+🟩
+
+Voting for the parliamentary elections will begin today (14) at 7 am.
+
+Especially in the hill country, the plantation people, including plantation people, go to polling stations and use their votes.
+
+At the same time, the police are engaged in security work and domestic foreign international monitors are paying their views.
+
+Meanwhile, Nuwara Eliya District Election Officer / District Secretary Nandana Kalada said that 7% of the votes were held in the Nuwara Eliya district until 8 am.
+
+He added that people should go to the polling booth in the morning as there will be inclement weather in the evening in Nuwara Eliya district.
+
+◼️
+
+[Data](articles/9bd76b97.json)
+
+[Extended Data](ext_articles/9bd76b97.ext.json)
+
+---
+
+### Another 33 trains canceled
+
+*2024-11-14 11:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலும்-33-ரயில்கள்-ரத்து/175-347107) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"33 trains canceled today: 10 this morn, 23 more due to driver shortage. Main road: 13 services; Coastal: 8; Puttalam: 6; Kelani Valley: 6."
+
+🟩
+
+The Railway Department said that 33 train services will be canceled today due to lack of drivers and drivers.
+
+They said 10 train services were canceled this morning as drivers and assistant drivers did not attend their duty.
+
+Due to the lack of drivers and drivers at present, 23 more trains are forced to be canceled today.
+
+Accordingly, 13 railway services on the main road, 8 railway services on the coastal road, 6 railway tracks on the Puttalam route and 6 more trains on the Kelani Valley path will be canceled today.
+
+◼️
+
+[Data](articles/810b4347.json)
+
+[Extended Data](ext_articles/810b4347.ext.json)
+
+---
+
+### The OIC of the Polhena polls dies suddenly
+
+*2024-11-14 11:31:16* · [`adalk`](https://www.ada.lk/breaking_news/පොල්හේන-ඡන්ද-මධ්‍යස්ථානයේ-ස්ථානාධිපතිවරිය-හදිසියේ-මිය-යයි/11-413034) · `si`
+
+OIC Polhena polls dies suddenly. Ballot center at Bhikku monastery affected. Identified as 48-year-old disabled officer from Colombo 12. Police investigation ongoing. Post-mortem ordered at Kalubowila Hospital.
+
+🟩
+
+Kesbewa Police say that the ballot center of the Bhikku monastery was suddenly suddenly ill in the center, Kesbewa Madapaka Polhena.
+
+The deceased is the 48 handicapped officer who worked as a Programs Actoricist in Colombo 12, Induruwagoda, Induruwagoda, Induruwagoda, Induruwagoda, Induruwagoda
+
+The deceased has been identified as two other officials with two other officials yesterday (13).
+
+The police officer was deceased and was identified as the artificial brief and was admitted to the Piliyan Hospital, providing the artificial respiratory by the arrival of the money.
+
+Police investigations have revealed that the deceased officer had been treated for a condition.
+
+The police were ordered to deposit the post mortem to the post mortem at the Kalubowila Teaching Hospital for post mortem to the post mortem examination.
+
+On the instructions of the OIC of the Kesbewa Police Chief Inspector Ranjana Samarasinghe
+
+◼️
+
+[Data](articles/74025563.json)
+
+[Extended Data](ext_articles/74025563.ext.json)
+
+---
+
+### Election Commission Chairman’s request to all voters
+
+*2024-11-14 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103396/election-commission-chairmans-request-to-all-voters-) · `en`
+
+The Election Commission of Sri Lanka requests voters to visit their respective voting centers in the morning and cast their votes at the earliest possible opportunities.
+
+The Chairman of the Election Commission, R.M.A.L. Ratnayake, urged voters to make sure that they take a valid document to confirm their identity when vising polling centers.
+
+However, he clarified that not receiving an official polling card will not be an obstacle for registered voters to cast their votes.
+
+...
+
+[Data](articles/ac118945.json)
+
+[Extended Data](ext_articles/ac118945.ext.json)
+
+---
+
+### Voting peacefully in the Mullaitivu district
+
+*2024-11-14 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198655) · `ta`
+
+Quiet start to voting in Mullaitivu district for parliamentary elections. 137 polling centers open, 86,869 eligible voters. Over 2,000 officials and police ensuring smooth process.
+
+🟩
+
+Voting for the parliamentary elections selecting new parliamentarians in the Mullaitivu district has begun quietly.
+
+As the voting records for the selection of new MPs commence at 7 am today, the people are excitedly voting at the Mullaitivu district polling stations to select new leaders.
+
+137 voting centers for voters voting in Mullaitivu district. 86,869 eligible to vote today to vote
+
+Are. More than 1,500 government officials and 500 police officers are involved in the election work and are on the occasion of election duty.
+
+◼️
+
+[Data](articles/a0638f28.json)
+
+[Extended Data](ext_articles/a0638f28.ext.json)
+
+---
+
+### Four polling centers on the same land
+
+*2024-11-14 11:14:33* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-මධ්‍යස්ථාන-හතරක්-එකම-භූමියක/11-413033) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Four polling stations at Adulgama Al Pali Maha Central College, Bandaragama. Majority Muslim area. Strict police security due to potential threats."
+
+🟩
+
+Four polling centers were held at the Adulgama Al Pali Maha Central College, Bandaragama, where the Muslim community is the majority.
+
+Seven (14) the 17th and a large number of the morning to the election. With firearms, fire had been subjected to strict police protection.
+
+◼️
+
+[Data](articles/35383526.json)
+
+[Extended Data](ext_articles/35383526.ext.json)
+
+---
+
+### Sri Lanka records 463 election complaints on day before voting
+
+*2024-11-14 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-records-463-election-complaints-on-day-before-voting-187528/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Election Commission had received 463 complaints on Wednesday (13) in the last 24 hours ahead of the Parliamentary Election on Thursday (14).
+
+A majority of the complaints were on election law violations, with only one incident reported of actual violence.
+
+Total complaints received by the commission since the election was declared on September 26 was 3,822.
+
+The number of incidents are considerably less compared to the total 8,683 reported in the previous parliamentary election in August 2022.
+
+Historically, Sri Lanka has seen violent incidents, sometimes even leading to deaths, in the run-up to general elections as not just opposing party candidates, but also inter-party contenders vie for preference votes (manapa poraya). (Colombo/Nov14/2024)
+
+◼️
+
+[Data](articles/8e802f4a.json)
+
+[Extended Data](ext_articles/8e802f4a.ext.json)
+
+---
+
+### Parliamentary Election 2024: Voting Rate Till 10 am!
+
+*2024-11-14 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198649) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's 10th parliamentary election underway. Voting rate at 10 AM: Colombo 20%, Kandy 25%, Nuwara Eliya 20%, Wanni 15%, Badulla 21%, Puttalam 22%, Kalutara 20%, Batticaloa 15%, Ampara 18%, Kegalle 20%, Jaffna 16%, Ratnaruwa 22%, Kurunegala 22%, Matara 10%, Trincomalee 23%. Voting continues nationwide from 7 AM to 4 PM.
+
+🟩
+
+Sri Lanka's 10th parliamentary election is being held on Thursday 14th.
+
+As such, the voting will be held nationwide from 7 am to 4 pm.
+
+Accordingly, the voting rates held at 10 am this morning
+
+Colombo 20%, Kandy 25%, Nuwara Eliya 20%, Wanni 15%, Badulla 21%, Puttalam 22%, Kalutara 20%, Batticaloa 15%, Ampara 18%, Kegalle 20%, Jaffna 16%, Ratnaruwa 22 22%, Kurunegala 22%, Matara 10%and Trincomalee 23%.
+
+◼️
+
+[Data](articles/d92af751.json)
+
+[Extended Data](ext_articles/d92af751.ext.json)
+
+---
+
+### Election voting peacefully in Negombo City
+
+*2024-11-14 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198647) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Elections proceed calmly in Negombo. Former Minister Nimal Lansa votes in Sakitam. Henry Rosiro Vijayarathinam casts ballot at Hindu Central College. Two polling stations serve 1,198 and 2,240 voters each.
+
+🟩
+
+Former Minister Nimal Lansa, who is contesting at the cylinder symbol in Gampaha district, came to his parish Sakitam at St. Sebastian College, Street, Negombo.
+
+Henry Rosiro Vijayarathinam, who is contesting in the symbol of the Gampaha district, registered our vote at the polling station set up at Hindu Central College.
+
+Two polling stations have been set up at Vijayaratnam Hindu Central College. One of them will vote for 1,198 voters and second 2240 voters.
+
+◼️
+
+[Data](articles/a39ca03d.json)
+
+[Extended Data](ext_articles/a39ca03d.ext.json)
+
+---
+
+### Election campaign on social media: Increase of complaints
+
+*2024-11-14 10:46:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-ஊடகங்களில்-தேர்தல்-பிரச்சாரம்-முறைப்பாடுகள்-அதிகரிப்பு/175-347104) · `ta`
+
+Social media election campaign complaints surge: 1,388 filed, 747 links removed, 2,033 received overall. Complaints focus on race, religion, personality, gender. 203 hate speech incidents reported.
+
+🟩
+
+The Elections Commission said that 1,388 complaints have been made regarding election campaigns through social media during this period of voting for the general election.
+
+In addition, 747 social media links have been removed from midnight on the 11th to 12 midnight.
+
+In addition, a total of 2,033 social media complaints have been received from October 11.
+
+A large number of complaints have been reported, based on race, religion, personality and gender.
+
+In addition, 203 incidents have been reported regarding hate speech and the Elections Commission said.
+
+◼️
+
+[Data](articles/4f17c2bd.json)
+
+[Extended Data](ext_articles/4f17c2bd.ext.json)
 
 ---

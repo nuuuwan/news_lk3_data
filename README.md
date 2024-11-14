@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 21:00:29**
+As of **2024-11-14 21:25:26**
 
 ## Newspaper Stats
 
-*Scraped **54,779** Articles*
+*Scraped **54,792** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,128 @@ economynextcom | 3,338
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,135
-adaderanalk | 6,539
-tamilmirrorlk | 7,697
-virakesarilk | 8,896
+adaderanalk | 6,543
+tamilmirrorlk | 7,699
+virakesarilk | 8,903
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,778 (100.0%) of 54,779 articles have been extended.
+54,784 (100.0%) of 54,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### ஊரடங்குச் சட்டம் அமுல்?
+### இரத்தினபுரி தபால் மூல தேர்தல் முடிவுகள்
+
+*2024-11-14 21:11:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இரத்தினபுரி-தபால்-மூல-தேர்தல்-முடிவுகள்/175-347153) · `ta`
+
+◼️
+
+[Data](articles/3fbf58e9.json)
+
+---
+
+### First official results
+
+*2024-11-14 20:58:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-உத்தியோகபூர்வ-முடிவுகள்/175-347151) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"1st official election results announced. Members elected for 10th Parliament."
+
+🟩
+
+The first official results of the election held to elect members of the 10th Parliament have now been released.
+
+◼️
+
+[Data](articles/56d42d71.json)
+
+[Extended Data](ext_articles/56d42d71.ext.json)
+
+---
+
+### Curfew law implementation?
 
 *2024-11-14 20:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊரடங்குச்-சட்டம்-அமுல்/175-347150) · `ta`
 
-ஊரடங்குச் சட்டத்தை அமுல்படுத்துவது தொடர்பில் அரசாங்கத்திடமிருந்து இதுவரையில் எவ்வித அறிவிப்பும் கிடைக்கவில்லையென்றும் ஜனாதிபதியே அது தொடர்பில் கலந்துரையாடி தீர்மானம் எடுப்பாரென்றும் பொலிஸ் ஊடகப் பேச்சாளர் பிரதிப் பொலிஸ் மா அதிபர் நிஹால் தல்துவ தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-தேர்தல் முடிவுகள் வெளியாகும் வரையில் நாட்டின் பாதுகாப்பு உறுதிப்படுத்தப்பட்டுள்ளதாகவும் ஊரடங்குச் சட்டம் அமுலாகுமா இல்லையா என்பதை உறுதியாகக் கூறமுடியாதென்றும் அவர் மேலும் சுட்டிகாட்டினார்.
 
-இதுவரையில் ஊரடங்குக்கான எந்தவொரு அறிவிப்பும் பொலிஸாருக்கு கிடைக்கவில்லை. அமைதியான முறையில் தேர்தல் செயற்பாடுகள் இடம்பெறுவதால் ஊரடங்குச் சட்டம் தொடர்பில் அரசாங்கம் எவ்வாறான தீர்மானம் எடுக்குமென்பதைக் கூறமுடியாது. எனவே, அரசாங்கம் அப்படியொரு தீர்மானத்தை அறிவிக்குமென்றால் பொதுமக்களுக்கு உடனடியாக அறிவிக்க நடவடிக்கை எடுப்போமென்றும் குறிப்பிட்டார்.
 
-கொழும்பில் இன்று மாலை இடம்பெற்ற ஊடக சந்திப்பில் செய்தியாளர்களின் கேள்விகளுக்குப் பதிலளிக்கும்போதே இவ்வாறு குறிப்பிட்டார்.
+Sri Lanka: Curfew unlikely due to peaceful elections. No official announcement yet. Police ready to act if ordered.
+
+🟩
+
+Police Media Spokesperson Deputy Inspector General of Police Nihal Dalduwa said that the president would take a decision on the implementation of the curfew.
+
+He further pointed out that the security of the country has been ensured until the election results are released and that the curfew will not be implemented.
+
+No notification for curfew so far is available to the police. It is impossible for the government to make a decision on the curfew as the election is being held peacefully. Therefore, if the government will announce such a resolution, we will take immediate action to announce the public.
+
+He was responding to questions from reporters at a media briefing held in Colombo this evening.
 
 ◼️
 
 [Data](articles/95706cc8.json)
+
+[Extended Data](ext_articles/95706cc8.ext.json)
+
+---
+
+### Opposition to the Opposition Newcomers
+
+*2024-11-14 19:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198729) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Opposition newcomers crucial for strong governance. PM Harini Amarasuriya emphasizes experienced candidates over inexperienced ones. Old politicians' track record scrutinized. Policy implementation begins post-parliament session. Local gov't elections planned according to court ruling.
+
+🟩
+
+Opposition to the ruling party should elect new people as if to choose new ones. Being the best and strong opposition is beneficial to the country. Prime Minister Harini Amarasuriya said that after the 21st, we will implement our policy plan properly.
+
+He was speaking to the media after voting on Thursday (14) in the Colombo -Mirihana area.
+
+We are not promoting the post, but we are looking for a strong parliament. We have the confidence that the majority of strength will be available. There is no contradiction within our team regarding positions.
+
+The first session of the 10th Parliament will meet on Thursday (21). We will better implement the policy plan that we put forward in the presidential election. We will take appropriate measures to hold the local government elections in accordance with the High Court ruling.
+
+When we refer to new people to parliament, the opposition should send the old people to Parliament. We need to explore what the old people did to the country.
+
+...
+
+[Data](articles/203fdc48.json)
+
+[Extended Data](ext_articles/203fdc48.ext.json)
+
+---
+
+### ‘Sarvajana Balaya’ aiming to make a mark in Sri Lankan politics
+
+*2024-11-14 19:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103412/sarvajana-balaya-aiming-to-make-a-mark-in-sri-lankan-politics) · `en`
+
+The leader of ‘Sarvajana Balaya’ alliance, Gampaha District parliamentary candidate entrepreneur Dilith Jayaweera voted in the 2024 General Election this afternoon (14) at the polling station established at Sri Chandrarama Viharaya in Nugegoda.
+
+Speaking to the media after casting his vote, Jayaweera stated: “Today marks another step in our journey towards building a happier nation. While our progress may be gradual, what matters the most is moving forward positively with a program that resonates with the people’s needs.”
+
+“Throughout this year’s election process, we have focused on a logical approach, aiming to gain public support through a clear, people-centered agenda”, he added.
+
+Furthermore, he expressed that the ‘Sarvajana Balaya’ aims to make a significant mark in Sri Lankan politics while representing the opposition in the Parliament.
+
+◼️
+
+[Data](articles/af1d226b.json)
+
+[Extended Data](ext_articles/af1d226b.ext.json)
 
 ---
 
@@ -96,6 +188,26 @@ Of the total complaints, the National Election Complaints Management Center has 
 
 ---
 
+### EC issues statement on release of election results
+
+*2024-11-14 18:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103411/ec-issues-statement-on-release-of-election-results) · `en`
+
+The Election Commission of Sri Lanka announced that with the voting process completed in the 2024 General Election today (14), vote counting will commence after 7:15 p.m. at the main counting centers after ballot boxes reach the respective counting centers.
+
+In a special media statement, Election Commission Chairman R.M.A.L. Ratnayake stated that as soon as the results are received from the returning officers, they will be re-checked and promptly released to the media.
+
+Results will be published in three phases: first at the constituency level, then at the district level, along with the announcement of the number of MPs each political party and independent group will receive.
+
+Preference counting will commence immediately at each counting center as results are released.
+
+...
+
+[Data](articles/78112d16.json)
+
+[Extended Data](ext_articles/78112d16.ext.json)
+
+---
+
 ### The Peace in the history of electoral was held
 
 *2024-11-14 18:53:43* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-ඉතිහාසයේ-සාමකාමීම-මැතිවරණය-පැවැත්වූවා/11-413041) · `si`
@@ -128,6 +240,32 @@ The President said that the people of the electoral elections were expected to b
 
 ---
 
+### Sangu seizes 10 seats in the North and East - Wealth
+
+*2024-11-14 18:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198726) · `ta`
+
+Sangu party aims for over 10 seats in North & East regions. Leader hopes to combine ethnic & economic issues for strong support in new government.
+
+🟩
+
+Former parliamentarian and leader of the RELO party, Selvam Adakkalanathan, has expressed hope that the Sangu will win more than 10 seats this time.
+
+He said this while commenting to the media after registering his votes at the St. Josevas Maha Vidyalaya at the Islands/St. Josevas Maha Vidyalaya on Thursday the 14th.
+
+The conch is hoping to have a huge success this time. Sangh's success in the North and East. The conch will receive more than ten seats in the North and East.
+
+We will get the slippery setting this time. People will give that decree. We will then work in the position of combining the ethnic problem and the economic problem with a decision that powerfully supports this new government.
+
+He said that there is hope that people will be given the opportunity to hold this government conditions.
+
+◼️
+
+[Data](articles/09687827.json)
+
+[Extended Data](ext_articles/09687827.ext.json)
+
+---
+
 ### The process of counting postal votes
 
 *2024-11-14 18:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்குகளை-எண்ணும்-பணி-ஆரம்பம்/175-347134) · `ta`
@@ -143,6 +281,24 @@ Elections Commissioner Saman Sri Ratnayake said that 2,034 stations have been se
 [Data](articles/64c01801.json)
 
 [Extended Data](ext_articles/64c01801.ext.json)
+
+---
+
+### President says Parliamentary Poll ‘most peaceful’ in Sri Lanka’s history
+
+*2024-11-14 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103410/president-says-parliamentary-poll-most-peaceful-in-sri-lankas-history) · `en`
+
+President Anura Kumara Dissanayake voted in Sri Lanka’s Parliamentary Election this afternoon (14) at the polling station established at Abeysingharamaya Temple in Panchikawatta.
+
+Speaking to the media after casting his vote, the President declared that this was the ‘most peaceful’ election in Sri Lanka’s history.
+
+Furthermore, Dissanayake, who predicted a victory for his party, highlighted that everyone should act responsibly not to cause harm to any other party supporters or members following their victory as well.
+
+The Head of the State also said: “The National People’s Power seeks a strong mandate from the people in this election, confident that such support will lead to a robust parliament. After our anticipated victory, we encourage all supporters to celebrate democratically and peacefully, ensuring that no harm or disturbance comes to other parties.”
+
+...
+
+[Data](articles/37451d7b.json)
 
 ---
 
@@ -264,6 +420,36 @@ The Commission has advised not to announce unofficial results until official res
 
 ---
 
+### நெடுந்தீவிலிருந்து ஹெலிகொப்டர் மூலம் எடுத்துச் செல்லப்பட்டது வாக்குப் பெட்டிகள்
+
+*2024-11-14 18:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198721) · `ta`
+
+பாராளுமன்றத் தேர்தல் தொடர்பாக, நெடுந்தீவில் அமைக்கப்பட்ட வாக்களிப்பு நிலையங்களில் இருந்து, வாக்குப்பெட்டிகளை கையளிப்பதற்கான ஹெலிகொப்டர் பி.ப 05.25 மணிக்கு வாக்கெண்ணும் நிலையமான யாழ்ப்பாணம் மத்திய கல்லூரி மைதானத்தில் தரையிறங்கியது.
+
+நெடுந்தீவிலிருந்து ஹெலிகொப்டர் மூலம் வருகை தந்த சிரேஷ்ட தலைமை தாங்கும் அலுவலர்களையும், விமானிகளையும் யாழ்ப்பாண மாவட்ட அரசாங்க அதிபரும் தெரிவத்தாட்சி அலுவலருமான மருதலிங்கம் பிரதீபன் மற்றும் உதவித் தேர்தல்கள் ஆணையாளர் இ.கி. அமல்ராஜ் , மற்றும் வடமாகாண பிரதிப் பொலிஸ்மா அதிபர் ஏ.ஜெ. ஹாலிங்க ஜெயசிங்க ஆகியோா் வரவேற்றார்கள்.
+
+◼️
+
+[Data](articles/dbfd3aa2.json)
+
+---
+
+### பொதுஜன பெரமுனவுக்கு சிறந்த பெறுபேறுகள் கிடைக்கும் என நம்புகின்றோம் - முன்னாள் ஜனாதிபதி மஹிந்த
+
+*2024-11-14 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198722) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுனவுக்கு பொதுத் தேர்தலில் சிறந்த பெறுபேறுகள் கிடைக்கும் என்று நம்புகின்றோம். அரசாங்கம் நாட்டைக் கட்டியெழுப்புவதற்கு  சகல பக்கங்களிலும் சவால்களை எதிர்கொண்டுள்ளதாக முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+
+வியாழக்கிழமை (24) அம்பாந்தோட்டை, டீ.ஏ.ராஜபக்ஷ தேசிய பாடசாலையில் வாக்களித்ததன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிட்ட போதே முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ இதனைத் தெரிவித்தார்.
+
+எமது அணிக்கு சிறந்த முடிவுகள் கிடைக்கும் என்று நம்புகின்றோம். எம்மிடமிருந்து பிரிந்து சென்றவர்கள் மீண்டும் இணையக் கூடிய வாய்ப்புக்களும் உள்ளன. தற்போதுள்ள அரசாங்கம் சகல பக்கங்களிலும் சவால்களை எதிர்கொண்டுள்ளது. நாட்டைக் கட்டியெழுப்புவதற்கு அரசாங்கம் கடும் நெருக்கடிகளை எதிர்கொள்ள வேண்டியேற்படும் என அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/0ef58d38.json)
+
+---
+
 ### Problem with the ax to go
 
 *2024-11-14 17:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கோடரியுடன்-சென்றதால்-சிக்கல்/175-347130) · `ta`
@@ -289,6 +475,42 @@ However, the vice president of the clan and his family did not vote.
 [Data](articles/45e3003c.json)
 
 [Extended Data](ext_articles/45e3003c.ext.json)
+
+---
+
+### பாராளுமன்றத் தேர்தல் 2024 : வாக்குப் பதிவு வீதம் !
+
+*2024-11-14 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198710) · `ta`
+
+இலங்கையின் 10 ஆவது பாராளுமன்றத் தேர்தலுக்கான வாக்களிப்பு நடவடிக்கைகள் நாடளாவிய ரீதியில் இன்று 14 ஆம் திகதி வியாழக்கிழமை காலை 7 மணி முதல்  பி.ப  4 மணிவரை நடைபெற்றது.
+
+நாடளாவிய ரீதியில் அமைதியான வாக்குப் பதிவுகள் இடபெற்ற நிலையில், சில இடங்களில் வன்முறைச் சம்பவங்களும் பதிவாகியிருந்தன.
+
+அந்தவகையில், கொழும்பில் 65 சத வீத வாக்குப் பதிவும், நுவரெலியாவில் 68  சத வீத வாக்குப் பதிவும் புத்தளத்தில் 56 சத வீத வாக்குப் பதிவும் மாத்தறையில் 64 சத வீத வாக்குப் பதிவும் பதுளையில் 67 சதவீத வாக்குப் பதிவும் மட்டக்களப்பில் 61 சத வீத வாக்குப் பதிவும் இடம்பெற்றுள்ளன.
+
+இதேவேளை, அநுராதபுரத்தில் 65 சத வீத வாக்குப் பதிவும் குருணாகலில் 64 சதவீத வாக்குப் பதிவும் இரத்தினபுரியில் 65 சத வீத வாக்குப் பதிவும் இடம்பெற்றுள்ளன.
+
+கேகாலையில் 64 சத வாக்குப் பதிவும் பொலன்னறுவையில் 65 சத வீத வாக்குப் பதிவும் வன்னியில் 65 சத வீத வாக்குப் பதிவும் ஹம்பாந்தோட்டையில் 60 சத வீத வாக்குப் பதிவும் காலியில் 64 சத வீத வாக்குப் பதிவும் திருகோணலையில் 67 வீத வாக்குப் பதிவும் மொனராகலையில் 61 சத வீத வாக்குப் பதிவும் இடம்பெற்றுள்ளது.
+
+...
+
+[Data](articles/2f9d6fbb.json)
+
+---
+
+### நினைத்தால் மீண்டும் தேர்தலில் களமிறங்குவேன் - முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன
+
+*2024-11-14 17:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198717) · `ta`
+
+நான் அரசியலிலிருந்து ஓய்வு பெறவில்லை. நினைத்தால் அடுத்த தேர்தலில் போட்டியிடுவேன். சர்வஜன பலய கட்சிக்கு நாடளாவிய ரீதியில் சிறந்த வரவேற்பிருக்கிறது. எனவே இந்த தேர்தலில் சிறந்த வெற்றியை எதிர்பார்ப்பதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன தெரிவித்தார்.
+
+வியாழக்கிழமை (14) தேர்தலில் வாக்களித்தன் பின்னர் ஊடகங்களுக்கு கருத்து வெளியிட்ட போது இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+சர்வஜன பலய கட்சிக்கு நாடளாவிய ரீதியில் சிறந்த வரவேற்பிருக்கிறது. எனவே இந்த தேர்தலில் சிறந்த வெற்றியை எதிர்பார்க்கின்றோம். அரசாங்கத்தின் சிறந்த தீர்மானங்களுக்கு ஒத்துழைப்பை வழங்குவோம். மாறாக மக்களுக்கு பாதகமான நடவடிக்கைகளுக்கு ஒருபோதும் இடமளிக்கப்பட மாட்டாது. நான் அரசியலிலிருந்து ஓய்வு பெறவில்லை. நினைத்தால் அடுத்த தேர்தலில் போட்டியிடுவேன் என்றார்.
+
+...
+
+[Data](articles/d76f9f88.json)
 
 ---
 
@@ -414,6 +636,24 @@ The number of drugs taken into custody is about 60 kilograms, Navy said.
 
 ---
 
+### Six arrested while transporting 60kg of narcotics in fishing trawler
+
+*2024-11-14 17:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103408/six-arrested-while-transporting-60kg-of-narcotics-in-fishing-trawler-) · `en`
+
+Sri Lanka Navy says a fishing boat transporting around 60kg of suspected narcotics has been intercepted in seas west of Sri Lanka and 6 suspects who were onboard the vessel have been taken into custody.
+
+It said that a special operation mounted on the high seas west of Sri Lanka led to the interception of a local multi-day fishing trawler and apprehension of 06 suspects today (14), for smuggling narcotics.
+
+It is suspected that the trawler is carrying about 60kg of narcotics, the navy said.
+
+The trawler along with the suspects and narcotics are being escorted ashore by the Navy for further investigation and onward legal action.
+
+◼️
+
+[Data](articles/475baa64.json)
+
+---
+
 ### Arrest
 
 *2024-11-14 17:14:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-கிழித்தவர்-கைது/175-347125) · `ta`
@@ -481,6 +721,24 @@ ECONOMYNEXT – Sri Lanka President Anura Dissanayake said a strong mandate in p
 [Data](articles/52d272c9.json)
 
 [Extended Data](ext_articles/52d272c9.ext.json)
+
+---
+
+### சிறுவனின் இடது கண்ணுக்கு பதில் வலது கண்ணில் தவறுதலாக அறுவை சிகிச்சை  ; இந்தியாவில் சம்பவம்
+
+*2024-11-14 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198703) · `ta`
+
+இந்தியாவில் உத்தர பிரதேச மாநிலம் கிரேட்டர் நொய்டா பகுதியில் உள்ள தனியார் வைத்தியசாலை ஒன்றில் சிறுவன் ஒருவனுக்கு இடது கண்ணுக்கு பதில் வலது கண்ணில் தவறுதலாக அறுவை சிகிச்சை  செய்யப்பட்டுள்ளது.
+
+7 வயது சிறுவனின் இடது கண்ணில் தொடர்ந்து நீர் வந்து கொண்டே இருந்ததால், அவனது பெற்றோர் அவனை வைத்தியசாலைக்கு அழைத்துச் சென்றுள்ளனர்.
+
+சிறுவனின் கண்ணை சோதனை செய்த வைத்தியர் அவனது கண்ணுக்குள் மெல்லிய பிளாஸ்டிக் போன்ற பொருள் இருப்பதாகவும், சிறிய அறுவை சிகிச்சை மூலம் அதனை அகற்றிவிடலாம் என்றும் கூறியுள்ளார். இதையடுத்து பெற்றோரின் சம்மதத்துடன் சிறுவனின் கண்ணில் அறுவை சிகிச்சை செய்யப்பட்டுள்ளது.
+
+ஆனால், சிறுவனின் இடது கண்ணுக்கு பதிலாக தவறுதலாக வலது கண்ணில் அறுவை சிகிச்சை செய்யப்பட்டிருந்ததைக் கண்டு பெற்றோர் அதிர்ச்சியடைந்தனர். இதைத் தொடர்ந்து சிறுவனின் பெற்றோர் மற்றும் உறவினர்கள் வைத்தியசாலையை முற்றுகையிட்டு போராட்டம் நடத்தினர்.
+
+...
+
+[Data](articles/e594fbf3.json)
 
 ---
 
@@ -2087,311 +2345,5 @@ The incident caused some stir at the polling station this morning and another po
 [Data](articles/016f283c.json)
 
 [Extended Data](ext_articles/016f283c.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 292.15/18 to dollar, bond trades quiet as voting begins
-
-*2024-11-14 09:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-292-15-18-to-dollar-bond-trades-quiet-as-voting-begins-187512/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 292.15/18 to the US dollar Thursday from 292.20/30 to the US dollar on Wednesday, dealers said, while bond trading was subdued as voting began.
-
-“Market is very quiet due to the election,” dealers said. Of the actively quoted bonds:
-
-A bond maturing on 15.03.2028 was quoted at 11.25/35 percent, up from 11.15/35 percent.
-
-A bond maturing on 01.05.2028 was quoted at 11.35/45 percent.
-
-In equities, Colombo’s All Share Price Index was trading up 0.69 percent, or 90.18 points higher at 13,215.37, while the S&P SL20 of more liquid stocks was up 0.98 percent or 30.73 points higher at 3,976.98.
-
-◼️
-
-[Data](articles/cc89d5a7.json)
-
-[Extended Data](ext_articles/cc89d5a7.ext.json)
-
----
-
-### I See You: A Thrilling Story That Transcends Life & Mortality
-
-*2024-11-14 09:20:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/i-see-you-a-thrilling-story-that-transcends-life-mortality/) · `en`
-
-Ramzi Zaindeen is a trainer by profession who mainly works on projects surrounding community development, leadership, entrepreneurship and peace-building. Trained in forum theatre by the British Council, he is also a huge fan of theatre work and does a variety of community based theatre that helps bring out community problems. He is an ardent admirer of art in general and is now a newly published author as well. His debut book, I See You published by The Jam Fruit Tree Publications was launched recently, which is a novel that holds a variety of exciting themes weaved around death, fate, philosophy, mystery, fantasy, etc with the most attention grabbing storylines and plot twists.
-
-“I still consider myself as a work-in-progress writer,” Ramzi said. “Writing is something I simply like to do because it helps me get into a certain zone.” As a student during his childhood, Ramzi had difficulty expressing himself verbally and therefore resorted to writing and composing poetry.
-
-...
-
-[Data](articles/4a47430c.json)
-
-[Extended Data](ext_articles/4a47430c.ext.json)
-
----
-
-### Sudden death of female officer in a polling station
-
-*2024-11-14 09:06:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையமொன்றின்-பெண்-பொறுப்பதிகாரி-திடீரென-மரணம்/175-347092) · `ta`
-
-Female officer dies of heart attack at polling station; 48-year-old assistant judge serving as election official in Kespeva Polhena area.
-
-🟩
-
-A woman who was working as an officer died of a heart attack at the polling station in the Polhena area of ​​Kespewa, Kesbhewa police said.
-
-According to police, Liyanage Samika Ruwani Liyanage, 48, who lives in No. 33B, Biyagala, Indruvagoda, has died.
-
-The woman, who is serving as an assistant judge at the Aluthgade Supreme Court in Colombo, has begun her duties as the author of the polling station established at the Kespeva Polhena Monastery yesterday morning.
-
-In this case. He had a sudden heart attack while staying in a room at 7.40 pm last night. The doctors said that the police officers immediately admitted him to the Piliyandala District Hospital for treatment.
-
-However, the police said that the polling booths have not been interrupted by the incident.. Remble
-
-◼️
-
-[Data](articles/e3dca2f1.json)
-
-[Extended Data](ext_articles/e3dca2f1.ext.json)
-
----
-
-### Plan to attack the polling station;Weapons recovery
-
-*2024-11-14 08:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/வாக்களிப்பு-நிலையத்தை-தாக்க-திட்டம்-ஆயுதங்கள்-மீட்பு/150-347088) · `ta`
-
-Attack planned on polling station foiled: weapons recovered including handgun, T-56 rifle, knives. Confession made by owner and residents. Police investigation ongoing.
-
-🟩
-
-Suriyawewa police said that the lorry, which was allegedly ready to attack the polling station, was found yesterday (13), a handgun, T-56 bullet, T shop rifle, two sharp knives and swords were found.. .
-
-The police said that the owner and residents of the lorry had subsequently filed a confession.
-
-Investigations carried out by the police in an emergency number 119 that the police had received information that the T-56 rifle was hidden in the lorry and was ready to attack the polling station, the bullets wrapped in the wax bag were hidden in the top of the T-CUT gun, bombs, and the top of the truck.
-
-Further investigations are being carried out by the lorry police. Remble
-
-◼️
-
-[Data](articles/03338ca8.json)
-
-[Extended Data](ext_articles/03338ca8.ext.json)
-
----
-
-### Plan to attack the polling station;Weapons recovery
-
-*2024-11-14 08:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்தை-தாக்க-திட்டம்-ஆயுதங்கள்-மீட்பு/175-347088) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Armed attack foiled at polling station. Police found handgun, T-56 rifle, knives, swords in truck. Owner confessed. Investigation ongoing.
-
-🟩
-
-Suriyawewa police said that the lorry, which was allegedly ready to attack the polling station, was found yesterday (13), a handgun, T-56 bullet, T shop rifle, two sharp knives and swords were found.. .
-
-The police said that the owner and residents of the lorry had subsequently filed a confession.
-
-Investigations carried out by the police in an emergency number 119 that the police had received information that the T-56 rifle was hidden in the lorry and was ready to attack the polling station, the bullets wrapped in the wax bag were hidden in the top of the T-CUT gun, bombs, and the top of the truck.
-
-Further investigations are being carried out by the lorry police. Remble
-
-◼️
-
-[Data](articles/2f17cc22.json)
-
-[Extended Data](ext_articles/2f17cc22.ext.json)
-
----
-
-### Heavy showers expected in parts of the island
-
-*2024-11-14 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103392/heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meterology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island after 2.00 p.m.
-
-Showers or thundershowers may occur in Northern and Eastern provinces and in Hambantota district during the morning too.
-
-Heavy showers about 100 mm are likely at some places in Western, Sabaragamuwa and North- western provinces and in Badulla, Galle and Matara districts. Fairly heavy showers about 75 mm are likely elsewhere, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning
-
-The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/057ec89b.json)
-
-[Extended Data](ext_articles/057ec89b.ext.json)
-
----
-
-### Showers in many parts of the provinces
-
-*2024-11-14 08:01:43* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413032) · `si`
-
-Sum: Showers/thundershowers forecasted nationwide. Heavy rain (100mm) expected in North/East & Western districts. Lightning danger. Public advised to take precautions.
-
-🟩
-
-Atmospheric atmospheric atmosphere to raise thundershowers in general area South
-
-The Met Department demands the public to take necessary steps to reduce the dangers of lightning.
-
-Showers or thundershowers will occur at several places in the country, and in the North and East, the Northern and Eastern Provinces
-
-Some of the Western, Sabaragamuwa, Colombo North North, Badulla, Golla and Matara districts
-
-At about 100 mm, there will be heavy rains and in some areas of other areas
-
-Heavy rains can occur and said.
-
-◼️
-
-[Data](articles/10fddb71.json)
-
-[Extended Data](ext_articles/10fddb71.ext.json)
-
----
-
-### 2024 General Election: Sri Lanka votes in crucial election today
-
-*2024-11-14 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103391/2024-general-election-sri-lanka-votes-in-crucial-election-today) · `en`
-
-Over 17 million Sri Lankans will have the chance to vote for the country’s tenth Parliament election weeks after Anura Kumara Dissanayake has won Sri Lanka’s presidential election after a historic second round of counting.
-
-This snap election, called by the new President, is expected to have significant ramifications for the nation’s political gridlock, particularly as the National People’s Power (NPP) party led by President Anura Kumara Dissanayake, which currently holds only three seats, seeks to establish itself as the dominant political force.
-
-A total of 17,140,354 Sri Lankans are eligible to vote in this year’s Parliamentary Election, with the Gampaha District registering the highest number of voters with 1,881,129.
-
-Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
-
-...
-
-[Data](articles/dbb79c7a.json)
-
-[Extended Data](ext_articles/dbb79c7a.ext.json)
-
----
-
-### Thunderstorm in the afternoon
-
-*2024-11-14 07:59:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிற்பகல்-வேளையில்-இடியுடன்-கூடிய-மழை/175-347087) · `ta`
-
-Afternoon thunderstorms forecasted nationwide. Heavy rains expected in Western, Sabaragamuwa, and North Western Provinces. Lightning and strong winds possible. Public advised to take precautions.
-
-🟩
-
-The Department of Weather forecasts that rain or thunderstorms are likely to occur in most parts of the country after 2.00 pm.
-
-Thundershowers or thunderstorms are expected in the morning in the Northern and Eastern Provinces and Hambantota district.
-
-Heavy rains are expected in some places in the Western, Sabaragamuwa and North Western Provinces and Badulla, Galle and Matara districts.
-
-In some other areas, there are about 75 millimeters of heavy rains.
-
-In the morning, the weather weather conditions in some places in the Western, Sabaragamuwa, Central and Uva Provinces and Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce the risk of temporary heavy winds and lightning with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/75531914.json)
-
-[Extended Data](ext_articles/75531914.ext.json)
-
----
-
-### The teacher who abused the student repeatedly
-
-*2024-11-14 07:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/மாணவனை-பலமுறை-துஸ்பிரயோகம்-செய்த-ஆசிரியர்/74-347086) · `ta`
-
-Teacher abuses 9-year-old student; magistrate orders 14-day detention. Incident occurs at school in Ampara district. Victim hospitalized, police investigating.
-
-🟩
-
-The Magistrate's Magistrate has ordered the 38 -year -old teacher who was sexually abused by a 9 -year -old student for 14 days.
-
-The 38 -year -old teacher, a 38 -year -old teacher, was arrested on a complaint lodged by the parents of the victim.
-
-The incident took place at a school in the Urban area of ​​the Samanthurai police division of the Ampara District.
-
-A complaint has been lodged with the teacher that the student has been taken to the sewage of the school and repeatedly sexually abused.
-
-The victim has been admitted to the Samanthurai Resource Hospital for treatment and further investigations are being carried out by the Samanthurai police.. Remble
-
-◼️
-
-[Data](articles/cca16fff.json)
-
-[Extended Data](ext_articles/cca16fff.ext.json)
-
----
-
-### Youth dies following firewood shooting
-
-*2024-11-14 07:35:10* · [`adalk`](https://www.ada.lk/breaking_news/බඩෝවිට-වෙඩි-තැබිමකින්-තරුණයෙක්-මරුට/11-413031) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Youth (29) fatally shot near home by unknown assailants. Victim died en route to hospital. Police investigating motive.
-
-🟩
-
-Mount Lavinia Police say that the shooting was killed in a shooting carried out by two unidentified persons near a Third stage of Phase 3 (13).
-
-The deceased has been identified as S de Ji Chathuranga was a 29-year-old Thand.
-
-The deceased has been shot dead in a motorcycle while staying near his home and killed the serious injury to the Kalubowage Sixty Hospital.
-
-The cause of the shooting is not yet revealed, police say. Mt.
-
-◼️
-
-[Data](articles/a6f31409.json)
-
-[Extended Data](ext_articles/a6f31409.ext.json)
-
----
-
-### Voting begins
-
-*2024-11-14 07:28:51* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-විමසීම-ඇරඹෙයි/11-413030) · `si`
-
-Parliament voting underway: 7am start, ends at 4pm today. Electoral commission encourages early voting.
-
-🟩
-
-Voting in Parliament Parliamentarian began at 7.00 am today. Voting is due to end at 4.00 pm. The electoral commission states that the morning to go to the polls and vote.
-
-◼️
-
-[Data](articles/dcc11bad.json)
-
-[Extended Data](ext_articles/dcc11bad.ext.json)
-
----
-
-### Voting starts in Sri Lanka’s parliamentary poll amid call for new political culture
-
-*2024-11-14 07:01:00* · [`economynextcom`](https://economynext.com/voting-starts-in-sri-lankas-parliamentary-poll-amid-call-for-new-political-culture-187410/) · `en`
-
-ECONOMYNEXT – Voting in Sri Lanka’s parliamentary poll started Thursday to elect 225 members to the parliament with President Anura Dissanyake seeking a majority to govern the sovereign debt defaulted nation amid calls for a new political culture without corruption and misappropriation of public funds.
-
-Samagi Jana Sandanaya led by Sajith Premadasa, the Sri Lanka Podujana Party of ex-President Mahinda Rajapaksa, the New Democratic Front made up breakaway legislators backing ex-President Ranil Wickremesinghe and minority parties in the North are seeking seats.
-
-President Dissanayake, leader was elected on September 21 has called a strong parliament mandate for him to eliminate corruption and punish the past leaders who would be proven to have misappropriated public funds.
-
-...
-
-[Data](articles/ec3b8594.json)
-
-[Extended Data](ext_articles/ec3b8594.ext.json)
 
 ---

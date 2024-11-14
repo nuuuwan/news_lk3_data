@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 05:10:38**
+As of **2024-11-14 05:49:09**
 
 ## Newspaper Stats
 
-*Scraped **54,655** Articles*
+*Scraped **54,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 424
 colombotelegraphcom | 557
 bbccomsinhala | 558
-islandlk | 3,269
+islandlk | 3,278
 economynextcom | 3,319
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,118
 adaderanalk | 6,526
-tamilmirrorlk | 7,654
+tamilmirrorlk | 7,655
 virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,655 (100.0%) of 54,655 articles have been extended.
+54,656 (100.0%) of 54,665 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -163,6 +163,34 @@ It is illegal to provide transport facilities for a candidate to go to voting ce
 [Data](articles/fd7c1c12.json)
 
 [Extended Data](ext_articles/fd7c1c12.ext.json)
+
+---
+
+### Put the point only
+
+*2024-11-14 01:45:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புள்ளடியை-மட்டும்-இடவும்/175-347082) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+RMAL Ratnayake: Use point system in general election, not numbers. Call for valid votes following proper method.
+
+🟩
+
+RMAL Ratnayake, Chairman of the Elections Commission, said that when voting in the general election on Thursday (14), only the point was used.
+
+The number or statistics were used as 1,2 and 3 when voting in the presidential election.
+
+However, the point should be used only when voting and voting in the general election.
+
+Therefore, the Chairman of the Elections Commission RMAL has called for voters to be transformed into a valid vote that follows the appropriate method.. Ratnayake said.
+
+◼️
+
+[Data](articles/25052a5f.json)
+
+[Extended Data](ext_articles/25052a5f.ext.json)
 
 ---
 
@@ -400,6 +428,32 @@ The police said that Kalkis has launched an investigation into the incident thro
 
 ---
 
+### Relieving Tired Eyes
+
+*2024-11-13 23:37:00* · [`islandlk`](http://island.lk/relieving-tired-eyes/) · `en`
+
+Steep two tea bags (black or green tea) in a mug of boiled water for 02 to 04 minutes and then remove the tea bags, and press out the excess water from the bags.
+
+Let the tea bags cool slowly at room temperature or chill in the refrigerator for 10 minutes.
+
+Your cold brew might give you a refreshing jolt, but a caffeine fix for the skin can also help calm blotchiness or swelling.
+
+Start by freezing some brewed coffee in an ice cube tray. Once the coffee ice is ready, spend a few minutes gently rubbing an ice cube: under your eyes, along your brows, across the bridge of your nose, and from the outer corners of your eyes to your temples
+
+Place the slices over your closed eyes for about 15 minutes.
+
+As an alternative, try cold spoons. They can help constrict blood vessels and reduce areas of under-eye darkness.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/cdde9d7c.json)
+
+---
+
 ### Strategy to deflate systemic debt and to support growth
 
 *2024-11-13 23:35:08* · [`dailyftlk`](https://www.ft.lk/columns/Strategy-to-deflate-systemic-debt-and-to-support-growth/4-769216) · `en`
@@ -451,6 +505,84 @@ Was it a counter-revolution or a revolution? Critics would argue the former; fan
 [Data](articles/34e87f95.json)
 
 [Extended Data](ext_articles/34e87f95.ext.json)
+
+---
+
+### Prime Lands recognised for excellence on global stage with double wins at World Business Outlook Awards 2024
+
+*2024-11-13 23:13:00* · [`islandlk`](http://island.lk/prime-lands-recognised-for-excellence-on-global-stage-with-double-wins-at-world-business-outlook-awards-2024/) · `en`
+
+Prime Lands (Pvt) Ltd, Sri Lanka’s trailblazer in real estate industry, has made a resounding mark on the global stage at the World Business Outlook Awards 2024 in Thailand. The company was honoured with the titles ‘Best Real Estate Company of the Year Sri Lanka 2024’ and ‘Best Real Estate Project of the Year Sri Lanka 2024’ for its vibrant YOLO project. The awards reflect Prime Lands’ commitment to innovation, dedication to excellence, and world-class standards that continue to redefine real estate landscape.
+
+...
+
+[Data](articles/ff6c310b.json)
+
+---
+
+### Fems elevates feminine hygiene with 3X Protection
+
+*2024-11-13 23:12:00* · [`islandlk`](http://island.lk/fems-elevates-feminine-hygiene-with-3x-protection/) · `en`
+
+Fems, the trusted name in feminine hygiene, has relaunched its sanitary napkin line, with an all-new 3X Protection technology designed to offer unparalleled comfort & safety, and featuring enhanced packaging designed to better inform and empower consumers.
+
+The relaunch highlights the brand’s commitment to providing superior protection and comfort inspiring Sri Lankan women to live lives confidently, free from worries about leaks and discomfort.
+
+The Fems range showcases a fresh packaging design that reflects innovation and care that goes into each product. The range includes Fems Cotton Feel (Pink Pack), Fems Drytex (Purple Pack), and Fems Heavy Flow (Turquoise Blue Pack).
+
+Fems understand the diverse needs of women and the relaunch is focused on enhancing the customer experience by clearly communicating the unique benefits and features of the products ensuring every woman feels confident, comfortable, and protected throughout her day.
+
+...
+
+[Data](articles/c57b12f6.json)
+
+---
+
+### Invest in education plans: Securing the future of the nation’s children
+
+*2024-11-13 23:11:00* · [`islandlk`](http://island.lk/invest-in-education-plans-securing-the-future-of-the-nations-children/) · `en`
+
+A strong educational foundation is one of the most powerful investments we can make in our children’s future. In 2023, data from the Department of Census and Statistics revealed that over 3.88 million children were enrolled across 9,103 government schools, while over 137,869 attended private institutions. These young learners, aged 6 to 18, represent the promise of our nation’s future, and supporting their educational journey is crucial for building a brighter and a more prosperous tomorrow.
+
+The rising cost of education, whether locally or abroad makes early financial planning crucial. Limited access to state universities and the increasing trend of pursuing higher education overseas highlight the need for structured savings. Education insurance offers a solution that combines savings with financial protection, ensuring children’s education is uninterrupted, even in uncertain times.
+
+...
+
+[Data](articles/b339094e.json)
+
+---
+
+### Hayleys Fentons triumphs at the CNCI Achiever Awards 2024
+
+*2024-11-13 23:10:00* · [`islandlk`](http://island.lk/hayleys-fentons-triumphs-at-the-cnci-achiever-awards-2024/) · `en`
+
+Hayleys Fentons Limited has achieved remarkable success at the prestigious CNCI Achiever Awards 2024, winning 05 awards for business and engineering excellence.
+
+The awards, organised by the Ceylon National Chamber of Industries (CNCI), recognise and celebrate the outstanding contributions of local industrialists in Sri Lanka’s manufacturing and service sectors.
+
+Hayleys Fentons Limited secured the Gold Award in the National Level Service Sector – Extra Large Category, marking a significant milestone in the company’s journey. Additionally, the company was honoured with the Top Ten Award by the CNCI, solidifying its position as a leader in the engineering industry.
+
+Fentons Smart Facilities (PVT) Limited won the Gold Award in the National Level Service Sector – Small Category for exceptional repairs and maintenance services.
+
+...
+
+[Data](articles/0bcb6233.json)
+
+---
+
+### Bullish uptick in share market as country goes to the polls
+
+*2024-11-13 23:06:00* · [`islandlk`](http://island.lk/bullish-uptick-in-share-market-as-country-goes-to-the-polls/) · `en`
+
+The CSE was bullish yesterday ahead of the general election and also in consideration of the impending debt restructuring process, stock market analysts said.
+
+“With one election over, the market is expecting the same sentiment to continue. There is a reduction in political uncertainty. Further, banking sector counters were very active and half of their turnover was reported from a DFCC Bank crossing and retail trading, market analytics added.
+
+Amid those developments the ASPI closed in green on most days and the All Share Price Index crossed the 13,000 mark. The All Share Price Index went up by 136.2 points while S and P SL20 rose by 54.56 points.
+
+...
+
+[Data](articles/127c59fe.json)
 
 ---
 
@@ -876,6 +1008,28 @@ Michelle Hi, Tim Robinson and Nathan Smith were the debutants of the Internation
 
 ---
 
+### Korean SME Association offers support to Sri Lanka’s Agriculture and fishing Industries
+
+*2024-11-13 19:14:00* · [`islandlk`](http://island.lk/korean-sme-association-offers-support-to-sri-lankas-agriculture-and-fishing-industries/) · `en`
+
+The Korean Small and Medium Enterprise (SME) Association has expressed its commitment to support Sri Lanka in advancing the agriculture sector and enhancing related employment opportunities.
+
+Additionally, the association has agreed to provide technical assistance and training Sri Lankan workers locally for Korea’s fishing industry and creating employment opportunities for them.
+
+These topics were highlighted during a meeting held today (13) at the Presidential Secretariat between a delegation led by Kim Chung Ryong, President of the Korean SME Association and officials from the President’s Office.
+
+Sri Lankans living overseas can request birth, marriage, and death certificates through embassies in Kuwait, Japan, Qatar, Australia, Canada, Italy, and Dubai
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/83b7e872.json)
+
+---
+
 ### நீலகாமத்தில் முறிந்தது ஆலமரம்: இருவர் காயம்
 
 *2024-11-13 19:11:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நீலகாமத்தில்-முறிந்தது-ஆலமரம்-இருவர்-காயம்/76-347069) · `ta`
@@ -923,6 +1077,22 @@ Court of Appeal, Judge Shashi Mahendran, with a group of parents had complained 
 [Data](articles/b63e9f6d.json)
 
 [Extended Data](ext_articles/b63e9f6d.ext.json)
+
+---
+
+### ICTA’s new Board of Directors hold inaugural meeting
+
+*2024-11-13 19:07:00* · [`islandlk`](http://island.lk/ictas-new-board-of-directors-hold-inaugural-meeting/) · `en`
+
+The newly appointed Board of Directors of the Information and Communication Technology Agency (ICTA) convened for their first meeting this afternoon (13).
+
+President Anura Kumara Dissanayake recently appointed Dr. Hans Wijeyasuriya, as the Principal Presidential Advisor on Digital Economy, chaired the board in a non-executive role. Dr. Wijeyasuriya’s leadership reflects a commitment to strengthening Sri Lanka’s digital economy, aiming to boost economic growth, enhance national competitiveness, and deliver meaningful digital benefits to citizens.
+
+Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Cooray, Bandula Ranatunga, Jeffrey Sulfer, Samisa Abeysinghe, and Shanaka Rebel.
+
+...
+
+[Data](articles/6e5183df.json)
 
 ---
 
@@ -2179,229 +2349,5 @@ Perera is a chartered accountant by profession and a former partner of KPMG.
 [Data](articles/31640e01.json)
 
 [Extended Data](ext_articles/31640e01.ext.json)
-
----
-
-### Sujeewa Rajapakse leaves Sri Lanka’s Dipped Products board
-
-*2024-11-13 12:01:00* · [`economynextcom`](https://economynext.com/sujeewa-rajapakse-resigns-from-sri-lankas-dipped-products-board-187088/) · `en`
-
-ECONOMYNEXT- Sujeewa Rajapakse, who is also the chairman of the state-owned People’s Bank, will resign from the board of Dipped Products Plc, a subsidiary of Hayley’s Plc, the company said in a stock exchange filing.
-
-Rajapakse has served on the board for nine years and will step down from the positions of chairman of the audit committee and independent non-executive director from November 12 and 30 respectively.
-
-Pathiranage Yohan Srineth Perera, an independent non-executive Director will replace Rajapakse as the chairman of the audit committee, the company said.
-
-Perera is a chartered accountant by profession and a former partner of KPMG.
-
-◼️
-
-[Data](articles/62daa238.json)
-
-[Extended Data](ext_articles/62daa238.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-13 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/198571) · `ta`
-
-Here's a summary of the currency exchange rate in 200 characters:
-
-
-
-US Dollar: 1 USD = 287.9534 INR (buying) / 296.9762 INR (selling) on Wednesday, 13th
-
-🟩
-
-The US dollar purchasing price was 287.9534 rupees and the sales price were 296.9762 on Wednesday (13).
-
-◼️
-
-[Data](articles/44c8f994.json)
-
-[Extended Data](ext_articles/44c8f994.ext.json)
-
----
-
-### "This time the Election Commission is expensive"
-
-*2024-11-13 11:50:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இம்முறை-தேர்தல்-ஆணைக்குழுவிற்கு-செலவு-அதிகம்/175-347057) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Election Commission faces higher costs due to more voting centers, candidates, and special arrangements. Exact expense increase will be determined post-election."
-
-🟩
-
-The Commissioner General of Elections yesterday (13) said that the Election Commission has paid additional expenses on additional voting centers, documentation and polling printing.
-
-Elections Commissioner Saman Sri Ratnayake told the Daily Mirror that the number of candidates increased as a result of the increase in the number of candidates.
-
-He said the number of voting centers was increasing to 2034 this time from 1713.
-
-“All of this costs extra for the election office. However, the accurate cost hike can only be known only after the proper estimates have been made following the voting, ”he said.
-
-The Election Commission said that 60 voting centers arranged in Buddhist temples have been replaced due to the 'Hard Pingama' (Poya Day Buddhist Worship), flood threats and access to disabled voters.
-
-Voting will be held tomorrow from 7 am to 4 pm at 13,421 polling stations across the country.
-
-...
-
-[Data](articles/5d2e2d89.json)
-
-[Extended Data](ext_articles/5d2e2d89.ext.json)
-
----
-
-### Sri Lanka rupee trading stronger at 292.25/35 to dollar, bond yields down further
-
-*2024-11-13 11:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-trading-stronger-at-292-25-35-to-dollar-bond-yields-down-further-187090/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was trading stronger at 292.25/35 to the US dollar Wednesday from 292.45/55 to the US dollar on Tuesday, dealers said, while bond yields were considerably down.
-
-A bond maturing on 15.12.2027 was quoted at 10.95/11.05 percent, from 11.10/25 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.25/33 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.60/70 percent, down from 11.65/80 percent.
-
-An auction of 147,500 million rupees of treasury bills was ongoing.
-
-In equities, Colombo’s All Share Price Index was trading up 0.66 percent, or 85.09 points higher at 13,074.08, while the S&P SL20 of more liquid stocks was up 1.00 percent or 38.78 points higher at 3,925.94.
-
-◼️
-
-[Data](articles/768439ae.json)
-
-[Extended Data](ext_articles/768439ae.ext.json)
-
----
-
-### Selby from the running train; two men injured
-
-*2024-11-13 11:23:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓடும்-ரயிலில்-இருந்து-செல்பி-இருவர்-படுகாயம்/175-347054) · `ta`
-
-Korean tourist dies taking selfie on moving train in Sri Lanka. Two men injured in separate incidents at Haputale railway station. Police investigating.
-
-🟩
-
-A Korean tourist who tried to take a selfie from a running train died tragically.
-
-On Monday night (11), a foreigner, who was traveling on a fast train heading to Badulla, was hit by a railway line when he was standing in a train staircase near the Haputtala railway station.
-
-The injured tourist has been taken to the Diyathalawa Hospital and transferred to the Badulla Teaching Hospital in critical condition, police said.. The victim has been identified as Sholi Tong Bay, a 61 -year -old Korean tourist.
-
-Dr. Palitha Rajapaksa, a senior medical officer of the Badulla Teaching Hospital's Emergency Department, said that a Korean tourist head injury was severely injured.
-
-Meanwhile, a woman from Ratgama area was traveling to Badulla on a night postal train and fell off a running train when he was trying to board a running train at the Haputhal Railway Station.
-
-...
-
-[Data](articles/291f8a12.json)
-
-[Extended Data](ext_articles/291f8a12.ext.json)
-
----
-
-### Complaint regarding slandered video recordings
-
-*2024-11-13 10:58:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவதூறான-வீடியோ-பதிவு-தொடர்பில்-முறைப்பாடு/175-347053) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prathaz Nalimi filed a complaint with Kattankudy CID about slanderous video recordings on social media. Police and Computer Crime Unit launched investigations. Legal action will follow through his lawyers soon.
-
-🟩
-
-Prathaz Nalimi has lodged a complaint with the Kattankudy Police Criminal Investigation Division (CID) on Tuesday night (12).
-
-A complaint has been lodged with evidence regarding the video producers, uploaded on social media and shared.
-
-Following this, the Police Criminal Investigation Department and the Computer Criminal Investigation Department (CID) have begun investigations and legal action will be taken through his lawyers soon.
-
-◼️
-
-[Data](articles/96c7dad3.json)
-
-[Extended Data](ext_articles/96c7dad3.ext.json)
-
----
-
-### Voting boxes to polling stations in Batticaloa district
-
-*2024-11-13 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198563) · `ta`
-
-Election preparations underway in Batticaloa: 300+ vehicles, 6750 officials, 442 polling stations, including Hindu College. Postal vote counting at 9 stations, regular votes at 37.
-
-🟩
-
-Sri Lanka's parliamentary general election will be held tomorrow morning (13).
-
-Steps have been taken from the main election office set up at the Hindu College, Batticaloa, to the voting boxes from this morning.
-
-Batticaloa District Government Agent and District Reported Officer Mrs. J. Jasreena Muralitharan is being carried out by the polling box.
-
-More than 300 vehicles have been used for transportation for election duties today, the District Election Office said.
-
-6,750 government officials have been appointed for election duties this time. 442 polling stations have been set up. Hindu College has been set up this time as a polling station. 46 stations have been set up there. There have been 9 stations to count the postal votes and 37 stations to count the other votes.
-
-◼️
-
-[Data](articles/73d92cc0.json)
-
-[Extended Data](ext_articles/73d92cc0.ext.json)
-
----
-
-### The Tamil people should gather as a nation and vote for the welfare of the Tamil nationalism- Canadian Tamil nationalism
-
-*2024-11-13 10:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198562) · `ta`
-
-Tamil nationalism calls for national unity and collective welfare through voting in Canadian and Sri Lankan elections. The movement aims to reinforce the 75-year-old liberation struggle and seek UN-backed self-determination for the Tamil people.
-
-🟩
-
-The Canadian Tamil National Alliance has appealed to the Tamil people to mobilize as a nation and vote for the welfare of the Tamil nationalism.
-
-The Tamil people have chosen their representatives by voting their votes to highlight the collective welfare of the Tamil nationality, not to highlight the individual welfare in the ongoing elections.
-
-Similarly, in the Sri Lankan parliamentary elections to be held on November 14, the Tamils ​​gathered as a nation for more than 75 years and the liberation struggle for more than 75 years will be reinforced.
-
-The Tamil people have chosen their representatives by voting their votes to highlight the collective welfare of the Tamil nationality, not to highlight the individual welfare in the ongoing elections.
-
-Similarly, in the Sri Lankan parliamentary elections to be held on November 14, the Tamils ​​gathered as a nation for more than 75 years and the liberation struggle for more than 75 years will be reinforced.
-
-...
-
-[Data](articles/faecfede.json)
-
-[Extended Data](ext_articles/faecfede.ext.json)
-
----
-
-### Preparation ....
-
-*2024-11-13 10:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-செய்திகள்/வாக்குப்பெட்டிகள்-கொண்டுசெல்லும்-நடவடிக்கை-ஆரம்பம்/46-347051) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"General election preparations underway: Voting boxes and officials are being transported to polling stations nationwide for Thursday's vote."
-
-🟩
-
-Voting boxes and officials for the general election, which will be held on Thursday (14) across the country, are being carried out to polling stations.
-
-◼️
-
-[Data](articles/21627fd2.json)
-
-[Extended Data](ext_articles/21627fd2.ext.json)
 
 ---

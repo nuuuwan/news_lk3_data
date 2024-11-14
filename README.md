@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 18:37:56**
+As of **2024-11-14 18:51:14**
 
 ## Newspaper Stats
 
-*Scraped **54,756** Articles*
+*Scraped **54,758** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,133
 adaderanalk | 6,539
-tamilmirrorlk | 7,692
+tamilmirrorlk | 7,694
 virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
@@ -26,25 +26,77 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,752 (100.0%) of 54,756 articles have been extended.
+54,758 (100.0%) of 54,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### மலையக நிருபர் மீது தாக்குதல்
+### The process of counting postal votes
+
+*2024-11-14 18:41:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தபால்-வாக்குகளை-எண்ணும்-பணி-ஆரம்பம்/175-347134) · `ta`
+
+Postal vote counting process: 2,034 stations set up nationwide for tabulation.
+
+🟩
+
+Elections Commissioner Saman Sri Ratnayake said that 2,034 stations have been set up across the country to count the votes.
+
+◼️
+
+[Data](articles/64c01801.json)
+
+[Extended Data](ext_articles/64c01801.ext.json)
+
+---
+
+### "We already have a L Port."
+
+*2024-11-14 18:33:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எம்மிடம்-ஏற்கனவே-எல்-போர்ட்-நிர்வாகமே-இருக்கிறது/175-347133) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka's former president warns low voter turnout may create uncertainty. He mentions "L Port" administration, suggesting existing governance structure should remain unchanged.
+
+🟩
+
+Former President Ranil Wickremesinghe has said that the inspiration for the general election is low and it may create uncertainty.
+
+When voting this morning, he predicted that voting would be low.
+
+"There is a low voting and creates uncertainty because it affects any party," Wickremesinghe told reporters after voting.
+
+"We already have the 'L Port' administration, so the law should not be the same," he added.
+
+◼️
+
+[Data](articles/66de704a.json)
+
+[Extended Data](ext_articles/66de704a.ext.json)
+
+---
+
+### Attack on Mountain Reporter
 
 *2024-11-14 18:26:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மலையக-நிருபர்-மீது-தாக்குதல்/76-347132) · `ta`
 
-பாராளுமன்ற தேர்தல் தொடர்பில் ஊடகங்களுக்கு செய்தி சேகரிக்கச் சென்ற பொகவந்தலாவ பிரதேச பிராந்திய ஊடகவியலாளர் ஒருவர் கூரிய ஆயுதத்தால் தாக்கப்பட்டதில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Journalist attacked near polling station in Bogawantalawa. Regional correspondent hospitalized after sharp weapon assault. Police investigating incident.
 
-தமிழ் இலத்திரனியல் மற்றும் அச்சு ஊடகங்கள் பலவற்றின் பிராந்திய நிருபராகப் பணிபுரியும் பொகவந்தலாவ எஸ்.சதீஸ்குமார் கூரிய ஆயுதத்தால் தலையில் தாக்கப்பட்டு பலத்த காயங்களுக்குள்ளாகி பொகவந்தலாவ பிரதேச வைத்தியசாலையில் வியாழக்கிழமை (14) அனுமதிக்கப்பட்டு மேலதிக சிகிச்சைக்காக டிக்கோயா கிளங்கன் வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளார்.
+🟩
 
-பொகவந்தலாவ கெக்கர்ஸ்வோல்ட் இலக்கம் 2 தமிழ் வித்தியாலயத்தில் அமைக்கப்பட்டிருந்த வாக்களிப்பு நிலையத்திற்கு அருகில் இந்த தாக்குதல் சம்பவம் இடம்பெற்றதாகவும், குறித்த நபர் ஒருவர் தனக்குப் பின்னால் வந்து அருகில் கடையொன்றில் இருந்து கத்தியை எடுத்து தனது தலையில் தாக்கியதாக சதீஸ்குமார் தெரிவித்தார். மேலும், சம்மந்தப்பட்ட சந்தேக நபர் மதுபோதையில் இருந்ததாகவும் அவர் தெரிவித்துள்ளார். சம்பவம் தொடர்பில் பொலிஸார் மேலதிக விசாரணைகளை முன்னெடுத்துள்ளமை குறிப்பிடத்தக்கது.
+A regional journalist in Bogawantalawa, who went to collect news to the media regarding the parliamentary election, has been admitted to the hospital after being attacked with sharp weapons.
+
+Bogawantalawa S. Satheeskumar, who works as a regional correspondent of many Tamil electronic and print media, has been admitted to the Bogawantalawa Divisional Hospital on Thursday (14).
+
+Sathiskumar said that the attack had taken place near the polling station at the Bogawantalawa Kekarswold No. 2 Tamil Vidyalaya.. He also said that the suspect was in the liquor.. It is noteworthy that the police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/b80e6e45.json)
+
+[Extended Data](ext_articles/b80e6e45.ext.json)
 
 ---
 
@@ -196,17 +248,23 @@ In some cases the two may be imposed. So everyone is obliged to protect the basi
 
 ---
 
-### මත්ද්‍රව්‍ය ක්‍රිලෝග්‍රෑම් 60ක් සමග බහුදින ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට
+### Navy bears multi-day fishing vessel with 60 drugs
 
 *2024-11-14 17:19:23* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ක්‍රිලෝග්‍රෑම්-60ක්-සමග-බහුදින-ධීවර-යාත්‍රාවක්-නාවික-හමුදා-භාරයට/11-413039) · `si`
 
-ශ්‍රී ලංකාවට බටහිර දෙසින් ගැඹුරු මුහු​දේ සිදු කළ විශේෂ මෙහෙයුමකදී මත්ද්‍රව්‍ය සමග බහුදින ධීවර යාත්‍රාවක් නාවික හමුදා භාරයට ගෙන තිබේ.
+Sri Lanka Navy seizes multi-day fishing vessel off west coast, confiscates 60 kg drugs in special operation.
 
-එලෙස නාවික හමුදා භාරයට ගත් මත්ද්‍රව්‍ය ප්‍රමාණය කිලෝග්‍රෑම් 60ක් පමණ වන බව නාවික හමුදාව සඳහන් කළේය.
+🟩
+
+Navy seized a multi-day fishing vessel in a special operation to the west of Sri Lanka.
+
+The number of drugs taken into custody is about 60 kilograms, Navy said.
 
 ◼️
 
 [Data](articles/f6117145.json)
+
+[Extended Data](ext_articles/f6117145.ext.json)
 
 ---
 
@@ -1510,15 +1568,25 @@ The first election results of the 2024 parliamentary election will be released a
 
 ---
 
-### தேர்தல் முடிவுகள் இரவு 10 மணிக்கு வெளியாகும்
+### Election results will be released at 10 pm
 
 *2024-11-14 09:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகள்-இரவு-10-மணிக்கு-வெளியாகும்/175-347096) · `ta`
 
-2024 பாராளுமன்றத் தேர்தலின் முதல் தேர்தல் முடிவுகள் இரவு 10 மணிக்கு வெளியாகும். தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க இன்று தெரிவித்தார்.
+Here's a summary in 200 characters:
+
+
+
+"2024 parliamentary election results: First batch announced at 10 PM. Election Commissioner Saman Sri Ratnayake confirms."
+
+🟩
+
+The first election results of the 2024 parliamentary election will be released at 10 pm. Elections Commissioner Saman Sri Ratnayake said today.
 
 ◼️
 
 [Data](articles/ebf7b6b8.json)
+
+[Extended Data](ext_articles/ebf7b6b8.ext.json)
 
 ---
 
@@ -1698,21 +1766,31 @@ Further investigations are being carried out by the lorry police. Remble
 
 ---
 
-### வாக்களிப்பு நிலையத்தை தாக்க திட்டம் ; ஆயுதங்கள் மீட்பு
+### Plan to attack the polling station;Weapons recovery
 
 *2024-11-14 08:32:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலையத்தை-தாக்க-திட்டம்-ஆயுதங்கள்-மீட்பு/175-347088) · `ta`
 
-வாக்களிப்பு நிலையத்தை தாக்க தயாராக இருந்ததாகக் கூறப்படும் லொறியை நேற்று (13)  சோதனையிட்ட போது கைக்குண்டு, டி-56 தோட்டா, டி கடக் துப்பாக்கி, இரண்டு கூரிய கத்திகள் மற்றும் வாள் ஒன்று கண்டுபிடிக்கப்பட்டுள்ளதாக சூரியவெவ பொலிஸார் தெரிவித்தனர். .
+Here's a summary of the text in approximately 200 characters:
 
-இதையடுத்து லொறியின் உரிமையாளர் மற்றும் குடியிருப்பாளர்களிடம் வாக்குமூலம் பதிவு செய்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
 
-லொறியில் T-56 துப்பாக்கி மறைத்து வைக்கப்பட்டு வாக்களிப்பு நிலையத்தை தாக்குவதற்கு தயாராக இருப்பதாக பொலிஸ் அவசர இலக்கமான 119 க்கு கிடைத்த தகவலுக்கு அமைய  பொலிஸார் உடனடியாக செயற்பட்டு மேற்கொண்ட விசாரணைகளின் போது T-cut துப்பாக்கி, வெடிகுண்டுகள், மற்றும் லாரியின் மேல் பகுதியில் மெழுகு பையில் சுற்றப்பட்ட தோட்டாக்கள் மறைத்து வைக்கப்பட்டிருந்தன.
 
-இந்த தொடர்பில் மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ள நிலையில், லொறி பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது. R
+Armed attack foiled at polling station. Police found handgun, T-56 rifle, knives, swords in truck. Owner confessed. Investigation ongoing.
+
+🟩
+
+Suriyawewa police said that the lorry, which was allegedly ready to attack the polling station, was found yesterday (13), a handgun, T-56 bullet, T shop rifle, two sharp knives and swords were found.. .
+
+The police said that the owner and residents of the lorry had subsequently filed a confession.
+
+Investigations carried out by the police in an emergency number 119 that the police had received information that the T-56 rifle was hidden in the lorry and was ready to attack the polling station, the bullets wrapped in the wax bag were hidden in the top of the T-CUT gun, bombs, and the top of the truck.
+
+Further investigations are being carried out by the lorry police. Remble
 
 ◼️
 
 [Data](articles/2f17cc22.json)
+
+[Extended Data](ext_articles/2f17cc22.ext.json)
 
 ---
 
@@ -2267,61 +2345,5 @@ Knowing the opportunities and challenges, a wide range of companies such as the 
 [Data](articles/20d27797.json)
 
 [Extended Data](ext_articles/20d27797.ext.json)
-
----
-
-### Don't photograph
-
-*2024-11-14 00:33:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புகைப்படம்-எடுக்கவேண்டாம்/175-347078) · `ta`
-
-Election Commission warns against photographing polling booths, marked ballots, and sharing on social media. Violators may face legal action.
-
-🟩
-
-The Election Commission has advised the public to avoid photography, photographing or uploading pictures or videos on social networks.
-
-In a statement issued by the Commission, the Commission said in a statement that the polling booths, photographing or photography of marked ballots, and sharing them on social networks would violate the election law.
-
-Therefore, the Election Commission has warned that those who ignore these guidelines will face legal consequences.
-
-◼️
-
-[Data](articles/0e04991b.json)
-
-[Extended Data](ext_articles/0e04991b.ext.json)
-
----
-
-### Gusal Mendis, Avishka Fernando great centuries;Sri Lanka success in DLS mode
-
-*2024-11-14 00:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198630) · `ta`
-
-Sri Lanka won first ODI vs New Zealand by 45 runs. Gusal Mendis (143*) and Avishka Fernando (100) scored centuries. New Zealand was set 221 runs but fell short at 175/9. Dilshan Madushan took 3 wickets. Match affected by rain at Rangiri Dambulla Stadium.
-
-🟩
-
-Sri Lanka won by 45 runs in the first international ODI match between Sri Lanka and New Zealand, which was affected by the rains at the Rangiri and Dambulla International Cricket Stadium on Wednesday.
-
-Significantly, Sri Lanka won New Zealand for the first time in the international ODIs.
-
-Gusal Mendis and Avishka Fernando were the most efficient centuries and the double -stricken merger of Sri Lanka.
-
-Sri Lanka decided to bat first and scored 324 runs for the loss of 5 wickets in 49.2 overs.
-
-After about two and a half hours, when the match continued at 9.00 pm, New Zealand was a toughest winning target of 221 runs in 27 overs.
-
-New Zealand lost by 9 wickets for 175 runs.
-
-Will Young and Tim Robinson shared 88 runs off 80 balls.
-
-New Zealand started playing by 22 runs in 28 balls. These 5 wickets were overthrown by Sri Lankan spin bowlers. (110 - 5 wig.)
-
-Michael Brasewell and debutant Michelle Hai then tried to recover the team from the slope.
-
-...
-
-[Data](articles/e1515bcc.json)
-
-[Extended Data](ext_articles/e1515bcc.ext.json)
 
 ---

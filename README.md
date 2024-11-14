@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 22:41:27**
+As of **2024-11-14 23:25:40**
 
 ## Newspaper Stats
 
-*Scraped **54,798** Articles*
+*Scraped **54,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,67 @@ islandlk | 3,278
 economynextcom | 3,338
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,135
+adalk | 5,136
 adaderanalk | 6,547
-tamilmirrorlk | 7,701
-virakesarilk | 8,903
+tamilmirrorlk | 7,703
+virakesarilk | 8,905
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,798 (100.0%) of 54,798 articles have been extended.
+54,800 (100.0%) of 54,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### ஹம்பாந்தோட்டை தபால் மூல பெறுபேறு
+
+*2024-11-14 23:17:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-தபால்-மூல-பெறுபேறு/175-347157) · `ta`
+
+◼️
+
+[Data](articles/c1ffdc76.json)
+
+---
+
+### Kalutara postal source results
+
+*2024-11-14 22:53:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-தபால்-மூல-பெறுபேறுகள்/175-347156) · `ta`
+
+Here's a summary of "Kalutara postal source results" in approximately 200 characters:
+
+
+
+Results from Kalutara postal sources indicate mixed delivery performance. Some areas report high success rates, while others experience frequent delays or lost mail. Factors affecting delivery include weather conditions, road infrastructure, and staffing levels. Overall, service reliability varies significantly across different postal zones within Kalutara.
+
+🟩
+
+◼️
+
+[Data](articles/0bab265c.json)
+
+[Extended Data](ext_articles/0bab265c.ext.json)
+
+---
+
+### மாத்தளையில் பஸ் கவிழ்ந்து விபத்து; மூவர் பலி; 30க்கு மேற்பட்டோர் காயம்
+
+*2024-11-14 22:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198736) · `ta`
+
+மாத்தளை, லக்கல எலவாகந்த பிரதேசத்தில் 14ஆம் திகதி வியாழக்கிழமை மாலை பஸ் ஒன்றும் வேன் ஒன்றும் மோதி விபத்துக்குள்ளானதில் மூவர் உயிரிழந்துள்ளனர்.
+
+வில்கமுவ பொலிஸ் பிரிவிற்குட்பட்ட தம்புள்ளை - மஹியங்கனை வீதியின் எலவாகந்த பிரதேசத்தில் தம்புள்ளையிலிருந்து மஹியங்கனை நோக்கி பயணித்த பஸ் ஒன்று எதிர் திசையில் இருந்து வந்த வேன் ஒன்றுடன் மோதி விபத்தானது.
+
+பஸ்ஸில் பயணித்த 37 பேரும் வேனில் இருந்த 5 பேரும் படுகாயமடைந்து வில்கமுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டதில் பஸ்ஸில் இருந்த இருவர் மற்றும் வேனில் இருந்த ஒருவரும் உயிரிழந்துள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b5a67d38.json)
+
+---
 
 ### Three killed in accident: 39 injured
 
@@ -77,6 +123,24 @@ The bus was traveling from Colombo to Vasamuwa via Lakkala.
 [Data](articles/28dc22e4.json)
 
 [Extended Data](ext_articles/28dc22e4.ext.json)
+
+---
+
+### ஒரே ஒரு கட்சியைத் தவிர ஏனைய கட்சிகளின் ஆதரவாளர்கள் வாக்களிப்பில் ஆர்வம் செலுத்தவில்லை  - மஹிந்த தேசப்பிரிய
+
+*2024-11-14 21:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198734) · `ta`
+
+பொதுத் தேர்தல் வாக்களிப்பில் ஒரேயொரு கட்சியைத் தவிர ஏனைய கட்சிகளின் ஆதரவாளர்கள் ஆர்வம் செலுத்தவில்லை என்பது எமது நடமாடும் கண்காணிப்பின்போது அவதானிக்கப்பட்டது. ஆனால், இது மிகவும் துரதிர்ஷ்டவசமானதாகும் என்று வீவ் தேர்தல் கண்காணிப்பு அமைப்பின் தலைவர் மஹிந்த தேசப்பிரிய தெரிவித்தார்.
+
+ராஜகிரியவில் உள்ள வீவ் தேர்தல் கண்காணிப்பு அமைப்பின் தலைமையகத்தில் வியாழக்கிழமை (14) நடைபெற்ற ஊடகவியலாளர் மாநாட்டில் இதனை தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+ஜனாதிபதித் தேர்தலுடன் ஒப்பிடுகையில் இம்முறை தேர்தலில் மக்கள் ஆர்வம் காண்பித்துள்ள வீதம் மிகக் குறைவாகவே காணப்படுகிறது. எம்மால் முன்னெடுக்கப்பட்ட நடமாடும் கண்காணிப்பின்போது ஒரேயொரு கட்சியின் ஆதரவாளர்கள் மாத்திரமே ஆர்வத்துடன் வாக்களிப்பதை அவதானிக்க முடிந்தது.
+
+ஏனைய கட்சி ஆதரவாளர்கள் மத்தியில் அதனை அவதானிக்க முடியவில்லை. எவ்வாறிருப்பினும் இது துரதிர்ஷ்டவசமான விடயமாகும். சிலரிடம் நாம் இது குறித்து வினவியபோது, எவருக்கும் இதில் ஆர்வமில்லை என தெரிவிக்கப்பட்டது. இதனால் குறித்த கட்சிகளும் கவலையடைந்துள்ளமையும் அவதானிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/20ad1c9d.json)
 
 ---
 
@@ -181,6 +245,28 @@ He was responding to questions from reporters at a media briefing held in Colomb
 [Data](articles/95706cc8.json)
 
 [Extended Data](ext_articles/95706cc8.ext.json)
+
+---
+
+### 51 candidates arrested
+
+*2024-11-14 19:44:24* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂකයන්-දෙදෙනෙක්-ඇතුළු-51ක්-අල්ලයි/11-413042) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"51 election candidates arrested, including 2 violating laws. Campaign day crackdown."
+
+🟩
+
+51 candidates, including two candidates in violation of election laws, were arrested in this day of election campaign.
+
+◼️
+
+[Data](articles/f97a33f2.json)
+
+[Extended Data](ext_articles/f97a33f2.ext.json)
 
 ---
 
@@ -2253,117 +2339,5 @@ Singer Sri Lanka is part of one of Sri Lanka’s largest conglomerates, Hayleys.
 [Data](articles/7f8e4b3c.json)
 
 [Extended Data](ext_articles/7f8e4b3c.ext.json)
-
----
-
-### Voting for 106 years old
-
-*2024-11-14 10:17:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/106-வயது-முதியவர்-வாக்களிப்பு/175-347098) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-106-year-old Yon Philip Lewis votes in Trincomalee. Born in Jaffna in 1918, he's voted in every Sri Lankan parliamentary election since moving to Trincomalee at 22.
-
-🟩
-
-106 -year -old Yon Philip Lewis made his vote for the parliamentary election at St. Mary's College, Trincomalee today (14).
-
-He said that he was born in Jaffna on 18.11.1918 and came to Trincomalee at the age of 22 and that he had voted for all the parliamentary elections in Sri Lanka.. (S.Kethabonkalan)
-
-◼️
-
-[Data](articles/5bd84446.json)
-
-[Extended Data](ext_articles/5bd84446.ext.json)
-
----
-
-### Voting in a peaceful manner in Batticaloa
-
-*2024-11-14 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198642) · `ta`
-
-Batticaloa district sees peaceful voting for Sri Lanka's 10th parliamentary election. 392 candidates contest for 5 seats. 44,286 voters cast ballots across 442 polling stations. No major incidents reported. Security measures in place involving military, police, and election officials.
-
-🟩
-
-Based on the 10th parliamentary election plan in Sri Lanka, it is observed that the votes are taking place on Thursday, the 14th of Thursday.
-
-It is also seen that people are eagerly attending voting to choose their representatives.
-
-A total of 56 candidates were submitted to 23 political parties and 33 independent groups in the Batticaloa district for the parliamentary election.
-
-A total of 49 nominations have been accepted, with 22 political parties and 27 independent groups, and this time 392 candidates are contesting in the Batticaloa district to select 5 MPs.
-
-A total of 7 nominations were rejected by a political party and 6 independent groups.
-
-14,222 candidates from the Batticaloa district applied for postal voting by posting in parliamentary elections. However, the applications of 14,003 have been accepted, said Batticaloa Assistant Election Commissioner MPM Subiyan.
-
-...
-
-[Data](articles/f1b4f27e.json)
-
-[Extended Data](ext_articles/f1b4f27e.ext.json)
-
----
-
-### Towards A More Profitable & Sustainable Agriculture
-
-*2024-11-14 10:06:36* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/towards-a-more-profitable-sustainable-agriculture/) · `en`
-
-One of the key happenings in human history, is the so-called “Industrial Revolution,” that originated about two centuries ago, with Europe, North America and Japan, as the focal points. These are now broadly defined as “Developed Countries.” They distinguish themselves as having higher per capita incomes, and thereby offering their citizens better living conditions than do the ”Developing” or “Less developed” ones.
-
-It is tempting yet erroneous, to believe that what prevailed two centuries ago, can be transposed today to other countries including Sri Lanka, presently classified among the “Developing countries.”
-
-Typically, the industrial era manifested as a movement away from labour and towards machinery driven enterprises. The unspoken assumption Is that what worked for them then, should do for us now.
-
-...
-
-[Data](articles/a02e2d62.json)
-
-[Extended Data](ext_articles/a02e2d62.ext.json)
-
----
-
-### 37 years of age
-
-*2024-11-14 10:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-வயதுடையை-நபர்-வெட்டிக்-கொலை/175-347097) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Body found on beach behind Habaraduwa hotel. 37-year-old man recovered. Police investigating unidentified suspects. Incident occurred near Mihiripenna area.
-
-🟩
-
-A 37 -year -old man has been recovered yesterday after being hacked to the beach on the back of the Habaraduwa hotel.
-
-The body of a man has been recovered from the beach in the back of a hotel located in Mihiripenna area in Habaraduwa, police said.
-
-Habaraduwa police are investigating the incident as the suspects involved in the murder have not yet been identified.
-
-◼️
-
-[Data](articles/719dcdf5.json)
-
-[Extended Data](ext_articles/719dcdf5.ext.json)
-
----
-
-### General Election: Voter turnout as at 9am
-
-*2024-11-14 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103394/general-election-voter-turnout-as-at-9am) · `en`
-
-The district-level voter turnout for the 2024 General Election has already exceeded 10 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 09.00 a.m. this morning (Nov.14) are as follows:
-
-◼️
-
-[Data](articles/3a7ef97f.json)
-
-[Extended Data](ext_articles/3a7ef97f.ext.json)
 
 ---

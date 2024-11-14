@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 17:25:01**
+As of **2024-11-14 17:10:33**
 
 ## Newspaper Stats
 
-*Scraped **54,745** Articles*
+*Scraped **54,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,131
 adaderanalk | 6,539
-tamilmirrorlk | 7,683
+tamilmirrorlk | 7,681
 virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
@@ -26,37 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,743 (100.0%) of 54,745 articles have been extended.
+54,742 (100.0%) of 54,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
-
-### வாக்குச்சீட்டை கிழித்தவர் கைது
-
-*2024-11-14 17:14:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்குச்சீட்டை-கிழித்தவர்-கைது/175-347125) · `ta`
-
-வாதுவ - பொதுப்பிட்டிய பிரதேசத்தில், வாக்குச்சீட்டை கிழித்த நபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.AN
-
-◼️
-
-[Data](articles/f20c4c23.json)
-
----
-
-### தேர்தல் கடமையில் ஈடுபட்டிருந்த  மூவர் பலி
-
-*2024-11-14 17:07:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-கடமையில்-ஈடுபட்டிருந்த-மூவர்-பலி/175-347124) · `ta`
-
-தேர்தல் கடமையில் ஈடுபட்டிருந்த பொலிஸ் உத்தியோகத்தர் மற்றும் இரண்டு சிவில் உத்தியோகத்தர்கள், இன்று (14) உயிரிழந்துள்ளனர் என, பொலிஸ் ஊடகப் பேச்சாளரும் பிரதிப் பொலிஸ் மா அதிபருமான நிஹால் தல்துவ தெரிவித்தார்.
-
-இன்று இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே, அவர் இதனை தெரிவித்துள்ளார்.AN
-
-◼️
-
-[Data](articles/0fcf9732.json)
-
----
 
 ### Parliamentary Election 2024: Voting proceedings are completed!
 
@@ -735,8 +709,6 @@ Accordingly, the voter turnout percentages of several districts as at 11.00 a.m.
 ◼️
 
 [Data](articles/658abdae.json)
-
-[Extended Data](ext_articles/658abdae.ext.json)
 
 ---
 
@@ -2283,5 +2255,53 @@ Amid those developments the ASPI closed in green on most days and the All Share 
 [Data](articles/127c59fe.json)
 
 [Extended Data](ext_articles/127c59fe.ext.json)
+
+---
+
+### 30-year-old killed in Badowita shooting
+
+*2024-11-13 23:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103390/30-year-old-killed-in-badowita-shooting) · `en`
+
+A 30-year-old man has been killed in a shooting incident in the Badowita area within the Mount Lavinia Police Division tonight (13).
+
+The victim, a resident of Badowita Phase 3, was pronounced dead upon admission to the Kalubowila Hospital.
+
+A T-56 assault rifle is suspected to have been used in the shooting, though details of the suspects involved remain unknown.
+
+Mount Lavinia Police have launched an investigation into the incident based on information received via the ‘119’ police emergency hotline.
+
+◼️
+
+[Data](articles/7be76394.json)
+
+[Extended Data](ext_articles/7be76394.ext.json)
+
+---
+
+### Firing in Kalkissa;One killed
+
+*2024-11-13 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198629) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Shooting in Kalkissa; one killed. Incident occurred Wednesday night in Badovita area. Victim died at Kalubowila hospital. T56 rifle suspected. No suspects identified yet. Mount police investigating through emergency number 119.
+
+🟩
+
+One person was killed in a shooting that took place on Wednesday night (13) in the Badovita area of ​​the Kalkissa police division.
+
+The man who was injured in the shooting has died after being admitted to the Kalubowila hospital for treatment.
+
+It is suspected that the T56 rifle may have been used for the shooting, and no information on the suspects has yet been released.
+
+Mount police have launched an investigation into the incident through information received for 119 emergency numbers, police said.
+
+◼️
+
+[Data](articles/579ecf57.json)
+
+[Extended Data](ext_articles/579ecf57.ext.json)
 
 ---

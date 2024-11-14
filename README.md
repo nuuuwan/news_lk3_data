@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 18:51:14**
+As of **2024-11-14 19:04:38**
 
 ## Newspaper Stats
 
-*Scraped **54,758** Articles*
+*Scraped **54,759** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,133
+adalk | 5,134
 adaderanalk | 6,539
 tamilmirrorlk | 7,694
 virakesarilk | 8,896
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,758 (100.0%) of 54,758 articles have been extended.
+54,758 (100.0%) of 54,759 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -75,6 +75,24 @@ When voting this morning, he predicted that voting would be low.
 [Data](articles/66de704a.json)
 
 [Extended Data](ext_articles/66de704a.ext.json)
+
+---
+
+### ගාල්ලේ ජනාධිපතිවරණයට ඡන්දය දැමූ 148,424  කට මහ මැතිවරණයේ දී  ඡන්දය එපාවෙලා
+
+*2024-11-14 18:27:38* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-ජනාධිපතිවරණයට-ඡන්දය-දැමූ-148-424--කට-මහ-මැතිවරණයේ-දී--ඡන්දය-එපාවෙලා/11-413040) · `si`
+
+මෙවර මහ මැතිවරණයේදී  ගාල්ල දිස්ත්‍රික්කයේ 903 ,163 ක් වූ  ලියාපදිංචි ඡන්ද දායකයින්ගෙන් 576,937 ක් ඡන්දය පාවිච්චි කර ඇතැයි ගාල්ල දිස්ත්‍රික් තේරීම් බාර නිලධාරි ඩබ්ලිව් .ඒ.ධර්මසිරි මහතා පැවසීය.
+
+ඒ අනුව ගාල්ල දිස්ත්‍රික්කයේ ඡන්ද ප්‍රකාශ කිරීමේ ප්‍රතිශතය සියයට 64 ක් බවද ඒ මහතා පැවසීය.මෙම සංඛ්‍යාවන් අනුව සලකා බැලීමේදී  මෙවර පාර්ලිමේන්තු මැතිවරණයේදී ගාල්ල දිස්ත්‍රික්කයේ  ලියාපදිංචි ඡන්ද දායකයන්ගෙන් 326,226 ක් සිය ඡන්දය පාවිච්චි කර නැත.
+
+ඉකුත් ජනාධිපතිවරණයේදීද  ගාල්ල දිස්ත්‍රික්කයේ ලියාපදිංචි ඡන්ද හිමියන් සංඛ්‍යාව 903,163 ක් වූ අතර එයින් සියයට 80 ක ප්‍රතිශතයක් වූ 725,361 ක් ඡන්දය පාවිච්චි කර තිබිණි.
+
+ඒ අනුව ජනාධිපතිවරණය පවත්වා මාස දෙකක් ගතවීමට මත්තෙන් පැවැත්වූ පාර්ලිමේන්තු මැතිවරණයේදී ජනාධිපතිවරණයට පාවිච්චි කළ ඡන්ද ප්‍රතිශතය සියයට 16 කින් එනම් ඡන්ද 148,424 කින් අඩුවී තිබේ.
+
+◼️
+
+[Data](articles/3a886e74.json)
 
 ---
 
@@ -2319,31 +2337,5 @@ Commander of the Kandy Pradeshiya Criminal Investigation Division (CID), Chief I
 [Data](articles/a5cf16a1.json)
 
 [Extended Data](ext_articles/a5cf16a1.ext.json)
-
----
-
-### The Netherlands government focuses on providing technical assistance and financial facilities for agriculture, education, tourism and public service development.
-
-*2024-11-14 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198631) · `ta`
-
-Netherlands supports agriculture, education, tourism in Sri Lanka. Wageningen University leads global rankings. Cooperation agreements focus on sustainable food systems and economic development.
-
-🟩
-
-The Government of the Netherlands has focused on providing technical assistance and financial facilities for the development of agriculture, education, tourism and public service in this country.
-
-The Netherlands Ambassador, including the Deputy Ambassador to Sri Lanka of the Netherlands, Ivan Rudgens, met with President's Secretary Dr. Nandika Sanath Kumanayake on Wednesday (13).
-
-The Wageningen University & Research in the Netherlands has been named as the standard university that topped the World University rankings for the past 7 years.
-
-The university is looking forward to launching new cooperation programs in collaboration with Sri Lanka's prominent shareholders in agriculture, agriculture, environment and tourism.
-
-Knowing the opportunities and challenges, a wide range of companies such as the Asian Development Bank and the World Bank and the private sector cooperate, focusing on yields and projects for stable food structure.
-
-...
-
-[Data](articles/20d27797.json)
-
-[Extended Data](ext_articles/20d27797.ext.json)
 
 ---

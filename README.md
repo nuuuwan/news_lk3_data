@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 09:41:40**
+As of **2024-11-14 10:26:23**
 
 ## Newspaper Stats
 
-*Scraped **54,680** Articles*
+*Scraped **54,686** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,123
+adalk | 5,124
 adaderanalk | 6,526
-tamilmirrorlk | 7,661
+tamilmirrorlk | 7,666
 virakesarilk | 8,876
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,129 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,680 (100.0%) of 54,680 articles have been extended.
+54,685 (100.0%) of 54,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### 106 வயது முதியவர் வாக்களிப்பு
+
+*2024-11-14 10:17:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/106-வயது-முதியவர்-வாக்களிப்பு/175-347098) · `ta`
+
+106 வயது முதியவர் யோன் பிலிப் லூயிஸ் பாராளுமன்றத்தேர்தலுக்கான தமது வாக்கை திருகோணமலை புனித மரியாள் கல்லூரியில் உள்ள வாக்குச்சாவடியில் இன்று(14) செலுத்தினார்.
+
+யாழ்ப்பாணத்தில் 18.11.1918 இல் தாம் பிறந்து,தமது 22 வயதில் திருகோணமலைமலைக்கு வந்து தொடர்நது இங்கே வாழ்ந்து வருவதாகவும்,இலங்கையின் பாராளுமன்ற தேர்தல்கள் அனைத்திலும் தாம் வாக்களித்துள்ளதாகவும் அவர் கூறினார். (எஸ்.கீதபொன்கலன்)
+
+◼️
+
+[Data](articles/5bd84446.json)
+
+---
+
+### 37 years of age
+
+*2024-11-14 10:02:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/37-வயதுடையை-நபர்-வெட்டிக்-கொலை/175-347097) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Body found on beach behind Habaraduwa hotel. 37-year-old man recovered. Police investigating unidentified suspects. Incident occurred near Mihiripenna area.
+
+🟩
+
+A 37 -year -old man has been recovered yesterday after being hacked to the beach on the back of the Habaraduwa hotel.
+
+The body of a man has been recovered from the beach in the back of a hotel located in Mihiripenna area in Habaraduwa, police said.
+
+Habaraduwa police are investigating the incident as the suspects involved in the murder have not yet been identified.
+
+◼️
+
+[Data](articles/719dcdf5.json)
+
+[Extended Data](ext_articles/719dcdf5.ext.json)
+
+---
+
+### Election results will be released at 10 pm
+
+*2024-11-14 09:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேர்தல்-முடிவுகள்-இரவு-10-மணிக்கு-வெளியாகும்/150-347096) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"2024 parliamentary election results: First batch announced at 10 PM. Election Commissioner Saman Sri Ratnayake confirms."
+
+🟩
+
+The first election results of the 2024 parliamentary election will be released at 10 pm. Elections Commissioner Saman Sri Ratnayake said today.
+
+◼️
+
+[Data](articles/be869d90.json)
+
+[Extended Data](ext_articles/be869d90.ext.json)
+
+---
+
+### The first election result will be released by 10 am
+
+*2024-11-14 09:55:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முதலாவது-தேர்தல்-முடிவு-10-மணிக்குள்-வெளியாகும்/175-347095) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+First election results: 10 PM today. Voting begins 7 AM at 13,314 centers. Postal votes counted from 5 PM. 8,888 candidates. 17,140,354 eligible voters.
+
+🟩
+
+Elections Commissioner Saman Sri Ratnayake says the first election results of the 2024 parliamentary election will be released by 10 pm tonight.
+
+Voting for the election starts at 7 am at 13,314 polling centers across the country.
+
+The task of counting the first postal votes will begin at 5 pm, and it depends on the performance of all the voting centers.
+
+8,888 candidates are contesting in this election, and 17,140,354 are eligible to vote.
+
+◼️
+
+[Data](articles/4c1733da.json)
+
+[Extended Data](ext_articles/4c1733da.ext.json)
+
+---
+
+### Correct recovery from the polling station
+
+*2024-11-14 09:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வாக்களிப்பு-நிலையத்தில்-இருந்து-சடலம்-மீட்பு/71-347094) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Police officer Subhash (34) dies on duty at Kopay station. Body sent to hospital for examination. Incident causes stir but voting continues after another officer is deployed.
+
+🟩
+
+Subhash, a 34 -year -old police officer from Vaddukoddai, who was on duty at the Kopay police station, died.
+
+A man who had been on duty at the polling station at Urumpirai Saivathami Vidyalaya was found dead on Thursday morning.
+
+Subsequently, the Kopay police have handed over the body to the Jaffna Teaching Hospital for anatomical examination and further investigations are being carried out in connection with the incident.
+
+The incident caused some stir at the polling station this morning and another police officer was deployed and the vote was launched smoothly.
+
+◼️
+
+[Data](articles/016f283c.json)
+
+[Extended Data](ext_articles/016f283c.ext.json)
+
+---
 
 ### Sudden death of female officer in a polling station
 
@@ -79,6 +197,34 @@ Further investigations are being carried out by the lorry police. Remble
 [Data](articles/03338ca8.json)
 
 [Extended Data](ext_articles/03338ca8.ext.json)
+
+---
+
+### Showers in many parts of the provinces
+
+*2024-11-14 08:01:43* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413032) · `si`
+
+Sum: Showers/thundershowers forecasted nationwide. Heavy rain (100mm) expected in North/East & Western districts. Lightning danger. Public advised to take precautions.
+
+🟩
+
+Atmospheric atmospheric atmosphere to raise thundershowers in general area South
+
+The Met Department demands the public to take necessary steps to reduce the dangers of lightning.
+
+Showers or thundershowers will occur at several places in the country, and in the North and East, the Northern and Eastern Provinces
+
+Some of the Western, Sabaragamuwa, Colombo North North, Badulla, Golla and Matara districts
+
+At about 100 mm, there will be heavy rains and in some areas of other areas
+
+Heavy rains can occur and said.
+
+◼️
+
+[Data](articles/10fddb71.json)
+
+[Extended Data](ext_articles/10fddb71.ext.json)
 
 ---
 
@@ -2209,139 +2355,5 @@ The bills are available on tap after the auction. (Colombo/Nov13/2024)
 [Data](articles/36a7d590.json)
 
 [Extended Data](ext_articles/36a7d590.ext.json)
-
----
-
-### Bus accident carrying boxes
-
-*2024-11-13 15:43:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெட்டிகளை-ஏற்றிச்-சென்ற-பஸ்-விபத்து/175-347060) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Bus carrying ballots crashes; police rescue boxes, transfer to another vehicle for delivery."
-
-🟩
-
-A bus carrying ballot from Galle Southlands College to polling stations crashed into the car today.
-
-The police rushed to the scene and rescued the ballot boxes on the accident and moved them to a different vehicle for transport.
-
-◼️
-
-[Data](articles/1c3d1a7f.json)
-
-[Extended Data](ext_articles/1c3d1a7f.ext.json)
-
----
-
-### Here is what five liquor licenses will be done if arrears are not leased out
-
-*2024-11-13 15:35:32* · [`adalk`](https://www.ada.lk/breaking_news/හිඟ-බදු-නොගෙව්වොත්-මත්පැන්-සමාගම්-05ක-බලපත්‍ර-වලට-කරන්න-යන-දේ-මෙන්න/11-413015) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-5 liquor licenses suspended if arrears unpaid: AG informs SC about Excise Dept.'s decision to revoke licenses of non-paying liquor manufacturers. Petition filed seeking immediate action from judicial body.
-
-🟩
-
-The Attorney General has informed the Supreme Court today that the Excise Department has decided to suspend the licenses of the liquor manufacturers who do not pay for the loss of the deficit.
-
-The petition was called to date the petition in the face of a judicial body.
-
-◼️
-
-[Data](articles/f6966692.json)
-
-[Extended Data](ext_articles/f6966692.ext.json)
-
----
-
-### Sri Lankan elections: Tamils ​​are old and new
-
-*2024-11-13 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198589) · `ta`
-
-N
-
-🟩
-
-The first time a president was elected outside the political elite of Sri Lanka is called Sri Lanka's “political earthquake”. The choice of Anura Kumara Dissanayake has been an obvious regret and challenge to the ruling elite, but it is a pledge to maintain some embedded and structural issues of the Government of Sri Lanka.
-
-However, the Voting of the North and East expresses the suspicion of the Tamil people on Dissanayake's party. This is because they have voted for Samaki Jan. Balavegaya's Sajith Premadasa and the candidate of the civil society, Ariyanethran Pakiyaselvam.
-
-The two candidates were supported by the political elite in the Tamil politics of the Sri Lanka Tamil National Alliance, the Democratic Tamil National Alliance and the Tamil People's Alliance.. This was supported among the bitter infrastructure among the former coalition partners. The Muslims there were largely supported Premadasa.
-
-...
-
-[Data](articles/14da6930.json)
-
-[Extended Data](ext_articles/14da6930.ext.json)
-
----
-
-### Elections should act in accordance with the law and the general law - the police media spokesman
-
-*2024-11-13 15:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198584) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Elections must follow laws and general security. 1,342 voting centers confirmed safe. Police, armed forces ensure law order. Strict measures for election protection. 63,145 police officers, 11,000 soldiers deployed. 4525 vehicles used for security. Legal action against violators. Special arrangements post-voting.
-
-🟩
-
-The safety of 1,3421 voting centers has been confirmed across the country. Elections should be responsible for the law and the general law. Armed forces, including the police, are involved in security duties to protect law and order.
-
-Vote then go to homes, and one of the public places can be impact on law and order.. The Ministry of Public Security has advised the people that strict measures will be taken to hold elections and protect law and order.
-
-Police Media Spokesperson and Attorney Nihal Talduwa said that the police spokesman responded to election work and security matters.
-
-It is illegal to provide transport facilities for a candidate to go to voting center for voters. People with special needs.If you provide transport facilities to the old age, the District Elections Office should be allowed to be in advance.
-
-...
-
-[Data](articles/01443fd1.json)
-
-[Extended Data](ext_articles/01443fd1.ext.json)
-
----
-
-### EXPLAINER: Possible policy impacts on Sri Lanka’s banking sector after parliament polls
-
-*2024-11-13 15:08:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-impacts-on-sri-lankas-banking-sector-after-parliament-polls-187241/) · `en`
-
-ECONOMYNEXT – Under Sri Lanka’s President Anura Dissanayake and his Marxist-leaning National People’s Power (NPP) government, Sri Lanka’s banking sector is likely to experience significant changes and challenges as it navigates policy shifts focused on economic redistribution, social reforms, and restructuring. Here are five potential impacts on the banking sector after the parliament polls, in which NPP is believed to have an edge:
-
-The NPP has historically advocated for stronger state control over strategic economic sectors, including banking. Under Dissanayake, the sector may face increased regulation and scrutiny aimed at reducing perceived corruption, addressing financial mismanagement, and protecting consumer interests. This could lead to a more restrictive operational environment for banks, with potential impacts on profitability and compliance costs. ​
-
-...
-
-[Data](articles/fc85f4cc.json)
-
-[Extended Data](ext_articles/fc85f4cc.ext.json)
-
----
-
-### Rusi Pestonjee leaves Sri Lanka’s Abans Finance
-
-*2024-11-13 15:00:00* · [`economynextcom`](https://economynext.com/rusi-pestonjee-leaves-sri-lankas-abans-finance-187119/) · `en`
-
-ECONOMYNEXT – Rusi Pestonjee has resigned from Abans Finance Plc, the finance subsidiary of consumer durables retailer Abans Plc, the company said.
-
-Pestonjee has served as non-independent non-executive director of the finance company for nine years and is also the managing director of the Abans Group, according to the stock exchange filing.
-
-He is the majority shareholder (98.73% stake) of International Restaurant Systems (Private) Limited, which was the local franchisee of McDonald’s.
-
-Sri Lanka Abans says McDonald’s local franchisee mainly owned by its MD, not subsidiary
-
-◼️
-
-[Data](articles/253b6138.json)
-
-[Extended Data](ext_articles/253b6138.ext.json)
 
 ---

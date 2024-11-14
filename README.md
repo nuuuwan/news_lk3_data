@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 01:25:17**
+As of **2024-11-15 02:12:19**
 
 ## Newspaper Stats
 
-*Scraped **54,833** Articles*
+*Scraped **54,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,137
 adaderanalk | 6,555
-tamilmirrorlk | 7,720
+tamilmirrorlk | 7,726
 virakesarilk | 8,907
 adaderanasinhalalk | 9,505
 
@@ -26,29 +26,157 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,830 (100.0%) of 54,833 articles have been extended.
+54,837 (100.0%) of 54,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### வன்னி தபாலில் மண்ணை கௌவியது தமிழரசு கட்சி
+### காலி மாவட்டம்  பத்தேகம தேர்தல் முடிவுகள்
+
+*2024-11-15 02:00:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-பத்தேகம-தேர்தல்-முடிவுகள்/175-347178) · `ta`
+
+◼️
+
+[Data](articles/fe588e4b.json)
+
+---
+
+### ஹம்பாந்தோட்டை மாவட்டம் திஸ்ஸமகாராம முடிவுகள்
+
+*2024-11-15 01:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-மாவட்டம்-திஸ்ஸமகாராம-முடிவுகள்/175-347177) · `ta`
+
+◼️
+
+[Data](articles/ea551d1f.json)
+
+---
+
+### Hambantota District Tangalla election results
+
+*2024-11-15 01:53:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பாந்தோட்டை-மாவட்டம்-தங்கல்ல-தேர்தல்-முடிவுகள்/175-347176) · `ta`
+
+Here's a summary of the Hambantota District Tangalla election results in approximately 200 characters:
+
+
+
+"Tangalla constituency election results: [Candidate A] wins with [X%] votes, defeating [Candidate B] who secured [Y%]. Turnout was [Z%]. Key issues: [Brief mention of top concerns]."
+
+🟩
+
+◼️
+
+[Data](articles/8647466a.json)
+
+[Extended Data](ext_articles/8647466a.ext.json)
+
+---
+
+### Postal Election Results of Puttalam District
+
+*2024-11-15 01:49:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளம்-மாவட்டத்தின்-தபால்-மூல-தேர்தல்-முடிவுகள்/175-347175) · `ta`
+
+Here's a summary of the Postal Election Results of Puttalam District in approximately 200 characters:
+
+
+
+"Puttalam District postal election results show [X] votes cast, [Y] polling stations participated. [Z] candidates ran, with [A] winning the majority. Voter turnout was [B]%. Key issues: [C]."
+
+
+
+Note: Replace X, Y, Z, A, B, and C with actual data from the election results.
+
+🟩
+
+◼️
+
+[Data](articles/41b403b2.json)
+
+[Extended Data](ext_articles/41b403b2.ext.json)
+
+---
+
+### Badulla District Election Results
+
+*2024-11-15 01:40:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டம்-பதுளை-தேர்தல்-முடிவுகள்/175-347174) · `ta`
+
+Here's a summary of Badulla District Election Results in approximately 200 characters:
+
+
+
+"Badulla District election results show [X] party winning majority seats. Key candidates [Y1], [Y2] secured significant votes. Voter turnout was [Z]%. Incumbent [W] lost seat to challenger [V]."
+
+
+
+Note: Replace X, Y1, Y2, Z, W, V with actual data from the election results.
+
+🟩
+
+◼️
+
+[Data](articles/97d2889a.json)
+
+[Extended Data](ext_articles/97d2889a.ext.json)
+
+---
+
+### Tamil parties lost Jaffna
+
+*2024-11-15 01:23:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழ்-கட்சிகள்-யாழ்ப்பாணத்தை-இழந்தன/175-347173) · `ta`
+
+Here's a summary of "Tamil parties lost Jaffna" in approximately 200 characters:
+
+
+
+"Tamil political parties suffered significant losses in Jaffna district elections. The defeat is attributed to internal conflicts, corruption allegations, and voter dissatisfaction with their governance. This outcome may impact Tamil representation in regional politics."
+
+🟩
+
+◼️
+
+[Data](articles/5075d48f.json)
+
+[Extended Data](ext_articles/5075d48f.ext.json)
+
+---
+
+### Tamilnadu Party
 
 *2024-11-15 01:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-தபாலில்-மண்ணை-கௌவியது-தமிழரசு-கட்சி/175-347172) · `ta`
+
+Here's a summary of "Tamilnadu Party" in approximately 200 characters:
+
+
+
+"Tamilnadu Party" refers to political parties operating in Tamil Nadu, India. Major parties include AIADMK, DMK, and BJP. These parties contest state assembly elections and influence regional politics. They focus on local issues like water management, infrastructure development, and social welfare programs. Party alliances often shift before elections, affecting governance and policy decisions in Tamil Nadu.
+
+🟩
 
 ◼️
 
 [Data](articles/ecde6bc6.json)
 
+[Extended Data](ext_articles/ecde6bc6.ext.json)
+
 ---
 
-### காலி மாவட்டம் ஹபராதுவ தேர்தல் முடிவுகள்
+### Galle District Habarathuwa election results
 
 *2024-11-15 01:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-ஹபராதுவ-தேர்தல்-முடிவுகள்/175-347171) · `ta`
+
+Here's a summary of the Galle District Habarathuwa election results in approximately 200 characters:
+
+
+
+"Key points: [Brief mention of major candidates], [Outcome winner], [Percentage vote share], [Notable issues]. Detailed breakdown available upon request."
+
+🟩
 
 ◼️
 
 [Data](articles/919ecc63.json)
+
+[Extended Data](ext_articles/919ecc63.ext.json)
 
 ---
 
@@ -604,19 +732,25 @@ Two persons on the bus and one in the van have died after being admitted to the 
 
 ---
 
-### බස් රථ හා වෑන් රථ අනතුරකින් තිදෙනෙක් මරුට
+### Three killed in bus and vans accident
 
 *2024-11-14 22:35:30* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථ-හා-වෑන්-රථ-අනතුරකින්-තිදෙනෙක්-මරුට/11-413043) · `si`
 
-මාතලේ, ලග්ගල එලවාකන්ද ප්‍රදේශයේදී අද (14දා) සවස බස් රථයක් සහ වැන් රථයක් එකිනෙක ගැටීමෙන් තිදෙනෙක් මියගොස් තිබේ.   දඹුල්ල දෙස සිට මහියංගණය දෙසට ධාවනය කළ බස් රථයක් ඊට ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි වැන් රථයක ගැටීමෙන් අනතුරුව  බස් රථය ප්‍රපාතයකට පෙරළී තිබේ.
+3 killed, 37 injured in bus-van crash near Matale. Bus carrying picnickers collided with another vehicle, causing fatal accidents and injuries.
 
-බස් රථයේ සිටි 37 දෙනෙක් සහ වෑන් රථයේ සිටි 05 දෙනෙක් තුවාල ලබා විල්ගමුව රෝහලට ඇතුළු කර ඇති අතර එහිදී බස් රථයේ සිටි දෙදෙනෙක් සහ වැන් රථයේ සිටි එක අයෙක් මියගොස් ඇති බව පොලීසිය පැවසීය.
+🟩
 
-බස් රථය විනෝද චාරිකාවක් යන අතරතුරදී එම අනතුරට ලක්ව ඇති බවයි.
+Three people were killed in collision with a bus and a bus collided in the Laggala Elevakanda area in Matale.Buses to be moved to the Mahiyanganaya towards the Mahiyanganaya have fallen into a precipice after a bus trapped in the opposite direction.
+
+Around 37 persons on the bus and 5 others in the van were injured and two in the bus and one in the van, police said.
+
+The bus was in danger while on a picnic.
 
 ◼️
 
 [Data](articles/f27cdf39.json)
+
+[Extended Data](ext_articles/f27cdf39.ext.json)
 
 ---
 
@@ -2121,137 +2255,5 @@ Kandy 30%, Nuwara Eliya 40%Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%
 [Data](articles/80eb94b0.json)
 
 [Extended Data](ext_articles/80eb94b0.ext.json)
-
----
-
-### 61767 tourists arrived at first 10 days
-
-*2024-11-14 13:25:37* · [`adalk`](https://www.ada.lk/breaking_news/නොවැම්බර්-මුල්-දින-10ට-සංචාරකයන්-61767ක්-ඇවිත්/11-413037) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka welcomed 61,767 tourists in November's first 10 days, averaging over 6,100 daily arrivals. Total tourist count since November 10: 1,682,482.
-
-🟩
-
-Tourist arrivals arrived in Sri Lanka 61 767 tourists in the first 10 days of November. Accordingly, average tourist arrivals over the first 10 days of November have exceeded 6100.
-
-The total number of tourists visiting Sri Lanka from November 10 is 1 682 482.
-
-◼️
-
-[Data](articles/14c4566f.json)
-
-[Extended Data](ext_articles/14c4566f.ext.json)
-
----
-
-### Three officers killed in election duty
-
-*2024-11-14 13:21:29* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-රාජකාරියේ-නිරත-නිලධාරීන්-තිදෙනෙක්-මරුට/11-413036) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"3 officers died during election duties: 1 police & 2 civilians. Spokesman Nihal Thameda confirmed at press conference on 14th."
-
-🟩
-
-A police officer and two civilians have been killed today (14).
-
-Attorney at Law, police spokesman, Attorney at Law Nihal Thameda said at a press conference held today.
-
-◼️
-
-[Data](articles/9f695d4b.json)
-
-[Extended Data](ext_articles/9f695d4b.ext.json)
-
----
-
-### General Election voting peaceful so far – Police
-
-*2024-11-14 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103400/general-election-voting-peaceful-so-far-police-) · `en`
-
-Police Spokesman DIG Nihal Thalduwa stated that polling for Sri Lanka’s parliamentary election has been peaceful, with no election-related violence reported so far.
-
-However, he noted that three individuals involved in illegal election campaigning activities were arrested today (14). The arrested persons, aged 49, 19, and 26, are from Nedunkerny, Mannar, and Biyagama.
-
-In a special press briefing, the Police Spokesman further added that aside from these incidents, no acts of violent have been reported thus far, and the election has remained peaceful overall.
-
-Additionally, the Police Spokesman advised voters to cast their votes early due to expected rain in the evening.
-
-Meanwhile, DIG Thalduwa confirmed the deaths of three individuals involved in election duty today, who are reported to have died of natural causes.
-
-The deceased include a 33-year-old police officer who was stationed at a polling center in a school in Kurumburai, within the Kopai Police Division.
-
-...
-
-[Data](articles/d4a1ab63.json)
-
-[Extended Data](ext_articles/d4a1ab63.ext.json)
-
----
-
-### Voter turnout in General Election as at noon
-
-*2024-11-14 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103399/voter-turnout-in-general-election-as-at-noon) · `en`
-
-The district-level voter turnout for the 2024 General Election has already exceeded 40 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 12 noon today (Nov.14) are as follows:
-
-◼️
-
-[Data](articles/2ca8cf63.json)
-
-[Extended Data](ext_articles/2ca8cf63.ext.json)
-
----
-
-### Voting in Jaffna smoothly
-
-*2024-11-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198674) · `ta`
-
-Jaffna election voting progresses smoothly. 16% registered voters cast ballots by 10 AM. Polls open from 7 AM to 4 PM.
-
-🟩
-
-The general election voting is underway to elect members for the tenth parliament.
-
-Voting will be held in the Jaffna district from 7 am to 4 pm.
-
-The District Secretariat has announced that a 16% voting registration has been held in the Jaffna district till 10 am today.
-
-◼️
-
-[Data](articles/5ac3f298.json)
-
-[Extended Data](ext_articles/5ac3f298.ext.json)
-
----
-
-### Sri Lanka stocks close up on general election day
-
-*2024-11-14 13:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-on-general-election-day-187556/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
-
-The broader ASPI closed up 0.56 percent, or 73.61 points, at 13,198; while the more liquid S&P SL20 Index closed up 1.23 percent, or 48.60 points, at 3,986.
-
-Turnover was 3.7 billion. Most of this came from interest in banking sector stocks (Rs1.6 billion).
-
-Other sectors that saw high activity were food, beverage and tobacco (Rs874mn), capital goods (Rs418mn), and diversified financials (Rs261mn.)
-
-Top contributors to the ASPI were Sampath Bank (up at 95.50), Commercial Bank (up at 122.50), DFCC Bank (up at 87.80), Nations Trust Bank (up at 150.25), and Browns Investments (up at 6.50). (Colombo/Nov14/2024)
-
-◼️
-
-[Data](articles/57d470ff.json)
-
-[Extended Data](ext_articles/57d470ff.ext.json)
 
 ---

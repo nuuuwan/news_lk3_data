@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 16:14:28**
+As of **2024-11-14 16:58:43**
 
 ## Newspaper Stats
 
-*Scraped **54,734** Articles*
+*Scraped **54,743** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,88 @@ economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,131
-adaderanalk | 6,532
-tamilmirrorlk | 7,680
-virakesarilk | 8,895
+adaderanalk | 6,539
+tamilmirrorlk | 7,681
+virakesarilk | 8,896
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,733 (100.0%) of 54,734 articles have been extended.
+54,741 (100.0%) of 54,743 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### டெல்லியில் இரண்டாவது நாளாகவும் காற்றின் தரம் குறைவு
+### Parliamentary Election 2024: Voting proceedings are completed!
+
+*2024-11-14 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198706) · `ta`
+
+Sri Lanka's 10th parliamentary election concluded peacefully, with some violence reported. Voting took place from 7am to 4pm. Ballots are now being transported to polling stations.
+
+🟩
+
+Voting for the 10th parliamentary elections in Sri Lanka was held from 7 am to 4 pm today.
+
+With peaceful voting nationwide, there have been incidents of violence in some areas.
+
+Voting boxes are being sent to the polling stations from the polling station.
+
+◼️
+
+[Data](articles/de1825db.json)
+
+[Extended Data](ext_articles/de1825db.ext.json)
+
+---
+
+### Complete voting
+
+*2024-11-14 16:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிறைவு/175-347122) · `ta`
+
+Here's a summary of the text in 200 characters:
+
+
+
+"Voting begins: Country's 10th parliamentary election starts today at 7 AM."
+
+🟩
+
+The voting for the country's 10th parliamentary voting commenced today (14) at 7 am.
+
+◼️
+
+[Data](articles/eac3202d.json)
+
+[Extended Data](ext_articles/eac3202d.ext.json)
+
+---
+
+### The quality of the wind is a second day in Delhi
 
 *2024-11-14 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198697) · `ta`
 
-இந்திய தலைநகர் டெல்லியின் காற்றின் தரம் குறைவு கடந்த 24 மணி நேரத்தில் கடுமையான அளவில் அதிகரித்துள்ளது.
+Delhi air quality improves slightly over 24 hours, still hazardous AQI recorded. Dense fog causes low visibility, affecting flights. Wind quality poor, contributing to pollution.
 
-இந்நிலையில், டெல்லியில் கடந்த சில நாட்களாக காற்று மாசு அதிகரித்து வருகிறது. இந்திய மத்திய மாசுக்கட்டுப்பாட்டு வாரியத்தின் தரவுகளின்படி, கடந்த 24 மணி நேரத்தில் டெல்லியில் காற்று தரக் குறியீடு (AQI) 432 ஆக பதிவாகியுள்ளது. இது "கடுமையான" வகையின் கீழ் வருகிறது.
+🟩
 
-காற்றின் தரம் 'மிகவும் மோசமான' பிரிவில் இருந்ததால், பல்வேறு பகுதியில் இரண்டாவது நாளாக இன்றும் காலையில் அடர்ந்த மூடுபனி நிலவியது. இதனால் மக்கள் கடுமையாக அவதியடைந்து வருகின்றனர்.
+The quality of the air in the Indian capital Delhi has increased sharply over the past 24 hours.
 
-இதற்கிடையே, டெல்லி இந்திரா காந்தி சர்வதேச விமான நிலையத்தில் விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்ததால், ஒரு சில விமானங்கள் தரையிறங்காமல் திருப்பி விடப்பட்டன.
+In this case, air pollution has been increasing in Delhi for the past few days. According to data from the Central Pollution Control Board of India, the Air Quality Code (AQI) in Delhi has been recorded in the last 24 hours.. It comes under the "tough" type.
 
-காலை 5:30 மணியளவில், பஞ்சாபில் உள்ள அமிர்தசரஸ் மற்றும் பதான்கோட் விமான ஓடுபாதையில் பார்வைத்திறன் பூஜ்ஜியமாக குறைந்தது. காலை 7 மணியளவில், உத்தரபிரதேசத்தின் கோரக்பூர் விமான நிலையத்தில் தெரிவுநிலை பூஜ்ஜியமாகக் குறைந்துள்ளது.
+Due to the 'very bad' section of the wind, the second day in the different parts of the morning, the dense fog existed in the morning. This is why people are severely suffering.
+
+Meanwhile, a few flights were diverted to the Indira Gandhi International Airport in Delhi, as the visual impairment fell to zero at the airport.
+
+At 5:30 am, the visionary vision on the Amritsar and Pathankot runway in Punjab is at a low zero. At 7 am, the selection of the Gorakhpur airport in Uttar Pradesh has declined to zero.
 
 ◼️
 
 [Data](articles/b35535ed.json)
+
+[Extended Data](ext_articles/b35535ed.ext.json)
 
 ---
 
@@ -148,6 +198,22 @@ Investigations are underway under the leadership of Chief Inspector Samindra Kum
 
 ---
 
+### 2024 General Election: Voter turnout as at 2pm
+
+*2024-11-14 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103403/2024-general-election-voter-turnout-as-at-2pm) · `en`
+
+The district-level voter turnout for the 2024 General Election has already exceeded 55 percent in several districts, according to reports.
+
+Accordingly, the voter turnout percentages of several districts as at 2.00 p.m. today (Nov.14) are as follows:
+
+◼️
+
+[Data](articles/90055312.json)
+
+[Extended Data](ext_articles/90055312.ext.json)
+
+---
+
 ### Rahul adventure trip on zip line
 
 *2024-11-14 14:45:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிப்-லைனில்-ராகுல்-சாகச-பயணம்/175-347117) · `ta`
@@ -176,6 +242,22 @@ Loses. At the same time their diligence and the ability to attack me amazed me. 
 
 ---
 
+### Voter turnout in General Election as at 1pm
+
+*2024-11-14 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103402/voter-turnout-in-general-election-as-at-1pm) · `en`
+
+The district-level voter turnout for the 2024 General Election has already exceeded 50 percent in several districts, according to reports.
+
+Accordingly, the voter turnout percentages of several districts as at 1.00 p.m. today (Nov.14) are as follows:
+
+◼️
+
+[Data](articles/86b4e7b3.json)
+
+[Extended Data](ext_articles/86b4e7b3.ext.json)
+
+---
+
 ### Voting in Ampara District
 
 *2024-11-14 14:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/198688) · `ta`
@@ -199,6 +281,28 @@ Since the announcement of the 2024 general election, there is no violent and pea
 [Data](articles/9258d547.json)
 
 [Extended Data](ext_articles/9258d547.ext.json)
+
+---
+
+### Suspected bomber dead after trying to enter Brazil’s top court ahead of G20
+
+*2024-11-14 14:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103401/suspected-bomber-dead-after-trying-to-enter-brazils-top-court-ahead-of-g20) · `en`
+
+A man killed himself with a bomb outside Brazil’s Supreme Court after trying to enter the building on Wednesday, officials said, stirring security concerns before the country hosts global leaders from the Group of 20 major economies.
+
+The blasts come five days before the G20 heads of state meet in Rio de Janeiro, followed by a state visit to the capital Brasilia by Chinese President Xi Jinping.
+
+The first of two explosions went off on Wednesday evening in a parking lot near the court building and a second blast came seconds later in front of the court, where the man’s body was found.
+
+Federal District Vice Governor Celina Leao said preliminary information suggested the man had killed himself with explosives after trying to enter the Supreme Court. She said he owned a nearby car in which another explosion blew open the trunk.
+
+Leao said she hoped it was the crime of a “lone wolf,” but she could not be sure.
+
+...
+
+[Data](articles/2f9b36c6.json)
+
+[Extended Data](ext_articles/2f9b36c6.ext.json)
 
 ---
 
@@ -382,6 +486,46 @@ Attorney at Law, police spokesman, Attorney at Law Nihal Thameda said at a press
 
 ---
 
+### General Election voting peaceful so far – Police
+
+*2024-11-14 13:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103400/general-election-voting-peaceful-so-far-police-) · `en`
+
+Police Spokesman DIG Nihal Thalduwa stated that polling for Sri Lanka’s parliamentary election has been peaceful, with no election-related violence reported so far.
+
+However, he noted that three individuals involved in illegal election campaigning activities were arrested today (14). The arrested persons, aged 49, 19, and 26, are from Nedunkerny, Mannar, and Biyagama.
+
+In a special press briefing, the Police Spokesman further added that aside from these incidents, no acts of violent have been reported thus far, and the election has remained peaceful overall.
+
+Additionally, the Police Spokesman advised voters to cast their votes early due to expected rain in the evening.
+
+Meanwhile, DIG Thalduwa confirmed the deaths of three individuals involved in election duty today, who are reported to have died of natural causes.
+
+The deceased include a 33-year-old police officer who was stationed at a polling center in a school in Kurumburai, within the Kopai Police Division.
+
+...
+
+[Data](articles/d4a1ab63.json)
+
+[Extended Data](ext_articles/d4a1ab63.ext.json)
+
+---
+
+### Voter turnout in General Election as at noon
+
+*2024-11-14 13:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103399/voter-turnout-in-general-election-as-at-noon) · `en`
+
+The district-level voter turnout for the 2024 General Election has already exceeded 40 percent in several districts, according to reports.
+
+Accordingly, the voter turnout percentages of several districts as at 12 noon today (Nov.14) are as follows:
+
+◼️
+
+[Data](articles/2ca8cf63.json)
+
+[Extended Data](ext_articles/2ca8cf63.ext.json)
+
+---
+
 ### Voting in Jaffna smoothly
 
 *2024-11-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198674) · `ta`
@@ -470,6 +614,24 @@ In particular, the party's symbol of such candidates has been thrown into the re
 
 ---
 
+### Republicans win majority of US House seats, giving Donald Trump and party control of govt
+
+*2024-11-14 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103398/republicans-win-majority-of-us-house-seats-giving-donald-trump-and-party-control-of-govt) · `en`
+
+Republicans have won enough seats to control the U.S. House, completing the party’s sweep into power and securing their hold on U.S. government alongside President-elect Donald Trump.
+
+A House Republican victory in Arizona, alongside a win in slow-counting California earlier Wednesday, gave the GOP the 218 House victories that make up the majority. Republicans earlier gained control of the Senate from Democrats.
+
+With hard-fought yet thin majorities, Republican leaders are envisioning a mandate to upend the federal government and swiftly implement Trump’s vision for the country.
+
+The incoming president has promised to carry out the country’s largest-ever deportation operation, extend tax breaks, punish his political enemies, seize control of the federal government’s most powerful tools and reshape the U.S. economy. The GOP election victories ensure that Congress will be onboard for that agenda, and Democrats will be almost powerless to check it.
+
+...
+
+[Data](articles/ed57c674.json)
+
+---
+
 ### Arrest
 
 *2024-11-14 12:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-விநியோகித்தவர்-கைது/175-347111) · `ta`
@@ -531,6 +693,20 @@ The boys were later admitted to the Talawa Primary Hospital. Among them, three b
 [Data](articles/e63bdbf8.json)
 
 [Extended Data](ext_articles/e63bdbf8.ext.json)
+
+---
+
+### General Election: Voter turnout as at 11am
+
+*2024-11-14 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103397/general-election-voter-turnout-as-at-11am) · `en`
+
+The district-level voter turnout for the 2024 General Election has already exceeded 30 percent in several districts, according to reports.
+
+Accordingly, the voter turnout percentages of several districts as at 11.00 a.m. this morning (Nov.14) are as follows:
+
+◼️
+
+[Data](articles/658abdae.json)
 
 ---
 
@@ -2125,205 +2301,5 @@ Mount police have launched an investigation into the incident through informatio
 [Data](articles/579ecf57.json)
 
 [Extended Data](ext_articles/579ecf57.ext.json)
-
----
-
-### What we should learn from Nehru
-
-*2024-11-13 22:46:25* · [`dailyftlk`](https://www.ft.lk/columns/What-we-should-learn-from-Nehru/4-769212) · `en`
-
-Now after so many years we have to shamefully admit that in this age of religious ostentation, hypocrisy, superstition and orthodox thinking where priests of all faiths are gaining influence and getting political patronage for opinions, there is now a deep gap between the Nehruvian understanding of scientific approach and its practical application and implementation in the Indian context. It has come a long way. But Nehru is as relevant today as he was then.
-
-While today there is a deluge of superstitious clerics and leaders everywhere in the country, about seventy years ago, Pandit Jawaharlal Nehru had foresightly emphasised that, ‘Politics led me to economics and it was from that that I was inspired by science and knowledge to adopt a scientific approach to problems and life. Only science can solve the problem of hunger and poverty. Science is the only medium that can eradicate hunger and poverty.’
-
-...
-
-[Data](articles/e0dfa0e5.json)
-
-[Extended Data](ext_articles/e0dfa0e5.ext.json)
-
----
-
-### Reality will dawn on 15 November; election promises should become legally enforceable
-
-*2024-11-13 22:37:58* · [`dailyftlk`](https://www.ft.lk/columns/Reality-will-dawn-on-15-November-election-promises-should-become-legally-enforceable/4-769211) · `en`
-
-A system change will be meaningless unless governance participation is taken to the people in an effective, practical way not just during elections but in between them as well – Pic by Shehan Gunasekara
-
-In a society that has inequality and inequity, with many having no recourse to hold politicians responsible for the promises made, except believing promises by another set of politicians at the next election and believing them, and many ending up without opportunities for their advancement due to the failings of politicians, life does not change for them except going further downhill
-
-Government has no wealth, and when a politician promises to give you something for nothing, he must first confiscate that wealth from you -- either by direct taxes, or by the cruelly indirect tax of inflation
-
-Politicians are the same all over. They promise to build bridges even when there are no rivers
-
-...
-
-[Data](articles/65e38544.json)
-
-[Extended Data](ext_articles/65e38544.ext.json)
-
----
-
-### Lightning strikes
-
-*2024-11-13 21:52:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்னல்-தாக்கி-ஒருவர்-பலி/175-347075) · `ta`
-
-Here's a summary of the text in 200 characters:
-
-
-
-47-year-old man killed by lightning while plowing paddy field in Madhavachi.
-
-🟩
-
-A 47 -year -old man has died after being struck by lightning this afternoon in Madhavachi.
-
-Police said the disaster was suffered when the man was plowing in the paddy field.
-
-◼️
-
-[Data](articles/e44de5c4.json)
-
-[Extended Data](ext_articles/e44de5c4.ext.json)
-
----
-
-### 10 trains will be canceled tomorrow
-
-*2024-11-13 21:48:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-10-ரயில்கள்-ரத்து-செய்யப்படும்/175-347074) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"10+ train cancellations tomorrow due to driver shortage. SLRSMU warns more may follow if authorities can't hire enough drivers."
-
-🟩
-
-The Sri Lanka Railway Station Principals Association (SLRSMU) said that at least ten train services will be canceled tomorrow due to lack of train drivers and assistants.
-
-They also said that due to the lack of train drivers, 22 more train services will not work tomorrow.
-
-This procedure will continue if the responsible authorities are unable to hire the required number of train drivers and railway regulators. The union said the situation would cause uncomfortable for passengers and that many more train services could be canceled in the future.
-
-◼️
-
-[Data](articles/09cbec6f.json)
-
-[Extended Data](ext_articles/09cbec6f.ext.json)
-
----
-
-### Govt. to issue birth, marriage, and death certificates for overseas Sri Lankans through embassies
-
-*2024-11-13 21:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103389/govt-to-issue-birth-marriage-and-death-certificates-for-overseas-sri-lankans-through-embassies) · `en`
-
-The government has announced a new initiative to issue copies of birth, marriage, and death certificates to Sri Lankans living abroad through Sri Lankan embassies, aimed at providing greater convenience to the expatriate community.
-
-The program will be launched as a pilot project across seven selected foreign missions, including the embassies in Kuwait, Japan, and Qatar, and the consulates in Melbourne (Australia), Toronto (Canada), Milan (Italy), and Dubai (UAE), according to the President’s Media Division (PMD).
-
-In Sri Lanka, efforts are underway to enhance the e-BMD (electronic Birth, Marriage, and Death) database system, which is jointly managed by the Registrar General’s Department and the Ministry of Foreign Affairs. This will allow birth, marriage, and death certificates to be issued through foreign embassies, following a model already in place for obtaining certificates at Divisional Secretariat offices across Sri Lanka.
-
-...
-
-[Data](articles/e2a2d10b.json)
-
-[Extended Data](ext_articles/e2a2d10b.ext.json)
-
----
-
-### The 31st anniversary commemoration of St. Yakapar Temple, Gurunagar
-
-*2024-11-13 21:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198628) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-St. Yakapar Temple, Gurunagar, commemorates its 31st anniversary. The temple was bombed in 1993 due to state terrorism. A ceremony was held, led by Arutpani Yavis Adikallar, remembering the past events.
-
-🟩
-
-The 31st anniversary commemoration was commemorated on Wednesday (13) that the St. Yagapar Temple of Gurunagar was bombed and corrupted by state terrorism in 1993.
-
-At the end of the morning at the temple, led by the partner Arutpani Yavis Adikallar, the morning was recalled.
-
-Mind of the Mind of the Mind. Conscious Raj Adikallar gave up.
-
-◼️
-
-[Data](articles/d75f0cf1.json)
-
-[Extended Data](ext_articles/d75f0cf1.ext.json)
-
----
-
-### “Sri Lanka is a peaceful, beautiful and friendly destination ahead of tourist season” – Foreign Ministry
-
-*2024-11-13 20:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103388/sri-lanka-is-a-peaceful-beautiful-and-friendly-destination-ahead-of-tourist-season-foreign-ministry) · `en`
-
-Sri Lanka’s Foreign Ministry has announced that the United States today lifted the security alert on the Arugam Bay area, following close collaboration with the Sri Lankan side and the immediate and extensive security measures put in place by the Ministry of Defence, the Ministry of Public Security and related agencies.
-
-In a statement, the Ministry of Foreign Affairs emphasized that, Sri Lanka takes any security alert seriously, and accordingly the Sri Lankan authorities promptly implemented a series of coordinated security measures in the area to safeguard tourists, foreigners and residents against any possible threat.
-
-Detailed instructions were given by Sri Lanka Police to maintain security in the Arugam Bay area while emphasising the importance of safeguarding the freedom of tourists. The residents of the concerned areas as well as owners of tourist establishments and all persons engaged in the field of tourism cooperated closely with the Sri Lanka Police in these efforts, it said.
-
-...
-
-[Data](articles/43ed2bbe.json)
-
-[Extended Data](ext_articles/43ed2bbe.ext.json)
-
----
-
-### A batch of dry food packages brought to voters in Mannar by police;3 persons arrested
-
-*2024-11-13 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/198626) · `ta`
-
-Police arrest 3 distributing dry food in Mannar, recover 7kg goods worth ₹613500
-
-🟩
-
-A batch of dry food items brought by a political party to voters in Mannar has been rescued on Wednesday evening (13) on the main road of Mannar-Jeevai by Adampan police and three suspects have been arrested.
-
-Based on the information available to the police, a batch of dry food items found in the vehicle when a vehicle was checked on the main road of Mannar-Jeeva.
-
-During the investigation by the police, it was revealed that the dry food items were brought to voters by a political party.
-
-The police were taken to the Adampan Police Station and the three were arrested in the vehicle, including the driver of the vehicle, including the driver of the vehicle.
-
-The police have recovered 5 kg of rice packets, 2 kg of mango, 1 kg sugar and 20 g rinkso bucket of 5 % to be supplied to about 290 persons in the vehicle.
-
-It has been revealed that the items were purchased for 6 lakhs 13 thousand 500 rupees.
-
-...
-
-[Data](articles/2bc66454.json)
-
-[Extended Data](ext_articles/2bc66454.ext.json)
-
----
-
-### Introduction of Special Telephone numbers
-
-*2024-11-13 19:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தொலைபேசி-இலக்கங்கள்-அறிமுகம்/175-347073) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-06 special phone numbers announced for disaster alerts during elections. Implemented by National Building Research Institute, Meteorology Dept., Irrigation Dept., Armed Forces, and Police.
-
-🟩
-
-06 special telephone numbers have been introduced to announce any disasters during the election period.
-
-The project is being implemented by the National Building Research Institute, the Department of Meteorology, the Irrigation Department, the Armed Forces and the Police.. Remble
-
-◼️
-
-[Data](articles/b69c9fc8.json)
-
-[Extended Data](ext_articles/b69c9fc8.ext.json)
 
 ---

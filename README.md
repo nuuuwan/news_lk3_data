@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 12:41:34**
+As of **2024-11-14 14:01:57**
 
 ## Newspaper Stats
 
-*Scraped **54,703** Articles*
+*Scraped **54,722** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,299 @@ islandlk | 3,278
 economynextcom | 3,323
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,127
-adaderanalk | 6,526
-tamilmirrorlk | 7,673
-virakesarilk | 8,883
+adalk | 5,130
+adaderanalk | 6,532
+tamilmirrorlk | 7,676
+virakesarilk | 8,890
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,702 (100.0%) of 54,703 articles have been extended.
+54,722 (100.0%) of 54,722 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
 
-### குளவிகொட்டில் 17 சிறுவர்கள் பாதிப்பு
+### Correct Recovery from Voting Station Restroom
+
+*2024-11-14 13:38:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிலைய-கழிவறையிலிருந்து-சடலம்-மீட்பு/175-347114) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Officer AM Azeem (57) dies in restroom at Panama Muslim Maha Vidyalaya Voting Station. Body recovered. Magistrate orders autopsy. Police conducting inquiries.
+
+🟩
+
+An officer working at the Panama Muslim Maha Vidyalaya Voting Station, Kobegane, has died in the toilet and his body has been recovered this morning.
+
+The deceased is AM Azeem (age 57), who is serving as an assistant to Agricultural Research and Production Assistant from Mawathagama.
+
+Nikverattiya Magistrate Sandana Liyanage, who was investigating the incident, ordered the police to hand over the body to the legal officer of the Nikavaratiya Base Hospital for autopsy.
+
+Udaya Kumara, the officer in charge of the police station, is conducting further inquiries into the incident of the incident of the Superintendent of Police Jayantha Gunawardena and the Superintendent of Police, Vasantha Jayamina Kumara.
+
+◼️
+
+[Data](articles/f8a613bd.json)
+
+[Extended Data](ext_articles/f8a613bd.ext.json)
+
+---
+
+### Three officers killed in election duty
+
+*2024-11-14 13:21:29* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණ-රාජකාරියේ-නිරත-නිලධාරීන්-තිදෙනෙක්-මරුට/11-413036) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"3 officers died during election duties: 1 police & 2 civilians. Spokesman Nihal Thameda confirmed at press conference on 14th."
+
+🟩
+
+A police officer and two civilians have been killed today (14).
+
+Attorney at Law, police spokesman, Attorney at Law Nihal Thameda said at a press conference held today.
+
+◼️
+
+[Data](articles/9f695d4b.json)
+
+[Extended Data](ext_articles/9f695d4b.ext.json)
+
+---
+
+### Voting in Jaffna smoothly
+
+*2024-11-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198674) · `ta`
+
+Jaffna election voting progresses smoothly. 16% registered voters cast ballots by 10 AM. Polls open from 7 AM to 4 PM.
+
+🟩
+
+The general election voting is underway to elect members for the tenth parliament.
+
+Voting will be held in the Jaffna district from 7 am to 4 pm.
+
+The District Secretariat has announced that a 16% voting registration has been held in the Jaffna district till 10 am today.
+
+◼️
+
+[Data](articles/5ac3f298.json)
+
+[Extended Data](ext_articles/5ac3f298.ext.json)
+
+---
+
+### Parliamentary Election 2024: Voting Rate till 12 noon!
+
+*2024-11-14 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198678) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka's 10th parliamentary election voting rates (12 noon): Kandy 30%, Nuwara Eliya 40%, Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%, Anuradhapura 40%.
+
+🟩
+
+Sri Lanka's 10th parliamentary election is being held on Thursday 14th.
+
+As such, the voting will be held nationwide from 7 am to 4 pm.
+
+Accordingly, the voting rates held at 12 noon today
+
+Kandy 30%, Nuwara Eliya 40%Badulla 41%, Puttalam 30%, Batticaloa 32%, Ampara 37%, Kegalle 32%, Ratnapura 35%, Polonnaruwa 42%, Kurunegala 28%, Matara 34%, Trincomalee 45%, Gampaha 40%40%, 40% of Anuradhapura.
+
+◼️
+
+[Data](articles/80eb94b0.json)
+
+[Extended Data](ext_articles/80eb94b0.ext.json)
+
+---
+
+### An increase in sales of abortion pill
+
+*2024-11-14 12:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கருக்கலைப்பு-மாத்திரை-விற்பனை-அதிகரிப்பு/50-347113) · `ta`
+
+Sales of abortion pills surge post-election. Contraception concerns rise as Trump tightens abortion rules. Doctors report 966% increase in pill purchases. Patients stockpile medication, fearing future restrictions.
+
+🟩
+
+Over the next few hours of the release of the election results increased the sale of abortion pill. This is not here in the United States.
+
+Donald Trump wins US presidential election. Over the next few hours of the election result, the country has increased the treatment of contraception and abortion pills.
+
+Doctors have informed American media outlets that have increased the country after the election and doubts about the long -term control of the treatment and permanent contraception.. Pharmaceuticals have also increased the sale of pills to help contraception and abortion.
+
+There have been reports that people are keeping the reserve of buying contraceptive and abortion pills. This means that the sale of these pills has increased by 966 percent compared to the previous week's week.. People are asking doctors about Iyi treatment.
+
+...
+
+[Data](articles/8a3bb5e6.json)
+
+[Extended Data](ext_articles/8a3bb5e6.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-11-14 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198671) · `ta`
+
+US Dollar: 287.7253 INR (buying), 296.7260 INR (selling).
+
+🟩
+
+The US dollar purchasing price was 287.7253 rupees and the sales price were 296.7260 rupees based on a currency exchange rate released today (14).
+
+◼️
+
+[Data](articles/154d50ef.json)
+
+[Extended Data](ext_articles/154d50ef.ext.json)
+
+---
+
+### Pamphlets engraved with the party symbol of Vavuniya!
+
+*2024-11-14 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198672) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Election pamphlets featuring Vavuniya party symbols distributed near polling stations. Voting takes place on Thursday (14). Candidates' symbols placed at recent polling stations.
+
+🟩
+
+Voting for the general election is being held on Thursday (14).
+
+In particular, the party's symbol of such candidates has been thrown into the recent polling stations.
+
+◼️
+
+[Data](articles/a64ec7f1.json)
+
+[Extended Data](ext_articles/a64ec7f1.ext.json)
+
+---
+
+### Arrest
+
+*2024-11-14 12:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-விநியோகித்தவர்-கைது/175-347111) · `ta`
+
+Candidate arrested distributing money voters police seize funds
+
+🟩
+
+A general election candidate has been arrested by the police near the Kalpitiya Almanar camp while distributing money to voters today (14).
+
+The candidate already had 97,200 rupees and the police had seized the money.
+
+◼️
+
+[Data](articles/f12d750e.json)
+
+[Extended Data](ext_articles/f12d750e.ext.json)
+
+---
+
+### Arugambay Travel Ladens Language Israel
+
+*2024-11-14 12:38:10* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සංචාරක-සීමා-ඊශ්‍රායෙලය-ලිහිල්-කරයි/11-413035) · `si`
+
+Israel eases travel restrictions to Sri Lanka, reduces alert level from 4 to 2. Warns citizens to avoid Arugambay area due to intelligence suggesting potential threats.
+
+🟩
+
+Israel has acted to ease the travel limits of Israel's travel limits on the tour of Sri Lanka.
+
+So according to the National Security Council of the National Security Council has reduced the alarm level from four to two.
+
+Israel released a warning to the citizens of the country to avoid returning to Arugambay area. It was with intelligence information that the land would allow his countrymen to go aim to their countrymen.
+
+◼️
+
+[Data](articles/63f97bb2.json)
+
+[Extended Data](ext_articles/63f97bb2.ext.json)
+
+---
+
+### 17 boys vulnerable in wasp
 
 *2024-11-14 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவிகொட்டில்-17-சிறுவர்கள்-பாதிப்பு/175-347110) · `ta`
 
-தலாவ - ஹலம்பவெவ பிரதேசத்தில் அமைந்துள்ள முன்பள்ளியில், 17 சிறுவர்கள் குளவி கொட்டுக்கு இலக்காகி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக, தலாவ பொலிஸார் தெரிவித்துள்ளனர்.
+17 boys hospitalized after wasp sting during preschool event in Sri Lanka. Three transferred to teaching hospital.
 
-இந்த முன்பள்ளியின் வருடாந்த பன்முகக் கண்காட்சியின் போது, பாடசாலை மைதானத்தில் உள்ள மாமரத்தில் இருந்த குளவி கூட்டை பருந்து ஒன்று கிளறியதால், மூன்று முதல் நான்கு வயதுக்குட்பட்ட சிறுவர்கள் குளவி கொட்டுக்கு இலக்காகியுள்ளனர்.
+🟩
 
-பின்னர் அந்த சிறுவர்கள் தலாவ ஆரம்ப வைத்தியசாலையில் அனுமதிக்கப்பட்டனர். அவர்களில், மூன்று சிறுவர்கள் அனுராதபுரம் போதனா வைத்தியசாலைக்கு மாற்றப்பட்டுள்ளனர்.AN
+At the pre -school in the Talawa - Halambawewa area, 17 boys have been admitted to the hospital, Talawa police said.
+
+During the annual diversity exhibition of the pre -school, the boys between the ages of three and four were targeted as a wasp of a wasp of a wasp of a mango tree at the school grounds.
+
+The boys were later admitted to the Talawa Primary Hospital. Among them, three boys have been transferred to the Anuradhapura Teaching Hospital.
 
 ◼️
 
 [Data](articles/e63bdbf8.json)
+
+[Extended Data](ext_articles/e63bdbf8.ext.json)
+
+---
+
+### Voting in Trincomalee smoothly
+
+*2024-11-14 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198667) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Election day in Trincomalee: Voting underway smoothly. Sri Lanka's 10th Parliament poll begins at 7 AM.
+
+🟩
+
+The election for Sri Lanka's 10th Parliament began today (14) at 7.00 am.
+
+◼️
+
+[Data](articles/579d3801.json)
+
+[Extended Data](ext_articles/579d3801.ext.json)
+
+---
+
+### Voting in Vavuniya smoothly
+
+*2024-11-14 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198665) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Voting in Vavuniya progresses smoothly for Sri Lanka's 10th parliamentary elections. Former MP Katar Mastan and Sivasakthi Anandan cast their votes at Tamil Central Maha Vidyalaya. Other polling stations report normal morning voting activity.
+
+🟩
+
+Voting records of Sri Lanka's 10th parliamentary elections are being held smoothly in Vavuniya.
+
+Former Parliamentarian Katar Mastan and Sivasakthi Anandan voted at the Vavuniya Tamil Central Maha Vidyalaya.
+
+At the same time, people can see voting in the morning at other polling stations.
+
+◼️
+
+[Data](articles/0cc3f550.json)
+
+[Extended Data](ext_articles/0cc3f550.ext.json)
 
 ---
 
@@ -69,6 +333,32 @@ The US Embassy in Sri Lanka has announced that the US has received a travel cont
 [Data](articles/9b561786.json)
 
 [Extended Data](ext_articles/9b561786.ext.json)
+
+---
+
+### Voting peacefully in Nuwara Eliya district
+
+*2024-11-14 11:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/198652) · `ta`
+
+Nuwara Eliya voting begins 7am. Plantation workers casting ballots. Police ensuring security. 7% turnout reported. Weather warning: vote early, avoid evening.
+
+🟩
+
+Voting for the parliamentary elections will begin today (14) at 7 am.
+
+Especially in the hill country, the plantation people, including plantation people, go to polling stations and use their votes.
+
+At the same time, the police are engaged in security work and domestic foreign international monitors are paying their views.
+
+Meanwhile, Nuwara Eliya District Election Officer / District Secretary Nandana Kalada said that 7% of the votes were held in the Nuwara Eliya district until 8 am.
+
+He added that people should go to the polling booth in the morning as there will be inclement weather in the evening in Nuwara Eliya district.
+
+◼️
+
+[Data](articles/9bd76b97.json)
+
+[Extended Data](ext_articles/9bd76b97.ext.json)
 
 ---
 
@@ -100,6 +390,78 @@ Accordingly, 13 railway services on the main road, 8 railway services on the coa
 
 ---
 
+### The OIC of the Polhena polls dies suddenly
+
+*2024-11-14 11:31:16* · [`adalk`](https://www.ada.lk/breaking_news/පොල්හේන-ඡන්ද-මධ්‍යස්ථානයේ-ස්ථානාධිපතිවරිය-හදිසියේ-මිය-යයි/11-413034) · `si`
+
+OIC Polhena polls dies suddenly. Ballot center at Bhikku monastery affected. Identified as 48-year-old disabled officer from Colombo 12. Police investigation ongoing. Post-mortem ordered at Kalubowila Hospital.
+
+🟩
+
+Kesbewa Police say that the ballot center of the Bhikku monastery was suddenly suddenly ill in the center, Kesbewa Madapaka Polhena.
+
+The deceased is the 48 handicapped officer who worked as a Programs Actoricist in Colombo 12, Induruwagoda, Induruwagoda, Induruwagoda, Induruwagoda, Induruwagoda
+
+The deceased has been identified as two other officials with two other officials yesterday (13).
+
+The police officer was deceased and was identified as the artificial brief and was admitted to the Piliyan Hospital, providing the artificial respiratory by the arrival of the money.
+
+Police investigations have revealed that the deceased officer had been treated for a condition.
+
+The police were ordered to deposit the post mortem to the post mortem at the Kalubowila Teaching Hospital for post mortem to the post mortem examination.
+
+On the instructions of the OIC of the Kesbewa Police Chief Inspector Ranjana Samarasinghe
+
+◼️
+
+[Data](articles/74025563.json)
+
+[Extended Data](ext_articles/74025563.ext.json)
+
+---
+
+### Election Commission Chairman’s request to all voters
+
+*2024-11-14 11:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/103396/election-commission-chairmans-request-to-all-voters-) · `en`
+
+The Election Commission of Sri Lanka requests voters to visit their respective voting centers in the morning and cast their votes at the earliest possible opportunities.
+
+The Chairman of the Election Commission, R.M.A.L. Ratnayake, urged voters to make sure that they take a valid document to confirm their identity when vising polling centers.
+
+However, he clarified that not receiving an official polling card will not be an obstacle for registered voters to cast their votes.
+
+...
+
+[Data](articles/ac118945.json)
+
+[Extended Data](ext_articles/ac118945.ext.json)
+
+---
+
+### Voting peacefully in the Mullaitivu district
+
+*2024-11-14 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/198655) · `ta`
+
+Quiet start to voting in Mullaitivu district for parliamentary elections. 137 polling centers open, 86,869 eligible voters. Over 2,000 officials and police ensuring smooth process.
+
+🟩
+
+Voting for the parliamentary elections selecting new parliamentarians in the Mullaitivu district has begun quietly.
+
+As the voting records for the selection of new MPs commence at 7 am today, the people are excitedly voting at the Mullaitivu district polling stations to select new leaders.
+
+137 voting centers for voters voting in Mullaitivu district. 86,869 eligible to vote today to vote
+
+Are. More than 1,500 government officials and 500 police officers are involved in the election work and are on the occasion of election duty.
+
+◼️
+
+[Data](articles/a0638f28.json)
+
+[Extended Data](ext_articles/a0638f28.ext.json)
+
+---
+
 ### Four polling centers on the same land
 
 *2024-11-14 11:14:33* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්ද-මධ්‍යස්ථාන-හතරක්-එකම-භූමියක/11-413033) · `si`
@@ -121,32 +483,6 @@ Seven (14) the 17th and a large number of the morning to the election. With fire
 [Data](articles/35383526.json)
 
 [Extended Data](ext_articles/35383526.ext.json)
-
----
-
-### Voting peacefully in Nuwara Eliya district
-
-*2024-11-14 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/198652) · `ta`
-
-Nuwara Eliya voting begins 7am. Plantation workers casting ballots. Police ensuring security. 7% turnout reported. Weather warning: vote early, avoid evening.
-
-🟩
-
-Voting for the parliamentary elections will begin today (14) at 7 am.
-
-Especially in the hill country, the plantation people, including plantation people, go to polling stations and use their votes.
-
-At the same time, the police are engaged in security work and domestic foreign international monitors are paying their views.
-
-Meanwhile, Nuwara Eliya District Election Officer / District Secretary Nandana Kalada said that 7% of the votes were held in the Nuwara Eliya district until 8 am.
-
-He added that people should go to the polling booth in the morning as there will be inclement weather in the evening in Nuwara Eliya district.
-
-◼️
-
-[Data](articles/9bd76b97.json)
-
-[Extended Data](ext_articles/9bd76b97.ext.json)
 
 ---
 
@@ -251,6 +587,22 @@ With 90 thousand 607 voters qualified to vote in Mannar district, it is possible
 [Data](articles/695db3bd.json)
 
 [Extended Data](ext_articles/695db3bd.ext.json)
+
+---
+
+### General Election: Voter turnout as at 10am
+
+*2024-11-14 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103395/general-election-voter-turnout-as-at-10am) · `en`
+
+The district-level voter turnout for the 2024 General Election has already exceeded 20 percent in several districts, according to reports.
+
+Accordingly, the voter turnout percentages of several districts as at 10.00 a.m. this morning (Nov.14) are as follows:
+
+◼️
+
+[Data](articles/7bf61164.json)
+
+[Extended Data](ext_articles/7bf61164.ext.json)
 
 ---
 
@@ -402,6 +754,22 @@ Habaraduwa police are investigating the incident as the suspects involved in the
 
 ---
 
+### General Election: Voter turnout as at 9am
+
+*2024-11-14 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103394/general-election-voter-turnout-as-at-9am) · `en`
+
+The district-level voter turnout for the 2024 General Election has already exceeded 10 percent in several districts, according to reports.
+
+Accordingly, the voter turnout percentages of several districts as at 09.00 a.m. this morning (Nov.14) are as follows:
+
+◼️
+
+[Data](articles/3a7ef97f.json)
+
+[Extended Data](ext_articles/3a7ef97f.ext.json)
+
+---
+
 ### Election results will be released at 10 pm
 
 *2024-11-14 09:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தேர்தல்-முடிவுகள்-இரவு-10-மணிக்கு-வெளியாகும்/150-347096) · `ta`
@@ -510,6 +878,30 @@ The task of counting the first postal votes will begin at 5 pm, and it depends o
 
 ---
 
+### Israel removes severe travel warning for Sri Lanka’s Arugam Bay
+
+*2024-11-14 09:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103393/israel-removes-severe-travel-warning-for-sri-lankas-arugam-bay-) · `en`
+
+Israeli authorities eased a travel warning for Sri Lanka on Wednesday, some three weeks after cautioning tourists at a popular beach town of an imminent terrorist threat.
+
+The National Security Council, which publishes travel advisories, said it was lowering the warning level for Sri Lanka’s Arugam Bay area from four, which indicates a highly credible threat, to two, indicating a more mild occasional threat.
+
+The high-level threat area had extended across Sri Lanka’s southeastern coast as far as the town of Hikkaduwa.
+
+The rest of the island nation was lowered from level three — moderate — to level two.
+
+The NSC says the threat level is being updated from level 4 (high) in the southwest of the country and level 3 (moderate) in the rest of Sri Lanka, to level 2 (an occasional threat) for the entire country.
+
+The NSC says Israeli travelers should alert local security forces if there are any hostilities toward Jews or Israelis, and cautions against wearing Jewish or Israeli symbols.
+
+...
+
+[Data](articles/71c62631.json)
+
+[Extended Data](ext_articles/71c62631.ext.json)
+
+---
+
 ### Correct recovery from the polling station
 
 *2024-11-14 09:43:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/வாக்களிப்பு-நிலையத்தில்-இருந்து-சடலம்-மீட்பு/71-347094) · `ta`
@@ -588,6 +980,30 @@ Further investigations are being carried out by the lorry police. Remble
 
 ---
 
+### Heavy showers expected in parts of the island
+
+*2024-11-14 08:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103392/heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meterology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island after 2.00 p.m.
+
+Showers or thundershowers may occur in Northern and Eastern provinces and in Hambantota district during the morning too.
+
+Heavy showers about 100 mm are likely at some places in Western, Sabaragamuwa and North- western provinces and in Badulla, Galle and Matara districts. Fairly heavy showers about 75 mm are likely elsewhere, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning
+
+The general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/057ec89b.json)
+
+[Extended Data](ext_articles/057ec89b.ext.json)
+
+---
+
 ### Showers in many parts of the provinces
 
 *2024-11-14 08:01:43* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413032) · `si`
@@ -613,6 +1029,26 @@ Heavy rains can occur and said.
 [Data](articles/10fddb71.json)
 
 [Extended Data](ext_articles/10fddb71.ext.json)
+
+---
+
+### 2024 General Election: Sri Lanka votes in crucial election today
+
+*2024-11-14 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103391/2024-general-election-sri-lanka-votes-in-crucial-election-today) · `en`
+
+Over 17 million Sri Lankans will have the chance to vote for the country’s tenth Parliament election weeks after Anura Kumara Dissanayake has won Sri Lanka’s presidential election after a historic second round of counting.
+
+This snap election, called by the new President, is expected to have significant ramifications for the nation’s political gridlock, particularly as the National People’s Power (NPP) party led by President Anura Kumara Dissanayake, which currently holds only three seats, seeks to establish itself as the dominant political force.
+
+A total of 17,140,354 Sri Lankans are eligible to vote in this year’s Parliamentary Election, with the Gampaha District registering the highest number of voters with 1,881,129.
+
+Colombo District is second with 1,765,351 registered voters, and Kurunegala District has 1,417,226 voters. The Northern Province has a combined total of 899,268 registered voters.
+
+...
+
+[Data](articles/dbb79c7a.json)
+
+[Extended Data](ext_articles/dbb79c7a.ext.json)
 
 ---
 
@@ -1927,447 +2363,5 @@ Other board members include Sanjaya Karunasena, Harsha Purasinghe, Chandima Coor
 [Data](articles/b69deadc.json)
 
 [Extended Data](ext_articles/b69deadc.ext.json)
-
----
-
-### Purchase of more prices and Rs.. 43.6 has been a loss
-
-*2024-11-13 18:53:12* · [`adalk`](https://www.ada.lk/breaking_news/දේශීයව-ලබා-ගත්-ගෝස්-තිබියදී-වැඩි-මිල-ගෝස්-මිලදී-ගෙන-රජයට-රු-මි--43-6ක-පාඩුවක්-කරලා/11-413025) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-High-priced gauze purchase led to loss. Supplier overcharged due to alleged shortage. Audit reveals excess supply. Investigation recommended by December 2024.
-
-🟩
-
-A large number of gauze obtained from the medical supplier was paid to Rs.. There was no need to buy the gauze at a higher price of the medical supply sector and showed a fake shortage and the laws had been purchased as a sudden purchase.
-
-The only bidder was approved to the only bidder in the Procurement Committee to be an emergency requirement in the Procurement Committee and approved the same bidder to a order of three million gaze meters. The Audit Report states that at the time of the appointment of this order, a local supplier has provided 3,635,700 meters.
-
-The supplier has provided Rs 74,96 rupees under the Cotuary of the Medical Supply Division. But the Bid had been submitted to import the gauer from Rs.. The aim of this is recommended that the investigation should be disciplined before December 2024, regarding the matter.
-
-◼️
-
-[Data](articles/44cdd551.json)
-
-[Extended Data](ext_articles/44cdd551.ext.json)
-
----
-
-### There is no error to reserve online passport days
-
-*2024-11-13 18:48:26* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පාස්පෝට්-දින-වෙන්-කර-ගැනීමේ-දෝෂයක්-නෑ/11-413024) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-No errors reported for online passport reservations. Ministry of Defense confirms Department of Immigration handles bookings. No technical failures detected. Those experiencing issues can contact 1919 State Information Center for assistance.
-
-🟩
-
-The Ministry of Defense states that the reservation of the date is being reserved to obtain passport through the Department of Immigration. Investigating the newspaper today, the Ministry said that no technical failure has been reported.
-
-A day and pre-setting up a date and time to the Ministry of Immigration and the Department of Immigration and the Department will be conducted by the Ministry of Immigration and Emigration.Inquiry, he said.
-
-The Ministry stated that the 1919 State Information Center has been submitted to those who have difficulty visiting the web page.
-
-◼️
-
-[Data](articles/b2adfbce.json)
-
-[Extended Data](ext_articles/b2adfbce.ext.json)
-
----
-
-### Use your feet to vote
-
-*2024-11-13 18:44:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பதற்கு-உங்கள்-கால்களை-பயன்படுத்துங்கள்/175-347068) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Use your feet to vote: General election begins Thursday 14th at 7am. Democracy offers relief from capitalism. Sri Lanka gained voting rights in 1931. New governments chosen every 5 years, but old political models persist."
-
-🟩
-
-The general election voting for the country's 10th parliament will begin nationwide on Thursday 14th at 7 am and ends at 4 pm. After all the ballot boxes have been taken to the polling stations, the voting process will be carried out. Postal votes will be counted first.
-
-Many were waiting for this day to tie their finger and others waited for better if this day didn't come. The winner only wants a vote. The loser does not like it. This is a common feature of each president, general, provincial councils and local government elections.
-
-...
-
-[Data](articles/f75bbab3.json)
-
-[Extended Data](ext_articles/f75bbab3.ext.json)
-
----
-
-### New Parliament gathers on Thursday
-
-*2024-11-13 18:40:05* · [`adalk`](https://www.ada.lk/breaking_news/නව-පාර්ලිමේන්තුව-21දා-රැස්වෙයි/11-413023) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-New Parliament convenes Nov 21 at 10 AM. President Anura Kumara Dissanayake issues gazette notifications under Section 70 of the Constitution. 10th Parliament of Sri Lanka begins its session.
-
-🟩
-
-A week later, the new Parliament gathered at 10.00 am on November 21 parliament today (14).
-
-President Anura Kumara Dissanayake has issued special gazette notifications to be called by President Anura Kumara Dissanayake on the powers vested in Section 70 of the Constitution.. The 10th parliament of Sri Lanka are collected in Sri Lanka.
-
-◼️
-
-[Data](articles/f35c086e.json)
-
-[Extended Data](ext_articles/f35c086e.ext.json)
-
----
-
-### Hazaranga second place in Pakistanis in ICC ODI rankings
-
-*2024-11-13 18:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198622) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pakistan's Babar Azam and Shaheen Shah Afridi lead ICC ODI rankings. Sri Lanka's Hazaranga ranks 2nd in T20. Shaheen Afridi excelled in Australia series, taking 8 wickets. Hazaranga jumps 4 spots in T20 rankings after 6 wickets against NZ.
-
-🟩
-
-Pakistanis Babar Azam and Shaheen Shah Abridi tops the international ODI bowling and cricket rankings.
-
-Sri Lanka's Vaikkunnu Hazaranga is ranked 2nd in the international T20 cricket rankings.
-
-Fast bowler Shaheen Shah Avridi was one of the key players who played the leading ODI series 2 - 1 for the first time after 22 years on Australian soil.
-
-Shaheen Shah Avari, who played in all three matches in the series, took 8 wickets with an average of 12.62.
-
-In the rankings for international ODI bowlers, Shaheen Shah Abridi became the first place with Keshav Maharaj, Rashid Khan and Kuldeep Yadav with 686 points.
-
-South African player Keshav Maharaj (674 points) behind 3rd place. Afghan player Rashid Khan (687 points) continues to be in the 2nd place and Indian player Kuldeep Yadav (674 points) behind 3rd place to 4th.
-
-Shaheen Shah Abridi, who was first in the first place for bowlers' rankings during the 2023 ICC ODI World Cup in India.
-
-...
-
-[Data](articles/eb40caee.json)
-
-[Extended Data](ext_articles/eb40caee.ext.json)
-
----
-
-### News for Sri Lankans abroad
-
-*2024-11-13 18:35:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிநாட்டில்-உள்ள-இலங்கையர்களுக்கான-செய்தி/175-347067) · `ta`
-
-Sri Lankan government initiative: Copies of birth, marriage & death certificates available at select foreign embassies. Implemented in 7 countries including Kuwait, Japan, Qatar. Certificates registered since 1960, with potential delays in processing.
-
-🟩
-
-The government plans to provide copies of birth, marriage and death certificates from Sri Lankan embassies abroad.
-
-This program will be implemented as a pioneering program through the selected 07 foreign embassies and Consul General Offices.
-
-Accordingly, Kuwait, Japan and Qatar are expected to implement this pioneer program through Melbourne of Australia, Toronto, Canada, Italy's Milan and Dubai embassies.
-
-Steps have been taken to ensure that these certificates are issued by foreign embassies to obtain birth, marriage and death certificates from any Divisional Secretariat in Sri Lanka, collectively maintained by the Registrar General Department and Foreign Ministry.
-
-Accordingly, at an early stage, only about 45 million birth, marriage and death certificates are distributed in the E-BMD data structure.
-
-...
-
-[Data](articles/0dabdc49.json)
-
-[Extended Data](ext_articles/0dabdc49.ext.json)
-
----
-
-### The salaries paid to the pensionable farmers paid 267 228
-
-*2024-11-13 18:34:38* · [`adalk`](https://www.ada.lk/breaking_news/විශ්‍රාම-වැටුප්-ලැබිය-යුතු-ගොවීන්-267-228ට-එම-වැටුප්-ගෙවා-නෑ/11-413022) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Pensionable farmers: 267,228 received payments. Unpaid: 64,228. Total enrolled: 871,425. Aged 67+: 474,803. 60-year-old pension scheme implemented in 6/12 districts. Audit recommends identifying approved 60+ contributors. Management prioritizes 60+ age group for pensions and social security benefits. Report released in 2023 on Farmer Pensions and Social Security Benefit Scheme.
-
-🟩
-
-The National Audit Office, 64,228 farmers who have not paid the number of farmers who have not paid the number of farmers' pensions 64 years of age have not been paid.. According to the report, the number of farmers enrolled in the farmer pensions is 871,425. 474,803 were the number of farmers aged 67 years from 61 years in the age of 63 years of December 31, 2023.
-
-In 2022, the 60-year-old pension scheme was written to all district and Assistant Directors of the Agri Real EstReship. But it is revealed that six district offices have not been implemented in a sample of 12 district offices.. The audit recommended to be required to identify the number of pension approved contributors to 60 years.
-
-The management has stated to the audit with the number of farmer pensions and social security benefits schemes that have been considered as a priority of the age of 60 years of age.. The audit report has been released on the year 2023 on the Farmers' Pensions and Social Security Benefit Scheme.
-
-◼️
-
-[Data](articles/cb623ddb.json)
-
-[Extended Data](ext_articles/cb623ddb.ext.json)
-
----
-
-### How Anura Kumara Dissanayake Won the Presidency in a Fourteen Fold Quantum Leap from 3% in 2019 to 42% in 2024.
-
-*2024-11-13 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85042) · `en`
-
-The Janatha Vimukthi Peramuna(JVP)and  National People’s Power(NPP) leader Anura Kumara Dissanayake  contested the 2019  presidential election under the compass symbol.He finished a poor third with 418,553(3.16%) votes. Anura refused to be cowed down by that crushing  defeat. AKD   refurbished his image  and re-invented the political approach of his party.
-
-This enabled  Anura to  spearhead  a commendable political renaissance of the JVP led NPP. As is well known , Anura Kumara Dissanayake finished first in  the presidential election held on 24 September 2024. Politically, it was a gigantic quantum leap. AKD polled 5,634,915(42.31%) votes on the first count and 5,740,179(55.89%) on the second count. It was truly a famous victory!
-
-...
-
-[Data](articles/64529c6d.json)
-
-[Extended Data](ext_articles/64529c6d.ext.json)
-
----
-
-### 146 shootings killed in organized criminals in two years
-
-*2024-11-13 18:15:59* · [`adalk`](https://www.ada.lk/breaking_news/වසර-දෙකකදී-සංවිධානාත්මක-අපරාධකරුවන්ගේ-වෙඩි-තැබීම්-වලින්-146ක්-මරුට/11-413021) · `si`
-
-In 2 years, 146 deaths & 114 injuries from organized crime shootings nationwide. Most incidents in Western (78) & Southern Provinces (61 deaths). 187 arrests total.
-
-🟩
-
-146 persons were killed and 114 others suffered injuries due to the shootings of the organized criminals in across the country.
-
-A senior official at the police headquarters said that the killings and injuries were injured in 224 shooting.2022. The official said that the shootings have taken place during May 30, 2024.
-
-The shootings have been reported in the Western Province, 78 shootings reported from the Western Province 78 were killed and 63 others suffered injuries.According to police headquarters, 61 shootings were killed in the Southern Province, and 43 were injured and 43 were injured.
-
-According to the sources, 110 organized criminals have been arrested in the Western Province alone and 77 persons were arrested in the Southern Province.
-
-◼️
-
-[Data](articles/9a440c98.json)
-
-[Extended Data](ext_articles/9a440c98.ext.json)
-
----
-
-### EXPLAINER – Possible policy implications on Sri Lanka’s construction sector after polls
-
-*2024-11-13 18:15:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-implications-on-sri-lankas-construction-sector-after-parliament-polls-187378/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s construction sector is expected to face several transformative shifts under new President Anura Kumara Dissanayake and the leftist-leaning National People’s Power (NPP) government after the November 14 poll. Here are five likely policy implications in the construction sector in a future NPP government:
-
-...
-
-[Data](articles/39229cc3.json)
-
-[Extended Data](ext_articles/39229cc3.ext.json)
-
----
-
-### Who is the mysterious Israeli staying in Arugam Bay for the last three years who has been provided with special security consisting of two members of the MSD, two army soldiers, several members of the police, and civil defence force?
-
-*2024-11-13 18:09:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85014) · `en`
-
-“Gaza was the first time I held a baby’s brains in my hand. The first of many.” – Dr. Mark Perlmutter, orthopaedic and hand surgeon (Open letter from American medical professionals who served in Gaza https://www.gazahealthcareletters.org/usa-letter-oct-2-2024)
-
-Last December, a group of ultra-religious Israeli soldiers turned a Palestinian home in the Gaza city of Beit Hanoun into a Chabad House.
-
-The structure at the centre of the Arugam Bay terror scare is also a Chabad House.
-
-Chabad House is not a synonym for synagogue. It is a religious space belonging to a particular Jewish sect, the Chabad-Lubavitch Hasidic Movement. Founded in the 18th Century among more conservative and non-assimilated Eastern European Jews, this Orthodox Jewish movement is spreading fast across the globe currently. The problem with this expansion is not the Movement’s religion, but its politics.
-
-...
-
-[Data](articles/61c6dea3.json)
-
-[Extended Data](ext_articles/61c6dea3.ext.json)
-
----
-
-### 490 social media complaints have been received in relation to the election
-
-*2024-11-13 18:06:14* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයට-අදාළව-සමාජ-මාධ්‍ය-පැමිණිලි-490-ක්-ලැබිලා/11-413020) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Elections Commission received 490 social media complaints about parliamentary election. Removed 87 content, left 403. 67 visual votes, 39 student, 52 child-related violations, 234 other complaints.
-
-🟩
-
-The Elections Commission states that 490 complaints have been received from October 11 to this month, 490 social media reports have been received in connection with the Parliamentary election.
-
-The Elections Commission says that the contents of the relevant social institutes to the relevant social media institutions and refused to remove the total number of content and removed 87 content.
-
-The Elections Commission further states that there were 67 Votes of Visual, which was contrary to the Election Act, 39 students, contrary to the Elections Act, which was contrary to 52 children, children, and 234 cases of complaints.
-
-◼️
-
-[Data](articles/161b3d7b.json)
-
-[Extended Data](ext_articles/161b3d7b.ext.json)
-
----
-
-### Sri Lanka deploys 70,000 police personnel to ensure uneventful election
-
-*2024-11-13 18:03:00* · [`economynextcom`](https://economynext.com/sri-lanka-deploys-70000-police-personnel-to-ensure-uneventful-election-187285/) · `en`
-
-ECONOMYNEXT- 70,000 police personnel have been deployed for election efforts, Police media spokesman DIG Nihal Thalduwa said.
-
-“Directly 64,000 [personnel] have been deployed,” Thalduwa said, and an “additional 6,000 are on stand-by”.
-
-Stringent security measures have been put in place for the general election on Thursday, Thalduwa told reporters this week.
-
-3,200 Special Task Force (STF) personnel are included in this deployment to encourage a free and fair voting.
-
-He requested the public to refrain from committing election offenses and to maintain a peaceful voting environment. (Colombo/Nov13/2024)
-
-◼️
-
-[Data](articles/28cd2454.json)
-
-[Extended Data](ext_articles/28cd2454.ext.json)
-
----
-
-### Former Minister Rohitha's nephew
-
-*2024-11-13 17:59:45* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-අමාත්‍ය-රෝහිතගේ-බෑණා-කරුණු-පහදයි/11-413019) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Former Minister Gayan Serem denies involvement in police case related to his father-in-law Rohitha Abeygunawardena. He claims false allegations about vehicles and passport cancellation. Threatens legal action against media institutions.
-
-🟩
-
-Former minister Gayan Serem held a media briefing regarding the public minister's son-in-law of the media that Rohitha Abeygunawardena was involved in the police in the Kandy area.
-
-Speaking
-
-Speaking further Mr. Herath said,. "The media institutions have propagated that the court has issued an order against me about taking the vehicles. I have earlier has lodged a complaint with the Police Bambalapitiya that there was no connection to it.
-
-It is now being again false allegations from near election. Those vehicles have nothing to do with me.
-
-I have had a court order, that a police investigation is held and propagated that my passport canceled. But it doesn't know that I have issued an order from any court. At least I have not been informed or not informed. It is also responsible for that my passport is not banned.
-
-It is evident to anyone that my wife is targeting the electoral victory of my wife's father.
-
-...
-
-[Data](articles/fce6d997.json)
-
-[Extended Data](ext_articles/fce6d997.ext.json)
-
----
-
-### Century from unconscious and kusal against New Zealand
-
-*2024-11-13 17:45:45* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහිව-අවිශ්කගෙන්-සහ-කුසල්ගෙන්-ශතක/9-413018) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Sri Lanka's Kusal Mendis and Danushka Gunathilaka scored centuries against New Zealand in the first ODI. Mendis remained undefeated on 99* off 98 balls, while Gunathilaka made 116*. The match ended in a tie after 50 overs per side due to rain.
-
-🟩
-
-Kusal Mendis and Anthem Fernando were able to record centuries in the first one-day match against New Zealand.
-
-Accordingly, Kusal Mendis was unbeaten on a total of 38 overs before the end of 38 overs.
-
-◼️
-
-[Data](articles/38ac0871.json)
-
-[Extended Data](ext_articles/38ac0871.ext.json)
-
----
-
-### EXPLAINER: Possible policy implications on Sri Lanka’s energy sector after parliament polls
-
-*2024-11-13 17:45:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-implications-on-sri-lankas-energy-sector-after-parliament-polls-187350/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s energy sector is expected to undergo significant changes, guided by social and economic reforms under the island nation’s new President Anura Kumara Dissanayake and his Marxist-leaning National People’s Power (NPP) government. Here are five potential implications to the sector after the November 14 parliamentary elections:
-
-The NPP’s policy platform strongly emphasizes environmental sustainability and energy independence. The government is expected to push for investments in renewable energy, such as solar, wind, and bioenergy projects, to reduce dependency on fossil fuel imports, as per the NPP’s policy document released before the presidential elections. This could lead to incentives for renewable projects, but it may also challenge existing energy providers reliant on non-renewable sources. ​
-
-...
-
-[Data](articles/1b2d9be4.json)
-
-[Extended Data](ext_articles/1b2d9be4.ext.json)
-
----
-
-### The country will reach the bankruptcy if the debt is not re -planned - Ranil
-
-*2024-11-13 17:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198617) · `ta`
-
-Sri Lanka faces bankruptcy risk if debt restructuring isn't planned properly by 2028, warns former President Ranil Wickremesinghe. Economic collapse in 2022 led to bankruptcy declaration. International Monetary Fund loan discussions ongoing to stabilize economy and repay debt. Key challenges include reducing debt burden and meeting 15% state income target by 2028 through new tax strategies without overburdening citizens.
-
-🟩
-
-2028ஆகும் போது கடன் மீள செலுத்தும் பின்னணியை ஏற்படுத்திக்கொள்வதே நாடு எதிர்கொண்டுள்ள பாரிய சவாலாகும். Former President Ranil Wickremesinghe said the country would be forced back to the bank if there was no proper planning.
-
-He was speaking at a women's meeting held in Colombo on Wednesday (13).
-
-The main issue in Sri Lanka is the economy. 2022ஆம் ஆண்டு பொருளாதாரம் முற்றாக வீழ்ச்சியடைந்தது. Accordingly, it was announced that our country was bankrupt. We had the first to leave the bank. If we declare it alone, it is not enough. சர்வதேசத்தினால் ஏற்றுக்கொள்ளப்பட வேண்டும்.
-
-World countries told us to discuss with the Monetary Fund. சர்வதேச நாணய நிதியத்துடன் இணக்கப்பாட்டுக்கு வந்த பின்னர் அவர்களுக்கு அறியத்தருமாறும் அந்த நாடுகள் தெரிவித்தன. நாங்கள் 18 நாடுகளிடம் கடன் பெற்றிருந்தோம். In addition, bail bonds were sold to privately in the world.
-
-...
-
-[Data](articles/3e81316a.json)
-
-[Extended Data](ext_articles/3e81316a.ext.json)
-
----
-
-### Customs officers temporarily call of trade union action
-
-*2024-11-13 17:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103386/customs-officers-temporarily-call-of-trade-union-action) · `en`
-
-The Sri Lanka Customs Trade Union Alliance says that the decision taken by the customs officers to only carry out the activities related to their respective duties has been temporarily suspended.
-
-The customs officers had resorted to a union action of carrying out only the work related to their official duties, in protest against the alleged false accusations levelled against them by container truck owners and drivers during an observation visit by Minister Vijitha Herath to the Colombo Port on November 07.
-
-This had resulted in a serious delay in the clearing of the containers at the port.
-
-However, the President of the Customs Trade Union Alliance stated that the decision to carry out only duty-related activities was temporarily suspended considering that the container truck drivers and assistants would not be able to vote due to having to park their container trucks.
-
-The President of the alliance Mr. Amila Sanjeeva said the following during a press conference this afternoon (13):
-
-...
-
-[Data](articles/79da34f9.json)
-
-[Extended Data](ext_articles/79da34f9.ext.json)
-
----
-
-### EXPLAINER: Possible policy impacts on Sri Lanka’s investments after parliament polls
-
-*2024-11-13 17:30:00* · [`economynextcom`](https://economynext.com/explainer-possible-policy-impacts-on-sri-lankas-investments-after-parliament-polls-187314/) · `en`
-
-ECONOMYNEXT – Both local and foreign investments in Sri Lanka are likely to face shifts that reflect new priorities in economic and social reforms under President Anura Dissanayake and his Marxist-leaning National People’s Power (NPP) government after the November 14 parliament polls. Here are five likely key impacts on investments:
-
-The NPP is expected to introduce stricter regulations for sectors deemed strategic or essential, which could increase the complexity of doing business for both local and foreign investors, analysts say. Such moves are likely to help in curbing deep rooted corruption at the expense of some delays, they say. This could affect investment in sectors such as energy, infrastructure, and utilities, where state influence may increase to ensure alignment with public needs and national priorities​.
-
-...
-
-[Data](articles/92d95f5d.json)
-
-[Extended Data](ext_articles/92d95f5d.ext.json)
 
 ---

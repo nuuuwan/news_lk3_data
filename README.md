@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 22:01:05**
+As of **2024-11-14 22:16:00**
 
 ## Newspaper Stats
 
-*Scraped **54,796** Articles*
+*Scraped **54,797** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,135
 adaderanalk | 6,547
-tamilmirrorlk | 7,699
+tamilmirrorlk | 7,700
 virakesarilk | 8,903
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,796 (100.0%) of 54,796 articles have been extended.
+54,796 (100.0%) of 54,797 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### பஸ் விபத்தில் 20 பேர் காயம்
+
+*2024-11-14 21:59:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பஸ்-விபத்தில்-20-பேர்-காயம்/175-347154) · `ta`
+
+மாத்தளை,  லக்கல எலவனகந்த பிரதேசத்தில் இன்று (14) பிற்பகல் பஸ் ஒன்று குன்றின் மீது கவிழ்ந்து விபத்துக்குள்ளானது.
+
+கொழும்பில் இருந்து லக்கல ஊடாக வஸ்கமுவ பகுதிக்கு சென்று கொண்டிருந்த பஸ்ஸே இவ்வாறு விபத்துக்குள்ளாகியுள்ளது.
+
+◼️
+
+[Data](articles/28dc22e4.json)
+
+---
 
 ### Ratnapura Postal Election Results
 
@@ -2339,27 +2353,5 @@ The first election results of the 2024 parliamentary election will be released a
 [Data](articles/be869d90.json)
 
 [Extended Data](ext_articles/be869d90.ext.json)
-
----
-
-### Election results will be released at 10 pm
-
-*2024-11-14 09:59:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்-முடிவுகள்-இரவு-10-மணிக்கு-வெளியாகும்/175-347096) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"2024 parliamentary election results: First batch announced at 10 PM. Election Commissioner Saman Sri Ratnayake confirms."
-
-🟩
-
-The first election results of the 2024 parliamentary election will be released at 10 pm. Elections Commissioner Saman Sri Ratnayake said today.
-
-◼️
-
-[Data](articles/ebf7b6b8.json)
-
-[Extended Data](ext_articles/ebf7b6b8.ext.json)
 
 ---

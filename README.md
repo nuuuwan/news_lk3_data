@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 12:01:22**
+As of **2024-11-14 12:16:44**
 
 ## Newspaper Stats
 
-*Scraped **54,701** Articles*
+*Scraped **54,702** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,127
 adaderanalk | 6,526
-tamilmirrorlk | 7,671
+tamilmirrorlk | 7,672
 virakesarilk | 8,883
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,701 (100.0%) of 54,701 articles have been extended.
+54,701 (100.0%) of 54,702 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### பயணக் கட்டுப்பாட்டை வாபஸ் பெற்றது அமெரிக்கா
+
+*2024-11-14 12:05:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயணக்-கட்டுப்பாட்டை-வாபஸ்-பெற்றது-அமெரிக்கா/175-347109) · `ta`
+
+அறுகம்பே பிரதேசத்துக்கான சுற்றுலா தொடர்பில் அமெரிக்கா விடுத்திருந்த பயண கட்டுப்பாடு ஆலோசனை மீளப்  பெறப்பட்டுள்ளதாக, இலங்கைக்கான அமெரிக்க தூதரகம் அறிவித்துள்ளது.
+
+கடந்த 23ஆம் திகதியன்று, கொழும்பில் உள்ள அமெரிக்கத் தூதரகம், “மறு அறிவித்தல் வரை அறுகம்பே பகுதிக்கு வருவதைத் தவிர்க்குமாறு  அமெரிக்கப் பிரஜைகளைக் கேட்டுக் கொள்கிறது” என்று, பாதுகாப்பு ஆலோசனையை வழங்கியது.
+
+இந்நிலையில், இலங்கைக்கு விதிக்கப்பட்டுள்ள பாதுகாப்பு எச்சரிக்கையை மீளப் பெறுமாறு இலங்கைக்கான அமெரிக்க தூதரகத்திடம், வெளிவிவகார அமைச்சு கோரிக்கை விடுத்திருந்தது.
+
+இதையடுத்து, அறுகம்பே பிரதேசத்துக்கான சுற்றுலா தொடர்பில் அமெரிக்கா விடுத்திருந்த பயண கட்டுப்பாடு ஆலோசனை மீளப்  பெறப்பட்டுள்ளதாக, இலங்கைக்கான அமெரிக்க தூதரகம் அறிவித்துள்ளது.AN
+
+◼️
+
+[Data](articles/9b561786.json)
+
+---
 
 ### Another 33 trains canceled
 
@@ -2351,39 +2369,5 @@ Meanwhile, a 1596 freight train from Badulla to Kandy has now been parked at the
 [Data](articles/3df3dc18.json)
 
 [Extended Data](ext_articles/3df3dc18.ext.json)
-
----
-
-### Movement on the winning of the ball
-
-*2024-11-13 17:16:02* · [`adalk`](https://www.ada.lk/sports/පන්දුවෙන්-වැඩ-පෙන්නූ-වනිඳු-ශ්‍රේණිගත-කිරීම්-හී-ඉදිරියට/9-413017) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-T20 cricket rankings update: Wanindu Hasaranga rises to second among bowlers, Mahish falls to fourth. Mendis drops three spots in batsmen rankings. Waranga advances five places. Fanuwatta improves due to recent NZ competition performance.
-
-🟩
-
-The International Cricket Council has published the latest T20 cricket rank.
-
-Accordingly, the second place between Twenty20 bowlers, Wanindu Hasaranga has come forward.
-
-However, the Mahish Supervisor has come down to the fourth point of one place.
-
-Meanwhile, the T20 batsmen ratings are still on the 8th.
-
-However, Kumindic Mendis has come down from three places between batsmen.
-
-Meanwhile, Waranga has been able to advance from one place from one place to five T20 three.
-
-Fanuwatta has come forward due to skills in the competition with New Zealand recently.
-
-◼️
-
-[Data](articles/3313cef3.json)
-
-[Extended Data](ext_articles/3313cef3.ext.json)
 
 ---

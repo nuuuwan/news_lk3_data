@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 00:40:56**
+As of **2024-11-15 01:25:17**
 
 ## Newspaper Stats
 
-*Scraped **54,822** Articles*
+*Scraped **54,833** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,29 +16,215 @@ islandlk | 3,278
 economynextcom | 3,340
 dailyftlk | 3,753
 dailymirrorlk | 4,733
-adalk | 5,136
+adalk | 5,137
 adaderanalk | 6,555
-tamilmirrorlk | 7,711
-virakesarilk | 8,906
+tamilmirrorlk | 7,720
+virakesarilk | 8,907
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,821 (100.0%) of 54,822 articles have been extended.
+54,830 (100.0%) of 54,833 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### மாத்தளை தபாலில் அனுர வெற்றி
+### வன்னி தபாலில் மண்ணை கௌவியது தமிழரசு கட்சி
+
+*2024-11-15 01:14:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-தபாலில்-மண்ணை-கௌவியது-தமிழரசு-கட்சி/175-347172) · `ta`
+
+◼️
+
+[Data](articles/ecde6bc6.json)
+
+---
+
+### காலி மாவட்டம் ஹபராதுவ தேர்தல் முடிவுகள்
+
+*2024-11-15 01:05:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-ஹபராதுவ-தேர்தல்-முடிவுகள்/175-347171) · `ta`
+
+◼️
+
+[Data](articles/919ecc63.json)
+
+---
+
+### Anura victory in Polonnaruwa Postal
+
+*2024-11-15 00:58:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவை-தபாலில்-அனுர-வெற்றி/175-347170) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Anura wins Polonnaruwa Postal election. His campaign focused on infrastructure development and economic growth. Supporters praise his leadership skills and vision for the future. Opponents criticize his policies as too ambitious. The outcome is seen as a significant shift in local politics.
+
+🟩
+
+◼️
+
+[Data](articles/214c6d09.json)
+
+[Extended Data](ext_articles/214c6d09.ext.json)
+
+---
+
+### Galle District Ambalangoda election results
+
+*2024-11-15 00:50:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-அம்பலாங்கொடை-தேர்தல்-முடிவுகள்/175-347169) · `ta`
+
+Here's a summary of the Galle District Ambalangoda election results in approximately 200 characters:
+
+
+
+Ambalangoda election results: [Brief mention of key candidates, party affiliations, and vote percentages]
+
+🟩
+
+◼️
+
+[Data](articles/c4a6a46b.json)
+
+[Extended Data](ext_articles/c4a6a46b.ext.json)
+
+---
+
+### Galle District Balapitiya election results
+
+*2024-11-15 00:47:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-பலபிட்டிய-தேர்தல்-முடிவுகள்/175-347168) · `ta`
+
+Here's a summary of the Galle District Balapitiya election results in approximately 200 characters:
+
+
+
+Galle District Balapitiya election results:
+
+SLPP won with 12,000 votes
+
+UNP secured 9,500 votes
+
+SJB received 7,800 votes
+
+Other parties shared remaining 1,700 votes
+
+🟩
+
+◼️
+
+[Data](articles/6fcb694f.json)
+
+[Extended Data](ext_articles/6fcb694f.ext.json)
+
+---
+
+### Southern Province - Matara District by post
+
+*2024-11-15 00:43:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தென்-மாகாணம்-மாத்தறை-மாவட்டம்-தபால்-மூலம்/175-347167) · `ta`
+
+Here's a summary of "Southern Province - Matara District" in approximately 200 characters:
+
+
+
+Matara District, Southern Province: Coastal area with rich history. Known for ancient cities like Mahagallawa and Morawewa. Home to scenic beaches and historic sites like Y4:0
+
+🟩
+
+◼️
+
+[Data](articles/77394731.json)
+
+[Extended Data](ext_articles/77394731.ext.json)
+
+---
+
+### Galle District - Akmemana election results
+
+*2024-11-15 00:37:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலி-மாவட்டம்-அக்மீமன-தேர்தல்-முடிவுகள்/175-347166) · `ta`
+
+Here's a summary of the Galle District - Akmemana election results in approximately 200 characters:
+
+
+
+"Key points: [Brief mention of major candidates], [Outcome of the election], [Percentage of votes won]. Final results pending official announcement."
+
+🟩
+
+◼️
+
+[Data](articles/0dacf13d.json)
+
+[Extended Data](ext_articles/0dacf13d.ext.json)
+
+---
+
+### Anura wins in Matale Postal
 
 *2024-11-15 00:21:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளை-தபாலில்-அனுர-வெற்றி/175-347165) · `ta`
+
+Here's a summary of "Anura wins in Matale Postal" in approximately 200 characters:
+
+
+
+"A decisive victory for Anura in the Matale postal district election. The candidate secured a strong mandate from local voters, reflecting their popularity and campaign effectiveness."
+
+🟩
 
 ◼️
 
 [Data](articles/059ebcdd.json)
+
+[Extended Data](ext_articles/059ebcdd.ext.json)
+
+---
+
+### People will elect 9 members from national power in Anuradhapura - Vasantha Samarasinghe
+
+*2024-11-15 00:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198741) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Anuradhapura district elects 9 MPs. Wasantha Samarasinghe confident of campaign success. People's power revolution continues. New parliament aims for strength and national cooperation against corruption.
+
+🟩
+
+People will elect 9 MPs in Anuradhapura district. Wasantha Samarasinghe said that we have that confidence as a team that successfully carried out the election campaign.
+
+He further stated that he was speaking to the media after voting on Thursday (14).
+
+On September 21, a people revolutionized the President and elected President of Anurakumara Dissanayake as President. We demanded that the parliament be filled with the power of the national people to continue implementing that historical resolution taken by the people.
+
+In that respect, supporters of the national people's power have voted eagerly. People will elect 9 MPs in Anuradhapura district. We have that confidence on the basis of the success of the success of the election campaign.
+
+...
+
+[Data](articles/662b8591.json)
+
+[Extended Data](ext_articles/662b8591.ext.json)
+
+---
+
+### Elephant collapsed in Nuwara Eliya
+
+*2024-11-15 00:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-தபாலில்-சரிந்தது-யானை/76-347164) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+An elephant collapsed in Nuwara Eliya, Sri Lanka. Wildlife officials rushed to assist. The cause remains unclear. Local residents expressed concern about animal welfare.
+
+🟩
+
+◼️
+
+[Data](articles/47b887db.json)
+
+[Extended Data](ext_articles/47b887db.ext.json)
 
 ---
 
@@ -117,6 +303,26 @@ Here's a summary of "Anura captured the empty constituency" in approximately 200
 [Data](articles/48398bf7.json)
 
 [Extended Data](ext_articles/48398bf7.ext.json)
+
+---
+
+### Lost in Trincomalee
+
+*2024-11-14 23:51:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-தபாலில்-இழந்தது-தமிழரசு/175-347162) · `ta`
+
+Here's a summary of "Lost in Trincomalee" in approximately 200 characters:
+
+
+
+In this gripping adventure, protagonist Sarah finds herself stranded in Trincomalee, Sri Lanka. With limited resources and no clear way out, she must navigate treacherous landscapes, encounter unexpected allies, and unravel ancient mysteries hidden within the city's walls. As tensions rise and danger lurks around every corner, Sarah discovers her own resilience and uncovers secrets about the enigmatic port town that challenge everything she thought she knew. Will she escape, or will Trincomalee claim another lost soul?
+
+🟩
+
+◼️
+
+[Data](articles/6658926f.json)
+
+[Extended Data](ext_articles/6658926f.ext.json)
 
 ---
 
@@ -395,6 +601,22 @@ Two persons on the bus and one in the van have died after being admitted to the 
 [Data](articles/b5a67d38.json)
 
 [Extended Data](ext_articles/b5a67d38.ext.json)
+
+---
+
+### බස් රථ හා වෑන් රථ අනතුරකින් තිදෙනෙක් මරුට
+
+*2024-11-14 22:35:30* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රථ-හා-වෑන්-රථ-අනතුරකින්-තිදෙනෙක්-මරුට/11-413043) · `si`
+
+මාතලේ, ලග්ගල එලවාකන්ද ප්‍රදේශයේදී අද (14දා) සවස බස් රථයක් සහ වැන් රථයක් එකිනෙක ගැටීමෙන් තිදෙනෙක් මියගොස් තිබේ.   දඹුල්ල දෙස සිට මහියංගණය දෙසට ධාවනය කළ බස් රථයක් ඊට ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි වැන් රථයක ගැටීමෙන් අනතුරුව  බස් රථය ප්‍රපාතයකට පෙරළී තිබේ.
+
+බස් රථයේ සිටි 37 දෙනෙක් සහ වෑන් රථයේ සිටි 05 දෙනෙක් තුවාල ලබා විල්ගමුව රෝහලට ඇතුළු කර ඇති අතර එහිදී බස් රථයේ සිටි දෙදෙනෙක් සහ වැන් රථයේ සිටි එක අයෙක් මියගොස් ඇති බව පොලීසිය පැවසීය.
+
+බස් රථය විනෝද චාරිකාවක් යන අතරතුරදී එම අනතුරට ලක්ව ඇති බවයි.
+
+◼️
+
+[Data](articles/f27cdf39.json)
 
 ---
 
@@ -2031,237 +2253,5 @@ Top contributors to the ASPI were Sampath Bank (up at 95.50), Commercial Bank (u
 [Data](articles/57d470ff.json)
 
 [Extended Data](ext_articles/57d470ff.ext.json)
-
----
-
-### Sri Lanka sees 30-ct voter turnout by 12 noon; Ratnapura, Kegalle exceed: poll monitor
-
-*2024-11-14 12:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-sees-30-ct-voter-turnout-by-12-noon-ratnapura-kegalle-exceed-poll-monitor-187552/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s voter turnout in the Thursday parliament election was around 30 percent on average by 12 noon with Ratnapura and Kegalle districts were outperforming, an election monitor said.
-
-“On average, the voter turnout is around 30 percent, according to our monitors at district level. It has exceeded 35 percent in both Ratnapura and Kegalle distrcts,” Manjula Gajanayake, Executive Director at Institute for Democratic Reforms and Electoral Studies (IRES).
-
-“There is huge interest in voting in Vanni electoral district while it has been usual in Jaffna. The turnout is low in the Eastern province, but usually most people vote in the afternoon there,” he said.
-
-Election commission officials have asked the people to vote as early as possible due to risks of possible rains and thunder showers throughout the country. (Colombo/November 14/2024)
-
-◼️
-
-[Data](articles/5bc8e28d.json)
-
-[Extended Data](ext_articles/5bc8e28d.ext.json)
-
----
-
-### An increase in sales of abortion pill
-
-*2024-11-14 12:52:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/கருக்கலைப்பு-மாத்திரை-விற்பனை-அதிகரிப்பு/50-347113) · `ta`
-
-Sales of abortion pills surge post-election. Contraception concerns rise as Trump tightens abortion rules. Doctors report 966% increase in pill purchases. Patients stockpile medication, fearing future restrictions.
-
-🟩
-
-Over the next few hours of the release of the election results increased the sale of abortion pill. This is not here in the United States.
-
-Donald Trump wins US presidential election. Over the next few hours of the election result, the country has increased the treatment of contraception and abortion pills.
-
-Doctors have informed American media outlets that have increased the country after the election and doubts about the long -term control of the treatment and permanent contraception.. Pharmaceuticals have also increased the sale of pills to help contraception and abortion.
-
-There have been reports that people are keeping the reserve of buying contraceptive and abortion pills. This means that the sale of these pills has increased by 966 percent compared to the previous week's week.. People are asking doctors about Iyi treatment.
-
-...
-
-[Data](articles/8a3bb5e6.json)
-
-[Extended Data](ext_articles/8a3bb5e6.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-14 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198671) · `ta`
-
-US Dollar: 287.7253 INR (buying), 296.7260 INR (selling).
-
-🟩
-
-The US dollar purchasing price was 287.7253 rupees and the sales price were 296.7260 rupees based on a currency exchange rate released today (14).
-
-◼️
-
-[Data](articles/154d50ef.json)
-
-[Extended Data](ext_articles/154d50ef.ext.json)
-
----
-
-### Pamphlets engraved with the party symbol of Vavuniya!
-
-*2024-11-14 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198672) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Election pamphlets featuring Vavuniya party symbols distributed near polling stations. Voting takes place on Thursday (14). Candidates' symbols placed at recent polling stations.
-
-🟩
-
-Voting for the general election is being held on Thursday (14).
-
-In particular, the party's symbol of such candidates has been thrown into the recent polling stations.
-
-◼️
-
-[Data](articles/a64ec7f1.json)
-
-[Extended Data](ext_articles/a64ec7f1.ext.json)
-
----
-
-### Republicans win majority of US House seats, giving Donald Trump and party control of govt
-
-*2024-11-14 12:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103398/republicans-win-majority-of-us-house-seats-giving-donald-trump-and-party-control-of-govt) · `en`
-
-Republicans have won enough seats to control the U.S. House, completing the party’s sweep into power and securing their hold on U.S. government alongside President-elect Donald Trump.
-
-A House Republican victory in Arizona, alongside a win in slow-counting California earlier Wednesday, gave the GOP the 218 House victories that make up the majority. Republicans earlier gained control of the Senate from Democrats.
-
-With hard-fought yet thin majorities, Republican leaders are envisioning a mandate to upend the federal government and swiftly implement Trump’s vision for the country.
-
-The incoming president has promised to carry out the country’s largest-ever deportation operation, extend tax breaks, punish his political enemies, seize control of the federal government’s most powerful tools and reshape the U.S. economy. The GOP election victories ensure that Congress will be onboard for that agenda, and Democrats will be almost powerless to check it.
-
-...
-
-[Data](articles/ed57c674.json)
-
-[Extended Data](ext_articles/ed57c674.ext.json)
-
----
-
-### Arrest
-
-*2024-11-14 12:41:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பணம்-விநியோகித்தவர்-கைது/175-347111) · `ta`
-
-Candidate arrested distributing money voters police seize funds
-
-🟩
-
-A general election candidate has been arrested by the police near the Kalpitiya Almanar camp while distributing money to voters today (14).
-
-The candidate already had 97,200 rupees and the police had seized the money.
-
-◼️
-
-[Data](articles/f12d750e.json)
-
-[Extended Data](ext_articles/f12d750e.ext.json)
-
----
-
-### Arugambay Travel Ladens Language Israel
-
-*2024-11-14 12:38:10* · [`adalk`](https://www.ada.lk/breaking_news/ආරුගම්බේ-සංචාරක-සීමා-ඊශ්‍රායෙලය-ලිහිල්-කරයි/11-413035) · `si`
-
-Israel eases travel restrictions to Sri Lanka, reduces alert level from 4 to 2. Warns citizens to avoid Arugambay area due to intelligence suggesting potential threats.
-
-🟩
-
-Israel has acted to ease the travel limits of Israel's travel limits on the tour of Sri Lanka.
-
-So according to the National Security Council of the National Security Council has reduced the alarm level from four to two.
-
-Israel released a warning to the citizens of the country to avoid returning to Arugambay area. It was with intelligence information that the land would allow his countrymen to go aim to their countrymen.
-
-◼️
-
-[Data](articles/63f97bb2.json)
-
-[Extended Data](ext_articles/63f97bb2.ext.json)
-
----
-
-### Election Commissioner urges Sri Lankans to vote early
-
-*2024-11-14 12:27:00* · [`economynextcom`](https://economynext.com/election-commissioner-urges-sri-lankans-to-vote-early-187543/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Commissioner General of Elections Saman Sri Ratnayake urged voters to show up and vote in the ongoing general election.
-
-“We ask that all eligible voters to go to their polling stations as soon as possible,” Ratnayake told reporters.
-
-Other officials urged citizens to vote while the weather was still favourable, with rains expected later in the day.
-
-Polls will close at 4 pm, after which Ratnayake said, counting will begin at 5 pm.
-
-“I believe we will  be able to announce the first results by 10 pm, and regularly thereafter.”
-
-Sri Lanka is voting to choose 225 members to its legislature.
-
-◼️
-
-[Data](articles/deabd0d6.json)
-
-[Extended Data](ext_articles/deabd0d6.ext.json)
-
----
-
-### 17 boys vulnerable in wasp
-
-*2024-11-14 12:18:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளவிகொட்டில்-17-சிறுவர்கள்-பாதிப்பு/175-347110) · `ta`
-
-17 boys hospitalized after wasp sting during preschool event in Sri Lanka. Three transferred to teaching hospital.
-
-🟩
-
-At the pre -school in the Talawa - Halambawewa area, 17 boys have been admitted to the hospital, Talawa police said.
-
-During the annual diversity exhibition of the pre -school, the boys between the ages of three and four were targeted as a wasp of a wasp of a wasp of a mango tree at the school grounds.
-
-The boys were later admitted to the Talawa Primary Hospital. Among them, three boys have been transferred to the Anuradhapura Teaching Hospital.
-
-◼️
-
-[Data](articles/e63bdbf8.json)
-
-[Extended Data](ext_articles/e63bdbf8.ext.json)
-
----
-
-### General Election: Voter turnout as at 11am
-
-*2024-11-14 12:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103397/general-election-voter-turnout-as-at-11am) · `en`
-
-The district-level voter turnout for the 2024 General Election has already exceeded 30 percent in several districts, according to reports.
-
-Accordingly, the voter turnout percentages of several districts as at 11.00 a.m. this morning (Nov.14) are as follows:
-
-◼️
-
-[Data](articles/658abdae.json)
-
-[Extended Data](ext_articles/658abdae.ext.json)
-
----
-
-### Voting in Trincomalee smoothly
-
-*2024-11-14 12:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198667) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Election day in Trincomalee: Voting underway smoothly. Sri Lanka's 10th Parliament poll begins at 7 AM.
-
-🟩
-
-The election for Sri Lanka's 10th Parliament began today (14) at 7.00 am.
-
-◼️
-
-[Data](articles/579d3801.json)
-
-[Extended Data](ext_articles/579d3801.ext.json)
 
 ---

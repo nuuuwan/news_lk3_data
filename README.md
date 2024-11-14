@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-14 16:14:28**
+As of **2024-11-14 16:25:41**
 
 ## Newspaper Stats
 
-*Scraped **54,734** Articles*
+*Scraped **54,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,753
 dailymirrorlk | 4,733
 adalk | 5,131
 adaderanalk | 6,532
-tamilmirrorlk | 7,680
+tamilmirrorlk | 7,681
 virakesarilk | 8,895
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,23 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,733 (100.0%) of 54,734 articles have been extended.
+54,733 (100.0%) of 54,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-14 (Thursday)
+
+### வாக்களிப்பு நிறைவு
+
+*2024-11-14 16:07:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வாக்களிப்பு-நிறைவு/175-347122) · `ta`
+
+நாட்டின் 10வது பாராளுமன்றத்துக்கானபொது தேர்தல் வாக்களிப்பு இன்று வியாழக்கிழமை (14)  காலை 7 மணிக்கு ஆரம்பமான வாக்களிப்பு  மாலை 4 மணிக்கு நிறைவு பெற்றது.
+
+◼️
+
+[Data](articles/eac3202d.json)
+
+---
 
 ### டெல்லியில் இரண்டாவது நாளாகவும் காற்றின் தரம் குறைவு
 
@@ -2301,29 +2313,5 @@ It has been revealed that the items were purchased for 6 lakhs 13 thousand 500 r
 [Data](articles/2bc66454.json)
 
 [Extended Data](ext_articles/2bc66454.ext.json)
-
----
-
-### Introduction of Special Telephone numbers
-
-*2024-11-13 19:59:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசேட-தொலைபேசி-இலக்கங்கள்-அறிமுகம்/175-347073) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-06 special phone numbers announced for disaster alerts during elections. Implemented by National Building Research Institute, Meteorology Dept., Irrigation Dept., Armed Forces, and Police.
-
-🟩
-
-06 special telephone numbers have been introduced to announce any disasters during the election period.
-
-The project is being implemented by the National Building Research Institute, the Department of Meteorology, the Irrigation Department, the Armed Forces and the Police.. Remble
-
-◼️
-
-[Data](articles/b69c9fc8.json)
-
-[Extended Data](ext_articles/b69c9fc8.ext.json)
 
 ---

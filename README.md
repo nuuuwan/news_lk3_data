@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 02:25:07**
+As of **2024-11-16 01:00:12**
 
 ## Newspaper Stats
 
-*Scraped **55,162** Articles*
+*Scraped **55,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,81 +14,23 @@ colombotelegraphcom | 559
 bbccomsinhala | 563
 islandlk | 3,291
 economynextcom | 3,352
-dailyftlk | 3,781
+dailyftlk | 3,778
 dailymirrorlk | 4,733
 adalk | 5,162
 adaderanalk | 6,652
 tamilmirrorlk | 7,813
-virakesarilk | 8,932
+virakesarilk | 8,930
 adaderanasinhalalk | 9,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,154 (100.0%) of 55,162 articles have been extended.
+55,144 (100.0%) of 55,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### Former BASL Chief welcomes NPP’s historic victory, issues caution
-
-*2024-11-16 01:09:33* · [`dailyftlk`](https://www.ft.lk/news/Former-BASL-Chief-welcomes-NPP-s-historic-victory-issues-caution/56-769325) · `en`
-
-Activist and the Bar Association of Sri Lanka’s (BASL) Former President Saliya Pieris PC yesterday hailed the historic victory of National People’s Power (NPP) at Thursday’s Parliamentary Election and stressed the importance of living up to the trust of people.
-
-In a post on Facebook, Pieris said this is the first time one party got two-thirds majority in the Parliament under the proportional representation system if the National People’s Force gets two-thirds majority. Common Front in 2010 and Sri Lanka Podujana Front in 2020 were slightly reduced to two-thirds and had to seek support from some Opposition Ministers to get a two-thirds majority.
-
-The only parallel to this victory is the Presidential Election where the 1994 Prime Minister Chandrika Kumarathunga was appointed as the president.
-
-“The National People’s Force has achieved significant achievements in the North and Eastern regions so that the President can become a leader who can unite various communities in Sri Lanka.
-
-...
-
-[Data](articles/f48dd4ee.json)
-
-[Extended Data](ext_articles/f48dd4ee.ext.json)
-
----
-
-### Over 50 persons arrested for election law violations
-
-*2024-11-16 01:08:42* · [`dailyftlk`](https://www.ft.lk/news/Over-50-persons-arrested-for-election-law-violations/56-769324) · `en`
-
-Over 50 people have been arrested for violating election laws during the Parliamentary polling period, according to Police Spokesperson DIG Nihal Thalduwa
-
-DIG Thalduwa explained that most of the arrests were made due to illegal election campaign activities, such as capturing photographs, tearing ballot papers, distributing money, and engaging in physical assault.
-
-Despite these incidents, the police confirmed that the overall polling period remained relatively peaceful.
-
-◼️
-
-[Data](articles/2a2d3943.json)
-
-[Extended Data](ext_articles/2a2d3943.ext.json)
-
----
-
-### Police ban demonstrations for a week
-
-*2024-11-16 01:08:28* · [`dailyftlk`](https://www.ft.lk/news/Police-ban-demonstrations-for-a-week/56-769323) · `en`
-
-Police have announced that all demonstrations, including vehicle and pedestrian rallies, will be prohibited for one week following the announcement of the Parliamentary Election results.
-
-Police Spokesperson DIG Nihal Talduwa made the statement, stressing that no public gatherings or displays of digital screens to watch the results will be allowed.
-
-DIG Talduwa urged the public to refrain from organising or participating in such activities, warning that authorities will take action to disperse any gatherings.
-
-The police emphasised that the decision was made to maintain public order and ensure safety during this period.
-
-◼️
-
-[Data](articles/fa0935ff.json)
-
-[Extended Data](ext_articles/fa0935ff.ext.json)
-
----
 
 ### National Chamber of Exporters congratulates NPP on Parliamentary Election victory
 
@@ -101,8 +43,6 @@ The National Chamber of Exporters of Sri Lanka (NCE) yesterday extended its warm
 ...
 
 [Data](articles/5d9c07dd.json)
-
-[Extended Data](ext_articles/5d9c07dd.ext.json)
 
 ---
 
@@ -117,8 +57,6 @@ The Joint Apparel Association Forum (JAAF), yesterday extended its warm congratu
 ...
 
 [Data](articles/ccb063ef.json)
-
-[Extended Data](ext_articles/ccb063ef.ext.json)
 
 ---
 
@@ -136,27 +74,9 @@ The Confederation of MSMI yesterday via a statement congratulated President Anur
 
 [Data](articles/d256e616.json)
 
-[Extended Data](ext_articles/d256e616.ext.json)
-
 ---
 
 ### 2024-11-15 (Friday)
-
-### பதிவு செய்யப்பட்ட மொத்த வாக்காளர்களில் 5,992,348 பேர் வாக்களிக்கவில்லை
-
-*2024-11-15 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198888) · `ta`
-
-2024 ஆம் ஆண்டுக்கான தேருநர் இடாப்புக்கமைய பொதுத்தேர்தலில் வாக்களிப்பதற்கு 17,140,354 பேர் வாக்களிக்க தகுதிப் பெற்றிருந்த நிலையில், 11,148,006 பேர் வாக்களித்துள்ளதுடன், 5,992,348 பேர் வாக்களிக்கவில்லை. இம்முறை நாடளாவிய ரீதியில் 65 சதவீதமான வாக்குகளே பதிவாகியுள்ளன.
-
-பத்தாவது பாராளுமன்றத்துக்கான பொதுத்தேர்தல் வியாழக்கிழமை (14) நாடளாவிய 13,421 வாக்களிப்பு மத்திய நிலையங்களில் வாக்களிப்பு நடைபெற்றது.
-
-2024 ஆம் ஆண்டுக்கான தேருநர் இடாப்புக்கமைய பொதுத்தேர்தலில் வாக்களிப்பதற்கு 17,140,354 பேர் வாக்களிக்க தகுதி பெற்றிருந்த நிலையில்  நாடளாவிய ரீதியில் 11,148,006 பேர் வாக்களித்திருந்தனர். அளிக்கப்பட்ட மொத்த வாக்குகளில் 667,640 வாக்குகள் நிராகரிக்கப்பட்ட நிலையில் 11,815,246 வாக்குகள் செல்லுபடியான வாக்குகளாக ஏற்றுக்கொள்ளப்பட்டுள்ளன. பதிவு செய்யப்பட்ட மொத்த வாக்காளர்களில் 5,992,348 பேர் வாக்களிக்கவில்லை.
-
-...
-
-[Data](articles/c85e111b.json)
-
----
 
 ### What is the meaning of NPP’s Parliamentary victory?
 
@@ -169,8 +89,6 @@ Considering the recent past alone, the Parliamentary results clearly build on a 
 ...
 
 [Data](articles/1161cf79.json)
-
-[Extended Data](ext_articles/1161cf79.ext.json)
 
 ---
 
@@ -190,8 +108,6 @@ The people could be no clearer – their patience for drama and pettiness has cl
 
 [Data](articles/bb12f3b0.json)
 
-[Extended Data](ext_articles/bb12f3b0.ext.json)
-
 ---
 
 ### Celebrating Sri Lanka’s “bloodless revolution”
@@ -210,8 +126,6 @@ To meet these demands, it must remain fearless, bold, and uncompromising in its 
 
 [Data](articles/aa428d13.json)
 
-[Extended Data](ext_articles/aa428d13.ext.json)
-
 ---
 
 ### Dismantle 76-year charade: Rename and celebrate Independence Day as Memorial Day from 2025 onwards
@@ -223,8 +137,6 @@ The illusion of civility and humanity in celebrating independence faded as local
 ...
 
 [Data](articles/85101ce8.json)
-
-[Extended Data](ext_articles/85101ce8.ext.json)
 
 ---
 
@@ -1063,20 +975,6 @@ It is important that this is the first female representation in the last 47 year
 [Data](articles/332b2eb4.json)
 
 [Extended Data](ext_articles/332b2eb4.ext.json)
-
----
-
-### தேர்தல் பெறுபேறுகள் இன ஒற்றுமையை வெளிப்படுத்தும் வகையில் அமைந்துள்ளது - சமன் வித்தியாரத்ன
-
-*2024-11-15 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198874) · `ta`
-
-இன ஐக்கியத்தை வெளிப்படுத்தும் வகையில் தேர்தல் பெறுபேறுகள் அமைந்துள்ளதுடன் யாழ்ப்பாணத்தில் எமக்கு கிடைத்த வெற்றி பெறு வெற்றியாகும் என பதுளை மாவட்டத்தில் தேசிய மக்கள் சக்தியில் அதிகூடிய விருப்பு வாக்குகளை பெற்று தெரிவான சமன் வித்தியாரத்ன தெரிவித்தார்.
-
-இதுதொடர்பில் அவர் மேலும் தெரிவிக்கையில்,வெளிவந்துள்ள பாராளுமன்ற தேர்தல் பெறுபேறுகளின் மூலம் இனங்களுக்கிடையிலான இணக்கப்பாடு மற்றும் ஒற்றுமையை காணக்கூடியதாக இருக்கிறது. இது அதி விசேட வெற்றியாகும். பதுளையில் நான் பெற்ற வாக்குகளை விட யாழ்ப்பாணத்தில் எமக்கு கிடைத்த வெற்றி பெரு வெற்றியாகவே நான் பார்க்கிறேன்.இந்த பெறுபேறு யாழ்ப்பாண அரசியல் வாதிகளுக்கும் சிறந்த பாடமாகும் என்றார்.
-
-◼️
-
-[Data](articles/a8095d26.json)
 
 ---
 
@@ -2231,5 +2129,129 @@ Here's a summary of the text in approximately 200 characters:
 [Data](articles/91c45e51.json)
 
 [Extended Data](ext_articles/91c45e51.ext.json)
+
+---
+
+### Matale District Preferences
+
+*2024-11-15 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203386) · `si`
+
+Here's a summary of Matale District Preferences in approximately 200 characters:
+
+
+
+Matale District, located in central Sri Lanka, has unique preferences shaped by its history, culture, and geography. Residents often prioritize:
+
+
+
+1. Eco-tourism activities due to nearby Knuckles Mountain Range
+
+2. Local cuisine featuring rice, curry, and fresh produce
+
+3. Traditional festivals like Esala Perahera
+
+4. Education, with several schools and universities
+
+5. Agriculture, focusing on tea, rubber, and spice plantations
+
+
+
+These preferences reflect Matale's blend of natural beauty, cultural heritage, and economic pursuits.
+
+🟩
+
+◼️
+
+[Data](articles/7226e491.json)
+
+[Extended Data](ext_articles/7226e491.ext.json)
+
+---
+
+### Matara District Dislike Details
+
+*2024-11-15 12:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறை-மாவட்ட-விருப்பு-வாக்கு-விபரம்/175-347246) · `ta`
+
+Here's a summary of Matara District Dislike Details in approximately 200 characters:
+
+
+
+Matara District Dislikes: Traffic congestion, poor road conditions, lack of public transportation, high crime rate, inadequate waste management, insufficient healthcare facilities, limited job opportunities, and environmental pollution. Residents express frustration with these issues affecting daily life and development.
+
+🟩
+
+◼️
+
+[Data](articles/a2bb4f02.json)
+
+[Extended Data](ext_articles/a2bb4f02.ext.json)
+
+---
+
+### The National People's Power
+
+*2024-11-15 12:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளையிலும்-தேசிய-மக்கள்-சக்தி/175-347246) · `ta`
+
+Here's a summary of "The National People's Power" in approximately 200 characters:
+
+
+
+"The National People's Power" refers to the political movement in Sri Lanka advocating for social justice and democracy. It emerged as a coalition of left-wing parties opposing authoritarian rule. The movement aims to empower citizens through grassroots organizing and promote economic equality.
+
+🟩
+
+◼️
+
+[Data](articles/dab7763d.json)
+
+[Extended Data](ext_articles/dab7763d.ext.json)
+
+---
+
+### What is the message of the people through the outcome of the general election?
+
+*2024-11-15 12:04:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8702ze6y0o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan general election results show majority support for National Jones's forces. Voters reject elite politicians, giving power to new national groups. Increased voter turnout for national folk force compared to 2024 presidential election. Ground-level election work organized by people, not parties. Collapse of Rajapaksa family's central influence. President Anura Kumara Dissanayake gains confidence in North and East. Election seen as democratic response to 2022 protests.
+
+🟩
+
+The election shows that the majority of Sri Lankans have decided to trust the program of the National Jones's forces.
+
+Accordingly, the general election results have many ideas.
+
+The year general election shows that the people needed to completely change the system of elite politicians for more than seven decades.
+
+The 'termination of elite had a major slogan of the "elite to end a major slogan at the wave of governments in 2022. Accordingly, the masses have expressed their discretion for the "end of the elite" by providing the majority of power to the national popularity.
+
+The MPs, VIP MPs, the MPs, including former President Ranil Wickremesinghe, had decided not to contest the election.
+
+It is also found that the Opposition Alliance (UPFA), the former government, the Commander Party, and the New Democratic Front, has been severely rejected by the new Democratic Front.
+
+...
+
+[Data](articles/b3638555.json)
+
+[Extended Data](ext_articles/b3638555.ext.json)
+
+---
+
+### Here is the list of preferential preference list
+
+*2024-11-15 11:59:21* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-මනාප-ලැයිස්තුව-මෙන්න/11-413065) · `si`
+
+I'm sorry, but I don't have any text to summarize. Could you please provide the text you'd like me to summarize?
+
+🟩
+
+◼️
+
+[Data](articles/f886f1d3.json)
+
+[Extended Data](ext_articles/f886f1d3.ext.json)
 
 ---

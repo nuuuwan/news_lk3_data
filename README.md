@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 12:59:51**
+As of **2024-11-15 13:42:52**
 
 ## Newspaper Stats
 
-*Scraped **55,058** Articles*
+*Scraped **55,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
-adaderanalk | 6,632
-tamilmirrorlk | 7,798
+adaderanalk | 6,634
+tamilmirrorlk | 7,803
 virakesarilk | 8,918
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,103 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,058 (100.0%) of 55,058 articles have been extended.
+55,061 (100.0%) of 55,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### “ தோள் கொடுத்தோருக்கு நன்றி ”
+
+*2024-11-15 13:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோள்-கொடுத்தோருக்கு-நன்றி/175-347256) · `ta`
+
+“ மறுமலர்ச்சி யுகத்தை ஆரம்பிக்க தோள் கொடுத்த  அனைவருக்கும்  நன்றி” என ஜனாதிபதி அனுர திஸாநாயக்க  தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/135917fc.json)
+
+---
+
+### ஹரின், நிமல் தோல்வி
+
+*2024-11-15 13:26:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹரின்-நிமல்-தோல்வி/76-347255) · `ta`
+
+பதுளை மாவட்டத்தில் புதிய ஜனநாயக முன்னணியின் சிலிண்டர் சின்னத்துக்கு ஒரு ஆசனம் கிடைத்தது. அந்த ஆசனம், முன்னாள் அமைச்சர்களான ஹரின் பெர்னாண்டோவுக்கா அல்லது நிமல் சிறிபாலடி சில்வாவுக்கா கிடைக்கப்போகிறது என்ற எதிர்பார்ப்பு இருந்தது.
+
+எனினும், 19,359 விருப்பு வாக்குகளைப் பெற்று சாமர சம்பத் தசாநாயக்க - புதிய ஜனநாயக முன்னணியின் ஊடாக பாராளுமன்றத்திற்கு தெரிவாகியுள்ளார்.
+
+◼️
+
+[Data](articles/0b5a59fd.json)
+
+---
+
+### Jaffna District preferential vote results released
+
+*2024-11-15 13:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103509/jaffna-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Jaffna District in the 2024 General Election have been released.
+
+ITAK’s Sivagnanam Shreetharan has polled the highest number of preferential votes in the Jaffna District.
+
+Karunananthan Ilankumaran has obtained the highest number of preferential votes for the NPP in the Jaffna District.
+
+◼️
+
+[Data](articles/00d62345.json)
+
+---
+
+### Two Tamils ​​selected in Badulla
+
+*2024-11-15 13:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளையில்-இரண்டு-தமிழர்கள்-தெரிவு/76-347254) · `ta`
+
+Two Tamil candidates elected in Badulla district parliamentary election. National People's Power won 6 seats, including Kidnan Selvaraj and Ambika Samuel. First Tamil woman representative in Badulla history.
+
+🟩
+
+According to the 10th parliamentary election of the Badulla district, the National People's Power has won 275,180 votes and won 6 seats.
+
+The United People's Power won 2 seats with 102,958 votes and the new Democratic Front won 36,450 votes.
+
+Saminda Vijayasiri - 29791 has been elected to Parliament with preferential votes.
+
+Kidnan Selvaraj and Ambika Samuel, who contested on behalf of the National People's Power this time, have won two Tamil candidates who contested the ruling party in the last two parliamentary elections.
+
+The first time in the history of the Badulla district parliamentary elections, Ambika Samuel has been elected as the Tamil woman representative.
+
+◼️
+
+[Data](articles/1328b2ab.json)
+
+[Extended Data](ext_articles/1328b2ab.ext.json)
+
+---
+
+### Success in Batticaloa, Failed Points
+
+*2024-11-15 12:54:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-வெற்றி-தோல்வியடைந்த-புள்ளிகள்/175-347252) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Key winners: Former Cabinet members, LTTE leaders, and Tamil National Alliance candidates. Notable losers: Democratic Tamil National Alliance and Sri Lanka Tamil National Party representatives.
+
+🟩
+
+Former cabinet status and two deputy ministers, two deputy ministers, one parliamentarian, and one minister won the election again in the tenth parliamentary election.
+
+Former Minister Basir Segudavud, who contested as the chief candidate of the United Peace Alliance and former Minister of State for the Tamil People's Liberation Tigers of Tamil Eelam (LTTE), Sivanesathurai Chandrakanthan, who contested the United People's Power. S.. S.. Former Deputy Minister Vinayagamoorthy Muralitharan, who contested as the chief candidate of the competition on behalf of the National Democratic Front. Ganesamoorthy and former parliamentarian Govindan Karunakaran contested as the chief candidate of the Democratic Tamil National Alliance (TNA) and lost the parliamentary elections in the Batticaloa district this time.
+
+...
+
+[Data](articles/db98f54d.json)
+
+[Extended Data](ext_articles/db98f54d.ext.json)
+
+---
 
 ### Yall. District likes
 
@@ -74,6 +166,26 @@ On behalf of the Sri Lanka Tamil National Party, Jaffna. President's Attorney MA
 
 ---
 
+### 2 seats for NPP in Tirumala
+
+*2024-11-15 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருமலையில்-NPP-க்கு-2-ஆசனங்கள்/175-347247) · `ta`
+
+Here's a summary of "2 seats for NPP in Tirumala" in approximately 200 characters:
+
+
+
+NPP secures two seats in Tirumala constituency. This outcome reflects voter preference for the National People's Party in this specific region. The party's performance here may impact its overall electoral strategy and influence in future local and national elections.
+
+🟩
+
+◼️
+
+[Data](articles/35d97205.json)
+
+[Extended Data](ext_articles/35d97205.ext.json)
+
+---
+
 ### NPP captured 2 sets in Trincomalee
 
 *2024-11-15 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-2-ஆசனங்ளை-கைப்பற்றியது-NPP/175-347247) · `ta`
@@ -91,6 +203,22 @@ NPP (Northern Provincial Council) secured two victories in Trincomalee. These wi
 [Data](articles/707eb516.json)
 
 [Extended Data](ext_articles/707eb516.ext.json)
+
+---
+
+### Matale District preferential vote results released
+
+*2024-11-15 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103508/matale-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Matale District in the 2024 General Election have been released.
+
+NPP’s Gamagedara Dissanayake has polled the highest number of preferential votes in the Matale District.
+
+Former MP Rohini Kawirathne has received the highest preferential votes from the SJB to secure its only seat.
+
+◼️
+
+[Data](articles/317f7382.json)
 
 ---
 
@@ -1897,133 +2025,5 @@ Israel media reports said a state agency removed its own travel warning to citiz
 [Data](articles/fe04b3f1.json)
 
 [Extended Data](ext_articles/fe04b3f1.ext.json)
-
----
-
-### Gampaha District postal vote results released
-
-*2024-11-15 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103474/gampaha-district-postal-vote-results-released) · `en`
-
-The postal vote result of the Gampaha District in the 2024 General Election has been released with National People’s Power (NPP) coming up top.
-
-◼️
-
-[Data](articles/4654a754.json)
-
-[Extended Data](ext_articles/4654a754.ext.json)
-
----
-
-### Vadivel Suresh flew
-
-*2024-11-15 05:37:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வடிவேல்-சுரேஷ்-பறந்தார்/76-347210) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Suresh Vadivel flew. Badulla district election results: National People's Power wins 5 seats, United People's Power gains victory.
-
-🟩
-
-According to the final decision of the Badulla district, the National People's Power has won 5 seats and the United People's Power.
-
-◼️
-
-[Data](articles/f48341ce.json)
-
-[Extended Data](ext_articles/f48341ce.ext.json)
-
----
-
-### Jaffna District Point Pedro Results
-
-*2024-11-15 05:37:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டம்-பருத்தித்துறை-முடிவுகள்/175-347209) · `ta`
-
-Here's a summary of Jaffna District Point Pedro results in approximately 200 characters:
-
-
-
-"Point Pedro election results show a close contest between major parties. The ruling party secured a narrow lead, while opposition parties gained significant ground. Voter turnout was high, reflecting local interest in the outcome."
-
-🟩
-
-◼️
-
-[Data](articles/750b5443.json)
-
-[Extended Data](ext_articles/750b5443.ext.json)
-
----
-
-### NPP claims victory in 8 more polling divisions
-
-*2024-11-15 05:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103473/npp-claims-victory-in-8-more-polling-divisions) · `en`
-
-The National People’s Power (NPP) has secured victories in the Ruwanwella, Polgahawela, Katugampola, Point Pedro, Trincomalee, Rakwana, Hanguranketha, Galigamuwa polling divisions.
-
-◼️
-
-[Data](articles/d09a975d.json)
-
-[Extended Data](ext_articles/d09a975d.ext.json)
-
----
-
-### Shasheendra Rajapaksa is home
-
-*2024-11-15 05:31:06* · [`adalk`](https://www.ada.lk/breaking_news/ශෂීන්ද්‍ර-රාජපක්ෂත්-ගෙදර/11-413051) · `si`
-
-Summarized: Susheendra Rajapaksa, son of Chamal Rajapaksa, lost general election to former minister. Contested Sri Lanka Civil Front in Moneragala district but party failed to win seat.
-
-🟩
-
-Susheendra Rajapaksa, son of Chamal Rajapaksa, was defeated by a former minister and Speaker of the Rajapaksas for the general election.
-
-Although he was contesting the Sri Lanka Civil Front to the Moneragala district, the party could not win a seat with any. The other seat was presented to the other seat five in the 6 seats in Moneragala.
-
-◼️
-
-[Data](articles/69f3a34f.json)
-
-[Extended Data](ext_articles/69f3a34f.ext.json)
-
----
-
-### Final results of Badulla District
-
-*2024-11-15 05:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103472/final-results-of-badulla-district) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Badulla District in the 2024 General Election with the National People’s Power (NPP) polling more than 58% of the total votes in the district.
-
-NPP has polled 275,180 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 102,958 votes (21.92%).
-
-Accordingly, the NPP has secured 5 seats in the district while the SJB have won one seat in the district.
-
-◼️
-
-[Data](articles/578b1341.json)
-
-[Extended Data](ext_articles/578b1341.ext.json)
-
----
-
-### Trincomalee District Trincomalee Results
-
-*2024-11-15 05:29:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்டம்-திருகோணமலை-முடிவுகள்/175-347208) · `ta`
-
-Here's a summary of "Trincomalee District Trincomalee Results" in approximately 200 characters:
-
-
-
-Election results for Trincomalee district in Sri Lanka.
-
-🟩
-
-◼️
-
-[Data](articles/b0f4427d.json)
-
-[Extended Data](ext_articles/b0f4427d.ext.json)
 
 ---

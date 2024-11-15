@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 20:41:38**
+As of **2024-11-15 22:41:20**
 
 ## Newspaper Stats
 
-*Scraped **55,135** Articles*
+*Scraped **55,143** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,110 +17,362 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,650
+adaderanalk | 6,652
 tamilmirrorlk | 7,813
-virakesarilk | 8,927
-adaderanasinhalalk | 9,530
+virakesarilk | 8,930
+adaderanasinhalalk | 9,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,106 (99.9%) of 55,135 articles have been extended.
+55,143 (100.0%) of 55,143 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### ඉන්දියාවෙන් ජනපති අනුරට ආ සුබ පැතුම
+### Gampaha District preference votes results: Vijitha breaks Harini’s record
+
+*2024-11-15 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103527/gampaha-district-preference-votes-results-vijitha-breaks-harinis-record) · `en`
+
+National People’s Power (NPP) Gampaha District Team Leader Vijitha Herath has received the highest number of preference votes in the history of Sri Lanka’s parliamentary polls with an unprecedented 716,715 votes polled at the 2024 General Election.
+
+Accordingly, this is the highest number of preferential votes gained by a candidate in the General Election in Sri Lanka’s history and shatters a record set earlier today by fellow NPP candidate and Prime Minister Harini Amarasuriya, when the preferential votes results of the Colombo District were announced.
+
+She had received a staggering 655,289 votes in total and in doing so had set a new record for the most preference votes received by a candidate in Sri Lanka’s parliamentary election history.
+
+...
+
+[Data](articles/a590531e.json)
+
+[Extended Data](ext_articles/a590531e.ext.json)
+
+---
+
+### Pakistan is pledged to further expand long -term relations with Sri Lanka - Pakistan congratulates the Prime Minister
+
+*2024-11-15 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/198887) · `ta`
+
+Pakistan PM congratulates Sri Lanka's president-elect, vows to strengthen bilateral ties based on mutual respect and shared values.
+
+🟩
+
+Pakistan Prime Minister Shebash Sharif has congratulated President Anura Kumara Dissanayake's party in the parliamentary election.
+
+He noted that this is a testament to the people's confidence and confidence in the Sri Lankan people on the vision and leadership of President Anura.
+
+Prime Minister Shebash Sharif has stated that Pakistan is committed to further expand his close and long -term relations with Sri Lanka based on the long history of mutual respect, shared values ​​and cooperation.
+
+President Anura Kumara Dissanayake, who thanked his congratulations, said that our government will continue to work with Pakistan to further strengthen the close and long -term relations between the two countries.
+
+◼️
+
+[Data](articles/9969d43c.json)
+
+[Extended Data](ext_articles/9969d43c.ext.json)
+
+---
+
+### Gampaha Preferential Results
+
+*2024-11-15 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203413) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Gampaha District election results: National Power party won 16 seats out of total.
+
+🟩
+
+According to the overall result of the district, the national power was served 16 seats.
+
+◼️
+
+[Data](articles/7a0c6e2d.json)
+
+[Extended Data](ext_articles/7a0c6e2d.ext.json)
+
+---
+
+### Vijitha Herath renews Prime Minister Harinini's report
+
+*2024-11-15 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203412) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Vijitha Herath wins Gampaha with record 716,715 votes. PM Harini Amarasuriya gets 655,289 in Colombo. National party takes 16 seats.
+
+🟩
+
+Vijitha Herath, who was contesting for the Gampaha District for the general election, has been identified in Gampaha District with 716,715 preferential votes.
+
+It is the highest number of preferential votes received by a candidate in the history of Sri Lanka.
+
+According to the overall result of the district, the national power was served 16 seats.
+
+Prime Minister Harini Amarasuriya had been released before the Colombo district preferential votes.
+
+She had won 14 preferential votes in the Colombo district and 655,289 were the highest number of preferential votes.
+
+◼️
+
+[Data](articles/e14c6554.json)
+
+[Extended Data](ext_articles/e14c6554.ext.json)
+
+---
+
+### Train accident killed in accident
+
+*2024-11-15 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203411) · `si`
+
+Train accident kills two, injures four near Weligama. Driver and passengers from Tiljawali area returning from Galle. Crash occurred as train approached crossing.
+
+🟩
+
+Two members of the family were killed in connection with a small lorry at Weligama Coconut Crossing around 6.20 pm on a train from Matara to Galle.
+
+The other four were injured in the accident have been admitted to the Matara General Hospital and one woman's condition is serious, hospital sources said.
+
+The victims are residents of Tiljjawali, Muslithawall area, who had gone to a cousin in Galle and returned to her home in Galle.
+
+Weligama Police say that the crash has taken place when a train is nearing a train that a train is being flashed.
+
+The victim was a 34 year old driver, 34 year old Dilipaya Front, 34 year old, was the 34 year old driver of the loripa.. The people of Sugathadasa.
+
+The driver of the lorry, which was injured among the injured, has been admitted to the Matara General Hospital and is receiving treatment at the Matara General Hospital.
+
+◼️
+
+[Data](articles/57801dec.json)
+
+[Extended Data](ext_articles/57801dec.ext.json)
+
+---
+
+### Seven injured as truck collides with train in Weligama
+
+*2024-11-15 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103526/seven-injured-as-truck-collides-with-train-in-weligama-) · `en`
+
+Seven persons including two children were injured when a light truck collided against a train at a railway crossing in Weligama.
+
+Police said the collision had occurred due to the driver of the truck disobeying the red signal at the Polwatte, Weligama level crossing, and attempted to pass through.
+
+The injured persons have been hospitalised while some are in critical condition, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/5579a279.json)
+
+[Extended Data](ext_articles/5579a279.ext.json)
+
+---
+
+### We welcome the decree of the people of Sri Lanka as a fellow democratic country -Indian High Commissioner who first met and congratulated the President
+
+*2024-11-15 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198886) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+India welcomes Sri Lanka's democratic victory. Indian High Commissioner met President Anura Kumara Dissanayake, pledging to strengthen bilateral ties for mutual benefit.
+
+🟩
+
+Indian High Commissioner to Sri Lanka Santosh Ja first met President Anura Kumara Dissanayake on Friday (15) as the national people's power won the general election.
+
+The meeting was held at the Presidential Secretariat in Colombo. As a fellow democratic country, India welcomes this decree and has promised to further strengthen bilateral relations for the benefit of our people, the Indian High Commission said.
+
+◼️
+
+[Data](articles/38f9a54c.json)
+
+[Extended Data](ext_articles/38f9a54c.ext.json)
+
+---
+
+### There is no change in the Tamil national struggle - Chanakyan after victory
+
+*2024-11-15 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198885) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan Tamil National Alliance leader says Tamil national struggle continues unchanged despite election victory. Emphasizes party's strong presence in Northeast districts and commitment to representing people's interests.
+
+🟩
+
+The Tamil national struggle of the Tamil people will continue and there is no change in it.
+
+The Sri Lankan Tamil National Party is the third highest number of seats in Sri Lanka. In that way, the Tamil national struggle of the Tamil people will not change, ”said the Sri Lankan Tamil National Alliance (TNA) from the Batticaloa district to Parliament.
+
+He was speaking among hundreds of people who gathered there to welcome him when he went to his house in Kaluwanchikudi after the election results.
+
+His grandfather, located in Kaluwanchikudi, was greeted by supporters of the group after he was wearing a flower garland to the statue of the statue. He further commented.
+
+This is not my victory, but the victory of the people of the North and East, the people of Batticaloa have given me the most votes in the Batticaloa district when they are in the nationwide compass and Anurakumara Dissanayake.
+
+...
+
+[Data](articles/e8b7e748.json)
+
+[Extended Data](ext_articles/e8b7e748.ext.json)
+
+---
+
+### President welcomed India
 
 *2024-11-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203410) · `si`
 
-මහ මැතිවරණයෙන් ජාතික ජන බලවේගය ලද විශිෂ්ට ජයග්‍රහණයට සුබපැතීම සඳහා ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ජා මහතා ජනධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+Here's a 200-character summary:
 
-ඒ පිළිබඳ එක්ස් අවකාශයේ සටහනක් තබමින් ඉන්දීය මහ කොමසාරිස් කාර්යාලය සඳහන් කළේ, අසල්වැසි ප්‍රජාතන්ත්‍රවාදී රාජ්‍යයක් ලෙස ඉන්දියාව ජාතික ජන බලවේගය ලැබූ ජන වරමට සුබපතන අතර, දෙරටේ ජනතාවගේ සුබසෙත උදෙසා ද්වීපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කරලීමට කැපවී සිටින බවය.
+
+
+Indian High Commissioner meets Sri Lankan President. Discusses strengthening bilateral ties and mutual benefits between nations.
+
+🟩
+
+President of the High Commissioner of India to the President of the High Commissioner of India has met with President Anura Kumara Dissanayake to join the great achievement of the national folk force in the general election.
+
+The Indian High Commissioner's office said that a neighboring democratic state of the X space is the joint of the national folk democratic state and is committed to further strengthening bilateral relations for the benefit of the people of the two countries.
 
 ◼️
 
 [Data](articles/5d3fb60f.json)
 
+[Extended Data](ext_articles/5d3fb60f.ext.json)
+
 ---
 
-### ரயில் விபத்தில் ஏழு பேர் படுகாயம்
+### Seven people injured in train accident
 
 *2024-11-15 20:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-ஏழு-பேர்-படுகாயம்/175-347266) · `ta`
 
-வெலிகம - பொல்அத்து மோதர பிரதேசத்தில் சிறிய ரக லொறி, ரயிலுடன் மோதி விபத்துக்குள்ளானதில், லொறியில் பயணித்த இரு சிறுவர்கள் உட்பட 7 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+Here's a summary of 200 characters:
+
+
+
+Train collision injures 7: 2 boys among victims in Weligama-Pollathu Motara incident.
+
+🟩
+
+Seven people, including two boys, were injured when a small lorry collided with a train in the Weligama - Pollathu Motara area.. Remble
 
 ◼️
 
 [Data](articles/609e6f2b.json)
 
+[Extended Data](ext_articles/609e6f2b.ext.json)
+
 ---
 
-### சிவகங்கை போக்குவரத்து இரத்து
+### Sivaganga cancels transport
 
 *2024-11-15 20:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவகங்கை-போக்குவரத்து-இரத்து/175-347265) · `ta`
 
-2024ஆம் ஆண்டு நவம்பர் 19ஆம் திகதி முதல், 2024ஆம் ஆண்டு டிசம்பர் 18ஆம் திகதி வரை இலங்கை - இந்திய பயணிகள் கப்பல் சேவை இடைநிறுத்தப்பட்டுள்ளது.
+Sivaganga cancels transport: Sri Lanka-India passenger shipping suspended Nov 19, 2024 to Dec 18, 2024. Service resumes Dec 19, 2024. Remble:0
 
-எனினும் இதற்கு முன்னதாக, நாகப்பட்டினம் மற்றும் காங்கேசன் துறைமுகம் ஆகிய இரு பகுதிகளிலும் பயணிகளின் வசதிக்காக சிவகங்கை கப்பல் 2024 நவம்பர் 15, 16, 17 மற்றும் 18 ஆகிய திகதிகளில் இயக்கப்படும் எனவும் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-2024 டிசம்பர் 18க்குப் பிறகு சேவை மீண்டும் தொடங்கும் என்றும், இந்த திட்டங்களில் ஏதேனும் மாற்றங்கள் இருந்தால் உங்களுக்குத் தெரியப்படுத்துவோம் என்றும் தெரிவிக்கப்பட்டுள்ளது. R
+Sri Lanka -Indian passenger shipping service has been suspended from 19th November 2024 to December 18, 2024.
+
+Earlier, it has been stated that the Sivaganga Ship will be operated on November 15, 16, 16, 17 and 18 for the convenience of passengers in both Nagapattinam and Kankesan Port.
+
+It has been stated that the service will be resumed after December 18, 2024 and will let you know if there is any changes in these projects. Remble
 
 ◼️
 
 [Data](articles/c833611d.json)
 
+[Extended Data](ext_articles/c833611d.ext.json)
+
 ---
 
-### කුඩා ලොරියක් දුම්රියේ ගැටෙයි
+### Small lorry collides
 
 *2024-11-15 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203409) · `si`
 
-වැලිගම, පොල්අතු මෝදර දුම්රිය හරස් මාර්ගයේ දී දී කුඩා ලොරි රථයක් දුම්රියේ ගැටී බිහිසුණු අනතුරක් සිදුව තිබේ.
+Here's a summary in 200 characters:
 
-අප වාර්තාකරු පැවසුවේ අනතුරින් ලොරි රථයේ සිටි දරුවන් දෙදෙනෙකු ඇතුළු 7 දෙනෙකු තුවාල ලබා ඇති බවය.
+
+
+"Small lorry collides with train at Coconut Modara crossing. Seven children injured, including two in lorry."
+
+🟩
+
+A small lorry collided with a small lorry train at the Coconut Modara railway crossing on the train.
+
+Our correspondent said seven children including two children in the lorry were injured.
 
 ◼️
 
 [Data](articles/ca61a0da.json)
 
+[Extended Data](ext_articles/ca61a0da.ext.json)
+
 ---
 
-### ජනතා පරමාධිපත්‍ය බලය ඉදිරියේ විසිවුණු හිටපු මැති ඇමතිවරු
+### Former MPs, Twenthed Ministers in front of the people's sovereignty
 
 *2024-11-15 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203408) · `si`
 
-හිටපු මැති ඇමතිවරු රැසකට ඊයේ (14) පැවති මහ මැතිවරණයේදී සිය මන්ත්‍රිධුරය අහිමි වී තිබුණි.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අතරට පසුගිය රජය නියෝජනය කළ ප්‍රබල අමාත්‍යවරුන් කිහිපදෙනෙකු ද අයත් වීම විශේෂත්වයකි.
 
-කොළඹ දිස්ත්‍රික්ක නියෝජනය කරමින් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණින් මැතිවරණයට ඉදිරිපත් වූ සුසිල් ප්‍රේමජයන්ත, ප්‍රේමනාත් සී. දොලවත්ත සහ මධුර විතාන යන මහත්වරුන්ට මෙන්ම සමගි ජන බලවේගය නියෝජනය කරමින් ඉදිරිපත් වූ මනෝ ගනේෂන් සහ ඉරාන් වික්‍රමරත්න යන මහත්වරුන්ට ද සිය මන්ත්‍රිධුර අහිමි වුණි.
 
-එමෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණින් කොළඹ දිස්ත්‍රික්කයට ඉදිරිපත් වූ සරත් වීරසේකර මහතාටද පාර්ලිමේන්තු වරම් අහිමි විය.
+Several former ministers and politicians lost their seats in the recent elections. Key losses include Susil Premajayantha, Sarath Weerasekera, Udaya Gammanpila, and others from various parties. Some notable winners include Rajitha Senaratne and Vidura Wickramanayaka. The summary focuses on the major political figures who lost their seats in the election.
 
-සර්වජන බලයෙන් තරග වැදුණු උදය ගම්මන්පිල මහතාට ද මෙවර සිය අසුන අහිමිවී තිබේ.
+🟩
 
-ගම්පහ දිස්ත්‍රික්කයට නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ යටතේ තරග වැදුණු නිමල් ලන්සා, නලින් ප්‍රනාන්දු, ලසන්ත අලගියවන්න සහ කෝකිලා ගුණවර්ධන  මෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණින් තරග වැදුණු ඉන්දික අනුරුද්ධ සහ ප්‍රසන්න රණවීරට මන්ත්‍රිධුර අහිමි වී තිබුණි.
+Former ministers and several other ministers had lost their sense of election yesterday (14).
+
+Among them were several powerful government representatives.
+
+Susil Premajayantha, who brought the new Democratic Front representing the Colombo district, Susil Premajayantha, Premant. As well as the gentlemen, Dollawatte and Madurai Power and Iran Wickramaratne lost his own.
+
+Sarath Weerasekera also lodged a parliamentarian from the Sri Lanka General Front.
+
+Udaya Gammanpila, who contested with the universal power, lost his seat this time.
+
+Nimal Lansa, Nalin Fernando, Lasantha Alagiyawanna, Lasantha Alagiyawanna, Lasantha Alagiyawanna and Kokilla Gunawardena and Kokila Gunawardena competed by the Sri Lanka Alagiyawanwardena and Prasanra Ranaweera lost their father.
+
+Professor Channatilleka has lost the same incident in the Gampaha District in the 2020 General Election.
+
+Meanwhile, Rajitha Senaratne, Piyal Nishantha and Vidura Wickramanayaka who came to Kalutara district under the New Democratic Front.
 
 ...
 
 [Data](articles/7aeb702c.json)
 
+[Extended Data](ext_articles/7aeb702c.ext.json)
+
 ---
 
-### உலகத் தமிழ் வர்த்தகர்கள் கலந்து கொள்ளும் தமிழ் வம்சாவளி மாநாடு
+### The Tamil Trading Conference attended by the World Tamil Traders
 
 *2024-11-15 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198884) · `ta`
 
-எதிர்வரும் ஜனவரி 4 மற்றும் 5ஆம் தேதிகளில் மலேசிய பிணங்கு மாநிலத்தில் டேவான் ஸ்ரீ பினாங்குஅரங்கில் நடைபெற உள்ளது. இந்நிகழ்வை பினாங்கு மாநில முதலமைச்சர் துவக்கி வைக்க, பினாங்கு மாநில ஆட்சி குழு உறுப்பினர் டத்தோ ஸ்ரீ சுந்தர்ராஜு தலைமையில் அதிகாரப்பூர்வமாக துவக்கி வைக்க இசைவு தெரிவித்துள்ளார்.
+Tamil Trading Conference: World Tamil Traders attend. Malaysian coronation Jan 4-5. Dato Sri Sundarraju inaugurates. Tamil traders, associations, chambers participate. Exhibition showcases products. Four sessions: Global Connect, women leaders. B2B/B2C events. Thai speakers expand industry. Sponsored by Tamil Nadu and Malaysian small industries ministries.
 
-இந்நிகழ்வில் பல்வேறு நாடுகளில் உள்ள தமிழ் வர்த்தகர்கள், வர்த்தக சங்கங்கள், வர்த்தக ஆணையங்கள் மற்றும் மலேசிய இந்திய வர்த்தக சம்மேளனம், மலேசிய பினாங்கு வர்த்தக சம்மேளனம், மலேசிய முஸ்லிம் சேம்பர் காமெர்ஸ் மற்றும் பல்வேறு தொழில் வர்த்தக அமைப்புகள் கலந்து கொள்ள உள்ளனர். இதன் மூலம் தமிழர்கள் பல்வேறு நாடுகளில் ஏற்றுமதி இறக்குமதி செய்யவும், தாங்கள் உற்பத்தி செய்யும் பொருட்களை காட்சிப்படுத்தி சந்தைப்படுத்தவும், இந்த வம்சாவளி மாநாட்டில் ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
+
+The upcoming state of Malaysian coronation will be held on January 4 and 5. Penang State Governing Council Member Dato Sri Sundarraju has officially inaugurated the event.
+
+The event will be attended by Tamil traders, trade associations, trade commissions and Malaysian Indian Chamber of Commerce, Malaysian Penang Business Federation, Malaysian Muslim Chamber Commerce and various business organizations.. This is organized by this genealogical conference to import export to Tamils ​​in various countries and to display and marke the products they produce.
+
+The event will be held in four sessions, such as Global Connect Connection and a separate session for female business leaders.. The exhibition will showcase all the fields and the B2B recovery and B2C event.
 
 ...
 
 [Data](articles/8058ffd6.json)
+
+[Extended Data](ext_articles/8058ffd6.ext.json)
 
 ---
 
@@ -144,51 +396,83 @@ M.M. Thahir of the All Ceylon Makkal Congress (ACMC), Meerasahibu Uthumalebbe of
 
 ---
 
-### දිගාමඩුල්ල මනාප ප්‍රතිඵලය
+### Digamadulla Profidence Result
 
 *2024-11-15 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203407) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 4ක් හිමිවිය.
+Here's a summary of 200 characters:
 
-ඊට අමතරව සමස්ත ලංකා මුස්ලිම් කොංග්‍රසය, ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය හා  ඉලංගෙයි තමිල් අරුසකච්චි පක්ෂය මන්ත්‍රි ධුර එක බැගින් දිනාගෙන තිබේ.
+
+
+National power won 4 seats. All Ceylon Muslim Congress, Sri Lanka Muslim Congress, and Ilangai The Ilayani Thamil Arasakkarakakalaya Party secured one seat each.
+
+🟩
+
+According to the overall result of the district, the national power was won by four seats.
+
+In addition, the All Ceylon Muslim Congress, Sri Lanka Muslim Congress and Ilangai The Ilayani Thamil Arasakkarakakalaya Party have won a summon.
 
 ◼️
 
 [Data](articles/03fe2fa5.json)
 
+[Extended Data](ext_articles/03fe2fa5.ext.json)
+
 ---
 
-### පුනරුද යුගය ඇරඹීමට උරදුන් සැමට ස්තූතියි - ජනපති
+### Thank you for everyone to start the Renaissance - President
 
 *2024-11-15 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203406) · `si`
 
-මහ මැතිවරණයේදී සුවිශේෂී ජයග්‍රහණයක් ලබාදීම සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඡන්ද දායකයින් වෙත සිය ප්‍රණාමය පුදකර තිබේ.
+Here's a summary in 200 characters:
 
-සිය 'X' ගිණුමේ සටහනක් තබමින් ජනාධිපතිවරයා මෙලෙස ඡන්ද දාකයින් වෙත සිය ස්තූතිය පළකර තිබේ.
 
-එහි ඔහු සඳහන් කර ඇත්තේ ' පුනරුද යුගය ඇරඹීමට උරදුන් සැමට ස්තූතියි!' යනුවෙනි.
 
-ඊයේ (15) පැවති 2024 මහ මැතිවරණයෙන් ආසන 159ක් දිනාගනිමින් ජාතික ජන බලවේගය ඉතිහාසගත ජයක් ලැබීය.
+President Anura Kumara Dissanayake thanks voters for starting a renaissance. National folk force wins 159 seats in 2024 general election.
+
+🟩
+
+President Anura Kumara Dissanayake has paid his privilege to give a significant victory at the general election.
+
+The President has thanked the vote on the voter turnout.
+
+He said, 'Thank you for everyone to begin the Renaissance!'.
+
+The national folk force won the year-winning 159 seats in the 2024 general election yesterday (15).
 
 ◼️
 
 [Data](articles/2f0e35e3.json)
 
+[Extended Data](ext_articles/2f0e35e3.ext.json)
+
 ---
 
-### 1650 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதியுடைய ஹெரோயின் மீட்பு
+### Heroin recovery of over 1650 million rupees
 
 *2024-11-15 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198883) · `ta`
 
-கடற்படையினரால் மேற்கு கடற்பரப்பில் முன்னெடுக்கப்பட்ட ரோந்து நடவடிக்கையின் போது கைப்பற்றப்பட்ட ஹெரோயின் போதைப்பொருளின் பெறுமதி 1650 மில்லியன் ரூபாவுக்கும் அதிகமென்றும், இது குறித்த மேலதிக விசாரணைகள் பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவினரால் முன்னெடுக்கப்பட்டு வருவதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-கடற்படையினரால் இலங்கையின் மேற்கு திசையின் ஆழ்கடலில் வியாழக்கிழமை (14) முன்னெடுக்கப்பட்ட விசேட ரோந்து நடவடிக்கையின் போது, 1650 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதியான ஹெரோயினுடன் 6 சந்தேகநபர்கள் கைது செய்யப்பட்டனர். குறித்த சந்தேகநபர்கள் ஹெரோயின் கடத்தலுக்கு பயன்படுத்திய பல நாள் மீன்பிடிப் படகுடன் வெள்ளிக்கிழமை (15) காலி துறைமுகத்துக்கு அழைத்து வரப்பட்டனர்.
 
-காலி துறைமுகத்துக்கு கொண்டு வரப்பட்ட படகு மேலதிக சோதனைகளுக்கு உட்படுத்தப்பட்ட போதே அதிலிருந்து 1650 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதியுடைய 66 கிலோ 840 கிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+Heroin seizure worth over 1650 million rupees during naval patrol. Six suspects arrested in Mirissa area aged 18-34. Police Drug Eradication Unit conducting further investigations. Total drug seizures this year valued at 17 483 million rupees. Navy vows to prevent drug trafficking.
+
+🟩
+
+The value of heroin, which was seized during the patrols carried out by the Marines, is more than 1650 million rupees, and further investigations are being carried out by the Police Drug Eradication Unit, the Navy said.
+
+Six suspects were arrested with heroin worth more than 1650 million rupees during a special patrol operation carried out on Thursday (14) in the deep sea of ​​Sri Lanka's west side of Sri Lanka.. The suspects were brought to Galle Harbor on Friday (15) with a fishing boat used for heroin.
+
+According to the Navy Media Unit, 66 kg 840 grams of heroin was seized by more than 1650 million rupees when the boat brought to the Galle port was subjected to further tests.
+
+The suspects were arrested from the Mirissa area between the ages of 18 - 34. They have been handed over to the Police Drug Eradication Unit for further investigations with the seized boat and narcotics.
 
 ...
 
 [Data](articles/7915dc50.json)
+
+[Extended Data](ext_articles/7915dc50.ext.json)
 
 ---
 
@@ -250,15 +534,25 @@ Nalin Bandara has managed to secure the highest number of preference votes for t
 
 ---
 
-### කොළඹ මනාප ප්‍රතිඵලය
+### Colombo Preferences
 
 *2024-11-15 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203405) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 14ක් හිමිවිය.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo District Election Results: National party won 14 seats out of total.
+
+🟩
+
+According to the overall result of the district, the national power was held in 14 seats.
 
 ◼️
 
 [Data](articles/929a3168.json)
+
+[Extended Data](ext_articles/929a3168.ext.json)
 
 ---
 
@@ -280,21 +574,31 @@ Heshan Withanage has managed to secure the highest number of preference votes fo
 
 ---
 
-### අගමැතිගෙන් ඉතිහාසගත මනාප වාර්තාවක්
+### Historical votes from the Prime Minister
 
 *2024-11-15 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203404) · `si`
 
-2024 මහ මැතිවරණය සඳහා ජාතික ජන බලවේගයෙන් කොළඹ දිස්ත්‍රික්කය සඳහා ඉදිරිපත් වූ අගමැතිනි ආචාර්ය හරිනි අමරසූරිය මනාප ඡන්ද 655,289ක් ලබාගනිමින් කොළඹ දිස්ත්‍රික්කයේ පළමුවැනියා වී තිබේ.
+Here's a summary of 200 characters:
 
-මෙම මනාප ගණන මෙරට පාර්ලිමේත්තු මැතිවරණ ඉතිහාසයේ එක් මන්ත්‍රී ධුර අපේක්ෂකයෙකු ලබාගත් වැඩිම මනාප ගණන ලෙස ඉතිහාස ගත වේ.
 
-මීට පෙර වැඩිම මනාප ඡන්ද ගණනක් ලබාගෙන තිබූ මන්ත්‍රි ධුර අපේක්ෂකයා වූයේ මහින්ද රාජපක්ෂ මහතාය.
 
-ඔහු 2020 වසරේදී කුරුණෑගල දිස්ත්‍රික්කයෙන් මහ මැතිවරණයට තරග කරමින් මනාප 527,364ක් ලබාගත්තේය.
+Dr. Harini Amarasuriya received 155,289 preferential votes in the Colombo District election. This is the highest number of preferential votes ever recorded for a single candidate in Sri Lanka's parliamentary election history. Mahinda Rajapaksa previously held this record with 527,364 votes in the Kurunegala District in 2020.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya, who was contesting for the Colombo District for the general election, has been identified as 155,289 preferential votes.
+
+This number of preferential number of preferential votes has been the number of preferential votes obtained by one seal candidate in parliamentarian election history.
+
+The MP was the highest number of preferential votes was the Mahinda Rajapaksa.
+
+He contested the General Election of the Kurunegala District in 2020 and obtained 527,364 preferential votes.
 
 ◼️
 
 [Data](articles/515bcac8.json)
+
+[Extended Data](ext_articles/515bcac8.ext.json)
 
 ---
 
@@ -316,15 +620,25 @@ Kandasami Prabhu has managed to secure a parliamentary seat in the district for 
 
 ---
 
-### කුරුණෑගල මනාප ප්‍රතිඵල
+### Kurunegala Preferential Results
 
 *2024-11-15 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203403) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 12ක් හිමිවිය.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Kurunegala Election Results: National protocol won 12 seats out of the district total."
+
+🟩
+
+According to the overall result of the district, the national protocol was 12 MPs.
 
 ◼️
 
 [Data](articles/4c80b018.json)
+
+[Extended Data](ext_articles/4c80b018.ext.json)
 
 ---
 
@@ -364,29 +678,49 @@ Hector Appuhami and Janath Chithral Fernando have obtained the highest number of
 
 ---
 
-### රත්නපුර මනාප ප්‍රතිඵල
+### Ratnapura Preference Results
 
 *2024-11-15 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203402) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 08ක් හිමිවිය.
+Here's a summary of 200 characters:
+
+
+
+National party wins 8 seats in Ratnapura district election results.
+
+🟩
+
+According to the overall result of the district, the national power was won eight seats.
 
 ◼️
 
 [Data](articles/0d12e434.json)
 
+[Extended Data](ext_articles/0d12e434.ext.json)
+
 ---
 
-### මඩකලපුව මනාප ප්‍රතිඵලය
+### Batticaloa's preferences
 
 *2024-11-15 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203401) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ඉලංකෙයි තමිල් අරුසු කච්චියට මන්ත්‍රි ධුර 03ක් හිමිවිය.
+Here's a summary of Batticaloa's election results in 200 characters:
 
-ඊට අමතරව ජාතික ජන බලවේගයට එක් මන්ත්‍රී ධුරයක් සහ ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසයට එක් මන්ත්‍රී ධුරයක් හිමිව ඇත.
+
+
+Ilankai Tamil Arasu wins overall. National Folk Force and Sri Lanka Muslim Congress each secure one seat.
+
+🟩
+
+The overall result of the district was won by Ilankai Tamil Arasu.
+
+In addition, the National Folk Force is one seat and the Sri Lanka Muslim Congress has won one seat.
 
 ◼️
 
 [Data](articles/34f7992a.json)
+
+[Extended Data](ext_articles/34f7992a.ext.json)
 
 ---
 
@@ -460,37 +794,67 @@ It is important that this is the first female representation in the last 47 year
 
 ---
 
-### කෑගල්ල මනාප ප්‍රතිඵල
+### Kegalle Preferential Results
 
 *2024-11-15 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203400) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 07ක් හිමිවිය.
+Here's a summary of 200 characters:
+
+
+
+Kegalle Election Results: National party wins 7 seats out of total. Local preferences influence outcome.
+
+🟩
+
+According to the overall result of the district, the national power was owned by seven seats.
 
 ◼️
 
 [Data](articles/a2b8a615.json)
 
+[Extended Data](ext_articles/a2b8a615.ext.json)
+
 ---
 
-### පුත්තලම මනාප ප්‍රතිඵල
+### Puttalam Preferential Results
 
 *2024-11-15 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203399) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 06ක් හිමිවිය.
+Here's a summary of the Puttalam Preferential Results in 200 characters:
+
+
+
+National power won six seats in the district overall. This outcome reflects the political landscape and voting patterns in Puttalam during that election cycle. The results indicate a strong showing for the national party in this particular region.
+
+🟩
+
+According to the overall result of the district, the national power was owned by six seats.
 
 ◼️
 
 [Data](articles/ae32d417.json)
 
+[Extended Data](ext_articles/ae32d417.ext.json)
+
 ---
 
-### ත්‍රිකුණාමලය මනාප ප්‍රතිඵලය
+### Trincomalee Preferences
 
 *2024-11-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203398) · `si`
+
+Here's a summary of Trincomalee Preferences in 200 characters:
+
+
+
+Trincomalee, a port city in Sri Lanka's eastern coast, has unique preferences shaped by its history and geography. Locals often prefer seafood dishes like pittu (steamed rice cakes) with fish curry. The city's tropical climate influences fashion choices, favoring lightweight, breathable clothing. Cultural traditions emphasize respect for elders and Buddhist practices.
+
+🟩
 
 ◼️
 
 [Data](articles/4cf761b1.json)
+
+[Extended Data](ext_articles/4cf761b1.ext.json)
 
 ---
 
@@ -630,13 +994,19 @@ This is a unique opportunity to a single party in recent history as a unique opp
 
 ---
 
-### නුවරඑළිය මනාප ප්‍රතිඵලය
+### Nuwara Eliya Factor
 
 *2024-11-15 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203397) · `si`
+
+Nuwara Eliya Factor: A strategic location in Sri Lanka's central highlands, known for its cool climate, tea plantations, and historical significance. It played a crucial role in colonial-era administration and military operations. The area is now a popular tourist destination and agricultural hub.
+
+🟩
 
 ◼️
 
 [Data](articles/fec834b0.json)
+
+[Extended Data](ext_articles/fec834b0.ext.json)
 
 ---
 
@@ -684,17 +1054,27 @@ This summary captures the main idea while staying within the character limit. It
 
 ---
 
-### කළුතර මනාප ප්‍රතිඵල
+### Kalutara Preferential Results
 
 *2024-11-15 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203396) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 08ක් හිමිවිය.
+Here's a summary of 200 characters:
 
-ඊට අමතරව සමගි ජන බලවේගයට මන්ත්‍රි ධුර 2ක් හා නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට එක් මන්ත්‍රි ධුරයක් හිමිවිය.
+
+
+National party wins 8 seats in Kalutara district. 2 additional seats summoned. New Democratic Front elected.
+
+🟩
+
+According to the overall result of the district, the national power was won eight seats.
+
+In addition, 2 summoned seats and the new Democratic Front was elected to the power of the people.
 
 ◼️
 
 [Data](articles/a823bd74.json)
+
+[Extended Data](ext_articles/a823bd74.ext.json)
 
 ---
 
@@ -732,17 +1112,27 @@ The BCIS is in the process of celebrating the 50th anniversary of its establishm
 
 ---
 
-### අනුරාධපුරයේ මනාප ප්‍රතිඵල
+### Professional results in Anuradhapura
 
 *2024-11-15 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203395) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 07ක් හිමිවිය.
+Here's a summary in 200 characters:
 
-ඊට අමතරව මන්ත්‍රි ධුර 2ක් දිනාගැනීමට සමගි ජන බලවේගයට හැකිවිය.
+
+
+Anuradhapura district election results: National party won 7 seats, another party secured 2 seats.
+
+🟩
+
+According to the overall result of the district, the national power was owned by seven seats.
+
+In addition, the power to win 2 seats was able to win 2 seats.
 
 ◼️
 
 [Data](articles/9bede64e.json)
+
+[Extended Data](ext_articles/9bede64e.ext.json)
 
 ---
 
@@ -792,23 +1182,33 @@ Rohana Bandara and Suranga Rathnayaka have obtained the highest number of prefer
 
 ---
 
-### ජාතික ජන බලවේගයෙන් විශේෂ මාධ්‍ය හමුවක්
+### Special media briefing from national promos
 
 *2024-11-15 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203394) · `si`
 
-නිමාවූ මහ මැතිවරණයේ දී, ජාතික ජන බලවේගය ඓතිහාසික ජයග්‍රහණයක් ලබාගෙන ඇති බව ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන ලේකම් ටිල්වින් සිල්වා මහතා පවසයි.
+Here's a summary of 200 characters:
 
-පැලවත්තේ පිහිටි ජනතා විමුක්ති පෙරමුණේ ප්‍රධාන මුලස්ථානයේ දී මාධ්‍ය අමතමින් ඒ මහතා පැවසුවේ සමානුපාතික ඡන්ද ක්‍රමය මෙරට හඳුන්වා දීමෙන් අනතුරුව එක් දේශපාලන පක්ෂයක් ලබාගත් වැඩිම ආසන සංඛ්‍යාව ලෙස මෙය ඉතිහාස වන බවය.
 
-ආසන 225කින් යුත් පාර්ලිමේන්තුවේ ආසන 159ක් දිනා ගැනීමට ජාතික ජන බලවේගය සමත්විය.
 
-ලැබූ ජයග්‍රහණය පිටුපස සිටින සෑම අයෙකුටම සිය පක්ෂය වෙනුවෙන් ස්තූතිය පුදකරන බව ද ඒ මහතා පැවසීය.
+JVP General Secretary Tilvin Silva announces historic victory in general election. Party wins 159 seats under proportional voting system. He thanks supporters and emphasizes responsibility to meet people's expectations, ending old politics and family rule.
 
-"අපිට ලැබුණ ජයග්‍රහණයේ බර අපි තේරුම් අරගනෙ ඉන්නේ. අපි කෙරෙහි ජනතාව ලොකු බලාපොරොත්තුවකින් ඉන්නේ. අපිට ඒක රකින්න වෙනවා. රටේ ප්‍රබල දේශපාලන පක්ෂ පරාජය කරලා තමයි අපිට මේ ජයග්‍රහණය ලැබුණේ. පැරණි දේශපාලනය අවසන්. පැරණි යුගය අවසන්. ජනතාව ඒ යුගය නිමා කළා. වරප්‍රසාද සහිත, පවුල් පාලනය සහිත ඒ දේශපාලනය දැන් ඉවරයි. පොදු ජනයා අපේ භාවිතය තේරුම් අරගෙන ලබාදුන්න ජයග්‍රහණයක් මේක...අභියෝග දිනන්න මිසක් අපි මේ බලය පාවිච්චි කරන්නේ නෑ."
+🟩
+
+The General Secretary of the JVP Tilvin Silva says that the national folk force has achieved historical victory at the general election.
+
+Addressing the media at the main headquarters of the JVP in Pelawatta, he said this was the highest number of seats after the introduction of the proportional voting system.
+
+The national folk force won 159 seats in the 225 seats.
+
+He also thanked everyone behind the victory for his party.
+
+"We understand the burden of our victory. People are in great hopes for us. We have to keep it up. We have been defeated by the majority of political parties in the country. Old politics is over. The old era is over. People ended that era. That politics with privileged, family rule is now over. This is a victory to understand our use and granting our use ...
 
 ◼️
 
 [Data](articles/04281623.json)
+
+[Extended Data](ext_articles/04281623.ext.json)
 
 ---
 
@@ -844,17 +1244,27 @@ Rauf Hakeem and Chamindrani Kiriella have secured two parliamentary seats for th
 
 ---
 
-### මහනුවර මනාප ප්‍රතිඵලය
+### Kandy preferential consequences
 
 *2024-11-15 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203393) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 09ක් හිමිවිය.
+Here's a summary of 200 characters:
 
-ඊට අමතරව සමගි ජන බලවේගයට මන්ත්‍රි ධුර 2ක් හා නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට එක් මන්ත්‍රි ධුරයක් හිමිවිය.
+
+
+Kandy election results: National government wins 9 seats, 2 summoned seats elected, new Democratic Front gains power.
+
+🟩
+
+According to the overall result of the district, the national government was won by nine seats.
+
+In addition, 2 summoned seats and the new Democratic Front was elected to the power of the people.
 
 ◼️
 
 [Data](articles/1f5b8bd2.json)
+
+[Extended Data](ext_articles/1f5b8bd2.ext.json)
 
 ---
 
@@ -942,15 +1352,25 @@ H.M. Dharmasena has obtained the highest number of preferential votes for the SJ
 
 ---
 
-### මොනරාගල මනාප ප්‍රතිඵලය
+### Moneragala Preferences
 
 *2024-11-15 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203392) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධූර 05ක් හිමිවිය.
+Here's a summary of 200 characters:
+
+
+
+"Moneragala: National power won 5 seats in district-wide election results."
+
+🟩
+
+According to the overall result of the district, the national power was entitled to five seats.
 
 ◼️
 
 [Data](articles/6bcbc7e1.json)
+
+[Extended Data](ext_articles/6bcbc7e1.ext.json)
 
 ---
 
@@ -976,17 +1396,27 @@ Meanwhile, ‘Sarvajana Balaya’ failed to win any seats, however, has managed 
 
 ---
 
-### මහ මැතිවරණයේ සමස්ත ප්‍රතිඵලය
+### Overall Result of General Election
 
 *2024-11-15 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203391) · `si`
 
-ජාතික ජන බලවේගය එහිදී ජාතික ලැයිස්තු මන්ත්‍රීධුර 18ක් හිමිකරගෙන තිබේ.
+Here's a summary in 200 characters:
 
-සමගි ජන බලවේගය ජාතික ලැයිස්තු මන්ත්‍රීධුර 5ක් හිමිකරගෙන ඇති අතර, නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ හිමිකරගෙන ඇති ජාතික ලැයිස්තු මන්ත්‍රිධුර සංඛ්‍යාව 2කි.
+
+
+National folk force won 18 national list seats. Reconciliation party secured 5 national listings.
+
+🟩
+
+There have been 18 national list seats where the national folk force.
+
+The reconciliation has won five national listings, which have won 5 national listings.
 
 ◼️
 
 [Data](articles/bd8906ca.json)
+
+[Extended Data](ext_articles/bd8906ca.ext.json)
 
 ---
 
@@ -1064,17 +1494,27 @@ Selvathambi Thilakanathan has obtained the highest preferential votes from the N
 
 ---
 
-### වන්නි මනාප ප්‍රතිඵලය
+### Wanni preferential
 
 *2024-11-15 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203390) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධූර 02ක් හිමිවිය.
+Here's a summary of 200 characters:
 
-ඊට අමතරව සමගි ජන බලවේගය, ඉලංකෙයි තමිල් අරුසු කච්චි, ප්‍රජාතන්ත්‍රවාදී දෙමළ ජාතික සන්ධානය හා ශ්‍රී ලංකා කම්කරු පක්ෂය එක් මන්ත්‍රී ධුරය බැගින් දිනාගැනීමට සමත් විය.
+
+
+Wanni district election results: Two national list seats awarded. Reconciliation Alliance wins one seat. Ilankai Tamil Arasu party and SLFP secure another seat each.
+
+🟩
+
+According to the overall result of the district, two members were entitled to the national power.
+
+In addition, the reconcil power, Ilanki Thamil Arasu, Democratic TNA and the Sri Lanka Labor Party (SLTB) won each seat.
 
 ◼️
 
 [Data](articles/5e376716.json)
+
+[Extended Data](ext_articles/5e376716.ext.json)
 
 ---
 
@@ -1138,31 +1578,43 @@ Karunananthan Ilankumaran has obtained the highest number of preferential votes 
 
 ---
 
-### එක් එක්‌ දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන හිමිකරගෙන ඇති ආකාරය
+### How the seatings are owned in each district
 
 *2024-11-15 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203389) · `si`
 
-ගම්පහ දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන 19න් මන්ත්‍රී ආසන 16ක්ම හිමිව ඇත්තේ ජාතික ජනබලවේගයට ය.
+Here's a summary of the seating distribution across districts in 200 characters:
 
-කොළඹ දිස්ත්‍රික්කයෙන් ජාතික ජනබලවේගයට මන්ත්‍රී ආසන 14ක් හිමිවූ අතර සමගි ජනබලවේගයට මන්ත්‍රී ආසන 4ක් හිමිවිය.
 
-කළුතර දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන 11න් මන්ත්‍රී ආසන 8ක්ම හිමිකර ගැනීමට සමත්ව ඇත්තේ ජාතික ජනබලවේගය යි.
 
-සමගි ජන බලවේගය මන්ත්‍රී ආසන 2ක් හිමිකර ගෙන ඇති අතර නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ එක් මන්ත්‍රී ආසනයක් හිමිකර ගෙන තිබුණි.
+Districts: Gampaha (16), Colombo (14/4), Kalutara (8/2/1), Galle (7-9), Matara (6/1), Hambantota (separate), Ratnapura (8/2), Kegalle (7/2), Badulla (6/2/1), Puttalam (6/2), Kurunegala (12/3), Anuradhapura (7/2), Kandy (9/2/1), Matale (4/1), Nuwara Eliya (5/2/1), Trincomalee (1/1), Batticaloa (3/1/1), Polonnaruwa (4), Vanni (2/1), Jaffna (1/1).
 
-ගාල්ල දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන 9න් 7ක්ම ජාතික ජන බලවේගය හිමිකර ගැනීමට සමත් වු අතර සමගි ජන බලවේගය සහ ශ්‍රී ලංකා පොදු පෙරමුණ එක් මන්ත්‍රී ආසනය බැගින් හිමිකර ගත්තේය.
+🟩
 
-මාතර දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන 7න් 6ක බලය ජාතික ජන බලවේගයට හිමිවුණි.
+Season with 16 seats in the Gampaha district have received 16 seats.
 
-සමගි ජන බලවේගයට එක් මන්ත්‍රී ධුරයක් මාතර දිස්ත්‍රික්කයෙන් හිමිව තිබුණි.
+The Colombo district won 14 seats and was held to 4 seats for the mass of four electorals.
 
-හම්බන්තොට දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන 5ක් ජාතික ජන බලවේගයට හිමිවූ අතර සමගි ජන බලවේගයට සහ ශ්‍රී ලංකා පොදුජන පෙරමුණට එක් මන්ත්‍රී ධුරයක් හිමිවිය.
+National auditorium has won eight seats in the Kalutara district.
 
-රත්නපුර දිස්ත්‍රික්කයේ මන්ත්‍රී ආසන 11න් 8ක්ම හිමිකර ගැනීමට ජාතික ජන බලවේගය සමත්ව තිබේ.
+The reconciliation has won 2 seats and the new Democratic Front had won one seat.
+
+Seven-9 seats in the Galle District have won the national folk force and the Sri Lanka General Front and the Sri Lanka General Front won each seat.
+
+The national propaganda was given 6 out of 6 seats in the Matara district.
+
+The reconciliation was owned by one seat in Matara district.
+
+Separate seats in the Hambantota district were won by the national power and the Sri Lanka Pranan Front was elected to the Sri Lanka Pranan Front.
+
+The national folk force has been able to hold 8 out of the 11 seats in the Ratnapura District.
+
+The National Folk Force of the Kegalle district won seven seats and the restorative power was owned by 2 seats.
 
 ...
 
 [Data](articles/6c0f9f23.json)
+
+[Extended Data](ext_articles/6c0f9f23.ext.json)
 
 ---
 
@@ -1192,17 +1644,27 @@ The first time in the history of the Badulla district parliamentary elections, A
 
 ---
 
-### යාපනය මනාප ප්‍රතිඵලය
+### Jaffna preferences
 
 *2024-11-15 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203388) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගය මන්ත්‍රී ධුර 3ක් හිමිකරගැනීමට සමත් විය.
+Here's a summary of 200 characters:
 
-ඊට අමතරව ඉලංකෙයි තමිල් අරුසු කච්චි, අඛිල ඉලංකෙයි තමිල් කොංග්‍රසය හා යාපනය ස්වාධීන කණ්ඩායම 17 එක් මන්ත්‍රී ධුරය බැගින් හිමිකරගෙන තිබේ.
+
+
+Jaffna election results: National Folk Force won 3 seats. Illankai Thamil Arasachchi, Kachchi, Piyili Engineering Tamil Congress, and 17 independent candidates won 17 seats.
+
+🟩
+
+According to the total result of the district, the national folk force won three seats.
+
+Illankai Thamil Araschy, Kachchi, Piyili Engineeringi Thamil Congress and 17 Independent Troops of Jaffna have won 17 seminars.
 
 ◼️
 
 [Data](articles/c6db5a97.json)
+
+[Extended Data](ext_articles/c6db5a97.ext.json)
 
 ---
 
@@ -1254,31 +1716,39 @@ Sathura Kalapathi, who contested on behalf of the United People's Power, receive
 
 ---
 
-### 10 වෙනි පාර්ලිමේන්තුවේ බහුතර බලය ජාතික ජන බලවේගයට
+### Most power in Parliament to the national propagation
 
 *2024-11-15 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203387) · `si`
 
-ඒ අනුව දිස්ත්‍රික්ක 20කම බලය හිමිකර ගැනීමට සමත්ව ඇත්තේ ජාතික ජන බලවේගය යි.
+National folk force wins 141 seats, 6,863,186 votes (61.56%). Samagi promotes 35 seats, 1,968,716 votes (17.66%). New Democratic Front gets 500,835 votes (4.49%). Sri Lanka General Front wins 350,429 votes (3.1%). Ilankai Tamil Arasu Party gets 257,813 votes (2.31%). Other parties and independent groups also participate.
 
-එම ප්‍රතිඵලය අනූව 10 වෙනි පාර්ලිමේන්තුවේ බහුතර බලය හිමිකර ගැනීමට ජාතික ජන බලවේගය සමත්ව තිබේ.
+🟩
 
-ඒ අනුව ජාතික ජන බලවේගය ආසන 141ක බලය හිමිකර ගැනීමට සමත්ව ඇත්තේ පාර්ලිමේන්තුවේ බහුතර බලය හිමිකර ගැනීමට අවශ්‍ය වන ආසන සංඛ්‍යාව වන 113 ඉක්මවා යමිනි.
+Accordingly, the national folk force has been able to hold the 20 districts.
 
-මහ මැතිවරණයේ ඡන්ද ප්‍රතිඵලවලට අනුව එම පක්ෂය ඡන්ද 6,863,186ක් හිමිකර ගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 61.56ක් වෙයි.
+The national folk force has been able to hold major in Parliament in Parliament.
 
-සමගි ජනබල වේගය ප්‍රතිඵල අනුව දෙවන ස්ථානයට පත්ව ඇත්තේ ආසන 35ක් ලබාගනිමිනි.
+Accordingly, the national folk force has won 141 seats in 141 seats.
 
-එම පක්ෂය ඡන්ද 1,968,716ක් ලබාගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 17.66කි.
+According to the results of the general election, the party has won 6,863,186 votes and 61.56% of the percentage.
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ ඡන්ද 500,835ක් ලබාගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 4.49ක් වෙයි.
+Samagi promotion costs are placed second with 35 seats.
 
-ශ්‍රී ලංකා පොදුජන පෙරමුණ ඡන්ද 350,429ක් හිමිකරගෙන ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 3.14කි.
+The party has obtained 1,968,716 votes, which is 17.66 percent of the percentage.
 
-ඡන්ද 257,813ක් හිමිකර ගැනීමට ඉලංකෙයි තමිල් අරසු පක්ෂය සමත්ව ඇති අතර එය ප්‍රතිශතයක් ලෙස සියයට 2.31කි.
+The New Democratic Front has obtained 500,835 votes and 4.49 percent as a percentage.
 
-...
+The Sri Lanka General Front has won 350,429 votes and 3.1 percent as a percentage.
+
+The Ilankai Tamil Arasu Party has won 257,813 votes and 2.3 percent is 2.31 percent.
+
+In addition, the All Ceylon Tamil Congress, EPDP party, United National Party, the Sri Lanka Labor Party, the 17 independent groups, independent groups.
+
+◼️
 
 [Data](articles/044867ad.json)
+
+[Extended Data](ext_articles/044867ad.ext.json)
 
 ---
 
@@ -1402,13 +1872,39 @@ Here's a summary of the text in approximately 200 characters:
 
 ---
 
-### මාතලේ දිස්ත්‍රික්කයේ මනාප ප්‍රතිඵලය
+### Matale District Preferences
 
 *2024-11-15 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203386) · `si`
+
+Here's a summary of Matale District Preferences in approximately 200 characters:
+
+
+
+Matale District, located in central Sri Lanka, has unique preferences shaped by its history, culture, and geography. Residents often prioritize:
+
+
+
+1. Eco-tourism activities due to nearby Knuckles Mountain Range
+
+2. Local cuisine featuring rice, curry, and fresh produce
+
+3. Traditional festivals like Esala Perahera
+
+4. Education, with several schools and universities
+
+5. Agriculture, focusing on tea, rubber, and spice plantations
+
+
+
+These preferences reflect Matale's blend of natural beauty, cultural heritage, and economic pursuits.
+
+🟩
 
 ◼️
 
 [Data](articles/7226e491.json)
+
+[Extended Data](ext_articles/7226e491.ext.json)
 
 ---
 
@@ -1793,171 +2289,5 @@ Here's a 200-character summary of Gampaha District final election results:
 [Data](articles/f15b75c7.json)
 
 [Extended Data](ext_articles/f15b75c7.ext.json)
-
----
-
-### Sri Lankan election in international media ...
-
-*2024-11-15 11:09:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-ஊடகங்களில்-இலங்கை-தேர்தல்/175-347243) · `ta`
-
-Here's a summary of the Sri Lankan election in international media in approximately 200 characters:
-
-
-
-"International news outlets report Sri Lanka's 10th parliamentary election has concluded. Coverage focuses on voter turnout, key political parties, and potential implications for the island nation's future."
-
-🟩
-
-The international media has reported that the general election for the country's 10th parliament is over.
-
-◼️
-
-[Data](articles/bb358551.json)
-
-[Extended Data](ext_articles/bb358551.ext.json)
-
----
-
-### Hambantota District preferential vote results
-
-*2024-11-15 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103501/hambantota-district-preferential-vote-results) · `en`
-
-The preferential vote results of the Hambantota District in the 2024 General Election have been released.
-
-NPP’s Nihal Galappaththi has polled the highest number of preferential votes in the Hambantota District.
-
-Dilip Wedaarachchi has received the highest preferential votes from the SJB and secures its only seat while SLPP’s single seat for the district was secured by former State Minister D.V. Chanaka.
-
-◼️
-
-[Data](articles/b7bd8dba.json)
-
-[Extended Data](ext_articles/b7bd8dba.ext.json)
-
----
-
-### For the majority of national people's power
-
-*2024-11-15 11:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்பான்மை-தேசிய-மக்கள்-சக்திக்கு/175-347242) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National People's Power wins majority in 2024 general elections with 123 seats.
-
-🟩
-
-According to the voting results released so far in 2024 general elections, the national people's power has gained a majority with 123 seats.
-
-◼️
-
-[Data](articles/70a4e0ea.json)
-
-[Extended Data](ext_articles/70a4e0ea.ext.json)
-
----
-
-### The tyrannist who captured the Hambantotottai
-
-*2024-11-15 10:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பந்தோட்டையை-கைப்பற்றிய-திசைக்காட்டி/175-347241) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Tyrannist captures Hambantotta.
-
-🟩
-
-◼️
-
-[Data](articles/f5b05dc0.json)
-
-[Extended Data](ext_articles/f5b05dc0.ext.json)
-
----
-
-### 2024 General Election: NPP secures parliamentary majority
-
-*2024-11-15 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103500/2024-general-election-npp-secures-parliamentary-majority) · `en`
-
-The National People’s Power (NPP) has already secured a two-thirds majority in Parliament after winning a total of 123 seats in the House in the 2024 General Election.
-
-NPP had confirmed its majority power in parliament, which it sought during the election campaigning, after winning a whopping 16 out of the 19 available seats in the Gampaha District.
-
-NPP polled a total of 898,759 votes (72%) to win the district while the Samagi Jana Balawegaya (SJB) placed second with 150,445 votes (12.18%).
-
-The NPP has thereby secured 16 seats in the district while the SJB has won the 3 remaining seats.
-
-This brings the party’s tally of seats secured thus far to 123. It needed 113 seats in the 225-member house to secure a majority.
-
-NPP has so far polled a total of 6,842,223, which is 61.73% of the votes counted thus far.
-
-...
-
-[Data](articles/d9679ec1.json)
-
-[Extended Data](ext_articles/d9679ec1.ext.json)
-
----
-
-### NPP secures 16 seats in Gampaha District, SJB gets 3
-
-*2024-11-15 10:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103499/npp-secures-16-seats-in-gampaha-district-sjb-gets-3) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Gampaha District in the 2024 General Election with the National People’s Power (NPP) polling more than 72% of the total votes in the district.
-
-NPP has polled 898,759 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 150,445 votes (12.18%).
-
-The NPP has secured 16 seats in the district while the SJB has won 3 seats in the district.
-
-Accordingly, with this, the NPP has now secured a two-thirds majority in the Parliament
-
-◼️
-
-[Data](articles/c4c05c1b.json)
-
-[Extended Data](ext_articles/c4c05c1b.ext.json)
-
----
-
-### Sri Lanka President’s NPP secures parliamentary majority
-
-*2024-11-15 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-npp-secures-parliamentary-majority-187935/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Kumara Dissanayake has secured a majority in parliament, according to official results declared so far by the by the island’s Elections Commission.
-
-The NPP contesting under the Malimawa (compass) symbol secured 141 seats with of the 225 member assembly, data released by the the Elections Commissions showed, before the national list.
-
-The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 35 seats.
-
-The NPP has received 6.8 million or 61 percent of the votes counted, taking a commanding lead over its rivals and is on track to get a two thirds majority.
-
-Soon after casting his vote, President Anura Dissanayake said, a simple majority would be sufficient and those who got two thirds in the past had mis-used it.
-
-The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats and the Sri Lanka Podujana Peramuna has 2 seats.
-
-◼️
-
-[Data](articles/0535966a.json)
-
-[Extended Data](ext_articles/0535966a.ext.json)
-
----
-
-### Gampaha
-
-*2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
-
-Gampaha: A district in western Sri Lanka known for its agricultural production and political significance. It covers approximately 1,3
-
-🟩
-
-◼️
-
-[Data](articles/4fbe34f8.json)
-
-[Extended Data](ext_articles/4fbe34f8.ext.json)
 
 ---

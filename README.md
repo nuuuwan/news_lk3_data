@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 10:41:36**
+As of **2024-11-15 11:13:00**
 
 ## Newspaper Stats
 
-*Scraped **55,023** Articles*
+*Scraped **55,030** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 424
+dbsjeyarajcom | 425
 bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,289
@@ -17,8 +17,8 @@ economynextcom | 3,340
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,154
-adaderanalk | 6,624
-tamilmirrorlk | 7,785
+adaderanalk | 6,626
+tamilmirrorlk | 7,789
 virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,73 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,022 (100.0%) of 55,023 articles have been extended.
+55,027 (100.0%) of 55,030 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Hambantota District preferential vote results
+
+*2024-11-15 11:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103501/hambantota-district-preferential-vote-results) · `en`
+
+The preferential vote results of the Hambantota District in the 2024 General Election have been released.
+
+NPP’s Nihal Galappaththi has polled the highest number of preferential votes in the Hambantota District.
+
+Dilip Wedaarachchi has received the highest preferential votes from the SJB and secures its only seat while SLPP’s single seat for the district was secured by former State Minister D.V. Chanaka.
+
+◼️
+
+[Data](articles/b7bd8dba.json)
+
+---
+
+### பெரும்பான்மை தேசிய மக்கள் சக்திக்கு
+
+*2024-11-15 11:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்பான்மை-தேசிய-மக்கள்-சக்திக்கு/175-347242) · `ta`
+
+2024 பொதுத் தேர்தலில் இதுவரை வெளியாகியுள்ள வாக்குப்பதிவு முடிவுகளின்படி, 123 ஆசனங்களுடன் தேசிய மக்கள் சக்தி பெரும்பான்மை பலத்தை பெற்றுள்ளது.
+
+◼️
+
+[Data](articles/70a4e0ea.json)
+
+---
+
+### ஹம்பந்தோட்டையை கைப்பற்றிய திசைக்காட்டி
+
+*2024-11-15 10:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பந்தோட்டையை-கைப்பற்றிய-திசைக்காட்டி/175-347241) · `ta`
+
+◼️
+
+[Data](articles/f5b05dc0.json)
+
+---
+
+### 2024 General Election: NPP secures parliamentary majority
+
+*2024-11-15 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103500/2024-general-election-npp-secures-parliamentary-majority) · `en`
+
+The National People’s Power (NPP) has already secured a two-thirds majority in Parliament after winning a total of 123 seats in the House in the 2024 General Election.
+
+NPP had confirmed its majority power in parliament, which it sought during the election campaigning, after winning a whopping 16 out of the 19 available seats in the Gampaha District.
+
+NPP polled a total of 898,759 votes (72%) to win the district while the Samagi Jana Balawegaya (SJB) placed second with 150,445 votes (12.18%).
+
+The NPP has thereby secured 16 seats in the district while the SJB has won the 3 remaining seats.
+
+This brings the party’s tally of seats secured thus far to 123. It needed 113 seats in the 225-member house to secure a majority.
+
+NPP has so far polled a total of 6,842,223, which is 61.73% of the votes counted thus far.
+
+...
+
+[Data](articles/d9679ec1.json)
+
+[Extended Data](ext_articles/d9679ec1.ext.json)
+
+---
 
 ### NPP secures 16 seats in Gampaha District, SJB gets 3
 
@@ -47,6 +109,24 @@ Accordingly, with this, the NPP has now secured a two-thirds majority in the Par
 ◼️
 
 [Data](articles/c4c05c1b.json)
+
+[Extended Data](ext_articles/c4c05c1b.ext.json)
+
+---
+
+### Gampaha
+
+*2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
+
+Gampaha: A district in western Sri Lanka known for its agricultural production and political significance. It covers approximately 1,3
+
+🟩
+
+◼️
+
+[Data](articles/4fbe34f8.json)
+
+[Extended Data](ext_articles/4fbe34f8.ext.json)
 
 ---
 
@@ -73,6 +153,32 @@ The following are the details of the former MPs who have now ruled ...
 [Data](articles/71643313.json)
 
 [Extended Data](ext_articles/71643313.ext.json)
+
+---
+
+### Many people, including Rajapaksa
+
+*2024-11-15 10:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஸ-உள்பட-பலர்-படுதோல்வி/175-347239) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+National People's Power leads in all districts. Former ministers lose seats. Details of ousted MPs coming soon.
+
+🟩
+
+The National People's Power is leading in all districts in the general election held yesterday to elect members of the 10th Parliament.
+
+In the meantime, some former ministers have lost their seat in this year's election.
+
+The following are the details of the former MPs who have now ruled ...
+
+◼️
+
+[Data](articles/c0b8b6cc.json)
+
+[Extended Data](ext_articles/c0b8b6cc.ext.json)
 
 ---
 
@@ -1825,103 +1931,5 @@ Discussions were centred mainly on enhancing cooperation between the two countri
 [Data](articles/eb97c3ef.json)
 
 [Extended Data](ext_articles/eb97c3ef.ext.json)
-
----
-
-### Matara District final result: NPP wins 6 seats, SJB secures one
-
-*2024-11-15 04:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/103467/matara-district-final-result-npp-wins-6-seats-sjb-secures-one) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Matara District in the 2024 General Election with the National People’s Power (NPP) polling more than 69% of the total votes in the district.
-
-NPP has polled 317,541 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 74,475 votes (16.38%).
-
-Accordingly, the NPP has secured 6 seats in the district while the SJB have won one seat in the district.
-
-◼️
-
-[Data](articles/8c5790c1.json)
-
-[Extended Data](ext_articles/8c5790c1.ext.json)
-
----
-
-### Sri Lanka participates in 55th Annual Bazaar of Women’s International Club in Jakarta
-
-*2024-11-15 04:44:56* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-participates-in-55thAnnual-Bazaar-of-Women-s-International-Club-in-Jakarta/56-769276) · `en`
-
-The Embassy of Sri Lanka participated in the 55th Annual Charity Bazaar organised by the Women’s International Club in Jakarta. Held at the Jakarta Convention Centre on 13 and 14 November, the primary purpose of the bazaar was to support several selected orphanages and elderly care centres across Indonesia, in addition to providing scholarships to children to continue their education without obstacles.
-
-The Sri Lankan stall attracted numerous visitors with its exotic display of Ceylon tea, cinnamon, as well as apparel inspired by distinctive Sri Lankan cultural features such as decorated elephants, moonstone and punkalasa. A total of 42 embassies based in Indonesia, along with various business vendors operated stalls at the event.
-
-...
-
-[Data](articles/c244e6bc.json)
-
-[Extended Data](ext_articles/c244e6bc.ext.json)
-
----
-
-### ITAK wins Kilinochchi; NPP claims Beruwala, Manipay and Wellawaya
-
-*2024-11-15 04:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103466/itak-wins-kilinochchi-npp-claims-beruwala-manipay-and-wellawaya) · `en`
-
-The Ilankai Tamil Arasu Kachchi (ITAK) has secured a victory in the Kilinochchi polling division in Jaffna District while National People’s Power (NPP) has won in the Wellawaya polling division in Monaragala District, Beruwala polling division in Kalutara District and Manipay polling division in Jaffna District.
-
-◼️
-
-[Data](articles/ea4367c3.json)
-
-[Extended Data](ext_articles/ea4367c3.ext.json)
-
----
-
-### Ambassador of Sri Lanka presents Credentials to Prince Albert II of Monaco
-
-*2024-11-15 04:38:03* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-Sri-Lanka-presents-Credentials-to-Prince-Albert-II-of-Monaco/56-769275) · `en`
-
-The Ambassador of Sri Lanka Manisha Gunasekera presented her Letters of Credence to Prince Albert II of the Principality of Monaco at the Salon des Glaces, Prince’s Palace in Monaco on 17 Thursday October 2024. The formal Presentation of Credentials was followed by a meeting with Prince Albert II in which the Ambassador conveyed the warm greetings and best wishes of the President of Sri Lanka Anura Kumara Dissanayake, to the Prince of Monaco. Reciprocating the sentiments, Prince Albert II conveyed his warm greetings to President Dissanayake, as well as his felicitations on the latter’s recent election as President with a decisive mandate from the people of Sri Lanka. The meeting entailed discussion on areas of shared interest between Sri Lanka (an Indian Ocean island country) and Monaco, with a focus on cooperation in multilateral fora, i.e., ocean conservation, environmental protection and sustainable development.
-
-...
-
-[Data](articles/775ee1fd.json)
-
-[Extended Data](ext_articles/775ee1fd.ext.json)
-
----
-
-### Sri Lanka showcases innovation and technology at Thailand Smart City Expo 2024
-
-*2024-11-15 04:36:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-showcases-innovation-and-technology-at-Thailand-Smart-City-Expo-2024/34-769274) · `en`
-
-The Embassy and Permanent Mission of Sri Lanka in Thailand, in collaboration with the Sri Lanka Export Development Board (EDB), organised Sri Lanka’s participation at the Thailand Smart City Expo 2024, held from 6-8 November in Bangkok.
-
-This event, hosted by Thailand’s Digital Economy Promotion Agency (DEPA) in association with N.C.C. Management and Development Co. Ltd., serves as Southeast Asia’s largest exhibition dedicated to smart city innovations and emerging technologies.
-
-The Thailand Smart City Expo 2024 brings together international stakeholders, innovators, and industry leaders focused on advancing smart city solutions across critical areas such as smart telecommunications, energy, living, industry and retail, mobility, environment, and healthcare.
-
-...
-
-[Data](articles/dd799af5.json)
-
-[Extended Data](ext_articles/dd799af5.ext.json)
-
----
-
-### Madulkelle Tea and Eco Lodge to export home grown agro products
-
-*2024-11-15 04:35:29* · [`dailyftlk`](https://www.ft.lk/business/Madulkelle-Tea-and-Eco-Lodge-to-export-home-grown-agro-products/34-769273) · `en`
-
-For the first time in the leisure industry, a trendsetter in the Sri Lankan hospitality sector, Madulkelle Tea and Eco Lodge, Kandy Chairman Philippe Gomez would be engaging in Agro-based exports from products from their hotel.
-
-The mentor behind the project, Gomez, a French national, said that they have already planted 4,500 vanilla trees, 4,000 coffee plants and 1,000 pepper plants.
-
-“We have allocated more than half of the land from the hotel property and hope to expand this plantation by nearly six more acres as an export-based initiative. We started this project some time ago and are ready to start exports targeting the European market in a more organised manner from early next year. In a bid to support the community we also have an out-grower system and soon their products would reach the export market as well.”
-
-...
-
-[Data](articles/77cb278a.json)
-
-[Extended Data](ext_articles/77cb278a.ext.json)
 
 ---

@@ -1,0 +1,17 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0d9a\u0ddc\u0dc5\u0db9 \u0db8\u0dcf\u0dbd\u0dd2\u0db8\u0dcf \u0dba\u0db1\u0dca\u0dad\u0dca\u0dbb\u0dba\u0da7",
+      "body_lines": []
+    },
+    "en": {
+      "title": "To the Colombo compass",
+      "body_lines": []
+    }
+  },
+  "summary_lines": [
+    "Here's a summary in 200 characters:",
+    "",
+    "Colombo Compass: A navigation tool for developers, providing insights into codebases, performance optimization tips, and best practices. It helps identify potential issues and suggests improvements to enhance overall code quality and maintainability."
+  ]
+}

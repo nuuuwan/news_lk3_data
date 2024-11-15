@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 02:00:23**
+As of **2024-11-16 01:00:12**
 
 ## Newspaper Stats
 
-*Scraped **55,160** Articles*
+*Scraped **55,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 559
 bbccomsinhala | 563
 islandlk | 3,291
 economynextcom | 3,352
-dailyftlk | 3,781
+dailyftlk | 3,778
 dailymirrorlk | 4,733
 adalk | 5,162
 adaderanalk | 6,652
@@ -26,63 +26,11 @@ adaderanasinhalalk | 9,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,147 (100.0%) of 55,160 articles have been extended.
+55,144 (100.0%) of 55,157 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### Former BASL Chief welcomes NPP’s historic victory, issues caution
-
-*2024-11-16 01:09:33* · [`dailyftlk`](https://www.ft.lk/news/Former-BASL-Chief-welcomes-NPP-s-historic-victory-issues-caution/56-769325) · `en`
-
-Activist and the Bar Association of Sri Lanka’s (BASL) Former President Saliya Pieris PC yesterday hailed the historic victory of National People’s Power (NPP) at Thursday’s Parliamentary Election and stressed the importance of living up to the trust of people.
-
-In a post on Facebook, Pieris said this is the first time one party got two-thirds majority in the Parliament under the proportional representation system if the National People’s Force gets two-thirds majority. Common Front in 2010 and Sri Lanka Podujana Front in 2020 were slightly reduced to two-thirds and had to seek support from some Opposition Ministers to get a two-thirds majority.
-
-The only parallel to this victory is the Presidential Election where the 1994 Prime Minister Chandrika Kumarathunga was appointed as the president.
-
-“The National People’s Force has achieved significant achievements in the North and Eastern regions so that the President can become a leader who can unite various communities in Sri Lanka.
-
-...
-
-[Data](articles/f48dd4ee.json)
-
----
-
-### Over 50 persons arrested for election law violations
-
-*2024-11-16 01:08:42* · [`dailyftlk`](https://www.ft.lk/news/Over-50-persons-arrested-for-election-law-violations/56-769324) · `en`
-
-Over 50 people have been arrested for violating election laws during the Parliamentary polling period, according to Police Spokesperson DIG Nihal Thalduwa
-
-DIG Thalduwa explained that most of the arrests were made due to illegal election campaign activities, such as capturing photographs, tearing ballot papers, distributing money, and engaging in physical assault.
-
-Despite these incidents, the police confirmed that the overall polling period remained relatively peaceful.
-
-◼️
-
-[Data](articles/2a2d3943.json)
-
----
-
-### Police ban demonstrations for a week
-
-*2024-11-16 01:08:28* · [`dailyftlk`](https://www.ft.lk/news/Police-ban-demonstrations-for-a-week/56-769323) · `en`
-
-Police have announced that all demonstrations, including vehicle and pedestrian rallies, will be prohibited for one week following the announcement of the Parliamentary Election results.
-
-Police Spokesperson DIG Nihal Talduwa made the statement, stressing that no public gatherings or displays of digital screens to watch the results will be allowed.
-
-DIG Talduwa urged the public to refrain from organising or participating in such activities, warning that authorities will take action to disperse any gatherings.
-
-The police emphasised that the decision was made to maintain public order and ensure safety during this period.
-
-◼️
-
-[Data](articles/fa0935ff.json)
-
----
 
 ### National Chamber of Exporters congratulates NPP on Parliamentary Election victory
 
@@ -95,8 +43,6 @@ The National Chamber of Exporters of Sri Lanka (NCE) yesterday extended its warm
 ...
 
 [Data](articles/5d9c07dd.json)
-
-[Extended Data](ext_articles/5d9c07dd.ext.json)
 
 ---
 
@@ -111,8 +57,6 @@ The Joint Apparel Association Forum (JAAF), yesterday extended its warm congratu
 ...
 
 [Data](articles/ccb063ef.json)
-
-[Extended Data](ext_articles/ccb063ef.ext.json)
 
 ---
 
@@ -129,8 +73,6 @@ The Confederation of MSMI yesterday via a statement congratulated President Anur
 ◼️
 
 [Data](articles/d256e616.json)
-
-[Extended Data](ext_articles/d256e616.ext.json)
 
 ---
 
@@ -2243,5 +2185,73 @@ Matara District Dislikes: Traffic congestion, poor road conditions, lack of publ
 [Data](articles/a2bb4f02.json)
 
 [Extended Data](ext_articles/a2bb4f02.ext.json)
+
+---
+
+### The National People's Power
+
+*2024-11-15 12:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளையிலும்-தேசிய-மக்கள்-சக்தி/175-347246) · `ta`
+
+Here's a summary of "The National People's Power" in approximately 200 characters:
+
+
+
+"The National People's Power" refers to the political movement in Sri Lanka advocating for social justice and democracy. It emerged as a coalition of left-wing parties opposing authoritarian rule. The movement aims to empower citizens through grassroots organizing and promote economic equality.
+
+🟩
+
+◼️
+
+[Data](articles/dab7763d.json)
+
+[Extended Data](ext_articles/dab7763d.ext.json)
+
+---
+
+### What is the message of the people through the outcome of the general election?
+
+*2024-11-15 12:04:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8702ze6y0o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan general election results show majority support for National Jones's forces. Voters reject elite politicians, giving power to new national groups. Increased voter turnout for national folk force compared to 2024 presidential election. Ground-level election work organized by people, not parties. Collapse of Rajapaksa family's central influence. President Anura Kumara Dissanayake gains confidence in North and East. Election seen as democratic response to 2022 protests.
+
+🟩
+
+The election shows that the majority of Sri Lankans have decided to trust the program of the National Jones's forces.
+
+Accordingly, the general election results have many ideas.
+
+The year general election shows that the people needed to completely change the system of elite politicians for more than seven decades.
+
+The 'termination of elite had a major slogan of the "elite to end a major slogan at the wave of governments in 2022. Accordingly, the masses have expressed their discretion for the "end of the elite" by providing the majority of power to the national popularity.
+
+The MPs, VIP MPs, the MPs, including former President Ranil Wickremesinghe, had decided not to contest the election.
+
+It is also found that the Opposition Alliance (UPFA), the former government, the Commander Party, and the New Democratic Front, has been severely rejected by the new Democratic Front.
+
+...
+
+[Data](articles/b3638555.json)
+
+[Extended Data](ext_articles/b3638555.ext.json)
+
+---
+
+### Here is the list of preferential preference list
+
+*2024-11-15 11:59:21* · [`adalk`](https://www.ada.lk/breaking_news/ගාල්ලේ-මනාප-ලැයිස්තුව-මෙන්න/11-413065) · `si`
+
+I'm sorry, but I don't have any text to summarize. Could you please provide the text you'd like me to summarize?
+
+🟩
+
+◼️
+
+[Data](articles/f886f1d3.json)
+
+[Extended Data](ext_articles/f886f1d3.ext.json)
 
 ---

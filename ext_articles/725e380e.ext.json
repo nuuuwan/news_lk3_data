@@ -1,0 +1,24 @@
+{
+  "translated_text": {
+    "si": {
+      "title": "\u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb - \u0dc0\u0dd2\u0dc3\u0dca\u0dad\u0dbb",
+      "body_lines": []
+    },
+    "en": {
+      "title": "De -voting details",
+      "body_lines": []
+    }
+  },
+  "summary_lines": [
+    "Here's a summary of de-voting details in 200 characters:",
+    "",
+    "De-voting refers to the process of removing votes from a blockchain transaction. It typically involves:",
+    "",
+    "1. Identifying invalid or duplicate votes",
+    "2. Removing those votes from the voting pool",
+    "3. Adjusting the final vote count accordingly",
+    "4. Updating the blockchain ledger with the corrected vote totals",
+    "",
+    "This ensures the integrity and accuracy of voting outcomes in decentralized systems."
+  ]
+}

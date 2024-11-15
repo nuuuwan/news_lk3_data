@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 18:23:15**
+As of **2024-11-15 18:51:21**
 
 ## Newspaper Stats
 
-*Scraped **55,103** Articles*
+*Scraped **55,105** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,648
-tamilmirrorlk | 7,810
+adaderanalk | 6,649
+tamilmirrorlk | 7,811
 virakesarilk | 8,925
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,103 (100.0%) of 55,103 articles have been extended.
+55,105 (100.0%) of 55,105 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### PM Harini tops Colombo District preference votes; sets new record
+
+*2024-11-15 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103524/pm-harini-tops-colombo-district-preference-votes-sets-new-record) · `en`
+
+The much-awaited preferential vote results of the Colombo District in the 2024 General Election have been released with NPP candidate Prime Minister Dr. Harini Amarasuriya polling the highest number of preference votes and placing first in the district.
+
+She has received an unprecedented 655,289 votes in total and in doing so has set a new record for the most preference votes received by a candidate in Sri Lanka’s parliamentary election history.
+
+Prior to this, the record for the highest number of preference votes obtained by a parliamentary candidate was held by former Prime Minister Mahinda Rajapaksa, who polled 527,364 votes in the 2020 General Election contesting from the Kurunegala District.
+
+SJB leader Sajith Premadasa is placed second in the Colombo District preference votes list in the 2024 General Election with 145,611 votes while fellow party members Dr. Harsha De Silva, Mujibur Rahman and S.M. Marikkar have also secured seats from the district.
+
+◼️
+
+[Data](articles/b6d6b68d.json)
+
+[Extended Data](ext_articles/b6d6b68d.ext.json)
+
+---
+
+### Results in Colombo District Votes
+
+*2024-11-15 17:56:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்ட-விருப்பு-வாக்குகளிள்-முடிவுகள்/175-347264) · `ta`
+
+Here's a summary of the Colombo District election results in approximately 200 characters:
+
+
+
+"Colombo District election results show a close race between two main parties. Party A leads with 45% of votes, followed by Party B at 42%. Independent candidates secured 13% of votes. Voter turnout was high at 85%.
+
+🟩
+
+◼️
+
+[Data](articles/768ae8a9.json)
+
+[Extended Data](ext_articles/768ae8a9.ext.json)
+
+---
 
 ### Kurunegala District preferential vote results released
 
@@ -2089,49 +2129,5 @@ In the Kurunegala district, the power of the national population, which symboliz
 [Data](articles/a02e8805.json)
 
 [Extended Data](ext_articles/a02e8805.ext.json)
-
----
-
-### The President should be cautious about the dangers of bringing out a great deal - Saliya Peiris
-
-*2024-11-15 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198845) · `ta`
-
-Saliya Peiris warns President about dangers of majority rule. National People's Power may gain two-thirds majority, potentially threatening democracy.
-
-🟩
-
-Former President of the Sri Lanka Lawyers Association, Saliya Peiris, said that the President should be cautious about the dangers of a majority.
-
-It is evident that the National People's Power is in a state of winning a two -thirds majority on the basis of the election results so far.
-
-This is the first time that if a two -thirds majority is a two -thirds majority under the proportional representation if the national people's power is received by a two -thirds.
-
-In 2010, the Mahinda Rajapaksa government approached two -thirds, and in 2020, the Sri Lanka PA was approaching two -thirds.
-
-The success of Chandrika Kumaratunga in 1994 can only be a success with this victory.
-
-The President can be the leader of uniting various communities in Sri Lanka as the national people's power has had significant success in the North East.
-
-The president will soon eliminate his promise to eliminate this election success.
-
-...
-
-[Data](articles/2642737f.json)
-
-[Extended Data](ext_articles/2642737f.ext.json)
-
----
-
-### Results of Colombo-North, Maharagama, Awissawella and Puttalam polling divisions
-
-*2024-11-15 08:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103488/results-of-colombo-north-maharagama-awissawella-and-puttalam-polling-divisions) · `en`
-
-The National People’s Power (NPP) has secured victories in the Colombo-North, Maharagama, Awissawella and Puttalam polling divisions.
-
-◼️
-
-[Data](articles/50be652b.json)
-
-[Extended Data](ext_articles/50be652b.ext.json)
 
 ---

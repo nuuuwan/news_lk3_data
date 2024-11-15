@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 20:41:38**
+As of **2024-11-15 21:25:28**
 
 ## Newspaper Stats
 
-*Scraped **55,135** Articles*
+*Scraped **55,136** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,650
+adaderanalk | 6,651
 tamilmirrorlk | 7,813
 virakesarilk | 8,927
 adaderanasinhalalk | 9,530
@@ -26,101 +26,177 @@ adaderanasinhalalk | 9,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,106 (99.9%) of 55,135 articles have been extended.
+55,118 (100.0%) of 55,136 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### ඉන්දියාවෙන් ජනපති අනුරට ආ සුබ පැතුම
+### Seven injured as truck collides with train in Weligama
+
+*2024-11-15 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103526/seven-injured-as-truck-collides-with-train-in-weligama-) · `en`
+
+Seven persons including two children were injured when a light truck collided against a train at a railway crossing in Weligama.
+
+Police said the collision had occurred due to the driver of the truck disobeying the red signal at the Polwatte, Weligama level crossing, and attempted to pass through.
+
+The injured persons have been hospitalised while some are in critical condition, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/5579a279.json)
+
+[Extended Data](ext_articles/5579a279.ext.json)
+
+---
+
+### President welcomed India
 
 *2024-11-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203410) · `si`
 
-මහ මැතිවරණයෙන් ජාතික ජන බලවේගය ලද විශිෂ්ට ජයග්‍රහණයට සුබපැතීම සඳහා ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ජා මහතා ජනධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
+Here's a 200-character summary:
 
-ඒ පිළිබඳ එක්ස් අවකාශයේ සටහනක් තබමින් ඉන්දීය මහ කොමසාරිස් කාර්යාලය සඳහන් කළේ, අසල්වැසි ප්‍රජාතන්ත්‍රවාදී රාජ්‍යයක් ලෙස ඉන්දියාව ජාතික ජන බලවේගය ලැබූ ජන වරමට සුබපතන අතර, දෙරටේ ජනතාවගේ සුබසෙත උදෙසා ද්වීපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කරලීමට කැපවී සිටින බවය.
+
+
+Indian High Commissioner meets Sri Lankan President. Discusses strengthening bilateral ties and mutual benefits between nations.
+
+🟩
+
+President of the High Commissioner of India to the President of the High Commissioner of India has met with President Anura Kumara Dissanayake to join the great achievement of the national folk force in the general election.
+
+The Indian High Commissioner's office said that a neighboring democratic state of the X space is the joint of the national folk democratic state and is committed to further strengthening bilateral relations for the benefit of the people of the two countries.
 
 ◼️
 
 [Data](articles/5d3fb60f.json)
 
+[Extended Data](ext_articles/5d3fb60f.ext.json)
+
 ---
 
-### ரயில் விபத்தில் ஏழு பேர் படுகாயம்
+### Seven people injured in train accident
 
 *2024-11-15 20:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-ஏழு-பேர்-படுகாயம்/175-347266) · `ta`
 
-வெலிகம - பொல்அத்து மோதர பிரதேசத்தில் சிறிய ரக லொறி, ரயிலுடன் மோதி விபத்துக்குள்ளானதில், லொறியில் பயணித்த இரு சிறுவர்கள் உட்பட 7 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
+Here's a summary of 200 characters:
+
+
+
+Train collision injures 7: 2 boys among victims in Weligama-Pollathu Motara incident.
+
+🟩
+
+Seven people, including two boys, were injured when a small lorry collided with a train in the Weligama - Pollathu Motara area.. Remble
 
 ◼️
 
 [Data](articles/609e6f2b.json)
 
+[Extended Data](ext_articles/609e6f2b.ext.json)
+
 ---
 
-### சிவகங்கை போக்குவரத்து இரத்து
+### Sivaganga cancels transport
 
 *2024-11-15 20:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவகங்கை-போக்குவரத்து-இரத்து/175-347265) · `ta`
 
-2024ஆம் ஆண்டு நவம்பர் 19ஆம் திகதி முதல், 2024ஆம் ஆண்டு டிசம்பர் 18ஆம் திகதி வரை இலங்கை - இந்திய பயணிகள் கப்பல் சேவை இடைநிறுத்தப்பட்டுள்ளது.
+Sivaganga cancels transport: Sri Lanka-India passenger shipping suspended Nov 19, 2024 to Dec 18, 2024. Service resumes Dec 19, 2024. Remble:0
 
-எனினும் இதற்கு முன்னதாக, நாகப்பட்டினம் மற்றும் காங்கேசன் துறைமுகம் ஆகிய இரு பகுதிகளிலும் பயணிகளின் வசதிக்காக சிவகங்கை கப்பல் 2024 நவம்பர் 15, 16, 17 மற்றும் 18 ஆகிய திகதிகளில் இயக்கப்படும் எனவும் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-2024 டிசம்பர் 18க்குப் பிறகு சேவை மீண்டும் தொடங்கும் என்றும், இந்த திட்டங்களில் ஏதேனும் மாற்றங்கள் இருந்தால் உங்களுக்குத் தெரியப்படுத்துவோம் என்றும் தெரிவிக்கப்பட்டுள்ளது. R
+Sri Lanka -Indian passenger shipping service has been suspended from 19th November 2024 to December 18, 2024.
+
+Earlier, it has been stated that the Sivaganga Ship will be operated on November 15, 16, 16, 17 and 18 for the convenience of passengers in both Nagapattinam and Kankesan Port.
+
+It has been stated that the service will be resumed after December 18, 2024 and will let you know if there is any changes in these projects. Remble
 
 ◼️
 
 [Data](articles/c833611d.json)
 
+[Extended Data](ext_articles/c833611d.ext.json)
+
 ---
 
-### කුඩා ලොරියක් දුම්රියේ ගැටෙයි
+### Small lorry collides
 
 *2024-11-15 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203409) · `si`
 
-වැලිගම, පොල්අතු මෝදර දුම්රිය හරස් මාර්ගයේ දී දී කුඩා ලොරි රථයක් දුම්රියේ ගැටී බිහිසුණු අනතුරක් සිදුව තිබේ.
+Here's a summary in 200 characters:
 
-අප වාර්තාකරු පැවසුවේ අනතුරින් ලොරි රථයේ සිටි දරුවන් දෙදෙනෙකු ඇතුළු 7 දෙනෙකු තුවාල ලබා ඇති බවය.
+
+
+"Small lorry collides with train at Coconut Modara crossing. Seven children injured, including two in lorry."
+
+🟩
+
+A small lorry collided with a small lorry train at the Coconut Modara railway crossing on the train.
+
+Our correspondent said seven children including two children in the lorry were injured.
 
 ◼️
 
 [Data](articles/ca61a0da.json)
 
+[Extended Data](ext_articles/ca61a0da.ext.json)
+
 ---
 
-### ජනතා පරමාධිපත්‍ය බලය ඉදිරියේ විසිවුණු හිටපු මැති ඇමතිවරු
+### Former MPs, Twenthed Ministers in front of the people's sovereignty
 
 *2024-11-15 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203408) · `si`
 
-හිටපු මැති ඇමතිවරු රැසකට ඊයේ (14) පැවති මහ මැතිවරණයේදී සිය මන්ත්‍රිධුරය අහිමි වී තිබුණි.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ අතරට පසුගිය රජය නියෝජනය කළ ප්‍රබල අමාත්‍යවරුන් කිහිපදෙනෙකු ද අයත් වීම විශේෂත්වයකි.
 
-කොළඹ දිස්ත්‍රික්ක නියෝජනය කරමින් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණින් මැතිවරණයට ඉදිරිපත් වූ සුසිල් ප්‍රේමජයන්ත, ප්‍රේමනාත් සී. දොලවත්ත සහ මධුර විතාන යන මහත්වරුන්ට මෙන්ම සමගි ජන බලවේගය නියෝජනය කරමින් ඉදිරිපත් වූ මනෝ ගනේෂන් සහ ඉරාන් වික්‍රමරත්න යන මහත්වරුන්ට ද සිය මන්ත්‍රිධුර අහිමි වුණි.
 
-එමෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණින් කොළඹ දිස්ත්‍රික්කයට ඉදිරිපත් වූ සරත් වීරසේකර මහතාටද පාර්ලිමේන්තු වරම් අහිමි විය.
+Several former ministers and politicians lost their seats in the recent elections. Key losses include Susil Premajayantha, Sarath Weerasekera, Udaya Gammanpila, and others from various parties. Some notable winners include Rajitha Senaratne and Vidura Wickramanayaka. The summary focuses on the major political figures who lost their seats in the election.
 
-සර්වජන බලයෙන් තරග වැදුණු උදය ගම්මන්පිල මහතාට ද මෙවර සිය අසුන අහිමිවී තිබේ.
+🟩
 
-ගම්පහ දිස්ත්‍රික්කයට නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ යටතේ තරග වැදුණු නිමල් ලන්සා, නලින් ප්‍රනාන්දු, ලසන්ත අලගියවන්න සහ කෝකිලා ගුණවර්ධන  මෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණින් තරග වැදුණු ඉන්දික අනුරුද්ධ සහ ප්‍රසන්න රණවීරට මන්ත්‍රිධුර අහිමි වී තිබුණි.
+Former ministers and several other ministers had lost their sense of election yesterday (14).
+
+Among them were several powerful government representatives.
+
+Susil Premajayantha, who brought the new Democratic Front representing the Colombo district, Susil Premajayantha, Premant. As well as the gentlemen, Dollawatte and Madurai Power and Iran Wickramaratne lost his own.
+
+Sarath Weerasekera also lodged a parliamentarian from the Sri Lanka General Front.
+
+Udaya Gammanpila, who contested with the universal power, lost his seat this time.
+
+Nimal Lansa, Nalin Fernando, Lasantha Alagiyawanna, Lasantha Alagiyawanna, Lasantha Alagiyawanna and Kokilla Gunawardena and Kokila Gunawardena competed by the Sri Lanka Alagiyawanwardena and Prasanra Ranaweera lost their father.
+
+Professor Channatilleka has lost the same incident in the Gampaha District in the 2020 General Election.
+
+Meanwhile, Rajitha Senaratne, Piyal Nishantha and Vidura Wickramanayaka who came to Kalutara district under the New Democratic Front.
 
 ...
 
 [Data](articles/7aeb702c.json)
 
+[Extended Data](ext_articles/7aeb702c.ext.json)
+
 ---
 
-### உலகத் தமிழ் வர்த்தகர்கள் கலந்து கொள்ளும் தமிழ் வம்சாவளி மாநாடு
+### The Tamil Trading Conference attended by the World Tamil Traders
 
 *2024-11-15 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198884) · `ta`
 
-எதிர்வரும் ஜனவரி 4 மற்றும் 5ஆம் தேதிகளில் மலேசிய பிணங்கு மாநிலத்தில் டேவான் ஸ்ரீ பினாங்குஅரங்கில் நடைபெற உள்ளது. இந்நிகழ்வை பினாங்கு மாநில முதலமைச்சர் துவக்கி வைக்க, பினாங்கு மாநில ஆட்சி குழு உறுப்பினர் டத்தோ ஸ்ரீ சுந்தர்ராஜு தலைமையில் அதிகாரப்பூர்வமாக துவக்கி வைக்க இசைவு தெரிவித்துள்ளார்.
+Tamil Trading Conference: World Tamil Traders attend. Malaysian coronation Jan 4-5. Dato Sri Sundarraju inaugurates. Tamil traders, associations, chambers participate. Exhibition showcases products. Four sessions: Global Connect, women leaders. B2B/B2C events. Thai speakers expand industry. Sponsored by Tamil Nadu and Malaysian small industries ministries.
 
-இந்நிகழ்வில் பல்வேறு நாடுகளில் உள்ள தமிழ் வர்த்தகர்கள், வர்த்தக சங்கங்கள், வர்த்தக ஆணையங்கள் மற்றும் மலேசிய இந்திய வர்த்தக சம்மேளனம், மலேசிய பினாங்கு வர்த்தக சம்மேளனம், மலேசிய முஸ்லிம் சேம்பர் காமெர்ஸ் மற்றும் பல்வேறு தொழில் வர்த்தக அமைப்புகள் கலந்து கொள்ள உள்ளனர். இதன் மூலம் தமிழர்கள் பல்வேறு நாடுகளில் ஏற்றுமதி இறக்குமதி செய்யவும், தாங்கள் உற்பத்தி செய்யும் பொருட்களை காட்சிப்படுத்தி சந்தைப்படுத்தவும், இந்த வம்சாவளி மாநாட்டில் ஏற்பாடு செய்யப்பட்டுள்ளது.
+🟩
+
+The upcoming state of Malaysian coronation will be held on January 4 and 5. Penang State Governing Council Member Dato Sri Sundarraju has officially inaugurated the event.
+
+The event will be attended by Tamil traders, trade associations, trade commissions and Malaysian Indian Chamber of Commerce, Malaysian Penang Business Federation, Malaysian Muslim Chamber Commerce and various business organizations.. This is organized by this genealogical conference to import export to Tamils ​​in various countries and to display and marke the products they produce.
+
+The event will be held in four sessions, such as Global Connect Connection and a separate session for female business leaders.. The exhibition will showcase all the fields and the B2B recovery and B2C event.
 
 ...
 
 [Data](articles/8058ffd6.json)
+
+[Extended Data](ext_articles/8058ffd6.ext.json)
 
 ---
 
@@ -144,51 +220,83 @@ M.M. Thahir of the All Ceylon Makkal Congress (ACMC), Meerasahibu Uthumalebbe of
 
 ---
 
-### දිගාමඩුල්ල මනාප ප්‍රතිඵලය
+### Digamadulla Profidence Result
 
 *2024-11-15 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203407) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 4ක් හිමිවිය.
+Here's a summary of 200 characters:
 
-ඊට අමතරව සමස්ත ලංකා මුස්ලිම් කොංග්‍රසය, ශ්‍රී ලංකා මුස්ලිම් කොංග්‍රසය හා  ඉලංගෙයි තමිල් අරුසකච්චි පක්ෂය මන්ත්‍රි ධුර එක බැගින් දිනාගෙන තිබේ.
+
+
+National power won 4 seats. All Ceylon Muslim Congress, Sri Lanka Muslim Congress, and Ilangai The Ilayani Thamil Arasakkarakakalaya Party secured one seat each.
+
+🟩
+
+According to the overall result of the district, the national power was won by four seats.
+
+In addition, the All Ceylon Muslim Congress, Sri Lanka Muslim Congress and Ilangai The Ilayani Thamil Arasakkarakakalaya Party have won a summon.
 
 ◼️
 
 [Data](articles/03fe2fa5.json)
 
+[Extended Data](ext_articles/03fe2fa5.ext.json)
+
 ---
 
-### පුනරුද යුගය ඇරඹීමට උරදුන් සැමට ස්තූතියි - ජනපති
+### Thank you for everyone to start the Renaissance - President
 
 *2024-11-15 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203406) · `si`
 
-මහ මැතිවරණයේදී සුවිශේෂී ජයග්‍රහණයක් ලබාදීම සම්බන්ධයෙන් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඡන්ද දායකයින් වෙත සිය ප්‍රණාමය පුදකර තිබේ.
+Here's a summary in 200 characters:
 
-සිය 'X' ගිණුමේ සටහනක් තබමින් ජනාධිපතිවරයා මෙලෙස ඡන්ද දාකයින් වෙත සිය ස්තූතිය පළකර තිබේ.
 
-එහි ඔහු සඳහන් කර ඇත්තේ ' පුනරුද යුගය ඇරඹීමට උරදුන් සැමට ස්තූතියි!' යනුවෙනි.
 
-ඊයේ (15) පැවති 2024 මහ මැතිවරණයෙන් ආසන 159ක් දිනාගනිමින් ජාතික ජන බලවේගය ඉතිහාසගත ජයක් ලැබීය.
+President Anura Kumara Dissanayake thanks voters for starting a renaissance. National folk force wins 159 seats in 2024 general election.
+
+🟩
+
+President Anura Kumara Dissanayake has paid his privilege to give a significant victory at the general election.
+
+The President has thanked the vote on the voter turnout.
+
+He said, 'Thank you for everyone to begin the Renaissance!'.
+
+The national folk force won the year-winning 159 seats in the 2024 general election yesterday (15).
 
 ◼️
 
 [Data](articles/2f0e35e3.json)
 
+[Extended Data](ext_articles/2f0e35e3.ext.json)
+
 ---
 
-### 1650 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதியுடைய ஹெரோயின் மீட்பு
+### Heroin recovery of over 1650 million rupees
 
 *2024-11-15 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198883) · `ta`
 
-கடற்படையினரால் மேற்கு கடற்பரப்பில் முன்னெடுக்கப்பட்ட ரோந்து நடவடிக்கையின் போது கைப்பற்றப்பட்ட ஹெரோயின் போதைப்பொருளின் பெறுமதி 1650 மில்லியன் ரூபாவுக்கும் அதிகமென்றும், இது குறித்த மேலதிக விசாரணைகள் பொலிஸ் போதைப்பொருள் ஒழிப்பு பிரிவினரால் முன்னெடுக்கப்பட்டு வருவதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-கடற்படையினரால் இலங்கையின் மேற்கு திசையின் ஆழ்கடலில் வியாழக்கிழமை (14) முன்னெடுக்கப்பட்ட விசேட ரோந்து நடவடிக்கையின் போது, 1650 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதியான ஹெரோயினுடன் 6 சந்தேகநபர்கள் கைது செய்யப்பட்டனர். குறித்த சந்தேகநபர்கள் ஹெரோயின் கடத்தலுக்கு பயன்படுத்திய பல நாள் மீன்பிடிப் படகுடன் வெள்ளிக்கிழமை (15) காலி துறைமுகத்துக்கு அழைத்து வரப்பட்டனர்.
 
-காலி துறைமுகத்துக்கு கொண்டு வரப்பட்ட படகு மேலதிக சோதனைகளுக்கு உட்படுத்தப்பட்ட போதே அதிலிருந்து 1650 மில்லியன் ரூபாவுக்கும் அதிக பெறுமதியுடைய 66 கிலோ 840 கிராம் ஹெரோயின் போதைப்பொருள் கைப்பற்றப்பட்டதாக கடற்படை ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+Heroin seizure worth over 1650 million rupees during naval patrol. Six suspects arrested in Mirissa area aged 18-34. Police Drug Eradication Unit conducting further investigations. Total drug seizures this year valued at 17 483 million rupees. Navy vows to prevent drug trafficking.
+
+🟩
+
+The value of heroin, which was seized during the patrols carried out by the Marines, is more than 1650 million rupees, and further investigations are being carried out by the Police Drug Eradication Unit, the Navy said.
+
+Six suspects were arrested with heroin worth more than 1650 million rupees during a special patrol operation carried out on Thursday (14) in the deep sea of ​​Sri Lanka's west side of Sri Lanka.. The suspects were brought to Galle Harbor on Friday (15) with a fishing boat used for heroin.
+
+According to the Navy Media Unit, 66 kg 840 grams of heroin was seized by more than 1650 million rupees when the boat brought to the Galle port was subjected to further tests.
+
+The suspects were arrested from the Mirissa area between the ages of 18 - 34. They have been handed over to the Police Drug Eradication Unit for further investigations with the seized boat and narcotics.
 
 ...
 
 [Data](articles/7915dc50.json)
+
+[Extended Data](ext_articles/7915dc50.ext.json)
 
 ---
 
@@ -250,15 +358,25 @@ Nalin Bandara has managed to secure the highest number of preference votes for t
 
 ---
 
-### කොළඹ මනාප ප්‍රතිඵලය
+### Colombo Preferences
 
 *2024-11-15 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203405) · `si`
 
-එම දිස්ත්‍රික්කයේ සමස්ත ප්‍රතිඵලය අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 14ක් හිමිවිය.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Colombo District Election Results: National party won 14 seats out of total.
+
+🟩
+
+According to the overall result of the district, the national power was held in 14 seats.
 
 ◼️
 
 [Data](articles/929a3168.json)
+
+[Extended Data](ext_articles/929a3168.ext.json)
 
 ---
 
@@ -280,21 +398,31 @@ Heshan Withanage has managed to secure the highest number of preference votes fo
 
 ---
 
-### අගමැතිගෙන් ඉතිහාසගත මනාප වාර්තාවක්
+### Historical votes from the Prime Minister
 
 *2024-11-15 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203404) · `si`
 
-2024 මහ මැතිවරණය සඳහා ජාතික ජන බලවේගයෙන් කොළඹ දිස්ත්‍රික්කය සඳහා ඉදිරිපත් වූ අගමැතිනි ආචාර්ය හරිනි අමරසූරිය මනාප ඡන්ද 655,289ක් ලබාගනිමින් කොළඹ දිස්ත්‍රික්කයේ පළමුවැනියා වී තිබේ.
+Here's a summary of 200 characters:
 
-මෙම මනාප ගණන මෙරට පාර්ලිමේත්තු මැතිවරණ ඉතිහාසයේ එක් මන්ත්‍රී ධුර අපේක්ෂකයෙකු ලබාගත් වැඩිම මනාප ගණන ලෙස ඉතිහාස ගත වේ.
 
-මීට පෙර වැඩිම මනාප ඡන්ද ගණනක් ලබාගෙන තිබූ මන්ත්‍රි ධුර අපේක්ෂකයා වූයේ මහින්ද රාජපක්ෂ මහතාය.
 
-ඔහු 2020 වසරේදී කුරුණෑගල දිස්ත්‍රික්කයෙන් මහ මැතිවරණයට තරග කරමින් මනාප 527,364ක් ලබාගත්තේය.
+Dr. Harini Amarasuriya received 155,289 preferential votes in the Colombo District election. This is the highest number of preferential votes ever recorded for a single candidate in Sri Lanka's parliamentary election history. Mahinda Rajapaksa previously held this record with 527,364 votes in the Kurunegala District in 2020.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya, who was contesting for the Colombo District for the general election, has been identified as 155,289 preferential votes.
+
+This number of preferential number of preferential votes has been the number of preferential votes obtained by one seal candidate in parliamentarian election history.
+
+The MP was the highest number of preferential votes was the Mahinda Rajapaksa.
+
+He contested the General Election of the Kurunegala District in 2020 and obtained 527,364 preferential votes.
 
 ◼️
 
 [Data](articles/515bcac8.json)
+
+[Extended Data](ext_articles/515bcac8.ext.json)
 
 ---
 
@@ -1943,21 +2071,5 @@ The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats
 [Data](articles/0535966a.json)
 
 [Extended Data](ext_articles/0535966a.ext.json)
-
----
-
-### Gampaha
-
-*2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
-
-Gampaha: A district in western Sri Lanka known for its agricultural production and political significance. It covers approximately 1,3
-
-🟩
-
-◼️
-
-[Data](articles/4fbe34f8.json)
-
-[Extended Data](ext_articles/4fbe34f8.ext.json)
 
 ---

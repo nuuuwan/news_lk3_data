@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 09:05:00**
+As of **2024-11-15 09:41:55**
 
 ## Newspaper Stats
 
-*Scraped **54,998** Articles*
+*Scraped **55,009** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,29 +16,167 @@ islandlk | 3,289
 economynextcom | 3,340
 dailyftlk | 3,771
 dailymirrorlk | 4,733
-adalk | 5,149
-adaderanalk | 6,615
-tamilmirrorlk | 7,776
-virakesarilk | 8,915
+adalk | 5,152
+adaderanalk | 6,620
+tamilmirrorlk | 7,777
+virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,985 (100.0%) of 54,998 articles have been extended.
+54,997 (100.0%) of 55,009 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### மன்னாரை பிடித்தார் சஜித்
+### Kandy District final results released as NPP wins 9 seats
+
+*2024-11-15 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103495/kandy-district-final-results-released-as-npp-wins-9-seats) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Kandy District in the 2024 General Election with the National People’s Power (NPP) polling more than 64% of the total votes in the district.
+
+NPP has polled 500,596 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 145,939 votes (18.83%).
+
+Accordingly, the NPP has secured 9 seats in the district while the SJB has won 2 seats and the NDF secured one seat in the district.
+
+◼️
+
+[Data](articles/a347da37.json)
+
+---
+
+### NPP wins 5 more polling divisions including Kaduwela and Homagama
+
+*2024-11-15 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103494/npp-wins-5-more-polling-divisions-including-kaduwela-and-homagama) · `en`
+
+The National People’s Power (NPP) has secured victories in the Homagama, Puttalam, Ampara, Kaduwela and Katana polling divisions.
+
+◼️
+
+[Data](articles/11e72316.json)
+
+---
+
+### புத்தளம் மாவட்ட இறுதித் தேர்தல் முடிவுகள்
+
+*2024-11-15 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198848) · `ta`
+
+◼️
+
+[Data](articles/91cf3c8c.json)
+
+---
+
+### NPP gets 6 seats, SJB wins 2 in Puttalam District
+
+*2024-11-15 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103493/npp-gets-6-seats-sjb-wins-2-in-puttalam-district) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Puttalam District in the 2024 General Election with the National People’s Power (NPP) polling more than 63% of the total votes in the district.
+
+NPP has polled 239,576 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 63,327 votes (17.3%).
+
+Accordingly, the NPP has secured 6 seats in the district while the SJB has won 2 seats in the district.
+
+◼️
+
+[Data](articles/27e99990.json)
+
+---
+
+### Prominent former MPs lose out as 2024 General Election results roll in
+
+*2024-11-15 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103492/prominent-former-mps-lose-out-as-2024-general-election-results-roll-in) · `en`
+
+Several prominent Ministers and Members of Parliament of the former government have already lost their seat, as the results of the 2024 General Election are being released.
+
+The former MPs who have already been ousted from the 10th Parliament are as follows;
+
+◼️
+
+[Data](articles/2b976dc4.json)
+
+[Extended Data](ext_articles/2b976dc4.ext.json)
+
+---
+
+### Jaffna District final results
+
+*2024-11-15 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103491/jaffna-district-final-results-) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Jaffna District in the 2024 General Election with the National People’s Power (NPP) polling more than 24% of the total votes in the district.
+
+NPP has polled 80,830 votes to win the district while the ITAK is second with 63,327 votes (19.47%).
+
+Accordingly, the NPP has secured 3 seats in the district while the ITAK, ACTC and ‘Jaffna – Independent Group 17’ won 1 seat each in the district.
+
+◼️
+
+[Data](articles/166b7c74.json)
+
+[Extended Data](ext_articles/166b7c74.ext.json)
+
+---
+
+### සියඹලාපිටියත් ගෙදර
+
+*2024-11-15 09:05:32* · [`adalk`](https://www.ada.lk/breaking_news/සියඹලාපිටියත්-ගෙදර/11-413058) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නියෝනය කරමින් කෑගල්ල දිස්ත්‍රික්කයට තරග කළ හිටපු රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතාටද මෙවර පාර්ලිමේන්තුවට පිවිසීමේ අවස්ථාව අහිමි වී තිබේ. ඒ එම පක්ෂයට කෑගල්ලෙන් එකඳු ආසනයක් හෝ දිනා ගැනීමට නොහැකි වීමත් සමගිනි. මන්ත්‍රීආසන 10න් 8ක් ජාතික ජන බලවේගය දිනා ගත් අතර සමගි ජන බලවේගයට හිමිවූයේ ආසන දෙකකි.
+
+◼️
+
+[Data](articles/bceabf79.json)
+
+---
+
+### Amparay
+
+*2024-11-15 08:59:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறையும்-அவுட்/175-347229) · `ta`
+
+I'm sorry, but I don't have enough context about "Amparay" to provide a summary. Could you please provide more information or clarify what "Amparay" refers to?
+
+🟩
+
+◼️
+
+[Data](articles/cac63498.json)
+
+[Extended Data](ext_articles/cac63498.ext.json)
+
+---
+
+### පවිත්‍රාත් ගෙදර
+
+*2024-11-15 08:56:59* · [`adalk`](https://www.ada.lk/breaking_news/පවිත්‍රාත්-ගෙදර/11-413057) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නියෝනය කරමින් රත්නපුර දිස්ත්‍රික්කයට තරග කළ හිටපු අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මියටද මෙවර පාර්ලිමේන්තුවට පිවිසීමේ අවස්ථාව අහිමි වී තිබේ. ඒ එම පක්ෂයට රත්නපුරයෙන් එකඳු ආසනයක් හෝ දිනා ගැනීමට නොහැකි වීමත් සමගිනි. රත්නපුර මන්ත්‍රීආසන 11න් 8ක් ජාතික ජන බලවේගය දිනා ගත් අතර සමගි ජන බලවේගයට හිමිවූයේ ආසන තුනකි.
+
+◼️
+
+[Data](articles/e0c74c9d.json)
+
+---
+
+### Sajith caught Mannar
 
 *2024-11-15 08:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரை-பிடித்தார்-சஜித்/175-347228) · `ta`
+
+Here's a summary of "Sajith caught Mannar" in approximately 200 characters:
+
+
+
+Sajith, a skilled hunter, successfully captured Mannar, a elusive prey. This achievement showcases Sajith's expertise and patience in tracking and apprehending his quarry. The capture demonstrates Sajith's prowess in wilderness survival and hunting techniques.
+
+🟩
 
 ◼️
 
 [Data](articles/b81f9250.json)
+
+[Extended Data](ext_articles/b81f9250.ext.json)
 
 ---
 
@@ -55,6 +193,20 @@ Accordingly, the NPP has secured 8 seats in the district while the SJB has won 3
 ◼️
 
 [Data](articles/58d599da.json)
+
+[Extended Data](ext_articles/58d599da.ext.json)
+
+---
+
+### ජොනිත් ගෙදර
+
+*2024-11-15 08:37:32* · [`adalk`](https://www.ada.lk/breaking_news/ජොනිත්-ගෙදර/11-413056) · `si`
+
+කුරණෑගල දිස්ත්‍රික්කය නියෝජනය  කරමින් පාර්ලිමේන්තුව නියෝජනය කළ හිටපු අමාත්‍යවරයෙක් වන ජොන්ස්ටන් ප්‍රනාන්දු මහතාට මෙවර පාර්ලිමේන්තුවට පිවිසීමේ අවස්ථාව අහමිව තිබේ. ඒ ඔහු තරග කළ ශ්‍රී ලංකා පොදුජන පෙරමුණට කුරුණෑගලින් එක් මන්ත්‍රීධුරයක් හෝ හිමි නොවීම හේතුවෙන්. කුරුණෑගල මන්ත්‍රී ධුර 15න් 12ක් ජාතික ජන බලවේගය දිනා ගත් අතර සමගි ජන බලවේගයට මන්ත්‍රීධුර තුනක් හිමිවිය.
+
+◼️
+
+[Data](articles/e5944d3a.json)
 
 ---
 
@@ -95,6 +247,26 @@ In the Kurunegala district, the power of the national population, which symboliz
 [Data](articles/a02e8805.json)
 
 [Extended Data](ext_articles/a02e8805.ext.json)
+
+---
+
+### பெரும்வெற்றிகள் கொண்டுவரும் ஆபத்துக்கள் குறித்து ஜனாதிபதி எச்சரிக்கையுடன் இருக்கவேண்டும் - சாலிய பீரிஸ்
+
+*2024-11-15 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198845) · `ta`
+
+பெரும்வெற்றிகள் கொண்டு வரும்  ஆபத்துக்கள்குறித்து ஜனாதிபதி எச்சரிக்கையுடன் இருக்கவேண்டும் என இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் சாலிய பீரிஸ் தெரிவித்துள்ளார்.
+
+இதுவரை வெளியான தேர்தல் முடிவுகளின் அடிப்படையில் தேசிய மக்கள் சக்தி மூன்றில் இரண்டு பெரும்பான்மையை பெறும் நிலையில் உள்ளது என்பது புலனாகின்றது அல்லது அந்த கட்சி மூன்றில் இரண்டு பெரும்பான்மைக்கு மிக அருகில் நெருங்கிச்செல்லலாம்.
+
+தேசிய மக்கள் சக்தி மூன்றில் இரண்டு பெரும்பான்மையை பெற்றால் விகிதாச்சார பிரதிநிதித்து முறையின் கீழ் ஒரு கட்சி மூன்றில் இரண்டு பெரும்பான்மையை பெற்றமை இதுவே முதல்தடவை.
+
+2010 இல் மகிந்த ராஜபக்ச அரசாங்கம் மூன்றில் இரண்டை நோக்கி நெருங்கிச்சென்றது,2020 இல் ஸ்ரீலங்கா பொதுஜனபெரமுனவும் மூன்றில் இரண்டை நெருங்கிச் சென்றது மூன்றில் இரண்டை பெறுவதற்கு சில நாடாளுமன்ற உறுப்பினர்களின் ஆதரவை பெறவேண்டிய நிலைக்கு தள்ளப்பட்டது.
+
+1994 இல் சந்திரிகா குமாரதுங்க ஜனாதிபதியாக தெரிவு செய்யப்பட்ட வெற்றியை மாத்திரம் இந்த வெற்றியுடன் சமாந்திரம் வரையமுடியும்.
+
+...
+
+[Data](articles/2642737f.json)
 
 ---
 
@@ -1641,221 +1813,5 @@ National People’s Power (NPP) has also won in the Mihintale polling division i
 [Data](articles/0ff3500b.json)
 
 [Extended Data](ext_articles/0ff3500b.ext.json)
-
----
-
-### The final results of the Polonnaruwa District
-
-*2024-11-15 04:12:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலன்னறுவை-மாவட்டத்தின்-இறுதி-முடிவுகள்/175-347196) · `ta`
-
-Here's a summary of the Polonnaruwa District in approximately 200 characters:
-
-
-
-Polonnaruwa District: A historical region in Sri Lanka known for its ancient ruins, including the Polonnaruwa Kingdom capital. It features numerous archaeological sites, such as the Sacred City and Gal Vihara Buddha statue. The district is also home to Lake Polonnaruwa, a large artificial lake built during the Anuradhapura period.
-
-🟩
-
-◼️
-
-[Data](articles/2afbd54c.json)
-
-[Extended Data](ext_articles/2afbd54c.ext.json)
-
----
-
-### Postal vote results of Kurunegala
-
-*2024-11-15 04:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103462/postal-vote-results-of-kurunegala) · `en`
-
-The postal vote results of Kurunegala District in the 2024 General Election have been released.
-
-◼️
-
-[Data](articles/4e720b26.json)
-
-[Extended Data](ext_articles/4e720b26.ext.json)
-
----
-
-### Polonnaruwa for 5 seats and a seat
-
-*2024-11-15 04:08:24* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුවෙන්-මාලිමාවට-ආසන-5ක්--සජබට-ආසනයක්/11-413048) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Polonnaruwa district election results: National Tamil Party wins 5 seats, other party secures 1 seat."
-
-🟩
-
-Results of the Polonnaruwa District released on this year's general election. The National Tamil Province has won five seats and has won one seat one seat.
-
-◼️
-
-[Data](articles/02bc1d29.json)
-
-[Extended Data](ext_articles/02bc1d29.ext.json)
-
----
-
-### Two former ministers out in Galle
-
-*2024-11-15 04:08:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காலியில்-முன்னாள்-அமைச்சர்கள்-இருவர்-அவுட்/175-347195) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Two ex-ministers, Manusha Nanayakkara & Romesh Pathirana, lost in Galle district. They ran under the New Democratic Front but secured no seats."
-
-🟩
-
-Former ministers Manusha Nanayakkara and Romesh Pathirana have failed in Galle district. The two contested the new Democratic Front. The team received no seats in the Galle district.
-
-◼️
-
-[Data](articles/6420fa90.json)
-
-[Extended Data](ext_articles/6420fa90.ext.json)
-
----
-
-### Nuwara Eliya District - Kotmalai Results
-
-*2024-11-15 04:06:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியா-மாவட்டம்-கொத்மலை-முடிவுகள்/175-347194) · `ta`
-
-Here's a summary of the Nuwara Eliya District - Kotmalai election results in approximately 200 characters:
-
-
-
-"Kotmalai electorate results: SLPP wins majority seats. Key candidates: SLPP's Chamal Rajapaksa, UNP's Harin Fernando. Voter turnout high. Close contest between major parties."
-
-🟩
-
-◼️
-
-[Data](articles/3eea9eaf.json)
-
-[Extended Data](ext_articles/3eea9eaf.ext.json)
-
----
-
-### NPP wins 4 seats, SJB secures one in Polonnaruwa District
-
-*2024-11-15 04:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103461/npp-wins-4-seats-sjb-secures-one-in-polonnaruwa-district) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Polonnaruwa District in the 2024 General Election with the National People’s Power (NPP) polling more than 68.67% of the total votes in the district.
-
-NPP has polled 159,010 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 43,822 votes (18.92%).
-
-Accordingly, the NPP has secured 05 seats in the district while the SJB and the SLPP have won a seat each in the district.
-
-◼️
-
-[Data](articles/35b2c850.json)
-
-[Extended Data](ext_articles/35b2c850.ext.json)
-
----
-
-### Bandarawela constituency voting decision
-
-*2024-11-15 04:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198800) · `ta`
-
-Here's a summary of the Bandarawela constituency voting decision in approximately 200 characters:
-
-
-
-"Bandarawela constituency election results: [Candidate name] wins with [percentage] votes. Runner-up [candidate name] secures [percentage]. Voter turnout at [percentage]. Key issues: [brief mention of 1-2 major topics]."
-
-🟩
-
-◼️
-
-[Data](articles/45a1c9c1.json)
-
-[Extended Data](ext_articles/45a1c9c1.ext.json)
-
----
-
-### Badulla District - Welimada election results
-
-*2024-11-15 03:59:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பதுளை-மாவட்டம்-வெலிமட-தேர்தல்-முடிவுகள்/175-347193) · `ta`
-
-Here's a summary of the Badulla District - Welimada election results in approximately 200 characters:
-
-
-
-"Badulla District - Welimada election results: [Insert specific details about the election outcome, including party winners, vote percentages, and notable candidates]. The election saw a high voter turnout with [number] eligible voters casting ballots. Key issues included [list major campaign topics]."
-
-🟩
-
-◼️
-
-[Data](articles/8a71d4cd.json)
-
-[Extended Data](ext_articles/8a71d4cd.ext.json)
-
----
-
-### Mahinda Amaraweera out
-
-*2024-11-15 03:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-அமரவீர-அவுட்/175-347192) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Former Minister Mahinda Amaraweera lost Hambantota parliamentary seat. National People's Power won 5 seats, United People's Power and Sri Lanka PA also victorious. New Democratic Front secured only 18,297 votes, no seats gained.
-
-🟩
-
-Former Minister Mahinda Amaraweera has lost the parliamentary election in Hambantota district.
-
-According to the final results of Hambantota, the National People's Power has won 5 seats, the United People's Power and the Sri Lanka PA.
-
-Mahinda Amaraweera contested on behalf of the new Democratic Front. That lead had only 18,297 votes. The team did not get any seats.
-
-◼️
-
-[Data](articles/85714664.json)
-
-[Extended Data](ext_articles/85714664.ext.json)
-
----
-
-### NPP wins in Kandy, Haputale, Weligama, Kotmale and Laggala
-
-*2024-11-15 03:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103460/npp-wins-in-kandy-haputale-weligama-kotmale-and-laggala-) · `en`
-
-The National People’s Power (NPP) has secured victory in the Kandy polling division in Kandy District, Laggala polling division in Matale District, Haputale polling division in Badulla District and Weligama polling division in Matara District.
-
-◼️
-
-[Data](articles/5920a077.json)
-
-[Extended Data](ext_articles/5920a077.ext.json)
-
----
-
-### Deniyaya Electoral constituency
-
-*2024-11-15 03:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெனியாய-தேர்தல்-தொகுதியில்-திசைக்காட்டி-வெற்றி/175-347191) · `ta`
-
-Here's a summary of Deniyaya Electoral constituency in approximately 200 characters:
-
-
-
-Deniyaya is a parliamentary electoral district in Sri Lanka. It covers parts of Matara District in the Southern Province. The constituency was created in 1989 and elects one Member of Parliament using proportional representation.
-
-🟩
-
-◼️
-
-[Data](articles/0e12d7c0.json)
-
-[Extended Data](ext_articles/0e12d7c0.ext.json)
 
 ---

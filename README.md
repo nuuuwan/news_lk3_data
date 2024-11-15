@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 23:42:35**
+As of **2024-11-16 01:00:12**
 
 ## Newspaper Stats
 
-*Scraped **55,150** Articles*
+*Scraped **55,157** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 559
 bbccomsinhala | 563
 islandlk | 3,291
 economynextcom | 3,352
-dailyftlk | 3,771
+dailyftlk | 3,778
 dailymirrorlk | 4,733
 adalk | 5,162
 adaderanalk | 6,652
@@ -26,11 +26,119 @@ adaderanasinhalalk | 9,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,144 (100.0%) of 55,150 articles have been extended.
+55,144 (100.0%) of 55,157 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-11-16 (Saturday)
+
+### National Chamber of Exporters congratulates NPP on Parliamentary Election victory
+
+*2024-11-16 00:04:14* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-congratulates-NPP-on-Parliamentary-Election-victory/34-769322) · `en`
+
+The National Chamber of Exporters of Sri Lanka (NCE) yesterday extended its warm congratulations to the National People’s Power (NPP) on its recent success in the Parliamentary Elections.
+
+“This historic election, characterised by a peaceful and democratic process, stands as a testament to the strength of Sri Lanka’s democratic principles and the commitment of its people to shape the future of the nation through their right to vote,” NCE said in a statement.
+
+...
+
+[Data](articles/5d9c07dd.json)
+
+---
+
+### JAAF congratulates NPP on securing clear majority; looks forward to collaborative future
+
+*2024-11-16 00:02:46* · [`dailyftlk`](https://www.ft.lk/business/JAAF-congratulates-NPP-on-securing-clear-majority-looks-forward-to-collaborative-future/34-769321) · `en`
+
+The Joint Apparel Association Forum (JAAF), yesterday extended its warm congratulations to the National People’s Power on securing a resounding majority in the General Election.
+
+“As Sri Lanka begins a new chapter, JAAF reaffirms its commitment to working closely with the new leadership to drive economic growth, foster sustainable employment, and support Sri Lanka in achieving its merchandise export target of $ 25 billion by 2025,” said JAAF representing Sri Lanka’s largest export industry,
+
+...
+
+[Data](articles/ccb063ef.json)
+
+---
+
+### Confederation of MSMI congratulates President and NPP
+
+*2024-11-16 00:02:39* · [`dailyftlk`](https://www.ft.lk/business/Confederation-of-MSMI-congratulates-President-and-NPP/34-769320) · `en`
+
+The Confederation of MSMI yesterday via a statement congratulated President Anura Kumara Dissanayake and his party NPP over the victory at Thursday’s Parliamentary election.
+
+“We extend our warmest congratulations to you and the team on your well-deserved landslide victory of National People’s Power. Your leadership, vision, and dedication have been evident throughout your career, and this positive leadership is a testament to your remarkable achievements,” said Confederation of MSMI President Nawaz Rajabdeen.
+
+“We are confident that under your guidance, micro, small and medium industrial enterprises in Sri Lanka will achieve new heights of success and prosperity. Please know that you have our full support as you embark on this exciting journey. Wishing you and the team every success in your tenure,” the statement added.
+
+◼️
+
+[Data](articles/d256e616.json)
+
+---
+
 ### 2024-11-15 (Friday)
+
+### What is the meaning of NPP’s Parliamentary victory?
+
+*2024-11-15 22:59:03* · [`dailyftlk`](https://www.ft.lk/columns/What-is-the-meaning-of-NPP-s-Parliamentary-victory/4-769309) · `en`
+
+Will Anura Kumara Dissanayake and the top leadership grasp the true significance of their achievement?
+
+Considering the recent past alone, the Parliamentary results clearly build on a process of politicisation that was catalysed by the crisis and the Aragalaya. People are talking everywhere, and they are enthusiastic despite the enduring pressures of crisis and austerity on their households. But we need to remind ourselves that this moment represents a movement with a long genealogy, and not only a charismatic individual. It is now up to a wide set of progressive forces extending beyond the immediate NPP coalition to capitalise on the energy of the electoral victory and channel it in the appropriate direction
+
+...
+
+[Data](articles/1161cf79.json)
+
+---
+
+### General Election 2024: Opportunity to work towards common purpose
+
+*2024-11-15 22:50:36* · [`dailyftlk`](https://www.ft.lk/columns/General-Election-2024-Opportunity-to-work-towards-common-purpose/4-769306) · `en`
+
+For the first time since the enactment of the 1978 Constitution and the advent of the system of proportional representation, the Sri Lankan people have united to confer a two-third majority of its legislative power to a single party, Anura Kumara Dissanayake’s National People’s Power. It also marks the first time that Sri Lankans of all ethnicities across the country all spoke with a single voice, and placed their faith in a single leader.
+
+In one fell swoop, Sri Lanka made clear that it has had enough of race baiting, nepotism, class warfare, corruption, cronyism, political vendettas and rank incompetence.
+
+They saw in President Anura Kumara Dissanayake a leader who they could trust, who sincerely cared for them, who would work hard for them, has no interest in political theatrics and amassing power for himself.
+
+The people could be no clearer – their patience for drama and pettiness has clearly run out.
+
+...
+
+[Data](articles/bb12f3b0.json)
+
+---
+
+### Celebrating Sri Lanka’s “bloodless revolution”
+
+*2024-11-15 22:49:16* · [`dailyftlk`](https://www.ft.lk/columns/Celebrating-Sri-Lanka-s-bloodless-revolution/4-769305) · `en`
+
+AKD, your leadership has the potential to bring about a new dawn for Sri Lanka
+
+The people of Sri Lanka have spoken! The time for systemic change has arrived and people have entrusted the new Government with the monumental task, demanding a Government that is no longer willing to accept business as usual—they are calling for a Government that prioritises the public interest, promotes social justice, and ensures that the benefits of development reach every corner of society.
+
+The mandate is clear: Sri Lankans want to see a Government that works for them, not against them —a Government that acts in the national interest and upholds the rights and dignity of every citizen. A truly systemic change to fulfil the promise of a “Change and Corruption-Free” Sri Lanka.
+
+To meet these demands, it must remain fearless, bold, and uncompromising in its pursuit of reform.
+
+...
+
+[Data](articles/aa428d13.json)
+
+---
+
+### Dismantle 76-year charade: Rename and celebrate Independence Day as Memorial Day from 2025 onwards
+
+*2024-11-15 22:36:45* · [`dailyftlk`](https://www.ft.lk/columns/Dismantle-76-year-charade-Rename-and-celebrate-Independence-Day-as-Memorial-Day-from-2025-onwards/4-769295) · `en`
+
+The illusion of civility and humanity in celebrating independence faded as local elites implemented the colonial project of nation-building on the island, primarily through distorting religion, history, archaeology, and national symbols. This approach solidified racist communalism as a means to deny and suppress demands for equal rights and freedom for all. Beneath this façade lies a subtler exclusion: the romanticisation of the nation as ‘mother’ or ‘motherland,’ idealising gendered traits like care, sacrifice, nurturance, and emotional support
+
+...
+
+[Data](articles/85101ce8.json)
+
+---
 
 ### Gampaha District preference votes results: Vijitha breaks Harini’s record
 
@@ -2145,137 +2253,5 @@ I'm sorry, but I don't have any text to summarize. Could you please provide the 
 [Data](articles/f886f1d3.json)
 
 [Extended Data](ext_articles/f886f1d3.ext.json)
-
----
-
-### Digamadulla District final results: NPP secures 4 more seats
-
-*2024-11-15 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103507/digamadulla-district-final-results-npp-secures-4-more-seats) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Digamadulla District in the 2024 General Election with the National People’s Power (NPP) polling more than 40% of the total votes in the district.
-
-NPP has polled 146,313 votes to win the district while the SLMC is second with 46,899 votes (12.92%).
-
-The NPP has secured 4 seats in the district while the SLMC has won 1 seat in the district.
-
-◼️
-
-[Data](articles/039c595d.json)
-
-[Extended Data](ext_articles/039c595d.ext.json)
-
----
-
-### Matara District preferential vote results released
-
-*2024-11-15 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103506/matara-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Matara District in the 2024 General Election have been released.
-
-NPP’s Sunil Hadunneththi has polled the highest number of preferential votes in the Matara District.
-
-Chathura Galappaththi has received the highest preferential votes from the SJB to secure its only seat.
-
-◼️
-
-[Data](articles/85fe4a49.json)
-
-[Extended Data](ext_articles/85fe4a49.ext.json)
-
----
-
-### Sajith lost in Digamadulla
-
-*2024-11-15 11:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்லையில்-தோற்றார்-சஜித்/175-347245) · `ta`
-
-Here's a summary of "Sajith lost in Digamadulla" in approximately 200 characters:
-
-
-
-Sajith, a traveler, became lost in Digamadulla. He wandered unfamiliar streets, seeking directions. Local residents assisted him, guiding him back to his destination. The experience left Sajith grateful for kindness of strangers and more aware of navigation skills.
-
-🟩
-
-◼️
-
-[Data](articles/74064196.json)
-
-[Extended Data](ext_articles/74064196.ext.json)
-
----
-
-### Tigamadulla
-
-*2024-11-15 11:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்லையை-கைப்பற்றிய-திசைக்காட்டி/175-347245) · `ta`
-
-N
-
-🟩
-
-◼️
-
-[Data](articles/e0800902.json)
-
-[Extended Data](ext_articles/e0800902.ext.json)
-
----
-
-### Harin and Nimal home
-
-*2024-11-15 11:46:41* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්-හා-නිමල්-ගෙදර/11-413064) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Harin & Nimal lose parliamentary access after contesting New Democratic Front. Former ministers face restrictions."
-
-🟩
-
-Former ministers who contested the New Democratic Front and Nimal Siripawath de Silva have lost the opportunity to visit Parliament.
-
-◼️
-
-[Data](articles/ddd7c69d.json)
-
-[Extended Data](ext_articles/ddd7c69d.ext.json)
-
----
-
-### Badulla District preferential vote results released
-
-*2024-11-15 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103505/badulla-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Badulla District in the 2024 General Election have been released.
-
-NPP’s Samantha Vidyaratna has polled the highest number of preferential votes in the Badulla District.
-
-Former MPs Chaminda Wijesiri and Nayana Wasalathilake have received the highest preferential votes from the SJB to secure the two parliamentary seats while NDF’s single seat for the district was secured by former MP Chamara Sampath Dassanayake.
-
-◼️
-
-[Data](articles/3f4353e0.json)
-
-[Extended Data](ext_articles/3f4353e0.ext.json)
-
----
-
-### Hambantota preferential votes
-
-*2024-11-15 11:38:04* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-මනාප-ප්‍රථිඵල/11-413063) · `si`
-
-Here's a summary of Hambantota preferential votes in approximately 200 characters:
-
-
-
-Hambantota's local council election saw a significant shift towards preferential voting. Voters showed preference for candidates over party affiliations, indicating a desire for more personalized representation. This trend suggests a move away from traditional political alignments towards a more citizen-centric approach in local governance.
-
-🟩
-
-◼️
-
-[Data](articles/dce68a44.json)
-
-[Extended Data](ext_articles/dce68a44.ext.json)
 
 ---

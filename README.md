@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 18:02:15**
+As of **2024-11-15 17:42:47**
 
 ## Newspaper Stats
 
-*Scraped **55,103** Articles*
+*Scraped **55,101** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 428
 colombotelegraphcom | 559
-bbccomsinhala | 562
+bbccomsinhala | 561
 islandlk | 3,291
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,648
+adaderanalk | 6,647
 tamilmirrorlk | 7,810
 virakesarilk | 8,925
 adaderanasinhalalk | 9,505
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,100 (100.0%) of 55,103 articles have been extended.
+55,096 (100.0%) of 55,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### Kurunegala District preferential vote results released
-
-*2024-11-15 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103523/kurunegala-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Kurunegala District in the 2024 General Election have been released.
-
-NPP’s Namal Karunaratne has polled the highest number of preferential votes in the Kurunegala District with a total of 356,969 votes while NPP’s Ananda Wijeyapala and Sujeeva Dissanayake are placed second and third respectively.
-
-Nalin Bandara has managed to secure the highest number of preference votes for the SJB in the district Dayasiri Jayasekara and J.C. Alawathuwala have also obtained seats for the party.
-
-◼️
-
-[Data](articles/55732918.json)
-
----
 
 ### General Election: Ratnapura District preference vote results
 
@@ -54,7 +38,7 @@ Nalin Bandara has managed to secure the highest number of preference votes for t
 
 The preferential vote results of the Ratnapura District in the 2024 General Election have been released.
 
-NPP’s Shantha Padmakumara has polled the highest number of preferential votes in the Ratnapura District while NPP’s S. Pradeep has received the second highest preference votes in the district.
+NPP’s Shantha Padmakumara has polled the highest number of preferential votes in the Ratnapura District while NPP’s S. Pradeep has receiveid the second highest preference votes in the district.
 
 Heshan Withanage has managed to secure the highest number of preference votes for the SJB in the district.
 
@@ -78,8 +62,6 @@ Kandasami Prabhu has managed to secure a parliamentary seat in the district for 
 
 [Data](articles/e71cca3e.json)
 
-[Extended Data](ext_articles/e71cca3e.ext.json)
-
 ---
 
 ### Preference vote results of Kegalle District
@@ -95,8 +77,6 @@ Kabeer Hashim and Sujith Sanjaya Perera have obtained the highest number of pref
 ◼️
 
 [Data](articles/c7c6ee1f.json)
-
-[Extended Data](ext_articles/c7c6ee1f.ext.json)
 
 ---
 
@@ -118,27 +98,19 @@ Hector Appuhami and Janath Chithral Fernando have obtained the highest number of
 
 ---
 
-### I do not have the need and desire to make hereditary politics - Anganan Ramanathan
+### பரம்பரை அரசியல் செய்யும் தேவையும் விருப்பமும் எனக்கில்லை - அங்கஜன் இராமநாதன்
 
 *2024-11-15 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198880) · `ta`
 
-Anganan Ramanathan rejects hereditary politics, focuses on personal growth. Congratulates newly elected MPs, emphasizes serving people's needs. Expresses gratitude for voter support in Jaffna-Kilinochchi districts.
+நடைபெற்று முடிந்த நாடாளுமன்ற தேர்தல் முடிவுகளை ஏற்றுக்கொள்ளும் அதேநேரத்தில், காலங்காலமாக பரம்பரை அரசியல் செய்யும் தேவையும் விருப்பமும் எனக்கில்லை என்பதோடு என்னால் எனது சொந்த விடயங்களை கவனிக்க கிடைத்த சந்தர்ப்பமாகவும் இதனை எடுத்துக் கொள்கிறேன் என நாடாளுமன்ற முன்னாள் உறுப்பினர் அங்கஜன் இராமநாதன் இன்று வெள்ளிக்கிழமை (15) ஊடகங்களுக்கு அனுப்பி வைத்துள்ள செய்தி குறிப்பில் அவ்வாறு குறிப்பிட்டுள்ளார்.
 
-🟩
+பாராளுமன்றத் தேர்தலில் யாழ்ப்பாண தேர்தல் மாவட்ட மக்கள் வழங்கியுள்ள தீர்ப்பினை ஏற்றுக்கொள்வதோடு பாராளுமன்றத்துக்கு தெரிவாகியுள்ள உறுப்பினர்களுக்கு எனது வாழ்த்துக்களையும் தெரிவித்துக் கொள்கிறேன்.
 
-Former Member of Parliament Anganan Ramanathan sent to the media today (15) that I will take this to my own matters, as well as the need for hereditary politics and the opportunity to take care of my own matters while accepting the results of the parliamentary elections.
-
-I would like to congratulate the members who have been elected to Parliament in the Parliamentary Elections and the Jaffna election district.
-
-The people have taken the responsibilities for the people in the past and gave us the hands of the newcomers. We are not going to have any disgust with the people who gave this decision. We are a newly selected decision to solve the way people living with different needs.
-
-While we are in office, we are fully aware that we have identified the needs of the people and honestly.. I am not a politician who has done nothing like others. The people are confident that this responsibility will continue to be better.
+கடந்த காலங்களில் நாம் மக்களுக்காக பொறுப்பெடுத்து மேற்கொண்ட பொறுப்புகளை மக்கள் எம்மிடமிருந்து எடுத்து புதியவர்களின் கைகளுக்கு கொடுத்துள்ளனர். இம்முடிவை வழங்கிய மக்களிடம் நாம் எவ்வித வெறுப்புகளும் கொள்ளப்போவதில்லை. பல்வேறு தேவைகளோடு வாழும் மக்கள் அவற்றை தீர்ப்பதற்கான வழியை புதிதான முறையில் தேர்ந்தெடுத்த ஓர் தீர்மானமாகவே கருகிறோம்.
 
 ...
 
 [Data](articles/a8464e68.json)
-
-[Extended Data](ext_articles/a8464e68.ext.json)
 
 ---
 
@@ -166,25 +138,19 @@ The people of Mullaitivu district, community activists and youth were also prese
 
 ---
 
-### For the first time, two upcountry Tamil women elected to Parliament
+### முதல் தடவையாக இரு மலையகத் தமிழ்ப்பெண்கள் பாராளுமன்றத்துக்கு தெரிவு
 
 *2024-11-15 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198879) · `ta`
 
-Two Tamil women elected to Parliament for first time in upcountry history. Ambika Samuel wins 58,201 votes, Kalachelvi 33,346. Significant milestone after 47 years without female representation.
+மலையக அரசியல் வரலாற்றில் முதல் தடவையாக மலையக சமூகத்தைச் சேர்ந்த இரு பெண்கள் பாராளுமன்றத்துக்கு தெரிவாகியுள்ளனர்.
 
-🟩
+தேசிய மக்கள் சக்தியின் நுவரெலியா மாவட்ட வேட்பாளரான கலைச்செல்வி 33,346 விருப்பு வாக்குகளைப் பெற்று வெற்றி பெற்றுள்ள அதே வேளை பதுளை மாவட்டத்தின் தேசிய மக்கள் சக்தியின் வேட்பாளர் அம்பிகா சாமுவேல் 58,201 வாக்குகளைப் பெற்று வெற்றி பெற்றுள்ளார்.
 
-For the first time in the history of the upcountry political history, two women from the hill community have been elected to Parliament.
-
-Ambika Samuel, the National People's Power candidate in the Badulla district, has won 58,201 votes while the Nuwara Eliya District candidate of the National People's Power, Kalachelvi has won 33,346 preferential votes.
-
-It is important that this is the first female representation in the last 47 years of the Upcountry Society, which received the first upcountry representation in 1977.
+1977 ஆம் ஆண்டு முதலாவது மலையக பிரதிநிதித்துவத்தைப் பெற்ற மலையக சமூகம் கடந்த 47 வருடங்களில் பெற்ற முதலாவது பெண் பிரதிநிதித்துவம் இது என்பது முக்கிய விடயம்.
 
 ◼️
 
 [Data](articles/332b2eb4.json)
-
-[Extended Data](ext_articles/332b2eb4.ext.json)
 
 ---
 
@@ -951,26 +917,6 @@ Here's a summary of "The National People's Power" in approximately 200 character
 [Data](articles/dab7763d.json)
 
 [Extended Data](ext_articles/dab7763d.ext.json)
-
----
-
-### මහ මැතිවරණ ප්‍රතිඵලය හරහා ජනතාව දුන් පණිවුඩය කුමක් ද?
-
-*2024-11-15 12:04:02* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp8702ze6y0o) · `si`
-
-මැතිවරණ ප්‍රතිඵලයෙන් පෙනී යන්නේ, ශ්‍රී ලංකාවේ බහුතරයක් වූ ජනතාව ජාතික ජන බලවේගයේ වැඩපිළිවෙළ වෙත විශ්වාසය තබා ඒ කෙරේ සහාය පළ කිරීමට තීරණය කොට ඇති බවයි.
-
-ඒ අනුව මෙවර මහ මැතිවරණ ප්‍රතිඵල  හරහා ඉස්මතු වී පෙනෙන කරුණු රැසක් තිබේ.
-
-දශක 7කට අධික කාලයක් තිස්සේ ප්‍රභූ පැළැන්තියේ දේශපාලනඥයින් රට පාලනය කිරීමේ ක්‍රමවේදය මුළුමනින් ම වෙනස් කිරීමට ජනතාවට අවශ්‍ය වූ බව ද මෙවර මහ මැතිවරණ ප්‍රතිඵලයෙන් පෙනී යයි.
-
-2022 වසරේ ඇති වූ ආණ්ඩු විරෝධී උද්ඝෝෂණ රැල්ලේදී ප්‍රධාන සටන් පාඨයක් ද වූ ‘ප්‍රභූ දේශපාලනය අවසන් කිරීම' ජාතික ජනබලවේග මැතිවරණ වේදිකාවේ ප්‍රමුඛ සටන් පාඨයක් ව තිබුණි. ඒ අනුව ජාතික ජනබලවේගයට බහුතර බලයක් ලබාදීමෙන් ‘ප්‍රභූ දේශපාලනය අවසන් කිරීම' සඳහා ජනතාව තම අභිමතය ප්‍රකාශ කොට තිබේ.
-
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ ඇතුළුව මීට පෙර  පාර්ලිමේන්තුව නියෝජනය කළ මන්ත්‍රීවරුන්, ප්‍රභූ පැළැන්තියේ දේශපාලනඥයින් සහ වියපත් දේශපාලනඥයින් රැසක් මෙවර මැතිවරණයට තරග නොකිරීමට තීරණය කොට තිබු අතර ඇතමෙක් ස්වයං විශ්‍රාම ගෙන තිබේ.
-
-...
-
-[Data](articles/b3638555.json)
 
 ---
 
@@ -2117,5 +2063,35 @@ The National People’s Power (NPP) has secured victories in the Colombo-North, 
 [Data](articles/50be652b.json)
 
 [Extended Data](ext_articles/50be652b.ext.json)
+
+---
+
+### SJB wins Mannar polling division
+
+*2024-11-15 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103487/sjb-wins-mannar-polling-division) · `en`
+
+◼️
+
+[Data](articles/4c490903.json)
+
+[Extended Data](ext_articles/4c490903.ext.json)
+
+---
+
+### Final results of Anuradhapura District
+
+*2024-11-15 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103486/final-results-of-anuradhapura-district) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Anuradhapura District in the 2024 General Election with the National People’s Power (NPP) polling more than 64% of the total votes in the district.
+
+NPP has polled 312,441 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 109,691 votes (22.75%).
+
+Accordingly, the NPP has secured 7 seats in the district while the SJB has won two seats in the district.
+
+◼️
+
+[Data](articles/a5f885a6.json)
+
+[Extended Data](ext_articles/a5f885a6.ext.json)
 
 ---

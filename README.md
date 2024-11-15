@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 21:00:21**
+As of **2024-11-15 20:41:38**
 
 ## Newspaper Stats
 
-*Scraped **55,136** Articles*
+*Scraped **55,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,651
+adaderanalk | 6,650
 tamilmirrorlk | 7,813
 virakesarilk | 8,927
 adaderanasinhalalk | 9,530
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,106 (99.9%) of 55,136 articles have been extended.
+55,106 (99.9%) of 55,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### Seven injured as truck collides with train in Weligama
-
-*2024-11-15 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103526/seven-injured-as-truck-collides-with-train-in-weligama-) · `en`
-
-Seven persons including two children were injured when a light truck collided against a train at a railway crossing in Weligama.
-
-Police said the collision had occurred due to the driver of the truck disobeying the red signal at the Polwatte, Weligama level crossing, and attempted to pass through.
-
-The injured persons have been hospitalised while some are in critical condition, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5579a279.json)
-
----
 
 ### ඉන්දියාවෙන් ජනපති අනුරට ආ සුබ පැතුම
 
@@ -1959,5 +1943,21 @@ The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats
 [Data](articles/0535966a.json)
 
 [Extended Data](ext_articles/0535966a.ext.json)
+
+---
+
+### Gampaha
+
+*2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
+
+Gampaha: A district in western Sri Lanka known for its agricultural production and political significance. It covers approximately 1,3
+
+🟩
+
+◼️
+
+[Data](articles/4fbe34f8.json)
+
+[Extended Data](ext_articles/4fbe34f8.ext.json)
 
 ---

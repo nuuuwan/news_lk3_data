@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 17:25:27**
+As of **2024-11-15 17:42:47**
 
 ## Newspaper Stats
 
-*Scraped **55,100** Articles*
+*Scraped **55,101** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,646
+adaderanalk | 6,647
 tamilmirrorlk | 7,810
 virakesarilk | 8,925
 adaderanasinhalalk | 9,505
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,096 (100.0%) of 55,100 articles have been extended.
+55,096 (100.0%) of 55,101 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### General Election: Ratnapura District preference vote results
+
+*2024-11-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103522/general-election-ratnapura-district-preference-vote-results) · `en`
+
+The preferential vote results of the Ratnapura District in the 2024 General Election have been released.
+
+NPP’s Shantha Padmakumara has polled the highest number of preferential votes in the Ratnapura District while NPP’s S. Pradeep has receiveid the second highest preference votes in the district.
+
+Heshan Withanage has managed to secure the highest number of preference votes for the SJB in the district.
+
+◼️
+
+[Data](articles/4d401ae9.json)
+
+---
 
 ### Batticaloa District preferential vote results
 
@@ -2077,51 +2093,5 @@ Accordingly, the NPP has secured 7 seats in the district while the SJB has won t
 [Data](articles/a5f885a6.json)
 
 [Extended Data](ext_articles/a5f885a6.ext.json)
-
----
-
-### General Election 2024: A huge win to the national propagation!
-
-*2024-11-15 08:27:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq52ylj694vo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Jathika Force wins 2024 general election in Sri Lanka, securing 141 out of 159 parliamentary seats. Key players include Illangai Tamil Arasu Kachchi, New Democratic Front, and Sri Lanka Podujana Peramuna. The election followed Sri Lanka's economic crisis and political upheaval.
-
-🟩
-
-The National Jathika Force has won the 2024 general election.
-
-The total number of votes was 6,863,186, and 159 seats in parliament.
-
-The national propagation won 141 seats. The total number of seats in the area was 159.
-
-The reconciliation of 1,968,716 votes were 40 seats.
-
-It was 35 seats and 5 seats from the national list.
-
-According to the entire results of the general election, the number of seats in each of the parties is as follows.
-
-Illangai Tamil Arasu Kachchi scored 257,813 votes and won eight seats.
-
-The new demostal leader secured 500,835 votes and took 5 seats.
-
-The Sri Lanka General Front receives 3 seats with 350,429 votes.
-
-The Sri Lanka Muslim Congress won 3 seats with 87,038 votes.
-
-Seventeen of 178,006 votes have been elected national lists.
-
-Anura Kumara Dissanayake won 5,740,179 votes from the presidential election on September 21.
-
-The national protocol was owned by 6,863,186 votes in this year's general election.
-
-...
-
-[Data](articles/64a01d29.json)
-
-[Extended Data](ext_articles/64a01d29.ext.json)
 
 ---

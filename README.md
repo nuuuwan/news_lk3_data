@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 08:52:26**
+As of **2024-11-15 09:05:00**
 
 ## Newspaper Stats
 
-*Scraped **54,996** Articles*
+*Scraped **54,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,340
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,149
-adaderanalk | 6,614
-tamilmirrorlk | 7,775
+adaderanalk | 6,615
+tamilmirrorlk | 7,776
 virakesarilk | 8,915
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,975 (100.0%) of 54,996 articles have been extended.
+54,985 (100.0%) of 54,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### மன்னாரை பிடித்தார் சஜித்
+
+*2024-11-15 08:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரை-பிடித்தார்-சஜித்/175-347228) · `ta`
+
+◼️
+
+[Data](articles/b81f9250.json)
+
+---
+
+### NPP secures 8 seats, SJB secures 3 in Ratnapura
+
+*2024-11-15 08:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103490/npp-secures-8-seats-sjb-secures-3-in-ratnapura) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Ratnapura District in the 2024 General Election with the National People’s Power (NPP) polling more than 61% of the total votes in the district.
+
+NPP has polled 368,229 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 133,041 votes (22.31%).
+
+Accordingly, the NPP has secured 8 seats in the district while the SJB has won 3 seats in the district.
+
+◼️
+
+[Data](articles/58d599da.json)
+
+---
 
 ### NPP secures 12 seats, SJB secures 3 in Kurunegala
 
@@ -46,17 +72,29 @@ Accordingly, the NPP has secured 12 seats in the district while the SJB has won 
 
 [Data](articles/da051e03.json)
 
+[Extended Data](ext_articles/da051e03.ext.json)
+
 ---
 
-### குருநாகலில் அள்ளி சுருட்டியது திசைக்காட்டி
+### The compassionate in Kurunegala
 
 *2024-11-15 08:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகலில்-அள்ளி-சுருட்டியது-திசைக்காட்டி/175-347227) · `ta`
 
-குருநாகல் மாவட்டத்தில் 15 ஆசனங்களில் 12 ஆசனங்களை திசைக்காட்டியை சின்னமாகக் கொண்ட தேசிய மக்கள் சக்தி தம்வசமாக்கிக்கொண்டது.
+Here's a summary of 200 characters:
+
+
+
+Compassionate leadership in Kurunegala: The national party holds 12 out of 15 seats, reflecting the people's power and influence in the district.
+
+🟩
+
+In the Kurunegala district, the power of the national population, which symbolizes 12 seats in 15 seats, has made the power of the people.
 
 ◼️
 
 [Data](articles/a02e8805.json)
+
+[Extended Data](ext_articles/a02e8805.ext.json)
 
 ---
 
@@ -70,6 +108,8 @@ The National People’s Power (NPP) has secured victories in the Colombo-North, 
 
 [Data](articles/50be652b.json)
 
+[Extended Data](ext_articles/50be652b.ext.json)
+
 ---
 
 ### SJB wins Mannar polling division
@@ -79,6 +119,8 @@ The National People’s Power (NPP) has secured victories in the Colombo-North, 
 ◼️
 
 [Data](articles/4c490903.json)
+
+[Extended Data](ext_articles/4c490903.ext.json)
 
 ---
 
@@ -96,15 +138,27 @@ Accordingly, the NPP has secured 7 seats in the district while the SJB has won t
 
 [Data](articles/a5f885a6.json)
 
+[Extended Data](ext_articles/a5f885a6.ext.json)
+
 ---
 
-### கேகாலையும் அனுர வசமானது
+### Kegalle is also convenient
 
 *2024-11-15 08:25:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலையும்-அனுர-வசமானது/175-347226) · `ta`
+
+Here's a summary of "Kegalle is also convenient" in 200 characters:
+
+
+
+Kegalle offers easy access and practicality. Its strategic location makes it an ideal choice for those seeking convenience in daily life. The town's infrastructure supports quick commutes and essential services, enhancing overall livability.
+
+🟩
 
 ◼️
 
 [Data](articles/bb7ae1a1.json)
+
+[Extended Data](ext_articles/bb7ae1a1.ext.json)
 
 ---
 
@@ -204,15 +258,25 @@ Accordingly, the NPP has secured 8 seats in the district while the SJB has won t
 
 ---
 
-### කළුතරින් මාලිමාවට ආසන 8ක්
+### 8 seats in Kalutara
 
 *2024-11-15 07:51:25* · [`adalk`](https://www.ada.lk/breaking_news/කළුතරින්-මාලිමාවට-ආසන-8ක්/11-413055) · `si`
 
-කළුතර දිස්ත්‍රික්කයේ සමස්ත ප්‍රථිඵලය මේ වන විට නිකුත් කර තිබේ. ඒ අනුව ජාතික ජන බලවේගය එම දිස්ත්‍රික්කය ජයග්‍රහණය කර ඇති අතර ඔවුන් ආසන 8ක් දිනාගෙන තිබේ. සමගි ජන බලවේගයට ආසන දෙකක් හා නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ආසනයක් හිමිව තිබේ.
+Here's a summary of 200 characters:
+
+
+
+Kalutara: National Folk Force wins 8 seats, Reconciliation Party gets 2, New Democratic Front also secures seats.
+
+🟩
+
+The entire result of the Kalutara District has been released now. Accordingly, the national folk force has won the district and won eight seats. The reconciliation has seated two seats and the New Democratic Front.
 
 ◼️
 
 [Data](articles/853ce690.json)
+
+[Extended Data](ext_articles/853ce690.ext.json)
 
 ---
 
@@ -1334,6 +1398,8 @@ The mentor behind the project, Gomez, a French national, said that they have alr
 
 [Data](articles/77cb278a.json)
 
+[Extended Data](ext_articles/77cb278a.ext.json)
+
 ---
 
 ### Huawei launches 5G-AA solutions for mobile AI era
@@ -1372,13 +1438,23 @@ Here's a summary of the postal vote of the Kurunegala District in approximately 
 
 ---
 
-### குருநாகல் மாவட்டத்தின் தபால் மூல பெறுபேறு
+### Postal Source of Kurunegala District
 
 *2024-11-15 04:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகல்-மாவட்டத்தின்-தபால்-மூல-பெறுபேறு/175-347199) · `ta`
+
+Here's a summary of the Postal Source of Kurunegala District in approximately 200 characters:
+
+
+
+Kurunegala District postal sources: Main Post Office, Galagedara, Pothuhera, Alawathugoda, and several branch offices. Efficient delivery network covers rural areas, ensuring timely mail distribution throughout the district.
+
+🟩
 
 ◼️
 
 [Data](articles/c93892eb.json)
+
+[Extended Data](ext_articles/c93892eb.ext.json)
 
 ---
 
@@ -1532,15 +1608,25 @@ Here's a summary of the Kandy District Kundasalai Election constituency Voting R
 
 ---
 
-### මෛත්‍රීගේ පුතා පරාදයි
+### Maithri's son defeated
 
 *2024-11-15 04:14:55* · [`adalk`](https://www.ada.lk/breaking_news/මෛත්‍රීගේ-පුතා-පරාදයි/11-413049) · `si`
 
-මෙවර මහ මැතිවරණය සඳහා සර්ව  ජන බලය පක්ෂය නියෝජනය කරමින් තරග කළ හිටපු ජනපති මෛත්‍රීපාල සිරිසේන මහතාගේ පුත් දහම් සිරිසේන මහතා පරාජයට පත්ව තිබේ. ඒ පොලොන්නරුවෙන් එම පක්ෂයට එකඳු ආසනයක් හෝ හිමි නොවීම හේතුවෙනි.
+Here's a summary in 200 characters:
+
+
+
+Maithri's son loses election. Former Pres. Sirisena defeats him. His party fails to win seats.
+
+🟩
+
+Sirisena, son of former presidential defeat for the general election, has been defeated by the former President Maithripala Sirisena. That party is not a seat or the number of seat.
 
 ◼️
 
 [Data](articles/4a63ec9e.json)
+
+[Extended Data](ext_articles/4a63ec9e.ext.json)
 
 ---
 
@@ -1771,47 +1857,5 @@ Deniyaya is a parliamentary electoral district in Sri Lanka. It covers parts of 
 [Data](articles/0e12d7c0.json)
 
 [Extended Data](ext_articles/0e12d7c0.ext.json)
-
----
-
-### Deniyaya constituency won the directional
-
-*2024-11-15 03:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெனியாய-தொகுதியில்-திசைக்காட்டி-வெற்றி/175-347191) · `ta`
-
-Here's a summary of "Deniyaya constituency won the directional" in approximately 200 characters:
-
-
-
-"Deniyaya constituency secured victory in the directional race. This outcome reflects the community's preferences and political leanings."
-
-🟩
-
-◼️
-
-[Data](articles/6aa410e8.json)
-
-[Extended Data](ext_articles/6aa410e8.ext.json)
-
----
-
-### Five seats in Hambantota. One seat for the rush and animation
-
-*2024-11-15 03:49:06* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොටින්-මාලිමාවට-ආසන-5ක්--පොහොට්ටුවට-හා-සජබයට-එක්-ආසනය-බැගින්/11-413047) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Hambantota district election results: National party wins 5 seats, SLFP gets 1 seat.
-
-🟩
-
-Results of the Hambantota district released on this year's general election. However, the national population has won five seats and the Sri Lanka National Front and the Sri Lanka Commonwealth Front will have one seat for the Sri Lanka Power.
-
-◼️
-
-[Data](articles/8f5f4d18.json)
-
-[Extended Data](ext_articles/8f5f4d18.ext.json)
 
 ---

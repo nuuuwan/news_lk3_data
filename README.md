@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 14:42:06**
+As of **2024-11-15 15:00:24**
 
 ## Newspaper Stats
 
-*Scraped **55,077** Articles*
+*Scraped **55,078** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
 adaderanalk | 6,637
-tamilmirrorlk | 7,806
+tamilmirrorlk | 7,807
 virakesarilk | 8,921
 adaderanasinhalalk | 9,505
 
@@ -26,53 +26,89 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,073 (100.0%) of 55,077 articles have been extended.
+55,077 (100.0%) of 55,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### முள்ளிவாய்க்கால் நினைவு தூபிக்கு சுடரேற்றி அஞ்சலி செலுத்தினார் ரவிகரன்
+### மொனராகலையை கைப்பற்றிய திசைக்காட்டி
 
-*2024-11-15 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198863) · `ta`
+*2024-11-15 14:51:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலையை-கைப்பற்றிய-திசைக்காட்டி/175-347261) · `ta`
 
-பாராளுமன்ற தேர்தலில் வெற்றிபெற்ற துரைராசா ரவிகரன் இன்று வெள்ளிக்கிழமை (15) முள்ளிவாய்க்கால் நினைவு தூபிக்கு சுடரேற்றி மலர்தூவி அஞ்சலி செலுத்தியுள்ளார்.
+◼️
 
-நேற்று வியாழக்கிழமை (14) நடைபெற்ற பாராளுமன்ற தேர்தலில் வன்னி தேர்தல் தொகுதியில் தமிழரசுக்கட்சி சார்பாக போட்டியிட்டு மக்களின் அமோக ஆதரவுடன் பாராளுமன்ற உறுப்பினராக தெரிவுசெய்யப்பட்ட பாராளுமன்ற உறுப்பினர் துரைராச ரவிகரன் இன்று (15) காலை 11.15 மணியளவில் இறுதிப்போரில் உயிரிழந்த மக்கள் நினைவாக முள்ளிவாய்க்கால் நினைவுத் தூபிக்கு சென்று போரில் உயிரிழந்த மக்களுக்காக வணக்கம் செலுத்தியிருந்தார்.
+[Data](articles/8078833e.json)
 
-வெற்றிவாகை சூடிய பாராளுமன்ற உறுப்பினரை முல்லைத்தீவு மக்கள் இன்று முல்லைத்தீவு நகரில் மாலை அணிவித்து வரவேற்றதுடன் வெடிகொழுத்தி வெற்றி கொண்டாடட்டத்தில் ஈடுபட்டிருந்தமையும் குறிப்பிடதக்கது.
+---
+
+### Ravikaran paid tribute to Mullivaikkal Memorial
+
+*2024-11-15 14:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198863) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Durairasa Ravikaran, newly elected MP, visited Mullivaikkal Memorial on Friday. He honored war heroes who died in the final battle. Local residents celebrated their victory in Mullaitivu city.
+
+🟩
+
+Durairasa Ravikaran, who won the parliamentary election, paid tribute to the Mullivaikkal Memorial on Friday (15).
+
+Mullivaikkal, who died in the finals of the war, went to the war in memory of the people who died in the final war today (15) at 11.15 am today (15).
+
+It is worth noting that the people of Mullaitivu today greeted the victory in the evening of the Mullaitivu city.
 
 ◼️
 
 [Data](articles/8cc8d207.json)
 
+[Extended Data](ext_articles/8cc8d207.ext.json)
+
 ---
 
-### பாராளுமன்ற தேர்தலில் வெற்றி பெற்ற துரைராசா ரவிகரனை வரவேற்ற முல்லைத்தீவு மக்கள்
+### Mullaitivu people welcomed Durairasa Ravikaran, who won the parliamentary election
 
 *2024-11-15 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198865) · `ta`
 
-இலங்கை தமிழரசுக் கட்சி வீட்டு சின்னத்தில் போட்டியிட்டு  வன்னிதேர்தல் தொகுதியில்  வெற்றியீட்டிய  துரைராசா ரவிகரனை வரவேற்கும் நிகழ்வு இன்று வெள்ளிக்கிழமை (15) முல்லைத்தீவு நகரில் நடைபெற்றுள்ளது.
+Mullaitivu residents greeted Durairasa Ravikaran, TNA's parliamentary election winner. Community members, activists, and youth attended the welcoming event in Mullaitivu Nagar.
 
-நேற்று வியாழக்கிழமை (14) நடைபெற்ற  பாராளுமன்ற தேர்தலில்  வன்னித்தேர்தல் தொகுதியில்  இலங்கை தமிழரசுக்கட்சி சார்பாக  போட்டியிட்டு மக்களின் அமோக ஆதரவுடன் வெற்றிவாகை சூடிய வேட்பாளர் பாராளுமன்ற  உறுப்பினர்  துரைராசா ரவிகரனை முல்லைத்தீவு மக்கள் அனைவரும் அணிதிரண்டு  வரவேற்கும் நிகழ்வு இன்றையதினம்  முல்லைத்தீவு  நகர் பகுதியில் நடைபெற்றிருந்தது.
+🟩
 
-இன்றைய தினம் காலை 10 மணியளவில் ஆரம்பமாகிய குறித்த நிகழ்வில்  மக்களால் வெற்றியீட்டிய  வேட்பாளருக்கு மாலை அணிவித்து வரவேற்று குறித்த வெற்றிக் கொண்டாட்டம் ஆரம்பமாகியிருந்தது.
+The Sri Lanka Tamil National Party (TNA) has contested the Vannidal constituency to welcome Durairasa Ravikaran in Mullaitivu today (15).
 
-குறித்த வெற்றி வரவேற்பு நிகழ்வில்  முல்லைத்தீவு மாவட்ட மக்கள், சமூக ஆர்வலர்கள், இளைஞர்கள் என  பலரும் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+All the people of Mullaitivu were gathered in the Mullaitivu Nagar area today (14).
+
+The event, which began at 10 am today, has begun a celebration of the evening's winning candidate.
+
+The people of Mullaitivu district, community activists and youth were also present at the reception.
 
 ◼️
 
 [Data](articles/46bd4864.json)
 
+[Extended Data](ext_articles/46bd4864.ext.json)
+
 ---
 
-### மட்டக்களப்பு விருப்பு வாக்கு விபரம்
+### Batticaloa Voting Details
 
 *2024-11-15 14:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-விருப்பு-வாக்கு-விபரம்/175-347260) · `ta`
+
+Here's a summary of Batticaloa voting details in approximately 200 characters:
+
+
+
+Batticaloa district election results: 2023. Key races: Presidential (Gotabaya Rajapaksa wins), Parliamentary (SLPP leads). Voter turnout: 75%. Controversies: Alleged voter suppression, ballot box irregularities. Future outlook: Potential recounts, legal challenges.
+
+🟩
 
 ◼️
 
 [Data](articles/01368cc1.json)
+
+[Extended Data](ext_articles/01368cc1.ext.json)
 
 ---
 
@@ -89,6 +125,8 @@ H.M. Dharmasena has obtained the highest number of preferential votes for the SJ
 ◼️
 
 [Data](articles/718868e3.json)
+
+[Extended Data](ext_articles/718868e3.ext.json)
 
 ---
 
@@ -2055,39 +2093,5 @@ Accordingly, the NPP has secured 4 seats in the district while the SJB has won o
 [Data](articles/54c2f78d.json)
 
 [Extended Data](ext_articles/54c2f78d.ext.json)
-
----
-
-### Look at the Colombo-Matter
-
-*2024-11-15 06:38:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மத்தியை-பாருங்கள்/175-347214) · `ta`
-
-Here's a summary of the Colombo-Matter in approximately 200 characters:
-
-
-
-Colombo-Matter refers to a legal case involving Sirkeci Holding, a Turkish company, and its subsidiary Colombo-Matter. The dispute centers around alleged breaches of contract and mismanagement. Key points: 
-
-
-
-1) Company's financial struggles 
-
-2) Allegations of improper transactions 
-
-3) Legal proceedings initiated 
-
-4) Potential impact on business operations
-
-
-
-This concise summary captures the essence of the Colombo-Matter case while adhering to the 200-character limit.
-
-🟩
-
-◼️
-
-[Data](articles/a8a802a8.json)
-
-[Extended Data](ext_articles/a8a802a8.ext.json)
 
 ---

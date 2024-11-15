@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 11:42:36**
+As of **2024-11-15 12:01:52**
 
 ## Newspaper Stats
 
-*Scraped **55,043** Articles*
+*Scraped **55,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,155
-adaderanalk | 6,629
-tamilmirrorlk | 7,791
+adaderanalk | 6,630
+tamilmirrorlk | 7,792
 virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,37 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,034 (100.0%) of 55,043 articles have been extended.
+55,034 (100.0%) of 55,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### திகாமடுல்லையை கைப்பற்றிய திசைக்காட்டி
+
+*2024-11-15 11:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்லையை-கைப்பற்றிய-திசைக்காட்டி/175-347245) · `ta`
+
+◼️
+
+[Data](articles/e0800902.json)
+
+---
+
+### Badulla District preferential vote results released
+
+*2024-11-15 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103505/badulla-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Badulla District in the 2024 General Election have been released.
+
+NPP’s Samantha Vidyaratna has polled the highest number of preferential votes in the Badulla District.
+
+Former MPs Chaminda Wijesiri and Nayana Wasalathilake have received the highest preferential votes from the SJB to secure the two parliamentary seats while NDF’s single seat for the district was secured by former MP Chamara Sampath Dassanayake.
+
+◼️
+
+[Data](articles/3f4353e0.json)
+
+---
 
 ### Final polling division result of General Election released
 
@@ -1919,41 +1945,5 @@ Here's a summary of the Jaffna District - Kilinochchi election results in approx
 [Data](articles/8c2d044b.json)
 
 [Extended Data](ext_articles/8c2d044b.ext.json)
-
----
-
-### Jaffna- Kilinochchi Results
-
-*2024-11-15 05:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-கிளிநொச்சி-முடிவுகள்/175-347202) · `ta`
-
-Here's a summary of Jaffna-Kilinochchi results in approximately 200 characters:
-
-
-
-"Jaffna-Kilinochchi election results show mixed outcomes. SLPP leads in Jaffna, while Tamil National Alliance (TNA) performs well in Kilinochchi. Voter turnout was high, reflecting local interest in the polls."
-
-🟩
-
-◼️
-
-[Data](articles/ecb83e44.json)
-
-[Extended Data](ext_articles/ecb83e44.ext.json)
-
----
-
-### Flying Colombo West
-
-*2024-11-15 05:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தது-கொழும்பு-மேற்கு/175-347201) · `ta`
-
-Flying Colombo West: A summary in 200 characters would be challenging without more context about what "Flying Colombo West" refers to. It could be a location, a project, a company, or something else entirely. Without additional details, it's difficult to provide a concise summary within such a strict character limit. Could you please provide more information about Flying Colombo West?
-
-🟩
-
-◼️
-
-[Data](articles/6e94c7dd.json)
-
-[Extended Data](ext_articles/6e94c7dd.ext.json)
 
 ---

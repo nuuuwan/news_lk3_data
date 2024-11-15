@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 04:14:21**
+As of **2024-11-16 04:59:55**
 
 ## Newspaper Stats
 
-*Scraped **55,163** Articles*
+*Scraped **55,167** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,162
 adaderanalk | 6,652
 tamilmirrorlk | 7,814
-virakesarilk | 8,932
+virakesarilk | 8,936
 adaderanasinhalalk | 9,533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,163 (100.0%) of 55,163 articles have been extended.
+55,166 (100.0%) of 55,167 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,108 @@ Mahinda Rajapaksa had previously received more preferential votes. He contested 
 [Data](articles/c2c6c20c.json)
 
 [Extended Data](ext_articles/c2c6c20c.ext.json)
+
+---
+
+### Thank you all who gave shoulder to the Renaissance Yuga - President
+
+*2024-11-16 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198893) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Presidential candidate Anura Kumara Dissanayake thanks supporters for helping begin "Renaissance Age." National People's Power wins 159 seats. He urges peaceful celebrations and stability in political culture. Prime Minister Harini Amarasuriya thanks Northern and Eastern voters, ensuring Tamil confidence.
+
+🟩
+
+Anuragumara Dissanayake has thanked the people of the country, thank you all who gave shoulder to the beginning of the Renaissance Age.
+
+President Anura Kumara Dissanayake has uploaded a gratitude on his official X website following the National People's Power General Election.
+
+The president urged the presidential election to be a peaceful celebration of the general election, and pointed out to the people that the political culture that peacefully celebrate the election victory should be stable.
+
+The President has uploaded a thank you to all the people who gave the shoulder to start the Renaissance Age as the National People's Power has won 159 seats.
+
+Prime Minister Dr. Harini Amarasuriya thanked the people of the North and East, the main partners in the victory of the National People's Power. The Prime Minister also noted that the confidence of the Tamils ​​is well protected.
+
+◼️
+
+[Data](articles/393a78c7.json)
+
+[Extended Data](ext_articles/393a78c7.ext.json)
+
+---
+
+### New faces in Vanni: Very low voting wealth
+
+*2024-11-16 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198892) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"3 newcomers in Vanni: Tilakanathan (10652), Jagadeeswaran (9280), Ravikaran (11215) elected to Parliament. Resort Bathiudeen (21018) re-elected with lower votes. K. Gay Mastan (Ceylon Workers Party) wins with over 13k votes. Selvam Adakkalanathan (Democratic Tamil National Alliance) enters with 5695 votes, lowest in history."
+
+🟩
+
+Three new faces in the Vanni electorate in the parliamentary elections are entering the parliament.
+
+On behalf of the National People's Power. The power doctor, known as Tilakanathan, is the doctor.
+
+The last time he participated in the election through the All Ceylon Tamil Congress, but was unable to attend parliament. He is currently contesting the election through the National People's Power and has been elected to Parliament with 10652 preferential votes.
+
+Meanwhile, the National People's Power. Jagadeeswaran has participated in various struggles on behalf of the Asians and put forward the demands of the teachers against the past governments as the Northern Province and the National Vice President of the Teachers' Seva Association. He is currently clear to Parliament with 9280 preferential votes.
+
+...
+
+[Data](articles/a98ba129.json)
+
+[Extended Data](ext_articles/a98ba129.ext.json)
+
+---
+
+### We congratulate the Southern Political Party to win the North's confidence -UNP Chairman Vajira
+
+*2024-11-16 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198891) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan UNP Chairman Vajira Abeywardena congratulates Southern political party winning Northern confidence. Hails historic victory, sees opportunity for progress. Expresses hope for economic agenda fulfillment and new political culture.
+
+🟩
+
+This government, including the president, has many expectations to be met. We will be looking at how to accomplish it. However, the election of the United National Party (UNP) Chairman Vajira Abeywardena said that the election of a Southern political party has won the North's confidence in the North.
+
+He was speaking at a press conference held at the United National Party office in Galle on Friday (15).
+
+The government, including the president, has won historical victory in the ongoing parliamentary election. We congratulate us on that. Similarly this is a special opportunity for Sri Lanka. The present president and the government that have come to power have succeeded in a matter of unable to accomplish in Sri Lanka's history. We should be happy as Sri Lankans.
+
+...
+
+[Data](articles/f3e6b79c.json)
+
+[Extended Data](ext_articles/f3e6b79c.ext.json)
+
+---
+
+### கிளிநொச்சியில் தொடரும் சட்டவிரோத மணல் அகழ்வு
+
+*2024-11-16 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198890) · `ta`
+
+கிளிநொச்சியின் பல பகுதிகளில் தொடர்ச்சியாக சட்டவிரோத மணல் அகழ்வு இடம்பெறறு வருகிறது என பொது மக்கள் கவலை தெரிவித்துள்ளனர்.
+
+இவ்வாறு தொடரும் சட்டவிரோத மணல் அகழ்வினால் பெறுமதியான வயல் நிலங்கள் உள்ளிட்ட தனியார் காணிகளும் பாதிக்கப்பட்டுள்ளதாகவும்,  இரவு நேரங்களில் விவசாய காணிகளில் சட்டவிரோதமாக மணல் அகழ்வில் ஈடுப்படுகின்றனர் என்றும் இதன் காரணமாக தங்களது  விவசாய நடவடிக்கைகள் பெரிதும் பாதிக்கப்பட்டுளளது என்றும் கவலை தெரிவித்துள்ள பொது மக்கள்.சட்டவிரோத
+
+மணல் அகழ்வில் ஈடுப்படுகின்றவர்களுக்கும்  பொலீஸாருக்கும் இடையே நெருங்கிய உறவு இருப்பதனால் அவர்கள் மீது பொலீஸார் எவ்வித நடவடிக்கையும் எடுப்பதில்லை என்றும் பொது மக்கள் தெரிவித்துள்ளனர்.
+
+சூழலுக்கு ஏற்படுகின்ற பாதிப்பினை தடுக்கவும், விவசாய நிலங்களை பாதுகாக்கவும் சட்டவிரோத மணல் அகழ்வோர் மீது கடுமையான நடவடிக்கை எடுக்க வேண்டும் என்றும் பொது மக்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/d62cad4b.json)
 
 ---
 
@@ -2187,85 +2289,5 @@ Here's a summary of "Yall. District likes" in approximately 200 characters:
 [Data](articles/411da4e1.json)
 
 [Extended Data](ext_articles/411da4e1.ext.json)
-
----
-
-### Sumanthiran Failure
-
-*2024-11-15 12:29:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமந்திரன்-தோல்வி/175-347248) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sumanthiran fails election bid: MA Sumanthiran, lawyer & Tamil National Party leader, loses district seat contest. Disappointment for Sri Lanka's Tamil minority as key figure falls short.
-
-🟩
-
-On behalf of the Sri Lanka Tamil National Party, Jaffna. President's Attorney MA Sumanthiran, who contested the district, has failed this time.
-
-◼️
-
-[Data](articles/823804c9.json)
-
-[Extended Data](ext_articles/823804c9.ext.json)
-
----
-
-### 2 seats for NPP in Tirumala
-
-*2024-11-15 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருமலையில்-NPP-க்கு-2-ஆசனங்கள்/175-347247) · `ta`
-
-Here's a summary of "2 seats for NPP in Tirumala" in approximately 200 characters:
-
-
-
-NPP secures two seats in Tirumala constituency. This outcome reflects voter preference for the National People's Party in this specific region. The party's performance here may impact its overall electoral strategy and influence in future local and national elections.
-
-🟩
-
-◼️
-
-[Data](articles/35d97205.json)
-
-[Extended Data](ext_articles/35d97205.ext.json)
-
----
-
-### NPP captured 2 sets in Trincomalee
-
-*2024-11-15 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-2-ஆசனங்ளை-கைப்பற்றியது-NPP/175-347247) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-NPP (Northern Provincial Council) secured two victories in Trincomalee. These wins likely refer to sports matches or political victories in the region. Trincomalee is a coastal city in eastern Sri Lanka, known for its historical significance and natural beauty. The summary captures the essence of the event without delving into unnecessary details.
-
-🟩
-
-◼️
-
-[Data](articles/707eb516.json)
-
-[Extended Data](ext_articles/707eb516.ext.json)
-
----
-
-### Matale District preferential vote results released
-
-*2024-11-15 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103508/matale-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Matale District in the 2024 General Election have been released.
-
-NPP’s Gamagedara Dissanayake has polled the highest number of preferential votes in the Matale District.
-
-Former MP Rohini Kawirathne has received the highest preferential votes from the SJB to secure its only seat.
-
-◼️
-
-[Data](articles/317f7382.json)
-
-[Extended Data](ext_articles/317f7382.ext.json)
 
 ---

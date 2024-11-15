@@ -1,270 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 16:25:57**
+As of **2024-11-15 15:41:36**
 
 ## Newspaper Stats
 
-*Scraped **55,095** Articles*
+*Scraped **55,081** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 428
+dbsjeyarajcom | 426
 colombotelegraphcom | 559
 bbccomsinhala | 561
 islandlk | 3,291
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
-adalk | 5,162
-adaderanalk | 6,643
-tamilmirrorlk | 7,810
-virakesarilk | 8,923
+adalk | 5,159
+adaderanalk | 6,639
+tamilmirrorlk | 7,807
+virakesarilk | 8,921
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,093 (100.0%) of 55,095 articles have been extended.
+55,081 (100.0%) of 55,081 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### Trincomalee District preferential vote results
-
-*2024-11-15 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103518/trincomalee-district-preferential-vote-results-) · `en`
-
-The preferential vote results of the Trincomalee District in the 2024 General Election have been released.
-
-NPP’s Arun Hemachandra has polled the highest number of preferential votes in the Trincomalee District.
-
-Imran Maharoof has obtained the highest number of preferential votes for the SJB and secures the only parliamentary seat for the party in the district, while ITAK’s Shanmugam Kugathasan also secured a single seat for the party.
-
-◼️
-
-[Data](articles/8d1087a3.json)
-
-[Extended Data](ext_articles/8d1087a3.ext.json)
-
----
-
-### Preferential vote results of Nuwara Eliya District
-
-*2024-11-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103517/preferential-vote-results-of-nuwara-eliya-district-) · `en`
-
-The preferential vote results of the Nuwara Eliya District in the 2024 General Election have been released.
-
-NPP’s Manjula Suraweera Arachchi has polled the highest number of preferential votes in the Nuwara Eliya District.
-
-Palani Digambaran and Velusamy Radhakrishnan have secured two parliamentary seats for the SJB in the district, while Jeewan Thondaman has secured a seat for the United National Party (UNP).
-
-◼️
-
-[Data](articles/468c2a57.json)
-
-[Extended Data](ext_articles/468c2a57.ext.json)
-
----
-
-### Nuwara Eliya Preferences of Matale
-
-*2024-11-15 15:52:07* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-මනාප-ලැයිස්තුව/11-413068) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Nuwara Eliya-Matale preferences: General Election results. List of parliamentarians representing Matale district.
-
-🟩
-
-List of candidates who represented the Parliament representing the Parliament representing the Matale district in the general election.
-
-◼️
-
-[Data](articles/02007661.json)
-
-[Extended Data](ext_articles/02007661.ext.json)
-
----
-
-### Here is the details of those who have been elected to Parliament in Vanni
-
-*2024-11-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198872) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rishad Bathiudeen won Vanni seat with 21,018 votes. Selvam Adakkalanathan got 5,695 votes. Katar Mastan secured 13,511+ votes across parties.
-
-🟩
-
-Rishad Bathiudeen, who has been elected to parliament in the Vanni electoral constituency, has the lowest votes.
-
-Rishad Bathiudeen, who contested the Vanni electoral constituency in Vavuniya, Mannar and Mullaitivu districts, has received a maximum of 21,018 preferential votes.
-
-Selvam Adakkalanathan, who contested the Democratic Tamil National Alliance (TNA) as a low preferential vote, has been elected to Parliament with a 5,695 preferential vote.
-
-In addition, Katar Mastan has elected 13,511 preferential votes in the Sri Lanka Workers Party, 11,215 votes in the Sri Lanka Tamil National Party, 10,652 votes in the National People's Power and 9,280 votes.
-
-◼️
-
-[Data](articles/6a3680d2.json)
-
-[Extended Data](ext_articles/6a3680d2.ext.json)
-
----
-
-### Velukumar, Bharat Arulzamy Out
-
-*2024-11-15 15:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலுகுமார்-பாரத்-அருள்சாமி-அவுட்/76-347263) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Kandy district election results: National People's Power wins 9 seats, United People's Power gets 2, New Democratic Front secures 1 seat.
-
-🟩
-
-The results of the preferential votes in the Kandy district have now been released and the National People's Power has won 9 seats.
-
-The United People's Power has won 02 seats and the New Democratic Front has won 01 seats.
-
-◼️
-
-[Data](articles/9eaca262.json)
-
-[Extended Data](ext_articles/9eaca262.ext.json)
-
----
-
-### The end result and how the seat split
-
-*2024-11-15 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අවසන්-ප්‍රතිඵලය-හා-ආසන-බෙදී-ගිය-අයුරු/11-413067) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Elections Commission announces 2024 general election results: National Folk Force wins 159 seats, achieving two-thirds majority. This marks a rare opportunity for a single party to dominate parliament in recent history.
-
-🟩
-
-The Elections Commission officially announced the end result of the 2024 general election and the MPs (with national list).
-
-The national folk force was obtained by providing 159 members and a two-thirds majority.
-
-This is a unique opportunity to a single party in recent history as a unique opportunity for a single party.
-
-◼️
-
-[Data](articles/a44e1b9d.json)
-
-[Extended Data](ext_articles/a44e1b9d.ext.json)
-
----
-
-### களுத்துறை விருப்பு வாக்கில் NPP முதலிடம்
-
-*2024-11-15 15:44:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-விருப்பு-வாக்கில்-NPP-முதலிடம்/175-347262) · `ta`
-
-◼️
-
-[Data](articles/0c0586ed.json)
-
----
-
-### NPP number one in Kalutara preferred
-
-*2024-11-15 15:44:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-விருப்பு-வாாக்கில்-NPP-முதலிடம்/175-347262) · `ta`
-
-Here's a summary of "NPP number one in Kalutara preferred" in approximately 200 characters:
-
-
-
-"NPP (National People's Party) leads in popularity rankings for Kalutara district. Voters prefer NPP over other political parties in this region."
-
-
-
-This summary captures the main idea while staying within the character limit. It conveys that NPP is the top choice in Kalutara and implies that this preference extends to the voting population.
-
-🟩
-
-◼️
-
-[Data](articles/4ab043a3.json)
-
-[Extended Data](ext_articles/4ab043a3.ext.json)
-
----
-
-### Kalutara District preferential vote results released
-
-*2024-11-15 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103516/kalutara-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Kalutara District in the 2024 General Election have been released.
-
-NPP’s Nalinda Jayatissa has polled the highest number of preferential votes in the Kalutara District.
-
-Ajith Perera and Jagath Vithana have obtained the highest number of preferential votes to secure two parliamentary seats for the SJB in the district, while Rohitha Abeygunawardhana secured a seat for the New Democratic Front (NDF).
-
-◼️
-
-[Data](articles/70e52d8a.json)
-
-[Extended Data](ext_articles/70e52d8a.ext.json)
-
----
-
-### 18 National List Asanas for Anura: Here are the full details
-
-*2024-11-15 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198868) · `ta`
-
-National List allocations: NPP (18), UPF (5+40), TNA (8), New Democratic Front (5+2), SLMC (3). Total seats: 159+40+8+5+3=215.
-
-🟩
-
-The National List seats are allocated to each parties based on the seats they have received in the general election.
-
-The National People's Power, led by President Anura Kumara Dissanayake, has received 18 national list seats and the party has received a total of 159 seats.
-
-Meanwhile, the United People's Power, led by Sajith Premadasa, got 5 seats through the national list and 40 seats were available to the coalition.
-
-The Sri Lanka TNA has received a total of 8 seats with a national list seat.
-
-The new Democratic Front, led by former President Ranil Wickremesinghe, has received 5 seats with 2 national list seats.
-
-The party has received 3 seats through a national list seat available to the Sri Lanka Muslim Congress.
-
-◼️
-
-[Data](articles/65a1ce98.json)
-
-[Extended Data](ext_articles/65a1ce98.ext.json)
-
----
-
-### Anuradhapura District preferential vote results released
-
-*2024-11-15 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103515/anuradhapura-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Anuradhapura District in the 2024 General Election have been released.
-
-NPP’s Wasantha Samarasinghe has polled the highest number of preferential votes in the Anuradhapura District.
-
-Rohana Bandara and Suranga Rathnayaka have obtained the highest number of preferential votes to secure two parliamentary seats for the SJB in the district.
-
-◼️
-
-[Data](articles/10db6820.json)
-
-[Extended Data](ext_articles/10db6820.ext.json)
-
----
 
 ### Special NPP press conference after election victory
 
@@ -733,26 +499,6 @@ Former MP Rohini Kawirathne has received the highest preferential votes from the
 [Data](articles/317f7382.json)
 
 [Extended Data](ext_articles/317f7382.ext.json)
-
----
-
-### Sunil Handunnetti to be taken by First
-
-*2024-11-15 12:14:15* · [`adalk`](https://www.ada.lk/breaking_news/සුනිල්-හඳුන්නෙත්ති-මාතරින්-පළමුවැනියා-වෙමින්-පාර්ලිමේන්තුවට/11-413066) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Sunil Handunnetti will be acquired by First. This statement summarizes the key information about Sunil Handunnetti's acquisition by First in a concise manner."
-
-🟩
-
-◼️
-
-[Data](articles/91c45e51.json)
-
-[Extended Data](ext_articles/91c45e51.ext.json)
 
 ---
 
@@ -2131,5 +1877,235 @@ Accordingly, the NPP has secured 8 seats in the district while the SJB has won t
 [Data](articles/09c78784.json)
 
 [Extended Data](ext_articles/09c78784.ext.json)
+
+---
+
+### 8 seats in Kalutara
+
+*2024-11-15 07:51:25* · [`adalk`](https://www.ada.lk/breaking_news/කළුතරින්-මාලිමාවට-ආසන-8ක්/11-413055) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Kalutara: National Folk Force wins 8 seats, Reconciliation Party gets 2, New Democratic Front also secures seats.
+
+🟩
+
+The entire result of the Kalutara District has been released now. Accordingly, the national folk force has won the district and won eight seats. The reconciliation has seated two seats and the New Democratic Front.
+
+◼️
+
+[Data](articles/853ce690.json)
+
+[Extended Data](ext_articles/853ce690.ext.json)
+
+---
+
+### The Anura team captured Kalutara
+
+*2024-11-15 07:50:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறையை-கைப்பற்றியது-அனுர-அணி/175-347222) · `ta`
+
+Here's a 200-character summary:
+
+
+
+"Anura team seizes Kalutara. Strategic victory boosts morale and territorial control."
+
+🟩
+
+◼️
+
+[Data](articles/c72b8904.json)
+
+[Extended Data](ext_articles/c72b8904.ext.json)
+
+---
+
+### NPP also leads several polling divisions of Gampaha
+
+*2024-11-15 07:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103483/npp-also-leads-several-polling-divisions-of-gampaha) · `en`
+
+The National People’s Power (NPP) has secured victories in the Meerigama, Kolonna, Gampaha, Kalawewa, Dodangaslanda, Galgamuwa, Wariyapola, Kopay and Anamaduwa polling divisions.
+
+◼️
+
+[Data](articles/8e1c8501.json)
+
+[Extended Data](ext_articles/8e1c8501.ext.json)
+
+---
+
+### Aravindakumar out
+
+*2024-11-15 07:23:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/அரவிந்தகுமார்-அவுட்/76-347220) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former MP Aravindakumar lost re-election in Badulla district this year.
+
+🟩
+
+Former parliamentarian Aravindakumar, who contested the Badulla district in Badulla district, lost the general election this year.
+
+◼️
+
+[Data](articles/a33b80ee.json)
+
+[Extended Data](ext_articles/a33b80ee.ext.json)
+
+---
+
+### Trouble for both pushed
+
+*2024-11-15 07:15:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தள்ளாடிய-இருவருக்கும்-சிக்கல்/175-347219) · `ta`
+
+2 police officers arrested at voting station.
+
+🟩
+
+Two police officers from the ground at the Voting Station No. 98 have been arrested by the Tissamaharama Police on the directive of the Assistant Superintendent of Police Tissamaharama.
+
+A police sergeant on duty in the Moneragala Division and the police officer who works at the Kirinda Police Station has been arrested.
+
+◼️
+
+[Data](articles/7edbb418.json)
+
+[Extended Data](ext_articles/7edbb418.ext.json)
+
+---
+
+### Firing at Homagama
+
+*2024-11-15 07:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகமவில்-துப்பாக்கிச்-சூடு/175-347218) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Unidentified gunman fires at businessman in Homagama. Victim rushed to hospital with two bullets. Police investigating motive, suspecting possible revenge attack.
+
+🟩
+
+Homagama headquarters police said that an unidentified person in the Homagama, Kalawalawatta area had fired a man who was allegedly a businessman.
+
+Police said that the man who was shot dead was admitted to the Homagama Resource Hospital and two bullets were flowing in his body.
+
+Police said the person who was targeted at the shooting was receiving treatment at the hospital after the surgery.
+
+Based on the preliminary information, a senior police officer said that the shooting may have been aimed at revenge.
+
+◼️
+
+[Data](articles/973acdc5.json)
+
+[Extended Data](ext_articles/973acdc5.ext.json)
+
+---
+
+### NPP wins in Colombo-Central, Moratuwa, Gampola, Nawalapitiya and Udunuwara
+
+*2024-11-15 07:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103482/npp-wins-in-colombo-central-moratuwa-gampola-nawalapitiya-and-udunuwara) · `en`
+
+The National People’s Power (NPP) has emerged victorious in the Moratuwa and Colombo-Central polling divisions in the Colombo District and Gampola, Nawalapitiya and Udunuwara polling divisions in Kandy District.
+
+◼️
+
+[Data](articles/84a31325.json)
+
+[Extended Data](ext_articles/84a31325.ext.json)
+
+---
+
+### 9 more polling divisions including Kopay, Kalawewa goes to NPP
+
+*2024-11-15 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103481/9-more-polling-divisions-including-kopay-kalawewa-goes-to-npp) · `en`
+
+The National People’s Power (NPP) has secured victories in the Mawathagama, Nikaweratiya, Balangoda, Kalawewa, Dodangaslanda, Galgamuwa, Wariyapola, Kopay and Anamaduwa polling divisions.
+
+◼️
+
+[Data](articles/833fca28.json)
+
+[Extended Data](ext_articles/833fca28.ext.json)
+
+---
+
+### The coffee was also lost
+
+*2024-11-15 06:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கோப்பாயும்-பறிபோனது/71-347217) · `ta`
+
+Here's a summary of "The coffee was also lost" in approximately 200 characters:
+
+
+
+"The coffee, once eagerly anticipated, vanished without a trace. Its disappearance left a bitter taste, not just from the undrinkable brew, but from the unfulfilled promise of a morning pick-me-up."
+
+🟩
+
+◼️
+
+[Data](articles/56a57543.json)
+
+[Extended Data](ext_articles/56a57543.ext.json)
+
+---
+
+### Five seats to compress from Nuwara Eliya
+
+*2024-11-15 06:57:34* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියෙන්-මාලිමාවට-ආසන-පහක්/11-413054) · `si`
+
+Nuwara Eliya election results: 5 seats for national party, 2 for UNP.
+
+🟩
+
+The entire results of the Nuwara Eliya district released. Accordingly, the national propice has five seats and two seats for the United National Party and the UNP.
+
+◼️
+
+[Data](articles/a9557462.json)
+
+[Extended Data](ext_articles/a9557462.ext.json)
+
+---
+
+### NPP wins 5 seats in Nuwara Eliya District
+
+*2024-11-15 06:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103480/npp-wins-5-seats-in-nuwara-eliya-district) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Nuwara Eliya District in the 2024 General Election with the National People’s Power (NPP) polling more than 41% of the total votes in the district.
+
+NPP has polled 161,167 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 53,200 votes (26.21%).
+
+Accordingly, the NPP has secured 5 seats in the district while the SJB has won two seats and the UNP a single seat in the district.
+
+◼️
+
+[Data](articles/82cfa121.json)
+
+[Extended Data](ext_articles/82cfa121.ext.json)
+
+---
+
+### Mattala is also convenient
+
+*2024-11-15 06:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளையும்-அனுர-வசமானது/175-347216) · `ta`
+
+Here's a summary of "Mattala is also convenient" in approximately 200 characters:
+
+
+
+Convenience factor of Mattala: Positive aspects outweigh drawbacks. Easy access, modern amenities, and efficient services contribute to overall comfort. While challenges exist, benefits make it a practical choice for travelers.
+
+🟩
+
+◼️
+
+[Data](articles/972de8f4.json)
+
+[Extended Data](ext_articles/972de8f4.ext.json)
 
 ---

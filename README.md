@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 11:13:00**
+As of **2024-11-15 11:42:36**
 
 ## Newspaper Stats
 
-*Scraped **55,030** Articles*
+*Scraped **55,043** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 425
+dbsjeyarajcom | 426
 bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,289
-economynextcom | 3,340
+economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
-adalk | 5,154
-adaderanalk | 6,626
-tamilmirrorlk | 7,789
+adalk | 5,155
+adaderanalk | 6,629
+tamilmirrorlk | 7,791
 virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,101 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,027 (100.0%) of 55,030 articles have been extended.
+55,034 (100.0%) of 55,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Final polling division result of General Election released
+
+*2024-11-15 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103504/final-polling-division-result-of-general-election-released) · `en`
+
+The final polling division result of 2024 General Election has been released by the Election Commission with the release of the results for the Sammanthurai polling division in the Digamadulla District.
+
+The National People’s Power (NPP) has topped the polling division with 20,963 votes followed by the All Ceylon Makkal Congress (ACMC) which has received 12,640 votes.
+
+◼️
+
+[Data](articles/22debc74.json)
+
+---
+
+### To the Colombo compass
+
+*2024-11-15 11:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பும்-திசைக்காட்டிக்கு/175-347244) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Colombo Compass: A navigation tool for developers, providing insights into codebases, performance optimization tips, and best practices. It helps identify potential issues and suggests improvements to enhance overall code quality and maintainability.
+
+🟩
+
+◼️
+
+[Data](articles/74ffd6e0.json)
+
+[Extended Data](ext_articles/74ffd6e0.ext.json)
+
+---
+
+### Colombo District final results: NPP secures 14 seats, SJB wins 4
+
+*2024-11-15 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103503/colombo-district-final-results-npp-secures-14-seats-sjb-wins-4) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Colombo District in the 2024 General Election with the National People’s Power (NPP) polling more than 68% of the total votes in the district.
+
+NPP has polled 788,636 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 208,249 votes (18.12%).
+
+The NPP has secured 14 seats in the district while the SJB has won 4 seats in the district.
+
+◼️
+
+[Data](articles/75fb779a.json)
+
+---
+
+### Galle District preferential vote results released
+
+*2024-11-15 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103502/galle-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Galle District in the 2024 General Election have been released.
+
+NPP’s Nalin Hewage has polled the highest number of preferential votes in the Galle District.
+
+Former MP Gayantha Karunathilake has received the highest preferential votes from the SJB and secures its only seat while SLPP’s single seat for the district was secured by Chanaka Sampath.
+
+◼️
+
+[Data](articles/a0ef9f97.json)
+
+[Extended Data](ext_articles/a0ef9f97.ext.json)
+
+---
+
+### Sri Lankan election in international media ...
+
+*2024-11-15 11:09:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-ஊடகங்களில்-இலங்கை-தேர்தல்/175-347243) · `ta`
+
+Here's a summary of the Sri Lankan election in international media in approximately 200 characters:
+
+
+
+"International news outlets report Sri Lanka's 10th parliamentary election has concluded. Coverage focuses on voter turnout, key political parties, and potential implications for the island nation's future."
+
+🟩
+
+The international media has reported that the general election for the country's 10th parliament is over.
+
+◼️
+
+[Data](articles/bb358551.json)
+
+[Extended Data](ext_articles/bb358551.ext.json)
+
+---
 
 ### Hambantota District preferential vote results
 
@@ -46,27 +136,49 @@ Dilip Wedaarachchi has received the highest preferential votes from the SJB and 
 
 [Data](articles/b7bd8dba.json)
 
+[Extended Data](ext_articles/b7bd8dba.ext.json)
+
 ---
 
-### பெரும்பான்மை தேசிய மக்கள் சக்திக்கு
+### For the majority of national people's power
 
 *2024-11-15 11:03:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெரும்பான்மை-தேசிய-மக்கள்-சக்திக்கு/175-347242) · `ta`
 
-2024 பொதுத் தேர்தலில் இதுவரை வெளியாகியுள்ள வாக்குப்பதிவு முடிவுகளின்படி, 123 ஆசனங்களுடன் தேசிய மக்கள் சக்தி பெரும்பான்மை பலத்தை பெற்றுள்ளது.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National People's Power wins majority in 2024 general elections with 123 seats.
+
+🟩
+
+According to the voting results released so far in 2024 general elections, the national people's power has gained a majority with 123 seats.
 
 ◼️
 
 [Data](articles/70a4e0ea.json)
 
+[Extended Data](ext_articles/70a4e0ea.ext.json)
+
 ---
 
-### ஹம்பந்தோட்டையை கைப்பற்றிய திசைக்காட்டி
+### The tyrannist who captured the Hambantotottai
 
 *2024-11-15 10:58:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹம்பந்தோட்டையை-கைப்பற்றிய-திசைக்காட்டி/175-347241) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Tyrannist captures Hambantotta.
+
+🟩
 
 ◼️
 
 [Data](articles/f5b05dc0.json)
+
+[Extended Data](ext_articles/f5b05dc0.ext.json)
 
 ---
 
@@ -114,6 +226,28 @@ Accordingly, with this, the NPP has now secured a two-thirds majority in the Par
 
 ---
 
+### Sri Lanka President’s NPP secures parliamentary majority
+
+*2024-11-15 10:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-npp-secures-parliamentary-majority-187935/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Kumara Dissanayake has secured a majority in parliament, according to official results declared so far by the by the island’s Elections Commission.
+
+The NPP contesting under the Malimawa (compass) symbol secured 113 seats with of the 225 member assembly, data released by the the Elections Commissions website showed, with full results yet to be declared.
+
+NPP secured 123 seats by winning 16 seats in the Gampaha district.
+
+The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 31 seats.
+
+The NPP has received 6.8 million or 61 percent of the votes counted, taking a commanding lead over its rivals and is on track to get a two thirds majority.
+
+Soon after casting his vote, President Anura Dissanayake said, a simple majority would be sufficient and those who got two thirds in the past had mis-used it.
+
+...
+
+[Data](articles/0535966a.json)
+
+---
+
 ### Gampaha
 
 *2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
@@ -127,6 +261,26 @@ Gampaha: A district in western Sri Lanka known for its agricultural production a
 [Data](articles/4fbe34f8.json)
 
 [Extended Data](ext_articles/4fbe34f8.ext.json)
+
+---
+
+### Sri Lanka President’s party achieves historic win in the North
+
+*2024-11-15 10:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-party-achieves-historic-win-in-the-north-187940/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s party has scored a historic victory in the Tamil-dominated northern province of Jaffna, paving the way for a significant majority in Parliament, where it previously held just three seats.
+
+Dissanayake’s National People’s Power (NPP) emerged as the largest single party in the cultural capital of the minority Tamils, where traditional parties were deeply divided.
+
+Official results show that Thursday’s election victory for the NPP in Jaffna marks the first win by a southern party in the region since the introduction of the new proportional representation system under the 1978 Constitution.
+
+Since gaining independence from Britain in 1948, no southern party has politically dominated the north.
+
+However, in the 1947 state council elections, the United National Party (UNP) won seats by fielding Tamil candidates.
+
+...
+
+[Data](articles/81fdbfda.json)
 
 ---
 
@@ -179,6 +333,16 @@ The following are the details of the former MPs who have now ruled ...
 [Data](articles/c0b8b6cc.json)
 
 [Extended Data](ext_articles/c0b8b6cc.ext.json)
+
+---
+
+### පොලොන්නරුව මනාප බෙදී ගිය හැටි
+
+*2024-11-15 10:13:11* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-මනාප-බෙදී-ගිය-හැටි/11-413061) · `si`
+
+◼️
+
+[Data](articles/0404734d.json)
 
 ---
 
@@ -1356,6 +1520,42 @@ Election results from Vanni District in Mullaitivu show [X] party winning [Y] se
 
 ---
 
+### In Sri Lanka elections 2024, President’s NPP party heads for landslide
+
+*2024-11-15 05:49:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-elections-2024-presidents-npp-party-heads-for-landslide-187769/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s National People’s Power is heading for a landslide in the 2024 parliamentary elections, and is on track for a two – thirds majority, results released so far shows.
+
+The NPP contesting under its Malimawa also became the largest party in Jaffna, overtaking traditional parties in the area, radically improving its performance from September presidential polls.
+
+Sri Lanka went to polls in a stabilization crisis coming after the worst currency collapse in the history of the island’s central bank, which ended in a sovereign default.
+
+Ex-President Ranil Wickremesinghe, who oversaw the stabilization, under an International Monetary Fund program – the 17th such program triggered by the central bank with rate cuts and liquidity injections to boost growth – lost to Anura Dissanayake in September.
+
+...
+
+[Data](articles/dd1044e3.json)
+
+---
+
+### UK removes Arugam Bay threats from Sri Lanka travel advice, Israel slashes warning
+
+*2024-11-15 05:48:00* · [`economynextcom`](https://economynext.com/uk-removes-arugam-bay-threats-from-sri-lanka-travel-advice-israel-slashes-warning-187872/) · `en`
+
+ECONOMYNEXT – The United Kingdom has removed references to a possible attack in Arugam Bay from its regular travel advice, while Israel has also reduced its threat level while Israel has slashed a threat level of 4 to 2, following arrests of several suspects, a media report said.
+
+The UK travel advice was updated, with references to a possible attack on Arugam Bay removed.
+
+Israel media reports said a state agency removed its own travel warning to citizens.
+
+“The National Security Council, which publishes travel advisories, said it was lowering the warning level for Sri Lanka’s Arugam Bay area from four, which indicates a highly credible threat, to two, indicating a milder occasional threat,” the Times of Israel newspaper said.
+
+...
+
+[Data](articles/fe04b3f1.json)
+
+---
+
 ### Gampaha District postal vote results released
 
 *2024-11-15 05:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103474/gampaha-district-postal-vote-results-released) · `en`
@@ -1755,181 +1955,5 @@ Flying Colombo West: A summary in 200 characters would be challenging without mo
 [Data](articles/6e94c7dd.json)
 
 [Extended Data](ext_articles/6e94c7dd.ext.json)
-
----
-
-### Nuwara Eliya District Kothmalai Election constituency
-
-*2024-11-15 05:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198803) · `ta`
-
-Nuwara Eliya District Kothmalai Election constituency summary: A parliamentary constituency located in central Sri Lanka. It covers parts of Nuwara Eliya District and is known for its tea plantations and scenic beauty. The area has a mix of urban and rural populations, influencing local politics and development priorities.
-
-🟩
-
-◼️
-
-[Data](articles/703ae635.json)
-
-[Extended Data](ext_articles/703ae635.ext.json)
-
----
-
-### Sajith conquered Muttur
-
-*2024-11-15 04:55:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூதூரை-அள்ளினார்-சஜித்/175-347200) · `ta`
-
-Sajith Premadasa leads United People's Power to victory in Muttur constituency, Trincomalee district.
-
-🟩
-
-The United People's Power, led by Sajith Premadasa, has won the Muttur constituency in the Trincomalee district.
-
-◼️
-
-[Data](articles/d948efe9.json)
-
-[Extended Data](ext_articles/d948efe9.ext.json)
-
----
-
-### Thai AirAsia to promote Buddhist pilgrimage tourism
-
-*2024-11-15 04:54:34* · [`dailyftlk`](https://www.ft.lk/news/Thai-AirAsia-to-promote-Buddhist-pilgrimage-tourism/56-769281) · `en`
-
-Key initiative facilitated by Embassy and Permanent Mission of Sri Lanka in Thailand
-
-The Embassy and Permanent Mission of Sri Lanka in Thailand recently facilitated the visit of a 21-member production team from Thai AirAsia, including the two renowned Thai YouTubers, Kongkapan Sangsuriya and Saksit Tangthong to Sri Lanka to promote Buddhist pilgrimage tourism. This initiative aims to highlight the deep historical and religious connections between Sri Lanka and Thailand, while showcasing Sri Lanka’s rich Buddhist heritage to Thai travellers.
-
-The program, broadcast on the Thai Channel, Channel 7 HD TV and YouTube channels, reached a wide audience in Thailand, educating viewers on the shared Buddhist ties between the two countries. This is expected to further strengthen religious tourism and attract more Thai visitors to Sri Lanka’s revered Buddhist sites.
-
-...
-
-[Data](articles/f278e520.json)
-
-[Extended Data](ext_articles/f278e520.ext.json)
-
----
-
-### Matara District final election results
-
-*2024-11-15 04:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198820) · `ta`
-
-Here's a summary of the Matara District final election results in approximately 200 characters:
-
-
-
-"Matara District election results: [Candidate A] wins with [X%] votes, followed by [Candidate B] with [Y%]. Turnout was [Z%]. Key issues: [Issue 1], [Issue 2]. Analysis: [Brief analysis of results]."
-
-🟩
-
-◼️
-
-[Data](articles/b8bd9634.json)
-
-[Extended Data](ext_articles/b8bd9634.ext.json)
-
----
-
-### Embassy of Sri Lanka in US participates in Katina ceremonies
-
-*2024-11-15 04:53:32* · [`dailyftlk`](https://www.ft.lk/news/Embassy-of-Sri-Lanka-in-US-participates-in-Katina-ceremonies/56-769280) · `en`
-
-Ambassador of Sri Lanka to the United States, Mahinda Samarasinghe and Embassy officials attended the Katina (Cheevara/ Robe Offering) ceremonies conducted by several Buddhist Viharas in the USA.
-
-The Katina ceremony is a significant religious event that marks the end of the Vassa (rainy season retreat) emphasising the community’s support for the monastic Sangha. The celebrations highlight the importance of this annual gathering of Buddhist community as a time for reflection, solidarity, and merit-making.
-
-...
-
-[Data](articles/a31d77f8.json)
-
-[Extended Data](ext_articles/a31d77f8.ext.json)
-
----
-
-### Kanchana Wijesekara defeated
-
-*2024-11-15 04:52:37* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-විජේසේකර-පරාදයි/11-413050) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Kanchana Wijesekara won against the New Democratic Front in Matara. The party secured 6 seats but couldn't enter Parliament due to reconciliation issues.
-
-🟩
-
-The new Democratic Front, who contested in the New Democratic Front, is unable to access Parliament this year's general election.. It was with the new Democratic Front of the New Democratic Front in Matara. The National Water Force in Matara District was six seats and a reconciliation.
-
-◼️
-
-[Data](articles/2a0bc3c9.json)
-
-[Extended Data](ext_articles/2a0bc3c9.ext.json)
-
----
-
-### Lankan envoy participates in Tripitaka Chanting and Asela Buddhist Festival 2024 in Indonesia
-
-*2024-11-15 04:52:21* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-participates-in-Tripitaka-Chanting-and-Asela-Buddhist-Festival-2024-in-Indonesia/56-769279) · `en`
-
-Ambassador of Sri Lanka to Indonesia and ASEAN, Admiral (Prof.) Jayanath Colombage, attended the Indonesian Tripitaka Chanting and Asela Mahapuja – 2024, held at the famous World Heritage site of Borobudur Temple in Central Java from 12 to 14 July, as a special guest. The recitation was conducted by Buddhist monks from Indonesia, India, Cambodia, and Sri Lanka, with the purpose of invoking blessings for people around the world. Three Sri Lankan Buddhist monks who are visiting Indonesia as part of the Temple-to-Temple Diplomacy program also participated in this Tripitaka Chanting at Borobudur.
-
-The event, attended by 5,000 participants including Buddhist monks, Novice monks, female Atthasilanis and devotees, was organised by Sangha Theravada Indonesia together with Wanitha Theravada Indonesia (WANDANI), Majelis Agama Buddha Indonesia (MAGABUDHI), Pemuda Theravada Indonesia (PATRIA), and Atthasilani Theravada Indonesia (ASTINDA).
-
-...
-
-[Data](articles/ecd361a0.json)
-
-[Extended Data](ext_articles/ecd361a0.ext.json)
-
----
-
-### NPP wins in Borella, Colombo-West, Colombo-East and Horana
-
-*2024-11-15 04:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103468/npp-wins-in-borella-colombo-west-colombo-east-and-horana) · `en`
-
-The National People’s Power (NPP) has secured victories in the Colombo-West and Borella polling divisions in Colombo District and Horana polling division in Kalutara District.
-
-◼️
-
-[Data](articles/431395fb.json)
-
-[Extended Data](ext_articles/431395fb.ext.json)
-
----
-
-### Badulla District Uwabaranagama Election constituency
-
-*2024-11-15 04:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198815) · `ta`
-
-Here's a summary of Badulla District Uwabaranagama Election constituency in approximately 200 characters:
-
-
-
-Uwabaranagama is an electorate in Sri Lanka's Badulla District. It covers parts of Uva Province and is known for its diverse population and agricultural landscape. The constituency has played a significant role in local politics, with various political parties contesting elections here over the years.
-
-🟩
-
-◼️
-
-[Data](articles/c7edd5de.json)
-
-[Extended Data](ext_articles/c7edd5de.ext.json)
-
----
-
-### Lankan envoy in Myanmar meets with Chief Minister and Mayor of Yangon
-
-*2024-11-15 04:46:16* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Myanmar-meets-with-Chief-Minister-and-Mayor-of-Yangon/56-769277) · `en`
-
-Ambassador of Sri Lanka to Myanmar Prabashini Ponnamperuma held meetings with the Yangon Region Chief Minister U Soe Thein and Yangon City Development Committee (YCDC) Chairman and Mayor U Bo Htay on 30 October 2024 in Yangon, Myanmar.
-
-Discussions were centred mainly on enhancing cooperation between the two countries in trade, economic and investment sectors. Accordingly, the requirement for expansion of existing long-standing and cordial relations between the two countries towards collaboration in investment and trade sectors was highlighted, while reminiscing about the 75th anniversary of the establishment of diplomatic relations between Sri Lanka and Myanmar.
-
-...
-
-[Data](articles/eb97c3ef.json)
-
-[Extended Data](ext_articles/eb97c3ef.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 16:41:09**
+As of **2024-11-15 16:59:00**
 
 ## Newspaper Stats
 
@@ -227,6 +227,22 @@ Ajith Perera and Jagath Vithana have obtained the highest number of preferential
 [Data](articles/70e52d8a.json)
 
 [Extended Data](ext_articles/70e52d8a.ext.json)
+
+---
+
+### Timely theatrical exploration of Middle East conflict
+
+*2024-11-15 15:33:00* · [`islandlk`](http://island.lk/timely-theatrical-exploration-of-middle-east-conflict/) · `en`
+
+In what amounted to a refreshing change for the politically-conscious of Sri Lanka and the world, the Longsuffering of the peoples of the Middle East was made to come alive on stage recently through two short plays. The venue for the engaging pieces of drama, staged on November 8th, was the ‘Kolombo Kamatha’ theatre at the BMICH and the organizer of the notable experience was the Bandaranaike Centre for International Studies (BCIS), Colombo.
+
+The BCIS is in the process of celebrating the 50th anniversary of its establishment in 1974 through a series of events and projects of an educational and artistic nature throughout November and the plays were part of this wider commemorative enterprise. The relevant programs are being conducted by the BCIS staff under the guidance of the institution’s Executive Director Ms. Priyanthi Fernando.
+
+...
+
+[Data](articles/862ae240.json)
+
+[Extended Data](ext_articles/862ae240.ext.json)
 
 ---
 
@@ -2123,23 +2139,5 @@ Shane Pradees, who contested on behalf of the team, climbed into the tea mountai
 [Data](articles/a9502127.json)
 
 [Extended Data](ext_articles/a9502127.ext.json)
-
----
-
-### NPP, SJB, NDF win seats in Kalutara District
-
-*2024-11-15 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103484/npp-sjb-ndf-win-seats-in-kalutara-district) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Kalutara District in the 2024 General Election with the National People’s Power (NPP) polling more than 66% of the total votes in the district.
-
-NPP has polled 452,398 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 53,200 votes (18.84%).
-
-Accordingly, the NPP has secured 8 seats in the district while the SJB has won two seats and the NDF a single seat in the district.
-
-◼️
-
-[Data](articles/09c78784.json)
-
-[Extended Data](ext_articles/09c78784.ext.json)
 
 ---

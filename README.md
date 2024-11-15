@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 12:17:59**
+As of **2024-11-15 11:42:36**
 
 ## Newspaper Stats
 
-*Scraped **55,045** Articles*
+*Scraped **55,043** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,155
-adaderanalk | 6,630
-tamilmirrorlk | 7,792
+adaderanalk | 6,629
+tamilmirrorlk | 7,791
 virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
@@ -26,37 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,042 (100.0%) of 55,045 articles have been extended.
+55,034 (100.0%) of 55,043 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### திகாமடுல்லையை கைப்பற்றிய திசைக்காட்டி
-
-*2024-11-15 11:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்லையை-கைப்பற்றிய-திசைக்காட்டி/175-347245) · `ta`
-
-◼️
-
-[Data](articles/e0800902.json)
-
----
-
-### Badulla District preferential vote results released
-
-*2024-11-15 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103505/badulla-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Badulla District in the 2024 General Election have been released.
-
-NPP’s Samantha Vidyaratna has polled the highest number of preferential votes in the Badulla District.
-
-Former MPs Chaminda Wijesiri and Nayana Wasalathilake have received the highest preferential votes from the SJB to secure the two parliamentary seats while NDF’s single seat for the district was secured by former MP Chamara Sampath Dassanayake.
-
-◼️
-
-[Data](articles/3f4353e0.json)
-
----
 
 ### Final polling division result of General Election released
 
@@ -69,8 +43,6 @@ The National People’s Power (NPP) has topped the polling division with 20,963 
 ◼️
 
 [Data](articles/22debc74.json)
-
-[Extended Data](ext_articles/22debc74.ext.json)
 
 ---
 
@@ -107,8 +79,6 @@ The NPP has secured 14 seats in the district while the SJB has won 4 seats in th
 ◼️
 
 [Data](articles/75fb779a.json)
-
-[Extended Data](ext_articles/75fb779a.ext.json)
 
 ---
 
@@ -276,8 +246,6 @@ Soon after casting his vote, President Anura Dissanayake said, a simple majority
 
 [Data](articles/0535966a.json)
 
-[Extended Data](ext_articles/0535966a.ext.json)
-
 ---
 
 ### Gampaha
@@ -313,8 +281,6 @@ However, in the 1947 state council elections, the United National Party (UNP) wo
 ...
 
 [Data](articles/81fdbfda.json)
-
-[Extended Data](ext_articles/81fdbfda.ext.json)
 
 ---
 
@@ -370,23 +336,13 @@ The following are the details of the former MPs who have now ruled ...
 
 ---
 
-### How Polonnaruwa Preferences
+### පොලොන්නරුව මනාප බෙදී ගිය හැටි
 
 *2024-11-15 10:13:11* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-මනාප-බෙදී-ගිය-හැටි/11-413061) · `si`
-
-Here's a summary of "How Polonnaruwa Preferences" in approximately 200 characters:
-
-
-
-Polonnaruwa preferences refer to the cultural, historical, and architectural influences shaping this ancient Sri Lankan city. The site showcases Buddhist art, architecture, and urban planning from the 12th century. Its layout reflects a sophisticated irrigation system and royal palaces, demonstrating advanced engineering skills of the time.
-
-🟩
 
 ◼️
 
 [Data](articles/0404734d.json)
-
-[Extended Data](ext_articles/0404734d.ext.json)
 
 ---
 
@@ -1580,8 +1536,6 @@ Ex-President Ranil Wickremesinghe, who oversaw the stabilization, under an Inter
 
 [Data](articles/dd1044e3.json)
 
-[Extended Data](ext_articles/dd1044e3.ext.json)
-
 ---
 
 ### UK removes Arugam Bay threats from Sri Lanka travel advice, Israel slashes warning
@@ -1599,8 +1553,6 @@ Israel media reports said a state agency removed its own travel warning to citiz
 ...
 
 [Data](articles/fe04b3f1.json)
-
-[Extended Data](ext_articles/fe04b3f1.ext.json)
 
 ---
 
@@ -1967,5 +1919,41 @@ Here's a summary of the Jaffna District - Kilinochchi election results in approx
 [Data](articles/8c2d044b.json)
 
 [Extended Data](ext_articles/8c2d044b.ext.json)
+
+---
+
+### Jaffna- Kilinochchi Results
+
+*2024-11-15 05:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-கிளிநொச்சி-முடிவுகள்/175-347202) · `ta`
+
+Here's a summary of Jaffna-Kilinochchi results in approximately 200 characters:
+
+
+
+"Jaffna-Kilinochchi election results show mixed outcomes. SLPP leads in Jaffna, while Tamil National Alliance (TNA) performs well in Kilinochchi. Voter turnout was high, reflecting local interest in the polls."
+
+🟩
+
+◼️
+
+[Data](articles/ecb83e44.json)
+
+[Extended Data](ext_articles/ecb83e44.ext.json)
+
+---
+
+### Flying Colombo West
+
+*2024-11-15 05:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தது-கொழும்பு-மேற்கு/175-347201) · `ta`
+
+Flying Colombo West: A summary in 200 characters would be challenging without more context about what "Flying Colombo West" refers to. It could be a location, a project, a company, or something else entirely. Without additional details, it's difficult to provide a concise summary within such a strict character limit. Could you please provide more information about Flying Colombo West?
+
+🟩
+
+◼️
+
+[Data](articles/6e94c7dd.json)
+
+[Extended Data](ext_articles/6e94c7dd.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 11:13:00**
+As of **2024-11-15 11:25:16**
 
 ## Newspaper Stats
 
-*Scraped **55,030** Articles*
+*Scraped **55,034** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 425
+dbsjeyarajcom | 426
 bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,289
@@ -17,8 +17,8 @@ economynextcom | 3,340
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,154
-adaderanalk | 6,626
-tamilmirrorlk | 7,789
+adaderanalk | 6,627
+tamilmirrorlk | 7,791
 virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
@@ -26,11 +26,49 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,027 (100.0%) of 55,030 articles have been extended.
+55,027 (100.0%) of 55,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### கொழும்பும் திசைக்காட்டிக்கு
+
+*2024-11-15 11:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பும்-திசைக்காட்டிக்கு/175-347244) · `ta`
+
+◼️
+
+[Data](articles/74ffd6e0.json)
+
+---
+
+### Galle District preferential vote results released
+
+*2024-11-15 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103502/galle-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Galle District in the 2024 General Election have been released.
+
+NPP’s Nalin Hewage has polled the highest number of preferential votes in the Galle District.
+
+Former MP Gayantha Karunathilake has received the highest preferential votes from the SJB and secures its only seat while SLPP’s single seat for the district was secured by Chanaka Sampath.
+
+◼️
+
+[Data](articles/a0ef9f97.json)
+
+---
+
+### சர்வதேச ஊடகங்களில் இலங்கை தேர்தல்...
+
+*2024-11-15 11:09:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-ஊடகங்களில்-இலங்கை-தேர்தல்/175-347243) · `ta`
+
+நாட்டின் 10வது பாராளுமன்றத்துக்கானபொது தேர்தல் நிறைவடைந்து பெறுபேறுகள் வெளியாகிக்கொண்டிருக்கும் நிலையில், அது தொடர்பிலான செய்திகளை சர்வதேச ஊடகங்கள் இவ்வாறு அறிக்கையிட்டுள்ளன.
+
+◼️
+
+[Data](articles/bb358551.json)
+
+---
 
 ### Hambantota District preferential vote results
 
@@ -1881,55 +1919,5 @@ The event, attended by 5,000 participants including Buddhist monks, Novice monks
 [Data](articles/ecd361a0.json)
 
 [Extended Data](ext_articles/ecd361a0.ext.json)
-
----
-
-### NPP wins in Borella, Colombo-West, Colombo-East and Horana
-
-*2024-11-15 04:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/103468/npp-wins-in-borella-colombo-west-colombo-east-and-horana) · `en`
-
-The National People’s Power (NPP) has secured victories in the Colombo-West and Borella polling divisions in Colombo District and Horana polling division in Kalutara District.
-
-◼️
-
-[Data](articles/431395fb.json)
-
-[Extended Data](ext_articles/431395fb.ext.json)
-
----
-
-### Badulla District Uwabaranagama Election constituency
-
-*2024-11-15 04:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/198815) · `ta`
-
-Here's a summary of Badulla District Uwabaranagama Election constituency in approximately 200 characters:
-
-
-
-Uwabaranagama is an electorate in Sri Lanka's Badulla District. It covers parts of Uva Province and is known for its diverse population and agricultural landscape. The constituency has played a significant role in local politics, with various political parties contesting elections here over the years.
-
-🟩
-
-◼️
-
-[Data](articles/c7edd5de.json)
-
-[Extended Data](ext_articles/c7edd5de.ext.json)
-
----
-
-### Lankan envoy in Myanmar meets with Chief Minister and Mayor of Yangon
-
-*2024-11-15 04:46:16* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-in-Myanmar-meets-with-Chief-Minister-and-Mayor-of-Yangon/56-769277) · `en`
-
-Ambassador of Sri Lanka to Myanmar Prabashini Ponnamperuma held meetings with the Yangon Region Chief Minister U Soe Thein and Yangon City Development Committee (YCDC) Chairman and Mayor U Bo Htay on 30 October 2024 in Yangon, Myanmar.
-
-Discussions were centred mainly on enhancing cooperation between the two countries in trade, economic and investment sectors. Accordingly, the requirement for expansion of existing long-standing and cordial relations between the two countries towards collaboration in investment and trade sectors was highlighted, while reminiscing about the 75th anniversary of the establishment of diplomatic relations between Sri Lanka and Myanmar.
-
-...
-
-[Data](articles/eb97c3ef.json)
-
-[Extended Data](ext_articles/eb97c3ef.ext.json)
 
 ---

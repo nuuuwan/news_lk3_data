@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 13:42:52**
+As of **2024-11-15 14:14:38**
 
 ## Newspaper Stats
 
-*Scraped **55,065** Articles*
+*Scraped **55,071** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,35 +12,101 @@ newsfirstlk | 363
 dbsjeyarajcom | 426
 bbccomsinhala | 559
 colombotelegraphcom | 559
-islandlk | 3,289
+islandlk | 3,291
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
-adaderanalk | 6,634
-tamilmirrorlk | 7,803
-virakesarilk | 8,918
+adaderanalk | 6,636
+tamilmirrorlk | 7,804
+virakesarilk | 8,919
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,061 (100.0%) of 55,065 articles have been extended.
+55,069 (100.0%) of 55,071 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
+### All-island final results of 2024 General Election released
+
+*2024-11-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103511/all-island-final-results-of-2024-general-election-released) · `en`
+
+NPP has won 159 seats after polling a total of over 6.8 million votes, which is 61.56% of the total votes counted.
+
+Meanwhile, Samagi Jana Balawegaya (SJB) becomes the main opposition party of the tenth Parliament after polling over 1.9 million votes (17.66%) and thereby winning 40 seats.
+
+Ilankai Thamil Arasu Kachchi (ITAK) has won 8 seats, New Democratic Front (NDF) has won 5 seats while the Sri Lanka Podujana Peramuna (SLPP) has managed only 3 seats.
+
+◼️
+
+[Data](articles/03a73403.json)
+
+---
+
+### 2 seats in Vanni at NPP
+
+*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னியில்-2-ஆசனங்கள்-NPP-வசம்/175-347257) · `ta`
+
+Here's a summary of "2 seats in Vanni at NPP" in approximately 200 characters:
+
+
+
+N
+
+🟩
+
+◼️
+
+[Data](articles/3e862564.json)
+
+[Extended Data](ext_articles/3e862564.ext.json)
+
+---
+
+### Vanni District preferential vote results released
+
+*2024-11-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103510/vanni-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Vanni District in the 2024 General Election have been released.
+
+SJB’s Rishad Bathiudeen has polled the highest number of preferential votes in the Vanni District.
+
+Thurairasa Ravikumar has received the highest preferential votes from the ITAK to secure its only seat.
+
+Selvathambi Thilakanathan has obtained the highest preferential votes from the NPP.
+
+◼️
+
+[Data](articles/9ba15f2c.json)
+
+[Extended Data](ext_articles/9ba15f2c.ext.json)
+
+---
+
 ### “ தோள் கொடுத்தோருக்கு நன்றி ”
 
 *2024-11-15 13:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோள்-கொடுத்தோருக்கு-நன்றி/175-347256) · `ta`
 
-“ மறுமலர்ச்சி யுகத்தை ஆரம்பிக்க தோள் கொடுத்த  அனைவருக்கும்  நன்றி” என ஜனாதிபதி அனுர திஸாநாயக்க  தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Thank you to those who supported the beginning of the Renaissance Age." This statement expresses gratitude towards individuals who provided encouragement or assistance during a significant period of cultural and artistic transformation.
+
+🟩
+
+President Anura Dissanayake posted on his X site, "Thank you to all who gave the shoulder to start the Renaissance Age."
 
 ◼️
 
 [Data](articles/135917fc.json)
+
+[Extended Data](ext_articles/135917fc.ext.json)
 
 ---
 
@@ -48,13 +114,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-15 13:26:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹரின்-நிமல்-தோல்வி/76-347255) · `ta`
 
-பதுளை மாவட்டத்தில் புதிய ஜனநாயக முன்னணியின் சிலிண்டர் சின்னத்துக்கு ஒரு ஆசனம் கிடைத்தது. அந்த ஆசனம், முன்னாள் அமைச்சர்களான ஹரின் பெர்னாண்டோவுக்கா அல்லது நிமல் சிறிபாலடி சில்வாவுக்கா கிடைக்கப்போகிறது என்ற எதிர்பார்ப்பு இருந்தது.
+Harin Fernando, Nimal Siripaladi Silva lose seats; Samara Sampath Dasanayake elected with 19,359 votes in Badulla district.
 
-எனினும், 19,359 விருப்பு வாக்குகளைப் பெற்று சாமர சம்பத் தசாநாயக்க - புதிய ஜனநாயக முன்னணியின் ஊடாக பாராளுமன்றத்திற்கு தெரிவாகியுள்ளார்.
+🟩
+
+The cylinder symbol of the new Democratic Front in Badulla district got a seat. The seat was expected to be available for former ministers Harin Fernando or Nimal Siripaladi Silva.
+
+However, Samara Sampath Dasanayake has been elected to Parliament through the New Democratic Front with 19,359 votes.
 
 ◼️
 
 [Data](articles/0b5a59fd.json)
+
+[Extended Data](ext_articles/0b5a59fd.ext.json)
 
 ---
 
@@ -71,6 +143,8 @@ Karunananthan Ilankumaran has obtained the highest number of preferential votes 
 ◼️
 
 [Data](articles/00d62345.json)
+
+[Extended Data](ext_articles/00d62345.ext.json)
 
 ---
 
@@ -121,6 +195,30 @@ Former Minister Basir Segudavud, who contested as the chief candidate of the Uni
 [Data](articles/db98f54d.json)
 
 [Extended Data](ext_articles/db98f54d.ext.json)
+
+---
+
+### Sunil Handunnethi received the highest preferences in Matara district
+
+*2024-11-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198861) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sunil Handunnethi tops polls in Matara district. National People's Shakti Party wins six seats. Sunil receives highest preferential votes. Sathura Kalapathi from United People's Power gets 31,196 votes.
+
+🟩
+
+The National People's Shakti Party has won six seats in the Matara district and Sunil has received the highest preferential votes in the Sunil Handunnetti district.
+
+Sathura Kalapathi, who contested on behalf of the United People's Power, received 31,196 preferential votes.
+
+◼️
+
+[Data](articles/87e3e57c.json)
+
+[Extended Data](ext_articles/87e3e57c.ext.json)
 
 ---
 
@@ -219,6 +317,8 @@ Former MP Rohini Kawirathne has received the highest preferential votes from the
 ◼️
 
 [Data](articles/317f7382.json)
+
+[Extended Data](ext_articles/317f7382.ext.json)
 
 ---
 
@@ -706,9 +806,7 @@ Accordingly, with this, the NPP has now secured a two-thirds majority in the Par
 
 ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Kumara Dissanayake has secured a majority in parliament, according to official results declared so far by the by the island’s Elections Commission.
 
-The NPP contesting under the Malimawa (compass) symbol secured 113 seats with of the 225 member assembly, data released by the the Elections Commissions website showed, with full results yet to be declared.
-
-NPP secured 137 seats after winning Colombo and Gampaha districts.
+The NPP contesting under the Malimawa (compass) symbol secured 141 seats with of the 225 member assembly, data released by the the Elections Commissions showed, before the national list.
 
 The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 35 seats.
 
@@ -716,7 +814,9 @@ The NPP has received 6.8 million or 61 percent of the votes counted, taking a co
 
 Soon after casting his vote, President Anura Dissanayake said, a simple majority would be sufficient and those who got two thirds in the past had mis-used it.
 
-...
+The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats and the Sri Lanka Podujana Peramuna has 2 seats.
+
+◼️
 
 [Data](articles/0535966a.json)
 
@@ -1951,79 +2051,5 @@ Here's a summary of Jaffna District Vaddukoddai results in approximately 200 cha
 [Data](articles/b2ba7859.json)
 
 [Extended Data](ext_articles/b2ba7859.ext.json)
-
----
-
-### NPP wins 7 more polling divisions including Dehiwala, Kotte
-
-*2024-11-15 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103475/npp-wins-7-more-polling-divisions-including-dehiwala-kotte) · `en`
-
-The National People’s Power (NPP) has secured victories in the Dehiwala, Kotte, Ududumbara, Naththandiya, Senkadagala, Panduwasnuwara, Dambadeniya polling divisions.
-
-◼️
-
-[Data](articles/bc33e5fc.json)
-
-[Extended Data](ext_articles/bc33e5fc.ext.json)
-
----
-
-### Vanni District Mullaitivu Results
-
-*2024-11-15 05:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-முல்லைத்தீவு-முடிவுகள்/175-347211) · `ta`
-
-Here's a summary of "Vanni District Mullaitivu Results" in approximately 200 characters:
-
-
-
-Election results from Vanni District in Mullaitivu show [X] party winning [Y] seats, while [Z] party secured [W] seats. Voter turnout was [percentage]. Key issues discussed included [topics].
-
-🟩
-
-◼️
-
-[Data](articles/a4146895.json)
-
-[Extended Data](ext_articles/a4146895.ext.json)
-
----
-
-### In Sri Lanka elections 2024, President’s NPP party heads for landslide
-
-*2024-11-15 05:49:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-elections-2024-presidents-npp-party-heads-for-landslide-187769/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s National People’s Power is heading for a landslide in the 2024 parliamentary elections, and is on track for a two – thirds majority, results released so far shows.
-
-The NPP contesting under its Malimawa also became the largest party in Jaffna, overtaking traditional parties in the area, radically improving its performance from September presidential polls.
-
-Sri Lanka went to polls in a stabilization crisis coming after the worst currency collapse in the history of the island’s central bank, which ended in a sovereign default.
-
-Ex-President Ranil Wickremesinghe, who oversaw the stabilization, under an International Monetary Fund program – the 17th such program triggered by the central bank with rate cuts and liquidity injections to boost growth – lost to Anura Dissanayake in September.
-
-...
-
-[Data](articles/dd1044e3.json)
-
-[Extended Data](ext_articles/dd1044e3.ext.json)
-
----
-
-### UK removes Arugam Bay threats from Sri Lanka travel advice, Israel slashes warning
-
-*2024-11-15 05:48:00* · [`economynextcom`](https://economynext.com/uk-removes-arugam-bay-threats-from-sri-lanka-travel-advice-israel-slashes-warning-187872/) · `en`
-
-ECONOMYNEXT – The United Kingdom has removed references to a possible attack in Arugam Bay from its regular travel advice, while Israel has also reduced its threat level while Israel has slashed a threat level of 4 to 2, following arrests of several suspects, a media report said.
-
-The UK travel advice was updated, with references to a possible attack on Arugam Bay removed.
-
-Israel media reports said a state agency removed its own travel warning to citizens.
-
-“The National Security Council, which publishes travel advisories, said it was lowering the warning level for Sri Lanka’s Arugam Bay area from four, which indicates a highly credible threat, to two, indicating a milder occasional threat,” the Times of Israel newspaper said.
-
-...
-
-[Data](articles/fe04b3f1.json)
-
-[Extended Data](ext_articles/fe04b3f1.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 03:11:13**
+As of **2024-11-16 03:41:33**
 
 ## Newspaper Stats
 
@@ -26,25 +26,35 @@ adaderanasinhalalk | 9,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,162 (100.0%) of 55,163 articles have been extended.
+55,163 (100.0%) of 55,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
 
-### விஜித ஹேரத் முதலிடம்
+### Vijitha Herath tops the list
 
 *2024-11-16 02:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-முதலிடம்/175-347279) · `ta`
 
-பாராளுமன்றத் தேர்தலில் அதிகூடிய விருப்பு வாக்குகளைப் பெற்று தேசிய மக்கள் சக்தியின் கம்பஹா மாவட்ட வேட்பாளர் விஜித ஹேரத் வெற்றி பெற்று மீண்டும் பாராளுமன்றத்திற்கு தெரிவானார்.
+Here's a summary of 200 characters:
 
-இதேவேளை. கொழும்பு மாவட்டத்தின் தேசிய மக்கள் சக்தி வேட்பாளர் ஹரிணி அமரசூரிய இம்முறை அதிக வாக்குகளைப் பெற்று இரண்டாவது இடத்தைப் பெற்றுள்ளார். அவர் 655,289 வாக்குகள் பெற்றுள்ளமை குறிப்பிடத்தக்கது.
 
-இதற்கு முன்னர் அதிக விருப்பு வாக்குகளை மஹிந்த ராஜபக் ஷ பெற்றிருந்தார். அவர் 2020 ஆம் ஆண்டு நாடாளுமன்றத் தேர்தலில் குருநாகல் மாவட்டத்தில் போட்டியிட்டு 527,364 வாக்குகளைப் பெற்றிருந்தார். (a)
+
+Vijitha Herath wins Gampaha seat. Harini Amarasuriya second in Colombo with 655,289 votes. Mahinda Rajapaksa previously highest in Kurunegala with 527,364 votes.
+
+🟩
+
+The Gampaha district candidate of the National People's Power, Vijitha Herath, won the parliamentary election in the parliamentary election and again elected to parliament.
+
+Ascendant. Harini Amarasuriya, the National People's Power candidate in Colombo district, has won the second place with the highest number of votes. He received 655,289 votes.
+
+Mahinda Rajapaksa had previously received more preferential votes. He contested the 2020 parliamentary elections in the Kurunegala district and received 527,364 votes. (A)
 
 ◼️
 
 [Data](articles/c2c6c20c.json)
+
+[Extended Data](ext_articles/c2c6c20c.ext.json)
 
 ---
 

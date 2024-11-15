@@ -1,46 +1,212 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 13:42:52**
+As of **2024-11-15 14:42:06**
 
 ## Newspaper Stats
 
-*Scraped **55,065** Articles*
+*Scraped **55,077** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 426
-bbccomsinhala | 559
 colombotelegraphcom | 559
-islandlk | 3,289
+bbccomsinhala | 560
+islandlk | 3,291
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
-adaderanalk | 6,634
-tamilmirrorlk | 7,803
-virakesarilk | 8,918
+adaderanalk | 6,637
+tamilmirrorlk | 7,806
+virakesarilk | 8,921
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,061 (100.0%) of 55,065 articles have been extended.
+55,073 (100.0%) of 55,077 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
+### முள்ளிவாய்க்கால் நினைவு தூபிக்கு சுடரேற்றி அஞ்சலி செலுத்தினார் ரவிகரன்
+
+*2024-11-15 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198863) · `ta`
+
+பாராளுமன்ற தேர்தலில் வெற்றிபெற்ற துரைராசா ரவிகரன் இன்று வெள்ளிக்கிழமை (15) முள்ளிவாய்க்கால் நினைவு தூபிக்கு சுடரேற்றி மலர்தூவி அஞ்சலி செலுத்தியுள்ளார்.
+
+நேற்று வியாழக்கிழமை (14) நடைபெற்ற பாராளுமன்ற தேர்தலில் வன்னி தேர்தல் தொகுதியில் தமிழரசுக்கட்சி சார்பாக போட்டியிட்டு மக்களின் அமோக ஆதரவுடன் பாராளுமன்ற உறுப்பினராக தெரிவுசெய்யப்பட்ட பாராளுமன்ற உறுப்பினர் துரைராச ரவிகரன் இன்று (15) காலை 11.15 மணியளவில் இறுதிப்போரில் உயிரிழந்த மக்கள் நினைவாக முள்ளிவாய்க்கால் நினைவுத் தூபிக்கு சென்று போரில் உயிரிழந்த மக்களுக்காக வணக்கம் செலுத்தியிருந்தார்.
+
+வெற்றிவாகை சூடிய பாராளுமன்ற உறுப்பினரை முல்லைத்தீவு மக்கள் இன்று முல்லைத்தீவு நகரில் மாலை அணிவித்து வரவேற்றதுடன் வெடிகொழுத்தி வெற்றி கொண்டாடட்டத்தில் ஈடுபட்டிருந்தமையும் குறிப்பிடதக்கது.
+
+◼️
+
+[Data](articles/8cc8d207.json)
+
+---
+
+### பாராளுமன்ற தேர்தலில் வெற்றி பெற்ற துரைராசா ரவிகரனை வரவேற்ற முல்லைத்தீவு மக்கள்
+
+*2024-11-15 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198865) · `ta`
+
+இலங்கை தமிழரசுக் கட்சி வீட்டு சின்னத்தில் போட்டியிட்டு  வன்னிதேர்தல் தொகுதியில்  வெற்றியீட்டிய  துரைராசா ரவிகரனை வரவேற்கும் நிகழ்வு இன்று வெள்ளிக்கிழமை (15) முல்லைத்தீவு நகரில் நடைபெற்றுள்ளது.
+
+நேற்று வியாழக்கிழமை (14) நடைபெற்ற  பாராளுமன்ற தேர்தலில்  வன்னித்தேர்தல் தொகுதியில்  இலங்கை தமிழரசுக்கட்சி சார்பாக  போட்டியிட்டு மக்களின் அமோக ஆதரவுடன் வெற்றிவாகை சூடிய வேட்பாளர் பாராளுமன்ற  உறுப்பினர்  துரைராசா ரவிகரனை முல்லைத்தீவு மக்கள் அனைவரும் அணிதிரண்டு  வரவேற்கும் நிகழ்வு இன்றையதினம்  முல்லைத்தீவு  நகர் பகுதியில் நடைபெற்றிருந்தது.
+
+இன்றைய தினம் காலை 10 மணியளவில் ஆரம்பமாகிய குறித்த நிகழ்வில்  மக்களால் வெற்றியீட்டிய  வேட்பாளருக்கு மாலை அணிவித்து வரவேற்று குறித்த வெற்றிக் கொண்டாட்டம் ஆரம்பமாகியிருந்தது.
+
+குறித்த வெற்றி வரவேற்பு நிகழ்வில்  முல்லைத்தீவு மாவட்ட மக்கள், சமூக ஆர்வலர்கள், இளைஞர்கள் என  பலரும் கலந்து கொண்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/46bd4864.json)
+
+---
+
+### மட்டக்களப்பு விருப்பு வாக்கு விபரம்
+
+*2024-11-15 14:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-விருப்பு-வாக்கு-விபரம்/175-347260) · `ta`
+
+◼️
+
+[Data](articles/01368cc1.json)
+
+---
+
+### Monaragala District preferential vote results
+
+*2024-11-15 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103512/monaragala-district-preferential-vote-results-) · `en`
+
+The preferential vote results of the Monaragala District in the 2024 General Election have been released.
+
+NPP’s R.M. Jayawardena has polled the highest number of preferential votes in the Monaragala District.
+
+H.M. Dharmasena has obtained the highest number of preferential votes for the SJB to secure the only seat for SJB in the district.
+
+◼️
+
+[Data](articles/718868e3.json)
+
+---
+
+### All-island final results of 2024 General Election released
+
+*2024-11-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103511/all-island-final-results-of-2024-general-election-released) · `en`
+
+The Election Commission of Sri Lanka has released the all-island final results in the 2024 General Election with the National People’s Power (NPP) securing a resounding victory in the Parliamentary Poll.
+
+NPP has won 159 seats including 18 bonus seats after polling a total of over 6.8 million votes, which is 61.56% of the total votes counted.
+
+Meanwhile, Samagi Jana Balawegaya (SJB) becomes the main opposition party of the tenth Parliament after polling over 1.9 million votes (17.66%) and thereby obtaining 40 seats including 5 bonus seats.
+
+Ilankai Thamil Arasu Kachchi (ITAK) has won 8 seats including 1 bonus seat, New Democratic Front (NDF) has won 5 seats including 2 bonus seats while the Sri Lanka Podujana Peramuna (SLPP) has managed only 3 seats including 1 bonus seat.
+
+Meanwhile, ‘Sarvajana Balaya’ failed to win any seats, however, has managed to secure one bonus seat.
+
+...
+
+[Data](articles/03a73403.json)
+
+[Extended Data](ext_articles/03a73403.ext.json)
+
+---
+
+### 2 seats in Vanni at NPP
+
+*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னியில்-2-ஆசனங்கள்-NPP-வசம்/175-347257) · `ta`
+
+Here's a summary of "2 seats in Vanni at NPP" in approximately 200 characters:
+
+
+
+N
+
+🟩
+
+◼️
+
+[Data](articles/3e862564.json)
+
+[Extended Data](ext_articles/3e862564.ext.json)
+
+---
+
+### De -voting details
+
+*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னிவிருப்பு-வாக்கு-விபரம்/175-347257) · `ta`
+
+Here's a summary of de-voting details in 200 characters:
+
+
+
+De-voting refers to the process of removing votes from a blockchain transaction. It typically involves:
+
+
+
+1. Identifying invalid or duplicate votes
+
+2. Removing those votes from the voting pool
+
+3. Adjusting the final vote count accordingly
+
+4. Updating the blockchain ledger with the corrected vote totals
+
+
+
+This ensures the integrity and accuracy of voting outcomes in decentralized systems.
+
+🟩
+
+◼️
+
+[Data](articles/725e380e.json)
+
+[Extended Data](ext_articles/725e380e.ext.json)
+
+---
+
+### Vanni District preferential vote results released
+
+*2024-11-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103510/vanni-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Vanni District in the 2024 General Election have been released.
+
+SJB’s Rishad Bathiudeen has polled the highest number of preferential votes in the Vanni District.
+
+Thurairasa Ravikumar has received the highest preferential votes from the ITAK to secure its only seat.
+
+Selvathambi Thilakanathan has obtained the highest preferential votes from the NPP.
+
+◼️
+
+[Data](articles/9ba15f2c.json)
+
+[Extended Data](ext_articles/9ba15f2c.ext.json)
+
+---
+
 ### “ தோள் கொடுத்தோருக்கு நன்றி ”
 
 *2024-11-15 13:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோள்-கொடுத்தோருக்கு-நன்றி/175-347256) · `ta`
 
-“ மறுமலர்ச்சி யுகத்தை ஆரம்பிக்க தோள் கொடுத்த  அனைவருக்கும்  நன்றி” என ஜனாதிபதி அனுர திஸாநாயக்க  தனது எக்ஸ் தளத்தில் பதிவிட்டுள்ளார்.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Thank you to those who supported the beginning of the Renaissance Age." This statement expresses gratitude towards individuals who provided encouragement or assistance during a significant period of cultural and artistic transformation.
+
+🟩
+
+President Anura Dissanayake posted on his X site, "Thank you to all who gave the shoulder to start the Renaissance Age."
 
 ◼️
 
 [Data](articles/135917fc.json)
+
+[Extended Data](ext_articles/135917fc.ext.json)
 
 ---
 
@@ -48,13 +214,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-15 13:26:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹரின்-நிமல்-தோல்வி/76-347255) · `ta`
 
-பதுளை மாவட்டத்தில் புதிய ஜனநாயக முன்னணியின் சிலிண்டர் சின்னத்துக்கு ஒரு ஆசனம் கிடைத்தது. அந்த ஆசனம், முன்னாள் அமைச்சர்களான ஹரின் பெர்னாண்டோவுக்கா அல்லது நிமல் சிறிபாலடி சில்வாவுக்கா கிடைக்கப்போகிறது என்ற எதிர்பார்ப்பு இருந்தது.
+Harin Fernando, Nimal Siripaladi Silva lose seats; Samara Sampath Dasanayake elected with 19,359 votes in Badulla district.
 
-எனினும், 19,359 விருப்பு வாக்குகளைப் பெற்று சாமர சம்பத் தசாநாயக்க - புதிய ஜனநாயக முன்னணியின் ஊடாக பாராளுமன்றத்திற்கு தெரிவாகியுள்ளார்.
+🟩
+
+The cylinder symbol of the new Democratic Front in Badulla district got a seat. The seat was expected to be available for former ministers Harin Fernando or Nimal Siripaladi Silva.
+
+However, Samara Sampath Dasanayake has been elected to Parliament through the New Democratic Front with 19,359 votes.
 
 ◼️
 
 [Data](articles/0b5a59fd.json)
+
+[Extended Data](ext_articles/0b5a59fd.ext.json)
 
 ---
 
@@ -71,6 +243,8 @@ Karunananthan Ilankumaran has obtained the highest number of preferential votes 
 ◼️
 
 [Data](articles/00d62345.json)
+
+[Extended Data](ext_articles/00d62345.ext.json)
 
 ---
 
@@ -121,6 +295,30 @@ Former Minister Basir Segudavud, who contested as the chief candidate of the Uni
 [Data](articles/db98f54d.json)
 
 [Extended Data](ext_articles/db98f54d.ext.json)
+
+---
+
+### Sunil Handunnethi received the highest preferences in Matara district
+
+*2024-11-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198861) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sunil Handunnethi tops polls in Matara district. National People's Shakti Party wins six seats. Sunil receives highest preferential votes. Sathura Kalapathi from United People's Power gets 31,196 votes.
+
+🟩
+
+The National People's Shakti Party has won six seats in the Matara district and Sunil has received the highest preferential votes in the Sunil Handunnetti district.
+
+Sathura Kalapathi, who contested on behalf of the United People's Power, received 31,196 preferential votes.
+
+◼️
+
+[Data](articles/87e3e57c.json)
+
+[Extended Data](ext_articles/87e3e57c.ext.json)
 
 ---
 
@@ -219,6 +417,8 @@ Former MP Rohini Kawirathne has received the highest preferential votes from the
 ◼️
 
 [Data](articles/317f7382.json)
+
+[Extended Data](ext_articles/317f7382.ext.json)
 
 ---
 
@@ -706,9 +906,7 @@ Accordingly, with this, the NPP has now secured a two-thirds majority in the Par
 
 ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Kumara Dissanayake has secured a majority in parliament, according to official results declared so far by the by the island’s Elections Commission.
 
-The NPP contesting under the Malimawa (compass) symbol secured 113 seats with of the 225 member assembly, data released by the the Elections Commissions website showed, with full results yet to be declared.
-
-NPP secured 137 seats after winning Colombo and Gampaha districts.
+The NPP contesting under the Malimawa (compass) symbol secured 141 seats with of the 225 member assembly, data released by the the Elections Commissions showed, before the national list.
 
 The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 35 seats.
 
@@ -716,7 +914,9 @@ The NPP has received 6.8 million or 61 percent of the votes counted, taking a co
 
 Soon after casting his vote, President Anura Dissanayake said, a simple majority would be sufficient and those who got two thirds in the past had mis-used it.
 
-...
+The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats and the Sri Lanka Podujana Peramuna has 2 seats.
+
+◼️
 
 [Data](articles/0535966a.json)
 
@@ -1404,6 +1604,52 @@ Accordingly, the NPP has secured 7 seats in the district while the SJB has won t
 
 ---
 
+### General Election 2024: A huge win to the national propagation!
+
+*2024-11-15 08:27:01* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cq52ylj694vo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Jathika Force wins 2024 general election in Sri Lanka, securing 141 out of 159 parliamentary seats. Key players include Illangai Tamil Arasu Kachchi, New Democratic Front, and Sri Lanka Podujana Peramuna. The election followed Sri Lanka's economic crisis and political upheaval.
+
+🟩
+
+The National Jathika Force has won the 2024 general election.
+
+The total number of votes was 6,863,186, and 159 seats in parliament.
+
+The national propagation won 141 seats. The total number of seats in the area was 159.
+
+The reconciliation of 1,968,716 votes were 40 seats.
+
+It was 35 seats and 5 seats from the national list.
+
+According to the entire results of the general election, the number of seats in each of the parties is as follows.
+
+Illangai Tamil Arasu Kachchi scored 257,813 votes and won eight seats.
+
+The new demostal leader secured 500,835 votes and took 5 seats.
+
+The Sri Lanka General Front receives 3 seats with 350,429 votes.
+
+The Sri Lanka Muslim Congress won 3 seats with 87,038 votes.
+
+Seventeen of 178,006 votes have been elected national lists.
+
+Anura Kumara Dissanayake won 5,740,179 votes from the presidential election on September 21.
+
+The national protocol was owned by 6,863,186 votes in this year's general election.
+
+...
+
+[Data](articles/64a01d29.json)
+
+[Extended Data](ext_articles/64a01d29.ext.json)
+
+---
+
 ### Kegalle is also convenient
 
 *2024-11-15 08:25:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலையும்-அனுர-வசமானது/175-347226) · `ta`
@@ -1843,187 +2089,5 @@ This concise summary captures the essence of the Colombo-Matter case while adher
 [Data](articles/a8a802a8.json)
 
 [Extended Data](ext_articles/a8a802a8.ext.json)
-
----
-
-### Nuwara Eliya-Maskeliya is also a good
-
-*2024-11-15 06:34:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-மஸ்கெலியாவும்-அனுர-வசமானது/76-347213) · `ta`
-
-Nuwara Eliya-Maskeliya: A scenic hill station known for its cool climate, tea plantations, and picturesque landscapes. Popular tourist destination offering hiking trails, waterfalls, and colonial architecture.
-
-🟩
-
-◼️
-
-[Data](articles/9961c924.json)
-
-[Extended Data](ext_articles/9961c924.ext.json)
-
----
-
-### ITAK wins Mullaitivu; Independent Group wins Chavakachcheri
-
-*2024-11-15 06:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103478/itak-wins-mullaitivu-independent-group-wins-chavakachcheri) · `en`
-
-The results of the Pathadumbara polling division in Kandy District, Pelmadulla polling division in Ratnapura District, Mullaitivu polling division in Vanni District, Chavakachcheri and Vaddukkoddai polling divisions in Jaffna District have been released.
-
-Ilankai Thamil Arasu Kachchi (ITAK) has won in the Mullaitivu polling division while ‘Jaffna – Independent Group 17’ has won the Chavakachcheri polling division.
-
-NPP has secured victories in the Pathadumbara, Vaddukkoddai and Pelmadulla polling divisions.
-
-◼️
-
-[Data](articles/56bbd438.json)
-
-[Extended Data](ext_articles/56bbd438.ext.json)
-
----
-
-### Trincomalee District wins composition
-
-*2024-11-15 06:21:31* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-දිස්ත්‍රික්කය-මාලිමාව-දිනයි/11-413052) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Trincomalee District election results: National Folk Force wins 2 seats, Reconciliation Party 1 seat.
-
-🟩
-
-The national folk force has won the district according to the entire election results in Trincomalee District. The party has two seats, reconciliation, and the IIQ party has one seat.
-
-◼️
-
-[Data](articles/2a8744a7.json)
-
-[Extended Data](ext_articles/2a8744a7.ext.json)
-
----
-
-### NPP wins 2 seats, SJB and ITAK secure one each in Trincomalee
-
-*2024-11-15 06:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103477/npp-wins-2-seats-sjb-and-itak-secure-one-each-in-trincomalee-) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Trincomalee District in the 2024 General Election with the National People’s Power (NPP) polling more than 42% of the total votes in the district.
-
-NPP has polled 87,031 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 53,058 votes (25.9%).
-
-Accordingly, the NPP has secured 2 seats in the district while the SJB and ITAK have won one seat each in the district.
-
-◼️
-
-[Data](articles/4bbb5ec1.json)
-
-[Extended Data](ext_articles/4bbb5ec1.ext.json)
-
----
-
-### NPP leads 10 more polling divisions including Dambulla, Vavuniya, Chilaw
-
-*2024-11-15 06:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103476/npp-leads-10-more-polling-divisions-including-dambulla-vavuniya-chilaw) · `en`
-
-The National People’s Power (NPP) has secured victories in the Dambulla, Vavuniya, Anuradhapura-East, Dedigama, Chilaw, Maskeliya, Yapahuwa, Yatinuwara, Deraniyagala and Bingiriya polling divisions.
-
-◼️
-
-[Data](articles/c1829f37.json)
-
-[Extended Data](ext_articles/c1829f37.ext.json)
-
----
-
-### Jaffna District Vaddukoddai Results
-
-*2024-11-15 06:02:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டம்-வட்டுக்கோட்டை-முடிவுகள்/175-347212) · `ta`
-
-Here's a summary of Jaffna District Vaddukoddai results in approximately 200 characters:
-
-
-
-"Jaffna District Vaddukoddai election results show [X] party winning [Y] seats, followed by [Z] party with [W] seats. Voter turnout was [percentage]. Key issues were [list 1-2 main topics]."
-
-🟩
-
-◼️
-
-[Data](articles/b2ba7859.json)
-
-[Extended Data](ext_articles/b2ba7859.ext.json)
-
----
-
-### NPP wins 7 more polling divisions including Dehiwala, Kotte
-
-*2024-11-15 05:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103475/npp-wins-7-more-polling-divisions-including-dehiwala-kotte) · `en`
-
-The National People’s Power (NPP) has secured victories in the Dehiwala, Kotte, Ududumbara, Naththandiya, Senkadagala, Panduwasnuwara, Dambadeniya polling divisions.
-
-◼️
-
-[Data](articles/bc33e5fc.json)
-
-[Extended Data](ext_articles/bc33e5fc.ext.json)
-
----
-
-### Vanni District Mullaitivu Results
-
-*2024-11-15 05:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-முல்லைத்தீவு-முடிவுகள்/175-347211) · `ta`
-
-Here's a summary of "Vanni District Mullaitivu Results" in approximately 200 characters:
-
-
-
-Election results from Vanni District in Mullaitivu show [X] party winning [Y] seats, while [Z] party secured [W] seats. Voter turnout was [percentage]. Key issues discussed included [topics].
-
-🟩
-
-◼️
-
-[Data](articles/a4146895.json)
-
-[Extended Data](ext_articles/a4146895.ext.json)
-
----
-
-### In Sri Lanka elections 2024, President’s NPP party heads for landslide
-
-*2024-11-15 05:49:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-elections-2024-presidents-npp-party-heads-for-landslide-187769/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s National People’s Power is heading for a landslide in the 2024 parliamentary elections, and is on track for a two – thirds majority, results released so far shows.
-
-The NPP contesting under its Malimawa also became the largest party in Jaffna, overtaking traditional parties in the area, radically improving its performance from September presidential polls.
-
-Sri Lanka went to polls in a stabilization crisis coming after the worst currency collapse in the history of the island’s central bank, which ended in a sovereign default.
-
-Ex-President Ranil Wickremesinghe, who oversaw the stabilization, under an International Monetary Fund program – the 17th such program triggered by the central bank with rate cuts and liquidity injections to boost growth – lost to Anura Dissanayake in September.
-
-...
-
-[Data](articles/dd1044e3.json)
-
-[Extended Data](ext_articles/dd1044e3.ext.json)
-
----
-
-### UK removes Arugam Bay threats from Sri Lanka travel advice, Israel slashes warning
-
-*2024-11-15 05:48:00* · [`economynextcom`](https://economynext.com/uk-removes-arugam-bay-threats-from-sri-lanka-travel-advice-israel-slashes-warning-187872/) · `en`
-
-ECONOMYNEXT – The United Kingdom has removed references to a possible attack in Arugam Bay from its regular travel advice, while Israel has also reduced its threat level while Israel has slashed a threat level of 4 to 2, following arrests of several suspects, a media report said.
-
-The UK travel advice was updated, with references to a possible attack on Arugam Bay removed.
-
-Israel media reports said a state agency removed its own travel warning to citizens.
-
-“The National Security Council, which publishes travel advisories, said it was lowering the warning level for Sri Lanka’s Arugam Bay area from four, which indicates a highly credible threat, to two, indicating a milder occasional threat,” the Times of Israel newspaper said.
-
-...
-
-[Data](articles/fe04b3f1.json)
-
-[Extended Data](ext_articles/fe04b3f1.ext.json)
 
 ---

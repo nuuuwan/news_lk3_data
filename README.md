@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 11:00:15**
+As of **2024-11-15 10:41:36**
 
 ## Newspaper Stats
 
-*Scraped **55,027** Articles*
+*Scraped **55,023** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 425
+dbsjeyarajcom | 424
 bbccomsinhala | 559
 colombotelegraphcom | 559
 islandlk | 3,289
@@ -17,8 +17,8 @@ economynextcom | 3,340
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,154
-adaderanalk | 6,625
-tamilmirrorlk | 7,787
+adaderanalk | 6,624
+tamilmirrorlk | 7,785
 virakesarilk | 8,917
 adaderanasinhalalk | 9,505
 
@@ -26,33 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,023 (100.0%) of 55,027 articles have been extended.
+55,022 (100.0%) of 55,023 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### 2024 General Election: NPP secures parliamentary majority
-
-*2024-11-15 10:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103500/2024-general-election-npp-secures-parliamentary-majority) · `en`
-
-The National People’s Power (NPP) has already secured a two-thirds majority in Parliament after winning a total of 123 seats in the House in the 2024 General Election.
-
-NPP had confirmed its majority power in parliament, which it sought during the election campaigning, after winning a whopping 16 out of the 19 available seats in the Gampaha District.
-
-NPP polled a total of 898,759 votes (72%) to win the district while the Samagi Jana Balawegaya (SJB) placed second with 150,445 votes (12.18%).
-
-The NPP has thereby secured 16 seats in the district while the SJB has won the 3 remaining seats.
-
-This brings the party’s tally of seats secured thus far to 123. It needed 113 seats in the 225-member house to secure a majority.
-
-NPP has so far polled a total of 6,842,223, which is 61.73% of the votes counted thus far.
-
-...
-
-[Data](articles/d9679ec1.json)
-
----
 
 ### NPP secures 16 seats in Gampaha District, SJB gets 3
 
@@ -69,18 +47,6 @@ Accordingly, with this, the NPP has now secured a two-thirds majority in the Par
 ◼️
 
 [Data](articles/c4c05c1b.json)
-
-[Extended Data](ext_articles/c4c05c1b.ext.json)
-
----
-
-### கம்பஹா அனுர வசம்
-
-*2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
-
-◼️
-
-[Data](articles/4fbe34f8.json)
 
 ---
 
@@ -107,22 +73,6 @@ The following are the details of the former MPs who have now ruled ...
 [Data](articles/71643313.json)
 
 [Extended Data](ext_articles/71643313.ext.json)
-
----
-
-### ராஜபக்ஸ உள்பட பலர் படுதோல்வி
-
-*2024-11-15 10:20:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராஜபக்ஸ-உள்பட-பலர்-படுதோல்வி/175-347239) · `ta`
-
-10ஆவது பாராளுமன்றத்திற்கான உறுப்பினர்களை தெரிவு செய்வதற்காக நேற்று இடம்பெற்ற  பொதுத்தேர்தலில் அனைத்து மாவட்டங்களிலும் தேசிய மக்கள் சக்தி முன்னிலை வகிக்கின்றது.
-
-இந்த நிலையில், முன்னாள் அமைச்சர்கள் சிலர் இம்முறை இடம்பெற்ற தேர்தலில் தமது ஆசனத்தை இழந்து வெளியேறியுள்ளனர்.
-
-அந்த வகையில் இதுவரை ஆட்சிசெய்து தற்போது வெளியேறிய முன்னாள் எம்.பிக்களின் விபரங்கள் பின்வருமாறு...
-
-◼️
-
-[Data](articles/c0b8b6cc.json)
 
 ---
 
@@ -1923,5 +1873,55 @@ The Ilankai Tamil Arasu Kachchi (ITAK) has secured a victory in the Kilinochchi 
 [Data](articles/ea4367c3.json)
 
 [Extended Data](ext_articles/ea4367c3.ext.json)
+
+---
+
+### Ambassador of Sri Lanka presents Credentials to Prince Albert II of Monaco
+
+*2024-11-15 04:38:03* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-of-Sri-Lanka-presents-Credentials-to-Prince-Albert-II-of-Monaco/56-769275) · `en`
+
+The Ambassador of Sri Lanka Manisha Gunasekera presented her Letters of Credence to Prince Albert II of the Principality of Monaco at the Salon des Glaces, Prince’s Palace in Monaco on 17 Thursday October 2024. The formal Presentation of Credentials was followed by a meeting with Prince Albert II in which the Ambassador conveyed the warm greetings and best wishes of the President of Sri Lanka Anura Kumara Dissanayake, to the Prince of Monaco. Reciprocating the sentiments, Prince Albert II conveyed his warm greetings to President Dissanayake, as well as his felicitations on the latter’s recent election as President with a decisive mandate from the people of Sri Lanka. The meeting entailed discussion on areas of shared interest between Sri Lanka (an Indian Ocean island country) and Monaco, with a focus on cooperation in multilateral fora, i.e., ocean conservation, environmental protection and sustainable development.
+
+...
+
+[Data](articles/775ee1fd.json)
+
+[Extended Data](ext_articles/775ee1fd.ext.json)
+
+---
+
+### Sri Lanka showcases innovation and technology at Thailand Smart City Expo 2024
+
+*2024-11-15 04:36:29* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-showcases-innovation-and-technology-at-Thailand-Smart-City-Expo-2024/34-769274) · `en`
+
+The Embassy and Permanent Mission of Sri Lanka in Thailand, in collaboration with the Sri Lanka Export Development Board (EDB), organised Sri Lanka’s participation at the Thailand Smart City Expo 2024, held from 6-8 November in Bangkok.
+
+This event, hosted by Thailand’s Digital Economy Promotion Agency (DEPA) in association with N.C.C. Management and Development Co. Ltd., serves as Southeast Asia’s largest exhibition dedicated to smart city innovations and emerging technologies.
+
+The Thailand Smart City Expo 2024 brings together international stakeholders, innovators, and industry leaders focused on advancing smart city solutions across critical areas such as smart telecommunications, energy, living, industry and retail, mobility, environment, and healthcare.
+
+...
+
+[Data](articles/dd799af5.json)
+
+[Extended Data](ext_articles/dd799af5.ext.json)
+
+---
+
+### Madulkelle Tea and Eco Lodge to export home grown agro products
+
+*2024-11-15 04:35:29* · [`dailyftlk`](https://www.ft.lk/business/Madulkelle-Tea-and-Eco-Lodge-to-export-home-grown-agro-products/34-769273) · `en`
+
+For the first time in the leisure industry, a trendsetter in the Sri Lankan hospitality sector, Madulkelle Tea and Eco Lodge, Kandy Chairman Philippe Gomez would be engaging in Agro-based exports from products from their hotel.
+
+The mentor behind the project, Gomez, a French national, said that they have already planted 4,500 vanilla trees, 4,000 coffee plants and 1,000 pepper plants.
+
+“We have allocated more than half of the land from the hotel property and hope to expand this plantation by nearly six more acres as an export-based initiative. We started this project some time ago and are ready to start exports targeting the European market in a more organised manner from early next year. In a bid to support the community we also have an out-grower system and soon their products would reach the export market as well.”
+
+...
+
+[Data](articles/77cb278a.json)
+
+[Extended Data](ext_articles/77cb278a.ext.json)
 
 ---

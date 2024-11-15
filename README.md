@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 23:12:23**
+As of **2024-11-15 23:42:35**
 
 ## Newspaper Stats
 
-*Scraped **55,143** Articles*
+*Scraped **55,150** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 428
 colombotelegraphcom | 559
-bbccomsinhala | 562
+bbccomsinhala | 563
 islandlk | 3,291
-economynextcom | 3,346
+economynextcom | 3,352
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,143 (100.0%) of 55,143 articles have been extended.
+55,144 (100.0%) of 55,150 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -448,6 +448,24 @@ The national folk force won the year-winning 159 seats in the 2024 general elect
 
 ---
 
+### Ceylon chamber ready to work with new government on economic stability
+
+*2024-11-15 18:54:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-ready-to-work-with-new-government-on-economic-stability-188169/) · `en`
+
+ECONOMYNEXT – The Ceylon Chamber of Commerce has congratulated Sri Lanka’s newly elected government and says it’s ready to collaborate with the new administration to foster economic stability.
+
+“The Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development,” the trade body said in a statement.
+
+It said it appreciated the Election Commission and other state institutions for conducting a peaceful election.
+
+Chamber Chairman Duminda Hulangamuwa is also an economic edvisor the President Anura Dissanayake, whose party the National People’s Power won a landslide in the parliamentary election. (Colombo/Nov15/2024)
+
+◼️
+
+[Data](articles/bff10f30.json)
+
+---
+
 ### Heroin recovery of over 1650 million rupees
 
 *2024-11-15 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198883) · `ta`
@@ -473,6 +491,28 @@ The suspects were arrested from the Mirissa area between the ages of 18 - 34. Th
 [Data](articles/7915dc50.json)
 
 [Extended Data](ext_articles/7915dc50.ext.json)
+
+---
+
+### Two third majority given by Sri Lanka voters will be used carefully: NPP
+
+*2024-11-15 18:17:00* · [`economynextcom`](https://economynext.com/two-third-majority-given-by-sri-lanka-voters-will-be-used-carefully-npp-188164/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National People’s Power will not mis-use a two third majority given by voters to carry out its program, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna, the main party behind the political group said.
+
+“We have understood the weight of responsibility of this victory,” Silva told reporters in Colombo after the landslide win.
+
+“That trust we have to protect. We have got 159 votes, exceeding two thirds. There was opinion in society that there should not be two thirds. Actually, we did not seek it.
+
+“But people have given it. So we have a responsibility to handle this excessive power very carefully.
+
+“Because our leaders have mis-used it in the past to put down the people. They were drunk with power. We will not become bloated with the power. We will be very careful and be responsible.”
+
+There were many challenges ahead of the government, he said.
+
+...
+
+[Data](articles/24ae063d.json)
 
 ---
 
@@ -639,6 +679,42 @@ According to the overall result of the district, the national protocol was 12 MP
 [Data](articles/4c80b018.json)
 
 [Extended Data](ext_articles/4c80b018.ext.json)
+
+---
+
+### 2024 Preferential votes: Members who were elected to Parliament
+
+*2024-11-15 17:14:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgl48690k17o) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former MPs elected to Parliament in 2024:
+
+TB. Sarath, Jagath Wickramaratne, Sunil Ratnasiri, Nihal Hewaage, Athula Hewaage, Saliya Madurana, Aravinda Vitharana, Ruwan Senarath, Samantan Vidyaratne, Kitston Selvaraj, Samuel Balagal, Dinindu Saudu Saman, Sunil Handunnetti, Saroja Paulraj, LM. Abeywickrema, Akram Illias, G. Ajantha, Lal Prechends, G. Dissanayake, S. J. Bianwila, Deepthi Vasal, D. H. Perera, Karunanathan Ilunkivaran, Shanmuganatten Sri Bhavanandara, Jeyichchanda Mulyvanayake, Asela Nalin The Lal, Ratna Gamage, Hasha Samaraweera, Nishantha Perera, Kankannam Perera, KD. Lal Kanthe, global artisms, Manjula Prasanna Gunasena, Sundara Dissanayake, Jayantatti Aeros, Jayasinghe, Mohamed Sharif Mohamed, Wasantha Samarasinghe, Senanayakkara, Susil Ranasinghe, Gileal Paru Navaratiri, Gilina Paruka Samarakana, Suraweera Arachchi, Madura Seneviratne, Wijeratne, Niladinda Jayatissa, Nilanthachchi, Nunushka Ranganath, Oshani Ukangara, Nandana Padmakumara, R. M. Jayawardene, Ajith Priyadhana, Chaturri Gangani, Ruwan Wijeweera, Sarath Kumara, Chandana Abeyratne, Ajith Gihan, Gayan Janaka, Anton Jayakody, Mohamed Faisal, Dhammika, Kosala Jayawath, Kamboewa, Manoj Rajapaksa, Kanchanga Welchana, Nanda Bandara, St. Padmakumara, Hiniduma Sunil Senevi Seneviratne, Sunil Rajapaksa, Nilazisha Lalmillai, Hesha Withanage's, Youth Priyantha Liyanage, Balasuriya Ariyawansa, Namal Karunaratne, Ananda Wijepala, Sujeewa Indika Dissanayake, BM. Namal Sudali Law, Jagath Kumara Gunawardena, Chandana Mirihi Tennakoon, Dharmapriya Dissanayake, Mahammadu Aslam, Nalin Bandara, Dayasiri Jayasekara, JC. Alatuwala, Harinini Amarasuriya, Sunil Abeysinghe, Sunil Ariyagoda, Aruna Gunasekeratne, Lakshmanya Ariyaratne, Mohammed Suse Sally, Susantha Doduwatta, Chandana Sooriyarachchi, Samahmanmalu Gunasinghe, Devanananda Surapeara, Sajith Premadasa, Harsha de Silva, Mujibar Rahuman, SM. Marikkar, Wasantha Piyatissa, Manjula Sugala Sugala Ratnayake, Priyantha Kumar Wijeratne, Military Ratwatte, Vijitha Herath, Anil Jayantha Fernando, Mahinda Jayasinghe, Mohamed Munior, Asoka Ranwala, Wijesinghe, Lasith Interbsion, Madurachchi, Priyan Fernando, Chaminda Lalith Kumara, Harshana Rajakaruna, Amila Prasad
+
+🟩
+
+TB. Sarath - 105,137 Jagath Wickramaratne - 51,391 Sunil Ratnasiri - 51,077 Pathmassiri Bandara - 41,077
+
+Nihal Hewaage - 125,983 Athula Hewaage - 73,98 Saliya Madurana - 65,969 Aravinda Vitharana - 48,807 Ruwan Senarath - 42,249
+
+Samantan Vidyaratne - 208247 Kitston Selvaraj - 60041 Samuel Balagal - 47980 Dinindu Saudu Saman - 47980
+
+Sunil Handunnetti - 249,251 Saroja Paulraj - 148,379 LM. Abeywickrema - 268,144 Akram Illias - 53,835 G. Ajantha - 48,820 Lal Prechends - 48,797
+
+G. Dissanayake - 100,618 S. J. Bianwila - 56,932 Deepthi Vasal - 47,482 D. H. Perera - 43, 455
+
+Karunanathan Ilunkivaran - 32,102 Shanmuganatten Sri Bhavanandara - 20,430 Jeyichchanda Mulyvanayake - 17,4309
+
+Asela Nalin The Lal - Ratna Gamage - 113,719 Hasha Samaraweera - 76,677 Nishantha Perera - 71,549 Kankannam Perera - 58,761
+
+...
+
+[Data](articles/8b905620.json)
+
+[Extended Data](ext_articles/8b905620.ext.json)
 
 ---
 
@@ -1182,6 +1258,26 @@ Rohana Bandara and Suranga Rathnayaka have obtained the highest number of prefer
 
 ---
 
+### Sri Lanka parliamentary polls show unity among ethnic, religious groups, but weaker opposition
+
+*2024-11-15 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-polls-show-unity-among-ethnic-religious-groups-but-weaker-opposition-188079/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s parliamentary election results showed unity among the island nation’s different ethnic and religious people in backing President Anura Kumara Dissanayake’s request for a clean parliament, but a weaker opposition that could threaten the country’s fragile democracy.
+
+President Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led ruling National People’s Power (NPP) recorded a landslide victory, winning 159 seats in the 225-member parliament.
+
+The election saw ethnic majority Sinhalese along with minority Tamils and Muslims voting for the NPP, which campaigned for “Fill parliament with compass”.
+
+For the first time in history, Sri Lanka saw all Tamil-dominated Northern districts and Muslim-dominated Eastern districts backing the NPP as much as Sinhalese-dominated Southern districts.
+
+Dissanayake’s leadership marked a pivotal shift in Sri Lanka’s political landscape, bringing hope of unity to the nation long divided by ethnic tensions, analysts say.
+
+...
+
+[Data](articles/03e5de94.json)
+
+---
+
 ### Special media briefing from national promos
 
 *2024-11-15 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203394) · `si`
@@ -1374,6 +1470,40 @@ According to the overall result of the district, the national power was entitled
 
 ---
 
+### List of candidates and preferential votes in Sri Lanka 2024 election
+
+*2024-11-15 14:12:00* · [`economynextcom`](https://economynext.com/list-of-candidates-and-preferential-votes-in-sri-lanka-2024-election-188007/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 2024 general elections has returned an overwhelming majority of candidates from the National People’s Power of President Anura Dissanayake followed by the Samagi Jana Balwegaya.
+
+The following is a list of reported candidates and preferential votes in the 2024 general election
+
+Compiled based on Rupavahini, Times Online, Ada Derana, and Newswire reports. (Colombo/Nov15/2024)
+
+◼️
+
+[Data](articles/5b750c07.json)
+
+---
+
+### Japan ambassador congratulates Sri Lanka on peaceful and democratic election
+
+*2024-11-15 14:10:00* · [`economynextcom`](https://economynext.com/japan-ambassador-congratulates-sri-lanka-on-peaceful-and-democratic-election-188068/) · `en`
+
+ECONOMYNEXT – Ambassador of Japan to Sri Lanka Akio Isomata has congratulated Sri Lanka’s people on the peaceful and democratic parliamentary elections.
+
+He commended Sri Lankan people’s active engagement in the democratic process, and extended congratulations to all newly elected members of the parliament, the Embassy of Japan in Sri Lanka said in a statement.
+
+“Japan looks forward to working closely with the government, newly-elected parliamentarians and people of Sri Lanka, to achieve peace and prosperity in our countries and in the world, further deepening mutual trust and strengthening the bonds of friendship between our two countries.
+
+“History demonstrates that the friendship between Japan and Sri Lanka has grown stronger over the decades. Japan is confident that the elections on 14 November along with the Presidential election in September in Sri Lanka mark the beginning of a new chapter in further strengthening our bilateral relationship.” (Colombo/Nov15/2024)
+
+◼️
+
+[Data](articles/70da691c.json)
+
+---
+
 ### All-island final results of 2024 General Election released
 
 *2024-11-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103511/all-island-final-results-of-2024-general-election-released) · `en`
@@ -1471,6 +1601,28 @@ This ensures the integrity and accuracy of voting outcomes in decentralized syst
 [Data](articles/725e380e.json)
 
 [Extended Data](ext_articles/725e380e.ext.json)
+
+---
+
+### Sri Lanka’s NPP racks up two thirds majority in 2024 elections, winning 159 seats
+
+*2024-11-15 13:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-racks-up-two-thirds-majority-in-2024-elections-winning-159-seats-187975/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Dissanayake has swept the 2024 parliamentary elections raking in a two thirds majority winning 159 out of 225 seats in the assembly.
+
+The NPP painted the island winning across ethnicities and religious groups and made history wining the Northern Jaffna district.
+
+Since the preferential votes started under the current constitution, no single party on its own has been able to get such a majority.
+
+Sri Lanka’s Samagi Jana Balawegaya headed by Sajith Premadasa was a distant second with 40 seats, in a poll with the lowest turnout since 2010.
+
+The Ilankai Tamil Arasu Kadchi got 8 seats, the New Democratic Front backed by ex-President Ranil Wickremesinghe got 5. United National Party separately got 1.
+
+The Sarvajana Balaya, Democratic Tamil National Alliance, All Ceylon Tamil Congress, All Ceylon Makkal Congress, Jaffna – Independent Group 17 and the Sri Lanka Labour Party won one seat each.
+
+...
+
+[Data](articles/746d3726.json)
 
 ---
 
@@ -2125,169 +2277,5 @@ Hambantota's local council election saw a significant shift towards preferential
 [Data](articles/dce68a44.json)
 
 [Extended Data](ext_articles/dce68a44.ext.json)
-
----
-
-### Badulla District Preferations
-
-*2024-11-15 11:33:08* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-දිස්ත්‍රික්කය-මනාප-ප්‍රථිඵල/11-413062) · `si`
-
-Here's a summary of Badulla District preferences in 200 characters:
-
-
-
-Badulla District, located in Uva Province, Sri Lanka, has unique preferences:
-
-
-
-1. Tea cultivation is prevalent due to favorable climate conditions.
-
-
-
-2. The district is known for its natural beauty, including waterfalls and hiking trails.
-
-
-
-3. Local cuisine features dishes like string hoppers and pittu.
-
-
-
-4. The population predominantly speaks Sinhala and Tamil languages.
-
-
-
-5. Religious sites like Buduruwewa Temple attract tourists.
-
-
-
-6. Agriculture plays a significant role in the local economy.
-
-
-
-7. The district has a mix of urban and rural areas, influencing lifestyle choices.
-
-
-
-These factors contribute to the distinct character of Badulla District and shape the preferences of its residents.
-
-🟩
-
-◼️
-
-[Data](articles/2105a0e9.json)
-
-[Extended Data](ext_articles/2105a0e9.ext.json)
-
----
-
-### Final polling division result of General Election released
-
-*2024-11-15 11:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103504/final-polling-division-result-of-general-election-released) · `en`
-
-The final polling division result of 2024 General Election has been released by the Election Commission with the release of the results for the Sammanthurai polling division in the Digamadulla District.
-
-The National People’s Power (NPP) has topped the polling division with 20,963 votes followed by the All Ceylon Makkal Congress (ACMC) which has received 12,640 votes.
-
-◼️
-
-[Data](articles/22debc74.json)
-
-[Extended Data](ext_articles/22debc74.ext.json)
-
----
-
-### To the Colombo compass
-
-*2024-11-15 11:21:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பும்-திசைக்காட்டிக்கு/175-347244) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Colombo Compass: A navigation tool for developers, providing insights into codebases, performance optimization tips, and best practices. It helps identify potential issues and suggests improvements to enhance overall code quality and maintainability.
-
-🟩
-
-◼️
-
-[Data](articles/74ffd6e0.json)
-
-[Extended Data](ext_articles/74ffd6e0.ext.json)
-
----
-
-### Colombo District final results: NPP secures 14 seats, SJB wins 4
-
-*2024-11-15 11:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/103503/colombo-district-final-results-npp-secures-14-seats-sjb-wins-4) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Colombo District in the 2024 General Election with the National People’s Power (NPP) polling more than 68% of the total votes in the district.
-
-NPP has polled 788,636 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 208,249 votes (18.12%).
-
-The NPP has secured 14 seats in the district while the SJB has won 4 seats in the district.
-
-◼️
-
-[Data](articles/75fb779a.json)
-
-[Extended Data](ext_articles/75fb779a.ext.json)
-
----
-
-### Galle District preferential vote results released
-
-*2024-11-15 11:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103502/galle-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Galle District in the 2024 General Election have been released.
-
-NPP’s Nalin Hewage has polled the highest number of preferential votes in the Galle District.
-
-Former MP Gayantha Karunathilake has received the highest preferential votes from the SJB and secures its only seat while SLPP’s single seat for the district was secured by Chanaka Sampath.
-
-◼️
-
-[Data](articles/a0ef9f97.json)
-
-[Extended Data](ext_articles/a0ef9f97.ext.json)
-
----
-
-### Puttalam District final election results
-
-*2024-11-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198848) · `ta`
-
-Here's a summary of the Puttalam District final election results in approximately 200 characters:
-
-
-
-"Puttalam District election results: [Candidate names] secured [number] seats each. Voter turnout was [percentage]. Key issues: [brief mentions of major topics]."
-
-🟩
-
-◼️
-
-[Data](articles/91cf3c8c.json)
-
-[Extended Data](ext_articles/91cf3c8c.ext.json)
-
----
-
-### Gampaha District final election results
-
-*2024-11-15 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198852) · `ta`
-
-Here's a 200-character summary of Gampaha District final election results:
-
-
-
-"Majority party wins Gampaha District elections with 55% of votes. Opposition party secures 40%. Independent candidates take remaining 5%. Voter turnout reaches 75%."
-
-🟩
-
-◼️
-
-[Data](articles/f15b75c7.json)
-
-[Extended Data](ext_articles/f15b75c7.ext.json)
 
 ---

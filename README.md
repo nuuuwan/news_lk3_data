@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 15:41:36**
+As of **2024-11-15 16:00:37**
 
 ## Newspaper Stats
 
-*Scraped **55,081** Articles*
+*Scraped **55,089** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 426
+dbsjeyarajcom | 427
 colombotelegraphcom | 559
 bbccomsinhala | 561
 islandlk | 3,291
@@ -17,20 +17,132 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
-adaderanalk | 6,639
-tamilmirrorlk | 7,807
-virakesarilk | 8,921
+adaderanalk | 6,642
+tamilmirrorlk | 7,809
+virakesarilk | 8,923
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,081 (100.0%) of 55,081 articles have been extended.
+55,081 (100.0%) of 55,089 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Preferential vote results of Nuwara Eliya District
+
+*2024-11-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103517/preferential-vote-results-of-nuwara-eliya-district-) · `en`
+
+The preferential vote results of the Nuwara Eliya District in the 2024 General Election have been released.
+
+NPP’s Manjula Suraweera Arachchi has polled the highest number of preferential votes in the Nuwara Eliya District.
+
+Palani Digambaran and Velusamy Radhakrishnan have secured two parliamentary seats for the SJB in the district, while Jeewan Thondaman has secured a seat for the United National Party (UNP).
+
+◼️
+
+[Data](articles/468c2a57.json)
+
+---
+
+### வன்னியில் பாராளுமன்றுக்கு தெரிவானவர்கள் விபரம் இதோ
+
+*2024-11-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198872) · `ta`
+
+வன்னித் தேர்தல் தொகுதியில் பாராளுமன்றத்திற்கு தெரிவாகியவர்களில் அதிகூடிய விருப்பு வாக்குளை ரிசாத் பதியுதீன் அவர்களும், குறைந்த விருப்பு வாக்குகளை செல்வம் அடைக்கலநாதன் அவர்களும் பெற்றுள்ளனர்.
+
+நடைபெற்று முடிந்த பாராளுமன்றத் தேர்தலில் வவுனியா, மன்னார், முல்லைத்தீவு ஆகிய மாவட்டங்களை உள்ளடக்கிய வன்னித் தேர்தல் தொகுதியில் ஐக்கிய மக்கள் சக்தியில் போட்டியிட்ட ரிசாத் பதியுதீன் அதிகபட்சமாக 21,018 விருப்பு வாக்குளைப் பெற்றுள்ளார்.
+
+குறைந்த விருப்பு வாக்காக ஜனநாயக தமிழ் தேசியக் கூட்டணியில் போட்டியிட்ட செல்வம் அடைக்கலநாதன் 5,695 விருப்பு வாக்குளைப் பெற்று பாராளுமன்றத்திற்கு தெரிவாகியுள்ளார்.
+
+மேலும், இலங்கை தொழிலாளர் கட்சியில் காதர் மஸ்தான் 13,511 விருப்பு வாக்குகளையும், இலங்கை தமிழரசுக் கட்சியில் து.ரவிகரன் 11,215 விருப்பு வாக்குகளையும், தேசிய மக்கள் சக்தியில் செ.திலகநாதன் 10,652 விரும்பு வாக்குகளையும், ம.ஜெகதீஸ்வரன் 9,280 விருப்பு வாக்குகளையும் பெற்று பாராளுமன்றத்திற்கு தெரிவாகியுள்ளனர்.
+
+◼️
+
+[Data](articles/6a3680d2.json)
+
+---
+
+### வேலுகுமார், பாரத் அருள்சாமி அவுட்
+
+*2024-11-15 15:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலுகுமார்-பாரத்-அருள்சாமி-அவுட்/76-347263) · `ta`
+
+கண்டி மாவட்டத்தின் விருப்பு வாக்குகளின் முடிவுகள் தற்போது வெளியாகியுள்ளதுடன் தேசிய மக்கள் சக்தி  09 ஆசனங்களை கைப்பற்றியுள்ளது.
+
+ஐக்கிய மக்கள் சக்தி 02 ஆசனங்கள் கைப்பற்றியுள்ளதுடன் , புதிய ஜனநாயக முன்னணி 01 ஆசனத்தை பெற்றுள்ளது .
+
+◼️
+
+[Data](articles/9eaca262.json)
+
+---
+
+### களுத்துறை விருப்பு வாாக்கில் NPP முதலிடம்
+
+*2024-11-15 15:44:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-விருப்பு-வாாக்கில்-NPP-முதலிடம்/175-347262) · `ta`
+
+◼️
+
+[Data](articles/4ab043a3.json)
+
+---
+
+### Kalutara District preferential vote results released
+
+*2024-11-15 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103516/kalutara-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Kalutara District in the 2024 General Election have been released.
+
+NPP’s Nalinda Jayatissa has polled the highest number of preferential votes in the Kalutara District.
+
+Ajith Perera and Jagath Vithana have obtained the highest number of preferential votes to secure two parliamentary seats for the SJB in the district, while Rohitha Abeygunawardhana secured a seat for the New Democratic Front (NDF).
+
+◼️
+
+[Data](articles/70e52d8a.json)
+
+---
+
+### அநுர தரப்புக்கு 18 தேசியப் பட்டியல் ஆசனங்கள் : முழு விபரம் இதோ
+
+*2024-11-15 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198868) · `ta`
+
+பொதுத் தேர்தலில் கட்சிகள் பெற்றுக்கொண்ட ஆசனங்களின் அடிப்படையில் ஒவ்வொரு கட்சிகளுக்கும் தேசியப்பட்டியல் ஆசனங்கள் ஒதுக்கப்பட்டுள்ளன.
+
+ஜனாதிபதி அநுரகுமார திஸாநாயக்க தலைமையிலான தேசிய மக்கள் சக்திக்கு 18 தேசியபட்டியல் ஆசனங்கள் கிடைக்பெற்றதையடுத்து அந்த கட்சிக்கு மொத்தமாக 159 ஆசனங்கள் கிடைக்கப்பெற்றுள்ளன.
+
+இதேநேரம் சஜித் பிரேமதாஸ தலைமையிலான ஐக்கிய மக்கள் சக்திக்கு தேசியப் பட்டியல் ஊடாக 5 ஆசனங்கள் கிடைக்கப்பெற்றதையடுத்து அந்தக் கூட்டணிக்கு 40 ஆசனங்கள் கிடைக்கப்பெற்றுள்ளன.
+
+இலங்கை தமிழரசுக் கட்சிக்கு ஒரு தேசியப் பட்டியல் ஆசனத்துடன் மொத்தமாக 8 ஆசனங்கள் கிடைக்கப்பெற்றுள்ளன.
+
+முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான புதிய ஜனநாயக முன்னணிக்கு 2 தேசியப்பட்டியல் ஆசனங்களுடன் 5 ஆசனங்கள் கிடைக்கப்பெற்றுள்ளன.
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ்க்கு கிடைக்கப்பெற்ற ஒரு தேசியப் பட்டியல் ஆசனத்தின் ஊடாக அந்தக் கட்சிக்கு 3 ஆசனங்கள் கிடைக்கப்பெற்றுள்ளன.
+
+◼️
+
+[Data](articles/65a1ce98.json)
+
+---
+
+### Anuradhapura District preferential vote results released
+
+*2024-11-15 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103515/anuradhapura-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Anuradhapura District in the 2024 General Election have been released.
+
+NPP’s Wasantha Samarasinghe has polled the highest number of preferential votes in the Anuradhapura District.
+
+Rohana Bandara and Suranga Rathnayaka have obtained the highest number of preferential votes to secure two parliamentary seats for the SJB in the district.
+
+◼️
+
+[Data](articles/10db6820.json)
+
+---
 
 ### Special NPP press conference after election victory
 
@@ -1975,137 +2087,5 @@ A police sergeant on duty in the Moneragala Division and the police officer who 
 [Data](articles/7edbb418.json)
 
 [Extended Data](ext_articles/7edbb418.ext.json)
-
----
-
-### Firing at Homagama
-
-*2024-11-15 07:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹோமாகமவில்-துப்பாக்கிச்-சூடு/175-347218) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Unidentified gunman fires at businessman in Homagama. Victim rushed to hospital with two bullets. Police investigating motive, suspecting possible revenge attack.
-
-🟩
-
-Homagama headquarters police said that an unidentified person in the Homagama, Kalawalawatta area had fired a man who was allegedly a businessman.
-
-Police said that the man who was shot dead was admitted to the Homagama Resource Hospital and two bullets were flowing in his body.
-
-Police said the person who was targeted at the shooting was receiving treatment at the hospital after the surgery.
-
-Based on the preliminary information, a senior police officer said that the shooting may have been aimed at revenge.
-
-◼️
-
-[Data](articles/973acdc5.json)
-
-[Extended Data](ext_articles/973acdc5.ext.json)
-
----
-
-### NPP wins in Colombo-Central, Moratuwa, Gampola, Nawalapitiya and Udunuwara
-
-*2024-11-15 07:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103482/npp-wins-in-colombo-central-moratuwa-gampola-nawalapitiya-and-udunuwara) · `en`
-
-The National People’s Power (NPP) has emerged victorious in the Moratuwa and Colombo-Central polling divisions in the Colombo District and Gampola, Nawalapitiya and Udunuwara polling divisions in Kandy District.
-
-◼️
-
-[Data](articles/84a31325.json)
-
-[Extended Data](ext_articles/84a31325.ext.json)
-
----
-
-### 9 more polling divisions including Kopay, Kalawewa goes to NPP
-
-*2024-11-15 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103481/9-more-polling-divisions-including-kopay-kalawewa-goes-to-npp) · `en`
-
-The National People’s Power (NPP) has secured victories in the Mawathagama, Nikaweratiya, Balangoda, Kalawewa, Dodangaslanda, Galgamuwa, Wariyapola, Kopay and Anamaduwa polling divisions.
-
-◼️
-
-[Data](articles/833fca28.json)
-
-[Extended Data](ext_articles/833fca28.ext.json)
-
----
-
-### The coffee was also lost
-
-*2024-11-15 06:58:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கோப்பாயும்-பறிபோனது/71-347217) · `ta`
-
-Here's a summary of "The coffee was also lost" in approximately 200 characters:
-
-
-
-"The coffee, once eagerly anticipated, vanished without a trace. Its disappearance left a bitter taste, not just from the undrinkable brew, but from the unfulfilled promise of a morning pick-me-up."
-
-🟩
-
-◼️
-
-[Data](articles/56a57543.json)
-
-[Extended Data](ext_articles/56a57543.ext.json)
-
----
-
-### Five seats to compress from Nuwara Eliya
-
-*2024-11-15 06:57:34* · [`adalk`](https://www.ada.lk/breaking_news/නුවරඑළියෙන්-මාලිමාවට-ආසන-පහක්/11-413054) · `si`
-
-Nuwara Eliya election results: 5 seats for national party, 2 for UNP.
-
-🟩
-
-The entire results of the Nuwara Eliya district released. Accordingly, the national propice has five seats and two seats for the United National Party and the UNP.
-
-◼️
-
-[Data](articles/a9557462.json)
-
-[Extended Data](ext_articles/a9557462.ext.json)
-
----
-
-### NPP wins 5 seats in Nuwara Eliya District
-
-*2024-11-15 06:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/103480/npp-wins-5-seats-in-nuwara-eliya-district) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Nuwara Eliya District in the 2024 General Election with the National People’s Power (NPP) polling more than 41% of the total votes in the district.
-
-NPP has polled 161,167 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 53,200 votes (26.21%).
-
-Accordingly, the NPP has secured 5 seats in the district while the SJB has won two seats and the UNP a single seat in the district.
-
-◼️
-
-[Data](articles/82cfa121.json)
-
-[Extended Data](ext_articles/82cfa121.ext.json)
-
----
-
-### Mattala is also convenient
-
-*2024-11-15 06:49:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளையும்-அனுர-வசமானது/175-347216) · `ta`
-
-Here's a summary of "Mattala is also convenient" in approximately 200 characters:
-
-
-
-Convenience factor of Mattala: Positive aspects outweigh drawbacks. Easy access, modern amenities, and efficient services contribute to overall comfort. While challenges exist, benefits make it a practical choice for travelers.
-
-🟩
-
-◼️
-
-[Data](articles/972de8f4.json)
-
-[Extended Data](ext_articles/972de8f4.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 17:10:27**
+As of **2024-11-15 17:25:27**
 
 ## Newspaper Stats
 
-*Scraped **55,096** Articles*
+*Scraped **55,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,52 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,644
+adaderanalk | 6,646
 tamilmirrorlk | 7,810
-virakesarilk | 8,923
+virakesarilk | 8,925
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,095 (100.0%) of 55,096 articles have been extended.
+55,096 (100.0%) of 55,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Batticaloa District preferential vote results
+
+*2024-11-15 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103521/batticaloa-district-preferential-vote-results) · `en`
+
+The preferential vote results of the Batticaloa District in the 2024 General Election have been released.
+
+ITAK’s Shanakiyan Rasamanickam has polled the highest number of preferential votes in the Batticaloa District while his party has secured 3 seats.
+
+Kandasami Prabhu has managed to secure a parliamentary seat in the district for the NPP while M.L.A.M. Hizbullah. has secured a seat for the SLMC.
+
+◼️
+
+[Data](articles/e71cca3e.json)
+
+---
+
+### Preference vote results of Kegalle District
+
+*2024-11-15 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103520/preference-vote-results-of-kegalle-district) · `en`
+
+The preferential vote results of the Kegalle District in the 2024 General Election have been released.
+
+NPP’s Dammika Patabendi has polled the highest number of preferential votes in the Kegalle District.
+
+Kabeer Hashim and Sujith Sanjaya Perera have obtained the highest number of preferential votes for the SJB to secure two parliamentary seats in the district.
+
+◼️
+
+[Data](articles/c7c6ee1f.json)
+
+---
 
 ### Puttalam District preference vote results
 
@@ -45,6 +77,64 @@ Hector Appuhami and Janath Chithral Fernando have obtained the highest number of
 ◼️
 
 [Data](articles/473d458a.json)
+
+[Extended Data](ext_articles/473d458a.ext.json)
+
+---
+
+### பரம்பரை அரசியல் செய்யும் தேவையும் விருப்பமும் எனக்கில்லை - அங்கஜன் இராமநாதன்
+
+*2024-11-15 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198880) · `ta`
+
+நடைபெற்று முடிந்த நாடாளுமன்ற தேர்தல் முடிவுகளை ஏற்றுக்கொள்ளும் அதேநேரத்தில், காலங்காலமாக பரம்பரை அரசியல் செய்யும் தேவையும் விருப்பமும் எனக்கில்லை என்பதோடு என்னால் எனது சொந்த விடயங்களை கவனிக்க கிடைத்த சந்தர்ப்பமாகவும் இதனை எடுத்துக் கொள்கிறேன் என நாடாளுமன்ற முன்னாள் உறுப்பினர் அங்கஜன் இராமநாதன் இன்று வெள்ளிக்கிழமை (15) ஊடகங்களுக்கு அனுப்பி வைத்துள்ள செய்தி குறிப்பில் அவ்வாறு குறிப்பிட்டுள்ளார்.
+
+பாராளுமன்றத் தேர்தலில் யாழ்ப்பாண தேர்தல் மாவட்ட மக்கள் வழங்கியுள்ள தீர்ப்பினை ஏற்றுக்கொள்வதோடு பாராளுமன்றத்துக்கு தெரிவாகியுள்ள உறுப்பினர்களுக்கு எனது வாழ்த்துக்களையும் தெரிவித்துக் கொள்கிறேன்.
+
+கடந்த காலங்களில் நாம் மக்களுக்காக பொறுப்பெடுத்து மேற்கொண்ட பொறுப்புகளை மக்கள் எம்மிடமிருந்து எடுத்து புதியவர்களின் கைகளுக்கு கொடுத்துள்ளனர். இம்முடிவை வழங்கிய மக்களிடம் நாம் எவ்வித வெறுப்புகளும் கொள்ளப்போவதில்லை. பல்வேறு தேவைகளோடு வாழும் மக்கள் அவற்றை தீர்ப்பதற்கான வழியை புதிதான முறையில் தேர்ந்தெடுத்த ஓர் தீர்மானமாகவே கருகிறோம்.
+
+...
+
+[Data](articles/a8464e68.json)
+
+---
+
+### Mullaitivu people welcomed Durairasa Ravikaran, who won the parliamentary election
+
+*2024-11-15 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198865) · `ta`
+
+Mullaitivu residents greeted Durairasa Ravikaran, TNA's parliamentary election winner. Community members, activists, and youth attended the welcoming event in Mullaitivu Nagar.
+
+🟩
+
+The Sri Lanka Tamil National Party (TNA) has contested the Vannidal constituency to welcome Durairasa Ravikaran in Mullaitivu today (15).
+
+All the people of Mullaitivu were gathered in the Mullaitivu Nagar area today (14).
+
+The event, which began at 10 am today, has begun a celebration of the evening's winning candidate.
+
+The people of Mullaitivu district, community activists and youth were also present at the reception.
+
+◼️
+
+[Data](articles/46bd4864.json)
+
+[Extended Data](ext_articles/46bd4864.ext.json)
+
+---
+
+### முதல் தடவையாக இரு மலையகத் தமிழ்ப்பெண்கள் பாராளுமன்றத்துக்கு தெரிவு
+
+*2024-11-15 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198879) · `ta`
+
+மலையக அரசியல் வரலாற்றில் முதல் தடவையாக மலையக சமூகத்தைச் சேர்ந்த இரு பெண்கள் பாராளுமன்றத்துக்கு தெரிவாகியுள்ளனர்.
+
+தேசிய மக்கள் சக்தியின் நுவரெலியா மாவட்ட வேட்பாளரான கலைச்செல்வி 33,346 விருப்பு வாக்குகளைப் பெற்று வெற்றி பெற்றுள்ள அதே வேளை பதுளை மாவட்டத்தின் தேசிய மக்கள் சக்தியின் வேட்பாளர் அம்பிகா சாமுவேல் 58,201 வாக்குகளைப் பெற்று வெற்றி பெற்றுள்ளார்.
+
+1977 ஆம் ஆண்டு முதலாவது மலையக பிரதிநிதித்துவத்தைப் பெற்ற மலையக சமூகம் கடந்த 47 வருடங்களில் பெற்ற முதலாவது பெண் பிரதிநிதித்துவம் இது என்பது முக்கிய விடயம்.
+
+◼️
+
+[Data](articles/332b2eb4.json)
 
 ---
 
@@ -383,30 +473,6 @@ It is worth noting that the people of Mullaitivu today greeted the victory in th
 [Data](articles/8cc8d207.json)
 
 [Extended Data](ext_articles/8cc8d207.ext.json)
-
----
-
-### Mullaitivu people welcomed Durairasa Ravikaran, who won the parliamentary election
-
-*2024-11-15 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198865) · `ta`
-
-Mullaitivu residents greeted Durairasa Ravikaran, TNA's parliamentary election winner. Community members, activists, and youth attended the welcoming event in Mullaitivu Nagar.
-
-🟩
-
-The Sri Lanka Tamil National Party (TNA) has contested the Vannidal constituency to welcome Durairasa Ravikaran in Mullaitivu today (15).
-
-All the people of Mullaitivu were gathered in the Mullaitivu Nagar area today (14).
-
-The event, which began at 10 am today, has begun a celebration of the evening's winning candidate.
-
-The people of Mullaitivu district, community activists and youth were also present at the reception.
-
-◼️
-
-[Data](articles/46bd4864.json)
-
-[Extended Data](ext_articles/46bd4864.ext.json)
 
 ---
 
@@ -2057,79 +2123,5 @@ The national protocol was owned by 6,863,186 votes in this year's general electi
 [Data](articles/64a01d29.json)
 
 [Extended Data](ext_articles/64a01d29.ext.json)
-
----
-
-### Kegalle is also convenient
-
-*2024-11-15 08:25:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேகாலையும்-அனுர-வசமானது/175-347226) · `ta`
-
-Here's a summary of "Kegalle is also convenient" in 200 characters:
-
-
-
-Kegalle offers easy access and practicality. Its strategic location makes it an ideal choice for those seeking convenience in daily life. The town's infrastructure supports quick commutes and essential services, enhancing overall livability.
-
-🟩
-
-◼️
-
-[Data](articles/bb7ae1a1.json)
-
-[Extended Data](ext_articles/bb7ae1a1.ext.json)
-
----
-
-### NPP, SJB, ITAK, DTNA and SLLP share seats in Vanni District
-
-*2024-11-15 08:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103485/npp-sjb-itak-dtna-and-sllp-share-seats-in-vanni-district) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Vanni District in the 2024 General Election with the National People’s Power (NPP) polling more than 20% of the total votes in the district.
-
-NPP has polled 39,894 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 32,232 votes (16.45%).
-
-Accordingly, the NPP has secured 2 seats in the district while the SJB, ITAK, DTNA and SLLP have won one seat each in the district.
-
-◼️
-
-[Data](articles/087a5cad.json)
-
-[Extended Data](ext_articles/087a5cad.ext.json)
-
----
-
-### Vanni lost the Tamil party
-
-*2024-11-15 08:20:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னியை-இழந்தது-தமிழரசு-கட்சி/175-347225) · `ta`
-
-Here's a summary of "Vanni lost the Tamil party" in approximately 200 characters:
-
-
-
-Vanni, a key location in Sri Lanka's civil war, saw the Tamil separatist movement lose control. This shift impacted regional politics and security dynamics. The loss led to changes in local governance and power structures, affecting both Tamil and Sinhalese communities.
-
-🟩
-
-◼️
-
-[Data](articles/4eb0d0ba.json)
-
-[Extended Data](ext_articles/4eb0d0ba.ext.json)
-
----
-
-### The Colombo North was lost
-
-*2024-11-15 08:15:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-வடக்கும்-பறிபோனது/175-347224) · `ta`
-
-Colombo North ship sank
-
-🟩
-
-◼️
-
-[Data](articles/a9bffa9e.json)
-
-[Extended Data](ext_articles/a9bffa9e.ext.json)
 
 ---

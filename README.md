@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 15:25:24**
+As of **2024-11-15 15:11:56**
 
 ## Newspaper Stats
 
-*Scraped **55,081** Articles*
+*Scraped **55,078** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 426
 colombotelegraphcom | 559
-bbccomsinhala | 561
+bbccomsinhala | 560
 islandlk | 3,291
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
-adaderanalk | 6,639
+adaderanalk | 6,637
 tamilmirrorlk | 7,807
 virakesarilk | 8,921
 adaderanasinhalalk | 9,505
@@ -26,39 +26,11 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,077 (100.0%) of 55,081 articles have been extended.
+55,077 (100.0%) of 55,078 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
-
-### Special NPP press conference after election victory
-
-*2024-11-15 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103514/special-npp-press-conference-after-election-victory) · `en`
-
-The members of the National People’s Power (NPP) are holding a special press conference after having a secured a resounding victory in the 2024 Parliamentary Election.
-
-◼️
-
-[Data](articles/199f1a0c.json)
-
----
-
-### Kandy District preferential vote results
-
-*2024-11-15 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103513/kandy-district-preferential-vote-results-) · `en`
-
-The preferential vote results of the Kandy District in the 2024 General Election have been released.
-
-NPP’s R K.D. Lal Kantha has polled the highest number of preferential votes in the Kandy District.
-
-Rauf Hakeem and Chamindrani Kiriella have secured two parliamentary seats for the SJB in the district while Anuradha Jayarathne secured a seat for the New Democratic Front (NDF).
-
-◼️
-
-[Data](articles/085df1fb.json)
-
----
 
 ### மொனராகலையை கைப்பற்றிய திசைக்காட்டி
 
@@ -1264,30 +1236,6 @@ Kanjana Vijayasekaran lost her seat due to poor election performance. Former min
 
 ---
 
-### මෙවර මහ මැතිවරණයේදී පාර්ලිමේන්තුවෙන් අතු ගා දැමුණු හිටපු මන්ත්‍රීවරුන් කවු ද?
-
-*2024-11-15 09:37:33* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c1ml78x3l5mo) · `si`
-
-මෙවර මහ මැතිවරණයේදී පාර්ලිමේන්තුවෙන් අතු ගා දැමුණු හිටපු මන්ත්‍රීවරුන් කවු ද?
-
-2024 මහ මැතිවරණය ශ්‍රී ලංකා ඉතිහාසයේ සුවිශේෂී මැතිවරණයක් වූයේ, පරම්පරාවෙන් ම දේශපාලනයේ නිරත වූ, දශක ගණනාවක් පාර්ලිමේන්තුව නියෝජනය කළ ජ්‍යෙෂ්ඨ මන්ත්‍රීවරුන් රැසක් විශ්‍රාම ගැන්වූ මැතිවරණයක් වූ නිසා ය.
-
-මෙවර පාර්ලිමේන්තු මහ මැතිවරණයට තරග නොකිරීමට හිටපු ජනාධිපතිවරුන් වන මහින්ද රාජපක්ෂ, මෛත්‍රීපාල සිරිසේන සහ රනිල් වික්‍රමසිංහ කලින් ම තීරණය කළහ.
-
-හිටපු අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මෙවර මහ මැතිවරණය සඳහා තරග නොකිරීමට තීරණය කළ ද ගෑස් සිලින්ඩරය ලකුණ යටතේ ජාතික ලැයිස්තුවේ මුල් ම අපේක්ෂකයා ලෙස ඇතුළත්ව සිටියේය.
-
-මීට අමතරව පසුගිය පාර්ලිමේන්තුවේ කතානායකවරයා ලෙස කටයුතු කළ මහින්ද යාපා අබේවර්ධන ද මෙවර මහ මැතිවරණය සඳහා තරග නොකළ අතර ඔහු ද ගෑස් සිලින්ඩරය ලකුණ යටතේ ජාතික ලැයිස්තුව සඳහා ඇතුළත්ව සිටියේය.
-
-හිටපු ජනමාධ්‍ය හා ප්‍රවාහන අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන ද මෙවර මහ මැතිවරණය සඳහා තරග නොකරන බව ප්‍රකාශ කළේය.
-
-ඊට අමතරව හිටපු අමාත්‍ය ප්‍රසන්න රණතුංග සහ ජනාධිපති නීතිඥ අලී සබ්රි ද මෙවර මහ මැතිවරණය සඳහා තරග කළේ නැත.
-
-...
-
-[Data](articles/b8fcb563.json)
-
----
-
 ### Kandy District final results released as NPP wins 9 seats
 
 *2024-11-15 09:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103495/kandy-district-final-results-released-as-npp-wins-9-seats) · `en`
@@ -2083,5 +2031,67 @@ Convenience factor of Mattala: Positive aspects outweigh drawbacks. Easy access,
 [Data](articles/972de8f4.json)
 
 [Extended Data](ext_articles/972de8f4.ext.json)
+
+---
+
+### Tenkoon will lose parliament
+
+*2024-11-15 06:49:52* · [`adalk`](https://www.ada.lk/breaking_news/තෙන්නකොන්ලාට-පාර්ලිමේන්තුව-අහිමිවෙයි/11-413053) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Tenkoon family loses parliamentary seat. New Democratic Front competes but fails to secure Matale District seat. Compass party wins four seats, People's Power one seat in Matale District.
+
+🟩
+
+Tennakoon family, a traditional political family of the Matale district, has lost the opportunity to enter Parliament. Although the new Democratic Front, representing the new Democratic Front, competees to the party unable to obtain a seat of Matale District.
+
+Four five seats in Matale District, the composition won the compass and a seat for the people of power.
+
+◼️
+
+[Data](articles/b1281adf.json)
+
+[Extended Data](ext_articles/b1281adf.ext.json)
+
+---
+
+### Hakeem lost Kalmunai
+
+*2024-11-15 06:46:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/கல்முனையை-இழந்தார்-ஹக்கீம்/74-347215) · `ta`
+
+Here's a summary of "Hakeem lost Kalmunai" in approximately 200 characters:
+
+
+
+Hakeem, a prominent figure, experienced defeat in Kalmunai. This event likely had significant consequences or implications, though details are limited. The phrase suggests a loss of control or influence over Kalmunai, which could be geographical, political, or strategic in nature.
+
+🟩
+
+◼️
+
+[Data](articles/0bad1df7.json)
+
+[Extended Data](ext_articles/0bad1df7.ext.json)
+
+---
+
+### Matale District final results: NPP wins 4 seats, SJB gets one
+
+*2024-11-15 06:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103479/matale-district-final-results-npp-wins-4-seats-sjb-gets-one-) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Matale District in the 2024 General Election with the National People’s Power (NPP) polling more than 66% of the total votes in the district.
+
+NPP has polled 181,678 votes to win the district while the Samagi Jana Balawegaya (SJB) is second with 53,200 votes (19.37%).
+
+Accordingly, the NPP has secured 4 seats in the district while the SJB has won one seat in the district.
+
+◼️
+
+[Data](articles/54c2f78d.json)
+
+[Extended Data](ext_articles/54c2f78d.ext.json)
 
 ---

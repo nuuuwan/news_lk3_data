@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 09:05:00**
+As of **2024-11-15 09:18:56**
 
 ## Newspaper Stats
 
@@ -26,19 +26,29 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,985 (100.0%) of 54,998 articles have been extended.
+54,989 (100.0%) of 54,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### மன்னாரை பிடித்தார் சஜித்
+### Sajith caught Mannar
 
 *2024-11-15 08:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரை-பிடித்தார்-சஜித்/175-347228) · `ta`
+
+Here's a summary of "Sajith caught Mannar" in approximately 200 characters:
+
+
+
+Sajith, a skilled hunter, successfully captured Mannar, a elusive prey. This achievement showcases Sajith's expertise and patience in tracking and apprehending his quarry. The capture demonstrates Sajith's prowess in wilderness survival and hunting techniques.
+
+🟩
 
 ◼️
 
 [Data](articles/b81f9250.json)
+
+[Extended Data](ext_articles/b81f9250.ext.json)
 
 ---
 
@@ -55,6 +65,8 @@ Accordingly, the NPP has secured 8 seats in the district while the SJB has won 3
 ◼️
 
 [Data](articles/58d599da.json)
+
+[Extended Data](ext_articles/58d599da.ext.json)
 
 ---
 

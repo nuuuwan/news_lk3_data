@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 21:12:41**
+As of **2024-11-15 20:41:38**
 
 ## Newspaper Stats
 
-*Scraped **55,136** Articles*
+*Scraped **55,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,651
+adaderanalk | 6,650
 tamilmirrorlk | 7,813
 virakesarilk | 8,927
 adaderanasinhalalk | 9,530
@@ -26,155 +26,87 @@ adaderanasinhalalk | 9,530
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,112 (100.0%) of 55,136 articles have been extended.
+55,106 (99.9%) of 55,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### Seven injured as truck collides with train in Weligama
-
-*2024-11-15 20:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/103526/seven-injured-as-truck-collides-with-train-in-weligama-) · `en`
-
-Seven persons including two children were injured when a light truck collided against a train at a railway crossing in Weligama.
-
-Police said the collision had occurred due to the driver of the truck disobeying the red signal at the Polwatte, Weligama level crossing, and attempted to pass through.
-
-The injured persons have been hospitalised while some are in critical condition, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/5579a279.json)
-
-[Extended Data](ext_articles/5579a279.ext.json)
-
----
-
-### President welcomed India
+### ඉන්දියාවෙන් ජනපති අනුරට ආ සුබ පැතුම
 
 *2024-11-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203410) · `si`
 
-Here's a 200-character summary:
+මහ මැතිවරණයෙන් ජාතික ජන බලවේගය ලද විශිෂ්ට ජයග්‍රහණයට සුබපැතීම සඳහා ශ්‍රී ලංකාවේ ඉන්දීය මහ කොමසාරිස් සන්තෝෂ් ජා මහතා ජනධිපති අනුර කුමාර දිසානායක මහතා හමුවී තිබේ.
 
-
-
-Indian High Commissioner meets Sri Lankan President. Discusses strengthening bilateral ties and mutual benefits between nations.
-
-🟩
-
-President of the High Commissioner of India to the President of the High Commissioner of India has met with President Anura Kumara Dissanayake to join the great achievement of the national folk force in the general election.
-
-The Indian High Commissioner's office said that a neighboring democratic state of the X space is the joint of the national folk democratic state and is committed to further strengthening bilateral relations for the benefit of the people of the two countries.
+ඒ පිළිබඳ එක්ස් අවකාශයේ සටහනක් තබමින් ඉන්දීය මහ කොමසාරිස් කාර්යාලය සඳහන් කළේ, අසල්වැසි ප්‍රජාතන්ත්‍රවාදී රාජ්‍යයක් ලෙස ඉන්දියාව ජාතික ජන බලවේගය ලැබූ ජන වරමට සුබපතන අතර, දෙරටේ ජනතාවගේ සුබසෙත උදෙසා ද්වීපාර්ශ්වික සබඳතා තවදුරටත් ශක්තිමත් කරලීමට කැපවී සිටින බවය.
 
 ◼️
 
 [Data](articles/5d3fb60f.json)
 
-[Extended Data](ext_articles/5d3fb60f.ext.json)
-
 ---
 
-### Seven people injured in train accident
+### ரயில் விபத்தில் ஏழு பேர் படுகாயம்
 
 *2024-11-15 20:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-ஏழு-பேர்-படுகாயம்/175-347266) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-Train collision injures 7: 2 boys among victims in Weligama-Pollathu Motara incident.
-
-🟩
-
-Seven people, including two boys, were injured when a small lorry collided with a train in the Weligama - Pollathu Motara area.. Remble
+வெலிகம - பொல்அத்து மோதர பிரதேசத்தில் சிறிய ரக லொறி, ரயிலுடன் மோதி விபத்துக்குள்ளானதில், லொறியில் பயணித்த இரு சிறுவர்கள் உட்பட 7 பேர் காயமடைந்துள்ளதாக தெரிவிக்கப்படுகின்றது. R
 
 ◼️
 
 [Data](articles/609e6f2b.json)
 
-[Extended Data](ext_articles/609e6f2b.ext.json)
-
 ---
 
-### Sivaganga cancels transport
+### சிவகங்கை போக்குவரத்து இரத்து
 
 *2024-11-15 20:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவகங்கை-போக்குவரத்து-இரத்து/175-347265) · `ta`
 
-Sivaganga cancels transport: Sri Lanka-India passenger shipping suspended Nov 19, 2024 to Dec 18, 2024. Service resumes Dec 19, 2024. Remble:0
+2024ஆம் ஆண்டு நவம்பர் 19ஆம் திகதி முதல், 2024ஆம் ஆண்டு டிசம்பர் 18ஆம் திகதி வரை இலங்கை - இந்திய பயணிகள் கப்பல் சேவை இடைநிறுத்தப்பட்டுள்ளது.
 
-🟩
+எனினும் இதற்கு முன்னதாக, நாகப்பட்டினம் மற்றும் காங்கேசன் துறைமுகம் ஆகிய இரு பகுதிகளிலும் பயணிகளின் வசதிக்காக சிவகங்கை கப்பல் 2024 நவம்பர் 15, 16, 17 மற்றும் 18 ஆகிய திகதிகளில் இயக்கப்படும் எனவும் குறிப்பிடப்பட்டுள்ளது.
 
-Sri Lanka -Indian passenger shipping service has been suspended from 19th November 2024 to December 18, 2024.
-
-Earlier, it has been stated that the Sivaganga Ship will be operated on November 15, 16, 16, 17 and 18 for the convenience of passengers in both Nagapattinam and Kankesan Port.
-
-It has been stated that the service will be resumed after December 18, 2024 and will let you know if there is any changes in these projects. Remble
+2024 டிசம்பர் 18க்குப் பிறகு சேவை மீண்டும் தொடங்கும் என்றும், இந்த திட்டங்களில் ஏதேனும் மாற்றங்கள் இருந்தால் உங்களுக்குத் தெரியப்படுத்துவோம் என்றும் தெரிவிக்கப்பட்டுள்ளது. R
 
 ◼️
 
 [Data](articles/c833611d.json)
 
-[Extended Data](ext_articles/c833611d.ext.json)
-
 ---
 
-### Small lorry collides
+### කුඩා ලොරියක් දුම්රියේ ගැටෙයි
 
 *2024-11-15 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203409) · `si`
 
-Here's a summary in 200 characters:
+වැලිගම, පොල්අතු මෝදර දුම්රිය හරස් මාර්ගයේ දී දී කුඩා ලොරි රථයක් දුම්රියේ ගැටී බිහිසුණු අනතුරක් සිදුව තිබේ.
 
-
-
-"Small lorry collides with train at Coconut Modara crossing. Seven children injured, including two in lorry."
-
-🟩
-
-A small lorry collided with a small lorry train at the Coconut Modara railway crossing on the train.
-
-Our correspondent said seven children including two children in the lorry were injured.
+අප වාර්තාකරු පැවසුවේ අනතුරින් ලොරි රථයේ සිටි දරුවන් දෙදෙනෙකු ඇතුළු 7 දෙනෙකු තුවාල ලබා ඇති බවය.
 
 ◼️
 
 [Data](articles/ca61a0da.json)
 
-[Extended Data](ext_articles/ca61a0da.ext.json)
-
 ---
 
-### Former MPs, Twenthed Ministers in front of the people's sovereignty
+### ජනතා පරමාධිපත්‍ය බලය ඉදිරියේ විසිවුණු හිටපු මැති ඇමතිවරු
 
 *2024-11-15 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203408) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+හිටපු මැති ඇමතිවරු රැසකට ඊයේ (14) පැවති මහ මැතිවරණයේදී සිය මන්ත්‍රිධුරය අහිමි වී තිබුණි.
 
+ඒ අතරට පසුගිය රජය නියෝජනය කළ ප්‍රබල අමාත්‍යවරුන් කිහිපදෙනෙකු ද අයත් වීම විශේෂත්වයකි.
 
+කොළඹ දිස්ත්‍රික්ක නියෝජනය කරමින් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණින් මැතිවරණයට ඉදිරිපත් වූ සුසිල් ප්‍රේමජයන්ත, ප්‍රේමනාත් සී. දොලවත්ත සහ මධුර විතාන යන මහත්වරුන්ට මෙන්ම සමගි ජන බලවේගය නියෝජනය කරමින් ඉදිරිපත් වූ මනෝ ගනේෂන් සහ ඉරාන් වික්‍රමරත්න යන මහත්වරුන්ට ද සිය මන්ත්‍රිධුර අහිමි වුණි.
 
-Several former ministers and politicians lost their seats in the recent elections. Key losses include Susil Premajayantha, Sarath Weerasekera, Udaya Gammanpila, and others from various parties. Some notable winners include Rajitha Senaratne and Vidura Wickramanayaka. The summary focuses on the major political figures who lost their seats in the election.
+එමෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණින් කොළඹ දිස්ත්‍රික්කයට ඉදිරිපත් වූ සරත් වීරසේකර මහතාටද පාර්ලිමේන්තු වරම් අහිමි විය.
 
-🟩
+සර්වජන බලයෙන් තරග වැදුණු උදය ගම්මන්පිල මහතාට ද මෙවර සිය අසුන අහිමිවී තිබේ.
 
-Former ministers and several other ministers had lost their sense of election yesterday (14).
-
-Among them were several powerful government representatives.
-
-Susil Premajayantha, who brought the new Democratic Front representing the Colombo district, Susil Premajayantha, Premant. As well as the gentlemen, Dollawatte and Madurai Power and Iran Wickramaratne lost his own.
-
-Sarath Weerasekera also lodged a parliamentarian from the Sri Lanka General Front.
-
-Udaya Gammanpila, who contested with the universal power, lost his seat this time.
-
-Nimal Lansa, Nalin Fernando, Lasantha Alagiyawanna, Lasantha Alagiyawanna, Lasantha Alagiyawanna and Kokilla Gunawardena and Kokila Gunawardena competed by the Sri Lanka Alagiyawanwardena and Prasanra Ranaweera lost their father.
-
-Professor Channatilleka has lost the same incident in the Gampaha District in the 2020 General Election.
-
-Meanwhile, Rajitha Senaratne, Piyal Nishantha and Vidura Wickramanayaka who came to Kalutara district under the New Democratic Front.
+ගම්පහ දිස්ත්‍රික්කයට නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ යටතේ තරග වැදුණු නිමල් ලන්සා, නලින් ප්‍රනාන්දු, ලසන්ත අලගියවන්න සහ කෝකිලා ගුණවර්ධන  මෙන්ම ශ්‍රී ලංකා පොදුජන පෙරමුණින් තරග වැදුණු ඉන්දික අනුරුද්ධ සහ ප්‍රසන්න රණවීරට මන්ත්‍රිධුර අහිමි වී තිබුණි.
 
 ...
 
 [Data](articles/7aeb702c.json)
-
-[Extended Data](ext_articles/7aeb702c.ext.json)
 
 ---
 
@@ -2011,5 +1943,21 @@ The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats
 [Data](articles/0535966a.json)
 
 [Extended Data](ext_articles/0535966a.ext.json)
+
+---
+
+### Gampaha
+
+*2024-11-15 10:33:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கம்பஹா-அனுர-வசம்/175-347240) · `ta`
+
+Gampaha: A district in western Sri Lanka known for its agricultural production and political significance. It covers approximately 1,3
+
+🟩
+
+◼️
+
+[Data](articles/4fbe34f8.json)
+
+[Extended Data](ext_articles/4fbe34f8.ext.json)
 
 ---

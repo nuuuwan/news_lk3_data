@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 09:28:46**
+As of **2024-11-15 09:05:00**
 
 ## Newspaper Stats
 
-*Scraped **55,001** Articles*
+*Scraped **54,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,340
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,149
-adaderanalk | 6,617
-tamilmirrorlk | 7,777
+adaderanalk | 6,615
+tamilmirrorlk | 7,776
 virakesarilk | 8,915
 adaderanasinhalalk | 9,505
 
@@ -26,69 +26,19 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-54,992 (100.0%) of 55,001 articles have been extended.
+54,985 (100.0%) of 54,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
 
-### Prominent former MPs lose out as 2024 General Election results roll in
-
-*2024-11-15 09:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103492/prominent-former-mps-lose-out-as-2024-general-election-results-roll-in) · `en`
-
-Several prominent Ministers and Members of Parliament of the former government have already lost their seat, as the results of the 2024 General Election are being released.
-
-The former MPs who have already been ousted from the 10th Parliament are as follows;
-
-◼️
-
-[Data](articles/2b976dc4.json)
-
----
-
-### Jaffna District final results
-
-*2024-11-15 09:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/103491/jaffna-district-final-results-) · `en`
-
-The Election Commission of Sri Lanka has released the final results of the Jaffna District in the 2024 General Election with the National People’s Power (NPP) polling more than 24% of the total votes in the district.
-
-NPP has polled 80,830 votes to win the district while the ITAK is second with 63,327 votes (19.47%).
-
-Accordingly, the NPP has secured 3 seats in the district while the ITAK, ACTC and ‘Jaffna – Independent Group 17’ won 1 seat each in the district.
-
-◼️
-
-[Data](articles/166b7c74.json)
-
----
-
-### அம்பாறையும் அவுட்
-
-*2024-11-15 08:59:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அம்பாறையும்-அவுட்/175-347229) · `ta`
-
-◼️
-
-[Data](articles/cac63498.json)
-
----
-
-### Sajith caught Mannar
+### மன்னாரை பிடித்தார் சஜித்
 
 *2024-11-15 08:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மன்னாரை-பிடித்தார்-சஜித்/175-347228) · `ta`
-
-Here's a summary of "Sajith caught Mannar" in approximately 200 characters:
-
-
-
-Sajith, a skilled hunter, successfully captured Mannar, a elusive prey. This achievement showcases Sajith's expertise and patience in tracking and apprehending his quarry. The capture demonstrates Sajith's prowess in wilderness survival and hunting techniques.
-
-🟩
 
 ◼️
 
 [Data](articles/b81f9250.json)
-
-[Extended Data](ext_articles/b81f9250.ext.json)
 
 ---
 
@@ -105,8 +55,6 @@ Accordingly, the NPP has secured 8 seats in the district while the SJB has won 3
 ◼️
 
 [Data](articles/58d599da.json)
-
-[Extended Data](ext_articles/58d599da.ext.json)
 
 ---
 
@@ -1849,5 +1797,65 @@ Here's a summary of the Badulla District - Welimada election results in approxim
 [Data](articles/8a71d4cd.json)
 
 [Extended Data](ext_articles/8a71d4cd.ext.json)
+
+---
+
+### Mahinda Amaraweera out
+
+*2024-11-15 03:58:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்த-அமரவீர-அவுட்/175-347192) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Mahinda Amaraweera lost Hambantota parliamentary seat. National People's Power won 5 seats, United People's Power and Sri Lanka PA also victorious. New Democratic Front secured only 18,297 votes, no seats gained.
+
+🟩
+
+Former Minister Mahinda Amaraweera has lost the parliamentary election in Hambantota district.
+
+According to the final results of Hambantota, the National People's Power has won 5 seats, the United People's Power and the Sri Lanka PA.
+
+Mahinda Amaraweera contested on behalf of the new Democratic Front. That lead had only 18,297 votes. The team did not get any seats.
+
+◼️
+
+[Data](articles/85714664.json)
+
+[Extended Data](ext_articles/85714664.ext.json)
+
+---
+
+### NPP wins in Kandy, Haputale, Weligama, Kotmale and Laggala
+
+*2024-11-15 03:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103460/npp-wins-in-kandy-haputale-weligama-kotmale-and-laggala-) · `en`
+
+The National People’s Power (NPP) has secured victory in the Kandy polling division in Kandy District, Laggala polling division in Matale District, Haputale polling division in Badulla District and Weligama polling division in Matara District.
+
+◼️
+
+[Data](articles/5920a077.json)
+
+[Extended Data](ext_articles/5920a077.ext.json)
+
+---
+
+### Deniyaya Electoral constituency
+
+*2024-11-15 03:52:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தெனியாய-தேர்தல்-தொகுதியில்-திசைக்காட்டி-வெற்றி/175-347191) · `ta`
+
+Here's a summary of Deniyaya Electoral constituency in approximately 200 characters:
+
+
+
+Deniyaya is a parliamentary electoral district in Sri Lanka. It covers parts of Matara District in the Southern Province. The constituency was created in 1989 and elects one Member of Parliament using proportional representation.
+
+🟩
+
+◼️
+
+[Data](articles/0e12d7c0.json)
+
+[Extended Data](ext_articles/0e12d7c0.ext.json)
 
 ---

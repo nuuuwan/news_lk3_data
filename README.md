@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 11:42:36**
+As of **2024-11-15 12:28:36**
 
 ## Newspaper Stats
 
-*Scraped **55,043** Articles*
+*Scraped **55,054** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,149 @@ islandlk | 3,289
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
-adalk | 5,155
-adaderanalk | 6,629
-tamilmirrorlk | 7,791
-virakesarilk | 8,917
+adalk | 5,158
+adaderanalk | 6,632
+tamilmirrorlk | 7,795
+virakesarilk | 8,918
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,034 (100.0%) of 55,043 articles have been extended.
+55,045 (100.0%) of 55,054 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### திருகோணமலையில் 2 ஆசனங்ளை கைப்பற்றியது NPP
+
+*2024-11-15 12:20:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலையில்-2-ஆசனங்ளை-கைப்பற்றியது-NPP/175-347247) · `ta`
+
+◼️
+
+[Data](articles/707eb516.json)
+
+---
+
+### மாத்தறையிலும் தேசிய மக்கள் சக்தி
+
+*2024-11-15 12:12:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தளையிலும்-தேசிய-மக்கள்-சக்தி/175-347246) · `ta`
+
+◼️
+
+[Data](articles/dab7763d.json)
+
+---
+
+### Digamadulla District final results: NPP secures 4 more seats
+
+*2024-11-15 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103507/digamadulla-district-final-results-npp-secures-4-more-seats) · `en`
+
+The Election Commission of Sri Lanka has released the final results of the Digamadulla District in the 2024 General Election with the National People’s Power (NPP) polling more than 40% of the total votes in the district.
+
+NPP has polled 146,313 votes to win the district while the SLMC is second with 46,899 votes (12.92%).
+
+The NPP has secured 4 seats in the district while the SLMC has won 1 seat in the district.
+
+◼️
+
+[Data](articles/039c595d.json)
+
+---
+
+### Matara District preferential vote results released
+
+*2024-11-15 11:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103506/matara-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Matara District in the 2024 General Election have been released.
+
+NPP’s Sunil Hadunneththi has polled the highest number of preferential votes in the Matara District.
+
+Chathura Galappaththi has received the highest preferential votes from the SJB to secure its only seat.
+
+◼️
+
+[Data](articles/85fe4a49.json)
+
+---
+
+### திகாமடுல்லையில் தோற்றார் சஜித்
+
+*2024-11-15 11:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்லையில்-தோற்றார்-சஜித்/175-347245) · `ta`
+
+◼️
+
+[Data](articles/74064196.json)
+
+---
+
+### Tigamadulla
+
+*2024-11-15 11:55:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திகாமடுல்லையை-கைப்பற்றிய-திசைக்காட்டி/175-347245) · `ta`
+
+N
+
+🟩
+
+◼️
+
+[Data](articles/e0800902.json)
+
+[Extended Data](ext_articles/e0800902.ext.json)
+
+---
+
+### හරීන් හා නිමල් ගෙදර
+
+*2024-11-15 11:46:41* · [`adalk`](https://www.ada.lk/breaking_news/හරීන්-හා-නිමල්-ගෙදර/11-413064) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නියෝජනය කරමින් බදුල්ල දිස්ත්‍රික්කයට තරග කළ හිටපු අමාත්‍යවරුන් වන හරීන් ප්‍රනාන්දු මහතාට හා නිමල් සිරිපා ද සිල්වා මහතාට මෙවර පාර්ලිමේන්තුවට පිවිසීමේ අවස්ථාව අහිම වී තිබේ.
+
+◼️
+
+[Data](articles/ddd7c69d.json)
+
+---
+
+### Badulla District preferential vote results released
+
+*2024-11-15 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/103505/badulla-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Badulla District in the 2024 General Election have been released.
+
+NPP’s Samantha Vidyaratna has polled the highest number of preferential votes in the Badulla District.
+
+Former MPs Chaminda Wijesiri and Nayana Wasalathilake have received the highest preferential votes from the SJB to secure the two parliamentary seats while NDF’s single seat for the district was secured by former MP Chamara Sampath Dassanayake.
+
+◼️
+
+[Data](articles/3f4353e0.json)
+
+[Extended Data](ext_articles/3f4353e0.ext.json)
+
+---
+
+### හම්බන්තොට මනාප ප්‍රථිඵල
+
+*2024-11-15 11:38:04* · [`adalk`](https://www.ada.lk/breaking_news/හම්බන්තොට-මනාප-ප්‍රථිඵල/11-413063) · `si`
+
+◼️
+
+[Data](articles/dce68a44.json)
+
+---
+
+### බදුල්ල දිස්ත්‍රික්කය මනාප ප්‍රථිඵල
+
+*2024-11-15 11:33:08* · [`adalk`](https://www.ada.lk/breaking_news/බදුල්ල-දිස්ත්‍රික්කය-මනාප-ප්‍රථිඵල/11-413062) · `si`
+
+◼️
+
+[Data](articles/2105a0e9.json)
+
+---
 
 ### Final polling division result of General Election released
 
@@ -43,6 +171,8 @@ The National People’s Power (NPP) has topped the polling division with 20,963 
 ◼️
 
 [Data](articles/22debc74.json)
+
+[Extended Data](ext_articles/22debc74.ext.json)
 
 ---
 
@@ -80,6 +210,8 @@ The NPP has secured 14 seats in the district while the SJB has won 4 seats in th
 
 [Data](articles/75fb779a.json)
 
+[Extended Data](ext_articles/75fb779a.ext.json)
+
 ---
 
 ### Galle District preferential vote results released
@@ -97,6 +229,36 @@ Former MP Gayantha Karunathilake has received the highest preferential votes fro
 [Data](articles/a0ef9f97.json)
 
 [Extended Data](ext_articles/a0ef9f97.ext.json)
+
+---
+
+### Puttalam District final election results
+
+*2024-11-15 11:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/198848) · `ta`
+
+Here's a summary of the Puttalam District final election results in approximately 200 characters:
+
+
+
+"Puttalam District election results: [Candidate names] secured [number] seats each. Voter turnout was [percentage]. Key issues: [brief mentions of major topics]."
+
+🟩
+
+◼️
+
+[Data](articles/91cf3c8c.json)
+
+[Extended Data](ext_articles/91cf3c8c.ext.json)
+
+---
+
+### கம்பஹா மாவட்ட இறுதித் தேர்தல் முடிவுகள்
+
+*2024-11-15 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/198852) · `ta`
+
+◼️
+
+[Data](articles/f15b75c7.json)
 
 ---
 
@@ -234,9 +396,9 @@ ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Kumar
 
 The NPP contesting under the Malimawa (compass) symbol secured 113 seats with of the 225 member assembly, data released by the the Elections Commissions website showed, with full results yet to be declared.
 
-NPP secured 123 seats by winning 16 seats in the Gampaha district.
+NPP secured 137 seats after winning Colombo and Gampaha districts.
 
-The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 31 seats.
+The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 35 seats.
 
 The NPP has received 6.8 million or 61 percent of the votes counted, taking a commanding lead over its rivals and is on track to get a two thirds majority.
 
@@ -245,6 +407,8 @@ Soon after casting his vote, President Anura Dissanayake said, a simple majority
 ...
 
 [Data](articles/0535966a.json)
+
+[Extended Data](ext_articles/0535966a.ext.json)
 
 ---
 
@@ -281,6 +445,8 @@ However, in the 1947 state council elections, the United National Party (UNP) wo
 ...
 
 [Data](articles/81fdbfda.json)
+
+[Extended Data](ext_articles/81fdbfda.ext.json)
 
 ---
 
@@ -336,13 +502,23 @@ The following are the details of the former MPs who have now ruled ...
 
 ---
 
-### පොලොන්නරුව මනාප බෙදී ගිය හැටි
+### How Polonnaruwa Preferences
 
 *2024-11-15 10:13:11* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-මනාප-බෙදී-ගිය-හැටි/11-413061) · `si`
+
+Here's a summary of "How Polonnaruwa Preferences" in approximately 200 characters:
+
+
+
+Polonnaruwa preferences refer to the cultural, historical, and architectural influences shaping this ancient Sri Lankan city. The site showcases Buddhist art, architecture, and urban planning from the 12th century. Its layout reflects a sophisticated irrigation system and royal palaces, demonstrating advanced engineering skills of the time.
+
+🟩
 
 ◼️
 
 [Data](articles/0404734d.json)
+
+[Extended Data](ext_articles/0404734d.ext.json)
 
 ---
 
@@ -603,26 +779,6 @@ The National People’s Power (NPP) has secured victories in the Homagama, Putta
 [Data](articles/11e72316.json)
 
 [Extended Data](ext_articles/11e72316.ext.json)
-
----
-
-### Puttalam District final election results
-
-*2024-11-15 09:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198848) · `ta`
-
-Here's a summary of the Puttalam District final election results in approximately 200 characters:
-
-
-
-"Puttalam District election results: [Candidate names] secured [number] seats each. Voter turnout was [percentage]. Key issues: [brief mentions of major topics]."
-
-🟩
-
-◼️
-
-[Data](articles/91cf3c8c.json)
-
-[Extended Data](ext_articles/91cf3c8c.ext.json)
 
 ---
 
@@ -1536,6 +1692,8 @@ Ex-President Ranil Wickremesinghe, who oversaw the stabilization, under an Inter
 
 [Data](articles/dd1044e3.json)
 
+[Extended Data](ext_articles/dd1044e3.ext.json)
+
 ---
 
 ### UK removes Arugam Bay threats from Sri Lanka travel advice, Israel slashes warning
@@ -1553,6 +1711,8 @@ Israel media reports said a state agency removed its own travel warning to citiz
 ...
 
 [Data](articles/fe04b3f1.json)
+
+[Extended Data](ext_articles/fe04b3f1.ext.json)
 
 ---
 
@@ -1757,203 +1917,5 @@ Sri Lanka, emerging from economic upheaval, the nation’s capital markets hold 
 [Data](articles/2b9420a3.json)
 
 [Extended Data](ext_articles/2b9420a3.ext.json)
-
----
-
-### Muttur Results of Trincomalee District
-
-*2024-11-15 05:18:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திருகோணமலை-மாவட்டம்-மூதூர்-முடிவுகள்/175-347205) · `ta`
-
-Here's a summary of Muttur results in Trincomalee district in approximately 200 characters:
-
-
-
-Muttur election results show the Tamil National Alliance (TNA) winning the majority of seats in Trincomalee district. The Sri Lanka Podujana Peramuna (SLPP) secured fewer seats compared to TNA. Voter turnout was high, indicating strong participation from local residents.
-
-🟩
-
-◼️
-
-[Data](articles/3842b9ea.json)
-
-[Extended Data](ext_articles/3842b9ea.ext.json)
-
----
-
-### US election outcomes and trade policy changes: What it means for Sri Lanka
-
-*2024-11-15 05:17:28* · [`dailyftlk`](https://www.ft.lk/opinion/US-election-outcomes-and-trade-policy-changes-What-it-means-for-Sri-Lanka/14-769285) · `en`
-
-Now that the United States (US) election has concluded, what direction will the US’s trade policy be headed? This is one of the burning questions that many of its trading partners are asking in the aftermath of the Presidential election. A costly trade war was the outcome of the tariff hikes in 2018 – under the first term of President Trump – which was followed by retaliatory tariffs from the US’s trade partners. Elected for a second term, he is once again proposing significant tariff increases as trade policy measures.
-
-These potential changes in US tariff policies will have a direct impact on Sri Lanka’s export industries. The US is the top individual export destination of Sri Lanka, accounting for 23.6% of its total exports (Figure 1).
-
-...
-
-[Data](articles/1d366347.json)
-
-[Extended Data](ext_articles/1d366347.ext.json)
-
----
-
-### UN arms embargo on Israel: Dead on arrival
-
-*2024-11-15 05:14:49* · [`dailyftlk`](https://www.ft.lk/opinion/UN-arms-embargo-on-Israel-Dead-on-arrival/14-769284) · `en`
-
-In Khan Younis, thousands of people are fleeing for their lives again – Credit: UNRWA
-
-UNITED NATIONS (IPS): When the United Nations imposes sanctions or penalises a member state – be it the General Assembly or the Human Rights Council – the resolutions are “non-binding” and often remain unimplemented.
-
-But the Security Council resolutions are “binding” – and still openly violated by countries such as North Korea—because all these UN bodies have no means of implementing these resolutions, nor a standing army to forcibly enforce them. But they only carry moral weight.
-
-The Council can also impose its own sanctions, mostly in economic, financial and trade sectors, against violators of its decisions.
-
-And last week there was a move to impose arms sanctions against Israel – and rightly so, judging by the 43,000 plus, mostly Palestinian civilians, killed in Gaza largely with US-supplied weapons since October last year.
-
-...
-
-[Data](articles/d6845de8.json)
-
-[Extended Data](ext_articles/d6845de8.ext.json)
-
----
-
-### Jaffna District Manipay results
-
-*2024-11-15 05:10:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டம்-மானிப்பாய்-முடிவுகள்/175-347204) · `ta`
-
-Here's a summary of Jaffna District Manipay election results in approximately 200 characters:
-
-
-
-"Jaffna District Manipay election results: [Insert key data points here]. The contest between [Candidate A] and [Candidate B] was closely watched. Preliminary tallies show [Candidate A] leading with [X]% of votes cast. Final results pending official announcement."
-
-🟩
-
-◼️
-
-[Data](articles/b83a7aa7.json)
-
-[Extended Data](ext_articles/b83a7aa7.ext.json)
-
----
-
-### NPP tops Kegalle, Mawanella, Rambukkana and Teldeniya
-
-*2024-11-15 05:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103470/npp-tops-kegalle-mawanella-rambukkana-and-teldeniya) · `en`
-
-National People’s Power (NPP) has secured the highest number of votes in the Teldeniya polling division in Kandy District, Kegalle, Mawanella and Rambukkana polling divisions in Kegalle District.
-
-◼️
-
-[Data](articles/38f691ef.json)
-
-[Extended Data](ext_articles/38f691ef.ext.json)
-
----
-
-### The Colombo East is magical
-
-*2024-11-15 05:08:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-கிழக்கும்-மாயமானது/175-347203) · `ta`
-
-Colombo East: A place of enchantment
-
-🟩
-
-◼️
-
-[Data](articles/1ec451bb.json)
-
-[Extended Data](ext_articles/1ec451bb.ext.json)
-
----
-
-### Results of Kekirawa, Agalawatta, Seruwila, Ratmalana
-
-*2024-11-15 05:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103469/results-of-kekirawa-agalawatta-seruwila-ratmalana) · `en`
-
-The National People’s Power (NPP) has secured victories in the Agalawatta, Seruwila, Ratmalana, Kekirawa polling divisions.
-
-◼️
-
-[Data](articles/6f8adda8.json)
-
-[Extended Data](ext_articles/6f8adda8.ext.json)
-
----
-
-### New Delhi hosts inaugural Asian Buddhist Summit
-
-*2024-11-15 05:05:28* · [`dailyftlk`](https://www.ft.lk/news/New-Delhi-hosts-inaugural-Asian-Buddhist-Summit/56-769282) · `en`
-
-“Role of Buddha Dhamma in Strengthening Asia” key focus of key event organised by Ministry of Culture, Government of India, and the International Buddhist Confederation
-
-The first Asian Buddhist Summit, organised by the Ministry of Culture, Government of India, and the International Buddhist Confederation (IBC), was held recently in New Delhi.
-
-The Summit, themed “Role of Buddha Dhamma in Strengthening Asia”, saw participation from members of the Mahasangha, heads of monastic traditions, monks, nuns, members of the diplomatic community, and professors and scholars of Buddhist studies.
-
-Chief Guest Indian President Droupadi Murmu said that when the world is facing an existential crisis on many fronts, the Buddha Dhamma has a lot to offer to humankind. “Dhamma teaches us how to live in peace, happiness, and harmony with compassion, love, and equanimity,” she reiterated.
-
-...
-
-[Data](articles/d61fc64f.json)
-
-[Extended Data](ext_articles/d61fc64f.ext.json)
-
----
-
-### Jaffna District - Kilinochchi Results
-
-*2024-11-15 05:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-மாவட்டம்-கிளிநொச்சி-முடிவுகள்/175-347202) · `ta`
-
-Here's a summary of the Jaffna District - Kilinochchi election results in approximately 200 characters:
-
-
-
-"Jaffna District: Kilinochchi election results show [X] party winning [Y] seats. Turnout was [Z]%. Key issues were [A] and [B]. Voter sentiment favored [C] over [D]."
-
-🟩
-
-◼️
-
-[Data](articles/8c2d044b.json)
-
-[Extended Data](ext_articles/8c2d044b.ext.json)
-
----
-
-### Jaffna- Kilinochchi Results
-
-*2024-11-15 05:03:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்ப்பாணம்-கிளிநொச்சி-முடிவுகள்/175-347202) · `ta`
-
-Here's a summary of Jaffna-Kilinochchi results in approximately 200 characters:
-
-
-
-"Jaffna-Kilinochchi election results show mixed outcomes. SLPP leads in Jaffna, while Tamil National Alliance (TNA) performs well in Kilinochchi. Voter turnout was high, reflecting local interest in the polls."
-
-🟩
-
-◼️
-
-[Data](articles/ecb83e44.json)
-
-[Extended Data](ext_articles/ecb83e44.ext.json)
-
----
-
-### Flying Colombo West
-
-*2024-11-15 05:02:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பறந்தது-கொழும்பு-மேற்கு/175-347201) · `ta`
-
-Flying Colombo West: A summary in 200 characters would be challenging without more context about what "Flying Colombo West" refers to. It could be a location, a project, a company, or something else entirely. Without additional details, it's difficult to provide a concise summary within such a strict character limit. Could you please provide more information about Flying Colombo West?
-
-🟩
-
-◼️
-
-[Data](articles/6e94c7dd.json)
-
-[Extended Data](ext_articles/6e94c7dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 16:59:00**
+As of **2024-11-15 17:10:27**
 
 ## Newspaper Stats
 
-*Scraped **55,095** Articles*
+*Scraped **55,096** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,643
+adaderanalk | 6,644
 tamilmirrorlk | 7,810
 virakesarilk | 8,923
 adaderanasinhalalk | 9,505
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,095 (100.0%) of 55,095 articles have been extended.
+55,095 (100.0%) of 55,096 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Puttalam District preference vote results
+
+*2024-11-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103519/puttalam-district-preference-vote-results) · `en`
+
+The preferential vote results of the Puttalam District in the 2024 General Election have been released.
+
+NPP’s Chandana Abayarathna has polled the highest number of preferential votes in the Puttalam District.
+
+Hector Appuhami and Janath Chithral Fernando have obtained the highest number of preferential votes for the SJB to secure two parliamentary seats in the district.
+
+◼️
+
+[Data](articles/473d458a.json)
+
+---
 
 ### Trincomalee District preferential vote results
 
@@ -2115,29 +2131,5 @@ Colombo North ship sank
 [Data](articles/a9bffa9e.json)
 
 [Extended Data](ext_articles/a9bffa9e.ext.json)
-
----
-
-### The man who snatched and flew
-
-*2024-11-15 08:04:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழுந்து-பறித்து-காட்டியவரும்-பறந்தார்/76-347223) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nuwara Eliya 2024: Mike Mitten team got 18,606 votes. Shane Pradees campaigned wearing barbaric baskets, literally climbing tea mountains.
-
-🟩
-
-In Nuwara Eliya district, in 2024 general elections, no one who contested the Mike Mitten. The team received a total of 18,606 votes.
-
-Shane Pradees, who contested on behalf of the team, climbed into the tea mountains, wearing barbaric baskets and snatching.
-
-◼️
-
-[Data](articles/a9502127.json)
-
-[Extended Data](ext_articles/a9502127.ext.json)
 
 ---

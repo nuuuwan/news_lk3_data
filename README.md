@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 13:42:52**
+As of **2024-11-15 14:01:18**
 
 ## Newspaper Stats
 
-*Scraped **55,065** Articles*
+*Scraped **55,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,53 @@ newsfirstlk | 363
 dbsjeyarajcom | 426
 bbccomsinhala | 559
 colombotelegraphcom | 559
-islandlk | 3,289
+islandlk | 3,291
 economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,159
-adaderanalk | 6,634
-tamilmirrorlk | 7,803
-virakesarilk | 8,918
+adaderanalk | 6,635
+tamilmirrorlk | 7,804
+virakesarilk | 8,919
 adaderanasinhalalk | 9,505
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,061 (100.0%) of 55,065 articles have been extended.
+55,061 (100.0%) of 55,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### வன்னியில் 2 ஆசனங்கள் NPP வசம்
+
+*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னியில்-2-ஆசனங்கள்-NPP-வசம்/175-347257) · `ta`
+
+◼️
+
+[Data](articles/3e862564.json)
+
+---
+
+### Vanni District preferential vote results released
+
+*2024-11-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103510/vanni-district-preferential-vote-results-released) · `en`
+
+The preferential vote results of the Vanni District in the 2024 General Election have been released.
+
+SJB’s Rishad Bathiudeen has polled the highest number of preferential votes in the Vanni District.
+
+Thurairasa Ravikumar has received the highest preferential votes from the ITAK to secure its only seat.
+
+Selvathambi Thilakanathan has obtained the highest preferential votes from the NPP.
+
+◼️
+
+[Data](articles/9ba15f2c.json)
+
+---
 
 ### “ தோள் கொடுத்தோருக்கு நன்றி ”
 
@@ -121,6 +149,20 @@ Former Minister Basir Segudavud, who contested as the chief candidate of the Uni
 [Data](articles/db98f54d.json)
 
 [Extended Data](ext_articles/db98f54d.ext.json)
+
+---
+
+### மாத்தறை மாவட்டத்தில் அதிக விருப்புக்களை பெற்றார் சுனில் ஹந்துன்நெத்தி
+
+*2024-11-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198861) · `ta`
+
+பாராளுமன்ற தேர்தலில் மாத்தறை மாவட்டத்தில் தேசிய மக்கள் சக்தி கட்சி ஆறு ஆசனங்களை பெற்றுள்ளதுடன், சுனில் ஹந்துநெத்தி மாவட்டத்தில் அதிக விருப்பு வாக்குகளைப் பெற்றுள்ளார்.
+
+ஐக்கிய மக்கள் சக்தியின் சார்பில் போட்டியிட்ட சத்துர கலப்பத்தி 31,196 விருப்பு வாக்குகளைப் பெற்றுள்ளார்.
+
+◼️
+
+[Data](articles/87e3e57c.json)
 
 ---
 
@@ -706,9 +748,7 @@ Accordingly, with this, the NPP has now secured a two-thirds majority in the Par
 
 ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Kumara Dissanayake has secured a majority in parliament, according to official results declared so far by the by the island’s Elections Commission.
 
-The NPP contesting under the Malimawa (compass) symbol secured 113 seats with of the 225 member assembly, data released by the the Elections Commissions website showed, with full results yet to be declared.
-
-NPP secured 137 seats after winning Colombo and Gampaha districts.
+The NPP contesting under the Malimawa (compass) symbol secured 141 seats with of the 225 member assembly, data released by the the Elections Commissions showed, before the national list.
 
 The Samagi Jana Balawegaya of Sajith Premadasa was a distant second with 35 seats.
 
@@ -716,7 +756,9 @@ The NPP has received 6.8 million or 61 percent of the votes counted, taking a co
 
 Soon after casting his vote, President Anura Dissanayake said, a simple majority would be sufficient and those who got two thirds in the past had mis-used it.
 
-...
+The New Democratic Front backed by ex-President Ranil Wickremesinghe has 2 seats and the Sri Lanka Podujana Peramuna has 2 seats.
+
+◼️
 
 [Data](articles/0535966a.json)
 
@@ -1965,65 +2007,5 @@ The National People’s Power (NPP) has secured victories in the Dehiwala, Kotte
 [Data](articles/bc33e5fc.json)
 
 [Extended Data](ext_articles/bc33e5fc.ext.json)
-
----
-
-### Vanni District Mullaitivu Results
-
-*2024-11-15 05:50:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னி-மாவட்டம்-முல்லைத்தீவு-முடிவுகள்/175-347211) · `ta`
-
-Here's a summary of "Vanni District Mullaitivu Results" in approximately 200 characters:
-
-
-
-Election results from Vanni District in Mullaitivu show [X] party winning [Y] seats, while [Z] party secured [W] seats. Voter turnout was [percentage]. Key issues discussed included [topics].
-
-🟩
-
-◼️
-
-[Data](articles/a4146895.json)
-
-[Extended Data](ext_articles/a4146895.ext.json)
-
----
-
-### In Sri Lanka elections 2024, President’s NPP party heads for landslide
-
-*2024-11-15 05:49:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-elections-2024-presidents-npp-party-heads-for-landslide-187769/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake’s National People’s Power is heading for a landslide in the 2024 parliamentary elections, and is on track for a two – thirds majority, results released so far shows.
-
-The NPP contesting under its Malimawa also became the largest party in Jaffna, overtaking traditional parties in the area, radically improving its performance from September presidential polls.
-
-Sri Lanka went to polls in a stabilization crisis coming after the worst currency collapse in the history of the island’s central bank, which ended in a sovereign default.
-
-Ex-President Ranil Wickremesinghe, who oversaw the stabilization, under an International Monetary Fund program – the 17th such program triggered by the central bank with rate cuts and liquidity injections to boost growth – lost to Anura Dissanayake in September.
-
-...
-
-[Data](articles/dd1044e3.json)
-
-[Extended Data](ext_articles/dd1044e3.ext.json)
-
----
-
-### UK removes Arugam Bay threats from Sri Lanka travel advice, Israel slashes warning
-
-*2024-11-15 05:48:00* · [`economynextcom`](https://economynext.com/uk-removes-arugam-bay-threats-from-sri-lanka-travel-advice-israel-slashes-warning-187872/) · `en`
-
-ECONOMYNEXT – The United Kingdom has removed references to a possible attack in Arugam Bay from its regular travel advice, while Israel has also reduced its threat level while Israel has slashed a threat level of 4 to 2, following arrests of several suspects, a media report said.
-
-The UK travel advice was updated, with references to a possible attack on Arugam Bay removed.
-
-Israel media reports said a state agency removed its own travel warning to citizens.
-
-“The National Security Council, which publishes travel advisories, said it was lowering the warning level for Sri Lanka’s Arugam Bay area from four, which indicates a highly credible threat, to two, indicating a milder occasional threat,” the Times of Israel newspaper said.
-
-...
-
-[Data](articles/fe04b3f1.json)
-
-[Extended Data](ext_articles/fe04b3f1.ext.json)
 
 ---

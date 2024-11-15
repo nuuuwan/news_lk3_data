@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-15 19:25:31**
+As of **2024-11-15 19:41:22**
 
 ## Newspaper Stats
 
-*Scraped **55,105** Articles*
+*Scraped **55,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,346
 dailyftlk | 3,771
 dailymirrorlk | 4,733
 adalk | 5,162
-adaderanalk | 6,649
+adaderanalk | 6,650
 tamilmirrorlk | 7,811
 virakesarilk | 8,925
 adaderanasinhalalk | 9,505
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,505
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,105 (100.0%) of 55,105 articles have been extended.
+55,105 (100.0%) of 55,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-15 (Friday)
+
+### Digamadulla District preference votes results released
+
+*2024-11-15 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103525/digamadulla-district-preference-votes-results-released) · `en`
+
+The preferential vote results of the Digamadulla District in the 2024 General Election have been released.
+
+NPP’s Wasantha Piyathissa has polled the highest number of preferential votes in the Digamadulla District with a total of 71,120votes while fellow NPP candidates Manjula Ratnayake (50,838) and Priyantha Wijeratne (41,313) are placed second and third respectively.
+
+Nalin Bandara has managed to secure the highest number of preference votes for the SJB in the district Dayasiri Jayasekara and J.C. Alawathuwala have also obtained seats for the party.
+
+M.M. Thahir of the All Ceylon Makkal Congress (ACMC), Meerasahibu Uthumalebbe of the Sri Lanka Muslim Congress (SLMC) and Kavindran Kodeeswaran of the Ilankai Thamil Arasu Kachchi (ITAK) have all secures a seat.
+
+◼️
+
+[Data](articles/675e6ffa.json)
+
+---
 
 ### PM Harini tops Colombo District preference votes; sets new record
 
@@ -2107,27 +2125,5 @@ Accordingly, the NPP has secured 12 seats in the district while the SJB has won 
 [Data](articles/da051e03.json)
 
 [Extended Data](ext_articles/da051e03.ext.json)
-
----
-
-### The compassionate in Kurunegala
-
-*2024-11-15 08:32:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருநாகலில்-அள்ளி-சுருட்டியது-திசைக்காட்டி/175-347227) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Compassionate leadership in Kurunegala: The national party holds 12 out of 15 seats, reflecting the people's power and influence in the district.
-
-🟩
-
-In the Kurunegala district, the power of the national population, which symbolizes 12 seats in 15 seats, has made the power of the people.
-
-◼️
-
-[Data](articles/a02e8805.json)
-
-[Extended Data](ext_articles/a02e8805.ext.json)
 
 ---

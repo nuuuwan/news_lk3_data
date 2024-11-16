@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 05:50:45**
+As of **2024-11-16 06:13:53**
 
 ## Newspaper Stats
 
-*Scraped **55,167** Articles*
+*Scraped **55,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 428
 colombotelegraphcom | 559
 bbccomsinhala | 563
-islandlk | 3,291
+islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,533
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,167 (100.0%) of 55,167 articles have been extended.
+55,167 (100.0%) of 55,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -225,6 +225,90 @@ The police emphasised that the decision was made to maintain public order and en
 [Data](articles/fa0935ff.json)
 
 [Extended Data](ext_articles/fa0935ff.ext.json)
+
+---
+
+### Serendib Flour Mills sponsors Culinary Championship 2024
+
+*2024-11-16 00:59:00* · [`islandlk`](http://island.lk/serendib-flour-mills-sponsors-culinary-championship-2024/) · `en`
+
+Serendib Flour Mills, manufacturer of 7 Star wheat flour, was the Category Sponsor for Bread and Pastry at the recently concluded Culinary Champions 2024, supporting local industry talent and creativity. Held in Kandy from October 31st to November 2nd, 2024, the prestigious culinary competition showcased Sri Lanka’s finest gastronomists.
+
+Organized by Lanka Exhibition and Conference Services (LECS) in collaboration with the Kandy Hoteliers Association, Cultural Triangle Hoteliers Association, and Nuwara Eliya Hoteliers’ Association, the Culinary Champions 2024 was a landmark event in Sri Lanka’s hospitality industry.
+
+The objective of the competition was to provide a platform for promoting culinary excellence, skills, and abilities of chefs, cooks, pastry chefs, and apprentices. Participants competed in various categories, including the Bread and Pastry category.
+
+...
+
+[Data](articles/bb036e30.json)
+
+---
+
+### Sri Lanka Insurance Life Comprehensive D+, an insurance cover for the diabetic
+
+*2024-11-16 00:59:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-comprehensive-d-an-insurance-cover-for-the-diabetic/) · `en`
+
+In recognition of World Diabetes Day 2024, Sri Lanka Insurance Life highlights its innovative health insurance product tailored specifically for individuals with diabetes: Comprehensive D+. Launched as the first of its kind in Sri Lanka, this unique policy provides diabetic patients—who previously struggled to find adequate health insurance coverage—with essential protection and peace of mind.
+
+Diabetes is a major health challenge in Sri Lanka, affecting a significant portion of the population. According to the International Diabetes Federation, in 2021, 9.8% of Sri Lankan adults had diabetes, while nearly one in four (23%) adults were diagnosed with the disease. Additionally, about one in three (31%) had elevated blood sugar levels, underscoring the urgent need for effective healthcare support.
+
+...
+
+[Data](articles/fe08d8ea.json)
+
+---
+
+### ISO certification conferred on eight provincial offices of CEA in recognition of service quality
+
+*2024-11-16 00:43:00* · [`islandlk`](http://island.lk/iso-certification-conferred-on-eight-provincial-offices-of-cea-in-recognition-of-service-quality/) · `en`
+
+The Central Environmental Authority (CEA) has achieved a significant milestone in environmental governance and service quality with its recent ISO 9001:2015 certification, awarded to eight of its provincial offices by the Sri Lanka Standards Institution, said CEA Director General P.B. Hemantha Jayasinghe.
+
+Jayasinghe said that the Northern, Eastern, North Central, Central, Sabaragamuwa, Uva, Southern and North Western Provincial offices now uphold this international standard, ensuring that quality management processes are in place across various environmental services.
+
+...
+
+[Data](articles/11ef6b09.json)
+
+---
+
+### Softlogic Life 9 months at 22Bn GWP, PAT grows 67%, pays claims of 10.9Bn
+
+*2024-11-16 00:43:00* · [`islandlk`](http://island.lk/softlogic-life-9-months-at-22bn-gwp-pat-grows-67-pays-claims-of-10-9bn/) · `en`
+
+Adding stronger momentum to its growth trajectory, Softlogic Life recorded another superior quarter performance, posting Gross Written Premium (GWP) of Rs. 22 billion during the nine months ending 30th September with an increase in top-line growth of 18% compared to the corresponding period of last year. Growth for the September quarter was up 22% compared with the same quarter of the previous year.
+
+...
+
+[Data](articles/91290e0f.json)
+
+---
+
+### Asiri Academy of Health Sciences inaugurates modern main campus in Colombo
+
+*2024-11-16 00:39:00* · [`islandlk`](http://island.lk/asiri-academy-of-health-sciences-inaugurates-modern-main-campus-in-colombo/) · `en`
+
+The Asiri Academy of Health Sciences (AAHS), a leading institution in healthcare education, has ceremonially inaugurated its new main campus in Ward Place, Colombo 7. The important achievement highlights the official commencement of operations at the modern facility, reinforcing Asiri Health’s commitment to skill-building and supporting healthcare professionals in Sri Lanka.
+
+With the global healthcare sector facing increasing demands, the expansion of AAHS comes at a crucial time. According to the World Health Organization, there is a projected shortfall of 18 million health workers by 2030, primarily in low and middle-income countries. Catering to a growing demand for healthcare workers in Sri Lanka and providing opportunities for overseas career pathways, the new Campus aims to address the gaps offering high-quality education and training to these aspiring healthcare professionals.
+
+...
+
+[Data](articles/21296971.json)
+
+---
+
+### CSE renews Platinum Partnership with CFA Society Sri Lanka to foster capital market development
+
+*2024-11-16 00:37:00* · [`islandlk`](http://island.lk/cse-renews-platinum-partnership-with-cfa-society-sri-lanka-to-foster-capital-market-development/) · `en`
+
+The Colombo Stock Exchange (CSE) has renewed its partnership as the Platinum Partner of CFA Society Sri Lanka for the 8th consecutive year, reinforcing a shared commitment to promoting ethical standards, education, and professional excellence within the Sri Lankan investment industry. This longstanding collaboration reflects CSE’s dedication to advancing the capital market and fostering valuable industry alliances.
+
+The sponsorship agreement was formally presented to Aruna Perera, outgoing President of CFA Society Sri Lanka; by Dilshan Wirasekara, Chairman, CSE; with the participation of Ms. Rashmi Paranavitane, President of CFA Society Sri Lanka; Ms. Samalka Athuraliya, Director of CFA Society Sri Lanka; Rajeeva Bandaranaike, CEO, CSE; Niroshan Wijesundere, Senior Vice President – Marketing, CSE; and Aruna Alwis, CEO of CFA Society Sri Lanka.
+
+...
+
+[Data](articles/7c871f7d.json)
 
 ---
 
@@ -2145,159 +2229,5 @@ The National Folk Force of the Kegalle district won seven seats and the restorat
 [Data](articles/6c0f9f23.json)
 
 [Extended Data](ext_articles/6c0f9f23.ext.json)
-
----
-
-### Two Tamils ​​selected in Badulla
-
-*2024-11-15 13:04:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பதுளையில்-இரண்டு-தமிழர்கள்-தெரிவு/76-347254) · `ta`
-
-Two Tamil candidates elected in Badulla district parliamentary election. National People's Power won 6 seats, including Kidnan Selvaraj and Ambika Samuel. First Tamil woman representative in Badulla history.
-
-🟩
-
-According to the 10th parliamentary election of the Badulla district, the National People's Power has won 275,180 votes and won 6 seats.
-
-The United People's Power won 2 seats with 102,958 votes and the new Democratic Front won 36,450 votes.
-
-Saminda Vijayasiri - 29791 has been elected to Parliament with preferential votes.
-
-Kidnan Selvaraj and Ambika Samuel, who contested on behalf of the National People's Power this time, have won two Tamil candidates who contested the ruling party in the last two parliamentary elections.
-
-The first time in the history of the Badulla district parliamentary elections, Ambika Samuel has been elected as the Tamil woman representative.
-
-◼️
-
-[Data](articles/1328b2ab.json)
-
-[Extended Data](ext_articles/1328b2ab.ext.json)
-
----
-
-### Jaffna preferences
-
-*2024-11-15 12:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203388) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Jaffna election results: National Folk Force won 3 seats. Illankai Thamil Arasachchi, Kachchi, Piyili Engineering Tamil Congress, and 17 independent candidates won 17 seats.
-
-🟩
-
-According to the total result of the district, the national folk force won three seats.
-
-Illankai Thamil Araschy, Kachchi, Piyili Engineeringi Thamil Congress and 17 Independent Troops of Jaffna have won 17 seminars.
-
-◼️
-
-[Data](articles/c6db5a97.json)
-
-[Extended Data](ext_articles/c6db5a97.ext.json)
-
----
-
-### Success in Batticaloa, Failed Points
-
-*2024-11-15 12:54:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பில்-வெற்றி-தோல்வியடைந்த-புள்ளிகள்/175-347252) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Key winners: Former Cabinet members, LTTE leaders, and Tamil National Alliance candidates. Notable losers: Democratic Tamil National Alliance and Sri Lanka Tamil National Party representatives.
-
-🟩
-
-Former cabinet status and two deputy ministers, two deputy ministers, one parliamentarian, and one minister won the election again in the tenth parliamentary election.
-
-Former Minister Basir Segudavud, who contested as the chief candidate of the United Peace Alliance and former Minister of State for the Tamil People's Liberation Tigers of Tamil Eelam (LTTE), Sivanesathurai Chandrakanthan, who contested the United People's Power. S.. S.. Former Deputy Minister Vinayagamoorthy Muralitharan, who contested as the chief candidate of the competition on behalf of the National Democratic Front. Ganesamoorthy and former parliamentarian Govindan Karunakaran contested as the chief candidate of the Democratic Tamil National Alliance (TNA) and lost the parliamentary elections in the Batticaloa district this time.
-
-...
-
-[Data](articles/db98f54d.json)
-
-[Extended Data](ext_articles/db98f54d.ext.json)
-
----
-
-### Sunil Handunnethi received the highest preferences in Matara district
-
-*2024-11-15 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/198861) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sunil Handunnethi tops polls in Matara district. National People's Shakti Party wins six seats. Sunil receives highest preferential votes. Sathura Kalapathi from United People's Power gets 31,196 votes.
-
-🟩
-
-The National People's Shakti Party has won six seats in the Matara district and Sunil has received the highest preferential votes in the Sunil Handunnetti district.
-
-Sathura Kalapathi, who contested on behalf of the United People's Power, received 31,196 preferential votes.
-
-◼️
-
-[Data](articles/87e3e57c.json)
-
-[Extended Data](ext_articles/87e3e57c.ext.json)
-
----
-
-### Most power in Parliament to the national propagation
-
-*2024-11-15 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203387) · `si`
-
-National folk force wins 141 seats, 6,863,186 votes (61.56%). Samagi promotes 35 seats, 1,968,716 votes (17.66%). New Democratic Front gets 500,835 votes (4.49%). Sri Lanka General Front wins 350,429 votes (3.1%). Ilankai Tamil Arasu Party gets 257,813 votes (2.31%). Other parties and independent groups also participate.
-
-🟩
-
-Accordingly, the national folk force has been able to hold the 20 districts.
-
-The national folk force has been able to hold major in Parliament in Parliament.
-
-Accordingly, the national folk force has won 141 seats in 141 seats.
-
-According to the results of the general election, the party has won 6,863,186 votes and 61.56% of the percentage.
-
-Samagi promotion costs are placed second with 35 seats.
-
-The party has obtained 1,968,716 votes, which is 17.66 percent of the percentage.
-
-The New Democratic Front has obtained 500,835 votes and 4.49 percent as a percentage.
-
-The Sri Lanka General Front has won 350,429 votes and 3.1 percent as a percentage.
-
-The Ilankai Tamil Arasu Party has won 257,813 votes and 2.3 percent is 2.31 percent.
-
-In addition, the All Ceylon Tamil Congress, EPDP party, United National Party, the Sri Lanka Labor Party, the 17 independent groups, independent groups.
-
-◼️
-
-[Data](articles/044867ad.json)
-
-[Extended Data](ext_articles/044867ad.ext.json)
-
----
-
-### Yall. District likes
-
-*2024-11-15 12:32:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யாழ்-மாவட்டம்-விருப்பு-வாக்கு/175-347249) · `ta`
-
-Here's a summary of "Yall. District likes" in approximately 200 characters:
-
-
-
-"Y4:0
-
-🟩
-
-◼️
-
-[Data](articles/411da4e1.json)
-
-[Extended Data](ext_articles/411da4e1.ext.json)
 
 ---

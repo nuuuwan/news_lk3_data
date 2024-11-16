@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 16:41:14**
+As of **2024-11-16 16:26:12**
 
 ## Newspaper Stats
 
-*Scraped **55,229** Articles*
+*Scraped **55,226** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,670
-tamilmirrorlk | 7,826
+adaderanalk | 6,669
+tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
 
@@ -26,65 +26,11 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,226 (100.0%) of 55,229 articles have been extended.
+55,226 (100.0%) of 55,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### Philippines evacuates tens of thousands as super typhoon Man-Yi nears
-
-*2024-11-16 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103545/philippines-evacuates-tens-of-thousands-as-super-typhoon-man-yi-nears) · `en`
-
-The Philippines evacuated tens of thousands of people from their homes and cancelled dozens of flights on Saturday, as a super typhoon threatened to unleash heavy rains and powerful winds that could trigger floods and storm surges.
-
-Packing winds of 185 kph (115 mph), the storm Man-Yi was heading for the eastern part of the main island of Luzon, spurring the weather agency to raise its second-highest alert for the provinces of Catanduanes and Camarines Sur.
-
-“Pepito is approaching its peak intensity,” it added, using the domestic name for the super typhoon, which it said was likely to make landfall near Catanduanes on Saturday night or early Sunday.
-
-Close to 180,000 people in the central region of Bicol have been evacuated, data from the disaster agency showed.
-
-The sixth tropical cyclone to hit the Philippines in a month, Man-Yi has also forced cancellation of dozens of flights in the eastern Visayas region facing the Pacific Ocean.
-
-...
-
-[Data](articles/5aa6d473.json)
-
----
-
-### செலவு அறிக்கையை சமர்ப்பிக்காதவர்களுக்கு எதிராக வழக்கு
-
-*2024-11-16 16:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செலவு-அறிக்கையை-சமர்ப்பிக்காதவர்களுக்கு-எதிராக-வழக்கு/175-347291) · `ta`
-
-தேர்தல் செலவு அறிக்கையை சமர்ப்பிக்காத அனைத்து வேட்பாளர்களுக்கும் அரசியல் கட்சிகள் மற்றும் சுயேச்சைக் குழுக்களுக்கும் எதிராக வழக்கு தொடரப்படும் என தேர்தல்கள் ஆணைக்குழு தெரிவித்துள்ளது.
-
-தேர்தல் செலவுகள் ஒழுங்குமுறை சட்டத்தின்படி, தேர்தல் முடிந்த 21 நாட்களுக்குள் அனைத்து செலவு அறிக்கைகளையும் தேர்தல் ஆணையத்திடம் சமர்ப்பிக்க வேண்டும்.
-
-பொதுத் தேர்தலில் பல்வேறு அரசியல் கட்சிகள் மற்றும் சுயேச்சைக் குழுக்களைச் சேர்ந்த 8,888 வேட்பாளர்கள் களமிறங்கியுள்ளனர்.
-
-இந்நிலையில், உரிய நேரத்தில் வருமான அறிக்கையை சமர்ப்பிக்காத வேட்பாளர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் என, தேர்தல்கள் ஆணைக்குழுவின் மேலதிக தேர்தல் ஆணையாளர் சிந்தக குலரத்ன தெரிவித்தார்.AN
-
-◼️
-
-[Data](articles/facb73a0.json)
-
----
-
-### அறிவுரை கூறும் யோக்கியதை அர்ச்சுனாவுக்கு இல்லை
-
-*2024-11-16 16:22:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அறிவுரை-கூறும்-யோக்கியதை-அர்ச்சுனாவுக்கு-இல்லை/72-347290) · `ta`
-
-ஒற்றையாட்சிக்கு எதிராகவே வட கிழக்கு தமிழ் மக்கள் வாக்கrpளித்துள்ளனர். யாழ்ப்பாணத்தில் தேசிய மக்கள் சக்திக்கு 80 ஆயிரம் வாக்குகள் மட்டும் தான் கிடைத்தது ஆனால் சமஷ்டியை வலியுறுத்தும் தமிழ் தரப்புகளுக்கு ஒரு லட்சத்து ஐம்பதாயிரம் வாக்குகள் கிடைத்துள்ளன. EPDP மற்றும் அங்கஜன் போன்ரோரின் வாக்குகளே NPPகு கிடைக்கப் பெற்றுள்ளது அவர்களை மக்கள் நிராகரித்துள்ளனர் என தமிழ்த் தேசிய கட்சியின் செயலாளர் நாயகம் எம்.கே.சிவாஜிலிங்கம் இவ்வாறு தெரிவித்தார்.
-
-வடமராட்சி ஊடக இல்லத்தில் இன்று (16) இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்ட போதே இதை குறிப்பிட்டார்.
-
-நடைபெற்று முடிந்த பொதுத்தேர்தல் முடிவுகள் முழு நாட்டிற்கும் தமிழீழ மக்களுக்கும் பல செய்திகளை சொல்லியுள்ளது. தமிழ் மக்கள் வழங்கிய தீர்ப்பை ஏற்றுக்கொள்கின்றோம். தோல்விகள் பின்னடைவுகள் புதிதல்ல. மீண்டும் எழுந்து நிற்போம்.
-
-...
-
-[Data](articles/4ad0556e.json)
-
----
 
 ### “Got exactly what we expected. SLPP will never quit”: MR on election result
 
@@ -2347,5 +2293,69 @@ According to the overall result of the district, the national power was held in 
 [Data](articles/929a3168.json)
 
 [Extended Data](ext_articles/929a3168.ext.json)
+
+---
+
+### General Election: Ratnapura District preference vote results
+
+*2024-11-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103522/general-election-ratnapura-district-preference-vote-results) · `en`
+
+The preferential vote results of the Ratnapura District in the 2024 General Election have been released.
+
+NPP’s Shantha Padmakumara has polled the highest number of preferential votes in the Ratnapura District while NPP’s S. Pradeep has received the second highest preference votes in the district.
+
+Heshan Withanage has managed to secure the highest number of preference votes for the SJB in the district.
+
+◼️
+
+[Data](articles/4d401ae9.json)
+
+[Extended Data](ext_articles/4d401ae9.ext.json)
+
+---
+
+### Historical votes from the Prime Minister
+
+*2024-11-15 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203404) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Dr. Harini Amarasuriya received 155,289 preferential votes in the Colombo District election. This is the highest number of preferential votes ever recorded for a single candidate in Sri Lanka's parliamentary election history. Mahinda Rajapaksa previously held this record with 527,364 votes in the Kurunegala District in 2020.
+
+🟩
+
+Prime Minister Dr. Harini Amarasuriya, who was contesting for the Colombo District for the general election, has been identified as 155,289 preferential votes.
+
+This number of preferential number of preferential votes has been the number of preferential votes obtained by one seal candidate in parliamentarian election history.
+
+The MP was the highest number of preferential votes was the Mahinda Rajapaksa.
+
+He contested the General Election of the Kurunegala District in 2020 and obtained 527,364 preferential votes.
+
+◼️
+
+[Data](articles/515bcac8.json)
+
+[Extended Data](ext_articles/515bcac8.ext.json)
+
+---
+
+### Batticaloa District preferential vote results
+
+*2024-11-15 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103521/batticaloa-district-preferential-vote-results) · `en`
+
+The preferential vote results of the Batticaloa District in the 2024 General Election have been released.
+
+ITAK’s Shanakiyan Rasamanickam has polled the highest number of preferential votes in the Batticaloa District while his party has secured 3 seats.
+
+Kandasami Prabhu has managed to secure a parliamentary seat in the district for the NPP while M.L.A.M. Hizbullah. has secured a seat for the SLMC.
+
+◼️
+
+[Data](articles/e71cca3e.json)
+
+[Extended Data](ext_articles/e71cca3e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 12:01:03**
+As of **2024-11-16 11:41:58**
 
 ## Newspaper Stats
 
-*Scraped **55,211** Articles*
+*Scraped **55,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,56 +17,20 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,164
-adaderanalk | 6,662
+adaderanalk | 6,661
 tamilmirrorlk | 7,823
-virakesarilk | 8,941
-adaderanasinhalalk | 9,541
+virakesarilk | 8,938
+adaderanasinhalalk | 9,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,205 (100.0%) of 55,211 articles have been extended.
+55,205 (100.0%) of 55,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### பாகிஸ்தான் - பஞ்சாப்பில் காற்றின் தரம் குறைவு ;  பாடசாலைகளுக்கு விடுமுறை
-
-*2024-11-16 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198906) · `ta`
-
-பாகிஸ்தான் நாட்டில் பஞ்சாப் மாகாணத்தில் காற்றின் தரம் குறைவு தொடர்ந்து அதிகரித்து வருகிறது. காற்று தரக்குறியீடு இதுவரை இல்லாத வகையில் சாதனை பதிவாக, 1,600 என்ற அளவில் அதிகரித்துள்ளது.
-
-காற்றின் தரம் மோசமடைந்து உள்ள சூழலில், பாடசாலை உள்ளிட்ட கல்வி நிலையங்களுக்கு விடுமுறை அறிவிக்கப்பட்டது.
-
-இதன்படி, 17 ஆம் திகதி வரை அனைத்து கல்வி நிலையங்களுக்கும் விடுமுறை அறிவிக்கப்பட்டு இருந்தது. இந்த நிலையில், புகைமூட்டம் மற்றும் குறைவான தொலைவையே பார்க்க கூடிய சூழல் போன்றவற்றால்,
-
-இதனால், அரசு, தனியார் பாடசாலைகள் மற்றும் தனியார் கல்வி பயிற்சி மையங்கள் உள்ளிட்ட அனைத்து கல்வி நிலையங்களும்  இணைய வழியே கல்வி பயிற்சியை தொடர அறிவுறுத்தப்பட்டுள்ளது. எனினும், முர்ரீ மாவட்டத்திற்கு இதற்கு விதிவிலக்கு அறிவிக்கப்பட்டுள்ளது.
-
-இதற்கு முன்பு, புகைமூட்டம் பரவி நிலைமை மோசமடைந்த நிலையில், லாகூர் மற்றும் முல்தான் நகரங்களில்  வாரத்திற்கு 3 நாட்கள் வரை முழு ஊரடங்கு வெள்ளிக்கிழமை அமுல்படுத்தப்பட்டிருந்தது.
-
-...
-
-[Data](articles/4625c346.json)
-
----
-
-### New govt’s policy statement to be presented at Parliament’s inaugural session
-
-*2024-11-16 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103537/new-govts-policy-statement-to-be-presented-at-parliaments-inaugural-session-) · `en`
-
-President Anura Kumara Dissanayake will present the government’s policy statement at the inaugural session of the 10th Parliament on November 21 at 3.00 p.m., the Parliamentary Communications Department announced.
-
-This significant address, delivered at the commencement of each new parliamentary session, serves as a comprehensive presentation of the government’s vision and strategic direction. The President, as per constitutional powers, presides over the opening meetings of Parliament and sets the tone for legislative priorities through this statement.
-
-Historically referred to as the “Rajasana Speech”, this tradition not only marks the beginning of a parliamentary session but also offers the President an opportunity to detail the administration’s priorities and plans to both Parliament and the public.
-
-◼️
-
-[Data](articles/53076b76.json)
-
----
 
 ### Workshop for freshly elected MPs on parliament practices and affairs
 
@@ -89,50 +53,6 @@ A gazette notification related to these matters will be issued today (16).
 [Data](articles/610b9ca5.json)
 
 [Extended Data](ext_articles/610b9ca5.ext.json)
-
----
-
-### Young Media Secretary to White House
-
-*2024-11-16 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198898) · `ta`
-
-Donald Trump appoints Caroline Lewit as White House media secretary. She was campaign spokesperson and first female under 30 in this role. Studied communications at St. Anselm College.
-
-🟩
-
-US President Donald Trump will appoint a young woman named Caroline Lewit to the White House.
-
-Caroline Lewid has been a media spokesman for Donald Trump's campaign, who contested the US presidential election.
-
-In the meantime, Caroline Lewit is the young media secretary of the White House in American history.
-
-"Caroline has proved to be a clever, solid and a very talented spokesman," Donald Trump said.
-
-Lewit, a native of the state of New Hampshire in the United States, studied communications and state science at St. Anselm College, a Catholic College in his home state.
-
-◼️
-
-[Data](articles/192f5145.json)
-
-[Extended Data](ext_articles/192f5145.ext.json)
-
----
-
-### නව ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ගැන දැනුම්දීමක්
-
-*2024-11-16 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203422) · `si`
-
-10වැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය ආරම්භයේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම 2024 නොවැම්බර් 21වන දින පස්වරු 3:00ට ජනාධිපතිවරයා විසින් සිදු කිරීමට නියමිතය.
-
-පාර්ලිමේන්තුවේ සභාවාරයක් ආරම්භයේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවේදී ඉදිරිපත් කිරිමටත්, පාර්ලිමේන්තුවේ මංගල රැස්වීම්වල මුලසුන දැරීමටත් ජනාධිපතිවරයාට බලතල හිමිවී තිබෙතන බව පාර්ලිමේන්තුව නිවේදනයක් නිකුත් කරමින් පවසයි.
-
-ඒ අනුව, පාර්ලිමේන්තුවේ සෑම නව සභාවාරයක් ආරම්භයේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම ජනාධිපතිවරයා විසින් සිදුකරනු ලබයි.
-
-මෙහිදී සිය ආණ්ඩුවේ ඉදිරි දැක්ම පිළිබඳ සවිස්තරාත්මක විග්‍රහයක් ජනාධිපතිවරයා විසින් සිය ප්‍රතිපත්ති ප්‍රකාශය මගින් පාර්ලිමේන්තුවට සහ මහජනතාවට ඉදිරිපත් කරනු ඇත.
-
-◼️
-
-[Data](articles/e3f9ba9b.json)
 
 ---
 
@@ -160,48 +80,6 @@ According to Tilvin Silva, General Secretary of Janata Vimukthi Peramuna, repres
 
 ---
 
-### ரயில் – லொறி மோதி விபத்து ; இருவர் பலி ; ஐந்து பேர் காயம்
-
-*2024-11-16 10:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198901) · `ta`
-
-வெலிகம - தெனிபிட்டிய பிரதேசத்தில் உள்ள ரயில் கடவையில் லொறி ஒன்று மாத்தறையிலிருந்து காலி நோக்கி பயணித்த ரயிலுடன் மோதி விபத்துக்குள்ளானதில் இருவர் உயிரிழந்துள்ளதாக வெலிகம பொலிஸார் தெரிவித்தனர்.
-
-இந்த விபத்தின் போது லொறியில் பயணித்த சாரதியும், முதியவரும், இரண்டு பெண்களும், மூன்று பிள்ளைகளும் காயமடைந்துள்ள நிலையில் மாத்தறை வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் சாரதியும் முதியவரும் சிகிச்சை பலனின்றி உயிரிழந்துள்ளனர்.
-
-◼️
-
-[Data](articles/d308a976.json)
-
----
-
-### ரயில் – மோட்டார் சைக்கிள் மோதி விபத்து ;  தந்தை பலி ; மகன் காயம்
-
-*2024-11-16 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198899) · `ta`
-
-அநுராதபுரம், ஹபரணை, பெல்லன்கடவல பிரதேசத்தில் உள்ள ரயில் கடவையில் மோட்டார் சைக்கிள் ஒன்று ரயிலுடன் மோதி விபத்துக்குள்ளானதில் தந்தை உயிரிழந்துள்ளதுடன் மகன் காயமடைந்துள்ளதாக ஹபரணை பொலிஸார் தெரிவித்தனர்.
-
-விபத்தின் போது மோட்டார் சைக்கிளில் பயணித்த மகன் காயமடைந்துள்ள நிலையில் சிகிச்சைக்காக தம்புள்ளை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/f0d345a7.json)
-
----
-
-### පාසල් විද්‍යාගාරයක් ගිනි ගනී
-
-*2024-11-16 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203421) · `si`
-
-පාසල් විද්‍යාගාරයක ඊයේ (15) රාත්‍රියේ හදිසියේ හටගත් ගින්නක් හේතුවෙන් එම විද්‍යාගාරය සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
-
-අප වාර්තාකරු සඳහන් කළේ මාතලේ උකුවෙල අජ්මීර් විද්‍යාලයේ විද්‍යාගාරයේ මෙම ගින්න හටගෙන තිබූ බවය.
-
-◼️
-
-[Data](articles/2ed4c611.json)
-
----
-
 ### Divulapitiya issue: District Government Agent's description
 
 *2024-11-16 10:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திவுலபிட்டிய-விவகாரம்-மாவட்ட-அரசாங்க-அதிபர்-விளக்கம்/175-347287) · `ta`
@@ -221,6 +99,32 @@ He said that the number of votes was delayed due to the preferential list of the
 [Data](articles/c6e7152b.json)
 
 [Extended Data](ext_articles/c6e7152b.ext.json)
+
+---
+
+### Young Media Secretary to White House
+
+*2024-11-16 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198898) · `ta`
+
+Donald Trump appoints Caroline Lewit as White House media secretary. She was campaign spokesperson and first female under 30 in this role. Studied communications at St. Anselm College.
+
+🟩
+
+US President Donald Trump will appoint a young woman named Caroline Lewit to the White House.
+
+Caroline Lewid has been a media spokesman for Donald Trump's campaign, who contested the US presidential election.
+
+In the meantime, Caroline Lewit is the young media secretary of the White House in American history.
+
+"Caroline has proved to be a clever, solid and a very talented spokesman," Donald Trump said.
+
+Lewit, a native of the state of New Hampshire in the United States, studied communications and state science at St. Anselm College, a Catholic College in his home state.
+
+◼️
+
+[Data](articles/192f5145.json)
+
+[Extended Data](ext_articles/192f5145.ext.json)
 
 ---
 
@@ -2311,5 +2215,139 @@ Preference of candidates representing the Trincomalee District representing the 
 [Data](articles/0d950832.json)
 
 [Extended Data](ext_articles/0d950832.ext.json)
+
+---
+
+### Preferential vote results of Nuwara Eliya District
+
+*2024-11-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103517/preferential-vote-results-of-nuwara-eliya-district-) · `en`
+
+The preferential vote results of the Nuwara Eliya District in the 2024 General Election have been released.
+
+NPP’s Manjula Suraweera Arachchi has polled the highest number of preferential votes in the Nuwara Eliya District.
+
+Palani Digambaran and Velusamy Radhakrishnan have secured two parliamentary seats for the SJB in the district, while Jeewan Thondaman has secured a seat for the United National Party (UNP).
+
+◼️
+
+[Data](articles/468c2a57.json)
+
+[Extended Data](ext_articles/468c2a57.ext.json)
+
+---
+
+### Nuwara Eliya Preferences of Matale
+
+*2024-11-15 15:52:07* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-මනාප-ලැයිස්තුව/11-413068) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Nuwara Eliya-Matale preferences: General Election results. List of parliamentarians representing Matale district.
+
+🟩
+
+List of candidates who represented the Parliament representing the Parliament representing the Matale district in the general election.
+
+◼️
+
+[Data](articles/02007661.json)
+
+[Extended Data](ext_articles/02007661.ext.json)
+
+---
+
+### Here is the details of those who have been elected to Parliament in Vanni
+
+*2024-11-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198872) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Rishad Bathiudeen won Vanni seat with 21,018 votes. Selvam Adakkalanathan got 5,695 votes. Katar Mastan secured 13,511+ votes across parties.
+
+🟩
+
+Rishad Bathiudeen, who has been elected to parliament in the Vanni electoral constituency, has the lowest votes.
+
+Rishad Bathiudeen, who contested the Vanni electoral constituency in Vavuniya, Mannar and Mullaitivu districts, has received a maximum of 21,018 preferential votes.
+
+Selvam Adakkalanathan, who contested the Democratic Tamil National Alliance (TNA) as a low preferential vote, has been elected to Parliament with a 5,695 preferential vote.
+
+In addition, Katar Mastan has elected 13,511 preferential votes in the Sri Lanka Workers Party, 11,215 votes in the Sri Lanka Tamil National Party, 10,652 votes in the National People's Power and 9,280 votes.
+
+◼️
+
+[Data](articles/6a3680d2.json)
+
+[Extended Data](ext_articles/6a3680d2.ext.json)
+
+---
+
+### Velukumar, Bharat Arulzamy Out
+
+*2024-11-15 15:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலுகுமார்-பாரத்-அருள்சாமி-அவுட்/76-347263) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kandy district election results: National People's Power wins 9 seats, United People's Power gets 2, New Democratic Front secures 1 seat.
+
+🟩
+
+The results of the preferential votes in the Kandy district have now been released and the National People's Power has won 9 seats.
+
+The United People's Power has won 02 seats and the New Democratic Front has won 01 seats.
+
+◼️
+
+[Data](articles/9eaca262.json)
+
+[Extended Data](ext_articles/9eaca262.ext.json)
+
+---
+
+### The end result and how the seat split
+
+*2024-11-15 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අවසන්-ප්‍රතිඵලය-හා-ආසන-බෙදී-ගිය-අයුරු/11-413067) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Elections Commission announces 2024 general election results: National Folk Force wins 159 seats, achieving two-thirds majority. This marks a rare opportunity for a single party to dominate parliament in recent history.
+
+🟩
+
+The Elections Commission officially announced the end result of the 2024 general election and the MPs (with national list).
+
+The national folk force was obtained by providing 159 members and a two-thirds majority.
+
+This is a unique opportunity to a single party in recent history as a unique opportunity for a single party.
+
+◼️
+
+[Data](articles/a44e1b9d.json)
+
+[Extended Data](ext_articles/a44e1b9d.ext.json)
+
+---
+
+### Nuwara Eliya Factor
+
+*2024-11-15 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203397) · `si`
+
+Nuwara Eliya Factor: A strategic location in Sri Lanka's central highlands, known for its cool climate, tea plantations, and historical significance. It played a crucial role in colonial-era administration and military operations. The area is now a popular tourist destination and agricultural hub.
+
+🟩
+
+◼️
+
+[Data](articles/fec834b0.json)
+
+[Extended Data](ext_articles/fec834b0.ext.json)
 
 ---

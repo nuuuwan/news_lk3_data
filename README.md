@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 19:00:53**
+As of **2024-11-16 19:11:55**
 
 ## Newspaper Stats
 
-*Scraped **55,246** Articles*
+*Scraped **55,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,672
+adaderanalk | 6,673
 tamilmirrorlk | 7,827
 virakesarilk | 8,950
 adaderanasinhalalk | 9,549
@@ -26,11 +26,25 @@ adaderanasinhalalk | 9,549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,246 (100.0%) of 55,246 articles have been extended.
+55,246 (100.0%) of 55,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Names of all elected parliamentarians gazetted
+
+*2024-11-16 18:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103548/names-of-all-elected-parliamentarians-gazetted) · `en`
+
+The names of all the Members of the Parliament who were elected through the 2024 General Election have been gazetted.
+
+Accordingly, the gazette notification issued by the Election Commission is as follows;
+
+◼️
+
+[Data](articles/a61250db.json)
+
+---
 
 ### 2024 General Election: Voter turnout down 10% compared to presidential poll
 
@@ -2399,29 +2413,5 @@ The injured persons have been hospitalised while some are in critical condition,
 [Data](articles/5579a279.json)
 
 [Extended Data](ext_articles/5579a279.ext.json)
-
----
-
-### We welcome the decree of the people of Sri Lanka as a fellow democratic country -Indian High Commissioner who first met and congratulated the President
-
-*2024-11-15 20:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/198886) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-India welcomes Sri Lanka's democratic victory. Indian High Commissioner met President Anura Kumara Dissanayake, pledging to strengthen bilateral ties for mutual benefit.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja first met President Anura Kumara Dissanayake on Friday (15) as the national people's power won the general election.
-
-The meeting was held at the Presidential Secretariat in Colombo. As a fellow democratic country, India welcomes this decree and has promised to further strengthen bilateral relations for the benefit of our people, the Indian High Commission said.
-
-◼️
-
-[Data](articles/38f9a54c.json)
-
-[Extended Data](ext_articles/38f9a54c.ext.json)
 
 ---

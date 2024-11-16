@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 11:41:58**
+As of **2024-11-16 12:41:39**
 
 ## Newspaper Stats
 
-*Scraped **55,205** Articles*
+*Scraped **55,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,162 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,164
-adaderanalk | 6,661
+adaderanalk | 6,662
 tamilmirrorlk | 7,823
-virakesarilk | 8,938
-adaderanasinhalalk | 9,539
+virakesarilk | 8,943
+adaderanasinhalalk | 9,542
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,205 (100.0%) of 55,205 articles have been extended.
+55,212 (100.0%) of 55,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### அக்குறனை நகரம்  வெள்ளத்தில் மூழ்கியது !
+
+*2024-11-16 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198905) · `ta`
+
+கண்டி மாவட்டத்தில் உள்ள சில பிரதேசங்களில் பெய்த கடும் மழை காரணமாக கண்டி – யாழ்ப்பாணம் ஏ – 09 வீதியில் உள்ள அக்குறனை நகரம் நேற்று வெள்ளிக்கிழமை (15) வெள்ளத்தில் மூழ்கியது.
+
+◼️
+
+[Data](articles/1c6942e5.json)
+
+---
+
+### නාමල් රාජපක්ෂ ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+
+*2024-11-16 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203423) · `si`
+
+2024 පාර්ලිමේන්තු මැතිවරණයේ ප්‍රතිඵල අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා එම පක්ෂයේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා දිවුරුම් දීමට නියමිතය.
+
+එම පක්ෂයේ මහලේකම් සාගර කාරියවසම් මහතා අද (16) පැවැති මාධ්‍ය හමුවකදී ඒ බව පැවසීය.
+
+◼️
+
+[Data](articles/3c210369.json)
+
+---
+
+### Train - Lorry collisionTwo killed;Five people injured
+
+*2024-11-16 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198901) · `ta`
+
+Lorry collides with train near Weligama: 2 dead, 5 injured. Accident occurred at railway crossing on Matara-Galle route.
+
+🟩
+
+Weligama police said that two people were killed when a lorry collided with a train traveling from Matara to Galle at a railway crossing in the Weligama - Thenipitiya area.
+
+The driver, the elderly, two women and three children were injured in the lorry during the accident and the driver and the elderly person died after being admitted to the Matara Hospital.
+
+◼️
+
+[Data](articles/d308a976.json)
+
+[Extended Data](ext_articles/d308a976.ext.json)
+
+---
+
+### Train - motorcycle collisionFather kills;Son injury
+
+*2024-11-16 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198899) · `ta`
+
+Motorcycle collides with train at railway crossing in Anuradhapura. Father killed, son injured. Son hospitalized in Dambulla.
+
+🟩
+
+Habarana police said that a motorcycle was killed and a son was injured when a motorcycle collided with a train at a railway crossing in Bellankadawala, Anuradhapura, Habarana, Anuradhapura.
+
+The son of a motorcycle was injured during the accident and was admitted to the Dambulla hospital for treatment, police said.
+
+◼️
+
+[Data](articles/f0d345a7.json)
+
+[Extended Data](ext_articles/f0d345a7.ext.json)
+
+---
+
+### A three -day workshop for newly elected MPs
+
+*2024-11-16 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198907) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Newly elected MPs attend 3-day workshop on parliament history & affairs. Registration begins 17th. No holidays for staff 18-22. First session 21st at 10 AM.
+
+🟩
+
+The three -day workshop is scheduled to be held on the legacy of parliament and parliamentary affairs for the newly elected members of the Tenth Parliament.
+
+The Secretary General of Parliament Saminda Kularatne said that the workshop will be held on the 25th, 26th and 27th of this month.
+
+The process of registering new MPs will be launched tomorrow (17).
+
+Due to these measures, the holidays of parliamentary employees have been canceled from 18 to 22.
+
+It is noteworthy that the first session of the new Parliament will be held at 10 am on the 21st.
+
+◼️
+
+[Data](articles/6e486b85.json)
+
+[Extended Data](ext_articles/6e486b85.ext.json)
+
+---
+
+### Pakistan - Punjab is low quality of air;Holidays for schools
+
+*2024-11-16 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198906) · `ta`
+
+Pakistan: Punjab air quality worsens, schools closed due to pollution. Educational institutions ordered online learning until 17th, except Murree district. Curfew imposed in Lahore and Multan for 3 days.
+
+🟩
+
+In Pakistan, air quality in Punjab continues to increase.The aircraft record has increased by 1,600 to the unprecedented record.
+
+In the environment where the quality of the wind is deteriorating, holidays have been announced for educational institutions, including school.
+
+Accordingly, until the 17th, all educational institutions have been announced. In this case, the smoke and the lesser distance can be seen,
+
+Thus, all educational institutions, including government, private schools and private educational training centers, have been advised to continue their educational training through the Internet.. However, the exception has been announced for Murree district.
+
+Prior to this, the smoke was spreading and the entire curfew was implemented on Friday in Lahore and Multan cities for up to 3 days a week.
+
+Accordingly, the entire curfew will continue today and tomorrow and the situation will be monitored for 3 days from Monday.
+
+◼️
+
+[Data](articles/4625c346.json)
+
+[Extended Data](ext_articles/4625c346.ext.json)
+
+---
+
+### New govt’s policy statement to be presented at Parliament’s inaugural session
+
+*2024-11-16 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103537/new-govts-policy-statement-to-be-presented-at-parliaments-inaugural-session-) · `en`
+
+President Anura Kumara Dissanayake will present the government’s policy statement at the inaugural session of the 10th Parliament on November 21 at 3.00 p.m., the Parliamentary Communications Department announced.
+
+This significant address, delivered at the commencement of each new parliamentary session, serves as a comprehensive presentation of the government’s vision and strategic direction. The President, as per constitutional powers, presides over the opening meetings of Parliament and sets the tone for legislative priorities through this statement.
+
+Historically referred to as the “Rajasana Speech”, this tradition not only marks the beginning of a parliamentary session but also offers the President an opportunity to detail the administration’s priorities and plans to both Parliament and the public.
+
+◼️
+
+[Data](articles/53076b76.json)
+
+[Extended Data](ext_articles/53076b76.ext.json)
+
+---
 
 ### Workshop for freshly elected MPs on parliament practices and affairs
 
@@ -53,6 +195,60 @@ A gazette notification related to these matters will be issued today (16).
 [Data](articles/610b9ca5.json)
 
 [Extended Data](ext_articles/610b9ca5.ext.json)
+
+---
+
+### Young Media Secretary to White House
+
+*2024-11-16 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198898) · `ta`
+
+Donald Trump appoints Caroline Lewit as White House media secretary. She was campaign spokesperson and first female under 30 in this role. Studied communications at St. Anselm College.
+
+🟩
+
+US President Donald Trump will appoint a young woman named Caroline Lewit to the White House.
+
+Caroline Lewid has been a media spokesman for Donald Trump's campaign, who contested the US presidential election.
+
+In the meantime, Caroline Lewit is the young media secretary of the White House in American history.
+
+"Caroline has proved to be a clever, solid and a very talented spokesman," Donald Trump said.
+
+Lewit, a native of the state of New Hampshire in the United States, studied communications and state science at St. Anselm College, a Catholic College in his home state.
+
+◼️
+
+[Data](articles/192f5145.json)
+
+[Extended Data](ext_articles/192f5145.ext.json)
+
+---
+
+### Notice of the policy statement of the new government
+
+*2024-11-16 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203422) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Government's policy statement to be presented by President at 3:30 PM on Nov 21st. Covers government vision and priorities."
+
+🟩
+
+At the beginning of the first meeting of Parliament, the government's policy statement is due to be made by the President at 21 overs at 3:30 pm on 21st November.
+
+The president issues announcement that the President had the authority to present the government's policy statement in Parliament and to preside to Parliament in Parliament and preside to Parliament meetings.
+
+Accordingly, the President makes the government's policy statement at the beginning of the Parliament.
+
+The President will submit a detailed analysis of his government's vision to Parliament by his policy statement by its policy statement.
+
+◼️
+
+[Data](articles/e3f9ba9b.json)
+
+[Extended Data](ext_articles/e3f9ba9b.ext.json)
 
 ---
 
@@ -80,6 +276,26 @@ According to Tilvin Silva, General Secretary of Janata Vimukthi Peramuna, repres
 
 ---
 
+### A school lab is on fire
+
+*2024-11-16 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203421) · `si`
+
+School lab fire destroys equipment at Ukuwela Ajmer College, Matale.
+
+🟩
+
+The lab was completely destroyed due to a fire that had erupted in a school lab yesterday.
+
+Our correspondent stated that the fire had erupted at the Ukuwela Ajmer College, Matale.
+
+◼️
+
+[Data](articles/2ed4c611.json)
+
+[Extended Data](ext_articles/2ed4c611.ext.json)
+
+---
+
 ### Divulapitiya issue: District Government Agent's description
 
 *2024-11-16 10:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திவுலபிட்டிய-விவகாரம்-மாவட்ட-அரசாங்க-அதிபர்-விளக்கம்/175-347287) · `ta`
@@ -99,32 +315,6 @@ He said that the number of votes was delayed due to the preferential list of the
 [Data](articles/c6e7152b.json)
 
 [Extended Data](ext_articles/c6e7152b.ext.json)
-
----
-
-### Young Media Secretary to White House
-
-*2024-11-16 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198898) · `ta`
-
-Donald Trump appoints Caroline Lewit as White House media secretary. She was campaign spokesperson and first female under 30 in this role. Studied communications at St. Anselm College.
-
-🟩
-
-US President Donald Trump will appoint a young woman named Caroline Lewit to the White House.
-
-Caroline Lewid has been a media spokesman for Donald Trump's campaign, who contested the US presidential election.
-
-In the meantime, Caroline Lewit is the young media secretary of the White House in American history.
-
-"Caroline has proved to be a clever, solid and a very talented spokesman," Donald Trump said.
-
-Lewit, a native of the state of New Hampshire in the United States, studied communications and state science at St. Anselm College, a Catholic College in his home state.
-
-◼️
-
-[Data](articles/192f5145.json)
-
-[Extended Data](ext_articles/192f5145.ext.json)
 
 ---
 
@@ -2151,203 +2341,5 @@ According to the overall result of the district, the national power was owned by
 [Data](articles/ae32d417.json)
 
 [Extended Data](ext_articles/ae32d417.ext.json)
-
----
-
-### Trincomalee Preferences
-
-*2024-11-15 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203398) · `si`
-
-Here's a summary of Trincomalee Preferences in 200 characters:
-
-
-
-Trincomalee, a port city in Sri Lanka's eastern coast, has unique preferences shaped by its history and geography. Locals often prefer seafood dishes like pittu (steamed rice cakes) with fish curry. The city's tropical climate influences fashion choices, favoring lightweight, breathable clothing. Cultural traditions emphasize respect for elders and Buddhist practices.
-
-🟩
-
-◼️
-
-[Data](articles/4cf761b1.json)
-
-[Extended Data](ext_articles/4cf761b1.ext.json)
-
----
-
-### Trincomalee District preferential vote results
-
-*2024-11-15 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103518/trincomalee-district-preferential-vote-results-) · `en`
-
-The preferential vote results of the Trincomalee District in the 2024 General Election have been released.
-
-NPP’s Arun Hemachandra has polled the highest number of preferential votes in the Trincomalee District.
-
-Imran Maharoof has obtained the highest number of preferential votes for the SJB and secures the only parliamentary seat for the party in the district, while ITAK’s Shanmugam Kugathasan also secured a single seat for the party.
-
-◼️
-
-[Data](articles/8d1087a3.json)
-
-[Extended Data](ext_articles/8d1087a3.ext.json)
-
----
-
-### Trincomalee preferential preferential votes
-
-*2024-11-15 15:53:42* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-මනාප-ලැයිස්තුව/11-413069) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Trincomalee district 2024 general election candidate preferences. Voters' choices for representatives in the Trincomalee area."
-
-
-
-This summary captures the main points of the original text while staying within the character limit. It mentions the location (Trincomalee), the context (2024 general election), and the key concept (candidate preferences). The summary is concise yet informative, providing a clear idea of what the original text is about.
-
-🟩
-
-Preference of candidates representing the Trincomalee District representing the Trincomalee District in the 2024 general election.
-
-◼️
-
-[Data](articles/0d950832.json)
-
-[Extended Data](ext_articles/0d950832.ext.json)
-
----
-
-### Preferential vote results of Nuwara Eliya District
-
-*2024-11-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103517/preferential-vote-results-of-nuwara-eliya-district-) · `en`
-
-The preferential vote results of the Nuwara Eliya District in the 2024 General Election have been released.
-
-NPP’s Manjula Suraweera Arachchi has polled the highest number of preferential votes in the Nuwara Eliya District.
-
-Palani Digambaran and Velusamy Radhakrishnan have secured two parliamentary seats for the SJB in the district, while Jeewan Thondaman has secured a seat for the United National Party (UNP).
-
-◼️
-
-[Data](articles/468c2a57.json)
-
-[Extended Data](ext_articles/468c2a57.ext.json)
-
----
-
-### Nuwara Eliya Preferences of Matale
-
-*2024-11-15 15:52:07* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-මනාප-ලැයිස්තුව/11-413068) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Nuwara Eliya-Matale preferences: General Election results. List of parliamentarians representing Matale district.
-
-🟩
-
-List of candidates who represented the Parliament representing the Parliament representing the Matale district in the general election.
-
-◼️
-
-[Data](articles/02007661.json)
-
-[Extended Data](ext_articles/02007661.ext.json)
-
----
-
-### Here is the details of those who have been elected to Parliament in Vanni
-
-*2024-11-15 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198872) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Rishad Bathiudeen won Vanni seat with 21,018 votes. Selvam Adakkalanathan got 5,695 votes. Katar Mastan secured 13,511+ votes across parties.
-
-🟩
-
-Rishad Bathiudeen, who has been elected to parliament in the Vanni electoral constituency, has the lowest votes.
-
-Rishad Bathiudeen, who contested the Vanni electoral constituency in Vavuniya, Mannar and Mullaitivu districts, has received a maximum of 21,018 preferential votes.
-
-Selvam Adakkalanathan, who contested the Democratic Tamil National Alliance (TNA) as a low preferential vote, has been elected to Parliament with a 5,695 preferential vote.
-
-In addition, Katar Mastan has elected 13,511 preferential votes in the Sri Lanka Workers Party, 11,215 votes in the Sri Lanka Tamil National Party, 10,652 votes in the National People's Power and 9,280 votes.
-
-◼️
-
-[Data](articles/6a3680d2.json)
-
-[Extended Data](ext_articles/6a3680d2.ext.json)
-
----
-
-### Velukumar, Bharat Arulzamy Out
-
-*2024-11-15 15:51:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/வேலுகுமார்-பாரத்-அருள்சாமி-அவுட்/76-347263) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Kandy district election results: National People's Power wins 9 seats, United People's Power gets 2, New Democratic Front secures 1 seat.
-
-🟩
-
-The results of the preferential votes in the Kandy district have now been released and the National People's Power has won 9 seats.
-
-The United People's Power has won 02 seats and the New Democratic Front has won 01 seats.
-
-◼️
-
-[Data](articles/9eaca262.json)
-
-[Extended Data](ext_articles/9eaca262.ext.json)
-
----
-
-### The end result and how the seat split
-
-*2024-11-15 15:49:43* · [`adalk`](https://www.ada.lk/breaking_news/අවසන්-ප්‍රතිඵලය-හා-ආසන-බෙදී-ගිය-අයුරු/11-413067) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Elections Commission announces 2024 general election results: National Folk Force wins 159 seats, achieving two-thirds majority. This marks a rare opportunity for a single party to dominate parliament in recent history.
-
-🟩
-
-The Elections Commission officially announced the end result of the 2024 general election and the MPs (with national list).
-
-The national folk force was obtained by providing 159 members and a two-thirds majority.
-
-This is a unique opportunity to a single party in recent history as a unique opportunity for a single party.
-
-◼️
-
-[Data](articles/a44e1b9d.json)
-
-[Extended Data](ext_articles/a44e1b9d.ext.json)
-
----
-
-### Nuwara Eliya Factor
-
-*2024-11-15 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203397) · `si`
-
-Nuwara Eliya Factor: A strategic location in Sri Lanka's central highlands, known for its cool climate, tea plantations, and historical significance. It played a crucial role in colonial-era administration and military operations. The area is now a popular tourist destination and agricultural hub.
-
-🟩
-
-◼️
-
-[Data](articles/fec834b0.json)
-
-[Extended Data](ext_articles/fec834b0.ext.json)
 
 ---

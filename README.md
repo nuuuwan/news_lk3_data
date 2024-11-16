@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 03:10:44**
+As of **2024-11-17 03:41:07**
 
 ## Newspaper Stats
 
-*Scraped **55,274** Articles*
+*Scraped **55,275** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,169
 adaderanalk | 6,676
-tamilmirrorlk | 7,831
+tamilmirrorlk | 7,832
 virakesarilk | 8,955
 adaderanasinhalalk | 9,557
 
@@ -26,9 +26,31 @@ adaderanasinhalalk | 9,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,274 (100.0%) of 55,274 articles have been extended.
+55,275 (100.0%) of 55,275 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-17 (Sunday)
+
+### Extension of landslide risk warning
+
+*2024-11-17 03:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-நீடிப்பு/175-347309) · `ta`
+
+Landslide warning extended: Matale, Kegalle, Kurunegala, Gampaha, Matara until 4pm today.
+
+🟩
+
+The National Building Research Institute said that the landslide hazard warning has been extended till 4 pm today.
+
+A landslide hazard has been extended to the districts of Matale, Kegalle, Kurunegala, Gampaha and Matara. (A)
+
+◼️
+
+[Data](articles/78793e48.json)
+
+[Extended Data](ext_articles/78793e48.ext.json)
+
+---
 
 ### 2024-11-16 (Saturday)
 
@@ -2575,19 +2597,5 @@ Meanwhile, the National People's Power. Jagadeeswaran has participated in variou
 [Data](articles/a98ba129.json)
 
 [Extended Data](ext_articles/a98ba129.ext.json)
-
----
-
-### Forward March By NPP For Social Transformation (Parivarthanaya) – Part II
-
-*2024-11-16 02:37:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/forward-march-by-npp-for-social-transformation-parivarthanaya-part-ii/) · `en`
-
-The parliamentary election on 14th November 2024 was to be like no other in Sri Lanka’s post independent history. Like the Presidential election held on September 21st, it was another ground-breaking expression of people’s will to change the government at a peaceful election. In particular, the result will empower the disempowered and marginalised people from lower socio-economic classes and those from rural and urban fringes who have been misled by previous rulers either by offering temporary inducements while enjoying the aura of power or spreading fear about the different other-generally ethnic minorities- and expensive media campaigns.
-
-...
-
-[Data](articles/0f995158.json)
-
-[Extended Data](ext_articles/0f995158.ext.json)
 
 ---

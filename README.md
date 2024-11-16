@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 18:02:05**
+As of **2024-11-16 18:35:47**
 
 ## Newspaper Stats
 
-*Scraped **55,245** Articles*
+*Scraped **55,246** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,671
+adaderanalk | 6,672
 tamilmirrorlk | 7,827
 virakesarilk | 8,950
 adaderanasinhalalk | 9,549
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,245 (100.0%) of 55,245 articles have been extended.
+55,246 (100.0%) of 55,246 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### 2024 General Election: Voter turnout down 10% compared to presidential poll
+
+*2024-11-16 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103547/2024-general-election-voter-turnout-down-10-compared-to-presidential-poll) · `en`
+
+The Commissioner General of Elections Saman Sri Rathnayake states that there has been a significant reduction by 10% of the voter turnout in 2024 General Election, in comparison with Sri Lanka’s Presidential Election which was held in September 21.
+
+The Elections Commissioner General also confirmed that 5% of the ballots casted have been rejected, which is 667,240 votes in total.
+
+The total number of votes polled is 11,815,246 which amounts to a 68.93% of total registered votes out of which 11,148,006 were considered valid, according to the Election Commission.
+
+Furthermore, Mr. Rathnayake clarified that only a candidate who contested the General Election and was defeated or a person whose name has already been mentioned in their party or independent group’s national list can enter the Parliament as an MP for the national list seats.
+
+He also emphasized that all candidates who contested the election must submit their expenses reports to the Election Commission within 21 days.
+
+...
+
+[Data](articles/a2646871.json)
+
+[Extended Data](ext_articles/a2646871.ext.json)
+
+---
 
 ### Sajith Premadasa’s vote count plummeted by more than half in Colombo District
 
@@ -2401,35 +2423,5 @@ The meeting was held at the Presidential Secretariat in Colombo. As a fellow dem
 [Data](articles/38f9a54c.json)
 
 [Extended Data](ext_articles/38f9a54c.ext.json)
-
----
-
-### There is no change in the Tamil national struggle - Chanakyan after victory
-
-*2024-11-15 20:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198885) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan Tamil National Alliance leader says Tamil national struggle continues unchanged despite election victory. Emphasizes party's strong presence in Northeast districts and commitment to representing people's interests.
-
-🟩
-
-The Tamil national struggle of the Tamil people will continue and there is no change in it.
-
-The Sri Lankan Tamil National Party is the third highest number of seats in Sri Lanka. In that way, the Tamil national struggle of the Tamil people will not change, ”said the Sri Lankan Tamil National Alliance (TNA) from the Batticaloa district to Parliament.
-
-He was speaking among hundreds of people who gathered there to welcome him when he went to his house in Kaluwanchikudi after the election results.
-
-His grandfather, located in Kaluwanchikudi, was greeted by supporters of the group after he was wearing a flower garland to the statue of the statue. He further commented.
-
-This is not my victory, but the victory of the people of the North and East, the people of Batticaloa have given me the most votes in the Batticaloa district when they are in the nationwide compass and Anurakumara Dissanayake.
-
-...
-
-[Data](articles/e8b7e748.json)
-
-[Extended Data](ext_articles/e8b7e748.ext.json)
 
 ---

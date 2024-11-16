@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 21:00:27**
+As of **2024-11-16 21:11:55**
 
 ## Newspaper Stats
 
-*Scraped **55,257** Articles*
+*Scraped **55,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,673
+adaderanalk | 6,674
 tamilmirrorlk | 7,828
 virakesarilk | 8,954
-adaderanasinhalalk | 9,554
+adaderanasinhalalk | 9,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,257 (100.0%) of 55,257 articles have been extended.
+55,257 (100.0%) of 55,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Plantation youth and women poised for political change: Newly elected MP Ambika Samuel
+
+*2024-11-16 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103549/plantation-youth-and-women-poised-for-political-change-newly-elected-mp-ambika-samuel-) · `en`
+
+Ambika Samuel, the newly elected female representative to Parliament, has expressed confidence in the potential of the youth in plantation community and beyond to take an active role in politics.
+
+Speaking about her journey into politics, Samuel, the first female Tamil MP to have been elected through a major political party from the plantation community, emphasized that her entry into the political sphere is not just a personal achievement but a stepping stone for others, especially young people from the plantation sector, who she believes have been confined to outdated frameworks.
+
+“I am the first to enter politics from here, and my brothers and sisters will undoubtedly follow. These are young individuals with immense talent and a genuine desire to serve the country. For too long, they have been trapped within certain limitations, but now that those barriers have been broken, we can expect a new wave of leadership emerging from the hill country and from other districts,” she added.
+
+...
+
+[Data](articles/b6a1bf3a.json)
+
+---
+
+### ගුරුවරියන් දෙදෙනා කළ අමානුෂික පහරදීම සිසුවියකට දිවි අහිමි කරයි
+
+*2024-11-16 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203438) · `si`
+
+වෙන්නප්පුවේ ප්‍රසිද්ධ පාසලක ගුරුවරියන් දෙදෙනෙකුගේ පහරදීම හේතුවෙන් මාස තුනකට අධික කාලයක් රෝහල්ගතව සිටි සිසුවියක් රාගම ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටියදී මියගොස් තිබේ.
+
+මෙලෙස මියගොස් ඇත්තේ වෙන්නප්පු ප්‍රදේශයේ පිහිටි ප්‍රසිද්ධ පාසලක 10 වන ශ්‍රේණියේ ඉගෙනුම ලබමින් සිටි 16 හැවිරිදි රමේෂා දිනිති නම් සිසුවියකි.
+
+මියගිය දැරියගේ දේහය පිළිබඳව සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරණය වී ඇත්තේ, මොළයට රුධිරය වහනය වීම හේතුවෙන් මෙම මරණය සිදුව ඇති බවය.
+
+ඒ අනුව සිද්ධිය සම්බන්ධයෙන් රක්ෂිත බන්ධනාගාර ගතකර සිට ඇප මත මුදාහැර සිටි ගුරුවරියන් දෙදෙනා නැවතත් පසුගිය 14 වනදා  අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරුව නොවැම්බර් 18 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකළ බව පොලීසිය පවසයි.
+
+ඇයගේ පන්තිභාර ගුරුවරිය හා තවත් ගුරුවරියක සිදුකළ මෙම අමානුෂික පහරදීම පිළිබඳව අද දෙරණ පසුගිය අගෝස්තු මස 23 වනදා වාර්තා කළේය.
+
+...
+
+[Data](articles/19486cf7.json)
+
+---
 
 ### Measures to prosecute candidates who do not receive spending reports
 
@@ -2441,49 +2477,5 @@ The Joint Apparel Association Forum (JAAF), yesterday extended its warm congratu
 [Data](articles/ccb063ef.json)
 
 [Extended Data](ext_articles/ccb063ef.ext.json)
-
----
-
-### Confederation of MSMI congratulates President and NPP
-
-*2024-11-16 00:02:39* · [`dailyftlk`](https://www.ft.lk/business/Confederation-of-MSMI-congratulates-President-and-NPP/34-769320) · `en`
-
-The Confederation of MSMI yesterday via a statement congratulated President Anura Kumara Dissanayake and his party NPP over the victory at Thursday’s Parliamentary election.
-
-“We extend our warmest congratulations to you and the team on your well-deserved landslide victory of National People’s Power. Your leadership, vision, and dedication have been evident throughout your career, and this positive leadership is a testament to your remarkable achievements,” said Confederation of MSMI President Nawaz Rajabdeen.
-
-“We are confident that under your guidance, micro, small and medium industrial enterprises in Sri Lanka will achieve new heights of success and prosperity. Please know that you have our full support as you embark on this exciting journey. Wishing you and the team every success in your tenure,” the statement added.
-
-◼️
-
-[Data](articles/d256e616.json)
-
-[Extended Data](ext_articles/d256e616.ext.json)
-
----
-
-### 2024-11-15 (Friday)
-
-### 5,992,348 out of the registered voters did not vote
-
-*2024-11-15 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198888) · `ta`
-
-In the 2024 general election, 65% of eligible voters participated. 11,148,006 cast valid votes, while 5,992,348 did not vote. The election was held at 13,421 centers nationwide, with 3,820,738 candidates also abstaining from voting.
-
-🟩
-
-With 17,140,354 voting in the 2024 general election, 11,148,006 voted and 5,992,348 did not vote.. This time, 65 percent of the votes were cast.
-
-The general election for the tenth parliament was held on Thursday (14) at 13,421 voting centers nationwide.
-
-At least 17,140,354 were eligible to vote in the general election of 2024, 11,148,006 nationwide voted.. Of the total votes cast, 667,640 have been rejected, with 11,815,246 votes accepted as valid votes. Of the total registered voters, 5,992,348 did not vote.
-
-3,820,738 candidates did not vote in the presidential election. In 2024, 17,140,354 were eligible to vote in accordance with the voting, 13,319,616 voted.. Out of the total votes cast, 300,300 votes were rejected and 13,619,916 were adopted as valid votes.
-
-◼️
-
-[Data](articles/c85e111b.json)
-
-[Extended Data](ext_articles/c85e111b.ext.json)
 
 ---

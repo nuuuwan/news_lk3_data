@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 23:25:21**
+As of **2024-11-16 22:59:52**
 
 ## Newspaper Stats
 
-*Scraped **55,269** Articles*
+*Scraped **55,267** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,169
 adaderanalk | 6,676
 tamilmirrorlk | 7,828
-virakesarilk | 8,955
-adaderanasinhalalk | 9,557
+virakesarilk | 8,954
+adaderanasinhalalk | 9,556
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,267 (100.0%) of 55,269 articles have been extended.
+55,267 (100.0%) of 55,267 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,26 +51,6 @@ The United National Party, one of Sri Lanka’s oldest political parties, has a 
 [Data](articles/f39c1391.json)
 
 [Extended Data](ext_articles/f39c1391.ext.json)
-
----
-
-### රෙහාන් ජයවික්‍රම දේශපාලනයෙන් සමුගනියි
-
-*2024-11-16 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203440) · `si`
-
-තමන් ක්‍රියාකාරී දේශපාලනයෙන් මෙන්ම මාතර වැලිගම සංවිධායක ධුරයෙන්ද ඉල්ලා අස්වන බව සමගි ජන බලවේගයේ වැලිගම සංවිධායක රෙහාන් ජයවික්‍රම පවසයි.
-
-සිය X පිටුවේ සටහනක් සටහනක් තබමින් ඔහු පැවසුවේ සිය ඉල්ලා අස්වීමේ ලිපිය පක්ෂ නායක සජිත් ප්‍රේමදාස මහතා වෙත යොමු කළ බවය.
-
-දිගින් දිගටම සිදුවන මැතිවරණ පරාජයන් හමුවේ දේශපාලනයේ තමන් ඉතා දුෂ්කර ගමනක් පැමිණියත්, මෙතැන් සිට තම පවුල ගැන සිතීමට මෙන්ම ඔවුන් වෙනුවෙන් වැඩ කිරීමට කාලය එළැඹ ඇති බව තමන්ට හැඟෙන බවත් ඔහු සඳහන් කර තිබේ.
-
-එමෙන්ම ඔහු වැඩිදුරටත් පවසා ඇත්තේ මෙම තීරණය ඉතා පහසුවෙන් ගත් තීරණයක් නොවන නමුත් එය දැනට නිවැරදි තීරණයක් ලෙස හැගෙන බවයි.
-
-ඔහු මින් පෙර වැලිගම නගර සභාවේ නගරාධිපති ලෙස කටයුතු කර තිබුණු අතර මෙවර පාර්ලිමේන්තු මැතිවරණය සඳහා මාතර දිස්ත්‍රික්කය නියෝජනය කරමින් තරග කළ නමුත් ඉන් පරාජයට පත් වුණි.
-
-◼️
-
-[Data](articles/9b61b9ef.json)
 
 ---
 
@@ -759,28 +739,6 @@ In 2019, Carolin Leavitte Truth preserved was attached to the Media Office of th
 [Data](articles/74fa0ad5.json)
 
 [Extended Data](ext_articles/74fa0ad5.ext.json)
-
----
-
-### தமிழர்கள் புறக்கணிக்கப்படுவதாக ஜெனிவாவில் இனி கேள்வியெழுப்ப முடியாது ; அரசியல் கைதிகளுக்கு பொதுமன்னிப்பு வழங்க வேண்டும் - சட்டத்தரணி பிரதீபா மஹாநாம
-
-*2024-11-16 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198926) · `ta`
-
-வடக்கு மற்றும் கிழக்கு மக்கள் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான அரசாங்கத்துக்கு முழுமையான ஒத்துழைப்பு வழங்கியுள்ளார்கள். அரசியல் கட்டமைப்பில் இருந்து தமிழர்கள் புறக்கணிக்கப்படுகிறார்கள் என்று  ஜெனிவாவில்  இனி கேள்வியெழுப்ப முடியாது.
-
-பயங்கரவாத தடைச்சட்டத்தின் கீழ் தடுத்து வைக்கப்பட்டுள்ள அரசியல் கைதிகளுக்கு ஜனாதிபதி பொது மன்னிப்பு வழங்க வேண்டும் என சட்டத்தரணி பிரதீபா மஹாநாம தெரிவித்தார்.
-
-பொதுத்தேர்தலில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான தேசிய மக்கள் சக்தி  21 தேர்தல் மாவட்டங்களிலும் அமோக வெற்றிப் பெற்றுள்ளமை விசேட அம்சமாகும்.
-
-வடக்கு மற்றும் கிழக்கு மாகாண தமிழ் மக்கள் பாரம்பரியமான அரசியல் கலாச்சாரத்தில் இருந்து விலகி புதிய அரசியல் கலாச்சாரத்துக்குள் பிரவேசித்துள்ளார்கள்.
-
-வடக்கு மற்றும் கிழக்கு மாகாண மக்கள் குறிப்பாக தமிழ் மக்கள் ஜனாதிபதி அனுரகுமார திசாநாயக்க தலைமையிலான தேசிய மக்கள் சக்திக்கு முழுமையான ஒத்துழைப்பு வழங்கியுள்ளார்கள்.
-
-எவ்விதமான அரசியல் கூட்டணியுமில்லாமல் தேசிய மக்கள் சக்தி வெற்றிப் பெற்றுள்ளமை விசேட அம்சமாகும்.
-
-...
-
-[Data](articles/97d5cfb6.json)
 
 ---
 
@@ -2563,5 +2521,43 @@ Before the presidential election on 21 September 2024, then presidential candida
 [Data](articles/d673025b.json)
 
 [Extended Data](ext_articles/d673025b.ext.json)
+
+---
+
+### Former BASL Chief welcomes NPP’s historic victory, issues caution
+
+*2024-11-16 01:09:33* · [`dailyftlk`](https://www.ft.lk/news/Former-BASL-Chief-welcomes-NPP-s-historic-victory-issues-caution/56-769325) · `en`
+
+Activist and the Bar Association of Sri Lanka’s (BASL) Former President Saliya Pieris PC yesterday hailed the historic victory of National People’s Power (NPP) at Thursday’s Parliamentary Election and stressed the importance of living up to the trust of people.
+
+In a post on Facebook, Pieris said this is the first time one party got two-thirds majority in the Parliament under the proportional representation system if the National People’s Force gets two-thirds majority. Common Front in 2010 and Sri Lanka Podujana Front in 2020 were slightly reduced to two-thirds and had to seek support from some Opposition Ministers to get a two-thirds majority.
+
+The only parallel to this victory is the Presidential Election where the 1994 Prime Minister Chandrika Kumarathunga was appointed as the president.
+
+“The National People’s Force has achieved significant achievements in the North and Eastern regions so that the President can become a leader who can unite various communities in Sri Lanka.
+
+...
+
+[Data](articles/f48dd4ee.json)
+
+[Extended Data](ext_articles/f48dd4ee.ext.json)
+
+---
+
+### Over 50 persons arrested for election law violations
+
+*2024-11-16 01:08:42* · [`dailyftlk`](https://www.ft.lk/news/Over-50-persons-arrested-for-election-law-violations/56-769324) · `en`
+
+Over 50 people have been arrested for violating election laws during the Parliamentary polling period, according to Police Spokesperson DIG Nihal Thalduwa
+
+DIG Thalduwa explained that most of the arrests were made due to illegal election campaign activities, such as capturing photographs, tearing ballot papers, distributing money, and engaging in physical assault.
+
+Despite these incidents, the police confirmed that the overall polling period remained relatively peaceful.
+
+◼️
+
+[Data](articles/2a2d3943.json)
+
+[Extended Data](ext_articles/2a2d3943.ext.json)
 
 ---

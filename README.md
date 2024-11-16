@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 19:41:01**
+As of **2024-11-16 20:11:57**
 
 ## Newspaper Stats
 
-*Scraped **55,248** Articles*
+*Scraped **55,252** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 5,167
 adaderanalk | 6,673
 tamilmirrorlk | 7,828
 virakesarilk | 8,950
-adaderanasinhalalk | 9,549
+adaderanasinhalalk | 9,553
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,248 (100.0%) of 55,248 articles have been extended.
+55,252 (100.0%) of 55,252 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,6 +72,84 @@ The discussion was chaired by UNP leader and former president Ranil Wickremesing
 
 ---
 
+### Gazette notification included in elected MPs
+
+*2024-11-16 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203436) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Gazette notification for elected MPs in 2024 parliamentary elections released. Document available on Scribd."
+
+🟩
+
+The gazette notification included in the 2024 parliamentary elections have been issued.
+
+Gazette notification of elected MPs is issued by Poornima On Scribd
+
+◼️
+
+[Data](articles/6033dbd3.json)
+
+[Extended Data](ext_articles/6033dbd3.ext.json)
+
+---
+
+### Those with capabilities were broken the framerary frame - Ambika
+
+*2024-11-16 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203435) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ambika enters politics, breaking traditional frames. She aims to empower talented youth in agriculture and promote women leaders from various backgrounds.
+
+🟩
+
+Ambika representing new nine women's representation to parliament is ready to enter into politics with its first time.
+
+She said that young people with the talents were in the plantation sector, but they were trapped in a frame.
+
+"For the first time I come to politics, my sister and my sisters will definitely come into politics. Children who have good abilities, people's, serve to serve the land.  ඒ අය කොටු කරලා තිබ්බේ, යම් කිසි රාමුවක හිටියේ. Broke that frame. In advance, good leaders will come from the mountains and other districts.
+
+Especially women who were in the house of the Kitchen. Those who have good abilities. They were there an incident where they were. That impact could not be done in politics. In the first leaplam, good leaders, a good leaders, a good women's representation will be found in other places. "
+
+◼️
+
+[Data](articles/b6a7c2b0.json)
+
+[Extended Data](ext_articles/b6a7c2b0.ext.json)
+
+---
+
+### Decision taken about future elections
+
+*2024-11-16 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203434) · `si`
+
+UNP decides to participate in future elections under Ranil Wickremesinghe's leadership, aiming to strengthen party stability and journalism.
+
+🟩
+
+A special discussion has been held today (16) this morning.
+
+The discussion was held under the patronage of the UNP leader of former President Ranil Wickremesinghe.
+
+It is reported that the UNP has been discussed at length to compete in the electorate.
+
+Meanwhile, the UNP chairman Vajira Abeywardena said that the United National Party (UNP) was held to contest the next election.
+
+He said this decision was taken to strengthen the stability and the journalism of the UNP.
+
+◼️
+
+[Data](articles/f8a4085b.json)
+
+[Extended Data](ext_articles/f8a4085b.ext.json)
+
+---
+
 ### 2024 General Election: Voter turnout down 10% compared to presidential poll
 
 *2024-11-16 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103547/2024-general-election-voter-turnout-down-10-compared-to-presidential-poll) · `en`
@@ -91,6 +169,40 @@ He also emphasized that all candidates who contested the election must submit th
 [Data](articles/a2646871.json)
 
 [Extended Data](ext_articles/a2646871.ext.json)
+
+---
+
+### Strikes in Canada
+
+*2024-11-16 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203433) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Canada's postal workers strike over wage demands. They've been striking for 3 days, seeking higher pay to match inflation. After 6 years without a strike, they're pushing for better working conditions. Authorities offered an 11.5% salary increase over four years, but workers claim this isn't enough.
+
+🟩
+
+Canada's mailing union strike has launched a strike, taking on several demands, including wages.
+
+Foreign media reports that they are planning to engage in strike for 3 days.
+
+They have launched a strike after 6 years.
+
+Postal professionals requests the strike to increase the salaries in line with inflation and the cost of living.
+
+They are also asking to create a suitable environment to serve.
+
+Authorities have agreed to increase the salary increase of 11.5 percent in four years.
+
+However, it is said that it is the idea of ​​the strike that it is not enough.
+
+◼️
+
+[Data](articles/e8fd117b.json)
+
+[Extended Data](ext_articles/e8fd117b.ext.json)
 
 ---
 
@@ -2317,109 +2429,5 @@ She had received a staggering 655,289 votes in total and in doing so had set a n
 [Data](articles/a590531e.json)
 
 [Extended Data](ext_articles/a590531e.ext.json)
-
----
-
-### Pakistan is pledged to further expand long -term relations with Sri Lanka - Pakistan congratulates the Prime Minister
-
-*2024-11-15 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/198887) · `ta`
-
-Pakistan PM congratulates Sri Lanka's president-elect, vows to strengthen bilateral ties based on mutual respect and shared values.
-
-🟩
-
-Pakistan Prime Minister Shebash Sharif has congratulated President Anura Kumara Dissanayake's party in the parliamentary election.
-
-He noted that this is a testament to the people's confidence and confidence in the Sri Lankan people on the vision and leadership of President Anura.
-
-Prime Minister Shebash Sharif has stated that Pakistan is committed to further expand his close and long -term relations with Sri Lanka based on the long history of mutual respect, shared values ​​and cooperation.
-
-President Anura Kumara Dissanayake, who thanked his congratulations, said that our government will continue to work with Pakistan to further strengthen the close and long -term relations between the two countries.
-
-◼️
-
-[Data](articles/9969d43c.json)
-
-[Extended Data](ext_articles/9969d43c.ext.json)
-
----
-
-### Gampaha Preferential Results
-
-*2024-11-15 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203413) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Gampaha District election results: National Power party won 16 seats out of total.
-
-🟩
-
-According to the overall result of the district, the national power was served 16 seats.
-
-◼️
-
-[Data](articles/7a0c6e2d.json)
-
-[Extended Data](ext_articles/7a0c6e2d.ext.json)
-
----
-
-### Vijitha Herath renews Prime Minister Harinini's report
-
-*2024-11-15 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203412) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Vijitha Herath wins Gampaha with record 716,715 votes. PM Harini Amarasuriya gets 655,289 in Colombo. National party takes 16 seats.
-
-🟩
-
-Vijitha Herath, who was contesting for the Gampaha District for the general election, has been identified in Gampaha District with 716,715 preferential votes.
-
-It is the highest number of preferential votes received by a candidate in the history of Sri Lanka.
-
-According to the overall result of the district, the national power was served 16 seats.
-
-Prime Minister Harini Amarasuriya had been released before the Colombo district preferential votes.
-
-She had won 14 preferential votes in the Colombo district and 655,289 were the highest number of preferential votes.
-
-◼️
-
-[Data](articles/e14c6554.json)
-
-[Extended Data](ext_articles/e14c6554.ext.json)
-
----
-
-### Train accident killed in accident
-
-*2024-11-15 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203411) · `si`
-
-Train accident kills two, injures four near Weligama. Driver and passengers from Tiljawali area returning from Galle. Crash occurred as train approached crossing.
-
-🟩
-
-Two members of the family were killed in connection with a small lorry at Weligama Coconut Crossing around 6.20 pm on a train from Matara to Galle.
-
-The other four were injured in the accident have been admitted to the Matara General Hospital and one woman's condition is serious, hospital sources said.
-
-The victims are residents of Tiljjawali, Muslithawall area, who had gone to a cousin in Galle and returned to her home in Galle.
-
-Weligama Police say that the crash has taken place when a train is nearing a train that a train is being flashed.
-
-The victim was a 34 year old driver, 34 year old Dilipaya Front, 34 year old, was the 34 year old driver of the loripa.. The people of Sugathadasa.
-
-The driver of the lorry, which was injured among the injured, has been admitted to the Matara General Hospital and is receiving treatment at the Matara General Hospital.
-
-◼️
-
-[Data](articles/57801dec.json)
-
-[Extended Data](ext_articles/57801dec.ext.json)
 
 ---

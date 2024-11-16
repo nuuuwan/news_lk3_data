@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 14:59:52**
+As of **2024-11-16 16:00:15**
 
 ## Newspaper Stats
 
-*Scraped **55,222** Articles*
+*Scraped **55,226** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 428
 colombotelegraphcom | 561
-bbccomsinhala | 564
+bbccomsinhala | 565
 islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,166
-adaderanalk | 6,667
+adalk | 5,167
+adaderanalk | 6,669
 tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
@@ -26,11 +26,51 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,222 (100.0%) of 55,222 articles have been extended.
+55,226 (100.0%) of 55,226 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### “Got exactly what we expected. SLPP will never quit”: MR on election result
+
+*2024-11-16 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103544/got-exactly-what-we-expected-slpp-will-never-quit-mr-on-election-result-) · `en`
+
+The leader of the Sri Lanka Podujana Peramuna (SLPP), former President Mahinda Rajapaksa claims that the party received the exact number of votes they had expected.
+
+Speaking to the media today (16), he expressed that the victory of the National People’s Power (NPP) is a positive development, noting that freshers should be given the opportunity to see if they can succeed.
+
+Commenting on the significant rise of the NPP from 3% of total votes in the previous general election to 61%, the former President said: “It is the people of this country who voted, not outsiders. I think we should respect the public mandate… Maybe [they will] succeed, maybe [they will] collapse.”
+
+In response to a question raised by a journalist, Rajapaksa also added that the SLPP will never give up and that he will not retire from politics, asking, “Which politician retires from politics?”
+
+...
+
+[Data](articles/376dc71d.json)
+
+[Extended Data](ext_articles/376dc71d.ext.json)
+
+---
+
+### Russian tourist alleges sexual assault at hotel in Ahungalla
+
+*2024-11-16 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103543/russian-tourist-alleges-sexual-assault-at-hotel-in-ahungalla) · `en`
+
+A 41-year-old Russian woman staying at a popular hotel in Ahungalla has alleged that she was raped by a hotel employee on November 12, according to police.
+
+The woman, who is a bank employee, was staying at the hotel and celebrating her birthday on the night of the incident. After consuming alcohol excessively during the celebrations, she reportedly returned to her room, the police said.
+
+However, she has alleged that a hotel staff member entered her room and sexually assaulted her. Following the incident, the woman filed a complaint with Ahungalla Police.
+
+Authorities have identified the suspect, the police said, noting that Ahungalla Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/0fd5fe21.json)
+
+[Extended Data](ext_articles/0fd5fe21.ext.json)
+
+---
 
 ### Sri Lanka’s President to elect 25-member Cabinet on Monday
 
@@ -91,6 +131,32 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 [Data](articles/e86916ab.json)
 
 [Extended Data](ext_articles/e86916ab.ext.json)
+
+---
+
+### History of the President's Policy Statement in Parliament
+
+*2024-11-16 13:26:21* · [`adalk`](https://www.ada.lk/opinion/ජනාධිපති-ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-පාර්ලිමේන්තුවේ-ඉදිරිපත්-කිරීම-ගැන-ඉතිහාසය/2-413073) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential policy statements in Parliament: Constitutional mandate, presented annually, analyze government policies, suspended Parliament during emergency, first delivered 1947, debated since 1978, last by Gotabhaya Rajapaksa 2020.
+
+🟩
+
+According to the Constitution 33 (a) of the Constitution, the government has entrusted with the authority to preserve the government's policy statement in Parliament and the Constitution of the Constitution.
+
+Accordingly, the President has made the government's policy statement at the beginning of every new congregation in parliament.. The President presents a detailed analysis of his government's public opinion by his policy statement by its policy statement to parliament and public. In the past, this was known as the monastery. It was presented by the Governor.
+
+The first congregation of the First Parliament is by October 14, 1947. It was ceremonially opened and presided over by Governor Sir Henry Mason Mason Moore. He was delivered by the speech and was approved by the Parliament and adopted the proposal.
+
+...
+
+[Data](articles/29b91b23.json)
+
+[Extended Data](ext_articles/29b91b23.ext.json)
 
 ---
 
@@ -683,6 +749,38 @@ Meanwhile, the motorcycle rider, who sustained serious injuries, has been admitt
 [Data](articles/a61b1a48.json)
 
 [Extended Data](ext_articles/a61b1a48.ext.json)
+
+---
+
+### The Sri Lanka Appo ... What is the reason for retreat?
+
+*2024-11-16 09:26:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20757jdv62o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's ruling party faces crisis after economic downturn and protests. Former president Gotabhaya Rajapaksa flees amid mass demonstrations. New president elected, but party struggles to maintain power. Political instability continues as public dissatisfaction grows.
+
+🟩
+
+The Sri Lanka Crown Front, who had had a massive victory in the 2020 general election, was a massive recession in the general election, which had acquired the presidential election in the 2020 general election after an anti-government demonstrations.Happened.
+
+In 2019 presidential election, more than 69 lakhs and 52.25% of the vote and 52.25% vote were obtained in the 23,781 votes.
+
+In 2005, Mahinda Rajapaksa contested the presidential election as the Sri Lanka Freedom Alliance (SLFP presidential candidate and won the country's war in 2009.
+
+He was a great commendation from the major Sinhalese Sinhalese in the south regarding the end of the war.
+
+However, the Rajapaksa family has many large charges in the abuse of power within the year 2015 to the 2015 presidential election.
+
+Presidential election was defeated in 2015 to the constitution of Sri Lanka and the third term of the President.
+
+...
+
+[Data](articles/f2e8fb55.json)
+
+[Extended Data](ext_articles/f2e8fb55.ext.json)
 
 ---
 
@@ -2259,99 +2357,5 @@ Kandasami Prabhu has managed to secure a parliamentary seat in the district for 
 [Data](articles/e71cca3e.json)
 
 [Extended Data](ext_articles/e71cca3e.ext.json)
-
----
-
-### Kurunegala Preferential Results
-
-*2024-11-15 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203403) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Kurunegala Election Results: National protocol won 12 seats out of the district total."
-
-🟩
-
-According to the overall result of the district, the national protocol was 12 MPs.
-
-◼️
-
-[Data](articles/4c80b018.json)
-
-[Extended Data](ext_articles/4c80b018.ext.json)
-
----
-
-### 2024 Preferential votes: Members who were elected to Parliament
-
-*2024-11-15 17:14:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cgl48690k17o) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former MPs elected to Parliament in 2024:
-
-TB. Sarath, Jagath Wickramaratne, Sunil Ratnasiri, Nihal Hewaage, Athula Hewaage, Saliya Madurana, Aravinda Vitharana, Ruwan Senarath, Samantan Vidyaratne, Kitston Selvaraj, Samuel Balagal, Dinindu Saudu Saman, Sunil Handunnetti, Saroja Paulraj, LM. Abeywickrema, Akram Illias, G. Ajantha, Lal Prechends, G. Dissanayake, S. J. Bianwila, Deepthi Vasal, D. H. Perera, Karunanathan Ilunkivaran, Shanmuganatten Sri Bhavanandara, Jeyichchanda Mulyvanayake, Asela Nalin The Lal, Ratna Gamage, Hasha Samaraweera, Nishantha Perera, Kankannam Perera, KD. Lal Kanthe, global artisms, Manjula Prasanna Gunasena, Sundara Dissanayake, Jayantatti Aeros, Jayasinghe, Mohamed Sharif Mohamed, Wasantha Samarasinghe, Senanayakkara, Susil Ranasinghe, Gileal Paru Navaratiri, Gilina Paruka Samarakana, Suraweera Arachchi, Madura Seneviratne, Wijeratne, Niladinda Jayatissa, Nilanthachchi, Nunushka Ranganath, Oshani Ukangara, Nandana Padmakumara, R. M. Jayawardene, Ajith Priyadhana, Chaturri Gangani, Ruwan Wijeweera, Sarath Kumara, Chandana Abeyratne, Ajith Gihan, Gayan Janaka, Anton Jayakody, Mohamed Faisal, Dhammika, Kosala Jayawath, Kamboewa, Manoj Rajapaksa, Kanchanga Welchana, Nanda Bandara, St. Padmakumara, Hiniduma Sunil Senevi Seneviratne, Sunil Rajapaksa, Nilazisha Lalmillai, Hesha Withanage's, Youth Priyantha Liyanage, Balasuriya Ariyawansa, Namal Karunaratne, Ananda Wijepala, Sujeewa Indika Dissanayake, BM. Namal Sudali Law, Jagath Kumara Gunawardena, Chandana Mirihi Tennakoon, Dharmapriya Dissanayake, Mahammadu Aslam, Nalin Bandara, Dayasiri Jayasekara, JC. Alatuwala, Harinini Amarasuriya, Sunil Abeysinghe, Sunil Ariyagoda, Aruna Gunasekeratne, Lakshmanya Ariyaratne, Mohammed Suse Sally, Susantha Doduwatta, Chandana Sooriyarachchi, Samahmanmalu Gunasinghe, Devanananda Surapeara, Sajith Premadasa, Harsha de Silva, Mujibar Rahuman, SM. Marikkar, Wasantha Piyatissa, Manjula Sugala Sugala Ratnayake, Priyantha Kumar Wijeratne, Military Ratwatte, Vijitha Herath, Anil Jayantha Fernando, Mahinda Jayasinghe, Mohamed Munior, Asoka Ranwala, Wijesinghe, Lasith Interbsion, Madurachchi, Priyan Fernando, Chaminda Lalith Kumara, Harshana Rajakaruna, Amila Prasad
-
-🟩
-
-TB. Sarath - 105,137 Jagath Wickramaratne - 51,391 Sunil Ratnasiri - 51,077 Pathmassiri Bandara - 41,077
-
-Nihal Hewaage - 125,983 Athula Hewaage - 73,98 Saliya Madurana - 65,969 Aravinda Vitharana - 48,807 Ruwan Senarath - 42,249
-
-Samantan Vidyaratne - 208247 Kitston Selvaraj - 60041 Samuel Balagal - 47980 Dinindu Saudu Saman - 47980
-
-Sunil Handunnetti - 249,251 Saroja Paulraj - 148,379 LM. Abeywickrema - 268,144 Akram Illias - 53,835 G. Ajantha - 48,820 Lal Prechends - 48,797
-
-G. Dissanayake - 100,618 S. J. Bianwila - 56,932 Deepthi Vasal - 47,482 D. H. Perera - 43, 455
-
-Karunanathan Ilunkivaran - 32,102 Shanmuganatten Sri Bhavanandara - 20,430 Jeyichchanda Mulyvanayake - 17,4309
-
-Asela Nalin The Lal - Ratna Gamage - 113,719 Hasha Samaraweera - 76,677 Nishantha Perera - 71,549 Kankannam Perera - 58,761
-
-...
-
-[Data](articles/8b905620.json)
-
-[Extended Data](ext_articles/8b905620.ext.json)
-
----
-
-### Preference vote results of Kegalle District
-
-*2024-11-15 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103520/preference-vote-results-of-kegalle-district) · `en`
-
-The preferential vote results of the Kegalle District in the 2024 General Election have been released.
-
-NPP’s Dammika Patabendi has polled the highest number of preferential votes in the Kegalle District.
-
-Kabeer Hashim and Sujith Sanjaya Perera have obtained the highest number of preferential votes for the SJB to secure two parliamentary seats in the district.
-
-◼️
-
-[Data](articles/c7c6ee1f.json)
-
-[Extended Data](ext_articles/c7c6ee1f.ext.json)
-
----
-
-### Puttalam District preference vote results
-
-*2024-11-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103519/puttalam-district-preference-vote-results) · `en`
-
-The preferential vote results of the Puttalam District in the 2024 General Election have been released.
-
-NPP’s Chandana Abayarathna has polled the highest number of preferential votes in the Puttalam District.
-
-Hector Appuhami and Janath Chithral Fernando have obtained the highest number of preferential votes for the SJB to secure two parliamentary seats in the district.
-
-◼️
-
-[Data](articles/473d458a.json)
-
-[Extended Data](ext_articles/473d458a.ext.json)
 
 ---

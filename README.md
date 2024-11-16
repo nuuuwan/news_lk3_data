@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 13:41:47**
+As of **2024-11-16 14:01:04**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,218 (100.0%) of 55,219 articles have been extended.
+55,219 (100.0%) of 55,219 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,19 +72,31 @@ In the 2024 General Election held on Thursday (14), Aluthgamage contested from t
 
 ---
 
-### මහින්දානන්ද අලුත්ගමගේ දේශපාලනයෙන් සමුගනි
+### Mahindananda has retired from politics
 
 *2024-11-16 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්ද-අලුත්ගමගේ-දේශපාලනයෙන්-සමුගනි/11-413072) · `si`
 
-හිටපු අමාත්‍යය මහින්දානන්ද අලුත්ගමගේ මහතා දේශපාලනයෙන් සමු ගන්නා බව (16) දින නාවලපිටිය මහින්දානන්ද අලුත්ගමගේ පදනම් කාර්යාලයේ මාධ්‍ය හමුවක් පවත්වමින් පැවසිය.
+Here's a summary of 200 characters:
 
-දශක හතක කාලයක් අලුත්ගමගේ පරම්පරාව නාවලපිටිය ආසනයේ ක්‍රියාකාරි දේශපාලනයේ නිරත වු බවත්, ඉන් දශක තුනක් තමන් දේශපාලනයේ නිරත වු බවත්, මහනුවර දිස්ත්‍රික්කයේ ජනතාවට තමන්ගේ සේවය අවශ්‍ය නොවන බවට මෙවර පැවති මහ මැතිවරණයෙන් පෙන්නුම් කර ඇති නිසා තමන් දේශපාලනයෙන් සමු ගැනිමට තිරණය කල බවයි මහින්දානන්ද අලුත්ගමගේ මහතා කියා සිටියේ.
 
-මෙවර පැවති මහ මැතිවරණයෙන් නව ප්‍රජාතන්ත්‍රවාදි පෙරමුණෙන් ගෑස් සිලින්ඩරයෙන් තමන් මහනුවර දිස්ත්‍රික්කය සදහා තරග කල බවත්, ජන්ද දායකයන් මනාප 20,401 ක් පමණක් ලබා දි තිබු බවත්, තමන් මිට ප්‍රථම පැවති මැතිවරණවලදි ලක්ෂ දෙකකට ආසන්න මානප ප්‍රමාණයක් ලබාගත් නිසා ජනතාවට තමන්ගේ දේශපාලනය අවශ්‍ය නොවන බවට පෙන්නුම් කර ඇති නිසා දේශපාලනයෙන් සමුගන්නා බවයි මහින්දානන්ද අලුත්ගමගේ මහතා කියා සිටියේ.
 
-...
+Former Minister Mahindananda Aluthgamage retires from politics after 7 decades. He criticizes lack of public involvement in Kandy district elections. Aluthgamage claims his party didn't receive expected support, leading to his retirement.
+
+🟩
+
+Former Minister Mahindananda Aluthgamage has retired from politics (16), holding a press conference at Nawalapitiya Mahindananda's based Office.
+
+Mahindananda Aluthgamage said that the general election of the Nawalapitiya electorate for seven decades is that the people of the Kandy district has not been involved in politics..
+
+The new Democratic Front has contested the Kandy District from the new Democratic Front and has been given to the Kandy district, because they have not received the number of surpasses in the first elections.Mahindananda Aluthgamage said he was retrieved from politics.
+
+Mahindananda Aluthgamage said that they were in length and tolerate the votes of their seat for their electorates, while they were continuing in their political journey.
+
+◼️
 
 [Data](articles/7a196d71.json)
+
+[Extended Data](ext_articles/7a196d71.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 19:25:45**
+As of **2024-11-16 19:41:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,246 (100.0%) of 55,248 articles have been extended.
+55,248 (100.0%) of 55,248 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,19 +44,31 @@ Accordingly, the gazette notification issued by the Election Commission is as fo
 
 [Data](articles/a61250db.json)
 
+[Extended Data](ext_articles/a61250db.ext.json)
+
 ---
 
-### ஐக்கிய தேசியக் கட்சி அவசர கூட்டம்
+### United National Party emergency meeting
 
 *2024-11-16 18:57:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐக்கிய-தேசியக்-கட்சி-அவசர-கூட்டம்/175-347293) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் எதிர்கால அரசியல் போக்கு குறித்து இன்று (16) காலை விசேட கலந்துரையாடல் ஒன்று இடம்பெற்றது.
+Here's a summary of 200 characters:
 
-ஐக்கிய தேசியக் கட்சியின் தலைவரும், முன்னாள் ஜனாதிபதியுமான ரணில் விக்கிரமசிங்க தலைமையில் இந்தக் கலந்துரையாடல் இடம்பெற்றதுடன், ஐக்கிய தேசியக் கட்சியை பிரதிநிதித்துவப்படுத்தும் முன்னாள் பாராளுமன்ற உறுப்பினர்கள் பலரும் இதில் கலந்துகொண்டுள்ளதாக தெரிவிக்கப்படுகின்றது.  R
+
+
+UNP emergency meeting: Former President Ranil Wickremesinghe chairs discussion on party's future political direction. Several ex-MPs present.
+
+🟩
+
+A special discussion was held this morning on the future political trend of the United National Party.
+
+The discussion was chaired by UNP leader and former president Ranil Wickremesinghe and a number of former MPs representing the UNP.R
 
 ◼️
 
 [Data](articles/c3155b16.json)
+
+[Extended Data](ext_articles/c3155b16.ext.json)
 
 ---
 

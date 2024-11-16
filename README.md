@@ -1,36 +1,112 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 08:05:35**
+As of **2024-11-16 08:28:13**
 
 ## Newspaper Stats
 
-*Scraped **55,176** Articles*
+*Scraped **55,182** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 428
-colombotelegraphcom | 560
+colombotelegraphcom | 561
 bbccomsinhala | 563
 islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,162
+adalk | 5,163
 adaderanalk | 6,652
 tamilmirrorlk | 7,815
 virakesarilk | 8,936
-adaderanasinhalalk | 9,533
+adaderanasinhalalk | 9,537
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,176 (100.0%) of 55,176 articles have been extended.
+55,177 (100.0%) of 55,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### ප්‍රතික්ෂේප වූ ඡන්ද මෙන්න
+
+*2024-11-16 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203417) · `si`
+
+මෙවර මහ මැතිවරණයේදී ප්‍රකාශිත ඡන්ද සංඛ්‍යාවෙන් ඡන්ද 667, 240ක් ප්‍රතික්ෂේපවී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+මැතිවරණ කොමිෂන් සභාවේ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා ඒ බව පෙන්වා දුන්නේය.
+
+මේ අතර ඉතිහාසයේ පැවති සාමකාමීම මැතිවරණය ලෙස මෙම මැතිවරණය හැඳින්විය හැකි බව පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/e8411f62.json)
+
+---
+
+### යතුරුපැදියක් දුම්රියේ ගැටී ජීවිතයක් අහිමි වෙයි
+
+*2024-11-16 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203416) · `si`
+
+මඩකලපුව සිට කොළඹ කොටුව බලා ධාවනය වූ උදය දේවී දුම්රියේ යතුරුපැදියක් ගැටී මාරක අනතුරක් සිදුවී තිබේ.
+
+ඊයේ (15) දහවල් හබරණ පොලිස් වසමේ හබරණ බෙල්ලන්කඩවල අතුරු මාර්ගයේදී මෙම අනතුර සිදුවී ඇත.
+
+මියගොස් ඇත්තේ වයස අවුරුදු 69ක් වූ කිනිහිරිගම, කැකිරාව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+◼️
+
+[Data](articles/3a2987da.json)
+
+---
+
+### පශ්චාත් මැතිවරණ සමය ගැන පොලීසියෙන් දැනුම්දීමක්
+
+*2024-11-16 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203415) · `si`
+
+මහ මැතිවරණයේ ප්‍රතිඵල ප්‍රකාශ කළ දිනයේ සිට සතියක කාලයක් පශ්චාත් මැතිවරණ කාලසීමාව ක්‍රියාත්මක බව පොලීසිය දැනුම්දෙයි.
+
+ඒ සම්බන්ධයෙන් කරුණු පැහැදිලි කරන පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ පශ්චාත් මැතිවරණ කාලය තුළ රට පුරා පොලීසිය සීරුවෙන් තබා ඇති බවය.
+
+"දැන් ආරම්භ වෙන්නේ පශ්චාත් මැතිවරණ කාලසීමාව. සතියක කාලයක් තුළ කිසිදු ආකාරයක පොදු ස්ථානවල රැස්වීම් පැවැත්වීම, පෙළපාලි යෑම ආදිය සිදුකරන්න බැහැ. ඒ නිසා මේ කාලසීමාව තුළ සම්පූර්ණයෙන්ම පොලීසිය සීරුවෙන් තබා තිබෙනවා. තවදුරටත් දිවයින පුරාම ජංගම සංචාරවල යෙදීමෙන් අවශ්‍ය ආරක්ෂාව ලබාදෙමින් කටයුතු කරනවා. බුද්ධි නිලධාරීන් රාජකාරී කටයුතුවල යෙදී සිටිනවා. විශේෂයෙන් හඳුනාගත් පොලිස් වසම් තුළ විශේෂ ආරක්ෂාවක් සපයනවා."
+
+පූර්ව මැතිවරණ කාලසීමාව තුළ මැතිවරණ නීති උල්ලංඝනය කළ පුද්ගලයින් 581ක් දෙනෙකු අත්අඩංගුවට ගෙන ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+"කිසිම ප්‍රදේශයකින් ප්‍රචණ්ඩ ක්‍රියාවක් වාර්තා වුණේ නැහැ. මේ වනවිට අත්අඩංගුවට ගෙන ඇති පුද්ගලයින් 581 අතර අපේක්ෂකයන් 18 දෙනෙක් සිටිනවා. අනෙක් පිරිස ආධාරකරුවන්."
+
+◼️
+
+[Data](articles/28db8a9f.json)
+
+---
+
+### අද සවස ලොකු වැස්සක්
+
+*2024-11-16 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203414) · `si`
+
+අද (16) දින‍ෙයේ සවස් කාලයේදී දිවයිනේ බොහෝ ප්‍රදේශවල ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+ඒ සඳහා හිතකර වායුගෝලීය තත්ත්වය තවදුරටත් පවතින බැවින් අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+දිවයිනේ බොහෝ ප්‍රදේශවල ප.ව.2:00න් පමණ පසුව වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+
+උතුරු සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ස්ථාන ස්වල්පයක උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75ක පමණ තරමක තද වැසි ඇති වෙයි.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+ගිගුරුම් සහිත වැසි සමග තාවකාලික තද සුළං ද ඇතිවිය හැකි බවට අනතුරු අඟවයි.
+
+◼️
+
+[Data](articles/f6c194c9.json)
+
+---
 
 ### Indian High Commissioner congratulated President
 
@@ -137,6 +213,18 @@ Meanwhile, the National People's Power. Jagadeeswaran has participated in variou
 [Data](articles/a98ba129.json)
 
 [Extended Data](ext_articles/a98ba129.ext.json)
+
+---
+
+### Forward March By NPP For Social Transformation (Parivarthanaya) – Part II
+
+*2024-11-16 02:37:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/forward-march-by-npp-for-social-transformation-parivarthanaya-part-ii/) · `en`
+
+The parliamentary election on 14th November 2024 was to be like no other in Sri Lanka’s post independent history. Like the Presidential election held on September 21st, it was another ground-breaking expression of people’s will to change the government at a peaceful election. In particular, the result will empower the disempowered and marginalised people from lower socio-economic classes and those from rural and urban fringes who have been misled by previous rulers either by offering temporary inducements while enjoying the aura of power or spreading fear about the different other-generally ethnic minorities- and expensive media campaigns.
+
+...
+
+[Data](articles/0f995158.json)
 
 ---
 
@@ -1456,6 +1544,32 @@ Imran Maharoof has obtained the highest number of preferential votes for the SJB
 
 ---
 
+### Trincomalee preferential preferential votes
+
+*2024-11-15 15:53:42* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රිකුණාමලය-මනාප-ලැයිස්තුව/11-413069) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Trincomalee district 2024 general election candidate preferences. Voters' choices for representatives in the Trincomalee area."
+
+
+
+This summary captures the main points of the original text while staying within the character limit. It mentions the location (Trincomalee), the context (2024 general election), and the key concept (candidate preferences). The summary is concise yet informative, providing a clear idea of what the original text is about.
+
+🟩
+
+Preference of candidates representing the Trincomalee District representing the Trincomalee District in the 2024 general election.
+
+◼️
+
+[Data](articles/0d950832.json)
+
+[Extended Data](ext_articles/0d950832.ext.json)
+
+---
+
 ### Preferential vote results of Nuwara Eliya District
 
 *2024-11-15 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103517/preferential-vote-results-of-nuwara-eliya-district-) · `en`
@@ -2077,149 +2191,5 @@ N
 [Data](articles/3e862564.json)
 
 [Extended Data](ext_articles/3e862564.ext.json)
-
----
-
-### De -voting details
-
-*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னிவிருப்பு-வாக்கு-விபரம்/175-347257) · `ta`
-
-Here's a summary of de-voting details in 200 characters:
-
-
-
-De-voting refers to the process of removing votes from a blockchain transaction. It typically involves:
-
-
-
-1. Identifying invalid or duplicate votes
-
-2. Removing those votes from the voting pool
-
-3. Adjusting the final vote count accordingly
-
-4. Updating the blockchain ledger with the corrected vote totals
-
-
-
-This ensures the integrity and accuracy of voting outcomes in decentralized systems.
-
-🟩
-
-◼️
-
-[Data](articles/725e380e.json)
-
-[Extended Data](ext_articles/725e380e.ext.json)
-
----
-
-### Sri Lanka’s NPP racks up two thirds majority in 2024 elections, winning 159 seats
-
-*2024-11-15 13:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-racks-up-two-thirds-majority-in-2024-elections-winning-159-seats-187975/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National People’s Power of President Anura Dissanayake has swept the 2024 parliamentary elections raking in a two thirds majority winning 159 out of 225 seats in the assembly.
-
-The NPP painted the island winning across ethnicities and religious groups and made history wining the Northern Jaffna district.
-
-Since the preferential votes started under the current constitution, no single party on its own has been able to get such a majority.
-
-Sri Lanka’s Samagi Jana Balawegaya headed by Sajith Premadasa was a distant second with 40 seats, in a poll with the lowest turnout since 2010.
-
-The Ilankai Tamil Arasu Kadchi got 8 seats, the New Democratic Front backed by ex-President Ranil Wickremesinghe got 5. United National Party separately got 1.
-
-The Sarvajana Balaya, Democratic Tamil National Alliance, All Ceylon Tamil Congress, All Ceylon Makkal Congress, Jaffna – Independent Group 17 and the Sri Lanka Labour Party won one seat each.
-
-...
-
-[Data](articles/746d3726.json)
-
-[Extended Data](ext_articles/746d3726.ext.json)
-
----
-
-### Vanni District preferential vote results released
-
-*2024-11-15 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103510/vanni-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Vanni District in the 2024 General Election have been released.
-
-SJB’s Rishad Bathiudeen has polled the highest number of preferential votes in the Vanni District.
-
-Thurairasa Ravikumar has received the highest preferential votes from the ITAK to secure its only seat.
-
-Selvathambi Thilakanathan has obtained the highest preferential votes from the NPP.
-
-◼️
-
-[Data](articles/9ba15f2c.json)
-
-[Extended Data](ext_articles/9ba15f2c.ext.json)
-
----
-
-### Wanni preferential
-
-*2024-11-15 13:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203390) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Wanni district election results: Two national list seats awarded. Reconciliation Alliance wins one seat. Ilankai Tamil Arasu party and SLFP secure another seat each.
-
-🟩
-
-According to the overall result of the district, two members were entitled to the national power.
-
-In addition, the reconcil power, Ilanki Thamil Arasu, Democratic TNA and the Sri Lanka Labor Party (SLTB) won each seat.
-
-◼️
-
-[Data](articles/5e376716.json)
-
-[Extended Data](ext_articles/5e376716.ext.json)
-
----
-
-### “ தோள் கொடுத்தோருக்கு நன்றி ”
-
-*2024-11-15 13:31:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோள்-கொடுத்தோருக்கு-நன்றி/175-347256) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Thank you to those who supported the beginning of the Renaissance Age." This statement expresses gratitude towards individuals who provided encouragement or assistance during a significant period of cultural and artistic transformation.
-
-🟩
-
-President Anura Dissanayake posted on his X site, "Thank you to all who gave the shoulder to start the Renaissance Age."
-
-◼️
-
-[Data](articles/135917fc.json)
-
-[Extended Data](ext_articles/135917fc.ext.json)
-
----
-
-### ஹரின், நிமல் தோல்வி
-
-*2024-11-15 13:26:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹரின்-நிமல்-தோல்வி/76-347255) · `ta`
-
-Harin Fernando, Nimal Siripaladi Silva lose seats; Samara Sampath Dasanayake elected with 19,359 votes in Badulla district.
-
-🟩
-
-The cylinder symbol of the new Democratic Front in Badulla district got a seat. The seat was expected to be available for former ministers Harin Fernando or Nimal Siripaladi Silva.
-
-However, Samara Sampath Dasanayake has been elected to Parliament through the New Democratic Front with 19,359 votes.
-
-◼️
-
-[Data](articles/0b5a59fd.json)
-
-[Extended Data](ext_articles/0b5a59fd.ext.json)
 
 ---

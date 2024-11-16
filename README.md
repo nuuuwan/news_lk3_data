@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 14:13:34**
+As of **2024-11-16 14:41:16**
 
 ## Newspaper Stats
 
-*Scraped **55,220** Articles*
+*Scraped **55,222** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,166
-adaderanalk | 6,665
+adaderanalk | 6,667
 tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,219 (100.0%) of 55,220 articles have been extended.
+55,221 (100.0%) of 55,222 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Sri Lanka’s President to elect 25-member Cabinet on Monday
+
+*2024-11-16 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103542/sri-lankas-president-to-elect-25-member-cabinet-on-monday) · `en`
+
+Sri Lankan President Anura Kumara Dissanayake will appoint a new Prime Minister and the Cabinet on Monday (Nov. 18) after his National People’s Power (NPP) secured a record-breaking victory in the snap general election, the party’s senior spokesman Tilvin Silva said.
+
+“We will be appointing the Cabinet on Monday (18), limited to 25. It could be even less – 23 or 24. There will be scientific allocation of subjects for the ministries,” he added.
+
+The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-thirds majority, securing a record-breaking 159 seats in total.
+
+However, the inaugural session of the Tenth Parliament, comprising of members elected through the 2024 General Election held on November 14, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President, according to the Parliamentary Communications Department.
+
+◼️
+
+[Data](articles/c7bacac4.json)
+
+---
+
+### From 3% to 61%: Six major records NPP broke in historic election victory
+
+*2024-11-16 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103541/from-3-to-61-six-major-records-npp-broke-in-historic-election-victory) · `en`
+
+The 2024 General Election marked a resounding victory for the National People’s Power (NPP) led by President Anura Kumara Dissanayake, setting unprecedented records in Sri Lanka’s electoral history.
+
+The NPP secured 6,863,186 votes, the highest ever obtained by a political party in a general election, surpassing the 6,853,690 votes won by the Sri Lanka Podujana Peramuna (SLPP) in 2020. This also accounted for a record-breaking 61.56% of the total vote, overtaking the previous high of 60.33% recorded by the United People’s Freedom Alliance (UPFA) in 2010.
+
+The NPP won 21 of the 22 electoral districts, losing only Batticaloa, breaking the UPFA’s 2010 record of victories in 19 districts. Furthermore, the party claimed 152 constituencies, shattering the UPFA’s 2010 record of 136.
+
+...
+
+[Data](articles/874b1196.json)
+
+[Extended Data](ext_articles/874b1196.ext.json)
+
+---
 
 ### CC confirms Murdhu Fernando as Chief Justice
 
@@ -51,6 +87,8 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 ◼️
 
 [Data](articles/e86916ab.json)
+
+[Extended Data](ext_articles/e86916ab.ext.json)
 
 ---
 
@@ -2313,51 +2351,5 @@ Hector Appuhami and Janath Chithral Fernando have obtained the highest number of
 [Data](articles/473d458a.json)
 
 [Extended Data](ext_articles/473d458a.ext.json)
-
----
-
-### Ratnapura Preference Results
-
-*2024-11-15 16:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203402) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-National party wins 8 seats in Ratnapura district election results.
-
-🟩
-
-According to the overall result of the district, the national power was won eight seats.
-
-◼️
-
-[Data](articles/0d12e434.json)
-
-[Extended Data](ext_articles/0d12e434.ext.json)
-
----
-
-### Batticaloa's preferences
-
-*2024-11-15 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203401) · `si`
-
-Here's a summary of Batticaloa's election results in 200 characters:
-
-
-
-Ilankai Tamil Arasu wins overall. National Folk Force and Sri Lanka Muslim Congress each secure one seat.
-
-🟩
-
-The overall result of the district was won by Ilankai Tamil Arasu.
-
-In addition, the National Folk Force is one seat and the Sri Lanka Muslim Congress has won one seat.
-
-◼️
-
-[Data](articles/34f7992a.json)
-
-[Extended Data](ext_articles/34f7992a.ext.json)
 
 ---

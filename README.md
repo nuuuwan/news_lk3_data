@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 10:00:45**
+As of **2024-11-16 10:27:03**
 
 ## Newspaper Stats
 
-*Scraped **55,193** Articles*
+*Scraped **55,199** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,133 @@ islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,163
-adaderanalk | 6,658
-tamilmirrorlk | 7,819
-virakesarilk | 8,936
-adaderanasinhalalk | 9,538
+adalk | 5,164
+adaderanalk | 6,660
+tamilmirrorlk | 7,820
+virakesarilk | 8,937
+adaderanasinhalalk | 9,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,191 (100.0%) of 55,193 articles have been extended.
+55,196 (100.0%) of 55,199 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Pakistani province declares health emergency due to smog and locks down two cities
+
+*2024-11-16 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103535/pakistani-province-declares-health-emergency-due-to-smog-and-locks-down-two-cities) · `en`
+
+A Pakistani province declared a health emergency Friday due to smog and imposed a shutdown in two major cities.
+
+Smog has choked Punjab for weeks, sickening nearly 2 million people and shrouding vast swathes of the province in a toxic haze.
+
+A senior provincial minister, Marriyum Aurangzeb, declared the health emergency at a press conference and announced measures to combat the growing crisis.
+
+Time off for medical staff is cancelled, all education institutions are shut until further notice, restaurants are closing at 4 p.n. while takeaway is available up until 8 p.m. Authorities are imposing a lockdown in the cities of Multan and Lahore and halting construction work in those two places.
+
+“Smog is currently a national disaster,” Aurangzeb said. “It will not all be over in a month or a year. We will evaluate the situation after three days and then announce a further strategy.”
+
+...
+
+[Data](articles/28cb12b2.json)
+
+---
+
+### නවක මන්ත්‍රීවරුන්ට පාර්ලිමේන්තු කටයුතු පිළිබඳ වැඩමුළුවක්
+
+*2024-11-16 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203419) · `si`
+
+10වන පාර්ලිමේන්තුවට තේරී පත්වූ නවක මන්ත්‍රීවරුන් ලියාපදිංචි කිරීමට අදාළ කටයුතු හෙට (17) සිට ආරම්භ කෙරෙයි.
+
+පාර්ලිමේන්තු සන්නිවේදන අංශය පැවසුවේ ඒ් අනුව නවක මන්ත්‍රීවරුන්ට හෙට සිට ඔන්ලයින් ක්‍රමවේදය ඔස්සේ ලියාපදිංචි විය හැකි බවය.
+
+අදාළ මන්ත්‍රීවරුන්ට අවශ්‍ය තොරතුරු දැනගැනීම සඳහා 19 වනදා සහ 20 වනදා පාර්ලිමේන්තුවේ තොරතුරු කවුලු දෙකක් විවෘත කිරීමට ද පියවර ගෙන ඇත.
+
+මේ අතර තේරී පත්වූ නවක මන්ත්‍රීවරුන්ට පාර්ලිමේන්තු සම්පාදය සම්බන්ධව සහ පාර්ලිමේන්තු කටයුතු පිළිබඳව  දින 03ක වැඩමුළුවක් පැවැත්වීමට ද සැලසුම් කර තිබේ.
+
+ඒ් සම්බන්ධයෙන් වන ගැසට් නිවේදනය අද (16) දිනයේ නිකුත්වීමට නියමිතව ඇත.
+
+නව පාර්ලිමේන්තු සැසිය ලබන 21 වනදා උදෑසන 10ට රැස්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/56c48f3e.json)
+
+---
+
+### Ceylon Chamber of Commerce congratulates newly elected govt
+
+*2024-11-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103534/ceylon-chamber-of-commerce-congratulates-newly-elected-govt) · `en`
+
+The Ceylon Chamber (CCC) has congratulated the National People’s Power (NPP) led by the President Anura Kumara Dissanayake on securing an overwhelming mandate and majority in the Parliamentary election.
+
+In a statement, the CCC said “The mandate of the people reflects the united expectations towards governance, democratic values, anti-corruption, and uplifting of the economy.”
+
+As the premier business Chamber in Sri Lanka, the Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development, it added.
+
+The Chamber also commended the Election Commission and other state institutions for ensuring a peaceful election process.
+
+◼️
+
+[Data](articles/2dd322b6.json)
+
+[Extended Data](ext_articles/2dd322b6.ext.json)
+
+---
+
+### Special notice
+
+*2024-11-16 10:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கு-பின்னரான-காலம்-குறித்து-விசேட-அறிவிப்பு/175-347285) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Post-election quiet period announced. Police surveillance nationwide. No public gatherings for a week. Increased patrols & special protection for police divisions. 581 arrests made early in election season.
+
+🟩
+
+Police Media Spokesperson and Deputy Inspector General of Police Nihal Dalduwa said that a week's quiet period would be in effect from the day the parliamentary election results were announced.
+
+In addition, police have been kept under intense surveillance across the country during the post -election period.
+
+Over a week, no meetings and demonstrations can be held in public places.
+
+Also, the necessary security is provided by engaging in patrols across the country.
+
+Investigators are on the job. Special protection has been provided in the police unidentified police divisions.
+
+The police media spokesman said that 581 persons were arrested in violation of the election in the early days of the election.. Remble
+
+◼️
+
+[Data](articles/36d2f1a7.json)
+
+[Extended Data](ext_articles/36d2f1a7.ext.json)
+
+---
+
+### தேர்தலில்  பெரும் வெற்றி  ஆழமான சீர்திருத்தங்களிற்கான ஆணை- உலக நாடுகள் ஆதரவளிக்கவேண்டும் - எரிக்சொல்ஹெய்ம்
+
+*2024-11-16 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198900) · `ta`
+
+இலங்கை நாடாளுமன்ற தேர்தலில் அரசாங்கத்திற்கு கிடைத்துள்ள மகத்தான பெரும் வெற்றி ஆழமான சீர்திருத்தங்களிற்கான ஆணையை வழங்குகின்றது என இலங்கைக்கான நோர்வேயின் முன்னாள் சமாதான தூதுவர் எரிக்சொல்ஹெய்ம் தெரிவித்துள்ளார்.
+
+அனுரகுமார திசநாயக்க அல்லது மக்களால் ஏகேடி என அழைக்கப்படும் இடதுசாரி கூட்டணியின் தலைவர் இலங்கையில் முழுமையான தேர்தல் வெற்றியை நோக்கி நகர்ந்துகொண்டிருக்கின்றார்.அனேகமாக அனைத்து தொகுதிகளிலும் அவர் வெற்றிபெற்றுள்ளார்.
+
+நெருக்கடியிலிருந்து மீள்வதற்காக சர்வதேச நாணய நிதியத்துடன்  ஒரு சிறந்த ஒப்பந்தத்திற்காக பேச்சுவார்த்தைகளை மேற்கொள்ளல்
+
+பொருளாதார வளர்ச்சி மற்றும் வறுமையில் சிக்கியுள்ளவர்களை அதன் பிடியிலிருந்து மீட்பதற்கான பொருளாதார சீர்திருத்தம்.
+
+◼️
+
+[Data](articles/e26a3203.json)
+
+---
 
 ### Motorcycle pillion rider killed in collision with a train
 
@@ -45,6 +157,8 @@ Meanwhile, the motorcycle rider, who sustained serious injuries, has been admitt
 ◼️
 
 [Data](articles/a61b1a48.json)
+
+[Extended Data](ext_articles/a61b1a48.ext.json)
 
 ---
 
@@ -74,23 +188,33 @@ Melapalayam police seized CCTV scene records fitted in the area
 
 ---
 
-### සාලියවැව ඝාතනයක්
+### Murder of Saliyawewa
 
 *2024-11-16 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203418) · `si`
 
-බලහත්කාරයෙන් නිවසකට ඇතුළුවී කාමරයේ දොර කඩා එහි සිටි පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් සාලියවැව ප්‍රදේශයෙන් වාර්තා වෙයි.
+Here's a summary of the Murder of Saliyawewa in 200 characters:
 
-මෙම සිද්ධිය ඇතිවී තිබුණේ ඊයේ (15) අලුයම් කාලයේ සාලියවැව පොලිස් වසමේ යාය 07 ප්‍රදේශයේදී ය.
 
-නිවසට ඇතුළුවූ සැකකරුවන් අදාළ පුද්ගලයාට පොලුවලින් පහරදී ඝාතනය සිදුකර තිබෙන බවට පැවසෙයි.
+
+Two suspects, ages 23 & 24, arrested for murder in Saliyawewa. Incident occurred during a party. Police investigation revealed they used poles to kill the victim after breaking into the house.
+
+🟩
+
+A case of force in a house and broke the door in the room and killed a person in Saliyawewa.
+
+The incident was found in the Saliyawewa police division yesterday (15).
+
+The suspects have been killed and killed by the relevant person with poles.
 
 පෙරේදා (14) රාත්‍රියේ පැවති මත්පැන් සාදයකදී ඇතිවූ බහින්බස්වීමක් දුරදිග යෑමෙන් එම සාදයේ සිටි දෙදෙනෙකු පැමිණ මෙම ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
 
-අපරාධයට සම්බන්ධයෙන් අවුරුදු 23 හා 24 වයස්වල පසුවන සාලියවැව ප්‍රදේශයේම පදිංචි සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
+The two suspects have been arrested in the Saliyawewa area in the Senathwewa, aged 23 and 24 years old.
 
 ◼️
 
 [Data](articles/a50551ac.json)
+
+[Extended Data](ext_articles/a50551ac.ext.json)
 
 ---
 
@@ -319,6 +443,28 @@ The victim is a 69 year old resident of Kekirawa area.
 [Data](articles/3a2987da.json)
 
 [Extended Data](ext_articles/3a2987da.ext.json)
+
+---
+
+### Report from Vijitha
+
+*2024-11-16 07:58:17* · [`adalk`](https://www.ada.lk/breaking_news/විජිතගෙන්-වාර්තාවක්/11-413070) · `si`
+
+MP Vijitha Herath received record-breaking preferential votes in Gampaha District. Former President Mahinda Rajapaksa previously held this record.
+
+🟩
+
+Member of Parliament, MP Vijitha Herath, was the highest number of preferential votes in the history of the country.
+
+Former President Mahinda Rajapaksa claimed that the report was led before.
+
+In this year, however, Mr. Vijitha Herath was the first first to enter the Gampaha District and obtained 7,16,715 preferential votes.
+
+◼️
+
+[Data](articles/5508bde1.json)
+
+[Extended Data](ext_articles/5508bde1.ext.json)
 
 ---
 
@@ -2103,135 +2249,5 @@ In addition, the power to win 2 seats was able to win 2 seats.
 [Data](articles/9bede64e.json)
 
 [Extended Data](ext_articles/9bede64e.ext.json)
-
----
-
-### 18 National List Asanas for Anura: Here are the full details
-
-*2024-11-15 15:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198868) · `ta`
-
-National List allocations: NPP (18), UPF (5+40), TNA (8), New Democratic Front (5+2), SLMC (3). Total seats: 159+40+8+5+3=215.
-
-🟩
-
-The National List seats are allocated to each parties based on the seats they have received in the general election.
-
-The National People's Power, led by President Anura Kumara Dissanayake, has received 18 national list seats and the party has received a total of 159 seats.
-
-Meanwhile, the United People's Power, led by Sajith Premadasa, got 5 seats through the national list and 40 seats were available to the coalition.
-
-The Sri Lanka TNA has received a total of 8 seats with a national list seat.
-
-The new Democratic Front, led by former President Ranil Wickremesinghe, has received 5 seats with 2 national list seats.
-
-The party has received 3 seats through a national list seat available to the Sri Lanka Muslim Congress.
-
-◼️
-
-[Data](articles/65a1ce98.json)
-
-[Extended Data](ext_articles/65a1ce98.ext.json)
-
----
-
-### Anuradhapura District preferential vote results released
-
-*2024-11-15 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103515/anuradhapura-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Anuradhapura District in the 2024 General Election have been released.
-
-NPP’s Wasantha Samarasinghe has polled the highest number of preferential votes in the Anuradhapura District.
-
-Rohana Bandara and Suranga Rathnayaka have obtained the highest number of preferential votes to secure two parliamentary seats for the SJB in the district.
-
-◼️
-
-[Data](articles/10db6820.json)
-
-[Extended Data](ext_articles/10db6820.ext.json)
-
----
-
-### Sri Lanka parliamentary polls show unity among ethnic, religious groups, but weaker opposition
-
-*2024-11-15 15:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliamentary-polls-show-unity-among-ethnic-religious-groups-but-weaker-opposition-188079/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s parliamentary election results showed unity among the island nation’s different ethnic and religious people in backing President Anura Kumara Dissanayake’s request for a clean parliament, but a weaker opposition that could threaten the country’s fragile democracy.
-
-President Dissanayake’s Marxists Janatha Vimukthi Peramuna (JVP)-led ruling National People’s Power (NPP) recorded a landslide victory, winning 159 seats in the 225-member parliament.
-
-The election saw ethnic majority Sinhalese along with minority Tamils and Muslims voting for the NPP, which campaigned for “Fill parliament with compass”.
-
-For the first time in history, Sri Lanka saw all Tamil-dominated Northern districts and Muslim-dominated Eastern districts backing the NPP as much as Sinhalese-dominated Southern districts.
-
-Dissanayake’s leadership marked a pivotal shift in Sri Lanka’s political landscape, bringing hope of unity to the nation long divided by ethnic tensions, analysts say.
-
-...
-
-[Data](articles/03e5de94.json)
-
-[Extended Data](ext_articles/03e5de94.ext.json)
-
----
-
-### Special media briefing from national promos
-
-*2024-11-15 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203394) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-JVP General Secretary Tilvin Silva announces historic victory in general election. Party wins 159 seats under proportional voting system. He thanks supporters and emphasizes responsibility to meet people's expectations, ending old politics and family rule.
-
-🟩
-
-The General Secretary of the JVP Tilvin Silva says that the national folk force has achieved historical victory at the general election.
-
-Addressing the media at the main headquarters of the JVP in Pelawatta, he said this was the highest number of seats after the introduction of the proportional voting system.
-
-The national folk force won 159 seats in the 225 seats.
-
-He also thanked everyone behind the victory for his party.
-
-"We understand the burden of our victory. People are in great hopes for us. We have to keep it up. We have been defeated by the majority of political parties in the country. Old politics is over. The old era is over. People ended that era. That politics with privileged, family rule is now over. This is a victory to understand our use and granting our use ...
-
-◼️
-
-[Data](articles/04281623.json)
-
-[Extended Data](ext_articles/04281623.ext.json)
-
----
-
-### Special NPP press conference after election victory
-
-*2024-11-15 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103514/special-npp-press-conference-after-election-victory) · `en`
-
-The members of the National People’s Power (NPP) are holding a special press conference after having a secured a resounding victory in the 2024 Parliamentary Election.
-
-◼️
-
-[Data](articles/199f1a0c.json)
-
-[Extended Data](ext_articles/199f1a0c.ext.json)
-
----
-
-### Kandy District preferential vote results
-
-*2024-11-15 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103513/kandy-district-preferential-vote-results-) · `en`
-
-The preferential vote results of the Kandy District in the 2024 General Election have been released.
-
-NPP’s R K.D. Lal Kantha has polled the highest number of preferential votes in the Kandy District.
-
-Rauf Hakeem and Chamindrani Kiriella have secured two parliamentary seats for the SJB in the district while Anuradha Jayarathne secured a seat for the New Democratic Front (NDF).
-
-◼️
-
-[Data](articles/085df1fb.json)
-
-[Extended Data](ext_articles/085df1fb.ext.json)
 
 ---

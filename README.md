@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 16:26:12**
+As of **2024-11-16 17:42:36**
 
 ## Newspaper Stats
 
-*Scraped **55,226** Articles*
+*Scraped **55,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,262 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,669
-tamilmirrorlk | 7,824
-virakesarilk | 8,943
-adaderanasinhalalk | 9,542
+adaderanalk | 6,671
+tamilmirrorlk | 7,827
+virakesarilk | 8,950
+adaderanasinhalalk | 9,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,226 (100.0%) of 55,226 articles have been extended.
+55,243 (100.0%) of 55,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Sajith Premadasa’s vote count plummeted by more than half in Colombo District
+
+*2024-11-16 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103546/sajith-premadasas-vote-count-plummeted-by-more-than-half-in-colombo-district) · `en`
+
+The Colombo District has seen a profound shift in voter dynamics in the 2024 General Election, with the leader of the Samagi Jana Balawegaya (SJB) Sajith Premadasa suffering a significant decline in support.
+
+Premadasa, who garnered an impressive 305,744 votes in the 2020 parliamentary election, managed only 145,611 votes this time—marking a loss of 160,133 votes.
+
+Meanwhile, the rise of the National People’s Power (NPP) has made significant inroads into areas traditionally dominated by the United National Party (UNP) and subsequently the SJB as well.
+
+Historically, constituencies such as Colombo-North, Central, East, and West have been strongholds for the UNP, boasting a long history of electoral victories. In 2020, Premadasa’s SJB managed to wrest control of these areas, consolidating its power. However, the tide has turned in this election, with the NPP claiming dominance in these constituencies.
+
+...
+
+[Data](articles/cda05170.json)
+
+---
+
+### The president has a huge responsibility
+
+*2024-11-16 16:38:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/ஜனாதிபதிக்கு-பாரிய-பொறுப்பு-இருக்கிறது/74-347292) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+President faces significant responsibilities after winning North-East votes. Party secured seats in Vanni and Ampara districts. Losses in other areas acknowledged. Election outcome boosts public expectations. President must now deliver on promises to voters.
+
+🟩
+
+North -East people voted for the president's party. Rishad Bathiudeen said the president has a huge responsibility.
+
+He said this while commenting to the media about his success. As he further stated,
+
+06 members of the Vanni district have been elected. The President -led party has received two seats, including the bonus seat. The United People's Power has received a seat and the Vanni people have given me the highest number of votes in the district. The reason for this victory is the tireless effort of all who contested our party. We also thank the people of the district.
+
+I will continue the work for the people of Vanni district. Likewise, my party has won alone in Ampara district. My thanks to those people. In the districts of Puttalam, Anuradhapura, Kurunegala, Trincomalee and Batticaloa, our party could not win. My thanks to those people.
+
+...
+
+[Data](articles/5600a938.json)
+
+[Extended Data](ext_articles/5600a938.ext.json)
+
+---
+
+### Sajith's vote decreases compared to last year
+
+*2024-11-16 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203432) · `si`
+
+Sajith Premadasa's vote count decreased from 305,744 in 2020 to 145,611 in the latest election, resulting in a loss of 160,133 votes. This significant drop challenges his stronghold in the Colombo district, traditionally a UNP bastion.
+
+🟩
+
+The number of votes polled by leader Sajith Premadasa, who represented the Colombo district, has fallen significantly compared to the parliamentary election.
+
+At the 2020 parliamentary election, Sajith Premadasa scored 305,744 votes from the Colombo district.
+
+But this year's parliamentary election was only 145,611 votes.
+
+Accordingly, 160,133 votes have lost 1620 votes in the election this year.
+
+Meanwhile, the national folk force has also been able to break the power in the Colombo National Party in the Colombo District.
+
+The number of votes in Colombo North, Central, Eastern and West, had a special fortress for the UNP in a long election history.
+
+The forts have been able to represent Sajith Premadasa at the parliamentary election of Sajith Premadasa, representing the sorts of power in this year's election.
+
+Sajith Premadasa has lost power in Colombo, which is like the Heart of the UNP.
+
+◼️
+
+[Data](articles/c83522d1.json)
+
+[Extended Data](ext_articles/c83522d1.ext.json)
+
+---
+
+### Philippines evacuates tens of thousands as super typhoon Man-Yi nears
+
+*2024-11-16 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103545/philippines-evacuates-tens-of-thousands-as-super-typhoon-man-yi-nears) · `en`
+
+The Philippines evacuated tens of thousands of people from their homes and cancelled dozens of flights on Saturday, as a super typhoon threatened to unleash heavy rains and powerful winds that could trigger floods and storm surges.
+
+Packing winds of 185 kph (115 mph), the storm Man-Yi was heading for the eastern part of the main island of Luzon, spurring the weather agency to raise its second-highest alert for the provinces of Catanduanes and Camarines Sur.
+
+“Pepito is approaching its peak intensity,” it added, using the domestic name for the super typhoon, which it said was likely to make landfall near Catanduanes on Saturday night or early Sunday.
+
+Close to 180,000 people in the central region of Bicol have been evacuated, data from the disaster agency showed.
+
+The sixth tropical cyclone to hit the Philippines in a month, Man-Yi has also forced cancellation of dozens of flights in the eastern Visayas region facing the Pacific Ocean.
+
+...
+
+[Data](articles/5aa6d473.json)
+
+[Extended Data](ext_articles/5aa6d473.ext.json)
+
+---
+
+### Case against those who do not submit the cost report
+
+*2024-11-16 16:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செலவு-அறிக்கையை-சமர்ப்பிக்காதவர்களுக்கு-எதிராக-வழக்கு/175-347291) · `ta`
+
+Elections Commission warns candidates: No cost report submission = prosecution. 8,888 candidates must comply within 21 days under Election Expenditure Regulatory Act. Legal action for late submissions.
+
+🟩
+
+The Elections Commission has said that all candidates who do not submit the election cost report will be prosecuted against political parties and independent groups.
+
+Under the Election Expenditure Regulatory Act, all expenses should be submitted to the Election Commission within 21 days after the election.
+
+8,888 candidates from various political parties and independent groups have been fielded in the general election.
+
+Additional Election Commissioner of the Elections Commission, Chinthaka Gularatne said that legal action would be taken against candidates who did not submit the income report in a timely manner.
+
+◼️
+
+[Data](articles/facb73a0.json)
+
+[Extended Data](ext_articles/facb73a0.ext.json)
+
+---
+
+### Archana does not have any advise
+
+*2024-11-16 16:22:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அறிவுரை-கூறும்-யோக்கியதை-அர்ச்சுனாவுக்கு-இல்லை/72-347290) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamil voters reject unity. Jaffna sees low support for national party, high for federal parties. Media center discusses election results. Tamil nationalism not advised against. Parties urged to unite against Sinhala dominance. Financial aid brings hope, inspires community service.
+
+🟩
+
+The Tamil people of the North East have voted against the unity. In Jaffna, only 80 thousand votes for the national people's power, but the Tamil parties who emphasize the federal have received one million and fifty thousand votes. The NPP and Anganjan Bonro's votes have been made available to the people.
+
+வடமராட்சி ஊடக இல்லத்தில் இன்று (16) இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்ட போதே இதை குறிப்பிட்டார்.
+
+நடைபெற்று முடிந்த பொதுத்தேர்தல் முடிவுகள் முழு நாட்டிற்கும் தமிழீழ மக்களுக்கும் பல செய்திகளை சொல்லியுள்ளது. We accept the verdict issued by the Tamil people. Failures are not new. Let's get up again.
+
+தமிழ்த் தேசியத்தை எவரும் பேச கூடாது என்று அர்த்தமல்ல. Archana does not have the idea of ​​advising Tamil nationalism. Act as a Member of Parliament on the basis of the judgment of the people. Local and diaspora Tamils ​​who learned the financial crisis through the newspaper have done as much financial assistance.
+
+...
+
+[Data](articles/4ad0556e.json)
+
+[Extended Data](ext_articles/4ad0556e.ext.json)
+
+---
+
+### Last report of foreign observers handed over to the Commission
+
+*2024-11-16 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203431) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Foreign observers hand over final report to Election Commission after monitoring general election. Group of 10 observers arrived in Sri Lanka to observe pre, during, and post-election periods."
+
+🟩
+
+Foreign observers have handed over their final report from the Election Commission invitation to monitor the general election.
+
+They have been handed over to the Elections Commission at the Election Commission premises.
+
+A group of 10 foreign observers had arrived in Sri Lanka to monitor this year's general election.
+
+Accordingly, they have observed their observations at the elevated season, election date and post-election period.
+
+◼️
+
+[Data](articles/64f2eabd.json)
+
+[Extended Data](ext_articles/64f2eabd.ext.json)
+
+---
+
+### Youth House Secretary to a girl
+
+*2024-11-16 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203430) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Donald Trump appoints 27-year-old Carolin Leavitte as White House Media Secretary. She's reportedly the youngest person ever appointed to this position. The appointment is seen as a sign of Trump's commitment to change in his administration.
+
+🟩
+
+Donald Trump, elected as the American new President, has been appointed 27-year-old Carolyvitt for the White House Media Secretary.
+
+According to foreign media reports, she was the young woman who was appointed as the White House in American history.
+
+Trump has been appointed by the new appointment that he expects to act in the office of a severe commitment.
+
+In 2019, Carolin Leavitte Truth preserved was attached to the Media Office of the White House.
+
+◼️
+
+[Data](articles/74fa0ad5.json)
+
+[Extended Data](ext_articles/74fa0ad5.ext.json)
+
+---
+
+### The President has a huge responsibility: Risad
+
+*2024-11-16 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198921) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+President faces immense responsibility after winning North-East votes. Party secured 2 seats in Vanni district. Leader promises continued work for Vanni people. Election outcome seen as new message from the nation, with high hopes for fulfilling public expectations.
+
+🟩
+
+North -East people voted for the president's party. Wanni district parliamentarian Rizat Bathiudeen said that the president has a huge responsibility.
+
+He said this while commenting to the media about his success. As he further stated,
+
+06 members of the Vanni district have been elected. The president -led party has won two seats, including a bonus seat.
+
+The United People's Power has received a seat and the Vanni people have given me the highest number of votes in the district.
+
+The reason for this victory is the tireless effort of all who contested our party. We also thank the people of the district.
+
+I will continue the work for the people of Vanni district. Likewise, my party has won alone in Ampara district. My thanks to those people. In the districts of Puttalam, Anuradhapura, Kurunegala, Trincomalee and Batticaloa, our party could not win. My thanks to those people.
+
+I claim that after the election, my work is more than ever before.
+
+...
+
+[Data](articles/474229fc.json)
+
+[Extended Data](ext_articles/474229fc.ext.json)
+
+---
 
 ### “Got exactly what we expected. SLPP will never quit”: MR on election result
 
@@ -49,6 +291,68 @@ In response to a question raised by a journalist, Rajapaksa also added that the 
 [Data](articles/376dc71d.json)
 
 [Extended Data](ext_articles/376dc71d.ext.json)
+
+---
+
+### A man arrested with domestic gun in Kodavehera
+
+*2024-11-16 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198916) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Man arrested with domestic firearm in Kodavehera police division yesterday. Incident occurred in Ahubodagama area.
+
+🟩
+
+A suspect with a domestic gun was arrested yesterday (15) in Ahubodagama, which belongs to the Kodavehera police division, Kodawehera police said.
+
+◼️
+
+[Data](articles/9c335acf.json)
+
+[Extended Data](ext_articles/9c335acf.ext.json)
+
+---
+
+### Victory of recorded compass
+
+*2024-11-16 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203429) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National folk force wins historic election with 6,863,186 votes, highest ever in Sri Lanka. Obtains 152 constituencies and 159 seats, including 172,066 National List seats. First time a single party achieves 2/3 majority under proportional system.
+
+🟩
+
+The national folk force marked a historic win by the general election.
+
+Accordingly, a party has been able to obtain the highest number of votes from the history of Sri Lanka's history 6,863,186 votes.
+
+The 6,853,690 votes obtained from the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment in the 2020 votes in the country.
+
+Earlier, the United People's Freedom Alliance (UPFA) was 60.33%.
+
+The national power was also possible to win the highest number of districts of a general election.
+
+The 21st selection districts except Batticaloa District.
+
+Earlier, the report that the UPFA won 19 districts in 2010 will be collapsed accordingly.
+
+The national folk force has won the highest number of constituencies in this year's general election.
+
+It was 152 constituencies and the United People's Freedom Alliance (UPFA) had won 136 divisions.
+
+The National Jathi Province won the highest number of seats at district level, breaking up the report of the Sri Lanka General Front in 2020.
+
+...
+
+[Data](articles/0e8a4d32.json)
+
+[Extended Data](ext_articles/0e8a4d32.ext.json)
 
 ---
 
@@ -72,6 +376,62 @@ Authorities have identified the suspect, the police said, noting that Ahungalla 
 
 ---
 
+### I will unite all the Tamil members in Parliament and handle the public issues as the same team - wealth.
+
+*2024-11-16 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198924) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamil MPs unite under TNA to address public issues collectively. Focus on ethnic problems and development. Aim to resolve Tamil political prisoner releases, fisherman issues, and address disappearances.
+
+🟩
+
+The Democratic Tamil National Alliance (TNA) Wanni District Parliamentarian Selvam Adakkalanathan said that we are working together to unite all the Tamil MPs and act as the only team in parliament.
+
+He was speaking at a media briefing held at the office in Mannar on Saturday morning.
+
+We gathered votes to the people demanding focus on the ethnic problem and the development. We have also said that we are creating an environment where the government is working with the government on the two issues.
+
+We will focus on both matters. The aim is to listen to the grievances of the people and improve the villages.
+
+Moreover, all the Tamil MPs elected during the parliamentary election this time are taking steps to deal with public issues as a single team in parliament.
+
+As the president said, the release of Tamil political prisoners and their relations on the disappearances are demanding justice through the struggle.
+
+...
+
+[Data](articles/63449728.json)
+
+[Extended Data](ext_articles/63449728.ext.json)
+
+---
+
+### The Government's Policy Declaration November 21
+
+*2024-11-16 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198913) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake inaugurates 10th Parliament Nov 21. Delivers gov't policy speech at 3:00 PM, as per Constitutional Article 33(2).
+
+🟩
+
+President Anura Kumara Dissanayake, who will be inaugurating the first session of the 10th Parliament to be held on November 21st, will deliver the new government's policy declaration.
+
+The President will inaugurate the first session at 3.00 pm and will deliver the new government's policy speech in accordance with the authority given to the President under Article 33 (2) of the Constitution.
+
+◼️
+
+[Data](articles/b929751a.json)
+
+[Extended Data](ext_articles/b929751a.ext.json)
+
+---
+
 ### Sri Lanka’s President to elect 25-member Cabinet on Monday
 
 *2024-11-16 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103542/sri-lankas-president-to-elect-25-member-cabinet-on-monday) · `en`
@@ -89,6 +449,78 @@ However, the inaugural session of the Tenth Parliament, comprising of members el
 [Data](articles/c7bacac4.json)
 
 [Extended Data](ext_articles/c7bacac4.ext.json)
+
+---
+
+### Yall. Police arrested a long -term leak manufacturer in Vaddukoddai
+
+*2024-11-16 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198922) · `ta`
+
+Police arrest 21-year-old suspect in Vaddukoddai for manufacturing leaks. Found with equipment and chemicals. Case being taken to Mallakam court.
+
+🟩
+
+The Vaddukoddai police have been raided by the Vaddukoddai police this morning.
+
+A 21 -year -old suspect has been arrested with two large containers, two small containers and two copper coil used for leakage production with 166 liters of Koda and 10.5 liters.
+
+Vaddukoddai Police Station Superintendent of Police CIKSta. Ratnayake (No. 45714) PC Wijeratne (No. 83244) PS Ratnayake (No. 75227) PC Patraja (No. 22872) PC Migress (No. 91737). The arrest was carried out by a police team comprising Perera (No. 102046).
+
+After further inquiries into the suspect, the police are taking steps to make him in the Mallakam court.
+
+◼️
+
+[Data](articles/2d461d51.json)
+
+[Extended Data](ext_articles/2d461d51.ext.json)
+
+---
+
+### Approval of the Constitutional Council to appoint Murmo Fernando as CJ
+
+*2024-11-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203428) · `si`
+
+Constitutional Council approves appointment of Murdo Fernando as Chief Justice. Buddha Samara Hyupi Fernando previously served as acting Chief Justice since October 10. Murdo Fernando's career includes roles as Deputy Solicitor General from 1985 to 1997.
+
+🟩
+
+The Constitutional Council has approved the recommendation to appoint Mrs. Murdu Fernando as the Chief Justice of the country.
+
+Supreme Court Justice 'Buddha Samara Hyupi Fernando' was sworn in as the acting Chief Justice in the country on October 10.
+
+In 1985, the Attorney General's Department had joined the Attorney General's Department in 1997 and was a Deputy Solicitor General.
+
+◼️
+
+[Data](articles/7a30e633.json)
+
+[Extended Data](ext_articles/7a30e633.ext.json)
+
+---
+
+### Mass attack on political party office in Batticaloa
+
+*2024-11-16 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198920) · `ta`
+
+Attack damages political office in Batticaloa. Complaint filed at Kattankudy Police Station. Office belonged to MI Abdul Wahhab, who ran in Batticaloa district PA election. Mirrors destroyed, advertising posts built by attackers. No injuries as office empty during attack.
+
+🟩
+
+A complaint has been lodged at the Kattankudy Police Station that the office has been severely damaged by a massive attack on the party office in the Batticaloa district on Friday (15).
+
+The office of the office said that the election office, which was located on the Poonchimunai Darussalam Playground road belonging to the Kattankudi division of Batticaloa, may have been attacked midnight or early this morning.
+
+The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
+
+The mirrors of the office were completely damaged in the attack and the advertising posts were built by the attackers.. Was able to observe
+
+There was no life or injuries because there was no one in the office at the time of the attack
+
+◼️
+
+[Data](articles/70bc29ca.json)
+
+[Extended Data](ext_articles/70bc29ca.ext.json)
 
 ---
 
@@ -134,6 +566,36 @@ She was later appointed as a Justice of the Supreme Court by then President Mait
 
 ---
 
+### A Russian woman raping in Ahungalla
+
+*2024-11-16 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203427) · `si`
+
+Russian woman reports rape at Ahungalla hotel. Investigation underway after November incident.
+
+🟩
+
+A Russian national has been raped at a famous hotel in Ahungalla.
+
+Accordingly, the suspect is already under investigation.
+
+A Russian national 41-year-old woman had come to a famous hotel in Ahungalla last November.
+
+The woman's birthday was on the 12th of November.
+
+On the date, she had celebrated it and dried up and went to bed at the reserved room.
+
+In the meantime, he said she had been forcibly raped by a person who came to her room.
+
+Later, the woman has lodged a complaint with the Ahungalla Police regarding the incident, the police have identified the suspect.
+
+◼️
+
+[Data](articles/aeffe11e.json)
+
+[Extended Data](ext_articles/aeffe11e.ext.json)
+
+---
+
 ### History of the President's Policy Statement in Parliament
 
 *2024-11-16 13:26:21* · [`adalk`](https://www.ada.lk/opinion/ජනාධිපති-ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-පාර්ලිමේන්තුවේ-ඉදිරිපත්-කිරීම-ගැන-ඉතිහාසය/2-413073) · `si`
@@ -160,6 +622,34 @@ The first congregation of the First Parliament is by October 14, 1947. It was ce
 
 ---
 
+### Mahindananda retires from politics
+
+*2024-11-16 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203426) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Mahindananda Aluthgamage retires from politics. He cites the general election results showing Kandy district no longer needs his service. He bows to public decision, thanks supporters, and credits the Tooth Relic for his political journey.
+
+🟩
+
+He said that former minister Mahindananda Aluthgamage is retirected from politics today (16).
+
+He said the general election of the general election has been shown that the people of the Kandy district need their service anymore.
+
+He added that he decided to retire from politics.
+
+"I bow down to the decision of the people of Kandy district. Decided to retire from politics. I personally thank everyone who brought me to politics. The Tooth Relic is helpful. "
+
+◼️
+
+[Data](articles/5193e8b7.json)
+
+[Extended Data](ext_articles/5193e8b7.ext.json)
+
+---
+
 ### Namal is going to Parliament
 
 *2024-11-16 13:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செல்கின்றார்-நாமல்/175-347289) · `ta`
@@ -177,6 +667,20 @@ The party's general secretary, Sakara Kariyawasam, said this at a media briefing
 [Data](articles/8803fdaf.json)
 
 [Extended Data](ext_articles/8803fdaf.ext.json)
+
+---
+
+### ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசியப் பட்டியல் உறுப்பினராக நாமல்
+
+*2024-11-16 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198914) · `ta`
+
+ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) கட்சியின் தேசியப் பட்டியல் மூலம் நாமல் ராஜபக்ஷவை பாராளுமன்ற உறுப்பினராக நியமிக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இன்று சனிக்கிழமை (16) காலை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கருத்துத் தெரிவிக்கையிலேயே ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம் இதனை தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/21fb551d.json)
 
 ---
 
@@ -1919,443 +2423,5 @@ This is not my victory, but the victory of the people of the North and East, the
 [Data](articles/e8b7e748.json)
 
 [Extended Data](ext_articles/e8b7e748.ext.json)
-
----
-
-### President welcomed India
-
-*2024-11-15 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203410) · `si`
-
-Here's a 200-character summary:
-
-
-
-Indian High Commissioner meets Sri Lankan President. Discusses strengthening bilateral ties and mutual benefits between nations.
-
-🟩
-
-President of the High Commissioner of India to the President of the High Commissioner of India has met with President Anura Kumara Dissanayake to join the great achievement of the national folk force in the general election.
-
-The Indian High Commissioner's office said that a neighboring democratic state of the X space is the joint of the national folk democratic state and is committed to further strengthening bilateral relations for the benefit of the people of the two countries.
-
-◼️
-
-[Data](articles/5d3fb60f.json)
-
-[Extended Data](ext_articles/5d3fb60f.ext.json)
-
----
-
-### Seven people injured in train accident
-
-*2024-11-15 20:29:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-விபத்தில்-ஏழு-பேர்-படுகாயம்/175-347266) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Train collision injures 7: 2 boys among victims in Weligama-Pollathu Motara incident.
-
-🟩
-
-Seven people, including two boys, were injured when a small lorry collided with a train in the Weligama - Pollathu Motara area.. Remble
-
-◼️
-
-[Data](articles/609e6f2b.json)
-
-[Extended Data](ext_articles/609e6f2b.ext.json)
-
----
-
-### Sivaganga cancels transport
-
-*2024-11-15 20:23:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிவகங்கை-போக்குவரத்து-இரத்து/175-347265) · `ta`
-
-Sivaganga cancels transport: Sri Lanka-India passenger shipping suspended Nov 19, 2024 to Dec 18, 2024. Service resumes Dec 19, 2024. Remble:0
-
-🟩
-
-Sri Lanka -Indian passenger shipping service has been suspended from 19th November 2024 to December 18, 2024.
-
-Earlier, it has been stated that the Sivaganga Ship will be operated on November 15, 16, 16, 17 and 18 for the convenience of passengers in both Nagapattinam and Kankesan Port.
-
-It has been stated that the service will be resumed after December 18, 2024 and will let you know if there is any changes in these projects. Remble
-
-◼️
-
-[Data](articles/c833611d.json)
-
-[Extended Data](ext_articles/c833611d.ext.json)
-
----
-
-### Small lorry collides
-
-*2024-11-15 19:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203409) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Small lorry collides with train at Coconut Modara crossing. Seven children injured, including two in lorry."
-
-🟩
-
-A small lorry collided with a small lorry train at the Coconut Modara railway crossing on the train.
-
-Our correspondent said seven children including two children in the lorry were injured.
-
-◼️
-
-[Data](articles/ca61a0da.json)
-
-[Extended Data](ext_articles/ca61a0da.ext.json)
-
----
-
-### Former MPs, Twenthed Ministers in front of the people's sovereignty
-
-*2024-11-15 19:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203408) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Several former ministers and politicians lost their seats in the recent elections. Key losses include Susil Premajayantha, Sarath Weerasekera, Udaya Gammanpila, and others from various parties. Some notable winners include Rajitha Senaratne and Vidura Wickramanayaka. The summary focuses on the major political figures who lost their seats in the election.
-
-🟩
-
-Former ministers and several other ministers had lost their sense of election yesterday (14).
-
-Among them were several powerful government representatives.
-
-Susil Premajayantha, who brought the new Democratic Front representing the Colombo district, Susil Premajayantha, Premant. As well as the gentlemen, Dollawatte and Madurai Power and Iran Wickramaratne lost his own.
-
-Sarath Weerasekera also lodged a parliamentarian from the Sri Lanka General Front.
-
-Udaya Gammanpila, who contested with the universal power, lost his seat this time.
-
-Nimal Lansa, Nalin Fernando, Lasantha Alagiyawanna, Lasantha Alagiyawanna, Lasantha Alagiyawanna and Kokilla Gunawardena and Kokila Gunawardena competed by the Sri Lanka Alagiyawanwardena and Prasanra Ranaweera lost their father.
-
-Professor Channatilleka has lost the same incident in the Gampaha District in the 2020 General Election.
-
-Meanwhile, Rajitha Senaratne, Piyal Nishantha and Vidura Wickramanayaka who came to Kalutara district under the New Democratic Front.
-
-...
-
-[Data](articles/7aeb702c.json)
-
-[Extended Data](ext_articles/7aeb702c.ext.json)
-
----
-
-### The Tamil Trading Conference attended by the World Tamil Traders
-
-*2024-11-15 19:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/198884) · `ta`
-
-Tamil Trading Conference: World Tamil Traders attend. Malaysian coronation Jan 4-5. Dato Sri Sundarraju inaugurates. Tamil traders, associations, chambers participate. Exhibition showcases products. Four sessions: Global Connect, women leaders. B2B/B2C events. Thai speakers expand industry. Sponsored by Tamil Nadu and Malaysian small industries ministries.
-
-🟩
-
-The upcoming state of Malaysian coronation will be held on January 4 and 5. Penang State Governing Council Member Dato Sri Sundarraju has officially inaugurated the event.
-
-The event will be attended by Tamil traders, trade associations, trade commissions and Malaysian Indian Chamber of Commerce, Malaysian Penang Business Federation, Malaysian Muslim Chamber Commerce and various business organizations.. This is organized by this genealogical conference to import export to Tamils ​​in various countries and to display and marke the products they produce.
-
-The event will be held in four sessions, such as Global Connect Connection and a separate session for female business leaders.. The exhibition will showcase all the fields and the B2B recovery and B2C event.
-
-...
-
-[Data](articles/8058ffd6.json)
-
-[Extended Data](ext_articles/8058ffd6.ext.json)
-
----
-
-### Digamadulla District preference votes results released
-
-*2024-11-15 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103525/digamadulla-district-preference-votes-results-released) · `en`
-
-The preferential vote results of the Digamadulla District in the 2024 General Election have been released.
-
-NPP’s Wasantha Piyathissa has polled the highest number of preferential votes in the Digamadulla District with a total of 71,120votes while fellow NPP candidates Manjula Ratnayake (50,838) and Priyantha Wijeratne (41,313) are placed second and third respectively.
-
-Nalin Bandara has managed to secure the highest number of preference votes for the SJB in the district Dayasiri Jayasekara and J.C. Alawathuwala have also obtained seats for the party.
-
-M.M. Thahir of the All Ceylon Makkal Congress (ACMC), Meerasahibu Uthumalebbe of the Sri Lanka Muslim Congress (SLMC) and Kavindran Kodeeswaran of the Ilankai Thamil Arasu Kachchi (ITAK) have all secures a seat.
-
-◼️
-
-[Data](articles/675e6ffa.json)
-
-[Extended Data](ext_articles/675e6ffa.ext.json)
-
----
-
-### Digamadulla Profidence Result
-
-*2024-11-15 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203407) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-National power won 4 seats. All Ceylon Muslim Congress, Sri Lanka Muslim Congress, and Ilangai The Ilayani Thamil Arasakkarakakalaya Party secured one seat each.
-
-🟩
-
-According to the overall result of the district, the national power was won by four seats.
-
-In addition, the All Ceylon Muslim Congress, Sri Lanka Muslim Congress and Ilangai The Ilayani Thamil Arasakkarakakalaya Party have won a summon.
-
-◼️
-
-[Data](articles/03fe2fa5.json)
-
-[Extended Data](ext_articles/03fe2fa5.ext.json)
-
----
-
-### Thank you for everyone to start the Renaissance - President
-
-*2024-11-15 19:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203406) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-President Anura Kumara Dissanayake thanks voters for starting a renaissance. National folk force wins 159 seats in 2024 general election.
-
-🟩
-
-President Anura Kumara Dissanayake has paid his privilege to give a significant victory at the general election.
-
-The President has thanked the vote on the voter turnout.
-
-He said, 'Thank you for everyone to begin the Renaissance!'.
-
-The national folk force won the year-winning 159 seats in the 2024 general election yesterday (15).
-
-◼️
-
-[Data](articles/2f0e35e3.json)
-
-[Extended Data](ext_articles/2f0e35e3.ext.json)
-
----
-
-### Two third majority given by Sri Lanka voters will be used carefully: NPP
-
-*2024-11-15 18:55:00* · [`economynextcom`](https://economynext.com/two-third-majority-given-by-sri-lanka-voters-will-be-used-carefully-npp-188164/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s National People’s Power will not mis-use a two third majority given by voters to carry out its program, Tilvin Silva, General Secretary of the Janatha Vimukthi Peramuna, the main party behind the political group said.
-
-“We have understood the weight of responsibility of this victory,” Silva told reporters in Colombo after the landslide win.
-
-“That trust we have to protect. We have got 159 votes, exceeding two thirds. There was opinion in society that there should not be two thirds. Actually, we did not seek it.
-
-“But people have given it. So we have a responsibility to handle this excessive power very carefully.
-
-“Because our leaders have mis-used it in the past to put down the people. They were drunk with power. We will not become bloated with the power. We will be very careful and be responsible.”
-
-There were many challenges ahead of the government, he said.
-
-...
-
-[Data](articles/24ae063d.json)
-
-[Extended Data](ext_articles/24ae063d.ext.json)
-
----
-
-### Ceylon chamber ready to work with new government on economic stability
-
-*2024-11-15 18:54:00* · [`economynextcom`](https://economynext.com/ceylon-chamber-ready-to-work-with-new-government-on-economic-stability-188169/) · `en`
-
-ECONOMYNEXT – The Ceylon Chamber of Commerce has congratulated Sri Lanka’s newly elected government and says it’s ready to collaborate with the new administration to foster economic stability.
-
-“The Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development,” the trade body said in a statement.
-
-It said it appreciated the Election Commission and other state institutions for conducting a peaceful election.
-
-Chamber Chairman Duminda Hulangamuwa is also an economic edvisor the President Anura Dissanayake, whose party the National People’s Power won a landslide in the parliamentary election. (Colombo/Nov15/2024)
-
-◼️
-
-[Data](articles/bff10f30.json)
-
-[Extended Data](ext_articles/bff10f30.ext.json)
-
----
-
-### Heroin recovery of over 1650 million rupees
-
-*2024-11-15 18:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/198883) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Heroin seizure worth over 1650 million rupees during naval patrol. Six suspects arrested in Mirissa area aged 18-34. Police Drug Eradication Unit conducting further investigations. Total drug seizures this year valued at 17 483 million rupees. Navy vows to prevent drug trafficking.
-
-🟩
-
-The value of heroin, which was seized during the patrols carried out by the Marines, is more than 1650 million rupees, and further investigations are being carried out by the Police Drug Eradication Unit, the Navy said.
-
-Six suspects were arrested with heroin worth more than 1650 million rupees during a special patrol operation carried out on Thursday (14) in the deep sea of ​​Sri Lanka's west side of Sri Lanka.. The suspects were brought to Galle Harbor on Friday (15) with a fishing boat used for heroin.
-
-According to the Navy Media Unit, 66 kg 840 grams of heroin was seized by more than 1650 million rupees when the boat brought to the Galle port was subjected to further tests.
-
-The suspects were arrested from the Mirissa area between the ages of 18 - 34. They have been handed over to the Police Drug Eradication Unit for further investigations with the seized boat and narcotics.
-
-...
-
-[Data](articles/7915dc50.json)
-
-[Extended Data](ext_articles/7915dc50.ext.json)
-
----
-
-### PM Harini tops Colombo District preference votes; sets new record
-
-*2024-11-15 18:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/103524/pm-harini-tops-colombo-district-preference-votes-sets-new-record) · `en`
-
-The much-awaited preferential vote results of the Colombo District in the 2024 General Election have been released with NPP candidate Prime Minister Dr. Harini Amarasuriya polling the highest number of preference votes and placing first in the district.
-
-She has received an unprecedented 655,289 votes in total and in doing so has set a new record for the most preference votes received by a candidate in Sri Lanka’s parliamentary election history.
-
-Prior to this, the record for the highest number of preference votes obtained by a parliamentary candidate was held by former Prime Minister Mahinda Rajapaksa, who polled 527,364 votes in the 2020 General Election contesting from the Kurunegala District.
-
-SJB leader Sajith Premadasa is placed second in the Colombo District preference votes list in the 2024 General Election with 145,611 votes while fellow party members Dr. Harsha De Silva, Mujibur Rahman and S.M. Marikkar have also secured seats from the district.
-
-◼️
-
-[Data](articles/b6d6b68d.json)
-
-[Extended Data](ext_articles/b6d6b68d.ext.json)
-
----
-
-### Results in Colombo District Votes
-
-*2024-11-15 17:56:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-மாவட்ட-விருப்பு-வாக்குகளிள்-முடிவுகள்/175-347264) · `ta`
-
-Here's a summary of the Colombo District election results in approximately 200 characters:
-
-
-
-"Colombo District election results show a close race between two main parties. Party A leads with 45% of votes, followed by Party B at 42%. Independent candidates secured 13% of votes. Voter turnout was high at 85%.
-
-🟩
-
-◼️
-
-[Data](articles/768ae8a9.json)
-
-[Extended Data](ext_articles/768ae8a9.ext.json)
-
----
-
-### Kurunegala District preferential vote results released
-
-*2024-11-15 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103523/kurunegala-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Kurunegala District in the 2024 General Election have been released.
-
-NPP’s Namal Karunaratne has polled the highest number of preferential votes in the Kurunegala District with a total of 356,969 votes while NPP’s Ananda Wijeyapala and Sujeeva Dissanayake are placed second and third respectively.
-
-Nalin Bandara has managed to secure the highest number of preference votes for the SJB in the district Dayasiri Jayasekara and J.C. Alawathuwala have also obtained seats for the party.
-
-◼️
-
-[Data](articles/55732918.json)
-
-[Extended Data](ext_articles/55732918.ext.json)
-
----
-
-### Colombo Preferences
-
-*2024-11-15 17:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203405) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Colombo District Election Results: National party won 14 seats out of total.
-
-🟩
-
-According to the overall result of the district, the national power was held in 14 seats.
-
-◼️
-
-[Data](articles/929a3168.json)
-
-[Extended Data](ext_articles/929a3168.ext.json)
-
----
-
-### General Election: Ratnapura District preference vote results
-
-*2024-11-15 17:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/103522/general-election-ratnapura-district-preference-vote-results) · `en`
-
-The preferential vote results of the Ratnapura District in the 2024 General Election have been released.
-
-NPP’s Shantha Padmakumara has polled the highest number of preferential votes in the Ratnapura District while NPP’s S. Pradeep has received the second highest preference votes in the district.
-
-Heshan Withanage has managed to secure the highest number of preference votes for the SJB in the district.
-
-◼️
-
-[Data](articles/4d401ae9.json)
-
-[Extended Data](ext_articles/4d401ae9.ext.json)
-
----
-
-### Historical votes from the Prime Minister
-
-*2024-11-15 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203404) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Harini Amarasuriya received 155,289 preferential votes in the Colombo District election. This is the highest number of preferential votes ever recorded for a single candidate in Sri Lanka's parliamentary election history. Mahinda Rajapaksa previously held this record with 527,364 votes in the Kurunegala District in 2020.
-
-🟩
-
-Prime Minister Dr. Harini Amarasuriya, who was contesting for the Colombo District for the general election, has been identified as 155,289 preferential votes.
-
-This number of preferential number of preferential votes has been the number of preferential votes obtained by one seal candidate in parliamentarian election history.
-
-The MP was the highest number of preferential votes was the Mahinda Rajapaksa.
-
-He contested the General Election of the Kurunegala District in 2020 and obtained 527,364 preferential votes.
-
-◼️
-
-[Data](articles/515bcac8.json)
-
-[Extended Data](ext_articles/515bcac8.ext.json)
-
----
-
-### Batticaloa District preferential vote results
-
-*2024-11-15 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103521/batticaloa-district-preferential-vote-results) · `en`
-
-The preferential vote results of the Batticaloa District in the 2024 General Election have been released.
-
-ITAK’s Shanakiyan Rasamanickam has polled the highest number of preferential votes in the Batticaloa District while his party has secured 3 seats.
-
-Kandasami Prabhu has managed to secure a parliamentary seat in the district for the NPP while M.L.A.M. Hizbullah. has secured a seat for the SLMC.
-
-◼️
-
-[Data](articles/e71cca3e.json)
-
-[Extended Data](ext_articles/e71cca3e.ext.json)
 
 ---

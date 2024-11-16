@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 12:41:39**
+As of **2024-11-16 13:41:47**
 
 ## Newspaper Stats
 
-*Scraped **55,214** Articles*
+*Scraped **55,219** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,164
-adaderanalk | 6,662
-tamilmirrorlk | 7,823
+adalk | 5,166
+adaderanalk | 6,664
+tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
 
@@ -26,35 +26,129 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,212 (100.0%) of 55,214 articles have been extended.
+55,218 (100.0%) of 55,219 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
 
-### அக்குறனை நகரம்  வெள்ளத்தில் மூழ்கியது !
+### Namal is going to Parliament
+
+*2024-11-16 13:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செல்கின்றார்-நாமல்/175-347289) · `ta`
+
+Namal Rajapaksa elected to Sri Lanka Parliament via National List. Party general secretary Sakara Kariyawasam confirms.
+
+🟩
+
+According to the results of parliamentary elections, the party's national organizer Namal Rajapaksa will be sworn in as the National List Member of the Sri Lanka PA.
+
+The party's general secretary, Sakara Kariyawasam, said this at a media briefing held today (16). Remble
+
+◼️
+
+[Data](articles/8803fdaf.json)
+
+[Extended Data](ext_articles/8803fdaf.ext.json)
+
+---
+
+### “Voters have spoken”: Mahindananda announces retirement from politics
+
+*2024-11-16 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103539/voters-have-spoken-mahindananda-announces-retirement-from-politics) · `en`
+
+Former Minister Mahindananda Aluthgamage announced his retirement from active politics during a press conference held at the Mahindananda Aluthgamage Foundation’s office in Nawalapitiya this morning (16).
+
+Reflecting on his extensive political journey, Aluthgamage highlighted that his family had been politically active in the Nawalapitiya constituency for seven decades, with his own involvement spanning over 30 years.
+
+However, he stated that the outcome of the recent General Election indicated that the people of the Kandy District no longer required his services, leading to his decision to step away from politics.
+
+In the 2024 General Election held on Thursday (14), Aluthgamage contested from the New Democratic Front (NDF), under the symbol of the ‘gas cylinder’, and secured only 20,401 votes in the district. This was a stark contrast to his previous performances, where he garnered nearly 200,000 votes in previous elections.
+
+...
+
+[Data](articles/8c1c06d9.json)
+
+[Extended Data](ext_articles/8c1c06d9.ext.json)
+
+---
+
+### මහින්දානන්ද අලුත්ගමගේ දේශපාලනයෙන් සමුගනි
+
+*2024-11-16 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්ද-අලුත්ගමගේ-දේශපාලනයෙන්-සමුගනි/11-413072) · `si`
+
+හිටපු අමාත්‍යය මහින්දානන්ද අලුත්ගමගේ මහතා දේශපාලනයෙන් සමු ගන්නා බව (16) දින නාවලපිටිය මහින්දානන්ද අලුත්ගමගේ පදනම් කාර්යාලයේ මාධ්‍ය හමුවක් පවත්වමින් පැවසිය.
+
+දශක හතක කාලයක් අලුත්ගමගේ පරම්පරාව නාවලපිටිය ආසනයේ ක්‍රියාකාරි දේශපාලනයේ නිරත වු බවත්, ඉන් දශක තුනක් තමන් දේශපාලනයේ නිරත වු බවත්, මහනුවර දිස්ත්‍රික්කයේ ජනතාවට තමන්ගේ සේවය අවශ්‍ය නොවන බවට මෙවර පැවති මහ මැතිවරණයෙන් පෙන්නුම් කර ඇති නිසා තමන් දේශපාලනයෙන් සමු ගැනිමට තිරණය කල බවයි මහින්දානන්ද අලුත්ගමගේ මහතා කියා සිටියේ.
+
+මෙවර පැවති මහ මැතිවරණයෙන් නව ප්‍රජාතන්ත්‍රවාදි පෙරමුණෙන් ගෑස් සිලින්ඩරයෙන් තමන් මහනුවර දිස්ත්‍රික්කය සදහා තරග කල බවත්, ජන්ද දායකයන් මනාප 20,401 ක් පමණක් ලබා දි තිබු බවත්, තමන් මිට ප්‍රථම පැවති මැතිවරණවලදි ලක්ෂ දෙකකට ආසන්න මානප ප්‍රමාණයක් ලබාගත් නිසා ජනතාවට තමන්ගේ දේශපාලනය අවශ්‍ය නොවන බවට පෙන්නුම් කර ඇති නිසා දේශපාලනයෙන් සමුගන්නා බවයි මහින්දානන්ද අලුත්ගමගේ මහතා කියා සිටියේ.
+
+...
+
+[Data](articles/7a196d71.json)
+
+---
+
+### SLPP nominates Namal Rajapaksa for its only National List seat
+
+*2024-11-16 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103538/slpp-nominates-namal-rajapaksa-for-its-only-national-list-seat) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has decided to nominate Namal Rajapaksa as an MP through the party’s National List, SLPP General Secretary Sagara Kariyawasam said.
+
+Kariyawasam announced this while joining a press briefing held this morning (16).
+
+The SLPP managed to secure only 3 seats including one bonus seat (national list) in the Parliament through the results of the 2024 General Election, which was held on November 14.
+
+The number of total votes obtained by the SLPP, once the largest party in Parliament from 2020 to 2024, was only 350,429 (3.14%) in this year’s parliamentary poll.
+
+Meanwhile, Namal Rajapaksa, who also contested in the 2024 Presidential Election which was held two months ago, had managed to obtain only 342,781 votes from across the country, which was 2.57% of the total votes.
+
+...
+
+[Data](articles/5f2997f4.json)
+
+[Extended Data](ext_articles/5f2997f4.ext.json)
+
+---
+
+### The city was flooded with Akkurana!
 
 *2024-11-16 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198905) · `ta`
 
-கண்டி மாவட்டத்தில் உள்ள சில பிரதேசங்களில் பெய்த கடும் மழை காரணமாக கண்டி – யாழ்ப்பாணம் ஏ – 09 வீதியில் உள்ள அக்குறனை நகரம் நேற்று வெள்ளிக்கிழமை (15) வெள்ளத்தில் மூழ்கியது.
+Here's a summary of 200 characters:
+
+
+
+Kandy district floods: Heavy rains caused flooding in Akuranna town on A-09 road between Kandy and Jaffna.
+
+🟩
+
+Heavy rains in some areas in the Kandy district have been flooded yesterday (15) at the Akuranna town on A -09 road in Kandy - Jaffna.
 
 ◼️
 
 [Data](articles/1c6942e5.json)
 
+[Extended Data](ext_articles/1c6942e5.ext.json)
+
 ---
 
-### නාමල් රාජපක්ෂ ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+### Namal Rajapaksa to be appointed to Parliament
 
 *2024-11-16 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203423) · `si`
 
-2024 පාර්ලිමේන්තු මැතිවරණයේ ප්‍රතිඵල අනුව ශ්‍රී ලංකා පොදුජන පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා එම පක්ෂයේ ජාතික සංවිධායක නාමල් රාජපක්ෂ මහතා දිවුරුම් දීමට නියමිතය.
+Namal Rajapaksa to be appointed as National List MP from Sri Lanka General Front after winning 2024 parliamentary election.
 
-එම පක්ෂයේ මහලේකම් සාගර කාරියවසම් මහතා අද (16) පැවැති මාධ්‍ය හමුවකදී ඒ බව පැවසීය.
+🟩
+
+The National Organizer of the UNP, Namal Rajapaksa is to be sworn in as the National List MP who has received the Sri Lanka General Front according to the results of the 2024 parliamentary election.
+
+UNP General Secretary Sagar Kariyawasam said that at a press conference held today (16).
 
 ◼️
 
 [Data](articles/3c210369.json)
+
+[Extended Data](ext_articles/3c210369.ext.json)
 
 ---
 
@@ -469,6 +563,34 @@ Economic reform to rescue those who are trapped in economic growth and poverty.
 [Data](articles/e26a3203.json)
 
 [Extended Data](ext_articles/e26a3203.ext.json)
+
+---
+
+### Two persons killed in lorry train
+
+*2024-11-16 09:54:11* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියක්-දුම්රියේ-ගැටි-දෙදෙනෙක්-මරුට/11-413071) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"2 killed, 5 injured in Matara-Galle lorry-train collision. Driver & passenger dead. 3 women & 3 children hurt. Accident occurred last night near Thelijjawila."
+
+🟩
+
+A small lorry was in Matara to Galle when a small lorry was operating on the railway line while operating on the railment of a train.
+
+Two persons were seriously injured and admitted to the Matara hospital.
+
+The victim has been identified as the driver of the lorry and another. Two other women and three children have been seriously injured.
+
+Dead persons are residents of Thelijjawila Matara. The accident had occurred last evening.
+
+◼️
+
+[Data](articles/f2248343.json)
+
+[Extended Data](ext_articles/f2248343.ext.json)
 
 ---
 
@@ -2227,119 +2349,5 @@ While we are in office, we are fully aware that we have identified the needs of 
 [Data](articles/a8464e68.json)
 
 [Extended Data](ext_articles/a8464e68.ext.json)
-
----
-
-### Mullaitivu people welcomed Durairasa Ravikaran, who won the parliamentary election
-
-*2024-11-15 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/198865) · `ta`
-
-Mullaitivu residents greeted Durairasa Ravikaran, TNA's parliamentary election winner. Community members, activists, and youth attended the welcoming event in Mullaitivu Nagar.
-
-🟩
-
-The Sri Lanka Tamil National Party (TNA) has contested the Vannidal constituency to welcome Durairasa Ravikaran in Mullaitivu today (15).
-
-All the people of Mullaitivu were gathered in the Mullaitivu Nagar area today (14).
-
-The event, which began at 10 am today, has begun a celebration of the evening's winning candidate.
-
-The people of Mullaitivu district, community activists and youth were also present at the reception.
-
-◼️
-
-[Data](articles/46bd4864.json)
-
-[Extended Data](ext_articles/46bd4864.ext.json)
-
----
-
-### For the first time, two upcountry Tamil women elected to Parliament
-
-*2024-11-15 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198879) · `ta`
-
-Two Tamil women elected to Parliament for first time in upcountry history. Ambika Samuel wins 58,201 votes, Kalachelvi 33,346. Significant milestone after 47 years without female representation.
-
-🟩
-
-For the first time in the history of the upcountry political history, two women from the hill community have been elected to Parliament.
-
-Ambika Samuel, the National People's Power candidate in the Badulla district, has won 58,201 votes while the Nuwara Eliya District candidate of the National People's Power, Kalachelvi has won 33,346 preferential votes.
-
-It is important that this is the first female representation in the last 47 years of the Upcountry Society, which received the first upcountry representation in 1977.
-
-◼️
-
-[Data](articles/332b2eb4.json)
-
-[Extended Data](ext_articles/332b2eb4.ext.json)
-
----
-
-### Election results are revealing ethnic unity - Saman Vidyaratne
-
-*2024-11-15 16:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/198874) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Saman Vidyaratne: Election results show ethnic unity in Jaffna. National People's Power won highest preferential votes in Badulla District. Inter-ethnic compliance and unity achieved, considered special success. Victory in Jaffna seen as best lesson for local politicians.
-
-🟩
-
-Saman Vidyaratne, who received the highest number of preferential votes in the National People's Power in the Badulla District, said that there is an election results in Jaffna to express ethnic unity.
-
-In this regard, he added that the parliamentary election results were revealed to be inter -ethnic compliance and unity.. This is a special success. I see our success in Jaffna than the votes I received in Badulla. This is the best lesson for Jaffna politicians.
-
-◼️
-
-[Data](articles/a8095d26.json)
-
-[Extended Data](ext_articles/a8095d26.ext.json)
-
----
-
-### Kegalle Preferential Results
-
-*2024-11-15 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203400) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Kegalle Election Results: National party wins 7 seats out of total. Local preferences influence outcome.
-
-🟩
-
-According to the overall result of the district, the national power was owned by seven seats.
-
-◼️
-
-[Data](articles/a2b8a615.json)
-
-[Extended Data](ext_articles/a2b8a615.ext.json)
-
----
-
-### Puttalam Preferential Results
-
-*2024-11-15 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203399) · `si`
-
-Here's a summary of the Puttalam Preferential Results in 200 characters:
-
-
-
-National power won six seats in the district overall. This outcome reflects the political landscape and voting patterns in Puttalam during that election cycle. The results indicate a strong showing for the national party in this particular region.
-
-🟩
-
-According to the overall result of the district, the national power was owned by six seats.
-
-◼️
-
-[Data](articles/ae32d417.json)
-
-[Extended Data](ext_articles/ae32d417.ext.json)
 
 ---

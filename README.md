@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 17:42:36**
+As of **2024-11-16 18:02:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,549
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,243 (100.0%) of 55,245 articles have been extended.
+55,245 (100.0%) of 55,245 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Historically, constituencies such as Colombo-North, Central, East, and West have
 ...
 
 [Data](articles/cda05170.json)
+
+[Extended Data](ext_articles/cda05170.ext.json)
 
 ---
 
@@ -670,17 +672,23 @@ The party's general secretary, Sakara Kariyawasam, said this at a media briefing
 
 ---
 
-### ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசியப் பட்டியல் உறுப்பினராக நாமல்
+### Namal as a member of the National List of Sri Lanka PA
 
 *2024-11-16 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198914) · `ta`
 
-ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) கட்சியின் தேசியப் பட்டியல் மூலம் நாமல் ராஜபக்ஷவை பாராளுமன்ற உறுப்பினராக நியமிக்க தீர்மானிக்கப்பட்டுள்ளது.
+Namal Rajapaksa appointed MP via SLPP National List.
 
-இன்று சனிக்கிழமை (16) காலை நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் கருத்துத் தெரிவிக்கையிலேயே ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியின் பொதுச் செயலாளர் சாகர காரியவசம் இதனை தெரிவித்துள்ளார்.
+🟩
+
+It has been decided to appoint Namal Rajapaksa as a Member of Parliament through the National List of the Sri Lanka PA (SLPP) party.
+
+Speaking at a media briefing held this morning (16), the general secretary of the Sri Lanka Peoples Alliance (PA) Sagara Kariyawasam said this.
 
 ◼️
 
 [Data](articles/21fb551d.json)
+
+[Extended Data](ext_articles/21fb551d.ext.json)
 
 ---
 

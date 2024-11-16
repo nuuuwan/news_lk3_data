@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 10:14:42**
+As of **2024-11-16 10:00:45**
 
 ## Newspaper Stats
 
-*Scraped **55,196** Articles*
+*Scraped **55,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,164
-adaderanalk | 6,659
-tamilmirrorlk | 7,820
+adalk | 5,163
+adaderanalk | 6,658
+tamilmirrorlk | 7,819
 virakesarilk | 8,936
 adaderanasinhalalk | 9,538
 
@@ -26,51 +26,11 @@ adaderanasinhalalk | 9,538
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,191 (100.0%) of 55,196 articles have been extended.
+55,191 (100.0%) of 55,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### Ceylon Chamber of Commerce congratulates newly elected govt
-
-*2024-11-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103534/ceylon-chamber-of-commerce-congratulates-newly-elected-govt) · `en`
-
-The Ceylon Chamber (CCC) has congratulated the National People’s Power (NPP) led by the President Anura Kumara Dissanayake on securing an overwhelming mandate and majority in the Parliamentary election.
-
-In a statement, the CCC said “The mandate of the people reflects the united expectations towards governance, democratic values, anti-corruption, and uplifting of the economy.”
-
-As the premier business Chamber in Sri Lanka, the Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development, it added.
-
-The Chamber also commended the Election Commission and other state institutions for ensuring a peaceful election process.
-
-◼️
-
-[Data](articles/2dd322b6.json)
-
----
-
-### தேர்தலுக்கு பின்னரான காலம் குறித்து விசேட அறிவிப்பு
-
-*2024-11-16 10:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கு-பின்னரான-காலம்-குறித்து-விசேட-அறிவிப்பு/175-347285) · `ta`
-
-பாராளுமன்றத் தேர்தல் முடிவுகள் அறிவிக்கப்பட்ட நாளிலிருந்து ஒரு வாரத்திற்கு அமைதியான காலம் அமுலில் இருக்கும் என  பொலிஸ் ஊடகப் பேச்சாளரும், பிரதி பொலிஸ்மா அதிபருமான சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளனர்.
-
-மேலும், தேர்தலுக்குப் பின்னரான காலப்பகுதியில் நாடு முழுவதும் பொலிஸார் தீவிர கண்காணிப்பில் வைக்கப்பட்டுள்ளனர்.
-
-ஒரு வார காலப்பகுதியில், பொது இடங்களில் எந்தவிதமான கூட்டங்கள், ஆர்ப்பாட்டங்கள் பேரணியை நடத்த முடியாது.
-
-மேலும், நாடு முழுவதும் ரோந்து பயணங்களில் ஈடுபடுவதன் மூலம் தேவையான பாதுகாப்பு வழங்கப்படுகிறது.
-
-புலனாய்வு அதிகாரிகள் பணியில் உள்ளனர். பிரத்தியேகமாக அடையாளம் காணப்பட்ட பொலிஸ் பிரிவுகளில் விசேட பாதுகாப்பு வழங்கப்பட்டுள்ளது.
-
-தேர்தலுக்கு முந்திய காலப்பகுதியில் தேர்தல் சட்டத்தை மீறிய 581 பேர் கைது செய்யப்பட்டுள்ளதாகவும் பொலிஸ் ஊடகப் பேச்சாளர் குறிப்பிட்டுள்ளார். R
-
-◼️
-
-[Data](articles/36d2f1a7.json)
-
----
 
 ### Motorcycle pillion rider killed in collision with a train
 
@@ -359,22 +319,6 @@ The victim is a 69 year old resident of Kekirawa area.
 [Data](articles/3a2987da.json)
 
 [Extended Data](ext_articles/3a2987da.ext.json)
-
----
-
-### විජිතගෙන් වාර්තාවක්
-
-*2024-11-16 07:58:17* · [`adalk`](https://www.ada.lk/breaking_news/විජිතගෙන්-වාර්තාවක්/11-413070) · `si`
-
-මෙරට පාර්ලිමේන්තු මැතිවරණ ඉතිහාසය තුළ වැඩිම මනාප සංඛ්‍යාවක් ලබා ගත් මන්ත්‍රිවරයා ලෙස ජාතික ජන බලවේගයේ පාර්ලමේන්තු මන්ත්‍රි විජිත හේරත් මහතා වාර්තා අතරට එක්විය.
-
-මීට පෙර එම වාර්තාවට හිමිකම් කිවේ හිටපු ජනපති මහින්ද රාජපක්ෂ මහතායි.
-
-කෙසේ වෙතත් මෙවර පාර්ලිමේන්තු මැතිවරණයේදි විජිත හේරත් මහතා ගම්පහ දිස්ත්‍රික්කය නියෝජනය කරමින් තරග කරමින් මනාප 7,16,715  ලබා ගනිමින් ගම්පහ ප්‍රථමයා බවට පත්විය.
-
-◼️
-
-[Data](articles/5508bde1.json)
 
 ---
 
@@ -2227,5 +2171,67 @@ Dissanayake’s leadership marked a pivotal shift in Sri Lanka’s political lan
 [Data](articles/03e5de94.json)
 
 [Extended Data](ext_articles/03e5de94.ext.json)
+
+---
+
+### Special media briefing from national promos
+
+*2024-11-15 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203394) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+JVP General Secretary Tilvin Silva announces historic victory in general election. Party wins 159 seats under proportional voting system. He thanks supporters and emphasizes responsibility to meet people's expectations, ending old politics and family rule.
+
+🟩
+
+The General Secretary of the JVP Tilvin Silva says that the national folk force has achieved historical victory at the general election.
+
+Addressing the media at the main headquarters of the JVP in Pelawatta, he said this was the highest number of seats after the introduction of the proportional voting system.
+
+The national folk force won 159 seats in the 225 seats.
+
+He also thanked everyone behind the victory for his party.
+
+"We understand the burden of our victory. People are in great hopes for us. We have to keep it up. We have been defeated by the majority of political parties in the country. Old politics is over. The old era is over. People ended that era. That politics with privileged, family rule is now over. This is a victory to understand our use and granting our use ...
+
+◼️
+
+[Data](articles/04281623.json)
+
+[Extended Data](ext_articles/04281623.ext.json)
+
+---
+
+### Special NPP press conference after election victory
+
+*2024-11-15 15:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/103514/special-npp-press-conference-after-election-victory) · `en`
+
+The members of the National People’s Power (NPP) are holding a special press conference after having a secured a resounding victory in the 2024 Parliamentary Election.
+
+◼️
+
+[Data](articles/199f1a0c.json)
+
+[Extended Data](ext_articles/199f1a0c.ext.json)
+
+---
+
+### Kandy District preferential vote results
+
+*2024-11-15 15:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103513/kandy-district-preferential-vote-results-) · `en`
+
+The preferential vote results of the Kandy District in the 2024 General Election have been released.
+
+NPP’s R K.D. Lal Kantha has polled the highest number of preferential votes in the Kandy District.
+
+Rauf Hakeem and Chamindrani Kiriella have secured two parliamentary seats for the SJB in the district while Anuradha Jayarathne secured a seat for the New Democratic Front (NDF).
+
+◼️
+
+[Data](articles/085df1fb.json)
+
+[Extended Data](ext_articles/085df1fb.ext.json)
 
 ---

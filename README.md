@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 14:25:55**
+As of **2024-11-16 14:13:34**
 
 ## Newspaper Stats
 
-*Scraped **55,221** Articles*
+*Scraped **55,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,166
-adaderanalk | 6,666
+adaderanalk | 6,665
 tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,219 (100.0%) of 55,221 articles have been extended.
+55,219 (100.0%) of 55,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### From 3% to 61%: Six major records NPP broke in historic election victory
-
-*2024-11-16 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103541/from-3-to-61-six-major-records-npp-broke-in-historic-election-victory) · `en`
-
-The 2024 General Election marked a resounding victory for the National People’s Power (NPP) led by President Anura Kumara Dissanayake, setting unprecedented records in Sri Lanka’s electoral history.
-
-The NPP secured 6,863,186 votes, the highest ever obtained by a political party in a general election, surpassing the 6,853,690 votes won by the Sri Lanka Podujana Peramuna (SLPP) in 2020. This also accounted for a record-breaking 61.56% of the total vote, overtaking the previous high of 60.33% recorded by the United People’s Freedom Alliance (UPFA) in 2010.
-
-The NPP won 21 of the 22 electoral districts, losing only Batticaloa, breaking the UPFA’s 2010 record of victories in 19 districts. Furthermore, the party claimed 152 constituencies, shattering the UPFA’s 2010 record of 136.
-
-...
-
-[Data](articles/874b1196.json)
-
----
 
 ### CC confirms Murdhu Fernando as Chief Justice
 
@@ -2351,5 +2335,29 @@ According to the overall result of the district, the national power was won eigh
 [Data](articles/0d12e434.json)
 
 [Extended Data](ext_articles/0d12e434.ext.json)
+
+---
+
+### Batticaloa's preferences
+
+*2024-11-15 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203401) · `si`
+
+Here's a summary of Batticaloa's election results in 200 characters:
+
+
+
+Ilankai Tamil Arasu wins overall. National Folk Force and Sri Lanka Muslim Congress each secure one seat.
+
+🟩
+
+The overall result of the district was won by Ilankai Tamil Arasu.
+
+In addition, the National Folk Force is one seat and the Sri Lanka Muslim Congress has won one seat.
+
+◼️
+
+[Data](articles/34f7992a.json)
+
+[Extended Data](ext_articles/34f7992a.ext.json)
 
 ---

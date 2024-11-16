@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 22:00:59**
+As of **2024-11-16 21:42:06**
 
 ## Newspaper Stats
 
-*Scraped **55,262** Articles*
+*Scraped **55,259** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 429
+dbsjeyarajcom | 428
 colombotelegraphcom | 561
 bbccomsinhala | 565
 islandlk | 3,298
@@ -17,60 +17,20 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,675
+adaderanalk | 6,674
 tamilmirrorlk | 7,828
 virakesarilk | 8,954
-adaderanasinhalalk | 9,556
+adaderanasinhalalk | 9,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,259 (100.0%) of 55,262 articles have been extended.
+55,259 (100.0%) of 55,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### Seelarathana Thero questions delay in releasing Colombo, Gampaha preference vote results
-
-*2024-11-16 21:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103550/seelarathana-thero-questions-delay-in-releasing-colombo-gampaha-preference-vote-results) · `en`
-
-Ven. Battaramulle Seelarathana Thero, who contested the 2024 Parliamentary Election from the Colombo District, has raised serious concerns over the preferential vote results for the Colombo and Gampaha Districts, alleging a possible “deal” behind the numbers.
-
-The Thero questioned the prolonged delay in releasing the preferential vote results for the two districts and urged the Elections Commissioner General to clarify the matter to the public.
-
-Ven. Seelarathana Thero also criticized the National People’s Power (NPP) party, accusing them of hypocrisy. He claimed that despite their campaign emphasis on seeking votes for the party rather than individual candidates, internal disputes over preferential votes have surfaced.
-
-“I neither believe nor accept this preference vote results. It’s astonishing how some individuals have seen their preferential votes skyrocket from one lakh to six, seven, or even eight lakhs. Where did such numbers come from?”, he questioned.
-
-...
-
-[Data](articles/7a2e2c0c.json)
-
----
-
-### එක් එක් පක්ෂවලට ජාතික ලැයිස්තු මන්ත්‍රීධුර බෙදී යන්නේ මෙහෙමයි
-
-*2024-11-16 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203439) · `si`
-
-2024 මහ මැතිවරණයේදී එක් එක් පක්ෂ වෙත හිමි වූ ජාතික ලැයිස්තුවෙන් තේරී පත්වන මන්ත්‍රී ධුර සඳහා දේශපාලන පක්ෂ විසින් නම් කරනු ලබන නාමලේඛනය මැතිවරණ කොමිෂන් සභාව වෙත කඩිනමින් ලබා දෙන ලෙස එම පක්ෂවල මහලේකම්වරුන් වෙත දැනුම් දී තිබෙනවා.
-
-ඒ අනුව වැඩිම ආසන ප්‍රමාණයක් දිනාගත් ජාතික ජන බලවේගය සිය පක්ෂයේ ජාතික ලැයිස්තුව හෙට (17) දිනයේ ප්‍රකාශයට පත් කිරීමට නියමිතව තිබේ.
-
-සමගි ජන බලවේගයට මෙවර ජාතික ලැයිස්තුවෙන් මන්ත්‍රී ධුර 05 ක් හිමි වූ අතර ඒ සඳහා පත්කරන්නේ කවුරුන්ද යන්න පිළිබඳ එම පක්ෂය මෙතෙක් අවසන් තීරණයකට එළැඹ නොමැති බවද වාර්තා වේ.
-
-මේ අතර නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ජාතික ලැයිස්තු මන්ත්‍රී ධුර 02 ක් හිමිවුණු අතර එම මන්ත්‍රී ධුර සඳහා පත් කරන්නේ කවුරුන්ද යන්න සාකච්ඡාවක් අද පවත්වා තිබේ.
-
-ඒ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ කොළඹ මල් පාරේ පිහිටි දේශපාලන කාර්යාලයේදීයි.
-
-එමෙන්ම පොදුජන පෙරමුණට එක් ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් හිමිව තිබූ අතර එම මන්ත්‍රීධුරය සඳහා පොදුජන පෙරමුණේ ජාතික සංවිධානය නාමල් රාජපක්ෂ මහතා නම් කිරීමට එම පක්ෂය තීරණය කර තිබේ.
-
-...
-
-[Data](articles/377f50d2.json)
-
----
 
 ### Plantation youth and women poised for political change: Newly elected MP Ambika Samuel
 
@@ -2160,24 +2120,6 @@ Sajith Premadasa was named as the leader of reconciliation and the party general
 
 ---
 
-### How Anura Kumara Dissanayake Won the Presidency in a Fourteen Fold Quantum Leap from 3% in 2019 to 42% in 2024.
-
-*2024-11-16 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85042) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART SIX
-
-The Janatha Vimukthi Peramuna(JVP)and  National People’s Power(NPP) leader Anura Kumara Dissanayake  contested the 2019  presidential election under the compass symbol.He finished a poor third with 418,553(3.16%) votes. Anura refused to be cowed down by that crushing  defeat. AKD   refurbished his image  and re-invented the political approach of his party.
-
-This enabled  Anura to  spearhead  a commendable political renaissance of the JVP led NPP. As is well known , Anura Kumara Dissanayake finished first in  the presidential election held on 24 September 2024. Politically, it was a gigantic quantum leap. AKD polled 5,634,915(42.31%) votes on the first count and 5,740,179(55.89%) on the second count. It was truly a famous victory!
-
-...
-
-[Data](articles/64529c6d.json)
-
-[Extended Data](ext_articles/64529c6d.ext.json)
-
----
-
 ### Indian High Commissioner congratulated President
 
 *2024-11-16 03:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-வாழ்த்தினார்-இந்திய-உயர்ஸ்தானிகர்/175-347280) · `ta`
@@ -2354,24 +2296,6 @@ The public has demanded that strict action be taken against illegal sand excavat
 
 ---
 
-### The Historic 2024 Parliamentary Election marks the first time that Sri Lankans of all ethnicities across the country  spoke with a single voice, and placed their faith in a single leader- Anura  Kumara  Dissanayake
-
-*2024-11-16 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85073) · `en`
-
-For the first time since the enactment of the 1978 Constitution and the advent of the system of proportional representation, the Sri Lankan people have united to confer a two-third majority of its legislative power to a single party, Anura Kumara Dissanayake’s National People’s Power. It also marks the first time that Sri Lankans of all ethnicities across the country all spoke with a single voice, and placed their faith in a single leader.
-
-In one fell swoop, Sri Lanka made clear that it has had enough of race baiting, nepotism, class warfare, corruption, cronyism, political vendettas and rank incompetence.
-
-They saw in President Anura Kumara Dissanayake a leader who they could trust, who sincerely cared for them, who would work hard for them, has no interest in political theatrics and amassing power for himself.
-
-The people could be no clearer – their patience for drama and pettiness has clearly run out.
-
-...
-
-[Data](articles/d5d48154.json)
-
----
-
 ### Anura Is A Great Honest Man: Donald Trump
 
 *2024-11-16 01:42:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/anura-is-a-great-honest-man-donald-trump/) · `en`
@@ -2505,5 +2429,69 @@ Adding stronger momentum to its growth trajectory, Softlogic Life recorded anoth
 [Data](articles/91290e0f.json)
 
 [Extended Data](ext_articles/91290e0f.ext.json)
+
+---
+
+### Asiri Academy of Health Sciences inaugurates modern main campus in Colombo
+
+*2024-11-16 00:39:00* · [`islandlk`](http://island.lk/asiri-academy-of-health-sciences-inaugurates-modern-main-campus-in-colombo/) · `en`
+
+The Asiri Academy of Health Sciences (AAHS), a leading institution in healthcare education, has ceremonially inaugurated its new main campus in Ward Place, Colombo 7. The important achievement highlights the official commencement of operations at the modern facility, reinforcing Asiri Health’s commitment to skill-building and supporting healthcare professionals in Sri Lanka.
+
+With the global healthcare sector facing increasing demands, the expansion of AAHS comes at a crucial time. According to the World Health Organization, there is a projected shortfall of 18 million health workers by 2030, primarily in low and middle-income countries. Catering to a growing demand for healthcare workers in Sri Lanka and providing opportunities for overseas career pathways, the new Campus aims to address the gaps offering high-quality education and training to these aspiring healthcare professionals.
+
+...
+
+[Data](articles/21296971.json)
+
+[Extended Data](ext_articles/21296971.ext.json)
+
+---
+
+### CSE renews Platinum Partnership with CFA Society Sri Lanka to foster capital market development
+
+*2024-11-16 00:37:00* · [`islandlk`](http://island.lk/cse-renews-platinum-partnership-with-cfa-society-sri-lanka-to-foster-capital-market-development/) · `en`
+
+The Colombo Stock Exchange (CSE) has renewed its partnership as the Platinum Partner of CFA Society Sri Lanka for the 8th consecutive year, reinforcing a shared commitment to promoting ethical standards, education, and professional excellence within the Sri Lankan investment industry. This longstanding collaboration reflects CSE’s dedication to advancing the capital market and fostering valuable industry alliances.
+
+The sponsorship agreement was formally presented to Aruna Perera, outgoing President of CFA Society Sri Lanka; by Dilshan Wirasekara, Chairman, CSE; with the participation of Ms. Rashmi Paranavitane, President of CFA Society Sri Lanka; Ms. Samalka Athuraliya, Director of CFA Society Sri Lanka; Rajeeva Bandaranaike, CEO, CSE; Niroshan Wijesundere, Senior Vice President – Marketing, CSE; and Aruna Alwis, CEO of CFA Society Sri Lanka.
+
+...
+
+[Data](articles/7c871f7d.json)
+
+[Extended Data](ext_articles/7c871f7d.ext.json)
+
+---
+
+### National Chamber of Exporters congratulates NPP on Parliamentary Election victory
+
+*2024-11-16 00:04:14* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Exporters-congratulates-NPP-on-Parliamentary-Election-victory/34-769322) · `en`
+
+The National Chamber of Exporters of Sri Lanka (NCE) yesterday extended its warm congratulations to the National People’s Power (NPP) on its recent success in the Parliamentary Elections.
+
+“This historic election, characterised by a peaceful and democratic process, stands as a testament to the strength of Sri Lanka’s democratic principles and the commitment of its people to shape the future of the nation through their right to vote,” NCE said in a statement.
+
+...
+
+[Data](articles/5d9c07dd.json)
+
+[Extended Data](ext_articles/5d9c07dd.ext.json)
+
+---
+
+### JAAF congratulates NPP on securing clear majority; looks forward to collaborative future
+
+*2024-11-16 00:02:46* · [`dailyftlk`](https://www.ft.lk/business/JAAF-congratulates-NPP-on-securing-clear-majority-looks-forward-to-collaborative-future/34-769321) · `en`
+
+The Joint Apparel Association Forum (JAAF), yesterday extended its warm congratulations to the National People’s Power on securing a resounding majority in the General Election.
+
+“As Sri Lanka begins a new chapter, JAAF reaffirms its commitment to working closely with the new leadership to drive economic growth, foster sustainable employment, and support Sri Lanka in achieving its merchandise export target of $ 25 billion by 2025,” said JAAF representing Sri Lanka’s largest export industry,
+
+...
+
+[Data](articles/ccb063ef.json)
+
+[Extended Data](ext_articles/ccb063ef.ext.json)
 
 ---

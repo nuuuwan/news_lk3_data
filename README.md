@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 22:59:52**
+As of **2024-11-16 23:41:37**
 
 ## Newspaper Stats
 
-*Scraped **55,267** Articles*
+*Scraped **55,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,20 +13,20 @@ dbsjeyarajcom | 431
 colombotelegraphcom | 561
 bbccomsinhala | 565
 islandlk | 3,298
-economynextcom | 3,352
+economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,169
 adaderanalk | 6,676
 tamilmirrorlk | 7,828
-virakesarilk | 8,954
-adaderanasinhalalk | 9,556
+virakesarilk | 8,955
+adaderanasinhalalk | 9,557
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,267 (100.0%) of 55,267 articles have been extended.
+55,269 (100.0%) of 55,271 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,32 @@ The United National Party, one of Sri Lanka’s oldest political parties, has a 
 [Data](articles/f39c1391.json)
 
 [Extended Data](ext_articles/f39c1391.ext.json)
+
+---
+
+### Rehan Jayawickrema retiring from politics
+
+*2024-11-16 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203440) · `si`
+
+Rehan Jayawickrema retires from politics. Former Weligama organizer resigns as acting politician and regional coordinator. Cites family focus and difficult journey. Defeated in parliamentary election. Decision made with careful consideration.
+
+🟩
+
+Weligama organizer registrator, Regional organizer, says he will resign as acting politics and the post of Weligama organizer in Matara.
+
+He said a note on a x page to the page of his x page.
+
+He said that he had a difficult journey in politics, despite the difficulties in politics, and the time to think about his family and work for them.
+
+He also said that this decision was not easily made, but it is currently a correct decision.
+
+He was the mayor of Weligama Municipal Council and was defeated by the Matara district for the Parliamentary election.
+
+◼️
+
+[Data](articles/9b61b9ef.json)
+
+[Extended Data](ext_articles/9b61b9ef.ext.json)
 
 ---
 
@@ -742,6 +768,38 @@ In 2019, Carolin Leavitte Truth preserved was attached to the Media Office of th
 
 ---
 
+### It is no longer questioned in Geneva that Tamils ​​are ignored;Amnesty to political prisoners - Attorney Pradeepa Mahanama
+
+*2024-11-16 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198926) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamils ignored no more: Amnesty for political prisoners urged. Tamil cooperation with President Anura Kumara Dissanayake's government. New political culture emerging in North and East. UN Human Rights Commission session in Feb 2025.
+
+🟩
+
+The people of the North and East have fully cooperated with the government headed by President Anura Kumara Dissanayake. It is no longer questioned in Geneva that Tamils ​​are ignored from the political structure.
+
+Attorney -at -Law Pradeepa Mahanama said the president should grant public amnesty to political prisoners detained under the Prevention of Terrorism Act.
+
+The National People's Power, led by President Anura Kumara Dissanayake, has won the 21 election districts in the general election.
+
+The Tamil people of the Northern and Eastern Province have moved away from traditional political culture and entered into new political culture.
+
+The people of the Northern and Eastern Province, in particular, the Tamil people, have been fully cooperating with the national people's power led by President Anura Kumara Dissanayake.
+
+It is a special feature that the national people's power has succeeded without any political alliance.
+
+...
+
+[Data](articles/97d5cfb6.json)
+
+[Extended Data](ext_articles/97d5cfb6.ext.json)
+
+---
+
 ### Thand of Rs.. 435,000,000 is handed over to the owner
 
 *2024-11-16 15:24:09* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-ආර්ථිකයේ-වැටි-තිබූ-රු--435000ක-මුදල-හිමිකරුටම-භාරදෙයි/11-413074) · `si`
@@ -1310,6 +1368,26 @@ UNP General Secretary Sagar Kariyawasam said that at a press conference held tod
 
 ---
 
+### Sri Lanka President to make policy statement on 21 November
+
+*2024-11-16 12:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-make-policy-statement-on-21-november-188211/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake will make a policy statement at the opening of the new sessions on November 21, according to the parliament.
+
+Sri Lanka has a tradition of presidents making policy speeches in the parliament dating back to the ‘Throne Speech’ by the Governor General.
+
+Sri Lanka new administration will enact new constitution with referendum: Tilvin
+
+Two third majority given by Sri Lanka voters will be used carefully: NPP
+
+In the general election President Dissanayake’s NPP swept the polls taking a two thirds majority. (Colombo/Nov15/2024)
+
+◼️
+
+[Data](articles/307a958a.json)
+
+---
+
 ### Train - Lorry collisionTwo killed;Five people injured
 
 *2024-11-16 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198901) · `ta`
@@ -1405,6 +1483,26 @@ Accordingly, the entire curfew will continue today and tomorrow and the situatio
 [Data](articles/4625c346.json)
 
 [Extended Data](ext_articles/4625c346.ext.json)
+
+---
+
+### Sri Lanka new administration will enact new constitution with referendum: Tilvin
+
+*2024-11-16 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-administration-will-enact-new-constitution-with-referendum-tilvin-188208/) · `en`
+
+Sri Lanka new administration will enact new constitution with referendum: Tilvin
+
+ECONOMYNEXT – Sri Lanka’s new administration will carry out pledges in the National People’s Power manifesto including the enactment of a new constitution, General Secretary of the Janatha Vimukthi Peramuna Tilvin Silva said.
+
+In the manifesto put forward before the Presidential elections, a new constitution, strengthening democracy within it, giving rights to various sections of the citizenry and abolishing the executive presidency were promised, he explained at press briefing at the party headquarters Friday.
+
+“We are ready not only will we present the new constitution to the parliament, it will be put forward to the people through a referendum” Silva said. “But it is a big task. We are committed to implementing the manifesto.”
+
+He was responding to a question from a reporter whether the new administration will lose its enthusiasm to abolish the executive presidency after elections. The
+
+...
+
+[Data](articles/888a76f8.json)
 
 ---
 
@@ -2487,77 +2585,5 @@ The people could be no clearer – their patience for drama and pettiness has cl
 [Data](articles/d5d48154.json)
 
 [Extended Data](ext_articles/d5d48154.ext.json)
-
----
-
-### President Anura Kumara Dissanayake-led National People’s Power  Emerges as the Unifying Force of Sri Lanka
-
-*2024-11-16 02:16:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85077) · `en`
-
-President Anura Kumara Dissanayake’s National People’s Power (NPP) has achieved a landmark victory in the 2024 Parliamentary Election on Thursday, securing an impressive 159 seats and a commanding supermajority in Parliament.
-
-Apart from emerging as the unifying force of Sri Lanka especially winning districts in North and East except Batticaloa, this election victory by NPP was one for the history books, breaking records and setting multiple historic milestones as the results unfolded.
-
-Dissanayake’s NPP achieved the highest percentage ever obtained by a party in a General Election, securing 61.56% of the total vote, surpassing the previous record of 60.33% set by the United People’s Freedom Alliance (UPFA) in 2010.
-
-The NPP also made history by winning 152 electoral divisions, the highest number ever achieved in a General Election, surpassing the previous record of 136 electoral divisions by the UPFA.
-
-...
-
-[Data](articles/61c195fa.json)
-
-[Extended Data](ext_articles/61c195fa.ext.json)
-
----
-
-### Anura Is A Great Honest Man: Donald Trump
-
-*2024-11-16 01:42:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/anura-is-a-great-honest-man-donald-trump/) · `en`
-
-Before the presidential election on 21 September 2024, then presidential candidate in the USA, Donald Trump, expressed his sport for Anura Kumara Dissanayake, “only Anura Kumara can recover Sri Lanka, he is a great honest man with humanity. I am huge Anura fan. You better vote him. NPP Jayawewa”. Now Anura Kumara Dissanayake (AKD) is the president of Sri Lanka and Donald Trump is the president of the USA, following the election on 05 November 2024. In short, it was great to note that Donald Trump made the statement endorsing NPP candidate Anura Kumara Dissanayake (AKD) before the presidential election on 21 September 2024.
-
-...
-
-[Data](articles/d673025b.json)
-
-[Extended Data](ext_articles/d673025b.ext.json)
-
----
-
-### Former BASL Chief welcomes NPP’s historic victory, issues caution
-
-*2024-11-16 01:09:33* · [`dailyftlk`](https://www.ft.lk/news/Former-BASL-Chief-welcomes-NPP-s-historic-victory-issues-caution/56-769325) · `en`
-
-Activist and the Bar Association of Sri Lanka’s (BASL) Former President Saliya Pieris PC yesterday hailed the historic victory of National People’s Power (NPP) at Thursday’s Parliamentary Election and stressed the importance of living up to the trust of people.
-
-In a post on Facebook, Pieris said this is the first time one party got two-thirds majority in the Parliament under the proportional representation system if the National People’s Force gets two-thirds majority. Common Front in 2010 and Sri Lanka Podujana Front in 2020 were slightly reduced to two-thirds and had to seek support from some Opposition Ministers to get a two-thirds majority.
-
-The only parallel to this victory is the Presidential Election where the 1994 Prime Minister Chandrika Kumarathunga was appointed as the president.
-
-“The National People’s Force has achieved significant achievements in the North and Eastern regions so that the President can become a leader who can unite various communities in Sri Lanka.
-
-...
-
-[Data](articles/f48dd4ee.json)
-
-[Extended Data](ext_articles/f48dd4ee.ext.json)
-
----
-
-### Over 50 persons arrested for election law violations
-
-*2024-11-16 01:08:42* · [`dailyftlk`](https://www.ft.lk/news/Over-50-persons-arrested-for-election-law-violations/56-769324) · `en`
-
-Over 50 people have been arrested for violating election laws during the Parliamentary polling period, according to Police Spokesperson DIG Nihal Thalduwa
-
-DIG Thalduwa explained that most of the arrests were made due to illegal election campaign activities, such as capturing photographs, tearing ballot papers, distributing money, and engaging in physical assault.
-
-Despite these incidents, the police confirmed that the overall polling period remained relatively peaceful.
-
-◼️
-
-[Data](articles/2a2d3943.json)
-
-[Extended Data](ext_articles/2a2d3943.ext.json)
 
 ---

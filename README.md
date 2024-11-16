@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 08:28:13**
+As of **2024-11-16 09:16:38**
 
 ## Newspaper Stats
 
-*Scraped **55,182** Articles*
+*Scraped **55,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,163
-adaderanalk | 6,652
-tamilmirrorlk | 7,815
+adaderanalk | 6,657
+tamilmirrorlk | 7,818
 virakesarilk | 8,936
 adaderanasinhalalk | 9,537
 
@@ -26,85 +26,287 @@ adaderanasinhalalk | 9,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,177 (100.0%) of 55,182 articles have been extended.
+55,187 (100.0%) of 55,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
 
-### ප්‍රතික්ෂේප වූ ඡන්ද මෙන්න
+### Over 667,000 votes rejected in 2024 General Election
+
+*2024-11-16 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103532/over-667000-votes-rejected-in-2024-general-election-) · `en`
+
+The Election Commission has confirmed that a total of 667,240 votes were rejected during the 2024 general election.
+
+According to Commissioner General of Elections, Saman Sri Ratnayake, the election recorded the following figures:
+
+Meanwhile, the Executive Director of the People’s Action for Free and Fair Elections (PAFFREL), Rohana Hettiarachchi, described this election as the most peaceful in the country’s history.
+
+◼️
+
+[Data](articles/053e4bae.json)
+
+---
+
+### Indian High Commission welcomes NPP’s win in Sri Lanka, reaffirms commitment to bilateral ties
+
+*2024-11-16 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103531/indian-high-commission-welcomes-npps-win-in-sri-lanka-reaffirms-commitment-to-bilateral-ties) · `en`
+
+India extended wishes to Sri Lanka’s National People’s Power (NPP) party after their victory in the country’s parliamentary elections.
+
+The High Commission of India in Colombo congratulated President and NPP leader Anura Kumara Dissanayake on the party’s win, reaffirming India’s commitment to strengthening bilateral ties between the two nations.
+
+Sharing a post on X, the High Commission of India in Colombo wrote, “HC Santosh Jha called on the President & Leader of NPP Anura Kumara Dissanayake to congratulate on NPP’s victory in Sri Lanka #ParliamentaryElections2024.”
+
+“As a fellow democracy, India welcomes the mandate & remains committed to further strengthening bilateral ties for the benefit of our people,” the post added.
+
+Sri Lankan President Dissanayake’s leftist coalition registered a landslide victory in Sri Lanka’s snap parliamentary elections, according to official results announced by the country’s election commission.
+
+...
+
+[Data](articles/d2d7e0ea.json)
+
+---
+
+### 21ஆம் திகதி பாராளுமன்றத்தில் என்ன நடக்கும்?
+
+*2024-11-16 08:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதி-பாராளுமன்றத்தில்-என்ன-நடக்கும்/175-347283) · `ta`
+
+அன்றைய தினம், பாராளுமன்றத்தின் முக்கிய பொறுப்புகள் பாராளுமன்றத்தின் பொதுச் செயலாளருக்கு வழங்கப்படும் என அறிவிக்கப்பட்டுள்ளது.
+
+முதல் அமர்வின் போது, உறுப்பினர்களுக்கு இருக்கை ஏற்பாடு இல்லை. அதன்படி, எம்.பி.க்கள் எந்த இருக்கையில் வேண்டுமானாலும் அமரலாம்.
+
+செங்கோளை வைத்த பிறகு சட்டசபையின் வேலை தொடங்கும். முதலில் புதிய சபாநாயகர் தேர்வு செய்யப்படுவார்.
+
+முதலில் சபாநாயகர் பதவிப் பிரமாணம் செய்து வைப்பது பாராளுமன்ற மரபு. அதன்பின், எம்.பி,க்கள் பதவியேற்பு விழா நடக்க உள்ளது.
+
+துணை சபாநாயகர் மற்றும் ஏனைய முக்கியஸ்தர்கள் பாராளுமன்ற வாக்கெடுப்பு மூலம் தேர்ந்தெடுக்கப்படுவார்கள் என்றும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/9d41e8e4.json)
+
+---
+
+### Rejection of about 6 lakh votes
+
+*2024-11-16 08:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-6-இலட்சம்-வாக்குகள்-நிராகரிப்பு/175-347282) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rejection of 667,240 votes in Sri Lanka's general election. Commissioner Saman Sri Ratnayake noted this high rejection rate. Despite this, PAFRAL's Rohana Hettiarachchi called it the most peaceful election in history.
+
+🟩
+
+Commissioner General of the Elections Commission Saman Sri Ratnayake pointed out that 667,240 votes were rejected of the votes cast in this year's general election.
+
+Meanwhile, the Executive Director of the PAFRAL Organization Rohana Hettiarachchi said that this election could be said to be the most peaceful election in history.. Remble
+
+◼️
+
+[Data](articles/e742892c.json)
+
+[Extended Data](ext_articles/e742892c.ext.json)
+
+---
+
+### President AKD thanks voters for landmark election victory
+
+*2024-11-16 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103530/president-akd-thanks-voters-for-landmark-election-victory) · `en`
+
+President Anura Kumara Dissanayake has expressed gratitude to voters for delivering a historic victory in the general election.
+
+The President conveyed his thanks through a note posted on his ‘X’ account, stating, “Thank you to all who voted for a renaissance!”
+
+In the 2024 general election held on November 14, the National People’s Power (NPP) secured a landmark victory, winning 159 seats in the parliament.
+
+◼️
+
+[Data](articles/c52fdb5b.json)
+
+[Extended Data](ext_articles/c52fdb5b.ext.json)
+
+---
+
+### Thunderstorm
+
+*2024-11-16 08:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-347281) · `ta`
+
+Thunderstorms forecasted nationwide today, especially after 2 PM. Heavy rains predicted in central and southern regions. Lightning warnings issued for affected areas.
+
+🟩
+
+Thundershowers will occur in many parts of the country this evening, the Department of Meteorology said.
+
+Rainfall or thunderstorms are expected after 2.00 pm in most parts of the country.
+
+Rainfall is expected in a few places in the Northern and Eastern Provinces and Hambantota district.
+
+Heavy rains are expected in some parts of the upper, Sabaragamuwa, Central and Southern Provinces.
+
+In the morning, in some places in the Western, Sabaragamuwa, Central and Uva Provinces, Galle and Matara districts.
+
+Thunderstorms can be temporarily blowing with thunderstorms, and they have been asked to protect themselves from the impacts of lightning strikes. Remble
+
+◼️
+
+[Data](articles/cdd9f7b4.json)
+
+[Extended Data](ext_articles/cdd9f7b4.ext.json)
+
+---
+
+### Police announce post-election measures
+
+*2024-11-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103529/police-announce-post-election-measures) · `en`
+
+The police have announced that the post-election period will remain in effect for one week following the declaration of the general election results.
+
+Providing clarification on the matter, Police Spokesman DIG Nihal Thalduwa stated that the police have been placed on high alert across the country during this period.
+
+“The post-election period has now begun. No meetings, rallies, or similar gatherings are permitted in public places for a week. As such, the police are on full alert and will continue to ensure security through mobile patrols across the island. Intelligence officers are also on duty, and special security arrangements have been made for identified police divisions,” he said.
+
+The Police Media Spokesman further noted that a total of 581 individuals were arrested for violating election laws during the pre-election period.
+
+“No acts of violence were reported from any area. Of the 581 arrested, 18 are candidates, while the rest are their supporters,” he added.
+
+◼️
+
+[Data](articles/3ca430b2.json)
+
+[Extended Data](ext_articles/3ca430b2.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-16 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103528/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island after 2.00 p.m. Showers may occur at few places in the Northern and Eastern provinces and in Hambantota district during the morning too.
+
+Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, it added.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/054e90bc.json)
+
+[Extended Data](ext_articles/054e90bc.ext.json)
+
+---
+
+### Here are the denied votes
 
 *2024-11-16 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203417) · `si`
 
-මෙවර මහ මැතිවරණයේදී ප්‍රකාශිත ඡන්ද සංඛ්‍යාවෙන් ඡන්ද 667, 240ක් ප්‍රතික්ෂේපවී ඇති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Here's a summary in 200 characters:
 
-මැතිවරණ කොමිෂන් සභාවේ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා ඒ බව පෙන්වා දුන්නේය.
 
-මේ අතර ඉතිහාසයේ පැවති සාමකාමීම මැතිවරණය ලෙස මෙම මැතිවරණය හැඳින්විය හැකි බව පැෆ්රල් සංවිධානයේ විධායක අධ්‍යක්ෂ රෝහණ හෙට්ටිආරච්චි මහතා සඳහන් කළේය.
+
+Elections Commission reports 667 rejected votes in general election. Commissioner Saman Sri Ratnayake comments. PAFFREL Executive Director Rohana Hettiarachchi describes it as most peaceful election in history.
+
+🟩
+
+The Elections Commission says that 667 votes have rejected the number of votes in this year's general election.
+
+The Commissioner General of Elections Saman Sri Ratnayake said that.
+
+Meanwhile, the Executive Director of PAFFREL Rohana Hettiarachchi said that the peaceful in history is the election in the election.
 
 ◼️
 
 [Data](articles/e8411f62.json)
 
+[Extended Data](ext_articles/e8411f62.ext.json)
+
 ---
 
-### යතුරුපැදියක් දුම්රියේ ගැටී ජීවිතයක් අහිමි වෙයි
+### Motorcycle falls on a train
 
 *2024-11-16 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203416) · `si`
 
-මඩකලපුව සිට කොළඹ කොටුව බලා ධාවනය වූ උදය දේවී දුම්රියේ යතුරුපැදියක් ගැටී මාරක අනතුරක් සිදුවී තිබේ.
+Motorcycle crashes into another bike on train. Incident happened near Habarana, Sri Lanka. 69-year-old man from Kekirawa injured.
 
-ඊයේ (15) දහවල් හබරණ පොලිස් වසමේ හබරණ බෙල්ලන්කඩවල අතුරු මාර්ගයේදී මෙම අනතුර සිදුවී ඇත.
+🟩
 
-මියගොස් ඇත්තේ වයස අවුරුදු 69ක් වූ කිනිහිරිගම, කැකිරාව ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A motorcycle hitting a motorbike rollidated from Batticaloa to Colombo Fort.
+
+The accident occurred at the interim route of Habarana Bellankadawala in Habarana Police yesterday.
+
+The victim is a 69 year old resident of Kekirawa area.
 
 ◼️
 
 [Data](articles/3a2987da.json)
 
+[Extended Data](ext_articles/3a2987da.ext.json)
+
 ---
 
-### පශ්චාත් මැතිවරණ සමය ගැන පොලීසියෙන් දැනුම්දීමක්
+### Police Notification on Post Election Season
 
 *2024-11-16 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203415) · `si`
 
-මහ මැතිවරණයේ ප්‍රතිඵල ප්‍රකාශ කළ දිනයේ සිට සතියක කාලයක් පශ්චාත් මැතිවරණ කාලසීමාව ක්‍රියාත්මක බව පොලීසිය දැනුම්දෙයි.
+Here's a summary of the text in approximately 200 characters:
 
-ඒ සම්බන්ධයෙන් කරුණු පැහැදිලි කරන පොලිස් මාධ්‍ය ප්‍රකාශක, නියෝජ්‍ය පොලිස්පති නීතිඥ නිහාල් තල්දූව මහතා පැවසුවේ පශ්චාත් මැතිවරණ කාලය තුළ රට පුරා පොලීසිය සීරුවෙන් තබා ඇති බවය.
 
-"දැන් ආරම්භ වෙන්නේ පශ්චාත් මැතිවරණ කාලසීමාව. සතියක කාලයක් තුළ කිසිදු ආකාරයක පොදු ස්ථානවල රැස්වීම් පැවැත්වීම, පෙළපාලි යෑම ආදිය සිදුකරන්න බැහැ. ඒ නිසා මේ කාලසීමාව තුළ සම්පූර්ණයෙන්ම පොලීසිය සීරුවෙන් තබා තිබෙනවා. තවදුරටත් දිවයින පුරාම ජංගම සංචාරවල යෙදීමෙන් අවශ්‍ය ආරක්ෂාව ලබාදෙමින් කටයුතු කරනවා. බුද්ධි නිලධාරීන් රාජකාරී කටයුතුවල යෙදී සිටිනවා. විශේෂයෙන් හඳුනාගත් පොලිස් වසම් තුළ විශේෂ ආරක්ෂාවක් සපයනවා."
 
-පූර්ව මැතිවරණ කාලසීමාව තුළ මැතිවරණ නීති උල්ලංඝනය කළ පුද්ගලයින් 581ක් දෙනෙකු අත්අඩංගුවට ගෙන ඇති බවද පොලිස් මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+Post-election season begins immediately. Police vigilant nationwide. Protests, gatherings banned for one week. Intelligence officers deployed. 581 arrests made before election. No reported violence.
 
-"කිසිම ප්‍රදේශයකින් ප්‍රචණ්ඩ ක්‍රියාවක් වාර්තා වුණේ නැහැ. මේ වනවිට අත්අඩංගුවට ගෙන ඇති පුද්ගලයින් 581 අතර අපේක්ෂකයන් 18 දෙනෙක් සිටිනවා. අනෙක් පිරිස ආධාරකරුවන්."
+🟩
+
+The police are informed that the post-election duration is being implemented a week from the date of the results of the general election.
+
+Police Media Spokesperson, Attorney-at-Law, DIG's Court Attorneys, said that the police spokesman, lawyer, said that the police were alert at the country during post-election period.
+
+"The post-election duration begins now. Conducting meetings, marching, capture in any form of public places within a week. Therefore, the police are completely kept in this time period. Mobile traveling throughout the island and is being provided with the necessary protection. Intelligence officers are engaged in duties. Provides special security in the identified policemains. "
+
+581 persons have been arrested during pre-election period during the pre-election period.
+
+"There was no violence in any area. There are 18 candidates between 581 people who have been arrested by now. Other group supporters. "
 
 ◼️
 
 [Data](articles/28db8a9f.json)
 
+[Extended Data](ext_articles/28db8a9f.ext.json)
+
 ---
 
-### අද සවස ලොකු වැස්සක්
+### A big rain this evening
 
 *2024-11-16 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203414) · `si`
 
-අද (16) දින‍ෙයේ සවස් කාලයේදී දිවයිනේ බොහෝ ප්‍රදේශවල ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Rain expected tonight, thunderstorms in various areas. Lightning warning issued. Heavy showers forecasted for western, central, southern regions. Strong gusts possible during storms.
 
-ඒ සඳහා හිතකර වායුගෝලීය තත්ත්වය තවදුරටත් පවතින බැවින් අකුණු මගින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවරගන්නා ලෙස එම දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලීමක් කරයි.
+🟩
 
-දිවයිනේ බොහෝ ප්‍රදේශවල ප.ව.2:00න් පමණ පසුව වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වෙයි.
+Thundershowers will occur at several places in the island today (16).
 
-උතුරු සහ නැගෙනහිර පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් ස්ථාන ස්වල්පයක උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+The department requests the public to take steps to reduce the dangers caused by lightning, as the gemper is still available.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ දකුණු පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75ක පමණ තරමක තද වැසි ඇති වෙයි.
+Showers or thundershowers will occur in many parts of the island.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+Showers will occur in the Northern and Eastern Provinces and in the morning in the Hambantota district.
 
-ගිගුරුම් සහිත වැසි සමග තාවකාලික තද සුළං ද ඇතිවිය හැකි බවට අනතුරු අඟවයි.
+Heavy showers in some places in the Western, Sabaragamuwa, Central and Southern provinces.
+
+Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
+
+Temporary winds can also cause temporary strong winds with thunderstorms.
 
 ◼️
 
 [Data](articles/f6c194c9.json)
+
+[Extended Data](ext_articles/f6c194c9.ext.json)
 
 ---
 
@@ -225,6 +427,8 @@ The parliamentary election on 14th November 2024 was to be like no other in Sri 
 ...
 
 [Data](articles/0f995158.json)
+
+[Extended Data](ext_articles/0f995158.ext.json)
 
 ---
 
@@ -2027,169 +2231,5 @@ It is worth noting that the people of Mullaitivu today greeted the victory in th
 [Data](articles/8cc8d207.json)
 
 [Extended Data](ext_articles/8cc8d207.ext.json)
-
----
-
-### Batticaloa Voting Details
-
-*2024-11-15 14:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மட்டக்களப்பு-விருப்பு-வாக்கு-விபரம்/175-347260) · `ta`
-
-Here's a summary of Batticaloa voting details in approximately 200 characters:
-
-
-
-Batticaloa district election results: 2023. Key races: Presidential (Gotabaya Rajapaksa wins), Parliamentary (SLPP leads). Voter turnout: 75%. Controversies: Alleged voter suppression, ballot box irregularities. Future outlook: Potential recounts, legal challenges.
-
-🟩
-
-◼️
-
-[Data](articles/01368cc1.json)
-
-[Extended Data](ext_articles/01368cc1.ext.json)
-
----
-
-### Monaragala District preferential vote results
-
-*2024-11-15 14:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103512/monaragala-district-preferential-vote-results-) · `en`
-
-The preferential vote results of the Monaragala District in the 2024 General Election have been released.
-
-NPP’s R.M. Jayawardena has polled the highest number of preferential votes in the Monaragala District.
-
-H.M. Dharmasena has obtained the highest number of preferential votes for the SJB to secure the only seat for SJB in the district.
-
-◼️
-
-[Data](articles/718868e3.json)
-
-[Extended Data](ext_articles/718868e3.ext.json)
-
----
-
-### Moneragala Preferences
-
-*2024-11-15 14:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203392) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Moneragala: National power won 5 seats in district-wide election results."
-
-🟩
-
-According to the overall result of the district, the national power was entitled to five seats.
-
-◼️
-
-[Data](articles/6bcbc7e1.json)
-
-[Extended Data](ext_articles/6bcbc7e1.ext.json)
-
----
-
-### List of candidates and preferential votes in Sri Lanka 2024 election
-
-*2024-11-15 14:12:00* · [`economynextcom`](https://economynext.com/list-of-candidates-and-preferential-votes-in-sri-lanka-2024-election-188007/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s 2024 general elections has returned an overwhelming majority of candidates from the National People’s Power of President Anura Dissanayake followed by the Samagi Jana Balwegaya.
-
-The following is a list of reported candidates and preferential votes in the 2024 general election
-
-Compiled based on Rupavahini, Times Online, Ada Derana, and Newswire reports. (Colombo/Nov15/2024)
-
-◼️
-
-[Data](articles/5b750c07.json)
-
-[Extended Data](ext_articles/5b750c07.ext.json)
-
----
-
-### Japan ambassador congratulates Sri Lanka on peaceful and democratic election
-
-*2024-11-15 14:10:00* · [`economynextcom`](https://economynext.com/japan-ambassador-congratulates-sri-lanka-on-peaceful-and-democratic-election-188068/) · `en`
-
-ECONOMYNEXT – Ambassador of Japan to Sri Lanka Akio Isomata has congratulated Sri Lanka’s people on the peaceful and democratic parliamentary elections.
-
-He commended Sri Lankan people’s active engagement in the democratic process, and extended congratulations to all newly elected members of the parliament, the Embassy of Japan in Sri Lanka said in a statement.
-
-“Japan looks forward to working closely with the government, newly-elected parliamentarians and people of Sri Lanka, to achieve peace and prosperity in our countries and in the world, further deepening mutual trust and strengthening the bonds of friendship between our two countries.
-
-“History demonstrates that the friendship between Japan and Sri Lanka has grown stronger over the decades. Japan is confident that the elections on 14 November along with the Presidential election in September in Sri Lanka mark the beginning of a new chapter in further strengthening our bilateral relationship.” (Colombo/Nov15/2024)
-
-◼️
-
-[Data](articles/70da691c.json)
-
-[Extended Data](ext_articles/70da691c.ext.json)
-
----
-
-### All-island final results of 2024 General Election released
-
-*2024-11-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103511/all-island-final-results-of-2024-general-election-released) · `en`
-
-The Election Commission of Sri Lanka has released the all-island final results in the 2024 General Election with the National People’s Power (NPP) securing a resounding victory in the Parliamentary Poll.
-
-NPP has won 159 seats including 18 bonus seats after polling a total of over 6.8 million votes, which is 61.56% of the total votes counted.
-
-Meanwhile, Samagi Jana Balawegaya (SJB) becomes the main opposition party of the tenth Parliament after polling over 1.9 million votes (17.66%) and thereby obtaining 40 seats including 5 bonus seats.
-
-Ilankai Thamil Arasu Kachchi (ITAK) has won 8 seats including 1 bonus seat, New Democratic Front (NDF) has won 5 seats including 2 bonus seats while the Sri Lanka Podujana Peramuna (SLPP) has managed only 3 seats including 1 bonus seat.
-
-Meanwhile, ‘Sarvajana Balaya’ failed to win any seats, however, has managed to secure one bonus seat.
-
-...
-
-[Data](articles/03a73403.json)
-
-[Extended Data](ext_articles/03a73403.ext.json)
-
----
-
-### Overall Result of General Election
-
-*2024-11-15 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203391) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-National folk force won 18 national list seats. Reconciliation party secured 5 national listings.
-
-🟩
-
-There have been 18 national list seats where the national folk force.
-
-The reconciliation has won five national listings, which have won 5 national listings.
-
-◼️
-
-[Data](articles/bd8906ca.json)
-
-[Extended Data](ext_articles/bd8906ca.ext.json)
-
----
-
-### 2 seats in Vanni at NPP
-
-*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னியில்-2-ஆசனங்கள்-NPP-வசம்/175-347257) · `ta`
-
-Here's a summary of "2 seats in Vanni at NPP" in approximately 200 characters:
-
-
-
-N
-
-🟩
-
-◼️
-
-[Data](articles/3e862564.json)
-
-[Extended Data](ext_articles/3e862564.ext.json)
 
 ---

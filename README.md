@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 22:15:28**
+As of **2024-11-16 22:41:11**
 
 ## Newspaper Stats
 
-*Scraped **55,264** Articles*
+*Scraped **55,267** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 430
+dbsjeyarajcom | 431
 colombotelegraphcom | 561
 bbccomsinhala | 565
 islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,168
-adaderanalk | 6,675
+adalk | 5,169
+adaderanalk | 6,676
 tamilmirrorlk | 7,828
 virakesarilk | 8,954
 adaderanasinhalalk | 9,556
@@ -26,11 +26,59 @@ adaderanasinhalalk | 9,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,262 (100.0%) of 55,264 articles have been extended.
+55,266 (100.0%) of 55,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### UNP decides to contest all upcoming elections only under ‘elephant’ symbol
+
+*2024-11-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103551/unp-decides-to-contest-all-upcoming-elections-only-under-elephant-symbol) · `en`
+
+A special discussion on the future political direction of the United National Party (UNP) was held this morning (16) under the leadership of the party’s leader, former President Ranil Wickremesinghe. Several former UNP Members of Parliament participated in the meeting.
+
+The discussion reportedly focused on the party’s strategy for the upcoming elections, with an emphasis on contesting under the ‘elephant’ symbol.
+
+Speaking to the media following the meeting, UNP Chairman and former MP Vajira Abeywardena confirmed that the party plans to contest all upcoming elections under the ‘elephant’ symbol.
+
+Abeywardena stated that this decision was made to strengthen the stability of the party and reinforce its direction as the party moves forward.
+
+The United National Party, one of Sri Lanka’s oldest political parties, has a longstanding association with the ‘elephant’ symbol, which has been central to its identity and voter recognition.
+
+◼️
+
+[Data](articles/f39c1391.json)
+
+[Extended Data](ext_articles/f39c1391.ext.json)
+
+---
+
+### US war ship to the port
+
+*2024-11-16 22:06:46* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-413076) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+US Navy Arleigh Burke Class Destroyer arrives at Colombo Port. Commander Jonathan B. Greenwald leads the ship. USS Michael Murphy to depart November 17, 2024.
+
+🟩
+
+The US Navy, US Navy, arrived at the Port of Colombo today (November 16) to meet the Supplies and Service Visit to meet the service.
+
+Arleigh Burke Class Guided Missile Destroyer is one of the 155.2 meters and the shipwreck of 333 meters and a shipwreck of the ship. Commander Jonathan B. Greenwald works.
+
+Further, following the supplies and service requirements, 'The' USS Michael Murphy 'is due to leave the island on November 17, 2024.
+
+◼️
+
+[Data](articles/7faf7b8b.json)
+
+[Extended Data](ext_articles/7faf7b8b.ext.json)
+
+---
 
 ### Seelarathana Thero questions delay in releasing Colombo, Gampaha preference vote results
 
@@ -694,21 +742,35 @@ In 2019, Carolin Leavitte Truth preserved was attached to the Media Office of th
 
 ---
 
-### දඹුල්ල ආර්ථිකයේ වැටි තිබූ රු. 435000ක මුදල හිමිකරුටම භාරදෙයි
+### Thand of Rs.. 435,000,000 is handed over to the owner
 
 *2024-11-16 15:24:09* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-ආර්ථිකයේ-වැටි-තිබූ-රු--435000ක-මුදල-හිමිකරුටම-භාරදෙයි/11-413074) · `si`
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානය තුළින් වැටී තිබූ  බෑගයක තිබුණු රුපියල් හාර ලක්ෂ තිස් පන්දාහක් පමණ මුදල  හිමිකරු සොයා බාරදීමට  ආර්ථික මධ්‍යස්ථානයේ  කම්කරුවෙකු 16 දින පෙරවරුවේ පියවර ගනු ලැබීය.
+Here's a summary of the text in approximately 200 characters:
 
-දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ කම්කරු සංගමයේ සාමාජිකයෙකු වන මොහොමඩ් අන්වර්  නමැති කම්කරු මහතාට උදෑසන නමයට පමණ   කළු පැහැති බෑගයක්  ආර්ර්ථික මධ්‍යස්ථානය තුළ වැටී තිබී ඇත,  පසුව ඔහු එම කවරය විවෘත කර බලන අවස්ථාවේදී එහි මුදල් තිබුණු බව දැක කම්කරු සංගමයේ සභාපතිවරයා දැනුවත් කොට තිබේ
 
-පසුව ආර්ථික මධ්‍යස්ථාන කම්කරු සංගමයේ සභාපතිවරයා සහ මෙම කම්කරුවා එක්ව දඹුල්ල ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමයේ කළමනාකරු ස තමරසිරි බණ්ඩාර මහතාව දැනුවත් කොට තිබේ.  ඒ අනුව කළමනාකාරවරයා ආර්ථික මධ්‍යස්ථාන වෙළෙඳ සංගමයේ සභාපති සී.එස් සිරිවර්ධන මහතා සහ ව්‍යාපාරිකයන් කිහිප දෙනෙකුට මේ බව දැනුවත් කොට ඇත
 
-වෙළඳ සංගමයේ සභාපති  සි .එස්  සිරිවර්ධන මහතා කළමනාකාරවරයා සමග  ආර්ථික  මධ්‍යස්ථානය තුළ ක්‍රියාත්මක වන ශබ්ද විකාශන යන්ත්‍ර හරහා මුදල් පසුම්බිය අහුලා ගෙන ඇති බවත් එහි නියම හිමිකරුවෙකු අනන්‍යතාවය පෙන්වා රැගෙන යන ලෙස පැය ගණනාවක් දැනුවත් කොට තිබේ
+Rs. 435 million handed over to owner at Dambulla Economic Center. Money found by worker, returned to rightful owner after informing trade union leaders.
+
+🟩
+
+The Economic Center (Economic Center) took steps to hand over the owner in the 16-day of Rs.
+
+The Chairman of the Labor of the Workers The Chairman of the Labor of the Labor of the Dambulla Economic Center has fallen into the database of the morning.
+
+Later, the Chairman of the Economic Center Labor and the Worker, the Manager of the Dambulla Economic Center Trade Union has been informed of the House of Tambarasiri Bandara.Accordingly, the manager of the Economic Center Merchant Association has informed this to KS Siriwardena and several businessmen
+
+Chairman of the Trade Association, CSS Siriwardena has taken the wallet through loudspeakers in the Economic Center, which operates in the economic center.
+
+Atformed about nine a morning, but twelve noon were the owner
+
+Padaviya Siri Siri Vedu Vva, a resident of Siri Siri Vi. The Chairman said Siripala had come to the Economic Center Trade Association's office, the Chairman said.
 
 ...
 
 [Data](articles/35336434.json)
+
+[Extended Data](ext_articles/35336434.ext.json)
 
 ---
 
@@ -2236,6 +2298,26 @@ The Indian High Commissioner to Sri Lanka has posted on his X site that India co
 
 ---
 
+### “Marxism  is not a set philosophy. It is really about providing answers to people’s problems at a particular time and context. We are committed to doing that through development, eliminating rural poverty, rooting out political corruption, achieving social justice and national unity We want to build a clean and beautiful Sri Lanka.” – JVP General Secretary Tilvin Silva.
+
+*2024-11-16 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85082) · `en`
+
+The Janatha Vimukthi Peramuna [JVP or People’s Liberation Front], which leads Sri Lanka’s ruling National People’s Power [NPP], could not have risen to power without widening its appeal and building a mass support base over the last few years, and the current political moment affords the party a chance to rewrite its history, general secretary Tilvin Silva said.
+
+“When you want to obtain power, you need a mass support base,” he said on Friday (November 15, 2024), just as the NPP’s resounding win in the November 14 general elections became evident.
+
+Speaking to The Hindu at the party’s headquarters in Battaramulla near Colombo, Mr. Silva called the election win “a huge achievement”.
+
+“In particular, the victory in Jaffna and in the upcountry area, where we were able to defeat deeply entrenched traditional parties and political families. This gives us a real chance to build a united country,” he said, referring to the JVP’s historic win in the Tamil-majority northern district.
+
+...
+
+[Data](articles/9a27e09b.json)
+
+[Extended Data](ext_articles/9a27e09b.ext.json)
+
+---
+
 ### Vijitha Herath tops the list
 
 *2024-11-16 02:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-முதலிடம்/175-347279) · `ta`
@@ -2475,59 +2557,5 @@ Despite these incidents, the police confirmed that the overall polling period re
 [Data](articles/2a2d3943.json)
 
 [Extended Data](ext_articles/2a2d3943.ext.json)
-
----
-
-### Police ban demonstrations for a week
-
-*2024-11-16 01:08:28* · [`dailyftlk`](https://www.ft.lk/news/Police-ban-demonstrations-for-a-week/56-769323) · `en`
-
-Police have announced that all demonstrations, including vehicle and pedestrian rallies, will be prohibited for one week following the announcement of the Parliamentary Election results.
-
-Police Spokesperson DIG Nihal Talduwa made the statement, stressing that no public gatherings or displays of digital screens to watch the results will be allowed.
-
-DIG Talduwa urged the public to refrain from organising or participating in such activities, warning that authorities will take action to disperse any gatherings.
-
-The police emphasised that the decision was made to maintain public order and ensure safety during this period.
-
-◼️
-
-[Data](articles/fa0935ff.json)
-
-[Extended Data](ext_articles/fa0935ff.ext.json)
-
----
-
-### Serendib Flour Mills sponsors Culinary Championship 2024
-
-*2024-11-16 00:59:00* · [`islandlk`](http://island.lk/serendib-flour-mills-sponsors-culinary-championship-2024/) · `en`
-
-Serendib Flour Mills, manufacturer of 7 Star wheat flour, was the Category Sponsor for Bread and Pastry at the recently concluded Culinary Champions 2024, supporting local industry talent and creativity. Held in Kandy from October 31st to November 2nd, 2024, the prestigious culinary competition showcased Sri Lanka’s finest gastronomists.
-
-Organized by Lanka Exhibition and Conference Services (LECS) in collaboration with the Kandy Hoteliers Association, Cultural Triangle Hoteliers Association, and Nuwara Eliya Hoteliers’ Association, the Culinary Champions 2024 was a landmark event in Sri Lanka’s hospitality industry.
-
-The objective of the competition was to provide a platform for promoting culinary excellence, skills, and abilities of chefs, cooks, pastry chefs, and apprentices. Participants competed in various categories, including the Bread and Pastry category.
-
-...
-
-[Data](articles/bb036e30.json)
-
-[Extended Data](ext_articles/bb036e30.ext.json)
-
----
-
-### Sri Lanka Insurance Life Comprehensive D+, an insurance cover for the diabetic
-
-*2024-11-16 00:59:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-comprehensive-d-an-insurance-cover-for-the-diabetic/) · `en`
-
-In recognition of World Diabetes Day 2024, Sri Lanka Insurance Life highlights its innovative health insurance product tailored specifically for individuals with diabetes: Comprehensive D+. Launched as the first of its kind in Sri Lanka, this unique policy provides diabetic patients—who previously struggled to find adequate health insurance coverage—with essential protection and peace of mind.
-
-Diabetes is a major health challenge in Sri Lanka, affecting a significant portion of the population. According to the International Diabetes Federation, in 2021, 9.8% of Sri Lankan adults had diabetes, while nearly one in four (23%) adults were diagnosed with the disease. Additionally, about one in three (31%) had elevated blood sugar levels, underscoring the urgent need for effective healthcare support.
-
-...
-
-[Data](articles/fe08d8ea.json)
-
-[Extended Data](ext_articles/fe08d8ea.ext.json)
 
 ---

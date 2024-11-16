@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 14:59:52**
+As of **2024-11-16 15:11:06**
 
 ## Newspaper Stats
 
-*Scraped **55,222** Articles*
+*Scraped **55,224** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 428
 colombotelegraphcom | 561
-bbccomsinhala | 564
+bbccomsinhala | 565
 islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,166
-adaderanalk | 6,667
+adaderanalk | 6,668
 tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,222 (100.0%) of 55,222 articles have been extended.
+55,222 (100.0%) of 55,224 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Russian tourist alleges sexual assault at hotel in Ahungalla
+
+*2024-11-16 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103543/russian-tourist-alleges-sexual-assault-at-hotel-in-ahungalla) · `en`
+
+A 41-year-old Russian woman staying at a popular hotel in Ahungalla has alleged that she was raped by a hotel employee on November 12, according to police.
+
+The woman, who is a bank employee, was staying at the hotel and celebrating her birthday on the night of the incident. After consuming alcohol excessively during the celebrations, she reportedly returned to her room, the police said.
+
+However, she has alleged that a hotel staff member entered her room and sexually assaulted her. Following the incident, the woman filed a complaint with Ahungalla Police.
+
+Authorities have identified the suspect, the police said, noting that Ahungalla Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/0fd5fe21.json)
+
+---
 
 ### Sri Lanka’s President to elect 25-member Cabinet on Monday
 
@@ -683,6 +701,24 @@ Meanwhile, the motorcycle rider, who sustained serious injuries, has been admitt
 [Data](articles/a61b1a48.json)
 
 [Extended Data](ext_articles/a61b1a48.ext.json)
+
+---
+
+### ශ්‍රී ලංකා පොදුජන පෙරමුණ: පසුබැස්මට හේතුව කුමක් ද?
+
+*2024-11-16 09:26:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20757jdv62o) · `si`
+
+ආණ්ඩු විරෝධී උද්ඝෝෂණ මාලාවකින් පසුව ඉල්ලා අස් වන්නට සිදු වූ හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ 2019 දී ජනාධිපති අපේක්ෂයා ලෙස දැවැන්ත ජයග්‍රහණයක් අත්පත් කරගත් සහ, 2020 මහ මැතිවරණයේ දී පාර්ලිමේන්තුවේ තුනෙන් දෙකක බලයක් අත්පත් කරගත් ශ්‍රී ලංකා පොදුජන පෙරමුණ 2024 ජනාධිපතිවරණයේ දී මෙන් ම මහ මැතිවරණයේදී දැවැන්ත පසුබෑමකට ලක් වී තිබුණි.
+
+2019 ජනාධිපතිවරණයේ දී ලක්ෂ 69කට අධික ඡන්ද සංඛ්‍යාවක් සහ 52.25%ක ඡන්ද ප්‍රතිශතයක් ලබා ගත් ශ්‍රී ලංකා පොදුජන පෙරමුණට 2024 ජනාධිපතිවරණයේ දී ලබා ගත හැකි වූයේ ඡන්ද 342,781කි.
+
+2005 දී ජනාධිපති ධූරයට පත් වූ මහින්ද රාජපක්ෂ ශ්‍රී ලංකා නිදහස් සන්ධානයේ ජනාධිපති අපේක්ෂකයා වශයෙන් 2010 දී නැවත වතාවක් ජනාධිපතිවරණයට තරග කර ජයග්‍රහණය කළේ රට තුළ ඇතිව තිබූ සිවිල් යුද්ධය 2009 දී අවසන් වූ පසුබිමකයි.
+
+යුද්ධය අවසන් කිරීම සම්බන්ධයෙන් ඔහුට දකුණේ බහුතර සිංහල ජනතාව වෙතින් මහත් ප්‍රසාදයක් හිමි වූ අතර, එවකට ආරක්ෂක ලේකම් වූ ඔහුගේ සහෝදරයෙකු වන ගෝඨාභය රාජපක්ෂට ද එම ජන ප්‍රසාදය හිමි ව තිබුණි.
+
+...
+
+[Data](articles/f2e8fb55.json)
 
 ---
 
@@ -2317,41 +2353,5 @@ Asela Nalin The Lal - Ratna Gamage - 113,719 Hasha Samaraweera - 76,677 Nishanth
 [Data](articles/8b905620.json)
 
 [Extended Data](ext_articles/8b905620.ext.json)
-
----
-
-### Preference vote results of Kegalle District
-
-*2024-11-15 17:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103520/preference-vote-results-of-kegalle-district) · `en`
-
-The preferential vote results of the Kegalle District in the 2024 General Election have been released.
-
-NPP’s Dammika Patabendi has polled the highest number of preferential votes in the Kegalle District.
-
-Kabeer Hashim and Sujith Sanjaya Perera have obtained the highest number of preferential votes for the SJB to secure two parliamentary seats in the district.
-
-◼️
-
-[Data](articles/c7c6ee1f.json)
-
-[Extended Data](ext_articles/c7c6ee1f.ext.json)
-
----
-
-### Puttalam District preference vote results
-
-*2024-11-15 16:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103519/puttalam-district-preference-vote-results) · `en`
-
-The preferential vote results of the Puttalam District in the 2024 General Election have been released.
-
-NPP’s Chandana Abayarathna has polled the highest number of preferential votes in the Puttalam District.
-
-Hector Appuhami and Janath Chithral Fernando have obtained the highest number of preferential votes for the SJB to secure two parliamentary seats in the district.
-
-◼️
-
-[Data](articles/473d458a.json)
-
-[Extended Data](ext_articles/473d458a.ext.json)
 
 ---

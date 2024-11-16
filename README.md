@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 14:01:04**
+As of **2024-11-16 14:13:34**
 
 ## Newspaper Stats
 
-*Scraped **55,219** Articles*
+*Scraped **55,220** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,166
-adaderanalk | 6,664
+adaderanalk | 6,665
 tamilmirrorlk | 7,824
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,219 (100.0%) of 55,219 articles have been extended.
+55,219 (100.0%) of 55,220 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### CC confirms Murdhu Fernando as Chief Justice
+
+*2024-11-16 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103540/cc-confirms-murdhu-fernando-as-chief-justice) · `en`
+
+The Constitutional Council has approved the recommendation to appoint Justice Murdu Fernando as the Chief Justice.
+
+Justice Fernando took oath as the Acting Chief Justice before President Anura Kumara Dissanayake on October 10, 2024.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
+
+She was appointed a President’s Counsel while serving as an additional solicitor general.
+
+She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
+
+◼️
+
+[Data](articles/e86916ab.json)
+
+---
 
 ### Namal is going to Parliament
 
@@ -2337,29 +2359,5 @@ In addition, the National Folk Force is one seat and the Sri Lanka Muslim Congre
 [Data](articles/34f7992a.json)
 
 [Extended Data](ext_articles/34f7992a.ext.json)
-
----
-
-### I do not have the need and desire to make hereditary politics - Anganan Ramanathan
-
-*2024-11-15 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198880) · `ta`
-
-Anganan Ramanathan rejects hereditary politics, focuses on personal growth. Congratulates newly elected MPs, emphasizes serving people's needs. Expresses gratitude for voter support in Jaffna-Kilinochchi districts.
-
-🟩
-
-Former Member of Parliament Anganan Ramanathan sent to the media today (15) that I will take this to my own matters, as well as the need for hereditary politics and the opportunity to take care of my own matters while accepting the results of the parliamentary elections.
-
-I would like to congratulate the members who have been elected to Parliament in the Parliamentary Elections and the Jaffna election district.
-
-The people have taken the responsibilities for the people in the past and gave us the hands of the newcomers. We are not going to have any disgust with the people who gave this decision. We are a newly selected decision to solve the way people living with different needs.
-
-While we are in office, we are fully aware that we have identified the needs of the people and honestly.. I am not a politician who has done nothing like others. The people are confident that this responsibility will continue to be better.
-
-...
-
-[Data](articles/a8464e68.json)
-
-[Extended Data](ext_articles/a8464e68.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 19:59:20**
+As of **2024-11-16 19:41:01**
 
 ## Newspaper Stats
 
-*Scraped **55,252** Articles*
+*Scraped **55,248** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 5,167
 adaderanalk | 6,673
 tamilmirrorlk | 7,828
 virakesarilk | 8,950
-adaderanasinhalalk | 9,553
+adaderanasinhalalk | 9,549
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,248 (100.0%) of 55,252 articles have been extended.
+55,248 (100.0%) of 55,248 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -72,58 +72,6 @@ The discussion was chaired by UNP leader and former president Ranil Wickremesing
 
 ---
 
-### මැතිවරණයෙන් තේරී පත්වූ මන්ත්‍රීවරුන්ගේ නම් ඇතුළත් ගැසට් නිවේදනය නිකුත් කෙරේ
-
-*2024-11-16 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203436) · `si`
-
-2024 පාර්ලිමේන්තු මැතිවරණයෙන් තේරී පත්වූ මන්ත්‍රීවරුන්ගේ නම් ඇතුළත් ගැසට් නිවේදනය නිකුත් කර තිබේ.
-
-මැතිවරණයෙන් තේරී පත්වූ මන්ත්‍රීවරුන්ගේ නම් ඇතුළත් ගැසට් නිවේදනය නිකුත් කෙරේ by poornima on Scribd
-
-◼️
-
-[Data](articles/6033dbd3.json)
-
----
-
-### හැකියාවන් ඇති අය සිර කළ රාමුව කැඩුවා - අම්බිකා
-
-*2024-11-16 18:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203435) · `si`
-
-තමන් පළමුවරට දේශපාලනයට පැමිණීමත් සමග මින් ඉදිරියට වතුකරයේ තරුණ ප්‍රජාව දේශපාලනයට අවතීර්ණ වීමට සූදානමින් සිටින බව පාර්ලිමේන්තුවට තේරී පත්වූ නවක කාන්තා නියෝජනයක් වන අම්බිකා සැමුවෙල් පවසයි.
-
-ඇය පැවසුවේ හැකියාවන් ඇති තරුණ තරුණියන් පිරිසක් වතුකරයේ සිටි නමුත් ඔවුන් යම් රාමුවක කොටු කර තැබූ බවය.
-
-"පළවෙනි වතාවට මම දේශපාලනයට ආවත් එක්කම මගේ නංගිලා මල්ලිලා අනිවාර්යයෙන්ම දේශපාලනයට එනවා. ඒ අය හොඳ හැකියාවන් තියෙන, ජනතාවාදී, දේශයට සේවය කරන්න ආසාවෙන් ඉන්න දරුවන්.  ඒ අය කොටු කරලා තිබ්බේ, යම් කිසි රාමුවක හිටියේ. ඒ රාමුව කැඩුවා. මින් ඉදිරියට හොඳ නායකයෝ ටිකක් කඳුකරයෙන්ද අනෙකුත් දිස්ත්‍රික්කවලින්ද එයි.
-
-විශේෂයෙන්ම කාන්තාවෝ ඒ අය කුස්සියටම කොටුවෙලා හිටපු අය. ඒ අය හොඳ හැකියාවන් තියෙන අය. ඒ අය කොතනද හිටියේ එතන බලපෑමක් තිබුණා. ඒ බලපෑම දේශපාලනයේදී කරන්න බැරිවුණා. දේශපාලනයේදී ඒ තබපු පළවෙනි පිම්මෙන් හොඳ නායකයෝ, හොඳ කාන්තා නියෝජනයක් පාර්ලිමේන්තුවේද අනික් තැන්වලද අනිවාර්යයෙන්ම හැදෙයි."
-
-◼️
-
-[Data](articles/b6a7c2b0.json)
-
----
-
-### ඉදිරි මැතිවරණ ගැන එජාපය ගත් තීරණය
-
-*2024-11-16 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203434) · `si`
-
-එක්සත් ජාතික පක්ෂයේ ඉදිරි දේශපාලනික ගමන් මග පිළිබඳව විශේෂ සාකච්ඡාවක් අද (16) පෙරවරුවේ පවත්වා තිබේ.
-
-එක්සත් ජාතික පක්ෂ නායක, හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් මෙම සාකච්ඡාව පවත්වා ඇති අතර ඊට එක්සත් ජාතික පක්ෂය නියෝජනය කරමින් හිටපු මන්ත්‍රීවරුන් කිහිප දෙනෙකු සහභාගී වී ඇති බව සදහන් වේ.
-
-මෙහිදී ඉදිරි මැතිවරණ වල දී එක්සත් ජාතික පක්ෂය අලියා ලකුණින් තරග වැදීම සම්බන්ධයෙන් දීර්ඝ වශයෙන් සාකච්ඡා වී ඇති බවද වාර්තා වේ.
-
-මේ අතර එක්සත් ජාතික පක්ෂ සභාපති හිටපු පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන පැවසුවේ මීලඟ සියලු මැතිවරණය සඳහා එක්සත් ජාතික පක්ෂය අලියා ලකුණින් තරග කිරීමට සාකච්ඡා කළ බවයි.
-
-එක්සත් ජාතික පක්ෂයේ ස්ථාවරත්වය සහ පක්ෂයේ ගමන්මග ශක්තිමත් කිරීම සඳහා මෙම තීරණය ගත් බවද ඔහු පැවසීය.
-
-◼️
-
-[Data](articles/f8a4085b.json)
-
----
-
 ### 2024 General Election: Voter turnout down 10% compared to presidential poll
 
 *2024-11-16 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103547/2024-general-election-voter-turnout-down-10-compared-to-presidential-poll) · `en`
@@ -143,30 +91,6 @@ He also emphasized that all candidates who contested the election must submit th
 [Data](articles/a2646871.json)
 
 [Extended Data](ext_articles/a2646871.ext.json)
-
----
-
-### කැනඩාවෙත් වැඩ වර්ජන
-
-*2024-11-16 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203433) · `si`
-
-වැටුප් ඉහළ දැමීම ඇතුළු ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් කැනඩාවේ තැපැල් වෘත්තිය සමිති වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
-
-ඔවුන් දින 3ක් වැඩ වර්ජනයේ නිරත වීමට සැලසුම් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කරයි.
-
-ඔවුන් මෙලෙස වැඩ වර්ජනයක් ආරම්භ කර ඇත්තේ වසර 6කින් පසුව දෙවන වරට බව සඳහන් වේ.
-
-උද්ධමනය සහ ජීවන වියදම ඉහළ යාමට සමගාමීව වැටුප් ඉහළ දමන ලෙසට වැඩ වර්ජනයේ නිරත තැපැල් වෘත්තිකයින් ඉල්ලීම් කරයි.
-
-එමෙන්ම සේවා කිරීමට සුදුසු පරිසරයක් නිර්මාණය කර දෙන ලෙස දී ඔවුන් ඉල්ලා සිටී.
-
-තැපැල් සේවකයින්ට වසර 4ක් තුළ දී සියයට 11.5ක වැටුප් ඉහළ දැමීමක් ලබා දීමට බලධාරීන් එකඟ වී ඇත.
-
-කෙසේ වුවද එය ප්‍රමාණවත් නොවන බව වැඩ වර්ජනයෙන් නිරත පිරිසගේ අදහස බව සඳහන් වේ.
-
-◼️
-
-[Data](articles/e8fd117b.json)
 
 ---
 
@@ -2393,5 +2317,109 @@ She had received a staggering 655,289 votes in total and in doing so had set a n
 [Data](articles/a590531e.json)
 
 [Extended Data](ext_articles/a590531e.ext.json)
+
+---
+
+### Pakistan is pledged to further expand long -term relations with Sri Lanka - Pakistan congratulates the Prime Minister
+
+*2024-11-15 21:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/198887) · `ta`
+
+Pakistan PM congratulates Sri Lanka's president-elect, vows to strengthen bilateral ties based on mutual respect and shared values.
+
+🟩
+
+Pakistan Prime Minister Shebash Sharif has congratulated President Anura Kumara Dissanayake's party in the parliamentary election.
+
+He noted that this is a testament to the people's confidence and confidence in the Sri Lankan people on the vision and leadership of President Anura.
+
+Prime Minister Shebash Sharif has stated that Pakistan is committed to further expand his close and long -term relations with Sri Lanka based on the long history of mutual respect, shared values ​​and cooperation.
+
+President Anura Kumara Dissanayake, who thanked his congratulations, said that our government will continue to work with Pakistan to further strengthen the close and long -term relations between the two countries.
+
+◼️
+
+[Data](articles/9969d43c.json)
+
+[Extended Data](ext_articles/9969d43c.ext.json)
+
+---
+
+### Gampaha Preferential Results
+
+*2024-11-15 21:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203413) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Gampaha District election results: National Power party won 16 seats out of total.
+
+🟩
+
+According to the overall result of the district, the national power was served 16 seats.
+
+◼️
+
+[Data](articles/7a0c6e2d.json)
+
+[Extended Data](ext_articles/7a0c6e2d.ext.json)
+
+---
+
+### Vijitha Herath renews Prime Minister Harinini's report
+
+*2024-11-15 21:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203412) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Vijitha Herath wins Gampaha with record 716,715 votes. PM Harini Amarasuriya gets 655,289 in Colombo. National party takes 16 seats.
+
+🟩
+
+Vijitha Herath, who was contesting for the Gampaha District for the general election, has been identified in Gampaha District with 716,715 preferential votes.
+
+It is the highest number of preferential votes received by a candidate in the history of Sri Lanka.
+
+According to the overall result of the district, the national power was served 16 seats.
+
+Prime Minister Harini Amarasuriya had been released before the Colombo district preferential votes.
+
+She had won 14 preferential votes in the Colombo district and 655,289 were the highest number of preferential votes.
+
+◼️
+
+[Data](articles/e14c6554.json)
+
+[Extended Data](ext_articles/e14c6554.ext.json)
+
+---
+
+### Train accident killed in accident
+
+*2024-11-15 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203411) · `si`
+
+Train accident kills two, injures four near Weligama. Driver and passengers from Tiljawali area returning from Galle. Crash occurred as train approached crossing.
+
+🟩
+
+Two members of the family were killed in connection with a small lorry at Weligama Coconut Crossing around 6.20 pm on a train from Matara to Galle.
+
+The other four were injured in the accident have been admitted to the Matara General Hospital and one woman's condition is serious, hospital sources said.
+
+The victims are residents of Tiljjawali, Muslithawall area, who had gone to a cousin in Galle and returned to her home in Galle.
+
+Weligama Police say that the crash has taken place when a train is nearing a train that a train is being flashed.
+
+The victim was a 34 year old driver, 34 year old Dilipaya Front, 34 year old, was the 34 year old driver of the loripa.. The people of Sugathadasa.
+
+The driver of the lorry, which was injured among the injured, has been admitted to the Matara General Hospital and is receiving treatment at the Matara General Hospital.
+
+◼️
+
+[Data](articles/57801dec.json)
+
+[Extended Data](ext_articles/57801dec.ext.json)
 
 ---

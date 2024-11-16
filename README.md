@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 20:11:57**
+As of **2024-11-16 21:00:27**
 
 ## Newspaper Stats
 
-*Scraped **55,252** Articles*
+*Scraped **55,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,44 @@ dailymirrorlk | 4,733
 adalk | 5,167
 adaderanalk | 6,673
 tamilmirrorlk | 7,828
-virakesarilk | 8,950
-adaderanasinhalalk | 9,553
+virakesarilk | 8,954
+adaderanasinhalalk | 9,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,252 (100.0%) of 55,252 articles have been extended.
+55,257 (100.0%) of 55,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Measures to prosecute candidates who do not receive spending reports
+
+*2024-11-16 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203437) · `si`
+
+Saman Sri Ratnayake: Candidates must submit spending reports within 21 days post-election. Legal action will be taken against those who fail to comply. Prosecution extends to both presidential and general election candidates. National list candidates and party secretaries should provide records promptly. Despite peaceful election, 11 arrests were made.
+
+🟩
+
+Elections Commissioner General Saman Sri Ratnayake said that all experts contesting the general election during the 21 days after the election results should be submitted to the Elections Commissioner's Office.
+
+He was speaking at a press conference held at the Elections Commissioner's office this afternoon.
+
+He added that he would take legal action after the end of the time of the candidates who do not give the expenditure.
+
+He also prosecuted the candidates who have not been presented to the last presidential election and will be prosecuted against the candidates of general election.
+
+"Election results were completed last night. All the candidates who contested over the 21 days of the 21 days should be handed over to spending reports. National list candidates should be given to the expenditure report. In addition, all competitors should be handed over to the District Secretariat of the District Commission at the District Secretariat, which handed their names in their nominations.
+
+...
+
+[Data](articles/932bb778.json)
+
+[Extended Data](ext_articles/932bb778.ext.json)
+
+---
 
 ### Names of all elected parliamentarians gazetted
 
@@ -172,6 +198,70 @@ He also emphasized that all candidates who contested the election must submit th
 
 ---
 
+### Announced in the title of 'Wimal 35'
+
+*2024-11-16 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198938) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Vimal stars in "Belladonna" directed by Santosh Babu Muthusamy. Also featuring Tejaswini Sharma and Maxina Bhawam. Cinematography by A. Vinod Bharati, music by C. John Peter. Produced by Sri Tejas under Euboria Blix Company. Vimal's films face low expectations and profits.
+
+🟩
+
+The film crew has announced a special photo of the new movie starring actor Vimal, who is a market -worth actor in the Tamil film industry.
+
+Directed by director Santosh Babu Muthusamy, Vimal, Tejaswini Sharma, Maxina Bhawam and many others star in the film 'Belladona'.
+
+A.. Vinod Bharati is a cinematography film.. C. John Peter is composed.
+
+The film is being produced by Sri Tejas on behalf of Euboria Blix Company.
+
+Meanwhile, Vimal starrer films are making a minimum expectation among fans, with a low profit for producers and filmmakers.
+
+◼️
+
+[Data](articles/0e22f1aa.json)
+
+[Extended Data](ext_articles/0e22f1aa.ext.json)
+
+---
+
+### Dhanush starrer 'Kubera'
+
+*2024-11-16 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198940) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Dhanush, Nagarjuna star in "Kubera". Directed by Shekhar Kammula, music by Devi Sri Prasad. Also features Rashmika Mandanna, Jim Sarbh. Produced by Sri Venkateswara Cinemas and Aamo Creations. First look released, now debut video out. Bilingual (Tamil/Telugu) with Malayalam, Kannada, Hindi versions.
+
+🟩
+
+A special video has been released from the film 'Kubera' starring the heroes of the story, Dhanush and Nagarjuna, the leading stars of the Indian film industry.
+
+Dhanush, Nagarjuna, Rashmika Mantana, Jim Sarf, Talib Tahil and many others have starred in the upcoming film 'Kubera' directed by Shekhar Kammula, a national award -winning director.
+
+The film, which has been recorded by Niketh Pommi, has composed the film 'Rock Star' Devi Sri Prasad.
+
+The film is being produced by Sri Venkateswara Cinemas and Aamo Creations, which is being produced by producers Sunil Narang and Puskur Ram Mohan Rao.
+
+The first look of the film was released and was a great welcome. In this case, the film's debut video has been released.
+
+Dhanush -Nagarjuna and Rashmika Mantana - appear on the screen and attract fans.
+
+The film, which is directly ready in both Tamil and Telugu, has been translated and released in Malayalam, Kannada and Hindi.
+
+◼️
+
+[Data](articles/d7de5636.json)
+
+[Extended Data](ext_articles/d7de5636.ext.json)
+
+---
+
 ### Strikes in Canada
 
 *2024-11-16 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203433) · `si`
@@ -223,6 +313,86 @@ Historically, constituencies such as Colombo-North, Central, East, and West have
 [Data](articles/cda05170.json)
 
 [Extended Data](ext_articles/cda05170.ext.json)
+
+---
+
+### Greeting the President of Canada for election victory
+
+*2024-11-16 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198939) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Greetings to Canada's President on election win. Implementing 13th Amendment & holding provincial council polls crucial for robust regional governance & local representation until new constitution approval.
+
+🟩
+
+Putting the 13th Amendment and holding the Provincial Council election: Until the new constitution is approved, the fullest implementation of the 13th Amendment and conducting provincial council elections are important measures to strengthen regional governance and ensure local government representation.
+
+◼️
+
+[Data](articles/32be4669.json)
+
+[Extended Data](ext_articles/32be4669.ext.json)
+
+---
+
+### Samudrakani starrer 'Raja Glyi'
+
+*2024-11-16 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198936) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Raja Kili", starring Samudrakani, releases on 29th. Directed by Samudrakani, featuring Thambi Ramaiah, Daniel Balaji, M.S. Bhaskar. Music by Kedarnath, Sai Dinesh. Produced by Suresh Kamakshi's V House Productions. Preview viewed by over 3 million last year.
+
+🟩
+
+The release date of the film 'Raja Kili', which plays the lead role in the director and actor Samudrakani, has been officially announced with a special photo.
+
+Samudrakani, Thambi Ramaiah, late actor Daniel Balaji and M. S.. Bhaskar, Prince, 'Aadulam' Narain, fruit. Many others including Karupaya, Reshma Pasupuletty.
+
+Kedarnath and S. Thambi Ramaiah and Sai Dinesh have composed the film for the film, which has been recorded by Gopinath.
+
+The film was produced by famous producer Suresh Kamakshi on behalf of V House Productions.
+
+The preview of the film was released last year and was a record of over three million viewers.
+
+The film, which has been waiting for the release for a long time, has been announced on the 29th of this month at the film House.
+
+◼️
+
+[Data](articles/55a4225e.json)
+
+[Extended Data](ext_articles/55a4225e.ext.json)
+
+---
+
+### Mass attack on political party office in Batticaloa
+
+*2024-11-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198920) · `ta`
+
+Attack damages political office in Batticaloa. Complaint filed at Kattankudy Police Station. Office belonged to MI Abdul Wahhab, who ran in Batticaloa district PA election. Mirrors destroyed, advertising posts built by attackers. No injuries as office empty during attack.
+
+🟩
+
+A complaint has been lodged at the Kattankudy Police Station that the office has been severely damaged by a massive attack on the party office in the Batticaloa district on Friday (15).
+
+The office of the office said that the election office, which was located on the Poonchimunai Darussalam Playground road belonging to the Kattankudi division of Batticaloa, may have been attacked midnight or early this morning.
+
+The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
+
+The mirrors of the office were completely damaged in the attack and the advertising posts were built by the attackers.. Was able to observe
+
+There was no life or injuries because there was no one in the office at the time of the attack
+
+◼️
+
+[Data](articles/70bc29ca.json)
+
+[Extended Data](ext_articles/70bc29ca.ext.json)
 
 ---
 
@@ -671,32 +841,6 @@ In 1985, the Attorney General's Department had joined the Attorney General's Dep
 [Data](articles/7a30e633.json)
 
 [Extended Data](ext_articles/7a30e633.ext.json)
-
----
-
-### Mass attack on political party office in Batticaloa
-
-*2024-11-16 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198920) · `ta`
-
-Attack damages political office in Batticaloa. Complaint filed at Kattankudy Police Station. Office belonged to MI Abdul Wahhab, who ran in Batticaloa district PA election. Mirrors destroyed, advertising posts built by attackers. No injuries as office empty during attack.
-
-🟩
-
-A complaint has been lodged at the Kattankudy Police Station that the office has been severely damaged by a massive attack on the party office in the Batticaloa district on Friday (15).
-
-The office of the office said that the election office, which was located on the Poonchimunai Darussalam Playground road belonging to the Kattankudi division of Batticaloa, may have been attacked midnight or early this morning.
-
-The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
-
-The mirrors of the office were completely damaged in the attack and the advertising posts were built by the attackers.. Was able to observe
-
-There was no life or injuries because there was no one in the office at the time of the attack
-
-◼️
-
-[Data](articles/70bc29ca.json)
-
-[Extended Data](ext_articles/70bc29ca.ext.json)
 
 ---
 
@@ -2341,93 +2485,5 @@ At least 17,140,354 were eligible to vote in the general election of 2024, 11,14
 [Data](articles/c85e111b.json)
 
 [Extended Data](ext_articles/c85e111b.ext.json)
-
----
-
-### What is the meaning of NPP’s Parliamentary victory?
-
-*2024-11-15 22:59:03* · [`dailyftlk`](https://www.ft.lk/columns/What-is-the-meaning-of-NPP-s-Parliamentary-victory/4-769309) · `en`
-
-Will Anura Kumara Dissanayake and the top leadership grasp the true significance of their achievement?
-
-Considering the recent past alone, the Parliamentary results clearly build on a process of politicisation that was catalysed by the crisis and the Aragalaya. People are talking everywhere, and they are enthusiastic despite the enduring pressures of crisis and austerity on their households. But we need to remind ourselves that this moment represents a movement with a long genealogy, and not only a charismatic individual. It is now up to a wide set of progressive forces extending beyond the immediate NPP coalition to capitalise on the energy of the electoral victory and channel it in the appropriate direction
-
-...
-
-[Data](articles/1161cf79.json)
-
-[Extended Data](ext_articles/1161cf79.ext.json)
-
----
-
-### General Election 2024: Opportunity to work towards common purpose
-
-*2024-11-15 22:50:36* · [`dailyftlk`](https://www.ft.lk/columns/General-Election-2024-Opportunity-to-work-towards-common-purpose/4-769306) · `en`
-
-For the first time since the enactment of the 1978 Constitution and the advent of the system of proportional representation, the Sri Lankan people have united to confer a two-third majority of its legislative power to a single party, Anura Kumara Dissanayake’s National People’s Power. It also marks the first time that Sri Lankans of all ethnicities across the country all spoke with a single voice, and placed their faith in a single leader.
-
-In one fell swoop, Sri Lanka made clear that it has had enough of race baiting, nepotism, class warfare, corruption, cronyism, political vendettas and rank incompetence.
-
-They saw in President Anura Kumara Dissanayake a leader who they could trust, who sincerely cared for them, who would work hard for them, has no interest in political theatrics and amassing power for himself.
-
-The people could be no clearer – their patience for drama and pettiness has clearly run out.
-
-...
-
-[Data](articles/bb12f3b0.json)
-
-[Extended Data](ext_articles/bb12f3b0.ext.json)
-
----
-
-### Celebrating Sri Lanka’s “bloodless revolution”
-
-*2024-11-15 22:49:16* · [`dailyftlk`](https://www.ft.lk/columns/Celebrating-Sri-Lanka-s-bloodless-revolution/4-769305) · `en`
-
-AKD, your leadership has the potential to bring about a new dawn for Sri Lanka
-
-The people of Sri Lanka have spoken! The time for systemic change has arrived and people have entrusted the new Government with the monumental task, demanding a Government that is no longer willing to accept business as usual—they are calling for a Government that prioritises the public interest, promotes social justice, and ensures that the benefits of development reach every corner of society.
-
-The mandate is clear: Sri Lankans want to see a Government that works for them, not against them —a Government that acts in the national interest and upholds the rights and dignity of every citizen. A truly systemic change to fulfil the promise of a “Change and Corruption-Free” Sri Lanka.
-
-To meet these demands, it must remain fearless, bold, and uncompromising in its pursuit of reform.
-
-...
-
-[Data](articles/aa428d13.json)
-
-[Extended Data](ext_articles/aa428d13.ext.json)
-
----
-
-### Dismantle 76-year charade: Rename and celebrate Independence Day as Memorial Day from 2025 onwards
-
-*2024-11-15 22:36:45* · [`dailyftlk`](https://www.ft.lk/columns/Dismantle-76-year-charade-Rename-and-celebrate-Independence-Day-as-Memorial-Day-from-2025-onwards/4-769295) · `en`
-
-The illusion of civility and humanity in celebrating independence faded as local elites implemented the colonial project of nation-building on the island, primarily through distorting religion, history, archaeology, and national symbols. This approach solidified racist communalism as a means to deny and suppress demands for equal rights and freedom for all. Beneath this façade lies a subtler exclusion: the romanticisation of the nation as ‘mother’ or ‘motherland,’ idealising gendered traits like care, sacrifice, nurturance, and emotional support
-
-...
-
-[Data](articles/85101ce8.json)
-
-[Extended Data](ext_articles/85101ce8.ext.json)
-
----
-
-### Gampaha District preference votes results: Vijitha breaks Harini’s record
-
-*2024-11-15 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103527/gampaha-district-preference-votes-results-vijitha-breaks-harinis-record) · `en`
-
-National People’s Power (NPP) Gampaha District Team Leader Vijitha Herath has received the highest number of preference votes in the history of Sri Lanka’s parliamentary polls with an unprecedented 716,715 votes polled at the 2024 General Election.
-
-Accordingly, this is the highest number of preferential votes gained by a candidate in the General Election in Sri Lanka’s history and shatters a record set earlier today by fellow NPP candidate and Prime Minister Harini Amarasuriya, when the preferential votes results of the Colombo District were announced.
-
-She had received a staggering 655,289 votes in total and in doing so had set a new record for the most preference votes received by a candidate in Sri Lanka’s parliamentary election history.
-
-...
-
-[Data](articles/a590531e.json)
-
-[Extended Data](ext_articles/a590531e.ext.json)
 
 ---

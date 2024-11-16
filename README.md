@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 09:41:42**
+As of **2024-11-16 10:00:45**
 
 ## Newspaper Stats
 
-*Scraped **55,191** Articles*
+*Scraped **55,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,163
-adaderanalk | 6,657
+adaderanalk | 6,658
 tamilmirrorlk | 7,819
 virakesarilk | 8,936
-adaderanasinhalalk | 9,537
+adaderanasinhalalk | 9,538
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,191 (100.0%) of 55,191 articles have been extended.
+55,191 (100.0%) of 55,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Motorcycle pillion rider killed in collision with a train
+
+*2024-11-16 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103533/motorcycle-pillion-rider-killed-in-collision-with-a-train) · `en`
+
+A pillion rider traveling on a motorcycle has been killed yesterday (15) when the Udaya Devi Express Train, en route from Batticaloa to Colombo Fort, collided with the motorcycle at Bellankadawala in the Habarana Police Division.
+
+The deceased has been identified as a 69-year-old resident of Kinihirigama, Kekirawa.
+
+Meanwhile, the motorcycle rider, who sustained serious injuries, has been admitted to Dambulla Base Hospital for treatment.
+
+◼️
+
+[Data](articles/a61b1a48.json)
+
+---
 
 ### Bombing to Amaran's movie theater
 
@@ -55,6 +71,26 @@ Melapalayam police seized CCTV scene records fitted in the area
 [Data](articles/aa5377cb.json)
 
 [Extended Data](ext_articles/aa5377cb.ext.json)
+
+---
+
+### සාලියවැව ඝාතනයක්
+
+*2024-11-16 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203418) · `si`
+
+බලහත්කාරයෙන් නිවසකට ඇතුළුවී කාමරයේ දොර කඩා එහි සිටි පුද්ගලයෙකු ඝාතනය කිරීමේ සිද්ධියක් සාලියවැව ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+මෙම සිද්ධිය ඇතිවී තිබුණේ ඊයේ (15) අලුයම් කාලයේ සාලියවැව පොලිස් වසමේ යාය 07 ප්‍රදේශයේදී ය.
+
+නිවසට ඇතුළුවූ සැකකරුවන් අදාළ පුද්ගලයාට පොලුවලින් පහරදී ඝාතනය සිදුකර තිබෙන බවට පැවසෙයි.
+
+පෙරේදා (14) රාත්‍රියේ පැවති මත්පැන් සාදයකදී ඇතිවූ බහින්බස්වීමක් දුරදිග යෑමෙන් එම සාදයේ සිටි දෙදෙනෙකු පැමිණ මෙම ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+අපරාධයට සම්බන්ධයෙන් අවුරුදු 23 හා 24 වයස්වල පසුවන සාලියවැව ප්‍රදේශයේම පදිංචි සැකකරුවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/a50551ac.json)
 
 ---
 
@@ -2197,49 +2233,5 @@ Rauf Hakeem and Chamindrani Kiriella have secured two parliamentary seats for th
 [Data](articles/085df1fb.json)
 
 [Extended Data](ext_articles/085df1fb.ext.json)
-
----
-
-### Kandy preferential consequences
-
-*2024-11-15 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203393) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Kandy election results: National government wins 9 seats, 2 summoned seats elected, new Democratic Front gains power.
-
-🟩
-
-According to the overall result of the district, the national government was won by nine seats.
-
-In addition, 2 summoned seats and the new Democratic Front was elected to the power of the people.
-
-◼️
-
-[Data](articles/1f5b8bd2.json)
-
-[Extended Data](ext_articles/1f5b8bd2.ext.json)
-
----
-
-### The compasser who seized Moneragala
-
-*2024-11-15 14:51:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மொனராகலையை-கைப்பற்றிய-திசைக்காட்டி/175-347261) · `ta`
-
-Here's a summary of "The compasser who seized Moneragala" in approximately 200 characters:
-
-
-
-A ruthless conqueror claimed control over Moneragala, a strategic location. His swift victory surprised locals and neighboring forces. The region fell under his rule, sparking both admiration and fear among contemporaries.
-
-🟩
-
-◼️
-
-[Data](articles/8078833e.json)
-
-[Extended Data](ext_articles/8078833e.ext.json)
 
 ---

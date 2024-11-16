@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 23:41:37**
+As of **2024-11-17 00:14:29**
 
 ## Newspaper Stats
 
-*Scraped **55,271** Articles*
+*Scraped **55,274** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,169
 adaderanalk | 6,676
-tamilmirrorlk | 7,828
+tamilmirrorlk | 7,831
 virakesarilk | 8,955
 adaderanasinhalalk | 9,557
 
@@ -26,11 +26,85 @@ adaderanasinhalalk | 9,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,269 (100.0%) of 55,271 articles have been extended.
+55,274 (100.0%) of 55,274 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### "Not going to retire" Mahinda Action
+
+*2024-11-16 23:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறப்போவதில்லை-மஹிந்த-அதிரடி/175-347308) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahinda Rajapakse refuses to retire from politics. He believes newcomers should be given a chance to prove themselves. The people have voted for change, sending new representatives to Parliament.
+
+🟩
+
+Former President Mahinda Rajapakse has announced that he will not retire from politics.
+
+He said the success of the national people's power was a positive improvement and that newcomers should be given the opportunity to prove if they could succeed.
+
+The people of this country have voted and sent new people to Parliament.. Remble
+
+◼️
+
+[Data](articles/6dc05f66.json)
+
+[Extended Data](ext_articles/6dc05f66.ext.json)
+
+---
+
+### Gazette Release includes the names of the new MPs
+
+*2024-11-16 23:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்களின்-பெயர்கள்-அடங்கிய-வர்த்தமானி-வெளியீடு/175-347307) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New MPs named in Gazette: 196 elected to 10th Parliament. Special notification issued by Election Commission in 1981. National List MPs (29) announced separately by parties.
+
+🟩
+
+A special gazette notification, comprising the names of the 196 MPs who have been elected to the 10th Parliament.
+
+The Extreme Gazette Notification has been issued by the Election Commission in 1981 in accordance with the Parliamentary Elections Act.
+
+The parties must announce the names of the members to be elected to Parliament through the National List on behalf of the party. The Gazette, which includes the names of the 29 National List MPs, will be published by the Elections Commission. Remble
+
+◼️
+
+[Data](articles/872dfd76.json)
+
+[Extended Data](ext_articles/872dfd76.ext.json)
+
+---
+
+### Attack on SLPP party office
+
+*2024-11-16 23:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/SLPP-கட்சி-காரியாலயத்தின்-மீது-தாக்குதல்/73-347306) · `ta`
+
+Attack on SLPP office: Complaint filed at Kattankudy Police Station. Incident occurred near Batticaloa Election Office. Office belongs to MI Abdul Wahhab, former parliamentary candidate.
+
+🟩
+
+A complaint has been lodged at the Kattankudy Police Station that the PA has been attacked last night.
+
+The office of the office said that the Election Office may have been attacked on the Poonchimunai Darussalam Playground Road, Batticaloa.
+
+The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
+
+◼️
+
+[Data](articles/9e4eef34.json)
+
+[Extended Data](ext_articles/9e4eef34.ext.json)
+
+---
 
 ### UNP decides to contest all upcoming elections only under ‘elephant’ symbol
 
@@ -1386,6 +1460,8 @@ In the general election President Dissanayake’s NPP swept the polls taking a t
 
 [Data](articles/307a958a.json)
 
+[Extended Data](ext_articles/307a958a.ext.json)
+
 ---
 
 ### Train - Lorry collisionTwo killed;Five people injured
@@ -1503,6 +1579,8 @@ He was responding to a question from a reporter whether the new administration w
 ...
 
 [Data](articles/888a76f8.json)
+
+[Extended Data](ext_articles/888a76f8.ext.json)
 
 ---
 
@@ -2511,79 +2589,5 @@ The parliamentary election on 14th November 2024 was to be like no other in Sri 
 [Data](articles/0f995158.json)
 
 [Extended Data](ext_articles/0f995158.ext.json)
-
----
-
-### We congratulate the Southern Political Party to win the North's confidence -UNP Chairman Vajira
-
-*2024-11-16 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198891) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan UNP Chairman Vajira Abeywardena congratulates Southern political party winning Northern confidence. Hails historic victory, sees opportunity for progress. Expresses hope for economic agenda fulfillment and new political culture.
-
-🟩
-
-This government, including the president, has many expectations to be met. We will be looking at how to accomplish it. However, the election of the United National Party (UNP) Chairman Vajira Abeywardena said that the election of a Southern political party has won the North's confidence in the North.
-
-He was speaking at a press conference held at the United National Party office in Galle on Friday (15).
-
-The government, including the president, has won historical victory in the ongoing parliamentary election. We congratulate us on that. Similarly this is a special opportunity for Sri Lanka. The present president and the government that have come to power have succeeded in a matter of unable to accomplish in Sri Lanka's history. We should be happy as Sri Lankans.
-
-...
-
-[Data](articles/f3e6b79c.json)
-
-[Extended Data](ext_articles/f3e6b79c.ext.json)
-
----
-
-### Illegal sand mining in Kilinochchi
-
-*2024-11-16 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198890) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Illegal sand mining in Kilinochchi: Public concern over private lands affected, agricultural fields illegally excavated at night. Demands strict action against illegal miners to protect environment and farmland.
-
-🟩
-
-The public is concerned that illegal sand mining is taking place in many parts of Kilinochchi.
-
-The public has expressed concern that private lands, including field lands, have been affected by illegal sand excavations, and that agricultural lands are illegally compensated for sand in agricultural land at night.
-
-The public has said that the police will not take any action against the police and the police.
-
-The public has demanded that strict action be taken against illegal sand excavators to prevent the impact of the environment and protect agricultural lands.
-
-◼️
-
-[Data](articles/d62cad4b.json)
-
-[Extended Data](ext_articles/d62cad4b.ext.json)
-
----
-
-### The Historic 2024 Parliamentary Election marks the first time that Sri Lankans of all ethnicities across the country  spoke with a single voice, and placed their faith in a single leader- Anura  Kumara  Dissanayake
-
-*2024-11-16 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85073) · `en`
-
-For the first time since the enactment of the 1978 Constitution and the advent of the system of proportional representation, the Sri Lankan people have united to confer a two-third majority of its legislative power to a single party, Anura Kumara Dissanayake’s National People’s Power. It also marks the first time that Sri Lankans of all ethnicities across the country all spoke with a single voice, and placed their faith in a single leader.
-
-In one fell swoop, Sri Lanka made clear that it has had enough of race baiting, nepotism, class warfare, corruption, cronyism, political vendettas and rank incompetence.
-
-They saw in President Anura Kumara Dissanayake a leader who they could trust, who sincerely cared for them, who would work hard for them, has no interest in political theatrics and amassing power for himself.
-
-The people could be no clearer – their patience for drama and pettiness has clearly run out.
-
-...
-
-[Data](articles/d5d48154.json)
-
-[Extended Data](ext_articles/d5d48154.ext.json)
 
 ---

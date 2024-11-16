@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 21:00:27**
+As of **2024-11-16 21:42:06**
 
 ## Newspaper Stats
 
-*Scraped **55,257** Articles*
+*Scraped **55,259** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,167
-adaderanalk | 6,673
+adaderanalk | 6,674
 tamilmirrorlk | 7,828
 virakesarilk | 8,954
-adaderanasinhalalk | 9,554
+adaderanasinhalalk | 9,555
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,257 (100.0%) of 55,257 articles have been extended.
+55,259 (100.0%) of 55,259 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Plantation youth and women poised for political change: Newly elected MP Ambika Samuel
+
+*2024-11-16 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103549/plantation-youth-and-women-poised-for-political-change-newly-elected-mp-ambika-samuel-) · `en`
+
+Ambika Samuel, the newly elected female representative to Parliament, has expressed confidence in the potential of the youth in plantation community and beyond to take an active role in politics.
+
+Speaking about her journey into politics, Samuel, the first female Tamil MP to have been elected through a major political party from the plantation community, emphasized that her entry into the political sphere is not just a personal achievement but a stepping stone for others, especially young people from the plantation sector, who she believes have been confined to outdated frameworks.
+
+“I am the first to enter politics from here, and my brothers and sisters will undoubtedly follow. These are young individuals with immense talent and a genuine desire to serve the country. For too long, they have been trapped within certain limitations, but now that those barriers have been broken, we can expect a new wave of leadership emerging from the hill country and from other districts,” she added.
+
+...
+
+[Data](articles/b6a1bf3a.json)
+
+[Extended Data](ext_articles/b6a1bf3a.ext.json)
+
+---
+
+### The brutal assault who made two teachers who made the two survivors of a student
+
+*2024-11-16 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203438) · `si`
+
+Student assaulted by teachers, hospitalized. Teachers remanded. Girl dies. Post-mortem reveals injuries.
+
+🟩
+
+A student was hospitalized after the attack of two teachers in the Wennappuwa public school.
+
+The deceased has been identified as 16 year old Ramasha Dinnes of 16-year-old Ramasha Dinnes.
+
+The post mortem was revealed at the post mortem examination on the remains of the deceased girl.
+
+Accordingly, the two teachers who were remanded and released on bail to the incident have been remanded until November 18, police said.
+
+Adanarana reports that the inhumane assault was carried out in her class teacher and another teacher on the 23th of August.
+
+The girl had told the police that the girl had spent more than 20 minutes to return from the classroom and had been assaulted and kneeling on the sun.
+
+The two teachers of the Wennappuwa police were arrested and remanded after being produced before court.
+
+The two suspects were released on personal bail in 39 and 57.
+
+The assault was held on 9 August and the student was admitted to the Marawila Hospital for basic treatment.
+
+...
+
+[Data](articles/19486cf7.json)
+
+[Extended Data](ext_articles/19486cf7.ext.json)
+
+---
 
 ### Measures to prosecute candidates who do not receive spending reports
 
@@ -2441,49 +2493,5 @@ The Joint Apparel Association Forum (JAAF), yesterday extended its warm congratu
 [Data](articles/ccb063ef.json)
 
 [Extended Data](ext_articles/ccb063ef.ext.json)
-
----
-
-### Confederation of MSMI congratulates President and NPP
-
-*2024-11-16 00:02:39* · [`dailyftlk`](https://www.ft.lk/business/Confederation-of-MSMI-congratulates-President-and-NPP/34-769320) · `en`
-
-The Confederation of MSMI yesterday via a statement congratulated President Anura Kumara Dissanayake and his party NPP over the victory at Thursday’s Parliamentary election.
-
-“We extend our warmest congratulations to you and the team on your well-deserved landslide victory of National People’s Power. Your leadership, vision, and dedication have been evident throughout your career, and this positive leadership is a testament to your remarkable achievements,” said Confederation of MSMI President Nawaz Rajabdeen.
-
-“We are confident that under your guidance, micro, small and medium industrial enterprises in Sri Lanka will achieve new heights of success and prosperity. Please know that you have our full support as you embark on this exciting journey. Wishing you and the team every success in your tenure,” the statement added.
-
-◼️
-
-[Data](articles/d256e616.json)
-
-[Extended Data](ext_articles/d256e616.ext.json)
-
----
-
-### 2024-11-15 (Friday)
-
-### 5,992,348 out of the registered voters did not vote
-
-*2024-11-15 23:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198888) · `ta`
-
-In the 2024 general election, 65% of eligible voters participated. 11,148,006 cast valid votes, while 5,992,348 did not vote. The election was held at 13,421 centers nationwide, with 3,820,738 candidates also abstaining from voting.
-
-🟩
-
-With 17,140,354 voting in the 2024 general election, 11,148,006 voted and 5,992,348 did not vote.. This time, 65 percent of the votes were cast.
-
-The general election for the tenth parliament was held on Thursday (14) at 13,421 voting centers nationwide.
-
-At least 17,140,354 were eligible to vote in the general election of 2024, 11,148,006 nationwide voted.. Of the total votes cast, 667,640 have been rejected, with 11,815,246 votes accepted as valid votes. Of the total registered voters, 5,992,348 did not vote.
-
-3,820,738 candidates did not vote in the presidential election. In 2024, 17,140,354 were eligible to vote in accordance with the voting, 13,319,616 voted.. Out of the total votes cast, 300,300 votes were rejected and 13,619,916 were adopted as valid votes.
-
-◼️
-
-[Data](articles/c85e111b.json)
-
-[Extended Data](ext_articles/c85e111b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 12:58:57**
+As of **2024-11-16 12:41:39**
 
 ## Newspaper Stats
 
-*Scraped **55,216** Articles*
+*Scraped **55,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,165
-adaderanalk | 6,663
+adalk | 5,164
+adaderanalk | 6,662
 tamilmirrorlk | 7,823
 virakesarilk | 8,943
 adaderanasinhalalk | 9,542
@@ -26,31 +26,11 @@ adaderanasinhalalk | 9,542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,212 (100.0%) of 55,216 articles have been extended.
+55,212 (100.0%) of 55,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### SLPP nominates Namal Rajapaksa for its only National List seat
-
-*2024-11-16 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103538/slpp-nominates-namal-rajapaksa-for-its-only-national-list-seat) · `en`
-
-The Sri Lanka Podujana Peramuna (SLPP) has decided to nominate Namal Rajapaksa as an MP through the party’s National List, SLPP General Secretary Sagara Kariyawasam said.
-
-Kariyawasam announced this while joining a press briefing held this morning (16).
-
-The SLPP managed to secure only 3 seats including one bonus seat (national list) in the Parliament through the results of the 2024 General Election, which was held on November 14.
-
-The number of total votes obtained by the SLPP, once the largest party in Parliament from 2020 to 2024, was only 350,429 (3.14%) in this year’s parliamentary poll.
-
-Meanwhile, Namal Rajapaksa, who also contested in the 2024 Presidential Election which was held two months ago, had managed to obtain only 342,781 votes from across the country, which was 2.57% of the total votes.
-
-...
-
-[Data](articles/5f2997f4.json)
-
----
 
 ### அக்குறனை நகரம்  வெள்ளத்தில் மூழ்கியது !
 
@@ -489,24 +469,6 @@ Economic reform to rescue those who are trapped in economic growth and poverty.
 [Data](articles/e26a3203.json)
 
 [Extended Data](ext_articles/e26a3203.ext.json)
-
----
-
-### ලොරියක් දුම්රියේ ගැටි දෙදෙනෙක් මරුට
-
-*2024-11-16 09:54:11* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියක්-දුම්රියේ-ගැටි-දෙදෙනෙක්-මරුට/11-413071) · `si`
-
-වැලිගම - දෙනිපිටිය අතුරු මාර්ගයේ අනතුරු ඇගවිමේ සංඥා ක්‍රියාත්මක වෙමින් තිබියදි කුඩා ලොරි රථයක් දුම්රිය අතුරු මාර්ගයකින් ධාවනය කිරිමට කටයුතු කිරිමේදි මාතර දෙස සිට ගාල්ල දෙසට ධාවනය වූ දුම්රියේ ගැටි අනතුරක් සිදුව තිබේ.
-
-එම අනතුරින් ලොරි රථයේ ගමන් කළ පුද්ගලයන් හත් දෙනෙක් බරපතල තුවාල ලබා මාතර රෝහලට ඇතුළත් කිරිමෙන් අනතුරුව පුද්ගලයන් දෙදෙනෙක් ජීවිතක්ෂයට පත්ව තිබේ.
-
-මෙසේ ජිවිතක්ෂයට පත්ව ඇත්තේ එම ලොරියේ රියදුරු ලෙස කටයුතු කළ පුද්ගලයා හා තවත් පුද්ගලයෙකි. තවත් කාන්තාවන් දෙදෙනෙක් හා ළමුන් තිදෙනෙක් බරපතල තුවාල ලබා තිබේ.
-
-මිය ගිය පුද්ගලයන් මාතර තෙලිජ්ජවිල පදිංචිකරුවන් වෙයි. ඊයේ සවස මෙම අනතුර සිදුව තිබේ.
-
-◼️
-
-[Data](articles/f2248343.json)
 
 ---
 
@@ -2335,5 +2297,49 @@ In this regard, he added that the parliamentary election results were revealed t
 [Data](articles/a8095d26.json)
 
 [Extended Data](ext_articles/a8095d26.ext.json)
+
+---
+
+### Kegalle Preferential Results
+
+*2024-11-15 16:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203400) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Kegalle Election Results: National party wins 7 seats out of total. Local preferences influence outcome.
+
+🟩
+
+According to the overall result of the district, the national power was owned by seven seats.
+
+◼️
+
+[Data](articles/a2b8a615.json)
+
+[Extended Data](ext_articles/a2b8a615.ext.json)
+
+---
+
+### Puttalam Preferential Results
+
+*2024-11-15 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203399) · `si`
+
+Here's a summary of the Puttalam Preferential Results in 200 characters:
+
+
+
+National power won six seats in the district overall. This outcome reflects the political landscape and voting patterns in Puttalam during that election cycle. The results indicate a strong showing for the national party in this particular region.
+
+🟩
+
+According to the overall result of the district, the national power was owned by six seats.
+
+◼️
+
+[Data](articles/ae32d417.json)
+
+[Extended Data](ext_articles/ae32d417.ext.json)
 
 ---

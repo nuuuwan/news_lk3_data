@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 22:15:28**
+As of **2024-11-16 22:27:09**
 
 ## Newspaper Stats
 
-*Scraped **55,264** Articles*
+*Scraped **55,267** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 430
+dbsjeyarajcom | 431
 colombotelegraphcom | 561
 bbccomsinhala | 565
 islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,168
-adaderanalk | 6,675
+adalk | 5,169
+adaderanalk | 6,676
 tamilmirrorlk | 7,828
 virakesarilk | 8,954
 adaderanasinhalalk | 9,556
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,556
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,262 (100.0%) of 55,264 articles have been extended.
+55,262 (100.0%) of 55,267 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### UNP decides to contest all upcoming elections only under ‘elephant’ symbol
+
+*2024-11-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103551/unp-decides-to-contest-all-upcoming-elections-only-under-elephant-symbol) · `en`
+
+A special discussion on the future political direction of the United National Party (UNP) was held this morning (16) under the leadership of the party’s leader, former President Ranil Wickremesinghe. Several former UNP Members of Parliament participated in the meeting.
+
+The discussion reportedly focused on the party’s strategy for the upcoming elections, with an emphasis on contesting under the ‘elephant’ symbol.
+
+Speaking to the media following the meeting, UNP Chairman and former MP Vajira Abeywardena confirmed that the party plans to contest all upcoming elections under the ‘elephant’ symbol.
+
+Abeywardena stated that this decision was made to strengthen the stability of the party and reinforce its direction as the party moves forward.
+
+The United National Party, one of Sri Lanka’s oldest political parties, has a longstanding association with the ‘elephant’ symbol, which has been central to its identity and voter recognition.
+
+◼️
+
+[Data](articles/f39c1391.json)
+
+---
+
+### ඇමෙරිකා යුද නැවක් කොළඹ වරායට
+
+*2024-11-16 22:06:46* · [`adalk`](https://www.ada.lk/picture_story/ඇමෙරිකා-යුද-නැවක්-කොළඹ-වරායට/10-413076) · `si`
+
+ඇමෙරිකා එක්සත් ජනපද නාවික හමුදාවට අයත් ‘USS Michael Murphy’ යුධ නෞකාව සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමේ සංචාරයක් සඳහා අද (2024 නොවැම්බර් 16 දින) කොළඹ වරායට පැමිණෙන ලද අතර, ශ්‍රී ලංකා නාවික හමුදාව විසින් එම නෞකාව නාවික හමුදා සම්ප්‍රදායන්ට අනුකූලව පිළිගැනීමට කටයුතු කෙරිණි.
+
+මෙලෙස කොළඹ වරායට සේන්දු වූ Arleigh Burke class guided missile destroyer වර්ගයට අයත් ‘USS Michael Murphy’ යුධ නෞකාව, දිගින් මීටර් 155.2 හා නැව් මුළුව 333 ක ගෙන් සමත්විත වන අතර, නෞකාවේ අණදෙන නිලධාරී ලෙස Commander Jonathan B. Greenwald කටයුතු කරනු ලබයි.
+
+තවද, සැපයුම් හා සේවා අවශ්‍යතා සපුරා ගැනීමෙන් අනතුරුව ‘USS Michael Murphy’ නෞකාව 2024 නොවැම්බර් මස 17 වන දින දිවයිනෙන් පිටත්ව යාමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/7faf7b8b.json)
+
+---
 
 ### Seelarathana Thero questions delay in releasing Colombo, Gampaha preference vote results
 
@@ -2236,6 +2272,24 @@ The Indian High Commissioner to Sri Lanka has posted on his X site that India co
 
 ---
 
+### “Marxism  is not a set philosophy. It is really about providing answers to people’s problems at a particular time and context. We are committed to doing that through development, eliminating rural poverty, rooting out political corruption, achieving social justice and national unity We want to build a clean and beautiful Sri Lanka.” – JVP General Secretary Tilvin Silva.
+
+*2024-11-16 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85082) · `en`
+
+The Janatha Vimukthi Peramuna [JVP or People’s Liberation Front], which leads Sri Lanka’s ruling National People’s Power [NPP], could not have risen to power without widening its appeal and building a mass support base over the last few years, and the current political moment affords the party a chance to rewrite its history, general secretary Tilvin Silva said.
+
+“When you want to obtain power, you need a mass support base,” he said on Friday (November 15, 2024), just as the NPP’s resounding win in the November 14 general elections became evident.
+
+Speaking to The Hindu at the party’s headquarters in Battaramulla near Colombo, Mr. Silva called the election win “a huge achievement”.
+
+“In particular, the victory in Jaffna and in the upcountry area, where we were able to defeat deeply entrenched traditional parties and political families. This gives us a real chance to build a united country,” he said, referring to the JVP’s historic win in the Tamil-majority northern district.
+
+...
+
+[Data](articles/9a27e09b.json)
+
+---
+
 ### Vijitha Herath tops the list
 
 *2024-11-16 02:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-முதலிடம்/175-347279) · `ta`
@@ -2475,59 +2529,5 @@ Despite these incidents, the police confirmed that the overall polling period re
 [Data](articles/2a2d3943.json)
 
 [Extended Data](ext_articles/2a2d3943.ext.json)
-
----
-
-### Police ban demonstrations for a week
-
-*2024-11-16 01:08:28* · [`dailyftlk`](https://www.ft.lk/news/Police-ban-demonstrations-for-a-week/56-769323) · `en`
-
-Police have announced that all demonstrations, including vehicle and pedestrian rallies, will be prohibited for one week following the announcement of the Parliamentary Election results.
-
-Police Spokesperson DIG Nihal Talduwa made the statement, stressing that no public gatherings or displays of digital screens to watch the results will be allowed.
-
-DIG Talduwa urged the public to refrain from organising or participating in such activities, warning that authorities will take action to disperse any gatherings.
-
-The police emphasised that the decision was made to maintain public order and ensure safety during this period.
-
-◼️
-
-[Data](articles/fa0935ff.json)
-
-[Extended Data](ext_articles/fa0935ff.ext.json)
-
----
-
-### Serendib Flour Mills sponsors Culinary Championship 2024
-
-*2024-11-16 00:59:00* · [`islandlk`](http://island.lk/serendib-flour-mills-sponsors-culinary-championship-2024/) · `en`
-
-Serendib Flour Mills, manufacturer of 7 Star wheat flour, was the Category Sponsor for Bread and Pastry at the recently concluded Culinary Champions 2024, supporting local industry talent and creativity. Held in Kandy from October 31st to November 2nd, 2024, the prestigious culinary competition showcased Sri Lanka’s finest gastronomists.
-
-Organized by Lanka Exhibition and Conference Services (LECS) in collaboration with the Kandy Hoteliers Association, Cultural Triangle Hoteliers Association, and Nuwara Eliya Hoteliers’ Association, the Culinary Champions 2024 was a landmark event in Sri Lanka’s hospitality industry.
-
-The objective of the competition was to provide a platform for promoting culinary excellence, skills, and abilities of chefs, cooks, pastry chefs, and apprentices. Participants competed in various categories, including the Bread and Pastry category.
-
-...
-
-[Data](articles/bb036e30.json)
-
-[Extended Data](ext_articles/bb036e30.ext.json)
-
----
-
-### Sri Lanka Insurance Life Comprehensive D+, an insurance cover for the diabetic
-
-*2024-11-16 00:59:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-life-comprehensive-d-an-insurance-cover-for-the-diabetic/) · `en`
-
-In recognition of World Diabetes Day 2024, Sri Lanka Insurance Life highlights its innovative health insurance product tailored specifically for individuals with diabetes: Comprehensive D+. Launched as the first of its kind in Sri Lanka, this unique policy provides diabetic patients—who previously struggled to find adequate health insurance coverage—with essential protection and peace of mind.
-
-Diabetes is a major health challenge in Sri Lanka, affecting a significant portion of the population. According to the International Diabetes Federation, in 2021, 9.8% of Sri Lankan adults had diabetes, while nearly one in four (23%) adults were diagnosed with the disease. Additionally, about one in three (31%) had elevated blood sugar levels, underscoring the urgent need for effective healthcare support.
-
-...
-
-[Data](articles/fe08d8ea.json)
-
-[Extended Data](ext_articles/fe08d8ea.ext.json)
 
 ---

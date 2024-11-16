@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 00:00:55**
+As of **2024-11-16 23:41:37**
 
 ## Newspaper Stats
 
-*Scraped **55,274** Articles*
+*Scraped **55,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,169
 adaderanalk | 6,676
-tamilmirrorlk | 7,831
+tamilmirrorlk | 7,828
 virakesarilk | 8,955
 adaderanasinhalalk | 9,557
 
@@ -26,59 +26,11 @@ adaderanasinhalalk | 9,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,269 (100.0%) of 55,274 articles have been extended.
+55,269 (100.0%) of 55,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### “ஓய்வு பெறப்போவதில்லை” மஹிந்த அதிரடி
-
-*2024-11-16 23:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறப்போவதில்லை-மஹிந்த-அதிரடி/175-347308) · `ta`
-
-வெற்றிக்கான போராட்டத்தைக் கைவிடப் போவதில்லை எனத் தெரிவித்த முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ச, அரசியலிலிருந்து ஓய்வு பெறப்போவதில்லை எனவும் அறிவித்துள்ளார்.
-
-தேசிய மக்கள் சக்தியின் வெற்றி ஒரு நேர்மறையான முன்னேற்றம் என்று கூறிய அவர், வெற்றிபெற முடியுமா என்பதை நிரூபிக்க புதியவர்களுக்கு வாய்ப்பு வழங்கப்பட வேண்டும் என்றும் குறிப்பிட்டுள்ளார்.
-
-இந்த நாட்டு மக்களே வாக்களித்து புதியவர்களை பாராளுமன்றத்துக்கு அனுப்பியுள்ளார்கள் மக்கள் ஆணையை நாம் மதிக்க வேண்டும் என்றும் மஹிந்த கூறியுள்ளார். R
-
-◼️
-
-[Data](articles/6dc05f66.json)
-
----
-
-### புதிய எம்.பிக்களின் பெயர்கள் அடங்கிய வர்த்தமானி வெளியீடு
-
-*2024-11-16 23:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்களின்-பெயர்கள்-அடங்கிய-வர்த்தமானி-வெளியீடு/175-347307) · `ta`
-
-10 ஆவது பாராளுமன்றத்துக்குத் தெரிவு செய்யப்பட்டுள்ள 196 பாராளுமன்ற உறுப்பினர்களின் பெயர்கள் அடங்கிய விசேட வர்த்தமானி அறிவித்தல் வெளியாகியுள்ளது.
-
-1981 ஆம் ஆண்டின் முதலாம் இலக்க பாராளுமன்றத் தேர்தல்கள் சட்டத்துக்கமைய, இந்த அதிவிசேட வர்த்தமானி அறிவித்தல் தேர்தல்கள் ஆணைக்குழுவினால் வெளியிடப்பட்டுள்ளது.
-
-கட்சியின் சார்பில் தேசிய பட்டியல் ஊடாக பாராளுமன்றத்துக்குத் தெரிவுசெய்யப்படவுள்ள  உறுப்பினர்களின் பெயர்களைக் கட்சிகள் அறிவிக்க வேண்டும். அதன் பின்னர் 29 தேசிய பட்டியல் பாராளுமன்ற உறுப்பினர்களின் பெயர்கள் அடங்கிய வர்த்தமானி, தேர்தல்கள் ஆணைக்குழுவினால் வெளியிடப்படும். R
-
-◼️
-
-[Data](articles/872dfd76.json)
-
----
-
-### SLPP கட்சி காரியாலயத்தின் மீது தாக்குதல்
-
-*2024-11-16 23:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/SLPP-கட்சி-காரியாலயத்தின்-மீது-தாக்குதல்/73-347306) · `ta`
-
-பொதுஜன பெரமுன கட்சியின் மட்டக்களப்பு மாவட்ட அலுவலகத்தின் மீது நேற்றிரவு தாக்குதல் நடத்தப்பட்டுள்ளதாக காத்தான்குடி பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
-
-மட்டக்களப்பு காத்தான்குடி  பிரிவுக்குட்பட்ட பூநொச்சிமுனை  தாருஸ்ஸலாம் விளையாட்டு மைதான வீதியில் அமைந்திருந்த மேற்படி தேர்தல் அலுவலகத்தின் மீது தாக்குதல் நடத்தப்பட்டிருக்கலாமென அலுவலகத்தின் பொறுப்பாளர் தெரிவித்தார்.
-
-பொதுஜன பெரமுன கட்சியில் மொட்டுச் சின்னத்தில் மட்டக்களப்பு மாவட்டத்தில் பாராளுமன்றத்தில் போட்டியிட்ட எம் ஐ அப்துல் வஹ்ஹாப் என்பவருக்கு சொந்தமான இந்த அலுவலகமே இவ்வாறு தாக்குதலுக்கு உள்ளாகியுள்ளது.
-
-◼️
-
-[Data](articles/9e4eef34.json)
-
----
 
 ### UNP decides to contest all upcoming elections only under ‘elephant’ symbol
 
@@ -2559,5 +2511,79 @@ The parliamentary election on 14th November 2024 was to be like no other in Sri 
 [Data](articles/0f995158.json)
 
 [Extended Data](ext_articles/0f995158.ext.json)
+
+---
+
+### We congratulate the Southern Political Party to win the North's confidence -UNP Chairman Vajira
+
+*2024-11-16 02:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198891) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan UNP Chairman Vajira Abeywardena congratulates Southern political party winning Northern confidence. Hails historic victory, sees opportunity for progress. Expresses hope for economic agenda fulfillment and new political culture.
+
+🟩
+
+This government, including the president, has many expectations to be met. We will be looking at how to accomplish it. However, the election of the United National Party (UNP) Chairman Vajira Abeywardena said that the election of a Southern political party has won the North's confidence in the North.
+
+He was speaking at a press conference held at the United National Party office in Galle on Friday (15).
+
+The government, including the president, has won historical victory in the ongoing parliamentary election. We congratulate us on that. Similarly this is a special opportunity for Sri Lanka. The present president and the government that have come to power have succeeded in a matter of unable to accomplish in Sri Lanka's history. We should be happy as Sri Lankans.
+
+...
+
+[Data](articles/f3e6b79c.json)
+
+[Extended Data](ext_articles/f3e6b79c.ext.json)
+
+---
+
+### Illegal sand mining in Kilinochchi
+
+*2024-11-16 02:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198890) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Illegal sand mining in Kilinochchi: Public concern over private lands affected, agricultural fields illegally excavated at night. Demands strict action against illegal miners to protect environment and farmland.
+
+🟩
+
+The public is concerned that illegal sand mining is taking place in many parts of Kilinochchi.
+
+The public has expressed concern that private lands, including field lands, have been affected by illegal sand excavations, and that agricultural lands are illegally compensated for sand in agricultural land at night.
+
+The public has said that the police will not take any action against the police and the police.
+
+The public has demanded that strict action be taken against illegal sand excavators to prevent the impact of the environment and protect agricultural lands.
+
+◼️
+
+[Data](articles/d62cad4b.json)
+
+[Extended Data](ext_articles/d62cad4b.ext.json)
+
+---
+
+### The Historic 2024 Parliamentary Election marks the first time that Sri Lankans of all ethnicities across the country  spoke with a single voice, and placed their faith in a single leader- Anura  Kumara  Dissanayake
+
+*2024-11-16 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85073) · `en`
+
+For the first time since the enactment of the 1978 Constitution and the advent of the system of proportional representation, the Sri Lankan people have united to confer a two-third majority of its legislative power to a single party, Anura Kumara Dissanayake’s National People’s Power. It also marks the first time that Sri Lankans of all ethnicities across the country all spoke with a single voice, and placed their faith in a single leader.
+
+In one fell swoop, Sri Lanka made clear that it has had enough of race baiting, nepotism, class warfare, corruption, cronyism, political vendettas and rank incompetence.
+
+They saw in President Anura Kumara Dissanayake a leader who they could trust, who sincerely cared for them, who would work hard for them, has no interest in political theatrics and amassing power for himself.
+
+The people could be no clearer – their patience for drama and pettiness has clearly run out.
+
+...
+
+[Data](articles/d5d48154.json)
+
+[Extended Data](ext_articles/d5d48154.ext.json)
 
 ---

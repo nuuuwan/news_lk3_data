@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 20:11:57**
+As of **2024-11-16 20:25:21**
 
 ## Newspaper Stats
 
-*Scraped **55,252** Articles*
+*Scraped **55,257** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailymirrorlk | 4,733
 adalk | 5,167
 adaderanalk | 6,673
 tamilmirrorlk | 7,828
-virakesarilk | 8,950
-adaderanasinhalalk | 9,553
+virakesarilk | 8,954
+adaderanasinhalalk | 9,554
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,252 (100.0%) of 55,252 articles have been extended.
+55,252 (100.0%) of 55,257 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### වියදම් වාර්තා ලබානොදෙන අපේක්ෂකයන්ට එරෙහිව නඩු පැවරීමට පියවර
+
+*2024-11-16 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203437) · `si`
+
+මැතිවරණ ප්‍රතිඵල ප්‍රකාශයට පත්කිරීමෙන් පසුව දින 21ක කාලය තුළ මහ මැතිවරණයට තරග කළ සියලුම අපෙක්ෂකයන් සිය වියදම් වාර්තා මැතිවරණ කොමසාරිස් කාර්යාලය වෙත ඉදිරිපත් කිරීමට කටයුතු කළයුතු බව මැතිවරණ කොමසාරිස් ජනරාල් සමන් ශ්‍රී රත්නායක මහතා පවසයි.
+
+ඒ මහතා මේ බව පැවසුවේ අද පස්වරුවේ (16) මැතිවරණ කොමසාරිස් කාර්යාලයේ පැවති මාධ්‍ය හමුවකදීය.
+
+එහිදි ඔහු වැඩිදුරටත් පැවසුවේ එම වියදම් වාර්තා ලබා නොදෙන අපේක්ෂකයන් සම්බන්ධයෙන් නියමිත කාලය අවසන් වූ පසු නීතිමය පියවර ගැනීමට කටයුතු කරන බවය.
+
+පසුගිය ජනාධිපතිවරණයට ඉදිරිපත් වී වියදම් වාර්තා ලබා නොදුන් අපේක්ෂකයන්ට එරෙහිව මේ වන විටත් නඩු පවරා ඇති බවත් ඒ අයුරින්ම වියදම් වාර්තා ලබානොදෙන මහමැතිවරණයේ අපේක්ෂකයන්ට ද එරෙහිව නඩු පැවරීමට කටයුතු කරන බව ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේය.
+
+...
+
+[Data](articles/932bb778.json)
+
+---
 
 ### Names of all elected parliamentarians gazetted
 
@@ -172,6 +190,48 @@ He also emphasized that all candidates who contested the election must submit th
 
 ---
 
+### 'விமல் 35' படத்தின் டைட்டில் அறிவிப்பு
+
+*2024-11-16 17:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198938) · `ta`
+
+தமிழ் திரையுலகில் சந்தை மதிப்புள்ள நடிகராக வலம் வரும் நடிகர் விமல் நடிப்பில் தயாராகும் புதிய திரைப்படத்திற்கு 'பெல்லடோனா ' என பெயரிடப்பட்டிருப்பதாக படக் குழுவினர் பிரத்யேக புகைப்படத்தை வெளியிட்டு அறிவித்துள்ளனர்.
+
+இயக்குநர் சந்தோஷ் பாபு முத்துசாமி இயக்கத்தில் உருவாகும் 'பெல்லடோனா' எனும் திரைப்படத்தில் விமல் ,தேஜஸ்வினி சர்மா, மேக்சினா பவ்னம் உள்ளிட்ட பலர் நடிக்கிறார்கள்.
+
+ஏ. வினோத் பாரதி ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு ஏ. சி. ஜோன் பீற்றர் இசையமைக்கிறார்.
+
+சுப்பர் நேச்சுரல் திரில்லர் ஜேனரில் தயாராகும் இந்த திரைப்படத்தை யுபோரியா பிளிக்ஸ் நிறுவனம் சார்பில் தயாரிப்பாளர் ஸ்ரீ தேஜாஸ் தயாரிக்கிறார்.
+
+இதனிடையே விமல் நடிப்பில் வெளியான திரைப்படங்கள் தயாரிப்பாளர்களுக்கும், திரையுலகினருக்கும் குறைந்த அளவில் லாபத்தை தருவதால் அவரது நடிப்பில் தயாராகும் சுப்பர் நேச்சர் திரில்லர் திரைப்படமான 'பெல்லடோனா'விற்கு ரசிகர்களிடையே குறைந்தபட்ச எதிர்பார்ப்பு ஏற்பட்டிருக்கிறது என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0e22f1aa.json)
+
+---
+
+### தனுஷ் நடிக்கும் 'குபேரா' படத்தின் பிரத்யேக அறிமுக காணொளி வெளியீடு
+
+*2024-11-16 17:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/198940) · `ta`
+
+இந்திய திரையுலகின் முன்னணி நட்சத்திரங்களான தனுஷ் - நாகார்ஜுனா ஆகியோர் கதையின் நாயகர்களாக நடித்திருக்கும் 'குபேரா' எனும் திரைப்படத்திலிருந்து பிரத்யேக காணொளி வெளியிடப்பட்டிருக்கிறது.
+
+தேசிய விருது பெற்ற இயக்குநரான சேகர் கம்முலா இயக்கத்தில் உருவாகி வரும் 'குபேரா' எனும் திரைப்படத்தில் தனுஷ், நாகார்ஜுனா, ராஷ்மிகா மந்தனா, ஜிம் சர்ப்,  தலீப் தஹில் உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+நிகேத் பொம்மி ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு 'ராக் ஸ்டார்' தேவி ஸ்ரீ பிரசாத் இசையமைத்திருக்கிறார்.
+
+வித்தியாசமான கதை களத்தில் உருவாகி இருக்கும் இந்த திரைப்படத்தை ஸ்ரீ வெங்கடேஸ்வரா சினிமாஸ் மற்றும் அமீகோ கிரியேஷன்ஸ் ஆகிய பட நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் சுனில் நரங் மற்றும் புஸ்குர் ராம் மோகன் ராவ் ஆகியோர் இணைந்து தயாரித்திருக்கிறார்கள்.
+
+இந்த திரைப்படத்தின் முதல் தோற்றப் பார்வை வெளியாகி பெரும் வரவேற்பை பெற்றது. இந்நிலையில் இப்படத்தின் அறிமுக காணொளி வெளியிடப்பட்டிருக்கிறது.
+
+இதில் தனுஷ்- நாகார்ஜுனா, ராஷ்மிகா மந்தானா - ஆகியோர் திரையில் தோன்றி ரசிகர்களை கவர்கிறார்கள்.
+
+...
+
+[Data](articles/d7de5636.json)
+
+---
+
 ### Strikes in Canada
 
 *2024-11-16 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203433) · `si`
@@ -223,6 +283,64 @@ Historically, constituencies such as Colombo-North, Central, East, and West have
 [Data](articles/cda05170.json)
 
 [Extended Data](ext_articles/cda05170.ext.json)
+
+---
+
+### தேர்தல் வெற்றிக்காக ஜனாதிபதிக்கு கனடா தமிழர் பேரவை வாழ்த்து- அரசியல் கைதிகள் விடுதலை பயங்கரவாத தடைச்சட்ட நீக்கம்  குறித்து வலியுறுத்தல்
+
+*2024-11-16 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198939) · `ta`
+
+13வது திருத்தத்தை அமுல்படுத்தி மாகாணசபைத் தேர்தலை நடாத்துதல்: புதிய அரசியலமைப்பு அங்கீகரிக்கப்படும் வரைஇ 13வது திருத்தத்தை முழுமையாக அமுல்படுத்துதல் மற்றும் மாகாண சபைத் தேர்தல்களை நடத்துதல் ஆகியவை பிராந்திய ஆளுகையை வலுப்படுத்துவதற்கும் உள்ளுராட்சிப் பிரதிநிதித்துவத்தை உறுதி செய்வதற்குமான முக்கியமான நடவடிக்கைகளாகும்.
+
+◼️
+
+[Data](articles/32be4669.json)
+
+---
+
+### சமுத்திரக்கனி நடிக்கும் 'ராஜா கிளி' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-11-16 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198936) · `ta`
+
+இயக்குநரும் நடிகருமான சமுத்திரக்கனி கதையை வழிநடத்திச் செல்லும் முதன்மையான கதாபாத்திரத்தில் நடித்திருக்கும்' ராஜா கிளி' எனும் திரைப்படத்தின் வெளியீட்டு திகதி அதிகாரப்பூர்வமாக பிரத்யேக புகைப்படத்துடன் அறிவிக்கப்பட்டுள்ளது.
+
+நடிகரான உமாபதி ராமையா இயக்கத்தில் உருவாகி இருக்கும் 'ராஜா கிளி' எனும் திரைப்படத்தில் சமுத்திரக்கனி, தம்பி ராமையா, மறைந்த நடிகர் டேனியல் பாலாஜி, எம். எஸ். பாஸ்கர், இளவரசு, 'ஆடுகளம்' நரேன், பழ. கருப்பையா, ரேஷ்மா பசுபுலேட்டி உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
+
+கேதார்நாத் மற்றும் எஸ். கோபிநாத் ஆகியோர் இணைந்து ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு தம்பி ராமையா மற்றும் சாய் தினேஷ் ஆகியோர் இணைந்து இசையமைத்திருக்கிறார்கள்.
+
+இந்த திரைப்படத்தை வி ஹவுஸ் புரொடக்ஷன்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் சுரேஷ் காமாட்சி தயாரித்திருக்கிறார்.
+
+இப்படத்தின் முன்னோட்டம் கடந்த ஆண்டு வெளியாகி மூன்று மில்லியனுக்கும் மேற்பட்ட பார்வையாளர்களால் பார்வையிடப்பட்டு சாதனை படைத்திருந்தது.
+
+...
+
+[Data](articles/55a4225e.json)
+
+---
+
+### Mass attack on political party office in Batticaloa
+
+*2024-11-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198920) · `ta`
+
+Attack damages political office in Batticaloa. Complaint filed at Kattankudy Police Station. Office belonged to MI Abdul Wahhab, who ran in Batticaloa district PA election. Mirrors destroyed, advertising posts built by attackers. No injuries as office empty during attack.
+
+🟩
+
+A complaint has been lodged at the Kattankudy Police Station that the office has been severely damaged by a massive attack on the party office in the Batticaloa district on Friday (15).
+
+The office of the office said that the election office, which was located on the Poonchimunai Darussalam Playground road belonging to the Kattankudi division of Batticaloa, may have been attacked midnight or early this morning.
+
+The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
+
+The mirrors of the office were completely damaged in the attack and the advertising posts were built by the attackers.. Was able to observe
+
+There was no life or injuries because there was no one in the office at the time of the attack
+
+◼️
+
+[Data](articles/70bc29ca.json)
+
+[Extended Data](ext_articles/70bc29ca.ext.json)
 
 ---
 
@@ -671,32 +789,6 @@ In 1985, the Attorney General's Department had joined the Attorney General's Dep
 [Data](articles/7a30e633.json)
 
 [Extended Data](ext_articles/7a30e633.ext.json)
-
----
-
-### Mass attack on political party office in Batticaloa
-
-*2024-11-16 14:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198920) · `ta`
-
-Attack damages political office in Batticaloa. Complaint filed at Kattankudy Police Station. Office belonged to MI Abdul Wahhab, who ran in Batticaloa district PA election. Mirrors destroyed, advertising posts built by attackers. No injuries as office empty during attack.
-
-🟩
-
-A complaint has been lodged at the Kattankudy Police Station that the office has been severely damaged by a massive attack on the party office in the Batticaloa district on Friday (15).
-
-The office of the office said that the election office, which was located on the Poonchimunai Darussalam Playground road belonging to the Kattankudi division of Batticaloa, may have been attacked midnight or early this morning.
-
-The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
-
-The mirrors of the office were completely damaged in the attack and the advertising posts were built by the attackers.. Was able to observe
-
-There was no life or injuries because there was no one in the office at the time of the attack
-
-◼️
-
-[Data](articles/70bc29ca.json)
-
-[Extended Data](ext_articles/70bc29ca.ext.json)
 
 ---
 
@@ -2341,93 +2433,5 @@ At least 17,140,354 were eligible to vote in the general election of 2024, 11,14
 [Data](articles/c85e111b.json)
 
 [Extended Data](ext_articles/c85e111b.ext.json)
-
----
-
-### What is the meaning of NPP’s Parliamentary victory?
-
-*2024-11-15 22:59:03* · [`dailyftlk`](https://www.ft.lk/columns/What-is-the-meaning-of-NPP-s-Parliamentary-victory/4-769309) · `en`
-
-Will Anura Kumara Dissanayake and the top leadership grasp the true significance of their achievement?
-
-Considering the recent past alone, the Parliamentary results clearly build on a process of politicisation that was catalysed by the crisis and the Aragalaya. People are talking everywhere, and they are enthusiastic despite the enduring pressures of crisis and austerity on their households. But we need to remind ourselves that this moment represents a movement with a long genealogy, and not only a charismatic individual. It is now up to a wide set of progressive forces extending beyond the immediate NPP coalition to capitalise on the energy of the electoral victory and channel it in the appropriate direction
-
-...
-
-[Data](articles/1161cf79.json)
-
-[Extended Data](ext_articles/1161cf79.ext.json)
-
----
-
-### General Election 2024: Opportunity to work towards common purpose
-
-*2024-11-15 22:50:36* · [`dailyftlk`](https://www.ft.lk/columns/General-Election-2024-Opportunity-to-work-towards-common-purpose/4-769306) · `en`
-
-For the first time since the enactment of the 1978 Constitution and the advent of the system of proportional representation, the Sri Lankan people have united to confer a two-third majority of its legislative power to a single party, Anura Kumara Dissanayake’s National People’s Power. It also marks the first time that Sri Lankans of all ethnicities across the country all spoke with a single voice, and placed their faith in a single leader.
-
-In one fell swoop, Sri Lanka made clear that it has had enough of race baiting, nepotism, class warfare, corruption, cronyism, political vendettas and rank incompetence.
-
-They saw in President Anura Kumara Dissanayake a leader who they could trust, who sincerely cared for them, who would work hard for them, has no interest in political theatrics and amassing power for himself.
-
-The people could be no clearer – their patience for drama and pettiness has clearly run out.
-
-...
-
-[Data](articles/bb12f3b0.json)
-
-[Extended Data](ext_articles/bb12f3b0.ext.json)
-
----
-
-### Celebrating Sri Lanka’s “bloodless revolution”
-
-*2024-11-15 22:49:16* · [`dailyftlk`](https://www.ft.lk/columns/Celebrating-Sri-Lanka-s-bloodless-revolution/4-769305) · `en`
-
-AKD, your leadership has the potential to bring about a new dawn for Sri Lanka
-
-The people of Sri Lanka have spoken! The time for systemic change has arrived and people have entrusted the new Government with the monumental task, demanding a Government that is no longer willing to accept business as usual—they are calling for a Government that prioritises the public interest, promotes social justice, and ensures that the benefits of development reach every corner of society.
-
-The mandate is clear: Sri Lankans want to see a Government that works for them, not against them —a Government that acts in the national interest and upholds the rights and dignity of every citizen. A truly systemic change to fulfil the promise of a “Change and Corruption-Free” Sri Lanka.
-
-To meet these demands, it must remain fearless, bold, and uncompromising in its pursuit of reform.
-
-...
-
-[Data](articles/aa428d13.json)
-
-[Extended Data](ext_articles/aa428d13.ext.json)
-
----
-
-### Dismantle 76-year charade: Rename and celebrate Independence Day as Memorial Day from 2025 onwards
-
-*2024-11-15 22:36:45* · [`dailyftlk`](https://www.ft.lk/columns/Dismantle-76-year-charade-Rename-and-celebrate-Independence-Day-as-Memorial-Day-from-2025-onwards/4-769295) · `en`
-
-The illusion of civility and humanity in celebrating independence faded as local elites implemented the colonial project of nation-building on the island, primarily through distorting religion, history, archaeology, and national symbols. This approach solidified racist communalism as a means to deny and suppress demands for equal rights and freedom for all. Beneath this façade lies a subtler exclusion: the romanticisation of the nation as ‘mother’ or ‘motherland,’ idealising gendered traits like care, sacrifice, nurturance, and emotional support
-
-...
-
-[Data](articles/85101ce8.json)
-
-[Extended Data](ext_articles/85101ce8.ext.json)
-
----
-
-### Gampaha District preference votes results: Vijitha breaks Harini’s record
-
-*2024-11-15 21:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/103527/gampaha-district-preference-votes-results-vijitha-breaks-harinis-record) · `en`
-
-National People’s Power (NPP) Gampaha District Team Leader Vijitha Herath has received the highest number of preference votes in the history of Sri Lanka’s parliamentary polls with an unprecedented 716,715 votes polled at the 2024 General Election.
-
-Accordingly, this is the highest number of preferential votes gained by a candidate in the General Election in Sri Lanka’s history and shatters a record set earlier today by fellow NPP candidate and Prime Minister Harini Amarasuriya, when the preferential votes results of the Colombo District were announced.
-
-She had received a staggering 655,289 votes in total and in doing so had set a new record for the most preference votes received by a candidate in Sri Lanka’s parliamentary election history.
-
-...
-
-[Data](articles/a590531e.json)
-
-[Extended Data](ext_articles/a590531e.ext.json)
 
 ---

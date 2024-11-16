@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 08:49:13**
+As of **2024-11-16 08:28:13**
 
 ## Newspaper Stats
 
-*Scraped **55,187** Articles*
+*Scraped **55,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,163
-adaderanalk | 6,655
-tamilmirrorlk | 7,817
+adaderanalk | 6,652
+tamilmirrorlk | 7,815
 virakesarilk | 8,936
 adaderanasinhalalk | 9,537
 
@@ -26,103 +26,11 @@ adaderanasinhalalk | 9,537
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,177 (100.0%) of 55,187 articles have been extended.
+55,177 (100.0%) of 55,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
-
-### சுமார் 6 இலட்சம் வாக்குகள் நிராகரிப்பு
-
-*2024-11-16 08:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-6-இலட்சம்-வாக்குகள்-நிராகரிப்பு/175-347282) · `ta`
-
-இந்த ஆண்டு நடைபெற்ற பொதுத் தேர்தலில் பதிவான வாக்குகளில் 667,240 வாக்குகள் நிராகரிக்கப்பட்டுள்ளதாக தேர்தல்கள் ஆணைக்குழுவின் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க சுட்டிக்காட்டினார்.
-
-இதேவேளை, இந்த தேர்தலை வரலாற்றில் மிகவும் அமைதியான தேர்தல் என கூறமுடியும் என PAFRAL அமைப்பின் நிறைவேற்றுப் பணிப்பாளர் ரோஹன ஹெட்டியாராச்சி தெரிவித்தார். R
-
-◼️
-
-[Data](articles/e742892c.json)
-
----
-
-### President AKD thanks voters for landmark election victory
-
-*2024-11-16 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103530/president-akd-thanks-voters-for-landmark-election-victory) · `en`
-
-President Anura Kumara Dissanayake has expressed gratitude to voters for delivering a historic victory in the general election.
-
-The President conveyed his thanks through a note posted on his ‘X’ account, stating, “Thank you to all who voted for a renaissance!”
-
-In the 2024 general election held on November 14, the National People’s Power (NPP) secured a landmark victory, winning 159 seats in the parliament.
-
-◼️
-
-[Data](articles/c52fdb5b.json)
-
----
-
-### இடியுடன் கூடிய மழை பெய்யும்
-
-*2024-11-16 08:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-347281) · `ta`
-
-நாட்டின் பல பகுதிகளில் இன்று (16) மாலை இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
-
-நாட்டின் பெரும்பாலான பகுதிகளில் பிற்பகல் 2.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
-
-வடக்கு மற்றும் கிழக்கு மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் ஒரு சில இடங்களில் காலை வேளையில் மழை பெய்யக்கூடும்.
-
-மேல், சப்ரகமுவ, மத்திய மற்றும் தென் மாகாணங்களில் சில இடங்களில் சுமார் 75 மில்லிமீற்றர் அளவில் பலத்த மழை பெய்யக்கூடும்.
-
-மேற்கு, சப்ரகமுவ, மத்திய மற்றும் ஊவா மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை நிலவும்.
-
-இடியுடன் கூடிய மழையுடன் தற்காலிகமாக பலத்த காற்றும் வீசக்கூடும், மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய தாக்கங்களில் இருந்து தங்களை பாதுகாத்துக்கொள்ளுமாறு கேட்கப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/cdd9f7b4.json)
-
----
-
-### Police announce post-election measures
-
-*2024-11-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103529/police-announce-post-election-measures) · `en`
-
-The police have announced that the post-election period will remain in effect for one week following the declaration of the general election results.
-
-Providing clarification on the matter, Police Spokesman DIG Nihal Thalduwa stated that the police have been placed on high alert across the country during this period.
-
-“The post-election period has now begun. No meetings, rallies, or similar gatherings are permitted in public places for a week. As such, the police are on full alert and will continue to ensure security through mobile patrols across the island. Intelligence officers are also on duty, and special security arrangements have been made for identified police divisions,” he said.
-
-The Police Media Spokesman further noted that a total of 581 individuals were arrested for violating election laws during the pre-election period.
-
-“No acts of violence were reported from any area. Of the 581 arrested, 18 are candidates, while the rest are their supporters,” he added.
-
-◼️
-
-[Data](articles/3ca430b2.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-16 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103528/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island after 2.00 p.m. Showers may occur at few places in the Northern and Eastern provinces and in Hambantota district during the morning too.
-
-Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/054e90bc.json)
-
----
 
 ### ප්‍රතික්ෂේප වූ ඡන්ද මෙන්න
 
@@ -2179,5 +2087,109 @@ According to the overall result of the district, the national power was entitled
 [Data](articles/6bcbc7e1.json)
 
 [Extended Data](ext_articles/6bcbc7e1.ext.json)
+
+---
+
+### List of candidates and preferential votes in Sri Lanka 2024 election
+
+*2024-11-15 14:12:00* · [`economynextcom`](https://economynext.com/list-of-candidates-and-preferential-votes-in-sri-lanka-2024-election-188007/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s 2024 general elections has returned an overwhelming majority of candidates from the National People’s Power of President Anura Dissanayake followed by the Samagi Jana Balwegaya.
+
+The following is a list of reported candidates and preferential votes in the 2024 general election
+
+Compiled based on Rupavahini, Times Online, Ada Derana, and Newswire reports. (Colombo/Nov15/2024)
+
+◼️
+
+[Data](articles/5b750c07.json)
+
+[Extended Data](ext_articles/5b750c07.ext.json)
+
+---
+
+### Japan ambassador congratulates Sri Lanka on peaceful and democratic election
+
+*2024-11-15 14:10:00* · [`economynextcom`](https://economynext.com/japan-ambassador-congratulates-sri-lanka-on-peaceful-and-democratic-election-188068/) · `en`
+
+ECONOMYNEXT – Ambassador of Japan to Sri Lanka Akio Isomata has congratulated Sri Lanka’s people on the peaceful and democratic parliamentary elections.
+
+He commended Sri Lankan people’s active engagement in the democratic process, and extended congratulations to all newly elected members of the parliament, the Embassy of Japan in Sri Lanka said in a statement.
+
+“Japan looks forward to working closely with the government, newly-elected parliamentarians and people of Sri Lanka, to achieve peace and prosperity in our countries and in the world, further deepening mutual trust and strengthening the bonds of friendship between our two countries.
+
+“History demonstrates that the friendship between Japan and Sri Lanka has grown stronger over the decades. Japan is confident that the elections on 14 November along with the Presidential election in September in Sri Lanka mark the beginning of a new chapter in further strengthening our bilateral relationship.” (Colombo/Nov15/2024)
+
+◼️
+
+[Data](articles/70da691c.json)
+
+[Extended Data](ext_articles/70da691c.ext.json)
+
+---
+
+### All-island final results of 2024 General Election released
+
+*2024-11-15 13:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103511/all-island-final-results-of-2024-general-election-released) · `en`
+
+The Election Commission of Sri Lanka has released the all-island final results in the 2024 General Election with the National People’s Power (NPP) securing a resounding victory in the Parliamentary Poll.
+
+NPP has won 159 seats including 18 bonus seats after polling a total of over 6.8 million votes, which is 61.56% of the total votes counted.
+
+Meanwhile, Samagi Jana Balawegaya (SJB) becomes the main opposition party of the tenth Parliament after polling over 1.9 million votes (17.66%) and thereby obtaining 40 seats including 5 bonus seats.
+
+Ilankai Thamil Arasu Kachchi (ITAK) has won 8 seats including 1 bonus seat, New Democratic Front (NDF) has won 5 seats including 2 bonus seats while the Sri Lanka Podujana Peramuna (SLPP) has managed only 3 seats including 1 bonus seat.
+
+Meanwhile, ‘Sarvajana Balaya’ failed to win any seats, however, has managed to secure one bonus seat.
+
+...
+
+[Data](articles/03a73403.json)
+
+[Extended Data](ext_articles/03a73403.ext.json)
+
+---
+
+### Overall Result of General Election
+
+*2024-11-15 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203391) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+National folk force won 18 national list seats. Reconciliation party secured 5 national listings.
+
+🟩
+
+There have been 18 national list seats where the national folk force.
+
+The reconciliation has won five national listings, which have won 5 national listings.
+
+◼️
+
+[Data](articles/bd8906ca.json)
+
+[Extended Data](ext_articles/bd8906ca.ext.json)
+
+---
+
+### 2 seats in Vanni at NPP
+
+*2024-11-15 13:50:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வன்னியில்-2-ஆசனங்கள்-NPP-வசம்/175-347257) · `ta`
+
+Here's a summary of "2 seats in Vanni at NPP" in approximately 200 characters:
+
+
+
+N
+
+🟩
+
+◼️
+
+[Data](articles/3e862564.json)
+
+[Extended Data](ext_articles/3e862564.ext.json)
 
 ---

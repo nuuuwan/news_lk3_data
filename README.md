@@ -1,36 +1,158 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-16 10:27:03**
+As of **2024-11-16 11:25:42**
 
 ## Newspaper Stats
 
-*Scraped **55,199** Articles*
+*Scraped **55,205** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 428
 colombotelegraphcom | 561
-bbccomsinhala | 563
+bbccomsinhala | 564
 islandlk | 3,298
 economynextcom | 3,352
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,164
-adaderanalk | 6,660
-tamilmirrorlk | 7,820
-virakesarilk | 8,937
+adaderanalk | 6,661
+tamilmirrorlk | 7,823
+virakesarilk | 8,938
 adaderanasinhalalk | 9,539
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,196 (100.0%) of 55,199 articles have been extended.
+55,204 (100.0%) of 55,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-16 (Saturday)
+
+### Workshop for freshly elected MPs on parliament practices and affairs
+
+*2024-11-16 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103536/workshop-for-freshly-elected-mps-on-parliament-practices-and-affairs) · `en`
+
+The registration activities of newly elected Members of Parliament are scheduled to begin from tomorrow (17).
+
+The Parliamentary Communications Department said that accordingly, the newly elected MPs can register for the Parliament online.
+
+Meanwhile, measures have been taken to keep two special information counters of the Parliament open on Tuesday (19) and Wednesday (20) for the newly elected MPs to access information regarding the registration process.
+
+Furthermore, plans underway to hold a three-day special workshop for the incoming legislators on the parliament culture and parliament affairs, according to the Parliamentary Communications Department.
+
+The workshop is scheduled to be held on November 25,26 and 27.
+
+A gazette notification related to these matters will be issued today (16).
+
+...
+
+[Data](articles/610b9ca5.json)
+
+---
+
+### New Cabinet appointment on Monday
+
+*2024-11-16 10:56:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்களன்று-புதிய-அமைச்சரவை-நியமனம்/175-347288) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"New Cabinet: 18th, ~25 members. National People's Power appoints."
+
+🟩
+
+The new government's cabinet will be appointed on Monday (18), the National People's Power said.
+
+According to Tilvin Silva, General Secretary of Janata Vimukthi Peramuna, representing the national people's power, less than 25 people will be appointed.
+
+◼️
+
+[Data](articles/22276090.json)
+
+[Extended Data](ext_articles/22276090.ext.json)
+
+---
+
+### Divulapitiya issue: District Government Agent's description
+
+*2024-11-16 10:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திவுலபிட்டிய-விவகாரம்-மாவட்ட-அரசாங்க-அதிபர்-விளக்கம்/175-347287) · `ta`
+
+Divulapitiya election issue: Delayed preferential voting rooms caused vote count delay, says Gampaha District Government Agent Lalinda Kamage.
+
+🟩
+
+Gampaha District Government Agent Lalinda Kamage said that in the Divulapitiya electoral division, a delay in the number of preferential voting rooms, the number of votes had been incurred and that there was no time.
+
+The District Government Agent said this when the journalists questioned the allegations made by Prasad Siriwajwa, the organizer of the Samaki Janapalavega constituency.
+
+He said that the number of votes was delayed due to the preferential list of the National People's Power.
+
+◼️
+
+[Data](articles/c6e7152b.json)
+
+[Extended Data](ext_articles/c6e7152b.ext.json)
+
+---
+
+### Young Media Secretary to White House
+
+*2024-11-16 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/198898) · `ta`
+
+Donald Trump appoints Caroline Lewit as White House media secretary. She was campaign spokesperson and first female under 30 in this role. Studied communications at St. Anselm College.
+
+🟩
+
+US President Donald Trump will appoint a young woman named Caroline Lewit to the White House.
+
+Caroline Lewid has been a media spokesman for Donald Trump's campaign, who contested the US presidential election.
+
+In the meantime, Caroline Lewit is the young media secretary of the White House in American history.
+
+"Caroline has proved to be a clever, solid and a very talented spokesman," Donald Trump said.
+
+Lewit, a native of the state of New Hampshire in the United States, studied communications and state science at St. Anselm College, a Catholic College in his home state.
+
+◼️
+
+[Data](articles/192f5145.json)
+
+[Extended Data](ext_articles/192f5145.ext.json)
+
+---
+
+### Special Workshop for New MPs
+
+*2024-11-16 10:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிகளுக்கு-விசேட-செயலமர்வு/175-347286) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Parliamentary workshop: 25-27th. Committee roles explained. MP registration: 18-20th. Holiday cancelled 18-22nd for events.
+
+🟩
+
+Secretary General of Parliament Saminda Gularatne said that the Special Executive for the newly elected members of the 10th Parliament will be held on the 25th, 26th and 27th of this month.
+
+He said that the parliamentary system, the work of the council and the work of the committees would be explained.
+
+In addition, the registration of MPs elected to the 10th Parliament will be held on the 18th, 19th and 20th of this month.
+
+The holiday of parliamentary employees has been canceled from 18 to 22 to organize these activities.
+
+◼️
+
+[Data](articles/57b82989.json)
+
+[Extended Data](ext_articles/57b82989.ext.json)
+
+---
 
 ### Pakistani province declares health emergency due to smog and locks down two cities
 
@@ -50,27 +172,35 @@ Time off for medical staff is cancelled, all education institutions are shut unt
 
 [Data](articles/28cb12b2.json)
 
+[Extended Data](ext_articles/28cb12b2.ext.json)
+
 ---
 
-### නවක මන්ත්‍රීවරුන්ට පාර්ලිමේන්තු කටයුතු පිළිබඳ වැඩමුළුවක්
+### Workshop on new MPs
 
 *2024-11-16 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203419) · `si`
 
-10වන පාර්ලිමේන්තුවට තේරී පත්වූ නවක මන්ත්‍රීවරුන් ලියාපදිංචි කිරීමට අදාළ කටයුතු හෙට (17) සිට ආරම්භ කෙරෙයි.
+New MP registration begins tomorrow. Online system opens for enrollment. Two-day orientation on 19-20th. Three-day workshop on parliamentary duties planned. Gazette notification released today. First session on 21st at 10 AM.
 
-පාර්ලිමේන්තු සන්නිවේදන අංශය පැවසුවේ ඒ් අනුව නවක මන්ත්‍රීවරුන්ට හෙට සිට ඔන්ලයින් ක්‍රමවේදය ඔස්සේ ලියාපදිංචි විය හැකි බවය.
+🟩
 
-අදාළ මන්ත්‍රීවරුන්ට අවශ්‍ය තොරතුරු දැනගැනීම සඳහා 19 වනදා සහ 20 වනදා පාර්ලිමේන්තුවේ තොරතුරු කවුලු දෙකක් විවෘත කිරීමට ද පියවර ගෙන ඇත.
+Activities to register new members of Parliament to be elected to Parliament will commence tomorrow (17).
 
-මේ අතර තේරී පත්වූ නවක මන්ත්‍රීවරුන්ට පාර්ලිමේන්තු සම්පාදය සම්බන්ධව සහ පාර්ලිමේන්තු කටයුතු පිළිබඳව  දින 03ක වැඩමුළුවක් පැවැත්වීමට ද සැලසුම් කර තිබේ.
+According to the Parliamentary Communication Division, the new MPs could register from tomorrow's system through the online system.
 
-ඒ් සම්බන්ධයෙන් වන ගැසට් නිවේදනය අද (16) දිනයේ නිකුත්වීමට නියමිතව ඇත.
+Steps have also been taken to open two arms in Parliament on the 19th and 20 of the information they needed.
 
-නව පාර්ලිමේන්තු සැසිය ලබන 21 වනදා උදෑසන 10ට රැස්වීමට නියමිතය.
+Meanwhile, newly elected new MPs is also planned to conduct a three-day workshop on parliamentary commitment and Parliamentary matters.
+
+The gazette notification is due to be released today (16).
+
+The new Parliament session will meet at 10 am on the 21st morning.
 
 ◼️
 
 [Data](articles/56c48f3e.json)
+
+[Extended Data](ext_articles/56c48f3e.ext.json)
 
 ---
 
@@ -126,21 +256,27 @@ The police media spokesman said that 581 persons were arrested in violation of t
 
 ---
 
-### தேர்தலில்  பெரும் வெற்றி  ஆழமான சீர்திருத்தங்களிற்கான ஆணை- உலக நாடுகள் ஆதரவளிக்கவேண்டும் - எரிக்சொல்ஹெய்ம்
+### Great Winning Elections Deep Reforms - World Nations to support
 
 *2024-11-16 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198900) · `ta`
 
-இலங்கை நாடாளுமன்ற தேர்தலில் அரசாங்கத்திற்கு கிடைத்துள்ள மகத்தான பெரும் வெற்றி ஆழமான சீர்திருத்தங்களிற்கான ஆணையை வழங்குகின்றது என இலங்கைக்கான நோர்வேயின் முன்னாள் சமாதான தூதுவர் எரிக்சொல்ஹெய்ம் தெரிவித்துள்ளார்.
+Sri Lanka's parliamentary elections saw significant reforms. The Left Coalition led by Anuragumara Dissanayake secured a landslide victory. Former Norwegian Peace Ambassador Erik Solheim praised the government's success. Economic recovery efforts, including IMF negotiations, aim to address poverty and stimulate growth.
 
-அனுரகுமார திசநாயக்க அல்லது மக்களால் ஏகேடி என அழைக்கப்படும் இடதுசாரி கூட்டணியின் தலைவர் இலங்கையில் முழுமையான தேர்தல் வெற்றியை நோக்கி நகர்ந்துகொண்டிருக்கின்றார்.அனேகமாக அனைத்து தொகுதிகளிலும் அவர் வெற்றிபெற்றுள்ளார்.
+🟩
 
-நெருக்கடியிலிருந்து மீள்வதற்காக சர்வதேச நாணய நிதியத்துடன்  ஒரு சிறந்த ஒப்பந்தத்திற்காக பேச்சுவார்த்தைகளை மேற்கொள்ளல்
+Former Norwegian Peace Ambassador to Sri Lanka, Ericksolheim, says the government has given a great success in the Sri Lankan parliamentary elections.
 
-பொருளாதார வளர்ச்சி மற்றும் வறுமையில் சிக்கியுள்ளவர்களை அதன் பிடியிலிருந்து மீட்பதற்கான பொருளாதார சீர்திருத்தம்.
+The leader of the Left Coalition, known as the Anuragumara Dissanayake or the people, is moving towards a complete election victory in Sri Lanka. He has won all constituencies.
+
+Negotiating for a better deal with the IMF in order to recover from the crisis
+
+Economic reform to rescue those who are trapped in economic growth and poverty.
 
 ◼️
 
 [Data](articles/e26a3203.json)
+
+[Extended Data](ext_articles/e26a3203.ext.json)
 
 ---
 
@@ -525,6 +661,94 @@ Temporary winds can also cause temporary strong winds with thunderstorms.
 [Data](articles/f6c194c9.json)
 
 [Extended Data](ext_articles/f6c194c9.ext.json)
+
+---
+
+### Will Sajith's political journey end with the defeat of the harmony power?
+
+*2024-11-16 04:48:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c748vdy01mko) · `si`
+
+Based on the information provided, here are the key points about the situation in Sri Lanka:
+
+
+
+1. The main opposition party, led by Sajith Premadasa, did not perform well in the 2020 general election. Despite receiving 1,968,716 votes, they only obtained a small number of seats.
+
+
+
+2. The main opposition in the previous parliament was the United National Party (UNP). However, there was an internal conflict within the UNP regarding leadership between Ranil Wickremesinghe and Sajith Premadasa.
+
+
+
+3. Sajith Premadasa became the Leader of the Opposition after the 2020 general election, winning 145 million votes (23.9% of total votes).
+
+
+
+4. There were allegations of corruption and misuse of funds against Sajith Premadasa and his party, which damaged their reputation.
+
+
+
+5. The party faced internal issues, including criticism of Sajith Premadasa's leadership and influence from his family members.
+
+
+
+6. Social media played a significant role in the opposition's challenges, with other parties taking advantage of Sajith Premadasa's limited online presence.
+
+
+
+7. In the 2024 presidential election, Sajith Premadasa ran again but received fewer votes (4,363,035) compared to 2019 (5,564,239).
+
+
+
+8. The political landscape in Sri Lanka has changed significantly since 2019, with increased polarization and challenges to traditional party systems.
+
+
+
+9. Experts suggest that both the ruling party and opposition need to adapt to changing voter demands and economic pressures.
+
+
+
+10. The future of Sajith Premadasa's leadership and the opposition's performance in upcoming elections remains uncertain.
+
+
+
+To answer your specific questions:
+
+
+
+1. Sri Lanka becoming a hub of global wildlife racket is not mentioned in the provided text. This seems to be a separate topic unrelated to the main discussion.
+
+
+
+2. Information about children in South Korea writing the hardest 8 hours of Asia for university entry is also not present in the given text.
+
+
+
+3. The text does not provide details about former MPs who wrote the Parliament at the general election this year. It mentions some defections and potential returns to the UNP, but specifics are lacking.
+
+🟩
+
+Will Sajith's political journey end with the defeat of the harmony power?
+
+The general election held yesterday (November 14), the reconciliation is focused on achieving a powerful setback in parallel to the past general election.
+
+The fast won 54 seats in the 2020's parliamentary general election.
+
+However, with 1,968,716 votes, however, was able to obtain a number of seats in the general election.
+
+What happened to the main opposition of the last parliament?This is to look into the BBC Sinhala.
+
+A reconciliation speed was established in 2020 as a result of the leading internal conflict regarding the leadership of UNP leader Ranil Wickremesinghe and Deputy Leader Sajith Premadasa.. That is the approval of the UNP Working Committee.
+
+The JHU, the JHU and the Sri Lanka Muslim Congress and the Tamil Progressive Alliance joined the New Alliance on February 2020.
+
+Sajith Premadasa was named as the leader of reconciliation and the party general secretary.
+
+...
+
+[Data](articles/e33b67cb.json)
+
+[Extended Data](ext_articles/e33b67cb.ext.json)
 
 ---
 
@@ -2123,131 +2347,5 @@ Nuwara Eliya Factor: A strategic location in Sri Lanka's central highlands, know
 [Data](articles/fec834b0.json)
 
 [Extended Data](ext_articles/fec834b0.ext.json)
-
----
-
-### NPP number one in Kalutara preferential
-
-*2024-11-15 15:44:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-விருப்பு-வாக்கில்-NPP-முதலிடம்/175-347262) · `ta`
-
-Here's a summary of "NPP number one in Kalutara preferential" in approximately 200 characters:
-
-
-
-National People's Party (NPP) wins top position in Kalutara district's preferential voting system. This outcome indicates strong support for NPP candidates in the region, potentially reflecting local preferences and political alignments. The victory may have implications for future elections and political dynamics in the area.
-
-🟩
-
-◼️
-
-[Data](articles/0c0586ed.json)
-
-[Extended Data](ext_articles/0c0586ed.ext.json)
-
----
-
-### NPP number one in Kalutara preferred
-
-*2024-11-15 15:44:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/களுத்துறை-விருப்பு-வாாக்கில்-NPP-முதலிடம்/175-347262) · `ta`
-
-Here's a summary of "NPP number one in Kalutara preferred" in approximately 200 characters:
-
-
-
-"NPP (National People's Party) leads in popularity rankings for Kalutara district. Voters prefer NPP over other political parties in this region."
-
-
-
-This summary captures the main idea while staying within the character limit. It conveys that NPP is the top choice in Kalutara and implies that this preference extends to the voting population.
-
-🟩
-
-◼️
-
-[Data](articles/4ab043a3.json)
-
-[Extended Data](ext_articles/4ab043a3.ext.json)
-
----
-
-### Kalutara Preferential Results
-
-*2024-11-15 15:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203396) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-National party wins 8 seats in Kalutara district. 2 additional seats summoned. New Democratic Front elected.
-
-🟩
-
-According to the overall result of the district, the national power was won eight seats.
-
-In addition, 2 summoned seats and the new Democratic Front was elected to the power of the people.
-
-◼️
-
-[Data](articles/a823bd74.json)
-
-[Extended Data](ext_articles/a823bd74.ext.json)
-
----
-
-### Kalutara District preferential vote results released
-
-*2024-11-15 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103516/kalutara-district-preferential-vote-results-released) · `en`
-
-The preferential vote results of the Kalutara District in the 2024 General Election have been released.
-
-NPP’s Nalinda Jayatissa has polled the highest number of preferential votes in the Kalutara District.
-
-Ajith Perera and Jagath Vithana have obtained the highest number of preferential votes to secure two parliamentary seats for the SJB in the district, while Rohitha Abeygunawardhana secured a seat for the New Democratic Front (NDF).
-
-◼️
-
-[Data](articles/70e52d8a.json)
-
-[Extended Data](ext_articles/70e52d8a.ext.json)
-
----
-
-### Timely theatrical exploration of Middle East conflict
-
-*2024-11-15 15:33:00* · [`islandlk`](http://island.lk/timely-theatrical-exploration-of-middle-east-conflict/) · `en`
-
-In what amounted to a refreshing change for the politically-conscious of Sri Lanka and the world, the Longsuffering of the peoples of the Middle East was made to come alive on stage recently through two short plays. The venue for the engaging pieces of drama, staged on November 8th, was the ‘Kolombo Kamatha’ theatre at the BMICH and the organizer of the notable experience was the Bandaranaike Centre for International Studies (BCIS), Colombo.
-
-The BCIS is in the process of celebrating the 50th anniversary of its establishment in 1974 through a series of events and projects of an educational and artistic nature throughout November and the plays were part of this wider commemorative enterprise. The relevant programs are being conducted by the BCIS staff under the guidance of the institution’s Executive Director Ms. Priyanthi Fernando.
-
-...
-
-[Data](articles/862ae240.json)
-
-[Extended Data](ext_articles/862ae240.ext.json)
-
----
-
-### Professional results in Anuradhapura
-
-*2024-11-15 15:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203395) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Anuradhapura district election results: National party won 7 seats, another party secured 2 seats.
-
-🟩
-
-According to the overall result of the district, the national power was owned by seven seats.
-
-In addition, the power to win 2 seats was able to win 2 seats.
-
-◼️
-
-[Data](articles/9bede64e.json)
-
-[Extended Data](ext_articles/9bede64e.ext.json)
 
 ---

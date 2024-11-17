@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 12:59:46**
+As of **2024-11-17 11:13:06**
 
 ## Newspaper Stats
 
-*Scraped **55,356** Articles*
+*Scraped **55,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,422 +13,34 @@ dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,312
-economynextcom | 3,355
+economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,177
-adaderanalk | 6,682
-tamilmirrorlk | 7,851
-virakesarilk | 8,971
-adaderanasinhalalk | 9,572
+adalk | 5,174
+adaderanalk | 6,681
+tamilmirrorlk | 7,848
+virakesarilk | 8,955
+adaderanasinhalalk | 9,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,344 (100.0%) of 55,356 articles have been extended.
+55,320 (100.0%) of 55,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### Banning for transporters
-
-*2024-11-17 12:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்காணிப்பாளர்களுக்கு-அலைபேசி-எடுத்துச்-செல்ல-தடை/175-347331) · `ta`
-
-Cell phone ban for exam staff: Surveillance teachers, including Assistant Chancellor, prohibited from carrying phones. Only Station Officer and Additional Superintendent allowed. Decision made to prevent past issues. Officials from Provincial and Regional Offices deployed for monitoring.
-
-🟩
-
-This time, at the Examination Centers where the Educational Public Advancement Examinations are held, the surveillance teachers, including the Assistant Chancellor, have been imposed on cell phones.
-
-Only the Station Officer of the Examination Center and the Additional Superintendent will be allowed to carry the cell phones.
-
-The Department of Examinations said that the decision has been taken due to problems in the past.
-
-Accordingly, officials of the Provincial and Regional Offices will also be deployed for surveillance to the Department of Examinations.
-
-◼️
-
-[Data](articles/5aa95ad1.json)
-
-[Extended Data](ext_articles/5aa95ad1.ext.json)
-
----
-
-### Ready to cooperate with Trump - Chinese President
-
-*2024-11-17 12:17:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்புடன்-ஒத்துழைக்கத்-தயார்-சீன-ஜனாதிபதி/50-347330) · `ta`
-
-Chinese President Xi Jinping expressed readiness to cooperate with Donald Trump during a meeting at the Asian-Pacific Economic Cooperation Summit in Peru. Relations between China and the US had deteriorated significantly during Trump's first term, particularly after he referred to COVID-19 as the "Chinese virus."
-
-🟩
-
-A meeting between US President Joe Faidan and Chinese President Shi Jinping will take place yesterday (16).
-
-The meeting took place during the Asian-Pacific Economic Cooperation Summit in Peru.
-
-The Chinese Chancellor said he was ready to cooperate with Donald Trump, the US president.
-
-However, during Trump's first tenure, Chinese-American relations were severely affected, and after Trump called Kovit a Chinese virus, the relations reached the fall.
-
-◼️
-
-[Data](articles/c82305a2.json)
-
-[Extended Data](ext_articles/c82305a2.ext.json)
-
----
-
-### Nine newcomers besides Rauf Hakeem, Anuradha and Lalkanta in Kandy
-
-*2024-11-17 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/198959) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Newcomers dominate Kandy district election results. Rauf Hakeem and Anuradha Jayaratne fail to retain seats. Nine newcomers elected alongside returning MP Lalgantha. Former ministers absent from race.
-
-🟩
-
-Rauf Hakeem and Anuradha Jayaratne, who represented the Kandy district in the last parliament, failed and nine of the nine people were new faces.
-
-Sri Lanka Muslim Congress leader Rauf Hakeem, who contested on behalf of the United People's Power in the ongoing general election, was not elected by 10 members other than Anuradha Jayaratne, the son of former Prime Minister DM Jayaratne, who contested the cylinder symbol.
-
-Former minister Keheliya Rambukwella, former diplomatic minister Lohan Ratwatta and former minister Lakshman Kiriella did not contest.
-
-Former ministers MHA Halim, Mahindananda Aluthgamage, State Minister Thilm Amunugama, Velukumar, Professor Ranjith Bandara, Yapa Bandara Kirindikoda etc.
-
-Rauf Hakeem, who was elected on behalf of the United People's Power and the new Democratic Front member (cylinder symbol), Anuradha Jayaratne represented the last parliament.
-
-...
-
-[Data](articles/f35de11f.json)
-
-[Extended Data](ext_articles/f35de11f.ext.json)
-
----
-
-### Lorry accident;One killed
-
-*2024-11-17 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198974) · `ta`
-
-Accident: Lorry crashes into parody, killing 1. Navy soldier, 40, dies. Driver arrested.
-
-🟩
-
-One person was killed when a small lorry crashed into a parody near the Lanka junction on the Trincomalee -Batticaloa main road under the Eichilampattu police division.
-
-The deceased was a 40 -year -old navy soldier who lived in Halwala, Matugama.
-
-Police said the small lorry from Batticaloa to Trincomalee was crashed into the back and driver of the driver when the driver was suspended due to a paravolar machine -owned machine -owned paramedic from Panama.
-
-The body has been placed in the funeral room of the Eichilampattu Hospital and the driver of the lorry has been arrested.
-
-◼️
-
-[Data](articles/ef42b335.json)
-
-[Extended Data](ext_articles/ef42b335.ext.json)
-
----
-
-### Mahindananda missed parliamentary seat by 348 votes:
-
-*2024-11-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198967) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Mahindananda Aluthgamage loses parliamentary seat by 348 votes. Retiring from politics after decades in Nawalapitiya constituency. Former Minister of Agriculture faces criticism and low voter support.
-
-🟩
-
-Former minister Mahindananda Aluthgamage has announced that he will retire from politics after missing the parliamentary seat by 348 votes.
-
-According to the results of the Kandy district election, Mahindananda, who contested the cylinder symbol, got 348 votes more than the Anuradhara Jayaratne.
-
-He made this statement while addressing his party supporters on Saturday (16) in Nawalapitiya.
-
-He has been elected to the Central Provincial Council and Parliament several times from the Nawalapitiya constituency and has been elected as the Minister of Provincial Council and the Minister of State for various ministries of the central government.. He has announced that the Aluthgamage family has long been politics in the Nawalapitiya area and that he is retiring from politics as the public has now rejected him.
-
-Mahindananda Aluthgamage, a massively spoken and criticized by the Minister of Agriculture in the previous regime, was also a man who was a heavily burned toy.
-
-...
-
-[Data](articles/0dcc46a8.json)
-
-[Extended Data](ext_articles/0dcc46a8.ext.json)
-
----
-
-### Anura and political prisoners
-
-*2024-11-17 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198972) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Anura acknowledges political prisoners but refuses to use his influence to free them. His stance remains unchanged despite public pressure.
-
-🟩
-
-While Anuragumara Dissanayake has accepted the presence of political prisoners - he is not ready to use his political power to release them.
-
-◼️
-
-[Data](articles/bd730b14.json)
-
-[Extended Data](ext_articles/bd730b14.ext.json)
-
----
-
-### The Tamil people have ordered the reconciliation;The government has the strength to create a new constitution;Is there a political commitment;Wait and see - Akhilan Kadirgamar
-
-*2024-11-17 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/198969) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil people demand reconciliation; Government must create new constitution; Political commitment uncertain; President addresses Tamil plight; Land issues unresolved since war; National party success first time in Sri Lanka; LTTE influence wanes; New political methods needed; Two-thirds political system change possible but commitment unknown.
-
-🟩
-
-Senior Lecturer of the University of Jaffna, Akhilan Kadirgamar, has said that the President should try to address the plight of the Tamil people, including a political solution, said that the people of the Northern people have issued a clear decree to address the long -standing distress of the Tamil people for reconciliation.
-
-Commenting on India's wire, they have the strength to bring about the new constitution mentioned by this. But he has to see if they have the political commitment.
-
-This is a historic success because a national party has been a major success in Sri Lanka for the first time.
-
-Therefore, it is certainly a clear order for the long -standing distress of the Tamil people for reconciliation, and the people have greatly expressed confidence in the power of the national people.
-
-When the President visits Jaffna, he said he would resolve the land, especially the land.. Lands seized by the military are the Archaeological Forest Department in recent times.
-
-...
-
-[Data](articles/10604b03.json)
-
-[Extended Data](ext_articles/10604b03.ext.json)
-
----
-
-### கண்டி, மாத்தளை மாவட்டங்களில் தலா 2 பெண்கள் பாராளுமன்றத்துக்கு தெரிவு
-
-*2024-11-17 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198963) · `ta`
-
-நடந்து முடிந்த பொதுத் தேர்தலில் கண்டி மாவட்டத்திலிருந்து இரண்டு பெண்கள் தெரிவானது இதுவே முதல் தடவையாகும். இதற்கு முன் சித்ரா மன்திலக ஒரு முறை தெரிவாகியிருந்தார். மாத்தளை மாவட்டத்தில் ரோகினி கவிரத்னவும் ஏற்கனவே தெரிவாகியிருந்தனர்.
-
-இம்முறை தேர்தலில் முதல் தடவையாக போட்டியிட்டவர்களான ஐக்கிய மக்கள் சக்தியைச் சேர்ந்த சமிந்ராணி கிரியெல்லவும், தேசிய மக்கள் சக்தியில் முதன் முறை போட்டியிட்ட  துஷாரி ஜயசிங்கவும் கண்டி மாவட்டத்தில் வெற்றி பெற்றுள்ளனர்.
-
-அதேவேளை, மாத்தளை மாவட்டத்திலும் இரண்டு பெண்கள் வெற்றி பெற்றுள்ளனர். ஏற்கனவே பாராளுமன்றில் அங்கம் வகித்த ரோகினி கவிரத்னவும் முதல் முறையாக போட்டியிட்ட தீப்தி வாசலகேயும் வெற்றி பெற்றுள்ளனர்.
-
-◼️
-
-[Data](articles/d05012ab.json)
-
----
-
-### வவுனியா தாண்டிக்குளம் குளப்பகுதியில் மனிதக் கழிவுகளை வீச முற்பட்டவரை நையப்புடைத்த இளைஞர்கள்!
-
-*2024-11-17 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198964) · `ta`
-
-வவுனியா தாண்டிக்குளம் குளப்பகுதியில் மனிதக் கழிவுகளை வீச முற்பட்ட நபர் ஒருவர் இளைஞர்களால் மடக்கிப் பிடிக்கப்பட்டு நையப்புடைக்கப்பட்டு பொலிஸாரிடம் ஒப்படைக்கப்பட்டார்.
-
-அந்த நபர் துவிச்சக்கரவண்டி ஒன்றில் மலர்ச்சாலையில் சடலங்களில் இருந்து அகற்றப்படும் கழிவுகள் கொண்ட பொதியுடன் தாண்டிக்குளம் குளத்துப் பகுதிக்குச் சென்றுள்ளார். அதனை தொடர்ச்சியாக அவதானித்து வந்த இளைஞர்கள் சிலர் அவரை மடக்கிப்பிடித்து நையப்புடைத்ததுடன், அந்த பகுதி கமக்காரர் அமைப்புக்கு தகவல் வழங்கியிருந்தனர்.
-
-அதன் பின்னர், அங்கு சென்ற கமக்காரர் அமைப்பினரும் பொதுமக்களும் இவ்விடயம் தொடர்பாக வவுனியா பொலிஸார் மற்றும் சுகாதார பிரிவுக்கு தகவல் வழங்கினர்.
-
-அதனையடுத்து, உரிய இடத்துக்குச் சென்ற பொலிஸார் அந்த நபரை கைது செய்து பொலிஸ் நிலையத்துக்கு அழைத்துச் செல்ல முற்பட்டனர்.
-
-அவ்வேளை, அதற்கு மறுப்பு தெரிவித்த பொதுமக்கள் மற்றும் இளைஞர்கள் மலர்ச்சாலையின் உரிமையாளர் வரும் வரையில் வாகனத்தை நகரவிடமாட்டோம் என போராட்டத்தில் ஈடுபட்டனர். இதனால் அப்பகுதியில் குழப்பநிலை ஏற்பட்டது.
-
-...
-
-[Data](articles/a79f4ab8.json)
-
----
-
-### The third group of IMF visited Sri Lanka
-
-*2024-11-17 11:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-மூன்றாவது-குழு-இலங்கை-விஜயம்/175-347327) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"IMF team led by Peter Broyer visits Sri Lanka Nov 17-23. Conducts 3rd review of Sri Lanka Economic Reform Program. Evaluates progress on economic stabilization and financial challenges. IMF provides financial assistance and policy guidance for Sri Lanka's economic recovery."
-
-🟩
-
-The International Monetary Fund (IMF) headed by Senior Ambassador to Sri Lanka Peter Broyer will visit Colombo from November 17 to 23.
-
-The IMF spokesman said that the group will conduct the third value of the Sri Lanka Economic Reform Program under the IMF's expanded financial facility.
-
-This review is an important step in evaluating the progress of reforms aimed at stabilizing Sri Lanka's economy and facing the financial challenges faced by the country.
-
-The International Monetary Fund Expanded Finance Provides Financial Assistance and Policy Guidelines to facilitate Sri Lanka's economic recovery efforts
-
-◼️
-
-[Data](articles/b55b6fec.json)
-
-[Extended Data](ext_articles/b55b6fec.ext.json)
-
----
-
-### China's stand on new President Trump
-
-*2024-11-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203455) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Chinese President Mahinda Rajapaksa expressed willingness to work with incoming US President Donald Trump. However, relations deteriorated under Trump, with increased tariffs and COVID-19 tensions reaching crisis levels.
-
-🟩
-
-US President Joor President Joe Breaden, who is to retire in January, met with China President Mahinda Rajapaksa yesterday.
-
-Asia-Pacific Economic Cooperation Conference in the Peru.
-
-The Chinese President had said that he was ready to collaborate with the elected President Donald Trump.
-
-However, during Trump's first reality, China-American ties were severely widened, and Covod was a Chinese virus and reached the degree of collapse.
-
-Trump said that after his arrival in the platform, Trump said that after he arrived in power, the import was imposed 60 percent of China.
-
-◼️
-
-[Data](articles/c5f882fa.json)
-
-[Extended Data](ext_articles/c5f882fa.ext.json)
-
----
-
-### One killed in an accident in Borella
-
-*2024-11-17 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203454) · `si`
-
-Accident in Borella: Motorcyclist killed, two in car injured. Incident occurred on Narahenpita-Kithulwatta Road.
-
-🟩
-
-බොරැල්ල කනත්ත අසල කිතුල්වත්ත මාර්ගයේ දී අද (17) සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
-
-The accident occurred at Narahenpita to Kithulwatta Road.
-
-It is reported that the motorcyclist has died on the spot.
-
-It is reported that two in the car had arrived and the camera of the car had escaped the car.
-
-◼️
-
-[Data](articles/1f182df9.json)
-
-[Extended Data](ext_articles/1f182df9.ext.json)
-
----
-
-### Special train services for commuters returning to Colombo
-
-*2024-11-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103558/special-train-services-for-commuters-returning-to-colombo) · `en`
-
-The Department of Railways has announced that special train services will be in operation today (17) and tomorrow (18), for the commuters returning to work after the 2024 General Election leave and the long weekend.
-
-The department said that special trains have been added to the service on these two days in addition to the regular scheduled train services.
-
-Accordingly, 7 special trains will be operated covering routes from Colombo Fort to Badulla, from Badulla to Colombo Fort, from Kandy to Colombo Fort and from Beliatta to Colombo Fort.
-
-The Department of Railways also stated that special train services will be operational from Colombo Fort to Hikkaduwa, Matara to Colombo Fort, and Galle to Colombo Fort during this period.
-
-◼️
-
-[Data](articles/3f9eb234.json)
-
-[Extended Data](ext_articles/3f9eb234.ext.json)
-
----
-
-### பேலியகொடையில் ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது
-
-*2024-11-17 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198966) · `ta`
-
-பேலியகொடை பொலிஸ் பிரிவுக்குட்பட்ட வனவாசல பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று சனிக்கிழமை (16) பொலிஸாரால் கைது செய்யப்பட்டார்.
-
-பேலியகொடை பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டார்.
-
-கைது செய்யப்பட்டவரிடமிருந்து 10 கிராம் 500 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டது.
-
-◼️
-
-[Data](articles/3f8f0af8.json)
-
----
-
-### Cabinet Ministers sworn in tomorrow
+### அமைச்சரவை அமைச்சர்கள் நாளை பதவிப்பிரமாணம்
 
 *2024-11-17 11:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-அமைச்சர்கள்-நாளை-பதவிப்பிரமாணம்/175-347326) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-New Cabinet Ministers to be sworn in tomorrow at 10 AM. President Anura Kumara Dissanayake will preside over the ceremony at the Presidential Secretariat.
-
-🟩
-
-The Presidential Media Division (PMD) said that the new government's cabinet ministers will be sworn in tomorrow at 10 am in the presence of President Anura Kumara Dissanayake at the Presidential Secretariat.
+புதிய அரசாங்கத்தின் அமைச்சரவை அமைச்சர்கள் நாளை நவம்பர் 18 ஆம் திகதி காலை 10 மணிக்கு ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுரகுமார திஸாநாயக்க முன்னிலையில் பதவிப்பிரமாணம் செய்யவுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/f92dc079.json)
-
-[Extended Data](ext_articles/f92dc079.ext.json)
-
----
-
-### Cabinet sworn in tomorrow
-
-*2024-11-17 11:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-හෙට-දිවුරුම්-දෙයි/11-413085) · `si`
-
-New cabinet sworn in tomorrow: 25 ministers, some posts may have 2 deputies. No state ministers this year. President Anura Kumara Dissanayake explains appointments based on ministry subjects.
-
-🟩
-
-The new cabinet is to be sworn in tomorrow. The swearing in was taken at the Presidential Secretariat tomorrow morning.. New government ministers will be limited to 25. Deputy Ministers are to be appointed to certain Ministries and state minister will not be given this year.
-
-President Anura Kumara Dissanayake said that according to the number of subjects belonging to the ministries, some ministries will have to appoint two deputy ministers.
-
-◼️
-
-[Data](articles/b87ca854.json)
-
-[Extended Data](ext_articles/b87ca854.ext.json)
-
----
-
-### சீனாவில் கத்திக்குத்து தாக்குதல் - 17 பேர் பலி
-
-*2024-11-17 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198965) · `ta`
-
-கிழக்கு சீனாவில் இடம்பெற்ற கத்திக்குத்து சம்பவத்தில் 8 பேர் கொல்லப்பட்டுள்ளதுடன் 17 பேர் காயமடைந்துள்ளனர்.
-
-பலர் நிலத்தில் விழுந்து கிடப்பதையும் சிலரை சுற்றி மக்கள் காணப்படுவதையும் வீடியோவொன்றில் காணமுடிகின்றது,அலறல் சத்தங்களையும் கேட்க முடிகின்றது.
-
-பரீட்சையில் தோல்வியடைந்த ,பட்டதாரிகளிற்கான சான்றிதழை பெறாத மாணவர் ஒருவரே கத்திக்குத்தில் ஈடுபட்டார் என பொலிஸார் தெரிவித்துள்ளனர்.
-
-வன்முறைகள் குறைவான நாடு என கருதுப்படும் சீனாவை சமீபகாலத்தில் தொடர்ச்சியாக இடம்பெறும் வன்முறைகள் உலுக்கியுள்ளன.
-
-கடந்த திங்கட்கிழமை விவாகரத்து காரணமாக மனமுடைந்த ஒருவர் காரை பொதுமக்கள் மீது செலுத்தியதில் 35 பேர் கொல்லப்பட்டனர்.
-
-◼️
-
-[Data](articles/cffa977e.json)
 
 ---
 
@@ -530,48 +142,6 @@ The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-t
 
 ---
 
-### Sri Lanka central bank’s net reserves brought to almost zero by Sept 24
-
-*2024-11-17 10:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-banks-net-reserves-brought-to-almost-zero-by-sept-24-188229/) · `en`
-
-ECONOMYNEXT – Net foreign assets of Sri Lanka’s central bank have been brought to almost zero by September 2024, through consistent deflationary open market operations, after rates were hiked in April 2022.
-
-By September 2024, the net foreign assets of the central bank were negative by only 175 million dollars from a peak of negative 4.6 billion US dollars at the height of the last currency crisis in August 2024, which ended in external sovereign default.
-
-The central bank’s foreign reserves were a negative 4.0 billion dollars in March 2022 when the central bank hiked rates to contain domestic credit.
-
-But due to reserves loaned by India through the Asian Clearing Union mechanism, the central bank continued to sell down reserves and re-finance domestic credit through inflationary open market or standing liquidity facilities extending the balance of payments deficits.
-
-...
-
-[Data](articles/72a3c215.json)
-
-[Extended Data](ext_articles/72a3c215.ext.json)
-
----
-
-### New government cabinet is sworn in tomorrow
-
-*2024-11-17 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203453) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"New govt cabinet sworn in tomorrow. President Anura Kumara Dissanayake to take oath at 10:00 AM."
-
-🟩
-
-Accordingly, President Anura Kumara Dissanayake is to be sworn in before President Anura Kumara Dissanayake at 10.00 am tomorrow.
-
-◼️
-
-[Data](articles/7d15ca7b.json)
-
-[Extended Data](ext_articles/7d15ca7b.ext.json)
-
----
-
 ### New laws are implemented against corruption
 
 *2024-11-17 10:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழலுக்கு-எதிராக-புதிய-சட்டங்கள்-அமுலாகும்/175-347322) · `ta`
@@ -589,28 +159,6 @@ Moreover, even if the existing laws are not adequate, new laws will be prepared 
 [Data](articles/b3d6d178.json)
 
 [Extended Data](ext_articles/b3d6d178.ext.json)
-
----
-
-### IMF representatives to visit the island today
-
-*2024-11-17 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203452) · `si`
-
-IMF delegation arrives in Sri Lanka today under elderly loan facility.
-
-🟩
-
-A delegation from the IMF is due to arrive in Sri Lanka today (17).
-
-Head of the Head of Meeting of Senior Mission Senior Mission (IMF) team is due to arrive in the island.
-
-The delegation is due to arrive in the island, which is under the elderly loan facility given to Sri Lanka by the International Monetary Fund.
-
-◼️
-
-[Data](articles/b39ab811.json)
-
-[Extended Data](ext_articles/b39ab811.ext.json)
 
 ---
 
@@ -664,18 +212,6 @@ In addition, Human Rights Activist Dr. Pratibha Mahanama Hewa said that after th
 
 ---
 
-### அமைதி குலையும் நியூசிலாந்து தேசம்    ‘ஆட்சி நிர்வாகத்தை மாற்றும் கோரிக்கையும், பழங்குடி மக்களின் உரிமைப் போராட்டமும்’
-
-*2024-11-17 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198952) · `ta`
-
-நியூசிலாந்து தேசம் வாதங்களின் அடிப்படையில் இரண்டாக பிளவுபட்டு நிற்கிறது. இந்த வாதம் இலகுவானது அல்ல. ஒரு புறத்தில், இனத்துவ அடிப்படையிலான சலுகைகளுக்கு அப்பால், சகல பிரஜைகளும் சமமாக மதிக்கப்படும் சமூகத்தை உருவாக்க வேண்டும் என்ற கோரிக்கை. இந்த பார்வைக் கோணத்தை முன்வைக்கும் ஏ.சி.ரி கட்சியானது, எதுவித விசேட ஏற்பாடுகளும் இன்றி மாவோரி மக்களை பிரதான அரசியல் நீரோட்டத்தில் இணைக்க வேண்டும் என்கிறது.
-
-◼️
-
-[Data](articles/5423ea48.json)
-
----
-
 ### IMF team to visit Sri Lanka today for third review under EFF program
 
 *2024-11-17 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103555/imf-team-to-visit-sri-lanka-today-for-third-review-under-eff-program-) · `en`
@@ -684,69 +220,15 @@ A team from the International Monetary Fund (IMF), led by the Senior Mission Chi
 
 The team will visit the country to conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF), IMF Spokesperson said.
 
-The team, led by IMF Senior Mission Chief Peter Breuer, will assess Sri Lanka’s economic policies, progress on ongoing reforms, and the implementation of previous agreements with the IMF.
+Furthermore, it is reported that the visiting IMF delegation will hold extended discussions focused on the new government’s economic policy, following which the fourth tranche of the bailout package for Sri Lanka will be approved.
 
-Upon successful completion of the review, the IMF is expected to release the next installment of the loan to Sri Lanka. The IMF had approved a 2.9 billion dollar Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+The third tranche of about USD 336 million was released to Sri Lanka upon successful completion of the review by IMF in June this year.
 
 ◼️
 
 [Data](articles/8ab83c8f.json)
 
 [Extended Data](ext_articles/8ab83c8f.ext.json)
-
----
-
-### மனித வரலாற்றில்   இருண்ட அத்தியாயம்
-
-*2024-11-17 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198951) · `ta`
-
-பொறுப்பு மிக்க இக் கரிசணங்கள் பற்றி திட்டவட்டமான கருத்துக்களும் நிலைப்பாடுகளும் இருந்தபோதிலும், அமெரிக்காவும் ஏனைய ஏகாதிபத்திய சக்திகளும் காசா இனப்படுகொலையில் இஸ்ரேலுடன் தங்கள் ஒத்துழைப்பை விசாலமாக்கிக்கொண்டு தான் இருக்கின்றன. மத்திய கிழக்கு முழுவதும் இஸ்ரேல் தொடங்கிய யுத்தத்தில் நேரடியாக பங்கேற்க   இந்த மாதம், அமெரிக்கா 100 படை வீரர்களையும் இஸ்ரேலுக்கு அனுப்பியுள்ளது.
-
-◼️
-
-[Data](articles/547c2973.json)
-
----
-
-### ஜனாதிபதி வழங்கிய வாக்குறுதிகள் உண்மையெனில் மாவீரர் துயிலும் இல்லங்கள் விடுவிக்கப்பட வேண்டும் - பொன் சுதன்!
-
-*2024-11-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198954) · `ta`
-
-ஜனாதிபதி அனுர குமார திசநாயக்க வழங்கிய வாக்குறுதிகள் உண்மை எனில் உடனடியாக மாவீரர் துயிலும் இல்லங்கள் விடுவிக்கப்பட்டு, மாவீரர் நாளுக்கு முன்னதாக நல்லிணக்கத்தை ஏற்படுத்த வேண்டும் என யாழ்ப்பாண மாவட்டத்தில் பாராளுமன்ற தேர்தலில் வேட்பாளராக போட்டியிட்ட பொன் சுதன் தெரிவித்துள்ளார்.
-
-போரினால் தமது பிள்ளைகளை பறிகொடுத்த தாய்மார்கள் கூட உங்களது வாக்குறுதிகளை நம்பி வரலாற்றில்  என்றுமில்லாதவாறு  தங்களிற்க்கு வாக்களித்துள்ளார்கள். இது தாங்கள் வழங்கிய நம்பிக்கையின் அடிப்படையில் ஆகும்.
-
-எனவே அந்த வாக்குறுதிகள் உண்மை எனில் முதல் கட்டமாக தாங்கள் யுத்தத்தில் மரணித்தவர்களை அடக்கம் செய்த இடங்களிலிருந்து உடனடியாக வெளியேறி நல்லெண்ணத்தை காண்பிக்க வேண்டும் என்று கேட்டுக் கொண்டதுடன், உண்மையான நல்லிணக்கம், சமாதானத்தை ஏற்படுத்துவதற்கு தமிழ் அல்லது முஸ்லிம் ஒருவரை நாட்டின் பிரதமராக நியமிக்குமாறும் கோரிக்கை விடுத்தார்.
-
-◼️
-
-[Data](articles/e4fd67d3.json)
-
----
-
-### வைத்தியர் அர்ச்சுனாவுக்கு சாவகச்சேரியில் அமோக வரவேற்பு!
-
-*2024-11-17 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198956) · `ta`
-
-2024 பாராளுமன்ற தேர்தலில் வெற்றி பெற்ற வைத்தியர் அர்ச்சுனாவை நேற்று சனிக்கிழமை (16) சாவகச்சேரி மக்கள் வரவேற்றிருந்தனர்.
-
-தேர்தலில் வெற்றி பெற்ற பின்னர் முதல் தடவையாக வைத்தியர் அர்ச்சுனா சனிக்கிழமை பிற்பகல் யாழ். சாவகச்சேரி சென்றிருந்த நிலையில் மக்கள் அவருக்கு அமோக ஆதரவளித்தனர்.
-
-◼️
-
-[Data](articles/256bf632.json)
-
----
-
-### இரண்டாம் கட்ட வெற்றியும்  முஸ்லிம் பிரதிநிதித்துவமும்
-
-*2024-11-17 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198955) · `ta`
-
-அதிக பெரும்பான்மை இருக்கின்றது என்பதற்காக விரும்பியதைச் செய்யலாம் என எண்ணுவதோ, என்.பி.பியின் கொள்கைகளை ஜே.வி.பி.யின் அடிப்படைக் கொள்கைகள் மேவ இடமளிப்பதோ குறிப்பாக தேசிய மக்கள் சக்திக் கட்சியினர் பிரசாரம் செய்கின்ற இன ஐக்கியத்துடனான முன்னோக்கிய பயணத்திற்கு நல்லதல்ல.
-
-◼️
-
-[Data](articles/cb63bfa5.json)
 
 ---
 
@@ -777,46 +259,6 @@ He said that the decision was not easily taken and that this was the right decis
 [Data](articles/4e9cb2b9.json)
 
 [Extended Data](ext_articles/4e9cb2b9.ext.json)
-
----
-
-### உலகில் அதிகரிக்கும்   சமத்துவமின்மை  தீர்வு என்ன?
-
-*2024-11-17 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198957) · `ta`
-
-உலகிலுள்ள நாடுகளின் மொத்த வருமானத்தில் பெருந்தொகை கடன்களை மீளச் செலுத்துவதற்கே செலவிடப்படுகின்றது. பொதுவில் இது 41.5 சதவீதமாக உள்ளது. இதுவே குறைந்த மற்றும் நடுத்தர வருமானமுள்ள நாடுகளில் 48 சதவீதமாக உள்ளது. இவ்வாறு கடனைத் திருப்பிச் செலுத்தும் நடைமுறை அடுத்த 10 ஆண்டுகளாவது தொடர வேண்டும் என்பது சர்வதேச நாணய நிதியத்தின் நிபந்தனையாக உள்ளது. பெற்ற கடன்களைத் திருப்பிச் செலுத்துவதற்காக மேலும் மேலும் கடன்களைப் பெற வேண்டிய நிலையில் நாடுகள் உள்ளதால் பொருளாதாரச் சமத்துவமின்மை மென்மேலும் அதிகரிக்கும் வாய்ப்பே எதிர்காலத்தில் உள்ளது.
-
-◼️
-
-[Data](articles/0d5b1e70.json)
-
----
-
-### Eight killed in China Stress
-
-*2024-11-17 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203451) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-8 killed, 17 injured in Chinese educational institution incident. 21-year-old student arrested. Suspect failed exams, foreign media reports.
-
-🟩
-
-Eight people died in an educational institution in an educational institute in Vaukshi, China.
-
-Foreign media reports that 17 of them were injured.
-
-A 21-year-old student of the Educational Institute has been arrested in connection with the incident.
-
-The suspect has reportedly failed the failure of the aforesaid Education and the copyrife, foreign media reports say.
-
-◼️
-
-[Data](articles/372a740a.json)
-
-[Extended Data](ext_articles/372a740a.ext.json)
 
 ---
 
@@ -904,34 +346,6 @@ The vehicle was seized on the basis of a complaint issued directly to the Inspec
 
 ---
 
-### රු.මි. 145, 000 ක භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් 20 දා
-
-*2024-11-17 09:52:25* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--145--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-20-දා/11-413081) · `si`
-
-රුපියල් මිලියන එක්ලක්ෂ හතළිස් පන් දහසක් වටිනා භාණ්ඩාගාර බිල්පත් වෙන්දේසියක් නොවැම්බර් 20 දා  පවත්වන බව ශ්‍රී ලංකා මහ බැංකුව නිවේදනය කරයි.
-
-දින 91 න් කල් පිරෙන රුපියල් මිලියන 50, 000  ක  භාණ්ඩාගාර බිල්පත්, දින 182 න් කල් පිරෙන රුපියල් මිලියන 65, 000 ක  භාණ්ඩාගාර බිල්පත් සහ දින 364 න් කල් පිරෙන රුපියල් මිලියන 30, 000 ක භාණ්ඩාගාර බිල්පත් මෙදින වෙන්දේසි කරන බව මහ බැංකුව කියයි.
-
-වෙන්දේසිය සඳහා ලංසු භාර ගැනීම නොවැම්බර් 20 දහවල් 11.00 දක්වා සිදුකෙරෙන බවත්  ලංසුවක් සඳහා අවම මුදල  රුපියල් මිලියන පහක් බවත් මහ බැංකුව නිවේදනය කරයි.මේ භාණ්ඩාගාර බිල්පත් නිකුතුව හා ඒ සඳහා ගෙවීම් කිරීම නොවැම්බර් 22 දා සිදු කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/cd42b498.json)
-
----
-
-### 2018இல் சுருங்கிய 'ஈழம்' 2024இல் காணாமல்போனது
-
-*2024-11-17 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198950) · `ta`
-
-'தமிழ் மக்கள் அபிலாஷைகளை வென்றெடுப்பதற்கான நகர்வுகளை தமிழ்த் தேசியக் கட்சிகளின் பிரதிநிதித்துவங்களை அடியொற்றியா இல்லை தேசிய மக்கள் சக்தியின் நேரடிப் பிரதிநிதித்துவங்களை மையப்படுத்தியா செய்யப்போகின்றார்கள் என்பதே தற்போதுள்ள கேள்வி'
-
-◼️
-
-[Data](articles/737d8dbb.json)
-
----
-
 ### Woman trapped with 66 passports
 
 *2024-11-17 09:47:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/66-கடவுச்சீட்டுகளுடன்-சிக்கிய-பெண்/175-347315) · `ta`
@@ -964,30 +378,6 @@ When the suspects checked the house where they were staying, 20 milligrams of ic
 
 ---
 
-### බඩෝවිට අසංකගේ ගෝලයෙක් අත්අඩංගුවට
-
-*2024-11-17 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203450) · `si`
-
-S:0
-
-🟩
-
-විදේශ ගතව සිටින සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත්ද්‍ර‍ව්‍ය ජාවාරම්කරුවෙකු වන බඩෝවිට අසංකගේ ගෝලයකු හෙරොයින් සමඟ අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම සැකකරු බඩෝවිට අසංක නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය බෙදාහරින ගෝලයකු බව අනාවරණය වී ඇති බව පොලීසිය පවසයි.
-
-The suspect has been arrested in a raid carried out by a team of officers of the Moratuwa camp officials in the Moratuwa camp.
-
-He has been recovered from five grams of heroin and 200 milligrams of heroin, and the Mount Lavinia has been handed over to the police station.
-
-◼️
-
-[Data](articles/91d4e00b.json)
-
-[Extended Data](ext_articles/91d4e00b.ext.json)
-
----
-
 ### Eight killed in second mass attack in China this week
 
 *2024-11-17 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103554/eight-killed-in-second-mass-attack-in-china-this-week) · `en`
@@ -1005,58 +395,6 @@ That incident touched off a rare online discussion over the mental health of Chi
 [Data](articles/5de7a167.json)
 
 [Extended Data](ext_articles/5de7a167.ext.json)
-
----
-
-### UNP comes from elephant sign for future elections
-
-*2024-11-17 09:27:56* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-ඉදිරි-මැතිවරණ-සඳහා-අලියා-ලකුණින්-එයි/11-413080) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"UNP decides to contest under elephant symbol in future elections. Party Chairman Vajira Abeywardena discusses strategy with leader Ranil Wickremesinghe. Emphasizes unity among political parties and support for the government's victory. Expresses confidence in the current administration's ability to address challenges and fulfill public expectations."
-
-🟩
-
-The United National Party (UNP) has decided to contest with the United National Party should contest under the elephant sign for the next election. Party Chairman Vajira Abeywardena says that the present leader leader Ranil Wickremesinghe has been discussing this regard.
-
-"In some cases of the present paddy, the United National Party is raining to work at the time of failing to pass the procedures made by them.
-
-And if we think, we came forward with a number of political parties that comprised of many political parties. We must remember two things in the honey. One is avoided by the country's largest voting. A large dies are mainly involved in losed political parties.
-
-There may be things they hope,. Also, the government leading the President has made a historic victory. We offer our praise on that. And this is a special occasion for Sri Lanka. The presence of the presence, the presence of this, has achieved a victory in the history of Sri Lanka.. We need to be happy as Sri Lankans.
-
-...
-
-[Data](articles/afc3b861.json)
-
-[Extended Data](ext_articles/afc3b861.ext.json)
-
----
-
-### Here are the women who come to represent Parliament
-
-*2024-11-17 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203449) · `si`
-
-20 women elected to 10th Sri Lankan Parliament: 19 from National List, 2 from Districts. Key figures include Dr. Harini Amarasuriya, Kaushalaya Ariyaratne, and Ambika Wijesinghe.
-
-🟩
-
-21 women have been elected to represent the 10th parliament.
-
-Of them, 19 of them are of the national propagation and two have been conical.
-
-Accordingly, Dr. Harain Amarasuriya, Kaushalu Ariyaratne, Samanni Kalahetha, Sithika Pakaraja, Ambika Wijesinghe, Ambika Samuel, Chathuru GanganiThe women of Nilassesha Gamage, Sagarica Athand and Deepthihawoman have been elected to Parliament representing the national folk force.
-
-Meanwhile, former parliamentarian Ruin Kumari and Chamindrani Kiriella have been elected representing the harmony community.
-
-◼️
-
-[Data](articles/2fda9745.json)
-
-[Extended Data](ext_articles/2fda9745.ext.json)
 
 ---
 
@@ -1208,100 +546,6 @@ In addition, special train services will be held from Colombo Fort to Hikkadu, M
 
 ---
 
-### Sri Lanka - New Zealand Second ODI today
-
-*2024-11-17 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203448) · `si`
-
-Sri Lanka vs New Zealand 2nd ODI today at Pallekele Stadium. Sri Lanka leads 1-0. Win today to clinch series. Sri Lanka won here last in 2012 under Mahela Jayawardene.
-
-🟩
-
-The New Zealand team and the Sri Lankan team will be played today at Pallekele Stadium today (17).
-
-The match will be held at 2.30 pm this afternoon.
-
-Sri Lanka won the first match of the Sri Lanka-New Zealand ODI series by 45 runs.
-
-Accordingly, Sri Lanka is in the forefront of a drop of 3 matches.
-
-If Sri Lanka wins the match today, the One ODI will win the one ODI win.
-
-Sri Lanka has been recorded against New Zealand in 2012, with Mahela Jayawardene's leadership.
-
-According to the Sri Lanka team today, Sri Lanka will be able to win the ODI series winning over 12 years after 12 years.
-
-Sri Lanka have played 38 runs in the Pallekele Stadium.  ඉන් තරග 21ක් ජයගෙන ඇති අතර තරග 16ක් පරාජයට  පත්ව ඇත.
-
-New Zealand have played three ODIs at Pallekele Stadium, while they defeated one match.
-
-◼️
-
-[Data](articles/faa40b79.json)
-
-[Extended Data](ext_articles/faa40b79.ext.json)
-
----
-
-### New Chancay Harbor opens new Chancay
-
-*2024-11-17 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203447) · `si`
-
-Chancay Harbor opening: China-Peru joint project enhances regional connectivity and trade.
-
-🟩
-
-China and Peru opened the Chancay port project, which was built by China and Peru, to combine the 'one route' program.
-
-About 500 years ago, Perus, the ancestors of the Andes, built the port, was built in the Andes, which was built through its northern and southern regions.
-
-It is also said that the port project will contribute greatly to the development of Peru.
-
-It is significant that the transportation of goods is to be easily improved and facilitated by China and Latin American region through China and Latin American region.
-
-President of China She Jin Pin, President of China, and the President of Peru Boluarte has joined the video technology to open the port territory.
-
-This year's official visit to the Peru, this year's official visit to Peru, Mr. Shi Jinping joined the third official visit to the Chinese president.
-
-Speaking, the Chinese President said that the current chancay port is becoming a new starting point for the New Achca Trail.
-
-...
-
-[Data](articles/54587983.json)
-
-[Extended Data](ext_articles/54587983.ext.json)
-
----
-
-### USS Michael Murphy to Colombo
-
-*2024-11-17 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203446) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US Navy destroyer USS Michael Murphy arrived in Colombo. Commander Jonathan commands the ship. The Sri Lankan Navy followed traditions during the visit. The vessel will depart today after fulfilling supply and service needs.
-
-🟩
-
-USS Michael Muichael Muichael Murphy of US Naval Ship arrives at the Port of Colombo yesterday (16).
-
-The Sri Lankan Navy had acted in accordance with the Navy Traditions.
-
-Arleigh Burke Class Guided Missile Destroyer is a 'USS Michael Muichael Muichael Muichael Muichael Muichael Muicy Murphy'.
-
-Commander Jonathan as Commanding Officer of the Ship. Greenwald works.
-
-Further, following the supplies and service requirements, the 'USS Michael Murphy' is due to leave the island today (17).
-
-◼️
-
-[Data](articles/14a7f11d.json)
-
-[Extended Data](ext_articles/14a7f11d.ext.json)
-
----
-
 ### 75 millimeters of rain today
 
 *2024-11-17 08:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-75-மில்லி-மீற்றர்-மழை/175-347311) · `ta`
@@ -1371,30 +615,6 @@ Showers will occur at a morning in the Northern and Eastern Provinces.
 [Data](articles/6bae013f.json)
 
 [Extended Data](ext_articles/6bae013f.ext.json)
-
----
-
-### Negligence is the lack of a child's suicide
-
-*2024-11-17 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203445) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Child dies attempting to fetch water from well in Mathuwa, Mamaduwa area. Incident attributed to negligence. Male victim, local resident.
-
-🟩
-
-The victim was a maleman who was resident in Mathuwa, Mamaduwa area.
-
-When the child had to take water at the morning, he died in the well, trying to take it due to falling the bucket.
-
-◼️
-
-[Data](articles/5efe41ec.json)
-
-[Extended Data](ext_articles/5efe41ec.ext.json)
 
 ---
 
@@ -2305,5 +1525,909 @@ The film, which is directly ready in both Tamil and Telugu, has been translated 
 [Data](articles/d7de5636.json)
 
 [Extended Data](ext_articles/d7de5636.ext.json)
+
+---
+
+### Strikes in Canada
+
+*2024-11-16 17:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203433) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Canada's postal workers strike over wage demands. They've been striking for 3 days, seeking higher pay to match inflation. After 6 years without a strike, they're pushing for better working conditions. Authorities offered an 11.5% salary increase over four years, but workers claim this isn't enough.
+
+🟩
+
+Canada's mailing union strike has launched a strike, taking on several demands, including wages.
+
+Foreign media reports that they are planning to engage in strike for 3 days.
+
+They have launched a strike after 6 years.
+
+Postal professionals requests the strike to increase the salaries in line with inflation and the cost of living.
+
+They are also asking to create a suitable environment to serve.
+
+Authorities have agreed to increase the salary increase of 11.5 percent in four years.
+
+However, it is said that it is the idea of ​​the strike that it is not enough.
+
+◼️
+
+[Data](articles/e8fd117b.json)
+
+[Extended Data](ext_articles/e8fd117b.ext.json)
+
+---
+
+### Sajith Premadasa’s vote count plummeted by more than half in Colombo District
+
+*2024-11-16 17:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103546/sajith-premadasas-vote-count-plummeted-by-more-than-half-in-colombo-district) · `en`
+
+The Colombo District has seen a profound shift in voter dynamics in the 2024 General Election, with the leader of the Samagi Jana Balawegaya (SJB) Sajith Premadasa suffering a significant decline in support.
+
+Premadasa, who garnered an impressive 305,744 votes in the 2020 parliamentary election, managed only 145,611 votes this time—marking a loss of 160,133 votes.
+
+Meanwhile, the rise of the National People’s Power (NPP) has made significant inroads into areas traditionally dominated by the United National Party (UNP) and subsequently the SJB as well.
+
+Historically, constituencies such as Colombo-North, Central, East, and West have been strongholds for the UNP, boasting a long history of electoral victories. In 2020, Premadasa’s SJB managed to wrest control of these areas, consolidating its power. However, the tide has turned in this election, with the NPP claiming dominance in these constituencies.
+
+...
+
+[Data](articles/cda05170.json)
+
+[Extended Data](ext_articles/cda05170.ext.json)
+
+---
+
+### Greeting the President of Canada for election victory
+
+*2024-11-16 17:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/198939) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Greetings to Canada's President on election win. Implementing 13th Amendment & holding provincial council polls crucial for robust regional governance & local representation until new constitution approval.
+
+🟩
+
+Putting the 13th Amendment and holding the Provincial Council election: Until the new constitution is approved, the fullest implementation of the 13th Amendment and conducting provincial council elections are important measures to strengthen regional governance and ensure local government representation.
+
+◼️
+
+[Data](articles/32be4669.json)
+
+[Extended Data](ext_articles/32be4669.ext.json)
+
+---
+
+### Samudrakani starrer 'Raja Glyi'
+
+*2024-11-16 17:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198936) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Raja Kili", starring Samudrakani, releases on 29th. Directed by Samudrakani, featuring Thambi Ramaiah, Daniel Balaji, M.S. Bhaskar. Music by Kedarnath, Sai Dinesh. Produced by Suresh Kamakshi's V House Productions. Preview viewed by over 3 million last year.
+
+🟩
+
+The release date of the film 'Raja Kili', which plays the lead role in the director and actor Samudrakani, has been officially announced with a special photo.
+
+Samudrakani, Thambi Ramaiah, late actor Daniel Balaji and M. S.. Bhaskar, Prince, 'Aadulam' Narain, fruit. Many others including Karupaya, Reshma Pasupuletty.
+
+Kedarnath and S. Thambi Ramaiah and Sai Dinesh have composed the film for the film, which has been recorded by Gopinath.
+
+The film was produced by famous producer Suresh Kamakshi on behalf of V House Productions.
+
+The preview of the film was released last year and was a record of over three million viewers.
+
+The film, which has been waiting for the release for a long time, has been announced on the 29th of this month at the film House.
+
+◼️
+
+[Data](articles/55a4225e.json)
+
+[Extended Data](ext_articles/55a4225e.ext.json)
+
+---
+
+### Mass attack on political party office in Batticaloa
+
+*2024-11-16 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198920) · `ta`
+
+Attack damages political office in Batticaloa. Complaint filed at Kattankudy Police Station. Office belonged to MI Abdul Wahhab, who ran in Batticaloa district PA election. Mirrors destroyed, advertising posts built by attackers. No injuries as office empty during attack.
+
+🟩
+
+A complaint has been lodged at the Kattankudy Police Station that the office has been severely damaged by a massive attack on the party office in the Batticaloa district on Friday (15).
+
+The office of the office said that the election office, which was located on the Poonchimunai Darussalam Playground road belonging to the Kattankudi division of Batticaloa, may have been attacked midnight or early this morning.
+
+The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
+
+The mirrors of the office were completely damaged in the attack and the advertising posts were built by the attackers.. Was able to observe
+
+There was no life or injuries because there was no one in the office at the time of the attack
+
+◼️
+
+[Data](articles/70bc29ca.json)
+
+[Extended Data](ext_articles/70bc29ca.ext.json)
+
+---
+
+### The president has a huge responsibility
+
+*2024-11-16 16:38:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/ஜனாதிபதிக்கு-பாரிய-பொறுப்பு-இருக்கிறது/74-347292) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+President faces significant responsibilities after winning North-East votes. Party secured seats in Vanni and Ampara districts. Losses in other areas acknowledged. Election outcome boosts public expectations. President must now deliver on promises to voters.
+
+🟩
+
+North -East people voted for the president's party. Rishad Bathiudeen said the president has a huge responsibility.
+
+He said this while commenting to the media about his success. As he further stated,
+
+06 members of the Vanni district have been elected. The President -led party has received two seats, including the bonus seat. The United People's Power has received a seat and the Vanni people have given me the highest number of votes in the district. The reason for this victory is the tireless effort of all who contested our party. We also thank the people of the district.
+
+I will continue the work for the people of Vanni district. Likewise, my party has won alone in Ampara district. My thanks to those people. In the districts of Puttalam, Anuradhapura, Kurunegala, Trincomalee and Batticaloa, our party could not win. My thanks to those people.
+
+...
+
+[Data](articles/5600a938.json)
+
+[Extended Data](ext_articles/5600a938.ext.json)
+
+---
+
+### Sajith's vote decreases compared to last year
+
+*2024-11-16 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203432) · `si`
+
+Sajith Premadasa's vote count decreased from 305,744 in 2020 to 145,611 in the latest election, resulting in a loss of 160,133 votes. This significant drop challenges his stronghold in the Colombo district, traditionally a UNP bastion.
+
+🟩
+
+The number of votes polled by leader Sajith Premadasa, who represented the Colombo district, has fallen significantly compared to the parliamentary election.
+
+At the 2020 parliamentary election, Sajith Premadasa scored 305,744 votes from the Colombo district.
+
+But this year's parliamentary election was only 145,611 votes.
+
+Accordingly, 160,133 votes have lost 1620 votes in the election this year.
+
+Meanwhile, the national folk force has also been able to break the power in the Colombo National Party in the Colombo District.
+
+The number of votes in Colombo North, Central, Eastern and West, had a special fortress for the UNP in a long election history.
+
+The forts have been able to represent Sajith Premadasa at the parliamentary election of Sajith Premadasa, representing the sorts of power in this year's election.
+
+Sajith Premadasa has lost power in Colombo, which is like the Heart of the UNP.
+
+◼️
+
+[Data](articles/c83522d1.json)
+
+[Extended Data](ext_articles/c83522d1.ext.json)
+
+---
+
+### Philippines evacuates tens of thousands as super typhoon Man-Yi nears
+
+*2024-11-16 16:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103545/philippines-evacuates-tens-of-thousands-as-super-typhoon-man-yi-nears) · `en`
+
+The Philippines evacuated tens of thousands of people from their homes and cancelled dozens of flights on Saturday, as a super typhoon threatened to unleash heavy rains and powerful winds that could trigger floods and storm surges.
+
+Packing winds of 185 kph (115 mph), the storm Man-Yi was heading for the eastern part of the main island of Luzon, spurring the weather agency to raise its second-highest alert for the provinces of Catanduanes and Camarines Sur.
+
+“Pepito is approaching its peak intensity,” it added, using the domestic name for the super typhoon, which it said was likely to make landfall near Catanduanes on Saturday night or early Sunday.
+
+Close to 180,000 people in the central region of Bicol have been evacuated, data from the disaster agency showed.
+
+The sixth tropical cyclone to hit the Philippines in a month, Man-Yi has also forced cancellation of dozens of flights in the eastern Visayas region facing the Pacific Ocean.
+
+...
+
+[Data](articles/5aa6d473.json)
+
+[Extended Data](ext_articles/5aa6d473.ext.json)
+
+---
+
+### Case against those who do not submit the cost report
+
+*2024-11-16 16:27:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செலவு-அறிக்கையை-சமர்ப்பிக்காதவர்களுக்கு-எதிராக-வழக்கு/175-347291) · `ta`
+
+Elections Commission warns candidates: No cost report submission = prosecution. 8,888 candidates must comply within 21 days under Election Expenditure Regulatory Act. Legal action for late submissions.
+
+🟩
+
+The Elections Commission has said that all candidates who do not submit the election cost report will be prosecuted against political parties and independent groups.
+
+Under the Election Expenditure Regulatory Act, all expenses should be submitted to the Election Commission within 21 days after the election.
+
+8,888 candidates from various political parties and independent groups have been fielded in the general election.
+
+Additional Election Commissioner of the Elections Commission, Chinthaka Gularatne said that legal action would be taken against candidates who did not submit the income report in a timely manner.
+
+◼️
+
+[Data](articles/facb73a0.json)
+
+[Extended Data](ext_articles/facb73a0.ext.json)
+
+---
+
+### Archana does not have any advise
+
+*2024-11-16 16:22:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/அறிவுரை-கூறும்-யோக்கியதை-அர்ச்சுனாவுக்கு-இல்லை/72-347290) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamil voters reject unity. Jaffna sees low support for national party, high for federal parties. Media center discusses election results. Tamil nationalism not advised against. Parties urged to unite against Sinhala dominance. Financial aid brings hope, inspires community service.
+
+🟩
+
+The Tamil people of the North East have voted against the unity. In Jaffna, only 80 thousand votes for the national people's power, but the Tamil parties who emphasize the federal have received one million and fifty thousand votes. The NPP and Anganjan Bonro's votes have been made available to the people.
+
+வடமராட்சி ஊடக இல்லத்தில் இன்று (16) இடம்பெற்ற ஊடக சந்திப்பில் கலந்துகொண்ட போதே இதை குறிப்பிட்டார்.
+
+நடைபெற்று முடிந்த பொதுத்தேர்தல் முடிவுகள் முழு நாட்டிற்கும் தமிழீழ மக்களுக்கும் பல செய்திகளை சொல்லியுள்ளது. We accept the verdict issued by the Tamil people. Failures are not new. Let's get up again.
+
+தமிழ்த் தேசியத்தை எவரும் பேச கூடாது என்று அர்த்தமல்ல. Archana does not have the idea of ​​advising Tamil nationalism. Act as a Member of Parliament on the basis of the judgment of the people. Local and diaspora Tamils ​​who learned the financial crisis through the newspaper have done as much financial assistance.
+
+...
+
+[Data](articles/4ad0556e.json)
+
+[Extended Data](ext_articles/4ad0556e.ext.json)
+
+---
+
+### Last report of foreign observers handed over to the Commission
+
+*2024-11-16 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203431) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Foreign observers hand over final report to Election Commission after monitoring general election. Group of 10 observers arrived in Sri Lanka to observe pre, during, and post-election periods."
+
+🟩
+
+Foreign observers have handed over their final report from the Election Commission invitation to monitor the general election.
+
+They have been handed over to the Elections Commission at the Election Commission premises.
+
+A group of 10 foreign observers had arrived in Sri Lanka to monitor this year's general election.
+
+Accordingly, they have observed their observations at the elevated season, election date and post-election period.
+
+◼️
+
+[Data](articles/64f2eabd.json)
+
+[Extended Data](ext_articles/64f2eabd.ext.json)
+
+---
+
+### Youth House Secretary to a girl
+
+*2024-11-16 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203430) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Donald Trump appoints 27-year-old Carolin Leavitte as White House Media Secretary. She's reportedly the youngest person ever appointed to this position. The appointment is seen as a sign of Trump's commitment to change in his administration.
+
+🟩
+
+Donald Trump, elected as the American new President, has been appointed 27-year-old Carolyvitt for the White House Media Secretary.
+
+According to foreign media reports, she was the young woman who was appointed as the White House in American history.
+
+Trump has been appointed by the new appointment that he expects to act in the office of a severe commitment.
+
+In 2019, Carolin Leavitte Truth preserved was attached to the Media Office of the White House.
+
+◼️
+
+[Data](articles/74fa0ad5.json)
+
+[Extended Data](ext_articles/74fa0ad5.ext.json)
+
+---
+
+### It is no longer questioned in Geneva that Tamils ​​are ignored;Amnesty to political prisoners - Attorney Pradeepa Mahanama
+
+*2024-11-16 15:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/198926) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamils ignored no more: Amnesty for political prisoners urged. Tamil cooperation with President Anura Kumara Dissanayake's government. New political culture emerging in North and East. UN Human Rights Commission session in Feb 2025.
+
+🟩
+
+The people of the North and East have fully cooperated with the government headed by President Anura Kumara Dissanayake. It is no longer questioned in Geneva that Tamils ​​are ignored from the political structure.
+
+Attorney -at -Law Pradeepa Mahanama said the president should grant public amnesty to political prisoners detained under the Prevention of Terrorism Act.
+
+The National People's Power, led by President Anura Kumara Dissanayake, has won the 21 election districts in the general election.
+
+The Tamil people of the Northern and Eastern Province have moved away from traditional political culture and entered into new political culture.
+
+The people of the Northern and Eastern Province, in particular, the Tamil people, have been fully cooperating with the national people's power led by President Anura Kumara Dissanayake.
+
+It is a special feature that the national people's power has succeeded without any political alliance.
+
+...
+
+[Data](articles/97d5cfb6.json)
+
+[Extended Data](ext_articles/97d5cfb6.ext.json)
+
+---
+
+### Thand of Rs.. 435,000,000 is handed over to the owner
+
+*2024-11-16 15:24:09* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ල-ආර්ථිකයේ-වැටි-තිබූ-රු--435000ක-මුදල-හිමිකරුටම-භාරදෙයි/11-413074) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Rs. 435 million handed over to owner at Dambulla Economic Center. Money found by worker, returned to rightful owner after informing trade union leaders.
+
+🟩
+
+The Economic Center (Economic Center) took steps to hand over the owner in the 16-day of Rs.
+
+The Chairman of the Labor of the Workers The Chairman of the Labor of the Labor of the Dambulla Economic Center has fallen into the database of the morning.
+
+Later, the Chairman of the Economic Center Labor and the Worker, the Manager of the Dambulla Economic Center Trade Union has been informed of the House of Tambarasiri Bandara.Accordingly, the manager of the Economic Center Merchant Association has informed this to KS Siriwardena and several businessmen
+
+Chairman of the Trade Association, CSS Siriwardena has taken the wallet through loudspeakers in the Economic Center, which operates in the economic center.
+
+Atformed about nine a morning, but twelve noon were the owner
+
+Padaviya Siri Siri Vedu Vva, a resident of Siri Siri Vi. The Chairman said Siripala had come to the Economic Center Trade Association's office, the Chairman said.
+
+...
+
+[Data](articles/35336434.json)
+
+[Extended Data](ext_articles/35336434.ext.json)
+
+---
+
+### The President has a huge responsibility: Risad
+
+*2024-11-16 15:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198921) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+President faces immense responsibility after winning North-East votes. Party secured 2 seats in Vanni district. Leader promises continued work for Vanni people. Election outcome seen as new message from the nation, with high hopes for fulfilling public expectations.
+
+🟩
+
+North -East people voted for the president's party. Wanni district parliamentarian Rizat Bathiudeen said that the president has a huge responsibility.
+
+He said this while commenting to the media about his success. As he further stated,
+
+06 members of the Vanni district have been elected. The president -led party has won two seats, including a bonus seat.
+
+The United People's Power has received a seat and the Vanni people have given me the highest number of votes in the district.
+
+The reason for this victory is the tireless effort of all who contested our party. We also thank the people of the district.
+
+I will continue the work for the people of Vanni district. Likewise, my party has won alone in Ampara district. My thanks to those people. In the districts of Puttalam, Anuradhapura, Kurunegala, Trincomalee and Batticaloa, our party could not win. My thanks to those people.
+
+I claim that after the election, my work is more than ever before.
+
+...
+
+[Data](articles/474229fc.json)
+
+[Extended Data](ext_articles/474229fc.ext.json)
+
+---
+
+### “Got exactly what we expected. SLPP will never quit”: MR on election result
+
+*2024-11-16 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103544/got-exactly-what-we-expected-slpp-will-never-quit-mr-on-election-result-) · `en`
+
+The leader of the Sri Lanka Podujana Peramuna (SLPP), former President Mahinda Rajapaksa claims that the party received the exact number of votes they had expected.
+
+Speaking to the media today (16), he expressed that the victory of the National People’s Power (NPP) is a positive development, noting that freshers should be given the opportunity to see if they can succeed.
+
+Commenting on the significant rise of the NPP from 3% of total votes in the previous general election to 61%, the former President said: “It is the people of this country who voted, not outsiders. I think we should respect the public mandate… Maybe [they will] succeed, maybe [they will] collapse.”
+
+In response to a question raised by a journalist, Rajapaksa also added that the SLPP will never give up and that he will not retire from politics, asking, “Which politician retires from politics?”
+
+...
+
+[Data](articles/376dc71d.json)
+
+[Extended Data](ext_articles/376dc71d.ext.json)
+
+---
+
+### A man arrested with domestic gun in Kodavehera
+
+*2024-11-16 15:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198916) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Man arrested with domestic firearm in Kodavehera police division yesterday. Incident occurred in Ahubodagama area.
+
+🟩
+
+A suspect with a domestic gun was arrested yesterday (15) in Ahubodagama, which belongs to the Kodavehera police division, Kodawehera police said.
+
+◼️
+
+[Data](articles/9c335acf.json)
+
+[Extended Data](ext_articles/9c335acf.ext.json)
+
+---
+
+### Victory of recorded compass
+
+*2024-11-16 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203429) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National folk force wins historic election with 6,863,186 votes, highest ever in Sri Lanka. Obtains 152 constituencies and 159 seats, including 172,066 National List seats. First time a single party achieves 2/3 majority under proportional system.
+
+🟩
+
+The national folk force marked a historic win by the general election.
+
+Accordingly, a party has been able to obtain the highest number of votes from the history of Sri Lanka's history 6,863,186 votes.
+
+The 6,853,690 votes obtained from the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment in the 2020 votes in the country.
+
+Earlier, the United People's Freedom Alliance (UPFA) was 60.33%.
+
+The national power was also possible to win the highest number of districts of a general election.
+
+The 21st selection districts except Batticaloa District.
+
+Earlier, the report that the UPFA won 19 districts in 2010 will be collapsed accordingly.
+
+The national folk force has won the highest number of constituencies in this year's general election.
+
+It was 152 constituencies and the United People's Freedom Alliance (UPFA) had won 136 divisions.
+
+The National Jathi Province won the highest number of seats at district level, breaking up the report of the Sri Lanka General Front in 2020.
+
+...
+
+[Data](articles/0e8a4d32.json)
+
+[Extended Data](ext_articles/0e8a4d32.ext.json)
+
+---
+
+### Russian tourist alleges sexual assault at hotel in Ahungalla
+
+*2024-11-16 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103543/russian-tourist-alleges-sexual-assault-at-hotel-in-ahungalla) · `en`
+
+A 41-year-old Russian woman staying at a popular hotel in Ahungalla has alleged that she was raped by a hotel employee on November 12, according to police.
+
+The woman, who is a bank employee, was staying at the hotel and celebrating her birthday on the night of the incident. After consuming alcohol excessively during the celebrations, she reportedly returned to her room, the police said.
+
+However, she has alleged that a hotel staff member entered her room and sexually assaulted her. Following the incident, the woman filed a complaint with Ahungalla Police.
+
+Authorities have identified the suspect, the police said, noting that Ahungalla Police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/0fd5fe21.json)
+
+[Extended Data](ext_articles/0fd5fe21.ext.json)
+
+---
+
+### I will unite all the Tamil members in Parliament and handle the public issues as the same team - wealth.
+
+*2024-11-16 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198924) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamil MPs unite under TNA to address public issues collectively. Focus on ethnic problems and development. Aim to resolve Tamil political prisoner releases, fisherman issues, and address disappearances.
+
+🟩
+
+The Democratic Tamil National Alliance (TNA) Wanni District Parliamentarian Selvam Adakkalanathan said that we are working together to unite all the Tamil MPs and act as the only team in parliament.
+
+He was speaking at a media briefing held at the office in Mannar on Saturday morning.
+
+We gathered votes to the people demanding focus on the ethnic problem and the development. We have also said that we are creating an environment where the government is working with the government on the two issues.
+
+We will focus on both matters. The aim is to listen to the grievances of the people and improve the villages.
+
+Moreover, all the Tamil MPs elected during the parliamentary election this time are taking steps to deal with public issues as a single team in parliament.
+
+As the president said, the release of Tamil political prisoners and their relations on the disappearances are demanding justice through the struggle.
+
+...
+
+[Data](articles/63449728.json)
+
+[Extended Data](ext_articles/63449728.ext.json)
+
+---
+
+### The Government's Policy Declaration November 21
+
+*2024-11-16 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198913) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake inaugurates 10th Parliament Nov 21. Delivers gov't policy speech at 3:00 PM, as per Constitutional Article 33(2).
+
+🟩
+
+President Anura Kumara Dissanayake, who will be inaugurating the first session of the 10th Parliament to be held on November 21st, will deliver the new government's policy declaration.
+
+The President will inaugurate the first session at 3.00 pm and will deliver the new government's policy speech in accordance with the authority given to the President under Article 33 (2) of the Constitution.
+
+◼️
+
+[Data](articles/b929751a.json)
+
+[Extended Data](ext_articles/b929751a.ext.json)
+
+---
+
+### Sri Lanka’s President to elect 25-member Cabinet on Monday
+
+*2024-11-16 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103542/sri-lankas-president-to-elect-25-member-cabinet-on-monday) · `en`
+
+Sri Lankan President Anura Kumara Dissanayake will appoint a new Prime Minister and the Cabinet on Monday (Nov. 18) after his National People’s Power (NPP) secured a record-breaking victory in the snap general election, the party’s senior spokesman Tilvin Silva said.
+
+“We will be appointing the Cabinet on Monday (18), limited to 25. It could be even less – 23 or 24. There will be scientific allocation of subjects for the ministries,” he added.
+
+The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-thirds majority, securing a record-breaking 159 seats in total.
+
+However, the inaugural session of the Tenth Parliament, comprising of members elected through the 2024 General Election held on November 14, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President, according to the Parliamentary Communications Department.
+
+◼️
+
+[Data](articles/c7bacac4.json)
+
+[Extended Data](ext_articles/c7bacac4.ext.json)
+
+---
+
+### Yall. Police arrested a long -term leak manufacturer in Vaddukoddai
+
+*2024-11-16 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198922) · `ta`
+
+Police arrest 21-year-old suspect in Vaddukoddai for manufacturing leaks. Found with equipment and chemicals. Case being taken to Mallakam court.
+
+🟩
+
+The Vaddukoddai police have been raided by the Vaddukoddai police this morning.
+
+A 21 -year -old suspect has been arrested with two large containers, two small containers and two copper coil used for leakage production with 166 liters of Koda and 10.5 liters.
+
+Vaddukoddai Police Station Superintendent of Police CIKSta. Ratnayake (No. 45714) PC Wijeratne (No. 83244) PS Ratnayake (No. 75227) PC Patraja (No. 22872) PC Migress (No. 91737). The arrest was carried out by a police team comprising Perera (No. 102046).
+
+After further inquiries into the suspect, the police are taking steps to make him in the Mallakam court.
+
+◼️
+
+[Data](articles/2d461d51.json)
+
+[Extended Data](ext_articles/2d461d51.ext.json)
+
+---
+
+### Approval of the Constitutional Council to appoint Murmo Fernando as CJ
+
+*2024-11-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203428) · `si`
+
+Constitutional Council approves appointment of Murdo Fernando as Chief Justice. Buddha Samara Hyupi Fernando previously served as acting Chief Justice since October 10. Murdo Fernando's career includes roles as Deputy Solicitor General from 1985 to 1997.
+
+🟩
+
+The Constitutional Council has approved the recommendation to appoint Mrs. Murdu Fernando as the Chief Justice of the country.
+
+Supreme Court Justice 'Buddha Samara Hyupi Fernando' was sworn in as the acting Chief Justice in the country on October 10.
+
+In 1985, the Attorney General's Department had joined the Attorney General's Department in 1997 and was a Deputy Solicitor General.
+
+◼️
+
+[Data](articles/7a30e633.json)
+
+[Extended Data](ext_articles/7a30e633.ext.json)
+
+---
+
+### From 3% to 61%: Six major records NPP broke in historic election victory
+
+*2024-11-16 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103541/from-3-to-61-six-major-records-npp-broke-in-historic-election-victory) · `en`
+
+The 2024 General Election marked a resounding victory for the National People’s Power (NPP) led by President Anura Kumara Dissanayake, setting unprecedented records in Sri Lanka’s electoral history.
+
+The NPP secured 6,863,186 votes, the highest ever obtained by a political party in a general election, surpassing the 6,853,690 votes won by the Sri Lanka Podujana Peramuna (SLPP) in 2020. This also accounted for a record-breaking 61.56% of the total vote, overtaking the previous high of 60.33% recorded by the United People’s Freedom Alliance (UPFA) in 2010.
+
+The NPP won 21 of the 22 electoral districts, losing only Batticaloa, breaking the UPFA’s 2010 record of victories in 19 districts. Furthermore, the party claimed 152 constituencies, shattering the UPFA’s 2010 record of 136.
+
+...
+
+[Data](articles/874b1196.json)
+
+[Extended Data](ext_articles/874b1196.ext.json)
+
+---
+
+### CC confirms Murdhu Fernando as Chief Justice
+
+*2024-11-16 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103540/cc-confirms-murdhu-fernando-as-chief-justice) · `en`
+
+The Constitutional Council has approved the recommendation to appoint Justice Murdu Fernando as the Chief Justice.
+
+Justice Fernando took oath as the Acting Chief Justice before President Anura Kumara Dissanayake on October 10, 2024.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
+
+She was appointed a President’s Counsel while serving as an additional solicitor general.
+
+She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
+
+◼️
+
+[Data](articles/e86916ab.json)
+
+[Extended Data](ext_articles/e86916ab.ext.json)
+
+---
+
+### A Russian woman raping in Ahungalla
+
+*2024-11-16 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203427) · `si`
+
+Russian woman reports rape at Ahungalla hotel. Investigation underway after November incident.
+
+🟩
+
+A Russian national has been raped at a famous hotel in Ahungalla.
+
+Accordingly, the suspect is already under investigation.
+
+A Russian national 41-year-old woman had come to a famous hotel in Ahungalla last November.
+
+The woman's birthday was on the 12th of November.
+
+On the date, she had celebrated it and dried up and went to bed at the reserved room.
+
+In the meantime, he said she had been forcibly raped by a person who came to her room.
+
+Later, the woman has lodged a complaint with the Ahungalla Police regarding the incident, the police have identified the suspect.
+
+◼️
+
+[Data](articles/aeffe11e.json)
+
+[Extended Data](ext_articles/aeffe11e.ext.json)
+
+---
+
+### History of the President's Policy Statement in Parliament
+
+*2024-11-16 13:26:21* · [`adalk`](https://www.ada.lk/opinion/ජනාධිපති-ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-පාර්ලිමේන්තුවේ-ඉදිරිපත්-කිරීම-ගැන-ඉතිහාසය/2-413073) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential policy statements in Parliament: Constitutional mandate, presented annually, analyze government policies, suspended Parliament during emergency, first delivered 1947, debated since 1978, last by Gotabhaya Rajapaksa 2020.
+
+🟩
+
+According to the Constitution 33 (a) of the Constitution, the government has entrusted with the authority to preserve the government's policy statement in Parliament and the Constitution of the Constitution.
+
+Accordingly, the President has made the government's policy statement at the beginning of every new congregation in parliament.. The President presents a detailed analysis of his government's public opinion by his policy statement by its policy statement to parliament and public. In the past, this was known as the monastery. It was presented by the Governor.
+
+The first congregation of the First Parliament is by October 14, 1947. It was ceremonially opened and presided over by Governor Sir Henry Mason Mason Moore. He was delivered by the speech and was approved by the Parliament and adopted the proposal.
+
+...
+
+[Data](articles/29b91b23.json)
+
+[Extended Data](ext_articles/29b91b23.ext.json)
+
+---
+
+### Mahindananda retires from politics
+
+*2024-11-16 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203426) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Mahindananda Aluthgamage retires from politics. He cites the general election results showing Kandy district no longer needs his service. He bows to public decision, thanks supporters, and credits the Tooth Relic for his political journey.
+
+🟩
+
+He said that former minister Mahindananda Aluthgamage is retirected from politics today (16).
+
+He said the general election of the general election has been shown that the people of the Kandy district need their service anymore.
+
+He added that he decided to retire from politics.
+
+"I bow down to the decision of the people of Kandy district. Decided to retire from politics. I personally thank everyone who brought me to politics. The Tooth Relic is helpful. "
+
+◼️
+
+[Data](articles/5193e8b7.json)
+
+[Extended Data](ext_articles/5193e8b7.ext.json)
+
+---
+
+### Namal is going to Parliament
+
+*2024-11-16 13:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செல்கின்றார்-நாமல்/175-347289) · `ta`
+
+Namal Rajapaksa elected to Sri Lanka Parliament via National List. Party general secretary Sakara Kariyawasam confirms.
+
+🟩
+
+According to the results of parliamentary elections, the party's national organizer Namal Rajapaksa will be sworn in as the National List Member of the Sri Lanka PA.
+
+The party's general secretary, Sakara Kariyawasam, said this at a media briefing held today (16). Remble
+
+◼️
+
+[Data](articles/8803fdaf.json)
+
+[Extended Data](ext_articles/8803fdaf.ext.json)
+
+---
+
+### Namal as a member of the National List of Sri Lanka PA
+
+*2024-11-16 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198914) · `ta`
+
+Namal Rajapaksa appointed MP via SLPP National List.
+
+🟩
+
+It has been decided to appoint Namal Rajapaksa as a Member of Parliament through the National List of the Sri Lanka PA (SLPP) party.
+
+Speaking at a media briefing held this morning (16), the general secretary of the Sri Lanka Peoples Alliance (PA) Sagara Kariyawasam said this.
+
+◼️
+
+[Data](articles/21fb551d.json)
+
+[Extended Data](ext_articles/21fb551d.ext.json)
+
+---
+
+### “Voters have spoken”: Mahindananda announces retirement from politics
+
+*2024-11-16 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103539/voters-have-spoken-mahindananda-announces-retirement-from-politics) · `en`
+
+Former Minister Mahindananda Aluthgamage announced his retirement from active politics during a press conference held at the Mahindananda Aluthgamage Foundation’s office in Nawalapitiya this morning (16).
+
+Reflecting on his extensive political journey, Aluthgamage highlighted that his family had been politically active in the Nawalapitiya constituency for seven decades, with his own involvement spanning over 30 years.
+
+However, he stated that the outcome of the recent General Election indicated that the people of the Kandy District no longer required his services, leading to his decision to step away from politics.
+
+In the 2024 General Election held on Thursday (14), Aluthgamage contested from the New Democratic Front (NDF), under the symbol of the ‘gas cylinder’, and secured only 20,401 votes in the district. This was a stark contrast to his previous performances, where he garnered nearly 200,000 votes in previous elections.
+
+...
+
+[Data](articles/8c1c06d9.json)
+
+[Extended Data](ext_articles/8c1c06d9.ext.json)
+
+---
+
+### Mahindananda has retired from politics
+
+*2024-11-16 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්ද-අලුත්ගමගේ-දේශපාලනයෙන්-සමුගනි/11-413072) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Mahindananda Aluthgamage retires from politics after 7 decades. He criticizes lack of public involvement in Kandy district elections. Aluthgamage claims his party didn't receive expected support, leading to his retirement.
+
+🟩
+
+Former Minister Mahindananda Aluthgamage has retired from politics (16), holding a press conference at Nawalapitiya Mahindananda's based Office.
+
+Mahindananda Aluthgamage said that the general election of the Nawalapitiya electorate for seven decades is that the people of the Kandy district has not been involved in politics..
+
+The new Democratic Front has contested the Kandy District from the new Democratic Front and has been given to the Kandy district, because they have not received the number of surpasses in the first elections.Mahindananda Aluthgamage said he was retrieved from politics.
+
+Mahindananda Aluthgamage said that they were in length and tolerate the votes of their seat for their electorates, while they were continuing in their political journey.
+
+◼️
+
+[Data](articles/7a196d71.json)
+
+[Extended Data](ext_articles/7a196d71.ext.json)
+
+---
+
+### SLPP nominates Namal Rajapaksa for its only National List seat
+
+*2024-11-16 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103538/slpp-nominates-namal-rajapaksa-for-its-only-national-list-seat) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has decided to nominate Namal Rajapaksa as an MP through the party’s National List, SLPP General Secretary Sagara Kariyawasam said.
+
+Kariyawasam announced this while joining a press briefing held this morning (16).
+
+The SLPP managed to secure only 3 seats including one bonus seat (national list) in the Parliament through the results of the 2024 General Election, which was held on November 14.
+
+The number of total votes obtained by the SLPP, once the largest party in Parliament from 2020 to 2024, was only 350,429 (3.14%) in this year’s parliamentary poll.
+
+Meanwhile, Namal Rajapaksa, who also contested in the 2024 Presidential Election which was held two months ago, had managed to obtain only 342,781 votes from across the country, which was 2.57% of the total votes.
+
+...
+
+[Data](articles/5f2997f4.json)
+
+[Extended Data](ext_articles/5f2997f4.ext.json)
+
+---
+
+### The city was flooded with Akkurana!
+
+*2024-11-16 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198905) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kandy district floods: Heavy rains caused flooding in Akuranna town on A-09 road between Kandy and Jaffna.
+
+🟩
+
+Heavy rains in some areas in the Kandy district have been flooded yesterday (15) at the Akuranna town on A -09 road in Kandy - Jaffna.
+
+◼️
+
+[Data](articles/1c6942e5.json)
+
+[Extended Data](ext_articles/1c6942e5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 21:41:19**
+As of **2024-11-17 22:01:20**
 
 ## Newspaper Stats
 
-*Scraped **55,434** Articles*
+*Scraped **55,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,193
-adaderanalk | 6,692
+adaderanalk | 6,693
 tamilmirrorlk | 7,856
 virakesarilk | 9,000
 adaderanasinhalalk | 9,589
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,589
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,432 (100.0%) of 55,434 articles have been extended.
+55,432 (100.0%) of 55,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### IMF team arrives in Sri Lanka for third review under EFF program
+
+*2024-11-17 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103569/imf-team-arrives-in-sri-lanka-for-third-review-under-eff-program) · `en`
+
+A team from the International Monetary Fund (IMF), led by its Senior Mission Chief for Sri Lanka Peter Breuer, has arrived in Sri Lanka this evening (17).
+
+The team will remain in in the country until November 23 and during their stay will conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF).
+
+The team, led by IMF Senior Mission Chief Peter Breuer, will assess Sri Lanka’s economic policies, progress on ongoing reforms, and the implementation of previous agreements with the IMF.
+
+Upon successful completion of the review, the IMF is expected to release the next tranche of the bailout to Sri Lanka. The IMF had approved a 2.9-billion-dollar Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+
+...
+
+[Data](articles/6fe125f7.json)
+
+---
 
 ### Awa members arrested for intimidating
 
@@ -2515,27 +2533,5 @@ Moreover, even if the existing laws are not adequate, new laws will be prepared 
 [Data](articles/b3d6d178.json)
 
 [Extended Data](ext_articles/b3d6d178.ext.json)
-
----
-
-### IMF representatives to visit the island today
-
-*2024-11-17 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203452) · `si`
-
-IMF delegation arrives in Sri Lanka today under elderly loan facility.
-
-🟩
-
-A delegation from the IMF is due to arrive in Sri Lanka today (17).
-
-Head of the Head of Meeting of Senior Mission Senior Mission (IMF) team is due to arrive in the island.
-
-The delegation is due to arrive in the island, which is under the elderly loan facility given to Sri Lanka by the International Monetary Fund.
-
-◼️
-
-[Data](articles/b39ab811.json)
-
-[Extended Data](ext_articles/b39ab811.ext.json)
 
 ---

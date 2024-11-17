@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 08:07:52**
+As of **2024-11-17 09:08:02**
 
 ## Newspaper Stats
 
-*Scraped **55,283** Articles*
+*Scraped **55,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
-islandlk | 3,298
+islandlk | 3,312
 economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,170
-adaderanalk | 6,676
-tamilmirrorlk | 7,833
+adalk | 5,171
+adaderanalk | 6,677
+tamilmirrorlk | 7,837
 virakesarilk | 8,955
 adaderanasinhalalk | 9,561
 
@@ -26,89 +26,231 @@ adaderanasinhalalk | 9,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,278 (100.0%) of 55,283 articles have been extended.
+55,287 (100.0%) of 55,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### පාර්ලිමේන්තුවට තේරී පත්වූ මන්ත්‍රීවරුන් ලියාපදිංචිය අද සිට
+### இன்று முதல் எம்.பிக்களின் பதிவு
+
+*2024-11-17 08:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எம்-பிக்களின்-பதிவு/175-347314) · `ta`
+
+10வது பாராளுமன்றத்திற்கு தேர்ந்தெடுக்கப்பட்ட எம்.பி.க்களின் பதிவு இன்று முதல் எதிர்வரும் 20ஆம் திகதி வரை நடைபெற உள்ளது.
+
+குறித்த நாட்களில் பாராளுமன்ற வளாகத்திற்கு வருகை தந்தும், இணையவழி மூலமாகவும் பதிவு செய்ய முடியும் என பாராளுமன்ற செயலாளர் நாயகம்  குஷானி ரோஹணதீர தெரிவித்தார்.
+
+இதேவேளை, தேசிய பட்டியலிலிருந்து தெரிவு செய்யப்படவுள்ள உறுப்பினர்களின் பெயர் பட்டியலை உடனடியாக தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பி வைக்குமாறு சம்பந்தப்பட்ட கட்சிகளுக்கு அறிவிக்க தேர்தல்கள் ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/de43f1d5.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-17 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103552/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur in Western, Central, Sabaragamuwa, Southern, Uva and North-western provinces during the evening or night.
+
+Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa and Central provinces, according to the Met. Department.
+
+Showers may occur at few places in the Northern and Eastern provinces during the morning too.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning, the department added
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/89021b62.json)
+
+---
+
+### சீனாவில் கத்திக்குத்து: 8 பேர் பலி
+
+*2024-11-17 08:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-கத்திக்குத்து-8-பேர்-பலி/50-347313) · `ta`
+
+கிழக்கு சீனாவில் உள்ள கல்லூரி ஒன்றுக்கு அருகில் இடம்பெற்ற கத்திக்குத்து சம்பவத்தில் 8 பேர் உயிரிழந்துள்ளனர்.
+
+Wuxi நகரில் உள்ள Wuxi Yixing தொழில் மற்றும் தொழில்நுட்ப கல்லூரியில் சீன நேரப்படி நேற்று மாலை 6.30 அளவில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
+
+குறித்த சம்பவம் தொடர்பில் சந்தேக நபரான 21 வயதுடைய இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/e8a1d496.json)
+
+---
+
+### சிறப்பு ரயில் சேவைகள்
+
+*2024-11-17 08:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-ரயில்-சேவைகள்/175-347312) · `ta`
+
+பொதுத் தேர்தல் மற்றும் நீண்ட வார விடுமுறை முடிந்து பணியிடங்களுக்கு செல்லும்  பயணிகளுக்காக சில சிறப்பு ரயில்களை இயக்கத் திட்டமிடப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+
+இன்றும் நாளையும் வழக்கமான ரயில் சேவைக்கு மேலதிகமாக சில சிறப்பு ரயில்கள் சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
+
+கொழும்பு கோட்டையிலிருந்து பதுளை வரையிலும், பதுளையிலிருந்து கொழும்பு கோட்டை வரையிலும், கண்டியில் இருந்து கொழும்பு கோட்டை வரையிலும், பெலியத்தவிலிருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இயங்குகின்றன.
+
+அத்துடன், கொழும்பு கோட்டையிலிருந்து ஹிக்கடுவை வரையிலும், மாத்தறையில் இருந்து கொழும்பு கோட்டை வரையிலும், காலியில் இருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இடம்பெறவுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/f010014c.json)
+
+---
+
+### 75 millimeters of rain today
+
+*2024-11-17 08:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-75-மில்லி-மீற்றர்-மழை/175-347311) · `ta`
+
+Heavy rain (75mm) forecasted today. Thunderstorms expected tonight nationwide, especially in Western, Central, Sabaragamuwa, Southern, Uva, and North Western provinces. Possible rain/thunderstorms in Northern and Eastern provinces as well.
+
+🟩
+
+Thundershowers are expected this evening in many parts of the country, the Department of Meteorology said.
+
+The Department of Meteorology has predicted that there is a possibility of rain or thunderstorms in the evening or at night in the Western, Central, Sabaragamuwa, South, Uva and North Western provinces.
+
+At the same time, 75 millimeters of heavy rainfall is likely to occur in some parts of Sabaragamuwa and Central Provinces.
+
+The Department of Meteorology has said that rainfall is expected in a few places in the Northern and Eastern Provinces.(a)
+
+◼️
+
+[Data](articles/4d60fd55.json)
+
+[Extended Data](ext_articles/4d60fd55.ext.json)
+
+---
+
+### අදත් බොහෝ පළාත්වලට වැසි
+
+*2024-11-17 07:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413077) · `si`
+
+බස්නාහිර, මධ්‍යම, සබරගමුව, දකුණ, ඌව හා වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රි කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+උතුරු හා නැහගනහිර පළාත්වල ස්ථාන ස්වල්පයක උදෑසන කාලහේදීත් වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/6bae013f.json)
+
+---
+
+### Registration of MPs who were elected to Parliament from today
 
 *2024-11-17 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203444) · `si`
 
-10 වන පාර්ලිමේන්තුව සඳහා තේරී පත්වූ මන්ත්‍රීවරුන් අන්තර්ජාලය ඔස්සේ ලියාපදිංචි කිරීමේ කටයුතු අද (17) සිට ලබන 20 වැනිදා දක්වා සිදු කිරීමට නියමිතව තිබේ.
+Here's a summary in 200 characters:
 
-පාර්ලිමේන්තු මහලේකම් කුෂාණි රෝහණදීර මහත්මිය පැවසුවේ අදාළ දිනවල පාර්ලිමේන්තු පරිශ්‍රය වෙත පැමිණීමෙන්ද ඒ සඳහා ලියාපදිංචි වීමේ හැකියාව ඇති බවය.
 
-මේ අතර ජාතික ලැයිස්තුවෙන් තෝරාපත් කර ගැනීමට නියමිත මන්ත්‍රීවරුන්ගේ නාම ලේඛණ කඩිනමින් මැතිවරණ කොමිෂන් සභාව වෙත යොමු කරන ලෙස අදාළ පක්ෂ වෙත දැනුම්දීමට මැතිවරණ කොමිසම පියවර ගෙන තිබේ.
 
-ඉන් අනතුරුව මැතිවරණ කොමිෂන් සභාව විසින් එම නාම ලේඛණය ගැසට් මගින් ප්‍රකාශයට පත් කිරීම සඳහා රජයේ මුද්‍රණාලය වෙත යොමු කිරීමට ද නියමිතය.
+Newly elected MPs register today. Online work begins. Physical presence allowed. Election Commission informs veteran parties about National List nominations. Gazette publication next step. District-elected MP names announced yesterday.
 
-ඒ ඒ දිස්ත්‍රික්කවලින් ඡන්දයෙන් තේරී පත්වූ මන්ත්‍රීවරුන්ගේ නම් ඊයේ (17) ගැසට් මගින් ප්‍රකාශයට පත් කෙරිණි.
+🟩
+
+Members who were elected to the 10th Parliament are scheduled to work online from today (17).
+
+Member of Parliament General Secretary General of Parliament Kasasini Rohanadera said the presence of the parliamentary premises could also be registered.
+
+Meanwhile, the Elections Commission has taken steps to inform the veteran parties to refer to the Elections Commission to be sent to the Elections Commission to be elected from the National List.
+
+The Elections Commission then will be referred to the government printing press to publish the nomination by gazette.
+
+The names of elected MPs from each district were declared yesterday (17).
 
 ◼️
 
 [Data](articles/69c4eec6.json)
 
+[Extended Data](ext_articles/69c4eec6.ext.json)
+
 ---
 
-### විදේශ ගමන් බලපත්‍ර 66ක් සමඟ දෙදෙනෙක් අත්අඩංගුවට
+### Two arrested with 66 passports
 
 *2024-11-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203443) · `si`
 
-විදේශ ගමන් බලපත්‍ර 66 ක් සන්තකයේ තබාගෙන සිටි සැකකාරියක් සහ සැකකරුවෙකු කහතුඩුව, සියඹලාගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+Two arrests made in Kahathuduwa: suspects possess 66 passports. Raid conducted based on police tip. Passports used for foreign employment over 2.5 years. Suspects found with ice narcotics.
 
-කහතුඩුව පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත අදාළ නිවසේ ඊයේ (16) සවස සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+🟩
 
-අත්අඩංගුවට ගත් සැකකාරිය වයස අවුරුදු 42 ක් වන අතර, සැකකරු වයස අවුරුදු 38 වන සියඹලාගොඩ ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+A suspect and suspect in possession of 66 passports have been arrested in the Kahathuduwa, Siyambalagoda area.
 
-සැකකාරිය සිංගප්පූරුව, හොංකොං, ඩුබායි සහ රුමේනියා යන රටවල සේවය කර 2022 වර්ෂයේ මෙරටට පැමිණ මෙම ප්‍රදේශයේ සැකකරු සමග පදිංචිව සිට ඇති බව සදහන් වේ.
+The suspects were arrested in a raid held at the relevant house on information received by the Kahathuduwa police officers.
 
-මොවුන් විසින් වසර දෙකහමාරක පමණ කාලයක සිට විවිධ පුද්ගලයින්ට විදේශ රැකියා ලබා දෙන බවට පවසා එම පුද්ගලයන්ගේ විදේශ ගමන් බලපත්‍ර රාජගිරිය ප්‍රදේශයේදී මාර්ගයන් වල රැඳී සිටිමින් ලබාගෙන ඇති බව අනාවරණය වී තිබේ.
+The suspect is 42 years old and the suspect is the 38th residents of the Siyambalagoda area.
 
-පසුව ඒජන්සි හරහා වීසා අයදුම් කර රැකියා සඳහා සම්මුඛ පරීක්ෂණයට කැඳවන බව පවසා එම පුද්ගලයන්ගෙන් රුපියල් ලක්ෂ 02 -03 අතර මුදලක්ද ලබා ගෙන එම විදේශ ගමන් බලපත්‍ර ද මොවුන් සන්තකයේ තබා ගෙන තිබේ.
+Singapore served in Sri Lanka in 2022 with Singapore, Hong Kong, Dubai and Romania.
 
-සැකකරුවන් පදිංචිව සිටි නිවස පරීක්ෂා කිරීමේදී, අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 20 ක් ද තිබී සොයාගෙන ඇත.
+It has been revealed that the passports of their individuals have been staying in Rajagiriya to say that they have been given foreign employment to various people for two and a half years.
+
+They also received a month between the agencies and summoned the visa to the interview and the passports were taken and their passports.
+
+When inspected the resident of the suspects, the suspects were found in 20 milligrams of ice narcotics.
 
 ◼️
 
 [Data](articles/2ac8b6fc.json)
 
+[Extended Data](ext_articles/2ac8b6fc.ext.json)
+
 ---
 
-### අද සහ හෙට විශේෂ දුම්රිය ගමන් වාර කිහිපයක්
+### Several special trains travel today and tomorrow
 
 *2024-11-17 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203442) · `si`
 
-මහමැතිවරණය සහ දීර්ඝ සතිඅන්ත නිවාඩුව අවසන් වී රැකියා ස්ථාන වෙත පැමිණෙන මගී ජනතාව සදහා විශේෂ දුම්රිය කිහිපයක් ධාවනය කිරීමට සැලසුම් කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Here's a summary of 200 characters:
 
-එම දෙපාර්තමේන්තුව පැවසුවේ අද සහ හෙට දිනවල දී සාමාන්‍ය දුම්රිය ධාවන වාරයන්ට අමතරව විශේෂ දුම්රිය කිහිපයක් ධාවනය සදහා යොදවා ඇති බවය.
 
-කොළඹ කොටුවේ සිට බදුල්ල දක්වාත්, බදුල්ල සිට කොළඹ කොටුව දක්වාත්, මහනුවර සිට කොළඹ කොටුව දක්වාත්, බෙලිඅත්ත සිට කොළඹ කොටුව දක්වාත් විශේෂ දුම්රිය වාර ක්‍රියාත්මක වේ.
 
-එමෙන්ම කොළඹ කොටුව සිට හික්කඩුව දක්වාත්, මාතර සිට කොළඹ කොටුව දක්වාත්, ගාල්ල සිට කොළඹ කොටුව දක්වාත් මෙලෙස විශේෂ දුම්රිය සේවා ක්‍රියාත්මක වන බව දුම්රිය දෙපාර්තමේන්තුව සදහන් කළේය.
+"Special trains run today/tomorrow: Colombo-Badulla, Colombo-Beliatta, Colombo-Hikkaduwa, Matara-Galle to Colombo. For election/work commute."
+
+🟩
+
+The Railway Department says that several special trains will be operated for passengers traveling to employers and attend work on the general election and the long weekend vacation.
+
+The Department said that several special trains have been deployed in addition to the average railway routes today and tomorrow.
+
+Special trains will be implemented from the Colombo Fort to Badulla and the Colombo-Colombo Fort, from Badulla to Colombo Fort and from Beliatta to Colombo Fort.
+
+The Railway Department states that special trains will operate from Colombo Fort to Hikkaduwa and from Matara to Colombo Fort and Galle to Colombo Fort.
 
 ◼️
 
 [Data](articles/230e0386.json)
 
+[Extended Data](ext_articles/230e0386.ext.json)
+
 ---
 
-### ප්‍රදේශ රැසකට සවස් කාලයේදී වැසි
+### Showers in the evening to many areas
 
 *2024-11-17 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203441) · `si`
 
-බස්නාහිර, මධ්‍යම, සබරගමුව, දකුණ, ඌව සහ වයඹ  පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Evening showers widespread, thunderstorms at night in western, central, sabaragamuwa, southern, uva, and northwestern provinces. Morning showers in northern and eastern provinces. Some areas may experience prolonged rainfall in western, sabaragamuwa, central, and uva provinces, including galle and matara districts.
 
-නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+🟩
 
-උතුරු සහ නැගෙනහිර පළාත්වලත් ස්ථාන ස්වල්පයක උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+Showers or thundershowers will occur at night or night in the Western, Central, Sabaragamuwa, Southern, Uva and Uva and Uva and Northwestern provinces.
 
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+The department has issued a statement in the Western, Sabaragamuwa and Central provinces.
+
+Showers will occur at the morning of the Northern and Eastern Provinces.
+
+Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/191fc0ed.json)
+
+[Extended Data](ext_articles/191fc0ed.ext.json)
 
 ---
 
@@ -159,6 +301,86 @@ A landslide hazard has been extended to the districts of Matale, Kegalle, Kurune
 [Data](articles/78793e48.json)
 
 [Extended Data](ext_articles/78793e48.ext.json)
+
+---
+
+### Amana Bank’s nine month PAT tops Rs. one bn.
+
+*2024-11-17 02:09:00* · [`islandlk`](http://island.lk/amana-banks-nine-month-pat-tops-rs-one-bn/) · `en`
+
+Advances surpass LKR 100 billion milestone, with a growth of 16%
+
+Amãna Bank continued its strong financial performance as it closed the nine months ending September 30, 2024 with a Profit Before Tax of LKR 1.98 billion, reflecting a 18% YoY increase compared to LKR 1.68 billion recorded for the corresponding period of 2023. Showcasing a 26% YoY growth, Profit After Tax grew from LKR 891 million to cross the LKR 1 billion mark and close at LKR 1.12 billion, a news release from the bank said.
+
+With financing rates declining across the banking industry in a bid to spur economic growth, the Bank’s financing income closed at LKR 11.70 billion. However, by maintaining a strong financing margin of 4.1%, the Bank posted a Net Financing Income growth of 6% YoY to reach LKR 5.13 billion compared with LKR 4.85 billion posted in the corresponding period in 2023.
+
+...
+
+[Data](articles/3b233f70.json)
+
+[Extended Data](ext_articles/3b233f70.ext.json)
+
+---
+
+### Infinite Group becomes market entry partner for East London University in Lanka
+
+*2024-11-17 02:08:00* · [`islandlk`](http://island.lk/infinite-group-becomes-market-entry-partner-for-east-london-university-in-lanka/) · `en`
+
+Infinite Group announces its partnership with the University of East London (UEL), becoming the official representative in Sri Lanka to manage agent partnerships and entry registrations. This collaboration will provide Sri Lankan agents to work closely with UEL’s academic programmes and streamlined application services, enhancing opportunities for higher education abroad.
+
+Speaking about the partnership Pavel Bawa, Deputy Head of International Recruitment, South Asia from the UEL said, “Our partnership with the Infinite Group comes at a time when the demand for overseas education is growing rapidly in Sri Lanka. The UK remains one of the top destinations for Sri Lankan students due to its high academic standards, cultural diversity, and excellent career prospects. With Infinite Group facilitating the entire process, students will now find it easier to apply to UEL and embark on their academic journeys.”
+
+...
+
+[Data](articles/58eb4fb6.json)
+
+[Extended Data](ext_articles/58eb4fb6.ext.json)
+
+---
+
+### Sampath Bank achieves strong growth for 9 months ending Sept 2024
+
+*2024-11-17 02:07:00* · [`islandlk`](http://island.lk/sampath-bank-achieves-strong-growth-for-9-months-ending-sept-2024/) · `en`
+
+Sampath Bank has posted impressive financial results for the nine months ending September 30, 2024, with a profit before tax (PBT) of Rs 29.9 billion and a profit after tax (PAT) of Rs 17.8 billion. These results represent a year-on-year growth of 36% in PBT and 44% in PAT, despite an exchange loss of Rs 3.6 billion due to the appreciation of the Sri Lankan Rupee (LKR). The Sampath Group, which includes the bank and its subsidiaries, reported a PBT of Rs 31.9 billion and PAT of Rs 19.1 billion, reflecting growth rates of 40% and 50%, respectively.
+
+Key financial metrics highlighted strong performance across several areas. Net Interest Income grew by 14.1% to Rs 61 billion, supported by reduced interest expenses despite a 9.6% drop in total interest income. The bank’s loan book expanded by Rs 38 billion, while deposits grew by Rs 140 billion, reinforcing solid growth in both assets and liabilities.
+
+...
+
+[Data](articles/817359cd.json)
+
+[Extended Data](ext_articles/817359cd.ext.json)
+
+---
+
+### Hayleys records 78% growth in PBT to Rs.12.73 bn in first half
+
+*2024-11-17 02:06:00* · [`islandlk`](http://island.lk/hayleys-records-78-growth-in-pbt-to-rs-12-73-bn-in-first-half/) · `en`
+
+The Hayleys Group delivered remarkable growth and profitability during the first half of the financial year ending 31st March 2025, as it leveraged its leading market positions across diverse business verticals to deliver a Profit Before Tax of Rs.12.73 bn, an increase of 78% over the corresponding period of the previous year, a company news release said.
+
+Meanwhile, the Group recorded a 44% increase in Profit Before Tax to Rs.7 bn during the second quarter of the financial year. The robust performance for the period reflects commendable top line growth, ongoing focus on operating efficiencies and effective management of finance costs, enabling continued value creation to shareholders with the annualized Earnings per Share increasing to Rs.4.23 compared to Rs.0.09 the previous year, the release added.
+
+...
+
+[Data](articles/ba1c1e35.json)
+
+[Extended Data](ext_articles/ba1c1e35.ext.json)
+
+---
+
+### Walter Stace in British Ceylon, 1910-1932
+
+*2024-11-17 01:25:00* · [`islandlk`](http://island.lk/walter-stace-in-british-ceylon-1910-1932/) · `en`
+
+Walter T. Stace was a British citizen born in 1886 and educated in private schools in Wales and Scotland before completing his undergraduate degree at Trinity College, Dublin. He was therefore of middle-upper class background. His philosophical leanings did not deter him from signing up for the Colonial Service. He was sent to Ceylon – reaching the island with his wife … and being posted to the town of Galle in 1910.
+
+He wrote his autobiography at some point and the Sri Lankan chapters have been printed as a book entitled FOOTPRINTS ON WATER under the editorial direction of Bernd Pflug by the Sailfish firm in Colombo marketed by the Perera Hussein Publishing House in a 218-page booklet bearing the ISBN 978-624-5993-02=4
+
+...
+
+[Data](articles/91768d23.json)
 
 ---
 
@@ -265,6 +487,80 @@ The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batti
 [Data](articles/9e4eef34.json)
 
 [Extended Data](ext_articles/9e4eef34.ext.json)
+
+---
+
+### The Downplaying of Our National Languages: the Advantages of English
+
+*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/the-downplaying-of-our-national-languages-the-advantages-of-english/) · `en`
+
+(Excerpted from Falling Leaves, an anthology of autobiographical stories by LC Arulpragasam)
+
+I recognized the advantages that we had inherited from the British through our knowledge of the English language. But I also began to realize that we had so exalted our knowledge of English that it had been at the expense of the neglect of our national languages. For example in India, although the members of its upper/middle classes spoke impeccable English, they conversed at home in Hindi or in their regional languages, whereas in Ceylon the middle class usually spoke English at home, with the local languages being reserved only for the servants.
+
+...
+
+[Data](articles/1d2fea47.json)
+
+---
+
+### Birth and Progress of SAARC
+
+*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/birth-and-progress-of-saarc/) · `en`
+
+The South Asian Association for Regional Cooperation (SAARC) of which I was called one of the founding fathers, consists of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. I attended the first meeting in Bangladesh and later meetings in India, Nepal and Pakistan between 1985 and 1988.
+
+...
+
+[Data](articles/b3054785.json)
+
+---
+
+### Ceylinco Life gifts Elpitiya primary school its first new building since 1935
+
+*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/ceylinco-life-gifts-elpitiya-primary-school-its-first-new-building-since-1935/) · `en`
+
+A small primary school in the Galle District has received a new classroom, its first new building in 89 years, with the support of Ceylinco Life.Sri Lanka’s life insurance leader donated Rs 1.6 million towards the material costs to construct a classroom for the Bogaha Kanishta Vidyalaya in Elpitiya, a school that has not seen any building construction since 1935.
+
+Coincidentally, this was the 88th classroom building built by Ceylinco Life under a long-running corporate social responsibility initiative that has benefitted schools across Sri Lanka.
+
+The new building will be used by 40 students of Grade 3, who had previously had their classes outdoors or in the dilapidated school hall due to the non-availability of a building. The Bogaha Kanishta Vidyalaya has a student population of 195.
+
+Every classroom built by Ceylinco Life over the years continues to be monitored and maintained by the Company to ensure it serves many generations of students.
+
+...
+
+[Data](articles/12ca7af5.json)
+
+---
+
+### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
+
+*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/amana-takaful-launches-executive-edge-forum-to-mark-25-years-of-excellence/) · `en`
+
+Amana Takaful Insurance celebrated its 25th anniversary with the launch of its inaugural “Executive Edge” forum at Shangri-La Colombo. The event brought together leading figures from Sri Lanka’s financial services sector, including prominent executives from leasing companies, insurance brokers, and partner banks, as well as key clients of Amana Takaful Life.
+
+The forum served as a platform for insightful discussions on the future of finance and evolving consumer behavior in the industry. A vibrant panel discussion featured Gayathri Manatunga (Head of Assurance at EY Sri Lanka and Maldives), Thilan Wijesinghe (Chairman of TWCorp), and Dr. Naveen Gunawardane (Managing Director of Lynear Wealth Management), with moderation by Shamindra Kulamannage. The panel explored how the financial services industry can adapt to rapid changes in consumer behavior, technology, and regulations.
+
+...
+
+[Data](articles/a5dcb958.json)
+
+---
+
+### Inquiries about a Legacy and learning law for fun
+
+*2024-11-16 23:11:00* · [`islandlk`](http://island.lk/inquiries-about-a-legacy-and-learning-law-for-fun/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+It was also during this period that I received a rather curt letter from the Commissioner of Inland Revenue stating that his department had received information that I had come in for a legacy of a house and several acres of land. He directed that this be declared forthwith so that the department could assess the tax and any penalties to be paid. This was a bit too much. I was extremely busy and had no time for tomfoolery. I called the stenographer and dictated the following reply:-
+
+I was delighted to receive your letter dated …. I shall be most grateful if you could please provide me very early, all particulars regarding this legacy, with addresses, etc., so that I may be enabled to enter upon it without any delay. I am anxiously looking forward to this. Please rest assured that I would be prepared to gladly pay any tax you may levy on it and any penalties you may decide on.
+
+...
+
+[Data](articles/57b8ec83.json)
 
 ---
 
@@ -378,6 +674,18 @@ Ven. Seelarathana Thero also criticized the National People’s Power (NPP) part
 
 ---
 
+### After the funeral: A post-mortem on the US election
+
+*2024-11-16 21:02:00* · [`islandlk`](http://island.lk/after-the-funeral-a-post-mortem-on-the-us-election/) · `en`
+
+Last week’s presidential election was doubtless one of the most consequential in US history. Though the outcome was not predictable – most polls showed a tight race between Kamala Harris and Donald Trump – with the benefit of hindsight one can say that the Democrats should have seen it coming. Over the next few days and weeks, there will be a slew of analyses and diagnoses claiming to pinpoint the reasons for their defeat. Yet as Sri Lankan political analyst Rajni Gamage rightly put it in a recent tweet, such diagnoses are themselves problematic, and point to the biases of those making them.
+
+...
+
+[Data](articles/2aedc11a.json)
+
+---
+
 ### This is how the national list seat is divided into each party
 
 *2024-11-16 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203439) · `si`
@@ -411,6 +719,30 @@ A spokesman for the party's national executive committee meeting will meet tomor
 [Data](articles/377f50d2.json)
 
 [Extended Data](ext_articles/377f50d2.ext.json)
+
+---
+
+### National tree and flower – better choices ignored
+
+*2024-11-16 20:56:00* · [`islandlk`](http://island.lk/national-tree-and-flower-better-choices-ignored/) · `en`
+
+The Na tree (Mesua Nagassarium) and the Nil Manel flower (Nypheae stellata) have recently (this article was written in 1986) been elevated to unique positions as Sri Lanka’s National Tree and National Flower; the selection being made after contestants nominated their choice by writing an essay of less than 300 words. Even in run of the mill contests like the selection of beauties, sportsmen of the year and what have you the general public plays a more significant part once the parameters and the basis for selection, panel of judges etc., are made known. In this context, the results of which are of great national importance, the degree of public participation and the criteria on which the selection was made is not known. Further, there appears to be considerable disappointment in the choice and it therefore deserves more careful consideration.
+
+...
+
+[Data](articles/fdac6788.json)
+
+---
+
+### Maashooga (meaning beloved), my housekeeper in Sindh, Pakistan
+
+*2024-11-16 20:55:00* · [`islandlk`](http://island.lk/maashooga-meaning-beloved-my-housekeeper-in-sindh-pakistan/) · `en`
+
+A young man was waiting at the wide-open gate of the university guest bungalow. The driver drove the van through the gate to the back foyer. The young man recognised Parvez, who was with me and smiled. When Parvez introduced me to him, he shook my hand and pronounced my name correctly. Parvez introduced him as Maashooga and smiled. He said Maashooga means ‘darling’ or ‘beloved.’ He was a charming young man, about six feet two inches tall, with a light moustache and penetrating eyes. His long hair partially covered his face, which had a few pimples. I thought he was in his early twenties. He wore a salwar kameez and a colourful Sindhi cap decorated with beads and threads. He looked like a polio victim as his right leg was about two inches shorter than his left leg.
+
+...
+
+[Data](articles/abec99bb.json)
 
 ---
 
@@ -2019,475 +2351,5 @@ The Chamber also commended the Election Commission and other state institutions 
 [Data](articles/2dd322b6.json)
 
 [Extended Data](ext_articles/2dd322b6.ext.json)
-
----
-
-### Special notice
-
-*2024-11-16 10:00:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலுக்கு-பின்னரான-காலம்-குறித்து-விசேட-அறிவிப்பு/175-347285) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Post-election quiet period announced. Police surveillance nationwide. No public gatherings for a week. Increased patrols & special protection for police divisions. 581 arrests made early in election season.
-
-🟩
-
-Police Media Spokesperson and Deputy Inspector General of Police Nihal Dalduwa said that a week's quiet period would be in effect from the day the parliamentary election results were announced.
-
-In addition, police have been kept under intense surveillance across the country during the post -election period.
-
-Over a week, no meetings and demonstrations can be held in public places.
-
-Also, the necessary security is provided by engaging in patrols across the country.
-
-Investigators are on the job. Special protection has been provided in the police unidentified police divisions.
-
-The police media spokesman said that 581 persons were arrested in violation of the election in the early days of the election.. Remble
-
-◼️
-
-[Data](articles/36d2f1a7.json)
-
-[Extended Data](ext_articles/36d2f1a7.ext.json)
-
----
-
-### Great Winning Elections Deep Reforms - World Nations to support
-
-*2024-11-16 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/198900) · `ta`
-
-Sri Lanka's parliamentary elections saw significant reforms. The Left Coalition led by Anuragumara Dissanayake secured a landslide victory. Former Norwegian Peace Ambassador Erik Solheim praised the government's success. Economic recovery efforts, including IMF negotiations, aim to address poverty and stimulate growth.
-
-🟩
-
-Former Norwegian Peace Ambassador to Sri Lanka, Ericksolheim, says the government has given a great success in the Sri Lankan parliamentary elections.
-
-The leader of the Left Coalition, known as the Anuragumara Dissanayake or the people, is moving towards a complete election victory in Sri Lanka. He has won all constituencies.
-
-Negotiating for a better deal with the IMF in order to recover from the crisis
-
-Economic reform to rescue those who are trapped in economic growth and poverty.
-
-◼️
-
-[Data](articles/e26a3203.json)
-
-[Extended Data](ext_articles/e26a3203.ext.json)
-
----
-
-### Two persons killed in lorry train
-
-*2024-11-16 09:54:11* · [`adalk`](https://www.ada.lk/breaking_news/ලොරියක්-දුම්රියේ-ගැටි-දෙදෙනෙක්-මරුට/11-413071) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"2 killed, 5 injured in Matara-Galle lorry-train collision. Driver & passenger dead. 3 women & 3 children hurt. Accident occurred last night near Thelijjawila."
-
-🟩
-
-A small lorry was in Matara to Galle when a small lorry was operating on the railway line while operating on the railment of a train.
-
-Two persons were seriously injured and admitted to the Matara hospital.
-
-The victim has been identified as the driver of the lorry and another. Two other women and three children have been seriously injured.
-
-Dead persons are residents of Thelijjawila Matara. The accident had occurred last evening.
-
-◼️
-
-[Data](articles/f2248343.json)
-
-[Extended Data](ext_articles/f2248343.ext.json)
-
----
-
-### Motorcycle pillion rider killed in collision with a train
-
-*2024-11-16 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103533/motorcycle-pillion-rider-killed-in-collision-with-a-train) · `en`
-
-A pillion rider traveling on a motorcycle has been killed yesterday (15) when the Udaya Devi Express Train, en route from Batticaloa to Colombo Fort, collided with the motorcycle at Bellankadawala in the Habarana Police Division.
-
-The deceased has been identified as a 69-year-old resident of Kinihirigama, Kekirawa.
-
-Meanwhile, the motorcycle rider, who sustained serious injuries, has been admitted to Dambulla Base Hospital for treatment.
-
-◼️
-
-[Data](articles/a61b1a48.json)
-
-[Extended Data](ext_articles/a61b1a48.ext.json)
-
----
-
-### The Sri Lanka Appo ... What is the reason for retreat?
-
-*2024-11-16 09:26:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c20757jdv62o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's ruling party faces crisis after economic downturn and protests. Former president Gotabhaya Rajapaksa flees amid mass demonstrations. New president elected, but party struggles to maintain power. Political instability continues as public dissatisfaction grows.
-
-🟩
-
-The Sri Lanka Crown Front, who had had a massive victory in the 2020 general election, was a massive recession in the general election, which had acquired the presidential election in the 2020 general election after an anti-government demonstrations.Happened.
-
-In 2019 presidential election, more than 69 lakhs and 52.25% of the vote and 52.25% vote were obtained in the 23,781 votes.
-
-In 2005, Mahinda Rajapaksa contested the presidential election as the Sri Lanka Freedom Alliance (SLFP presidential candidate and won the country's war in 2009.
-
-He was a great commendation from the major Sinhalese Sinhalese in the south regarding the end of the war.
-
-However, the Rajapaksa family has many large charges in the abuse of power within the year 2015 to the 2015 presidential election.
-
-Presidential election was defeated in 2015 to the constitution of Sri Lanka and the third term of the President.
-
-...
-
-[Data](articles/f2e8fb55.json)
-
-[Extended Data](ext_articles/f2e8fb55.ext.json)
-
----
-
-### Bombing to Amaran's movie theater
-
-*2024-11-16 09:16:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/அமரன்-படம்-ஓடும்-திரையரங்கிற்கு-குண்டு-வீச்சு/54-347284) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Petrol bombs hit Amaran movie theater early morning. Police found CCTV footage showing attackers. Melapalayam police investigating incident.
-
-🟩
-
-Petrol bomb attack has been attacked at the movie 'Amaran'
-
-In the early hours of the theater, the mysterious persons who thrown petrol bombs in the early morning have revealed.
-
-Melapalayam police seized CCTV scene records fitted in the area
-
-◼️
-
-[Data](articles/aa5377cb.json)
-
-[Extended Data](ext_articles/aa5377cb.ext.json)
-
----
-
-### Murder of Saliyawewa
-
-*2024-11-16 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203418) · `si`
-
-Here's a summary of the Murder of Saliyawewa in 200 characters:
-
-
-
-Two suspects, ages 23 & 24, arrested for murder in Saliyawewa. Incident occurred during a party. Police investigation revealed they used poles to kill the victim after breaking into the house.
-
-🟩
-
-A case of force in a house and broke the door in the room and killed a person in Saliyawewa.
-
-The incident was found in the Saliyawewa police division yesterday (15).
-
-The suspects have been killed and killed by the relevant person with poles.
-
-පෙරේදා (14) රාත්‍රියේ පැවති මත්පැන් සාදයකදී ඇතිවූ බහින්බස්වීමක් දුරදිග යෑමෙන් එම සාදයේ සිටි දෙදෙනෙකු පැමිණ මෙම ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
-
-The two suspects have been arrested in the Saliyawewa area in the Senathwewa, aged 23 and 24 years old.
-
-◼️
-
-[Data](articles/a50551ac.json)
-
-[Extended Data](ext_articles/a50551ac.ext.json)
-
----
-
-### Over 667,000 votes rejected in 2024 General Election
-
-*2024-11-16 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103532/over-667000-votes-rejected-in-2024-general-election-) · `en`
-
-The Election Commission has confirmed that a total of 667,240 votes were rejected during the 2024 general election.
-
-According to Commissioner General of Elections, Saman Sri Ratnayake, the election recorded the following figures:
-
-Meanwhile, the Executive Director of the People’s Action for Free and Fair Elections (PAFFREL), Rohana Hettiarachchi, described this election as the most peaceful in the country’s history.
-
-◼️
-
-[Data](articles/053e4bae.json)
-
-[Extended Data](ext_articles/053e4bae.ext.json)
-
----
-
-### Indian High Commission welcomes NPP’s win in Sri Lanka, reaffirms commitment to bilateral ties
-
-*2024-11-16 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103531/indian-high-commission-welcomes-npps-win-in-sri-lanka-reaffirms-commitment-to-bilateral-ties) · `en`
-
-India extended wishes to Sri Lanka’s National People’s Power (NPP) party after their victory in the country’s parliamentary elections.
-
-The High Commission of India in Colombo congratulated President and NPP leader Anura Kumara Dissanayake on the party’s win, reaffirming India’s commitment to strengthening bilateral ties between the two nations.
-
-Sharing a post on X, the High Commission of India in Colombo wrote, “HC Santosh Jha called on the President & Leader of NPP Anura Kumara Dissanayake to congratulate on NPP’s victory in Sri Lanka #ParliamentaryElections2024.”
-
-“As a fellow democracy, India welcomes the mandate & remains committed to further strengthening bilateral ties for the benefit of our people,” the post added.
-
-Sri Lankan President Dissanayake’s leftist coalition registered a landslide victory in Sri Lanka’s snap parliamentary elections, according to official results announced by the country’s election commission.
-
-...
-
-[Data](articles/d2d7e0ea.json)
-
-[Extended Data](ext_articles/d2d7e0ea.ext.json)
-
----
-
-### What will happen in Parliament on the 21st?
-
-*2024-11-16 08:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதி-பாராளுமன்றத்தில்-என்ன-நடக்கும்/175-347283) · `ta`
-
-Parliament 21st: General Secretary assumes duties. Unorganized seating. New Speaker election. Deputy Speaker via referendum.
-
-🟩
-
-On that day, it has been announced that the main responsibilities of Parliament will be given to the General Secretary of Parliament.
-
-During the first session, the members did not arrange the seat. Accordingly, MPs can sit in any seat.
-
-Start the work of the assembly after putting the scepter. The new Speaker will be elected first.
-
-It is the legacy of the Speaker of the House. Thereafter, the MPs are to take office.
-
-It is also reported that Deputy Speaker and other dignitaries will be elected by a parliamentary referendum. Remble
-
-◼️
-
-[Data](articles/9d41e8e4.json)
-
-[Extended Data](ext_articles/9d41e8e4.ext.json)
-
----
-
-### Rejection of about 6 lakh votes
-
-*2024-11-16 08:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-6-இலட்சம்-வாக்குகள்-நிராகரிப்பு/175-347282) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Rejection of 667,240 votes in Sri Lanka's general election. Commissioner Saman Sri Ratnayake noted this high rejection rate. Despite this, PAFRAL's Rohana Hettiarachchi called it the most peaceful election in history.
-
-🟩
-
-Commissioner General of the Elections Commission Saman Sri Ratnayake pointed out that 667,240 votes were rejected of the votes cast in this year's general election.
-
-Meanwhile, the Executive Director of the PAFRAL Organization Rohana Hettiarachchi said that this election could be said to be the most peaceful election in history.. Remble
-
-◼️
-
-[Data](articles/e742892c.json)
-
-[Extended Data](ext_articles/e742892c.ext.json)
-
----
-
-### President AKD thanks voters for landmark election victory
-
-*2024-11-16 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103530/president-akd-thanks-voters-for-landmark-election-victory) · `en`
-
-President Anura Kumara Dissanayake has expressed gratitude to voters for delivering a historic victory in the general election.
-
-The President conveyed his thanks through a note posted on his ‘X’ account, stating, “Thank you to all who voted for a renaissance!”
-
-In the 2024 general election held on November 14, the National People’s Power (NPP) secured a landmark victory, winning 159 seats in the parliament.
-
-◼️
-
-[Data](articles/c52fdb5b.json)
-
-[Extended Data](ext_articles/c52fdb5b.ext.json)
-
----
-
-### Thunderstorm
-
-*2024-11-16 08:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-347281) · `ta`
-
-Thunderstorms forecasted nationwide today, especially after 2 PM. Heavy rains predicted in central and southern regions. Lightning warnings issued for affected areas.
-
-🟩
-
-Thundershowers will occur in many parts of the country this evening, the Department of Meteorology said.
-
-Rainfall or thunderstorms are expected after 2.00 pm in most parts of the country.
-
-Rainfall is expected in a few places in the Northern and Eastern Provinces and Hambantota district.
-
-Heavy rains are expected in some parts of the upper, Sabaragamuwa, Central and Southern Provinces.
-
-In the morning, in some places in the Western, Sabaragamuwa, Central and Uva Provinces, Galle and Matara districts.
-
-Thunderstorms can be temporarily blowing with thunderstorms, and they have been asked to protect themselves from the impacts of lightning strikes. Remble
-
-◼️
-
-[Data](articles/cdd9f7b4.json)
-
-[Extended Data](ext_articles/cdd9f7b4.ext.json)
-
----
-
-### Police announce post-election measures
-
-*2024-11-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103529/police-announce-post-election-measures) · `en`
-
-The police have announced that the post-election period will remain in effect for one week following the declaration of the general election results.
-
-Providing clarification on the matter, Police Spokesman DIG Nihal Thalduwa stated that the police have been placed on high alert across the country during this period.
-
-“The post-election period has now begun. No meetings, rallies, or similar gatherings are permitted in public places for a week. As such, the police are on full alert and will continue to ensure security through mobile patrols across the island. Intelligence officers are also on duty, and special security arrangements have been made for identified police divisions,” he said.
-
-The Police Media Spokesman further noted that a total of 581 individuals were arrested for violating election laws during the pre-election period.
-
-“No acts of violence were reported from any area. Of the 581 arrested, 18 are candidates, while the rest are their supporters,” he added.
-
-◼️
-
-[Data](articles/3ca430b2.json)
-
-[Extended Data](ext_articles/3ca430b2.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-16 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103528/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
-
-Showers or thundershowers will occur in the most parts of the island after 2.00 p.m. Showers may occur at few places in the Northern and Eastern provinces and in Hambantota district during the morning too.
-
-Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/054e90bc.json)
-
-[Extended Data](ext_articles/054e90bc.ext.json)
-
----
-
-### Here are the denied votes
-
-*2024-11-16 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203417) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Elections Commission reports 667 rejected votes in general election. Commissioner Saman Sri Ratnayake comments. PAFFREL Executive Director Rohana Hettiarachchi describes it as most peaceful election in history.
-
-🟩
-
-The Elections Commission says that 667 votes have rejected the number of votes in this year's general election.
-
-The Commissioner General of Elections Saman Sri Ratnayake said that.
-
-Meanwhile, the Executive Director of PAFFREL Rohana Hettiarachchi said that the peaceful in history is the election in the election.
-
-◼️
-
-[Data](articles/e8411f62.json)
-
-[Extended Data](ext_articles/e8411f62.ext.json)
-
----
-
-### Motorcycle falls on a train
-
-*2024-11-16 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203416) · `si`
-
-Motorcycle crashes into another bike on train. Incident happened near Habarana, Sri Lanka. 69-year-old man from Kekirawa injured.
-
-🟩
-
-A motorcycle hitting a motorbike rollidated from Batticaloa to Colombo Fort.
-
-The accident occurred at the interim route of Habarana Bellankadawala in Habarana Police yesterday.
-
-The victim is a 69 year old resident of Kekirawa area.
-
-◼️
-
-[Data](articles/3a2987da.json)
-
-[Extended Data](ext_articles/3a2987da.ext.json)
-
----
-
-### Report from Vijitha
-
-*2024-11-16 07:58:17* · [`adalk`](https://www.ada.lk/breaking_news/විජිතගෙන්-වාර්තාවක්/11-413070) · `si`
-
-MP Vijitha Herath received record-breaking preferential votes in Gampaha District. Former President Mahinda Rajapaksa previously held this record.
-
-🟩
-
-Member of Parliament, MP Vijitha Herath, was the highest number of preferential votes in the history of the country.
-
-Former President Mahinda Rajapaksa claimed that the report was led before.
-
-In this year, however, Mr. Vijitha Herath was the first first to enter the Gampaha District and obtained 7,16,715 preferential votes.
-
-◼️
-
-[Data](articles/5508bde1.json)
-
-[Extended Data](ext_articles/5508bde1.ext.json)
-
----
-
-### Police Notification on Post Election Season
-
-*2024-11-16 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203415) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Post-election season begins immediately. Police vigilant nationwide. Protests, gatherings banned for one week. Intelligence officers deployed. 581 arrests made before election. No reported violence.
-
-🟩
-
-The police are informed that the post-election duration is being implemented a week from the date of the results of the general election.
-
-Police Media Spokesperson, Attorney-at-Law, DIG's Court Attorneys, said that the police spokesman, lawyer, said that the police were alert at the country during post-election period.
-
-"The post-election duration begins now. Conducting meetings, marching, capture in any form of public places within a week. Therefore, the police are completely kept in this time period. Mobile traveling throughout the island and is being provided with the necessary protection. Intelligence officers are engaged in duties. Provides special security in the identified policemains. "
-
-581 persons have been arrested during pre-election period during the pre-election period.
-
-"There was no violence in any area. There are 18 candidates between 581 people who have been arrested by now. Other group supporters. "
-
-◼️
-
-[Data](articles/28db8a9f.json)
-
-[Extended Data](ext_articles/28db8a9f.ext.json)
 
 ---

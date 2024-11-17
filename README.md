@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 19:00:59**
+As of **2024-11-17 19:40:59**
 
 ## Newspaper Stats
 
-*Scraped **55,412** Articles*
+*Scraped **55,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,188
+adalk | 5,190
 adaderanalk | 6,691
 tamilmirrorlk | 7,855
 virakesarilk | 8,992
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,411 (100.0%) of 55,412 articles have been extended.
+55,414 (100.0%) of 55,414 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Acting on instructions from a person residing in Dubai, they allegedly brought d
 ...
 
 [Data](articles/7208312d.json)
+
+[Extended Data](ext_articles/7208312d.ext.json)
 
 ---
 
@@ -304,6 +306,34 @@ The Election Commission has issued a list of 18 members who go to Parliament thr
 
 ---
 
+### Assembled vehicles imported through political friends
+
+*2024-11-17 16:33:01* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-කරන-ලද-වාහන-ගෙන්වූයේ-දේශපාලන-හිතවතුන්-හරහායි/11-413095) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan vehicle import ban leads to assembly of vehicles using spare parts. Political influence involved in importing and assembling vehicles. Associations claim economic impact and corruption. Government urged to address issue and prevent illegal assemblies.
+
+🟩
+
+The vehicles have been taken into custody in the possession of the prosecutious politicians to use the full powers to import used vehicles and using political power in the past.Added vehicles of the vehicle parts of the Import Infancy Buddhika de Silva said.
+
+He was speaking at a press conference in Nugegoda in Nugegoda to educate the issues of importers and consumers who imported the issues of importers and consumers.
+
+Speaking further, the President of the Association Buddhika de Silva said:
+
+There are about 600 members of our association. There are 3500- 4000 businessmen. There are about 10.000 other businessmen directly related to them. The dependents are too high in four lakhs.
+
+...
+
+[Data](articles/0866adac.json)
+
+[Extended Data](ext_articles/0866adac.ext.json)
+
+---
+
 ### Historical success
 
 *2024-11-17 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198980) · `ta`
@@ -371,6 +401,40 @@ He was arrested after a roundup of confidential information received by the Para
 [Data](articles/01f4f6f2.json)
 
 [Extended Data](ext_articles/01f4f6f2.ext.json)
+
+---
+
+### Constable associated with drug trafficking from Dubai, a famous teled acul
+
+*2024-11-17 16:19:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසිද්ධ-ටෙලි-නළුවෙකුගේ-පුතා-ඩුබායි-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමට-සම්බන්ධ-කොස්තාපල්-අල්ලයි/11-413094) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Constable linked to drug trafficking in Dubai, connected to a TV actor's son. Arrested by Police Narcotics Bureau. Part of Mount Lavinia Police Division. Investigation reveals involvement in large-scale drug trade. Suspect from Weeraketiya, 31 years old. Further inquiries ongoing.
+
+🟩
+
+A public constable associated with a famous Tele-actor's son has been arrested in a hiding large-scale drug trafficking in Dubai, the Police Narcotics Bureau.
+
+The sustained is an asset that is attached to a special section of the Mount Lavinia Police Division.
+
+Over Rs.The police said that the constable has revealed about the constable at the long investigation made.
+
+Investigations have revealed that the racket earns a person who earns a person who is being given to a racket to the trafficker's instructions on the instructions of Chamila.
+
+The suspect constable residing in Weeraketiya has been revealed with a mother's statement that a friend was given to his mother on two or 36 occasions.
+
+The suspect's father is living in cattle regime, but the names of Rs.
+
+The 31-year-old constable is to be interrogated on detention orders. Police are conducting further investigations.
+
+◼️
+
+[Data](articles/caa63248.json)
+
+[Extended Data](ext_articles/caa63248.ext.json)
 
 ---
 
@@ -2457,53 +2521,5 @@ He has been recovered from five grams of heroin and 200 milligrams of heroin, an
 [Data](articles/91d4e00b.json)
 
 [Extended Data](ext_articles/91d4e00b.ext.json)
-
----
-
-### Eight killed in second mass attack in China this week
-
-*2024-11-17 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103554/eight-killed-in-second-mass-attack-in-china-this-week) · `en`
-
-A former student went on a stabbing rampage at a vocational college in eastern China on Saturday, killing eight people and injuring 17 others, police said, just days after the deadliest mass killing in the country in a decade shocked Chinese society.
-
-Saturday’s knife attack took place at the Wuxi Vocational College of Arts and Technology in Yixing, part of Wuxi city in the eastern province of Jiangsu. The suspect was apprehended at the scene and confessed to his actions, police added.
-
-Later on Saturday, authorities in the southern Chinese city of Zhuhai said they had charged a 62-year-old man after a driver on Monday rammed his car into a crowd killing 35 people and injuring 43 others.
-
-That incident touched off a rare online discussion over the mental health of Chinese society and whether a string of recent high-profile attacks in other major cities could reflect deeper stresses as the world’s second-largest economy slows.
-
-...
-
-[Data](articles/5de7a167.json)
-
-[Extended Data](ext_articles/5de7a167.ext.json)
-
----
-
-### UNP comes from elephant sign for future elections
-
-*2024-11-17 09:27:56* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-ඉදිරි-මැතිවරණ-සඳහා-අලියා-ලකුණින්-එයි/11-413080) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"UNP decides to contest under elephant symbol in future elections. Party Chairman Vajira Abeywardena discusses strategy with leader Ranil Wickremesinghe. Emphasizes unity among political parties and support for the government's victory. Expresses confidence in the current administration's ability to address challenges and fulfill public expectations."
-
-🟩
-
-The United National Party (UNP) has decided to contest with the United National Party should contest under the elephant sign for the next election. Party Chairman Vajira Abeywardena says that the present leader leader Ranil Wickremesinghe has been discussing this regard.
-
-"In some cases of the present paddy, the United National Party is raining to work at the time of failing to pass the procedures made by them.
-
-And if we think, we came forward with a number of political parties that comprised of many political parties. We must remember two things in the honey. One is avoided by the country's largest voting. A large dies are mainly involved in losed political parties.
-
-There may be things they hope,. Also, the government leading the President has made a historic victory. We offer our praise on that. And this is a special occasion for Sri Lanka. The presence of the presence, the presence of this, has achieved a victory in the history of Sri Lanka.. We need to be happy as Sri Lankans.
-
-...
-
-[Data](articles/afc3b861.json)
-
-[Extended Data](ext_articles/afc3b861.ext.json)
 
 ---

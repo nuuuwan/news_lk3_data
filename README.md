@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 15:12:11**
+As of **2024-11-17 16:41:18**
 
 ## Newspaper Stats
 
-*Scraped **55,376** Articles*
+*Scraped **55,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,425 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,179
-adaderanalk | 6,685
-tamilmirrorlk | 7,852
-virakesarilk | 8,980
-adaderanasinhalalk | 9,577
+adalk | 5,185
+adaderanalk | 6,689
+tamilmirrorlk | 7,853
+virakesarilk | 8,984
+adaderanasinhalalk | 9,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,376 (100.0%) of 55,376 articles have been extended.
+55,393 (100.0%) of 55,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### National JHU
+
+*2024-11-17 15:52:14* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-ජාතික-ලැයිස්තු-මන්ත්‍රීවරයන්-නම්-කෙරේ/11-413092) · `si`
+
+Here's a summary of "National JHU" in 200 characters:
+
+
+
+National JHU: Appointments made to 18 National List seats based on this year's voting outcome.
+
+🟩
+
+Accordingly, these appointments have been made to the 18 National List seats, which have won the voting outcome of this year.
+
+◼️
+
+[Data](articles/0d512b85.json)
+
+[Extended Data](ext_articles/0d512b85.ext.json)
+
+---
+
+### Sri Lanka’s tenth Parliament to welcome over 150 fresh faces as MPs
+
+*2024-11-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103564/sri-lankas-tenth-parliament-to-welcome-over-150-fresh-faces-as-mps) · `en`
+
+The 2024 parliamentary election has marked a historic shift in Sri Lanka’s legislature, with nearly 150 out of the 196 elected Members of Parliament (MPs) being newcomers.
+
+A notable 146 MPs elected to the Parliament this year are first-time representatives in Parliament.
+
+The National People’s Power (NPP) emerged as the dominant force, securing 141 parliamentary seats at the district level following a landslide victory in the 2024 General Election, which was held on 14 November. Among these, 130 MPs are reported to be newcomers to the Parliament.
+
+The Samagi Jana Balawegaya (SJB) won 35 parliamentary seats, with eight of them being new MPs. In contrast, 27 of its elected members have previous served as parliamentarians.
+
+...
+
+[Data](articles/98e07235.json)
+
+[Extended Data](ext_articles/98e07235.ext.json)
+
+---
+
+### Keb in Siripura - car accident;One kills!
+
+*2024-11-17 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198989) · `ta`
+
+Car crash in Siripura: Driver killed, 2 injured. Collision occurred on Talukana-Mahiyangana road. Incident reported to police.
+
+🟩
+
+Police said that a car driver was killed when a car collided with a car in Patanagala on the Talukana - Mahiyangana road under the Siripura police division.
+
+A cab traveling from Siripura to Polonnaruwa collided head -on with a car collided with a car.
+
+The car driver died after two drivers were injured and admitted to the Dehi Athikandan hospital.
+
+◼️
+
+[Data](articles/4672f1a4.json)
+
+[Extended Data](ext_articles/4672f1a4.ext.json)
+
+---
+
+### Nine records in the history of the national folk force
+
+*2024-11-17 15:28:29* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-මැතිවරණය-ඉතිහාසයේ-වාර්තා-9ක්-පිහිටුවයි/11-413089) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Folk Force history: 9 records. Highest vote % (61.56%). Most divisions won (136). Highest votes (17,785,396). Most seats (141). Nationalist list record (1720). First party to win 2/3 seats under proportional system. Lowest election threshold (3%).
+
+🟩
+
+Former provincial Province Governor of the Central Province has placed nine electorals to the general general general general election.
+
+He was a political analyst and was a precedent former President Ranil Wickremesinghe.
+
+The highest percentage of a general election with a general election 61.56% (before, the UPFA)
+
+There are the highest number of vacations taken in a high ministration. (United People's Freedom Alliance (UPFA) in 2010 is 136 divisions)
+
+21 other districts won in general elections. Earlier, the United People's Freedom Alliance (UPFA) in 2010 Districts
+
+The highest number of votes won in general elections (1785,3960 votes in 2020)
+
+The highest number of seats won at district level 141. (The Public Federation Front in 2020 is 128 seats)
+
+The most nationalist list seats in general elections (CHOGM) 1720
+
+The highest 159 seats won in general elections. (Earlier, the Common Filling Front at 2020)
+
+...
+
+[Data](articles/f64ff580.json)
+
+[Extended Data](ext_articles/f64ff580.ext.json)
+
+---
+
+### National list of the compass is announced
+
+*2024-11-17 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203464) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+UNP General Secretary Dr. Nihal Abeysinghe notified Election Commissioner. According to 199 constitution election results, National List secured 18 seats for Sri Lanka.
+
+🟩
+
+The General Secretary of the UNP Dr. Nihal Abeysinghe has been sent to the Elections Commissioner of Elections, the General Secretary of the UNP.
+
+According to the election results of the election results of the 199 constitution of the Constitution, the National Institute of Sri Lanka won 18 seats.
+
+◼️
+
+[Data](articles/3ec404e3.json)
+
+[Extended Data](ext_articles/3ec404e3.ext.json)
+
+---
+
+### ITAK’s General Secretary nominated for National List seat
+
+*2024-11-17 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103563/itaks-general-secretary-nominated-for-national-list-seat-) · `en`
+
+The Ilankai Thamil Arasu Kachchi (ITAK) has nominated its General Secretary Dr. P. Sathiyalingam to enter the Parliament as the party’s National List MP.
+
+Dr. P. Sathiyalingam contested the 2024 General Election from the Vanni District representing the ITAK, however, was not able to secure a seat through the preference votes as ITAK managed to secure only one seat in the district.
+
+Accordingly, Dr. P. Sathiyalingam will enter the Parliament through the only national list seat secured by ITAK.
+
+◼️
+
+[Data](articles/2e139ef5.json)
+
+[Extended Data](ext_articles/2e139ef5.ext.json)
+
+---
+
+### Dilith appointed National List MP's National List
+
+*2024-11-17 15:19:19* · [`adalk`](https://www.ada.lk/breaking_news/සර්ව-ජන-බලයේ-ජාතික-ලැයිස්තු-මන්ත්‍රී-ධුරය-දිලිත්ට/11-413088) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Dil Jayaweera appointed National List MP by executive committee. Universal powers granted for this year's general election. Unanimous decision made.
+
+🟩
+
+The executive committee has unanimously decided to appoint the National List MP, Dil Jayaweera, who had the universal powers this year general election.
+
+◼️
+
+[Data](articles/69fcf731.json)
+
+[Extended Data](ext_articles/69fcf731.ext.json)
+
+---
+
+### MPs to enter Parliament through NPP’s national list
+
+*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/mps-to-enter-parliament-through-npps-national-list) · `en`
+
+The Election Commission has released the list of names nominated as Members of Parliament from the National People’s Power (NPP) through its national list.
+
+Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
+
+◼️
+
+[Data](articles/06920cdc.json)
+
+[Extended Data](ext_articles/06920cdc.ext.json)
+
+---
+
+### NPP reveals its 18 National List MPs
+
+*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/npp-reveals-its-18-national-list-mps) · `en`
+
+The National People’s Power (NPP) has announced the names nominated to fill the 18 National List MP seats won by the party in the 2024 parliamentary election.
+
+Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
+
+◼️
+
+[Data](articles/1d9bf83f.json)
+
+[Extended Data](ext_articles/1d9bf83f.ext.json)
+
+---
+
+### Dilith addresses in Parliament
+
+*2024-11-17 15:16:42* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413087) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Dilith Jayaweera, leader of US leaders, enters Parliament via National Visitor Council. Represents Almighty district but party lacks seat.
+
+🟩
+
+Dilita Jayaweera, the Leader of the United States Leaders, Dilith Jayaweera, is due to enter the Parliament by the National Visitor Council.
+
+Dilith Jayaweera represented the Almighty by the district, but the party could not have a seat.
+
+◼️
+
+[Data](articles/76adc4c0.json)
+
+[Extended Data](ext_articles/76adc4c0.ext.json)
+
+---
+
+### Decision to appoint Dilith Jayaweera
+
+*2024-11-17 15:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்-ஜயவீரவை-நியமிக்கத்-தீர்மானம்/175-347334) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Party appoints Dilith Jayaweera as National List representative despite no general election wins. General secretary made decision allowing single national list seat allocation.
+
+🟩
+
+The general secretary of the party has said that it has decided to appoint its leader Dilith Jayaweera as the representative of the National List of the Alliance.
+
+Despite failing to win any seats in the general election, the party allowed the party to obtain a single national list seat and make this recommendation.
+
+◼️
+
+[Data](articles/8ed69165.json)
+
+[Extended Data](ext_articles/8ed69165.ext.json)
+
+---
+
+### Celebration of the National People's Power
+
+*2024-11-17 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198993) · `ta`
+
+National People's Power wins 159 seats in Sri Lanka's 10th parliamentary election. Supporters celebrate victory outside Nanuoya Despees Grimity Temple. Party leader thanks voters; many members attend celebration.
+
+🟩
+
+In Sri Lanka's 10th parliamentary election, the National People's Power won 159 seats and held a historic record in the Nanuoya Grimity area.
+
+On Saturday evening (16), the supporters of the National People's Power delivered the public to the public in front of the Nanuoya Despees Grimity Temple.
+
+Mukkaya Bhaskar, a member of the National People's Power Executive Committee and Nuwara Eliya district organizer, thanked those who voted for the election.
+
+In addition, a large number of party members and supporters living in the area participated in the event.
+
+◼️
+
+[Data](articles/75ff8db8.json)
+
+[Extended Data](ext_articles/75ff8db8.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-11-17 14:18:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413086) · `si`
+
+Sri Lanka wins coin toss, decides to bat first in 2nd ODI against Sri Lanka today.
+
+🟩
+
+The second ODI match between Sri Lanka and Sri Lanka will be held today (17).
+
+Sri Lanka captain Charith won the coin first, decided to bowl first.
+
+◼️
+
+[Data](articles/b3526b7e.json)
+
+[Extended Data](ext_articles/b3526b7e.ext.json)
+
+---
+
+### Two arrested with 66 passports in Kahaduduwa
+
+*2024-11-17 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198987) · `ta`
+
+Two arrested with 66 passports in Kahaduduwa: Woman worked abroad, man sold fake jobs. Investigation reveals fraud scheme involving visas and money scams. Ice found during raid.
+
+🟩
+
+Two persons have been arrested for holding 66 passports in a house in Siyambalagoda area under the Kahaduduwa police division.
+
+They have been arrested following a raid on the basis of information received by the Kahatuduwa police station.
+
+The arrested woman worked in Singapore, Hong Kong, Dubai and Romania and came to Sri Lanka in 2022 and lived with a man who was arrested at the house in Siyambalagoda.
+
+He has been buying passports for many people for about two and a half years, claiming to be a foreign job.
+
+Investigations have revealed that many people have been waiting on the Rajagiriya area streets and sitting in vehicles.
+
+Investigations have revealed that they have bought a visa through foreign employment agents and have bought 2 - 3 lakhs of rupees from many persons, claiming that they are participating in the work interview and getting a foreign job.
+
+In addition, 20 milligrams of ice was taken during a raid carried out at home where the suspects were staying.
+
+◼️
+
+[Data](articles/7bb9d0cc.json)
+
+[Extended Data](ext_articles/7bb9d0cc.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-11-17 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203463) · `si`
+
+Sri Lanka vs New Zealand ODI: Sri Lanka wins coin toss, bowls first. Match at 2:30 PM today. Sri Lanka leads 1-0 in series. Win today ensures ODI victory after 12-year drought. Sri Lanka dominated at Pallekele, winning 21 matches, losing 16.
+
+🟩
+
+Sri Lanka and New Zealand will be held in Pulkora today (17).
+
+The Sri Lankan team won the advantage of its coin, the Sri Lankan team has first decided to bowl.
+
+The match will be held at 2.30 pm this afternoon.
+
+Sri Lanka won the first match of the Sri Lanka-New Zealand ODI series by 45 runs.
+
+Accordingly, Sri Lanka is in the forefront of a drop of 3 matches.
+
+If Sri Lanka wins the match today, the One ODI will win the one ODI win.
+
+Sri Lanka has been recorded against New Zealand in 2012, with Mahela Jayawardene's leadership.
+
+According to the Sri Lanka team today, Sri Lanka will be able to win the ODI series winning over 12 years after 12 years.
+
+Sri Lanka have played 38 runs in the Pallekele Stadium.  ඉන් තරග 21ක් ජයගෙන ඇති අතර තරග 16ක් පරාජයට  පත්ව ඇත.
+
+New Zealand have played three ODIs at Pallekele Stadium, while they defeated one match.
+
+◼️
+
+[Data](articles/4b3c5a2c.json)
+
+[Extended Data](ext_articles/4b3c5a2c.ext.json)
+
+---
+
+### Our aim is to create a prosperous new era and hand over the country to young people - Ilakumaran
+
+*2024-11-17 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198990) · `ta`
+
+I'm sorry, but as an AI language model, I don't have the capability to summarize text into 200 characters. Could you please provide more details about what you need assistance with?
+
+🟩
+
+This success is the victory for the people. The Jaffna -Kilinochchi district parliamentarian of the National People's Power, Ilangumaran, said that the relations in the diaspora should come together and come forward to improve our country.
+
+He made this statement at a media briefing held at the party office in Jaffna yesterday (16).
+
+The success we have to be considered a great success for the people. The people have cast these votes because of the disgust of politicians who have been in the past, due to their irresponsible activities, due to the lack of government institutions, and the hope that President Anura Kumara Dissanayake will create a ethnic unity in this country.
+
+Many trade unions have helped us in this election. We are obliged to thank those unions and people.
+
+We will create a new era, create a prosperous environment, create a industry sector and develop the Kilinochchi district in Jaffna and hand over the youth.
+
+...
+
+[Data](articles/867968b6.json)
+
+[Extended Data](ext_articles/867968b6.ext.json)
+
+---
+
+### Dilith Jayaweera appointed National List MP's National List
+
+*2024-11-17 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203462) · `si`
+
+Dilith Jayaweera named National List MP for UNP. Party won 178,006 votes in parliamentary election.
+
+🟩
+
+The party leader Diliti Diliti Diliti Jayaweera has been named for the national list seat of the number of nationual power in this year's parliamentary election.
+
+UNP General Secretary Ranjan Seneviratne has informed the Secretary General of Parliament Ranjan Seneviratne, sending a letter to the Election Commission.
+
+The exangerative power that competed as a new party for this year's parliamentary election, the new party won a vote for 178,006 votes.
+
+◼️
+
+[Data](articles/97a0bcf0.json)
+
+[Extended Data](ext_articles/97a0bcf0.ext.json)
+
+---
 
 ### Dilith Jayaweera to enter Parliament through ‘Sarvajana Balaya’ national list
 
@@ -2135,327 +2539,5 @@ Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva 
 [Data](articles/191fc0ed.json)
 
 [Extended Data](ext_articles/191fc0ed.ext.json)
-
----
-
-### The national people are not opposed to the power of the people
-
-*2024-11-17 03:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-எதிர்ப்பானவர்கள்-அல்லர்/175-347310) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-CVK Sivagnanam: "We're not opposed to national power." TNA leader discusses party's shift on 13th Amendment, provincial councils. Emphasizes support for Tamil people's interests and constitutional changes.
-
-🟩
-
-CVK Sivagnanam, Senior Deputy Chairman of the Sri Lanka Tamil National Alliance (TNA) and Chairman of the Northern Provincial Council, said that we are not opposed to the national power.
-
-He said this during a media briefing held at his office in Jaffna yesterday. He further stated that
-
-This time the national people have recorded success as a power wave or tsunami. The party has more than two -thirds majority. Some have been elected in Jaffna and elsewhere in this party.
-
-Therefore, what we can do with the party or policy is that the people who fought against the 13th Amendment and the provincial council system in the past.. But now that the Tamil people want it and the new constitution, there is a change in the same way that the system remain intact.
-
-Even though the party stood against the day, there is now a change. That change must occur in all matters of the Tamil people. Therefore, we make it clear that we are not against your state or opposition to any occasion. (A)
-
-◼️
-
-[Data](articles/98134115.json)
-
-[Extended Data](ext_articles/98134115.ext.json)
-
----
-
-### Extension of landslide risk warning
-
-*2024-11-17 03:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-நீடிப்பு/175-347309) · `ta`
-
-Landslide warning extended: Matale, Kegalle, Kurunegala, Gampaha, Matara until 4pm today.
-
-🟩
-
-The National Building Research Institute said that the landslide hazard warning has been extended till 4 pm today.
-
-A landslide hazard has been extended to the districts of Matale, Kegalle, Kurunegala, Gampaha and Matara. (A)
-
-◼️
-
-[Data](articles/78793e48.json)
-
-[Extended Data](ext_articles/78793e48.ext.json)
-
----
-
-### Amana Bank’s nine month PAT tops Rs. one bn.
-
-*2024-11-17 02:09:00* · [`islandlk`](http://island.lk/amana-banks-nine-month-pat-tops-rs-one-bn/) · `en`
-
-Advances surpass LKR 100 billion milestone, with a growth of 16%
-
-Amãna Bank continued its strong financial performance as it closed the nine months ending September 30, 2024 with a Profit Before Tax of LKR 1.98 billion, reflecting a 18% YoY increase compared to LKR 1.68 billion recorded for the corresponding period of 2023. Showcasing a 26% YoY growth, Profit After Tax grew from LKR 891 million to cross the LKR 1 billion mark and close at LKR 1.12 billion, a news release from the bank said.
-
-With financing rates declining across the banking industry in a bid to spur economic growth, the Bank’s financing income closed at LKR 11.70 billion. However, by maintaining a strong financing margin of 4.1%, the Bank posted a Net Financing Income growth of 6% YoY to reach LKR 5.13 billion compared with LKR 4.85 billion posted in the corresponding period in 2023.
-
-...
-
-[Data](articles/3b233f70.json)
-
-[Extended Data](ext_articles/3b233f70.ext.json)
-
----
-
-### Infinite Group becomes market entry partner for East London University in Lanka
-
-*2024-11-17 02:08:00* · [`islandlk`](http://island.lk/infinite-group-becomes-market-entry-partner-for-east-london-university-in-lanka/) · `en`
-
-Infinite Group announces its partnership with the University of East London (UEL), becoming the official representative in Sri Lanka to manage agent partnerships and entry registrations. This collaboration will provide Sri Lankan agents to work closely with UEL’s academic programmes and streamlined application services, enhancing opportunities for higher education abroad.
-
-Speaking about the partnership Pavel Bawa, Deputy Head of International Recruitment, South Asia from the UEL said, “Our partnership with the Infinite Group comes at a time when the demand for overseas education is growing rapidly in Sri Lanka. The UK remains one of the top destinations for Sri Lankan students due to its high academic standards, cultural diversity, and excellent career prospects. With Infinite Group facilitating the entire process, students will now find it easier to apply to UEL and embark on their academic journeys.”
-
-...
-
-[Data](articles/58eb4fb6.json)
-
-[Extended Data](ext_articles/58eb4fb6.ext.json)
-
----
-
-### Sampath Bank achieves strong growth for 9 months ending Sept 2024
-
-*2024-11-17 02:07:00* · [`islandlk`](http://island.lk/sampath-bank-achieves-strong-growth-for-9-months-ending-sept-2024/) · `en`
-
-Sampath Bank has posted impressive financial results for the nine months ending September 30, 2024, with a profit before tax (PBT) of Rs 29.9 billion and a profit after tax (PAT) of Rs 17.8 billion. These results represent a year-on-year growth of 36% in PBT and 44% in PAT, despite an exchange loss of Rs 3.6 billion due to the appreciation of the Sri Lankan Rupee (LKR). The Sampath Group, which includes the bank and its subsidiaries, reported a PBT of Rs 31.9 billion and PAT of Rs 19.1 billion, reflecting growth rates of 40% and 50%, respectively.
-
-Key financial metrics highlighted strong performance across several areas. Net Interest Income grew by 14.1% to Rs 61 billion, supported by reduced interest expenses despite a 9.6% drop in total interest income. The bank’s loan book expanded by Rs 38 billion, while deposits grew by Rs 140 billion, reinforcing solid growth in both assets and liabilities.
-
-...
-
-[Data](articles/817359cd.json)
-
-[Extended Data](ext_articles/817359cd.ext.json)
-
----
-
-### Hayleys records 78% growth in PBT to Rs.12.73 bn in first half
-
-*2024-11-17 02:06:00* · [`islandlk`](http://island.lk/hayleys-records-78-growth-in-pbt-to-rs-12-73-bn-in-first-half/) · `en`
-
-The Hayleys Group delivered remarkable growth and profitability during the first half of the financial year ending 31st March 2025, as it leveraged its leading market positions across diverse business verticals to deliver a Profit Before Tax of Rs.12.73 bn, an increase of 78% over the corresponding period of the previous year, a company news release said.
-
-Meanwhile, the Group recorded a 44% increase in Profit Before Tax to Rs.7 bn during the second quarter of the financial year. The robust performance for the period reflects commendable top line growth, ongoing focus on operating efficiencies and effective management of finance costs, enabling continued value creation to shareholders with the annualized Earnings per Share increasing to Rs.4.23 compared to Rs.0.09 the previous year, the release added.
-
-...
-
-[Data](articles/ba1c1e35.json)
-
-[Extended Data](ext_articles/ba1c1e35.ext.json)
-
----
-
-### Walter Stace in British Ceylon, 1910-1932
-
-*2024-11-17 01:25:00* · [`islandlk`](http://island.lk/walter-stace-in-british-ceylon-1910-1932/) · `en`
-
-Walter T. Stace was a British citizen born in 1886 and educated in private schools in Wales and Scotland before completing his undergraduate degree at Trinity College, Dublin. He was therefore of middle-upper class background. His philosophical leanings did not deter him from signing up for the Colonial Service. He was sent to Ceylon – reaching the island with his wife … and being posted to the town of Galle in 1910.
-
-He wrote his autobiography at some point and the Sri Lankan chapters have been printed as a book entitled FOOTPRINTS ON WATER under the editorial direction of Bernd Pflug by the Sailfish firm in Colombo marketed by the Perera Hussein Publishing House in a 218-page booklet bearing the ISBN 978-624-5993-02=4
-
-...
-
-[Data](articles/91768d23.json)
-
-[Extended Data](ext_articles/91768d23.ext.json)
-
----
-
-### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
-
-*2024-11-17 01:06:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-experts-expertise-expatriates/) · `en`
-
-The inability of Sri Lankan citizens, academics and scholars included, to engage properly with critical issues on time presents a risk to society. It also presents a challenge to the new GOSL. I’ve said this before – sadly, the country ended up in its current, precarious state due to a financial crisis brought about by wicked and corrupt politicians, some of whom have amassed vast wealth in just 15 years after the terrorist war ended. But corrupt and stupid politicians didn’t do it alone.
-
-...
-
-[Data](articles/44a25f26.json)
-
-[Extended Data](ext_articles/44a25f26.ext.json)
-
----
-
-### An Open Letter To President AKD: Make Religious Freedom Or Belief A priority
-
-*2024-11-17 00:58:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-open-letter-to-president-akd-make-religious-freedom-or-belief-a-priority/) · `en`
-
-Dear Mr. President, I write to you not only as a concerned citizen but as someone who is deeply invested in the international standing and reputation of Sri Lanka. Just a few months ago, I was among those who voiced their skepticism about your ascent to the presidency, questioning whether your promises of eradicating corruption and prioritizing the welfare of the people would blossom into genuine change.
-
-Yet, today, I reach across the chasm of our political differences to appeal to a shared hope: a united and harmonious Sri Lanka – ensuring religious freedom or belief to all. As you have articulated in your speeches, Sri Lanka stands at a crossroads—we either repeat divisive politics or create an opportunity to build a nation that values the rich diversity of its people.
-
-...
-
-[Data](articles/44125c08.json)
-
-[Extended Data](ext_articles/44125c08.ext.json)
-
----
-
-### 2024-11-16 (Saturday)
-
-### "Not going to retire" Mahinda Action
-
-*2024-11-16 23:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறப்போவதில்லை-மஹிந்த-அதிரடி/175-347308) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Mahinda Rajapakse refuses to retire from politics. He believes newcomers should be given a chance to prove themselves. The people have voted for change, sending new representatives to Parliament.
-
-🟩
-
-Former President Mahinda Rajapakse has announced that he will not retire from politics.
-
-He said the success of the national people's power was a positive improvement and that newcomers should be given the opportunity to prove if they could succeed.
-
-The people of this country have voted and sent new people to Parliament.. Remble
-
-◼️
-
-[Data](articles/6dc05f66.json)
-
-[Extended Data](ext_articles/6dc05f66.ext.json)
-
----
-
-### Gazette Release includes the names of the new MPs
-
-*2024-11-16 23:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்களின்-பெயர்கள்-அடங்கிய-வர்த்தமானி-வெளியீடு/175-347307) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New MPs named in Gazette: 196 elected to 10th Parliament. Special notification issued by Election Commission in 1981. National List MPs (29) announced separately by parties.
-
-🟩
-
-A special gazette notification, comprising the names of the 196 MPs who have been elected to the 10th Parliament.
-
-The Extreme Gazette Notification has been issued by the Election Commission in 1981 in accordance with the Parliamentary Elections Act.
-
-The parties must announce the names of the members to be elected to Parliament through the National List on behalf of the party. The Gazette, which includes the names of the 29 National List MPs, will be published by the Elections Commission. Remble
-
-◼️
-
-[Data](articles/872dfd76.json)
-
-[Extended Data](ext_articles/872dfd76.ext.json)
-
----
-
-### Attack on SLPP party office
-
-*2024-11-16 23:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/SLPP-கட்சி-காரியாலயத்தின்-மீது-தாக்குதல்/73-347306) · `ta`
-
-Attack on SLPP office: Complaint filed at Kattankudy Police Station. Incident occurred near Batticaloa Election Office. Office belongs to MI Abdul Wahhab, former parliamentary candidate.
-
-🟩
-
-A complaint has been lodged at the Kattankudy Police Station that the PA has been attacked last night.
-
-The office of the office said that the Election Office may have been attacked on the Poonchimunai Darussalam Playground Road, Batticaloa.
-
-The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
-
-◼️
-
-[Data](articles/9e4eef34.json)
-
-[Extended Data](ext_articles/9e4eef34.ext.json)
-
----
-
-### The Downplaying of Our National Languages: the Advantages of English
-
-*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/the-downplaying-of-our-national-languages-the-advantages-of-english/) · `en`
-
-(Excerpted from Falling Leaves, an anthology of autobiographical stories by LC Arulpragasam)
-
-I recognized the advantages that we had inherited from the British through our knowledge of the English language. But I also began to realize that we had so exalted our knowledge of English that it had been at the expense of the neglect of our national languages. For example in India, although the members of its upper/middle classes spoke impeccable English, they conversed at home in Hindi or in their regional languages, whereas in Ceylon the middle class usually spoke English at home, with the local languages being reserved only for the servants.
-
-...
-
-[Data](articles/1d2fea47.json)
-
-[Extended Data](ext_articles/1d2fea47.ext.json)
-
----
-
-### Birth and Progress of SAARC
-
-*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/birth-and-progress-of-saarc/) · `en`
-
-The South Asian Association for Regional Cooperation (SAARC) of which I was called one of the founding fathers, consists of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. I attended the first meeting in Bangladesh and later meetings in India, Nepal and Pakistan between 1985 and 1988.
-
-...
-
-[Data](articles/b3054785.json)
-
-[Extended Data](ext_articles/b3054785.ext.json)
-
----
-
-### Ceylinco Life gifts Elpitiya primary school its first new building since 1935
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/ceylinco-life-gifts-elpitiya-primary-school-its-first-new-building-since-1935/) · `en`
-
-A small primary school in the Galle District has received a new classroom, its first new building in 89 years, with the support of Ceylinco Life.Sri Lanka’s life insurance leader donated Rs 1.6 million towards the material costs to construct a classroom for the Bogaha Kanishta Vidyalaya in Elpitiya, a school that has not seen any building construction since 1935.
-
-Coincidentally, this was the 88th classroom building built by Ceylinco Life under a long-running corporate social responsibility initiative that has benefitted schools across Sri Lanka.
-
-The new building will be used by 40 students of Grade 3, who had previously had their classes outdoors or in the dilapidated school hall due to the non-availability of a building. The Bogaha Kanishta Vidyalaya has a student population of 195.
-
-Every classroom built by Ceylinco Life over the years continues to be monitored and maintained by the Company to ensure it serves many generations of students.
-
-...
-
-[Data](articles/12ca7af5.json)
-
-[Extended Data](ext_articles/12ca7af5.ext.json)
-
----
-
-### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/amana-takaful-launches-executive-edge-forum-to-mark-25-years-of-excellence/) · `en`
-
-Amana Takaful Insurance celebrated its 25th anniversary with the launch of its inaugural “Executive Edge” forum at Shangri-La Colombo. The event brought together leading figures from Sri Lanka’s financial services sector, including prominent executives from leasing companies, insurance brokers, and partner banks, as well as key clients of Amana Takaful Life.
-
-The forum served as a platform for insightful discussions on the future of finance and evolving consumer behavior in the industry. A vibrant panel discussion featured Gayathri Manatunga (Head of Assurance at EY Sri Lanka and Maldives), Thilan Wijesinghe (Chairman of TWCorp), and Dr. Naveen Gunawardane (Managing Director of Lynear Wealth Management), with moderation by Shamindra Kulamannage. The panel explored how the financial services industry can adapt to rapid changes in consumer behavior, technology, and regulations.
-
-...
-
-[Data](articles/a5dcb958.json)
-
-[Extended Data](ext_articles/a5dcb958.ext.json)
-
----
-
-### Inquiries about a Legacy and learning law for fun
-
-*2024-11-16 23:11:00* · [`islandlk`](http://island.lk/inquiries-about-a-legacy-and-learning-law-for-fun/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-It was also during this period that I received a rather curt letter from the Commissioner of Inland Revenue stating that his department had received information that I had come in for a legacy of a house and several acres of land. He directed that this be declared forthwith so that the department could assess the tax and any penalties to be paid. This was a bit too much. I was extremely busy and had no time for tomfoolery. I called the stenographer and dictated the following reply:-
-
-I was delighted to receive your letter dated …. I shall be most grateful if you could please provide me very early, all particulars regarding this legacy, with addresses, etc., so that I may be enabled to enter upon it without any delay. I am anxiously looking forward to this. Please rest assured that I would be prepared to gladly pay any tax you may levy on it and any penalties you may decide on.
-
-...
-
-[Data](articles/57b8ec83.json)
-
-[Extended Data](ext_articles/57b8ec83.ext.json)
 
 ---

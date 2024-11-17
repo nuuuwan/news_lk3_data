@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 14:41:17**
+As of **2024-11-17 15:12:11**
 
 ## Newspaper Stats
 
@@ -1030,7 +1030,7 @@ By September 2024, the net foreign assets of the central bank were negative by o
 
 The central bank’s foreign reserves were a negative 4.0 billion dollars in March 2022 when the central bank hiked rates to contain domestic credit.
 
-But due to reserves loaned by India through the Asian Clearing Union mechanism, the central bank continued to sell down reserves and re-finance domestic credit through inflationary open market or standing liquidity facilities extending the balance of payments deficits.
+But due to reserves loaned by India through the Asian Clearing Union mechanism, the central bank continued to sell borrowed reserves and re-finance domestic credit through inflationary open market or standing liquidity facilities to maintain its policy rate, extending the balance of payments deficits.
 
 ...
 

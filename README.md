@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 23:25:26**
+As of **2024-11-17 22:41:13**
 
 ## Newspaper Stats
 
-*Scraped **55,451** Articles*
+*Scraped **55,436** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,212 +13,24 @@ dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
-economynextcom | 3,359
+economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,195
+adalk | 5,194
 adaderanalk | 6,693
-tamilmirrorlk | 7,857
-virakesarilk | 9,008
-adaderanasinhalalk | 9,590
+tamilmirrorlk | 7,856
+virakesarilk | 9,000
+adaderanasinhalalk | 9,589
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,440 (100.0%) of 55,451 articles have been extended.
+55,436 (100.0%) of 55,436 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
-
-### மஹிந்தவின் கனவு நனவாகியது - நாமல்
-
-*2024-11-17 23:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-கனவு-நனவாகியது-நாமல்/175-347355) · `ta`
-
-முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷவின் கனவு தற்போதைய அரசாங்கத்தின் வெற்றியின் மூலம் நனவாகியுள்ளதாக ஸ்ரீலங்கா பொதுஜன பெரமுனவின் தேசிய அமைப்பாளர் நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
-
-தெற்கில் உள்ள அரசியல் கட்சிகள், வடக்கு மக்களை கவரக்கூடிய சூழலை உருவாக்குவது மஹிந்த ராஜபக்ஷவின் கனவாக இருந்தது.
-
-தற்போதைய அரசாங்கத்தின் வெற்றியின் மூலம் அந்த கனவு நனவாகியுள்ளதாக நாமல் ராஜபக்ஷ தெரிவித்துள்ளார்.
-
-எவ்வாறாயினும், நாட்டை மீண்டும் பிரிவினைவாதத்திற்கு இட்டுச் செல்லும் எந்தவொரு செயற்பாட்டிற்கும் ஸ்ரீலங்கா பொதுஜன பெரமுன இடமளிக்காது என நாமல் ராஜபக்ஷ இன்று (17) விடுத்துள்ள கடிதத்தில் குறிப்பிட்டுள்ளார். R
-
-◼️
-
-[Data](articles/a17a37a1.json)
-
----
-
-### Arrested with domestic gun
-
-*2024-11-17 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199013) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-57-year-old man arrested in Timbreiya for possessing a domestic firearm. Raid conducted based on police intelligence in Kirulla division. Suspect from Nikavaratiya.
-
-🟩
-
-A suspect has been arrested for possessing a domestic gun in the Timbreiyawa area of ​​the Kirulla police division.
-
-He was arrested during a raid on the basis of information received by the police officers of Kirulla.
-
-The arrested suspect is a 57 -year -old from Nikavaratiya, Timbreiya.
-
-◼️
-
-[Data](articles/400c9776.json)
-
-[Extended Data](ext_articles/400c9776.ext.json)
-
----
-
-### 21 நாட்களுக்குள் தேர்தல் பிரச்சார செலவு விபரங்களை சமர்ப்பிக்க வேண்டும் ; சகல வேட்பாளர்களுக்கும் ஆணைக்குழு அறிவுறுத்தல்
-
-*2024-11-17 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199009) · `ta`
-
-பொதுத்தேர்தலில் போட்டியிட்ட 8821 வேட்பாளர்களும் 21 நாட்களுக்குள் தேர்தல் பிரச்சாரங்கள் தொடர்பான விபரங்களை ஆணைக்குழுவுக்கு சமர்ப்பிக்க வேண்டும். குறித்த காலப்பகுதியில் விபரத்திரட்டை சமர்ப்பிக்காவிடின்  உரிய சட்ட நடவடிக்கை எடுக்கப்படும் என தேர்தல்கள் ஆணையாளர் நாயகம் சமன் ஸ்ரீ ரத்நாயக்க தெரிவித்தார்.
-
-பொதுத்தேர்தல் நீதியானதும், சுதந்திரமானதுமான வகையில்  நிறைவடைந்துள்ளது. அமைதியான முறையில் தேர்தலை நடத்துவதற்கு ஒத்துழைப்பு வழங்கிய நாட்டு மக்களுக்கும், பாதுகாப்பு தரப்பினருக்கும், அரச மற்றும் தனியார் தரப்பினருக்கும், ஊடகங்களுக்கும் நன்றியை தெரிவித்துக் கொள்கிறோம்.
-
-ஜனநாயக ரீதியில் 225 உறுப்பினர்கள் தெரிவு செய்யப்பட்டுள்ளார்கள். ஆகவே 225 உறுப்பினர்களும் மக்களாணைக்கு அமைய சிறந்த முறையில் செயற்பட வேண்டும் என்று வலியுறுத்துகிறோம். ஐந்து ஆண்டுகளின் செயற்பாடுகளின் ஊடாகவே தேர்தலின் வெற்றி உறுதியாக தீர்மானிக்கப்படும்.
-
-...
-
-[Data](articles/917fbd7a.json)
-
----
-
-### We will cooperate with the Government to arrest the arrests and restore national assets - the United People's Power
-
-*2024-11-17 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199006) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"United People's Power supports govt arresting asset thieves & restoring national property. Opposition party vows cooperation. Party leader Sajith Premadasa emphasizes grassroots connection. Future plans to strengthen party."
-
-🟩
-
-The government has promised people to arrest the robbers who have robbed national assets and restore the property. United People's Power General Secretary Ranjith Mathuma Bandara said that we will give our full cooperation to the government as the opposition party to accomplish this.
-
-He further stated at a press conference held at the United People's Power Headquarters in Colombo on Sunday.
-
-The United People's Power is once again elected as the main opposition party. Two -thirds have to act in parliament with the majority of the ruling party. Similarly, the government has a responsibility to fulfill his promises during both elections.
-
-We are closely observing them in regard to them. The government has promised people to arrest the robbers in particular and restore the property. We will give the government our full cooperation as the Opposition to accomplish this.
-
-...
-
-[Data](articles/0fe8e2e0.json)
-
-[Extended Data](ext_articles/0fe8e2e0.ext.json)
-
----
-
-### Parliament and Election Commission should take action to improve the capacity of minorities contesting elections - the Asian network for independent elections
-
-*2024-11-17 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198997) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's 2024 parliamentary election saw increased female representation but limited minority candidates. The Asian Network for Independent Elections urges improvement in election efficiency and voter education. Challenges include social media misinformation, accessibility issues for disabled voters, and restrictions on certain groups. Recommendations focus on enhancing minority participation and creating a more inclusive electoral environment.
-
-🟩
-
-Although the presence of minority and female candidates in the general election is limited, the female representation has increased in the election. This includes significant successes of women belonging to the Tamil plantation community. The Asian network for independent elections has urged the Sri Lanka Parliament, the Election Commission and the International NGOs to improve and strengthen the efficiency of the elections contesting the election to ensure that these gains continue to increase.
-
-The Asian network for independent elections released its interim report on Sunday at the Grand Hotel in Colombo, based on the surveillance of Sri Lanka's general election.. This is mentioned in that statement.
-
-...
-
-[Data](articles/88687d7b.json)
-
-[Extended Data](ext_articles/88687d7b.ext.json)
-
----
-
-### මහින්දගේ සිහිනය ඉටු වුණා - නාමල්
-
-*2024-11-17 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203475) · `si`
-
-දකුණේ දේශපාලන පක්ෂවලටත්, උතුරේ ජනතාවගේ ආකර්ෂනය සහ කැමැත්ත ලබාගත හැකි වාතාවරණයක් උදාකිරිම සඳහා හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතාට තිබූ සිහිනය වත්මන් ආණ්ඩුවේ ජයග්‍රහණයත් සමග සැබෑ වී ඇති බව ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධයක නාමල් රාජපක්ෂ මහතා පවසයි.
-
-කෙසේ වෙතත් රට යළි බෙදුම්වාදය කරා ගෙන යන කිසිදු ක්‍රියාදාමයකට ශ්‍රී ලංකා පොදුජන පෙරමුණ ඉඩනොදෙන බවත් නාමල් රාජපක්ෂ මහතා අද (17) නිකුත් කළ ලිපියකින් සඳහන් කළේය.
-
-ශ්‍රී ලංකා පොදුජන පෙරමුණේ ජාතික සංවිධයක නාමල් රාජපක්ෂ මහතා නිකුත් කළ සම්පූර්ණ ලිපිය පහතින්,
-
-◼️
-
-[Data](articles/52928bf2.json)
-
----
-
-### தேசிய பட்டியல் உறுப்பினர்கள் விசேட வர்த்தமானி வெளியீடு - தேர்தல்கள் ஆணைக்குழு
-
-*2024-11-17 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199024) · `ta`
-
-தேசிய மக்கள் சக்தி மற்றும் சர்வஜன கட்சியின் தேசிய பட்டியல் உறுப்பினர்களின் பெயர்களை உறுதிப்படுத்தி தேர்தல்கள் ஆணைக்குழு விசேட வர்த்தமானி அறிவித்தலை வெளியிட்டுள்ளது.
-
-அரசியலமைப்பின் 99(அ) ஆம் உறுப்புரையின் கீழ் தேசிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினர்களாக பிமல் ரத்நாயக்க, அனுர கருணாதிலக்க, உபாலி பன்னிலகே, எரங்க உதேஸ் வீரரத்ன, அருண ஜயசேகர, ஹர்ஷண சூரியபெரும, ஜனித் ருவன் கொடித்துவக்கு, புண்ணிய ஸ்ரீ குமார ஜயகொடி, ராமலிங்கம் சந்திரசேகர், நஜீத் இந்திக்க, சுகத் திலகரத்ன, லக்மாலி காஞ்சனா ஹேமசந்திர, சுனில் சமிந்த குமார, காமினி ரத்நாயக்க, ருவன் சமிந்த ரணசிங்க, சுகத் வசந்த த சில்வா, அபூபக்கர் ஆதம்பாவா, ரத்நாயக்க சமரசிங்க ஆகியோர் பாராளுமன்ற உறுப்பினர்களாக தெரிவு செய்யப்பட்டுள்ளனர்.
-
-அத்துடன் சர்வஜன சக்தியின் தேசிய பட்டியல் உறுப்பினராக திலித் ஜயவீர தெரிவு செய்யப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/83b181e5.json)
-
----
-
-### தேசிய மக்கள் சக்தியின் வெற்றி அரசியல் சுனாமி - திலும் அமுனுகம
-
-*2024-11-17 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199000) · `ta`
-
-தேசிய மக்கள் சக்தியின் வெற்றி அரசியல் சுனாமி என்றே குறிப்பிட வேண்டும். அதிகளவான ஆசனங்களை கைப்பற்ற எதிர்பார்த்தோம். இருப்பினும் ஒரு ஆசனம் கூட கிடைக்கவில்லை. தேசிய பட்டியல் ஊடாக பாராளுமன்ற உறுப்பினராக போகவில்லை என சர்வஜன சக்தியின் தேசிய அமைப்பாளரும், முன்னாள் அமைச்சருமான திலும் அமுனுகம தெரிவித்தார்.
-
-பொதுத்தேர்தலில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான தேசிய மக்கள் சக்தி வரலாற்றில் என்றுமில்லாத வகையில் அமோக வெற்றிப் பெற்றுள்ளது. இதனை அரசியல் சுனாமி என்றே குறிப்பிட வேண்டும். புதிய மக்களாணையை முழுமையாக ஏற்றுக் கொள்கிறோம்.
-
-ஜனாதிபதி அநுரகுமார மீது அதீத நம்பிக்கை கொண்டு நாட்டு மக்கள் ஆட்சிமாற்றத்தை ஏற்படுத்தியுள்ளார்கள். மக்களின் எதிர்பார்ப்புக்கமைய சிறந்த முறையில் அரசாங்கம் செயற்பட வேண்டும் என்று வாழ்த்து தெரிவித்துக் கொள்கிறேன்.
-
-...
-
-[Data](articles/3814aa90.json)
-
----
-
-### மக்களால் ஏற்படுத்தப்பட்டுள்ள புதிய அரசியல் கலாசார மாற்றத்தை தொடர்ந்தும் முன்னெடுத்துச்செல்ல முழுமையான ஆதரவு - ஹர்ஷ டி சில்வா
-
-*2024-11-17 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199003) · `ta`
-
-நாட்டில் வடக்கு, தெற்கு மற்றும் மலையகம் என சகல மக்களும் அபிவிருத்தியடைந்த நாட்டை உருவாக்குவதற்கான அதிகாரத்தை ஜனாதிபதிக்கு வழங்கியிருக்கின்றனர். மக்களால் ஏற்படுத்தப்பட்டுள்ள இந்த புதிய அரசியல் கலாசார மாற்றத்தை தொடர்ந்தும் முன்னெடுத்துச் செல்வதற்கு ஒத்துழைப்புக்களை வழங்க தீர்மானித்துள்ளதாக கலாநிதி ஹர்ஷ டி சில்வா தெரிவித்தார்.பொதுத் தேர்தல் நிறைவடைந்துள்ள நிலையில் தனக்கு வாக்களித்தவர்களுக்கு நன்றி கூறி வெளியிட்டுள்ள விசேட அறிவிப்பிலேயே அவர் இதனைத் தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/70a306e4.json)
-
----
-
-### பாராளுமன்றத்துக்கு  தெரிவாகியுள்ள 18 வைத்தியர்கள்
-
-*2024-11-17 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199023) · `ta`
-
-நாட்டின் பத்தாவது பாராளுமன்றத்துக்கு தெரிவாகியுள்ள 225 உறுப்பினர்களில் 18 வைத்தியர்கள் உள்ளடங்குகின்றனர். இவர்களில் 16 பேர் தேசிய மக்கள் சக்தியை பிரதிநிதித்துவப்படுத்துகின்றனர்.
-
-வைத்தியர் மொஹமட் ரிஸ்வி சாலி, வைத்தியர் கிறிசாந்த சில்வா அபேசேன, வைத்தியர் நிஹால் அபேசிங்க, வைத்தியர்  நளிந்த ஜயதிஸ்ஸ,  வைத்தியர்  நிசாந்த சமரவீர, வைத்தியர் சாலிய சதருவன், வைத்தியர் ரணசிங்க, வைத்தியர் ஜகத் விக்கிரமரத்ன, வைத்தியர் ஜனக சேனாரத்ன, வைத்தியர் நாமல் சுதர்ஷன, வைத்தியர் நிஷாந்த ஜகத் குமார, வைத்தியர் முதித விஜயமுனி, வைத்தியர் பிரசன்ன குணசேன, வைத்தியர் மதுர செனவிரத்ன, வைத்தியர் பி.எச் தம்மிக, வைத்தியர் ஸ்ரீ பவனந்த ராஜா ஆகியோர் தேசிய மக்கள் சக்தியின் சார்பில் பாராளுமன்றத்துக்கு தெரிவாகியுள்ளனர்.
-
-இலங்கை தமிழரசுக் கட்சி சார்பில் போட்டியிட்ட வைத்தியர் இளையதம்பி ஸ்ரீநாத்,  சுயேட்சை குழு சார்பில் போட்டியிட்ட வைத்தியர்  இராமநாதன் அச்சுனா ஆகியோர் தெரிவு செய்யப்பட்டுள்ளனர்.
-
-◼️
-
-[Data](articles/46f941da.json)
-
----
 
 ### IMF team arrives in Sri Lanka for third review under EFF program
 
@@ -597,32 +409,6 @@ SriLankan Airlines has taken steps to educate passengers from these aircraft, an
 [Data](articles/dd00284b.json)
 
 [Extended Data](ext_articles/dd00284b.ext.json)
-
----
-
-### The rights of the people should be defended with infinite power
-
-*2024-11-17 18:42:48* · [`adalk`](https://www.ada.lk/breaking_news/අසීමිත-බලය-සමග-ජනතාවගේ-අයිතීන්-ආරක්ෂා-කර-ගත-යුතුයි/11-413103) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Rights protected by infinite government power: democracy safeguarded, people's rights defended. Opposition plays crucial role in fulfilling citizens' rights and preserving democracy.
-
-🟩
-
-The General Secretary of the JVP Ranjith Maddumabandara said that with the unlimited power of the government and the rights of the government should protect the rights of democracy and the rights of the people.
-
-He was speaking at a media briefing held in Colombo today (17). At the same time, Ranjith Madduma Bandara said.
-
-"We are thankful for all those who voted for the protection of voters and democracy to vote for the community and democracy in general. And we thank the security forces of the relevant officers, who have taken the general election. Also, print media, electronic media and social media played a large task to protect the democracy of the country. Also this year, nearly Rs.. Thankfully, we are thankful that people put the people over the reconciliation power.
-
-...
-
-[Data](articles/dd331153.json)
-
-[Extended Data](ext_articles/dd331153.ext.json)
 
 ---
 
@@ -1033,36 +819,6 @@ Farmers' Peace Struggle, which began on September 15 last year, has been going o
 [Data](articles/58b495d4.json)
 
 [Extended Data](ext_articles/58b495d4.ext.json)
-
----
-
-### Sri Lanka NPP national list members named, Dilith from Sarvajana
-
-*2024-11-17 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-npp-national-list-members-named-dilith-from-sarvajana-188308/) · `en`
-
-ECONOMYNEXT – Eighteen members from Sri Lanka’s Lanka National People’s Power have been declared elected to the parliament by the Elections Commission in a gazette notice.
-
-◼️
-
-[Data](articles/a4713d04.json)
-
----
-
-### Sri Lanka President’s parliament address time revised to 11.30am on Nov 21
-
-*2024-11-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-parliament-address-time-revised-to-11-30am-on-nov-21-188311/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake will make an policy address at 11.30 am on November 21, and not 3.00 pm, as earlier indicated, the parliament said in a statement.
-
-“During this session, the President will deliver a comprehensive explanation of the government’s vision and forthcoming initiatives through the Policy Statement, addressing both Parliament and the public,” the statement said.
-
-President Dissanayake is expected to swear in a cabinet on Monday.
-
-President Dissanayake’s National People’s Power party swept parliamentary polls on November 14 winning over two thirds of the 225 assembly seats. (Colombo/Nov17/2024)
-
-◼️
-
-[Data](articles/f836cb6f.json)
 
 ---
 
@@ -1609,50 +1365,6 @@ Despite failing to win any seats in the general election, the party allowed the 
 [Data](articles/8ed69165.json)
 
 [Extended Data](ext_articles/8ed69165.ext.json)
-
----
-
-### Sri Lanka newly elected members asked to submit information to parliament
-
-*2024-11-17 15:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-newly-elected-members-asked-to-submit-information-to-parliament-188303/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected members have been asked by the Secretary General Kushani Rohanadeera to submit their details for registration.
-
-An online portal has been provided on the front page of the parliament website.
-
-Information desks will be operated on November 19 and 20 to support new members.
-
-In the current general election, a large number of new members were elected through the National People’s Power which got a two thirds majority.
-
-The Secretary-General of Parliament, Mrs. Kushani Rohanadeera, has announced that in connection with the first Session of the First Sitting of the Tenth Parliament, facilities have been arranged for the Members of Parliament to enter their information through the Parliament website.
-
-...
-
-[Data](articles/054a367c.json)
-
----
-
-### Sri Lanka President to swear in new cabinet Monday morning
-
-*2024-11-17 14:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-swear-in-new-cabinet-monday-morning-188291/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake will swear in a new cabinet at 10.00 am on Monday, his media office said.
-
-Both cabinet and deputy ministers will take oaths, the statement said.
-
-The NPP has said it will not appoint so-called ‘state ministers’ but deputy ministers.
-
-General Secretary of the Janatha Vimukthi Peramuna, Tilvin Silva said after winning the general elections that the NPP they may appoint one or two less that the 25 cabinet ministers permitted by the constitution.
-
-Over time the NPP would look at reducing the ministries, he said.
-
-But ministries that require extensive work such as agriculture and land may get more than one deputy minister, he said.
-
-The National Peoples’ Power swept the general election and won more than two thirds of the seats in the parliament. (Colombo/Nov17/2024)
-
-◼️
-
-[Data](articles/5d64d511.json)
 
 ---
 
@@ -2473,5 +2185,373 @@ Meanwhile, two women have won the Matale district. Rohini Gavaratne, who has alr
 [Data](articles/d05012ab.json)
 
 [Extended Data](ext_articles/d05012ab.ext.json)
+
+---
+
+### Young people who tried to throw human waste in the Thandikulam pond in Vavuniya!
+
+*2024-11-17 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198964) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Youth catches man throwing human waste in Thandikulam pond, Vavuniya. Police arrest suspect after public intervention. Incident sparks community action against environmental pollution.
+
+🟩
+
+A man who tried to throw human waste in the Thandikulam pond in Vavuniya was caught by the youth and handed over to the police.
+
+The man went to the Thandikkulam pond with a waste package removed from the bodies in a bicycle.. Some of the youths who had been watching it continuously had folded him and informed the Kamakkara Organization of the area.
+
+Subsequently, the Communist Organization and the public informed the Vavuniya Police and the Health Division about the matter.
+
+Subsequently, the police went to the right place and arrested the man and tried to take them to the police station.
+
+The public and the youth who refused to do so would not leave the vehicle until the owner of the flower was arrived.. This caused confusion in the area.
+
+Subsequently, the Vavuniya Chief Police Officer who went to the area assured the public that the suspect was investigating the incident and presented the suspect in court.After that, the public went out of the area.
+
+...
+
+[Data](articles/a79f4ab8.json)
+
+[Extended Data](ext_articles/a79f4ab8.ext.json)
+
+---
+
+### The third group of IMF visited Sri Lanka
+
+*2024-11-17 11:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-மூன்றாவது-குழு-இலங்கை-விஜயம்/175-347327) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"IMF team led by Peter Broyer visits Sri Lanka Nov 17-23. Conducts 3rd review of Sri Lanka Economic Reform Program. Evaluates progress on economic stabilization and financial challenges. IMF provides financial assistance and policy guidance for Sri Lanka's economic recovery."
+
+🟩
+
+The International Monetary Fund (IMF) headed by Senior Ambassador to Sri Lanka Peter Broyer will visit Colombo from November 17 to 23.
+
+The IMF spokesman said that the group will conduct the third value of the Sri Lanka Economic Reform Program under the IMF's expanded financial facility.
+
+This review is an important step in evaluating the progress of reforms aimed at stabilizing Sri Lanka's economy and facing the financial challenges faced by the country.
+
+The International Monetary Fund Expanded Finance Provides Financial Assistance and Policy Guidelines to facilitate Sri Lanka's economic recovery efforts
+
+◼️
+
+[Data](articles/b55b6fec.json)
+
+[Extended Data](ext_articles/b55b6fec.ext.json)
+
+---
+
+### China's stand on new President Trump
+
+*2024-11-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203455) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Chinese President Mahinda Rajapaksa expressed willingness to work with incoming US President Donald Trump. However, relations deteriorated under Trump, with increased tariffs and COVID-19 tensions reaching crisis levels.
+
+🟩
+
+US President Joor President Joe Breaden, who is to retire in January, met with China President Mahinda Rajapaksa yesterday.
+
+Asia-Pacific Economic Cooperation Conference in the Peru.
+
+The Chinese President had said that he was ready to collaborate with the elected President Donald Trump.
+
+However, during Trump's first reality, China-American ties were severely widened, and Covod was a Chinese virus and reached the degree of collapse.
+
+Trump said that after his arrival in the platform, Trump said that after he arrived in power, the import was imposed 60 percent of China.
+
+◼️
+
+[Data](articles/c5f882fa.json)
+
+[Extended Data](ext_articles/c5f882fa.ext.json)
+
+---
+
+### One killed in an accident in Borella
+
+*2024-11-17 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203454) · `si`
+
+Accident in Borella: Motorcyclist killed, two in car injured. Incident occurred on Narahenpita-Kithulwatta Road.
+
+🟩
+
+බොරැල්ල කනත්ත අසල කිතුල්වත්ත මාර්ගයේ දී අද (17) සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+The accident occurred at Narahenpita to Kithulwatta Road.
+
+It is reported that the motorcyclist has died on the spot.
+
+It is reported that two in the car had arrived and the camera of the car had escaped the car.
+
+◼️
+
+[Data](articles/1f182df9.json)
+
+[Extended Data](ext_articles/1f182df9.ext.json)
+
+---
+
+### Special train services for commuters returning to Colombo
+
+*2024-11-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103558/special-train-services-for-commuters-returning-to-colombo) · `en`
+
+The Department of Railways has announced that special train services will be in operation today (17) and tomorrow (18), for the commuters returning to work after the 2024 General Election leave and the long weekend.
+
+The department said that special trains have been added to the service on these two days in addition to the regular scheduled train services.
+
+Accordingly, 7 special trains will be operated covering routes from Colombo Fort to Badulla, from Badulla to Colombo Fort, from Kandy to Colombo Fort and from Beliatta to Colombo Fort.
+
+The Department of Railways also stated that special train services will be operational from Colombo Fort to Hikkaduwa, Matara to Colombo Fort, and Galle to Colombo Fort during this period.
+
+◼️
+
+[Data](articles/3f9eb234.json)
+
+[Extended Data](ext_articles/3f9eb234.ext.json)
+
+---
+
+### One arrested with ice drugs in Peliyagoda
+
+*2024-11-17 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198966) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Peliyagoda: Police detained a suspect Saturday in Vanavasala area. 10g of 500mg Ice seized during arrest based on tip-off.
+
+🟩
+
+A suspect was arrested by police on Saturday (16) in Vanavasala area belonging to the Peliyagoda police division.
+
+He was arrested after a roundup of confidential information received by the Peliyagoda police station.
+
+10 grams of 500 milligrams of Ice was seized by the police.
+
+◼️
+
+[Data](articles/3f8f0af8.json)
+
+[Extended Data](ext_articles/3f8f0af8.ext.json)
+
+---
+
+### Cabinet Ministers sworn in tomorrow
+
+*2024-11-17 11:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-அமைச்சர்கள்-நாளை-பதவிப்பிரமாணம்/175-347326) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New Cabinet Ministers to be sworn in tomorrow at 10 AM. President Anura Kumara Dissanayake will preside over the ceremony at the Presidential Secretariat.
+
+🟩
+
+The Presidential Media Division (PMD) said that the new government's cabinet ministers will be sworn in tomorrow at 10 am in the presence of President Anura Kumara Dissanayake at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/f92dc079.json)
+
+[Extended Data](ext_articles/f92dc079.ext.json)
+
+---
+
+### Cabinet sworn in tomorrow
+
+*2024-11-17 11:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-හෙට-දිවුරුම්-දෙයි/11-413085) · `si`
+
+New cabinet sworn in tomorrow: 25 ministers, some posts may have 2 deputies. No state ministers this year. President Anura Kumara Dissanayake explains appointments based on ministry subjects.
+
+🟩
+
+The new cabinet is to be sworn in tomorrow. The swearing in was taken at the Presidential Secretariat tomorrow morning.. New government ministers will be limited to 25. Deputy Ministers are to be appointed to certain Ministries and state minister will not be given this year.
+
+President Anura Kumara Dissanayake said that according to the number of subjects belonging to the ministries, some ministries will have to appoint two deputy ministers.
+
+◼️
+
+[Data](articles/b87ca854.json)
+
+[Extended Data](ext_articles/b87ca854.ext.json)
+
+---
+
+### Shout attack in China - 17 killed
+
+*2024-11-17 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198965) · `ta`
+
+China: Knife attack kills 8, injures 17. Student frustrated over exam failure. Recent violence highlights societal issues.
+
+🟩
+
+Eight people were killed and 17 injured in a knife incident in eastern China.
+
+The video can be seen in a video, and the sounds of many people fall on the ground and people around them.
+
+A student who did not receive a certificate of graduates who failed the exam was involved in the knife, police said.
+
+The recent violence has been rocked by China, which is considered to be a low country.
+
+A man who was heartbroken by a divorce last Monday killed 35 people.
+
+◼️
+
+[Data](articles/cffa977e.json)
+
+[Extended Data](ext_articles/cffa977e.ext.json)
+
+---
+
+### 21 female representatives elected to parliament
+
+*2024-11-17 10:40:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-பெண்-பிரதிநிதிகள்-பாராளுமன்றத்திற்கு-தெரிவு/175-347325) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+21 women elected to parliament. Key winners: PM Harini Amarasuriya (Colombo), Attorney Kausalya Aryaratne, Samanamali Gunasinghe (both Colombo). Others: Nilanti Kothachi (Kalutara), Oshani Unga, Hemali Sujeeva, Stephani Fernando. Local wins: Sagarika Athuda (Kegalle) and Nalusha Lakmali.
+
+🟩
+
+In the ongoing parliamentary elections, 21 female representatives have been elected to parliament. Nine of them are representing the national power of the people.
+
+Among them, Prime Minister Harini Amarasuriya was elected from the Colombo district with 655,289 votes.
+
+Attorney Kausalya Aryaratne won with 80,814 votes and Samanamali Gunasinghe has received 59,657 votes in Colombo.
+
+Attorney Nilanti Kothachi received 131,375 votes from Kalutara district and Oshani Unga received 69,932 votes.
+
+Hemali Sujeeva received a seat with 66,737 votes and Stephani Fernando received 57,637 votes.
+
+In Kegalle, Sagarika Athuda received 59,019 votes and Nalusha Lakmali 48,791 votes.
+
+◼️
+
+[Data](articles/fba858c1.json)
+
+[Extended Data](ext_articles/fba858c1.ext.json)
+
+---
+
+### Prohibition for exclusive classes
+
+*2024-11-17 10:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரத்தியேக-வகுப்புகளுக்கும்-தடை/175-347324) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Exclusive classes for GCE Advanced Level Exam prohibited. Department of Examinations bans such classes effective midnight Tuesday."
+
+🟩
+
+The Department of Examinations said that all exclusive classes relating to the GCE Advanced Level Examination have been banned from midnight on Tuesday (19).
+
+◼️
+
+[Data](articles/739b7e5b.json)
+
+[Extended Data](ext_articles/739b7e5b.ext.json)
+
+---
+
+### Explanation of the Commission on National List MPs
+
+*2024-11-17 10:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்பட்டியல்-எம்-பிகள்-குறித்து-ஆணைக்குழுவின்-விளக்கம்/175-347323) · `ta`
+
+Elections Commission: Some parties haven't submitted National List MP nominees. Focus on sending names to Government Press. Gazette notification sent. Only losing candidates can fill National List seats.
+
+🟩
+
+The Elections Commission said that some parties have not yet sent the names of the people who have been nominated to the 10th Parliament from the National List.
+
+Accordingly, the Elections Commission has stated that some parties have been focused on sending the names given to the Government Press.
+
+Meanwhile, the names of the Gazette Notification of the Names of the Members of Parliament have been sent to the Government Press for the Government Press.
+
+Moreover, the Elections Commission said that the National List Parliamentary positions could not be appointed other than the candidates who lost the election.
+
+◼️
+
+[Data](articles/0f5c408c.json)
+
+[Extended Data](ext_articles/0f5c408c.ext.json)
+
+---
+
+### Sri Lanka’s new Cabinet to be sworn in tomorrow
+
+*2024-11-17 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103556/sri-lankas-new-cabinet-to-be-sworn-in-tomorrow) · `en`
+
+The Cabinet Ministers of the new government will be sworn in before President Anura Kumara Dissanayake at 10.00 a.m. tomorrow (Nov. 18) at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) said.
+
+The senior spokesman of the National People’s Power (NPP) Tilvin Silva had said earlier that the Cabinet will be limited to 25 or even less and that there will be scientific method in allocation of subjects for the ministries.
+
+However, the inaugural session of the Tenth Parliament, comprising of members elected through the 2024 General Election held on November 14, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President.
+
+The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-thirds majority, securing a record-breaking 159 seats in total.
+
+◼️
+
+[Data](articles/33d98c26.json)
+
+[Extended Data](ext_articles/33d98c26.ext.json)
+
+---
+
+### Sri Lanka central bank’s net reserves brought to almost zero by Sept 24
+
+*2024-11-17 10:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-banks-net-reserves-brought-to-almost-zero-by-sept-24-188229/) · `en`
+
+ECONOMYNEXT – Net foreign assets of Sri Lanka’s central bank have been brought to almost zero by September 2024, through consistent deflationary open market operations, after rates were hiked in April 2022.
+
+By September 2024, the net foreign assets of the central bank were negative by only 175 million dollars from a peak of negative 4.6 billion US dollars at the height of the last currency crisis in August 2024, which ended in external sovereign default.
+
+The central bank’s foreign reserves were a negative 4.0 billion dollars in March 2022 when the central bank hiked rates to contain domestic credit.
+
+But due to reserves loaned by India through the Asian Clearing Union mechanism, the central bank continued to sell borrowed reserves and re-finance domestic credit through inflationary open market or standing liquidity facilities to maintain its policy rate, extending the balance of payments deficits.
+
+...
+
+[Data](articles/72a3c215.json)
+
+[Extended Data](ext_articles/72a3c215.ext.json)
+
+---
+
+### New government cabinet is sworn in tomorrow
+
+*2024-11-17 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203453) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"New govt cabinet sworn in tomorrow. President Anura Kumara Dissanayake to take oath at 10:00 AM."
+
+🟩
+
+Accordingly, President Anura Kumara Dissanayake is to be sworn in before President Anura Kumara Dissanayake at 10.00 am tomorrow.
+
+◼️
+
+[Data](articles/7d15ca7b.json)
+
+[Extended Data](ext_articles/7d15ca7b.ext.json)
 
 ---

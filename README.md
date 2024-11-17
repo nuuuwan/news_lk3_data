@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 15:12:11**
+As of **2024-11-17 15:25:44**
 
 ## Newspaper Stats
 
-*Scraped **55,376** Articles*
+*Scraped **55,379** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,179
-adaderanalk | 6,685
+adalk | 5,181
+adaderanalk | 6,686
 tamilmirrorlk | 7,852
 virakesarilk | 8,980
 adaderanasinhalalk | 9,577
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,376 (100.0%) of 55,376 articles have been extended.
+55,376 (100.0%) of 55,379 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### MPs to enter Parliament through NPP’s national list
+
+*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/mps-to-enter-parliament-through-npps-national-list) · `en`
+
+The Election Commission has released the list of names nominated as Members of Parliament from the National People’s Power (NPP) through its national list.
+
+Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
+
+◼️
+
+[Data](articles/06920cdc.json)
+
+---
+
+### දිලිත් ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+
+*2024-11-17 15:16:42* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413087) · `si`
+
+සර්වජන බලය පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා එම පක්ෂයට හිමිවූ ජාතික ලැසිය්තු මන්ත්‍රීධුරයෙන් පාර්ලිමේන්තුවට පිවිසීමට නියමිතය.
+
+දිලිත් ජයවීර මහතා සර්ව ජන බලය පක්ෂය නියෝජනය කරමින් ගම්ප දිස්ත්‍රික්කයට තරග කළද එහිදි එම පක්ෂයට අසුනක් හිමි කර ගැනීමට නොහැකි විය.
+
+◼️
+
+[Data](articles/76adc4c0.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-11-17 14:18:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413086) · `si`
+
+සංචාරක නවසීලන්ත කණ්ඩායම සහ ශ්‍රී ලංකා කණ්ඩායම අතර දෙවැනි එක්දින ක්‍රිකට් තරගය අද (17දා) පැවැත්වේ.
+
+මෙම තරගයේ කාසියේ වාසිය දිනූ ශ්‍රී ලංකා නායක චරිත් අසලංක පළමුවෙන් පන්දු යැවීමට තීරණය කළේය.
+
+◼️
+
+[Data](articles/b3526b7e.json)
+
+---
 
 ### Dilith Jayaweera to enter Parliament through ‘Sarvajana Balaya’ national list
 
@@ -2403,59 +2445,5 @@ The South Asian Association for Regional Cooperation (SAARC) of which I was call
 [Data](articles/b3054785.json)
 
 [Extended Data](ext_articles/b3054785.ext.json)
-
----
-
-### Ceylinco Life gifts Elpitiya primary school its first new building since 1935
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/ceylinco-life-gifts-elpitiya-primary-school-its-first-new-building-since-1935/) · `en`
-
-A small primary school in the Galle District has received a new classroom, its first new building in 89 years, with the support of Ceylinco Life.Sri Lanka’s life insurance leader donated Rs 1.6 million towards the material costs to construct a classroom for the Bogaha Kanishta Vidyalaya in Elpitiya, a school that has not seen any building construction since 1935.
-
-Coincidentally, this was the 88th classroom building built by Ceylinco Life under a long-running corporate social responsibility initiative that has benefitted schools across Sri Lanka.
-
-The new building will be used by 40 students of Grade 3, who had previously had their classes outdoors or in the dilapidated school hall due to the non-availability of a building. The Bogaha Kanishta Vidyalaya has a student population of 195.
-
-Every classroom built by Ceylinco Life over the years continues to be monitored and maintained by the Company to ensure it serves many generations of students.
-
-...
-
-[Data](articles/12ca7af5.json)
-
-[Extended Data](ext_articles/12ca7af5.ext.json)
-
----
-
-### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/amana-takaful-launches-executive-edge-forum-to-mark-25-years-of-excellence/) · `en`
-
-Amana Takaful Insurance celebrated its 25th anniversary with the launch of its inaugural “Executive Edge” forum at Shangri-La Colombo. The event brought together leading figures from Sri Lanka’s financial services sector, including prominent executives from leasing companies, insurance brokers, and partner banks, as well as key clients of Amana Takaful Life.
-
-The forum served as a platform for insightful discussions on the future of finance and evolving consumer behavior in the industry. A vibrant panel discussion featured Gayathri Manatunga (Head of Assurance at EY Sri Lanka and Maldives), Thilan Wijesinghe (Chairman of TWCorp), and Dr. Naveen Gunawardane (Managing Director of Lynear Wealth Management), with moderation by Shamindra Kulamannage. The panel explored how the financial services industry can adapt to rapid changes in consumer behavior, technology, and regulations.
-
-...
-
-[Data](articles/a5dcb958.json)
-
-[Extended Data](ext_articles/a5dcb958.ext.json)
-
----
-
-### Inquiries about a Legacy and learning law for fun
-
-*2024-11-16 23:11:00* · [`islandlk`](http://island.lk/inquiries-about-a-legacy-and-learning-law-for-fun/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-It was also during this period that I received a rather curt letter from the Commissioner of Inland Revenue stating that his department had received information that I had come in for a legacy of a house and several acres of land. He directed that this be declared forthwith so that the department could assess the tax and any penalties to be paid. This was a bit too much. I was extremely busy and had no time for tomfoolery. I called the stenographer and dictated the following reply:-
-
-I was delighted to receive your letter dated …. I shall be most grateful if you could please provide me very early, all particulars regarding this legacy, with addresses, etc., so that I may be enabled to enter upon it without any delay. I am anxiously looking forward to this. Please rest assured that I would be prepared to gladly pay any tax you may levy on it and any penalties you may decide on.
-
-...
-
-[Data](articles/57b8ec83.json)
-
-[Extended Data](ext_articles/57b8ec83.ext.json)
 
 ---

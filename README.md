@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 01:25:10**
+As of **2024-11-18 00:00:58**
 
 ## Newspaper Stats
 
-*Scraped **55,466** Articles*
+*Scraped **55,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,297 +14,23 @@ colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
 economynextcom | 3,359
-dailyftlk | 3,791
+dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,196
 adaderanalk | 6,693
-tamilmirrorlk | 7,859
-virakesarilk | 9,009
-adaderanasinhalalk | 9,591
+tamilmirrorlk | 7,857
+virakesarilk | 9,008
+adaderanasinhalalk | 9,590
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,463 (100.0%) of 55,466 articles have been extended.
+55,451 (100.0%) of 55,452 articles have been extended.
 
 ## Latest 100 Articles 
 
-### 2024-11-18 (Monday)
-
-### இஸ்ரேல் பிரதமர் வீட்டின் மீது தாக்குதல்
-
-*2024-11-18 01:12:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இஸ்ரேல்-பிரதமர்-வீட்டின்-மீது-தாக்குதல்/50-347357) · `ta`
-
-இஸ்ரேல் பிரதமர் பெஞ்சமின் நெதன்யாகுவின் இல்லத்தை இலக்கு வைத்து குண்டுத் தாக்குதல் நடத்தப்பட்டுள்ளது.
-
-இஸ்ரேலின் வட பிராந்தியத்தின் சிசேரியா நகரில் அமைந்துள்ள பிரதமரின் இல்லத்தை இலக்கு வைத்து இந்த தாக்குதல் மேற்கொள்ளப்பட்டுள்ளது.
-
-எவ்வாறாயினும், தாக்குதல் நடத்தப்பட்ட சந்தர்ப்பத்தில் பிரதமர் நெதன்யாகு மற்றும் அவரது குடும்பத்தினர் இருக்கவில்லையென சர்வதேச ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
-
-◼️
-
-[Data](articles/9ede23d2.json)
-
----
-
-### Hela Apparel Holdings reports significantly improved results in Q2
-
-*2024-11-18 00:51:53* · [`dailyftlk`](https://www.ft.lk/business/Hela-Apparel-Holdings-reports-significantly-improved-results-in-Q2/34-769349) · `en`
-
-Hela Apparel Holdings PLC has announced a significant improvement in its financial performance during the quarter ended 30 September, with a return to operating profit for the first time in eight quarters.
-
-This positive result highlights the recovery of demand conditions in its key export markets and underscores the successful outcomes of its ongoing restructuring exercise, the company said in a statement.
-
-The Hela Group’s revenue surged by 36.5% year-on-year to Rs. 23.4 billion in the second quarter of FY 2024/25. This was primarily driven by the contribution of the recently established Brand Licensing Division, following the acquisition of UK-based Focus Brands in January 2024. Sales for the existing private label manufacturing division were also supported by the ongoing recovery in demand from its key brand partners across the US and Europe.
-
-...
-
-[Data](articles/5b3a974a.json)
-
-[Extended Data](ext_articles/5b3a974a.ext.json)
-
----
-
-### WindForce powers ahead with strong growth and strategic focus in Q2
-
-*2024-11-18 00:51:07* · [`dailyftlk`](https://www.ft.lk/business/WindForce-powers-ahead-with-strong-growth-and-strategic-focus-in-Q2/34-769348) · `en`
-
-WindForce PLC, said this week it delivered exceptional results for the second quarter of the 2024/25 fiscal year, driven by a strategic focus on large-scale projects.
-
-In a statement the Company said EBITDA surged by 49% to Rs. 4.22 billion compared to the previous year, reflecting robust cost management and a commitment to high-impact initiatives.
-
-As part of its strategic realignment away from rooftop solar, WindForce divested assets from its subsidiaries, Suryadhanavi and Hirujanani, recording a book profit of Rs. 467 million.
-
-...
-
-[Data](articles/f79ef53c.json)
-
-[Extended Data](ext_articles/f79ef53c.ext.json)
-
----
-
-### Abans Achievers Night 2024 honours outstanding staff members
-
-*2024-11-18 00:50:34* · [`dailyftlk`](https://www.ft.lk/business/Abans-Achievers-Night-2024-honours-outstanding-staff-members/34-769347) · `en`
-
-The annual event commemorating the unwavering dedication of outstanding staff members at Abans PLC took place on 8 November at Shangri-La with the participation of back-office and sales staff, top management personnel, and other dignitaries, including LG Electronics Managing Director Gerald Chun, and Sales Director Keith Chung.
-
-Around 750 participants contested for over 170 awards that sought to recognise the exceptional efforts of the workforce. The awards went out to those who managed to drive the company towards success within the past financial year, despite challenges that stood along the way.
-
-...
-
-[Data](articles/0dfcbc7d.json)
-
-[Extended Data](ext_articles/0dfcbc7d.ext.json)
-
----
-
-### About 150 new faces to Parliament
-
-*2024-11-18 00:29:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்திற்கு-சுமார்-150-புதிய-முகங்கள்/175-347356) · `ta`
-
-Sri Lanka's general election saw a significant shift. Out of 196 new MPs, nearly 150 are first-time representatives. The National People's Power secured 141 seats, marking a historic change in Parliament.
-
-🟩
-
-The general election in Sri Lanka has made a historic change. Out of the 196 selected 196 MPs, nearly 150 are new.
-
-The 146 MPs elected to Parliament this year are the first representatives in Parliament.
-
-In the general election held on November 14, the National People's Power (NPP) recorded 141 parliamentary seats.
-
-◼️
-
-[Data](articles/43822744.json)
-
-[Extended Data](ext_articles/43822744.ext.json)
-
----
-
-### Rice-price does not follow Law of Gravity
-
-*2024-11-18 00:29:05* · [`dailyftlk`](https://www.ft.lk/columns/Rice-price-does-not-follow-Law-of-Gravity/4-769342) · `en`
-
-The paddy and rice prices seem to be a political game but can be sorted out to a greater extent based on more coherent policies, planning and implementation mechanisms. Paddy and rice prices are socially sensitive issues that cause headaches for any government at different periods of the year. It is a pride of Sri Lankans to consume the rice produced locally. However, when the need arises, we will not hesitate to import rice to bridge the gap based on the requirement
-
-...
-
-[Data](articles/75acfa83.json)
-
-[Extended Data](ext_articles/75acfa83.ext.json)
-
----
-
-### What has democracy got to do with unproductive coconut land?
-
-*2024-11-18 00:25:45* · [`dailyftlk`](https://www.ft.lk/columns/What-has-democracy-got-to-do-with-unproductive-coconut-land/4-769341) · `en`
-
-It is unlikely that democracy will yield greater returns solely because of the moral fortitude of the agents entrusted with governing on our behalf
-
-It is broadly accepted that the Sri Lankan coconut industry, especially the smallholder segment, is highly unproductive. It has been reported that the average yield per hectare in Sri Lanka is less than half the yield in Andhra Pradesh where the climatic conditions are not dissimilar. This problem is not new.
-
-Thirty years ago, I was asked to evaluate several information projects including the coconut information system managed by the Coconut Research Institute. The information system was exemplary, but I concluded that it all seemed pointless because the end objectives of producing more coconuts and improving the livelihoods of the growers were not being achieved. During the entire period of study, yields were declining. I was not asked to conduct evaluations after that.
-
-...
-
-[Data](articles/54f45af4.json)
-
-[Extended Data](ext_articles/54f45af4.ext.json)
-
----
-
-### IMF must respect voice of Sri Lankan voters
-
-*2024-11-18 00:13:34* · [`dailyftlk`](https://www.ft.lk/columns/IMF-must-respect-voice-of-Sri-Lankan-voters/4-769340) · `en`
-
-The importance of achieving debt sustainability without compromising the welfare and long-term interests of Sri Lanka’s populace is clear
-
-Lender awareness that Sri Lanka’s debt exceeded Government revenue by a factor of 10 underscores a stark instance of predatory lending practices. This highlights a profound failure to adhere to established norms of responsible lending, which require creditors to assess a borrower’s capacity to repay before extending further credit. By continuing to extend loans under such unsustainable conditions, creditors blatantly disregarded these principles, exacerbating Sri Lanka’s financial vulnerability and contributing to its current debt crisis. This pattern of lending not only violated ethical standards but also undermined the spirit of shared accountability between lenders and sovereign borrowers
-
-...
-
-[Data](articles/ad8ad01b.json)
-
-[Extended Data](ext_articles/ad8ad01b.ext.json)
-
----
-
-### Economic challenges of new Government: Road ahead not smooth, but treacherous
-
-*2024-11-18 00:01:11* · [`dailyftlk`](https://www.ft.lk/columns/Economic-challenges-of-new-Government-Road-ahead-not-smooth-but-treacherous/4-769338) · `en`
-
-AKD’s biggest woe will be to comply with the quantitative targets set for him by the previous Parliament
-
-This is a historic occasion in Sri Lanka because in the past no Sri Lankan leader has been able to unite the country through the power of the ballot in this manner. Their attempt at doing so by the power of the bullet has miserably failed. But along with this electoral record which has elevated AKD and his supporters to the highest pedestal of the reign of power, there is an unshirkable responsibility cast on him as well
-
-...
-
-[Data](articles/c0970300.json)
-
----
-
 ### 2024-11-17 (Sunday)
-
-### Mandate of heaven on Poya Day
-
-*2024-11-17 23:57:58* · [`dailyftlk`](https://www.ft.lk/columns/Mandate-of-heaven-on-Poya-Day/4-769337) · `en`
-
-Unlike in the past, voters cannot afford to remain aloof as mere onlookers and critics of what the Government does – Pic by Shehan Gunasekara
-
-When the date for election was announced there were murmurs among a group of Buddhist monks that the date would fall on a Poya Day, that it would be a day for people to attend to their religious rituals and meditation and that therefore the polling date be postponed. But the Election Commissioner stuck to his guns and as proved by the results voters thronged in hundreds of thousands not to the temples but to the polling booths and delivered an unassailable mandate to their favourite party of choice, National People’s Power (NPP) under the leadership of their favourite son, Anura Kumara Dissanayake (AKD).
-
-It was indeed as the Chinese would say a mandate of heaven delivered on a Poya Day through the voting citizenry. To the Buddhists at least, NPP’s historic victory and the enormity of its size would appear a divinely blessed outcome.
-
-...
-
-[Data](articles/1ff11010.json)
-
-[Extended Data](ext_articles/1ff11010.ext.json)
-
----
-
-### Ballot unites Sri Lanka in 2024
-
-*2024-11-17 23:54:08* · [`dailyftlk`](https://www.ft.lk/columns/Ballot-unites-Sri-Lanka-in-2024/4-769336) · `en`
-
-This Government and this President have the best opportunity in decades to truly unify the country like none other – Pic by Shehan Gunasekara
-
-How with the overwhelming mandate from the people of the north and the east, the NPP has a unique opportunity to unite the country
-
-The Rajapaksa family was duly credited with uniting the country after winning a relentless war with the LTTE. In May 2009 the war was won and the country was declared united as one.
-
-But for years afterwards, racism continued to feature in political campaigns and while the peace was won, question marks persisted regarding the hearts and minds of the northerner. And doubts remained regarding their actual integration with their southern brethren.
-
-2024 may be seen as a watershed moment in Sri Lankan history as a Presidential election was fought where racism was not an issue. Language and religion did not play a role and none of the candidates had a divisive agenda.
-
-...
-
-[Data](articles/480c14e8.json)
-
-[Extended Data](ext_articles/480c14e8.ext.json)
-
----
-
-### Your chance to re-write history, Mr. President: Second letter to AKD
-
-*2024-11-17 23:51:01* · [`dailyftlk`](https://www.ft.lk/columns/Your-chance-to-re-write-history-Mr-President-Second-letter-to-AKD/4-769335) · `en`
-
-You have been blessed with an abundance of talent in your recently elected legislative chamber – a true microcosm of the nation. Every ethnicity, religion, educational, competency, discipline and age demographic is represented. For the first time in the history of Sri Lankan politics a humble estate worker has been afforded an opportunity to participate in political decisions. Even a 26-year-old has been accommodated in the chamber. You are already walking the talk much to the chagrin of your opponents
-
-...
-
-[Data](articles/e21f9be5.json)
-
----
-
-### Sri Lanka also conquered the series with New Zealand;The 6th consecutive series of Sri Lanka's earnings on home soil
-
-*2024-11-17 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199025) · `ta`
-
-Sri Lanka wins 6th consecutive home series against New Zealand. Key performances from Mahish Deekshana and Kusal Mendis. Sri Lanka sets target of 210/7, NZ reaches 209/all out. Mahish Deekshana takes 3/31, Jevri Vendasee 3/46.
-
-🟩
-
-Sri Lanka won the 2nd ODI match between Sri Lanka and New Zealand in Pallekele, Kandy on Sunday.
-
-With this victory, Sri Lanka won the three -match international ODI series, which made the 6th consecutive success on home soil.
-
-Also, for the first time after 10 years on home soil, Sri Lanka has made 5 series in a single year.
-
-In this victory, Mahish Deekshana's all -round match and Kusal Mendis played a key role.
-
-Sri Lanka won the toss and elected to win 210 runs, losing 7 wickets in 46 overs.
-
-Avishka Fernando (5), Betham Nissank (28) and Kamindu Mendis (0) lost by 23 runs.
-
-Kamindu Mendis, who was raised to the 4th line, faced only 3 balls, losing the game and disappointed with the fans.
-
-Subsequently, Sarid Asalanga (12) and Sadeera Samarawickrama (8) lost the game with fewer runs.
-
-Gusal Mendis and Janith Liyanage both tried to restore the team in the 6th wicket. But when the two shared 39 runs, Janith Liyanage lost 22 runs.
-
-...
-
-[Data](articles/da1a6f3a.json)
-
-[Extended Data](ext_articles/da1a6f3a.ext.json)
-
----
-
-### ODI wins ODI winner after 12 years
-
-*2024-11-17 23:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203476) · `si`
-
-Sri Lanka wins ODI vs NZ after 12 years. Kusal Mendis' half-century leads team to 2-0 series win. Match reduced to 47 overs due to interruptions.
-
-🟩
-
-Sri Lanka team won the second ODI match against the New Zealand team with a prevalent half century due to the precious half century.
-
-The three-match tournament is a 2-0 leading towards a 2-0 leads and Sri Lanka was able to confirm the winner.
-
-Sri Lanka won the 46th over the 46th over the match despite the loss of 210 runs for 47 overs.
-
-Kusal Mendis, a batsman of Sri Lanka's victory, arrived at the batsman and passed the wicket while passing the winning shopping.
-
-Mahish insights scored a great deal of precious to Kusal, and he also had a 47-year-old connection with the 8th wicket.
-
-Accordingly, the Sri Lankan team led by Charith, who was led by Charith won the ODI against New Zealand after 12 years.
-
-Sri Lanka wins the ODIs 'ODIs' last year with Mahela Jayawardene.
-
-The two ODIs were held between the two ODIs and the tournament was won by New Zealand.
-
-Sri Lanka invited New Zealand to bat first, winning the coin of the match at the Pallekele Stadium.
-
-...
-
-[Data](articles/986a9dd6.json)
-
-[Extended Data](ext_articles/986a9dd6.ext.json)
-
----
 
 ### Mahinda's dream came true - Namal
 
@@ -2022,8 +1748,6 @@ The National Peoples’ Power swept the general election and won more than two t
 
 [Data](articles/5d64d511.json)
 
-[Extended Data](ext_articles/5d64d511.ext.json)
-
 ---
 
 ### Celebration of the National People's Power
@@ -2489,5 +2213,337 @@ To carry this country towards the new change. In addition to thinking of improve
 [Data](articles/27fcc7da.json)
 
 [Extended Data](ext_articles/27fcc7da.ext.json)
+
+---
+
+### What is the message that the Tamil people have searched for 'change'?
+
+*2024-11-17 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198975) · `ta`
+
+Tamil people seek constitutional change after Sinhalese defeat, urging leadership to address ethnic crisis.
+
+🟩
+
+“The two -thirds majority and the defeat of the Sinhalese racists have given the government the opportunity to create a constitution that can include the aspirations of the Tamils.. It is important that the Tamil leadership act can be used to use this. The Anura government must "change" in its attitude towards the ethnic crisis.
+
+◼️
+
+[Data](articles/8619e9cd.json)
+
+[Extended Data](ext_articles/8619e9cd.ext.json)
+
+---
+
+### Submarine tactics
+
+*2024-11-17 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198973) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+India avoids using Sri Lanka as a military base. Consequently, Indian warships continue to visit the region without establishing a permanent presence. This approach maintains strategic flexibility while avoiding potential geopolitical complications.
+
+🟩
+
+India's main compassion is not to use Sri Lanka as a base. Thus, India's ship visits continue to take place.
+
+◼️
+
+[Data](articles/1e79ca38.json)
+
+[Extended Data](ext_articles/1e79ca38.ext.json)
+
+---
+
+### The moment to determine
+
+*2024-11-17 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198971) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamil nationalists seek a non-political framework to safeguard Tamil interests and promote Tamil political aspirations.
+
+🟩
+
+Tamils ​​need a non -political structure to protect Tamil national politics and protect Tamil national politics
+
+◼️
+
+[Data](articles/99edf022.json)
+
+[Extended Data](ext_articles/99edf022.ext.json)
+
+---
+
+### The mountainous political entry of the national people's power
+
+*2024-11-17 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198970) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+National People's Power wins 5 seats in Nuwara Eliya. Traditional hill parties lose constituency. Ceylon Workers Congress gets only 1 seat after 47 years.
+
+🟩
+
+The National People's Power in Nuwara Eliya District has won five members. One of these. For the first time, the traditional parties of the hill country have lost their constituency. It is also the first time the Ceylon Workers Congress won only one seat over the past 47 years.
+
+◼️
+
+[Data](articles/26c5a476.json)
+
+[Extended Data](ext_articles/26c5a476.ext.json)
+
+---
+
+### Why did Sumanthiran conflict?
+
+*2024-11-17 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198968) · `ta`
+
+Sumanthiran's conflict stems from Tamil national parties' reluctance to challenge Sinhalese chauvinist dominance despite electoral wins. This approach maintains political rights struggles but avoids confrontational tactics.
+
+🟩
+
+Although the Sinhalese chauvinist parties in the south win every time, the struggle for the political rights of the Tamil people is observed, the Tamil national parties do not try to break or defeat it.
+
+◼️
+
+[Data](articles/b92ba6a8.json)
+
+[Extended Data](ext_articles/b92ba6a8.ext.json)
+
+---
+
+### Motorcycle in Ahungalla - three wheeler accident;One killed
+
+*2024-11-17 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198985) · `ta`
+
+A motorcycle crash in Ahungalla resulted in one fatality and serious injuries. A motorcyclist died after colliding head-on with a three-wheeler on Urakasmanhandia Road. The incident occurred near Kaduvila Dam under the Ahungalla police division.
+
+🟩
+
+One person was killed when a motorcycle collided with a three -wheeler in the Kaduvila Dam area on Urakasmanhandia road under the Ahungalla police division.
+
+Police said that a motorcycle traveling from Ahungallai to Urakasmanhandi crashed into a face -to -face with a three -wheeler.
+
+The motorcycle was killed in the accident and was admitted to the hospital after he was seriously injured.
+
+◼️
+
+[Data](articles/b3896a45.json)
+
+[Extended Data](ext_articles/b3896a45.ext.json)
+
+---
+
+### Banning for transporters
+
+*2024-11-17 12:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கண்காணிப்பாளர்களுக்கு-அலைபேசி-எடுத்துச்-செல்ல-தடை/175-347331) · `ta`
+
+Cell phone ban for exam staff: Surveillance teachers, including Assistant Chancellor, prohibited from carrying phones. Only Station Officer and Additional Superintendent allowed. Decision made to prevent past issues. Officials from Provincial and Regional Offices deployed for monitoring.
+
+🟩
+
+This time, at the Examination Centers where the Educational Public Advancement Examinations are held, the surveillance teachers, including the Assistant Chancellor, have been imposed on cell phones.
+
+Only the Station Officer of the Examination Center and the Additional Superintendent will be allowed to carry the cell phones.
+
+The Department of Examinations said that the decision has been taken due to problems in the past.
+
+Accordingly, officials of the Provincial and Regional Offices will also be deployed for surveillance to the Department of Examinations.
+
+◼️
+
+[Data](articles/5aa95ad1.json)
+
+[Extended Data](ext_articles/5aa95ad1.ext.json)
+
+---
+
+### Restriction
+
+*2024-11-17 12:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலைபேசி-எடுத்துச்-செல்ல-தடை/175-347331) · `ta`
+
+Cell phone restrictions at exam centers: Surveillance teachers, including Assistant Chancellor, banned; only Station Officer and Additional Superintendent allowed to carry phones. Decision made due to past issues. Officials from Provincial and Regional Offices to assist in surveillance.
+
+🟩
+
+This time, at the Examination Centers where the Educational Public Advancement Examinations are held, the surveillance teachers, including the Assistant Chancellor, have been imposed on cell phones.
+
+Only the Station Officer of the Examination Center and the Additional Superintendent will be allowed to carry the cell phones.
+
+The Department of Examinations said that the decision has been taken due to problems in the past.
+
+Accordingly, officials of the Provincial and Regional Offices will also be deployed for surveillance to the Department of Examinations.
+
+◼️
+
+[Data](articles/c37f10b7.json)
+
+[Extended Data](ext_articles/c37f10b7.ext.json)
+
+---
+
+### Ready to cooperate with Trump - Chinese President
+
+*2024-11-17 12:17:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்புடன்-ஒத்துழைக்கத்-தயார்-சீன-ஜனாதிபதி/50-347330) · `ta`
+
+Chinese President Xi Jinping expressed readiness to cooperate with Donald Trump during a meeting at the Asian-Pacific Economic Cooperation Summit in Peru. Relations between China and the US had deteriorated significantly during Trump's first term, particularly after he referred to COVID-19 as the "Chinese virus."
+
+🟩
+
+A meeting between US President Joe Faidan and Chinese President Shi Jinping will take place yesterday (16).
+
+The meeting took place during the Asian-Pacific Economic Cooperation Summit in Peru.
+
+The Chinese Chancellor said he was ready to cooperate with Donald Trump, the US president.
+
+However, during Trump's first tenure, Chinese-American relations were severely affected, and after Trump called Kovit a Chinese virus, the relations reached the fall.
+
+◼️
+
+[Data](articles/c82305a2.json)
+
+[Extended Data](ext_articles/c82305a2.ext.json)
+
+---
+
+### Nine newcomers besides Rauf Hakeem, Anuradha and Lalkanta in Kandy
+
+*2024-11-17 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/198959) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Newcomers dominate Kandy district election results. Rauf Hakeem and Anuradha Jayaratne fail to retain seats. Nine newcomers elected alongside returning MP Lalgantha. Former ministers absent from race.
+
+🟩
+
+Rauf Hakeem and Anuradha Jayaratne, who represented the Kandy district in the last parliament, failed and nine of the nine people were new faces.
+
+Sri Lanka Muslim Congress leader Rauf Hakeem, who contested on behalf of the United People's Power in the ongoing general election, was not elected by 10 members other than Anuradha Jayaratne, the son of former Prime Minister DM Jayaratne, who contested the cylinder symbol.
+
+Former minister Keheliya Rambukwella, former diplomatic minister Lohan Ratwatta and former minister Lakshman Kiriella did not contest.
+
+Former ministers MHA Halim, Mahindananda Aluthgamage, State Minister Thilm Amunugama, Velukumar, Professor Ranjith Bandara, Yapa Bandara Kirindikoda etc.
+
+Rauf Hakeem, who was elected on behalf of the United People's Power and the new Democratic Front member (cylinder symbol), Anuradha Jayaratne represented the last parliament.
+
+...
+
+[Data](articles/f35de11f.json)
+
+[Extended Data](ext_articles/f35de11f.ext.json)
+
+---
+
+### Lorry accident;One killed
+
+*2024-11-17 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198974) · `ta`
+
+Accident: Lorry crashes into parody, killing 1. Navy soldier, 40, dies. Driver arrested.
+
+🟩
+
+One person was killed when a small lorry crashed into a parody near the Lanka junction on the Trincomalee -Batticaloa main road under the Eichilampattu police division.
+
+The deceased was a 40 -year -old navy soldier who lived in Halwala, Matugama.
+
+Police said the small lorry from Batticaloa to Trincomalee was crashed into the back and driver of the driver when the driver was suspended due to a paravolar machine -owned machine -owned paramedic from Panama.
+
+The body has been placed in the funeral room of the Eichilampattu Hospital and the driver of the lorry has been arrested.
+
+◼️
+
+[Data](articles/ef42b335.json)
+
+[Extended Data](ext_articles/ef42b335.ext.json)
+
+---
+
+### Mahindananda missed parliamentary seat by 348 votes:
+
+*2024-11-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198967) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahindananda Aluthgamage loses parliamentary seat by 348 votes. Retiring from politics after decades in Nawalapitiya constituency. Former Minister of Agriculture faces criticism and low voter support.
+
+🟩
+
+Former minister Mahindananda Aluthgamage has announced that he will retire from politics after missing the parliamentary seat by 348 votes.
+
+According to the results of the Kandy district election, Mahindananda, who contested the cylinder symbol, got 348 votes more than the Anuradhara Jayaratne.
+
+He made this statement while addressing his party supporters on Saturday (16) in Nawalapitiya.
+
+He has been elected to the Central Provincial Council and Parliament several times from the Nawalapitiya constituency and has been elected as the Minister of Provincial Council and the Minister of State for various ministries of the central government.. He has announced that the Aluthgamage family has long been politics in the Nawalapitiya area and that he is retiring from politics as the public has now rejected him.
+
+Mahindananda Aluthgamage, a massively spoken and criticized by the Minister of Agriculture in the previous regime, was also a man who was a heavily burned toy.
+
+...
+
+[Data](articles/0dcc46a8.json)
+
+[Extended Data](ext_articles/0dcc46a8.ext.json)
+
+---
+
+### Anura and political prisoners
+
+*2024-11-17 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198972) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Anura acknowledges political prisoners but refuses to use his influence to free them. His stance remains unchanged despite public pressure.
+
+🟩
+
+While Anuragumara Dissanayake has accepted the presence of political prisoners - he is not ready to use his political power to release them.
+
+◼️
+
+[Data](articles/bd730b14.json)
+
+[Extended Data](ext_articles/bd730b14.ext.json)
+
+---
+
+### The Tamil people have ordered the reconciliation;The government has the strength to create a new constitution;Is there a political commitment;Wait and see - Akhilan Kadirgamar
+
+*2024-11-17 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/198969) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Tamil people demand reconciliation; Government must create new constitution; Political commitment uncertain; President addresses Tamil plight; Land issues unresolved since war; National party success first time in Sri Lanka; LTTE influence wanes; New political methods needed; Two-thirds political system change possible but commitment unknown.
+
+🟩
+
+Senior Lecturer of the University of Jaffna, Akhilan Kadirgamar, has said that the President should try to address the plight of the Tamil people, including a political solution, said that the people of the Northern people have issued a clear decree to address the long -standing distress of the Tamil people for reconciliation.
+
+Commenting on India's wire, they have the strength to bring about the new constitution mentioned by this. But he has to see if they have the political commitment.
+
+This is a historic success because a national party has been a major success in Sri Lanka for the first time.
+
+Therefore, it is certainly a clear order for the long -standing distress of the Tamil people for reconciliation, and the people have greatly expressed confidence in the power of the national people.
+
+When the President visits Jaffna, he said he would resolve the land, especially the land.. Lands seized by the military are the Archaeological Forest Department in recent times.
+
+...
+
+[Data](articles/10604b03.json)
+
+[Extended Data](ext_articles/10604b03.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 08:33:16**
+As of **2024-11-17 08:07:52**
 
 ## Newspaper Stats
 
-*Scraped **55,297** Articles*
+*Scraped **55,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
-islandlk | 3,312
+islandlk | 3,298
 economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,278 (100.0%) of 55,297 articles have been extended.
+55,278 (100.0%) of 55,283 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -162,78 +162,6 @@ A landslide hazard has been extended to the districts of Matale, Kegalle, Kurune
 
 ---
 
-### Amana Bank’s nine month PAT tops Rs. one bn.
-
-*2024-11-17 02:09:00* · [`islandlk`](http://island.lk/amana-banks-nine-month-pat-tops-rs-one-bn/) · `en`
-
-Advances surpass LKR 100 billion milestone, with a growth of 16%
-
-Amãna Bank continued its strong financial performance as it closed the nine months ending September 30, 2024 with a Profit Before Tax of LKR 1.98 billion, reflecting a 18% YoY increase compared to LKR 1.68 billion recorded for the corresponding period of 2023. Showcasing a 26% YoY growth, Profit After Tax grew from LKR 891 million to cross the LKR 1 billion mark and close at LKR 1.12 billion, a news release from the bank said.
-
-With financing rates declining across the banking industry in a bid to spur economic growth, the Bank’s financing income closed at LKR 11.70 billion. However, by maintaining a strong financing margin of 4.1%, the Bank posted a Net Financing Income growth of 6% YoY to reach LKR 5.13 billion compared with LKR 4.85 billion posted in the corresponding period in 2023.
-
-...
-
-[Data](articles/3b233f70.json)
-
----
-
-### Infinite Group becomes market entry partner for East London University in Lanka
-
-*2024-11-17 02:08:00* · [`islandlk`](http://island.lk/infinite-group-becomes-market-entry-partner-for-east-london-university-in-lanka/) · `en`
-
-Infinite Group announces its partnership with the University of East London (UEL), becoming the official representative in Sri Lanka to manage agent partnerships and entry registrations. This collaboration will provide Sri Lankan agents to work closely with UEL’s academic programmes and streamlined application services, enhancing opportunities for higher education abroad.
-
-Speaking about the partnership Pavel Bawa, Deputy Head of International Recruitment, South Asia from the UEL said, “Our partnership with the Infinite Group comes at a time when the demand for overseas education is growing rapidly in Sri Lanka. The UK remains one of the top destinations for Sri Lankan students due to its high academic standards, cultural diversity, and excellent career prospects. With Infinite Group facilitating the entire process, students will now find it easier to apply to UEL and embark on their academic journeys.”
-
-...
-
-[Data](articles/58eb4fb6.json)
-
----
-
-### Sampath Bank achieves strong growth for 9 months ending Sept 2024
-
-*2024-11-17 02:07:00* · [`islandlk`](http://island.lk/sampath-bank-achieves-strong-growth-for-9-months-ending-sept-2024/) · `en`
-
-Sampath Bank has posted impressive financial results for the nine months ending September 30, 2024, with a profit before tax (PBT) of Rs 29.9 billion and a profit after tax (PAT) of Rs 17.8 billion. These results represent a year-on-year growth of 36% in PBT and 44% in PAT, despite an exchange loss of Rs 3.6 billion due to the appreciation of the Sri Lankan Rupee (LKR). The Sampath Group, which includes the bank and its subsidiaries, reported a PBT of Rs 31.9 billion and PAT of Rs 19.1 billion, reflecting growth rates of 40% and 50%, respectively.
-
-Key financial metrics highlighted strong performance across several areas. Net Interest Income grew by 14.1% to Rs 61 billion, supported by reduced interest expenses despite a 9.6% drop in total interest income. The bank’s loan book expanded by Rs 38 billion, while deposits grew by Rs 140 billion, reinforcing solid growth in both assets and liabilities.
-
-...
-
-[Data](articles/817359cd.json)
-
----
-
-### Hayleys records 78% growth in PBT to Rs.12.73 bn in first half
-
-*2024-11-17 02:06:00* · [`islandlk`](http://island.lk/hayleys-records-78-growth-in-pbt-to-rs-12-73-bn-in-first-half/) · `en`
-
-The Hayleys Group delivered remarkable growth and profitability during the first half of the financial year ending 31st March 2025, as it leveraged its leading market positions across diverse business verticals to deliver a Profit Before Tax of Rs.12.73 bn, an increase of 78% over the corresponding period of the previous year, a company news release said.
-
-Meanwhile, the Group recorded a 44% increase in Profit Before Tax to Rs.7 bn during the second quarter of the financial year. The robust performance for the period reflects commendable top line growth, ongoing focus on operating efficiencies and effective management of finance costs, enabling continued value creation to shareholders with the annualized Earnings per Share increasing to Rs.4.23 compared to Rs.0.09 the previous year, the release added.
-
-...
-
-[Data](articles/ba1c1e35.json)
-
----
-
-### Walter Stace in British Ceylon, 1910-1932
-
-*2024-11-17 01:25:00* · [`islandlk`](http://island.lk/walter-stace-in-british-ceylon-1910-1932/) · `en`
-
-Walter T. Stace was a British citizen born in 1886 and educated in private schools in Wales and Scotland before completing his undergraduate degree at Trinity College, Dublin. He was therefore of middle-upper class background. His philosophical leanings did not deter him from signing up for the Colonial Service. He was sent to Ceylon – reaching the island with his wife … and being posted to the town of Galle in 1910.
-
-He wrote his autobiography at some point and the Sri Lankan chapters have been printed as a book entitled FOOTPRINTS ON WATER under the editorial direction of Bernd Pflug by the Sailfish firm in Colombo marketed by the Perera Hussein Publishing House in a 218-page booklet bearing the ISBN 978-624-5993-02=4
-
-...
-
-[Data](articles/91768d23.json)
-
----
-
 ### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
 
 *2024-11-17 01:06:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-experts-expertise-expatriates/) · `en`
@@ -337,80 +265,6 @@ The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batti
 [Data](articles/9e4eef34.json)
 
 [Extended Data](ext_articles/9e4eef34.ext.json)
-
----
-
-### The Downplaying of Our National Languages: the Advantages of English
-
-*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/the-downplaying-of-our-national-languages-the-advantages-of-english/) · `en`
-
-(Excerpted from Falling Leaves, an anthology of autobiographical stories by LC Arulpragasam)
-
-I recognized the advantages that we had inherited from the British through our knowledge of the English language. But I also began to realize that we had so exalted our knowledge of English that it had been at the expense of the neglect of our national languages. For example in India, although the members of its upper/middle classes spoke impeccable English, they conversed at home in Hindi or in their regional languages, whereas in Ceylon the middle class usually spoke English at home, with the local languages being reserved only for the servants.
-
-...
-
-[Data](articles/1d2fea47.json)
-
----
-
-### Birth and Progress of SAARC
-
-*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/birth-and-progress-of-saarc/) · `en`
-
-The South Asian Association for Regional Cooperation (SAARC) of which I was called one of the founding fathers, consists of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. I attended the first meeting in Bangladesh and later meetings in India, Nepal and Pakistan between 1985 and 1988.
-
-...
-
-[Data](articles/b3054785.json)
-
----
-
-### Ceylinco Life gifts Elpitiya primary school its first new building since 1935
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/ceylinco-life-gifts-elpitiya-primary-school-its-first-new-building-since-1935/) · `en`
-
-A small primary school in the Galle District has received a new classroom, its first new building in 89 years, with the support of Ceylinco Life.Sri Lanka’s life insurance leader donated Rs 1.6 million towards the material costs to construct a classroom for the Bogaha Kanishta Vidyalaya in Elpitiya, a school that has not seen any building construction since 1935.
-
-Coincidentally, this was the 88th classroom building built by Ceylinco Life under a long-running corporate social responsibility initiative that has benefitted schools across Sri Lanka.
-
-The new building will be used by 40 students of Grade 3, who had previously had their classes outdoors or in the dilapidated school hall due to the non-availability of a building. The Bogaha Kanishta Vidyalaya has a student population of 195.
-
-Every classroom built by Ceylinco Life over the years continues to be monitored and maintained by the Company to ensure it serves many generations of students.
-
-...
-
-[Data](articles/12ca7af5.json)
-
----
-
-### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/amana-takaful-launches-executive-edge-forum-to-mark-25-years-of-excellence/) · `en`
-
-Amana Takaful Insurance celebrated its 25th anniversary with the launch of its inaugural “Executive Edge” forum at Shangri-La Colombo. The event brought together leading figures from Sri Lanka’s financial services sector, including prominent executives from leasing companies, insurance brokers, and partner banks, as well as key clients of Amana Takaful Life.
-
-The forum served as a platform for insightful discussions on the future of finance and evolving consumer behavior in the industry. A vibrant panel discussion featured Gayathri Manatunga (Head of Assurance at EY Sri Lanka and Maldives), Thilan Wijesinghe (Chairman of TWCorp), and Dr. Naveen Gunawardane (Managing Director of Lynear Wealth Management), with moderation by Shamindra Kulamannage. The panel explored how the financial services industry can adapt to rapid changes in consumer behavior, technology, and regulations.
-
-...
-
-[Data](articles/a5dcb958.json)
-
----
-
-### Inquiries about a Legacy and learning law for fun
-
-*2024-11-16 23:11:00* · [`islandlk`](http://island.lk/inquiries-about-a-legacy-and-learning-law-for-fun/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-It was also during this period that I received a rather curt letter from the Commissioner of Inland Revenue stating that his department had received information that I had come in for a legacy of a house and several acres of land. He directed that this be declared forthwith so that the department could assess the tax and any penalties to be paid. This was a bit too much. I was extremely busy and had no time for tomfoolery. I called the stenographer and dictated the following reply:-
-
-I was delighted to receive your letter dated …. I shall be most grateful if you could please provide me very early, all particulars regarding this legacy, with addresses, etc., so that I may be enabled to enter upon it without any delay. I am anxiously looking forward to this. Please rest assured that I would be prepared to gladly pay any tax you may levy on it and any penalties you may decide on.
-
-...
-
-[Data](articles/57b8ec83.json)
 
 ---
 
@@ -524,18 +378,6 @@ Ven. Seelarathana Thero also criticized the National People’s Power (NPP) part
 
 ---
 
-### After the funeral: A post-mortem on the US election
-
-*2024-11-16 21:02:00* · [`islandlk`](http://island.lk/after-the-funeral-a-post-mortem-on-the-us-election/) · `en`
-
-Last week’s presidential election was doubtless one of the most consequential in US history. Though the outcome was not predictable – most polls showed a tight race between Kamala Harris and Donald Trump – with the benefit of hindsight one can say that the Democrats should have seen it coming. Over the next few days and weeks, there will be a slew of analyses and diagnoses claiming to pinpoint the reasons for their defeat. Yet as Sri Lankan political analyst Rajni Gamage rightly put it in a recent tweet, such diagnoses are themselves problematic, and point to the biases of those making them.
-
-...
-
-[Data](articles/2aedc11a.json)
-
----
-
 ### This is how the national list seat is divided into each party
 
 *2024-11-16 20:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203439) · `si`
@@ -569,30 +411,6 @@ A spokesman for the party's national executive committee meeting will meet tomor
 [Data](articles/377f50d2.json)
 
 [Extended Data](ext_articles/377f50d2.ext.json)
-
----
-
-### National tree and flower – better choices ignored
-
-*2024-11-16 20:56:00* · [`islandlk`](http://island.lk/national-tree-and-flower-better-choices-ignored/) · `en`
-
-The Na tree (Mesua Nagassarium) and the Nil Manel flower (Nypheae stellata) have recently (this article was written in 1986) been elevated to unique positions as Sri Lanka’s National Tree and National Flower; the selection being made after contestants nominated their choice by writing an essay of less than 300 words. Even in run of the mill contests like the selection of beauties, sportsmen of the year and what have you the general public plays a more significant part once the parameters and the basis for selection, panel of judges etc., are made known. In this context, the results of which are of great national importance, the degree of public participation and the criteria on which the selection was made is not known. Further, there appears to be considerable disappointment in the choice and it therefore deserves more careful consideration.
-
-...
-
-[Data](articles/fdac6788.json)
-
----
-
-### Maashooga (meaning beloved), my housekeeper in Sindh, Pakistan
-
-*2024-11-16 20:55:00* · [`islandlk`](http://island.lk/maashooga-meaning-beloved-my-housekeeper-in-sindh-pakistan/) · `en`
-
-A young man was waiting at the wide-open gate of the university guest bungalow. The driver drove the van through the gate to the back foyer. The young man recognised Parvez, who was with me and smiled. When Parvez introduced me to him, he shook my hand and pronounced my name correctly. Parvez introduced him as Maashooga and smiled. He said Maashooga means ‘darling’ or ‘beloved.’ He was a charming young man, about six feet two inches tall, with a light moustache and penetrating eyes. His long hair partially covered his face, which had a few pimples. I thought he was in his early twenties. He wore a salwar kameez and a colourful Sindhi cap decorated with beads and threads. He looked like a polio victim as his right leg was about two inches shorter than his left leg.
-
-...
-
-[Data](articles/abec99bb.json)
 
 ---
 
@@ -2361,5 +2179,315 @@ Melapalayam police seized CCTV scene records fitted in the area
 [Data](articles/aa5377cb.json)
 
 [Extended Data](ext_articles/aa5377cb.ext.json)
+
+---
+
+### Murder of Saliyawewa
+
+*2024-11-16 09:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203418) · `si`
+
+Here's a summary of the Murder of Saliyawewa in 200 characters:
+
+
+
+Two suspects, ages 23 & 24, arrested for murder in Saliyawewa. Incident occurred during a party. Police investigation revealed they used poles to kill the victim after breaking into the house.
+
+🟩
+
+A case of force in a house and broke the door in the room and killed a person in Saliyawewa.
+
+The incident was found in the Saliyawewa police division yesterday (15).
+
+The suspects have been killed and killed by the relevant person with poles.
+
+පෙරේදා (14) රාත්‍රියේ පැවති මත්පැන් සාදයකදී ඇතිවූ බහින්බස්වීමක් දුරදිග යෑමෙන් එම සාදයේ සිටි දෙදෙනෙකු පැමිණ මෙම ඝාතනය සිදුකර ඇති බවට මූලික විමර්ශනවලදී අනාවරණය වී ඇත.
+
+The two suspects have been arrested in the Saliyawewa area in the Senathwewa, aged 23 and 24 years old.
+
+◼️
+
+[Data](articles/a50551ac.json)
+
+[Extended Data](ext_articles/a50551ac.ext.json)
+
+---
+
+### Over 667,000 votes rejected in 2024 General Election
+
+*2024-11-16 09:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103532/over-667000-votes-rejected-in-2024-general-election-) · `en`
+
+The Election Commission has confirmed that a total of 667,240 votes were rejected during the 2024 general election.
+
+According to Commissioner General of Elections, Saman Sri Ratnayake, the election recorded the following figures:
+
+Meanwhile, the Executive Director of the People’s Action for Free and Fair Elections (PAFFREL), Rohana Hettiarachchi, described this election as the most peaceful in the country’s history.
+
+◼️
+
+[Data](articles/053e4bae.json)
+
+[Extended Data](ext_articles/053e4bae.ext.json)
+
+---
+
+### Indian High Commission welcomes NPP’s win in Sri Lanka, reaffirms commitment to bilateral ties
+
+*2024-11-16 08:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103531/indian-high-commission-welcomes-npps-win-in-sri-lanka-reaffirms-commitment-to-bilateral-ties) · `en`
+
+India extended wishes to Sri Lanka’s National People’s Power (NPP) party after their victory in the country’s parliamentary elections.
+
+The High Commission of India in Colombo congratulated President and NPP leader Anura Kumara Dissanayake on the party’s win, reaffirming India’s commitment to strengthening bilateral ties between the two nations.
+
+Sharing a post on X, the High Commission of India in Colombo wrote, “HC Santosh Jha called on the President & Leader of NPP Anura Kumara Dissanayake to congratulate on NPP’s victory in Sri Lanka #ParliamentaryElections2024.”
+
+“As a fellow democracy, India welcomes the mandate & remains committed to further strengthening bilateral ties for the benefit of our people,” the post added.
+
+Sri Lankan President Dissanayake’s leftist coalition registered a landslide victory in Sri Lanka’s snap parliamentary elections, according to official results announced by the country’s election commission.
+
+...
+
+[Data](articles/d2d7e0ea.json)
+
+[Extended Data](ext_articles/d2d7e0ea.ext.json)
+
+---
+
+### What will happen in Parliament on the 21st?
+
+*2024-11-16 08:44:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21ஆம்-திகதி-பாராளுமன்றத்தில்-என்ன-நடக்கும்/175-347283) · `ta`
+
+Parliament 21st: General Secretary assumes duties. Unorganized seating. New Speaker election. Deputy Speaker via referendum.
+
+🟩
+
+On that day, it has been announced that the main responsibilities of Parliament will be given to the General Secretary of Parliament.
+
+During the first session, the members did not arrange the seat. Accordingly, MPs can sit in any seat.
+
+Start the work of the assembly after putting the scepter. The new Speaker will be elected first.
+
+It is the legacy of the Speaker of the House. Thereafter, the MPs are to take office.
+
+It is also reported that Deputy Speaker and other dignitaries will be elected by a parliamentary referendum. Remble
+
+◼️
+
+[Data](articles/9d41e8e4.json)
+
+[Extended Data](ext_articles/9d41e8e4.ext.json)
+
+---
+
+### Rejection of about 6 lakh votes
+
+*2024-11-16 08:34:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுமார்-6-இலட்சம்-வாக்குகள்-நிராகரிப்பு/175-347282) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Rejection of 667,240 votes in Sri Lanka's general election. Commissioner Saman Sri Ratnayake noted this high rejection rate. Despite this, PAFRAL's Rohana Hettiarachchi called it the most peaceful election in history.
+
+🟩
+
+Commissioner General of the Elections Commission Saman Sri Ratnayake pointed out that 667,240 votes were rejected of the votes cast in this year's general election.
+
+Meanwhile, the Executive Director of the PAFRAL Organization Rohana Hettiarachchi said that this election could be said to be the most peaceful election in history.. Remble
+
+◼️
+
+[Data](articles/e742892c.json)
+
+[Extended Data](ext_articles/e742892c.ext.json)
+
+---
+
+### President AKD thanks voters for landmark election victory
+
+*2024-11-16 08:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103530/president-akd-thanks-voters-for-landmark-election-victory) · `en`
+
+President Anura Kumara Dissanayake has expressed gratitude to voters for delivering a historic victory in the general election.
+
+The President conveyed his thanks through a note posted on his ‘X’ account, stating, “Thank you to all who voted for a renaissance!”
+
+In the 2024 general election held on November 14, the National People’s Power (NPP) secured a landmark victory, winning 159 seats in the parliament.
+
+◼️
+
+[Data](articles/c52fdb5b.json)
+
+[Extended Data](ext_articles/c52fdb5b.ext.json)
+
+---
+
+### Thunderstorm
+
+*2024-11-16 08:29:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-பெய்யும்/175-347281) · `ta`
+
+Thunderstorms forecasted nationwide today, especially after 2 PM. Heavy rains predicted in central and southern regions. Lightning warnings issued for affected areas.
+
+🟩
+
+Thundershowers will occur in many parts of the country this evening, the Department of Meteorology said.
+
+Rainfall or thunderstorms are expected after 2.00 pm in most parts of the country.
+
+Rainfall is expected in a few places in the Northern and Eastern Provinces and Hambantota district.
+
+Heavy rains are expected in some parts of the upper, Sabaragamuwa, Central and Southern Provinces.
+
+In the morning, in some places in the Western, Sabaragamuwa, Central and Uva Provinces, Galle and Matara districts.
+
+Thunderstorms can be temporarily blowing with thunderstorms, and they have been asked to protect themselves from the impacts of lightning strikes. Remble
+
+◼️
+
+[Data](articles/cdd9f7b4.json)
+
+[Extended Data](ext_articles/cdd9f7b4.ext.json)
+
+---
+
+### Police announce post-election measures
+
+*2024-11-16 08:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/103529/police-announce-post-election-measures) · `en`
+
+The police have announced that the post-election period will remain in effect for one week following the declaration of the general election results.
+
+Providing clarification on the matter, Police Spokesman DIG Nihal Thalduwa stated that the police have been placed on high alert across the country during this period.
+
+“The post-election period has now begun. No meetings, rallies, or similar gatherings are permitted in public places for a week. As such, the police are on full alert and will continue to ensure security through mobile patrols across the island. Intelligence officers are also on duty, and special security arrangements have been made for identified police divisions,” he said.
+
+The Police Media Spokesman further noted that a total of 581 individuals were arrested for violating election laws during the pre-election period.
+
+“No acts of violence were reported from any area. Of the 581 arrested, 18 are candidates, while the rest are their supporters,” he added.
+
+◼️
+
+[Data](articles/3ca430b2.json)
+
+[Extended Data](ext_articles/3ca430b2.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-16 08:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103528/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department requests the general public to take adequate precautions to minimize damages caused by lightning during thundershowers as the atmospheric conditions are favorable further for afternoon thundershowers in most parts of the island.
+
+Showers or thundershowers will occur in the most parts of the island after 2.00 p.m. Showers may occur at few places in the Northern and Eastern provinces and in Hambantota district during the morning too.
+
+Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa, Central and Southern provinces, it added.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/054e90bc.json)
+
+[Extended Data](ext_articles/054e90bc.ext.json)
+
+---
+
+### Here are the denied votes
+
+*2024-11-16 08:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203417) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Elections Commission reports 667 rejected votes in general election. Commissioner Saman Sri Ratnayake comments. PAFFREL Executive Director Rohana Hettiarachchi describes it as most peaceful election in history.
+
+🟩
+
+The Elections Commission says that 667 votes have rejected the number of votes in this year's general election.
+
+The Commissioner General of Elections Saman Sri Ratnayake said that.
+
+Meanwhile, the Executive Director of PAFFREL Rohana Hettiarachchi said that the peaceful in history is the election in the election.
+
+◼️
+
+[Data](articles/e8411f62.json)
+
+[Extended Data](ext_articles/e8411f62.ext.json)
+
+---
+
+### Motorcycle falls on a train
+
+*2024-11-16 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203416) · `si`
+
+Motorcycle crashes into another bike on train. Incident happened near Habarana, Sri Lanka. 69-year-old man from Kekirawa injured.
+
+🟩
+
+A motorcycle hitting a motorbike rollidated from Batticaloa to Colombo Fort.
+
+The accident occurred at the interim route of Habarana Bellankadawala in Habarana Police yesterday.
+
+The victim is a 69 year old resident of Kekirawa area.
+
+◼️
+
+[Data](articles/3a2987da.json)
+
+[Extended Data](ext_articles/3a2987da.ext.json)
+
+---
+
+### Report from Vijitha
+
+*2024-11-16 07:58:17* · [`adalk`](https://www.ada.lk/breaking_news/විජිතගෙන්-වාර්තාවක්/11-413070) · `si`
+
+MP Vijitha Herath received record-breaking preferential votes in Gampaha District. Former President Mahinda Rajapaksa previously held this record.
+
+🟩
+
+Member of Parliament, MP Vijitha Herath, was the highest number of preferential votes in the history of the country.
+
+Former President Mahinda Rajapaksa claimed that the report was led before.
+
+In this year, however, Mr. Vijitha Herath was the first first to enter the Gampaha District and obtained 7,16,715 preferential votes.
+
+◼️
+
+[Data](articles/5508bde1.json)
+
+[Extended Data](ext_articles/5508bde1.ext.json)
+
+---
+
+### Police Notification on Post Election Season
+
+*2024-11-16 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203415) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Post-election season begins immediately. Police vigilant nationwide. Protests, gatherings banned for one week. Intelligence officers deployed. 581 arrests made before election. No reported violence.
+
+🟩
+
+The police are informed that the post-election duration is being implemented a week from the date of the results of the general election.
+
+Police Media Spokesperson, Attorney-at-Law, DIG's Court Attorneys, said that the police spokesman, lawyer, said that the police were alert at the country during post-election period.
+
+"The post-election duration begins now. Conducting meetings, marching, capture in any form of public places within a week. Therefore, the police are completely kept in this time period. Mobile traveling throughout the island and is being provided with the necessary protection. Intelligence officers are engaged in duties. Provides special security in the identified policemains. "
+
+581 persons have been arrested during pre-election period during the pre-election period.
+
+"There was no violence in any area. There are 18 candidates between 581 people who have been arrested by now. Other group supporters. "
+
+◼️
+
+[Data](articles/28db8a9f.json)
+
+[Extended Data](ext_articles/28db8a9f.ext.json)
 
 ---

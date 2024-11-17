@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 00:00:58**
+As of **2024-11-18 00:26:17**
 
 ## Newspaper Stats
 
-*Scraped **55,452** Articles*
+*Scraped **55,458** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,153 @@ colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
 economynextcom | 3,359
-dailyftlk | 3,781
+dailyftlk | 3,785
 dailymirrorlk | 4,733
 adalk | 5,196
 adaderanalk | 6,693
 tamilmirrorlk | 7,857
-virakesarilk | 9,008
-adaderanasinhalalk | 9,590
+virakesarilk | 9,009
+adaderanasinhalalk | 9,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,451 (100.0%) of 55,452 articles have been extended.
+55,454 (100.0%) of 55,458 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-11-18 (Monday)
+
+### IMF must respect voice of Sri Lankan voters
+
+*2024-11-18 00:13:34* · [`dailyftlk`](https://www.ft.lk/columns/IMF-must-respect-voice-of-Sri-Lankan-voters/4-769340) · `en`
+
+Lender awareness that Sri Lanka’s debt exceeded Government revenue by a factor of 10 underscores a stark instance of predatory lending practices. This highlights a profound failure to adhere to established norms of responsible lending, which require creditors to assess a borrower’s capacity to repay before extending further credit. By continuing to extend loans under such unsustainable conditions, creditors blatantly disregarded these principles, exacerbating Sri Lanka’s financial vulnerability and contributing to its current debt crisis. This pattern of lending not only violated ethical standards but also undermined the spirit of shared accountability between lenders and sovereign borrowers
+
+...
+
+[Data](articles/ad8ad01b.json)
+
+---
+
 ### 2024-11-17 (Sunday)
+
+### Mandate of heaven on Poya Day
+
+*2024-11-17 23:57:58* · [`dailyftlk`](https://www.ft.lk/columns/Mandate-of-heaven-on-Poya-Day/4-769337) · `en`
+
+Unlike in the past, voters cannot afford to remain aloof as mere onlookers and critics of what the Government does – Pic by Shehan Gunasekara
+
+When the date for election was announced there were murmurs among a group of Buddhist monks that the date would fall on a Poya Day, that it would be a day for people to attend to their religious rituals and meditation and that therefore the polling date be postponed. But the Election Commissioner stuck to his guns and as proved by the results voters thronged in hundreds of thousands not to the temples but to the polling booths and delivered an unassailable mandate to their favourite party of choice, National People’s Power (NPP) under the leadership of their favourite son, Anura Kumara Dissanayake (AKD).
+
+It was indeed as the Chinese would say a mandate of heaven delivered on a Poya Day through the voting citizenry. To the Buddhists at least, NPP’s historic victory and the enormity of its size would appear a divinely blessed outcome.
+
+...
+
+[Data](articles/1ff11010.json)
+
+---
+
+### Ballot unites Sri Lanka in 2024
+
+*2024-11-17 23:54:08* · [`dailyftlk`](https://www.ft.lk/columns/Ballot-unites-Sri-Lanka-in-2024/4-769336) · `en`
+
+This Government and this President have the best opportunity in decades to truly unify the country like none other – Pic by Shehan Gunasekara
+
+How with the overwhelming mandate from the people of the north and the east, the NPP has a unique opportunity to unite the country
+
+The Rajapaksa family was duly credited with uniting the country after winning a relentless war with the LTTE. In May 2009 the war was won and the country was declared united as one.
+
+But for years afterwards, racism continued to feature in political campaigns and while the peace was won, question marks persisted regarding the hearts and minds of the northerner. And doubts remained regarding their actual integration with their southern brethren.
+
+2024 may be seen as a watershed moment in Sri Lankan history as a Presidential election was fought where racism was not an issue. Language and religion did not play a role and none of the candidates had a divisive agenda.
+
+...
+
+[Data](articles/480c14e8.json)
+
+---
+
+### Your chance to re-write history, Mr. President: Second letter to AKD
+
+*2024-11-17 23:51:01* · [`dailyftlk`](https://www.ft.lk/columns/Your-chance-to-re-write-history-Mr-President-Second-letter-to-AKD/4-769335) · `en`
+
+You have been blessed with an abundance of talent in your recently elected legislative chamber – a true microcosm of the nation. Every ethnicity, religion, educational, competency, discipline and age demographic is represented. For the first time in the history of Sri Lankan politics a humble estate worker has been afforded an opportunity to participate in political decisions. Even a 26-year-old has been accommodated in the chamber. You are already walking the talk much to the chagrin of your opponents
+
+...
+
+[Data](articles/e21f9be5.json)
+
+---
+
+### Sri Lanka also conquered the series with New Zealand;The 6th consecutive series of Sri Lanka's earnings on home soil
+
+*2024-11-17 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199025) · `ta`
+
+Sri Lanka wins 6th consecutive home series against New Zealand. Key performances from Mahish Deekshana and Kusal Mendis. Sri Lanka sets target of 210/7, NZ reaches 209/all out. Mahish Deekshana takes 3/31, Jevri Vendasee 3/46.
+
+🟩
+
+Sri Lanka won the 2nd ODI match between Sri Lanka and New Zealand in Pallekele, Kandy on Sunday.
+
+With this victory, Sri Lanka won the three -match international ODI series, which made the 6th consecutive success on home soil.
+
+Also, for the first time after 10 years on home soil, Sri Lanka has made 5 series in a single year.
+
+In this victory, Mahish Deekshana's all -round match and Kusal Mendis played a key role.
+
+Sri Lanka won the toss and elected to win 210 runs, losing 7 wickets in 46 overs.
+
+Avishka Fernando (5), Betham Nissank (28) and Kamindu Mendis (0) lost by 23 runs.
+
+Kamindu Mendis, who was raised to the 4th line, faced only 3 balls, losing the game and disappointed with the fans.
+
+Subsequently, Sarid Asalanga (12) and Sadeera Samarawickrama (8) lost the game with fewer runs.
+
+Gusal Mendis and Janith Liyanage both tried to restore the team in the 6th wicket. But when the two shared 39 runs, Janith Liyanage lost 22 runs.
+
+...
+
+[Data](articles/da1a6f3a.json)
+
+[Extended Data](ext_articles/da1a6f3a.ext.json)
+
+---
+
+### ODI wins ODI winner after 12 years
+
+*2024-11-17 23:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203476) · `si`
+
+Sri Lanka wins ODI vs NZ after 12 years. Kusal Mendis' half-century leads team to 2-0 series win. Match reduced to 47 overs due to interruptions.
+
+🟩
+
+Sri Lanka team won the second ODI match against the New Zealand team with a prevalent half century due to the precious half century.
+
+The three-match tournament is a 2-0 leading towards a 2-0 leads and Sri Lanka was able to confirm the winner.
+
+Sri Lanka won the 46th over the 46th over the match despite the loss of 210 runs for 47 overs.
+
+Kusal Mendis, a batsman of Sri Lanka's victory, arrived at the batsman and passed the wicket while passing the winning shopping.
+
+Mahish insights scored a great deal of precious to Kusal, and he also had a 47-year-old connection with the 8th wicket.
+
+Accordingly, the Sri Lankan team led by Charith, who was led by Charith won the ODI against New Zealand after 12 years.
+
+Sri Lanka wins the ODIs 'ODIs' last year with Mahela Jayawardene.
+
+The two ODIs were held between the two ODIs and the tournament was won by New Zealand.
+
+Sri Lanka invited New Zealand to bat first, winning the coin of the match at the Pallekele Stadium.
+
+...
+
+[Data](articles/986a9dd6.json)
+
+[Extended Data](ext_articles/986a9dd6.ext.json)
+
+---
 
 ### Mahinda's dream came true - Namal
 
@@ -1748,6 +1878,8 @@ The National Peoples’ Power swept the general election and won more than two t
 
 [Data](articles/5d64d511.json)
 
+[Extended Data](ext_articles/5d64d511.ext.json)
+
 ---
 
 ### Celebration of the National People's Power
@@ -2385,165 +2517,5 @@ Accordingly, officials of the Provincial and Regional Offices will also be deplo
 [Data](articles/c37f10b7.json)
 
 [Extended Data](ext_articles/c37f10b7.ext.json)
-
----
-
-### Ready to cooperate with Trump - Chinese President
-
-*2024-11-17 12:17:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/டிரம்புடன்-ஒத்துழைக்கத்-தயார்-சீன-ஜனாதிபதி/50-347330) · `ta`
-
-Chinese President Xi Jinping expressed readiness to cooperate with Donald Trump during a meeting at the Asian-Pacific Economic Cooperation Summit in Peru. Relations between China and the US had deteriorated significantly during Trump's first term, particularly after he referred to COVID-19 as the "Chinese virus."
-
-🟩
-
-A meeting between US President Joe Faidan and Chinese President Shi Jinping will take place yesterday (16).
-
-The meeting took place during the Asian-Pacific Economic Cooperation Summit in Peru.
-
-The Chinese Chancellor said he was ready to cooperate with Donald Trump, the US president.
-
-However, during Trump's first tenure, Chinese-American relations were severely affected, and after Trump called Kovit a Chinese virus, the relations reached the fall.
-
-◼️
-
-[Data](articles/c82305a2.json)
-
-[Extended Data](ext_articles/c82305a2.ext.json)
-
----
-
-### Nine newcomers besides Rauf Hakeem, Anuradha and Lalkanta in Kandy
-
-*2024-11-17 12:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/198959) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Newcomers dominate Kandy district election results. Rauf Hakeem and Anuradha Jayaratne fail to retain seats. Nine newcomers elected alongside returning MP Lalgantha. Former ministers absent from race.
-
-🟩
-
-Rauf Hakeem and Anuradha Jayaratne, who represented the Kandy district in the last parliament, failed and nine of the nine people were new faces.
-
-Sri Lanka Muslim Congress leader Rauf Hakeem, who contested on behalf of the United People's Power in the ongoing general election, was not elected by 10 members other than Anuradha Jayaratne, the son of former Prime Minister DM Jayaratne, who contested the cylinder symbol.
-
-Former minister Keheliya Rambukwella, former diplomatic minister Lohan Ratwatta and former minister Lakshman Kiriella did not contest.
-
-Former ministers MHA Halim, Mahindananda Aluthgamage, State Minister Thilm Amunugama, Velukumar, Professor Ranjith Bandara, Yapa Bandara Kirindikoda etc.
-
-Rauf Hakeem, who was elected on behalf of the United People's Power and the new Democratic Front member (cylinder symbol), Anuradha Jayaratne represented the last parliament.
-
-...
-
-[Data](articles/f35de11f.json)
-
-[Extended Data](ext_articles/f35de11f.ext.json)
-
----
-
-### Lorry accident;One killed
-
-*2024-11-17 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198974) · `ta`
-
-Accident: Lorry crashes into parody, killing 1. Navy soldier, 40, dies. Driver arrested.
-
-🟩
-
-One person was killed when a small lorry crashed into a parody near the Lanka junction on the Trincomalee -Batticaloa main road under the Eichilampattu police division.
-
-The deceased was a 40 -year -old navy soldier who lived in Halwala, Matugama.
-
-Police said the small lorry from Batticaloa to Trincomalee was crashed into the back and driver of the driver when the driver was suspended due to a paravolar machine -owned machine -owned paramedic from Panama.
-
-The body has been placed in the funeral room of the Eichilampattu Hospital and the driver of the lorry has been arrested.
-
-◼️
-
-[Data](articles/ef42b335.json)
-
-[Extended Data](ext_articles/ef42b335.ext.json)
-
----
-
-### Mahindananda missed parliamentary seat by 348 votes:
-
-*2024-11-17 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198967) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Mahindananda Aluthgamage loses parliamentary seat by 348 votes. Retiring from politics after decades in Nawalapitiya constituency. Former Minister of Agriculture faces criticism and low voter support.
-
-🟩
-
-Former minister Mahindananda Aluthgamage has announced that he will retire from politics after missing the parliamentary seat by 348 votes.
-
-According to the results of the Kandy district election, Mahindananda, who contested the cylinder symbol, got 348 votes more than the Anuradhara Jayaratne.
-
-He made this statement while addressing his party supporters on Saturday (16) in Nawalapitiya.
-
-He has been elected to the Central Provincial Council and Parliament several times from the Nawalapitiya constituency and has been elected as the Minister of Provincial Council and the Minister of State for various ministries of the central government.. He has announced that the Aluthgamage family has long been politics in the Nawalapitiya area and that he is retiring from politics as the public has now rejected him.
-
-Mahindananda Aluthgamage, a massively spoken and criticized by the Minister of Agriculture in the previous regime, was also a man who was a heavily burned toy.
-
-...
-
-[Data](articles/0dcc46a8.json)
-
-[Extended Data](ext_articles/0dcc46a8.ext.json)
-
----
-
-### Anura and political prisoners
-
-*2024-11-17 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198972) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Anura acknowledges political prisoners but refuses to use his influence to free them. His stance remains unchanged despite public pressure.
-
-🟩
-
-While Anuragumara Dissanayake has accepted the presence of political prisoners - he is not ready to use his political power to release them.
-
-◼️
-
-[Data](articles/bd730b14.json)
-
-[Extended Data](ext_articles/bd730b14.ext.json)
-
----
-
-### The Tamil people have ordered the reconciliation;The government has the strength to create a new constitution;Is there a political commitment;Wait and see - Akhilan Kadirgamar
-
-*2024-11-17 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/198969) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Tamil people demand reconciliation; Government must create new constitution; Political commitment uncertain; President addresses Tamil plight; Land issues unresolved since war; National party success first time in Sri Lanka; LTTE influence wanes; New political methods needed; Two-thirds political system change possible but commitment unknown.
-
-🟩
-
-Senior Lecturer of the University of Jaffna, Akhilan Kadirgamar, has said that the President should try to address the plight of the Tamil people, including a political solution, said that the people of the Northern people have issued a clear decree to address the long -standing distress of the Tamil people for reconciliation.
-
-Commenting on India's wire, they have the strength to bring about the new constitution mentioned by this. But he has to see if they have the political commitment.
-
-This is a historic success because a national party has been a major success in Sri Lanka for the first time.
-
-Therefore, it is certainly a clear order for the long -standing distress of the Tamil people for reconciliation, and the people have greatly expressed confidence in the power of the national people.
-
-When the President visits Jaffna, he said he would resolve the land, especially the land.. Lands seized by the military are the Archaeological Forest Department in recent times.
-
-...
-
-[Data](articles/10604b03.json)
-
-[Extended Data](ext_articles/10604b03.ext.json)
 
 ---

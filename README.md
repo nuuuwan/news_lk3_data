@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 21:25:10**
+As of **2024-11-17 20:25:27**
 
 ## Newspaper Stats
 
-*Scraped **55,432** Articles*
+*Scraped **55,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,195 +12,45 @@ newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
-islandlk | 3,313
+islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,193
-adaderanalk | 6,692
-tamilmirrorlk | 7,856
-virakesarilk | 8,999
+adalk | 5,191
+adaderanalk | 6,691
+tamilmirrorlk | 7,855
+virakesarilk | 8,992
 adaderanasinhalalk | 9,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,430 (100.0%) of 55,432 articles have been extended.
+55,419 (100.0%) of 55,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### டிக்டொக்கில் மிரட்டிய ஆவா உறுப்பினர்கள் கைது
-
-*2024-11-17 21:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்டொக்கில்-மிரட்டிய-ஆவா-உறுப்பினர்கள்-கைது/175-347353) · `ta`
-
-அச்சுறுத்தல் மற்றும் தாக்குதல் சம்பவங்களுடன் தொடர்புடைய, யாழ்ப்பாணத்தை மையமாகக் கொண்ட பிரபல 'ஆவா' கும்பலைச் சேர்ந்த இருவர் உட்பட நான்கு சந்தேக நபர்கள் மட்டக்குளி பகுதியில் கைது செய்யப்பட்டுள்ளனர்.
-
-கடத்தல் சம்பவம் இடம்பெறுவதற்கான சாத்தியம் குறித்து தனி நபர் ஒருவரிடமிருந்து பொலிஸாருக்கு கிடைத்த இரகசிய தகவலையடுத்து இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
-
-ஈச்சிலம்பட்டை மற்றும் தோப்பூரைச் சேர்ந்த சந்தேக நபர்கள் இருவரும் விசாரணையின் போது, வடகிழக்கில் குற்றச் செயல்களில் ஈடுபடும் 'ஆவா' கும்பலுடன் தொடர்புடையவர்கள் என்பது தெரியவந்துள்ளது.
-
-ஏனைய இரு சந்தேகநபர்களும் அண்மையில் டுபாயில் இருந்து இலங்கைக்கு வருகை தந்திருந்த நிலையில், திருகோணமலையில் இருந்து மட்டக்குளிக்கு 'ஆவா' கும்பல் உறுப்பினர்களை அழைத்து வருமாறு டுபாயில் வசிக்கும் நபர் ஒருவரினால் அறிவுறுத்தப்பட்டுள்ளனர்.
-
-குறித்த சந்தேக நபர்கள் துபாயில் இருந்த நபரை டிக்டோக் மூலம் மிரட்டியதும் தெரியவந்தது.
-
-...
-
-[Data](articles/a238a418.json)
-
----
-
-### India’s successful test of hypersonic missile puts it among elite group
-
-*2024-11-17 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103568/indias-successful-test-of-hypersonic-missile-puts-it-among-elite-group) · `en`
-
-India has successfully tested a domestically developed long-range hypersonic missile, it said on Sunday, attaining a key milestone in military development that puts it in a small group of nations possessing the advanced technology.
-
-The global push for hypersonic weapons figures in the efforts of some countries, such as India, which is striving to develop advanced long-range missiles, along with China, Russia and the United States.
-
-The Indian missile, developed by the state-run Defence Research and Development Organisation and industry partners, is designed to carry payloads for ranges exceeding 1,500 km (930 miles) for the armed forces, the government said in a statement.
-
-“The flight data ... confirmed the successful terminal manoeuvres and impact with high degree of accuracy,” it added.
-
-The test-firing took place from Dr APJ Abdul Kalam island off the eastern coast of Odisha state on Saturday, it said.
-
-...
-
-[Data](articles/b71b9db5.json)
-
-[Extended Data](ext_articles/b71b9db5.ext.json)
-
----
-
-### Representatives to the second review of IMF
+### IMF තෙවැනි සමාලෝචනයට නියෝජිතයින් දිවයිනට
 
 *2024-11-17 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203472) · `si`
 
-Sri Lanka receives IMF loan installment review progress economic reform policy discussion
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) විස්තීරණ ණය පහසුකමේ තෙවන සමාලෝචනය සඳහා එහි නියෝජිතයින් පිරිසක් අද (17) ශ්‍රී ලංකාවට පැමිණ තිබේ.
 
-🟩
+ඔවුන්ගේ එම සංචාරයෙන් පසු ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකමේ සිව්වන වාරිකය ශ්‍රී ලංකාවට නිදහස් කිරීමට නියමිත බව වාර්තාවෙයි.
 
-A representatives of the International Monetary Fund (IMF) extensive credit facility have arrived in Sri Lanka today (17).
+මෙරට ආර්ථිකය ප්‍රකෘතිමත් කිරීම සඳහා වූ ජාත්‍යන්තර මුල්‍ය අරමුදලේ සිව් අවුරුදු විස්තීරණ ණය පහසුකම යටතේ මෙරටට හිමිවන සමස්ත ණය මුදල අමෙරිකානු ඩොලර් බිලියන 2.9කි.
 
-It is reported that Sri Lanka will be released to Sri Lanka the fourth installment of the IMF's comprehensive loan facility after their visit.
+එහි පළමු වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 333ක් 2023 මාර්තු 21 වැනිදාද, දෙවැනි වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 337ක් එම වසරේ දෙසැම්බර් 13 වැනිදාද මෙරටට මුදාහැරුණි.
 
-The total loan from the International Monetary Fund for four years of Sri Lanka's economy is US $ 2.9 billion.
+තෙවන ණය වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 336ක් මෙම වසරේ ජුනි මස 12 වනදා හිමිවූ අතර ඒ අනුව ජාත්‍යන්තර මුල්‍ය අරමුදල මේ වනවිට අමෙරිකානු ඩොලර් බිලියනයකට වැඩි මුදලක් ශ්‍රී ලංකාවට ලබා දී තිබේ.
 
-US $ 333 million as the first installment, US $ 333 million was released as the second premium on 13 December on the 13th of that year.
-
-US $ 336 million as the third loan installment was Rs. 336 million in June 12 this year.
-
-The progress of the progress has been carried out after the premium of each of those loans, accordingly, according to the Chamber of the International Monetary Fund Senior Missions Senior Missions, Senior Missions Senior Mission.
-
-The implementation of the consensus with the International Monetary Fund and the current progress of the country's economic reform program is to be found.
+එම සෑම ණය වාරිකයකටම පසු ප්‍රගතිය පිළිබඳ සමාලෝචනයක් සිදුකෙරුණු අතර ඒ අනුව තෙවැනි සමාලෝචනය සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘවර්ගේ ප්‍රධානත්වයෙන් මෙම නියෝජිතයින් පිරිසක් අද මෙරටට පැමිණ තිබුණි.
 
 ...
 
 [Data](articles/ef5c85fb.json)
-
-[Extended Data](ext_articles/ef5c85fb.ext.json)
-
----
-
-### We are ready to embrace everyone - Sridharan!
-
-*2024-11-17 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199019) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil National Party embraces all sides based on goals. Leader Sridharan allocates National List seat. Ready to unite under Tamil National Alliance principles.
-
-🟩
-
-Parliamentarian Sivagnanam Sridharan said that we are ready to embrace all sides based on our purpose and goal.
-
-The Tamil National Party's political committee was held on Sunday morning at a private guest hostel located in Irorpperiyakulam, Vavuniya.
-
-Considering the vacancies of the Mannar Vavuniya districts, we have decided to give the National List seat to the Dr. Sathiyalingam.
-
-And we are ready to embrace everyone based on the purpose and goal of the Tamil National Alliance in 2001. We have more compassion and will.
-
-I have also asked the people to issue that decree in my election campaigns.So we have realized the need to go together. We will continue to work for it.
-
-I am the selected leader of the Tamil party. If the court ban is lifted, I will act as the leader.I feel that time is meltdown.
-
-◼️
-
-[Data](articles/d7b8ddcb.json)
-
-[Extended Data](ext_articles/d7b8ddcb.ext.json)
-
----
-
-### 120 missiles 90 unmanned aircraft - Russia attack on Ukraine's strength
-
-*2024-11-17 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199018) · `ta`
-
-Russia attacks Ukraine: 120 missiles, 90 drones. Some areas remain powered despite assault.
-
-🟩
-
-Ukraine has said that Russia used 120 missiles and 90 unmanned aircraft during the massive joint attack on all regions of Ukraine.
-
-There have been reports that some areas are still in power due to an attack on the strength.
-
-◼️
-
-[Data](articles/138d1037.json)
-
-[Extended Data](ext_articles/138d1037.ext.json)
-
----
-
-### We will challenge the election results and go forward - Douglas Devananda!
-
-*2024-11-17 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199017) · `ta`
-
-Douglas Devananda challenges election results, vows to move forward despite setbacks. EPDP Secretary-General calls for fact-checking misinformation and fake propaganda.
-
-🟩
-
-Secretary -General Douglas Devananda has hoped that the Eelam People's Democratic Party members will take a challenge to challenge the election results.
-
-The ongoing election results EPDP. The party's secretary general, Douglas Devananda, said that the party's next step was the reason for the lack of clarity on national reconciliation and the systematic defamation against our party.
-
-He also said that the reasons for the setbacks in this election should be prepared to travel towards the future by criticizing and revising criticism.
-
-EPDP. With the party's Jaffna district organizers and activists, the party's Jaffna. Douglas Devananda said, "I would like to thank the people who voted for us and the people who wanted to vote for us with mental strength."
-
-More EPDP before the election. He also stressed that the party's activists have a compulsory duty to clarify the facts of the vulgarity and fake propaganda that has been released after the election, beyond the campaign against it.
-
-...
-
-[Data](articles/069ce626.json)
-
-[Extended Data](ext_articles/069ce626.ext.json)
-
----
-
-### Who is going to fill the place of the best arguments in Parliament?
-
-*2024-11-17 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199016) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Anurag Thakur's absence leaves a void in Parliament debates. Opponents may try to disrupt his speeches by pointing out corruption or disorderly conduct. His replacement remains uncertain.
-
-🟩
-
-Opponents can observe the speech of Anuragumara in Parliament. That is why when he speaks, everyone will listen to his speech without making confusion. In the meantime, if anyone tries to confuse his speech, only the strategy of sitting in the seat is to point out the corruption or disorderly activity of the member.. The question of who is going to fill his place in the new Parliament is now.
-
-◼️
-
-[Data](articles/65f7e934.json)
-
-[Extended Data](ext_articles/65f7e934.ext.json)
 
 ---
 
@@ -288,40 +138,6 @@ SriLankan Airlines has taken steps to educate passengers from these aircraft, an
 
 ---
 
-### Four persons, including two persons belonging to the Awa gang in Mattakkuliya
-
-*2024-11-17 19:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199015) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-4 suspects arrested in Mattakkuliya for smuggling. 2 belong to Awa gang from NE Sri Lanka. Others from Pudukkudiyiruppu & Kottanchenai. 2 came from Dubai last Oct. Investigation ongoing.
-
-🟩
-
-Four suspects have been arrested on the basis of information received from a personal information provider in connection with the smuggling incident during the patrol operation on the night of the 16th in the Mattakkuliya area.
-
-The suspects were aged 24, 26, 27 and 32, and they were from Pudukkudiyiruppu, Kottanchenai, Ezhilampattu and Topur areas.
-
-The suspects were arrested and the suspects living in Ezilmpattu and Topur areas were belonging to the Awa gang involved in some incidents in the Northeast.
-
-The other two suspects arrived in Sri Lanka from Dubai last October.
-
-On the advice of someone in Dubai, it has been revealed that the two members of the 'Awa' gang have been brought from Trincomalee to Mattakkuli.
-
-Two members of the 'Awa' gang have been found threatened by a 'tick talk' to a man in Dubai.
-
-Based on this, the two suspects have been brought to the Mattakkuliya area through a woman and taken a video and showed them to a man in Dubai.
-
-◼️
-
-[Data](articles/dbd0577f.json)
-
-[Extended Data](ext_articles/dbd0577f.ext.json)
-
----
-
 ### Consumer Affairs Authority Investigation Division dissolved
 
 *2024-11-17 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203469) · `si`
@@ -404,64 +220,6 @@ During this session, the President will provide a detailed explanation of the go
 
 ---
 
-### Peace and New Zealand's demand to change the administration of the tribal people
-
-*2024-11-17 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/198952) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-New Zealand's ACR party advocates integrating Maori people into mainstream politics without special arrangements, sparking debate over indigenous rights and governance.
-
-🟩
-
-The New Zealand nation is split into two based on arguments. This argument is not lighter. On the one hand. The ACR party, which presents this viewing angle, says that the Maori people should be incorporated into the main political stream without any special arrangements.
-
-◼️
-
-[Data](articles/5423ea48.json)
-
-[Extended Data](ext_articles/5423ea48.ext.json)
-
----
-
-### Two persons arrested with heroin in different parts of Colombo
-
-*2024-11-17 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199011) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Colombo: Two arrests made over weekend. Heroin found in Lunawa & Badowatta areas. 210mg & 200mg seized. Investigations ongoing."
-
-🟩
-
-Two persons have been arrested on Saturday (16) with heroin drugs in two other rounds carried out by Colombo and Moratuwa Police Station.
-
-A man was arrested yesterday with heroin in the Lunawa area of ​​the Moratuwa Police Division.
-
-He was arrested on the basis of information received by the Moratuwa Police Station.
-
-210 milligrams of heroin has been seized from the suspect.
-
-Meanwhile, a man was arrested yesterday with heroin in the Badovitta area of ​​the Kalkissa police division.
-
-He was arrested on the basis of information received by the Moratuwa Police Station.
-
-Police have seized 05 grams of 200 milligrams of heroin from the arrested suspect.
-
-Moratuwa and Kalkissa police are conducting further investigations.
-
-◼️
-
-[Data](articles/a179fdc6.json)
-
-[Extended Data](ext_articles/a179fdc6.ext.json)
-
----
-
 ### Navy bears a drug transport vehicle
 
 *2024-11-17 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203468) · `si`
@@ -483,44 +241,6 @@ The multi-day vessels and the suspects have been brought to land on further lega
 [Data](articles/1d50ae6b.json)
 
 [Extended Data](ext_articles/1d50ae6b.ext.json)
-
----
-
-### Upali Samarasinghe becomes Vanni District MP through the National List of National People's Power
-
-*2024-11-17 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199012) · `ta`
-
-Upali Samarasinghe named Vanni District MP via National People's Power national list. He was previously the party's Wanni district organizer but didn't contest directly in the Vanni district.
-
-🟩
-
-Upali Samarasinghe has been appointed as a Vanni district parliamentarian through the national bar of the National People's Power.
-
-The National People's Power has released its names of its 18 national lists.
-
-The name of Upali Samarasinghe, the party's Wanni district organizer and party member of the party, who lived in Vavuniya, who failed to compete on behalf of the National People's Power in the Vanni district.
-
-◼️
-
-[Data](articles/d42f6423.json)
-
-[Extended Data](ext_articles/d42f6423.ext.json)
-
----
-
-### IMF නියෝජිත පරිස අද දිවයිනට
-
-*2024-11-17 17:48:18* · [`adalk`](https://www.ada.lk/breaking_news/IMF-නියෝජිත-පරිස-අද-දිවයිනට/11-413098) · `si`
-
-ජාත්‍යන්තර මූල්‍ය අරමුදල ශ්‍රී ලංකාව සම්බන්ධයෙන් ක්‍රියාත්මක කරන වසර 4ක විස්තීරණ ණය පහසුකමේ තෙවන සමාලෝචන සඳහා එහි නියෝජිතයින් පිරිසක් අද (17) දිවයිනට පැමිණීමට නියමිතය. ඔවුන් ලබන 23දා දක්වා ශ්‍රී ලංකාවේ රැදී සිටීමට නියමිතය.
-
-මෙහිදී විස්තීරණ ණය පහසුකමේ තෙවැනි සමාලෝචනය හා සිව්වන වාරිකය ශ්‍රී ලංකාවට නිදහස් කිරීම සම්බන්ධයෙන් සාකච්ඡා කිරීමට නියමිතයව තිබේ.‍ෙ
-
-ඒ අනුව ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකම යටතේ වන තෙවන සමාලෝචනය සිදුකිරීම සඳහා ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘවර් මහතාගේ ප්‍රධානත්වයෙන් එහි නියෝජිතයින් පිරිසක් අද දිවයිනට පැමිණීමට නියමිතය.
-
-◼️
-
-[Data](articles/993aad9f.json)
 
 ---
 
@@ -629,32 +349,6 @@ We are confident that they will fully use this opportunity and solve many things
 [Data](articles/d395dd8a.json)
 
 [Extended Data](ext_articles/d395dd8a.ext.json)
-
----
-
-### Upper Support Class Lectures and Seminars
-
-*2024-11-17 17:25:26* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළට-උපකාරක-පංති-දේශන-හා-සම්මන්ත්‍රණ-තහනම්-වන-දිනය/11-413097) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-GCE A/L exam: Tuition classes, lectures, seminars banned after Nov 19. Exam scheduled Dec 20, starts Nov 25. Ban remains till exam ends.
-
-🟩
-
-The Department of Examinations says that tuition classes, lectures and seminars relating to the GCE A / L examination will be banned after the 19th.
-
-The department stated that the ban was implemented until the end of the examination.
-
-The GCE Advanced Level Examination will be held on December 20, due to commencement on November 25.
-
-◼️
-
-[Data](articles/2a54fbed.json)
-
-[Extended Data](ext_articles/2a54fbed.ext.json)
 
 ---
 
@@ -2525,5 +2219,315 @@ In addition, Human Rights Activist Dr. Pratibha Mahanama Hewa said that after th
 [Data](articles/99b9953b.json)
 
 [Extended Data](ext_articles/99b9953b.ext.json)
+
+---
+
+### Peace and New Zealand's demand to change the administration of the tribal people
+
+*2024-11-17 10:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/198952) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+New Zealand's ACR party advocates integrating Maori people into mainstream politics without special arrangements, sparking debate over indigenous rights and governance.
+
+🟩
+
+The New Zealand nation is split into two based on arguments. This argument is not lighter. On the one hand. The ACR party, which presents this viewing angle, says that the Maori people should be incorporated into the main political stream without any special arrangements.
+
+◼️
+
+[Data](articles/5423ea48.json)
+
+[Extended Data](ext_articles/5423ea48.ext.json)
+
+---
+
+### IMF team to visit Sri Lanka today for third review under EFF program
+
+*2024-11-17 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103555/imf-team-to-visit-sri-lanka-today-for-third-review-under-eff-program-) · `en`
+
+A team from the International Monetary Fund (IMF), led by the Senior Mission Chief for Sri Lanka Peter Breuer, will be in Colombo from November 17 to 23.
+
+The team will visit the country to conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF), IMF Spokesperson said.
+
+The team, led by IMF Senior Mission Chief Peter Breuer, will assess Sri Lanka’s economic policies, progress on ongoing reforms, and the implementation of previous agreements with the IMF.
+
+Upon successful completion of the review, the IMF is expected to release the next installment of the loan to Sri Lanka. The IMF had approved a 2.9 billion dollar Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+
+◼️
+
+[Data](articles/8ab83c8f.json)
+
+[Extended Data](ext_articles/8ab83c8f.ext.json)
+
+---
+
+### Dark chapter in human history
+
+*2024-11-17 10:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/198951) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+US supports Israel's Gaza actions despite criticism. 100 US soldiers deployed to Israel this month for regional conflict.
+
+🟩
+
+Despite its definite views and positions on these responsible compassions, the United States and other imperialist powers are spacharying their cooperation with Israel in the Gaza genocide.. This month, the US has sent 100 soldiers to Israel to participate in the war launched by Israel across the Middle East.
+
+◼️
+
+[Data](articles/547c2973.json)
+
+[Extended Data](ext_articles/547c2973.ext.json)
+
+---
+
+### Six school children arrested in Panadura public closet
+
+*2024-11-17 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-පොදු-වැසිකිලියේ-මුදල්-කොල්ලකෑ-පාසල්-සිසුන්-හයක්-අත්අඩංගුවට/11-413084) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Six schoolchildren (16, 17) arrested in Panadura for robbing a beachside shop. They fled after frightening staff. Police recovered stolen goods worth Rs. 415. Further investigation ongoing.
+
+🟩
+
+Six schoolchildren who robbed the casualty of the employee of the seashore of the sea in Panadura were arrested.
+
+The arrested persons were 16 and 16th-year-old schoolgirl residing in Moratuwa
+
+Six suspects arrive near the public closet of Panadura coast and no one arrived?While observing to go, the other three have frightened the cash box.
+
+Police said that the frightened servant had been taken away and seized with the assistance of the full-filled full of filled.
+
+A senior police officer said that the robbery was Rs. 415.
+
+Chief Suspect Who Bar Mind
+
+Senior Superintendent of Police Chamil Ratnayake and Assistant Superintendent of Police Nishantha Senaratne is conducting further investigations.
+
+◼️
+
+[Data](articles/6bdd44c9.json)
+
+[Extended Data](ext_articles/6bdd44c9.ext.json)
+
+---
+
+### If the President's promises are true, the homes of the heroes should be released - Pon Sudan!
+
+*2024-11-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198954) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Pon Sudan demands release of hero homes & reconciliation. He cites voters' trust in President Anura Kumara Dissanayake's promises. First phase: leave war dead unburied, appoint Tamil/Muslim PM for harmony.
+
+🟩
+
+If the promises made by President Anura Kumara Dissanayake are true, Pon Sudan, who contested the parliamentary election in the Jaffna district, said that the homes of the heroes should be released immediately and the reconciliation of the day.
+
+Even the mothers who have taken their children by the war have voted for themselves in history by relying on your promises. This is based on their confidence.
+
+So, in the first phase of the promises, he demanded that the people who died in the war should be left out of the burial and demanded goodwill, and demanded that a Tamil or a Muslim be appointed prime minister to bring about real harmony and peace.
+
+◼️
+
+[Data](articles/e4fd67d3.json)
+
+[Extended Data](ext_articles/e4fd67d3.ext.json)
+
+---
+
+### Doctor Archana welcomes the chavakachcheri
+
+*2024-11-17 10:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198956) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Doctor Archana welcomed in Chavakachcheri after winning 2024 parliamentary election. Locals supported her visit on Saturday.
+
+🟩
+
+The people of Chavakachcheri welcomed the doctor Archana, who won the 2024 parliamentary election on Saturday (16).
+
+Dr. Archana for the first time after winning the election on Saturday afternoon. As he went to Chavakachcheri, the people supported him.
+
+◼️
+
+[Data](articles/256bf632.json)
+
+[Extended Data](ext_articles/256bf632.ext.json)
+
+---
+
+### The second phase of success and Muslim representation
+
+*2024-11-17 10:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/198955) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Second phase of success & Muslim representation:
+
+National People's Power Party's policies may not align with JVP's core principles, potentially hindering ethnic unity efforts.
+
+🟩
+
+It is not good for the ethnic unity journey of the national People's Power Party, especially the National People's Power Party, or that the JVP's basic policies will be accommodated by the NPP's policies.
+
+◼️
+
+[Data](articles/cb63bfa5.json)
+
+[Extended Data](ext_articles/cb63bfa5.ext.json)
+
+---
+
+### Rehan also announced Oiwa
+
+*2024-11-17 10:12:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரெஹானும்-ஓய்வை-அறிவித்தார்/175-347318) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former mayor Rehan Jayawickrama resigns from politics. He lost the Matara district in recent elections. Citing personal reasons, he decided to focus on family after a challenging political career.
+
+🟩
+
+Rehan Jayawickrama, a former mayor of the Weligama Municipal Council and Weligama organizer of the Samaki Jan. Balavaka Organization, has announced that he will resign from politics and Matara Weligama organizer.
+
+He posted a note on his X page and said that he had sent his resignation letter to party leader Sajith Premadasa.
+
+Rehan Jayawickrama lost the Matara district in the ongoing parliamentary elections.
+
+He said the time had come to think about his family and work for them, even though he had crossed a very difficult journey in politics and had been in a very difficult journey in politics.
+
+He said that the decision was not easily taken and that this was the right decision in the current state.
+
+◼️
+
+[Data](articles/4e9cb2b9.json)
+
+[Extended Data](ext_articles/4e9cb2b9.ext.json)
+
+---
+
+### What is the Increased Equality Solution in the World?
+
+*2024-11-17 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/198957) · `ta`
+
+Increased Equality Solution: Repaying large-scale loans globally, 41.5% of GDP. IMF recommends 10-year plan. Risks: Further economic inequality due to increased borrowing.
+
+🟩
+
+It is spent on repaying large -scale loans on the gross income of countries around the world. In general it is 41.5 percent. This is 48 percent of the lowest and middle -income countries. The International Monetary Fund is the case that the procedure of repaying the loan should continue for the next 10 years. There is a chance of increasing economic inequality further as countries have to get more and more loans in order to repay the loans received.
+
+◼️
+
+[Data](articles/0d5b1e70.json)
+
+[Extended Data](ext_articles/0d5b1e70.ext.json)
+
+---
+
+### Eight killed in China Stress
+
+*2024-11-17 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203451) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+8 killed, 17 injured in Chinese educational institution incident. 21-year-old student arrested. Suspect failed exams, foreign media reports.
+
+🟩
+
+Eight people died in an educational institution in an educational institute in Vaukshi, China.
+
+Foreign media reports that 17 of them were injured.
+
+A 21-year-old student of the Educational Institute has been arrested in connection with the incident.
+
+The suspect has reportedly failed the failure of the aforesaid Education and the copyrife, foreign media reports say.
+
+◼️
+
+[Data](articles/372a740a.json)
+
+[Extended Data](ext_articles/372a740a.ext.json)
+
+---
+
+### Youth dies due to explosion
+
+*2024-11-17 10:06:00* · [`adalk`](https://www.ada.lk/breaking_news/පිපිරීමක්-හේතුවෙන්-තරුණයකු-ජීවිතක්ෂයට/11-413083) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+18yo youth killed in garage explosion in Atakankola. Barrel burst during gas situation. Victim from Bawala area.
+
+🟩
+
+A total of the 18-year-old youth in the garage was killed and in the garage that had been exploded by a painted garage in Atakankolapelessa, Atakankolapelessa.
+
+The victim was a resident of Bawala Runa Road, Runna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, No. 128/02.
+
+The barrel burst is a barrel of barely iron, which is a blank iron, which is a blank iron, and burst the barrel on a gas situation.
+
+The boy's lid of the barrel has been admitted to Ackunkolapessa hospital, policeman.
+
+◼️
+
+[Data](articles/511f56ab.json)
+
+[Extended Data](ext_articles/511f56ab.ext.json)
+
+---
+
+### Ovee declared Aluthgamage
+
+*2024-11-17 10:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வை-அறிவித்தார்-அளுத்கமகே/175-347317) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahindananda Aluthgamage retires from politics after 7 decades in Nawalapitiya. He cites low voter support in Kandy district as reason. Received 20401 votes in latest election compared to nearly 200000 previously.
+
+🟩
+
+Former Minister Mahindananda Aluthgamage has announced that he will retire from politics.
+
+He announced his retirement at a media briefing held at the Nawalapitiya Mahindananda Aluthgamage Foundation office yesterday (16).
+
+Aluthgamage's generation has been involved in radical politics in the Nawalapitiya constituency for seven decades.
+
+In this case, Mahindananda Aluthgamage said that the people of Kandy district did not need his service in the general election.
+
+That is why he has decided to retire from politics, he added.
+
+In this year's general election, he said that the cylinder in the Kandy district had contested and that voters gave him 20,401 votes.
+
+He said he had received nearly two lakh votes in the last election.An
+
+◼️
+
+[Data](articles/56901d62.json)
+
+[Extended Data](ext_articles/56901d62.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 09:30:37**
+As of **2024-11-17 09:08:02**
 
 ## Newspaper Stats
 
-*Scraped **55,304** Articles*
+*Scraped **55,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,171
-adaderanalk | 6,678
+adaderanalk | 6,677
 tamilmirrorlk | 7,837
 virakesarilk | 8,955
 adaderanasinhalalk | 9,561
@@ -26,53 +26,25 @@ adaderanasinhalalk | 9,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,294 (100.0%) of 55,304 articles have been extended.
+55,287 (100.0%) of 55,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### USS Michael Murphy arrives in Colombo
-
-*2024-11-17 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103553/uss-michael-murphy-arrives-in-colombo) · `en`
-
-USS Michael Murphy of the United States Navy had arrived at the port of Colombo on a replenishment visit on Saturday, Sri Lanka Navy said.
-
-Accordingly, the Sri Lanka Navy had welcomed the visiting ship in compliance with naval traditions.
-
-The 155.2m – long Arleigh Burke class guided missile destroyer is manned by a crew of 333 and she is commanded by Commander Jonathan B. Greenwald.
-
-On completion of replenishment needs, USS Michael Murphy is set to depart the island on November 17.
-
-◼️
-
-[Data](articles/7140303b.json)
-
----
-
-### Record of MPs from today
+### இன்று முதல் எம்.பிக்களின் பதிவு
 
 *2024-11-17 08:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எம்-பிக்களின்-பதிவு/175-347314) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+10வது பாராளுமன்றத்திற்கு தேர்ந்தெடுக்கப்பட்ட எம்.பி.க்களின் பதிவு இன்று முதல் எதிர்வரும் 20ஆம் திகதி வரை நடைபெற உள்ளது.
 
+குறித்த நாட்களில் பாராளுமன்ற வளாகத்திற்கு வருகை தந்தும், இணையவழி மூலமாகவும் பதிவு செய்ய முடியும் என பாராளுமன்ற செயலாளர் நாயகம்  குஷானி ரோஹணதீர தெரிவித்தார்.
 
-
-"MPs registration: 10th Parliament. From today to 20th at Parliamentary Complex or via email. Elections Commission requests immediate submission of National List member details."
-
-🟩
-
-The registration of MPs elected to the 10th Parliament will be held from today to the 20th.
-
-Parliamentary Secretary General Kushani Rohanadeera said that the Parliamentary Complex can be registered in the Parliamentary Complex and by e -mail.
-
-Meanwhile, the Elections Commission has taken steps to inform the relevant parties to immediately send the list of members of the National List to the Elections Commission immediately.. Remble
+இதேவேளை, தேசிய பட்டியலிலிருந்து தெரிவு செய்யப்படவுள்ள உறுப்பினர்களின் பெயர் பட்டியலை உடனடியாக தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பி வைக்குமாறு சம்பந்தப்பட்ட கட்சிகளுக்கு அறிவிக்க தேர்தல்கள் ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது. R
 
 ◼️
 
 [Data](articles/de43f1d5.json)
-
-[Extended Data](ext_articles/de43f1d5.ext.json)
 
 ---
 
@@ -94,61 +66,39 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 
 [Data](articles/89021b62.json)
 
-[Extended Data](ext_articles/89021b62.ext.json)
-
 ---
 
-### Shouting in China: 8 killed
+### சீனாவில் கத்திக்குத்து: 8 பேர் பலி
 
 *2024-11-17 08:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-கத்திக்குத்து-8-பேர்-பலி/50-347313) · `ta`
 
-Here's a summary of the article in 200 characters:
+கிழக்கு சீனாவில் உள்ள கல்லூரி ஒன்றுக்கு அருகில் இடம்பெற்ற கத்திக்குத்து சம்பவத்தில் 8 பேர் உயிரிழந்துள்ளனர்.
 
+Wuxi நகரில் உள்ள Wuxi Yixing தொழில் மற்றும் தொழில்நுட்ப கல்லூரியில் சீன நேரப்படி நேற்று மாலை 6.30 அளவில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
 
-
-"China: 8 killed in knife attack near college. Incident occurred at Wuxi Yixing College of Industry and Technology. 21-year-old suspect arrested."
-
-🟩
-
-Eight people have been killed in a knife incident near a college in eastern China.
-
-The incident took place at 6.30 pm yesterday at the Wuxi Yixing College of Industry and Technology in Wuxi.
-
-A 21 -year -old youth has been arrested in connection with the incident. (A)
+குறித்த சம்பவம் தொடர்பில் சந்தேக நபரான 21 வயதுடைய இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
 
 ◼️
 
 [Data](articles/e8a1d496.json)
 
-[Extended Data](ext_articles/e8a1d496.ext.json)
-
 ---
 
-### Special train services
+### சிறப்பு ரயில் சேவைகள்
 
 *2024-11-17 08:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-ரயில்-சேவைகள்/175-347312) · `ta`
 
-Here's a summary of 200 characters:
+பொதுத் தேர்தல் மற்றும் நீண்ட வார விடுமுறை முடிந்து பணியிடங்களுக்கு செல்லும்  பயணிகளுக்காக சில சிறப்பு ரயில்களை இயக்கத் திட்டமிடப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
 
+இன்றும் நாளையும் வழக்கமான ரயில் சேவைக்கு மேலதிகமாக சில சிறப்பு ரயில்கள் சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
 
+கொழும்பு கோட்டையிலிருந்து பதுளை வரையிலும், பதுளையிலிருந்து கொழும்பு கோட்டை வரையிலும், கண்டியில் இருந்து கொழும்பு கோட்டை வரையிலும், பெலியத்தவிலிருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இயங்குகின்றன.
 
-"Special trains run: Colombo-Badulla, Badulla-Colombo, Kandy-Colombo, Beliatta-Colombo, Colombo-Hikkaduwa, Matara-Colombo, Galle-Colombo during elections & long weekends."
-
-🟩
-
-The Railway Department has said that some special trains are scheduled to be operated for passengers who are going to work in the general election and long weekend holidays.
-
-The department said that some special trains have been deployed in addition to the usual train service today and tomorrow.
-
-Special train services operate from Colombo Fort to Badulla, Badulla to Colombo Fort, from Kandy to Colombo Fort, from Beliatta to Colombo Fort.
-
-In addition, special train services will be held from Colombo Fort to Hikkadu, Matara to Colombo Fort, from Galle to Colombo Fort.. Remble
+அத்துடன், கொழும்பு கோட்டையிலிருந்து ஹிக்கடுவை வரையிலும், மாத்தறையில் இருந்து கொழும்பு கோட்டை வரையிலும், காலியில் இருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இடம்பெறவுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
 
 ◼️
 
 [Data](articles/f010014c.json)
-
-[Extended Data](ext_articles/f010014c.ext.json)
 
 ---
 
@@ -176,25 +126,19 @@ The Department of Meteorology has said that rainfall is expected in a few places
 
 ---
 
-### Showers in many parts of the provinces
+### අදත් බොහෝ පළාත්වලට වැසි
 
 *2024-11-17 07:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413077) · `si`
 
-Heavy showers forecasted in Western, Central, Sabaragamuwa, Southern, Uva, and Udarapura provinces. Thunderstorms possible. 75mm rainfall expected in some areas. Morning showers predicted for Northern and Eastern provinces.
+බස්නාහිර, මධ්‍යම, සබරගමුව, දකුණ, ඌව හා වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රි කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-🟩
+බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව දන්වා සිටියි.
 
-Showers or thundershowers will occur at several places in the Western, Central, Sabaragamuwa, Southern, Uva and Udarapura.
-
-The Department has informed about 75mm at some places in the Western, Sabaragamuwa and Central provinces.
-
-Showers will occur at a morning in the Northern and Eastern Provinces.
+උතුරු හා නැහගනහිර පළාත්වල ස්ථාන ස්වල්පයක උදෑසන කාලහේදීත් වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
 
 ◼️
 
 [Data](articles/6bae013f.json)
-
-[Extended Data](ext_articles/6bae013f.ext.json)
 
 ---
 
@@ -438,8 +382,6 @@ He wrote his autobiography at some point and the Sri Lankan chapters have been p
 
 [Data](articles/91768d23.json)
 
-[Extended Data](ext_articles/91768d23.ext.json)
-
 ---
 
 ### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
@@ -559,8 +501,6 @@ I recognized the advantages that we had inherited from the British through our k
 ...
 
 [Data](articles/1d2fea47.json)
-
-[Extended Data](ext_articles/1d2fea47.ext.json)
 
 ---
 
@@ -2391,5 +2331,25 @@ The new Parliament session will meet at 10 am on the 21st morning.
 [Data](articles/56c48f3e.json)
 
 [Extended Data](ext_articles/56c48f3e.ext.json)
+
+---
+
+### Ceylon Chamber of Commerce congratulates newly elected govt
+
+*2024-11-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103534/ceylon-chamber-of-commerce-congratulates-newly-elected-govt) · `en`
+
+The Ceylon Chamber (CCC) has congratulated the National People’s Power (NPP) led by the President Anura Kumara Dissanayake on securing an overwhelming mandate and majority in the Parliamentary election.
+
+In a statement, the CCC said “The mandate of the people reflects the united expectations towards governance, democratic values, anti-corruption, and uplifting of the economy.”
+
+As the premier business Chamber in Sri Lanka, the Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development, it added.
+
+The Chamber also commended the Election Commission and other state institutions for ensuring a peaceful election process.
+
+◼️
+
+[Data](articles/2dd322b6.json)
+
+[Extended Data](ext_articles/2dd322b6.ext.json)
 
 ---

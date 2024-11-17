@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 19:40:59**
+As of **2024-11-17 20:12:04**
 
 ## Newspaper Stats
 
-*Scraped **55,414** Articles*
+*Scraped **55,419** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,113 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,190
+adalk | 5,191
 adaderanalk | 6,691
 tamilmirrorlk | 7,855
 virakesarilk | 8,992
-adaderanasinhalalk | 9,583
+adaderanasinhalalk | 9,587
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,414 (100.0%) of 55,414 articles have been extended.
+55,415 (100.0%) of 55,419 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### දිගු දුර හයිපසොනික් මිසයිලක් ඉන්දියාව සාර්ථකව අත්හදාබලයි
+
+*2024-11-17 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203471) · `si`
+
+ඔදිෂා ප්‍රාන්තයට ඔබ්බෙන් වූ අබ්දුල් කලාම් දූපත් ප්‍රදේශයේ සිට මෙම මිසයිල අත්හදා බැලීම සාර්ථකව සිදුකළ බව ඉන්දීය ආරක්ෂක අමාත්‍ය රාජ්නාත් සිංග් ප්‍රකාශ කර ඇත.
+
+මෙය ඉන්දියාවට අතිශය වැදගත් ඓතිහාසික අවස්ථාවක් බව ද ඔහු සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/41630ae3.json)
+
+---
+
+### ශ්‍රී ලංකාවට ලකුණු 210ක ඉලක්කයක්
+
+*2024-11-17 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203470) · `si`
+
+ශ්‍රී ලංකා - නවසීලන්ත දෙවන එක්දින ක්‍රිකට් තරගය පල්ලෙකැලේ ක්‍රීඩාංගණයේ දී මේ වනවිට පැවැත්වෙයි.
+
+තරගයේ කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කණ්ඩායම පළමුවෙන් පන්දුවට පහරදීම සඳහා නවසීලන්ත කණ්ඩායමට ආරාධනා කළේය.
+
+අවස්ථා කිහිපයක දී තරගයට වර්ෂාවෙන් බාධා එල්ලවූ අතර මේ හේතුවෙන් තරගය පන්දුවාර 47කට සීමා කිරීමට තරග තීරකවරුන් තීරණය කළේය.
+
+ඒ අනුව ප්‍රථමයෙන් පන්දුවට පහරදුන් නවසීලන්ත කණ්ඩායම පන්දුවාර 45යි පන්දුවක් අවසානයේ සියලුදෙනා දැවී ලකුණු 209ක් රැස්කළේය.
+
+නවසීලන්ත කණ්ඩායම වෙනුවෙන් මාක් චැප්මන් ලකුණු 76ක් රැස්කළ අතර මිචෙල් හේ ලකුණු 49ක් රැස්කළේය.
+
+පන්දු යැවීමේදී ජෙෆ්රි වැන්ඩසේ සහ මහීෂ් තීක්ෂණ කඩුලු 03 බැගින් දවාගත්හ.
+
+තරගය ජයගැනීමට ශ්‍රී ලංකා කණ්ඩායම හිමිව ඇති ඉල්ලක්ය ලකුණු 210කි.
+
+◼️
+
+[Data](articles/93620669.json)
+
+---
+
+### Three SriLankan Aircraft to industrial bugs
+
+*2024-11-17 19:16:29* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-තුනක්-කාර්මික-දෝෂවලට/11-413107) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+SriLankan Airlines cancels/delays flights due to technical issues. Three aircraft affected. Passengers informed about alternative arrangements. Further cancellations expected after midnight.
+
+🟩
+
+SriLankan Airlines spokesman said that three Sri Lankan aircraft were to canceled and had more flights delayed due to technical faults, due to technical bugs and several other flights were delayed due to technical bugs.
+
+The technical evaluation of the technical evaluation of each aircraft, where there will be a failure to maintain the technical maintenance of certain aircraft.The spokesman added.
+
+Accordingly, 6.35 pm on 11.35 pm on 11.35 pm in India, SriLankan Airlines to leave Sri Lanka - SriLankan Airlike UL to arrive at Chennai at 10.15 pm on 11/17 pm.- 124 flight has been canceled.
+
+In addition to 10.10 pm at New Delhi in India from New Delhi in India at 10.10 pmThe flight has also been canceled.
+
+SriLankan Airlines has taken steps to educate passengers from these aircraft, and the Sri Lankan Airlines, who want to engage in these flights to the destinations, to the destinations.Steps have been taken.
+
+...
+
+[Data](articles/dd00284b.json)
+
+[Extended Data](ext_articles/dd00284b.ext.json)
+
+---
+
+### පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ විමර්ශන අංශය විසුරුවා හැරේ
+
+*2024-11-17 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203469) · `si`
+
+පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ විමර්ශන අංශයේ ප්‍රධානියාව ඉවත් කර එම අංශය විසුරුවා තිබේ.
+
+පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ උසස් නිලධාරියෙකු සඳහන් කළේ පසුගිය රජය විසින් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ පනතට පටහැනිව විමර්ශන අංශයට ප්‍රධානියෙකු පත්කර ඇති බවට අනාවරණය වීමෙන් අනතුරුව මෙලෙස එම අංශය විසුරුවා ඇති බවය.
+
+අදාළ පත්වීම් සිදුකර ඇත්තේ මුදල් අමාත්‍යාංශයේ සහ කළමණාකරණ සේවා දෙපාර්තමේන්තුවේ කිසිදු අනුමැතියකින් තොරව බව සඳහන්ය.
+
+එම පත්කිරිම් සම්බන්ධයෙන් පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියේ වර්තමාන සභාපතිවරයා විසින් කළමණාකරණ සේවා දෙපාර්තමේන්තුවෙන් විමසා ඇති අතර එහිදී අනාවරණය වී ඇත්තේ එවැනි පත්කිරිමක් සඳහා අනුමැතියක් ලබා දි නොමැති බවය.
+
+එමෙන්ම පාරිභෝගික කටයුතු පිළිබඳ අධිකාරියට පත් කර සිටි මාධ්‍ය නිලධාරියා ද වර්තමාන සභාපතිවරයා විසින් ඉවත් කර තිබේ.
+
+පසුගිය රාජ්‍ය සමයේ හිටපු වෙළෙඳ අමාත්‍යවරයා විසින් මෙලෙස අත්තනෝමතික ලෙස පත් කර ඇති බවට අනිවරණය වී ඇත.
+
+එම පත්කිරීම් සම්බන්ධයෙන් වර්තමාන සභාපතිවරයා විසින් විමර්ශනයක්ද ආරම්භ කර ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/0b479377.json)
+
+---
 
 ### Four arrested over abduction linked to ‘Ava’ criminal gang
 
@@ -81,6 +173,24 @@ During this session, the President will provide a detailed explanation of the go
 [Data](articles/e9eda97e.json)
 
 [Extended Data](ext_articles/e9eda97e.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය ප්‍රවාහනය කළ යාත්‍රාවක් නාවික හමුදා භාරයට
+
+*2024-11-17 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203468) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව විසින් ගැඹුරු මුහුදේ සිදුකළ විශේෂ මෙහෙයුමකදී මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබූ මෙරට බහුදින ධීවර යාත්‍රාවක් සිය භාරයට ගත්බව නාවික හමුදා පවසයි.
+
+ශ්‍රී ලංකාවට බටහිර දෙසින් නාවික සැතපුම් 110ක් (කි.මී. 200ක්) පමණ ගැඹුරු මුහුදේදී මෙම විශේෂ මෙහෙයුම ඊයේ (16) සිදුකර තිබේ.
+
+මෙහිදී නාවික හමුදාව විසින් සැකකරුවන් පස් දෙනෙකු සිය භාරයට ගෙන ඇති අතර, එම බහුදින ධීවර යාත්‍රාවේ මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 40ක පමණ තොගයක් ඇති බවට නාවික හමුදාව සැක කරයි.
+
+එම බහුදින යාත්‍රාව සහ සැකකරුවන් වැඩිදුර පරික්‍ෂාව සහ ඉදිරි නීතිමය කටයුතු සඳහා නාවික හමුදාව විසින් මේ වනවිට ගොඩබිමට රැගෙන එමින් තිබේ.
+
+◼️
+
+[Data](articles/1d50ae6b.json)
 
 ---
 
@@ -2395,131 +2505,5 @@ The Government Analyst is to be produced before the law of the vehicle.
 [Data](articles/261fe462.json)
 
 [Extended Data](ext_articles/261fe462.ext.json)
-
----
-
-### Another luxury vehicle recovery
-
-*2024-11-17 09:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வாகனம்-மீட்பு/175-347316) · `ta`
-
-Luxury vehicle seized in Kandy: Police investigation reveals owner, a prominent fish trader. Vehicle confiscated based on IG's directive.
-
-🟩
-
-Another modern luxury protection vehicle, which is suspected to be illegal, has been seized by the Kandy headquarters police.
-
-Investigations have revealed that the vehicle was owned by a famous fish sales trader in Kandy.
-
-The vehicle was seized on the basis of a complaint issued directly to the Inspector General of Police.
-
-◼️
-
-[Data](articles/9518ce3c.json)
-
-[Extended Data](ext_articles/9518ce3c.ext.json)
-
----
-
-### Rs. 145,000 Treasury bill auction on 20th
-
-*2024-11-17 09:52:25* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--145--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-20-දා/11-413081) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Central Bank announces Treasury bill auction: Rs. 145,000 crore on Nov 20. Acceptance of bids at noon. Minimum bid amount not specified.
-
-🟩
-
-The Central Bank announced that a Treasury bill auction worth Rs. 20 million million million.
-
-The Treasury bills of Rs.
-
-The Central Bank announces that the acceptance of the bids for the auction will be held on November 20 noon and the minimum amount of Rs.
-
-◼️
-
-[Data](articles/cd42b498.json)
-
-[Extended Data](ext_articles/cd42b498.ext.json)
-
----
-
-### Shrined 'Eelam' in 2018 disappeared in 2024
-
-*2024-11-17 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198950) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil people focus on direct representation of national power. "Eelam" shrine appeared in 2018 but vanished in 2024. This event likely relates to political aspirations or cultural practices of the Tamil community. The exact meaning may require further context about "Eelam" and its significance in Tamil culture or politics.
-
-🟩
-
-"The current question is that the Tamil people are going to focus on the direct representations of the national people's power."
-
-◼️
-
-[Data](articles/737d8dbb.json)
-
-[Extended Data](ext_articles/737d8dbb.ext.json)
-
----
-
-### Woman trapped with 66 passports
-
-*2024-11-17 09:47:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/66-கடவுச்சீட்டுகளுடன்-சிக்கிய-பெண்/175-347315) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrested: Woman (42) & man (38) from Siyambalagoda. Found with 66 passports. Recruited people for jobs in Singapore, Hong Kong, Dubai, Romania. Scam victims paid for visas & interviews. Police discovered 20mg of ice at their residence.
-
-🟩
-
-Two persons, including a woman who had 66 passports in the Kahaduduwa area yesterday (16), were arrested.
-
-The arrested woman is 42 years old, the suspect is 38 years old and they are from Siyambalagoda.
-
-After working in Singapore, Hong Kong, Dubai and Romania, the suspect had come to the country in 2022 and lived in the area with the suspect.
-
-It has been revealed that they have received a passport of the persons, claiming that they have been offering foreign employment to various persons for nearly two and a half years.
-
-Subsequently, the agencies had applied for a visa and claiming to be invited to interview for the job, with the money from the persons for up to Rs.
-
-When the suspects checked the house where they were staying, 20 milligrams of ice was also found.
-
-◼️
-
-[Data](articles/31a33008.json)
-
-[Extended Data](ext_articles/31a33008.ext.json)
-
----
-
-### බඩෝවිට අසංකගේ ගෝලයෙක් අත්අඩංගුවට
-
-*2024-11-17 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203450) · `si`
-
-S:0
-
-🟩
-
-විදේශ ගතව සිටින සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත්ද්‍ර‍ව්‍ය ජාවාරම්කරුවෙකු වන බඩෝවිට අසංකගේ ගෝලයකු හෙරොයින් සමඟ අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම සැකකරු බඩෝවිට අසංක නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය බෙදාහරින ගෝලයකු බව අනාවරණය වී ඇති බව පොලීසිය පවසයි.
-
-The suspect has been arrested in a raid carried out by a team of officers of the Moratuwa camp officials in the Moratuwa camp.
-
-He has been recovered from five grams of heroin and 200 milligrams of heroin, and the Mount Lavinia has been handed over to the police station.
-
-◼️
-
-[Data](articles/91d4e00b.json)
-
-[Extended Data](ext_articles/91d4e00b.ext.json)
 
 ---

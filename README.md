@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 12:26:51**
+As of **2024-11-17 11:13:06**
 
 ## Newspaper Stats
 
-*Scraped **55,337** Articles*
+*Scraped **55,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,150 +13,34 @@ dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,312
-economynextcom | 3,355
+economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,176
-adaderanalk | 6,682
-tamilmirrorlk | 7,849
+adalk | 5,174
+adaderanalk | 6,681
+tamilmirrorlk | 7,848
 virakesarilk | 8,955
-adaderanasinhalalk | 9,572
+adaderanasinhalalk | 9,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,335 (100.0%) of 55,337 articles have been extended.
+55,320 (100.0%) of 55,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### The third group of IMF visited Sri Lanka
-
-*2024-11-17 11:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-மூன்றாவது-குழு-இலங்கை-விஜயம்/175-347327) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"IMF team led by Peter Broyer visits Sri Lanka Nov 17-23. Conducts 3rd review of Sri Lanka Economic Reform Program. Evaluates progress on economic stabilization and financial challenges. IMF provides financial assistance and policy guidance for Sri Lanka's economic recovery."
-
-🟩
-
-The International Monetary Fund (IMF) headed by Senior Ambassador to Sri Lanka Peter Broyer will visit Colombo from November 17 to 23.
-
-The IMF spokesman said that the group will conduct the third value of the Sri Lanka Economic Reform Program under the IMF's expanded financial facility.
-
-This review is an important step in evaluating the progress of reforms aimed at stabilizing Sri Lanka's economy and facing the financial challenges faced by the country.
-
-The International Monetary Fund Expanded Finance Provides Financial Assistance and Policy Guidelines to facilitate Sri Lanka's economic recovery efforts
-
-◼️
-
-[Data](articles/b55b6fec.json)
-
-[Extended Data](ext_articles/b55b6fec.ext.json)
-
----
-
-### නව ජනාධිපති ට්‍රම්ප් ගැන චීනයේ ස්ථාවරය
-
-*2024-11-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203455) · `si`
-
-එළැඹෙන ජනවාරි මාසයේදී විශ්‍රාම යාමට නියමිත අමෙරිකානු ජනාධිපති ජෝ බයිඩ්න් සහ චීන ජනාධිපති ෂී ජින්පින් අතර හමුවක් ඊයේ (16) සිදුවිය.
-
-ඒ පේරු හිදී පැවැත්වෙන ආසියා - පැසිෆික් ආර්ථික සහයෝගිතා සමුළුව අතරතුරදීය.
-
-එහිදී චීන ජනාධිපතිවරයා පවසා තිබුණේ තේරීපත්ව සිටින ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමඟ සහයෝගීතාවෙන් කටයුතු කිරීමට තමන් සූදානම් බවය.
-
-කෙසේ නමුත් ට්‍රම්ප්ගේ පළමු ධුරකාලය අතරතුර චීන - අමෙරිකා සබඳතා දැඩි සේ පළුඳු වූ අතර, කොවිඩ් යනු චීන වෛරසයක් බවට ට්‍රම්ප් පැවසීමෙන් පසුව එම සබඳතා බිඳවැටෙන මට්ටමට පැමිණියේය.
-
-මෙවර මැතිවරණ වේදිකාවේදීත් ට්‍රම්ප් පැවසුවේ තමන් බලයට පැමිණීමෙන් පසුව චීනයේ සියලු ආනයන මත සියයට 60ක බදු පනවන බවය.
-
-◼️
-
-[Data](articles/c5f882fa.json)
-
----
-
-### බොරැල්ලේ දී සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මරුට
-
-*2024-11-17 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203454) · `si`
-
-බොරැල්ල කනත්ත අසල කිතුල්වත්ත මාර්ගයේ දී අද (17) සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
-
-නාරාහෙන්පිට සිට කිතුල්වත්ත පාර දෙසට අධික වේගයෙන් පැමිණි මෝටර් රථයක් යතුරුපැදියක ගැටී මෙම අනතුර සිදුව තිබේ.
-
-අනතුරින් යතුරුපැදියේ පැමිණි පැදිකරු එම ස්ථානයේදීම මියගොස් ඇති බවද වාර්තා වේ.
-
-මෝටර් රථයේ දෙදෙනකු පැමිණ ඇති බවත් අනතුරින් පසු එක් අයෙකු මෝටර් රථයේ සවිකර තිබූ කැමරාව ගලවා පැන ගොස් ඇති බවත් වාර්තා වේ.
-
-◼️
-
-[Data](articles/1f182df9.json)
-
----
-
-### Special train services for commuters returning to Colombo
-
-*2024-11-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103558/special-train-services-for-commuters-returning-to-colombo) · `en`
-
-The Department of Railways has announced that special train services will be in operation today (17) and tomorrow (18), for the commuters returning to work after the 2024 General Election leave and the long weekend.
-
-The department said that special trains have been added to the service on these two days in addition to the regular scheduled train services.
-
-Accordingly, 7 special trains will be operated covering routes from Colombo Fort to Badulla, from Badulla to Colombo Fort, from Kandy to Colombo Fort and from Beliatta to Colombo Fort.
-
-The Department of Railways also stated that special train services will be operational from Colombo Fort to Hikkaduwa, Matara to Colombo Fort, and Galle to Colombo Fort during this period.
-
-◼️
-
-[Data](articles/3f9eb234.json)
-
-[Extended Data](ext_articles/3f9eb234.ext.json)
-
----
-
-### Cabinet Ministers sworn in tomorrow
+### அமைச்சரவை அமைச்சர்கள் நாளை பதவிப்பிரமாணம்
 
 *2024-11-17 11:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-அமைச்சர்கள்-நாளை-பதவிப்பிரமாணம்/175-347326) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-New Cabinet Ministers to be sworn in tomorrow at 10 AM. President Anura Kumara Dissanayake will preside over the ceremony at the Presidential Secretariat.
-
-🟩
-
-The Presidential Media Division (PMD) said that the new government's cabinet ministers will be sworn in tomorrow at 10 am in the presence of President Anura Kumara Dissanayake at the Presidential Secretariat.
+புதிய அரசாங்கத்தின் அமைச்சரவை அமைச்சர்கள் நாளை நவம்பர் 18 ஆம் திகதி காலை 10 மணிக்கு ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுரகுமார திஸாநாயக்க முன்னிலையில் பதவிப்பிரமாணம் செய்யவுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
 
 ◼️
 
 [Data](articles/f92dc079.json)
-
-[Extended Data](ext_articles/f92dc079.ext.json)
-
----
-
-### Cabinet sworn in tomorrow
-
-*2024-11-17 11:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-හෙට-දිවුරුම්-දෙයි/11-413085) · `si`
-
-New cabinet sworn in tomorrow: 25 ministers, some posts may have 2 deputies. No state ministers this year. President Anura Kumara Dissanayake explains appointments based on ministry subjects.
-
-🟩
-
-The new cabinet is to be sworn in tomorrow. The swearing in was taken at the Presidential Secretariat tomorrow morning.. New government ministers will be limited to 25. Deputy Ministers are to be appointed to certain Ministries and state minister will not be given this year.
-
-President Anura Kumara Dissanayake said that according to the number of subjects belonging to the ministries, some ministries will have to appoint two deputy ministers.
-
-◼️
-
-[Data](articles/b87ca854.json)
-
-[Extended Data](ext_articles/b87ca854.ext.json)
 
 ---
 
@@ -258,48 +142,6 @@ The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-t
 
 ---
 
-### Sri Lanka central bank’s net reserves brought to almost zero by Sept 24
-
-*2024-11-17 10:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-banks-net-reserves-brought-to-almost-zero-by-sept-24-188229/) · `en`
-
-ECONOMYNEXT – Net foreign assets of Sri Lanka’s central bank have been brought to almost zero by September 2024, through consistent deflationary open market operations, after rates were hiked in April 2022.
-
-By September 2024, the net foreign assets of the central bank were negative by only 175 million dollars from a peak of negative 4.6 billion US dollars at the height of the last currency crisis in August 2024, which ended in external sovereign default.
-
-The central bank’s foreign reserves were a negative 4.0 billion dollars in March 2022 when the central bank hiked rates to contain domestic credit.
-
-But due to reserves loaned by India through the Asian Clearing Union mechanism, the central bank continued to sell down reserves and re-finance domestic credit through inflationary open market or standing liquidity facilities extending the balance of payments deficits.
-
-...
-
-[Data](articles/72a3c215.json)
-
-[Extended Data](ext_articles/72a3c215.ext.json)
-
----
-
-### New government cabinet is sworn in tomorrow
-
-*2024-11-17 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203453) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"New govt cabinet sworn in tomorrow. President Anura Kumara Dissanayake to take oath at 10:00 AM."
-
-🟩
-
-Accordingly, President Anura Kumara Dissanayake is to be sworn in before President Anura Kumara Dissanayake at 10.00 am tomorrow.
-
-◼️
-
-[Data](articles/7d15ca7b.json)
-
-[Extended Data](ext_articles/7d15ca7b.ext.json)
-
----
-
 ### New laws are implemented against corruption
 
 *2024-11-17 10:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழலுக்கு-எதிராக-புதிய-சட்டங்கள்-அமுலாகும்/175-347322) · `ta`
@@ -317,28 +159,6 @@ Moreover, even if the existing laws are not adequate, new laws will be prepared 
 [Data](articles/b3d6d178.json)
 
 [Extended Data](ext_articles/b3d6d178.ext.json)
-
----
-
-### IMF representatives to visit the island today
-
-*2024-11-17 10:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203452) · `si`
-
-IMF delegation arrives in Sri Lanka today under elderly loan facility.
-
-🟩
-
-A delegation from the IMF is due to arrive in Sri Lanka today (17).
-
-Head of the Head of Meeting of Senior Mission Senior Mission (IMF) team is due to arrive in the island.
-
-The delegation is due to arrive in the island, which is under the elderly loan facility given to Sri Lanka by the International Monetary Fund.
-
-◼️
-
-[Data](articles/b39ab811.json)
-
-[Extended Data](ext_articles/b39ab811.ext.json)
 
 ---
 
@@ -400,9 +220,9 @@ A team from the International Monetary Fund (IMF), led by the Senior Mission Chi
 
 The team will visit the country to conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF), IMF Spokesperson said.
 
-The team, led by IMF Senior Mission Chief Peter Breuer, will assess Sri Lanka’s economic policies, progress on ongoing reforms, and the implementation of previous agreements with the IMF.
+Furthermore, it is reported that the visiting IMF delegation will hold extended discussions focused on the new government’s economic policy, following which the fourth tranche of the bailout package for Sri Lanka will be approved.
 
-Upon successful completion of the review, the IMF is expected to release the next installment of the loan to Sri Lanka. The IMF had approved a 2.9 billion dollar Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+The third tranche of about USD 336 million was released to Sri Lanka upon successful completion of the review by IMF in June this year.
 
 ◼️
 
@@ -439,34 +259,6 @@ He said that the decision was not easily taken and that this was the right decis
 [Data](articles/4e9cb2b9.json)
 
 [Extended Data](ext_articles/4e9cb2b9.ext.json)
-
----
-
-### Eight killed in China Stress
-
-*2024-11-17 10:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203451) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-8 killed, 17 injured in Chinese educational institution incident. 21-year-old student arrested. Suspect failed exams, foreign media reports.
-
-🟩
-
-Eight people died in an educational institution in an educational institute in Vaukshi, China.
-
-Foreign media reports that 17 of them were injured.
-
-A 21-year-old student of the Educational Institute has been arrested in connection with the incident.
-
-The suspect has reportedly failed the failure of the aforesaid Education and the copyrife, foreign media reports say.
-
-◼️
-
-[Data](articles/372a740a.json)
-
-[Extended Data](ext_articles/372a740a.ext.json)
 
 ---
 
@@ -586,30 +378,6 @@ When the suspects checked the house where they were staying, 20 milligrams of ic
 
 ---
 
-### බඩෝවිට අසංකගේ ගෝලයෙක් අත්අඩංගුවට
-
-*2024-11-17 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203450) · `si`
-
-S:0
-
-🟩
-
-විදේශ ගතව සිටින සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත්ද්‍ර‍ව්‍ය ජාවාරම්කරුවෙකු වන බඩෝවිට අසංකගේ ගෝලයකු හෙරොයින් සමඟ අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම සැකකරු බඩෝවිට අසංක නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය බෙදාහරින ගෝලයකු බව අනාවරණය වී ඇති බව පොලීසිය පවසයි.
-
-The suspect has been arrested in a raid carried out by a team of officers of the Moratuwa camp officials in the Moratuwa camp.
-
-He has been recovered from five grams of heroin and 200 milligrams of heroin, and the Mount Lavinia has been handed over to the police station.
-
-◼️
-
-[Data](articles/91d4e00b.json)
-
-[Extended Data](ext_articles/91d4e00b.ext.json)
-
----
-
 ### Eight killed in second mass attack in China this week
 
 *2024-11-17 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103554/eight-killed-in-second-mass-attack-in-china-this-week) · `en`
@@ -627,58 +395,6 @@ That incident touched off a rare online discussion over the mental health of Chi
 [Data](articles/5de7a167.json)
 
 [Extended Data](ext_articles/5de7a167.ext.json)
-
----
-
-### UNP comes from elephant sign for future elections
-
-*2024-11-17 09:27:56* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-ඉදිරි-මැතිවරණ-සඳහා-අලියා-ලකුණින්-එයි/11-413080) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"UNP decides to contest under elephant symbol in future elections. Party Chairman Vajira Abeywardena discusses strategy with leader Ranil Wickremesinghe. Emphasizes unity among political parties and support for the government's victory. Expresses confidence in the current administration's ability to address challenges and fulfill public expectations."
-
-🟩
-
-The United National Party (UNP) has decided to contest with the United National Party should contest under the elephant sign for the next election. Party Chairman Vajira Abeywardena says that the present leader leader Ranil Wickremesinghe has been discussing this regard.
-
-"In some cases of the present paddy, the United National Party is raining to work at the time of failing to pass the procedures made by them.
-
-And if we think, we came forward with a number of political parties that comprised of many political parties. We must remember two things in the honey. One is avoided by the country's largest voting. A large dies are mainly involved in losed political parties.
-
-There may be things they hope,. Also, the government leading the President has made a historic victory. We offer our praise on that. And this is a special occasion for Sri Lanka. The presence of the presence, the presence of this, has achieved a victory in the history of Sri Lanka.. We need to be happy as Sri Lankans.
-
-...
-
-[Data](articles/afc3b861.json)
-
-[Extended Data](ext_articles/afc3b861.ext.json)
-
----
-
-### Here are the women who come to represent Parliament
-
-*2024-11-17 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203449) · `si`
-
-20 women elected to 10th Sri Lankan Parliament: 19 from National List, 2 from Districts. Key figures include Dr. Harini Amarasuriya, Kaushalaya Ariyaratne, and Ambika Wijesinghe.
-
-🟩
-
-21 women have been elected to represent the 10th parliament.
-
-Of them, 19 of them are of the national propagation and two have been conical.
-
-Accordingly, Dr. Harain Amarasuriya, Kaushalu Ariyaratne, Samanni Kalahetha, Sithika Pakaraja, Ambika Wijesinghe, Ambika Samuel, Chathuru GanganiThe women of Nilassesha Gamage, Sagarica Athand and Deepthihawoman have been elected to Parliament representing the national folk force.
-
-Meanwhile, former parliamentarian Ruin Kumari and Chamindrani Kiriella have been elected representing the harmony community.
-
-◼️
-
-[Data](articles/2fda9745.json)
-
-[Extended Data](ext_articles/2fda9745.ext.json)
 
 ---
 
@@ -830,100 +546,6 @@ In addition, special train services will be held from Colombo Fort to Hikkadu, M
 
 ---
 
-### Sri Lanka - New Zealand Second ODI today
-
-*2024-11-17 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203448) · `si`
-
-Sri Lanka vs New Zealand 2nd ODI today at Pallekele Stadium. Sri Lanka leads 1-0. Win today to clinch series. Sri Lanka won here last in 2012 under Mahela Jayawardene.
-
-🟩
-
-The New Zealand team and the Sri Lankan team will be played today at Pallekele Stadium today (17).
-
-The match will be held at 2.30 pm this afternoon.
-
-Sri Lanka won the first match of the Sri Lanka-New Zealand ODI series by 45 runs.
-
-Accordingly, Sri Lanka is in the forefront of a drop of 3 matches.
-
-If Sri Lanka wins the match today, the One ODI will win the one ODI win.
-
-Sri Lanka has been recorded against New Zealand in 2012, with Mahela Jayawardene's leadership.
-
-According to the Sri Lanka team today, Sri Lanka will be able to win the ODI series winning over 12 years after 12 years.
-
-Sri Lanka have played 38 runs in the Pallekele Stadium.  ඉන් තරග 21ක් ජයගෙන ඇති අතර තරග 16ක් පරාජයට  පත්ව ඇත.
-
-New Zealand have played three ODIs at Pallekele Stadium, while they defeated one match.
-
-◼️
-
-[Data](articles/faa40b79.json)
-
-[Extended Data](ext_articles/faa40b79.ext.json)
-
----
-
-### New Chancay Harbor opens new Chancay
-
-*2024-11-17 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203447) · `si`
-
-Chancay Harbor opening: China-Peru joint project enhances regional connectivity and trade.
-
-🟩
-
-China and Peru opened the Chancay port project, which was built by China and Peru, to combine the 'one route' program.
-
-About 500 years ago, Perus, the ancestors of the Andes, built the port, was built in the Andes, which was built through its northern and southern regions.
-
-It is also said that the port project will contribute greatly to the development of Peru.
-
-It is significant that the transportation of goods is to be easily improved and facilitated by China and Latin American region through China and Latin American region.
-
-President of China She Jin Pin, President of China, and the President of Peru Boluarte has joined the video technology to open the port territory.
-
-This year's official visit to the Peru, this year's official visit to Peru, Mr. Shi Jinping joined the third official visit to the Chinese president.
-
-Speaking, the Chinese President said that the current chancay port is becoming a new starting point for the New Achca Trail.
-
-...
-
-[Data](articles/54587983.json)
-
-[Extended Data](ext_articles/54587983.ext.json)
-
----
-
-### USS Michael Murphy to Colombo
-
-*2024-11-17 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203446) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US Navy destroyer USS Michael Murphy arrived in Colombo. Commander Jonathan commands the ship. The Sri Lankan Navy followed traditions during the visit. The vessel will depart today after fulfilling supply and service needs.
-
-🟩
-
-USS Michael Muichael Muichael Murphy of US Naval Ship arrives at the Port of Colombo yesterday (16).
-
-The Sri Lankan Navy had acted in accordance with the Navy Traditions.
-
-Arleigh Burke Class Guided Missile Destroyer is a 'USS Michael Muichael Muichael Muichael Muichael Muichael Muicy Murphy'.
-
-Commander Jonathan as Commanding Officer of the Ship. Greenwald works.
-
-Further, following the supplies and service requirements, the 'USS Michael Murphy' is due to leave the island today (17).
-
-◼️
-
-[Data](articles/14a7f11d.json)
-
-[Extended Data](ext_articles/14a7f11d.ext.json)
-
----
-
 ### 75 millimeters of rain today
 
 *2024-11-17 08:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-75-மில்லி-மீற்றர்-மழை/175-347311) · `ta`
@@ -993,30 +615,6 @@ Showers will occur at a morning in the Northern and Eastern Provinces.
 [Data](articles/6bae013f.json)
 
 [Extended Data](ext_articles/6bae013f.ext.json)
-
----
-
-### Negligence is the lack of a child's suicide
-
-*2024-11-17 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203445) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Child dies attempting to fetch water from well in Mathuwa, Mamaduwa area. Incident attributed to negligence. Male victim, local resident.
-
-🟩
-
-The victim was a maleman who was resident in Mathuwa, Mamaduwa area.
-
-When the child had to take water at the morning, he died in the well, trying to take it due to falling the bucket.
-
-◼️
-
-[Data](articles/5efe41ec.json)
-
-[Extended Data](ext_articles/5efe41ec.ext.json)
 
 ---
 
@@ -2451,5 +2049,385 @@ Authorities have identified the suspect, the police said, noting that Ahungalla 
 [Data](articles/0fd5fe21.json)
 
 [Extended Data](ext_articles/0fd5fe21.ext.json)
+
+---
+
+### I will unite all the Tamil members in Parliament and handle the public issues as the same team - wealth.
+
+*2024-11-16 14:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/198924) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tamil MPs unite under TNA to address public issues collectively. Focus on ethnic problems and development. Aim to resolve Tamil political prisoner releases, fisherman issues, and address disappearances.
+
+🟩
+
+The Democratic Tamil National Alliance (TNA) Wanni District Parliamentarian Selvam Adakkalanathan said that we are working together to unite all the Tamil MPs and act as the only team in parliament.
+
+He was speaking at a media briefing held at the office in Mannar on Saturday morning.
+
+We gathered votes to the people demanding focus on the ethnic problem and the development. We have also said that we are creating an environment where the government is working with the government on the two issues.
+
+We will focus on both matters. The aim is to listen to the grievances of the people and improve the villages.
+
+Moreover, all the Tamil MPs elected during the parliamentary election this time are taking steps to deal with public issues as a single team in parliament.
+
+As the president said, the release of Tamil political prisoners and their relations on the disappearances are demanding justice through the struggle.
+
+...
+
+[Data](articles/63449728.json)
+
+[Extended Data](ext_articles/63449728.ext.json)
+
+---
+
+### The Government's Policy Declaration November 21
+
+*2024-11-16 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198913) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Pres. Anura Kumara Dissanayake inaugurates 10th Parliament Nov 21. Delivers gov't policy speech at 3:00 PM, as per Constitutional Article 33(2).
+
+🟩
+
+President Anura Kumara Dissanayake, who will be inaugurating the first session of the 10th Parliament to be held on November 21st, will deliver the new government's policy declaration.
+
+The President will inaugurate the first session at 3.00 pm and will deliver the new government's policy speech in accordance with the authority given to the President under Article 33 (2) of the Constitution.
+
+◼️
+
+[Data](articles/b929751a.json)
+
+[Extended Data](ext_articles/b929751a.ext.json)
+
+---
+
+### Sri Lanka’s President to elect 25-member Cabinet on Monday
+
+*2024-11-16 14:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103542/sri-lankas-president-to-elect-25-member-cabinet-on-monday) · `en`
+
+Sri Lankan President Anura Kumara Dissanayake will appoint a new Prime Minister and the Cabinet on Monday (Nov. 18) after his National People’s Power (NPP) secured a record-breaking victory in the snap general election, the party’s senior spokesman Tilvin Silva said.
+
+“We will be appointing the Cabinet on Monday (18), limited to 25. It could be even less – 23 or 24. There will be scientific allocation of subjects for the ministries,” he added.
+
+The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-thirds majority, securing a record-breaking 159 seats in total.
+
+However, the inaugural session of the Tenth Parliament, comprising of members elected through the 2024 General Election held on November 14, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President, according to the Parliamentary Communications Department.
+
+◼️
+
+[Data](articles/c7bacac4.json)
+
+[Extended Data](ext_articles/c7bacac4.ext.json)
+
+---
+
+### Yall. Police arrested a long -term leak manufacturer in Vaddukoddai
+
+*2024-11-16 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198922) · `ta`
+
+Police arrest 21-year-old suspect in Vaddukoddai for manufacturing leaks. Found with equipment and chemicals. Case being taken to Mallakam court.
+
+🟩
+
+The Vaddukoddai police have been raided by the Vaddukoddai police this morning.
+
+A 21 -year -old suspect has been arrested with two large containers, two small containers and two copper coil used for leakage production with 166 liters of Koda and 10.5 liters.
+
+Vaddukoddai Police Station Superintendent of Police CIKSta. Ratnayake (No. 45714) PC Wijeratne (No. 83244) PS Ratnayake (No. 75227) PC Patraja (No. 22872) PC Migress (No. 91737). The arrest was carried out by a police team comprising Perera (No. 102046).
+
+After further inquiries into the suspect, the police are taking steps to make him in the Mallakam court.
+
+◼️
+
+[Data](articles/2d461d51.json)
+
+[Extended Data](ext_articles/2d461d51.ext.json)
+
+---
+
+### Approval of the Constitutional Council to appoint Murmo Fernando as CJ
+
+*2024-11-16 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203428) · `si`
+
+Constitutional Council approves appointment of Murdo Fernando as Chief Justice. Buddha Samara Hyupi Fernando previously served as acting Chief Justice since October 10. Murdo Fernando's career includes roles as Deputy Solicitor General from 1985 to 1997.
+
+🟩
+
+The Constitutional Council has approved the recommendation to appoint Mrs. Murdu Fernando as the Chief Justice of the country.
+
+Supreme Court Justice 'Buddha Samara Hyupi Fernando' was sworn in as the acting Chief Justice in the country on October 10.
+
+In 1985, the Attorney General's Department had joined the Attorney General's Department in 1997 and was a Deputy Solicitor General.
+
+◼️
+
+[Data](articles/7a30e633.json)
+
+[Extended Data](ext_articles/7a30e633.ext.json)
+
+---
+
+### From 3% to 61%: Six major records NPP broke in historic election victory
+
+*2024-11-16 14:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/103541/from-3-to-61-six-major-records-npp-broke-in-historic-election-victory) · `en`
+
+The 2024 General Election marked a resounding victory for the National People’s Power (NPP) led by President Anura Kumara Dissanayake, setting unprecedented records in Sri Lanka’s electoral history.
+
+The NPP secured 6,863,186 votes, the highest ever obtained by a political party in a general election, surpassing the 6,853,690 votes won by the Sri Lanka Podujana Peramuna (SLPP) in 2020. This also accounted for a record-breaking 61.56% of the total vote, overtaking the previous high of 60.33% recorded by the United People’s Freedom Alliance (UPFA) in 2010.
+
+The NPP won 21 of the 22 electoral districts, losing only Batticaloa, breaking the UPFA’s 2010 record of victories in 19 districts. Furthermore, the party claimed 152 constituencies, shattering the UPFA’s 2010 record of 136.
+
+...
+
+[Data](articles/874b1196.json)
+
+[Extended Data](ext_articles/874b1196.ext.json)
+
+---
+
+### CC confirms Murdhu Fernando as Chief Justice
+
+*2024-11-16 14:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103540/cc-confirms-murdhu-fernando-as-chief-justice) · `en`
+
+The Constitutional Council has approved the recommendation to appoint Justice Murdu Fernando as the Chief Justice.
+
+Justice Fernando took oath as the Acting Chief Justice before President Anura Kumara Dissanayake on October 10, 2024.
+
+Justice Fernando is the second woman to hold the position of Chief Justice in Sri Lanka’s history, after Shirani Bandaranayake in 2011.
+
+Fernando joined the Attorney General’s Department as a state counsel, where she served for over 30 years having been promoted to senior state counsel, deputy solicitor general, additional solicitor general and senior additional solicitor general.
+
+She was appointed a President’s Counsel while serving as an additional solicitor general.
+
+She was later appointed as a Justice of the Supreme Court by then President Maithripala Sirisena in March 2018.
+
+◼️
+
+[Data](articles/e86916ab.json)
+
+[Extended Data](ext_articles/e86916ab.ext.json)
+
+---
+
+### A Russian woman raping in Ahungalla
+
+*2024-11-16 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203427) · `si`
+
+Russian woman reports rape at Ahungalla hotel. Investigation underway after November incident.
+
+🟩
+
+A Russian national has been raped at a famous hotel in Ahungalla.
+
+Accordingly, the suspect is already under investigation.
+
+A Russian national 41-year-old woman had come to a famous hotel in Ahungalla last November.
+
+The woman's birthday was on the 12th of November.
+
+On the date, she had celebrated it and dried up and went to bed at the reserved room.
+
+In the meantime, he said she had been forcibly raped by a person who came to her room.
+
+Later, the woman has lodged a complaint with the Ahungalla Police regarding the incident, the police have identified the suspect.
+
+◼️
+
+[Data](articles/aeffe11e.json)
+
+[Extended Data](ext_articles/aeffe11e.ext.json)
+
+---
+
+### History of the President's Policy Statement in Parliament
+
+*2024-11-16 13:26:21* · [`adalk`](https://www.ada.lk/opinion/ජනාධිපති-ආණ්ඩුවේ-ප්‍රතිපත්ති-ප්‍රකාශය-පාර්ලිමේන්තුවේ-ඉදිරිපත්-කිරීම-ගැන-ඉතිහාසය/2-413073) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Presidential policy statements in Parliament: Constitutional mandate, presented annually, analyze government policies, suspended Parliament during emergency, first delivered 1947, debated since 1978, last by Gotabhaya Rajapaksa 2020.
+
+🟩
+
+According to the Constitution 33 (a) of the Constitution, the government has entrusted with the authority to preserve the government's policy statement in Parliament and the Constitution of the Constitution.
+
+Accordingly, the President has made the government's policy statement at the beginning of every new congregation in parliament.. The President presents a detailed analysis of his government's public opinion by his policy statement by its policy statement to parliament and public. In the past, this was known as the monastery. It was presented by the Governor.
+
+The first congregation of the First Parliament is by October 14, 1947. It was ceremonially opened and presided over by Governor Sir Henry Mason Mason Moore. He was delivered by the speech and was approved by the Parliament and adopted the proposal.
+
+...
+
+[Data](articles/29b91b23.json)
+
+[Extended Data](ext_articles/29b91b23.ext.json)
+
+---
+
+### Mahindananda retires from politics
+
+*2024-11-16 13:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203426) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Mahindananda Aluthgamage retires from politics. He cites the general election results showing Kandy district no longer needs his service. He bows to public decision, thanks supporters, and credits the Tooth Relic for his political journey.
+
+🟩
+
+He said that former minister Mahindananda Aluthgamage is retirected from politics today (16).
+
+He said the general election of the general election has been shown that the people of the Kandy district need their service anymore.
+
+He added that he decided to retire from politics.
+
+"I bow down to the decision of the people of Kandy district. Decided to retire from politics. I personally thank everyone who brought me to politics. The Tooth Relic is helpful. "
+
+◼️
+
+[Data](articles/5193e8b7.json)
+
+[Extended Data](ext_articles/5193e8b7.ext.json)
+
+---
+
+### Namal is going to Parliament
+
+*2024-11-16 13:13:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றம்-செல்கின்றார்-நாமல்/175-347289) · `ta`
+
+Namal Rajapaksa elected to Sri Lanka Parliament via National List. Party general secretary Sakara Kariyawasam confirms.
+
+🟩
+
+According to the results of parliamentary elections, the party's national organizer Namal Rajapaksa will be sworn in as the National List Member of the Sri Lanka PA.
+
+The party's general secretary, Sakara Kariyawasam, said this at a media briefing held today (16). Remble
+
+◼️
+
+[Data](articles/8803fdaf.json)
+
+[Extended Data](ext_articles/8803fdaf.ext.json)
+
+---
+
+### Namal as a member of the National List of Sri Lanka PA
+
+*2024-11-16 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/198914) · `ta`
+
+Namal Rajapaksa appointed MP via SLPP National List.
+
+🟩
+
+It has been decided to appoint Namal Rajapaksa as a Member of Parliament through the National List of the Sri Lanka PA (SLPP) party.
+
+Speaking at a media briefing held this morning (16), the general secretary of the Sri Lanka Peoples Alliance (PA) Sagara Kariyawasam said this.
+
+◼️
+
+[Data](articles/21fb551d.json)
+
+[Extended Data](ext_articles/21fb551d.ext.json)
+
+---
+
+### “Voters have spoken”: Mahindananda announces retirement from politics
+
+*2024-11-16 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103539/voters-have-spoken-mahindananda-announces-retirement-from-politics) · `en`
+
+Former Minister Mahindananda Aluthgamage announced his retirement from active politics during a press conference held at the Mahindananda Aluthgamage Foundation’s office in Nawalapitiya this morning (16).
+
+Reflecting on his extensive political journey, Aluthgamage highlighted that his family had been politically active in the Nawalapitiya constituency for seven decades, with his own involvement spanning over 30 years.
+
+However, he stated that the outcome of the recent General Election indicated that the people of the Kandy District no longer required his services, leading to his decision to step away from politics.
+
+In the 2024 General Election held on Thursday (14), Aluthgamage contested from the New Democratic Front (NDF), under the symbol of the ‘gas cylinder’, and secured only 20,401 votes in the district. This was a stark contrast to his previous performances, where he garnered nearly 200,000 votes in previous elections.
+
+...
+
+[Data](articles/8c1c06d9.json)
+
+[Extended Data](ext_articles/8c1c06d9.ext.json)
+
+---
+
+### Mahindananda has retired from politics
+
+*2024-11-16 12:48:59* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දානන්ද-අලුත්ගමගේ-දේශපාලනයෙන්-සමුගනි/11-413072) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Minister Mahindananda Aluthgamage retires from politics after 7 decades. He criticizes lack of public involvement in Kandy district elections. Aluthgamage claims his party didn't receive expected support, leading to his retirement.
+
+🟩
+
+Former Minister Mahindananda Aluthgamage has retired from politics (16), holding a press conference at Nawalapitiya Mahindananda's based Office.
+
+Mahindananda Aluthgamage said that the general election of the Nawalapitiya electorate for seven decades is that the people of the Kandy district has not been involved in politics..
+
+The new Democratic Front has contested the Kandy District from the new Democratic Front and has been given to the Kandy district, because they have not received the number of surpasses in the first elections.Mahindananda Aluthgamage said he was retrieved from politics.
+
+Mahindananda Aluthgamage said that they were in length and tolerate the votes of their seat for their electorates, while they were continuing in their political journey.
+
+◼️
+
+[Data](articles/7a196d71.json)
+
+[Extended Data](ext_articles/7a196d71.ext.json)
+
+---
+
+### SLPP nominates Namal Rajapaksa for its only National List seat
+
+*2024-11-16 12:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/103538/slpp-nominates-namal-rajapaksa-for-its-only-national-list-seat) · `en`
+
+The Sri Lanka Podujana Peramuna (SLPP) has decided to nominate Namal Rajapaksa as an MP through the party’s National List, SLPP General Secretary Sagara Kariyawasam said.
+
+Kariyawasam announced this while joining a press briefing held this morning (16).
+
+The SLPP managed to secure only 3 seats including one bonus seat (national list) in the Parliament through the results of the 2024 General Election, which was held on November 14.
+
+The number of total votes obtained by the SLPP, once the largest party in Parliament from 2020 to 2024, was only 350,429 (3.14%) in this year’s parliamentary poll.
+
+Meanwhile, Namal Rajapaksa, who also contested in the 2024 Presidential Election which was held two months ago, had managed to obtain only 342,781 votes from across the country, which was 2.57% of the total votes.
+
+...
+
+[Data](articles/5f2997f4.json)
+
+[Extended Data](ext_articles/5f2997f4.ext.json)
+
+---
+
+### The city was flooded with Akkurana!
+
+*2024-11-16 12:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/198905) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kandy district floods: Heavy rains caused flooding in Akuranna town on A-09 road between Kandy and Jaffna.
+
+🟩
+
+Heavy rains in some areas in the Kandy district have been flooded yesterday (15) at the Akuranna town on A -09 road in Kandy - Jaffna.
+
+◼️
+
+[Data](articles/1c6942e5.json)
+
+[Extended Data](ext_articles/1c6942e5.ext.json)
 
 ---

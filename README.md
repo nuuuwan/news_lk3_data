@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 04:25:46**
+As of **2024-11-18 04:13:04**
 
 ## Newspaper Stats
 
-*Scraped **55,470** Articles*
+*Scraped **55,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
 economynextcom | 3,359
-dailyftlk | 3,795
+dailyftlk | 3,793
 dailymirrorlk | 4,733
 adalk | 5,196
 adaderanalk | 6,693
@@ -26,59 +26,11 @@ adaderanasinhalalk | 9,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,468 (100.0%) of 55,470 articles have been extended.
+55,468 (100.0%) of 55,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### SJB expresses readiness to fulfil Opposition role
-
-*2024-11-18 04:15:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-expresses-readiness-to-fulfil-Opposition-role/56-769368) · `en`
-
-SJB’s Ranjith Madduma Bandara says party will monitor Govt.’s actions to ensure promises to people are fulfilled
-
-Calls on Govt. to enact anti-corruption laws and implement them immediately
-
-Claims SJB will safeguard democracy and rights while holding NPP Govt. accountable
-
-Imtiaz Bakir Marker says public ignored SJB policies and voted NPP to challenge existing political culture
-
-Notes party, despite recent setbacks, is analysing all shortcomings in order to improve going forward
-
-Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has emphasised that the SJB is prepared to fulfil its responsibilities as a strong Opposition in a country facing significant economic challenges.
-
-Addressing a press conference in Colombo yesterday, Madduma Bandara noted that while the SJB has now emerged as the main party of the Opposition, it comes with the opportunity and responsibility to carry out a significant task for the country.
-
-...
-
-[Data](articles/9d173069.json)
-
----
-
-### Will not retire from politics: Mahinda Rajapaksa
-
-*2024-11-18 04:07:48* · [`dailyftlk`](https://www.ft.lk/news/Will-not-retire-from-politics-Mahinda-Rajapaksa/56-769367) · `en`
-
-Expresses optimism about NPP’s ability to govern and says new people should come in
-
-Reveals discussions are ongoing within his party about strategies to restore and rebuild its position
-
-Expresses personal regrets about former President Ranil Wickremesinghe and his group but dismisses SLPP is in discussion with them
-
-Former President and Sri Lanka Podujana Peramuna (SLPP) leader Mahinda Rajapaksa has confirmed that he will not step away from politics following his party’s devastating loss in the recent Parliamentary Election.
-
-The SLPP, which secured 145 seats in the last Parliament, was reduced to just three this time.
-
-However, speaking to journalists yesterday, Rajapaksa dismissed the idea of retirement. “I will not say goodbye like that,” he remarked in response to a question about his future in politics.
-
-Acknowledging the victory of the National People’s Power (NPP), Rajapaksa expressed optimism about their ability to govern. “It’s good they won,” he said. “New people should come in.”
-
-...
-
-[Data](articles/6af415aa.json)
-
----
 
 ### Sri Lanka’s maritime transformation: Strategic vision for 2024-2029
 
@@ -2475,5 +2427,67 @@ Accordingly, the number of new MPs in the Parliament will exceed 150.
 [Data](articles/5fe37085.json)
 
 [Extended Data](ext_articles/5fe37085.ext.json)
+
+---
+
+### US security contribution to Sri Lanka will be strong - US embassy official
+
+*2024-11-17 12:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/198977) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+US embassy official: Stronger security contribution for Sri Lanka. Travel restrictions lifted due to decreased foreign targeting threat. US working with government on security measures. Travel warning withdrawn but citizens advised to remain vigilant.
+
+🟩
+
+The US contribution to the security of Sri Lankans and other nationalities coming to Sri Lanka will be stronger. An official of the US embassy said that the government would work with the government to face severe security threats, such as the Augkam Kutta incident.
+
+Immediate travel restrictions have been removed as the threat of targeting foreigners in the southeastern part of Sri Lanka has declined.
+
+However, further information on two suspects, including the conspiracy of President -elected Donald Trump, has been made available in the progress of the investigation into the Iranian Revolutionary Police forces, the Afghan citizen Burhad Shakari, an Afghan citizen Burhad Shakari.
+
+According to information provided by suspects to US security forces, Sri Lanka's attack on Israelis. The next step was to take security measures with the Sri Lankan government through the US embassy in Sri Lanka.
+
+...
+
+[Data](articles/7f9d8021.json)
+
+[Extended Data](ext_articles/7f9d8021.ext.json)
+
+---
+
+### State Building in Borella
+
+*2024-11-17 12:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203457) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Borella: Government building turned drug hub. Residents complain about safety and neglect. Authorities accused of failing to maintain public spaces.
+
+🟩
+
+The residents murmured that a government building in Borella, Ruhunu Art and a government building has become a betrayal of various abuses.
+
+It is a government building located in front of the Borella Youth Services Council.
+
+The building was removed from using a few years ago as a Grama Niladhari office.
+
+The building has become a center of drug users in the area with the abandonment of the area.
+
+Residents of the area say that it is even risky at night when drug abuse is constantly.
+
+When we reach this building, there was a heavy stink, and a woman was lied to be assumed that the drug was used.
+
+Is it not the responsibility of the authorities to become a place of suburbs, such as a suburban area such as a suburban area like a place of suburbs.
+
+◼️
+
+[Data](articles/8631448e.json)
+
+[Extended Data](ext_articles/8631448e.ext.json)
 
 ---

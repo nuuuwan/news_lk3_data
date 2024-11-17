@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 09:08:02**
+As of **2024-11-17 11:13:06**
 
 ## Newspaper Stats
 
-*Scraped **55,303** Articles*
+*Scraped **55,321** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,312
 economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,171
-adaderanalk | 6,677
-tamilmirrorlk | 7,837
+adalk | 5,174
+adaderanalk | 6,681
+tamilmirrorlk | 7,848
 virakesarilk | 8,955
 adaderanasinhalalk | 9,561
 
@@ -26,25 +26,447 @@ adaderanasinhalalk | 9,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,287 (100.0%) of 55,303 articles have been extended.
+55,320 (100.0%) of 55,321 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### இன்று முதல் எம்.பிக்களின் பதிவு
+### அமைச்சரவை அமைச்சர்கள் நாளை பதவிப்பிரமாணம்
+
+*2024-11-17 11:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-அமைச்சர்கள்-நாளை-பதவிப்பிரமாணம்/175-347326) · `ta`
+
+புதிய அரசாங்கத்தின் அமைச்சரவை அமைச்சர்கள் நாளை நவம்பர் 18 ஆம் திகதி காலை 10 மணிக்கு ஜனாதிபதி செயலகத்தில் ஜனாதிபதி அனுரகுமார திஸாநாயக்க முன்னிலையில் பதவிப்பிரமாணம் செய்யவுள்ளதாக ஜனாதிபதி ஊடகப் பிரிவு (PMD) தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f92dc079.json)
+
+---
+
+### 21 female representatives elected to parliament
+
+*2024-11-17 10:40:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-பெண்-பிரதிநிதிகள்-பாராளுமன்றத்திற்கு-தெரிவு/175-347325) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+21 women elected to parliament. Key winners: PM Harini Amarasuriya (Colombo), Attorney Kausalya Aryaratne, Samanamali Gunasinghe (both Colombo). Others: Nilanti Kothachi (Kalutara), Oshani Unga, Hemali Sujeeva, Stephani Fernando. Local wins: Sagarika Athuda (Kegalle) and Nalusha Lakmali.
+
+🟩
+
+In the ongoing parliamentary elections, 21 female representatives have been elected to parliament. Nine of them are representing the national power of the people.
+
+Among them, Prime Minister Harini Amarasuriya was elected from the Colombo district with 655,289 votes.
+
+Attorney Kausalya Aryaratne won with 80,814 votes and Samanamali Gunasinghe has received 59,657 votes in Colombo.
+
+Attorney Nilanti Kothachi received 131,375 votes from Kalutara district and Oshani Unga received 69,932 votes.
+
+Hemali Sujeeva received a seat with 66,737 votes and Stephani Fernando received 57,637 votes.
+
+In Kegalle, Sagarika Athuda received 59,019 votes and Nalusha Lakmali 48,791 votes.
+
+◼️
+
+[Data](articles/fba858c1.json)
+
+[Extended Data](ext_articles/fba858c1.ext.json)
+
+---
+
+### Prohibition for exclusive classes
+
+*2024-11-17 10:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரத்தியேக-வகுப்புகளுக்கும்-தடை/175-347324) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"Exclusive classes for GCE Advanced Level Exam prohibited. Department of Examinations bans such classes effective midnight Tuesday."
+
+🟩
+
+The Department of Examinations said that all exclusive classes relating to the GCE Advanced Level Examination have been banned from midnight on Tuesday (19).
+
+◼️
+
+[Data](articles/739b7e5b.json)
+
+[Extended Data](ext_articles/739b7e5b.ext.json)
+
+---
+
+### Explanation of the Commission on National List MPs
+
+*2024-11-17 10:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்பட்டியல்-எம்-பிகள்-குறித்து-ஆணைக்குழுவின்-விளக்கம்/175-347323) · `ta`
+
+Elections Commission: Some parties haven't submitted National List MP nominees. Focus on sending names to Government Press. Gazette notification sent. Only losing candidates can fill National List seats.
+
+🟩
+
+The Elections Commission said that some parties have not yet sent the names of the people who have been nominated to the 10th Parliament from the National List.
+
+Accordingly, the Elections Commission has stated that some parties have been focused on sending the names given to the Government Press.
+
+Meanwhile, the names of the Gazette Notification of the Names of the Members of Parliament have been sent to the Government Press for the Government Press.
+
+Moreover, the Elections Commission said that the National List Parliamentary positions could not be appointed other than the candidates who lost the election.
+
+◼️
+
+[Data](articles/0f5c408c.json)
+
+[Extended Data](ext_articles/0f5c408c.ext.json)
+
+---
+
+### Sri Lanka’s new Cabinet to be sworn in tomorrow
+
+*2024-11-17 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103556/sri-lankas-new-cabinet-to-be-sworn-in-tomorrow) · `en`
+
+The Cabinet Ministers of the new government will be sworn in before President Anura Kumara Dissanayake at 10.00 a.m. tomorrow (Nov. 18) at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) said.
+
+The senior spokesman of the National People’s Power (NPP) Tilvin Silva had said earlier that the Cabinet will be limited to 25 or even less and that there will be scientific method in allocation of subjects for the ministries.
+
+However, the inaugural session of the Tenth Parliament, comprising of members elected through the 2024 General Election held on November 14, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President.
+
+The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-thirds majority, securing a record-breaking 159 seats in total.
+
+◼️
+
+[Data](articles/33d98c26.json)
+
+[Extended Data](ext_articles/33d98c26.ext.json)
+
+---
+
+### New laws are implemented against corruption
+
+*2024-11-17 10:27:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழலுக்கு-எதிராக-புதிய-சட்டங்கள்-அமுலாகும்/175-347322) · `ta`
+
+New anti-corruption laws enacted. Legal action promised against accused individuals. Existing laws insufficient; new ones being drafted.
+
+🟩
+
+Vasantha Samarasinghe, the executive member of the National People's Power, says legal action will be taken against those who have been accused of corruption.
+
+Moreover, even if the existing laws are not adequate, new laws will be prepared and implemented
+
+◼️
+
+[Data](articles/b3d6d178.json)
+
+[Extended Data](ext_articles/b3d6d178.ext.json)
+
+---
+
+### Death of a poorly attacked student by teachers
+
+*2024-11-17 10:24:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியைகளால்-மோசமாக-தாக்கப்பட்ட-மாணவி-மரணம்/175-347320) · `ta`
+
+Student dies after assault by teachers; suspects re-arrested and remanded.
+
+🟩
+
+A schoolgirl who was allegedly assaulted by two teachers at a school in Wennappuwa died after being treated at a hospital for more than three months.
+
+Accordingly, the two teachers who were released on bail in connection with the incident have been re -arrested and produced in court and have been ordered to be remanded until tomorrow.
+
+In a school in the Wennappuwa area, a student who was educated in grade 10, left the classroom with another student.
+
+After inquiries into the incident, the suspects, who were suspects, were arrested and released on bail on September 13.
+
+In the meantime, the student who was treated at the Ragama Hospital recently died without treatment.. Subsequently, the two teachers were arrested again. Remble
+
+◼️
+
+[Data](articles/2d2d0638.json)
+
+[Extended Data](ext_articles/2d2d0638.ext.json)
+
+---
+
+### Published by President's Policy Declaration on 21
+
+*2024-11-17 10:21:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21இல்-ஜனாதிபதியின்-கொள்கை-பிரகடனம்-வெளியீடு/175-347319) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+President's Policy Declaration on 21: Attorneys report MPs represent national power. Human Rights Activist Dr. Pratibha Mahanama Hewa states foreign policy and financial situation may change after declaration.
+
+🟩
+
+Attorneys have reported that the world has been told by appointing MPs representing the national power of the national people and in the North and in the North.
+
+In addition, Human Rights Activist Dr. Pratibha Mahanama Hewa said that after the president submitted his policy declaration on the 21st of this month, the foreign policy and the financial situation of the country could be changed accordingly.
+
+◼️
+
+[Data](articles/99b9953b.json)
+
+[Extended Data](ext_articles/99b9953b.ext.json)
+
+---
+
+### IMF team to visit Sri Lanka today for third review under EFF program
+
+*2024-11-17 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/103555/imf-team-to-visit-sri-lanka-today-for-third-review-under-eff-program-) · `en`
+
+A team from the International Monetary Fund (IMF), led by the Senior Mission Chief for Sri Lanka Peter Breuer, will be in Colombo from November 17 to 23.
+
+The team will visit the country to conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF), IMF Spokesperson said.
+
+Furthermore, it is reported that the visiting IMF delegation will hold extended discussions focused on the new government’s economic policy, following which the fourth tranche of the bailout package for Sri Lanka will be approved.
+
+The third tranche of about USD 336 million was released to Sri Lanka upon successful completion of the review by IMF in June this year.
+
+◼️
+
+[Data](articles/8ab83c8f.json)
+
+[Extended Data](ext_articles/8ab83c8f.ext.json)
+
+---
+
+### Rehan also announced Oiwa
+
+*2024-11-17 10:12:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரெஹானும்-ஓய்வை-அறிவித்தார்/175-347318) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Former mayor Rehan Jayawickrama resigns from politics. He lost the Matara district in recent elections. Citing personal reasons, he decided to focus on family after a challenging political career.
+
+🟩
+
+Rehan Jayawickrama, a former mayor of the Weligama Municipal Council and Weligama organizer of the Samaki Jan. Balavaka Organization, has announced that he will resign from politics and Matara Weligama organizer.
+
+He posted a note on his X page and said that he had sent his resignation letter to party leader Sajith Premadasa.
+
+Rehan Jayawickrama lost the Matara district in the ongoing parliamentary elections.
+
+He said the time had come to think about his family and work for them, even though he had crossed a very difficult journey in politics and had been in a very difficult journey in politics.
+
+He said that the decision was not easily taken and that this was the right decision in the current state.
+
+◼️
+
+[Data](articles/4e9cb2b9.json)
+
+[Extended Data](ext_articles/4e9cb2b9.ext.json)
+
+---
+
+### Youth dies due to explosion
+
+*2024-11-17 10:06:00* · [`adalk`](https://www.ada.lk/breaking_news/පිපිරීමක්-හේතුවෙන්-තරුණයකු-ජීවිතක්ෂයට/11-413083) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+18yo youth killed in garage explosion in Atakankola. Barrel burst during gas situation. Victim from Bawala area.
+
+🟩
+
+A total of the 18-year-old youth in the garage was killed and in the garage that had been exploded by a painted garage in Atakankolapelessa, Atakankolapelessa.
+
+The victim was a resident of Bawala Runa Road, Runna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, Ranna Road, No. 128/02.
+
+The barrel burst is a barrel of barely iron, which is a blank iron, which is a blank iron, and burst the barrel on a gas situation.
+
+The boy's lid of the barrel has been admitted to Ackunkolapessa hospital, policeman.
+
+◼️
+
+[Data](articles/511f56ab.json)
+
+[Extended Data](ext_articles/511f56ab.ext.json)
+
+---
+
+### Ovee declared Aluthgamage
+
+*2024-11-17 10:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வை-அறிவித்தார்-அளுத்கமகே/175-347317) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahindananda Aluthgamage retires from politics after 7 decades in Nawalapitiya. He cites low voter support in Kandy district as reason. Received 20401 votes in latest election compared to nearly 200000 previously.
+
+🟩
+
+Former Minister Mahindananda Aluthgamage has announced that he will retire from politics.
+
+He announced his retirement at a media briefing held at the Nawalapitiya Mahindananda Aluthgamage Foundation office yesterday (16).
+
+Aluthgamage's generation has been involved in radical politics in the Nawalapitiya constituency for seven decades.
+
+In this case, Mahindananda Aluthgamage said that the people of Kandy district did not need his service in the general election.
+
+That is why he has decided to retire from politics, he added.
+
+In this year's general election, he said that the cylinder in the Kandy district had contested and that voters gave him 20,401 votes.
+
+He said he had received nearly two lakh votes in the last election.An
+
+◼️
+
+[Data](articles/56901d62.json)
+
+[Extended Data](ext_articles/56901d62.ext.json)
+
+---
+
+### Another luxury vehicle recovery
+
+*2024-11-17 09:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வாகனம்-மீட்பு/175-347316) · `ta`
+
+Luxury vehicle seized in Kandy: Police investigation reveals owner, a prominent fish trader. Vehicle confiscated based on IG's directive.
+
+🟩
+
+Another modern luxury protection vehicle, which is suspected to be illegal, has been seized by the Kandy headquarters police.
+
+Investigations have revealed that the vehicle was owned by a famous fish sales trader in Kandy.
+
+The vehicle was seized on the basis of a complaint issued directly to the Inspector General of Police.
+
+◼️
+
+[Data](articles/9518ce3c.json)
+
+[Extended Data](ext_articles/9518ce3c.ext.json)
+
+---
+
+### Woman trapped with 66 passports
+
+*2024-11-17 09:47:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/66-கடவுச்சீட்டுகளுடன்-சிக்கிய-பெண்/175-347315) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Arrested: Woman (42) & man (38) from Siyambalagoda. Found with 66 passports. Recruited people for jobs in Singapore, Hong Kong, Dubai, Romania. Scam victims paid for visas & interviews. Police discovered 20mg of ice at their residence.
+
+🟩
+
+Two persons, including a woman who had 66 passports in the Kahaduduwa area yesterday (16), were arrested.
+
+The arrested woman is 42 years old, the suspect is 38 years old and they are from Siyambalagoda.
+
+After working in Singapore, Hong Kong, Dubai and Romania, the suspect had come to the country in 2022 and lived in the area with the suspect.
+
+It has been revealed that they have received a passport of the persons, claiming that they have been offering foreign employment to various persons for nearly two and a half years.
+
+Subsequently, the agencies had applied for a visa and claiming to be invited to interview for the job, with the money from the persons for up to Rs.
+
+When the suspects checked the house where they were staying, 20 milligrams of ice was also found.
+
+◼️
+
+[Data](articles/31a33008.json)
+
+[Extended Data](ext_articles/31a33008.ext.json)
+
+---
+
+### Eight killed in second mass attack in China this week
+
+*2024-11-17 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103554/eight-killed-in-second-mass-attack-in-china-this-week) · `en`
+
+A former student went on a stabbing rampage at a vocational college in eastern China on Saturday, killing eight people and injuring 17 others, police said, just days after the deadliest mass killing in the country in a decade shocked Chinese society.
+
+Saturday’s knife attack took place at the Wuxi Vocational College of Arts and Technology in Yixing, part of Wuxi city in the eastern province of Jiangsu. The suspect was apprehended at the scene and confessed to his actions, police added.
+
+Later on Saturday, authorities in the southern Chinese city of Zhuhai said they had charged a 62-year-old man after a driver on Monday rammed his car into a crowd killing 35 people and injuring 43 others.
+
+That incident touched off a rare online discussion over the mental health of Chinese society and whether a string of recent high-profile attacks in other major cities could reflect deeper stresses as the world’s second-largest economy slows.
+
+...
+
+[Data](articles/5de7a167.json)
+
+[Extended Data](ext_articles/5de7a167.ext.json)
+
+---
+
+### USS Michael Murphy arrives in Colombo
+
+*2024-11-17 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103553/uss-michael-murphy-arrives-in-colombo) · `en`
+
+USS Michael Murphy of the United States Navy had arrived at the port of Colombo on a replenishment visit on Saturday, Sri Lanka Navy said.
+
+Accordingly, the Sri Lanka Navy had welcomed the visiting ship in compliance with naval traditions.
+
+The 155.2m – long Arleigh Burke class guided missile destroyer is manned by a crew of 333 and she is commanded by Commander Jonathan B. Greenwald.
+
+On completion of replenishment needs, USS Michael Murphy is set to depart the island on November 17.
+
+◼️
+
+[Data](articles/7140303b.json)
+
+[Extended Data](ext_articles/7140303b.ext.json)
+
+---
+
+### Rehan Jayawickrama retires from politics
+
+*2024-11-17 09:07:09* · [`adalk`](https://www.ada.lk/breaking_news/රෙහාන්-ජයවික්‍රම-දේශපාලනයෙන්-විශ්‍රාම-ගනියි/11-413079) · `si`
+
+Rehan Jayawickrama retires from politics. He resigned as Weligama organizer and Matara district representative. Cites family reasons for leaving political life after challenging journey. Decision made after careful consideration.
+
+🟩
+
+Weligama organizer registrar of Weligama Urban Corps, as well as the Matara organizer of the Weligama organizer of Matara as well as the post of Weligama organizer in Matara.
+
+He said a note on the page of his page, he said that his resignation letter was sent to the party leader Sajith Premadasa.
+
+Regional Representative of the Matara District, representing the Matara District was defeated for this year's parliamentary election.
+
+He says that he is a difficult journey in politics, despite the difficulties in politics, he feels that it is time to think about his family and work for them.
+
+He says that this decision is not easily made, but it is currently a correct decision.
+
+◼️
+
+[Data](articles/46d85b22.json)
+
+[Extended Data](ext_articles/46d85b22.ext.json)
+
+---
+
+### Record of MPs from today
 
 *2024-11-17 08:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எம்-பிக்களின்-பதிவு/175-347314) · `ta`
 
-10வது பாராளுமன்றத்திற்கு தேர்ந்தெடுக்கப்பட்ட எம்.பி.க்களின் பதிவு இன்று முதல் எதிர்வரும் 20ஆம் திகதி வரை நடைபெற உள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-குறித்த நாட்களில் பாராளுமன்ற வளாகத்திற்கு வருகை தந்தும், இணையவழி மூலமாகவும் பதிவு செய்ய முடியும் என பாராளுமன்ற செயலாளர் நாயகம்  குஷானி ரோஹணதீர தெரிவித்தார்.
 
-இதேவேளை, தேசிய பட்டியலிலிருந்து தெரிவு செய்யப்படவுள்ள உறுப்பினர்களின் பெயர் பட்டியலை உடனடியாக தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பி வைக்குமாறு சம்பந்தப்பட்ட கட்சிகளுக்கு அறிவிக்க தேர்தல்கள் ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது. R
+
+"MPs registration: 10th Parliament. From today to 20th at Parliamentary Complex or via email. Elections Commission requests immediate submission of National List member details."
+
+🟩
+
+The registration of MPs elected to the 10th Parliament will be held from today to the 20th.
+
+Parliamentary Secretary General Kushani Rohanadeera said that the Parliamentary Complex can be registered in the Parliamentary Complex and by e -mail.
+
+Meanwhile, the Elections Commission has taken steps to inform the relevant parties to immediately send the list of members of the National List to the Elections Commission immediately.. Remble
 
 ◼️
 
 [Data](articles/de43f1d5.json)
+
+[Extended Data](ext_articles/de43f1d5.ext.json)
 
 ---
 
@@ -66,39 +488,61 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 
 [Data](articles/89021b62.json)
 
+[Extended Data](ext_articles/89021b62.ext.json)
+
 ---
 
-### சீனாவில் கத்திக்குத்து: 8 பேர் பலி
+### Shouting in China: 8 killed
 
 *2024-11-17 08:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-கத்திக்குத்து-8-பேர்-பலி/50-347313) · `ta`
 
-கிழக்கு சீனாவில் உள்ள கல்லூரி ஒன்றுக்கு அருகில் இடம்பெற்ற கத்திக்குத்து சம்பவத்தில் 8 பேர் உயிரிழந்துள்ளனர்.
+Here's a summary of the article in 200 characters:
 
-Wuxi நகரில் உள்ள Wuxi Yixing தொழில் மற்றும் தொழில்நுட்ப கல்லூரியில் சீன நேரப்படி நேற்று மாலை 6.30 அளவில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
 
-குறித்த சம்பவம் தொடர்பில் சந்தேக நபரான 21 வயதுடைய இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
+
+"China: 8 killed in knife attack near college. Incident occurred at Wuxi Yixing College of Industry and Technology. 21-year-old suspect arrested."
+
+🟩
+
+Eight people have been killed in a knife incident near a college in eastern China.
+
+The incident took place at 6.30 pm yesterday at the Wuxi Yixing College of Industry and Technology in Wuxi.
+
+A 21 -year -old youth has been arrested in connection with the incident. (A)
 
 ◼️
 
 [Data](articles/e8a1d496.json)
 
+[Extended Data](ext_articles/e8a1d496.ext.json)
+
 ---
 
-### சிறப்பு ரயில் சேவைகள்
+### Special train services
 
 *2024-11-17 08:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-ரயில்-சேவைகள்/175-347312) · `ta`
 
-பொதுத் தேர்தல் மற்றும் நீண்ட வார விடுமுறை முடிந்து பணியிடங்களுக்கு செல்லும்  பயணிகளுக்காக சில சிறப்பு ரயில்களை இயக்கத் திட்டமிடப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
+Here's a summary of 200 characters:
 
-இன்றும் நாளையும் வழக்கமான ரயில் சேவைக்கு மேலதிகமாக சில சிறப்பு ரயில்கள் சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
 
-கொழும்பு கோட்டையிலிருந்து பதுளை வரையிலும், பதுளையிலிருந்து கொழும்பு கோட்டை வரையிலும், கண்டியில் இருந்து கொழும்பு கோட்டை வரையிலும், பெலியத்தவிலிருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இயங்குகின்றன.
 
-அத்துடன், கொழும்பு கோட்டையிலிருந்து ஹிக்கடுவை வரையிலும், மாத்தறையில் இருந்து கொழும்பு கோட்டை வரையிலும், காலியில் இருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இடம்பெறவுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
+"Special trains run: Colombo-Badulla, Badulla-Colombo, Kandy-Colombo, Beliatta-Colombo, Colombo-Hikkaduwa, Matara-Colombo, Galle-Colombo during elections & long weekends."
+
+🟩
+
+The Railway Department has said that some special trains are scheduled to be operated for passengers who are going to work in the general election and long weekend holidays.
+
+The department said that some special trains have been deployed in addition to the usual train service today and tomorrow.
+
+Special train services operate from Colombo Fort to Badulla, Badulla to Colombo Fort, from Kandy to Colombo Fort, from Beliatta to Colombo Fort.
+
+In addition, special train services will be held from Colombo Fort to Hikkadu, Matara to Colombo Fort, from Galle to Colombo Fort.. Remble
 
 ◼️
 
 [Data](articles/f010014c.json)
+
+[Extended Data](ext_articles/f010014c.ext.json)
 
 ---
 
@@ -126,19 +570,51 @@ The Department of Meteorology has said that rainfall is expected in a few places
 
 ---
 
-### අදත් බොහෝ පළාත්වලට වැසි
+### The child who went from the well was billing well
+
+*2024-11-17 07:58:38* · [`adalk`](https://www.ada.lk/breaking_news/වගා-ළිඳෙන්-වතුර-ගන්න-ගිය-ළමයා-වගා-ළිඳට-බිලි/11-413078) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Child falls into well in Mamaduwa police division. Nine-year-old boy heard crying while fetching water. Rescue efforts underway.
+
+🟩
+
+A child has died in a well in a well in the Mamaduwa police division.
+
+A child in Kallakulam was nine years old.
+
+The deceased child has fallen into the well and hearing the bucket at the well, and the wells that will fall into the well and to get to the well.
+
+◼️
+
+[Data](articles/08fab1cf.json)
+
+[Extended Data](ext_articles/08fab1cf.ext.json)
+
+---
+
+### Showers in many parts of the provinces
 
 *2024-11-17 07:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413077) · `si`
 
-බස්නාහිර, මධ්‍යම, සබරගමුව, දකුණ, ඌව හා වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රි කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Heavy showers forecasted in Western, Central, Sabaragamuwa, Southern, Uva, and Udarapura provinces. Thunderstorms possible. 75mm rainfall expected in some areas. Morning showers predicted for Northern and Eastern provinces.
 
-බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+🟩
 
-උතුරු හා නැහගනහිර පළාත්වල ස්ථාන ස්වල්පයක උදෑසන කාලහේදීත් වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+Showers or thundershowers will occur at several places in the Western, Central, Sabaragamuwa, Southern, Uva and Udarapura.
+
+The Department has informed about 75mm at some places in the Western, Sabaragamuwa and Central provinces.
+
+Showers will occur at a morning in the Northern and Eastern Provinces.
 
 ◼️
 
 [Data](articles/6bae013f.json)
+
+[Extended Data](ext_articles/6bae013f.ext.json)
 
 ---
 
@@ -382,6 +858,8 @@ He wrote his autobiography at some point and the Sri Lankan chapters have been p
 
 [Data](articles/91768d23.json)
 
+[Extended Data](ext_articles/91768d23.ext.json)
+
 ---
 
 ### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
@@ -502,6 +980,8 @@ I recognized the advantages that we had inherited from the British through our k
 
 [Data](articles/1d2fea47.json)
 
+[Extended Data](ext_articles/1d2fea47.ext.json)
+
 ---
 
 ### Birth and Progress of SAARC
@@ -513,6 +993,8 @@ The South Asian Association for Regional Cooperation (SAARC) of which I was call
 ...
 
 [Data](articles/b3054785.json)
+
+[Extended Data](ext_articles/b3054785.ext.json)
 
 ---
 
@@ -532,6 +1014,8 @@ Every classroom built by Ceylinco Life over the years continues to be monitored 
 
 [Data](articles/12ca7af5.json)
 
+[Extended Data](ext_articles/12ca7af5.ext.json)
+
 ---
 
 ### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
@@ -545,6 +1029,8 @@ The forum served as a platform for insightful discussions on the future of finan
 ...
 
 [Data](articles/a5dcb958.json)
+
+[Extended Data](ext_articles/a5dcb958.ext.json)
 
 ---
 
@@ -561,6 +1047,8 @@ I was delighted to receive your letter dated …. I shall be most grateful if yo
 ...
 
 [Data](articles/57b8ec83.json)
+
+[Extended Data](ext_articles/57b8ec83.ext.json)
 
 ---
 
@@ -638,19 +1126,25 @@ Further, following the supplies and service requirements, 'The' USS Michael Murp
 
 ---
 
-### ඡන්දයෙන් තේරුණු මන්ත්‍රීවරුන්ගේ නම් ගැසට් කරයි
+### The names of the elected MPs gazette
 
 *2024-11-16 22:01:29* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දයෙන්-තේරුණු-මන්ත්‍රීවරුන්ගේ-නම්-ගැසට්-කරයි/11-413075) · `si`
 
-මෙවර පාර්ලිමේන්තු මැතිවරණයෙන් ජයගෙන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ලෙස ඒ ඒ දිස්ත්‍රික් මැතිවරණ කොට්ඨාශවලින්  තේරී පත්වූ තැනැත්තන්ගේ නම් ප්‍රකාශයට පත් කරමින් මැතිවරණ කොමිෂන් සභාව මගින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ .
+Elections Commission releases gazette naming elected MPs. 196 district representatives and 29 national list members announced on November 15, 2023.
 
-1981 අංක 01 දරණ පාර්ලිමේන්තු මැතිවරණ පනතේ 62 වගන්තිය ප්‍රකාරව   දිවයිනේ දිස්ත්‍රික්    මැතිවරණ කොට්ඨාස 22 න් මෙලෙස පත්වු මන්ත්‍රීවරුන් 196 කගේ නම්   අදාළ දේශපාලන පක්ෂ යටතේ   සඳහන් කරමින්   නොවැම්බර් 15 දාතමින් අද සවස මෙම ගැසට්ටුව නිකුත්  කෙරිණි .
+🟩
 
-මෙයට අමතරව  ජාතික ලැයිස්තුවෙන්  තවත්  මන්ත්‍රීවරුන් 29 දෙනෙකු පත් කිරීමට නියමිතය.
+The Elections Commission has issued a special gazette notification by the Elections Commission, declaring the names of the persons who were elected among the members of each district election.
+
+The gazette was released on November 15 this evening, following the 196 MPs in the country's election Act, No.11 of 1981.
+
+In addition, 29 other members of the National list are to be appointed.
 
 ◼️
 
 [Data](articles/8158bb26.json)
+
+[Extended Data](ext_articles/8158bb26.ext.json)
 
 ---
 
@@ -683,6 +1177,8 @@ Last week’s presidential election was doubtless one of the most consequential 
 ...
 
 [Data](articles/2aedc11a.json)
+
+[Extended Data](ext_articles/2aedc11a.ext.json)
 
 ---
 
@@ -732,6 +1228,8 @@ The Na tree (Mesua Nagassarium) and the Nil Manel flower (Nypheae stellata) have
 
 [Data](articles/fdac6788.json)
 
+[Extended Data](ext_articles/fdac6788.ext.json)
+
 ---
 
 ### Maashooga (meaning beloved), my housekeeper in Sindh, Pakistan
@@ -743,6 +1241,8 @@ A young man was waiting at the wide-open gate of the university guest bungalow. 
 ...
 
 [Data](articles/abec99bb.json)
+
+[Extended Data](ext_articles/abec99bb.ext.json)
 
 ---
 
@@ -1929,427 +2429,5 @@ Heavy rains in some areas in the Kandy district have been flooded yesterday (15)
 [Data](articles/1c6942e5.json)
 
 [Extended Data](ext_articles/1c6942e5.ext.json)
-
----
-
-### Namal Rajapaksa to be appointed to Parliament
-
-*2024-11-16 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203423) · `si`
-
-Namal Rajapaksa to be appointed as National List MP from Sri Lanka General Front after winning 2024 parliamentary election.
-
-🟩
-
-The National Organizer of the UNP, Namal Rajapaksa is to be sworn in as the National List MP who has received the Sri Lanka General Front according to the results of the 2024 parliamentary election.
-
-UNP General Secretary Sagar Kariyawasam said that at a press conference held today (16).
-
-◼️
-
-[Data](articles/3c210369.json)
-
-[Extended Data](ext_articles/3c210369.ext.json)
-
----
-
-### Sri Lanka President to make policy statement on 21 November
-
-*2024-11-16 12:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-make-policy-statement-on-21-november-188211/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake will make a policy statement at the opening of the new sessions on November 21, according to the parliament.
-
-Sri Lanka has a tradition of presidents making policy speeches in the parliament dating back to the ‘Throne Speech’ by the Governor General.
-
-Sri Lanka new administration will enact new constitution with referendum: Tilvin
-
-Two third majority given by Sri Lanka voters will be used carefully: NPP
-
-In the general election President Dissanayake’s NPP swept the polls taking a two thirds majority. (Colombo/Nov15/2024)
-
-◼️
-
-[Data](articles/307a958a.json)
-
-[Extended Data](ext_articles/307a958a.ext.json)
-
----
-
-### Train - Lorry collisionTwo killed;Five people injured
-
-*2024-11-16 12:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198901) · `ta`
-
-Lorry collides with train near Weligama: 2 dead, 5 injured. Accident occurred at railway crossing on Matara-Galle route.
-
-🟩
-
-Weligama police said that two people were killed when a lorry collided with a train traveling from Matara to Galle at a railway crossing in the Weligama - Thenipitiya area.
-
-The driver, the elderly, two women and three children were injured in the lorry during the accident and the driver and the elderly person died after being admitted to the Matara Hospital.
-
-◼️
-
-[Data](articles/d308a976.json)
-
-[Extended Data](ext_articles/d308a976.ext.json)
-
----
-
-### Train - motorcycle collisionFather kills;Son injury
-
-*2024-11-16 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198899) · `ta`
-
-Motorcycle collides with train at railway crossing in Anuradhapura. Father killed, son injured. Son hospitalized in Dambulla.
-
-🟩
-
-Habarana police said that a motorcycle was killed and a son was injured when a motorcycle collided with a train at a railway crossing in Bellankadawala, Anuradhapura, Habarana, Anuradhapura.
-
-The son of a motorcycle was injured during the accident and was admitted to the Dambulla hospital for treatment, police said.
-
-◼️
-
-[Data](articles/f0d345a7.json)
-
-[Extended Data](ext_articles/f0d345a7.ext.json)
-
----
-
-### A three -day workshop for newly elected MPs
-
-*2024-11-16 11:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198907) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Newly elected MPs attend 3-day workshop on parliament history & affairs. Registration begins 17th. No holidays for staff 18-22. First session 21st at 10 AM.
-
-🟩
-
-The three -day workshop is scheduled to be held on the legacy of parliament and parliamentary affairs for the newly elected members of the Tenth Parliament.
-
-The Secretary General of Parliament Saminda Kularatne said that the workshop will be held on the 25th, 26th and 27th of this month.
-
-The process of registering new MPs will be launched tomorrow (17).
-
-Due to these measures, the holidays of parliamentary employees have been canceled from 18 to 22.
-
-It is noteworthy that the first session of the new Parliament will be held at 10 am on the 21st.
-
-◼️
-
-[Data](articles/6e486b85.json)
-
-[Extended Data](ext_articles/6e486b85.ext.json)
-
----
-
-### Pakistan - Punjab is low quality of air;Holidays for schools
-
-*2024-11-16 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/198906) · `ta`
-
-Pakistan: Punjab air quality worsens, schools closed due to pollution. Educational institutions ordered online learning until 17th, except Murree district. Curfew imposed in Lahore and Multan for 3 days.
-
-🟩
-
-In Pakistan, air quality in Punjab continues to increase.The aircraft record has increased by 1,600 to the unprecedented record.
-
-In the environment where the quality of the wind is deteriorating, holidays have been announced for educational institutions, including school.
-
-Accordingly, until the 17th, all educational institutions have been announced. In this case, the smoke and the lesser distance can be seen,
-
-Thus, all educational institutions, including government, private schools and private educational training centers, have been advised to continue their educational training through the Internet.. However, the exception has been announced for Murree district.
-
-Prior to this, the smoke was spreading and the entire curfew was implemented on Friday in Lahore and Multan cities for up to 3 days a week.
-
-Accordingly, the entire curfew will continue today and tomorrow and the situation will be monitored for 3 days from Monday.
-
-◼️
-
-[Data](articles/4625c346.json)
-
-[Extended Data](ext_articles/4625c346.ext.json)
-
----
-
-### Sri Lanka new administration will enact new constitution with referendum: Tilvin
-
-*2024-11-16 11:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-new-administration-will-enact-new-constitution-with-referendum-tilvin-188208/) · `en`
-
-Sri Lanka new administration will enact new constitution with referendum: Tilvin
-
-ECONOMYNEXT – Sri Lanka’s new administration will carry out pledges in the National People’s Power manifesto including the enactment of a new constitution, General Secretary of the Janatha Vimukthi Peramuna Tilvin Silva said.
-
-In the manifesto put forward before the Presidential elections, a new constitution, strengthening democracy within it, giving rights to various sections of the citizenry and abolishing the executive presidency were promised, he explained at press briefing at the party headquarters Friday.
-
-“We are ready not only will we present the new constitution to the parliament, it will be put forward to the people through a referendum” Silva said. “But it is a big task. We are committed to implementing the manifesto.”
-
-He was responding to a question from a reporter whether the new administration will lose its enthusiasm to abolish the executive presidency after elections. The
-
-...
-
-[Data](articles/888a76f8.json)
-
-[Extended Data](ext_articles/888a76f8.ext.json)
-
----
-
-### New govt’s policy statement to be presented at Parliament’s inaugural session
-
-*2024-11-16 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103537/new-govts-policy-statement-to-be-presented-at-parliaments-inaugural-session-) · `en`
-
-President Anura Kumara Dissanayake will present the government’s policy statement at the inaugural session of the 10th Parliament on November 21 at 3.00 p.m., the Parliamentary Communications Department announced.
-
-This significant address, delivered at the commencement of each new parliamentary session, serves as a comprehensive presentation of the government’s vision and strategic direction. The President, as per constitutional powers, presides over the opening meetings of Parliament and sets the tone for legislative priorities through this statement.
-
-Historically referred to as the “Rajasana Speech”, this tradition not only marks the beginning of a parliamentary session but also offers the President an opportunity to detail the administration’s priorities and plans to both Parliament and the public.
-
-◼️
-
-[Data](articles/53076b76.json)
-
-[Extended Data](ext_articles/53076b76.ext.json)
-
----
-
-### Workshop for freshly elected MPs on parliament practices and affairs
-
-*2024-11-16 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103536/workshop-for-freshly-elected-mps-on-parliament-practices-and-affairs) · `en`
-
-The registration activities of newly elected Members of Parliament are scheduled to begin from tomorrow (17).
-
-The Parliamentary Communications Department said that accordingly, the newly elected MPs can register for the Parliament online.
-
-Meanwhile, measures have been taken to keep two special information counters of the Parliament open on Tuesday (19) and Wednesday (20) for the newly elected MPs to access information regarding the registration process.
-
-Furthermore, plans underway to hold a three-day special workshop for the incoming legislators on the parliament culture and parliament affairs, according to the Parliamentary Communications Department.
-
-The workshop is scheduled to be held on November 25,26 and 27.
-
-A gazette notification related to these matters will be issued today (16).
-
-...
-
-[Data](articles/610b9ca5.json)
-
-[Extended Data](ext_articles/610b9ca5.ext.json)
-
----
-
-### Young Media Secretary to White House
-
-*2024-11-16 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/198898) · `ta`
-
-Donald Trump appoints Caroline Lewit as White House media secretary. She was campaign spokesperson and first female under 30 in this role. Studied communications at St. Anselm College.
-
-🟩
-
-US President Donald Trump will appoint a young woman named Caroline Lewit to the White House.
-
-Caroline Lewid has been a media spokesman for Donald Trump's campaign, who contested the US presidential election.
-
-In the meantime, Caroline Lewit is the young media secretary of the White House in American history.
-
-"Caroline has proved to be a clever, solid and a very talented spokesman," Donald Trump said.
-
-Lewit, a native of the state of New Hampshire in the United States, studied communications and state science at St. Anselm College, a Catholic College in his home state.
-
-◼️
-
-[Data](articles/192f5145.json)
-
-[Extended Data](ext_articles/192f5145.ext.json)
-
----
-
-### Notice of the policy statement of the new government
-
-*2024-11-16 11:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203422) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Government's policy statement to be presented by President at 3:30 PM on Nov 21st. Covers government vision and priorities."
-
-🟩
-
-At the beginning of the first meeting of Parliament, the government's policy statement is due to be made by the President at 21 overs at 3:30 pm on 21st November.
-
-The president issues announcement that the President had the authority to present the government's policy statement in Parliament and to preside to Parliament in Parliament and preside to Parliament meetings.
-
-Accordingly, the President makes the government's policy statement at the beginning of the Parliament.
-
-The President will submit a detailed analysis of his government's vision to Parliament by his policy statement by its policy statement.
-
-◼️
-
-[Data](articles/e3f9ba9b.json)
-
-[Extended Data](ext_articles/e3f9ba9b.ext.json)
-
----
-
-### New Cabinet appointment on Monday
-
-*2024-11-16 10:56:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திங்களன்று-புதிய-அமைச்சரவை-நியமனம்/175-347288) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"New Cabinet: 18th, ~25 members. National People's Power appoints."
-
-🟩
-
-The new government's cabinet will be appointed on Monday (18), the National People's Power said.
-
-According to Tilvin Silva, General Secretary of Janata Vimukthi Peramuna, representing the national people's power, less than 25 people will be appointed.
-
-◼️
-
-[Data](articles/22276090.json)
-
-[Extended Data](ext_articles/22276090.ext.json)
-
----
-
-### A school lab is on fire
-
-*2024-11-16 10:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203421) · `si`
-
-School lab fire destroys equipment at Ukuwela Ajmer College, Matale.
-
-🟩
-
-The lab was completely destroyed due to a fire that had erupted in a school lab yesterday.
-
-Our correspondent stated that the fire had erupted at the Ukuwela Ajmer College, Matale.
-
-◼️
-
-[Data](articles/2ed4c611.json)
-
-[Extended Data](ext_articles/2ed4c611.ext.json)
-
----
-
-### Divulapitiya issue: District Government Agent's description
-
-*2024-11-16 10:39:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திவுலபிட்டிய-விவகாரம்-மாவட்ட-அரசாங்க-அதிபர்-விளக்கம்/175-347287) · `ta`
-
-Divulapitiya election issue: Delayed preferential voting rooms caused vote count delay, says Gampaha District Government Agent Lalinda Kamage.
-
-🟩
-
-Gampaha District Government Agent Lalinda Kamage said that in the Divulapitiya electoral division, a delay in the number of preferential voting rooms, the number of votes had been incurred and that there was no time.
-
-The District Government Agent said this when the journalists questioned the allegations made by Prasad Siriwajwa, the organizer of the Samaki Janapalavega constituency.
-
-He said that the number of votes was delayed due to the preferential list of the National People's Power.
-
-◼️
-
-[Data](articles/c6e7152b.json)
-
-[Extended Data](ext_articles/c6e7152b.ext.json)
-
----
-
-### Special Workshop for New MPs
-
-*2024-11-16 10:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிகளுக்கு-விசேட-செயலமர்வு/175-347286) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Parliamentary workshop: 25-27th. Committee roles explained. MP registration: 18-20th. Holiday cancelled 18-22nd for events.
-
-🟩
-
-Secretary General of Parliament Saminda Gularatne said that the Special Executive for the newly elected members of the 10th Parliament will be held on the 25th, 26th and 27th of this month.
-
-He said that the parliamentary system, the work of the council and the work of the committees would be explained.
-
-In addition, the registration of MPs elected to the 10th Parliament will be held on the 18th, 19th and 20th of this month.
-
-The holiday of parliamentary employees has been canceled from 18 to 22 to organize these activities.
-
-◼️
-
-[Data](articles/57b82989.json)
-
-[Extended Data](ext_articles/57b82989.ext.json)
-
----
-
-### Pakistani province declares health emergency due to smog and locks down two cities
-
-*2024-11-16 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103535/pakistani-province-declares-health-emergency-due-to-smog-and-locks-down-two-cities) · `en`
-
-A Pakistani province declared a health emergency Friday due to smog and imposed a shutdown in two major cities.
-
-Smog has choked Punjab for weeks, sickening nearly 2 million people and shrouding vast swathes of the province in a toxic haze.
-
-A senior provincial minister, Marriyum Aurangzeb, declared the health emergency at a press conference and announced measures to combat the growing crisis.
-
-Time off for medical staff is cancelled, all education institutions are shut until further notice, restaurants are closing at 4 p.n. while takeaway is available up until 8 p.m. Authorities are imposing a lockdown in the cities of Multan and Lahore and halting construction work in those two places.
-
-“Smog is currently a national disaster,” Aurangzeb said. “It will not all be over in a month or a year. We will evaluate the situation after three days and then announce a further strategy.”
-
-...
-
-[Data](articles/28cb12b2.json)
-
-[Extended Data](ext_articles/28cb12b2.ext.json)
-
----
-
-### Workshop on new MPs
-
-*2024-11-16 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203419) · `si`
-
-New MP registration begins tomorrow. Online system opens for enrollment. Two-day orientation on 19-20th. Three-day workshop on parliamentary duties planned. Gazette notification released today. First session on 21st at 10 AM.
-
-🟩
-
-Activities to register new members of Parliament to be elected to Parliament will commence tomorrow (17).
-
-According to the Parliamentary Communication Division, the new MPs could register from tomorrow's system through the online system.
-
-Steps have also been taken to open two arms in Parliament on the 19th and 20 of the information they needed.
-
-Meanwhile, newly elected new MPs is also planned to conduct a three-day workshop on parliamentary commitment and Parliamentary matters.
-
-The gazette notification is due to be released today (16).
-
-The new Parliament session will meet at 10 am on the 21st morning.
-
-◼️
-
-[Data](articles/56c48f3e.json)
-
-[Extended Data](ext_articles/56c48f3e.ext.json)
-
----
-
-### Ceylon Chamber of Commerce congratulates newly elected govt
-
-*2024-11-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103534/ceylon-chamber-of-commerce-congratulates-newly-elected-govt) · `en`
-
-The Ceylon Chamber (CCC) has congratulated the National People’s Power (NPP) led by the President Anura Kumara Dissanayake on securing an overwhelming mandate and majority in the Parliamentary election.
-
-In a statement, the CCC said “The mandate of the people reflects the united expectations towards governance, democratic values, anti-corruption, and uplifting of the economy.”
-
-As the premier business Chamber in Sri Lanka, the Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development, it added.
-
-The Chamber also commended the Election Commission and other state institutions for ensuring a peaceful election process.
-
-◼️
-
-[Data](articles/2dd322b6.json)
-
-[Extended Data](ext_articles/2dd322b6.ext.json)
 
 ---

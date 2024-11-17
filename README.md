@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 03:25:26**
+As of **2024-11-18 03:10:46**
 
 ## Newspaper Stats
 
-*Scraped **55,467** Articles*
+*Scraped **55,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
 economynextcom | 3,359
-dailyftlk | 3,792
+dailyftlk | 3,791
 dailymirrorlk | 4,733
 adalk | 5,196
 adaderanalk | 6,693
@@ -26,27 +26,11 @@ adaderanasinhalalk | 9,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,466 (100.0%) of 55,467 articles have been extended.
+55,466 (100.0%) of 55,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### MTI Consulting recommends Cabinet  restructuring with a ‘start-up’ mindset
-
-*2024-11-18 03:09:34* · [`dailyftlk`](https://www.ft.lk/opinion/MTI-Consulting-recommends-Cabinet-restructuring-with-a-start-up-mindset/14-769360) · `en`
-
-Post watershed election that has the potential to transform Sri Lanka socio-economically, MTI Consulting has recommended a radically different approach to restructuring the Cabinet of Ministers.
-
-How nations, both developed and developing, structure their cabinets is often based on legacy practices with incremental, ad-hoc changes. There is very little ground thinking, first principles, and future-proofing (which are considered effective in organisational structuring) that goes into such a process.
-
-In this backdrop, Sri Lanka now has an opportunity to think afresh and develop a Cabinet structure that can then permeate to the structuring of all Government institutions, even considering rationalisation and consolidation where needed.
-
-...
-
-[Data](articles/b45d673e.json)
-
----
 
 ### Israeli Prime Minister's house attack
 
@@ -2493,5 +2477,27 @@ During his first term, Trump labelled China a “strategic competitor”. Relati
 [Data](articles/f2ed3bad.json)
 
 [Extended Data](ext_articles/f2ed3bad.ext.json)
+
+---
+
+### The expectation of Muslims in the new government
+
+*2024-11-17 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198976) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muslims expect new gov't to lead change, boost economy & unite races. Current rulers have divided people. Unity among all citizens is crucial for progress.
+
+🟩
+
+To carry this country towards the new change. In addition to thinking of improve the economy of the country, it is essential to create unity between the races of the country.. The rulers have so far been politicized to disrupt the unity of the three people living in this country.
+
+◼️
+
+[Data](articles/27fcc7da.json)
+
+[Extended Data](ext_articles/27fcc7da.ext.json)
 
 ---

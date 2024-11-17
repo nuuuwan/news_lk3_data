@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 03:41:20**
+As of **2024-11-18 03:10:46**
 
 ## Newspaper Stats
 
-*Scraped **55,468** Articles*
+*Scraped **55,466** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
 economynextcom | 3,359
-dailyftlk | 3,793
+dailyftlk | 3,791
 dailymirrorlk | 4,733
 adalk | 5,196
 adaderanalk | 6,693
@@ -26,45 +26,11 @@ adaderanasinhalalk | 9,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,467 (100.0%) of 55,468 articles have been extended.
+55,466 (100.0%) of 55,466 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### Sri Lanka’s maritime transformation: Strategic vision for 2024-2029
-
-*2024-11-18 03:23:26* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-maritime-transformation-Strategic-vision-for-2024-2029/14-769361) · `en`
-
-Chamber of Marine Industries of Sri Lanka charts course for a $ 2 billion maritime economy
-
-The Chamber of Marine Industries of Sri Lanka (CMISL) unveils a visionary five-year strategic plan designed to transform the nation’s maritime industry. This ambitious initiative focuses on fostering strategic partnerships, developing critical infrastructure, and implementing key regulatory reforms. By 2029, the plan aims to generate $ 2 billion in revenue, solidifying Sri Lanka’s position as a premier maritime hub in the Indian Ocean. Leveraging the nation’s membership in the International Council of Marine Industry Associations (ICOMIA) and its pivotal geographic location, this strategy aspires to make Sri Lanka a leader in maritime innovation and economic prosperity.
-
-...
-
-[Data](articles/a8acf108.json)
-
----
-
-### MTI Consulting recommends Cabinet  restructuring with a ‘start-up’ mindset
-
-*2024-11-18 03:09:34* · [`dailyftlk`](https://www.ft.lk/opinion/MTI-Consulting-recommends-Cabinet-restructuring-with-a-start-up-mindset/14-769360) · `en`
-
-Sri Lanka now has an opportunity to think afresh and develop a Cabinet structure that can then permeate to the structuring of all Government institutions
-
-Post watershed election that has the potential to transform Sri Lanka socio-economically, MTI Consulting has recommended a radically different approach to restructuring the Cabinet of Ministers.
-
-How nations, both developed and developing, structure their cabinets is often based on legacy practices with incremental, ad-hoc changes. There is very little ground thinking, first principles, and future-proofing (which are considered effective in organisational structuring) that goes into such a process.
-
-In this backdrop, Sri Lanka now has an opportunity to think afresh and develop a Cabinet structure that can then permeate to the structuring of all Government institutions, even considering rationalisation and consolidation where needed.
-
-...
-
-[Data](articles/b45d673e.json)
-
-[Extended Data](ext_articles/b45d673e.ext.json)
-
----
 
 ### Israeli Prime Minister's house attack
 
@@ -2487,5 +2453,51 @@ Is it not the responsibility of the authorities to become a place of suburbs, su
 [Data](articles/8631448e.json)
 
 [Extended Data](ext_articles/8631448e.ext.json)
+
+---
+
+### Xi says he will work with Trump in last meeting with Biden
+
+*2024-11-17 12:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/103559/xi-says-he-will-work-with-trump-in-last-meeting-with-biden) · `en`
+
+Chinese leader Xi Jinping has pledged to work with incoming President Donald Trump in his final meeting with current US leader Joe Biden.
+
+The two met on Saturday on the sidelines of the annual Asia-Pacific Economic Cooperation (Apec) summit in Peru where they acknowledged “ups and downs” in relations over Biden’s four years in office.
+
+But both highlighted progress in lowering tensions on issues such as trade and Taiwan.
+
+Analysts say US-China relations could become more volatile when Trump returns to office in two months, driven by factors including a promise to raise tariffs on Chinese imports.
+
+The president-elect has pledged 60% tariffs on all imports from China. He has also appointed prominent China hawks to top foreign and defence positions.
+
+During his first term, Trump labelled China a “strategic competitor”. Relations worsened when the former president labelled Covid a “Chinese virus” during the pandemic.
+
+...
+
+[Data](articles/f2ed3bad.json)
+
+[Extended Data](ext_articles/f2ed3bad.ext.json)
+
+---
+
+### The expectation of Muslims in the new government
+
+*2024-11-17 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198976) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Muslims expect new gov't to lead change, boost economy & unite races. Current rulers have divided people. Unity among all citizens is crucial for progress.
+
+🟩
+
+To carry this country towards the new change. In addition to thinking of improve the economy of the country, it is essential to create unity between the races of the country.. The rulers have so far been politicized to disrupt the unity of the three people living in this country.
+
+◼️
+
+[Data](articles/27fcc7da.json)
+
+[Extended Data](ext_articles/27fcc7da.ext.json)
 
 ---

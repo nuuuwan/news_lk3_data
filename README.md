@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 16:41:18**
+As of **2024-11-17 17:10:38**
 
 ## Newspaper Stats
 
-*Scraped **55,394** Articles*
+*Scraped **55,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,209 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,185
-adaderanalk | 6,689
-tamilmirrorlk | 7,853
-virakesarilk | 8,984
-adaderanasinhalalk | 9,580
+adalk | 5,186
+adaderanalk | 6,690
+tamilmirrorlk | 7,854
+virakesarilk | 8,989
+adaderanasinhalalk | 9,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,393 (100.0%) of 55,394 articles have been extended.
+55,401 (100.0%) of 55,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### ட்ரம்பின் மீள்வரவு
+
+*2024-11-17 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198982) · `ta`
+
+ட்ரம்ப்புக்கும் கானுக்கும்  இடையில் பரஸ்பர ஒற்றமையொன்று உள்ளது. ட்ரம்ப், கானை ஒரு நண்பராகவே கணிக்கிறார். தனது நண்பரின் சிறை வாழ்க்கைக்கு எதிராக தான் பதவிக்கு வந்தவுடன் நடவடிக்கை எடுக்கும் எண்ணம் ட்ரம்பிடம் உள்ளதாக ஊகிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/d4e3ed47.json)
+
+---
+
+### மயிலத்தமடு மேய்ச்சல் தரை பிரச்சினையும்  பின்னணியும்
+
+*2024-11-17 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198981) · `ta`
+
+மயிலத்தமடு மேய்ச்சல் தரைப் பிரச்சினைக்கு தீர்வு கோரி பண்ணையாளர்கள் கடந்த வருடம் செப்டம்பர் மாதம் 15ஆம் திகதி சித்தாண்டியில் ஆரம்பித்த அமைதி வழிப்போராட்டம் 375 நாட்களுக்கு மேலாக நடைபெற்று வருகின்றது. அதற்கு இன்னமும் தீர்வு கிடைக்கவில்லை.
+
+◼️
+
+[Data](articles/58b495d4.json)
+
+---
+
+### NPP and ‘Sarvajana Balaya’ National List MPs gazetted
+
+*2024-11-17 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103565/npp-and-sarvajana-balaya-national-list-mps-gazetted-) · `en`
+
+The names nominated to enter the Parliament through the National Lists of the National People’s Power (NPP) and the ‘Sarvajana Balaya’ alliance, have been gazetted.
+
+As per the gazette notification issued by the Election Commission of Sri Lanka, the MPs to enter the Parliament through the national lists of ‘Sarvajana Balaya’ and NPP are as follows:
+
+◼️
+
+[Data](articles/b5db9b47.json)
+
+[Extended Data](ext_articles/b5db9b47.ext.json)
+
+---
+
+### A change in the time of submitting the policy statement
+
+*2024-11-17 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203466) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Policy statement timing changed: New government's policy speech now on Nov 21 at 11:30 AM. President Anura Kumara Dissanayake will deliver it. First session of 10th Parliament opens at 10:00 AM.
+
+🟩
+
+The time of the government's policy statement has been revised at the beginning of the first meeting of the 10th Parliament.
+
+Accordingly, on November 21.  11.30ට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය සිදු කරන බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව අද (17) නිවේදනය කළේය.
+
+The Department had previously announced this on the 21st. The President is carried out at 3.
+
+According to the Constitution 33 (a) of the Constitution, the President has the powers to preside the government's policy statement in Parliament and the Constitution of the Constitution.
+
+The President presents a detailed analysis of his government's outlook by its policy statement by his policy statement.
+
+The first part of the Third Parliament is to be opened at 10.00 am.
+
+◼️
+
+[Data](articles/44f7c5dd.json)
+
+[Extended Data](ext_articles/44f7c5dd.ext.json)
+
+---
+
+### Members of the National List of National People's Power
+
+*2024-11-17 16:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-தேசிய-பட்டியல்-உறுப்பினர்கள்/175-347337) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National List of National People's Power: 18 members elected to Parliament. The Election Commission announced this list recently. These representatives will serve in the legislative body, representing the NPP party.
+
+🟩
+
+The Election Commission has issued a list of 18 members who go to Parliament through the National List of the National People's Power (NPP).
+
+◼️
+
+[Data](articles/751f11a7.json)
+
+[Extended Data](ext_articles/751f11a7.ext.json)
+
+---
+
+### Historical success
+
+*2024-11-17 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198980) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+1977: JR Jayewardene's UNP won sixth majority. Mahinda & Gotabhaya Rajapaksa approached two-thirds but national people's power prevailed. All districts except Batticaloa seized power.
+
+🟩
+
+In the 1977 general election, JR Jayawardena's United National Party got a sixth majority. Then Mahinda Rajapaksa and Gotabhaya Rajapaksa approached two -thirds but the strength of the national people's power is much stronger than them. All the districts, except the Batticaloa district, are seizing national people's power. This is the reason for this situation.
+
+◼️
+
+[Data](articles/77752508.json)
+
+[Extended Data](ext_articles/77752508.ext.json)
+
+---
+
+### Last opportunity for Tamil parties
+
+*2024-11-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198979) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamil parties face last chance: Tamil People's Alliance, Plot, Relo, EPDP, SLFP, and TNA secure seats. In the East, TNA holds 5 seats despite challenges and internal conflicts.
+
+🟩
+
+The Tamil People's Alliance in the North, Plot, Relo, EPDP and the Sri Lanka Freedom Party (SLFP) and two seats from the Tamil National Alliance (TNA). As for the East, the Sri Lankan TNA maintains 5 seats despite the tough challenge and the internal conflicts.
+
+◼️
+
+[Data](articles/0bc5c5e1.json)
+
+[Extended Data](ext_articles/0bc5c5e1.ext.json)
+
+---
+
+### Arrested by someone with ice drugs
+
+*2024-11-17 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198995) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Man arrested in Andiyapuliyankulam for possessing 5g of ice drugs. Police action based on confidential tip.
+
+🟩
+
+A man was arrested by police on Saturday (16) in the Andiyapuliyankulam area belonging to the Parayanalangulam police division.
+
+He was arrested after a roundup of confidential information received by the Parayanalangulam police station.
+
+05 g 100 ml of ice from the suspect has been seized by the police.
+
+◼️
+
+[Data](articles/01f4f6f2.json)
+
+[Extended Data](ext_articles/01f4f6f2.ext.json)
+
+---
+
+### ITAK national list MP
+
+*2024-11-17 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203465) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+UNP General Secretary nominated as ITAK National List MP. Mr. Pelingam represents Kachchary Kachchassa constituency in Wanni District.
+
+🟩
+
+The General Secretary of the UNP Medical Secretary of the UNP has been nominated for the National List MP who has obtained the number of votes polled by Ilankai Tamil Aru.
+
+Mr. Pelingam represented the Kachchary Kachchassa from the Wannki District.
+
+◼️
+
+[Data](articles/e3a958d3.json)
+
+[Extended Data](ext_articles/e3a958d3.ext.json)
+
+---
 
 ### National JHU
 
@@ -93,6 +281,20 @@ The car driver died after two drivers were injured and admitted to the Dehi Athi
 [Data](articles/4672f1a4.json)
 
 [Extended Data](ext_articles/4672f1a4.ext.json)
+
+---
+
+### මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබු බහුදින ධීවර යාත්‍රාවක් අල්ලයි
+
+*2024-11-17 15:35:43* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ප්‍රවාහනය-කරමින්-තිබු-බහුදින-ධීවර-යාත්‍රාවක්-අල්ලයි/11-413090) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාව විසින් සිදුකළ තවත් විශේෂ මෙහෙයුමකදී, ශ්‍රී ලංකාවට බටහිර දෙසින්, නාවික සැතපුම් 110 ක් (කිලෝමීටර් 200 ක්) පමණ ගැඹුරු මුහුදේදී, මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබු මෙරට බහුදින ධීවර යාත්‍රාවක් සමඟ සැකකරුවන් පස් දෙනෙකු (05) 2024 නොවැම්බර් මස 16 දින  නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
+
+නාවික හමුදා භාරයට ගත් බහුදින ධීවර යාත්‍රාවේ මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 40 ක පමණ තොගයක් ඇති බවට සැක කෙරෙන අතර, එම බහුදින යාත්‍රාව සහ සැකකරුවන්, වැඩිදුර පරික්‍ෂාව සහ ඉදිරී නීතිමය කටයුතු සඳහා නාවික හමුදාව විසින් මේ වන විට ගොඩබිමට රැගෙන එමින් සිටියි.
+
+◼️
+
+[Data](articles/cf2ab43b.json)
 
 ---
 
@@ -2271,273 +2473,5 @@ New Zealand have played three ODIs at Pallekele Stadium, while they defeated one
 [Data](articles/faa40b79.json)
 
 [Extended Data](ext_articles/faa40b79.ext.json)
-
----
-
-### New Chancay Harbor opens new Chancay
-
-*2024-11-17 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203447) · `si`
-
-Chancay Harbor opening: China-Peru joint project enhances regional connectivity and trade.
-
-🟩
-
-China and Peru opened the Chancay port project, which was built by China and Peru, to combine the 'one route' program.
-
-About 500 years ago, Perus, the ancestors of the Andes, built the port, was built in the Andes, which was built through its northern and southern regions.
-
-It is also said that the port project will contribute greatly to the development of Peru.
-
-It is significant that the transportation of goods is to be easily improved and facilitated by China and Latin American region through China and Latin American region.
-
-President of China She Jin Pin, President of China, and the President of Peru Boluarte has joined the video technology to open the port territory.
-
-This year's official visit to the Peru, this year's official visit to Peru, Mr. Shi Jinping joined the third official visit to the Chinese president.
-
-Speaking, the Chinese President said that the current chancay port is becoming a new starting point for the New Achca Trail.
-
-...
-
-[Data](articles/54587983.json)
-
-[Extended Data](ext_articles/54587983.ext.json)
-
----
-
-### USS Michael Murphy to Colombo
-
-*2024-11-17 08:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203446) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US Navy destroyer USS Michael Murphy arrived in Colombo. Commander Jonathan commands the ship. The Sri Lankan Navy followed traditions during the visit. The vessel will depart today after fulfilling supply and service needs.
-
-🟩
-
-USS Michael Muichael Muichael Murphy of US Naval Ship arrives at the Port of Colombo yesterday (16).
-
-The Sri Lankan Navy had acted in accordance with the Navy Traditions.
-
-Arleigh Burke Class Guided Missile Destroyer is a 'USS Michael Muichael Muichael Muichael Muichael Muichael Muicy Murphy'.
-
-Commander Jonathan as Commanding Officer of the Ship. Greenwald works.
-
-Further, following the supplies and service requirements, the 'USS Michael Murphy' is due to leave the island today (17).
-
-◼️
-
-[Data](articles/14a7f11d.json)
-
-[Extended Data](ext_articles/14a7f11d.ext.json)
-
----
-
-### 75 millimeters of rain today
-
-*2024-11-17 08:01:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-75-மில்லி-மீற்றர்-மழை/175-347311) · `ta`
-
-Heavy rain (75mm) forecasted today. Thunderstorms expected tonight nationwide, especially in Western, Central, Sabaragamuwa, Southern, Uva, and North Western provinces. Possible rain/thunderstorms in Northern and Eastern provinces as well.
-
-🟩
-
-Thundershowers are expected this evening in many parts of the country, the Department of Meteorology said.
-
-The Department of Meteorology has predicted that there is a possibility of rain or thunderstorms in the evening or at night in the Western, Central, Sabaragamuwa, South, Uva and North Western provinces.
-
-At the same time, 75 millimeters of heavy rainfall is likely to occur in some parts of Sabaragamuwa and Central Provinces.
-
-The Department of Meteorology has said that rainfall is expected in a few places in the Northern and Eastern Provinces.(a)
-
-◼️
-
-[Data](articles/4d60fd55.json)
-
-[Extended Data](ext_articles/4d60fd55.ext.json)
-
----
-
-### The child who went from the well was billing well
-
-*2024-11-17 07:58:38* · [`adalk`](https://www.ada.lk/breaking_news/වගා-ළිඳෙන්-වතුර-ගන්න-ගිය-ළමයා-වගා-ළිඳට-බිලි/11-413078) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Child falls into well in Mamaduwa police division. Nine-year-old boy heard crying while fetching water. Rescue efforts underway.
-
-🟩
-
-A child has died in a well in a well in the Mamaduwa police division.
-
-A child in Kallakulam was nine years old.
-
-The deceased child has fallen into the well and hearing the bucket at the well, and the wells that will fall into the well and to get to the well.
-
-◼️
-
-[Data](articles/08fab1cf.json)
-
-[Extended Data](ext_articles/08fab1cf.ext.json)
-
----
-
-### Showers in many parts of the provinces
-
-*2024-11-17 07:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413077) · `si`
-
-Heavy showers forecasted in Western, Central, Sabaragamuwa, Southern, Uva, and Udarapura provinces. Thunderstorms possible. 75mm rainfall expected in some areas. Morning showers predicted for Northern and Eastern provinces.
-
-🟩
-
-Showers or thundershowers will occur at several places in the Western, Central, Sabaragamuwa, Southern, Uva and Udarapura.
-
-The Department has informed about 75mm at some places in the Western, Sabaragamuwa and Central provinces.
-
-Showers will occur at a morning in the Northern and Eastern Provinces.
-
-◼️
-
-[Data](articles/6bae013f.json)
-
-[Extended Data](ext_articles/6bae013f.ext.json)
-
----
-
-### Negligence is the lack of a child's suicide
-
-*2024-11-17 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203445) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Child dies attempting to fetch water from well in Mathuwa, Mamaduwa area. Incident attributed to negligence. Male victim, local resident.
-
-🟩
-
-The victim was a maleman who was resident in Mathuwa, Mamaduwa area.
-
-When the child had to take water at the morning, he died in the well, trying to take it due to falling the bucket.
-
-◼️
-
-[Data](articles/5efe41ec.json)
-
-[Extended Data](ext_articles/5efe41ec.ext.json)
-
----
-
-### Registration of MPs who were elected to Parliament from today
-
-*2024-11-17 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203444) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Newly elected MPs register today. Online work begins. Physical presence allowed. Election Commission informs veteran parties about National List nominations. Gazette publication next step. District-elected MP names announced yesterday.
-
-🟩
-
-Members who were elected to the 10th Parliament are scheduled to work online from today (17).
-
-Member of Parliament General Secretary General of Parliament Kasasini Rohanadera said the presence of the parliamentary premises could also be registered.
-
-Meanwhile, the Elections Commission has taken steps to inform the veteran parties to refer to the Elections Commission to be sent to the Elections Commission to be elected from the National List.
-
-The Elections Commission then will be referred to the government printing press to publish the nomination by gazette.
-
-The names of elected MPs from each district were declared yesterday (17).
-
-◼️
-
-[Data](articles/69c4eec6.json)
-
-[Extended Data](ext_articles/69c4eec6.ext.json)
-
----
-
-### Two arrested with 66 passports
-
-*2024-11-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203443) · `si`
-
-Two arrests made in Kahathuduwa: suspects possess 66 passports. Raid conducted based on police tip. Passports used for foreign employment over 2.5 years. Suspects found with ice narcotics.
-
-🟩
-
-A suspect and suspect in possession of 66 passports have been arrested in the Kahathuduwa, Siyambalagoda area.
-
-The suspects were arrested in a raid held at the relevant house on information received by the Kahathuduwa police officers.
-
-The suspect is 42 years old and the suspect is the 38th residents of the Siyambalagoda area.
-
-Singapore served in Sri Lanka in 2022 with Singapore, Hong Kong, Dubai and Romania.
-
-It has been revealed that the passports of their individuals have been staying in Rajagiriya to say that they have been given foreign employment to various people for two and a half years.
-
-They also received a month between the agencies and summoned the visa to the interview and the passports were taken and their passports.
-
-When inspected the resident of the suspects, the suspects were found in 20 milligrams of ice narcotics.
-
-◼️
-
-[Data](articles/2ac8b6fc.json)
-
-[Extended Data](ext_articles/2ac8b6fc.ext.json)
-
----
-
-### Several special trains travel today and tomorrow
-
-*2024-11-17 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203442) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"Special trains run today/tomorrow: Colombo-Badulla, Colombo-Beliatta, Colombo-Hikkaduwa, Matara-Galle to Colombo. For election/work commute."
-
-🟩
-
-The Railway Department says that several special trains will be operated for passengers traveling to employers and attend work on the general election and the long weekend vacation.
-
-The Department said that several special trains have been deployed in addition to the average railway routes today and tomorrow.
-
-Special trains will be implemented from the Colombo Fort to Badulla and the Colombo-Colombo Fort, from Badulla to Colombo Fort and from Beliatta to Colombo Fort.
-
-The Railway Department states that special trains will operate from Colombo Fort to Hikkaduwa and from Matara to Colombo Fort and Galle to Colombo Fort.
-
-◼️
-
-[Data](articles/230e0386.json)
-
-[Extended Data](ext_articles/230e0386.ext.json)
-
----
-
-### Showers in the evening to many areas
-
-*2024-11-17 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203441) · `si`
-
-Evening showers widespread, thunderstorms at night in western, central, sabaragamuwa, southern, uva, and northwestern provinces. Morning showers in northern and eastern provinces. Some areas may experience prolonged rainfall in western, sabaragamuwa, central, and uva provinces, including galle and matara districts.
-
-🟩
-
-Showers or thundershowers will occur at night or night in the Western, Central, Sabaragamuwa, Southern, Uva and Uva and Uva and Northwestern provinces.
-
-The department has issued a statement in the Western, Sabaragamuwa and Central provinces.
-
-Showers will occur at the morning of the Northern and Eastern Provinces.
-
-Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/191fc0ed.json)
-
-[Extended Data](ext_articles/191fc0ed.ext.json)
 
 ---

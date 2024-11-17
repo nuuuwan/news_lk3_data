@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 20:40:59**
+As of **2024-11-17 20:25:27**
 
 ## Newspaper Stats
 
-*Scraped **55,421** Articles*
+*Scraped **55,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,192
+adalk | 5,191
 adaderanalk | 6,691
 tamilmirrorlk | 7,855
 virakesarilk | 8,992
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,588
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,419 (100.0%) of 55,421 articles have been extended.
+55,419 (100.0%) of 55,420 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -349,22 +349,6 @@ We are confident that they will fully use this opportunity and solve many things
 [Data](articles/d395dd8a.json)
 
 [Extended Data](ext_articles/d395dd8a.ext.json)
-
----
-
-### උපෙළට උපකාරක පංති දේශන හා සම්මන්ත්‍රණ තහනම් වන දිනය
-
-*2024-11-17 17:25:26* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළට-උපකාරක-පංති-දේශන-හා-සම්මන්ත්‍රණ-තහනම්-වන-දිනය/11-413097) · `si`
-
-උසස් පෙළ විභාගයට අදාළ උපකාරක පන්ති, දේශන හා සම්මන්ත්‍රණ පැවැත්වීම ලබන 19 වනදා මධ්‍යම රාත්‍රියෙන් පසු තහනම් වන බව විභාග දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කළේ විභාගය අවසන් වන තුරු එම තහනම ක්‍රියාත්මක බවය.
-
-නොවැම්බර් මස 25 වැනිදා ආරම්භ වීමට නියමිත මෙවර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය දෙසැම්බර් මස 20 වැනිදා දක්වා පැවැත්වීමට නියමිතව තිබේ.
-
-◼️
-
-[Data](articles/2a54fbed.json)
 
 ---
 
@@ -2511,5 +2495,39 @@ The boy's lid of the barrel has been admitted to Ackunkolapessa hospital, police
 [Data](articles/511f56ab.json)
 
 [Extended Data](ext_articles/511f56ab.ext.json)
+
+---
+
+### Ovee declared Aluthgamage
+
+*2024-11-17 10:03:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வை-அறிவித்தார்-அளுத்கமகே/175-347317) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahindananda Aluthgamage retires from politics after 7 decades in Nawalapitiya. He cites low voter support in Kandy district as reason. Received 20401 votes in latest election compared to nearly 200000 previously.
+
+🟩
+
+Former Minister Mahindananda Aluthgamage has announced that he will retire from politics.
+
+He announced his retirement at a media briefing held at the Nawalapitiya Mahindananda Aluthgamage Foundation office yesterday (16).
+
+Aluthgamage's generation has been involved in radical politics in the Nawalapitiya constituency for seven decades.
+
+In this case, Mahindananda Aluthgamage said that the people of Kandy district did not need his service in the general election.
+
+That is why he has decided to retire from politics, he added.
+
+In this year's general election, he said that the cylinder in the Kandy district had contested and that voters gave him 20,401 votes.
+
+He said he had received nearly two lakh votes in the last election.An
+
+◼️
+
+[Data](articles/56901d62.json)
+
+[Extended Data](ext_articles/56901d62.ext.json)
 
 ---

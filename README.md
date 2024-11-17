@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 14:00:52**
+As of **2024-11-17 14:41:17**
 
 ## Newspaper Stats
 
-*Scraped **55,375** Articles*
+*Scraped **55,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,178
+adalk | 5,179
 adaderanalk | 6,685
 tamilmirrorlk | 7,852
 virakesarilk | 8,980
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,361 (100.0%) of 55,375 articles have been extended.
+55,376 (100.0%) of 55,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,73 +40,105 @@ The ‘Sarvajana Balaya’ alliance has decided to nominate the leader of the al
 
 Issuing a statement, the ‘Sarvajana Balaya’ announced that this decision was reached unanimously by the alliance’s executive committee.
 
+Accordingly, the Executive Committee of the Sarvajana Balaya decided to nominate Dilith Jayaweera as the party’s National List MP and to convey the decision to the Election Commission today, he said.
+
+Formed less than 06 months ago, the ‘Sarvajana Balaya’ managed to secure 178,006 votes islandwide at the 2024 General Election, which was the sixth highest total votes obtained by a political party or an independent group which contested the election, and obtained a single bonus seat.
+
+Thus, this will be the first time where an MP will represent the ‘Sarvajana Balaya’ alliance in Sri Lanka’s Parliament.
+
 ◼️
 
 [Data](articles/5cff0aac.json)
 
+[Extended Data](ext_articles/5cff0aac.ext.json)
+
 ---
 
-### උසස් පෙළ උපකාර පන්ති 19 වැනිදා මැදියම් රැයෙන් තහනම්
+### A / L classes banned from midnight on the 19th
 
 *2024-11-17 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203461) · `si`
 
-මෙවර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයට අදාළ උපකාරක පන්ති, දේශන හා සම්මන්ත්‍රණ පැවැත්වීම ලබන 19 වනදා මධ්‍යම රාත්‍රියෙන් පසු තහනම් වන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+GCE Advanced Level Exam: A/L classes banned after midnight on 19th. Ban continues until exam ends. Test scheduled Dec 20, starting Nov 25. Ministry to decide next week. Evaluation process to begin soon.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ විභාගය අවසන් වන තුරු එම තහනම ක්‍රියාත්මක බවය.
+🟩
 
-නොවැම්බර් මස 25 වැනිදා ආරම්භ වීමට නියමිත මෙවර අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගය දෙසැම්බර් මස 20 වැනිදා දක්වා පැවැත්වීමට නියමිතව තිබේ.
+The Department of Examinations says that the A / L examination related to the GCE Advanced Level Examination will be banned after midnight.
 
-මේ අතර මතභේදයට තුඩු දුන් මෙවර 5 ශ්‍රේණිය ශිෂ්‍යත්ව විභාගයේ පිළිතුරු පත්‍ර ඇගයිම් කටයුතු සම්බන්ධයෙන් ලබන සතිය වන විට අවසන් තීරණයක් ගැනීමට නියමිත බව අධ්‍යාපන අමාත්‍යංශය පවසයි.
+The department stated that the ban was implemented until the end of the examination.
 
-එහි ලේකම් තිලකා ජයසුන්දර මහත්මිය සඳහන් කළේ උසස් පෙළ විභාගය අවසන් වීමට පෙර අදාළ පිළිතුරු පත්‍ර ඇගයීම් කටයුතු ආරම්භ කිරීමට කටයුතු කරන බවය.
+The GCE Advanced Level Examination will be held on December 20, due to commencement on November 25.
+
+Meanwhile, the Ministry of Education says that a final decision will be taken by the next week on the following week.
+
+A secretary Thilaka Jayasundara said that the evaluation of the above mentioned Level examination would be initiated.
 
 ◼️
 
 [Data](articles/a83ecce2.json)
 
+[Extended Data](ext_articles/a83ecce2.ext.json)
+
 ---
 
-### අති උත්කර්ෂවත්ව පැවැත්වුණු දෙරණ ලක්ස් සිනමා සම්මාන උලෙළ
+### Derana Lakasika Awards Ceremony
 
 *2024-11-17 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203460) · `si`
 
-මෙරට සිනමා තරු ඇගයීමට ලක්වන 9 වැනි දෙරණ ලක්ස් සිනමා සම්මාන උලෙළ බත්තරමුල්ල වෝටර්ස් ඒජ් හෝටල් පරිශ්‍රයේදී පැවති අතර එය ඊයේ (16) රාත්‍රීයේ ටී.වී.දෙරණ ඔස්සේ විකාශය කෙරුණි.
+Here's a summary of the text in approximately 200 characters:
 
-2023 වසරේ තිරගතවූ චිත්‍රපට 33 ක් සඳහා සම්මාන ලබාදීම මෙහිදී සිදුකෙරුණු අතර ඒ වෙනුවෙන් නිර්මාණශීලිත්වය දායක කළ කලාකරුවන් ඇගයීම මෙහිදී සිදු කෙරුණි.
 
-හොඳම තිර රචනය, හොඳම අධ්‍යක්ෂණය සහ හොඳම චිත්‍රපටය ලෙස සම්මානයට පාත්‍ර වුණේ ආචාර්ය විසාකේස චන්ද්‍රසේකරම් මහතාගේ මනල් චිත්‍රපටයයි.
 
-ජනප්‍රිය රංගන ශිල්පියාට හිමි සම්මානය සජිත ඇන්තනිට හිමිවූ අතර හොඳම රංගන ශිල්පියාට හිමි සම්මානය ද ඔහුටම හිමිවිය.
+Derana Lakshika Awards: 9th festival honors top films at Waters Edge Hotel. "Mr. Shunned" wins best script, direction, film. Popular performance award goes to King Anthony. Rising star Shivumar Livesswaran wins emerging actor award. Jayalath Manaratne named best genetic actor. Late Jackson Anthony receives most popular ugiriya character award. "Gajaman" leads this year's revenue reports.
 
-නැගී එන නළුවා ලෙස ශිවකුමාර් ලිංගේෂ්වරන් සහ නැගී එන නිලිය ලෙස දිනාරා පුංචිහේවා සම්මානයට පාත්‍ර විය.
+🟩
 
-හොඳම ප්‍රහසන නළුවා ලෙසින් සම්මානයට පාත්‍ර වුණේ ජයලත් මනෝරත්න මහතාය.
+The 9th Derana Lakz Festival of Film Star is Evaluating at the Waters Age Hotel in Battaramulla last night.
 
-ජනප්‍රියතම ප්‍රතිවීර චරිතය සඳහා වූ සම්මානය හිමිවුණේ විශිෂ්ඨ රංගධර අභාවප්‍රාප්ත ජැක්සන් ඇන්තනී මහතාටය.
+The awards were provided for 33 screened films in the year, and the evaluation of creativity was evaluated.
 
-මේ වසරේ ආදායම් වාර්තා තැබූ චිත්‍රපටය ලෙස සම්මානයට පාත්‍ර වූයේ ගජමෑන් චිත්‍රපටයයි.
+The best script, the best direction and the best film was the movie Mr. Shunded.
 
-...
+King Anthony received the award of the popular performance. He also won the best performer award.
+
+As the rising actor, Shivumar Livesswaran and Emerging Officer won the Punchihewa.
+
+Jayalath Manaratne was the best genetic actor.
+
+The award for the late Jackson Anthony was the award for the most popular ugiriya character.
+
+The film Gajaman was width this year's revenue reports.
+
+සම්මාන රාත්‍රියේ සුවිශේෂීම සම්මානයක් වන ජීවිතේ එක්වරක් පමණක් පිදෙන යාවජීව සම්මානයෙන් මෙවර පිදුම් ලැබුවේ ආචාර්ය විශාරද නන්දා මාලිනි මහත්මියයි.
+
+◼️
 
 [Data](articles/6d7a8cfb.json)
 
+[Extended Data](ext_articles/6d7a8cfb.ext.json)
+
 ---
 
-### නීතිවිරෝධීව එකලස් කළ බවට සැක තවත් ඩිෆෙන්ඩර් රථයක් නුවරින් සොයා ගනියි
+### Another Defender vehicle is uncovered from the Kandy suspects
 
 *2024-11-17 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203459) · `si`
 
-නීතිවිරෝධී ලෙස එකලස් කළ බවට සැකකෙරෙන සුඛෝපබෝගී ඩිෆෙන්ඩර් රථයක් මහනුවර අම්පිටිය ප්‍රදේශයේදී පොලිස් භාරයට ගෙන තිබේ.
+Luxury Defender seized in Kandy; police investigation ongoing
 
-මහනුවර මූලස්ථාන පොලිසියට ලද තොරතුරක් මත ප්‍රදේශයේ ව්‍යාපාරිකයෙකුගෙන් නිවසක තිබියදී අදාළ ඩිෆෙන්ඩර් රථය පොලිස් භාරයට ගෙන ඇති බව සදහන් වේ.
+🟩
 
-පොලීසිය පැවසුවේ එම රථය නීති විරෝධී ලෙස මෙරටට රැගෙන විත් එකලස් කර ඇත්ද යන්න සම්බන්ධයෙන් වන විමර්ශන කටයුතු මේ වන විට සිදුකෙරන බවයි.
+A luxury Defender suspiciously assembled was taken into custody in the Ampitiya area in Kandy.
 
-මීට පෙර අවස්ථා කිහිපයකදී නීති විරෝධීව එකලස් කරන ලද සුඛෝපභෝගී රථ කිහිපයක් දිවයිනේ විවිධ ප්‍රදේශවලින් පොලිස් භාරයට ගෙන තිබුණි.
+It is said that the Defender vehicle has been taken into custody due to a tip off received by the Kandy headquarters police.
+
+According to the police, investigations are being carried out on behalf of the Sri Lankan vehicle.
+
+Several luxury vehicles assembled in several previous occasions were taken into custody by various parts of the island.
 
 ◼️
 
 [Data](articles/586f3ce3.json)
+
+[Extended Data](ext_articles/586f3ce3.ext.json)
 
 ---
 
@@ -127,6 +159,8 @@ The suspect is a 65-year-old resident of the Mount Lavinia area and he has been 
 ◼️
 
 [Data](articles/2d0d4f2b.json)
+
+[Extended Data](ext_articles/2d0d4f2b.ext.json)
 
 ---
 
@@ -284,91 +318,149 @@ During his first term, Trump labelled China a “strategic competitor”. Relati
 
 ---
 
-### புதிய அரசாங்கத்தில் முஸ்லிம்களின் எதிர்பார்ப்பு
+### The expectation of Muslims in the new government
 
 *2024-11-17 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198976) · `ta`
 
-புதிய மாற்றத்தை நோக்கி இந்த நாட்டை கொண்டு செல்ல வேண்டும். இந்நாட்டினுடைய பொருளாதாரத்தை மேம்படுத்த வேண்டும் என்று சிந்திப்பதோடு மட்டுமல்லாமல்,  இந்நாட்டின் இனங்களுக்கு இடையே ஒற்றுமை ஏற்படுத்துவது மிக அவசியமாகும். இந்நாட்டில் வாழுகின்ற மூவின மக்களின் ஒற்றுமையை சீர்குலைத்துத் தான் ஆட்சியாளர்கள் இதுவரை அரசியல் செய்து வந்துள்ளார்கள்.
+Here's a summary of 200 characters:
+
+
+
+Muslims expect new gov't to lead change, boost economy & unite races. Current rulers have divided people. Unity among all citizens is crucial for progress.
+
+🟩
+
+To carry this country towards the new change. In addition to thinking of improve the economy of the country, it is essential to create unity between the races of the country.. The rulers have so far been politicized to disrupt the unity of the three people living in this country.
 
 ◼️
 
 [Data](articles/27fcc7da.json)
 
+[Extended Data](ext_articles/27fcc7da.ext.json)
+
 ---
 
-### 'மாற்றத்தை' தேடிய தமிழ் மக்கள்  சொல்லியிருக்கும் செய்தி என்ன?
+### What is the message that the Tamil people have searched for 'change'?
 
 *2024-11-17 12:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198975) · `ta`
 
-“மூன்றில் இரண்டு பெரும்பான்மை கிடைத்திருப்பதும், சிங்கள இனவாதிகள் தோல்வியடைந்திருப்பதும், தமிழர்களுடைய அபிலாஷைகளை உள்ளடக்கக்கூடிய அரசியலமைப்பை உருவாக்கும் வாய்ப்பை அநுர அரசுக்கு கொடுத்துள்ளது.  இதை பயன்படுத்த கூடிய வகையில் தமிழ்த் தலைமைகள் செயற்படுவது முக்கியம். அநுர அரசாங்கமும் இன நெருக்கடி குறித்த தமது அணுகுமுறையில் “மாற்றத்தை” ஏற்படுத்த வேண்டும்”
+Tamil people seek constitutional change after Sinhalese defeat, urging leadership to address ethnic crisis.
+
+🟩
+
+“The two -thirds majority and the defeat of the Sinhalese racists have given the government the opportunity to create a constitution that can include the aspirations of the Tamils.. It is important that the Tamil leadership act can be used to use this. The Anura government must "change" in its attitude towards the ethnic crisis.
 
 ◼️
 
 [Data](articles/8619e9cd.json)
 
+[Extended Data](ext_articles/8619e9cd.ext.json)
+
 ---
 
-### நீர்மூழ்கி தந்திரோபாயம்
+### Submarine tactics
 
 *2024-11-17 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198973) · `ta`
 
-இலங்கையை தளமாக பயன்படுத்திக் கொண்டு விடக்கூடாது என்பதுதான் இந்தியாவின் பிரதான  கரிசனையாக இருக்கிறது. அதனால், இந்தியாவின் கப்பல் விஜயங்கள் தொடர்ச்சியாக இடம்பெறுகின்றன.
+Here's a summary of the text in approximately 200 characters:
+
+
+
+India avoids using Sri Lanka as a military base. Consequently, Indian warships continue to visit the region without establishing a permanent presence. This approach maintains strategic flexibility while avoiding potential geopolitical complications.
+
+🟩
+
+India's main compassion is not to use Sri Lanka as a base. Thus, India's ship visits continue to take place.
 
 ◼️
 
 [Data](articles/1e79ca38.json)
 
+[Extended Data](ext_articles/1e79ca38.ext.json)
+
 ---
 
-### தீர்மானிக்க வேண்டிய தருணம்
+### The moment to determine
 
 *2024-11-17 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/198971) · `ta`
 
-தமிழ்த் தேசிய  அரசியலை காப்பாற்றுவதற்கும் தமிழ்த் தேசிய  அரசியல் பலத்தை பாதுகாத்துக் கொள்வதற்கும், ஒரு அரசியல் சார்பற்ற கட்டமைப்பு தமிழர்களுக்குத் தேவைப்படுகிறது
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Tamil nationalists seek a non-political framework to safeguard Tamil interests and promote Tamil political aspirations.
+
+🟩
+
+Tamils ​​need a non -political structure to protect Tamil national politics and protect Tamil national politics
 
 ◼️
 
 [Data](articles/99edf022.json)
 
+[Extended Data](ext_articles/99edf022.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்தியின் மலையக அரசியல் பிரவேசம்
+### The mountainous political entry of the national people's power
 
 *2024-11-17 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/198970) · `ta`
 
-நுவரெலியா மாவட்டத்தில் தேசிய மக்கள் சக்தியானது ஐந்து உறுப்பினர்களை வென்றிருக்கின்றது. இதில் ஒருவரே கலைச்செல்வி. முதல் தடவையாக மலையகத்தின் பாரம்பரிய கட்சிகள் தமது தொகுதியை இழந்துள்ளன. மட்டுமின்றி கடந்த 47 வருடங்களில் இலங்கை தொழிலாளர் காங்கிரஸ் ஒரே ஒரு ஆசனத்தைப் மாத்திரம் வெற்றி கொண்ட முதல் சந்தர்ப்பமாகவும் இது விளங்குகின்றது.
+Here's a summary in 200 characters:
+
+
+
+National People's Power wins 5 seats in Nuwara Eliya. Traditional hill parties lose constituency. Ceylon Workers Congress gets only 1 seat after 47 years.
+
+🟩
+
+The National People's Power in Nuwara Eliya District has won five members. One of these. For the first time, the traditional parties of the hill country have lost their constituency. It is also the first time the Ceylon Workers Congress won only one seat over the past 47 years.
 
 ◼️
 
 [Data](articles/26c5a476.json)
 
+[Extended Data](ext_articles/26c5a476.ext.json)
+
 ---
 
-### சுமந்திரன் முரண்பட்டது ஏன்?
+### Why did Sumanthiran conflict?
 
 *2024-11-17 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198968) · `ta`
 
-தெற்கில் உள்ள சிங்கள பேரினவாத கட்சிகள் ஒவ்வொரு முறை வெற்றி பெறுகின்ற போதும், தமிழ் மக்களின் அரசியல் உரிமைக்கான போராட்டம் பலவீனப்படுத்தப்படும் தோற்றம் அவதானிக்கப்பட்டாலும், தமிழ்த் தேசியக் கட்சிகள் ஒன்றிணைந்து அதனை முறியடிக்க அல்லது தோற்கடிக்க முயற்சிக்கவில்லை
+Sumanthiran's conflict stems from Tamil national parties' reluctance to challenge Sinhalese chauvinist dominance despite electoral wins. This approach maintains political rights struggles but avoids confrontational tactics.
+
+🟩
+
+Although the Sinhalese chauvinist parties in the south win every time, the struggle for the political rights of the Tamil people is observed, the Tamil national parties do not try to break or defeat it.
 
 ◼️
 
 [Data](articles/b92ba6a8.json)
 
+[Extended Data](ext_articles/b92ba6a8.ext.json)
+
 ---
 
-### அஹுங்கல்லவில் மோட்டார் சைக்கிள் - முச்சக்கரவண்டி விபத்து; ஒருவர் பலி
+### Motorcycle in Ahungalla - three wheeler accident;One killed
 
 *2024-11-17 12:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/198985) · `ta`
 
-அஹுங்கல்ல பொலிஸ் பிரிவுக்குட்பட்ட உரகஸ்மன்ஹந்திய வீதியில் கடுவில அணைக்கட்டு பகுதியில் மோட்டார் சைக்கிளொன்று முச்சக்கரவண்டியுடன் மோதி விபத்துக்குள்ளானதில் ஒருவர் உயிரிழந்ததாக பொலிஸார் தெரிவித்தனர்.
+A motorcycle crash in Ahungalla resulted in one fatality and serious injuries. A motorcyclist died after colliding head-on with a three-wheeler on Urakasmanhandia Road. The incident occurred near Kaduvila Dam under the Ahungalla police division.
 
-அஹுங்கல்லயிலிருந்து உரகஸ்மன்ஹந்திய நோக்கி பயணித்த  மோட்டார் சைக்கிளானது எதிரே வந்த முச்சக்கரவண்டியுடன் நேருக்கு நேர் மோதியதையடுத்து, அதன் கட்டுப்பாட்டை இழந்து வீதியை விட்டு விலகி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+🟩
 
-இந்த விபத்தில் மோட்டார் சைக்கிளில் பயணித்தவர் பலத்த காயங்களுக்கு உள்ளாகி பலப்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+One person was killed when a motorcycle collided with a three -wheeler in the Kaduvila Dam area on Urakasmanhandia road under the Ahungalla police division.
+
+Police said that a motorcycle traveling from Ahungallai to Urakasmanhandi crashed into a face -to -face with a three -wheeler.
+
+The motorcycle was killed in the accident and was admitted to the hospital after he was seriously injured.
 
 ◼️
 
 [Data](articles/b3896a45.json)
+
+[Extended Data](ext_articles/b3896a45.ext.json)
 
 ---
 
@@ -396,21 +488,27 @@ Accordingly, officials of the Provincial and Regional Offices will also be deplo
 
 ---
 
-### அலைபேசி எடுத்துச் செல்ல தடை
+### Restriction
 
 *2024-11-17 12:31:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அலைபேசி-எடுத்துச்-செல்ல-தடை/175-347331) · `ta`
 
-இம்முறை, கல்விப் பொதுதராதர உயர்தர பரீட்சை நடைபெறும் பரீட்சை நிலையங்களுக்குள், உதவி அதிபர் உட்பட கண்காணிப்பு ஆசிரியர்களுக்கு  அலைபேசிகளை எடுத்துச் செல்லதடை விதிக்கப்பட்டுள்ளது.
+Cell phone restrictions at exam centers: Surveillance teachers, including Assistant Chancellor, banned; only Station Officer and Additional Superintendent allowed to carry phones. Decision made due to past issues. Officials from Provincial and Regional Offices to assist in surveillance.
 
-பரீட்சை மையத்தின் நிலைய அதிகாரி மற்றும் மேலதிக கண்காணிப்பாளர் மட்டுமே அலைபேசிகளை எடுத்துச் செல்ல அனுமதிக்கப்படுவர்.
+🟩
 
-கடந்த காலங்களில் எழுந்த பிரச்சினைகள் காரணமாக, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளதாக பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+This time, at the Examination Centers where the Educational Public Advancement Examinations are held, the surveillance teachers, including the Assistant Chancellor, have been imposed on cell phones.
 
-இதன்படி, பரீட்சை திணைக்கள உத்தியோகத்தர்களுக்கு மேலதிகமாக, மாகாண மற்றும் பிராந்திய அலுவலகங்களின் அதிகாரிகளும் கண்காணிப்புக்கு ஈடுபடுத்தப்படவுள்ளனர்.
+Only the Station Officer of the Examination Center and the Additional Superintendent will be allowed to carry the cell phones.
+
+The Department of Examinations said that the decision has been taken due to problems in the past.
+
+Accordingly, officials of the Provincial and Regional Offices will also be deployed for surveillance to the Department of Examinations.
 
 ◼️
 
 [Data](articles/c37f10b7.json)
+
+[Extended Data](ext_articles/c37f10b7.ext.json)
 
 ---
 
@@ -1120,6 +1218,40 @@ Despite its definite views and positions on these responsible compassions, the U
 
 ---
 
+### Six school children arrested in Panadura public closet
+
+*2024-11-17 10:17:21* · [`adalk`](https://www.ada.lk/breaking_news/පානදුර-පොදු-වැසිකිලියේ-මුදල්-කොල්ලකෑ-පාසල්-සිසුන්-හයක්-අත්අඩංගුවට/11-413084) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Six schoolchildren (16, 17) arrested in Panadura for robbing a beachside shop. They fled after frightening staff. Police recovered stolen goods worth Rs. 415. Further investigation ongoing.
+
+🟩
+
+Six schoolchildren who robbed the casualty of the employee of the seashore of the sea in Panadura were arrested.
+
+The arrested persons were 16 and 16th-year-old schoolgirl residing in Moratuwa
+
+Six suspects arrive near the public closet of Panadura coast and no one arrived?While observing to go, the other three have frightened the cash box.
+
+Police said that the frightened servant had been taken away and seized with the assistance of the full-filled full of filled.
+
+A senior police officer said that the robbery was Rs. 415.
+
+Chief Suspect Who Bar Mind
+
+Senior Superintendent of Police Chamil Ratnayake and Assistant Superintendent of Police Nishantha Senaratne is conducting further investigations.
+
+◼️
+
+[Data](articles/6bdd44c9.json)
+
+[Extended Data](ext_articles/6bdd44c9.ext.json)
+
+---
+
 ### If the President's promises are true, the homes of the heroes should be released - Pon Sudan!
 
 *2024-11-17 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198954) · `ta`
@@ -1332,19 +1464,29 @@ He said he had received nearly two lakh votes in the last election.An
 
 ---
 
-### නිතිවිරෝධීව එකලස් කළ තවත් ඩිෆෙන්ඩර් රියක් අල්ලයි?
+### Another Defender who assembled illegships was arrested?
 
 *2024-11-17 09:59:00* · [`adalk`](https://www.ada.lk/breaking_news/නිතිවිරෝධීව-එකලස්-කළ-තවත්-ඩිෆෙන්ඩර්-රියක්-අල්ලයි-/11-413082) · `si`
 
-නීති විරෝධී බවට සැක තවත් කෝටි ගණනක් වටිනා නවීන සුඛෝපභෝගී ඩිෆෙන්ඩර් රථයක් මහනුවර මූලස්ථාන පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ.
+Here's a summary in 200 characters:
 
-වැඩ බලන පොලිස්පතිවරයාට ලද සෘජු පැමිණිල්ලකට අනුව මහනුවර මූලස්ථාන පොලිසිය මගෙන් අත්අඩංගුවට ගෙන ඇති එම ඩිෆෙන්ඩර් රථය මහනුවර ප්‍රධාන පෙළේ මත්ස්‍ය අලෙවි ව්‍යාපාරිකයකුට අයත් රථයක් බව පොලිසිය කියයි.
 
-එම රථයේ නීතියානුකූලබව පරීක්ෂා කිරීම සඳහා රජයේ රස පරීක්ෂකවරයාට ඉදිරිපත් කිරීමට නියමිත බවද පොලිසිය කියයි.
+
+Defender arrested for assembling illegal ships. Kandy Headquarters detained by police. Government Analyst to face legal action regarding vehicle.
+
+🟩
+
+The Kandy Headquarters have been arrested by the Kandy Headquarters Defender.
+
+According to a direct complaint to the Acting Inspirus Police, Kandy headquarters has been arrested by the Kandy headquarters.
+
+The Government Analyst is to be produced before the law of the vehicle.
 
 ◼️
 
 [Data](articles/261fe462.json)
+
+[Extended Data](ext_articles/261fe462.ext.json)
 
 ---
 
@@ -2315,27 +2457,5 @@ I was delighted to receive your letter dated …. I shall be most grateful if yo
 [Data](articles/57b8ec83.json)
 
 [Extended Data](ext_articles/57b8ec83.ext.json)
-
----
-
-### UNP decides to contest all upcoming elections only under ‘elephant’ symbol
-
-*2024-11-16 22:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103551/unp-decides-to-contest-all-upcoming-elections-only-under-elephant-symbol) · `en`
-
-A special discussion on the future political direction of the United National Party (UNP) was held this morning (16) under the leadership of the party’s leader, former President Ranil Wickremesinghe. Several former UNP Members of Parliament participated in the meeting.
-
-The discussion reportedly focused on the party’s strategy for the upcoming elections, with an emphasis on contesting under the ‘elephant’ symbol.
-
-Speaking to the media following the meeting, UNP Chairman and former MP Vajira Abeywardena confirmed that the party plans to contest all upcoming elections under the ‘elephant’ symbol.
-
-Abeywardena stated that this decision was made to strengthen the stability of the party and reinforce its direction as the party moves forward.
-
-The United National Party, one of Sri Lanka’s oldest political parties, has a longstanding association with the ‘elephant’ symbol, which has been central to its identity and voter recognition.
-
-◼️
-
-[Data](articles/f39c1391.json)
-
-[Extended Data](ext_articles/f39c1391.ext.json)
 
 ---

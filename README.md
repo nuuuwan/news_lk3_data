@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 14:00:52**
+As of **2024-11-17 14:13:07**
 
 ## Newspaper Stats
 
@@ -39,6 +39,8 @@ Extensions include translations and NER (Named Entity Recognition).
 The ‘Sarvajana Balaya’ alliance has decided to nominate the leader of the alliance and Gampaha District parliamentary candidate Dilith Jayaweera as an MP through the party’s National List, the General Secretary of ‘Sarvajana Balaya’ Ranjan Seneviratne said.
 
 Issuing a statement, the ‘Sarvajana Balaya’ announced that this decision was reached unanimously by the alliance’s executive committee.
+
+Accordingly, the Executive Committee of the Sarvajana Balaya decided to nominate Dilith Jayaweera as the party’s National List MP and to convey the decision to the Election Commission today, he said.
 
 ◼️
 

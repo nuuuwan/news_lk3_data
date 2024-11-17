@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 05:50:53**
+As of **2024-11-17 06:15:57**
 
 ## Newspaper Stats
 
-*Scraped **55,275** Articles*
+*Scraped **55,276** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,169
 adaderanalk | 6,676
-tamilmirrorlk | 7,832
+tamilmirrorlk | 7,833
 virakesarilk | 8,955
 adaderanasinhalalk | 9,557
 
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,275 (100.0%) of 55,275 articles have been extended.
+55,275 (100.0%) of 55,276 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### ’தேசிய மக்கள் சக்தியை எதிர்ப்பானவர்கள் அல்லர்’
+
+*2024-11-17 03:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-எதிர்ப்பானவர்கள்-அல்லர்/175-347310) · `ta`
+
+நாங்கள் எந்தச் சந்தர்ப்பத்திலும் தேசிய மக்கள் சக்தியை எதிர்ப்பானவர்கள் அல்லர் என்று  இலங்கைத் தமிழரசுக் கட்சியின் சிரேஷ்ட துணைத் தலைவரும் வடக்கு மாகாண சபையின் அவைத் தலைவருமான சி.வி.கே.சிவஞானம் தெரிவித்தார்.
+
+யாழ்ப்பாணத்தில் உள்ள தமது அலுவலகத்தில் நேற்று இடம்பெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு கூறினார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
+
+தேசிய மக்கள் சக்தி அலையாக அல்லது சுனாமியாக இந்த முறை வெற்றியைப் பதிவு செய்திருக்கின்றது. இந்தக் கட்சி மூன்றில் இரண்டுக்கும் மேற்பட்ட பெரும்பான்மைப் பலத்தைப் பெற்றிருக்கின்றது. இந்தக் கட்சியில் யாழ்ப்பாணத்திலும், ஏனைய இடங்களிலும் சிலர் தெரிவு செய்யப்பட்டும் உள்ளனர்.
+
+ஆகவே, நாங்கள் கட்சி சார்ந்து அல்லது கொள்கை சார்ந்து சொல்லக்கூடிய விடயம் என்னவென்றால் அநுர தரப்பினர் முன்னைய காலத்தில் 13 ஆவது திருத்தத்துக்கும் மாகாண சபை முறைமைக்கு எதிராகவும் போராடியவர்கள். ஆனால், இப்போது தமிழ் மக்கள் அதனை விரும்புவதாலும், புதிய அரசமைப்பைக் கொண்டு வரவுள்ளதாலும் அந்த முறைமை அப்படியே இருக்கட்டும் என்றவாறான மாற்றமொன்று அவர்களிடத்தே ஏற்பட்டிருக்கின்றது.
+
+...
+
+[Data](articles/98134115.json)
+
+---
 
 ### Extension of landslide risk warning
 
@@ -2569,33 +2587,5 @@ Prime Minister Dr. Harini Amarasuriya thanked the people of the North and East, 
 [Data](articles/393a78c7.json)
 
 [Extended Data](ext_articles/393a78c7.ext.json)
-
----
-
-### New faces in Vanni: Very low voting wealth
-
-*2024-11-16 02:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/198892) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"3 newcomers in Vanni: Tilakanathan (10652), Jagadeeswaran (9280), Ravikaran (11215) elected to Parliament. Resort Bathiudeen (21018) re-elected with lower votes. K. Gay Mastan (Ceylon Workers Party) wins with over 13k votes. Selvam Adakkalanathan (Democratic Tamil National Alliance) enters with 5695 votes, lowest in history."
-
-🟩
-
-Three new faces in the Vanni electorate in the parliamentary elections are entering the parliament.
-
-On behalf of the National People's Power. The power doctor, known as Tilakanathan, is the doctor.
-
-The last time he participated in the election through the All Ceylon Tamil Congress, but was unable to attend parliament. He is currently contesting the election through the National People's Power and has been elected to Parliament with 10652 preferential votes.
-
-Meanwhile, the National People's Power. Jagadeeswaran has participated in various struggles on behalf of the Asians and put forward the demands of the teachers against the past governments as the Northern Province and the National Vice President of the Teachers' Seva Association. He is currently clear to Parliament with 9280 preferential votes.
-
-...
-
-[Data](articles/a98ba129.json)
-
-[Extended Data](ext_articles/a98ba129.ext.json)
 
 ---

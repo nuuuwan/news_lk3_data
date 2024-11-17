@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 06:47:05**
+As of **2024-11-17 06:15:57**
 
 ## Newspaper Stats
 
-*Scraped **55,278** Articles*
+*Scraped **55,276** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
-colombotelegraphcom | 563
+colombotelegraphcom | 561
 bbccomsinhala | 565
 islandlk | 3,298
 economynextcom | 3,354
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,557
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,275 (100.0%) of 55,278 articles have been extended.
+55,275 (100.0%) of 55,276 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,32 +67,6 @@ A landslide hazard has been extended to the districts of Matale, Kegalle, Kurune
 [Data](articles/78793e48.json)
 
 [Extended Data](ext_articles/78793e48.ext.json)
-
----
-
-### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
-
-*2024-11-17 01:06:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-experts-expertise-expatriates/) · `en`
-
-The inability of Sri Lankan citizens, academics and scholars included, to engage properly with critical issues on time presents a risk to society. It also presents a challenge to the new GOSL. I’ve said this before – sadly, the country ended up in its current, precarious state due to a financial crisis brought about by wicked and corrupt politicians, some of whom have amassed vast wealth in just 15 years after the terrorist war ended. But corrupt and stupid politicians didn’t do it alone.
-
-...
-
-[Data](articles/44a25f26.json)
-
----
-
-### An Open Letter To President AKD: Make Religious Freedom Or Belief A priority
-
-*2024-11-17 00:58:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-open-letter-to-president-akd-make-religious-freedom-or-belief-a-priority/) · `en`
-
-Dear Mr. President, I write to you not only as a concerned citizen but as someone who is deeply invested in the international standing and reputation of Sri Lanka. Just a few months ago, I was among those who voiced their skepticism about your ascent to the presidency, questioning whether your promises of eradicating corruption and prioritizing the welfare of the people would blossom into genuine change.
-
-Yet, today, I reach across the chasm of our political differences to appeal to a shared hope: a united and harmonious Sri Lanka – ensuring religious freedom or belief to all. As you have articulated in your speeches, Sri Lanka stands at a crossroads—we either repeat divisive politics or create an opportunity to build a nation that values the rich diversity of its people.
-
-...
-
-[Data](articles/44125c08.json)
 
 ---
 
@@ -2557,5 +2531,61 @@ Speaking to The Hindu at the party’s headquarters in Battaramulla near Colombo
 [Data](articles/9a27e09b.json)
 
 [Extended Data](ext_articles/9a27e09b.ext.json)
+
+---
+
+### Vijitha Herath tops the list
+
+*2024-11-16 02:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-முதலிடம்/175-347279) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Vijitha Herath wins Gampaha seat. Harini Amarasuriya second in Colombo with 655,289 votes. Mahinda Rajapaksa previously highest in Kurunegala with 527,364 votes.
+
+🟩
+
+The Gampaha district candidate of the National People's Power, Vijitha Herath, won the parliamentary election in the parliamentary election and again elected to parliament.
+
+Ascendant. Harini Amarasuriya, the National People's Power candidate in Colombo district, has won the second place with the highest number of votes. He received 655,289 votes.
+
+Mahinda Rajapaksa had previously received more preferential votes. He contested the 2020 parliamentary elections in the Kurunegala district and received 527,364 votes. (A)
+
+◼️
+
+[Data](articles/c2c6c20c.json)
+
+[Extended Data](ext_articles/c2c6c20c.ext.json)
+
+---
+
+### Thank you all who gave shoulder to the Renaissance Yuga - President
+
+*2024-11-16 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198893) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Presidential candidate Anura Kumara Dissanayake thanks supporters for helping begin "Renaissance Age." National People's Power wins 159 seats. He urges peaceful celebrations and stability in political culture. Prime Minister Harini Amarasuriya thanks Northern and Eastern voters, ensuring Tamil confidence.
+
+🟩
+
+Anuragumara Dissanayake has thanked the people of the country, thank you all who gave shoulder to the beginning of the Renaissance Age.
+
+President Anura Kumara Dissanayake has uploaded a gratitude on his official X website following the National People's Power General Election.
+
+The president urged the presidential election to be a peaceful celebration of the general election, and pointed out to the people that the political culture that peacefully celebrate the election victory should be stable.
+
+The President has uploaded a thank you to all the people who gave the shoulder to start the Renaissance Age as the National People's Power has won 159 seats.
+
+Prime Minister Dr. Harini Amarasuriya thanked the people of the North and East, the main partners in the victory of the National People's Power. The Prime Minister also noted that the confidence of the Tamils ​​is well protected.
+
+◼️
+
+[Data](articles/393a78c7.json)
+
+[Extended Data](ext_articles/393a78c7.ext.json)
 
 ---

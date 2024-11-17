@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 16:58:43**
+As of **2024-11-17 16:41:18**
 
 ## Newspaper Stats
 
-*Scraped **55,401** Articles*
+*Scraped **55,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,122 +17,20 @@ economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,185
-adaderanalk | 6,690
-tamilmirrorlk | 7,854
-virakesarilk | 8,987
-adaderanasinhalalk | 9,582
+adaderanalk | 6,689
+tamilmirrorlk | 7,853
+virakesarilk | 8,984
+adaderanasinhalalk | 9,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,394 (100.0%) of 55,401 articles have been extended.
+55,393 (100.0%) of 55,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
-
-### NPP and ‘Sarvajana Balaya’ National List MPs gazetted
-
-*2024-11-17 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103565/npp-and-sarvajana-balaya-national-list-mps-gazetted-) · `en`
-
-The names nominated to enter the Parliament through the National Lists of the National People’s Power (NPP) and the ‘Sarvajana Balaya’ alliance, have been gazetted.
-
-As per the gazette notification issued by the Election Commission of Sri Lanka, the MPs to enter the Parliament through the national lists of ‘Sarvajana Balaya’ and NPP are as follows:
-
-◼️
-
-[Data](articles/b5db9b47.json)
-
----
-
-### ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත්කරන වේලාවේ වෙනසක්
-
-*2024-11-17 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203466) · `si`
-
-10වැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය ආරම්භයේ දී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කරන වේලාව සංශෝධනය කර තිබේ.
-
-ඒ අනුව නොවැම්බර් 21 දින පෙ.ව.  11.30ට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය සිදු කරන බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව අද (17) නිවේදනය කළේය.
-
-එම දෙපාර්තමේන්තුව මීට පෙර නිවේදනය කර තිබුණේ මෙය 21වනදා ප.ව. 3ට ජනාධිපතිවරයා විසින් සිදුකරන බවයි.
-
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 (අ) ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ සභාවාරයක් ආරම්භයේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවේදී ඉදිරිපත් කිරිමටත්, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 (ආ) අනු ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ මංගල රැස්වීම්වල මුලසුන දැරීමටත් ජනාධිපතිවරයාට බලතල හිමිය.
-
-මෙහිදී සිය ආණ්ඩුවේ ඉදිරි දැක්ම පිළිබඳ සවිස්තරාත්මක විග්‍රහයක් ජනාධිපතිවරයා විසින් සිය ප්‍රතිපත්ති ප්‍රකාශය මගින් පාර්ලිමේන්තුවට සහ මහජනතාවට ඉදිරිපත් කරනු ලබයි.
-
-දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය එළැඹෙන නොවැම්බර් 21 වනදා පෙරවරු 10.00 ට ආරම්භ කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/44f7c5dd.json)
-
----
-
-### தேசிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினர்கள்
-
-*2024-11-17 16:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-தேசிய-பட்டியல்-உறுப்பினர்கள்/175-347337) · `ta`
-
-தேசிய மக்கள் சக்தியின் (NPP) தேசிய பட்டியல் ஊடாக பாராளுமன்றம் செல்லும் 18 உறுப்பினர்களின் பெயர் பட்டியலை தேர்தல் ஆணைக்குழு வௌியிட்டுள்ளது.
-
-◼️
-
-[Data](articles/751f11a7.json)
-
----
-
-### வரலாற்று வெற்றி
-
-*2024-11-17 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198980) · `ta`
-
-தொகுதிவாரி முறை நடைமுறையில் இருந்த 1977 ஆம் ஆண்டு பொதுத்தேர்தலில் ஜே.ஆர்.ஜயவர்த்தனவின் ஐக்கிய தேசியக் கட்சிக்கு ஆறில் ஐந்து பெரும்பான்மை கிடைத்திருந்தது. பின்னர்  மஹிந்த ராஜபக்ஷவும் கோட்டாபய ராஜபக்ஷவும் மூன்றில் இரண்டை நெருங்கி வந்தார்கள் ஆனால், தேசிய மக்கள் சக்திக்கு கிடைத்திருக்கின்ற பலம் அவற்றை விட மிகவும் வலுவானது. மட்டக்களப்பு மாவட்டத்தைத் தவிர, மற்றெல்லா மாவட்டங்களையும் தேசிய மக்கள் சக்தியை கைப்பற்றிக் கொண்டிருக்கிறது. இந்தநிலைமைக்கு அதிக அளவில் போட்டியிட்ட அரசியல் கட்சிகள் மற்றும் சுயேட்சை குழுக்கள் தான் காரணம்.
-
-◼️
-
-[Data](articles/77752508.json)
-
----
-
-### தமிழ்க் கட்சிகளுக்கு கடைசி வாய்ப்பு
-
-*2024-11-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198979) · `ta`
-
-வடக்கில் தமிழ் மக்கள் கூட்டணி, புளொட் , ரெலோ, ஈ.பி.டி.பி., சிறிலங்கா சுதந்திர கட்சி ஆகிய கட்சிகளிடம் இருந்த தலா ஒரு ஆசனமும், தமிழரசுக் கட்சியிடம் இருந்த  இரண்டு ஆசனங்களும்  பறி போயிருக்கின்றன. கிழக்கில் பொறுத்தவரையில் இலங்கைத் தமிழரசுக் கட்சி கடுமையான சவாலுக்கு மத்தியிலும், உள்ளக முரண்பாடுகளைத் தாண்டியும் 5 ஆசனங்களைத் தக்க வைத்துக் கொண்டிருக்கிறது.
-
-◼️
-
-[Data](articles/0bc5c5e1.json)
-
----
-
-### ஐஸ் போதைப்பொருளுடன் ஒருவர் கைது
-
-*2024-11-17 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198995) · `ta`
-
-பறயனாலங்குளம் பொலிஸ் பிரிவுக்குட்பட்ட ஆண்டியாபுளியங்குளம் பிரதேசத்தில் ஐஸ் போதைப்பொருளுடன் ஒருவர் நேற்று சனிக்கிழமை (16) பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-பறயனாலங்குளம் பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த இரகசிய தகவலையடுத்து மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர் கைது செய்யப்பட்டுள்ளார்.
-
-சந்தேக நபரிடமிருந்து 05 கிராம் 100 மில்லி கிராம் ஐஸ் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/01f4f6f2.json)
-
----
-
-### ITAK  ජාතික ලැයිස්තු මන්ත්‍රී ධුරය පි.සත්‍යලිංගම්ට
-
-*2024-11-17 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203465) · `si`
-
-ඉලංකෙයි තමිල් අරුසු කච්චිය ලබාගත් ඡන්ද සංඛ්‍යාව අනුව හිමි වූ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා එම පක්ෂයේ මහ ලේකම් වෛද්‍ය පි.සත්‍යලිංගම් මහතා නම් කර තිබේ.
-
-පි.සත්‍යලිංගම් මහතා වන්නි දිස්ත්‍රික්කයෙන් ඉලංකෙයි තමිල් අරුසු කච්චිය නියෝජනය කරමින් තරග කළ අයෙකි.
-
-◼️
-
-[Data](articles/e3a958d3.json)
-
----
 
 ### National JHU
 
@@ -2457,5 +2355,189 @@ The Department of Meteorology has said that rainfall is expected in a few places
 [Data](articles/4d60fd55.json)
 
 [Extended Data](ext_articles/4d60fd55.ext.json)
+
+---
+
+### The child who went from the well was billing well
+
+*2024-11-17 07:58:38* · [`adalk`](https://www.ada.lk/breaking_news/වගා-ළිඳෙන්-වතුර-ගන්න-ගිය-ළමයා-වගා-ළිඳට-බිලි/11-413078) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Child falls into well in Mamaduwa police division. Nine-year-old boy heard crying while fetching water. Rescue efforts underway.
+
+🟩
+
+A child has died in a well in a well in the Mamaduwa police division.
+
+A child in Kallakulam was nine years old.
+
+The deceased child has fallen into the well and hearing the bucket at the well, and the wells that will fall into the well and to get to the well.
+
+◼️
+
+[Data](articles/08fab1cf.json)
+
+[Extended Data](ext_articles/08fab1cf.ext.json)
+
+---
+
+### Showers in many parts of the provinces
+
+*2024-11-17 07:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413077) · `si`
+
+Heavy showers forecasted in Western, Central, Sabaragamuwa, Southern, Uva, and Udarapura provinces. Thunderstorms possible. 75mm rainfall expected in some areas. Morning showers predicted for Northern and Eastern provinces.
+
+🟩
+
+Showers or thundershowers will occur at several places in the Western, Central, Sabaragamuwa, Southern, Uva and Udarapura.
+
+The Department has informed about 75mm at some places in the Western, Sabaragamuwa and Central provinces.
+
+Showers will occur at a morning in the Northern and Eastern Provinces.
+
+◼️
+
+[Data](articles/6bae013f.json)
+
+[Extended Data](ext_articles/6bae013f.ext.json)
+
+---
+
+### Negligence is the lack of a child's suicide
+
+*2024-11-17 07:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203445) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Child dies attempting to fetch water from well in Mathuwa, Mamaduwa area. Incident attributed to negligence. Male victim, local resident.
+
+🟩
+
+The victim was a maleman who was resident in Mathuwa, Mamaduwa area.
+
+When the child had to take water at the morning, he died in the well, trying to take it due to falling the bucket.
+
+◼️
+
+[Data](articles/5efe41ec.json)
+
+[Extended Data](ext_articles/5efe41ec.ext.json)
+
+---
+
+### Registration of MPs who were elected to Parliament from today
+
+*2024-11-17 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203444) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Newly elected MPs register today. Online work begins. Physical presence allowed. Election Commission informs veteran parties about National List nominations. Gazette publication next step. District-elected MP names announced yesterday.
+
+🟩
+
+Members who were elected to the 10th Parliament are scheduled to work online from today (17).
+
+Member of Parliament General Secretary General of Parliament Kasasini Rohanadera said the presence of the parliamentary premises could also be registered.
+
+Meanwhile, the Elections Commission has taken steps to inform the veteran parties to refer to the Elections Commission to be sent to the Elections Commission to be elected from the National List.
+
+The Elections Commission then will be referred to the government printing press to publish the nomination by gazette.
+
+The names of elected MPs from each district were declared yesterday (17).
+
+◼️
+
+[Data](articles/69c4eec6.json)
+
+[Extended Data](ext_articles/69c4eec6.ext.json)
+
+---
+
+### Two arrested with 66 passports
+
+*2024-11-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203443) · `si`
+
+Two arrests made in Kahathuduwa: suspects possess 66 passports. Raid conducted based on police tip. Passports used for foreign employment over 2.5 years. Suspects found with ice narcotics.
+
+🟩
+
+A suspect and suspect in possession of 66 passports have been arrested in the Kahathuduwa, Siyambalagoda area.
+
+The suspects were arrested in a raid held at the relevant house on information received by the Kahathuduwa police officers.
+
+The suspect is 42 years old and the suspect is the 38th residents of the Siyambalagoda area.
+
+Singapore served in Sri Lanka in 2022 with Singapore, Hong Kong, Dubai and Romania.
+
+It has been revealed that the passports of their individuals have been staying in Rajagiriya to say that they have been given foreign employment to various people for two and a half years.
+
+They also received a month between the agencies and summoned the visa to the interview and the passports were taken and their passports.
+
+When inspected the resident of the suspects, the suspects were found in 20 milligrams of ice narcotics.
+
+◼️
+
+[Data](articles/2ac8b6fc.json)
+
+[Extended Data](ext_articles/2ac8b6fc.ext.json)
+
+---
+
+### Several special trains travel today and tomorrow
+
+*2024-11-17 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203442) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+"Special trains run today/tomorrow: Colombo-Badulla, Colombo-Beliatta, Colombo-Hikkaduwa, Matara-Galle to Colombo. For election/work commute."
+
+🟩
+
+The Railway Department says that several special trains will be operated for passengers traveling to employers and attend work on the general election and the long weekend vacation.
+
+The Department said that several special trains have been deployed in addition to the average railway routes today and tomorrow.
+
+Special trains will be implemented from the Colombo Fort to Badulla and the Colombo-Colombo Fort, from Badulla to Colombo Fort and from Beliatta to Colombo Fort.
+
+The Railway Department states that special trains will operate from Colombo Fort to Hikkaduwa and from Matara to Colombo Fort and Galle to Colombo Fort.
+
+◼️
+
+[Data](articles/230e0386.json)
+
+[Extended Data](ext_articles/230e0386.ext.json)
+
+---
+
+### Showers in the evening to many areas
+
+*2024-11-17 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203441) · `si`
+
+Evening showers widespread, thunderstorms at night in western, central, sabaragamuwa, southern, uva, and northwestern provinces. Morning showers in northern and eastern provinces. Some areas may experience prolonged rainfall in western, sabaragamuwa, central, and uva provinces, including galle and matara districts.
+
+🟩
+
+Showers or thundershowers will occur at night or night in the Western, Central, Sabaragamuwa, Southern, Uva and Uva and Uva and Northwestern provinces.
+
+The department has issued a statement in the Western, Sabaragamuwa and Central provinces.
+
+Showers will occur at the morning of the Northern and Eastern Provinces.
+
+Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
+
+◼️
+
+[Data](articles/191fc0ed.json)
+
+[Extended Data](ext_articles/191fc0ed.ext.json)
 
 ---

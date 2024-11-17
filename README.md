@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 22:41:13**
+As of **2024-11-18 00:00:58**
 
 ## Newspaper Stats
 
-*Scraped **55,436** Articles*
+*Scraped **55,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,276 @@ dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,313
-economynextcom | 3,355
+economynextcom | 3,359
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,194
+adalk | 5,196
 adaderanalk | 6,693
-tamilmirrorlk | 7,856
-virakesarilk | 9,000
-adaderanasinhalalk | 9,589
+tamilmirrorlk | 7,857
+virakesarilk | 9,008
+adaderanasinhalalk | 9,590
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,436 (100.0%) of 55,436 articles have been extended.
+55,451 (100.0%) of 55,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### Mahinda's dream came true - Namal
+
+*2024-11-17 23:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-கனவு-நனவாகியது-நாமல்/175-347355) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahinda Rajapaksa's dream realized by current govt: Namal Rajapaksa. Success attracts Northeners to southern parties. Sri Lanka PA opposes separatism.
+
+🟩
+
+Former President Mahinda Rajapaksa's dream has been realized by the success of the current government, said Namal Rajapaksa, the national organizer of the Sri Lanka PA.
+
+Mahinda Rajapaksa's dream was to create an environment where the political parties in the south were to attract the people of the North.
+
+Namal Rajapaksa has said that the dream has come true through the success of the current government.
+
+However, Namal Rajapaksa said in a letter today (17) that the Sri Lanka PA would not be able to accommodate any action that would lead the country to separatism again.. Remble
+
+◼️
+
+[Data](articles/a17a37a1.json)
+
+[Extended Data](ext_articles/a17a37a1.ext.json)
+
+---
+
+### Arrested with domestic gun
+
+*2024-11-17 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199013) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+57-year-old man arrested in Timbreiya for possessing a domestic firearm. Raid conducted based on police intelligence in Kirulla division. Suspect from Nikavaratiya.
+
+🟩
+
+A suspect has been arrested for possessing a domestic gun in the Timbreiyawa area of ​​the Kirulla police division.
+
+He was arrested during a raid on the basis of information received by the police officers of Kirulla.
+
+The arrested suspect is a 57 -year -old from Nikavaratiya, Timbreiya.
+
+◼️
+
+[Data](articles/400c9776.json)
+
+[Extended Data](ext_articles/400c9776.ext.json)
+
+---
+
+### The election campaign expenditure should be submitted within 21 days;Commission's instruction for all candidates
+
+*2024-11-17 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199009) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Election campaign spending deadline: 21 days post-results. Candidates must report expenses to local Election Officers. Failure to comply may result in legal action.
+
+🟩
+
+The 8821 candidates who contested the general election must submit the details of the election campaigns within 21 days. The Commissioner General of Elections Saman Sri Ratnayake said that if the case is not submitted during the period, appropriate legal action will be taken.
+
+The general election has been completed in a fair and independent. We thank the people, the security forces, the state and the private parties and the media who cooperated peacefully to hold the election.
+
+Democratically 225 members have been elected. Therefore, we urge the 225 members to do the best of the people. The success of the election will be determined by the five years of activities.
+
+This time 8821 contested the country on the basis of political parties and independent groups. Campaign for 22 Election Districts was set on the Election Expenditure Act No. 3 of 2023.
+
+...
+
+[Data](articles/917fbd7a.json)
+
+[Extended Data](ext_articles/917fbd7a.ext.json)
+
+---
+
+### We will cooperate with the Government to arrest the arrests and restore national assets - the United People's Power
+
+*2024-11-17 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199006) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"United People's Power supports govt arresting asset thieves & restoring national property. Opposition party vows cooperation. Party leader Sajith Premadasa emphasizes grassroots connection. Future plans to strengthen party."
+
+🟩
+
+The government has promised people to arrest the robbers who have robbed national assets and restore the property. United People's Power General Secretary Ranjith Mathuma Bandara said that we will give our full cooperation to the government as the opposition party to accomplish this.
+
+He further stated at a press conference held at the United People's Power Headquarters in Colombo on Sunday.
+
+The United People's Power is once again elected as the main opposition party. Two -thirds have to act in parliament with the majority of the ruling party. Similarly, the government has a responsibility to fulfill his promises during both elections.
+
+We are closely observing them in regard to them. The government has promised people to arrest the robbers in particular and restore the property. We will give the government our full cooperation as the Opposition to accomplish this.
+
+...
+
+[Data](articles/0fe8e2e0.json)
+
+[Extended Data](ext_articles/0fe8e2e0.ext.json)
+
+---
+
+### Parliament and Election Commission should take action to improve the capacity of minorities contesting elections - the Asian network for independent elections
+
+*2024-11-17 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198997) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's 2024 parliamentary election saw increased female representation but limited minority candidates. The Asian Network for Independent Elections urges improvement in election efficiency and voter education. Challenges include social media misinformation, accessibility issues for disabled voters, and restrictions on certain groups. Recommendations focus on enhancing minority participation and creating a more inclusive electoral environment.
+
+🟩
+
+Although the presence of minority and female candidates in the general election is limited, the female representation has increased in the election. This includes significant successes of women belonging to the Tamil plantation community. The Asian network for independent elections has urged the Sri Lanka Parliament, the Election Commission and the International NGOs to improve and strengthen the efficiency of the elections contesting the election to ensure that these gains continue to increase.
+
+The Asian network for independent elections released its interim report on Sunday at the Grand Hotel in Colombo, based on the surveillance of Sri Lanka's general election.. This is mentioned in that statement.
+
+...
+
+[Data](articles/88687d7b.json)
+
+[Extended Data](ext_articles/88687d7b.ext.json)
+
+---
+
+### Mahinda's dream was fulfilled - Namal
+
+*2024-11-17 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203475) · `si`
+
+Namal Rajapaksa: Mahinda's vision realized. Government victory brings unity between South's political parties and North's participation. Sri Lanka Croad not allowed back to separatism.
+
+🟩
+
+The National Organization of the Sri Lanka Government Mahinda Rajapaksa has come true with the victory of the present government to bring about an atmosphere of the South's political parties and the participation of the people of the North.
+
+However, Namal Rajapaksa issued a letter to the Sri Lanka Croader today (17) that the Sri Lanka Croad is not allowed back to separatism.
+
+Here is the full article, Namal Rajapaksa issued by Namal Rajapaksa in the national organizations of the Sri Lanka General Secretary of the Sri Lanka General Secretary.
+
+◼️
+
+[Data](articles/52928bf2.json)
+
+[Extended Data](ext_articles/52928bf2.ext.json)
+
+---
+
+### National List Members Special Gazette Release - Elections Commission
+
+*2024-11-17 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199024) · `ta`
+
+Elections Commission releases special gazette confirming National List Members. Bimal Ratnayake, Anura Karunathilaka, Upali Pannilake, and others elected under Article 99 of the Constitution. Dilith Jayaweera joins Sarvaja power National List.
+
+🟩
+
+The Elections Commission has issued a special gazette notification to confirm the names of the National List Members of the National People's Power and the National List.
+
+Under Article 99 of the Constitution, Bimal Ratnayake, Anura Karunathilaka, Upali Pannilake, Eranga Udhese Veeraratne, Aruna Jayasekara, Harshana SuryaperumaLakmali Kanchana Hemachandra, Sunil Saminda Kumara, Gamini Ratnayake, Ruwan Saminda Ranasinghe, Sukat Wasantha de Silva, Abubakar Adambawa and Ratnayake Samarasinghe have been elected as MPs.
+
+Dilith Jayaweera has been elected as a member of the National List of the Sarvaja power.
+
+◼️
+
+[Data](articles/83b181e5.json)
+
+[Extended Data](ext_articles/83b181e5.ext.json)
+
+---
+
+### Winning of the National People's Power
+
+*2024-11-17 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199000) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National People's Power wins historic victory. Unexpected outcome: fewer direct seats than hoped. Gained one national list seat. Leader Anura Kumara Dissanayake congratulated on strong mandate. Defeated Gotabhaya Rajapakse's policies. Ranil Wickremesinghe would've won if elected directly. People made practical choice despite expectations.
+
+🟩
+
+The success of the national people's power must be referred to as a political tsunami. We expected to capture more seats. However a seat is not even available. The National Organizer and former minister of the Sarvana Shakti, Til Amunugama, said that he was not going to be a Member of Parliament through the national list.
+
+In the general election, President Anura Kumara Dissanayake has won the history of national people's power in the history. This should be referred to as a political tsunami. We fully accept the new people.
+
+The people of the country have made a coup with great confidence in President Anurakumara. I congratulate the government to work well in the expectations of the people.
+
+Gotabhaya Rajapakse's false political decisions, which came to power in 2020, have been a major political change.. Ranil Wickremesinghe would be the president today if the people were elected to the country. The people of the country will make a political decision on the practical matters.
+
+...
+
+[Data](articles/3814aa90.json)
+
+[Extended Data](ext_articles/3814aa90.ext.json)
+
+---
+
+### Harsha de Silva to continue the new political and cultural change made by the people - Harsha de Silva
+
+*2024-11-17 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199003) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Harsha de Silva vows to support ongoing political and cultural changes. He thanks Colombo voters for increased support, promising to combat corruption and explain economic issues. As Opposition MP, he'll work towards fulfilling public aspirations.
+
+🟩
+
+All the people of the country, the North, South and the hill country, have given the president the power to create a developed country. Dr. Harsha de Silva said that it has decided to cooperate to continue this new political and cultural change by the people.
+
+He added: “I thank the people of Colombo for giving me twice as much preferential votes than the last election.. I see this as a welcome welcome among the people in Parliament.. I will continue to fight corruption and clarify the people on economic on the economic.. This is a new culture. I have decided to give full cooperation to fulfill the aspirations of the people as an Opposition MP.. "I am ready to continue this new political and cultural change that people have made."
+
+◼️
+
+[Data](articles/70a306e4.json)
+
+[Extended Data](ext_articles/70a306e4.ext.json)
+
+---
+
+### 18 doctors elected to Parliament
+
+*2024-11-17 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199023) · `ta`
+
+18 doctors elected to Parliament out of 225 members. 16 represent national power party. 2 from other parties: Sri Lanka Tamil National Party and Independent Committee.
+
+🟩
+
+Of the 225 members who have been elected to the country's tenth parliament, are included in 18 doctors. Of these, 16 represent the national power.
+
+Dr. Mohamed Rizvi Sali, Dr. Chrishantha Silva Abeysena, Dr. Nihal Abeysinghe, Dr. Nalinda Jayatissa, Dr. Nishantha Samaraweera, Dr.Dr. Prasanna Gunasena, Dr. Madura Seneviratne, Dr. PH Dhammika and Dr. Sri Bhavananda Raja have been elected to Parliament on behalf of the national people's power.
+
+Dr. Ilayadambi Srinath, who contested on behalf of the Sri Lanka Tamil National Party, and Dr. Ramanathan Aksna, who contested on behalf of the Independent Committee.
+
+◼️
+
+[Data](articles/46f941da.json)
+
+[Extended Data](ext_articles/46f941da.ext.json)
+
+---
 
 ### IMF team arrives in Sri Lanka for third review under EFF program
 
@@ -409,6 +661,56 @@ SriLankan Airlines has taken steps to educate passengers from these aircraft, an
 [Data](articles/dd00284b.json)
 
 [Extended Data](ext_articles/dd00284b.ext.json)
+
+---
+
+### National List of seminar on gas cylinder postponed
+
+*2024-11-17 19:00:25* · [`adalk`](https://www.ada.lk/breaking_news/ගෑස්-සිලින්ඩරයේ-ජාතික-ලැයිස්තු-මන්ත්‍රීධුර-පත්කිරීම-කල්-යයි/11-413106) · `si`
+
+Gas cylinder seminar postponed. New Democratic Front wins 2 national lists. PM Dinesh Gunawardena leads list. Sharmila Perera second. Lists not finalized yet.
+
+🟩
+
+According to internal sources of the party, the new Democratic Front that competed with the gas cylinder, will take some time to name the two national lists.
+
+According to the general election results, the new Democratic Front won two national lists.
+
+Prime Minister Dinesh Gunawardena had been given the first place in the National List of the New Democratic Front. The second place is Mrs. Sharmila Perera, the Secretary General of the New Democratic Front.
+
+However, the party sources said that the new Democratic Front has not yet reached the two national lists of the New Democratic Front.
+
+◼️
+
+[Data](articles/a3c914f5.json)
+
+[Extended Data](ext_articles/a3c914f5.ext.json)
+
+---
+
+### The rights of the people should be defended with infinite power
+
+*2024-11-17 18:42:48* · [`adalk`](https://www.ada.lk/breaking_news/අසීමිත-බලය-සමග-ජනතාවගේ-අයිතීන්-ආරක්ෂා-කර-ගත-යුතුයි/11-413103) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Rights protected by infinite government power: democracy safeguarded, people's rights defended. Opposition plays crucial role in fulfilling citizens' rights and preserving democracy.
+
+🟩
+
+The General Secretary of the JVP Ranjith Maddumabandara said that with the unlimited power of the government and the rights of the government should protect the rights of democracy and the rights of the people.
+
+He was speaking at a media briefing held in Colombo today (17). At the same time, Ranjith Madduma Bandara said.
+
+"We are thankful for all those who voted for the protection of voters and democracy to vote for the community and democracy in general. And we thank the security forces of the relevant officers, who have taken the general election. Also, print media, electronic media and social media played a large task to protect the democracy of the country. Also this year, nearly Rs.. Thankfully, we are thankful that people put the people over the reconciliation power.
+
+...
+
+[Data](articles/dd331153.json)
+
+[Extended Data](ext_articles/dd331153.ext.json)
 
 ---
 
@@ -819,6 +1121,40 @@ Farmers' Peace Struggle, which began on September 15 last year, has been going o
 [Data](articles/58b495d4.json)
 
 [Extended Data](ext_articles/58b495d4.ext.json)
+
+---
+
+### Sri Lanka NPP national list members named, Dilith from Sarvajana
+
+*2024-11-17 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-npp-national-list-members-named-dilith-from-sarvajana-188308/) · `en`
+
+ECONOMYNEXT – Eighteen members from Sri Lanka’s Lanka National People’s Power have been declared elected to the parliament by the Elections Commission in a gazette notice.
+
+◼️
+
+[Data](articles/a4713d04.json)
+
+[Extended Data](ext_articles/a4713d04.ext.json)
+
+---
+
+### Sri Lanka President’s parliament address time revised to 11.30am on Nov 21
+
+*2024-11-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-parliament-address-time-revised-to-11-30am-on-nov-21-188311/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake will make an policy address at 11.30 am on November 21, and not 3.00 pm, as earlier indicated, the parliament said in a statement.
+
+“During this session, the President will deliver a comprehensive explanation of the government’s vision and forthcoming initiatives through the Policy Statement, addressing both Parliament and the public,” the statement said.
+
+President Dissanayake is expected to swear in a cabinet on Monday.
+
+President Dissanayake’s National People’s Power party swept parliamentary polls on November 14 winning over two thirds of the 225 assembly seats. (Colombo/Nov17/2024)
+
+◼️
+
+[Data](articles/f836cb6f.json)
+
+[Extended Data](ext_articles/f836cb6f.ext.json)
 
 ---
 
@@ -1365,6 +1701,52 @@ Despite failing to win any seats in the general election, the party allowed the 
 [Data](articles/8ed69165.json)
 
 [Extended Data](ext_articles/8ed69165.ext.json)
+
+---
+
+### Sri Lanka newly elected members asked to submit information to parliament
+
+*2024-11-17 15:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-newly-elected-members-asked-to-submit-information-to-parliament-188303/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly elected members have been asked by the Secretary General Kushani Rohanadeera to submit their details for registration.
+
+An online portal has been provided on the front page of the parliament website.
+
+Information desks will be operated on November 19 and 20 to support new members.
+
+In the current general election, a large number of new members were elected through the National People’s Power which got a two thirds majority.
+
+The Secretary-General of Parliament, Mrs. Kushani Rohanadeera, has announced that in connection with the first Session of the First Sitting of the Tenth Parliament, facilities have been arranged for the Members of Parliament to enter their information through the Parliament website.
+
+...
+
+[Data](articles/054a367c.json)
+
+[Extended Data](ext_articles/054a367c.ext.json)
+
+---
+
+### Sri Lanka President to swear in new cabinet Monday morning
+
+*2024-11-17 14:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-swear-in-new-cabinet-monday-morning-188291/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake will swear in a new cabinet at 10.00 am on Monday, his media office said.
+
+Both cabinet and deputy ministers will take oaths, the statement said.
+
+The NPP has said it will not appoint so-called ‘state ministers’ but deputy ministers.
+
+General Secretary of the Janatha Vimukthi Peramuna, Tilvin Silva said after winning the general elections that the NPP they may appoint one or two less that the 25 cabinet ministers permitted by the constitution.
+
+Over time the NPP would look at reducing the ministries, he said.
+
+But ministries that require extensive work such as agriculture and land may get more than one deputy minister, he said.
+
+The National Peoples’ Power swept the general election and won more than two thirds of the seats in the parliament. (Colombo/Nov17/2024)
+
+◼️
+
+[Data](articles/5d64d511.json)
 
 ---
 
@@ -2163,395 +2545,5 @@ When the President visits Jaffna, he said he would resolve the land, especially 
 [Data](articles/10604b03.json)
 
 [Extended Data](ext_articles/10604b03.ext.json)
-
----
-
-### Two women in Kandy and Matale districts are elected to Parliament
-
-*2024-11-17 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198963) · `ta`
-
-Two women elected to Parliament: Chitra Manthilaka (Kandy) and Rohini Gavaratne (Matale). Sindrani Kiriella and Dushari Jayasinghe won in Kandy district. Deepti Vasalake also elected in Matale district.
-
-🟩
-
-This is the first time two women from the Kandy district in the ongoing general election. Chitra Manthilaka had once chosen before this. Rohini Gavaratne was already elected in Matale district.
-
-Sindrani Kiriella of the United People's Power, who contested the election for the first time, and Dushari Jayasinghe, who contested the national people's power, have won the Kandy district.
-
-Meanwhile, two women have won the Matale district. Rohini Gavaratne, who has already been a member of parliament and Deepti Vasalake, who contested for the first time, has won.
-
-◼️
-
-[Data](articles/d05012ab.json)
-
-[Extended Data](ext_articles/d05012ab.ext.json)
-
----
-
-### Young people who tried to throw human waste in the Thandikulam pond in Vavuniya!
-
-*2024-11-17 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/198964) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Youth catches man throwing human waste in Thandikulam pond, Vavuniya. Police arrest suspect after public intervention. Incident sparks community action against environmental pollution.
-
-🟩
-
-A man who tried to throw human waste in the Thandikulam pond in Vavuniya was caught by the youth and handed over to the police.
-
-The man went to the Thandikkulam pond with a waste package removed from the bodies in a bicycle.. Some of the youths who had been watching it continuously had folded him and informed the Kamakkara Organization of the area.
-
-Subsequently, the Communist Organization and the public informed the Vavuniya Police and the Health Division about the matter.
-
-Subsequently, the police went to the right place and arrested the man and tried to take them to the police station.
-
-The public and the youth who refused to do so would not leave the vehicle until the owner of the flower was arrived.. This caused confusion in the area.
-
-Subsequently, the Vavuniya Chief Police Officer who went to the area assured the public that the suspect was investigating the incident and presented the suspect in court.After that, the public went out of the area.
-
-...
-
-[Data](articles/a79f4ab8.json)
-
-[Extended Data](ext_articles/a79f4ab8.ext.json)
-
----
-
-### The third group of IMF visited Sri Lanka
-
-*2024-11-17 11:20:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/IMF-இன்-மூன்றாவது-குழு-இலங்கை-விஜயம்/175-347327) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"IMF team led by Peter Broyer visits Sri Lanka Nov 17-23. Conducts 3rd review of Sri Lanka Economic Reform Program. Evaluates progress on economic stabilization and financial challenges. IMF provides financial assistance and policy guidance for Sri Lanka's economic recovery."
-
-🟩
-
-The International Monetary Fund (IMF) headed by Senior Ambassador to Sri Lanka Peter Broyer will visit Colombo from November 17 to 23.
-
-The IMF spokesman said that the group will conduct the third value of the Sri Lanka Economic Reform Program under the IMF's expanded financial facility.
-
-This review is an important step in evaluating the progress of reforms aimed at stabilizing Sri Lanka's economy and facing the financial challenges faced by the country.
-
-The International Monetary Fund Expanded Finance Provides Financial Assistance and Policy Guidelines to facilitate Sri Lanka's economic recovery efforts
-
-◼️
-
-[Data](articles/b55b6fec.json)
-
-[Extended Data](ext_articles/b55b6fec.ext.json)
-
----
-
-### China's stand on new President Trump
-
-*2024-11-17 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203455) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Chinese President Mahinda Rajapaksa expressed willingness to work with incoming US President Donald Trump. However, relations deteriorated under Trump, with increased tariffs and COVID-19 tensions reaching crisis levels.
-
-🟩
-
-US President Joor President Joe Breaden, who is to retire in January, met with China President Mahinda Rajapaksa yesterday.
-
-Asia-Pacific Economic Cooperation Conference in the Peru.
-
-The Chinese President had said that he was ready to collaborate with the elected President Donald Trump.
-
-However, during Trump's first reality, China-American ties were severely widened, and Covod was a Chinese virus and reached the degree of collapse.
-
-Trump said that after his arrival in the platform, Trump said that after he arrived in power, the import was imposed 60 percent of China.
-
-◼️
-
-[Data](articles/c5f882fa.json)
-
-[Extended Data](ext_articles/c5f882fa.ext.json)
-
----
-
-### One killed in an accident in Borella
-
-*2024-11-17 11:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203454) · `si`
-
-Accident in Borella: Motorcyclist killed, two in car injured. Incident occurred on Narahenpita-Kithulwatta Road.
-
-🟩
-
-බොරැල්ල කනත්ත අසල කිතුල්වත්ත මාර්ගයේ දී අද (17) සිදුවූ රිය අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
-
-The accident occurred at Narahenpita to Kithulwatta Road.
-
-It is reported that the motorcyclist has died on the spot.
-
-It is reported that two in the car had arrived and the camera of the car had escaped the car.
-
-◼️
-
-[Data](articles/1f182df9.json)
-
-[Extended Data](ext_articles/1f182df9.ext.json)
-
----
-
-### Special train services for commuters returning to Colombo
-
-*2024-11-17 11:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103558/special-train-services-for-commuters-returning-to-colombo) · `en`
-
-The Department of Railways has announced that special train services will be in operation today (17) and tomorrow (18), for the commuters returning to work after the 2024 General Election leave and the long weekend.
-
-The department said that special trains have been added to the service on these two days in addition to the regular scheduled train services.
-
-Accordingly, 7 special trains will be operated covering routes from Colombo Fort to Badulla, from Badulla to Colombo Fort, from Kandy to Colombo Fort and from Beliatta to Colombo Fort.
-
-The Department of Railways also stated that special train services will be operational from Colombo Fort to Hikkaduwa, Matara to Colombo Fort, and Galle to Colombo Fort during this period.
-
-◼️
-
-[Data](articles/3f9eb234.json)
-
-[Extended Data](ext_articles/3f9eb234.ext.json)
-
----
-
-### One arrested with ice drugs in Peliyagoda
-
-*2024-11-17 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/198966) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Peliyagoda: Police detained a suspect Saturday in Vanavasala area. 10g of 500mg Ice seized during arrest based on tip-off.
-
-🟩
-
-A suspect was arrested by police on Saturday (16) in Vanavasala area belonging to the Peliyagoda police division.
-
-He was arrested after a roundup of confidential information received by the Peliyagoda police station.
-
-10 grams of 500 milligrams of Ice was seized by the police.
-
-◼️
-
-[Data](articles/3f8f0af8.json)
-
-[Extended Data](ext_articles/3f8f0af8.ext.json)
-
----
-
-### Cabinet Ministers sworn in tomorrow
-
-*2024-11-17 11:03:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-அமைச்சர்கள்-நாளை-பதவிப்பிரமாணம்/175-347326) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New Cabinet Ministers to be sworn in tomorrow at 10 AM. President Anura Kumara Dissanayake will preside over the ceremony at the Presidential Secretariat.
-
-🟩
-
-The Presidential Media Division (PMD) said that the new government's cabinet ministers will be sworn in tomorrow at 10 am in the presence of President Anura Kumara Dissanayake at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/f92dc079.json)
-
-[Extended Data](ext_articles/f92dc079.ext.json)
-
----
-
-### Cabinet sworn in tomorrow
-
-*2024-11-17 11:03:27* · [`adalk`](https://www.ada.lk/breaking_news/කැබිනට්-මණ්ඩලය-හෙට-දිවුරුම්-දෙයි/11-413085) · `si`
-
-New cabinet sworn in tomorrow: 25 ministers, some posts may have 2 deputies. No state ministers this year. President Anura Kumara Dissanayake explains appointments based on ministry subjects.
-
-🟩
-
-The new cabinet is to be sworn in tomorrow. The swearing in was taken at the Presidential Secretariat tomorrow morning.. New government ministers will be limited to 25. Deputy Ministers are to be appointed to certain Ministries and state minister will not be given this year.
-
-President Anura Kumara Dissanayake said that according to the number of subjects belonging to the ministries, some ministries will have to appoint two deputy ministers.
-
-◼️
-
-[Data](articles/b87ca854.json)
-
-[Extended Data](ext_articles/b87ca854.ext.json)
-
----
-
-### Shout attack in China - 17 killed
-
-*2024-11-17 10:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/198965) · `ta`
-
-China: Knife attack kills 8, injures 17. Student frustrated over exam failure. Recent violence highlights societal issues.
-
-🟩
-
-Eight people were killed and 17 injured in a knife incident in eastern China.
-
-The video can be seen in a video, and the sounds of many people fall on the ground and people around them.
-
-A student who did not receive a certificate of graduates who failed the exam was involved in the knife, police said.
-
-The recent violence has been rocked by China, which is considered to be a low country.
-
-A man who was heartbroken by a divorce last Monday killed 35 people.
-
-◼️
-
-[Data](articles/cffa977e.json)
-
-[Extended Data](ext_articles/cffa977e.ext.json)
-
----
-
-### 21 female representatives elected to parliament
-
-*2024-11-17 10:40:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/21-பெண்-பிரதிநிதிகள்-பாராளுமன்றத்திற்கு-தெரிவு/175-347325) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-21 women elected to parliament. Key winners: PM Harini Amarasuriya (Colombo), Attorney Kausalya Aryaratne, Samanamali Gunasinghe (both Colombo). Others: Nilanti Kothachi (Kalutara), Oshani Unga, Hemali Sujeeva, Stephani Fernando. Local wins: Sagarika Athuda (Kegalle) and Nalusha Lakmali.
-
-🟩
-
-In the ongoing parliamentary elections, 21 female representatives have been elected to parliament. Nine of them are representing the national power of the people.
-
-Among them, Prime Minister Harini Amarasuriya was elected from the Colombo district with 655,289 votes.
-
-Attorney Kausalya Aryaratne won with 80,814 votes and Samanamali Gunasinghe has received 59,657 votes in Colombo.
-
-Attorney Nilanti Kothachi received 131,375 votes from Kalutara district and Oshani Unga received 69,932 votes.
-
-Hemali Sujeeva received a seat with 66,737 votes and Stephani Fernando received 57,637 votes.
-
-In Kegalle, Sagarika Athuda received 59,019 votes and Nalusha Lakmali 48,791 votes.
-
-◼️
-
-[Data](articles/fba858c1.json)
-
-[Extended Data](ext_articles/fba858c1.ext.json)
-
----
-
-### Prohibition for exclusive classes
-
-*2024-11-17 10:38:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரத்தியேக-வகுப்புகளுக்கும்-தடை/175-347324) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"Exclusive classes for GCE Advanced Level Exam prohibited. Department of Examinations bans such classes effective midnight Tuesday."
-
-🟩
-
-The Department of Examinations said that all exclusive classes relating to the GCE Advanced Level Examination have been banned from midnight on Tuesday (19).
-
-◼️
-
-[Data](articles/739b7e5b.json)
-
-[Extended Data](ext_articles/739b7e5b.ext.json)
-
----
-
-### Explanation of the Commission on National List MPs
-
-*2024-11-17 10:33:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்பட்டியல்-எம்-பிகள்-குறித்து-ஆணைக்குழுவின்-விளக்கம்/175-347323) · `ta`
-
-Elections Commission: Some parties haven't submitted National List MP nominees. Focus on sending names to Government Press. Gazette notification sent. Only losing candidates can fill National List seats.
-
-🟩
-
-The Elections Commission said that some parties have not yet sent the names of the people who have been nominated to the 10th Parliament from the National List.
-
-Accordingly, the Elections Commission has stated that some parties have been focused on sending the names given to the Government Press.
-
-Meanwhile, the names of the Gazette Notification of the Names of the Members of Parliament have been sent to the Government Press for the Government Press.
-
-Moreover, the Elections Commission said that the National List Parliamentary positions could not be appointed other than the candidates who lost the election.
-
-◼️
-
-[Data](articles/0f5c408c.json)
-
-[Extended Data](ext_articles/0f5c408c.ext.json)
-
----
-
-### Sri Lanka’s new Cabinet to be sworn in tomorrow
-
-*2024-11-17 10:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103556/sri-lankas-new-cabinet-to-be-sworn-in-tomorrow) · `en`
-
-The Cabinet Ministers of the new government will be sworn in before President Anura Kumara Dissanayake at 10.00 a.m. tomorrow (Nov. 18) at the Presidential Secretariat in Colombo, the President’s Media Division (PMD) said.
-
-The senior spokesman of the National People’s Power (NPP) Tilvin Silva had said earlier that the Cabinet will be limited to 25 or even less and that there will be scientific method in allocation of subjects for the ministries.
-
-However, the inaugural session of the Tenth Parliament, comprising of members elected through the 2024 General Election held on November 14, is scheduled to commence on November 21, as per the Extraordinary Gazette Notification No. 2403/13 dated 2024.09.24 issued by the President.
-
-The NPP on Friday (Nov. 15) swept the Parliamentary elections by winning a two-thirds majority, securing a record-breaking 159 seats in total.
-
-◼️
-
-[Data](articles/33d98c26.json)
-
-[Extended Data](ext_articles/33d98c26.ext.json)
-
----
-
-### Sri Lanka central bank’s net reserves brought to almost zero by Sept 24
-
-*2024-11-17 10:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-banks-net-reserves-brought-to-almost-zero-by-sept-24-188229/) · `en`
-
-ECONOMYNEXT – Net foreign assets of Sri Lanka’s central bank have been brought to almost zero by September 2024, through consistent deflationary open market operations, after rates were hiked in April 2022.
-
-By September 2024, the net foreign assets of the central bank were negative by only 175 million dollars from a peak of negative 4.6 billion US dollars at the height of the last currency crisis in August 2024, which ended in external sovereign default.
-
-The central bank’s foreign reserves were a negative 4.0 billion dollars in March 2022 when the central bank hiked rates to contain domestic credit.
-
-But due to reserves loaned by India through the Asian Clearing Union mechanism, the central bank continued to sell borrowed reserves and re-finance domestic credit through inflationary open market or standing liquidity facilities to maintain its policy rate, extending the balance of payments deficits.
-
-...
-
-[Data](articles/72a3c215.json)
-
-[Extended Data](ext_articles/72a3c215.ext.json)
-
----
-
-### New government cabinet is sworn in tomorrow
-
-*2024-11-17 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203453) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"New govt cabinet sworn in tomorrow. President Anura Kumara Dissanayake to take oath at 10:00 AM."
-
-🟩
-
-Accordingly, President Anura Kumara Dissanayake is to be sworn in before President Anura Kumara Dissanayake at 10.00 am tomorrow.
-
-◼️
-
-[Data](articles/7d15ca7b.json)
-
-[Extended Data](ext_articles/7d15ca7b.ext.json)
 
 ---

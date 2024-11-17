@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 19:12:25**
+As of **2024-11-17 19:00:59**
 
 ## Newspaper Stats
 
-*Scraped **55,413** Articles*
+*Scraped **55,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,189
+adalk | 5,188
 adaderanalk | 6,691
 tamilmirrorlk | 7,855
 virakesarilk | 8,992
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,583
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,411 (100.0%) of 55,413 articles have been extended.
+55,411 (100.0%) of 55,412 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -371,24 +371,6 @@ He was arrested after a roundup of confidential information received by the Para
 [Data](articles/01f4f6f2.json)
 
 [Extended Data](ext_articles/01f4f6f2.ext.json)
-
----
-
-### ප්‍රසිද්ධ ටෙලි නළුවෙකුගේ පුතා ඩුබායි සිට මෙහෙයවන මත්ද්‍රව්‍ය ජාවාරමට සම්බන්ධ කොස්තාපල් අල්ලයි
-
-*2024-11-17 16:19:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසිද්ධ-ටෙලි-නළුවෙකුගේ-පුතා-ඩුබායි-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමට-සම්බන්ධ-කොස්තාපල්-අල්ලයි/11-413094) · `si`
-
-ප්‍රසිද්ධ ටෙලි නළුවකුගේ පුතෙකු ඩුබායි රාජ්‍යයේ සැඟව සිට මෙහෙයවන මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරමට සම්බන්ධ පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව පොලිස් මත්ද්‍රව්‍ය නාශක  කාර්යාංශය කියයි.
-
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගල්කිස්ස පොලිස් කොට්ඨාසයේ  විශේෂ අංශයකට  අනුයුක්තව  සේවය  කරන කොස්තාපල්වරයෙකි.
-
-ඉකුත් මස 26 වෙනි දින කටුනායක ගුවන් තොටුපළේදී  රුපියල් කෝටි 7 කට අධික වටිනා  අයිස් මත්ද්‍රව්‍ය  කිලෝ ගෑම් 5 කට අධික ප්‍රමාණයක් ගමන් මල්ලෙ සහල් ඇසුරුමක් තුළ සඟවා මෙරට රැගෙන ආ පුද්ගලයෙකු හා ඒවා රැගෙන යාම සඳහා ගුවන් තොටුපළ වෙත පැමිණ සිටි ටැක්සි රියදුරෙකුසහ කාන්තාවක අත්අඩංගුවට ගෙන ඒ සම්බන්ධයෙන් සිදු කළ දීර්ඝ විමර්ශනයේදී කොස්තාපල්වරයා සම්බන්ධයෙන්ද කරුණු අනාවරණය වූ බව පොලිසිය සඳහන් කරයි.
-
-විදේශ ගතව සිටින මහා පරිමාණ මත්ද්‍රව්‍ය  ජාවාරම්කරුවන චමිල    නැමැත්තාගේ උපදෙස් මත ජාවාරමෙන් උපයන මුදල් මාළිගාවත්ත ප්‍රදේශයේ පුද්ගලයෙකුට ලබාදෙන බවට විමර්ශනවලදී  අනාවරණය වී යැයි පොලිසිය කියයි.
-
-...
-
-[Data](articles/caa63248.json)
 
 ---
 
@@ -2495,5 +2477,33 @@ That incident touched off a rare online discussion over the mental health of Chi
 [Data](articles/5de7a167.json)
 
 [Extended Data](ext_articles/5de7a167.ext.json)
+
+---
+
+### UNP comes from elephant sign for future elections
+
+*2024-11-17 09:27:56* · [`adalk`](https://www.ada.lk/breaking_news/එජාපය-ඉදිරි-මැතිවරණ-සඳහා-අලියා-ලකුණින්-එයි/11-413080) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"UNP decides to contest under elephant symbol in future elections. Party Chairman Vajira Abeywardena discusses strategy with leader Ranil Wickremesinghe. Emphasizes unity among political parties and support for the government's victory. Expresses confidence in the current administration's ability to address challenges and fulfill public expectations."
+
+🟩
+
+The United National Party (UNP) has decided to contest with the United National Party should contest under the elephant sign for the next election. Party Chairman Vajira Abeywardena says that the present leader leader Ranil Wickremesinghe has been discussing this regard.
+
+"In some cases of the present paddy, the United National Party is raining to work at the time of failing to pass the procedures made by them.
+
+And if we think, we came forward with a number of political parties that comprised of many political parties. We must remember two things in the honey. One is avoided by the country's largest voting. A large dies are mainly involved in losed political parties.
+
+There may be things they hope,. Also, the government leading the President has made a historic victory. We offer our praise on that. And this is a special occasion for Sri Lanka. The presence of the presence, the presence of this, has achieved a victory in the history of Sri Lanka.. We need to be happy as Sri Lankans.
+
+...
+
+[Data](articles/afc3b861.json)
+
+[Extended Data](ext_articles/afc3b861.ext.json)
 
 ---

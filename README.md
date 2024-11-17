@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 18:21:47**
+As of **2024-11-17 17:42:33**
 
 ## Newspaper Stats
 
-*Scraped **55,409** Articles*
+*Scraped **55,404** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,171 +16,43 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,187
+adalk | 5,186
 adaderanalk | 6,690
 tamilmirrorlk | 7,854
-virakesarilk | 8,992
-adaderanasinhalalk | 9,583
+virakesarilk | 8,989
+adaderanasinhalalk | 9,582
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,408 (100.0%) of 55,409 articles have been extended.
+55,401 (100.0%) of 55,404 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### One man arrested with heroin in Kokuvil
-
-*2024-11-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199005) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man (28) arrested with 120mg heroin in Kokuvil. Police acted on intelligence tip. Suspect to be brought to court soon.
-
-🟩
-
-One (28) has been arrested with 120 mg Horoin in Kukkuvil Kulapitti area.
-
-The suspect has been arrested on the basis of confidential information received by the Police Intelligence Unit of the Jaffna District Senior Superintendent of Police, Luen Surya Pandara.
-
-After further investigations, the police are taking steps to bring the suspect in court.
-
-◼️
-
-[Data](articles/ea3ba986.json)
-
-[Extended Data](ext_articles/ea3ba986.ext.json)
-
----
-
-### Four persons arrested in gang
-
-*2024-11-17 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203467) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Four suspects arrested in Mattakkuliya Division. Two from northern areas, two arrived from Dubai last October. Gangs brought from Trincomalee on instructions from person in Dubai. Phone analysis revealed their movements in Maturakkuliya area.
-
-🟩
-
-Four suspects have been arrested following a tip off received by a private spy on a dignitarian in the Mattakkuliya Division yesterday (16).
-
-The suspects are residents of Pudukuduirippu, Kotahena, Kotahena, Evcilatu and Topur areas.
-
-If the two suspects were arrested and residents of the northern and Thopur, if the two suspects residedient in the North and Thopur, have been revealed in the North and Thopur.
-
-The other two suspects have arrived in Sri Lanka from Dubai last October.
-
-It has been revealed that the two gangs were brought from the Trincomalee area to Mattakkuliya area on the instructions of a person they are in Dubai.
-
-If the two groups of the gangs, "came" above, the Internet has been disclosed to a person with Dubai.
-
-The two suspects were revealed in their telephone analysis that the two suspects were taken to the Maturakkuliya area in general area Road.
-
-◼️
-
-[Data](articles/76a9436a.json)
-
-[Extended Data](ext_articles/76a9436a.ext.json)
-
----
-
-### Dividing the path to digital economy
-
-*2024-11-17 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/198984) · `ta`
-
-Sri Lanka's digital economy faces challenges: investor caution due to unresolved system issues, digital security concerns, and regulatory hurdles. Investor trust depends on timely data protection and smooth operations.
-
-🟩
-
-Some investors may be cautious if Sri Lanka does not resolve the basic system challenges, digital security issues, and regulatory obstacles. Large -level data protection is the case of investors' reliability, such as regular delays or regulatory delays.
-
-◼️
-
-[Data](articles/55b93cf6.json)
-
-[Extended Data](ext_articles/55b93cf6.ext.json)
-
----
-
-### I hope the government will solve the unresolved problems in the country - Arunoghivarman Thambimuthu
-
-*2024-11-17 17:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199002) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan government faces challenges: unresolved issues, land disputes, looting concerns. New leaders urged to address problems. Tamil groups hopeful for change.
-
-🟩
-
-President Anura Kumara Dissanayake and the National People's Power have got a two -thirds majority in the election. "We believe that they will solve the unresolved problems in this country," said Arunoghivarman Thambimuthu, leader of the Liberation Tigers of Tamil Eelam (LTTE).
-
-Tamilnadu Liberation Alliance (TNA) leader Arunmoghivarman Thambimuthu held a media briefing on Sunday (17) at his office in Batticaloa. He made this comment.
-
-I would like to express my gratitude to all the people who voted in support of the Liberation Tigers of Tamil Eelam (LTTE) in the parliamentary general election in Sri Lanka.
-
-The new government is currently in parliament in Sri Lanka. Anurakumara Dissanayake and his national people's power have received two -thirds seats.
-
-We are confident that they will fully use this opportunity and solve many things that are not resolved in this country. I am also obliged to urge them to take it in their hands.
-
-...
-
-[Data](articles/d395dd8a.json)
-
-[Extended Data](ext_articles/d395dd8a.ext.json)
-
----
-
-### Trump's repetition
+### ட்ரம்பின் மீள்வரவு
 
 *2024-11-17 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/198982) · `ta`
 
-Here's a summary of 200 characters:
-
-
-
-Trump claims unity with Khan, predicts Khan as friend. Trump informed about plans to act against Khan's imprisonment once in power.
-
-🟩
-
-There is a mutual unity between Trump and Khan. Trump predicts Khan as a friend. Trump is informed that he has the intention of taking action once he comes to power against his friend's prison life.
+ட்ரம்ப்புக்கும் கானுக்கும்  இடையில் பரஸ்பர ஒற்றமையொன்று உள்ளது. ட்ரம்ப், கானை ஒரு நண்பராகவே கணிக்கிறார். தனது நண்பரின் சிறை வாழ்க்கைக்கு எதிராக தான் பதவிக்கு வந்தவுடன் நடவடிக்கை எடுக்கும் எண்ணம் ட்ரம்பிடம் உள்ளதாக ஊகிக்கப்படுகிறது.
 
 ◼️
 
 [Data](articles/d4e3ed47.json)
 
-[Extended Data](ext_articles/d4e3ed47.ext.json)
-
 ---
 
-### Peacock's grazing ground issue and background
+### மயிலத்தமடு மேய்ச்சல் தரை பிரச்சினையும்  பின்னணியும்
 
 *2024-11-17 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198981) · `ta`
 
-Here's a summary in 200 characters:
-
-
-
-Farmers' Peace Struggle: 375+ days demanding resolution for Peacock's grazing ground issue at Mayilathamadu pasture. No solution yet.
-
-🟩
-
-Farmers' Peace Struggle, which began on September 15 last year, has been going on for more than 375 days demanding a solution to the Mayilathamadu pasture issue.. There is still no solution.
+மயிலத்தமடு மேய்ச்சல் தரைப் பிரச்சினைக்கு தீர்வு கோரி பண்ணையாளர்கள் கடந்த வருடம் செப்டம்பர் மாதம் 15ஆம் திகதி சித்தாண்டியில் ஆரம்பித்த அமைதி வழிப்போராட்டம் 375 நாட்களுக்கு மேலாக நடைபெற்று வருகின்றது. அதற்கு இன்னமும் தீர்வு கிடைக்கவில்லை.
 
 ◼️
 
 [Data](articles/58b495d4.json)
-
-[Extended Data](ext_articles/58b495d4.ext.json)
 
 ---
 
@@ -370,20 +242,6 @@ Accordingly, these appointments have been made to the 18 National List seats, wh
 
 ---
 
-### නවක මන්ත්‍රීවරුන්ට පාර්ලිමේන්තුවෙන් දැනුම් දීමක්
-
-*2024-11-17 15:47:23* · [`adalk`](https://www.ada.lk/breaking_news/නවක-මන්ත්‍රීවරුන්ට-පාර්ලිමේන්තුවෙන්-දැනුම්-දීමක්/11-413091) · `si`
-
-දසවැනි පාර්ලිමේන්තුවේ, පළමුවැනි සභා වාරයේ පළමුවැනි රැස්වීම පැවැත්වීමට අදාළව සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ තොරතුරු ලබාගැනීම සඳහා පාර්ලිමේන්තු වෙබ් අඩවිය හරහා අදාළ තොරතුරු ඇතුළත් කිරීමේ පහසුකම් සළසා ඇති බව පාර්ලිමේන්තුවේ මහලේකම් කුෂානි රෝහණදීර මහත්මිය නිවේදනයක් නිකුත් කරමින් දන්වා සිටියි.
-
-ඒ අනුව පාර්ලිමේන්තු වෙබ් අඩවියේ (www.parliament.lk), මුල් පිටුවේ ඇති තොරතුරු සබැඳියට පිවිස අදාළ තොරතුරු සම්පූර්ණ කරන මෙන් ගරු පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගෙන් කාරුණිකව ඉල්ලා සිටින බවත් මහලේකම්වරිය මෙම නිවේදනය මගින් දන්වා සිටියි. එසේම තොරතුරු ලබා දීමේ විකල්පයක් ලෙස මෙම සබැඳියෙන් බාගත කර ගත හැකි ආකෘති පත්‍රය පුරවා භාර දීමද සිදු කළ හැකි බවත් මහ ලේකම්වරියගේ නිවේදනයේ වැඩිදුරටත් සඳහන් කර ඇත.
-
-...
-
-[Data](articles/45f45b02.json)
-
----
-
 ### Sri Lanka’s tenth Parliament to welcome over 150 fresh faces as MPs
 
 *2024-11-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103564/sri-lankas-tenth-parliament-to-welcome-over-150-fresh-faces-as-mps) · `en`
@@ -426,23 +284,17 @@ The car driver died after two drivers were injured and admitted to the Dehi Athi
 
 ---
 
-### Thandudal fishing vessel was transporting drugs
+### මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබු බහුදින ධීවර යාත්‍රාවක් අල්ලයි
 
 *2024-11-17 15:35:43* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ප්‍රවාහනය-කරමින්-තිබු-බහුදින-ධීවර-යාත්‍රාවක්-අල්ලයි/11-413090) · `si`
 
-Sri Lanka Navy seizes 40kg drugs from Thandudal fishing vessel. Operation conducted west of 110 nautical miles. Suspects arrested, legal proceedings ongoing.
+ශ්‍රී ලංකා නාවික හමුදාව විසින් සිදුකළ තවත් විශේෂ මෙහෙයුමකදී, ශ්‍රී ලංකාවට බටහිර දෙසින්, නාවික සැතපුම් 110 ක් (කිලෝමීටර් 200 ක්) පමණ ගැඹුරු මුහුදේදී, මත්ද්‍රව්‍ය ප්‍රවාහනය කරමින් තිබු මෙරට බහුදින ධීවර යාත්‍රාවක් සමඟ සැකකරුවන් පස් දෙනෙකු (05) 2024 නොවැම්බර් මස 16 දින  නාවික හමුදා භාරයට ගැනීමට කටයුතු කෙරිණි.
 
-🟩
-
-In another special operation by the Sri Lanka Navy, Sri Lanka was west of 110 nautical miles (200 km), naive miles (200 km), nabbaths, narrow, narrow, narrow, narrow, narrowingSteps were taken to take over.
-
-There are about 40 kilograms of drugs in the Sri Lankan Tiaden Rulentian fishing vessel and the multi-day vessel and suspects, further legal matters.
+නාවික හමුදා භාරයට ගත් බහුදින ධීවර යාත්‍රාවේ මත්ද්‍රව්‍ය කිලෝ ග්‍රෑම් 40 ක පමණ තොගයක් ඇති බවට සැක කෙරෙන අතර, එම බහුදින යාත්‍රාව සහ සැකකරුවන්, වැඩිදුර පරික්‍ෂාව සහ ඉදිරී නීතිමය කටයුතු සඳහා නාවික හමුදාව විසින් මේ වන විට ගොඩබිමට රැගෙන එමින් සිටියි.
 
 ◼️
 
 [Data](articles/cf2ab43b.json)
-
-[Extended Data](ext_articles/cf2ab43b.ext.json)
 
 ---
 
@@ -2485,5 +2337,141 @@ He says that this decision is not easily made, but it is currently a correct dec
 [Data](articles/46d85b22.json)
 
 [Extended Data](ext_articles/46d85b22.ext.json)
+
+---
+
+### Record of MPs from today
+
+*2024-11-17 08:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எம்-பிக்களின்-பதிவு/175-347314) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"MPs registration: 10th Parliament. From today to 20th at Parliamentary Complex or via email. Elections Commission requests immediate submission of National List member details."
+
+🟩
+
+The registration of MPs elected to the 10th Parliament will be held from today to the 20th.
+
+Parliamentary Secretary General Kushani Rohanadeera said that the Parliamentary Complex can be registered in the Parliamentary Complex and by e -mail.
+
+Meanwhile, the Elections Commission has taken steps to inform the relevant parties to immediately send the list of members of the National List to the Elections Commission immediately.. Remble
+
+◼️
+
+[Data](articles/de43f1d5.json)
+
+[Extended Data](ext_articles/de43f1d5.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-17 08:58:00* · [`adaderanalk`](https://www.adaderana.lk/news/103552/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says that showers or thundershowers will occur in Western, Central, Sabaragamuwa, Southern, Uva and North-western provinces during the evening or night.
+
+Fairly heavy showers about 75 mm are likely at some places in Western, Sabaragamuwa and Central provinces, according to the Met. Department.
+
+Showers may occur at few places in the Northern and Eastern provinces during the morning too.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning, the department added
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/89021b62.json)
+
+[Extended Data](ext_articles/89021b62.ext.json)
+
+---
+
+### Shouting in China: 8 killed
+
+*2024-11-17 08:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-கத்திக்குத்து-8-பேர்-பலி/50-347313) · `ta`
+
+Here's a summary of the article in 200 characters:
+
+
+
+"China: 8 killed in knife attack near college. Incident occurred at Wuxi Yixing College of Industry and Technology. 21-year-old suspect arrested."
+
+🟩
+
+Eight people have been killed in a knife incident near a college in eastern China.
+
+The incident took place at 6.30 pm yesterday at the Wuxi Yixing College of Industry and Technology in Wuxi.
+
+A 21 -year -old youth has been arrested in connection with the incident. (A)
+
+◼️
+
+[Data](articles/e8a1d496.json)
+
+[Extended Data](ext_articles/e8a1d496.ext.json)
+
+---
+
+### Special train services
+
+*2024-11-17 08:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-ரயில்-சேவைகள்/175-347312) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Special trains run: Colombo-Badulla, Badulla-Colombo, Kandy-Colombo, Beliatta-Colombo, Colombo-Hikkaduwa, Matara-Colombo, Galle-Colombo during elections & long weekends."
+
+🟩
+
+The Railway Department has said that some special trains are scheduled to be operated for passengers who are going to work in the general election and long weekend holidays.
+
+The department said that some special trains have been deployed in addition to the usual train service today and tomorrow.
+
+Special train services operate from Colombo Fort to Badulla, Badulla to Colombo Fort, from Kandy to Colombo Fort, from Beliatta to Colombo Fort.
+
+In addition, special train services will be held from Colombo Fort to Hikkadu, Matara to Colombo Fort, from Galle to Colombo Fort.. Remble
+
+◼️
+
+[Data](articles/f010014c.json)
+
+[Extended Data](ext_articles/f010014c.ext.json)
+
+---
+
+### Sri Lanka - New Zealand Second ODI today
+
+*2024-11-17 08:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203448) · `si`
+
+Sri Lanka vs New Zealand 2nd ODI today at Pallekele Stadium. Sri Lanka leads 1-0. Win today to clinch series. Sri Lanka won here last in 2012 under Mahela Jayawardene.
+
+🟩
+
+The New Zealand team and the Sri Lankan team will be played today at Pallekele Stadium today (17).
+
+The match will be held at 2.30 pm this afternoon.
+
+Sri Lanka won the first match of the Sri Lanka-New Zealand ODI series by 45 runs.
+
+Accordingly, Sri Lanka is in the forefront of a drop of 3 matches.
+
+If Sri Lanka wins the match today, the One ODI will win the one ODI win.
+
+Sri Lanka has been recorded against New Zealand in 2012, with Mahela Jayawardene's leadership.
+
+According to the Sri Lanka team today, Sri Lanka will be able to win the ODI series winning over 12 years after 12 years.
+
+Sri Lanka have played 38 runs in the Pallekele Stadium.  ඉන් තරග 21ක් ජයගෙන ඇති අතර තරග 16ක් පරාජයට  පත්ව ඇත.
+
+New Zealand have played three ODIs at Pallekele Stadium, while they defeated one match.
+
+◼️
+
+[Data](articles/faa40b79.json)
+
+[Extended Data](ext_articles/faa40b79.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 19:40:59**
+As of **2024-11-17 20:25:27**
 
 ## Newspaper Stats
 
-*Scraped **55,414** Articles*
+*Scraped **55,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,157 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,190
+adalk | 5,191
 adaderanalk | 6,691
 tamilmirrorlk | 7,855
 virakesarilk | 8,992
-adaderanasinhalalk | 9,583
+adaderanasinhalalk | 9,588
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,414 (100.0%) of 55,414 articles have been extended.
+55,419 (100.0%) of 55,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### IMF තෙවැනි සමාලෝචනයට නියෝජිතයින් දිවයිනට
+
+*2024-11-17 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203472) · `si`
+
+ජාත්‍යන්තර මූල්‍ය අරමුදලේ (IMF) විස්තීරණ ණය පහසුකමේ තෙවන සමාලෝචනය සඳහා එහි නියෝජිතයින් පිරිසක් අද (17) ශ්‍රී ලංකාවට පැමිණ තිබේ.
+
+ඔවුන්ගේ එම සංචාරයෙන් පසු ජාත්‍යන්තර මූල්‍ය අරමුදලේ විස්තීරණ ණය පහසුකමේ සිව්වන වාරිකය ශ්‍රී ලංකාවට නිදහස් කිරීමට නියමිත බව වාර්තාවෙයි.
+
+මෙරට ආර්ථිකය ප්‍රකෘතිමත් කිරීම සඳහා වූ ජාත්‍යන්තර මුල්‍ය අරමුදලේ සිව් අවුරුදු විස්තීරණ ණය පහසුකම යටතේ මෙරටට හිමිවන සමස්ත ණය මුදල අමෙරිකානු ඩොලර් බිලියන 2.9කි.
+
+එහි පළමු වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 333ක් 2023 මාර්තු 21 වැනිදාද, දෙවැනි වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 337ක් එම වසරේ දෙසැම්බර් 13 වැනිදාද මෙරටට මුදාහැරුණි.
+
+තෙවන ණය වාරිකය ලෙස අමෙරිකානු ඩොලර් මිලියන 336ක් මෙම වසරේ ජුනි මස 12 වනදා හිමිවූ අතර ඒ අනුව ජාත්‍යන්තර මුල්‍ය අරමුදල මේ වනවිට අමෙරිකානු ඩොලර් බිලියනයකට වැඩි මුදලක් ශ්‍රී ලංකාවට ලබා දී තිබේ.
+
+එම සෑම ණය වාරිකයකටම පසු ප්‍රගතිය පිළිබඳ සමාලෝචනයක් සිදුකෙරුණු අතර ඒ අනුව තෙවැනි සමාලෝචනය සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෘවර්ගේ ප්‍රධානත්වයෙන් මෙම නියෝජිතයින් පිරිසක් අද මෙරටට පැමිණ තිබුණි.
+
+...
+
+[Data](articles/ef5c85fb.json)
+
+---
+
+### Long distance hypenic missile successfully experiments
+
+*2024-11-17 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203471) · `si`
+
+India tests long-range hypersonic missile from Abdul Karm Islands. Defense Minister Rajnath Singh calls it historic opportunity.
+
+🟩
+
+Indian Defense Minister Rajnath Singh has stated that the missile has been conducted from Abdul Karm Islands beyond the state of Ogingha.
+
+He also stated that this is an important historical opportunity for India.
+
+◼️
+
+[Data](articles/41630ae3.json)
+
+[Extended Data](ext_articles/41630ae3.ext.json)
+
+---
+
+### Sri Lanka target 210 runs
+
+*2024-11-17 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203470) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lanka targets 210 runs against New Zealand in the 2nd ODI at Pallekele Stadium. New Zealand bats first, scoring 209/9 in 45 overs. Mark Chapman top scores with 76. Sri Lanka needs 210 to win.
+
+🟩
+
+Sri Lanka - New Zealand's second ODI cricket match will be held at the Pallekele Stadium.
+
+Sri Lanka invited New Zealand to bat first, winning the toss of the match.
+
+The competition was interrupted by rain and decided to limit the match to 47 overs.
+
+Batting first, New Zealand scored 209 runs for the delegation of 45 overs.
+
+Mark Chapman scored 76 runs for the New Zealand team and Mitchell scored 49 runs.
+
+Geoffrey Vandeshe and Mah Mees each took three wickets each.
+
+The Sri Lankan team owned 210 runs in the match.
+
+◼️
+
+[Data](articles/93620669.json)
+
+[Extended Data](ext_articles/93620669.ext.json)
+
+---
+
+### Three SriLankan Aircraft to industrial bugs
+
+*2024-11-17 19:16:29* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-තුනක්-කාර්මික-දෝෂවලට/11-413107) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+SriLankan Airlines cancels/delays flights due to technical issues. Three aircraft affected. Passengers informed about alternative arrangements. Further cancellations expected after midnight.
+
+🟩
+
+SriLankan Airlines spokesman said that three Sri Lankan aircraft were to canceled and had more flights delayed due to technical faults, due to technical bugs and several other flights were delayed due to technical bugs.
+
+The technical evaluation of the technical evaluation of each aircraft, where there will be a failure to maintain the technical maintenance of certain aircraft.The spokesman added.
+
+Accordingly, 6.35 pm on 11.35 pm on 11.35 pm in India, SriLankan Airlines to leave Sri Lanka - SriLankan Airlike UL to arrive at Chennai at 10.15 pm on 11/17 pm.- 124 flight has been canceled.
+
+In addition to 10.10 pm at New Delhi in India from New Delhi in India at 10.10 pmThe flight has also been canceled.
+
+SriLankan Airlines has taken steps to educate passengers from these aircraft, and the Sri Lankan Airlines, who want to engage in these flights to the destinations, to the destinations.Steps have been taken.
+
+...
+
+[Data](articles/dd00284b.json)
+
+[Extended Data](ext_articles/dd00284b.ext.json)
+
+---
+
+### Consumer Affairs Authority Investigation Division dissolved
+
+*2024-11-17 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203469) · `si`
+
+Consumer Affairs Authority Investigation Division dissolved due to unauthorized appointments. Head removed, inquiry launched.
+
+🟩
+
+The head of the Consumer Affairs Authority (CEB) has been removed and dissolved.
+
+A senior official of the Consumer Affairs Authority stated that the division had been dissolved after he had been appointed as a head of the Consumer Affairs Authority Act.
+
+The relevant appointments have been made without any approval from the Ministry of Finance and Management Services.
+
+The current Chairman of the Consumer Affairs Authority has inquired from the Department of Consumer Affairs and has revealed that there is no approval for such appointment.
+
+The media officer who was appointed to the Consumer Affairs Authority has also been removed by the present Chairman.
+
+The former former commercial minister has been an arbitrary.
+
+The present Chairman has also launched an investigation into the appointments.
+
+◼️
+
+[Data](articles/0b479377.json)
+
+[Extended Data](ext_articles/0b479377.ext.json)
+
+---
 
 ### Four arrested over abduction linked to ‘Ava’ criminal gang
 
@@ -81,6 +217,30 @@ During this session, the President will provide a detailed explanation of the go
 [Data](articles/e9eda97e.json)
 
 [Extended Data](ext_articles/e9eda97e.ext.json)
+
+---
+
+### Navy bears a drug transport vehicle
+
+*2024-11-17 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203468) · `si`
+
+Sri Lanka Navy seizes 40kg drugs from multi-day vessel, arrests 5 suspects in deep-sea operation 110nm off coast.
+
+🟩
+
+The Sri Lanka Navy has taken a multi-day vessel from a special mission in a deep sea, Navy said.
+
+110 nautical miles (Km) west of Sri Lanka. The special operation was carried out yesterday (16) at the deep sea.
+
+Five suspects have been taken into custody by the Navy, which has 40 kg of drugs on the multi-day fishing vessel.
+
+The multi-day vessels and the suspects have been brought to land on further legal proceedings and the next legal matters.
+
+◼️
+
+[Data](articles/1d50ae6b.json)
+
+[Extended Data](ext_articles/1d50ae6b.ext.json)
 
 ---
 
@@ -2369,157 +2529,5 @@ He said he had received nearly two lakh votes in the last election.An
 [Data](articles/56901d62.json)
 
 [Extended Data](ext_articles/56901d62.ext.json)
-
----
-
-### Another Defender who assembled illegships was arrested?
-
-*2024-11-17 09:59:00* · [`adalk`](https://www.ada.lk/breaking_news/නිතිවිරෝධීව-එකලස්-කළ-තවත්-ඩිෆෙන්ඩර්-රියක්-අල්ලයි-/11-413082) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Defender arrested for assembling illegal ships. Kandy Headquarters detained by police. Government Analyst to face legal action regarding vehicle.
-
-🟩
-
-The Kandy Headquarters have been arrested by the Kandy Headquarters Defender.
-
-According to a direct complaint to the Acting Inspirus Police, Kandy headquarters has been arrested by the Kandy headquarters.
-
-The Government Analyst is to be produced before the law of the vehicle.
-
-◼️
-
-[Data](articles/261fe462.json)
-
-[Extended Data](ext_articles/261fe462.ext.json)
-
----
-
-### Another luxury vehicle recovery
-
-*2024-11-17 09:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வாகனம்-மீட்பு/175-347316) · `ta`
-
-Luxury vehicle seized in Kandy: Police investigation reveals owner, a prominent fish trader. Vehicle confiscated based on IG's directive.
-
-🟩
-
-Another modern luxury protection vehicle, which is suspected to be illegal, has been seized by the Kandy headquarters police.
-
-Investigations have revealed that the vehicle was owned by a famous fish sales trader in Kandy.
-
-The vehicle was seized on the basis of a complaint issued directly to the Inspector General of Police.
-
-◼️
-
-[Data](articles/9518ce3c.json)
-
-[Extended Data](ext_articles/9518ce3c.ext.json)
-
----
-
-### Rs. 145,000 Treasury bill auction on 20th
-
-*2024-11-17 09:52:25* · [`adalk`](https://www.ada.lk/breaking_news/රු-මි--145--000-ක-භාණ්ඩාගාර-බිල්පත්-වෙන්දේසියක්-20-දා/11-413081) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Central Bank announces Treasury bill auction: Rs. 145,000 crore on Nov 20. Acceptance of bids at noon. Minimum bid amount not specified.
-
-🟩
-
-The Central Bank announced that a Treasury bill auction worth Rs. 20 million million million.
-
-The Treasury bills of Rs.
-
-The Central Bank announces that the acceptance of the bids for the auction will be held on November 20 noon and the minimum amount of Rs.
-
-◼️
-
-[Data](articles/cd42b498.json)
-
-[Extended Data](ext_articles/cd42b498.ext.json)
-
----
-
-### Shrined 'Eelam' in 2018 disappeared in 2024
-
-*2024-11-17 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/198950) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil people focus on direct representation of national power. "Eelam" shrine appeared in 2018 but vanished in 2024. This event likely relates to political aspirations or cultural practices of the Tamil community. The exact meaning may require further context about "Eelam" and its significance in Tamil culture or politics.
-
-🟩
-
-"The current question is that the Tamil people are going to focus on the direct representations of the national people's power."
-
-◼️
-
-[Data](articles/737d8dbb.json)
-
-[Extended Data](ext_articles/737d8dbb.ext.json)
-
----
-
-### Woman trapped with 66 passports
-
-*2024-11-17 09:47:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/66-கடவுச்சீட்டுகளுடன்-சிக்கிய-பெண்/175-347315) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Arrested: Woman (42) & man (38) from Siyambalagoda. Found with 66 passports. Recruited people for jobs in Singapore, Hong Kong, Dubai, Romania. Scam victims paid for visas & interviews. Police discovered 20mg of ice at their residence.
-
-🟩
-
-Two persons, including a woman who had 66 passports in the Kahaduduwa area yesterday (16), were arrested.
-
-The arrested woman is 42 years old, the suspect is 38 years old and they are from Siyambalagoda.
-
-After working in Singapore, Hong Kong, Dubai and Romania, the suspect had come to the country in 2022 and lived in the area with the suspect.
-
-It has been revealed that they have received a passport of the persons, claiming that they have been offering foreign employment to various persons for nearly two and a half years.
-
-Subsequently, the agencies had applied for a visa and claiming to be invited to interview for the job, with the money from the persons for up to Rs.
-
-When the suspects checked the house where they were staying, 20 milligrams of ice was also found.
-
-◼️
-
-[Data](articles/31a33008.json)
-
-[Extended Data](ext_articles/31a33008.ext.json)
-
----
-
-### බඩෝවිට අසංකගේ ගෝලයෙක් අත්අඩංගුවට
-
-*2024-11-17 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203450) · `si`
-
-S:0
-
-🟩
-
-විදේශ ගතව සිටින සංවිධානාත්මක අපරාධ හා මහා පරිමාණ මත්ද්‍ර‍ව්‍ය ජාවාරම්කරුවෙකු වන බඩෝවිට අසංකගේ ගෝලයකු හෙරොයින් සමඟ අත්අඩංගුවට ගෙන තිබේ.
-
-මෙම සැකකරු බඩෝවිට අසංක නැමැත්තාගේ මෙරට මත්ද්‍රව්‍ය බෙදාහරින ගෝලයකු බව අනාවරණය වී ඇති බව පොලීසිය පවසයි.
-
-The suspect has been arrested in a raid carried out by a team of officers of the Moratuwa camp officials in the Moratuwa camp.
-
-He has been recovered from five grams of heroin and 200 milligrams of heroin, and the Mount Lavinia has been handed over to the police station.
-
-◼️
-
-[Data](articles/91d4e00b.json)
-
-[Extended Data](ext_articles/91d4e00b.ext.json)
 
 ---

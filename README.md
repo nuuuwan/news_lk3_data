@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 16:00:06**
+As of **2024-11-17 15:12:11**
 
 ## Newspaper Stats
 
-*Scraped **55,385** Articles*
+*Scraped **55,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,183
-adaderanalk | 6,689
-tamilmirrorlk | 7,853
+adalk | 5,179
+adaderanalk | 6,685
+tamilmirrorlk | 7,852
 virakesarilk | 8,980
 adaderanasinhalalk | 9,577
 
@@ -26,197 +26,11 @@ adaderanasinhalalk | 9,577
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,383 (100.0%) of 55,385 articles have been extended.
+55,376 (100.0%) of 55,376 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
-
-### Sri Lanka’s tenth Parliament to welcome over 150 fresh faces as MPs
-
-*2024-11-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103564/sri-lankas-tenth-parliament-to-welcome-over-150-fresh-faces-as-mps) · `en`
-
-The 2024 parliamentary election has marked a historic shift in Sri Lanka’s legislature, with nearly 150 out of the 196 elected Members of Parliament (MPs) being newcomers.
-
-A notable 146 MPs elected to the Parliament this year are first-time representatives in Parliament.
-
-The National People’s Power (NPP) emerged as the dominant force, securing 141 parliamentary seats at the district level following a landslide victory in the 2024 General Election, which was held on 14 November. Among these, 130 MPs are reported to be newcomers to the Parliament.
-
-The Samagi Jana Balawegaya (SJB) won 35 parliamentary seats, with eight of them being new MPs. In contrast, 27 of its elected members have previous served as parliamentarians.
-
-...
-
-[Data](articles/98e07235.json)
-
----
-
-### ජාතික ජන බලවේගය මැතිවරණය ඉතිහාසයේ වාර්තා 9ක් පිහිටුවයි
-
-*2024-11-17 15:28:29* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-මැතිවරණය-ඉතිහාසයේ-වාර්තා-9ක්-පිහිටුවයි/11-413089) · `si`
-
-නිමා වූ 2024 පාර්ලිමේන්තු මහා මැතිවරණයමෙරට මැතිවරණ ඉතිහාසයේනවවාර්තා 09 ක් තබා තිබෙන බවමධ්‍යම පළාත් හිටපු ආණ්ඩුකාරරංජිත් කීර්ති තෙන්නකෝන් මහතා කියයි.
-
-දේශපාලන විශ්ලේෂකයකු වන ඒ මහතා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදේශකවරයකු වශයෙන්ද කලක් කටයුතු කළේය.
-
-මහා මැතිවරණයක පක්ෂයක් ලබාගත් වැඩිම ප්‍රතිශතය61.56% (මීට පෙර 2010 දීඑක්සත් ජනතා නිදහස් සන්ධානය 60.33%)
-
-මහා මාතිවරණයක ලබාගත් වැඩිම ඡන්ද කොට්ඨාශ ගණන 152යි. (මීට පෙර 2010 දී එක්සත් ජනතා නිදහස් සන්ධානය කොට්ඨාස 136 යි)
-
-මහා මැතිවරණයක ජයග්‍රහණය කළ වැඩිම දිස්ත්‍රික්ක ගණන 21යි. මීට පෙර 2010 දී එක්සත් ජනතා නිදහස් සන්ධානය දිස්ත්‍රික්ක 19යි)
-
-මහා මැතිවරණයක ලබාගත් වැඩිම ඡන්ද සංඛ්‍යාව686,3186 (මීට පෙර 2020 දී පොදු ජන පෙරමුණ ඡන්ද 685,3960)
-
-දිස්ත්‍රික් මට්ටමින් දිනා ගත් වැඩිම ආසන සංඛ්‍යාව 141යි. (මීට පෙර 2020දී පොදු ජන පෙරමුණ ආසන 128 යි)
-
-මහා මැතිවරණයක වැඩිම ජාතික ලැයිස්තු ආසන 18යි (මීට පෙර 2020 දී පොදු ජන පෙරමුණ 17යි)
-
-මහා මැතිවරණයක ජයග්‍රහණය කළ වැඩිම ආසන159යි. (මීට පෙර 2020දී පොදු ජන පෙරමුණ ආසන 145)
-
-...
-
-[Data](articles/f64ff580.json)
-
----
-
-### ITAK’s General Secretary nominated for National List seat
-
-*2024-11-17 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103563/itaks-general-secretary-nominated-for-national-list-seat-) · `en`
-
-The Ilankai Thamil Arasu Kachchi (ITAK) has nominated its General Secretary Dr. P. Sathiyalingam to enter the Parliament as the party’s National List MP.
-
-Dr. P. Sathiyalingam contested the 2024 General Election from the Vanni District representing the ITAK, however, was not able to secure a seat through the preference votes as ITAK managed to secure only one seat in the district.
-
-Accordingly, Dr. P. Sathiyalingam will enter the Parliament through the only national list seat secured by ITAK.
-
-◼️
-
-[Data](articles/2e139ef5.json)
-
-[Extended Data](ext_articles/2e139ef5.ext.json)
-
----
-
-### Dilith appointed National List MP's National List
-
-*2024-11-17 15:19:19* · [`adalk`](https://www.ada.lk/breaking_news/සර්ව-ජන-බලයේ-ජාතික-ලැයිස්තු-මන්ත්‍රී-ධුරය-දිලිත්ට/11-413088) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dil Jayaweera appointed National List MP by executive committee. Universal powers granted for this year's general election. Unanimous decision made.
-
-🟩
-
-The executive committee has unanimously decided to appoint the National List MP, Dil Jayaweera, who had the universal powers this year general election.
-
-◼️
-
-[Data](articles/69fcf731.json)
-
-[Extended Data](ext_articles/69fcf731.ext.json)
-
----
-
-### MPs to enter Parliament through NPP’s national list
-
-*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/mps-to-enter-parliament-through-npps-national-list) · `en`
-
-The Election Commission has released the list of names nominated as Members of Parliament from the National People’s Power (NPP) through its national list.
-
-Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
-
-◼️
-
-[Data](articles/06920cdc.json)
-
-[Extended Data](ext_articles/06920cdc.ext.json)
-
----
-
-### NPP reveals its 18 National List MPs
-
-*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/npp-reveals-its-18-national-list-mps) · `en`
-
-The National People’s Power (NPP) has announced the names nominated to fill the 18 National List MP seats won by the party in the 2024 parliamentary election.
-
-Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
-
-◼️
-
-[Data](articles/1d9bf83f.json)
-
-[Extended Data](ext_articles/1d9bf83f.ext.json)
-
----
-
-### Dilith addresses in Parliament
-
-*2024-11-17 15:16:42* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413087) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dilith Jayaweera, leader of US leaders, enters Parliament via National Visitor Council. Represents Almighty district but party lacks seat.
-
-🟩
-
-Dilita Jayaweera, the Leader of the United States Leaders, Dilith Jayaweera, is due to enter the Parliament by the National Visitor Council.
-
-Dilith Jayaweera represented the Almighty by the district, but the party could not have a seat.
-
-◼️
-
-[Data](articles/76adc4c0.json)
-
-[Extended Data](ext_articles/76adc4c0.ext.json)
-
----
-
-### Decision to appoint Dilith Jayaweera
-
-*2024-11-17 15:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்-ஜயவீரவை-நியமிக்கத்-தீர்மானம்/175-347334) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Party appoints Dilith Jayaweera as National List representative despite no general election wins. General secretary made decision allowing single national list seat allocation.
-
-🟩
-
-The general secretary of the party has said that it has decided to appoint its leader Dilith Jayaweera as the representative of the National List of the Alliance.
-
-Despite failing to win any seats in the general election, the party allowed the party to obtain a single national list seat and make this recommendation.
-
-◼️
-
-[Data](articles/8ed69165.json)
-
-[Extended Data](ext_articles/8ed69165.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-11-17 14:18:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413086) · `si`
-
-Sri Lanka wins coin toss, decides to bat first in 2nd ODI against Sri Lanka today.
-
-🟩
-
-The second ODI match between Sri Lanka and Sri Lanka will be held today (17).
-
-Sri Lanka captain Charith won the coin first, decided to bowl first.
-
-◼️
-
-[Data](articles/b3526b7e.json)
-
-[Extended Data](ext_articles/b3526b7e.ext.json)
-
----
 
 ### Dilith Jayaweera to enter Parliament through ‘Sarvajana Balaya’ national list
 
@@ -2467,5 +2281,181 @@ The inability of Sri Lankan citizens, academics and scholars included, to engage
 [Data](articles/44a25f26.json)
 
 [Extended Data](ext_articles/44a25f26.ext.json)
+
+---
+
+### An Open Letter To President AKD: Make Religious Freedom Or Belief A priority
+
+*2024-11-17 00:58:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-open-letter-to-president-akd-make-religious-freedom-or-belief-a-priority/) · `en`
+
+Dear Mr. President, I write to you not only as a concerned citizen but as someone who is deeply invested in the international standing and reputation of Sri Lanka. Just a few months ago, I was among those who voiced their skepticism about your ascent to the presidency, questioning whether your promises of eradicating corruption and prioritizing the welfare of the people would blossom into genuine change.
+
+Yet, today, I reach across the chasm of our political differences to appeal to a shared hope: a united and harmonious Sri Lanka – ensuring religious freedom or belief to all. As you have articulated in your speeches, Sri Lanka stands at a crossroads—we either repeat divisive politics or create an opportunity to build a nation that values the rich diversity of its people.
+
+...
+
+[Data](articles/44125c08.json)
+
+[Extended Data](ext_articles/44125c08.ext.json)
+
+---
+
+### 2024-11-16 (Saturday)
+
+### "Not going to retire" Mahinda Action
+
+*2024-11-16 23:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறப்போவதில்லை-மஹிந்த-அதிரடி/175-347308) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahinda Rajapakse refuses to retire from politics. He believes newcomers should be given a chance to prove themselves. The people have voted for change, sending new representatives to Parliament.
+
+🟩
+
+Former President Mahinda Rajapakse has announced that he will not retire from politics.
+
+He said the success of the national people's power was a positive improvement and that newcomers should be given the opportunity to prove if they could succeed.
+
+The people of this country have voted and sent new people to Parliament.. Remble
+
+◼️
+
+[Data](articles/6dc05f66.json)
+
+[Extended Data](ext_articles/6dc05f66.ext.json)
+
+---
+
+### Gazette Release includes the names of the new MPs
+
+*2024-11-16 23:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்களின்-பெயர்கள்-அடங்கிய-வர்த்தமானி-வெளியீடு/175-347307) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New MPs named in Gazette: 196 elected to 10th Parliament. Special notification issued by Election Commission in 1981. National List MPs (29) announced separately by parties.
+
+🟩
+
+A special gazette notification, comprising the names of the 196 MPs who have been elected to the 10th Parliament.
+
+The Extreme Gazette Notification has been issued by the Election Commission in 1981 in accordance with the Parliamentary Elections Act.
+
+The parties must announce the names of the members to be elected to Parliament through the National List on behalf of the party. The Gazette, which includes the names of the 29 National List MPs, will be published by the Elections Commission. Remble
+
+◼️
+
+[Data](articles/872dfd76.json)
+
+[Extended Data](ext_articles/872dfd76.ext.json)
+
+---
+
+### Attack on SLPP party office
+
+*2024-11-16 23:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/SLPP-கட்சி-காரியாலயத்தின்-மீது-தாக்குதல்/73-347306) · `ta`
+
+Attack on SLPP office: Complaint filed at Kattankudy Police Station. Incident occurred near Batticaloa Election Office. Office belongs to MI Abdul Wahhab, former parliamentary candidate.
+
+🟩
+
+A complaint has been lodged at the Kattankudy Police Station that the PA has been attacked last night.
+
+The office of the office said that the Election Office may have been attacked on the Poonchimunai Darussalam Playground Road, Batticaloa.
+
+The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
+
+◼️
+
+[Data](articles/9e4eef34.json)
+
+[Extended Data](ext_articles/9e4eef34.ext.json)
+
+---
+
+### The Downplaying of Our National Languages: the Advantages of English
+
+*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/the-downplaying-of-our-national-languages-the-advantages-of-english/) · `en`
+
+(Excerpted from Falling Leaves, an anthology of autobiographical stories by LC Arulpragasam)
+
+I recognized the advantages that we had inherited from the British through our knowledge of the English language. But I also began to realize that we had so exalted our knowledge of English that it had been at the expense of the neglect of our national languages. For example in India, although the members of its upper/middle classes spoke impeccable English, they conversed at home in Hindi or in their regional languages, whereas in Ceylon the middle class usually spoke English at home, with the local languages being reserved only for the servants.
+
+...
+
+[Data](articles/1d2fea47.json)
+
+[Extended Data](ext_articles/1d2fea47.ext.json)
+
+---
+
+### Birth and Progress of SAARC
+
+*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/birth-and-progress-of-saarc/) · `en`
+
+The South Asian Association for Regional Cooperation (SAARC) of which I was called one of the founding fathers, consists of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. I attended the first meeting in Bangladesh and later meetings in India, Nepal and Pakistan between 1985 and 1988.
+
+...
+
+[Data](articles/b3054785.json)
+
+[Extended Data](ext_articles/b3054785.ext.json)
+
+---
+
+### Ceylinco Life gifts Elpitiya primary school its first new building since 1935
+
+*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/ceylinco-life-gifts-elpitiya-primary-school-its-first-new-building-since-1935/) · `en`
+
+A small primary school in the Galle District has received a new classroom, its first new building in 89 years, with the support of Ceylinco Life.Sri Lanka’s life insurance leader donated Rs 1.6 million towards the material costs to construct a classroom for the Bogaha Kanishta Vidyalaya in Elpitiya, a school that has not seen any building construction since 1935.
+
+Coincidentally, this was the 88th classroom building built by Ceylinco Life under a long-running corporate social responsibility initiative that has benefitted schools across Sri Lanka.
+
+The new building will be used by 40 students of Grade 3, who had previously had their classes outdoors or in the dilapidated school hall due to the non-availability of a building. The Bogaha Kanishta Vidyalaya has a student population of 195.
+
+Every classroom built by Ceylinco Life over the years continues to be monitored and maintained by the Company to ensure it serves many generations of students.
+
+...
+
+[Data](articles/12ca7af5.json)
+
+[Extended Data](ext_articles/12ca7af5.ext.json)
+
+---
+
+### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
+
+*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/amana-takaful-launches-executive-edge-forum-to-mark-25-years-of-excellence/) · `en`
+
+Amana Takaful Insurance celebrated its 25th anniversary with the launch of its inaugural “Executive Edge” forum at Shangri-La Colombo. The event brought together leading figures from Sri Lanka’s financial services sector, including prominent executives from leasing companies, insurance brokers, and partner banks, as well as key clients of Amana Takaful Life.
+
+The forum served as a platform for insightful discussions on the future of finance and evolving consumer behavior in the industry. A vibrant panel discussion featured Gayathri Manatunga (Head of Assurance at EY Sri Lanka and Maldives), Thilan Wijesinghe (Chairman of TWCorp), and Dr. Naveen Gunawardane (Managing Director of Lynear Wealth Management), with moderation by Shamindra Kulamannage. The panel explored how the financial services industry can adapt to rapid changes in consumer behavior, technology, and regulations.
+
+...
+
+[Data](articles/a5dcb958.json)
+
+[Extended Data](ext_articles/a5dcb958.ext.json)
+
+---
+
+### Inquiries about a Legacy and learning law for fun
+
+*2024-11-16 23:11:00* · [`islandlk`](http://island.lk/inquiries-about-a-legacy-and-learning-law-for-fun/) · `en`
+
+(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
+
+It was also during this period that I received a rather curt letter from the Commissioner of Inland Revenue stating that his department had received information that I had come in for a legacy of a house and several acres of land. He directed that this be declared forthwith so that the department could assess the tax and any penalties to be paid. This was a bit too much. I was extremely busy and had no time for tomfoolery. I called the stenographer and dictated the following reply:-
+
+I was delighted to receive your letter dated …. I shall be most grateful if you could please provide me very early, all particulars regarding this legacy, with addresses, etc., so that I may be enabled to enter upon it without any delay. I am anxiously looking forward to this. Please rest assured that I would be prepared to gladly pay any tax you may levy on it and any penalties you may decide on.
+
+...
+
+[Data](articles/57b8ec83.json)
+
+[Extended Data](ext_articles/57b8ec83.ext.json)
 
 ---

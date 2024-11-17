@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 15:12:11**
+As of **2024-11-17 16:25:22**
 
 ## Newspaper Stats
 
-*Scraped **55,376** Articles*
+*Scraped **55,394** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,359 @@ islandlk | 3,312
 economynextcom | 3,355
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,179
-adaderanalk | 6,685
-tamilmirrorlk | 7,852
-virakesarilk | 8,980
-adaderanasinhalalk | 9,577
+adalk | 5,185
+adaderanalk | 6,689
+tamilmirrorlk | 7,853
+virakesarilk | 8,984
+adaderanasinhalalk | 9,580
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,376 (100.0%) of 55,376 articles have been extended.
+55,385 (100.0%) of 55,394 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
+
+### ජාතික ජන බලවේගය ජාතික ලැයිස්තු මන්ත්‍රීවරයන් නම් කෙරේ
+
+*2024-11-17 15:52:14* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-ජාතික-ලැයිස්තු-මන්ත්‍රීවරයන්-නම්-කෙරේ/11-413092) · `si`
+
+ඒ අනුව මෙවර මහ මැතිවරණයේ ඡන්ද ප්‍රතිඵලය අනුව ඔවුන්ට හිමි වූ ජාතික ලැයිස්තු මන්ත්‍රී ධුර 18 සඳහා මෙම පත් කිරීම් සිදු කර ඇත.
+
+◼️
+
+[Data](articles/0d512b85.json)
+
+---
+
+### Sri Lanka’s tenth Parliament to welcome over 150 fresh faces as MPs
+
+*2024-11-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103564/sri-lankas-tenth-parliament-to-welcome-over-150-fresh-faces-as-mps) · `en`
+
+The 2024 parliamentary election has marked a historic shift in Sri Lanka’s legislature, with nearly 150 out of the 196 elected Members of Parliament (MPs) being newcomers.
+
+A notable 146 MPs elected to the Parliament this year are first-time representatives in Parliament.
+
+The National People’s Power (NPP) emerged as the dominant force, securing 141 parliamentary seats at the district level following a landslide victory in the 2024 General Election, which was held on 14 November. Among these, 130 MPs are reported to be newcomers to the Parliament.
+
+The Samagi Jana Balawegaya (SJB) won 35 parliamentary seats, with eight of them being new MPs. In contrast, 27 of its elected members have previous served as parliamentarians.
+
+...
+
+[Data](articles/98e07235.json)
+
+[Extended Data](ext_articles/98e07235.ext.json)
+
+---
+
+### சிறிபுரவில் கெப் - கார் விபத்து; ஒருவர் பலி!
+
+*2024-11-17 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198989) · `ta`
+
+சிறிபுர பொலிஸ் பிரிவுக்குட்பட்ட தலுகான - மஹியங்கன வீதியில் பதனாகல பிரதேசத்தில் கெப் வண்டியொன்று காருடன் மோதி விபத்துக்குள்ளானதில் கார் சாரதி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+சிறிபுரவிலிருந்து பொலன்னறுவை நோக்கி பயணித்த கெப்  வண்டியொன்று எதிரே வந்த காருடன் நேருக்கு நேர் மோதியதில் விபத்து ஏற்பட்டுள்ளது.
+
+விபத்தில் சாரதிகள் இருவரும் படுகாயமடைந்து தெஹிஅத்தகண்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில், கார் சாரதி உயிரிழந்தார்.
+
+◼️
+
+[Data](articles/4672f1a4.json)
+
+---
+
+### Nine records in the history of the national folk force
+
+*2024-11-17 15:28:29* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-මැතිවරණය-ඉතිහාසයේ-වාර්තා-9ක්-පිහිටුවයි/11-413089) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National Folk Force history: 9 records. Highest vote % (61.56%). Most divisions won (136). Highest votes (17,785,396). Most seats (141). Nationalist list record (1720). First party to win 2/3 seats under proportional system. Lowest election threshold (3%).
+
+🟩
+
+Former provincial Province Governor of the Central Province has placed nine electorals to the general general general general election.
+
+He was a political analyst and was a precedent former President Ranil Wickremesinghe.
+
+The highest percentage of a general election with a general election 61.56% (before, the UPFA)
+
+There are the highest number of vacations taken in a high ministration. (United People's Freedom Alliance (UPFA) in 2010 is 136 divisions)
+
+21 other districts won in general elections. Earlier, the United People's Freedom Alliance (UPFA) in 2010 Districts
+
+The highest number of votes won in general elections (1785,3960 votes in 2020)
+
+The highest number of seats won at district level 141. (The Public Federation Front in 2020 is 128 seats)
+
+The most nationalist list seats in general elections (CHOGM) 1720
+
+The highest 159 seats won in general elections. (Earlier, the Common Filling Front at 2020)
+
+...
+
+[Data](articles/f64ff580.json)
+
+[Extended Data](ext_articles/f64ff580.ext.json)
+
+---
+
+### මාලිමාවේ ජාතික ලැයිස්තුව නිවේදනය කෙරේ
+
+*2024-11-17 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203464) · `si`
+
+2024 පාර්ලිමේන්තු මැතිවරණයේදී ජාතික ජන බලවේගය සඳහා  වෙන් වූ ජාතික ලැයිස්තු මන්ත්‍රී ධුර සඳහා තෝරාගන්නා ලද නම්, එම පක්ෂයේ ප්‍රධාන ලේකම් වෛද්‍ය නිහාල් අබේසිංහ මහතා විසින් මැතිවරණ කොමසාරිස් සමත් ශ්‍රී රත්නායක මහතා වෙත යොමුකර තිබේ.
+
+මෙවර මැතිවරණ ප්‍රතිඵල අනුව ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 99 අ ව්‍යවස්ථාව අනුව ජාතික ජන බලවේගයට මන්ත්‍රි ධුර 18ක් හිමිවිය.
+
+◼️
+
+[Data](articles/3ec404e3.json)
+
+---
+
+### ITAK’s General Secretary nominated for National List seat
+
+*2024-11-17 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103563/itaks-general-secretary-nominated-for-national-list-seat-) · `en`
+
+The Ilankai Thamil Arasu Kachchi (ITAK) has nominated its General Secretary Dr. P. Sathiyalingam to enter the Parliament as the party’s National List MP.
+
+Dr. P. Sathiyalingam contested the 2024 General Election from the Vanni District representing the ITAK, however, was not able to secure a seat through the preference votes as ITAK managed to secure only one seat in the district.
+
+Accordingly, Dr. P. Sathiyalingam will enter the Parliament through the only national list seat secured by ITAK.
+
+◼️
+
+[Data](articles/2e139ef5.json)
+
+[Extended Data](ext_articles/2e139ef5.ext.json)
+
+---
+
+### Dilith appointed National List MP's National List
+
+*2024-11-17 15:19:19* · [`adalk`](https://www.ada.lk/breaking_news/සර්ව-ජන-බලයේ-ජාතික-ලැයිස්තු-මන්ත්‍රී-ධුරය-දිලිත්ට/11-413088) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Dil Jayaweera appointed National List MP by executive committee. Universal powers granted for this year's general election. Unanimous decision made.
+
+🟩
+
+The executive committee has unanimously decided to appoint the National List MP, Dil Jayaweera, who had the universal powers this year general election.
+
+◼️
+
+[Data](articles/69fcf731.json)
+
+[Extended Data](ext_articles/69fcf731.ext.json)
+
+---
+
+### MPs to enter Parliament through NPP’s national list
+
+*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/mps-to-enter-parliament-through-npps-national-list) · `en`
+
+The Election Commission has released the list of names nominated as Members of Parliament from the National People’s Power (NPP) through its national list.
+
+Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
+
+◼️
+
+[Data](articles/06920cdc.json)
+
+[Extended Data](ext_articles/06920cdc.ext.json)
+
+---
+
+### NPP reveals its 18 National List MPs
+
+*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/npp-reveals-its-18-national-list-mps) · `en`
+
+The National People’s Power (NPP) has announced the names nominated to fill the 18 National List MP seats won by the party in the 2024 parliamentary election.
+
+Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
+
+◼️
+
+[Data](articles/1d9bf83f.json)
+
+[Extended Data](ext_articles/1d9bf83f.ext.json)
+
+---
+
+### Dilith addresses in Parliament
+
+*2024-11-17 15:16:42* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413087) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Dilith Jayaweera, leader of US leaders, enters Parliament via National Visitor Council. Represents Almighty district but party lacks seat.
+
+🟩
+
+Dilita Jayaweera, the Leader of the United States Leaders, Dilith Jayaweera, is due to enter the Parliament by the National Visitor Council.
+
+Dilith Jayaweera represented the Almighty by the district, but the party could not have a seat.
+
+◼️
+
+[Data](articles/76adc4c0.json)
+
+[Extended Data](ext_articles/76adc4c0.ext.json)
+
+---
+
+### Decision to appoint Dilith Jayaweera
+
+*2024-11-17 15:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்-ஜயவீரவை-நியமிக்கத்-தீர்மானம்/175-347334) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Party appoints Dilith Jayaweera as National List representative despite no general election wins. General secretary made decision allowing single national list seat allocation.
+
+🟩
+
+The general secretary of the party has said that it has decided to appoint its leader Dilith Jayaweera as the representative of the National List of the Alliance.
+
+Despite failing to win any seats in the general election, the party allowed the party to obtain a single national list seat and make this recommendation.
+
+◼️
+
+[Data](articles/8ed69165.json)
+
+[Extended Data](ext_articles/8ed69165.ext.json)
+
+---
+
+### தேசிய மக்கள் சக்தியினர் நானுஓயாவில் பாற்சோறு வழங்கி வெற்றிக் கொண்டாட்டம்!
+
+*2024-11-17 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198993) · `ta`
+
+இலங்கையின் 10வது நாடாளுமன்ற தேர்தலில் தேசிய மக்கள் சக்தி 159 ஆசனங்களைக் கைப்பற்றி வரலாற்று சாதனையைப் படைத்துள்ளதை முன்னிட்டு நானுஓயா கிரிமிட்டி பகுதியில் அமைதியான முறையில் வெற்றிக் கொண்டாட்ட நிகழ்வுகள் நடைபெற்றன.
+
+சனிக்கிழமை (16) மாலை நானுஓயா டெஸ்போட் கிரிமிட்டி ஆலயத்துக்கு முன்பாக தேசிய மக்கள் சக்தியின் ஆதரவாளர்கள் பொதுமக்களுக்கு பாற்சோறும் இனிப்புப் பண்டங்களும் வழங்கினர்.
+
+இதன்போது தேசிய மக்கள் சக்தியின் நிறைவேற்றுக்குழு உறுப்பினரும் நுவரெலியா மாவட்ட அமைப்பாளருமான மூக்கையா பாஸ்கர் இணைந்துகொண்டு தேர்தலில் வாக்களித்தவர்களுக்கு நன்றி தெரிவித்தார்.
+
+மேலும், இக்கொண்டாட்ட நிகழ்வில் அப்பகுதிகளில் வசிக்கும் ஏராளமான கட்சியின் முக்கிய உறுப்பினர்களும் ஆதரவாளர்களும் கலந்துகொண்டனர்.
+
+◼️
+
+[Data](articles/75ff8db8.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-11-17 14:18:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413086) · `si`
+
+Sri Lanka wins coin toss, decides to bat first in 2nd ODI against Sri Lanka today.
+
+🟩
+
+The second ODI match between Sri Lanka and Sri Lanka will be held today (17).
+
+Sri Lanka captain Charith won the coin first, decided to bowl first.
+
+◼️
+
+[Data](articles/b3526b7e.json)
+
+[Extended Data](ext_articles/b3526b7e.ext.json)
+
+---
+
+### கஹதுடுவையில் 66 கடவுச்சீட்டுகளுடன் இருவர் கைது!
+
+*2024-11-17 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198987) · `ta`
+
+கஹதுடுவ பொலிஸ் பிரிவுக்குட்பட்ட சியம்பலாகொட பிரதேசத்தில் உள்ள வீடொன்றில் 66 கடவுச்சீட்டுகளை வைத்திருந்த இருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கஹதுடுவ பொலிஸ் நிலைய அதிகாரிகளுக்கு கிடைத்த தகவலின் அடிப்படையில் மேற்கொண்ட சுற்றிவளைப்பின்போதே இவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதான பெண் சிங்கப்பூர், ஹொங்கொங், துபாய் மற்றும் ருமேனியா ஆகிய நாடுகளில் பணிபுரிந்து 2022ஆம் ஆண்டு இலங்கைக்கு வந்து, சியம்பலாகொடயில் உள்ள வீட்டில் கைதான ஆணுடன் வசித்து வந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவர், வெளிநாட்டு வேலை பெற்றுத் தருவதாக கூறி, சுமார் இரண்டரை வருடங்களாக பலரிடம் கடவுச்சீட்டுக்களை வாங்கி வந்திருக்கிறார்.
+
+இந்த கடவுச்சீட்டுக்களை ராஜகிரிய பிரதேச வீதிகளில் காத்திருந்தும், வாகனங்களில் அமர்ந்தவாறும் பலரிடம் பெற்றிருக்கிறார் என விசாரணைகளில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/7bb9d0cc.json)
+
+---
+
+### කාසියේ වාසිය ශ්‍රී ලංකාවට
+
+*2024-11-17 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203463) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර දෙවන එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (17) පැල්ලේකැලේදී පැවැත්වෙයි.
+
+එහි කාසියේ වාසිය දිනාගත් ශ්‍රී ලංකා කණ්ඩායම පළමුව පන්දුයැවීමට තීරණය කර ඇත.
+
+දිවා රාත්‍රී තරගයක් ලෙස පැවැත්වෙන මෙම තරගය අද පස්වරු 2.30ට ආරම්භ වීමට නියමිතය.
+
+ශ්‍රී ලංකා - නවසීලන්ත තරග 3කින් සමන්විත එක්දින ක්‍රිකට් තරගාවලියේ පළමු තරගය ඩක්වර් සහ ලුවිස් න්‍යායට අනුව ලකුණු 45කින් ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+ඒ අනුව තරග 3කින් සමන්විත මෙම තරගාවලියේ මේ වන 1ට බින්දුවක් ලෙස ශ්‍රී ලංකාව පෙරමුණ ගෙන සිටියි.
+
+අද තරගය ශ්‍රී ලංකාව ජය ගතහොත් තවත් තරගයක් ඉතිරිව තිබියදී ශ්‍රී ලංකාවට එක්දින තරගාවලිජය ජය හිමිවනු ඇති.
+
+ශ්‍රී ලංකාව අවසන් වරට නවසීලන්තයට එරෙහිව 2012 වසරේදී එක්දින තරගාවලි ජයක් වාර්තා කිරීමට සමත්කම් දක්වා ඇත්තේ මහේල ජයවර්ධනගේ නායකත්වය යටතේය.
+
+ඒ අනුව ශ්‍රී ලංකා පිල අද තරගය ජයගතහොත් වසර 12කට පසුව නවසීලන්තයට එරෙහිව එක්දින තරගාවලි ජයක් වාර්තා කිරීමට චරිත් අසලංක ප්‍රමුඛ ශ්‍රී ලංකා පිලට අවස්ථාව හිමිවනු ඇති.
+
+...
+
+[Data](articles/4b3c5a2c.json)
+
+---
+
+### வளமான புதிய யுகத்தை படைத்து இளைஞர்களிடம் நாட்டை கையளிப்பதே எமது நோக்கம் - இளங்குமரன்
+
+*2024-11-17 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198990) · `ta`
+
+எமக்கு கிடைத்த இந்த வெற்றி மக்களுக்கு கிடைத்த வெற்றியாகும். புலம்பெயர் தேசத்தில் இருக்கின்ற உறவுகள் ஒன்றிணைந்து எமது நாட்டினை முன்னேற்றுவதற்கு முன்வர வேண்டும் என தேசிய மக்கள் சக்தியின் யாழ்ப்பாணம் - கிளிநொச்சி மாவட்ட நாடாளுமன்ற உறுப்பினர் இளங்குமரன் தெரிவித்துள்ளார்.
+
+நேற்று சனிக்கிழமை (16) யாழ்ப்பாணத்தில் உள்ள கட்சி அலுவலகத்தில் நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் இவ்வாறு தெரிவித்துள்ளார்.
+
+எமக்குக் கிடைத்த வெற்றி என்பது மக்களுக்கு கிடைத்த பெரியதொரு வெற்றியாகவே கருதப்பட வேண்டும். ஏனென்றால், இதுவரை காலமும் இருந்த அரசியல்வாதிகள் மீது மக்களுக்கு ஏற்பட்டிருந்த வெறுப்பின் காரணமாகவும், அவர்களது பொறுப்பற்ற செயற்பாடுகள் காரணமாகவும், அரசு நிறுவனங்களை வினைத்திறமின்மை காரணமாக இயக்கியதன் காரணமாகவும், ஜனாதிபதி அநுரகுமார திசாநாயக்க இந்த நாட்டில் ஓர் இன ஐக்கியத்தை ஏற்படுத்துவார் என்ற நம்பிக்கையுடனும் மக்கள் இந்த வாக்குகளை பதிவு செய்துள்ளார்கள்.
+
+இந்தத் தேர்தலில் எமக்கு பல தொழிற்சங்கங்கள் உதவி செய்திருக்கின்றன. அந்த தொழிற்சங்கங்களுக்கும் மக்களுக்கும் நன்றி கூற கடமைப்பட்டிருக்கிறோம்.
+
+...
+
+[Data](articles/867968b6.json)
+
+---
+
+### සර්වජන බලයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයට දිලිත් ජයවීර පත් කෙරේ
+
+*2024-11-17 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203462) · `si`
+
+මෙවර පාර්ලිමේන්තු මැතිවරණයේදී සර්වජන බලය ලබාගත් ඡන්ද සංඛ්‍යාව අනුව හිමි වූ ජාතික ලැයිස්තු මන්ත්‍රී ධුරය සඳහා එම පක්ෂයේ නායක ව්‍යවසායක දිලිත් ජයවීර මහතා නම් කර තිබේ.
+
+මැතිවරණ කොමිෂන් සභාව වෙත ලිපියක් යවමින් එම පක්ෂයේ මහලේකම් නීතීඥ රන්ජන් සෙනවිරත්න මහතා මේ බව දන්වා තිබේ.
+
+මෙවර පාර්ලිමේන්තු මැතිවරණයට නව පක්ෂයක් ලෙසින් තරග වැදුණු වැදුණු සර්වජන බලය ඡන්ද 178,006 ක ඡන්ද ප්‍රමාණයක් ලබා ගැනීමට සමත් විය.
+
+◼️
+
+[Data](articles/97a0bcf0.json)
+
+---
 
 ### Dilith Jayaweera to enter Parliament through ‘Sarvajana Balaya’ national list
 
@@ -2135,327 +2473,5 @@ Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva 
 [Data](articles/191fc0ed.json)
 
 [Extended Data](ext_articles/191fc0ed.ext.json)
-
----
-
-### The national people are not opposed to the power of the people
-
-*2024-11-17 03:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-எதிர்ப்பானவர்கள்-அல்லர்/175-347310) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-CVK Sivagnanam: "We're not opposed to national power." TNA leader discusses party's shift on 13th Amendment, provincial councils. Emphasizes support for Tamil people's interests and constitutional changes.
-
-🟩
-
-CVK Sivagnanam, Senior Deputy Chairman of the Sri Lanka Tamil National Alliance (TNA) and Chairman of the Northern Provincial Council, said that we are not opposed to the national power.
-
-He said this during a media briefing held at his office in Jaffna yesterday. He further stated that
-
-This time the national people have recorded success as a power wave or tsunami. The party has more than two -thirds majority. Some have been elected in Jaffna and elsewhere in this party.
-
-Therefore, what we can do with the party or policy is that the people who fought against the 13th Amendment and the provincial council system in the past.. But now that the Tamil people want it and the new constitution, there is a change in the same way that the system remain intact.
-
-Even though the party stood against the day, there is now a change. That change must occur in all matters of the Tamil people. Therefore, we make it clear that we are not against your state or opposition to any occasion. (A)
-
-◼️
-
-[Data](articles/98134115.json)
-
-[Extended Data](ext_articles/98134115.ext.json)
-
----
-
-### Extension of landslide risk warning
-
-*2024-11-17 03:05:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மண்சரிவு-அபாய-எச்சரிக்கை-நீடிப்பு/175-347309) · `ta`
-
-Landslide warning extended: Matale, Kegalle, Kurunegala, Gampaha, Matara until 4pm today.
-
-🟩
-
-The National Building Research Institute said that the landslide hazard warning has been extended till 4 pm today.
-
-A landslide hazard has been extended to the districts of Matale, Kegalle, Kurunegala, Gampaha and Matara. (A)
-
-◼️
-
-[Data](articles/78793e48.json)
-
-[Extended Data](ext_articles/78793e48.ext.json)
-
----
-
-### Amana Bank’s nine month PAT tops Rs. one bn.
-
-*2024-11-17 02:09:00* · [`islandlk`](http://island.lk/amana-banks-nine-month-pat-tops-rs-one-bn/) · `en`
-
-Advances surpass LKR 100 billion milestone, with a growth of 16%
-
-Amãna Bank continued its strong financial performance as it closed the nine months ending September 30, 2024 with a Profit Before Tax of LKR 1.98 billion, reflecting a 18% YoY increase compared to LKR 1.68 billion recorded for the corresponding period of 2023. Showcasing a 26% YoY growth, Profit After Tax grew from LKR 891 million to cross the LKR 1 billion mark and close at LKR 1.12 billion, a news release from the bank said.
-
-With financing rates declining across the banking industry in a bid to spur economic growth, the Bank’s financing income closed at LKR 11.70 billion. However, by maintaining a strong financing margin of 4.1%, the Bank posted a Net Financing Income growth of 6% YoY to reach LKR 5.13 billion compared with LKR 4.85 billion posted in the corresponding period in 2023.
-
-...
-
-[Data](articles/3b233f70.json)
-
-[Extended Data](ext_articles/3b233f70.ext.json)
-
----
-
-### Infinite Group becomes market entry partner for East London University in Lanka
-
-*2024-11-17 02:08:00* · [`islandlk`](http://island.lk/infinite-group-becomes-market-entry-partner-for-east-london-university-in-lanka/) · `en`
-
-Infinite Group announces its partnership with the University of East London (UEL), becoming the official representative in Sri Lanka to manage agent partnerships and entry registrations. This collaboration will provide Sri Lankan agents to work closely with UEL’s academic programmes and streamlined application services, enhancing opportunities for higher education abroad.
-
-Speaking about the partnership Pavel Bawa, Deputy Head of International Recruitment, South Asia from the UEL said, “Our partnership with the Infinite Group comes at a time when the demand for overseas education is growing rapidly in Sri Lanka. The UK remains one of the top destinations for Sri Lankan students due to its high academic standards, cultural diversity, and excellent career prospects. With Infinite Group facilitating the entire process, students will now find it easier to apply to UEL and embark on their academic journeys.”
-
-...
-
-[Data](articles/58eb4fb6.json)
-
-[Extended Data](ext_articles/58eb4fb6.ext.json)
-
----
-
-### Sampath Bank achieves strong growth for 9 months ending Sept 2024
-
-*2024-11-17 02:07:00* · [`islandlk`](http://island.lk/sampath-bank-achieves-strong-growth-for-9-months-ending-sept-2024/) · `en`
-
-Sampath Bank has posted impressive financial results for the nine months ending September 30, 2024, with a profit before tax (PBT) of Rs 29.9 billion and a profit after tax (PAT) of Rs 17.8 billion. These results represent a year-on-year growth of 36% in PBT and 44% in PAT, despite an exchange loss of Rs 3.6 billion due to the appreciation of the Sri Lankan Rupee (LKR). The Sampath Group, which includes the bank and its subsidiaries, reported a PBT of Rs 31.9 billion and PAT of Rs 19.1 billion, reflecting growth rates of 40% and 50%, respectively.
-
-Key financial metrics highlighted strong performance across several areas. Net Interest Income grew by 14.1% to Rs 61 billion, supported by reduced interest expenses despite a 9.6% drop in total interest income. The bank’s loan book expanded by Rs 38 billion, while deposits grew by Rs 140 billion, reinforcing solid growth in both assets and liabilities.
-
-...
-
-[Data](articles/817359cd.json)
-
-[Extended Data](ext_articles/817359cd.ext.json)
-
----
-
-### Hayleys records 78% growth in PBT to Rs.12.73 bn in first half
-
-*2024-11-17 02:06:00* · [`islandlk`](http://island.lk/hayleys-records-78-growth-in-pbt-to-rs-12-73-bn-in-first-half/) · `en`
-
-The Hayleys Group delivered remarkable growth and profitability during the first half of the financial year ending 31st March 2025, as it leveraged its leading market positions across diverse business verticals to deliver a Profit Before Tax of Rs.12.73 bn, an increase of 78% over the corresponding period of the previous year, a company news release said.
-
-Meanwhile, the Group recorded a 44% increase in Profit Before Tax to Rs.7 bn during the second quarter of the financial year. The robust performance for the period reflects commendable top line growth, ongoing focus on operating efficiencies and effective management of finance costs, enabling continued value creation to shareholders with the annualized Earnings per Share increasing to Rs.4.23 compared to Rs.0.09 the previous year, the release added.
-
-...
-
-[Data](articles/ba1c1e35.json)
-
-[Extended Data](ext_articles/ba1c1e35.ext.json)
-
----
-
-### Walter Stace in British Ceylon, 1910-1932
-
-*2024-11-17 01:25:00* · [`islandlk`](http://island.lk/walter-stace-in-british-ceylon-1910-1932/) · `en`
-
-Walter T. Stace was a British citizen born in 1886 and educated in private schools in Wales and Scotland before completing his undergraduate degree at Trinity College, Dublin. He was therefore of middle-upper class background. His philosophical leanings did not deter him from signing up for the Colonial Service. He was sent to Ceylon – reaching the island with his wife … and being posted to the town of Galle in 1910.
-
-He wrote his autobiography at some point and the Sri Lankan chapters have been printed as a book entitled FOOTPRINTS ON WATER under the editorial direction of Bernd Pflug by the Sailfish firm in Colombo marketed by the Perera Hussein Publishing House in a 218-page booklet bearing the ISBN 978-624-5993-02=4
-
-...
-
-[Data](articles/91768d23.json)
-
-[Extended Data](ext_articles/91768d23.ext.json)
-
----
-
-### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
-
-*2024-11-17 01:06:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-experts-expertise-expatriates/) · `en`
-
-The inability of Sri Lankan citizens, academics and scholars included, to engage properly with critical issues on time presents a risk to society. It also presents a challenge to the new GOSL. I’ve said this before – sadly, the country ended up in its current, precarious state due to a financial crisis brought about by wicked and corrupt politicians, some of whom have amassed vast wealth in just 15 years after the terrorist war ended. But corrupt and stupid politicians didn’t do it alone.
-
-...
-
-[Data](articles/44a25f26.json)
-
-[Extended Data](ext_articles/44a25f26.ext.json)
-
----
-
-### An Open Letter To President AKD: Make Religious Freedom Or Belief A priority
-
-*2024-11-17 00:58:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-open-letter-to-president-akd-make-religious-freedom-or-belief-a-priority/) · `en`
-
-Dear Mr. President, I write to you not only as a concerned citizen but as someone who is deeply invested in the international standing and reputation of Sri Lanka. Just a few months ago, I was among those who voiced their skepticism about your ascent to the presidency, questioning whether your promises of eradicating corruption and prioritizing the welfare of the people would blossom into genuine change.
-
-Yet, today, I reach across the chasm of our political differences to appeal to a shared hope: a united and harmonious Sri Lanka – ensuring religious freedom or belief to all. As you have articulated in your speeches, Sri Lanka stands at a crossroads—we either repeat divisive politics or create an opportunity to build a nation that values the rich diversity of its people.
-
-...
-
-[Data](articles/44125c08.json)
-
-[Extended Data](ext_articles/44125c08.ext.json)
-
----
-
-### 2024-11-16 (Saturday)
-
-### "Not going to retire" Mahinda Action
-
-*2024-11-16 23:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓய்வு-பெறப்போவதில்லை-மஹிந்த-அதிரடி/175-347308) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Mahinda Rajapakse refuses to retire from politics. He believes newcomers should be given a chance to prove themselves. The people have voted for change, sending new representatives to Parliament.
-
-🟩
-
-Former President Mahinda Rajapakse has announced that he will not retire from politics.
-
-He said the success of the national people's power was a positive improvement and that newcomers should be given the opportunity to prove if they could succeed.
-
-The people of this country have voted and sent new people to Parliament.. Remble
-
-◼️
-
-[Data](articles/6dc05f66.json)
-
-[Extended Data](ext_articles/6dc05f66.ext.json)
-
----
-
-### Gazette Release includes the names of the new MPs
-
-*2024-11-16 23:48:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிக்களின்-பெயர்கள்-அடங்கிய-வர்த்தமானி-வெளியீடு/175-347307) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New MPs named in Gazette: 196 elected to 10th Parliament. Special notification issued by Election Commission in 1981. National List MPs (29) announced separately by parties.
-
-🟩
-
-A special gazette notification, comprising the names of the 196 MPs who have been elected to the 10th Parliament.
-
-The Extreme Gazette Notification has been issued by the Election Commission in 1981 in accordance with the Parliamentary Elections Act.
-
-The parties must announce the names of the members to be elected to Parliament through the National List on behalf of the party. The Gazette, which includes the names of the 29 National List MPs, will be published by the Elections Commission. Remble
-
-◼️
-
-[Data](articles/872dfd76.json)
-
-[Extended Data](ext_articles/872dfd76.ext.json)
-
----
-
-### Attack on SLPP party office
-
-*2024-11-16 23:41:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/SLPP-கட்சி-காரியாலயத்தின்-மீது-தாக்குதல்/73-347306) · `ta`
-
-Attack on SLPP office: Complaint filed at Kattankudy Police Station. Incident occurred near Batticaloa Election Office. Office belongs to MI Abdul Wahhab, former parliamentary candidate.
-
-🟩
-
-A complaint has been lodged at the Kattankudy Police Station that the PA has been attacked last night.
-
-The office of the office said that the Election Office may have been attacked on the Poonchimunai Darussalam Playground Road, Batticaloa.
-
-The office belonged to MI Abdul Wahhab, who contested in Parliament in the Batticaloa district at the PA in the PA.
-
-◼️
-
-[Data](articles/9e4eef34.json)
-
-[Extended Data](ext_articles/9e4eef34.ext.json)
-
----
-
-### The Downplaying of Our National Languages: the Advantages of English
-
-*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/the-downplaying-of-our-national-languages-the-advantages-of-english/) · `en`
-
-(Excerpted from Falling Leaves, an anthology of autobiographical stories by LC Arulpragasam)
-
-I recognized the advantages that we had inherited from the British through our knowledge of the English language. But I also began to realize that we had so exalted our knowledge of English that it had been at the expense of the neglect of our national languages. For example in India, although the members of its upper/middle classes spoke impeccable English, they conversed at home in Hindi or in their regional languages, whereas in Ceylon the middle class usually spoke English at home, with the local languages being reserved only for the servants.
-
-...
-
-[Data](articles/1d2fea47.json)
-
-[Extended Data](ext_articles/1d2fea47.ext.json)
-
----
-
-### Birth and Progress of SAARC
-
-*2024-11-16 23:21:00* · [`islandlk`](http://island.lk/birth-and-progress-of-saarc/) · `en`
-
-The South Asian Association for Regional Cooperation (SAARC) of which I was called one of the founding fathers, consists of Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan and Sri Lanka. I attended the first meeting in Bangladesh and later meetings in India, Nepal and Pakistan between 1985 and 1988.
-
-...
-
-[Data](articles/b3054785.json)
-
-[Extended Data](ext_articles/b3054785.ext.json)
-
----
-
-### Ceylinco Life gifts Elpitiya primary school its first new building since 1935
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/ceylinco-life-gifts-elpitiya-primary-school-its-first-new-building-since-1935/) · `en`
-
-A small primary school in the Galle District has received a new classroom, its first new building in 89 years, with the support of Ceylinco Life.Sri Lanka’s life insurance leader donated Rs 1.6 million towards the material costs to construct a classroom for the Bogaha Kanishta Vidyalaya in Elpitiya, a school that has not seen any building construction since 1935.
-
-Coincidentally, this was the 88th classroom building built by Ceylinco Life under a long-running corporate social responsibility initiative that has benefitted schools across Sri Lanka.
-
-The new building will be used by 40 students of Grade 3, who had previously had their classes outdoors or in the dilapidated school hall due to the non-availability of a building. The Bogaha Kanishta Vidyalaya has a student population of 195.
-
-Every classroom built by Ceylinco Life over the years continues to be monitored and maintained by the Company to ensure it serves many generations of students.
-
-...
-
-[Data](articles/12ca7af5.json)
-
-[Extended Data](ext_articles/12ca7af5.ext.json)
-
----
-
-### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
-
-*2024-11-16 23:17:00* · [`islandlk`](http://island.lk/amana-takaful-launches-executive-edge-forum-to-mark-25-years-of-excellence/) · `en`
-
-Amana Takaful Insurance celebrated its 25th anniversary with the launch of its inaugural “Executive Edge” forum at Shangri-La Colombo. The event brought together leading figures from Sri Lanka’s financial services sector, including prominent executives from leasing companies, insurance brokers, and partner banks, as well as key clients of Amana Takaful Life.
-
-The forum served as a platform for insightful discussions on the future of finance and evolving consumer behavior in the industry. A vibrant panel discussion featured Gayathri Manatunga (Head of Assurance at EY Sri Lanka and Maldives), Thilan Wijesinghe (Chairman of TWCorp), and Dr. Naveen Gunawardane (Managing Director of Lynear Wealth Management), with moderation by Shamindra Kulamannage. The panel explored how the financial services industry can adapt to rapid changes in consumer behavior, technology, and regulations.
-
-...
-
-[Data](articles/a5dcb958.json)
-
-[Extended Data](ext_articles/a5dcb958.ext.json)
-
----
-
-### Inquiries about a Legacy and learning law for fun
-
-*2024-11-16 23:11:00* · [`islandlk`](http://island.lk/inquiries-about-a-legacy-and-learning-law-for-fun/) · `en`
-
-(Excerpted from the autobiography of MDD Peiris, Secretary to the Prime Minister)
-
-It was also during this period that I received a rather curt letter from the Commissioner of Inland Revenue stating that his department had received information that I had come in for a legacy of a house and several acres of land. He directed that this be declared forthwith so that the department could assess the tax and any penalties to be paid. This was a bit too much. I was extremely busy and had no time for tomfoolery. I called the stenographer and dictated the following reply:-
-
-I was delighted to receive your letter dated …. I shall be most grateful if you could please provide me very early, all particulars regarding this legacy, with addresses, etc., so that I may be enabled to enter upon it without any delay. I am anxiously looking forward to this. Please rest assured that I would be prepared to gladly pay any tax you may levy on it and any penalties you may decide on.
-
-...
-
-[Data](articles/57b8ec83.json)
-
-[Extended Data](ext_articles/57b8ec83.ext.json)
 
 ---

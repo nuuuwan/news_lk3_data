@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 10:01:05**
+As of **2024-11-17 09:08:02**
 
 ## Newspaper Stats
 
-*Scraped **55,307** Articles*
+*Scraped **55,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
 adalk | 5,171
-adaderanalk | 6,679
-tamilmirrorlk | 7,839
+adaderanalk | 6,677
+tamilmirrorlk | 7,837
 virakesarilk | 8,955
 adaderanasinhalalk | 9,561
 
@@ -26,111 +26,25 @@ adaderanasinhalalk | 9,561
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,299 (100.0%) of 55,307 articles have been extended.
+55,287 (100.0%) of 55,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### மற்றுமொரு சொகுசு வாகனம் மீட்பு
-
-*2024-11-17 09:53:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-சொகுசு-வாகனம்-மீட்பு/175-347316) · `ta`
-
-சட்டவிரோதமானது என சந்தேகிக்கப்படும் மற்றுமொரு நவீன சொகுசு பாதுகாப்பு வாகனம் ஒன்று, கண்டி தலைமையக பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-இவ்வாறு கைப்பற்றப்பட்ட வாகனம்,கண்டியில் உள்ள பிரபல மீன் விற்பனை வர்த்தகர் ஒருவருக்கு சொந்தமானது என விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
-
-பதில் பொலிஸ் மா அதிபருக்கு நேரடியாக வழங்கப்பட்ட முறைப்பாட்டின் அடிப்படையில், இந்த வாகனம் கைப்பற்றப்பட்டுள்ளது.AN
-
-◼️
-
-[Data](articles/9518ce3c.json)
-
----
-
-### 66 கடவுச்சீட்டுகளுடன் சிக்கிய பெண்
-
-*2024-11-17 09:47:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/66-கடவுச்சீட்டுகளுடன்-சிக்கிய-பெண்/175-347315) · `ta`
-
-கஹதுடுவ, சியம்பலாகொட பிரதேசத்தில் நேற்று (16) மாலை 66 கடவுச்சீட்டுகளை வைத்திருந்த பெண் உட்பட இருவர் கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட பெண் 42 வயதுடையவர் எனவும், சந்தேகநபர் 38 வயதுடையவர் எனவும், அவர்கள் சியம்பலாகொட பிரதேசத்தைச் சேர்ந்தவர்கள் எனவும் தெரிவிக்கப்படுகிறது.
-
-சந்தேகநபரான பெண் சிங்கப்பூர், ஹொங்கொங், டுபாய் மற்றும் ருமேனியா ஆகிய நாடுகளில் பணியாற்றிய பின்னர், கடந்த 2022ஆம் ஆண்டு இந்த நாட்டுக்கு வருகைத்தந்து சந்தேக நபருடன் இந்தப் பகுதியில் வசித்து வந்ததாகவும் குறிப்பிடப்பட்டுள்ளது.
-
-இவர்கள் சுமார் இரண்டரை வருடங்களாக பல்வேறு நபர்களுக்கு வெளிநாட்டு வேலைவாய்ப்பை பெற்றுத்தருவதாக கூறி, அந்த நபர்களின் கடவுச்சீட்டை பெற்றுக்கொண்டுள்ளதாக தெரியவந்துள்ளது.
-
-பின்னர், முகவர் நிறுவனங்கள் ஊடாக விசாவுக்கு விண்ணப்பித்து, வேலைக்கான நேர்முகத்தேர்வுக்கு அழைப்பதாக கூறி, குறித்த நபர்களிடம் இருந்து 02 முதல் 03 இலட்சம் ரூபாய் வரை பணம் பெற்று, அந்த கடவுச்சீட்டுக்களை தம்மிடம் வைத்திருந்தனர்.
-
-சந்தேகநபர்கள் தங்கியிருந்த வீட்டை சோதனையிட்ட போது, ​​20 மில்லிகிராம் ஐஸ் போதைப்பொருளும் கண்டுபிடிக்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/31a33008.json)
-
----
-
-### Eight killed in second mass attack in China this week
-
-*2024-11-17 09:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103554/eight-killed-in-second-mass-attack-in-china-this-week) · `en`
-
-A former student went on a stabbing rampage at a vocational college in eastern China on Saturday, killing eight people and injuring 17 others, police said, just days after the deadliest mass killing in the country in a decade shocked Chinese society.
-
-Saturday’s knife attack took place at the Wuxi Vocational College of Arts and Technology in Yixing, part of Wuxi city in the eastern province of Jiangsu. The suspect was apprehended at the scene and confessed to his actions, police added.
-
-Later on Saturday, authorities in the southern Chinese city of Zhuhai said they had charged a 62-year-old man after a driver on Monday rammed his car into a crowd killing 35 people and injuring 43 others.
-
-That incident touched off a rare online discussion over the mental health of Chinese society and whether a string of recent high-profile attacks in other major cities could reflect deeper stresses as the world’s second-largest economy slows.
-
-...
-
-[Data](articles/5de7a167.json)
-
----
-
-### USS Michael Murphy arrives in Colombo
-
-*2024-11-17 09:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/103553/uss-michael-murphy-arrives-in-colombo) · `en`
-
-USS Michael Murphy of the United States Navy had arrived at the port of Colombo on a replenishment visit on Saturday, Sri Lanka Navy said.
-
-Accordingly, the Sri Lanka Navy had welcomed the visiting ship in compliance with naval traditions.
-
-The 155.2m – long Arleigh Burke class guided missile destroyer is manned by a crew of 333 and she is commanded by Commander Jonathan B. Greenwald.
-
-On completion of replenishment needs, USS Michael Murphy is set to depart the island on November 17.
-
-◼️
-
-[Data](articles/7140303b.json)
-
-[Extended Data](ext_articles/7140303b.ext.json)
-
----
-
-### Record of MPs from today
+### இன்று முதல் எம்.பிக்களின் பதிவு
 
 *2024-11-17 08:59:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-முதல்-எம்-பிக்களின்-பதிவு/175-347314) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+10வது பாராளுமன்றத்திற்கு தேர்ந்தெடுக்கப்பட்ட எம்.பி.க்களின் பதிவு இன்று முதல் எதிர்வரும் 20ஆம் திகதி வரை நடைபெற உள்ளது.
 
+குறித்த நாட்களில் பாராளுமன்ற வளாகத்திற்கு வருகை தந்தும், இணையவழி மூலமாகவும் பதிவு செய்ய முடியும் என பாராளுமன்ற செயலாளர் நாயகம்  குஷானி ரோஹணதீர தெரிவித்தார்.
 
-
-"MPs registration: 10th Parliament. From today to 20th at Parliamentary Complex or via email. Elections Commission requests immediate submission of National List member details."
-
-🟩
-
-The registration of MPs elected to the 10th Parliament will be held from today to the 20th.
-
-Parliamentary Secretary General Kushani Rohanadeera said that the Parliamentary Complex can be registered in the Parliamentary Complex and by e -mail.
-
-Meanwhile, the Elections Commission has taken steps to inform the relevant parties to immediately send the list of members of the National List to the Elections Commission immediately.. Remble
+இதேவேளை, தேசிய பட்டியலிலிருந்து தெரிவு செய்யப்படவுள்ள உறுப்பினர்களின் பெயர் பட்டியலை உடனடியாக தேர்தல்கள் ஆணைக்குழுவிற்கு அனுப்பி வைக்குமாறு சம்பந்தப்பட்ட கட்சிகளுக்கு அறிவிக்க தேர்தல்கள் ஆணைக்குழு நடவடிக்கை எடுத்துள்ளது. R
 
 ◼️
 
 [Data](articles/de43f1d5.json)
-
-[Extended Data](ext_articles/de43f1d5.ext.json)
 
 ---
 
@@ -152,61 +66,39 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 
 [Data](articles/89021b62.json)
 
-[Extended Data](ext_articles/89021b62.ext.json)
-
 ---
 
-### Shouting in China: 8 killed
+### சீனாவில் கத்திக்குத்து: 8 பேர் பலி
 
 *2024-11-17 08:50:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-கத்திக்குத்து-8-பேர்-பலி/50-347313) · `ta`
 
-Here's a summary of the article in 200 characters:
+கிழக்கு சீனாவில் உள்ள கல்லூரி ஒன்றுக்கு அருகில் இடம்பெற்ற கத்திக்குத்து சம்பவத்தில் 8 பேர் உயிரிழந்துள்ளனர்.
 
+Wuxi நகரில் உள்ள Wuxi Yixing தொழில் மற்றும் தொழில்நுட்ப கல்லூரியில் சீன நேரப்படி நேற்று மாலை 6.30 அளவில் இந்த சம்பவம் இடம்பெற்றுள்ளது.
 
-
-"China: 8 killed in knife attack near college. Incident occurred at Wuxi Yixing College of Industry and Technology. 21-year-old suspect arrested."
-
-🟩
-
-Eight people have been killed in a knife incident near a college in eastern China.
-
-The incident took place at 6.30 pm yesterday at the Wuxi Yixing College of Industry and Technology in Wuxi.
-
-A 21 -year -old youth has been arrested in connection with the incident. (A)
+குறித்த சம்பவம் தொடர்பில் சந்தேக நபரான 21 வயதுடைய இளைஞர் ஒருவர் கைது செய்யப்பட்டுள்ளார். (a)
 
 ◼️
 
 [Data](articles/e8a1d496.json)
 
-[Extended Data](ext_articles/e8a1d496.ext.json)
-
 ---
 
-### Special train services
+### சிறப்பு ரயில் சேவைகள்
 
 *2024-11-17 08:47:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறப்பு-ரயில்-சேவைகள்/175-347312) · `ta`
 
-Here's a summary of 200 characters:
+பொதுத் தேர்தல் மற்றும் நீண்ட வார விடுமுறை முடிந்து பணியிடங்களுக்கு செல்லும்  பயணிகளுக்காக சில சிறப்பு ரயில்களை இயக்கத் திட்டமிடப்பட்டுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
 
+இன்றும் நாளையும் வழக்கமான ரயில் சேவைக்கு மேலதிகமாக சில சிறப்பு ரயில்கள் சேவையில் ஈடுபடுத்தப்பட்டுள்ளதாக திணைக்களம் தெரிவித்துள்ளது.
 
+கொழும்பு கோட்டையிலிருந்து பதுளை வரையிலும், பதுளையிலிருந்து கொழும்பு கோட்டை வரையிலும், கண்டியில் இருந்து கொழும்பு கோட்டை வரையிலும், பெலியத்தவிலிருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இயங்குகின்றன.
 
-"Special trains run: Colombo-Badulla, Badulla-Colombo, Kandy-Colombo, Beliatta-Colombo, Colombo-Hikkaduwa, Matara-Colombo, Galle-Colombo during elections & long weekends."
-
-🟩
-
-The Railway Department has said that some special trains are scheduled to be operated for passengers who are going to work in the general election and long weekend holidays.
-
-The department said that some special trains have been deployed in addition to the usual train service today and tomorrow.
-
-Special train services operate from Colombo Fort to Badulla, Badulla to Colombo Fort, from Kandy to Colombo Fort, from Beliatta to Colombo Fort.
-
-In addition, special train services will be held from Colombo Fort to Hikkadu, Matara to Colombo Fort, from Galle to Colombo Fort.. Remble
+அத்துடன், கொழும்பு கோட்டையிலிருந்து ஹிக்கடுவை வரையிலும், மாத்தறையில் இருந்து கொழும்பு கோட்டை வரையிலும், காலியில் இருந்து கொழும்பு கோட்டை வரையிலும் விசேட ரயில் சேவைகள் இடம்பெறவுள்ளதாக ரயில்வே திணைக்களம் தெரிவித்துள்ளது. R
 
 ◼️
 
 [Data](articles/f010014c.json)
-
-[Extended Data](ext_articles/f010014c.ext.json)
 
 ---
 
@@ -234,25 +126,19 @@ The Department of Meteorology has said that rainfall is expected in a few places
 
 ---
 
-### Showers in many parts of the provinces
+### අදත් බොහෝ පළාත්වලට වැසි
 
 *2024-11-17 07:47:39* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-බොහෝ-පළාත්වලට-වැසි/11-413077) · `si`
 
-Heavy showers forecasted in Western, Central, Sabaragamuwa, Southern, Uva, and Udarapura provinces. Thunderstorms possible. 75mm rainfall expected in some areas. Morning showers predicted for Northern and Eastern provinces.
+බස්නාහිර, මධ්‍යම, සබරගමුව, දකුණ, ඌව හා වයඹ පළාත්වල සවස් කාලයේදී හෝ රාත්‍රි කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
-🟩
+බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව දන්වා සිටියි.
 
-Showers or thundershowers will occur at several places in the Western, Central, Sabaragamuwa, Southern, Uva and Udarapura.
-
-The Department has informed about 75mm at some places in the Western, Sabaragamuwa and Central provinces.
-
-Showers will occur at a morning in the Northern and Eastern Provinces.
+උතුරු හා නැහගනහිර පළාත්වල ස්ථාන ස්වල්පයක උදෑසන කාලහේදීත් වැසි ඇතිවිය හැකි යැයි එම දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
 
 ◼️
 
 [Data](articles/6bae013f.json)
-
-[Extended Data](ext_articles/6bae013f.ext.json)
 
 ---
 
@@ -496,8 +382,6 @@ He wrote his autobiography at some point and the Sri Lankan chapters have been p
 
 [Data](articles/91768d23.json)
 
-[Extended Data](ext_articles/91768d23.ext.json)
-
 ---
 
 ### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
@@ -618,8 +502,6 @@ I recognized the advantages that we had inherited from the British through our k
 
 [Data](articles/1d2fea47.json)
 
-[Extended Data](ext_articles/1d2fea47.ext.json)
-
 ---
 
 ### Birth and Progress of SAARC
@@ -631,8 +513,6 @@ The South Asian Association for Regional Cooperation (SAARC) of which I was call
 ...
 
 [Data](articles/b3054785.json)
-
-[Extended Data](ext_articles/b3054785.ext.json)
 
 ---
 
@@ -652,8 +532,6 @@ Every classroom built by Ceylinco Life over the years continues to be monitored 
 
 [Data](articles/12ca7af5.json)
 
-[Extended Data](ext_articles/12ca7af5.ext.json)
-
 ---
 
 ### Amana Takaful launches “Executive Edge” forum to mark 25 years of excellence
@@ -667,8 +545,6 @@ The forum served as a platform for insightful discussions on the future of finan
 ...
 
 [Data](articles/a5dcb958.json)
-
-[Extended Data](ext_articles/a5dcb958.ext.json)
 
 ---
 
@@ -685,8 +561,6 @@ I was delighted to receive your letter dated …. I shall be most grateful if yo
 ...
 
 [Data](articles/57b8ec83.json)
-
-[Extended Data](ext_articles/57b8ec83.ext.json)
 
 ---
 
@@ -2379,5 +2253,103 @@ He said that the number of votes was delayed due to the preferential list of the
 [Data](articles/c6e7152b.json)
 
 [Extended Data](ext_articles/c6e7152b.ext.json)
+
+---
+
+### Special Workshop for New MPs
+
+*2024-11-16 10:26:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-எம்-பிகளுக்கு-விசேட-செயலமர்வு/175-347286) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Parliamentary workshop: 25-27th. Committee roles explained. MP registration: 18-20th. Holiday cancelled 18-22nd for events.
+
+🟩
+
+Secretary General of Parliament Saminda Gularatne said that the Special Executive for the newly elected members of the 10th Parliament will be held on the 25th, 26th and 27th of this month.
+
+He said that the parliamentary system, the work of the council and the work of the committees would be explained.
+
+In addition, the registration of MPs elected to the 10th Parliament will be held on the 18th, 19th and 20th of this month.
+
+The holiday of parliamentary employees has been canceled from 18 to 22 to organize these activities.
+
+◼️
+
+[Data](articles/57b82989.json)
+
+[Extended Data](ext_articles/57b82989.ext.json)
+
+---
+
+### Pakistani province declares health emergency due to smog and locks down two cities
+
+*2024-11-16 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/103535/pakistani-province-declares-health-emergency-due-to-smog-and-locks-down-two-cities) · `en`
+
+A Pakistani province declared a health emergency Friday due to smog and imposed a shutdown in two major cities.
+
+Smog has choked Punjab for weeks, sickening nearly 2 million people and shrouding vast swathes of the province in a toxic haze.
+
+A senior provincial minister, Marriyum Aurangzeb, declared the health emergency at a press conference and announced measures to combat the growing crisis.
+
+Time off for medical staff is cancelled, all education institutions are shut until further notice, restaurants are closing at 4 p.n. while takeaway is available up until 8 p.m. Authorities are imposing a lockdown in the cities of Multan and Lahore and halting construction work in those two places.
+
+“Smog is currently a national disaster,” Aurangzeb said. “It will not all be over in a month or a year. We will evaluate the situation after three days and then announce a further strategy.”
+
+...
+
+[Data](articles/28cb12b2.json)
+
+[Extended Data](ext_articles/28cb12b2.ext.json)
+
+---
+
+### Workshop on new MPs
+
+*2024-11-16 10:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203419) · `si`
+
+New MP registration begins tomorrow. Online system opens for enrollment. Two-day orientation on 19-20th. Three-day workshop on parliamentary duties planned. Gazette notification released today. First session on 21st at 10 AM.
+
+🟩
+
+Activities to register new members of Parliament to be elected to Parliament will commence tomorrow (17).
+
+According to the Parliamentary Communication Division, the new MPs could register from tomorrow's system through the online system.
+
+Steps have also been taken to open two arms in Parliament on the 19th and 20 of the information they needed.
+
+Meanwhile, newly elected new MPs is also planned to conduct a three-day workshop on parliamentary commitment and Parliamentary matters.
+
+The gazette notification is due to be released today (16).
+
+The new Parliament session will meet at 10 am on the 21st morning.
+
+◼️
+
+[Data](articles/56c48f3e.json)
+
+[Extended Data](ext_articles/56c48f3e.ext.json)
+
+---
+
+### Ceylon Chamber of Commerce congratulates newly elected govt
+
+*2024-11-16 10:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103534/ceylon-chamber-of-commerce-congratulates-newly-elected-govt) · `en`
+
+The Ceylon Chamber (CCC) has congratulated the National People’s Power (NPP) led by the President Anura Kumara Dissanayake on securing an overwhelming mandate and majority in the Parliamentary election.
+
+In a statement, the CCC said “The mandate of the people reflects the united expectations towards governance, democratic values, anti-corruption, and uplifting of the economy.”
+
+As the premier business Chamber in Sri Lanka, the Ceylon Chamber stands ready to collaborate with the new administration to foster economic stability, inclusive growth, and sustainable development, it added.
+
+The Chamber also commended the Election Commission and other state institutions for ensuring a peaceful election process.
+
+◼️
+
+[Data](articles/2dd322b6.json)
+
+[Extended Data](ext_articles/2dd322b6.ext.json)
 
 ---

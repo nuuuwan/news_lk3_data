@@ -1,52 +1,144 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-17 06:15:57**
+As of **2024-11-17 08:07:52**
 
 ## Newspaper Stats
 
-*Scraped **55,276** Articles*
+*Scraped **55,283** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
-colombotelegraphcom | 561
+colombotelegraphcom | 563
 bbccomsinhala | 565
 islandlk | 3,298
 economynextcom | 3,354
 dailyftlk | 3,781
 dailymirrorlk | 4,733
-adalk | 5,169
+adalk | 5,170
 adaderanalk | 6,676
 tamilmirrorlk | 7,833
 virakesarilk | 8,955
-adaderanasinhalalk | 9,557
+adaderanasinhalalk | 9,561
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,275 (100.0%) of 55,276 articles have been extended.
+55,278 (100.0%) of 55,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-17 (Sunday)
 
-### ’தேசிய மக்கள் சக்தியை எதிர்ப்பானவர்கள் அல்லர்’
+### පාර්ලිමේන්තුවට තේරී පත්වූ මන්ත්‍රීවරුන් ලියාපදිංචිය අද සිට
+
+*2024-11-17 07:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203444) · `si`
+
+10 වන පාර්ලිමේන්තුව සඳහා තේරී පත්වූ මන්ත්‍රීවරුන් අන්තර්ජාලය ඔස්සේ ලියාපදිංචි කිරීමේ කටයුතු අද (17) සිට ලබන 20 වැනිදා දක්වා සිදු කිරීමට නියමිතව තිබේ.
+
+පාර්ලිමේන්තු මහලේකම් කුෂාණි රෝහණදීර මහත්මිය පැවසුවේ අදාළ දිනවල පාර්ලිමේන්තු පරිශ්‍රය වෙත පැමිණීමෙන්ද ඒ සඳහා ලියාපදිංචි වීමේ හැකියාව ඇති බවය.
+
+මේ අතර ජාතික ලැයිස්තුවෙන් තෝරාපත් කර ගැනීමට නියමිත මන්ත්‍රීවරුන්ගේ නාම ලේඛණ කඩිනමින් මැතිවරණ කොමිෂන් සභාව වෙත යොමු කරන ලෙස අදාළ පක්ෂ වෙත දැනුම්දීමට මැතිවරණ කොමිසම පියවර ගෙන තිබේ.
+
+ඉන් අනතුරුව මැතිවරණ කොමිෂන් සභාව විසින් එම නාම ලේඛණය ගැසට් මගින් ප්‍රකාශයට පත් කිරීම සඳහා රජයේ මුද්‍රණාලය වෙත යොමු කිරීමට ද නියමිතය.
+
+ඒ ඒ දිස්ත්‍රික්කවලින් ඡන්දයෙන් තේරී පත්වූ මන්ත්‍රීවරුන්ගේ නම් ඊයේ (17) ගැසට් මගින් ප්‍රකාශයට පත් කෙරිණි.
+
+◼️
+
+[Data](articles/69c4eec6.json)
+
+---
+
+### විදේශ ගමන් බලපත්‍ර 66ක් සමඟ දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-11-17 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203443) · `si`
+
+විදේශ ගමන් බලපත්‍ර 66 ක් සන්තකයේ තබාගෙන සිටි සැකකාරියක් සහ සැකකරුවෙකු කහතුඩුව, සියඹලාගොඩ ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇත.
+
+කහතුඩුව පොලිස් ස්ථානයේ නිලධාරීන්ට ලද තොරතුරක් මත අදාළ නිවසේ ඊයේ (16) සවස සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+
+අත්අඩංගුවට ගත් සැකකාරිය වයස අවුරුදු 42 ක් වන අතර, සැකකරු වයස අවුරුදු 38 වන සියඹලාගොඩ ප්‍රදේශයේ පදිංචිකරුවන් වේ.
+
+සැකකාරිය සිංගප්පූරුව, හොංකොං, ඩුබායි සහ රුමේනියා යන රටවල සේවය කර 2022 වර්ෂයේ මෙරටට පැමිණ මෙම ප්‍රදේශයේ සැකකරු සමග පදිංචිව සිට ඇති බව සදහන් වේ.
+
+මොවුන් විසින් වසර දෙකහමාරක පමණ කාලයක සිට විවිධ පුද්ගලයින්ට විදේශ රැකියා ලබා දෙන බවට පවසා එම පුද්ගලයන්ගේ විදේශ ගමන් බලපත්‍ර රාජගිරිය ප්‍රදේශයේදී මාර්ගයන් වල රැඳී සිටිමින් ලබාගෙන ඇති බව අනාවරණය වී තිබේ.
+
+පසුව ඒජන්සි හරහා වීසා අයදුම් කර රැකියා සඳහා සම්මුඛ පරීක්ෂණයට කැඳවන බව පවසා එම පුද්ගලයන්ගෙන් රුපියල් ලක්ෂ 02 -03 අතර මුදලක්ද ලබා ගෙන එම විදේශ ගමන් බලපත්‍ර ද මොවුන් සන්තකයේ තබා ගෙන තිබේ.
+
+සැකකරුවන් පදිංචිව සිටි නිවස පරීක්ෂා කිරීමේදී, අයිස් මත්ද්‍රව්‍ය මිලිග්‍රෑම් 20 ක් ද තිබී සොයාගෙන ඇත.
+
+◼️
+
+[Data](articles/2ac8b6fc.json)
+
+---
+
+### අද සහ හෙට විශේෂ දුම්රිය ගමන් වාර කිහිපයක්
+
+*2024-11-17 06:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203442) · `si`
+
+මහමැතිවරණය සහ දීර්ඝ සතිඅන්ත නිවාඩුව අවසන් වී රැකියා ස්ථාන වෙත පැමිණෙන මගී ජනතාව සදහා විශේෂ දුම්රිය කිහිපයක් ධාවනය කිරීමට සැලසුම් කර ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව පැවසුවේ අද සහ හෙට දිනවල දී සාමාන්‍ය දුම්රිය ධාවන වාරයන්ට අමතරව විශේෂ දුම්රිය කිහිපයක් ධාවනය සදහා යොදවා ඇති බවය.
+
+කොළඹ කොටුවේ සිට බදුල්ල දක්වාත්, බදුල්ල සිට කොළඹ කොටුව දක්වාත්, මහනුවර සිට කොළඹ කොටුව දක්වාත්, බෙලිඅත්ත සිට කොළඹ කොටුව දක්වාත් විශේෂ දුම්රිය වාර ක්‍රියාත්මක වේ.
+
+එමෙන්ම කොළඹ කොටුව සිට හික්කඩුව දක්වාත්, මාතර සිට කොළඹ කොටුව දක්වාත්, ගාල්ල සිට කොළඹ කොටුව දක්වාත් මෙලෙස විශේෂ දුම්රිය සේවා ක්‍රියාත්මක වන බව දුම්රිය දෙපාර්තමේන්තුව සදහන් කළේය.
+
+◼️
+
+[Data](articles/230e0386.json)
+
+---
+
+### ප්‍රදේශ රැසකට සවස් කාලයේදී වැසි
+
+*2024-11-17 06:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203441) · `si`
+
+බස්නාහිර, මධ්‍යම, සබරගමුව, දකුණ, ඌව සහ වයඹ  පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම දෙපාර්තමේන්තුව සඳහන් කර ඇත්තේ බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවලට මි.මී.75 ක පමණ තරමක තද වැසි ඇතිවිය හැකි බවය.
+
+උතුරු සහ නැගෙනහිර පළාත්වලත් ස්ථාන ස්වල්පයක උදෑසන කාලයේදීත් වැසි ඇතිවිය හැකිය.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+◼️
+
+[Data](articles/191fc0ed.json)
+
+---
+
+### The national people are not opposed to the power of the people
 
 *2024-11-17 03:21:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியை-எதிர்ப்பானவர்கள்-அல்லர்/175-347310) · `ta`
 
-நாங்கள் எந்தச் சந்தர்ப்பத்திலும் தேசிய மக்கள் சக்தியை எதிர்ப்பானவர்கள் அல்லர் என்று  இலங்கைத் தமிழரசுக் கட்சியின் சிரேஷ்ட துணைத் தலைவரும் வடக்கு மாகாண சபையின் அவைத் தலைவருமான சி.வி.கே.சிவஞானம் தெரிவித்தார்.
+Here's a summary of the text in approximately 200 characters:
 
-யாழ்ப்பாணத்தில் உள்ள தமது அலுவலகத்தில் நேற்று இடம்பெற்ற ஊடக சந்திப்பின்போதே அவர் இவ்வாறு கூறினார். இதன்போது அவர் மேலும் தெரிவிக்கையில்,
 
-தேசிய மக்கள் சக்தி அலையாக அல்லது சுனாமியாக இந்த முறை வெற்றியைப் பதிவு செய்திருக்கின்றது. இந்தக் கட்சி மூன்றில் இரண்டுக்கும் மேற்பட்ட பெரும்பான்மைப் பலத்தைப் பெற்றிருக்கின்றது. இந்தக் கட்சியில் யாழ்ப்பாணத்திலும், ஏனைய இடங்களிலும் சிலர் தெரிவு செய்யப்பட்டும் உள்ளனர்.
 
-ஆகவே, நாங்கள் கட்சி சார்ந்து அல்லது கொள்கை சார்ந்து சொல்லக்கூடிய விடயம் என்னவென்றால் அநுர தரப்பினர் முன்னைய காலத்தில் 13 ஆவது திருத்தத்துக்கும் மாகாண சபை முறைமைக்கு எதிராகவும் போராடியவர்கள். ஆனால், இப்போது தமிழ் மக்கள் அதனை விரும்புவதாலும், புதிய அரசமைப்பைக் கொண்டு வரவுள்ளதாலும் அந்த முறைமை அப்படியே இருக்கட்டும் என்றவாறான மாற்றமொன்று அவர்களிடத்தே ஏற்பட்டிருக்கின்றது.
+CVK Sivagnanam: "We're not opposed to national power." TNA leader discusses party's shift on 13th Amendment, provincial councils. Emphasizes support for Tamil people's interests and constitutional changes.
 
-...
+🟩
+
+CVK Sivagnanam, Senior Deputy Chairman of the Sri Lanka Tamil National Alliance (TNA) and Chairman of the Northern Provincial Council, said that we are not opposed to the national power.
+
+He said this during a media briefing held at his office in Jaffna yesterday. He further stated that
+
+This time the national people have recorded success as a power wave or tsunami. The party has more than two -thirds majority. Some have been elected in Jaffna and elsewhere in this party.
+
+Therefore, what we can do with the party or policy is that the people who fought against the 13th Amendment and the provincial council system in the past.. But now that the Tamil people want it and the new constitution, there is a change in the same way that the system remain intact.
+
+Even though the party stood against the day, there is now a change. That change must occur in all matters of the Tamil people. Therefore, we make it clear that we are not against your state or opposition to any occasion. (A)
+
+◼️
 
 [Data](articles/98134115.json)
+
+[Extended Data](ext_articles/98134115.ext.json)
 
 ---
 
@@ -67,6 +159,36 @@ A landslide hazard has been extended to the districts of Matale, Kegalle, Kurune
 [Data](articles/78793e48.json)
 
 [Extended Data](ext_articles/78793e48.ext.json)
+
+---
+
+### On ‘Experts’, ‘Expertise’ & ‘Expatriates’
+
+*2024-11-17 01:06:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/on-experts-expertise-expatriates/) · `en`
+
+The inability of Sri Lankan citizens, academics and scholars included, to engage properly with critical issues on time presents a risk to society. It also presents a challenge to the new GOSL. I’ve said this before – sadly, the country ended up in its current, precarious state due to a financial crisis brought about by wicked and corrupt politicians, some of whom have amassed vast wealth in just 15 years after the terrorist war ended. But corrupt and stupid politicians didn’t do it alone.
+
+...
+
+[Data](articles/44a25f26.json)
+
+[Extended Data](ext_articles/44a25f26.ext.json)
+
+---
+
+### An Open Letter To President AKD: Make Religious Freedom Or Belief A priority
+
+*2024-11-17 00:58:04* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/an-open-letter-to-president-akd-make-religious-freedom-or-belief-a-priority/) · `en`
+
+Dear Mr. President, I write to you not only as a concerned citizen but as someone who is deeply invested in the international standing and reputation of Sri Lanka. Just a few months ago, I was among those who voiced their skepticism about your ascent to the presidency, questioning whether your promises of eradicating corruption and prioritizing the welfare of the people would blossom into genuine change.
+
+Yet, today, I reach across the chasm of our political differences to appeal to a shared hope: a united and harmonious Sri Lanka – ensuring religious freedom or belief to all. As you have articulated in your speeches, Sri Lanka stands at a crossroads—we either repeat divisive politics or create an opportunity to build a nation that values the rich diversity of its people.
+
+...
+
+[Data](articles/44125c08.json)
+
+[Extended Data](ext_articles/44125c08.ext.json)
 
 ---
 
@@ -217,6 +339,22 @@ Further, following the supplies and service requirements, 'The' USS Michael Murp
 [Data](articles/7faf7b8b.json)
 
 [Extended Data](ext_articles/7faf7b8b.ext.json)
+
+---
+
+### ඡන්දයෙන් තේරුණු මන්ත්‍රීවරුන්ගේ නම් ගැසට් කරයි
+
+*2024-11-16 22:01:29* · [`adalk`](https://www.ada.lk/breaking_news/ඡන්දයෙන්-තේරුණු-මන්ත්‍රීවරුන්ගේ-නම්-ගැසට්-කරයි/11-413075) · `si`
+
+මෙවර පාර්ලිමේන්තු මැතිවරණයෙන් ජයගෙන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ලෙස ඒ ඒ දිස්ත්‍රික් මැතිවරණ කොට්ඨාශවලින්  තේරී පත්වූ තැනැත්තන්ගේ නම් ප්‍රකාශයට පත් කරමින් මැතිවරණ කොමිෂන් සභාව මගින් අති විශේෂ ගැසට් නිවේදනයක් නිකුත් කර තිබේ .
+
+1981 අංක 01 දරණ පාර්ලිමේන්තු මැතිවරණ පනතේ 62 වගන්තිය ප්‍රකාරව   දිවයිනේ දිස්ත්‍රික්    මැතිවරණ කොට්ඨාස 22 න් මෙලෙස පත්වු මන්ත්‍රීවරුන් 196 කගේ නම්   අදාළ දේශපාලන පක්ෂ යටතේ   සඳහන් කරමින්   නොවැම්බර් 15 දාතමින් අද සවස මෙම ගැසට්ටුව නිකුත්  කෙරිණි .
+
+මෙයට අමතරව  ජාතික ලැයිස්තුවෙන්  තවත්  මන්ත්‍රීවරුන් 29 දෙනෙකු පත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/8158bb26.json)
 
 ---
 
@@ -2351,241 +2489,5 @@ Police Media Spokesperson, Attorney-at-Law, DIG's Court Attorneys, said that the
 [Data](articles/28db8a9f.json)
 
 [Extended Data](ext_articles/28db8a9f.ext.json)
-
----
-
-### A big rain this evening
-
-*2024-11-16 06:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203414) · `si`
-
-Rain expected tonight, thunderstorms in various areas. Lightning warning issued. Heavy showers forecasted for western, central, southern regions. Strong gusts possible during storms.
-
-🟩
-
-Thundershowers will occur at several places in the island today (16).
-
-The department requests the public to take steps to reduce the dangers caused by lightning, as the gemper is still available.
-
-Showers or thundershowers will occur in many parts of the island.
-
-Showers will occur in the Northern and Eastern Provinces and in the morning in the Hambantota district.
-
-Heavy showers in some places in the Western, Sabaragamuwa, Central and Southern provinces.
-
-Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-Temporary winds can also cause temporary strong winds with thunderstorms.
-
-◼️
-
-[Data](articles/f6c194c9.json)
-
-[Extended Data](ext_articles/f6c194c9.ext.json)
-
----
-
-### Will Sajith's political journey end with the defeat of the harmony power?
-
-*2024-11-16 04:48:44* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c748vdy01mko) · `si`
-
-Based on the information provided, here are the key points about the situation in Sri Lanka:
-
-
-
-1. The main opposition party, led by Sajith Premadasa, did not perform well in the 2020 general election. Despite receiving 1,968,716 votes, they only obtained a small number of seats.
-
-
-
-2. The main opposition in the previous parliament was the United National Party (UNP). However, there was an internal conflict within the UNP regarding leadership between Ranil Wickremesinghe and Sajith Premadasa.
-
-
-
-3. Sajith Premadasa became the Leader of the Opposition after the 2020 general election, winning 145 million votes (23.9% of total votes).
-
-
-
-4. There were allegations of corruption and misuse of funds against Sajith Premadasa and his party, which damaged their reputation.
-
-
-
-5. The party faced internal issues, including criticism of Sajith Premadasa's leadership and influence from his family members.
-
-
-
-6. Social media played a significant role in the opposition's challenges, with other parties taking advantage of Sajith Premadasa's limited online presence.
-
-
-
-7. In the 2024 presidential election, Sajith Premadasa ran again but received fewer votes (4,363,035) compared to 2019 (5,564,239).
-
-
-
-8. The political landscape in Sri Lanka has changed significantly since 2019, with increased polarization and challenges to traditional party systems.
-
-
-
-9. Experts suggest that both the ruling party and opposition need to adapt to changing voter demands and economic pressures.
-
-
-
-10. The future of Sajith Premadasa's leadership and the opposition's performance in upcoming elections remains uncertain.
-
-
-
-To answer your specific questions:
-
-
-
-1. Sri Lanka becoming a hub of global wildlife racket is not mentioned in the provided text. This seems to be a separate topic unrelated to the main discussion.
-
-
-
-2. Information about children in South Korea writing the hardest 8 hours of Asia for university entry is also not present in the given text.
-
-
-
-3. The text does not provide details about former MPs who wrote the Parliament at the general election this year. It mentions some defections and potential returns to the UNP, but specifics are lacking.
-
-🟩
-
-Will Sajith's political journey end with the defeat of the harmony power?
-
-The general election held yesterday (November 14), the reconciliation is focused on achieving a powerful setback in parallel to the past general election.
-
-The fast won 54 seats in the 2020's parliamentary general election.
-
-However, with 1,968,716 votes, however, was able to obtain a number of seats in the general election.
-
-What happened to the main opposition of the last parliament?This is to look into the BBC Sinhala.
-
-A reconciliation speed was established in 2020 as a result of the leading internal conflict regarding the leadership of UNP leader Ranil Wickremesinghe and Deputy Leader Sajith Premadasa.. That is the approval of the UNP Working Committee.
-
-The JHU, the JHU and the Sri Lanka Muslim Congress and the Tamil Progressive Alliance joined the New Alliance on February 2020.
-
-Sajith Premadasa was named as the leader of reconciliation and the party general secretary.
-
-...
-
-[Data](articles/e33b67cb.json)
-
-[Extended Data](ext_articles/e33b67cb.ext.json)
-
----
-
-### How Anura Kumara Dissanayake Won the Presidency in a Fourteen Fold Quantum Leap from 3% in 2019 to 42% in 2024.
-
-*2024-11-16 03:33:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85042) · `en`
-
-Anura Kumara Dissanayake ; “Leftist” Star Rises Over Sri Lanka-PART SIX
-
-The Janatha Vimukthi Peramuna(JVP)and  National People’s Power(NPP) leader Anura Kumara Dissanayake  contested the 2019  presidential election under the compass symbol.He finished a poor third with 418,553(3.16%) votes. Anura refused to be cowed down by that crushing  defeat. AKD   refurbished his image  and re-invented the political approach of his party.
-
-This enabled  Anura to  spearhead  a commendable political renaissance of the JVP led NPP. As is well known , Anura Kumara Dissanayake finished first in  the presidential election held on 24 September 2024. Politically, it was a gigantic quantum leap. AKD polled 5,634,915(42.31%) votes on the first count and 5,740,179(55.89%) on the second count. It was truly a famous victory!
-
-...
-
-[Data](articles/64529c6d.json)
-
-[Extended Data](ext_articles/64529c6d.ext.json)
-
----
-
-### Indian High Commissioner congratulated President
-
-*2024-11-16 03:04:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியை-வாழ்த்தினார்-இந்திய-உயர்ஸ்தானிகர்/175-347280) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Indian High Commissioner Santosh Ja met Sri Lankan President Anura Kumara Dissanayake to congratulate citizens on their election victory. He expressed India's congratulations and pledged to strengthen bilateral ties for mutual benefit.
-
-🟩
-
-Indian High Commissioner to Sri Lanka Santosh Ja meets President Anura Kumara Dissanayake to congratulate the national people who have recorded a special victory in the general election.
-
-The Indian High Commissioner to Sri Lanka has posted on his X site that India congratulates India for a nationwide democratic country and has promised to further strengthen bilateral relations for the benefit of the two people.. (A)
-
-◼️
-
-[Data](articles/eea600b2.json)
-
-[Extended Data](ext_articles/eea600b2.ext.json)
-
----
-
-### “Marxism  is not a set philosophy. It is really about providing answers to people’s problems at a particular time and context. We are committed to doing that through development, eliminating rural poverty, rooting out political corruption, achieving social justice and national unity We want to build a clean and beautiful Sri Lanka.” – JVP General Secretary Tilvin Silva.
-
-*2024-11-16 03:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85082) · `en`
-
-The Janatha Vimukthi Peramuna [JVP or People’s Liberation Front], which leads Sri Lanka’s ruling National People’s Power [NPP], could not have risen to power without widening its appeal and building a mass support base over the last few years, and the current political moment affords the party a chance to rewrite its history, general secretary Tilvin Silva said.
-
-“When you want to obtain power, you need a mass support base,” he said on Friday (November 15, 2024), just as the NPP’s resounding win in the November 14 general elections became evident.
-
-Speaking to The Hindu at the party’s headquarters in Battaramulla near Colombo, Mr. Silva called the election win “a huge achievement”.
-
-“In particular, the victory in Jaffna and in the upcountry area, where we were able to defeat deeply entrenched traditional parties and political families. This gives us a real chance to build a united country,” he said, referring to the JVP’s historic win in the Tamil-majority northern district.
-
-...
-
-[Data](articles/9a27e09b.json)
-
-[Extended Data](ext_articles/9a27e09b.ext.json)
-
----
-
-### Vijitha Herath tops the list
-
-*2024-11-16 02:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்-முதலிடம்/175-347279) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Vijitha Herath wins Gampaha seat. Harini Amarasuriya second in Colombo with 655,289 votes. Mahinda Rajapaksa previously highest in Kurunegala with 527,364 votes.
-
-🟩
-
-The Gampaha district candidate of the National People's Power, Vijitha Herath, won the parliamentary election in the parliamentary election and again elected to parliament.
-
-Ascendant. Harini Amarasuriya, the National People's Power candidate in Colombo district, has won the second place with the highest number of votes. He received 655,289 votes.
-
-Mahinda Rajapaksa had previously received more preferential votes. He contested the 2020 parliamentary elections in the Kurunegala district and received 527,364 votes. (A)
-
-◼️
-
-[Data](articles/c2c6c20c.json)
-
-[Extended Data](ext_articles/c2c6c20c.ext.json)
-
----
-
-### Thank you all who gave shoulder to the Renaissance Yuga - President
-
-*2024-11-16 02:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/198893) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Presidential candidate Anura Kumara Dissanayake thanks supporters for helping begin "Renaissance Age." National People's Power wins 159 seats. He urges peaceful celebrations and stability in political culture. Prime Minister Harini Amarasuriya thanks Northern and Eastern voters, ensuring Tamil confidence.
-
-🟩
-
-Anuragumara Dissanayake has thanked the people of the country, thank you all who gave shoulder to the beginning of the Renaissance Age.
-
-President Anura Kumara Dissanayake has uploaded a gratitude on his official X website following the National People's Power General Election.
-
-The president urged the presidential election to be a peaceful celebration of the general election, and pointed out to the people that the political culture that peacefully celebrate the election victory should be stable.
-
-The President has uploaded a thank you to all the people who gave the shoulder to start the Renaissance Age as the National People's Power has won 159 seats.
-
-Prime Minister Dr. Harini Amarasuriya thanked the people of the North and East, the main partners in the victory of the National People's Power. The Prime Minister also noted that the confidence of the Tamils ​​is well protected.
-
-◼️
-
-[Data](articles/393a78c7.json)
-
-[Extended Data](ext_articles/393a78c7.ext.json)
 
 ---

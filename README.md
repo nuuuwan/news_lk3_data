@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 21:00:45**
+As of **2024-11-18 21:42:38**
 
 ## Newspaper Stats
 
-*Scraped **55,628** Articles*
+*Scraped **55,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,31 +16,119 @@ islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,221
+adalk | 5,222
 adaderanalk | 6,718
 tamilmirrorlk | 7,880
 virakesarilk | 9,043
-adaderanasinhalalk | 9,615
+adaderanasinhalalk | 9,620
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,626 (100.0%) of 55,628 articles have been extended.
+55,634 (100.0%) of 55,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
+### Ravi's name gazetted as a National List MP
+
+*2024-11-18 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203509) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Ravi Karunanayake named National List MP Gazette notification New Democratic Front
+
+🟩
+
+Ravi Karunanayake's name was gazetted for a national listing of the New Democratic Front.
+
+◼️
+
+[Data](articles/6552bf95.json)
+
+[Extended Data](ext_articles/6552bf95.ext.json)
+
+---
+
+### Instructions to conduct Charming Festival of Parliament
+
+*2024-11-18 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203508) · `si`
+
+Here's a summary of the instructions for conducting the Charming Festival of Parliament in approximately 200 characters:
+
+
+
+Parliament's opening ceremony will feature a unique charm celebration. President Anura Kumara Dissanayake will preside over the first committee on November 21. The event will begin with Jayamangala admutation involving the armed forces. The President will be seated after a brief wait, and the proceedings will conclude with the division bell being rung.
+
+🟩
+
+According to the Secretary General of Parliament Kushani Rohana, said that the opening ceremony of the Ten Faculty has been instructed to conduct charm.
+
+President Anura Kumara Dissanayake is scheduled to commence the first Committee on November 21.
+
+Commenting on the occasion, she said this.
+
+"It is customary to embrace Jayamangala with admutation with the armed forces at the event of a ceremonial opening of Parliament.  නමුත් මෙහිදී ඉතා චාම්ව මේ උත්සවය සිදු කිරීමට අපිට උපදෙස් ලැබී තිබෙනවා. So that he is going to be taken directly to the room. After seating a few minutes, the separat bell of Parliament from ringing the divide bell, he is concluded from the adolescement. The President is due to sit in the chair.
+
+◼️
+
+[Data](articles/cabfa26f.json)
+
+[Extended Data](ext_articles/cabfa26f.ext.json)
+
+---
+
 ### Gazette issued declaring Ravi Karunanayake as NDF’s National List MP
 
 *2024-11-18 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103595/gazette-issued-declaring-ravi-karunanayake-as-ndfs-national-list-mp) · `en`
 
-The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the general election under the ‘Gas Cylinder’ symbol.
+The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the General Election under the ‘Gas Cylinder’ symbol.
 
-◼️
+Earlier today, it was reported that the New Democratic Front (NDF) has nominated Karunanayake for one of the two National List seats won by the party in Parliament.
+
+However, it was later reported that the leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe, has informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of Wickremesinghe and the other parties in the alliance.
+
+...
 
 [Data](articles/2f9a6edc.json)
+
+[Extended Data](ext_articles/2f9a6edc.ext.json)
+
+---
+
+### Cylinder is a crisis
+
+*2024-11-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203507) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+UNP crisis: Wajira Abeywardena announces Ravi Karunanayake's appointment without party knowledge. UNP claims violation of election laws. Meeting with other parties tomorrow to address issue.
+
+🟩
+
+UNP President Wajira Abeywardena says the final decision on the General List Ravi Karunanayake to be taken to the Elections Commission for one of the two national lists of the UNP.
+
+He said that none of the party was aware of this decision taken by the party General Secretary.
+
+He added that the UNP was proposed to appoint Kanchanna Wijesekara from the UNP for the two seats.
+
+He was speaking at a press conference held today (18).
+
+"The UNP has arisen at our discussion today. Other political parties with our leader Ranil Wickremesinghe were discussing. While in this regard, he found that his name was informed of his name from the political party of Sylinderre.
+
+We have learned that it was sent to the gazette. As the party, we thought this to the representation of Thalatha Athukorala. It was discussed. It was before making a proper decision. As the UNP, it has been a violation of Section 3 3/3 of Part 3/3 of Section 3/3 and 13/3 and 13/3 and 13/3 and 13/3 and 13/3.
+
+...
+
+[Data](articles/bf76ef55.json)
+
+[Extended Data](ext_articles/bf76ef55.ext.json)
 
 ---
 
@@ -70,7 +158,7 @@ External Affairs Minister Vijitha Herath further said that the new government in
 
 ### International Monetary Fund must follow the balanced approach - the president
 
-*2024-11-18 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199112) · `ta`
+*2024-11-18 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199112) · `ta`
 
 Here's a summary of 200 characters:
 
@@ -89,6 +177,30 @@ The President has issued a dedication of the government to find a solution to th
 [Data](articles/eee762b9.json)
 
 [Extended Data](ext_articles/eee762b9.ext.json)
+
+---
+
+### President meets International Monetary Fund
+
+*2024-11-18 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203506) · `si`
+
+Sri Lanka's President Anura Kumara Dissanayake met IMF reps. Discussed economic recovery, balanced solutions, child poverty, corruption reform.
+
+🟩
+
+President Anura Kumara Dissanayake and the International Monetary Fund representatives were conducted today (18).
+
+President Anura Kumara Dissanayake said that he had exchanged views on the recovery of Sri Lanka's economy.
+
+The President says he highlighted the need for a balanced approach to solve the problems of the people and establish public confidence.
+
+The President had informed the International Monetary Fund representatives to support the solution of child poverty and malnutrition, supporting the powers and opposition to the corruption through severe reform.
+
+◼️
+
+[Data](articles/de0b9b13.json)
+
+[Extended Data](ext_articles/de0b9b13.ext.json)
 
 ---
 
@@ -115,6 +227,58 @@ The President is scheduled to hold bilateral talks with Indian Prime Minister Na
 [Data](articles/90f099b5.json)
 
 [Extended Data](ext_articles/90f099b5.ext.json)
+
+---
+
+### A crisis in the cylinder due to going from Ravi's list
+
+*2024-11-18 19:26:03* · [`adalk`](https://www.ada.lk/breaking_news/රවී-ජාතික-ලැයිස්තුවෙන්-යාම-නිසා-සිලින්ඩරයේ-අර්බුදයක්/11-413133) · `si`
+
+Crisis in cylinder due to Ravi's list. Former Minister Ravi Karunanayake named to Elections Commission by UNP. Ranil Wickremesinghe calls it a withdrawal act. New Democratic Front party secretaries oppose appointment to Elections Commission.
+
+🟩
+
+It is reported that the name of the former Minister Ravi Karunanayake to the Elections Commission to the Elections Commission to the Elections Commission has emerged from the UNP.
+
+Ranil Wickremesinghe has also stated that the process has also stated that the process is an act of consciousness or withdrawal.
+
+The new Democracy has been sent by the Front Party Secretaries by the Front Party Secretary at the Front Party Secretary at the New Democracy.
+
+However, it is reported that the parties involved in the New Democratic Front have been sent to the Elections Commission to not make the appointment.
+
+◼️
+
+[Data](articles/f4c0646f.json)
+
+[Extended Data](ext_articles/f4c0646f.ext.json)
+
+---
+
+### Navy bears with 4 kilos of heroin
+
+*2024-11-18 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203505) · `si`
+
+Sri Lanka Navy seizes 4 kg heroin worth $7 million in deep sea operation. Five suspects arrested on fishing vessel 200 km west of Sri Lanka. Heroin to be handed over to Police Narcotics Bureau for legal proceedings.
+
+🟩
+
+Heroin has taken over Rs. 1152 million in the deep sea.
+
+The drug has been found in a special search operation conducted by the Navy in a deep sea, about 200 miles [200 km] west of Sri Lanka.
+
+Five suspects have been taken into custody with a multi-day vessel.
+
+Fisheries vessel was taken to the Galle Warasala, the Navy found the stock of 40 parcels during two parcels.
+
+The Navy said that 46 kilos were weighing 116 grams.
+
+Heroin is due to be handed over to the Police Narcotics Bureau for further legal proposals for the proceedings of heroin.
+
+◼️
+
+[Data](articles/88bc6a8c.json)
+
+[Extended Data](ext_articles/88bc6a8c.ext.json)
 
 ---
 
@@ -376,15 +540,25 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 
 ---
 
-### අගමැතිනිය වැඩ භාර ගනියි
+### The Prime Minister assumes duties
 
 *2024-11-18 17:41:45* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිය-වැඩ-භාර-ගනියි/11-413127) · `si`
 
-නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් ආචාර්ය හරිනි අමරසූරිය මහත්මිය මල්පාරේ පිහිටි අග්‍රාමාත්‍යක කාර්යාලයේදී ඇය සිය ධුරයේ වැඩ භාර ගත්තාය. ඇය මෙරට 17 වන අග්‍රාමාත්‍යවරිය වන අතර අග්‍රාමාත්‍යධුරයට පත්වූ තෙවැනි කාන්තාව වෙයි.
+Here's a summary of 200 characters:
+
+
+
+Dr. Harini Amarasuriya becomes 17th PM of Sri Lanka, 3rd female PM. Sworn in today at PM's office in Malrawa.
+
+🟩
+
+Dr. Harini Amarasuriya, who was sworn in as Prime Minister's Prime Minister this morning (18th) at the Prime Minister's Office at the Prime Minister of Malrawa. She is the 17th Prime Minister of Sri Lanka and the third woman was appointed to the Prime Minister.
 
 ◼️
 
 [Data](articles/dbcba36e.json)
+
+[Extended Data](ext_articles/dbcba36e.ext.json)
 
 ---
 
@@ -2423,145 +2597,5 @@ Dr. Nalinda Jayatissa was sworn in as the Minister of Health and Media in the pr
 [Data](articles/27049aa1.json)
 
 [Extended Data](ext_articles/27049aa1.ext.json)
-
----
-
-### Prof. Hiniduma Sunil Senavi sworn in as Minister of Buddha Sasana, Religious and Arts and Cultural Affairs
-
-*2024-11-18 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199050) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prof. Hiniduma Sunil Senavi inaugurated as Minister of Buddha Sasana, Religious & Cultural Affairs. Sworn in before President Anura Kumara Dissanayake.
-
-🟩
-
-Professor Hiniduma Senu Senavi was sworn in as the Minister of Buddha Sasana, Religious and Arts and Cultural Affairs in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/87763229.json)
-
-[Extended Data](ext_articles/87763229.ext.json)
-
----
-
-### Bimal Ratnayake sworn in as Minister of Transport, Highway, Port and Civil Airlines
-
-*2024-11-18 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199049) · `ta`
-
-Bimal Ratnayake sworn in as Transport Minister.
-
-🟩
-
-Bimal Ratnayake was sworn in as the Minister of Transport, Highway, Port and Civil Aviation in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/bbbdf0ff.json)
-
-[Extended Data](ext_articles/bbbdf0ff.ext.json)
-
----
-
-### Anura Karunathilaka sworn in as Minister of Urban Development, Construction and Housing
-
-*2024-11-18 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199044) · `ta`
-
-Anura Karunathilaka sworn in as Minister of Urban Development, Construction and Housing. President Anura Kumara Dissanayake assumes office.
-
-🟩
-
-Anura Karunathilaka President Anura Kumara Dissanayake was sworn in as the Minister of Urban Development, Construction and Housing.
-
-◼️
-
-[Data](articles/6b2047f0.json)
-
-[Extended Data](ext_articles/6b2047f0.ext.json)
-
----
-
-### Saroja Savitri Bolraj's sworn in as Minister of Women and Child Affairs
-
-*2024-11-18 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199043) · `ta`
-
-Saroja Savitri Bolraj sworn in as Minister of Women and Child Affairs by President Anurakumara Dissanayake.
-
-🟩
-
-Saroja Savitri Bolraj was sworn in as the Minister of Women and Child Affairs in the presence of President Anurakumara Dissanayake.
-
-◼️
-
-[Data](articles/8bf1d10a.json)
-
-[Extended Data](ext_articles/8bf1d10a.ext.json)
-
----
-
-### New government minister sworn in
-
-*2024-11-18 10:14:01* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-අමාත්‍ය-මණඩලය-දිවුරුම්-දෙයි/11-413114) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New ministers sworn in: Dr. Harini Amarasuriya (Education), Chandana Abeyratne (Public Administration), Upali Pannilaage (Rural Development), Bimal Ratnayake (Transport), Sunil Senevi (Buddha Sasana), Wasantha Samarasinghe (Marketing).
-
-🟩
-
-Dr. Harini Amarasuriya - Minister of Prime Minister and Education, Higher Education and Vocational Education
-
-Professor Chandana Abeyratne - Minister of Public Administration, Provincial Councils and Local Government
-
-Prof. Upali Pannilaage - Rural Development, Social Security and Community Empowerment Minister
-
-Bimal Ratnayake - Transport, Highways, Ports and Civil Aviation
-
-Prof. Sunil Senevi - Buddha Sasana, Religious and Cultural Affairs
-
-Wasantha Samarasinghe - Marketing Commercial Food Safe and Cooperative Development
-
-◼️
-
-[Data](articles/c92df57f.json)
-
-[Extended Data](ext_articles/c92df57f.ext.json)
-
----
-
-### Sri Lanka President appoints NPP cabinet minsters
-
-*2024-11-18 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-npp-cabinet-minsters-188334/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake has appointed the following ministers to run the National People’s Power administration after sweeping the general elections.
-
-Dissanayake retained the posts of Minister of Defence, and Minister of Finance, Planning and Digital Economy.
-
-1. Finance, Economic Development and Defence – President Anura Kumara Dissanayake
-
-2. Prime Minister and Minister of Education, Higher Education and Vocational Training – Harini Amarasuriya
-
-3. Minister of Foreign Affairs, Foreign Employment and Tourism – Vijitha Herath
-
-4. Minister of Public Administration and local government – Chandana Abeyratne
-
-5. Minister of Justice and National Integration – Harshana Nanayakkara
-
-7. Minister of Agriculture, Livestock and Land – Don Lalkantha
-
-8. Minister of urban Development, Construction, Housing – Anura Karunathilaka
-
-9. Minister of Fisheries, Aquatic and Ocean Resources – Ramalingam Chandrasekar
-
-...
-
-[Data](articles/9d5a62be.json)
-
-[Extended Data](ext_articles/9d5a62be.ext.json)
 
 ---

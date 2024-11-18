@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 19:02:16**
+As of **2024-11-18 19:15:48**
 
 ## Newspaper Stats
 
-*Scraped **55,611** Articles*
+*Scraped **55,613** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
 adalk | 5,216
-adaderanalk | 6,715
-tamilmirrorlk | 7,878
+adaderanalk | 6,716
+tamilmirrorlk | 7,879
 virakesarilk | 9,037
 adaderanasinhalalk | 9,615
 
@@ -26,25 +26,67 @@ adaderanasinhalalk | 9,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,606 (100.0%) of 55,611 articles have been extended.
+55,611 (100.0%) of 55,613 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
-### ජනපති දෙසැම්බරයේ ඉන්දියාව ට
+### Ravi nominated for National List seat without Ranil and NDF parties’ consent?
+
+*2024-11-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103593/ravi-nominated-for-national-list-seat-without-ranil-and-ndf-parties-consent) · `en`
+
+The leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe has reportedly informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of the other parties and himself.
+
+According to the results of the 2024 General Election, the New Democratic Front (NDF), which contested under the symbol of the ‘Gas Cylinder’, won three parliamentary seats and two National List seats.
+
+The New Democratic Front was formed by the United National Party (UNP), the Sri Lanka Freedom Party (SLFP) and the ‘Podujana Eksath Nidahas Peramuna’ to contest the election.
+
+Accordingly, it had been proposed to name one member each from the ‘Podujana Eksath Nidahas Peramuna’ and the United National Party (UNP) for the two National List seats while the final decision on the matter was expected to be taken tomorrow (18) collectively by all parties in the alliance.
+
+...
+
+[Data](articles/e8fcd9ed.json)
+
+---
+
+### மூன்றாம் தவணை விடுமுறை அறிவிப்பு
+
+*2024-11-18 18:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-விடுமுறை-அறிவிப்பு/175-347389) · `ta`
+
+மூன்றாம் பாடசாலை தவணைக்கான முதல் கட்ட விடுமுறையை நவம்பர் 22 ஆம் திகதி வெள்ளிக்கிழமை வழங்குவதற்கு கல்வி அமைச்சு தீர்மானித்துள்ளது.
+
+கல்விப் பொதுத் தராதர (GCE) உயர்தர (A/L) பரீட்சை ஆரம்பமாகவுள்ள நிலையில் இந்த முடிவு எடுக்கப்பட்டுள்ளது.
+
+இதன்படி மூன்றாம் தவணையின் 3ஆம் கட்டம் 2025 ஆம் ஆண்டு ஜனவரி மாதம் 2 ஆம் திகதி ஆரம்பமாகவுள்ளது.
+
+இந்த கட்டம் ஜனவரி 17 ஆம் திகதி நிறைவடையும் என்று கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/408147e6.json)
+
+---
+
+### India to India in December
 
 *2024-11-18 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203504) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා නිල සංචාරයක් සඳහා දෙසැම්බර් මාසයේ ඉන්දියාවට යන බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+India: President Anura Kumara Dissanayake visits India in December for official talks with Indian PM Narender Modi.
 
-සිය අමාත්‍ය ධුරයේ දිවුරුම් දීමෙන් අනතුරුව මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් විජිත හේරත් මහතා ඒ බව පැවසීය.
+🟩
 
-මෙම සංචාරයේදී ජනාධිපති දිසානායක මහතා ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී හමුවී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
+Minister of External Affairs Vijitha Herath says President Anura Kumara Dissanayake is going to India for an official visit.
+
+Mr. Vijitha Herath said that in response to a question raised by journalists after being sworn in as his minister.
+
+During his visit, Dissanayake will meet bilateral talks to meet Indian Prime Minister Narera Mood.
 
 ◼️
 
 [Data](articles/3e18095e.json)
+
+[Extended Data](ext_articles/3e18095e.ext.json)
 
 ---
 
@@ -84,19 +126,25 @@ In a post on ‘X’ (formerly Twitter), former State Minister of Finance Shehan
 
 ---
 
-### අනුරාධපුරයේ ප්‍රදේශ කිහිපයකට හෙට පැය 8ක ජල කප්පාදුවක්
+### 8 hour water cut in several areas in Anuradhapura tomorrow
 
 *2024-11-18 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203503) · `si`
 
-අනුරාධපුරයේ ප්‍රදේශ කිහිපයකට හෙට (19) දිනයේදී පැය 08ක කාලයක් ජල සැපයුම අත්හිටුවීමට සිදුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Anuradhapura: 8-hour water cut tomorrow in Saliyapura, Rajarata Univ., Mihinthara, Jaffna Junction, Anuradhapura, Matale, Matale Junction, Galkulama due to Nuwarawewa Water Treatment maintenance.
 
-නිවේදනයක් නිකුත් කරමින් එම මණ්ඩලය පැවසුවේ නුවරවැව ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් ජල සැපයීම අත්හිටුවන බවය.
+🟩
 
-ඒ අනුව සාලියපුර, රජරට විශ්වවිද්‍යාලය, මිහින්තලය, යාපනය හන්දිය, අනුරාධපුර 1 වන පියවර, මාතලේ හන්දිය, ගල්කුලම යන ප්‍රදේශ සඳහා හෙට පෙරවරු 09.30 සිට පස්වරු 05.30 දක්වා ජල සැපයුම අත්හිටුවීමට නියමිතය.
+The National Water Supply and Drainage Board (NBRO) says that the water cut will be imposed in Anuradhapura tomorrow (19).
+
+In a statement, the board said that water supply was suspended due to essential maintenance of the Nuwarawewa Water Treatment.
+
+Accordingly, the water supply will be imposed from Saliyapura, Rajarata University, Mihinthara, Jaffna Junction, Anuradhapura, Matale, Matale Junction and Galkulama areas tomorrow.
 
 ◼️
 
 [Data](articles/3a0339b1.json)
+
+[Extended Data](ext_articles/3a0339b1.ext.json)
 
 ---
 
@@ -122,33 +170,49 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 
 ---
 
-### දිවයිනට පැමිණි IMF නිලධාරීන් හිටපු ජනපති රනිල් හමුවෙයි
+### Former President's President Mahinda Rajapaksa meets Indian IMF officers arrived in the island
 
 *2024-11-18 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203502) · `si`
 
-දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සාකච්ඡා කර තිබේ.
+Former President Mahinda Rajapaksa met Indian IMF officers. Former President Ranil Wickremesinghe's fund delegation discussed economic recovery with them. State Minister Shehan Semasinghe praised Wickremesinghe's efforts in the past two years.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ මල්පාරේ පිහිටි කාර්යාලයේදී අදාළ නියෝජිත පිරිස හිටපු ජනාධිපතිවරයා හමුවී සාකච්ඡා කළ බවය.
+🟩
 
-පසුගිය වසර දෙකක කාලය තුල මෙරට ආර්ථීකය යථාතත්වයට ගෙන ඒම සදහා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු රජය සිදු කළ කාර්යය එහිදී අයි.එම්.එෆ් නියෝජිත පිරිසගේ ප්‍රශංසාවට ලක්වූ බව එම අවස්ථාවට එක්වූ හිටපු මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සදහන් කළේය.
+Former President's Fund delegation has been discussed and discussed former President Ranil Wickremesinghe.
+
+The Ada Derana reporter said that the delegation discussed with former President at the office of Malra.
+
+State Minister of Finance Shehan Semasinghe said that the IMF delegation was commended former President Ranil Wickremesinghe to recover the economy of the country in the last two years.
 
 ◼️
 
 [Data](articles/6ddfacab.json)
 
+[Extended Data](ext_articles/6ddfacab.ext.json)
+
 ---
 
-### හරිනි අගමැති ධුරයේ වැඩ අරඹයි
+### Harinini begins the post of Prime Minister
 
 *2024-11-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203501) · `si`
 
-නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් හරිනි අමරසූරිය එම ධුරයේ වැඩ භාර ගත්තාය.
+Here's a summary in 200 characters:
 
-එමෙන්ම අගමැති ධුරයට පත්වූ තුන්වැනි කාන්තාව ලෙස ආචාර්ය හරිනි අමරසූරිය සැලකෙයි.
+
+
+Harinini Amarasuriya becomes Sri Lanka's PM. She's the country's third female leader. Dr. Amarasuriya assumes office on 18th, marking a significant milestone for women in politics.
+
+🟩
+
+Harinini Amarasuriya assumed duties as Prime Minister's Prime Minister today (18th).
+
+Dr. Harini Amarasuriya is also considered the third woman who was appointed as the Prime Minister.
 
 ◼️
 
 [Data](articles/dc5e1dcb.json)
+
+[Extended Data](ext_articles/dc5e1dcb.ext.json)
 
 ---
 
@@ -322,19 +386,25 @@ After considering the facts presented, the Fort Magistrate ordered the case to b
 
 ---
 
-### ඇමති විජිත වැඩ භාර ගනියි
+### Minister Vijitha assumes duties
 
 *2024-11-18 16:34:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-වැඩ-භාර-ගනියි/11-413123) · `si`
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය ලෙස දිවුරුම් දුන් විජිත හේරත් මහතා අද (18) සිය අමාත්‍ය ධුරයේ වැඩ භාරගෙන ගත්තේය. විදේශ කටයුතු අමාත්‍යාංශයේදී අමාත්‍යවරයා සිය රාජකාරි භාර ගත්තේය.
+Minister Vijitha Herath assumes duties as Foreign Affairs & Tourism Minister. Previously Transport Minister. Graduated from University of Kelaniya. Represents Gampaha district since 2000, re-elected with record votes in recent election.
 
-ඔහු මීට පෙර ප්‍රවාහන, මහජන ආරක්ෂක, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යවරයා ලෙස කටයුතු කළේය. විජිත හේරත් මහතා කැලණිය විශ්වවිද්‍යාලයේ විද්‍යාවේදී උපාධිධාරියෙකි.
+🟩
 
-අමාත්‍ය විජිත හේරත් මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස 2000 වසරේ සිට ගම්පහ දිස්ත්‍රික්කය නියෝජනය කරයි. මෑතකදී අවසන් වූ මහ මැතිවරණයේදී, ශ්‍රී ලංකා පාර්ලිමේන්තු මැතිවරණ ඉතිහාසයේ අපේක්ෂකයෙකු ලබා ගත් ඉහළම මනාප ඡන්ද සංඛ්‍යාව ලබා ගනිමින් ඒ මහතා නැවත තේරී පත් වූයේය.
+Vijitha Herath assumed duties as Foreign Affairs and Foreign Employment and Tourism Minister. At the Ministry of External Affairs, Minister handed over his duties.
+
+He has previously served as Transport, Public Defense, Highways, Ports and Civil Aviation. Vijitha Herath is a graduate in the science of the University of Kelaniya.
+
+Minister Vijitha Herath represents Gampaha district from 2000 as a Member of Parliament. At the recent general election, he was re-elected with the highest number of preferential votes in the history of Sri Lanka.
 
 ◼️
 
 [Data](articles/8b912440.json)
+
+[Extended Data](ext_articles/8b912440.ext.json)
 
 ---
 
@@ -2461,63 +2531,5 @@ Police also informs drivers to remove the removal of this large roalper and the 
 [Data](articles/1e466f7a.json)
 
 [Extended Data](ext_articles/1e466f7a.ext.json)
-
----
-
-### Landslide traffic on Passara - Bibile
-
-*2024-11-18 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203485) · `si`
-
-Landslide blocks Passara-Bibile road, causing traffic disruption. Soil and rock collapse closes A5 route. Vehicles stranded; three-wheelers damaged. Reconstruction efforts underway.
-
-🟩
-
-Traffic has been completely disturbed by the landslide in Odigura, Badulla - Passara Lunugala A5 road.
-
-The road, the collapse of soil and rock, has completely closed the road, "said Ada Derana reporter.
-
-The road from Badulla, Batticaloa, Moneragala, Ampara, Mahaoya have stayed in Badulla due to blocking.
-
-The landslides were laundated at around 2 am today (18), and three wheelers stopped on the road was severely damaged.
-
-By now, the Road Development Superintendent of Road Development Passara Pradeshiya Sabha has been reconstructed.
-
-◼️
-
-[Data](articles/7c2b8dd2.json)
-
-[Extended Data](ext_articles/7c2b8dd2.ext.json)
-
----
-
-### Supreme Court suspended from issuing the results of the scholarship examination
-
-*2024-11-18 09:18:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ceqxwg1n242o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Supreme Court halts Grade 5 Scholarship Exam results pending review. Four students filed petitions claiming exam questions violated their rights. Court orders halt on cutoff marks and informs test papers. Case rescheduled for December 2.
-
-🟩
-
-The Supreme Court today (November 18) issued an interim injunction today (November 18) to prevent the relevance of the Grade 5 Scholarship Examination.
-
-That was, four students who participated in the examination and participated by the students and their parents' fundamental rights petitions filed by their parents.
-
-The three-member Supreme Court Judge was issued by the three-member Supreme Court Judge of Exhibage Surasena, Achala Windsu and Mahinda Samayawardena.
-
-In addition, the Supreme Court panel was also issued an interim injunction order to inform the test paper.
-
-The panel of judges who have been exhausted in the first question paper that have been exhausted in the first question paper have been included in popular schools based on the results of the examination.Another interim order was prevented from issuing the cut off marks for making salaries.
-
-However, the Supreme Court Judge Madulla Respect GeneralViraj Dayaratne informed.
-
-...
-
-[Data](articles/f63eff0f.json)
-
-[Extended Data](ext_articles/f63eff0f.ext.json)
 
 ---

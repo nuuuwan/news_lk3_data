@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 01:25:33**
+As of **2024-11-19 01:42:05**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,654 (100.0%) of 55,655 articles have been extended.
+55,655 (100.0%) of 55,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1899,6 +1899,8 @@ Coconut shells were 40,000 to 42,000 rupees per metric ton. (Colombo/Nov18/2024)
 ◼️
 
 [Data](articles/a70b5cc5.json)
+
+[Extended Data](ext_articles/a70b5cc5.ext.json)
 
 ---
 

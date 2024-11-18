@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 21:25:55**
+As of **2024-11-18 21:00:45**
 
 ## Newspaper Stats
 
-*Scraped **55,633** Articles*
+*Scraped **55,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,83 +20,27 @@ adalk | 5,221
 adaderanalk | 6,718
 tamilmirrorlk | 7,880
 virakesarilk | 9,043
-adaderanasinhalalk | 9,620
+adaderanasinhalalk | 9,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,628 (100.0%) of 55,633 articles have been extended.
+55,626 (100.0%) of 55,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
-### ජාතික ලැයිස්තු මන්ත්‍රීවරයෙක් ලෙස රවීගේ නම ගැසට් කෙරේ
-
-*2024-11-18 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203509) · `si`
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් සඳහා රවී කරුණානායක මහතා ගේ නම ගැසට් කර තිබේ.
-
-◼️
-
-[Data](articles/6552bf95.json)
-
----
-
-### දස වැනි පාර්ලිමේන්තුවේ ආරම්භක උත්සවය චාම්ව සිදුකිරීමට උපදෙස්
-
-*2024-11-18 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203508) · `si`
-
-දස වැනි පාර්ලිමේන්තුවේ ආරම්භක උත්සවය ඉතා චාම්ව සිදුකිරීමට උපදෙස් ලැබී ඇති බව පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණදීර මහත්මිය පවසයි.
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් එළඹෙන නොවැම්බර් 21 වන දින පළමු සභා වාරය ආරම්භ වීමට නියමිතව තිබේ.
-
-එහි උත්සව කටයුතු සම්බන්ධයෙන් අදහස් දැක්වමින් ඇය මේ බව පැවසුවාය.
-
-"පාර්ලිමේන්තුව උත්සවාකාරයෙන් විවෘත කිරීමකදී ත්‍රිවිධ හමුදා උත්තමාචාර සමග උත්තමාචාර වෙඩිමුර සමග ජයමංගල ගාථා ගැයීම සම්ප්‍රදායයි.  නමුත් මෙහිදී ඉතා චාම්ව මේ උත්සවය සිදු කිරීමට අපිට උපදෙස් ලැබී තිබෙනවා. ඒ නිසා එතුමාව පැළඳුම් කාමරයට කෙලින්ම කැඳවාගෙන යාමට නියමිතයි. විනාඩි කිහිපයක් එහි අසුන් ගැනීමෙන් පසු පාර්ලිමේන්තුවේ බෙදුම් සීනුව නාද කිරීමෙන් පසු පැළඳුම් කාමරයේ සිට එතුමාව පෙරහැරින් සභාගර්භය කරා කැඳවාගෙන යනවා. මූලාසනයේ වාඩි වෙලා තමයි ජනාධිපතිතුමා සිය ප්‍රතිපත්ති ප්‍රකාශය සිදු කිරීමට නියමිත වන්නේ."
-
-◼️
-
-[Data](articles/cabfa26f.json)
-
----
-
 ### Gazette issued declaring Ravi Karunanayake as NDF’s National List MP
 
 *2024-11-18 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103595/gazette-issued-declaring-ravi-karunanayake-as-ndfs-national-list-mp) · `en`
 
-The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the General Election under the ‘Gas Cylinder’ symbol.
+The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the general election under the ‘Gas Cylinder’ symbol.
 
-Earlier today, it was reported that the New Democratic Front (NDF) has nominated Karunanayake for one of the two National List seats won by the party in Parliament.
-
-However, it was later reported that the leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe, has informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of Wickremesinghe and the other parties in the alliance.
-
-...
+◼️
 
 [Data](articles/2f9a6edc.json)
-
-[Extended Data](ext_articles/2f9a6edc.ext.json)
-
----
-
-### සිලින්ඩරේ ජාතික ලැයිස්තුව අර්බුදයක්
-
-*2024-11-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203507) · `si`
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකෙන් එකක් සඳහා එම පක්ෂයේ මහලේකම්වරිය රවී කරුණානායක මහතාගේ නම මැතිවරණ කොමිසම වෙත යෝජනා කිරීම සම්බන්ධව අවසන් තීරණය හෙට ගැනීමට නියමිත බව එක්සත් ජාතික පක්ෂයේ සභාපති වජිර අබේවර්ධන පවසයි.
-
-ඔහු පැවසුවේ පක්ෂ මහලේකම්වරිය ගත් මෙම තීරණය සම්බන්ධව පක්ෂයේ කිසිවෙකුද නොදැනුවත්ව සිටි බවය.
-
-එමෙන්ම ලැබුණු මන්ත්‍රීධුර දෙක සඳහා එක්සත් ජාතික පක්ෂයෙන් තලතා අතුකෝරල මහත්මියත් පොදුජන පෙරමුණෙන් කංචන විජේසේකර මහතාත් පත් කිරීමට යෝජනා වූ බවද ඔහු පවසයි.
-
-අද (18) පැවැති මාධ්‍ය හමුවකට එක් වෙමින් ඔහු මේ අදහස් පළ කළේය.
-
-"ප්‍රධාන වශයෙන් ඒ කාරණය ගැන අද එක්සත් ජාතික පක්ෂයේ අපේ සාකච්ඡාවේදී පැන නැගුණා. මේ පිළිබඳ අපේ නායක රනිල් වික්‍රමසිංහ මැතිතුමා සමග අනෙකුත් දේශපාලන පක්ෂ සාකච්ඡා කරමින් තිබුණා. ඒ සාකච්ඡා කරමින් තිබෙන අතරතුරේදී එක්සත් ජාතික පක්ෂය නොදැනුවත්ව එතුමාගේ නම සිලින්ඩරේ හිමි දේශපාලන පක්ෂයෙන් ඉදිරිපත් කළා කියලා දැනගන්නට ලැබිලා තියෙනවා.
-
-...
-
-[Data](articles/bf76ef55.json)
 
 ---
 
@@ -126,7 +70,7 @@ External Affairs Minister Vijitha Herath further said that the new government in
 
 ### International Monetary Fund must follow the balanced approach - the president
 
-*2024-11-18 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199112) · `ta`
+*2024-11-18 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199112) · `ta`
 
 Here's a summary of 200 characters:
 
@@ -145,24 +89,6 @@ The President has issued a dedication of the government to find a solution to th
 [Data](articles/eee762b9.json)
 
 [Extended Data](ext_articles/eee762b9.ext.json)
-
----
-
-### ජනපති ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් හමුවෙයි
-
-*2024-11-18 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203506) · `si`
-
-ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින් අතර හමුවක් අද (18) පවත්වා තිබේ.
-
-එහිදී ශ්‍රී ලංකාවේ ආර්ථිකය ප්‍රකෘතිමත් තත්ත්වයට පත්කිරීම සම්බන්ධයෙන් අදහස් හුවමාරු කරගත් බව X පණිවුඩයක් නිකුත්කරමින් ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-ජනාධිපතිවරයා පවසන්නේ ජනතාවගේ ගැටලු විසඳිය හැකි සහ මහජන විශ්වාසය ස්ථාපනය කළහැකි සමබර ප්‍රවේශයක අවශ්‍යතාවය තමා ඉස්මතු කළ බවයි.
-
-ළමා දරිද්‍රතාවය සහ මන්දපෝෂණය විසඳීම, විශේෂ අවශ්‍යතා සහිත අයට සහායවීම, දැඩි ප්‍රතිසංස්කරණ ඔස්සේ දුෂණය ට එරෙහිවීම තම අරමුණු බව ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිතයින්ට ජනපතිවරයා දැනුම්දී තිබුණි.
-
-◼️
-
-[Data](articles/de0b9b13.json)
 
 ---
 
@@ -189,28 +115,6 @@ The President is scheduled to hold bilateral talks with Indian Prime Minister Na
 [Data](articles/90f099b5.json)
 
 [Extended Data](ext_articles/90f099b5.ext.json)
-
----
-
-### හෙරොයින් කිලෝ 46ක් සමග 5 දෙනෙකු නාවික හමුදා භාරයට
-
-*2024-11-18 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203505) · `si`
-
-රුපියල් මිලියන 1152කට අධික වටිනාකමකින් යුත් හෙරොයින් මත්ද්‍රව්‍ය  තොගයක් ගැඹුරු මුහුදේදී නාවික හමුදා භාරයට ගෙන තිබේ.
-
-නාවික හමුදාව විසින් සිදුකළ විශේෂ සෝදිසි මෙහෙයුමකදී මෙම මත්ද්‍රව්‍ය තොගය සොයාගෙන ඇත්තේ ශ්‍රී ලංකාවට බටහිර දෙසින් කිලෝමීටර් 200ක් පමණ දුරින් වූ ගැඹූරු මුහුදේදීය.
-
-මෙහිදී බහුදින ධීවර යාත්‍රාවක් සමග සැකකරුවන් පස් දෙනෙකු නාවික හමුදා භාරයට ගෙන තිබේ.
-
-ධීවර යාත්‍රාව ගාල්ල වරයට රැගෙන විත් සිදුකළ වැඩිදුර පරීක්ෂාවේදී උර දෙකක් තුළ පාර්සල් 40ක මෙම හොරයින් තොගය අසුරා තිබියදී නාවික හමුදාව සොයාගෙන තිබේ.
-
-නාවික හමුදාව පැවසුවේ එය කිලෝ 46යි ග්‍රෑම් 116ක බරකින් යුක්ත බවය.
-
-හෙරොයින් මත්ද්‍රව්‍ය තොගය, සැකකරුවන්  සහ බහුදින ධීවර යාත්‍රාව ඉදිරි නීතිමය කටයුතු සඳහා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යංශය වෙත භාරදීමට නියමිතව ඇත.
-
-◼️
-
-[Data](articles/88bc6a8c.json)
 
 ---
 
@@ -472,25 +376,15 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 
 ---
 
-### The Prime Minister assumes duties
+### අගමැතිනිය වැඩ භාර ගනියි
 
 *2024-11-18 17:41:45* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිය-වැඩ-භාර-ගනියි/11-413127) · `si`
 
-Here's a summary of 200 characters:
-
-
-
-Dr. Harini Amarasuriya becomes 17th PM of Sri Lanka, 3rd female PM. Sworn in today at PM's office in Malrawa.
-
-🟩
-
-Dr. Harini Amarasuriya, who was sworn in as Prime Minister's Prime Minister this morning (18th) at the Prime Minister's Office at the Prime Minister of Malrawa. She is the 17th Prime Minister of Sri Lanka and the third woman was appointed to the Prime Minister.
+නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් ආචාර්ය හරිනි අමරසූරිය මහත්මිය මල්පාරේ පිහිටි අග්‍රාමාත්‍යක කාර්යාලයේදී ඇය සිය ධුරයේ වැඩ භාර ගත්තාය. ඇය මෙරට 17 වන අග්‍රාමාත්‍යවරිය වන අතර අග්‍රාමාත්‍යධුරයට පත්වූ තෙවැනි කාන්තාව වෙයි.
 
 ◼️
 
 [Data](articles/dbcba36e.json)
-
-[Extended Data](ext_articles/dbcba36e.ext.json)
 
 ---
 
@@ -2551,5 +2445,123 @@ Professor Hiniduma Senu Senavi was sworn in as the Minister of Buddha Sasana, Re
 [Data](articles/87763229.json)
 
 [Extended Data](ext_articles/87763229.ext.json)
+
+---
+
+### Bimal Ratnayake sworn in as Minister of Transport, Highway, Port and Civil Airlines
+
+*2024-11-18 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199049) · `ta`
+
+Bimal Ratnayake sworn in as Transport Minister.
+
+🟩
+
+Bimal Ratnayake was sworn in as the Minister of Transport, Highway, Port and Civil Aviation in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/bbbdf0ff.json)
+
+[Extended Data](ext_articles/bbbdf0ff.ext.json)
+
+---
+
+### Anura Karunathilaka sworn in as Minister of Urban Development, Construction and Housing
+
+*2024-11-18 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199044) · `ta`
+
+Anura Karunathilaka sworn in as Minister of Urban Development, Construction and Housing. President Anura Kumara Dissanayake assumes office.
+
+🟩
+
+Anura Karunathilaka President Anura Kumara Dissanayake was sworn in as the Minister of Urban Development, Construction and Housing.
+
+◼️
+
+[Data](articles/6b2047f0.json)
+
+[Extended Data](ext_articles/6b2047f0.ext.json)
+
+---
+
+### Saroja Savitri Bolraj's sworn in as Minister of Women and Child Affairs
+
+*2024-11-18 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199043) · `ta`
+
+Saroja Savitri Bolraj sworn in as Minister of Women and Child Affairs by President Anurakumara Dissanayake.
+
+🟩
+
+Saroja Savitri Bolraj was sworn in as the Minister of Women and Child Affairs in the presence of President Anurakumara Dissanayake.
+
+◼️
+
+[Data](articles/8bf1d10a.json)
+
+[Extended Data](ext_articles/8bf1d10a.ext.json)
+
+---
+
+### New government minister sworn in
+
+*2024-11-18 10:14:01* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-අමාත්‍ය-මණඩලය-දිවුරුම්-දෙයි/11-413114) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New ministers sworn in: Dr. Harini Amarasuriya (Education), Chandana Abeyratne (Public Administration), Upali Pannilaage (Rural Development), Bimal Ratnayake (Transport), Sunil Senevi (Buddha Sasana), Wasantha Samarasinghe (Marketing).
+
+🟩
+
+Dr. Harini Amarasuriya - Minister of Prime Minister and Education, Higher Education and Vocational Education
+
+Professor Chandana Abeyratne - Minister of Public Administration, Provincial Councils and Local Government
+
+Prof. Upali Pannilaage - Rural Development, Social Security and Community Empowerment Minister
+
+Bimal Ratnayake - Transport, Highways, Ports and Civil Aviation
+
+Prof. Sunil Senevi - Buddha Sasana, Religious and Cultural Affairs
+
+Wasantha Samarasinghe - Marketing Commercial Food Safe and Cooperative Development
+
+◼️
+
+[Data](articles/c92df57f.json)
+
+[Extended Data](ext_articles/c92df57f.ext.json)
+
+---
+
+### Sri Lanka President appoints NPP cabinet minsters
+
+*2024-11-18 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-npp-cabinet-minsters-188334/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake has appointed the following ministers to run the National People’s Power administration after sweeping the general elections.
+
+Dissanayake retained the posts of Minister of Defence, and Minister of Finance, Planning and Digital Economy.
+
+1. Finance, Economic Development and Defence – President Anura Kumara Dissanayake
+
+2. Prime Minister and Minister of Education, Higher Education and Vocational Training – Harini Amarasuriya
+
+3. Minister of Foreign Affairs, Foreign Employment and Tourism – Vijitha Herath
+
+4. Minister of Public Administration and local government – Chandana Abeyratne
+
+5. Minister of Justice and National Integration – Harshana Nanayakkara
+
+7. Minister of Agriculture, Livestock and Land – Don Lalkantha
+
+8. Minister of urban Development, Construction, Housing – Anura Karunathilaka
+
+9. Minister of Fisheries, Aquatic and Ocean Resources – Ramalingam Chandrasekar
+
+...
+
+[Data](articles/9d5a62be.json)
+
+[Extended Data](ext_articles/9d5a62be.ext.json)
 
 ---

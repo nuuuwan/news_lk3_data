@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 18:39:05**
+As of **2024-11-18 19:02:16**
 
 ## Newspaper Stats
 
-*Scraped **55,606** Articles*
+*Scraped **55,611** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,215
+adalk | 5,216
 adaderanalk | 6,715
 tamilmirrorlk | 7,878
 virakesarilk | 9,037
-adaderanasinhalalk | 9,611
+adaderanasinhalalk | 9,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,604 (100.0%) of 55,606 articles have been extended.
+55,606 (100.0%) of 55,611 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### ජනපති දෙසැම්බරයේ ඉන්දියාව ට
+
+*2024-11-18 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203504) · `si`
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා නිල සංචාරයක් සඳහා දෙසැම්බර් මාසයේ ඉන්දියාවට යන බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+
+සිය අමාත්‍ය ධුරයේ දිවුරුම් දීමෙන් අනතුරුව මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් විජිත හේරත් මහතා ඒ බව පැවසීය.
+
+මෙම සංචාරයේදී ජනාධිපති දිසානායක මහතා ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී හමුවී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/3e18095e.json)
+
+---
 
 ### Dr. Harini Amarasuriya assumes duties as PM
 
@@ -45,6 +61,8 @@ During the 2024 General Election, which was held on November 14, Dr. Amarasuriya
 ...
 
 [Data](articles/a4ecfdac.json)
+
+[Extended Data](ext_articles/a4ecfdac.ext.json)
 
 ---
 
@@ -61,6 +79,24 @@ In a post on ‘X’ (formerly Twitter), former State Minister of Finance Shehan
 ◼️
 
 [Data](articles/ae04e7dc.json)
+
+[Extended Data](ext_articles/ae04e7dc.ext.json)
+
+---
+
+### අනුරාධපුරයේ ප්‍රදේශ කිහිපයකට හෙට පැය 8ක ජල කප්පාදුවක්
+
+*2024-11-18 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203503) · `si`
+
+අනුරාධපුරයේ ප්‍රදේශ කිහිපයකට හෙට (19) දිනයේදී පැය 08ක කාලයක් ජල සැපයුම අත්හිටුවීමට සිදුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් එම මණ්ඩලය පැවසුවේ නුවරවැව ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් ජල සැපයීම අත්හිටුවන බවය.
+
+ඒ අනුව සාලියපුර, රජරට විශ්වවිද්‍යාලය, මිහින්තලය, යාපනය හන්දිය, අනුරාධපුර 1 වන පියවර, මාතලේ හන්දිය, ගල්කුලම යන ප්‍රදේශ සඳහා හෙට පෙරවරු 09.30 සිට පස්වරු 05.30 දක්වා ජල සැපයුම අත්හිටුවීමට නියමිතය.
+
+◼️
+
+[Data](articles/3a0339b1.json)
 
 ---
 
@@ -83,6 +119,36 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 [Data](articles/cdc67514.json)
 
 [Extended Data](ext_articles/cdc67514.ext.json)
+
+---
+
+### දිවයිනට පැමිණි IMF නිලධාරීන් හිටපු ජනපති රනිල් හමුවෙයි
+
+*2024-11-18 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203502) · `si`
+
+දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සාකච්ඡා කර තිබේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ මල්පාරේ පිහිටි කාර්යාලයේදී අදාළ නියෝජිත පිරිස හිටපු ජනාධිපතිවරයා හමුවී සාකච්ඡා කළ බවය.
+
+පසුගිය වසර දෙකක කාලය තුල මෙරට ආර්ථීකය යථාතත්වයට ගෙන ඒම සදහා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු රජය සිදු කළ කාර්යය එහිදී අයි.එම්.එෆ් නියෝජිත පිරිසගේ ප්‍රශංසාවට ලක්වූ බව එම අවස්ථාවට එක්වූ හිටපු මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සදහන් කළේය.
+
+◼️
+
+[Data](articles/6ddfacab.json)
+
+---
+
+### හරිනි අගමැති ධුරයේ වැඩ අරඹයි
+
+*2024-11-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203501) · `si`
+
+නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් හරිනි අමරසූරිය එම ධුරයේ වැඩ භාර ගත්තාය.
+
+එමෙන්ම අගමැති ධුරයට පත්වූ තුන්වැනි කාන්තාව ලෙස ආචාර්ය හරිනි අමරසූරිය සැලකෙයි.
+
+◼️
+
+[Data](articles/dc5e1dcb.json)
 
 ---
 
@@ -253,6 +319,22 @@ After considering the facts presented, the Fort Magistrate ordered the case to b
 [Data](articles/94ef0396.json)
 
 [Extended Data](ext_articles/94ef0396.ext.json)
+
+---
+
+### ඇමති විජිත වැඩ භාර ගනියි
+
+*2024-11-18 16:34:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-වැඩ-භාර-ගනියි/11-413123) · `si`
+
+විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය ලෙස දිවුරුම් දුන් විජිත හේරත් මහතා අද (18) සිය අමාත්‍ය ධුරයේ වැඩ භාරගෙන ගත්තේය. විදේශ කටයුතු අමාත්‍යාංශයේදී අමාත්‍යවරයා සිය රාජකාරි භාර ගත්තේය.
+
+ඔහු මීට පෙර ප්‍රවාහන, මහජන ආරක්ෂක, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යවරයා ලෙස කටයුතු කළේය. විජිත හේරත් මහතා කැලණිය විශ්වවිද්‍යාලයේ විද්‍යාවේදී උපාධිධාරියෙකි.
+
+අමාත්‍ය විජිත හේරත් මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස 2000 වසරේ සිට ගම්පහ දිස්ත්‍රික්කය නියෝජනය කරයි. මෑතකදී අවසන් වූ මහ මැතිවරණයේදී, ශ්‍රී ලංකා පාර්ලිමේන්තු මැතිවරණ ඉතිහාසයේ අපේක්ෂකයෙකු ලබා ගත් ඉහළම මනාප ඡන්ද සංඛ්‍යාව ලබා ගනිමින් ඒ මහතා නැවත තේරී පත් වූයේය.
+
+◼️
+
+[Data](articles/8b912440.json)
 
 ---
 
@@ -2437,95 +2519,5 @@ However, the Supreme Court Judge Madulla Respect GeneralViraj Dayaratne informed
 [Data](articles/f63eff0f.json)
 
 [Extended Data](ext_articles/f63eff0f.ext.json)
-
----
-
-### Turning The Tide: Anura’s Ascent & The People’s Mandate
-
-*2024-11-18 09:13:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/turning-the-tide-anuras-ascent-the-peoples-mandate/) · `en`
-
-Sri Lanka’s political landscape has witnessed a seismic shift with the recent parliamentary election results, marking a historic victory for President Anura Kumara Dissanayake and his National People’s Power (NPP) party. This triumph is not just a win for a political party but a beacon of hope for a nation yearning for change and justice. The NPP’s success in securing a two-thirds majority in parliament is a testament to the people’s desire to break free from the shackles of corruption and mismanagement that have plagued Sri Lanka for decades.
-
-The NPP’s victory is unprecedented, with the party securing 159 out of 225 seats in the parliament. This landslide win is a clear indication of the people’s trust in Dissanayake’s leadership and his vision for a better Sri Lanka. The election results from each province reveal a significant shift in the political landscape, with the NPP making inroads into regions that were previously strongholds of traditional parties.
-
-...
-
-[Data](articles/aa11a10f.json)
-
-[Extended Data](ext_articles/aa11a10f.ext.json)
-
----
-
-### The Rhythms Of Karma
-
-*2024-11-18 09:00:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-rhythms-of-karma/) · `en`
-
-Sri Lanka’s political and historical landscape is rich with profound events, many of which seem to be inexplicably connected through dates, numbers, and circumstances that resonate deeply with the country’s cultural, political, and spiritual journey. The deaths of pivotal figures and significant political victories or defeats align in ways that compel us to explore the workings of karma, numerology, and the inherent energy of reality. By analysing these patterns, we begin to perceive a deeper rhythm underlying the unfolding of events in Sri Lanka.
-
-The remarkable alignment of events suggests that dates carry an inherent energy, influenced by karma and numerology. This year, 2024—a year governed by the number 8 in numerology (2+0+2+4=8)—presents a particularly transformative moment, with the historic General Election victory by National People’s Power (NPP) on 14 November 2024.
-
-...
-
-[Data](articles/f03a9f60.json)
-
-[Extended Data](ext_articles/f03a9f60.ext.json)
-
----
-
-### Sri Lanka’s new Cabinet to be sworn in today
-
-*2024-11-18 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103572/sri-lankas-new-cabinet-to-be-sworn-in-today-) · `en`
-
-The Cabinet Ministers of the new government are scheduled to be sworn in before President Anura Kumara Dissanayake at 10.00 a.m. today (Nov. 18) at the Presidential Secretariat in Colombo.
-
-It has been reported that both Cabinet Ministers and Deputy Ministers will be sworn in during the ceremony.
-
-The senior spokesman of the National People’s Power (NPP) Tilvin Silva had said earlier that the Cabinet will be limited to 25 or even less and that there will be scientific method in allocation of subjects for the ministries.
-
-The NPP has also decided there will be no change in the position of Prime Minister. Accordingly, Dr. Harini Amarasuriya is set to continue as the Prime Minister of the new government.
-
-Meanwhile, speaking to the media in Gampaha, Member of Parliament Mahinda Jayasinghe stated that he and their group of MPs are committed to moving forward in alignment with the needs of the people.
-
-...
-
-[Data](articles/aaf6fe1d.json)
-
-[Extended Data](ext_articles/aaf6fe1d.ext.json)
-
----
-
-### Reimagining Independence Day 2025: From Oppression To Honoring Freedom Struggles In All Communities
-
-*2024-11-18 08:48:09* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/reimagining-independence-day-2025-from-oppression-to-honoring-freedom-struggles-in-all-communities/) · `en`
-
-The historically unprecedented multiethnic vote for the National People’s Alliance in November 2024 should not be reduced to a superficial celebration of “we are all Sri Lankans” or an invitation to forget the past and move on. Such an approach ignores the deep historical injustices symbolized by Independence Day celebrations, which cannot be undone by merely electing a new government. Instead, our vote must express our collective willingness to fundamentally free history from its injustices—a call to rethink and transform the meaning of independence into a day of making history that we can meaningfully celebrate.
-
-...
-
-[Data](articles/cf93d2cd.json)
-
-[Extended Data](ext_articles/cf93d2cd.ext.json)
-
----
-
-### The new government's new cabinet today
-
-*2024-11-18 08:39:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்தின்-புதிய-அமைச்சரவை-இன்று/175-347360) · `ta`
-
-New cabinet sworn in today at 10 AM. National People's Power wins 159 seats in 2024 election. Prime Minister position unchanged according to internal sources.
-
-🟩
-
-The new government's new cabinet will be sworn in today at 10 am in the presence of President Anura Kumara Dissanayake.
-
-In the 2024 general election, the National People's Power registered 22 districts of 22 districts and won 159 seats in Parliament, including the National List seats.
-
-Internal sources of the National People's Power say that the post of Prime Minister will not change. Remble
-
-◼️
-
-[Data](articles/87af55cc.json)
-
-[Extended Data](ext_articles/87af55cc.ext.json)
 
 ---

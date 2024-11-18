@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 17:43:37**
+As of **2024-11-18 18:22:49**
 
 ## Newspaper Stats
 
-*Scraped **55,601** Articles*
+*Scraped **55,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,214
-adaderanalk | 6,711
+adalk | 5,215
+adaderanalk | 6,715
 tamilmirrorlk | 7,878
 virakesarilk | 9,037
 adaderanasinhalalk | 9,611
@@ -26,11 +26,65 @@ adaderanasinhalalk | 9,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,600 (100.0%) of 55,601 articles have been extended.
+55,604 (100.0%) of 55,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Dr. Harini Amarasuriya assumes duties as PM
+
+*2024-11-18 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103590/dr-harini-amarasuriya-assumes-duties-as-pm) · `en`
+
+National People’s Power (NPP) MP Dr. Harini Amarasuriya has officially assumed duties in the office as the Prime Minister of Sri Lanka, after she was re-appointed to the position by President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo this morning (18).
+
+Days after new President Anura Kumara Dissanayake took oaths, Amarasuriya was appointed as the new Prime Minister of the interim government, as she became the first female to hold the position since Sirimavo Bandaranaike in 2000.
+
+During the 2024 General Election, which was held on November 14, Dr. Amarasuriya, who contested from the Colombo District, polled the highest number of preference votes and placed first in the district.
+
+...
+
+[Data](articles/a4ecfdac.json)
+
+---
+
+### IMF team meet former President Ranil Wickremesinghe
+
+*2024-11-18 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103591/imf-team-meet-former-president-ranil-wickremesinghe) · `en`
+
+The delegation of the International Monetary Fund (IMF) led by Senior Mission Chief Peter Breuer, who are currently on a visit to Sri Lanka, have reportedly met with former President Ranil Wickremesinghe today (18) at his office in Flower Road, Colombo.
+
+In a post on ‘X’ (formerly Twitter), former State Minister of Finance Shehan Semasinghe, who also participated in the meeting, stated that they commended the remarkable efforts of the former government in recovering Sri Lanka’s economy from its worst crisis and setting it on a path toward sustainable growth.
+
+“During the discussions, we emphasized the importance of maintaining continuity in policies and programs, safeguarding the hard-earned reforms, and ensuring that these achievements are not reversed to secure stability and long-term economic development,” he added.
+
+◼️
+
+[Data](articles/ae04e7dc.json)
+
+---
+
+### Ravi Seneviratne’s FR petition dismissed
+
+*2024-11-18 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103588/ravi-seneviratnes-fr-petition-dismissed) · `en`
+
+The Supreme Court today (18) dismissed a fundamental rights petition filed by former Senior DIG of the Criminal Investigation Department (CID) and incumbent Secretary to the Ministry of Public Security, Ravi Seneviratne.
+
+The petition has been filled seeking an order declaring that his fundamental human rights had been violated when he was arrested and remanded by Wellawatte Police in connection with a vehicular accident.
+
+The petition was taken up for consideration before a three-member Supreme Court judge bench consisting of Justices S. Thurairaja, A.H.M.D. Nawaz and Priyantha Fernando.
+
+Deputy Solicitors General Disna Warnakula, representing the respondents in the petition, raised a preliminary objection and pointed out that the petition has not been filed in accordance with the Supreme Court rules.
+
+The three-judge bench of the Supreme Court, after considered the facts presented, decided to dismiss the petition by accepting the preliminary objection raised by the respondents.
+
+...
+
+[Data](articles/cdc67514.json)
+
+[Extended Data](ext_articles/cdc67514.ext.json)
+
+---
 
 ### Academic and non-academic staff of Ruhuna Uni. to launch indefinite strike
 
@@ -255,6 +309,32 @@ He had also served as the Minister of Cultural Affairs and National Heritage at 
 [Data](articles/92c26f5d.json)
 
 [Extended Data](ext_articles/92c26f5d.ext.json)
+
+---
+
+### The husband commits suicide by killing his wife and injured his mother
+
+*2024-11-18 16:12:56* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-ඝාතනය-කර-නැන්දණියට-බරපතල-තුවාල-කර-සැමියා-දිවි-නසා-ගනියි/11-413122) · `si`
+
+Husband kills wife, injures mother in Wakampestuwa. Victim identified as 30-year-old Lokbandy Sonyatera Kumari. Incident under investigation.
+
+🟩
+
+The afternoon husband says that the suspect is suicide by a sharp weapon and murdered his wife and killed his wife.
+
+The incident has occurred in the Wakampestuwa area in Moragoda.
+
+The police say that the victim was a 30 year old Lokbandy Sonyatera Kumari, a 30-year-old resident of the Wanmpodorah in Wanmpodorah, police said.
+
+The woman had been admitted to the Payirimale hospital for further treatment, along with the motherland in a serious situation.
+
+The police say that after the murder, the victim was a 30 year old resident of the Wakumarma area.
+
+◼️
+
+[Data](articles/c73b8d17.json)
+
+[Extended Data](ext_articles/c73b8d17.ext.json)
 
 ---
 
@@ -753,6 +833,28 @@ After the accident, Sikugu was admitted to the Blind College, Ratmalana.
 [Data](articles/99dc3e5c.json)
 
 [Extended Data](ext_articles/99dc3e5c.ext.json)
+
+---
+
+### Rs. 311M received as compensation for Easter attack victims; SC calls for report on distribution
+
+*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-for-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
+
+The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
+
+The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
+
+Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
+
+The petitions were subsequently ordered to be recalled on February 27, 2025.
+
+The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
+
+◼️
+
+[Data](articles/b3b897df.json)
+
+[Extended Data](ext_articles/b3b897df.ext.json)
 
 ---
 
@@ -1336,23 +1438,113 @@ The President thanked all the supporters who voted for the new government to com
 
 ---
 
-### මාස 2ක් තුළ වෙනස් වූ උතුර සහ නැගෙනහිර පළාත්  ඡන්ද ප්‍රතිඵලය ලබා දෙන පණිවිඩය කුමක් ද?
+### What is the message that has changed in the North and Eastern Provinces that have been changed in 2 months?
 
 *2024-11-18 11:45:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36p3jkw0z8o) · `si`
 
-මාස 2ක් තුළ වෙනස් වූ උතුර සහ නැගෙනහිර පළාත්  ඡන්ද ප්‍රතිඵලය ලබා දෙන පණිවිඩය කුමක් ද?
+Here are some tips to avoid falling victim to cyber fraud:
 
-මැතිවරණ ඉතිහාසය වෙනස් කරමින් මෙවර මහ මැතිවරණයේ දී උතුර සහ නැගෙනහිර පළාතේ දේශපාලන බලය මින් පෙර ලබා නොදුන් පාර්ශ්වයකට ලබා දීමට  එහි වෙසෙන ජනතාව කටයුතු කර තිබේ.
 
-මෙරට ප්‍රජාතන්ත්‍රවාදී දේශපාලනය ආරම්භයේ සිට ම උතුර සහ නැගෙනහිර පළාත්වල බලය ජනවාර්ගිකත්වය පදනම් කරගත් දේශපාලන පක්ෂ කිහිපයක් වටා ඒකරාශී වී තිබිණි.
 
-එහෙත්, මෙවර පාර්ලිමේන්තු මැතිවරණයේදී  මීට පෙර බලය කේන්ද්‍රගතව තිබූ දේශපාලන පක්ෂ මත පැවති බලය යම් දුරකට අහිමිව ඇති බව මැතිවරණ ප්‍රතිඵල නිරීක්ෂණයේදී පෙනී යන කරුණකි.
+1. Be cautious with links and attachments:
 
-එහි කේන්ද්‍රගත දෙමළ සහ මුස්ලිම් දේශපාලන පක්ෂ සතුව පැවති සාම්ප්‍රදායික දේශපාලන බලය ජාතික ජන බලවේගයෙන් තරග කළ නව අපේක්ෂකයින් පිරිසක් වෙත ලබාදීමට උතුර සහ නැගෙනහිර පළාත් බහුතර ජනතාව කටයුතු කර තිබේ.
+   - Don't click on suspicious links or download attachments from unknown sources.
+
+   - Verify the sender before interacting with any links or attachments.
+
+
+
+2. Use strong passwords:
+
+   - Create unique, complex passwords for each account.
+
+   - Avoid using easily guessable information like names or birthdates.
+
+
+
+3. Enable two-factor authentication:
+
+   - This adds an extra layer of security to your accounts.
+
+   - Use authenticator apps or SMS codes for added protection.
+
+
+
+4. Keep software updated:
+
+   - Regularly update your operating system, browser, and other software.
+
+   - Outdated software can have known vulnerabilities exploited by hackers.
+
+
+
+5. Be wary of phishing scams:
+
+   - Legitimate companies won't ask for sensitive information via email or text.
+
+   - If something seems suspicious, contact the company directly through official channels.
+
+
+
+6. Use reputable antivirus software:
+
+   - Install and regularly update antivirus programs on your devices.
+
+   - Run regular scans to detect and remove malware.
+
+
+
+7. Be cautious with public Wi-Fi:
+
+   - Avoid accessing sensitive information on unsecured networks.
+
+   - Use a VPN when connecting to public Wi-Fi networks.
+
+
+
+8. Monitor your accounts and credit reports:
+
+   - Check for any suspicious activity on your financial accounts.
+
+   - Review your credit report regularly for unauthorized changes.
+
+
+
+9. Be cautious with social media:
+
+   - Don't share personal information publicly on social media platforms.
+
+   - Be wary of friend requests from unknown people.
+
+
+
+10. Educate yourself:
+
+    - Stay informed about common cyber fraud tactics and scams.
+
+    - Learn how to identify and avoid potential threats.
+
+
+
+Remember, cybersecurity is an ongoing process. Stay vigilant and regularly review your online security measures to protect yourself against cyber fraud.
+
+🟩
+
+What is the message that has changed in the North and Eastern Provinces that have been changed in 2 months?
+
+The people who have been living in the North and the Eastern Provinces have taken measures to provide the political power of the North and the Eastern Provinces this year.
+
+The democratic politics of the country was in the beginning and the power in the North and the Eastern provinces were raised around several ethnicity based political parties.
+
+However, the election results are observed that the election results have been deprived of the power over the political parties that were previously lost in the parliamentarian this year.
+
+The majority of the provinces of the North and East have taken steps to provide new candidates who contested the traditional political power in the national propaganda of the Tamil and Muslim political parties.
 
 ...
 
 [Data](articles/fc3d1736.json)
+
+[Extended Data](ext_articles/fc3d1736.ext.json)
 
 ---
 
@@ -2335,139 +2527,5 @@ Internal sources of the National People's Power say that the post of Prime Minis
 [Data](articles/87af55cc.json)
 
 [Extended Data](ext_articles/87af55cc.ext.json)
-
----
-
-### Biden authorizes Ukraine to use US-supplied long-range missiles for deeper strikes inside Russia
-
-*2024-11-18 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103571/biden-authorizes-ukraine-to-use-us-supplied-long-range-missiles-for-deeper-strikes-inside-russia) · `en`
-
-President Joe Biden has authorized Ukraine to use U.S.-supplied long-range missiles to strike deeper inside Russia, easing limitations on the weapons as Russia deploys thousands of North Korean troops to reinforce its war, according to a U.S. official and three other people familiar with the matter.
-
-The decision allowing Kyiv to use the Army Tactical Missile System, or ATACMs, for attacks farther inside Russia comes as President Vladimir Putin positions North Korean troops along Ukraine’s northern border to try to reclaim hundreds of miles of territory seized by Ukrainian forces.
-
-Biden’s move also follows the presidential election victory of Donald Trump, who has said he would bring about a swift end to the war and raised uncertainty about whether his administration would continue the United States’ vital military support for Ukraine.
-
-The official and the others knowledgeable about the matter were not authorized to discuss the U.S. decision publicly and spoke on condition of anonymity.
-
-...
-
-[Data](articles/243af301.json)
-
-[Extended Data](ext_articles/243af301.ext.json)
-
----
-
-### Discussion between IMF Representatives and Central Bank officials
-
-*2024-11-18 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203484) · `si`
-
-IMF reps meet central bank officials today. Discussion includes new govt members & press conference about loan facility review. Fourth installment release expected after visit.
-
-🟩
-
-The International Monetary Fund representatives to meet the island first meet the central bank officials.
-
-Accordingly, the representatives will probably meet the central bank representatives today (18).
-
-However, after the discussion, the group plans to meet the members of the new government including the President.
-
-At the end of the discussion, they will be notified regarding the third review of the desired loan facility, concluding a press conference.
-
-A representatives of the International Monetary Fund arrived in the island yesterday (17) for the third review of the International Monetary Fund.
-
-The fourth installment of the International Monetary Fund will be released after this visit.
-
-The International Monetary Fund is due to be released to four-year loans at the country.
-
-Accordingly, US $ 333 million as the first installment was released on March 21, US $ 337 million for the Sri Lanka on March 13 last year.
-
-...
-
-[Data](articles/14a3026c.json)
-
-[Extended Data](ext_articles/14a3026c.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-18 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103570/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in the Northern and Eastern provinces, and fairly heavy showers about 50 mm are likely at some places.
-
-Showers or thundershowers will occur in Western, Sabaragamuwa, Central, Southern, Uva, North-western and North central provinces during the evening or night.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/bf4d9aff.json)
-
-[Extended Data](ext_articles/bf4d9aff.ext.json)
-
----
-
-### Election Commission begins to work for the little election
-
-*2024-11-18 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203483) · `si`
-
-Election Commission meets on 27th to discuss local gov't & Provincial Council elections. Court orders local gov't polls. Interim accounts to be presented in Parliament in Dec. Final funding decision pending. National list MPs told to submit party lists quickly. Gazette notification issued for national lists.
-
-🟩
-
-According to the end of the general election, the Election Commission is to meet again on the 27th of this month.
-
-At the meeting, the local government election and the Provincial Council elections are to be discussed.
-
-A court order has been made to hold the local government elections and discuss the main purpose of this meeting.
-
-Meanwhile, it has been reported that the current needs for the current local government and provincial council elections have been made to the interim account to be tabled in Parliament.
-
-The interim account is to be tabled in Parliament in December.
-
-The final decision has not been taken to allocate funds for elections, even though it is decided to allocate the electoral date.
-
-It is reported that the decision of the election is due to be decided by the commission meeting.
-
-Meanwhile, they inform the national list MPs not to date their political parties as soon as possible to present the lists to the Elections Commission as soon as possible.
-
-...
-
-[Data](articles/46c1baa7.json)
-
-[Extended Data](ext_articles/46c1baa7.ext.json)
-
----
-
-### Why did the people who thought were going on in the compurise?
-
-*2024-11-18 07:50:15* · [`adalk`](https://www.ada.lk/opinion/මාලිමාවේ-දිනයි-කියලා-හිතපු-අය-පැරදුණේ-ඇයි-/2-413109) · `si`
-
-People predicted to win parliamentary election defeated. Journalist Wimal Koraipuarachchi lost in Colombo District. Attorney Upul Kumarapparama defeated in Matara. Low voter turnout in Colombo seats may have contributed to losses. Candidates without prior political experience struggled to campaign effectively.
-
-🟩
-
-Several people who were predicted to win this year's parliamentary election have been defeated.
-
-Meanwhile, the Colombo District's journalist Wimal Koraipuarachchi and Attorney Upul Kumarapparama in Matara.
-
-Here, Wimal Kappiruarachchi is also in the parliamentary election in 2020. He came to the election at the seat of the Kesbewa. But this time he came to the election from the central Colombo electorate.
-
-The seat is relatively a seat of low votes in Colombo. There were 39,160 votes that won the national popularity. There were 53,161 preferential votes.
-
-Five candidates have presented five candidates in Colombo, Colombo, Colombo, Colombo, North and West Colombo.
-
-No candidate outside the seat did not propagate. The defeat of both Varai and Wimal may be the crowd density of the seats. Other
-
-...
-
-[Data](articles/a08470b1.json)
-
-[Extended Data](ext_articles/a08470b1.ext.json)
 
 ---

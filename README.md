@@ -1,306 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 14:01:22**
+As of **2024-11-18 12:42:03**
 
 ## Newspaper Stats
 
-*Scraped **55,565** Articles*
+*Scraped **55,547** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 564
-bbccomsinhala | 568
+bbccomsinhala | 567
 islandlk | 3,325
 economynextcom | 3,362
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,210
-adaderanalk | 6,707
-tamilmirrorlk | 7,874
-virakesarilk | 9,028
-adaderanasinhalalk | 9,605
+adalk | 5,208
+adaderanalk | 6,703
+tamilmirrorlk | 7,869
+virakesarilk | 9,025
+adaderanasinhalalk | 9,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,560 (100.0%) of 55,565 articles have been extended.
+55,545 (100.0%) of 55,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### Rs. 311M received as compensation Easter attack victims; SC calls for report on distribution
-
-*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
-
-The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
-
-The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
-
-Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
-
-The petitions were subsequently ordered to be recalled on February 27, 2025.
-
-The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
-
-◼️
-
-[Data](articles/d0a6ffff.json)
-
----
-
-### புலமைப்பரிசில் பரீட்சை விவகாரம்;உயர் நீதிமன்றம் அதிரடி உத்தரவு
-
-*2024-11-18 13:38:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றம்-அதிரடி-உத்தரவு/175-347382) · `ta`
-
-2024 ஆம் ஆண்டுக்கான தரம் 05 புலமைப்பரிசில் பரீட்சை பெறுபேறுகளை வெளியிடுவதை இடைநிறுத்தி இலங்கை உயர் நீதிமன்றம் இன்று இடைக்காலத் தடையுத்தரவு பிறப்பித்துள்ளது.
-
-பெற்றோர் மற்றும் மாணவர்கள் குழு தாக்கல் செய்த அடிப்படை உரிமைகள் (FR) மனுவை பரிசீலித்த நீதிமன்றம் இந்த உத்தரவை பிறப்பித்தது.
-
-2024 ஆம் ஆண்டு நடைபெற்ற தரம் 05 புலமைப்பரிசில் பரீட்சையை சவால் செய்து குறித்த குழு மனுவைத் தாக்கல் செய்தது.
-
-செப்டெம்பர் மாதம் நடைபெற்ற தரம் 05 புலமைப்பரிசில் பரீட்சை தாளுடன் முன்னோடி பரீட்சைத் தாள் பகிரப்பட்டதால் சர்ச்சை ஏற்பட்டது.
-
-புலமைப்பரிசில் பரீட்சையின் முதலாம் தாளில் உள்ள சில வினாக்களை ஒத்த வினாக்களுடன் கூடிய பயிற்சிப் பத்திரம் பரீட்சைக்கு முன்னதாக அலவ்வ பிரதேசத்தில் உள்ள தனியார் வகுப்பு ஆசிரியர் ஒருவரால் விநியோகிக்கப்பட்டது.
-
-அப்போது, ​​பல்வேறு தரப்பினர் அளித்த முறைப்பாடுகளை அடுத்து, பரீட்சைகள் திணைக்களம் விசாரணை நடத்தியது.
-
-பரீட்சைகள் திணைக்களத்தின் பிரதி ஆணையாளரால் செய்யப்பட்ட முறைப்பாடு, குற்றப் புலனாய்வுத் திணைக்களத்தினரின் (சிஐடி) விசாரணைக்கும் வழிவகுத்தது.
-
-...
-
-[Data](articles/395f23cf.json)
-
----
-
-### Sri Lanka’s first vision-impaired MP to receive special seating arrangement in Parliament
-
-*2024-11-18 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103582/sri-lankas-first-vision-impaired-mp-to-receive-special-seating-arrangement-in-parliament-) · `en`
-
-The Secretary General of Sri Lanka’s Parliament, Kushani Rohanadeera, announced plans to introduce a special seating arrangement for the country’s first-ever vision-impaired Member of Parliament, in order to meet his requirements.
-
-She stated that the Parliament is also addressing technical adjustments to accommodate the unique requirements of the new MP.
-
-Sugath Wasantha de Silva, representing the National People’s Power (NPP), has been appointed as a Member of Parliament through the NPP’s National List, officially gazetted on Sunday (17).
-
-Before entering politics, de Silva was a prominent activist championing the rights of the visually impaired and disabled communities. He currently serves as the President of the Visually Impaired Graduates’ Council (VIGC), where he has played a pivotal role in advocating for equal opportunities and accessibility for persons with disabilities.
-
-...
-
-[Data](articles/1b29bfda.json)
-
----
-
-### ”அதிகார வரம்பறிந்து பொறுப்புணர்வுடன் செயற்படுங்கள்”
-
-*2024-11-18 13:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகார-வரம்பறிந்து-பொறுப்புணர்வுடன்-செயற்படுங்கள்/175-347381) · `ta`
-
-பாராளுமன்ற உறுப்பினர்களுக்கும் அமைச்சர்களுக்கும் அதிக அதிகாரங்கள் இருப்பதாகக் கூறிய ஜனாதிபதி அனுரகுமார திஸாநாயக்க, அனைத்து அமைச்சர்களும் தமது அதிகார வரம்புகளை அறிந்து பொறுப்புணர்வோடு செயற்படுவார்கள் என தான் எதிர்பார்ப்பதாகத் தெரிவித்தார்.
-
-புதிய அமைச்சரவையில் உரையாற்றிய அவர், பெரும்பாலான அமைச்சர்கள் அமைச்சரவைக்கு மட்டுமல்ல, பாராளுமன்றத்திற்கும் புதியவர்கள்.
-
-அவர்கள் அனைவரும் நேர்மையானவர்கள், ஊழல் செய்யாதவர்கள் என்பதை தாம் நன்கு அறிவதாகவும், மக்களின் அபிலாஷைகளை நிறைவேற்றும் தைரியம் அவர்களுக்கு இருப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
-
-◼️
-
-[Data](articles/3d138f56.json)
-
----
-
-### ජනපති කැබිනට් මණ්ඩලය ගැන තැබූ විශ්වාසය
-
-*2024-11-18 13:11:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කැබිනට්-මණ්ඩලය-ගැන-තැබූ-විශ්වාසය/11-413117) · `si`
-
-නව ආදර්ශ ගණනාවක් නව කැබිනට් මණ්ඩලයට ලබා දිය හැකි වනු ඇති බව ජනාධිපති අනුර කුමාර දිසානායක මහතා පැවසීය.
-
-නව කැබිනට් මණ්ඩලය දිවුරුම් දීමෙන් පසු ප්‍රකාශයක් කරමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-“ඔබ හැමදෙනාම කැබිනට් එකට අලුත්. පාර්ලිමේන්තුවට අලුත්. ඒත් දේශපාලවට අලුත් නෑ. වැඩ කරන්න අලුත් නෑ. ඒ නිසා අපි හිතනවා ජනතාවට අලුත් පන්නයේ ආදර්ශයන් ගණනාවක් මේ කැබිනට් මණ්ඩලයට අරන් දෙන්න පුළුවන් වෙයි කියලා. ”
-
-◼️
-
-[Data](articles/b6a44730.json)
-
----
-
-### Banning for more classes tomorrow
-
-*2024-11-18 12:58:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலதிக-வகுப்புகளுக்கு-நாளை-நள்ளிரவுடன்-தடை/175-347380) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"More classes banned from midnight tomorrow. Legal action for non-compliance. GCE A/L exams Dec 20-25."
-
-
-
-This summary captures the main points in a concise manner within the 200-character limit.
-
-🟩
-
-The Department of Examinations has said that more classes, workshops and seminars are being banned from midnight tomorrow (19).
-
-The Department of Examinations has stated that legal action will be taken against those who do not follow the instructions.
-
-The GCE Advanced Level Examination will be held from the 25th to the 20th of December.
-
-◼️
-
-[Data](articles/ad0d4870.json)
-
-[Extended Data](ext_articles/ad0d4870.ext.json)
-
----
-
-### Stay order issued preventing release of Grade 5 Scholarship exam results
-
-*2024-11-18 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103581/stay-order-issued-preventing-release-of-grade-5-scholarship-examresults) · `en`
-
-The Supreme Court has issued an interim order preventing the release of results of the 2024 Grade 5 Scholarship Examination.
-
-This order was issued when a Fundamental Rights (FR) petition filed seeking an order preventing the release of the 2024 Grade 05 Scholarship Examination results and the cut-off marks was taken up for consideration today (18).
-
-The petition was taken up for consideration before the three-member Supreme Court bench comprising Justices Preethi Padman Surasena, Achala Vengappuli and Mahinda Samayawardena.
-
-The petitions were filed by the parents of several students who sat for the 2024 Grade 05 Scholarship Examination which was held on September 15, 2024.
-
-The Commissioner General of Examinations, Minister of Education and Prime Minister Dr. Harini Amarasuriya, Secretary of the Ministry of Education, DIG in charge of the Criminal Investigations Department and 11 others have been named as respondents of the relevant petition.
-
-...
-
-[Data](articles/d240a6c5.json)
-
-[Extended Data](ext_articles/d240a6c5.ext.json)
-
----
-
-### “Some reasons for failure cannot be released”
-
-*2024-11-18 12:53:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோல்விக்கான-சில-காரணங்களை-வெளியிட-முடியாது/175-347379) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Party MP SM Marikar: Some reasons for United People's Power loss unrevealed. Internal discussion only. Party leader Sajith Premadasa to reappear when ready."
-
-🟩
-
-The party's parliamentarian SM Marikar said that some of the reasons for the defeat of the United People's Power could not be released.
-
-“We will only discuss some of the reasons for our failure with the other members of the party behind the closed doors,” Marikar told the media today.
-
-When asked why party leader Sajith Premadasa is leaving the public, Marikar added that Premadasa will come out at the right time.
-
-◼️
-
-[Data](articles/e55a1eca.json)
-
-[Extended Data](ext_articles/e55a1eca.ext.json)
-
----
-
-### Interim injunction prevented from releasing results of the scholarship examination
-
-*2024-11-18 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203491) · `si`
-
-Supreme Court issues interim injunction blocking release of Year 5 scholarship exam results. Order comes after considering petitions challenging the exam's validity. Judges Achala Wijesundara and Mahinda Samayawardena make the ruling.
-
-🟩
-
-The Supreme Court today issued an interim injury today (18), preventing the relevance of the Year 5 scholarship examination.
-
-The order was issued after considering the fundamental rights petitions, which challenged the scholarship examination and considering the fundamental rights petitions filed by a group of students.
-
-This order was issued by the Supreme Court Judge Survey, Achala Windsu and Mahinda Samayawardena.
-
-◼️
-
-[Data](articles/48d83a1f.json)
-
-[Extended Data](ext_articles/48d83a1f.ext.json)
-
----
-
-### Lohan Ratwatte couple
-
-*2024-11-18 12:48:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தே-தம்பதிக்கு-விளக்கமறியல்-நீடிப்பு/175-347378) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Former State Minister Lohan Ratwatte detained until Dec 2 & Nov 22. Remanded after court appearance. Arrested in Kandy over car found in wife's Mirihana home.
-
-🟩
-
-Former State Minister Lohan Ratwatte and his wife have been kept in detention until December 2 and November 22.
-
-The two have been remanded after being produced before the Nugegoda Magistrate's Court today (18).
-
-The former minister was arrested in Kandy after a car was found in his wife's house in Mirihana, Nugegoda.
-
-◼️
-
-[Data](articles/5580d1fb.json)
-
-[Extended Data](ext_articles/5580d1fb.ext.json)
-
----
-
-### Earthslip blocks Badulla-Passara road, disrupting traffic movement
-
-*2024-11-18 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103580/earthslip-blocks-badulla-passara-road-disrupting-traffic-movement) · `en`
-
-The vehicular movement on the Passara-Lunugala A5 road has been hampered near the 13th Mile Post due to an earthslip.
-
-It is also reported that a section of around 60 meters of the road has been completely blocked by soil, rocks and debris.
-
-As a result of the blockage, vehicular movement between Badulla and several areas including Bibile, Batticaloa, Monaragala, Ampara, and Maha Oya, has been completely suspended, Ada Derana reporter said.
-
-The earthslip had occurred at around 2.45 a.m. this morning (18), causing severe damages to 03 three-wheelers parked along the road. However, no injuries were reported due to the incident.
-
-Efforts to clear the debris and repair the road are currently underway by the Road Development Authority (RDA), the Passara Pradesiya Sabha, and the police.
-
-◼️
-
-[Data](articles/ed7fc6e0.json)
-
-[Extended Data](ext_articles/ed7fc6e0.ext.json)
-
----
-
-### Sujeewa Senasinghe's V8 - Reception for Taste Cheffic
-
-*2024-11-18 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203490) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sujeewa Senasinghe faces court over alleged involvement in a CID investigation. President's Counsel Maithree Gunaratne requests release of questioned vehicle. Next hearing scheduled for the 25th.
-
-🟩
-
-Sujeewa Senasinghe has been allegedly assembled to be assembled to the Court of Analyst's report to the Analyst's record of Rs.Was
-
-The President's Counsel Maithree Gunaratne, who appeared on behalf of Mr. Sujeewa Senasinghe, has said that the Criminal Investigation Department (CID) has ended the previous day.
-
-As a result, the President's Counsel had also requested Sujeewa Senasinghe to release the questionful vehicle in the Criminal Investigation Department.
-
-The Fort Magistrate ordered the 25th to call on the case on the 25th.
-
-◼️
-
-[Data](articles/89f97966.json)
-
-[Extended Data](ext_articles/89f97966.ext.json)
-
----
 
 ### President allays fears over ‘absolute power’, urges new Cabinet to deliver on promises
 
@@ -315,106 +45,6 @@ Highlighting the historic nature of the victory that brought the incumbent admin
 ...
 
 [Data](articles/a4179467.json)
-
-[Extended Data](ext_articles/a4179467.ext.json)
-
----
-
-### Lohan and Shashi remanded again
-
-*2024-11-18 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203489) · `si`
-
-S:0
-
-🟩
-
-Nugegoda Magistrate's Court once again refused to send his wife's bailout of former State Minister Lohan Ratwatte and his wife who was arrested in connection with the use of an illegal vehicle.
-
-Accordingly, the former state minister was further remanded until December 2nd and his wife was further remanded until November 22
-
-Former State Minister Lohan Ratwatte's wife Shashi Prabha Ratwatte, the wife of Shashi Prabha Ratwatte, was found recently.
-
-Accordingly, investigations were revealed in reviewers that the vehicle was involved in the vehicle.
-
-The car was charged on October 30, at the Mirihana Police, Katugastota and produced before the court on October 30.
-
-Ms. Shabhathu Rathhi Ratwatte in such a background was arrested on November 4, the Mirihana Police have stated that she was aware of the car in an awareness of the car.Ordered to be imprisoned.
-
-...
-
-[Data](articles/ee29477a.json)
-
-[Extended Data](ext_articles/ee29477a.ext.json)
-
----
-
-### How do digital sites in the 2024 elections redeem democracy
-
-*2024-11-18 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199067) · `ta`
-
-Digital sites play crucial role in 2024 elections, influencing democracy through social media presence. Political communication shifts from traditional media to online platforms, impacting how candidates reach voters and shape public discourse.
-
-🟩
-
-The influence of digital sites on democracy is especially intense in 2024 and is versatile dependent. Political spread has changed dramatically and requires candidates to maintain their presence on social media sites. This refers to gradually changing the electronic and print media for political conversation.
-
-◼️
-
-[Data](articles/0dd4050e.json)
-
-[Extended Data](ext_articles/0dd4050e.ext.json)
-
----
-
-### The verb that came from the banana: the father of the two children!
-
-*2024-11-18 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199057) · `ta`
-
-Man murdered over stolen bananas in Sri Lanka. Police arrest suspect in banana theft case. Father of two killed in dispute over fruit theft.
-
-🟩
-
-Ratottai police said that a man was assassinated and murdered in the Nakuliyatha area in Matale, Matale.
-
-A father of two children, aged 46, from Naguliyatha, Balottai, has been murdered.
-
-Police said the murder had taken place due to a dispute between the murderer and the neighbor in connection with the stealing of a thousand rupees worth of bananas.
-
-Police said that a neighbor suspected of stealing bananas in connection with the murder was arrested on suspicion.
-
-◼️
-
-[Data](articles/885bb665.json)
-
-[Extended Data](ext_articles/885bb665.ext.json)
-
----
-
-### GCE.. Additional classes for the GCE Advanced Level Examination
-
-*2024-11-18 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199053) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-GCE A/L exam: New classes & seminars due Dec 19. Legal action for non-compliance. Exam dates: Dec 25-20, 2024. Total examiners: 333,185 (253,390 school, 79,795 private).
-
-🟩
-
-The Department of Examinations has announced that more classes and seminars for the GCE A / L examination should be completed tomorrow (19) at midnight.
-
-It has also been warned that legal action will be taken against those who do not follow these suggestions.
-
-The GCE Advance for 2024. The GCE Advanced Level Examination will be held from the 25th to the 20th of December.
-
-Meanwhile, 333,185 students have registered as examiners and have 253,390 school examiners and 79,795 private examiners.
-
-◼️
-
-[Data](articles/475cf0c9.json)
-
-[Extended Data](ext_articles/475cf0c9.ext.json)
 
 ---
 
@@ -938,8 +568,6 @@ Wasantha Samarasinghe - Marketing Commercial Food Safe and Cooperative Developme
 
 ECONOMYNEXT – Sri Lanka President Anura Dissanayake has appointed the following ministers to run the National People’s Power administration after sweeping the general elections.
 
-Dissanayake retained the posts of Minister of Defence, and Minister of Finance, Planning and Digital Economy.
-
 1. Prime Minister and Minister of Education, Higher Education and Vocational Training – Harini Amarasuriya
 
 2. Minister of Foreign Affairs, Foreign Employment and Tourism – Vijitha Herath
@@ -955,6 +583,10 @@ Dissanayake retained the posts of Minister of Defence, and Minister of Finance, 
 8. Minister of Fisheries, Aquatic and Ocean Resources – Ramalingam Chandrasekar
 
 9. Minister of Rural Development, Social Security and Community Empowerment – Upali Pannilage
+
+10. Minister of Industries and Entrepreneurship Development – Sunil Handunetti
+
+11. Minister of Public Security and Parliamentary Affairs – Ananda Wijepala
 
 ...
 
@@ -1071,28 +703,6 @@ Upon successful completion of the review, the IMF is expected to release the nex
 [Data](articles/667a8d1d.json)
 
 [Extended Data](ext_articles/667a8d1d.ext.json)
-
----
-
-### New Chief Justice Mrsruma Fernando
-
-*2024-11-18 09:59:40* · [`adalk`](https://www.ada.lk/breaking_news/නව-අගවිනිසුරු-මුර්දු-ප්‍රනාන්දු/11-413111) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-"President Anura Kumara Dissanayake approves appointment of Supreme Court Judge Murdu Fernando as new Chief Justice. Currently serving as Acting Chief Justice."
-
-🟩
-
-President Anura Kumara Dissanayake has received the approval of the Constitutional Contribution Council to appoint Mrs. Supreme Court Judge Murdu Fernando as the new Chief Justice.. She is currently acting as acting Chief Justice.
-
-◼️
-
-[Data](articles/675b0e18.json)
-
-[Extended Data](ext_articles/675b0e18.ext.json)
 
 ---
 
@@ -1498,38 +1108,6 @@ No candidate outside the seat did not propagate. The defeat of both Varai and Wi
 
 ---
 
-### Is the Easter paid to the attack properly ?: Supreme Court asks for detailed report
-
-*2024-11-18 07:40:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7m8x8vld1o) · `si`
-
-Supreme Court orders AG to submit detailed report on Easter attack compensation.
-
-🟩
-
-Is the Easter paid to the attack properly ?: Supreme Court asks for detailed report
-
-The Supreme Court today (Nov.. 18) Ordered the Attorney General.
-
-Additional Solicitor General Siriwardena appearing on behalf of the Attorney General and the fundamental rights filed by the Petitions filed by the Pittasam has taken measures to prevent the Easter attack on the Easter.
-
-Mustra Fernando, S. Thura Raja and AHMD. The petition was called before the Supreme Court Judge Mrs. Nawas.
-
-Additional Solicitor General said that the office had been paid to Rs.
-
-The Justice of Justice Fernando has asked if a report has been produced before the Court of Justice.
-
-Additional Solicitor General said that a report on the full compensation of the fund has been produced in court.
-
-The cases are called today asking for Judge Princess Fernando, who pointed out how the Pandakith Fernando had paid the pandalistic.
-
-...
-
-[Data](articles/9a37566e.json)
-
-[Extended Data](ext_articles/9a37566e.ext.json)
-
----
-
 ### Sri Lanka SEC planning market development with strong oversight
 
 *2024-11-18 07:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-planning-market-development-with-strong-oversight-188322/) · `en`
@@ -1549,8 +1127,6 @@ To achieve the SEC’s objectives three pronged set of plans are being finalized
 ...
 
 [Data](articles/319a4aa5.json)
-
-[Extended Data](ext_articles/319a4aa5.ext.json)
 
 ---
 
@@ -2331,5 +1907,473 @@ But for years afterwards, racism continued to feature in political campaigns and
 [Data](articles/480c14e8.json)
 
 [Extended Data](ext_articles/480c14e8.ext.json)
+
+---
+
+### Your chance to re-write history, Mr. President: Second letter to AKD
+
+*2024-11-17 23:51:01* · [`dailyftlk`](https://www.ft.lk/columns/Your-chance-to-re-write-history-Mr-President-Second-letter-to-AKD/4-769335) · `en`
+
+You have been blessed with an abundance of talent in your recently elected legislative chamber – a true microcosm of the nation. Every ethnicity, religion, educational, competency, discipline and age demographic is represented. For the first time in the history of Sri Lankan politics a humble estate worker has been afforded an opportunity to participate in political decisions. Even a 26-year-old has been accommodated in the chamber. You are already walking the talk much to the chagrin of your opponents
+
+...
+
+[Data](articles/e21f9be5.json)
+
+[Extended Data](ext_articles/e21f9be5.ext.json)
+
+---
+
+### Sri Lanka also conquered the series with New Zealand;The 6th consecutive series of Sri Lanka's earnings on home soil
+
+*2024-11-17 23:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199025) · `ta`
+
+Sri Lanka wins 6th consecutive home series against New Zealand. Key performances from Mahish Deekshana and Kusal Mendis. Sri Lanka sets target of 210/7, NZ reaches 209/all out. Mahish Deekshana takes 3/31, Jevri Vendasee 3/46.
+
+🟩
+
+Sri Lanka won the 2nd ODI match between Sri Lanka and New Zealand in Pallekele, Kandy on Sunday.
+
+With this victory, Sri Lanka won the three -match international ODI series, which made the 6th consecutive success on home soil.
+
+Also, for the first time after 10 years on home soil, Sri Lanka has made 5 series in a single year.
+
+In this victory, Mahish Deekshana's all -round match and Kusal Mendis played a key role.
+
+Sri Lanka won the toss and elected to win 210 runs, losing 7 wickets in 46 overs.
+
+Avishka Fernando (5), Betham Nissank (28) and Kamindu Mendis (0) lost by 23 runs.
+
+Kamindu Mendis, who was raised to the 4th line, faced only 3 balls, losing the game and disappointed with the fans.
+
+Subsequently, Sarid Asalanga (12) and Sadeera Samarawickrama (8) lost the game with fewer runs.
+
+Gusal Mendis and Janith Liyanage both tried to restore the team in the 6th wicket. But when the two shared 39 runs, Janith Liyanage lost 22 runs.
+
+...
+
+[Data](articles/da1a6f3a.json)
+
+[Extended Data](ext_articles/da1a6f3a.ext.json)
+
+---
+
+### Sri Lanka wins ODI series against New Zealand
+
+*2024-11-17 23:29:58* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-එක්දින-තරගාවලිය-ලංකාව-දිනයි/9-413108) · `si`
+
+Sri Lanka triumphs over New Zealand in ODI series. Kusal Mendis' impressive bowling and batting lead team to victory. Sri Lanka achieves 209-run target, with Mendis scoring 74 off 102 balls. Mahime inspector and Mendis form crucial 47-run partnership for 8th wicket.
+
+🟩
+
+Sri Lanka won the ODI tour for the ODI series of the ODI series, with the militant bowling of Kusal Mendis and the batting ceremony.
+
+Sri Lanka were able to win the Sri Lankan team to win the Sri Lankan team for the 209 runs in reply to New Zealand.
+
+When Sri Lanka's innings were bowled out for the innings, Kusal Mendis defended 74 off 102 balls with 74 off 102 balls.
+
+Mahime inspector and Kusal Mendis won a 47 running mark on behalf of the eighth wicket.
+
+◼️
+
+[Data](articles/4c49e72c.json)
+
+[Extended Data](ext_articles/4c49e72c.ext.json)
+
+---
+
+### ODI wins ODI winner after 12 years
+
+*2024-11-17 23:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203476) · `si`
+
+Sri Lanka wins ODI vs NZ after 12 years. Kusal Mendis' half-century leads team to 2-0 series win. Match reduced to 47 overs due to interruptions.
+
+🟩
+
+Sri Lanka team won the second ODI match against the New Zealand team with a prevalent half century due to the precious half century.
+
+The three-match tournament is a 2-0 leading towards a 2-0 leads and Sri Lanka was able to confirm the winner.
+
+Sri Lanka won the 46th over the 46th over the match despite the loss of 210 runs for 47 overs.
+
+Kusal Mendis, a batsman of Sri Lanka's victory, arrived at the batsman and passed the wicket while passing the winning shopping.
+
+Mahish insights scored a great deal of precious to Kusal, and he also had a 47-year-old connection with the 8th wicket.
+
+Accordingly, the Sri Lankan team led by Charith, who was led by Charith won the ODI against New Zealand after 12 years.
+
+Sri Lanka wins the ODIs 'ODIs' last year with Mahela Jayawardene.
+
+The two ODIs were held between the two ODIs and the tournament was won by New Zealand.
+
+Sri Lanka invited New Zealand to bat first, winning the coin of the match at the Pallekele Stadium.
+
+...
+
+[Data](articles/986a9dd6.json)
+
+[Extended Data](ext_articles/986a9dd6.ext.json)
+
+---
+
+### Mahinda's dream came true - Namal
+
+*2024-11-17 23:10:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மஹிந்தவின்-கனவு-நனவாகியது-நாமல்/175-347355) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mahinda Rajapaksa's dream realized by current govt: Namal Rajapaksa. Success attracts Northeners to southern parties. Sri Lanka PA opposes separatism.
+
+🟩
+
+Former President Mahinda Rajapaksa's dream has been realized by the success of the current government, said Namal Rajapaksa, the national organizer of the Sri Lanka PA.
+
+Mahinda Rajapaksa's dream was to create an environment where the political parties in the south were to attract the people of the North.
+
+Namal Rajapaksa has said that the dream has come true through the success of the current government.
+
+However, Namal Rajapaksa said in a letter today (17) that the Sri Lanka PA would not be able to accommodate any action that would lead the country to separatism again.. Remble
+
+◼️
+
+[Data](articles/a17a37a1.json)
+
+[Extended Data](ext_articles/a17a37a1.ext.json)
+
+---
+
+### Arrested with domestic gun
+
+*2024-11-17 22:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199013) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+57-year-old man arrested in Timbreiya for possessing a domestic firearm. Raid conducted based on police intelligence in Kirulla division. Suspect from Nikavaratiya.
+
+🟩
+
+A suspect has been arrested for possessing a domestic gun in the Timbreiyawa area of ​​the Kirulla police division.
+
+He was arrested during a raid on the basis of information received by the police officers of Kirulla.
+
+The arrested suspect is a 57 -year -old from Nikavaratiya, Timbreiya.
+
+◼️
+
+[Data](articles/400c9776.json)
+
+[Extended Data](ext_articles/400c9776.ext.json)
+
+---
+
+### The election campaign expenditure should be submitted within 21 days;Commission's instruction for all candidates
+
+*2024-11-17 22:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199009) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Election campaign spending deadline: 21 days post-results. Candidates must report expenses to local Election Officers. Failure to comply may result in legal action.
+
+🟩
+
+The 8821 candidates who contested the general election must submit the details of the election campaigns within 21 days. The Commissioner General of Elections Saman Sri Ratnayake said that if the case is not submitted during the period, appropriate legal action will be taken.
+
+The general election has been completed in a fair and independent. We thank the people, the security forces, the state and the private parties and the media who cooperated peacefully to hold the election.
+
+Democratically 225 members have been elected. Therefore, we urge the 225 members to do the best of the people. The success of the election will be determined by the five years of activities.
+
+This time 8821 contested the country on the basis of political parties and independent groups. Campaign for 22 Election Districts was set on the Election Expenditure Act No. 3 of 2023.
+
+...
+
+[Data](articles/917fbd7a.json)
+
+[Extended Data](ext_articles/917fbd7a.ext.json)
+
+---
+
+### We will cooperate with the Government to arrest the arrests and restore national assets - the United People's Power
+
+*2024-11-17 22:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199006) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"United People's Power supports govt arresting asset thieves & restoring national property. Opposition party vows cooperation. Party leader Sajith Premadasa emphasizes grassroots connection. Future plans to strengthen party."
+
+🟩
+
+The government has promised people to arrest the robbers who have robbed national assets and restore the property. United People's Power General Secretary Ranjith Mathuma Bandara said that we will give our full cooperation to the government as the opposition party to accomplish this.
+
+He further stated at a press conference held at the United People's Power Headquarters in Colombo on Sunday.
+
+The United People's Power is once again elected as the main opposition party. Two -thirds have to act in parliament with the majority of the ruling party. Similarly, the government has a responsibility to fulfill his promises during both elections.
+
+We are closely observing them in regard to them. The government has promised people to arrest the robbers in particular and restore the property. We will give the government our full cooperation as the Opposition to accomplish this.
+
+...
+
+[Data](articles/0fe8e2e0.json)
+
+[Extended Data](ext_articles/0fe8e2e0.ext.json)
+
+---
+
+### Parliament and Election Commission should take action to improve the capacity of minorities contesting elections - the Asian network for independent elections
+
+*2024-11-17 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/198997) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's 2024 parliamentary election saw increased female representation but limited minority candidates. The Asian Network for Independent Elections urges improvement in election efficiency and voter education. Challenges include social media misinformation, accessibility issues for disabled voters, and restrictions on certain groups. Recommendations focus on enhancing minority participation and creating a more inclusive electoral environment.
+
+🟩
+
+Although the presence of minority and female candidates in the general election is limited, the female representation has increased in the election. This includes significant successes of women belonging to the Tamil plantation community. The Asian network for independent elections has urged the Sri Lanka Parliament, the Election Commission and the International NGOs to improve and strengthen the efficiency of the elections contesting the election to ensure that these gains continue to increase.
+
+The Asian network for independent elections released its interim report on Sunday at the Grand Hotel in Colombo, based on the surveillance of Sri Lanka's general election.. This is mentioned in that statement.
+
+...
+
+[Data](articles/88687d7b.json)
+
+[Extended Data](ext_articles/88687d7b.ext.json)
+
+---
+
+### Mahinda's dream was fulfilled - Namal
+
+*2024-11-17 22:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203475) · `si`
+
+Namal Rajapaksa: Mahinda's vision realized. Government victory brings unity between South's political parties and North's participation. Sri Lanka Croad not allowed back to separatism.
+
+🟩
+
+The National Organization of the Sri Lanka Government Mahinda Rajapaksa has come true with the victory of the present government to bring about an atmosphere of the South's political parties and the participation of the people of the North.
+
+However, Namal Rajapaksa issued a letter to the Sri Lanka Croader today (17) that the Sri Lanka Croad is not allowed back to separatism.
+
+Here is the full article, Namal Rajapaksa issued by Namal Rajapaksa in the national organizations of the Sri Lanka General Secretary of the Sri Lanka General Secretary.
+
+◼️
+
+[Data](articles/52928bf2.json)
+
+[Extended Data](ext_articles/52928bf2.ext.json)
+
+---
+
+### National List Members Special Gazette Release - Elections Commission
+
+*2024-11-17 22:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199024) · `ta`
+
+Elections Commission releases special gazette confirming National List Members. Bimal Ratnayake, Anura Karunathilaka, Upali Pannilake, and others elected under Article 99 of the Constitution. Dilith Jayaweera joins Sarvaja power National List.
+
+🟩
+
+The Elections Commission has issued a special gazette notification to confirm the names of the National List Members of the National People's Power and the National List.
+
+Under Article 99 of the Constitution, Bimal Ratnayake, Anura Karunathilaka, Upali Pannilake, Eranga Udhese Veeraratne, Aruna Jayasekara, Harshana SuryaperumaLakmali Kanchana Hemachandra, Sunil Saminda Kumara, Gamini Ratnayake, Ruwan Saminda Ranasinghe, Sukat Wasantha de Silva, Abubakar Adambawa and Ratnayake Samarasinghe have been elected as MPs.
+
+Dilith Jayaweera has been elected as a member of the National List of the Sarvaja power.
+
+◼️
+
+[Data](articles/83b181e5.json)
+
+[Extended Data](ext_articles/83b181e5.ext.json)
+
+---
+
+### Winning of the National People's Power
+
+*2024-11-17 22:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/199000) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National People's Power wins historic victory. Unexpected outcome: fewer direct seats than hoped. Gained one national list seat. Leader Anura Kumara Dissanayake congratulated on strong mandate. Defeated Gotabhaya Rajapakse's policies. Ranil Wickremesinghe would've won if elected directly. People made practical choice despite expectations.
+
+🟩
+
+The success of the national people's power must be referred to as a political tsunami. We expected to capture more seats. However a seat is not even available. The National Organizer and former minister of the Sarvana Shakti, Til Amunugama, said that he was not going to be a Member of Parliament through the national list.
+
+In the general election, President Anura Kumara Dissanayake has won the history of national people's power in the history. This should be referred to as a political tsunami. We fully accept the new people.
+
+The people of the country have made a coup with great confidence in President Anurakumara. I congratulate the government to work well in the expectations of the people.
+
+Gotabhaya Rajapakse's false political decisions, which came to power in 2020, have been a major political change.. Ranil Wickremesinghe would be the president today if the people were elected to the country. The people of the country will make a political decision on the practical matters.
+
+...
+
+[Data](articles/3814aa90.json)
+
+[Extended Data](ext_articles/3814aa90.ext.json)
+
+---
+
+### Harsha de Silva to continue the new political and cultural change made by the people - Harsha de Silva
+
+*2024-11-17 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199003) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Harsha de Silva vows to support ongoing political and cultural changes. He thanks Colombo voters for increased support, promising to combat corruption and explain economic issues. As Opposition MP, he'll work towards fulfilling public aspirations.
+
+🟩
+
+All the people of the country, the North, South and the hill country, have given the president the power to create a developed country. Dr. Harsha de Silva said that it has decided to cooperate to continue this new political and cultural change by the people.
+
+He added: “I thank the people of Colombo for giving me twice as much preferential votes than the last election.. I see this as a welcome welcome among the people in Parliament.. I will continue to fight corruption and clarify the people on economic on the economic.. This is a new culture. I have decided to give full cooperation to fulfill the aspirations of the people as an Opposition MP.. "I am ready to continue this new political and cultural change that people have made."
+
+◼️
+
+[Data](articles/70a306e4.json)
+
+[Extended Data](ext_articles/70a306e4.ext.json)
+
+---
+
+### 18 doctors elected to Parliament
+
+*2024-11-17 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199023) · `ta`
+
+18 doctors elected to Parliament out of 225 members. 16 represent national power party. 2 from other parties: Sri Lanka Tamil National Party and Independent Committee.
+
+🟩
+
+Of the 225 members who have been elected to the country's tenth parliament, are included in 18 doctors. Of these, 16 represent the national power.
+
+Dr. Mohamed Rizvi Sali, Dr. Chrishantha Silva Abeysena, Dr. Nihal Abeysinghe, Dr. Nalinda Jayatissa, Dr. Nishantha Samaraweera, Dr.Dr. Prasanna Gunasena, Dr. Madura Seneviratne, Dr. PH Dhammika and Dr. Sri Bhavananda Raja have been elected to Parliament on behalf of the national people's power.
+
+Dr. Ilayadambi Srinath, who contested on behalf of the Sri Lanka Tamil National Party, and Dr. Ramanathan Aksna, who contested on behalf of the Independent Committee.
+
+◼️
+
+[Data](articles/46f941da.json)
+
+[Extended Data](ext_articles/46f941da.ext.json)
+
+---
+
+### IMF team arrives in Sri Lanka for third review under EFF program
+
+*2024-11-17 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103569/imf-team-arrives-in-sri-lanka-for-third-review-under-eff-program) · `en`
+
+A team from the International Monetary Fund (IMF), led by its Senior Mission Chief for Sri Lanka Peter Breuer, has arrived in Sri Lanka this evening (17).
+
+The team will remain in in the country until November 23 and during their stay will conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF).
+
+The team, led by IMF Senior Mission Chief Peter Breuer, will assess Sri Lanka’s economic policies, progress on ongoing reforms, and the implementation of previous agreements with the IMF.
+
+Upon successful completion of the review, the IMF is expected to release the next tranche of the bailout to Sri Lanka. The IMF had approved a 2.9-billion-dollar Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+
+...
+
+[Data](articles/6fe125f7.json)
+
+[Extended Data](ext_articles/6fe125f7.ext.json)
+
+---
+
+### Awa members arrested for intimidating
+
+*2024-11-17 21:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்டொக்கில்-மிரட்டிய-ஆவா-உறுப்பினர்கள்-கைது/175-347353) · `ta`
+
+"Awa" gang members arrested for intimidation in Mattakkuli. Four suspects, including two from Jaffna-based gang, detained over threats and attacks. Investigation reveals connections to Northeast crimes and involvement of individuals from Dubai.
+
+🟩
+
+Four suspects have been arrested in the Mattakkuli area, including two members of the Jaffna -based 'Awa' gang, in connection with the threat and attacks.
+
+They have been arrested following confidential information received from an individual on the possibility of a kidnapping incident.
+
+During the investigation, it was revealed that the suspects from Eichilampattu and Thoopur were involved in the 'Ava' gang involved in crimes in the Northeast.
+
+While the other two suspects have recently visited Sri Lanka from Dubai, a person living in Dubai has been advised to bring 'Ava' gang members from Trincomalee to Mattakkuli.
+
+It was also revealed that the suspects were intimidated by the Dubchi man in Dubai.
+
+During further inquiries into their phones, it was revealed that the two men from the 'Awa' gang have been brought to Mattakkuli by a woman and later beaten to the man in Dubai.
+
+The suspects, aged 24, 26, 27 and 32, have been identified as Pudukkudiyiruppu, Kottanchenai, Eichilampattu and Toppur.
+
+◼️
+
+[Data](articles/a238a418.json)
+
+[Extended Data](ext_articles/a238a418.ext.json)
+
+---
+
+### Yall. More than 500 soldiers are isolation at the main street Periyamadu Commando Army Training Camp
+
+*2024-11-17 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199020) · `ta`
+
+Over 500 soldiers isolated at Periyamadu Commando Army Training Camp due to brain fever outbreak. Admitted to Mannar District General Hospital. Training halted temporarily.
+
+🟩
+
+More than 500 soldiers have been isolated at the Periyamadu Commando Army Training Camp, Mannar - Jaffna main road.
+
+They were admitted to the Mannar District General Hospital after some of the soldiers involved in training in the training camp.
+
+During the medical examination, they were diagnosed with brain fever.
+
+This was confirmed by Dr. Azad M Haneefa, the medical superintendent of the Mannar District General Hospital.
+
+It is reported that more than 500 soldiers have been isolated from the training camp for the medical party to stop the training camp.
+
+◼️
+
+[Data](articles/346dd4a5.json)
+
+[Extended Data](ext_articles/346dd4a5.ext.json)
+
+---
+
+### Tourism in Galle pressurizes cattle and dogs
+
+*2024-11-17 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203473) · `si`
+
+Galle tourism pressures stray animals. Residents demand action against wandering cows and dogs in the fort and city. With 1.6 million tourists in 2024 and 250,000 target for next year, locals fear losing control over their environment in this popular tourist spot.
+
+🟩
+
+The people point out that tourists come to Galle, Galle and dogs, strayed in the Galle Fort and in the city.
+
+They say that the authorities should take steps to provide immediate solutions to such problems when it comes to tourism.
+
+According to the Tourism Development Authority, the number of tourist arrivals to the island in 2024 was 1,682,482.
+
+There are 61,767 tourists in the first 10 days of November.
+
+The tourism development authority predicts that the arrival of the European tourist arrivals to the beginning of the winter.
+
+The Government's goal is to bring down 2.5 million tourists next year.
+
+In such an environment, the residents of the area is embarrassing in the South Lake City of Galle, the world's leading tourist destinations as a leading tourist destination in Sri Lanka.
+
+The threat from cows and dogs that are strayed in the Galle Fort and the city.
+
+They urge authorities to solve the problem with immediate solutions.
+
+◼️
+
+[Data](articles/b192c978.json)
+
+[Extended Data](ext_articles/b192c978.ext.json)
 
 ---

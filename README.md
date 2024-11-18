@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 23:25:37**
+As of **2024-11-18 23:42:11**
 
 ## Newspaper Stats
 
-*Scraped **55,638** Articles*
+*Scraped **55,645** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 432
 colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
-economynextcom | 3,365
+economynextcom | 3,372
 dailyftlk | 3,795
 dailymirrorlk | 4,733
 adalk | 5,223
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,637 (100.0%) of 55,638 articles have been extended.
+55,637 (100.0%) of 55,645 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -85,6 +85,24 @@ Based on intelligence received, the Sri Lanka Navy had launched this special ope
 [Data](articles/725062d0.json)
 
 [Extended Data](ext_articles/725062d0.ext.json)
+
+---
+
+### Sri Lanka leader appoints fresh faces into new cabinet sans Muslims, Northeast Tamils
+
+*2024-11-18 21:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-fresh-faces-into-new-cabinet-sans-muslims-northeast-tamils-188587/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed a 21-member new cabinet on Monday, four days after the election in which his National People’s Power (NPP) recorded a landslide victory, but his cabinet lacked representations from ethnic minority Muslims and Tamils from the island nation’s former war zone of North and East.
+
+Dissanayake’s Maxists Janatha Vimukthi Peramuna (JVP)-led ruling NPP won 159 seats in a 225-member parliament in a surprise win, much higher than NPP leaders’ estimation of 120 seats.
+
+The more-than two-third majority will enable the Dissanayake’s new government to change the constitution focusing on the key promises they have given: eliminating corruption, implementing rule of law without any discrimination, and reducing cost of living.
+
+“Historically, Sri Lanka’s political landscape has often been defined by a divide; North against South, and vice versa, which was fueled by mistrust and division,” Dissanayake said after the new cabinet  was sworn in.
+
+...
+
+[Data](articles/714c0f63.json)
 
 ---
 
@@ -233,6 +251,28 @@ The President has issued a dedication of the government to find a solution to th
 [Data](articles/eee762b9.json)
 
 [Extended Data](ext_articles/eee762b9.ext.json)
+
+---
+
+### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
+
+*2024-11-18 19:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
+
+The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
+
+The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
+
+“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
+
+“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
+
+“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
+
+...
+
+[Data](articles/e2c3e1a7.json)
 
 ---
 
@@ -844,6 +884,26 @@ The present government is expected to restrict ministerial posts and that the go
 
 ---
 
+### Sri Lanka sells extra Rs13.2bn Treasury bonds after auction
+
+*2024-11-18 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs13-2bn-treasury-bonds-after-auction-188565/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 13.2 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold a 01 May 2028 maturity bond (ISIN  LKB01528E016) at a weighted average yield rate of 11.63 percent.
+
+The debt office also sold a 01 October 2032 maturity bond (ISIN LKB02032J017) at a weighted average yield rate of 12.32 percent.
+
+On Tuesday (12) the debt office raised 132.5 billion rupees from the 2028 and 2032 bonds.
+
+Date of settlement of the above issuance is 18 November 2024. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/05542fb7.json)
+
+---
+
 ### Harinini begins the post of Prime Minister
 
 *2024-11-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203501) · `si`
@@ -881,6 +941,26 @@ The relevant trade unions mentioned that their strike action will be in effect u
 [Data](articles/48e639d2.json)
 
 [Extended Data](ext_articles/48e639d2.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 291.35/45 to dollar, bonds stable
+
+*2024-11-18 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-35-45-to-dollar-bonds-stable-188559/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.35/45 to the US dollar on Monday from 292.15/18 to the US dollar on Thursday dealers said, while bond yields were stable from morning.
+
+A bond maturing on 15.12.2026 closed down at 10.25/35 percent.
+
+A bond maturing on 15.12.2027 closed at 10.75/90 percent, up from 10.65/75 percent.
+
+A bond maturing on 15.09.2029 closed at 11.25/40 percent, down from 11.25/30.
+
+A bond maturing on 01.10.2032 closed stable at 11.50/70 percent. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/804f033e.json)
 
 ---
 
@@ -1236,6 +1316,30 @@ The former president added that the representatives of all parties of the new De
 
 ---
 
+### Sri Lanka stocks close up as positive sentiment continues
+
+*2024-11-18 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-as-positive-sentiment-continues-188539/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday after the new cabinet of ministers was sworn in, data on its site showed.
+
+The broader ASPI closed up 0.24 percent, or 32.21 points, at 13,231; while the more liquid S&P SL20 Index closed up 0.17 percent, or 6.71 points, at 3,983.
+
+Turnover was 5.5 billion. Most of this came from interest in banking sector stocks (Rs1.8 billion) and capital goods (Rs1.1bn).
+
+Other sectors that saw high activity were food, beverage and tobacco (Rs652mn) and diversified financials (Rs469mn.)
+
+“There’s positive sentiment from the new government winning a two-thirds majority, the same trend continued,” market participants said.
+
+“There’s mainly interest in banking, and some momentum into hotels.”
+
+There were crossings in big companies, in big volumes, they said. “This is likely from high net worth individuals and institutions.”
+
+...
+
+[Data](articles/e2695790.json)
+
+---
+
 ### Rohitha's cousin of MP Rohitha surrenders to two illegal vehicles
 
 *2024-11-18 15:51:55* · [`adalk`](https://www.ada.lk/breaking_news/නීතිවිරෝධී-වාහන-දෙකකට-අවශ්‍යව-සිටි-මන්ත්‍රී-රෝහිතගේ-ඥාති-පුතා-පොලීසියට-භාරවෙයි/11-413121) · `si`
@@ -1341,6 +1445,26 @@ The petitions were then appointed to the 27th of February.
 [Data](articles/81eec8b3.json)
 
 [Extended Data](ext_articles/81eec8b3.ext.json)
+
+---
+
+### IMF’s Senior Mission Chief meets Sri Lanka’s former President: ex-minister
+
+*2024-11-18 15:07:00* · [`economynextcom`](https://economynext.com/imfs-senior-mission-chief-meets-sri-lankas-former-president-ex-minister-188529/) · `en`
+
+ECONOMYNEXT – The International Monetary Fund’s Senior Mission Chief has met former President Ranil Wickremesinghe, the former state Minister of Finance said.
+
+“The IMF’s Senior Mission Chief met with former President Ranil Wickremesinghe and the team today,” former state minister Shehan Semasinghe said on social platform X.
+
+“They commended the remarkable efforts of the former government in recovering Sri Lanka’s economy from its worst crisis and setting it on a path toward sustainable growth.
+
+The IMF team arrived in the island  on Sunday (17), and will remain until November 23 to conduct the third review of Sri Lanka’s economic reform program tied to its extended fund facility (EFF).
+
+“During the discussions, we emphasized the importance of maintaining continuity in policies and programs, safeguarding the hard-earned reforms, and ensuring that these achievements are not reversed to secure stability and long-term economic development,” Semasinghe said. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/4d5c9e65.json)
 
 ---
 
@@ -1509,6 +1633,32 @@ Coconut shells were 40,000 to 42,000 rupees per metric ton. (Colombo/Nov18/2024)
 [Data](articles/5bea21cf.json)
 
 [Extended Data](ext_articles/5bea21cf.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices down for third week
+
+*2024-11-18 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-for-third-week-187248/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices fell from 99,959.25 to 99,684.19 for 1,000 nuts at an auction held on November 13, a day before the general election, data from the Coconut Development Authority indicated.
+
+Coconut prices dropped for the third consecutive week after reaching a record high of 105,000.00 on October 24.
+
+A total of 284,870 coconuts were offered at the auction and 231,221 were sold.
+
+The highest price for 1,000 nuts was 100,000 rupees, while the lowest for 1,000 nuts was 95,ooo rupees at the weekly CDA auction.
+
+Wholesale prices for large nuts were 140-150 and 110-120 rupees for small nuts on November 13.
+
+Farmgate prices in Kurunegala were 100,000 to 110,000 per 1,000 nuts.
+
+Coconut oil local wholesale price was 750,000.00 to 770,000.00 rupees per metric ton.
+
+Coconut shells were 40,000 to 42,000 rupees per metric ton. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/a70b5cc5.json)
 
 ---
 
@@ -2385,167 +2535,5 @@ Professor Anil Jayantha Fernando was sworn in as the Minister of Labor in the pr
 [Data](articles/ef62c41b.json)
 
 [Extended Data](ext_articles/ef62c41b.ext.json)
-
----
-
-### President amputation to new Cabinet
-
-*2024-11-18 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203488) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake addresses new Cabinet, emphasizing responsible use of power, good governance, and gratitude towards supporters. He highlights the importance of accountability and the dual responsibility of public expectations and personal conduct.
-
-🟩
-
-President Anura Kumara Dissanayake emphasizes that the unlimited power of the Ministers should be responsible.
-
-Addressing the new Cabinet at the Cabinet, the President said that new ministers should be constantly to protect the power.
-
-The President also said that there should be good governance in making the prospects of effort and masses.
-
-"Victory is equally heavy to the responsibilities assigned to us in that victory."The President also said.
-
-The President said that the political map of the history of Sri Lanka had changed and no further dividing politics said.
-
-The President also said that the people who were trying to give a strong parliament to the national propulition are thanked.
-
-The president said that the support of the loser has changed the support of the loser and has started a new political culture.
-
-...
-
-[Data](articles/f039f00b.json)
-
-[Extended Data](ext_articles/f039f00b.ext.json)
-
----
-
-### Professor Chrisantha Abeysena sworn in as Minister of Science and Technology
-
-*2024-11-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199061) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Professor Chrisantha Abeysena inaugurated as Science & Tech Minister. Sworn in before President Anurakumara Dissanayake.
-
-🟩
-
-Professor Chrisantha Abeysena was sworn in as the Minister of Science and Technology in the presence of President Anurakumara Dissanayake.
-
-◼️
-
-[Data](articles/a8ea7479.json)
-
-[Extended Data](ext_articles/a8ea7479.ext.json)
-
----
-
-### Wasantha Samarasinghe's sworn in as Minister of Commerce, Commerce and Food Safety and Cooperative Development
-
-*2024-11-18 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199059) · `ta`
-
-Wasantha Samarasinghe sworn in as Minister of Commerce, Commerce and Food Safety and Cooperative Development. President Anura Kumara Dissanayake present.
-
-🟩
-
-Wasantha Samarasinghe was sworn in as the Minister of Commerce, Commerce and Food Safety and Cooperative Development in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/a581578d.json)
-
-[Extended Data](ext_articles/a581578d.ext.json)
-
----
-
-### Sunil Kumara Kamage sworn in as Minister of Youth Affairs and Sports
-
-*2024-11-18 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199058) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sunil Kumara Kamage inaugurated as Youth Affairs & Sports Minister. Sworn in before President Anura Kumara Dissanayake.
-
-🟩
-
-Sunil Kumara Kamage was sworn in as the Minister of Youth Affairs and Sports in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/538a4942.json)
-
-[Extended Data](ext_articles/538a4942.ext.json)
-
----
-
-### There are no two happy groups that are happy or shocked
-
-*2024-11-18 11:11:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයෙන්-සතුටට-පත්වන-හෝ-කම්පාවට-පත්වන-කණ්ඩායම්-දෙකක්-රට-තුළ-නෑ/11-413116) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan President Anura Kumara Dissanayake criticizes post-election sentiment: "No citizens believe in divisive politics. No politicians truly support democracy. Most groups are unhappy with the election results."
-
-🟩
-
-President Anura Kumara Dissanayake said that there is no more happy or shocked by the results of the general election.
-
-He made this statement after the swearing in the new cabinet.
-
-"I don't think any citizen believes in the politics of dividing. I don't think any politician in Sri Lanka believes in democracy. Good things that have been pregnant in every citizen. There are no groups in this country that a group that is happy with this election and a group of these elections.. "
-
-◼️
-
-[Data](articles/6ed33b9c.json)
-
-[Extended Data](ext_articles/6ed33b9c.ext.json)
-
----
-
-### Samantha Vidyaratne sworn in as Minister of Plantation and Social Infrastructure
-
-*2024-11-18 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199054) · `ta`
-
-Samantha Vidyaratne sworn in as Minister of Plantation and Social Infrastructure. President Anura Kumara Dissanayake present.
-
-🟩
-
-Samantha Vidyaratne was sworn in as the Minister of Plantation and Social Infrastructure in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/ba65bc40.json)
-
-[Extended Data](ext_articles/ba65bc40.ext.json)
-
----
-
-### KD as Minister of Agriculture, Livestock, Irrigation and Land Minister. Lalganta's swearing -in!
-
-*2024-11-18 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199052) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"KD appointed as Minister of Agriculture, Livestock, Irrigation & Land. Lalganta President Anura Kumara Dissanayake sworn in."
-
-🟩
-
-KD as Minister of Agriculture, Livestock, Irrigation and Land Minister. Lalganta President Anura Kumara Dissanayake was sworn in.
-
-◼️
-
-[Data](articles/08148a1b.json)
-
-[Extended Data](ext_articles/08148a1b.ext.json)
 
 ---

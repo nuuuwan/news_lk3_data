@@ -1,80 +1,568 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 11:14:00**
+As of **2024-11-18 12:28:34**
 
 ## Newspaper Stats
 
-*Scraped **55,522** Articles*
+*Scraped **55,546** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 564
-bbccomsinhala | 566
+bbccomsinhala | 567
 islandlk | 3,325
-economynextcom | 3,359
+economynextcom | 3,362
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,205
-adaderanalk | 6,700
-tamilmirrorlk | 7,866
-virakesarilk | 9,014
-adaderanasinhalalk | 9,601
+adalk | 5,208
+adaderanalk | 6,702
+tamilmirrorlk | 7,869
+virakesarilk | 9,025
+adaderanasinhalalk | 9,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,520 (100.0%) of 55,522 articles have been extended.
+55,540 (100.0%) of 55,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
-### சற்றுமுன் புதிய அமைச்சர்கள் பதவிப் பிரமாணம்
+### Lohan Ratwatte and wife further remanded
+
+*2024-11-18 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103578/lohan-ratwatte-and-wife-further-remanded-) · `en`
+
+Former Minister Lohan Ratwatte has been further remanded until December 2, while his wife has been further remanded until November 22 after they were produced before the Nugegoda Magistrate’s Court today (18).
+
+Former Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until today (November 18) by the Nugegoda Magistrate’s Court.
+
+Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
+
+...
+
+[Data](articles/cebb0fae.json)
+
+[Extended Data](ext_articles/cebb0fae.ext.json)
+
+---
+
+### “End of the politics of splitting”
+
+*2024-11-18 11:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளவுபடுத்தும்-அரசியலுக்கு-முற்றுப்புள்ளி-வைக்கப்பட்டுள்ளது/175-347371) · `ta`
+
+Sri Lanka's political landscape shifts as election unites people across regions. New government takes power, thanks voters and acknowledges diaspora and youth support.
+
+🟩
+
+“The political culture of Sri Lanka has long been defined by efforts to stop the North and vice versa.
+
+“However, this election shows that the political politics will no longer rule. This has successfully brought the aspirations of all people to the same center. ”
+
+The President thanked all the supporters who voted for the new government to come to power and cited the contributions and support of Sri Lankan diaspora and young social media enthusiasts during the election.
+
+◼️
+
+[Data](articles/d3131d34.json)
+
+[Extended Data](ext_articles/d3131d34.ext.json)
+
+---
+
+### Sickness in the military camp
+
+*2024-11-18 11:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாமில்-சுகயீனம்/175-347370) · `ta`
+
+Fever outbreak hits military camp in Mannar and Vidathalivu, affecting 25 soldiers. Isolation measures implemented, with some hospitalized. Over 500 soldiers quarantined as precautionary step. Incident reported since November 11th.
+
+🟩
+
+About 25 soldiers have been affected by the fever at a military camp in Mannar and Vidathalivu, the military said.
+
+The Ranam also reportedly said that the fever was isolated in the camp.
+
+Steps have been taken to admit a group of affected soldiers to the hospital and one of them is for treatment.. It has also been reported to have been sent to the hospital.
+
+The Mannar Regional Health Department has stated that steps have been taken to isolate more than 500 soldiers in the camp.
+
+The fever has been reported in a military camp since the 11th.
+
+◼️
+
+[Data](articles/78084750.json)
+
+[Extended Data](ext_articles/78084750.ext.json)
+
+---
+
+### Nearly 500 soldiers quarantined at army camp due to flu outbreak
+
+*2024-11-18 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103577/nearly-500-soldiers-quarantined-at-army-camp-due-to-flu-outbreak) · `en`
+
+The Sri Lankan Army says it has implemented quarantine measures for soldiers at the army camp in the Veditalativu area in Mannar, following a flu outbreak among a group of army personnel.
+
+Sri Lanka Army spokesperson confirmed that around 25 soldiers have contracted the flu, with several requiring hospitalization. One soldier has been transferred to the National Institute of Infectious Diseases (IDH) for advanced treatment.
+
+In response to the outbreak, the Mannar health officials have taken steps to quarantine nearly 500 soldiers within the camp itself to control the spread of the viral flu.
+
+The flu outbreak, which had commenced from November 11, continues to be closely monitored by health and military authorities to ensure effective containment and timely medical intervention.
+
+◼️
+
+[Data](articles/83aff67f.json)
+
+[Extended Data](ext_articles/83aff67f.ext.json)
+
+---
+
+### Professor Anil Jayantha Fernando
+
+*2024-11-18 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199063) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Prof. Anil Jayantha Fernando sworn in as Labor Minister. President Anura Kumara Dissanayake present.
+
+🟩
+
+Professor Anil Jayantha Fernando was sworn in as the Minister of Labor in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/ef62c41b.json)
+
+[Extended Data](ext_articles/ef62c41b.ext.json)
+
+---
+
+### President amputation to new Cabinet
+
+*2024-11-18 11:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203488) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake addresses new Cabinet, emphasizing responsible use of power, good governance, and gratitude towards supporters. He highlights the importance of accountability and the dual responsibility of public expectations and personal conduct.
+
+🟩
+
+President Anura Kumara Dissanayake emphasizes that the unlimited power of the Ministers should be responsible.
+
+Addressing the new Cabinet at the Cabinet, the President said that new ministers should be constantly to protect the power.
+
+The President also said that there should be good governance in making the prospects of effort and masses.
+
+"Victory is equally heavy to the responsibilities assigned to us in that victory."The President also said.
+
+The President said that the political map of the history of Sri Lanka had changed and no further dividing politics said.
+
+The President also said that the people who were trying to give a strong parliament to the national propulition are thanked.
+
+The president said that the support of the loser has changed the support of the loser and has started a new political culture.
+
+...
+
+[Data](articles/f039f00b.json)
+
+[Extended Data](ext_articles/f039f00b.ext.json)
+
+---
+
+### Professor Chrisantha Abeysena sworn in as Minister of Science and Technology
+
+*2024-11-18 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199061) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Professor Chrisantha Abeysena inaugurated as Science & Tech Minister. Sworn in before President Anurakumara Dissanayake.
+
+🟩
+
+Professor Chrisantha Abeysena was sworn in as the Minister of Science and Technology in the presence of President Anurakumara Dissanayake.
+
+◼️
+
+[Data](articles/a8ea7479.json)
+
+[Extended Data](ext_articles/a8ea7479.ext.json)
+
+---
+
+### Wasantha Samarasinghe's sworn in as Minister of Commerce, Commerce and Food Safety and Cooperative Development
+
+*2024-11-18 11:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199059) · `ta`
+
+Wasantha Samarasinghe sworn in as Minister of Commerce, Commerce and Food Safety and Cooperative Development. President Anura Kumara Dissanayake present.
+
+🟩
+
+Wasantha Samarasinghe was sworn in as the Minister of Commerce, Commerce and Food Safety and Cooperative Development in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/a581578d.json)
+
+[Extended Data](ext_articles/a581578d.ext.json)
+
+---
+
+### Sunil Kumara Kamage sworn in as Minister of Youth Affairs and Sports
+
+*2024-11-18 11:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199058) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sunil Kumara Kamage inaugurated as Youth Affairs & Sports Minister. Sworn in before President Anura Kumara Dissanayake.
+
+🟩
+
+Sunil Kumara Kamage was sworn in as the Minister of Youth Affairs and Sports in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/538a4942.json)
+
+[Extended Data](ext_articles/538a4942.ext.json)
+
+---
+
+### There are no two happy groups that are happy or shocked
+
+*2024-11-18 11:11:23* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයෙන්-සතුටට-පත්වන-හෝ-කම්පාවට-පත්වන-කණ්ඩායම්-දෙකක්-රට-තුළ-නෑ/11-413116) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake criticizes post-election sentiment: "No citizens believe in divisive politics. No politicians truly support democracy. Most groups are unhappy with the election results."
+
+🟩
+
+President Anura Kumara Dissanayake said that there is no more happy or shocked by the results of the general election.
+
+He made this statement after the swearing in the new cabinet.
+
+"I don't think any citizen believes in the politics of dividing. I don't think any politician in Sri Lanka believes in democracy. Good things that have been pregnant in every citizen. There are no groups in this country that a group that is happy with this election and a group of these elections.. "
+
+◼️
+
+[Data](articles/6ed33b9c.json)
+
+[Extended Data](ext_articles/6ed33b9c.ext.json)
+
+---
+
+### Samantha Vidyaratne sworn in as Minister of Plantation and Social Infrastructure
+
+*2024-11-18 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199054) · `ta`
+
+Samantha Vidyaratne sworn in as Minister of Plantation and Social Infrastructure. President Anura Kumara Dissanayake present.
+
+🟩
+
+Samantha Vidyaratne was sworn in as the Minister of Plantation and Social Infrastructure in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/ba65bc40.json)
+
+[Extended Data](ext_articles/ba65bc40.ext.json)
+
+---
+
+### KD as Minister of Agriculture, Livestock, Irrigation and Land Minister. Lalganta's swearing -in!
+
+*2024-11-18 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199052) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+"KD appointed as Minister of Agriculture, Livestock, Irrigation & Land. Lalganta President Anura Kumara Dissanayake sworn in."
+
+🟩
+
+KD as Minister of Agriculture, Livestock, Irrigation and Land Minister. Lalganta President Anura Kumara Dissanayake was sworn in.
+
+◼️
+
+[Data](articles/08148a1b.json)
+
+[Extended Data](ext_articles/08148a1b.ext.json)
+
+---
+
+### New ministers sworn in shortly before
 
 *2024-11-18 10:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-புதிய-அமைச்சர்கள்-பதவிப்-பிரமாணம்/175-347367) · `ta`
 
-புதிய அரசாங்கத்தின் புதிய அமைச்சர்கள் சற்றுமுன் ஜனாதிபதி அநுரகுமார திசாநாயக்க முன்னிலையில் பதவிப் பிரமாணம் செய்துகொண்டுள்ளனர்.
+Here's a summary of 200 characters:
 
-விஜித ஹேரத் - வெளிநாட்டமைச்சு, வெளிநாட்டலுவல்கள் மற்றும் சுற்றுலா அமைச்சராக  பதவியேற்றுக் கொண்டார்.
 
-பேராசிரியர் சந்தன அபேரத்ன - பொதுநிர்வாகம் , மாகாண சபைகள் உள்ளூராட்சி அமைச்சராக பதவிப் பிரமாணம் செய்துகொண்டார்.
 
-பேராசிரியர் ஹர்ஷன நாணயக்கார - நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சராக பதவியேற்றுக் கொண்டார்.
+New ministers sworn in: Vijitha Herath (Foreign Affairs), Chandana Abeyratne (Public Administration), Harshana Nanayakkara (Justice), Saroja Savitri Bolraj (Women & Child Affairs), KD Lalgantha (Agriculture), Anura Karunathilaka (Urban Development), Ramalingam Chandrasekhar (Fisheries), Upali Pannilake (Rural Development), Sunil Handunnethi (Industry), Ananda Wijebala (Public Security), Bimal Niroshan Ratnayake (Transport), Hiniduma Sunil Senavi (Buddhist Affairs), Samantha Vidyaratne (Plantation), Sunil Kumara Kamage (Youth Affairs).
 
-சரோஜா சாவித்ரி போல்ராஜ் - மகளிர் மற்றும் சிறுவர் விவகார அமைச்சராக பதவியேற்றுக் கொண்டார்.
+🟩
 
-கே.டி.லால்காந்த - விவசாயம் , கால்நடை , நீர்ப்பாசனம் , காணி அமைச்சராக பதவியேற்றுக் கொண்டார்.
+The new government's new ministers have been sworn in in the presence of President Anura Kumara Dissanayake.
 
-அநுர கருணாதிலக - நகர அபிவிருத்தி, நிர்மாணிப்பு மற்றும் அமைச்சராக பதவியேற்றுக் கொண்டார்.
+Vijitha Herath - He was sworn in as the Minister of Foreign Affairs, Foreign Affairs and Tourism.
 
-இராமலிங்கம் சந்திரசேகர் - கடற்றொழில், நீரியல் மற்றும் கடல்வள அமைச்சராக பதவியேற்றுக் கொண்டார்.
+Professor Chandana Abeyratne - Public Administration and Provincial Councils Minister of State for Local Government.
 
-பேராசிரியர் உபாலி பன்னிலகே - கிராமிய அபிவிருத்தி, சமூக பாதுகாப்பு மற்றும் சமூக வலுவூட்டல் அமைச்சராக பதவியேற்றுக் கொண்டார்.
+Professor Harshana Nanayakkara was sworn in as Minister of Justice and National Integration.
+
+Saroja Savitri Bolraj - Women and Child Affairs Minister
+
+KD Lalgantha - He was sworn in as the Minister of Agriculture, Livestock, Irrigation and Land.
+
+Anura Karunathilaka - Urban Development, Construction and Minister
+
+Ramalingam Chandrasekhar - Minister of Fisheries, Aquaticity and Maritime
+
+Professor Upali Pannilake - He was sworn in as the Minister of Rural Development, Social Security and Social Empowerment.
+
+Sunil Handunnethi - Industry and Entrepreneurship Development Minister
+
+Ananda Wijebala - Public Security and Parliamentary Affairs Minister
 
 ...
 
 [Data](articles/093d126f.json)
 
+[Extended Data](ext_articles/093d126f.ext.json)
+
 ---
 
-### இளங்குமரனின் கூற்று கோமாளித்தனமானது
+### New ministers sworn in shortly before
+
+*2024-11-18 10:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சற்றுமுன்-புதிய-அமைச்சர்கள்-பதவிப்-பிரமாணம்/150-347367) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New ministers sworn in before President Anura Kumara Dissanayake. Key roles include Foreign Affairs, Justice, Women & Child Affairs, Agriculture, Urban Development, Fisheries, Rural Development, Industry, Public Security, Transport, Buddhist Affairs, Plantation, Youth Affairs.
+
+🟩
+
+The new government's new ministers have been sworn in in the presence of President Anura Kumara Dissanayake.
+
+Vijitha Herath - He was sworn in as the Minister of Foreign Affairs, Foreign Affairs and Tourism.
+
+Professor Chandana Abeyratne - Public Administration and Provincial Councils Minister of State for Local Government.
+
+Professor Harshana Nanayakkara was sworn in as Minister of Justice and National Integration.
+
+Saroja Savitri Bolraj - Women and Child Affairs Minister
+
+KD Lalgantha - He was sworn in as the Minister of Agriculture, Livestock, Irrigation and Land.
+
+Anura Karunathilaka - Urban Development, Construction and Minister
+
+Ramalingam Chandrasekhar - Minister of Fisheries, Aquaticity and Maritime
+
+Professor Upali Pannilake - He was sworn in as the Minister of Rural Development, Social Security and Social Empowerment.
+
+Sunil Handunnethi - Industry and Entrepreneurship Development Minister
+
+Ananda Wijebala - Public Security and Parliamentary Affairs Minister
+
+...
+
+[Data](articles/5193fd41.json)
+
+[Extended Data](ext_articles/5193fd41.ext.json)
+
+---
+
+### The young man's claim is clowns
 
 *2024-11-18 10:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளங்குமரனின்-கூற்று-கோமாளித்தனமானது/175-347366) · `ta`
 
-யாழ் மாவட்டத்தில் இருந்து புதிதாக தெரிவு செய்யப்பட்ட தேசிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் இளங்குமரனின் சலுகை தொடர்பான கூற்று கோமாளித்தனமானது என, சிறீ லங்கா பொதுஜன பெரமுனவின் யாழ்ப்பாணம் மாவட்ட பிரதான அமைப்பாளர் கீதநாத் காசிலிங்கம் தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்ற உறுப்பினர்களுக்கான எந்த சலுகைகளையும் பெற்றுக்கொள்ளப் போவதில்லை என்ற நாடாளுமன்ற உறுப்பினர் இளங்குமரனின் கருத்து தொடர்பாக அவர் திங்கட்கிழமை (18) வெளியிட்டுள்ள செய்திக் குறிப்பிலேயே இந்தக் குற்றசாட்டை முன்வைத்துள்ளார்.
 
-மேலும் தெரிவித்துள்ள கீதநாத், இந்த கூற்று கோமாளித்தனமான ஒன்றாக இருக்கிறது. குறித்த சலுகைகள் மற்றும் கொடுப்பனவுகள் அரசாங்கத்தால் வழங்கப்படுகின்றமை மக்களுக்கு சேவை செய்வதற்கான நோக்கத்துடனேயே.
 
-இந்த சலுகைகளைப் பெறாமல் தவிர்ப்பது எந்த வகையிலும், நாட்டின் பொருளாதாரத்தை அல்லது வருமானத்தை உயர்த்தப் போவதில்லை.
+Sri Lankan MP Geetanath Kasilingam criticizes colleague Ilangumaran's stance on parliamentary perks, urging focus on public service over personal opinions.
+
+🟩
+
+Geetanath Kasilingam, Chief Organizer of the Jaffna District of Sri Lanka PA, said that the concession on the concession of the newly elected National People's Power from the Jaffna District Ilangumaran is commanding.
+
+He made the allegation in a press release issued on Monday (18) on the comments of MP Ilangumaran that he would not get any concessions for MPs.
+
+Geetanath said that this claim is one of the clowns. The government's offer and allowances are aimed at serving the people.
+
+Avoiding these privileges in any way, the country's economy or income is not going to be raised.
+
+So use these offers and allowances to serve people. Although it is your choice to get and avoid these concessions, the people of Jaffna Kilinochchi Election District have elected you as a Member of Parliament by your confidence in your confidence.. People expect the problems and needs of the people to recognize that responsibility and provide them with a solution.
 
 ...
 
 [Data](articles/4ced2f7b.json)
+
+[Extended Data](ext_articles/4ced2f7b.ext.json)
+
+---
+
+### Dr. Nalinda Jayatissa as Minister of Health and Media
+
+*2024-11-18 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199051) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Dr. Nalinda Jayatissa appointed Minister of Health & Media. Sworn in by President Anura Kumara Dissanayake.
+
+🟩
+
+Dr. Nalinda Jayatissa was sworn in as the Minister of Health and Media in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/27049aa1.json)
+
+[Extended Data](ext_articles/27049aa1.ext.json)
+
+---
+
+### Prof. Hiniduma Sunil Senavi sworn in as Minister of Buddha Sasana, Religious and Arts and Cultural Affairs
+
+*2024-11-18 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199050) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Prof. Hiniduma Sunil Senavi inaugurated as Minister of Buddha Sasana, Religious & Cultural Affairs. Sworn in before President Anura Kumara Dissanayake.
+
+🟩
+
+Professor Hiniduma Senu Senavi was sworn in as the Minister of Buddha Sasana, Religious and Arts and Cultural Affairs in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/87763229.json)
+
+[Extended Data](ext_articles/87763229.ext.json)
+
+---
+
+### Bimal Ratnayake sworn in as Minister of Transport, Highway, Port and Civil Airlines
+
+*2024-11-18 10:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199049) · `ta`
+
+Bimal Ratnayake sworn in as Transport Minister.
+
+🟩
+
+Bimal Ratnayake was sworn in as the Minister of Transport, Highway, Port and Civil Aviation in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/bbbdf0ff.json)
+
+[Extended Data](ext_articles/bbbdf0ff.ext.json)
+
+---
+
+### நகர அபிவிருத்தி, கட்டுமானத்துறை மற்றும் வீடமைப்பு அமைச்சராக அநுர கருணாதிலக்க பதவிப் பிரமாணம்
+
+*2024-11-18 10:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199044) · `ta`
+
+நகர அபிவிருத்தி, கட்டுமானத்துறை மற்றும் வீடமைப்பு அமைச்சராக  அநுர கருணாதிலக்க ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/6b2047f0.json)
+
+---
+
+### மகளிர் மற்றும் சிறுவர் விவகார அமைச்சராக சரோஜா சாவித்திரி போல்ராஜ் பதவிப் பிரமாணம்
+
+*2024-11-18 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199043) · `ta`
+
+மகளிர் மற்றும் சிறுவர் விவகார அமைச்சராக சரோஜா சாவித்திரி போல்ராஜ் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+◼️
+
+[Data](articles/8bf1d10a.json)
+
+---
+
+### New government minister sworn in
+
+*2024-11-18 10:14:01* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-අමාත්‍ය-මණඩලය-දිවුරුම්-දෙයි/11-413114) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New ministers sworn in: Dr. Harini Amarasuriya (Education), Chandana Abeyratne (Public Administration), Upali Pannilaage (Rural Development), Bimal Ratnayake (Transport), Sunil Senevi (Buddha Sasana), Wasantha Samarasinghe (Marketing).
+
+🟩
+
+Dr. Harini Amarasuriya - Minister of Prime Minister and Education, Higher Education and Vocational Education
+
+Professor Chandana Abeyratne - Minister of Public Administration, Provincial Councils and Local Government
+
+Prof. Upali Pannilaage - Rural Development, Social Security and Community Empowerment Minister
+
+Bimal Ratnayake - Transport, Highways, Ports and Civil Aviation
+
+Prof. Sunil Senevi - Buddha Sasana, Religious and Cultural Affairs
+
+Wasantha Samarasinghe - Marketing Commercial Food Safe and Cooperative Development
+
+◼️
+
+[Data](articles/c92df57f.json)
+
+[Extended Data](ext_articles/c92df57f.ext.json)
+
+---
+
+### Sri Lanka President appoints NPP cabinet minsters
+
+*2024-11-18 10:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-appoints-npp-cabinet-minsters-188334/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Dissanayake has appointed the following ministers to run the National People’s Power administration after sweeping the general elections.
+
+1. Prime Minister and Minister of Education, Higher Education and Vocational Training – Harini Amarasuriya
+
+2. Minister of Foreign Affairs, Foreign Employment and Tourism – Vijitha Herath
+
+3. Minister of Public Administration and local government – Chandana Abeyratne
+
+4. Minister of Justice and National Integration – Harshana Nanayakkara
+
+6. Minister of Agriculture, Livestock and Land – Don Lalkantha
+
+7. Minister of urban Development, Construction, Housing – Anura Karunathilaka
+
+8. Minister of Fisheries, Aquatic and Ocean Resources – Ramalingam Chandrasekar
+
+9. Minister of Rural Development, Social Security and Community Empowerment – Upali Pannilage
+
+10. Minister of Industries and Entrepreneurship Development – Sunil Handunetti
+
+11. Minister of Public Security and Parliamentary Affairs – Ananda Wijepala
+
+...
+
+[Data](articles/9d5a62be.json)
 
 ---
 
@@ -104,7 +592,9 @@ The new Cabinet of Ministers of the National People’s Power (NPP) government w
 
 The swearing-in ceremony was held at the Presidential Secretariat in Colombo this morning (18).
 
-The new Cabinet of Ministers comprises of 21 Ministers including the Prime Minister while the new Deputy Ministers will reportedly be appointed later on.
+The new Cabinet of Ministers comprises of 21 Ministers including the Prime Minister while the new Deputy Ministers will reportedly be appointed later on.
+
+Accordingly, the new Cabinet will be limited to 21 Ministers, whereas President Anura Kumara Dissanayake will retain the ministerial portfolios of Defence, Finance, Economic Development and Digital Economy, according to the President’s Media Division (PMD).
 
 PM Dr. Harini Amarasuriya – Minister of Education, Higher Education and Vocational Education
 
@@ -113,12 +603,6 @@ Vijitha Herath – Minister of Foreign Affairs, Foreign Employment and Tourism
 Prof. Chandana Abeyrathna - Minister of State Administration, Provincial Councils and Local Government
 
 K.D. Lalkantha - Minister of Agriculture, Livestock, Land and Irrigation
-
-Anura Karunathilake - Minister of Urban Development, Construction and Housing
-
-Upali Pannilage - Minister of Rural Development, Social Security and Community Empowerment
-
-Ananda Wijepala - Minister of Public Security and Parliamentary Affairs
 
 ...
 
@@ -285,6 +769,28 @@ The main objective of the meeting said the meeting was to discuss the local gove
 [Data](articles/54f8b0aa.json)
 
 [Extended Data](ext_articles/54f8b0aa.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 291.55/75 to dollar, bonds steeply down
+
+*2024-11-18 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-55-75-to-dollar-bonds-steeply-down-188326/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291/55/75 to the US dollar Monday from 292.15/18 to the US dollar on Thursday, dealers said, while bond trading was steeply down.
+
+A bond maturing on 15.12.2027 was quoted at 10.65/75 percent.
+
+A bond maturing on 15.02.2028 was quoted at 10.95/11.00 percent.
+
+A bond maturing on 15.09.2029 was quoted at 11.25/30 percent.
+
+A bond maturing on 01.10.2032 was quoted at 11.50/70 percent.
+
+In equities, Colombo’s All Share Price Index was trading up 1.73 percent, or 227.88 points higher at 13,426.68, while the S&P SL20 of more liquid stocks was up 2.48 percent or 98.57 points higher at 4,075.74.
+
+◼️
+
+[Data](articles/b286a702.json)
 
 ---
 
@@ -542,6 +1048,50 @@ Meanwhile, they inform the national list MPs not to date their political parties
 
 ---
 
+### මාලිමාවේ දිනයි කියලා හිතපු අය පැරදුණේ ඇයි?
+
+*2024-11-18 07:50:15* · [`adalk`](https://www.ada.lk/opinion/මාලිමාවේ-දිනයි-කියලා-හිතපු-අය-පැරදුණේ-ඇයි-/2-413109) · `si`
+
+මෙවර පාර්ලිමේන්තු මැතිවරණයේදී ජයග්‍රහණය කරන බවට පුරෝකථනය කළ කිහිපදෙනෙක් පරාජයට පත් වී තිබුණි.
+
+ඒ අතර කොළඹ දිස්ත්‍රික්කයෙන් ඉදිරිපත් වූ මාධ්‍යවේදී විමල් කැටිපෙආරච්චි, ව්‍රායි කැලී බර්තසාර් සහ මාතර දිස්ත්‍රික්කයේ නීතිඥ උපුල් කුමරප්පෙරුම සිටියි.
+
+මෙහිදී විමල් කැටිපෙආරච්චි 2020 දී ද පාර්ලිමේන්තු මැතිවරණයට වූ අයෙකි. ඔහු එවර මැතිවරණයට ඉදිරිපත් වූයේ කැස්බෑව ආසනයෙනි. නමුත් මෙවර ඔහු මැතිවරණයට ඉදිරිපත් වූයේ මැද කොළඹ ආසනයෙනි.
+
+එම ආසනය සාපේක්ෂව ගත් කල කොළඹින් අඩු ඡන්ද ප්‍රමාණයක් ඇති ආසනයකි. එහිදී ජාතික ජනබලවේගය ජයග්‍රහණය කළ ද ඡන්ද ලබා තිබුණේ 39,160කි. එහිදී කැටිපෙආරච්චි මනාප 53,161ක් ලබා තිබුණි.
+
+කොළඹ ආසනයේ බොරැල්ල, මැද කොළඹ, නැගෙනහිර කොළඹ, උතුරු කොළඹ සහ බටහිර කොළඹ යන කොළඹ නගරයේ ආසන පහට අපේක්ෂකයින් පස්දෙනෙකු ඉදිරිපත් කරර තිබුණි.
+
+ආසනයෙන් පිට කිසිදු අපේක්ෂකයෙක් ප්‍රචාරන කටයුතු සිදු නොකළහ. ව්‍රායි සහ විමල් යන දෙදෙනාගේම පරාජයට හේතුව එම ආසනවල ජන ඝනත්වය විය හැකිය. අනෙක් කරුණ නම් විමල් කැටිපෙආරච්චිව කැස්බෑවෙන් කොළඹට ගෙන ඒම යැයි කිව හැකිය.
+
+...
+
+[Data](articles/a08470b1.json)
+
+---
+
+### Sri Lanka SEC planning market development with strong oversight
+
+*2024-11-18 07:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-planning-market-development-with-strong-oversight-188322/) · `en`
+
+ECONOMYNEXT – Sri Lanka new Securities and Exchange Commission is developing short and long-term plans to develop capital markets and strengthen oversight, Chairman Hareenda Dissabandara has said.
+
+“The potential of our capital market to contribute significantly to Sri Lanka’s economic development remains at the forefront of my agenda,” he said in a message.
+
+“With both challenges and opportunities ahead, my primary goal is to build a well-regulated, transparent, and dynamic capital market that serves as a reliable foundation for investors and issuers alike.”
+
+“Ensuring that Sri Lanka’s capital market operate in a secure, fair, and efficient manner is our foremost responsibility.
+
+“However, we must also encourage innovation and growth, creating an environment that supports sustainable economic development.”
+
+To achieve the SEC’s objectives three pronged set of plans are being finalized as follows.
+
+...
+
+[Data](articles/319a4aa5.json)
+
+---
+
 ### A military base will be quaranteed due to a fever
 
 *2024-11-18 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203482) · `si`
@@ -683,6 +1233,30 @@ The Department of Meteorology urges the public to take necessary steps to reduce
 [Data](articles/a94b6cfe.json)
 
 [Extended Data](ext_articles/a94b6cfe.ext.json)
+
+---
+
+### Here is the cabinet of the new government today
+
+*2024-11-18 05:28:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0j86g88ln8o) · `si`
+
+Here's a summary of the three topics in approximately 200 characters:
+
+
+
+New government cabinet announced today. WhatsApp warning about cyber fraud prevention. General Election 2024 updates: National List MP appointments revealed.
+
+🟩
+
+WhatsApp Crigs: How you get to cyber frauds and don't be the victim
+
+The General Election 2024: Who has been appointed to the National List MPs so far?
+
+◼️
+
+[Data](articles/d6923d7a.json)
+
+[Extended Data](ext_articles/d6923d7a.ext.json)
 
 ---
 
@@ -1797,629 +2371,5 @@ Based on this, the two suspects have been brought to the Mattakkuliya area throu
 [Data](articles/dbd0577f.json)
 
 [Extended Data](ext_articles/dbd0577f.ext.json)
-
----
-
-### India’s successful test of hypersonic missile puts it among elite group
-
-*2024-11-17 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/103568/indias-successful-test-of-hypersonic-missile-puts-it-among-elite-group) · `en`
-
-India has successfully tested a domestically developed long-range hypersonic missile, it said on Sunday, attaining a key milestone in military development that puts it in a small group of nations possessing the advanced technology.
-
-The global push for hypersonic weapons figures in the efforts of some countries, such as India, which is striving to develop advanced long-range missiles, along with China, Russia and the United States.
-
-The Indian missile, developed by the state-run Defence Research and Development Organisation and industry partners, is designed to carry payloads for ranges exceeding 1,500 km (930 miles) for the armed forces, the government said in a statement.
-
-“The flight data ... confirmed the successful terminal manoeuvres and impact with high degree of accuracy,” it added.
-
-The test-firing took place from Dr APJ Abdul Kalam island off the eastern coast of Odisha state on Saturday, it said.
-
-...
-
-[Data](articles/b71b9db5.json)
-
-[Extended Data](ext_articles/b71b9db5.ext.json)
-
----
-
-### Representatives to the second review of IMF
-
-*2024-11-17 20:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203472) · `si`
-
-Sri Lanka receives IMF loan installment review progress economic reform policy discussion
-
-🟩
-
-A representatives of the International Monetary Fund (IMF) extensive credit facility have arrived in Sri Lanka today (17).
-
-It is reported that Sri Lanka will be released to Sri Lanka the fourth installment of the IMF's comprehensive loan facility after their visit.
-
-The total loan from the International Monetary Fund for four years of Sri Lanka's economy is US $ 2.9 billion.
-
-US $ 333 million as the first installment, US $ 333 million was released as the second premium on 13 December on the 13th of that year.
-
-US $ 336 million as the third loan installment was Rs. 336 million in June 12 this year.
-
-The progress of the progress has been carried out after the premium of each of those loans, accordingly, according to the Chamber of the International Monetary Fund Senior Missions Senior Missions, Senior Missions Senior Mission.
-
-The implementation of the consensus with the International Monetary Fund and the current progress of the country's economic reform program is to be found.
-
-...
-
-[Data](articles/ef5c85fb.json)
-
-[Extended Data](ext_articles/ef5c85fb.ext.json)
-
----
-
-### We are ready to embrace everyone - Sridharan!
-
-*2024-11-17 20:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199019) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tamil National Party embraces all sides based on goals. Leader Sridharan allocates National List seat. Ready to unite under Tamil National Alliance principles.
-
-🟩
-
-Parliamentarian Sivagnanam Sridharan said that we are ready to embrace all sides based on our purpose and goal.
-
-The Tamil National Party's political committee was held on Sunday morning at a private guest hostel located in Irorpperiyakulam, Vavuniya.
-
-Considering the vacancies of the Mannar Vavuniya districts, we have decided to give the National List seat to the Dr. Sathiyalingam.
-
-And we are ready to embrace everyone based on the purpose and goal of the Tamil National Alliance in 2001. We have more compassion and will.
-
-I have also asked the people to issue that decree in my election campaigns.So we have realized the need to go together. We will continue to work for it.
-
-I am the selected leader of the Tamil party. If the court ban is lifted, I will act as the leader.I feel that time is meltdown.
-
-◼️
-
-[Data](articles/d7b8ddcb.json)
-
-[Extended Data](ext_articles/d7b8ddcb.ext.json)
-
----
-
-### 120 missiles 90 unmanned aircraft - Russia attack on Ukraine's strength
-
-*2024-11-17 20:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/199018) · `ta`
-
-Russia attacks Ukraine: 120 missiles, 90 drones. Some areas remain powered despite assault.
-
-🟩
-
-Ukraine has said that Russia used 120 missiles and 90 unmanned aircraft during the massive joint attack on all regions of Ukraine.
-
-There have been reports that some areas are still in power due to an attack on the strength.
-
-◼️
-
-[Data](articles/138d1037.json)
-
-[Extended Data](ext_articles/138d1037.ext.json)
-
----
-
-### We will challenge the election results and go forward - Douglas Devananda!
-
-*2024-11-17 20:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199017) · `ta`
-
-Douglas Devananda challenges election results, vows to move forward despite setbacks. EPDP Secretary-General calls for fact-checking misinformation and fake propaganda.
-
-🟩
-
-Secretary -General Douglas Devananda has hoped that the Eelam People's Democratic Party members will take a challenge to challenge the election results.
-
-The ongoing election results EPDP. The party's secretary general, Douglas Devananda, said that the party's next step was the reason for the lack of clarity on national reconciliation and the systematic defamation against our party.
-
-He also said that the reasons for the setbacks in this election should be prepared to travel towards the future by criticizing and revising criticism.
-
-EPDP. With the party's Jaffna district organizers and activists, the party's Jaffna. Douglas Devananda said, "I would like to thank the people who voted for us and the people who wanted to vote for us with mental strength."
-
-More EPDP before the election. He also stressed that the party's activists have a compulsory duty to clarify the facts of the vulgarity and fake propaganda that has been released after the election, beyond the campaign against it.
-
-...
-
-[Data](articles/069ce626.json)
-
-[Extended Data](ext_articles/069ce626.ext.json)
-
----
-
-### Who is going to fill the place of the best arguments in Parliament?
-
-*2024-11-17 19:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199016) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Anurag Thakur's absence leaves a void in Parliament debates. Opponents may try to disrupt his speeches by pointing out corruption or disorderly conduct. His replacement remains uncertain.
-
-🟩
-
-Opponents can observe the speech of Anuragumara in Parliament. That is why when he speaks, everyone will listen to his speech without making confusion. In the meantime, if anyone tries to confuse his speech, only the strategy of sitting in the seat is to point out the corruption or disorderly activity of the member.. The question of who is going to fill his place in the new Parliament is now.
-
-◼️
-
-[Data](articles/65f7e934.json)
-
-[Extended Data](ext_articles/65f7e934.ext.json)
-
----
-
-### Long distance hypenic missile successfully experiments
-
-*2024-11-17 19:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203471) · `si`
-
-India tests long-range hypersonic missile from Abdul Karm Islands. Defense Minister Rajnath Singh calls it historic opportunity.
-
-🟩
-
-Indian Defense Minister Rajnath Singh has stated that the missile has been conducted from Abdul Karm Islands beyond the state of Ogingha.
-
-He also stated that this is an important historical opportunity for India.
-
-◼️
-
-[Data](articles/41630ae3.json)
-
-[Extended Data](ext_articles/41630ae3.ext.json)
-
----
-
-### Sri Lanka target 210 runs
-
-*2024-11-17 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203470) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka targets 210 runs against New Zealand in the 2nd ODI at Pallekele Stadium. New Zealand bats first, scoring 209/9 in 45 overs. Mark Chapman top scores with 76. Sri Lanka needs 210 to win.
-
-🟩
-
-Sri Lanka - New Zealand's second ODI cricket match will be held at the Pallekele Stadium.
-
-Sri Lanka invited New Zealand to bat first, winning the toss of the match.
-
-The competition was interrupted by rain and decided to limit the match to 47 overs.
-
-Batting first, New Zealand scored 209 runs for the delegation of 45 overs.
-
-Mark Chapman scored 76 runs for the New Zealand team and Mitchell scored 49 runs.
-
-Geoffrey Vandeshe and Mah Mees each took three wickets each.
-
-The Sri Lankan team owned 210 runs in the match.
-
-◼️
-
-[Data](articles/93620669.json)
-
-[Extended Data](ext_articles/93620669.ext.json)
-
----
-
-### Three SriLankan Aircraft to industrial bugs
-
-*2024-11-17 19:16:29* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-ගුවන්-යානා-තුනක්-කාර්මික-දෝෂවලට/11-413107) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-SriLankan Airlines cancels/delays flights due to technical issues. Three aircraft affected. Passengers informed about alternative arrangements. Further cancellations expected after midnight.
-
-🟩
-
-SriLankan Airlines spokesman said that three Sri Lankan aircraft were to canceled and had more flights delayed due to technical faults, due to technical bugs and several other flights were delayed due to technical bugs.
-
-The technical evaluation of the technical evaluation of each aircraft, where there will be a failure to maintain the technical maintenance of certain aircraft.The spokesman added.
-
-Accordingly, 6.35 pm on 11.35 pm on 11.35 pm in India, SriLankan Airlines to leave Sri Lanka - SriLankan Airlike UL to arrive at Chennai at 10.15 pm on 11/17 pm.- 124 flight has been canceled.
-
-In addition to 10.10 pm at New Delhi in India from New Delhi in India at 10.10 pmThe flight has also been canceled.
-
-SriLankan Airlines has taken steps to educate passengers from these aircraft, and the Sri Lankan Airlines, who want to engage in these flights to the destinations, to the destinations.Steps have been taken.
-
-...
-
-[Data](articles/dd00284b.json)
-
-[Extended Data](ext_articles/dd00284b.ext.json)
-
----
-
-### National List of seminar on gas cylinder postponed
-
-*2024-11-17 19:00:25* · [`adalk`](https://www.ada.lk/breaking_news/ගෑස්-සිලින්ඩරයේ-ජාතික-ලැයිස්තු-මන්ත්‍රීධුර-පත්කිරීම-කල්-යයි/11-413106) · `si`
-
-Gas cylinder seminar postponed. New Democratic Front wins 2 national lists. PM Dinesh Gunawardena leads list. Sharmila Perera second. Lists not finalized yet.
-
-🟩
-
-According to internal sources of the party, the new Democratic Front that competed with the gas cylinder, will take some time to name the two national lists.
-
-According to the general election results, the new Democratic Front won two national lists.
-
-Prime Minister Dinesh Gunawardena had been given the first place in the National List of the New Democratic Front. The second place is Mrs. Sharmila Perera, the Secretary General of the New Democratic Front.
-
-However, the party sources said that the new Democratic Front has not yet reached the two national lists of the New Democratic Front.
-
-◼️
-
-[Data](articles/a3c914f5.json)
-
-[Extended Data](ext_articles/a3c914f5.ext.json)
-
----
-
-### Rs. Rs. Here's how the government lost 173
-
-*2024-11-17 18:53:17* · [`adalk`](https://www.ada.lk/breaking_news/රු--මි--173ක්-රජය-අහිමි-කළ-හැටි-මෙන්න/11-413105) · `si`
-
-Sri Lanka loses Rs.173 billion due to neglecting foreign diplomatic missions' maintenance. Government audit recommends accountability. Ministry of External Affairs promises compliance by end of 2023.
-
-🟩
-
-විදේශ දූත මණ්ඩල පවතින රටවල් තුනක ගොඩනැගිලි නඩත්තු නොකිරීමෙන් රුපියල් දාහත් කෝටි තිස්පන් ලක්ෂ තිස්දහස් අටසිය හැත්තෑ පහක (රු.173,537,875) මුදලක් රජයට අහිමි වෙලා
-
-Although the Sri Lankan government belongs to the Sri Lankan government, Sweden and Kenya, which belongs to the Sri Lankan government, and in the year (2023) amounted to Rs.The National Audit Office states.
-
-Audit is recommended that the officers are responsible for not maintaining these assets publications. The main receipt of the Ministry of External Affairs has responded to audit that this is presented before 31st of December this year.
-
-The Ministry of External Affairs had submitted the audit report regarding this to 2023.
-
-◼️
-
-[Data](articles/06913f13.json)
-
-[Extended Data](ext_articles/06913f13.ext.json)
-
----
-
-### The rights of the people should be defended with infinite power
-
-*2024-11-17 18:42:48* · [`adalk`](https://www.ada.lk/breaking_news/අසීමිත-බලය-සමග-ජනතාවගේ-අයිතීන්-ආරක්ෂා-කර-ගත-යුතුයි/11-413103) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Rights protected by infinite government power: democracy safeguarded, people's rights defended. Opposition plays crucial role in fulfilling citizens' rights and preserving democracy.
-
-🟩
-
-The General Secretary of the JVP Ranjith Maddumabandara said that with the unlimited power of the government and the rights of the government should protect the rights of democracy and the rights of the people.
-
-He was speaking at a media briefing held in Colombo today (17). At the same time, Ranjith Madduma Bandara said.
-
-"We are thankful for all those who voted for the protection of voters and democracy to vote for the community and democracy in general. And we thank the security forces of the relevant officers, who have taken the general election. Also, print media, electronic media and social media played a large task to protect the democracy of the country. Also this year, nearly Rs.. Thankfully, we are thankful that people put the people over the reconciliation power.
-
-...
-
-[Data](articles/dd331153.json)
-
-[Extended Data](ext_articles/dd331153.ext.json)
-
----
-
-### Consumer Affairs Authority Investigation Division dissolved
-
-*2024-11-17 18:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203469) · `si`
-
-Consumer Affairs Authority Investigation Division dissolved due to unauthorized appointments. Head removed, inquiry launched.
-
-🟩
-
-The head of the Consumer Affairs Authority (CEB) has been removed and dissolved.
-
-A senior official of the Consumer Affairs Authority stated that the division had been dissolved after he had been appointed as a head of the Consumer Affairs Authority Act.
-
-The relevant appointments have been made without any approval from the Ministry of Finance and Management Services.
-
-The current Chairman of the Consumer Affairs Authority has inquired from the Department of Consumer Affairs and has revealed that there is no approval for such appointment.
-
-The media officer who was appointed to the Consumer Affairs Authority has also been removed by the present Chairman.
-
-The former former commercial minister has been an arbitrary.
-
-The present Chairman has also launched an investigation into the appointments.
-
-◼️
-
-[Data](articles/0b479377.json)
-
-[Extended Data](ext_articles/0b479377.ext.json)
-
----
-
-### Four arrested over abduction linked to ‘Ava’ criminal gang
-
-*2024-11-17 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103567/four-arrested-over-abduction-linked-to-ava-criminal-gang-) · `en`
-
-Police have arrested four suspects in connection with an abduction incident based on information provided by a private informan during a nighttime patrol in the Mattakkuliya area last night (16).
-
-The Police Media Division said the suspects, aged 24, 26, 27, and 32, hail from Pudukudiirippu, Kotahena, Etchilampatru, and Topur areas.
-
-Investigations have revealed that two of them, who are residents of Etchilampatru and Topur, are affiliated with the notorious ‘Ava Group’ criminal gang, known for its involvement in criminal activities in the North and Eastern regions of Sri Lanka.
-
-Further inquiries have uncovered that the other two suspects had returned to Sri Lanka from Dubai last month.
-
-Acting on instructions from a person residing in Dubai, they allegedly brought down the two ‘Ava Group’ gang members from Trincomalee to Mattakkuliya.
-
-...
-
-[Data](articles/7208312d.json)
-
-[Extended Data](ext_articles/7208312d.ext.json)
-
----
-
-### 22 women of women in Parliament
-
-*2024-11-17 18:32:18* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවට-කාන්තා-මන්ත්‍රීවරියන්-22ක්/11-413102) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-22 women elected to Parliament. Harini Amarasuriya wins most votes (655,289). Hazara Liyanage, youngest MP at 26, secures third place in Galle district. Other notable winners include Nilawahachchiya and Lakmali Hemachandra.
-
-🟩
-
-21 of women who represented all parties of the Parliament have won 21. Of these 21 women, 19 men represent the national folk force. Also, one member has also been appointed by the National JOO's national list. Accordingly, the total MPs 22 is 22.
-
-Prime Minister Harini Amarasuriya is the highest number of preferential votes. Accordingly, she has been elected to Parliament with 655,289 preferential votes from the Colombo district. Meanwhile, Hazara Liyanage, who was contesting to the election from the Galle district is. She was a lawyer born in 1995.
-
-She is a member of the Galle District Executive of the National Power and the Galle District Executive She has intervened to empower. She says she joined the national folk force to change the political culture of political culture. She secured the third place in the Galle district listing of 82,058 preferential votes. Accordingly, she is also the youngest MP among MPs who were elected to the Parliament.
-
-...
-
-[Data](articles/58d32065.json)
-
-[Extended Data](ext_articles/58d32065.ext.json)
-
----
-
-### The time correction of the policy statement submitting
-
-*2024-11-17 18:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-அறிக்கை-சமர்ப்பிக்கும்-நேரம்-திருத்தம்/175-347339) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Pres. Anura Dissanayake to submit gov't policy report at 11:30 AM on Nov 21 during 10th Parliament's inaugural session. Report details gov't vision & future initiatives.
-
-🟩
-
-President Anura Dissanayake will submit the government policy report at 11.30 am at the inaugural session of the 10th Parliament on November 21, the Parliamentary Communications Division said.
-
-The opening session of the 10th Parliament will commence on November 21 at 10:00 am and will submit the policy report of the President at 11:30 am that day.
-
-Parliament has earlier announced that it will submit a policy report of the president's government at 3.00 pm on November 21.
-
-According to Article 33 of the Constitution, the President has the power to submit a government policy statement at the beginning of the parliamentary session session. Moreover, according to Article 33 of the Constitution, the President is entitled to head the formal sessions of Parliament.
-
-During this session, the President will provide a detailed explanation of the government's vision and the upcoming initiatives to the Parliament and the public through the policy report.
-
-◼️
-
-[Data](articles/e9eda97e.json)
-
-[Extended Data](ext_articles/e9eda97e.ext.json)
-
----
-
-### Central Bank's reserves up 47 percent
-
-*2024-11-17 18:23:59* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-සංචිත-සියයට-47කින්-ඉහළට/11-413101) · `si`
-
-Central Bank's foreign reserves grew 47% from Dec to Dec. Reserves now at $6.467B, up from $1.854B in July 2022. However, only $5B usable, $1.4B from China. Compared to $25.5B in Bangladesh and $18.4B in Nepal. Strong economies like Japan ($3.239T), US ($953B), Switzerland ($682B) hold significant reserves.
-
-🟩
-
-The Central Bank's foreign reserves have shown a growth of 47% of the foreign reserves of the Central Bank over December to 31st December, Professor Wasantha Athukorala at the University of Peradeniya revealed.Upon inquiry yesterday (17) stated yesterday (17).
-
-Although the Central Bank had a high-end reserve with the Central Bank, it was about $ 7,513 million.
-
-The same value continued to decline and declined to $ 1,854 million in July 2022.
-
-But after July 2022, it was repeatedly increased to $ 4,392 million from December 2023 and up to $ 6,467 million to $ 6,467 million.
-
-However, it is nearly $ 5,000 million as the central bank can be used in fact, as it exists nearly $ 1,400 million from China.
-
-In view of other countries in this region, the central bank of Bangladesh is about $ 25,500 million, and in Nepal, it is US $ 18,400 million.
-
-The professor said China, Japan, Switzerland, as the countries in the world.
-
-...
-
-[Data](articles/af70f164.json)
-
-[Extended Data](ext_articles/af70f164.ext.json)
-
----
-
-### Peace and New Zealand's demand to change the administration of the tribal people
-
-*2024-11-17 18:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/198952) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-New Zealand's ACR party advocates integrating Maori people into mainstream politics without special arrangements, sparking debate over indigenous rights and governance.
-
-🟩
-
-The New Zealand nation is split into two based on arguments. This argument is not lighter. On the one hand. The ACR party, which presents this viewing angle, says that the Maori people should be incorporated into the main political stream without any special arrangements.
-
-◼️
-
-[Data](articles/5423ea48.json)
-
-[Extended Data](ext_articles/5423ea48.ext.json)
-
----
-
-### Two persons arrested with heroin in different parts of Colombo
-
-*2024-11-17 18:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199011) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Colombo: Two arrests made over weekend. Heroin found in Lunawa & Badowatta areas. 210mg & 200mg seized. Investigations ongoing."
-
-🟩
-
-Two persons have been arrested on Saturday (16) with heroin drugs in two other rounds carried out by Colombo and Moratuwa Police Station.
-
-A man was arrested yesterday with heroin in the Lunawa area of ​​the Moratuwa Police Division.
-
-He was arrested on the basis of information received by the Moratuwa Police Station.
-
-210 milligrams of heroin has been seized from the suspect.
-
-Meanwhile, a man was arrested yesterday with heroin in the Badovitta area of ​​the Kalkissa police division.
-
-He was arrested on the basis of information received by the Moratuwa Police Station.
-
-Police have seized 05 grams of 200 milligrams of heroin from the arrested suspect.
-
-Moratuwa and Kalkissa police are conducting further investigations.
-
-◼️
-
-[Data](articles/a179fdc6.json)
-
-[Extended Data](ext_articles/a179fdc6.ext.json)
-
----
-
-### Navy bears a drug transport vehicle
-
-*2024-11-17 18:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203468) · `si`
-
-Sri Lanka Navy seizes 40kg drugs from multi-day vessel, arrests 5 suspects in deep-sea operation 110nm off coast.
-
-🟩
-
-The Sri Lanka Navy has taken a multi-day vessel from a special mission in a deep sea, Navy said.
-
-110 nautical miles (Km) west of Sri Lanka. The special operation was carried out yesterday (16) at the deep sea.
-
-Five suspects have been taken into custody by the Navy, which has 40 kg of drugs on the multi-day fishing vessel.
-
-The multi-day vessels and the suspects have been brought to land on further legal proceedings and the next legal matters.
-
-◼️
-
-[Data](articles/1d50ae6b.json)
-
-[Extended Data](ext_articles/1d50ae6b.ext.json)
-
----
-
-### Upali Samarasinghe becomes Vanni District MP through the National List of National People's Power
-
-*2024-11-17 18:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199012) · `ta`
-
-Upali Samarasinghe named Vanni District MP via National People's Power national list. He was previously the party's Wanni district organizer but didn't contest directly in the Vanni district.
-
-🟩
-
-Upali Samarasinghe has been appointed as a Vanni district parliamentarian through the national bar of the National People's Power.
-
-The National People's Power has released its names of its 18 national lists.
-
-The name of Upali Samarasinghe, the party's Wanni district organizer and party member of the party, who lived in Vavuniya, who failed to compete on behalf of the National People's Power in the Vanni district.
-
-◼️
-
-[Data](articles/d42f6423.json)
-
-[Extended Data](ext_articles/d42f6423.ext.json)
-
----
-
-### A van fires suddenly
-
-*2024-11-17 18:05:15* · [`adalk`](https://www.ada.lk/breaking_news/වෑන්-රථයක්-හදිසියේ-ගිනි-ගනියි/11-413099) · `si`
-
-Van catches fire near Highlight; 5-year-old twins, couple with 2-year-old twins escape; van destroyed; police investigating
-
-🟩
-
-Five-year-old tanks including five-year-old twins, a van, near the Highlight, the van was completely destroyed due to a technical fault on the Highlight.
-
-A couple, a resident of Kalubowila, a temple in Avissawella, with two-year-old twins, was born on a fire in the Clan Kanaha tree near the Highlight area in Pannipitiya.
-
-Later, the driver then stopped the van and dropped the van and dropped, and the police had been arrested and informed of the incident. The police officers later came and import a fire truck in the Kotte Municipal Council, but the fire was damaged by the entire van.
-
-Police say no one has been harmed and the van is completely destroyed. Maharagama is conducting further investigations.
-
-◼️
-
-[Data](articles/ee85a983.json)
-
-[Extended Data](ext_articles/ee85a983.ext.json)
-
----
-
-### IMF agents to visit the island today
-
-*2024-11-17 17:48:18* · [`adalk`](https://www.ada.lk/breaking_news/IMF-නියෝජිත-පරිස-අද-දිවයිනට/11-413098) · `si`
-
-IMF team arrives in Sri Lanka today for loan review. They'll discuss the third comprehensive loan review and fourth installment until July 23.
-
-🟩
-
-A representatives of the 4 year extensive loan facility in Sri Lanka are due to arrive in Sri Lanka today (17). They will be staying in Sri Lanka until July 23.
-
-The third review of comprehensive loans and the fourth installment is due to be discussed with regard to Sri Lanka.
-
-Accordingly, a delegation is due to arrive in Sri Lanka under the patronage of Senior Missions Senior Mission Senior Mission (IMF) under the Extent of the International Monetary Fund.
-
-◼️
-
-[Data](articles/993aad9f.json)
-
-[Extended Data](ext_articles/993aad9f.ext.json)
-
----
-
-### One man arrested with heroin in Kokuvil
-
-*2024-11-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199005) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man (28) arrested with 120mg heroin in Kokuvil. Police acted on intelligence tip. Suspect to be brought to court soon.
-
-🟩
-
-One (28) has been arrested with 120 mg Horoin in Kukkuvil Kulapitti area.
-
-The suspect has been arrested on the basis of confidential information received by the Police Intelligence Unit of the Jaffna District Senior Superintendent of Police, Luen Surya Pandara.
-
-After further investigations, the police are taking steps to bring the suspect in court.
-
-◼️
-
-[Data](articles/ea3ba986.json)
-
-[Extended Data](ext_articles/ea3ba986.ext.json)
 
 ---

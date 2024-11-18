@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 18:22:49**
+As of **2024-11-18 18:39:05**
 
 ## Newspaper Stats
 
@@ -2030,21 +2030,21 @@ ECONOMYNEXT – Sri Lanka President Anura Dissanayake has appointed the followin
 
 Dissanayake retained the posts of Minister of Defence, and Minister of Finance, Planning and Digital Economy.
 
-1. Prime Minister and Minister of Education, Higher Education and Vocational Training – Harini Amarasuriya
+1. Finance, Economic Development and Defence – President Anura Kumara Dissanayake
 
-2. Minister of Foreign Affairs, Foreign Employment and Tourism – Vijitha Herath
+2. Prime Minister and Minister of Education, Higher Education and Vocational Training – Harini Amarasuriya
 
-3. Minister of Public Administration and local government – Chandana Abeyratne
+3. Minister of Foreign Affairs, Foreign Employment and Tourism – Vijitha Herath
 
-4. Minister of Justice and National Integration – Harshana Nanayakkara
+4. Minister of Public Administration and local government – Chandana Abeyratne
 
-6. Minister of Agriculture, Livestock and Land – Don Lalkantha
+5. Minister of Justice and National Integration – Harshana Nanayakkara
 
-7. Minister of urban Development, Construction, Housing – Anura Karunathilaka
+7. Minister of Agriculture, Livestock and Land – Don Lalkantha
 
-8. Minister of Fisheries, Aquatic and Ocean Resources – Ramalingam Chandrasekar
+8. Minister of urban Development, Construction, Housing – Anura Karunathilaka
 
-9. Minister of Rural Development, Social Security and Community Empowerment – Upali Pannilage
+9. Minister of Fisheries, Aquatic and Ocean Resources – Ramalingam Chandrasekar
 
 ...
 

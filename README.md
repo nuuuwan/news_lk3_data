@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 03:25:35**
+As of **2024-11-19 04:00:04**
 
 ## Newspaper Stats
 
-*Scraped **55,664** Articles*
+*Scraped **55,666** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 567
+colombotelegraphcom | 569
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,372
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,664 (100.0%) of 55,664 articles have been extended.
+55,665 (100.0%) of 55,666 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -425,6 +425,18 @@ Based on intelligence received, the Sri Lanka Navy had launched this special ope
 [Data](articles/725062d0.json)
 
 [Extended Data](ext_articles/725062d0.ext.json)
+
+---
+
+### “Verily, We Have Created Man In Struggle”: Struggle Is life, Face It
+
+*2024-11-18 22:05:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/verily-we-have-created-man-in-struggle-struggle-is-life-face-it/) · `en`
+
+The recent election victory of Donald Trump came as a huge surprise to Americans, those on the liberal and leftist side of the political spectrum. Some reacted with intense emotions: tears were shed, declarations of leaving the country were made, and anger was directed at conservatives and anyone who voted for Trump. While this was not the first time, I had witnessed such a visceral reaction to election results, these responses only deepened my appreciation for the values I hold dear—those rooted in faith and spiritual teachings.
+
+...
+
+[Data](articles/51a79292.json)
 
 ---
 
@@ -989,6 +1001,22 @@ And the current government has given two-thirds power by the people of this coun
 [Data](articles/e10de903.json)
 
 [Extended Data](ext_articles/e10de903.ext.json)
+
+---
+
+### Marginalisation Of The Muslim Community In The Newly Appointed Cabinet?
+
+*2024-11-18 17:46:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/marginalisation-of-the-muslim-community-in-the-newly-appointed-cabinet/) · `en`
+
+Today’s (18 November 2024) announcement of Sri Lanka’s new cabinet has sparked widespread disappointment within the Muslim community. For the first time in recent memory, the cabinet has been formed without a single Muslim representative, raising serious questions about inclusivity, equal representation, and the government’s commitment to good governance.
+
+The absence of Muslim ministers in the cabinet is deeply concerning, particularly given the historical importance of having minority representation in decision making bodies. Previous administrations, despite their flaws, acknowledged the importance of including a Muslim minister in the cabinet. For example,even former President Gotabaya Rajapaksa included Ali Sabry in his cabinet – a gesture that, symbolic or otherwise, recognised the need for minority voices in governance.
+
+...
+
+[Data](articles/ea792d9c.json)
+
+[Extended Data](ext_articles/ea792d9c.ext.json)
 
 ---
 
@@ -2357,59 +2385,5 @@ The order has been issued when a fundamental rights petition has been heard toda
 [Data](articles/d27a7916.json)
 
 [Extended Data](ext_articles/d27a7916.ext.json)
-
----
-
-### Bitton Allowed to Ukraine to carry out missiles using missiles inside Russia
-
-*2024-11-18 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199072) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US allows Ukraine to launch missiles inside Russia, focusing on securing Ukrainian troops in the Garks region. This move supports ongoing efforts to control the area.
-
-🟩
-
-US President Jobitton has granted permission to Ukraine to use missiles inside Russia.
-
-For the past few months, Faidan has granted permission for the Ukrainian President ATC AMS missiles to carry out attacks on Russia.
-
-The US has allowed ADCAMS missiles on limited to Russia, considering the security of Ukrainian soldiers in Russia's Garks region.
-
-The US has expressed its support for efforts to continue to capture the small region of the Garks region by giving permission to launch a missile attack inside Russia.
-
-◼️
-
-[Data](articles/d2a69aeb.json)
-
-[Extended Data](ext_articles/d2a69aeb.ext.json)
-
----
-
-### Belief in the cabinet
-
-*2024-11-18 13:11:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කැබිනට්-මණ්ඩලය-ගැන-තැබූ-විශ්වාසය/11-413117) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New cabinet sworn in. President Anura Kumara Dissanayake: "All new faces, but experienced in politics. Expect innovative solutions from this team."
-
-🟩
-
-President Anura Kumara Dissanayake said a number of new examples could be provided to the new cabinet.
-
-He made this statement after the swearing in the new cabinet.
-
-"All you are all new to the cabinet. New to Parliament. But politics is not new. Don't have new work. Therefore, we think that the people will be able to take a number of new examples to this Cabinet. "
-
-◼️
-
-[Data](articles/b6a44730.json)
-
-[Extended Data](ext_articles/b6a44730.ext.json)
 
 ---

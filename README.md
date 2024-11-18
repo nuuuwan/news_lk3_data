@@ -1,36 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 05:50:46**
+As of **2024-11-18 08:07:46**
 
 ## Newspaper Stats
 
-*Scraped **55,483** Articles*
+*Scraped **55,490** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
-colombotelegraphcom | 563
-bbccomsinhala | 565
+colombotelegraphcom | 564
+bbccomsinhala | 566
 islandlk | 3,322
 economynextcom | 3,359
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,196
+adalk | 5,198
 adaderanalk | 6,693
-tamilmirrorlk | 7,859
+tamilmirrorlk | 7,861
 virakesarilk | 9,013
-adaderanasinhalalk | 9,591
+adaderanasinhalalk | 9,592
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,474 (100.0%) of 55,483 articles have been extended.
+55,484 (100.0%) of 55,490 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Heavy rains today
+
+*2024-11-18 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203477) · `si`
+
+Heavy rains forecasted for Northern, Eastern, Western, Sabaragamuwa, Central, Southern, Uva, and North Central provinces. Thunderstorms expected with potential for over 75mm rainfall in some areas. Public advised to take precautions against lightning and strong winds.
+
+🟩
+
+Showers will occur at times in the Northern and Eastern Provinces today (18) and mm. The Met Department forecasts around 50 Heavy rains.
+
+Thundershowers showers or nights in the Western, Sabaragamuwa, Central, Southern, Southern, Uva, Uva, Uva, Uva, Uva, Uva and North Central provinces.
+
+Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Heavy rains experience more than 75.
+
+Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
+
+The Department of Meteorology urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
+
+◼️
+
+[Data](articles/a94b6cfe.json)
+
+[Extended Data](ext_articles/a94b6cfe.ext.json)
+
+---
 
 ### Sustainability Awards 2024 recognises eco-friendly tourism practices
 
@@ -43,6 +69,8 @@ With a focus on sustainable supply chains, the awards honoured companies committ
 ...
 
 [Data](articles/14b57f4f.json)
+
+[Extended Data](ext_articles/14b57f4f.ext.json)
 
 ---
 
@@ -58,6 +86,8 @@ Among the highlights of the evening were the Long Service Awards, recognizing em
 
 [Data](articles/3faaa046.json)
 
+[Extended Data](ext_articles/3faaa046.ext.json)
+
 ---
 
 ### David Pieris Automobiles delivers first set of BAIC X55 SUVs in Sri Lanka
@@ -72,6 +102,8 @@ Earlier this year, DPA announced its strategic partnership with Beijing Automoti
 
 [Data](articles/d18c2a1d.json)
 
+[Extended Data](ext_articles/d18c2a1d.ext.json)
+
 ---
 
 ### Chevron Lanka collaborates with Uber SL
@@ -83,6 +115,8 @@ Chevron Lubricants Lanka PLC (Chevron Lanka), the company that markets and distr
 ...
 
 [Data](articles/e57ee18b.json)
+
+[Extended Data](ext_articles/e57ee18b.ext.json)
 
 ---
 
@@ -124,6 +158,8 @@ The event commenced on November 10th with a high-profile Business Forum at the H
 
 [Data](articles/716b99b7.json)
 
+[Extended Data](ext_articles/716b99b7.ext.json)
+
 ---
 
 ### Will not retire from politics: Mahinda Rajapaksa
@@ -164,6 +200,8 @@ Commenting on the performance, Nihal Jayawardene, Chairman of Hatton National Ba
 
 [Data](articles/6ab7cc05.json)
 
+[Extended Data](ext_articles/6ab7cc05.ext.json)
+
 ---
 
 ### Sunshine Holdings delivers robust performance in 1HFY25
@@ -177,6 +215,8 @@ Gross profit for the period in review increased by 6.2% YoY to Rs. 9.1 billion, 
 ...
 
 [Data](articles/a46a7421.json)
+
+[Extended Data](ext_articles/a46a7421.ext.json)
 
 ---
 
@@ -319,6 +359,76 @@ Due to the lack of an alternative, the people have chosen national power. Even t
 [Data](articles/763bf977.json)
 
 [Extended Data](ext_articles/763bf977.ext.json)
+
+---
+
+### சீனத் தூதுவர் யாழ். விஜயம்
+
+*2024-11-18 02:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனத்-தூதுவர்-யாழ்-விஜயம்/175-347359) · `ta`
+
+ஓராளுமன்றத் தேர்தலின் பின்பு முதலாவது இராஜதந்திரியாக நாளை யாழ்ப்பாணத்துக்கு சீனத் தூதுவர் இரண்டு நாட்கள் விஜயம் மேற்கொள்கின்றார்.
+
+◼️
+
+[Data](articles/b1ad6a3a.json)
+
+---
+
+### වට්ස්ඇප් වංචා: සයිබර් වංචාවලට ඔබ හසුවන හැටි සහ ඒවාට ගොදුරු නොවී ඉන්න හැටි
+
+*2024-11-18 01:54:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgwv87828jo) · `si`
+
+වට්ස්ඇප් වංචා: සයිබර් වංචාවලට ඔබ හසුවන හැටි සහ ඒවාට ගොදුරු නොවී ඉන්න හැටි
+
+එදිනෙදා පණිවුඩ හුවමාරු කර ගැනීම සඳහා අප භාවිත කරන වට්ස්ඇප් යෙදුම අද වන විට නොදැනුවත්ව ම පරිගණක අපරාධකරුවන්ගේ ප්‍රමුඛ මාධ්‍යයක් බවට පත්වීමේ අවදානමක් මතුව තිබේ.
+
+සයිබර් ආරක්ෂණ විශේෂඥයින් පවසන්නේ, මෑතක සිට වට්ස්ඇප් ගිණුම් ඔස්සේ මූල්‍ය වංචා සිදුකිරීමේ ප්‍රවණතාවක් දක්නට ලැබෙන බව ය.
+
+බොහෝවිට වට්ස්ඇප් ගිණුමේ නීත්‍යනුකූල හිමිකරු නොදැනුවත්ව ම එම වංචා සිදුව තිබෙන බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පෙන්වා දෙයි.
+
+මගේ මිතුරකු වන තොරතුරු තාක්ෂණ ක්ෂේත්‍රයේ රැකියාවේ යෙදෙන ධනංජයට මීට දින කිහිපයකට පෙර, ඔහුගේ සමීපතම මිතුරෙකුගෙන් වට්ස්ඇප් පණිවිඩයක් ලැබි තිබුණි. අවම වශයෙන් සතියකට අවස්ථා කිහිපයකදී සිය මිතුරාගෙන් කෙටි පණිවුඩයක් ලැබීම සාමාන්‍ය දෙයක් බැවින් ධනංජය ඔහුට පිළිතුරු පණිවුඩයක් යොමු කර ඇති අතර දෙදෙනාගේ පණිවුඩ හුවමාරුව මිනිත්තු කිහිපයක් පැවතිණි.
+
+...
+
+[Data](articles/2fccbc11.json)
+
+---
+
+### Economic Challenges Of New Government: Road Ahead Not Smooth, But Treacherous
+
+*2024-11-18 01:52:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/economic-challenges-of-new-government-road-ahead-not-smooth-but-treacherous/) · `en`
+
+At the General elections held last week, voters from all over the country have overwhelmingly selected the candidates fielded by President Anura Kumara Dissanayake or AKD as legislators to frame laws for a five-year term. In his journey to presidency, AKD’s supporters sang the theme song of which an appropriate rendering in English will be, ‘Today the whole nation in a single file will hand the country over to Anura to usher prosperity to people’. But the election results showed that it was not in a single file but without the support of the marginalised citizenry from the upcountry, and the north and the east. Like a true statesman, delivering his victory speech at the Elections Secretariat, AKD admitted that he had been endorsed by some sections in society but there are those who had not voted for him. He said that he will serve all the people without any division or discrimination as their President[1].
+
+...
+
+[Data](articles/dbd83f77.json)
+
+---
+
+### Russia missile attack on Ukraine
+
+*2024-11-18 01:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைன்-மீது-ரஷ்யா-ஏவுகணைத்-தாக்குதல்/50-347358) · `ta`
+
+Here's a summary of the Russia-Ukraine conflict in approximately 200 characters:
+
+
+
+"Russia launches missile attacks on Ukraine, targeting power facilities amid winter conditions. Bomb blasts reported in multiple areas, including Kyiv. International media coverage highlights ongoing conflict."
+
+🟩
+
+Russia has reportedly launched massive missile attacks on Ukraine three months later.
+
+International media reports that bomb blasts have been recorded in several areas, including the capital of Ukraine yesterday morning.
+
+With the winter climate in Ukraine, it is reported that the power facilities are being targeted.. (A)
+
+◼️
+
+[Data](articles/615ab2c9.json)
+
+[Extended Data](ext_articles/615ab2c9.ext.json)
 
 ---
 
@@ -569,6 +679,24 @@ Gusal Mendis and Janith Liyanage both tried to restore the team in the 6th wicke
 [Data](articles/da1a6f3a.json)
 
 [Extended Data](ext_articles/da1a6f3a.ext.json)
+
+---
+
+### නවසීලන්තයට එරෙහි එක්දින තරගාවලිය ලංකාව දිනයි
+
+*2024-11-17 23:29:58* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-එක්දින-තරගාවලිය-ලංකාව-දිනයි/9-413108) · `si`
+
+කුසල් මෙන්ඩිස් එක් අන්තයක් ආරක්ෂා කරමින් දියත් කළ සටන්කාමී ඉනිමත් පන්දු යැවීමෙන් මෙන්ම පන්දුවට පහරදීමෙන් මහීෂ් තික්ෂණ දැක්වූ දක්ෂතාවත් සමගින් නවසීලන්තයට ඒරෙහි එක්දින තරගාවලිය තව්ත් තරගයක් ඉතිරිව තිබියදී ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+
+නවසීලන්තය රැස්කළ ලකුණු 209ට පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම කඩුලු තුනක් ඉතිරිව තිබියදි ජය ගැනිමට ශ්‍රි ලංකා කණ්ඩායම සමත්විය.
+
+ශ්‍රි ලංකා ඉනිමේ කඩුලු දැවී යද්දී කුසල් මෙන්ඩිස් සිය අන්තය ආරක්ෂා කරමින් පන්දු 102කදී ‌‌නොදැවී ලකුණු 74ක් රැස් කරමින් ශ්‍රි ලංකා කණ්ඩායමේ  ජය තහවුරු කළේය.
+
+අටවැනි කඩුල්ල වෙනුවෙන් මහීෂ් තීක්ෂණ හා කුසල් මෙන්ඩිස් නොබිඳුණ ලකුණු 47ක සබඳතාවක් පවත්වමින් තරගය ජයග්‍රහණය කළේය.
+
+◼️
+
+[Data](articles/4c49e72c.json)
 
 ---
 
@@ -2227,145 +2355,5 @@ Accordingly, the 18 individuals nominated for the national list seats secured by
 [Data](articles/1d9bf83f.json)
 
 [Extended Data](ext_articles/1d9bf83f.ext.json)
-
----
-
-### Dilith addresses in Parliament
-
-*2024-11-17 15:16:42* · [`adalk`](https://www.ada.lk/breaking_news/දිලිත්-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413087) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dilith Jayaweera, leader of US leaders, enters Parliament via National Visitor Council. Represents Almighty district but party lacks seat.
-
-🟩
-
-Dilita Jayaweera, the Leader of the United States Leaders, Dilith Jayaweera, is due to enter the Parliament by the National Visitor Council.
-
-Dilith Jayaweera represented the Almighty by the district, but the party could not have a seat.
-
-◼️
-
-[Data](articles/76adc4c0.json)
-
-[Extended Data](ext_articles/76adc4c0.ext.json)
-
----
-
-### Decision to appoint Dilith Jayaweera
-
-*2024-11-17 15:12:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திலித்-ஜயவீரவை-நியமிக்கத்-தீர்மானம்/175-347334) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Party appoints Dilith Jayaweera as National List representative despite no general election wins. General secretary made decision allowing single national list seat allocation.
-
-🟩
-
-The general secretary of the party has said that it has decided to appoint its leader Dilith Jayaweera as the representative of the National List of the Alliance.
-
-Despite failing to win any seats in the general election, the party allowed the party to obtain a single national list seat and make this recommendation.
-
-◼️
-
-[Data](articles/8ed69165.json)
-
-[Extended Data](ext_articles/8ed69165.ext.json)
-
----
-
-### Sri Lanka newly elected members asked to submit information to parliament
-
-*2024-11-17 15:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-newly-elected-members-asked-to-submit-information-to-parliament-188303/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly elected members have been asked by the Secretary General Kushani Rohanadeera to submit their details for registration.
-
-An online portal has been provided on the front page of the parliament website.
-
-Information desks will be operated on November 19 and 20 to support new members.
-
-In the current general election, a large number of new members were elected through the National People’s Power which got a two thirds majority.
-
-The Secretary-General of Parliament, Mrs. Kushani Rohanadeera, has announced that in connection with the first Session of the First Sitting of the Tenth Parliament, facilities have been arranged for the Members of Parliament to enter their information through the Parliament website.
-
-...
-
-[Data](articles/054a367c.json)
-
-[Extended Data](ext_articles/054a367c.ext.json)
-
----
-
-### Sri Lanka President to swear in new cabinet Monday morning
-
-*2024-11-17 14:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-to-swear-in-new-cabinet-monday-morning-188291/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake will swear in a new cabinet at 10.00 am on Monday, his media office said.
-
-Both cabinet and deputy ministers will take oaths, the statement said.
-
-The NPP has said it will not appoint so-called ‘state ministers’ but deputy ministers.
-
-General Secretary of the Janatha Vimukthi Peramuna, Tilvin Silva said after winning the general elections that the NPP they may appoint one or two less that the 25 cabinet ministers permitted by the constitution.
-
-Over time the NPP would look at reducing the ministries, he said.
-
-But ministries that require extensive work such as agriculture and land may get more than one deputy minister, he said.
-
-The National Peoples’ Power swept the general election and won more than two thirds of the seats in the parliament. (Colombo/Nov17/2024)
-
-◼️
-
-[Data](articles/5d64d511.json)
-
-[Extended Data](ext_articles/5d64d511.ext.json)
-
----
-
-### Celebration of the National People's Power
-
-*2024-11-17 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198993) · `ta`
-
-National People's Power wins 159 seats in Sri Lanka's 10th parliamentary election. Supporters celebrate victory outside Nanuoya Despees Grimity Temple. Party leader thanks voters; many members attend celebration.
-
-🟩
-
-In Sri Lanka's 10th parliamentary election, the National People's Power won 159 seats and held a historic record in the Nanuoya Grimity area.
-
-On Saturday evening (16), the supporters of the National People's Power delivered the public to the public in front of the Nanuoya Despees Grimity Temple.
-
-Mukkaya Bhaskar, a member of the National People's Power Executive Committee and Nuwara Eliya district organizer, thanked those who voted for the election.
-
-In addition, a large number of party members and supporters living in the area participated in the event.
-
-◼️
-
-[Data](articles/75ff8db8.json)
-
-[Extended Data](ext_articles/75ff8db8.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-11-17 14:18:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413086) · `si`
-
-Sri Lanka wins coin toss, decides to bat first in 2nd ODI against Sri Lanka today.
-
-🟩
-
-The second ODI match between Sri Lanka and Sri Lanka will be held today (17).
-
-Sri Lanka captain Charith won the coin first, decided to bowl first.
-
-◼️
-
-[Data](articles/b3526b7e.json)
-
-[Extended Data](ext_articles/b3526b7e.ext.json)
 
 ---

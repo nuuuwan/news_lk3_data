@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 22:16:49**
+As of **2024-11-18 22:41:29**
 
 ## Newspaper Stats
 
-*Scraped **55,634** Articles*
+*Scraped **55,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,222
-adaderanalk | 6,718
+adalk | 5,223
+adaderanalk | 6,719
 tamilmirrorlk | 7,880
 virakesarilk | 9,043
 adaderanasinhalalk | 9,620
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,634 (100.0%) of 55,634 articles have been extended.
+55,636 (100.0%) of 55,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Over 46kg heroin found in fishing trawler intercepted on high seas; 5 arrested
+
+*2024-11-18 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103596/over-46kg-heroin-found-in-fishing-trawler-intercepted-on-high-seas-5-arrested) · `en`
+
+The Sri Lanka Navy says that more than 46kg of heroin with an estimated street value exceeding Rs. 1,152 million was found inside a local multi-day fishing trawler intercepted during a special operation on the high seas about 110 nautical miles (200km) west of Sri Lanka.
+
+The operation, conducted by SLNS Nandimithra, resulted in the apprehension of 05 suspects linked to the illicit activity, the navy said.
+
+Upon escorting the vessel to Galle Harbour, a detailed inspection uncovered approximately 46kg and 116g of heroin, concealed in 40 parcels packed into 02 sacks. The seized narcotics are estimated to have a street value exceeding Rs. 1152 million.
+
+Based on intelligence received, the Sri Lanka Navy had launched this special operation, deploying SLNS Nandimithra to intercept the suspicious local multi-day fishing trawler on the high seas west of Sri Lanka on Saturday (16).
+
+...
+
+[Data](articles/725062d0.json)
+
+[Extended Data](ext_articles/725062d0.ext.json)
+
+---
 
 ### Ravi's name gazetted as a National List MP
 
@@ -459,6 +479,36 @@ Weligama Police Ground, Dikwella Police Ground, Mirissa Fisheries Harbor, Tevinu
 [Data](articles/5d727dd8.json)
 
 [Extended Data](ext_articles/5d727dd8.ext.json)
+
+---
+
+### If the government goes on the wrong road, we stand up against us
+
+*2024-11-18 17:48:42* · [`adalk`](https://www.ada.lk/breaking_news/රජය-වැරදි-පාරේ-යනවානම්-අපි-විරුද්ධව-නැගී-සිටිනවා/11-413128) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+UNP MP SM Pekar criticizes govt over broken election promises. Calls for opposition to fulfill democratic duties without harming economy. Emphasizes need to address people's needs and implement positive change.
+
+🟩
+
+UNP MP SM Pekar said that the current government's promises made through the election platform via the main opposition of the new Parliament is the function of the new Parliament.
+
+He was speaking at a media briefing held at the Head Office of the Head Office today (18).
+
+Speaking further MP SM Junkar said so.
+
+"At the Parliamentary Election held on the 14th, we would like to thank the people who voted for the vote of the Sinhalese camp at the 14th.. We should thank those who understand the need for representatives of opinion in democracy.
+
+And the current government has given two-thirds power by the people of this country. We need to respect that popular view. Our maintenance is the main group of two-thirds of the main opposition, the current president has achieved a large number of promises that the people of this country have experienced the people and still suffering.
+
+...
+
+[Data](articles/e10de903.json)
+
+[Extended Data](ext_articles/e10de903.ext.json)
 
 ---
 
@@ -2545,57 +2595,5 @@ Ananda Wijebala - Public Security and Parliamentary Affairs Minister
 [Data](articles/5193fd41.json)
 
 [Extended Data](ext_articles/5193fd41.ext.json)
-
----
-
-### The young man's claim is clowns
-
-*2024-11-18 10:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளங்குமரனின்-கூற்று-கோமாளித்தனமானது/175-347366) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lankan MP Geetanath Kasilingam criticizes colleague Ilangumaran's stance on parliamentary perks, urging focus on public service over personal opinions.
-
-🟩
-
-Geetanath Kasilingam, Chief Organizer of the Jaffna District of Sri Lanka PA, said that the concession on the concession of the newly elected National People's Power from the Jaffna District Ilangumaran is commanding.
-
-He made the allegation in a press release issued on Monday (18) on the comments of MP Ilangumaran that he would not get any concessions for MPs.
-
-Geetanath said that this claim is one of the clowns. The government's offer and allowances are aimed at serving the people.
-
-Avoiding these privileges in any way, the country's economy or income is not going to be raised.
-
-So use these offers and allowances to serve people. Although it is your choice to get and avoid these concessions, the people of Jaffna Kilinochchi Election District have elected you as a Member of Parliament by your confidence in your confidence.. People expect the problems and needs of the people to recognize that responsibility and provide them with a solution.
-
-...
-
-[Data](articles/4ced2f7b.json)
-
-[Extended Data](ext_articles/4ced2f7b.ext.json)
-
----
-
-### Dr. Nalinda Jayatissa as Minister of Health and Media
-
-*2024-11-18 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199051) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Nalinda Jayatissa appointed Minister of Health & Media. Sworn in by President Anura Kumara Dissanayake.
-
-🟩
-
-Dr. Nalinda Jayatissa was sworn in as the Minister of Health and Media in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/27049aa1.json)
-
-[Extended Data](ext_articles/27049aa1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 13:00:07**
+As of **2024-11-18 12:42:03**
 
 ## Newspaper Stats
 
-*Scraped **55,553** Articles*
+*Scraped **55,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,208
 adaderanalk | 6,703
 tamilmirrorlk | 7,869
-virakesarilk | 9,028
-adaderanasinhalalk | 9,605
+virakesarilk | 9,025
+adaderanasinhalalk | 9,602
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,546 (100.0%) of 55,553 articles have been extended.
+55,545 (100.0%) of 55,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල නිකුත් කිරීම වළක්වාලමින් අතුරු තහනම් නියෝගයක්
-
-*2024-11-18 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203491) · `si`
-
-පසුගියදා අවසන් වූ පහ වසර ශිෂ්‍යත්ව විභාගයේ ප්‍රතිඵල නිකුත් කිරීම වළක්වාලමින් ශ්‍රේෂ්ඨාධිකරණය අද (18) අතුරු තහනම් නියෝගයක් නිකුත් කළේය.
-
-එම ශිෂ්‍යත්ව විභාගය පැවති ආකාරය අභියෝගයට ලක් කරමින් ඊට සහභාගී වූ සිසුන් සහ ඔවුන්ගේ දෙමව්පියන් පිරිසක් විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සම් සලකා බැලීමෙන් අනතුරුව මෙම නියෝගය නිකුත් කෙරුණි.
-
-ප්‍රීති පද්මන් සූරසේන, අචල වෙංගප්පුලි සහ මහින්ද සමයවර්ධන යන මහත්වරුන්ගෙන් සමන්විත ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල විසින් මෙම නියෝගය නිකුත් කළහ.
-
-◼️
-
-[Data](articles/48d83a1f.json)
-
----
-
-### සුජීව සේනසිංහ ගේ V8 රථය - රස පරීක්ෂකට සිහිකැඳවීමක්
-
-*2024-11-18 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203490) · `si`
-
-නීතිවිරෝධීව එකලස් කළා යැයි චෝදනා එල්ල වී ඇති සුජීව සේනසිංහ මහතාගේ රුපියල් කෝටි දහයක් පමණ වටිනා V8 වර්ගයේ සුඛෝපභෝගී මෝටර් රථය සම්බන්ධ රස පරීක්ෂක වාර්තාව අද (18) අධිකරණයට ලැබී නොමැති බැවින් රස පරීක්ෂකවරයා වෙත සිහිකැඳවීමේ ලිපියක් නිකුත් කිරීමට කොටුව මහෙස්ත්‍රාත් තනුජා ලක්මාලි මහත්මිය නියෝග කර ඇති බව වාර්තා විය.
-
-එහිදී සුජීව සේනසිංහ මහතා වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ මෛත්‍රී ගුණරත්න මහතා ප්‍රකාශ කර ඇත්තේ මෙම වාහනය සම්බන්ධයෙන් සෙට්ටිකුලම අධිකරණයේ නඩුවක් විභාග වන බවට අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව පෙර දිනයේ කරුණු දක්වා ඇතත් එම නඩුව මේ වනවිටත් අවසන් වී ඇති බවයි.
-
-ඒ හේතුවෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ භාරයේ තිබෙන මෙම ප්‍රශ්නගත වාහනය සුජීව සේනසිංහ මහතාට නිදහස් කරන ලෙසද එහිදී ජනාධිපති නීතිඥවරයා ඉල්ලීමක් කර තිබුණි.
-
-කරුණු සලකාබැලීමෙන් අනතුරුව රස පරීක්ෂක වාර්තාව ලැබී නොමැති බැවින් ලබන 25 වනදා සිද්ධිය සම්බන්ධ නඩුකරය නැවත කැඳවීමට කොටුව මහෙස්ත්‍රාත්වරිය නියෝග කළාය.
-
-◼️
-
-[Data](articles/89f97966.json)
-
----
 
 ### President allays fears over ‘absolute power’, urges new Cabinet to deliver on promises
 
@@ -79,74 +45,6 @@ Highlighting the historic nature of the victory that brought the incumbent admin
 ...
 
 [Data](articles/a4179467.json)
-
----
-
-### ලොහාන් සහ ශෂී නැවතත් රිමාන්ඩ්
-
-*2024-11-18 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203489) · `si`
-
-නීතිවිරෝධීව එකලස් කරන ලද මෝටර් රථයක් භාවිත කිරීමේ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාර ගතකර සිටින හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්තේ හා ඔහුගේ බිරිඳගේ ඇප ඉල්ලීම නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය අද යළිත් වරක් ප්‍රතික්ෂේප කළේය.
-
-ඒ අනුව හිටපු රාජ්‍ය අමාත්‍යවරයා දෙසැම්බර් 02 වනදා දක්වාත් ඔහුගේ බිරිය නොවැම්බර් 22 වනදා දක්වාත් තවදුරටත් රක්ෂිත බන්ධනාගාර ගත කෙරුණි
-
-හිටපු රාජ්‍ය අමාත්‍ය ලොහාන් රත්වත්ත මහතාගේ බිරිඳ වන ශෂී ප්‍රභා රත්වත්තේ මහත්මියට අයත් මිරිහාන ඇඹුල්දෙණිය සාලාව පාරේ තෙමහල් නිවසක අංක තහඩු නොමැති සුඛෝපභෝගී මෝටර් රථයක් ගාල්කර තිබියදී පසුගියදා සොයාගැනුණි.
-
-ඒ අනුව මිරිහාන පොලිසිය අදාළ රථය සම්බන්ධයේන සිදුකළ විමර්ශනවලදී අනාවරණ වී තිබුණේ එය නීතිවිරෝධීව එකලස් කරන ලද මෝටර් රථයක් බවයි.
-
-එම මෝටර් රථය භාවිත කිරීමේ චෝදනාවට පසුගිය ඔක්තෝබර් 30 වනදා ලොහාන් රත්වත්තේ මහතාව කටුගස්තොටදී, මිරිහාන පොලිසිය මගින් අත්අඩංගුවට ගෙන අධිකරණයට ඉදිරිපත් කිරීමෙන් පසු නොවැම්බර් 7 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගතකළේය.
-
-...
-
-[Data](articles/ee29477a.json)
-
----
-
-### 2024 தேர்தலில் டிஜிட்டல் தளங்கள் ஜனநாயகத்தை எவ்வாறு மீள்வரையறை செய்கின்றன
-
-*2024-11-18 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199067) · `ta`
-
-ஜனநாயகத்தின் மீது டிஜிட்டல் தளங்களின் செல்வாக்கானது குறிப்பாக 2024 இல் தீவிரமானதுடன் பல்துறை சார்ந்ததாகும். அரசியல் பரப்பு வியத்தகு முறையில் மாறியுள்ளதுடன், வேட்பாளர்கள் சமூக ஊடக தளங்களில் தங்களது இருப்பை நிலைநிறுத்தி பேணுவதை தேவைப்படுத்துகின்றது. இது அரசியல் உரையாடலுக்காக இலத்திரனியல் மற்றும் அச்சு ஊடகங்களை பாரம்பரியமாக நம்பியிருப்பதில் இருந்து படிப்படியாக மாற்றமடைவதைக் குறிக்கின்றது.
-
-◼️
-
-[Data](articles/0dd4050e.json)
-
----
-
-### வாழைக்குலையால் வந்த வினை : இரு பிள்ளைகளின் தந்தை அடித்துக்கொலை !
-
-*2024-11-18 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199057) · `ta`
-
-மாத்தளை, இரத்தோட்டை, நாகுலியத்த பிரதேசத்தில் பொல்லால் தாக்கப்பட்டு  ஒருவர் கொலை செய்யப்பட்டுள்ளதாக இரத்தோட்டை பொலிஸார் தெரிவித்தனர்.
-
-இரத்தோட்டை, நாகுலியத்த பிரதேசத்தைச் சேர்ந்த 46 வயதுடைய இரண்டு பிள்ளைகளின் தந்தையொருவரே கொலை செய்யப்பட்டுள்ளார்.
-
-ஆயிரம் ரூபா பெறுமதியான வாழைக்குலையை திருடிய சம்பவம் தொடர்பில் கொலை செய்யப்பட்டவருக்கும் அயல் வீட்டவருக்கும் இடையில் ஏற்பட்ட வாக்குவாதம் எல்லை மீறியதால்  இந்தக் கொலை இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இந்த கொலை சம்பவம் தொடர்பில், வாழைக்குலையை திருடியதாக சந்தேகிக்கப்படும் அயல் வீட்டவர் சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக பொலிஸாார் தெரிவித்தனர்.
-
-◼️
-
-[Data](articles/885bb665.json)
-
----
-
-### க.பொ.த. உயர்தர பரீட்சைக்கான மேலதிக வகுப்புகள் நாளை நள்ளிரவுடன் நிறைவு!
-
-*2024-11-18 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199053) · `ta`
-
-கல்விப் பொதுத் தராதர உயர்தர பரீட்சைக்கான மேலதிக வகுப்புகள் மற்றும் கருத்தரங்குகள் நாளை செவ்வாய்க்கிழமை (19)  நள்ளிரவுடன் நிறைவடைய வேண்டும் என பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-இந்த ஆலோசனைகளை பின்பற்றாதவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் எனவும் எச்சரிக்கை விடுக்கப்பட்டுள்ளது.
-
-2024 ஆம் ஆண்டுக்கான க.பொ.த. உயர்தர பரீட்சை எதிர்வரும் 25 ஆம் திகதி முதல் டிசம்பர் 20 ஆம் திகதி வரை நடைபெறவுள்ளது.
-
-இதேவேளை, 333,185 மாணவர்கள் பரீட்சார்த்திகளாக பதிவு செய்துள்ள நிலையில் அவர்களில் 253,390 பாடசாலை பரீட்சார்த்திகளும் 79,795 தனியார் பரீட்சார்த்திகளும் ஆவர்.
-
-◼️
-
-[Data](articles/475cf0c9.json)
 
 ---
 
@@ -1229,8 +1127,6 @@ To achieve the SEC’s objectives three pronged set of plans are being finalized
 ...
 
 [Data](articles/319a4aa5.json)
-
-[Extended Data](ext_articles/319a4aa5.ext.json)
 
 ---
 
@@ -2323,5 +2219,161 @@ Gotabhaya Rajapakse's false political decisions, which came to power in 2020, ha
 [Data](articles/3814aa90.json)
 
 [Extended Data](ext_articles/3814aa90.ext.json)
+
+---
+
+### Harsha de Silva to continue the new political and cultural change made by the people - Harsha de Silva
+
+*2024-11-17 22:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199003) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Harsha de Silva vows to support ongoing political and cultural changes. He thanks Colombo voters for increased support, promising to combat corruption and explain economic issues. As Opposition MP, he'll work towards fulfilling public aspirations.
+
+🟩
+
+All the people of the country, the North, South and the hill country, have given the president the power to create a developed country. Dr. Harsha de Silva said that it has decided to cooperate to continue this new political and cultural change by the people.
+
+He added: “I thank the people of Colombo for giving me twice as much preferential votes than the last election.. I see this as a welcome welcome among the people in Parliament.. I will continue to fight corruption and clarify the people on economic on the economic.. This is a new culture. I have decided to give full cooperation to fulfill the aspirations of the people as an Opposition MP.. "I am ready to continue this new political and cultural change that people have made."
+
+◼️
+
+[Data](articles/70a306e4.json)
+
+[Extended Data](ext_articles/70a306e4.ext.json)
+
+---
+
+### 18 doctors elected to Parliament
+
+*2024-11-17 22:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199023) · `ta`
+
+18 doctors elected to Parliament out of 225 members. 16 represent national power party. 2 from other parties: Sri Lanka Tamil National Party and Independent Committee.
+
+🟩
+
+Of the 225 members who have been elected to the country's tenth parliament, are included in 18 doctors. Of these, 16 represent the national power.
+
+Dr. Mohamed Rizvi Sali, Dr. Chrishantha Silva Abeysena, Dr. Nihal Abeysinghe, Dr. Nalinda Jayatissa, Dr. Nishantha Samaraweera, Dr.Dr. Prasanna Gunasena, Dr. Madura Seneviratne, Dr. PH Dhammika and Dr. Sri Bhavananda Raja have been elected to Parliament on behalf of the national people's power.
+
+Dr. Ilayadambi Srinath, who contested on behalf of the Sri Lanka Tamil National Party, and Dr. Ramanathan Aksna, who contested on behalf of the Independent Committee.
+
+◼️
+
+[Data](articles/46f941da.json)
+
+[Extended Data](ext_articles/46f941da.ext.json)
+
+---
+
+### IMF team arrives in Sri Lanka for third review under EFF program
+
+*2024-11-17 21:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103569/imf-team-arrives-in-sri-lanka-for-third-review-under-eff-program) · `en`
+
+A team from the International Monetary Fund (IMF), led by its Senior Mission Chief for Sri Lanka Peter Breuer, has arrived in Sri Lanka this evening (17).
+
+The team will remain in in the country until November 23 and during their stay will conduct the third review of Sri Lanka’s economic reform program supported by the IMF’s Extended Fund Facility (EFF).
+
+The team, led by IMF Senior Mission Chief Peter Breuer, will assess Sri Lanka’s economic policies, progress on ongoing reforms, and the implementation of previous agreements with the IMF.
+
+Upon successful completion of the review, the IMF is expected to release the next tranche of the bailout to Sri Lanka. The IMF had approved a 2.9-billion-dollar Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+
+...
+
+[Data](articles/6fe125f7.json)
+
+[Extended Data](ext_articles/6fe125f7.ext.json)
+
+---
+
+### Awa members arrested for intimidating
+
+*2024-11-17 21:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டிக்டொக்கில்-மிரட்டிய-ஆவா-உறுப்பினர்கள்-கைது/175-347353) · `ta`
+
+"Awa" gang members arrested for intimidation in Mattakkuli. Four suspects, including two from Jaffna-based gang, detained over threats and attacks. Investigation reveals connections to Northeast crimes and involvement of individuals from Dubai.
+
+🟩
+
+Four suspects have been arrested in the Mattakkuli area, including two members of the Jaffna -based 'Awa' gang, in connection with the threat and attacks.
+
+They have been arrested following confidential information received from an individual on the possibility of a kidnapping incident.
+
+During the investigation, it was revealed that the suspects from Eichilampattu and Thoopur were involved in the 'Ava' gang involved in crimes in the Northeast.
+
+While the other two suspects have recently visited Sri Lanka from Dubai, a person living in Dubai has been advised to bring 'Ava' gang members from Trincomalee to Mattakkuli.
+
+It was also revealed that the suspects were intimidated by the Dubchi man in Dubai.
+
+During further inquiries into their phones, it was revealed that the two men from the 'Awa' gang have been brought to Mattakkuli by a woman and later beaten to the man in Dubai.
+
+The suspects, aged 24, 26, 27 and 32, have been identified as Pudukkudiyiruppu, Kottanchenai, Eichilampattu and Toppur.
+
+◼️
+
+[Data](articles/a238a418.json)
+
+[Extended Data](ext_articles/a238a418.ext.json)
+
+---
+
+### Yall. More than 500 soldiers are isolation at the main street Periyamadu Commando Army Training Camp
+
+*2024-11-17 21:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199020) · `ta`
+
+Over 500 soldiers isolated at Periyamadu Commando Army Training Camp due to brain fever outbreak. Admitted to Mannar District General Hospital. Training halted temporarily.
+
+🟩
+
+More than 500 soldiers have been isolated at the Periyamadu Commando Army Training Camp, Mannar - Jaffna main road.
+
+They were admitted to the Mannar District General Hospital after some of the soldiers involved in training in the training camp.
+
+During the medical examination, they were diagnosed with brain fever.
+
+This was confirmed by Dr. Azad M Haneefa, the medical superintendent of the Mannar District General Hospital.
+
+It is reported that more than 500 soldiers have been isolated from the training camp for the medical party to stop the training camp.
+
+◼️
+
+[Data](articles/346dd4a5.json)
+
+[Extended Data](ext_articles/346dd4a5.ext.json)
+
+---
+
+### Tourism in Galle pressurizes cattle and dogs
+
+*2024-11-17 21:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203473) · `si`
+
+Galle tourism pressures stray animals. Residents demand action against wandering cows and dogs in the fort and city. With 1.6 million tourists in 2024 and 250,000 target for next year, locals fear losing control over their environment in this popular tourist spot.
+
+🟩
+
+The people point out that tourists come to Galle, Galle and dogs, strayed in the Galle Fort and in the city.
+
+They say that the authorities should take steps to provide immediate solutions to such problems when it comes to tourism.
+
+According to the Tourism Development Authority, the number of tourist arrivals to the island in 2024 was 1,682,482.
+
+There are 61,767 tourists in the first 10 days of November.
+
+The tourism development authority predicts that the arrival of the European tourist arrivals to the beginning of the winter.
+
+The Government's goal is to bring down 2.5 million tourists next year.
+
+In such an environment, the residents of the area is embarrassing in the South Lake City of Galle, the world's leading tourist destinations as a leading tourist destination in Sri Lanka.
+
+The threat from cows and dogs that are strayed in the Galle Fort and the city.
+
+They urge authorities to solve the problem with immediate solutions.
+
+◼️
+
+[Data](articles/b192c978.json)
+
+[Extended Data](ext_articles/b192c978.ext.json)
 
 ---

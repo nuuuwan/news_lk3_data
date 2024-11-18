@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 20:25:49**
+As of **2024-11-18 21:00:45**
 
 ## Newspaper Stats
 
-*Scraped **55,624** Articles*
+*Scraped **55,628** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 431
+dbsjeyarajcom | 432
 colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,219
-adaderanalk | 6,717
+adalk | 5,221
+adaderanalk | 6,718
 tamilmirrorlk | 7,880
 virakesarilk | 9,043
 adaderanasinhalalk | 9,615
@@ -26,11 +26,23 @@ adaderanasinhalalk | 9,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,624 (100.0%) of 55,624 articles have been extended.
+55,626 (100.0%) of 55,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Gazette issued declaring Ravi Karunanayake as NDF’s National List MP
+
+*2024-11-18 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103595/gazette-issued-declaring-ravi-karunanayake-as-ndfs-national-list-mp) · `en`
+
+The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the general election under the ‘Gas Cylinder’ symbol.
+
+◼️
+
+[Data](articles/2f9a6edc.json)
+
+---
 
 ### The first foreign trip of the president
 
@@ -364,6 +376,18 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 
 ---
 
+### අගමැතිනිය වැඩ භාර ගනියි
+
+*2024-11-18 17:41:45* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිය-වැඩ-භාර-ගනියි/11-413127) · `si`
+
+නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් ආචාර්ය හරිනි අමරසූරිය මහත්මිය මල්පාරේ පිහිටි අග්‍රාමාත්‍යක කාර්යාලයේදී ඇය සිය ධුරයේ වැඩ භාර ගත්තාය. ඇය මෙරට 17 වන අග්‍රාමාත්‍යවරිය වන අතර අග්‍රාමාත්‍යධුරයට පත්වූ තෙවැනි කාන්තාව වෙයි.
+
+◼️
+
+[Data](articles/dbcba36e.json)
+
+---
+
 ### Allu Arjun's 'Pushpa 2' has preceded the internet
 
 *2024-11-18 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199104) · `ta`
@@ -531,6 +555,32 @@ Similarly, even if we vote for the party other than voting for us, we are expect
 [Data](articles/15da154b.json)
 
 [Extended Data](ext_articles/15da154b.ext.json)
+
+---
+
+### It is thought that the ministry does not increase when internal problems occur
+
+*2024-11-18 17:17:59* · [`adalk`](https://www.ada.lk/breaking_news/අභ්‍යන්තර-ගැටලු-ඇතිවන-විට-ඇමතිධුර-වැඩි-කර-නොගනීවි-යැයි-සිතනවා/11-413125) · `si`
+
+Namal Rajapaksa criticizes government interference in popular movements. He accuses the ruling party of racism and nationalism. The opposition expects fewer ministerial positions without increasing the number of ministries.
+
+🟩
+
+The National Organizer of the Sri Lanka Known Opposition Namal Rajapaksa says that all the government does not interfere with the government's populiary without interrupting the government.
+
+He further stated that the Messianic Politica, who was present to Kandy, said that he was a Rajapaksa politician and that one was unable to quit politics. It is said that Phananemal Rajapaksa is a racist non-nationalist party to the unity of the Common Federation of Lanka Front.
+
+He said that his party was underway in the recent past, he said that the party was subdued in the global and regional political climate, he said.
+
+He said that the precepts of the Tharma, Anuradha and Chamaka, who represented the precepts of the opposition to work together, said that it would not be hurrasing to work and invite the parliamentary packets..
+
+The present government is expected to restrict ministerial posts and that the government is expecting the government without increasing the ministries.
+
+◼️
+
+[Data](articles/e7a3b807.json)
+
+[Extended Data](ext_articles/e7a3b807.ext.json)
 
 ---
 
@@ -2513,71 +2563,5 @@ Dissanayake retained the posts of Minister of Defence, and Minister of Finance, 
 [Data](articles/9d5a62be.json)
 
 [Extended Data](ext_articles/9d5a62be.ext.json)
-
----
-
-### Dr. Harini Amarasuriya re-appointed Prime Minister
-
-*2024-11-18 10:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103576/dr-harini-amarasuriya-re-appointed-prime-minister) · `en`
-
-Dr. Harini Amarasuriya was sworn-in before President Anura Kumara Dissanayake as the Prime Minister of Sri Lanka, a short while ago.
-
-The swearing-in ceremony of the Cabinet of Ministers is currently underway at the Presidential Secretariat in Colombo.
-
-She has also been appointed as the Minister of Education, Higher Education and Vocational Education.
-
-◼️
-
-[Data](articles/f194324c.json)
-
-[Extended Data](ext_articles/f194324c.ext.json)
-
----
-
-### Sri Lanka’s new Cabinet of Ministers sworn in
-
-*2024-11-18 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103575/sri-lankas-new-cabinet-of-ministers-sworn-in) · `en`
-
-The new Cabinet of Ministers of the National People’s Power (NPP) government were sworn in before President Anura Kumara Dissanayake, a short while ago.
-
-The swearing-in ceremony was held at the Presidential Secretariat in Colombo this morning (18).
-
-The new Cabinet of Ministers comprises of 21 Ministers including the Prime Minister while the new Deputy Ministers will reportedly be appointed later on.
-
-Accordingly, the new Cabinet will be limited to 21 Ministers, whereas President Anura Kumara Dissanayake will retain the ministerial portfolios of Defence, Finance, Planning, Economic Development and Digital Economy, according to the President’s Media Division (PMD).
-
-PM Dr. Harini Amarasuriya – Minister of Education, Higher Education and Vocational Education
-
-Vijitha Herath – Minister of Foreign Affairs, Foreign Employment and Tourism
-
-Prof. Chandana Abeyrathna - Minister of State Administration, Provincial Councils and Local Government
-
-...
-
-[Data](articles/0aa500e3.json)
-
-[Extended Data](ext_articles/0aa500e3.ext.json)
-
----
-
-### New government Cabinet sworn in
-
-*2024-11-18 10:08:12* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-අමාත්‍ය-මණ්ඩලය-දිවුරුම්-දෙයි/11-413113) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"New cabinet sworn in; Kumara Dissanayake accuses government."
-
-🟩
-
-The new Government Cabinet was accused before Kumara Dissanayake.
-
-◼️
-
-[Data](articles/42dc0b2c.json)
-
-[Extended Data](ext_articles/42dc0b2c.ext.json)
 
 ---

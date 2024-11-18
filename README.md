@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 23:42:11**
+As of **2024-11-19 01:25:33**
 
 ## Newspaper Stats
 
-*Scraped **55,645** Articles*
+*Scraped **55,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,37 +14,205 @@ colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,372
-dailyftlk | 3,795
+dailyftlk | 3,802
 dailymirrorlk | 4,733
 adalk | 5,223
 adaderanalk | 6,720
-tamilmirrorlk | 7,881
+tamilmirrorlk | 7,882
 virakesarilk | 9,043
-adaderanasinhalalk | 9,620
+adaderanasinhalalk | 9,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,637 (100.0%) of 55,645 articles have been extended.
+55,654 (100.0%) of 55,655 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-11-19 (Tuesday)
+
+### President - IMF. Meeting between representatives
+
+*2024-11-19 00:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஐ-எம்-எப்-பிரதிநிதிகள்-இடையே-சந்திப்பு/175-347406) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+IMF reps meet Pres. Dissanayake & new ministers. Discuss next IMF program phase. Pres. emphasizes public trust & social service spending. IMF notes underutilized social funds allocation.
+
+🟩
+
+The International Monetary Fund Representatives and its Senior Ambassador Peter Broar met with President Anura Kumara Dissanayake and the new ministers at the Presidential Secretariat yesterday afternoon to discuss the next phase of the program implemented by the International Monetary Fund.
+
+President Anura Kumara Dissanayake reunited with his government's mandate to retrieve Sri Lanka's economy in cooperation with the International Monetary Fund.
+
+The International Monetary Fund's delegation congratulated the president and the team for a decisive election victory and said they were expecting to work in cooperation with the new government.
+
+President Anura Kumara Dissanayake stressed that the success of the International Monetary Fund program depends on the building of the public's confidence in the existing regime.
+
+...
+
+[Data](articles/ef4a3f19.json)
+
+[Extended Data](ext_articles/ef4a3f19.ext.json)
+
+---
+
+### SC extends interim order protecting Wedithalathive Nature Reserve following WNPS legal action
+
+*2024-11-19 00:24:06* · [`dailyftlk`](https://www.ft.lk/news/SC-extends-interim-order-protecting-Wedithalathive-Nature-Reserve-following-WNPS-legal-action/56-769391) · `en`
+
+In an action filed by the Wildlife and Nature Protection Society (WNPS) bearing case no. SCFR 154/2024 filed on 5 June 2024, the Supreme Court of Sri Lanka granted an interim order staying a decision made by the Government to reduce the boundaries of the Wedithalathive Nature Reserve, as outlined in Extraordinary Gazette No. 2383/05 dated 6 May 2024.
+
+When this matter was taken up again on 12 November 2024, the Supreme Court extended the said interim order until the next date of hearing of the matter, which was fixed for 29 July 2025.
+
+...
+
+[Data](articles/8d2e51b6.json)
+
+[Extended Data](ext_articles/8d2e51b6.ext.json)
+
+---
+
+### Switzerland hands over  14-year Safe Labour Migration Program to Sri Lanka
+
+*2024-11-19 00:22:45* · [`dailyftlk`](https://www.ft.lk/news/Switzerland-hands-over-14-year-Safe-Labour-Migration-Program-to-Sri-Lanka/56-769390) · `en`
+
+The Government of Switzerland, through the Swiss Agency for Development and Cooperation (SDC), has successfully concluded the Safe Labour Migration Program (SLMP) in Sri Lanka after 14 years of dedicated support.
+
+The program, which ran from 2010 to 2024, aimed to enhance labour migration governance, safe and regular migration practices, support sustainable reintegration, improve the well-being of both men and women migrant workers and their families within the migration cycle.
+
+The SLMP was a significant collaboration between the Ministry of Labour and Foreign Employment and the Sri Lanka Bureau of Foreign Employment (SLBFE) allowing various project implementing partners to work at the national policy level as well as decentralised sub-national and grassroots.
+
+...
+
+[Data](articles/9672ded4.json)
+
+[Extended Data](ext_articles/9672ded4.ext.json)
+
+---
+
+### Sri Lanka Law College inaugural International Research Conference on 28-29 November
+
+*2024-11-19 00:20:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Law-College-inaugural-International-Research-Conference-on-28-29-November/56-769389) · `en`
+
+Local and international experts to share insights on “Law in the 21st Century: Exploring New Frontiers”
+
+Sri Lanka Law College (SLLC) will hold its first ever International Research Conference (IRC) titled “Law in the 21st Century: Exploring New Frontiers,” from 28 to 29 November at the BMICH.
+
+The two-day academic conference sets the stage for legal academics, researchers and practitioners from Sri Lanka and overseas to share insights, challenge assumptions and sail into the uncharted waters of legal practice in this dynamic and ever-fluid world we call home.
+
+The conference will follow the standard format of an IRC which comprises keynote speeches, panel discussions and sessions for presentation of research-based papers which will focus on various aspects of law, giving the participants a plethora of choice.
+
+...
+
+[Data](articles/e120d5df.json)
+
+[Extended Data](ext_articles/e120d5df.ext.json)
+
+---
+
 ### 2024-11-18 (Monday)
 
-### ரவி, நாமல், சத்தியலிங்கம் - வெளியானது அதிவிசேட வர்த்தமானி
+### Ravi, Namal, Sathiyalingam - Released
 
 *2024-11-18 23:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-நாமல்-சத்தியலிங்கம்-வெளியானது-அதிவிசேட-வர்த்தமானி/175-347405) · `ta`
 
-புதிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினராக ரவி கருணாநாயக்க தெரிவு செய்யப்பட்டுள்ளதாக அதிவிசேட வர்த்தமானியை தேர்தல் ஆணைக்குழு வெளியிட்டுள்ளது.
+Here's a summary in 200 characters:
 
-குறித்த வர்த்தமானி அறிவித்தலில் பொதுஜன பெரமுனவின் தேசிய பட்டியல் உறுப்பினராக நாமல் ராஜபக்ஷ மற்றும் தமிழரசுக் கட்சியின் தேசிய பட்டியல் உறுப்பினராக பத்மநாதன் சத்தியலிங்கம் தெரிவு செய்யபட்டு அவர்களின் பெயர்களும் உள்ளடக்கப்பட்டுள்ளது.
 
-இதேவேளை ரவி கருணாநாயக்க தெரிவு செய்யப்பட்ட விடயம் கட்சி தலைமைக்கும் உறுப்பினர்களுக்கும் தெரியாது என்றும் அது கட்சியின் செயலாளர் தன்னிச்சையாக எடுத்த தீர்மானம் எனவும் கட்சிக்குள் குழப்பநிலை ஏற்பட்டு, நாளை கட்சி உறுப்பினர்கள் கூடி கலந்துரையாடவுள்ளதாக அறிவிக்கப்பட்டிருந்த நிலையில் இந்த வர்த்தமானி அறிவிப்பு வெளியாகியுள்ளது. R
+
+Election Commission gazette: Ravi Karunanayake elected to National List New Democratic Front. Pathmanathan Sathiyalingam named as Namal Rajapaksa Tamil National Party member PA National List. Ravi unaware of party leadership; members confused by arbitrary decision, meeting tomorrow.
+
+🟩
+
+The Election Commission has issued a high -level gazette that Ravi Karunanayake has been elected as the National List of the New Democratic Front.
+
+The gazette notification includes the names of Pathmanathan Sathiyalingam as Namal Rajapaksa and the National List of the Tamil National Party as a member of the National List of the PA.
+
+Meanwhile, Ravi Karunanayake has been unaware of the party leadership and the members of the party and that the party's secretary's arbitrarily decision has been confused and the party members have been announced to meet tomorrow.. Remble
 
 ◼️
 
 [Data](articles/72da3af6.json)
+
+[Extended Data](ext_articles/72da3af6.ext.json)
+
+---
+
+### Poverty of CBSL’s monetary policies: Part 1
+
+*2024-11-18 23:14:43* · [`dailyftlk`](https://www.ft.lk/columns/Poverty-of-CBSL-s-monetary-policies-Part-1/4-769383) · `en`
+
+The economic consequences of the CBSL losing control over interest rates cannot be overstated
+
+What is notable is not only that the CBSL continues to adhere to its flawed notion of money printing despite the evident logical issues in its interpretation, but also that it persists in its commitment to the quantity theory of money (QTM)—or at least its own variant of this theory. This is in spite of the numerous and growing criticisms from researchers in central banks across the world, including those considered to be at the forefront of research in monetary policy, such as the US and the UK
+
+The CBSL does not appear to be fully committed to setting and targeting money market interest rates, which requires it to allow the quantity of cash to be determined by the market. In fact, as the IMF observes, the CBSL seems to be permitting the market, rather than policy, to set money market rates, while managing liquidity to prevent instability in these rates
+
+...
+
+[Data](articles/95452188.json)
+
+[Extended Data](ext_articles/95452188.ext.json)
+
+---
+
+### A ‘tectonic shift’ in  the plate of politics
+
+*2024-11-18 23:07:57* · [`dailyftlk`](https://www.ft.lk/columns/A-tectonic-shift-in-the-plate-of-politics/4-769382) · `en`
+
+Give the government a place to stand and let us hope it has the strength to move the earth
+
+It must be evident by now in the densest of crania in the most conservative of political think tanks circumscribing the cocktail circuit that ‘something happened’.
+
+But it may be a while before the penny, as they say, drops. Because, as a London-based revolutionary far from his Teutonic homeland once essayed about the plight of an oppressed class of people his continent over – from Moscow to Manchester – and their oppressors: “When the sufferers learn to think, then the thinkers will learn to suffer.” (Yes Karl Marx)
+
+There are, it is said jocularly in circles where wit is observational of everyone else but oneself, three types of people: those who make things happen, those who watch while it is happening, and those who wonder: ‘what happened?’
+
+What happened was that the threefold cord which is not quickly broken snapped suddenly after ever-increasing tension over the years.
+
+...
+
+[Data](articles/822bd68e.json)
+
+[Extended Data](ext_articles/822bd68e.ext.json)
+
+---
+
+### “Help us fall in love again”: Note to President and new Government of Sri Lanka
+
+*2024-11-18 23:03:15* · [`dailyftlk`](https://www.ft.lk/columns/Help-us-fall-in-love-again-Note-to-President-and-new-Government-of-Sri-Lanka/4-769381) · `en`
+
+Congratulations on your remarkable landslide victory, securing over a two-thirds majority in Parliament. This is a testament to the trust and belief the general public has in you. You have also set an inspiring example for greater women’s political participation, which is truly commendable.
+
+As Sri Lankans, we have often relied on politicians to handle everything, but this approach has proven flawed. I genuinely want you to succeed so our country can regain its former glory. That is why I am raising my voice and sharing my perspective through this note, hoping it might be of value.
+
+We can’t afford any more mistakes; the situation we find ourselves in today is dire. Every decision must be made with great care. The glass cliff lies before you and your Government, and navigating this challenging situation requires caution and thoughtful action. I offer this note in the hope that it may provide some guidance as you proceed.
+
+...
+
+[Data](articles/92326581.json)
+
+[Extended Data](ext_articles/92326581.ext.json)
+
+---
+
+### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
+
+*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380) · `en`
+
+Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
+
+Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
+
+...
+
+[Data](articles/b70bb8ef.json)
+
+[Extended Data](ext_articles/b70bb8ef.ext.json)
 
 ---
 
@@ -88,6 +256,66 @@ Based on intelligence received, the Sri Lanka Navy had launched this special ope
 
 ---
 
+### Police seek public assistance to catch the suspect robbed seven months
+
+*2024-11-18 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203511) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Police seeking help: Suspect robbed 7 months ago. Driver escaped vehicle in Minuwangoda. Vehicle found in Gampaha. CID investigating. Public, call 0718591610 if you have info."
+
+🟩
+
+Police have requests public assistance to arrest a suspect in connection with a furnace.
+
+A person who served as a driver of a securely transporting institution in Minuwangoda police division, has been fled by the vehicle today (18).
+
+The vehicle has been recovered from the Gampaha Police Division, while the Gampaha Division Criminal Investigation Division is conducting further investigations to arrest the suspect.
+
+Accordingly, if any information about the above person is, the police have requested the public to inform the following telephone numbers.
+
+02.  ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී - ගම්පහ දිස්ත්‍රික් (I) - 0718591610
+
+◼️
+
+[Data](articles/8fca0957.json)
+
+[Extended Data](ext_articles/8fca0957.ext.json)
+
+---
+
+### Order the suspects looting a doctor's money
+
+*2024-11-18 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203510) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Colombo Magistrate orders police to investigate doctor's money theft case. Suspects intimidated, bank account details stolen. Four suspects remanded until Nov 12.
+
+🟩
+
+Colombo Additional Magistrate Kammada Perera has ordered the Bambalapitiya Police today to be referred to the Tastekerator in Bambalapitiya.
+
+When the doctor arrived at the massage agency, he was intimidated by the suspects to a bank account on the online system of Rs.
+
+Bambalapitiya Police Commanding Court demanded the judiciary to call the four tomorrow to refer to the Government Analyst tomorrow.
+
+The Colombo Additional Magistrate issued the order by the request.
+
+The four suspects remanded in connection with the incident and remanded until November 12.
+
+◼️
+
+[Data](articles/7f5c72b2.json)
+
+[Extended Data](ext_articles/7f5c72b2.ext.json)
+
+---
+
 ### Sri Lanka leader appoints fresh faces into new cabinet sans Muslims, Northeast Tamils
 
 *2024-11-18 21:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-fresh-faces-into-new-cabinet-sans-muslims-northeast-tamils-188587/) · `en`
@@ -103,6 +331,8 @@ The more-than two-third majority will enable the Dissanayake’s new government 
 ...
 
 [Data](articles/714c0f63.json)
+
+[Extended Data](ext_articles/714c0f63.ext.json)
 
 ---
 
@@ -273,6 +503,8 @@ The IMF delegation is in Colombo to complete the third review of the loan progra
 ...
 
 [Data](articles/e2c3e1a7.json)
+
+[Extended Data](ext_articles/e2c3e1a7.ext.json)
 
 ---
 
@@ -902,6 +1134,8 @@ Date of settlement of the above issuance is 18 November 2024. (Colombo/Nov18/202
 
 [Data](articles/05542fb7.json)
 
+[Extended Data](ext_articles/05542fb7.ext.json)
+
 ---
 
 ### Harinini begins the post of Prime Minister
@@ -961,6 +1195,8 @@ A bond maturing on 01.10.2032 closed stable at 11.50/70 percent. (Colombo/Nov18/
 ◼️
 
 [Data](articles/804f033e.json)
+
+[Extended Data](ext_articles/804f033e.ext.json)
 
 ---
 
@@ -1338,6 +1574,8 @@ There were crossings in big companies, in big volumes, they said. “This is lik
 
 [Data](articles/e2695790.json)
 
+[Extended Data](ext_articles/e2695790.ext.json)
+
 ---
 
 ### Rohitha's cousin of MP Rohitha surrenders to two illegal vehicles
@@ -1465,6 +1703,8 @@ The IMF team arrived in the island  on Sunday (17), and will remain until Novemb
 ◼️
 
 [Data](articles/4d5c9e65.json)
+
+[Extended Data](ext_articles/4d5c9e65.ext.json)
 
 ---
 
@@ -2219,321 +2459,5 @@ Highlighting the historic nature of the victory that brought the incumbent admin
 [Data](articles/a4179467.json)
 
 [Extended Data](ext_articles/a4179467.ext.json)
-
----
-
-### Lohan and Shashi remanded again
-
-*2024-11-18 12:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203489) · `si`
-
-S:0
-
-🟩
-
-Nugegoda Magistrate's Court once again refused to send his wife's bailout of former State Minister Lohan Ratwatte and his wife who was arrested in connection with the use of an illegal vehicle.
-
-Accordingly, the former state minister was further remanded until December 2nd and his wife was further remanded until November 22
-
-Former State Minister Lohan Ratwatte's wife Shashi Prabha Ratwatte, the wife of Shashi Prabha Ratwatte, was found recently.
-
-Accordingly, investigations were revealed in reviewers that the vehicle was involved in the vehicle.
-
-The car was charged on October 30, at the Mirihana Police, Katugastota and produced before the court on October 30.
-
-Ms. Shabhathu Rathhi Ratwatte in such a background was arrested on November 4, the Mirihana Police have stated that she was aware of the car in an awareness of the car.Ordered to be imprisoned.
-
-...
-
-[Data](articles/ee29477a.json)
-
-[Extended Data](ext_articles/ee29477a.ext.json)
-
----
-
-### How do digital sites in the 2024 elections redeem democracy
-
-*2024-11-18 12:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199067) · `ta`
-
-Digital sites play crucial role in 2024 elections, influencing democracy through social media presence. Political communication shifts from traditional media to online platforms, impacting how candidates reach voters and shape public discourse.
-
-🟩
-
-The influence of digital sites on democracy is especially intense in 2024 and is versatile dependent. Political spread has changed dramatically and requires candidates to maintain their presence on social media sites. This refers to gradually changing the electronic and print media for political conversation.
-
-◼️
-
-[Data](articles/0dd4050e.json)
-
-[Extended Data](ext_articles/0dd4050e.ext.json)
-
----
-
-### The verb that came from the banana: the father of the two children!
-
-*2024-11-18 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199057) · `ta`
-
-Man murdered over stolen bananas in Sri Lanka. Police arrest suspect in banana theft case. Father of two killed in dispute over fruit theft.
-
-🟩
-
-Ratottai police said that a man was assassinated and murdered in the Nakuliyatha area in Matale, Matale.
-
-A father of two children, aged 46, from Naguliyatha, Balottai, has been murdered.
-
-Police said the murder had taken place due to a dispute between the murderer and the neighbor in connection with the stealing of a thousand rupees worth of bananas.
-
-Police said that a neighbor suspected of stealing bananas in connection with the murder was arrested on suspicion.
-
-◼️
-
-[Data](articles/885bb665.json)
-
-[Extended Data](ext_articles/885bb665.ext.json)
-
----
-
-### GCE.. Additional classes for the GCE Advanced Level Examination
-
-*2024-11-18 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199053) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-GCE A/L exam: New classes & seminars due Dec 19. Legal action for non-compliance. Exam dates: Dec 25-20, 2024. Total examiners: 333,185 (253,390 school, 79,795 private).
-
-🟩
-
-The Department of Examinations has announced that more classes and seminars for the GCE A / L examination should be completed tomorrow (19) at midnight.
-
-It has also been warned that legal action will be taken against those who do not follow these suggestions.
-
-The GCE Advance for 2024. The GCE Advanced Level Examination will be held from the 25th to the 20th of December.
-
-Meanwhile, 333,185 students have registered as examiners and have 253,390 school examiners and 79,795 private examiners.
-
-◼️
-
-[Data](articles/475cf0c9.json)
-
-[Extended Data](ext_articles/475cf0c9.ext.json)
-
----
-
-### Lohan Ratwatte and wife further remanded
-
-*2024-11-18 11:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/103578/lohan-ratwatte-and-wife-further-remanded-) · `en`
-
-Former Minister Lohan Ratwatte has been further remanded until December 2, while his wife has been further remanded until November 22 after they were produced before the Nugegoda Magistrate’s Court today (18).
-
-Former Minister Lohan Ratwatte and his wife Shashi Prabha Ratwatte, who were arrested over the charges of using a luxury car illegally imported and assembled in Sri Lanka, had previously been remanded in custody until today (November 18) by the Nugegoda Magistrate’s Court.
-
-Police had found the luxury car in question during an inspection carried out based on information received by the police headquarters regarding a luxury car without number plates at a three-storied house in the Embuldeniya area in Mirihana, belonging to Shashi Prabha Ratwatte, the wife of former State Minister Lohan Ratwatte.
-
-...
-
-[Data](articles/cebb0fae.json)
-
-[Extended Data](ext_articles/cebb0fae.ext.json)
-
----
-
-### “End of the politics of splitting”
-
-*2024-11-18 11:47:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிளவுபடுத்தும்-அரசியலுக்கு-முற்றுப்புள்ளி-வைக்கப்பட்டுள்ளது/175-347371) · `ta`
-
-Sri Lanka's political landscape shifts as election unites people across regions. New government takes power, thanks voters and acknowledges diaspora and youth support.
-
-🟩
-
-“The political culture of Sri Lanka has long been defined by efforts to stop the North and vice versa.
-
-“However, this election shows that the political politics will no longer rule. This has successfully brought the aspirations of all people to the same center. ”
-
-The President thanked all the supporters who voted for the new government to come to power and cited the contributions and support of Sri Lankan diaspora and young social media enthusiasts during the election.
-
-◼️
-
-[Data](articles/d3131d34.json)
-
-[Extended Data](ext_articles/d3131d34.ext.json)
-
----
-
-### What is the message that has changed in the North and Eastern Provinces that have been changed in 2 months?
-
-*2024-11-18 11:45:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36p3jkw0z8o) · `si`
-
-Here are some tips to avoid falling victim to cyber fraud:
-
-
-
-1. Be cautious with links and attachments:
-
-   - Don't click on suspicious links or download attachments from unknown sources.
-
-   - Verify the sender before interacting with any links or attachments.
-
-
-
-2. Use strong passwords:
-
-   - Create unique, complex passwords for each account.
-
-   - Avoid using easily guessable information like names or birthdates.
-
-
-
-3. Enable two-factor authentication:
-
-   - This adds an extra layer of security to your accounts.
-
-   - Use authenticator apps or SMS codes for added protection.
-
-
-
-4. Keep software updated:
-
-   - Regularly update your operating system, browser, and other software.
-
-   - Outdated software can have known vulnerabilities exploited by hackers.
-
-
-
-5. Be wary of phishing scams:
-
-   - Legitimate companies won't ask for sensitive information via email or text.
-
-   - If something seems suspicious, contact the company directly through official channels.
-
-
-
-6. Use reputable antivirus software:
-
-   - Install and regularly update antivirus programs on your devices.
-
-   - Run regular scans to detect and remove malware.
-
-
-
-7. Be cautious with public Wi-Fi:
-
-   - Avoid accessing sensitive information on unsecured networks.
-
-   - Use a VPN when connecting to public Wi-Fi networks.
-
-
-
-8. Monitor your accounts and credit reports:
-
-   - Check for any suspicious activity on your financial accounts.
-
-   - Review your credit report regularly for unauthorized changes.
-
-
-
-9. Be cautious with social media:
-
-   - Don't share personal information publicly on social media platforms.
-
-   - Be wary of friend requests from unknown people.
-
-
-
-10. Educate yourself:
-
-    - Stay informed about common cyber fraud tactics and scams.
-
-    - Learn how to identify and avoid potential threats.
-
-
-
-Remember, cybersecurity is an ongoing process. Stay vigilant and regularly review your online security measures to protect yourself against cyber fraud.
-
-🟩
-
-What is the message that has changed in the North and Eastern Provinces that have been changed in 2 months?
-
-The people who have been living in the North and the Eastern Provinces have taken measures to provide the political power of the North and the Eastern Provinces this year.
-
-The democratic politics of the country was in the beginning and the power in the North and the Eastern provinces were raised around several ethnicity based political parties.
-
-However, the election results are observed that the election results have been deprived of the power over the political parties that were previously lost in the parliamentarian this year.
-
-The majority of the provinces of the North and East have taken steps to provide new candidates who contested the traditional political power in the national propaganda of the Tamil and Muslim political parties.
-
-...
-
-[Data](articles/fc3d1736.json)
-
-[Extended Data](ext_articles/fc3d1736.ext.json)
-
----
-
-### Sickness in the military camp
-
-*2024-11-18 11:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாமில்-சுகயீனம்/175-347370) · `ta`
-
-Fever outbreak hits military camp in Mannar and Vidathalivu, affecting 25 soldiers. Isolation measures implemented, with some hospitalized. Over 500 soldiers quarantined as precautionary step. Incident reported since November 11th.
-
-🟩
-
-About 25 soldiers have been affected by the fever at a military camp in Mannar and Vidathalivu, the military said.
-
-The Ranam also reportedly said that the fever was isolated in the camp.
-
-Steps have been taken to admit a group of affected soldiers to the hospital and one of them is for treatment.. It has also been reported to have been sent to the hospital.
-
-The Mannar Regional Health Department has stated that steps have been taken to isolate more than 500 soldiers in the camp.
-
-The fever has been reported in a military camp since the 11th.
-
-◼️
-
-[Data](articles/78084750.json)
-
-[Extended Data](ext_articles/78084750.ext.json)
-
----
-
-### Nearly 500 soldiers quarantined at army camp due to flu outbreak
-
-*2024-11-18 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103577/nearly-500-soldiers-quarantined-at-army-camp-due-to-flu-outbreak) · `en`
-
-The Sri Lankan Army says it has implemented quarantine measures for soldiers at the army camp in the Veditalativu area in Mannar, following a flu outbreak among a group of army personnel.
-
-Sri Lanka Army spokesperson confirmed that around 25 soldiers have contracted the flu, with several requiring hospitalization. One soldier has been transferred to the National Institute of Infectious Diseases (IDH) for advanced treatment.
-
-In response to the outbreak, the Mannar health officials have taken steps to quarantine nearly 500 soldiers within the camp itself to control the spread of the viral flu.
-
-The flu outbreak, which had commenced from November 11, continues to be closely monitored by health and military authorities to ensure effective containment and timely medical intervention.
-
-◼️
-
-[Data](articles/83aff67f.json)
-
-[Extended Data](ext_articles/83aff67f.ext.json)
-
----
-
-### Professor Anil Jayantha Fernando
-
-*2024-11-18 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199063) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prof. Anil Jayantha Fernando sworn in as Labor Minister. President Anura Kumara Dissanayake present.
-
-🟩
-
-Professor Anil Jayantha Fernando was sworn in as the Minister of Labor in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/ef62c41b.json)
-
-[Extended Data](ext_articles/ef62c41b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 01:42:05**
+As of **2024-11-19 02:13:02**
 
 ## Newspaper Stats
 
-*Scraped **55,655** Articles*
+*Scraped **55,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,372
-dailyftlk | 3,802
+dailyftlk | 3,811
 dailymirrorlk | 4,733
 adalk | 5,223
 adaderanalk | 6,720
@@ -26,11 +26,171 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,655 (100.0%) of 55,655 articles have been extended.
+55,658 (100.0%) of 55,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### Ravi K.’s National List appointment sparks tensions within NDF
+
+*2024-11-19 02:02:14* · [`dailyftlk`](https://www.ft.lk/news/Ravi-K-s-National-List-appointment-sparks-tensions-within-NDF/56-769410) · `en`
+
+UNP calls emergency meeting and moves to take disciplinary action against Ravi Karunanayake
+
+Alleges Karunanayake’s appointment as National List MP has bypassed UNP’s decision-making process
+
+National Unity Alliance appeals to EC to withhold Gazette announcement of Karunanayake’s appointment
+
+NUA describes nomination as unlawful and lacking consensus among alliance members
+
+United National Party (UNP) members gathered for an emergency meeting yesterday evening at the Sirikotha to address the controversial nomination of former MP Ravi Karunanayake to the National List of the New Democratic Front (NDF).
+
+The move, reportedly made without the party’s approval, has sparked internal dissent and calls for disciplinary action.
+
+...
+
+[Data](articles/27e70dbc.json)
+
+---
+
+### MP Dr. Rizvie Salih defends AKD’s selection of Ministers
+
+*2024-11-19 02:00:28* · [`dailyftlk`](https://www.ft.lk/news/MP-Dr-Rizvie-Salih-defends-AKD-s-selection-of-Ministers/56-769409) · `en`
+
+National People’s Power (NPP) Colombo district MP Dr. Rizvie Salih yesterday said the new Government is of the view that the primary conditions for leading a Ministry should be a person’s qualifications, skills, and political acumen, and not their gender, race, or religion.
+
+Responding to criticism over no Muslim representatives in the newly appointed Cabinet, Dr. Salih said he has full confidence that President Anura Kumara Dissanayake has appointed the right individuals to the right Ministries.
+
+“As someone with far more insight into their capabilities and contributions than the rest of us, his decisions are undoubtedly rooted in merit,” he noted via a post on Facebook.
+
+Dr. Salih pointed out that the calls to appoint a Minister based solely on religion risk fuelling unnecessary divisions and undermining the very unity the country needs to move forward.
+
+...
+
+[Data](articles/dc0fabe0.json)
+
+---
+
+### SC dismisses FR filed by SDIG Ravi Seneviratne
+
+*2024-11-19 01:58:37* · [`dailyftlk`](https://www.ft.lk/news/SC-dismisses-FR-filed-by-SDIG-Ravi-Seneviratne/56-769408) · `en`
+
+The Supreme Court dismissed a fundamental rights petition filed by former Criminal Investigation Department (CID) Senior DIG and current Public Security Ministry Secretary Ravi Seneviratne.
+
+The petition sought a declaration that Seneviratne’s fundamental rights were violated when he was arrested and remanded by the Wellawatte Police in connection with a road accident.
+
+The case was heard before a three-member Supreme Court bench comprising Justices S. Thurairaja, A.H.M.D. Nawaz, and Priyantha Fernando.
+
+Deputy Solicitor General Disna Warnakula, representing the respondents, raised a preliminary objection, arguing that the petition did not comply with Supreme Court rules. Based on this objection, the Court ruled that the petition could not be maintained and subsequently dismissed it.
+
+The Inspector General of Police (IGP), the Attorney General, the Officer-in-Charge (OIC) of the Wellawatte Police Station, and other officers were named as respondents in the case.
+
+...
+
+[Data](articles/b6a1934d.json)
+
+---
+
+### TISL says reduction in misuse of public resources during General Election 2024
+
+*2024-11-19 01:57:52* · [`dailyftlk`](https://www.ft.lk/news/TISL-says-reduction-in-misuse-of-public-resources-during-General-Election-2024/56-769407) · `en`
+
+Transparency International Sri Lanka (TISL) said yesterday that it observed a significant reduction in complaints related to the misuse of public funds, vehicles, and State power or positions during the General Election 2024.
+
+In contrast to the Presidential Election 2024, where TISL recorded 33 complaints about the misuse of State funds and 48 complaints concerning State vehicles, the General Election period saw only three complaints about the misuse of State funds and one regarding State vehicles. Importantly, no complaints were received about the misuse of State power or positions during this election.
+
+TISL monitored the recently concluded General Election with a special emphasis on the misuse of public resources. A team of 200 Election Observers was deployed across all districts. Overall, TISL received 1,092 complaints, the majority of which (889) pertained to the illegal display of posters, cut-outs, banners, and other unauthorised materials in public spaces.
+
+...
+
+[Data](articles/85842d29.json)
+
+---
+
+### Richard Pieris Group’s 1H PBT grows by  184% to Rs. 3.6 b
+
+*2024-11-19 01:56:22* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-s-1H-PBT-grows-by-184-to-Rs-3-6-b/34-769406) · `en`
+
+Richard Pieris Group, one of Sri Lanka’s largest and most diversified conglomerates, recorded a Profit Before Tax (PBT) of Rs. 3.59 billion in the first six months of the 2024/25 financial year, recording a significant profit growth of 184% over the corresponding period from the last financial year where the company recorded a PBT of Rs. 1.26 billion.
+
+The Group’s outstanding performance for Q2 is a continuation of the progress they demonstrated in Q1 of the current financial year. It underscores the Group’s resilience in successfully facing and overcoming an uncertain domestic economic environment amidst volatile global economic factors.
+
+With more than 50 factories spread across the country, the Group continues to play a major role in manufacturing while adapting strategies to navigate external challenges. They also remain resolutely committed to creating sustainable value across diverse sectors.
+
+...
+
+[Data](articles/137c0368.json)
+
+---
+
+### PA congratulates NPP on resounding victory, calls for balanced long-term policy to secure plantation industry’s sustainability
+
+*2024-11-19 01:54:17* · [`dailyftlk`](https://www.ft.lk/business/PA-congratulates-NPP-on-resounding-victory-calls-for-balanced-long-term-policy-to-secure-plantation-industry-s-sustainability/34-769405) · `en`
+
+The apex body of the plantation industry in Sri Lanka, The Planters’ Association of Ceylon (PA), issued a statement congratulating President Anura Kumara Dissanayake and the National People’s Power (NPP) on their recent and resounding electoral victory.
+
+The Association also extended its congratulations to Samantha Vidyarathna on his appointment as Plantation and Community Infrastructure Minister.
+
+Furthermore, it pledged its full support towards collaborative efforts to help develop the Sri Lankan plantation industry while uplifting the communities connected to it.
+
+...
+
+[Data](articles/5f8d905d.json)
+
+[Extended Data](ext_articles/5f8d905d.ext.json)
+
+---
+
+### Hotel Suppliers Association congratulates new Tourism Minister Vijitha Herath
+
+*2024-11-19 01:53:47* · [`dailyftlk`](https://www.ft.lk/business/Hotel-Suppliers-Association-congratulates-new-Tourism-Minister-Vijitha-Herath/34-769404) · `en`
+
+The Hotel Suppliers Association (HSA) has extended its congratulations to MP Vijitha Herath on his recent appointment as Tourism Minister. It also commended the National People’s Power (NPP) and Herath’s remarkable achievement in securing election to the Gampaha electorate with an impressive majority of 716,000 votes.
+
+“This extraordinary accomplishment is a testament to the trust and confidence placed in his leadership by the people of Sri Lanka,” HAS President Azad Mansoor said in a statement. “As the newly appointed Minister of Tourism, Vijitha Herath assumes a key role in shaping the future of Sri Lanka’s tourism and hospitality sectors. With tourism being one of the most vital industries in Sri Lanka’s economy—contributing significantly to economic growth, job creation, and international recognition—we are confident that Minister Herath’s leadership will continue to drive the sector towards new heights,” Munsoor added.
+
+...
+
+[Data](articles/45c3210a.json)
+
+[Extended Data](ext_articles/45c3210a.ext.json)
+
+---
+
+### New era for EO Sri Lanka as 2024/2025 Board takes office
+
+*2024-11-19 01:53:14* · [`dailyftlk`](https://www.ft.lk/business/New-era-for-EO-Sri-Lanka-as-2024-2025-Board-takes-office/34-769403) · `en`
+
+The Entrepreneurs’ Organisation (EO) Sri Lanka recently ushered in a new chapter of leadership with the handover of the 2024-2025 Board.
+
+Outgoing President Haresh de Soysa, Director of Trade Promoters Ltd., passed the mantle of leadership to the newly appointed President, Naishadh Udeshi, Director of Chinese Dragon Café. This dynamic transition marks an exciting period of renewed focus and fresh initiatives for Sri Lanka’s entrepreneurial community.
+
+Since its establishment in 2017, EO Sri Lanka has grown steadily, overcoming global challenges such as the pandemic and economic uncertainty. With over 60 active members today, the chapter stands as a vibrant hub for some of the nation’s leading entrepreneurs. On the global front, EO boasts more than 19,000 members spread across 222 chapters in over 87 countries, making it one of the largest networks of business owners in the world.
+
+...
+
+[Data](articles/6cd7002d.json)
+
+[Extended Data](ext_articles/6cd7002d.ext.json)
+
+---
+
+### Tea Exporters Association congratulates President and NPP
+
+*2024-11-19 01:50:24* · [`dailyftlk`](https://www.ft.lk/business/Tea-Exporters-Association-congratulates-President-and-NPP/34-769402) · `en`
+
+The Tea Exporters Association (TEA) yesterday expressed its warmest congratulations and best wishes to President Anura Kumara Dissanayake and the newly elected Government on the landslide victory at the General Election.
+
+“The election was conducted in a peaceful and transparent manner that is commended by the business community,” said TEA Chairman Huzefa Akbarally in a statement.
+
+As Sri Lanka begins a new era under your leadership and the new Government, we are confident that the country would be able to overcome the prevailing economic challenges and move towards prosperity with appropriate economic policies and timely implementation of them.
+
+...
+
+[Data](articles/9b69342b.json)
+
+---
 
 ### President - IMF. Meeting between representatives
 
@@ -2239,227 +2399,5 @@ He made this statement after the swearing in the new cabinet.
 [Data](articles/b6a44730.json)
 
 [Extended Data](ext_articles/b6a44730.ext.json)
-
----
-
-### Banning for more classes tomorrow
-
-*2024-11-18 12:58:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மேலதிக-வகுப்புகளுக்கு-நாளை-நள்ளிரவுடன்-தடை/175-347380) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"More classes banned from midnight tomorrow. Legal action for non-compliance. GCE A/L exams Dec 20-25."
-
-
-
-This summary captures the main points in a concise manner within the 200-character limit.
-
-🟩
-
-The Department of Examinations has said that more classes, workshops and seminars are being banned from midnight tomorrow (19).
-
-The Department of Examinations has stated that legal action will be taken against those who do not follow the instructions.
-
-The GCE Advanced Level Examination will be held from the 25th to the 20th of December.
-
-◼️
-
-[Data](articles/ad0d4870.json)
-
-[Extended Data](ext_articles/ad0d4870.ext.json)
-
----
-
-### Stay order issued preventing release of Grade 5 Scholarship exam results
-
-*2024-11-18 12:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/103581/stay-order-issued-preventing-release-of-grade-5-scholarship-examresults) · `en`
-
-The Supreme Court has issued an interim order preventing the release of results of the 2024 Grade 5 Scholarship Examination.
-
-This order was issued when a Fundamental Rights (FR) petition filed seeking an order preventing the release of the 2024 Grade 05 Scholarship Examination results and the cut-off marks was taken up for consideration today (18).
-
-The petition was taken up for consideration before the three-member Supreme Court bench comprising Justices Preethi Padman Surasena, Achala Vengappuli and Mahinda Samayawardena.
-
-The petitions were filed by the parents of several students who sat for the 2024 Grade 05 Scholarship Examination which was held on September 15, 2024.
-
-The Commissioner General of Examinations, Minister of Education and Prime Minister Dr. Harini Amarasuriya, Secretary of the Ministry of Education, DIG in charge of the Criminal Investigations Department and 11 others have been named as respondents of the relevant petition.
-
-...
-
-[Data](articles/d240a6c5.json)
-
-[Extended Data](ext_articles/d240a6c5.ext.json)
-
----
-
-### “Some reasons for failure cannot be released”
-
-*2024-11-18 12:53:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோல்விக்கான-சில-காரணங்களை-வெளியிட-முடியாது/175-347379) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Party MP SM Marikar: Some reasons for United People's Power loss unrevealed. Internal discussion only. Party leader Sajith Premadasa to reappear when ready."
-
-🟩
-
-The party's parliamentarian SM Marikar said that some of the reasons for the defeat of the United People's Power could not be released.
-
-“We will only discuss some of the reasons for our failure with the other members of the party behind the closed doors,” Marikar told the media today.
-
-When asked why party leader Sajith Premadasa is leaving the public, Marikar added that Premadasa will come out at the right time.
-
-◼️
-
-[Data](articles/e55a1eca.json)
-
-[Extended Data](ext_articles/e55a1eca.ext.json)
-
----
-
-### Interim injunction prevented from releasing results of the scholarship examination
-
-*2024-11-18 12:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203491) · `si`
-
-Supreme Court issues interim injunction blocking release of Year 5 scholarship exam results. Order comes after considering petitions challenging the exam's validity. Judges Achala Wijesundara and Mahinda Samayawardena make the ruling.
-
-🟩
-
-The Supreme Court today issued an interim injury today (18), preventing the relevance of the Year 5 scholarship examination.
-
-The order was issued after considering the fundamental rights petitions, which challenged the scholarship examination and considering the fundamental rights petitions filed by a group of students.
-
-This order was issued by the Supreme Court Judge Survey, Achala Windsu and Mahinda Samayawardena.
-
-◼️
-
-[Data](articles/48d83a1f.json)
-
-[Extended Data](ext_articles/48d83a1f.ext.json)
-
----
-
-### Lohan Ratwatte couple
-
-*2024-11-18 12:48:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹான்-ரத்வத்தே-தம்பதிக்கு-விளக்கமறியல்-நீடிப்பு/175-347378) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Former State Minister Lohan Ratwatte detained until Dec 2 & Nov 22. Remanded after court appearance. Arrested in Kandy over car found in wife's Mirihana home.
-
-🟩
-
-Former State Minister Lohan Ratwatte and his wife have been kept in detention until December 2 and November 22.
-
-The two have been remanded after being produced before the Nugegoda Magistrate's Court today (18).
-
-The former minister was arrested in Kandy after a car was found in his wife's house in Mirihana, Nugegoda.
-
-◼️
-
-[Data](articles/5580d1fb.json)
-
-[Extended Data](ext_articles/5580d1fb.ext.json)
-
----
-
-### Earthslip blocks Badulla-Passara road, disrupting traffic movement
-
-*2024-11-18 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103580/earthslip-blocks-badulla-passara-road-disrupting-traffic-movement) · `en`
-
-The vehicular movement on the Passara-Lunugala A5 road has been hampered near the 13th Mile Post due to an earthslip.
-
-It is also reported that a section of around 60 meters of the road has been completely blocked by soil, rocks and debris.
-
-As a result of the blockage, vehicular movement between Badulla and several areas including Bibile, Batticaloa, Monaragala, Ampara, and Maha Oya, has been completely suspended, Ada Derana reporter said.
-
-The earthslip had occurred at around 2.45 a.m. this morning (18), causing severe damages to 03 three-wheelers parked along the road. However, no injuries were reported due to the incident.
-
-Efforts to clear the debris and repair the road are currently underway by the Road Development Authority (RDA), the Passara Pradesiya Sabha, and the police.
-
-◼️
-
-[Data](articles/ed7fc6e0.json)
-
-[Extended Data](ext_articles/ed7fc6e0.ext.json)
-
----
-
-### Sujeewa Senasinghe's V8 - Reception for Taste Cheffic
-
-*2024-11-18 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203490) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sujeewa Senasinghe faces court over alleged involvement in a CID investigation. President's Counsel Maithree Gunaratne requests release of questioned vehicle. Next hearing scheduled for the 25th.
-
-🟩
-
-Sujeewa Senasinghe has been allegedly assembled to be assembled to the Court of Analyst's report to the Analyst's record of Rs.Was
-
-The President's Counsel Maithree Gunaratne, who appeared on behalf of Mr. Sujeewa Senasinghe, has said that the Criminal Investigation Department (CID) has ended the previous day.
-
-As a result, the President's Counsel had also requested Sujeewa Senasinghe to release the questionful vehicle in the Criminal Investigation Department.
-
-The Fort Magistrate ordered the 25th to call on the case on the 25th.
-
-◼️
-
-[Data](articles/89f97966.json)
-
-[Extended Data](ext_articles/89f97966.ext.json)
-
----
-
-### Sri Lanka President says will not mis-use power, will expand freedoms
-
-*2024-11-18 12:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-will-not-mis-use-power-will-expand-freedoms-188471/) · `en`
-
-ECONOMYNEXT – A government of the National People’s Power will not misuse its two thirds mandate to harm Sri Lanka’s citizenry, but will work towards expanding their freedoms and equality, President Anura Dissanayake said after appointing 21 cabinet ministers.
-
-The NPP candidates were elected to parliament from the North, South, East and West he said.
-
-In the past, politics were done setting the South against the North, and North against the South, and promoting hate and distrust, he said.
-
-“This election shows the divisive politics are no longer applicable,” President Dissanayake said.
-
-It was very true that “power corrupts, and absolute power corrupts absolutely,” he said.
-
-It had been shown in several occasions in Sri Lanka he said.
-
-The NPP would be mindful of the responsibility it had in not misusing the mandate it had been given, he said.
-
-In the past different people had been treated differently, based on geography, ethnicity or religion, he said.
-
-...
-
-[Data](articles/606b1d77.json)
-
-[Extended Data](ext_articles/606b1d77.ext.json)
-
----
-
-### President allays fears over ‘absolute power’, urges new Cabinet to deliver on promises
-
-*2024-11-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103579/president-allays-fears-over-absolute-power-urges-new-cabinet-to-deliver-on-promises-) · `en`
-
-In his inaugural address to the newly-appointed Cabinet of Ministers, President Anura Kumara Dissanayake underscored the immense responsibility shouldered by the new government and emphasized the importance of using power with accountability, integrity, and respect for the public’s trust.
-
-Speaking after the new 21-member Cabinet was sworn in at the Presidential Secretariat this morning (18), Dissanayake highlighted that it is the responsibility of everyone to protect the continuity of the democratic process and elevate it to a new level.
-
-Highlighting the historic nature of the victory that brought the incumbent administration to power, the President noted the decades-long struggle of countless individuals who dedicated their time, labor, and even lives to achieve it.
-
-...
-
-[Data](articles/a4179467.json)
-
-[Extended Data](ext_articles/a4179467.ext.json)
 
 ---

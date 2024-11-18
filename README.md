@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 09:22:34**
+As of **2024-11-18 10:15:04**
 
 ## Newspaper Stats
 
-*Scraped **55,498** Articles*
+*Scraped **55,516** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,229 @@ islandlk | 3,325
 economynextcom | 3,359
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,199
-adaderanalk | 6,696
-tamilmirrorlk | 7,862
-virakesarilk | 9,013
-adaderanasinhalalk | 9,592
+adalk | 5,202
+adaderanalk | 6,699
+tamilmirrorlk | 7,864
+virakesarilk | 9,014
+adaderanasinhalalk | 9,601
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,490 (100.0%) of 55,498 articles have been extended.
+55,505 (100.0%) of 55,516 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Sri Lanka’s new Cabinet of Ministers sworn in
+
+*2024-11-18 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/103575/sri-lankas-new-cabinet-of-ministers-sworn-in) · `en`
+
+The new Cabinet of Ministers of the National People’s Power (NPP) government were sworn in before President Anura Kumara Dissanayake, a short while ago.
+
+The swearing-in ceremony was held at the Presidential Secretariat in Colombo this morning (18).
+
+The new Cabinet of Ministers comprises of // Ministers including the Prime Minister while the new Deputy Ministers will reportedly be appointed later on.
+
+◼️
+
+[Data](articles/0aa500e3.json)
+
+---
+
+### IMF team to meet Sri Lanka’s central bank officials today
+
+*2024-11-18 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103574/imf-team-to-meet-sri-lankas-central-bank-officials-today) · `en`
+
+The representatives of the International Monetary Fund (IMF), who arrived in Sri Lanka on Sunday (17) led by Senior Mission Chief Peter Breuer, are set to meet with officials from the Central Bank of Sri Lanka (CBSL) today (18).
+
+Following this discussion, the delegation is expected to hold meetings with President Anura Kumara Dissanayake and key ministers of the newly-formed government to further discuss Sri Lanka’s economic recovery programme.
+
+At the conclusion of their meetings, the IMF representatives will host a press conference to share updates on the progress of the third review of Sri Lanka’s economic reform program under the Extended Fund Facility (EFF).
+
+Upon successful completion of the review, the IMF is expected to release the next tranche of the bailout package to Sri Lanka. The IMF had approved a USD 2.9 billion Extended Fund Facility for Sri Lanka over a 48-month period in tranches to help its economy recover from the economic crisis.
+
+...
+
+[Data](articles/667a8d1d.json)
+
+---
+
+### නව රජයේ කැබිනට් මණ්ඩලය දිවුරුම් දෙයි
+
+*2024-11-18 09:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203487) · `si`
+
+නව රජයේ අමාත්‍ය මණ්ඩලය අද (18) දිවුරුම් දීමේ කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+‍අද පෙරවරු 10.00ට ජනාධිපති ලේකම් කාර්යාලයේ දී නව රජයේ අමාත්‍ය මණ්ඩලය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම් දුන්නේය.
+
+◼️
+
+[Data](articles/bcea2b5e.json)
+
+---
+
+### 3 SriLankan Airlines flights
+
+*2024-11-18 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199033) · `ta`
+
+SriLankan Airlines: 3 flights grounded at Katunayake due to technical issues. Flights UL-123 (Chennai) and UL-124 (Melbourne) affected; UL-124 cancelled. Maintenance underway.
+
+🟩
+
+Three SriLankan Airlines flights arriving at the Katunayake airport have been found to have technical problems.
+
+As a result, several airlines have been canceled and some airlines have been delayed, an airline official said.
+
+In the meantime, it takes time for some flights to be carried out.In this case, the three aircraft that have been diagnosed with technical disorder have been recommended for maintenance work, the airline official said.
+
+As a result, the Sri Lankan Airlines airline, UL-123, which will leave Chennai on Sunday (17), and the UL-124 airline from Katunayake to Katunayake at 10:15 pm.
+
+In addition, the airline to land from Melbourne, Australia, has been canceled at 10.20 pm.
+
+◼️
+
+[Data](articles/2fe70885.json)
+
+[Extended Data](ext_articles/2fe70885.ext.json)
+
+---
+
+### A three-wheeler of the same family in danger
+
+*2024-11-18 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203486) · `si`
+
+Accident at Kotaweheragala temple: Three-wheeler crash injures 5, including children. Investigation ongoing.
+
+🟩
+
+Five persons including a small child and five were injured in an accident in the Kotaweheragala temple in the Wellawaya Police area.
+
+The accident had been tried to save a person who went to switch through the road, where the three-wheeler was hit and the three-wheeler had gone.
+
+The injured were also shifted by four members of the same family and the road.
+
+After being rushed to the Wellawaya Base Hospital, a three-year-old child and a year old have been transferred to the Moneragala district hospital for further treatment.
+
+Three others are receiving treatment at the Wellawaya Base Hospital while officials at the Wellawaya Police are conducting further investigations.
+
+◼️
+
+[Data](articles/ec97825a.json)
+
+[Extended Data](ext_articles/ec97825a.ext.json)
+
+---
+
+### மற்றுமொரு தேர்தலுக்கு தயாராகும் தேர்தல் ஆணைக்குழு
+
+*2024-11-18 09:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-தேர்தலுக்கு-தயாராகும்-தேர்தல்-ஆணைக்குழு/175-347363) · `ta`
+
+பொதுத் தேர்தல் முடிவடைந்ததையடுத்து இம்மாதம் 27ஆம் திகதி தேர்தல் ஆணைக்குழு மீண்டும் கூட உள்ளது.
+
+இச்சந்திப்பில் உள்ளூராட்சி தேர்தல் மற்றும் மாகாண சபைத் தேர்தல் தொடர்பில் கலந்துரையாடப்பட உள்ளதெனவும் தற்போது, உள்ளூராட்சி மன்றத் தேர்தலை நடத்துவது தொடர்பாக நீதிமன்ற உத்தரவும் வழங்கப்பட்டுள்ள நிலையில், அது தொடர்பில் கலந்துரையாடுவதே இந்த சந்திப்பின் முக்கிய நோக்கமெனவும் தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/54f8b0aa.json)
+
+---
+
+### Election Commission set to discuss PC and LG polls
+
+*2024-11-18 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103573/election-commission-set-to-discuss-pc-and-lg-polls-) · `en`
+
+The Election Commission is scheduled to reconvene a meeting on November 27 to deliberate on matters concerning the Local Government and Provincial Council elections.
+
+Accordingly, it will be the commission’s first meeting since the conclusion of the parliamentary election.
+
+A court order pertaining to the holding of the Local Government Election has already been issued, and the commission’s primary focus during the meeting will be to address matters related to this directive.
+
+It has been further reported that the financial allocations required for both the Local Government and Provincial Council elections will be incorporated into the Vote on Account, scheduled to be presented to the Parliament in December.
+
+Although it has been decided to allocate funds for these elections, a final decision regarding the dates of the polls has not yet been determined. This matter is expected to be a key agenda item during the forthcoming meeting.
+
+...
+
+[Data](articles/680c960e.json)
+
+[Extended Data](ext_articles/680c960e.ext.json)
+
+---
+
+### விமான சேவைகள் இரத்து
+
+*2024-11-18 09:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-சேவைகள்-இரத்து/175-347362) · `ta`
+
+கட்டுநாயக்க விமான நிலையத்திற்கு வரும் விமானங்கள் சிலவற்றில் ஏற்பட்ட தொழில்நுட்ப கோளாறு காரணமாக சில விமான சேவைகள் இரத்து செய்யப்பட்டுள்ளன.
+
+3 விமானங்களில் தொழில்நுட்ப கோளாறு ஏற்பட்டதால், பல விமானங்களின் சேவைகள் இரத்துச் செய்யப்பட்டுள்ளதாகவும், ஏனையவை தாமதமானதாகவும் ஸ்ரீலங்கன் ஏர்லைன்ஸ் செய்தித் தொடர்பாளர் தெரிவித்தார்.
+
+ஒவ்வொரு விமானமும் அதன் விமான பயணத்தை முடித்த பிறகு தொழில்நுட்ப மதிப்பீட்டு சோதனைக்கு உட்படுத்தப்படும். குறிப்பிட்ட சில விமானங்களில் மேற்கொள்ளப்படும் தொழில்நுட்ப பராமரிப்பு பணிகளுக்கு சிறிது கால அவகாசம் தேவைப்படுவதாகவும், அதற்கமைவாக இந்த 3 விமானங்களும் தொழில்நுட்ப பராமரிப்பு பணிகளுக்கு அனுப்பி வைக்கப்பட்டுள்ளதாகவும் பேச்சாளர் மேலும் தெரிவித்தார்.
+
+குறித்த விமானங்களில் பயணிக்கும் பயணிகளுக்கு அறிவிக்க ஸ்ரீலங்கன் ஏர்லைன்ஸ் நடவடிக்கை எடுத்துள்ளதுடன், இந்த விமானங்களின் ஊடாக குறித்த இடங்களுக்கு கொண்டு செல்ல விரும்பும் பயணிகளை மாற்று விமானங்கள் மூலம் அனுப்பவும் ஸ்ரீலங்கன் ஏர்லைன்ஸ் நடவடிக்கை எடுத்துள்ளது. R
+
+◼️
+
+[Data](articles/8dee40ae.json)
+
+---
+
+### Traffic on Passara Bibile and Passara Moneragala
+
+*2024-11-18 09:30:05* · [`adalk`](https://www.ada.lk/breaking_news/පස්සර-බිබිල-හා-පස්සර-මොනරාගල-මාර්ග-වල-රථවාහන-ධාවනය-නවතී/11-413110) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Trees fell on a road in Passara Bibile during the night. No injuries occurred. Police advised drivers to use alternative routes due to road damage.
+
+🟩
+
+The road from the Pasara Bibile on the 13th area on the 13th area in the 13th area of ​​the road, five trees were hale in Passara Police, Passara Police said.
+
+The road was collapsing the trees, collapsing and three three-wheelers parked near the Ven.
+
+The trees have fallen to this road at around 3.30 am today (18), and no one or one had no accidents.
+
+Police also informs drivers to remove the removal of this large roalper and the road development is necessary to use alternative routes.
+
+◼️
+
+[Data](articles/1e466f7a.json)
+
+[Extended Data](ext_articles/1e466f7a.ext.json)
+
+---
+
+### Landslide traffic on Passara - Bibile
+
+*2024-11-18 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203485) · `si`
+
+Landslide blocks Passara-Bibile road, causing traffic disruption. Soil and rock collapse closes A5 route. Vehicles stranded; three-wheelers damaged. Reconstruction efforts underway.
+
+🟩
+
+Traffic has been completely disturbed by the landslide in Odigura, Badulla - Passara Lunugala A5 road.
+
+The road, the collapse of soil and rock, has completely closed the road, "said Ada Derana reporter.
+
+The road from Badulla, Batticaloa, Moneragala, Ampara, Mahaoya have stayed in Badulla due to blocking.
+
+The landslides were laundated at around 2 am today (18), and three wheelers stopped on the road was severely damaged.
+
+By now, the Road Development Superintendent of Road Development Passara Pradeshiya Sabha has been reconstructed.
+
+◼️
+
+[Data](articles/7c2b8dd2.json)
+
+[Extended Data](ext_articles/7c2b8dd2.ext.json)
+
+---
 
 ### Sri Lanka’s new Cabinet to be sworn in today
 
@@ -49,6 +257,8 @@ Meanwhile, speaking to the media in Gampaha, Member of Parliament Mahinda Jayasi
 ...
 
 [Data](articles/aaf6fe1d.json)
+
+[Extended Data](ext_articles/aaf6fe1d.ext.json)
 
 ---
 
@@ -94,6 +304,38 @@ The official and the others knowledgeable about the matter were not authorized t
 
 ---
 
+### Discussion between IMF Representatives and Central Bank officials
+
+*2024-11-18 08:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203484) · `si`
+
+IMF reps meet central bank officials today. Discussion includes new govt members & press conference about loan facility review. Fourth installment release expected after visit.
+
+🟩
+
+The International Monetary Fund representatives to meet the island first meet the central bank officials.
+
+Accordingly, the representatives will probably meet the central bank representatives today (18).
+
+However, after the discussion, the group plans to meet the members of the new government including the President.
+
+At the end of the discussion, they will be notified regarding the third review of the desired loan facility, concluding a press conference.
+
+A representatives of the International Monetary Fund arrived in the island yesterday (17) for the third review of the International Monetary Fund.
+
+The fourth installment of the International Monetary Fund will be released after this visit.
+
+The International Monetary Fund is due to be released to four-year loans at the country.
+
+Accordingly, US $ 333 million as the first installment was released on March 21, US $ 337 million for the Sri Lanka on March 13 last year.
+
+...
+
+[Data](articles/14a3026c.json)
+
+[Extended Data](ext_articles/14a3026c.ext.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the island
 
 *2024-11-18 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103570/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -113,6 +355,124 @@ Thus, the general public is kindly requested to take adequate precautions to min
 [Data](articles/bf4d9aff.json)
 
 [Extended Data](ext_articles/bf4d9aff.ext.json)
+
+---
+
+### Election Commission begins to work for the little election
+
+*2024-11-18 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203483) · `si`
+
+Election Commission meets on 27th to discuss local gov't & Provincial Council elections. Court orders local gov't polls. Interim accounts to be presented in Parliament in Dec. Final funding decision pending. National list MPs told to submit party lists quickly. Gazette notification issued for national lists.
+
+🟩
+
+According to the end of the general election, the Election Commission is to meet again on the 27th of this month.
+
+At the meeting, the local government election and the Provincial Council elections are to be discussed.
+
+A court order has been made to hold the local government elections and discuss the main purpose of this meeting.
+
+Meanwhile, it has been reported that the current needs for the current local government and provincial council elections have been made to the interim account to be tabled in Parliament.
+
+The interim account is to be tabled in Parliament in December.
+
+The final decision has not been taken to allocate funds for elections, even though it is decided to allocate the electoral date.
+
+It is reported that the decision of the election is due to be decided by the commission meeting.
+
+Meanwhile, they inform the national list MPs not to date their political parties as soon as possible to present the lists to the Elections Commission as soon as possible.
+
+...
+
+[Data](articles/46c1baa7.json)
+
+[Extended Data](ext_articles/46c1baa7.ext.json)
+
+---
+
+### උණ රෝගයක් නිසා යුද හමුදා කඳවුරක් නිරෝධායන කෙරේ
+
+*2024-11-18 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203482) · `si`
+
+මන්නාරම, වෙඩිතලතිව් ප්‍රදේශයේ යුද හමුදා කඳවුරක සෙබළුන් පිරිසකට උණ රෝගයක් පැතිරයාම හේතුවෙන් කඳවුරේ සෙබළුන් කඳවුර තුළම නිරෝධායනය කිරීමට කටයුතු කොට ඇති බව යුද හමුදාව පවසයි.
+
+කඳවුරේ සෙබළුන් 25 දෙනෙකුට ආසන්න ප්‍රමාණයකට මෙම උණ රෝගී තත්ත්වය වැලඳී ඇති බව යුද හමුදා මාධ්‍ය ප්‍රකාශකවරයා සඳහන් කළේය.
+
+උණ රෝගයට ගොදුරු වු සෙබළුන් පිරිසක් රෝහල්ගත කිරීමට පියවර ගෙන ඇති අතර ඉන් එක් සෙබළෙකු IDH රෝහල වෙත ප්‍රතිකාර සඳහා යොමුකර ඇති බව සඳහන්ය.
+
+කඳවුර තුළ සිටින තවත් සෙබළුන් 500කට ආසන්න ප්‍රමාණයක් කඳවුර තුළම නිරෝධායනය කිරීමට අවශය පියවර ගෙන ඇති බව මන්නාරම ප්‍රදේශයේ සෞඛ්‍ය අංශ සඳහන් කර ඇත.
+
+පසුගිය 11වනදා සිට උණ රෝගය පැතිරී යාම සිදුව ඇති බවට අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/48ba8fae.json)
+
+---
+
+### ශ්‍රීලන්කන් ගුවන් යානා කිහිපයක තාක්ෂණික දෝෂ
+
+*2024-11-18 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203481) · `si`
+
+කටුනායක ගුවන්තොටුපොළ වෙත පැමිණි ශ්‍රීලන්කන් ගුවන් යානා කිහිපයක ඇති වු තාක්ෂණික දෝෂ හේතුවෙන් ගුවන් ගමන් රැසක් අවලංගු කර තිබේ.‍
+
+ගුවන් යානා 3ක් තාක්ෂණික දෝෂවලට ලක්වීම නිසා, ගුවන් ගමන් වාර කිහිපයක් අවලංගු කර ඇති අතර තවත් ගුවන් ගමන් වාර කිහිපයක් ප්‍රමාදවීම්වලට ලක් වී ඇති බව ශ්‍රීලන්කන් ගුවන් සේවා ප්‍රකාශකවරයෙකු පැවසුවේය.
+
+සෑම ගුවන් යානයක්ම තම ගුවන් ගමන නිමා කිරීමෙන් පසු තාක්ෂණික ඇගයීම් පරීක්ෂා කිරීමකට ලක්කෙරෙන අතර, එහිදී ඇතැම් ගුවන් යානාවල සිදුකළ යුතු අත්‍යාවශ්‍ය තාක්ෂණික නඩත්තු කිරීම් සඳහා තරමක කාලයක් ගත වන බවත්, ඒ අනුව මෙම ගුවන් යානා 3 එම තාක්ෂණික නඩත්තු කටයුතු සඳහා යොමු කර ඇති බව ද එම ප්‍රකාශකවරයා වැඩිදුරටත් සඳහන් කළේය.
+
+මේ හේතුවෙන් ඊයේ (17) රාත්‍රී 06.35ට ඉන්දියාවේ චෙන්නායි බලා පිටත්ව යාමට නියමිත ශ්‍රීලන්කන් ගුවන් සේවයේ යූ.එල්- 123 දරන ගුවන් ගමන සහ යළිත් රාත්‍රී 10.15ට චෙන්නායි සිට කටුනායක වෙත පැමිණීමට නියමිත ශ්‍රීලන්කන් ගුවන් සේවයේ යූ.එල්- 124 ගුවන් ගමන අවලංගු කර ඇති බව සඳහන්ය.
+
+...
+
+[Data](articles/1dd4fa34.json)
+
+---
+
+### දියේ ගිලී පුද්ගලයින් දෙදෙනෙක් අතුරුදන්
+
+*2024-11-18 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203480) · `si`
+
+දැදිගම සහ කිරින්ද පොලිස් වසම්වලදී දියේ ගිලී පුද්ගලයින් දෙදෙනෙක් අතුරුදන්ව තිබේ.
+
+ඊයේ (17) මෙම සිදුවීම් වාර්තා වූ බව පොලිස් මාධ්‍ය ප්‍රකාශක කාර්යාලය පවසයි.
+
+දැදිගම පොලිස් වසමේ ගුරුගොඩ ඔයේ දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී අතුරුදහන් වී තිබේ.
+
+මෙලෙස අතුරුදහන් වී ඇත්තේ ජයලත්කන්ද, දැදිගම ප්‍රදේශයේ පදිංචිව සිටි 27 හැවිරිදි තරුණයෙකි.
+
+අතුරුදහන් වූ පුද්ගලයා සොයා පොලිස් නිලධාරීන්, ප්‍රදේශවාසීන් තවදුරටත් මෙහෙයුම් කටයුතු සිදුකරනු ලබයි.
+
+මේ අතර කිරින්ද, යෝධකණ්ඩිය වැවෙහි දිය නෑමට ගිය පුද්ගලයෙකු දියේ ගිලී අතුරුදහන් වී තිබේ.
+
+අතුරුදහන් වී ඇති පුද්ගලයා පොරවගම, ඇල්පිටිය ප්‍රදේශයේ පදිංචිව සිටි 42 හැවිරිදි පුද්ගලයෙකි.
+
+විනෝද චාරිකාවක් පැමිණි පිරිසක් අතර සිටි අයෙක් මෙලෙස දියේ ගිලී ඇති බවට සිදුකරන ලද විමර්ශනයේ දී අනාවරණය වී ඇත.
+
+තංගල්ල කොට්ඨාස පොලිස් ජීවිතාරක්ෂක ඒකකයේ නිලධාරීන් හා ප්‍රදේශවාසීන් එක්ව අතුරුදහන් වූ පුද්ගලයා සොයා තවදුරටත් මෙහෙයුම් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/57f2213e.json)
+
+---
+
+### නව අමාත්‍ය මණ්ඩලය දිවුරුම් අද
+
+*2024-11-18 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203479) · `si`
+
+‍අද පෙරවරු 10.00ට ජනාධිපති ලේකම් කාර්යාලයේ දී නව රජයේ අමාත්‍ය මණ්ඩලය ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම් දීමට නියමිත බව ජනාධිපති මාධ්‍ය අංශය පැවසුවේය.
+
+කැබිනට් අමාත්‍යවරුන් මෙන්ම නියෝජ්‍ය අමාත්‍යවරුන් ද මෙහිදී දිවුරුම් දීම සිදුවන බව සඳහන් ය.
+
+එමෙන්ම අග්‍රාමාත්‍ය ධුරයේ ද වෙනසක් සිදුනොකිරීමට ද ජාතික ජන බලවේගය පක්ෂය තීරණය කර තිබේ.
+
+ඒ අනුව ආචාර්ය හරිනි අමරසූරිය නව රජයේ අග්‍රාමාත්‍ය ධුරයේ කටයුතු කරනු ඇති බව වාර්තා වේ.
+
+මේ අතර ගම්පහ ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් පාර්ලිමේන්තු මන්ත්‍රී මහින්ද ජයසිංහ මහතා සඳහන් කළේ, ජනතාවගේ අවශ්‍යතා හඳුනාගනිමින් ජනතාවත් සමඟ ඉදිරියට ගමන් කිරීමට තමා ඇතුළු මන්ත්‍රී කණ්ඩායම කටයුතු කරන බවය.
+
+◼️
+
+[Data](articles/20c03e3d.json)
 
 ---
 
@@ -349,6 +709,8 @@ Following their stunning victory in last week’s parliamentary election, the JV
 ...
 
 [Data](articles/c30fc084.json)
+
+[Extended Data](ext_articles/c30fc084.ext.json)
 
 ---
 
@@ -800,21 +1162,27 @@ Gusal Mendis and Janith Liyanage both tried to restore the team in the 6th wicke
 
 ---
 
-### නවසීලන්තයට එරෙහි එක්දින තරගාවලිය ලංකාව දිනයි
+### Sri Lanka wins ODI series against New Zealand
 
 *2024-11-17 23:29:58* · [`adalk`](https://www.ada.lk/sports/නවසීලන්තයට-එරෙහි-එක්දින-තරගාවලිය-ලංකාව-දිනයි/9-413108) · `si`
 
-කුසල් මෙන්ඩිස් එක් අන්තයක් ආරක්ෂා කරමින් දියත් කළ සටන්කාමී ඉනිමත් පන්දු යැවීමෙන් මෙන්ම පන්දුවට පහරදීමෙන් මහීෂ් තික්ෂණ දැක්වූ දක්ෂතාවත් සමගින් නවසීලන්තයට ඒරෙහි එක්දින තරගාවලිය තව්ත් තරගයක් ඉතිරිව තිබියදී ජය ගැනීමට ශ්‍රී ලංකා කණ්ඩායම සමත්විය.
+Sri Lanka triumphs over New Zealand in ODI series. Kusal Mendis' impressive bowling and batting lead team to victory. Sri Lanka achieves 209-run target, with Mendis scoring 74 off 102 balls. Mahime inspector and Mendis form crucial 47-run partnership for 8th wicket.
 
-නවසීලන්තය රැස්කළ ලකුණු 209ට පිළිතුරු ඉනිම ක්‍රීඩා කළ ශ්‍රී ලංකා කණ්ඩායම කඩුලු තුනක් ඉතිරිව තිබියදි ජය ගැනිමට ශ්‍රි ලංකා කණ්ඩායම සමත්විය.
+🟩
 
-ශ්‍රි ලංකා ඉනිමේ කඩුලු දැවී යද්දී කුසල් මෙන්ඩිස් සිය අන්තය ආරක්ෂා කරමින් පන්දු 102කදී ‌‌නොදැවී ලකුණු 74ක් රැස් කරමින් ශ්‍රි ලංකා කණ්ඩායමේ  ජය තහවුරු කළේය.
+Sri Lanka won the ODI tour for the ODI series of the ODI series, with the militant bowling of Kusal Mendis and the batting ceremony.
 
-අටවැනි කඩුල්ල වෙනුවෙන් මහීෂ් තීක්ෂණ හා කුසල් මෙන්ඩිස් නොබිඳුණ ලකුණු 47ක සබඳතාවක් පවත්වමින් තරගය ජයග්‍රහණය කළේය.
+Sri Lanka were able to win the Sri Lankan team to win the Sri Lankan team for the 209 runs in reply to New Zealand.
+
+When Sri Lanka's innings were bowled out for the innings, Kusal Mendis defended 74 off 102 balls with 74 off 102 balls.
+
+Mahime inspector and Kusal Mendis won a 47 running mark on behalf of the eighth wicket.
 
 ◼️
 
 [Data](articles/4c49e72c.json)
+
+[Extended Data](ext_articles/4c49e72c.ext.json)
 
 ---
 
@@ -1586,6 +1954,22 @@ Acting on instructions from a person residing in Dubai, they allegedly brought d
 
 ---
 
+### පාර්ලිමේන්තුවට කාන්තා මන්ත්‍රීවරියන් 22ක්
+
+*2024-11-17 18:32:18* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තුවට-කාන්තා-මන්ත්‍රීවරියන්-22ක්/11-413102) · `si`
+
+මෙවර පාර්ලිමේන්තුව සඳහා සියලුම පක්ෂ නියෝජනය කරමින් ඉදිරිපත් වූ කාන්තාවන්ගෙන් 21දෙනෙකු ජයග්‍රහණය කර තිබේ. එම කාන්තාවන් 21දෙනාගෙන් 19දෙනෙකුම ජාතික ජන බලවේගය නියෝජනය කරමින් පාර්ලිමේන්තුවට තේරී පත් වී ඇත. එමෙන්ම ජාතික ජන බලවේගයේ ජාතික ලැයිස්තුවෙන්ද එක් මන්ත්‍රීවරියක් පත් කර ඇත. ඒ අනුව සමස්ත මන්ත්‍රීවරියන් ප්‍රමාණය 22කි.
+
+ඒ අතරින් වැඩිම මනාප ලබා ගෙන ඇත්තේ, අග්‍රාමාත්‍ය හරිනි අමරසූරියයි. ඒ අනුව ඇය කොළඹ දිස්ත්‍රික්කයෙන් මනාප 655,289ක් ලබා ගනිමින් පාර්ලිමේන්තුවට තේරී පත් වී තිබේ. ඒ අතර සිටින ලාබාලතම කාන්තාව වන්නේ ගාල්ල දිස්ත්‍රික්කයෙන් මැතිවරණයට ඉදිරිපත් වූ හසාරා ලියනගේ වේ. 1995 වසරේ උපන් ඇය නීතිඥවරියකි.
+
+ජාතික ජන බලවේගයේ ගාල්ල දිස්ත්‍රික් විධායක සභාවේ සභිකයෙක් වන ඇය තාරුණය සවිබල ගැන්වීම වෙනුවෙන් මැදිහත් වී තිබේ. පැවති දේශපාලන සංස්කෘතිය වෙනස් කිරීම වෙනුවෙන් තමන් ජාතික ජන බලවේගය සමග එකතු වූ බව ඇය පවසයි. ඇය මනාප 82,058ක් ලබා ගනිමින් ගාල්ල දිස්ත්‍රික්කයේ මනාප ලැයිස්තුවේ තෙවන ස්ථානය හිමිකර ගෙන සිටියි. ඒ අනුව ඇය මෙවර පාර්ලිමේන්තුවට තේරී පත්වූ මන්ත්‍රීවරුන් අතරද ලාබාලතම මන්ත්‍රීවරිය වේ.
+
+...
+
+[Data](articles/58d32065.json)
+
+---
+
 ### The time correction of the policy statement submitting
 
 *2024-11-17 18:24:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்கை-அறிக்கை-சமர்ப்பிக்கும்-நேரம்-திருத்தம்/175-347339) · `ta`
@@ -1613,6 +1997,26 @@ During this session, the President will provide a detailed explanation of the go
 [Data](articles/e9eda97e.json)
 
 [Extended Data](ext_articles/e9eda97e.ext.json)
+
+---
+
+### මහ බැංකුවේ සංචිත සියයට 47කින් ඉහළට
+
+*2024-11-17 18:23:59* · [`adalk`](https://www.ada.lk/breaking_news/මහ-බැංකුවේ-සංචිත-සියයට-47කින්-ඉහළට/11-413101) · `si`
+
+2024 වර්ෂයේ මැයි මාසයේ සිට දෙසැම්බර් 31 දක්වා කාලය තුළ මහ බැංකුව සතු විදේශ සංචිත 47%ක පමණ වර්ධනයක් පෙන්නුම් කරන බව නොවැම්බර් මස 12 වන දින නිකුත් කරන ලද මහ බැංකු වාර්තාවකින් අනාවරණය වන බව, පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යානය පිළිබඳ මහාචාර්ය වසන්ත අතුකෝරළ මහතා සම ඊයේ (17දා) කරන ලද විමසීමකදී සඳහන් කරන ලදී.
+
+මෑත කාලයේදී මහ බැංකුව සමග විදේශ සංචිත ඉහළ අගයක් පැවතුණත් 2020 ජනවාරි මස 31වැනිදා වන විට එය ඩොලර් මිලියන7,513ක් පමණ විය.
+
+ඉන්පසුව එම අගය දිගින් දිගටම පහළ ගිය අතර, 2022 වර්ෂයේ ජූලි මාසය වන විට ඩොලර් මිලියන 1,854ක් දක්වා පහළ යාමක් පෙන්නුම් කරනු ලැබීය.
+
+එහෙත් 2022 ජූලි මාසයෙන් පසුව එය නැවතත් ක්‍රමයෙන් ඉහළ ගිය අතර, 2023 වර්ෂයේ දෙසැම්බර් වන විට ඩොලර් මිලියන 4,392ක් දක්වාත්, 2024 ඔක්තෝබර් මාසයේ අවසන් වන විට ඩොලර් මිලියන 6,467ක් දක්වාත් ඉහළ යාමක් දැකගත හැකිය.
+
+කෙසේ වුවද මේ තුළ චීනයෙන් හුවමාරු ක්‍රමයට ලබාගත් ඩොලර් මිලියන 1,400කට ආසන්න මුදල් ප්‍රමාණයක් පවතින බැවින් සත්‍ය වශයෙන්ම මහ බැංකුවට භාවිත කළ හැකි සංචිත පවතිනුයේ ඩොලර් මිලියන 5,000කට ආසන්න ප්‍රමාණයක් බව මහාචාර්යවරයා පැවසීය.
+
+...
+
+[Data](articles/af70f164.json)
 
 ---
 
@@ -1941,421 +2345,5 @@ Farmers' Peace Struggle, which began on September 15 last year, has been going o
 [Data](articles/58b495d4.json)
 
 [Extended Data](ext_articles/58b495d4.ext.json)
-
----
-
-### Sri Lanka NPP national list members named, Dilith from Sarvajana
-
-*2024-11-17 16:53:00* · [`economynextcom`](https://economynext.com/sri-lanka-npp-national-list-members-named-dilith-from-sarvajana-188308/) · `en`
-
-ECONOMYNEXT – Eighteen members from Sri Lanka’s Lanka National People’s Power have been declared elected to the parliament by the Elections Commission in a gazette notice.
-
-◼️
-
-[Data](articles/a4713d04.json)
-
-[Extended Data](ext_articles/a4713d04.ext.json)
-
----
-
-### Sri Lanka President’s parliament address time revised to 11.30am on Nov 21
-
-*2024-11-17 16:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-presidents-parliament-address-time-revised-to-11-30am-on-nov-21-188311/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Dissanayake will make an policy address at 11.30 am on November 21, and not 3.00 pm, as earlier indicated, the parliament said in a statement.
-
-“During this session, the President will deliver a comprehensive explanation of the government’s vision and forthcoming initiatives through the Policy Statement, addressing both Parliament and the public,” the statement said.
-
-President Dissanayake is expected to swear in a cabinet on Monday.
-
-President Dissanayake’s National People’s Power party swept parliamentary polls on November 14 winning over two thirds of the 225 assembly seats. (Colombo/Nov17/2024)
-
-◼️
-
-[Data](articles/f836cb6f.json)
-
-[Extended Data](ext_articles/f836cb6f.ext.json)
-
----
-
-### නව පාර්ලිමේන්තුවේ ජනපතිගේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම 21දා පෙ.ව. 11.30ට
-
-*2024-11-17 16:44:12* · [`adalk`](https://www.ada.lk/breaking_news/නව-පාර්ලිමේන්තුවේ-ජනපතිගේ-ප්‍රතිපත්ති-ප්‍රකාශය-ඉදිරිපත්-කිරීම-21දා-පෙ-ව--11-30ට/11-413096) · `si`
-
-දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය ආරම්භයේ දී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම 2024 නොවැම්බර් 21 දින පෙරවරු 11.30ට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සිදු කරන බව මේ වන විටත් දැනුම්දී තිබේ.
-
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 (අ) ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ සභාවාරයක් ආරම්භයේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවේදී ඉදිරිපත් කිරිමටත්, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 (ආ) අනු ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ මංගල රැස්වීම්වල මුලසුන දැරීමටත්, ජනාධිපතිවරයාට බලතල හිමිවීව තිබේ.
-
-මෙහිදි සිය ආණ්ඩුවේ ඉදිරි දැක්ම පිළිබඳ සවිස්තරාත්මක විග්‍රහයක් ජනාධිපතිවරයා විසින් සිය ප්‍රතිපත්ති ප්‍රකාශය මගින් පාර්ලිමේන්තුවට සහ මහජනතාවට ඉදිරිපත් කරනු ලබයි.
-
-දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය එළඹෙන නොවැම්බර් 21 වැනිදා පෙරවරු 10.00 ට ආරම්භ කිරීමට නියමිතය.
-
-◼️
-
-[Data](articles/b8d95602.json)
-
----
-
-### NPP and ‘Sarvajana Balaya’ National List MPs gazetted
-
-*2024-11-17 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103565/npp-and-sarvajana-balaya-national-list-mps-gazetted-) · `en`
-
-The names nominated to enter the Parliament through the National Lists of the National People’s Power (NPP) and the ‘Sarvajana Balaya’ alliance, have been gazetted.
-
-As per the gazette notification issued by the Election Commission of Sri Lanka, the MPs to enter the Parliament through the national lists of ‘Sarvajana Balaya’ and NPP are as follows:
-
-◼️
-
-[Data](articles/b5db9b47.json)
-
-[Extended Data](ext_articles/b5db9b47.ext.json)
-
----
-
-### A change in the time of submitting the policy statement
-
-*2024-11-17 16:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203466) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Policy statement timing changed: New government's policy speech now on Nov 21 at 11:30 AM. President Anura Kumara Dissanayake will deliver it. First session of 10th Parliament opens at 10:00 AM.
-
-🟩
-
-The time of the government's policy statement has been revised at the beginning of the first meeting of the 10th Parliament.
-
-Accordingly, on November 21.  11.30ට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් නව ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය සිදු කරන බව පාර්ලිමේන්තු සන්නිවේදන දෙපාර්තමේන්තුව අද (17) නිවේදනය කළේය.
-
-The Department had previously announced this on the 21st. The President is carried out at 3.
-
-According to the Constitution 33 (a) of the Constitution, the President has the powers to preside the government's policy statement in Parliament and the Constitution of the Constitution.
-
-The President presents a detailed analysis of his government's outlook by its policy statement by his policy statement.
-
-The first part of the Third Parliament is to be opened at 10.00 am.
-
-◼️
-
-[Data](articles/44f7c5dd.json)
-
-[Extended Data](ext_articles/44f7c5dd.ext.json)
-
----
-
-### Members of the National List of National People's Power
-
-*2024-11-17 16:34:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-மக்கள்-சக்தியின்-தேசிய-பட்டியல்-உறுப்பினர்கள்/175-347337) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-National List of National People's Power: 18 members elected to Parliament. The Election Commission announced this list recently. These representatives will serve in the legislative body, representing the NPP party.
-
-🟩
-
-The Election Commission has issued a list of 18 members who go to Parliament through the National List of the National People's Power (NPP).
-
-◼️
-
-[Data](articles/751f11a7.json)
-
-[Extended Data](ext_articles/751f11a7.ext.json)
-
----
-
-### Assembled vehicles imported through political friends
-
-*2024-11-17 16:33:01* · [`adalk`](https://www.ada.lk/breaking_news/එකලස්-කරන-ලද-වාහන-ගෙන්වූයේ-දේශපාලන-හිතවතුන්-හරහායි/11-413095) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan vehicle import ban leads to assembly of vehicles using spare parts. Political influence involved in importing and assembling vehicles. Associations claim economic impact and corruption. Government urged to address issue and prevent illegal assemblies.
-
-🟩
-
-The vehicles have been taken into custody in the possession of the prosecutious politicians to use the full powers to import used vehicles and using political power in the past.Added vehicles of the vehicle parts of the Import Infancy Buddhika de Silva said.
-
-He was speaking at a press conference in Nugegoda in Nugegoda to educate the issues of importers and consumers who imported the issues of importers and consumers.
-
-Speaking further, the President of the Association Buddhika de Silva said:
-
-There are about 600 members of our association. There are 3500- 4000 businessmen. There are about 10.000 other businessmen directly related to them. The dependents are too high in four lakhs.
-
-...
-
-[Data](articles/0866adac.json)
-
-[Extended Data](ext_articles/0866adac.ext.json)
-
----
-
-### Historical success
-
-*2024-11-17 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198980) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-1977: JR Jayewardene's UNP won sixth majority. Mahinda & Gotabhaya Rajapaksa approached two-thirds but national people's power prevailed. All districts except Batticaloa seized power.
-
-🟩
-
-In the 1977 general election, JR Jayawardena's United National Party got a sixth majority. Then Mahinda Rajapaksa and Gotabhaya Rajapaksa approached two -thirds but the strength of the national people's power is much stronger than them. All the districts, except the Batticaloa district, are seizing national people's power. This is the reason for this situation.
-
-◼️
-
-[Data](articles/77752508.json)
-
-[Extended Data](ext_articles/77752508.ext.json)
-
----
-
-### Last opportunity for Tamil parties
-
-*2024-11-17 16:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/198979) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Tamil parties face last chance: Tamil People's Alliance, Plot, Relo, EPDP, SLFP, and TNA secure seats. In the East, TNA holds 5 seats despite challenges and internal conflicts.
-
-🟩
-
-The Tamil People's Alliance in the North, Plot, Relo, EPDP and the Sri Lanka Freedom Party (SLFP) and two seats from the Tamil National Alliance (TNA). As for the East, the Sri Lankan TNA maintains 5 seats despite the tough challenge and the internal conflicts.
-
-◼️
-
-[Data](articles/0bc5c5e1.json)
-
-[Extended Data](ext_articles/0bc5c5e1.ext.json)
-
----
-
-### Arrested by someone with ice drugs
-
-*2024-11-17 16:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/198995) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Man arrested in Andiyapuliyankulam for possessing 5g of ice drugs. Police action based on confidential tip.
-
-🟩
-
-A man was arrested by police on Saturday (16) in the Andiyapuliyankulam area belonging to the Parayanalangulam police division.
-
-He was arrested after a roundup of confidential information received by the Parayanalangulam police station.
-
-05 g 100 ml of ice from the suspect has been seized by the police.
-
-◼️
-
-[Data](articles/01f4f6f2.json)
-
-[Extended Data](ext_articles/01f4f6f2.ext.json)
-
----
-
-### Constable associated with drug trafficking from Dubai, a famous teled acul
-
-*2024-11-17 16:19:56* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රසිද්ධ-ටෙලි-නළුවෙකුගේ-පුතා-ඩුබායි-සිට-මෙහෙයවන-මත්ද්‍රව්‍ය-ජාවාරමට-සම්බන්ධ-කොස්තාපල්-අල්ලයි/11-413094) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Constable linked to drug trafficking in Dubai, connected to a TV actor's son. Arrested by Police Narcotics Bureau. Part of Mount Lavinia Police Division. Investigation reveals involvement in large-scale drug trade. Suspect from Weeraketiya, 31 years old. Further inquiries ongoing.
-
-🟩
-
-A public constable associated with a famous Tele-actor's son has been arrested in a hiding large-scale drug trafficking in Dubai, the Police Narcotics Bureau.
-
-The sustained is an asset that is attached to a special section of the Mount Lavinia Police Division.
-
-Over Rs.The police said that the constable has revealed about the constable at the long investigation made.
-
-Investigations have revealed that the racket earns a person who earns a person who is being given to a racket to the trafficker's instructions on the instructions of Chamila.
-
-The suspect constable residing in Weeraketiya has been revealed with a mother's statement that a friend was given to his mother on two or 36 occasions.
-
-The suspect's father is living in cattle regime, but the names of Rs.
-
-The 31-year-old constable is to be interrogated on detention orders. Police are conducting further investigations.
-
-◼️
-
-[Data](articles/caa63248.json)
-
-[Extended Data](ext_articles/caa63248.ext.json)
-
----
-
-### ITAK national list MP
-
-*2024-11-17 16:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203465) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-UNP General Secretary nominated as ITAK National List MP. Mr. Pelingam represents Kachchary Kachchassa constituency in Wanni District.
-
-🟩
-
-The General Secretary of the UNP Medical Secretary of the UNP has been nominated for the National List MP who has obtained the number of votes polled by Ilankai Tamil Aru.
-
-Mr. Pelingam represented the Kachchary Kachchassa from the Wannki District.
-
-◼️
-
-[Data](articles/e3a958d3.json)
-
-[Extended Data](ext_articles/e3a958d3.ext.json)
-
----
-
-### Japanese war ship to the port
-
-*2024-11-17 16:06:34* · [`adalk`](https://www.ada.lk/picture_story/ජපාන-යුද-නැවක්-කොළඹ-වරායට/10-413093) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Japanese warship SAMIDARE visited Colombo Port on Nov 17, 2012. The ship, 151m long, was welcomed by Sri Lankan Navy. Commander Naoki Koga led the visit. Activities included Western Naval Order on Nov 18, 2024. SAMIDARE departed on Nov 19, 2024, accompanied by a Sri Lankan naval ship.
-
-🟩
-
-The Japanese Maritime Self-Defense Force 'SAMIDARE' arrived at the Port of Colombo on November 17, 2012 (Navy) and the Sri Lankan Navy welcomed the ship.
-
-The 'SAMIDARE' ship arrived at the Colombo Port, 151 meters and 1990 meters and the shipwreck commanding officer.
-
-Commander of Commander Naoki Koga and Commander of Commander Naoki Koga and Commander of Commander Naoki Kaga, Commander of Commander Naoki Kaga and Commander of the Commander of Commander Naoki Kaga will be held on 18th November 2024 at Western Naval Order.The visit is also scheduled to visit several areas.
-
-The 'SAMIDARE' is due to leave the island on 19th November 2024, with a Sri Lankan naval ship with a Sri Lankan naval ship.
-
-◼️
-
-[Data](articles/92bf18da.json)
-
-[Extended Data](ext_articles/92bf18da.ext.json)
-
----
-
-### National JHU
-
-*2024-11-17 15:52:14* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-ජාතික-ලැයිස්තු-මන්ත්‍රීවරයන්-නම්-කෙරේ/11-413092) · `si`
-
-Here's a summary of "National JHU" in 200 characters:
-
-
-
-National JHU: Appointments made to 18 National List seats based on this year's voting outcome.
-
-🟩
-
-Accordingly, these appointments have been made to the 18 National List seats, which have won the voting outcome of this year.
-
-◼️
-
-[Data](articles/0d512b85.json)
-
-[Extended Data](ext_articles/0d512b85.ext.json)
-
----
-
-### Parliament notice to new MPs
-
-*2024-11-17 15:47:23* · [`adalk`](https://www.ada.lk/breaking_news/නවක-මන්ත්‍රීවරුන්ට-පාර්ලිමේන්තුවෙන්-දැනුම්-දීමක්/11-413091) · `si`
-
-Here's a summary of the Parliament notice to new MPs in 200 characters:
-
-
-
-New MPs: Update Parliament website info. First meeting Nov 19-20. Info desk 9:30 AM-3:30 PM. Bring ID/Passport. Downloadable form option.
-
-🟩
-
-The General Secretary General Kushani Rohandera has informed the Parliamentary Website to obtain information on the Parliamentary Website in the Third Parliament.
-
-Accordingly, the Secretary General of the House has informed the Secretary General that the information on the home page is kindly requested by the Hon. Parliamentarians to visit the House of Parliament to enter the information on the first page (www.parlimen.lk).. Also, the alternative to the information available is a form that can be downloadable from this link, the Secretary General said.
-
-Further, information desk for Members of Parliament to facilitate the necessary arrangements for the first meeting of the Third Parliament, on Tuesday, November 19th and 20th. From 9.30 pm. Works at the Parliament complex for 3.30 pm. Provision of information and documents that are available to the Hon.
-
-...
-
-[Data](articles/45f45b02.json)
-
-[Extended Data](ext_articles/45f45b02.ext.json)
-
----
-
-### Sri Lanka’s tenth Parliament to welcome over 150 fresh faces as MPs
-
-*2024-11-17 15:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103564/sri-lankas-tenth-parliament-to-welcome-over-150-fresh-faces-as-mps) · `en`
-
-The 2024 parliamentary election has marked a historic shift in Sri Lanka’s legislature, with nearly 150 out of the 196 elected Members of Parliament (MPs) being newcomers.
-
-A notable 146 MPs elected to the Parliament this year are first-time representatives in Parliament.
-
-The National People’s Power (NPP) emerged as the dominant force, securing 141 parliamentary seats at the district level following a landslide victory in the 2024 General Election, which was held on 14 November. Among these, 130 MPs are reported to be newcomers to the Parliament.
-
-The Samagi Jana Balawegaya (SJB) won 35 parliamentary seats, with eight of them being new MPs. In contrast, 27 of its elected members have previous served as parliamentarians.
-
-...
-
-[Data](articles/98e07235.json)
-
-[Extended Data](ext_articles/98e07235.ext.json)
-
----
-
-### Keb in Siripura - car accident;One kills!
-
-*2024-11-17 15:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/198989) · `ta`
-
-Car crash in Siripura: Driver killed, 2 injured. Collision occurred on Talukana-Mahiyangana road. Incident reported to police.
-
-🟩
-
-Police said that a car driver was killed when a car collided with a car in Patanagala on the Talukana - Mahiyangana road under the Siripura police division.
-
-A cab traveling from Siripura to Polonnaruwa collided head -on with a car collided with a car.
-
-The car driver died after two drivers were injured and admitted to the Dehi Athikandan hospital.
-
-◼️
-
-[Data](articles/4672f1a4.json)
-
-[Extended Data](ext_articles/4672f1a4.ext.json)
-
----
-
-### Thandudal fishing vessel was transporting drugs
-
-*2024-11-17 15:35:43* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ප්‍රවාහනය-කරමින්-තිබු-බහුදින-ධීවර-යාත්‍රාවක්-අල්ලයි/11-413090) · `si`
-
-Sri Lanka Navy seizes 40kg drugs from Thandudal fishing vessel. Operation conducted west of 110 nautical miles. Suspects arrested, legal proceedings ongoing.
-
-🟩
-
-In another special operation by the Sri Lanka Navy, Sri Lanka was west of 110 nautical miles (200 km), naive miles (200 km), nabbaths, narrow, narrow, narrow, narrow, narrowingSteps were taken to take over.
-
-There are about 40 kilograms of drugs in the Sri Lankan Tiaden Rulentian fishing vessel and the multi-day vessel and suspects, further legal matters.
-
-◼️
-
-[Data](articles/cf2ab43b.json)
-
-[Extended Data](ext_articles/cf2ab43b.ext.json)
 
 ---

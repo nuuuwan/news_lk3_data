@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 17:43:37**
+As of **2024-11-18 18:02:30**
 
 ## Newspaper Stats
 
-*Scraped **55,601** Articles*
+*Scraped **55,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,214
-adaderanalk | 6,711
+adalk | 5,215
+adaderanalk | 6,713
 tamilmirrorlk | 7,878
 virakesarilk | 9,037
 adaderanasinhalalk | 9,611
@@ -26,11 +26,31 @@ adaderanasinhalalk | 9,611
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,600 (100.0%) of 55,601 articles have been extended.
+55,600 (100.0%) of 55,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Ravi Seneviratne’s FR petition dismissed
+
+*2024-11-18 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103588/ravi-seneviratnes-fr-petition-dismissed) · `en`
+
+The Supreme Court today (18) dismissed a fundamental rights petition filed by former Senior DIG of the Criminal Investigation Department (CID) and incumbent Secretary to the Ministry of Public Security, Ravi Seneviratne.
+
+The petition has been filled seeking an order declaring that his fundamental human rights had been violated when he was arrested and remanded by Wellawatte Police in connection with a vehicular accident.
+
+The petition was taken up for consideration before a three-member Supreme Court judge bench consisting of Justices S. Thurairaja, A.H.M.D. Nawaz and Priyantha Fernando.
+
+Deputy Solicitors General Disna Warnakula, representing the respondents in the petition, raised a preliminary objection and pointed out that the petition has not been filed in accordance with the Supreme Court rules.
+
+The three-judge bench of the Supreme Court, after considered the facts presented, decided to dismiss the petition by accepting the preliminary objection raised by the respondents.
+
+...
+
+[Data](articles/cdc67514.json)
+
+---
 
 ### Academic and non-academic staff of Ruhuna Uni. to launch indefinite strike
 
@@ -255,6 +275,26 @@ He had also served as the Minister of Cultural Affairs and National Heritage at 
 [Data](articles/92c26f5d.json)
 
 [Extended Data](ext_articles/92c26f5d.ext.json)
+
+---
+
+### බිරිඳ ඝාතනය කර නැන්දණියට බරපතල තුවාල කර සැමියා දිවි නසා ගනියි
+
+*2024-11-18 16:12:56* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-ඝාතනය-කර-නැන්දණියට-බරපතල-තුවාල-කර-සැමියා-දිවි-නසා-ගනියි/11-413122) · `si`
+
+අද( 18) දහවල් සැමියා විසින් සිය බිරිඳට සහ නැන්දණියට තියුණු ආයුධකින් පහර දී සිය බිරිය ඝාතනය කර  නැන්දණියට බරපතළ තුවාල සිදුකර සැකකාර සැමියා ද සිය දිවි නසා ගෙන ඇතැයි මොරගොඩ පොලිසිය කියයි.
+
+මොරගොඩ පොලිස් වසමට අයත් ලබුනෝරුව වන්නම්මඩුව ප්‍රෙද්ශයේදී මෙම සිදුවීම සිදුව තිබේ.
+
+මෙම සිද්දියෙන් ඝාතනයට ලක්ව ඇත්තේ වන්නම්මඩුව ලබුනෝරුව ප්‍රදේශයේ පදිංචිව සිටි 30 හැවිරිදි වියෙහි පසුවූ ලොකුබණ්ඩාගේ සුනෙත්‍රා කුමාරි නමැත්තියකු බව පොලිසිය කියයි.
+
+බරපතළ තත්වයේ පසුවූ බිරිඳගේ මව අසල්වාසීන් එක්ව කඩිනමින් ප්‍රතිකාර සදහා පයිරිමඩුව රෝහලට ඇතුළත් කිරීමට පියවරගෙන තිබිණපසුව එම කාන්තාව වැඩිදුර ප්‍රතිකාර සඳහා අනුරාධපුර මහ රෝහල වෙත මාරු කර යවා තිබේ.
+
+මෙලෙස ඝාතනය සිදුකිරීමෙන් අනතුරුව සියදිවි හානිකරගෙන තිබුණේ වන්නම්මඩුව ප්‍රෙද්ශයේ පදිංචිව සිටි 30 හැවිරිදි පුද්ගලයකු බව පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/c73b8d17.json)
 
 ---
 
@@ -753,6 +793,26 @@ After the accident, Sikugu was admitted to the Blind College, Ratmalana.
 [Data](articles/99dc3e5c.json)
 
 [Extended Data](ext_articles/99dc3e5c.ext.json)
+
+---
+
+### Rs. 311M received as compensation for Easter attack victims; SC calls for report on distribution
+
+*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-for-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
+
+The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
+
+The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
+
+Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
+
+The petitions were subsequently ordered to be recalled on February 27, 2025.
+
+The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
+
+◼️
+
+[Data](articles/b3b897df.json)
 
 ---
 
@@ -2387,87 +2447,5 @@ Accordingly, US $ 333 million as the first installment was released on March 21,
 [Data](articles/14a3026c.json)
 
 [Extended Data](ext_articles/14a3026c.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-18 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103570/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in the Northern and Eastern provinces, and fairly heavy showers about 50 mm are likely at some places.
-
-Showers or thundershowers will occur in Western, Sabaragamuwa, Central, Southern, Uva, North-western and North central provinces during the evening or night.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
-
-Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/bf4d9aff.json)
-
-[Extended Data](ext_articles/bf4d9aff.ext.json)
-
----
-
-### Election Commission begins to work for the little election
-
-*2024-11-18 08:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203483) · `si`
-
-Election Commission meets on 27th to discuss local gov't & Provincial Council elections. Court orders local gov't polls. Interim accounts to be presented in Parliament in Dec. Final funding decision pending. National list MPs told to submit party lists quickly. Gazette notification issued for national lists.
-
-🟩
-
-According to the end of the general election, the Election Commission is to meet again on the 27th of this month.
-
-At the meeting, the local government election and the Provincial Council elections are to be discussed.
-
-A court order has been made to hold the local government elections and discuss the main purpose of this meeting.
-
-Meanwhile, it has been reported that the current needs for the current local government and provincial council elections have been made to the interim account to be tabled in Parliament.
-
-The interim account is to be tabled in Parliament in December.
-
-The final decision has not been taken to allocate funds for elections, even though it is decided to allocate the electoral date.
-
-It is reported that the decision of the election is due to be decided by the commission meeting.
-
-Meanwhile, they inform the national list MPs not to date their political parties as soon as possible to present the lists to the Elections Commission as soon as possible.
-
-...
-
-[Data](articles/46c1baa7.json)
-
-[Extended Data](ext_articles/46c1baa7.ext.json)
-
----
-
-### Why did the people who thought were going on in the compurise?
-
-*2024-11-18 07:50:15* · [`adalk`](https://www.ada.lk/opinion/මාලිමාවේ-දිනයි-කියලා-හිතපු-අය-පැරදුණේ-ඇයි-/2-413109) · `si`
-
-People predicted to win parliamentary election defeated. Journalist Wimal Koraipuarachchi lost in Colombo District. Attorney Upul Kumarapparama defeated in Matara. Low voter turnout in Colombo seats may have contributed to losses. Candidates without prior political experience struggled to campaign effectively.
-
-🟩
-
-Several people who were predicted to win this year's parliamentary election have been defeated.
-
-Meanwhile, the Colombo District's journalist Wimal Koraipuarachchi and Attorney Upul Kumarapparama in Matara.
-
-Here, Wimal Kappiruarachchi is also in the parliamentary election in 2020. He came to the election at the seat of the Kesbewa. But this time he came to the election from the central Colombo electorate.
-
-The seat is relatively a seat of low votes in Colombo. There were 39,160 votes that won the national popularity. There were 53,161 preferential votes.
-
-Five candidates have presented five candidates in Colombo, Colombo, Colombo, Colombo, North and West Colombo.
-
-No candidate outside the seat did not propagate. The defeat of both Varai and Wimal may be the crowd density of the seats. Other
-
-...
-
-[Data](articles/a08470b1.json)
-
-[Extended Data](ext_articles/a08470b1.ext.json)
 
 ---

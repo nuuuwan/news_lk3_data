@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 03:41:35**
+As of **2024-11-19 03:25:35**
 
 ## Newspaper Stats
 
-*Scraped **55,665** Articles*
+*Scraped **55,664** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 568
+colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,372
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,664 (100.0%) of 55,665 articles have been extended.
+55,664 (100.0%) of 55,664 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -989,20 +989,6 @@ And the current government has given two-thirds power by the people of this coun
 [Data](articles/e10de903.json)
 
 [Extended Data](ext_articles/e10de903.ext.json)
-
----
-
-### Marginalisation Of The Muslim Community In The Newly Appointed Cabinet?
-
-*2024-11-18 17:46:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/marginalisation-of-the-muslim-community-in-the-newly-appointed-cabinet/) · `en`
-
-Today’s (18 November 2024) announcement of Sri Lanka’s new cabinet has sparked widespread disappointment within the Muslim community. For the first time in recent memory, the cabinet has been formed without a single Muslim representative, raising serious questions about inclusivity, equal representation, and the government’s commitment to good governance.
-
-The absence of Muslim ministers in the cabinet is deeply concerning, particularly given the historical importance of having minority representation in decision making bodies. Previous administrations, despite their flaws, acknowledged the importance of including a Muslim minister in the cabinet. For example,even former President Gotabaya Rajapaksa included Ali Sabry in his cabinet – a gesture that, symbolic or otherwise, recognised the need for minority voices in governance.
-
-...
-
-[Data](articles/ea792d9c.json)
 
 ---
 
@@ -2399,5 +2385,31 @@ The US has expressed its support for efforts to continue to capture the small re
 [Data](articles/d2a69aeb.json)
 
 [Extended Data](ext_articles/d2a69aeb.ext.json)
+
+---
+
+### Belief in the cabinet
+
+*2024-11-18 13:11:25* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-කැබිනට්-මණ්ඩලය-ගැන-තැබූ-විශ්වාසය/11-413117) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New cabinet sworn in. President Anura Kumara Dissanayake: "All new faces, but experienced in politics. Expect innovative solutions from this team."
+
+🟩
+
+President Anura Kumara Dissanayake said a number of new examples could be provided to the new cabinet.
+
+He made this statement after the swearing in the new cabinet.
+
+"All you are all new to the cabinet. New to Parliament. But politics is not new. Don't have new work. Therefore, we think that the people will be able to take a number of new examples to this Cabinet. "
+
+◼️
+
+[Data](articles/b6a44730.json)
+
+[Extended Data](ext_articles/b6a44730.ext.json)
 
 ---

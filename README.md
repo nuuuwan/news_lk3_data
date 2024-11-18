@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 22:28:20**
+As of **2024-11-18 22:16:49**
 
 ## Newspaper Stats
 
-*Scraped **55,636** Articles*
+*Scraped **55,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,223
-adaderanalk | 6,719
+adalk | 5,222
+adaderanalk | 6,718
 tamilmirrorlk | 7,880
 virakesarilk | 9,043
 adaderanasinhalalk | 9,620
@@ -26,29 +26,11 @@ adaderanasinhalalk | 9,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,634 (100.0%) of 55,636 articles have been extended.
+55,634 (100.0%) of 55,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### Over 46kg heroin found in fishing trawler intercepted on high seas; 5 arrested
-
-*2024-11-18 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103596/over-46kg-heroin-found-in-fishing-trawler-intercepted-on-high-seas-5-arrested) · `en`
-
-The Sri Lanka Navy says that more than 46kg of heroin with an estimated street value exceeding Rs. 1,152 million was found inside a local multi-day fishing trawler intercepted during a special operation on the high seas about 110 nautical miles (200km) west of Sri Lanka.
-
-The operation, conducted by SLNS Nandimithra, resulted in the apprehension of 05 suspects linked to the illicit activity, the navy said.
-
-Upon escorting the vessel to Galle Harbour, a detailed inspection uncovered approximately 46kg and 116g of heroin, concealed in 40 parcels packed into 02 sacks. The seized narcotics are estimated to have a street value exceeding Rs. 1152 million.
-
-Based on intelligence received, the Sri Lanka Navy had launched this special operation, deploying SLNS Nandimithra to intercept the suspicious local multi-day fishing trawler on the high seas west of Sri Lanka on Saturday (16).
-
-...
-
-[Data](articles/725062d0.json)
-
----
 
 ### Ravi's name gazetted as a National List MP
 
@@ -477,24 +459,6 @@ Weligama Police Ground, Dikwella Police Ground, Mirissa Fisheries Harbor, Tevinu
 [Data](articles/5d727dd8.json)
 
 [Extended Data](ext_articles/5d727dd8.ext.json)
-
----
-
-### රජය වැරදි පාරේ යනවානම් අපි විරුද්ධව නැගී සිටිනවා
-
-*2024-11-18 17:48:42* · [`adalk`](https://www.ada.lk/breaking_news/රජය-වැරදි-පාරේ-යනවානම්-අපි-විරුද්ධව-නැගී-සිටිනවා/11-413128) · `si`
-
-වත්මන් රජය මැතිවරණ වේදිකාවේ ලබා දුන් පොරොන්දු ඔවුන් හරහාම ඉට කරවා ගැනීම නව පාර්ලිමේන්තුවේ ප්‍රධාන විපක්ෂය වන සමගි ජන බලවේගයේ කාර්ය බව එම පක්ෂයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
-
-සමගි ජන බලවේග ප්‍රධාන කාර්යාලයේ අද (18දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
-
-එහිදී වැඩිදුරටත් පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා මෙලෙස අදහස් දක්වා සිටියේය.
-
-“පසුගිය 14 වැනිදා පැවති පාර්ලිමේන්තු මැතිවරණයේදී දක්ෂිණාංශික කඳවුරේ මතවාදය නියෝජනය කරමින් , ඒ මතවාදය රකිමින් අපිට ඡන්දය දුන් ජනතාවට ප්‍රථමයෙන් අපේ ස්තූතිය පුද කරන්න කැමතියි. ප්‍රජාතන්ත්‍රවාදය තුළ ඒකපාර්ශ්වික මතයක් නෙවෙයි, විරුද්ධ මතයනුත් දරන නියෝජනයක අවශ්‍යතාව තේරුම් ගත්ත ඒ ජනතාවට අපේ ස්තූතිය පුද කරන්න ඕනෑ.
-
-...
-
-[Data](articles/e10de903.json)
 
 ---
 
@@ -2581,5 +2545,57 @@ Ananda Wijebala - Public Security and Parliamentary Affairs Minister
 [Data](articles/5193fd41.json)
 
 [Extended Data](ext_articles/5193fd41.ext.json)
+
+---
+
+### The young man's claim is clowns
+
+*2024-11-18 10:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளங்குமரனின்-கூற்று-கோமாளித்தனமானது/175-347366) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan MP Geetanath Kasilingam criticizes colleague Ilangumaran's stance on parliamentary perks, urging focus on public service over personal opinions.
+
+🟩
+
+Geetanath Kasilingam, Chief Organizer of the Jaffna District of Sri Lanka PA, said that the concession on the concession of the newly elected National People's Power from the Jaffna District Ilangumaran is commanding.
+
+He made the allegation in a press release issued on Monday (18) on the comments of MP Ilangumaran that he would not get any concessions for MPs.
+
+Geetanath said that this claim is one of the clowns. The government's offer and allowances are aimed at serving the people.
+
+Avoiding these privileges in any way, the country's economy or income is not going to be raised.
+
+So use these offers and allowances to serve people. Although it is your choice to get and avoid these concessions, the people of Jaffna Kilinochchi Election District have elected you as a Member of Parliament by your confidence in your confidence.. People expect the problems and needs of the people to recognize that responsibility and provide them with a solution.
+
+...
+
+[Data](articles/4ced2f7b.json)
+
+[Extended Data](ext_articles/4ced2f7b.ext.json)
+
+---
+
+### Dr. Nalinda Jayatissa as Minister of Health and Media
+
+*2024-11-18 10:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199051) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Dr. Nalinda Jayatissa appointed Minister of Health & Media. Sworn in by President Anura Kumara Dissanayake.
+
+🟩
+
+Dr. Nalinda Jayatissa was sworn in as the Minister of Health and Media in the presence of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/27049aa1.json)
+
+[Extended Data](ext_articles/27049aa1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 06:47:11**
+As of **2024-11-18 05:50:46**
 
 ## Newspaper Stats
 
-*Scraped **55,485** Articles*
+*Scraped **55,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,39 +18,19 @@ dailyftlk | 3,795
 dailymirrorlk | 4,733
 adalk | 5,196
 adaderanalk | 6,693
-tamilmirrorlk | 7,860
+tamilmirrorlk | 7,859
 virakesarilk | 9,013
-adaderanasinhalalk | 9,592
+adaderanasinhalalk | 9,591
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,478 (100.0%) of 55,485 articles have been extended.
+55,474 (100.0%) of 55,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### අදත් තරමක තද වැසි
-
-*2024-11-18 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203477) · `si`
-
-අද (18) දිනයේ උතුරු සහ නැගෙනහිර පළාත්වල විටින් විට වැසි ඇතිවන අතර ඇතැම් ස්ථානවලට මි.මී. 50ක පමණ තරමක තද වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, බස්නාහිර, සබරගමුව, මධ්‍යම, දකුණ, ඌව, වයඹ සහ උතුරු මැද පළාත්වල සවස් කාලයේදී හෝ රාත්‍රී කාලයේදී වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මි.මී. 75ට වැඩි තරමක තද වැසි ඇතිවේ.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකියි.
-
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදු වන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
-
-◼️
-
-[Data](articles/a94b6cfe.json)
-
----
 
 ### Sustainability Awards 2024 recognises eco-friendly tourism practices
 
@@ -63,8 +43,6 @@ With a focus on sustainable supply chains, the awards honoured companies committ
 ...
 
 [Data](articles/14b57f4f.json)
-
-[Extended Data](ext_articles/14b57f4f.ext.json)
 
 ---
 
@@ -80,8 +58,6 @@ Among the highlights of the evening were the Long Service Awards, recognizing em
 
 [Data](articles/3faaa046.json)
 
-[Extended Data](ext_articles/3faaa046.ext.json)
-
 ---
 
 ### David Pieris Automobiles delivers first set of BAIC X55 SUVs in Sri Lanka
@@ -96,8 +72,6 @@ Earlier this year, DPA announced its strategic partnership with Beijing Automoti
 
 [Data](articles/d18c2a1d.json)
 
-[Extended Data](ext_articles/d18c2a1d.ext.json)
-
 ---
 
 ### Chevron Lanka collaborates with Uber SL
@@ -109,8 +83,6 @@ Chevron Lubricants Lanka PLC (Chevron Lanka), the company that markets and distr
 ...
 
 [Data](articles/e57ee18b.json)
-
-[Extended Data](ext_articles/e57ee18b.ext.json)
 
 ---
 
@@ -347,22 +319,6 @@ Due to the lack of an alternative, the people have chosen national power. Even t
 [Data](articles/763bf977.json)
 
 [Extended Data](ext_articles/763bf977.ext.json)
-
----
-
-### உக்ரைன் மீது ரஷ்யா  ஏவுகணைத் தாக்குதல்
-
-*2024-11-18 01:47:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/உக்ரைன்-மீது-ரஷ்யா-ஏவுகணைத்-தாக்குதல்/50-347358) · `ta`
-
-கடந்த 3 மாதங்களுக்குப் பின்னர் உக்ரைன் மீது ரஷ்யா பாரிய ஏவுகணை தாக்குதல்களை மேற்கொண்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
-
-நேற்று (17) காலை உக்ரைனின் தலைநகர் உள்ளிட்ட பல பகுதிகளில் குண்டு வெடிப்பு சம்பவங்கள் பதிவு செய்யப்பட்டதாக சர்வதேச ஊடகங்கள் குறிப்பிட்டுள்ளன.
-
-தற்போது உக்ரைனில் குளிர்கால பருவநிலை ஆரம்பித்துள்ள நிலையில், மின்சார வசதிகளை இலக்கு வைத்துத் தாக்குதல் நடத்தப்பட்டு வருவதாகத் தெரிவிக்கப்படுகிறது. (a)
-
-◼️
-
-[Data](articles/615ab2c9.json)
 
 ---
 
@@ -2367,5 +2323,49 @@ The National Peoples’ Power swept the general election and won more than two t
 [Data](articles/5d64d511.json)
 
 [Extended Data](ext_articles/5d64d511.ext.json)
+
+---
+
+### Celebration of the National People's Power
+
+*2024-11-17 14:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/198993) · `ta`
+
+National People's Power wins 159 seats in Sri Lanka's 10th parliamentary election. Supporters celebrate victory outside Nanuoya Despees Grimity Temple. Party leader thanks voters; many members attend celebration.
+
+🟩
+
+In Sri Lanka's 10th parliamentary election, the National People's Power won 159 seats and held a historic record in the Nanuoya Grimity area.
+
+On Saturday evening (16), the supporters of the National People's Power delivered the public to the public in front of the Nanuoya Despees Grimity Temple.
+
+Mukkaya Bhaskar, a member of the National People's Power Executive Committee and Nuwara Eliya district organizer, thanked those who voted for the election.
+
+In addition, a large number of party members and supporters living in the area participated in the event.
+
+◼️
+
+[Data](articles/75ff8db8.json)
+
+[Extended Data](ext_articles/75ff8db8.ext.json)
+
+---
+
+### Sri Lanka to benefit the coin
+
+*2024-11-17 14:18:02* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-ශ්‍රී-ලංකාවට/9-413086) · `si`
+
+Sri Lanka wins coin toss, decides to bat first in 2nd ODI against Sri Lanka today.
+
+🟩
+
+The second ODI match between Sri Lanka and Sri Lanka will be held today (17).
+
+Sri Lanka captain Charith won the coin first, decided to bowl first.
+
+◼️
+
+[Data](articles/b3526b7e.json)
+
+[Extended Data](ext_articles/b3526b7e.ext.json)
 
 ---

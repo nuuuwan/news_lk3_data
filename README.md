@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 16:59:12**
+As of **2024-11-18 16:42:07**
 
 ## Newspaper Stats
 
-*Scraped **55,597** Articles*
+*Scraped **55,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,142 +17,20 @@ economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
 adalk | 5,213
-adaderanalk | 6,710
-tamilmirrorlk | 7,878
-virakesarilk | 9,036
-adaderanasinhalalk | 9,611
+adaderanalk | 6,708
+tamilmirrorlk | 7,877
+virakesarilk | 9,032
+adaderanasinhalalk | 9,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,588 (100.0%) of 55,597 articles have been extended.
+55,587 (100.0%) of 55,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
-
-### தூக்கி வீசப்பட்ட நடத்துனர் மரணம்
-
-*2024-11-18 16:49:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூக்கி-வீசப்பட்ட-நடத்துனர்-மரணம்/175-347388) · `ta`
-
-பயணித்துக்கொண்டிருந்த இ.போ.சபைக்குச் சொந்தமான பேருந்தின் மிதி பலகையில் இருந்த இருவர் தூக்கி வீசப்பட்டு விழுந்ததில் ஒருவர் உயிரிழந்த சம்பவம் திங்கட்கிழமை (18) அதிகாலை இடம்பெற்றுள்ளது.
-
-பாணந்துறை டிப்போவுக்கு சொந்தமான பேருந்து, பாணந்துறையில் இருந்து கண்டி நோக்கி கொஸ்வத்தை பகுதியில் பயணித்துக்கொண்டிருந்த போது, ​ பேருந்தின் பின் பகுதி மிதி பலகையில் இருந்த நடத்துனர் மற்றும் பயணி   தூக்கி வீசப்பட்டு விழுந்துள்ளனர்.
-
-விபத்தில் இருவரும் படுகாயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில்  அனுமதிக்கப்பட்ட நிலையில் நடத்துனர் கிச்சை பலனின்றி உயிரிழந்துள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-◼️
-
-[Data](articles/288e8788.json)
-
----
-
-### Minister Vijitha Herath assumes duties at Foreign Ministry
-
-*2024-11-18 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103586/minister-vijitha-herath-assumes-duties-at-foreign-ministry) · `en`
-
-The newly appointed Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, assumed duties at the Foreign Ministry today (18).
-
-Senior officials of the Ministry were present on the occasion, the Ministry of Foreign Affairs said in a statement.
-
-As a Member of Parliament, Minister Herath has represented the Gampaha District since 2000. At the recently concluded General election, he was re-elected, obtaining the highest ever number of preferential votes in Sri Lanka’s Parliamentary election history.
-
-He had also previously served as the Minister of Cultural Affairs and National Heritage from 2004 - 2005, and as the Minister of Foreign Affairs of the interim government following the election of Anura Kumara Dissanayake as President on 22 September 2024.
-
-Minister Herath holds a Bachelor of Science degree from the University of Kelaniya.
-
-◼️
-
-[Data](articles/55114062.json)
-
----
-
-### இசைஞானியின் இசை ஆதிக்கம் 'விடுதலை 2 'படத்திலும் தொடருமா..!!?
-
-*2024-11-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199096) · `ta`
-
-'மக்கள் செல்வன்' விஜய் சேதுபதி - சூரி ஆகியோர் முதன்மையான கதாபாத்திரங்களில் நடித்திருக்கும் 'விடுதலை' படத்தின் இரண்டாம் பாகத்தில் இடம்பெறும்  'தினம் தினமும்' எனும் முதல் பாடலும், பாடலுக்கான லிரிக்கல் வீடியோவும் வெளியிடப்பட்டிருக்கிறது.
-
-தமிழ் திரையுலகின் தனித்துவமான அடையாளத்துடன் வலம் வரும் படைப்பாளி வெற்றிமாறன் இயக்கத்தில் உருவாகி வரும் 'விடுதலை 2' திரைப்படத்தில் விஜய் சேதுபதி, சூரி, மஞ்சு வாரியர், அனுராக் காஷ்யப், கென் கருணாஸ், பவானி ஸ்ரீ, சேத்தன், கௌதம் வாசுதேவ் மேனன், ராஜீவ் மேனன், இளவரசு, சரவண சுப்பையா உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-எக்சன் என்டர்டெய்னராக தயாராகி இருக்கும் இந்த திரைப்படத்தை ஆர் எஸ் இன்போடெய்ன்மென்ட் நிறுவனம் சார்பில் தயாரிப்பாளர் எல்ரெட் குமார் தயாரித்திருக்கிறார்.‌
-
-...
-
-[Data](articles/bd7fda82.json)
-
----
-
-### கிராமப்புற கலைஞர்களின் வாழ்வியலை பேசும் 'டப்பாங்குத்து'
-
-*2024-11-18 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199095) · `ta`
-
-'தெற்கத்தி பொண்ணு' படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமான நடிகர் சங்கர பாண்டி கிராமப்புற நாட்டிய கலைஞராக நடித்திருக்கும் 'டப்பாங்குத்து' எனும் திரைப்படம் எதிர்வரும் 29 ஆம் திகதியன்று பட மாளிகையில் வெளியாகிறது என படக் குழுவினர் தெரிவித்துள்ளனர்.
-
-இயக்குநர் முத்துவீரா இயக்கத்தில் உருவாகி இருக்கும் 'டப்பாங்குத்து' எனும் திரைப்படத்தில் சங்கர பாண்டி, தீப்தி, காதல் சுகுமார், ஆன்ரூஸ், துர்கா, விஜய் கணேஷ், ரோபோ சந்துரு உள்ளிட்ட பலர் நடித்திருக்கிறார்கள்.
-
-ராஜா கே. பக்தவச்சலம் ஒளிப்பதிவு செய்திருக்கும் இந்த திரைப்படத்திற்கு சரவணன் இசையமைத்திருக்கிறார். இந்த திரைப்படத்தை மொடர்ன் டிஜிற்றல் மீடியா எல்எல்பி நிறுவனம் சார்பில் தயாரிப்பாளர் எஸ். ஜெகநாதன் தயாரித்திருக்கிறார்.
-
-படத்தைப் பற்றி இயக்குநர் பேசுகையில், '' நாட்டுப்புற கலைகளுக்கு முக்கியத்துவம் வாய்ந்த மதுரை மண்ணை மையமாக வைத்து இப்படத்தின் கதை எழுதப்பட்டிருக்கிறது. இந்த மண்ணை சார்ந்த கலைஞரான சங்கர பாண்டி மதுரை மற்றும் அதன் சுற்றுப்புறங்களில் உள்ள ஆலயங்களுக்கும், திருவிழாக்களுக்கும் சென்று நாட்டுப்புற கலை நிகழ்ச்சி நடத்துகிறார்.
-
-...
-
-[Data](articles/2114725a.json)
-
----
-
-### Court yet to receive Govt. Analyst’s report on Senasinghe’s luxury vehicle
-
-*2024-11-18 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103585/court-yet-to-receive-govt-analysts-report-on-senasinghes-luxury-vehicle) · `en`
-
-The Fort Magistrate Thanuja Lakmali has ordered the issuance of a letter of reminder to the Government Analyst’s Department as the court had not received the analyst’s report regarding former MP Sujeewa Senasinghe’s luxury vehicle, worth around Rs. 100 million, which is suspected to have been illegally assembled.
-
-President’s Counsel Maithri Gunaratne, representing Sujeewa Senasinghe, stated that although the Criminal Investigation Department (CID) had previously informed the court that a case was being heard in the Chettikulam Court regarding the vehicle, the case in question has already been concluded.
-
-Accordingly, he therefore requested that the vehicle in question which is currently in the custody of the CID, be released to Sujeewa Senasinghe.
-
-After considering the facts presented, the Fort Magistrate ordered the case to be recalled on November 25 as the Government Analyst’s report has still not been received by the court.
-
-...
-
-[Data](articles/94ef0396.json)
-
----
-
-### ரசிகர்களுக்கு பிறந்தநாள் பரிசளித்த லேடி சுப்பர் ஸ்டார் நயன்தாரா
-
-*2024-11-18 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199093) · `ta`
-
-தென்னிந்திய திரையுலகின் லேடி சுப்பர் ஸ்டாரான நயன்தாரா நடிக்கும் புதிய திரைப்படத்திற்கு, ' ராக்காயி ' என பெயரிடப்பட்டு, அதன் டைட்டில் லுக்கும் மற்றும் டைட்டிலுக்கான டீஸரும் வெளியிடப்பட்டிருக்கிறது. அவரது பிறந்த நாளை முன்னிட்டு வெளியிடப்பட்டிருப்பதால் ரசிகர்கள் உற்சாகமடைந்திருக்கிறார்கள்.
-
-அறிமுக இயக்குநர் செந்தில் நல்லசாமி இயக்கத்தில் உருவாகி வரும் ' ராக்காயி' எனும் திரைப்படத்தில் லேடி சுப்பர் ஸ்டார் நயன்தாரா கதையின் நாயகியாக நடிக்கிறார். கௌதம் ராஜேந்திரன் ஒளிப்பதிவு செய்யும் இந்த திரைப்படத்திற்கு கோவிந்த் வசந்தா இசையமைத்திருக்கிறார்.
-
-பீரியட் எக்சன் என்டர்டெய்னராக தயாராகும் இந்த திரைப்படத்தை ட்ரம்ஸ்டிக் புரொடக்ஷன்ஸ் மற்றும் மூவி வெர்ஸ் ஸ்டுடியோஸ் ஆகிய நிறுவனங்கள் சார்பில் தயாரிப்பாளர்கள் வெடிக்காரன்பட்டி எஸ். சக்திவேல் மற்றும் எஸ் .ஆதித்யா பிட்டி ஆகியோர் இணைந்து தயாரிக்கிறார்கள்.
-
-இப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள் நடிகைகள் பற்றிய விபரங்கள் விரைவில் அதிகாரப்பூர்வமாக அறிவிக்கப்படும் என படக் குழுவினர் தெரிவித்துள்ளனர்.
-
-...
-
-[Data](articles/3cc4a979.json)
-
----
-
-### විජිත අමාත්‍ය ධුරයේ වැඩ භාරගනියි
-
-*2024-11-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203500) · `si`
-
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය ලෙස දිවුරුම් දුන් විජිත හේරත් මහතා අද (18) සිය අමාත්‍ය ධුරයේ වැඩ භාරගෙන ගත්තේය.
-
-ඔහු මීට පෙර ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යවරයා ලෙස කටයුතු කළේය.
-
-එමෙන්ම ඔහු මීට පෙර 2004-2005 වසරේ එවකට පැවති රජයේ සංස්කෘතික කටයුතු සහ ජාතික උරුමයන් පිළිබඳ අමාත්‍යවරයා ලෙස ද කටයුතු කර තිබුණි.
-
-◼️
-
-[Data](articles/92c26f5d.json)
-
----
 
 ### Husband
 
@@ -185,46 +63,6 @@ According to the information available, the suspect, a 40 -year -old man, has be
 [Data](articles/fdeeb4f2.json)
 
 [Extended Data](ext_articles/fdeeb4f2.ext.json)
-
----
-
-### கல்கிசையில் போதைப்பொருட்களுடன் ஒருவர் கைது !
-
-*2024-11-18 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199085) · `ta`
-
-கல்கிசை பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் ஐஸ் மற்றும் ஹெரோயின் போதைப்பொருட்களுடன் சந்தேக நபர் ஒருவர் நேற்று ஞாயிற்றுக்கிழமை (17) கைது செய்யப்பட்டுள்ளதாக பொலிஸ் விசேட அதிரடிப்படையினர் தெரிவித்தனர்.
-
-பொலிஸ் விசேட அதிரடிப்படையினருக்குக் கிடைத்த தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கல்கிஸ்ஸை பிரதேசத்தைச் சேர்ந்த 33 வயதுடையவர் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து 15 கிராம் 555 மில்லிகிராம் ஐஸ் போதைப்பொருள், 840 மில்லிகிராம் ஹெரோயின் போதைப்பொருள் மற்றும் போதைப்பொருள் கடத்தல் மூலம் சம்பாதித்துள்ளதாக சந்தேகிக்கப்படும் 14,500 ரூபா பணம் என்பன கைப்பற்றப்பட்டுள்ளது.
-
-இதனையடுத்து, கைது செய்யப்பட்ட சந்தேக நபர் மேலதிக விசாரணைகளுக்காக கல்கிசை பொலிஸ் நிலையத்தில் ஒப்படைக்கப்பட்டுள்ளார்.
-
-◼️
-
-[Data](articles/bf5fb15a.json)
-
----
-
-### ප්‍රබල අමෙරිකානු අවි රුසියාව දෙසට
-
-*2024-11-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203499) · `si`
-
-යුක්‍රේන යුද්ධයේ තීරණාත්මක වෙනසක් මෙන්ම එහි අනතුරුදායක වර්ධනයක් අපේක්ෂා කළ හැකි පියවරක් අමෙරිකානු ජනාධිපති ජෝ බයිඩන් විසින් ගෙන ඇති බව ජාත්‍යන්තර මාධ්‍ය අද (18) වාර්තා කර තිබේ.
-
-ඒ අමෙරිකාව විසින් සපයනු ලබන දිගු දුර මිසයිල ඇතුළු නවීන යුද අවි රුසියානු භූමිය තුළට එල්ල කිරීම සඳහා යුක්‍රේනයට අවසර ලබාදීමයි.
-
-රුසියාව එල්ල කරන දැවැන්ත ප්‍රහාර හමුවේ තමන්ට වාසිදායක තත්ත්වයක් ලබාගැනීමට නම් මේ ආකාරයෙන් අමෙරිකානු මිසයිල රුසියානු භූමියේ අභ්‍යන්තරයට එල්ල කිරීමට හැකියාවක් තිබිය යුතු බව යුක්‍රේන ජනාධිපති වොලොඩොමීර් සෙලෙන්ස්කි බොහෝ කලක සිට දැරූ මතයකි.
-
-එහෙත් යුද්ධය ව්‍යාප්ත වීමේ අවදානම මෙන්ම රුසියාව සිදුකරන අනතුරු ඇඟවීම් හමුවේ අමෙරිකාව ඇතුළු බටහිර රටවල් යුක්‍රේනයට මෙතෙක් ඒ සඳහා අනුමැතිය ලබා නොදීමට පියවර ගෙන තිබුණි.
-
-විචාරකයන් මෙය හඳුන්වා දී ඇත්තේ ජනපති බයිඩන් විසින් මේ වන විට ගෙන ඇති තීරණය යුක්‍රේන යුද්ධය සම්බන්ධයෙන් අමෙරිකාවේ ප්‍රතිපත්තියේ කැපී පෙනෙන වෙනසක් ලෙසය.
-
-...
-
-[Data](articles/2dcb260c.json)
 
 ---
 
@@ -284,27 +122,17 @@ Subsequently, the suspect has been handed over to the Boraleskamuwa police stati
 
 ---
 
-### Ministries under the President
+### ජනපති යටතට ගත් අමාත්‍යාංශ
 
 *2024-11-18 15:40:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යටතට-ගත්-අමාත්‍යාංශ/11-413120) · `si`
 
-Here's a summary in 200 characters:
+ජාතික ජන බලවේගය රජයේ නව අමාත්‍ය මණ්ඩලය අද (18දා) පෙරවරුවේදී ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම් දුන්නේය. අග්‍රාමාත්‍යවරිය හැරුණු කොට නව අමාත්‍ය මණ්ඩලය 21කට සීමා විය.
 
-
-
-New Ceylon Cabinet sworn in. 21 ministers excluding PM. Key portfolios: Security, Cash Design, Economic Development, Digital Economic Development.
-
-🟩
-
-The new Ceylon Cabinet of the National Ceylon Forgitation was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat this morning (18). The new Cabinet of Ministers except the Prime Minister were limited to 21.
-
-President Anura Kumara Dissanayake has kept security, cash design and economic development, Digital Economic Development.
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ආරක්ෂක , මුදල් සැලසුම් සහ ආර්ථික සංවර්ධන, ඩිජිටල් ආර්ථික අමාත්‍යාංශ තමා යටතේ තබාගෙන ඇත.
 
 ◼️
 
 [Data](articles/d471378a.json)
-
-[Extended Data](ext_articles/d471378a.ext.json)
 
 ---
 
@@ -381,6 +209,54 @@ The report also states that the Election Commission will be notified of the othe
 [Data](articles/edc7d476.json)
 
 [Extended Data](ext_articles/edc7d476.ext.json)
+
+---
+
+### Trump and AKD: the vital differences
+
+*2024-11-18 14:27:00* · [`islandlk`](http://island.lk/trump-and-akd-the-vital-differences/) · `en`
+
+The people of the United States of America elected that country’s 47th president on November 5, 2024. Donald Trump, who had served as the 45th president and was defeated by Joe Biden, made an unprecedented comeback, securing 312 votes of the electoral college. It left those who backed his main opponent, Democratic Party candidate and serving Vice President, Kamala Harris, in shock. After all, Trump was convicted on 34 felony counts of falsifying business records in May in New York and is currently facing charges of fraud, election subversion, and obstruction.
+
+How on earth did he even get on the ballot? How on earth did he win? Are those who voted for him ignorant of his criminal record? Have they forgotten how he covered himself in ignominy in the aftermath of losing the 2020 election? These are the questions that his detractors ask.
+
+...
+
+[Data](articles/656d7b37.json)
+
+[Extended Data](ext_articles/656d7b37.ext.json)
+
+---
+
+### A brief electoral review of the new and improved United States of Amnesia
+
+*2024-11-18 14:23:00* · [`islandlk`](http://island.lk/a-brief-electoral-review-of-the-new-and-improved-united-states-of-amnesia/) · `en`
+
+Trump’s proposed cabinet appointments short on quality, long on slavish loyalty
+
+Last week, in the despair I felt in the aftermath of the election to the US presidency of the most evil man in the United States, I wrote that I will take a break to lick my wounds and get over my distress at the apparent catastrophe that has befallen my second home. Then I realized that this is not the end of the world, though it sure felt like it on the morning after the election.
+
+I learned that I was not alone in these feelings of despair. Trump’s win had sparked off an unprecedented increase in Google searches reflecting a growing interest among Americans in relocating to foreign countries, New Zealand heading the list with an astonishing 7,600% increase! The next most popular Google search was “the least painful way to kill yourself”.
+
+...
+
+[Data](articles/8ed09636.json)
+
+[Extended Data](ext_articles/8ed09636.ext.json)
+
+---
+
+### After the funeral: A post-mortem on the US election
+
+*2024-11-18 14:21:00* · [`islandlk`](http://island.lk/after-the-funeral-a-post-mortem-on-the-us-election/) · `en`
+
+Last week’s presidential election was doubtless one of the most consequential in US history. Though the outcome was not predictable – most polls showed a tight race between Kamala Harris and Donald Trump – with the benefit of hindsight one can say that the Democrats should have seen it coming. Over the next few days and weeks, there will be a slew of analyses and diagnoses claiming to pinpoint the reasons for their defeat. Yet as Sri Lankan political analyst Rajni Gamage rightly put it in a recent tweet, such diagnoses are themselves problematic, and point to the biases of those making them.
+
+...
+
+[Data](articles/2aedc11a.json)
+
+[Extended Data](ext_articles/2aedc11a.ext.json)
 
 ---
 
@@ -2441,5 +2317,117 @@ The Department of Meteorology urges the public to take necessary steps to reduce
 [Data](articles/a94b6cfe.json)
 
 [Extended Data](ext_articles/a94b6cfe.ext.json)
+
+---
+
+### Here is the cabinet of the new government today
+
+*2024-11-18 05:28:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0j86g88ln8o) · `si`
+
+Here's a summary of the three topics in approximately 200 characters:
+
+
+
+New government cabinet announced today. WhatsApp warning about cyber fraud prevention. General Election 2024 updates: National List MP appointments revealed.
+
+🟩
+
+WhatsApp Crigs: How you get to cyber frauds and don't be the victim
+
+The General Election 2024: Who has been appointed to the National List MPs so far?
+
+◼️
+
+[Data](articles/d6923d7a.json)
+
+[Extended Data](ext_articles/d6923d7a.ext.json)
+
+---
+
+### Sustainability Awards 2024 recognises eco-friendly tourism practices
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/sustainability-awards-2024-recognises-eco-friendly-tourism-practices/) · `en`
+
+The 2024 Sustainability Awards, organised by the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) and funded by the Friedrich Naumann Foundation for Freedom (FNF Sri Lanka), took place on 12 November 2024 at the Hilton Colombo Residences. This year’s event brought together industry leaders, policymakers, and sustainability advocates to recognise and celebrate exceptional achievements in sustainable business practices within Sri Lanka’s tourism sector.
+
+With a focus on sustainable supply chains, the awards honoured companies committed to eco-friendly and socially responsible practices. The ceremony provided a platform for showcasing innovations in sustainability, empowering businesses to adopt practices that positively impact both people and the environment.
+
+...
+
+[Data](articles/14b57f4f.json)
+
+[Extended Data](ext_articles/14b57f4f.ext.json)
+
+---
+
+### HNB Assurance hosts its annual staff conference
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-its-annual-staff-conference/) · `en`
+
+HNB Assurance recently hosted its annual staff conference, bringing together team members from all over the island for a day of celebration, recognition and fellowship. It was a night to honor the amazing people who are at the heart of HNB Assurances’ incredible growth, with awards for long service, excellence and standout achievements.
+
+Among the highlights of the evening were the Long Service Awards, recognizing employees who have been part of the HNB Assurance family for over 15 years. The Chairman’s Award, the night’s top honor, went to those who have truly gone above and beyond in their roles. The In.she Woman Empowerment Award celebrated women making an impact and the CEO’s Special Recognition award acknowledged employees achieving outstanding milestones outside their day-to-day work, especially in the field of sports.
+
+...
+
+[Data](articles/3faaa046.json)
+
+[Extended Data](ext_articles/3faaa046.ext.json)
+
+---
+
+### David Pieris Automobiles delivers first set of BAIC X55 SUVs in Sri Lanka
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/david-pieris-automobiles-delivers-first-set-of-baic-x55-suvs-in-sri-lanka/) · `en`
+
+David Pieris Automobiles (Private) Limited (DPA), a subsidiary of the David Pieris Group (DPG), Sri Lanka’s largest automotive group, delivered the first set of BAIC X55 SUVs to its customers at the BAIC Showroom in Battaramulla recently.
+
+Earlier this year, DPA announced its strategic partnership with Beijing Automotive Industry Holding Co., Ltd. (BAIC), a Fortune 500 Company and accepted pre-bookings for the BAIC X55 promising a new era of innovative, quality products and unparalleled customer service for Sri Lankan motorists. True to its promise despite many challenges, the Company imported and has now commenced delivery of this futuristic model with local value addition which was conducted under the Standard Operating Procedure for the Automobile Manufacturing and Assembling Industry and Automobile Component Manufacturing Industry in Sri Lanka as introduced by the Ministry of Industries.
+
+...
+
+[Data](articles/d18c2a1d.json)
+
+[Extended Data](ext_articles/d18c2a1d.ext.json)
+
+---
+
+### Chevron Lanka collaborates with Uber SL
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/chevron-lanka-collaborates-with-uber-sl/) · `en`
+
+Chevron Lubricants Lanka PLC (Chevron Lanka), the company that markets and distributes Caltex-branded lubricants, is pleased to announce its collaboration with Uber in Sri Lanka. Drivers using Uber for providing Rides and doing deliveries will now have access to Chevron Lanka’s wide range of premium lubricants, known for enhancing engine performance, extending vehicle life, and optimizing fuel efficiency at special prices. This will help them save on essential vehicle maintenance and benefit them with superior protection and performance on the road.
+
+...
+
+[Data](articles/e57ee18b.json)
+
+[Extended Data](ext_articles/e57ee18b.ext.json)
+
+---
+
+### SJB expresses readiness to fulfil Opposition role
+
+*2024-11-18 04:15:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-expresses-readiness-to-fulfil-Opposition-role/56-769368) · `en`
+
+SJB’s Ranjith Madduma Bandara says party will monitor Govt.’s actions to ensure promises to people are fulfilled
+
+Calls on Govt. to enact anti-corruption laws and implement them immediately
+
+Claims SJB will safeguard democracy and rights while holding NPP Govt. accountable
+
+Imtiaz Bakir Marker says public ignored SJB policies and voted NPP to challenge existing political culture
+
+Notes party, despite recent setbacks, is analysing all shortcomings in order to improve going forward
+
+Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has emphasised that the SJB is prepared to fulfil its responsibilities as a strong Opposition in a country facing significant economic challenges.
+
+Addressing a press conference in Colombo yesterday, Madduma Bandara noted that while the SJB has now emerged as the main party of the Opposition, it comes with the opportunity and responsibility to carry out a significant task for the country.
+
+...
+
+[Data](articles/9d173069.json)
+
+[Extended Data](ext_articles/9d173069.ext.json)
 
 ---

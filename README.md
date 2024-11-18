@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 23:42:11**
+As of **2024-11-19 00:16:29**
 
 ## Newspaper Stats
 
-*Scraped **55,645** Articles*
+*Scraped **55,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,372
-dailyftlk | 3,795
+dailyftlk | 3,799
 dailymirrorlk | 4,733
 adalk | 5,223
 adaderanalk | 6,720
@@ -26,25 +26,101 @@ adaderanasinhalalk | 9,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,637 (100.0%) of 55,645 articles have been extended.
+55,640 (100.0%) of 55,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
-### ரவி, நாமல், சத்தியலிங்கம் - வெளியானது அதிவிசேட வர்த்தமானி
+### Ravi, Namal, Sathiyalingam - Released
 
 *2024-11-18 23:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-நாமல்-சத்தியலிங்கம்-வெளியானது-அதிவிசேட-வர்த்தமானி/175-347405) · `ta`
 
-புதிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினராக ரவி கருணாநாயக்க தெரிவு செய்யப்பட்டுள்ளதாக அதிவிசேட வர்த்தமானியை தேர்தல் ஆணைக்குழு வெளியிட்டுள்ளது.
+Here's a summary in 200 characters:
 
-குறித்த வர்த்தமானி அறிவித்தலில் பொதுஜன பெரமுனவின் தேசிய பட்டியல் உறுப்பினராக நாமல் ராஜபக்ஷ மற்றும் தமிழரசுக் கட்சியின் தேசிய பட்டியல் உறுப்பினராக பத்மநாதன் சத்தியலிங்கம் தெரிவு செய்யபட்டு அவர்களின் பெயர்களும் உள்ளடக்கப்பட்டுள்ளது.
 
-இதேவேளை ரவி கருணாநாயக்க தெரிவு செய்யப்பட்ட விடயம் கட்சி தலைமைக்கும் உறுப்பினர்களுக்கும் தெரியாது என்றும் அது கட்சியின் செயலாளர் தன்னிச்சையாக எடுத்த தீர்மானம் எனவும் கட்சிக்குள் குழப்பநிலை ஏற்பட்டு, நாளை கட்சி உறுப்பினர்கள் கூடி கலந்துரையாடவுள்ளதாக அறிவிக்கப்பட்டிருந்த நிலையில் இந்த வர்த்தமானி அறிவிப்பு வெளியாகியுள்ளது. R
+
+Election Commission gazette: Ravi Karunanayake elected to National List New Democratic Front. Pathmanathan Sathiyalingam named as Namal Rajapaksa Tamil National Party member PA National List. Ravi unaware of party leadership; members confused by arbitrary decision, meeting tomorrow.
+
+🟩
+
+The Election Commission has issued a high -level gazette that Ravi Karunanayake has been elected as the National List of the New Democratic Front.
+
+The gazette notification includes the names of Pathmanathan Sathiyalingam as Namal Rajapaksa and the National List of the Tamil National Party as a member of the National List of the PA.
+
+Meanwhile, Ravi Karunanayake has been unaware of the party leadership and the members of the party and that the party's secretary's arbitrarily decision has been confused and the party members have been announced to meet tomorrow.. Remble
 
 ◼️
 
 [Data](articles/72da3af6.json)
+
+[Extended Data](ext_articles/72da3af6.ext.json)
+
+---
+
+### Poverty of CBSL’s monetary policies: Part 1
+
+*2024-11-18 23:14:43* · [`dailyftlk`](https://www.ft.lk/columns/Poverty-of-CBSL-s-monetary-policies-Part-1/4-769383) · `en`
+
+The economic consequences of the CBSL losing control over interest rates cannot be overstated
+
+What is notable is not only that the CBSL continues to adhere to its flawed notion of money printing despite the evident logical issues in its interpretation, but also that it persists in its commitment to the quantity theory of money (QTM)—or at least its own variant of this theory. This is in spite of the numerous and growing criticisms from researchers in central banks across the world, including those considered to be at the forefront of research in monetary policy, such as the US and the UK
+
+The CBSL does not appear to be fully committed to setting and targeting money market interest rates, which requires it to allow the quantity of cash to be determined by the market. In fact, as the IMF observes, the CBSL seems to be permitting the market, rather than policy, to set money market rates, while managing liquidity to prevent instability in these rates
+
+...
+
+[Data](articles/95452188.json)
+
+---
+
+### A ‘tectonic shift’ in  the plate of politics
+
+*2024-11-18 23:07:57* · [`dailyftlk`](https://www.ft.lk/columns/A-tectonic-shift-in-the-plate-of-politics/4-769382) · `en`
+
+Give the government a place to stand and let us hope it has the strength to move the earth
+
+It must be evident by now in the densest of crania in the most conservative of political think tanks circumscribing the cocktail circuit that ‘something happened’.
+
+But it may be a while before the penny, as they say, drops. Because, as a London-based revolutionary far from his Teutonic homeland once essayed about the plight of an oppressed class of people his continent over – from Moscow to Manchester – and their oppressors: “When the sufferers learn to think, then the thinkers will learn to suffer.” (Yes Karl Marx)
+
+There are, it is said jocularly in circles where wit is observational of everyone else but oneself, three types of people: those who make things happen, those who watch while it is happening, and those who wonder: ‘what happened?’
+
+What happened was that the threefold cord which is not quickly broken snapped suddenly after ever-increasing tension over the years.
+
+...
+
+[Data](articles/822bd68e.json)
+
+---
+
+### “Help us fall in love again”: Note to President and new Government of Sri Lanka
+
+*2024-11-18 23:03:15* · [`dailyftlk`](https://www.ft.lk/columns/Help-us-fall-in-love-again-Note-to-President-and-new-Government-of-Sri-Lanka/4-769381) · `en`
+
+Congratulations on your remarkable landslide victory, securing over a two-thirds majority in Parliament. This is a testament to the trust and belief the general public has in you. You have also set an inspiring example for greater women’s political participation, which is truly commendable.
+
+As Sri Lankans, we have often relied on politicians to handle everything, but this approach has proven flawed. I genuinely want you to succeed so our country can regain its former glory. That is why I am raising my voice and sharing my perspective through this note, hoping it might be of value.
+
+We can’t afford any more mistakes; the situation we find ourselves in today is dire. Every decision must be made with great care. The glass cliff lies before you and your Government, and navigating this challenging situation requires caution and thoughtful action. I offer this note in the hope that it may provide some guidance as you proceed.
+
+...
+
+[Data](articles/92326581.json)
+
+---
+
+### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
+
+*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380) · `en`
+
+Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
+
+Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
+
+...
+
+[Data](articles/b70bb8ef.json)
 
 ---
 
@@ -103,6 +179,8 @@ The more-than two-third majority will enable the Dissanayake’s new government 
 ...
 
 [Data](articles/714c0f63.json)
+
+[Extended Data](ext_articles/714c0f63.ext.json)
 
 ---
 
@@ -273,6 +351,8 @@ The IMF delegation is in Colombo to complete the third review of the loan progra
 ...
 
 [Data](articles/e2c3e1a7.json)
+
+[Extended Data](ext_articles/e2c3e1a7.ext.json)
 
 ---
 
@@ -2357,183 +2437,5 @@ The President thanked all the supporters who voted for the new government to com
 [Data](articles/d3131d34.json)
 
 [Extended Data](ext_articles/d3131d34.ext.json)
-
----
-
-### What is the message that has changed in the North and Eastern Provinces that have been changed in 2 months?
-
-*2024-11-18 11:45:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36p3jkw0z8o) · `si`
-
-Here are some tips to avoid falling victim to cyber fraud:
-
-
-
-1. Be cautious with links and attachments:
-
-   - Don't click on suspicious links or download attachments from unknown sources.
-
-   - Verify the sender before interacting with any links or attachments.
-
-
-
-2. Use strong passwords:
-
-   - Create unique, complex passwords for each account.
-
-   - Avoid using easily guessable information like names or birthdates.
-
-
-
-3. Enable two-factor authentication:
-
-   - This adds an extra layer of security to your accounts.
-
-   - Use authenticator apps or SMS codes for added protection.
-
-
-
-4. Keep software updated:
-
-   - Regularly update your operating system, browser, and other software.
-
-   - Outdated software can have known vulnerabilities exploited by hackers.
-
-
-
-5. Be wary of phishing scams:
-
-   - Legitimate companies won't ask for sensitive information via email or text.
-
-   - If something seems suspicious, contact the company directly through official channels.
-
-
-
-6. Use reputable antivirus software:
-
-   - Install and regularly update antivirus programs on your devices.
-
-   - Run regular scans to detect and remove malware.
-
-
-
-7. Be cautious with public Wi-Fi:
-
-   - Avoid accessing sensitive information on unsecured networks.
-
-   - Use a VPN when connecting to public Wi-Fi networks.
-
-
-
-8. Monitor your accounts and credit reports:
-
-   - Check for any suspicious activity on your financial accounts.
-
-   - Review your credit report regularly for unauthorized changes.
-
-
-
-9. Be cautious with social media:
-
-   - Don't share personal information publicly on social media platforms.
-
-   - Be wary of friend requests from unknown people.
-
-
-
-10. Educate yourself:
-
-    - Stay informed about common cyber fraud tactics and scams.
-
-    - Learn how to identify and avoid potential threats.
-
-
-
-Remember, cybersecurity is an ongoing process. Stay vigilant and regularly review your online security measures to protect yourself against cyber fraud.
-
-🟩
-
-What is the message that has changed in the North and Eastern Provinces that have been changed in 2 months?
-
-The people who have been living in the North and the Eastern Provinces have taken measures to provide the political power of the North and the Eastern Provinces this year.
-
-The democratic politics of the country was in the beginning and the power in the North and the Eastern provinces were raised around several ethnicity based political parties.
-
-However, the election results are observed that the election results have been deprived of the power over the political parties that were previously lost in the parliamentarian this year.
-
-The majority of the provinces of the North and East have taken steps to provide new candidates who contested the traditional political power in the national propaganda of the Tamil and Muslim political parties.
-
-...
-
-[Data](articles/fc3d1736.json)
-
-[Extended Data](ext_articles/fc3d1736.ext.json)
-
----
-
-### Sickness in the military camp
-
-*2024-11-18 11:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாமில்-சுகயீனம்/175-347370) · `ta`
-
-Fever outbreak hits military camp in Mannar and Vidathalivu, affecting 25 soldiers. Isolation measures implemented, with some hospitalized. Over 500 soldiers quarantined as precautionary step. Incident reported since November 11th.
-
-🟩
-
-About 25 soldiers have been affected by the fever at a military camp in Mannar and Vidathalivu, the military said.
-
-The Ranam also reportedly said that the fever was isolated in the camp.
-
-Steps have been taken to admit a group of affected soldiers to the hospital and one of them is for treatment.. It has also been reported to have been sent to the hospital.
-
-The Mannar Regional Health Department has stated that steps have been taken to isolate more than 500 soldiers in the camp.
-
-The fever has been reported in a military camp since the 11th.
-
-◼️
-
-[Data](articles/78084750.json)
-
-[Extended Data](ext_articles/78084750.ext.json)
-
----
-
-### Nearly 500 soldiers quarantined at army camp due to flu outbreak
-
-*2024-11-18 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103577/nearly-500-soldiers-quarantined-at-army-camp-due-to-flu-outbreak) · `en`
-
-The Sri Lankan Army says it has implemented quarantine measures for soldiers at the army camp in the Veditalativu area in Mannar, following a flu outbreak among a group of army personnel.
-
-Sri Lanka Army spokesperson confirmed that around 25 soldiers have contracted the flu, with several requiring hospitalization. One soldier has been transferred to the National Institute of Infectious Diseases (IDH) for advanced treatment.
-
-In response to the outbreak, the Mannar health officials have taken steps to quarantine nearly 500 soldiers within the camp itself to control the spread of the viral flu.
-
-The flu outbreak, which had commenced from November 11, continues to be closely monitored by health and military authorities to ensure effective containment and timely medical intervention.
-
-◼️
-
-[Data](articles/83aff67f.json)
-
-[Extended Data](ext_articles/83aff67f.ext.json)
-
----
-
-### Professor Anil Jayantha Fernando
-
-*2024-11-18 11:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199063) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Prof. Anil Jayantha Fernando sworn in as Labor Minister. President Anura Kumara Dissanayake present.
-
-🟩
-
-Professor Anil Jayantha Fernando was sworn in as the Minister of Labor in the presence of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/ef62c41b.json)
-
-[Extended Data](ext_articles/ef62c41b.ext.json)
 
 ---

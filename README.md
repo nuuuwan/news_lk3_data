@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 19:02:16**
+As of **2024-11-18 20:00:09**
 
 ## Newspaper Stats
 
-*Scraped **55,611** Articles*
+*Scraped **55,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,126 @@ economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
 adalk | 5,216
-adaderanalk | 6,715
-tamilmirrorlk | 7,878
-virakesarilk | 9,037
+adaderanalk | 6,717
+tamilmirrorlk | 7,879
+virakesarilk | 9,043
 adaderanasinhalalk | 9,615
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,606 (100.0%) of 55,611 articles have been extended.
+55,617 (100.0%) of 55,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
-### ජනපති දෙසැම්බරයේ ඉන්දියාව ට
+### சர்வதேச நாணயநிதியம் சமநிலையான அணுகுமுறையை பின்பற்றவேண்டும் - ஜனாதிபதி
+
+*2024-11-18 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199112) · `ta`
+
+பொதுமக்கள் எதிர்கொள்ளும் நெருக்கடிகளை கவனத்திலெடுக்கும் சமநிலையான அணுகுமுறையான சர்வதேச நாணயநிதியம் பின்பற்றவேண்டும் என ஜனாதிபதி அனுரகுமாரதிசநாயக்க வேண்டுகோள் விடுத்துள்ளார்
+
+பொதுமக்கள் எதிர்கொள்ளும் கடுமையான நெருக்கடிகளிற்கு தீர்வை காண்பதற்கு அரசாங்கத்தின் அர்ப்பணிப்பை வெளியிட்டுள்ள ஜனாதிபதி பொதுமக்கள் எதிர்கொள்ளும் நெருக்கடிகளை கவனத்திலெடுக்கும் சமநிலையான அணுகுமுறையான சர்வதேச நாணயநிதியம் பின்பற்றவேண்டும் என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/eee762b9.json)
+
+---
+
+### IMF delegation meets President and key ministers
+
+*2024-11-18 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103594/imf-delegation-meets-president-and-key-ministers) · `en`
+
+Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer and the delegation has met with President Anura Kumara Dissanayake and key ministers of the government today (18).
+
+During the meeting, the President has urged the IMF to maintain a balanced approach that considers the hardships faced by citizens, the President’s Media Division said.
+
+Furthermore, Dissnayake has emphasized that the success of the IMF programme hinges on rebuilding public trust in governance, the PMD added.
+
+Posting on ‘X’ President Dissnayake stated that the discussion was focused on tackling child poverty and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.
+
+◼️
+
+[Data](articles/8b3b9b88.json)
+
+[Extended Data](ext_articles/8b3b9b88.ext.json)
+
+---
+
+### Ravi nominated for National List seat without Ranil and NDF parties’ consent?
+
+*2024-11-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103593/ravi-nominated-for-national-list-seat-without-ranil-and-ndf-parties-consent) · `en`
+
+The leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe has reportedly informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of the other parties and himself.
+
+According to the results of the 2024 General Election, the New Democratic Front (NDF), which contested under the symbol of the ‘Gas Cylinder’, won three parliamentary seats and two National List seats.
+
+The New Democratic Front was formed by the United National Party (UNP), the Sri Lanka Freedom Party (SLFP) and the ‘Podujana Eksath Nidahas Peramuna’ to contest the election.
+
+Accordingly, it had been proposed to name one member each from the ‘Podujana Eksath Nidahas Peramuna’ and the United National Party (UNP) for the two National List seats while the final decision on the matter was expected to be taken tomorrow (18) collectively by all parties in the alliance.
+
+...
+
+[Data](articles/e8fcd9ed.json)
+
+[Extended Data](ext_articles/e8fcd9ed.ext.json)
+
+---
+
+### Third installment holiday announcement
+
+*2024-11-18 18:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-விடுமுறை-அறிவிப்பு/175-347389) · `ta`
+
+Here's a summary of the holiday announcement in 200 characters:
+
+
+
+Ministry of Education announces:
+
+1st phase of 3rd school installment on Dec 22nd due to A/L exams
+
+3rd phase begins Jan 2, 2025, completes Jan 17, 2025
+
+🟩
+
+The Ministry of Education has decided to provide the first phase of the third school installment on Friday 22nd.
+
+The decision has been taken as the GCE GCE Advanced Level (A/L) exam begins.
+
+Accordingly, the 3rd phase of the third installment begins on January 2, 2025.
+
+The Ministry of Education said that the phase will be completed on January 17.
+
+◼️
+
+[Data](articles/408147e6.json)
+
+[Extended Data](ext_articles/408147e6.ext.json)
+
+---
+
+### India to India in December
 
 *2024-11-18 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203504) · `si`
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා නිල සංචාරයක් සඳහා දෙසැම්බර් මාසයේ ඉන්දියාවට යන බව විදේශ කටයුතු අමාත්‍ය විජිත හේරත් මහතා පවසයි.
+India: President Anura Kumara Dissanayake visits India in December for official talks with Indian PM Narender Modi.
 
-සිය අමාත්‍ය ධුරයේ දිවුරුම් දීමෙන් අනතුරුව මාධ්‍යවේදීන් ඇසූ ප්‍රශ්නයකට පිළිතුරු දෙමින් විජිත හේරත් මහතා ඒ බව පැවසීය.
+🟩
 
-මෙම සංචාරයේදී ජනාධිපති දිසානායක මහතා ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදී හමුවී ද්වීපාර්ශ්වික සාකච්ඡා පැවැත්වීමට නියමිතය.
+Minister of External Affairs Vijitha Herath says President Anura Kumara Dissanayake is going to India for an official visit.
+
+Mr. Vijitha Herath said that in response to a question raised by journalists after being sworn in as his minister.
+
+During his visit, Dissanayake will meet bilateral talks to meet Indian Prime Minister Narera Mood.
 
 ◼️
 
 [Data](articles/3e18095e.json)
+
+[Extended Data](ext_articles/3e18095e.ext.json)
 
 ---
 
@@ -84,19 +176,87 @@ In a post on ‘X’ (formerly Twitter), former State Minister of Finance Shehan
 
 ---
 
-### අනුරාධපුරයේ ප්‍රදේශ කිහිපයකට හෙට පැය 8ක ජල කප්පාදුවක්
+### Southern coastal tsunami warning towers in danger of falling
+
+*2024-11-18 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199088) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Tsunami warning towers in southern coast face collapse due to neglect. 77 towers installed but maintenance delayed due to funding issues. Solar-powered batteries expired, posing safety risks.
+
+🟩
+
+The tsunami disaster is being commemorated every year, while the tsunami -affected people have expressed their concern that the tsunami towers set up to protect the people.
+
+They pointed out that the tsunami towers and correction work has not been carried out for years.
+
+In the Southern Province, 24 tsunami warning towers have been set up in various districts including Galle, Ahangama, Ballapitti, Ambalangoda, Hikkaduwa, Ratgama, Telvatta and Unavatuna, Matara and Hambantota districts.
+
+Weligama Police Ground, Dikwella Police Ground, Mirissa Fisheries Harbor, Tevinuwara Fisheries Harbor, Polhena Sumanaramaiah Temple Ground, and Thala Southern Maha Vidyalaya in Matara District and Girinda Muslim Maha Vidyalaya. In the Hambantota district, the Kudavella Fisheries Harbor, Rekawa Primary School Ground, Padada Viharai Ground and Sisilagama Sitharamaya Temple Ground include particular
+
+...
+
+[Data](articles/5d727dd8.json)
+
+[Extended Data](ext_articles/5d727dd8.ext.json)
+
+---
+
+### 8 hour water cut in several areas in Anuradhapura tomorrow
 
 *2024-11-18 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203503) · `si`
 
-අනුරාධපුරයේ ප්‍රදේශ කිහිපයකට හෙට (19) දිනයේදී පැය 08ක කාලයක් ජල සැපයුම අත්හිටුවීමට සිදුවන බව ජාතික ජල සම්පාදන හා ජලාපවහන මණ්ඩලය පවසයි.
+Anuradhapura: 8-hour water cut tomorrow in Saliyapura, Rajarata Univ., Mihinthara, Jaffna Junction, Anuradhapura, Matale, Matale Junction, Galkulama due to Nuwarawewa Water Treatment maintenance.
 
-නිවේදනයක් නිකුත් කරමින් එම මණ්ඩලය පැවසුවේ නුවරවැව ජල පවිත්‍රාගාරයේ අත්‍යවශ්‍ය නඩත්තු කටයුත්තක් හේතුවෙන් ජල සැපයීම අත්හිටුවන බවය.
+🟩
 
-ඒ අනුව සාලියපුර, රජරට විශ්වවිද්‍යාලය, මිහින්තලය, යාපනය හන්දිය, අනුරාධපුර 1 වන පියවර, මාතලේ හන්දිය, ගල්කුලම යන ප්‍රදේශ සඳහා හෙට පෙරවරු 09.30 සිට පස්වරු 05.30 දක්වා ජල සැපයුම අත්හිටුවීමට නියමිතය.
+The National Water Supply and Drainage Board (NBRO) says that the water cut will be imposed in Anuradhapura tomorrow (19).
+
+In a statement, the board said that water supply was suspended due to essential maintenance of the Nuwarawewa Water Treatment.
+
+Accordingly, the water supply will be imposed from Saliyapura, Rajarata University, Mihinthara, Jaffna Junction, Anuradhapura, Matale, Matale Junction and Galkulama areas tomorrow.
 
 ◼️
 
 [Data](articles/3a0339b1.json)
+
+[Extended Data](ext_articles/3a0339b1.ext.json)
+
+---
+
+### Ready to embrace true events
+
+*2024-11-18 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199108) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Me Snow Snow": A crime thriller starring debutant Natraj Sunderraj. Directed by Arul Dev, produced by Hemalatha Sunderraj. Combines elements of suspense, romance, and psycho-themes. Set for worldwide release on the 29th.
+
+🟩
+
+The first movie starring the hero of the story Natraj Sunderraj is titled 'Me Snow Snow'.
+
+Natraj Sundarraj, Upasana RC. K. Bhagyaraj, Chitra Lakshmanan, late actor Manopala, Thalaivasal Vijay, Singam Tiger, Muthukkalai, Sunderraj, TSR, Tanish and many others.
+
+Arul Dev has composed the film, which has been recorded by Venkat. S.. My. S.. Produced by producer Hemalatha Sunderraj on behalf of Pictures.
+
+All the work of the film will be completed and will be released at the film palace worldwide on the 29th.
+
+Commenting on the film, the director said, “Natraj Sunderraj, who debuted as the hero of the story, is aimed at rising as a police officer in life.
+
+But unexpectedly becomes a police investigation. Can he reach his ambitions?Or not?The screenplay of the film has been created with a mixed aspect of crime thriller, suspense, romance, psycho.
+
+All the tasks of this film, which is ready to embrace the true incident, is completed. ”
+
+◼️
+
+[Data](articles/9f6877d9.json)
+
+[Extended Data](ext_articles/9f6877d9.ext.json)
 
 ---
 
@@ -122,55 +282,59 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 
 ---
 
-### දිවයිනට පැමිණි IMF නිලධාරීන් හිටපු ජනපති රනිල් හමුවෙයි
+### Allu Arjun's 'Pushpa 2' has preceded the internet
 
-*2024-11-18 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203502) · `si`
+*2024-11-18 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199104) · `ta`
 
-දිවයිනට පැමිණ සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හමුවී සාකච්ඡා කර තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-අද දෙරණ වාර්තාකරු පැවසුවේ මල්පාරේ පිහිටි කාර්යාලයේදී අදාළ නියෝජිත පිරිස හිටපු ජනාධිපතිවරයා හමුවී සාකච්ඡා කළ බවය.
 
-පසුගිය වසර දෙකක කාලය තුල මෙරට ආර්ථීකය යථාතත්වයට ගෙන ඒම සදහා හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු රජය සිදු කළ කාර්යය එහිදී අයි.එම්.එෆ් නියෝජිත පිරිසගේ ප්‍රශංසාවට ලක්වූ බව එම අවස්ථාවට එක්වූ හිටපු මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සදහන් කළේය.
 
-◼️
+"Pushpa 2: The Rule" starring Allu Arjun releases Dec 5. Preview in Tamil, Telugu, Malayalam, Kannada, Hindi. Directed by Sukumar, music by Devi Sri Prasad. Rashmika Mandanna co-stars. Record-breaking preview views.
 
-[Data](articles/6ddfacab.json)
+🟩
 
----
+Allu Arjun, who was in high anticipation of the fans, has been released in the presence of fans.
 
-### හරිනි අගමැති ධුරයේ වැඩ අරඹයි
+The preview of the film is being released in Tamil, Telugu, Malayalam, Kannada and Hindi and is at the forefront of the Internet.
 
-*2024-11-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203501) · `si`
+Allu Arjun, Rashmika Mantana, Bhagat Basil, Sri Leela and many others have starred in the film 'Pushpa 2- The Rule' directed by director Sukumar.
 
-නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් හරිනි අමරසූරිය එම ධුරයේ වැඩ භාර ගත්තාය.
+The film is composed by 'Rock Star' Devi Sri Prasad on behalf of Maithri Movie Makers Company.. Ravi Shankar has co -produced a huge cost.
 
-එමෙන්ම අගමැති ධුරයට පත්වූ තුන්වැනි කාන්තාව ලෙස ආචාර්ය හරිනි අමරසූරිය සැලකෙයි.
+The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the fifth of December at the World House.. The preview of the film was released as there is a huge expectation about the film.
 
-◼️
-
-[Data](articles/dc5e1dcb.json)
-
----
-
-### Academic and non-academic staff of Ruhuna Uni. to launch indefinite strike
-
-*2024-11-18 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103587/academic-and-non-academic-staff-of-ruhuna-uni-to-launch-indefinite-strike-) · `en`
-
-All academic and non-academic trade unions affiliated with the University of Ruhuna have announced a continuous strike commencing from tomorrow (Nov. 19), demanding the immediate removal of the university’s Vice Chancellor.
-
-The relevant trade unions mentioned that their strike action will be in effect until their single demand to immediately remove the Vice Chancellor is met.
+In this preview, the support of fans has increased as the 'Pushpa is the Barilla brand', such as stressful subtitles, vidyasin scenes and charming love scenes.. Due to this, more than four million visitors have visited the Tamil -language preview of the film 'Pushpa 2' within a short time.
 
 ...
 
-[Data](articles/48e639d2.json)
+[Data](articles/ec2f8be8.json)
 
-[Extended Data](ext_articles/48e639d2.ext.json)
+[Extended Data](ext_articles/ec2f8be8.ext.json)
+
+---
+
+### ரிஷப் ஷெட்டி நடிக்கும் 'காந்தாரா: அத்தியாயம் 1' படத்தின் வெளியீட்டு திகதி அறிவிப்பு
+
+*2024-11-18 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199102) · `ta`
+
+சிறந்த நடிகருக்கான தேசிய விருதினை வென்ற கன்னட திரையுலகின் முன்னணி நட்சத்திர நடிகரான ரிஷப் ஷெட்டி கதையின் நாயகனாக நடிக்கும் 'காந்தாரா அத்தியாயம் 1' எனும் திரைப்படத்தின் வெளியீட்டுத் திகதி அதிகாரப்பூர்வமாக அறிவிக்கப்பட்டிருக்கிறது.
+
+நடிகரும், இயக்குநருமான ரிஷப் ஷெட்டி இயக்கத்தில் உருவாகி வரும் 'காந்தாரா அத்தியாயம் 1 ' எனும் திரைப்படத்தில் ரிஷப் ஷெட்டி கதையின் நாயகனாக முதன்மையான கதாபாத்திரத்தில் நடிக்கிறார்.
+
+இப்படத்தில் நடிக்கும் ஏனைய நடிகர்கள் நடிகைகள் மற்றும் பணியாற்றும் தொழில்நுட்ப கலைஞர்கள் குறித்த விவரங்கள் அதிகாரப்பூர்வமாக வெளியிடப்படவில்லை. இந்நிலையில் இந்தத் திரைப்படம் அடுத்த ஆண்டு ஓக்டோபர் மாதம் 2-ஆம் திகதியன்று உலகம் முழுவதும் பட மாளிகையில் வெளியாகும் என படக் குழுவினர் பிரத்யேக புகைப்படத்துடன் அறிவித்துள்ளனர் .
+
+கொங்கனி எனும் மொழியை பேசும் மக்களின் வாழ்வியலை தழுவி தயாராகி வரும் இந்த திரைப்படத்தை ஹோம்பாலே ஃபிலிம்ஸ் நிறுவனம் சார்பில் பிரபல தயாரிப்பாளர் விஜய் கிரகந்தூர் தயாரித்திருக்கிறார்.‌
+
+...
+
+[Data](articles/dcefd4a9.json)
 
 ---
 
 ### Notification relating to school holiday
 
-*2024-11-18 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199099) · `ta`
+*2024-11-18 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199099) · `ta`
 
 Here's a summary of the notification in approximately 200 characters:
 
@@ -195,6 +359,116 @@ The second phase of the third installment of 2024 will be held from January 1st 
 [Data](articles/6d9bd957.json)
 
 [Extended Data](ext_articles/6d9bd957.ext.json)
+
+---
+
+### Former President's President Mahinda Rajapaksa meets Indian IMF officers arrived in the island
+
+*2024-11-18 17:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203502) · `si`
+
+Former President Mahinda Rajapaksa met Indian IMF officers. Former President Ranil Wickremesinghe's fund delegation discussed economic recovery with them. State Minister Shehan Semasinghe praised Wickremesinghe's efforts in the past two years.
+
+🟩
+
+Former President's Fund delegation has been discussed and discussed former President Ranil Wickremesinghe.
+
+The Ada Derana reporter said that the delegation discussed with former President at the office of Malra.
+
+State Minister of Finance Shehan Semasinghe said that the IMF delegation was commended former President Ranil Wickremesinghe to recover the economy of the country in the last two years.
+
+◼️
+
+[Data](articles/6ddfacab.json)
+
+[Extended Data](ext_articles/6ddfacab.ext.json)
+
+---
+
+### The musician's music dominated in the film 'Liberation 2' .. !!?
+
+*2024-11-18 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199096) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Musician's song dominates 'Liberation 2'. First release: 'Da Da Da Da Everyday' from Nam Selvan starrer featuring Vijay Sethupathi & Suri. Composed by Ilayaraja, lyrics by Gnani, sung by Ananya Bhatt. Fans praise melody."
+
+🟩
+
+The first song 'Da Da Da Da Everyday', which is featured in the second part of the movie 'Liberation' starring 'Nam Selvan' Vijay Sethupathi and Suri, has been released.
+
+Vijay Sethupathi, Suri, Manju Warrior, Anurag Kashyap, Ken Karunas, Bhavani Sri, Chetan, Gautam Vasudev Menon, Rajiv Menon, Saravana, Saravana Subbaiah, in the movie 'Liberation 2', which is being produced by the creator Vijayamaran, which is under the unique identity of the Tamil film industry.
+
+The film is being produced by the producer Elrett Kumar on behalf of RS Infotainment Company.
+
+The first part of the film was released and critique and grossly successful. This was followed by anticipation for the second part. In the first part, the songs and backgrounds released in the music of musician Ilayaraja have been transformed into fans' talk.
+
+In this case, the fans were also expecting the songs featured in the film. The 'Liberation 2' in this moment ... 'The first song, which begins with, has been released.
+
+...
+
+[Data](articles/bd7fda82.json)
+
+[Extended Data](ext_articles/bd7fda82.ext.json)
+
+---
+
+### எல்லையற்ற அதிகாரத்தை அமைச்சர்கள் பொறுப்புடன் கையாள வேண்டும் - ஜனாதிபதி
+
+*2024-11-18 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199105) · `ta`
+
+அமைச்சர்களுக்கு வழங்கப்பட்டுள்ள எல்லையற்ற அதிகாரத்தை பொறுப்புடன் கையாள வேண்டும் என ஜனாதிபதி அநுரகுமார திசாநாயக்க தெரிவித்தார்.
+
+எமது வெற்றி மகத்தானது எனவும், வெற்றியினால் எமக்கு வழங்கப்பட்ட பொறுப்பின் எடை அதேஅளவானது எனவும், அதற்காக நாம் ஒன்றிணைந்து செயற்பட வேண்டும் எனவும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+தேசிய மக்கள் சக்தி அரசாங்கத்தின் புதிய அமைச்சரவை அந்தஸ்துள்ள அமைச்சர்கள் பதவிப் பிரமாணம் செய்யும் நிகழ்வு  இன்று திங்கட்கிழமை (18) முற்பகல் ஜனாதிபதி செயலகத்தில் இடம்பெற்றது.இந்த  நிகழ்வில் கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி அநுரகுமார திசாநாயக்க மேற்கண்டவாறு தெரிவித்தார்.
+
+குறிப்பாக இலங்கை அரசியலில் மிகவும் முக்கியத்துவமான திருப்புமுனை செப்டம்பர் 21 ஆம் திகதி நிகழ்ந்தது.நீண்டகால எமது நாடு பயணித்த பாதையை மாற்றியமைப்பதற்கு மக்கள் செப்டம்பர் 21 ஆம் திகதி தீர்மானம் எடுத்தனர்.அதன் பின்னர் நடைபெற்ற பாராளுமன்றத் தேர்தலில்  செப்டம்பர் 21 ஆம் திகதி எடுத்த தீர்மானத்தை மேலும் பலப்படுத்துவது தொடர்பில் எம்மீது மக்கள் நம்பிக்கை வைத்துள்ளனர்.
+
+...
+
+[Data](articles/15da154b.json)
+
+---
+
+### Harinini begins the post of Prime Minister
+
+*2024-11-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203501) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Harinini Amarasuriya becomes Sri Lanka's PM. She's the country's third female leader. Dr. Amarasuriya assumes office on 18th, marking a significant milestone for women in politics.
+
+🟩
+
+Harinini Amarasuriya assumed duties as Prime Minister's Prime Minister today (18th).
+
+Dr. Harini Amarasuriya is also considered the third woman who was appointed as the Prime Minister.
+
+◼️
+
+[Data](articles/dc5e1dcb.json)
+
+[Extended Data](ext_articles/dc5e1dcb.ext.json)
+
+---
+
+### Academic and non-academic staff of Ruhuna Uni. to launch indefinite strike
+
+*2024-11-18 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103587/academic-and-non-academic-staff-of-ruhuna-uni-to-launch-indefinite-strike-) · `en`
+
+All academic and non-academic trade unions affiliated with the University of Ruhuna have announced a continuous strike commencing from tomorrow (Nov. 19), demanding the immediate removal of the university’s Vice Chancellor.
+
+The relevant trade unions mentioned that their strike action will be in effect until their single demand to immediately remove the Vice Chancellor is met.
+
+...
+
+[Data](articles/48e639d2.json)
+
+[Extended Data](ext_articles/48e639d2.ext.json)
 
 ---
 
@@ -239,36 +513,6 @@ Minister Herath holds a Bachelor of Science degree from the University of Kelani
 [Data](articles/55114062.json)
 
 [Extended Data](ext_articles/55114062.ext.json)
-
----
-
-### The musician's music dominated in the film 'Liberation 2' .. !!?
-
-*2024-11-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199096) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Musician's song dominates 'Liberation 2'. First release: 'Da Da Da Da Everyday' from Nam Selvan starrer featuring Vijay Sethupathi & Suri. Composed by Ilayaraja, lyrics by Gnani, sung by Ananya Bhatt. Fans praise melody."
-
-🟩
-
-The first song 'Da Da Da Da Everyday', which is featured in the second part of the movie 'Liberation' starring 'Nam Selvan' Vijay Sethupathi and Suri, has been released.
-
-Vijay Sethupathi, Suri, Manju Warrior, Anurag Kashyap, Ken Karunas, Bhavani Sri, Chetan, Gautam Vasudev Menon, Rajiv Menon, Saravana, Saravana Subbaiah, in the movie 'Liberation 2', which is being produced by the creator Vijayamaran, which is under the unique identity of the Tamil film industry.
-
-The film is being produced by the producer Elrett Kumar on behalf of RS Infotainment Company.
-
-The first part of the film was released and critique and grossly successful. This was followed by anticipation for the second part. In the first part, the songs and backgrounds released in the music of musician Ilayaraja have been transformed into fans' talk.
-
-In this case, the fans were also expecting the songs featured in the film. The 'Liberation 2' in this moment ... 'The first song, which begins with, has been released.
-
-...
-
-[Data](articles/bd7fda82.json)
-
-[Extended Data](ext_articles/bd7fda82.ext.json)
 
 ---
 
@@ -322,19 +566,25 @@ After considering the facts presented, the Fort Magistrate ordered the case to b
 
 ---
 
-### ඇමති විජිත වැඩ භාර ගනියි
+### Minister Vijitha assumes duties
 
 *2024-11-18 16:34:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-වැඩ-භාර-ගනියි/11-413123) · `si`
 
-විදේශ කටයුතු, විදේශ රැකියා සහ සංචාරක අමාත්‍ය ලෙස දිවුරුම් දුන් විජිත හේරත් මහතා අද (18) සිය අමාත්‍ය ධුරයේ වැඩ භාරගෙන ගත්තේය. විදේශ කටයුතු අමාත්‍යාංශයේදී අමාත්‍යවරයා සිය රාජකාරි භාර ගත්තේය.
+Minister Vijitha Herath assumes duties as Foreign Affairs & Tourism Minister. Previously Transport Minister. Graduated from University of Kelaniya. Represents Gampaha district since 2000, re-elected with record votes in recent election.
 
-ඔහු මීට පෙර ප්‍රවාහන, මහජන ආරක්ෂක, මහාමාර්ග, වරාය සහ සිවිල් ගුවන්සේවා අමාත්‍යවරයා ලෙස කටයුතු කළේය. විජිත හේරත් මහතා කැලණිය විශ්වවිද්‍යාලයේ විද්‍යාවේදී උපාධිධාරියෙකි.
+🟩
 
-අමාත්‍ය විජිත හේරත් මහතා පාර්ලිමේන්තු මන්ත්‍රීවරයෙකු ලෙස 2000 වසරේ සිට ගම්පහ දිස්ත්‍රික්කය නියෝජනය කරයි. මෑතකදී අවසන් වූ මහ මැතිවරණයේදී, ශ්‍රී ලංකා පාර්ලිමේන්තු මැතිවරණ ඉතිහාසයේ අපේක්ෂකයෙකු ලබා ගත් ඉහළම මනාප ඡන්ද සංඛ්‍යාව ලබා ගනිමින් ඒ මහතා නැවත තේරී පත් වූයේය.
+Vijitha Herath assumed duties as Foreign Affairs and Foreign Employment and Tourism Minister. At the Ministry of External Affairs, Minister handed over his duties.
+
+He has previously served as Transport, Public Defense, Highways, Ports and Civil Aviation. Vijitha Herath is a graduate in the science of the University of Kelaniya.
+
+Minister Vijitha Herath represents Gampaha district from 2000 as a Member of Parliament. At the recent general election, he was re-elected with the highest number of preferential votes in the history of Sri Lanka.
 
 ◼️
 
 [Data](articles/8b912440.json)
+
+[Extended Data](ext_articles/8b912440.ext.json)
 
 ---
 
@@ -2287,237 +2537,5 @@ At 10.00 am, the new Government Ministers were sworn in before President Anura K
 [Data](articles/bcea2b5e.json)
 
 [Extended Data](ext_articles/bcea2b5e.ext.json)
-
----
-
-### 3 SriLankan Airlines flights
-
-*2024-11-18 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199033) · `ta`
-
-SriLankan Airlines: 3 flights grounded at Katunayake due to technical issues. Flights UL-123 (Chennai) and UL-124 (Melbourne) affected; UL-124 cancelled. Maintenance underway.
-
-🟩
-
-Three SriLankan Airlines flights arriving at the Katunayake airport have been found to have technical problems.
-
-As a result, several airlines have been canceled and some airlines have been delayed, an airline official said.
-
-In the meantime, it takes time for some flights to be carried out.In this case, the three aircraft that have been diagnosed with technical disorder have been recommended for maintenance work, the airline official said.
-
-As a result, the Sri Lankan Airlines airline, UL-123, which will leave Chennai on Sunday (17), and the UL-124 airline from Katunayake to Katunayake at 10:15 pm.
-
-In addition, the airline to land from Melbourne, Australia, has been canceled at 10.20 pm.
-
-◼️
-
-[Data](articles/2fe70885.json)
-
-[Extended Data](ext_articles/2fe70885.ext.json)
-
----
-
-### A three-wheeler of the same family in danger
-
-*2024-11-18 09:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203486) · `si`
-
-Accident at Kotaweheragala temple: Three-wheeler crash injures 5, including children. Investigation ongoing.
-
-🟩
-
-Five persons including a small child and five were injured in an accident in the Kotaweheragala temple in the Wellawaya Police area.
-
-The accident had been tried to save a person who went to switch through the road, where the three-wheeler was hit and the three-wheeler had gone.
-
-The injured were also shifted by four members of the same family and the road.
-
-After being rushed to the Wellawaya Base Hospital, a three-year-old child and a year old have been transferred to the Moneragala district hospital for further treatment.
-
-Three others are receiving treatment at the Wellawaya Base Hospital while officials at the Wellawaya Police are conducting further investigations.
-
-◼️
-
-[Data](articles/ec97825a.json)
-
-[Extended Data](ext_articles/ec97825a.ext.json)
-
----
-
-### The Election Commission is preparing for another election
-
-*2024-11-18 09:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மற்றுமொரு-தேர்தலுக்கு-தயாராகும்-தேர்தல்-ஆணைக்குழு/175-347363) · `ta`
-
-Election Commission prepares for upcoming polls. Meeting on 27th focuses on local government and provincial council elections. Court order pending on local government elections.
-
-🟩
-
-The Election Commission is back on the 27th of this month following the end of the general election.
-
-The main objective of the meeting said the meeting was to discuss the local government election and provincial council elections and that the court order on the holding of the local government elections is currently being held.. Remble
-
-◼️
-
-[Data](articles/54f8b0aa.json)
-
-[Extended Data](ext_articles/54f8b0aa.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 291.55/75 to dollar, bonds steeply down
-
-*2024-11-18 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-55-75-to-dollar-bonds-steeply-down-188326/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291.55/75 to the US dollar Monday from 292.15/18 to the US dollar on Thursday, dealers said, while bond trading was steeply down.
-
-A bond maturing on 15.12.2027 was quoted at 10.65/75 percent.
-
-A bond maturing on 15.02.2028 was quoted at 10.95/11.00 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.25/30 percent.
-
-A bond maturing on 01.10.2032 was quoted at 11.50/70 percent.
-
-In equities, Colombo’s All Share Price Index was trading up 1.73 percent, or 227.88 points higher at 13,426.68, while the S&P SL20 of more liquid stocks was up 2.48 percent or 98.57 points higher at 4,075.74.
-
-◼️
-
-[Data](articles/b286a702.json)
-
-[Extended Data](ext_articles/b286a702.ext.json)
-
----
-
-### Election Commission set to discuss PC and LG polls
-
-*2024-11-18 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/103573/election-commission-set-to-discuss-pc-and-lg-polls-) · `en`
-
-The Election Commission is scheduled to reconvene a meeting on November 27 to deliberate on matters concerning the Local Government and Provincial Council elections.
-
-Accordingly, it will be the commission’s first meeting since the conclusion of the parliamentary election.
-
-A court order pertaining to the holding of the Local Government Election has already been issued, and the commission’s primary focus during the meeting will be to address matters related to this directive.
-
-It has been further reported that the financial allocations required for both the Local Government and Provincial Council elections will be incorporated into the Vote on Account, scheduled to be presented to the Parliament in December.
-
-Although it has been decided to allocate funds for these elections, a final decision regarding the dates of the polls has not yet been determined. This matter is expected to be a key agenda item during the forthcoming meeting.
-
-...
-
-[Data](articles/680c960e.json)
-
-[Extended Data](ext_articles/680c960e.ext.json)
-
----
-
-### Airline Services cancer
-
-*2024-11-18 09:30:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விமான-சேவைகள்-இரத்து/175-347362) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-SriLankan Airlines cancels flights due to technical issues. Three aircraft affected, undergoing maintenance. Passengers notified and rebooked as needed.
-
-🟩
-
-Some airlines have been canceled due to a technical failure of some flights to Katunayake airport.
-
-The SriLankan Airlines spokesman said that the services of several flights have been canceled due to a technical failure on 3 flights.
-
-Each aircraft will be subjected to a technical assessment test after completing its flight. The spokesman added that the technical maintenance work carried out on certain aircraft is needed for some time and that these three aircraft have been sent to technical maintenance.
-
-SriLankan Airlines has taken steps to notify passengers on the airplane and to send passengers who wish to be transported to these flights.. Remble
-
-◼️
-
-[Data](articles/8dee40ae.json)
-
-[Extended Data](ext_articles/8dee40ae.ext.json)
-
----
-
-### Traffic on Passara Bibile and Passara Moneragala
-
-*2024-11-18 09:30:05* · [`adalk`](https://www.ada.lk/breaking_news/පස්සර-බිබිල-හා-පස්සර-මොනරාගල-මාර්ග-වල-රථවාහන-ධාවනය-නවතී/11-413110) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Trees fell on a road in Passara Bibile during the night. No injuries occurred. Police advised drivers to use alternative routes due to road damage.
-
-🟩
-
-The road from the Pasara Bibile on the 13th area on the 13th area in the 13th area of ​​the road, five trees were hale in Passara Police, Passara Police said.
-
-The road was collapsing the trees, collapsing and three three-wheelers parked near the Ven.
-
-The trees have fallen to this road at around 3.30 am today (18), and no one or one had no accidents.
-
-Police also informs drivers to remove the removal of this large roalper and the road development is necessary to use alternative routes.
-
-◼️
-
-[Data](articles/1e466f7a.json)
-
-[Extended Data](ext_articles/1e466f7a.ext.json)
-
----
-
-### Landslide traffic on Passara - Bibile
-
-*2024-11-18 09:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203485) · `si`
-
-Landslide blocks Passara-Bibile road, causing traffic disruption. Soil and rock collapse closes A5 route. Vehicles stranded; three-wheelers damaged. Reconstruction efforts underway.
-
-🟩
-
-Traffic has been completely disturbed by the landslide in Odigura, Badulla - Passara Lunugala A5 road.
-
-The road, the collapse of soil and rock, has completely closed the road, "said Ada Derana reporter.
-
-The road from Badulla, Batticaloa, Moneragala, Ampara, Mahaoya have stayed in Badulla due to blocking.
-
-The landslides were laundated at around 2 am today (18), and three wheelers stopped on the road was severely damaged.
-
-By now, the Road Development Superintendent of Road Development Passara Pradeshiya Sabha has been reconstructed.
-
-◼️
-
-[Data](articles/7c2b8dd2.json)
-
-[Extended Data](ext_articles/7c2b8dd2.ext.json)
-
----
-
-### Supreme Court suspended from issuing the results of the scholarship examination
-
-*2024-11-18 09:18:41* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ceqxwg1n242o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Supreme Court halts Grade 5 Scholarship Exam results pending review. Four students filed petitions claiming exam questions violated their rights. Court orders halt on cutoff marks and informs test papers. Case rescheduled for December 2.
-
-🟩
-
-The Supreme Court today (November 18) issued an interim injunction today (November 18) to prevent the relevance of the Grade 5 Scholarship Examination.
-
-That was, four students who participated in the examination and participated by the students and their parents' fundamental rights petitions filed by their parents.
-
-The three-member Supreme Court Judge was issued by the three-member Supreme Court Judge of Exhibage Surasena, Achala Windsu and Mahinda Samayawardena.
-
-In addition, the Supreme Court panel was also issued an interim injunction order to inform the test paper.
-
-The panel of judges who have been exhausted in the first question paper that have been exhausted in the first question paper have been included in popular schools based on the results of the examination.Another interim order was prevented from issuing the cut off marks for making salaries.
-
-However, the Supreme Court Judge Madulla Respect GeneralViraj Dayaratne informed.
-
-...
-
-[Data](articles/f63eff0f.json)
-
-[Extended Data](ext_articles/f63eff0f.ext.json)
 
 ---

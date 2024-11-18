@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 21:13:28**
+As of **2024-11-18 21:00:45**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,615
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,628 (100.0%) of 55,628 articles have been extended.
+55,626 (100.0%) of 55,628 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,17 +36,11 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-18 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103595/gazette-issued-declaring-ravi-karunanayake-as-ndfs-national-list-mp) · `en`
 
-The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the General Election under the ‘Gas Cylinder’ symbol.
+The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the general election under the ‘Gas Cylinder’ symbol.
 
-Earlier today, it was reported that the New Democratic Front (NDF) has nominated Karunanayake for one of the two National List seats won by the party in Parliament.
-
-However, it was later reported that the leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe, has informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of Wickremesinghe and the other parties in the alliance.
-
-...
+◼️
 
 [Data](articles/2f9a6edc.json)
-
-[Extended Data](ext_articles/2f9a6edc.ext.json)
 
 ---
 
@@ -382,25 +376,15 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 
 ---
 
-### The Prime Minister assumes duties
+### අගමැතිනිය වැඩ භාර ගනියි
 
 *2024-11-18 17:41:45* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිය-වැඩ-භාර-ගනියි/11-413127) · `si`
 
-Here's a summary of 200 characters:
-
-
-
-Dr. Harini Amarasuriya becomes 17th PM of Sri Lanka, 3rd female PM. Sworn in today at PM's office in Malrawa.
-
-🟩
-
-Dr. Harini Amarasuriya, who was sworn in as Prime Minister's Prime Minister this morning (18th) at the Prime Minister's Office at the Prime Minister of Malrawa. She is the 17th Prime Minister of Sri Lanka and the third woman was appointed to the Prime Minister.
+නව රජයේ අග්‍රාමාත්‍ය ලෙස අද (18) පෙරවරුවේ දිවුරුම් දුන් ආචාර්ය හරිනි අමරසූරිය මහත්මිය මල්පාරේ පිහිටි අග්‍රාමාත්‍යක කාර්යාලයේදී ඇය සිය ධුරයේ වැඩ භාර ගත්තාය. ඇය මෙරට 17 වන අග්‍රාමාත්‍යවරිය වන අතර අග්‍රාමාත්‍යධුරයට පත්වූ තෙවැනි කාන්තාව වෙයි.
 
 ◼️
 
 [Data](articles/dbcba36e.json)
-
-[Extended Data](ext_articles/dbcba36e.ext.json)
 
 ---
 

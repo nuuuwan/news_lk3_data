@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 08:07:46**
+As of **2024-11-18 09:08:31**
 
 ## Newspaper Stats
 
-*Scraped **55,490** Articles*
+*Scraped **55,497** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 564
 bbccomsinhala | 566
-islandlk | 3,322
+islandlk | 3,324
 economynextcom | 3,359
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,198
-adaderanalk | 6,693
-tamilmirrorlk | 7,861
+adalk | 5,199
+adaderanalk | 6,696
+tamilmirrorlk | 7,862
 virakesarilk | 9,013
 adaderanasinhalalk | 9,592
 
@@ -26,11 +26,93 @@ adaderanasinhalalk | 9,592
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,484 (100.0%) of 55,490 articles have been extended.
+55,488 (100.0%) of 55,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Sri Lanka’s new Cabinet to be sworn in today
+
+*2024-11-18 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103572/sri-lankas-new-cabinet-to-be-sworn-in-today-) · `en`
+
+The Cabinet Ministers of the new government are scheduled to be sworn in before President Anura Kumara Dissanayake at 10.00 a.m. today (Nov. 18) at the Presidential Secretariat in Colombo.
+
+It has been reported that both Cabinet Ministers and Deputy Ministers will be sworn in during the ceremony.
+
+The senior spokesman of the National People’s Power (NPP) Tilvin Silva had said earlier that the Cabinet will be limited to 25 or even less and that there will be scientific method in allocation of subjects for the ministries.
+
+The NPP has also decided there will be no change in the position of Prime Minister. Accordingly, Dr. Harini Amarasuriya is set to continue as the Prime Minister of the new government.
+
+Meanwhile, speaking to the media in Gampaha, Member of Parliament Mahinda Jayasinghe stated that he and their group of MPs are committed to moving forward in alignment with the needs of the people.
+
+...
+
+[Data](articles/aaf6fe1d.json)
+
+---
+
+### The new government's new cabinet today
+
+*2024-11-18 08:39:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அரசாங்கத்தின்-புதிய-அமைச்சரவை-இன்று/175-347360) · `ta`
+
+New cabinet sworn in today at 10 AM. National People's Power wins 159 seats in 2024 election. Prime Minister position unchanged according to internal sources.
+
+🟩
+
+The new government's new cabinet will be sworn in today at 10 am in the presence of President Anura Kumara Dissanayake.
+
+In the 2024 general election, the National People's Power registered 22 districts of 22 districts and won 159 seats in Parliament, including the National List seats.
+
+Internal sources of the National People's Power say that the post of Prime Minister will not change. Remble
+
+◼️
+
+[Data](articles/87af55cc.json)
+
+[Extended Data](ext_articles/87af55cc.ext.json)
+
+---
+
+### Biden authorizes Ukraine to use US-supplied long-range missiles for deeper strikes inside Russia
+
+*2024-11-18 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103571/biden-authorizes-ukraine-to-use-us-supplied-long-range-missiles-for-deeper-strikes-inside-russia) · `en`
+
+President Joe Biden has authorized Ukraine to use U.S.-supplied long-range missiles to strike deeper inside Russia, easing limitations on the weapons as Russia deploys thousands of North Korean troops to reinforce its war, according to a U.S. official and three other people familiar with the matter.
+
+The decision allowing Kyiv to use the Army Tactical Missile System, or ATACMs, for attacks farther inside Russia comes as President Vladimir Putin positions North Korean troops along Ukraine’s northern border to try to reclaim hundreds of miles of territory seized by Ukrainian forces.
+
+Biden’s move also follows the presidential election victory of Donald Trump, who has said he would bring about a swift end to the war and raised uncertainty about whether his administration would continue the United States’ vital military support for Ukraine.
+
+The official and the others knowledgeable about the matter were not authorized to discuss the U.S. decision publicly and spoke on condition of anonymity.
+
+...
+
+[Data](articles/243af301.json)
+
+[Extended Data](ext_articles/243af301.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-18 08:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/103570/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in the Northern and Eastern provinces, and fairly heavy showers about 50 mm are likely at some places.
+
+Showers or thundershowers will occur in Western, Sabaragamuwa, Central, Southern, Uva, North-western and North central provinces during the evening or night.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, it added.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and Uva provinces and in Galle and Matara districts during the morning.
+
+Thus, the general public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/bf4d9aff.json)
+
+---
 
 ### Heavy rains today
 
@@ -256,6 +338,18 @@ In this backdrop, Sri Lanka now has an opportunity to think afresh and develop a
 
 ---
 
+### Super mandate and sobering reality
+
+*2024-11-18 02:59:00* · [`islandlk`](http://island.lk/super-mandate-and-sobering-reality/) · `en`
+
+Following their stunning victory in last week’s parliamentary election, the JVP/NPP leaders must still be pinching themselves to make sure that they are not dreaming. Their mammoth majority is sure to go down in Sri Lanka’s history. However, the bigger the majority, the greater a government’s responsibility and the higher the possibility of the public expecting miracles and becoming frustrated. Above all, the Actonian truism that absolute power corrupts absolutely has stood the test of time. Giving politicians, especially untested ones, steamroller majorities could be just as much a recipe for disaster as keeping teenagers, alcohol and car keys together.
+
+...
+
+[Data](articles/c30fc084.json)
+
+---
+
 ### The National List Asana belongs to Dilith - the universal power
 
 *2024-11-18 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199029) · `ta`
@@ -362,35 +456,55 @@ Due to the lack of an alternative, the people have chosen national power. Even t
 
 ---
 
-### சீனத் தூதுவர் யாழ். விஜயம்
+### Chinese Ambassador Jaffna. Visit
 
 *2024-11-18 02:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீனத்-தூதுவர்-யாழ்-விஜயம்/175-347359) · `ta`
 
-ஓராளுமன்றத் தேர்தலின் பின்பு முதலாவது இராஜதந்திரியாக நாளை யாழ்ப்பாணத்துக்கு சீனத் தூதுவர் இரண்டு நாட்கள் விஜயம் மேற்கொள்கின்றார்.
+Chinese Ambassador visits Jaffna tomorrow, marking first diplomatic trip post-parliamentary election.
+
+🟩
+
+The Chinese Ambassador will visit Jaffna tomorrow as the first diplomat after a parliamentary election.
 
 ◼️
 
 [Data](articles/b1ad6a3a.json)
 
+[Extended Data](ext_articles/b1ad6a3a.ext.json)
+
 ---
 
-### වට්ස්ඇප් වංචා: සයිබර් වංචාවලට ඔබ හසුවන හැටි සහ ඒවාට ගොදුරු නොවී ඉන්න හැටි
+### WhatsApp Crigs: How you get to cyber frauds and don't be the victim
 
 *2024-11-18 01:54:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgwv87828jo) · `si`
 
-වට්ස්ඇප් වංචා: සයිබර් වංචාවලට ඔබ හසුවන හැටි සහ ඒවාට ගොදුරු නොවී ඉන්න හැටි
+Here's a summary of the article in approximately 200 characters:
 
-එදිනෙදා පණිවුඩ හුවමාරු කර ගැනීම සඳහා අප භාවිත කරන වට්ස්ඇප් යෙදුම අද වන විට නොදැනුවත්ව ම පරිගණක අපරාධකරුවන්ගේ ප්‍රමුඛ මාධ්‍යයක් බවට පත්වීමේ අවදානමක් මතුව තිබේ.
 
-සයිබර් ආරක්ෂණ විශේෂඥයින් පවසන්නේ, මෑතක සිට වට්ස්ඇප් ගිණුම් ඔස්සේ මූල්‍ය වංචා සිදුකිරීමේ ප්‍රවණතාවක් දක්නට ලැබෙන බව ය.
 
-බොහෝවිට වට්ස්ඇප් ගිණුමේ නීත්‍යනුකූල හිමිකරු නොදැනුවත්ව ම එම වංචා සිදුව තිබෙන බව ශ්‍රී ලංකා පරිගණක හදිසි ප්‍රතිචාර සංසදය පෙන්වා දෙයි.
+WhatsApp scams: Hackers target accounts, request money. Protect yourself by verifying contacts, enabling two-factor authentication, and immediately notifying friends if account compromised. Recovery takes up to 72 hours.
 
-මගේ මිතුරකු වන තොරතුරු තාක්ෂණ ක්ෂේත්‍රයේ රැකියාවේ යෙදෙන ධනංජයට මීට දින කිහිපයකට පෙර, ඔහුගේ සමීපතම මිතුරෙකුගෙන් වට්ස්ඇප් පණිවිඩයක් ලැබි තිබුණි. අවම වශයෙන් සතියකට අවස්ථා කිහිපයකදී සිය මිතුරාගෙන් කෙටි පණිවුඩයක් ලැබීම සාමාන්‍ය දෙයක් බැවින් ධනංජය ඔහුට පිළිතුරු පණිවුඩයක් යොමු කර ඇති අතර දෙදෙනාගේ පණිවුඩ හුවමාරුව මිනිත්තු කිහිපයක් පැවතිණි.
+🟩
+
+WhatsApp Crigs: How you get to cyber frauds and don't be the victim
+
+The Whatsapp app we use to exchange everyday messages have a risk of making a key medium of computer criminals today.
+
+Cyber ​​security experts say that there is a tendency to make financial frauds in recently.
+
+The Sri Lanka Computer Emergency Response Team points out that the legitimate owner of the WhatsApp account is inadvertently occurred.
+
+Dhanananjuna who work in my friend's IT industry had a few days ago, a close friend of his closest friend. Dhananjaya had a message message from having a text message at least a week and there was a message to him.
+
+In the Message Exchange, Dananjaya told the BBC Sinhala service that Dananjaya had a cyber deception.
+
+"The guy who made me a good friend is my best friend. Usually one day a week is doing okay messages. Saturday evening sent me a messa. Chatting for a while. "
 
 ...
 
 [Data](articles/2fccbc11.json)
+
+[Extended Data](ext_articles/2fccbc11.ext.json)
 
 ---
 
@@ -1860,6 +1974,24 @@ President Dissanayake’s National People’s Power party swept parliamentary po
 
 ---
 
+### නව පාර්ලිමේන්තුවේ ජනපතිගේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම 21දා පෙ.ව. 11.30ට
+
+*2024-11-17 16:44:12* · [`adalk`](https://www.ada.lk/breaking_news/නව-පාර්ලිමේන්තුවේ-ජනපතිගේ-ප්‍රතිපත්ති-ප්‍රකාශය-ඉදිරිපත්-කිරීම-21දා-පෙ-ව--11-30ට/11-413096) · `si`
+
+දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය ආරම්භයේ දී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම 2024 නොවැම්බර් 21 දින පෙරවරු 11.30ට ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් සිදු කරන බව මේ වන විටත් දැනුම්දී තිබේ.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 (අ) ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ සභාවාරයක් ආරම්භයේදී ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය පාර්ලිමේන්තුවේදී ඉදිරිපත් කිරිමටත්, ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 (ආ) අනු ව්‍යවස්ථාව අනුව පාර්ලිමේන්තුවේ මංගල රැස්වීම්වල මුලසුන දැරීමටත්, ජනාධිපතිවරයාට බලතල හිමිවීව තිබේ.
+
+මෙහිදි සිය ආණ්ඩුවේ ඉදිරි දැක්ම පිළිබඳ සවිස්තරාත්මක විග්‍රහයක් ජනාධිපතිවරයා විසින් සිය ප්‍රතිපත්ති ප්‍රකාශය මගින් පාර්ලිමේන්තුවට සහ මහජනතාවට ඉදිරිපත් කරනු ලබයි.
+
+දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය එළඹෙන නොවැම්බර් 21 වැනිදා පෙරවරු 10.00 ට ආරම්භ කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/b8d95602.json)
+
+---
+
 ### NPP and ‘Sarvajana Balaya’ National List MPs gazetted
 
 *2024-11-17 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103565/npp-and-sarvajana-balaya-national-list-mps-gazetted-) · `en`
@@ -2221,139 +2353,5 @@ There are about 40 kilograms of drugs in the Sri Lankan Tiaden Rulentian fishing
 [Data](articles/cf2ab43b.json)
 
 [Extended Data](ext_articles/cf2ab43b.ext.json)
-
----
-
-### Nine records in the history of the national folk force
-
-*2024-11-17 15:28:29* · [`adalk`](https://www.ada.lk/breaking_news/ජාතික-ජන-බලවේගය-මැතිවරණය-ඉතිහාසයේ-වාර්තා-9ක්-පිහිටුවයි/11-413089) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-National Folk Force history: 9 records. Highest vote % (61.56%). Most divisions won (136). Highest votes (17,785,396). Most seats (141). Nationalist list record (1720). First party to win 2/3 seats under proportional system. Lowest election threshold (3%).
-
-🟩
-
-Former provincial Province Governor of the Central Province has placed nine electorals to the general general general general election.
-
-He was a political analyst and was a precedent former President Ranil Wickremesinghe.
-
-The highest percentage of a general election with a general election 61.56% (before, the UPFA)
-
-There are the highest number of vacations taken in a high ministration. (United People's Freedom Alliance (UPFA) in 2010 is 136 divisions)
-
-21 other districts won in general elections. Earlier, the United People's Freedom Alliance (UPFA) in 2010 Districts
-
-The highest number of votes won in general elections (1785,3960 votes in 2020)
-
-The highest number of seats won at district level 141. (The Public Federation Front in 2020 is 128 seats)
-
-The most nationalist list seats in general elections (CHOGM) 1720
-
-The highest 159 seats won in general elections. (Earlier, the Common Filling Front at 2020)
-
-...
-
-[Data](articles/f64ff580.json)
-
-[Extended Data](ext_articles/f64ff580.ext.json)
-
----
-
-### National list of the compass is announced
-
-*2024-11-17 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203464) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-UNP General Secretary Dr. Nihal Abeysinghe notified Election Commissioner. According to 199 constitution election results, National List secured 18 seats for Sri Lanka.
-
-🟩
-
-The General Secretary of the UNP Dr. Nihal Abeysinghe has been sent to the Elections Commissioner of Elections, the General Secretary of the UNP.
-
-According to the election results of the election results of the 199 constitution of the Constitution, the National Institute of Sri Lanka won 18 seats.
-
-◼️
-
-[Data](articles/3ec404e3.json)
-
-[Extended Data](ext_articles/3ec404e3.ext.json)
-
----
-
-### ITAK’s General Secretary nominated for National List seat
-
-*2024-11-17 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/103563/itaks-general-secretary-nominated-for-national-list-seat-) · `en`
-
-The Ilankai Thamil Arasu Kachchi (ITAK) has nominated its General Secretary Dr. P. Sathiyalingam to enter the Parliament as the party’s National List MP.
-
-Dr. P. Sathiyalingam contested the 2024 General Election from the Vanni District representing the ITAK, however, was not able to secure a seat through the preference votes as ITAK managed to secure only one seat in the district.
-
-Accordingly, Dr. P. Sathiyalingam will enter the Parliament through the only national list seat secured by ITAK.
-
-◼️
-
-[Data](articles/2e139ef5.json)
-
-[Extended Data](ext_articles/2e139ef5.ext.json)
-
----
-
-### Dilith appointed National List MP's National List
-
-*2024-11-17 15:19:19* · [`adalk`](https://www.ada.lk/breaking_news/සර්ව-ජන-බලයේ-ජාතික-ලැයිස්තු-මන්ත්‍රී-ධුරය-දිලිත්ට/11-413088) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Dil Jayaweera appointed National List MP by executive committee. Universal powers granted for this year's general election. Unanimous decision made.
-
-🟩
-
-The executive committee has unanimously decided to appoint the National List MP, Dil Jayaweera, who had the universal powers this year general election.
-
-◼️
-
-[Data](articles/69fcf731.json)
-
-[Extended Data](ext_articles/69fcf731.ext.json)
-
----
-
-### MPs to enter Parliament through NPP’s national list
-
-*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/mps-to-enter-parliament-through-npps-national-list) · `en`
-
-The Election Commission has released the list of names nominated as Members of Parliament from the National People’s Power (NPP) through its national list.
-
-Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
-
-◼️
-
-[Data](articles/06920cdc.json)
-
-[Extended Data](ext_articles/06920cdc.ext.json)
-
----
-
-### NPP reveals its 18 National List MPs
-
-*2024-11-17 15:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/103562/npp-reveals-its-18-national-list-mps) · `en`
-
-The National People’s Power (NPP) has announced the names nominated to fill the 18 National List MP seats won by the party in the 2024 parliamentary election.
-
-Accordingly, the 18 individuals nominated for the national list seats secured by the NPP are as follows:
-
-◼️
-
-[Data](articles/1d9bf83f.json)
-
-[Extended Data](ext_articles/1d9bf83f.ext.json)
 
 ---

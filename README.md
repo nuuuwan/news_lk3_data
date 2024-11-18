@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 02:00:26**
+As of **2024-11-19 01:42:05**
 
 ## Newspaper Stats
 
-*Scraped **55,659** Articles*
+*Scraped **55,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 567
 bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,372
-dailyftlk | 3,806
+dailyftlk | 3,802
 dailymirrorlk | 4,733
 adalk | 5,223
 adaderanalk | 6,720
@@ -26,73 +26,11 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,655 (100.0%) of 55,659 articles have been extended.
+55,655 (100.0%) of 55,655 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
-
-### PA congratulates NPP on resounding victory, calls for balanced long-term policy to secure plantation industry’s sustainability
-
-*2024-11-19 01:54:17* · [`dailyftlk`](https://www.ft.lk/business/PA-congratulates-NPP-on-resounding-victory-calls-for-balanced-long-term-policy-to-secure-plantation-industry-s-sustainability/34-769405) · `en`
-
-The apex body of the plantation industry in Sri Lanka, The Planters’ Association of Ceylon (PA), issued a statement congratulating President Anura Kumara Dissanayake and the National People’s Power (NPP) on their recent and resounding electoral victory.
-
-The Association also extended its congratulations to Samantha Vidyarathna on his appointment as Plantation and Community Infrastructure Minister.
-
-Furthermore, it pledged its full support towards collaborative efforts to help develop the Sri Lankan plantation industry while uplifting the communities connected to it.
-
-...
-
-[Data](articles/5f8d905d.json)
-
----
-
-### Hotel Suppliers Association congratulates new Tourism Minister Vijitha Herath
-
-*2024-11-19 01:53:47* · [`dailyftlk`](https://www.ft.lk/business/Hotel-Suppliers-Association-congratulates-new-Tourism-Minister-Vijitha-Herath/34-769404) · `en`
-
-The Hotel Suppliers Association (HSA) has extended its congratulations to MP Vijitha Herath on his recent appointment as Tourism Minister. It also commended the National People’s Power (NPP) and Herath’s remarkable achievement in securing election to the Gampaha electorate with an impressive majority of 716,000 votes.
-
-“This extraordinary accomplishment is a testament to the trust and confidence placed in his leadership by the people of Sri Lanka,” HAS President Azad Mansoor said in a statement. “As the newly appointed Minister of Tourism, Vijitha Herath assumes a key role in shaping the future of Sri Lanka’s tourism and hospitality sectors. With tourism being one of the most vital industries in Sri Lanka’s economy—contributing significantly to economic growth, job creation, and international recognition—we are confident that Minister Herath’s leadership will continue to drive the sector towards new heights,” Munsoor added.
-
-...
-
-[Data](articles/45c3210a.json)
-
----
-
-### New era for EO Sri Lanka as 2024/2025 Board takes office
-
-*2024-11-19 01:53:14* · [`dailyftlk`](https://www.ft.lk/business/New-era-for-EO-Sri-Lanka-as-2024-2025-Board-takes-office/34-769403) · `en`
-
-The Entrepreneurs’ Organisation (EO) Sri Lanka recently ushered in a new chapter of leadership with the handover of the 2024-2025 Board.
-
-Outgoing President Haresh de Soysa, Director of Trade Promoters Ltd., passed the mantle of leadership to the newly appointed President, Naishadh Udeshi, Director of Chinese Dragon Café. This dynamic transition marks an exciting period of renewed focus and fresh initiatives for Sri Lanka’s entrepreneurial community.
-
-Since its establishment in 2017, EO Sri Lanka has grown steadily, overcoming global challenges such as the pandemic and economic uncertainty. With over 60 active members today, the chapter stands as a vibrant hub for some of the nation’s leading entrepreneurs. On the global front, EO boasts more than 19,000 members spread across 222 chapters in over 87 countries, making it one of the largest networks of business owners in the world.
-
-...
-
-[Data](articles/6cd7002d.json)
-
----
-
-### Tea Exporters Association congratulates President and NPP
-
-*2024-11-19 01:50:24* · [`dailyftlk`](https://www.ft.lk/business/Tea-Exporters-Association-congratulates-President-and-NPP/34-769402) · `en`
-
-The Tea Exporters Association (TEA) yesterday expressed its warmest congratulations and best wishes to President Anura Kumara Dissanayake and the newly elected Government on the landslide victory at the General Election.
-
-“The election was conducted in a peaceful and transparent manner that is commended by the business community,” said TEA Chairman Huzefa Akbarally in a statement.
-
-As Sri Lanka begins a new era under your leadership and the new Government, we are confident that the country would be able to overcome the prevailing economic challenges and move towards prosperity with appropriate economic policies and timely implementation of them.
-
-...
-
-[Data](articles/9b69342b.json)
-
----
 
 ### President - IMF. Meeting between representatives
 
@@ -2427,5 +2365,101 @@ The former minister was arrested in Kandy after a car was found in his wife's ho
 [Data](articles/5580d1fb.json)
 
 [Extended Data](ext_articles/5580d1fb.ext.json)
+
+---
+
+### Earthslip blocks Badulla-Passara road, disrupting traffic movement
+
+*2024-11-18 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103580/earthslip-blocks-badulla-passara-road-disrupting-traffic-movement) · `en`
+
+The vehicular movement on the Passara-Lunugala A5 road has been hampered near the 13th Mile Post due to an earthslip.
+
+It is also reported that a section of around 60 meters of the road has been completely blocked by soil, rocks and debris.
+
+As a result of the blockage, vehicular movement between Badulla and several areas including Bibile, Batticaloa, Monaragala, Ampara, and Maha Oya, has been completely suspended, Ada Derana reporter said.
+
+The earthslip had occurred at around 2.45 a.m. this morning (18), causing severe damages to 03 three-wheelers parked along the road. However, no injuries were reported due to the incident.
+
+Efforts to clear the debris and repair the road are currently underway by the Road Development Authority (RDA), the Passara Pradesiya Sabha, and the police.
+
+◼️
+
+[Data](articles/ed7fc6e0.json)
+
+[Extended Data](ext_articles/ed7fc6e0.ext.json)
+
+---
+
+### Sujeewa Senasinghe's V8 - Reception for Taste Cheffic
+
+*2024-11-18 12:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203490) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sujeewa Senasinghe faces court over alleged involvement in a CID investigation. President's Counsel Maithree Gunaratne requests release of questioned vehicle. Next hearing scheduled for the 25th.
+
+🟩
+
+Sujeewa Senasinghe has been allegedly assembled to be assembled to the Court of Analyst's report to the Analyst's record of Rs.Was
+
+The President's Counsel Maithree Gunaratne, who appeared on behalf of Mr. Sujeewa Senasinghe, has said that the Criminal Investigation Department (CID) has ended the previous day.
+
+As a result, the President's Counsel had also requested Sujeewa Senasinghe to release the questionful vehicle in the Criminal Investigation Department.
+
+The Fort Magistrate ordered the 25th to call on the case on the 25th.
+
+◼️
+
+[Data](articles/89f97966.json)
+
+[Extended Data](ext_articles/89f97966.ext.json)
+
+---
+
+### Sri Lanka President says will not mis-use power, will expand freedoms
+
+*2024-11-18 12:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-says-will-not-mis-use-power-will-expand-freedoms-188471/) · `en`
+
+ECONOMYNEXT – A government of the National People’s Power will not misuse its two thirds mandate to harm Sri Lanka’s citizenry, but will work towards expanding their freedoms and equality, President Anura Dissanayake said after appointing 21 cabinet ministers.
+
+The NPP candidates were elected to parliament from the North, South, East and West he said.
+
+In the past, politics were done setting the South against the North, and North against the South, and promoting hate and distrust, he said.
+
+“This election shows the divisive politics are no longer applicable,” President Dissanayake said.
+
+It was very true that “power corrupts, and absolute power corrupts absolutely,” he said.
+
+It had been shown in several occasions in Sri Lanka he said.
+
+The NPP would be mindful of the responsibility it had in not misusing the mandate it had been given, he said.
+
+In the past different people had been treated differently, based on geography, ethnicity or religion, he said.
+
+...
+
+[Data](articles/606b1d77.json)
+
+[Extended Data](ext_articles/606b1d77.ext.json)
+
+---
+
+### President allays fears over ‘absolute power’, urges new Cabinet to deliver on promises
+
+*2024-11-18 12:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/103579/president-allays-fears-over-absolute-power-urges-new-cabinet-to-deliver-on-promises-) · `en`
+
+In his inaugural address to the newly-appointed Cabinet of Ministers, President Anura Kumara Dissanayake underscored the immense responsibility shouldered by the new government and emphasized the importance of using power with accountability, integrity, and respect for the public’s trust.
+
+Speaking after the new 21-member Cabinet was sworn in at the Presidential Secretariat this morning (18), Dissanayake highlighted that it is the responsibility of everyone to protect the continuity of the democratic process and elevate it to a new level.
+
+Highlighting the historic nature of the victory that brought the incumbent administration to power, the President noted the decades-long struggle of countless individuals who dedicated their time, labor, and even lives to achieve it.
+
+...
+
+[Data](articles/a4179467.json)
+
+[Extended Data](ext_articles/a4179467.ext.json)
 
 ---

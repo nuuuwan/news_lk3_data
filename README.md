@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 15:42:00**
+As of **2024-11-18 16:42:07**
 
 ## Newspaper Stats
 
-*Scraped **55,582** Articles*
+*Scraped **55,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,41 +12,151 @@ newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 567
 bbccomsinhala | 569
-islandlk | 3,325
+islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,211
+adalk | 5,213
 adaderanalk | 6,708
-tamilmirrorlk | 7,875
-virakesarilk | 9,031
+tamilmirrorlk | 7,877
+virakesarilk | 9,032
 adaderanasinhalalk | 9,609
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,579 (100.0%) of 55,582 articles have been extended.
+55,587 (100.0%) of 55,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
 
-### ලැබී ඇති පාස්කු වන්දි මුදල සම්බන්ධයෙන් අධිකරණයේදී හෙළිදරව්වක්
+### Husband
+
+*2024-11-18 16:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனைவியை-நண்பனுக்கு-விருந்தாக்கிய-கணவன்/76-347386) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+A 42-year-old husband is sought after allegedly raping his intoxicated wife in Kottaweragala. He had left her at a brick workshop earlier. The suspect, 40, has been arrested; the victim's family has fled.
+
+🟩
+
+Police are searching for a husband who was a 42 -year -old wife who was intoxicated to a alcoholic in the Kottaweragala area of ​​the Wellawaya Police Division.
+
+While the victim is living in the area with her three children and her husband, it is reported that two senior children are working in other areas.
+
+On the 9th, the woman's husband, her friend Saminda's brick workshop, went to her three -wheeler in her three -wheeler at 4 pm and left the two drinking water and left at 9.30 pm.
+
+Later, the woman went to the room with her 12 -year -old boy and was asleep until her husband arrived.
+
+At 12 o'clock midnight, her husband, Saminda, drinking alcohol again and dragging the woman into a different room and putting the pillow on his face, saying, "fulfill your desire."
+
+Then again at 4 am, her husband raped her
+
+According to the information available, the suspect, a 40 -year -old man, has been arrested and the person who was committed to the incident has fled the area.
+
+◼️
+
+[Data](articles/fdeeb4f2.json)
+
+[Extended Data](ext_articles/fdeeb4f2.ext.json)
+
+---
+
+### Ranil's opposition to Ravi's appointment
+
+*2024-11-18 15:54:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-நியமனத்துக்கு-ரணில்-எதிர்ப்பு/175-347385) · `ta`
+
+Ranil opposes Ravi's appointment to New Democratic Front's National List. Ranil claims Ravi acted without party consent. Parties to convene tomorrow regarding national list MPs. Ranil states Ravi cannot function without joint resolution. NEAI reps won't recognize arbitrary decisions on national list posts.
+
+🟩
+
+Ravi Karunanayake's name has been sent to the Election Commission for the National List of the New Democratic Front.
+
+In this case, the new Democratic Front leader Ranil Wickremesinghe has told the party's representatives that the appointment has been made spontaneously without any consent of the new Democratic Front parties.
+
+Ranil Wickremesinghe has said that all parties of the Front will convene in Colombo tomorrow morning (19) regarding the two national list MPs belonging to the New Democratic Front.
+
+Ranil Wickremesinghe added that Ravi Karunanayake is a member of the United National Party and has no ability to function without a joint resolution.
+
+The former president added that the representatives of all parties of the new Democratic Front (NEAI) will not recognize such arbitrary activities as it is to take an official decision on two national list MP posts.
+
+◼️
+
+[Data](articles/fcd35255.json)
+
+[Extended Data](ext_articles/fcd35255.ext.json)
+
+---
+
+### One arrested with heroin drug
+
+*2024-11-18 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199081) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+33-year-old man arrested with 12g heroin in Boraleskamuwa police division raid. Suspect from Kalkissa handed over for further investigation.
+
+🟩
+
+A suspect has been arrested on Sunday (17) with heroin in the area of ​​the Boraleskamuwa police division, police Special Task Force said.
+
+The suspect has been arrested during a raid carried out on information received by the Police Special Task Force.
+
+The arrested suspect is 33 years old from Kalkissa.
+
+12 g 550 ml of heroin has been seized from the suspect.
+
+Subsequently, the suspect has been handed over to the Boraleskamuwa police station for further investigations.
+
+◼️
+
+[Data](articles/6319983f.json)
+
+[Extended Data](ext_articles/6319983f.ext.json)
+
+---
+
+### ජනපති යටතට ගත් අමාත්‍යාංශ
+
+*2024-11-18 15:40:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යටතට-ගත්-අමාත්‍යාංශ/11-413120) · `si`
+
+ජාතික ජන බලවේගය රජයේ නව අමාත්‍ය මණ්ඩලය අද (18දා) පෙරවරුවේදී ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම් දුන්නේය. අග්‍රාමාත්‍යවරිය හැරුණු කොට නව අමාත්‍ය මණ්ඩලය 21කට සීමා විය.
+
+ජනාධිපති අනුර කුමාර දිසානායක මහතා ආරක්ෂක , මුදල් සැලසුම් සහ ආර්ථික සංවර්ධන, ඩිජිටල් ආර්ථික අමාත්‍යාංශ තමා යටතේ තබාගෙන ඇත.
+
+◼️
+
+[Data](articles/d471378a.json)
+
+---
+
+### A revelation in court regarding the Passover compensation
 
 *2024-11-18 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203496) · `si`
 
-පාස්කු ඉරු දින ත්‍රස්ත ප්‍රහාර සිද්ධියට අදාළව ඉදිරිපත් කරන ලද මූලික අයිතීන්වාසිකම් පෙත්සම් සම්බන්ධයෙන් අධිකරණය විසින්  නිකුත්කළ නියෝගවලට අනුව මේ වනවිට රුපියල් මිලියන 311ක මුදලක් වන්දි වශයෙන් හානිපූර්ණ කාර්යාලයට ලැබී ඇතැයි නීතිපතිවරයා අද (18) ශ්‍රේෂ්ඨාධිකරණයට දැනුම් දුන්නේය.
+Court ruling: Passover compensation case. Attorney General informs Supreme Court about Passover residents and terrorists. Judges order report on victim compensation. Petitions set for February 27th.
 
-එම සිද්ධියට අදාළව ගොනුකර තිබූ මූලික අයිතිවාසිකම් පෙත්සම් අද කැඳවනු ලැබූ අවස්ථාවේදී  නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල්වරිය විසින් මෙම දැනුම්දීම සිදුකළාය.
+🟩
 
-මෙහිදී විනිසුරු මඩුල්ල අතිරේක සොලිසිටර් ජෙනරල්වරියට දැනුම් දුන්නේ මෙම වන්දි මුදල් වින්දිතයින්ට ගෙවා තිබෙන ආකාරය පිළිබඳ වාර්තාවක් මීළඟ දින අධිකරණයට ඉදිරිපත් කරන ලෙසට ය.
+The Attorney General also informed the Supreme Court today, according to the courts of the panel of other residents of the Passover and the terrorists.
 
-ඉන් අනතුරුව අදාළ පෙත්සම් යළි පෙබරවාරි මස 27 වනදා කැඳවීමටද නියම විය.
+The additional Solicitor General who appeared on behalf of the Attorney General when the fundamental rights were called for the incident.
+
+The panel of judges informed the Additional Solicitor General the General Secretary to the next day to submit a report on how to pay the victims.
+
+The petitions were then appointed to the 27th of February.
 
 ◼️
 
 [Data](articles/81eec8b3.json)
+
+[Extended Data](ext_articles/81eec8b3.ext.json)
 
 ---
 
@@ -102,6 +212,94 @@ The report also states that the Election Commission will be notified of the othe
 
 ---
 
+### Trump and AKD: the vital differences
+
+*2024-11-18 14:27:00* · [`islandlk`](http://island.lk/trump-and-akd-the-vital-differences/) · `en`
+
+The people of the United States of America elected that country’s 47th president on November 5, 2024. Donald Trump, who had served as the 45th president and was defeated by Joe Biden, made an unprecedented comeback, securing 312 votes of the electoral college. It left those who backed his main opponent, Democratic Party candidate and serving Vice President, Kamala Harris, in shock. After all, Trump was convicted on 34 felony counts of falsifying business records in May in New York and is currently facing charges of fraud, election subversion, and obstruction.
+
+How on earth did he even get on the ballot? How on earth did he win? Are those who voted for him ignorant of his criminal record? Have they forgotten how he covered himself in ignominy in the aftermath of losing the 2020 election? These are the questions that his detractors ask.
+
+...
+
+[Data](articles/656d7b37.json)
+
+[Extended Data](ext_articles/656d7b37.ext.json)
+
+---
+
+### A brief electoral review of the new and improved United States of Amnesia
+
+*2024-11-18 14:23:00* · [`islandlk`](http://island.lk/a-brief-electoral-review-of-the-new-and-improved-united-states-of-amnesia/) · `en`
+
+Trump’s proposed cabinet appointments short on quality, long on slavish loyalty
+
+Last week, in the despair I felt in the aftermath of the election to the US presidency of the most evil man in the United States, I wrote that I will take a break to lick my wounds and get over my distress at the apparent catastrophe that has befallen my second home. Then I realized that this is not the end of the world, though it sure felt like it on the morning after the election.
+
+I learned that I was not alone in these feelings of despair. Trump’s win had sparked off an unprecedented increase in Google searches reflecting a growing interest among Americans in relocating to foreign countries, New Zealand heading the list with an astonishing 7,600% increase! The next most popular Google search was “the least painful way to kill yourself”.
+
+...
+
+[Data](articles/8ed09636.json)
+
+[Extended Data](ext_articles/8ed09636.ext.json)
+
+---
+
+### After the funeral: A post-mortem on the US election
+
+*2024-11-18 14:21:00* · [`islandlk`](http://island.lk/after-the-funeral-a-post-mortem-on-the-us-election/) · `en`
+
+Last week’s presidential election was doubtless one of the most consequential in US history. Though the outcome was not predictable – most polls showed a tight race between Kamala Harris and Donald Trump – with the benefit of hindsight one can say that the Democrats should have seen it coming. Over the next few days and weeks, there will be a slew of analyses and diagnoses claiming to pinpoint the reasons for their defeat. Yet as Sri Lankan political analyst Rajni Gamage rightly put it in a recent tweet, such diagnoses are themselves problematic, and point to the biases of those making them.
+
+...
+
+[Data](articles/2aedc11a.json)
+
+[Extended Data](ext_articles/2aedc11a.ext.json)
+
+---
+
+### Prime Minister Wijayananda Dahanayake was a most unconventional character
+
+*2024-11-18 14:18:00* · [`islandlk`](http://island.lk/prime-minister-wijayananda-dahanayake-was-a-most-unconventional-character/) · `en`
+
+Wijayananda Dahanayake Prime Minister and Minister of Defence and External Affairs (September 1959 — March 1960)
+
+(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to THE Prime Minister)
+
+...
+
+[Data](articles/238823e8.json)
+
+[Extended Data](ext_articles/238823e8.ext.json)
+
+---
+
+### Ravi again to parliament again
+
+*2024-11-18 14:17:18* · [`adalk`](https://www.ada.lk/breaking_news/රවී-නැවතත්-පාර්ලිමේන්තුවට/11-413119) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Ravi Karunanayake, Secretary of New Democratic Front, informed Election Commission about UNP national listing. New Democratic Front won two national lists this year.
+
+🟩
+
+Ravi Karunanayake, Secretary of the New Democratic Front, has been informed the Election Commission (UNP) to a national listing of the new Democratic Front.
+
+The new Democratic Front won two national lists this year.
+
+◼️
+
+[Data](articles/d9f5078a.json)
+
+[Extended Data](ext_articles/d9f5078a.ext.json)
+
+---
+
 ### Sri Lanka coconut auction prices down for third week
 
 *2024-11-18 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-for-second-week-amidst-election-187248/) · `en`
@@ -112,7 +310,7 @@ Coconut prices dropped for the third consecutive week after reaching a record hi
 
 A total of 284,870 coconuts were offered at the auction and 231,221 were sold.
 
-The highest price for 1,000 nuts was 100 rupees, while the lowest for 1,000 nuts was 95 rupees at the weekly CDA auction.
+The highest price for 1,000 nuts was 100,000 rupees, while the lowest for 1,000 nuts was 95,ooo rupees at the weekly CDA auction.
 
 Wholesale prices for large nuts were 140-150 and 110-120 rupees for small nuts on November 13.
 
@@ -348,21 +546,27 @@ The President said he was well aware that they were all honest and not corrupt a
 
 ---
 
-### பெய்ரூட்டில் இஸ்ரேல் தாக்குதல் - ஹெஸ்புல்லா அமைப்பின் ஊடக பிரிவின் தலைவர் பலி
+### Israel's attack in Beirut
 
 *2024-11-18 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199075) · `ta`
 
-இஸ்ரேல் லெபனான் தலைநகரில் மேற்கொண்ட தாக்குதலில் ஹெஸ்புல்லா அமைப்பின் ஊடக பிரிவின் தலைவர் கொல்லப்பட்டுள்ளார்.
+Israel attacks Hezbollah leader in Beirut, killing him at Baath Party HQ. Office destroyed, crowds present. Incident occurred near Ras al-Naba area.
 
-மக்கள் நெரிசலாக வாழும் ரஸ் அல் நபா பகுதியில் பாத் அரசியல் கட்சியின் தலைமையகம் மீது இஸ்ரேல் மேற்கொண்ட தாக்குதலின் போதே இவர் கொல்லப்பட்டுள்ளார்.
+🟩
 
-கொல்லப்பட்ட ஊடக பிரிவு தலைவர் கடந்த திங்கட்கிழமை பெய்ரூட்டில் செய்தியாளர் மாநாட்டை நடத்தியிருந்தார்.
+The head of the Media Division of the Hesbullah organization has been killed in an attack in the Israeli Lebanon capital.
 
-இந்த தாக்குதலில் சிரியாவின் பாத் கட்சியின் லெபனான் கிளையின் அலுவலகம் முற்றாக அழிக்கப்பட்டுள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+He was killed in Israel's attack on the Bath Political Party headquarters in the Ras al -Naba area where the masses were crowded.
+
+The head of the murderer had held a press conference in Beirut last Monday.
+
+It is reported that the office of the Lebanon branch of Syria's Baath Party has completely destroyed the attack.
 
 ◼️
 
 [Data](articles/3e01578a.json)
+
+[Extended Data](ext_articles/3e01578a.ext.json)
 
 ---
 
@@ -386,21 +590,31 @@ The order has been issued when a fundamental rights petition has been heard toda
 
 ---
 
-### ரஸ்யாவிற்குள் ஏவுகணைகளை பயன்படுத்தி தாக்குதலை மேற்கொள்வதற்கு உக்ரைனிற்கு பைடன் அனுமதி
+### Bitton Allowed to Ukraine to carry out missiles using missiles inside Russia
 
 *2024-11-18 13:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199072) · `ta`
 
-ரஸ்யாவிற்குள் ஏவுகணைகளை பயன்படுத்தி தாக்குதலை மேற்கொள்வதற்கு உக்ரைனிற்கு அமெரிக்க ஜனாதிபதி ஜோபைடன் அனுமதி வழங்கியுள்ளார்.
+Here's a summary in 200 characters:
 
-கடந்தபல மாதங்களாக உக்ரைன் ஜனாதிபதி ஏடிசிஏம்எஸ் ஏவுகணைகளை பயன்படுத்தி ரஸ்யாமீது தாக்குதல்களை மேற்கொள்ளவேண்டும் என வேண்டுகோள் விடுத்துவந்த நிலையிலேயே பைடன் இதற்கான அனுமதியை வழங்கியுள்ளார்.
 
-ரஸ்யாவின் கேர்க்ஸ் பிராந்தியத்தில் உள்ள உக்ரைன் படையினரின் தற்பாதுகாப்பை கருத்தில் கொண்டே ஏடிசிஏம்எஸ் ஏவுகணைகளை மட்டுப்படுத்தப்பட்ட அளவில் ரஸ்யா மீது பயன்படுத்துவதற்கு அமெரிக்கா அனுமதிவழங்கியுள்ளது.
 
-ரஸ்யாவிற்குள் ஏவுகணை தாக்குதலை மேற்கொள்வதற்கு அனுமதி வழங்கியதன்  மூலம் கேர்க்ஸ் பிராந்தியத்தின் சிறிய பிராந்தியத்தை உக்ரைன் தொடர்ந்தும் கைப்பற்றி வைத்திருப்பதற்கான முயற்சிகளிற்கு ஆதரவளிப்பதை  அமெரிக்கா வெளிப்படுத்தியுள்ளது.
+US allows Ukraine to launch missiles inside Russia, focusing on securing Ukrainian troops in the Garks region. This move supports ongoing efforts to control the area.
+
+🟩
+
+US President Jobitton has granted permission to Ukraine to use missiles inside Russia.
+
+For the past few months, Faidan has granted permission for the Ukrainian President ATC AMS missiles to carry out attacks on Russia.
+
+The US has allowed ADCAMS missiles on limited to Russia, considering the security of Ukrainian soldiers in Russia's Garks region.
+
+The US has expressed its support for efforts to continue to capture the small region of the Garks region by giving permission to launch a missile attack inside Russia.
 
 ◼️
 
 [Data](articles/d2a69aeb.json)
+
+[Extended Data](ext_articles/d2a69aeb.ext.json)
 
 ---
 
@@ -2215,179 +2429,5 @@ Addressing a press conference in Colombo yesterday, Madduma Bandara noted that w
 [Data](articles/9d173069.json)
 
 [Extended Data](ext_articles/9d173069.ext.json)
-
----
-
-### ICQCC 2024: A milestone in quality excellence
-
-*2024-11-18 04:09:00* · [`islandlk`](http://island.lk/icqcc-2024-a-milestone-in-quality-excellence/) · `en`
-
-nation’s capability in hosting world-class quality management events. Organized by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), the convention attracted over 3,000 participants from 14 countries, making it one of the largest quality management gatherings in Asia.
-
-The event commenced on November 10th with a high-profile Business Forum at the Hilton Colombo, where Professor Wan Seon Shin delivered an inspiring address on “Open Quality in the Era of Digital Transformation.” His presentation, which was highly appreciated by the gathering of business leaders, explored how Korea has embraced digital transformation in quality management. The forum was followed by an International Research Conference featuring scholarly presentations on quality and productivity enhancement strategies from both local and international researchers.
-
-...
-
-[Data](articles/716b99b7.json)
-
-[Extended Data](ext_articles/716b99b7.ext.json)
-
----
-
-### Will not retire from politics: Mahinda Rajapaksa
-
-*2024-11-18 04:07:48* · [`dailyftlk`](https://www.ft.lk/news/Will-not-retire-from-politics-Mahinda-Rajapaksa/56-769367) · `en`
-
-Expresses optimism about NPP’s ability to govern and says new people should come in
-
-Reveals discussions are ongoing within his party about strategies to restore and rebuild its position
-
-Expresses personal regrets about former President Ranil Wickremesinghe and his group but dismisses SLPP is in discussion with them
-
-Former President and Sri Lanka Podujana Peramuna (SLPP) leader Mahinda Rajapaksa has confirmed that he will not step away from politics following his party’s devastating loss in the recent Parliamentary Election.
-
-The SLPP, which secured 145 seats in the last Parliament, was reduced to just three this time.
-
-However, speaking to journalists yesterday, Rajapaksa dismissed the idea of retirement. “I will not say goodbye like that,” he remarked in response to a question about his future in politics.
-
-Acknowledging the victory of the National People’s Power (NPP), Rajapaksa expressed optimism about their ability to govern. “It’s good they won,” he said. “New people should come in.”
-
-...
-
-[Data](articles/6af415aa.json)
-
-[Extended Data](ext_articles/6af415aa.ext.json)
-
----
-
-### HNB records Group PBT of Rs 38.7 bn for first nine months of 2024
-
-*2024-11-18 03:58:00* · [`islandlk`](http://island.lk/hnb-records-group-pbt-of-rs-38-7-bn-for-first-nine-months-of-2024/) · `en`
-
-HNB Group recorded a PAT of Rs 23.7 Bn growing by 26% YoY, while the Bank’s Profit After Tax increased by 34% YoY to Rs 22.2 Bn for the nine months ended September 2024.
-
-Commenting on the performance, Nihal Jayawardene, Chairman of Hatton National Bank PLC, stated that “having experienced five years of extreme volatility and unprecedented challenges, Sri Lanka has witnessed macro-economic stability during the year. We believe that the completion of the external debt restructuring as announced, as well as progression in the reform agenda, will boost investor confidence, auguring well for the country and the banking sector”.
-
-...
-
-[Data](articles/6ab7cc05.json)
-
-[Extended Data](ext_articles/6ab7cc05.ext.json)
-
----
-
-### Sunshine Holdings delivers robust performance in 1HFY25
-
-*2024-11-18 03:55:00* · [`islandlk`](http://island.lk/sunshine-holdings-delivers-robust-performance-in-1hfy25/) · `en`
-
-Continuing its resilience in robust growth, diversified conglomerate Sunshine Holdings PLC (CSE: SUN) posted consolidated revenue of Rs. 30.1 billion for the six months ending 30 September 2024 (1HFY25), an increase of 6.8% YoY.
-
-Gross profit for the period in review increased by 6.2% YoY to Rs. 9.1 billion, with the gross profit margin holding steady at 30.4%. This margin stability reflects successful margin expansion in the Healthcare sector positively impacted the group’s overall profitability, despite margin contraction in Consumer Brands and Agribusiness sectors. The group reported profit after tax (PAT) for the period of LKR 2.9 billion, a 19.6% YoY decrease, primarily impacted by the higher taxation in the agribusiness sector.
-
-...
-
-[Data](articles/a46a7421.json)
-
-[Extended Data](ext_articles/a46a7421.ext.json)
-
----
-
-### Sri Lanka’s maritime transformation: Strategic vision for 2024-2029
-
-*2024-11-18 03:23:26* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-maritime-transformation-Strategic-vision-for-2024-2029/14-769361) · `en`
-
-Chamber of Marine Industries of Sri Lanka charts course for a $ 2 billion maritime economy
-
-The Chamber of Marine Industries of Sri Lanka (CMISL) unveils a visionary five-year strategic plan designed to transform the nation’s maritime industry. This ambitious initiative focuses on fostering strategic partnerships, developing critical infrastructure, and implementing key regulatory reforms. By 2029, the plan aims to generate $ 2 billion in revenue, solidifying Sri Lanka’s position as a premier maritime hub in the Indian Ocean. Leveraging the nation’s membership in the International Council of Marine Industry Associations (ICOMIA) and its pivotal geographic location, this strategy aspires to make Sri Lanka a leader in maritime innovation and economic prosperity.
-
-...
-
-[Data](articles/a8acf108.json)
-
-[Extended Data](ext_articles/a8acf108.ext.json)
-
----
-
-### MTI Consulting recommends Cabinet  restructuring with a ‘start-up’ mindset
-
-*2024-11-18 03:09:34* · [`dailyftlk`](https://www.ft.lk/opinion/MTI-Consulting-recommends-Cabinet-restructuring-with-a-start-up-mindset/14-769360) · `en`
-
-Sri Lanka now has an opportunity to think afresh and develop a Cabinet structure that can then permeate to the structuring of all Government institutions
-
-Post watershed election that has the potential to transform Sri Lanka socio-economically, MTI Consulting has recommended a radically different approach to restructuring the Cabinet of Ministers.
-
-How nations, both developed and developing, structure their cabinets is often based on legacy practices with incremental, ad-hoc changes. There is very little ground thinking, first principles, and future-proofing (which are considered effective in organisational structuring) that goes into such a process.
-
-In this backdrop, Sri Lanka now has an opportunity to think afresh and develop a Cabinet structure that can then permeate to the structuring of all Government institutions, even considering rationalisation and consolidation where needed.
-
-...
-
-[Data](articles/b45d673e.json)
-
-[Extended Data](ext_articles/b45d673e.ext.json)
-
----
-
-### Super mandate and sobering reality
-
-*2024-11-18 02:59:00* · [`islandlk`](http://island.lk/super-mandate-and-sobering-reality/) · `en`
-
-Following their stunning victory in last week’s parliamentary election, the JVP/NPP leaders must still be pinching themselves to make sure that they are not dreaming. Their mammoth majority is sure to go down in Sri Lanka’s history. However, the bigger the majority, the greater a government’s responsibility and the higher the possibility of the public expecting miracles and becoming frustrated. Above all, the Actonian truism that absolute power corrupts absolutely has stood the test of time. Giving politicians, especially untested ones, steamroller majorities could be just as much a recipe for disaster as keeping teenagers, alcohol and car keys together.
-
-...
-
-[Data](articles/c30fc084.json)
-
-[Extended Data](ext_articles/c30fc084.ext.json)
-
----
-
-### The National List Asana belongs to Dilith - the universal power
-
-*2024-11-18 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199029) · `ta`
-
-Dilith Jayaweera wins national list seat from Sarvana Shakti party after 2024 election. Party contests 22 districts, gets 178,006 votes but no direct seats. One national list seat allocated based on total votes.
-
-🟩
-
-According to Article 99 (a) of the Constitution, the Executive Committee of the Sarvana Power has unanimously decided to give a national list of seats available to the Gampaha district candidate, Dilith Jayaweera, who contested a national list of universal power in accordance with the results of the 2024 parliamentary election.
-
-The Sarvana Shakti, led by businessman Dilith Jayaweera, contested 22 electoral districts with 178,006 votes. With 1.60 votes did not directly capture a seat. Only 1 National List was reserved for the total votes available.
-
-Roshan Ranasinghe, who contested in the Kalutara district on behalf of Sarvajana Shakti, Udaya Kammanpila, who contested in the Colombo district, and Amunugama, who contested in the Kandy district.
-
-The party's executive committee has decided to provide a national list of universal power to businessman Dilith Jayaweera, who contested the Gampaha district candidate.
-
-...
-
-[Data](articles/205a7157.json)
-
-[Extended Data](ext_articles/205a7157.ext.json)
-
----
-
-### Unconditional support for president's best plans - Chanaka Medagoda
-
-*2024-11-18 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199028) · `ta`
-
-Sri Lanka MP Chanaka Medagoda pledges unconditional support for government decisions, emphasizing cooperation without merging parties. He congratulates President Anura Kumara Dissanayake on accepting people's mandate, urging the government to represent all voters regardless of election support. Medagoda sees Tamil and Muslim votes as positive steps for national reconciliation.
-
-🟩
-
-I will cooperate unconditionally to the best decisions taken by the government for the welfare of the country. Sri Lanka PA, Galle District Parliamentarian Chanaka Medagoda said that there is no need to merge with the government to cooperate.
-
-Amidst the massive expectations of the people, President Anura Kumara Dissanayake has given strong decree. To fully accept people's decree. I congratulate the government.
-
-I will cooperate unconditionally to the best decisions taken by the government for the welfare of the country. There is no need to merge with the government to cooperate.
-
-The government should act in representing the people who supported and not supported in the election.
-
-Tamil and Muslim people have voted for the national people's power. He said this change was a great improvement for national reconciliation.
-
-◼️
-
-[Data](articles/569e33fa.json)
-
-[Extended Data](ext_articles/569e33fa.ext.json)
 
 ---

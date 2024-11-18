@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 11:26:03**
+As of **2024-11-18 11:14:00**
 
 ## Newspaper Stats
 
-*Scraped **55,525** Articles*
+*Scraped **55,522** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 564
-bbccomsinhala | 567
+bbccomsinhala | 566
 islandlk | 3,325
 economynextcom | 3,359
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,206
+adalk | 5,205
 adaderanalk | 6,700
-tamilmirrorlk | 7,867
+tamilmirrorlk | 7,866
 virakesarilk | 9,014
 adaderanasinhalalk | 9,601
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,601
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,520 (100.0%) of 55,525 articles have been extended.
+55,520 (100.0%) of 55,522 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,34 +60,6 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### சற்றுமுன் புதிய அமைச்சர்கள் பதவிப் பிரமாணம்
-
-*2024-11-18 10:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சற்றுமுன்-புதிய-அமைச்சர்கள்-பதவிப்-பிரமாணம்/150-347367) · `ta`
-
-புதிய அரசாங்கத்தின் புதிய அமைச்சர்கள் சற்றுமுன் ஜனாதிபதி அநுரகுமார திசாநாயக்க முன்னிலையில் பதவிப் பிரமாணம் செய்துகொண்டுள்ளனர்.
-
-விஜித ஹேரத் - வெளிநாட்டமைச்சு, வெளிநாட்டலுவல்கள் மற்றும் சுற்றுலா அமைச்சராக  பதவியேற்றுக் கொண்டார்.
-
-பேராசிரியர் சந்தன அபேரத்ன - பொதுநிர்வாகம் , மாகாண சபைகள் உள்ளூராட்சி அமைச்சராக பதவிப் பிரமாணம் செய்துகொண்டார்.
-
-பேராசிரியர் ஹர்ஷன நாணயக்கார - நீதி மற்றும் தேசிய ஒருமைப்பாடு அமைச்சராக பதவியேற்றுக் கொண்டார்.
-
-சரோஜா சாவித்ரி போல்ராஜ் - மகளிர் மற்றும் சிறுவர் விவகார அமைச்சராக பதவியேற்றுக் கொண்டார்.
-
-கே.டி.லால்காந்த - விவசாயம் , கால்நடை , நீர்ப்பாசனம் , காணி அமைச்சராக பதவியேற்றுக் கொண்டார்.
-
-அநுர கருணாதிலக - நகர அபிவிருத்தி, நிர்மாணிப்பு மற்றும் அமைச்சராக பதவியேற்றுக் கொண்டார்.
-
-இராமலிங்கம் சந்திரசேகர் - கடற்றொழில், நீரியல் மற்றும் கடல்வள அமைச்சராக பதவியேற்றுக் கொண்டார்.
-
-பேராசிரியர் உபாலி பன்னிலகே - கிராமிய அபிவிருத்தி, சமூக பாதுகாப்பு மற்றும் சமூக வலுவூட்டல் அமைச்சராக பதவியேற்றுக் கொண்டார்.
-
-...
-
-[Data](articles/5193fd41.json)
-
----
-
 ### இளங்குமரனின் கூற்று கோமாளித்தனமானது
 
 *2024-11-18 10:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இளங்குமரனின்-கூற்று-கோமாளித்தனமானது/175-347366) · `ta`
@@ -103,28 +75,6 @@ Extensions include translations and NER (Named Entity Recognition).
 ...
 
 [Data](articles/4ced2f7b.json)
-
----
-
-### නව රජයේ අමාත්‍ය මණඩලය දිවුරුම් දෙයි
-
-*2024-11-18 10:14:01* · [`adalk`](https://www.ada.lk/breaking_news/නව-රජයේ-අමාත්‍ය-මණඩලය-දිවුරුම්-දෙයි/11-413114) · `si`
-
-ආචාර්ය හරිනි අමරසූරිය  - අග්‍රාමාත්‍ය හා අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍ය
-
-මහාචාර්ය චන්දන අබේරත්න - රාජ්‍ය පරිපාලන, පළාත් සභා හා පළාත් පාලන අමාත්‍ය
-
-මහාචාර්ය උපාලි පන්නිලගේ - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ හා ප්‍රජා සවිබල ගැන්විමේ අමාත්‍ය
-
-බිමල් රත්නායක - ප්‍රවාහන, මහාමාර්ග, වරාය හා සිවිල් ගුවන් සේවා
-
-මහාචාර්ය සුනිල් සෙනෙවි - බුද්ධ ශාසන, ආගමික හා සංස්කෘතික කටයුතු
-
-වසන්ත සමරසිංහ - වෙළද වාණිජ ආහාර සුරක්ෂිත හා සමූපාකාර සංවර්ධන
-
-◼️
-
-[Data](articles/c92df57f.json)
 
 ---
 
@@ -733,20 +683,6 @@ The Department of Meteorology urges the public to take necessary steps to reduce
 [Data](articles/a94b6cfe.json)
 
 [Extended Data](ext_articles/a94b6cfe.ext.json)
-
----
-
-### නව රජයේ අද දිවුරුම් දුන් කැබිනට් මණ්ඩලය මෙන්න
-
-*2024-11-18 05:28:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0j86g88ln8o) · `si`
-
-වට්ස්ඇප් වංචා: සයිබර් වංචාවලට ඔබ හසුවන හැටි සහ ඒවාට ගොදුරු නොවී ඉන්න හැටි
-
-මහ මැතිවරණය 2024: ජාතික ලැයිස්තු මන්ත්‍රී ධූරවලට මෙතෙක් පත් කර ඇත්තේ කවුද?
-
-◼️
-
-[Data](articles/d6923d7a.json)
 
 ---
 
@@ -2413,5 +2349,77 @@ The name of Upali Samarasinghe, the party's Wanni district organizer and party m
 [Data](articles/d42f6423.json)
 
 [Extended Data](ext_articles/d42f6423.ext.json)
+
+---
+
+### A van fires suddenly
+
+*2024-11-17 18:05:15* · [`adalk`](https://www.ada.lk/breaking_news/වෑන්-රථයක්-හදිසියේ-ගිනි-ගනියි/11-413099) · `si`
+
+Van catches fire near Highlight; 5-year-old twins, couple with 2-year-old twins escape; van destroyed; police investigating
+
+🟩
+
+Five-year-old tanks including five-year-old twins, a van, near the Highlight, the van was completely destroyed due to a technical fault on the Highlight.
+
+A couple, a resident of Kalubowila, a temple in Avissawella, with two-year-old twins, was born on a fire in the Clan Kanaha tree near the Highlight area in Pannipitiya.
+
+Later, the driver then stopped the van and dropped the van and dropped, and the police had been arrested and informed of the incident. The police officers later came and import a fire truck in the Kotte Municipal Council, but the fire was damaged by the entire van.
+
+Police say no one has been harmed and the van is completely destroyed. Maharagama is conducting further investigations.
+
+◼️
+
+[Data](articles/ee85a983.json)
+
+[Extended Data](ext_articles/ee85a983.ext.json)
+
+---
+
+### IMF agents to visit the island today
+
+*2024-11-17 17:48:18* · [`adalk`](https://www.ada.lk/breaking_news/IMF-නියෝජිත-පරිස-අද-දිවයිනට/11-413098) · `si`
+
+IMF team arrives in Sri Lanka today for loan review. They'll discuss the third comprehensive loan review and fourth installment until July 23.
+
+🟩
+
+A representatives of the 4 year extensive loan facility in Sri Lanka are due to arrive in Sri Lanka today (17). They will be staying in Sri Lanka until July 23.
+
+The third review of comprehensive loans and the fourth installment is due to be discussed with regard to Sri Lanka.
+
+Accordingly, a delegation is due to arrive in Sri Lanka under the patronage of Senior Missions Senior Mission Senior Mission (IMF) under the Extent of the International Monetary Fund.
+
+◼️
+
+[Data](articles/993aad9f.json)
+
+[Extended Data](ext_articles/993aad9f.ext.json)
+
+---
+
+### One man arrested with heroin in Kokuvil
+
+*2024-11-17 17:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199005) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Man (28) arrested with 120mg heroin in Kokuvil. Police acted on intelligence tip. Suspect to be brought to court soon.
+
+🟩
+
+One (28) has been arrested with 120 mg Horoin in Kukkuvil Kulapitti area.
+
+The suspect has been arrested on the basis of confidential information received by the Police Intelligence Unit of the Jaffna District Senior Superintendent of Police, Luen Surya Pandara.
+
+After further investigations, the police are taking steps to bring the suspect in court.
+
+◼️
+
+[Data](articles/ea3ba986.json)
+
+[Extended Data](ext_articles/ea3ba986.ext.json)
 
 ---

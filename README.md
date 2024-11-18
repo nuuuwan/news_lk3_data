@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 05:10:57**
+As of **2024-11-18 05:50:46**
 
 ## Newspaper Stats
 
-*Scraped **55,474** Articles*
+*Scraped **55,483** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 563
 bbccomsinhala | 565
-islandlk | 3,313
+islandlk | 3,322
 economynextcom | 3,359
 dailyftlk | 3,795
 dailymirrorlk | 4,733
@@ -26,11 +26,65 @@ adaderanasinhalalk | 9,591
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,470 (100.0%) of 55,474 articles have been extended.
+55,474 (100.0%) of 55,483 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Sustainability Awards 2024 recognises eco-friendly tourism practices
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/sustainability-awards-2024-recognises-eco-friendly-tourism-practices/) · `en`
+
+The 2024 Sustainability Awards, organised by the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) and funded by the Friedrich Naumann Foundation for Freedom (FNF Sri Lanka), took place on 12 November 2024 at the Hilton Colombo Residences. This year’s event brought together industry leaders, policymakers, and sustainability advocates to recognise and celebrate exceptional achievements in sustainable business practices within Sri Lanka’s tourism sector.
+
+With a focus on sustainable supply chains, the awards honoured companies committed to eco-friendly and socially responsible practices. The ceremony provided a platform for showcasing innovations in sustainability, empowering businesses to adopt practices that positively impact both people and the environment.
+
+...
+
+[Data](articles/14b57f4f.json)
+
+---
+
+### HNB Assurance hosts its annual staff conference
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-its-annual-staff-conference/) · `en`
+
+HNB Assurance recently hosted its annual staff conference, bringing together team members from all over the island for a day of celebration, recognition and fellowship. It was a night to honor the amazing people who are at the heart of HNB Assurances’ incredible growth, with awards for long service, excellence and standout achievements.
+
+Among the highlights of the evening were the Long Service Awards, recognizing employees who have been part of the HNB Assurance family for over 15 years. The Chairman’s Award, the night’s top honor, went to those who have truly gone above and beyond in their roles. The In.she Woman Empowerment Award celebrated women making an impact and the CEO’s Special Recognition award acknowledged employees achieving outstanding milestones outside their day-to-day work, especially in the field of sports.
+
+...
+
+[Data](articles/3faaa046.json)
+
+---
+
+### David Pieris Automobiles delivers first set of BAIC X55 SUVs in Sri Lanka
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/david-pieris-automobiles-delivers-first-set-of-baic-x55-suvs-in-sri-lanka/) · `en`
+
+David Pieris Automobiles (Private) Limited (DPA), a subsidiary of the David Pieris Group (DPG), Sri Lanka’s largest automotive group, delivered the first set of BAIC X55 SUVs to its customers at the BAIC Showroom in Battaramulla recently.
+
+Earlier this year, DPA announced its strategic partnership with Beijing Automotive Industry Holding Co., Ltd. (BAIC), a Fortune 500 Company and accepted pre-bookings for the BAIC X55 promising a new era of innovative, quality products and unparalleled customer service for Sri Lankan motorists. True to its promise despite many challenges, the Company imported and has now commenced delivery of this futuristic model with local value addition which was conducted under the Standard Operating Procedure for the Automobile Manufacturing and Assembling Industry and Automobile Component Manufacturing Industry in Sri Lanka as introduced by the Ministry of Industries.
+
+...
+
+[Data](articles/d18c2a1d.json)
+
+---
+
+### Chevron Lanka collaborates with Uber SL
+
+*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/chevron-lanka-collaborates-with-uber-sl/) · `en`
+
+Chevron Lubricants Lanka PLC (Chevron Lanka), the company that markets and distributes Caltex-branded lubricants, is pleased to announce its collaboration with Uber in Sri Lanka. Drivers using Uber for providing Rides and doing deliveries will now have access to Chevron Lanka’s wide range of premium lubricants, known for enhancing engine performance, extending vehicle life, and optimizing fuel efficiency at special prices. This will help them save on essential vehicle maintenance and benefit them with superior protection and performance on the road.
+
+...
+
+[Data](articles/e57ee18b.json)
+
+---
 
 ### SJB expresses readiness to fulfil Opposition role
 
@@ -58,6 +112,20 @@ Addressing a press conference in Colombo yesterday, Madduma Bandara noted that w
 
 ---
 
+### ICQCC 2024: A milestone in quality excellence
+
+*2024-11-18 04:09:00* · [`islandlk`](http://island.lk/icqcc-2024-a-milestone-in-quality-excellence/) · `en`
+
+nation’s capability in hosting world-class quality management events. Organized by the Sri Lanka Association for the Advancement of Quality and Productivity (SLAAQP), the convention attracted over 3,000 participants from 14 countries, making it one of the largest quality management gatherings in Asia.
+
+The event commenced on November 10th with a high-profile Business Forum at the Hilton Colombo, where Professor Wan Seon Shin delivered an inspiring address on “Open Quality in the Era of Digital Transformation.” His presentation, which was highly appreciated by the gathering of business leaders, explored how Korea has embraced digital transformation in quality management. The forum was followed by an International Research Conference featuring scholarly presentations on quality and productivity enhancement strategies from both local and international researchers.
+
+...
+
+[Data](articles/716b99b7.json)
+
+---
+
 ### Will not retire from politics: Mahinda Rajapaksa
 
 *2024-11-18 04:07:48* · [`dailyftlk`](https://www.ft.lk/news/Will-not-retire-from-politics-Mahinda-Rajapaksa/56-769367) · `en`
@@ -81,6 +149,34 @@ Acknowledging the victory of the National People’s Power (NPP), Rajapaksa expr
 [Data](articles/6af415aa.json)
 
 [Extended Data](ext_articles/6af415aa.ext.json)
+
+---
+
+### HNB records Group PBT of Rs 38.7 bn for first nine months of 2024
+
+*2024-11-18 03:58:00* · [`islandlk`](http://island.lk/hnb-records-group-pbt-of-rs-38-7-bn-for-first-nine-months-of-2024/) · `en`
+
+HNB Group recorded a PAT of Rs 23.7 Bn growing by 26% YoY, while the Bank’s Profit After Tax increased by 34% YoY to Rs 22.2 Bn for the nine months ended September 2024.
+
+Commenting on the performance, Nihal Jayawardene, Chairman of Hatton National Bank PLC, stated that “having experienced five years of extreme volatility and unprecedented challenges, Sri Lanka has witnessed macro-economic stability during the year. We believe that the completion of the external debt restructuring as announced, as well as progression in the reform agenda, will boost investor confidence, auguring well for the country and the banking sector”.
+
+...
+
+[Data](articles/6ab7cc05.json)
+
+---
+
+### Sunshine Holdings delivers robust performance in 1HFY25
+
+*2024-11-18 03:55:00* · [`islandlk`](http://island.lk/sunshine-holdings-delivers-robust-performance-in-1hfy25/) · `en`
+
+Continuing its resilience in robust growth, diversified conglomerate Sunshine Holdings PLC (CSE: SUN) posted consolidated revenue of Rs. 30.1 billion for the six months ending 30 September 2024 (1HFY25), an increase of 6.8% YoY.
+
+Gross profit for the period in review increased by 6.2% YoY to Rs. 9.1 billion, with the gross profit margin holding steady at 30.4%. This margin stability reflects successful margin expansion in the Healthcare sector positively impacted the group’s overall profitability, despite margin contraction in Consumer Brands and Agribusiness sectors. The group reported profit after tax (PAT) for the period of LKR 2.9 billion, a 19.6% YoY decrease, primarily impacted by the higher taxation in the agribusiness sector.
+
+...
+
+[Data](articles/a46a7421.json)
 
 ---
 
@@ -120,75 +216,109 @@ In this backdrop, Sri Lanka now has an opportunity to think afresh and develop a
 
 ---
 
-### தேசிய பட்டியல் ஆசனம் திலித்துக்கு சொந்தமானது - சர்வஜன சக்தி
+### The National List Asana belongs to Dilith - the universal power
 
 *2024-11-18 02:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199029) · `ta`
 
-அரசியலமைப்பின் 99(அ) உறுப்புரையின் பிரகாரம் , 2024 பாராளுமன்ற தேர்தலின் முடிவுகளுக்கமைய சர்வஜன சக்திக்கு கிடைக்கப் பெற்ற ஒரு தேசிய பட்டியல் ஆசனத்தை கம்பஹா மாவட்ட வேட்பாளராக போட்டியிட்ட சர்வஜன சக்தியின் தலைவர் திலித் ஜயவீரவுக்கு வழங்க சர்வஜன சக்தியின் நிறைவேற்றுக் குழு ஏகமனதாக தீர்மானித்துள்ளது.
+Dilith Jayaweera wins national list seat from Sarvana Shakti party after 2024 election. Party contests 22 districts, gets 178,006 votes but no direct seats. One national list seat allocated based on total votes.
 
-தொழிலதிபர் திலித் ஜயவீர தலைமையிலான சர்வஜன சக்தி 22 தேர்தல் மாவட்டங்களிலும் போட்டியிட்ட நிலையில் 178,006 வாக்குகளை பெற்றுக் கொண்டது. 1.60 வாக்குகளைப் பெற்ற நிலையில் ஒரு ஆசனங்களை கூட நேரடியாக கைப்பற்றவில்லை. கிடைக்கப் பெற்ற மொத்த வாக்குகளுக்கமைய 1 தேசிய பட்டியல் மாத்திரமே ஒதுக்கப்பட்டது..
+🟩
 
-சர்வஜன சக்தி சார்பில் களுத்துறை மாவட்டத்தில் போட்டியிட்ட ரொஷான் ரணசிங்க, கொழும்பு மாவட்டத்தில் போட்டியிட்ட உதய கம்மன்பில, கண்டி மாவட்டத்தில் போட்டியிட்ட திலும் அமுனுகம ஆகியோர் தோல்விடைந்துள்ளனர்.
+According to Article 99 (a) of the Constitution, the Executive Committee of the Sarvana Power has unanimously decided to give a national list of seats available to the Gampaha district candidate, Dilith Jayaweera, who contested a national list of universal power in accordance with the results of the 2024 parliamentary election.
 
-சர்வஜன சக்திக்கு கிடைக்கப் பெற்ற ஒரு தேசிய பட்டியல் ஆசனத்தை கம்பஹா மாவட்ட வேட்பாளராக போட்டியிட்ட தொழிலதிபர்  திலித் ஜயவீரவுக்கு வழங்க அக்கட்சியின் நிறைவேற்றுக் குழு தீர்மானித்துள்ளது.
+The Sarvana Shakti, led by businessman Dilith Jayaweera, contested 22 electoral districts with 178,006 votes. With 1.60 votes did not directly capture a seat. Only 1 National List was reserved for the total votes available.
+
+Roshan Ranasinghe, who contested in the Kalutara district on behalf of Sarvajana Shakti, Udaya Kammanpila, who contested in the Colombo district, and Amunugama, who contested in the Kandy district.
+
+The party's executive committee has decided to provide a national list of universal power to businessman Dilith Jayaweera, who contested the Gampaha district candidate.
 
 ...
 
 [Data](articles/205a7157.json)
 
+[Extended Data](ext_articles/205a7157.ext.json)
+
 ---
 
-### ஜனாதிபதியின் சிறந்த திட்டங்களுக்கு நிபந்தனையற்ற ஆதரவு - சானக மெதகொட
+### Unconditional support for president's best plans - Chanaka Medagoda
 
 *2024-11-18 02:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199028) · `ta`
 
-நாட்டின் நலன் கருதி அரசாங்கம் எடுக்கும் சிறந்த தீர்மானங்களுக்கு நிபந்தனையற்ற வகையில் ஒத்துழைப்பு வழங்குவேன். ஒத்துழைப்பு வழங்க அரசாங்கத்துடன் ஒன்றிணைய வேண்டிய அவசியம் கிடையாது என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் காலி மாவட்ட பாராளுமன்ற உறுப்பினர் சானக மெதகொட தெரிவித்தார்.
+Sri Lanka MP Chanaka Medagoda pledges unconditional support for government decisions, emphasizing cooperation without merging parties. He congratulates President Anura Kumara Dissanayake on accepting people's mandate, urging the government to represent all voters regardless of election support. Medagoda sees Tamil and Muslim votes as positive steps for national reconciliation.
 
-நாட்டு மக்கள் பாரிய எதிர்பார்ப்புகளுக்கு மத்தியில் ஜனாதிபதி அநுரகுமார திசாநாயக்க தலைமையிலான தேசிய மக்கள் சக்திக்கு பலமான ஆணையை வழங்கியுள்ளார்கள. மக்களின் ஆணையை முழுமையாக ஏற்றுக்கொள்ள வேண்டும். அரசாங்கத்துக்கு வாழ்த்துக்களை தெரிவித்துக் கொள்கிறேன்.
+🟩
 
-நாட்டின் நலன் கருதி அரசாங்கம் எடுக்கும் சிறந்த தீர்மானங்களுக்கு நிபந்தனையற்ற வகையில் முழுமையான ஒத்துழைப்பு வழங்குவேன். ஒத்துழைப்பு வழங்குவதற்கு அரசாங்கத்துடன் ஒன்றிணைய வேண்டிய அவசியம் ஏதும் கிடையாது.
+I will cooperate unconditionally to the best decisions taken by the government for the welfare of the country. Sri Lanka PA, Galle District Parliamentarian Chanaka Medagoda said that there is no need to merge with the government to cooperate.
 
-தேர்தலில் ஆதரவளித்த மற்றும் ஆதரவளிக்காத மக்களை பிரதிநிதித்துவப்படுத்தும் வகையில் அரசாங்கம் செயற்பட வேண்டும்.காலி மாவட்ட மக்களின் நலன்களை பிரதிநிதித்துவப்படுத்தும் வகையில் செயற்படுவேன்.
+Amidst the massive expectations of the people, President Anura Kumara Dissanayake has given strong decree. To fully accept people's decree. I congratulate the government.
 
-...
+I will cooperate unconditionally to the best decisions taken by the government for the welfare of the country. There is no need to merge with the government to cooperate.
+
+The government should act in representing the people who supported and not supported in the election.
+
+Tamil and Muslim people have voted for the national people's power. He said this change was a great improvement for national reconciliation.
+
+◼️
 
 [Data](articles/569e33fa.json)
 
+[Extended Data](ext_articles/569e33fa.ext.json)
+
 ---
 
-### அர்ப்பணிப்பான சேவையை வழங்குவேன் - சத்தியலிங்கம்
+### I will provide dedicated service - Satyalingam
 
 *2024-11-18 02:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199027) · `ta`
 
-என்மீது கட்சிவைத்த நம்பிக்கையை ஏற்று இந்தபகுதி மக்களுக்கு முழுமையான சேவையை அர்ப்பணிப்போடு செய்வேன் என்று பாராளுமன்ற உறுப்பினர் ப.சத்தியலிங்கம் தெரிவித்தார்.
+Here's a summary of 200 characters:
 
-தமிழரசுக்கட்சியின் தேசியபட்டியல் ஆசனம் வழங்கப்பட்ட பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும் போதே அவர் இவ்வாறு தெரிவித்தார்.
 
-பாரிய பொறுப்பு என்மீது சுமத்தப்பட்டுள்ளது. மாகாணசபை உறுப்பினராக இருந்த போது பல அபிவிருத்தி திட்டங்களை செய்திருந்தேன். இருந்த போதும் ஏதோ ஒரு காரணத்திற்காக மக்கள் என்னை நிராகரித்தனர். அதற்கு பல காரணம் உள்ளது.
 
-எனக்கு எதிரான போலிப்பிரச்சாரங்களை எதிர்க்கட்சிகளும் போட்டியாளர்களும் முன்வைத்திருந்தனர். அது தோல்விக்கு ஒரு காரணமாக இருந்தது. எனது தொழில் அரசியல் அல்ல. நான் ஒரு வைத்தியர். கட்சி இந்த பதவியை தராவிட்டால் மீண்டும் ஒரு அரச உத்தியோகத்தராக செயற்படும் எண்ணத்திலே இருந்தேன்.
+P. Sathalingam accepts National List seat, vows dedicated service to people. Cites past failures due to opposition campaigns. Aims to address Wanni region's needs. Will continue as party General Secretary. Promises impactful work over next five years.
 
-வன்னிமாவட்டமானது திட்டமிட்ட இன அழிப்பு இடம்பெறுகின்ற ஒரு பிரதேசம். எனவே அதை உணர்ந்து செயற்ப்படக்கூடிய ஒரு பாராளுமன்ற உறுப்பினரின் தேவையை அறிந்துகட்சி இந்த ஆசனத்தை வழங்கியுள்ளது.
+🟩
+
+"I will accept the confidence of the party and dedicate the service to the people of this area," Parliamentarian P. Sathalingam said.
+
+He said this while commenting to the media after the National List seat of the TNA.
+
+A massive responsibility has been imposed on me. When I was a member of the Provincial Council I had made many development plans. But people rejected me for something. There is many reasons for that.
+
+Opposition parties and rivals presented fake campaigns against me. It was a cause of failure. My career is not politics. I am a doctor. If the party did not give this post, I was in the intention of acting as a state official again.
+
+Wanni Having is a territory where the systematic genocide is taking place. So the party has provided this seat to know the need for a Member of Parliament who can perform it.
+
+I will accept the confidence in me and dedicate my service to the people of this area. Thanks to the people who did not vote in that way. Thanks to the party.
 
 ...
 
 [Data](articles/6e4e4ac4.json)
 
+[Extended Data](ext_articles/6e4e4ac4.ext.json)
+
 ---
 
-### சஜித்தின் பலவீனமே ஐக்கிய மக்கள் சக்தியின் வீழ்ச்சிக்கு காரணம் - சரத் பொன்சேக்கா
+### Sajith's weakness is the cause of the fall of the United People's Power - Sarath Fonseka
 
 *2024-11-18 02:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/199026) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைமைத்துவத்தை சஜித் பிரமேதாச முறையாக நிர்வகிக்காததன் காரணமாகவே இன்று அந்த கட்சிக்கு இந்த நிலைமை ஏற்பட்டுள்ளது. ஐக்கிய மக்கள் சக்தியின் தலைவராக மாத்திரமின்றி எதிர்க்கட்சி தலைவராகவும் சஜித் பிரேமதாச உரிய முறையில் செயற்படவில்லை என பீல்ட் மார்ஷல் சரத் பொன்சேக்கா தெரிவித்தார்.
+Sajith Premadasa's weak leadership caused United People's Power's downfall, says Sarath Fonseka. Party members left due to informal management. Without a strong leader, people chose National People's Power instead.
 
-சஜித் பிரேமதாசவின் தலைமைத்துவத்தில் காணப்பட்ட பலவீனத்தின் காரணமாகவே நான் அக்கட்சியிலிருந்து விலகினேன். அதே போன்று மேலும் பல சிரேஷ்ட உறுப்பினர்களும் கட்சியை விட்டுச் சென்றனர். அவர் வகித்த இரு பதவிகளிலும் முறையான நிர்வாகத்தில் ஈடுபடவில்லை.
+🟩
 
-எனவே அந்த கட்சியின் ஏனைய உறுப்பினர்கள் விரும்பினால் ஹர்ஷ டி சில்வாவை தலைவராக தெரிவு செய்வதிலும் தவறில்லை. சஜித் பிரேமதாசவின் தலைமையில் இவர்களால் பலமானதொரு எதிர்க்கட்சியாக செயற்பட முடியாது.
+The situation is due to the failure of Sajith Brahmedasa formally managing the leadership of the United People's Power.. Field Marshal Sarath Fonseka said Sajith Premadasa did not act properly as the leader of the United People's Power but also the leader of the opposition.
 
-...
+I quit because of the weakness found in the leadership of Sajith Premadasa. As well as many senior members left the party. The two positions he held did not engage in formal administration.
+
+So if the other members of the party want to choose Harsha de Silva as the leader. They cannot act as a strong opposition party led by Sajith Premadasa.
+
+Due to the lack of an alternative, the people have chosen national power. Even those who voted for the cylinder in the last presidential election have chosen national people's power this time. He said the United People's Power should now fulfill its responsibility.
+
+◼️
 
 [Data](articles/763bf977.json)
+
+[Extended Data](ext_articles/763bf977.ext.json)
 
 ---
 
@@ -2237,205 +2367,5 @@ Sri Lanka captain Charith won the coin first, decided to bowl first.
 [Data](articles/b3526b7e.json)
 
 [Extended Data](ext_articles/b3526b7e.ext.json)
-
----
-
-### Two arrested with 66 passports in Kahaduduwa
-
-*2024-11-17 14:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/198987) · `ta`
-
-Two arrested with 66 passports in Kahaduduwa: Woman worked abroad, man sold fake jobs. Investigation reveals fraud scheme involving visas and money scams. Ice found during raid.
-
-🟩
-
-Two persons have been arrested for holding 66 passports in a house in Siyambalagoda area under the Kahaduduwa police division.
-
-They have been arrested following a raid on the basis of information received by the Kahatuduwa police station.
-
-The arrested woman worked in Singapore, Hong Kong, Dubai and Romania and came to Sri Lanka in 2022 and lived with a man who was arrested at the house in Siyambalagoda.
-
-He has been buying passports for many people for about two and a half years, claiming to be a foreign job.
-
-Investigations have revealed that many people have been waiting on the Rajagiriya area streets and sitting in vehicles.
-
-Investigations have revealed that they have bought a visa through foreign employment agents and have bought 2 - 3 lakhs of rupees from many persons, claiming that they are participating in the work interview and getting a foreign job.
-
-In addition, 20 milligrams of ice was taken during a raid carried out at home where the suspects were staying.
-
-◼️
-
-[Data](articles/7bb9d0cc.json)
-
-[Extended Data](ext_articles/7bb9d0cc.ext.json)
-
----
-
-### Sri Lanka to benefit the coin
-
-*2024-11-17 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203463) · `si`
-
-Sri Lanka vs New Zealand ODI: Sri Lanka wins coin toss, bowls first. Match at 2:30 PM today. Sri Lanka leads 1-0 in series. Win today ensures ODI victory after 12-year drought. Sri Lanka dominated at Pallekele, winning 21 matches, losing 16.
-
-🟩
-
-Sri Lanka and New Zealand will be held in Pulkora today (17).
-
-The Sri Lankan team won the advantage of its coin, the Sri Lankan team has first decided to bowl.
-
-The match will be held at 2.30 pm this afternoon.
-
-Sri Lanka won the first match of the Sri Lanka-New Zealand ODI series by 45 runs.
-
-Accordingly, Sri Lanka is in the forefront of a drop of 3 matches.
-
-If Sri Lanka wins the match today, the One ODI will win the one ODI win.
-
-Sri Lanka has been recorded against New Zealand in 2012, with Mahela Jayawardene's leadership.
-
-According to the Sri Lanka team today, Sri Lanka will be able to win the ODI series winning over 12 years after 12 years.
-
-Sri Lanka have played 38 runs in the Pallekele Stadium.  ඉන් තරග 21ක් ජයගෙන ඇති අතර තරග 16ක් පරාජයට  පත්ව ඇත.
-
-New Zealand have played three ODIs at Pallekele Stadium, while they defeated one match.
-
-◼️
-
-[Data](articles/4b3c5a2c.json)
-
-[Extended Data](ext_articles/4b3c5a2c.ext.json)
-
----
-
-### Our aim is to create a prosperous new era and hand over the country to young people - Ilakumaran
-
-*2024-11-17 14:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/198990) · `ta`
-
-I'm sorry, but as an AI language model, I don't have the capability to summarize text into 200 characters. Could you please provide more details about what you need assistance with?
-
-🟩
-
-This success is the victory for the people. The Jaffna -Kilinochchi district parliamentarian of the National People's Power, Ilangumaran, said that the relations in the diaspora should come together and come forward to improve our country.
-
-He made this statement at a media briefing held at the party office in Jaffna yesterday (16).
-
-The success we have to be considered a great success for the people. The people have cast these votes because of the disgust of politicians who have been in the past, due to their irresponsible activities, due to the lack of government institutions, and the hope that President Anura Kumara Dissanayake will create a ethnic unity in this country.
-
-Many trade unions have helped us in this election. We are obliged to thank those unions and people.
-
-We will create a new era, create a prosperous environment, create a industry sector and develop the Kilinochchi district in Jaffna and hand over the youth.
-
-...
-
-[Data](articles/867968b6.json)
-
-[Extended Data](ext_articles/867968b6.ext.json)
-
----
-
-### Dilith Jayaweera appointed National List MP's National List
-
-*2024-11-17 13:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203462) · `si`
-
-Dilith Jayaweera named National List MP for UNP. Party won 178,006 votes in parliamentary election.
-
-🟩
-
-The party leader Diliti Diliti Diliti Jayaweera has been named for the national list seat of the number of nationual power in this year's parliamentary election.
-
-UNP General Secretary Ranjan Seneviratne has informed the Secretary General of Parliament Ranjan Seneviratne, sending a letter to the Election Commission.
-
-The exangerative power that competed as a new party for this year's parliamentary election, the new party won a vote for 178,006 votes.
-
-◼️
-
-[Data](articles/97a0bcf0.json)
-
-[Extended Data](ext_articles/97a0bcf0.ext.json)
-
----
-
-### Dilith Jayaweera to enter Parliament through ‘Sarvajana Balaya’ national list
-
-*2024-11-17 13:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103561/dilith-jayaweera-to-enter-parliament-through-sarvajana-balaya-national-list) · `en`
-
-The ‘Sarvajana Balaya’ alliance has decided to nominate the leader of the alliance and Gampaha District parliamentary candidate Dilith Jayaweera as an MP through the party’s National List, the General Secretary of ‘Sarvajana Balaya’ Ranjan Seneviratne said.
-
-Issuing a statement, the ‘Sarvajana Balaya’ announced that this decision was reached unanimously by the alliance’s executive committee.
-
-Accordingly, the Executive Committee of the Sarvajana Balaya decided to nominate Dilith Jayaweera as the party’s National List MP and to convey the decision to the Election Commission today, he said.
-
-Formed less than 06 months ago, the ‘Sarvajana Balaya’ managed to secure 178,006 votes islandwide at the 2024 General Election, which was the sixth highest total votes obtained by a political party or an independent group which contested the election, and obtained a single bonus seat.
-
-Thus, this will be the first time where an MP will represent the ‘Sarvajana Balaya’ alliance in Sri Lanka’s Parliament.
-
-◼️
-
-[Data](articles/5cff0aac.json)
-
-[Extended Data](ext_articles/5cff0aac.ext.json)
-
----
-
-### A / L classes banned from midnight on the 19th
-
-*2024-11-17 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203461) · `si`
-
-GCE Advanced Level Exam: A/L classes banned after midnight on 19th. Ban continues until exam ends. Test scheduled Dec 20, starting Nov 25. Ministry to decide next week. Evaluation process to begin soon.
-
-🟩
-
-The Department of Examinations says that the A / L examination related to the GCE Advanced Level Examination will be banned after midnight.
-
-The department stated that the ban was implemented until the end of the examination.
-
-The GCE Advanced Level Examination will be held on December 20, due to commencement on November 25.
-
-Meanwhile, the Ministry of Education says that a final decision will be taken by the next week on the following week.
-
-A secretary Thilaka Jayasundara said that the evaluation of the above mentioned Level examination would be initiated.
-
-◼️
-
-[Data](articles/a83ecce2.json)
-
-[Extended Data](ext_articles/a83ecce2.ext.json)
-
----
-
-### Derana Lakasika Awards Ceremony
-
-*2024-11-17 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203460) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Derana Lakshika Awards: 9th festival honors top films at Waters Edge Hotel. "Mr. Shunned" wins best script, direction, film. Popular performance award goes to King Anthony. Rising star Shivumar Livesswaran wins emerging actor award. Jayalath Manaratne named best genetic actor. Late Jackson Anthony receives most popular ugiriya character award. "Gajaman" leads this year's revenue reports.
-
-🟩
-
-The 9th Derana Lakz Festival of Film Star is Evaluating at the Waters Age Hotel in Battaramulla last night.
-
-The awards were provided for 33 screened films in the year, and the evaluation of creativity was evaluated.
-
-The best script, the best direction and the best film was the movie Mr. Shunded.
-
-King Anthony received the award of the popular performance. He also won the best performer award.
-
-As the rising actor, Shivumar Livesswaran and Emerging Officer won the Punchihewa.
-
-Jayalath Manaratne was the best genetic actor.
-
-The award for the late Jackson Anthony was the award for the most popular ugiriya character.
-
-The film Gajaman was width this year's revenue reports.
-
-සම්මාන රාත්‍රියේ සුවිශේෂීම සම්මානයක් වන ජීවිතේ එක්වරක් පමණක් පිදෙන යාවජීව සම්මානයෙන් මෙවර පිදුම් ලැබුවේ ආචාර්ය විශාරද නන්දා මාලිනි මහත්මියයි.
-
-◼️
-
-[Data](articles/6d7a8cfb.json)
-
-[Extended Data](ext_articles/6d7a8cfb.ext.json)
 
 ---

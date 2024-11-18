@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 22:41:29**
+As of **2024-11-18 23:25:37**
 
 ## Newspaper Stats
 
-*Scraped **55,636** Articles*
+*Scraped **55,638** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
 adalk | 5,223
-adaderanalk | 6,719
-tamilmirrorlk | 7,880
+adaderanalk | 6,720
+tamilmirrorlk | 7,881
 virakesarilk | 9,043
 adaderanasinhalalk | 9,620
 
@@ -26,11 +26,47 @@ adaderanasinhalalk | 9,620
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,636 (100.0%) of 55,636 articles have been extended.
+55,637 (100.0%) of 55,638 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### ரவி, நாமல், சத்தியலிங்கம் - வெளியானது அதிவிசேட வர்த்தமானி
+
+*2024-11-18 23:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-நாமல்-சத்தியலிங்கம்-வெளியானது-அதிவிசேட-வர்த்தமானி/175-347405) · `ta`
+
+புதிய ஜனநாயக முன்னணியின் தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினராக ரவி கருணாநாயக்க தெரிவு செய்யப்பட்டுள்ளதாக அதிவிசேட வர்த்தமானியை தேர்தல் ஆணைக்குழு வெளியிட்டுள்ளது.
+
+குறித்த வர்த்தமானி அறிவித்தலில் பொதுஜன பெரமுனவின் தேசிய பட்டியல் உறுப்பினராக நாமல் ராஜபக்ஷ மற்றும் தமிழரசுக் கட்சியின் தேசிய பட்டியல் உறுப்பினராக பத்மநாதன் சத்தியலிங்கம் தெரிவு செய்யபட்டு அவர்களின் பெயர்களும் உள்ளடக்கப்பட்டுள்ளது.
+
+இதேவேளை ரவி கருணாநாயக்க தெரிவு செய்யப்பட்ட விடயம் கட்சி தலைமைக்கும் உறுப்பினர்களுக்கும் தெரியாது என்றும் அது கட்சியின் செயலாளர் தன்னிச்சையாக எடுத்த தீர்மானம் எனவும் கட்சிக்குள் குழப்பநிலை ஏற்பட்டு, நாளை கட்சி உறுப்பினர்கள் கூடி கலந்துரையாடவுள்ளதாக அறிவிக்கப்பட்டிருந்த நிலையில் இந்த வர்த்தமானி அறிவிப்பு வெளியாகியுள்ளது. R
+
+◼️
+
+[Data](articles/72da3af6.json)
+
+---
+
+### President urges IMF to strike a balance in Sri Lanka’s economic recovery program
+
+*2024-11-18 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103597/president-urges-imf-to-strike-a-balance-in-sri-lankas-economic-recovery-program) · `en`
+
+The government of President Anura Kumara Dissanayake has reaffirmed its readiness to collaborate with the International Monetary Fund (IMF) to advance Sri Lanka’s economic recovery within the context of the mandate.
+
+Senior Mission Chief Peter Breuer and the IMF delegation met with President Dissanayake and key ministers of the newly-formed government at the Presidential Secretariat today (18), to discuss the next steps in the IMF program, the President’s Media Division (PMD) reported.
+
+The IMF team congratulated the President and his government on their decisive electoral victory, expressing optimism about the collaboration.
+
+President Dissanayake, in turn, underscored his administration’s responsibility to uphold the people’s mandate, emphasizing that the success of the IMF program hinges on rebuilding public trust in governance.
+
+...
+
+[Data](articles/5235592c.json)
+
+[Extended Data](ext_articles/5235592c.ext.json)
+
+---
 
 ### Over 46kg heroin found in fishing trawler intercepted on high seas; 5 arrested
 
@@ -2511,89 +2547,5 @@ KD as Minister of Agriculture, Livestock, Irrigation and Land Minister. Lalganta
 [Data](articles/08148a1b.json)
 
 [Extended Data](ext_articles/08148a1b.ext.json)
-
----
-
-### New ministers sworn in shortly before
-
-*2024-11-18 10:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சற்றுமுன்-புதிய-அமைச்சர்கள்-பதவிப்-பிரமாணம்/175-347367) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New ministers sworn in: Vijitha Herath (Foreign Affairs), Chandana Abeyratne (Public Administration), Harshana Nanayakkara (Justice), Saroja Savitri Bolraj (Women & Child Affairs), KD Lalgantha (Agriculture), Anura Karunathilaka (Urban Development), Ramalingam Chandrasekhar (Fisheries), Upali Pannilake (Rural Development), Sunil Handunnethi (Industry), Ananda Wijebala (Public Security), Bimal Niroshan Ratnayake (Transport), Hiniduma Sunil Senavi (Buddhist Affairs), Samantha Vidyaratne (Plantation), Sunil Kumara Kamage (Youth Affairs).
-
-🟩
-
-The new government's new ministers have been sworn in in the presence of President Anura Kumara Dissanayake.
-
-Vijitha Herath - He was sworn in as the Minister of Foreign Affairs, Foreign Affairs and Tourism.
-
-Professor Chandana Abeyratne - Public Administration and Provincial Councils Minister of State for Local Government.
-
-Professor Harshana Nanayakkara was sworn in as Minister of Justice and National Integration.
-
-Saroja Savitri Bolraj - Women and Child Affairs Minister
-
-KD Lalgantha - He was sworn in as the Minister of Agriculture, Livestock, Irrigation and Land.
-
-Anura Karunathilaka - Urban Development, Construction and Minister
-
-Ramalingam Chandrasekhar - Minister of Fisheries, Aquaticity and Maritime
-
-Professor Upali Pannilake - He was sworn in as the Minister of Rural Development, Social Security and Social Empowerment.
-
-Sunil Handunnethi - Industry and Entrepreneurship Development Minister
-
-Ananda Wijebala - Public Security and Parliamentary Affairs Minister
-
-...
-
-[Data](articles/093d126f.json)
-
-[Extended Data](ext_articles/093d126f.ext.json)
-
----
-
-### New ministers sworn in shortly before
-
-*2024-11-18 10:57:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சற்றுமுன்-புதிய-அமைச்சர்கள்-பதவிப்-பிரமாணம்/150-347367) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New ministers sworn in before President Anura Kumara Dissanayake. Key roles include Foreign Affairs, Justice, Women & Child Affairs, Agriculture, Urban Development, Fisheries, Rural Development, Industry, Public Security, Transport, Buddhist Affairs, Plantation, Youth Affairs.
-
-🟩
-
-The new government's new ministers have been sworn in in the presence of President Anura Kumara Dissanayake.
-
-Vijitha Herath - He was sworn in as the Minister of Foreign Affairs, Foreign Affairs and Tourism.
-
-Professor Chandana Abeyratne - Public Administration and Provincial Councils Minister of State for Local Government.
-
-Professor Harshana Nanayakkara was sworn in as Minister of Justice and National Integration.
-
-Saroja Savitri Bolraj - Women and Child Affairs Minister
-
-KD Lalgantha - He was sworn in as the Minister of Agriculture, Livestock, Irrigation and Land.
-
-Anura Karunathilaka - Urban Development, Construction and Minister
-
-Ramalingam Chandrasekhar - Minister of Fisheries, Aquaticity and Maritime
-
-Professor Upali Pannilake - He was sworn in as the Minister of Rural Development, Social Security and Social Empowerment.
-
-Sunil Handunnethi - Industry and Entrepreneurship Development Minister
-
-Ananda Wijebala - Public Security and Parliamentary Affairs Minister
-
-...
-
-[Data](articles/5193fd41.json)
-
-[Extended Data](ext_articles/5193fd41.ext.json)
 
 ---

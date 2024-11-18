@@ -1,36 +1,262 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-18 16:42:07**
+As of **2024-11-18 17:43:37**
 
 ## Newspaper Stats
 
-*Scraped **55,588** Articles*
+*Scraped **55,601** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 431
 colombotelegraphcom | 567
-bbccomsinhala | 569
+bbccomsinhala | 570
 islandlk | 3,326
 economynextcom | 3,365
 dailyftlk | 3,795
 dailymirrorlk | 4,733
-adalk | 5,213
-adaderanalk | 6,708
-tamilmirrorlk | 7,877
-virakesarilk | 9,032
-adaderanasinhalalk | 9,609
+adalk | 5,214
+adaderanalk | 6,711
+tamilmirrorlk | 7,878
+virakesarilk | 9,037
+adaderanasinhalalk | 9,611
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,587 (100.0%) of 55,588 articles have been extended.
+55,600 (100.0%) of 55,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-18 (Monday)
+
+### Academic and non-academic staff of Ruhuna Uni. to launch indefinite strike
+
+*2024-11-18 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103587/academic-and-non-academic-staff-of-ruhuna-uni-to-launch-indefinite-strike-) · `en`
+
+All academic and non-academic trade unions affiliated with the University of Ruhuna have announced a continuous strike commencing from tomorrow (Nov. 19), demanding the immediate removal of the university’s Vice Chancellor.
+
+The relevant trade unions mentioned that their strike action will be in effect until their single demand to immediately remove the Vice Chancellor is met.
+
+...
+
+[Data](articles/48e639d2.json)
+
+[Extended Data](ext_articles/48e639d2.ext.json)
+
+---
+
+### Notification relating to school holiday
+
+*2024-11-18 17:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199099) · `ta`
+
+Here's a summary of the notification in approximately 200 characters:
+
+
+
+School holiday announcement: Third term 2024 ends Nov 22. Holiday from Nov 23 to Dec 31. GCE A/L exams during this period. Second phase from Jan 1 to 17, 2025.
+
+🟩
+
+The Ministry of Education has announced a schedule for the completion and commencement of the third installment of state and state -approved private schools.
+
+Accordingly, the first phase of the third term for 2024 will be completed on the 22nd of November.
+
+Accordingly, schools will be given holidays from 23rd November 23rd 2025.
+
+The Ministry of Education said that the GCE A / L examination will be held during this period.
+
+The second phase of the third installment of 2024 will be held from January 1st to 17th of January 2025.
+
+◼️
+
+[Data](articles/6d9bd957.json)
+
+[Extended Data](ext_articles/6d9bd957.ext.json)
+
+---
+
+### The death of the conductor who was thrown
+
+*2024-11-18 16:49:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூக்கி-வீசப்பட்ட-நடத்துனர்-மரணம்/175-347388) · `ta`
+
+Conductor killed after thrown off bus. Incident occurred Monday near Kandy. Two passengers also injured. Police investigation ongoing.
+
+🟩
+
+The incident took place on Monday morning (18) when two people were thrown into the bus belonging to the bus belonging to the passenger.
+
+The bus belonging to the Panadurai depot was traveling from Panadura to Kandy in Koswatte area, and the traveler and traveler on the back of the bus were thrown.
+
+Police say the conductor died without the injury and was admitted to the Colombo National Hospital.
+
+◼️
+
+[Data](articles/288e8788.json)
+
+[Extended Data](ext_articles/288e8788.ext.json)
+
+---
+
+### Minister Vijitha Herath assumes duties at Foreign Ministry
+
+*2024-11-18 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103586/minister-vijitha-herath-assumes-duties-at-foreign-ministry) · `en`
+
+The newly appointed Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, assumed duties at the Foreign Ministry today (18).
+
+Senior officials of the Ministry were present on the occasion, the Ministry of Foreign Affairs said in a statement.
+
+As a Member of Parliament, Minister Herath has represented the Gampaha District since 2000. At the recently concluded General election, he was re-elected, obtaining the highest ever number of preferential votes in Sri Lanka’s Parliamentary election history.
+
+He had also previously served as the Minister of Cultural Affairs and National Heritage from 2004 - 2005, and as the Minister of Foreign Affairs of the interim government following the election of Anura Kumara Dissanayake as President on 22 September 2024.
+
+Minister Herath holds a Bachelor of Science degree from the University of Kelaniya.
+
+◼️
+
+[Data](articles/55114062.json)
+
+[Extended Data](ext_articles/55114062.ext.json)
+
+---
+
+### The musician's music dominated in the film 'Liberation 2' .. !!?
+
+*2024-11-18 16:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/199096) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"Musician's song dominates 'Liberation 2'. First release: 'Da Da Da Da Everyday' from Nam Selvan starrer featuring Vijay Sethupathi & Suri. Composed by Ilayaraja, lyrics by Gnani, sung by Ananya Bhatt. Fans praise melody."
+
+🟩
+
+The first song 'Da Da Da Da Everyday', which is featured in the second part of the movie 'Liberation' starring 'Nam Selvan' Vijay Sethupathi and Suri, has been released.
+
+Vijay Sethupathi, Suri, Manju Warrior, Anurag Kashyap, Ken Karunas, Bhavani Sri, Chetan, Gautam Vasudev Menon, Rajiv Menon, Saravana, Saravana Subbaiah, in the movie 'Liberation 2', which is being produced by the creator Vijayamaran, which is under the unique identity of the Tamil film industry.
+
+The film is being produced by the producer Elrett Kumar on behalf of RS Infotainment Company.
+
+The first part of the film was released and critique and grossly successful. This was followed by anticipation for the second part. In the first part, the songs and backgrounds released in the music of musician Ilayaraja have been transformed into fans' talk.
+
+In this case, the fans were also expecting the songs featured in the film. The 'Liberation 2' in this moment ... 'The first song, which begins with, has been released.
+
+...
+
+[Data](articles/bd7fda82.json)
+
+[Extended Data](ext_articles/bd7fda82.ext.json)
+
+---
+
+### 'Tappanguttu' speaks of the life of the rural artists
+
+*2024-11-18 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199095) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Tappanguttu: Rural artists' lives. Sankara Pandi stars. Folk songs by Paravai Muniyamma et al. Directed by Muthuvira.
+
+🟩
+
+Actor Sankara Pandi, who made his debut for Tamil fans through the film 'Thekkatathi Ponnu', will be released in the film mansion on the 29th of this month.
+
+Sankara Pandi, Deepti, Kadi Sukumar, Andruz, Durga, Vijay Ganesh, Robot Chandru and many others have starred in the film 'Dapanguttu' directed by director Muthuvira.
+
+King gay. Saravanan has composed the film, which has been recorded by Bhaktavachalam. The film was made on behalf of the producer of Moden Digital Media LLP. Produced by Jeganathan.
+
+Commenting on the film, the director said, “The story of the film is focusing on Madurai soil, which is important to folk arts.. Sankara Pandi, a soil -based artist, goes to Madurai and its surrounding temples and festivals.
+
+In his art group, a young woman named Dhanam wants to dance. Dharmalingam, a relative of Pandi and the coordinator of art shows. How did the hero deal with this?That is the screenplay of the film.
+
+...
+
+[Data](articles/2114725a.json)
+
+[Extended Data](ext_articles/2114725a.ext.json)
+
+---
+
+### Court yet to receive Govt. Analyst’s report on Senasinghe’s luxury vehicle
+
+*2024-11-18 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103585/court-yet-to-receive-govt-analysts-report-on-senasinghes-luxury-vehicle) · `en`
+
+The Fort Magistrate Thanuja Lakmali has ordered the issuance of a letter of reminder to the Government Analyst’s Department as the court had not received the analyst’s report regarding former MP Sujeewa Senasinghe’s luxury vehicle, worth around Rs. 100 million, which is suspected to have been illegally assembled.
+
+President’s Counsel Maithri Gunaratne, representing Sujeewa Senasinghe, stated that although the Criminal Investigation Department (CID) had previously informed the court that a case was being heard in the Chettikulam Court regarding the vehicle, the case in question has already been concluded.
+
+Accordingly, he therefore requested that the vehicle in question which is currently in the custody of the CID, be released to Sujeewa Senasinghe.
+
+After considering the facts presented, the Fort Magistrate ordered the case to be recalled on November 25 as the Government Analyst’s report has still not been received by the court.
+
+...
+
+[Data](articles/94ef0396.json)
+
+[Extended Data](ext_articles/94ef0396.ext.json)
+
+---
+
+### Lady Super Star Nayanthara
+
+*2024-11-18 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199093) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Nayanthara stars in "Rakai," her latest South Indian film. Directed by Senthil Nallasamy, it features music by Govind Vasantha. The period drama is produced by Trumstick Productions and Movie Verse Studios. Fans are excited as the film releases on Nayanthara's birthday.
+
+🟩
+
+Nayanthara starring Lady Super Star of the South Indian film industry, titled 'Rakai', has been released as 'Rakai'.. Fans are excited as his birthday has been released.
+
+Lady Super Star Nayanthara plays the hero of the film 'Rakai', directed by debutant director Senthil Nallasamy.. Govind Vasantha has composed the film, which is being recorded by Gautham Rajendran.
+
+The film is being made as Periodic Excise Entertainment on behalf of Trumstick Productions and Movie Verse Studios.. Sakthivel and S. Aditya Pitti are co -produced.
+
+The film crew has said that the details of the other actors in the film will be officially announced soon.
+
+Luke and its exclusive video have been released in the title of 'Rakai' which is ready to act on Nayanthara's birthday.This has encouraged his fans.
+
+◼️
+
+[Data](articles/3cc4a979.json)
+
+[Extended Data](ext_articles/3cc4a979.ext.json)
+
+---
+
+### Vijitha is assumed duties
+
+*2024-11-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203500) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Vijitha Herath sworn in as Minister of External Affairs, Foreign Employment, and Tourism. Previously served as Transport, Highways, Ports, and Civil Aviation Minister. Also held Cultural Affairs and National Heritage portfolio from 2004-2005.
+
+🟩
+
+Vijitha Herath took sworn in as the Minister of External Affairs and Foreign Employment and Tourism.
+
+He has previously served as Transport, Highways, Ports and Civil Aviation Minister.
+
+He had also served as the Minister of Cultural Affairs and National Heritage at the time in 2004-2005.
+
+◼️
+
+[Data](articles/92c26f5d.json)
+
+[Extended Data](ext_articles/92c26f5d.ext.json)
+
+---
 
 ### Husband
 
@@ -66,6 +292,72 @@ According to the information available, the suspect, a 40 -year -old man, has be
 
 ---
 
+### One person arrested with drugs in Kalkisa
+
+*2024-11-18 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199085) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Person arrested in Kalkisa with ice & heroin. Raid conducted by Police Special Task Force. Suspect aged 33 found with 15g ice, 840mg heroin, and 14,500 rupees. Handed over to local police station for investigation.
+
+🟩
+
+A suspect has been arrested on Sunday (17) with ice and heroin drugs in the area of ​​the Mount Lavinia Police Division, police Special Task Force said.
+
+The suspect has been arrested during a raid carried out on information received by the Police Special Task Force.
+
+The arrested suspect is 33 years old from Kalkissa.
+
+15 grams of 555 milligrams of ice from the suspect, 840 milligrams of heroin, and 14,500 rupees suspected of being earned by drug trafficking.
+
+Subsequently, the suspect has been handed over to the Malkisa Police Station for further investigations.
+
+◼️
+
+[Data](articles/bf5fb15a.json)
+
+[Extended Data](ext_articles/bf5fb15a.ext.json)
+
+---
+
+### Strong American Weapons toward Russia
+
+*2024-11-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203499) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+US provides long-range missiles to Ukraine, raising concerns about potential escalation. Russia warns against such actions, fearing it could lead to World War III. Ukraine claims readiness to use ATACMS missiles, but Russia's response remains uncertain.
+
+🟩
+
+International media has reported that US President Joe Biden has reportedly taken a decisive change in the Ukrainian war as well as a movement of dangerous growth.
+
+It is granting the modern arms for the Russian land, including the long-distance missiles provided by the US.
+
+Ukrainian President Woworer Selenceki was a long time that the US missile would be able to do in the interior of the Russian ground in the Russian area.
+
+However, the Western countries including the US, including the US, have not been approved in Ukraine, including the warning of the war and the warnings of Russia.
+
+Reviews have introduced this as a remarkable change in Ukrainian war in the US policy.
+
+The President's Bideon has made this decision is a significant fact that Demond Trump is the defeat of the Ukrainian war.
+
+However, the current President Joe Biden is further sworn in as the Tom 20th of January.
+
+Therefore, the steps he takes has not been clear to how the trump administration affects the next tramp.
+
+...
+
+[Data](articles/2dcb260c.json)
+
+[Extended Data](ext_articles/2dcb260c.ext.json)
+
+---
+
 ### Ranil's opposition to Ravi's appointment
 
 *2024-11-18 15:54:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-நியமனத்துக்கு-ரணில்-எதிர்ப்பு/175-347385) · `ta`
@@ -89,6 +381,36 @@ The former president added that the representatives of all parties of the new De
 [Data](articles/fcd35255.json)
 
 [Extended Data](ext_articles/fcd35255.ext.json)
+
+---
+
+### Rohitha's cousin of MP Rohitha surrenders to two illegal vehicles
+
+*2024-11-18 15:51:55* · [`adalk`](https://www.ada.lk/breaking_news/නීතිවිරෝධී-වාහන-දෙකකට-අවශ්‍යව-සිටි-මන්ත්‍රී-රෝහිතගේ-ඥාති-පුතා-පොලීසියට-භාරවෙයි/11-413121) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cousin of MP Rohitha Abeygunawardena surrenders two illegal vehicles: a BMW and a Mitsubishi Jeep. Owner arrested by Kandy Criminal Investigation Unit. Case to be presented in court today under Chief Inspector Thilak Samaranayake.
+
+🟩
+
+The cousin of Rohitha Abeygunawardena's brother, Rohitha Abeygunawardena, has been handed over to the police (brother Rohitha Abeygunawardena's daughter).
+
+The Luxury Criminal Investigation Unit of the suspect, the owner of the suspect in Mahaiyawa, Kandy was arrested by the Kandy Criminal Investigation Unit on the 20th of the 20th of the 20th of the 20th of the 20th of the government.After submitting to the MP, the two vehicles were reported to the police two illegal vehicles.
+
+That luxury is BMW. The Analyst recorded had been reported to be an illegal vehicle and exploited the Chassis of the Mitsubishi jeep.
+
+The suspect had been informed to visit the police, but the police had also taken steps to obtain the country out of the court due to the police.
+
+The suspect is to be produced before courts today (18) and a police team, Chief Inspector Thilak Samaranayake, the Chief Inspector Thilak Samaranayake of the Divisional Superintendent of Police Anuruddha Bandaranaike.
+
+◼️
+
+[Data](articles/bdf7d0a6.json)
+
+[Extended Data](ext_articles/bdf7d0a6.ext.json)
 
 ---
 
@@ -122,17 +444,27 @@ Subsequently, the suspect has been handed over to the Boraleskamuwa police stati
 
 ---
 
-### ජනපති යටතට ගත් අමාත්‍යාංශ
+### Ministries under the President
 
 *2024-11-18 15:40:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යටතට-ගත්-අමාත්‍යාංශ/11-413120) · `si`
 
-ජාතික ජන බලවේගය රජයේ නව අමාත්‍ය මණ්ඩලය අද (18දා) පෙරවරුවේදී ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ දිවුරුම් දුන්නේය. අග්‍රාමාත්‍යවරිය හැරුණු කොට නව අමාත්‍ය මණ්ඩලය 21කට සීමා විය.
+Here's a summary in 200 characters:
 
-ජනාධිපති අනුර කුමාර දිසානායක මහතා ආරක්ෂක , මුදල් සැලසුම් සහ ආර්ථික සංවර්ධන, ඩිජිටල් ආර්ථික අමාත්‍යාංශ තමා යටතේ තබාගෙන ඇත.
+
+
+New Ceylon Cabinet sworn in. 21 ministers excluding PM. Key portfolios: Security, Cash Design, Economic Development, Digital Economic Development.
+
+🟩
+
+The new Ceylon Cabinet of the National Ceylon Forgitation was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat this morning (18). The new Cabinet of Ministers except the Prime Minister were limited to 21.
+
+President Anura Kumara Dissanayake has kept security, cash design and economic development, Digital Economic Development.
 
 ◼️
 
 [Data](articles/d471378a.json)
+
+[Extended Data](ext_articles/d471378a.ext.json)
 
 ---
 
@@ -1004,6 +1336,26 @@ The President thanked all the supporters who voted for the new government to com
 
 ---
 
+### මාස 2ක් තුළ වෙනස් වූ උතුර සහ නැගෙනහිර පළාත්  ඡන්ද ප්‍රතිඵලය ලබා දෙන පණිවිඩය කුමක් ද?
+
+*2024-11-18 11:45:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c36p3jkw0z8o) · `si`
+
+මාස 2ක් තුළ වෙනස් වූ උතුර සහ නැගෙනහිර පළාත්  ඡන්ද ප්‍රතිඵලය ලබා දෙන පණිවිඩය කුමක් ද?
+
+මැතිවරණ ඉතිහාසය වෙනස් කරමින් මෙවර මහ මැතිවරණයේ දී උතුර සහ නැගෙනහිර පළාතේ දේශපාලන බලය මින් පෙර ලබා නොදුන් පාර්ශ්වයකට ලබා දීමට  එහි වෙසෙන ජනතාව කටයුතු කර තිබේ.
+
+මෙරට ප්‍රජාතන්ත්‍රවාදී දේශපාලනය ආරම්භයේ සිට ම උතුර සහ නැගෙනහිර පළාත්වල බලය ජනවාර්ගිකත්වය පදනම් කරගත් දේශපාලන පක්ෂ කිහිපයක් වටා ඒකරාශී වී තිබිණි.
+
+එහෙත්, මෙවර පාර්ලිමේන්තු මැතිවරණයේදී  මීට පෙර බලය කේන්ද්‍රගතව තිබූ දේශපාලන පක්ෂ මත පැවති බලය යම් දුරකට අහිමිව ඇති බව මැතිවරණ ප්‍රතිඵල නිරීක්ෂණයේදී පෙනී යන කරුණකි.
+
+එහි කේන්ද්‍රගත දෙමළ සහ මුස්ලිම් දේශපාලන පක්ෂ සතුව පැවති සාම්ප්‍රදායික දේශපාලන බලය ජාතික ජන බලවේගයෙන් තරග කළ නව අපේක්ෂකයින් පිරිසක් වෙත ලබාදීමට උතුර සහ නැගෙනහිර පළාත් බහුතර ජනතාව කටයුතු කර තිබේ.
+
+...
+
+[Data](articles/fc3d1736.json)
+
+---
+
 ### Sickness in the military camp
 
 *2024-11-18 11:38:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-முகாமில்-சுகயீனம்/175-347370) · `ta`
@@ -1740,7 +2092,7 @@ The main objective of the meeting said the meeting was to discuss the local gove
 
 *2024-11-18 09:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-55-75-to-dollar-bonds-steeply-down-188326/) · `en`
 
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291/55/75 to the US dollar Monday from 292.15/18 to the US dollar on Thursday, dealers said, while bond trading was steeply down.
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291.55/75 to the US dollar Monday from 292.15/18 to the US dollar on Thursday, dealers said, while bond trading was steeply down.
 
 A bond maturing on 15.12.2027 was quoted at 10.65/75 percent.
 
@@ -2117,317 +2469,5 @@ No candidate outside the seat did not propagate. The defeat of both Varai and Wi
 [Data](articles/a08470b1.json)
 
 [Extended Data](ext_articles/a08470b1.ext.json)
-
----
-
-### Is the Easter paid to the attack properly ?: Supreme Court asks for detailed report
-
-*2024-11-18 07:40:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7m8x8vld1o) · `si`
-
-Supreme Court orders AG to submit detailed report on Easter attack compensation.
-
-🟩
-
-Is the Easter paid to the attack properly ?: Supreme Court asks for detailed report
-
-The Supreme Court today (Nov.. 18) Ordered the Attorney General.
-
-Additional Solicitor General Siriwardena appearing on behalf of the Attorney General and the fundamental rights filed by the Petitions filed by the Pittasam has taken measures to prevent the Easter attack on the Easter.
-
-Mustra Fernando, S. Thura Raja and AHMD. The petition was called before the Supreme Court Judge Mrs. Nawas.
-
-Additional Solicitor General said that the office had been paid to Rs.
-
-The Justice of Justice Fernando has asked if a report has been produced before the Court of Justice.
-
-Additional Solicitor General said that a report on the full compensation of the fund has been produced in court.
-
-The cases are called today asking for Judge Princess Fernando, who pointed out how the Pandakith Fernando had paid the pandalistic.
-
-...
-
-[Data](articles/9a37566e.json)
-
-[Extended Data](ext_articles/9a37566e.ext.json)
-
----
-
-### Sri Lanka SEC planning market development with strong oversight
-
-*2024-11-18 07:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-sec-planning-market-development-with-strong-oversight-188322/) · `en`
-
-ECONOMYNEXT – Sri Lanka new Securities and Exchange Commission is developing short and long-term plans to develop capital markets and strengthen oversight, Chairman Hareenda Dissabandara has said.
-
-“The potential of our capital market to contribute significantly to Sri Lanka’s economic development remains at the forefront of my agenda,” he said in a message.
-
-“With both challenges and opportunities ahead, my primary goal is to build a well-regulated, transparent, and dynamic capital market that serves as a reliable foundation for investors and issuers alike.”
-
-“Ensuring that Sri Lanka’s capital market operate in a secure, fair, and efficient manner is our foremost responsibility.
-
-“However, we must also encourage innovation and growth, creating an environment that supports sustainable economic development.”
-
-To achieve the SEC’s objectives three pronged set of plans are being finalized as follows.
-
-...
-
-[Data](articles/319a4aa5.json)
-
-[Extended Data](ext_articles/319a4aa5.ext.json)
-
----
-
-### A military base will be quaranteed due to a fever
-
-*2024-11-18 07:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203482) · `si`
-
-Military base quarantined due to fever outbreak. Nearly 25 soldiers affected, hospitalized. Health authorities isolate 500 more soldiers. Fever reported since 11th.
-
-🟩
-
-The Army said that the camps were taken to quarantine in the camp, due to a fever, in general area Vedithalthivu, Mannar.
-
-Nearly 25 people in the camp, nearly 25 soldiers, the fever has caused the fever.
-
-A group of flu victims have been taken to hospital and one soldier has been treated for the IDH Hospital.
-
-The health sector in Mannar has stated that steps have been taken to quarantine nearly 500 other soldiers in the camp.
-
-It has been revealed that the fever has spread from the 11th.
-
-◼️
-
-[Data](articles/48ba8fae.json)
-
-[Extended Data](ext_articles/48ba8fae.ext.json)
-
----
-
-### Technical bugs of several SriLankan Aircraft
-
-*2024-11-18 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203481) · `si`
-
-SriLankan Airlines faces technical issues causing flight cancellations and delays. Multiple aircraft experienced problems upon arrival at Katunayake airport. The airline conducts post-flight evaluations. Passengers were informed about the situation.
-
-🟩
-
-A large number of flights have been canceled due to technical errors in several Srilankan aircraft arrived at the Katunayake airport.
-
-A number of flights have been canceled and another flights have been delayed due to technical faults and another flights have been delayed.
-
-The technical evaluation is tested after each aircraft is finished.The spokesman added.
-
-Due to this, the flight held to Chennai to Chennai at 6.35 pm yesterday and arrived at Chennai to Chennai to Chennai and to arrive at Chennai to 10.15 am again from Chennai to Chennai to 4 pmIt is said.
-
-The flight to the Katunayake airline UL - 196 to the Katunayake, Australia's flight to the Katunayake airport, which is due to arrive at the Katunayake airport in India to 10.10 pm.
-
-The SriLankan Airlines has also taken steps to educate the SriLankan Airlines and traveling passengers on this aircraft.
-
-◼️
-
-[Data](articles/1dd4fa34.json)
-
-[Extended Data](ext_articles/1dd4fa34.ext.json)
-
----
-
-### Two drowns two people
-
-*2024-11-18 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203480) · `si`
-
-Two drownings reported: one in Dedigama, another in Kirinda. Search ongoing for missing individuals. Incident occurred during a picnic in Yodakandiya tank.
-
-🟩
-
-Two people drowned in Dedigama and Kirinda Police Divisions.
-
-The incident was reported yesterday (17), police spokesman's office said.
-
-A person drowned in the Dedigama police division, Gurugoda Oya.
-
-The victims have disappeared 27 year old residents of Dedigama.
-
-Residents continue to find the missing person.
-
-Meanwhile, a person drowned in the Yodakandiya tank, drowned.
-
-The victim is a 42 year old resident of Elpitiya, Pangogama, Panagama.
-
-The investigation was detected in the investigation that a picnic was drowning.
-
-Officers and residents of the Tangalle Divisional Police Ordinance and Residential Residents continue to find the missing person.
-
-◼️
-
-[Data](articles/57f2213e.json)
-
-[Extended Data](ext_articles/57f2213e.ext.json)
-
----
-
-### New Cabinet of Ministers
-
-*2024-11-18 06:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203479) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-New Cabinet sworn in today at 10 AM. Dr. Harini Amarasuriya becomes Prime Minister. UNP maintains PM position. Deputy ministers also sworn in. Mahinda Jayasinghe focuses on identifying public needs.
-
-🟩
-
-The new government minister is to be sworn in before the Presidential Secretariat at 10.00 am today.
-
-The swearing in of the cabinet ministers as well as deputy ministers.
-
-The UNP has also decided not to change the post of Prime Minister and the National Folk Council.
-
-Accordingly, Dr. Harini Amarasuriya will be the Prime Minister of the new government.
-
-Meanwhile, MP Mahinda Jayasinghe said that he was working to help the people to identify the needs of the people and move forward with the people.
-
-◼️
-
-[Data](articles/20c03e3d.json)
-
-[Extended Data](ext_articles/20c03e3d.ext.json)
-
----
-
-### Heavy rains today
-
-*2024-11-18 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203477) · `si`
-
-Heavy rains forecasted for Northern, Eastern, Western, Sabaragamuwa, Central, Southern, Uva, and North Central provinces. Thunderstorms expected with potential for over 75mm rainfall in some areas. Public advised to take precautions against lightning and strong winds.
-
-🟩
-
-Showers will occur at times in the Northern and Eastern Provinces today (18) and mm. The Met Department forecasts around 50 Heavy rains.
-
-Thundershowers showers or nights in the Western, Sabaragamuwa, Central, Southern, Southern, Uva, Uva, Uva, Uva, Uva, Uva and North Central provinces.
-
-Mm in the Western and Sabaragamuwa Province and in the Galle and Matara districts. Heavy rains experience more than 75.
-
-Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-The Department of Meteorology urges the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/a94b6cfe.json)
-
-[Extended Data](ext_articles/a94b6cfe.ext.json)
-
----
-
-### Here is the cabinet of the new government today
-
-*2024-11-18 05:28:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0j86g88ln8o) · `si`
-
-Here's a summary of the three topics in approximately 200 characters:
-
-
-
-New government cabinet announced today. WhatsApp warning about cyber fraud prevention. General Election 2024 updates: National List MP appointments revealed.
-
-🟩
-
-WhatsApp Crigs: How you get to cyber frauds and don't be the victim
-
-The General Election 2024: Who has been appointed to the National List MPs so far?
-
-◼️
-
-[Data](articles/d6923d7a.json)
-
-[Extended Data](ext_articles/d6923d7a.ext.json)
-
----
-
-### Sustainability Awards 2024 recognises eco-friendly tourism practices
-
-*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/sustainability-awards-2024-recognises-eco-friendly-tourism-practices/) · `en`
-
-The 2024 Sustainability Awards, organised by the Delegation of German Industry and Commerce in Sri Lanka (AHK Sri Lanka) and funded by the Friedrich Naumann Foundation for Freedom (FNF Sri Lanka), took place on 12 November 2024 at the Hilton Colombo Residences. This year’s event brought together industry leaders, policymakers, and sustainability advocates to recognise and celebrate exceptional achievements in sustainable business practices within Sri Lanka’s tourism sector.
-
-With a focus on sustainable supply chains, the awards honoured companies committed to eco-friendly and socially responsible practices. The ceremony provided a platform for showcasing innovations in sustainability, empowering businesses to adopt practices that positively impact both people and the environment.
-
-...
-
-[Data](articles/14b57f4f.json)
-
-[Extended Data](ext_articles/14b57f4f.ext.json)
-
----
-
-### HNB Assurance hosts its annual staff conference
-
-*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/hnb-assurance-hosts-its-annual-staff-conference/) · `en`
-
-HNB Assurance recently hosted its annual staff conference, bringing together team members from all over the island for a day of celebration, recognition and fellowship. It was a night to honor the amazing people who are at the heart of HNB Assurances’ incredible growth, with awards for long service, excellence and standout achievements.
-
-Among the highlights of the evening were the Long Service Awards, recognizing employees who have been part of the HNB Assurance family for over 15 years. The Chairman’s Award, the night’s top honor, went to those who have truly gone above and beyond in their roles. The In.she Woman Empowerment Award celebrated women making an impact and the CEO’s Special Recognition award acknowledged employees achieving outstanding milestones outside their day-to-day work, especially in the field of sports.
-
-...
-
-[Data](articles/3faaa046.json)
-
-[Extended Data](ext_articles/3faaa046.ext.json)
-
----
-
-### David Pieris Automobiles delivers first set of BAIC X55 SUVs in Sri Lanka
-
-*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/david-pieris-automobiles-delivers-first-set-of-baic-x55-suvs-in-sri-lanka/) · `en`
-
-David Pieris Automobiles (Private) Limited (DPA), a subsidiary of the David Pieris Group (DPG), Sri Lanka’s largest automotive group, delivered the first set of BAIC X55 SUVs to its customers at the BAIC Showroom in Battaramulla recently.
-
-Earlier this year, DPA announced its strategic partnership with Beijing Automotive Industry Holding Co., Ltd. (BAIC), a Fortune 500 Company and accepted pre-bookings for the BAIC X55 promising a new era of innovative, quality products and unparalleled customer service for Sri Lankan motorists. True to its promise despite many challenges, the Company imported and has now commenced delivery of this futuristic model with local value addition which was conducted under the Standard Operating Procedure for the Automobile Manufacturing and Assembling Industry and Automobile Component Manufacturing Industry in Sri Lanka as introduced by the Ministry of Industries.
-
-...
-
-[Data](articles/d18c2a1d.json)
-
-[Extended Data](ext_articles/d18c2a1d.ext.json)
-
----
-
-### Chevron Lanka collaborates with Uber SL
-
-*2024-11-18 04:16:00* · [`islandlk`](http://island.lk/chevron-lanka-collaborates-with-uber-sl/) · `en`
-
-Chevron Lubricants Lanka PLC (Chevron Lanka), the company that markets and distributes Caltex-branded lubricants, is pleased to announce its collaboration with Uber in Sri Lanka. Drivers using Uber for providing Rides and doing deliveries will now have access to Chevron Lanka’s wide range of premium lubricants, known for enhancing engine performance, extending vehicle life, and optimizing fuel efficiency at special prices. This will help them save on essential vehicle maintenance and benefit them with superior protection and performance on the road.
-
-...
-
-[Data](articles/e57ee18b.json)
-
-[Extended Data](ext_articles/e57ee18b.ext.json)
-
----
-
-### SJB expresses readiness to fulfil Opposition role
-
-*2024-11-18 04:15:42* · [`dailyftlk`](https://www.ft.lk/news/SJB-expresses-readiness-to-fulfil-Opposition-role/56-769368) · `en`
-
-SJB’s Ranjith Madduma Bandara says party will monitor Govt.’s actions to ensure promises to people are fulfilled
-
-Calls on Govt. to enact anti-corruption laws and implement them immediately
-
-Claims SJB will safeguard democracy and rights while holding NPP Govt. accountable
-
-Imtiaz Bakir Marker says public ignored SJB policies and voted NPP to challenge existing political culture
-
-Notes party, despite recent setbacks, is analysing all shortcomings in order to improve going forward
-
-Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has emphasised that the SJB is prepared to fulfil its responsibilities as a strong Opposition in a country facing significant economic challenges.
-
-Addressing a press conference in Colombo yesterday, Madduma Bandara noted that while the SJB has now emerged as the main party of the Opposition, it comes with the opportunity and responsibility to carry out a significant task for the country.
-
-...
-
-[Data](articles/9d173069.json)
-
-[Extended Data](ext_articles/9d173069.ext.json)
 
 ---

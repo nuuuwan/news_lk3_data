@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 06:47:12**
+As of **2024-11-19 06:13:29**
 
 ## Newspaper Stats
 
-*Scraped **55,679** Articles*
+*Scraped **55,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 569
 bbccomsinhala | 570
-islandlk | 3,338
+islandlk | 3,337
 economynextcom | 3,372
 dailyftlk | 3,811
 dailymirrorlk | 4,733
 adalk | 5,223
 adaderanalk | 6,720
-tamilmirrorlk | 7,883
+tamilmirrorlk | 7,882
 virakesarilk | 9,043
 adaderanasinhalalk | 9,622
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,666 (100.0%) of 55,679 articles have been extended.
+55,666 (100.0%) of 55,677 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -201,20 +201,6 @@ As Sri Lanka begins a new era under your leadership and the new Government, we a
 [Data](articles/9b69342b.json)
 
 [Extended Data](ext_articles/9b69342b.ext.json)
-
----
-
-### விஜித ஹேரத்திற்கு ஜெய்சங்கர் வாழ்த்து
-
-*2024-11-19 00:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்திற்கு-ஜெய்சங்கர்-வாழ்த்து/175-347407) · `ta`
-
-இலங்கையின் வெளிவிவகார அமைச்சராகப் பதவியேற்றுள்ள விஜித ஹேரத்திற்கு இந்திய வெளியுறவுத்துறை அமைச்சர் எஸ். ஜெய்சங்கர் வாழ்த்து தெரிவித்துள்ளார்.
-
-அத்துடன், இந்தியாவுக்கும் இலங்கைக்கும் இடையிலான பங்காளித்துவத்தை மேலும் வலுப்படுத்த இணைந்து செயற்படத் தயாராக உள்ளதாகவும் இந்திய வெளியுறவுத்துறை அமைச்சர்  தெரிவித்துள்ளார். (a)
-
-◼️
-
-[Data](articles/415f8e1e.json)
 
 ---
 
@@ -2319,5 +2305,27 @@ After the accident, Sikugu was admitted to the Blind College, Ratmalana.
 [Data](articles/99dc3e5c.json)
 
 [Extended Data](ext_articles/99dc3e5c.ext.json)
+
+---
+
+### Rs. 311M received as compensation for Easter attack victims; SC calls for report on distribution
+
+*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-for-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
+
+The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
+
+The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
+
+Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
+
+The petitions were subsequently ordered to be recalled on February 27, 2025.
+
+The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
+
+◼️
+
+[Data](articles/b3b897df.json)
+
+[Extended Data](ext_articles/b3b897df.ext.json)
 
 ---

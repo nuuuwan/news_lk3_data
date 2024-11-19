@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 16:00:50**
+As of **2024-11-19 16:15:55**
 
 ## Newspaper Stats
 
-*Scraped **55,751** Articles*
+*Scraped **55,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,236
+adalk | 5,237
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
 virakesarilk | 9,053
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,643
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,746 (100.0%) of 55,751 articles have been extended.
+55,746 (100.0%) of 55,752 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -57,6 +57,28 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/682a5e5b.json)
+
+---
+
+### දහතුන් හැවිරිදි පුතුට කඩුවකින් කොටා තුවාල සිදුකල පියකු සොයා විමර්ශන
+
+*2024-11-19 15:46:39* · [`adalk`](https://www.ada.lk/breaking_news/දහතුන්-හැවිරිදි-පුතුට-කඩුවකින්-කොටා-තුවාල-සිදුකල-පියකු-සොයා-විමර්ශන/11-413145) · `si`
+
+වයස අවුරුදු 13ක තම පුතුට කඩුවකින් කොටා තුවාල සිදු කර, ප්‍රදේශය මගහැර ගොස් සැඟව සිටින පියෙකු අත්අඩංගුවට ගැනීම සඳහා විමර්ශනයක් ආරම්භ කල බව කැකිරාව පොලිසිය පවසයි.
+
+මෙලෙස තුවාල ලබා ඇත්තේ, කැකිරාව  ප්‍රදේශයේ  එම්.ජී.එස්. තෙපුල් විජේරත්න නැමති දහතුන් හැවිරිදි පාසල් සිසුවෙකි.
+
+සැකකාර පියා කොළඹ ප්‍රදේශයේ රැකියාවක නිරත පුද්ගලයෙකු බවත් එම සැකකරු ඡන්දය ප්‍රකාශ කිරීම සඳහා කැකිරාව  ප්‍රදේශයේ පිහිටි නිවසට පැමිණ සිටියදී මෙම කඩු පහර එල්ල කර ඇති බව පොලිසිය කියයි.
+
+සැකකරු බිරිඳ සමග ඇති ඇති කරගත් ආරවුලක් දුර දිග යාම හේතුවෙන් මෙම කඩු පහර බිරිඳට එල්ල කරන අවස්ථාවේදී දරුවා ඊට විරෝධය පල කල  අවස්ථාවේදී පහර කෑමට ලක්ව ඇති බව පොලිසිය  සඳහන් කළේය.
+
+කඩු පහර වැදීමෙන් එම දරුවාගේ අතකට බරපතල තුවාල සිදුව ඇති අතර මෙම ප්‍රහාරයේ එල්ල කිරීමෙන් අනතුරුව සැකකාර පියා  ප්‍රදේශය මගහැර  පලා ගොස් ඇති බවද පොලිසිය වැඩිදුරටත් සඳහන් කළේය
+
+කැකිරාව පොලිසියේ නිලධාරීහු කණ්ඩායමක් සැකකරු අත්අඩංගුවට ගැනීම සඳහා වැඩදුර විමර්ශන සිදු කරති.
+
+◼️
+
+[Data](articles/43f92726.json)
 
 ---
 
@@ -2393,25 +2415,5 @@ The four suspects remanded in connection with the incident and remanded until No
 [Data](articles/7f5c72b2.json)
 
 [Extended Data](ext_articles/7f5c72b2.ext.json)
-
----
-
-### Sri Lanka leader appoints fresh faces into new cabinet sans Muslims, Northeast Tamils
-
-*2024-11-18 21:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-leader-appoints-fresh-faces-into-new-cabinet-sans-muslims-northeast-tamils-188587/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake appointed a 21-member new cabinet on Monday, four days after the election in which his National People’s Power (NPP) recorded a landslide victory, but his cabinet lacked representations from ethnic minority Muslims and Tamils from the island nation’s former war zone of North and East.
-
-Dissanayake’s Maxists Janatha Vimukthi Peramuna (JVP)-led ruling NPP won 159 seats in a 225-member parliament in a surprise win, much higher than NPP leaders’ estimation of 120 seats.
-
-The more-than two-third majority will enable the Dissanayake’s new government to change the constitution focusing on the key promises they have given: eliminating corruption, implementing rule of law without any discrimination, and reducing cost of living.
-
-“Historically, Sri Lanka’s political landscape has often been defined by a divide; North against South, and vice versa, which was fueled by mistrust and division,” Dissanayake said after the new cabinet  was sworn in.
-
-...
-
-[Data](articles/714c0f63.json)
-
-[Extended Data](ext_articles/714c0f63.ext.json)
 
 ---

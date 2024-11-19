@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 04:13:40**
+As of **2024-11-20 03:59:54**
 
 ## Newspaper Stats
 
-*Scraped **55,817** Articles*
+*Scraped **55,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 571
 bbccomsinhala | 575
 islandlk | 3,338
 economynextcom | 3,385
-dailyftlk | 3,813
+dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
@@ -26,39 +26,11 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,816 (100.0%) of 55,817 articles have been extended.
+55,816 (100.0%) of 55,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
-
-### 16 Ministries, PM get new Secretaries
-
-*2024-11-20 04:04:58* · [`dailyftlk`](https://www.ft.lk/news/16-Ministries-PM-get-new-Secretaries/56-769426) · `en`
-
-The appointment of the new Secretary to the Prime Minister, the Cabinet Secretary, and Secretaries for 16 Ministries was held at the Presidential Secretariat yesterday.
-
-The ceremony was officiated by Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-Senior Prof. Kapila C.K. Perera – Secretary to the Ministry of Transport, Highways, Ports and Civil Aviation
-
-K.M.M. Siriwardana – Secretary to the Ministry of Finance, Planning and Economic Development
-
-J.M. Thilaka Jayasundara – Secretary to the Ministry of Industry and Entrepreneurship Development
-
-A.M.P.M.B. Atapattu – Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs
-
-B.K. Prabath Chandrakeerthi – Secretary to the Ministry of Plantation and Community Infrastructure
-
-D.W.R.B. Seneviratne – Secretary to the Ministry of Public Security and Parliamentary Affairs
-
-U.G. Ranjith Ariyaratne – Secretary to the Minister of Urban Development, Construction and Housing
-
-...
-
-[Data](articles/549d4ee6.json)
-
----
 
 ### The music monster ji. V.. Prakash Kumar released 'Nam' film Burst Look
 
@@ -2551,5 +2523,31 @@ Wasantha Samarasinghe, Sunil Kumara, Dhammikathilaka, Lal Kannathilaka, Kumara J
 [Data](articles/e069f6a1.json)
 
 [Extended Data](ext_articles/e069f6a1.ext.json)
+
+---
+
+### No longer diplomatic ministers
+
+*2024-11-19 11:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இராஜாங்க-அமைச்சர்கள்-இல்லை/175-347428) · `ta`
+
+New Sri Lankan government scraps diplomatic ministers, plans 26-28 deputy ministers appointments within two days. Health and Media Minister Dr. Nalinda Jayatissa confirms policy shift from pre-election manifesto. Cabinet positions and ministry secretaries' roles still undecided. External Affairs Minister Vijitha Herath resumes duties.
+
+🟩
+
+A minister said yesterday that the new government has decided to abolish the idea of ​​diplomatic ministers, but instead of 26-28 deputy ministers will be appointed in two days.
+
+Dr. Nalinda Jayatissa, the newly sworn in the newly sworn -in Health and Media Minister, said the appointment of deputy ministers will be held soon. He said that diplomatic ministers would not be appointed as the policy manifesto presented to the country before the election.
+
+When asked if deputy ministers will be appointed or appointed to some cabinet posts,
+
+He said that the secretaries of the Ministry will be replaced, re -appointed or newly appointed, but the final decision has not yet been taken.
+
+External Affairs Minister Vijitha Herath, who was re -appointed as External Affairs Minister, took over his duties yesterday. Dr. Jayatissa said that he will also start work in his office today.
+
+◼️
+
+[Data](articles/23afb6af.json)
+
+[Extended Data](ext_articles/23afb6af.ext.json)
 
 ---

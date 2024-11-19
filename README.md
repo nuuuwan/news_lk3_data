@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 10:00:51**
+As of **2024-11-19 11:00:10**
 
 ## Newspaper Stats
 
-*Scraped **55,695** Articles*
+*Scraped **55,700** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 569
 bbccomsinhala | 571
 islandlk | 3,338
 economynextcom | 3,372
-dailyftlk | 3,811
+dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,226
+adalk | 5,228
 adaderanalk | 6,720
-tamilmirrorlk | 7,888
+tamilmirrorlk | 7,890
 virakesarilk | 9,043
 adaderanasinhalalk | 9,629
 
@@ -26,11 +26,81 @@ adaderanasinhalalk | 9,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,695 (100.0%) of 55,695 articles have been extended.
+55,699 (100.0%) of 55,700 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### புதிய அமைச்சரவை இன்று கூடுகிறது
+
+*2024-11-19 10:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-கூடுகிறது/175-347424) · `ta`
+
+புதிதாக நியமிக்கப்பட்டுள்ள அமைச்சர்களின் முதலாவது அமைச்சரவைக் கூட்டம் இன்று ஜனாதிபதி செயலகத்தில் நடைபெறவுள்ளது.
+
+புதிய அரசாங்கத்தின் புதிய அமைச்சர்கள் நேற்று (18) பதவியேற்ற பின்னர் முதல்முறையாக அமைச்சரவை கூடவுள்ளது.
+
+தேசிய மக்கள் சக்தி அரசாங்கத்தின் புதிய அமைச்சரவை பதவிப் பிரமாணம் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் நேற்று காலை இடம்பெற்றது.
+
+புதிய அமைச்சரவையில் ஏழு பல்கலைக்கழக பேராசிரியர்கள், இரண்டு மருத்துவர்கள், ஒரு சட்டத்தரணி, ஒரு பொறியாளர் மற்றும் ஏழு பட்டதாரிகள் உள்ளனர்.
+
+◼️
+
+[Data](articles/2d810421.json)
+
+---
+
+### Bangladesh citizens arrested 88
+
+*2024-11-19 10:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷ்-பிரஜைகள்-08-பேர்-கைது/175-347421) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+8 Bangladeshis arrested in Coimbatore for overstaying visas. Police detained them at a tourist spot. Translator helped record statements. They'll appear in court tomorrow.
+
+🟩
+
+Eight Bangladeshi citizens who were staying in the country in violation of the visa period were arrested by a group of officials of the Katunayake Police Anti -Corruption Unit at a tourist destination in Adiyambalam, Coimbatore on Monday night.
+
+Between 20 and 30, they are illegally staying in the country in violation of Sri Lanka's immigration conditions.
+
+The police had to seek the help of the translator to record their affidavits for further investigations.
+
+Based on the information received by the Katunayake police, the tourist hotel has been arrested on Monday night (18) at Adiyambalam.
+
+The arrested Bangladeshi citizens will be produced before the Magistrate's Court on Tuesday (19).
+
+◼️
+
+[Data](articles/84828edb.json)
+
+[Extended Data](ext_articles/84828edb.ext.json)
+
+---
+
+### The new cabinet meeting today
+
+*2024-11-19 10:25:02* · [`adalk`](https://www.ada.lk/breaking_news/නව-කැබිනෙට්ටුව-අද-රැස්වෙයි/11-413137) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New cabinet meeting today under President Anura Kumara Dissanayake's patronage. Government will discuss initial assets this morning.
+
+🟩
+
+New government first assets this morning. The meeting will be held under the patronage of President Anura Kumara Dissanayake.
+
+◼️
+
+[Data](articles/c7842304.json)
+
+[Extended Data](ext_articles/c7842304.ext.json)
+
+---
 
 ### Stadium under World Cup
 
@@ -63,6 +133,38 @@ The sports complex is designed to a domestic stadium in the stadium, mixing the 
 [Data](articles/8960843a.json)
 
 [Extended Data](ext_articles/8960843a.ext.json)
+
+---
+
+### IMF. President reesiates that he is working with
+
+*2024-11-19 08:14:45* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සහයෝගයෙන්-වැඩ-කරන-බව-ජනපති-යළිත්-සහතික-කරයි/11-413135) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+IMF President Reesiates collaboration with Sri Lanka's new government. Focuses on economic recovery, welfare spending, and anti-corruption efforts. Emphasizes building public trust and addressing child poverty, malnutrition, and special needs.
+
+🟩
+
+President requested the International Monetary Fund to establish a balanced approach in the Economic Recovery Program
+
+Attention on Welfare Expenses: Help for children's poverty, malnutrition, and special needs
+
+The success of the IMF program depends on building public confidence in the existing control
+
+President Anura Kumara Dissanayake and the new government ministers were found at the Presidential Secretariat, the International Monetary Fund Representative of the International Monetary Fund to discuss the next step of the International Monetary Fund.
+
+President Anura Kumara Dissanayake once again confirmed that the International Monetary Fund (IMF) with the International Monetary Fund (IMF) with the mandate of the government.
+
+The International Monetary Fund Agent Greetings of the Presidential Fonseka greeting its greeting on the decisive electoral victory and the new government.
+
+...
+
+[Data](articles/66cb3719.json)
+
+[Extended Data](ext_articles/66cb3719.ext.json)
 
 ---
 
@@ -811,6 +913,22 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/ab315f29.json)
 
 [Extended Data](ext_articles/ab315f29.ext.json)
+
+---
+
+### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
+
+*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380) · `en`
+
+Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
+
+Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
+
+...
+
+[Data](articles/83d7e229.json)
+
+[Extended Data](ext_articles/83d7e229.ext.json)
 
 ---
 
@@ -2275,141 +2393,5 @@ Therefore, the steps he takes has not been clear to how the trump administration
 [Data](articles/2dcb260c.json)
 
 [Extended Data](ext_articles/2dcb260c.ext.json)
-
----
-
-### Ranil's opposition to Ravi's appointment
-
-*2024-11-18 15:54:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-நியமனத்துக்கு-ரணில்-எதிர்ப்பு/175-347385) · `ta`
-
-Ranil opposes Ravi's appointment to New Democratic Front's National List. Ranil claims Ravi acted without party consent. Parties to convene tomorrow regarding national list MPs. Ranil states Ravi cannot function without joint resolution. NEAI reps won't recognize arbitrary decisions on national list posts.
-
-🟩
-
-Ravi Karunanayake's name has been sent to the Election Commission for the National List of the New Democratic Front.
-
-In this case, the new Democratic Front leader Ranil Wickremesinghe has told the party's representatives that the appointment has been made spontaneously without any consent of the new Democratic Front parties.
-
-Ranil Wickremesinghe has said that all parties of the Front will convene in Colombo tomorrow morning (19) regarding the two national list MPs belonging to the New Democratic Front.
-
-Ranil Wickremesinghe added that Ravi Karunanayake is a member of the United National Party and has no ability to function without a joint resolution.
-
-The former president added that the representatives of all parties of the new Democratic Front (NEAI) will not recognize such arbitrary activities as it is to take an official decision on two national list MP posts.
-
-◼️
-
-[Data](articles/fcd35255.json)
-
-[Extended Data](ext_articles/fcd35255.ext.json)
-
----
-
-### Sri Lanka stocks close up as positive sentiment continues
-
-*2024-11-18 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-as-positive-sentiment-continues-188539/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday after the new cabinet of ministers was sworn in, data on its site showed.
-
-The broader ASPI closed up 0.24 percent, or 32.21 points, at 13,231; while the more liquid S&P SL20 Index closed up 0.17 percent, or 6.71 points, at 3,983.
-
-Turnover was 5.5 billion. Most of this came from interest in banking sector stocks (Rs1.8 billion) and capital goods (Rs1.1bn).
-
-Other sectors that saw high activity were food, beverage and tobacco (Rs652mn) and diversified financials (Rs469mn.)
-
-“There’s positive sentiment from the new government winning a two-thirds majority, the same trend continued,” market participants said.
-
-“There’s mainly interest in banking, and some momentum into hotels.”
-
-There were crossings in big companies, in big volumes, they said. “This is likely from high net worth individuals and institutions.”
-
-...
-
-[Data](articles/e2695790.json)
-
-[Extended Data](ext_articles/e2695790.ext.json)
-
----
-
-### Rohitha's cousin of MP Rohitha surrenders to two illegal vehicles
-
-*2024-11-18 15:51:55* · [`adalk`](https://www.ada.lk/breaking_news/නීතිවිරෝධී-වාහන-දෙකකට-අවශ්‍යව-සිටි-මන්ත්‍රී-රෝහිතගේ-ඥාති-පුතා-පොලීසියට-භාරවෙයි/11-413121) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Cousin of MP Rohitha Abeygunawardena surrenders two illegal vehicles: a BMW and a Mitsubishi Jeep. Owner arrested by Kandy Criminal Investigation Unit. Case to be presented in court today under Chief Inspector Thilak Samaranayake.
-
-🟩
-
-The cousin of Rohitha Abeygunawardena's brother, Rohitha Abeygunawardena, has been handed over to the police (brother Rohitha Abeygunawardena's daughter).
-
-The Luxury Criminal Investigation Unit of the suspect, the owner of the suspect in Mahaiyawa, Kandy was arrested by the Kandy Criminal Investigation Unit on the 20th of the 20th of the 20th of the 20th of the 20th of the government.After submitting to the MP, the two vehicles were reported to the police two illegal vehicles.
-
-That luxury is BMW. The Analyst recorded had been reported to be an illegal vehicle and exploited the Chassis of the Mitsubishi jeep.
-
-The suspect had been informed to visit the police, but the police had also taken steps to obtain the country out of the court due to the police.
-
-The suspect is to be produced before courts today (18) and a police team, Chief Inspector Thilak Samaranayake, the Chief Inspector Thilak Samaranayake of the Divisional Superintendent of Police Anuruddha Bandaranaike.
-
-◼️
-
-[Data](articles/bdf7d0a6.json)
-
-[Extended Data](ext_articles/bdf7d0a6.ext.json)
-
----
-
-### One arrested with heroin drug
-
-*2024-11-18 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199081) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-33-year-old man arrested with 12g heroin in Boraleskamuwa police division raid. Suspect from Kalkissa handed over for further investigation.
-
-🟩
-
-A suspect has been arrested on Sunday (17) with heroin in the area of ​​the Boraleskamuwa police division, police Special Task Force said.
-
-The suspect has been arrested during a raid carried out on information received by the Police Special Task Force.
-
-The arrested suspect is 33 years old from Kalkissa.
-
-12 g 550 ml of heroin has been seized from the suspect.
-
-Subsequently, the suspect has been handed over to the Boraleskamuwa police station for further investigations.
-
-◼️
-
-[Data](articles/6319983f.json)
-
-[Extended Data](ext_articles/6319983f.ext.json)
-
----
-
-### Ministries under the President
-
-*2024-11-18 15:40:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යටතට-ගත්-අමාත්‍යාංශ/11-413120) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-New Ceylon Cabinet sworn in. 21 ministers excluding PM. Key portfolios: Security, Cash Design, Economic Development, Digital Economic Development.
-
-🟩
-
-The new Ceylon Cabinet of the National Ceylon Forgitation was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat this morning (18). The new Cabinet of Ministers except the Prime Minister were limited to 21.
-
-President Anura Kumara Dissanayake has kept security, cash design and economic development, Digital Economic Development.
-
-◼️
-
-[Data](articles/d471378a.json)
-
-[Extended Data](ext_articles/d471378a.ext.json)
 
 ---

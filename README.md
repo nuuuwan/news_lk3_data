@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 15:42:02**
+As of **2024-11-19 16:00:50**
 
 ## Newspaper Stats
 
-*Scraped **55,746** Articles*
+*Scraped **55,751** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,234
+adalk | 5,236
 adaderanalk | 6,720
-tamilmirrorlk | 7,901
+tamilmirrorlk | 7,903
 virakesarilk | 9,053
-adaderanasinhalalk | 9,642
+adaderanasinhalalk | 9,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,746 (100.0%) of 55,746 articles have been extended.
+55,746 (100.0%) of 55,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### 10වන පාර්ලිමේන්තුවේ සභානායක සහ ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක පත් කෙරේ
+
+*2024-11-19 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203534) · `si`
+
+10වන පාර්ලිමේන්තුවේ සභානායක ලෙස අමාත්‍ය බිමල් රත්නායක මහතා පත්කර තිබේ.
+
+ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක ලෙස පත්කර ඇත්තේ අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාවය.
+
+බිමල් රත්නායක මහතා නව ආණ්ඩුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යවරයා ලෙස කටයුතු කරයි.
+
+◼️
+
+[Data](articles/d84350e9.json)
+
+---
+
+### சபை முதல்வராக பிமல் ரத்நாயக்க நியமனம்?
+
+*2024-11-19 15:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபை-முதல்வராக-பிமல்-ரத்நாயக்க-நியமனம்/175-347446) · `ta`
+
+ஆளுங் கட்சியின் பாராளுமன்ற சபை முதல்வராக அமைச்சர் பிமல் ரத்நாயக்கவை நியமிக்கத் தீர்மானிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/682a5e5b.json)
+
+---
+
+### மலையக ரயில் சேவை பாதிப்பு
+
+*2024-11-19 15:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-ரயில்-சேவை-பாதிப்பு/175-347445) · `ta`
+
+கண்டியில் இருந்து பதுளை நோக்கி பயணித்த கலப்பு ரயில் இன்று (19) பிற்பகல் தியத்தலாவ நிலையத்தில் தடம் புரண்டுள்ளதாக ரயில்வே திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+இதனால் மலையக ரயில் பாதையில் செல்லும் ரயில் சேவையில் இடையூறு ஏற்பட்டுள்ளதாக அதிகாரி தெரிவித்தார்.
+
+◼️
+
+[Data](articles/1986dd14.json)
+
+---
+
+### වෛද්‍ය නලින්ද ජයතිස්සට තවත් තනතුරක්
+
+*2024-11-19 15:36:59* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-නලින්ද-ජයතිස්සට-තවත්-තනතුරක්/11-413144) · `si`
+
+අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස පාර්ලිමේන්තුවේ ආණඩු පක්ෂ ප්‍රධාන සංවිධායක ලෙසද පත්කර ඇති බව වාර්ථාවෙයි.
+
+◼️
+
+[Data](articles/ad27a163.json)
+
+---
 
 ### Train derailment in Thiyathalawa
 
@@ -49,6 +103,18 @@ The railway department said that the train traveling from Kandy to Badulla has b
 [Data](articles/1ff26247.json)
 
 [Extended Data](ext_articles/1ff26247.ext.json)
+
+---
+
+### ජනමාධ්‍ය ඇමතිට පැවරුණු අලුත් වගකීම
+
+*2024-11-19 14:52:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-ඇමතිට-පැවරුණු-අලුත්-වගකීම/11-413143) · `si`
+
+නව කැබිනට් මාධ්‍ය ප්‍රකාශකවරයා ලෙස ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පත් කර තිබේ.
+
+◼️
+
+[Data](articles/b09c659f.json)
 
 ---
 
@@ -2347,129 +2413,5 @@ The more-than two-third majority will enable the Dissanayake’s new government 
 [Data](articles/714c0f63.json)
 
 [Extended Data](ext_articles/714c0f63.ext.json)
-
----
-
-### Ravi's name gazetted as a National List MP
-
-*2024-11-18 20:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203509) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Ravi Karunanayake named National List MP Gazette notification New Democratic Front
-
-🟩
-
-Ravi Karunanayake's name was gazetted for a national listing of the New Democratic Front.
-
-◼️
-
-[Data](articles/6552bf95.json)
-
-[Extended Data](ext_articles/6552bf95.ext.json)
-
----
-
-### Instructions to conduct Charming Festival of Parliament
-
-*2024-11-18 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203508) · `si`
-
-Here's a summary of the instructions for conducting the Charming Festival of Parliament in approximately 200 characters:
-
-
-
-Parliament's opening ceremony will feature a unique charm celebration. President Anura Kumara Dissanayake will preside over the first committee on November 21. The event will begin with Jayamangala admutation involving the armed forces. The President will be seated after a brief wait, and the proceedings will conclude with the division bell being rung.
-
-🟩
-
-According to the Secretary General of Parliament Kushani Rohana, said that the opening ceremony of the Ten Faculty has been instructed to conduct charm.
-
-President Anura Kumara Dissanayake is scheduled to commence the first Committee on November 21.
-
-Commenting on the occasion, she said this.
-
-"It is customary to embrace Jayamangala with admutation with the armed forces at the event of a ceremonial opening of Parliament.  නමුත් මෙහිදී ඉතා චාම්ව මේ උත්සවය සිදු කිරීමට අපිට උපදෙස් ලැබී තිබෙනවා. So that he is going to be taken directly to the room. After seating a few minutes, the separat bell of Parliament from ringing the divide bell, he is concluded from the adolescement. The President is due to sit in the chair.
-
-◼️
-
-[Data](articles/cabfa26f.json)
-
-[Extended Data](ext_articles/cabfa26f.ext.json)
-
----
-
-### Gazette issued declaring Ravi Karunanayake as NDF’s National List MP
-
-*2024-11-18 20:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103595/gazette-issued-declaring-ravi-karunanayake-as-ndfs-national-list-mp) · `en`
-
-The Election Commission of Sri Lanka has issued a Gazette notification declaring that former minister Ravi Karunanayake has been elected as a Member of Parliament through the National List of the New Democratic Front (NDF), which contested the General Election under the ‘Gas Cylinder’ symbol.
-
-Earlier today, it was reported that the New Democratic Front (NDF) has nominated Karunanayake for one of the two National List seats won by the party in Parliament.
-
-However, it was later reported that the leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe, has informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of Wickremesinghe and the other parties in the alliance.
-
-...
-
-[Data](articles/2f9a6edc.json)
-
-[Extended Data](ext_articles/2f9a6edc.ext.json)
-
----
-
-### Cylinder is a crisis
-
-*2024-11-18 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203507) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-UNP crisis: Wajira Abeywardena announces Ravi Karunanayake's appointment without party knowledge. UNP claims violation of election laws. Meeting with other parties tomorrow to address issue.
-
-🟩
-
-UNP President Wajira Abeywardena says the final decision on the General List Ravi Karunanayake to be taken to the Elections Commission for one of the two national lists of the UNP.
-
-He said that none of the party was aware of this decision taken by the party General Secretary.
-
-He added that the UNP was proposed to appoint Kanchanna Wijesekara from the UNP for the two seats.
-
-He was speaking at a press conference held today (18).
-
-"The UNP has arisen at our discussion today. Other political parties with our leader Ranil Wickremesinghe were discussing. While in this regard, he found that his name was informed of his name from the political party of Sylinderre.
-
-We have learned that it was sent to the gazette. As the party, we thought this to the representation of Thalatha Athukorala. It was discussed. It was before making a proper decision. As the UNP, it has been a violation of Section 3 3/3 of Part 3/3 of Section 3/3 and 13/3 and 13/3 and 13/3 and 13/3 and 13/3.
-
-...
-
-[Data](articles/bf76ef55.json)
-
-[Extended Data](ext_articles/bf76ef55.ext.json)
-
----
-
-### The first foreign trip of the president
-
-*2024-11-18 19:59:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-முதல்-வெளிநாட்டுப்-பயணம்/175-347391) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake to visit India in December. New Foreign Minister Vijitha Herath emphasizes strengthening the nation and ensuring stability for Sri Lankans.
-
-🟩
-
-New Foreign Minister Vijitha Herath told the media today that President Anura Kumara Dissanayake will travel to India in mid -December.
-
-External Affairs Minister Vijitha Herath further said that the new government intends to strengthen the nation and ensure that Sri Lankan citizens will ensure a stable and beautiful country for Sri Lankan citizens.. Remble
-
-◼️
-
-[Data](articles/ce91e4fc.json)
-
-[Extended Data](ext_articles/ce91e4fc.ext.json)
 
 ---

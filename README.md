@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 13:42:32**
+As of **2024-11-19 14:27:53**
 
 ## Newspaper Stats
 
-*Scraped **55,725** Articles*
+*Scraped **55,740** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,175 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,232
+adalk | 5,233
 adaderanalk | 6,720
-tamilmirrorlk | 7,897
-virakesarilk | 9,047
-adaderanasinhalalk | 9,634
+tamilmirrorlk | 7,899
+virakesarilk | 9,052
+adaderanasinhalalk | 9,641
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,725 (100.0%) of 55,725 articles have been extended.
+55,734 (100.0%) of 55,740 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### රුහුණු විශ්වවිද්‍යාලයේ අනධ්‍යයන කාර්ය මණ්ඩලය වැඩ වර්ජනයක
+
+*2024-11-19 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203532) · `si`
+
+රුහුණු විශ්වවිද්‍යාලයේ අනධ්‍යයන කාර්ය මණ්ඩලය වැඩ වර්ජනයක් ආරම්භ කර තිබේ.
+
+විශ්වවිද්‍යාල වෘත්තීය සමිති ඒකාබද්ධ කමිටුවේ සම සභාපති ධම්මික එස්. ප්‍රියන්ත මහතා පැවසුවේ අද (19) උදෑසන සිට ඔවුන් මෙම වැඩ වර්ජනයේ නිරතව සිටින බවය.
+
+රුහුණු විශ්වවිද්‍යාලයේ උපකුලපතිවරයා එම ධුරයෙන් ඉවත් කිරීමට පියවර ගන්නා ලෙස බල කරමින් අනධ්‍යයන කාර්යය මණ්ඩලය මෙම වර්ජනය ආරම්භ කර තිබේ.
+
+වර්ජනය සඳහා විශ්වවිද්‍යාල සිසුන්ගේ ද සහාය හිමිව ඇති බවද වාර්තා වේ.
+
+කෙසේවෙතත් අදාළ වැඩ වර්ජනය සම්බන්ධයෙන් අද පස්වරු 4.30ට අග්‍රාමාත්‍ය හරිනි අමරසූරිය සමග සාකච්ඡාවක් සිදුකිරීමට නියමිත බව ද  සම සභාපති ධම්මික එස්.ප්‍රියන්ත මහතා සදහන් කළේය.
+
+◼️
+
+[Data](articles/b1497e5b.json)
+
+---
+
+### කාසියේ වාසිය නවසීලන්තය ට
+
+*2024-11-19 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203531) · `si`
+
+ශ්‍රී ලංකාව සහ නවසීලන්තය අතර පැවැත්වෙන තුන්වැනි එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය අද (19) මහනුවර, පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් පිටියේදී පැවැත්වෙයි.
+
+එහිදී කාසියේ වාසිය දිනාගත් නවසීලන්ත කණ්ඩායම පළමුව පන්දුවට පහරදීමට තීරණය කළේය.
+
+නිශාන් මධුෂ්ක, අවිශ්ක ප්‍රනාන්දු, නුවනිඳු ප්‍රනාන්දු, සදීර සමරවික්‍රම, චරිත් අසලංක (නායක), ජනිත් ලියනගේ, චමිඳු වික්‍රමසිංහ, මහීෂ් තීක්ෂණ, ජෙෆ්රි වැන්ඩසේ, මොහොමඩ් ශිරාස්, ඩිල්ශාන් මදුශංක
+
+මිචෙල් සැන්ට්නර්, මයිකල් බ්‍රෙිස්වෙල්, මාර්ක් චැප්මන්, ජොෂ් ක්ලාක්සන්, ජෙකප් ඩුෆි, සැක් ෆෝක්ස්, ඩීන් ෆොක්ස්ක්‍රොෆ්ට්, මිචල් හේ, ඇඩම් මිල්න්,හෙන්රි නිකෝල්ස්, ග්ලෙන් ෆිලිප්ස්, ටිම් රොබින්සන්, නේතන් ස්මිත්, ඉෂ් සෝදි, විල් යං
+
+◼️
+
+[Data](articles/854ddc70.json)
+
+---
+
+### President should take up corrupt political whales - Bhakiyasothi Saravanamuttu
+
+*2024-11-19 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199147) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka's President faces challenges balancing India-China relations, addressing corruption, and resolving economic crises. He aims to work within IMF structures and provide subsidies, but tackling corruption remains a key promise unfulfilled.
+
+🟩
+
+President Anuragumaratisanayake has stressed the need to maintain balance in Indian Chinese relations with the Executive Director of the Replacement Policy Center.
+
+In an interview with Al Jazeera, he warned that when there was no evidence against those involved in the corruption, the government was in danger of landing in illegal proceedings against them.
+
+Is the parliamentary election revealed that the president will find a solution to the economic development crises of Sri Lanka?Does the President have answers to this?
+
+Answer- I cannot say for sure that he will have all the answers. But I hope he will definitely try
+
+IMPORTANT- Working within the structure of the International Monetary Fund is to restore us from the economic crisis.
+
+The President also talks about providing many subsidies.
+
+It is only for him to see if he can do it under the International Monetary Agreement. They are coming to Sri Lanka.
+
+...
+
+[Data](articles/1d7c4c43.json)
+
+[Extended Data](ext_articles/1d7c4c43.ext.json)
+
+---
+
+### The cause of fertilizer subsidy delay reveals
+
+*2024-11-19 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203530) · `si`
+
+Fertilizer subsidy delay causes: computer system fault, investigation underway, funds allocated but not received by farmers, government committed to immediate release, 20+ days past start date, first phase complete, water supply issues affecting distribution.
+
+🟩
+
+The Ministry of Agriculture says that it is delayed due to the faulty of the computer system.
+
+According to the Ministry of Agriculture, a group of officers have been sent to the Secretary to the Ministry of Agriculture today (19) to look into the matter.
+
+The Ministry of Agriculture stated that the fertilizer subsidy money has already been taken to release the farmers' bank accounts.
+
+However, the farmers have stated that the money has not received the money yet yesterdaywhere, the farmers said.
+
+Meanwhile, MP Rohida Kaviratne has issued a statement and refer to fertilizer subsidy money scheduled to be given to the farmers immediately.
+
+Ada Derana was inquired from the Ministry of Agriculture, and they stated that steps have been taken to release the money to farmers' accounts.
+
+The government provides a fertilizer subsidy of Rs. 25,000 each to obtain fertilizer required for paddy cultivation.
+
+...
+
+[Data](articles/cc481219.json)
+
+[Extended Data](ext_articles/cc481219.ext.json)
+
+---
+
+### Kanchana's name proposal
+
+*2024-11-19 13:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஞ்சனவின்-பெயர்-முன்மொழிவு/175-347436) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kanchana: Ravi Karunanayake proposed for National List seat in New Democratic Front. Kanjana Wijesekara suggested for remaining slot. Party leaders met; Dinesh Gunawardena absent.
+
+🟩
+
+Ravi Karunanayake's name has been proposed for the post of National List of the New Democratic Front.
+
+In this context, the idea of ​​appointment of former Power Minister Kanjana Wijeshekara has been proposed to appoint the remaining National List Member of Parliament.
+
+A meeting of party leaders of the new Democratic Party was held today (19) and the idea was presented at the meeting and it was reported that former Prime Minister Dinesh Gunawardena did not attend the meeting.
+
+◼️
+
+[Data](articles/b9e12389.json)
+
+[Extended Data](ext_articles/b9e12389.ext.json)
+
+---
+
+### United People's Power in the severe crisis
+
+*2024-11-19 13:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-நெருக்கடியில்-ஐக்கிய-மக்கள்-சக்தி/175-347435) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Severe crisis in United People's Power National List appointments. Proposed candidates: Ranjith Mathuma Bandara, Imtiaz Pakir Markar, Dullas Aberuma, GL Peiris, Sujeewa Senasinghe. Alternative group suggests including Eran Wickramaratne and Mano Ganesan. Disagreement over seat allocation within the party.
+
+🟩
+
+It has been reported that there is a severe crisis in the appointment of members to the United People's Power National List.
+
+The party's national list has been proposed to appoint Ranjith Mathuma Bandara, Imtiaz Pakir Markar, Dullas Aberuma, GL Peiris and Sujeewa Senasinghe.
+
+However, it has been reported that another group has said that the seats should be included in many others including Eran Wickramaratne and Mano Ganesan.
+
+◼️
+
+[Data](articles/b36316c6.json)
+
+[Extended Data](ext_articles/b36316c6.ext.json)
+
+---
 
 ### Order to submit Lohan's Medical Report
 
@@ -60,6 +214,90 @@ The two -judge bench comprising Justice Nissanka Bandula Karunaratne and Justice
 
 ---
 
+### Gas cylinder fire - Safety to Ravi's house
+
+*2024-11-19 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203529) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gas cylinder fire near Ravi's house. New Democratic Front faces internal crisis over National List nominations. Party names listed without approval. Former President Ranil Wickremesinghe involved in discussions. Ravi Karunanayake protects house in Colombo. No National List MP named yet.
+
+🟩
+
+The nomination of the members for the National Listing Committee of the New Democratic Front and the National List of Power have been kept up to an internal crisis.
+
+That was because a large number of people willing to represent the number of remaining seats.
+
+New Democratic Front from the National Democratic Front took 2 seats and 5 seats in harmony.
+
+In addition, the name of the New Democratic Front was declared a national listing of the New Democratic Front yesterday (18) without the approval of the party.
+
+Representatives of the National List MPs in the past general election have been crisis in the New Democratic Front and the reconciliation of the Gas Cylinder.
+
+The crisis was intensifying yesterday with writing the name of the party General Secretary Shyamla Perera to a national listing of the New Democratic Front yesterday.
+
+...
+
+[Data](articles/85a79a89.json)
+
+[Extended Data](ext_articles/85a79a89.ext.json)
+
+---
+
+### Educational and non -academic associations at Ruhunu University
+
+*2024-11-19 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199139) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ruhunu University academic/non-academic staff protest against Vice Chancellor Sujeewa Amarasena. Demonstrators march near main entrance demanding removal.
+
+🟩
+
+The academic and non -academic associations at the University of Ruhunu have been working on Tuesday (19) from 9.00 am.
+
+The work has been carried out demanding the removal of Professor Sujeewa Amarasena, Vice Chancellor of Ruhunu University.
+
+It is reported that the academic and non -academic associations are currently marching near the main entrance of the Ruhunu University.
+
+◼️
+
+[Data](articles/793af007.json)
+
+[Extended Data](ext_articles/793af007.ext.json)
+
+---
+
+### 8 foreigners arrested without visa
+
+*2024-11-19 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203528) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+8 foreigners arrested in Katunayake without visas. Police raided a tourist hotel in Aadiwambalama area. Suspects are Bangladeshi nationals aged 20-30.
+
+🟩
+
+Eight foreign nationals have been arrested in the Auddimbalama area in Katunayake, without visa.
+
+Police said that the suspects were arrested following a raid carried out by a group of foreigners in a tourist hotel in Aadiwambalama area.
+
+It is also said that the suspects are Bangladeshi nationals between 20 and 30 years old.
+
+◼️
+
+[Data](articles/abf8a634.json)
+
+[Extended Data](ext_articles/abf8a634.ext.json)
+
+---
+
 ### Is the gun used by the LTTE's main commanders?
 
 *2024-11-19 12:37:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-முக்கிய-தளபதிகள்-பாவித்த-துப்பாக்கியா/175-347431) · `ta`
@@ -83,6 +321,64 @@ Did the Sandaneka person take the gun from the northern part of the war?Or is it
 [Data](articles/98ac3586.json)
 
 [Extended Data](ext_articles/98ac3586.ext.json)
+
+---
+
+### Sri Lankan students in the United States increase by 10 percent:
+
+*2024-11-19 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199140) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan students in US universities increase 10%: Strong educational ties between nations. US remains top destination for higher education globally.
+
+🟩
+
+The Open Doers report has revealed that Sri Lankan students in the United States have increased by 10 percent and strengthening educational relations.
+
+The US Embassy has released the publication of the Open Doors Report on 2024.
+
+In the academic year 2023-2024, the number of Sri Lankan students studying in universities in the United States increased by 10 percent. The US embassy noted that it is a developing good news of Sri Lankan students seeking world -class education and highlighting the strong educational ties between the two countries.
+
+Celebrating the 75th anniversary of diplomatic relations between Sri Lanka and the United States. This year's report reveals that the US welcomed 1.12 million international students from over 210 countries and territories of the world. This confirms America as the leading place for higher education. In addition, this year is celebrated in the 25th year of the Global Education Advisory Network in the name of Educationusa.
+
+...
+
+[Data](articles/714e9ed3.json)
+
+[Extended Data](ext_articles/714e9ed3.ext.json)
+
+---
+
+### Live footage of a terrible landslide is a range of -cctv
+
+*2024-11-19 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203527) · `si`
+
+Landslide blocks Passara-Bibile main road; police advise alternative routes. CCTV captures damage to three-wheelers and road obstruction. Soil and rock removal underway.
+
+🟩
+
+The landslide and soil removal of the landslides in the Passara - Bibile main road is being carried out due to landslides in the 13th Post area.
+
+As a result, the police are informed to use alternative routes to drivers traveling along the road.
+
+Meanwhile, the landslide was noted at a safe camera mounted in a shop.
+
+There was a landslide in the 13th post of the PACEERA - Bibile main road.
+
+Three-wheelers were also damaged by the landslide and was also damaged.
+
+The march tradition of the 13th Post area of ​​the main road was blocked by large stones on the road to landslide.
+
+According to our correspondent, the removal of soil and rock falls on the road is already underway.
+
+◼️
+
+[Data](articles/54b7a67e.json)
+
+[Extended Data](ext_articles/54b7a67e.ext.json)
 
 ---
 
@@ -129,6 +425,76 @@ There is 17 players have included 17 players to the squad, designated by Dhananj
 [Data](articles/025987b2.json)
 
 [Extended Data](ext_articles/025987b2.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-11-19 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199133) · `ta`
+
+இலங்கை மத்திய வங்கியால் இன்று செவ்வாய்க்கிழமை (19) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை 286.7471 ரூபாவாகவும், விற்பனை விலை  295.7679 ரூபாவாகவும் பதிவாகியுள்ளது.
+
+◼️
+
+[Data](articles/367843fc.json)
+
+---
+
+### පොලොන්නරුව ප්‍රසිද්ධ සහල් මෝලක සහල් ලොරි තුළ කුඹුක් ලි ජාවාරමක්
+
+*2024-11-19 12:05:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-ප්‍රසිද්ධ-සහල්-මෝලක-සහල්-ලොරි-තුළ-කුඹුක්-ලි-ජාවාරමක්/11-413140) · `si`
+
+පොළොන්නරුවේ ප්‍රසිද්ධ සහල් නිෂ්පාදන ආයතනක ලොරි රථයකින් සහල් සමග කුඹුක් ලෑලි තොගයක් සඟවා පොළොන්නරුවේ සිට කොළඹ දක්වා ප්‍රවාහනය කරමින් තිබියදී ලද තොරතුරක් අනුව එම කුඹුක් ලෑලි තොගය සමග සැකකරුවන් දෙදෙනෙකු 18 වෙනිදා සවස පොළොන්නරුව දිසා වන කාර්යාලයේ නිලධාරීන් සිදුකර වැටලීමකදී අත්අඩංගුවට ගෙන ඇත.
+
+ලොරියේ සහල් මලු අතර සඟවා ප්‍රවාහනය කරමින් තිබූ මෙම ලොරි රථය, දිසා වන නිලධාරීන් ලුහුබැඳ ගොස් පොළොන්නරුව ජයන්තිපුර ප්‍රදේශයේදී අත්අඩංගුවට ගෙන ඇති අතර ඒ වෙන විට කුඹුක් ලෑලි දෙසීය හතලිහකට ආසන්න සංඛ්‍යාවක් ලොරි රථයේ සහල් අතර සඟවා තිබූ බව වැටලීම සිදුකළ වන නිලධාරීන් සඳහන් කළහ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් දෙදෙනා පොළොන්නරුව සහ ජයන්තිපුර ප්‍රදේශයේ පදිංචිකරුවන් බවද වැටලීම සිදුකල වන අඩවි නිලධාරීන් සඳහන් කළහ.
+
+...
+
+[Data](articles/b48f9022.json)
+
+---
+
+### හැමෝම හොයන මන්ත්‍රී වැටුප -  ඇත්තම කතාව මෙන්න
+
+*2024-11-19 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203525) · `si`
+
+මන්ත්‍රීවරයෙකුට ලබාදෙනු ලබන්නේ වැටුපක් නොව දීමනාවක් බව ශ්‍රී ලංකා පාර්ලිමේන්තුවේ මහලේකම්, කුෂානි රෝහණධීර මහත්මිය පවසන්නීය.
+
+අද දෙරණ BIG FOCUS වැඩසටහන සමග එක්වෙමින් ඇය වැඩිදුරටත් සඳහන් කර සිටියේ, වර්තමානයේ මන්ත්‍රීවරයෙකුට 54,000කට ආසන්න දීමනාවක් හිමිවන බවය.
+
+මීට අමතරව පැමිණීමේ දීමනාවක් ලෙස පාර්ලිමේන්තු රැස්වීම් පවත්වන දිනයන් වෙනුවෙන් රු 2,500ක මුදලක් සහ රැස්වීම් නොපවැත්වෙන දිනයන්වල දී කාරක සභාවලට සහභාගී වීම වෙනුවෙන් රු 2,500ක දීමනාවක් ද ඔවුන්ට හිමිවේ.
+
+දුර ප්‍රමාණය මත ඉන්ධන දීමනාවක් හිමිවන බවත්, එය සූත්‍රයක් අනුව ගණනය කරන බවත් ඇය සඳහන් කළාය.
+
+ඊට අමතරව පාර්ලිමේන්තුවේ සිට කිලෝමීටර් 40ක් ඇතුළත නිවසක් නොමැති අයට, අයදුම් කර මාදිවෙල ඇති මන්ත්‍රී නිවාස ලබාගැනීමට හැකියාව ඇති බව ද ඇය කියා සිටියාය.
+
+මාදිවෙල එවැනි නිවාස 108ක් මේ වනවිට ඇති බවත්, ආණ්ඩු පක්ෂයේ හා විපක්ෂයේ ඉල්ලීම පරිදි පළමුවෙන් ඉල්ලීම් ඉදිරිපත් වන අනුපිළිවෙල අනුව නිවාස ලබාදෙන බවත් කුෂානි රෝහණධීර මහත්මිය පැවසුවාය.
+
+...
+
+[Data](articles/97767d5e.json)
+
+---
+
+### அநுரவை முதலில் வாழ்த்திய இந்திய தூதுவர் இந்தியாவிற்கு வருமாறு அழைத்தார்  : அதானி காற்றாலை மின் திட்டத்தின் எதிர்காலம் குறித்து இந்தியா கரிசனை- டைம்ஸ் ஒவ்இந்தியா
+
+*2024-11-19 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/199126) · `ta`
+
+இலங்கை ஜனாதிபதி அனுரகுமாரதிசநாயக்க, மிகப்பெரும் வெற்றியை தொடர்ந்து நாடாளுமன்றத்தில் தனது இடதுசாரி கூட்டணியின் நிலையை உறுதி செய்துகொண்டதை தொடர்ந்து இந்தியா இதனை வரவேற்ற அதேவேளை பரஸ்பர நன்மைக்காக இலங்கையுடன் இணைந்து பணியாற்றுவதற்கான தனது அர்ப்பணிப்பை மீளவலியுறுத்தியது.
+
+நாடாளுமன்ற தேர்தல் முடிவுகள் தெளிவான பின்னர் ஜனாதிபதி அனுரகுமாரதிசநாயக்கவை சந்தித்த இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஸ் ஜா இலங்கை ஜனாதிபதி விரைவில் இந்தியாவிற்கு விஜயம் மேற்கொள்ளவேண்டும் என்ற புதுடில்லியின் வேண்டுகோளை மீண்டும் முன்வைத்தார்.
+
+செப்டம்பரில் இலங்கை ஜனாதிபதியாக அனுரகுமாரதிசநாயக்க தெரிவு செய்யப்பட்ட பின்னர் அவரை சந்தித்த முதல் வெளிநாட்டு இராஜதந்திரி இந்திய தூதுவர் என்பது குறிப்பிடத்தக்கது.
+
+நாடாளுமன்றத்தில் 159 ஆசனங்களையும்,61 வீதமான வாக்குகளையும் பெற்றுள்ள தேசிய மக்கள் சக்தி,225 உறுப்பினர்களை கொண்ட நாடாளுமன்றில் மூன்றில் இரண்டு பெரும்பான்மையை பெற்றதுடன் ஜனாதிபதி என்ற அனுரகுமாரதிசநாயக்கவின் நிலையை வலுப்படுத்தியுள்ளது.
+
+கடந்த நாடாளுமன்றத்தில் ஜேவிபி தலைமையிலான இந்த கூட்டணிக்கு மூன்று ஆசனங்கள் மாத்திரம் கிடைத்தன.
+
+...
+
+[Data](articles/9e16aaf9.json)
 
 ---
 
@@ -2043,365 +2409,5 @@ Posting on ‘X’ President Dissnayake stated that the discussion was focused o
 [Data](articles/8b3b9b88.json)
 
 [Extended Data](ext_articles/8b3b9b88.ext.json)
-
----
-
-### IMF. Amongment between representatives and former President meets
-
-*2024-11-18 19:18:39* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--නියෝජිතයන්-හා-හිටපු-ජනපති-අතර-හමුවක්/11-413132) · `si`
-
-IMF representatives meet former President Wickremesinghe for 3rd review of Sri Lanka loan. Meeting at political office in Colombo. Former Finance Minister Shehan Semasinghe present. IMF praises measures taken to restore Sri Lanka.
-
-🟩
-
-The International Monetary Fund (IMF representatives of the International Monetary Fund) and former President Ranil Wickremesinghe have been held on the third review of comprehensive loans implemented between Sri Lanka and the International Monetary Fund.
-
-The meeting took place at the political office in Malrayee, Colombo. It is reported that the former Finance Minister Shehan Semasinghe has also participated in this regard.
-
-It is also reported that the IMF representatives have expressed praise to him regarding the measures taken by the former presidential re-restoration of Sri Lanka.
-
-◼️
-
-[Data](articles/b1c8ba8d.json)
-
-[Extended Data](ext_articles/b1c8ba8d.ext.json)
-
----
-
-### Ravi nominated for National List seat without Ranil and NDF parties’ consent?
-
-*2024-11-18 19:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/103593/ravi-nominated-for-national-list-seat-without-ranil-and-ndf-parties-consent) · `en`
-
-The leader of the New Democratic Front (NDF), former President Ranil Wickremesinghe has reportedly informed the party representatives that the decision to nominate Ravi Karunanayake for one of the two NDF National List MP seats has been taken in an arbitrary manner without the consent of the other parties and himself.
-
-According to the results of the 2024 General Election, the New Democratic Front (NDF), which contested under the symbol of the ‘Gas Cylinder’, won three parliamentary seats and two National List seats.
-
-The New Democratic Front was formed by the United National Party (UNP), the Sri Lanka Freedom Party (SLFP) and the ‘Podujana Eksath Nidahas Peramuna’ to contest the election.
-
-Accordingly, it had been proposed to name one member each from the ‘Podujana Eksath Nidahas Peramuna’ and the United National Party (UNP) for the two National List seats while the final decision on the matter was expected to be taken tomorrow (18) collectively by all parties in the alliance.
-
-...
-
-[Data](articles/e8fcd9ed.json)
-
-[Extended Data](ext_articles/e8fcd9ed.ext.json)
-
----
-
-### Victims of the Passover attack pay. 31 crore
-
-*2024-11-18 18:58:31* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයේ-වින්දිතයන්ට-ගෙවන්න-හානි-පූර්ණ-කාර්යාලයට-රු--කෝටි-31ක්-ලැබිලා/11-413131) · `si`
-
-Supreme Court orders AG to report on compensating Easter attack victims. 31 crore allocated. Report must detail payment process. Case highlights importance of transparency in victim compensation.
-
-🟩
-
-The Supreme Court today ordered the Attorney General to submit a detailed report on how to compensate victims due to the Easter terrorist attacks.
-
-According to court orders, additional Solicitor General Cadkka Siriwardena appearing on behalf of the Attorney General, Solicitor General's Compensation for the Attorney General was reportedly received due to the Easter's offensiveThe money was ordered to submit the report before the report was paid to these victims.
-
-Fernando, the Supreme Court Judge, S.. Petitions were taken up before the Mrs. Turaraja and Dilip Nawala.
-
-Additional Solicitor General's Treak Siriwardena, who appeared for the respondents, said that the court orders were received by the court.
-
-The Judge Murve Fernando has asked if a report on the court was produced in court.
-
-Additional Solicitor General's Wark Siriwardena has already produced in court.
-
-The case was taken up and questioned about why a report on the manner in the courts who had paid the compensation paid to the victim.
-
-...
-
-[Data](articles/4609faad.json)
-
-[Extended Data](ext_articles/4609faad.ext.json)
-
----
-
-### Third installment holiday announcement
-
-*2024-11-18 18:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-விடுமுறை-அறிவிப்பு/175-347389) · `ta`
-
-Here's a summary of the holiday announcement in 200 characters:
-
-
-
-Ministry of Education announces:
-
-1st phase of 3rd school installment on Dec 22nd due to A/L exams
-
-3rd phase begins Jan 2, 2025, completes Jan 17, 2025
-
-🟩
-
-The Ministry of Education has decided to provide the first phase of the third school installment on Friday 22nd.
-
-The decision has been taken as the GCE GCE Advanced Level (A/L) exam begins.
-
-Accordingly, the 3rd phase of the third installment begins on January 2, 2025.
-
-The Ministry of Education said that the phase will be completed on January 17.
-
-◼️
-
-[Data](articles/408147e6.json)
-
-[Extended Data](ext_articles/408147e6.ext.json)
-
----
-
-### India to India in December
-
-*2024-11-18 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203504) · `si`
-
-India: President Anura Kumara Dissanayake visits India in December for official talks with Indian PM Narender Modi.
-
-🟩
-
-Minister of External Affairs Vijitha Herath says President Anura Kumara Dissanayake is going to India for an official visit.
-
-Mr. Vijitha Herath said that in response to a question raised by journalists after being sworn in as his minister.
-
-During his visit, Dissanayake will meet bilateral talks to meet Indian Prime Minister Narera Mood.
-
-◼️
-
-[Data](articles/3e18095e.json)
-
-[Extended Data](ext_articles/3e18095e.ext.json)
-
----
-
-### The last day informs the last day to provide electoral expenses
-
-*2024-11-18 18:16:43* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂක-මැතිවරණ-වියදම්-ලබාදෙන්න-අවසන්-දිනය-දැනුම්-දෙයි/11-413130) · `si`
-
-Elections Commission deadline: Political parties & independent groups must submit electoral expense reports by 12pm on 6th June. Maximum spending limits published in Gazette No. 2406/03 & 2024. Reports available at district election offices. Public display at Election Commission headquarters from 17th June.
-
-🟩
-
-The Elections Commission states that political parties, independent groups, independent groups, should be handed over to election propaganda income reports before 12 midnon on the 6th of next month.
-
-Accordingly, all political parties and independent group candidates have been handed over to the selection of the electorates in the electorate district.
-
-The election campaign and expenditure of the candidates should be handed over to the electoral propaganda and expenditure.
-
-The maximum limits that can be spent on election divisions have been published in a special gazette notification No. 2406/03 and 2024.These reports received the estimated value of their estimates to the group and the candidate, it is said that they should be donated whether they should be donated as gifts, loans, advances or deposits.
-
-It pointed out that this is available at any district election office.
-
-...
-
-[Data](articles/1e4ba09a.json)
-
-[Extended Data](ext_articles/1e4ba09a.ext.json)
-
----
-
-### Dr. Harini Amarasuriya assumes duties as PM
-
-*2024-11-18 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103590/dr-harini-amarasuriya-assumes-duties-as-pm) · `en`
-
-National People’s Power (NPP) MP Dr. Harini Amarasuriya has officially assumed duties in the office as the Prime Minister of Sri Lanka, after she was re-appointed to the position by President Anura Kumara Dissanayake at the Presidential Secretariat in Colombo this morning (18).
-
-Days after new President Anura Kumara Dissanayake took oaths, Amarasuriya was appointed as the new Prime Minister of the interim government, as she became the first female to hold the position since Sirimavo Bandaranaike in 2000.
-
-During the 2024 General Election, which was held on November 14, Dr. Amarasuriya, who contested from the Colombo District, polled the highest number of preference votes and placed first in the district.
-
-...
-
-[Data](articles/a4ecfdac.json)
-
-[Extended Data](ext_articles/a4ecfdac.ext.json)
-
----
-
-### IMF team meet former President Ranil Wickremesinghe
-
-*2024-11-18 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103591/imf-team-meet-former-president-ranil-wickremesinghe) · `en`
-
-The delegation of the International Monetary Fund (IMF) led by Senior Mission Chief Peter Breuer, who are currently on a visit to Sri Lanka, have reportedly met with former President Ranil Wickremesinghe today (18) at his office in Flower Road, Colombo.
-
-In a post on ‘X’ (formerly Twitter), former State Minister of Finance Shehan Semasinghe, who also participated in the meeting, stated that they commended the remarkable efforts of the former government in recovering Sri Lanka’s economy from its worst crisis and setting it on a path toward sustainable growth.
-
-“During the discussions, we emphasized the importance of maintaining continuity in policies and programs, safeguarding the hard-earned reforms, and ensuring that these achievements are not reversed to secure stability and long-term economic development,” he added.
-
-◼️
-
-[Data](articles/ae04e7dc.json)
-
-[Extended Data](ext_articles/ae04e7dc.ext.json)
-
----
-
-### The appointment of Deputy Ministers on 21st
-
-*2024-11-18 18:04:16* · [`adalk`](https://www.ada.lk/breaking_news/නියෝජ්‍ය-අමාත්‍යවරුන්-පත්-කිරීම-21දා/11-413129) · `si`
-
-Deputy Minister appointments: 30 positions, Thursday, 21st General Hospital. All ministries to appoint two deputy ministers based on scope.
-
-🟩
-
-It is reported that the appointment of Deputy Ministers of the new government will be held on Thursday, 21st General Hospital.
-
-Accordingly, nearly 30 deputy ministers are to be appointed. Deputy Ministers to be appointed to all Ministries and two Deputy Ministerers have to appoint two depths according to their scope.
-
-◼️
-
-[Data](articles/8d70121b.json)
-
-[Extended Data](ext_articles/8d70121b.ext.json)
-
----
-
-### Southern coastal tsunami warning towers in danger of falling
-
-*2024-11-18 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/199088) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Tsunami warning towers in southern coast face collapse due to neglect. 77 towers installed but maintenance delayed due to funding issues. Solar-powered batteries expired, posing safety risks.
-
-🟩
-
-The tsunami disaster is being commemorated every year, while the tsunami -affected people have expressed their concern that the tsunami towers set up to protect the people.
-
-They pointed out that the tsunami towers and correction work has not been carried out for years.
-
-In the Southern Province, 24 tsunami warning towers have been set up in various districts including Galle, Ahangama, Ballapitti, Ambalangoda, Hikkaduwa, Ratgama, Telvatta and Unavatuna, Matara and Hambantota districts.
-
-Weligama Police Ground, Dikwella Police Ground, Mirissa Fisheries Harbor, Tevinuwara Fisheries Harbor, Polhena Sumanaramaiah Temple Ground, and Thala Southern Maha Vidyalaya in Matara District and Girinda Muslim Maha Vidyalaya. In the Hambantota district, the Kudavella Fisheries Harbor, Rekawa Primary School Ground, Padada Viharai Ground and Sisilagama Sitharamaya Temple Ground include particular
-
-...
-
-[Data](articles/5d727dd8.json)
-
-[Extended Data](ext_articles/5d727dd8.ext.json)
-
----
-
-### If the government goes on the wrong road, we stand up against us
-
-*2024-11-18 17:48:42* · [`adalk`](https://www.ada.lk/breaking_news/රජය-වැරදි-පාරේ-යනවානම්-අපි-විරුද්ධව-නැගී-සිටිනවා/11-413128) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-UNP MP SM Pekar criticizes govt over broken election promises. Calls for opposition to fulfill democratic duties without harming economy. Emphasizes need to address people's needs and implement positive change.
-
-🟩
-
-UNP MP SM Pekar said that the current government's promises made through the election platform via the main opposition of the new Parliament is the function of the new Parliament.
-
-He was speaking at a media briefing held at the Head Office of the Head Office today (18).
-
-Speaking further MP SM Junkar said so.
-
-"At the Parliamentary Election held on the 14th, we would like to thank the people who voted for the vote of the Sinhalese camp at the 14th.. We should thank those who understand the need for representatives of opinion in democracy.
-
-And the current government has given two-thirds power by the people of this country. We need to respect that popular view. Our maintenance is the main group of two-thirds of the main opposition, the current president has achieved a large number of promises that the people of this country have experienced the people and still suffering.
-
-...
-
-[Data](articles/e10de903.json)
-
-[Extended Data](ext_articles/e10de903.ext.json)
-
----
-
-### Marginalisation Of The Muslim Community In The Newly Appointed Cabinet?
-
-*2024-11-18 17:46:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/marginalisation-of-the-muslim-community-in-the-newly-appointed-cabinet/) · `en`
-
-Today’s (18 November 2024) announcement of Sri Lanka’s new cabinet has sparked widespread disappointment within the Muslim community. For the first time in recent memory, the cabinet has been formed without a single Muslim representative, raising serious questions about inclusivity, equal representation, and the government’s commitment to good governance.
-
-The absence of Muslim ministers in the cabinet is deeply concerning, particularly given the historical importance of having minority representation in decision making bodies. Previous administrations, despite their flaws, acknowledged the importance of including a Muslim minister in the cabinet. For example,even former President Gotabaya Rajapaksa included Ali Sabry in his cabinet – a gesture that, symbolic or otherwise, recognised the need for minority voices in governance.
-
-...
-
-[Data](articles/ea792d9c.json)
-
-[Extended Data](ext_articles/ea792d9c.ext.json)
-
----
-
-### 8 hour water cut in several areas in Anuradhapura tomorrow
-
-*2024-11-18 17:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203503) · `si`
-
-Anuradhapura: 8-hour water cut tomorrow in Saliyapura, Rajarata Univ., Mihinthara, Jaffna Junction, Anuradhapura, Matale, Matale Junction, Galkulama due to Nuwarawewa Water Treatment maintenance.
-
-🟩
-
-The National Water Supply and Drainage Board (NBRO) says that the water cut will be imposed in Anuradhapura tomorrow (19).
-
-In a statement, the board said that water supply was suspended due to essential maintenance of the Nuwarawewa Water Treatment.
-
-Accordingly, the water supply will be imposed from Saliyapura, Rajarata University, Mihinthara, Jaffna Junction, Anuradhapura, Matale, Matale Junction and Galkulama areas tomorrow.
-
-◼️
-
-[Data](articles/3a0339b1.json)
-
-[Extended Data](ext_articles/3a0339b1.ext.json)
-
----
-
-### Ready to embrace true events
-
-*2024-11-18 17:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199108) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Me Snow Snow": A crime thriller starring debutant Natraj Sunderraj. Directed by Arul Dev, produced by Hemalatha Sunderraj. Combines elements of suspense, romance, and psycho-themes. Set for worldwide release on the 29th.
-
-🟩
-
-The first movie starring the hero of the story Natraj Sunderraj is titled 'Me Snow Snow'.
-
-Natraj Sundarraj, Upasana RC. K. Bhagyaraj, Chitra Lakshmanan, late actor Manopala, Thalaivasal Vijay, Singam Tiger, Muthukkalai, Sunderraj, TSR, Tanish and many others.
-
-Arul Dev has composed the film, which has been recorded by Venkat. S.. My. S.. Produced by producer Hemalatha Sunderraj on behalf of Pictures.
-
-All the work of the film will be completed and will be released at the film palace worldwide on the 29th.
-
-Commenting on the film, the director said, “Natraj Sunderraj, who debuted as the hero of the story, is aimed at rising as a police officer in life.
-
-But unexpectedly becomes a police investigation. Can he reach his ambitions?Or not?The screenplay of the film has been created with a mixed aspect of crime thriller, suspense, romance, psycho.
-
-All the tasks of this film, which is ready to embrace the true incident, is completed. ”
-
-◼️
-
-[Data](articles/9f6877d9.json)
-
-[Extended Data](ext_articles/9f6877d9.ext.json)
-
----
-
-### Ravi Seneviratne’s FR petition dismissed
-
-*2024-11-18 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/103588/ravi-seneviratnes-fr-petition-dismissed) · `en`
-
-The Supreme Court today (18) dismissed a fundamental rights petition filed by former Senior DIG of the Criminal Investigation Department (CID) and incumbent Secretary to the Ministry of Public Security, Ravi Seneviratne.
-
-The petition has been filled seeking an order declaring that his fundamental human rights had been violated when he was arrested and remanded by Wellawatte Police in connection with a vehicular accident.
-
-The petition was taken up for consideration before a three-member Supreme Court judge bench consisting of Justices S. Thurairaja, A.H.M.D. Nawaz and Priyantha Fernando.
-
-Deputy Solicitors General Disna Warnakula, representing the respondents in the petition, raised a preliminary objection and pointed out that the petition has not been filed in accordance with the Supreme Court rules.
-
-The three-judge bench of the Supreme Court, after considered the facts presented, decided to dismiss the petition by accepting the preliminary objection raised by the respondents.
-
-...
-
-[Data](articles/cdc67514.json)
-
-[Extended Data](ext_articles/cdc67514.ext.json)
 
 ---

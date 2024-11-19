@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 10:00:51**
+As of **2024-11-19 10:14:39**
 
 ## Newspaper Stats
 
-*Scraped **55,695** Articles*
+*Scraped **55,696** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ colombotelegraphcom | 569
 bbccomsinhala | 571
 islandlk | 3,338
 economynextcom | 3,372
-dailyftlk | 3,811
+dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,226
 adaderanalk | 6,720
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,695 (100.0%) of 55,695 articles have been extended.
+55,695 (100.0%) of 55,696 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -811,6 +811,20 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/ab315f29.json)
 
 [Extended Data](ext_articles/ab315f29.ext.json)
+
+---
+
+### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
+
+*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380) · `en`
+
+Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
+
+Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
+
+...
+
+[Data](articles/83d7e229.json)
 
 ---
 
@@ -2387,29 +2401,5 @@ Subsequently, the suspect has been handed over to the Boraleskamuwa police stati
 [Data](articles/6319983f.json)
 
 [Extended Data](ext_articles/6319983f.ext.json)
-
----
-
-### Ministries under the President
-
-*2024-11-18 15:40:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යටතට-ගත්-අමාත්‍යාංශ/11-413120) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-New Ceylon Cabinet sworn in. 21 ministers excluding PM. Key portfolios: Security, Cash Design, Economic Development, Digital Economic Development.
-
-🟩
-
-The new Ceylon Cabinet of the National Ceylon Forgitation was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat this morning (18). The new Cabinet of Ministers except the Prime Minister were limited to 21.
-
-President Anura Kumara Dissanayake has kept security, cash design and economic development, Digital Economic Development.
-
-◼️
-
-[Data](articles/d471378a.json)
-
-[Extended Data](ext_articles/d471378a.ext.json)
 
 ---

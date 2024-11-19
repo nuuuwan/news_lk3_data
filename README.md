@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 22:01:22**
+As of **2024-11-19 22:41:34**
 
 ## Newspaper Stats
 
-*Scraped **55,798** Articles*
+*Scraped **55,800** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 570
+colombotelegraphcom | 571
 bbccomsinhala | 575
 islandlk | 3,338
 economynextcom | 3,384
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,245
+adalk | 5,246
 adaderanalk | 6,720
 tamilmirrorlk | 7,910
 virakesarilk | 9,066
@@ -26,45 +26,65 @@ adaderanasinhalalk | 9,650
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,795 (100.0%) of 55,798 articles have been extended.
+55,799 (100.0%) of 55,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### තේරීපත්වූ මන්ත්‍රීවරුන්ට දැනුම්දීමක්
+### Notice to elected MPs
 
 *2024-11-19 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203541) · `si`
 
-10වන පාර්ලිමේන්තුවේ සමාරම්භක රැස්වීම සඳහා බ්‍රහස්පතින්දා (21) පෙරවරු 9.00 වනවිට පාර්ලිමේන්තුවට පැමිණෙන ලෙස සියලු මන්ත්‍රීවරුන්ගෙන් ඉල්ලීමක් කරන බව පාර්ලිමේන්තු මහලේකම් කුෂානි රෝහණධීර මහත්මිය පවසයි.
+Here's a 200-character summary:
 
-බ්‍රහස්පතින්දා පෙරවරු 10.00ට 10වන පාර්ලිමේන්තුවේ සමාරම්භක රැස්වීම පැවැත්වීමට නියමිත ය.
 
-පාර්ලිමේන්තුව කරා පැමිණීමෙන් පසු මන්ත්‍රීවරුන්ගේ රථ පොලිස් නිලධාරීන් විසින් නියමිත රථගාලට යොමුකරන බවත් අනතුරුව මන්ත්‍රීවරුන් පාර්ලිමේන්තුවේ ප්‍රවේශ ශාලාවට පැමිණ ඝනපූර්ණ සීනුව නාදකරන තෙක් එහි රැඳීසිටිය යුතු බවත් මහලේකම්වරිය දැනුම් දී තිබුණාය.
 
-මෙලෙස පැමිණෙන මන්ත්‍රීවරුන් ඔවුන්ගේ කාලත්‍රයා සමග පැමිණෙන්නේ නම් පාර්ලිමේන්තුවේ කාර්යය මණ්ඩල ප්‍රවේශ ද්වාරය අසලදී සිය රථ වාහනවලින් බැසිය යුතු අතර අනෙකුත් මන්ත්‍රීවරුන් මන්ත්‍රී ප්‍රවේශ ද්වාරය අසලදී සිය රථවලින් බැසිය යුතුය.
+"10th Parliament inaugural meeting: MPs summoned, spouses allowed, photo ops. New Cabinet formed: Nalinda Jayatissa as Chief Organizer. Nihal Galappaththi likely Speaker; Deputy Speaker position filled."
 
-මේ අතර නව පාර්ලිමේන්තුවේ පළමු සභාවාරය පැවැත්වීම සඳහා අවශ්‍ය කටයුතු පහසු කරලීමට පාර්ලිමේන්තු මන්ත්‍රීවරුන් වෙනුවෙන් අද (19) සහ හෙට (20) තොරතුරු කවුළුවක් ස්ථාපිත කරන බව පාර්ලිමේන්තු මහලේකම් කුෂාණි රෝහණධීර මහත්මිය පවසන්නීය.
+🟩
+
+General Secretary Kushani Rohanahandera says he will request all MPs to visit Parliament for the inaugural meeting of 10th parliament.
+
+The inaugural meeting of 10th parliament will be held at 10.00 am on Thursday.
+
+The Secretariat had informed that after the arrival of the MPs to the parliament, the MPs were sent to the due vehicle.
+
+If the MPs come with their spouse, cast their chariots near the staff of the Parliament and other Members of Parliament should be cut off at their own chariots at the MP's access portal.
+
+Meanwhile, MP Kushayanha Rohanaharati says that a report will be established today (19) and tomorrow (19) and tomorrow (19) and tomorrow (19) and tomorrow.
+
+She points out that the window is operating at the Parliament complex today and tomorrow at 9.30 am to 3.30 pm.
+
+The arrangement of information that will be useful to all MPs and obtain photographs of photos for MPs and obtaining relevant.
 
 ...
 
 [Data](articles/78e8e674.json)
 
+[Extended Data](ext_articles/78e8e674.ext.json)
+
 ---
 
-### තුන්වැනි එක්දින තරගය අත්හැර දැමේ - තරගාවලි ජය ශ්‍රී ලංකාවට
+### Third ODI wins
 
 *2024-11-19 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203540) · `si`
 
-ශ්‍රී ලංකාව සහ නවසීලන්තය අතර පැවැත්වෙන තුන්වැනි සහ අවසන් එක්දින ජාත්‍යන්තර ක්‍රිකට් තරගය වර්ෂාව හේතුවෙන් අත්හැර දැමීමට තීරණය කර තිබේ.
+Sri Lanka vs New Zealand ODI abandoned due to rain at Kandy. Match started today but interrupted after 21 overs. New Zealand batting first.
 
-එම තරගය අද (19) දහවල් මහනුවර, පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් පිටියේදී ආරම්භ වුණි.
+🟩
 
-කාසියේ වාසිය දිනාගත් නවසීලන්ත කණ්ඩායම පළමුව පන්දුවට පහරදීමට පිටියට පිවිසි අතර පන්දුවාර 21ක් අවසානයේ එක් කඩුල්ලක් දැවී ලකුණු 112ක් ලබා සිටියදී තරගයට වර්ෂාවෙන් බාධා එල්ල විය.
+The third and final ODI match between Sri Lanka and New Zealand has decided to abandon the rains.
+
+The match began at the Kandy, Pallekele International Cricket today (19).
+
+New Zealand won the toss and elected to bat first and at the end of 21 overs, the tournament was interrupted.
 
 ◼️
 
 [Data](articles/797f07f9.json)
+
+[Extended Data](ext_articles/797f07f9.ext.json)
 
 ---
 
@@ -402,6 +422,18 @@ All the authorities should unite to manage this new chapter and make a friendly 
 
 ---
 
+### නව ලේකම්වරුන් පත් කරයි
+
+*2024-11-19 18:11:56* · [`adalk`](https://www.ada.lk/breaking_news/නව-ලේකම්වරුන්-පත්-කරයි/11-413154) · `si`
+
+නව අග්‍රාමාත්‍ය ලේකම්, අමාත්‍ය මණ්ඩල ලේකම් ඇතුළු අමාත්‍යාංශ 16ක් සඳහා නව ලේකම්වරු පත් කිරීම ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතාගේ  ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (19) සිදුකෙරිණි. එම නාම ලේඛනය පහත පරිදි වේ.
+
+◼️
+
+[Data](articles/c9f6f5a6.json)
+
+---
+
 ### Sri Lanka President retains Finance Secretary ahead of IMF, debt deals; Foreign Secretary out
 
 *2024-11-19 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-retains-finance-secretary-ahead-of-imf-debt-deals-foreign-secretary-out-188785/) · `en`
@@ -466,17 +498,33 @@ The project’s evaluation report indicated that government officials expressed 
 
 ---
 
-### මෝටර් වාහන ලියාපදිංචි කිරීමේ ජාවාරමුන්ගේ නම් අධිකරණයේදී එළියට
+### Out of the case of the registration of motor vehicle registration racketing
 
 *2024-11-19 17:57:35* · [`adalk`](https://www.ada.lk/breaking_news/මෝටර්-වාහන-ලියාපදිංචි-කිරීමේ-ජාවාරමුන්ගේ-නම්-අධිකරණයේදී-එළියට/11-413153) · `si`
 
-මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ පරිගණක පද්ධතියට ව්‍යාජ තොරතුරු ඇතුළත් කරමින් මෝටර් වාහන ලියාපදිංචි කිරීමේ මහා පරිමාණ ජාවාරම කර ඇත්තේ එම දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස්වරයකු ඇතුළු අටදෙනකු බව අල්ලස් කොමිසම කොළඹ ප්‍රධාන මහේස්ත්‍රාත් තිළිණ ගමගේ මහතාට අද (19) දැනුම් දුන්නේය.
+Here's a 200-character summary:
 
-රජයට රුපියල් කෝටි 500කට අධික බදු මුදල් අහිමි කරමින් රේගුවට හොර රහසේ ආනයනය කළ සුඛෝපභෝගී මෝටර් රථ 200ක් පිළිබඳව මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ පරිගණක පද්ධතියට ව්‍යාජ තොරතුරු ඇතුළත් කරමින් එම මෝටර් වාහන ලියාපදිංචි කිරීමේ සිද්ධියට අදාළ විමර්ශන කිරීමේදී මේ බව හෙළි වු බව දැනුම් දුන් අල්ලස් කොමිසමේ නිලධාරීහු මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ නියෝජ්‍ය කොමසාරිස්වරයා ඇතුළු එහි සේවකයින් හයදෙනෙකුට එරෙහිව නඩු පැවරීය.
+
+
+Motor vehicle registration racket exposed: Bribery Magistrate Thilina Gamage informs Colombo Chief Magistrate about fake information submitted to Department of Motor Traffic. Deputy Commissioner and 6 employees sued under Bribery Act. Investigation reveals luxury vehicle import scam from 2005-2015. Suspects arrested; court appearance scheduled for 29th.
+
+🟩
+
+The Bribery Magistrate Thilina Gamage has informed Colombo Chief Magistrate Thilina Gamage that the large number of fake information to the Department of Motor Traffic.
+
+Bribery bribery caries informed of 200 crores to the Department of Motor TrafficThe Deputy Commissioner of the Department of Transportation and six employees sued.
+
+The Bribery Commission was cases as a deputy commissioner of the Department of Motor Traffic, Upul Priyweera, Channa Muttu, Clerith, Channa Rohitha Survey, and Vehicle ImportersTB, who is saying that the businessmen. Iiyagama and Nalinda Mahesh Kumara are against the people.
+
+Import of luxury vehicles imported to the Sri Lanka by 2015 to the 2005 years after the year 2015.The bribery or Corruption Commission has taken over the accusations against the accusations against the accusation of the number plates.
+
+The Bribery Commission further accused the defendants under the Bribery Act No. 20 of the Bribery Act No. 20 of the Bribery Act, No. 9 of No. 203.
 
 ...
 
 [Data](articles/68af910c.json)
+
+[Extended Data](ext_articles/68af910c.ext.json)
 
 ---
 
@@ -821,6 +869,20 @@ Wijepala won the November 14 presidential poll under the ruling National People�
 [Data](articles/4933d5d6.json)
 
 [Extended Data](ext_articles/4933d5d6.ext.json)
+
+---
+
+### Sri Lanka’s Foreign Employment Bureau Must End The Humiliation Of Travelers
+
+*2024-11-19 16:35:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-foreign-employment-bureau-must-end-the-humiliation-of-travelers/) · `en`
+
+The Foreign Employment Bureau (FEB) at Sri Lanka’s Bandaranaike International Airport is under fire for subjecting first-time travelers to invasive and humiliating checks, often reducing excited travelers to distressed victims of bureaucratic power plays. The ostensible purpose behind these checks is to prevent unauthorized employment abroad, but in reality, these practices target innocent passengers on visit visas, stripping them of their dignity and treating them as though they are presumed criminals. This troubling trend has only worsened, with mounting calls for the new government to urgently step in and restore travelers’ rights.
+
+...
+
+[Data](articles/361b5b23.json)
+
+[Extended Data](ext_articles/361b5b23.ext.json)
 
 ---
 
@@ -2545,63 +2607,5 @@ Anuradha Jayaratne, who contested in the Kalutara District, competed by the new 
 [Data](articles/410cc15d.json)
 
 [Extended Data](ext_articles/410cc15d.ext.json)
-
----
-
-### Four gazettes on Prime Minister, Ministers and 99 Gazette
-
-*2024-11-19 08:21:03* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති---ඇමතිවරු-සහ--99-න්--රවි--නාමල්--පත්මනාදන්--පත්-කිරීම්-ගැන-ගැසට්-හතරක්/11-413136) · `si`
-
-Here's a 200-character summary:
-
-
-
-"4 gazettes issued: PM Anura Kumara Dissanayake appointed; 3 ministers named; 99th constitution amendment ratified; National list MPs declared."
-
-🟩
-
-Four special gazette notifications have been issued yesterday (18), declaring the new appointments in the parliamentary election.
-
-According to the Constitution of the Amendment of the Hon.The gazette notification stated that the Prime Minister Anura Kumara Dissanayake was appointed as the Prime Minister Anura Kumara Dissanayake.A statement of three announcements was issued by the Presidential Secretary of the President NS Sumarana on the law of President Anura Kumara Dissanayake.
-
-The Elections Commission has issued the other gazette notification, which has been appointed as national lists from the 99 Constitution of the Monadros of the Monadrand.Has been declared.
-
-◼️
-
-[Data](articles/bd8a4d62.json)
-
-[Extended Data](ext_articles/bd8a4d62.ext.json)
-
----
-
-### IMF. President reesiates that he is working with
-
-*2024-11-19 08:14:45* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සහයෝගයෙන්-වැඩ-කරන-බව-ජනපති-යළිත්-සහතික-කරයි/11-413135) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-IMF President Reesiates collaboration with Sri Lanka's new government. Focuses on economic recovery, welfare spending, and anti-corruption efforts. Emphasizes building public trust and addressing child poverty, malnutrition, and special needs.
-
-🟩
-
-President requested the International Monetary Fund to establish a balanced approach in the Economic Recovery Program
-
-Attention on Welfare Expenses: Help for children's poverty, malnutrition, and special needs
-
-The success of the IMF program depends on building public confidence in the existing control
-
-President Anura Kumara Dissanayake and the new government ministers were found at the Presidential Secretariat, the International Monetary Fund Representative of the International Monetary Fund to discuss the next step of the International Monetary Fund.
-
-President Anura Kumara Dissanayake once again confirmed that the International Monetary Fund (IMF) with the International Monetary Fund (IMF) with the mandate of the government.
-
-The International Monetary Fund Agent Greetings of the Presidential Fonseka greeting its greeting on the decisive electoral victory and the new government.
-
-...
-
-[Data](articles/66cb3719.json)
-
-[Extended Data](ext_articles/66cb3719.ext.json)
 
 ---

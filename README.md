@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 00:41:14**
+As of **2024-11-20 01:10:48**
 
 ## Newspaper Stats
 
-*Scraped **55,810** Articles*
+*Scraped **55,812** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
-tamilmirrorlk | 7,912
+tamilmirrorlk | 7,914
 virakesarilk | 9,072
 adaderanasinhalalk | 9,651
 
@@ -26,9 +26,43 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,810 (100.0%) of 55,810 articles have been extended.
+55,811 (100.0%) of 55,812 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-11-20 (Wednesday)
+
+### நடிகர் மோகன்லால் இலங்கைக்கு வருகை
+
+*2024-11-20 00:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-மோகன்லால்-இலங்கைக்கு-வருகை/175-347471) · `ta`
+
+இலங்கை வந்த நடிகர் மோகன்லாலுக்கு ஸ்ரீலங்கன் ஏர்லைன்ஸ் சார்பாக வரவேற்பு அளிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e6d7d4be.json)
+
+---
+
+### Loan from Asian Development Bank
+
+*2024-11-20 00:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-அபிவிருத்தி-வங்கியிடமிருந்து-கடனுதவி/175-347470) · `ta`
+
+Asian Development Bank approves $200m loan for Sri Lanka to bolster its financial sector.
+
+🟩
+
+The Asian Development Bank has approved US $ 200 million loans to Sri Lanka.
+
+The Asian Development Bank said the loan would be given to help further strengthen the Sri Lankan government's financial sector.. (A)
+
+◼️
+
+[Data](articles/17078dcc.json)
+
+[Extended Data](ext_articles/17078dcc.ext.json)
+
+---
 
 ### 2024-11-19 (Tuesday)
 
@@ -2531,61 +2565,5 @@ The arrested women are between the ages of 51 and 80, from the Devanampitisa Pur
 [Data](articles/3ee98c4e.json)
 
 [Extended Data](ext_articles/3ee98c4e.ext.json)
-
----
-
-### Advice on disciplinary action
-
-*2024-11-19 10:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒழுக்காற்று-நடவடிக்கை-குறித்து-ஆலோசனை/175-347425) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Elections Commission names Ravi Karunanayake in UNP's National List. UNP members accuse him of unauthorized appointment. Party plans disciplinary action against Karunanayake.
-
-🟩
-
-The Elections Commission has released the name of former Finance Minister Ravi Karunanayake in one of the National List of the New Democratic Front.
-
-The gazette has been published amidst the infrastructure in the new Democratic Front regarding the post of Member of Parliament.
-
-The new Democratic Front has said that the party has not taken any decision to present Karunanayake, who has been proposed by the party secretary.
-
-The United National Party (UNP) was planned to allocate one seat and the other to the Sri Lanka PA, which joined former President Ranil Wickremesinghe.
-
-In addition, the party was first planned to convene today (19) to appoint those who come to Parliament from the New Democratic Front.
-
-UNP senior members have accused Ravi Karunanayake of incorporating Ravi Karunanayake to the national list without the approval of the United National Party.
-
-...
-
-[Data](articles/f5483f01.json)
-
-[Extended Data](ext_articles/f5483f01.ext.json)
-
----
-
-### The new cabinet meets today
-
-*2024-11-19 10:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-கூடுகிறது/175-347424) · `ta`
-
-New cabinet meets today at Presidential Secretariat. First meeting since ministers' appointment yesterday. Includes 7 professors, 2 doctors, 1 lawyer, 1 engineer, 7 graduates.
-
-🟩
-
-The first Cabinet meeting of the newly appointed ministers will be held today at the Presidential Secretariat.
-
-The Cabinet will meet for the first time since the new government's new ministers took office yesterday.
-
-The new cabinet of the National People's Power Government was held in the presence of President Anura Kumara Dissanayake yesterday morning.
-
-The new cabinet has seven university professors, two doctors, one lawyer, an engineer and seven graduates.
-
-◼️
-
-[Data](articles/2d810421.json)
-
-[Extended Data](ext_articles/2d810421.ext.json)
 
 ---

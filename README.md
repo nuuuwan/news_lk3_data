@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 04:25:41**
+As of **2024-11-20 05:00:09**
 
 ## Newspaper Stats
 
-*Scraped **55,817** Articles*
+*Scraped **55,819** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
 tamilmirrorlk | 7,914
-virakesarilk | 9,076
+virakesarilk | 9,078
 adaderanasinhalalk | 9,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,817 (100.0%) of 55,817 articles have been extended.
+55,819 (100.0%) of 55,819 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -59,6 +59,58 @@ U.G. Ranjith Ariyaratne – Secretary to the Minister of Urban Development, Cons
 [Data](articles/549d4ee6.json)
 
 [Extended Data](ext_articles/549d4ee6.ext.json)
+
+---
+
+### Chinese Ambassador to Sri Lanka
+
+*2024-11-20 02:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199194) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Chinese Ambassador Ke. Shenhong praised Tamil community's election choice, citing unity. He emphasized strengthening ties with both India and China economically. Mentioned ongoing aid programs like vaccines and food assistance in Northern Sri Lanka.
+
+🟩
+
+The Tamil community has made the right decision in the recent parliamentary elections. The National People's Power in the Jaffna district has received the highest number of preferential votes. Chinese Ambassador to Sri Lanka, Ke. Shenhong, said this was a symbol of unity and pluralism among the ethnicities.
+
+He was speaking at a media briefing held at the Jaffna Media Center on Tuesday (19).
+
+Sri Lanka is a long -time friend of China. Sri Lanka respects all the decisions made by the Sri Lankan government. India is the closest foreign country of Sri Lanka. So we want to strengthen the economic relationship of India and Sri Lanka. External Affairs Minister Vijitha Herath has said that Anura Kumara Dissanayake will travel to India at the end of December.
+
+This is a very happy thing. The Sri Lankan President may visit China after that. We want to strengthen the economic relationship between China and Sri Lanka.
+
+...
+
+[Data](articles/ddbc93bc.json)
+
+[Extended Data](ext_articles/ddbc93bc.ext.json)
+
+---
+
+### St. Anthony's College of St. Anthony's Girls and Ruwanwella Rajasinghe Central College visited the Presidential Office
+
+*2024-11-20 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199193) · `ta`
+
+Students from St. Anthony's College, Ruwanwella Rajasinghe Central College, and Central College of Ratnapura visited the Presidential Office on Tuesday. They toured the President's House, Colombo Port City, and Parliament. School representatives gifted mementos to the President's Secretary and received a souvenir in return. The event was attended by the Director General of Law at the President's Office.
+
+🟩
+
+Students of the Central College of Ratnapura, St. Anthony's College and Ruwanwella Rajasinghe Central College visited the President's Office on Tuesday (19).
+
+Through this program, the President's Office, the Ministry of Education and the Parliamentary Public Relations Division, the students are given the opportunity to visit the President's Office, the President's House, the Colombo Port City and Parliament.
+
+The principals and students of the respective schools presented souvenirs to the President's Secretary, Dr. Nandika Sanath Kumanayake and the presidential secretariat was presented with a memorable gift.
+
+President's Office Director General (Law) Attorney J.. M.. Bandara was also present at the event.
+
+◼️
+
+[Data](articles/baa174c2.json)
+
+[Extended Data](ext_articles/baa174c2.ext.json)
 
 ---
 
@@ -2513,45 +2565,5 @@ The bungalowers who were arrested are due to be produced before the Minuwangoda 
 [Data](articles/12b499e0.json)
 
 [Extended Data](ext_articles/12b499e0.ext.json)
-
----
-
-### Sri Lanka Banks’ Association congratulates President on NPP win
-
-*2024-11-19 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-association-congratulates-president-on-npp-win-188604/) · `en`
-
-ECONOMYNEXT – Sri Lanka Banks’ Association has congratulated President Anura Dissanayake on his party’s victory at the elections.
-
-“The Association, which represents all licenced banks in Sri Lanka, also noted that its recent interactions with the Presidential Secretariat has given it confidence in the President’s inclusive approach to problem solving,” the statement said.
-
-The people of Sri Lanka have placed their trust in you and your team, and we are confident that you will lead the nation towards prosperity with transparency and accountability.
-
-The banking sector is committed to supporting your government in the challenging journey ahead. We understand the importance of maintaining political and social stability, which is underpinned by a strong economy. As a lynchpin in this structure, the banking sector is fully committed to ensuring financial stability. Our recent interactions with the Presidential Secretariat have given us confidence in your inclusive approach to problem-solving.
-
-...
-
-[Data](articles/2e70f163.json)
-
-[Extended Data](ext_articles/2e70f163.ext.json)
-
----
-
-### 10 ministers assume duties today
-
-*2024-11-19 11:19:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇමතිවරු-10ක්-අද-වැඩ-භාර-ගනිති/11-413138) · `si`
-
-10 new ministers start duties today at 1pm: Wasantha Samarasinghe, Sunil Kumara, Dhammika Thilakarathna, Lal Kanmathilaka, Kumara Jayakody (4 times listed).
-
-🟩
-
-10 ministers who were appointed as the new government ministers are to begin their duties today. All these ministers are due to commence their duties in between 1 pm.
-
-Wasantha Samarasinghe, Sunil Kumara, Dhammikathilaka, Lal Kannathilaka, Kumara Jayakody, Kumara Jayakody, Kumara Jayakody, Kumara Jayakody, Kumara Jayakody.
-
-◼️
-
-[Data](articles/e069f6a1.json)
-
-[Extended Data](ext_articles/e069f6a1.ext.json)
 
 ---

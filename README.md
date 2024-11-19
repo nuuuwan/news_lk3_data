@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 09:30:52**
+As of **2024-11-19 10:00:51**
 
 ## Newspaper Stats
 
-*Scraped **55,694** Articles*
+*Scraped **55,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,338
 economynextcom | 3,372
 dailyftlk | 3,811
 dailymirrorlk | 4,733
-adalk | 5,225
+adalk | 5,226
 adaderanalk | 6,720
 tamilmirrorlk | 7,888
 virakesarilk | 9,043
@@ -26,35 +26,43 @@ adaderanasinhalalk | 9,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,693 (100.0%) of 55,694 articles have been extended.
+55,695 (100.0%) of 55,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### FIFA ලෝක කුසලානයට ඉදිවන ක්‍රීඩාංගණය
+### Stadium under World Cup
 
 *2024-11-19 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203519) · `si`
 
-2034 වසරේ සවුදි අරාබියේදී පැවැත්වීමට නියමිත FIFA පාපන්දු ලෝක කුසලාන තරගාවලිය වෙනුවෙන් සවුදි අරාබියේ ඉදිකිරීමට නියමිත නව පාපන්දු ක්‍රීඩාංගණයේ සැලැස්ම ඊයේ පළමුවරට මාධ්‍යට නිකුත් කළේය.
+Saudi Arabia plans to build a stadium for the 2034 FIFA World Cup. The government has chosen Riyadi as the location. A video showcasing the design was recently released, featuring a 90-meter high seating capacity and an Olympic-sized swimming pool.
 
-2034 වසරේදී පැවැත්වීමට නියමිත පාපන්දු ලෝක කුසලානය වෙනුවෙන් සත්කාරකත්වය ලබාදීමට නිතරගයෙන් තේරී පත්වී ඇත්තේ සවුදි අරාබියයි.
+🟩
 
-ඒ සත්කාරක රට තෝරාගැනීම වෙනුවෙන් 2023 අවසානයේ නියමිත කාලසීමාවට පෙර විධිමත් ලෙස ලංසුවක් ඉදිරිපත් කළ එකම රට සවුදි අරාබිය වීම නිසාවෙනි.
+The plan to be built in Saudi Arabia to be built in Saudi Arabia for the FIFA Football World Cup to be held in 2034 in 2034.
 
-තරගාවලිය පැවැත්වෙන දින තවමත් තීරණය කර නොමැති අතර 2034 පාපන්දු ලෝක කුසලානයට කණ්ඩායම් 48ක් එක්වීමට නියමිත බව සඳහන් වෙයි.
+In 2034, the soccer is elected to hosting the World Cup to the World Cup.
 
-සවුදි අරාබියේ නගර 15ක් කේන්ද්‍ර කරගනිමින් 2034 ෆිෆා පාපන්දු ලෝක කුසලානය පැවැත්වීමට සැලසුම් කර ඇත.
+At the end of the 2023, the only country has submitted a systematically bid before the due date is to be a formal bid in the 2023.
 
-මෙම පාපන්දු ලෝක කුසලානය ඉලක්ක කරගනිමින් සවුදි අරාබියේ රියාද් නගරයේ නව ක්‍රීඩාංගණයක් ඉදි කිරීමට එරට රජය තීරණය කර තිබේ.
+The tournament has not yet been decided on the date of the event, and 48 teams to the World Cup will be added to the World Cup.
 
-ඒ අනුව එම ක්‍රීඩාංගණයේ සැලැස්ම පිළිබඳ විඩියෝවක් ඊයේ මාධ්‍යට නිකුත් කෙරුණි.
+The 2034 FIFA Football World Cup has been planned to hold the 2034 FIFA Football World Cup.
 
-ප්‍රේක්ෂකයන් අනූ දෙදොහකට අසුන්ගත හැකි ආකාරයට මෙම ක්‍රීඩාංගණය ඉදිවීමට නියමිතය.
+The Government of Sri Lanka has decided to construct a new stadium in Riyadi, Saudi Arabia, targeting the World Cup.
 
-...
+A video on the plan of the stadium was released to the media yesterday.
+
+The stadium is to be built so that the audience can be heard in ninetyms.
+
+The sports complex is designed to a domestic stadium in the stadium, mixing the Olympic size swimming pool and adjacent lush landscape.
+
+◼️
 
 [Data](articles/8960843a.json)
+
+[Extended Data](ext_articles/8960843a.ext.json)
 
 ---
 
@@ -1408,6 +1416,32 @@ During his visit, Dissanayake will meet bilateral talks to meet Indian Prime Min
 
 ---
 
+### The last day informs the last day to provide electoral expenses
+
+*2024-11-18 18:16:43* · [`adalk`](https://www.ada.lk/breaking_news/අපේක්ෂක-මැතිවරණ-වියදම්-ලබාදෙන්න-අවසන්-දිනය-දැනුම්-දෙයි/11-413130) · `si`
+
+Elections Commission deadline: Political parties & independent groups must submit electoral expense reports by 12pm on 6th June. Maximum spending limits published in Gazette No. 2406/03 & 2024. Reports available at district election offices. Public display at Election Commission headquarters from 17th June.
+
+🟩
+
+The Elections Commission states that political parties, independent groups, independent groups, should be handed over to election propaganda income reports before 12 midnon on the 6th of next month.
+
+Accordingly, all political parties and independent group candidates have been handed over to the selection of the electorates in the electorate district.
+
+The election campaign and expenditure of the candidates should be handed over to the electoral propaganda and expenditure.
+
+The maximum limits that can be spent on election divisions have been published in a special gazette notification No. 2406/03 and 2024.These reports received the estimated value of their estimates to the group and the candidate, it is said that they should be donated whether they should be donated as gifts, loans, advances or deposits.
+
+It pointed out that this is available at any district election office.
+
+...
+
+[Data](articles/1e4ba09a.json)
+
+[Extended Data](ext_articles/1e4ba09a.ext.json)
+
+---
+
 ### Dr. Harini Amarasuriya assumes duties as PM
 
 *2024-11-18 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103590/dr-harini-amarasuriya-assumes-duties-as-pm) · `en`
@@ -2377,29 +2411,5 @@ President Anura Kumara Dissanayake has kept security, cash design and economic d
 [Data](articles/d471378a.json)
 
 [Extended Data](ext_articles/d471378a.ext.json)
-
----
-
-### A revelation in court regarding the Passover compensation
-
-*2024-11-18 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203496) · `si`
-
-Court ruling: Passover compensation case. Attorney General informs Supreme Court about Passover residents and terrorists. Judges order report on victim compensation. Petitions set for February 27th.
-
-🟩
-
-The Attorney General also informed the Supreme Court today, according to the courts of the panel of other residents of the Passover and the terrorists.
-
-The additional Solicitor General who appeared on behalf of the Attorney General when the fundamental rights were called for the incident.
-
-The panel of judges informed the Additional Solicitor General the General Secretary to the next day to submit a report on how to pay the victims.
-
-The petitions were then appointed to the 27th of February.
-
-◼️
-
-[Data](articles/81eec8b3.json)
-
-[Extended Data](ext_articles/81eec8b3.ext.json)
 
 ---

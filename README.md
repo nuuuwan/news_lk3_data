@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 13:26:02**
+As of **2024-11-19 13:42:32**
 
 ## Newspaper Stats
 
-*Scraped **55,724** Articles*
+*Scraped **55,725** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,232
 adaderanalk | 6,720
-tamilmirrorlk | 7,896
+tamilmirrorlk | 7,897
 virakesarilk | 9,047
 adaderanasinhalalk | 9,634
 
@@ -26,11 +26,39 @@ adaderanasinhalalk | 9,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,724 (100.0%) of 55,724 articles have been extended.
+55,725 (100.0%) of 55,725 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### Order to submit Lohan's Medical Report
+
+*2024-11-19 13:26:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-வைத்திய-அறிக்கையை-சமர்ப்பிக்க-உத்தரவு/175-347434) · `ta`
+
+Court orders medical report for Lohan Ratwatta, detained over unregistered luxury vehicle case. Report due Nov 29, hearing Dec 9.
+
+🟩
+
+The Court of Appeal today ordered the hospital authorities to submit a report on the health condition of former Minister of State Lohan Ratwatta who have been detained in the case of an unrucated luxury vehicle.
+
+Lohan Ratwatta is currently receiving treatment at the Colombo General Hospital, the court said.
+
+Former Attorney Sanjay Rajaratnam, appearing on behalf of Lohan Ratwatta, sought support for the writ application for interim relief.
+
+However, Deputy Solicitor General Shanil, who appeared on behalf of the Attorney General, said that Gularatne should present objections and filed objections against the petition.
+
+Considering the facts, the court ordered the Attorney General to file limited objections by November 29.
+
+The two -judge bench comprising Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran will take up the writ petition on December 9.
+
+...
+
+[Data](articles/e184f3a4.json)
+
+[Extended Data](ext_articles/e184f3a4.ext.json)
+
+---
 
 ### Is the gun used by the LTTE's main commanders?
 
@@ -2375,27 +2403,5 @@ The three-judge bench of the Supreme Court, after considered the facts presented
 [Data](articles/cdc67514.json)
 
 [Extended Data](ext_articles/cdc67514.ext.json)
-
----
-
-### The Prime Minister assumes duties
-
-*2024-11-18 17:41:45* · [`adalk`](https://www.ada.lk/breaking_news/අගමැතිනිය-වැඩ-භාර-ගනියි/11-413127) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Harini Amarasuriya becomes 17th PM of Sri Lanka, 3rd female PM. Sworn in today at PM's office in Malrawa.
-
-🟩
-
-Dr. Harini Amarasuriya, who was sworn in as Prime Minister's Prime Minister this morning (18th) at the Prime Minister's Office at the Prime Minister of Malrawa. She is the 17th Prime Minister of Sri Lanka and the third woman was appointed to the Prime Minister.
-
-◼️
-
-[Data](articles/dbcba36e.json)
-
-[Extended Data](ext_articles/dbcba36e.ext.json)
 
 ---

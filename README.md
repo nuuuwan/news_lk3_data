@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 12:27:51**
+As of **2024-11-19 13:26:02**
 
 ## Newspaper Stats
 
-*Scraped **55,721** Articles*
+*Scraped **55,724** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 569
+colombotelegraphcom | 570
 bbccomsinhala | 573
 islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,231
+adalk | 5,232
 adaderanalk | 6,720
-tamilmirrorlk | 7,895
+tamilmirrorlk | 7,896
 virakesarilk | 9,047
 adaderanasinhalalk | 9,634
 
@@ -26,35 +26,81 @@ adaderanasinhalalk | 9,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,719 (100.0%) of 55,721 articles have been extended.
+55,724 (100.0%) of 55,724 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### ரவி கருணாநாயக்கவின் வீட்டுக்கு பாதுகாப்பு
+### Is the gun used by the LTTE's main commanders?
+
+*2024-11-19 12:37:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-முக்கிய-தளபதிகள்-பாவித்த-துப்பாக்கியா/175-347431) · `ta`
+
+N
+
+🟩
+
+Further investigations have been carried out at a number of angles to a former soldier arrested with handguns and 143 bullets.
+
+The man who was arrested on the evening of 17.11.2024 was handed over to the Iginiyagala police in the area of ​​Vavinna Paragahale in Ampara.
+
+According to the confidential information received by the Special Task Force Intelligence Unit of the Ampara, the suspect was arrested in a home in the Wanina Paragahale area of ​​the Ikiniyagala police division.
+
+The suspect is a 51 -year -old retired Army Special Former Army Specialist and 9 MM gun and 143 bullets have been found in his home land.
+
+Did the Sandaneka person take the gun from the northern part of the war?Or is it a gun used by the LTTE's main commanders?Or is it obtained from the military barn road?Or was it brought and concealed for various crime?Further investigations are underway at various angles.
+
+...
+
+[Data](articles/98ac3586.json)
+
+[Extended Data](ext_articles/98ac3586.ext.json)
+
+---
+
+### Ravi Karunanayake's home security
 
 *2024-11-19 12:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/ரவி-கருணாநாயக்கவின்-வீட்டுக்கு-பாதுகாப்பு/52-347430) · `ta`
 
-தேசியப்பட்டியல் ஆசனம் தொடர்பான விவகாரம் சூடுபிடித்துள்ளதை அடுத்து,  ரவி கருணாநாயக்கவின் வீட்டுக்கு பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளது.
+Here's a summary of Ravi Karunanayake's home security in 200 characters:
+
+
+
+Ravi Karunanayake's residence enhanced security measures implemented due to intense political controversy surrounding his national seat.
+
+🟩
+
+Ravi Karunanayake's house has been strengthened after the issue of national seat has been heated.
 
 ◼️
 
 [Data](articles/5e3eb5e1.json)
 
+[Extended Data](ext_articles/5e3eb5e1.ext.json)
+
 ---
 
-### දකුණු අප්‍රිකාවට එරෙහි ශ්‍රී ලංකා සංචිතය නම් කෙරේ
+### Sri Lankan squad against South Africa
 
 *2024-11-19 12:07:39* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකාවට-එරෙහි-ශ්‍රී-ලංකා-සංචිතය-නම්-කෙරේ/9-413141) · `si`
 
-දකුණු අප්‍රිකා කණ්ඩායම සමග පැවැත්වීමට නියමිත ටෙස්ට් ක්‍රිකට් තරගාවලියට ක්‍රීඩා කරන ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+Here's a summary of 200 characters:
 
-ධනංජය ද සිල්වාගේ නායකත්වයෙන් නම් කර ඇති සංචිතයට ක්‍රීඩකයන් 17 දෙනුකු ඇතුලත් කර ඇත.
+
+
+Sri Lanka names 17-player squad for Test series vs South Africa. Team announced by Dhananjaya de Silva.
+
+🟩
+
+The Sri Lankan squad is named after the South African team to be held with the Test cricket tournament.
+
+There is 17 players have included 17 players to the squad, designated by Dhananjaya De Silva.
 
 ◼️
 
 [Data](articles/025987b2.json)
+
+[Extended Data](ext_articles/025987b2.ext.json)
 
 ---
 
@@ -105,6 +151,36 @@ Thondaman said on his site that it is necessary to have an opposition party in t
 [Data](articles/b42f1fd6.json)
 
 [Extended Data](ext_articles/b42f1fd6.ext.json)
+
+---
+
+### 8 Bangladeshi nationals arrested
+
+*2024-11-19 11:25:06* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශ-ජාතිකයන්-8ක්-අල්ලයි/11-413139) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+8 Bangladeshis arrested in Sri Lanka. Ages 20-30. Illegal immigrants. Arrested near Katunayake Police station. Translator needed for investigation. To appear in court on 11/19.
+
+🟩
+
+Eight bungalows of the Katunayake Police have been arrested by the Katunayake Police, Oddedimbalama area, Oddedimbalama area, exceeding Iran and Saudi Arabia.
+
+Between the age of 20 and 30, they have been illegally in violation of immigration conditions in Sri Lanka.
+
+Police have to obtain the support of a translator to further investigate further investigations.
+
+On a tip off received to the Katunayake Police, the arrest of the tourist hotel in general, Auddimbalama and Kumvina area on the night of 11/18.
+
+The bungalowers who were arrested are due to be produced before the Minuwangoda Magistrate's Court on 11/19.
+
+◼️
+
+[Data](articles/12b499e0.json)
+
+[Extended Data](ext_articles/12b499e0.ext.json)
 
 ---
 
@@ -867,6 +943,20 @@ The arrangement of information that will be useful to all MPs and obtain photogr
 [Data](articles/8d7aa674.json)
 
 [Extended Data](ext_articles/8d7aa674.ext.json)
+
+---
+
+### Expectations From The Government
+
+*2024-11-19 06:57:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/expectations-from-the-government/) · `en`
+
+The political avalanche that swept the electoral landscape due to the demand for change was unprecedented. In some electorates the majority achieved by the NPP exceeded 70 percent. The overall majority in the country was 61 percent. The avalanche swept aside many who had earned names for themselves on account of their long years of commitment to influence policies in the national interest. In their place will be a host of much younger persons who will come in with their ideals and hopes for positive change but with little experience of governance and even administration. The government is aware of this issue and has arranged for a three day workshop on parliamentary procedures, session activities and the functioning of committees.
+
+...
+
+[Data](articles/b27528a7.json)
+
+[Extended Data](ext_articles/b27528a7.ext.json)
 
 ---
 
@@ -2307,93 +2397,5 @@ Dr. Harini Amarasuriya, who was sworn in as Prime Minister's Prime Minister this
 [Data](articles/dbcba36e.json)
 
 [Extended Data](ext_articles/dbcba36e.ext.json)
-
----
-
-### Allu Arjun's 'Pushpa 2' has preceded the internet
-
-*2024-11-18 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199104) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Pushpa 2: The Rule" starring Allu Arjun releases Dec 5. Preview in Tamil, Telugu, Malayalam, Kannada, Hindi. Directed by Sukumar, music by Devi Sri Prasad. Rashmika Mandanna co-stars. Record-breaking preview views.
-
-🟩
-
-Allu Arjun, who was in high anticipation of the fans, has been released in the presence of fans.
-
-The preview of the film is being released in Tamil, Telugu, Malayalam, Kannada and Hindi and is at the forefront of the Internet.
-
-Allu Arjun, Rashmika Mantana, Bhagat Basil, Sri Leela and many others have starred in the film 'Pushpa 2- The Rule' directed by director Sukumar.
-
-The film is composed by 'Rock Star' Devi Sri Prasad on behalf of Maithri Movie Makers Company.. Ravi Shankar has co -produced a huge cost.
-
-The film will be released in Tamil, Telugu, Malayalam, Kannada and Hindi on the fifth of December at the World House.. The preview of the film was released as there is a huge expectation about the film.
-
-In this preview, the support of fans has increased as the 'Pushpa is the Barilla brand', such as stressful subtitles, vidyasin scenes and charming love scenes.. Due to this, more than four million visitors have visited the Tamil -language preview of the film 'Pushpa 2' within a short time.
-
-...
-
-[Data](articles/ec2f8be8.json)
-
-[Extended Data](ext_articles/ec2f8be8.ext.json)
-
----
-
-### Rishabh Shetty starring 'Gandhara: Chapter 1'
-
-*2024-11-18 17:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199102) · `ta`
-
-Rishabh Shetty stars in 'Gandhara: Chapter 1'. Directed by himself, it's his first film after winning the National Award for Best Actor. Produced by Vijay Grakandur under Hombale Films, it's set to release worldwide on October 2 next year.
-
-🟩
-
-Rishabh Shetty, the leading star actor of the Kannada film industry, has been officially announced on the release date of the film 'Kandara Chapter 1' which will be the hero of the Kannada film industry who won the National Award for Best Actor.
-
-Rishab Shetty is playing the lead role in the film 'Kandara Chapter 1', directed by actor and director Rishab Shetty.
-
-Details of other actors and actresses who are working on the film have not been officially released. In this case, the film crew has announced that the film will be released in the film palace worldwide on October 2 next year.
-
-The film is being produced by Vijay Grakandur on behalf of Hombale Films.
-
-Actor Rishabh Shetty - Actor Rishabh Shetty - Actor Rishabh Shetty - Actor Rishabh Shetty - Kalariyapayatu, is the director and actor of the film 'Kandara: Chapter 1', which was released in 2022 and starring Rishabh Shetty after the film 'Gandhara' won the National Award.Acting has increased the expectation of the film.
-
-◼️
-
-[Data](articles/dcefd4a9.json)
-
-[Extended Data](ext_articles/dcefd4a9.ext.json)
-
----
-
-### Notification relating to school holiday
-
-*2024-11-18 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199099) · `ta`
-
-Here's a summary of the notification in approximately 200 characters:
-
-
-
-School holiday announcement: Third term 2024 ends Nov 22. Holiday from Nov 23 to Dec 31. GCE A/L exams during this period. Second phase from Jan 1 to 17, 2025.
-
-🟩
-
-The Ministry of Education has announced a schedule for the completion and commencement of the third installment of state and state -approved private schools.
-
-Accordingly, the first phase of the third term for 2024 will be completed on the 22nd of November.
-
-Accordingly, schools will be given holidays from 23rd November 23rd 2025.
-
-The Ministry of Education said that the GCE A / L examination will be held during this period.
-
-The second phase of the third installment of 2024 will be held from January 1st to 17th of January 2025.
-
-◼️
-
-[Data](articles/6d9bd957.json)
-
-[Extended Data](ext_articles/6d9bd957.ext.json)
 
 ---

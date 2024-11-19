@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 05:50:11**
+As of **2024-11-19 06:13:29**
 
 ## Newspaper Stats
 
-*Scraped **55,666** Articles*
+*Scraped **55,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 569
 bbccomsinhala | 570
-islandlk | 3,326
+islandlk | 3,337
 economynextcom | 3,372
 dailyftlk | 3,811
 dailymirrorlk | 4,733
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,666 (100.0%) of 55,666 articles have been extended.
+55,666 (100.0%) of 55,677 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -288,6 +288,42 @@ The conference will follow the standard format of an IRC which comprises keynote
 
 ### 2024-11-18 (Monday)
 
+### Night of signature Christmas tunes
+
+*2024-11-18 23:21:00* · [`islandlk`](http://island.lk/night-of-signature-christmas-tunes/) · `en`
+
+The famous Billy Fernando, of 2FORTY2 fame, and his talented wife, Devashrie, will present ‘A Classic Christmas’ on 1st December, at the Bishop’s College Auditorium.
+
+Together, they will deliver an enchanting repertoire of Christmas classics, merging languages and styles.
+
+The evening will evoke the spirit of Christmas through music and an engaging theatrical vibe.
+
+The music will be directed by Billy himself, with a lineup of versatile musicians, to create the envisioned sound for this show.
+
+The evening’s entertainment will include such favourites as ‘Santa Baby,’ ‘Santa Claus Is Coming To Town,’ ‘Blue Christmas,’ ‘Long Time Ago In Bethlehem,’ and many more.
+
+Yohani Senevirate, who now resides in London, and a close friend of the 2FORTY2 star, mentioned to us that Billy and Devashrie got married recently.
+
+Yohani went on to say that she was there for the 2FORTY2 show, held in London recently, and “Wow! I enjoyed it thoroughly.”
+
+...
+
+[Data](articles/059bb82c.json)
+
+---
+
+### People’s role in NPP govt.
+
+*2024-11-18 23:16:00* · [`islandlk`](http://island.lk/peoples-role-in-npp-govt/) · `en`
+
+The election of the NPP as the new government of Sri Lanka is a victory for the people, whether they recognise it or not. While I don’t believe the election results reflect a major ideological shift, the government has the potential to spark one. However, for this to happen, the citizens of the country must also do their part
+
+...
+
+[Data](articles/73f6193c.json)
+
+---
+
 ### Ravi, Namal, Sathiyalingam - Released
 
 *2024-11-18 23:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-நாமல்-சத்தியலிங்கம்-வெளியானது-அதிவிசேட-வர்த்தமானி/175-347405) · `ta`
@@ -372,6 +408,36 @@ We can’t afford any more mistakes; the situation we find ourselves in today is
 
 ---
 
+### ‘Oceanista Residencies, Odiliya’s latest addition to comfort’
+
+*2024-11-18 22:59:00* · [`islandlk`](http://island.lk/oceanista-residencies-odiliyas-latest-addition-to-comfort/) · `en`
+
+Odiliya Residencies (Pvt) Ltd, a trusted and renowned name in offering luxury living spaces and residence, is set to unveil its latest venture by the famed beach in Panadura. The intended luxury apartment complex, Oceanista Residencies, surrounded from one side, the scenic beach and the Bolgoda River from the other end, will offer its residence the mixture of luxury, comfort, scenic surroundings and the opportunity to get closer to the varieties nature has to offer.
+
+The 9-storied Oceanista Residencies will include 24 luxury apartments, promising unique meaning to privacy and comfort living in a secured environment. Moreover, all 24 apartments will face the ocean over the Panadura Beach, adding uniqueness like never before. With the Bolgoda River facing the other end, Oceanista Residencies pledges the daily viewing flair from sunrise to sunset, a mind-blowing experience that surely adds serenity to a peaceful life.
+
+...
+
+[Data](articles/c51a5122.json)
+
+---
+
+### HealthRecon Connect expands global footprint with new office in Kandy
+
+*2024-11-18 22:58:00* · [`islandlk`](http://island.lk/healthrecon-connect-expands-global-footprint-with-new-office-in-kandy/) · `en`
+
+HealthRecon Connect (HRC), a leader in revenue cycle management solutions, has opened a new office in Kandy, Sri Lanka, as part of its strategic global expansion. This new 300-seat location will serve international clients in the U.S., U.K., and Australia, leveraging Kandy’s skilled workforce to enhance HRC’s services in medical billing, coding, and claims management. The office aims to create significant employment opportunities in finance, technology, and healthcare operations, underscoring HRC’s commitment to sustainable growth in emerging markets. This move highlights Sri Lanka’s potential as a strategic hub for outsourcing, strengthening HRC’s position in the industry.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/ab315f29.json)
+
+---
+
 ### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
 
 *2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380) · `en`
@@ -385,6 +451,34 @@ Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from 
 [Data](articles/b70bb8ef.json)
 
 [Extended Data](ext_articles/b70bb8ef.ext.json)
+
+---
+
+### Hela Apparel Holdings reports significantly improved financial performance in Q2 FY 2024/25
+
+*2024-11-18 22:57:00* · [`islandlk`](http://island.lk/hela-apparel-holdings-reports-significantly-improved-financial-performance-in-q2-fy-2024-25/) · `en`
+
+Hela Apparel Holdings PLC has announced a significant improvement in its financial performance during the quarter ended 30th September, with a return to operating profit for the first time in eight quarters. This positive result highlights the recovery of demand conditions in its key export markets and underscores the successful outcomes of its ongoing restructuring exercise.
+
+The Hela Group’s revenue surged by 36.5% year-on-year to Rs. 23.4 billion in the second quarter of FY 2024/25. This was primarily driven by the contribution of the recently established Brand Licensing Division, following the acquisition of UK-based Focus Brands in January 2024. Sales for the existing Private Label Manufacturing Division were also supported by the ongoing recovery in demand from its key brand partners across the US and Europe.
+
+...
+
+[Data](articles/51c3dac0.json)
+
+---
+
+### Profit-takings retard momentum in stock market trading
+
+*2024-11-18 22:52:00* · [`islandlk`](http://island.lk/profit-takings-retard-momentum-in-stock-market-trading/) · `en`
+
+The stock market yesterday kicked off on a bullish trend and moved up to 200 points but due to profit- takings it could not maintain this momentum but ended up on a positive note, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 32.21 points while S and P SL20 rose by 6.71 points. Turnover stood at Rs 5.53 billion with nine crossings.
+
+...
+
+[Data](articles/ee8326f8.json)
 
 ---
 
@@ -2010,6 +2104,18 @@ Last week’s presidential election was doubtless one of the most consequential 
 
 ---
 
+### A National Sweep from Point Pedro to Point Dondra
+
+*2024-11-18 14:19:00* · [`islandlk`](http://island.lk/a-national-sweep-from-point-pedro-to-point-dondra/) · `en`
+
+More than the actual numbers, it is the extent of the NPP’s sweep, from north to south and from west to east that is truly historic and stunningly remarkable. There is nothing to analyze here. The National Peoples’ Power (Jathika Jana Balawegaya) has led and won the most number of seats in 21 of the 22 electoral districts, with the sole exception of Batticaloa where the NPP is placed second after the ITAK.
+
+...
+
+[Data](articles/c7ca2cbb.json)
+
+---
+
 ### Prime Minister Wijayananda Dahanayake was a most unconventional character
 
 *2024-11-18 14:18:00* · [`islandlk`](http://island.lk/prime-minister-wijayananda-dahanayake-was-a-most-unconventional-character/) · `en`
@@ -2221,171 +2327,5 @@ The petitions were taken up for consideration before a three-member Supreme Cour
 [Data](articles/b3b897df.json)
 
 [Extended Data](ext_articles/b3b897df.ext.json)
-
----
-
-### Rs. 311M received as compensation Easter attack victims; SC calls for report on distribution
-
-*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
-
-The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
-
-The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
-
-Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
-
-The petitions were subsequently ordered to be recalled on February 27, 2025.
-
-The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
-
-◼️
-
-[Data](articles/d0a6ffff.json)
-
-[Extended Data](ext_articles/d0a6ffff.ext.json)
-
----
-
-### Possible impact of Trump presidency on Sri Lanka’s exports analysed by IPS
-
-*2024-11-18 13:41:00* · [`economynextcom`](https://economynext.com/possible-impact-of-trump-presidency-on-sri-lankas-exports-analysed-by-ips-188484/) · `en`
-
-ECONOMYNEXT – Given the past record of of President Donald Trump in raising import tarriffs, Colombo based Institute of Policy Studies has analysed the possible impact on Sri Lanka.
-
-“An increase in the US tariffs is likely to reduce consumer demand for imported goods,” the report, authored by Asanka Wijesinghe, said.
-
-“If an additional 20% tariff is applied on top of the existing average tariffs for all countries, estimates show that Sri Lanka’s exports to the US are expected to suffer a significant negative impact.
-
-“For example, wearing apparel, Sri Lanka’s major export sector will experience a loss of USD 187.9 Million. As a percentage, this is a contraction of 8.1% from the base year, 2022.”
-
-US Election Outcomes and Trade Policy Changes: What It Means for Sri Lanka
-
-...
-
-[Data](articles/6ab007b8.json)
-
-[Extended Data](ext_articles/6ab007b8.ext.json)
-
----
-
-### Scholarship Examination Affairs; High Court Action Order
-
-*2024-11-18 13:38:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-பரீட்சை-விவகாரம்-உயர்-நீதிமன்றம்-அதிரடி-உத்தரவு/175-347382) · `ta`
-
-Sri Lanka High Court issues interim injunction suspending Grade 05 scholarship exam 2024 release due to leaked questions controversy.
-
-🟩
-
-The Sri Lanka High Court today issued an interim injunction suspending the release of the Grade 05 scholarship examination for 2024.
-
-The court issued the order, considering the fundamental rights (FR) petition filed by a group of parents and students.
-
-The committee filed a petition challenging the Grade 05 scholarship examination held in 2024.
-
-The controversy occurred as the pioneer exam sheet was shared with the Grade 05 scholarship examination in September.
-
-The training deed with questions similar to some of the questions in the first paper of the Scholarship Examination was distributed by a private class teacher in Alawa area ahead of the exam.
-
-At the time, the Department of Examinations was investigating the complaints lodged by various parties.
-
-The complaint made by the Deputy Commissioner of Examinations has led to an inquiry by the Criminal Investigation Department (CIT).
-
-Subsequently, police arrested two suspects for allegedly leaking questions of the Grade 5 scholarship examination.
-
-...
-
-[Data](articles/395f23cf.json)
-
-[Extended Data](ext_articles/395f23cf.ext.json)
-
----
-
-### Sri Lanka’s first vision-impaired MP to receive special seating arrangement in Parliament
-
-*2024-11-18 13:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/103582/sri-lankas-first-vision-impaired-mp-to-receive-special-seating-arrangement-in-parliament-) · `en`
-
-The Secretary General of Sri Lanka’s Parliament, Kushani Rohanadeera, announced plans to introduce a special seating arrangement for the country’s first-ever vision-impaired Member of Parliament, in order to meet his requirements.
-
-She stated that the Parliament is also addressing technical adjustments to accommodate the unique requirements of the new MP.
-
-Sugath Wasantha de Silva, representing the National People’s Power (NPP), has been appointed as a Member of Parliament through the NPP’s National List, officially gazetted on Sunday (17).
-
-Before entering politics, de Silva was a prominent activist championing the rights of the visually impaired and disabled communities. He currently serves as the President of the Visually Impaired Graduates’ Council (VIGC), where he has played a pivotal role in advocating for equal opportunities and accessibility for persons with disabilities.
-
-...
-
-[Data](articles/1b29bfda.json)
-
-[Extended Data](ext_articles/1b29bfda.ext.json)
-
----
-
-### "Become a responsible and responsible"
-
-*2024-11-18 13:32:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகார-வரம்பறிந்து-பொறுப்புணர்வுடன்-செயற்படுங்கள்/175-347381) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"New Cabinet: Ministers responsible for portfolios. President emphasizes honesty and fulfilling public aspirations."
-
-🟩
-
-President Anura Kumara Dissanayake said that all ministers would be responsible for their jurisdictions and that all ministers would be responsible for their jurisdiction.
-
-Speaking to the new Cabinet, he said most ministers are new not only to the Cabinet but also to Parliament.
-
-The President said he was well aware that they were all honest and not corrupt and that they had the courage to fulfill the aspirations of the people.
-
-◼️
-
-[Data](articles/3d138f56.json)
-
-[Extended Data](ext_articles/3d138f56.ext.json)
-
----
-
-### Israel's attack in Beirut
-
-*2024-11-18 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/199075) · `ta`
-
-Israel attacks Hezbollah leader in Beirut, killing him at Baath Party HQ. Office destroyed, crowds present. Incident occurred near Ras al-Naba area.
-
-🟩
-
-The head of the Media Division of the Hesbullah organization has been killed in an attack in the Israeli Lebanon capital.
-
-He was killed in Israel's attack on the Bath Political Party headquarters in the Ras al -Naba area where the masses were crowded.
-
-The head of the murderer had held a press conference in Beirut last Monday.
-
-It is reported that the office of the Lebanon branch of Syria's Baath Party has completely destroyed the attack.
-
-◼️
-
-[Data](articles/3e01578a.json)
-
-[Extended Data](ext_articles/3e01578a.ext.json)
-
----
-
-### Interim injunction ordered to discontinue the results of the scholarship examination
-
-*2024-11-18 13:22:53* · [`adalk`](https://www.ada.lk/breaking_news/ශිෂ්‍යත්ව-විභාගයේ-ප්‍රතිඵල-නිකුත්-කිරීම-අත්හිටුවමින්-අතුරු-තහනම්-නියෝගයක්/11-413118) · `si`
-
-Supreme Court issues interim injunction against Grade 05 Scholarship Examination results.
-
-🟩
-
-The Supreme Court has issued an interim injunction order preventing the results of the Grade 05 Scholarship Examination.
-
-The order has been issued when a fundamental rights petition has been heard today (18).
-
-◼️
-
-[Data](articles/d27a7916.json)
-
-[Extended Data](ext_articles/d27a7916.ext.json)
 
 ---

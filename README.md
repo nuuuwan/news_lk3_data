@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 19:07:05**
+As of **2024-11-19 19:25:56**
 
 ## Newspaper Stats
 
-*Scraped **55,778** Articles*
+*Scraped **55,782** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,62 @@ dbsjeyarajcom | 432
 colombotelegraphcom | 570
 bbccomsinhala | 575
 islandlk | 3,338
-economynextcom | 3,382
+economynextcom | 3,384
 dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,241
 adaderanalk | 6,720
 tamilmirrorlk | 7,908
 virakesarilk | 9,059
-adaderanasinhalalk | 9,645
+adaderanasinhalalk | 9,647
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,770 (100.0%) of 55,778 articles have been extended.
+55,778 (100.0%) of 55,782 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### Hisham Jamaldeen leaves boards of Sri Lanka’s Hayleys companies
+
+*2024-11-19 19:00:00* · [`economynextcom`](https://economynext.com/hisham-jamaldeen-leaves-boards-of-sri-lankas-hayleys-companies-188598/) · `en`
+
+ECONOMYNEXT – Hisham Jamaldeen has resigned from the boards of Hayleys Plc companies, Singer (Sri Lanka) Plc, Haycarb Plc and Talawakelle Tea estates Plc, the company said in a stock exchange filling.
+
+Jamaldeen was a non-executive director. His resignation is effective from November 14.
+
+Jamaldeen is the founder and the managing director of Steradian Capital Investments (Pvt) Ltd; a real-estate investment company functioning in Asia and the UK.
+
+He is also the chairman for Ascot developments (Pvt) Ltd and the managing director and executive director at On’ally Holdings Plc.
+
+Jamaldeen is on the boards of many listed companies in Sri Lanka.
+
+◼️
+
+[Data](articles/eb6cd7a9.json)
+
+---
+
+### අපොස උසස් පෙළ ගැන නිවේදනයක්
+
+*2024-11-19 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203538) · `si`
+
+2024 අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයට අදාළව අද (19) මධ්‍යම රාත්‍රී සිට ක්‍රියාත්මක වන පරිදි විභාග අපේක්ෂකයින් සඳහා උපකාරක පංති පැවැත්වීම, සම්මන්ත්‍රණ, වැඩමුළු ආදිය පැවැත්වීම තහනම් බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+නිවේදනයක් නිකුත් කරමින් විභාග කොමසාරිස් ජනරාල් අමිත් ජයසුන්දර මහතා පැවසුවේ අද මධ්‍යම රාත්‍රී 12.00 සිට විභාගය අවසන් වන තෙක් එම කටයුතු සිදුකිරීම තහනම් බවයි.
+
+මෙම කාලය තුළ උපකාරක පංති පැවැත්වීම, සම්මන්ත්‍රණ, වැඩමුළු ආදිය පැවැත්වීමට අමතරව විභාගය සදහා අනුමාන ප්‍රශ්න පත්‍ර මුද්‍රණය කිරීම සහ ඒවා බෙදාහැරීම, විභාග ප්‍රශ්න පත්‍රවල ප්‍රශ්න ලබාදෙන බවට හෝ ඒ හා සමාන ප්‍රශ්න ලබාදෙන බවට පෝස්ටර්, බැනර්,අත්පත්‍රිකා, විද්‍යුත් හෝ මුද්‍රිත මාධ්‍ය මගින් ප්‍රසිද්ධ කිරීම හෝ ළඟ තබාගැනීම ද තහනම් වෙයි.
+
+කිසියම් තැනැත්තෙකු, ආයතනයක් හෝ යම් පාර්ශවයක් මෙම නියෝග කඩකරන්නේ නම් ඔවුන් සම්බන්ධයෙන් ළඟම පිහිටි පොලිස් ස්ථානය වෙත පැමිණිලි කළ හැකි බව ද විභාග කොමාසරිස් දෙපාර්තමේන්තුව පවසයි.
+
+...
+
+[Data](articles/e404073e.json)
+
+---
 
 ### Explanation of Parliamentary Provisions for Health
 
@@ -138,6 +176,24 @@ All the authorities should unite to manage this new chapter and make a friendly 
 
 ---
 
+### Sri Lanka President retains Finance Secretary ahead of IMF, debt deals; Foreign Secretary out
+
+*2024-11-19 18:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-retains-finance-secretary-ahead-of-imf-debt-deals-foreign-secretary-out-188785/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake retained Finance Secretary Mahinda Siriwardana under the new cabinet after his National People’s Power (NPP) secured a landslide in the parliamentary elections last week.
+
+Siriwardana was appointed as the Finance Secretary by former president Gotabaya Rajapaksa in 2022 and continued under Rajapaksa’s successor Ranil Wickremesinghe. He has been instrumental in the key negotiations with the International Monetary Fund (IMF) and debt restructuring deals since 2022.
+
+Before September 21 Presidential poll, Dissanayake’s NPP vowed to oust Siriwardana, citing adverse impacts of the country’s economic policies. The NPP also said it will renegotiate with the IMF and external private bond holders on debt restructuring.
+
+Dissanayake, however, has retained Siriwardana twice – after both his election and the last week parliamentary election.
+
+...
+
+[Data](articles/e566f848.json)
+
+---
+
 ### New Secretary to the Ministry of Foreign Affairs
 
 *2024-11-19 18:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிவிவகார-அமைச்சுக்குப்-புதிய-செயலாளர்-நியமனம்/175-347449) · `ta`
@@ -179,6 +235,20 @@ The project’s evaluation report indicated that government officials expressed 
 [Data](articles/fa8f4e14.json)
 
 [Extended Data](ext_articles/fa8f4e14.ext.json)
+
+---
+
+### නව අමාත්‍යංශ ලේකම්වරු පත් කෙරේ
+
+*2024-11-19 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203537) · `si`
+
+නව අග්‍රාමාත්‍ය ලේකම්, අමාත්‍ය මණ්ඩල ලේකම් ඇතුළු අමාත්‍යංශ 16ක් සඳහා නව ලේකම්වරුන් පත්කර තිබේ.
+
+අද (19) ජනාධිපති කාර්යාලයේදී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතාගේ ප්‍රධානත්වයෙන් එම කටයුතු සිදුකෙරුණි.
+
+◼️
+
+[Data](articles/6d3b22d5.json)
 
 ---
 
@@ -240,17 +310,27 @@ The central bank announced it would issue Rs 145,000 million Treasury bills thro
 
 ---
 
-### ඉන්ධන මිල සූත්‍රය අහෝසි කිරීමක් නෑ
+### There is no abolition of the fuel pricing
 
 *2024-11-19 16:50:29* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සූත්‍රය-අහෝසි-කිරීමක්-නෑ/11-413150) · `si`
 
-ඉන්ධන මිල සූත්‍රයක් පැවතීම හොඳ දෙයක් බවත් එය සංශෝධනය විය යුතුද යන්න සලකා බලන බවත් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පැවැසීය. අමාත්‍යාංශයේ වැඩ ආරම්භ කිරීමෙන් අනතුරුව ඔහු මේ බව පැවැසීය.
+Here's a summary of 200 characters:
 
-"ඉන්ධන මිල සූත්‍රය අහෝසි කිරීමේ අවශ්‍යතාවක් පැන නැගලා නෑ. අපි බලනවා මොකක්ද වෙන්න ඕන කියලා. ඉන්ධන මිල සූත්‍රයක් තිබෙන එක හොඳයි. ඒක සංශෝධනය කරන්න  ඕනද කියලා බලනවා. අපි අලුත් විදිහට හිතනවා. අපි ඉන්ධන මිල අඩු කරන්න තමයි හදන්නේ"
+
+
+Energy Minister Kumara Jayakody states no need to abolish fuel prices. He believes the current pricing system is good but may need revision to reduce costs. The Ministry is exploring options to lower fuel prices while maintaining an effective pricing formula.
+
+🟩
+
+Energy Minister's Engineering Kumara Jayakody said that the descendants of a fuel pricing was good and considered whether it should be amended.. He said this after the commencement of the Ministry.
+
+"No need to abolish the fuel prices. We're looking for what to be. It's good to have a fuel price formula. It is possible to revise it. We think newly. We're trying to reduce fuel prices "
 
 ◼️
 
 [Data](articles/62222ff1.json)
+
+[Extended Data](ext_articles/62222ff1.ext.json)
 
 ---
 
@@ -336,19 +416,25 @@ Wijepala won the November 14 presidential poll under the ruling National People�
 
 ---
 
-### කංචන විජේසේකර ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+### Kanchana Wijesekera to be tabled in Parliament
 
 *2024-11-19 16:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-විජේසේකර-ජාතික-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413148) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රීධුර දෙකෙන් එක් මන්ත්‍රීධුරයක් වෙනුවෙන් හිටපු අමාත්‍ය කංචන විජේසේකර මහතා පත්කිරීමට නියමිත බව වාර්තා වෙයි.
+Kanchana Wijesekera to be appointed to two national list seats in New Democratic Front. Defeated in Matara district. Ravi Karunanayake controversy over party seat allocation.
 
-කංචන විජේසේකර මහතා මාතර දිස්ත්‍රික්කයෙන් තරග කළ අතර එහිදී ඔහු පරාජයට පත්විය.
+🟩
 
-නව ප්‍රජාතන්ත්‍රවාදී පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රීධුරයෙන් එක් මන්ත්‍රීධුරයක් සඳහා මේ වන විට රවී කරුණානායක මහතාගේ නම ගැසට් කර ඇති ඒ පිළිබඳව පක්ෂය තුළ අර්බුදයක් නිර්මාණය වී තිබේ.
+Former Minister Kanchana Wijesekara is to be appointed to a seat for each of the two national list seats in the New Democratic Front.
+
+Kanchana Wijesekera contested from the Matara district and was defeated.
+
+The name of Ravi Karunanayake has made a crisis in the party for a seat for a seatment for the new Democratic Party.
 
 ◼️
 
 [Data](articles/00b2f8c6.json)
+
+[Extended Data](ext_articles/00b2f8c6.ext.json)
 
 ---
 
@@ -489,6 +575,8 @@ Top negative contributors to the ASPI were John Keells Hotels (down at 20.50), H
 ◼️
 
 [Data](articles/14b89d0c.json)
+
+[Extended Data](ext_articles/14b89d0c.ext.json)
 
 ---
 
@@ -744,6 +832,8 @@ Sri Lanka’s contribution to this number demonstrates the continued appeal of U
 
 [Data](articles/834d1d59.json)
 
+[Extended Data](ext_articles/834d1d59.ext.json)
+
 ---
 
 ### The test that came to Google Chrome
@@ -809,6 +899,8 @@ Jayatissa is a medical practitioner by profession and was in the parliament from
 ◼️
 
 [Data](articles/9eb2d626.json)
+
+[Extended Data](ext_articles/9eb2d626.ext.json)
 
 ---
 
@@ -1054,6 +1146,8 @@ Key legislative reforms of the IMF program have already been passed.
 
 [Data](articles/13f69023.json)
 
+[Extended Data](ext_articles/13f69023.ext.json)
+
 ---
 
 ### Gas cylinder fire - Safety to Ravi's house
@@ -1107,6 +1201,8 @@ She is the daughter of plantation worker parents, and has been a grassroot level
 ...
 
 [Data](articles/e4c8f310.json)
+
+[Extended Data](ext_articles/e4c8f310.ext.json)
 
 ---
 
@@ -1162,25 +1258,37 @@ It is also said that the suspects are Bangladeshi nationals between 20 and 30 ye
 
 ---
 
-### පුර සඳ වටා බැඳුණු ලොව පුරා විශේෂ සිදුවීම්
+### Special Events around the World
 
 *2024-11-19 12:41:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dr28r0e4o) · `si`
 
-දළ වශයෙන් සෑම දින 29කට වරක් පූර්ණ සඳක් ඇති වන්නේ, සූර්යයා ඍජුව පෘථිවියේ පිටුපස ස්ථානගත වී ඉන් නිකුත් වන ආලෝක කිරණ සඳ මත වැටී එමගින් සඳේ මුළු මුහුණතම ආලෝකමත් වන විට ය.
+Here's a summary of approximately 200 characters:
 
-ඉකුත් සිකුරාදා අප දුටු පූර්ණ චන්ද්‍රයා, සඳ සාමාන්‍ය ප්‍රමාණයට වඩා 14% ගුණයකින් විශාලව සහ 30% ගුණයකින් දීප්තිමත්ව, එනම් "සුපිරි සඳක්" ලෙස දුටු සිව් වන පූර්ණ සඳෙහි අවසන් අවස්ථාව වනු ඇත.
 
-සුපිරි සඳක් ලෙස හැඳින්වෙන මෙම චන්ද්‍රයා දක්නට ලැබෙන්නේ වසරකට තුන් වතාවක් හෝ සිව් වතාවක් පමණක් වන අතර ඒ හැම අවස්ථාවක ම එය අඛණ්ඩව දිස්වීම සිදුවේ.
 
-ලොව පුරා සංස්කෘතීන් සහ සම්ප්‍රදායන් හැඩගැස්වීමේදී පූර්ණ චන්ද්‍රයා වැදගත් කාර්යභාරයක් ඉටු කර තිබේ. මේ, අප විසින් ආකාශයේ සිදුවන මෙම සංසිද්ධියට සම්බන්ධ මිථ්‍යාවන්, ක්‍රියාකාරකම් සහ අර්ථයන් කිහිපයක් සම්බන්ධයෙන් කෙරෙන විමසා බැලීමකි.
+Special events around the world revolve around full moons, influencing cultures & traditions. Supermoons occur 3-4 times annually. Full moons shape calendars, harvest festivals, and religious observances globally. Lunar cycles affect human behavior, agriculture, and ocean tides.
 
-චන්ද්‍රයාගේ ගමන එනම්, එහි පුරපක්ෂය සහ අවපක්ෂය, කාලය නිර්ණය කිරීම සඳහා ප්‍රාථමික යුගයේ සිට භාවිත කර ඇත.
+🟩
 
-නූතන කොංගෝ ප්‍රජාතන්ත්‍රවාදී ජනරජයෙන් 1957දී සොයාගත් ඉෂාංගෝ අස්ථිය උදාහරණයක් ලෙස ගෙන බලමු.
+Approximately every 29 days every 29 days is directly positioned and the light rays released on the back of the moon and illuminate the moon.
+
+The full moon we saw last Friday last Friday will be 14% more than the average and 30% more than the average and 30% more than 30% more than a "super moon".
+
+The moon is known as a super moon three times a year or four times a year and it will continue to appear.
+
+The full moon has played an important role in shaping the worldwide cultures and traditions. This is an inquiry on several myths, activities, and meaningfulness that will take place in this phenomenon.
+
+The moon's journey is used from the primary age to determine its condoms, the core.
+
+Let us take the 'Ishajawo bone found in 1957 from the Democratic Republic of Modern Congo.
+
+This bone is often believed to have been obtained from a baboon animal that the bone is over 20,000 years old. It is believed to be the original form of the calendar.
 
 ...
 
 [Data](articles/3a4f4cb7.json)
+
+[Extended Data](ext_articles/3a4f4cb7.ext.json)
 
 ---
 
@@ -2483,75 +2591,5 @@ TISL monitored the recently concluded General Election with a special emphasis o
 [Data](articles/85842d29.json)
 
 [Extended Data](ext_articles/85842d29.ext.json)
-
----
-
-### Richard Pieris Group’s 1H PBT grows by  184% to Rs. 3.6 b
-
-*2024-11-19 01:56:22* · [`dailyftlk`](https://www.ft.lk/business/Richard-Pieris-Group-s-1H-PBT-grows-by-184-to-Rs-3-6-b/34-769406) · `en`
-
-Richard Pieris Group, one of Sri Lanka’s largest and most diversified conglomerates, recorded a Profit Before Tax (PBT) of Rs. 3.59 billion in the first six months of the 2024/25 financial year, recording a significant profit growth of 184% over the corresponding period from the last financial year where the company recorded a PBT of Rs. 1.26 billion.
-
-The Group’s outstanding performance for Q2 is a continuation of the progress they demonstrated in Q1 of the current financial year. It underscores the Group’s resilience in successfully facing and overcoming an uncertain domestic economic environment amidst volatile global economic factors.
-
-With more than 50 factories spread across the country, the Group continues to play a major role in manufacturing while adapting strategies to navigate external challenges. They also remain resolutely committed to creating sustainable value across diverse sectors.
-
-...
-
-[Data](articles/137c0368.json)
-
-[Extended Data](ext_articles/137c0368.ext.json)
-
----
-
-### PA congratulates NPP on resounding victory, calls for balanced long-term policy to secure plantation industry’s sustainability
-
-*2024-11-19 01:54:17* · [`dailyftlk`](https://www.ft.lk/business/PA-congratulates-NPP-on-resounding-victory-calls-for-balanced-long-term-policy-to-secure-plantation-industry-s-sustainability/34-769405) · `en`
-
-The apex body of the plantation industry in Sri Lanka, The Planters’ Association of Ceylon (PA), issued a statement congratulating President Anura Kumara Dissanayake and the National People’s Power (NPP) on their recent and resounding electoral victory.
-
-The Association also extended its congratulations to Samantha Vidyarathna on his appointment as Plantation and Community Infrastructure Minister.
-
-Furthermore, it pledged its full support towards collaborative efforts to help develop the Sri Lankan plantation industry while uplifting the communities connected to it.
-
-...
-
-[Data](articles/5f8d905d.json)
-
-[Extended Data](ext_articles/5f8d905d.ext.json)
-
----
-
-### Hotel Suppliers Association congratulates new Tourism Minister Vijitha Herath
-
-*2024-11-19 01:53:47* · [`dailyftlk`](https://www.ft.lk/business/Hotel-Suppliers-Association-congratulates-new-Tourism-Minister-Vijitha-Herath/34-769404) · `en`
-
-The Hotel Suppliers Association (HSA) has extended its congratulations to MP Vijitha Herath on his recent appointment as Tourism Minister. It also commended the National People’s Power (NPP) and Herath’s remarkable achievement in securing election to the Gampaha electorate with an impressive majority of 716,000 votes.
-
-“This extraordinary accomplishment is a testament to the trust and confidence placed in his leadership by the people of Sri Lanka,” HAS President Azad Mansoor said in a statement. “As the newly appointed Minister of Tourism, Vijitha Herath assumes a key role in shaping the future of Sri Lanka’s tourism and hospitality sectors. With tourism being one of the most vital industries in Sri Lanka’s economy—contributing significantly to economic growth, job creation, and international recognition—we are confident that Minister Herath’s leadership will continue to drive the sector towards new heights,” Munsoor added.
-
-...
-
-[Data](articles/45c3210a.json)
-
-[Extended Data](ext_articles/45c3210a.ext.json)
-
----
-
-### New era for EO Sri Lanka as 2024/2025 Board takes office
-
-*2024-11-19 01:53:14* · [`dailyftlk`](https://www.ft.lk/business/New-era-for-EO-Sri-Lanka-as-2024-2025-Board-takes-office/34-769403) · `en`
-
-The Entrepreneurs’ Organisation (EO) Sri Lanka recently ushered in a new chapter of leadership with the handover of the 2024-2025 Board.
-
-Outgoing President Haresh de Soysa, Director of Trade Promoters Ltd., passed the mantle of leadership to the newly appointed President, Naishadh Udeshi, Director of Chinese Dragon Café. This dynamic transition marks an exciting period of renewed focus and fresh initiatives for Sri Lanka’s entrepreneurial community.
-
-Since its establishment in 2017, EO Sri Lanka has grown steadily, overcoming global challenges such as the pandemic and economic uncertainty. With over 60 active members today, the chapter stands as a vibrant hub for some of the nation’s leading entrepreneurs. On the global front, EO boasts more than 19,000 members spread across 222 chapters in over 87 countries, making it one of the largest networks of business owners in the world.
-
-...
-
-[Data](articles/6cd7002d.json)
-
-[Extended Data](ext_articles/6cd7002d.ext.json)
 
 ---

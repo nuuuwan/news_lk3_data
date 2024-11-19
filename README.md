@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 11:00:10**
+As of **2024-11-19 11:26:06**
 
 ## Newspaper Stats
 
-*Scraped **55,700** Articles*
+*Scraped **55,708** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,127 @@ dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,228
 adaderanalk | 6,720
-tamilmirrorlk | 7,890
-virakesarilk | 9,043
-adaderanasinhalalk | 9,629
+tamilmirrorlk | 7,892
+virakesarilk | 9,046
+adaderanasinhalalk | 9,632
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,699 (100.0%) of 55,700 articles have been extended.
+55,705 (100.0%) of 55,708 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### புதிய அமைச்சரவை இன்று கூடுகிறது
+### Risk warning to several districts
+
+*2024-11-19 11:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-347427) · `ta`
+
+Landslide warnings issued for 9 divisional secretariats in 4 districts due to heavy rains. First-level alert for Pulath Kaiputiya, Varakapola in Kegalle; secondary warning for Ruwanwella also in Kegalle. Alerts issued for Alawa, Naramala in Kurunegala. First-level alerts for Balangoda, Imbulbe, Opanayake in Ratnapura. Warnings valid until 9:30 PM today.
+
+🟩
+
+Nine Divisional Secretariats in four districts have been issued a landslide hazard warning due to heavy rains in many parts of the country.
+
+The announcement issued by the National Building Research Institute has been extended till 9.30 pm today.
+
+The first level notification has been issued to the Pulath Kaiputiya and Varakapola Divisional Secretariat Divisions in Kegalle district.
+
+A secondary warning has been issued to the Ruwanwella Divisional Secretariat Division of the Kegalle District.
+
+Secondary announcement to Alawa and Naramala Divisional Secretariat Divisions in Kurunegala District
+
+In the Ratnapura district, the first level has been issued to the Divisional Secretariat Divisions of Balangoda, Imbulbe and Opanayake.. (R)
+
+◼️
+
+[Data](articles/25b716c9.json)
+
+[Extended Data](ext_articles/25b716c9.ext.json)
+
+---
+
+### Two arrested in Dehiwala shooting incident
+
+*2024-11-19 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199125) · `ta`
+
+Dehiwala shooting: 2 arrested over drug dispute. Police seize motorcycle, weapon, and bullets. Investigation ongoing.
+
+🟩
+
+The Southern Provincial Crime Unit of the Western Province said that two persons, including a chief gunman, were arrested on Monday (18) in connection with the shooting of a man in Nithimala, Dehiwala on September 20.
+
+Police investigations have revealed that the murder was caused by a drug dispute between two drug trafficking and underworld gang, Badovitta Kos Malli and Badowita Asanga.
+
+The arrested are the 27 -year -old man from Padukku and a 30 -year -old man from Athurugiriya.
+
+A motorcycle, gun and 8 bullets used for shooting from the suspects have been seized by the police.
+
+Further investigations are being investigated by the Western Province Southern Crime Prevention Unit.
+
+◼️
+
+[Data](articles/be317daf.json)
+
+[Extended Data](ext_articles/be317daf.ext.json)
+
+---
+
+### Advice on disciplinary action
+
+*2024-11-19 10:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒழுக்காற்று-நடவடிக்கை-குறித்து-ஆலோசனை/175-347425) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Elections Commission names Ravi Karunanayake in UNP's National List. UNP members accuse him of unauthorized appointment. Party plans disciplinary action against Karunanayake.
+
+🟩
+
+The Elections Commission has released the name of former Finance Minister Ravi Karunanayake in one of the National List of the New Democratic Front.
+
+The gazette has been published amidst the infrastructure in the new Democratic Front regarding the post of Member of Parliament.
+
+The new Democratic Front has said that the party has not taken any decision to present Karunanayake, who has been proposed by the party secretary.
+
+The United National Party (UNP) was planned to allocate one seat and the other to the Sri Lanka PA, which joined former President Ranil Wickremesinghe.
+
+In addition, the party was first planned to convene today (19) to appoint those who come to Parliament from the New Democratic Front.
+
+UNP senior members have accused Ravi Karunanayake of incorporating Ravi Karunanayake to the national list without the approval of the United National Party.
+
+...
+
+[Data](articles/f5483f01.json)
+
+[Extended Data](ext_articles/f5483f01.ext.json)
+
+---
+
+### The new cabinet meets today
 
 *2024-11-19 10:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-கூடுகிறது/175-347424) · `ta`
 
-புதிதாக நியமிக்கப்பட்டுள்ள அமைச்சர்களின் முதலாவது அமைச்சரவைக் கூட்டம் இன்று ஜனாதிபதி செயலகத்தில் நடைபெறவுள்ளது.
+New cabinet meets today at Presidential Secretariat. First meeting since ministers' appointment yesterday. Includes 7 professors, 2 doctors, 1 lawyer, 1 engineer, 7 graduates.
 
-புதிய அரசாங்கத்தின் புதிய அமைச்சர்கள் நேற்று (18) பதவியேற்ற பின்னர் முதல்முறையாக அமைச்சரவை கூடவுள்ளது.
+🟩
 
-தேசிய மக்கள் சக்தி அரசாங்கத்தின் புதிய அமைச்சரவை பதவிப் பிரமாணம் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் நேற்று காலை இடம்பெற்றது.
+The first Cabinet meeting of the newly appointed ministers will be held today at the Presidential Secretariat.
 
-புதிய அமைச்சரவையில் ஏழு பல்கலைக்கழக பேராசிரியர்கள், இரண்டு மருத்துவர்கள், ஒரு சட்டத்தரணி, ஒரு பொறியாளர் மற்றும் ஏழு பட்டதாரிகள் உள்ளனர்.
+The Cabinet will meet for the first time since the new government's new ministers took office yesterday.
+
+The new cabinet of the National People's Power Government was held in the presence of President Anura Kumara Dissanayake yesterday morning.
+
+The new cabinet has seven university professors, two doctors, one lawyer, an engineer and seven graduates.
 
 ◼️
 
 [Data](articles/2d810421.json)
+
+[Extended Data](ext_articles/2d810421.ext.json)
 
 ---
 
@@ -99,6 +191,124 @@ New government first assets this morning. The meeting will be held under the pat
 [Data](articles/c7842304.json)
 
 [Extended Data](ext_articles/c7842304.ext.json)
+
+---
+
+### The first phase of the provision of fertilizer subsidy
+
+*2024-11-19 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199116) · `ta`
+
+First phase fertilizer subsidy complete: 129,229 farmers received 1.29 billion rupees. Cultivation-based distribution planned. Polonnaruwa farmers affected by delayed water from reservoirs.
+
+🟩
+
+The first phase of the work of providing fertilizer subsidies for the farmers has been completed.
+
+The Department of Agrarian Services said that 129,229 farmers were given about 1.29 billion rupees.
+
+Meanwhile, the Commissioner of Agrarian Services Rohana Rajapakse said that the farmers will be given a fertilizer subsidy on the basis of how cultivation is being carried out.
+
+Farmers in some parts of the Polonnaruwa district have delayed the grant of farmers due to delayed water from Kirithalai and Gaudulla reservoirs.
+
+◼️
+
+[Data](articles/7d974198.json)
+
+[Extended Data](ext_articles/7d974198.ext.json)
+
+---
+
+### Two arrested for shooting municipal workers
+
+*2024-11-19 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203522) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+SLAF soldier arrested for shooting municipal worker in Mount Lavinia. Victim, 46, killed Sept 20th. Suspects arrested with motorcycle & firearm. Investigation reveals murder on contract from drug dealer Badowita Asanka. Two suspects: 27yo SLAF soldier from Hatpadhawa, 30yo from Athugiriya.
+
+🟩
+
+A SLAF Soldier arrested a SLAF soldier into the shooting of a shooting of the Mount Lavinia Municipal Council.
+
+The victim was a 46 year old, if he was killed on the 20th of September.
+
+Police have found the motorcycle, six am and the motorcycle who had manufactured by the suspects and the motorcycle used in a foreign country to shoot with suspects.
+
+The Western Province, which was conducting investigations into the murder, was arrested by a motorcycle near the Panagoda Army Camp on the 18th of this month.
+
+The police have also recovered the firearm and six amidst of the heavy manner in his baggage.
+
+Accordingly, the other man arriving in the motorcycle with the suspect was arrested in Moratalahena area in Athagiriya.
+
+Police have found the motorcycle to several sections of the arrested suspect and the Air Force in Padukka, a timely in Padukka.
+
+...
+
+[Data](articles/d0db036e.json)
+
+[Extended Data](ext_articles/d0db036e.ext.json)
+
+---
+
+### පාසල් සිසුවෙක් ධාවනය කළ ත්‍රිරෝද රථය බිහිසුණු අනතුරක
+
+*2024-11-19 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203521) · `si`
+
+පාසල් සිසුවෙකු ධාවනය කළ ත්‍රිරෝද රථයක් ප්‍රධාන මාර්ගය හරහා පෙරළීමෙන් ත්‍රිරෝද රථයේ පැදවූ සිසුවා ඇතුළු තවත් සිසුන් තිදෙනෙකු බරපතළ තුවාල ලබා තිබේ.
+
+තුවාල ලැබූ සිසුන් කඩිනමින් නාවලපිටිය දිස්ත්‍රික් රෝහලට ඇතුළත් කර ඇති බව ගිනිගත්හේන පොලීසිය පැවසීය.
+
+අනතුර සිදුව ඇත්තේ ඊයේ (18) දින පස්වරු 5ට පමණ ගිනිගත්හේන නාවලපිටිය ප්‍රධාන මාර්ගයේ ගිනිගත්හේන පුස්තකාලය අසලදීය.
+
+අනතුරෙන් තුවාල ලබා ඇත්තේ ගිනිගත්හේන කඩවල දමිළ මහා විද්‍යාලයේ 12 වසරේ අධ්‍යාපනය ලබමින් සිටින සිසුන් පිරිසකි.
+
+පාසලේ පැවති උත්සවයකින් අනතුරුව එම සිසුන් සිව්දෙනා ත්‍රිරෝද රථයෙන් නිවෙස් කරා ගමන් කරමින් සිටියදී අනතුර සිදුව තිබුණි.
+
+වංගුවක් සහිත ප්‍රදේශයේදී එම දිශාවටම ඉදිරියෙන් ධාවනය වු වෑන් රථයක් අපරික්ෂාකාරි ලෙස ඉස්සර කිරීමට උත්සාහ දැරීමේදී ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි ලංගම බස් රථයක් ත්‍රිරෝද රථයේ ගැටී මාර්ගයේ පෙරළී ගොස් තිබේ.
+
+ත්‍රිවිල් රථයේ පිටුපස අසුනේ ගමන්ගත් සිසුන් මාර්ගයට වැටී ඇති අතර, ඔවුන්ගේ ජීවිත බේරාගැනීමට ලංගම බස් රථය මාර්ගයෙන් ඉවතට ධාවනය කර ඇත.
+
+...
+
+[Data](articles/90afb3b1.json)
+
+---
+
+### වෙළෙඳසැල් හිමිකරුට එල්ල වූ මාරාන්තික ප්‍රහාරය
+
+*2024-11-19 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203520) · `si`
+
+වෙළෙඳසැලකට පැමිණි පුද්ගලයෙකු එහි හිමිකරුට තියුණු ආයුධයකින් පහරදී ඝාතනය කර තිබේ.
+
+ඊයේ (18) එම සිදුවීම වාර්තා වී තිබුණේ, ඇල්පිටිය පොලිස් වසමේ නවදගල ප්‍රදේශයේදීය.
+
+එලෙස මියගොස් ඇත්තේ, 63 හැවිරිදි ඉහළ නවදගල, ඇල්පිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+බීමත්ව වෙළෙඳසැලට පැමිණි පුද්ගලයෙකු විසින් එම ඝාතනය සිදුකර ඇති බවට පොලීසිය සිදුකළ විමර්ශනයේදී අනාවරණය වී තිබේ.
+
+සැකකරුද තුවාල ලබා ඇල්පිටිය රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/06cb84e2.json)
+
+---
+
+### ரவியின் நியமனம் தொடர்பில் ஐக்கிய தேசிய கட்சிக்கு தெரியாது - ஐ.தே.க. தவிசாளர்
+
+*2024-11-19 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199117) · `ta`
+
+தேசியப்பட்டியல் உறுப்பினராக ரவி கருணாநாயக்கவின் பெயர் அனுப்பட்டமை ஐக்கிய தேசிய கட்சிக்கு தெரியாது. அவரின் இந்த நடவடிக்கை ஐக்கிய தேசிய கட்சியின் யாப்புக்கு முரணாகும். இதுதொடர்பில் இன்று இறுதி முடிவு அறிவிக்கப்படும் என ஐக்கிய தேசிய கட்சியின் தவிசாளர் வஜிர அபேவர்தன தெரிவித்தார்.
+
+புதிய ஜனநாயக முன்னணியின் தேசியப்பட்டியல் உறுப்பினர் பதவிக்கு ரவி கருணாநாயக்கவின் பெயர் அனுப்பட்டுள்ளமை தொடர்பில் நேற்று காலியில் நடத்திய செய்தியாளர் சந்திப்பில் கருத்து தெரிவிக்கையிலேயே இவ்வாறு குறிப்பிட்டார்.
+
+ஐக்கிய தேசிய கட்சிக்கு தெரியாமலேயே ரவி கருணாநாயக்கவின் பெயர் தேசியப்பட்டியல் உறுப்பினர் பதவிக்கு நியமிக்கப்பட்டிருக்கிறது. சிலிண்டருக்கு உரித்தான அரசியல் கட்சியின் மூலமே அவரின் பெயர் வர்த்தமானியில் வெளியிட அனுப்பப்பட்டுள்ளதாகவே எமக்கு அறியக்கிடைத்திருக்கிறது.
+
+...
+
+[Data](articles/c3da0a7b.json)
 
 ---
 
@@ -2169,229 +2379,5 @@ In his art group, a young woman named Dhanam wants to dance. Dharmalingam, a rel
 [Data](articles/2114725a.json)
 
 [Extended Data](ext_articles/2114725a.ext.json)
-
----
-
-### Court yet to receive Govt. Analyst’s report on Senasinghe’s luxury vehicle
-
-*2024-11-18 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103585/court-yet-to-receive-govt-analysts-report-on-senasinghes-luxury-vehicle) · `en`
-
-The Fort Magistrate Thanuja Lakmali has ordered the issuance of a letter of reminder to the Government Analyst’s Department as the court had not received the analyst’s report regarding former MP Sujeewa Senasinghe’s luxury vehicle, worth around Rs. 100 million, which is suspected to have been illegally assembled.
-
-President’s Counsel Maithri Gunaratne, representing Sujeewa Senasinghe, stated that although the Criminal Investigation Department (CID) had previously informed the court that a case was being heard in the Chettikulam Court regarding the vehicle, the case in question has already been concluded.
-
-Accordingly, he therefore requested that the vehicle in question which is currently in the custody of the CID, be released to Sujeewa Senasinghe.
-
-After considering the facts presented, the Fort Magistrate ordered the case to be recalled on November 25 as the Government Analyst’s report has still not been received by the court.
-
-...
-
-[Data](articles/94ef0396.json)
-
-[Extended Data](ext_articles/94ef0396.ext.json)
-
----
-
-### Minister Vijitha assumes duties
-
-*2024-11-18 16:34:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-වැඩ-භාර-ගනියි/11-413123) · `si`
-
-Minister Vijitha Herath assumes duties as Foreign Affairs & Tourism Minister. Previously Transport Minister. Graduated from University of Kelaniya. Represents Gampaha district since 2000, re-elected with record votes in recent election.
-
-🟩
-
-Vijitha Herath assumed duties as Foreign Affairs and Foreign Employment and Tourism Minister. At the Ministry of External Affairs, Minister handed over his duties.
-
-He has previously served as Transport, Public Defense, Highways, Ports and Civil Aviation. Vijitha Herath is a graduate in the science of the University of Kelaniya.
-
-Minister Vijitha Herath represents Gampaha district from 2000 as a Member of Parliament. At the recent general election, he was re-elected with the highest number of preferential votes in the history of Sri Lanka.
-
-◼️
-
-[Data](articles/8b912440.json)
-
-[Extended Data](ext_articles/8b912440.ext.json)
-
----
-
-### Lady Super Star Nayanthara
-
-*2024-11-18 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199093) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nayanthara stars in "Rakai," her latest South Indian film. Directed by Senthil Nallasamy, it features music by Govind Vasantha. The period drama is produced by Trumstick Productions and Movie Verse Studios. Fans are excited as the film releases on Nayanthara's birthday.
-
-🟩
-
-Nayanthara starring Lady Super Star of the South Indian film industry, titled 'Rakai', has been released as 'Rakai'.. Fans are excited as his birthday has been released.
-
-Lady Super Star Nayanthara plays the hero of the film 'Rakai', directed by debutant director Senthil Nallasamy.. Govind Vasantha has composed the film, which is being recorded by Gautham Rajendran.
-
-The film is being made as Periodic Excise Entertainment on behalf of Trumstick Productions and Movie Verse Studios.. Sakthivel and S. Aditya Pitti are co -produced.
-
-The film crew has said that the details of the other actors in the film will be officially announced soon.
-
-Luke and its exclusive video have been released in the title of 'Rakai' which is ready to act on Nayanthara's birthday.This has encouraged his fans.
-
-◼️
-
-[Data](articles/3cc4a979.json)
-
-[Extended Data](ext_articles/3cc4a979.ext.json)
-
----
-
-### Vijitha is assumed duties
-
-*2024-11-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203500) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Vijitha Herath sworn in as Minister of External Affairs, Foreign Employment, and Tourism. Previously served as Transport, Highways, Ports, and Civil Aviation Minister. Also held Cultural Affairs and National Heritage portfolio from 2004-2005.
-
-🟩
-
-Vijitha Herath took sworn in as the Minister of External Affairs and Foreign Employment and Tourism.
-
-He has previously served as Transport, Highways, Ports and Civil Aviation Minister.
-
-He had also served as the Minister of Cultural Affairs and National Heritage at the time in 2004-2005.
-
-◼️
-
-[Data](articles/92c26f5d.json)
-
-[Extended Data](ext_articles/92c26f5d.ext.json)
-
----
-
-### The husband commits suicide by killing his wife and injured his mother
-
-*2024-11-18 16:12:56* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-ඝාතනය-කර-නැන්දණියට-බරපතල-තුවාල-කර-සැමියා-දිවි-නසා-ගනියි/11-413122) · `si`
-
-Husband kills wife, injures mother in Wakampestuwa. Victim identified as 30-year-old Lokbandy Sonyatera Kumari. Incident under investigation.
-
-🟩
-
-The afternoon husband says that the suspect is suicide by a sharp weapon and murdered his wife and killed his wife.
-
-The incident has occurred in the Wakampestuwa area in Moragoda.
-
-The police say that the victim was a 30 year old Lokbandy Sonyatera Kumari, a 30-year-old resident of the Wanmpodorah in Wanmpodorah, police said.
-
-The woman had been admitted to the Payirimale hospital for further treatment, along with the motherland in a serious situation.
-
-The police say that after the murder, the victim was a 30 year old resident of the Wakumarma area.
-
-◼️
-
-[Data](articles/c73b8d17.json)
-
-[Extended Data](ext_articles/c73b8d17.ext.json)
-
----
-
-### Husband
-
-*2024-11-18 16:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனைவியை-நண்பனுக்கு-விருந்தாக்கிய-கணவன்/76-347386) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A 42-year-old husband is sought after allegedly raping his intoxicated wife in Kottaweragala. He had left her at a brick workshop earlier. The suspect, 40, has been arrested; the victim's family has fled.
-
-🟩
-
-Police are searching for a husband who was a 42 -year -old wife who was intoxicated to a alcoholic in the Kottaweragala area of ​​the Wellawaya Police Division.
-
-While the victim is living in the area with her three children and her husband, it is reported that two senior children are working in other areas.
-
-On the 9th, the woman's husband, her friend Saminda's brick workshop, went to her three -wheeler in her three -wheeler at 4 pm and left the two drinking water and left at 9.30 pm.
-
-Later, the woman went to the room with her 12 -year -old boy and was asleep until her husband arrived.
-
-At 12 o'clock midnight, her husband, Saminda, drinking alcohol again and dragging the woman into a different room and putting the pillow on his face, saying, "fulfill your desire."
-
-Then again at 4 am, her husband raped her
-
-According to the information available, the suspect, a 40 -year -old man, has been arrested and the person who was committed to the incident has fled the area.
-
-◼️
-
-[Data](articles/fdeeb4f2.json)
-
-[Extended Data](ext_articles/fdeeb4f2.ext.json)
-
----
-
-### One person arrested with drugs in Kalkisa
-
-*2024-11-18 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199085) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Person arrested in Kalkisa with ice & heroin. Raid conducted by Police Special Task Force. Suspect aged 33 found with 15g ice, 840mg heroin, and 14,500 rupees. Handed over to local police station for investigation.
-
-🟩
-
-A suspect has been arrested on Sunday (17) with ice and heroin drugs in the area of ​​the Mount Lavinia Police Division, police Special Task Force said.
-
-The suspect has been arrested during a raid carried out on information received by the Police Special Task Force.
-
-The arrested suspect is 33 years old from Kalkissa.
-
-15 grams of 555 milligrams of ice from the suspect, 840 milligrams of heroin, and 14,500 rupees suspected of being earned by drug trafficking.
-
-Subsequently, the suspect has been handed over to the Malkisa Police Station for further investigations.
-
-◼️
-
-[Data](articles/bf5fb15a.json)
-
-[Extended Data](ext_articles/bf5fb15a.ext.json)
-
----
-
-### Strong American Weapons toward Russia
-
-*2024-11-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203499) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US provides long-range missiles to Ukraine, raising concerns about potential escalation. Russia warns against such actions, fearing it could lead to World War III. Ukraine claims readiness to use ATACMS missiles, but Russia's response remains uncertain.
-
-🟩
-
-International media has reported that US President Joe Biden has reportedly taken a decisive change in the Ukrainian war as well as a movement of dangerous growth.
-
-It is granting the modern arms for the Russian land, including the long-distance missiles provided by the US.
-
-Ukrainian President Woworer Selenceki was a long time that the US missile would be able to do in the interior of the Russian ground in the Russian area.
-
-However, the Western countries including the US, including the US, have not been approved in Ukraine, including the warning of the war and the warnings of Russia.
-
-Reviews have introduced this as a remarkable change in Ukrainian war in the US policy.
-
-The President's Bideon has made this decision is a significant fact that Demond Trump is the defeat of the Ukrainian war.
-
-However, the current President Joe Biden is further sworn in as the Tom 20th of January.
-
-Therefore, the steps he takes has not been clear to how the trump administration affects the next tramp.
-
-...
-
-[Data](articles/2dcb260c.json)
-
-[Extended Data](ext_articles/2dcb260c.ext.json)
 
 ---

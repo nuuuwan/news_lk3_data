@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 22:41:34**
+As of **2024-11-19 23:00:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,650
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,799 (100.0%) of 55,800 articles have been extended.
+55,800 (100.0%) of 55,800 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -422,15 +422,17 @@ All the authorities should unite to manage this new chapter and make a friendly 
 
 ---
 
-### නව ලේකම්වරුන් පත් කරයි
+### Appoints new secretaries
 
 *2024-11-19 18:11:56* · [`adalk`](https://www.ada.lk/breaking_news/නව-ලේකම්වරුන්-පත්-කරයි/11-413154) · `si`
 
-නව අග්‍රාමාත්‍ය ලේකම්, අමාත්‍ය මණ්ඩල ලේකම් ඇතුළු අමාත්‍යාංශ 16ක් සඳහා නව ලේකම්වරු පත් කිරීම ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතාගේ  ප්‍රධානත්වයෙන් ජනාධිපති කාර්යාලයේදී අද (19) සිදුකෙරිණි. එම නාම ලේඛනය පහත පරිදි වේ.
+New Prime Minister's Secretary and the Secretary to the Presidential Secretariat was chaired by President's Secretary Dr. Nandika Sanath Prince. The list is as follows.
 
 ◼️
 
 [Data](articles/c9f6f5a6.json)
+
+[Extended Data](ext_articles/c9f6f5a6.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 16:59:42**
+As of **2024-11-19 16:41:35**
 
 ## Newspaper Stats
 
-*Scraped **55,760** Articles*
+*Scraped **55,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,83 +16,21 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,238
+adalk | 5,237
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
-virakesarilk | 9,059
+virakesarilk | 9,056
 adaderanasinhalalk | 9,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,756 (100.0%) of 55,760 articles have been extended.
+55,756 (100.0%) of 55,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
-
-### சிறுவர்களிடையே வைரஸ்,டெங்கு காய்ச்சல் பரவல் அதிகரிப்பு - விசேட வைத்திய நிபுணர்
-
-*2024-11-19 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199168) · `ta`
-
-நாட்டில்  சிறுவர்களிடையே வைரஸ் காய்ச்சல், டெங்கு போன்றவை அதிகளவு பரவி வருவதாக சிறுவர் நல விசேட வைத்திய நிபுணர் தீபால் பெரேரா தெரிவித்துள்ளார்.
-
-சிறுவர்களிடையே  இருமல், சளி, உடல்வலி மற்றும் அவ்வப்போது வாந்தி போன்ற வைரஸ் காய்ச்சலின் அறிகுறிகள் தென்படுகின்றன.
-
-சிறுவர்களிடையே குறிப்பாக காய்ச்சல் மூன்று நாட்களுக்கு மேல் நீடித்தால்,  நோய் அறிகுறிகளை உன்னிப்பாகக் அவதானித்து பெற்றோர்கள் வைத்தியர்  உதவியை நாட வேண்டும்.
-
-தற்போது பாடசாலை மாணவர்களிடையே கை, கால் மற்றும் வாய் நோய் (HFMD) பரவி வருகிறது.
-
-சிறுவர்களின் உள்ளங்கைகள் மற்றும் உள்ளங்கால்களில், வாயைச் சுற்றி அல்லது மேல் பிட்டங்களில் சிறிய நீள்வட்ட வடிவில் வெள்ளை கொப்புளங்கள், அதே போல் வாயில் பழுப்பு அல்லது சிவப்பு தோல் மற்றும் அரிப்பு போன்ற அறிகுறிகள் இருக்கின்றதா என பெற்றோர்கள் அவதானிக்க வேண்டும்.
-
-இந்த அறிகுறிகளில் சில இன்ப்ளூயன்ஸாவின் அறிகுறிகளைப் போலவே இருப்பதாக பெற்றோருக்குத் தெரிவிக்கப்பட்டுள்ளது, எனவே காய்ச்சல் தொடர்ந்தால் மருத்துவ ஆலோசனையைப் பெறுவது அவசியம்.
-
-...
-
-[Data](articles/f8cf9552.json)
-
----
-
-### வெளிநாட்டு துப்பாக்கி, தோட்டாக்களுடன் முதியவர் கைது !
-
-*2024-11-19 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199159) · `ta`
-
-கண்டி, அலவத்துகொட பொலிஸ் பிரிவிற்கு உட்பட்ட துனுவில பிரதேசத்தில் வெளிநாட்டில் தயாரிக்கப்பட்ட துப்பாக்கி மற்றும்  தோட்டாக்களுடன் முதியவர் ஒருவர் நேற்று திங்கட்கிழமை (18) கைது செய்யப்பட்டுள்ளதாக அலவத்துகொட பொலிஸார் தெரிவித்தனர்.
-
-அலவத்துகொட பொலிஸாருக்குக் கிடைத்த தகவலின் அடிப்படையில்  மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் கண்டி, அக்குறனை பிரதேசத்தில் வசிக்கும் 70 வயதுடைய முதியவர் ஆவார்.
-
-சந்தேக நபரிடம் இருந்து போர் 12 ரக துப்பாக்கி ஒன்றும் 06 தோட்டாக்களும் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/3ed2e956.json)
-
----
-
-### 100 crores worth of drug pills
-
-*2024-11-19 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
-
-Colombo customs seize Rs 100 crore drug pills targeting schoolchildren.
-
-🟩
-
-Customs officials have seized about Rs 100 crore from a barn at the Colombo port premises.
-
-The drug pills have been seized by a trader in the Pettah area in 36 illegally imported boxes from India.
-
-Customs officials said the drug pills have been brought in targeting schoolchildren.
-
-◼️
-
-[Data](articles/f042dc79.json)
-
-[Extended Data](ext_articles/f042dc79.ext.json)
-
----
 
 ### The Promise of the Ministry of Police
 
@@ -148,6 +86,28 @@ From the arrested suspect, 05 grams of 320 milligrams of heroin has been seized 
 
 ---
 
+### 100 crores worth of drug pills
+
+*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
+
+Colombo customs seize Rs 100 crore drug pills targeting schoolchildren.
+
+🟩
+
+Customs officials have seized about Rs 100 crore from a barn at the Colombo port premises.
+
+The drug pills have been seized by a trader in the Pettah area in 36 illegally imported boxes from India.
+
+Customs officials said the drug pills have been brought in targeting schoolchildren.
+
+◼️
+
+[Data](articles/f042dc79.json)
+
+[Extended Data](ext_articles/f042dc79.ext.json)
+
+---
+
 ### 18 kg of Grease bucket magic in the Transport Board !!
 
 *2024-11-19 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199148) · `ta`
@@ -165,20 +125,6 @@ Here's a summary of the text in approximately 200 characters:
 [Data](articles/1be3464b.json)
 
 [Extended Data](ext_articles/1be3464b.ext.json)
-
----
-
-### සභානායක බිමල් රත්නායක
-
-*2024-11-19 16:00:44* · [`adalk`](https://www.ada.lk/breaking_news/සභානායක-බිමල්-රත්නායක/11-413146) · `si`
-
-10වන පාර්ලිමේන්තුවේ සභානායක ලෙස අමාත්‍ය බිමල් රත්නායක මහතා පත්කර තිබේ.
-
-බිමල් රත්නායක මහතා නව ආණ්ඩුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යවරයා ලෙස කටයුතු කරයි.
-
-◼️
-
-[Data](articles/e75fbb93.json)
 
 ---
 
@@ -363,22 +309,6 @@ Health and Mass Media Minister Dr. Nalinda Jayatissa has been appointed as a med
 [Data](articles/4e289b24.json)
 
 [Extended Data](ext_articles/4e289b24.ext.json)
-
----
-
-### தமிழர்களின் ஆதரவை பெற்று ஜனாதிபதி வரலாற்றில் இடம் பிடித்துள்ளார் - உதய கம்மன்பில
-
-*2024-11-19 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199150) · `ta`
-
-வடக்கு மற்றும் கிழக்கு மாகாணங்களின் ஆதரவை முழுமையாக பெற்ற ஜனாதிபதி அநுரகுமார திசாநாயக்க மாயாஜால வித்தைக்காரர் என்றே குறிப்பிட வேண்டும்.  பொதுத்தேர்தலில் தமிழர்களின் ஆதரவை பெற்று ஜனாதிபதி வரலாற்றில் இடம் பிடித்துள்ளதை வெளிப்படையாக ஏற்றுக்கொள்ள வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும், முன்னாள் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
-
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சி காரியாலயத்தில் நேற்று செவ்வாய்க்கிழமை நடைபெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-இலங்கை பொதுத்தேர்தல் வரலாற்றில் தனித்த அரசியல் கட்சி ஒன்று வடக்கு மற்றும் கிழக்கு மாகாணங்களில் தனித்து வெற்றிப் பெற்றுள்ளமை இதுவே முதல் தடவையாகும். ஜனாதிபதி  அநுரகுமார திசாநாயக்க வடக்கு மற்றும் கிழக்கு மக்களின் ஆதரவை முழுமையாக வென்று வரலாற்றில் இடம் பிடித்துள்ளதை வெளிப்படையாகவே ஏற்றுக்கொள்ள வேண்டும்.
-
-...
-
-[Data](articles/b80316e7.json)
 
 ---
 
@@ -2463,5 +2393,77 @@ Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from 
 [Data](articles/b70bb8ef.json)
 
 [Extended Data](ext_articles/b70bb8ef.ext.json)
+
+---
+
+### Hela Apparel Holdings reports significantly improved financial performance in Q2 FY 2024/25
+
+*2024-11-18 22:57:00* · [`islandlk`](http://island.lk/hela-apparel-holdings-reports-significantly-improved-financial-performance-in-q2-fy-2024-25/) · `en`
+
+Hela Apparel Holdings PLC has announced a significant improvement in its financial performance during the quarter ended 30th September, with a return to operating profit for the first time in eight quarters. This positive result highlights the recovery of demand conditions in its key export markets and underscores the successful outcomes of its ongoing restructuring exercise.
+
+The Hela Group’s revenue surged by 36.5% year-on-year to Rs. 23.4 billion in the second quarter of FY 2024/25. This was primarily driven by the contribution of the recently established Brand Licensing Division, following the acquisition of UK-based Focus Brands in January 2024. Sales for the existing Private Label Manufacturing Division were also supported by the ongoing recovery in demand from its key brand partners across the US and Europe.
+
+...
+
+[Data](articles/51c3dac0.json)
+
+[Extended Data](ext_articles/51c3dac0.ext.json)
+
+---
+
+### Profit-takings retard momentum in stock market trading
+
+*2024-11-18 22:52:00* · [`islandlk`](http://island.lk/profit-takings-retard-momentum-in-stock-market-trading/) · `en`
+
+The stock market yesterday kicked off on a bullish trend and moved up to 200 points but due to profit- takings it could not maintain this momentum but ended up on a positive note, market analysts said.
+
+Amid those developments both indices moved upwards. The All Share Price Index went up by 32.21 points while S and P SL20 rose by 6.71 points. Turnover stood at Rs 5.53 billion with nine crossings.
+
+...
+
+[Data](articles/ee8326f8.json)
+
+[Extended Data](ext_articles/ee8326f8.ext.json)
+
+---
+
+### President urges IMF to strike a balance in Sri Lanka’s economic recovery program
+
+*2024-11-18 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103597/president-urges-imf-to-strike-a-balance-in-sri-lankas-economic-recovery-program) · `en`
+
+The government of President Anura Kumara Dissanayake has reaffirmed its readiness to collaborate with the International Monetary Fund (IMF) to advance Sri Lanka’s economic recovery within the context of the mandate.
+
+Senior Mission Chief Peter Breuer and the IMF delegation met with President Dissanayake and key ministers of the newly-formed government at the Presidential Secretariat today (18), to discuss the next steps in the IMF program, the President’s Media Division (PMD) reported.
+
+The IMF team congratulated the President and his government on their decisive electoral victory, expressing optimism about the collaboration.
+
+President Dissanayake, in turn, underscored his administration’s responsibility to uphold the people’s mandate, emphasizing that the success of the IMF program hinges on rebuilding public trust in governance.
+
+...
+
+[Data](articles/5235592c.json)
+
+[Extended Data](ext_articles/5235592c.ext.json)
+
+---
+
+### Over 46kg heroin found in fishing trawler intercepted on high seas; 5 arrested
+
+*2024-11-18 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103596/over-46kg-heroin-found-in-fishing-trawler-intercepted-on-high-seas-5-arrested) · `en`
+
+The Sri Lanka Navy says that more than 46kg of heroin with an estimated street value exceeding Rs. 1,152 million was found inside a local multi-day fishing trawler intercepted during a special operation on the high seas about 110 nautical miles (200km) west of Sri Lanka.
+
+The operation, conducted by SLNS Nandimithra, resulted in the apprehension of 05 suspects linked to the illicit activity, the navy said.
+
+Upon escorting the vessel to Galle Harbour, a detailed inspection uncovered approximately 46kg and 116g of heroin, concealed in 40 parcels packed into 02 sacks. The seized narcotics are estimated to have a street value exceeding Rs. 1152 million.
+
+Based on intelligence received, the Sri Lanka Navy had launched this special operation, deploying SLNS Nandimithra to intercept the suspicious local multi-day fishing trawler on the high seas west of Sri Lanka on Saturday (16).
+
+...
+
+[Data](articles/725062d0.json)
+
+[Extended Data](ext_articles/725062d0.ext.json)
 
 ---

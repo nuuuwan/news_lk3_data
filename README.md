@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 06:13:29**
+As of **2024-11-19 07:30:02**
 
 ## Newspaper Stats
 
-*Scraped **55,677** Articles*
+*Scraped **55,680** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 569
 bbccomsinhala | 570
-islandlk | 3,337
+islandlk | 3,338
 economynextcom | 3,372
 dailyftlk | 3,811
 dailymirrorlk | 4,733
 adalk | 5,223
 adaderanalk | 6,720
-tamilmirrorlk | 7,882
+tamilmirrorlk | 7,884
 virakesarilk | 9,043
 adaderanasinhalalk | 9,622
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,622
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,666 (100.0%) of 55,677 articles have been extended.
+55,669 (100.0%) of 55,680 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -204,6 +204,42 @@ As Sri Lanka begins a new era under your leadership and the new Government, we a
 
 ---
 
+### டெங்கு நோயாளர்கள் அதிகரிப்பு
+
+*2024-11-19 00:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-347408) · `ta`
+
+அதிகளவான டெங்கு நோயாளர்கள் கொழும்பு மாவட்டத்திலிருந்து பதிவாகியுள்ள நிலையில் அவர்களின் மொத்த எண்ணிக்கை 11,078 ஆகும்.  கம்பஹா, களுத்துறை, கண்டி, இரத்தினபுரி மற்றும் யாழ்ப்பாணம் ஆகிய மாவட்டங்களிலிருந்தும் அதிகளவான டெங்கு நோயாளர்கள் பதிவாகியுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/e1390d43.json)
+
+---
+
+### Jaishankar congratulates Vijitha Hera
+
+*2024-11-19 00:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்திற்கு-ஜெய்சங்கர்-வாழ்த்து/175-347407) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Indian Foreign Minister Jaishankar congratulates Vijitha Hera. He expresses readiness to strengthen India-Sri Lanka partnership.
+
+🟩
+
+Indian Foreign Minister S.. Jaishankar congratulated.
+
+The Indian Foreign Minister has said that he is ready to work together to further strengthen the partnership between India and Sri Lanka.. (A)
+
+◼️
+
+[Data](articles/415f8e1e.json)
+
+[Extended Data](ext_articles/415f8e1e.ext.json)
+
+---
+
 ### President - IMF. Meeting between representatives
 
 *2024-11-19 00:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஐ-எம்-எப்-பிரதிநிதிகள்-இடையே-சந்திப்பு/175-347406) · `ta`
@@ -310,6 +346,8 @@ Yohani went on to say that she was there for the 2FORTY2 show, held in London re
 
 [Data](articles/059bb82c.json)
 
+[Extended Data](ext_articles/059bb82c.ext.json)
+
 ---
 
 ### People’s role in NPP govt.
@@ -321,6 +359,8 @@ The election of the NPP as the new government of Sri Lanka is a victory for the 
 ...
 
 [Data](articles/73f6193c.json)
+
+[Extended Data](ext_articles/73f6193c.ext.json)
 
 ---
 
@@ -566,6 +606,30 @@ Accordingly, if any information about the above person is, the police have reque
 
 ---
 
+### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
+
+*2024-11-18 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
+
+The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
+
+The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
+
+“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
+
+“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
+
+“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
+
+...
+
+[Data](articles/e2c3e1a7.json)
+
+[Extended Data](ext_articles/e2c3e1a7.ext.json)
+
+---
+
 ### Order the suspects looting a doctor's money
 
 *2024-11-18 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203510) · `si`
@@ -761,30 +825,6 @@ The President has issued a dedication of the government to find a solution to th
 [Data](articles/eee762b9.json)
 
 [Extended Data](ext_articles/eee762b9.ext.json)
-
----
-
-### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
-
-*2024-11-18 19:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
-
-The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
-
-The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
-
-“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
-
-“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
-
-“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
-
-...
-
-[Data](articles/e2c3e1a7.json)
-
-[Extended Data](ext_articles/e2c3e1a7.ext.json)
 
 ---
 
@@ -2279,53 +2319,5 @@ His appointment is considered very important as he will act in parliament as the
 [Data](articles/4221b49d.json)
 
 [Extended Data](ext_articles/4221b49d.ext.json)
-
----
-
-### Sugath Wasantha de Silva, who changed Parliamentary History
-
-*2024-11-18 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203492) · `si`
-
-Sugath Wasantha de Silva: First visually impaired MP in Sri Lanka's history. Born 1967, became blind in childhood. Graduated with honors in history. Elected via national list in 2020 general election. Represents visually impaired, hearing-impaired, and intellectually disabled communities. Aims to improve lives of disabled individuals in Sri Lanka.
-
-🟩
-
-Sri Lanka's first parliamentary-impaired person is the first to be visually impaired by a parliamentary delegation.
-
-He was elected to Parliament with a national list of national list in this year's general election.
-
-He was born on July 26, 1967 in Balapitiya, Balapitiya.
-
-In the fifth grade, a ball has come to an end to a chance after hitting cricket.
-
-After the accident, Sikugu was admitted to the Blind College, Ratmalana.
-
-...
-
-[Data](articles/99dc3e5c.json)
-
-[Extended Data](ext_articles/99dc3e5c.ext.json)
-
----
-
-### Rs. 311M received as compensation for Easter attack victims; SC calls for report on distribution
-
-*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-for-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
-
-The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
-
-The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
-
-Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
-
-The petitions were subsequently ordered to be recalled on February 27, 2025.
-
-The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
-
-◼️
-
-[Data](articles/b3b897df.json)
-
-[Extended Data](ext_articles/b3b897df.ext.json)
 
 ---

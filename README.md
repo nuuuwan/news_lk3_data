@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 11:00:10**
+As of **2024-11-19 11:42:43**
 
 ## Newspaper Stats
 
-*Scraped **55,700** Articles*
+*Scraped **55,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,40 +13,226 @@ dbsjeyarajcom | 432
 colombotelegraphcom | 569
 bbccomsinhala | 571
 islandlk | 3,338
-economynextcom | 3,372
+economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,228
+adalk | 5,229
 adaderanalk | 6,720
-tamilmirrorlk | 7,890
-virakesarilk | 9,043
-adaderanasinhalalk | 9,629
+tamilmirrorlk | 7,894
+virakesarilk | 9,047
+adaderanasinhalalk | 9,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,699 (100.0%) of 55,700 articles have been extended.
+55,708 (100.0%) of 55,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### புதிய அமைச்சரவை இன்று கூடுகிறது
+### தேசிய பட்டியலுக்கு காஞ்சனவை பரிந்துரைக்கிறார் ஜீவன்
+
+*2024-11-19 11:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியலுக்கு-காஞ்சனவை-பரிந்துரைக்கிறார்-ஜீவன்/175-347429) · `ta`
+
+புதிய பாராளுமன்றத்திற்கு எதிர்க்கட்சியில் அனுபவம் வாய்ந்த அரசியல்வாதிகள் தேவை என்பதை எடுத்துக்காட்டி, கட்சியின் எஞ்சிய தேசியப்பட்டியல் ஆசனத்திற்கு முன்னாள் மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகரவை பரிசீலிக்குமாறு தேசிய ஜனநாயக முன்னணியிடம் (NDF) முன்னாள் அமைச்சர் ஜீவன் தொண்டமான் வலியுறுத்தியுள்ளார்.
+
+பாராளுமன்றத்தில் தேசிய மக்கள் சக்தி (NPP) அரசாங்கத்தின் பெரும்பான்மையை கருத்தில் கொண்டு, அரசை பொறுப்புக்கூறும் வகையில் செயற்படுத்த , நடைமுறையிலுள்ள சீர்திருத்தங்கள் தொடர்பில் அனுபவமிக்க பாராளுமன்ற உறுப்பினர்களை எதிர்க்கட்சி கொண்டிருப்பது அவசியமென தனது எக்ஸ் தளத்தில் தொண்டமான் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/b42f1fd6.json)
+
+---
+
+### Sri Lanka Banks’ Association congratulates President on NPP win
+
+*2024-11-19 11:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-banks-association-congratulates-president-on-npp-win-188604/) · `en`
+
+ECONOMYNEXT – Sri Lanka Banks’ Association has congratulated President Anura Dissanayake on his party’s victory at the elections.
+
+“The Association, which represents all licenced banks in Sri Lanka, also noted that its recent interactions with the Presidential Secretariat has given it confidence in the President’s inclusive approach to problem solving,” the statement said.
+
+The people of Sri Lanka have placed their trust in you and your team, and we are confident that you will lead the nation towards prosperity with transparency and accountability.
+
+The banking sector is committed to supporting your government in the challenging journey ahead. We understand the importance of maintaining political and social stability, which is underpinned by a strong economy. As a lynchpin in this structure, the banking sector is fully committed to ensuring financial stability. Our recent interactions with the Presidential Secretariat have given us confidence in your inclusive approach to problem-solving.
+
+...
+
+[Data](articles/2e70f163.json)
+
+---
+
+### இனி இராஜாங்க அமைச்சர்கள் இல்லை
+
+*2024-11-19 11:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இராஜாங்க-அமைச்சர்கள்-இல்லை/175-347428) · `ta`
+
+முந்தைய விதிகளின் நடைமுறையிலிருந்து விலகி, புதிய அரசாங்கம் இராஜாங்க அமைச்சர்கள் என்ற கருத்தை ரத்து செய்ய முடிவு செய்துள்ளது, ஆனால் அதற்கு பதிலாக 26-28 துணை அமைச்சர்கள் ஓரிரு நாட்களில் நியமிக்கப்படுவர் என அமைச்சர் ஒருவர் நேற்று தெரிவித்தார்.
+
+புதிதாக பதவிப்பிரமாணம் செய்து கொண்ட சுகாதார மற்றும் ஊடகத்துறை அமைச்சரான டொக்டர் நளிந்த ஜயதிஸ்ஸ, பிரதி அமைச்சர்கள் நியமனம் விரைவில் இடம்பெறும் என டெய்லி மிரருக்கு தெரிவித்தார். தேர்தலுக்கு முன்னதாக நாட்டிற்கு முன்வைக்கப்பட்ட கொள்கை விஞ்ஞாபனத்தில் குறிப்பிடப்பட்டுள்ளவாறே இராஜாங்க அமைச்சர்கள் நியமிக்கப்பட மாட்டார்கள் என அவர் தெரிவித்துள்ளார்.
+
+சில அமைச்சரவை பதவிகளுக்கு பிரதி அமைச்சர்கள் நியமிக்கப்படுவார்களா அல்லது அனைவருக்கும் நியமிக்கப்படுவார்களா என கேட்டபோது,
+
+அமைச்சின் செயலாளர்களும் மாற்றப்படுவார்கள், மீண்டும் நியமிக்கப்படுவார்கள் அல்லது புதிதாக நியமிக்கப்படுவார்கள், ஆனால் இறுதி முடிவு இன்னும் எடுக்கப்படவில்லை என்று அவர் கூறினார்.
+
+...
+
+[Data](articles/23afb6af.json)
+
+---
+
+### උපන්දිනය දා අවසන් ගමන් ගිය අශාන්
+
+*2024-11-19 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203523) · `si`
+
+කෑගල්ල තෙලිඇල්ලේ ගිලී වයස අවුරුදු 27ක තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+ඔහු සිය මිතුරන් පිරිසක් සමඟ උපන්දින සාදය සමරමින් සිටියදී මෙම අනතුරට ලක්වූ බව අප වාර්තාකරු සඳහන් කළේය.
+
+කෑගල්ල තෙලිඇල්ල ප්‍රදේශයේ බොහෝදෙනා නිතර විවේකය ගත කිරීම සඳහා පැමිණෙන සුන්දර ස්ථානයකි.
+
+කෑගල්ලේම පදිංචි අශාන් ප්‍රබෝධ නම් තරුණයා සිය 27 වැනි උපන්දින සාදය සැමරීම සඳහා තෝරාගෙන තිබුණේද මෙම සුන්දර තෙලිඇල්ලයි.
+
+කෙසේවෙතත් මෙම පිරිස ඇල්ල අසළ බොහෝ වේලාවක් මත්පැන් පානය කරමින් සිට ඇති බවට ප්‍රදේශවාසින් පවසයි.
+
+අනතුරුව පිරිස ඇල්ලේ ස්නානය කරමින් සිටින අතරතුර මෙම වයස අවුරුදු 27ක තරුණයා දියේ ගිලී තිබේ.
+
+අදාළ තරුණයාගේ දේහය ඇල්ලේ පාවෙමින් තිබියදී ඊයේ (18) පස්වරුවේ සොයාගැනුණි.
+
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇති තරුණයා ලබන සතියේ විදෙස් ගතවීම සඳහා සූදානමින් සිටි තරුණයෙක් බවද සඳහන්ය.
+
+◼️
+
+[Data](articles/0c710441.json)
+
+---
+
+### Risk warning to several districts
+
+*2024-11-19 11:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-347427) · `ta`
+
+Landslide warnings issued for 9 divisional secretariats in 4 districts due to heavy rains. First-level alert for Pulath Kaiputiya, Varakapola in Kegalle; secondary warning for Ruwanwella also in Kegalle. Alerts issued for Alawa, Naramala in Kurunegala. First-level alerts for Balangoda, Imbulbe, Opanayake in Ratnapura. Warnings valid until 9:30 PM today.
+
+🟩
+
+Nine Divisional Secretariats in four districts have been issued a landslide hazard warning due to heavy rains in many parts of the country.
+
+The announcement issued by the National Building Research Institute has been extended till 9.30 pm today.
+
+The first level notification has been issued to the Pulath Kaiputiya and Varakapola Divisional Secretariat Divisions in Kegalle district.
+
+A secondary warning has been issued to the Ruwanwella Divisional Secretariat Division of the Kegalle District.
+
+Secondary announcement to Alawa and Naramala Divisional Secretariat Divisions in Kurunegala District
+
+In the Ratnapura district, the first level has been issued to the Divisional Secretariat Divisions of Balangoda, Imbulbe and Opanayake.. (R)
+
+◼️
+
+[Data](articles/25b716c9.json)
+
+[Extended Data](ext_articles/25b716c9.ext.json)
+
+---
+
+### Two arrested in Dehiwala shooting incident
+
+*2024-11-19 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199125) · `ta`
+
+Dehiwala shooting: 2 arrested over drug dispute. Police seize motorcycle, weapon, and bullets. Investigation ongoing.
+
+🟩
+
+The Southern Provincial Crime Unit of the Western Province said that two persons, including a chief gunman, were arrested on Monday (18) in connection with the shooting of a man in Nithimala, Dehiwala on September 20.
+
+Police investigations have revealed that the murder was caused by a drug dispute between two drug trafficking and underworld gang, Badovitta Kos Malli and Badowita Asanga.
+
+The arrested are the 27 -year -old man from Padukku and a 30 -year -old man from Athurugiriya.
+
+A motorcycle, gun and 8 bullets used for shooting from the suspects have been seized by the police.
+
+Further investigations are being investigated by the Western Province Southern Crime Prevention Unit.
+
+◼️
+
+[Data](articles/be317daf.json)
+
+[Extended Data](ext_articles/be317daf.ext.json)
+
+---
+
+### அநுராதபுரத்தில் மத வழிப்பாட்டுத் தலங்களில் போலியாக யாசகம் கேட்பவர்கள் மீது பொலிஸார் நடவடிக்கை ; 6 பேர் கைது
+
+*2024-11-19 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199124) · `ta`
+
+அநுராதபுரத்தில் மத வழிப்பாட்டுத் தலங்களுக்கு வருகை தரும் யாத்ரீகர்களிடம் மருத்துவ உதவி போன்ற பல்வேறு காரணங்களை கூறி போலியாக யாசகம் பெற்ற ஆறு பெண்கள் கைது செய்யப்பட்டு பொலிஸ் காவலில் வைக்கப்பட்டுள்ளனர்.
+
+பல முறைப்பாடுகள் கிடைத்ததை அடுத்து ஜய ஸ்ரீ மஹா போதி மற்றும் ருவன்வெலிசேய மத வழிப்பாட்டுத் தலங்களில் முன்னெடுக்கப்பட்ட திடீர் சுற்றிவளைப்பில் யாத்ரீகர்களைப் பின்தொடர்ந்து சென்ற இந்த ஆறு பெண்கள் உடமலுவ பொலிஸ் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதுசெய்யப்பட்ட பெண்கள் கண் சத்திரசிகிச்சை, சிறுநீரக நோய்களுக்கான சிகிச்சை மற்றும் இந்தியாவிற்கு புனித யாத்திரை செல்வது போன்ற காரணங்களை கூறி யாசகம் பெற்றுள்ளதாக உடமலுவ  பொலிஸ் நிலைய பொறுப்பு அதிகாரி பொலிஸ் தலைமைப் பரிசோதகர் டபிள்யூ.சி.எல்.ஆர்.பி.கே. வெத்தேவ தெரிவித்துள்ளார்.
+
+இவர்கள் பணம் வழங்கும் வரை தங்களை தொந்தரவு செய்வதாக உள்ளூர் மற்றும் வெளிநாட்டு யாத்ரீகர்களிடமிருந்து பல புகார்கள் கிடைத்துள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/3ee98c4e.json)
+
+---
+
+### Advice on disciplinary action
+
+*2024-11-19 10:59:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒழுக்காற்று-நடவடிக்கை-குறித்து-ஆலோசனை/175-347425) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Elections Commission names Ravi Karunanayake in UNP's National List. UNP members accuse him of unauthorized appointment. Party plans disciplinary action against Karunanayake.
+
+🟩
+
+The Elections Commission has released the name of former Finance Minister Ravi Karunanayake in one of the National List of the New Democratic Front.
+
+The gazette has been published amidst the infrastructure in the new Democratic Front regarding the post of Member of Parliament.
+
+The new Democratic Front has said that the party has not taken any decision to present Karunanayake, who has been proposed by the party secretary.
+
+The United National Party (UNP) was planned to allocate one seat and the other to the Sri Lanka PA, which joined former President Ranil Wickremesinghe.
+
+In addition, the party was first planned to convene today (19) to appoint those who come to Parliament from the New Democratic Front.
+
+UNP senior members have accused Ravi Karunanayake of incorporating Ravi Karunanayake to the national list without the approval of the United National Party.
+
+...
+
+[Data](articles/f5483f01.json)
+
+[Extended Data](ext_articles/f5483f01.ext.json)
+
+---
+
+### The new cabinet meets today
 
 *2024-11-19 10:53:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-அமைச்சரவை-இன்று-கூடுகிறது/175-347424) · `ta`
 
-புதிதாக நியமிக்கப்பட்டுள்ள அமைச்சர்களின் முதலாவது அமைச்சரவைக் கூட்டம் இன்று ஜனாதிபதி செயலகத்தில் நடைபெறவுள்ளது.
+New cabinet meets today at Presidential Secretariat. First meeting since ministers' appointment yesterday. Includes 7 professors, 2 doctors, 1 lawyer, 1 engineer, 7 graduates.
 
-புதிய அரசாங்கத்தின் புதிய அமைச்சர்கள் நேற்று (18) பதவியேற்ற பின்னர் முதல்முறையாக அமைச்சரவை கூடவுள்ளது.
+🟩
 
-தேசிய மக்கள் சக்தி அரசாங்கத்தின் புதிய அமைச்சரவை பதவிப் பிரமாணம் ஜனாதிபதி அநுரகுமார திஸாநாயக்க முன்னிலையில் நேற்று காலை இடம்பெற்றது.
+The first Cabinet meeting of the newly appointed ministers will be held today at the Presidential Secretariat.
 
-புதிய அமைச்சரவையில் ஏழு பல்கலைக்கழக பேராசிரியர்கள், இரண்டு மருத்துவர்கள், ஒரு சட்டத்தரணி, ஒரு பொறியாளர் மற்றும் ஏழு பட்டதாரிகள் உள்ளனர்.
+The Cabinet will meet for the first time since the new government's new ministers took office yesterday.
+
+The new cabinet of the National People's Power Government was held in the presence of President Anura Kumara Dissanayake yesterday morning.
+
+The new cabinet has seven university professors, two doctors, one lawyer, an engineer and seven graduates.
 
 ◼️
 
 [Data](articles/2d810421.json)
+
+[Extended Data](ext_articles/2d810421.ext.json)
 
 ---
 
@@ -102,6 +288,170 @@ New government first assets this morning. The meeting will be held under the pat
 
 ---
 
+### Sri Lanka rupee opens stronger at 291.05/20 to dollar, bonds up
+
+*2024-11-19 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-05-20-to-dollar-bonds-up-188599/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291.05/20 to the US dollar on Tuesday from 291.35/45 to the US dollar on Monday dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 was quoted at 10.30/40 percent, up from 10.25/35 percent.
+
+A bond maturing on 15.12.2027 was quoted at 10.85/11.00 percent, up from 10.75/90 percent.
+
+A bond maturing on 15.02.2028 was quoted at 11.10/20 percent.
+
+In equities, the All Share Price Index opened up before dropping 0.74 percent, or 98.20 points, to 13,132. The more liquid S&P SL20 also opened up before dropping 1.14 percent, or 45.30 points, to 3,934.
+
+◼️
+
+[Data](articles/8569846b.json)
+
+---
+
+### The first phase of the provision of fertilizer subsidy
+
+*2024-11-19 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199116) · `ta`
+
+First phase fertilizer subsidy complete: 129,229 farmers received 1.29 billion rupees. Cultivation-based distribution planned. Polonnaruwa farmers affected by delayed water from reservoirs.
+
+🟩
+
+The first phase of the work of providing fertilizer subsidies for the farmers has been completed.
+
+The Department of Agrarian Services said that 129,229 farmers were given about 1.29 billion rupees.
+
+Meanwhile, the Commissioner of Agrarian Services Rohana Rajapakse said that the farmers will be given a fertilizer subsidy on the basis of how cultivation is being carried out.
+
+Farmers in some parts of the Polonnaruwa district have delayed the grant of farmers due to delayed water from Kirithalai and Gaudulla reservoirs.
+
+◼️
+
+[Data](articles/7d974198.json)
+
+[Extended Data](ext_articles/7d974198.ext.json)
+
+---
+
+### Two arrested for shooting municipal workers
+
+*2024-11-19 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203522) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+SLAF soldier arrested for shooting municipal worker in Mount Lavinia. Victim, 46, killed Sept 20th. Suspects arrested with motorcycle & firearm. Investigation reveals murder on contract from drug dealer Badowita Asanka. Two suspects: 27yo SLAF soldier from Hatpadhawa, 30yo from Athugiriya.
+
+🟩
+
+A SLAF Soldier arrested a SLAF soldier into the shooting of a shooting of the Mount Lavinia Municipal Council.
+
+The victim was a 46 year old, if he was killed on the 20th of September.
+
+Police have found the motorcycle, six am and the motorcycle who had manufactured by the suspects and the motorcycle used in a foreign country to shoot with suspects.
+
+The Western Province, which was conducting investigations into the murder, was arrested by a motorcycle near the Panagoda Army Camp on the 18th of this month.
+
+The police have also recovered the firearm and six amidst of the heavy manner in his baggage.
+
+Accordingly, the other man arriving in the motorcycle with the suspect was arrested in Moratalahena area in Athagiriya.
+
+Police have found the motorcycle to several sections of the arrested suspect and the Air Force in Padukka, a timely in Padukka.
+
+...
+
+[Data](articles/d0db036e.json)
+
+[Extended Data](ext_articles/d0db036e.ext.json)
+
+---
+
+### A three-wheeler driven by a school student in a terrible accident
+
+*2024-11-19 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203521) · `si`
+
+Accident summary: Three-wheeler crash injures students near Ginigathena. School students involved; one driving, others injured. Incident reported to Nawalapitiya police. Investigation ongoing.
+
+🟩
+
+Three students and other students were seriously injured by a three-wheeler driven by a three-wheeler.
+
+The injured students have been admitted to Nawalapitiya District Hospital in the Nawalapitiya Police.
+
+The accident occurred near the Ginigathena Library on the main road on the Ginigathe Nawalapitiya main road around 5 pm yesterday.
+
+The accident was injured in the 12 year students of the Ginalathhena Kadawala Kambidha.
+
+The accident had occurred while the four students were traveling in the three-wheeler after a function in the school.
+
+A SLTB bus in the opposite attempt to expire in the direction of the direction in the area was attempted to be able to act in a jungle in the area.
+
+Students traveling in the back seat of the Triyrill car have fallen to the road, and the SLTB bus to save their lives.
+
+The burgithena police claimed that the bus had collided with a state-owned building and a gateway at the time.
+
+...
+
+[Data](articles/90afb3b1.json)
+
+[Extended Data](ext_articles/90afb3b1.ext.json)
+
+---
+
+### The deadly attack on the store owner
+
+*2024-11-19 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203520) · `si`
+
+Attack on 63-year-old store owner in Elpitiya's Navadagala area. Victim injured by sharp object. Incident occurred yesterday. Police investigating.
+
+🟩
+
+A man who came to a shop has been attacked with a sharp instrument with a sharp instrument.
+
+The incident was reported yesterday at the Navadagala area in Elpitiya.
+
+The victim is a 63 year old resident of the Elpitiya area in Navadagala.
+
+Investigations have revealed that the murder had been carried out by a person who came to the drunk shop.
+
+Police have also admitted the Elpitiya Hospital with injuries.
+
+◼️
+
+[Data](articles/06cb84e2.json)
+
+[Extended Data](ext_articles/06cb84e2.ext.json)
+
+---
+
+### United National Party (UNP) is not aware of Ravi's appointment. Commissioner
+
+*2024-11-19 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199117) · `ta`
+
+Here's a summary in approximately 200 characters:
+
+
+
+UNP unaware of Ravi Karunanayake's National List appointment. Party chairman Vajira Abeywardena says final decision today. UNP discusses Dalada Attukorala's potential parliamentary entry. Ranil Wickremesinghe to announce decision after party leader discussions.
+
+🟩
+
+The United National Party does not know that Ravi Karunanayake's name as a member of the National List. This move is contrary to the United National Party (UNP). United National Party (UNP) Chairman Vajira Abeywardena said that the final decision will be announced today.
+
+He was speaking at a press conference held in Galle yesterday regarding the name of Ravi Karunanayake's name for the post of National List Member of the New Democratic Front.
+
+Ravi Karunanayake's name has been appointed as the National List Member. We have learned that her name has been sent to the Gazette through the political party that belongs to the cylinder.
+
+We were discussing the appointment of Perera by Dalada Attukorala or Attorney Rane in the United National Party (UNP) as a member of the new Democratic Party. Such an incident has taken place before taking a firm relaxation in this regard. This move is a violation of Article 3,4 of the United National Party (UNP), 9th 7th, 13 7 and 8.
+
+...
+
+[Data](articles/c3da0a7b.json)
+
+[Extended Data](ext_articles/c3da0a7b.ext.json)
+
+---
+
 ### Stadium under World Cup
 
 *2024-11-19 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203519) · `si`
@@ -133,6 +483,20 @@ The sports complex is designed to a domestic stadium in the stadium, mixing the 
 [Data](articles/8960843a.json)
 
 [Extended Data](ext_articles/8960843a.ext.json)
+
+---
+
+### අගමැති , ඇමතිවරු සහ  99 න්  රවි, නාමල් ,පත්මනාදන්  පත් කිරීම් ගැන ගැසට් හතරක්
+
+*2024-11-19 08:21:03* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති---ඇමතිවරු-සහ--99-න්--රවි--නාමල්--පත්මනාදන්--පත්-කිරීම්-ගැන-ගැසට්-හතරක්/11-413136) · `si`
+
+2024 පාර්ලිමේන්තු මැතිවරණයට අදාළව  සිදුකළ  පාර්ලිමේන්තුවේ නව පත් කිරීම් ප්‍රකාශයට පත් කරමින්  අති විශේෂ ගැසට් නිවේදන හතරක් ඊයේ(18) දාතමින්  නිකුත්කර තිබේ.
+
+ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 44(2) ව්‍යවස්ථාව අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පත් කරනු ලැබූ  නව අමාත්‍යවරුන් 21 ගේ නම් හා  ඔවුන්ගේ විෂයන් පිළිබඳව සඳහන්  ගැසට් නිවේදනයද,  ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 44(3) ව්‍යවස්ථාව අනුව මුදල් , ක්‍රම සම්පාදන හා  ආර්ථික සංවර්ධන අමාත්‍ය ධුරය සහ  ඩිජිටල් ආර්ථික අමාත්‍ය ධූරය අග්‍රාමාත්‍යවරියගේ අදහස් විමසා    ජනාධිපති අනුර කුමාර දිසානායක මහතා යටතේ තබා ගන්නා බව සඳහන්    ගැසට් නිවේදනයද ,ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 43(4) ව්‍යවස්ථාව අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින්   නව  අග්‍රාමාත්‍යවරිය ලෙස පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හරිනි අමරසූරිය මෙනෙවිය පත් කළ බව සඳහන්   ගැසට් නිවේදනයද ,වශයෙන් ගැසට් නිවේදන තුනක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ නියමය පරිදි ජනාධිපති ලේකම් එන්.එස්.කුමානායක මහතා විසින් නිකුත් කෙරිණි .
+
+...
+
+[Data](articles/bd8a4d62.json)
 
 ---
 
@@ -2005,393 +2369,5 @@ Date of settlement of the above issuance is 18 November 2024. (Colombo/Nov18/202
 [Data](articles/05542fb7.json)
 
 [Extended Data](ext_articles/05542fb7.ext.json)
-
----
-
-### Harinini begins the post of Prime Minister
-
-*2024-11-18 17:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203501) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Harinini Amarasuriya becomes Sri Lanka's PM. She's the country's third female leader. Dr. Amarasuriya assumes office on 18th, marking a significant milestone for women in politics.
-
-🟩
-
-Harinini Amarasuriya assumed duties as Prime Minister's Prime Minister today (18th).
-
-Dr. Harini Amarasuriya is also considered the third woman who was appointed as the Prime Minister.
-
-◼️
-
-[Data](articles/dc5e1dcb.json)
-
-[Extended Data](ext_articles/dc5e1dcb.ext.json)
-
----
-
-### Academic and non-academic staff of Ruhuna Uni. to launch indefinite strike
-
-*2024-11-18 17:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103587/academic-and-non-academic-staff-of-ruhuna-uni-to-launch-indefinite-strike-) · `en`
-
-All academic and non-academic trade unions affiliated with the University of Ruhuna have announced a continuous strike commencing from tomorrow (Nov. 19), demanding the immediate removal of the university’s Vice Chancellor.
-
-The relevant trade unions mentioned that their strike action will be in effect until their single demand to immediately remove the Vice Chancellor is met.
-
-...
-
-[Data](articles/48e639d2.json)
-
-[Extended Data](ext_articles/48e639d2.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 291.35/45 to dollar, bonds stable
-
-*2024-11-18 17:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-35-45-to-dollar-bonds-stable-188559/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.35/45 to the US dollar on Monday from 292.15/18 to the US dollar on Thursday dealers said, while bond yields were stable from morning.
-
-A bond maturing on 15.12.2026 closed down at 10.25/35 percent.
-
-A bond maturing on 15.12.2027 closed at 10.75/90 percent, up from 10.65/75 percent.
-
-A bond maturing on 15.09.2029 closed at 11.25/40 percent, down from 11.25/30.
-
-A bond maturing on 01.10.2032 closed stable at 11.50/70 percent. (Colombo/Nov18/2024)
-
-◼️
-
-[Data](articles/804f033e.json)
-
-[Extended Data](ext_articles/804f033e.ext.json)
-
----
-
-### People's Defense Secretary rejects petition
-
-*2024-11-18 17:00:26* · [`adalk`](https://www.ada.lk/breaking_news/මහජන-ආරක්ෂක-ලේකම්ගේ-පෙත්සම-ප්‍රතික්ෂේප-කරයි/11-413124) · `si`
-
-Supreme Court rejects defense secretary's petition against arrest and seeks compensation.
-
-🟩
-
-The Supreme Court today rejected the Basic DIG Ravi Seneviratne, Secretary Defense of the Ministry of Defense and Retired by the Hon.
-
-The Supreme Court rejected the Supreme Court rejected a preliminary protest made by the Attorney General's Petition.
-
-The SHEP, the Supreme Court Judges. The petition was taken up before the panel of judges Turaralika and Priyantha Puthu.
-
-The Wellawatte Police, the Attorney General, the Attorney General, the Attorney General, the Attorney General, the Attorney General have named the fundamental rights petition filed by the Secretary of the Public Defense Ministry.
-
-The petitioner has said that he was arrested on October 29 and had been arrested on October 29 of the October on October 29.
-
-The petitioner who is bailouting that he has been arrested in connection with the incident or any harm to the incident has been given a decision that the police are unfair and unreasonable.It is requested to specify suitable compensation.
-
-...
-
-[Data](articles/9ffd35e5.json)
-
-[Extended Data](ext_articles/9ffd35e5.ext.json)
-
----
-
-### The death of the conductor who was thrown
-
-*2024-11-18 16:49:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தூக்கி-வீசப்பட்ட-நடத்துனர்-மரணம்/175-347388) · `ta`
-
-Conductor killed after thrown off bus. Incident occurred Monday near Kandy. Two passengers also injured. Police investigation ongoing.
-
-🟩
-
-The incident took place on Monday morning (18) when two people were thrown into the bus belonging to the bus belonging to the passenger.
-
-The bus belonging to the Panadurai depot was traveling from Panadura to Kandy in Koswatte area, and the traveler and traveler on the back of the bus were thrown.
-
-Police say the conductor died without the injury and was admitted to the Colombo National Hospital.
-
-◼️
-
-[Data](articles/288e8788.json)
-
-[Extended Data](ext_articles/288e8788.ext.json)
-
----
-
-### Minister Vijitha Herath assumes duties at Foreign Ministry
-
-*2024-11-18 16:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103586/minister-vijitha-herath-assumes-duties-at-foreign-ministry) · `en`
-
-The newly appointed Minister of Foreign Affairs, Foreign Employment and Tourism, Vijitha Herath, assumed duties at the Foreign Ministry today (18).
-
-Senior officials of the Ministry were present on the occasion, the Ministry of Foreign Affairs said in a statement.
-
-As a Member of Parliament, Minister Herath has represented the Gampaha District since 2000. At the recently concluded General election, he was re-elected, obtaining the highest ever number of preferential votes in Sri Lanka’s Parliamentary election history.
-
-He had also previously served as the Minister of Cultural Affairs and National Heritage from 2004 - 2005, and as the Minister of Foreign Affairs of the interim government following the election of Anura Kumara Dissanayake as President on 22 September 2024.
-
-Minister Herath holds a Bachelor of Science degree from the University of Kelaniya.
-
-◼️
-
-[Data](articles/55114062.json)
-
-[Extended Data](ext_articles/55114062.ext.json)
-
----
-
-### 'Tappanguttu' speaks of the life of the rural artists
-
-*2024-11-18 16:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199095) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Tappanguttu: Rural artists' lives. Sankara Pandi stars. Folk songs by Paravai Muniyamma et al. Directed by Muthuvira.
-
-🟩
-
-Actor Sankara Pandi, who made his debut for Tamil fans through the film 'Thekkatathi Ponnu', will be released in the film mansion on the 29th of this month.
-
-Sankara Pandi, Deepti, Kadi Sukumar, Andruz, Durga, Vijay Ganesh, Robot Chandru and many others have starred in the film 'Dapanguttu' directed by director Muthuvira.
-
-King gay. Saravanan has composed the film, which has been recorded by Bhaktavachalam. The film was made on behalf of the producer of Moden Digital Media LLP. Produced by Jeganathan.
-
-Commenting on the film, the director said, “The story of the film is focusing on Madurai soil, which is important to folk arts.. Sankara Pandi, a soil -based artist, goes to Madurai and its surrounding temples and festivals.
-
-In his art group, a young woman named Dhanam wants to dance. Dharmalingam, a relative of Pandi and the coordinator of art shows. How did the hero deal with this?That is the screenplay of the film.
-
-...
-
-[Data](articles/2114725a.json)
-
-[Extended Data](ext_articles/2114725a.ext.json)
-
----
-
-### Court yet to receive Govt. Analyst’s report on Senasinghe’s luxury vehicle
-
-*2024-11-18 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/103585/court-yet-to-receive-govt-analysts-report-on-senasinghes-luxury-vehicle) · `en`
-
-The Fort Magistrate Thanuja Lakmali has ordered the issuance of a letter of reminder to the Government Analyst’s Department as the court had not received the analyst’s report regarding former MP Sujeewa Senasinghe’s luxury vehicle, worth around Rs. 100 million, which is suspected to have been illegally assembled.
-
-President’s Counsel Maithri Gunaratne, representing Sujeewa Senasinghe, stated that although the Criminal Investigation Department (CID) had previously informed the court that a case was being heard in the Chettikulam Court regarding the vehicle, the case in question has already been concluded.
-
-Accordingly, he therefore requested that the vehicle in question which is currently in the custody of the CID, be released to Sujeewa Senasinghe.
-
-After considering the facts presented, the Fort Magistrate ordered the case to be recalled on November 25 as the Government Analyst’s report has still not been received by the court.
-
-...
-
-[Data](articles/94ef0396.json)
-
-[Extended Data](ext_articles/94ef0396.ext.json)
-
----
-
-### Minister Vijitha assumes duties
-
-*2024-11-18 16:34:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-විජිත-වැඩ-භාර-ගනියි/11-413123) · `si`
-
-Minister Vijitha Herath assumes duties as Foreign Affairs & Tourism Minister. Previously Transport Minister. Graduated from University of Kelaniya. Represents Gampaha district since 2000, re-elected with record votes in recent election.
-
-🟩
-
-Vijitha Herath assumed duties as Foreign Affairs and Foreign Employment and Tourism Minister. At the Ministry of External Affairs, Minister handed over his duties.
-
-He has previously served as Transport, Public Defense, Highways, Ports and Civil Aviation. Vijitha Herath is a graduate in the science of the University of Kelaniya.
-
-Minister Vijitha Herath represents Gampaha district from 2000 as a Member of Parliament. At the recent general election, he was re-elected with the highest number of preferential votes in the history of Sri Lanka.
-
-◼️
-
-[Data](articles/8b912440.json)
-
-[Extended Data](ext_articles/8b912440.ext.json)
-
----
-
-### Lady Super Star Nayanthara
-
-*2024-11-18 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199093) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Nayanthara stars in "Rakai," her latest South Indian film. Directed by Senthil Nallasamy, it features music by Govind Vasantha. The period drama is produced by Trumstick Productions and Movie Verse Studios. Fans are excited as the film releases on Nayanthara's birthday.
-
-🟩
-
-Nayanthara starring Lady Super Star of the South Indian film industry, titled 'Rakai', has been released as 'Rakai'.. Fans are excited as his birthday has been released.
-
-Lady Super Star Nayanthara plays the hero of the film 'Rakai', directed by debutant director Senthil Nallasamy.. Govind Vasantha has composed the film, which is being recorded by Gautham Rajendran.
-
-The film is being made as Periodic Excise Entertainment on behalf of Trumstick Productions and Movie Verse Studios.. Sakthivel and S. Aditya Pitti are co -produced.
-
-The film crew has said that the details of the other actors in the film will be officially announced soon.
-
-Luke and its exclusive video have been released in the title of 'Rakai' which is ready to act on Nayanthara's birthday.This has encouraged his fans.
-
-◼️
-
-[Data](articles/3cc4a979.json)
-
-[Extended Data](ext_articles/3cc4a979.ext.json)
-
----
-
-### Vijitha is assumed duties
-
-*2024-11-18 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203500) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Vijitha Herath sworn in as Minister of External Affairs, Foreign Employment, and Tourism. Previously served as Transport, Highways, Ports, and Civil Aviation Minister. Also held Cultural Affairs and National Heritage portfolio from 2004-2005.
-
-🟩
-
-Vijitha Herath took sworn in as the Minister of External Affairs and Foreign Employment and Tourism.
-
-He has previously served as Transport, Highways, Ports and Civil Aviation Minister.
-
-He had also served as the Minister of Cultural Affairs and National Heritage at the time in 2004-2005.
-
-◼️
-
-[Data](articles/92c26f5d.json)
-
-[Extended Data](ext_articles/92c26f5d.ext.json)
-
----
-
-### The husband commits suicide by killing his wife and injured his mother
-
-*2024-11-18 16:12:56* · [`adalk`](https://www.ada.lk/breaking_news/බිරිඳ-ඝාතනය-කර-නැන්දණියට-බරපතල-තුවාල-කර-සැමියා-දිවි-නසා-ගනියි/11-413122) · `si`
-
-Husband kills wife, injures mother in Wakampestuwa. Victim identified as 30-year-old Lokbandy Sonyatera Kumari. Incident under investigation.
-
-🟩
-
-The afternoon husband says that the suspect is suicide by a sharp weapon and murdered his wife and killed his wife.
-
-The incident has occurred in the Wakampestuwa area in Moragoda.
-
-The police say that the victim was a 30 year old Lokbandy Sonyatera Kumari, a 30-year-old resident of the Wanmpodorah in Wanmpodorah, police said.
-
-The woman had been admitted to the Payirimale hospital for further treatment, along with the motherland in a serious situation.
-
-The police say that after the murder, the victim was a 30 year old resident of the Wakumarma area.
-
-◼️
-
-[Data](articles/c73b8d17.json)
-
-[Extended Data](ext_articles/c73b8d17.ext.json)
-
----
-
-### Husband
-
-*2024-11-18 16:12:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மனைவியை-நண்பனுக்கு-விருந்தாக்கிய-கணவன்/76-347386) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A 42-year-old husband is sought after allegedly raping his intoxicated wife in Kottaweragala. He had left her at a brick workshop earlier. The suspect, 40, has been arrested; the victim's family has fled.
-
-🟩
-
-Police are searching for a husband who was a 42 -year -old wife who was intoxicated to a alcoholic in the Kottaweragala area of ​​the Wellawaya Police Division.
-
-While the victim is living in the area with her three children and her husband, it is reported that two senior children are working in other areas.
-
-On the 9th, the woman's husband, her friend Saminda's brick workshop, went to her three -wheeler in her three -wheeler at 4 pm and left the two drinking water and left at 9.30 pm.
-
-Later, the woman went to the room with her 12 -year -old boy and was asleep until her husband arrived.
-
-At 12 o'clock midnight, her husband, Saminda, drinking alcohol again and dragging the woman into a different room and putting the pillow on his face, saying, "fulfill your desire."
-
-Then again at 4 am, her husband raped her
-
-According to the information available, the suspect, a 40 -year -old man, has been arrested and the person who was committed to the incident has fled the area.
-
-◼️
-
-[Data](articles/fdeeb4f2.json)
-
-[Extended Data](ext_articles/fdeeb4f2.ext.json)
-
----
-
-### One person arrested with drugs in Kalkisa
-
-*2024-11-18 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199085) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Person arrested in Kalkisa with ice & heroin. Raid conducted by Police Special Task Force. Suspect aged 33 found with 15g ice, 840mg heroin, and 14,500 rupees. Handed over to local police station for investigation.
-
-🟩
-
-A suspect has been arrested on Sunday (17) with ice and heroin drugs in the area of ​​the Mount Lavinia Police Division, police Special Task Force said.
-
-The suspect has been arrested during a raid carried out on information received by the Police Special Task Force.
-
-The arrested suspect is 33 years old from Kalkissa.
-
-15 grams of 555 milligrams of ice from the suspect, 840 milligrams of heroin, and 14,500 rupees suspected of being earned by drug trafficking.
-
-Subsequently, the suspect has been handed over to the Malkisa Police Station for further investigations.
-
-◼️
-
-[Data](articles/bf5fb15a.json)
-
-[Extended Data](ext_articles/bf5fb15a.ext.json)
-
----
-
-### Strong American Weapons toward Russia
-
-*2024-11-18 16:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203499) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-US provides long-range missiles to Ukraine, raising concerns about potential escalation. Russia warns against such actions, fearing it could lead to World War III. Ukraine claims readiness to use ATACMS missiles, but Russia's response remains uncertain.
-
-🟩
-
-International media has reported that US President Joe Biden has reportedly taken a decisive change in the Ukrainian war as well as a movement of dangerous growth.
-
-It is granting the modern arms for the Russian land, including the long-distance missiles provided by the US.
-
-Ukrainian President Woworer Selenceki was a long time that the US missile would be able to do in the interior of the Russian ground in the Russian area.
-
-However, the Western countries including the US, including the US, have not been approved in Ukraine, including the warning of the war and the warnings of Russia.
-
-Reviews have introduced this as a remarkable change in Ukrainian war in the US policy.
-
-The President's Bideon has made this decision is a significant fact that Demond Trump is the defeat of the Ukrainian war.
-
-However, the current President Joe Biden is further sworn in as the Tom 20th of January.
-
-Therefore, the steps he takes has not been clear to how the trump administration affects the next tramp.
-
-...
-
-[Data](articles/2dcb260c.json)
-
-[Extended Data](ext_articles/2dcb260c.ext.json)
 
 ---

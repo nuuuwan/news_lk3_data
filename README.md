@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 16:26:42**
+As of **2024-11-19 16:15:55**
 
 ## Newspaper Stats
 
-*Scraped **55,756** Articles*
+*Scraped **55,752** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,82 +19,18 @@ dailymirrorlk | 4,733
 adalk | 5,237
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
-virakesarilk | 9,056
-adaderanasinhalalk | 9,644
+virakesarilk | 9,053
+adaderanasinhalalk | 9,643
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,746 (100.0%) of 55,756 articles have been extended.
+55,746 (100.0%) of 55,752 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
-
-### වැඩභාරගත් පොලිස් ඇමති දුන් පොරොන්දුව
-
-*2024-11-19 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203535) · `si`
-
-ශ්‍රී ලංකා පොලීසියේ බඳවා ගැනීම් ක්‍රමවේදය විදිමත් කර පොලීසියට අවශ්‍ය පිරිස් බලය ශක්තිමත් කිරීමට පියවර ගන්නා බව මහජන ආරක්ෂක අමාත්‍ය ආනන්ද විජේපාල මහතා පවසයි.
-
-මහජන ආරක්ෂක අමාත්‍යංශයේදී අද (19) වැඩ භාරගැනීමෙන් අනතුරුව ඒ මහතා ඒ බව පැවසීය.
-
-විශේෂයෙන්ම පොලිස් සේවයේ පහළ ශ්‍රේණිවල නිලධාරීන් මුහුණ දෙන ප්‍රශ්න මෙන්ම මහජනතාව පොලීසියකට ගියවිට මුහුණදෙන ගැටලු සම්බන්ධයෙන් ද විශේෂ අවධානයක් යොමුකරන බව ඒ මහතා පැවසීය.
-
-"නීතිගරුක පොලීසියක්, විනයගරුක පොලීසියක් හදන්න ඕනේ. එහෙම නැතිව සාධාරණ යුක්තිගරුක සමාජයක් හදන්න අමාරුයි. බඳවාගැනීම්වල ගැටලු කිහිපයක් තිබෙනවා. ඒවා සමාලෝචනය කරලා එම බඳවා ගැනීම් විදිමත් කරනවා. පොලීසියට අවශ්‍ය ඒ පිරිස් බලය ලබා ගැනීමට කටයුතු කරනවා. එහෙම නැතිව අපිට මේ අපරාද මර්දනය, මත්කුඩු ජාවාරම, පාතාල කටයුතු මර්දනය කරන්න බැහැ."
-
-ඔහු තවදුරටත් පැවසුවේ ජනධිපති සහ අමාත්‍ය ආරක්ෂක අංශ වලින් නිදහස් කළ පිරිස ද පොලීසියේ පිරිස් බලය ශක්තිමත් කිරීම සඳහා යොදවන බවයි.
-
-◼️
-
-[Data](articles/422a0dc9.json)
-
----
-
-### கல்கிசையில் ஹெரோயினுடன் ஒருவர் கைது !
-
-*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199156) · `ta`
-
-கல்கிசை பொலிஸ் பிரிவுக்கு உட்பட்ட இரத்மலானை பகுதியில் ஹெரோயின் போதைப்பொருளுடன் சந்தேக நபர் ஒருவர் நேற்று திங்கட்கிழமை (18) கைது செய்யப்பட்டுள்ளதாக கல்கிசை பொலிஸார் தெரிவித்தனர்.
-
-கல்கிசை பொலிஸாருக்குக் கிடைத்த இரகசிய தகவலின் பேரில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பின் போதே சந்தேக நபர் கைது செய்யப்பட்டுள்ளார்.
-
-கைது செய்யப்பட்ட சந்தேக நபர் , இரத்மலானை பகுதியைச் சேர்ந்த 49 வயதுடையவர் ஆவார்.
-
-கைது செய்யப்பட்ட சந்தேக நபரிடம் இருந்து ,05 கிராம் 320 மில்லி கிராம் ஹெரோயின் போதைப்பொருள் பொலிஸாரால் கைப்பற்றப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/73839aa8.json)
-
----
-
-### 100 கோடி ரூபா பெறுமதியான போதை மாத்திரைகள் மீட்பு !
-
-*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
-
-கொழும்பு துறைமுக வளாகத்தில் உள்ள களஞ்சியசாலை  ஒன்றிலிருந்து சுமார் 100 கோடி ரூபா பெறுமதியான போதை மாத்திரைகள் சுங்க அதிகாரிகளால் கைப்பற்றப்பட்டுள்ளன.
-
-புறக்கோட்டை பகுதியில் உள்ள வர்த்தகர் ஒருவரால் இந்தியாவில் இருந்து சட்டவிரோதமாக இறக்குமதி செய்யப்பட்ட 36 பெட்டிகளில் மேற்கொள்ளப்பட்ட சோதனையில் இந்த போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன.
-
-பாடசாலை மாணவர்களை இலக்கு வைத்து இந்த போதை மாத்திரைகள் கொண்டுவரப்பட்டுள்ளதாக சுங்க அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/f042dc79.json)
-
----
-
-### போக்குவரத்து சபையில் 18 கிலோ கிரீஸ் வாளி மாயம்!!
-
-*2024-11-19 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199148) · `ta`
-
-◼️
-
-[Data](articles/1be3464b.json)
-
----
 
 ### 10වන පාර්ලිමේන්තුවේ සභානායක සහ ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක පත් කෙරේ
 
@@ -2381,5 +2317,103 @@ Based on intelligence received, the Sri Lanka Navy had launched this special ope
 [Data](articles/725062d0.json)
 
 [Extended Data](ext_articles/725062d0.ext.json)
+
+---
+
+### “Verily, We Have Created Man In Struggle”: Struggle Is life, Face It
+
+*2024-11-18 22:05:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/verily-we-have-created-man-in-struggle-struggle-is-life-face-it/) · `en`
+
+The recent election victory of Donald Trump came as a huge surprise to Americans, those on the liberal and leftist side of the political spectrum. Some reacted with intense emotions: tears were shed, declarations of leaving the country were made, and anger was directed at conservatives and anyone who voted for Trump. While this was not the first time, I had witnessed such a visceral reaction to election results, these responses only deepened my appreciation for the values I hold dear—those rooted in faith and spiritual teachings.
+
+...
+
+[Data](articles/51a79292.json)
+
+[Extended Data](ext_articles/51a79292.ext.json)
+
+---
+
+### Police seek public assistance to catch the suspect robbed seven months
+
+*2024-11-18 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203511) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Police seeking help: Suspect robbed 7 months ago. Driver escaped vehicle in Minuwangoda. Vehicle found in Gampaha. CID investigating. Public, call 0718591610 if you have info."
+
+🟩
+
+Police have requests public assistance to arrest a suspect in connection with a furnace.
+
+A person who served as a driver of a securely transporting institution in Minuwangoda police division, has been fled by the vehicle today (18).
+
+The vehicle has been recovered from the Gampaha Police Division, while the Gampaha Division Criminal Investigation Division is conducting further investigations to arrest the suspect.
+
+Accordingly, if any information about the above person is, the police have requested the public to inform the following telephone numbers.
+
+02.  ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී - ගම්පහ දිස්ත්‍රික් (I) - 0718591610
+
+◼️
+
+[Data](articles/8fca0957.json)
+
+[Extended Data](ext_articles/8fca0957.ext.json)
+
+---
+
+### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
+
+*2024-11-18 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
+
+The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
+
+The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
+
+“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
+
+“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
+
+“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
+
+...
+
+[Data](articles/e2c3e1a7.json)
+
+[Extended Data](ext_articles/e2c3e1a7.ext.json)
+
+---
+
+### Order the suspects looting a doctor's money
+
+*2024-11-18 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203510) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Colombo Magistrate orders police to investigate doctor's money theft case. Suspects intimidated, bank account details stolen. Four suspects remanded until Nov 12.
+
+🟩
+
+Colombo Additional Magistrate Kammada Perera has ordered the Bambalapitiya Police today to be referred to the Tastekerator in Bambalapitiya.
+
+When the doctor arrived at the massage agency, he was intimidated by the suspects to a bank account on the online system of Rs.
+
+Bambalapitiya Police Commanding Court demanded the judiciary to call the four tomorrow to refer to the Government Analyst tomorrow.
+
+The Colombo Additional Magistrate issued the order by the request.
+
+The four suspects remanded in connection with the incident and remanded until November 12.
+
+◼️
+
+[Data](articles/7f5c72b2.json)
+
+[Extended Data](ext_articles/7f5c72b2.ext.json)
 
 ---

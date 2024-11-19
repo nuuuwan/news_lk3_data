@@ -1,84 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 12:16:42**
+As of **2024-11-19 11:42:43**
 
 ## Newspaper Stats
 
-*Scraped **55,719** Articles*
+*Scraped **55,715** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 569
-bbccomsinhala | 573
+bbccomsinhala | 571
 islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,230
+adalk | 5,229
 adaderanalk | 6,720
 tamilmirrorlk | 7,894
 virakesarilk | 9,047
-adaderanasinhalalk | 9,634
+adaderanasinhalalk | 9,633
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,717 (100.0%) of 55,719 articles have been extended.
+55,708 (100.0%) of 55,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### Bought to seek bail out on the petition
-
-*2024-11-19 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203524) · `si`
-
-State Minister Lohan Ratwatte's bail hearing postponed. Court orders four weeks to file objections, next hearing set for November 29.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested in connection with unregistered vehicle, was postponed to the Attorney General today (19).
-
-The petition was called before the Court of Appeal, President of the Court of Appeal, Judge Nissanka Bandula Karunaratne and Shashi Mahendran.
-
-Additional Solicitor General Shinil Kularatne appearing for the Attorney General XANIZITA SHANK Kularatne asks the court to pay four weeks to file the protests related to the case.
-
-President's Counsel Sanjay Rajaratne has opposed the petitioner party and requested the court to provide a short date for it.
-
-Accordingly, the respondents ordered to be summoned to the petition to consider the respondents to file objections before November 29.
-
-◼️
-
-[Data](articles/d1066fe2.json)
-
-[Extended Data](ext_articles/d1066fe2.ext.json)
-
----
-
-### Jeevan recommends Kanchana for the national list
+### தேசிய பட்டியலுக்கு காஞ்சனவை பரிந்துரைக்கிறார் ஜீவன்
 
 *2024-11-19 11:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியலுக்கு-காஞ்சனவை-பரிந்துரைக்கிறார்-ஜீவன்/175-347429) · `ta`
 
-Here's a summary in 200 characters:
+புதிய பாராளுமன்றத்திற்கு எதிர்க்கட்சியில் அனுபவம் வாய்ந்த அரசியல்வாதிகள் தேவை என்பதை எடுத்துக்காட்டி, கட்சியின் எஞ்சிய தேசியப்பட்டியல் ஆசனத்திற்கு முன்னாள் மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகரவை பரிசீலிக்குமாறு தேசிய ஜனநாயக முன்னணியிடம் (NDF) முன்னாள் அமைச்சர் ஜீவன் தொண்டமான் வலியுறுத்தியுள்ளார்.
 
-
-
-Jeevan Thondaman suggests Kanchana Wijesekara for NDF's national seat, emphasizing the need for experienced opposition members in the new parliament due to the NPP's majority and ongoing reforms.
-
-🟩
-
-Former Minister Jeevan Thondaman has urged the National Democratic Front (NDF) to consider Kanchana Wijeeshekara to consider the party's remaining national seat, highlighting the need for experienced politicians in the opposition in the new parliament.
-
-Thondaman said on his site that it is necessary to have an opposition party in the Parliament, considering the majority of the NPP government in Parliament and the government is responsible for the existing reforms.
+பாராளுமன்றத்தில் தேசிய மக்கள் சக்தி (NPP) அரசாங்கத்தின் பெரும்பான்மையை கருத்தில் கொண்டு, அரசை பொறுப்புக்கூறும் வகையில் செயற்படுத்த , நடைமுறையிலுள்ள சீர்திருத்தங்கள் தொடர்பில் அனுபவமிக்க பாராளுமன்ற உறுப்பினர்களை எதிர்க்கட்சி கொண்டிருப்பது அவசியமென தனது எக்ஸ் தளத்தில் தொண்டமான் தெரிவித்துள்ளார்.
 
 ◼️
 
 [Data](articles/b42f1fd6.json)
-
-[Extended Data](ext_articles/b42f1fd6.ext.json)
 
 ---
 
@@ -98,83 +62,49 @@ The banking sector is committed to supporting your government in the challenging
 
 [Data](articles/2e70f163.json)
 
-[Extended Data](ext_articles/2e70f163.ext.json)
-
 ---
 
-### ඇමතිවරු 10ක් අද වැඩ භාර ගනිති
-
-*2024-11-19 11:19:18* · [`adalk`](https://www.ada.lk/breaking_news/ඇමතිවරු-10ක්-අද-වැඩ-භාර-ගනිති/11-413138) · `si`
-
-නව රජයේ අමාත්‍යවරුන් ලෙස පත්වූ අමාත්‍යවරු 10ක් අද දිනයේදි රාජකාරි ආරම්භ කිරිමට නියමිත තිබේ. මෙම සියලුම අමාත්‍යවරුන් පස්වරු 1ත් 3ත් අතර කාලයේදි රාජකාරි ආරම්භ කිරිමට නියමිතය.
-
-වසන්ත සමරසිංහ, සුනිල් කුමාර, ධම්මික පටබැඳි, අනුර කරුණාතිලක, ලාල්කාන්ත, සුනිල් හඳුන්නෙත්ති, කුමාර ජයකොඩි, උපාලි පන්නිලගේ, බිමල් ජයකොඩි, රාමලිංගන් චන්ද්‍රසේකරන් යන මහත්වරු මෙසේ වැඩ භාර ගැනිමට නියමිතය.
-
-◼️
-
-[Data](articles/e069f6a1.json)
-
----
-
-### No longer diplomatic ministers
+### இனி இராஜாங்க அமைச்சர்கள் இல்லை
 
 *2024-11-19 11:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனி-இராஜாங்க-அமைச்சர்கள்-இல்லை/175-347428) · `ta`
 
-New Sri Lankan government scraps diplomatic ministers, plans 26-28 deputy ministers appointments within two days. Health and Media Minister Dr. Nalinda Jayatissa confirms policy shift from pre-election manifesto. Cabinet positions and ministry secretaries' roles still undecided. External Affairs Minister Vijitha Herath resumes duties.
+முந்தைய விதிகளின் நடைமுறையிலிருந்து விலகி, புதிய அரசாங்கம் இராஜாங்க அமைச்சர்கள் என்ற கருத்தை ரத்து செய்ய முடிவு செய்துள்ளது, ஆனால் அதற்கு பதிலாக 26-28 துணை அமைச்சர்கள் ஓரிரு நாட்களில் நியமிக்கப்படுவர் என அமைச்சர் ஒருவர் நேற்று தெரிவித்தார்.
 
-🟩
+புதிதாக பதவிப்பிரமாணம் செய்து கொண்ட சுகாதார மற்றும் ஊடகத்துறை அமைச்சரான டொக்டர் நளிந்த ஜயதிஸ்ஸ, பிரதி அமைச்சர்கள் நியமனம் விரைவில் இடம்பெறும் என டெய்லி மிரருக்கு தெரிவித்தார். தேர்தலுக்கு முன்னதாக நாட்டிற்கு முன்வைக்கப்பட்ட கொள்கை விஞ்ஞாபனத்தில் குறிப்பிடப்பட்டுள்ளவாறே இராஜாங்க அமைச்சர்கள் நியமிக்கப்பட மாட்டார்கள் என அவர் தெரிவித்துள்ளார்.
 
-A minister said yesterday that the new government has decided to abolish the idea of ​​diplomatic ministers, but instead of 26-28 deputy ministers will be appointed in two days.
+சில அமைச்சரவை பதவிகளுக்கு பிரதி அமைச்சர்கள் நியமிக்கப்படுவார்களா அல்லது அனைவருக்கும் நியமிக்கப்படுவார்களா என கேட்டபோது,
 
-Dr. Nalinda Jayatissa, the newly sworn in the newly sworn -in Health and Media Minister, said the appointment of deputy ministers will be held soon. He said that diplomatic ministers would not be appointed as the policy manifesto presented to the country before the election.
+அமைச்சின் செயலாளர்களும் மாற்றப்படுவார்கள், மீண்டும் நியமிக்கப்படுவார்கள் அல்லது புதிதாக நியமிக்கப்படுவார்கள், ஆனால் இறுதி முடிவு இன்னும் எடுக்கப்படவில்லை என்று அவர் கூறினார்.
 
-When asked if deputy ministers will be appointed or appointed to some cabinet posts,
-
-He said that the secretaries of the Ministry will be replaced, re -appointed or newly appointed, but the final decision has not yet been taken.
-
-External Affairs Minister Vijitha Herath, who was re -appointed as External Affairs Minister, took over his duties yesterday. Dr. Jayatissa said that he will also start work in his office today.
-
-◼️
+...
 
 [Data](articles/23afb6af.json)
 
-[Extended Data](ext_articles/23afb6af.ext.json)
-
 ---
 
-### Ashan to the last of the finished birthday
+### උපන්දිනය දා අවසන් ගමන් ගිය අශාන්
 
 *2024-11-19 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203523) · `si`
 
-Here's a summary of the text in approximately 200 characters:
+කෑගල්ල තෙලිඇල්ලේ ගිලී වයස අවුරුදු 27ක තරුණයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
 
+ඔහු සිය මිතුරන් පිරිසක් සමඟ උපන්දින සාදය සමරමින් සිටියදී මෙම අනතුරට ලක්වූ බව අප වාර්තාකරු සඳහන් කළේය.
 
+කෑගල්ල තෙලිඇල්ල ප්‍රදේශයේ බොහෝදෙනා නිතර විවේකය ගත කිරීම සඳහා පැමිණෙන සුන්දර ස්ථානයකි.
 
-Man drowns during 27th birthday celebration in Kegalle. Group was drinking near Ella Falls. Victim's body found floating in falls. Incident occurred last week.
+කෑගල්ලේම පදිංචි අශාන් ප්‍රබෝධ නම් තරුණයා සිය 27 වැනි උපන්දින සාදය සැමරීම සඳහා තෝරාගෙන තිබුණේද මෙම සුන්දර තෙලිඇල්ලයි.
 
-🟩
+කෙසේවෙතත් මෙම පිරිස ඇල්ල අසළ බොහෝ වේලාවක් මත්පැන් පානය කරමින් සිට ඇති බවට ප්‍රදේශවාසින් පවසයි.
 
-A man was killed in a 27-year-old man drowned in the Elimaya Kegalle.
+අනතුරුව පිරිස ඇල්ලේ ස්නානය කරමින් සිටින අතරතුර මෙම වයස අවුරුදු 27ක තරුණයා දියේ ගිලී තිබේ.
 
-Our correspondent stated that when he was celebrating the birthday party with his friends.
+අදාළ තරුණයාගේ දේහය ඇල්ලේ පාවෙමින් තිබියදී ඊයේ (18) පස්වරුවේ සොයාගැනුණි.
 
-Many people in the telila area in Kegalle are a beautiful place to relax.
-
-The young man had chosen the 27th birthday party in Kegalle, a young man had chosen to celebrate their 27th birthday party.
-
-However, residents of the area say that the group has been drinking many times near the Ella.
-
-The two-year young man drowned while taking a bath in the falls.
-
-The youth's body was floating in the falls yesterday afternoon.
-
-The victim is a young man who was preparing to last week.
+මෙලෙස ජීවිතක්ෂයට පත්ව ඇති තරුණයා ලබන සතියේ විදෙස් ගතවීම සඳහා සූදානමින් සිටි තරුණයෙක් බවද සඳහන්ය.
 
 ◼️
 
 [Data](articles/0c710441.json)
-
-[Extended Data](ext_articles/0c710441.ext.json)
 
 ---
 
@@ -232,33 +162,21 @@ Further investigations are being investigated by the Western Province Southern C
 
 ---
 
-### Police action on religious places in Anuradhapura6 people arrested
+### அநுராதபுரத்தில் மத வழிப்பாட்டுத் தலங்களில் போலியாக யாசகம் கேட்பவர்கள் மீது பொலிஸார் நடவடிக்கை ; 6 பேர் கைது
 
 *2024-11-19 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199124) · `ta`
 
-Here's a summary of the text in approximately 200 characters:
+அநுராதபுரத்தில் மத வழிப்பாட்டுத் தலங்களுக்கு வருகை தரும் யாத்ரீகர்களிடம் மருத்துவ உதவி போன்ற பல்வேறு காரணங்களை கூறி போலியாக யாசகம் பெற்ற ஆறு பெண்கள் கைது செய்யப்பட்டு பொலிஸ் காவலில் வைக்கப்பட்டுள்ளனர்.
 
+பல முறைப்பாடுகள் கிடைத்ததை அடுத்து ஜய ஸ்ரீ மஹா போதி மற்றும் ருவன்வெலிசேய மத வழிப்பாட்டுத் தலங்களில் முன்னெடுக்கப்பட்ட திடீர் சுற்றிவளைப்பில் யாத்ரீகர்களைப் பின்தொடர்ந்து சென்ற இந்த ஆறு பெண்கள் உடமலுவ பொலிஸ் அதிகாரிகளால் கைது செய்யப்பட்டுள்ளனர்.
 
+கைதுசெய்யப்பட்ட பெண்கள் கண் சத்திரசிகிச்சை, சிறுநீரக நோய்களுக்கான சிகிச்சை மற்றும் இந்தியாவிற்கு புனித யாத்திரை செல்வது போன்ற காரணங்களை கூறி யாசகம் பெற்றுள்ளதாக உடமலுவ  பொலிஸ் நிலைய பொறுப்பு அதிகாரி பொலிஸ் தலைமைப் பரிசோதகர் டபிள்யூ.சி.எல்.ஆர்.பி.கே. வெத்தேவ தெரிவித்துள்ளார்.
 
-"6 women aged 51-80 arrested in Anuradhapura for allegedly harassing pilgrims at religious sites. Police received complaints about unwanted assistance seeking money."
+இவர்கள் பணம் வழங்கும் வரை தங்களை தொந்தரவு செய்வதாக உள்ளூர் மற்றும் வெளிநாட்டு யாத்ரீகர்களிடமிருந்து பல புகார்கள் கிடைத்துள்ளதாகவும் அவர் தெரிவித்துள்ளார்.
 
-🟩
-
-Six women have been arrested and placed under police custody for various reasons such as medical assistance to pilgrims visiting religious places in Anuradhapura.
-
-These six women have been arrested by Udamaluwa police officers who followed the pilgrims in a sudden raid carried out in Jaya Sri Maha Bodhi and Ruwanwelisaya religious places following several complaints.
-
-Udammaluwa Police Responsible Police Chief Inspector WCLRPK. Said Wetheva.
-
-He said many complaints were received from local and foreign pilgrims that they would bother them until they were paid.
-
-The arrested women are between the ages of 51 and 80, from the Devanampitisa Pur, Badulagama, Vesakiriya, Dissawewa, Jayanthi Mawatha and Goragahawewa.
-
-◼️
+...
 
 [Data](articles/3ee98c4e.json)
-
-[Extended Data](ext_articles/3ee98c4e.ext.json)
 
 ---
 
@@ -387,8 +305,6 @@ In equities, the All Share Price Index opened up before dropping 0.74 percent, o
 ◼️
 
 [Data](articles/8569846b.json)
-
-[Extended Data](ext_articles/8569846b.ext.json)
 
 ---
 
@@ -570,29 +486,17 @@ The sports complex is designed to a domestic stadium in the stadium, mixing the 
 
 ---
 
-### Four gazettes on Prime Minister, Ministers and 99 Gazette
+### අගමැති , ඇමතිවරු සහ  99 න්  රවි, නාමල් ,පත්මනාදන්  පත් කිරීම් ගැන ගැසට් හතරක්
 
 *2024-11-19 08:21:03* · [`adalk`](https://www.ada.lk/breaking_news/අගමැති---ඇමතිවරු-සහ--99-න්--රවි--නාමල්--පත්මනාදන්--පත්-කිරීම්-ගැන-ගැසට්-හතරක්/11-413136) · `si`
 
-Here's a 200-character summary:
+2024 පාර්ලිමේන්තු මැතිවරණයට අදාළව  සිදුකළ  පාර්ලිමේන්තුවේ නව පත් කිරීම් ප්‍රකාශයට පත් කරමින්  අති විශේෂ ගැසට් නිවේදන හතරක් ඊයේ(18) දාතමින්  නිකුත්කර තිබේ.
 
+ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 44(2) ව්‍යවස්ථාව අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින් පත් කරනු ලැබූ  නව අමාත්‍යවරුන් 21 ගේ නම් හා  ඔවුන්ගේ විෂයන් පිළිබඳව සඳහන්  ගැසට් නිවේදනයද,  ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 44(3) ව්‍යවස්ථාව අනුව මුදල් , ක්‍රම සම්පාදන හා  ආර්ථික සංවර්ධන අමාත්‍ය ධුරය සහ  ඩිජිටල් ආර්ථික අමාත්‍ය ධූරය අග්‍රාමාත්‍යවරියගේ අදහස් විමසා    ජනාධිපති අනුර කුමාර දිසානායක මහතා යටතේ තබා ගන්නා බව සඳහන්    ගැසට් නිවේදනයද ,ආන්ඩුක්‍රම ව්‍යවස්ථාවේ 43(4) ව්‍යවස්ථාව අනුව ජනාධිපති අනුර කුමාර දිසානායක මහතා විසින්   නව  අග්‍රාමාත්‍යවරිය ලෙස පාර්ලිමේන්තු මන්ත්‍රී ආචාර්ය හරිනි අමරසූරිය මෙනෙවිය පත් කළ බව සඳහන්   ගැසට් නිවේදනයද ,වශයෙන් ගැසට් නිවේදන තුනක් ජනාධිපති අනුර කුමාර දිසානායක මහතාගේ නියමය පරිදි ජනාධිපති ලේකම් එන්.එස්.කුමානායක මහතා විසින් නිකුත් කෙරිණි .
 
-
-"4 gazettes issued: PM Anura Kumara Dissanayake appointed; 3 ministers named; 99th constitution amendment ratified; National list MPs declared."
-
-🟩
-
-Four special gazette notifications have been issued yesterday (18), declaring the new appointments in the parliamentary election.
-
-According to the Constitution of the Amendment of the Hon.The gazette notification stated that the Prime Minister Anura Kumara Dissanayake was appointed as the Prime Minister Anura Kumara Dissanayake.A statement of three announcements was issued by the Presidential Secretary of the President NS Sumarana on the law of President Anura Kumara Dissanayake.
-
-The Elections Commission has issued the other gazette notification, which has been appointed as national lists from the 99 Constitution of the Monadros of the Monadrand.Has been declared.
-
-◼️
+...
 
 [Data](articles/bd8a4d62.json)
-
-[Extended Data](ext_articles/bd8a4d62.ext.json)
 
 ---
 
@@ -835,28 +739,6 @@ The arrangement of information that will be useful to all MPs and obtain photogr
 [Data](articles/8d7aa674.json)
 
 [Extended Data](ext_articles/8d7aa674.ext.json)
-
----
-
-### නව රජයේ පැවැත්ම තීරණය කරන නව අභියෝග සහ ඒවා ජය ගැනීමට ඇති බාධා මොනවා ද?
-
-*2024-11-19 06:27:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgk5p3n7llo) · `si`
-
-නව රජයේ පැවැත්ම තීරණය කරන නව අභියෝග සහ ඒවා ජය ගැනීමට ඇති බාධා මොනවා ද?
-
-2024 මහ මැතිවරණ ප්‍රතිඵල අනුව ජාතික ජන බලවේගයට පාර්ලිමේන්තුව තුළ තුනෙන් දෙකකට අධික බලයක් හිමි වී තිබේ.
-
-2022 වසරේදී ගෝඨාභය රාජපක්ෂ ප්‍රමුඛ ශ්‍රී ලංකා පොදුජන පෙරමුණට එරෙහිව ගොඩනැගුණු මහජන අප්‍රසාදය සහ විරෝධතා වල ප්‍රතිඵලයක් ලෙස ප්‍රබල රාජපක්ෂවරුන් කිසිවෙක් මෙවර මහා මැතිවරණයට තරග නොකළ අතර; දේශපාලන විරෝධතාකරුවන් දුන් අනෙක් පැහැදිලි පණිවිඩය වූයේ, දූෂණය පිටුදැකීම සහ ප්‍රභූ පැළැන්තියේ පාලනය අවසන් කිරීම ය.
-
-රාජපක්ෂ පවුලේ ප්‍රබලයෝ පසු බසිති; මහ මැතිවරණයට රාජපක්ෂවරුන් නොඑන්නේ ඇයි?මහ මැතිවරණය 2024: දියවන්නාවට තරග නොකරන හිටපු මන්ත්‍රීවරුන් කවුද?
-
-ඒ අනුව, පසුගිය පාර්ලිමේන්තු මැතිවරණයේදී ආසන 3ක් පමණක් දිනා ගත් ජාතික ජන බලවේගය මෙවර තුනෙන් දෙකක බලයක් සහිත ආණ්ඩුවක් පිහිටුවීමට සමත්ව තිබීම විශේෂත්වයකි.
-
-මහ මැතිවරණය 2024: සජීවී නිල ප්‍රතිඵල මෙතැනින්'ගෝඨාභය එලවපු එළියේ ජනතා බලය පාර්ලිමේන්තුව තුළ නියෝජනය විය යුතුයි'අනුරගේ ජයග්‍රහණය පසුපස සිටි ටිල්වින්ගේ වසර 46ක 'අප්‍රකට' දේශපාලන ජීවිතය ගැන ඔබ දන්නවා ද?
-
-...
-
-[Data](articles/7237d46a.json)
 
 ---
 
@@ -2409,5 +2291,83 @@ In this case, the fans were also expecting the songs featured in the film. The '
 [Data](articles/bd7fda82.json)
 
 [Extended Data](ext_articles/bd7fda82.ext.json)
+
+---
+
+### Ministers must deal with infinite power - the President
+
+*2024-11-18 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/199105) · `ta`
+
+N
+
+🟩
+
+President Anuragumara Dissanayake said that the infinite power has been given to ministers responsibly.
+
+The President pointed out that our success is immense and that the weight of the responsibility given to us by success is the same as we must work together.
+
+The event was held at the Presidential Secretariat at the Presidential Secretariat on Monday (18).
+
+In particular, the most important turning point in Sri Lankan politics took place on September 21.
+
+We all know that the people of our country have participated in this change.. Or the politics of distrust and hostility among each people groups.
+
+But this election results shows that the political is no longer divided to our country. The election has been completed to connect the public's expectations to the north, south and east and west.
+
+Similarly, even if we vote for the party other than voting for us, we are expecting their intentions and intentions.No politician wants to disrupt democracy.
+
+...
+
+[Data](articles/15da154b.json)
+
+[Extended Data](ext_articles/15da154b.ext.json)
+
+---
+
+### It is thought that the ministry does not increase when internal problems occur
+
+*2024-11-18 17:17:59* · [`adalk`](https://www.ada.lk/breaking_news/අභ්‍යන්තර-ගැටලු-ඇතිවන-විට-ඇමතිධුර-වැඩි-කර-නොගනීවි-යැයි-සිතනවා/11-413125) · `si`
+
+Namal Rajapaksa criticizes government interference in popular movements. He accuses the ruling party of racism and nationalism. The opposition expects fewer ministerial positions without increasing the number of ministries.
+
+🟩
+
+The National Organizer of the Sri Lanka Known Opposition Namal Rajapaksa says that all the government does not interfere with the government's populiary without interrupting the government.
+
+He further stated that the Messianic Politica, who was present to Kandy, said that he was a Rajapaksa politician and that one was unable to quit politics. It is said that Phananemal Rajapaksa is a racist non-nationalist party to the unity of the Common Federation of Lanka Front.
+
+He said that his party was underway in the recent past, he said that the party was subdued in the global and regional political climate, he said.
+
+He said that the precepts of the Tharma, Anuradha and Chamaka, who represented the precepts of the opposition to work together, said that it would not be hurrasing to work and invite the parliamentary packets..
+
+The present government is expected to restrict ministerial posts and that the government is expecting the government without increasing the ministries.
+
+◼️
+
+[Data](articles/e7a3b807.json)
+
+[Extended Data](ext_articles/e7a3b807.ext.json)
+
+---
+
+### Sri Lanka sells extra Rs13.2bn Treasury bonds after auction
+
+*2024-11-18 17:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-extra-rs13-2bn-treasury-bonds-after-auction-188565/) · `en`
+
+ECONOMYNEXT – Sri Lanka has sold 13.2 billion rupees of bonds offered on tap at average rates set at an auction last week, data from the state debt office showed.
+
+The debt office sold a 01 May 2028 maturity bond (ISIN  LKB01528E016) at a weighted average yield rate of 11.63 percent.
+
+The debt office also sold a 01 October 2032 maturity bond (ISIN LKB02032J017) at a weighted average yield rate of 12.32 percent.
+
+On Tuesday (12) the debt office raised 132.5 billion rupees from the 2028 and 2032 bonds.
+
+Date of settlement of the above issuance is 18 November 2024. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/05542fb7.json)
+
+[Extended Data](ext_articles/05542fb7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 17:11:05**
+As of **2024-11-19 17:43:25**
 
 ## Newspaper Stats
 
-*Scraped **55,760** Articles*
+*Scraped **55,762** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,55 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,238
+adalk | 5,239
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
 virakesarilk | 9,059
-adaderanasinhalalk | 9,644
+adaderanasinhalalk | 9,645
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,760 (100.0%) of 55,760 articles have been extended.
+55,762 (100.0%) of 55,762 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### A proposal to remove MP privileges
+
+*2024-11-19 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203536) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+MP Hesha Vithana proposes removing MP privileges. He suggests eliminating perks like free meals, housing allowances, and vehicle benefits. The proposal aims to strengthen national power and reduce unnecessary expenses for lawmakers.
+
+🟩
+
+MP Hesha Vithana said that he would bring a private member proposal to remove the privileges of MPs after the new Parliament met.
+
+He points out that the new culture is being brought to strengthen the new president and the national power.
+
+"We too have no favorite for some privileges. Complete the morning and lunch that gives Members of Parliament. We'll get out of the house if necessary. "
+
+"If you are given the official residents of Colombo, apply on rent. Give it to the Mahapola Fund. "
+
+"The basic salary of a Member of Parliament is Rs. 54,285. If you don't, do this a respectful service. Stop all, including vehicle offers. "
+
+"Give Madiwela Parliamentary MPs as a hostel facilities for the hostel facilities."
+
+"Start this before 21th. Because 21 When giving out the house is not able to do this after. So start. "
+
+◼️
+
+[Data](articles/e08a4f9f.json)
+
+[Extended Data](ext_articles/e08a4f9f.ext.json)
+
+---
 
 ### Virus, dengue fever spread among children - Specialist specialist
 
@@ -187,6 +221,28 @@ Here's a summary of the text in approximately 200 characters:
 [Data](articles/1be3464b.json)
 
 [Extended Data](ext_articles/1be3464b.ext.json)
+
+---
+
+### Upcountry train interrupts
+
+*2024-11-19 16:10:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413147) · `si`
+
+Train service disrupted: Kandy-Fort Railway Line affected. Train returning to Yiliya from Kandy stopped at Kandyan station. Passengers transferred to buses in Diyatalawa.
+
+🟩
+
+The Railway Railway Control Room (Colombo-Lankapuvath) has been interrupted by the Kandy Fort Railway Line on the Kandyan railway station today (19) at the Diyatalawa road.
+
+The train engine was preparing to return to the Yiliya Railway Station from Kandy from Kandy.
+
+The Diyatalawa town went to Diyatalawa town and removed his travels in the bus station and further arrangements to be prepared in the bus station.
+
+◼️
+
+[Data](articles/59e251bf.json)
+
+[Extended Data](ext_articles/59e251bf.ext.json)
 
 ---
 
@@ -2473,37 +2529,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/ab315f29.json)
 
 [Extended Data](ext_articles/ab315f29.ext.json)
-
----
-
-### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
-
-*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380) · `en`
-
-Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
-
-Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
-
-...
-
-[Data](articles/83d7e229.json)
-
-[Extended Data](ext_articles/83d7e229.ext.json)
-
----
-
-### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
-
-*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380) · `en`
-
-Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
-
-Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
-
-...
-
-[Data](articles/b70bb8ef.json)
-
-[Extended Data](ext_articles/b70bb8ef.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 23:25:28**
+As of **2024-11-19 23:42:12**
 
 ## Newspaper Stats
 
-*Scraped **55,808** Articles*
+*Scraped **55,809** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 432
 colombotelegraphcom | 571
 bbccomsinhala | 575
 islandlk | 3,338
-economynextcom | 3,384
+economynextcom | 3,385
 dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,246
@@ -26,11 +26,27 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,800 (100.0%) of 55,808 articles have been extended.
+55,800 (100.0%) of 55,809 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### ADB US$200 million loan to strengthen Sri Lanka’s financial sector
+
+*2024-11-19 23:11:00* · [`economynextcom`](https://economynext.com/adb-us200-million-loan-to-strengthen-sri-lankas-financial-sector-188795/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank (ADB) has approved a 200 million dollar policy-based loan to help strengthen Sri Lanka’s financial sector, including strengthening the banking sector’s asset quality, and ensuring financial inclusion of women and vulnerable groups.
+
+This second subprogram of ADB’s Financial Sector Stability and Reforms Program builds on the stabilization and crisis management measures put in place under the first subprogram approved in 2023, ADB said in a statement.
+
+“Sri Lanka has made good progress in stabilizing macroeconomic conditions and improving the fiscal situation. ADB is helping the country establish long-term growth by introducing and institutionalizing structural reforms in its financial sector,” ADB Country Director for Sri Lanka Takafumi Kadono said.
+
+...
+
+[Data](articles/0cc11393.json)
+
+---
 
 ### நள்ளிரவு முதல் அனைத்துக்கும் தடை
 
@@ -2497,27 +2513,5 @@ The arrested Bangladeshi citizens will be produced before the Magistrate's Court
 [Data](articles/84828edb.json)
 
 [Extended Data](ext_articles/84828edb.ext.json)
-
----
-
-### The new cabinet meeting today
-
-*2024-11-19 10:25:02* · [`adalk`](https://www.ada.lk/breaking_news/නව-කැබිනෙට්ටුව-අද-රැස්වෙයි/11-413137) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New cabinet meeting today under President Anura Kumara Dissanayake's patronage. Government will discuss initial assets this morning.
-
-🟩
-
-New government first assets this morning. The meeting will be held under the patronage of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/c7842304.json)
-
-[Extended Data](ext_articles/c7842304.ext.json)
 
 ---

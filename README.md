@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 18:52:43**
+As of **2024-11-19 19:07:05**
 
 ## Newspaper Stats
 
-*Scraped **55,777** Articles*
+*Scraped **55,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,338
 economynextcom | 3,382
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,240
+adalk | 5,241
 adaderanalk | 6,720
 tamilmirrorlk | 7,908
 virakesarilk | 9,059
@@ -26,59 +26,89 @@ adaderanasinhalalk | 9,645
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,766 (100.0%) of 55,777 articles have been extended.
+55,770 (100.0%) of 55,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### சுகத்திற்கான பாராளுமன்ற ஏற்பாடுகள் குறித்து விளக்கம்
+### Explanation of Parliamentary Provisions for Health
 
 *2024-11-19 18:38:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகத்திற்கான-பாராளுமன்ற-ஏற்பாடுகள்-குறித்து-விளக்கம்/175-347453) · `ta`
 
-விசேட தேவையுடைய பாராளுமன்ற உறுப்பினர் சுகத் வசந்த டி சில்வாவின் தேவைகளைப் பூர்த்தி செய்வதற்காக விசேட ஏற்பாடுகளை அறிமுகப்படுத்தத் திட்டமிட்டுள்ளதாக இலங்கை பாராளுமன்றத்தின் செயலாளர் நாயகம் குஷானி ரோஹணதீர அறிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-பாராளுமன்ற உறுப்பினர் சுகத் வசந்த டி சில்வா தேசிய மக்கள் சக்தியின் (NPP) தேசிய பட்டியல் மூலம் பாராளுமன்ற உறுப்பினராக நியமிக்கப்பட்டுள்ளார். அவர் இலங்கையின் முதல் கட்புல குறைபாடுள்ள பாராளுமன்ற உறுப்பினர் ஆவார்.
 
-பாராளுமன்ற உறுப்பினருக்கான ஏற்பாடுகள் தொடர்பிலான விபரங்களை தெளிவுபடுத்திய குஷானி ரோஹனதீர, சபைக்குள் பிரவேசிப்பதற்கும் வெளியேறுவதற்கும் சுமூகமான பாதையை உறுதிப்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருவதாகத் தெரிவித்தார்.
 
-புதிய எம்.பி.யின் தனிப்பட்ட தேவைகளுக்கு ஏற்ப தொழில்நுட்ப மாற்றங்களைச் செய்து, வாக்களிப்பில் எம்.பி.யின் பங்களிப்பை உறுதி செய்வதற்கான ஏற்பாடுகளும் செய்யப்பட்டு வருவதாக அவர் மேலும் கூறினார்.
+Special arrangements for new Sri Lankan MP Sukat Vasantha de Silva: personalized technical changes, Braille system, voice mechanism for voting. Parliament's 10th session begins Nov 21, 2024.
 
-...
+🟩
+
+Sri Lanka's Secretary General of Parliament Kushani Rohanadeera has announced that special arrangements are planned to meet the needs of Special Member of Parliament Sukat Vasantha de Silva.
+
+Member of Parliament. He is a Sri Lankan first -handed Member of Parliament.
+
+Kushani Rohanadeera, who made the details of the arrangements for the Member of Parliament, said that steps are being taken to ensure the smooth path to enter the congregation.
+
+He added that arrangements are being made to make technical changes in accordance with the personal needs of the new MP and ensure the contribution of the MP in the vote.
+
+Parliament is also considering the introduction of the Braille system and voice mechanism to vote to assist the parliamentary actions of Parliamentarian Sukat Vasantha de Silva.
+
+It is noteworthy that the inaugural session of the 10th Parliament of Sri Lanka will be held on November 21, 2024.
+
+◼️
 
 [Data](articles/06dab494.json)
 
+[Extended Data](ext_articles/06dab494.ext.json)
+
 ---
 
-### விளையாட்டுத்துறை அமைச்சர் கடமைகளைப் பொறுப்பேற்றார்
+### The Minister of Sports took charge of duties
 
 *2024-11-19 18:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளையாட்டுத்துறை-அமைச்சர்-கடமைகளைப்-பொறுப்பேற்றார்/175-347452) · `ta`
 
-இலங்கையின் 21வது விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சராக சுனில் குமார கமகே இன்று கொழும்பில் உள்ள விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சில் தனது கடமைகளை பொறுப்பேற்றுக் கொண்டார்.
+Here's a summary of 200 characters:
 
-அமைச்சர் சுனில் குமார கமகே தேசிய மக்கள் சக்தியின் (NPP) தேசிய பட்டியல் ஊடாக பாராளுமன்றத்திற்கு பிரவேசித்துள்ளார்.
+
+
+Sri Lanka: Sunil Kumara Kamage assumes Sports & Youth Affairs portfolio. He entered parliament via NPP National List.
+
+🟩
+
+Sunil Kumara Kamage as Minister of Sports and Youth Affairs in Sri Lanka today took over his duties at the Ministry of Sports and Youth Affairs in Colombo.
+
+Minister Sunil Kumara Kamage has entered parliament through the National People's Power (NPP) National List.
 
 ◼️
 
 [Data](articles/3d38ee49.json)
 
+[Extended Data](ext_articles/3d38ee49.ext.json)
+
 ---
 
-### புதிய செயலாளர்கள் நியமனம்
+### Appoint new secretaries
 
 *2024-11-19 18:16:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்கள்-நியமனம்/175-347451) · `ta`
 
-புதிய செயலாளர்களுக்கு நியமனம் வழங்கும் நிகழ்வு ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக்க சனத் குமாநாயக்க தலைமையில் இன்று (19) ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+New secretaries appointed: CK Perera (Transport), AHM Aruna Bandara (Youth Affairs), Aruni Ranarajah (Foreign Affairs). Event hosted by President's Secretary Dr. Nandika Sanath Kumanayake at Presidential Secretariat.
 
-03.சீ.கே.பெரேரா - போக்குவரத்து, நெடுஞ்சாலைகள் , துறைமுகங்கள் மற்றும் சிவில் விமானத்துறை அமைச்சு
+🟩
 
-17.ஏ.எச்.எம்.யூ - அருண பண்டார - இளைஞர் விவகார மற்றும் விளையாட்டுத்துறை அமைச்சு
+The appointment of new secretaries was held at the Presidential Secretariat today (19) under the patronage of President's Secretary Dr. Nandika Sanath Kumanayake.
 
-18.அருணி ரணராஜா - வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சு (R)
+03.CK Perera - Ministry of Transport, Highways, Ports and Civil Aviation Ministry
+
+17 AHM - Aruna Bandara - Ministry of Youth Affairs and Sports
+
+18. Aruni Ranarajah - Ministry of Foreign Affairs, Foreign Employment and Tourism (R)
 
 ◼️
 
 [Data](articles/83e6f5da.json)
+
+[Extended Data](ext_articles/83e6f5da.ext.json)
 
 ---
 
@@ -210,6 +240,20 @@ The central bank announced it would issue Rs 145,000 million Treasury bills thro
 
 ---
 
+### ඉන්ධන මිල සූත්‍රය අහෝසි කිරීමක් නෑ
+
+*2024-11-19 16:50:29* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සූත්‍රය-අහෝසි-කිරීමක්-නෑ/11-413150) · `si`
+
+ඉන්ධන මිල සූත්‍රයක් පැවතීම හොඳ දෙයක් බවත් එය සංශෝධනය විය යුතුද යන්න සලකා බලන බවත් බලශක්ති අමාත්‍ය ඉංජිනේරු කුමාර ජයකොඩි මහතා පැවැසීය. අමාත්‍යාංශයේ වැඩ ආරම්භ කිරීමෙන් අනතුරුව ඔහු මේ බව පැවැසීය.
+
+"ඉන්ධන මිල සූත්‍රය අහෝසි කිරීමේ අවශ්‍යතාවක් පැන නැගලා නෑ. අපි බලනවා මොකක්ද වෙන්න ඕන කියලා. ඉන්ධන මිල සූත්‍රයක් තිබෙන එක හොඳයි. ඒක සංශෝධනය කරන්න  ඕනද කියලා බලනවා. අපි අලුත් විදිහට හිතනවා. අපි ඉන්ධන මිල අඩු කරන්න තමයි හදන්නේ"
+
+◼️
+
+[Data](articles/62222ff1.json)
+
+---
+
 ### Virus, dengue fever spread among children - Specialist specialist
 
 *2024-11-19 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199168) · `ta`
@@ -287,6 +331,8 @@ Wijepala won the November 14 presidential poll under the ruling National People�
 ...
 
 [Data](articles/4933d5d6.json)
+
+[Extended Data](ext_articles/4933d5d6.ext.json)
 
 ---
 
@@ -2507,23 +2553,5 @@ Since its establishment in 2017, EO Sri Lanka has grown steadily, overcoming glo
 [Data](articles/6cd7002d.json)
 
 [Extended Data](ext_articles/6cd7002d.ext.json)
-
----
-
-### Tea Exporters Association congratulates President and NPP
-
-*2024-11-19 01:50:24* · [`dailyftlk`](https://www.ft.lk/business/Tea-Exporters-Association-congratulates-President-and-NPP/34-769402) · `en`
-
-The Tea Exporters Association (TEA) yesterday expressed its warmest congratulations and best wishes to President Anura Kumara Dissanayake and the newly elected Government on the landslide victory at the General Election.
-
-“The election was conducted in a peaceful and transparent manner that is commended by the business community,” said TEA Chairman Huzefa Akbarally in a statement.
-
-As Sri Lanka begins a new era under your leadership and the new Government, we are confident that the country would be able to overcome the prevailing economic challenges and move towards prosperity with appropriate economic policies and timely implementation of them.
-
-...
-
-[Data](articles/9b69342b.json)
-
-[Extended Data](ext_articles/9b69342b.ext.json)
 
 ---

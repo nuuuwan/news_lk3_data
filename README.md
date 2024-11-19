@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 16:41:35**
+As of **2024-11-19 17:11:05**
 
 ## Newspaper Stats
 
-*Scraped **55,756** Articles*
+*Scraped **55,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,105 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,237
+adalk | 5,238
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
-virakesarilk | 9,056
+virakesarilk | 9,059
 adaderanasinhalalk | 9,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,756 (100.0%) of 55,756 articles have been extended.
+55,760 (100.0%) of 55,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### Virus, dengue fever spread among children - Specialist specialist
+
+*2024-11-19 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199168) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Viral fever & dengue spreading among children. Symptoms: cough, colds, body pain, vomiting. Fever lasting >3 days requires medical attention. HFMD spreads in schools. Look for white blisters in mouth/palms/toes and brown/red skin with itching. Consult doctors if fever persists. Dengue death rate is 0.1%, requiring special care.
+
+🟩
+
+Deepal Perera, a specialist specialist in the country, said that viral fever and dengue are spreading among children in the country.
+
+Symptoms of viral fever, such as coughing, colds, body pain and occasional vomiting among children.
+
+If the fever lasts for more than three days among children, parents should look at the symptoms of the disease and seek the help of doctors.
+
+Hand, foot and mouth disease (HFMD) is currently spreading among schoolchildren.
+
+Parents should observe whether there are signs of white blisters, as well as in the mouth of the children's palms and toes, around the mouth or in the upper butch, as well as signs of brown or red skin and itching in the mouth.
+
+Parents have been informed that some of these symptoms are similar to the symptoms of influenza, so it is necessary to obtain medical advice if the fever continues.
+
+Dengue fever death Vikim is 0.1 percent hazardous possibilities, so it requires special attention
+
+...
+
+[Data](articles/f8cf9552.json)
+
+[Extended Data](ext_articles/f8cf9552.ext.json)
+
+---
+
+### Elderly man arrested with foreign gun and bullets
+
+*2024-11-19 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199159) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Elderly man (70) arrested in Kandy with foreign firearm & bullets. Police seized 12 rifles, 6 bullets during raid.
+
+🟩
+
+An elderly man has been arrested on Monday (18) with a firearm manufactured abroad in the Dunuvila area, which belongs to the Alawathugoda police division, Kandy, Alawatukoda police said.
+
+The suspect has been arrested during a raid carried out on the basis of information received by the Alawatukoda police.
+
+The arrested suspect is a 70 -year -old elderly man who lives in Akkuranna, Kandy.
+
+Police have seized 12 rifles and six bullets from the suspect.
+
+◼️
+
+[Data](articles/3ed2e956.json)
+
+[Extended Data](ext_articles/3ed2e956.ext.json)
+
+---
+
+### 100 crores worth of drug pills
+
+*2024-11-19 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
+
+Colombo customs seize Rs 100 crore drug pills targeting schoolchildren.
+
+🟩
+
+Customs officials have seized about Rs 100 crore from a barn at the Colombo port premises.
+
+The drug pills have been seized by a trader in the Pettah area in 36 illegally imported boxes from India.
+
+Customs officials said the drug pills have been brought in targeting schoolchildren.
+
+◼️
+
+[Data](articles/f042dc79.json)
+
+[Extended Data](ext_articles/f042dc79.ext.json)
+
+---
 
 ### The Promise of the Ministry of Police
 
@@ -86,28 +170,6 @@ From the arrested suspect, 05 grams of 320 milligrams of heroin has been seized 
 
 ---
 
-### 100 crores worth of drug pills
-
-*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
-
-Colombo customs seize Rs 100 crore drug pills targeting schoolchildren.
-
-🟩
-
-Customs officials have seized about Rs 100 crore from a barn at the Colombo port premises.
-
-The drug pills have been seized by a trader in the Pettah area in 36 illegally imported boxes from India.
-
-Customs officials said the drug pills have been brought in targeting schoolchildren.
-
-◼️
-
-[Data](articles/f042dc79.json)
-
-[Extended Data](ext_articles/f042dc79.ext.json)
-
----
-
 ### 18 kg of Grease bucket magic in the Transport Board !!
 
 *2024-11-19 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199148) · `ta`
@@ -125,6 +187,30 @@ Here's a summary of the text in approximately 200 characters:
 [Data](articles/1be3464b.json)
 
 [Extended Data](ext_articles/1be3464b.ext.json)
+
+---
+
+### Leader of the House Bimal Ratnayake
+
+*2024-11-19 16:00:44* · [`adalk`](https://www.ada.lk/breaking_news/සභානායක-බිමල්-රත්නායක/11-413146) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Bimal Ratnayake named Leader of 10th Parliament. Serves as Transport, Highways, Ports & Civil Aviation Minister.
+
+🟩
+
+Minister Bimal Ratnayake has been appointed as the Leader of the 10th Parliament.
+
+Bimal Ratnayake serves as the Minister of Transport, Highways, Ports and Civil Aviation.
+
+◼️
+
+[Data](articles/e75fbb93.json)
+
+[Extended Data](ext_articles/e75fbb93.ext.json)
 
 ---
 
@@ -309,6 +395,32 @@ Health and Mass Media Minister Dr. Nalinda Jayatissa has been appointed as a med
 [Data](articles/4e289b24.json)
 
 [Extended Data](ext_articles/4e289b24.ext.json)
+
+---
+
+### With the support of Tamils, he is in the presidential history - Udaya Kammanpila
+
+*2024-11-19 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199150) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Udaya Kammanpila claims President Anura Kumara Dissanayake won Tamil support, calling him "magical." First time a party won Northern/Eastern provinces separately. Government faces challenges with IMF, budget submission, and local elections.
+
+🟩
+
+President Anura Kumara Dissanayake, who has fully received the support of the Northern and Eastern Provinces, should be referred to as the magician.Udaya Kammanpila, a former leader of the Pivithuru Hela Urumaya (JHU) and former MP, said that it should openly accept that the presidential history has been in the presidential history with the support of Tamils ​​in the general election.
+
+He was speaking at a media briefing held at the Pivithuru Hela Urumaya (JHU) office in Colombo on Tuesday.
+
+This is the first time that a separate political party in the history of the Sri Lankan general election has won separately in the Northern and Eastern Provinces. President Anura Kumara Dissanayake must openly acknowledged that the people of the North and East have fully conquered the support of the people.
+
+...
+
+[Data](articles/b80316e7.json)
+
+[Extended Data](ext_articles/b80316e7.ext.json)
 
 ---
 
@@ -2393,77 +2505,5 @@ Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from 
 [Data](articles/b70bb8ef.json)
 
 [Extended Data](ext_articles/b70bb8ef.ext.json)
-
----
-
-### Hela Apparel Holdings reports significantly improved financial performance in Q2 FY 2024/25
-
-*2024-11-18 22:57:00* · [`islandlk`](http://island.lk/hela-apparel-holdings-reports-significantly-improved-financial-performance-in-q2-fy-2024-25/) · `en`
-
-Hela Apparel Holdings PLC has announced a significant improvement in its financial performance during the quarter ended 30th September, with a return to operating profit for the first time in eight quarters. This positive result highlights the recovery of demand conditions in its key export markets and underscores the successful outcomes of its ongoing restructuring exercise.
-
-The Hela Group’s revenue surged by 36.5% year-on-year to Rs. 23.4 billion in the second quarter of FY 2024/25. This was primarily driven by the contribution of the recently established Brand Licensing Division, following the acquisition of UK-based Focus Brands in January 2024. Sales for the existing Private Label Manufacturing Division were also supported by the ongoing recovery in demand from its key brand partners across the US and Europe.
-
-...
-
-[Data](articles/51c3dac0.json)
-
-[Extended Data](ext_articles/51c3dac0.ext.json)
-
----
-
-### Profit-takings retard momentum in stock market trading
-
-*2024-11-18 22:52:00* · [`islandlk`](http://island.lk/profit-takings-retard-momentum-in-stock-market-trading/) · `en`
-
-The stock market yesterday kicked off on a bullish trend and moved up to 200 points but due to profit- takings it could not maintain this momentum but ended up on a positive note, market analysts said.
-
-Amid those developments both indices moved upwards. The All Share Price Index went up by 32.21 points while S and P SL20 rose by 6.71 points. Turnover stood at Rs 5.53 billion with nine crossings.
-
-...
-
-[Data](articles/ee8326f8.json)
-
-[Extended Data](ext_articles/ee8326f8.ext.json)
-
----
-
-### President urges IMF to strike a balance in Sri Lanka’s economic recovery program
-
-*2024-11-18 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103597/president-urges-imf-to-strike-a-balance-in-sri-lankas-economic-recovery-program) · `en`
-
-The government of President Anura Kumara Dissanayake has reaffirmed its readiness to collaborate with the International Monetary Fund (IMF) to advance Sri Lanka’s economic recovery within the context of the mandate.
-
-Senior Mission Chief Peter Breuer and the IMF delegation met with President Dissanayake and key ministers of the newly-formed government at the Presidential Secretariat today (18), to discuss the next steps in the IMF program, the President’s Media Division (PMD) reported.
-
-The IMF team congratulated the President and his government on their decisive electoral victory, expressing optimism about the collaboration.
-
-President Dissanayake, in turn, underscored his administration’s responsibility to uphold the people’s mandate, emphasizing that the success of the IMF program hinges on rebuilding public trust in governance.
-
-...
-
-[Data](articles/5235592c.json)
-
-[Extended Data](ext_articles/5235592c.ext.json)
-
----
-
-### Over 46kg heroin found in fishing trawler intercepted on high seas; 5 arrested
-
-*2024-11-18 22:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/103596/over-46kg-heroin-found-in-fishing-trawler-intercepted-on-high-seas-5-arrested) · `en`
-
-The Sri Lanka Navy says that more than 46kg of heroin with an estimated street value exceeding Rs. 1,152 million was found inside a local multi-day fishing trawler intercepted during a special operation on the high seas about 110 nautical miles (200km) west of Sri Lanka.
-
-The operation, conducted by SLNS Nandimithra, resulted in the apprehension of 05 suspects linked to the illicit activity, the navy said.
-
-Upon escorting the vessel to Galle Harbour, a detailed inspection uncovered approximately 46kg and 116g of heroin, concealed in 40 parcels packed into 02 sacks. The seized narcotics are estimated to have a street value exceeding Rs. 1152 million.
-
-Based on intelligence received, the Sri Lanka Navy had launched this special operation, deploying SLNS Nandimithra to intercept the suspicious local multi-day fishing trawler on the high seas west of Sri Lanka on Saturday (16).
-
-...
-
-[Data](articles/725062d0.json)
-
-[Extended Data](ext_articles/725062d0.ext.json)
 
 ---

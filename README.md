@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 12:27:51**
+As of **2024-11-19 12:42:04**
 
 ## Newspaper Stats
 
-*Scraped **55,721** Articles*
+*Scraped **55,722** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 569
+colombotelegraphcom | 570
 bbccomsinhala | 573
 islandlk | 3,338
 economynextcom | 3,374
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,634
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,719 (100.0%) of 55,721 articles have been extended.
+55,719 (100.0%) of 55,722 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -867,6 +867,18 @@ The arrangement of information that will be useful to all MPs and obtain photogr
 [Data](articles/8d7aa674.json)
 
 [Extended Data](ext_articles/8d7aa674.ext.json)
+
+---
+
+### Expectations From The Government
+
+*2024-11-19 06:57:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/expectations-from-the-government/) · `en`
+
+The political avalanche that swept the electoral landscape due to the demand for change was unprecedented. In some electorates the majority achieved by the NPP exceeded 70 percent. The overall majority in the country was 61 percent. The avalanche swept aside many who had earned names for themselves on account of their long years of commitment to influence policies in the national interest. In their place will be a host of much younger persons who will come in with their ideals and hopes for positive change but with little experience of governance and even administration. The government is aware of this issue and has arranged for a three day workshop on parliamentary procedures, session activities and the functioning of committees.
+
+...
+
+[Data](articles/b27528a7.json)
 
 ---
 
@@ -2365,35 +2377,5 @@ Actor Rishabh Shetty - Actor Rishabh Shetty - Actor Rishabh Shetty - Actor Risha
 [Data](articles/dcefd4a9.json)
 
 [Extended Data](ext_articles/dcefd4a9.ext.json)
-
----
-
-### Notification relating to school holiday
-
-*2024-11-18 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/199099) · `ta`
-
-Here's a summary of the notification in approximately 200 characters:
-
-
-
-School holiday announcement: Third term 2024 ends Nov 22. Holiday from Nov 23 to Dec 31. GCE A/L exams during this period. Second phase from Jan 1 to 17, 2025.
-
-🟩
-
-The Ministry of Education has announced a schedule for the completion and commencement of the third installment of state and state -approved private schools.
-
-Accordingly, the first phase of the third term for 2024 will be completed on the 22nd of November.
-
-Accordingly, schools will be given holidays from 23rd November 23rd 2025.
-
-The Ministry of Education said that the GCE A / L examination will be held during this period.
-
-The second phase of the third installment of 2024 will be held from January 1st to 17th of January 2025.
-
-◼️
-
-[Data](articles/6d9bd957.json)
-
-[Extended Data](ext_articles/6d9bd957.ext.json)
 
 ---

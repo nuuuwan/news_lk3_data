@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 01:25:45**
+As of **2024-11-20 02:01:02**
 
 ## Newspaper Stats
 
-*Scraped **55,812** Articles*
+*Scraped **55,816** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,86 @@ dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
 tamilmirrorlk | 7,914
-virakesarilk | 9,072
+virakesarilk | 9,076
 adaderanasinhalalk | 9,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,812 (100.0%) of 55,812 articles have been extended.
+55,816 (100.0%) of 55,816 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### The music monster ji. V.. Prakash Kumar released 'Nam' film Burst Look
+
+*2024-11-20 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199190) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Nam" film release: Debut director Avinash Prakash's movie starring newcomers. Music by Ved Shankar. Produced by V.S. Raju's Kala Pavasree Creations. First look features an old man and three children with a dog. Expected to screen at international film festivals next year.
+
+🟩
+
+Burst Look has been released by newcomers starring 'Nam'. This is 'music monster' ji. V.. Prakash Kumar posted on his web page and congratulated the film crew.
+
+The debut director Avinash Prakash has starred in the upcoming film 'Nam'. Ved Shankar has composed the film, which has been recorded by Avinash Prakash. The film was made on behalf of Kala Pavasree Creations Company.. V.. S.. Raju has produced.
+
+The film crew released the first look of the film.. The film will be released in theaters next year. The first look of 'We' is designed to be a side face of an old man.. It is also the focus of three children with a pet dog under it. The film is also mentioned as the film will be celebrated at international film festivals ... The expectation of the film has increased.
+
+◼️
+
+[Data](articles/b2df820c.json)
+
+[Extended Data](ext_articles/b2df820c.ext.json)
+
+---
+
+### Asian Development Bank of Sri Lanka
+
+*2024-11-20 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199192) · `ta`
+
+Asian Development Bank grants $200m loan to Sri Lanka
+
+🟩
+
+The Asian Development Bank of India (ADB) on Tuesday (19) granted permission to provide US $ 200 million loans to Sri Lanka.
+
+◼️
+
+[Data](articles/cb8af5fd.json)
+
+[Extended Data](ext_articles/cb8af5fd.ext.json)
+
+---
+
+### Arun Vijay clashes with Ajith Kumar
+
+*2024-11-20 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199191) · `ta`
+
+Arun Vijay's "Vanankan" clashes with Ajith Kumar's film on Pongal 2025. Both stars' movies releasing same day causes fan excitement and potential competition between fan bases.
+
+🟩
+
+Arun Vijay's upcoming film 'Vanankan' will be released in the Pongal holidays in January, with a special photo of the film crew.
+
+Arun Vijay, Roshini Prakash, Samudrakani, John Vijay, Mishkin, Radha Ravi, Shanmugarajan, Lion Tiger. R. B.. Gurudev's cinematography for this movie. Prakash Kumar and Sam c. S.. They have composed the music.
+
+The film is being produced as an exercise enterter and produced by producer Suresh Kamakshi on behalf of V House Productions.
+
+All the tasks of this movie are completed and waiting for the release. In this backdrop, the film will be released on Pongal holidays in January 2025 and will be officially announced later on the date.. His fans are excited as the film crew has announced the release date of the movie 'Vanankan' which is the birthday of actor Arun Vijay.
+
+...
+
+[Data](articles/e9ace91d.json)
+
+[Extended Data](ext_articles/e9ace91d.ext.json)
+
+---
 
 ### Actor Mohanlal visits Sri Lanka
 
@@ -54,6 +122,32 @@ Sri Lankan Airlines has been welcomed on behalf of Sri Lanka Actor Mohanlal. (A)
 
 ---
 
+### Saira divorces AR Rahman
+
+*2024-11-20 00:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199189) · `ta`
+
+AR Rahman and Saira divorce after 29 years of marriage. Their lawyer confirms the end of their union, citing relationship difficulties and depression. The couple was set to celebrate 30 years together in 2025.
+
+🟩
+
+His lawyer has issued an official statement that their 29 years of marriage has come to an end.
+
+Oscar -winning composer AR Rahman and his wife, Saira, were due to complete a 3 decade wedding in March next year (2025).
+
+Rahman and Saira were married in March 1995 in Chennai.Rahman and his wife have three children, Khadija, Rahima and Amin.
+
+Many years after getting married, husband AR. They have decided to split up with each other, although they are very loved by each other, that the decision has been made of the separation of Rahman and this decision was taken after the depression in their relationship.
+
+Mental bitterness and many difficulties have created a gap between them.Saira has made the decision due to great pain and pain, the statement said.
+
+◼️
+
+[Data](articles/5347d803.json)
+
+[Extended Data](ext_articles/5347d803.ext.json)
+
+---
+
 ### Loan from Asian Development Bank
 
 *2024-11-20 00:44:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிய-அபிவிருத்தி-வங்கியிடமிருந்து-கடனுதவி/175-347470) · `ta`
@@ -71,6 +165,40 @@ The Asian Development Bank said the loan would be given to help further strength
 [Data](articles/17078dcc.json)
 
 [Extended Data](ext_articles/17078dcc.ext.json)
+
+---
+
+### Shiraz's first wicket was dropped by rain with 21 overs
+
+*2024-11-20 00:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/199188) · `ta`
+
+<PHIND_TIMEOUT>
+
+🟩
+
+The 3rd and last international ODI match between Sri Lanka and New Zealand held on Tuesday (19) in Pallekele, Kandy, was abandoned due to rain.
+
+However, Sri Lanka, which won the first two matches, made 3 matches 2 - 0.
+
+New Zealand, who decided to bat first, lost the wicket in 21 overs and scored 112 runs.
+
+Will Young did not play with 56 runs and Henry Nickels 46.
+
+Mohammed Shiraz, who lost Henry Nickels with 9 runs, took his first wicket in the international ODIs.
+
+It was announced at 5.30 pm that the pitch and the stadium would be parked at 6.00 pm as it rained for about one and a half hours.
+
+However, a short time after the announcement was raining, the goat's review was abandoned.
+
+The rain started at 7.30pm but the next tenth minute began to rain again. It was announced that the match was abandoned at 7.53 pm.
+
+In the first two matches, Kusal Mendis, Betham Nissanka, Kamindu Mendis and Asitha Fernando were restored.
+
+...
+
+[Data](articles/02b792c6.json)
+
+[Extended Data](ext_articles/02b792c6.ext.json)
 
 ---
 
@@ -143,40 +271,6 @@ The Election Commissioner's Department said that if someone, the company or some
 [Data](articles/c4198192.json)
 
 [Extended Data](ext_articles/c4198192.ext.json)
-
----
-
-### Shiraz's first wicket was dropped by rain with 21 overs
-
-*2024-11-19 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199188) · `ta`
-
-<PHIND_TIMEOUT>
-
-🟩
-
-The 3rd and last international ODI match between Sri Lanka and New Zealand held on Tuesday (19) in Pallekele, Kandy, was abandoned due to rain.
-
-However, Sri Lanka, which won the first two matches, made 3 matches 2 - 0.
-
-New Zealand, who decided to bat first, lost the wicket in 21 overs and scored 112 runs.
-
-Will Young did not play with 56 runs and Henry Nickels 46.
-
-Mohammed Shiraz, who lost Henry Nickels with 9 runs, took his first wicket in the international ODIs.
-
-It was announced at 5.30 pm that the pitch and the stadium would be parked at 6.00 pm as it rained for about one and a half hours.
-
-However, a short time after the announcement was raining, the goat's review was abandoned.
-
-The rain started at 7.30pm but the next tenth minute began to rain again. It was announced that the match was abandoned at 7.53 pm.
-
-In the first two matches, Kusal Mendis, Betham Nissanka, Kamindu Mendis and Asitha Fernando were restored.
-
-...
-
-[Data](articles/02b792c6.json)
-
-[Extended Data](ext_articles/02b792c6.ext.json)
 
 ---
 
@@ -2455,125 +2549,5 @@ External Affairs Minister Vijitha Herath, who was re -appointed as External Affa
 [Data](articles/23afb6af.json)
 
 [Extended Data](ext_articles/23afb6af.ext.json)
-
----
-
-### Ashan to the last of the finished birthday
-
-*2024-11-19 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203523) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Man drowns during 27th birthday celebration in Kegalle. Group was drinking near Ella Falls. Victim's body found floating in falls. Incident occurred last week.
-
-🟩
-
-A man was killed in a 27-year-old man drowned in the Elimaya Kegalle.
-
-Our correspondent stated that when he was celebrating the birthday party with his friends.
-
-Many people in the telila area in Kegalle are a beautiful place to relax.
-
-The young man had chosen the 27th birthday party in Kegalle, a young man had chosen to celebrate their 27th birthday party.
-
-However, residents of the area say that the group has been drinking many times near the Ella.
-
-The two-year young man drowned while taking a bath in the falls.
-
-The youth's body was floating in the falls yesterday afternoon.
-
-The victim is a young man who was preparing to last week.
-
-◼️
-
-[Data](articles/0c710441.json)
-
-[Extended Data](ext_articles/0c710441.ext.json)
-
----
-
-### Risk warning to several districts
-
-*2024-11-19 11:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல-மாவட்டங்களுக்கு-அபாய-எச்சரிக்கை/175-347427) · `ta`
-
-Landslide warnings issued for 9 divisional secretariats in 4 districts due to heavy rains. First-level alert for Pulath Kaiputiya, Varakapola in Kegalle; secondary warning for Ruwanwella also in Kegalle. Alerts issued for Alawa, Naramala in Kurunegala. First-level alerts for Balangoda, Imbulbe, Opanayake in Ratnapura. Warnings valid until 9:30 PM today.
-
-🟩
-
-Nine Divisional Secretariats in four districts have been issued a landslide hazard warning due to heavy rains in many parts of the country.
-
-The announcement issued by the National Building Research Institute has been extended till 9.30 pm today.
-
-The first level notification has been issued to the Pulath Kaiputiya and Varakapola Divisional Secretariat Divisions in Kegalle district.
-
-A secondary warning has been issued to the Ruwanwella Divisional Secretariat Division of the Kegalle District.
-
-Secondary announcement to Alawa and Naramala Divisional Secretariat Divisions in Kurunegala District
-
-In the Ratnapura district, the first level has been issued to the Divisional Secretariat Divisions of Balangoda, Imbulbe and Opanayake.. (R)
-
-◼️
-
-[Data](articles/25b716c9.json)
-
-[Extended Data](ext_articles/25b716c9.ext.json)
-
----
-
-### Two arrested in Dehiwala shooting incident
-
-*2024-11-19 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199125) · `ta`
-
-Dehiwala shooting: 2 arrested over drug dispute. Police seize motorcycle, weapon, and bullets. Investigation ongoing.
-
-🟩
-
-The Southern Provincial Crime Unit of the Western Province said that two persons, including a chief gunman, were arrested on Monday (18) in connection with the shooting of a man in Nithimala, Dehiwala on September 20.
-
-Police investigations have revealed that the murder was caused by a drug dispute between two drug trafficking and underworld gang, Badovitta Kos Malli and Badowita Asanga.
-
-The arrested are the 27 -year -old man from Padukku and a 30 -year -old man from Athurugiriya.
-
-A motorcycle, gun and 8 bullets used for shooting from the suspects have been seized by the police.
-
-Further investigations are being investigated by the Western Province Southern Crime Prevention Unit.
-
-◼️
-
-[Data](articles/be317daf.json)
-
-[Extended Data](ext_articles/be317daf.ext.json)
-
----
-
-### Police action on religious places in Anuradhapura6 people arrested
-
-*2024-11-19 11:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199124) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"6 women aged 51-80 arrested in Anuradhapura for allegedly harassing pilgrims at religious sites. Police received complaints about unwanted assistance seeking money."
-
-🟩
-
-Six women have been arrested and placed under police custody for various reasons such as medical assistance to pilgrims visiting religious places in Anuradhapura.
-
-These six women have been arrested by Udamaluwa police officers who followed the pilgrims in a sudden raid carried out in Jaya Sri Maha Bodhi and Ruwanwelisaya religious places following several complaints.
-
-Udammaluwa Police Responsible Police Chief Inspector WCLRPK. Said Wetheva.
-
-He said many complaints were received from local and foreign pilgrims that they would bother them until they were paid.
-
-The arrested women are between the ages of 51 and 80, from the Devanampitisa Pur, Badulagama, Vesakiriya, Dissawewa, Jayanthi Mawatha and Goragahawewa.
-
-◼️
-
-[Data](articles/3ee98c4e.json)
-
-[Extended Data](ext_articles/3ee98c4e.ext.json)
 
 ---

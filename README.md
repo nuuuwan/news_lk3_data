@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 22:15:57**
+As of **2024-11-19 22:01:22**
 
 ## Newspaper Stats
 
-*Scraped **55,799** Articles*
+*Scraped **55,798** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 571
+colombotelegraphcom | 570
 bbccomsinhala | 575
 islandlk | 3,338
 economynextcom | 3,384
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,650
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,795 (100.0%) of 55,799 articles have been extended.
+55,795 (100.0%) of 55,798 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -821,18 +821,6 @@ Wijepala won the November 14 presidential poll under the ruling National People�
 [Data](articles/4933d5d6.json)
 
 [Extended Data](ext_articles/4933d5d6.ext.json)
-
----
-
-### Sri Lanka’s Foreign Employment Bureau Must End The Humiliation Of Travelers
-
-*2024-11-19 16:35:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-foreign-employment-bureau-must-end-the-humiliation-of-travelers/) · `en`
-
-The Foreign Employment Bureau (FEB) at Sri Lanka’s Bandaranaike International Airport is under fire for subjecting first-time travelers to invasive and humiliating checks, often reducing excited travelers to distressed victims of bureaucratic power plays. The ostensible purpose behind these checks is to prevent unauthorized employment abroad, but in reality, these practices target innocent passengers on visit visas, stripping them of their dignity and treating them as though they are presumed criminals. This troubling trend has only worsened, with mounting calls for the new government to urgently step in and restore travelers’ rights.
-
-...
-
-[Data](articles/361b5b23.json)
 
 ---
 
@@ -2583,5 +2571,37 @@ The Elections Commission has issued the other gazette notification, which has be
 [Data](articles/bd8a4d62.json)
 
 [Extended Data](ext_articles/bd8a4d62.ext.json)
+
+---
+
+### IMF. President reesiates that he is working with
+
+*2024-11-19 08:14:45* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සහයෝගයෙන්-වැඩ-කරන-බව-ජනපති-යළිත්-සහතික-කරයි/11-413135) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+IMF President Reesiates collaboration with Sri Lanka's new government. Focuses on economic recovery, welfare spending, and anti-corruption efforts. Emphasizes building public trust and addressing child poverty, malnutrition, and special needs.
+
+🟩
+
+President requested the International Monetary Fund to establish a balanced approach in the Economic Recovery Program
+
+Attention on Welfare Expenses: Help for children's poverty, malnutrition, and special needs
+
+The success of the IMF program depends on building public confidence in the existing control
+
+President Anura Kumara Dissanayake and the new government ministers were found at the Presidential Secretariat, the International Monetary Fund Representative of the International Monetary Fund to discuss the next step of the International Monetary Fund.
+
+President Anura Kumara Dissanayake once again confirmed that the International Monetary Fund (IMF) with the International Monetary Fund (IMF) with the mandate of the government.
+
+The International Monetary Fund Agent Greetings of the Presidential Fonseka greeting its greeting on the decisive electoral victory and the new government.
+
+...
+
+[Data](articles/66cb3719.json)
+
+[Extended Data](ext_articles/66cb3719.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 23:00:00**
+As of **2024-11-19 23:25:28**
 
 ## Newspaper Stats
 
-*Scraped **55,800** Articles*
+*Scraped **55,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,89 @@ dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
-tamilmirrorlk | 7,910
-virakesarilk | 9,066
-adaderanasinhalalk | 9,650
+tamilmirrorlk | 7,911
+virakesarilk | 9,072
+adaderanasinhalalk | 9,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,800 (100.0%) of 55,800 articles have been extended.
+55,800 (100.0%) of 55,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### நள்ளிரவு முதல் அனைத்துக்கும் தடை
+
+*2024-11-19 23:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-அனைத்துக்கும்-தடை/175-347468) · `ta`
+
+19ஆம் திகதி நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் 2024 கல்விப் பொதுத்தராதர உயர்த்தர  பரீட்சார்த்திகளுக்கான மேலதிக வகுப்புகள், கருத்தரங்குகள், செயலமர்வுகள் போன்றவற்றை நடத்துவதற்கு தடை விதிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர விடுத்துள்ள அறிக்கையில் தெரிவித்துள்ளார்.
+
+இந்த காலகட்டத்தில், மேலதிக வகுப்புகள், கருத்தரங்குகள், செயலமர்வுகள் போன்றவற்றை நடத்துவதுடன், பரீட்சைக்கான மாதிரி வினாத்தாள்களை அச்சிடல் மற்றும் விநியோகித்தல், பரீட்சைத் தாள்களின் வினாக்கள் வழங்கப்படும் என்றோ அல்லது அதற்கு சமமான வினாக்கள் வழங்கப்படும் என சுவரொட்டிகள், பதாகைகள், பிரசுரங்கள், மின்னணு அல்லது அச்சிடப்பட்ட ஊடகங்கள் மூலம் விளம்பரப்படுத்துதல் அல்லது வைத்திருப்பது தடைசெய்யப்பட்டுள்ளது.
+
+யாரேனும் ஒருவர், நிறுவனம் அல்லது சில தரப்பினர் இந்த உத்தரவை மீறினால், அருகில் உள்ள பொலிஸ் நிலையத்தில் முறைப்பாடு அளிக்க முடியும் என தேர்தல் ஆணையாளர் திணைக்களம் தெரிவித்துள்ளது.   R
+
+◼️
+
+[Data](articles/c4198192.json)
+
+---
+
+### முதலாவது விக்கெட்டை ஷிராஸ் கைப்பற்றிய ஆட்டம் 21 ஓவர்களுடன் மழையினால் கைவிடப்பட்டது
+
+*2024-11-19 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199188) · `ta`
+
+கண்டி, பல்லேகலையில் செவ்வாய்க்கிழமை (19) நடைபெற்ற இலங்கை - நியூஸிலாந்து அணிகளுக்கு இடையிலான 3ஆவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி 21 ஓவர்கள் வீசப்பட்ட நிலையில் மழையினால் கைவிடப்பட்டது.
+
+எவ்வாறாயினும் முதல் இரண்டு போட்டிகளில் வெற்றியீட்டிய இலங்கை, 3 போட்டிகள் கொணட தொடரை 2 - 0 என தனதாக்கிக்கொண்டது.
+
+இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த நியூஸிலாந்து 21 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 112 ஓட்டங்களைப் பெற்றிருந்தபோது பிற்பகல் 4.00 மணியளவில் கடும் மழை பெய்ததால் ஆட்டம் தடைப்பட்டது.
+
+வில் யங் 8 பவுண்டறிகள் உட்பட 56 ஓட்டங்களுடனும் ஹென்றி நிக்கல்ஸ் 46 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
+
+9 ஓட்டங்களுடன் ஹென்றி நிக்கல்ஸை ஆட்டம் இழக்கச் செய்த மொஹமத் ஷிராஸ், சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் தனது முதலாவது விக்கெட்டைக் கைப்பற்றினார்.
+
+சுமார் ஒன்றரை மணித்தியாலங்களின் பின்னர் மழை விட்டதால், ஆடுகளமும் மைதானமும் மாலை 6.00 மணியளவில் பரீச்சிக்கப்படும் என பிற்பகல் 5.30 மணிக்கு அறிவிக்கப்பட்டது.
+
+...
+
+[Data](articles/02b792c6.json)
+
+---
+
+### ශ්‍රී ලංකාවට ඩොලර් මිලියන 200ක ණයක් අනුමත කරයි
+
+*2024-11-19 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203543) · `si`
+
+ආසියානු සංවර්ධන බැංකුව (ADB) ශ්‍රී ලංකාව සඳහා අමෙරිකානු ඩොලර් මිලියන 200ක ණයක් ලබාදීමට අද (19) අනුමැතිය ලබාදී තිබේ.
+
+ඒ, ශ්‍රී ලංකා රජයේ මූල්‍ය ක්ෂේත්‍රය තවදුරටත් ශක්තිමත් කිරීම වෙනුවෙනි.
+
+◼️
+
+[Data](articles/1b4c6af7.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தி ஊடாக வன்னிக்கு மேலும் ஒரு தேசியபட்டியல்
+
+*2024-11-19 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199187) · `ta`
+
+வன்னிதேர்தல் மாவட்டத்திற்கு ஐக்கிய மக்கள் சக்தி ஊடாகமேலும் ஒரு தேசியபட்டியல் பாராளுமன்ற பிரதிநிதித்துவம் கிடைக்கப்பெற்றுள்ளது.
+
+அந்தவகையில் பாராளுமன்ற உறுப்பினர் றிசாட்பதியூதீனின் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரசின் முக்கியஸ்தரான முஹம்மது இஸ்மாயில் முத்துமுஹம்மது என்பவருக்கே குறித்த தேசியபட்டியல் வழங்கப்பட்டுள்ளது.
+
+அகில இலங்கை மக்கள் காங்கிரசானது இம்முறை பொதுத்தேர்தலில் அம்பாறை மாவட்டத்தில் தனித்து போட்டயிட்டு ஒரு ஆசனத்தை பெற்றுக்கொண்டதுடன், வன்னி உட்பட ஏனைய மாவட்டங்களில் ஐக்கியமக்கள் சக்தியுடன் இணைந்து போட்டியிட்டிருந்தது.
+
+அந்தவகையில் ஐக்கியமக்கள் சக்திக்கு கிடைக்கப்பெற்ற ஐந்து தேசியபட்டியல் ஆசனத்தில் ஒன்றுஅகில இலங்கை மக்கள் காங்கிரசுக்கு வழங்குவதற்கு இன்று தீர்மானிக்கப்பட்டுள்ளது. அதன் அடிப்படையில் கட்சியின் நீண்டகால உறுப்பினரும் முக்கியஸ்தருமான முஹம்மதுஇஸ்மாயில் முத்துமுகமது என்பவருக்கு குறித்த பிரதிநித்துவம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/56764301.json)
+
+---
 
 ### Notice to elected MPs
 
@@ -63,6 +133,56 @@ The arrangement of information that will be useful to all MPs and obtain photogr
 [Data](articles/78e8e674.json)
 
 [Extended Data](ext_articles/78e8e674.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினராக ரஞ்சித் மத்தும பண்டாரவின் பெயர் வர்த்தமானியில் வெளியீடு
+
+*2024-11-19 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199186) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினராக கட்சியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவின் பெயர் குறிப்பிடப்பட்டுள்ளது. அதற்கமைய தேர்தல் ஆணைக்குழுவினால் அவரை பாராளுமன்ற உறுப்பினராக அறிவித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+பொதுத் தேர்தலில் பெற்றுக் கொண்டு வாக்குகளின் அடிப்படையில் ஐக்கிய மக்கள் சக்திக்கு 5 தேசிய பட்டியல் ஆசனங்கள் கிடைத்துள்ளன. அக்கட்சியின் தேசிய பட்டியலில் அதன் தவிசாளர் இம்தியாஸ் பாகீர் மாக்கார், முன்னாள் எம்.பி.க்களான டலஸ் அழகப்பெரும, சுஜீவ சேனசிங்க, ஜீ.எல்.பீரிஸ், சுதர்ஷனி பெர்னாண்டோபுள்ளே ஆகியோரது பெயர்கள் உள்வாங்கப்பட்டுள்ளன.
+
+இவர்களில் ரஞ்சித் மத்தும பண்டாரவின் பெயர் தற்போது குறிப்பிடப்பட்டுள்ள நிலையில், எஞ்சிய ஆசனங்களில் இம்தியாஸ் பாகீர் மாக்கார் மற்றும் டலஸ் அழகப்பெரும ஆகியோரை நியமிப்பதற்கான வாய்ப்புக்கள் அதிகம் காணப்படுவதாக கட்சி வட்டாரங்கள் தெரிவிக்கின்றன.
+
+...
+
+[Data](articles/183778dc.json)
+
+---
+
+### மன்னார் மாவட்ட பொது வைத்தியசாலையில் பிரசவத்தின் போது தாயும் சேயும் மரணம்; வைத்தியசாலையின் கவனயீனம் என குற்றச்சாட்டு
+
+*2024-11-19 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199185) · `ta`
+
+மன்னார் மாவட்ட பொது வைத்திய சாலையில் செவ்வாய்க்கிழமை (19) பிரசவத்துக்கு அனுமதிக்கப்பட்ட நிலையில் தாயும் சேயும் மரணமடைந்த சம்பவம் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது.
+
+மன்னார் பட்டித்தோட்டம் பகுதியைச் சேர்ந்த 28 வயதான வனஜா என்ற திருமணமாகி 10 வருடங்களே ஆன இளம் தாயே இன்றைய தினம்(19) செவ்வாய்கிழமை மன்னார் வைத்தியசாலையில் பிரசவத்திற்காக அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+முன்னதாகவே குறித்த பெண்ணுக்கு மூச்சுத் திணறல் ஏற்பட்டிருந்த போதிலும் உரிய விதமாகக் கவனிக்கப்படவில்லை எனவும் பெண் தனக்கு சிசேரியன் செய்யுமாறு கோரிக்கை விடுத்ததாகவும் வைத்தியர்கள் இயற்கை முறையில் பிரசிவிக்க முயற்சித்த நிலையில் தாயும் பிள்ளையும் மரணமடைந்துள்ளதாகத்  தெரிவிக்கப் படுகின்றது.
+
+வைத்தியர்கள் மற்றும் தாதியர்களின் கவனயீனத்தாலேயே குறித்த மரணம் இடம் பெற்றுள்ளதாகவும் மரணம் அடைந்த விடயத்தை நீண்ட நேரமாக உறவினர்களுக்குச் சொல்லாமல் மறைத்ததாகவும் உயிர் இழந்த பெண்ணின் உடலைக் கூட பார்ப்பதற்குப் பெற்றோரை அனுமதிக்கவில்லை எனவும் உறவினர்கள் குற்றம் சுமத்தியுள்ளனர்.
+
+...
+
+[Data](articles/1580aeb1.json)
+
+---
+
+### செயற்குழுவை கூட்டுமாறு ரணில் விக்ரமசிங்கவிடம் கோரிக்கை
+
+*2024-11-19 20:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/199184) · `ta`
+
+ஐக்கிய தேசிய கட்சியின் யாப்புக்கு முரணாக செயற்பட்டு தேசியப்பட்டியல் உறுப்பினர் பதவியை ரவி கருணாநாயக்க பெற்றுக்கொண்டுள்ளார். இதுதொடர்பில் கலந்துரையாடி நடவடிக்கை எடுப்பதற்கு கட்சியின் செயற்குழுவை கூட்டுமாறு ஐக்கிய தேசிய கட்சியின் செயற்குழு உறுப்பினர் கலாநிதி லசன்த குணவர்த்தன கட்சியின் தலைவர் ரணில் விக்ரமசிங்கவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+இது தொடர்பாக அவர் ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்ரமசிங்கவுக்கு அனுப்பிவைத்துள்ள கடிதத்தில் தெரிவிக்கப்பட்டுள்ளதாவது,
+
+இடம்பெற்று முடிந்த 2024 பாராளுமன்ற தேர்தலில் புதிய ஜனநாயக முன்னணியின் சிலிண்டர் சின்னத்தில் போட்டியிட்ட எமது கட்சி உள்ளிட்ட கூட்டணிக்கு கிடைக்கப்பெற்ற இரண்டு தேசியப்பட்டியில் உறுப்பினர் பதவியில் ஒன்றை ஐக்கிய தேசிய கட்சியின் தேசிய செயலாளர் ரவி கருணாநாயக்கவினால் சரியான முறையாகவும் கட்சியின் அனுமதி இல்லாமலும் பெற்றுக்கொண்டுள்ளதாக தெரியவருகிறது.
+
+...
+
+[Data](articles/9d9b0262.json)
 
 ---
 
@@ -425,6 +545,14 @@ All the authorities should unite to manage this new chapter and make a friendly 
 ### Appoints new secretaries
 
 *2024-11-19 18:11:56* · [`adalk`](https://www.ada.lk/breaking_news/නව-ලේකම්වරුන්-පත්-කරයි/11-413154) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"President appoints new secretaries: PM's Secretary and Presidential Secretariat head. Meeting chaired by Dr. Nandika Sanath Prince. List of appointees announced."
+
+🟩
 
 New Prime Minister's Secretary and the Secretary to the Presidential Secretariat was chaired by President's Secretary Dr. Nandika Sanath Prince. The list is as follows.
 
@@ -1073,6 +1201,22 @@ Bimal Ratnayake serves as the Minister of Transport, Highways, Ports and Civil A
 [Data](articles/e75fbb93.json)
 
 [Extended Data](ext_articles/e75fbb93.ext.json)
+
+---
+
+### தேசிய மக்கள் சக்திக்கு சவால் விடுக்கும் பிரதான அரசியல் கட்சியாக  எழுச்சி பெறுவோம் - ஸ்ரீ லங்கா பொதுஜன பெரமுன
+
+*2024-11-19 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199155) · `ta`
+
+2029 ஜனாதிபதித் தேர்தலில் தேசிய மக்கள் சக்திக்கு சவால் விடுக்கும் பிரதான அரசியல் கட்சியாக நாங்கள் எழுச்சி பெறுவோம். முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை நம்பிச் சென்று தோல்வியடைந்தவர்கள் எம்முடன் இணைந்துக் கொள்ளலாம் என ஸ்ரீ லங்கா பொதுஜன பெரமுனவின் பாராளுமன்ற உறுப்பினர் டி. வி சானக தெரிவித்தார்.
+
+பாரிய எதிர்பார்ப்புகளுக்கு மத்தியில் ஜனாதிபதி அநுரகுமார திசாநாயக்கவுக்கு மக்கள் ஆணை வழங்கியுள்ளார்கள்.  கடந்த கால அரசாங்கங்கள் மற்றும் ராஜபக்ஷர்கள் தொடர்பிலும் ஜனாதிபதி பல குற்றச்சாட்டுக்களை முன்வைத்துள்ளார்.  மக்களுக்கு வழங்கிய வாக்குறுதிகளை   நிறைவேற்ற வேண்டும் அதேபோல் , குற்றச்சாட்டுக்களை சட்டத்தின் முன் நிரூபிக்கவும் வேண்டும்.
+
+பாராளுமன்ற உறுப்பினர்களின் எண்ணிக்கையை கொண்டு அரசியல் ஸ்திரத்தன்மையை தீர்மானிக்க முடியாது. முன்னாள் ஜனாதிபதி ரணில் விக்கிரமசிங்க ஒரு தேசிய பட்டியல் ஆசனத்துடன் பாராளுமன்றத்துக்கு வந்து ஜனாதிபதியானார்.
+
+...
+
+[Data](articles/1838a955.json)
 
 ---
 
@@ -2375,239 +2519,5 @@ New government first assets this morning. The meeting will be held under the pat
 [Data](articles/c7842304.json)
 
 [Extended Data](ext_articles/c7842304.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 291.05/20 to dollar, bonds up
-
-*2024-11-19 10:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-291-05-20-to-dollar-bonds-up-188599/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened stronger at 291.05/20 to the US dollar on Tuesday from 291.35/45 to the US dollar on Monday dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 was quoted at 10.30/40 percent, up from 10.25/35 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.85/11.00 percent, up from 10.75/90 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.10/20 percent.
-
-In equities, the All Share Price Index opened up before dropping 0.74 percent, or 98.20 points, to 13,132. The more liquid S&P SL20 also opened up before dropping 1.14 percent, or 45.30 points, to 3,934.
-
-◼️
-
-[Data](articles/8569846b.json)
-
-[Extended Data](ext_articles/8569846b.ext.json)
-
----
-
-### The first phase of the provision of fertilizer subsidy
-
-*2024-11-19 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/199116) · `ta`
-
-First phase fertilizer subsidy complete: 129,229 farmers received 1.29 billion rupees. Cultivation-based distribution planned. Polonnaruwa farmers affected by delayed water from reservoirs.
-
-🟩
-
-The first phase of the work of providing fertilizer subsidies for the farmers has been completed.
-
-The Department of Agrarian Services said that 129,229 farmers were given about 1.29 billion rupees.
-
-Meanwhile, the Commissioner of Agrarian Services Rohana Rajapakse said that the farmers will be given a fertilizer subsidy on the basis of how cultivation is being carried out.
-
-Farmers in some parts of the Polonnaruwa district have delayed the grant of farmers due to delayed water from Kirithalai and Gaudulla reservoirs.
-
-◼️
-
-[Data](articles/7d974198.json)
-
-[Extended Data](ext_articles/7d974198.ext.json)
-
----
-
-### Two arrested for shooting municipal workers
-
-*2024-11-19 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203522) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-SLAF soldier arrested for shooting municipal worker in Mount Lavinia. Victim, 46, killed Sept 20th. Suspects arrested with motorcycle & firearm. Investigation reveals murder on contract from drug dealer Badowita Asanka. Two suspects: 27yo SLAF soldier from Hatpadhawa, 30yo from Athugiriya.
-
-🟩
-
-A SLAF Soldier arrested a SLAF soldier into the shooting of a shooting of the Mount Lavinia Municipal Council.
-
-The victim was a 46 year old, if he was killed on the 20th of September.
-
-Police have found the motorcycle, six am and the motorcycle who had manufactured by the suspects and the motorcycle used in a foreign country to shoot with suspects.
-
-The Western Province, which was conducting investigations into the murder, was arrested by a motorcycle near the Panagoda Army Camp on the 18th of this month.
-
-The police have also recovered the firearm and six amidst of the heavy manner in his baggage.
-
-Accordingly, the other man arriving in the motorcycle with the suspect was arrested in Moratalahena area in Athagiriya.
-
-Police have found the motorcycle to several sections of the arrested suspect and the Air Force in Padukka, a timely in Padukka.
-
-...
-
-[Data](articles/d0db036e.json)
-
-[Extended Data](ext_articles/d0db036e.ext.json)
-
----
-
-### A three-wheeler driven by a school student in a terrible accident
-
-*2024-11-19 09:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203521) · `si`
-
-Accident summary: Three-wheeler crash injures students near Ginigathena. School students involved; one driving, others injured. Incident reported to Nawalapitiya police. Investigation ongoing.
-
-🟩
-
-Three students and other students were seriously injured by a three-wheeler driven by a three-wheeler.
-
-The injured students have been admitted to Nawalapitiya District Hospital in the Nawalapitiya Police.
-
-The accident occurred near the Ginigathena Library on the main road on the Ginigathe Nawalapitiya main road around 5 pm yesterday.
-
-The accident was injured in the 12 year students of the Ginalathhena Kadawala Kambidha.
-
-The accident had occurred while the four students were traveling in the three-wheeler after a function in the school.
-
-A SLTB bus in the opposite attempt to expire in the direction of the direction in the area was attempted to be able to act in a jungle in the area.
-
-Students traveling in the back seat of the Triyrill car have fallen to the road, and the SLTB bus to save their lives.
-
-The burgithena police claimed that the bus had collided with a state-owned building and a gateway at the time.
-
-...
-
-[Data](articles/90afb3b1.json)
-
-[Extended Data](ext_articles/90afb3b1.ext.json)
-
----
-
-### The deadly attack on the store owner
-
-*2024-11-19 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203520) · `si`
-
-Attack on 63-year-old store owner in Elpitiya's Navadagala area. Victim injured by sharp object. Incident occurred yesterday. Police investigating.
-
-🟩
-
-A man who came to a shop has been attacked with a sharp instrument with a sharp instrument.
-
-The incident was reported yesterday at the Navadagala area in Elpitiya.
-
-The victim is a 63 year old resident of the Elpitiya area in Navadagala.
-
-Investigations have revealed that the murder had been carried out by a person who came to the drunk shop.
-
-Police have also admitted the Elpitiya Hospital with injuries.
-
-◼️
-
-[Data](articles/06cb84e2.json)
-
-[Extended Data](ext_articles/06cb84e2.ext.json)
-
----
-
-### United National Party (UNP) is not aware of Ravi's appointment. Commissioner
-
-*2024-11-19 09:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/199117) · `ta`
-
-Here's a summary in approximately 200 characters:
-
-
-
-UNP unaware of Ravi Karunanayake's National List appointment. Party chairman Vajira Abeywardena says final decision today. UNP discusses Dalada Attukorala's potential parliamentary entry. Ranil Wickremesinghe to announce decision after party leader discussions.
-
-🟩
-
-The United National Party does not know that Ravi Karunanayake's name as a member of the National List. This move is contrary to the United National Party (UNP). United National Party (UNP) Chairman Vajira Abeywardena said that the final decision will be announced today.
-
-He was speaking at a press conference held in Galle yesterday regarding the name of Ravi Karunanayake's name for the post of National List Member of the New Democratic Front.
-
-Ravi Karunanayake's name has been appointed as the National List Member. We have learned that her name has been sent to the Gazette through the political party that belongs to the cylinder.
-
-We were discussing the appointment of Perera by Dalada Attukorala or Attorney Rane in the United National Party (UNP) as a member of the new Democratic Party. Such an incident has taken place before taking a firm relaxation in this regard. This move is a violation of Article 3,4 of the United National Party (UNP), 9th 7th, 13 7 and 8.
-
-...
-
-[Data](articles/c3da0a7b.json)
-
-[Extended Data](ext_articles/c3da0a7b.ext.json)
-
----
-
-### Stadium under World Cup
-
-*2024-11-19 09:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203519) · `si`
-
-Saudi Arabia plans to build a stadium for the 2034 FIFA World Cup. The government has chosen Riyadi as the location. A video showcasing the design was recently released, featuring a 90-meter high seating capacity and an Olympic-sized swimming pool.
-
-🟩
-
-The plan to be built in Saudi Arabia to be built in Saudi Arabia for the FIFA Football World Cup to be held in 2034 in 2034.
-
-In 2034, the soccer is elected to hosting the World Cup to the World Cup.
-
-At the end of the 2023, the only country has submitted a systematically bid before the due date is to be a formal bid in the 2023.
-
-The tournament has not yet been decided on the date of the event, and 48 teams to the World Cup will be added to the World Cup.
-
-The 2034 FIFA Football World Cup has been planned to hold the 2034 FIFA Football World Cup.
-
-The Government of Sri Lanka has decided to construct a new stadium in Riyadi, Saudi Arabia, targeting the World Cup.
-
-A video on the plan of the stadium was released to the media yesterday.
-
-The stadium is to be built so that the audience can be heard in ninetyms.
-
-The sports complex is designed to a domestic stadium in the stadium, mixing the Olympic size swimming pool and adjacent lush landscape.
-
-◼️
-
-[Data](articles/8960843a.json)
-
-[Extended Data](ext_articles/8960843a.ext.json)
-
----
-
-### Is Ravi Karunanayake made the national list of the UNP?
-
-*2024-11-19 08:55:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5ymv4g6dlyo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Ravi Karunanayake's inclusion in UNP national list disputed. New Democratic Front protests against his appointment. Gazette notification issued but challenged legally. UNP leadership discusses selection process. Elections Commission stands by party-secretary-named candidates. National list allocations for other parties also mentioned.
-
-🟩
-
-Is Ravi Karunanayake made the national list of the UNP?
-
-The new Democratic Front, which was competed by the New Democratic Front, was a controversial state on the Namin named Ravi Karunanayake.
-
-It was due to protesting against the New Democratic Front against the new Democratic Front against Ravi Karunanayake.
-
-However, the name of Ravi Karunanayake has been announced by gazette. The gazette notification has been announced under the number 2411/07 with November 18.
-
-The General Election 2024: Who has been appointed to the National List MPs yet? Basilding of the National List
-
-The New Democratic Front held five seats according to the results of November 14. That was three seats in the party and two national lists. One of them is empty as a national list seat.
-
-Anuradha Jayaratne, who contested in the Kalutara District, competed by the new Democratic Front and Chamara Sampath Dasanayake contested from the new Democratic Front.
-
-...
-
-[Data](articles/410cc15d.json)
-
-[Extended Data](ext_articles/410cc15d.ext.json)
 
 ---

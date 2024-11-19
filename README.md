@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 01:10:48**
+As of **2024-11-20 01:25:45**
 
 ## Newspaper Stats
 
@@ -26,21 +26,31 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,811 (100.0%) of 55,812 articles have been extended.
+55,812 (100.0%) of 55,812 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### நடிகர் மோகன்லால் இலங்கைக்கு வருகை
+### Actor Mohanlal visits Sri Lanka
 
 *2024-11-20 00:58:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நடிகர்-மோகன்லால்-இலங்கைக்கு-வருகை/175-347471) · `ta`
 
-இலங்கை வந்த நடிகர் மோகன்லாலுக்கு ஸ்ரீலங்கன் ஏர்லைன்ஸ் சார்பாக வரவேற்பு அளிக்கப்பட்டுள்ளது. (a)
+Here's a summary of 200 characters:
+
+
+
+Actor Mohanlal visited Sri Lanka. He was welcomed by Sri Lankan Airlines on behalf of the country. This event highlights cultural exchange between India and Sri Lanka through the film industry.
+
+🟩
+
+Sri Lankan Airlines has been welcomed on behalf of Sri Lanka Actor Mohanlal. (A)
 
 ◼️
 
 [Data](articles/e6d7d4be.json)
+
+[Extended Data](ext_articles/e6d7d4be.ext.json)
 
 ---
 

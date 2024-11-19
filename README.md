@@ -1,300 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 08:50:54**
+As of **2024-11-19 06:13:29**
 
 ## Newspaper Stats
 
-*Scraped **55,693** Articles*
+*Scraped **55,677** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 569
-bbccomsinhala | 571
-islandlk | 3,338
+bbccomsinhala | 570
+islandlk | 3,337
 economynextcom | 3,372
 dailyftlk | 3,811
 dailymirrorlk | 4,733
-adalk | 5,225
+adalk | 5,223
 adaderanalk | 6,720
-tamilmirrorlk | 7,888
+tamilmirrorlk | 7,882
 virakesarilk | 9,043
-adaderanasinhalalk | 9,628
+adaderanasinhalalk | 9,622
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,683 (100.0%) of 55,693 articles have been extended.
+55,666 (100.0%) of 55,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
-
-### இன்று 100 மில்லி மீற்றர் அளவில் மழை
-
-*2024-11-19 08:04:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-100-மில்லி-மீற்றர்-அளவில்-மழை/175-347412) · `ta`
-
-மேல், சபரகமுவ மற்றும் வடமாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களின் சில இடங்களிலும் இன்று 100 மில்லிமீற்றருக்கும் அதிகமான பலத்த மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
-
-அத்துடன் மேல், சபரகமுவ, மத்திய, தென், ஊவா மற்றும் வடமேல் மாகாணங்களில் மாலை அல்லது இரவு வேளையில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.  (a)
-
-◼️
-
-[Data](articles/6eb38c49.json)
-
----
-
-### Defeated ex -MPs exit
-
-*2024-11-19 07:56:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தோற்கடிக்கப்பட்ட-முன்னாள்-எம்-பிக்கள்-வெளியேறுகின்றனர்/175-347411) · `ta`
-
-Former defeated MPs leaving parliamentary residence. 30 have exited, 80 more to go. Leaders ordered departure before general election. New MPs receiving homes from official constituencies.
-
-🟩
-
-Parliamentary sources said that former MPs who were defeated in the parliamentary election had left the apartment in the Madhyawew.
-
-It is reported that 30 people have been out so far and 80 are going to leave.
-
-Parliamentary leaders have already announced to former MPs to leave the parliamentary residence.
-
-Until the day of the parliamentary general election, former MPs were allowed to stay.
-
-Meanwhile, newly elected MPs are being provided with houses from the official home constituencies and the work is being carried out to repair them.. Remble
-
-◼️
-
-[Data](articles/31ecd15f.json)
-
-[Extended Data](ext_articles/31ecd15f.ext.json)
-
----
-
-### Over Rs. 18,000 million in charge of Rs. 18,000 million
-
-*2024-11-19 07:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203518) · `si`
-
-Sri Lankan Navy seizes 46kg heroin, arrests 5 fishermen worth Rs. 18 billion in raids this year.
-
-🟩
-
-The raids carried out this year have found more than 18,000 million rupees.
-
-The Navy Media Center for Capithan Gayan Wickremasuriya said that the drug was taken into custody over Rs.
-
-Over 46 kilograms of heroin was found in a multi-day fishing vessel in the west side of Sri Lanka on November 16.
-
-Five fishermen were also taken into custody by the Navy and they were taken to the Galle Harbor yesterday.
-
-The fishermen have been identified as residents of the Gedara area between the ages of 23 and 33.
-
-Navy Media Center forum Captain Gayan Wickramauriya said that the multi-day fishing vessels and the suspects were handed over to the police drug bureau.
-
-◼️
-
-[Data](articles/5f0473ab.json)
-
-[Extended Data](ext_articles/5f0473ab.ext.json)
-
----
-
-### Vegetable
-
-*2024-11-19 07:49:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலை-அதிகரிப்பு/175-347410) · `ta`
-
-Vegetable prices rising due to market decline. Expected increase during festivals. Vendors hike retail prices above wholesale cost.
-
-🟩
-
-It is reported that the prices of vegetables are increasing again due to the drastic decrease in the market.
-
-In addition, market sources say the prices of vegetables will increase further during the upcoming festive season.
-
-With the rise in the total price of vegetables, vegetable vendors and intermediaries have raised the retail price more than the total price. Remble
-
-◼️
-
-[Data](articles/3c8a37e4.json)
-
-[Extended Data](ext_articles/3c8a37e4.ext.json)
-
----
-
-### Two lives for casual fish - another woman is serious
-
-*2024-11-19 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203517) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-A 35-year-old woman was murdered in a dispute over a man. The suspect, a 30-year-old, allegedly killed her with a sharp object. Police investigated a casual relationship between them. A magisterial inquiry was held at the Anuradhapura hospital morgue.
-
-🟩
-
-Another woman killed with a sharp instrument and killed another woman and went to his home.
-
-The incident was reported from the Morawewa police Division in Morawewa police Division.
-
-The victim was a 35 year old woman and a 30 year old resident of the Retail area in the foundation area.
-
-Investigations have revealed that the murder had taken place on a casual affair between the deceased and the suspect.
-
-The magisterial inquiry into the bodies have been conducted at the Anuradhapura hospital morgue.
-
-◼️
-
-[Data](articles/0569f9e3.json)
-
-[Extended Data](ext_articles/0569f9e3.ext.json)
-
----
-
-### Youth killed in a signal post
-
-*2024-11-19 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203516) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"21-year-old youth from Ganemulla fatally struck by signpost while boarding train from Polgahawela to Colombo Fort."
-
-🟩
-
-A youth who traveled on a train was killed and killed in a sign stake near the railway line.
-
-The accident had been identified as a young man who was traveling from Polgahawela to Colombo Fort.
-
-The deceased has been identified as a 21 year old resident of the Ganemulla area.
-
-◼️
-
-[Data](articles/5688ca47.json)
-
-[Extended Data](ext_articles/5688ca47.ext.json)
-
----
-
-### New government's first Cabinet meeting today
-
-*2024-11-19 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203515) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"New govt's 1st Cabinet meets today. 22 ministers sworn in. Meets Prez Anura Kumara Dissanayake. Deputy ministers to be sworn in tomorrow, number undecided."
-
-🟩
-
-The first Cabinet meeting will be held today (19).
-
-The Cabinet is scheduled to meet President Anura Kumara Dissanayake today.
-
-The new Government Cabinet was sworn in this morning and includes 22 ministers.
-
-Meanwhile, the Deputy Ministers of the New Government have been sworn in tomorrow.
-
-However, there has been no final decision on the size of the deputy ministers.
-
-◼️
-
-[Data](articles/0e1d6c46.json)
-
-[Extended Data](ext_articles/0e1d6c46.ext.json)
-
----
-
-### Information window on behalf of Members of Parliament
-
-*2024-11-19 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203514) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-MPs: Window opens 19-20 Sep, 9:30 AM - 3:30 PM. For new MPs, 3-day workshop on procedures, etiquette, and debate skills. Online system for photo submission and fingerprinting.
-
-🟩
-
-Parliamentarian Kushayi Rohanaharati says that a mature window will be established today (19) and tomorrow (19) and tomorrow (19) and tomorrow (20) will be established to facilitate the first section of the Tenth Parliament.
-
-She points out that the window is operating at the Parliament complex today and tomorrow at 9.30 am to 3.30 pm.
-
-The arrangement of information that will be useful to all MPs and obtain photographs of photos for MPs and obtaining relevant.
-
-"These MPs visit these days or give us information on the online system. We work to record fingerprints. More than two-thirds of MPs selected this year are new MPs. We have organized a three-day workshop to educate the procedure, conduct, lecturer and dress and the form of parliamentary coalition and debate and debate in the parliamentary sector.25, 26 and 27. "
-
-◼️
-
-[Data](articles/8d7aa674.json)
-
-[Extended Data](ext_articles/8d7aa674.ext.json)
-
----
-
-### Showers over 100 mm, including Western and Sabaragamuwa
-
-*2024-11-19 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203512) · `si`
-
-Heavy rainfall warning: Western, Sabaragamuwa, Northern provinces; Galle, Matara districts. Showers in North, East, Centre. Thunderstorms possible, especially at night. Public advised to take precautions against wind and lightning.
-
-🟩
-
-Heavy showers in the Western, Sabaragamuwa and Northern provinces and in the Galle and Matara districts can occur.
-
-The Meteorological Department says that there will be showers from time to time in the North, East and North-middle provinces.
-
-Showers or thundershowers will occur at night in the Western, Sabaragamuwa, Central, Southern, Uva and Uva and Northwestern provinces.
-
-Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/a18d40f8.json)
-
-[Extended Data](ext_articles/a18d40f8.ext.json)
-
----
-
-### Mustra Fernando: Second woman appointed as the Chief Justice of Sri Lanka
-
-*2024-11-19 02:07:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz6j7g6q5z0o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mustra Fernando appointed as Sri Lanka's 48th Chief Justice. First woman to hold position. Prominent legal career spanning decades. Appointed acting Chief Justice October 10, 2024. Officially became Chief Justice November 16, 2024. Known for professional integrity and handling significant cases.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed by President Anura Kumara Dissanayake as the 48th Chief Justice of Sri Lanka.
-
-The current Chief Justice Jayantha Jayasuriya was named after his retirement on December 2.
-
-The second woman who was appointed as the Chief Justice of Sri Lanka will be historical historical historical history.
-
-Born in Moratuwa, Moratuwa Fernando, Moratuwa was an eldest pupil of Princess Princes College. She has also served as the chief student leader of the school and has also been assessed as the best debate and the best student of the school debate group.
-
-Law in law at the Faculty of the University of Colombo. The Cooray Memorial Prize has also been elected.
-
-Later, she graced the Attorney General's Degree from London Kings College.
-
-She had joined the Attorney General's Department in 1985 and was promoted to the post of Deputy Solicitor General in 1997 and the Deputy Solicitor General of the General of 2014.
-
-...
-
-[Data](articles/425e0aa0.json)
-
-[Extended Data](ext_articles/425e0aa0.ext.json)
-
----
 
 ### Ravi K.’s National List appointment sparks tensions within NDF
 
@@ -468,64 +204,6 @@ As Sri Lanka begins a new era under your leadership and the new Government, we a
 
 ---
 
-### பாகிஸ்தானில் காற்று மாசு உச்சம்
-
-*2024-11-19 01:01:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாகிஸ்தானில்-காற்று-மாசு-உச்சம்/175-347409) · `ta`
-
-பாகிஸ்தானில் காற்று மாசு தீவிரமடைந்துள்ளது. இதனால், மக்களுக்கு மூச்சுப் பிரச்சினை ஏற்பட்டு வருகிறது. கடந்த மாதத்தில் மட்டும் 19 லட்சம் பேர் மூச்சுப் பிரச்சினை காரணமாக அரசு மருத்துவமனையில் அனுமதிக்கப்பட்டனர் என தகவல் வெளியாகியுள்ளது.
-
-குறிப்பாக, பாகிஸ்தானில் உள்ள பஞ்சாப் மாகாணத்தில் காற்றின் தரம் மிக மோசமாக உள்ளது. அங்குள்ள மருத்துவமனைகளில் சிகிச்சைக்காக கூட்டம் நிரம்பி வழிவதாக கூறப்படுகிறது.
-
-காற்று மாசுபாட்டால் குழந்தைகளும், வயதானவர்களும் கடும் சிரமங்களை எதிர்கொண்டு வருகிற நிலையில், பாடசாலைகளுக்கு விடுமுறை அளித்தல், வாகனப் பயன்பாட்டுக்கு கட்டுப்பாடு விதித்தல் உள்ளிட்ட நடவடிக்கைகளை பாகிஸ்தான் அரசு மேற்கொண்டுவருகிறது. (a)
-
-◼️
-
-[Data](articles/7ad93324.json)
-
----
-
-### Increase in dengue patients
-
-*2024-11-19 00:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-347408) · `ta`
-
-Dengue cases surge: 11,078 in Colombo, mainly in Gampaha, Kalutara, Kandy, Ratnapura, Jaffna.
-
-🟩
-
-The total number of dengue patients from the Colombo district is 11,078.Most of the dengue cases have been reported from the districts of Gampaha, Kalutara, Kandy, Ratnapura and Jaffna.. (A)
-
-◼️
-
-[Data](articles/e1390d43.json)
-
-[Extended Data](ext_articles/e1390d43.ext.json)
-
----
-
-### Jaishankar congratulates Vijitha Hera
-
-*2024-11-19 00:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்திற்கு-ஜெய்சங்கர்-வாழ்த்து/175-347407) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Indian Foreign Minister Jaishankar congratulates Vijitha Hera. He expresses readiness to strengthen India-Sri Lanka partnership.
-
-🟩
-
-Indian Foreign Minister S.. Jaishankar congratulated.
-
-The Indian Foreign Minister has said that he is ready to work together to further strengthen the partnership between India and Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/415f8e1e.json)
-
-[Extended Data](ext_articles/415f8e1e.ext.json)
-
----
-
 ### President - IMF. Meeting between representatives
 
 *2024-11-19 00:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஐ-எம்-எப்-பிரதிநிதிகள்-இடையே-சந்திப்பு/175-347406) · `ta`
@@ -632,8 +310,6 @@ Yohani went on to say that she was there for the 2FORTY2 show, held in London re
 
 [Data](articles/059bb82c.json)
 
-[Extended Data](ext_articles/059bb82c.ext.json)
-
 ---
 
 ### People’s role in NPP govt.
@@ -645,8 +321,6 @@ The election of the NPP as the new government of Sri Lanka is a victory for the 
 ...
 
 [Data](articles/73f6193c.json)
-
-[Extended Data](ext_articles/73f6193c.ext.json)
 
 ---
 
@@ -746,8 +420,6 @@ The 9-storied Oceanista Residencies will include 24 luxury apartments, promising
 
 [Data](articles/c51a5122.json)
 
-[Extended Data](ext_articles/c51a5122.ext.json)
-
 ---
 
 ### HealthRecon Connect expands global footprint with new office in Kandy
@@ -763,8 +435,6 @@ Save my name, email, and website in this browser for the next time I comment.
 ◼️
 
 [Data](articles/ab315f29.json)
-
-[Extended Data](ext_articles/ab315f29.ext.json)
 
 ---
 
@@ -796,8 +466,6 @@ The Hela Group’s revenue surged by 36.5% year-on-year to Rs. 23.4 billion in t
 
 [Data](articles/51c3dac0.json)
 
-[Extended Data](ext_articles/51c3dac0.ext.json)
-
 ---
 
 ### Profit-takings retard momentum in stock market trading
@@ -811,8 +479,6 @@ Amid those developments both indices moved upwards. The All Share Price Index we
 ...
 
 [Data](articles/ee8326f8.json)
-
-[Extended Data](ext_articles/ee8326f8.ext.json)
 
 ---
 
@@ -897,30 +563,6 @@ Accordingly, if any information about the above person is, the police have reque
 [Data](articles/8fca0957.json)
 
 [Extended Data](ext_articles/8fca0957.ext.json)
-
----
-
-### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
-
-*2024-11-18 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
-
-The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
-
-The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
-
-“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
-
-“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
-
-“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
-
-...
-
-[Data](articles/e2c3e1a7.json)
-
-[Extended Data](ext_articles/e2c3e1a7.ext.json)
 
 ---
 
@@ -1122,6 +764,30 @@ The President has issued a dedication of the government to find a solution to th
 
 ---
 
+### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
+
+*2024-11-18 19:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
+
+The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
+
+The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
+
+“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
+
+“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
+
+“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
+
+...
+
+[Data](articles/e2c3e1a7.json)
+
+[Extended Data](ext_articles/e2c3e1a7.ext.json)
+
+---
+
 ### President meets International Monetary Fund
 
 *2024-11-18 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203506) · `si`
@@ -1286,22 +952,6 @@ Accordingly, it had been proposed to name one member each from the ‘Podujana E
 
 ---
 
-### පාස්කු ප්‍රහාරයේ වින්දිතයන්ට ගෙවන්න හානි පූර්ණ කාර්යාලයට රු. කෝටි 31ක් ලැබිලා
-
-*2024-11-18 18:58:31* · [`adalk`](https://www.ada.lk/breaking_news/පාස්කු-ප්‍රහාරයේ-වින්දිතයන්ට-ගෙවන්න-හානි-පූර්ණ-කාර්යාලයට-රු--කෝටි-31ක්-ලැබිලා/11-413131) · `si`
-
-පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාර හේතුවෙන් වින්දිතයින් වූ පුද්ගලයින්ට වන්දි ගෙවා ඇති ආකාරය පිළිබඳ සවිස්තර වාර්තාවක් වහාම අධිකරණයට ඉදිරිපත් කිරීමට ශ්‍රේෂ්ඨාධිකරණය නීතිපතිවරයාට අද (18) නියෝග කළේය.
-
-අධිකරණ නියෝග අනුව පාස්කු ඉරුදින ත්‍රස්ත ප්‍රහාර හේතුවෙන් වින්දිතයින් වූ පුද්ගලයින් වෙනුවෙන් හානි පූර්ණ කාර්යාලයේ පවත්වාගෙන යන ගිණුමට රුපියල් කෝටි 31 ක වන්දි මුදලක් මේ වන විට ලැබී ඇතැයි නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජෙනරාල් විවේකා සිරිවර්ධන මහත්මිය දැනුම් දුන් අවස්ථාවේදී රජයෙන් සහ අධිකරණ නියෝග මත අය කරගත් වන්දි මුදල්වලින් මෙම වින්දිතයින්ට වන්දි ගෙවා ඇති ආකාරය පිළිබඳ අදාළ වාර්තාව ලබන නඩු දිනයට පෙර ඉදිරිපත් කිරීමට නියෝග කළේය.
-
-ශ්‍රේෂ්ඨාධිකරණ විනිසුරුවරුන් වන මුර්දු ප්‍රනාන්දු, එස්. තුරේරාජා සහ දිලිප් නවාස් යන මහත්ම මහත්මීන්ගෙන් සැදුම්ලත් විනිසුරු මඩුල්ල හමුවේ පෙත්සම් සලකා බැලිණි.
-
-...
-
-[Data](articles/4609faad.json)
-
----
-
 ### Third installment holiday announcement
 
 *2024-11-18 18:32:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-விடுமுறை-அறிவிப்பு/175-347389) · `ta`
@@ -1389,20 +1039,6 @@ In a post on ‘X’ (formerly Twitter), former State Minister of Finance Shehan
 [Data](articles/ae04e7dc.json)
 
 [Extended Data](ext_articles/ae04e7dc.ext.json)
-
----
-
-### නියෝජ්‍ය අමාත්‍යවරුන් පත් කිරීම 21දා
-
-*2024-11-18 18:04:16* · [`adalk`](https://www.ada.lk/breaking_news/නියෝජ්‍ය-අමාත්‍යවරුන්-පත්-කිරීම-21දා/11-413129) · `si`
-
-නව ආණ්ඩුවේ නියෝජ්‍ය අමාත්‍යවරුන් පත් කිරීම ලබන බ්‍රහස්පතින්දා එනම් 21වැනිදා සිදු කිරීමට නියමිත බව වාර්තා වේ.
-
-ඒ අනුව නියෝජ්‍ය අමාත්‍යවරුන් 30කට ආසන්න සංඛ්‍යාවක් පත් කිරීමට නියමිත ය. සියලුම අමාත්‍යාංශ සඳහා නියෝජ්‍ය ඇමතිවරුන් පත් කිරීමට නියමිත අතර, ඇතැම් අමාත්‍යාංශ සඳහා ඒවායේ විෂය පථය අනුව නියෝජ්‍ය අමාත්‍ය ධුර දෙකක් පත් කිරීමට සිදුවන බව ද ජනාධිපතිවරයා රූපවාහිනි වැඩසටහනකදී ප්‍රකාශ කළේය.
-
-◼️
-
-[Data](articles/8d70121b.json)
 
 ---
 
@@ -2365,5 +2001,331 @@ The IMF team arrived in the island  on Sunday (17), and will remain until Novemb
 [Data](articles/4d5c9e65.json)
 
 [Extended Data](ext_articles/4d5c9e65.ext.json)
+
+---
+
+### Supreme Court rejects Ravi Seneviratne's petition
+
+*2024-11-18 14:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203494) · `si`
+
+Supreme Court rejects Ravi Seneviratne's petition against arrest and remand. Petitioner claims violation of human rights. Case dismissed by bench comprising Judges Nawaz and Priyantha Fernando.
+
+🟩
+
+The Supreme Court today rejected a fundamental rights petition filed by the Criminal Investigation Department (CID) Secretary Ravi Seneviratne.
+
+He had filed the petition asking the Wellawatte Police to a decision to be arrested by Wellawatte police and remanded by the Wellawatte police.
+
+Petition is today. Thura Raja, AHMD. The petition was called before the Supreme Court Judge Bench comprised of Nawaz and Priyantha Fernando.
+
+The Deputy Solicitor General Dhame War Warrakula, who appeared for the respondents in accordance with the Supreme Court comply with the Supreme Court.
+
+The three-member Supreme Court Judge Benugalla, the Supreme Court Judge Benugama presented the preliminary objection presented by the Supreme Court Judge Mudulla the respondent.
+
+The IGP, the OIC of the Wellawatte Police and the OIC of Wellawatte had been named as respondents in the petition.
+
+The petitioner Ravi Seneviratne had been arrested by the Wellawatte police in connection with an accident on October 28 last year.
+
+...
+
+[Data](articles/77c7e9cf.json)
+
+[Extended Data](ext_articles/77c7e9cf.ext.json)
+
+---
+
+### Ravi Karunanayake, who is selected on the national list
+
+*2024-11-18 14:43:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-தெரிவான-ரவி-கருணாநாயக்க/175-347383) · `ta`
+
+Former Minister Ravi Karunanayake likely to enter Parliament via National List seat from New Democratic Front. Election Commission to be informed soon.
+
+🟩
+
+It is reported that former minister Ravi Karunanayake will go to Parliament through the National List.
+
+According to party sources, former minister Ravi Karunanayake has appointed a national list seat in two national list seats that have been contested by the new Democratic Front, which contested the cylinder symbol in the general election.
+
+The report also states that the Election Commission will be notified of the other national list in a timely manner.
+
+◼️
+
+[Data](articles/edc7d476.json)
+
+[Extended Data](ext_articles/edc7d476.ext.json)
+
+---
+
+### Trump and AKD: the vital differences
+
+*2024-11-18 14:27:00* · [`islandlk`](http://island.lk/trump-and-akd-the-vital-differences/) · `en`
+
+The people of the United States of America elected that country’s 47th president on November 5, 2024. Donald Trump, who had served as the 45th president and was defeated by Joe Biden, made an unprecedented comeback, securing 312 votes of the electoral college. It left those who backed his main opponent, Democratic Party candidate and serving Vice President, Kamala Harris, in shock. After all, Trump was convicted on 34 felony counts of falsifying business records in May in New York and is currently facing charges of fraud, election subversion, and obstruction.
+
+How on earth did he even get on the ballot? How on earth did he win? Are those who voted for him ignorant of his criminal record? Have they forgotten how he covered himself in ignominy in the aftermath of losing the 2020 election? These are the questions that his detractors ask.
+
+...
+
+[Data](articles/656d7b37.json)
+
+[Extended Data](ext_articles/656d7b37.ext.json)
+
+---
+
+### A brief electoral review of the new and improved United States of Amnesia
+
+*2024-11-18 14:23:00* · [`islandlk`](http://island.lk/a-brief-electoral-review-of-the-new-and-improved-united-states-of-amnesia/) · `en`
+
+Trump’s proposed cabinet appointments short on quality, long on slavish loyalty
+
+Last week, in the despair I felt in the aftermath of the election to the US presidency of the most evil man in the United States, I wrote that I will take a break to lick my wounds and get over my distress at the apparent catastrophe that has befallen my second home. Then I realized that this is not the end of the world, though it sure felt like it on the morning after the election.
+
+I learned that I was not alone in these feelings of despair. Trump’s win had sparked off an unprecedented increase in Google searches reflecting a growing interest among Americans in relocating to foreign countries, New Zealand heading the list with an astonishing 7,600% increase! The next most popular Google search was “the least painful way to kill yourself”.
+
+...
+
+[Data](articles/8ed09636.json)
+
+[Extended Data](ext_articles/8ed09636.ext.json)
+
+---
+
+### After the funeral: A post-mortem on the US election
+
+*2024-11-18 14:21:00* · [`islandlk`](http://island.lk/after-the-funeral-a-post-mortem-on-the-us-election/) · `en`
+
+Last week’s presidential election was doubtless one of the most consequential in US history. Though the outcome was not predictable – most polls showed a tight race between Kamala Harris and Donald Trump – with the benefit of hindsight one can say that the Democrats should have seen it coming. Over the next few days and weeks, there will be a slew of analyses and diagnoses claiming to pinpoint the reasons for their defeat. Yet as Sri Lankan political analyst Rajni Gamage rightly put it in a recent tweet, such diagnoses are themselves problematic, and point to the biases of those making them.
+
+...
+
+[Data](articles/2aedc11a.json)
+
+[Extended Data](ext_articles/2aedc11a.ext.json)
+
+---
+
+### A National Sweep from Point Pedro to Point Dondra
+
+*2024-11-18 14:19:00* · [`islandlk`](http://island.lk/a-national-sweep-from-point-pedro-to-point-dondra/) · `en`
+
+More than the actual numbers, it is the extent of the NPP’s sweep, from north to south and from west to east that is truly historic and stunningly remarkable. There is nothing to analyze here. The National Peoples’ Power (Jathika Jana Balawegaya) has led and won the most number of seats in 21 of the 22 electoral districts, with the sole exception of Batticaloa where the NPP is placed second after the ITAK.
+
+...
+
+[Data](articles/c7ca2cbb.json)
+
+---
+
+### Prime Minister Wijayananda Dahanayake was a most unconventional character
+
+*2024-11-18 14:18:00* · [`islandlk`](http://island.lk/prime-minister-wijayananda-dahanayake-was-a-most-unconventional-character/) · `en`
+
+Wijayananda Dahanayake Prime Minister and Minister of Defence and External Affairs (September 1959 — March 1960)
+
+(Excerpted from Rendering Unto Caesar by Bradman Weerakoon, Secretary to THE Prime Minister)
+
+...
+
+[Data](articles/238823e8.json)
+
+[Extended Data](ext_articles/238823e8.ext.json)
+
+---
+
+### Ravi again to parliament again
+
+*2024-11-18 14:17:18* · [`adalk`](https://www.ada.lk/breaking_news/රවී-නැවතත්-පාර්ලිමේන්තුවට/11-413119) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+Ravi Karunanayake, Secretary of New Democratic Front, informed Election Commission about UNP national listing. New Democratic Front won two national lists this year.
+
+🟩
+
+Ravi Karunanayake, Secretary of the New Democratic Front, has been informed the Election Commission (UNP) to a national listing of the new Democratic Front.
+
+The new Democratic Front won two national lists this year.
+
+◼️
+
+[Data](articles/d9f5078a.json)
+
+[Extended Data](ext_articles/d9f5078a.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices down for third week
+
+*2024-11-18 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-for-second-week-amidst-election-187248/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices fell from 99,959.25 to 99,684.19 for 1,000 nuts at an auction held on November 13, a day before the general election, data from the Coconut Development Authority indicated.
+
+Coconut prices dropped for the third consecutive week after reaching a record high of 105,000.00 on October 24.
+
+A total of 284,870 coconuts were offered at the auction and 231,221 were sold.
+
+The highest price for 1,000 nuts was 100,000 rupees, while the lowest for 1,000 nuts was 95,ooo rupees at the weekly CDA auction.
+
+Wholesale prices for large nuts were 140-150 and 110-120 rupees for small nuts on November 13.
+
+Farmgate prices in Kurunegala were 100,000 to 110,000 per 1,000 nuts.
+
+Coconut oil local wholesale price was 750,000.00 to 770,000.00 rupees per metric ton.
+
+Coconut shells were 40,000 to 42,000 rupees per metric ton. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/5bea21cf.json)
+
+[Extended Data](ext_articles/5bea21cf.ext.json)
+
+---
+
+### Sri Lanka coconut auction prices down for third week
+
+*2024-11-18 14:15:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-prices-down-for-third-week-187248/) · `en`
+
+ECONOMYNEXT- Sri Lanka’s average coconut prices fell from 99,959.25 to 99,684.19 for 1,000 nuts at an auction held on November 13, a day before the general election, data from the Coconut Development Authority indicated.
+
+Coconut prices dropped for the third consecutive week after reaching a record high of 105,000.00 on October 24.
+
+A total of 284,870 coconuts were offered at the auction and 231,221 were sold.
+
+The highest price for 1,000 nuts was 100,000 rupees, while the lowest for 1,000 nuts was 95,ooo rupees at the weekly CDA auction.
+
+Wholesale prices for large nuts were 140-150 and 110-120 rupees for small nuts on November 13.
+
+Farmgate prices in Kurunegala were 100,000 to 110,000 per 1,000 nuts.
+
+Coconut oil local wholesale price was 750,000.00 to 770,000.00 rupees per metric ton.
+
+Coconut shells were 40,000 to 42,000 rupees per metric ton. (Colombo/Nov18/2024)
+
+◼️
+
+[Data](articles/a70b5cc5.json)
+
+[Extended Data](ext_articles/a70b5cc5.ext.json)
+
+---
+
+### Ravi Karunanayake nominated for NDF National List seat?
+
+*2024-11-18 14:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/103584/ravi-karunanayake-nominated-for-ndf-national-list-seat) · `en`
+
+The New Democratic Front (NDF), which contested the 2024 General Election under the ‘gas cylinder’ symbol, has nominated former Minister Ravi Karunanayake for one of the two National List seats won by the party in Parliament, according to party sources.
+
+Meanwhile, the source said that the other nominee will be notified to the Election Commission in due course.
+
+The NDF managed to secure a total of 5 seats in the Parliament including 2 National List seats in the 2024 Parliamentary Election, as they obtained a total of 500,835 votes from across the island.
+
+In the meantime, Anuradha Jayarathne, who obtained 20,749 preferential votes in the Kandy District, former MP Rohitha Abeygunawardhana who secured 10,204 preferential votes in the Kalutara District and Chamara Sampath Dassanayake who received 19,359 preferential votes in the Badulla District are the only NDF parliamentary candidates who have secured seats in the 10th Parliament.
+
+◼️
+
+[Data](articles/a6a1a78a.json)
+
+[Extended Data](ext_articles/a6a1a78a.ext.json)
+
+---
+
+### Ravi Karunanayake to be appointed by the National List
+
+*2024-11-18 14:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203493) · `si`
+
+Ravi Karunanayake named for National List New Democratic Front 2024 election Anuradha Jayaratne Rohitha Abeygunawardena Chamara Sampath Dasanayake contesting
+
+🟩
+
+Ravi Karunanayake has been named for one national list of the new Democratic Front.
+
+According to party sources, the other name is to be notified to the Election Commission in the future.
+
+The New Democratic Front, which was presented to the general election under the Gas Cylinder, the new Democratic Front was held at the 2024 election.
+
+In addition, Anuradha Jayaratne (Kandy), Rohitha Abeygunawardena (Kalutara) and Chamara Sampath Dasanayake were contesting the general election.
+
+◼️
+
+[Data](articles/b80e9bae.json)
+
+[Extended Data](ext_articles/b80e9bae.ext.json)
+
+---
+
+### National People's Power
+
+*2024-11-18 14:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199076) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+National People's Power appoints Sukat Wasantha de Silva, president of Sri Lanka Blind Graduates Association, as parliamentary member. First disabled representative in Sri Lankan Parliament. Significant step towards equality and representation for visually impaired citizens.
+
+🟩
+
+The National People's Power has given a special needy to his national list. This opportunity has been given to Sukat Wasantha de Silva, president of the Sri Lanka Blind Graduates Association.
+
+For the first time in the Parliament of Sri Lanka, a man who has been disabled has been appointed as a member.
+
+His appointment is considered very important as he will act in parliament as the representative of the blind. And this effort of the national people's power, which is in the principle of equality, is also seen as very progressive.
+
+◼️
+
+[Data](articles/4221b49d.json)
+
+[Extended Data](ext_articles/4221b49d.ext.json)
+
+---
+
+### Sugath Wasantha de Silva, who changed Parliamentary History
+
+*2024-11-18 13:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203492) · `si`
+
+Sugath Wasantha de Silva: First visually impaired MP in Sri Lanka's history. Born 1967, became blind in childhood. Graduated with honors in history. Elected via national list in 2020 general election. Represents visually impaired, hearing-impaired, and intellectually disabled communities. Aims to improve lives of disabled individuals in Sri Lanka.
+
+🟩
+
+Sri Lanka's first parliamentary-impaired person is the first to be visually impaired by a parliamentary delegation.
+
+He was elected to Parliament with a national list of national list in this year's general election.
+
+He was born on July 26, 1967 in Balapitiya, Balapitiya.
+
+In the fifth grade, a ball has come to an end to a chance after hitting cricket.
+
+After the accident, Sikugu was admitted to the Blind College, Ratmalana.
+
+...
+
+[Data](articles/99dc3e5c.json)
+
+[Extended Data](ext_articles/99dc3e5c.ext.json)
+
+---
+
+### Rs. 311M received as compensation for Easter attack victims; SC calls for report on distribution
+
+*2024-11-18 13:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103583/rs-311m-received-as-compensation-for-easter-attack-victims-sc-calls-for-report-on-distribution) · `en`
+
+The Attorney General (AG) today informed the Supreme Court that the Office for Reparations has received Rs. 311 million in total as compensation for the victims of the Easter Sunday terror attacks, as per the court order issued in relation to the petitions filed in this regard.
+
+The Additional Solicitor General, who appeared on behalf of the AG, informed this to the court today (18), when the Fundamental Rights (FR) petitions filed related to the Easter Sunday terror attacks were taken up this morning.
+
+Accordingly, the Supreme Court judge bench ordered the Additional Solicitor General to submit a report pertaining to the manner in which the relevant compensations have been disbursed to the victims, on the next court date.
+
+The petitions were subsequently ordered to be recalled on February 27, 2025.
+
+The petitions were taken up for consideration before a three-member Supreme Court judge bench consisting of Justices Murdu Fernando, S. Thurairaja and A.H.M.D. Nawaz.
+
+◼️
+
+[Data](articles/b3b897df.json)
+
+[Extended Data](ext_articles/b3b897df.ext.json)
 
 ---

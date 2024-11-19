@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 10:41:43**
+As of **2024-11-19 10:00:51**
 
 ## Newspaper Stats
 
-*Scraped **55,699** Articles*
+*Scraped **55,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ colombotelegraphcom | 569
 bbccomsinhala | 571
 islandlk | 3,338
 economynextcom | 3,372
-dailyftlk | 3,812
+dailyftlk | 3,811
 dailymirrorlk | 4,733
-adalk | 5,228
+adalk | 5,226
 adaderanalk | 6,720
-tamilmirrorlk | 7,889
+tamilmirrorlk | 7,888
 virakesarilk | 9,043
 adaderanasinhalalk | 9,629
 
@@ -26,43 +26,11 @@ adaderanasinhalalk | 9,629
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,696 (100.0%) of 55,699 articles have been extended.
+55,695 (100.0%) of 55,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
-
-### பங்களாதேஷ் பிரஜைகள் 08 பேர் கைது
-
-*2024-11-19 10:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷ்-பிரஜைகள்-08-பேர்-கைது/175-347421) · `ta`
-
-வீசா காலத்தை மீறி நாட்டில் தங்கியிருந்த   பங்களாதேஷ் பிரஜைகள் 08 பேர், கட்டுநாயக்க பொலிஸ் ஊழல் ஒழிப்பு பிரிவின் அதிகாரிகள் குழுவினால் ஆதியம்பலம், கோவை பகுதியில் சுற்றுலா விடுதியில் வைத்து திங்கட்கிழமை (18) இரவு கைது செய்யப்பட்டுள்ளனர்.
-
-20 வயதுக்கும் 30 வயதுக்கும் இடைப்பட்ட இவர்கள் இலங்கையின் குடிவரவு நிபந்தனைகளை மீறி சட்டவிரோதமான முறையில் நாட்டில் தங்கியுள்ளனர்.
-
-மேலதிக விசாரணைகளுக்காக அவர்களது வாக்குமூலங்களை பதிவு செய்வதற்கு மொழிபெயர்ப்பாளரின் உதவியை பொலிஸார் பெற வேண்டியிருந்தது.
-
-கட்டுநாயக்க பொலிஸாருக்கு கிடைத்த தகவலின் அடிப்படையில் திங்கட்கிழமை (18) இரவு அடியம்பலம், கோவின்ன பிரதேசத்தில் அமைந்துள்ள இந்த சுற்றுலா ஹோட்டல் சுற்றிவளைப்புக்கு உட்படுத்தப்பட்டு கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட பங்களாதேஷ் பிரஜைகள் எதிர்வரும்   மினுவாங்கொட நீதவான் நீதிமன்றில் செவ்வாய்க்கிழமை (19) ஆஜர்படுத்தப்படவுள்ளனர்.
-
-◼️
-
-[Data](articles/84828edb.json)
-
----
-
-### නව කැබිනෙට්ටුව අද රැස්වෙයි
-
-*2024-11-19 10:25:02* · [`adalk`](https://www.ada.lk/breaking_news/නව-කැබිනෙට්ටුව-අද-රැස්වෙයි/11-413137) · `si`
-
-නව රජයේ පළමු කැබෙනට්ටුව අද පෙරවරුවේ රැස්වෙයි. ජනපති අනුර කුමාර දිසානායක මහතාගේ ප්‍රධානත්වයෙන් මෙම රැස්වීම පැවැත්වෙනු ඇත.
-
-◼️
-
-[Data](articles/c7842304.json)
-
----
 
 ### Stadium under World Cup
 
@@ -95,26 +63,6 @@ The sports complex is designed to a domestic stadium in the stadium, mixing the 
 [Data](articles/8960843a.json)
 
 [Extended Data](ext_articles/8960843a.ext.json)
-
----
-
-### අයි.එම්.එෆ්. සමග සහයෝගයෙන් වැඩ කරන බව ජනපති යළිත් සහතික කරයි
-
-*2024-11-19 08:14:45* · [`adalk`](https://www.ada.lk/breaking_news/අයි-එම්-එෆ්--සමග-සහයෝගයෙන්-වැඩ-කරන-බව-ජනපති-යළිත්-සහතික-කරයි/11-413135) · `si`
-
-ආර්ථික ප්‍රතිසාධන වැඩසටහනෙහි සමබර ප්‍රවේශයක් ඇති කර ගන්නා ලෙස ජනපති ජාත්‍යන්තර මූල්‍ය අරමුදලින් ඉල්ලා සිටි
-
-සුබසාධන වියදම් කෙරෙහි අවධානය : ළමා දරිද්‍රතාව, මන්දපෝෂණය, සහ විශේෂ අවශ්‍යතා සහිත පුද්ගලයින් සඳහා උපකාර
-
-IMF වැඩසටහනේ සාර්ථකත්වය, පවත්නා පාලනය කෙරෙහි මහජන විශ්වාසය ගොඩනැඟීම මත රඳා පවතී
-
-ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ක්‍රියාත්මක කෙරෙන වැඩසටහනේ ඉදිරි පියවර පිළිබඳව සාකච්ඡා කිරීම සඳහා එහි ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මහතා සමඟ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායම ෆය් (18) පස්වරුවේ ජනාධිපති ලේකම් කාර්යාලයේදී ජනාධිපති අනුර කුමාර දිසානායක මහතා සහ නව රජයේ අමාත්‍යවරු පිරිසක් හමු විය.
-
-තම රජය විසින් දිනා ගනු ලැබූ ජනවරමත් සමඟ ශ්‍රී ලංකාවේ ආර්ථිකය ප්‍රතිසාධනය කර ගනිමින් ජාත්‍යන්තර මූල්‍ය අරමුදල (IMF) සමඟ සහයෝගයෙන් කටයුතු කිරීමට සුදානම් බව මෙහිදී ජනාධිපති අනුර කුමාර දිසානායක මහතා නැවත වරක් තහවුරු කරනු ලැබීය.
-
-...
-
-[Data](articles/66cb3719.json)
 
 ---
 
@@ -863,22 +811,6 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/ab315f29.json)
 
 [Extended Data](ext_articles/ab315f29.ext.json)
-
----
-
-### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
-
-*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380) · `en`
-
-Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
-
-Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
-
-...
-
-[Data](articles/83d7e229.json)
-
-[Extended Data](ext_articles/83d7e229.ext.json)
 
 ---
 
@@ -2369,5 +2301,115 @@ The former president added that the representatives of all parties of the new De
 [Data](articles/fcd35255.json)
 
 [Extended Data](ext_articles/fcd35255.ext.json)
+
+---
+
+### Sri Lanka stocks close up as positive sentiment continues
+
+*2024-11-18 15:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-as-positive-sentiment-continues-188539/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Monday after the new cabinet of ministers was sworn in, data on its site showed.
+
+The broader ASPI closed up 0.24 percent, or 32.21 points, at 13,231; while the more liquid S&P SL20 Index closed up 0.17 percent, or 6.71 points, at 3,983.
+
+Turnover was 5.5 billion. Most of this came from interest in banking sector stocks (Rs1.8 billion) and capital goods (Rs1.1bn).
+
+Other sectors that saw high activity were food, beverage and tobacco (Rs652mn) and diversified financials (Rs469mn.)
+
+“There’s positive sentiment from the new government winning a two-thirds majority, the same trend continued,” market participants said.
+
+“There’s mainly interest in banking, and some momentum into hotels.”
+
+There were crossings in big companies, in big volumes, they said. “This is likely from high net worth individuals and institutions.”
+
+...
+
+[Data](articles/e2695790.json)
+
+[Extended Data](ext_articles/e2695790.ext.json)
+
+---
+
+### Rohitha's cousin of MP Rohitha surrenders to two illegal vehicles
+
+*2024-11-18 15:51:55* · [`adalk`](https://www.ada.lk/breaking_news/නීතිවිරෝධී-වාහන-දෙකකට-අවශ්‍යව-සිටි-මන්ත්‍රී-රෝහිතගේ-ඥාති-පුතා-පොලීසියට-භාරවෙයි/11-413121) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Cousin of MP Rohitha Abeygunawardena surrenders two illegal vehicles: a BMW and a Mitsubishi Jeep. Owner arrested by Kandy Criminal Investigation Unit. Case to be presented in court today under Chief Inspector Thilak Samaranayake.
+
+🟩
+
+The cousin of Rohitha Abeygunawardena's brother, Rohitha Abeygunawardena, has been handed over to the police (brother Rohitha Abeygunawardena's daughter).
+
+The Luxury Criminal Investigation Unit of the suspect, the owner of the suspect in Mahaiyawa, Kandy was arrested by the Kandy Criminal Investigation Unit on the 20th of the 20th of the 20th of the 20th of the 20th of the government.After submitting to the MP, the two vehicles were reported to the police two illegal vehicles.
+
+That luxury is BMW. The Analyst recorded had been reported to be an illegal vehicle and exploited the Chassis of the Mitsubishi jeep.
+
+The suspect had been informed to visit the police, but the police had also taken steps to obtain the country out of the court due to the police.
+
+The suspect is to be produced before courts today (18) and a police team, Chief Inspector Thilak Samaranayake, the Chief Inspector Thilak Samaranayake of the Divisional Superintendent of Police Anuruddha Bandaranaike.
+
+◼️
+
+[Data](articles/bdf7d0a6.json)
+
+[Extended Data](ext_articles/bdf7d0a6.ext.json)
+
+---
+
+### One arrested with heroin drug
+
+*2024-11-18 15:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/199081) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+33-year-old man arrested with 12g heroin in Boraleskamuwa police division raid. Suspect from Kalkissa handed over for further investigation.
+
+🟩
+
+A suspect has been arrested on Sunday (17) with heroin in the area of ​​the Boraleskamuwa police division, police Special Task Force said.
+
+The suspect has been arrested during a raid carried out on information received by the Police Special Task Force.
+
+The arrested suspect is 33 years old from Kalkissa.
+
+12 g 550 ml of heroin has been seized from the suspect.
+
+Subsequently, the suspect has been handed over to the Boraleskamuwa police station for further investigations.
+
+◼️
+
+[Data](articles/6319983f.json)
+
+[Extended Data](ext_articles/6319983f.ext.json)
+
+---
+
+### Ministries under the President
+
+*2024-11-18 15:40:30* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-යටතට-ගත්-අමාත්‍යාංශ/11-413120) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+New Ceylon Cabinet sworn in. 21 ministers excluding PM. Key portfolios: Security, Cash Design, Economic Development, Digital Economic Development.
+
+🟩
+
+The new Ceylon Cabinet of the National Ceylon Forgitation was sworn in before President Anura Kumara Dissanayake at the Presidential Secretariat this morning (18). The new Cabinet of Ministers except the Prime Minister were limited to 21.
+
+President Anura Kumara Dissanayake has kept security, cash design and economic development, Digital Economic Development.
+
+◼️
+
+[Data](articles/d471378a.json)
+
+[Extended Data](ext_articles/d471378a.ext.json)
 
 ---

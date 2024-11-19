@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 14:41:37**
+As of **2024-11-19 15:12:50**
 
 ## Newspaper Stats
 
-*Scraped **55,740** Articles*
+*Scraped **55,744** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 570
-bbccomsinhala | 573
+bbccomsinhala | 574
 islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,233
+adalk | 5,234
 adaderanalk | 6,720
-tamilmirrorlk | 7,899
+tamilmirrorlk | 7,901
 virakesarilk | 9,052
 adaderanasinhalalk | 9,641
 
@@ -26,11 +26,87 @@ adaderanasinhalalk | 9,641
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,740 (100.0%) of 55,740 articles have been extended.
+55,744 (100.0%) of 55,744 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### Cabinet spokesman Nalinda Jayatissa
+
+*2024-11-19 14:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-பேச்சாளர்-நளிந்த-ஜயதிஸ்ஸ/175-347439) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New Cabinet meets; Health Minister Nalinda Jayatissa named as media spokesperson.
+
+🟩
+
+The first Cabinet meeting of the new government was held on Tuesday (19) at the Presidential Office headed by President Anura Kumara Dissanayake.
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa has been appointed as a media spokesman for the new Cabinet, the Presidential Media Unit said.
+
+◼️
+
+[Data](articles/4e289b24.json)
+
+[Extended Data](ext_articles/4e289b24.ext.json)
+
+---
+
+### The test that came to Google Chrome
+
+*2024-11-19 14:40:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/கூகுள்-குரோமுக்கு-வந்த-சோதனை/57-347438) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+US Justice Dept may force Google to sell Chrome browser due to alleged monopoly in search market. Judge ruled against Google last August. Google claims users will suffer most from this decision. Seen as part of Biden administration's actions against major tech companies. Impact expected to be minimal due to Trump's election win.
+
+🟩
+
+It has been revealed that the US Justice Department will give the Google Chrome browser to be forced to sell the browser.
+
+Many people around the world are usually using Google Chrome Internet browser on digital devices such as their smartphone, laptop, desktop, tablet. In this case, Google has to sell the browser. Let us look at the reason for that.
+
+Last August, a US judge ruled that Google had illegally monopured the Search market by Chrome browser. In this case, the US Justice Department seems to advise to sell Google Chrome browser through that judge.
+
+The US judiciary refused to comment on this. Google Lee has said that the government is trying to take serious action on the issue over the legal issues.. Google also said that the users will suffer the most.
+
+...
+
+[Data](articles/291983ed.json)
+
+[Extended Data](ext_articles/291983ed.ext.json)
+
+---
+
+### To benefit from the coin to New Zealand - 5 changes from Sri Lanka
+
+*2024-11-19 14:07:56* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-නවසීලන්තයට---ශ්‍රී-ලංකාවෙන්-වෙනස්කම්-05ක්/9-413142) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New Zealand won toss, third ODI vs Sri Lanka. Charith led team with 05 players. Match details:
+
+🟩
+
+New Zealand team won the toss and win the third and final ODI match between the Sri Lanka Tourist Team and Sri Lanka.
+
+Leader Charith said that 05 Sri Lanka's faction was conducted in this match.
+
+◼️
+
+[Data](articles/8c56069d.json)
+
+[Extended Data](ext_articles/8c56069d.ext.json)
+
+---
 
 ### Non-academic staff at Ruhuna University on strike
 
@@ -1125,6 +1201,40 @@ The sports complex is designed to a domestic stadium in the stadium, mixing the 
 [Data](articles/8960843a.json)
 
 [Extended Data](ext_articles/8960843a.ext.json)
+
+---
+
+### Is Ravi Karunanayake made the national list of the UNP?
+
+*2024-11-19 08:55:57* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c5ymv4g6dlyo) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Ravi Karunanayake's inclusion in UNP national list disputed. New Democratic Front protests against his appointment. Gazette notification issued but challenged legally. UNP leadership discusses selection process. Elections Commission stands by party-secretary-named candidates. National list allocations for other parties also mentioned.
+
+🟩
+
+Is Ravi Karunanayake made the national list of the UNP?
+
+The new Democratic Front, which was competed by the New Democratic Front, was a controversial state on the Namin named Ravi Karunanayake.
+
+It was due to protesting against the New Democratic Front against the new Democratic Front against Ravi Karunanayake.
+
+However, the name of Ravi Karunanayake has been announced by gazette. The gazette notification has been announced under the number 2411/07 with November 18.
+
+The General Election 2024: Who has been appointed to the National List MPs yet? Basilding of the National List
+
+The New Democratic Front held five seats according to the results of November 14. That was three seats in the party and two national lists. One of them is empty as a national list seat.
+
+Anuradha Jayaratne, who contested in the Kalutara District, competed by the new Democratic Front and Chamara Sampath Dasanayake contested from the new Democratic Front.
+
+...
+
+[Data](articles/410cc15d.json)
+
+[Extended Data](ext_articles/410cc15d.ext.json)
 
 ---
 
@@ -2367,103 +2477,5 @@ The President had informed the International Monetary Fund representatives to su
 [Data](articles/de0b9b13.json)
 
 [Extended Data](ext_articles/de0b9b13.ext.json)
-
----
-
-### President to visit India first
-
-*2024-11-18 19:31:09* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-අනුර-මුලින්ම-ඉන්දියාවට/11-413134) · `si`
-
-Here's a 200-character summary:
-
-
-
-President Anura Kumara Dissanayake to visit India first. Scheduled bilateral talks with PM Modi. Cabinet meeting planned for mid-December.
-
-🟩
-
-External Affairs Minister Vijitha Herath said that President Anura Kumara Dissanayake is due to be appointed as the president.
-
-Foreign Affairs Minister Vijitha Herath said that the cabinet was planning to take place in the mid-December.
-
-The President is scheduled to hold bilateral talks with Indian Prime Minister Narendra Modi.
-
-◼️
-
-[Data](articles/90f099b5.json)
-
-[Extended Data](ext_articles/90f099b5.ext.json)
-
----
-
-### A crisis in the cylinder due to going from Ravi's list
-
-*2024-11-18 19:26:03* · [`adalk`](https://www.ada.lk/breaking_news/රවී-ජාතික-ලැයිස්තුවෙන්-යාම-නිසා-සිලින්ඩරයේ-අර්බුදයක්/11-413133) · `si`
-
-Crisis in cylinder due to Ravi's list. Former Minister Ravi Karunanayake named to Elections Commission by UNP. Ranil Wickremesinghe calls it a withdrawal act. New Democratic Front party secretaries oppose appointment to Elections Commission.
-
-🟩
-
-It is reported that the name of the former Minister Ravi Karunanayake to the Elections Commission to the Elections Commission to the Elections Commission has emerged from the UNP.
-
-Ranil Wickremesinghe has also stated that the process has also stated that the process is an act of consciousness or withdrawal.
-
-The new Democracy has been sent by the Front Party Secretaries by the Front Party Secretary at the Front Party Secretary at the New Democracy.
-
-However, it is reported that the parties involved in the New Democratic Front have been sent to the Elections Commission to not make the appointment.
-
-◼️
-
-[Data](articles/f4c0646f.json)
-
-[Extended Data](ext_articles/f4c0646f.ext.json)
-
----
-
-### Navy bears with 4 kilos of heroin
-
-*2024-11-18 19:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203505) · `si`
-
-Sri Lanka Navy seizes 4 kg heroin worth $7 million in deep sea operation. Five suspects arrested on fishing vessel 200 km west of Sri Lanka. Heroin to be handed over to Police Narcotics Bureau for legal proceedings.
-
-🟩
-
-Heroin has taken over Rs. 1152 million in the deep sea.
-
-The drug has been found in a special search operation conducted by the Navy in a deep sea, about 200 miles [200 km] west of Sri Lanka.
-
-Five suspects have been taken into custody with a multi-day vessel.
-
-Fisheries vessel was taken to the Galle Warasala, the Navy found the stock of 40 parcels during two parcels.
-
-The Navy said that 46 kilos were weighing 116 grams.
-
-Heroin is due to be handed over to the Police Narcotics Bureau for further legal proposals for the proceedings of heroin.
-
-◼️
-
-[Data](articles/88bc6a8c.json)
-
-[Extended Data](ext_articles/88bc6a8c.ext.json)
-
----
-
-### IMF delegation meets President and key ministers
-
-*2024-11-18 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103594/imf-delegation-meets-president-and-key-ministers) · `en`
-
-Senior Mission Chief of the International Monetary Fund (IMF) Peter Breuer and the delegation has met with President Anura Kumara Dissanayake and key ministers of the government today (18).
-
-During the meeting, the President has urged the IMF to maintain a balanced approach that considers the hardships faced by citizens, the President’s Media Division said.
-
-Furthermore, Dissnayake has emphasized that the success of the IMF programme hinges on rebuilding public trust in governance, the PMD added.
-
-Posting on ‘X’ President Dissnayake stated that the discussion was focused on tackling child poverty and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.
-
-◼️
-
-[Data](articles/8b3b9b88.json)
-
-[Extended Data](ext_articles/8b3b9b88.ext.json)
 
 ---

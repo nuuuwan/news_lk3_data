@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 18:02:34**
+As of **2024-11-19 18:38:31**
 
 ## Newspaper Stats
 
-*Scraped **55,762** Articles*
+*Scraped **55,776** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 570
-bbccomsinhala | 574
+bbccomsinhala | 575
 islandlk | 3,338
-economynextcom | 3,374
+economynextcom | 3,382
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,239
+adalk | 5,240
 adaderanalk | 6,720
-tamilmirrorlk | 7,903
+tamilmirrorlk | 7,907
 virakesarilk | 9,059
 adaderanasinhalalk | 9,645
 
@@ -26,11 +26,113 @@ adaderanasinhalalk | 9,645
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,762 (100.0%) of 55,762 articles have been extended.
+55,766 (100.0%) of 55,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### விளையாட்டுத்துறை அமைச்சர் கடமைகளைப் பொறுப்பேற்றார்
+
+*2024-11-19 18:26:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விளையாட்டுத்துறை-அமைச்சர்-கடமைகளைப்-பொறுப்பேற்றார்/175-347452) · `ta`
+
+இலங்கையின் 21வது விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சராக சுனில் குமார கமகே இன்று கொழும்பில் உள்ள விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சில் தனது கடமைகளை பொறுப்பேற்றுக் கொண்டார்.
+
+அமைச்சர் சுனில் குமார கமகே தேசிய மக்கள் சக்தியின் (NPP) தேசிய பட்டியல் ஊடாக பாராளுமன்றத்திற்கு பிரவேசித்துள்ளார்.
+
+◼️
+
+[Data](articles/3d38ee49.json)
+
+---
+
+### புதிய செயலாளர்கள் நியமனம்
+
+*2024-11-19 18:16:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்கள்-நியமனம்/175-347451) · `ta`
+
+புதிய செயலாளர்களுக்கு நியமனம் வழங்கும் நிகழ்வு ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக்க சனத் குமாநாயக்க தலைமையில் இன்று (19) ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+
+03.சீ.கே.பெரேரா - போக்குவரத்து, நெடுஞ்சாலைகள் , துறைமுகங்கள் மற்றும் சிவில் விமானத்துறை அமைச்சு
+
+17.ஏ.எச்.எம்.யூ - அருண பண்டார - இளைஞர் விவகார மற்றும் விளையாட்டுத்துறை அமைச்சு
+
+18.அருணி ரணராஜா - வெளிநாட்டலுவல்கள், வெளிநாட்டு வேலைவாய்ப்பு மற்றும் சுற்றுலா அமைச்சு (R)
+
+◼️
+
+[Data](articles/83e6f5da.json)
+
+---
+
+### Professor took charge of Sandana duties
+
+*2024-11-19 18:13:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேராசிரியர்-சந்தன-கடமைகளைப்-பொறுப்பேற்றார்/175-347450) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Professor Sandana Abeyratne leads new government chapter. Aims to create environment for officials to work freely, eliminating obstacles for authorities and citizens. Calls for unity among authorities to manage this new era and build friendly relationships with people.
+
+🟩
+
+The government is aimed at creating an environment where state officials can work freely and effectively to eliminate the obstacles that are disrupted to both the authorities and the citizens to provide and access.
+
+Professor Sandana Abeyratne said that the new chapter has begun on the country's journey by the new government, as the Minister of Provincial Councils and Local Government, as the Minister of State for Local Government.
+
+All the authorities should unite to manage this new chapter and make a friendly relationship with the people.
+
+◼️
+
+[Data](articles/5ecb1222.json)
+
+[Extended Data](ext_articles/5ecb1222.ext.json)
+
+---
+
+### New Secretary to the Ministry of Foreign Affairs
+
+*2024-11-19 18:06:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளிவிவகார-அமைச்சுக்குப்-புதிய-செயலாளர்-நியமனம்/175-347449) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Aruni Ranarajah named new Secretary of Sri Lanka's Ministry of External Affairs. Experienced diplomat with 25+ years in key roles.
+
+🟩
+
+Aruni Ranarajah has been appointed as the new Secretary of the Ministry of External Affairs.
+
+Ranarajah, an experienced professional who has over 25 years, has held many important positions in Sri Lanka's diplomatic service.
+
+◼️
+
+[Data](articles/1a53fb57.json)
+
+[Extended Data](ext_articles/1a53fb57.ext.json)
+
+---
+
+### Bhutan – Moving towards citizen engagement in policymaking
+
+*2024-11-19 18:00:00* · [`economynextcom`](https://economynext.com/bhutan-moving-towards-citizen-engagement-in-policymaking-188739/) · `en`
+
+A twelve-month long participatory policy-making project between policymakers and marginalised groups in Bhutan, resulted in a better understanding of each other’s roles, identifying gaps and building empathy.
+
+The project titled Democracy Beyond Borders, which ended in 2023, encouraged engagement and collaboration between the two groups and focussed on better social protections for the marginalised, explained Dr Chencho Lhamu, Dean of Development and External Relations, Royal Thimpu College.
+
+Dr Lhamu told a web talk on Citizen Participation and Engagement in Bhutan that policymakers usually regard their area of work as their exclusive domain.
+
+The project’s evaluation report indicated that government officials expressed a better understanding of the gaps in services available to the marginalised groups, which included women, people with disabilities and vulnerable youth.
+
+...
+
+[Data](articles/fa8f4e14.json)
+
+[Extended Data](ext_articles/fa8f4e14.ext.json)
+
+---
 
 ### A proposal to remove MP privileges
 
@@ -63,6 +165,30 @@ He points out that the new culture is being brought to strengthen the new presid
 [Data](articles/e08a4f9f.json)
 
 [Extended Data](ext_articles/e08a4f9f.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 291.00/15 to dollar, bonds stable
+
+*2024-11-19 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-00-15-to-dollar-bonds-stable-188780/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.00/15 to the US dollar on Tuesday from 291.35/45 to the US dollar on Monday dealers said, while bond yields were up.
+
+A bond maturing on 15.12.2026 closed at 10.25/40 percent, up from 10.25/35 percent.
+
+A bond maturing on 15.12.2027 closed at 10.90/11.05 percent, up from 10.75/90 percent.
+
+A bond maturing on 15.02.2028 closed at 11.15/20 percent. up from 11.10/20 percent.
+
+A bond maturing on 15.09.2029 closed at 11.40/55 percent, up from 11.25/40 percent.
+
+The central bank announced it would issue Rs 145,000 million Treasury bills through an auction on 20th November. (Colombo/Nov19/2024)
+
+◼️
+
+[Data](articles/4ffd73f5.json)
+
+[Extended Data](ext_articles/4ffd73f5.ext.json)
 
 ---
 
@@ -125,6 +251,40 @@ Police have seized 12 rifles and six bullets from the suspect.
 [Data](articles/3ed2e956.json)
 
 [Extended Data](ext_articles/3ed2e956.ext.json)
+
+---
+
+### Sri Lanka’s new Public Security Minister promises depoliticized, independent police
+
+*2024-11-19 16:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-public-security-minister-promises-depoliticized-independent-police-188765/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly appointed Public Security Minister Ananda Wijepala promised to stop political interference in police matters and ensure independence for the police to implement law and order.
+
+In his inaugural comments after assuming office as the Minister of Public Security which oversees police, passport and national identity card issuance said he will rectify the past concerns raised by the public.
+
+Wijepala won the November 14 presidential poll under the ruling National People’s Power (NPP) in the Northwestern district of Kurunagala.
+
+“One of the key promises among the many promises (by NPP) is establishing the rule of law in this country as well as bringing in justice and fairness to this country,” Wijepala, former Private Secretary to President Anura Kumara Dissanayake and National Organizer of the NPP’s National Intellectual Organization, told reporters in his first press conference as the Minister.
+
+...
+
+[Data](articles/4933d5d6.json)
+
+---
+
+### කංචන විජේසේකර ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+
+*2024-11-19 16:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-විජේසේකර-ජාතික-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413148) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රීධුර දෙකෙන් එක් මන්ත්‍රීධුරයක් වෙනුවෙන් හිටපු අමාත්‍ය කංචන විජේසේකර මහතා පත්කිරීමට නියමිත බව වාර්තා වෙයි.
+
+කංචන විජේසේකර මහතා මාතර දිස්ත්‍රික්කයෙන් තරග කළ අතර එහිදී ඔහු පරාජයට පත්විය.
+
+නව ප්‍රජාතන්ත්‍රවාදී පක්ෂයට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රීධුරයෙන් එක් මන්ත්‍රීධුරයක් සඳහා මේ වන විට රවී කරුණානායක මහතාගේ නම ගැසට් කර ඇති ඒ පිළිබඳව පක්ෂය තුළ අර්බුදයක් නිර්මාණය වී තිබේ.
+
+◼️
+
+[Data](articles/00b2f8c6.json)
 
 ---
 
@@ -243,6 +403,28 @@ The Diyatalawa town went to Diyatalawa town and removed his travels in the bus s
 [Data](articles/59e251bf.json)
 
 [Extended Data](ext_articles/59e251bf.ext.json)
+
+---
+
+### Sri Lanka stocks close down amidst profit taking
+
+*2024-11-19 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-profit-taking-188733/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The broader ASPI closed down 0.95 percent, or 125.63 points, at 13,105; while the more liquid S&P SL20 Index closed down 1.66 percent, or 66.00 points, at 3,914.
+
+Turnover was 6 billion. Most of this came from capital goods sector stocks (Rs3.3 billion).
+
+“There is profit taking across all sectors,” market participants said.
+
+“Market has been going up since the presidential election and there had to be a correction.”
+
+Top negative contributors to the ASPI were John Keells Hotels (down at 20.50), Hatton National Bank (down at 230.00), Sampath Bank (down at 95.00), Commercial Bank (down at 122.25), and National Development Bank (down at 82.40). (Colombo/Nov19/2024)
+
+◼️
+
+[Data](articles/14b89d0c.json)
 
 ---
 
@@ -480,6 +662,26 @@ This is the first time that a separate political party in the history of the Sri
 
 ---
 
+### Sri Lankan students in America increases by 10-pct: US Embassy
+
+*2024-11-19 14:41:00* · [`economynextcom`](https://economynext.com/sri-lankan-students-in-america-increases-by-10-pct-us-embassy-188711/) · `en`
+
+ECONOMYNEXT – Sri Lankan students studying at US colleges and universities during the 2023-2024 academic year increased by 10 percent, according to the 2024 Open Doors Report on International Educational Exchange, the US Embassy in Colombo said.
+
+“This reflects a growing trend of Sri Lankan students seeking world-class education in the United States and underscores the robust educational ties between the two nations, as well as the global appeal of US higher education institutions,” the embassy said in a statement.
+
+The Open Doors Report, celebrating its 75th year, is a comprehensive census of international student mobility trends.
+
+This year, the US welcomed an all-time high of 1.12 million international students from more than 210 countries and territories.
+
+Sri Lanka’s contribution to this number demonstrates the continued appeal of US higher education as a destination of choice for students, the embassy said.
+
+...
+
+[Data](articles/834d1d59.json)
+
+---
+
 ### The test that came to Google Chrome
 
 *2024-11-19 14:40:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/science-tech/கூகுள்-குரோமுக்கு-வந்த-சோதனை/57-347438) · `ta`
@@ -527,6 +729,22 @@ Health and Mass Media Media Dr. Nalinda Jayatissa appointed the new Cabinet.
 [Data](articles/06430943.json)
 
 [Extended Data](ext_articles/06430943.ext.json)
+
+---
+
+### Sri Lanka Media Minister Jayatissa appointed as Cabinet Spokesman
+
+*2024-11-19 14:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-media-minister-jayatissa-appointed-as-cabinet-spokesman-188723/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly appointed Minister of Health and Mass Media Nalinda Jayatissa was appointed as the cabinet spokesman of the new government led by President Anura Kumara Dissanayake, the President’s office said.
+
+The President’s Media Division (PMD) said the appointment was made when the new cabinet met on Tuesday under President Dissanayake.
+
+Jayatissa is a medical practitioner by profession and was in the parliament from 2015-2020. (Colombo/November 19/2024)
+
+◼️
+
+[Data](articles/9eb2d626.json)
 
 ---
 
@@ -752,6 +970,28 @@ The two -judge bench comprising Justice Nissanka Bandula Karunaratne and Justice
 
 ---
 
+### Sri Lanka IMF review talks kick-off to cut personal tax, maintain revenues
+
+*2024-11-19 13:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-review-talks-kick-off-to-cut-personal-tax-maintain-revenues-188693/) · `en`
+
+ECONOMYNEXT – Sri Lanka has begun talks with the International Monetary Fund to craft a new staff level agreement to pass the next review of its program and maintain it through 2025.
+
+A staff level agreement with a budget according to its parameters is required to pass the next review.
+
+The government of President Anura Dissanayake had expressed the readiness to work with the IMF “to advance Sri Lanka’s economic recovery within the context of the mandate,” saying that the success of the IMF program hinges on rebuilding public trust in governance”.
+
+The NPP has said that it wants to increase the threshold of income tax to 200,000 rupees from the current 100,000 rupees a month and also bring down VAT on some medical implements.
+
+The IMF program generally requires Sri Lanka’s government revenues to be raised to 15 percent of gross domestic product.
+
+Key legislative reforms of the IMF program have already been passed.
+
+...
+
+[Data](articles/13f69023.json)
+
+---
+
 ### Gas cylinder fire - Safety to Ravi's house
 
 *2024-11-19 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203529) · `si`
@@ -781,6 +1021,28 @@ The crisis was intensifying yesterday with writing the name of the party General
 [Data](articles/85a79a89.json)
 
 [Extended Data](ext_articles/85a79a89.ext.json)
+
+---
+
+### Ambika Samuel doubles Malayaha representation in Sri Lanka’s parliament
+
+*2024-11-19 13:00:00* · [`economynextcom`](https://economynext.com/ambika-samuel-doubles-malayaha-representation-in-sri-lankas-parliament-188487/) · `en`
+
+ECONOMYNEXT – Ambika Samuel, the first Malayaha woman to secure a seat in Sri Lanka’s parliamentary election, says others from her community will follow.
+
+“I am the first to enter politics from here, and my brothers and sisters will undoubtedly follow,” Samuel told reporters.
+
+Samuel was elected to the parliament at the general election held on November 14 from the Badulla district representing the National People’s Power party.
+
+She is the daughter of plantation worker parents, and has been a grassroot level social activist.
+
+“I studied political science for A/Level and was fascinated by Marxism, and I realised what we studied in school and what was practiced in other countries were two different things,” she told an interviewer ahead of the election.
+
+“I was drawn to politics because I wanted to do something for my community. But people like me found it hard to enter politics because there are already established persons from our community.”
+
+...
+
+[Data](articles/e4c8f310.json)
 
 ---
 
@@ -833,6 +1095,28 @@ It is also said that the suspects are Bangladeshi nationals between 20 and 30 ye
 [Data](articles/abf8a634.json)
 
 [Extended Data](ext_articles/abf8a634.ext.json)
+
+---
+
+### පුර සඳ වටා බැඳුණු ලොව පුරා විශේෂ සිදුවීම්
+
+*2024-11-19 12:41:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dr28r0e4o) · `si`
+
+දළ වශයෙන් සෑම දින 29කට වරක් පූර්ණ සඳක් ඇති වන්නේ, සූර්යයා ඍජුව පෘථිවියේ පිටුපස ස්ථානගත වී ඉන් නිකුත් වන ආලෝක කිරණ සඳ මත වැටී එමගින් සඳේ මුළු මුහුණතම ආලෝකමත් වන විට ය.
+
+ඉකුත් සිකුරාදා අප දුටු පූර්ණ චන්ද්‍රයා, සඳ සාමාන්‍ය ප්‍රමාණයට වඩා 14% ගුණයකින් විශාලව සහ 30% ගුණයකින් දීප්තිමත්ව, එනම් "සුපිරි සඳක්" ලෙස දුටු සිව් වන පූර්ණ සඳෙහි අවසන් අවස්ථාව වනු ඇත.
+
+සුපිරි සඳක් ලෙස හැඳින්වෙන මෙම චන්ද්‍රයා දක්නට ලැබෙන්නේ වසරකට තුන් වතාවක් හෝ සිව් වතාවක් පමණක් වන අතර ඒ හැම අවස්ථාවක ම එය අඛණ්ඩව දිස්වීම සිදුවේ.
+
+ලොව පුරා සංස්කෘතීන් සහ සම්ප්‍රදායන් හැඩගැස්වීමේදී පූර්ණ චන්ද්‍රයා වැදගත් කාර්යභාරයක් ඉටු කර තිබේ. මේ, අප විසින් ආකාශයේ සිදුවන මෙම සංසිද්ධියට සම්බන්ධ මිථ්‍යාවන්, ක්‍රියාකාරකම් සහ අර්ථයන් කිහිපයක් සම්බන්ධයෙන් කෙරෙන විමසා බැලීමකි.
+
+චන්ද්‍රයාගේ ගමන එනම්, එහි පුරපක්ෂය සහ අවපක්ෂය, කාලය නිර්ණය කිරීම සඳහා ප්‍රාථමික යුගයේ සිට භාවිත කර ඇත.
+
+නූතන කොංගෝ ප්‍රජාතන්ත්‍රවාදී ජනරජයෙන් 1957දී සොයාගත් ඉෂාංගෝ අස්ථිය උදාහරණයක් ලෙස ගෙන බලමු.
+
+...
+
+[Data](articles/3a4f4cb7.json)
 
 ---
 
@@ -2245,289 +2529,5 @@ The Pakistani government is taking steps to provide holidays to schools and rest
 [Data](articles/7ad93324.json)
 
 [Extended Data](ext_articles/7ad93324.ext.json)
-
----
-
-### Increase in dengue patients
-
-*2024-11-19 00:57:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டெங்கு-நோயாளர்கள்-அதிகரிப்பு/175-347408) · `ta`
-
-Dengue cases surge: 11,078 in Colombo, mainly in Gampaha, Kalutara, Kandy, Ratnapura, Jaffna.
-
-🟩
-
-The total number of dengue patients from the Colombo district is 11,078.Most of the dengue cases have been reported from the districts of Gampaha, Kalutara, Kandy, Ratnapura and Jaffna.. (A)
-
-◼️
-
-[Data](articles/e1390d43.json)
-
-[Extended Data](ext_articles/e1390d43.ext.json)
-
----
-
-### Jaishankar congratulates Vijitha Hera
-
-*2024-11-19 00:51:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஜித-ஹேரத்திற்கு-ஜெய்சங்கர்-வாழ்த்து/175-347407) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Indian Foreign Minister Jaishankar congratulates Vijitha Hera. He expresses readiness to strengthen India-Sri Lanka partnership.
-
-🟩
-
-Indian Foreign Minister S.. Jaishankar congratulated.
-
-The Indian Foreign Minister has said that he is ready to work together to further strengthen the partnership between India and Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/415f8e1e.json)
-
-[Extended Data](ext_articles/415f8e1e.ext.json)
-
----
-
-### President - IMF. Meeting between representatives
-
-*2024-11-19 00:47:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-ஐ-எம்-எப்-பிரதிநிதிகள்-இடையே-சந்திப்பு/175-347406) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-IMF reps meet Pres. Dissanayake & new ministers. Discuss next IMF program phase. Pres. emphasizes public trust & social service spending. IMF notes underutilized social funds allocation.
-
-🟩
-
-The International Monetary Fund Representatives and its Senior Ambassador Peter Broar met with President Anura Kumara Dissanayake and the new ministers at the Presidential Secretariat yesterday afternoon to discuss the next phase of the program implemented by the International Monetary Fund.
-
-President Anura Kumara Dissanayake reunited with his government's mandate to retrieve Sri Lanka's economy in cooperation with the International Monetary Fund.
-
-The International Monetary Fund's delegation congratulated the president and the team for a decisive election victory and said they were expecting to work in cooperation with the new government.
-
-President Anura Kumara Dissanayake stressed that the success of the International Monetary Fund program depends on the building of the public's confidence in the existing regime.
-
-...
-
-[Data](articles/ef4a3f19.json)
-
-[Extended Data](ext_articles/ef4a3f19.ext.json)
-
----
-
-### SC extends interim order protecting Wedithalathive Nature Reserve following WNPS legal action
-
-*2024-11-19 00:24:06* · [`dailyftlk`](https://www.ft.lk/news/SC-extends-interim-order-protecting-Wedithalathive-Nature-Reserve-following-WNPS-legal-action/56-769391) · `en`
-
-In an action filed by the Wildlife and Nature Protection Society (WNPS) bearing case no. SCFR 154/2024 filed on 5 June 2024, the Supreme Court of Sri Lanka granted an interim order staying a decision made by the Government to reduce the boundaries of the Wedithalathive Nature Reserve, as outlined in Extraordinary Gazette No. 2383/05 dated 6 May 2024.
-
-When this matter was taken up again on 12 November 2024, the Supreme Court extended the said interim order until the next date of hearing of the matter, which was fixed for 29 July 2025.
-
-...
-
-[Data](articles/8d2e51b6.json)
-
-[Extended Data](ext_articles/8d2e51b6.ext.json)
-
----
-
-### Switzerland hands over  14-year Safe Labour Migration Program to Sri Lanka
-
-*2024-11-19 00:22:45* · [`dailyftlk`](https://www.ft.lk/news/Switzerland-hands-over-14-year-Safe-Labour-Migration-Program-to-Sri-Lanka/56-769390) · `en`
-
-The Government of Switzerland, through the Swiss Agency for Development and Cooperation (SDC), has successfully concluded the Safe Labour Migration Program (SLMP) in Sri Lanka after 14 years of dedicated support.
-
-The program, which ran from 2010 to 2024, aimed to enhance labour migration governance, safe and regular migration practices, support sustainable reintegration, improve the well-being of both men and women migrant workers and their families within the migration cycle.
-
-The SLMP was a significant collaboration between the Ministry of Labour and Foreign Employment and the Sri Lanka Bureau of Foreign Employment (SLBFE) allowing various project implementing partners to work at the national policy level as well as decentralised sub-national and grassroots.
-
-...
-
-[Data](articles/9672ded4.json)
-
-[Extended Data](ext_articles/9672ded4.ext.json)
-
----
-
-### Sri Lanka Law College inaugural International Research Conference on 28-29 November
-
-*2024-11-19 00:20:54* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Law-College-inaugural-International-Research-Conference-on-28-29-November/56-769389) · `en`
-
-Local and international experts to share insights on “Law in the 21st Century: Exploring New Frontiers”
-
-Sri Lanka Law College (SLLC) will hold its first ever International Research Conference (IRC) titled “Law in the 21st Century: Exploring New Frontiers,” from 28 to 29 November at the BMICH.
-
-The two-day academic conference sets the stage for legal academics, researchers and practitioners from Sri Lanka and overseas to share insights, challenge assumptions and sail into the uncharted waters of legal practice in this dynamic and ever-fluid world we call home.
-
-The conference will follow the standard format of an IRC which comprises keynote speeches, panel discussions and sessions for presentation of research-based papers which will focus on various aspects of law, giving the participants a plethora of choice.
-
-...
-
-[Data](articles/e120d5df.json)
-
-[Extended Data](ext_articles/e120d5df.ext.json)
-
----
-
-### 2024-11-18 (Monday)
-
-### Night of signature Christmas tunes
-
-*2024-11-18 23:21:00* · [`islandlk`](http://island.lk/night-of-signature-christmas-tunes/) · `en`
-
-The famous Billy Fernando, of 2FORTY2 fame, and his talented wife, Devashrie, will present ‘A Classic Christmas’ on 1st December, at the Bishop’s College Auditorium.
-
-Together, they will deliver an enchanting repertoire of Christmas classics, merging languages and styles.
-
-The evening will evoke the spirit of Christmas through music and an engaging theatrical vibe.
-
-The music will be directed by Billy himself, with a lineup of versatile musicians, to create the envisioned sound for this show.
-
-The evening’s entertainment will include such favourites as ‘Santa Baby,’ ‘Santa Claus Is Coming To Town,’ ‘Blue Christmas,’ ‘Long Time Ago In Bethlehem,’ and many more.
-
-Yohani Senevirate, who now resides in London, and a close friend of the 2FORTY2 star, mentioned to us that Billy and Devashrie got married recently.
-
-Yohani went on to say that she was there for the 2FORTY2 show, held in London recently, and “Wow! I enjoyed it thoroughly.”
-
-...
-
-[Data](articles/059bb82c.json)
-
-[Extended Data](ext_articles/059bb82c.ext.json)
-
----
-
-### People’s role in NPP govt.
-
-*2024-11-18 23:16:00* · [`islandlk`](http://island.lk/peoples-role-in-npp-govt/) · `en`
-
-The election of the NPP as the new government of Sri Lanka is a victory for the people, whether they recognise it or not. While I don’t believe the election results reflect a major ideological shift, the government has the potential to spark one. However, for this to happen, the citizens of the country must also do their part
-
-...
-
-[Data](articles/73f6193c.json)
-
-[Extended Data](ext_articles/73f6193c.ext.json)
-
----
-
-### Ravi, Namal, Sathiyalingam - Released
-
-*2024-11-18 23:15:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவி-நாமல்-சத்தியலிங்கம்-வெளியானது-அதிவிசேட-வர்த்தமானி/175-347405) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Election Commission gazette: Ravi Karunanayake elected to National List New Democratic Front. Pathmanathan Sathiyalingam named as Namal Rajapaksa Tamil National Party member PA National List. Ravi unaware of party leadership; members confused by arbitrary decision, meeting tomorrow.
-
-🟩
-
-The Election Commission has issued a high -level gazette that Ravi Karunanayake has been elected as the National List of the New Democratic Front.
-
-The gazette notification includes the names of Pathmanathan Sathiyalingam as Namal Rajapaksa and the National List of the Tamil National Party as a member of the National List of the PA.
-
-Meanwhile, Ravi Karunanayake has been unaware of the party leadership and the members of the party and that the party's secretary's arbitrarily decision has been confused and the party members have been announced to meet tomorrow.. Remble
-
-◼️
-
-[Data](articles/72da3af6.json)
-
-[Extended Data](ext_articles/72da3af6.ext.json)
-
----
-
-### Poverty of CBSL’s monetary policies: Part 1
-
-*2024-11-18 23:14:43* · [`dailyftlk`](https://www.ft.lk/columns/Poverty-of-CBSL-s-monetary-policies-Part-1/4-769383) · `en`
-
-The economic consequences of the CBSL losing control over interest rates cannot be overstated
-
-What is notable is not only that the CBSL continues to adhere to its flawed notion of money printing despite the evident logical issues in its interpretation, but also that it persists in its commitment to the quantity theory of money (QTM)—or at least its own variant of this theory. This is in spite of the numerous and growing criticisms from researchers in central banks across the world, including those considered to be at the forefront of research in monetary policy, such as the US and the UK
-
-The CBSL does not appear to be fully committed to setting and targeting money market interest rates, which requires it to allow the quantity of cash to be determined by the market. In fact, as the IMF observes, the CBSL seems to be permitting the market, rather than policy, to set money market rates, while managing liquidity to prevent instability in these rates
-
-...
-
-[Data](articles/95452188.json)
-
-[Extended Data](ext_articles/95452188.ext.json)
-
----
-
-### A ‘tectonic shift’ in  the plate of politics
-
-*2024-11-18 23:07:57* · [`dailyftlk`](https://www.ft.lk/columns/A-tectonic-shift-in-the-plate-of-politics/4-769382) · `en`
-
-Give the government a place to stand and let us hope it has the strength to move the earth
-
-It must be evident by now in the densest of crania in the most conservative of political think tanks circumscribing the cocktail circuit that ‘something happened’.
-
-But it may be a while before the penny, as they say, drops. Because, as a London-based revolutionary far from his Teutonic homeland once essayed about the plight of an oppressed class of people his continent over – from Moscow to Manchester – and their oppressors: “When the sufferers learn to think, then the thinkers will learn to suffer.” (Yes Karl Marx)
-
-There are, it is said jocularly in circles where wit is observational of everyone else but oneself, three types of people: those who make things happen, those who watch while it is happening, and those who wonder: ‘what happened?’
-
-What happened was that the threefold cord which is not quickly broken snapped suddenly after ever-increasing tension over the years.
-
-...
-
-[Data](articles/822bd68e.json)
-
-[Extended Data](ext_articles/822bd68e.ext.json)
-
----
-
-### “Help us fall in love again”: Note to President and new Government of Sri Lanka
-
-*2024-11-18 23:03:15* · [`dailyftlk`](https://www.ft.lk/columns/Help-us-fall-in-love-again-Note-to-President-and-new-Government-of-Sri-Lanka/4-769381) · `en`
-
-Congratulations on your remarkable landslide victory, securing over a two-thirds majority in Parliament. This is a testament to the trust and belief the general public has in you. You have also set an inspiring example for greater women’s political participation, which is truly commendable.
-
-As Sri Lankans, we have often relied on politicians to handle everything, but this approach has proven flawed. I genuinely want you to succeed so our country can regain its former glory. That is why I am raising my voice and sharing my perspective through this note, hoping it might be of value.
-
-We can’t afford any more mistakes; the situation we find ourselves in today is dire. Every decision must be made with great care. The glass cliff lies before you and your Government, and navigating this challenging situation requires caution and thoughtful action. I offer this note in the hope that it may provide some guidance as you proceed.
-
-...
-
-[Data](articles/92326581.json)
-
-[Extended Data](ext_articles/92326581.ext.json)
-
----
-
-### ‘Oceanista Residencies, Odiliya’s latest addition to comfort’
-
-*2024-11-18 22:59:00* · [`islandlk`](http://island.lk/oceanista-residencies-odiliyas-latest-addition-to-comfort/) · `en`
-
-Odiliya Residencies (Pvt) Ltd, a trusted and renowned name in offering luxury living spaces and residence, is set to unveil its latest venture by the famed beach in Panadura. The intended luxury apartment complex, Oceanista Residencies, surrounded from one side, the scenic beach and the Bolgoda River from the other end, will offer its residence the mixture of luxury, comfort, scenic surroundings and the opportunity to get closer to the varieties nature has to offer.
-
-The 9-storied Oceanista Residencies will include 24 luxury apartments, promising unique meaning to privacy and comfort living in a secured environment. Moreover, all 24 apartments will face the ocean over the Panadura Beach, adding uniqueness like never before. With the Bolgoda River facing the other end, Oceanista Residencies pledges the daily viewing flair from sunrise to sunset, a mind-blowing experience that surely adds serenity to a peaceful life.
-
-...
-
-[Data](articles/c51a5122.json)
-
-[Extended Data](ext_articles/c51a5122.ext.json)
-
----
-
-### HealthRecon Connect expands global footprint with new office in Kandy
-
-*2024-11-18 22:58:00* · [`islandlk`](http://island.lk/healthrecon-connect-expands-global-footprint-with-new-office-in-kandy/) · `en`
-
-HealthRecon Connect (HRC), a leader in revenue cycle management solutions, has opened a new office in Kandy, Sri Lanka, as part of its strategic global expansion. This new 300-seat location will serve international clients in the U.S., U.K., and Australia, leveraging Kandy’s skilled workforce to enhance HRC’s services in medical billing, coding, and claims management. The office aims to create significant employment opportunities in finance, technology, and healthcare operations, underscoring HRC’s commitment to sustainable growth in emerging markets. This move highlights Sri Lanka’s potential as a strategic hub for outsourcing, strengthening HRC’s position in the industry.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/ab315f29.json)
-
-[Extended Data](ext_articles/ab315f29.ext.json)
 
 ---

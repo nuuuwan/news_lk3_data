@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 15:12:50**
+As of **2024-11-19 15:42:02**
 
 ## Newspaper Stats
 
-*Scraped **55,744** Articles*
+*Scraped **55,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailymirrorlk | 4,733
 adalk | 5,234
 adaderanalk | 6,720
 tamilmirrorlk | 7,901
-virakesarilk | 9,052
-adaderanasinhalalk | 9,641
+virakesarilk | 9,053
+adaderanasinhalalk | 9,642
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,744 (100.0%) of 55,744 articles have been extended.
+55,746 (100.0%) of 55,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### Train derailment in Thiyathalawa
+
+*2024-11-19 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199154) · `ta`
+
+Train derailment reported at Diyathalawa station. Train from Kandy to Badulla derailed. Railway department investigating cause.
+
+🟩
+
+A train derailed at the Diyathalawa railway station this afternoon.
+
+The railway department said that the train traveling from Kandy to Badulla has been derailed.
+
+◼️
+
+[Data](articles/1ff26247.json)
+
+[Extended Data](ext_articles/1ff26247.ext.json)
+
+---
 
 ### Cabinet spokesman Nalinda Jayatissa
 
@@ -81,6 +101,28 @@ The US judiciary refused to comment on this. Google Lee has said that the govern
 [Data](articles/291983ed.json)
 
 [Extended Data](ext_articles/291983ed.ext.json)
+
+---
+
+### New Cabinet Media Spokesperson Dr. Nalinda Jayatissa
+
+*2024-11-19 14:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203533) · `si`
+
+Dr. Nalinda Jayatissa appointed Cabinet spokesperson. President Anura Kumara Dissanayake holds first Cabinet meeting. Health and Mass Media Minister role assigned.
+
+🟩
+
+Minister Dr. Nalinda Jayatissa has been appointed as the Cabinet of Ministers.
+
+President Anura Kumara Dissanayake held the first Cabinet meeting of the new government at the Presidential Secretariat.
+
+Health and Mass Media Media Dr. Nalinda Jayatissa appointed the new Cabinet.
+
+◼️
+
+[Data](articles/06430943.json)
+
+[Extended Data](ext_articles/06430943.ext.json)
 
 ---
 
@@ -2429,53 +2471,5 @@ External Affairs Minister Vijitha Herath further said that the new government in
 [Data](articles/ce91e4fc.json)
 
 [Extended Data](ext_articles/ce91e4fc.ext.json)
-
----
-
-### International Monetary Fund must follow the balanced approach - the president
-
-*2024-11-18 19:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/199112) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka's President Anura Kumara Dissanayake urges IMF to adopt a balanced approach to address public crises. He emphasizes the government's commitment to finding solutions to severe economic challenges.
-
-🟩
-
-President Anura Kumaratisanayake has appealed to the IMF, which is a balanced attitude that takes care of the crises facing the public.
-
-The President has issued a dedication of the government to find a solution to the severe crises faced by the public and said the IMF, which is a balanced approach to the crisis faced by the public, must follow the international monetary fund.
-
-◼️
-
-[Data](articles/eee762b9.json)
-
-[Extended Data](ext_articles/eee762b9.ext.json)
-
----
-
-### President meets International Monetary Fund
-
-*2024-11-18 19:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203506) · `si`
-
-Sri Lanka's President Anura Kumara Dissanayake met IMF reps. Discussed economic recovery, balanced solutions, child poverty, corruption reform.
-
-🟩
-
-President Anura Kumara Dissanayake and the International Monetary Fund representatives were conducted today (18).
-
-President Anura Kumara Dissanayake said that he had exchanged views on the recovery of Sri Lanka's economy.
-
-The President says he highlighted the need for a balanced approach to solve the problems of the people and establish public confidence.
-
-The President had informed the International Monetary Fund representatives to support the solution of child poverty and malnutrition, supporting the powers and opposition to the corruption through severe reform.
-
-◼️
-
-[Data](articles/de0b9b13.json)
-
-[Extended Data](ext_articles/de0b9b13.ext.json)
 
 ---

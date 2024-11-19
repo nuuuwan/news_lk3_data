@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 23:25:28**
+As of **2024-11-20 00:16:09**
 
 ## Newspaper Stats
 
-*Scraped **55,808** Articles*
+*Scraped **55,810** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ dbsjeyarajcom | 432
 colombotelegraphcom | 571
 bbccomsinhala | 575
 islandlk | 3,338
-economynextcom | 3,384
+economynextcom | 3,385
 dailyftlk | 3,812
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
-tamilmirrorlk | 7,911
+tamilmirrorlk | 7,912
 virakesarilk | 9,072
 adaderanasinhalalk | 9,651
 
@@ -26,79 +26,161 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,800 (100.0%) of 55,808 articles have been extended.
+55,808 (100.0%) of 55,810 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### நள்ளிரவு முதல் அனைத்துக்கும் தடை
+### StrengthAlert to people
+
+*2024-11-19 23:43:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வலுவடையும்-தாழமுக்கம்-மக்களுக்கு-எச்சரிக்கை/175-347469) · `ta`
+
+Sum:0
+
+🟩
+
+The Department of Meteorology has advised the fishermen and the people of the North and Eastern Province to be vigilant on the 23rd of this month.
+
+Meanwhile, the Department of Meteorology has predicted more than 100 millimeters of heavy rainfall in the Sabaragamuwa, Uva, Southern and Northern Provinces.
+
+The Department has predicted lightning strikes in many parts of Nuwara Eliya district in the evening or night.
+
+It has been advised to experience rain or thunderstorms in the Eastern Province.
+
+People are advised to take the necessary precautions to reduce the risks of lightning impacts. Remble
+
+◼️
+
+[Data](articles/6c8a61e4.json)
+
+[Extended Data](ext_articles/6c8a61e4.ext.json)
+
+---
+
+### ADB US$200 million loan to strengthen Sri Lanka’s financial sector
+
+*2024-11-19 23:11:00* · [`economynextcom`](https://economynext.com/adb-us200-million-loan-to-strengthen-sri-lankas-financial-sector-188795/) · `en`
+
+ECONOMYNEXT – The Asian Development Bank (ADB) has approved a 200 million dollar policy-based loan to help strengthen Sri Lanka’s financial sector, including strengthening the banking sector’s asset quality, and ensuring financial inclusion of women and vulnerable groups.
+
+This second subprogram of ADB’s Financial Sector Stability and Reforms Program builds on the stabilization and crisis management measures put in place under the first subprogram approved in 2023, ADB said in a statement.
+
+“Sri Lanka has made good progress in stabilizing macroeconomic conditions and improving the fiscal situation. ADB is helping the country establish long-term growth by introducing and institutionalizing structural reforms in its financial sector,” ADB Country Director for Sri Lanka Takafumi Kadono said.
+
+...
+
+[Data](articles/0cc11393.json)
+
+[Extended Data](ext_articles/0cc11393.ext.json)
+
+---
+
+### Banning for everything from midnight
 
 *2024-11-19 23:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-அனைத்துக்கும்-தடை/175-347468) · `ta`
 
-19ஆம் திகதி நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் 2024 கல்விப் பொதுத்தராதர உயர்த்தர  பரீட்சார்த்திகளுக்கான மேலதிக வகுப்புகள், கருத்தரங்குகள், செயலமர்வுகள் போன்றவற்றை நடத்துவதற்கு தடை விதிக்கப்பட்டுள்ளதாக பரீட்சைகள் ஆணையாளர் நாயகம் அமித் ஜயசுந்தர விடுத்துள்ள அறிக்கையில் தெரிவித்துள்ளார்.
+Here's a summary of 200 characters:
 
-இந்த காலகட்டத்தில், மேலதிக வகுப்புகள், கருத்தரங்குகள், செயலமர்வுகள் போன்றவற்றை நடத்துவதுடன், பரீட்சைக்கான மாதிரி வினாத்தாள்களை அச்சிடல் மற்றும் விநியோகித்தல், பரீட்சைத் தாள்களின் வினாக்கள் வழங்கப்படும் என்றோ அல்லது அதற்கு சமமான வினாக்கள் வழங்கப்படும் என சுவரொட்டிகள், பதாகைகள், பிரசுரங்கள், மின்னணு அல்லது அச்சிடப்பட்ட ஊடகங்கள் மூலம் விளம்பரப்படுத்துதல் அல்லது வைத்திருப்பது தடைசெய்யப்பட்டுள்ளது.
 
-யாரேனும் ஒருவர், நிறுவனம் அல்லது சில தரப்பினர் இந்த உத்தரவை மீறினால், அருகில் உள்ள பொலிஸ் நிலையத்தில் முறைப்பாடு அளிக்க முடியும் என தேர்தல் ஆணையாளர் திணைக்களம் தெரிவித்துள்ளது.   R
+
+Education Exam Ban: No extra classes, workshops allowed. Advertising prohibited. Violators can report to police.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundara said in a statement issued by the Commissioner General of Examinations, the Commissioner General of Examinations said that it has been banned from conducting additional classes, seminars and workshops for the 2024 Education Promotion Examinations.
+
+During this period, advertising or kept by posters, banners, publications, electronic or printed media, such as the printers and distribution of the examinations papers for the exam, the exams, or the equivalent of the exam papers will be issued during this period.
+
+The Election Commissioner's Department said that if someone, the company or some parties violate the order, they can lodge a complaint at the nearest police station.R
 
 ◼️
 
 [Data](articles/c4198192.json)
 
+[Extended Data](ext_articles/c4198192.ext.json)
+
 ---
 
-### முதலாவது விக்கெட்டை ஷிராஸ் கைப்பற்றிய ஆட்டம் 21 ஓவர்களுடன் மழையினால் கைவிடப்பட்டது
+### Shiraz's first wicket was dropped by rain with 21 overs
 
 *2024-11-19 22:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199188) · `ta`
 
-கண்டி, பல்லேகலையில் செவ்வாய்க்கிழமை (19) நடைபெற்ற இலங்கை - நியூஸிலாந்து அணிகளுக்கு இடையிலான 3ஆவதும் கடைசியுமான சர்வதேச ஒருநாள் கிரிக்கெட் போட்டி 21 ஓவர்கள் வீசப்பட்ட நிலையில் மழையினால் கைவிடப்பட்டது.
+<PHIND_TIMEOUT>
 
-எவ்வாறாயினும் முதல் இரண்டு போட்டிகளில் வெற்றியீட்டிய இலங்கை, 3 போட்டிகள் கொணட தொடரை 2 - 0 என தனதாக்கிக்கொண்டது.
+🟩
 
-இப் போட்டியில் முதலில் துடுப்பெடுத்தாடத் தீர்மானித்த நியூஸிலாந்து 21 ஓவர்களில் ஒரு விக்கெட்டை இழந்து 112 ஓட்டங்களைப் பெற்றிருந்தபோது பிற்பகல் 4.00 மணியளவில் கடும் மழை பெய்ததால் ஆட்டம் தடைப்பட்டது.
+The 3rd and last international ODI match between Sri Lanka and New Zealand held on Tuesday (19) in Pallekele, Kandy, was abandoned due to rain.
 
-வில் யங் 8 பவுண்டறிகள் உட்பட 56 ஓட்டங்களுடனும் ஹென்றி நிக்கல்ஸ் 46 ஓட்டங்களுடனும் ஆட்டம் இழக்காதிருந்தனர்.
+However, Sri Lanka, which won the first two matches, made 3 matches 2 - 0.
 
-9 ஓட்டங்களுடன் ஹென்றி நிக்கல்ஸை ஆட்டம் இழக்கச் செய்த மொஹமத் ஷிராஸ், சர்வதேச ஒருநாள் கிரிக்கெட் போட்டியில் தனது முதலாவது விக்கெட்டைக் கைப்பற்றினார்.
+New Zealand, who decided to bat first, lost the wicket in 21 overs and scored 112 runs.
 
-சுமார் ஒன்றரை மணித்தியாலங்களின் பின்னர் மழை விட்டதால், ஆடுகளமும் மைதானமும் மாலை 6.00 மணியளவில் பரீச்சிக்கப்படும் என பிற்பகல் 5.30 மணிக்கு அறிவிக்கப்பட்டது.
+Will Young did not play with 56 runs and Henry Nickels 46.
+
+Mohammed Shiraz, who lost Henry Nickels with 9 runs, took his first wicket in the international ODIs.
+
+It was announced at 5.30 pm that the pitch and the stadium would be parked at 6.00 pm as it rained for about one and a half hours.
+
+However, a short time after the announcement was raining, the goat's review was abandoned.
+
+The rain started at 7.30pm but the next tenth minute began to rain again. It was announced that the match was abandoned at 7.53 pm.
+
+In the first two matches, Kusal Mendis, Betham Nissanka, Kamindu Mendis and Asitha Fernando were restored.
 
 ...
 
 [Data](articles/02b792c6.json)
 
+[Extended Data](ext_articles/02b792c6.ext.json)
+
 ---
 
-### ශ්‍රී ලංකාවට ඩොලර් මිලියන 200ක ණයක් අනුමත කරයි
+### Sri Lanka approves a loan of $ 200 million loan
 
 *2024-11-19 21:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203543) · `si`
 
-ආසියානු සංවර්ධන බැංකුව (ADB) ශ්‍රී ලංකාව සඳහා අමෙරිකානු ඩොලර් මිලියන 200ක ණයක් ලබාදීමට අද (19) අනුමැතිය ලබාදී තිබේ.
+<PHIND_TIMEOUT>
 
-ඒ, ශ්‍රී ලංකා රජයේ මූල්‍ය ක්ෂේත්‍රය තවදුරටත් ශක්තිමත් කිරීම වෙනුවෙනි.
+🟩
+
+The Asian Development Bank (ADB) has approved Sri Lanka today (19th).
+
+This is for further strengthening the financial sector of Sri Lanka.
 
 ◼️
 
 [Data](articles/1b4c6af7.json)
 
+[Extended Data](ext_articles/1b4c6af7.ext.json)
+
 ---
 
-### ஐக்கிய மக்கள் சக்தி ஊடாக வன்னிக்கு மேலும் ஒரு தேசியபட்டியல்
+### A further national list for Vanni through the United People's Power
 
 *2024-11-19 21:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199187) · `ta`
 
-வன்னிதேர்தல் மாவட்டத்திற்கு ஐக்கிய மக்கள் சக்தி ஊடாகமேலும் ஒரு தேசியபட்டியல் பாராளுமன்ற பிரதிநிதித்துவம் கிடைக்கப்பெற்றுள்ளது.
+Here's a summary in 200 characters:
 
-அந்தவகையில் பாராளுமன்ற உறுப்பினர் றிசாட்பதியூதீனின் தலைமையிலான அகில இலங்கை மக்கள் காங்கிரசின் முக்கியஸ்தரான முஹம்மது இஸ்மாயில் முத்துமுஹம்மது என்பவருக்கே குறித்த தேசியபட்டியல் வழங்கப்பட்டுள்ளது.
 
-அகில இலங்கை மக்கள் காங்கிரசானது இம்முறை பொதுத்தேர்தலில் அம்பாறை மாவட்டத்தில் தனித்து போட்டயிட்டு ஒரு ஆசனத்தை பெற்றுக்கொண்டதுடன், வன்னி உட்பட ஏனைய மாவட்டங்களில் ஐக்கியமக்கள் சக்தியுடன் இணைந்து போட்டியிட்டிருந்தது.
 
-அந்தவகையில் ஐக்கியமக்கள் சக்திக்கு கிடைக்கப்பெற்ற ஐந்து தேசியபட்டியல் ஆசனத்தில் ஒன்றுஅகில இலங்கை மக்கள் காங்கிரசுக்கு வழங்குவதற்கு இன்று தீர்மானிக்கப்பட்டுள்ளது. அதன் அடிப்படையில் கட்சியின் நீண்டகால உறுப்பினரும் முக்கியஸ்தருமான முஹம்மதுஇஸ்மாயில் முத்துமுகமது என்பவருக்கு குறித்த பிரதிநித்துவம் வழங்கப்பட்டுள்ளது.
+United People's Power names national list MP for Vanni: Muhammad Ismail Muttu Muhammad from All Ceylon People's Congress. Party won seats in Ampara and other districts.
+
+🟩
+
+The Vanni Election District has been recognized by the United People's Power and a national list of parliamentary representation.
+
+The National List has been given to Muhammad Ismail Muttu Muhammad, a prominent member of the All Ceylon Peoples Congress, led by Member of Parliament Rishadpathiuddin.
+
+The All Ceylon People's Congress won a seat in the Ampara district in the general election and won a seat in other districts including Vanni.
+
+One of the five national list seat that has been given to the United Nations Power. Based on that, the party's long -time member and prominent member of the party, Muhammad Ismail Muthumugam, has been represented.
 
 ◼️
 
 [Data](articles/56764301.json)
+
+[Extended Data](ext_articles/56764301.ext.json)
 
 ---
 
@@ -136,37 +218,59 @@ The arrangement of information that will be useful to all MPs and obtain photogr
 
 ---
 
-### ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினராக ரஞ்சித் மத்தும பண்டாரவின் பெயர் வர்த்தமானியில் வெளியீடு
+### Ranjith Mathuma Bandara is a member of the National List of the United People's Power
 
 *2024-11-19 21:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/199186) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் உறுப்பினராக கட்சியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டாரவின் பெயர் குறிப்பிடப்பட்டுள்ளது. அதற்கமைய தேர்தல் ஆணைக்குழுவினால் அவரை பாராளுமன்ற உறுப்பினராக அறிவித்து வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+Ranjith Mathuma Bandara named MP via United People's Power National List. Party sources suggest Imtiaz Baghir Makar and Dullas Alagapperuma may fill remaining seats. Senior members oppose including those who lost election. Focus on appointing those enhancing majority government.
 
-பொதுத் தேர்தலில் பெற்றுக் கொண்டு வாக்குகளின் அடிப்படையில் ஐக்கிய மக்கள் சக்திக்கு 5 தேசிய பட்டியல் ஆசனங்கள் கிடைத்துள்ளன. அக்கட்சியின் தேசிய பட்டியலில் அதன் தவிசாளர் இம்தியாஸ் பாகீர் மாக்கார், முன்னாள் எம்.பி.க்களான டலஸ் அழகப்பெரும, சுஜீவ சேனசிங்க, ஜீ.எல்.பீரிஸ், சுதர்ஷனி பெர்னாண்டோபுள்ளே ஆகியோரது பெயர்கள் உள்வாங்கப்பட்டுள்ளன.
+🟩
 
-இவர்களில் ரஞ்சித் மத்தும பண்டாரவின் பெயர் தற்போது குறிப்பிடப்பட்டுள்ள நிலையில், எஞ்சிய ஆசனங்களில் இம்தியாஸ் பாகீர் மாக்கார் மற்றும் டலஸ் அழகப்பெரும ஆகியோரை நியமிப்பதற்கான வாய்ப்புக்கள் அதிகம் காணப்படுவதாக கட்சி வட்டாரங்கள் தெரிவிக்கின்றன.
+The name of the party's general secretary Ranjith Mathuma Bandara has been named as the National List of the United People's Power. Accordingly, the Gazette Notification has been issued by the Election Commission to declare him as a Member of Parliament.
+
+In the general election, the United People's Power has got 5 national list seats. The names of the party's national list have been included in the names of its Chairman Imtiaz Bagir Makar, former MPs Dullas Alagapperuma, Sujeewa Senasinghe, GL Peiris and Sudarshani Fernandopulle.
+
+While the name of Ranjith Mathuma Bandara is currently mentioned, party sources say that the remaining seats are likely to be appointed by Imtiaz Baghir Makar and Dullas Alagapperuma.
+
+However, senior members of the party have stated to party leader Sajith Premadasa that those who lost the election should not be included in the national list.
 
 ...
 
 [Data](articles/183778dc.json)
 
+[Extended Data](ext_articles/183778dc.ext.json)
+
 ---
 
-### மன்னார் மாவட்ட பொது வைத்தியசாலையில் பிரசவத்தின் போது தாயும் சேயும் மரணம்; வைத்தியசாலையின் கவனயீனம் என குற்றச்சாட்டு
+### Mother and Che have died during delivery at the Mannar District General Hospital;The indictment of the hospital
 
 *2024-11-19 21:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/199185) · `ta`
 
-மன்னார் மாவட்ட பொது வைத்திய சாலையில் செவ்வாய்க்கிழமை (19) பிரசவத்துக்கு அனுமதிக்கப்பட்ட நிலையில் தாயும் சேயும் மரணமடைந்த சம்பவம் பெரும் சோகத்தை ஏற்படுத்தியுள்ளது.
+Here's a summary of the text in approximately 200 characters:
 
-மன்னார் பட்டித்தோட்டம் பகுதியைச் சேர்ந்த 28 வயதான வனஜா என்ற திருமணமாகி 10 வருடங்களே ஆன இளம் தாயே இன்றைய தினம்(19) செவ்வாய்கிழமை மன்னார் வைத்தியசாலையில் பிரசவத்திற்காக அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
 
-முன்னதாகவே குறித்த பெண்ணுக்கு மூச்சுத் திணறல் ஏற்பட்டிருந்த போதிலும் உரிய விதமாகக் கவனிக்கப்படவில்லை எனவும் பெண் தனக்கு சிசேரியன் செய்யுமாறு கோரிக்கை விடுத்ததாகவும் வைத்தியர்கள் இயற்கை முறையில் பிரசிவிக்க முயற்சித்த நிலையில் தாயும் பிள்ளையும் மரணமடைந்துள்ளதாகத்  தெரிவிக்கப் படுகின்றது.
 
-வைத்தியர்கள் மற்றும் தாதியர்களின் கவனயீனத்தாலேயே குறித்த மரணம் இடம் பெற்றுள்ளதாகவும் மரணம் அடைந்த விடயத்தை நீண்ட நேரமாக உறவினர்களுக்குச் சொல்லாமல் மறைத்ததாகவும் உயிர் இழந்த பெண்ணின் உடலைக் கூட பார்ப்பதற்குப் பெற்றோரை அனுமதிக்கவில்லை எனவும் உறவினர்கள் குற்றம் சுமத்தியுள்ளனர்.
+Mother and child die during delivery at Mannar Hospital. Doctors attempt natural birth but woman's shortness of breath goes unnoticed. Relatives accuse doctors/nurses of negligence, hiding death. Protest ensues over body access and hospital officials' response. Third death at Mannar General Hospital due to alleged lack of attention.
+
+🟩
+
+The death of her mother and Che, who was admitted to the Mannar District General Hospital on Tuesday (19), has caused great tragedy.
+
+Vanja, a 28 -year -old man from Mannar Pattiyottam, has been admitted to the Mannar Hospital on Tuesday (19).
+
+It is reported that the mother and the child have died after the doctors tried to make a natural popularity of the woman, but the woman had been suffering from shortness of breath and had not been appropriately noticed.
+
+Relatives have accused the death of doctors and nurses, and that the death of the death has been hidden for a long time without telling relatives and not allowed to see the body of a living woman.
+
+Relatives have been involved in the protest, saying that the body of the deceased will not be obtained until the real cause of the woman's death.
+
+Relatives have alleged that the hospital's director and responsible officials did not visit the scene for a long time and that his telephone was not operating at the scene.
 
 ...
 
 [Data](articles/1580aeb1.json)
+
+[Extended Data](ext_articles/1580aeb1.ext.json)
 
 ---
 
@@ -2467,57 +2571,5 @@ The new cabinet has seven university professors, two doctors, one lawyer, an eng
 [Data](articles/2d810421.json)
 
 [Extended Data](ext_articles/2d810421.ext.json)
-
----
-
-### Bangladesh citizens arrested 88
-
-*2024-11-19 10:31:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பங்களாதேஷ்-பிரஜைகள்-08-பேர்-கைது/175-347421) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-8 Bangladeshis arrested in Coimbatore for overstaying visas. Police detained them at a tourist spot. Translator helped record statements. They'll appear in court tomorrow.
-
-🟩
-
-Eight Bangladeshi citizens who were staying in the country in violation of the visa period were arrested by a group of officials of the Katunayake Police Anti -Corruption Unit at a tourist destination in Adiyambalam, Coimbatore on Monday night.
-
-Between 20 and 30, they are illegally staying in the country in violation of Sri Lanka's immigration conditions.
-
-The police had to seek the help of the translator to record their affidavits for further investigations.
-
-Based on the information received by the Katunayake police, the tourist hotel has been arrested on Monday night (18) at Adiyambalam.
-
-The arrested Bangladeshi citizens will be produced before the Magistrate's Court on Tuesday (19).
-
-◼️
-
-[Data](articles/84828edb.json)
-
-[Extended Data](ext_articles/84828edb.ext.json)
-
----
-
-### The new cabinet meeting today
-
-*2024-11-19 10:25:02* · [`adalk`](https://www.ada.lk/breaking_news/නව-කැබිනෙට්ටුව-අද-රැස්වෙයි/11-413137) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-New cabinet meeting today under President Anura Kumara Dissanayake's patronage. Government will discuss initial assets this morning.
-
-🟩
-
-New government first assets this morning. The meeting will be held under the patronage of President Anura Kumara Dissanayake.
-
-◼️
-
-[Data](articles/c7842304.json)
-
-[Extended Data](ext_articles/c7842304.ext.json)
 
 ---

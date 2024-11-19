@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 17:25:26**
+As of **2024-11-19 17:11:05**
 
 ## Newspaper Stats
 
-*Scraped **55,762** Articles*
+*Scraped **55,760** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,45 +16,21 @@ islandlk | 3,338
 economynextcom | 3,374
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,239
+adalk | 5,238
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
 virakesarilk | 9,059
-adaderanasinhalalk | 9,645
+adaderanasinhalalk | 9,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,760 (100.0%) of 55,762 articles have been extended.
+55,760 (100.0%) of 55,760 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
-
-### පාර්ලිමේන්තු මන්ත්‍රී වරප්‍රසාද ඉවත් කිරීමට හේෂාගෙන් යෝජනාවක්
-
-*2024-11-19 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203536) · `si`
-
-අභිනව පාර්ලිමේන්තුව රැස්වූ පසු මන්ත්‍රීවරුන්ගේ වරප්‍රසාද ඉවත්  කිරීමට පෞද්ගලික මන්ත්‍රී යෝජනාවක් ගෙනඑන බව සමගි ජන බලවේගයේ තේරී පත්වූ මන්ත්‍රී හේෂා විතාන මහතා පවසයි.
-
-ඔහු පෙන්වා දෙන්නේ මෙම නව සංස්කෘතිය ගෙනඑන්නේ නව ජනාධිපති ඇතුළු ජාතික ජන බලවේගයට ශක්තියක් වීමේ අරමුණින් බවය.
-
-"අපිත් සමහර වරප්‍රසාදවලට කැමතිම නැහැ. පාර්ලිමේන්තු මන්ත්‍රීවරුන්ට දෙන උදේ සහ දිවා ආහාරය සම්පූර්ණයෙන් නතර කරන්න. අවශ්‍ය නම් අපි ගෙදරින් අරගෙන එන්නම්."
-
-"කොළඹ නිල නිවාස අමාත්‍යවරුන්ට දෙනවා නම් කුලී පදනම මත ලබාදෙන්න. ඒ සල්ලි මහපොළ අරමුදලට ලබාදෙන්න."
-
-"පාර්ලිමේන්තු මන්ත්‍රීවරයෙකුගේ මූලික වැටුප රුපියල් 54,285යි. එකත් එපා නම් මේක ගරු සේවයක් කරන්න. වාහන දීමනා ඇතුළු සියල්ල නතර කරන්න."
-
-"මාදිවෙල පාර්ලිමේන්තු මන්ත්‍රී නිවාස විශ්වවිද්‍යාල දරුවන්ට නේවාසිකාගාර පහසුකම් ලෙස ලබාදෙන්න."
-
-"21 වෙනදාට පෙරම මේක පටන් ගන්න. මොකද 21 නිවාස දෙන්න ෆෝම් එක දුන්නට පස්සේ මේක කරන්න බැරි වෙයි. ඒ නිසා දැම්ම පටන් ගන්න."
-
-◼️
-
-[Data](articles/e08a4f9f.json)
-
----
 
 ### Virus, dengue fever spread among children - Specialist specialist
 
@@ -211,22 +187,6 @@ Here's a summary of the text in approximately 200 characters:
 [Data](articles/1be3464b.json)
 
 [Extended Data](ext_articles/1be3464b.ext.json)
-
----
-
-### උඩරට දුම්රිය ධාවනයට බාධා
-
-*2024-11-19 16:10:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413147) · `si`
-
-මහනුවර සිට බදුල්ල බලා ධාවනය වෙමින් තිබූ අංක 1126 දරන භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය අද (19) පස්වරුවේ දියතලාව දුම්රිය ස්ථානය අසලදී පිලීපැනිමට ලක් වීමෙන් උඩරට දුම්රිය මාර්ගයේ කොළඹ කොටුව බදුල්ල දුම්රිය ධාවනයට බාධා සිදුව ඇතැයි නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි .
-
-මහනුවර සිට පැමිණි මෙම භාණ්ඩ ප්‍රවාහන මිශ්‍ර දුම්රිය දුම්රිය දියතලාව දුම්රිය ස්ථානය ට ලගා වී යලි  බණ්ඩාරවෙල දෙසට ධාවනය වෙමින් තිබියදී මෙසේ දුම්රියේ එන්ජිම පිලීපැනිමට ලක් වී තිබෙන බවත් දුම්රිය දෙපාර්තමේන්තුව පැවසීය .
-
-පිලිපැනීමට ලක්වූ දුම්රියේ සිටි මගින් දියතලාව නගරයට ගොස් බස්රථ වල නැගී සිය ගමන් අවශ්‍ය තා.සපුරා ගත් අතර , දුම්රිය එන්ජිම පිලීගත කිරිමට බදුල්ල දුම්රිය ස්ථානයේ දුම්රිය ආපදා නිළධාරින් පිටත්කර.යැවීමට අවශ්‍ය කටයුතු සූදානම් කර ඇති බවත් නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් සදහන් කළේය .
-
-◼️
-
-[Data](articles/59e251bf.json)
 
 ---
 
@@ -2513,5 +2473,37 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/ab315f29.json)
 
 [Extended Data](ext_articles/ab315f29.ext.json)
+
+---
+
+### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
+
+*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/columns/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/4-769380) · `en`
+
+Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
+
+Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
+
+...
+
+[Data](articles/83d7e229.json)
+
+[Extended Data](ext_articles/83d7e229.ext.json)
+
+---
+
+### Arugam Bay is not Gaza: a reply to Tisaranee Gunasekara
+
+*2024-11-18 22:57:39* · [`dailyftlk`](https://www.ft.lk/opinion/Arugam-Bay-is-not-Gaza-a-reply-to-Tisaranee-Gunasekara/14-769380) · `en`
+
+Israeli tourists holidaying in southern Sri Lanka – and a somewhat pre-modern group catering to their religious needs – cannot and should not be held responsible for potential terror attacks on them stemming from Israel’s continuing war in Gaza and Lebanon
+
+Gunasekara suggests that the ‘threat’ from the Arugam Bay Chabad stems from the wider movement’s extremist political ideology, as evidenced (by implication) in Israeli soldiers recently establishing a similar prayer house in Beit Hanoun, Gaza. And while I agree with her that any right-wing, ‘Greater Israel’-directed ideology poses a potentially serious political problem wherever it exists, I’m not convinced that is what’s at stake with the Arugam Bay Chabad
+
+...
+
+[Data](articles/b70bb8ef.json)
+
+[Extended Data](ext_articles/b70bb8ef.ext.json)
 
 ---

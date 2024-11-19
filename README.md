@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 19:41:53**
+As of **2024-11-19 20:00:25**
 
 ## Newspaper Stats
 
-*Scraped **55,783** Articles*
+*Scraped **55,793** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,85 @@ islandlk | 3,338
 economynextcom | 3,384
 dailyftlk | 3,812
 dailymirrorlk | 4,733
-adalk | 5,242
+adalk | 5,243
 adaderanalk | 6,720
-tamilmirrorlk | 7,908
-virakesarilk | 9,059
-adaderanasinhalalk | 9,647
+tamilmirrorlk | 7,909
+virakesarilk | 9,066
+adaderanasinhalalk | 9,648
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,781 (100.0%) of 55,783 articles have been extended.
+55,783 (100.0%) of 55,793 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
+
+### அதிவிசேட வர்த்தமானி வெளியீீடு
+
+*2024-11-19 19:50:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவிசேட-வர்த்தமானி-வெளியீீடு/175-347466) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தேசிய பட்டியல் பாராளுமன்ற உறுப்பினராக ரஞ்சித் மத்தும பண்டாரவின் பெயர் அறிவிக்கப்பட்டு அதிவிசேட வர்த்தமானி வெளியிடப்பட்டுள்ளது.
+
+ஐக்கிய மக்கள் சக்தி தேசிய பட்டியலிலிருந்து ஐந்து ஆசனங்களை வென்றதுடன் அதில் 4 ஆசனங்கள் இன்னும் பெயரிடப்படவில்லை.
+
+◼️
+
+[Data](articles/6f44f874.json)
+
+---
+
+### பிரதமரின் செயலாளர், அமைச்சரவையின் செயலாளர் உட்பட அமைச்சுக்களின் செயலாளர்கள் நியமனம் - விபரம் இதோ!
+
+*2024-11-19 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/199183) · `ta`
+
+புதிய பிரதமரின் செயலாளர், அமைச்சரவையின் செயலாளர் உட்பட 18 அமைச்சுக்களுக்கு புதிய செயலாளர்களுக்கு நியமனம் வழங்கும் நிகழ்வு ஜனாதிபதியின் செயலாளர் கலாநிதி நந்திக்க சனத் குமாநாயக்க தலைமையில் செவ்வாய்க்கிழமை (19) ஜனாதிபதி செயலகத்தில் நடைபெற்றது.
+
+03 சிரேஷ்ட பேராசிரியர் கபில சீ.கே.பெரேரா போக்குவரத்து, நெடுஞ்சாலைகள் , துறைமுகங்கள் மற்றும் சிவில் விமானத்துறை அமைச்சின் செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+
+05 ஜே.எம்.திலகா ஜயசுந்தர கைத்தொழில் மற்றும் தொழில் முயற்சியாண்மை அபிவிருத்தி அமைச்சின் செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+
+06 ஏ.எம்.பீ.எம்.பி.அத்தபத்து புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் அமைச்சின் செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+
+07 பீ.கே.பிரபாத் சந்திரகீர்த்தி பெருந்தோட்ட மற்றும் சமூக உட்கட்டமைப்பு அமைச்சின் செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+
+09 டீ.டபிள்யூ.ஆர்.டி.செனவிரத்ன பொதுமக்கள் பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் அமைச்சின் செயலாளராக நியமிக்க்பட்டுள்ளார்.
+
+10 யூ.ஜீ.ரஞ்சித் ஆரியரத்ன நகர அபிவிருத்தி, நிர்மாணத்துறை மற்றும் வீடமைப்பு அமைச்சின் செயலாளராக நியமிக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/d2dbbccd.json)
+
+---
+
+### රංජිත් මද්දුම බණ්ඩාර ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+
+*2024-11-19 19:25:27* · [`adalk`](https://www.ada.lk/breaking_news/රංජිත්-මද්දුම-බණ්ඩාර-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413157) · `si`
+
+සමගි ජන බලවේගයේ මහ ලේකම් රංජිත් මද්දුම බණ්ඩාර මහතාගේ නම මැතිවරණ කොමිෂම ගැසට් කර තිබේ. මැතිවරණයෙන් සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රීධුර 5ක් හිමිවිය. තවත් මන්ත්‍රීවරු 4ක් සමගි ජන බල වේගය විසින් නම් කළ යුතුව තිබේ.
+
+◼️
+
+[Data](articles/d5e79e78.json)
+
+---
+
+### රංජිත් මද්දුමබණ්ඩාර ජාතික ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
+
+*2024-11-19 19:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203539) · `si`
+
+සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් සඳහා එහි මහලේකම් රංජිත් මද්දුමබණ්ඩාර මහතා ගේ නම ජාතික මැතිවරණ කොමිසම විසින් ගැසට් කර තිබේ.
+
+නොවැම්බර් 14 වනදා පැවති මහ මැතිවරණයෙන් සමගි ජන බලවේගය ජාතික ලැයිස්තු ආසන 5 ක් හිමිකර ගත් අතර ඒ සඳහා තවත් සිව් දෙනෙක්ව නම්කළ යුතුය.
+
+◼️
+
+[Data](articles/fbcf0117.json)
+
+---
 
 ### Hisham Jamaldeen leaves boards of Sri Lanka’s Hayleys companies
 
@@ -51,6 +115,22 @@ Jamaldeen is on the boards of many listed companies in Sri Lanka.
 [Data](articles/eb6cd7a9.json)
 
 [Extended Data](ext_articles/eb6cd7a9.ext.json)
+
+---
+
+### பிரபல தொழிலதிபரும் ஐ.ம.சக்தியின் யாழ்ப்பாண மாவட்ட அமைப்பாளருமான அ.கிருபாகரன் காலமானார்.
+
+*2024-11-19 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/199182) · `ta`
+
+பிரபல தொழிலதிபரும் ஐக்கிய மக்கள் சக்தியின் யாழ்ப்பாண மாவட்ட அமைப்பாளர்களில் ஒருவருமான அழகசுந்தரம் கிருபாகரன் காலமானார்.
+
+உடல் நலக்குறைவு காரணமாக யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் இன்றையதினம் உயிரிழந்தார்.
+
+மறைந்த கிருபாகரன் நடைபெற்று முடிந்த பாராளுமன்றத் தேர்தலில் யாழ்ப்பாண தேர்தல் மாவட்டத்தில் போட்டியிட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1c9622d3.json)
 
 ---
 
@@ -79,6 +159,22 @@ Accordingly, the government and government approved schools next 22 will be paid
 [Data](articles/e404073e.json)
 
 [Extended Data](ext_articles/e404073e.ext.json)
+
+---
+
+### திருகோணமலை மாவட்ட விவசாயக் குழுக்கூட்டம்!
+
+*2024-11-19 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199181) · `ta`
+
+திருகோணமலை மாவட்ட விவசாயக் குழுக்கூட்டமானது மாவட்ட அரசாங்க அதிபர் சாமிந்த ஹெட்டியாரச்சி அவர்களின்  தலைமையில் செவ்வாய்க்கிழமை (19) திருகோணமலை மாவட்ட செயலக பிரதான மாநாட்டு மண்டபத்தில் நடைபெற்றது.
+
+கடந்த விவசாயக்குழுக் கூட்டத்தில் எடுக்கப்பட்ட தீர்மானங்களின் முன்னேற்றங்கள் தொடர்பாகவும், முன்வைக்கப்பட்ட ஆலோசனைகள் தொடர்பாகவும் மற்றும் திருகோணமலை மாவட்டத்தின் விவசாய துறைசார்ந்த பல்வேறு விடயங்கள் குறித்தும் இதன்போது விரிவாக கலந்துரையாடப்பட்டது.
+
+இம்முறை மாவட்ட அரசாங்க அதிபரின் அறிவுரைக்கிணங்க விவசாய அபிவிருத்தி குழுக்கூட்டத்தில் மாவட்ட ஒருங்கிணைந்த விவசாய அமைப்புகள், விவசாயிகளின் களநிலை பிரச்சினைகள் மற்றும் கருத்துக்கள் கூட்டத்தின் ஆரம்பத்திலேயே கலந்துரையாடப்பட்டு தீர்வுகள் பெறப்பட்டமை மிகவும் சிறப்பான விடயமாக இதன்போது காணப்பட்டது.
+
+...
+
+[Data](articles/b1d78991.json)
 
 ---
 
@@ -252,31 +348,121 @@ The project’s evaluation report indicated that government officials expressed 
 
 ---
 
-### නව අමාත්‍යංශ ලේකම්වරු පත් කෙරේ
+### New Ministry Secretaries appointed
 
 *2024-11-19 17:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203537) · `si`
 
-නව අග්‍රාමාත්‍ය ලේකම්, අමාත්‍ය මණ්ඩල ලේකම් ඇතුළු අමාත්‍යංශ 16ක් සඳහා නව ලේකම්වරුන් පත්කර තිබේ.
+Here's a summary of 200 characters:
 
-අද (19) ජනාධිපති කාර්යාලයේදී ජනාධිපති ලේකම් ආචාර්ය නන්දික සනත් කුමානායක මහතාගේ ප්‍රධානත්වයෙන් එම කටයුතු සිදුකෙරුණි.
+
+
+New Ministry Secretaries appointed: Cabinet Secretary and 16 others for 16 ministries under new Prime Minister. Secretary to the President Dr. Nandika Sanath Kanathe chaired meeting at Presidential Secretariat on 19th.
+
+🟩
+
+New Secretaries, Secretary, Cabinet Secretary and 16 ministries have been appointed to the new Prime Minister, Cabinet Secretary.
+
+The Secretary to the President Dr. Nandika Sanath Kanathe was chaired by Presidential Secretariat today (19).
 
 ◼️
 
 [Data](articles/6d3b22d5.json)
 
+[Extended Data](ext_articles/6d3b22d5.ext.json)
+
 ---
 
-### කථානායකධුරයට නිහාල් ගලප්පත්ති?
+### 7 வயது சிறுவனுக்கு ரஷ்ய தகவல் தொழில்நுட்ப நிறுவனத்தில் வேலை வாய்ப்பு
+
+*2024-11-19 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199160) · `ta`
+
+"மொசார்ட்" என வர்ணிக்கப்படும் ஏழு வயது சிறுவனுக்கு ரஷ்ய மென்பொருள் நிறுவனத்தில் வேலை வாய்ப்பு வழங்கப்பட்டுள்ளது.
+
+ரஷ்யாவில் செயின்ட் பீட்டர்ஸ்பேர்க்கைச் சேர்ந்த செர்ஜி என்ற சிறுவன் கடந்த இரண்டு ஆண்டுகளாக கணினி மொழி மென்பொருளை  எவ்வாறு உருவாக்குவது என்பது குறித்த வீடியோக்களை தனது யூடியூபில் கணக்கில் பகிர்ந்து வருகிறார்.
+
+இந்த சிறுவனின் வீடியோக்கள்  “ப்ரோ32” என்ற தகவல் பாதுகாப்பு நிறுவனத்தின் கவனத்தை ஈர்த்துள்ளது.
+
+அந்த நிறுவனம் அவருக்கு வேலை செய்யும் வயதை அடைந்தவுடன் நிறுவனத்தின் பெருநிறுவன பயிற்சியின் தலைவராக பணியாற்றுவதற்கான வாய்ப்பை வழங்குவதாக அறிவித்துள்ளது.
+
+இது குறித்து ப்ரோ32 நிறுவனத்தின் தலைமை நிறைவேற்று அதிகாரி  இகோர் மாண்டிக் பிபிசியிடம் தெரிவித்துள்ளதாவது,
+
+அவரது தந்தை கிரில் ஆச்சரியமடைந்ததோடு, மிகவும் சந்தோசமாக இருப்பதாகவும், மகன் செர்ஜி நிறுவனத்தில் வேலைக்கு சேரும் நாளை எதிர்பார்த்துக் கொண்டிருப்பதாகவும் தெரிவித்தார்.
+
+அதில் அவர் நிரலாக்க மொழிகளான பைதான் மற்றும் யூனிட்டி மற்றும் நியூரல் நெட்வொர்க்குகள் பற்றி கற்பிக்கும் வீடியோக்களை வெளியிடுகிறார்.
+
+...
+
+[Data](articles/457d294c.json)
+
+---
+
+### உர மானியத்தை விரைவாக விவசாயிகளின் வங்கிக்கணக்கில் வைப்பிலிடுங்கள் - அரசாங்கத்திடம் ரோஹினி கவிரத்ன வலியுறுத்தல்
+
+*2024-11-19 17:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199162) · `ta`
+
+விவசாயிகளுக்கு வழங்கப்படவுள்ள உர மானியப் பணத்தை உடனடியாக விவசாயிகளின் வங்கிக் கணக்கில் வைப்பிலிடுமாறு விவசாய அமைச்சு மற்றும் நிதி அமைச்சிடம் ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ரோஹினி கவிரத்ன அரசாங்கத்திடம் கோரிக்கை விடுத்துள்ளார்.
+
+அதிகப் பருவத்தில் நெல் சாகுபடிக்குத் தேவையான உரத்தைப் பெற ரூ. 25,000 உர மானியம் அரசால் வழங்கப்படுகிறது. இது ஆண்டு விழா. உர மானியம் குறிப்பிட்ட தேதியில் வழங்கப்படும் என அரசு அதிகாரிகளும், அரசியல்வாதிகளும் பல சந்தர்ப்பங்களில் கூறியும் இதுவரை எந்த ஒரு நபரின் வங்கிக் கணக்கிலும் பணம் போடப்படவில்லை.
+
+பெரும்போகத்துக்கு தேவையான உரத்தைப் பெற 25 000 உர மானியம் அரசாங்கத்தால் வழங்கப்படுகிறது. இந்த உர மானியம் குறிப்பிட்ட திகதியில் வழங்கப்படும் என அரச அதிகாரிகளும், அரசியல்வாதிகளும் பல சந்தர்ப்பங்களில் கூறியும் இதுவரை எந்த ஒரு நபரின் வங்கிக் கணக்கிலும் பணம் வைப்பிலிடப்படவில்லை.
+
+...
+
+[Data](articles/3462d51c.json)
+
+---
+
+### நீதித்துறையின் சுயாதீனத் தன்மையை பாதுகாக்க நடவடிக்கை எடுப்போம் - புதிய நீதி அமைச்சர் ஹர்ஷன நாணயக்கார
+
+*2024-11-19 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199175) · `ta`
+
+நாடொன்றில் பொருளாதார சமூக மாற்றத்தை ஏற்படுத்துவதாக இருந்தால் அதற்கு அடிப்படையாக சட்டத்தின் ஆட்சி தேவையாகும். அதனால் நீதித்துறையின் சுயாதீன தன்மையை நாங்கள் பாதுகாத்துக்கொள்ளவேண்டும் என நீதி அமைச்சர் ஹர்ஷன நாணயக்கார தெரிவித்தார்.
+
+தேசிய மக்கள் சக்தி அரசாங்கத்தின் புதிய நீதி அமைச்சராக நியமிக்கப்பட்ட சட்டத்தரணி ஹர்ஷன நாணயக்கார நீதி அமைச்சில் கடமைகளை பொறுப்பெற்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
+
+ஊழல், மோசடிக்களுக்கு எதிராக  நடவடிக்கை எடுப்பது மற்றும் சட்டத்தின் ஆட்சியை பாதுகாப்பது தேசிய மக்கள் சக்தி பெற்றுக்கொண்ட மக்கள் ஆணையின் இரண்டு சக்திவாய்ந்த விடயங்களாகும். நாடொன்றில் பொருளாதார சமூக மாற்றத்தை ஏற்படுத்துவதாக இருந்தால் அடிப்படையாக சட்டத்தின் ஆட்சி அவசியமாகும். நீதித்துறையின் சுயாதீன தன்மையை நாங்கள் பாதுகாத்துக்கொள்ள வேண்டும். பணியாளர் சபைகளின் சுயாதீனத்தை பாதுகாப்பது மிக முக்கியமான விடயமாகும்.
+
+...
+
+[Data](articles/2992cbc1.json)
+
+---
+
+### Nihal Galappati to the Speaker?
 
 *2024-11-19 17:26:46* · [`adalk`](https://www.ada.lk/breaking_news/කථානායකධුරයට-නිහාල්-ගලප්පත්ති-/11-413151) · `si`
 
-කථානායක ධුරයට හම්බන්තොට දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී නිහාල් ගලප්පත්ති මහතා පත්කිරීමට රජයේ අවධානය යොමුව ඇති බව වාර්තා වෙයි. නිහාල් ගලප්පත්ති මහතා විශේෂයෙන් ජනතා විමුක්ති පෙරමුණ වෙනුවෙන් විශාල කැපකිරීමක් කළ පුද්ගලයෙක් වෙයි.
+Here's a summary of 200 characters:
 
-එසේම ජනතා විමුක්ති පෙරමුණට සම්බන්ධව (ජාතික ගලවා ගැනීමේ පෙරමුණ (මල් බඳුන ආසනයෙන් 1994දී පාර්ලිමේන්තුවට තේරී පත්වීම)) පාර්ලිමේන්තුවට පත්වූ පළමු මන්ත්‍රීවරයා ලෙස නිහාල් ගලප්පත්ති මහතා ඉතිහාසයට එක්වෙයි.
+
+
+Nihal Galappathi may become Speaker. He's from Hambantota & was chosen for JVP. First PEPA member in 1994.
+
+🟩
+
+The government is focusing on the appointment of Hambantota District MP Nihal Galappaththi to the post of Speaker. Mr. Nihal Galappaththi is especially sacrificed for the JVP.
+
+Also, Nihal Galappaththi joins history as the first member of the National Rescue Front (PEPA seat in 1994).
 
 ◼️
 
 [Data](articles/761ed290.json)
+
+[Extended Data](ext_articles/761ed290.ext.json)
+
+---
+
+### முள்ளிவாய்க்கால் நினைவு தூபியில் கஜேந்திரகுமார் பொன்னம்பலம் சத்தியப்பிரமாணம்
+
+*2024-11-19 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199173) · `ta`
+
+கடந்த (14) இடம்பெற்ற பாராளுமன்ற தேர்தலில் வெற்றிபெற்ற தமிழ் தேசிய மக்கள் முன்னணியின் தலைவர் கஜேந்திரகுமார் பொன்னம்பலம் இன்று செவ்வாய்க்கிழமை (19)  முள்ளிவாய்க்காலில் உள்ள மாவீரர் துயிலும் இல்லம் மற்றும் முள்ளிவாய்க்கால் நினைவு தூபிக்கு சென்று மலர்தூவி அஞ்சலி  செலுத்தியிருந்தார்.
+
+நவம்பர் 14ம் திகதி இடம்பெற்ற பாராளுமன்ற தேர்தலில் யாழ் , கிளிநொச்சி தேர்தல் தாெகுதியில் இலங்கைத் தமிழ் காங்கிரஸ் கட்சி சார்பாக போட்டியிட்டு பாராளுமன்ற உறுப்பினராக தெரிவு செய்யப்பட்ட பாராளுமன்ற உறுப்பினர் கஜேந்திரகுமார் பொன்னம்பலம் இன்று பிற்பகல் 12.45 மணியளவில் முள்ளிவாய்க்கால் மாவீரர் துயிலும் இல்ல வளாகத்தில் சுடரேற்றி வணக்கம் செலுத்தியதனை தொடர்ந்து, இறுதிப்போரில் உயிரிழந்த மக்கள் நினைவாக முள்ளிவாய்க்கால் பகுதியில் அமைக்கப்பட்டுள்ள நினைவுத் தூபிக்கு சென்று  சுடர் ஏற்றி, மலர் தூவி வணக்கம் செலுத்தி உரிமைப் பயணத்திற்காக மேற்கொள்ள வேண்டிய நடவடிக்கைகள் தொடர்பாக இனவழிப்பு நடைபெற்ற முள்ளிவாய்க்கால் மண்ணில் இருந்து அரசியல் உறுப்பினர்கள் அனைவருமாக சத்தியப்பிரமாணத்தை மேற்கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/2d8e73d2.json)
 
 ---
 
@@ -2349,257 +2535,5 @@ The magisterial inquiry into the bodies have been conducted at the Anuradhapura 
 [Data](articles/0569f9e3.json)
 
 [Extended Data](ext_articles/0569f9e3.ext.json)
-
----
-
-### Youth killed in a signal post
-
-*2024-11-19 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203516) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"21-year-old youth from Ganemulla fatally struck by signpost while boarding train from Polgahawela to Colombo Fort."
-
-🟩
-
-A youth who traveled on a train was killed and killed in a sign stake near the railway line.
-
-The accident had been identified as a young man who was traveling from Polgahawela to Colombo Fort.
-
-The deceased has been identified as a 21 year old resident of the Ganemulla area.
-
-◼️
-
-[Data](articles/5688ca47.json)
-
-[Extended Data](ext_articles/5688ca47.ext.json)
-
----
-
-### New government's first Cabinet meeting today
-
-*2024-11-19 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203515) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"New govt's 1st Cabinet meets today. 22 ministers sworn in. Meets Prez Anura Kumara Dissanayake. Deputy ministers to be sworn in tomorrow, number undecided."
-
-🟩
-
-The first Cabinet meeting will be held today (19).
-
-The Cabinet is scheduled to meet President Anura Kumara Dissanayake today.
-
-The new Government Cabinet was sworn in this morning and includes 22 ministers.
-
-Meanwhile, the Deputy Ministers of the New Government have been sworn in tomorrow.
-
-However, there has been no final decision on the size of the deputy ministers.
-
-◼️
-
-[Data](articles/0e1d6c46.json)
-
-[Extended Data](ext_articles/0e1d6c46.ext.json)
-
----
-
-### Information window on behalf of Members of Parliament
-
-*2024-11-19 07:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203514) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-MPs: Window opens 19-20 Sep, 9:30 AM - 3:30 PM. For new MPs, 3-day workshop on procedures, etiquette, and debate skills. Online system for photo submission and fingerprinting.
-
-🟩
-
-Parliamentarian Kushayi Rohanaharati says that a mature window will be established today (19) and tomorrow (19) and tomorrow (19) and tomorrow (20) will be established to facilitate the first section of the Tenth Parliament.
-
-She points out that the window is operating at the Parliament complex today and tomorrow at 9.30 am to 3.30 pm.
-
-The arrangement of information that will be useful to all MPs and obtain photographs of photos for MPs and obtaining relevant.
-
-"These MPs visit these days or give us information on the online system. We work to record fingerprints. More than two-thirds of MPs selected this year are new MPs. We have organized a three-day workshop to educate the procedure, conduct, lecturer and dress and the form of parliamentary coalition and debate and debate in the parliamentary sector.25, 26 and 27. "
-
-◼️
-
-[Data](articles/8d7aa674.json)
-
-[Extended Data](ext_articles/8d7aa674.ext.json)
-
----
-
-### Expectations From The Government
-
-*2024-11-19 06:57:26* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/expectations-from-the-government/) · `en`
-
-The political avalanche that swept the electoral landscape due to the demand for change was unprecedented. In some electorates the majority achieved by the NPP exceeded 70 percent. The overall majority in the country was 61 percent. The avalanche swept aside many who had earned names for themselves on account of their long years of commitment to influence policies in the national interest. In their place will be a host of much younger persons who will come in with their ideals and hopes for positive change but with little experience of governance and even administration. The government is aware of this issue and has arranged for a three day workshop on parliamentary procedures, session activities and the functioning of committees.
-
-...
-
-[Data](articles/b27528a7.json)
-
-[Extended Data](ext_articles/b27528a7.ext.json)
-
----
-
-### What are the new challenges and obstacles to the new government's existence?
-
-*2024-11-19 06:27:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cvgk5p3n7llo) · `si`
-
-N
-
-🟩
-
-What are the new challenges and obstacles to the new government's existence?
-
-According to the general election results, the national government has won two-thirds power in Parliament.
-
-While Gotabhaya Rajapaksa's Sri Lanka Craja Aruormum's leading Sri Lanka Crown Front, the Rajapaksas did not compete in the general election this year;The other clear message given by the political protesters was to eliminate corruption and ending the elite control.
-
-Bials after the Rajapaksa family.Why doesn't the Rajapaksas come to the general election? The General Election 2024: Who is former MPs who do not contesting the Diyawanna?
-
-Accordingly, the national folk force who won only 3 seats at the last parliamentary election has been established to establish a government with two-thirds power.
-
-General Elections 2024: Do you know the live official outcomes from the coming people's victory over the past 46 years of 'unknown' political life.
-
-...
-
-[Data](articles/7237d46a.json)
-
-[Extended Data](ext_articles/7237d46a.ext.json)
-
----
-
-### Showers over 100 mm, including Western and Sabaragamuwa
-
-*2024-11-19 06:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203512) · `si`
-
-Heavy rainfall warning: Western, Sabaragamuwa, Northern provinces; Galle, Matara districts. Showers in North, East, Centre. Thunderstorms possible, especially at night. Public advised to take precautions against wind and lightning.
-
-🟩
-
-Heavy showers in the Western, Sabaragamuwa and Northern provinces and in the Galle and Matara districts can occur.
-
-The Meteorological Department says that there will be showers from time to time in the North, East and North-middle provinces.
-
-Showers or thundershowers will occur at night in the Western, Sabaragamuwa, Central, Southern, Uva and Uva and Northwestern provinces.
-
-Some locations can last a morning in the Western, Sabaragamuwa, Central and Uva provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/a18d40f8.json)
-
-[Extended Data](ext_articles/a18d40f8.ext.json)
-
----
-
-### Mustra Fernando: Second woman appointed as the Chief Justice of Sri Lanka
-
-*2024-11-19 02:07:49* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cz6j7g6q5z0o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Mustra Fernando appointed as Sri Lanka's 48th Chief Justice. First woman to hold position. Prominent legal career spanning decades. Appointed acting Chief Justice October 10, 2024. Officially became Chief Justice November 16, 2024. Known for professional integrity and handling significant cases.
-
-🟩
-
-President Anura Kumara Dissanayake has been appointed by President Anura Kumara Dissanayake as the 48th Chief Justice of Sri Lanka.
-
-The current Chief Justice Jayantha Jayasuriya was named after his retirement on December 2.
-
-The second woman who was appointed as the Chief Justice of Sri Lanka will be historical historical historical history.
-
-Born in Moratuwa, Moratuwa Fernando, Moratuwa was an eldest pupil of Princess Princes College. She has also served as the chief student leader of the school and has also been assessed as the best debate and the best student of the school debate group.
-
-Law in law at the Faculty of the University of Colombo. The Cooray Memorial Prize has also been elected.
-
-Later, she graced the Attorney General's Degree from London Kings College.
-
-She had joined the Attorney General's Department in 1985 and was promoted to the post of Deputy Solicitor General in 1997 and the Deputy Solicitor General of the General of 2014.
-
-...
-
-[Data](articles/425e0aa0.json)
-
-[Extended Data](ext_articles/425e0aa0.ext.json)
-
----
-
-### Ravi K.’s National List appointment sparks tensions within NDF
-
-*2024-11-19 02:02:14* · [`dailyftlk`](https://www.ft.lk/news/Ravi-K-s-National-List-appointment-sparks-tensions-within-NDF/56-769410) · `en`
-
-UNP calls emergency meeting and moves to take disciplinary action against Ravi Karunanayake
-
-Alleges Karunanayake’s appointment as National List MP has bypassed UNP’s decision-making process
-
-National Unity Alliance appeals to EC to withhold Gazette announcement of Karunanayake’s appointment
-
-NUA describes nomination as unlawful and lacking consensus among alliance members
-
-United National Party (UNP) members gathered for an emergency meeting yesterday evening at the Sirikotha to address the controversial nomination of former MP Ravi Karunanayake to the National List of the New Democratic Front (NDF).
-
-The move, reportedly made without the party’s approval, has sparked internal dissent and calls for disciplinary action.
-
-...
-
-[Data](articles/27e70dbc.json)
-
-[Extended Data](ext_articles/27e70dbc.ext.json)
-
----
-
-### MP Dr. Rizvie Salih defends AKD’s selection of Ministers
-
-*2024-11-19 02:00:28* · [`dailyftlk`](https://www.ft.lk/news/MP-Dr-Rizvie-Salih-defends-AKD-s-selection-of-Ministers/56-769409) · `en`
-
-National People’s Power (NPP) Colombo district MP Dr. Rizvie Salih yesterday said the new Government is of the view that the primary conditions for leading a Ministry should be a person’s qualifications, skills, and political acumen, and not their gender, race, or religion.
-
-Responding to criticism over no Muslim representatives in the newly appointed Cabinet, Dr. Salih said he has full confidence that President Anura Kumara Dissanayake has appointed the right individuals to the right Ministries.
-
-“As someone with far more insight into their capabilities and contributions than the rest of us, his decisions are undoubtedly rooted in merit,” he noted via a post on Facebook.
-
-Dr. Salih pointed out that the calls to appoint a Minister based solely on religion risk fuelling unnecessary divisions and undermining the very unity the country needs to move forward.
-
-...
-
-[Data](articles/dc0fabe0.json)
-
-[Extended Data](ext_articles/dc0fabe0.ext.json)
-
----
-
-### SC dismisses FR filed by SDIG Ravi Seneviratne
-
-*2024-11-19 01:58:37* · [`dailyftlk`](https://www.ft.lk/news/SC-dismisses-FR-filed-by-SDIG-Ravi-Seneviratne/56-769408) · `en`
-
-The Supreme Court dismissed a fundamental rights petition filed by former Criminal Investigation Department (CID) Senior DIG and current Public Security Ministry Secretary Ravi Seneviratne.
-
-The petition sought a declaration that Seneviratne’s fundamental rights were violated when he was arrested and remanded by the Wellawatte Police in connection with a road accident.
-
-The case was heard before a three-member Supreme Court bench comprising Justices S. Thurairaja, A.H.M.D. Nawaz, and Priyantha Fernando.
-
-Deputy Solicitor General Disna Warnakula, representing the respondents, raised a preliminary objection, arguing that the petition did not comply with Supreme Court rules. Based on this objection, the Court ruled that the petition could not be maintained and subsequently dismissed it.
-
-The Inspector General of Police (IGP), the Attorney General, the Officer-in-Charge (OIC) of the Wellawatte Police Station, and other officers were named as respondents in the case.
-
-...
-
-[Data](articles/b6a1934d.json)
-
-[Extended Data](ext_articles/b6a1934d.ext.json)
 
 ---

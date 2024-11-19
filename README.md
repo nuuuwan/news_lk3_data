@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-19 16:15:55**
+As of **2024-11-19 16:41:35**
 
 ## Newspaper Stats
 
-*Scraped **55,752** Articles*
+*Scraped **55,756** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,92 +19,230 @@ dailymirrorlk | 4,733
 adalk | 5,237
 adaderanalk | 6,720
 tamilmirrorlk | 7,903
-virakesarilk | 9,053
-adaderanasinhalalk | 9,643
+virakesarilk | 9,056
+adaderanasinhalalk | 9,644
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,746 (100.0%) of 55,752 articles have been extended.
+55,756 (100.0%) of 55,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-19 (Tuesday)
 
-### 10වන පාර්ලිමේන්තුවේ සභානායක සහ ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක පත් කෙරේ
+### The Promise of the Ministry of Police
+
+*2024-11-19 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203535) · `si`
+
+Sri Lankan police promise: Strengthening authority, addressing recruitment issues, deploying security forces to combat crime and drugs.
+
+🟩
+
+The Sri Lankan police stating that the recruitment procedure of the Sri Lankan police states that action will be taken to strengthen the power to the police.
+
+He was assumed by the Public Defense Ministry (19).
+
+Special attention is also paid to the issues faced by the problems faced by the undermines of the Police Service, as well as the public.
+
+"A law-abiding police should be built by a disciplinary police. It is hard to build a fair justice society. Recruitment There are several problems. Review them and pulls those recruitments. Steps will be taken to obtain the power to the police. Without that, we cannot suppress this crime, drug racket and underworld. "
+
+He further stated that the president and the security forces who were released from the Minister and the security forces were deployed to strengthen the power of the police.
+
+◼️
+
+[Data](articles/422a0dc9.json)
+
+[Extended Data](ext_articles/422a0dc9.ext.json)
+
+---
+
+### One arrested with heroin in Kalkisa
+
+*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199156) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Arrest made in Ratmalana: 49-year-old caught with 5g of heroin during police raid on Monday.
+
+🟩
+
+A suspect has been arrested on Monday (18) with heroin drugs in Ratmalana, which belongs to the Mount Lavinia Police Division.
+
+The suspect has been arrested during a raid carried out on confidential information received by the Mount Lavinia Police.
+
+The arrested suspect is a 49 -year -old from Ratmalana area.
+
+From the arrested suspect, 05 grams of 320 milligrams of heroin has been seized by the police.
+
+◼️
+
+[Data](articles/73839aa8.json)
+
+[Extended Data](ext_articles/73839aa8.ext.json)
+
+---
+
+### 100 crores worth of drug pills
+
+*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
+
+Colombo customs seize Rs 100 crore drug pills targeting schoolchildren.
+
+🟩
+
+Customs officials have seized about Rs 100 crore from a barn at the Colombo port premises.
+
+The drug pills have been seized by a trader in the Pettah area in 36 illegally imported boxes from India.
+
+Customs officials said the drug pills have been brought in targeting schoolchildren.
+
+◼️
+
+[Data](articles/f042dc79.json)
+
+[Extended Data](ext_articles/f042dc79.ext.json)
+
+---
+
+### 18 kg of Grease bucket magic in the Transport Board !!
+
+*2024-11-19 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199148) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"18 kg of grease bucket magic found at the Transport Board!"
+
+🟩
+
+◼️
+
+[Data](articles/1be3464b.json)
+
+[Extended Data](ext_articles/1be3464b.ext.json)
+
+---
+
+### Leader of the Leader of the 10th Parliament and the Chief Organizer of the Government
 
 *2024-11-19 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203534) · `si`
 
-10වන පාර්ලිමේන්තුවේ සභානායක ලෙස අමාත්‍ය බිමල් රත්නායක මහතා පත්කර තිබේ.
+Here's a summary in 200 characters:
 
-ආණ්ඩු පක්ෂ ප්‍රධාන සංවිධායක ලෙස පත්කර ඇත්තේ අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස මහතාවය.
 
-බිමල් රත්නායක මහතා නව ආණ්ඩුවේ ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍යවරයා ලෙස කටයුතු කරයි.
+
+Bimal Ratnayake named Leader of 10th Parliament. Dr. Nalinda Jayatissa Chief Government Whip. Bimal also Transport Minister.
+
+🟩
+
+Minister Bimal Ratnayake has been appointed as the Leader of the 10th Parliament.
+
+Minister Dr. Nalinda Jayatissa has been appointed as the Chief Government Whip.
+
+Bimal Ratnayake serves as the Minister of Transport, Highways, Ports and Civil Aviation.
 
 ◼️
 
 [Data](articles/d84350e9.json)
 
+[Extended Data](ext_articles/d84350e9.ext.json)
+
 ---
 
-### சபை முதல்வராக பிமல் ரத்நாயக்க நியமனம்?
+### Pimal Ratnayake appointed as the Chief Minister of the Council?
 
 *2024-11-19 15:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபை-முதல்வராக-பிமல்-ரத்நாயக்க-நியமனம்/175-347446) · `ta`
 
-ஆளுங் கட்சியின் பாராளுமன்ற சபை முதல்வராக அமைச்சர் பிமல் ரத்நாயக்கவை நியமிக்கத் தீர்மானிக்கப்பட்டுள்ளது.
+Pimal Ratnayake named Chief Minister of Council. Bimal Ratnayake chosen as leader of ruling party.
+
+🟩
+
+It has been decided to appoint Minister Bimal Ratnayake as the chief minister of the ruling party.
 
 ◼️
 
 [Data](articles/682a5e5b.json)
 
+[Extended Data](ext_articles/682a5e5b.ext.json)
+
 ---
 
-### දහතුන් හැවිරිදි පුතුට කඩුවකින් කොටා තුවාල සිදුකල පියකු සොයා විමර්ශන
+### Investigations search for a father in trouble for the Thirteenth year
 
 *2024-11-19 15:46:39* · [`adalk`](https://www.ada.lk/breaking_news/දහතුන්-හැවිරිදි-පුතුට-කඩුවකින්-කොටා-තුවාල-සිදුකල-පියකු-සොයා-විමර්ශන/11-413145) · `si`
 
-වයස අවුරුදු 13ක තම පුතුට කඩුවකින් කොටා තුවාල සිදු කර, ප්‍රදේශය මගහැර ගොස් සැඟව සිටින පියෙකු අත්අඩංගුවට ගැනීම සඳහා විමර්ශනයක් ආරම්භ කල බව කැකිරාව පොලිසිය පවසයි.
+Here's a summary in approximately 200 characters:
 
-මෙලෙස තුවාල ලබා ඇත්තේ, කැකිරාව  ප්‍රදේශයේ  එම්.ජී.එස්. තෙපුල් විජේරත්න නැමති දහතුන් හැවිරිදි පාසල් සිසුවෙකි.
 
-සැකකාර පියා කොළඹ ප්‍රදේශයේ රැකියාවක නිරත පුද්ගලයෙකු බවත් එම සැකකරු ඡන්දය ප්‍රකාශ කිරීම සඳහා කැකිරාව  ප්‍රදේශයේ පිහිටි නිවසට පැමිණ සිටියදී මෙම කඩු පහර එල්ල කර ඇති බව පොලිසිය කියයි.
 
-සැකකරු බිරිඳ සමග ඇති ඇති කරගත් ආරවුලක් දුර දිග යාම හේතුවෙන් මෙම කඩු පහර බිරිඳට එල්ල කරන අවස්ථාවේදී දරුවා ඊට විරෝධය පල කල  අවස්ථාවේදී පහර කෑමට ලක්ව ඇති බව පොලිසිය  සඳහන් කළේය.
+Thirteenth year investigation: Kotakirawa police probe father's arrest. 13-year-old girl injured in MGS Kekirawa. Father works in Colombo, assaulted at home due to wife dispute. Child's hand seriously injured; suspect fled. Kekirawa police conducting arrest operations.
 
-කඩු පහර වැදීමෙන් එම දරුවාගේ අතකට බරපතල තුවාල සිදුව ඇති අතර මෙම ප්‍රහාරයේ එල්ල කිරීමෙන් අනතුරුව සැකකාර පියා  ප්‍රදේශය මගහැර  පලා ගොස් ඇති බවද පොලිසිය වැඩිදුරටත් සඳහන් කළේය
+🟩
 
-කැකිරාව පොලිසියේ නිලධාරීහු කණ්ඩායමක් සැකකරු අත්අඩංගුවට ගැනීම සඳහා වැඩදුර විමර්ශන සිදු කරති.
+The 13-year-old son, Kotakirawa, Kotakirawa Police say an investigation into the arrest of the area.
+
+The sustained were injured in the MGS in Kekirawa. Thirtew Wi Wijeratne is a 13 year old schoolgirl.
+
+The suspected father is a job in Colombo and the suspect has been attacked at home in Kekirawa area.
+
+The suspect had been assaulted at the time of his protest due to a dispute with his wife.
+
+The police said that the child's hand was seriously injured and the suspect had fled after the attack.
+
+Kakirawa Police A group of officials of Kekirawa Police are conducting investigations to arrest the suspect.
 
 ◼️
 
 [Data](articles/43f92726.json)
 
+[Extended Data](ext_articles/43f92726.ext.json)
+
 ---
 
-### மலையக ரயில் சேவை பாதிப்பு
+### Hill rail service impact
 
 *2024-11-19 15:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-ரயில்-சேவை-பாதிப்பு/175-347445) · `ta`
 
-கண்டியில் இருந்து பதுளை நோக்கி பயணித்த கலப்பு ரயில் இன்று (19) பிற்பகல் தியத்தலாவ நிலையத்தில் தடம் புரண்டுள்ளதாக ரயில்வே திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+Kandy-Badulla mixed train derailed at Diyathalawa station, disrupting hill rail service.
 
-இதனால் மலையக ரயில் பாதையில் செல்லும் ரயில் சேவையில் இடையூறு ஏற்பட்டுள்ளதாக அதிகாரி தெரிவித்தார்.
+🟩
+
+A top official of the Railway Department said that the mixed train from Kandy to Badulla was derailed at the Diyathalawa station this afternoon.
+
+The official said that this has caused disruption to the train service on the hill station.
 
 ◼️
 
 [Data](articles/1986dd14.json)
 
+[Extended Data](ext_articles/1986dd14.ext.json)
+
 ---
 
-### වෛද්‍ය නලින්ද ජයතිස්සට තවත් තනතුරක්
+### Another post for Dr. Nalinda Jayatissa
 
 *2024-11-19 15:36:59* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-නලින්ද-ජයතිස්සට-තවත්-තනතුරක්/11-413144) · `si`
 
-අමාත්‍ය වෛද්‍ය නලින්ද ජයතිස්ස පාර්ලිමේන්තුවේ ආණඩු පක්ෂ ප්‍රධාන සංවිධායක ලෙසද පත්කර ඇති බව වාර්ථාවෙයි.
+Here's a summary of 200 characters:
+
+
+
+Dr. Nalinda Jayatissa appointed as chief parliamentary organizer.
+
+🟩
+
+It is reported that Minister Dr. Nalinda Jayatissa has been appointed chief organizer of parliamentary organizer.
 
 ◼️
 
 [Data](articles/ad27a163.json)
+
+[Extended Data](ext_articles/ad27a163.ext.json)
 
 ---
 
@@ -128,15 +266,25 @@ The railway department said that the train traveling from Kandy to Badulla has b
 
 ---
 
-### ජනමාධ්‍ය ඇමතිට පැවරුණු අලුත් වගකීම
+### New responsibility assigned to Mass Media
 
 *2024-11-19 14:52:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-ඇමතිට-පැවරුණු-අලුත්-වගකීම/11-413143) · `si`
 
-නව කැබිනට් මාධ්‍ය ප්‍රකාශකවරයා ලෙස ජනමාධ්‍ය අමාත්‍ය නලින්ද ජයතිස්ස මහතා පත් කර තිබේ.
+Here's a 200-character summary:
+
+
+
+Mass Media Minister Nalinda Jayatissa appointed as new cabinet spokesman.
+
+🟩
+
+Mass Media Minister Nalinda Jayatissa has been appointed as the new cabinet spokesman.
 
 ◼️
 
 [Data](articles/b09c659f.json)
+
+[Extended Data](ext_articles/b09c659f.ext.json)
 
 ---
 
@@ -2317,103 +2465,5 @@ Based on intelligence received, the Sri Lanka Navy had launched this special ope
 [Data](articles/725062d0.json)
 
 [Extended Data](ext_articles/725062d0.ext.json)
-
----
-
-### “Verily, We Have Created Man In Struggle”: Struggle Is life, Face It
-
-*2024-11-18 22:05:15* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/verily-we-have-created-man-in-struggle-struggle-is-life-face-it/) · `en`
-
-The recent election victory of Donald Trump came as a huge surprise to Americans, those on the liberal and leftist side of the political spectrum. Some reacted with intense emotions: tears were shed, declarations of leaving the country were made, and anger was directed at conservatives and anyone who voted for Trump. While this was not the first time, I had witnessed such a visceral reaction to election results, these responses only deepened my appreciation for the values I hold dear—those rooted in faith and spiritual teachings.
-
-...
-
-[Data](articles/51a79292.json)
-
-[Extended Data](ext_articles/51a79292.ext.json)
-
----
-
-### Police seek public assistance to catch the suspect robbed seven months
-
-*2024-11-18 22:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203511) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Police seeking help: Suspect robbed 7 months ago. Driver escaped vehicle in Minuwangoda. Vehicle found in Gampaha. CID investigating. Public, call 0718591610 if you have info."
-
-🟩
-
-Police have requests public assistance to arrest a suspect in connection with a furnace.
-
-A person who served as a driver of a securely transporting institution in Minuwangoda police division, has been fled by the vehicle today (18).
-
-The vehicle has been recovered from the Gampaha Police Division, while the Gampaha Division Criminal Investigation Division is conducting further investigations to arrest the suspect.
-
-Accordingly, if any information about the above person is, the police have requested the public to inform the following telephone numbers.
-
-02.  ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී - ගම්පහ දිස්ත්‍රික් (I) - 0718591610
-
-◼️
-
-[Data](articles/8fca0957.json)
-
-[Extended Data](ext_articles/8fca0957.ext.json)
-
----
-
-### Sri Lanka President meets IMF delegation, stresses for “balanced approach”
-
-*2024-11-18 21:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-meets-imf-delegation-stresses-for-balanced-approach-188578/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Anura Kumara Dissanayake met International Monetary Fund (IMF) delegation members who are in Colombo for the third review of the global lender’s $3 billion bailout package.
-
-The island nation’s economy has stabilized since it declared sovereign debt default in 2022, but is still facing uncertainty due to local vulnerabilities and debt restructuring.
-
-The IMF delegation is in Colombo to complete the third review of the loan programme before approving the disbursement of the fourth tranche of the loan.
-
-“Met with the IMF delegation today (18) to discuss Sri Lanka’s economic recovery,” Dissanayake said in his X platform.
-
-“I stressed the need for a balanced approach that addresses citizen hardships and restores public trust.”
-
-“Our focus: tackling child poverty, and malnutrition, supporting the differently abled, and fighting corruption with stringent reforms.”
-
-...
-
-[Data](articles/e2c3e1a7.json)
-
-[Extended Data](ext_articles/e2c3e1a7.ext.json)
-
----
-
-### Order the suspects looting a doctor's money
-
-*2024-11-18 21:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203510) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Colombo Magistrate orders police to investigate doctor's money theft case. Suspects intimidated, bank account details stolen. Four suspects remanded until Nov 12.
-
-🟩
-
-Colombo Additional Magistrate Kammada Perera has ordered the Bambalapitiya Police today to be referred to the Tastekerator in Bambalapitiya.
-
-When the doctor arrived at the massage agency, he was intimidated by the suspects to a bank account on the online system of Rs.
-
-Bambalapitiya Police Commanding Court demanded the judiciary to call the four tomorrow to refer to the Government Analyst tomorrow.
-
-The Colombo Additional Magistrate issued the order by the request.
-
-The four suspects remanded in connection with the incident and remanded until November 12.
-
-◼️
-
-[Data](articles/7f5c72b2.json)
-
-[Extended Data](ext_articles/7f5c72b2.ext.json)
 
 ---

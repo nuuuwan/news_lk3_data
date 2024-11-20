@@ -1,36 +1,452 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 08:29:38**
+As of **2024-11-20 11:25:42**
 
 ## Newspaper Stats
 
-*Scraped **55,854** Articles*
+*Scraped **55,898** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 432
-colombotelegraphcom | 571
-bbccomsinhala | 575
+colombotelegraphcom | 572
+bbccomsinhala | 576
 islandlk | 3,347
 economynextcom | 3,385
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,248
-adaderanalk | 6,720
-tamilmirrorlk | 7,915
-virakesarilk | 9,079
-adaderanasinhalalk | 9,654
+adalk | 5,252
+adaderanalk | 6,748
+tamilmirrorlk | 7,922
+virakesarilk | 9,080
+adaderanasinhalalk | 9,656
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,830 (100.0%) of 55,854 articles have been extended.
+55,876 (100.0%) of 55,898 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### Pillaiyan appeared in CID
+
+*2024-11-20 10:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CIDயில்-பிள்ளையான்-ஆஜரானார்/175-347487) · `ta`
+
+Pillaiyan arrives at CID for questioning about Channel 4 documentary on 2019 Sri Lanka terror attacks. He was initially summoned Nov 12 for Easter Sunday attack inquiry but requested a later date.
+
+🟩
+
+Sivanesathurai Chandrakanthan, also known as Pillaiyan, arrived at the Criminal Investigation Department (CID) this morning.
+
+He has been summoned to make a confession on the controversial Channel 4 documentary on Sunday terrorist attacks in Sri Lanka 2019.
+
+Pillaiyan was first invited to CIT on November 12 to give a new inquiry into the Easter Sunday attacks. However, it is noteworthy that he had requested the alternative date.
+
+◼️
+
+[Data](articles/efc5d81a.json)
+
+[Extended Data](ext_articles/efc5d81a.ext.json)
+
+---
+
+### Harin Fernando arrested
+
+*2024-11-20 10:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரின்-பெர்னாண்டோ-கைது/175-347485) · `ta`
+
+Harin Fernando arrested: Former minister detained by Badulla police for election law violation. Confession scheduled at local police station. Incident related to campaign attire featuring "10th" symbol, referencing his electoral number.
+
+🟩
+
+Badulla police have arrested former minister Harin Fernando in connection with the incident in violation of the election law.
+
+Police Media Spokesperson, Deputy Inspector General of Police Nihal Talduwa confirmed this.
+
+He has been arrested on Wednesday (20) to appear at Harin Fernando to appear at the Badulla Police for a confession with the police during an election campaign in Badulla on Wednesday (20).
+
+Recently, Harin Fernando and his supporters were wearing a '10th' shirts in Badulla.
+
+It is noteworthy that he contested the parliamentary election in the Badulla district under the new Democratic Front in No. 10.
+
+◼️
+
+[Data](articles/a8f016da.json)
+
+[Extended Data](ext_articles/a8f016da.ext.json)
+
+---
+
+### Former Parliamentarian Harin Fernando arrested
+
+*2024-11-20 10:23:58* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පාර්ලිමේන්තු-මන්ත්‍රී-හරීන්-ප්‍රනාන්දු-අත්අඩංගුවට/11-413162) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former Sri Lankan Parliamentarian Harin Fernando arrested over election law violations. To appear before Badulla Magistrate's Court.
+
+🟩
+
+He was arrested when he had been given a statement regarding the charges that violated election laws.
+
+Harin Fernando is to be produced before the Badulla Magistrate's Court.
+
+◼️
+
+[Data](articles/5e527c51.json)
+
+[Extended Data](ext_articles/5e527c51.ext.json)
+
+---
+
+### Former minister Harin Fernando arrested
+
+*2024-11-20 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103628/former-minister-harin-fernando-arrested) · `en`
+
+Former minister Harin Fernando has been arrested by the Badulla Police on allegations of election law violations.
+
+He was arrested after arriving at Badulla Police to provide a statement regarding alleged election law violations.
+
+◼️
+
+[Data](articles/fe875b3b.json)
+
+[Extended Data](ext_articles/fe875b3b.ext.json)
+
+---
+
+### The world's largest aircraft that suddenly arrived in Sri Lanka
+
+*2024-11-20 10:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-இலங்கைக்கு-வந்த-உலகின்-மிகப்பெரிய-விமானம்/175-347480) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+The world's largest aircraft, an Airbus A380 owned by Qatar Airlines, unexpectedly landed at Sri Lanka's Katunayake Bandaranaike International Airport last night. It was en route from Sydney, Australia, where it had stopped for refueling. This unusual visit has generated significant interest among locals and aviation enthusiasts.
+
+🟩
+
+Airbus A380, owned by Qatar Airlines, arrived at the Katunayake Bandaranaike International Airport last night.
+
+Katunayake has arrived at Australia's Sydney Airport for refueling operations. Remble
+
+◼️
+
+[Data](articles/e1244342.json)
+
+[Extended Data](ext_articles/e1244342.ext.json)
+
+---
+
+### Former state minister Pilleyan arrives at CID
+
+*2024-11-20 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103627/former-state-minister-pilleyan-arrives-at-cid) · `en`
+
+Former state minister Sivanesathurai Chandrakanthan alias Pilleyan has arrived at the Criminal Investigation Department (CID) this morning (20).
+
+He had arrived at the CID following a summon to provide a statement regarding the controversial documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
+
+◼️
+
+[Data](articles/65aba3ae.json)
+
+[Extended Data](ext_articles/65aba3ae.ext.json)
+
+---
+
+### The death of Sindhuja;Time for the police
+
+*2024-11-20 10:05:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிந்துஜாவின்-மரணம்-பொலிஸாருக்கு-கால-அவகாசம்/175-347479) · `ta`
+
+Sindhuja's death probe: Police investigation ongoing, trial set at Mannar Magistrate's Court, next hearing Dec 3.
+
+🟩
+
+Investigations have revealed that the police are believed to be investigating the complaint lodged by relatives and parents of the death of a young mother from Mannar - Kettayadampan area.
+
+The trial of Sindhuja's death was summoned at the Mannar Magistrate's Court yesterday (19).
+
+A few days ago, the Mannar Criminal Investigation Police had told the Mannar Regional Criminal Investigation Police that he had handed over the case.
+
+So far, the Mannar Madhu police have not registered a case in the case and are being investigated as a normal case.
+
+The magistrate has ordered the victim's lawyer Deniswaran and Sarmillan Dias to expedite the trial of the case and submit a report within two weeks.
+
+The case is on December 3 for further hearing. Remble
+
+◼️
+
+[Data](articles/7e8aaa9b.json)
+
+[Extended Data](ext_articles/7e8aaa9b.ext.json)
+
+---
+
+### Suspect arrested over Rs. 70M cash in transit heist at Minuwangoda
+
+*2024-11-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103626/suspect-arrested-over-rs-70m-cash-in-transit-heist-at-minuwangoda) · `en`
+
+A suspect has been arrested in connection with the incident where the driver of a private company providing cash in transit services had made off with over Rs. 70 million in cash which was being transported in the Minuwangoda area.
+
+The suspect was arrested last evening (19) in the Kaduwangaha area of Gampaha during a joint operation by the Gampaha Division Crimes Bureau and Minuwangoda Police.
+
+At the time of his arrest, police officers found 5 grams and 420 milligrams of the ‘Ice’ drugs (crystal methamphetamine) along with Rs. 31,515,291 from the stolen money in his possession.
+
+The 35-year-old suspect is a resident of the Makavita area in Thammita.
+
+A group of four employees of a private company providing cash in transit services had arrived in a van last morning at the branch of a private bank in Minuwangoda with several bags of cash.
+
+Police said that after arriving near the bank, only the driver had remained in the van while the rest of the them had gotten off the vehicle.
+
+...
+
+[Data](articles/23aa40fd.json)
+
+[Extended Data](ext_articles/23aa40fd.ext.json)
+
+---
+
+### Payment for school equipment;The program to identify eligible students is the beginning
+
+*2024-11-20 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199197) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Government initiative: School equipment aid for needy students. Eligibility determined by family income. Officials to provide data. Allowance to start next year under President Anura Kumara Dissanayake's guidance.
+
+🟩
+
+The government will be given allowances to children who cannot afford school books and school equipment.
+
+Officials have been advised to submit information about the families in order to make these offers to the children of low -income families.
+
+President Anura Kumara Dissanayake said the allowance would be initiated next year.
+
+◼️
+
+[Data](articles/8f95f1cd.json)
+
+[Extended Data](ext_articles/8f95f1cd.ext.json)
+
+---
+
+### Pillayan CID
+
+*2024-11-20 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203550) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sivanesathikayi Chandrakanthan (Pillayan), former minister, visited CID on 20th. He came to provide a statement about the controversial Channel 4 report on the Easter advisory program.
+
+🟩
+
+Former Minister Sivanesathikayi Chandrakanthan, or Pillayan arrived in the CID today (20).
+
+It is to give a statement regarding the details of the controversial report program on the Advisory Channel 4 of the Easter.
+
+◼️
+
+[Data](articles/90025c74.json)
+
+[Extended Data](ext_articles/90025c74.ext.json)
+
+---
+
+### 7 crore robbery - suspect arrested
+
+*2024-11-20 09:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-கோடி-கொள்ளை-சந்தேகநபர்-கைது/175-347477) · `ta`
+
+Arrest made in 7 crore robbery case: Suspect caught, 31 million rupees recovered, 5 grams of ice seized. Driver flees with money in van, abandoning it later.
+
+🟩
+
+A suspect has been arrested in connection with the robbery of a driver of a private company that is safely carrying money.
+
+The Gampaha Divisional Criminal Investigation Division and the Minuwangoda Police have arrested the suspect in the Kaduwangaha area in Gampaha yesterday afternoon.
+
+During his arrest, 5 grams of 420 milligrams of ice was seized from him, and 31,515,291 rupees was recovered from the looted money.
+
+A 35 -year -old man has been arrested.
+
+A group of four officials of a private company that takes money safely went to a private bank in Minuwangoda with a wallet yesterday morning.
+
+After approaching the bank, the driver was only in the van, police said.
+
+At the time, the driver had fled the vehicle with the money in the van with a cash of Rs 7 crore 13 lakhs 27 thousand 296 rupees.
+
+He then abandoned the van in the Gampaha Ukkalgoda area and fled with another man on a motorcycle.. Remble
+
+◼️
+
+[Data](articles/357bca46.json)
+
+[Extended Data](ext_articles/357bca46.ext.json)
+
+---
+
+### Ukraine fires several US-made longer-range missiles into Russia for the first time
+
+*2024-11-20 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103625/ukraine-fires-several-us-made-longer-range-missiles-into-russia-for-the-first-time) · `en`
+
+Ukraine fired several American-supplied longer-range missiles into Russia, officials said Tuesday, marking the first time Kyiv used the weapons that way in 1,000 days of war.
+
+The use of the Army Tactical Missile System, known as ATACMS, came as Russian President Vladimir Putin formally lowered the threshold for using nuclear weapons, opening the door to a potential nuclear response by Moscow to even a conventional attack by any nation supported by a nuclear power. That could include Ukrainian attacks backed by the U.S.
+
+A Telegram channel affiliated with the Ukrainian military posted a video Tuesday that it says shows U.S.-supplied ATACMS missiles being fired from an undisclosed location in Ukraine. The Associated Press could not independently verify the date and location the video was filmed.
+
+...
+
+[Data](articles/19458436.json)
+
+[Extended Data](ext_articles/19458436.ext.json)
+
+---
+
+### Ukraine launched US missiles
+
+*2024-11-20 08:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஏவுகணைகளை-ஏவியது-உக்ரைன்/50-347476) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+US missiles fired from Ukraine hit Russia's north border. Russia claims 5 shot down, 1 damaged. US says only 2 out of 8 Ukrainian-launched missiles were blocked by Russia. Discrepancies in reported missile counts and effectiveness.
+
+🟩
+
+The Russian Defense Ministry said the missile attack was launched on the northern Ukraine border.
+
+It has been reported that 5 missiles have been shot down and a missile damaged.
+
+However, the US said only two of the 8 missile attacks launched by Ukraine were blocked by Russian side.
+
+◼️
+
+[Data](articles/cd69f635.json)
+
+[Extended Data](ext_articles/cd69f635.ext.json)
+
+---
+
+### Fairly heavy showers expected in parts of the island
+
+*2024-11-20 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103624/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers or thundershowers will occur at times in the Northern and Eastern provinces.
+
+Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
+
+Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, according to the Met. Department.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning, the department added.
+
+Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0a7e059d.json)
+
+[Extended Data](ext_articles/0a7e059d.ext.json)
+
+---
+
+### Mannar incident;What is the next step?
+
+*2024-11-20 08:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சம்பவம்-அடுத்தகட்ட-நடவடிக்கை-என்ன/72-347475) · `ta`
+
+Here's a summary of the incident in 200 characters:
+
+
+
+Mannar: Woman & unborn fetus die at hospital. Relatives claim neglect. Autopsy planned. Investigation ongoing. Cause of death pending.
+
+🟩
+
+The mother and the fetus, who was admitted to the Mannar District General Hospital, died yesterday after the death of the infantry.
+
+A 28 -year -old woman from Mannar - Pattittottam area is reported to have died.
+
+Relatives allege that the woman was suffering from shortness of breath.
+
+Her relatives have accused the woman and the fetus of the hospital due to lack of attention.
+
+The Mannar District Health Services Director said,
+
+He said that arrangements have been made for autopsy and a proper investigation into the incident will be held.The Mannar District Health Services Director General said that after the autopsy, he could find the cause of his death.. Remble
+
+◼️
+
+[Data](articles/f78108f6.json)
+
+[Extended Data](ext_articles/f78108f6.ext.json)
+
+---
+
+### Medagoda Avatissa alert
+
+*2024-11-20 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203549) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Professor Medagoda Atawatissa Thero warns about ongoing conspiracies against national interests. He emphasizes that current challenges are opportunities rather than crises. He cautions against ignoring the national movement and warns of continued threats from internal and external enemies."
+
+🟩
+
+Professor Salary Medagoda Atawatissa Thero says that the conspiracies of forces against forces should be constantly focused.
+
+He was speaking at a program held in Colombo yesterday.
+
+"Now there's a little idea, people in our national ideology are now a challenge, no crisis. If such a crisis is good. It is also a boast of thirty years and that some kind of international and local enemy's performance has become a new government. The enemy wanted the enemy to build a rich country, a rich country, a prosperous country. Therefore, we should not forget that the head of the enemy is still in the same way. Maybe come through a different operation. But we should clearly understand that if there is no more stupid if you want to ignore the national movement that should be ignored. "
+
+◼️
+
+[Data](articles/dfd2550d.json)
+
+[Extended Data](ext_articles/dfd2550d.ext.json)
+
+---
+
+### Heigada kiritha goes out of the world
+
+*2024-11-20 07:54:22* · [`adalk`](https://www.ada.lk/opinion/හීන්තුඩු-කලිත්තා-ලෝකයෙන්-යන්නම-යයි/2-413160) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Heigada kiritha" refers to a phenomenon where the border of "zerndaduum" (likely a typo for "zero point") has worsened in Europe and North Africa. This affects bird migrations and habitats. The World Conservation Organization reports declining bird populations, with 164 species endangered. Ecologists attribute this to environmental factors and climate change.
+
+🟩
+
+The latest scientifically, the border of the border of zerndaduum tendird curlers, which is inherently endemic to Europe and northern African countries, has become worse in November 2024.
+
+This scientific report also revealed that the migration banning of the migration leading around the winter season, marshy land, the winter border, the last end of the winter seas.
+
+The World Conservation Organization (WHO) has shown that the first global (IUCN) is the first global bird of Europe, North Africa and Western territories.
+
+World Conservation Organization says that 164 birds have been worried about over 11,000 species of birds from the World Conservation Organization (IUCN).. They further states that 16 other bird species living in the beach area have identified the bird species of heavy positions.
+
+The Head of the Institute (R.P.B./ bird Life) Mr. Nicola Crockforard said that this is one of the most abundant and extreme devastating story of the world.
+
+...
+
+[Data](articles/33acc988.json)
+
+[Extended Data](ext_articles/33acc988.ext.json)
+
+---
 
 ### 75 millimeters of rain today
 
@@ -75,6 +491,60 @@ SSP Spokesperson SSP Spokesperson Senior Lecturer Charged Charta Ilangasinghe,
 [Data](articles/cedba6df.json)
 
 [Extended Data](ext_articles/cedba6df.ext.json)
+
+---
+
+### 18 arrested for passport to take passport
+
+*2024-11-20 07:38:02* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ලේඛන-රැගෙන-පාස්පෝට්-ගන්න-ආපු-18-ක්-අත්අඩංගුවට/11-413159) · `si`
+
+18 arrested for passport fraud: 20 women detained for fake aviation licenses at Sri Lanka's immigration department.
+
+🟩
+
+Twenty women, including 12 women, arrived at the Department of Immigration and Emigration to the Department of Immigration and Emigration, Battaramulla has been arrested for obtaining aviation license to obtain passports.
+
+The Western Province official seal and DIG, DIG, the Western Province, the Western Province, the Western Province, the Western Province, the UPFA have seized the date of the Natural seal of the South District Secretariat.
+
+According to the Department of Immigration and Emigration, the Department of Immigration and Emigration and the Department of Immigration and Emigration had been informed yesterday (19) and a few days ago.
+
+.Egry writings contacted by the persons outside the emigration of the Immigration and Emigration Chief Inspector Jr.. K. Police said that the DIG Eastern Province of Western Province Western Province and the documents of the suspects and the suspects were contacted by a team of other officers.
+
+...
+
+[Data](articles/820bb4a3.json)
+
+[Extended Data](ext_articles/820bb4a3.ext.json)
+
+---
+
+### Contractor arrested for the death of the worker
+
+*2024-11-20 07:29:30* · [`adalk`](https://www.ada.lk/breaking_news/කම්කරුවාගේ-මරණයට-කොන්ත්‍රාත්කරු-අල්ලයි/11-413158) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Contractor (24) arrested for fatal accident: Worker (38) died when wall collapsed during renovation in Kolupitiya. Suspect from Nugegoda; case to be heard in court. Investigation ongoing under Kollupitiya Police OIC.
+
+🟩
+
+Kolupitiya Police say that a person was killed after a wall of the 25th Lane of Kollupitiya.
+
+The deceased has been identified as a 38 year old resident of Namunula Arawatta. The 24-year-old contractor has been arrested by the police.
+
+While the deceased was carrying out an old building at the above address. The police states that the police staten were observed that no action has been adopted by the Contractor's employees.
+
+The event has been revealed that the death was caused by the contractor. The contractor said that the contractor was arrested. The suspect is a resident of Nugegoda.
+
+The suspect is to be produced in court. Investigations are conducted on the instructions of the Kollupitiya Police OIC of the Kollupitiya Police.
+
+◼️
+
+[Data](articles/47d9ab8e.json)
+
+[Extended Data](ext_articles/47d9ab8e.ext.json)
 
 ---
 
@@ -230,6 +700,8 @@ Key areas of focus outlined by the chamber include eradicating corruption, promo
 
 [Data](articles/f1fbaa54.json)
 
+[Extended Data](ext_articles/f1fbaa54.ext.json)
+
 ---
 
 ### Lanka Confectionery Manufacturers Associations extends well wishes to President and new Cabinet
@@ -248,6 +720,8 @@ He also said that LCMA is keen on working closely with the new Government to exp
 
 [Data](articles/429b9fae.json)
 
+[Extended Data](ext_articles/429b9fae.ext.json)
+
 ---
 
 ### Indo Lanka Chamber of Commerce and Industry extends congratulations to new Govt.
@@ -261,6 +735,8 @@ ILCCI is confident that, under the dynamic and astute leadership of the new Gove
 ...
 
 [Data](articles/207dcb3d.json)
+
+[Extended Data](ext_articles/207dcb3d.ext.json)
 
 ---
 
@@ -277,6 +753,8 @@ The Association also extended its congratulations and best wishes to the newly e
 ...
 
 [Data](articles/d5549629.json)
+
+[Extended Data](ext_articles/d5549629.ext.json)
 
 ---
 
@@ -346,6 +824,8 @@ N. Udayakumar and Dr. Arosha Fernando have been nominated as the new Joint Manag
 
 [Data](articles/7730df88.json)
 
+[Extended Data](ext_articles/7730df88.ext.json)
+
 ---
 
 ### Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics
@@ -359,6 +839,8 @@ There is magic in the air! The country is in a festive mood. The toast of the to
 ...
 
 [Data](articles/478e5a46.json)
+
+[Extended Data](ext_articles/478e5a46.ext.json)
 
 ---
 
@@ -374,6 +856,8 @@ The resounding victory of the National People’s Power (NPP) marks the beginnin
 
 [Data](articles/9fc82c32.json)
 
+[Extended Data](ext_articles/9fc82c32.ext.json)
+
 ---
 
 ### The people have spoken: Can the NPP transform promises into progress?
@@ -388,21 +872,33 @@ The 2024 Sri Lankan general election marks a potential turning point in the nati
 
 [Data](articles/6e6fa8a7.json)
 
+[Extended Data](ext_articles/6e6fa8a7.ext.json)
+
 ---
 
-### அமெரிக்கா வழங்கிய நீண்டதூர ஏவுகணைகளை பயன்படுத்தியது உக்ரைன் - ரஸ்யா மீது தாக்குதல்
+### Ukraine -Russia used long -term missiles provided by the US
 
 *2024-11-20 05:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199195) · `ta`
 
-அமெரிக்கா வழங்கிய நீண்டதூர ஏவுகணையை பயன்படுத்தி உக்ரைன் ரஸ்யா மீது முதல் தடவை தாக்குதலை மேற்கொண்டுள்ளது.
+Here's a summary in 200 characters:
 
-உக்ரைனின் வடபகுதி எல்லையில் உள்ள பிரையான்ஸ்க் பகுதியை உக்ரைன் இலக்குவைத்துள்ளதாக தெரிவித்துள்ள ரஸ்ய அதிகாரிகள் ஐந்து ஏவுகணைகளை சுட்டு வீழ்த்தியுள்ளதாகவும் ஒன்றின் சிதறல்கள் இராணுவ தளமொன்றின் மீது விழுந்து  வெடித்ததில் சேதங்கள் ஏற்பட்டுள்ளதாகவும் தெரிவித்துள்ளது.
 
-எனினும் உக்ரைன் செலுத்திய எட்டு ஏவுகணைகளில் இரண்டை ரஸ்யா இடைமறித்து அழித்துள்ளதாக தெரிகின்றது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+US-supplied long-range missiles used by Ukraine in attack on Russia. Russia intercepts 2 out of 8 missiles, causing damage to military base.
+
+🟩
+
+Ukraine has launched a first -time attack on Russia, using a long -term missile provided by the US.
+
+Russian officials who have targeted the Bryansk region on the northern border of Ukraine have shot down five missiles and have caused damage to the explosion of a military base.
+
+However, US officials say that Russia has intercepted and destroyed two of the eight missiles laid by Ukraine.
 
 ◼️
 
 [Data](articles/8c885eee.json)
+
+[Extended Data](ext_articles/8c885eee.ext.json)
 
 ---
 
@@ -418,6 +914,22 @@ The question ‘who is eligible to be appointed as a Minister?’ is unanswerabl
 
 [Data](articles/6e9ba583.json)
 
+[Extended Data](ext_articles/6e9ba583.ext.json)
+
+---
+
+### History Is Going To Repeat Again: Lifting Ban On Vehicle Imports Could Trigger It
+
+*2024-11-20 05:39:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/history-is-going-to-repeat-again-lifting-ban-on-vehicle-imports-could-trigger-it/) · `en`
+
+History is going to repeat again. It is going to begin on 01 February 2025, with the lifting of import ban on passenger vehicles. With the blessing of the governor of the central bank, the government has already promised to remove the import restrictions of vehicles on February 01, 2025. On that day, it will begin to set the necessary conditions for a full-blown crisis again, possibly within a year or so. If the unrealized demand for vehicles for the past few years is accounted, the crisis could even begin within months.
+
+This time only advisors are different. Previously, it was Dr. PB Jayasundera, president’s secretary of Gotabaya Rajapaksa and Ajith Nivard Cabraal, the former governor of the central bank. This time the advisors are Dr. Nandalal Weerasinghe, the incumbent governor of the central bank and the Director General of customs.
+
+...
+
+[Data](articles/bb4ca7e8.json)
+
 ---
 
 ### Purge of human jobs: How to profit from AI disruption
@@ -429,6 +941,8 @@ The rise of AI and soon AGI, is truly amazing. The investments that have poured 
 ...
 
 [Data](articles/a75433ca.json)
+
+[Extended Data](ext_articles/a75433ca.ext.json)
 
 ---
 
@@ -446,6 +960,8 @@ One of the key demands comes from the Tamil Progressive Alliance (TPA), an SJB a
 
 [Data](articles/64202a50.json)
 
+[Extended Data](ext_articles/64202a50.ext.json)
+
 ---
 
 ### Dr. Nalinda Jayatissa new Cabinet Spokesman
@@ -461,6 +977,8 @@ The meeting took place at the Presidential Secretariat yesterday morning, the Pr
 ◼️
 
 [Data](articles/ab96b1bc.json)
+
+[Extended Data](ext_articles/ab96b1bc.ext.json)
 
 ---
 
@@ -491,6 +1009,44 @@ U.G. Ranjith Ariyaratne – Secretary to the Minister of Urban Development, Cons
 [Data](articles/549d4ee6.json)
 
 [Extended Data](ext_articles/549d4ee6.ext.json)
+
+---
+
+### How was the Parliament broadcast to the greatest women's representation?
+
+*2024-11-20 03:48:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6vld05gj5o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's 2020 parliamentary election saw record-breaking women's representation. 22 women were elected, including 19 through preferential voting. This improved Sri Lanka's global ranking from 175th to 166th in female representation. Women's issues like sanitation and healthcare gained attention due to their presence in Parliament.
+
+🟩
+
+How was the Parliament broadcast to the greatest women's representation?
+
+At the general election, 22 women have been elected to a new page.
+
+However, several parties, including the reconciliation force, have not yet been named their national lists.
+
+Accordingly, the number of MPs selected for a Parliament will represent the Parliament this year.
+
+Of the women's candidates contesting with national power and congenic force, 21 have been elected to the Parliament and elected to Parliament.
+
+In the national propagation, 19 women and 2 women have won the preferential votes in harmony community.
+
+A woman has been appointed to one seat with national lists of national population.
+
+Dr. Harini Amarasuriya, who was sworn in as the Prime Minister of the Prime Minister for the second time (November 18), was held in Colombo District.
+
+Former Prime Minister Mahinda Rajapaksa has won the highest number of preferential number of preferential votes taken in a general election.
+
+...
+
+[Data](articles/49db79de.json)
+
+[Extended Data](ext_articles/49db79de.ext.json)
 
 ---
 
@@ -772,6 +1328,8 @@ The CIPD Annual Conference and Exhibition (CIPD ACE) 2024 which was held in Manc
 
 [Data](articles/31deb7e9.json)
 
+[Extended Data](ext_articles/31deb7e9.ext.json)
+
 ---
 
 ### Mediclinic rebrands as MyClinic by Hemas Hospitals
@@ -783,6 +1341,8 @@ The well-known healthcare services hub and primary care centre in Wellawatte, Me
 ...
 
 [Data](articles/f4fcbfc3.json)
+
+[Extended Data](ext_articles/f4fcbfc3.ext.json)
 
 ---
 
@@ -830,6 +1390,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/15426394.json)
 
+[Extended Data](ext_articles/15426394.ext.json)
+
 ---
 
 ### Korea Lanka School of Hospitality closes applications for new semester on Nov 27
@@ -850,6 +1412,8 @@ The institute emphasises on theory and practical training which includes teachin
 
 [Data](articles/277e67b1.json)
 
+[Extended Data](ext_articles/277e67b1.ext.json)
+
 ---
 
 ### CSE investors in suspenseful wait over next IMF tranche as indices dip
@@ -867,6 +1431,26 @@ Yesterday the All Share Price Index went down by 104.8 points while S and P SL20
 ...
 
 [Data](articles/d75e06d8.json)
+
+[Extended Data](ext_articles/d75e06d8.ext.json)
+
+---
+
+### Met. Dept warns of possible low-pressure area nearing Sri Lanka’s Eastern coast
+
+*2024-11-19 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103623/met-dept-warns-of-possible-low-pressure-area-nearing-sri-lankas-eastern-coast-) · `en`
+
+The Department of Meteorology has announced that a low-pressure area is likely to form over southeast Bay of Bengal around 23 November.
+
+Thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent 2 days. The system may intensify further and move near the Eastern coast of Sri Lanka, it added.
+
+Accordingly, naval and fishing communities, engaging activities over South-west Bay of Bengal and the general public, particularly living in the Eastern and Northern provinces are requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regards.
+
+◼️
+
+[Data](articles/1ca4cb34.json)
+
+[Extended Data](ext_articles/1ca4cb34.ext.json)
 
 ---
 
@@ -887,6 +1471,26 @@ This is for further strengthening the financial sector of Sri Lanka.
 [Data](articles/1b4c6af7.json)
 
 [Extended Data](ext_articles/1b4c6af7.ext.json)
+
+---
+
+### ADB approves USD 200 mln loan to strengthen Sri Lanka’s financial sector reforms
+
+*2024-11-19 21:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/103622/adb-approves-usd-200-mln-loan-to-strengthen-sri-lankas-financial-sector-reforms) · `en`
+
+The Asian Development Bank (ADB) today approved a $200 million policy-based loan to further help the Government of Sri Lanka strengthen its financial sector.
+
+This second subprogram of ADB’s Financial Sector Stability and Reforms Program builds on the stabilization and crisis management measures put in place under the first subprogram approved in 2023, a statement said.
+
+“Sri Lanka has made good progress in stabilizing macroeconomic conditions and improving the fiscal situation. ADB is helping the country establish long-term growth by introducing and institutionalizing structural reforms in its financial sector,” said ADB Country Director for Sri Lanka Takafumi Kadono.
+
+“This subprogram reinforces ADB’s support in strengthening the governance of the banking sector and expanding financial inclusion in Sri Lanka to achieve sustainable recovery from economic crisis, resilience, and poverty alleviation.”
+
+...
+
+[Data](articles/1a223faf.json)
+
+[Extended Data](ext_articles/1a223faf.ext.json)
 
 ---
 
@@ -1029,6 +1633,24 @@ Ravi Karunanayake's move is a complete violation of the United National Party (U
 [Data](articles/9d9b0262.json)
 
 [Extended Data](ext_articles/9d9b0262.ext.json)
+
+---
+
+### Ranjith Madduma Bandara’s name gazetted as SJB National List MP
+
+*2024-11-19 20:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103621/ranjith-madduma-bandaras-name-gazetted-as-sjb-national-list-mp) · `en`
+
+The Election Commission of Sri Lanka has issued a Gazette notification declaring that the General Secretary of the Samagi Jana Balawegaya (SJB), Ranjith Madduma Bandara, has been elected as a Member of Parliament through the National List of the SJB.
+
+Following the general election held on November 14, the SJB secured five National List seats.
+
+While Ranjith Madduma Bandara has been named for one of the positions, nominations for the remaining four seats are yet to be finalized.
+
+◼️
+
+[Data](articles/6e533efa.json)
+
+[Extended Data](ext_articles/6e533efa.ext.json)
 
 ---
 
@@ -1186,7 +1808,7 @@ In the general election held on November 14, reconciliation won five national li
 
 *2024-11-19 19:00:00* · [`economynextcom`](https://economynext.com/hisham-jamaldeen-leaves-boards-of-sri-lankas-hayleys-companies-188598/) · `en`
 
-ECONOMYNEXT – Hisham Jamaldeen has resigned from the boards of Hayleys Plc companies, Singer (Sri Lanka) Plc, Haycarb Plc and Talawakelle Tea estates Plc, the company said in a stock exchange filling.
+ECONOMYNEXT – Hisham Jamaldeen has resigned from the boards of Hayleys Plc companies, Singer (Sri Lanka) Plc, Haycarb Plc and Talawakelle Tea estates Plc, the company said in stock exchange filings.
 
 Jamaldeen was a non-executive director. His resignation is effective from November 14.
 
@@ -1204,25 +1826,37 @@ Jamaldeen is on the boards of many listed companies in Sri Lanka.
 
 ---
 
-### මැතිවරණයෙදී ප්‍රචාරණ වියදම රු. මිලියන 2000 ඉක්මවලා
+### Advertising costs Rs. Over 2000 million
 
 *2024-11-19 18:54:52* · [`adalk`](https://www.ada.lk/breaking_news/මැතිවරණයෙදී-ප්‍රචාරණ-වියදම-රු--මිලියන-2000-ඉක්මවලා/11-413155) · `si`
 
-පාර්ලිමේන්තු මැතිවරණයේදී සියලුම අපේක්ෂකයන් හා දේශපාලන පක්ෂ, ස්වාධීන කණ්ඩායම් මාධ්‍ය යොදාගෙන ප්‍රචාරක කටයුතු කිරීමට රුපියල් මිලියන දෙදහසකට ආසන්න මුදලක් වැය කර තිබෙන බව ප්‍රජාතන්ත්‍රීය ප්‍රතිසංස්කරණ සහ මැතිවරණ අධ්‍යයන ආයතනය සඳහන් කරයි.
+Here's a summary of the text in approximately 200 characters:
 
-විවිධ මාධ්‍යයන් භාවිත කරමින් ප්‍රචාරක කටයුතු සිදුකිරීම සඳහා මෙම මුදල් වැය කර තිබෙන බවත්, නිරීක්ෂණ සංවිධාන නියෝජතයන් විසින් මුදල් වියදම් කිරීම පිළිබඳව අධීක්ෂණය කළ බවද එම සංගමයේ විධායක අධ්‍යක්‍ෂ මංජුල ගජනායක මහතා සඳහන් කළේය.
 
-අදාළ නිරීක්ෂණවල වාර්තා මේ වන විට සකස් කරමින් තිබෙන බවත්, අපේක්ෂකයන්, පක්ෂ හා ස්වාධීන කණ්ඩායම්වල වියදම් වාර්තා මැතිවරණ කොමිසමට හා තේරීම් භාර නිලධාරීන්ට භාර දුන් පසු නිරීක්ෂණ සංවිධානවල වාර්තා එළිදක්වන බවද පැවසීය.
 
-ප්‍රතිඵල නිකුත් කිරීමෙන් පසු ගෙවීගිය දින තුනක කාලය ඉතාමත් සාමකාමී ලෙස පැවති බවත්, මෙය ඉතාමත් හොඳ තත්ත්වයක් බවද සඳහන් කළේය.
+Election advertising costs over 2 billion rupees. Election observers report propaganda spending. Post-election period peaceful but essential services personnel couldn't vote. Authorities urged to prevent future voting restrictions.
 
-මැතිවරණ ඉතිහාසය සැලකීමේදී පශ්චාත් මැතිවරණ කාලයේදී ඉතාමත් සාමකාමීව පැවති දින තුන මෙය බවද කියා සිටියේය.
+🟩
 
-සතියේ දිනක මැතිවරණය පැවැත්වීම නිසා අත්‍යවශ්‍ය සේවාවල නිරත පිරිස්වලට ඡන්දය භාවිත කිරීමට නොහැකි වූ බවද පැවසීය.
+The Elections Study of Reforms and Elections Study have also stated that almost Rs.
 
-...
+The Executive Director of the Union said that the money has been spent to carry out the propaganda and expenditure by the representatives of the observation organizations.
+
+The reports from the relevant observations are being prepared and the reports of the election commission and the selection of the expenditure in charge of the selection reports are unveiled.
+
+After the results of the results, the last three days of the past three days were very peaceful, it was very good.
+
+This was the three peaceful three days during the post-post-election three days.
+
+He said that the election of the week was unable to vote for the personnel of essential services.
+
+Therefore, the authorities should intervene and formulate a system to prevent this situation in future elections.
+
+◼️
 
 [Data](articles/a30496ec.json)
+
+[Extended Data](ext_articles/a30496ec.ext.json)
 
 ---
 
@@ -1476,6 +2110,36 @@ Ranarajah, an experienced professional who has over 25 years, has held many impo
 
 ---
 
+### New Secretaries to Ministries, PM and Cabinet appointed
+
+*2024-11-19 18:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/103620/new-secretaries-to-ministries-pm-and-cabinet-appointed) · `en`
+
+The appointment of the new Secretary to the Prime Minister, the Cabinet Secretary and Secretaries for 16 Ministries was held at the Presidential Secretariat in Colombo today (19).
+
+The ceremony was officiated by the Secretary to the President, Dr. Nandika Sanath Kumanayake, the President’s Media Division (PMD) said.
+
+03. Senior Prof. Kapila C.K. Perera - Ministry of Transport, Highways, Ports and Civil Aviation
+
+04. Mr. K.M.M. Siriwardana - Ministry of Finance, Planning and Economic Development
+
+05. Mrs. J.M. Thilaka Jayasundara - Ministry of Industry and Entrepreneurship Development
+
+06. Mr. A.M.P.M. B. Atapattu - Ministry of Buddhasasana, Religious and Cultural Affairs
+
+07. Mr. B.K. Prabath Chandrakeerthi - Ministry of Plantation and Community Infrastructure
+
+09. Mr. D.W.R.B. Seneviratne - Ministry of Public Security and Parliamentary Affairs
+
+10. Mr. U. G. Ranjith Ariyaratne - Minister of Urban Development, Construction and Housing
+
+...
+
+[Data](articles/47c997da.json)
+
+[Extended Data](ext_articles/47c997da.ext.json)
+
+---
+
 ### Bhutan – Moving towards citizen engagement in policymaking
 
 *2024-11-19 18:00:00* · [`economynextcom`](https://economynext.com/bhutan-moving-towards-citizen-engagement-in-policymaking-188739/) · `en`
@@ -1634,6 +2298,24 @@ To get the fertilizer required for paddy cultivation in high season. 25,000 fert
 
 ---
 
+### Eight Bangladeshis arrested without valid visas
+
+*2024-11-19 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/103619/eight-bangladeshis-arrested-without-valid-visas) · `en`
+
+Eight foreign nationals who were residing in the country without valid visas in violation of immigration and emigration regulations have been arrested in the Andiambalama area of Katunayake.
+
+Police stated that the suspects were arrested during a raid carried out by the Katunayake Police after receiving a tip-off that a group of foreigners was residing at a tourist hotel in the Andiambalam area without valid visas.
+
+The group includes eight Bangladeshi nationals aged between 20 and 30 years, according to police.
+
+◼️
+
+[Data](articles/3e2972cd.json)
+
+[Extended Data](ext_articles/3e2972cd.ext.json)
+
+---
+
 ### We will take steps to protect the independence of the judiciary - New Justice Minister Harshana Nanayakkara
 
 *2024-11-19 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199175) · `ta`
@@ -1681,613 +2363,5 @@ Also, Nihal Galappaththi joins history as the first member of the National Rescu
 [Data](articles/761ed290.json)
 
 [Extended Data](ext_articles/761ed290.ext.json)
-
----
-
-### Gajendrakumar Ponnambalam Satyapramanam in Mullivaikkal Memorial
-
-*2024-11-19 17:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/199173) · `ta`
-
-Gajendrakumar Ponnambalam visits Mullivaikkal Memorial. He attended Heroes' Tuli and took an oath related to rights. Former MP Selvarasa Gajendran and party members were present.
-
-🟩
-
-Tamil National People's Front leader Gajendrakumar Ponnambalam, who won the last parliamentary election held (14), went to the Heroes' Tuil and Mullivaikkal Memorial in Mullivaikkal on Tuesday (19).
-
-Parliamentarian Gajendrakumar Ponnambalam, who contested on behalf of the Sri Lanka Tamil Congress Party in the Jaffna and Kilinochchi elections held on November 14, went to the Mullivaikkal Home at 12.45 pm and went to the Mullaivakkal Nirvaru Nirvarikkalum in the last night.All the political members of the Mullivaikkal soil, which had been racially, had taken the oath of truth in connection with the steps to be taken for the right to travel.
-
-Former parliamentarian Selvarasa Gajendran, and many members of the party and party supporters were present during the Anjali.
-
-◼️
-
-[Data](articles/2d8e73d2.json)
-
-[Extended Data](ext_articles/2d8e73d2.ext.json)
-
----
-
-### A proposal to remove MP privileges
-
-*2024-11-19 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203536) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-MP Hesha Vithana proposes removing MP privileges. He suggests eliminating perks like free meals, housing allowances, and vehicle benefits. The proposal aims to strengthen national power and reduce unnecessary expenses for lawmakers.
-
-🟩
-
-MP Hesha Vithana said that he would bring a private member proposal to remove the privileges of MPs after the new Parliament met.
-
-He points out that the new culture is being brought to strengthen the new president and the national power.
-
-"We too have no favorite for some privileges. Complete the morning and lunch that gives Members of Parliament. We'll get out of the house if necessary. "
-
-"If you are given the official residents of Colombo, apply on rent. Give it to the Mahapola Fund. "
-
-"The basic salary of a Member of Parliament is Rs. 54,285. If you don't, do this a respectful service. Stop all, including vehicle offers. "
-
-"Give Madiwela Parliamentary MPs as a hostel facilities for the hostel facilities."
-
-"Start this before 21th. Because 21 When giving out the house is not able to do this after. So start. "
-
-◼️
-
-[Data](articles/e08a4f9f.json)
-
-[Extended Data](ext_articles/e08a4f9f.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 291.00/15 to dollar, bonds stable
-
-*2024-11-19 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-291-00-15-to-dollar-bonds-stable-188780/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 291.00/15 to the US dollar on Tuesday from 291.35/45 to the US dollar on Monday dealers said, while bond yields were up.
-
-A bond maturing on 15.12.2026 closed at 10.25/40 percent, up from 10.25/35 percent.
-
-A bond maturing on 15.12.2027 closed at 10.90/11.05 percent, up from 10.75/90 percent.
-
-A bond maturing on 15.02.2028 closed at 11.15/20 percent. up from 11.10/20 percent.
-
-A bond maturing on 15.09.2029 closed at 11.40/55 percent, up from 11.25/40 percent.
-
-The central bank announced it would issue Rs 145,000 million Treasury bills through an auction on 20th November. (Colombo/Nov19/2024)
-
-◼️
-
-[Data](articles/4ffd73f5.json)
-
-[Extended Data](ext_articles/4ffd73f5.ext.json)
-
----
-
-### There is no abolition of the fuel pricing
-
-*2024-11-19 16:50:29* · [`adalk`](https://www.ada.lk/breaking_news/ඉන්ධන-මිල-සූත්‍රය-අහෝසි-කිරීමක්-නෑ/11-413150) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Energy Minister Kumara Jayakody states no need to abolish fuel prices. He believes the current pricing system is good but may need revision to reduce costs. The Ministry is exploring options to lower fuel prices while maintaining an effective pricing formula.
-
-🟩
-
-Energy Minister's Engineering Kumara Jayakody said that the descendants of a fuel pricing was good and considered whether it should be amended.. He said this after the commencement of the Ministry.
-
-"No need to abolish the fuel prices. We're looking for what to be. It's good to have a fuel price formula. It is possible to revise it. We think newly. We're trying to reduce fuel prices "
-
-◼️
-
-[Data](articles/62222ff1.json)
-
-[Extended Data](ext_articles/62222ff1.ext.json)
-
----
-
-### Virus, dengue fever spread among children - Specialist specialist
-
-*2024-11-19 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199168) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Viral fever & dengue spreading among children. Symptoms: cough, colds, body pain, vomiting. Fever lasting >3 days requires medical attention. HFMD spreads in schools. Look for white blisters in mouth/palms/toes and brown/red skin with itching. Consult doctors if fever persists. Dengue death rate is 0.1%, requiring special care.
-
-🟩
-
-Deepal Perera, a specialist specialist in the country, said that viral fever and dengue are spreading among children in the country.
-
-Symptoms of viral fever, such as coughing, colds, body pain and occasional vomiting among children.
-
-If the fever lasts for more than three days among children, parents should look at the symptoms of the disease and seek the help of doctors.
-
-Hand, foot and mouth disease (HFMD) is currently spreading among schoolchildren.
-
-Parents should observe whether there are signs of white blisters, as well as in the mouth of the children's palms and toes, around the mouth or in the upper butch, as well as signs of brown or red skin and itching in the mouth.
-
-Parents have been informed that some of these symptoms are similar to the symptoms of influenza, so it is necessary to obtain medical advice if the fever continues.
-
-Dengue fever death Vikim is 0.1 percent hazardous possibilities, so it requires special attention
-
-...
-
-[Data](articles/f8cf9552.json)
-
-[Extended Data](ext_articles/f8cf9552.ext.json)
-
----
-
-### ලිට්‍රෝ ගෑස් බලශක්ති අමාත්‍යාංශය යටතට
-
-*2024-11-19 16:44:25* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-බලශක්ති-අමාත්‍යාංශය-යටතට/11-413149) · `si`
-
-රජය සතු ප්‍රමුඛතම ව්‍යාපාරයක් වන ලිට්‍රෝ ගෑස් සමාගම බලශක්ති අමාත්‍යාංශය යටතට ගැසට් කිරීමට රජය තීරණය කර තිබේ. බලශක්ති අමාත්‍යාංශය යටතට විදුලි බල මණ්ඩලය මෙන්ම ඛනිජ තෙල් නීතිගත සංස්ථාවද ඇතුළත් වෙනු ඇත.
-
-◼️
-
-[Data](articles/8141d4fa.json)
-
----
-
-### Elderly man arrested with foreign gun and bullets
-
-*2024-11-19 16:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/199159) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Elderly man (70) arrested in Kandy with foreign firearm & bullets. Police seized 12 rifles, 6 bullets during raid.
-
-🟩
-
-An elderly man has been arrested on Monday (18) with a firearm manufactured abroad in the Dunuvila area, which belongs to the Alawathugoda police division, Kandy, Alawatukoda police said.
-
-The suspect has been arrested during a raid carried out on the basis of information received by the Alawatukoda police.
-
-The arrested suspect is a 70 -year -old elderly man who lives in Akkuranna, Kandy.
-
-Police have seized 12 rifles and six bullets from the suspect.
-
-◼️
-
-[Data](articles/3ed2e956.json)
-
-[Extended Data](ext_articles/3ed2e956.ext.json)
-
----
-
-### Sri Lanka’s new Public Security Minister promises depoliticized, independent police
-
-*2024-11-19 16:39:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-public-security-minister-promises-depoliticized-independent-police-188765/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly appointed Public Security Minister Ananda Wijepala promised to stop political interference in police matters and ensure independence for the police to implement law and order.
-
-In his inaugural comments after assuming office as the Minister of Public Security which oversees police, passport and national identity card issuance said he will rectify the past concerns raised by the public.
-
-Wijepala won the November 14 presidential poll under the ruling National People’s Power (NPP) in the Northwestern district of Kurunagala.
-
-“One of the key promises among the many promises (by NPP) is establishing the rule of law in this country as well as bringing in justice and fairness to this country,” Wijepala, former Private Secretary to President Anura Kumara Dissanayake and National Organizer of the NPP’s National Intellectual Organization, told reporters in his first press conference as the Minister.
-
-...
-
-[Data](articles/4933d5d6.json)
-
-[Extended Data](ext_articles/4933d5d6.ext.json)
-
----
-
-### Sri Lanka’s Foreign Employment Bureau Must End The Humiliation Of Travelers
-
-*2024-11-19 16:35:31* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-foreign-employment-bureau-must-end-the-humiliation-of-travelers/) · `en`
-
-The Foreign Employment Bureau (FEB) at Sri Lanka’s Bandaranaike International Airport is under fire for subjecting first-time travelers to invasive and humiliating checks, often reducing excited travelers to distressed victims of bureaucratic power plays. The ostensible purpose behind these checks is to prevent unauthorized employment abroad, but in reality, these practices target innocent passengers on visit visas, stripping them of their dignity and treating them as though they are presumed criminals. This troubling trend has only worsened, with mounting calls for the new government to urgently step in and restore travelers’ rights.
-
-...
-
-[Data](articles/361b5b23.json)
-
-[Extended Data](ext_articles/361b5b23.ext.json)
-
----
-
-### Kanchana Wijesekera to be tabled in Parliament
-
-*2024-11-19 16:29:14* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-විජේසේකර-ජාතික-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413148) · `si`
-
-Kanchana Wijesekera to be appointed to two national list seats in New Democratic Front. Defeated in Matara district. Ravi Karunanayake controversy over party seat allocation.
-
-🟩
-
-Former Minister Kanchana Wijesekara is to be appointed to a seat for each of the two national list seats in the New Democratic Front.
-
-Kanchana Wijesekera contested from the Matara district and was defeated.
-
-The name of Ravi Karunanayake has made a crisis in the party for a seat for a seatment for the new Democratic Party.
-
-◼️
-
-[Data](articles/00b2f8c6.json)
-
-[Extended Data](ext_articles/00b2f8c6.ext.json)
-
----
-
-### 100 crores worth of drug pills
-
-*2024-11-19 16:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/199145) · `ta`
-
-Colombo customs seize Rs 100 crore drug pills targeting schoolchildren.
-
-🟩
-
-Customs officials have seized about Rs 100 crore from a barn at the Colombo port premises.
-
-The drug pills have been seized by a trader in the Pettah area in 36 illegally imported boxes from India.
-
-Customs officials said the drug pills have been brought in targeting schoolchildren.
-
-◼️
-
-[Data](articles/f042dc79.json)
-
-[Extended Data](ext_articles/f042dc79.ext.json)
-
----
-
-### The Promise of the Ministry of Police
-
-*2024-11-19 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203535) · `si`
-
-Sri Lankan police promise: Strengthening authority, addressing recruitment issues, deploying security forces to combat crime and drugs.
-
-🟩
-
-The Sri Lankan police stating that the recruitment procedure of the Sri Lankan police states that action will be taken to strengthen the power to the police.
-
-He was assumed by the Public Defense Ministry (19).
-
-Special attention is also paid to the issues faced by the problems faced by the undermines of the Police Service, as well as the public.
-
-"A law-abiding police should be built by a disciplinary police. It is hard to build a fair justice society. Recruitment There are several problems. Review them and pulls those recruitments. Steps will be taken to obtain the power to the police. Without that, we cannot suppress this crime, drug racket and underworld. "
-
-He further stated that the president and the security forces who were released from the Minister and the security forces were deployed to strengthen the power of the police.
-
-◼️
-
-[Data](articles/422a0dc9.json)
-
-[Extended Data](ext_articles/422a0dc9.ext.json)
-
----
-
-### One arrested with heroin in Kalkisa
-
-*2024-11-19 16:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/199156) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Arrest made in Ratmalana: 49-year-old caught with 5g of heroin during police raid on Monday.
-
-🟩
-
-A suspect has been arrested on Monday (18) with heroin drugs in Ratmalana, which belongs to the Mount Lavinia Police Division.
-
-The suspect has been arrested during a raid carried out on confidential information received by the Mount Lavinia Police.
-
-The arrested suspect is a 49 -year -old from Ratmalana area.
-
-From the arrested suspect, 05 grams of 320 milligrams of heroin has been seized by the police.
-
-◼️
-
-[Data](articles/73839aa8.json)
-
-[Extended Data](ext_articles/73839aa8.ext.json)
-
----
-
-### 18 kg of Grease bucket magic in the Transport Board !!
-
-*2024-11-19 16:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/199148) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"18 kg of grease bucket magic found at the Transport Board!"
-
-🟩
-
-◼️
-
-[Data](articles/1be3464b.json)
-
-[Extended Data](ext_articles/1be3464b.ext.json)
-
----
-
-### Upcountry train interrupts
-
-*2024-11-19 16:10:20* · [`adalk`](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනයට-බාධා/11-413147) · `si`
-
-Train service disrupted: Kandy-Fort Railway Line affected. Train returning to Yiliya from Kandy stopped at Kandyan station. Passengers transferred to buses in Diyatalawa.
-
-🟩
-
-The Railway Railway Control Room (Colombo-Lankapuvath) has been interrupted by the Kandy Fort Railway Line on the Kandyan railway station today (19) at the Diyatalawa road.
-
-The train engine was preparing to return to the Yiliya Railway Station from Kandy from Kandy.
-
-The Diyatalawa town went to Diyatalawa town and removed his travels in the bus station and further arrangements to be prepared in the bus station.
-
-◼️
-
-[Data](articles/59e251bf.json)
-
-[Extended Data](ext_articles/59e251bf.ext.json)
-
----
-
-### Sri Lanka stocks close down amidst profit taking
-
-*2024-11-19 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-amidst-profit-taking-188733/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The broader ASPI closed down 0.95 percent, or 125.63 points, at 13,105; while the more liquid S&P SL20 Index closed down 1.66 percent, or 66.00 points, at 3,914.
-
-Turnover was 6 billion. Most of this came from capital goods sector stocks (Rs3.3 billion).
-
-“There is profit taking across all sectors,” market participants said.
-
-“Market has been going up since the presidential election and there had to be a correction.”
-
-Top negative contributors to the ASPI were John Keells Hotels (down at 20.50), Hatton National Bank (down at 230.00), Sampath Bank (down at 95.00), Commercial Bank (down at 122.25), and National Development Bank (down at 82.40). (Colombo/Nov19/2024)
-
-◼️
-
-[Data](articles/14b89d0c.json)
-
-[Extended Data](ext_articles/14b89d0c.ext.json)
-
----
-
-### Leader of the House Bimal Ratnayake
-
-*2024-11-19 16:00:44* · [`adalk`](https://www.ada.lk/breaking_news/සභානායක-බිමල්-රත්නායක/11-413146) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Bimal Ratnayake named Leader of 10th Parliament. Serves as Transport, Highways, Ports & Civil Aviation Minister.
-
-🟩
-
-Minister Bimal Ratnayake has been appointed as the Leader of the 10th Parliament.
-
-Bimal Ratnayake serves as the Minister of Transport, Highways, Ports and Civil Aviation.
-
-◼️
-
-[Data](articles/e75fbb93.json)
-
-[Extended Data](ext_articles/e75fbb93.ext.json)
-
----
-
-### We will rise as the main political party that challenges national people - Sri Lanka
-
-*2024-11-19 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199155) · `ta`
-
-Sri Lanka PA challenges national power in 2029 election. Former President Ranil Wickremesinghe's support welcome. Anura Kumara Dissanayake promises fulfilled. Not opposing all government decisions. Reopening doors to those disappointed with Wickremesinghe.
-
-🟩
-
-We will rise as the main political party that challenges national people's power in the 2029 presidential election. Sri Lanka's PA's Member of Parliament T, who has failed to rely on former President Ranil Wickremesinghe, can join us.. V Chanaka said.
-
-Amidst the massive expectations, the people have ordered President Anura Kumara Dissanayake.The President has made several allegations against the governments and the Rajapaksas.The promises made to the people should be fulfilled, as well as prove the allegations before the law.
-
-Cannot determine political stability with the number of MPs. Former President Ranil Wickremesinghe came to Parliament with a national list seat and became president.
-
-President Anura Kumara Dissanayake won the presidential election and the general election with three parliamentary seats. 3 is amazing. Sri Lanka has won three seats for the PA.
-
-...
-
-[Data](articles/1838a955.json)
-
-[Extended Data](ext_articles/1838a955.ext.json)
-
----
-
-### Leader of the Leader of the 10th Parliament and the Chief Organizer of the Government
-
-*2024-11-19 15:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203534) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Bimal Ratnayake named Leader of 10th Parliament. Dr. Nalinda Jayatissa Chief Government Whip. Bimal also Transport Minister.
-
-🟩
-
-Minister Bimal Ratnayake has been appointed as the Leader of the 10th Parliament.
-
-Minister Dr. Nalinda Jayatissa has been appointed as the Chief Government Whip.
-
-Bimal Ratnayake serves as the Minister of Transport, Highways, Ports and Civil Aviation.
-
-◼️
-
-[Data](articles/d84350e9.json)
-
-[Extended Data](ext_articles/d84350e9.ext.json)
-
----
-
-### Pimal Ratnayake appointed as the Chief Minister of the Council?
-
-*2024-11-19 15:47:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபை-முதல்வராக-பிமல்-ரத்நாயக்க-நியமனம்/175-347446) · `ta`
-
-Pimal Ratnayake named Chief Minister of Council. Bimal Ratnayake chosen as leader of ruling party.
-
-🟩
-
-It has been decided to appoint Minister Bimal Ratnayake as the chief minister of the ruling party.
-
-◼️
-
-[Data](articles/682a5e5b.json)
-
-[Extended Data](ext_articles/682a5e5b.ext.json)
-
----
-
-### Investigations search for a father in trouble for the Thirteenth year
-
-*2024-11-19 15:46:39* · [`adalk`](https://www.ada.lk/breaking_news/දහතුන්-හැවිරිදි-පුතුට-කඩුවකින්-කොටා-තුවාල-සිදුකල-පියකු-සොයා-විමර්ශන/11-413145) · `si`
-
-Here's a summary in approximately 200 characters:
-
-
-
-Thirteenth year investigation: Kotakirawa police probe father's arrest. 13-year-old girl injured in MGS Kekirawa. Father works in Colombo, assaulted at home due to wife dispute. Child's hand seriously injured; suspect fled. Kekirawa police conducting arrest operations.
-
-🟩
-
-The 13-year-old son, Kotakirawa, Kotakirawa Police say an investigation into the arrest of the area.
-
-The sustained were injured in the MGS in Kekirawa. Thirtew Wi Wijeratne is a 13 year old schoolgirl.
-
-The suspected father is a job in Colombo and the suspect has been attacked at home in Kekirawa area.
-
-The suspect had been assaulted at the time of his protest due to a dispute with his wife.
-
-The police said that the child's hand was seriously injured and the suspect had fled after the attack.
-
-Kakirawa Police A group of officials of Kekirawa Police are conducting investigations to arrest the suspect.
-
-◼️
-
-[Data](articles/43f92726.json)
-
-[Extended Data](ext_articles/43f92726.ext.json)
-
----
-
-### Hill rail service impact
-
-*2024-11-19 15:44:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-ரயில்-சேவை-பாதிப்பு/175-347445) · `ta`
-
-Kandy-Badulla mixed train derailed at Diyathalawa station, disrupting hill rail service.
-
-🟩
-
-A top official of the Railway Department said that the mixed train from Kandy to Badulla was derailed at the Diyathalawa station this afternoon.
-
-The official said that this has caused disruption to the train service on the hill station.
-
-◼️
-
-[Data](articles/1986dd14.json)
-
-[Extended Data](ext_articles/1986dd14.ext.json)
-
----
-
-### Another post for Dr. Nalinda Jayatissa
-
-*2024-11-19 15:36:59* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-නලින්ද-ජයතිස්සට-තවත්-තනතුරක්/11-413144) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Nalinda Jayatissa appointed as chief parliamentary organizer.
-
-🟩
-
-It is reported that Minister Dr. Nalinda Jayatissa has been appointed chief organizer of parliamentary organizer.
-
-◼️
-
-[Data](articles/ad27a163.json)
-
-[Extended Data](ext_articles/ad27a163.ext.json)
-
----
-
-### Train derailment in Thiyathalawa
-
-*2024-11-19 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199154) · `ta`
-
-Train derailment reported at Diyathalawa station. Train from Kandy to Badulla derailed. Railway department investigating cause.
-
-🟩
-
-A train derailed at the Diyathalawa railway station this afternoon.
-
-The railway department said that the train traveling from Kandy to Badulla has been derailed.
-
-◼️
-
-[Data](articles/1ff26247.json)
-
-[Extended Data](ext_articles/1ff26247.ext.json)
-
----
-
-### New responsibility assigned to Mass Media
-
-*2024-11-19 14:52:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-ඇමතිට-පැවරුණු-අලුත්-වගකීම/11-413143) · `si`
-
-Here's a 200-character summary:
-
-
-
-Mass Media Minister Nalinda Jayatissa appointed as new cabinet spokesman.
-
-🟩
-
-Mass Media Minister Nalinda Jayatissa has been appointed as the new cabinet spokesman.
-
-◼️
-
-[Data](articles/b09c659f.json)
-
-[Extended Data](ext_articles/b09c659f.ext.json)
-
----
-
-### Cabinet spokesman Nalinda Jayatissa
-
-*2024-11-19 14:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-பேச்சாளர்-நளிந்த-ஜயதிஸ்ஸ/175-347439) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New Cabinet meets; Health Minister Nalinda Jayatissa named as media spokesperson.
-
-🟩
-
-The first Cabinet meeting of the new government was held on Tuesday (19) at the Presidential Office headed by President Anura Kumara Dissanayake.
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa has been appointed as a media spokesman for the new Cabinet, the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/4e289b24.json)
-
-[Extended Data](ext_articles/4e289b24.ext.json)
 
 ---

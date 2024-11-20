@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 05:25:41**
+As of **2024-11-20 05:49:58**
 
 ## Newspaper Stats
 
-*Scraped **55,819** Articles*
+*Scraped **55,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 571
 bbccomsinhala | 575
-islandlk | 3,338
+islandlk | 3,344
 economynextcom | 3,385
-dailyftlk | 3,813
+dailyftlk | 3,816
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
@@ -26,11 +26,55 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,819 (100.0%) of 55,819 articles have been extended.
+55,819 (100.0%) of 55,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### Purge of human jobs: How to profit from AI disruption
+
+*2024-11-20 05:38:55* · [`dailyftlk`](https://www.ft.lk/columns/Purge-of-human-jobs-How-to-profit-from-AI-disruption/4-769429) · `en`
+
+The rise of AI and soon AGI, is truly amazing. The investments that have poured into AI in all areas in AI, is in the hundreds of billions of dollars. Given the unprecedented rise in market cap of companies like NVIDIA until recently, the markets took a second look and decided this is crazy and the AI stocks even took a tumble. But why are mainly private investors pouring so much gasoline on AI? The following might give some perspectives.
+
+...
+
+[Data](articles/a75433ca.json)
+
+---
+
+### Ranjith Madduma Bandara secures first SJB National List slot
+
+*2024-11-20 05:32:58* · [`dailyftlk`](https://www.ft.lk/news/Ranjith-Madduma-Bandara-secures-first-SJB-National-List-slot/56-769428) · `en`
+
+Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has been officially appointed as a National List MP for the party. The announcement confirming his appointment was published in an Extraordinary Gazette issued yesterday.
+
+Madduma Bandara, a seasoned politician, previously entered Parliament via the National List in 2020. He has a long-standing Parliamentary career, having represented the Monaragala district from 1989 to 2020 as a member of the United National Party (UNP) before joining the SJB. The SJB secured five National List seats in the 2024 Parliamentary Election, leaving four more appointments to be finalised. Discussions are currently ongoing to determine the candidates for these seats.
+
+One of the key demands comes from the Tamil Progressive Alliance (TPA), an SJB alliance partner. The TPA has urged the SJB leadership to allocate one of the remaining National List seats to its leader, Mano Ganesan, who failed to secure a seat in the election.
+
+◼️
+
+[Data](articles/64202a50.json)
+
+---
+
+### Dr. Nalinda Jayatissa new Cabinet Spokesman
+
+*2024-11-20 05:31:54* · [`dailyftlk`](https://www.ft.lk/news/Dr-Nalinda-Jayatissa-new-Cabinet-Spokesman/56-769427) · `en`
+
+The inaugural meeting of the newly-formed Cabinet of Ministers took place yesterday under the leadership of President Anura Kumara Dissanayake.
+
+The meeting took place at the Presidential Secretariat yesterday morning, the President’s Media Division (PMD) noted via a statement.
+
+“During the meeting, Health and Media Minister Dr. Nalinda Jayatissa was appointed as the Cabinet Spokesman,” it added.
+
+◼️
+
+[Data](articles/ab96b1bc.json)
+
+---
 
 ### 16 Ministries, PM get new Secretaries
 
@@ -330,6 +374,30 @@ This second subprogram of ADB’s Financial Sector Stability and Reforms Program
 
 ---
 
+### Strengthening global HR connections: CIPM delegates at the CIPD Annual Conference and Exhibition
+
+*2024-11-19 23:07:00* · [`islandlk`](http://island.lk/strengthening-global-hr-connections-cipm-delegates-at-the-cipd-annual-conference-and-exhibition/) · `en`
+
+The CIPD Annual Conference and Exhibition (CIPD ACE) 2024 which was held in Manchester, UK, brought together over 7,000 HR professionals, business leaders, and thought leaders from around the world for an engaging and transformative event. As a premier gathering for the global HR community, the conference offered a rich mix of keynote speeches, panel discussions, interactive workshops, and networking opportunities. The event was designed to tackle the most pressing issues in HR today, from technological innovation and AI integration to employee well-being and organizational agility.
+
+...
+
+[Data](articles/31deb7e9.json)
+
+---
+
+### Mediclinic rebrands as MyClinic by Hemas Hospitals
+
+*2024-11-19 23:07:00* · [`islandlk`](http://island.lk/mediclinic-rebrands-as-myclinic-by-hemas-hospitals/) · `en`
+
+The well-known healthcare services hub and primary care centre in Wellawatte, Mediclinic, which operates in partnership with Hemas Hospitals, has rebranded itself as MyClinic by Hemas Hospitals. This name change is in keeping with Hemas Hospitals’ commitment to personalised, patient-centred care. Under the new name, patients and their relatives will continue to enjoy the same unparalleled standards of care and service, for which the centre is known. Now experience the best of world-class healthcare thanks to a game-changing partnership between Hemas Hospitals and Mediclinic, as your neighbourhood medical centre in Wellawatte is now under the care of the most awarded Hemas Hospitals.
+
+...
+
+[Data](articles/f4fcbfc3.json)
+
+---
+
 ### Banning for everything from midnight
 
 *2024-11-19 23:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-அனைத்துக்கும்-தடை/175-347468) · `ta`
@@ -353,6 +421,64 @@ The Election Commissioner's Department said that if someone, the company or some
 [Data](articles/c4198192.json)
 
 [Extended Data](ext_articles/c4198192.ext.json)
+
+---
+
+### Pan Asia Bank strengthens digital reach with new zone in Kiribathgoda
+
+*2024-11-19 23:05:00* · [`islandlk`](http://island.lk/pan-asia-bank-strengthens-digital-reach-with-new-zone-in-kiribathgoda/) · `en`
+
+Pan Asia Bank is pleased to open the newest digital zone in Kiribathgoda. Customers can now gain more access to technologically advanced banking services as a result of this development. The newest Digital Zone emphasizes the banks’ commitment to offering quality customer-oriented services that enhance the banking experience in Kiribathgoda.
+
+Korea Lanka School of Hospitality closes applications for new semester on Nov 27
+
+Strengthening global HR connections: CIPM delegates at the CIPD Annual Conference and Exhibition
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/15426394.json)
+
+---
+
+### Korea Lanka School of Hospitality closes applications for new semester on Nov 27
+
+*2024-11-19 23:04:00* · [`islandlk`](http://island.lk/korea-lanka-school-of-hospitality-closes-applications-for-new-semester-on-nov-27/) · `en`
+
+Non fee-levying Korea Lanka School of Hospitality and Hotel Management, Wattala, funded by KOICA the funding arm of the Korean government will close receiving applications for the new semester on November 27 nd 2024.
+
+Interviews for same will be held in December. The new semester will commence in January 2025.
+
+A senior lecturer for the school said that the courses will be free of charge and objective of the programme is to provide vocational education for marginal youth in the country and create employment opportunities for them in the hospitality industry.
+
+The school offers NVQ 3 and 4 courses in hospitality which includes professional cookery, Food and Beverage Service, Front Office Operations and Hotel Housekeeping equipping the students for careers in leading hotels in Sri Lanka and overseas.
+
+The institute emphasises on theory and practical training which includes teaching of English, Korean language soft skills and basic IT knowledge development.
+
+...
+
+[Data](articles/277e67b1.json)
+
+---
+
+### CSE investors in suspenseful wait over next IMF tranche as indices dip
+
+*2024-11-19 23:01:00* · [`islandlk`](http://island.lk/cse-investors-in-suspenseful-wait-over-next-imf-tranche-as-indices-dip/) · `en`
+
+Stock market investors are adopting a cautious stance due to a delay in extending the next IMF tranche, which was scheduled to be transferred before end November.
+
+An IMF delegation was in Sri Lanka to review the whole process and local investors are waiting for their comments on the Sri Lankan economy.
+
+Amid those developments profit- takings were noted after the CSE showed a positive market performance over previous days.
+
+Yesterday the All Share Price Index went down by 104.8 points while S and P SL20 declined by 49.96 points.
+
+...
+
+[Data](articles/d75e06d8.json)
 
 ---
 
@@ -2351,219 +2477,5 @@ Ravi Karunanayake's house has been strengthened after the issue of national seat
 [Data](articles/5e3eb5e1.json)
 
 [Extended Data](ext_articles/5e3eb5e1.ext.json)
-
----
-
-### Sri Lankan squad against South Africa
-
-*2024-11-19 12:07:39* · [`adalk`](https://www.ada.lk/sports/දකුණු-අප්‍රිකාවට-එරෙහි-ශ්‍රී-ලංකා-සංචිතය-නම්-කෙරේ/9-413141) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Sri Lanka names 17-player squad for Test series vs South Africa. Team announced by Dhananjaya de Silva.
-
-🟩
-
-The Sri Lankan squad is named after the South African team to be held with the Test cricket tournament.
-
-There is 17 players have included 17 players to the squad, designated by Dhananjaya De Silva.
-
-◼️
-
-[Data](articles/025987b2.json)
-
-[Extended Data](ext_articles/025987b2.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-11-19 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/199133) · `ta`
-
-US dollar exchange rate: 286.7471 rupees buying, 295.7679 selling. Central Bank of Sri Lanka, Tuesday (19).
-
-🟩
-
-The US dollar purchasing price was 286.7471 rupees and the sales price were 295.7679 rupees based on a currency exchange rate released by the Central Bank of Sri Lanka on Tuesday (19).
-
-◼️
-
-[Data](articles/367843fc.json)
-
-[Extended Data](ext_articles/367843fc.ext.json)
-
----
-
-### Polonnaruwa mill is a Kumbuk Regulacement in Rice Lorry
-
-*2024-11-19 12:05:23* · [`adalk`](https://www.ada.lk/breaking_news/පොලොන්නරුව-ප්‍රසිද්ධ-සහල්-මෝලක-සහල්-ලොරි-තුළ-කුඹුක්-ලි-ජාවාරමක්/11-413140) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Kumbuk tree smuggling bust in Polonnaruwa: Police arrest two locals transporting 45 logs in a rice-lorry. Officials confirm largest Kumbuk trees seized. Suspects to appear before Polonnaruwa Magistrate Court on 21st.
-
-🟩
-
-According to a tip off the Kumbuk Board of Kumbuk, the police were arrested in connection with the Kumbuk Board of Kumbuk to the Kumbuk Plan from Polonnaruwa by a lorry.
-
-The lorries were transported to the rice and division of the lorry, which was arrested in the Jayanthipura area of ​​Polonnaruwa and nearly forty-five Kumbuk cowls were hidden in the lorry.
-
-The two suspects were residents of Polonnaruwa and Jayanthipura and said the raid.
-
-Preliminary investigations have been confirmed by the largest Kumbuk trees in the Polonnaruwa Valley Valley Valley Valley Valley Valley Valley Valley Valley Valley.Field Assistant KPAI. Mr. Pathirana said at a query.
-
-On the instructions of the Provincial Forest Officer and the Assistant Division of the Polonnaruwa Divisional Officer of the Polonnaruwa District. RJ Jayasundara, Thamankaduwa Acting Officers IP. Premathilaka, Field Assistant KPA. Pathirana officials have been arrested by the Pathirana and the suspects and the Kumbuk Timber.
-
-...
-
-[Data](articles/b48f9022.json)
-
-[Extended Data](ext_articles/b48f9022.ext.json)
-
----
-
-### Member of MPs looking for - here is the truth
-
-*2024-11-19 11:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203525) · `si`
-
-Sri Lanka Parliament members receive Rs. 54,000 monthly allowance plus housing benefits within 40km radius. Private staff allowances covered by Ministry of Parliamentary Affairs.
-
-🟩
-
-Special Secretary General of Sri Lanka, the Secretary General of Sri Lanka, says Ms. Kushani Rohanahandera says that a member will be given not a salary but a month.
-
-She added that today's Ada Derana, a member of the MP, a member will receive an offer nearly 54,000.
-
-In addition, a sum of Rs.
-
-She added that the distance was paid on the distance and calculated according to a formula.
-
-She said that those who do not have a home within 40 km from parliament, she is able to obtain the mother-in-house homes.
-
-Madiwela, 108 such houses have already been provided with the sequences of the government and the opposition.
-
-The General Secretary General of Parliament also said that Rs.
-
-It is also said that the Ministry of Parliament and Parliamentary Affairs will also bear the necessary allowances to the private staff of the Members of Parliament and the private staff of the Members of Parliament to reduce the money from the Sri Jayewardenepura Hospital.
-
-◼️
-
-[Data](articles/97767d5e.json)
-
-[Extended Data](ext_articles/97767d5e.ext.json)
-
----
-
-### The Indian Ambassador, who first congratulated Anura, invited India to come to India:
-
-*2024-11-19 11:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/199126) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-India invites Sri Lankan President Anura Kumaratisanayake to visit, welcoming his party's parliamentary victory. Indian High Commissioner Santos Ja extends invitation for mutual benefit, strengthening ties between nations.
-
-🟩
-
-Following the huge success of Sri Lankan President Anuragumaratisanayake, India has welcomed the status of its left -wing coalition in Parliament and restored its commitment to work with Sri Lanka for mutual benefit.
-
-Indian High Commissioner to Sri Lanka, Santos Ja, who met with President Anura Kumaratisanayake after the parliamentary election results clearly, again made New Delhi's request to visit India soon.
-
-It is noteworthy that the first foreign diplomat was the first foreign diplomat to meet after Anura Kumaratisanayake was elected as the President of Sri Lanka in September.
-
-The National People's Power, which has received 159 seats and 61 percent of the votes in parliament, has secured a two -thirds majority in the 225 -member parliament and strengthened the status of President Anura Kumaradisanayake.
-
-In the last parliament, the JVP -led coalition got only three seats.
-
-...
-
-[Data](articles/9e16aaf9.json)
-
-[Extended Data](ext_articles/9e16aaf9.ext.json)
-
----
-
-### Bought to seek bail out on the petition
-
-*2024-11-19 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203524) · `si`
-
-State Minister Lohan Ratwatte's bail hearing postponed. Court orders four weeks to file objections, next hearing set for November 29.
-
-🟩
-
-Former State Minister Lohan Ratwatte, who was arrested in connection with unregistered vehicle, was postponed to the Attorney General today (19).
-
-The petition was called before the Court of Appeal, President of the Court of Appeal, Judge Nissanka Bandula Karunaratne and Shashi Mahendran.
-
-Additional Solicitor General Shinil Kularatne appearing for the Attorney General XANIZITA SHANK Kularatne asks the court to pay four weeks to file the protests related to the case.
-
-President's Counsel Sanjay Rajaratne has opposed the petitioner party and requested the court to provide a short date for it.
-
-Accordingly, the respondents ordered to be summoned to the petition to consider the respondents to file objections before November 29.
-
-◼️
-
-[Data](articles/d1066fe2.json)
-
-[Extended Data](ext_articles/d1066fe2.ext.json)
-
----
-
-### Jeevan recommends Kanchana for the national list
-
-*2024-11-19 11:31:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசிய-பட்டியலுக்கு-காஞ்சனவை-பரிந்துரைக்கிறார்-ஜீவன்/175-347429) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Jeevan Thondaman suggests Kanchana Wijesekara for NDF's national seat, emphasizing the need for experienced opposition members in the new parliament due to the NPP's majority and ongoing reforms.
-
-🟩
-
-Former Minister Jeevan Thondaman has urged the National Democratic Front (NDF) to consider Kanchana Wijeeshekara to consider the party's remaining national seat, highlighting the need for experienced politicians in the opposition in the new parliament.
-
-Thondaman said on his site that it is necessary to have an opposition party in the Parliament, considering the majority of the NPP government in Parliament and the government is responsible for the existing reforms.
-
-◼️
-
-[Data](articles/b42f1fd6.json)
-
-[Extended Data](ext_articles/b42f1fd6.ext.json)
-
----
-
-### 8 Bangladeshi nationals arrested
-
-*2024-11-19 11:25:06* · [`adalk`](https://www.ada.lk/breaking_news/බංග්ලාදේශ-ජාතිකයන්-8ක්-අල්ලයි/11-413139) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-8 Bangladeshis arrested in Sri Lanka. Ages 20-30. Illegal immigrants. Arrested near Katunayake Police station. Translator needed for investigation. To appear in court on 11/19.
-
-🟩
-
-Eight bungalows of the Katunayake Police have been arrested by the Katunayake Police, Oddedimbalama area, Oddedimbalama area, exceeding Iran and Saudi Arabia.
-
-Between the age of 20 and 30, they have been illegally in violation of immigration conditions in Sri Lanka.
-
-Police have to obtain the support of a translator to further investigate further investigations.
-
-On a tip off received to the Katunayake Police, the arrest of the tourist hotel in general, Auddimbalama and Kumvina area on the night of 11/18.
-
-The bungalowers who were arrested are due to be produced before the Minuwangoda Magistrate's Court on 11/19.
-
-◼️
-
-[Data](articles/12b499e0.json)
-
-[Extended Data](ext_articles/12b499e0.ext.json)
 
 ---

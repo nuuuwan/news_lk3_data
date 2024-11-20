@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 19:41:58**
+As of **2024-11-20 20:13:57**
 
 ## Newspaper Stats
 
-*Scraped **55,977** Articles*
+*Scraped **55,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,54 @@ dailymirrorlk | 4,733
 adalk | 5,267
 adaderanalk | 6,762
 tamilmirrorlk | 7,940
-virakesarilk | 9,088
-adaderanasinhalalk | 9,673
+virakesarilk | 9,090
+adaderanasinhalalk | 9,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,975 (100.0%) of 55,977 articles have been extended.
+55,977 (100.0%) of 55,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### கல்வி பொதுத் தராதர உயர் தர பரீட்சை  25ஆம் திகதி ஆரம்பம் - கல்வி அமைச்சு
+
+*2024-11-20 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199270) · `ta`
+
+2024 ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர உயர் தர பரீட்சை திட்டமிட்டபடி நவம்பர் 25ஆம் திகதி ஆரம்பமாகும் என கல்வியமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்தப் பரீட்சையை ஒத்திவைக்குமாறு பல்வேறு தரப்பினர் கோரிக்கைகளை முன்வைத்துள்ள போதிலும், இலங்கைப் பரீட்சைகள் திணைக்களம் கடந்த மார்ச் மாதம் எடுத்த தீர்மானத்தின் பிரகாரம், உயர்தரப் பரீட்சைக்கான அனைத்து ஆயத்தப் பணிகளும் ஏற்கனவே நிறைவடைந்துள்ளதாக அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலும், இந்த பரீட்சை நடைபெறும் திகதிகளுக்கு அமைய, அடுத்துவரும் சாதாரணதர பரீட்சை உள்ளிட்ட பல பரீட்கைகளுக்கான திகதிகள் முடிவு செய்யப்பட்டுள்ளதாகவும், உயர்தர பரீட்சை ஒத்திவைக்கப்பட்டால், ஏனைய பரீட்சைகளுக்கான திட்டமிடல் முற்றிலும் ஒழுங்கற்றதாக மாறிவிடும் என்றும் அதில் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b4279b43.json)
+
+---
+
+### කල් ඇදෙන ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැටලුව
+
+*2024-11-20 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203571) · `si`
+
+මෙවර පාර්ලිමේන්තු මැතිවරණයෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධූර හිමිවු පක්ෂ කිහිපයක් තවමත් ඊට අදාළ මන්ත්‍රීවරුන්ගේ නම් එවා නොමැති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+
+අදාළ පක්ෂ ලේකම්වරුන් විසින් මැතිවරණ කොමිෂන් සභාව වෙත එම නම් යොමුකිරීමෙන් අනතුරුව ගැසට් මගින් ප්‍රකාශයට පත් කිරීමට නියමිත ය.
+
+ඒ අනුව සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර 4ක් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ එක් මන්ත්‍රී ධූරයක් මෙන්ම ශ්‍රී ලංකා මුස්ලීම් කොංග්‍රසයේ එක් මන්ත්‍රී ධුරයක් සඳහා ද පුරප්පාඩු පවතියි.
+
+සමගි ජන බලවේගයට මෙවර පාර්ලිමේන්තු මැතිවරණයේ දී ජාතික ලැයිස්තු මන්ත්‍රීධුර 05ක් හිමිවු අතර මේ වනවිටත් ඉන් එක් ජාතික ලැයිස්තු මන්ත්‍රී ධූරයක් සදහා පක්ෂ මහලේකම් රංජිත් මද්දුම බණ්ඩාර මහතාගේ නම ගැසට් මගින් ප්‍රකාශයට පත් කර තිබේ.
+
+අද (20) පැවති මාධ්‍ය හමුවක දී හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය සදහන් කළේ සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් කාන්තාවකට ලබා දෙන්නේ නම් ඒ සදහා තමන් සුදුසුකම් සපුරා ඇති බවයි.
+
+...
+
+[Data](articles/14f399d5.json)
+
+---
 
 ### Virtually no aid has reached besieged north Gaza in 40 days, UN says
 
@@ -49,6 +85,26 @@ Hundreds of people have been killed and between 100,000 and 130,000 others have 
 ...
 
 [Data](articles/dbf55cdd.json)
+
+[Extended Data](ext_articles/dbf55cdd.ext.json)
+
+---
+
+### யாழ்ப்பாணத்தில் அடை மழையால் 15 குடும்பங்களை சேர்ந்த 50 பேர் பதிப்பு!
+
+*2024-11-20 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199269) · `ta`
+
+தொடர்ச்சியாக பெய்து வரும் மழை அனர்த்தம் காரணமாக யாழ்ப்பாணத்தில் 15 குடும்பங்களை சேர்ந்த 50 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+
+அந்தவகையில் சாவகச்சேரி பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/315 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவரும், ஜே/328 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தைச் சேர்ந்த இரண்டு பேரும் பாதிக்கப்பட்டுள்ளனர். இரண்டு வீடுகள் சேதமடைந்துள்ளன.
+
+அத்துடன் ஊர்காவல்துறை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/56 கிராம சேவகர் பிரிவில் இரண்டு குடும்பங்களைச் சேர்ந்த 8 பேர் பாதிக்கப்பட்டுள்ளதுடன் ஒரு வீடு பகுதியளவில் சேதமடைந்துள்ளது.
+
+பருத்தித்துளை பிரதேச செயலர் பிரிவிற்குட்பட்ட மூன்று குடும்பங்களைச் சேர்ந்த ஆறுபேர் பாதிக்கப்பட்டுள்ளதுடன் இரண்டு வீடுகள் சேதமடைந்துள்ளன. ஜே/403 கிராம சேவகர் பிரிவில் 7 குடும்பங்களைச் சேர்ந்த 29பேர் பாதிக்கப்பட்டுள்ளதுடன் 6 வீடுகள் சேதமடைந்துள்ளன.
+
+...
+
+[Data](articles/590b7751.json)
 
 ---
 
@@ -674,21 +730,31 @@ However, she added that it is essential to the unstandoned support of all of the
 
 ---
 
-### E-8  වීසා ගැටලුව සම්බන්ධයෙන් අමාත්‍ය විජිත හේරත්ගේ අවධානය
+### Minister Vijitha Herath's focus on E-8 visa issue
 
 *2024-11-20 16:13:14* · [`adalk`](https://www.ada.lk/breaking_news/E-8--වීසා-ගැටලුව-සම්බන්ධයෙන්-අමාත්‍ය-විජිත-හේරත්ගේ-අවධානය/11-413173) · `si`
 
-යම් යම් පාර්ශව මැදිහත් වී දකුණු කොරියාවේ ඍතුමය  රැකියා සඳහා වන E8 වීසා යටතේ අනුමත ක්‍රමවේදයෙන් බැහැරව කටයුතු කිරීම හේතුවෙන් එම රැකියා බලාපොරොත්තුවෙන් සිටින ශ්‍රමිකයින් අපහසුතාවයට පත්වීම පිළිබඳව විදේශ කටයුතු, විදේශ රැකියා හා සංචාරක අමාත්‍ය විජිත හේරත් මහතාගේ අවධානය යොමුවී තිබේ.
+Here's a summary of 200 characters:
 
-ඒ අනුව අද පෙරවරුවේ (11.20) බත්තරමුල්ලේ පිහිටි ශ්‍රී ලංකා විදෙස් සේවා නියුක්ති කාර්යාංශයට පැමිණි අමාත්‍යවරයා, කාර්යාංශයේ ඉහළ නිලධාරීන් හා අදාල ශ්‍රමිකයින් පිරිසක් සමග විශේෂ සාකච්ඡාවක් පවත්වන ලදී.
 
-දකුණු කොරියාවේ E8 වීසා ක්‍රමය යටතේ ශ්‍රමිකයන් යොමු කිරීම පිළිබඳ තවදුරටත් අධ්‍යයනය කරමින් ඊට අදාළ නීතිමය තත්ත්ව සොයා බලා ඉදිරියේදී අවශ්‍ය පියවර ගැනීමට අමාත්‍යවරයා එහිදී තීරණය කරන ලදී.
 
-මෙම විශේෂ සාකච්ඡාවට කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ‚ සාමාන්‍යාධිකාරි  D.D.P. සේනානායක  යන මහත්වරුන් ඇතුළු උසස් නිලධාරීන් පිරිසක් සහභාගි විය.
+Minister Vijitha Herath addresses E-8 visa issues for South Korean workers. She met with top officials to review legal aspects of the E-8 visa system. Bureau Chairman Kiole Wickremesinghe and General Manager D.D.P. Senanayake attended the meeting.
+
+🟩
+
+Due to the approved procedure for the E8 visa for the right jobs of the South Korea, there is attention to the inconvenience of workers waiting under the E8 visa.
+
+The Minister was held this morning (11.20), a special discussion with the Bureau's top officials of the Bureau.
+
+The Minister decided to look into the legal status and to look into the relevant legal status under the E8 visas system under the E8 visa scheme of South Korea.
+
+Bureau Chairman Kiole Wickremesinghe, General Manager D.d.P. Senanayake, including Senanayake, participated in the event.
 
 ◼️
 
 [Data](articles/dceb89cd.json)
+
+[Extended Data](ext_articles/dceb89cd.ext.json)
 
 ---
 
@@ -2483,105 +2549,5 @@ According to the Department of Immigration and Emigration, the Department of Imm
 [Data](articles/820bb4a3.json)
 
 [Extended Data](ext_articles/820bb4a3.ext.json)
-
----
-
-### Contractor arrested for the death of the worker
-
-*2024-11-20 07:29:30* · [`adalk`](https://www.ada.lk/breaking_news/කම්කරුවාගේ-මරණයට-කොන්ත්‍රාත්කරු-අල්ලයි/11-413158) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Contractor (24) arrested for fatal accident: Worker (38) died when wall collapsed during renovation in Kolupitiya. Suspect from Nugegoda; case to be heard in court. Investigation ongoing under Kollupitiya Police OIC.
-
-🟩
-
-Kolupitiya Police say that a person was killed after a wall of the 25th Lane of Kollupitiya.
-
-The deceased has been identified as a 38 year old resident of Namunula Arawatta. The 24-year-old contractor has been arrested by the police.
-
-While the deceased was carrying out an old building at the above address. The police states that the police staten were observed that no action has been adopted by the Contractor's employees.
-
-The event has been revealed that the death was caused by the contractor. The contractor said that the contractor was arrested. The suspect is a resident of Nugegoda.
-
-The suspect is to be produced in court. Investigations are conducted on the instructions of the Kollupitiya Police OIC of the Kollupitiya Police.
-
-◼️
-
-[Data](articles/47d9ab8e.json)
-
-[Extended Data](ext_articles/47d9ab8e.ext.json)
-
----
-
-### Suspect arrested in Minuwangoda Rs
-
-*2024-11-20 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203547) · `si`
-
-Arrest made in Minuwangoda: Driver caught with drugs and large sum of money. Suspect from Thammey, Makitura. Police recovered ice, cash, and arrested individual.
-
-🟩
-
-The driver of a privately transporting private institution has been arrested in Minuwangoda, carrying over Rs.
-
-The suspect was arrested by the Gampaha Divisional Criminal Investigation Bureau and Minuwangoda police.
-
-At the time he was arrested, he had recovered 5 ice narcotics and 420 milligrams, a sum of Rs. 31,515,291.
-
-The 35 year old residents of Thammey is a resident of Makitura.
-
-Securely, a team of four officers who were securely transporting a cash-transported private company had gone to a private bank in Minuwangoda yesterday morning.
-
-The other after the bank arrived at the bank, the other had gone down while on the van.
-
-At that time, the van had a sum of Rs.
-
-He then left the van in Gampaha, Gampaha and fled a motorcycle with another person.
-
-◼️
-
-[Data](articles/81211422.json)
-
-[Extended Data](ext_articles/81211422.ext.json)
-
----
-
-### Take care of your sexual partner naked photo, videos
-
-*2024-11-20 06:55:45* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cze3xep72d0o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Protect intimate photos/videos from misuse. AI can manipulate images. Don't share explicit content. Delete photos/videos from internet. Report threats to police/women's shelters. Seek legal action. Use "Delete Nothing" website to document incidents. Respect privacy and consent in relationships.
-
-🟩
-
-Take care of your sexual partner naked photo, videos
-
-Frequently, the intently photos sent or release of most personal photos or videos for their lovers, valentine, or sexual partners are often heard in social media.
-
-They are often published in the purpose of dating or sexual relationships or with revenge.
-
-A young woman who was the best of the best friend because of the 'Dipfake
-
-In some cases, the telephone repair is reported in recent history, stealing private photos on the telephone and releasing them to the Internet.
-
-While certain photos or videos releasing to the Internet is not true;There are now examples of photos or video processing using AI technology.
-
-What measures can be taken to protect against such abuses as well as persecution?
-
-Your boyfriend, girlfriend, lover, lovely or sex spore, and a friendly spouse, the BBC inquired with specializing on your personal safety.
-
-What are the consequences of reducing the lowest age of willingness to sex?
-
-...
-
-[Data](articles/53048867.json)
-
-[Extended Data](ext_articles/53048867.ext.json)
 
 ---

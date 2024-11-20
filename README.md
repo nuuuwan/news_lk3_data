@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 16:41:19**
+As of **2024-11-20 17:25:37**
 
 ## Newspaper Stats
 
-*Scraped **55,952** Articles*
+*Scraped **55,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,87 +16,241 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,261
+adalk | 5,262
 adaderanalk | 6,756
 tamilmirrorlk | 7,935
-virakesarilk | 9,086
-adaderanasinhalalk | 9,668
+virakesarilk | 9,087
+adaderanasinhalalk | 9,671
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,947 (100.0%) of 55,952 articles have been extended.
+55,954 (100.0%) of 55,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### ஒத்திகை...
+### පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ තොරතුරු ලබාගැනීම මාර්ගගත ක්‍රමයට
+
+*2024-11-20 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203568) · `si`
+
+දසවැනි පාර්ලිමේන්තුවේ, පළමුවැනි සභා වාරයේ පළමුවැනි රැස්වීම පැවැත්වීම සඳහා අවශ්‍ය කටයුතු පහසු කරවනු පිණිස අද (19) සහ (20) දෙදින පැවති පාර්ලිමේන්තු මන්ත්‍රීවරුන් සඳහා තොරතුරු කවුළුව පාර්ලිමේන්තු සංකීර්ණයේ දී සාර්ථකව අවසන් වී තිබේ.
+
+මෙම අවස්ථාවට පළමුවරට පාර්ලිමේන්තුවට තේරි පත්වූ මන්ත්‍රීවරයන් ඇතුළුව මන්ත්‍රීවරයන් 200 කට වැඩි පිරිසක් සහභාගී වූ බව පාර්ලිමේන්තු මාධ්‍ය අංශය නිවේදනය කළේය.
+
+එහිදී සියලුම මන්ත්‍රීවරයන්ට ප්‍රයෝජනවත් වන තොරතුරු සහ ලිපිලේඛන සැපයීම, පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගේ හැඳුනුම්පත සඳහා ඡායාරූප ලබා ගැනීම සහ විද්‍යුත් ඡන්ද විමසීමේ කටයුතුවලට අදාළව ඇඟිලි සළකුණු ලබා ගැනීම ඇතුළු කටයුතු සිදුව ඇත.
+
+මේ අතර දසවැනි පාර්ලිමේන්තුවේ, පළමුවැනි සභා වාරයේ පළමුවැනි රැස්වීම පැවැත්වීමට අදාළව සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ තොරතුරු ලබාගැනීම සඳහා පාර්ලිමේන්තු වෙබ් අඩවිය හරහා මාර්ගගත ක්‍රමය ඔස්සේ (Online) අදාළ තොරතුරු ඇතුළත් කිරීමේ පහසුකම ද මෙවර සළසාදී තිබේ.
+
+◼️
+
+[Data](articles/40251815.json)
+
+---
+
+### பைடனின் அடுத்த அதிரடி தீர்மானம் - உக்ரைனிற்கு கண்ணிவெடிகளை வழங்க முடிவு
+
+*2024-11-20 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199247) · `ta`
+
+உக்ரைனில் ரஸ்ய படையினரின் முன்னேற்றத்தை தடுப்பதற்காக அமெரிக்கா உக்ரைனிற்கான  இராணுவஉதவிகளை தீவிரப்படுத்தியுள்ள நிலையிலேயே கண்ணிவெடிகளை வழங்குவதற்கு பைடன் அனுமதிவழங்கியுள்ளார்.
+
+பொதுமக்கள் அதிகமாக வாழும் பகுதிகளில் இந்த நிலக்கண்ணி வெடிகளை பயன்படுத்தப்போவதில்லை என  உக்ரைன் உறுதியளித்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+
+மேலும் குறிப்பிட்ட காலம்வரை செயற்பாட்டில் இருக்கும் விதத்திலேயே கண்ணிவெடிகளை பயன்படுத்தப்போவதாகவும் உக்ரைன் உறுதியளித்துள்ளது.
+
+நிலக்கண்ணி வெடிகள் தொடர்பான ஜோபைடனின் தீர்மானத்தை உக்ரைன் படையினர் வரவேற்பார்கள் ஆனால் உலகின் ஏனைய பகுதிகளில் இது மிகவும் சர்ச்சைக்குரியதாக காணப்படும் என பிபிசி தெரிவித்துள்ளது.
+
+அமெரிக்க ஜனாதிபதியாக டொனால்ட் டிரம்ப் பதவிவகித்தவேளை அமெரிக்க படையினர் நிலக்கண்ணிவெடிகளை பயன்படுத்துவதற்கான கட்டுப்பாட்டை நீக்கியிருந்தார் . இதனை ஜோ பைடன் அவ்வேளை கடுமையாக விமர்சித்திருந்தார்.
+
+◼️
+
+[Data](articles/a726d2dc.json)
+
+---
+
+### Approval to import 70,000 Metricton
+
+*2024-11-20 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203567) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Government approves importing 70,000 MT of rice to address brief rice shortage. Rice will be sourced through CWE Corporation. Cabinet approval granted for the import.
+
+🟩
+
+The government has decided to import 70,000 MT of rice as a solution to the shortage of brief rice.
+
+The Minister of Trade, Commerce, Food Safety and Co-operative Development, Wasantha Samarasinghe said that the rice was imported through the CWE Corporation.
+
+The Minister said that the necessary cabinet was approved.
+
+◼️
+
+[Data](articles/114a7cd4.json)
+
+[Extended Data](ext_articles/114a7cd4.ext.json)
+
+---
+
+### Independent committee to refer to Ravi Karunanayake from National list
+
+*2024-11-20 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203566) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"UNP conducts probe on Ravi Karunanayake for national list seat. Report due in 3 weeks, then to UNP Working Committee."
+
+🟩
+
+The party has decided to conduct an independent investigation into the name of Ravi Karunanayake to send Ravi Karunanayake to the Election Commission for the election commission for a post of the National Listing of the New Democratic Front.
+
+They had stated that the belief in the alliance (UPFA) had revealed that Mr. Ravi Karunananayake was released from the National List.
+
+The discussion has been decided to conduct an independent investigation for the incident.
+
+This investigation report was to be handed over to UNP leader Ranil Wickremesinghe within 3 weeks.
+
+Thereafter, the report was made to the UNP Working Committee.
+
+◼️
+
+[Data](articles/5ab9544c.json)
+
+[Extended Data](ext_articles/5ab9544c.ext.json)
+
+---
+
+### Rehearsal ...
 
 *2024-11-20 16:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திகை/175-347504) · `ta`
 
-பத்தாவது பாராளுமன்றத்தின் முதல் நாள் அமர்வு நாளை (21)காலை 10 மணிக்கு ஆரம்பமாக இருக்கும் நிலையில் ஜனாதிபதி அனுரகுமார திசாநாயக்க வை வரவேற்பதற்கான ஒத்திகை இன்று (20) பார்க்கப்பட்டது
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President Anura Kumara Dissanayake welcomed today. First day of 10th Parliament tomorrow at 10 AM."
+
+🟩
+
+The rehearsal to welcome President Anura Kumara Dissanayake was viewed today (20) as the first day of the tenth parliament begins tomorrow (21) at 10 am
 
 ◼️
 
 [Data](articles/eac86598.json)
 
+[Extended Data](ext_articles/eac86598.ext.json)
+
 ---
 
-### රාජ්‍ය සේවකයන්ට ඇමති බිමල් දුන් උපදෙස
+### Minister of Public Servants Bimal
 
 *2024-11-20 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203565) · `si`
 
-ජාතික වැඩපිළිවෙළ ශක්තිමත් කිරීම වෙනුවෙන් රාජ්‍ය සේවකයන් එකලෙස වැඩ කළ යුතු බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+Here's a summary of 200 characters:
 
-අද (20) වරාය අමාත්‍යාංශයේ වැඩ භාරගැනීමේ අවස්ථාට එක්වෙමින් ඔහු වැඩිදුරටත් සඳහන් කළේ,
 
-"මේ මොහොතේ සිට අපිට වැඩ කරන්න වෙන්නේ අපිට ඡන්දය දුන් නොදුන් හැම කෙනාම වෙනුවෙන්. මෙතනින් උඩට දේශපාලනය නැහැ. වරාය පෞද්ගලික අංශය සහ රාජ්‍ය අංශය දෙකම සම්බන්ධ කරගත් ක්‍රියාවලියකට යන්න ඕනේ."
 
-"දැන් නිලධාරීන්ට වැඩ කරන්න ලේසි වෙයි. එක ලෙස වැඩ කරන්න අවශ්‍ය අවස්ථාව අපි ලබාදෙනවා. අපිත් ඒක එලෙසම බලාපොරොත්තු වෙනවා. ඒක ලබාදෙන්න. ඒක ලබාදෙන්න බැරි අයට පුළුවන්... රාජ්‍ය සේවකයන් විදියට... ඔබටත් අයිතියක් තිබෙනවා... ඉන්නත් පුළුවන්... බැරි අය යන්නත් පුළුවන්... අපිට ලොකු ඇරියස් එකක් තියෙනවා... කරන්න රටේ. මිනිස්සු අපෙන් බලාපොරොත්තු වෙනවා."
+Minister Bimal Ratnayake urges public servants to work for national programs. He emphasizes unity between private and public sectors in ports. He vows to combat corruption and improve ministry performance.
 
-තමා යටතේ තිබෙන අමාත්‍යාංශවල ඉකුත් සමයේ සිදුවූ මහා පරිමාණ දූෂණයන් පිළිබඳව අනිවාර්යයෙන් සොයාබලා නීති මගින් කටයුතු කරන බවද අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
+🟩
+
+Minister of Transport, Ports and Civil Aviation Minister Bimal Ratnayake says that public workers should work in the event to strengthen the national program.
+
+He further stated that the Ministry of Ports today (20th), he added.
+
+"All we have to work from this moment to work for everyone who has not voted for us. There is no upstairs politics from here. The Ports Private Sector and the Public Sector should go to a process. "
+
+"Officers now easy to work. We give you the opportunity to work as one. We hope that too. Give it. Those who cannot give it. As public servants,. You too have the right.. You can stay. You can also go ... We have a bigger perceiph ... In the country. People expect us. "
+
+Minister Bim Rathnayake said that the laws are compulsory in the last ministries under their ministries.
+
+"Simply put,. There was no good arrival. I understand.. The result of all other ministries attempts can be given to the country only if we do our. Otherwise, there is no way to get water. "
 
 ...
 
 [Data](articles/4231ecdf.json)
 
+[Extended Data](ext_articles/4231ecdf.ext.json)
+
 ---
 
-### පීඩාකාරීබවින් තොර අධ්‍යාපනයක් වෙනුවෙන් කැප වෙනවා - අගමැතිනිය
+### Dedicated to an oppressive education - Prime Minister
 
 *2024-11-20 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203564) · `si`
 
-ඉදිරි පුනරුද යුගයට ගැලපෙන පුරවැසියන් බිහිකිරීමට සමත්, සිසු විශ්වසනීයත්වය තහවුරු වූ පීඩාකාරීබවින් තොර අධ්‍යාපනයක් වෙනුවෙන් කැපවන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසීය.
+Here's a summary of the text in approximately 200 characters:
 
-ඉසුරුපායේදී අද (20) අභිනව රජයේ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේදී සිය අමාත්‍ය ධුරයේ භාර ගනිමින් ඇය මේ බව පෙන්වා දුන්නාය.
 
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් අග්‍රාමාත්‍යවරිය පවසා සිටියේ, අධ්‍යාපනය වැනි විෂයක් සම්බන්ධ අමාත්‍ය ධුරයක් භාරගැනීමට ලැබීම සම්බන්ධව තමන් නිහතමානීව සතුටු වන බවයි.
 
-එම විෂයේ පවත්නා භාරදූරභාවය තමන් මැනවින් අවබෝධ කරගෙන සිටින බවද ඇය පැවසුවාය.
+Prime Minister Dr. Haraini Amarasuriya commits to an "oppressive" education system, emphasizing student credibility and civilization. She prioritizes new government policies for successful implementation in schools, focusing on creating a happy learning environment with the support of all stakeholders.
 
-නව රජයේ ප්‍රතිපත්ති අනුව ඉහළ ප්‍රමුඛත්වයක් අධ්‍යාපනයට ලබා දී ඇති අතර, පාසල් අධ්‍යාපනය නිසි ක්‍රමික රටාවකට හා කාලසටහනකට අනුව සාර්ථකව ක්‍රියාත්මක කළ යුතු බවද පැවසුවාය.
+🟩
 
-දරුවන්ට සතුටින් අධ්‍යාපනය ලැබිය හැකි පරිසරයක් සකස් කර දිය යුතු බවත්, ඊට අවශ්‍ය වන පරිදි වර්තමානයේ අධ්‍යාපන ක‍්ෂේත්‍රය තුළ පවතින ගැටලු කඩිනමින් නිරාකරණය කළ යුතුව ඇති බවත් අග්‍රාමාත්‍යවරිය මෙහිදී පෙන්වා දුන්නාය.
+Prime Minister Dr. Haraini Amarasuriya said that he is committed to an oppressive education that has been able to create suitability of the student credibility civilization.
+
+She made this statement at the new government education, Higher Education and Vocational Education in Isurupaya today (20).
+
+Speaking further the Prime Minister said that he was humble in connection with the issue of a portfolio of a subject such as a subject.
+
+She said that he was aware of the richness of the subject.
+
+The new government policies have been given high priority and school education should be successfully implemented according to a proper systematic pattern and schedule.
+
+The Prime Minister pointed out that the children should create a happy environment with happiness.
+
+However, she added that it is essential to the unstandoned support of all of them.
 
 ...
 
 [Data](articles/507ca316.json)
 
+[Extended Data](ext_articles/507ca316.ext.json)
+
 ---
 
-### මාධ්‍ය ක්ෂේත්‍රයේ සේවය ඇගයීමට පිරිනම ස්වර්ණසිංහ සම්මානය අද පුවත්පතේ රාහුල් සමන්තට
+### පාර්ලිමේන්තු සභාවාරය උත්සවකාරයෙන් විවෘත කිරීම සඳහා සියල්ල සූදානම්
+
+*2024-11-20 16:08:20* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-සභාවාරය-උත්සවකාරයෙන්-විවෘත-කිරීම-සඳහා-සියල්ල-සූදානම්/11-413172) · `si`
+
+ජනාධිපතිවරයා විසින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම හෙට පෙ.ව 11.30 ට
+
+දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය උත්සවකාරයෙන් හෙට (21) විවෘත කිරීමට නියමිතය. ඊට අදාළ පෙරහුරුව පාර්ලිමේන්තුව පරිශ්‍රයේදී අද (2024.11.20) පැවැත්විණි.
+
+හෙට පෙ.ව 9.55ට  ගණපූර්ණ සීනුව නාදකිරීමෙන් අනතුරුව පාර්ලිමේන්තුව පෙ.ව 10.00 ට රැස්වීමට නියමිත අතර සෙංකෝලය සභා ගර්භයේ තැන්පත් කිරීමෙන් පසු, පාර්ලිමේන්තුව රැස් වන දිනය හා වෙලාව නියම කරමින් ජනාධිපතිවරයා විසින් නිකුත් කරන ලද අති විශේෂ ගැසට් නිවේදන පාර්ලිමේන්තුවේ මහ ලේකම්වරිය විසින් දිනයේ පළමු කාර්යය ලෙස සභාවට ඉදිරිපත් කරනු ලබයි.
+
+...
+
+[Data](articles/5a784610.json)
+
+---
+
+### Saveekara Award for evaluation of Media field service
 
 *2024-11-20 15:50:27* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-ක්ෂේත්‍රයේ-සේවය-ඇගයීමට-පිරිනම-ස්වර්ණසිංහ-සම්මානය-අද-පුවත්පතේ-රාහුල්-සමන්තට/11-413171) · `si`
 
-මාධ්‍ය ක්ෂේත්‍රය තුළ  සිදුකරනු ලැබූ විශිෂ්ට සේවය ඇගයීම උදෙසා පිරිනැමෙන ස්වර්ණසිංහ ජාතික සම්මානය," අද" පුවත්පතේ මාධ්‍යවේදී රාහුල් සමන්ත හෙට්ටිආරච්චිට හිමිව තිබේ.
+Here's a summary of 200 characters:
 
-2024.11.19 දින කොළඹ බණ්ඩාරනායක ජ්‍යාත්යන්තර සම්මන්ත්‍රණ ශාලාවේදී පැවැතී    නවෝත්පාදනයන් මෙහෙයවන සහ අන්‍යයන් දිරිමත් කරන දූරදර්ශී සහ නායකයින් හඳුනා ගනිමින් ව්‍යවසායකත්වයේ සහ මාධ්‍යයේ විශිෂ්ටත්වය වෙනුවෙන් පැවති ස්වර්ණසිංහ ජාතික සම්මාන උළෙලේදී මෙම සම්මානය ඔහුට ලැබී තිබේ. හරිත පරපුර සංවිධානය  විසින් පවත්වන ලද  මෙම සම්මාන ප්‍රධානයේ   අරමුණ වන්නේ  කර්මාන්තවලට සහ සමාජයට සැලකිය යුතු බලපෑමක් ඇති කරන පුද්ගලයින්ගේ   විශිෂ්ට ජයග්‍රහණ සහ දායකත්වය උදෙසා  ගෞරව කිරීමයි.
+
+
+Rahul Samantahi wins Saveekara Award for media field service and Sarnasinghe National Award for excellent media sector work. He received awards at National Awards ceremony in Colombo, organized by Green Generation Organization to honor industry contributions and societal impact.
+
+🟩
+
+Sarnasinghe National Award for evaluating the excellent service in the media sector, Rahul Samantahi has been held in the newspaper today.
+
+He received the award at the National Awards ceremony of the National Awards and the Excellence in the Messenal and the Message of the Mendent of the Bandaranaike Memorial and Entertainment of Opposition and Highlights at the Bandaranaike International Conference Hall of Colombo.. The awards of this awards presence by the Green Generation Organization is to honor the excellent victories and contribution to the industries and society.
 
 ◼️
 
 [Data](articles/5e2221c9.json)
+
+[Extended Data](ext_articles/5e2221c9.ext.json)
 
 ---
 
@@ -137,6 +291,8 @@ X-Press Feeders pointed out in a statement sent to Splash today that the company
 ...
 
 [Data](articles/9fc861cd.json)
+
+[Extended Data](ext_articles/9fc861cd.ext.json)
 
 ---
 
@@ -2273,123 +2429,5 @@ This time only advisors are different. Previously, it was Dr. PB Jayasundera, pr
 [Data](articles/bb4ca7e8.json)
 
 [Extended Data](ext_articles/bb4ca7e8.ext.json)
-
----
-
-### Purge of human jobs: How to profit from AI disruption
-
-*2024-11-20 05:38:55* · [`dailyftlk`](https://www.ft.lk/columns/Purge-of-human-jobs-How-to-profit-from-AI-disruption/4-769429) · `en`
-
-The rise of AI and soon AGI, is truly amazing. The investments that have poured into AI in all areas in AI, is in the hundreds of billions of dollars. Given the unprecedented rise in market cap of companies like NVIDIA until recently, the markets took a second look and decided this is crazy and the AI stocks even took a tumble. But why are mainly private investors pouring so much gasoline on AI? The following might give some perspectives.
-
-...
-
-[Data](articles/a75433ca.json)
-
-[Extended Data](ext_articles/a75433ca.ext.json)
-
----
-
-### Ranjith Madduma Bandara secures first SJB National List slot
-
-*2024-11-20 05:32:58* · [`dailyftlk`](https://www.ft.lk/news/Ranjith-Madduma-Bandara-secures-first-SJB-National-List-slot/56-769428) · `en`
-
-Samagi Jana Balawegaya (SJB) General Secretary Ranjith Madduma Bandara has been officially appointed as a National List MP for the party. The announcement confirming his appointment was published in an Extraordinary Gazette issued yesterday.
-
-Madduma Bandara, a seasoned politician, previously entered Parliament via the National List in 2020. He has a long-standing Parliamentary career, having represented the Monaragala district from 1989 to 2020 as a member of the United National Party (UNP) before joining the SJB. The SJB secured five National List seats in the 2024 Parliamentary Election, leaving four more appointments to be finalised. Discussions are currently ongoing to determine the candidates for these seats.
-
-One of the key demands comes from the Tamil Progressive Alliance (TPA), an SJB alliance partner. The TPA has urged the SJB leadership to allocate one of the remaining National List seats to its leader, Mano Ganesan, who failed to secure a seat in the election.
-
-◼️
-
-[Data](articles/64202a50.json)
-
-[Extended Data](ext_articles/64202a50.ext.json)
-
----
-
-### Dr. Nalinda Jayatissa new Cabinet Spokesman
-
-*2024-11-20 05:31:54* · [`dailyftlk`](https://www.ft.lk/news/Dr-Nalinda-Jayatissa-new-Cabinet-Spokesman/56-769427) · `en`
-
-The inaugural meeting of the newly-formed Cabinet of Ministers took place yesterday under the leadership of President Anura Kumara Dissanayake.
-
-The meeting took place at the Presidential Secretariat yesterday morning, the President’s Media Division (PMD) noted via a statement.
-
-“During the meeting, Health and Media Minister Dr. Nalinda Jayatissa was appointed as the Cabinet Spokesman,” it added.
-
-◼️
-
-[Data](articles/ab96b1bc.json)
-
-[Extended Data](ext_articles/ab96b1bc.ext.json)
-
----
-
-### 16 Ministries, PM get new Secretaries
-
-*2024-11-20 04:04:58* · [`dailyftlk`](https://www.ft.lk/news/16-Ministries-PM-get-new-Secretaries/56-769426) · `en`
-
-The appointment of the new Secretary to the Prime Minister, the Cabinet Secretary, and Secretaries for 16 Ministries was held at the Presidential Secretariat yesterday.
-
-The ceremony was officiated by Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-Senior Prof. Kapila C.K. Perera – Secretary to the Ministry of Transport, Highways, Ports and Civil Aviation
-
-K.M.M. Siriwardana – Secretary to the Ministry of Finance, Planning and Economic Development
-
-J.M. Thilaka Jayasundara – Secretary to the Ministry of Industry and Entrepreneurship Development
-
-A.M.P.M.B. Atapattu – Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs
-
-B.K. Prabath Chandrakeerthi – Secretary to the Ministry of Plantation and Community Infrastructure
-
-D.W.R.B. Seneviratne – Secretary to the Ministry of Public Security and Parliamentary Affairs
-
-U.G. Ranjith Ariyaratne – Secretary to the Minister of Urban Development, Construction and Housing
-
-...
-
-[Data](articles/549d4ee6.json)
-
-[Extended Data](ext_articles/549d4ee6.ext.json)
-
----
-
-### How was the Parliament broadcast to the greatest women's representation?
-
-*2024-11-20 03:48:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6vld05gj5o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's 2020 parliamentary election saw record-breaking women's representation. 22 women were elected, including 19 through preferential voting. This improved Sri Lanka's global ranking from 175th to 166th in female representation. Women's issues like sanitation and healthcare gained attention due to their presence in Parliament.
-
-🟩
-
-How was the Parliament broadcast to the greatest women's representation?
-
-At the general election, 22 women have been elected to a new page.
-
-However, several parties, including the reconciliation force, have not yet been named their national lists.
-
-Accordingly, the number of MPs selected for a Parliament will represent the Parliament this year.
-
-Of the women's candidates contesting with national power and congenic force, 21 have been elected to the Parliament and elected to Parliament.
-
-In the national propagation, 19 women and 2 women have won the preferential votes in harmony community.
-
-A woman has been appointed to one seat with national lists of national population.
-
-Dr. Harini Amarasuriya, who was sworn in as the Prime Minister of the Prime Minister for the second time (November 18), was held in Colombo District.
-
-Former Prime Minister Mahinda Rajapaksa has won the highest number of preferential number of preferential votes taken in a general election.
-
-...
-
-[Data](articles/49db79de.json)
-
-[Extended Data](ext_articles/49db79de.ext.json)
 
 ---

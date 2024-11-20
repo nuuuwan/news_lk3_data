@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 18:52:25**
+As of **2024-11-20 19:06:12**
 
 ## Newspaper Stats
 
-*Scraped **55,969** Articles*
+*Scraped **55,972** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,265
+adalk | 5,266
 adaderanalk | 6,761
-tamilmirrorlk | 7,937
+tamilmirrorlk | 7,939
 virakesarilk | 9,087
 adaderanasinhalalk | 9,672
 
@@ -26,11 +26,63 @@ adaderanasinhalalk | 9,672
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,967 (100.0%) of 55,969 articles have been extended.
+55,969 (100.0%) of 55,972 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### நாட்டு அரிசியை இறக்குமதி செய்ய அனுமதி
+
+*2024-11-20 18:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-அரிசியை-இறக்குமதி-செய்ய-அனுமதி/175-347510) · `ta`
+
+உள்ளூர் சந்தையில் நிலவும் அரிசி பற்றாக்குறையை நிவர்த்தி செய்யும் பொருட்டு 70,000 மெட்ரிக் தொன் நாட்டு அரிசியை இறக்குமதி செய்ய அரசாங்கம் தீர்மானித்துள்ளது.
+
+சதொச கூட்டுறவு மொத்த விற்பனை ஸ்தாபனம் (CWE) மற்றும் இலங்கை அரச வர்த்தக (பொது) கூட்டுத்தாபனம் ஆகியவற்றின் ஊடாக அரிசி இறக்குமதி செய்யப்படும் என வர்த்தக அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
+
+◼️
+
+[Data](articles/4ad96adf.json)
+
+---
+
+### උපෙළ විභාගය කල් දැමීමක් නෑ
+
+*2024-11-20 18:40:58* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-විභාගය-කල්-දැමීමක්-නෑ/11-413182) · `si`
+
+2024 අ.පො.ස. (උසස් පෙළ) විභාගය 2024.11.25 දින සිට 2024.12.20 දින දක්වා පැවැත්වීමට මේ වන විට දින නියම කර ඇත.
+
+මෙම විභාගය කල් දමන ලෙස විවිධ පාර්ශ්වයන් වෙතින් ඉල්ලීම් ඉදිරිපත් වෙමින් පවතින අතර එම ඉල්ලීම් පිළිබඳව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේ අවධානය යොමු වී ඇත.
+
+2024 අ.පො.ස. (උසස් පෙළ) විභාගය 2024.11.25 දින සිට 2024.12.20 දින දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව විසින් 2024.03.01 දිනැතිව නිකුත් කරන ලද මාධ්‍ය නිවේදනයක් මගින් ප්‍රසිද්ධ කර තිබූ අතර විභාග ප්‍රශ්න පත්‍ර මුද්‍රණය, ප්‍රාදේශීය එක්රැස් කිරීමේ මධ්‍යස්ථාන, සම්බන්ධීකරණ මධ්‍යස්ථාන සහ විභාග මධ්‍යස්ථාන පිහිටුවීම ඇතුළු විභාගයේ පූර්ව සූදානම් කටයුතු සියල්ල මේ වන විට අවසන් කර ඇත.
+
+තවද, මෙම විභාගය පැවැත්වෙන දින වකවානු අනුව, ඉදිරියේදී පැවැත්වීමට නියමිත 2024 අ.පො.ස. (සාමාන්‍ය පෙළ) විභාගය ද ඇතුළුව සෙසු විභාග රැසක් සඳහා දින තීරණය කර ඇති අතර මෙම විභාගය කල් දැමීමට කටයුතු කළහොත්  එමගින් ඉදිරි විභාග වැඩසටහන ද නැවත වරක් සම්පූර්ණ වශයෙන්ම අක්‍රමවත් වනු ඇත.
+
+...
+
+[Data](articles/b84aab0d.json)
+
+---
+
+### சில முறைகளை ரத்து செய்தார் ஜனாதிபதி
+
+*2024-11-20 18:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-முறைகளை-ரத்து-செய்தார்-ஜனாதிபதி/175-347508) · `ta`
+
+நாளை (நவம்பர் 21) கூடவுள்ள பத்தாவது பாராளுமன்றத்தின் முதல் அமர்வை சம்பிரதாயபூர்வமாகத் ஆரம்பிப்பதற்கான ஒத்திகை இன்று பாராளுமன்ற வளாகத்தில் நடைபெற்றது.
+
+பாராளுமன்ற அறிக்கையின்படி, 10வது பாராளுமன்றம் நாளை காலை 9:55 மணிக்கு வாக்கழைப்பு மணி ஒலித்ததைத் தொடர்ந்து, 10:00 மணிக்கு ஆரம்ப அமர்வு ஆரம்பமாகிறது.
+
+சபையில் செங்கோலை வைத்த பின்னர், பாராளுமன்றத்தின் செயலாளர் நாயகம், ஜனாதிபதியினால் வெளியிடப்பட்ட அதிவிசேட வர்த்தமானி அறிவித்தல்களை, அமர்வுக்கான திகதி மற்றும் நேரத்தை நிர்ணயம் செய்து, முதல் அலுவலாக முன்வைப்பார்.
+
+பின்னர் அரசியலமைப்பின் 64(1) மற்றும் பாராளுமன்ற நிலையியற் கட்டளைகள் 4, 5 மற்றும் 6 ஆகியவற்றின் விதிகளின்படி சபாநாயகர் தேர்ந்தெடுக்கப்படுவார்.
+
+பின்னர், சபாநாயகர் சத்தியப்பிரமாணம் அல்லது உறுதிமொழி எடுப்பார், சபாநாயகரின் பதவிச்சத்தியம் அல்லது உறுதியுரை, பாராளுமன்ற உறுப்பினர்களின் பதவிச்சத்தியம் அல்லது உறுதியுரை, பிரதிச் சபாநாயகர் மற்றும் குழுக்களின் பிரதித் தவிசாளர் வாக்களிப்பினால் தெரிவுசெய்தல் என்பன இடம்பெறும்.
+
+...
+
+[Data](articles/19584e93.json)
+
+---
 
 ### Complete the collection of details
 
@@ -58,21 +110,35 @@ In addition, the online system was introduced via the Parliamentary website to p
 
 ---
 
-### ජවිපේ ක්‍රියාකාරීන් දෙදෙනෙක් ඝාතනය කළ ජුලම්පිටිය අමරේට දුන් මරණ දණ්ඩනය තහවුරු කරයි
+### Julampiti Amare, who killed two JVP activists, confirms the death penalty
 
 *2024-11-20 18:07:45* · [`adalk`](https://www.ada.lk/breaking_news/ජවිපේ-ක්‍රියාකාරීන්-දෙදෙනෙක්-ඝාතනය-කළ-ජුලම්පිටිය-අමරේට-දුන්-මරණ-දණ්ඩනය-තහවුරු-කරයි/11-413180) · `si`
 
-ජනතා විමුක්ති පෙරමුණේ හම්බන්තොට කටුවන ප්‍රදේශයේ පැවති රැස්වීමකට මීට වසර 12කට පෙර කඩා වැදී වෙඩි තබා පුද්ගලයින් දෙදෙනකු ඝාතනය කර තවත් අයෙකුට මරණීය තුවාල කිරීමේ චෝදනාවන්ට වරදකරු කරමින් ජුලම්පිටියේ අමරේ නැමැත්තාට තංගල්ල මහාධිකරණයෙන් පනවා තිබූ මරණීය දණ්ඩනය අභියාචනාධිකරණය අද (20) අනුමත කළේය.
+Here's a summary in 200 characters:
 
-සාක්කි විමසා බැලීමෙන් අනතුරුව මරණීය දණ්ඩනය පමුණුවමින් තංගල්ල මහාධිකරණ විනිසුරුවරයා ප්‍රකාශයට පත් කළ තීන්දුවට මැදිහත් වීමට අපේක්ෂා නොකරන බව සඳහන් කරමින් අදාළ අභියාචනය නිශ්ප්‍රභ කරමින් අභියාචනාධිකරණ විනිසුරු මඩුල්ල මහාධිකරණ තීන්දුව අනුමත කළේය.
 
-අභියාචනාධිකරණ විනිසුරුවරුන් වන පී. කුමාරන් රත්නම් සහ සම්පත් අබේකෝන් යන මහත්වරු හමුවේ මෙම අභියාචනය විභාග කෙරිණී.
 
-තංගල්ල මහාධිකරණයෙන් තමන්ට මරණීය දණ්ඩනය පමුණුවමින් දුන් නියෝගය ඉවත දමා තමන් නිදොස් කර නිදහස් කරන්නැයි ඉල්ලමින් ජී.ජී. අමරසිරි හෙවත් ජුලම්පිටියේ අමරේ නැමැත්තා ගොනු කර තිබු මෙම අභියාචනයේ වගඋත්තරකරු වශයෙන් නීතීපතිවරයා නම් කර තිබිණී.
+Tangalle High Court approves death penalty for Julampitiye Amare, convicted of killing 2 JVP activists in 2012. Appeal rejected by Court of Appeal judges Kumaran Ratnam and Sampath Abeykoon.
 
-...
+🟩
+
+The death penalty of the Tangalle High Court today (20) was approved by the Tangalle High Court today.
+
+The appeal was approved by the Court of Appeal Judge by the Court of Appeal, notion that the Tangalle High Court Judge was not intended to intervene after examining the decisions.
+
+Court of Appeal Court Judges. The appeal was heard before Kumaran Ratnam and Sampath Abeykoon.
+
+The Tangalle High Court dismissed the order he was sentenced to death and released. The Attorney General has been named as respondent in this appeal, who had filed Amarasiri or Julampitiye Amare.
+
+The Attorney General had filed a case before the Tangalle High Court against the allegations of two persons, killing two people in the Katuwana area in Hambantota on 15th June 2012.
+
+After a long trial, the Tangalle High Court judge was sentenced to death for the accused.
+
+◼️
 
 [Data](articles/18d1b9c4.json)
+
+[Extended Data](ext_articles/18d1b9c4.ext.json)
 
 ---
 
@@ -1224,25 +1290,41 @@ The Criminal Investigation Department has a statement regarding the V8.
 
 ---
 
-### JVP රැස්වීමකට වෙඩි තැබීම: ජුලම්පිටියේ අමරේට පැනවූ මරණ දඬුවම තහවුරුයි
+### Farming at a JPP meeting: The death penalty imposed on Julampitiye Amare
 
 *2024-11-20 11:44:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9ql3e30lq9o) · `si`
 
-JVP රැස්වීමකට වෙඩි තැබීම: ජුලම්පිටියේ අමරේට පැනවූ මරණ දඬුවම තහවුරුයි
+Here's a summary of the text in approximately 200 characters:
 
-ජී.ජී.අමරසිරි හෙවත් ජුලම්පිටියේ අමරේ නැමැත්තාට පනවා තිබූ මරණීය දණ්ඩනය අභියාචනාධිකරණය අද (නොවැම්බර් 20 වැනිදා) තහවුරු කළේය.
 
-ඒ, 2012 වසරේ කටුවන ප්‍රදේශයේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට කඩා වැදී වෙඩි තබා පුද්ගලයින් දෙදෙනකු මරා දමා තවත් අයෙකුට මරණීය තුවාල සිදු කිරීමේ චෝදනාවට වරදකරු වී තංගල්ල මහාධිකරණය පැනවූ මරණීය දණ්ඩනය තහවුරු කරමිනි.
 
-විනිසුරු පී. කුමාරන් රත්නම්ගේ එකඟත්වය ඇතිව අභියාචනාධිකරණය විනිසුරු සම්පත් අබේකෝන් විසින් මෙම තීන්දුව ලබා දුන්නේ ය.
+Death penalty confirmed for Julampitiye Amare by Tangalle High Court for 2012 murders. Appeal rejected by Court of Appeal. Judge denied defendant's evidence claims.
 
-2012 වසරේ ජුනි මස 15 වන දා කටුවන ප්‍රදේශයේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට කඩා වැදී වෙඩි තබා  පුද්ගලයින් දෙදෙනෙකු මරා දමා තවත් අයකුට මරණීය තුවාල සිදු කිරීම ඇතුළු චෝදනා යටතේ නීතිපතිවරයා විසින් ජුලම්පිටියේ අමරේ නැමැත්තාට එරෙහිව මෙම නඩුව තංගල්ල මහාධිකරණය හමුවේ ගොනු කර තිබිණි.
+🟩
 
-එම චෝදනාවන්ට වරදකරු කෙරුණු ජුලම්පිටිය අමරේ නමැත්තාට තංගල්ල මහාධිකරණය විසින් මරණීය දණ්ඩනය නියම කරනු ලැබුවේ ය.
+Farming at a JPP meeting: The death penalty imposed on Julampitiye Amare
+
+The December 20, the December 20 (November 20) has confirmed the death penalty for GG Amaraseiri.
+
+It was confirmed by the Tangalle High Court by killing two people who were killed and killed by the JVP in 2012.
+
+Justice P. The Court of Appeal was given by the Court of Abeykoon with the agreement with Kumaran Ratnam.
+
+The case was filed by the Tangalle High Court against Julampitiye Amare against another injuries in Katuwana.
+
+Julampitiye Amare was sentenced to death by the Tangalle High Court.
+
+Julampitiye Amare offered a appeal to the Court of Appeal to seek to acquit and release him from that punishment.
+
+The defendant said that the judge did not consider the evidence presented by the defendant at the High Courts.
+
+Accordingly, the accused had sought to acquit and release them from the accusations.
 
 ...
 
 [Data](articles/ea6745c5.json)
+
+[Extended Data](ext_articles/ea6745c5.ext.json)
 
 ---
 
@@ -2461,63 +2543,5 @@ The National Chamber of Commerce of Sri Lanka (NCCSL) President Deepal Nelson ye
 [Data](articles/74987545.json)
 
 [Extended Data](ext_articles/74987545.ext.json)
-
----
-
-### Chamber of Marine Industries congratulates NPP on electoral success
-
-*2024-11-20 06:09:47* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-congratulates-NPP-on-electoral-success/34-769443) · `en`
-
-The Chamber of Marine Industries of Sri Lanka (CMISL) has congratulated President Anura Kumara Dissanayake and the National People’s Power (NPP) on their success at the Parliamentary Election last week.
-
-“This achievement reflects the collective aspirations of Sri Lankans for transformative leadership and a renewed focus on sustainable economic growth,” CMISL President Kaushal Rajapaksa said in a letter to President Dissanayake.
-
-“The CMISL is encouraged by your administration’s commitment to fostering economic resilience, streamlining governance, and attracting Foreign Direct Investment (FDI). We believe that expediting the implementation of the regulatory framework for the marine industry, already drawn up by the Deputy General of Merchant Shipping, is a crucial step to unlocking the full potential of this sector. A well-defined and operational framework will attract investments, reduce bureaucratic inefficiencies, and set the foundation for robust growth.
-
-...
-
-[Data](articles/3ffdd904.json)
-
-[Extended Data](ext_articles/3ffdd904.ext.json)
-
----
-
-### FTZMA welcomes NPP’s landslide victory at General Election, pledges support for economic reforms
-
-*2024-11-20 06:08:38* · [`dailyftlk`](https://www.ft.lk/business/FTZMA-welcomes-NPP-s-landslide-victory-at-General-Election-pledges-support-for-economic-reforms/34-769442) · `en`
-
-The Free Trade Zone Manufacturers Association (FTZMA), sole trade chamber representing export-oriented companies under the purview of the Board of Investment (BOI) has congratulated the National People’s Power (NPP) on its resounding victory in the recent General Elections.
-
-In a statement issued recently, the FTZMA commended the NPP’s success, describing it as a reflection of the strength of Sri Lanka’s democratic principles. The victory, they noted, underscores the people’s desire for a stable Government capable of driving reforms essential for a true national renaissance.
-
-The association also emphasised its readiness to collaborate with the new administration to advance Sri Lanka’s economic development.
-
-Key areas of focus outlined by the chamber include eradicating corruption, promoting good governance and improving the ease of doing business.
-
-...
-
-[Data](articles/f1fbaa54.json)
-
-[Extended Data](ext_articles/f1fbaa54.ext.json)
-
----
-
-### Lanka Confectionery Manufacturers Associations extends well wishes to President and new Cabinet
-
-*2024-11-20 06:08:23* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Confectionery-Manufacturers-Associations-extends-well-wishes-to-President-and-new-Cabinet/34-769441) · `en`
-
-The apex body of the confectionery manufacturers in Sri Lanka, Lanka Confectionery Manufacturers Association (LCMA) has extended its heartfelt congratulations to President Anura Kumara Dissanayake and the newly appointed Cabinet Ministers.
-
-In a statement, the association pledged its fullest support towards uplifting the local confectionery industry.
-
-“Considering the local economy’s disorientation and the many challenges faced in the past years, LCMA is eagerly looking forward to playing a significant part in developing and implementing the industry and hope to play a major role in the growth of the industry as well as in the growth of Sri Lanka,” LCMA President S.M.D. Suriyakumara said.
-
-He also said that LCMA is keen on working closely with the new Government to expand the horizons of the local confectionery manufacturing industry to the export markets.
-
-...
-
-[Data](articles/429b9fae.json)
-
-[Extended Data](ext_articles/429b9fae.ext.json)
 
 ---

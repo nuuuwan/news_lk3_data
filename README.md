@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 08:29:38**
+As of **2024-11-20 09:41:58**
 
 ## Newspaper Stats
 
-*Scraped **55,854** Articles*
+*Scraped **55,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,347
 economynextcom | 3,385
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,248
+adalk | 5,249
 adaderanalk | 6,720
-tamilmirrorlk | 7,915
+tamilmirrorlk | 7,918
 virakesarilk | 9,079
 adaderanasinhalalk | 9,654
 
@@ -26,11 +26,91 @@ adaderanasinhalalk | 9,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,830 (100.0%) of 55,854 articles have been extended.
+55,843 (100.0%) of 55,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### 7 கோடி கொள்ளை - சந்தேகநபர் கைது
+
+*2024-11-20 09:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-கோடி-கொள்ளை-சந்தேகநபர்-கைது/175-347477) · `ta`
+
+பணத்தை பாதுகாப்பாக கொண்டு செல்லும் தனியார் நிறுவனமொன்றின் சாரதி ஒருவர் 7 கோடி ரூபாவுக்கும் அதிகமான பணத்தை மினுவாங்கொடையில் வைத்து கொள்ளையிட்டுச் சென்ற சம்பவம் தொடர்பில் சந்தேகநபர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+கம்பஹா பிரதேச குற்றப் புலனாய்வுப் பிரிவினரும் மினுவாங்கொட பொலிஸாரும் இணைந்து நேற்று (19) பிற்பகல் கம்பஹா கடுவங்கஹா பகுதியில் வைத்து சந்தேக நபரைக் கைது செய்தனர்.
+
+கைது செய்யப்பட்ட போது, ​​அவரிடம் இருந்து 5 கிராம் 420 மில்லிகிராம் ஐஸ் போதைப்பொருள் கைப்பற்றப்பட்ட நிலையில், கொள்ளையிடப்பட்ட பணத்தில் இருந்து 31,515,291 ரூபா பணமும் மீட்கப்பட்டுள்ளது.
+
+தம்மிட்ட மாகவிட பிரதேசத்தை சேர்ந்த 35 வயதுயை ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+பணத்தை பாதுகாப்பாக கொண்டு செல்லும் தனியார் நிறுவனமொன்றின் நான்கு பேர் கொண்ட அதிகாரிகள் குழுவொன்று நேற்று காலை பணப்பைகளுடன் வேனில் மினுவாங்கொடையில் உள்ள தனியார் வங்கிக்கு சென்றுள்ளனர்.
+
+வங்கிக்கு அருகில் வந்த பிறகு, சாரதி மட்டும் வேனில் இருந்த நிலையில் ஏனையவர்கள் வேனில் இருந்து இறங்கிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/357bca46.json)
+
+---
+
+### Ukraine launched US missiles
+
+*2024-11-20 08:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஏவுகணைகளை-ஏவியது-உக்ரைன்/50-347476) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+US missiles fired from Ukraine hit Russia's north border. Russia claims 5 shot down, 1 damaged. US says only 2 out of 8 Ukrainian-launched missiles were blocked by Russia. Discrepancies in reported missile counts and effectiveness.
+
+🟩
+
+The Russian Defense Ministry said the missile attack was launched on the northern Ukraine border.
+
+It has been reported that 5 missiles have been shot down and a missile damaged.
+
+However, the US said only two of the 8 missile attacks launched by Ukraine were blocked by Russian side.
+
+◼️
+
+[Data](articles/cd69f635.json)
+
+[Extended Data](ext_articles/cd69f635.ext.json)
+
+---
+
+### Mannar incident;What is the next step?
+
+*2024-11-20 08:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சம்பவம்-அடுத்தகட்ட-நடவடிக்கை-என்ன/72-347475) · `ta`
+
+Here's a summary of the incident in 200 characters:
+
+
+
+Mannar: Woman & unborn fetus die at hospital. Relatives claim neglect. Autopsy planned. Investigation ongoing. Cause of death pending.
+
+🟩
+
+The mother and the fetus, who was admitted to the Mannar District General Hospital, died yesterday after the death of the infantry.
+
+A 28 -year -old woman from Mannar - Pattittottam area is reported to have died.
+
+Relatives allege that the woman was suffering from shortness of breath.
+
+Her relatives have accused the woman and the fetus of the hospital due to lack of attention.
+
+The Mannar District Health Services Director said,
+
+He said that arrangements have been made for autopsy and a proper investigation into the incident will be held.The Mannar District Health Services Director General said that after the autopsy, he could find the cause of his death.. Remble
+
+◼️
+
+[Data](articles/f78108f6.json)
+
+[Extended Data](ext_articles/f78108f6.ext.json)
+
+---
 
 ### 75 millimeters of rain today
 
@@ -75,6 +155,36 @@ SSP Spokesperson SSP Spokesperson Senior Lecturer Charged Charta Ilangasinghe,
 [Data](articles/cedba6df.json)
 
 [Extended Data](ext_articles/cedba6df.ext.json)
+
+---
+
+### Contractor arrested for the death of the worker
+
+*2024-11-20 07:29:30* · [`adalk`](https://www.ada.lk/breaking_news/කම්කරුවාගේ-මරණයට-කොන්ත්‍රාත්කරු-අල්ලයි/11-413158) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Contractor (24) arrested for fatal accident: Worker (38) died when wall collapsed during renovation in Kolupitiya. Suspect from Nugegoda; case to be heard in court. Investigation ongoing under Kollupitiya Police OIC.
+
+🟩
+
+Kolupitiya Police say that a person was killed after a wall of the 25th Lane of Kollupitiya.
+
+The deceased has been identified as a 38 year old resident of Namunula Arawatta. The 24-year-old contractor has been arrested by the police.
+
+While the deceased was carrying out an old building at the above address. The police states that the police staten were observed that no action has been adopted by the Contractor's employees.
+
+The event has been revealed that the death was caused by the contractor. The contractor said that the contractor was arrested. The suspect is a resident of Nugegoda.
+
+The suspect is to be produced in court. Investigations are conducted on the instructions of the Kollupitiya Police OIC of the Kollupitiya Police.
+
+◼️
+
+[Data](articles/47d9ab8e.json)
+
+[Extended Data](ext_articles/47d9ab8e.ext.json)
 
 ---
 
@@ -230,6 +340,8 @@ Key areas of focus outlined by the chamber include eradicating corruption, promo
 
 [Data](articles/f1fbaa54.json)
 
+[Extended Data](ext_articles/f1fbaa54.ext.json)
+
 ---
 
 ### Lanka Confectionery Manufacturers Associations extends well wishes to President and new Cabinet
@@ -248,6 +360,8 @@ He also said that LCMA is keen on working closely with the new Government to exp
 
 [Data](articles/429b9fae.json)
 
+[Extended Data](ext_articles/429b9fae.ext.json)
+
 ---
 
 ### Indo Lanka Chamber of Commerce and Industry extends congratulations to new Govt.
@@ -261,6 +375,8 @@ ILCCI is confident that, under the dynamic and astute leadership of the new Gove
 ...
 
 [Data](articles/207dcb3d.json)
+
+[Extended Data](ext_articles/207dcb3d.ext.json)
 
 ---
 
@@ -277,6 +393,8 @@ The Association also extended its congratulations and best wishes to the newly e
 ...
 
 [Data](articles/d5549629.json)
+
+[Extended Data](ext_articles/d5549629.ext.json)
 
 ---
 
@@ -346,6 +464,8 @@ N. Udayakumar and Dr. Arosha Fernando have been nominated as the new Joint Manag
 
 [Data](articles/7730df88.json)
 
+[Extended Data](ext_articles/7730df88.ext.json)
+
 ---
 
 ### Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics
@@ -359,6 +479,8 @@ There is magic in the air! The country is in a festive mood. The toast of the to
 ...
 
 [Data](articles/478e5a46.json)
+
+[Extended Data](ext_articles/478e5a46.ext.json)
 
 ---
 
@@ -374,6 +496,8 @@ The resounding victory of the National People’s Power (NPP) marks the beginnin
 
 [Data](articles/9fc82c32.json)
 
+[Extended Data](ext_articles/9fc82c32.ext.json)
+
 ---
 
 ### The people have spoken: Can the NPP transform promises into progress?
@@ -388,21 +512,33 @@ The 2024 Sri Lankan general election marks a potential turning point in the nati
 
 [Data](articles/6e6fa8a7.json)
 
+[Extended Data](ext_articles/6e6fa8a7.ext.json)
+
 ---
 
-### அமெரிக்கா வழங்கிய நீண்டதூர ஏவுகணைகளை பயன்படுத்தியது உக்ரைன் - ரஸ்யா மீது தாக்குதல்
+### Ukraine -Russia used long -term missiles provided by the US
 
 *2024-11-20 05:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199195) · `ta`
 
-அமெரிக்கா வழங்கிய நீண்டதூர ஏவுகணையை பயன்படுத்தி உக்ரைன் ரஸ்யா மீது முதல் தடவை தாக்குதலை மேற்கொண்டுள்ளது.
+Here's a summary in 200 characters:
 
-உக்ரைனின் வடபகுதி எல்லையில் உள்ள பிரையான்ஸ்க் பகுதியை உக்ரைன் இலக்குவைத்துள்ளதாக தெரிவித்துள்ள ரஸ்ய அதிகாரிகள் ஐந்து ஏவுகணைகளை சுட்டு வீழ்த்தியுள்ளதாகவும் ஒன்றின் சிதறல்கள் இராணுவ தளமொன்றின் மீது விழுந்து  வெடித்ததில் சேதங்கள் ஏற்பட்டுள்ளதாகவும் தெரிவித்துள்ளது.
 
-எனினும் உக்ரைன் செலுத்திய எட்டு ஏவுகணைகளில் இரண்டை ரஸ்யா இடைமறித்து அழித்துள்ளதாக தெரிகின்றது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+US-supplied long-range missiles used by Ukraine in attack on Russia. Russia intercepts 2 out of 8 missiles, causing damage to military base.
+
+🟩
+
+Ukraine has launched a first -time attack on Russia, using a long -term missile provided by the US.
+
+Russian officials who have targeted the Bryansk region on the northern border of Ukraine have shot down five missiles and have caused damage to the explosion of a military base.
+
+However, US officials say that Russia has intercepted and destroyed two of the eight missiles laid by Ukraine.
 
 ◼️
 
 [Data](articles/8c885eee.json)
+
+[Extended Data](ext_articles/8c885eee.ext.json)
 
 ---
 
@@ -417,6 +553,8 @@ The question ‘who is eligible to be appointed as a Minister?’ is unanswerabl
 ...
 
 [Data](articles/6e9ba583.json)
+
+[Extended Data](ext_articles/6e9ba583.ext.json)
 
 ---
 
@@ -2201,93 +2339,5 @@ The official said that this has caused disruption to the train service on the hi
 [Data](articles/1986dd14.json)
 
 [Extended Data](ext_articles/1986dd14.ext.json)
-
----
-
-### Another post for Dr. Nalinda Jayatissa
-
-*2024-11-19 15:36:59* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍ය-නලින්ද-ජයතිස්සට-තවත්-තනතුරක්/11-413144) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Dr. Nalinda Jayatissa appointed as chief parliamentary organizer.
-
-🟩
-
-It is reported that Minister Dr. Nalinda Jayatissa has been appointed chief organizer of parliamentary organizer.
-
-◼️
-
-[Data](articles/ad27a163.json)
-
-[Extended Data](ext_articles/ad27a163.ext.json)
-
----
-
-### Train derailment in Thiyathalawa
-
-*2024-11-19 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199154) · `ta`
-
-Train derailment reported at Diyathalawa station. Train from Kandy to Badulla derailed. Railway department investigating cause.
-
-🟩
-
-A train derailed at the Diyathalawa railway station this afternoon.
-
-The railway department said that the train traveling from Kandy to Badulla has been derailed.
-
-◼️
-
-[Data](articles/1ff26247.json)
-
-[Extended Data](ext_articles/1ff26247.ext.json)
-
----
-
-### New responsibility assigned to Mass Media
-
-*2024-11-19 14:52:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-ඇමතිට-පැවරුණු-අලුත්-වගකීම/11-413143) · `si`
-
-Here's a 200-character summary:
-
-
-
-Mass Media Minister Nalinda Jayatissa appointed as new cabinet spokesman.
-
-🟩
-
-Mass Media Minister Nalinda Jayatissa has been appointed as the new cabinet spokesman.
-
-◼️
-
-[Data](articles/b09c659f.json)
-
-[Extended Data](ext_articles/b09c659f.ext.json)
-
----
-
-### Cabinet spokesman Nalinda Jayatissa
-
-*2024-11-19 14:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-பேச்சாளர்-நளிந்த-ஜயதிஸ்ஸ/175-347439) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-New Cabinet meets; Health Minister Nalinda Jayatissa named as media spokesperson.
-
-🟩
-
-The first Cabinet meeting of the new government was held on Tuesday (19) at the Presidential Office headed by President Anura Kumara Dissanayake.
-
-Health and Mass Media Minister Dr. Nalinda Jayatissa has been appointed as a media spokesman for the new Cabinet, the Presidential Media Unit said.
-
-◼️
-
-[Data](articles/4e289b24.json)
-
-[Extended Data](ext_articles/4e289b24.ext.json)
 
 ---

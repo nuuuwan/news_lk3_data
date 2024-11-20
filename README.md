@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 20:41:44**
+As of **2024-11-20 20:13:57**
 
 ## Newspaper Stats
 
-*Scraped **55,982** Articles*
+*Scraped **55,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,268
+adalk | 5,267
 adaderanalk | 6,762
-tamilmirrorlk | 7,941
+tamilmirrorlk | 7,940
 virakesarilk | 9,090
 adaderanasinhalalk | 9,674
 
@@ -26,73 +26,45 @@ adaderanasinhalalk | 9,674
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,980 (100.0%) of 55,982 articles have been extended.
+55,977 (100.0%) of 55,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### A/L பரீட்சை ஒத்திவைக்கப்படுகின்றதா?
-
-*2024-11-20 20:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-ஒத்திவைக்கப்படுகின்றதா/175-347524) · `ta`
-
-2024 ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர உயர் தர பரீட்சை திட்டமிட்டபடி நவம்பர் 25ஆம் திகதி ஆரம்பமாகும் என கல்வியமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-இந்தப் பரீட்சையை ஒத்திவைக்குமாறு பல்வேறு தரப்பினர் கோரிக்கைகளை முன்வைத்துள்ள போதிலும், இலங்கைப் பரீட்சைகள் திணைக்களம் கடந்த மார்ச் மாதம் எடுத்த தீர்மானத்தின் பிரகாரம், உயர்தரப் பரீட்சைக்கான அனைத்து ஆயத்தப் பணிகளும் ஏற்கனவே நிறைவடைந்துள்ளதாக அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது. R
-
-◼️
-
-[Data](articles/b8976322.json)
-
----
-
-### Education Public Standards
+### கல்வி பொதுத் தராதர உயர் தர பரீட்சை  25ஆம் திகதி ஆரம்பம் - கல்வி அமைச்சு
 
 *2024-11-20 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199270) · `ta`
 
-Sri Lanka: Education standards 2024 begin Nov 25. No exam postponement despite demands. GCE Advanced Level in March as planned. Other exams dates set. Postponing high-level exam may disrupt others.
+2024 ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர உயர் தர பரீட்சை திட்டமிட்டபடி நவம்பர் 25ஆம் திகதி ஆரம்பமாகும் என கல்வியமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
 
-🟩
+இந்தப் பரீட்சையை ஒத்திவைக்குமாறு பல்வேறு தரப்பினர் கோரிக்கைகளை முன்வைத்துள்ள போதிலும், இலங்கைப் பரீட்சைகள் திணைக்களம் கடந்த மார்ச் மாதம் எடுத்த தீர்மானத்தின் பிரகாரம், உயர்தரப் பரீட்சைக்கான அனைத்து ஆயத்தப் பணிகளும் ஏற்கனவே நிறைவடைந்துள்ளதாக அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
 
-The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
-
-Although various parties have made demands to postpone the exam, the Sri Lanka Examinations Department has decided to take all the preparations for the GCE Advanced Level examination in March.
-
-It also stated that the dates have been decided for several examinations, including the next GCE Ordinary Examination, and that if the high -level exam is postponed, the planning for other exams will become completely irregular.
+மேலும், இந்த பரீட்சை நடைபெறும் திகதிகளுக்கு அமைய, அடுத்துவரும் சாதாரணதர பரீட்சை உள்ளிட்ட பல பரீட்கைகளுக்கான திகதிகள் முடிவு செய்யப்பட்டுள்ளதாகவும், உயர்தர பரீட்சை ஒத்திவைக்கப்பட்டால், ஏனைய பரீட்சைகளுக்கான திட்டமிடல் முற்றிலும் ஒழுங்கற்றதாக மாறிவிடும் என்றும் அதில் தெரிவிக்கப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/b4279b43.json)
 
-[Extended Data](ext_articles/b4279b43.ext.json)
-
 ---
 
-### Problem
+### කල් ඇදෙන ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැටලුව
 
 *2024-11-20 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203571) · `si`
 
-Elections Commission: National List MPs names pending; Gazette announcement expected. New Democratic Front and Sri Lanka Muslim Congress seats affected. Reconciliation party publishes list. Hirunika Premachandra qualifies for women's slot. Sharmila Perera appoints Ravi Karunanayake unanimously. SLMC names to be announced today.
+මෙවර පාර්ලිමේන්තු මැතිවරණයෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධූර හිමිවු පක්ෂ කිහිපයක් තවමත් ඊට අදාළ මන්ත්‍රීවරුන්ගේ නම් එවා නොමැති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
 
-🟩
+අදාළ පක්ෂ ලේකම්වරුන් විසින් මැතිවරණ කොමිෂන් සභාව වෙත එම නම් යොමුකිරීමෙන් අනතුරුව ගැසට් මගින් ප්‍රකාශයට පත් කිරීමට නියමිත ය.
 
-The Elections Commission says that several members of the National List MPs have yet to send the names of the MPs this year.
+ඒ අනුව සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර 4ක් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ එක් මන්ත්‍රී ධූරයක් මෙන්ම ශ්‍රී ලංකා මුස්ලීම් කොංග්‍රසයේ එක් මන්ත්‍රී ධුරයක් සඳහා ද පුරප්පාඩු පවතියි.
 
-After the relevant party secretaries to the Election Commission, the gazette is to be announced.
+සමගි ජන බලවේගයට මෙවර පාර්ලිමේන්තු මැතිවරණයේ දී ජාතික ලැයිස්තු මන්ත්‍රීධුර 05ක් හිමිවු අතර මේ වනවිටත් ඉන් එක් ජාතික ලැයිස්තු මන්ත්‍රී ධූරයක් සදහා පක්ෂ මහලේකම් රංජිත් මද්දුම බණ්ඩාර මහතාගේ නම ගැසට් මගින් ප්‍රකාශයට පත් කර තිබේ.
 
-Accordingly, four national listings of the new democratic force have a section of the New Democratic Front as well as one seat of the Sri Lanka Muslim Congress.
-
-The reconciliation has owned five national lists in this year's parliamentary election and has already been published by the party General Secretary Ranjith Madduma Bandara for a national list.
-
-Former MP Hirunika Premachandra stated that he would qualify for a woman in a media briefing held today (20).
-
-Meanwhile, the Secretary of the party Sharmila Perera has decided to appoint the National List MP of the New Democratic Front on a unanimous decision of the party.
+අද (20) පැවති මාධ්‍ය හමුවක දී හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය සදහන් කළේ සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් කාන්තාවකට ලබා දෙන්නේ නම් ඒ සදහා තමන් සුදුසුකම් සපුරා ඇති බවයි.
 
 ...
 
 [Data](articles/14f399d5.json)
-
-[Extended Data](ext_articles/14f399d5.ext.json)
 
 ---
 
@@ -118,29 +90,21 @@ Hundreds of people have been killed and between 100,000 and 130,000 others have 
 
 ---
 
-### 50 people belonging to 15 families due to heavy rains in Jaffna
+### யாழ்ப்பாணத்தில் அடை மழையால் 15 குடும்பங்களை சேர்ந்த 50 பேர் பதிப்பு!
 
 *2024-11-20 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199269) · `ta`
 
-Heavy rains in Jaffna affect 50 people from 15 families, damaging homes and infrastructure.
+தொடர்ச்சியாக பெய்து வரும் மழை அனர்த்தம் காரணமாக யாழ்ப்பாணத்தில் 15 குடும்பங்களை சேர்ந்த 50 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
 
-🟩
+அந்தவகையில் சாவகச்சேரி பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/315 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவரும், ஜே/328 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தைச் சேர்ந்த இரண்டு பேரும் பாதிக்கப்பட்டுள்ளனர். இரண்டு வீடுகள் சேதமடைந்துள்ளன.
 
-Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 50 people from 15 families in Jaffna have been affected by the ongoing heavy rains.
+அத்துடன் ஊர்காவல்துறை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/56 கிராம சேவகர் பிரிவில் இரண்டு குடும்பங்களைச் சேர்ந்த 8 பேர் பாதிக்கப்பட்டுள்ளதுடன் ஒரு வீடு பகுதியளவில் சேதமடைந்துள்ளது.
 
-Two family members of the J/315 Grama Sevakar Division, which belongs to the Chavakachcheri Divisional Secretariat, and two members of a family in the J/328 Grama Sevaka Division. Two houses have been damaged.
+பருத்தித்துளை பிரதேச செயலர் பிரிவிற்குட்பட்ட மூன்று குடும்பங்களைச் சேர்ந்த ஆறுபேர் பாதிக்கப்பட்டுள்ளதுடன் இரண்டு வீடுகள் சேதமடைந்துள்ளன. ஜே/403 கிராம சேவகர் பிரிவில் 7 குடும்பங்களைச் சேர்ந்த 29பேர் பாதிக்கப்பட்டுள்ளதுடன் 6 வீடுகள் சேதமடைந்துள்ளன.
 
-In addition, 8 people from two families have been affected and a house has been partially damaged in the J/56 Grama Niladhari Division of the Kayts Divisional Secretariat Division.
-
-Six people from three families belonging to the Point Pedro Divisional Secretariat have been affected and two houses have been damaged. In the J/403 Grama Niladhari Division, 29 people from 7 families have been affected and 6 houses have been damaged.
-
-He added that a family belonging to a family in the J/91 Grama Niladhari Division, which belongs to the Nallur Divisional Secretariat Division, has been damaged by a house.
-
-◼️
+...
 
 [Data](articles/590b7751.json)
-
-[Extended Data](ext_articles/590b7751.ext.json)
 
 ---
 
@@ -487,20 +451,6 @@ Speaking at a press briefing at the Government Information Department today (20)
 [Data](articles/2dc3db98.json)
 
 [Extended Data](ext_articles/2dc3db98.ext.json)
-
----
-
-### කංචන ලැයිස්තුවෙන් පාර්ලිමේන්තුවට
-
-*2024-11-20 17:01:36* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413176) · `si`
-
-මාතර දිස්ත්‍රික් හිටපු පාර්ලිමේන්තු මන්ත්‍රී කංචන විජේසේකර මහතා නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රීධුර දෙකෙන් එක් මන්ත්‍රීධුරයක් නියෝජනය කරමින් පාර්ලිමේන්තුවට පිවිසීමට නියමිතය.
-
-ඔහු පසුගිය මහ මැතිවරණයේදී මාතර දිස්ත්‍රික්කය නියෝජනය කරමින් තරග කළද ඉන් පරාජයට පත්විය. නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ බොහෝ දෙනෙක් කංචන විජේසේකර මහතා පාර්ලිමේන්තුවට යොමු කළ යුතු බවට මත ප්‍රකාශ කර තිබේ.
-
-◼️
-
-[Data](articles/d7c9b971.json)
 
 ---
 
@@ -2551,5 +2501,53 @@ In other parts of the country, rain or thunderstorms are likely to occur in the 
 [Data](articles/ad268311.json)
 
 [Extended Data](ext_articles/ad268311.ext.json)
+
+---
+
+### Attorney at Ruhunu University strike on day
+
+*2024-11-20 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203548) · `si`
+
+Ruhunu University strike continues as unions demand removal of Vice Chancellor. Prime Minister discusses issue but strike persists until VC is replaced.
+
+🟩
+
+University Trade Unions Joint Committee said that the strike of the university, academic, non-academic and student unions, for the second day today (Jan. 20), will continue to take action to remove the Vice Chancellor of the University of Ruhuna.
+
+However, Prime Minister Haradi Amarasuriya had a discussion with the issue yesterday afternoon, the co-chairman of the University Trade Union Joint Committee.
+
+"Since the Vice Chancellor of the University, study staff, non-academic staff and students have been deprirupted. Especially the scholarship of many students, they have been suspended to participate in graduation. That is the same to non-academic staff. There is a situation where the dear parties treat the lecturers even not even promotions. He did these things because he had political care. "
+
+SSP Spokesperson SSP Spokesperson Senior Lecturer Charged Charta Ilangasinghe,
+
+...
+
+[Data](articles/cedba6df.json)
+
+[Extended Data](ext_articles/cedba6df.ext.json)
+
+---
+
+### 18 arrested for passport to take passport
+
+*2024-11-20 07:38:02* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ලේඛන-රැගෙන-පාස්පෝට්-ගන්න-ආපු-18-ක්-අත්අඩංගුවට/11-413159) · `si`
+
+18 arrested for passport fraud: 20 women detained for fake aviation licenses at Sri Lanka's immigration department.
+
+🟩
+
+Twenty women, including 12 women, arrived at the Department of Immigration and Emigration to the Department of Immigration and Emigration, Battaramulla has been arrested for obtaining aviation license to obtain passports.
+
+The Western Province official seal and DIG, DIG, the Western Province, the Western Province, the Western Province, the Western Province, the UPFA have seized the date of the Natural seal of the South District Secretariat.
+
+According to the Department of Immigration and Emigration, the Department of Immigration and Emigration and the Department of Immigration and Emigration had been informed yesterday (19) and a few days ago.
+
+.Egry writings contacted by the persons outside the emigration of the Immigration and Emigration Chief Inspector Jr.. K. Police said that the DIG Eastern Province of Western Province Western Province and the documents of the suspects and the suspects were contacted by a team of other officers.
+
+...
+
+[Data](articles/820bb4a3.json)
+
+[Extended Data](ext_articles/820bb4a3.ext.json)
 
 ---

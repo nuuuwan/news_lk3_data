@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 19:17:13**
+As of **2024-11-20 19:41:58**
 
 ## Newspaper Stats
 
-*Scraped **55,974** Articles*
+*Scraped **55,977** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,266
-adaderanalk | 6,761
-tamilmirrorlk | 7,939
+adalk | 5,267
+adaderanalk | 6,762
+tamilmirrorlk | 7,940
 virakesarilk | 9,088
 adaderanasinhalalk | 9,673
 
@@ -26,99 +26,193 @@ adaderanasinhalalk | 9,673
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,969 (100.0%) of 55,974 articles have been extended.
+55,975 (100.0%) of 55,977 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### நாட்டு அரிசியை இறக்குமதி செய்ய அனுமதி
+### Virtually no aid has reached besieged north Gaza in 40 days, UN says
+
+*2024-11-20 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/103644/virtually-no-aid-has-reached-besieged-north-gaza-in-40-days-un-says) · `en`
+
+Palestinians are “facing diminishing conditions for survival” in parts of northern Gaza under siege by Israeli forces because virtually no aid has been delivered in 40 days, the UN has warned.
+
+The UN said all its attempts to support the estimated 65,000 to 75,000 people in Beit Hanoun, Beit Lahia and Jabalia this month had been denied or impeded, forcing bakeries and kitchens to shut down.
+
+Earlier this month, a UN-backed assessment said there was a strong likelihood that famine was imminent in areas of northern Gaza.
+
+The Israeli military has said its six-week-long offensive targets regrouping Hamas fighters, and that it is facilitating civilian evacuations and supply deliveries to hospitals.
+
+Hundreds of people have been killed and between 100,000 and 130,000 others have been displaced to Gaza City, where the UN has said essential resources like shelter, water and healthcare are severely limited.
+
+...
+
+[Data](articles/dbf55cdd.json)
+
+---
+
+### Namal's mission to remove military camp in the north
+
+*2024-11-20 19:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடக்கில்-இராணுவ-முகாம்-அகற்றப்பட்டதற்கு-நாமல்-விசனம்/175-347511) · `ta`
+
+Namal Rajapaksa opposes removal of military camps in North, citing national security concerns. He urges consultation with security forces to balance land rebuilding with maintaining national safety.
+
+🟩
+
+The National Coordinator of the Sri Lanka PA (SLPP), Namal Rajapaksa, has expressed concern over the recent removal of a military camp in the Northern Province and planning to remove more camps in the coming months.
+
+Although it is not a problem for the people to rebuild the land, he urged his X site to consult with the security forces in consultation with the security forces to prevent the compromise in national security.
+
+Rajapakse said, "Sri Lanka has fought against 30 years of terrorism, and today all communities are sacrificing thousands of lives and enjoying freedom," Rajapakse said.
+
+He added that it is very important to maintain national security, regardless of the geographical location, whether in the north or south.
+
+◼️
+
+[Data](articles/6ce687e7.json)
+
+[Extended Data](ext_articles/6ce687e7.ext.json)
+
+---
+
+### Allow to import the country's rice
 
 *2024-11-20 18:58:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டு-அரிசியை-இறக்குமதி-செய்ய-அனுமதி/175-347510) · `ta`
 
-உள்ளூர் சந்தையில் நிலவும் அரிசி பற்றாக்குறையை நிவர்த்தி செய்யும் பொருட்டு 70,000 மெட்ரிக் தொன் நாட்டு அரிசியை இறக்குமதி செய்ய அரசாங்கம் தீர்மானித்துள்ளது.
+Here's a summary of 200 characters:
 
-சதொச கூட்டுறவு மொத்த விற்பனை ஸ்தாபனம் (CWE) மற்றும் இலங்கை அரச வர்த்தக (பொது) கூட்டுத்தாபனம் ஆகியவற்றின் ஊடாக அரிசி இறக்குமதி செய்யப்படும் என வர்த்தக அமைச்சர் வசந்த சமரசிங்க தெரிவித்தார்.
+
+
+Government imports 70,000 metric tonnes of rice to combat local shortage. Rice will be sourced via Sathosa CWE and Sri Lanka State Trade Corporation.
+
+🟩
+
+The government has decided to import 70,000 metric tonnes of rice to address the shortage of rice in the local market.
+
+Commerce Minister Wasantha Samarasinghe said rice would be imported through the Sathosa Co -operative Wholesale Organization (CWE) and the Sri Lanka State Trade (General) Corporation.
 
 ◼️
 
 [Data](articles/4ad96adf.json)
 
+[Extended Data](ext_articles/4ad96adf.ext.json)
+
 ---
 
-### උසස් පෙළ විභාගය සැලසුම් කළ ලෙසම
+### As the A / L examination was planned
 
 *2024-11-20 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203570) · `si`
 
-2024 අ.පො.ස. (උසස් පෙළ) විභාගය සැලසුම්කළ ලෙස නොවැම්බර් මස 25වනදා ආරම්භ කරන බව නිවේදනයක් නිකුත්කරමින් අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම විභාගය කල්දමන ලෙස විවිධ පාර්ශ්ව ඉල්ලීම් ඉදිරිපත් කළත්, ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව ඉකුත් මාර්තු මස ගත් තීරණයට අනුව උසස් පෙළ විභාගයේ පූර්ව සූදානම් කටයුතු සියල්ල මේ වන විටත් අවසන් කර ඇති බව එම නිවේදනයේ දැක්වේ.
 
-මෙම විභාගය පැවැත්වෙන දින වකවානු අනුව ඉදිරියේදී පැවැත්වීමට නියමිත සාමාන්‍ය පෙළ විභාගය ඇතුළුව සෙසු විභාග රැසක් සඳහා දින තීරණය කර ඇති බවත්, උසස්පෙළ විභාගය කල් දැමීමට කටයුතු කළහොත් එමගින් ඉදිරි විභාග වැඩසටහනද සම්පූර්ණ වශයෙන්ම අක්‍රමවත් වනු ඇති බවද එහි වැඩිදුරටත් සඳහන්.
 
-2024 අ.පො.ස. (උසස් පෙළ) විභාගය 2024.11.25 දින සිට 2024.12.20 දින දක්වා පැවැත්වීමට මේ වන විට දින නියම කර ඇත.
+2024 GCE A/L exam scheduled March 25-20, 2012. Ministry says all preparations complete despite party requests. Exam cannot be postponed now due to readiness.
 
-මෙම විභාගය කල් දමන ලෙස විවිධ පාර්ශ්වයන් වෙතින් ඉල්ලීම් ඉදිරිපත් වෙමින් පවතින අතර එම ඉල්ලීම් පිළිබඳව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේ අවධානය යොමු වී ඇත.
+🟩
+
+2024 GCE Advanced Level. The Ministry of Education, the Ministry of Education, the Ministry of Education, the Ministry of Education and Vocational Education said.
+
+The statement states that although various party demands have been submitted to adjust the examination, the Department of Examinations has already completed all the pre-examination of the GCE A / L examination.
+
+According to the date of the examination, the date on which the A / L examination will be fully disorganized.
+
+2024 GCE Advanced Level. (A / L) Examination is scheduled to be held from 2524 to 2024 to 20.2012.
+
+Requests from various parties will be presented to the post of examination and the Ministry of Education, Higher Education and Vocational Education is on the basis of these requests.
 
 ...
 
 [Data](articles/b2bf194b.json)
 
+[Extended Data](ext_articles/b2bf194b.ext.json)
+
 ---
 
-### பாராளுமன்றத்துக்கு பஸ்ஸில் வருகை தந்த ஆளும் கட்சி உறுப்பினர்கள்
+### Members of the ruling party attending bus to parliament
 
 *2024-11-20 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199268) · `ta`
 
-ஆளும் கட்சியான தேசிய மக்கள் சக்தியின் 50 இற்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள் புதன்கிழமை (20) பாராளுமன்றத்துக்கு பிரத்தியேக பேருந்தில் வருகைத் தந்து தகவல்களை பதிவு செய்தனர்.
+Ruling party MPs attend special bus to Parliament. Over 50 members register. Meeting chaired by JVP GS & PM. Advised on parliamentary procedures. Emphasis on maintaining public trust.
 
-தேசிய மக்கள் சக்தியின் சார்பில் பாராளுமன்றத்துக்கு தெரிவு செய்யப்பட்டுள்ள பாராளுமன்ற உறுப்பினர்கள் புதன்கிழமை (20) பத்தரமுல்லை பகுதியில் மக்கள் விடுதலை முன்னணியின் காரியாலயத்துக்கு அழைக்கப்பட்டிருந்தனர்.
+🟩
 
-இந்த விசேட கூட்டத்தில் மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் டில்வின் சில்வா மற்றும் பிரதமர் ஹரிணி அமரசூரிய ஆகியோர் கலந்துக் கொண்டனர்.
+More than 50 MPs of the ruling party, the National People's Power, registered information on a special bus to Parliament on Wednesday (20).
 
-தேசிய மக்கள் சக்தியின் சார்பில் பாராளுமன்றத்துக்கு தெரிவாகிய உறுப்பினர்களுக்கு இதன்போது பிரதமர்  வாழ்த்து தெரிவித்துள்ளார். அத்துடன் கட்சியின் பொதுச்செயலாளர் வாழ்த்து தெரிவித்துள்ளார்.
+Members of Parliament, who were elected to Parliament on behalf of the National People's Power, were summoned to the office of the People's Liberation Front on Wednesday (20).
+
+The special meeting was attended by Dilvin Silva, General Secretary of the Janatha Vimukthi Peramuna (JVP) and Prime Minister Harini Amarasuriya.
+
+The Prime Minister congratulates members who elected to Parliament on behalf of the National People's Power. The party's general secretary congratulated.
+
+Members of Parliament have been advised regarding the system of taking place in Parliament. People have made a regime change amidst massive expectations. Dilvin Silva, general secretary of the People's Liberation Front, has advised not to act in any way to disrupt the confidence of the people and to hate the people.
 
 ...
 
 [Data](articles/291a2954.json)
 
+[Extended Data](ext_articles/291a2954.ext.json)
+
 ---
 
-### උපෙළ විභාගය කල් දැමීමක් නෑ
+### There is no propaganda of the substance
 
 *2024-11-20 18:40:58* · [`adalk`](https://www.ada.lk/breaking_news/උපෙළ-විභාගය-කල්-දැමීමක්-නෑ/11-413182) · `si`
 
-2024 අ.පො.ස. (උසස් පෙළ) විභාගය 2024.11.25 දින සිට 2024.12.20 දින දක්වා පැවැත්වීමට මේ වන විට දින නියම කර ඇත.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම විභාගය කල් දමන ලෙස විවිධ පාර්ශ්වයන් වෙතින් ඉල්ලීම් ඉදිරිපත් වෙමින් පවතින අතර එම ඉල්ලීම් පිළිබඳව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේ අවධානය යොමු වී ඇත.
 
-2024 අ.පො.ස. (උසස් පෙළ) විභාගය 2024.11.25 දින සිට 2024.12.20 දින දක්වා පැවැත්වෙන බව ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව විසින් 2024.03.01 දිනැතිව නිකුත් කරන ලද මාධ්‍ය නිවේදනයක් මගින් ප්‍රසිද්ධ කර තිබූ අතර විභාග ප්‍රශ්න පත්‍ර මුද්‍රණය, ප්‍රාදේශීය එක්රැස් කිරීමේ මධ්‍යස්ථාන, සම්බන්ධීකරණ මධ්‍යස්ථාන සහ විභාග මධ්‍යස්ථාන පිහිටුවීම ඇතුළු විභාගයේ පූර්ව සූදානම් කටයුතු සියල්ල මේ වන විට අවසන් කර ඇත.
 
-තවද, මෙම විභාගය පැවැත්වෙන දින වකවානු අනුව, ඉදිරියේදී පැවැත්වීමට නියමිත 2024 අ.පො.ස. (සාමාන්‍ය පෙළ) විභාගය ද ඇතුළුව සෙසු විභාග රැසක් සඳහා දින තීරණය කර ඇති අතර මෙම විභාගය කල් දැමීමට කටයුතු කළහොත්  එමගින් ඉදිරි විභාග වැඩසටහන ද නැවත වරක් සම්පූර්ණ වශයෙන්ම අක්‍රමවත් වනු ඇත.
+2024 GCE A/L exam schedule: March 25-20, 2012. Exam details announced. Preparations complete. Will proceed as planned unless circumstances change.
+
+🟩
+
+2024 GCE Advanced Level. (A / L) Examination is scheduled to be held from 2524 to 2024 to 20.2012.
+
+Requests from various parties will be presented to the post of examination and the Ministry of Education, Higher Education and Vocational Education is on the basis of these requests.
+
+2024 GCE Advanced Level. (A / L) Examination has been published in a press release issued by the Department of Examinations from 2024 to 20.03.2013, and 01.03.03.2013, the Department of Examinations was published in 01.03.2013.All pre-preparations of the examination including the establishment of the centers have completed everything.
+
+Further, this examination is held, the upcoming 2024 GCE Advanced Level. If the examination will be detected, if the examination will be delayed, the examination program will be completed again if the examination will be postponed.
 
 ...
 
 [Data](articles/b84aab0d.json)
 
+[Extended Data](ext_articles/b84aab0d.ext.json)
+
 ---
 
-### சில முறைகளை ரத்து செய்தார் ஜனாதிபதி
+### The President has canceled some methods
 
 *2024-11-20 18:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-முறைகளை-ரத்து-செய்தார்-ஜனாதிபதி/175-347508) · `ta`
 
-நாளை (நவம்பர் 21) கூடவுள்ள பத்தாவது பாராளுமன்றத்தின் முதல் அமர்வை சம்பிரதாயபூர்வமாகத் ஆரம்பிப்பதற்கான ஒத்திகை இன்று பாராளுமன்ற வளாகத்தில் நடைபெற்றது.
+Here's a summary of the text in approximately 200 characters:
 
-பாராளுமன்ற அறிக்கையின்படி, 10வது பாராளுமன்றம் நாளை காலை 9:55 மணிக்கு வாக்கழைப்பு மணி ஒலித்ததைத் தொடர்ந்து, 10:00 மணிக்கு ஆரம்ப அமர்வு ஆரம்பமாகிறது.
 
-சபையில் செங்கோலை வைத்த பின்னர், பாராளுமன்றத்தின் செயலாளர் நாயகம், ஜனாதிபதியினால் வெளியிடப்பட்ட அதிவிசேட வர்த்தமானி அறிவித்தல்களை, அமர்வுக்கான திகதி மற்றும் நேரத்தை நிர்ணயம் செய்து, முதல் அலுவலாக முன்வைப்பார்.
 
-பின்னர் அரசியலமைப்பின் 64(1) மற்றும் பாராளுமன்ற நிலையியற் கட்டளைகள் 4, 5 மற்றும் 6 ஆகியவற்றின் விதிகளின்படி சபாநாயகர் தேர்ந்தெடுக்கப்படுவார்.
+Parliament's 10th session begins Nov 21 at 9:55 AM. President cancels inaugural events like military parade. Opening ceremony includes Speaker election, oath-taking, and President's policy speech. Special guests attend.
 
-பின்னர், சபாநாயகர் சத்தியப்பிரமாணம் அல்லது உறுதிமொழி எடுப்பார், சபாநாயகரின் பதவிச்சத்தியம் அல்லது உறுதியுரை, பாராளுமன்ற உறுப்பினர்களின் பதவிச்சத்தியம் அல்லது உறுதியுரை, பிரதிச் சபாநாயகர் மற்றும் குழுக்களின் பிரதித் தவிசாளர் வாக்களிப்பினால் தெரிவுசெய்தல் என்பன இடம்பெறும்.
+🟩
+
+The rehearsal to formally launch the first session of the tenth parliament to be held tomorrow (November 21) was held at the Parliamentary Complex today.
+
+According to the Parliamentary Report, the 10th Parliament begins at 9:55 am tomorrow at 10:00 am.
+
+After placing the scepter in the House, the Secretary -General of Parliament will present the notifications issued by the President to determine the date and time of the session, deciding the date and time for the session.
+
+The Speaker will then be elected under the rules of the Constitution 64 (1) and the Standing Standing Orders 4, 5 and 6.
+
+Later, the Speaker will take the oath or pledge, the Speaker's promotion or determination, the promotion or guarantee of the Members of Parliament, the voting of the Deputy Speaker and the Deputy Chairman of the Committees.
+
+It is special to say that the seat of MPs will not be made on the first day.
 
 ...
 
 [Data](articles/19584e93.json)
+
+[Extended Data](ext_articles/19584e93.ext.json)
 
 ---
 
@@ -577,6 +671,24 @@ However, she added that it is essential to the unstandoned support of all of the
 [Data](articles/507ca316.json)
 
 [Extended Data](ext_articles/507ca316.ext.json)
+
+---
+
+### E-8  වීසා ගැටලුව සම්බන්ධයෙන් අමාත්‍ය විජිත හේරත්ගේ අවධානය
+
+*2024-11-20 16:13:14* · [`adalk`](https://www.ada.lk/breaking_news/E-8--වීසා-ගැටලුව-සම්බන්ධයෙන්-අමාත්‍ය-විජිත-හේරත්ගේ-අවධානය/11-413173) · `si`
+
+යම් යම් පාර්ශව මැදිහත් වී දකුණු කොරියාවේ ඍතුමය  රැකියා සඳහා වන E8 වීසා යටතේ අනුමත ක්‍රමවේදයෙන් බැහැරව කටයුතු කිරීම හේතුවෙන් එම රැකියා බලාපොරොත්තුවෙන් සිටින ශ්‍රමිකයින් අපහසුතාවයට පත්වීම පිළිබඳව විදේශ කටයුතු, විදේශ රැකියා හා සංචාරක අමාත්‍ය විජිත හේරත් මහතාගේ අවධානය යොමුවී තිබේ.
+
+ඒ අනුව අද පෙරවරුවේ (11.20) බත්තරමුල්ලේ පිහිටි ශ්‍රී ලංකා විදෙස් සේවා නියුක්ති කාර්යාංශයට පැමිණි අමාත්‍යවරයා, කාර්යාංශයේ ඉහළ නිලධාරීන් හා අදාල ශ්‍රමිකයින් පිරිසක් සමග විශේෂ සාකච්ඡාවක් පවත්වන ලදී.
+
+දකුණු කොරියාවේ E8 වීසා ක්‍රමය යටතේ ශ්‍රමිකයන් යොමු කිරීම පිළිබඳ තවදුරටත් අධ්‍යයනය කරමින් ඊට අදාළ නීතිමය තත්ත්ව සොයා බලා ඉදිරියේදී අවශ්‍ය පියවර ගැනීමට අමාත්‍යවරයා එහිදී තීරණය කරන ලදී.
+
+මෙම විශේෂ සාකච්ඡාවට කාර්යාංශයේ සභාපති කෝශල වික්‍රමසිංහ‚ සාමාන්‍යාධිකාරි  D.D.P. සේනානායක  යන මහත්වරුන් ඇතුළු උසස් නිලධාරීන් පිරිසක් සහභාගි විය.
+
+◼️
+
+[Data](articles/dceb89cd.json)
 
 ---
 
@@ -2471,77 +2583,5 @@ What are the consequences of reducing the lowest age of willingness to sex?
 [Data](articles/53048867.json)
 
 [Extended Data](ext_articles/53048867.ext.json)
-
----
-
-### Sri Lanka could negotiate tax credits for dependents, medical with IMF
-
-*2024-11-20 06:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-could-negotiate-tax-credits-for-dependents-medical-with-imf-188809/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s new administration wants to cut personal income taxes, take away value added taxes on some processed food items and education materials, without harming revenue targets in the International Monetary Fund program.
-
-The IMF is fixated on revenues, so they are likely to require alternative taxes to make up for any tax losses.
-
-It should also be kept in mind that under the current system where VAT is not separately billed at retail level and only an inclusive tax is displayed any VAT cuts will be pocketed by businesses as it had happened in 2019.
-
-The political costs of value added tax has already been borne by the last administration.
-
-Any new taxes on a population that has been hit by multiple taxes, is likely to have a political cost to the new administration.
-
-With the central bank allowing the rupee to appreciate, many food and educational goods prices have started to fall.
-
-...
-
-[Data](articles/28a2d6e4.json)
-
-[Extended Data](ext_articles/28a2d6e4.ext.json)
-
----
-
-### Showers in several areas today
-
-*2024-11-20 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203544) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Showers/thundershowers forecasted for Northern/Eastern provinces, heavy rain (75mm+) possible in Western/Sabaragamuwa provinces. Thunderstorms may cause strong winds/lightning. Public advised to take precautions."
-
-🟩
-
-The Department of Meteorology announces that showers or thundershowers will occur at times in the Northern and Eastern provinces.
-
-Thundershowers during the evening or night during the evening or night in the rest of the island.
-
-Heavy showers in the Western and Sabaragamuwa provinces and in the Galle and Matara districts can occur at more than 75 mm.
-
-Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces have a murder in the morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/56db9adb.json)
-
-[Extended Data](ext_articles/56db9adb.ext.json)
-
----
-
-### PM Harini’s Money Printing debate
-
-*2024-11-20 06:16:04* · [`dailyftlk`](https://www.ft.lk/columns/PM-Harini-s-Money-Printing-debate/4-769446) · `en`
-
-Sri Lanka’s reliance on money printing stems from its constrained fiscal position, where limited revenue, high debt, and dwindling foreign reserves demand immediate liquidity
-
-Prime Minister Dr. Harini Amarasuriya of the National People’s Power (NPP) recently addressed criticism from the Opposition regarding the Central Bank’s injection of funds into the economy. Specifically, she responded to claims that the Central Bank of Sri Lanka (CBSL) had introduced Rs. 36.16 billion rupees through an overnight auction and an additional Rs. 70 billion over seven days via a term auction of “printed” money (backed by domestic assets), at a time when the Central Bank is attempting to build reserves.
-
-Dr. Amarasuriya clarified that no new currency bearing the new Finance Minister’s signature had been issued. However, the key issue is not whose signature appears on the currency notes but the economic impact of these monetary policies.
-
-...
-
-[Data](articles/b3a7886e.json)
-
-[Extended Data](ext_articles/b3a7886e.ext.json)
 
 ---

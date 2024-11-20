@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 23:42:08**
+As of **2024-11-21 00:16:40**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,998 (100.0%) of 56,007 articles have been extended.
+56,007 (100.0%) of 56,007 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Sri Lanka is keen to promote sustainable use of ocean resources, marine and aqua
 
 [Data](articles/b20a7d83.json)
 
+[Extended Data](ext_articles/b20a7d83.ext.json)
+
 ---
 
 ### Sri Lanka sells Rs145bn in treasury bills, 12-months also sold
@@ -71,6 +73,8 @@ All three maturities were offered on tap after the the auction. (Colombo/Nov20/2
 ◼️
 
 [Data](articles/306a2883.json)
+
+[Extended Data](ext_articles/306a2883.ext.json)
 
 ---
 
@@ -894,6 +898,8 @@ In Sri Lanka import duties are 65 rupees a kilo or about 200 dollars a tonne, co
 
 [Data](articles/f9fa58d7.json)
 
+[Extended Data](ext_articles/f9fa58d7.ext.json)
+
 ---
 
 ### Next Action Resolution of Biton - Decision to provide mines to Ukraine
@@ -937,6 +943,8 @@ A bond maturing on 15.09.2029 closed at 11.25/40 percent, down from 11.40/55 per
 ◼️
 
 [Data](articles/4985a6e4.json)
+
+[Extended Data](ext_articles/4985a6e4.ext.json)
 
 ---
 
@@ -1430,6 +1438,8 @@ Foreign Minister Vijitha Herath has said President Anura Kumara Dissanayake will
 
 [Data](articles/c5a81ec7.json)
 
+[Extended Data](ext_articles/c5a81ec7.ext.json)
+
 ---
 
 ### Sri Lanka stocks close up, mixed interest in banks
@@ -1455,6 +1465,8 @@ Top positive contributors to the ASPI were JKH, Commercial, Lion Brewery (up at 
 ...
 
 [Data](articles/79fdc2da.json)
+
+[Extended Data](ext_articles/79fdc2da.ext.json)
 
 ---
 
@@ -1625,6 +1637,8 @@ Ajwad thanked the Secretary General for the sentiments and “recalled Sri Lanka
 ◼️
 
 [Data](articles/d42dac8e.json)
+
+[Extended Data](ext_articles/d42dac8e.ext.json)
 
 ---
 
@@ -1935,6 +1949,8 @@ Herath’s party the Janatha Vimukthi Peramuna, part of the NPP coalition, has b
 ...
 
 [Data](articles/0d8f8fb6.json)
+
+[Extended Data](ext_articles/0d8f8fb6.ext.json)
 
 ---
 
@@ -2271,6 +2287,8 @@ Orders were also shifting to India and Sri Lanka from Bangladesh. (Colombo/Nov20
 ◼️
 
 [Data](articles/39da9b5d.json)
+
+[Extended Data](ext_articles/39da9b5d.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 22:16:47**
+As of **2024-11-20 23:13:04**
 
 ## Newspaper Stats
 
-*Scraped **55,994** Articles*
+*Scraped **55,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,129 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,271
-adaderanalk | 6,763
+adalk | 5,272
+adaderanalk | 6,764
 tamilmirrorlk | 7,942
 virakesarilk | 9,094
-adaderanasinhalalk | 9,677
+adaderanasinhalalk | 9,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,992 (100.0%) of 55,994 articles have been extended.
+55,998 (100.0%) of 55,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### දුප්පතුන් දුප්පත් වනවිට ධනවතුන් පොහොසත් වන ලෝකයක සමෘද්ධිය සහ ස්ථාවරත්වය කළ නොහැකියි
+### Special unit for violating animal damage priority
 
-*2024-11-20 21:43:44* · [`adalk`](https://www.ada.lk/breaking_news/දුප්පතුන්-දුප්පත්-වනවිට-ධනවතුන්-පොහොසත්-වන-ලෝකයක-සමෘද්ධිය-සහ-ස්ථාවරත්වය-කළ-නොහැකියි/11-413187) · `si`
+*2024-11-20 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203579) · `si`
 
-දුප්පතුන් දුප්පත් වනවිට ධනවතුන් පොහොසත් වන ලෝකයක සමෘද්ධිය සහ ස්ථාවරත්වය කළ නොහැකි බවත්, ගෝලීය සංවර්ධනය යටතේ ලෝකය සැමට ප්‍රයෝජනවත් සහ වඩා ඔරොත්තු දෙන තත්ත්වයට පත් කළ යුතු බවත් චීන ජනාධිපති ෂි ජින්පිං මහතා පැවසීය.
+Here's a summary in 200 characters:
 
-ඔහු මේ බව කියා සිටියේ පෙරේදා (18දා) බ්‍රසීලයේ රියෝ ද ජැනයිරෝ නුවරදී පැවැති ජී20 නායක සමුළුවට සහභාගි වෙමිනි.
 
-මෙවර රියෝ සමුළුව "සාධාරණ ලෝකයක් සහ තිරසාර ග්‍රහලෝකයක් ගොඩනැගීම" යන තේමාව යටතේ ක්‍රියාත්මක අතර, පොදුවේ සංවර්ධනය වන සාධාරණ ලෝකයක් ගොඩනැගීම පිළිබඳ මෙහිදී අවධානය යොමු කරන බවද ඔහු කියා සිටියේය.
 
-එවැනි ලෝකයක් ගොඩනැගීම සඳහා, වෙළඳ, ආයෝජන සහ සංවර්ධන සහයෝගීතාව යනාදී ක්ෂේත්‍රවල සම්පත් ආයෝජනය වැඩි කළ යුතු බවත් දේශගුණික විපර්යාස සහ පරිසර දූෂණය වැනි අභියෝගවලට නිසි ලෙස ප්‍රතිචාර දැක්විය යුතු බවත් හෙතෙම කියා සිටියේය.
+Ministry establishes special unit to combat animal damage. Coconut, fruit crops targeted. Multi-strategy approach planned. Involves agriculture, wildlife, research institutes, military, civil defense.
+
+🟩
+
+A special discussion has held a special discussion today regarding sustainable measures to control the coconut, fruits and other animal damage.
+
+It was Minister of Agriculture, Livestock, Land and Irrigation Minister KD. At the patronage of Mr. Lal Kantha was at the ministry.
+
+There, a special unit was established in the Ministry to control the harmful seventh expansion and prevent damaged animal crops using multiple strategies.
+
+Plan has been prepared to act on a program that can be implemented.
+
+The Ministry of Agriculture, Livestock, Lands and Irrigation, Department of Wildlife Conservation, Department of Agriculture, Department of Agriculture, Farmers' Research Institute, the Sri Lanka Army and Civil Defense Forces.
+
+◼️
+
+[Data](articles/0e107b00.json)
+
+[Extended Data](ext_articles/0e107b00.ext.json)
+
+---
+
+### NPP sweep is ‘earthquake in Sri Lankan politics’ - Erik Solheim
+
+*2024-11-20 22:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/103646/npp-sweep-is-earthquake-in-sri-lankan-politics-erik-solheim) · `en`
+
+The stunning electoral sweep of the National People’s Power (NPP) led by President Anura Kumara Dissanayake is “an earthquake in Sri Lankan politics”, says Erik Solheim, the former Norwegian peace facilitator in the island nation.
+
+The former diplomat also feels that the strong showing by the NPP in areas populated by Tamils, particularly in the north, marked “a very strong call for a new start in ethnic relations in Sri Lanka”.
+
+Solheim, who has interacted closely with many Sri Lankan leaders, however, warned that while the NPP’s inner core “is for sure non-corrupt, eradicating corruption is a huge task”.
+
+Solheim, now a committed green activist, piloted the Western-backed peace process which led to a historic pact between Colombo and the Liberation Tigers of Tamil Eelam (LTTE) in early 2002.
 
 ...
 
+[Data](articles/d8febff8.json)
+
+[Extended Data](ext_articles/d8febff8.ext.json)
+
+---
+
+### 2 crore in a house robbery
+
+*2024-11-20 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203578) · `si`
+
+Switzerland woman robbed in Batticaloa house. Gang flees with 2 crore. Robbers caught through bathroom window. Foreign currency, gold jewelry found. Police investigating.
+
+🟩
+
+A gang entered into a house was fled Rs.
+
+A woman from Switzerland in the Kattankudi area in Batticaloa has lived alone and has been severely attacked and robbed her.
+
+It has been revealed that the robbers have been arrested in the bathroom window in the bathroom.
+
+Later, a cupbraw was collapsed and there were foreign currency, gold jewelery and the money in the country.
+
+A 62-year-old woman who was alone in the house, and her daughter resides in Switzerland and has been retired from a Switzerland nurse and retired from a short time.
+
+Cartankudi police and criminal investigations officers join in investigations and are being conducted by official dogs.
+
+◼️
+
+[Data](articles/673ef190.json)
+
+[Extended Data](ext_articles/673ef190.ext.json)
+
+---
+
+### The prosperity and stability of a world cannot be rich in the rich as poor as poor
+
+*2024-11-20 21:43:44* · [`adalk`](https://www.ada.lk/breaking_news/දුප්පතුන්-දුප්පත්-වනවිට-ධනවතුන්-පොහොසත්-වන-ලෝකයක-සමෘද්ධිය-සහ-ස්ථාවරත්වය-කළ-නොහැකියි/11-413187) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Chinese President Xi Jinping emphasized global economic balance at the G20 summit. He stated that world prosperity depends on both rich and poor nations thriving equally. Xi called for increased cooperation in trade, investment, and development to combat poverty and create a more equitable world.
+
+🟩
+
+Chinese President Shi Jinping said that the poor, as poor, could not produce the rich and rich in a world that is rich in the rich.
+
+He was speaking at a G20ma Summit held in Rio de Janeiro, Brazil on Monday (18).
+
+He also said that this year's Rio will be implemented under the theme of a "reasonable world and a sustainable planet building" and is focusing on building a common developing world.
+
+He said that the areas of trade, investment and development cooperation should be increased in the fields of trade, investment and development cooperation.
+
+Speaking further China, China, the President said, "Jagath of Food Security to eradicate poverty in developing countries with one routeThe continued support of China for cooperation described the support of China.
+
+He also said that China is ready to take a step forward with all parties to build a fair world with a fair world with a fair world and make a real development of common development.
+
+◼️
+
 [Data](articles/1a0ce0e2.json)
+
+[Extended Data](ext_articles/1a0ce0e2.ext.json)
 
 ---
 
@@ -311,6 +403,34 @@ It also stated that the dates have been decided for several examinations, includ
 [Data](articles/b4279b43.json)
 
 [Extended Data](ext_articles/b4279b43.ext.json)
+
+---
+
+### Petition to the Supreme Court that former President violates fundamental rights
+
+*2024-11-20 19:20:04* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-ජනපති-මූලික-අයිතිවාසිකම්-කඩ-කළ-බවට-ශ්‍රේෂ්ඨාධිකරණයට-පෙත්සමක්/11-413185) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Petition filed against former President Wickremesinghe alleging violation of fundamental rights. Challenges liquor licenses issued by Excise Department, citing corruption and fraud. Requests Supreme Court intervention and investigation into alleged wrongdoings.
+
+🟩
+
+After announcing the presidential election, two soldiers of former Minister Ranil Wickremesinghe have filed fundamental rights petitions to the Supreme Court, including former Finance Minister Ranil Wickremesinghe to propose to violate the fundamentals of the people.
+
+After the presidential election was published, the fundamental rights petition filed these fundamental rights petition demanding the abolition of all licenses issued to the Excise Act.
+
+Chamara Sampath Abeykoon, Kandy, Kandy, Kandy. Former Finance Minister Ranil Wickremesinghe, Minister of Finance Mahinda Siriwardena, Minister of Finance and Corruption has been named as respondents, which have filed the Heerandran.
+
+The respondents have issued a number of licenses for alcohol hills, contrary to the political objectives, contrary to the law after Mr. Manjula Balasuriya.
+
+...
+
+[Data](articles/1c5750f5.json)
+
+[Extended Data](ext_articles/1c5750f5.ext.json)
 
 ---
 
@@ -612,19 +732,25 @@ After a long trial, the Tangalle High Court judge was sentenced to death for the
 
 ---
 
-### රනිල් හෙට ඉන්දියාවට
+### Ranil to contest India tomorrow
 
 *2024-11-20 18:03:20* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-හෙට-ඉන්දියාවට/11-413179) · `si`
 
-හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංචාරයක් සඳහා හෙට (21දා) පෙරවරුවේ ඉන්දියාව බලා පිටත්ව යෑමට නියමිතය.
+Ranil Wickremesinghe leaves for India on 21st, to deliver lecture at Indoe Sri Lanka Institute of Higher Education at 6 pm.
 
-රනිල් වික්‍රමසිංහ මහතා මෙම සංචාරයේදී ඉන්දියාවේ මධ්‍ය ප්‍රදේශ් හි ඉන්දෝර් (Indore) හි ශ්‍රී සත්‍යා ශ්‍රී විද්‍යා විහාර් උසස් අධ්‍යාපන ආයතනයේ දේශනයක් පැවැත්වීමට ද නියමිතව ඇත.
+🟩
 
-උසස් අධ්‍යාපන ආයතනයේ සිසුන් මෙන්ම මවුපියන්ගේ සහභාගීත්වයෙන් අනිද්දා ( 22දා)සවස 6ට එම දේශනය පැවැත්වේ.
+Former President Ranil Wickremesinghe is due to leave for India on the 21st (21st).
+
+Ranil Wickremesinghe is also scheduled to hold a lecture at Indoe Sri Lanka Institute of Higher Education at Indoe (Indoe) at Indoe.
+
+The lecture will be held at 6 pm under the participation of the Institute of Higher Education as well as the parents.
 
 ◼️
 
 [Data](articles/6692b663.json)
+
+[Extended Data](ext_articles/6692b663.ext.json)
 
 ---
 
@@ -2419,107 +2545,5 @@ The case is on December 3 for further hearing. Remble
 [Data](articles/7e8aaa9b.json)
 
 [Extended Data](ext_articles/7e8aaa9b.ext.json)
-
----
-
-### Suspect arrested over Rs. 70M cash in transit heist at Minuwangoda
-
-*2024-11-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/103626/suspect-arrested-over-rs-70m-cash-in-transit-heist-at-minuwangoda) · `en`
-
-A suspect has been arrested in connection with the incident where the driver of a private company providing cash in transit services had made off with over Rs. 70 million in cash which was being transported in the Minuwangoda area.
-
-The suspect was arrested last evening (19) in the Kaduwangaha area of Gampaha during a joint operation by the Gampaha Division Crimes Bureau and Minuwangoda Police.
-
-At the time of his arrest, police officers found 5 grams and 420 milligrams of the ‘Ice’ drugs (crystal methamphetamine) along with Rs. 31,515,291 from the stolen money in his possession.
-
-The 35-year-old suspect is a resident of the Makavita area in Thammita.
-
-A group of four employees of a private company providing cash in transit services had arrived in a van last morning at the branch of a private bank in Minuwangoda with several bags of cash.
-
-Police said that after arriving near the bank, only the driver had remained in the van while the rest of the them had gotten off the vehicle.
-
-...
-
-[Data](articles/23aa40fd.json)
-
-[Extended Data](ext_articles/23aa40fd.ext.json)
-
----
-
-### Payment for school equipment;The program to identify eligible students is the beginning
-
-*2024-11-20 09:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199197) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Government initiative: School equipment aid for needy students. Eligibility determined by family income. Officials to provide data. Allowance to start next year under President Anura Kumara Dissanayake's guidance.
-
-🟩
-
-The government will be given allowances to children who cannot afford school books and school equipment.
-
-Officials have been advised to submit information about the families in order to make these offers to the children of low -income families.
-
-President Anura Kumara Dissanayake said the allowance would be initiated next year.
-
-◼️
-
-[Data](articles/8f95f1cd.json)
-
-[Extended Data](ext_articles/8f95f1cd.ext.json)
-
----
-
-### Pillayan CID
-
-*2024-11-20 09:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203550) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sivanesathikayi Chandrakanthan (Pillayan), former minister, visited CID on 20th. He came to provide a statement about the controversial Channel 4 report on the Easter advisory program.
-
-🟩
-
-Former Minister Sivanesathikayi Chandrakanthan, or Pillayan arrived in the CID today (20).
-
-It is to give a statement regarding the details of the controversial report program on the Advisory Channel 4 of the Easter.
-
-◼️
-
-[Data](articles/90025c74.json)
-
-[Extended Data](ext_articles/90025c74.ext.json)
-
----
-
-### Chinese Ambassador to Sri Lanka
-
-*2024-11-20 09:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/199194) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Chinese Ambassador Ke. Shenhong praised Tamil community's election choice, citing unity. He emphasized strengthening ties with both India and China economically. Mentioned ongoing aid programs like vaccines and food assistance in Northern Sri Lanka.
-
-🟩
-
-The Tamil community has made the right decision in the recent parliamentary elections. The National People's Power in the Jaffna district has received the highest number of preferential votes. Chinese Ambassador to Sri Lanka, Ke. Shenhong, said this was a symbol of unity and pluralism among the ethnicities.
-
-He was speaking at a media briefing held at the Jaffna Media Center on Tuesday (19).
-
-Sri Lanka is a long -time friend of China. Sri Lanka respects all the decisions made by the Sri Lankan government. India is the closest foreign country of Sri Lanka. So we want to strengthen the economic relationship of India and Sri Lanka. External Affairs Minister Vijitha Herath has said that Anura Kumara Dissanayake will travel to India at the end of December.
-
-This is a very happy thing. The Sri Lankan President may visit China after that. We want to strengthen the economic relationship between China and Sri Lanka.
-
-...
-
-[Data](articles/ddbc93bc.json)
-
-[Extended Data](ext_articles/ddbc93bc.ext.json)
 
 ---

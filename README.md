@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 22:01:34**
+As of **2024-11-20 22:16:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,990 (100.0%) of 55,994 articles have been extended.
+55,992 (100.0%) of 55,994 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,17 +50,27 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### කාන්තාවකගේ ගර්භාෂයේ කිලෝ 10ක් බරැති ගෙඩියක්
+### 10 kilograms of womb of a woman's uterus
 
 *2024-11-20 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203577) · `si`
 
-කාන්තාවකගේ ගර්භාෂයේ තිබූ කිලෝ 10ක් බරැති ගෙඩියක් සාර්ථකව ඉවත් කිරීමට හම්බන්තොට රෝහලේ වෛද්‍යවරුන් සමත්ව තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-සැත්කම සිදුකළ ප්‍රසව හා නාරි විශේෂඥ වෛද්‍ය සමන්ත සමරවික්‍රම මහතා සදහන් කළේ, සැත්කමට භාජනය කළ 40 හැවිරිදි කාන්තාව සුවෙන් පසුවන බවයි.
+
+
+Hambantota Hospital doctors successfully removed 10 kg of uterus tissue from a 40-year-old woman during surgery. Dr. Samantha Samarawickrama performed the operation, and the patient was discharged afterward.
+
+🟩
+
+Doctors of Hambantota Hospital have succeeded to remove a sufficient removal of 10 kilograms of wombs of a woman.
+
+Dr. Samantha Samarawickrama, who was conducting surgery, Dr. Samantha Samarawickrama said that the 40-year-old woman who was surgery was released.
 
 ◼️
 
 [Data](articles/a5529288.json)
+
+[Extended Data](ext_articles/a5529288.ext.json)
 
 ---
 
@@ -129,6 +139,8 @@ Issuing a statement, the Ministry emphasized that the examination schedule has b
 ◼️
 
 [Data](articles/444763ef.json)
+
+[Extended Data](ext_articles/444763ef.ext.json)
 
 ---
 

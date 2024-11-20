@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 19:06:12**
+As of **2024-11-20 19:17:13**
 
 ## Newspaper Stats
 
-*Scraped **55,972** Articles*
+*Scraped **55,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ dailymirrorlk | 4,733
 adalk | 5,266
 adaderanalk | 6,761
 tamilmirrorlk | 7,939
-virakesarilk | 9,087
-adaderanasinhalalk | 9,672
+virakesarilk | 9,088
+adaderanasinhalalk | 9,673
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,969 (100.0%) of 55,972 articles have been extended.
+55,969 (100.0%) of 55,974 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,44 @@ Extensions include translations and NER (Named Entity Recognition).
 ◼️
 
 [Data](articles/4ad96adf.json)
+
+---
+
+### උසස් පෙළ විභාගය සැලසුම් කළ ලෙසම
+
+*2024-11-20 18:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203570) · `si`
+
+2024 අ.පො.ස. (උසස් පෙළ) විභාගය සැලසුම්කළ ලෙස නොවැම්බර් මස 25වනදා ආරම්භ කරන බව නිවේදනයක් නිකුත්කරමින් අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශය පවසයි.
+
+මෙම විභාගය කල්දමන ලෙස විවිධ පාර්ශ්ව ඉල්ලීම් ඉදිරිපත් කළත්, ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව ඉකුත් මාර්තු මස ගත් තීරණයට අනුව උසස් පෙළ විභාගයේ පූර්ව සූදානම් කටයුතු සියල්ල මේ වන විටත් අවසන් කර ඇති බව එම නිවේදනයේ දැක්වේ.
+
+මෙම විභාගය පැවැත්වෙන දින වකවානු අනුව ඉදිරියේදී පැවැත්වීමට නියමිත සාමාන්‍ය පෙළ විභාගය ඇතුළුව සෙසු විභාග රැසක් සඳහා දින තීරණය කර ඇති බවත්, උසස්පෙළ විභාගය කල් දැමීමට කටයුතු කළහොත් එමගින් ඉදිරි විභාග වැඩසටහනද සම්පූර්ණ වශයෙන්ම අක්‍රමවත් වනු ඇති බවද එහි වැඩිදුරටත් සඳහන්.
+
+2024 අ.පො.ස. (උසස් පෙළ) විභාගය 2024.11.25 දින සිට 2024.12.20 දින දක්වා පැවැත්වීමට මේ වන විට දින නියම කර ඇත.
+
+මෙම විභාගය කල් දමන ලෙස විවිධ පාර්ශ්වයන් වෙතින් ඉල්ලීම් ඉදිරිපත් වෙමින් පවතින අතර එම ඉල්ලීම් පිළිබඳව අධ්‍යාපන, උසස් අධ්‍යාපන හා වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේ අවධානය යොමු වී ඇත.
+
+...
+
+[Data](articles/b2bf194b.json)
+
+---
+
+### பாராளுமன்றத்துக்கு பஸ்ஸில் வருகை தந்த ஆளும் கட்சி உறுப்பினர்கள்
+
+*2024-11-20 18:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/199268) · `ta`
+
+ஆளும் கட்சியான தேசிய மக்கள் சக்தியின் 50 இற்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்கள் புதன்கிழமை (20) பாராளுமன்றத்துக்கு பிரத்தியேக பேருந்தில் வருகைத் தந்து தகவல்களை பதிவு செய்தனர்.
+
+தேசிய மக்கள் சக்தியின் சார்பில் பாராளுமன்றத்துக்கு தெரிவு செய்யப்பட்டுள்ள பாராளுமன்ற உறுப்பினர்கள் புதன்கிழமை (20) பத்தரமுல்லை பகுதியில் மக்கள் விடுதலை முன்னணியின் காரியாலயத்துக்கு அழைக்கப்பட்டிருந்தனர்.
+
+இந்த விசேட கூட்டத்தில் மக்கள் விடுதலை முன்னணியின் பொதுச்செயலாளர் டில்வின் சில்வா மற்றும் பிரதமர் ஹரிணி அமரசூரிய ஆகியோர் கலந்துக் கொண்டனர்.
+
+தேசிய மக்கள் சக்தியின் சார்பில் பாராளுமன்றத்துக்கு தெரிவாகிய உறுப்பினர்களுக்கு இதன்போது பிரதமர்  வாழ்த்து தெரிவித்துள்ளார். அத்துடன் கட்சியின் பொதுச்செயலாளர் வாழ்த்து தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/291a2954.json)
 
 ---
 
@@ -2505,43 +2543,5 @@ Dr. Amarasuriya clarified that no new currency bearing the new Finance Minister�
 [Data](articles/b3a7886e.json)
 
 [Extended Data](ext_articles/b3a7886e.ext.json)
-
----
-
-### Sri Lanka Banks’ Association reiterates support to new Govt.
-
-*2024-11-20 06:11:00* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Banks-Association-reiterates-support-to-new-Govt/34-769445) · `en`
-
-The Sri Lanka Banks’ Association (SLBA) yesterday congratulated President Anura Kumara Dissanayake on his party’s resounding victory at the Parliamentary Election and pledged its support to the new Government in the challenging journey ahead.
-
-The Association, which represents all licenced banks in Sri Lanka, also noted that its recent interactions with the Presidential Secretariat has given it confidence in the President’s inclusive approach to problem-solving.
-
-The full text of the SLBA congratulatory message is as follows.
-
-“Please accept our heartfelt congratulations on your party’s resounding victory in the recent Parliamentary Election.
-
-The people of Sri Lanka have placed their trust in you and your team, and we are confident that you will lead the nation towards prosperity with transparency and accountability.
-
-...
-
-[Data](articles/e137cf1c.json)
-
-[Extended Data](ext_articles/e137cf1c.ext.json)
-
----
-
-### National Chamber of Commerce congratulates new Govt., pledges support for MSME growth
-
-*2024-11-20 06:10:47* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-congratulates-new-Govt-pledges-support-for-MSME-growth/34-769444) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) President Deepal Nelson yesterday  extends his heartfelt congratulations to the newly appointed Government.
-
-“This significant milestone reflects the trust and confidence placed in the Government’s leadership to guide our nation toward a brighter and more prosperous future. We firmly believe that the Government’s vision and policies will usher in a new era of growth and stability. As the voice of the business community, the NCCSL assures its unwavering support for the Government’s endeavours, particularly in uplifting the Micro, Small, and Medium Enterprise (MSME) sector,” Nelson said.
-
-...
-
-[Data](articles/74987545.json)
-
-[Extended Data](ext_articles/74987545.ext.json)
 
 ---

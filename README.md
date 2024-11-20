@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 20:13:57**
+As of **2024-11-20 21:13:27**
 
 ## Newspaper Stats
 
-*Scraped **55,980** Articles*
+*Scraped **55,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,55 +16,211 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,267
+adalk | 5,269
 adaderanalk | 6,762
-tamilmirrorlk | 7,940
-virakesarilk | 9,090
-adaderanasinhalalk | 9,674
+tamilmirrorlk | 7,941
+virakesarilk | 9,094
+adaderanasinhalalk | 9,675
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,977 (100.0%) of 55,980 articles have been extended.
+55,986 (100.0%) of 55,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### கல்வி பொதுத் தராதர உயர் தர பரீட்சை  25ஆம் திகதி ஆரம்பம் - கல்வி அமைச்சு
+### வடக்கில் இராணுவமுகாம்கள் அகற்றப்படுகின்றன – நாமல் கடும் கரிசனை
+
+*2024-11-20 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199275) · `ta`
+
+வடக்கில் சமீபத்தில் இராணுவமுகாம்  அகற்றப்பட்டமை குறித்தும் மேலும் பல முகாம்களை அகற்றுவதற்கு திட்டமிடப்பட்டுள்ளமை குறித்தும் நாமல்ராஜபக்ச கடும் கரிசனை வெளியிட்டுள்ளார்.
+
+சமூக ஊடக பதிவில் இதனை தெரிவித்துள்ள அவர் பொதுமக்களிடம் மீள நிலங்களை ஒப்படைப்பது பொதுவாக பிரச்சினைக்குரிய விடயம் இல்லை என்றாலும் நாட்டின் தேசிய பாதுகாப்பு பாதிக்கப்படாமலிருப்பதை உறுதி செய்வதற்காக இது குறித்து பாதுகாப்பு தரப்பினருடன் கலந்தாலோசனைகளை மேற்கொள்ளவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+
+இலங்கை 30 வருடங்களாக பயங்கரவாதத்திற்கு எதிராக போரிட்டது ஆயிரக்கணக்கான உயிர்கள் இழக்கப்பட்ட நிலையில் இன்று அனைத்து சமூகத்தினரும் சுதந்திரத்தை அனுபவிக்கின்றனர் என குறிப்பிட்டுள்ள அவர் வடக்கு தெற்கு என எந்த பகுதியாகயிருந்தாலும் பாதுகாப்பை உறுதி செய்வது அவசியம் என  குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/d49fcb19.json)
+
+---
+
+### Petition to give effective license unique
+
+*2024-11-20 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203574) · `si`
+
+Here's a summary of the petition in 200 characters:
+
+
+
+Petition filed in Supreme Court challenging liquor license issuance during presidential election. Alleges improper transparency, favoritism towards government supporters. Requests investigation by Bribery Commission and Excise Election Act review.
+
+🟩
+
+The respondents including Ranil Wickremesinghe have filed a fundamental rights petition in the Supreme Court asking for the excise-licensing of liquidity after the publication of the presidential election.
+
+Chamara Sampath Abeysekera, who is engaged in an alcohol vessel in Kandy, N.. This petition was presented by Ravichandran.
+
+Former Finance Minister Ranil Wickremesinghe, former Excise Commissioner General M. M.. J. Gunasiri, Secretary to the Ministry of Finance, Wasantha Samarasinghe and 39 members were named after the Chairman of the Bribery Commission.
+
+Petitioners say that the petitioners have filed the presidential election from July 26, the presidential election was held on the 26th of September, the respondents had issued a number of liquidal license to the provisions of the Excise Elections Act..
+
+Petitioners allege that these licenses have issued the licenses in the presidential election with a purpose and the provisions of the Excise of the Excise of Excise.
+
+...
+
+[Data](articles/2d1d34b6.json)
+
+[Extended Data](ext_articles/2d1d34b6.ext.json)
+
+---
+
+### 12 million rupees for the livelihood of the people of the Northern people by the Chinese Ambassador
+
+*2024-11-20 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199274) · `ta`
+
+Chinese Ambassador hands over 12mn rupees check to support Northern Province development.
+
+🟩
+
+Chinese Ambassador to Sri Lanka Key Sen Hong today (20) handed over a check by the Northern Province Governor Nagalingam Vedanayagan to help the Chinese government's worth of Rs.
+
+Governor of the Northern Province, Nagalingam Vedanayagan, met with Chinese Ambassador to Sri Lanka on Wednesday morning (20). He then handed over the check.
+
+The Chinese Ambassador to Sri Lanka congratulated and congratulated Nagalingam Vedanayaka, who was appointed Governor of the Northern Province and promised his contribution to the development of the area.. The Chinese Ambassador noted that the change in the North was happy with the observation.
+
+The Governor of the Northern Province, welcoming the Chinese Ambassador to Sri Lanka, pointed out the need to carry out corruption and development work in the Northern Province.
+
+...
+
+[Data](articles/e15a6ffe.json)
+
+[Extended Data](ext_articles/e15a6ffe.ext.json)
+
+---
+
+### Two youths killed in motorcycle accident. Hurt
+
+*2024-11-20 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199273) · `ta`
+
+Motorcycle crash kills 2 injures 1 in Mankulam. Police investigating.
+
+🟩
+
+Two youths were killed and one of them injured when a motorcycle collided with two heads of motorcycles in the Mankulam Velangulam area at around 5.30 pm on Wednesday.
+
+The accident occurred when a motorcycle traveling from Mullaitivu Mangulam area and a motorcycle from Mallavi to Mangulam crashed into the fifth mile stone area of ​​Mankulam Vanniwilangulam.. Two youths died in the incident and were admitted to the Kilinochchi Hospital after being injured.
+
+Two youths, Vijayakumar Vidusan (20 years old) and Jayakumar Vidusan (23 years old), who lives in Mangula area. Mariyadas Swamigirthi (31 years old) has been injured.
+
+Mankulam police are conducting further investigations into the incident.
+
+◼️
+
+[Data](articles/29e64670.json)
+
+[Extended Data](ext_articles/29e64670.ext.json)
+
+---
+
+### Is A/L Postponed?
+
+*2024-11-20 20:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-ஒத்திவைக்கப்படுகின்றதா/175-347524) · `ta`
+
+A/L exams not postponed. Ministry confirms start date: Nov 25, 2024. Preparations complete despite calls for delay.
+
+🟩
+
+The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
+
+Although various parties have made demands to postpone the exam, the Department of Examinations Department of Examinations has taken the resolution last March that all preparations for the GCE Advanced Level Examination have already been completed.. Remble
+
+◼️
+
+[Data](articles/b8976322.json)
+
+[Extended Data](ext_articles/b8976322.ext.json)
+
+---
+
+### The death of a young mother who died in Mannar demands justice
+
+*2024-11-20 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199271) · `ta`
+
+Protest demands justice for mother's death in Mannar. March near hospital turns violent, police clash with crowd. Riot police deployed. District officials meet with bereaved family. Protesters continue fighting in rain.
+
+🟩
+
+A protest march took place at around 4.30 pm on Wednesday (20) in front of the Mannar General Hospital seeking justice for the death of a mother and infantry.
+
+There was a peaceful struggle, with various demands, such as justice for the mother's death, the arrest of the wrongdoers and the hospital administration.
+
+During the protest, various slogans were raised and the riots broke out as the protesters were trying to enter the hospital.
+
+This was followed by a conflict between the police and the people. As a result, the riot police were also coming.
+
+Following this, a group led by the District Government Agent who arrived at the scene had consulted with the parents of the deceased.
+
+The protesters continue to fight before the Mannar General Hospital in the pouring rain.
+
+◼️
+
+[Data](articles/130d1343.json)
+
+[Extended Data](ext_articles/130d1343.ext.json)
+
+---
+
+### Education Public Standards
 
 *2024-11-20 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199270) · `ta`
 
-2024 ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர உயர் தர பரீட்சை திட்டமிட்டபடி நவம்பர் 25ஆம் திகதி ஆரம்பமாகும் என கல்வியமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+Sri Lanka: Education standards 2024 begin Nov 25. No exam postponement despite demands. GCE Advanced Level in March as planned. Other exams dates set. Postponing high-level exam may disrupt others.
 
-இந்தப் பரீட்சையை ஒத்திவைக்குமாறு பல்வேறு தரப்பினர் கோரிக்கைகளை முன்வைத்துள்ள போதிலும், இலங்கைப் பரீட்சைகள் திணைக்களம் கடந்த மார்ச் மாதம் எடுத்த தீர்மானத்தின் பிரகாரம், உயர்தரப் பரீட்சைக்கான அனைத்து ஆயத்தப் பணிகளும் ஏற்கனவே நிறைவடைந்துள்ளதாக அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
+🟩
 
-மேலும், இந்த பரீட்சை நடைபெறும் திகதிகளுக்கு அமைய, அடுத்துவரும் சாதாரணதர பரீட்சை உள்ளிட்ட பல பரீட்கைகளுக்கான திகதிகள் முடிவு செய்யப்பட்டுள்ளதாகவும், உயர்தர பரீட்சை ஒத்திவைக்கப்பட்டால், ஏனைய பரீட்சைகளுக்கான திட்டமிடல் முற்றிலும் ஒழுங்கற்றதாக மாறிவிடும் என்றும் அதில் தெரிவிக்கப்பட்டுள்ளது.
+The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
+
+Although various parties have made demands to postpone the exam, the Sri Lanka Examinations Department has decided to take all the preparations for the GCE Advanced Level examination in March.
+
+It also stated that the dates have been decided for several examinations, including the next GCE Ordinary Examination, and that if the high -level exam is postponed, the planning for other exams will become completely irregular.
 
 ◼️
 
 [Data](articles/b4279b43.json)
 
+[Extended Data](ext_articles/b4279b43.ext.json)
+
 ---
 
-### කල් ඇදෙන ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැටලුව
+### Problem
 
 *2024-11-20 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203571) · `si`
 
-මෙවර පාර්ලිමේන්තු මැතිවරණයෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධූර හිමිවු පක්ෂ කිහිපයක් තවමත් ඊට අදාළ මන්ත්‍රීවරුන්ගේ නම් එවා නොමැති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
+Elections Commission: National List MPs names pending; Gazette announcement expected. New Democratic Front and Sri Lanka Muslim Congress seats affected. Reconciliation party publishes list. Hirunika Premachandra qualifies for women's slot. Sharmila Perera appoints Ravi Karunanayake unanimously. SLMC names to be announced today.
 
-අදාළ පක්ෂ ලේකම්වරුන් විසින් මැතිවරණ කොමිෂන් සභාව වෙත එම නම් යොමුකිරීමෙන් අනතුරුව ගැසට් මගින් ප්‍රකාශයට පත් කිරීමට නියමිත ය.
+🟩
 
-ඒ අනුව සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර 4ක් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ එක් මන්ත්‍රී ධූරයක් මෙන්ම ශ්‍රී ලංකා මුස්ලීම් කොංග්‍රසයේ එක් මන්ත්‍රී ධුරයක් සඳහා ද පුරප්පාඩු පවතියි.
+The Elections Commission says that several members of the National List MPs have yet to send the names of the MPs this year.
 
-සමගි ජන බලවේගයට මෙවර පාර්ලිමේන්තු මැතිවරණයේ දී ජාතික ලැයිස්තු මන්ත්‍රීධුර 05ක් හිමිවු අතර මේ වනවිටත් ඉන් එක් ජාතික ලැයිස්තු මන්ත්‍රී ධූරයක් සදහා පක්ෂ මහලේකම් රංජිත් මද්දුම බණ්ඩාර මහතාගේ නම ගැසට් මගින් ප්‍රකාශයට පත් කර තිබේ.
+After the relevant party secretaries to the Election Commission, the gazette is to be announced.
 
-අද (20) පැවති මාධ්‍ය හමුවක දී හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය සදහන් කළේ සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් කාන්තාවකට ලබා දෙන්නේ නම් ඒ සදහා තමන් සුදුසුකම් සපුරා ඇති බවයි.
+Accordingly, four national listings of the new democratic force have a section of the New Democratic Front as well as one seat of the Sri Lanka Muslim Congress.
+
+The reconciliation has owned five national lists in this year's parliamentary election and has already been published by the party General Secretary Ranjith Madduma Bandara for a national list.
+
+Former MP Hirunika Premachandra stated that he would qualify for a woman in a media briefing held today (20).
+
+Meanwhile, the Secretary of the party Sharmila Perera has decided to appoint the National List MP of the New Democratic Front on a unanimous decision of the party.
 
 ...
 
 [Data](articles/14f399d5.json)
+
+[Extended Data](ext_articles/14f399d5.ext.json)
 
 ---
 
@@ -90,21 +246,29 @@ Hundreds of people have been killed and between 100,000 and 130,000 others have 
 
 ---
 
-### யாழ்ப்பாணத்தில் அடை மழையால் 15 குடும்பங்களை சேர்ந்த 50 பேர் பதிப்பு!
+### 50 people belonging to 15 families due to heavy rains in Jaffna
 
 *2024-11-20 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199269) · `ta`
 
-தொடர்ச்சியாக பெய்து வரும் மழை அனர்த்தம் காரணமாக யாழ்ப்பாணத்தில் 15 குடும்பங்களை சேர்ந்த 50 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
+Heavy rains in Jaffna affect 50 people from 15 families, damaging homes and infrastructure.
 
-அந்தவகையில் சாவகச்சேரி பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/315 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவரும், ஜே/328 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தைச் சேர்ந்த இரண்டு பேரும் பாதிக்கப்பட்டுள்ளனர். இரண்டு வீடுகள் சேதமடைந்துள்ளன.
+🟩
 
-அத்துடன் ஊர்காவல்துறை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/56 கிராம சேவகர் பிரிவில் இரண்டு குடும்பங்களைச் சேர்ந்த 8 பேர் பாதிக்கப்பட்டுள்ளதுடன் ஒரு வீடு பகுதியளவில் சேதமடைந்துள்ளது.
+Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 50 people from 15 families in Jaffna have been affected by the ongoing heavy rains.
 
-பருத்தித்துளை பிரதேச செயலர் பிரிவிற்குட்பட்ட மூன்று குடும்பங்களைச் சேர்ந்த ஆறுபேர் பாதிக்கப்பட்டுள்ளதுடன் இரண்டு வீடுகள் சேதமடைந்துள்ளன. ஜே/403 கிராம சேவகர் பிரிவில் 7 குடும்பங்களைச் சேர்ந்த 29பேர் பாதிக்கப்பட்டுள்ளதுடன் 6 வீடுகள் சேதமடைந்துள்ளன.
+Two family members of the J/315 Grama Sevakar Division, which belongs to the Chavakachcheri Divisional Secretariat, and two members of a family in the J/328 Grama Sevaka Division. Two houses have been damaged.
 
-...
+In addition, 8 people from two families have been affected and a house has been partially damaged in the J/56 Grama Niladhari Division of the Kayts Divisional Secretariat Division.
+
+Six people from three families belonging to the Point Pedro Divisional Secretariat have been affected and two houses have been damaged. In the J/403 Grama Niladhari Division, 29 people from 7 families have been affected and 6 houses have been damaged.
+
+He added that a family belonging to a family in the J/91 Grama Niladhari Division, which belongs to the Nallur Divisional Secretariat Division, has been damaged by a house.
+
+◼️
 
 [Data](articles/590b7751.json)
+
+[Extended Data](ext_articles/590b7751.ext.json)
 
 ---
 
@@ -382,6 +546,20 @@ The decision was taken during a meeting chaired by former President Ranil Wickre
 
 ---
 
+### රවී මන්ත්‍රීධුරය ලබා ගැනීම ගැන හොයන්න කමිටුවක්
+
+*2024-11-20 17:42:59* · [`adalk`](https://www.ada.lk/breaking_news/රවී-මන්ත්‍රීධුරය-ලබා-ගැනීම-ගැන-හොයන්න-කමිටුවක්/11-413177) · `si`
+
+නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකෙන් එක් ධුරයක් සඳහා රවී කරුණානායක මහතා ගේ නම මැතිවරණ කොමිසමට යැවීමේ සිද්ධිය සම්බන්ධයෙන් ස්වාධීන පරීක්ෂණයක් පැවැත්වීමට එම පක්ෂය තීරණය කර තිබේ.
+
+නීතිඥ කුමාර් දුනුසිංහ මහතා, නීතිඥ ඉන්දික වේරගොඩ මහතා‍, ආචාර්ය විතානගේ මහතා, කමිටු ලේකම් - නීතිඥ යසස් ද සිල්වා මහතා යන මහත්වරු මෙම කමිටුවට පත් කර තිබේ. කමිටුවේ වාර්තාව සති තුනක් ඇතුළත එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා වෙත භාරදිය යුතු වෙයි.
+
+◼️
+
+[Data](articles/26586548.json)
+
+---
+
 ### Next Action Resolution of Biton - Decision to provide mines to Ukraine
 
 *2024-11-20 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199247) · `ta`
@@ -451,6 +629,30 @@ Speaking at a press briefing at the Government Information Department today (20)
 [Data](articles/2dc3db98.json)
 
 [Extended Data](ext_articles/2dc3db98.ext.json)
+
+---
+
+### Kanchan list to visit Parliament
+
+*2024-11-20 17:01:36* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413176) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Kanchana Wijesekera, former MP from Matara District, joins Democratic Front. Defeated in last election but now considered for Parliament seat by party members.
+
+🟩
+
+Former MP Kanchana Wijesekera, Matara District MP Kanchan Wijesekara, is due to enter the new Democratic Front.
+
+He defeated Matara District at the last general election, but was defeated. Many of the new Democratic Front have said that Kanchana Wijesekera should be sent to Parliament.
+
+◼️
+
+[Data](articles/d7c9b971.json)
+
+[Extended Data](ext_articles/d7c9b971.ext.json)
 
 ---
 
@@ -2343,211 +2545,5 @@ Thus, the general public is kindly requested to take adequate precautions minimi
 [Data](articles/0a7e059d.json)
 
 [Extended Data](ext_articles/0a7e059d.ext.json)
-
----
-
-### Mannar incident;What is the next step?
-
-*2024-11-20 08:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சம்பவம்-அடுத்தகட்ட-நடவடிக்கை-என்ன/72-347475) · `ta`
-
-Here's a summary of the incident in 200 characters:
-
-
-
-Mannar: Woman & unborn fetus die at hospital. Relatives claim neglect. Autopsy planned. Investigation ongoing. Cause of death pending.
-
-🟩
-
-The mother and the fetus, who was admitted to the Mannar District General Hospital, died yesterday after the death of the infantry.
-
-A 28 -year -old woman from Mannar - Pattittottam area is reported to have died.
-
-Relatives allege that the woman was suffering from shortness of breath.
-
-Her relatives have accused the woman and the fetus of the hospital due to lack of attention.
-
-The Mannar District Health Services Director said,
-
-He said that arrangements have been made for autopsy and a proper investigation into the incident will be held.The Mannar District Health Services Director General said that after the autopsy, he could find the cause of his death.. Remble
-
-◼️
-
-[Data](articles/f78108f6.json)
-
-[Extended Data](ext_articles/f78108f6.ext.json)
-
----
-
-### Medagoda Avatissa alert
-
-*2024-11-20 08:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203549) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Professor Medagoda Atawatissa Thero warns about ongoing conspiracies against national interests. He emphasizes that current challenges are opportunities rather than crises. He cautions against ignoring the national movement and warns of continued threats from internal and external enemies."
-
-🟩
-
-Professor Salary Medagoda Atawatissa Thero says that the conspiracies of forces against forces should be constantly focused.
-
-He was speaking at a program held in Colombo yesterday.
-
-"Now there's a little idea, people in our national ideology are now a challenge, no crisis. If such a crisis is good. It is also a boast of thirty years and that some kind of international and local enemy's performance has become a new government. The enemy wanted the enemy to build a rich country, a rich country, a prosperous country. Therefore, we should not forget that the head of the enemy is still in the same way. Maybe come through a different operation. But we should clearly understand that if there is no more stupid if you want to ignore the national movement that should be ignored. "
-
-◼️
-
-[Data](articles/dfd2550d.json)
-
-[Extended Data](ext_articles/dfd2550d.ext.json)
-
----
-
-### Increasing risk
-
-*2024-11-20 08:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மினுவாங்கொடையில்-அதிகரிக்கும்-ஆபத்து/175-347474) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Garment factory outbreak: 133 workers infected. 64 initially treated, returned to work. 69 more cases reported. Risk increasing.
-
-🟩
-
-133 employees working at a main garment factory located in Minuwangoda have been recommended for treatment due to an infection.
-
-The 64 employees were first diagnosed with the disease, recommended for treatment and sent back to work.
-
-Subsequently, 69 more employees have been reported to have an infection. Remble
-
-◼️
-
-[Data](articles/e22d78fd.json)
-
-[Extended Data](ext_articles/e22d78fd.ext.json)
-
----
-
-### Sri Lanka to make intervention soon to solve debt problems of industries: Minister
-
-*2024-11-20 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-make-intervention-soon-to-solve-debt-problems-of-industries-minister-188842/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s newly appointed industries minister Sunil Handunetthi said he intended to make an intervention soon to solve capital, debt and raw material problems faced by industries.
-
-“From the Coronavirus crisis period industrialists fell into difficulties and got into a debt crisis,”  Minister Lal Kantha told reporters soon after assuming duties as the Minister of Industries and Enterprise Development.
-
-“Many businesses and industries are now at the point of collapse. There has been parate executions and their property is about to be foreclosed or auctioned.
-
-“Together with national and private banks, the capital, raw material and market problems we hope to make an intervention soon.”
-
-There were attempts to sell institutions because they made losses, with the corruption, bribes and the cut to ministers, he said.
-
-...
-
-[Data](articles/3b344cdd.json)
-
-[Extended Data](ext_articles/3b344cdd.ext.json)
-
----
-
-### Heigada kiritha goes out of the world
-
-*2024-11-20 07:54:22* · [`adalk`](https://www.ada.lk/opinion/හීන්තුඩු-කලිත්තා-ලෝකයෙන්-යන්නම-යයි/2-413160) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Heigada kiritha" refers to a phenomenon where the border of "zerndaduum" (likely a typo for "zero point") has worsened in Europe and North Africa. This affects bird migrations and habitats. The World Conservation Organization reports declining bird populations, with 164 species endangered. Ecologists attribute this to environmental factors and climate change.
-
-🟩
-
-The latest scientifically, the border of the border of zerndaduum tendird curlers, which is inherently endemic to Europe and northern African countries, has become worse in November 2024.
-
-This scientific report also revealed that the migration banning of the migration leading around the winter season, marshy land, the winter border, the last end of the winter seas.
-
-The World Conservation Organization (WHO) has shown that the first global (IUCN) is the first global bird of Europe, North Africa and Western territories.
-
-World Conservation Organization says that 164 birds have been worried about over 11,000 species of birds from the World Conservation Organization (IUCN).. They further states that 16 other bird species living in the beach area have identified the bird species of heavy positions.
-
-The Head of the Institute (R.P.B./ bird Life) Mr. Nicola Crockforard said that this is one of the most abundant and extreme devastating story of the world.
-
-...
-
-[Data](articles/33acc988.json)
-
-[Extended Data](ext_articles/33acc988.ext.json)
-
----
-
-### 75 millimeters of rain today
-
-*2024-11-20 07:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-75-மில்லி-மீற்றர்-அளவில்-மழை/175-347473) · `ta`
-
-Heavy rain forecasted for Western, Sabaragamuwa, Galle, and Matara provinces. Periodic rainfall/thunderstorms expected in North and East. Isolated rain/thunderstorms predicted elsewhere, mainly evenings/night.
-
-🟩
-
-The Department of Meteorology has forecast heavy rainfall in the Western and Sabaragamuwa Provinces and some parts of the Galle and Matara districts.
-
-In the Northern and Eastern Provinces, there will be periodic rainfall or thunderstorms.
-
-In other parts of the country, rain or thunderstorms are likely to occur in the evening or night, the department said in a statement. (A)
-
-◼️
-
-[Data](articles/ad268311.json)
-
-[Extended Data](ext_articles/ad268311.ext.json)
-
----
-
-### Attorney at Ruhunu University strike on day
-
-*2024-11-20 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203548) · `si`
-
-Ruhunu University strike continues as unions demand removal of Vice Chancellor. Prime Minister discusses issue but strike persists until VC is replaced.
-
-🟩
-
-University Trade Unions Joint Committee said that the strike of the university, academic, non-academic and student unions, for the second day today (Jan. 20), will continue to take action to remove the Vice Chancellor of the University of Ruhuna.
-
-However, Prime Minister Haradi Amarasuriya had a discussion with the issue yesterday afternoon, the co-chairman of the University Trade Union Joint Committee.
-
-"Since the Vice Chancellor of the University, study staff, non-academic staff and students have been deprirupted. Especially the scholarship of many students, they have been suspended to participate in graduation. That is the same to non-academic staff. There is a situation where the dear parties treat the lecturers even not even promotions. He did these things because he had political care. "
-
-SSP Spokesperson SSP Spokesperson Senior Lecturer Charged Charta Ilangasinghe,
-
-...
-
-[Data](articles/cedba6df.json)
-
-[Extended Data](ext_articles/cedba6df.ext.json)
-
----
-
-### 18 arrested for passport to take passport
-
-*2024-11-20 07:38:02* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ලේඛන-රැගෙන-පාස්පෝට්-ගන්න-ආපු-18-ක්-අත්අඩංගුවට/11-413159) · `si`
-
-18 arrested for passport fraud: 20 women detained for fake aviation licenses at Sri Lanka's immigration department.
-
-🟩
-
-Twenty women, including 12 women, arrived at the Department of Immigration and Emigration to the Department of Immigration and Emigration, Battaramulla has been arrested for obtaining aviation license to obtain passports.
-
-The Western Province official seal and DIG, DIG, the Western Province, the Western Province, the Western Province, the Western Province, the UPFA have seized the date of the Natural seal of the South District Secretariat.
-
-According to the Department of Immigration and Emigration, the Department of Immigration and Emigration and the Department of Immigration and Emigration had been informed yesterday (19) and a few days ago.
-
-.Egry writings contacted by the persons outside the emigration of the Immigration and Emigration Chief Inspector Jr.. K. Police said that the DIG Eastern Province of Western Province Western Province and the documents of the suspects and the suspects were contacted by a team of other officers.
-
-...
-
-[Data](articles/820bb4a3.json)
-
-[Extended Data](ext_articles/820bb4a3.ext.json)
 
 ---

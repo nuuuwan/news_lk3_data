@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 16:26:43**
+As of **2024-11-20 16:41:19**
 
 ## Newspaper Stats
 
-*Scraped **55,947** Articles*
+*Scraped **55,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,89 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,260
-adaderanalk | 6,755
-tamilmirrorlk | 7,934
+adalk | 5,261
+adaderanalk | 6,756
+tamilmirrorlk | 7,935
 virakesarilk | 9,086
-adaderanasinhalalk | 9,666
+adaderanasinhalalk | 9,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,947 (100.0%) of 55,947 articles have been extended.
+55,947 (100.0%) of 55,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### ஒத்திகை...
+
+*2024-11-20 16:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திகை/175-347504) · `ta`
+
+பத்தாவது பாராளுமன்றத்தின் முதல் நாள் அமர்வு நாளை (21)காலை 10 மணிக்கு ஆரம்பமாக இருக்கும் நிலையில் ஜனாதிபதி அனுரகுமார திசாநாயக்க வை வரவேற்பதற்கான ஒத்திகை இன்று (20) பார்க்கப்பட்டது
+
+◼️
+
+[Data](articles/eac86598.json)
+
+---
+
+### රාජ්‍ය සේවකයන්ට ඇමති බිමල් දුන් උපදෙස
+
+*2024-11-20 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203565) · `si`
+
+ජාතික වැඩපිළිවෙළ ශක්තිමත් කිරීම වෙනුවෙන් රාජ්‍ය සේවකයන් එකලෙස වැඩ කළ යුතු බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+
+අද (20) වරාය අමාත්‍යාංශයේ වැඩ භාරගැනීමේ අවස්ථාට එක්වෙමින් ඔහු වැඩිදුරටත් සඳහන් කළේ,
+
+"මේ මොහොතේ සිට අපිට වැඩ කරන්න වෙන්නේ අපිට ඡන්දය දුන් නොදුන් හැම කෙනාම වෙනුවෙන්. මෙතනින් උඩට දේශපාලනය නැහැ. වරාය පෞද්ගලික අංශය සහ රාජ්‍ය අංශය දෙකම සම්බන්ධ කරගත් ක්‍රියාවලියකට යන්න ඕනේ."
+
+"දැන් නිලධාරීන්ට වැඩ කරන්න ලේසි වෙයි. එක ලෙස වැඩ කරන්න අවශ්‍ය අවස්ථාව අපි ලබාදෙනවා. අපිත් ඒක එලෙසම බලාපොරොත්තු වෙනවා. ඒක ලබාදෙන්න. ඒක ලබාදෙන්න බැරි අයට පුළුවන්... රාජ්‍ය සේවකයන් විදියට... ඔබටත් අයිතියක් තිබෙනවා... ඉන්නත් පුළුවන්... බැරි අය යන්නත් පුළුවන්... අපිට ලොකු ඇරියස් එකක් තියෙනවා... කරන්න රටේ. මිනිස්සු අපෙන් බලාපොරොත්තු වෙනවා."
+
+තමා යටතේ තිබෙන අමාත්‍යාංශවල ඉකුත් සමයේ සිදුවූ මහා පරිමාණ දූෂණයන් පිළිබඳව අනිවාර්යයෙන් සොයාබලා නීති මගින් කටයුතු කරන බවද අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
+
+...
+
+[Data](articles/4231ecdf.json)
+
+---
+
+### පීඩාකාරීබවින් තොර අධ්‍යාපනයක් වෙනුවෙන් කැප වෙනවා - අගමැතිනිය
+
+*2024-11-20 16:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203564) · `si`
+
+ඉදිරි පුනරුද යුගයට ගැලපෙන පුරවැසියන් බිහිකිරීමට සමත්, සිසු විශ්වසනීයත්වය තහවුරු වූ පීඩාකාරීබවින් තොර අධ්‍යාපනයක් වෙනුවෙන් කැපවන බව අග්‍රාමාත්‍ය ආචාර්ය හරිනි අමරසූරිය පැවසීය.
+
+ඉසුරුපායේදී අද (20) අභිනව රජයේ අධ්‍යාපන, උසස් අධ්‍යාපන සහ වෘත්තීය අධ්‍යාපන අමාත්‍යාංශයේදී සිය අමාත්‍ය ධුරයේ භාර ගනිමින් ඇය මේ බව පෙන්වා දුන්නාය.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් අග්‍රාමාත්‍යවරිය පවසා සිටියේ, අධ්‍යාපනය වැනි විෂයක් සම්බන්ධ අමාත්‍ය ධුරයක් භාරගැනීමට ලැබීම සම්බන්ධව තමන් නිහතමානීව සතුටු වන බවයි.
+
+එම විෂයේ පවත්නා භාරදූරභාවය තමන් මැනවින් අවබෝධ කරගෙන සිටින බවද ඇය පැවසුවාය.
+
+නව රජයේ ප්‍රතිපත්ති අනුව ඉහළ ප්‍රමුඛත්වයක් අධ්‍යාපනයට ලබා දී ඇති අතර, පාසල් අධ්‍යාපනය නිසි ක්‍රමික රටාවකට හා කාලසටහනකට අනුව සාර්ථකව ක්‍රියාත්මක කළ යුතු බවද පැවසුවාය.
+
+දරුවන්ට සතුටින් අධ්‍යාපනය ලැබිය හැකි පරිසරයක් සකස් කර දිය යුතු බවත්, ඊට අවශ්‍ය වන පරිදි වර්තමානයේ අධ්‍යාපන ක‍්ෂේත්‍රය තුළ පවතින ගැටලු කඩිනමින් නිරාකරණය කළ යුතුව ඇති බවත් අග්‍රාමාත්‍යවරිය මෙහිදී පෙන්වා දුන්නාය.
+
+...
+
+[Data](articles/507ca316.json)
+
+---
+
+### මාධ්‍ය ක්ෂේත්‍රයේ සේවය ඇගයීමට පිරිනම ස්වර්ණසිංහ සම්මානය අද පුවත්පතේ රාහුල් සමන්තට
+
+*2024-11-20 15:50:27* · [`adalk`](https://www.ada.lk/breaking_news/මාධ්‍ය-ක්ෂේත්‍රයේ-සේවය-ඇගයීමට-පිරිනම-ස්වර්ණසිංහ-සම්මානය-අද-පුවත්පතේ-රාහුල්-සමන්තට/11-413171) · `si`
+
+මාධ්‍ය ක්ෂේත්‍රය තුළ  සිදුකරනු ලැබූ විශිෂ්ට සේවය ඇගයීම උදෙසා පිරිනැමෙන ස්වර්ණසිංහ ජාතික සම්මානය," අද" පුවත්පතේ මාධ්‍යවේදී රාහුල් සමන්ත හෙට්ටිආරච්චිට හිමිව තිබේ.
+
+2024.11.19 දින කොළඹ බණ්ඩාරනායක ජ්‍යාත්යන්තර සම්මන්ත්‍රණ ශාලාවේදී පැවැතී    නවෝත්පාදනයන් මෙහෙයවන සහ අන්‍යයන් දිරිමත් කරන දූරදර්ශී සහ නායකයින් හඳුනා ගනිමින් ව්‍යවසායකත්වයේ සහ මාධ්‍යයේ විශිෂ්ටත්වය වෙනුවෙන් පැවති ස්වර්ණසිංහ ජාතික සම්මාන උළෙලේදී මෙම සම්මානය ඔහුට ලැබී තිබේ. හරිත පරපුර සංවිධානය  විසින් පවත්වන ලද  මෙම සම්මාන ප්‍රධානයේ   අරමුණ වන්නේ  කර්මාන්තවලට සහ සමාජයට සැලකිය යුතු බලපෑමක් ඇති කරන පුද්ගලයින්ගේ   විශිෂ්ට ජයග්‍රහණ සහ දායකත්වය උදෙසා  ගෞරව කිරීමයි.
+
+◼️
+
+[Data](articles/5e2221c9.json)
+
+---
 
 ### Plantation workers demand to stop member money charged on behalf of the trade unions
 
@@ -53,6 +121,22 @@ Plantation workers further stated that it is a detailed report on the social cur
 [Data](articles/b1d3e20c.json)
 
 [Extended Data](ext_articles/b1d3e20c.ext.json)
+
+---
+
+### Shipowner appeals for Sri Lanka to review case against ‘X-Press Pearl’ Master - report
+
+*2024-11-20 15:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103638/shipowner-appeals-for-sri-lanka-to-review-case-against-x-press-pearl-master-report) · `en`
+
+X-Press Feeders has hit out at the “bureaucratic and legal hurdles” that have caused severe delays in the case of the X-Press Pearl, a boxship that caught fire in 2021 causing one of Sri Lanka’s worst-ever environmental disasters. The master of the ship has not been able to leave the Asian island for the past 1,280 days.
+
+Splash reported late last month the new Sri Lankan government will reopen investigations into the X-Press Pearl disaster and seek multi-billion dollar payouts from insurers.
+
+X-Press Feeders pointed out in a statement sent to Splash today that the company has already paid out nearly $160m, and the company is keen to get the case concluded and see one of its staff released.
+
+...
+
+[Data](articles/9fc861cd.json)
 
 ---
 
@@ -2307,111 +2391,5 @@ Former Prime Minister Mahinda Rajapaksa has won the highest number of preferenti
 [Data](articles/49db79de.json)
 
 [Extended Data](ext_articles/49db79de.ext.json)
-
----
-
-### St. Anthony's College of St. Anthony's Girls and Ruwanwella Rajasinghe Central College visited the Presidential Office
-
-*2024-11-20 02:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199193) · `ta`
-
-Students from St. Anthony's College, Ruwanwella Rajasinghe Central College, and Central College of Ratnapura visited the Presidential Office on Tuesday. They toured the President's House, Colombo Port City, and Parliament. School representatives gifted mementos to the President's Secretary and received a souvenir in return. The event was attended by the Director General of Law at the President's Office.
-
-🟩
-
-Students of the Central College of Ratnapura, St. Anthony's College and Ruwanwella Rajasinghe Central College visited the President's Office on Tuesday (19).
-
-Through this program, the President's Office, the Ministry of Education and the Parliamentary Public Relations Division, the students are given the opportunity to visit the President's Office, the President's House, the Colombo Port City and Parliament.
-
-The principals and students of the respective schools presented souvenirs to the President's Secretary, Dr. Nandika Sanath Kumanayake and the presidential secretariat was presented with a memorable gift.
-
-President's Office Director General (Law) Attorney J.. M.. Bandara was also present at the event.
-
-◼️
-
-[Data](articles/baa174c2.json)
-
-[Extended Data](ext_articles/baa174c2.ext.json)
-
----
-
-### The music monster ji. V.. Prakash Kumar released 'Nam' film Burst Look
-
-*2024-11-20 01:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/199190) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-"Nam" film release: Debut director Avinash Prakash's movie starring newcomers. Music by Ved Shankar. Produced by V.S. Raju's Kala Pavasree Creations. First look features an old man and three children with a dog. Expected to screen at international film festivals next year.
-
-🟩
-
-Burst Look has been released by newcomers starring 'Nam'. This is 'music monster' ji. V.. Prakash Kumar posted on his web page and congratulated the film crew.
-
-The debut director Avinash Prakash has starred in the upcoming film 'Nam'. Ved Shankar has composed the film, which has been recorded by Avinash Prakash. The film was made on behalf of Kala Pavasree Creations Company.. V.. S.. Raju has produced.
-
-The film crew released the first look of the film.. The film will be released in theaters next year. The first look of 'We' is designed to be a side face of an old man.. It is also the focus of three children with a pet dog under it. The film is also mentioned as the film will be celebrated at international film festivals ... The expectation of the film has increased.
-
-◼️
-
-[Data](articles/b2df820c.json)
-
-[Extended Data](ext_articles/b2df820c.ext.json)
-
----
-
-### Asian Development Bank of Sri Lanka
-
-*2024-11-20 01:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/199192) · `ta`
-
-Asian Development Bank grants $200m loan to Sri Lanka
-
-🟩
-
-The Asian Development Bank of India (ADB) on Tuesday (19) granted permission to provide US $ 200 million loans to Sri Lanka.
-
-◼️
-
-[Data](articles/cb8af5fd.json)
-
-[Extended Data](ext_articles/cb8af5fd.ext.json)
-
----
-
-### Anura “Alai”(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats
-
-*2024-11-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85098) · `en`
-
-The National  People’s Power(NPP) known in Sinhala as Jathika Jana Balawegaya(JJB) and Theseeya Makkal Sakthi(TMS) in Tamil has recorded a historic victory in the  Parliamentary elections held on 14 November 2024. The NPP  is a coalition of 21 political entities and trade unions of which the Janatha Vimukthi Peramuna(JVP) is the chief constituent. The NPP  polled 6,863,86 (61.6%) votes to win 159 seats in the 225 member Parliament. Of these 141 are directly elected MPs on a district basis while 18 will be  appointed as  MPs from the  national list.
-
-...
-
-[Data](articles/f1b58dc6.json)
-
-[Extended Data](ext_articles/f1b58dc6.ext.json)
-
----
-
-### Arun Vijay clashes with Ajith Kumar
-
-*2024-11-20 01:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/199191) · `ta`
-
-Arun Vijay's "Vanankan" clashes with Ajith Kumar's film on Pongal 2025. Both stars' movies releasing same day causes fan excitement and potential competition between fan bases.
-
-🟩
-
-Arun Vijay's upcoming film 'Vanankan' will be released in the Pongal holidays in January, with a special photo of the film crew.
-
-Arun Vijay, Roshini Prakash, Samudrakani, John Vijay, Mishkin, Radha Ravi, Shanmugarajan, Lion Tiger. R. B.. Gurudev's cinematography for this movie. Prakash Kumar and Sam c. S.. They have composed the music.
-
-The film is being produced as an exercise enterter and produced by producer Suresh Kamakshi on behalf of V House Productions.
-
-All the tasks of this movie are completed and waiting for the release. In this backdrop, the film will be released on Pongal holidays in January 2025 and will be officially announced later on the date.. His fans are excited as the film crew has announced the release date of the movie 'Vanankan' which is the birthday of actor Arun Vijay.
-
-...
-
-[Data](articles/e9ace91d.json)
-
-[Extended Data](ext_articles/e9ace91d.ext.json)
 
 ---

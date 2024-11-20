@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 17:25:37**
+As of **2024-11-20 18:38:27**
 
 ## Newspaper Stats
 
-*Scraped **55,957** Articles*
+*Scraped **55,967** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,57 +16,205 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,262
-adaderanalk | 6,756
-tamilmirrorlk | 7,935
+adalk | 5,264
+adaderanalk | 6,761
+tamilmirrorlk | 7,937
 virakesarilk | 9,087
-adaderanasinhalalk | 9,671
+adaderanasinhalalk | 9,672
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,954 (100.0%) of 55,957 articles have been extended.
+55,966 (100.0%) of 55,967 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ තොරතුරු ලබාගැනීම මාර්ගගත ක්‍රමයට
+### Complete the collection of details
+
+*2024-11-20 18:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபர-சேகரிப்பு-அலுவல்கள்-நிறைவு/175-347507) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Newly elected MPs attended the 10th Parliament's inaugural session. Over 200 MPs participated, receiving essential documents and undergoing ID photography and fingerprinting for electronic voting. A digital submission system was introduced via the Parliamentary website to streamline processes.
+
+🟩
+
+The success of the newly elected MPs for the initial session of the tenth parliament held at the Parliament Building yesterday (19) and today (20).
+
+More than 200 MPs, including MPs, participated in this initiative. During the event, all MPs were provided with useful essential information and documents. Operations were carried out, including photography for MPs' identity cards and fingerprints for the electronic voting system.
+
+In addition, the online system was introduced via the Parliamentary website to prepare for the inaugural session of the first session of the tenth parliament.. This has made MPs digitally submit the necessary information and has ease these processes.
+
+◼️
+
+[Data](articles/77435a51.json)
+
+[Extended Data](ext_articles/77435a51.ext.json)
+
+---
+
+### ජුලම්පිටියේ අමරේ ට පැනවූ මරණීය දණ්ඩනය අභියාචනාධිකරණය තහවුරු කරයි
+
+*2024-11-20 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203569) · `si`
+
+තංගල්ල මහාධිකරණය විසින් ජී.ජී. අමරසිරි හෙවත් ජුලම්පිටියේ අමරේ නමැත්තාට පනවා තිබූ මරණීය දණ්ඩනය අභියාචනාධිකරණය අද (20) තහවුරු කළේය.
+
+විනිසුරු පී. කුමාරන් රත්නම් මහතාගේ එකඟත්වය ඇතිව අභියාචනාධිකරණ විනිසුරු සම්පත් අබේකෝන් මහතා විසින් මෙම තීන්දුව ලබා දුනි.
+
+ඔහු, 2012 වසරේ කටුවන ප්‍රදේශයේ පැවති ජනතා විමුක්ති පෙරමුණේ රැස්වීමකට කඩාවැදී වෙඩිතබා පුද්ගලයින් දෙදෙනකු මරාදමා තවත් අයෙකුට මරණීය තුවාල සිදු කිරීමේ චෝදනාව සම්බන්ධයෙන් වරදකරු වී සිටී.
+
+තමන්ව නිදොස් කොට නිදහස් කරන ලෙස ඉල්ලා ජුලම්පිටිය අමරේ සිය නීතිඥවරුන් මාර්ගයෙන් අභියාචනාධිකරණයට ඇපෑලක් ඉදිරිපත් කර තිබූ අතර එම ඇපෑල තුළින් විත්තිකරු ප්‍රකාශ කළේ මහාධිකරණ නඩු විභාගයේදී විත්ති පාර්ශ්වය විසින් ඉදිරිපත් කළ සාක්ෂි විනිසුරුවරයා විසින් සැලකිල්ලට නොගත් බවය.
+
+එම ඇපෑල විභාග කළ අභියාචනාධිකරණ විනිසුරුවරුන් සඳහන් කළේ මහාධිකරණ විනිසුරුවරයා විසින් නිකුත් කළ මරණීය දණ්ඩනය සම්බන්ධයෙන් මැදිහත්වීම් සිදු කිරීමට තම අධිකරණය අපේක්ෂා නොකරන බවය.
+
+...
+
+[Data](articles/3493c63d.json)
+
+---
+
+### Investigating Ravi's appointment
+
+*2024-11-20 17:45:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரவியின்-நியமனம்-குறித்து-விசாரணை/175-347506) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Committee formed to probe Ravi Karunanayake's appointment. Four members tasked with independent inquiry. Decision made at meeting led by ex-President Ranil Wickremesinghe.
+
+🟩
+
+A four -member committee has been appointed to conduct independent inquiries into the appointment of Ravi Karunanayake as the National List of the New Democratic Front.
+
+The decision was taken during a meeting chaired by former President Ranil Wickremesinghe today.
+
+◼️
+
+[Data](articles/b2212da3.json)
+
+[Extended Data](ext_articles/b2212da3.ext.json)
+
+---
+
+### Next Action Resolution of Biton - Decision to provide mines to Ukraine
+
+*2024-11-20 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199247) · `ta`
+
+US provides mines to Ukraine: Biden approval, restrictions on public use, controversy worldwide.
+
+🟩
+
+Baidan has allowed the US to provide mines as the US has intensified military aid to Ukraine to prevent the progress of Russian soldiers in Ukraine.
+
+According to reports, Ukraine has promised to not use these landlords in public areas.
+
+Ukraine has also promised to use mines in the process of being in operation for a period of time.
+
+Ukrainian soldiers welcome the resolution of Jobidon on land mines but it is very controversial in other parts of the world, the BBC said.
+
+When Donald Trump took office as US president, US soldiers removed control of the use. Joe Bidan had been heavily criticized by this.
+
+◼️
+
+[Data](articles/a726d2dc.json)
+
+[Extended Data](ext_articles/a726d2dc.ext.json)
+
+---
+
+### Obtaining the information of Members of Parliament
 
 *2024-11-20 17:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203568) · `si`
 
-දසවැනි පාර්ලිමේන්තුවේ, පළමුවැනි සභා වාරයේ පළමුවැනි රැස්වීම පැවැත්වීම සඳහා අවශ්‍ය කටයුතු පහසු කරවනු පිණිස අද (19) සහ (20) දෙදින පැවති පාර්ලිමේන්තු මන්ත්‍රීවරුන් සඳහා තොරතුරු කවුළුව පාර්ලිමේන්තු සංකීර්ණයේ දී සාර්ථකව අවසන් වී තිබේ.
+Here's a summary of the text in approximately 200 characters:
 
-මෙම අවස්ථාවට පළමුවරට පාර්ලිමේන්තුවට තේරි පත්වූ මන්ත්‍රීවරයන් ඇතුළුව මන්ත්‍රීවරයන් 200 කට වැඩි පිරිසක් සහභාගී වූ බව පාර්ලිමේන්තු මාධ්‍ය අංශය නිවේදනය කළේය.
 
-එහිදී සියලුම මන්ත්‍රීවරයන්ට ප්‍රයෝජනවත් වන තොරතුරු සහ ලිපිලේඛන සැපයීම, පාර්ලිමේන්තු මන්ත්‍රීවරයන්ගේ හැඳුනුම්පත සඳහා ඡායාරූප ලබා ගැනීම සහ විද්‍යුත් ඡන්ද විමසීමේ කටයුතුවලට අදාළව ඇඟිලි සළකුණු ලබා ගැනීම ඇතුළු කටයුතු සිදුව ඇත.
 
-මේ අතර දසවැනි පාර්ලිමේන්තුවේ, පළමුවැනි සභා වාරයේ පළමුවැනි රැස්වීම පැවැත්වීමට අදාළව සියලුම පාර්ලිමේන්තු මන්ත්‍රීවරුන්ගේ තොරතුරු ලබාගැනීම සඳහා පාර්ලිමේන්තු වෙබ් අඩවිය හරහා මාර්ගගත ක්‍රමය ඔස්සේ (Online) අදාළ තොරතුරු ඇතුළත් කිරීමේ පහසුකම ද මෙවර සළසාදී තිබේ.
+"Parliamentary information session: Over 200 MPs attended. Document distribution, MP photos, fingerprinting for e-voting. Online system launched for third parliament."
+
+🟩
+
+The information window has been completed in the parliament today (19) and (20) MPs today (19) and (20) MPs today (19) and (20) MPs today (19) and (20).
+
+The Parliamentary Media Unit announced that more than 200 MPs, including elected MPs to the Parliament, was present at the occasion.
+
+The provision of information and documents that are useful for all MPs, have taken place with the acquisition of photographs of Members of Parliament and the fingerprints in relation to the activities of e-communal votes.
+
+Meanwhile, it is also partitizing this year's online system through online system through the Parliamentary Site to obtain information on the Parliamentary Web Site to obtain the information in the Third Parliament.
 
 ◼️
 
 [Data](articles/40251815.json)
 
+[Extended Data](ext_articles/40251815.ext.json)
+
 ---
 
-### பைடனின் அடுத்த அதிரடி தீர்மானம் - உக்ரைனிற்கு கண்ணிவெடிகளை வழங்க முடிவு
+### Cabinet approval to import 70,000 MT of rice
 
-*2024-11-20 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/199247) · `ta`
+*2024-11-20 17:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103643/cabinet-approval-to-import-70000-mt-of-rice) · `en`
 
-உக்ரைனில் ரஸ்ய படையினரின் முன்னேற்றத்தை தடுப்பதற்காக அமெரிக்கா உக்ரைனிற்கான  இராணுவஉதவிகளை தீவிரப்படுத்தியுள்ள நிலையிலேயே கண்ணிவெடிகளை வழங்குவதற்கு பைடன் அனுமதிவழங்கியுள்ளார்.
+The Cabinet of Ministers has granted approval for the import of 70,000 metric tonnes of rice as a short-term solution to address the existing shortage of rice in the market.
 
-பொதுமக்கள் அதிகமாக வாழும் பகுதிகளில் இந்த நிலக்கண்ணி வெடிகளை பயன்படுத்தப்போவதில்லை என  உக்ரைன் உறுதியளித்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன.
+The rice will be imported through the Lanka Sathosa and Sri Lanka State Trading (General) Corporation, according to Minister of Trade, Commerce, Food Security and Cooperative Development Wasantha Samarasinghe.
 
-மேலும் குறிப்பிட்ட காலம்வரை செயற்பாட்டில் இருக்கும் விதத்திலேயே கண்ணிவெடிகளை பயன்படுத்தப்போவதாகவும் உக்ரைன் உறுதியளித்துள்ளது.
-
-நிலக்கண்ணி வெடிகள் தொடர்பான ஜோபைடனின் தீர்மானத்தை உக்ரைன் படையினர் வரவேற்பார்கள் ஆனால் உலகின் ஏனைய பகுதிகளில் இது மிகவும் சர்ச்சைக்குரியதாக காணப்படும் என பிபிசி தெரிவித்துள்ளது.
-
-அமெரிக்க ஜனாதிபதியாக டொனால்ட் டிரம்ப் பதவிவகித்தவேளை அமெரிக்க படையினர் நிலக்கண்ணிவெடிகளை பயன்படுத்துவதற்கான கட்டுப்பாட்டை நீக்கியிருந்தார் . இதனை ஜோ பைடன் அவ்வேளை கடுமையாக விமர்சித்திருந்தார்.
+Speaking at a press briefing at the Government Information Department today (20), he stated that a stock of ‘Swarna’ Nadu Rice will be imported and that the Cabinet approval has been granted for this.
 
 ◼️
 
-[Data](articles/a726d2dc.json)
+[Data](articles/2dc3db98.json)
+
+[Extended Data](ext_articles/2dc3db98.ext.json)
+
+---
+
+### Independent committee to probe Ravi’s appointment as NDF National List MP
+
+*2024-11-20 17:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103642/independent-committee-to-probe-ravis-appointment-as-ndf-national-list-mp) · `en`
+
+The New Democratic Front (NDF) has decided to conduct an independent inquiry into the appointment of Ravi Karunanayake as an MP from the National List of the alliance.
+
+Accordingly, a four-member committee has been appointed for this purpose during a meeting held today (20) under the patronage of former President Ranil Wickremesinghe.
+
+Furthermore, it has been decided that the final report pertaining to the inquiry should be handed over to former President Wickremesinghe within a period of three weeks.
+
+The report will later be forwarded to the Executive Committee of the United National Party (UNP), as decided during the NDF meeting.
+
+◼️
+
+[Data](articles/bd0fbb30.json)
+
+[Extended Data](ext_articles/bd0fbb30.ext.json)
+
+---
+
+### 70000 tons of Nadu rice per month
+
+*2024-11-20 16:58:17* · [`adalk`](https://www.ada.lk/breaking_news/මසකට-නාඩු-සහල්-ටොන්-70000-බැගින්-ආනයනය-කරයි/11-413175) · `si`
+
+Sri Lanka imports 70,000 metric tons of Nadu rice monthly. Deadline: Dec 15 via CWE Corp. Retail price cap maintained despite surplus. Consumption: 145,000 metric tons.
+
+🟩
+
+As a remedy in the extent of rice in the market, the Government has decided to import and deliver a maximum limit of 70000 metric tons per month.
+
+These rice is to be imported before December 15, and the rice is to be imported through the CWE Corporation.
+
+Minister Wasantha Samarasinghe said the government has decided to maintain the maximum retail price of a kilogram.
+
+He added that although the statistics showed a rice surplus, there is no rice in the market. The Consumption of Nadu rice in Sri Lanka is about 145,000 metric tons.
+
+◼️
+
+[Data](articles/8786a4fd.json)
+
+[Extended Data](ext_articles/8786a4fd.ext.json)
 
 ---
 
@@ -93,6 +241,24 @@ The Minister said that the necessary cabinet was approved.
 [Data](articles/114a7cd4.json)
 
 [Extended Data](ext_articles/114a7cd4.ext.json)
+
+---
+
+### Petition filed against ex-President Ranil and others over liquor licenses
+
+*2024-11-20 16:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/103641/petition-filed-against-ex-president-ranil-and-others-over-liquor-licenses) · `en`
+
+A Fundamental Rights (FR) petition has been filed with the Supreme Court seeking an order that the fundamental human rights have been violated through the decision by the respondents including former President Ranil Wickremesinghe to issue liquor licenses in violation of the Excise Act after the 2024 Presidential Election was announced.
+
+The petition was filed by Chamara Sampath Abeysekara and N. Ravichandran, two liquor retail businessmen in Kandy, naming 39 individuals including former President and former Minister of Finance Ranil Wickremesinghe, former Commissioner General of Excise M.J. Gunasiri, Finance Ministry Secretary, Minister Wasantha Samarasinghe and the Chairman of the Bribery Commission, as respondents in the plaint.
+
+The petitioners allege that the respondents have issued a number of liquor licenses in violation of the Excise Act, within the period from July 26 to September 21, 2024, during which the Presidential Election had been announced.
+
+...
+
+[Data](articles/356a5fba.json)
+
+[Extended Data](ext_articles/356a5fba.ext.json)
 
 ---
 
@@ -126,6 +292,48 @@ Thereafter, the report was made to the UNP Working Committee.
 
 ---
 
+### Pilleyan leaves CID after recording 5-hour statement
+
+*2024-11-20 16:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/103640/pilleyan-leaves-cid-after-recording-5-hour-statement) · `en`
+
+Former State Minister Sivanesathurai Chandrakanthan alias Pilleyan has left the Criminal Investigation Department (CID), a short while ago, after providing a statement for around 5 hours.
+
+Pilleyan arrived at the CID this morning (20) to provide a statement pertaining to an investigation regarding the controversial documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
+
+On November 12, the former Chief Minister of the Eastern Province had been summoned to the Criminal Investigations Department (CID) in order to record a statement related to the allegations in the documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
+
+However, Pilleyan did not arrive at the CID on the scheduled date instead requested a new date to provide his statement through his attorneys.
+
+...
+
+[Data](articles/a06ba297.json)
+
+[Extended Data](ext_articles/a06ba297.ext.json)
+
+---
+
+### Appeals Court upholds death sentence on ‘Julampitiye Amare’
+
+*2024-11-20 16:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/103639/appeals-court-upholds-death-sentence-on-julampitiye-amare-) · `en`
+
+The Court of Appeal has upheld the death sentence given to Geeganagamage Amarasiri alias ‘Julampitiye Amare’ who was accused of shooting and killing of two persons at a JVP rally in June 2012.
+
+This verdict was issued when an appeal filed by the accused through his attorneys, seeking an order to acquit and release him, was taken up before the two-member Appeals Court judge bench comprising Justices P. Kumaran and Sampath Abeykoon today (20).
+
+On November 7, 2019, the Tangalle High Court sentenced ‘Julampitiye Amare’ to death over the Katuwana shooting incident in 2012 which killed two, while causing injuries to another person.
+
+However, through his appeal, Geeganagamage Amarasiri alias ‘Julampitiye Amare’ had claimed that during the trial, the High Court judge did not take the evidence submitted by the defence into consideration.
+
+Accordingly, the accused had requested the Appeals Court to acquit him from the relevant charges.
+
+...
+
+[Data](articles/fda7fd78.json)
+
+[Extended Data](ext_articles/fda7fd78.ext.json)
+
+---
+
 ### Rehearsal ...
 
 *2024-11-20 16:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திகை/175-347504) · `ta`
@@ -145,6 +353,34 @@ The rehearsal to welcome President Anura Kumara Dissanayake was viewed today (20
 [Data](articles/eac86598.json)
 
 [Extended Data](ext_articles/eac86598.ext.json)
+
+---
+
+### Dedicated to an educational free education
+
+*2024-11-20 16:27:33* · [`adalk`](https://www.ada.lk/breaking_news/පීඩාකාරී-බවින්-තොර-අධ්‍යාපනයක්-වෙනුවෙන්-කැප-වෙනවා/11-413174) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Education reform focus: Free education, reliable future resources. Prime Minister emphasizes systematic approach, child-friendly environment. New policies prioritize quality education. Ministry officials assume duties to implement changes.
+
+🟩
+
+Isurupaya, 'Isurupaaya' to operate the present student resources to the future reliability of the future reliability, the Ministry of Education, Higher Education and Vocational Education.Dr. Harini Amarasuriya says the Prime Minister Dr. Harini Amarasuriya.
+
+Speaking further the Prime Minister said that he was humble and well-known to be deliberately assigned to issue a portfolio of education.. The Minister said that the new government policies have been given high priority and school education should be implemented in accordance with a proper systematic pattern and schedule.
+
+She added an environment where children can enjoy happy and need to be resolved in the education sector, she added and the unstandoned support of the education sector is necessary for it.
+
+K. As the Secretary of the Ministry of Education, Higher Education and Vocational Education. M. G. S N. Mr. Karuwewa assumed duties as 'Isurupaya' at the Ministry premises.
+
+◼️
+
+[Data](articles/111d7379.json)
+
+[Extended Data](ext_articles/111d7379.ext.json)
 
 ---
 
@@ -214,19 +450,35 @@ However, she added that it is essential to the unstandoned support of all of the
 
 ---
 
-### පාර්ලිමේන්තු සභාවාරය උත්සවකාරයෙන් විවෘත කිරීම සඳහා සියල්ල සූදානම්
+### Everything is ready to open the Parliamentary Session with
 
 *2024-11-20 16:08:20* · [`adalk`](https://www.ada.lk/breaking_news/පාර්ලිමේන්තු-සභාවාරය-උත්සවකාරයෙන්-විවෘත-කිරීම-සඳහා-සියල්ල-සූදානම්/11-413172) · `si`
 
-ජනාධිපතිවරයා විසින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීම හෙට පෙ.ව 11.30 ට
+Here's a summary of the text in approximately 200 characters:
 
-දසවැනි පාර්ලිමේන්තුවේ පළමු සභාවාරය උත්සවකාරයෙන් හෙට (21) විවෘත කිරීමට නියමිතය. ඊට අදාළ පෙරහුරුව පාර්ලිමේන්තුව පරිශ්‍රයේදී අද (2024.11.20) පැවැත්විණි.
 
-හෙට පෙ.ව 9.55ට  ගණපූර්ණ සීනුව නාදකිරීමෙන් අනතුරුව පාර්ලිමේන්තුව පෙ.ව 10.00 ට රැස්වීමට නියමිත අතර සෙංකෝලය සභා ගර්භයේ තැන්පත් කිරීමෙන් පසු, පාර්ලිමේන්තුව රැස් වන දිනය හා වෙලාව නියම කරමින් ජනාධිපතිවරයා විසින් නිකුත් කරන ලද අති විශේෂ ගැසට් නිවේදන පාර්ලිමේන්තුවේ මහ ලේකම්වරිය විසින් දිනයේ පළමු කාර්යය ලෙස සභාවට ඉදිරිපත් කරනු ලබයි.
+
+"Parliament opens tomorrow at 10 AM. Rehearsal held today. President presents government policy at 11:30 AM. First session of Third Parliament commences."
+
+🟩
+
+President to present government policy statement tomorrow at 11:30 am
+
+The first congregation of the Third Parliament is to be opened tomorrow (21). The rehearsal was held today (2024.11.20) at the premises of Parliament.
+
+Parliament will meet at 10.00 am tomorrow after the Condition of the Mace is placed in the Chamber at 9.55 am.Submits the House.
+
+The Speaker is the official pledge, providing the official pledge or oath, the Speaker and oaths, the Speaker, as well as the Appointment of the Constitution of Article 64 (1) of the Constitution of the Constitution and the Constitution of the Constitution.Deputy Committee Chairman will be elected. The first day there is no seating order for the MPs, and MPs receive the opportunity to sit on the pretext.
+
+President Anura Kumara Dissanayake is to be temporarily suspended at the end of these basic activities and is scheduled to be presented to the House of Chairman to Parliament at 11.30 am in accordance with the Constitution.
+
+The Hon.
 
 ...
 
 [Data](articles/5a784610.json)
+
+[Extended Data](ext_articles/5a784610.ext.json)
 
 ---
 
@@ -2253,181 +2505,5 @@ The Association also extended its congratulations and best wishes to the newly e
 [Data](articles/d5549629.json)
 
 [Extended Data](ext_articles/d5549629.ext.json)
-
----
-
-### Sri Lanka kicks off Global Entrepreneurship Week 2024
-
-*2024-11-20 06:04:19* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-kicks-off-Global-Entrepreneurship-Week-2024/34-769438) · `en`
-
-The Information and Communication Technology Agency (ICTA) on Monday launched the Global Entrepreneurship Week (GEW) in Sri Lanka for the third consecutive year championing the importance of entrepreneurship  from 18 to 24 November.
-
-Themed “Entrepreneurship is for Everyone,” GEW 2024 in Sri Lanka aims to embody the inclusivity and creativity that entrepreneurship offers to the world by celebrating and empowering entrepreneurs from various industries, ages, and enterprises through collaboration with investors, researchers, and experts.
-
-...
-
-[Data](articles/d4c5636a.json)
-
-[Extended Data](ext_articles/d4c5636a.ext.json)
-
----
-
-### EDB partners IFC; launches Export Excellence Initiative to boost SME competitiveness
-
-*2024-11-20 06:02:10* · [`dailyftlk`](https://www.ft.lk/business/EDB-partners-IFC-launches-Export-Excellence-Initiative-to-boost-SME-competitiveness/34-769437) · `en`
-
-In a concerted effort to boost the country’s export potential and fortify the global competitiveness of small and medium-sized enterprises (SMEs), the Sri Lanka Export Development Board (EDB) has partnered with the International Finance Corporation (IFC) to launch the Sri Lanka Export Excellence Initiative (SLEEI).
-
-The corporation agreement was signed following discussions between EDB Chairman and Chief Executive Mangala Wijesinghe and IFC representatives. These discussions focused on the initiative’s implementation and its role in supporting the country’s economic recovery through export growth.
-
-The SLEEI is a comprehensive program designed to empower local businesses. It provides targeted training, market access, and support to help SMEs navigate the complexities of international trade.
-
-“This initiative is not just about boosting exports; it’s about equipping Sri Lankan businesses with the tools they need to compete and thrive in a demanding global marketplace,” said Wijesinghe.
-
-...
-
-[Data](articles/44760c31.json)
-
-[Extended Data](ext_articles/44760c31.ext.json)
-
----
-
-### Kumar, Lasanthi join Hunters and Company Board
-
-*2024-11-20 06:01:19* · [`dailyftlk`](https://www.ft.lk/business/Kumar-Lasanthi-join-Hunters-and-Company-Board/34-769436) · `en`
-
-Top professionals Kumar Samarasinghe and Lasanthi Fernando have joined the Hunters and Company PLC Board as Independent Non-Executive Directors.
-
-Samarasinghe is a seasoned Marketing and Management Consultant with over 35 years of extensive experience in marketing, sales, and human resource development management. He has held various leadership positions, including serving as the Marketing and Sales Director at Singer Sri Lanka PLC, where he played a pivotal role in the company’s growth and success.
-
-As a Board Member of Singer Sri Lanka PLC, Samarasinghe has been instrumental in the development and management of numerous local and international brands in Sri Lanka. He spearheaded sales channel development, consistently driving strong performance over several decades. His expertise also extends to sports marketing, promotions, and sponsorship activities, where he has led impactful initiatives for the company.
-
-...
-
-[Data](articles/50c1097c.json)
-
-[Extended Data](ext_articles/50c1097c.ext.json)
-
----
-
-### Changes at MPI Film Circuit
-
-*2024-11-20 05:58:40* · [`dailyftlk`](https://www.ft.lk/business/Changes-at-MPI-Film-Circuit/34-769435) · `en`
-
-The Commercial High Court of Colombo recently issued an order restraining Nimal Kularatne, Kelum Kularatne and a few others from exercising any rights as Directors of Movie Producers and Importers Company Ltd., also known as ‘MPI Film Circuit’ by order dated 13 November 2024 issued in Case No. HC Civil 78/2024 (CO).
-
-N. Udayakumar and Dr. Arosha Fernando have been nominated as the new Joint Managing Directors of the Film Circuit by the Board of Directors moving forward. There are only five film circuits who have the authority to release local and foreign films in Sri Lanka – MPI Film Circuit, EAP Film Circuit, CEL Film Circuit, LFD Film Circuit which are owned by the private sector, and Rithma Film Circuit owned by the Government under the National Film Corporation.
-
-...
-
-[Data](articles/7730df88.json)
-
-[Extended Data](ext_articles/7730df88.ext.json)
-
----
-
-### Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics
-
-*2024-11-20 05:57:52* · [`dailyftlk`](https://www.ft.lk/columns/Remarkable-rise-of-Anura-Kumara-Dissanayake-in-Sri-Lankan-politics/4-769434) · `en`
-
-With a two-thirds majority backing him in Parliament, President Anura Kumara Dissanayake has the strength and power to deliver on his election promises and pledges
-
-There is magic in the air! The country is in a festive mood. The toast of the town is a man called Anura Kumara Dissanayake who is the leader of two political parties namely the Janatha Vimukthi Peramuna (JVP) and National People’s Power (NPP). AKD as he is popularly known was the victor in a Presidential election held two months ago. He followed it up last week by spearheading his party to victory in a Parliamentary election.
-
-...
-
-[Data](articles/478e5a46.json)
-
-[Extended Data](ext_articles/478e5a46.ext.json)
-
----
-
-### New era of hope  and responsibility
-
-*2024-11-20 05:51:25* · [`dailyftlk`](https://www.ft.lk/columns/New-era-of-hope-and-responsibility/4-769433) · `en`
-
-With 159 seats in Parliament and a two-thirds majority, the NPP has been given an unparalleled mandate to deliver a Government that is clean, transparent, and accountable
-
-The resounding victory of the National People’s Power (NPP) marks the beginning of a new chapter in Sri Lanka’s history. For decades, citizens have watched as promises made by the political elite faded into disappointment. This election is a clear message: the people demand change. With 159 seats in Parliament and a two-thirds majority, the NPP has been given an unparalleled mandate to deliver a Government that is clean, transparent, and accountable.
-
-...
-
-[Data](articles/9fc82c32.json)
-
-[Extended Data](ext_articles/9fc82c32.ext.json)
-
----
-
-### The people have spoken: Can the NPP transform promises into progress?
-
-*2024-11-20 05:47:51* · [`dailyftlk`](https://www.ft.lk/columns/The-people-have-spoken-Can-the-NPP-transform-promises-into-progress/4-769432) · `en`
-
-It is clear that the electorate is seeking a break from dynastic politics and unaccountable governance in favour of pragmatic solutions and reformist policies – Pic by Shehan Gunasekara
-
-The 2024 Sri Lankan general election marks a potential turning point in the nation’s political trajectory, especially with the National People’s Power (NPP) movement challenging the dominance of established political forces. Led by Anura Kumara Dissanayake, the NPP surged forward as the preferred choice among a populace disillusioned by years of political scandals, economic hardship, and governance failures. This election, unlike previous ones, underscored the prominence of socio-economic concerns over the historical ethnic and religious issues that once polarised Sri Lankan voters.
-
-...
-
-[Data](articles/6e6fa8a7.json)
-
-[Extended Data](ext_articles/6e6fa8a7.ext.json)
-
----
-
-### Ukraine -Russia used long -term missiles provided by the US
-
-*2024-11-20 05:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199195) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US-supplied long-range missiles used by Ukraine in attack on Russia. Russia intercepts 2 out of 8 missiles, causing damage to military base.
-
-🟩
-
-Ukraine has launched a first -time attack on Russia, using a long -term missile provided by the US.
-
-Russian officials who have targeted the Bryansk region on the northern border of Ukraine have shot down five missiles and have caused damage to the explosion of a military base.
-
-However, US officials say that Russia has intercepted and destroyed two of the eight missiles laid by Ukraine.
-
-◼️
-
-[Data](articles/8c885eee.json)
-
-[Extended Data](ext_articles/8c885eee.ext.json)
-
----
-
-### Ministers the country is blessed with
-
-*2024-11-20 05:43:00* · [`dailyftlk`](https://www.ft.lk/columns/Ministers-the-country-is-blessed-with/4-769430) · `en`
-
-The question ‘who is eligible to be appointed as a Minister?’ is unanswerable
-
-“There are twenty five positions of Cabinet Ministers fallen vacant in the Democratic Socialist Republic of Sri Lanka. Those who are below the age of 60 years with an unblemished character and possessing the qualifications and experience appearing in the Government Gazette are requested to forward their applications for these positions.
-
-...
-
-[Data](articles/6e9ba583.json)
-
-[Extended Data](ext_articles/6e9ba583.ext.json)
-
----
-
-### History Is Going To Repeat Again: Lifting Ban On Vehicle Imports Could Trigger It
-
-*2024-11-20 05:39:18* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/history-is-going-to-repeat-again-lifting-ban-on-vehicle-imports-could-trigger-it/) · `en`
-
-History is going to repeat again. It is going to begin on 01 February 2025, with the lifting of import ban on passenger vehicles. With the blessing of the governor of the central bank, the government has already promised to remove the import restrictions of vehicles on February 01, 2025. On that day, it will begin to set the necessary conditions for a full-blown crisis again, possibly within a year or so. If the unrealized demand for vehicles for the past few years is accounted, the crisis could even begin within months.
-
-This time only advisors are different. Previously, it was Dr. PB Jayasundera, president’s secretary of Gotabaya Rajapaksa and Ajith Nivard Cabraal, the former governor of the central bank. This time the advisors are Dr. Nandalal Weerasinghe, the incumbent governor of the central bank and the Director General of customs.
-
-...
-
-[Data](articles/bb4ca7e8.json)
-
-[Extended Data](ext_articles/bb4ca7e8.ext.json)
 
 ---

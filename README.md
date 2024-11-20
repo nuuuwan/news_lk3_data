@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 23:25:35**
+As of **2024-11-20 23:42:08**
 
 ## Newspaper Stats
 
-*Scraped **55,998** Articles*
+*Scraped **56,007** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ dbsjeyarajcom | 433
 colombotelegraphcom | 572
 bbccomsinhala | 579
 islandlk | 3,347
-economynextcom | 3,388
+economynextcom | 3,397
 dailyftlk | 3,832
 dailymirrorlk | 4,733
 adalk | 5,272
@@ -26,11 +26,53 @@ adaderanasinhalalk | 9,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,998 (100.0%) of 55,998 articles have been extended.
+55,998 (100.0%) of 56,007 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### Sri Lanka plans confab to boost marine linked exports
+
+*2024-11-20 22:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-confab-to-boost-marine-linked-exports-188875/) · `en`
+
+ECONOMYNEXT – Sri Lanka is holding a conference showcasing the island’s maritime business potential with over 40 foreign participants in November as a part of efforts to boost exports, newly appointed chairman of the island’s Export Development board said.
+
+“We can market our county’s location to increase foreign currency inflows,” EDB Chairman Mangala Wijesinghe told reporters Wednesday.
+
+“Nearly 200 ships go through Sri Lanka everyday and we are hoping to provide off shore services and create jobs out of it,” Wijesinghe said.
+
+The forum called Voyage Sri Lanka 2024 will be held on November 26.
+
+Sri Lanka is keen to promote sustainable use of ocean resources, marine and aquaculture services and strengthen its boat and shipbuilding industries, he said.
+
+“We are popular to a certain extent [Sri Lanka as a global maritime hub], and we hope to spread it out with the help of the Sri Lanka Ports Authority and EDB,” Director for the Gulf Agency Company Ltd, Ricky Barnett said.
+
+...
+
+[Data](articles/b20a7d83.json)
+
+---
+
+### Sri Lanka sells Rs145bn in treasury bills, 12-months also sold
+
+*2024-11-20 22:21:00* · [`economynextcom`](https://economynext.com/sri-lanka-sells-rs145bn-in-treasury-bills-12-months-also-sold-188946/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasury bill yields were down across maturities at Wednesday’s auction, with all offered 145 billion rupees of bills sold, including one year bills, data from the debt office showed.
+
+The 3-month yield was down 5 basis points at 9.30 percent, with all offered 50 billion rupees of bills sold.
+
+The 6-month yield was down 4 basis points at 9.60 percent, with all offered 65 billion rupees of bills sold.
+
+The 12-month bills was down 10 basis points at 9.78 percent, with all offered and 30 billion rupees of bills sold.
+
+All three maturities were offered on tap after the the auction. (Colombo/Nov20/2024)
+
+◼️
+
+[Data](articles/306a2883.json)
+
+---
 
 ### Special unit for violating animal damage priority
 
@@ -830,6 +872,30 @@ Attorney-at-Law Kumar Danicasin, Attorney-at-Law Indika Weragoda, Committees Sec
 
 ---
 
+### Sri Lanka to import 70,000 tonnes of rice to address shortage: Minister
+
+*2024-11-20 17:40:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-import-70000-tonnes-of-rice-to-address-shortage-minister-188960/) · `en`
+
+ECONOMYNEXT – Sri Lanka will import 70,000 metric tonnes of rice to address a shortfall in the market, Minister of Trade, Commerce, Food Security and Cooperative Development Wasantha Samarasinghe said.
+
+“Even though there was a surplus rice production in the country this year, when you go to the market there is no rice,” Samarasinghe told reporters.
+
+“The best decision we can take in this situation is to import rice to meet the demand.”
+
+The rice will be imported by two state agencies, Sathosa and the State Trading Corporation Samarasinghe said.
+
+Sri Lanka ran out short of parboiled rice (nadu) amid price controls which kept it at the same price as red rice, discouraging growing the variety according to demand, analysts say.
+
+RELATED Sri Lanka price controllers investigate rice mill stocks amid Rs65 food tax
+
+In Sri Lanka import duties are 65 rupees a kilo or about 200 dollars a tonne, compared to around 530 dollars a tonne for similar varieties of rice.
+
+◼️
+
+[Data](articles/f9fa58d7.json)
+
+---
+
 ### Next Action Resolution of Biton - Decision to provide mines to Ukraine
 
 *2024-11-20 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/199247) · `ta`
@@ -853,6 +919,24 @@ When Donald Trump took office as US president, US soldiers removed control of th
 [Data](articles/a726d2dc.json)
 
 [Extended Data](ext_articles/a726d2dc.ext.json)
+
+---
+
+### Sri Lanka rupee closes stronger at 290.95/291.10 to dollar, bonds down
+
+*2024-11-20 17:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-290-95-291-10-to-dollar-bonds-down-188950/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed stronger at 290.95/291.10 to the US dollar on Wednesday from 291.00/15 to the US dollar on Tuesday dealers said, while bond yields were down.
+
+A bond maturing on 15.12.2026 closed at 10.10/20 percent, down from 10.25/40 percent.
+
+A bond maturing on 15.02.2028 closed at 11.00/10 percent, down from 11.15/20 percent.
+
+A bond maturing on 15.09.2029 closed at 11.25/40 percent, down from 11.40/55 percent. (Colombo/Nov20/2024)
+
+◼️
+
+[Data](articles/4985a6e4.json)
 
 ---
 
@@ -1328,6 +1412,52 @@ X-Press Feeders pointed out in a statement sent to Splash today that the company
 
 ---
 
+### Chinese envoy welcomes Sri Lanka new leader’s first foreign visit to India
+
+*2024-11-20 15:37:00* · [`economynextcom`](https://economynext.com/chinese-envoy-welcomes-sri-lanka-new-leaders-first-foreign-visit-to-india-188904/) · `en`
+
+ECONOMYNEXT – Chinese Ambassador to Sri Lanka Qi Zhenhong has welcomed news of the island nation’s president’s first foreign visit to India and said such a move will be beneficial for Sri Lankans.
+
+Ambassador Zhenhong is in Jaffna on a visit to see the situation in the Northern Province which is close to South India’s Tamil Nadu State.
+
+Foreign Minister Vijitha Herath has said President Anura Kumara Dissanayake will go to New Delhi on an official visit next month and later he will visit China.
+
+“Yesterday, I learned from the news that a minister has said that President Dissanayake will make his first official visit to India in the middle of December. We are very glad to see this new development because India and Sri Lanka are close neighbours,” Zhenhong told reporters when he had a media briefing on Tuesday (19) at Jaffna Press Club.
+
+“And when the two countries build relations and economic cooperation, they can deliver more benefits to the people of the country.”
+
+...
+
+[Data](articles/c5a81ec7.json)
+
+---
+
+### Sri Lanka stocks close up, mixed interest in banks
+
+*2024-11-20 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-mixed-interest-in-banks-188913/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
+
+The broader ASPI closed up 0.06 percent, or 8.17 points, at 13,113; while the more liquid S&P SL20 Index closed up 0.13 percent, or 5.05 points, at 3,919.
+
+Turnover was 2.7 billion. Most of this came from capital goods sector (Rs699mn).
+
+Profit taking prevailed during mid-day trading, with the indices showing some volatility before closing up.
+
+John Keells Holdings saw investor interest; the share closed up at 20.70.
+
+Banking stocks saw mixed interest: Hatton National Bank (flat at 230.00), Sampath Bank (down at 94.70), Commercial Bank (up at 123.25), DFCC Bank (down at 81.90), and National Development Bank (up at 82.70).
+
+Aitken Spence was down at 124.00, Hayleys Plc was flat at 103.75, and Melstacorp was down at 109.00.
+
+Top positive contributors to the ASPI were JKH, Commercial, Lion Brewery (up at 1,061.25), Access Engineering (up at 26.90), and R I L Property (up at 10.20).
+
+...
+
+[Data](articles/79fdc2da.json)
+
+---
+
 ### 10 years later childbirth: Mother and See are premature death
 
 *2024-11-20 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வருடங்களுக்குப்-பின்-பிரசவம்-தாயும்-சேயும்-அகால-மரணம்/175-347502) · `ta`
@@ -1475,6 +1605,26 @@ In response to the situation, a high-level meeting between Prime Minister Dr. Ha
 [Data](articles/212cb3c7.json)
 
 [Extended Data](ext_articles/212cb3c7.ext.json)
+
+---
+
+### GCC ready to strengthen cooperation with Sri Lanka
+
+*2024-11-20 14:47:00* · [`economynextcom`](https://economynext.com/gcc-ready-to-strengthen-cooperation-with-sri-lanka-188876/) · `en`
+
+ECONOMYNEXT – The Secretary General of the Gulf Cooperation Council (GCC), Jasem Mohamed Al Budaiwi, has expressed readiness to further strengthen the cooperation between Sri Lanka and the GCC, according to a government statement.
+
+Budaiwi received Ambassador of Sri Lanka to the Saudi Arabia Ameer Ajwad at the GCC Secretariat in Riyadh recently.
+
+“While extending a warm welcome to Ambassador Ameer Ajwad, Secretary General Al-Budaiwi appreciated Sri Lanka’s long and trustworthy partnership with the nations of the GCC for the development of the Gulf Region and expressed readiness to further strengthen the cooperation between Sri Lanka and the GCC,” the statement read.
+
+Ajwad thanked the Secretary General for the sentiments and “recalled Sri Lanka’s historical and all-weather friendship with the GCC countries.”
+
+“The Ambassador also proposed a framework aimed at further consolidating cooperation between Sri Lanka and the GCC in all areas of mutual interest.” (Colombo/Nov20/2024)
+
+◼️
+
+[Data](articles/d42dac8e.json)
 
 ---
 
@@ -1765,6 +1915,26 @@ He said he was fully supported by all the senses involved in the Passover attack
 [Data](articles/89a68b02.json)
 
 [Extended Data](ext_articles/89a68b02.ext.json)
+
+---
+
+### Sri Lanka’s new government committed to work with India: FM
+
+*2024-11-20 12:47:00* · [`economynextcom`](https://economynext.com/sri-lankas-new-government-committed-to-work-with-india-fm-188869/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s foreign minister Vijitha Herath said the new National People’s Power government is committed to working with India to strengthen bilateral ties.
+
+“I also wish to reiterate our commitment to work with India to further strengthen our civilizational links & the excellent bilateral cooperation for the mutual benefit of our peoples,” Herath said on social platform X.
+
+He was responding to India’s External Affairs Minister S Jaishankar’s congratulatory message.
+
+“Look forward to working together to further strengthen our historic bonds of friendship and deepen our wide – ranging partnership for mutual benefit,” Jaishankar said on X after Herath was re-appointed as foreign minister this week.
+
+Herath’s party the Janatha Vimukthi Peramuna, part of the NPP coalition, has been extremely critical of Indian investments in the island in the past, and behind protests that led to many projects being abandoned.
+
+...
+
+[Data](articles/0d8f8fb6.json)
 
 ---
 
@@ -2084,6 +2254,26 @@ Speaking to the media following the discussion, Co-Chairman of the University Tr
 
 ---
 
+### Sri Lanka’s Teejay Lanka expands to Egypt
+
+*2024-11-20 11:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-teejay-lanka-expands-to-egypt-188860/) · `en`
+
+ECONOMYNEXT – Sri Lanka fabric manufacturer Teejay Lanka Plc said it will be expanding its business operations in Egypt under a new entity incorporated on Tuesday (19).
+
+“The Company will be expanding its business operations in the Arab Republic of Egypt under a new entity … to engage in manufacturing fabric, manufacturing services and trading activities,” the company said in a stock exchange filing.
+
+Earlier this month, Teejay said there was a “significant shift of orders to the Asian region due to the China One Plus strategy.”
+
+The company’s net profits for the September 2024 quarter fell 20 percent to 756 million rupees, despite the firm getting more orders from China Plus One strategy of companies.
+
+Orders were also shifting to India and Sri Lanka from Bangladesh. (Colombo/Nov20/2024)
+
+◼️
+
+[Data](articles/39da9b5d.json)
+
+---
+
 ### ’’வர்த்தமானி அறிவித்தலை ரத்து செய்ய முடியாது’’
 
 *2024-11-20 11:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-அறிவித்தலை-ரத்து-செய்ய-முடியாது/175-347491) · `ta`
@@ -2331,219 +2521,5 @@ It is noteworthy that he contested the parliamentary election in the Badulla dis
 [Data](articles/a8f016da.json)
 
 [Extended Data](ext_articles/a8f016da.ext.json)
-
----
-
-### Schoolgirl dies in a house
-
-*2024-11-20 10:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/199203) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Tragic incident: Schoolgirl dies in house collapse in Kandy's Teldeniya area. House fell in Southern region, causing loss of life. Local authorities investigating cause. Community mourning young victim.
-
-🟩
-
-A house in the Kandy, Teldeniya - Southern region has fallen.
-
-◼️
-
-[Data](articles/382535e3.json)
-
-[Extended Data](ext_articles/382535e3.ext.json)
-
----
-
-### Pillaiyan appears at CIT!
-
-*2024-11-20 10:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199198) · `ta`
-
-Former Minister Pillaiyan questioned by CID over child name
-
-🟩
-
-Sivanesathurai Chandrakanthan, known as former Minister of State Pillaiyan, appeared in the Criminal Investigation Department today (20).
-
-In the video released by Channel 4, the Criminal Investigation Department has called him to obtain his affidavit about the name of the child.
-
-◼️
-
-[Data](articles/8521df31.json)
-
-[Extended Data](ext_articles/8521df31.ext.json)
-
----
-
-### Former Parliamentarian Harin Fernando arrested
-
-*2024-11-20 10:23:58* · [`adalk`](https://www.ada.lk/breaking_news/හිටපු-පාර්ලිමේන්තු-මන්ත්‍රී-හරීන්-ප්‍රනාන්දු-අත්අඩංගුවට/11-413162) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Former Sri Lankan Parliamentarian Harin Fernando arrested over election law violations. To appear before Badulla Magistrate's Court.
-
-🟩
-
-He was arrested when he had been given a statement regarding the charges that violated election laws.
-
-Harin Fernando is to be produced before the Badulla Magistrate's Court.
-
-◼️
-
-[Data](articles/5e527c51.json)
-
-[Extended Data](ext_articles/5e527c51.ext.json)
-
----
-
-### Former minister Harin Fernando arrested
-
-*2024-11-20 10:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103628/former-minister-harin-fernando-arrested) · `en`
-
-Former Minister Harin Fernando has been arrested by the Badulla Police on allegations of election law violations.
-
-He was arrested after arriving at Badulla Police this morning (20) to provide a statement regarding alleged election law violations, Police Media Spokesman DIG Nihal Thalduwa confirmed.
-
-Fernando had been asked to appear before Badulla Police this morning (20) in order to provide a statement regarding an incident with the police during an election campaigning carried out in Badulla on 11 November 2024.
-
-Recently, a heated situation had arisen between the police and the former minister who was with a group of his supporters as they walking in the Badulla town wearing t-shirts with ‘number 10’, which was Fernando’s preference number in the 2024 General Election.
-
-Harin Fernando, who contested the election from Badulla District representing the New Democratic Front (NDF), managed to secure only 9,371 and failed to secure a seat in parliament.
-
-◼️
-
-[Data](articles/fe875b3b.json)
-
-[Extended Data](ext_articles/fe875b3b.ext.json)
-
----
-
-### Harin arrested
-
-*2024-11-20 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203552) · `si`
-
-Harin Fernando arrested by Badulla Police for election law violation. He was summoned and detained after appearing at the station. This incident occurred recently as he ran for parliament under the New Democratic Front from the Badulla district, receiving 9,371 preference votes.
-
-🟩
-
-Former Parliamentarian Harin Fernando has been arrested by the Badulla Police regarding a violation of election laws.
-
-Police Media Spokesperson, DIG, Nihal Talduuwa made this statement.
-
-Harin Fernando had informed him to appear before the Badulla Police this morning.
-
-Accordingly, he was arrested after he visited the police this morning.
-
-Recently, Harin Fernando and a group of his supporters had a warm quality with the police while they were filmed with the print t-shirt.
-
-He had come under the new Democratic Front from the Badulla District for this year's election, 9,371 preferential votes.
-
-◼️
-
-[Data](articles/e062823e.json)
-
-[Extended Data](ext_articles/e062823e.ext.json)
-
----
-
-### Mahinda Siriwardena assumes duties as Secretary to the Ministry of Finance
-
-*2024-11-20 10:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203551) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-Mahinda Siriwardena assumes duties as Secretary to the Ministry of Finance. He contributed significantly to IMF and Sri Lanka's debt restructuring. Holds a postgraduate degree in economics from Vandeilth University. Experienced in central banking, financial management, and public debt management.
-
-🟩
-
-K., appointed as the Secretary to the Ministry of Finance, Planning and Economic Development. M. Mahinda Siriwardena assumed duties today (20).
-
-Senior heads of the Treasury and the Head of the Ministry of Finance and the Ministry of Finance were also present at the occasion.
-
-He was a significant contribution to the International Monetary Fund and a significant contributor to Sri Lanka's debt restructuring process.
-
-He obtained a Postgraduate Degree in Economics and Economics in Economics from the University of Vandeilth University.
-
-Mr. Siriwardena is a senior officer who has participated in several international training programs, central banking, financial management, state financial management, state financial management, government financial management, public debt management and financial programming and financial programming.
-
-◼️
-
-[Data](articles/e93d4554.json)
-
-[Extended Data](ext_articles/e93d4554.ext.json)
-
----
-
-### The world's largest aircraft that suddenly arrived in Sri Lanka
-
-*2024-11-20 10:10:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/திடீரென-இலங்கைக்கு-வந்த-உலகின்-மிகப்பெரிய-விமானம்/175-347480) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-The world's largest aircraft, an Airbus A380 owned by Qatar Airlines, unexpectedly landed at Sri Lanka's Katunayake Bandaranaike International Airport last night. It was en route from Sydney, Australia, where it had stopped for refueling. This unusual visit has generated significant interest among locals and aviation enthusiasts.
-
-🟩
-
-Airbus A380, owned by Qatar Airlines, arrived at the Katunayake Bandaranaike International Airport last night.
-
-Katunayake has arrived at Australia's Sydney Airport for refueling operations. Remble
-
-◼️
-
-[Data](articles/e1244342.json)
-
-[Extended Data](ext_articles/e1244342.ext.json)
-
----
-
-### Former state minister Pilleyan arrives at CID
-
-*2024-11-20 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/103627/former-state-minister-pilleyan-arrives-at-cid) · `en`
-
-Former state minister Sivanesathurai Chandrakanthan alias Pilleyan has arrived at the Criminal Investigation Department (CID) this morning (20).
-
-He had arrived at the CID following a summon to provide a statement regarding the controversial documentary aired by British television network ‘Channel 4’ on the 2019 Easter Sunday terror attacks in Sri Lanka.
-
-◼️
-
-[Data](articles/65aba3ae.json)
-
-[Extended Data](ext_articles/65aba3ae.ext.json)
-
----
-
-### The death of Sindhuja;Time for the police
-
-*2024-11-20 10:05:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிந்துஜாவின்-மரணம்-பொலிஸாருக்கு-கால-அவகாசம்/175-347479) · `ta`
-
-Sindhuja's death probe: Police investigation ongoing, trial set at Mannar Magistrate's Court, next hearing Dec 3.
-
-🟩
-
-Investigations have revealed that the police are believed to be investigating the complaint lodged by relatives and parents of the death of a young mother from Mannar - Kettayadampan area.
-
-The trial of Sindhuja's death was summoned at the Mannar Magistrate's Court yesterday (19).
-
-A few days ago, the Mannar Criminal Investigation Police had told the Mannar Regional Criminal Investigation Police that he had handed over the case.
-
-So far, the Mannar Madhu police have not registered a case in the case and are being investigated as a normal case.
-
-The magistrate has ordered the victim's lawyer Deniswaran and Sarmillan Dias to expedite the trial of the case and submit a report within two weeks.
-
-The case is on December 3 for further hearing. Remble
-
-◼️
-
-[Data](articles/7e8aaa9b.json)
-
-[Extended Data](ext_articles/7e8aaa9b.ext.json)
 
 ---

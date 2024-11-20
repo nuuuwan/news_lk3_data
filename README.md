@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 21:42:06**
+As of **2024-11-20 22:01:34**
 
 ## Newspaper Stats
 
-*Scraped **55,992** Articles*
+*Scraped **55,994** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,269
+adalk | 5,271
 adaderanalk | 6,763
 tamilmirrorlk | 7,942
 virakesarilk | 9,094
@@ -26,11 +26,29 @@ adaderanasinhalalk | 9,677
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,990 (100.0%) of 55,992 articles have been extended.
+55,990 (100.0%) of 55,994 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### දුප්පතුන් දුප්පත් වනවිට ධනවතුන් පොහොසත් වන ලෝකයක සමෘද්ධිය සහ ස්ථාවරත්වය කළ නොහැකියි
+
+*2024-11-20 21:43:44* · [`adalk`](https://www.ada.lk/breaking_news/දුප්පතුන්-දුප්පත්-වනවිට-ධනවතුන්-පොහොසත්-වන-ලෝකයක-සමෘද්ධිය-සහ-ස්ථාවරත්වය-කළ-නොහැකියි/11-413187) · `si`
+
+දුප්පතුන් දුප්පත් වනවිට ධනවතුන් පොහොසත් වන ලෝකයක සමෘද්ධිය සහ ස්ථාවරත්වය කළ නොහැකි බවත්, ගෝලීය සංවර්ධනය යටතේ ලෝකය සැමට ප්‍රයෝජනවත් සහ වඩා ඔරොත්තු දෙන තත්ත්වයට පත් කළ යුතු බවත් චීන ජනාධිපති ෂි ජින්පිං මහතා පැවසීය.
+
+ඔහු මේ බව කියා සිටියේ පෙරේදා (18දා) බ්‍රසීලයේ රියෝ ද ජැනයිරෝ නුවරදී පැවැති ජී20 නායක සමුළුවට සහභාගි වෙමිනි.
+
+මෙවර රියෝ සමුළුව "සාධාරණ ලෝකයක් සහ තිරසාර ග්‍රහලෝකයක් ගොඩනැගීම" යන තේමාව යටතේ ක්‍රියාත්මක අතර, පොදුවේ සංවර්ධනය වන සාධාරණ ලෝකයක් ගොඩනැගීම පිළිබඳ මෙහිදී අවධානය යොමු කරන බවද ඔහු කියා සිටියේය.
+
+එවැනි ලෝකයක් ගොඩනැගීම සඳහා, වෙළඳ, ආයෝජන සහ සංවර්ධන සහයෝගීතාව යනාදී ක්ෂේත්‍රවල සම්පත් ආයෝජනය වැඩි කළ යුතු බවත් දේශගුණික විපර්යාස සහ පරිසර දූෂණය වැනි අභියෝගවලට නිසි ලෙස ප්‍රතිචාර දැක්විය යුතු බවත් හෙතෙම කියා සිටියේය.
+
+...
+
+[Data](articles/1a0ce0e2.json)
+
+---
 
 ### කාන්තාවකගේ ගර්භාෂයේ කිලෝ 10ක් බරැති ගෙඩියක්
 
@@ -579,6 +597,22 @@ After a long trial, the Tangalle High Court judge was sentenced to death for the
 [Data](articles/18d1b9c4.json)
 
 [Extended Data](ext_articles/18d1b9c4.ext.json)
+
+---
+
+### රනිල් හෙට ඉන්දියාවට
+
+*2024-11-20 18:03:20* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-හෙට-ඉන්දියාවට/11-413179) · `si`
+
+හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංචාරයක් සඳහා හෙට (21දා) පෙරවරුවේ ඉන්දියාව බලා පිටත්ව යෑමට නියමිතය.
+
+රනිල් වික්‍රමසිංහ මහතා මෙම සංචාරයේදී ඉන්දියාවේ මධ්‍ය ප්‍රදේශ් හි ඉන්දෝර් (Indore) හි ශ්‍රී සත්‍යා ශ්‍රී විද්‍යා විහාර් උසස් අධ්‍යාපන ආයතනයේ දේශනයක් පැවැත්වීමට ද නියමිතව ඇත.
+
+උසස් අධ්‍යාපන ආයතනයේ සිසුන් මෙන්ම මවුපියන්ගේ සහභාගීත්වයෙන් අනිද්දා ( 22දා)සවස 6ට එම දේශනය පැවැත්වේ.
+
+◼️
+
+[Data](articles/6692b663.json)
 
 ---
 
@@ -2475,73 +2509,5 @@ This is a very happy thing. The Sri Lankan President may visit China after that.
 [Data](articles/ddbc93bc.json)
 
 [Extended Data](ext_articles/ddbc93bc.ext.json)
-
----
-
-### The wife who went to the third floor falls
-
-*2024-11-20 09:27:07* · [`adalk`](https://www.ada.lk/breaking_news/තුන්වැනි-මහලින්-බිමට-බහින්න-ගිය-බිරිඳ-ඇද-වැටෙයි/11-413161) · `si`
-
-Here's a 200-character summary:
-
-
-
-Wife falls from 3rd floor in Waskaduwa. 29yo Weligama woman hospitalized. Husband abandoned her for mistress. Police investigating incident & arrests made.
-
-🟩
-
-Kalutara North police say that a woman has been admitted to a three storied building in Waskaduwa road.
-
-The hospital was a 29 year old resident of Weligama, Matara.
-
-The husband of the hospital has left her, left her, and residents from the highest floor of the three-storey building with the mistress. The police said that she had been doing so in Homagama, and two days ago, the police said.
-
-Investigations have revealed that the hospital had been identified as a woman who had taken a window yesterday (19), police said.
-
-A woman was receiving treatment at the Kalutara Teaching Hospital is receiving treatment at the Kalutara Teaching Hospital.
-
-Investigations were carried out by Kalutara Division Criminal Laboratory Laboratory.
-
-සැකකාර සැමියා සහ ඔහුගේ අනියම් බිරිදද, තුවාල ලබූ කාන්තාව මෙන්ම මෝටර් රථයක නංවාගෙන පැමිණි අනෙක් පුද්ගලයා ද අත්අඩංගුවට ගෙන තිබේ.
-
-Criminal sector officials are conducting further investigations on the instructions of Kalutara OIC Chief Inspector Damith Jayatilake.
-
-◼️
-
-[Data](articles/db589300.json)
-
-[Extended Data](ext_articles/db589300.ext.json)
-
----
-
-### 7 crore robbery - suspect arrested
-
-*2024-11-20 09:23:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-கோடி-கொள்ளை-சந்தேகநபர்-கைது/175-347477) · `ta`
-
-Arrest made in 7 crore robbery case: Suspect caught, 31 million rupees recovered, 5 grams of ice seized. Driver flees with money in van, abandoning it later.
-
-🟩
-
-A suspect has been arrested in connection with the robbery of a driver of a private company that is safely carrying money.
-
-The Gampaha Divisional Criminal Investigation Division and the Minuwangoda Police have arrested the suspect in the Kaduwangaha area in Gampaha yesterday afternoon.
-
-During his arrest, 5 grams of 420 milligrams of ice was seized from him, and 31,515,291 rupees was recovered from the looted money.
-
-A 35 -year -old man has been arrested.
-
-A group of four officials of a private company that takes money safely went to a private bank in Minuwangoda with a wallet yesterday morning.
-
-After approaching the bank, the driver was only in the van, police said.
-
-At the time, the driver had fled the vehicle with the money in the van with a cash of Rs 7 crore 13 lakhs 27 thousand 296 rupees.
-
-He then abandoned the van in the Gampaha Ukkalgoda area and fled with another man on a motorcycle.. Remble
-
-◼️
-
-[Data](articles/357bca46.json)
-
-[Extended Data](ext_articles/357bca46.ext.json)
 
 ---

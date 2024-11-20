@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 09:28:29**
+As of **2024-11-20 08:29:38**
 
 ## Newspaper Stats
 
-*Scraped **55,857** Articles*
+*Scraped **55,854** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 3,347
 economynextcom | 3,385
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,249
+adalk | 5,248
 adaderanalk | 6,720
-tamilmirrorlk | 7,917
+tamilmirrorlk | 7,915
 virakesarilk | 9,079
 adaderanasinhalalk | 9,654
 
@@ -26,69 +26,11 @@ adaderanasinhalalk | 9,654
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,840 (100.0%) of 55,857 articles have been extended.
+55,830 (100.0%) of 55,854 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
-
-### Ukraine launched US missiles
-
-*2024-11-20 08:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஏவுகணைகளை-ஏவியது-உக்ரைன்/50-347476) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US missiles fired from Ukraine hit Russia's north border. Russia claims 5 shot down, 1 damaged. US says only 2 out of 8 Ukrainian-launched missiles were blocked by Russia. Discrepancies in reported missile counts and effectiveness.
-
-🟩
-
-The Russian Defense Ministry said the missile attack was launched on the northern Ukraine border.
-
-It has been reported that 5 missiles have been shot down and a missile damaged.
-
-However, the US said only two of the 8 missile attacks launched by Ukraine were blocked by Russian side.
-
-◼️
-
-[Data](articles/cd69f635.json)
-
-[Extended Data](ext_articles/cd69f635.ext.json)
-
----
-
-### Mannar incident;What is the next step?
-
-*2024-11-20 08:40:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னார்-சம்பவம்-அடுத்தகட்ட-நடவடிக்கை-என்ன/72-347475) · `ta`
-
-Here's a summary of the incident in 200 characters:
-
-
-
-Mannar: Woman & unborn fetus die at hospital. Relatives claim neglect. Autopsy planned. Investigation ongoing. Cause of death pending.
-
-🟩
-
-The mother and the fetus, who was admitted to the Mannar District General Hospital, died yesterday after the death of the infantry.
-
-A 28 -year -old woman from Mannar - Pattittottam area is reported to have died.
-
-Relatives allege that the woman was suffering from shortness of breath.
-
-Her relatives have accused the woman and the fetus of the hospital due to lack of attention.
-
-The Mannar District Health Services Director said,
-
-He said that arrangements have been made for autopsy and a proper investigation into the incident will be held.The Mannar District Health Services Director General said that after the autopsy, he could find the cause of his death.. Remble
-
-◼️
-
-[Data](articles/f78108f6.json)
-
-[Extended Data](ext_articles/f78108f6.ext.json)
-
----
 
 ### 75 millimeters of rain today
 
@@ -133,26 +75,6 @@ SSP Spokesperson SSP Spokesperson Senior Lecturer Charged Charta Ilangasinghe,
 [Data](articles/cedba6df.json)
 
 [Extended Data](ext_articles/cedba6df.ext.json)
-
----
-
-### කම්කරුවාගේ මරණයට කොන්ත්‍රාත්කරු අල්ලයි
-
-*2024-11-20 07:29:30* · [`adalk`](https://www.ada.lk/breaking_news/කම්කරුවාගේ-මරණයට-කොන්ත්‍රාත්කරු-අල්ලයි/11-413158) · `si`
-
-කොල්ලුපිටිය 25 වන පටුමගේ පැරණි ගොඩනැගිල්ලක බිත්තියක් කඩා වැටීමෙන් පුද්ගලයෙකු මියගොස් ඇතැයි කොල්ලූපිටිය පොලිසිය කියයි.
-
-අනතුරින් මියගොස් ඇත්තේ නමුනුකුල ආරාවත්ත පදිංචිව සිටි 38 හැවිරිදි  පුද්ගලයෙකි. සිද්ධිය සම්බන්ධයෙන් 24 හැවිරිදි  කොන්ත්‍රාත්කරු පොලිසිය මගින් අත්අඩංගුවට ගෙන ඇත.
-
-මරණකරු විසින් ඉහත ලිපිනයේ පිහිටි පැරණි ගොඩනැගිල්ලක් කඩා ඉවත් කිරීමේ කටයුතු සිදු කරමින් සිටියදී. මෙම අනතුරට ලක්ව ඇති බව සඳහන් කරන පොලිසිය කොන්ත්‍රාත්කරු විසින් සේවය කරන ලද සේවකයින්ගේ ආරක්ෂාව සම්බන්ධයෙන් කිසිදු ක්‍රියාමාර්ගයක් අනුගමනය කර නොමැති බවට නිරීක්ෂණය වී ඇතැයි පොලිසිය වැඩිදුරටත් සඳහන් කරයි.
-
-කොන්ත්‍රාත්කරුගේ නොසැලකිල්ල මත මෙම මරණය සිදුවී ඇති බවට දැනට සිදුකරන ලද විමර්ශනයේදී අනාවරණය වී ඇති අතර ඒ අනුව කොන්ත්‍රාත්කරු අත්අඩංගුවට ගත් බව පොලිසිය කියයි. අත්අඩංගුවට ගත් කොන්ත්‍රාත්කරු නුගේගොඩ ප්‍රදේශයේ පදිංචිකරුවෙකි.
-
-සැකකරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය. කොල්ලුපිටිය පොලිසියේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක එච් එල් දුෂ්මන්ත මහතාගේ උපදෙස් මත විමර්ශන සිදු කෙරේ.
-
-◼️
-
-[Data](articles/47d9ab8e.json)
 
 ---
 
@@ -308,8 +230,6 @@ Key areas of focus outlined by the chamber include eradicating corruption, promo
 
 [Data](articles/f1fbaa54.json)
 
-[Extended Data](ext_articles/f1fbaa54.ext.json)
-
 ---
 
 ### Lanka Confectionery Manufacturers Associations extends well wishes to President and new Cabinet
@@ -328,8 +248,6 @@ He also said that LCMA is keen on working closely with the new Government to exp
 
 [Data](articles/429b9fae.json)
 
-[Extended Data](ext_articles/429b9fae.ext.json)
-
 ---
 
 ### Indo Lanka Chamber of Commerce and Industry extends congratulations to new Govt.
@@ -343,8 +261,6 @@ ILCCI is confident that, under the dynamic and astute leadership of the new Gove
 ...
 
 [Data](articles/207dcb3d.json)
-
-[Extended Data](ext_articles/207dcb3d.ext.json)
 
 ---
 
@@ -361,8 +277,6 @@ The Association also extended its congratulations and best wishes to the newly e
 ...
 
 [Data](articles/d5549629.json)
-
-[Extended Data](ext_articles/d5549629.ext.json)
 
 ---
 
@@ -432,8 +346,6 @@ N. Udayakumar and Dr. Arosha Fernando have been nominated as the new Joint Manag
 
 [Data](articles/7730df88.json)
 
-[Extended Data](ext_articles/7730df88.ext.json)
-
 ---
 
 ### Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics
@@ -447,8 +359,6 @@ There is magic in the air! The country is in a festive mood. The toast of the to
 ...
 
 [Data](articles/478e5a46.json)
-
-[Extended Data](ext_articles/478e5a46.ext.json)
 
 ---
 
@@ -464,8 +374,6 @@ The resounding victory of the National People’s Power (NPP) marks the beginnin
 
 [Data](articles/9fc82c32.json)
 
-[Extended Data](ext_articles/9fc82c32.ext.json)
-
 ---
 
 ### The people have spoken: Can the NPP transform promises into progress?
@@ -479,8 +387,6 @@ The 2024 Sri Lankan general election marks a potential turning point in the nati
 ...
 
 [Data](articles/6e6fa8a7.json)
-
-[Extended Data](ext_articles/6e6fa8a7.ext.json)
 
 ---
 
@@ -2317,5 +2223,71 @@ It is reported that Minister Dr. Nalinda Jayatissa has been appointed chief orga
 [Data](articles/ad27a163.json)
 
 [Extended Data](ext_articles/ad27a163.ext.json)
+
+---
+
+### Train derailment in Thiyathalawa
+
+*2024-11-19 14:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199154) · `ta`
+
+Train derailment reported at Diyathalawa station. Train from Kandy to Badulla derailed. Railway department investigating cause.
+
+🟩
+
+A train derailed at the Diyathalawa railway station this afternoon.
+
+The railway department said that the train traveling from Kandy to Badulla has been derailed.
+
+◼️
+
+[Data](articles/1ff26247.json)
+
+[Extended Data](ext_articles/1ff26247.ext.json)
+
+---
+
+### New responsibility assigned to Mass Media
+
+*2024-11-19 14:52:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනමාධ්‍ය-ඇමතිට-පැවරුණු-අලුත්-වගකීම/11-413143) · `si`
+
+Here's a 200-character summary:
+
+
+
+Mass Media Minister Nalinda Jayatissa appointed as new cabinet spokesman.
+
+🟩
+
+Mass Media Minister Nalinda Jayatissa has been appointed as the new cabinet spokesman.
+
+◼️
+
+[Data](articles/b09c659f.json)
+
+[Extended Data](ext_articles/b09c659f.ext.json)
+
+---
+
+### Cabinet spokesman Nalinda Jayatissa
+
+*2024-11-19 14:47:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சரவை-பேச்சாளர்-நளிந்த-ஜயதிஸ்ஸ/175-347439) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New Cabinet meets; Health Minister Nalinda Jayatissa named as media spokesperson.
+
+🟩
+
+The first Cabinet meeting of the new government was held on Tuesday (19) at the Presidential Office headed by President Anura Kumara Dissanayake.
+
+Health and Mass Media Minister Dr. Nalinda Jayatissa has been appointed as a media spokesman for the new Cabinet, the Presidential Media Unit said.
+
+◼️
+
+[Data](articles/4e289b24.json)
+
+[Extended Data](ext_articles/4e289b24.ext.json)
 
 ---

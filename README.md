@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 03:41:18**
+As of **2024-11-21 04:00:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,025 (100.0%) of 56,026 articles have been extended.
+56,026 (100.0%) of 56,026 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -191,6 +191,8 @@ The controversy arose after the NDF, which secured three Parliamentary seats and
 ...
 
 [Data](articles/68e1892e.json)
+
+[Extended Data](ext_articles/68e1892e.ext.json)
 
 ---
 

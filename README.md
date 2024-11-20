@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 05:49:58**
+As of **2024-11-20 06:12:55**
 
 ## Newspaper Stats
 
-*Scraped **55,828** Articles*
+*Scraped **55,839** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 571
 bbccomsinhala | 575
-islandlk | 3,344
+islandlk | 3,347
 economynextcom | 3,385
-dailyftlk | 3,816
+dailyftlk | 3,824
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
@@ -26,11 +26,129 @@ adaderanasinhalalk | 9,651
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,819 (100.0%) of 55,828 articles have been extended.
+55,819 (100.0%) of 55,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
+
+### Sri Lanka kicks off Global Entrepreneurship Week 2024
+
+*2024-11-20 06:04:19* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-kicks-off-Global-Entrepreneurship-Week-2024/34-769438) · `en`
+
+The Information and Communication Technology Agency (ICTA) on Monday launched the Global Entrepreneurship Week (GEW) in Sri Lanka for the third consecutive year championing the importance of entrepreneurship  from 18 to 24 November.
+
+Themed “Entrepreneurship is for Everyone,” GEW 2024 in Sri Lanka aims to embody the inclusivity and creativity that entrepreneurship offers to the world by celebrating and empowering entrepreneurs from various industries, ages, and enterprises through collaboration with investors, researchers, and experts.
+
+...
+
+[Data](articles/d4c5636a.json)
+
+---
+
+### EDB partners IFC; launches Export Excellence Initiative to boost SME competitiveness
+
+*2024-11-20 06:02:10* · [`dailyftlk`](https://www.ft.lk/business/EDB-partners-IFC-launches-Export-Excellence-Initiative-to-boost-SME-competitiveness/34-769437) · `en`
+
+In a concerted effort to boost the country’s export potential and fortify the global competitiveness of small and medium-sized enterprises (SMEs), the Sri Lanka Export Development Board (EDB) has partnered with the International Finance Corporation (IFC) to launch the Sri Lanka Export Excellence Initiative (SLEEI).
+
+The corporation agreement was signed following discussions between EDB Chairman and Chief Executive Mangala Wijesinghe and IFC representatives. These discussions focused on the initiative’s implementation and its role in supporting the country’s economic recovery through export growth.
+
+The SLEEI is a comprehensive program designed to empower local businesses. It provides targeted training, market access, and support to help SMEs navigate the complexities of international trade.
+
+“This initiative is not just about boosting exports; it’s about equipping Sri Lankan businesses with the tools they need to compete and thrive in a demanding global marketplace,” said Wijesinghe.
+
+...
+
+[Data](articles/44760c31.json)
+
+---
+
+### Kumar, Lasanthi join Hunters and Company Board
+
+*2024-11-20 06:01:19* · [`dailyftlk`](https://www.ft.lk/business/Kumar-Lasanthi-join-Hunters-and-Company-Board/34-769436) · `en`
+
+Top professionals Kumar Samarasinghe and Lasanthi Fernando have joined the Hunters and Company PLC Board as Independent Non-Executive Directors.
+
+Samarasinghe is a seasoned Marketing and Management Consultant with over 35 years of extensive experience in marketing, sales, and human resource development management. He has held various leadership positions, including serving as the Marketing and Sales Director at Singer Sri Lanka PLC, where he played a pivotal role in the company’s growth and success.
+
+As a Board Member of Singer Sri Lanka PLC, Samarasinghe has been instrumental in the development and management of numerous local and international brands in Sri Lanka. He spearheaded sales channel development, consistently driving strong performance over several decades. His expertise also extends to sports marketing, promotions, and sponsorship activities, where he has led impactful initiatives for the company.
+
+...
+
+[Data](articles/50c1097c.json)
+
+---
+
+### Changes at MPI Film Circuit
+
+*2024-11-20 05:58:40* · [`dailyftlk`](https://www.ft.lk/business/Changes-at-MPI-Film-Circuit/34-769435) · `en`
+
+The Commercial High Court of Colombo recently issued an order restraining Nimal Kularatne, Kelum Kularatne and a few others from exercising any rights as Directors of Movie Producers and Importers Company Ltd., also known as ‘MPI Film Circuit’ by order dated 13 November 2024 issued in Case No. HC Civil 78/2024 (CO).
+
+N. Udayakumar and Dr. Arosha Fernando have been nominated as the new Joint Managing Directors of the Film Circuit by the Board of Directors moving forward. There are only five film circuits who have the authority to release local and foreign films in Sri Lanka – MPI Film Circuit, EAP Film Circuit, CEL Film Circuit, LFD Film Circuit which are owned by the private sector, and Rithma Film Circuit owned by the Government under the National Film Corporation.
+
+...
+
+[Data](articles/7730df88.json)
+
+---
+
+### Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics
+
+*2024-11-20 05:57:52* · [`dailyftlk`](https://www.ft.lk/columns/Remarkable-rise-of-Anura-Kumara-Dissanayake-in-Sri-Lankan-politics/4-769434) · `en`
+
+With a two-thirds majority backing him in Parliament, President Anura Kumara Dissanayake has the strength and power to deliver on his election promises and pledges
+
+There is magic in the air! The country is in a festive mood. The toast of the town is a man called Anura Kumara Dissanayake who is the leader of two political parties namely the Janatha Vimukthi Peramuna (JVP) and National People’s Power (NPP). AKD as he is popularly known was the victor in a Presidential election held two months ago. He followed it up last week by spearheading his party to victory in a Parliamentary election.
+
+...
+
+[Data](articles/478e5a46.json)
+
+---
+
+### New era of hope  and responsibility
+
+*2024-11-20 05:51:25* · [`dailyftlk`](https://www.ft.lk/columns/New-era-of-hope-and-responsibility/4-769433) · `en`
+
+With 159 seats in Parliament and a two-thirds majority, the NPP has been given an unparalleled mandate to deliver a Government that is clean, transparent, and accountable
+
+The resounding victory of the National People’s Power (NPP) marks the beginning of a new chapter in Sri Lanka’s history. For decades, citizens have watched as promises made by the political elite faded into disappointment. This election is a clear message: the people demand change. With 159 seats in Parliament and a two-thirds majority, the NPP has been given an unparalleled mandate to deliver a Government that is clean, transparent, and accountable.
+
+...
+
+[Data](articles/9fc82c32.json)
+
+---
+
+### The people have spoken: Can the NPP transform promises into progress?
+
+*2024-11-20 05:47:51* · [`dailyftlk`](https://www.ft.lk/columns/The-people-have-spoken-Can-the-NPP-transform-promises-into-progress/4-769432) · `en`
+
+It is clear that the electorate is seeking a break from dynastic politics and unaccountable governance in favour of pragmatic solutions and reformist policies – Pic by Shehan Gunasekara
+
+The 2024 Sri Lankan general election marks a potential turning point in the nation’s political trajectory, especially with the National People’s Power (NPP) movement challenging the dominance of established political forces. Led by Anura Kumara Dissanayake, the NPP surged forward as the preferred choice among a populace disillusioned by years of political scandals, economic hardship, and governance failures. This election, unlike previous ones, underscored the prominence of socio-economic concerns over the historical ethnic and religious issues that once polarised Sri Lankan voters.
+
+...
+
+[Data](articles/6e6fa8a7.json)
+
+---
+
+### Ministers the country is blessed with
+
+*2024-11-20 05:43:00* · [`dailyftlk`](https://www.ft.lk/columns/Ministers-the-country-is-blessed-with/4-769430) · `en`
+
+The question ‘who is eligible to be appointed as a Minister?’ is unanswerable
+
+“There are twenty five positions of Cabinet Ministers fallen vacant in the Democratic Socialist Republic of Sri Lanka. Those who are below the age of 60 years with an unblemished character and possessing the qualifications and experience appearing in the Government Gazette are requested to forward their applications for these positions.
+
+...
+
+[Data](articles/6e9ba583.json)
+
+---
 
 ### Purge of human jobs: How to profit from AI disruption
 
@@ -2261,221 +2379,5 @@ The crisis was intensifying yesterday with writing the name of the party General
 [Data](articles/85a79a89.json)
 
 [Extended Data](ext_articles/85a79a89.ext.json)
-
----
-
-### Ambika Samuel doubles Malayaha representation in Sri Lanka’s parliament
-
-*2024-11-19 13:00:00* · [`economynextcom`](https://economynext.com/ambika-samuel-doubles-malayaha-representation-in-sri-lankas-parliament-188487/) · `en`
-
-ECONOMYNEXT – Ambika Samuel, the first Malayaha woman to secure a seat in Sri Lanka’s parliamentary election, says others from her community will follow.
-
-“I am the first to enter politics from here, and my brothers and sisters will undoubtedly follow,” Samuel told reporters.
-
-Samuel was elected to the parliament at the general election held on November 14 from the Badulla district representing the National People’s Power party.
-
-She is the daughter of plantation worker parents, and has been a grassroot level social activist.
-
-“I studied political science for A/Level and was fascinated by Marxism, and I realised what we studied in school and what was practiced in other countries were two different things,” she told an interviewer ahead of the election.
-
-“I was drawn to politics because I wanted to do something for my community. But people like me found it hard to enter politics because there are already established persons from our community.”
-
-...
-
-[Data](articles/e4c8f310.json)
-
-[Extended Data](ext_articles/e4c8f310.ext.json)
-
----
-
-### Educational and non -academic associations at Ruhunu University
-
-*2024-11-19 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199139) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Ruhunu University academic/non-academic staff protest against Vice Chancellor Sujeewa Amarasena. Demonstrators march near main entrance demanding removal.
-
-🟩
-
-The academic and non -academic associations at the University of Ruhunu have been working on Tuesday (19) from 9.00 am.
-
-The work has been carried out demanding the removal of Professor Sujeewa Amarasena, Vice Chancellor of Ruhunu University.
-
-It is reported that the academic and non -academic associations are currently marching near the main entrance of the Ruhunu University.
-
-◼️
-
-[Data](articles/793af007.json)
-
-[Extended Data](ext_articles/793af007.ext.json)
-
----
-
-### 8 foreigners arrested without visa
-
-*2024-11-19 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203528) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-8 foreigners arrested in Katunayake without visas. Police raided a tourist hotel in Aadiwambalama area. Suspects are Bangladeshi nationals aged 20-30.
-
-🟩
-
-Eight foreign nationals have been arrested in the Auddimbalama area in Katunayake, without visa.
-
-Police said that the suspects were arrested following a raid carried out by a group of foreigners in a tourist hotel in Aadiwambalama area.
-
-It is also said that the suspects are Bangladeshi nationals between 20 and 30 years old.
-
-◼️
-
-[Data](articles/abf8a634.json)
-
-[Extended Data](ext_articles/abf8a634.ext.json)
-
----
-
-### Special Events around the World
-
-*2024-11-19 12:41:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dr28r0e4o) · `si`
-
-Here's a summary of approximately 200 characters:
-
-
-
-Special events around the world revolve around full moons, influencing cultures & traditions. Supermoons occur 3-4 times annually. Full moons shape calendars, harvest festivals, and religious observances globally. Lunar cycles affect human behavior, agriculture, and ocean tides.
-
-🟩
-
-Approximately every 29 days every 29 days is directly positioned and the light rays released on the back of the moon and illuminate the moon.
-
-The full moon we saw last Friday last Friday will be 14% more than the average and 30% more than the average and 30% more than 30% more than a "super moon".
-
-The moon is known as a super moon three times a year or four times a year and it will continue to appear.
-
-The full moon has played an important role in shaping the worldwide cultures and traditions. This is an inquiry on several myths, activities, and meaningfulness that will take place in this phenomenon.
-
-The moon's journey is used from the primary age to determine its condoms, the core.
-
-Let us take the 'Ishajawo bone found in 1957 from the Democratic Republic of Modern Congo.
-
-This bone is often believed to have been obtained from a baboon animal that the bone is over 20,000 years old. It is believed to be the original form of the calendar.
-
-...
-
-[Data](articles/3a4f4cb7.json)
-
-[Extended Data](ext_articles/3a4f4cb7.ext.json)
-
----
-
-### Is the gun used by the LTTE's main commanders?
-
-*2024-11-19 12:37:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-முக்கிய-தளபதிகள்-பாவித்த-துப்பாக்கியா/175-347431) · `ta`
-
-N
-
-🟩
-
-Further investigations have been carried out at a number of angles to a former soldier arrested with handguns and 143 bullets.
-
-The man who was arrested on the evening of 17.11.2024 was handed over to the Iginiyagala police in the area of ​​Vavinna Paragahale in Ampara.
-
-According to the confidential information received by the Special Task Force Intelligence Unit of the Ampara, the suspect was arrested in a home in the Wanina Paragahale area of ​​the Ikiniyagala police division.
-
-The suspect is a 51 -year -old retired Army Special Former Army Specialist and 9 MM gun and 143 bullets have been found in his home land.
-
-Did the Sandaneka person take the gun from the northern part of the war?Or is it a gun used by the LTTE's main commanders?Or is it obtained from the military barn road?Or was it brought and concealed for various crime?Further investigations are underway at various angles.
-
-...
-
-[Data](articles/98ac3586.json)
-
-[Extended Data](ext_articles/98ac3586.ext.json)
-
----
-
-### Sri Lankan students in the United States increase by 10 percent:
-
-*2024-11-19 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199140) · `ta`
-
-Here's a 200-character summary:
-
-
-
-Sri Lankan students in US universities increase 10%: Strong educational ties between nations. US remains top destination for higher education globally.
-
-🟩
-
-The Open Doers report has revealed that Sri Lankan students in the United States have increased by 10 percent and strengthening educational relations.
-
-The US Embassy has released the publication of the Open Doors Report on 2024.
-
-In the academic year 2023-2024, the number of Sri Lankan students studying in universities in the United States increased by 10 percent. The US embassy noted that it is a developing good news of Sri Lankan students seeking world -class education and highlighting the strong educational ties between the two countries.
-
-Celebrating the 75th anniversary of diplomatic relations between Sri Lanka and the United States. This year's report reveals that the US welcomed 1.12 million international students from over 210 countries and territories of the world. This confirms America as the leading place for higher education. In addition, this year is celebrated in the 25th year of the Global Education Advisory Network in the name of Educationusa.
-
-...
-
-[Data](articles/714e9ed3.json)
-
-[Extended Data](ext_articles/714e9ed3.ext.json)
-
----
-
-### Live footage of a terrible landslide is a range of -cctv
-
-*2024-11-19 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203527) · `si`
-
-Landslide blocks Passara-Bibile main road; police advise alternative routes. CCTV captures damage to three-wheelers and road obstruction. Soil and rock removal underway.
-
-🟩
-
-The landslide and soil removal of the landslides in the Passara - Bibile main road is being carried out due to landslides in the 13th Post area.
-
-As a result, the police are informed to use alternative routes to drivers traveling along the road.
-
-Meanwhile, the landslide was noted at a safe camera mounted in a shop.
-
-There was a landslide in the 13th post of the PACEERA - Bibile main road.
-
-Three-wheelers were also damaged by the landslide and was also damaged.
-
-The march tradition of the 13th Post area of ​​the main road was blocked by large stones on the road to landslide.
-
-According to our correspondent, the removal of soil and rock falls on the road is already underway.
-
-◼️
-
-[Data](articles/54b7a67e.json)
-
-[Extended Data](ext_articles/54b7a67e.ext.json)
-
----
-
-### Ravi Karunanayake's home security
-
-*2024-11-19 12:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/ரவி-கருணாநாயக்கவின்-வீட்டுக்கு-பாதுகாப்பு/52-347430) · `ta`
-
-Here's a summary of Ravi Karunanayake's home security in 200 characters:
-
-
-
-Ravi Karunanayake's residence enhanced security measures implemented due to intense political controversy surrounding his national seat.
-
-🟩
-
-Ravi Karunanayake's house has been strengthened after the issue of national seat has been heated.
-
-◼️
-
-[Data](articles/5e3eb5e1.json)
-
-[Extended Data](ext_articles/5e3eb5e1.ext.json)
 
 ---

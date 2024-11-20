@@ -1,122 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 15:25:25**
+As of **2024-11-20 14:41:54**
 
 ## Newspaper Stats
 
-*Scraped **55,941** Articles*
+*Scraped **55,934** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
 colombotelegraphcom | 572
-bbccomsinhala | 578
+bbccomsinhala | 577
 islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
 adalk | 5,258
 adaderanalk | 6,753
-tamilmirrorlk | 7,932
+tamilmirrorlk | 7,931
 virakesarilk | 9,086
-adaderanasinhalalk | 9,666
+adaderanasinhalalk | 9,661
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,938 (100.0%) of 55,941 articles have been extended.
+55,932 (100.0%) of 55,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
-
-### Pilleyan will leave CID
-
-*2024-11-20 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203563) · `si`
-
-Sivanesathurai Chandrakanthan leaves CID after giving statement on terrorist attack investigation.
-
-🟩
-
-Former Minister of State Minister Sivanesathurai Chandrakanthan, who had come to the Criminal Investigation Department (CID) has left the Criminal Investigation Department (CID).
-
-It is reported that the Passover has taken a statement regarding the investigation into the terrorist attack.
-
-The British Channel 4 last year was broadcast on June 8, last year.
-
-An Assad Moulana, who was in Switzerland, who was awarded as a media spokesman in Switzerland, was being held in Switzerland, which was broadcast for nearly 50 minutes.
-
-The Ministry of Defense has received a complaint to the Ministry of Defense, which has been revealed in the contents of the video.
-
-Former State Minister Sivawantawathika Chandrakanthan, or Pilleyan, had been summoned to the CID.
-
-However, the former Minister of former Minister of Parliament was not appearing before the CID.
-
-Accordingly, he had been asked to appear again the Criminal Investigation Department today and he had come to the CID around 9.30 am today.
-
-◼️
-
-[Data](articles/74e481a0.json)
-
-[Extended Data](ext_articles/74e481a0.ext.json)
-
----
-
-### Woman attacked: massive robbery
-
-*2024-11-20 14:52:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-தாக்கி-விட்டு-பாரிய-கொள்ளை/175-347501) · `ta`
-
-Swiss citizen woman robbed 2 crore coins, 10g gold in Kattankudy. Attacked, severe injuries. Police investigating.
-
-🟩
-
-The Kattankudy police said that two crores of coins and 10 grams of gold have been robbed by a Swiss citizen woman who was alone in the Kalladi area of ​​the Kattankudy police division of Batticaloa.
-
-The robbers have been robbed from a house located on the Kalladi Babisingham road in Batticaloa.
-
-At around 12 am on Wednesday (20), the thieves broke into the bathroom window and broke into the cupboard and broke the cupboard and robbed 72 thousand Swiss Frank in the cupboard (how 2 crore 40 lakhs of Sri Lanka) and one of the pounds of gold and 29 rupees of Sri Lanka.
-
-The 62 -year -old woman who was alone in the house was severely beaten and the robbers were involved in the robbery.
-
-While the husband and daughter are staying in the Swiss country, the woman is a Swiss citizen, but she has visited Sri Lanka to visit her home and stayed at her home.
-
-...
-
-[Data](articles/5d0be0fd.json)
-
-[Extended Data](ext_articles/5d0be0fd.ext.json)
-
----
-
-### South African squad named
-
-*2024-11-20 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203562) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-South Africa squad named for Sri Lanka Test series. Thambba Baptism leads team. First match in Durban on 27th. Squad includes David Bedingham, Gerald Coatsy, Tony Sareson, Kagiso Rabada, Kyle.
-
-🟩
-
-The South African squad of the South African squad has been named for the two-match 2-match Test series, which will commence in the future between Sri Lanka and South Africa.
-
-Accordingly, the permanent leader Thambba Baptism has been selected for this purpose.
-
-Sri Lanka - South Africa Test series. The first match will be held at Derban on the 27th of this month.
-
-Tembbage (leader), David Bedingham, Gerald Coatsy, Tony Sareson, Kagcho Rababa, Kyley, Kyle, Kyle
-
-◼️
-
-[Data](articles/b7227cca.json)
-
-[Extended Data](ext_articles/b7227cca.ext.json)
-
----
 
 ### Bail to Harin
 
@@ -138,34 +52,6 @@ He was ordered to be released on two physical bail worth Rs 500,000 each.
 
 ---
 
-### Vice Chancellor of Ruhuna is stable
-
-*2024-11-20 14:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203561) · `si`
-
-Ruhuna University Vice Chancellor denies charges, rejects resignation calls. Non-academic staff and students on strike. Government talks ongoing, but Sathyagraha continues.
-
-🟩
-
-Vice Chancellor of the University of Ruhunu says that he will reject all charges against him, says Senior Professor of Ruhunu.
-
-He pointed out that even though he requested to resign and resigned, he has not prepared to resign.
-
-The University, non-academic staff and students have launched a strike since yesterday (19).
-
-A special discussion was held at the Prime Minister Amarasuriya and the University Tra University Union Joint Committee on the issue.
-
-However, the Joint Communication Committee states that it will continue to implement a Sathyagraha as it is not solved.
-
-"Today, Ada Derana Vice Chancellor of the University of Ruhuna.
-
-...
-
-[Data](articles/fbb4277a.json)
-
-[Extended Data](ext_articles/fbb4277a.ext.json)
-
----
-
 ### Former Minister Harin Fernando granted bail
 
 *2024-11-20 14:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/103634/former-minister-harin-fernando-granted-bail-) · `en`
@@ -183,26 +69,6 @@ Recently, a heated situation had arisen between the police and the former minist
 ...
 
 [Data](articles/0623da6c.json)
-
-[Extended Data](ext_articles/0623da6c.ext.json)
-
----
-
-### හරීන්ට ඇප
-
-*2024-11-20 13:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203560) · `si`
-
-‍අත්අඩංගුවට ගත් හිටපු අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා ඇප මත නිදහස් කර තිබේ.
-
-බදුල්ල මහෙස්ත්‍රාත්වරයා විසින් ලක්ෂ 05 බැගින් වු ශරීර ඇප දෙකක් මත හරීන් ප්‍රනාන්දු මහතා ඇප මත නිදහස් කිරීමට නියෝග කර ඇති බව වාර්තා වේ.
-
-මැතිවරණ නීති උල්ලංඝණය කිරීමේ චෝදනාවකට අදාළව හරීන් ප්‍රනාන්දු මහතා අද (20)පෙරවරුවේ බදුල්ල පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබීය.
-
-පාර්ලිමේන්තු මැතිවරණයට අදාළව නීතිවිරෝධී ප්‍රචාරණ කටයුතු සිදුකිරීම ඇතුළු ඔහුට එරෙහිව චෝදනා 06ක් එල්ල වී තිබුණි.
-
-◼️
-
-[Data](articles/ad359d4a.json)
 
 ---
 
@@ -257,30 +123,6 @@ It is reported that the mother of two children, who set fire to her husband's bo
 [Data](articles/a317e4fa.json)
 
 [Extended Data](ext_articles/a317e4fa.ext.json)
-
----
-
-### නිවසක් මතට පස් කන්දක් කඩා වැටී පාසල් සිසුවෙක් මරුට
-
-*2024-11-20 13:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203559) · `si`
-
-මැදමහනුවර, වතුලියද්ද ප්‍රදේශයේ නිවසක් මතට පස් කන්දක් කඩා වැටීමෙන් සිදුවු අනතුරකින් පාසල් සිසුවෙකු මියගොස් තිබේ.
-
-තෙල්දෙණිය පොලීසිය සඳහන් කළේ, ප්‍රදේශයට ඇද හැලුණු අධික වර්ෂාවත් සමඟ අද (20) අලුයම මෙම අනතුර සිදුව ඇති බවය.
-
-අනතුරින් නිදා සිටි පාසල් සිසුවා පස් සහ නිවසේ බිත්ති අතරට සිරවී ඇති අතර ප්‍රදේශවාසීන් විසින් ඔහු බේරාගෙන රෝහලට ඇතුළත් කිරීමෙන් අනතුරුව මියගොස් තිබේ.
-
-මියගොස් ඇත්තේ 16 හැවිරිදි වතුලියද්ද ප්‍රදේශයේ පදිංචිව සිටි පාසල් සිසුවෙකු බව සඳහන්ය.
-
-මේ අතර දිවයිනේ ප්‍රදේශ රැසකට අද දිනයේත් වැසි හෝ  ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-උතුරු සහ නැගෙනහිර පළාත්වල විටින් විට ගිගුරුම් සහිත වැසි ඇතිවිය හැකි අතර දිවයිනේ සෙසු ප්‍රදේශවලද සවස් කාලයේ දී හෝ රාත්‍රි කාලයේ දී වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව එම දෙපාර්තමේන්තුව පෙන්වා දෙයි.
-
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවලට මිලිමීටර 75ට වැඩි තරමක තද වැසි ඇතිවීමේ හැකියාව පවතී.
-
-◼️
-
-[Data](articles/091f1238.json)
 
 ---
 
@@ -1253,24 +1095,6 @@ He then abandoned the van in the Gampaha Ukkalgoda area and fled with another ma
 [Data](articles/357bca46.json)
 
 [Extended Data](ext_articles/357bca46.ext.json)
-
----
-
-### IPL 2025 වෙන්දේසියට යන ශ්‍රී ලංකා ක්‍රීඩකයින් කවුද?
-
-*2024-11-20 09:22:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7mpeme284o) · `si`
-
-2025 වසරේ පැවැත්වීමට නියමිත ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරගාවලිය සඳහා ක්‍රීඩකයින් වෙන්දේසි කිරීම මෙම මස 24 සහ 25 යන දෙදින තුළ සෞදි අරාබියේ ජෙඩා නගරයේදී පැවැත්වීමට නියමිත ය.
-
-මෙවර ඉන්දීය ප්‍රිමියර් ලීග් තරගාවලියේ ක්‍රීඩක වෙන්දේසිය සඳහා ක්‍රීඩකයින් 574 දෙනෙකු ලියාපදිංචි වී සිටින බව ඉන්දීය ක්‍රිකට් පාලක මණ්ඩලය නිවේදනය කර තිබේ.
-
-එලෙස ක්‍රීඩකයින් ලියාපදිංචි වී සිටිය ද මෙවර තරගාවලිය සඳහා වෙන්දෙසියේදී තෝරා ගනු ලබන්නේ, ක්‍රීඩකයින් 204 දෙනෙකු පමණක් වන අතර ඒ අතරින් තෝරා ගැනෙන විදෙස් ක්‍රීඩකයින් සංඛ්‍යාව 70 දෙනෙකි.
-
-2024 ඉන්දීය ප්‍රිමියර් ලීග් ක්‍රිකට් තරග මාලාවට ක්‍රීඩා කළ ක්‍රීඩකයින් අතරින් ක්‍රීඩකයින් රඳවා ගැනීමට ලබා දුන් අවසරය මත කණ්ඩායම් 10ක් විසින් ක්‍රීඩකයින් 46 දෙනෙකු රඳවා ගැනීමට තීරණය කර ඇත. එලෙස රඳවා ගනු ලැබූ ක්‍රීඩකයින් වෙනුවෙන් එම කණ්ඩායම් විසින් වැය කරනු ලැබ ඇති මුදල ඉන්දීය රුපියල් කෝටි 558.5 කි.
-
-...
-
-[Data](articles/fd1da12e.json)
 
 ---
 
@@ -2393,5 +2217,141 @@ This second subprogram of ADB’s Financial Sector Stability and Reforms Program
 [Data](articles/0cc11393.json)
 
 [Extended Data](ext_articles/0cc11393.ext.json)
+
+---
+
+### Strengthening global HR connections: CIPM delegates at the CIPD Annual Conference and Exhibition
+
+*2024-11-19 23:07:00* · [`islandlk`](http://island.lk/strengthening-global-hr-connections-cipm-delegates-at-the-cipd-annual-conference-and-exhibition/) · `en`
+
+The CIPD Annual Conference and Exhibition (CIPD ACE) 2024 which was held in Manchester, UK, brought together over 7,000 HR professionals, business leaders, and thought leaders from around the world for an engaging and transformative event. As a premier gathering for the global HR community, the conference offered a rich mix of keynote speeches, panel discussions, interactive workshops, and networking opportunities. The event was designed to tackle the most pressing issues in HR today, from technological innovation and AI integration to employee well-being and organizational agility.
+
+...
+
+[Data](articles/31deb7e9.json)
+
+[Extended Data](ext_articles/31deb7e9.ext.json)
+
+---
+
+### Mediclinic rebrands as MyClinic by Hemas Hospitals
+
+*2024-11-19 23:07:00* · [`islandlk`](http://island.lk/mediclinic-rebrands-as-myclinic-by-hemas-hospitals/) · `en`
+
+The well-known healthcare services hub and primary care centre in Wellawatte, Mediclinic, which operates in partnership with Hemas Hospitals, has rebranded itself as MyClinic by Hemas Hospitals. This name change is in keeping with Hemas Hospitals’ commitment to personalised, patient-centred care. Under the new name, patients and their relatives will continue to enjoy the same unparalleled standards of care and service, for which the centre is known. Now experience the best of world-class healthcare thanks to a game-changing partnership between Hemas Hospitals and Mediclinic, as your neighbourhood medical centre in Wellawatte is now under the care of the most awarded Hemas Hospitals.
+
+...
+
+[Data](articles/f4fcbfc3.json)
+
+[Extended Data](ext_articles/f4fcbfc3.ext.json)
+
+---
+
+### Banning for everything from midnight
+
+*2024-11-19 23:05:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நள்ளிரவு-முதல்-அனைத்துக்கும்-தடை/175-347468) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Education Exam Ban: No extra classes, workshops allowed. Advertising prohibited. Violators can report to police.
+
+🟩
+
+The Commissioner General of Examinations Amit Jayasundara said in a statement issued by the Commissioner General of Examinations, the Commissioner General of Examinations said that it has been banned from conducting additional classes, seminars and workshops for the 2024 Education Promotion Examinations.
+
+During this period, advertising or kept by posters, banners, publications, electronic or printed media, such as the printers and distribution of the examinations papers for the exam, the exams, or the equivalent of the exam papers will be issued during this period.
+
+The Election Commissioner's Department said that if someone, the company or some parties violate the order, they can lodge a complaint at the nearest police station.R
+
+◼️
+
+[Data](articles/c4198192.json)
+
+[Extended Data](ext_articles/c4198192.ext.json)
+
+---
+
+### Pan Asia Bank strengthens digital reach with new zone in Kiribathgoda
+
+*2024-11-19 23:05:00* · [`islandlk`](http://island.lk/pan-asia-bank-strengthens-digital-reach-with-new-zone-in-kiribathgoda/) · `en`
+
+Pan Asia Bank is pleased to open the newest digital zone in Kiribathgoda. Customers can now gain more access to technologically advanced banking services as a result of this development. The newest Digital Zone emphasizes the banks’ commitment to offering quality customer-oriented services that enhance the banking experience in Kiribathgoda.
+
+Korea Lanka School of Hospitality closes applications for new semester on Nov 27
+
+Strengthening global HR connections: CIPM delegates at the CIPD Annual Conference and Exhibition
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment * Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/15426394.json)
+
+[Extended Data](ext_articles/15426394.ext.json)
+
+---
+
+### Korea Lanka School of Hospitality closes applications for new semester on Nov 27
+
+*2024-11-19 23:04:00* · [`islandlk`](http://island.lk/korea-lanka-school-of-hospitality-closes-applications-for-new-semester-on-nov-27/) · `en`
+
+Non fee-levying Korea Lanka School of Hospitality and Hotel Management, Wattala, funded by KOICA the funding arm of the Korean government will close receiving applications for the new semester on November 27 nd 2024.
+
+Interviews for same will be held in December. The new semester will commence in January 2025.
+
+A senior lecturer for the school said that the courses will be free of charge and objective of the programme is to provide vocational education for marginal youth in the country and create employment opportunities for them in the hospitality industry.
+
+The school offers NVQ 3 and 4 courses in hospitality which includes professional cookery, Food and Beverage Service, Front Office Operations and Hotel Housekeeping equipping the students for careers in leading hotels in Sri Lanka and overseas.
+
+The institute emphasises on theory and practical training which includes teaching of English, Korean language soft skills and basic IT knowledge development.
+
+...
+
+[Data](articles/277e67b1.json)
+
+[Extended Data](ext_articles/277e67b1.ext.json)
+
+---
+
+### CSE investors in suspenseful wait over next IMF tranche as indices dip
+
+*2024-11-19 23:01:00* · [`islandlk`](http://island.lk/cse-investors-in-suspenseful-wait-over-next-imf-tranche-as-indices-dip/) · `en`
+
+Stock market investors are adopting a cautious stance due to a delay in extending the next IMF tranche, which was scheduled to be transferred before end November.
+
+An IMF delegation was in Sri Lanka to review the whole process and local investors are waiting for their comments on the Sri Lankan economy.
+
+Amid those developments profit- takings were noted after the CSE showed a positive market performance over previous days.
+
+Yesterday the All Share Price Index went down by 104.8 points while S and P SL20 declined by 49.96 points.
+
+...
+
+[Data](articles/d75e06d8.json)
+
+[Extended Data](ext_articles/d75e06d8.ext.json)
+
+---
+
+### Met. Dept warns of possible low-pressure area nearing Sri Lanka’s Eastern coast
+
+*2024-11-19 22:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103623/met-dept-warns-of-possible-low-pressure-area-nearing-sri-lankas-eastern-coast-) · `en`
+
+The Department of Meteorology has announced that a low-pressure area is likely to form over southeast Bay of Bengal around 23 November.
+
+Thereafter, it is likely to intensify into a depression over southwest Bay of Bengal during subsequent 2 days. The system may intensify further and move near the Eastern coast of Sri Lanka, it added.
+
+Accordingly, naval and fishing communities, engaging activities over South-west Bay of Bengal and the general public, particularly living in the Eastern and Northern provinces are requested to be attentive to the future forecasts and bulletins issued by the Department of Meteorology in this regards.
+
+◼️
+
+[Data](articles/1ca4cb34.json)
+
+[Extended Data](ext_articles/1ca4cb34.ext.json)
 
 ---

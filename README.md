@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 00:41:16**
+As of **2024-11-21 01:41:59**
 
 ## Newspaper Stats
 
-*Scraped **56,007** Articles*
+*Scraped **56,012** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
-colombotelegraphcom | 572
+colombotelegraphcom | 573
 bbccomsinhala | 579
 islandlk | 3,347
 economynextcom | 3,397
@@ -18,19 +18,137 @@ dailyftlk | 3,832
 dailymirrorlk | 4,733
 adalk | 5,272
 adaderanalk | 6,764
-tamilmirrorlk | 7,942
-virakesarilk | 9,094
+tamilmirrorlk | 7,943
+virakesarilk | 9,097
 adaderanasinhalalk | 9,679
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,007 (100.0%) of 56,007 articles have been extended.
+56,011 (100.0%) of 56,012 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-11-21 (Thursday)
+
+### Imran's Saka Court
+
+*2024-11-21 01:18:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கஞ்சிப்பானை-இம்ரானின்-சகா-நீதிமன்றத்தில்-முன்னிலை/175-347527) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Special security measures implemented near Imran's Saka Court after Tamil youth arrest. Suspect linked to underworld figure Kanjanan, former associate of Imran. Court premises secured; physical examinations conducted. Magistrate orders suspect detention until December 4.
+
+🟩
+
+A special security in the areas, including the court premises, was held yesterday after a Tamil youth, a former Tamil youth of Imran, was produced at the Point Pedro Court yesterday.
+
+A clarification order was issued following the arrest of a suspect from Vadamarachchi on May 31 with heroin's drug drug by the Point Pedro Police on May 30.
+
+The suspect said that the suspect was the head of the underworld group, Kanjanan, who was a former saga of Imran, and that he had partnered with Pukkudi Kanna due to his conflict and that Kanjan was attacked by Imran's father and fled in Jaffna.
+
+He also said that his life was in danger behind the Western incidents, and the Special Task Force was brought to the Point Pedro Court yesterday at 12 noon.
+
+Subsequently, the recent areas, including the Point Pedro Court Complex, were brought under special security. All those who went into the court premises were allowed to undergo physical examination.
+
+...
+
+[Data](articles/ddde61d3.json)
+
+[Extended Data](ext_articles/ddde61d3.ext.json)
+
+---
+
+### Shamila Perera
+
+*2024-11-21 00:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/199278) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+National List member Ravi Karunanayake chosen for new Democratic Front. Parties agree to form coalition for 2024 election. Election Commission notified of selection. No illegal actions taken regarding Memorandum of Understanding.
+
+🟩
+
+One of the National List members available in the general election came to a consensus to provide a new Democratic Front named member.
+
+Leading Secretary Shamila Perera issued a statement saying that Ravi Karunanayake's name was sent to the Election Commission and Ranil Wickremesinghe had informed Ranil Wickremesinghe as a member of the National List of the New Democratic Front.
+
+Aimed at contesting the 2024 general election, the PA has agreed to form a coalition with the new Democratic Front (UPFA), Sri Lanka Freedom Party (UPFA), PA (Ratyyyyyyyyyyyyyyyyyyyy), new coalition and United National Party.
+
+Accordingly, the parties have asked us to convert our party's official symbol into a gas cylinder and provide some amendments to the party's yap and provide the necessary facilities.
+
+According to the 5th Sub -section of the agreement, a member of the new Democratic Front agreed to give at least one post on the national list, which is available for election results.
+
+...
+
+[Data](articles/c0498090.json)
+
+[Extended Data](ext_articles/c0498090.ext.json)
+
+---
+
 ### 2024-11-20 (Wednesday)
+
+### Struggle in front of the Mannar District General Hospital;Promise by Writing - Abandoned Struggle
+
+*2024-11-20 23:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/199277) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Protest outside Mannar General Hospital demands justice for mother and infant death. Political interference mars peaceful demonstration. Police intervene, hospital officials promise inquiry.
+
+🟩
+
+The struggle carried out in front of the Mannar General Hospital on Wednesday (20) at 4.30 pm to seek justice for the death of the mother and infant, who died at the Mannar General Hospital.
+
+However, there was a bustling as two former parliamentary candidates of the two political parties led the struggle of the people as their political drama.
+
+The protest began at 4.30 pm on Wednesday (20) in front of the Mannar General Hospital seeking justice for the death of the mother and infant.
+
+There was a peaceful struggle, demanding justice for the death of the mother, the arrest of the wrongdoers and the transfer of the hospital administration.
+
+During the protest, various slogans were raised as the protesters sought to enter the hospital.. This was followed by a conflict between the police and the people.
+
+Following this, a group led by District Government Agent K. Kanageswaran, who arrived at the scene, discussed with the parents of the deceased.
+
+...
+
+[Data](articles/cd3d21ea.json)
+
+[Extended Data](ext_articles/cd3d21ea.ext.json)
+
+---
+
+### We hope that the National People's Power will fulfill the responsibility of protecting the rights of the minority -Sri Lanka
+
+*2024-11-20 22:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199276) · `ta`
+
+National People's Power government protects minority rights: Sri Lanka. New chapter begins under President Anura Kumara Dissanayake. Focus on reconciliation, social welfare, and economic growth.
+
+🟩
+
+We expect a new chapter on the journey of the new government issued by the people. Speaker of the Sri Lankan Apostolic Army Susil Ranjith said that the National People's Power government led by President Anura Kumara Dissanayake would be responsible for protecting the rights of minorities in the country.
+
+He further stated at a press conference held in Colombo on Wednesday (20).
+
+The Sri Lankan Apostolic Archbishop National Council reaffirms the stability of reconciliation, social content and poverty alleviation amidst the new chapter of Sri Lanka. We hope that President Anura Kumara Dissanayake, who has formed a new government, will defend the rights of the minority people in the country.
+
+We hope that the government headed by President Anura Kumara Dissanayake will continue to maintain an honest Sri Lankan identity by ensuring the progress and development of the country and the people.
+
+...
+
+[Data](articles/dd2625cd.json)
+
+[Extended Data](ext_articles/dd2625cd.ext.json)
+
+---
 
 ### Sri Lanka plans confab to boost marine linked exports
 
@@ -427,6 +545,20 @@ The protesters continue to fight before the Mannar General Hospital in the pouri
 [Data](articles/130d1343.json)
 
 [Extended Data](ext_articles/130d1343.ext.json)
+
+---
+
+### Sri Lanka’s Arugam Bay Challenge
+
+*2024-11-20 19:59:16* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-arugam-bay-challenge/) · `en`
+
+Tisaranee Gunasekara’s usually excellent writings are informed by a strong moral compass. In her recent examination of the Arugam Bay controversy (Daily FT, 6 Nov. 2024), however, that compass wobbles to the point of fracture.
+
+Some preliminaries. Her account of the often gruesome atrocities meted out by the Israeli IDF to civilians in Gaza, and now Lebanon, is both accurate and sobering. And in this context it’s also good to see that she highlights opposition to the Israeli war both from within Israel itself, the Jewish American community – and, as she could have added, global Jewry. Thus, opposition to the war is not the issue in focus here. Rather, the key questions raised by her article relate solidly to Sri Lanka-directed realities and concerns.
+
+...
+
+[Data](articles/177cde59.json)
 
 ---
 
@@ -2423,121 +2555,5 @@ In equities, the All Share Price Index was trading 0.04 percent, or 5.09 points,
 [Data](articles/5d0c60de.json)
 
 [Extended Data](ext_articles/5d0c60de.ext.json)
-
----
-
-### Pillaiyan appeared in CID
-
-*2024-11-20 10:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/CIDயில்-பிள்ளையான்-ஆஜரானார்/52-347487) · `ta`
-
-Pillaiyan visits CID over Channel 4 doc on 2019 SL terror attacks. Summoned for confession. Initially invited Nov 12 for Easter Sunday probe but sought rescheduling.
-
-🟩
-
-Sivanesathurai Chandrakanthan, also known as Pillaiyan, came to the Criminal Investigation Department (CID) this morning to make a statement.
-
-He has been summoned to make a confession on the controversial Channel 4 documentary on Sunday terrorist attacks in Sri Lanka 2019.
-
-Pillaiyan was first invited to CIT on November 12 to give a new inquiry into the Easter Sunday attacks. However, it is noteworthy that he had requested the alternative date.
-
-◼️
-
-[Data](articles/c0724237.json)
-
-[Extended Data](ext_articles/c0724237.ext.json)
-
----
-
-### Pillaiyan appeared in CID
-
-*2024-11-20 10:53:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CIDயில்-பிள்ளையான்-ஆஜரானார்/175-347487) · `ta`
-
-Pillaiyan arrives at CID for questioning about Channel 4 documentary on 2019 Sri Lanka terror attacks. He was initially summoned Nov 12 for Easter Sunday attack inquiry but requested a later date.
-
-🟩
-
-Sivanesathurai Chandrakanthan, also known as Pillaiyan, arrived at the Criminal Investigation Department (CID) this morning.
-
-He has been summoned to make a confession on the controversial Channel 4 documentary on Sunday terrorist attacks in Sri Lanka 2019.
-
-Pillaiyan was first invited to CIT on November 12 to give a new inquiry into the Easter Sunday attacks. However, it is noteworthy that he had requested the alternative date.
-
-◼️
-
-[Data](articles/efc5d81a.json)
-
-[Extended Data](ext_articles/efc5d81a.ext.json)
-
----
-
-### Mahinda Siriwardena re-assumes duties as Finance Secretary
-
-*2024-11-20 10:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/103629/mahinda-siriwardena-re-assumes-duties-as-finance-secretary) · `en`
-
-K. M. Mahinda Siriwardena, who was appointed as the Secretary to the Ministry of Finance, Planning and Economic Development, has re-assumed duties in his post today (20).
-
-Senior officials including Deputy Secretaries to the Treasury and Heads of Departments under the Ministry of Finance were present on the occasion, a statement said.
-
-Siriwardena has made a significant contribution to obtaining the Extended Credit Facility from the International Monetary Fund (IMF) and making the country’s debt restructuring process a success and has served as the Alternate Executive Director for Sri Lanka, India, Bangladesh and Bhutan at the IMF.
-
-He holds a Master’s Degree in Economics and a Postgraduate Diploma in Economic Development from Vanderbilt University, USA, and a Bachelor of Arts (Special) in Economics from the University of Kelaniya.
-
-...
-
-[Data](articles/47a961cd.json)
-
-[Extended Data](ext_articles/47a961cd.ext.json)
-
----
-
-### Harin arrests
-
-*2024-11-20 10:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/ஹரின்-கைது/150-347485) · `ta`
-
-Former Minister Harin Fernando arrested by Badulla police for election law violation.
-
-🟩
-
-Badulla police have arrested former minister Harin Fernando in connection with the incident in violation of the election law.
-
-Police Media Spokesperson, Deputy Inspector General of Police Nihal Talduwa confirmed this.
-
-He has been arrested on Wednesday (20) to appear at Harin Fernando to appear at the Badulla Police for a confession with the police during an election campaign in Badulla on Wednesday (20).
-
-Recently, Harin Fernando and his supporters were wearing a '10th' shirts in Badulla.
-
-It is noteworthy that he contested the parliamentary election in the Badulla district under the new Democratic Front in No. 10.
-
-◼️
-
-[Data](articles/62e47e6d.json)
-
-[Extended Data](ext_articles/62e47e6d.ext.json)
-
----
-
-### Harin Fernando arrested
-
-*2024-11-20 10:38:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரின்-பெர்னாண்டோ-கைது/175-347485) · `ta`
-
-Harin Fernando arrested: Former minister detained by Badulla police for election law violation. Confession scheduled at local police station. Incident related to campaign attire featuring "10th" symbol, referencing his electoral number.
-
-🟩
-
-Badulla police have arrested former minister Harin Fernando in connection with the incident in violation of the election law.
-
-Police Media Spokesperson, Deputy Inspector General of Police Nihal Talduwa confirmed this.
-
-He has been arrested on Wednesday (20) to appear at Harin Fernando to appear at the Badulla Police for a confession with the police during an election campaign in Badulla on Wednesday (20).
-
-Recently, Harin Fernando and his supporters were wearing a '10th' shirts in Badulla.
-
-It is noteworthy that he contested the parliamentary election in the Badulla district under the new Democratic Front in No. 10.
-
-◼️
-
-[Data](articles/a8f016da.json)
-
-[Extended Data](ext_articles/a8f016da.ext.json)
 
 ---

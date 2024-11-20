@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 16:41:19**
+As of **2024-11-20 17:10:41**
 
 ## Newspaper Stats
 
-*Scraped **55,952** Articles*
+*Scraped **55,954** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,125 @@ adalk | 5,261
 adaderanalk | 6,756
 tamilmirrorlk | 7,935
 virakesarilk | 9,086
-adaderanasinhalalk | 9,668
+adaderanasinhalalk | 9,670
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,947 (100.0%) of 55,952 articles have been extended.
+55,951 (100.0%) of 55,954 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### ஒத்திகை...
+### Approval to import 70,000 Metricton
+
+*2024-11-20 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203567) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Government approves importing 70,000 MT of rice to address brief rice shortage. Rice will be sourced through CWE Corporation. Cabinet approval granted for the import.
+
+🟩
+
+The government has decided to import 70,000 MT of rice as a solution to the shortage of brief rice.
+
+The Minister of Trade, Commerce, Food Safety and Co-operative Development, Wasantha Samarasinghe said that the rice was imported through the CWE Corporation.
+
+The Minister said that the necessary cabinet was approved.
+
+◼️
+
+[Data](articles/114a7cd4.json)
+
+[Extended Data](ext_articles/114a7cd4.ext.json)
+
+---
+
+### Independent committee to refer to Ravi Karunanayake from National list
+
+*2024-11-20 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203566) · `si`
+
+Here's a summary in 200 characters:
+
+
+
+"UNP conducts probe on Ravi Karunanayake for national list seat. Report due in 3 weeks, then to UNP Working Committee."
+
+🟩
+
+The party has decided to conduct an independent investigation into the name of Ravi Karunanayake to send Ravi Karunanayake to the Election Commission for the election commission for a post of the National Listing of the New Democratic Front.
+
+They had stated that the belief in the alliance (UPFA) had revealed that Mr. Ravi Karunananayake was released from the National List.
+
+The discussion has been decided to conduct an independent investigation for the incident.
+
+This investigation report was to be handed over to UNP leader Ranil Wickremesinghe within 3 weeks.
+
+Thereafter, the report was made to the UNP Working Committee.
+
+◼️
+
+[Data](articles/5ab9544c.json)
+
+[Extended Data](ext_articles/5ab9544c.ext.json)
+
+---
+
+### Rehearsal ...
 
 *2024-11-20 16:28:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒத்திகை/175-347504) · `ta`
 
-பத்தாவது பாராளுமன்றத்தின் முதல் நாள் அமர்வு நாளை (21)காலை 10 மணிக்கு ஆரம்பமாக இருக்கும் நிலையில் ஜனாதிபதி அனுரகுமார திசாநாயக்க வை வரவேற்பதற்கான ஒத்திகை இன்று (20) பார்க்கப்பட்டது
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"President Anura Kumara Dissanayake welcomed today. First day of 10th Parliament tomorrow at 10 AM."
+
+🟩
+
+The rehearsal to welcome President Anura Kumara Dissanayake was viewed today (20) as the first day of the tenth parliament begins tomorrow (21) at 10 am
 
 ◼️
 
 [Data](articles/eac86598.json)
 
+[Extended Data](ext_articles/eac86598.ext.json)
+
 ---
 
-### රාජ්‍ය සේවකයන්ට ඇමති බිමල් දුන් උපදෙස
+### Minister of Public Servants Bimal
 
 *2024-11-20 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203565) · `si`
 
-ජාතික වැඩපිළිවෙළ ශක්තිමත් කිරීම වෙනුවෙන් රාජ්‍ය සේවකයන් එකලෙස වැඩ කළ යුතු බව ප්‍රවාහන, මහාමාර්ග, වරාය සහ සිවිල් ගුවන් සේවා අමාත්‍ය බිමල් රත්නායක මහතා පවසයි.
+Here's a summary of 200 characters:
 
-අද (20) වරාය අමාත්‍යාංශයේ වැඩ භාරගැනීමේ අවස්ථාට එක්වෙමින් ඔහු වැඩිදුරටත් සඳහන් කළේ,
 
-"මේ මොහොතේ සිට අපිට වැඩ කරන්න වෙන්නේ අපිට ඡන්දය දුන් නොදුන් හැම කෙනාම වෙනුවෙන්. මෙතනින් උඩට දේශපාලනය නැහැ. වරාය පෞද්ගලික අංශය සහ රාජ්‍ය අංශය දෙකම සම්බන්ධ කරගත් ක්‍රියාවලියකට යන්න ඕනේ."
 
-"දැන් නිලධාරීන්ට වැඩ කරන්න ලේසි වෙයි. එක ලෙස වැඩ කරන්න අවශ්‍ය අවස්ථාව අපි ලබාදෙනවා. අපිත් ඒක එලෙසම බලාපොරොත්තු වෙනවා. ඒක ලබාදෙන්න. ඒක ලබාදෙන්න බැරි අයට පුළුවන්... රාජ්‍ය සේවකයන් විදියට... ඔබටත් අයිතියක් තිබෙනවා... ඉන්නත් පුළුවන්... බැරි අය යන්නත් පුළුවන්... අපිට ලොකු ඇරියස් එකක් තියෙනවා... කරන්න රටේ. මිනිස්සු අපෙන් බලාපොරොත්තු වෙනවා."
+Minister Bimal Ratnayake urges public servants to work for national programs. He emphasizes unity between private and public sectors in ports. He vows to combat corruption and improve ministry performance.
 
-තමා යටතේ තිබෙන අමාත්‍යාංශවල ඉකුත් සමයේ සිදුවූ මහා පරිමාණ දූෂණයන් පිළිබඳව අනිවාර්යයෙන් සොයාබලා නීති මගින් කටයුතු කරන බවද අමාත්‍ය බිමල් රත්නායක මහතා පැවසීය.
+🟩
+
+Minister of Transport, Ports and Civil Aviation Minister Bimal Ratnayake says that public workers should work in the event to strengthen the national program.
+
+He further stated that the Ministry of Ports today (20th), he added.
+
+"All we have to work from this moment to work for everyone who has not voted for us. There is no upstairs politics from here. The Ports Private Sector and the Public Sector should go to a process. "
+
+"Officers now easy to work. We give you the opportunity to work as one. We hope that too. Give it. Those who cannot give it. As public servants,. You too have the right.. You can stay. You can also go ... We have a bigger perceiph ... In the country. People expect us. "
+
+Minister Bim Rathnayake said that the laws are compulsory in the last ministries under their ministries.
+
+"Simply put,. There was no good arrival. I understand.. The result of all other ministries attempts can be given to the country only if we do our. Otherwise, there is no way to get water. "
 
 ...
 
 [Data](articles/4231ecdf.json)
+
+[Extended Data](ext_articles/4231ecdf.ext.json)
 
 ---
 
@@ -2323,73 +2401,5 @@ The meeting took place at the Presidential Secretariat yesterday morning, the Pr
 [Data](articles/ab96b1bc.json)
 
 [Extended Data](ext_articles/ab96b1bc.ext.json)
-
----
-
-### 16 Ministries, PM get new Secretaries
-
-*2024-11-20 04:04:58* · [`dailyftlk`](https://www.ft.lk/news/16-Ministries-PM-get-new-Secretaries/56-769426) · `en`
-
-The appointment of the new Secretary to the Prime Minister, the Cabinet Secretary, and Secretaries for 16 Ministries was held at the Presidential Secretariat yesterday.
-
-The ceremony was officiated by Secretary to the President Dr. Nandika Sanath Kumanayake.
-
-Senior Prof. Kapila C.K. Perera – Secretary to the Ministry of Transport, Highways, Ports and Civil Aviation
-
-K.M.M. Siriwardana – Secretary to the Ministry of Finance, Planning and Economic Development
-
-J.M. Thilaka Jayasundara – Secretary to the Ministry of Industry and Entrepreneurship Development
-
-A.M.P.M.B. Atapattu – Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs
-
-B.K. Prabath Chandrakeerthi – Secretary to the Ministry of Plantation and Community Infrastructure
-
-D.W.R.B. Seneviratne – Secretary to the Ministry of Public Security and Parliamentary Affairs
-
-U.G. Ranjith Ariyaratne – Secretary to the Minister of Urban Development, Construction and Housing
-
-...
-
-[Data](articles/549d4ee6.json)
-
-[Extended Data](ext_articles/549d4ee6.ext.json)
-
----
-
-### How was the Parliament broadcast to the greatest women's representation?
-
-*2024-11-20 03:48:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6vld05gj5o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lanka's 2020 parliamentary election saw record-breaking women's representation. 22 women were elected, including 19 through preferential voting. This improved Sri Lanka's global ranking from 175th to 166th in female representation. Women's issues like sanitation and healthcare gained attention due to their presence in Parliament.
-
-🟩
-
-How was the Parliament broadcast to the greatest women's representation?
-
-At the general election, 22 women have been elected to a new page.
-
-However, several parties, including the reconciliation force, have not yet been named their national lists.
-
-Accordingly, the number of MPs selected for a Parliament will represent the Parliament this year.
-
-Of the women's candidates contesting with national power and congenic force, 21 have been elected to the Parliament and elected to Parliament.
-
-In the national propagation, 19 women and 2 women have won the preferential votes in harmony community.
-
-A woman has been appointed to one seat with national lists of national population.
-
-Dr. Harini Amarasuriya, who was sworn in as the Prime Minister of the Prime Minister for the second time (November 18), was held in Colombo District.
-
-Former Prime Minister Mahinda Rajapaksa has won the highest number of preferential number of preferential votes taken in a general election.
-
-...
-
-[Data](articles/49db79de.json)
-
-[Extended Data](ext_articles/49db79de.ext.json)
 
 ---

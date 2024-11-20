@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 07:29:55**
+As of **2024-11-20 05:49:58**
 
 ## Newspaper Stats
 
-*Scraped **55,849** Articles*
+*Scraped **55,828** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,327 +12,25 @@ newsfirstlk | 363
 dbsjeyarajcom | 432
 colombotelegraphcom | 571
 bbccomsinhala | 575
-islandlk | 3,347
+islandlk | 3,344
 economynextcom | 3,385
-dailyftlk | 3,832
+dailyftlk | 3,816
 dailymirrorlk | 4,733
 adalk | 5,246
 adaderanalk | 6,720
 tamilmirrorlk | 7,914
-virakesarilk | 9,079
-adaderanasinhalalk | 9,652
+virakesarilk | 9,078
+adaderanasinhalalk | 9,651
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,823 (100.0%) of 55,849 articles have been extended.
+55,819 (100.0%) of 55,828 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
-
-### Showers in several areas today
-
-*2024-11-20 06:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203544) · `si`
-
-Here's a summary in 200 characters:
-
-
-
-"Showers/thundershowers forecasted for Northern/Eastern provinces, heavy rain (75mm+) possible in Western/Sabaragamuwa provinces. Thunderstorms may cause strong winds/lightning. Public advised to take precautions."
-
-🟩
-
-The Department of Meteorology announces that showers or thundershowers will occur at times in the Northern and Eastern provinces.
-
-Thundershowers during the evening or night during the evening or night in the rest of the island.
-
-Heavy showers in the Western and Sabaragamuwa provinces and in the Galle and Matara districts can occur at more than 75 mm.
-
-Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces have a murder in the morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/56db9adb.json)
-
-[Extended Data](ext_articles/56db9adb.ext.json)
-
----
-
-### PM Harini’s Money Printing debate
-
-*2024-11-20 06:16:04* · [`dailyftlk`](https://www.ft.lk/columns/PM-Harini-s-Money-Printing-debate/4-769446) · `en`
-
-Sri Lanka’s reliance on money printing stems from its constrained fiscal position, where limited revenue, high debt, and dwindling foreign reserves demand immediate liquidity
-
-Prime Minister Dr. Harini Amarasuriya of the National People’s Power (NPP) recently addressed criticism from the Opposition regarding the Central Bank’s injection of funds into the economy. Specifically, she responded to claims that the Central Bank of Sri Lanka (CBSL) had introduced Rs. 36.16 billion rupees through an overnight auction and an additional Rs. 70 billion over seven days via a term auction of “printed” money (backed by domestic assets), at a time when the Central Bank is attempting to build reserves.
-
-Dr. Amarasuriya clarified that no new currency bearing the new Finance Minister’s signature had been issued. However, the key issue is not whose signature appears on the currency notes but the economic impact of these monetary policies.
-
-...
-
-[Data](articles/b3a7886e.json)
-
----
-
-### Sri Lanka Banks’ Association reiterates support to new Govt.
-
-*2024-11-20 06:11:00* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-Banks-Association-reiterates-support-to-new-Govt/34-769445) · `en`
-
-The Sri Lanka Banks’ Association (SLBA) yesterday congratulated President Anura Kumara Dissanayake on his party’s resounding victory at the Parliamentary Election and pledged its support to the new Government in the challenging journey ahead.
-
-The Association, which represents all licenced banks in Sri Lanka, also noted that its recent interactions with the Presidential Secretariat has given it confidence in the President’s inclusive approach to problem-solving.
-
-The full text of the SLBA congratulatory message is as follows.
-
-“Please accept our heartfelt congratulations on your party’s resounding victory in the recent Parliamentary Election.
-
-The people of Sri Lanka have placed their trust in you and your team, and we are confident that you will lead the nation towards prosperity with transparency and accountability.
-
-...
-
-[Data](articles/e137cf1c.json)
-
----
-
-### National Chamber of Commerce congratulates new Govt., pledges support for MSME growth
-
-*2024-11-20 06:10:47* · [`dailyftlk`](https://www.ft.lk/business/National-Chamber-of-Commerce-congratulates-new-Govt-pledges-support-for-MSME-growth/34-769444) · `en`
-
-The National Chamber of Commerce of Sri Lanka (NCCSL) President Deepal Nelson yesterday  extends his heartfelt congratulations to the newly appointed Government.
-
-“This significant milestone reflects the trust and confidence placed in the Government’s leadership to guide our nation toward a brighter and more prosperous future. We firmly believe that the Government’s vision and policies will usher in a new era of growth and stability. As the voice of the business community, the NCCSL assures its unwavering support for the Government’s endeavours, particularly in uplifting the Micro, Small, and Medium Enterprise (MSME) sector,” Nelson said.
-
-...
-
-[Data](articles/74987545.json)
-
----
-
-### Chamber of Marine Industries congratulates NPP on electoral success
-
-*2024-11-20 06:09:47* · [`dailyftlk`](https://www.ft.lk/business/Chamber-of-Marine-Industries-congratulates-NPP-on-electoral-success/34-769443) · `en`
-
-The Chamber of Marine Industries of Sri Lanka (CMISL) has congratulated President Anura Kumara Dissanayake and the National People’s Power (NPP) on their success at the Parliamentary Election last week.
-
-“This achievement reflects the collective aspirations of Sri Lankans for transformative leadership and a renewed focus on sustainable economic growth,” CMISL President Kaushal Rajapaksa said in a letter to President Dissanayake.
-
-“The CMISL is encouraged by your administration’s commitment to fostering economic resilience, streamlining governance, and attracting Foreign Direct Investment (FDI). We believe that expediting the implementation of the regulatory framework for the marine industry, already drawn up by the Deputy General of Merchant Shipping, is a crucial step to unlocking the full potential of this sector. A well-defined and operational framework will attract investments, reduce bureaucratic inefficiencies, and set the foundation for robust growth.
-
-...
-
-[Data](articles/3ffdd904.json)
-
----
-
-### FTZMA welcomes NPP’s landslide victory at General Election, pledges support for economic reforms
-
-*2024-11-20 06:08:38* · [`dailyftlk`](https://www.ft.lk/business/FTZMA-welcomes-NPP-s-landslide-victory-at-General-Election-pledges-support-for-economic-reforms/34-769442) · `en`
-
-The Free Trade Zone Manufacturers Association (FTZMA), sole trade chamber representing export-oriented companies under the purview of the Board of Investment (BOI) has congratulated the National People’s Power (NPP) on its resounding victory in the recent General Elections.
-
-In a statement issued recently, the FTZMA commended the NPP’s success, describing it as a reflection of the strength of Sri Lanka’s democratic principles. The victory, they noted, underscores the people’s desire for a stable Government capable of driving reforms essential for a true national renaissance.
-
-The association also emphasised its readiness to collaborate with the new administration to advance Sri Lanka’s economic development.
-
-Key areas of focus outlined by the chamber include eradicating corruption, promoting good governance and improving the ease of doing business.
-
-...
-
-[Data](articles/f1fbaa54.json)
-
----
-
-### Lanka Confectionery Manufacturers Associations extends well wishes to President and new Cabinet
-
-*2024-11-20 06:08:23* · [`dailyftlk`](https://www.ft.lk/business/Lanka-Confectionery-Manufacturers-Associations-extends-well-wishes-to-President-and-new-Cabinet/34-769441) · `en`
-
-The apex body of the confectionery manufacturers in Sri Lanka, Lanka Confectionery Manufacturers Association (LCMA) has extended its heartfelt congratulations to President Anura Kumara Dissanayake and the newly appointed Cabinet Ministers.
-
-In a statement, the association pledged its fullest support towards uplifting the local confectionery industry.
-
-“Considering the local economy’s disorientation and the many challenges faced in the past years, LCMA is eagerly looking forward to playing a significant part in developing and implementing the industry and hope to play a major role in the growth of the industry as well as in the growth of Sri Lanka,” LCMA President S.M.D. Suriyakumara said.
-
-He also said that LCMA is keen on working closely with the new Government to expand the horizons of the local confectionery manufacturing industry to the export markets.
-
-...
-
-[Data](articles/429b9fae.json)
-
----
-
-### Indo Lanka Chamber of Commerce and Industry extends congratulations to new Govt.
-
-*2024-11-20 06:06:25* · [`dailyftlk`](https://www.ft.lk/business/Indo-Lanka-Chamber-of-Commerce-and-Industry-extends-congratulations-to-new-Govt/34-769440) · `en`
-
-The Membership and Executive Committee of the Indo Lanka Chamber of Commerce and Industry (ILCCI) extend their warmest congratulations to the newly elected Government and all Members of Parliament. This historic occasion marks a fresh chapter in Sri Lanka’s journey toward progress, and ILCCI is filled with optimism for the positive transformation that lies ahead.
-
-ILCCI is confident that, under the dynamic and astute leadership of the new Government, Sri Lanka will embrace a culture of integrity, good governance, and sustainable development. This leadership is crucial not only to addressing the immediate challenges but also to laying the foundation for long-term prosperity and equity across the nation.
-
-...
-
-[Data](articles/207dcb3d.json)
-
----
-
-### Palm Oil Industry Association congratulates new Govt. on resounding victory
-
-*2024-11-20 06:06:09* · [`dailyftlk`](https://www.ft.lk/business/Palm-Oil-Industry-Association-congratulates-new-Govt-on-resounding-victory/34-769439) · `en`
-
-The Palm Oil Industry Association (POIA) has extended its warmest congratulations to the newly elected Government on its resounding victory in the recent General Election.
-
-“This remarkable achievement reflects the trust and confidence placed in the NPP by the people of Sri Lanka. We recognise the vital role that the Government plays in shaping policies that affect the agriculture and industrial sectors, including the palm oil industry. Under the leadership of President Anura Kumara Dissanayake, we are confident of fostering an environment that supports sustainable agriculture practices, innovation, and growth within the agriculture industry,” POIA said in a statement.
-
-The Association also extended its congratulations and best wishes to the newly elected Minister of Plantation and Community Infrastructure Samanatha Vidyarathna, in his new role to reap the full potential of the plantation sector.
-
-...
-
-[Data](articles/d5549629.json)
-
----
-
-### Sri Lanka kicks off Global Entrepreneurship Week 2024
-
-*2024-11-20 06:04:19* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-kicks-off-Global-Entrepreneurship-Week-2024/34-769438) · `en`
-
-The Information and Communication Technology Agency (ICTA) on Monday launched the Global Entrepreneurship Week (GEW) in Sri Lanka for the third consecutive year championing the importance of entrepreneurship  from 18 to 24 November.
-
-Themed “Entrepreneurship is for Everyone,” GEW 2024 in Sri Lanka aims to embody the inclusivity and creativity that entrepreneurship offers to the world by celebrating and empowering entrepreneurs from various industries, ages, and enterprises through collaboration with investors, researchers, and experts.
-
-...
-
-[Data](articles/d4c5636a.json)
-
-[Extended Data](ext_articles/d4c5636a.ext.json)
-
----
-
-### EDB partners IFC; launches Export Excellence Initiative to boost SME competitiveness
-
-*2024-11-20 06:02:10* · [`dailyftlk`](https://www.ft.lk/business/EDB-partners-IFC-launches-Export-Excellence-Initiative-to-boost-SME-competitiveness/34-769437) · `en`
-
-In a concerted effort to boost the country’s export potential and fortify the global competitiveness of small and medium-sized enterprises (SMEs), the Sri Lanka Export Development Board (EDB) has partnered with the International Finance Corporation (IFC) to launch the Sri Lanka Export Excellence Initiative (SLEEI).
-
-The corporation agreement was signed following discussions between EDB Chairman and Chief Executive Mangala Wijesinghe and IFC representatives. These discussions focused on the initiative’s implementation and its role in supporting the country’s economic recovery through export growth.
-
-The SLEEI is a comprehensive program designed to empower local businesses. It provides targeted training, market access, and support to help SMEs navigate the complexities of international trade.
-
-“This initiative is not just about boosting exports; it’s about equipping Sri Lankan businesses with the tools they need to compete and thrive in a demanding global marketplace,” said Wijesinghe.
-
-...
-
-[Data](articles/44760c31.json)
-
-[Extended Data](ext_articles/44760c31.ext.json)
-
----
-
-### Kumar, Lasanthi join Hunters and Company Board
-
-*2024-11-20 06:01:19* · [`dailyftlk`](https://www.ft.lk/business/Kumar-Lasanthi-join-Hunters-and-Company-Board/34-769436) · `en`
-
-Top professionals Kumar Samarasinghe and Lasanthi Fernando have joined the Hunters and Company PLC Board as Independent Non-Executive Directors.
-
-Samarasinghe is a seasoned Marketing and Management Consultant with over 35 years of extensive experience in marketing, sales, and human resource development management. He has held various leadership positions, including serving as the Marketing and Sales Director at Singer Sri Lanka PLC, where he played a pivotal role in the company’s growth and success.
-
-As a Board Member of Singer Sri Lanka PLC, Samarasinghe has been instrumental in the development and management of numerous local and international brands in Sri Lanka. He spearheaded sales channel development, consistently driving strong performance over several decades. His expertise also extends to sports marketing, promotions, and sponsorship activities, where he has led impactful initiatives for the company.
-
-...
-
-[Data](articles/50c1097c.json)
-
-[Extended Data](ext_articles/50c1097c.ext.json)
-
----
-
-### Changes at MPI Film Circuit
-
-*2024-11-20 05:58:40* · [`dailyftlk`](https://www.ft.lk/business/Changes-at-MPI-Film-Circuit/34-769435) · `en`
-
-The Commercial High Court of Colombo recently issued an order restraining Nimal Kularatne, Kelum Kularatne and a few others from exercising any rights as Directors of Movie Producers and Importers Company Ltd., also known as ‘MPI Film Circuit’ by order dated 13 November 2024 issued in Case No. HC Civil 78/2024 (CO).
-
-N. Udayakumar and Dr. Arosha Fernando have been nominated as the new Joint Managing Directors of the Film Circuit by the Board of Directors moving forward. There are only five film circuits who have the authority to release local and foreign films in Sri Lanka – MPI Film Circuit, EAP Film Circuit, CEL Film Circuit, LFD Film Circuit which are owned by the private sector, and Rithma Film Circuit owned by the Government under the National Film Corporation.
-
-...
-
-[Data](articles/7730df88.json)
-
----
-
-### Remarkable rise of Anura Kumara Dissanayake in Sri Lankan politics
-
-*2024-11-20 05:57:52* · [`dailyftlk`](https://www.ft.lk/columns/Remarkable-rise-of-Anura-Kumara-Dissanayake-in-Sri-Lankan-politics/4-769434) · `en`
-
-With a two-thirds majority backing him in Parliament, President Anura Kumara Dissanayake has the strength and power to deliver on his election promises and pledges
-
-There is magic in the air! The country is in a festive mood. The toast of the town is a man called Anura Kumara Dissanayake who is the leader of two political parties namely the Janatha Vimukthi Peramuna (JVP) and National People’s Power (NPP). AKD as he is popularly known was the victor in a Presidential election held two months ago. He followed it up last week by spearheading his party to victory in a Parliamentary election.
-
-...
-
-[Data](articles/478e5a46.json)
-
----
-
-### New era of hope  and responsibility
-
-*2024-11-20 05:51:25* · [`dailyftlk`](https://www.ft.lk/columns/New-era-of-hope-and-responsibility/4-769433) · `en`
-
-With 159 seats in Parliament and a two-thirds majority, the NPP has been given an unparalleled mandate to deliver a Government that is clean, transparent, and accountable
-
-The resounding victory of the National People’s Power (NPP) marks the beginning of a new chapter in Sri Lanka’s history. For decades, citizens have watched as promises made by the political elite faded into disappointment. This election is a clear message: the people demand change. With 159 seats in Parliament and a two-thirds majority, the NPP has been given an unparalleled mandate to deliver a Government that is clean, transparent, and accountable.
-
-...
-
-[Data](articles/9fc82c32.json)
-
----
-
-### The people have spoken: Can the NPP transform promises into progress?
-
-*2024-11-20 05:47:51* · [`dailyftlk`](https://www.ft.lk/columns/The-people-have-spoken-Can-the-NPP-transform-promises-into-progress/4-769432) · `en`
-
-It is clear that the electorate is seeking a break from dynastic politics and unaccountable governance in favour of pragmatic solutions and reformist policies – Pic by Shehan Gunasekara
-
-The 2024 Sri Lankan general election marks a potential turning point in the nation’s political trajectory, especially with the National People’s Power (NPP) movement challenging the dominance of established political forces. Led by Anura Kumara Dissanayake, the NPP surged forward as the preferred choice among a populace disillusioned by years of political scandals, economic hardship, and governance failures. This election, unlike previous ones, underscored the prominence of socio-economic concerns over the historical ethnic and religious issues that once polarised Sri Lankan voters.
-
-...
-
-[Data](articles/6e6fa8a7.json)
-
----
-
-### அமெரிக்கா வழங்கிய நீண்டதூர ஏவுகணைகளை பயன்படுத்தியது உக்ரைன் - ரஸ்யா மீது தாக்குதல்
-
-*2024-11-20 05:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199195) · `ta`
-
-அமெரிக்கா வழங்கிய நீண்டதூர ஏவுகணையை பயன்படுத்தி உக்ரைன் ரஸ்யா மீது முதல் தடவை தாக்குதலை மேற்கொண்டுள்ளது.
-
-உக்ரைனின் வடபகுதி எல்லையில் உள்ள பிரையான்ஸ்க் பகுதியை உக்ரைன் இலக்குவைத்துள்ளதாக தெரிவித்துள்ள ரஸ்ய அதிகாரிகள் ஐந்து ஏவுகணைகளை சுட்டு வீழ்த்தியுள்ளதாகவும் ஒன்றின் சிதறல்கள் இராணுவ தளமொன்றின் மீது விழுந்து  வெடித்ததில் சேதங்கள் ஏற்பட்டுள்ளதாகவும் தெரிவித்துள்ளது.
-
-எனினும் உக்ரைன் செலுத்திய எட்டு ஏவுகணைகளில் இரண்டை ரஸ்யா இடைமறித்து அழித்துள்ளதாக தெரிகின்றது என அமெரிக்க அதிகாரிகள் தெரிவித்துள்ளனர்.
-
-◼️
-
-[Data](articles/8c885eee.json)
-
----
-
-### Ministers the country is blessed with
-
-*2024-11-20 05:43:00* · [`dailyftlk`](https://www.ft.lk/columns/Ministers-the-country-is-blessed-with/4-769430) · `en`
-
-The question ‘who is eligible to be appointed as a Minister?’ is unanswerable
-
-“There are twenty five positions of Cabinet Ministers fallen vacant in the Democratic Socialist Republic of Sri Lanka. Those who are below the age of 60 years with an unblemished character and possessing the qualifications and experience appearing in the Government Gazette are requested to forward their applications for these positions.
-
-...
-
-[Data](articles/6e9ba583.json)
-
----
 
 ### Purge of human jobs: How to profit from AI disruption
 
@@ -2285,5 +1983,499 @@ Jayatissa is a medical practitioner by profession and was in the parliament from
 [Data](articles/9eb2d626.json)
 
 [Extended Data](ext_articles/9eb2d626.ext.json)
+
+---
+
+### To benefit from the coin to New Zealand - 5 changes from Sri Lanka
+
+*2024-11-19 14:07:56* · [`adalk`](https://www.ada.lk/sports/කාසියේ-වාසිය-නවසීලන්තයට---ශ්‍රී-ලංකාවෙන්-වෙනස්කම්-05ක්/9-413142) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New Zealand won toss, third ODI vs Sri Lanka. Charith led team with 05 players. Match details:
+
+🟩
+
+New Zealand team won the toss and win the third and final ODI match between the Sri Lanka Tourist Team and Sri Lanka.
+
+Leader Charith said that 05 Sri Lanka's faction was conducted in this match.
+
+◼️
+
+[Data](articles/8c56069d.json)
+
+[Extended Data](ext_articles/8c56069d.ext.json)
+
+---
+
+### Non-academic staff at Ruhuna University on strike
+
+*2024-11-19 14:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203532) · `si`
+
+Ruhuna University non-academic staff strike update:
+
+🟩
+
+The non-academic staff of the University of Ruhuna has launched a strike.
+
+Dhammika Sama of Co-operation of the University Trade Union Joint Committee. Priyantha said that they were engaged in this strike today.
+
+The non-academic staff has launched the Vice Chancellor of the University of Ruhuna.
+
+It is also reported that university students have also supported the strike.
+
+However, Sama Chairman Dhammika S.priyantha said that the strike is to be held regarding the strike at 4.30 pm.
+
+◼️
+
+[Data](articles/b1497e5b.json)
+
+[Extended Data](ext_articles/b1497e5b.ext.json)
+
+---
+
+### New Zealand to benefit the coin
+
+*2024-11-19 14:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203531) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+New Zealand wins coin toss, bats first in Sri Lanka vs NZ cricket match at Pallekele International Cricket Ground today.
+
+🟩
+
+Sri Lanka and New Zealand International match between New Zealand will be held today at the Pallekele International Cricket Ground in Kandy today (19).
+
+The New Zealand team, which won the coin, decided to bat first.
+
+Nishan Madushka, Anthem Fernando, Charith Shiralization, Charith Wickremasinghe, Mohammad Shiz, Mohammed Shiraz, Dilshan
+
+Michael Santnor, Michael Briswell, Josh Clarks, Glenry Dufi, Sudi, Sudi, Sudi, Duj Simph
+
+◼️
+
+[Data](articles/854ddc70.json)
+
+[Extended Data](ext_articles/854ddc70.ext.json)
+
+---
+
+### President should take up corrupt political whales - Bhakiyasothi Saravanamuttu
+
+*2024-11-19 13:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/199147) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Sri Lanka's President faces challenges balancing India-China relations, addressing corruption, and resolving economic crises. He aims to work within IMF structures and provide subsidies, but tackling corruption remains a key promise unfulfilled.
+
+🟩
+
+President Anuragumaratisanayake has stressed the need to maintain balance in Indian Chinese relations with the Executive Director of the Replacement Policy Center.
+
+In an interview with Al Jazeera, he warned that when there was no evidence against those involved in the corruption, the government was in danger of landing in illegal proceedings against them.
+
+Is the parliamentary election revealed that the president will find a solution to the economic development crises of Sri Lanka?Does the President have answers to this?
+
+Answer- I cannot say for sure that he will have all the answers. But I hope he will definitely try
+
+IMPORTANT- Working within the structure of the International Monetary Fund is to restore us from the economic crisis.
+
+The President also talks about providing many subsidies.
+
+It is only for him to see if he can do it under the International Monetary Agreement. They are coming to Sri Lanka.
+
+...
+
+[Data](articles/1d7c4c43.json)
+
+[Extended Data](ext_articles/1d7c4c43.ext.json)
+
+---
+
+### The cause of fertilizer subsidy delay reveals
+
+*2024-11-19 13:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203530) · `si`
+
+Fertilizer subsidy delay causes: computer system fault, investigation underway, funds allocated but not received by farmers, government committed to immediate release, 20+ days past start date, first phase complete, water supply issues affecting distribution.
+
+🟩
+
+The Ministry of Agriculture says that it is delayed due to the faulty of the computer system.
+
+According to the Ministry of Agriculture, a group of officers have been sent to the Secretary to the Ministry of Agriculture today (19) to look into the matter.
+
+The Ministry of Agriculture stated that the fertilizer subsidy money has already been taken to release the farmers' bank accounts.
+
+However, the farmers have stated that the money has not received the money yet yesterdaywhere, the farmers said.
+
+Meanwhile, MP Rohida Kaviratne has issued a statement and refer to fertilizer subsidy money scheduled to be given to the farmers immediately.
+
+Ada Derana was inquired from the Ministry of Agriculture, and they stated that steps have been taken to release the money to farmers' accounts.
+
+The government provides a fertilizer subsidy of Rs. 25,000 each to obtain fertilizer required for paddy cultivation.
+
+...
+
+[Data](articles/cc481219.json)
+
+[Extended Data](ext_articles/cc481219.ext.json)
+
+---
+
+### Kanchana's name proposal
+
+*2024-11-19 13:43:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காஞ்சனவின்-பெயர்-முன்மொழிவு/175-347436) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Kanchana: Ravi Karunanayake proposed for National List seat in New Democratic Front. Kanjana Wijesekara suggested for remaining slot. Party leaders met; Dinesh Gunawardena absent.
+
+🟩
+
+Ravi Karunanayake's name has been proposed for the post of National List of the New Democratic Front.
+
+In this context, the idea of ​​appointment of former Power Minister Kanjana Wijeshekara has been proposed to appoint the remaining National List Member of Parliament.
+
+A meeting of party leaders of the new Democratic Party was held today (19) and the idea was presented at the meeting and it was reported that former Prime Minister Dinesh Gunawardena did not attend the meeting.
+
+◼️
+
+[Data](articles/b9e12389.json)
+
+[Extended Data](ext_articles/b9e12389.ext.json)
+
+---
+
+### United People's Power in the severe crisis
+
+*2024-11-19 13:41:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடும்-நெருக்கடியில்-ஐக்கிய-மக்கள்-சக்தி/175-347435) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Severe crisis in United People's Power National List appointments. Proposed candidates: Ranjith Mathuma Bandara, Imtiaz Pakir Markar, Dullas Aberuma, GL Peiris, Sujeewa Senasinghe. Alternative group suggests including Eran Wickramaratne and Mano Ganesan. Disagreement over seat allocation within the party.
+
+🟩
+
+It has been reported that there is a severe crisis in the appointment of members to the United People's Power National List.
+
+The party's national list has been proposed to appoint Ranjith Mathuma Bandara, Imtiaz Pakir Markar, Dullas Aberuma, GL Peiris and Sujeewa Senasinghe.
+
+However, it has been reported that another group has said that the seats should be included in many others including Eran Wickramaratne and Mano Ganesan.
+
+◼️
+
+[Data](articles/b36316c6.json)
+
+[Extended Data](ext_articles/b36316c6.ext.json)
+
+---
+
+### Order to submit Lohan's Medical Report
+
+*2024-11-19 13:26:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/லொஹானின்-வைத்திய-அறிக்கையை-சமர்ப்பிக்க-உத்தரவு/175-347434) · `ta`
+
+Court orders medical report for Lohan Ratwatta, detained over unregistered luxury vehicle case. Report due Nov 29, hearing Dec 9.
+
+🟩
+
+The Court of Appeal today ordered the hospital authorities to submit a report on the health condition of former Minister of State Lohan Ratwatta who have been detained in the case of an unrucated luxury vehicle.
+
+Lohan Ratwatta is currently receiving treatment at the Colombo General Hospital, the court said.
+
+Former Attorney Sanjay Rajaratnam, appearing on behalf of Lohan Ratwatta, sought support for the writ application for interim relief.
+
+However, Deputy Solicitor General Shanil, who appeared on behalf of the Attorney General, said that Gularatne should present objections and filed objections against the petition.
+
+Considering the facts, the court ordered the Attorney General to file limited objections by November 29.
+
+The two -judge bench comprising Justice Nissanka Bandula Karunaratne and Justice Shashi Mahendran will take up the writ petition on December 9.
+
+...
+
+[Data](articles/e184f3a4.json)
+
+[Extended Data](ext_articles/e184f3a4.ext.json)
+
+---
+
+### Sri Lanka IMF review talks kick-off to cut personal tax, maintain revenues
+
+*2024-11-19 13:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-imf-review-talks-kick-off-to-cut-personal-tax-maintain-revenues-188693/) · `en`
+
+ECONOMYNEXT – Sri Lanka has begun talks with the International Monetary Fund to craft a new staff level agreement to pass the next review of its program and maintain it through 2025.
+
+A staff level agreement with a budget according to its parameters is required to pass the next review.
+
+The government of President Anura Dissanayake had expressed the readiness to work with the IMF “to advance Sri Lanka’s economic recovery within the context of the mandate,” saying that the success of the IMF program hinges on rebuilding public trust in governance”.
+
+The NPP has said that it wants to increase the threshold of income tax to 200,000 rupees from the current 100,000 rupees a month and also bring down VAT on some medical implements.
+
+The IMF program generally requires Sri Lanka’s government revenues to be raised to 15 percent of gross domestic product.
+
+Key legislative reforms of the IMF program have already been passed.
+
+...
+
+[Data](articles/13f69023.json)
+
+[Extended Data](ext_articles/13f69023.ext.json)
+
+---
+
+### Gas cylinder fire - Safety to Ravi's house
+
+*2024-11-19 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203529) · `si`
+
+Here's a 200-character summary:
+
+
+
+Gas cylinder fire near Ravi's house. New Democratic Front faces internal crisis over National List nominations. Party names listed without approval. Former President Ranil Wickremesinghe involved in discussions. Ravi Karunanayake protects house in Colombo. No National List MP named yet.
+
+🟩
+
+The nomination of the members for the National Listing Committee of the New Democratic Front and the National List of Power have been kept up to an internal crisis.
+
+That was because a large number of people willing to represent the number of remaining seats.
+
+New Democratic Front from the National Democratic Front took 2 seats and 5 seats in harmony.
+
+In addition, the name of the New Democratic Front was declared a national listing of the New Democratic Front yesterday (18) without the approval of the party.
+
+Representatives of the National List MPs in the past general election have been crisis in the New Democratic Front and the reconciliation of the Gas Cylinder.
+
+The crisis was intensifying yesterday with writing the name of the party General Secretary Shyamla Perera to a national listing of the New Democratic Front yesterday.
+
+...
+
+[Data](articles/85a79a89.json)
+
+[Extended Data](ext_articles/85a79a89.ext.json)
+
+---
+
+### Ambika Samuel doubles Malayaha representation in Sri Lanka’s parliament
+
+*2024-11-19 13:00:00* · [`economynextcom`](https://economynext.com/ambika-samuel-doubles-malayaha-representation-in-sri-lankas-parliament-188487/) · `en`
+
+ECONOMYNEXT – Ambika Samuel, the first Malayaha woman to secure a seat in Sri Lanka’s parliamentary election, says others from her community will follow.
+
+“I am the first to enter politics from here, and my brothers and sisters will undoubtedly follow,” Samuel told reporters.
+
+Samuel was elected to the parliament at the general election held on November 14 from the Badulla district representing the National People’s Power party.
+
+She is the daughter of plantation worker parents, and has been a grassroot level social activist.
+
+“I studied political science for A/Level and was fascinated by Marxism, and I realised what we studied in school and what was practiced in other countries were two different things,” she told an interviewer ahead of the election.
+
+“I was drawn to politics because I wanted to do something for my community. But people like me found it hard to enter politics because there are already established persons from our community.”
+
+...
+
+[Data](articles/e4c8f310.json)
+
+[Extended Data](ext_articles/e4c8f310.ext.json)
+
+---
+
+### Educational and non -academic associations at Ruhunu University
+
+*2024-11-19 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199139) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Ruhunu University academic/non-academic staff protest against Vice Chancellor Sujeewa Amarasena. Demonstrators march near main entrance demanding removal.
+
+🟩
+
+The academic and non -academic associations at the University of Ruhunu have been working on Tuesday (19) from 9.00 am.
+
+The work has been carried out demanding the removal of Professor Sujeewa Amarasena, Vice Chancellor of Ruhunu University.
+
+It is reported that the academic and non -academic associations are currently marching near the main entrance of the Ruhunu University.
+
+◼️
+
+[Data](articles/793af007.json)
+
+[Extended Data](ext_articles/793af007.ext.json)
+
+---
+
+### 8 foreigners arrested without visa
+
+*2024-11-19 12:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203528) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+8 foreigners arrested in Katunayake without visas. Police raided a tourist hotel in Aadiwambalama area. Suspects are Bangladeshi nationals aged 20-30.
+
+🟩
+
+Eight foreign nationals have been arrested in the Auddimbalama area in Katunayake, without visa.
+
+Police said that the suspects were arrested following a raid carried out by a group of foreigners in a tourist hotel in Aadiwambalama area.
+
+It is also said that the suspects are Bangladeshi nationals between 20 and 30 years old.
+
+◼️
+
+[Data](articles/abf8a634.json)
+
+[Extended Data](ext_articles/abf8a634.ext.json)
+
+---
+
+### Special Events around the World
+
+*2024-11-19 12:41:07* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c78dr28r0e4o) · `si`
+
+Here's a summary of approximately 200 characters:
+
+
+
+Special events around the world revolve around full moons, influencing cultures & traditions. Supermoons occur 3-4 times annually. Full moons shape calendars, harvest festivals, and religious observances globally. Lunar cycles affect human behavior, agriculture, and ocean tides.
+
+🟩
+
+Approximately every 29 days every 29 days is directly positioned and the light rays released on the back of the moon and illuminate the moon.
+
+The full moon we saw last Friday last Friday will be 14% more than the average and 30% more than the average and 30% more than 30% more than a "super moon".
+
+The moon is known as a super moon three times a year or four times a year and it will continue to appear.
+
+The full moon has played an important role in shaping the worldwide cultures and traditions. This is an inquiry on several myths, activities, and meaningfulness that will take place in this phenomenon.
+
+The moon's journey is used from the primary age to determine its condoms, the core.
+
+Let us take the 'Ishajawo bone found in 1957 from the Democratic Republic of Modern Congo.
+
+This bone is often believed to have been obtained from a baboon animal that the bone is over 20,000 years old. It is believed to be the original form of the calendar.
+
+...
+
+[Data](articles/3a4f4cb7.json)
+
+[Extended Data](ext_articles/3a4f4cb7.ext.json)
+
+---
+
+### Is the gun used by the LTTE's main commanders?
+
+*2024-11-19 12:37:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலிகளின்-முக்கிய-தளபதிகள்-பாவித்த-துப்பாக்கியா/175-347431) · `ta`
+
+N
+
+🟩
+
+Further investigations have been carried out at a number of angles to a former soldier arrested with handguns and 143 bullets.
+
+The man who was arrested on the evening of 17.11.2024 was handed over to the Iginiyagala police in the area of ​​Vavinna Paragahale in Ampara.
+
+According to the confidential information received by the Special Task Force Intelligence Unit of the Ampara, the suspect was arrested in a home in the Wanina Paragahale area of ​​the Ikiniyagala police division.
+
+The suspect is a 51 -year -old retired Army Special Former Army Specialist and 9 MM gun and 143 bullets have been found in his home land.
+
+Did the Sandaneka person take the gun from the northern part of the war?Or is it a gun used by the LTTE's main commanders?Or is it obtained from the military barn road?Or was it brought and concealed for various crime?Further investigations are underway at various angles.
+
+...
+
+[Data](articles/98ac3586.json)
+
+[Extended Data](ext_articles/98ac3586.ext.json)
+
+---
+
+### Sri Lankan students in the United States increase by 10 percent:
+
+*2024-11-19 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/199140) · `ta`
+
+Here's a 200-character summary:
+
+
+
+Sri Lankan students in US universities increase 10%: Strong educational ties between nations. US remains top destination for higher education globally.
+
+🟩
+
+The Open Doers report has revealed that Sri Lankan students in the United States have increased by 10 percent and strengthening educational relations.
+
+The US Embassy has released the publication of the Open Doors Report on 2024.
+
+In the academic year 2023-2024, the number of Sri Lankan students studying in universities in the United States increased by 10 percent. The US embassy noted that it is a developing good news of Sri Lankan students seeking world -class education and highlighting the strong educational ties between the two countries.
+
+Celebrating the 75th anniversary of diplomatic relations between Sri Lanka and the United States. This year's report reveals that the US welcomed 1.12 million international students from over 210 countries and territories of the world. This confirms America as the leading place for higher education. In addition, this year is celebrated in the 25th year of the Global Education Advisory Network in the name of Educationusa.
+
+...
+
+[Data](articles/714e9ed3.json)
+
+[Extended Data](ext_articles/714e9ed3.ext.json)
+
+---
+
+### Live footage of a terrible landslide is a range of -cctv
+
+*2024-11-19 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203527) · `si`
+
+Landslide blocks Passara-Bibile main road; police advise alternative routes. CCTV captures damage to three-wheelers and road obstruction. Soil and rock removal underway.
+
+🟩
+
+The landslide and soil removal of the landslides in the Passara - Bibile main road is being carried out due to landslides in the 13th Post area.
+
+As a result, the police are informed to use alternative routes to drivers traveling along the road.
+
+Meanwhile, the landslide was noted at a safe camera mounted in a shop.
+
+There was a landslide in the 13th post of the PACEERA - Bibile main road.
+
+Three-wheelers were also damaged by the landslide and was also damaged.
+
+The march tradition of the 13th Post area of ​​the main road was blocked by large stones on the road to landslide.
+
+According to our correspondent, the removal of soil and rock falls on the road is already underway.
+
+◼️
+
+[Data](articles/54b7a67e.json)
+
+[Extended Data](ext_articles/54b7a67e.ext.json)
+
+---
+
+### Ravi Karunanayake's home security
+
+*2024-11-19 12:15:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/ரவி-கருணாநாயக்கவின்-வீட்டுக்கு-பாதுகாப்பு/52-347430) · `ta`
+
+Here's a summary of Ravi Karunanayake's home security in 200 characters:
+
+
+
+Ravi Karunanayake's residence enhanced security measures implemented due to intense political controversy surrounding his national seat.
+
+🟩
+
+Ravi Karunanayake's house has been strengthened after the issue of national seat has been heated.
+
+◼️
+
+[Data](articles/5e3eb5e1.json)
+
+[Extended Data](ext_articles/5e3eb5e1.ext.json)
 
 ---

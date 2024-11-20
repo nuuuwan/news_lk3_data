@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 02:25:37**
+As of **2024-11-21 02:00:44**
 
 ## Newspaper Stats
 
-*Scraped **56,022** Articles*
+*Scraped **56,013** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
 dbsjeyarajcom | 433
-colombotelegraphcom | 574
+colombotelegraphcom | 573
 bbccomsinhala | 579
 islandlk | 3,347
 economynextcom | 3,397
-dailyftlk | 3,840
+dailyftlk | 3,832
 dailymirrorlk | 4,733
 adalk | 5,272
 adaderanalk | 6,764
@@ -26,183 +26,27 @@ adaderanasinhalalk | 9,679
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,017 (100.0%) of 56,022 articles have been extended.
+56,012 (100.0%) of 56,013 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
 
-### Rubber Traders’ congratulates NPP; new Plantation and Community Infrastructure Minister
-
-*2024-11-21 02:16:43* · [`dailyftlk`](https://www.ft.lk/business/Rubber-Traders-congratulates-NPP-new-Plantation-and-Community-Infrastructure-Minister/34-769490) · `en`
-
-The Colombo Rubber Traders’ Association (CRTA) this week extended its heartfelt congratulations to the National People’s Power (NPP) on their recent victory and welcomed Samantha Vidyarathna as the newly appointed Minister of Plantation and Community Infrastructure.
-
-CRTA Chairman Harin de Silva in a statement, expressed his confidence in the Minister’s ability to steer the plantation sector toward a prosperous future.
-
-“The CRTA is committed to supporting the Government’s initiatives under Minister Vidyarathna’s leadership to address the challenges faced by the natural rubber industry. Together, we aim to enhance sustainability, improve livelihoods, and strengthen Sri Lanka’s position in the global market,” de Silva said.
-
-...
-
-[Data](articles/62864d3f.json)
-
----
-
-### Dr. Chamara Bandara appointed to Nawaloka Hospitals Board
-
-*2024-11-21 02:16:27* · [`dailyftlk`](https://www.ft.lk/business/Dr-Chamara-Bandara-appointed-to-Nawaloka-Hospitals-Board/34-769489) · `en`
-
-Nawaloka Hospitals PLC has announced the appointment of Dr. Chamara Bandara as an Independent Non-Executive Director of its Board.
-
-Dr. Bandara is the holder of a PhD in Business Management from the Management and Science University, Malaysia and a Master of Business Administration from the University of Southern Queensland, Australia. He is the founder of SCB Corporate (Accounting Globally), Corporate Doctors Ltd., and Berry Technology Ltd. Before founding the above, he gained experience across various industries including building construction and engineering, hospitality, and garments.
-
-Dr. Bandara is the current Vice President of AAT Sri Lanka and serves as an independent director of Kapruka Holdings PLC. He was the former Country Representative of Faster Capital Global Incubator and a former Council Member of the Rajarata University of Sri Lanka.
-
-...
-
-[Data](articles/b4f5cd3d.json)
-
----
-
-### Sri Lankan winners shine at 14th Top50 Global Awards 2024
-
-*2024-11-21 02:08:16* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lankan-winners-shine-at-14th-Top50-Global-Awards-2024/34-769483) · `en`
-
-The Top50 Professional and Career Women Global Awards 2024, organised by Women in Management (WIM), took centre stage in Kuala Lumpur, Malaysia, on 7 November, celebrating the extraordinary achievements of women leaders from 23 countries.
-
-This landmark event recognised the contributions of women across industries, showcasing the impact of their work on both society and the global economy.
-
-As a Sri Lankan-born initiative, the Top50 Awards has grown into a global brand over the past 14 years, with this year’s event marking the launch of its first global edition in Malaysia. The awards drew 298 nominations from 29 countries, highlighting the widespread trust and recognition the Top50 brand enjoys.
-
-...
-
-[Data](articles/f2dc20a7.json)
-
----
-
-### Women’s Chamber of Industry and Commerce congratulates NPP Govt.
-
-*2024-11-21 02:06:28* · [`dailyftlk`](https://www.ft.lk/business/Women-s-Chamber-of-Industry-and-Commerce-congratulates-NPP-Govt/34-769482) · `en`
-
-The Women’s Chamber of Industry and Commerce (WCIC) yesterday extended its heartfelt congratulations to the newly elected Government of Sri Lanka.
-
-“The success achieved in the 10th Parliament is a truly momentous milestone.
-
-We are particularly delighted to witness the largest representation of women in Parliament in Sri Lanka’s history. This achievement is not only a victory for women but also a testament to the progress of democracy and inclusivity in our nation,” WCIC said in a statement. “The unique perspectives and invaluable experiences women bring to governance will undoubtedly enrich policymaking and contribute to addressing the diverse needs and aspirations of our country,” it added.
-
-WCIC said as an organisation dedicated to empowering women in business, entrepreneurship, and leadership, it eagerly looks forward to collaborating with the Government to foster a more inclusive, equitable, and prosperous environment for women across all sectors.
-
-...
-
-[Data](articles/7a8696b8.json)
-
----
-
-### Ranil appoints committee  to probe Ravi K.’s controversial National List appointment
-
-*2024-11-21 02:05:47* · [`dailyftlk`](https://www.ft.lk/news/Ranil-appoints-committee-to-probe-Ravi-K-s-controversial-National-List-appointment/56-769481) · `en`
-
-A four-member committee has been appointed to investigate the appointment of United National Party (UNP) Assistant Leader Ravi Karunanayake to one of the two National List slots allocated to the National Democratic Front (NDF).
-
-The committee, composed of Counsels Kumar Dunusinghe, Indika Weragoda, Yasas de Silva, and Prof. Vithanage, has been instructed to submit its findings within three weeks to NDF and UNP leader Ranil Wickremesinghe.
-
-The controversy arose after the NDF, which secured three Parliamentary seats and two National List slots following the 2024 Parliamentary Election, prematurely submitted Karunanayake’s name to the Election Commission of Sri Lanka to fill one of the National List seats. This move bypassed a collective decision-making process involving all alliance partners, sparking dissent.
-
-...
-
-[Data](articles/68e1892e.json)
-
----
-
-### Prof. Anil Jayantha Fernando assumes duties as Minister of Labour
-
-*2024-11-21 02:04:05* · [`dailyftlk`](https://www.ft.lk/news/Prof-Anil-Jayantha-Fernando-assumes-duties-as-Minister-of-Labour/56-769480) · `en`
-
-Prof. Anil Jayantha Fernando officially assumed his responsibilities as the new Minister of Labour yesterday at the Ministry premises.
-
-Addressing Ministry staff during an introductory meeting, he emphasised his commitment to align his work and decisions with the political vision and electoral manifesto of the Government led by the National People’s Power (NPP).
-
-Minister Prof. Fernando assured staff members that while the Ministry operates under the NPP’s mandate, they are free to hold their own political views and beliefs.
-
-“You are not required to agree with the ideology of the NPP,” he said, “but the focus must remain on working towards the goals outlined in the electoral mandate entrusted to us.”
-
-He highlighted the critical role of the Ministry in addressing labour-related matters and emphasised the interconnected nature of Ministry staff and workers. “Ministry staff and workers are fundamentally the same; both are integral parts of the labour force we serve and represent,” he said.
-
-...
-
-[Data](articles/8ce2e265.json)
-
-[Extended Data](ext_articles/8ce2e265.ext.json)
-
----
-
-### Orientation program for new MPs next week
-
-*2024-11-21 02:03:14* · [`dailyftlk`](https://www.ft.lk/news/Orientation-program-for-new-MPs-next-week/56-769479) · `en`
-
-An orientation program for newly elected Members of Parliament will be held in Committee Room No. 01 of Parliament on 25, 26, and 27 November from 9:30 a.m. to 4:30 p.m.
-
-This program has been organised this time as well, as it is traditionally done at the beginning of a new Parliament.
-
-The Prime Minister, the Speaker, the Deputy Speaker, the Deputy Chairperson of Committees, the Chief Government Whip, Members of Parliament, the Secretary General of Parliament, the Deputy Secretary General, the Assistant Secretary General, and officials are scheduled to participate in this event.
-
-During this three-day program, necessary arrangements have been made to educate Members of Parliament with regard to the role and responsibilities of a Member of Parliament, Parliamentary Privileges, Legislative Process in Parliament, Parliamentary Committee System, Standing Orders of Parliament, and the provisions of the Constitution.
-
-...
-
-[Data](articles/83e7ae2b.json)
-
-[Extended Data](ext_articles/83e7ae2b.ext.json)
-
----
-
-### Two Lankan companies at Paperworld and Gifts and Lifestyle Middle East 2024
-
-*2024-11-21 01:49:51* · [`dailyftlk`](https://www.ft.lk/business/Two-Lankan-companies-at-Paperworld-and-Gifts-and-Lifestyle-Middle-East-2024/34-769470) · `en`
-
-Two Sri Lankan companies participated at the Paperworld and Gifts and Lifestyle Middle East 2024 which concluded recently at the Dubai World Trade Centre.
-
-Among the diverse exhibitors, Atlas Axillia and Javana Graphics, a leading brand from Sri Lanka, made a notable presence at Paperworld Middle East, representing Sri Lanka’s growing strength in the international paper, stationery, and lifestyle markets. The company’s participation highlighted its commitment to expanding its international presence and fostering business partnerships in the region.
-
-The event marked another successful year for the co-located events.
-
-Attracting over 12,000 visitors from over 100 countries, this year’s edition showcased the global reach and importance of the region’s premier trade fair for paper, stationery, gifting, and lifestyle products.
-
-...
-
-[Data](articles/575b28a0.json)
-
-[Extended Data](ext_articles/575b28a0.ext.json)
-
----
-
-### Governor of the Eastern Province Prof. Jayantha Lal Ratnasekara and Ambassador of the Chinese People's Republic Kei Senhong
+### கிழக்கு மாகாண ஆளுநர் பேராசிரியர் ஜயந்த லால் ரத்னசேகர மற்றும் சீன மக்கள் குடியரசின் தூதுவர் கீய் சென்ஹோங் அவர்களுக்கிடையிலான சந்திப்பு
 
 *2024-11-21 01:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199279) · `ta`
 
-Here's a summary of 200 characters:
+கிழக்கு மாகாண ஆளுநர் பேராசிரியர் ஜயந்த லால் ரத்னசேகர மற்றும் சீன மக்கள் குடியரசின் தூதுவர் கீய் சென்ஹோங் (Qi Zhenhong) அவர்களுக்கிடையிலான கலந்துரையாடல் புதன்கிழமை (20) திருகோணமலை ஆளுநர் அலுவலகத்தில் இடம்பெற்றது.
 
+கடந்த 18ஆம் திகதி கொழும்பில் உள்ள சீனத் தூதரகத்தில் உள்ள தூதுவரைச் சந்தித்த ஆளுநர் விடுத்த அழைப்பை ஏற்று கீய் ஜென்ஹோங் கிழக்கு மாகாணத்திற்கு விஜயம் செய்தார்.
 
+கிழக்கு மாகாணம் உட்பட இலங்கைக்கு சிறந்த எதிர்காலத்தை உருவாக்குவதற்கு புதிய அரசாங்கமும், கௌரவ ஜனாதிபதி அனுரகுமார திஸாநாயக்க உள்ளிட்ட கிழக்கு மாகாண ஆளுநரும் கடுமையாக உழைப்பார்கள் என தாம் உறுதியாக நம்புவதாக சீனத் தூதுவர் தெரிவித்தார்.
 
-Eastern Province Governor Jayantha Lal Ratnasekara met Chinese Ambassador Kei Senhong in Trincomalee. They discussed cooperation between Sri Lanka's Eastern Province and China's Yunnan Province. The Chinese government offered technical assistance and support. Both sides agreed to strengthen ties and share knowledge in various sectors.
-
-🟩
-
-The discussion between the Governor of the Eastern Province, Professor Jayantha Lal Ratnasekara and the Ambassador to the Republic of China, Ki Zhenhong, took place on Wednesday (20) at the Governor's Office in Trincomalee.
-
-On the 18th, Kei Jenhong visited the Eastern Province and accepted the invitation of the Governor at the Chinese embassy in Colombo.
-
-The Chinese Ambassador said that he was confident that the new government, including the Eastern Province, and the Governor of the Eastern Province, including Hon. President Anura Kumara Dissanayake, would work hard.
-
-He added that the Chinese government is ready to support it.
-
-The Ambassador noted that the Chinese government had already provided the technical assistance of the Chinese factory in the Ampara Hinger Factory in the Eastern Province.He also said that the Knowledge will be shared in various sectors between China's Yunnan Province and the Eastern Province of Sri Lanka.
+அதற்குத் தேவையான ஆதரவை வழங்க சீன அரசாங்கம் தயாராக இருப்பதாக மேலும் தெரிவித்தார்.
 
 ...
 
 [Data](articles/43395248.json)
-
-[Extended Data](ext_articles/43395248.ext.json)
 
 ---
 
@@ -885,20 +729,6 @@ He added that it is very important to maintain national security, regardless of 
 [Data](articles/6ce687e7.json)
 
 [Extended Data](ext_articles/6ce687e7.ext.json)
-
----
-
-### Digital Nomads & The New Travel Economy: How Remote Work Is Changing Tourism
-
-*2024-11-20 19:06:25* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/digital-nomads-the-new-travel-economy-how-remote-work-is-changing-tourism/) · `en`
-
-The rise of remote work has fundamentally transformed the traditional workplace, and with it, the tourism industry. This shift has given birth to a new class of travellers: digital nomads. Digital nomads – professionals who work remotely while traveling – have redefined the concept of work-life balance, blending work with exploration in new and exotic locations. Their lifestyle has reshaped local economies, tourism infrastructures, and even social dynamics in many destinations worldwide. This article explores the rise of digital nomads, their impact on the travel economy, and the challenges and opportunities they present for the tourism industry.
-
-...
-
-[Data](articles/c5ead881.json)
-
-[Extended Data](ext_articles/c5ead881.ext.json)
 
 ---
 
@@ -2483,5 +2313,245 @@ The Criminal Investigation Department has a statement regarding the V8.
 [Data](articles/57425c9b.json)
 
 [Extended Data](ext_articles/57425c9b.ext.json)
+
+---
+
+### Farming at a JPP meeting: The death penalty imposed on Julampitiye Amare
+
+*2024-11-20 11:44:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c9ql3e30lq9o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Death penalty confirmed for Julampitiye Amare by Tangalle High Court for 2012 murders. Appeal rejected by Court of Appeal. Judge denied defendant's evidence claims.
+
+🟩
+
+Farming at a JPP meeting: The death penalty imposed on Julampitiye Amare
+
+The December 20, the December 20 (November 20) has confirmed the death penalty for GG Amaraseiri.
+
+It was confirmed by the Tangalle High Court by killing two people who were killed and killed by the JVP in 2012.
+
+Justice P. The Court of Appeal was given by the Court of Abeykoon with the agreement with Kumaran Ratnam.
+
+The case was filed by the Tangalle High Court against Julampitiye Amare against another injuries in Katuwana.
+
+Julampitiye Amare was sentenced to death by the Tangalle High Court.
+
+Julampitiye Amare offered a appeal to the Court of Appeal to seek to acquit and release him from that punishment.
+
+The defendant said that the judge did not consider the evidence presented by the defendant at the High Courts.
+
+Accordingly, the accused had sought to acquit and release them from the accusations.
+
+...
+
+[Data](articles/ea6745c5.json)
+
+[Extended Data](ext_articles/ea6745c5.ext.json)
+
+---
+
+### சுகத் பார்வைத் திறனை இழந்தது எப்படி?
+
+*2024-11-20 11:40:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகத்-பார்வைத்-திறனை-இழந்தது-எப்படி/175-347492) · `ta`
+
+Sri Lankan MP Sukat Wasantha de Silva lost vision after being hit by a cricket ball at age 11. He advises seeking immediate medical help for eye injuries, warning that neglecting such wounds can lead to permanent visual impairment.
+
+🟩
+
+Sukat Wasantha de Silva, a Sri Lankan first -seeker parliamentarian, has asked the public to seek medical help in the event of any injury in the eye.
+
+ஊடகங்களுக்கு அளித்த பேட்டியின் போது ,11 வயதில் கிரிக்கெட் விளையாடும்போது கிரிக்கெட் பந்து கண்ணில் தாக்கியதில் தனது ஒரு கண்ணில் காயம் ஏற்பட்டது என, ​​தனது கண்ணில் ஏற்பட்ட காயத்தின் பின்னணியில் உள்ள கதையை, பொதுமக்களுக்கு ஒரு படிப்பினையாக கூற முயன்றார்.
+
+“The first mistake I made was not to use the hands to catch the ball. The second mistake was that I hid the wound and failed to tell it to my family at the time. Thus I had visually impaired. My advice to the public is to go to the eye hospital immediately. These injuries are able to go long distances, ”he added.
+
+பாராளுமன்ற உறுப்பினர் சுகத் வசந்த டி சில்வா, பார்வைக் குறைபாடுள்ள நபரின் வாழ்க்கை மிகவும் கடினமானது என்றும், இவ்வாறான காயங்கள் புறக்கணிக்கப்பட்டால் இதுபோன்ற நிலையிலிருந்து மீள முடியாது என்றும் எச்சரித்தார்.
+
+...
+
+[Data](articles/0033b64a.json)
+
+[Extended Data](ext_articles/0033b64a.ext.json)
+
+---
+
+### Mahindananda who enjoys freedom
+
+*2024-11-20 11:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203554) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Former MP Mahindananda Aluthgamage appeared at Fort Magistrate's Court today. After concluding his case, he left without commenting to journalists. He stated: "I'm free as a free man... It doesn't make sense to speak to the media..."
+
+🟩
+
+Former Parliamentarian Mahindananda Aluthgamage, for a judicial affair, arrived at the Fort Magistrate's Court today (20).
+
+Mr. Aluthgamage remained journalists when he ended the judicial affair and came out of the place, without answering any quarry.
+
+At that time he said, "I am free of a free person ... doesn't make sense to talk to the media ...".
+
+◼️
+
+[Data](articles/4fa488cc.json)
+
+[Extended Data](ext_articles/4fa488cc.ext.json)
+
+---
+
+### Ruhuna Uni. academic, non-academic and student unions strike continues for second day
+
+*2024-11-20 11:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/103630/ruhuna-uni-academic-non-academic-and-student-unions-strike-continues-for-second-day-) · `en`
+
+The strike action launched by all academic and non-academic trade unions and Students Unions affiliated with the University of Ruhuna yesterday, demanding the immediate removal of the university’s Vice Chancellor, continued second consecutive day today (Nov. 20).
+
+However, a discussion has taken place between the representatives of the relevant trade unions and Prime Minister Harini Amarasuriya last evening (19).
+
+Speaking to the media following the discussion, Co-Chairman of the University Trade Union Joint Committee (UTUJC) Dhammika S. Priyantha stated “since assuming the role of Vice-Chancellor, he has imposed significant pressure on the academic staff, non-academic staff, and students, allegedly pursuing personal vendettas.”
+
+...
+
+[Data](articles/adf0ef9a.json)
+
+[Extended Data](ext_articles/adf0ef9a.ext.json)
+
+---
+
+### Sri Lanka’s Teejay Lanka expands to Egypt
+
+*2024-11-20 11:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-teejay-lanka-expands-to-egypt-188860/) · `en`
+
+ECONOMYNEXT – Sri Lanka fabric manufacturer Teejay Lanka Plc said it will be expanding its business operations in Egypt under a new entity incorporated on Tuesday (19).
+
+“The Company will be expanding its business operations in the Arab Republic of Egypt under a new entity … to engage in manufacturing fabric, manufacturing services and trading activities,” the company said in a stock exchange filing.
+
+Earlier this month, Teejay said there was a “significant shift of orders to the Asian region due to the China One Plus strategy.”
+
+The company’s net profits for the September 2024 quarter fell 20 percent to 756 million rupees, despite the firm getting more orders from China Plus One strategy of companies.
+
+Orders were also shifting to India and Sri Lanka from Bangladesh. (Colombo/Nov20/2024)
+
+◼️
+
+[Data](articles/39da9b5d.json)
+
+[Extended Data](ext_articles/39da9b5d.ext.json)
+
+---
+
+### ’’வர்த்தமானி அறிவித்தலை ரத்து செய்ய முடியாது’’
+
+*2024-11-20 11:23:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வர்த்தமானி-அறிவித்தலை-ரத்து-செய்ய-முடியாது/175-347491) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Controversy surrounds Ravi Karunanayake's appointment as NDF MP. Election Commission claims it acted legally based on party nominations. Gazette notification cannot be cancelled. National Democratic Front challenges the decision.
+
+🟩
+
+The controversy over the appointment of Ravi Karunanayake as the MP of the New Democratic Front (NDF) is beyond the control of the Election Commission.
+
+டெய்லி மிரருக்கு கருத்து தெரிவித்த ஆணைக்குழுவின் தலைவர் ஆர்.எம்.ஏ.எல்.ரத்நாயக்க, தேசிய பட்டியலின் பெயரை உத்தியோகபூர்வமாக சமர்ப்பித்ததன் பின்னர் வர்த்தமானி மூலம் ஆணைக்குழு தனது கடமையை நிறைவேற்றியுள்ளதாக குறிப்பிட்டார்.
+
+“தேசியப் பட்டியலில் உள்வாங்கவேண்டியவர்களின் பெயர்களை  கட்சியின் செயலாளர் உத்தியோகபூர்வமாக கையளித்தவுடன், ஆணைக்குழு அதனை உத்தியோகபூர்வமாகக் கருதி அதன்படி செயற்படுகிறது” என்று அவர் விளக்கினார். கட்சியின் உள்விவகாரங்களில் எமக்கு எந்தத் தொடர்பும் இல்லை எனவும் அவர் மேலும் தெரிவித்தார்.
+
+He added that the gazette notification could not be canceled in any case.
+
+National Democratic Front Secretary Shyamala Perera has written to the Elections Commission on the appointment of Ravi Karunanayake as the MP on the national list.. எனினும், இந்த நியமனம் ஒருமனதாக எடுக்கப்படாததால் சர்ச்சையை கிளப்பியுள்ளது.
+
+◼️
+
+[Data](articles/44730b33.json)
+
+[Extended Data](ext_articles/44730b33.ext.json)
+
+---
+
+### Big salt prices up
+
+*2024-11-20 11:16:25* · [`adalk`](https://www.ada.lk/breaking_news/ලොකු-ලුණු-මිල-ඉහලට/11-413164) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Big onion prices surge due to imports from India, Pakistan, Holland, and Iran. Local production affected by drought. Dealers claim hidden price increases. Foreign salt prices expected to drop soon."
+
+🟩
+
+The bulk buy price of a kilogram of local big onions has risen to Rs.
+
+The businessmen pointed out that the importation of big onions from several countries including India, Pakistan, Hollande, Hocudi, Iran, have led to the increase in the local and foreign big salt prices.
+
+Accordingly, the dealers say that the prices of the local world was held in the Dambulla Economic Center.
+
+Although a large number of farmers have taken advantage of the increase in the price, the people who have purchased the local hidden businessmen have shown that the prices have been increased by hiding the onions.
+
+When contacted and inquired of the onion to marke on the price, they also confirmed that they were taken to sell on the onion and inquired of their onions.
+
+When contacted, the high salt imported from foreign countries from foreign countries, big salt imported from foreign countries was restricted due to the reduction of the production of production.
+
+...
+
+[Data](articles/0c023b13.json)
+
+[Extended Data](ext_articles/0c023b13.ext.json)
+
+---
+
+### Mother, Chey death;Demonstration of the public
+
+*2024-11-20 11:12:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாய்-சேய்-மரணம்-பொதுமக்கள்-ஆர்ப்பாட்டம்/175-347490) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+Mannar hospital protest after young mother Chey's death. Bodies sent to Jaffna for autopsy. Police control situation.
+
+🟩
+
+The bodies of the young mother and Seen, who were admitted to the Mannar General Hospital for delivery, have been sent to the Jaffna Teaching Hospital on Tuesday night for further autopsy.
+
+Jegan Rajasiri, a 28 -year -old young mother from Mannar, Pattiyottam area, has been admitted to the Mannar District General Hospital for delivery.
+
+In this case, there is a tension at the hospital as the public, including relatives and parents, staged a protest at the Maternity Hostel.
+
+Following this, the police arrived at the scene and brought the situation under control and ordered the death of the death of the deceased mother and Seyin to the Jaffna Teaching Hospital for further investigations and further investigations.
+
+◼️
+
+[Data](articles/4bc059d9.json)
+
+[Extended Data](ext_articles/4bc059d9.ext.json)
+
+---
+
+### Poison fog who encountered school children, employees and the people
+
+*2024-11-20 11:11:12* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්-ළමුන්--සේවකයන්-ඇතුළු-ජනතාව-නිවාස-වලට-කොටු-කළ-විෂ-මීදුම/11-413163) · `si`
+
+Toxic fog affects Delhi, India: School closures, remote work orders, health warnings issued due to hazardous air quality.
+
+🟩
+
+With the winter, Delhi in India has affected India.
+
+Accordingly, the toxic united dust smoke is coming along with the fog, and the authorities have informed the people to avoid being outdoors as much as possible.
+
+The state's holidays have been made informed and employed persons have been informed to work from home.
+
+◼️
+
+[Data](articles/52b782a7.json)
+
+[Extended Data](ext_articles/52b782a7.ext.json)
 
 ---

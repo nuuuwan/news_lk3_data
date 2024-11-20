@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 16:59:07**
+As of **2024-11-20 16:41:19**
 
 ## Newspaper Stats
 
-*Scraped **55,954** Articles*
+*Scraped **55,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,53 +20,17 @@ adalk | 5,261
 adaderanalk | 6,756
 tamilmirrorlk | 7,935
 virakesarilk | 9,086
-adaderanasinhalalk | 9,670
+adaderanasinhalalk | 9,668
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,947 (100.0%) of 55,954 articles have been extended.
+55,947 (100.0%) of 55,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
-
-### සහල් මෙට්‍රික්ටොන් 70,000ක් ආනයනය කිරීමට අනුමැතිය
-
-*2024-11-20 16:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203567) · `si`
-
-කෙටිකාලීන සහල් හිඟයට විසඳුමක් ලෙස සහල් මෙට්‍රික්ටොන් 70,000ක් ආනයනය කිරීමට රජය තීරණය කර තිබේ.
-
-සතොස සහ රාජ්‍ය වාණිජ (විවිධ) නීතිගත සංස්ථාව හරහා එම සහල් ආනයනය කරන බව වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන අමාත්‍ය වසන්ත සමරසිංහ මහතා පැවසීය.
-
-ඒ සඳහා අවශ්‍ය කැබිනට් අනුමැතිය ද හිමිවූ බව අමාත්‍යවරයා පැවසීය.
-
-◼️
-
-[Data](articles/114a7cd4.json)
-
----
-
-### රවී කරුණානායක ජාතික ලැයිස්තුවෙන් පත්කිරීම ගැන සේවීමට ස්වාධීන කමිටුවක්
-
-*2024-11-20 16:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203566) · `si`
-
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකෙන් එක් ධුරයක් සඳහා රවී කරුණානායක මහතා ගේ නම මැතිවරණ කොමිසමට යැවීමේ සිද්ධිය සම්බන්ධයෙන් ස්වාධීන පරීක්ෂණයක් පැවැත්වීමට එම පක්ෂය තීරණය කර තිබේ.
-
-ඒ සම්බන්ධයෙන් අද (20) පැවති සාකච්ඡාවේදී රවී කරුණානයක මහතා ජාතික ලැයිස්තුවෙන් අනීතික ලෙස පත්කිරිම සම්බන්ධයෙන් එම සන්ධාන පාර්ශවකරුවන්ගේ විශ්වාසය පලුදු වී ඇති බව ඔවුන් ප්‍රකාශ කර තිබුණි.
-
-එම සාකච්ඡාවේදී එම සිද්ධිය සඳහා ස්වාධින පරීක්ෂණයක් පැවැත්වීම සඳහා තීරණය කර ඇත.
-
-මෙම පරික්ෂණ වාර්තාව සති 3ක් ඇතුළත එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා වෙත භාර දීමට තීරණය විය.
-
-අනතුරුව එම වාර්තාව එක්සත් ජාතික පක්ෂ කෘත්‍යාධිකාරි මණ්ඩලය වෙත ලබා දීමට තීරණය කලේය.
-
-◼️
-
-[Data](articles/5ab9544c.json)
-
----
 
 ### ஒத்திகை...
 
@@ -2359,5 +2323,73 @@ The meeting took place at the Presidential Secretariat yesterday morning, the Pr
 [Data](articles/ab96b1bc.json)
 
 [Extended Data](ext_articles/ab96b1bc.ext.json)
+
+---
+
+### 16 Ministries, PM get new Secretaries
+
+*2024-11-20 04:04:58* · [`dailyftlk`](https://www.ft.lk/news/16-Ministries-PM-get-new-Secretaries/56-769426) · `en`
+
+The appointment of the new Secretary to the Prime Minister, the Cabinet Secretary, and Secretaries for 16 Ministries was held at the Presidential Secretariat yesterday.
+
+The ceremony was officiated by Secretary to the President Dr. Nandika Sanath Kumanayake.
+
+Senior Prof. Kapila C.K. Perera – Secretary to the Ministry of Transport, Highways, Ports and Civil Aviation
+
+K.M.M. Siriwardana – Secretary to the Ministry of Finance, Planning and Economic Development
+
+J.M. Thilaka Jayasundara – Secretary to the Ministry of Industry and Entrepreneurship Development
+
+A.M.P.M.B. Atapattu – Secretary to the Ministry of Buddhasasana, Religious and Cultural Affairs
+
+B.K. Prabath Chandrakeerthi – Secretary to the Ministry of Plantation and Community Infrastructure
+
+D.W.R.B. Seneviratne – Secretary to the Ministry of Public Security and Parliamentary Affairs
+
+U.G. Ranjith Ariyaratne – Secretary to the Minister of Urban Development, Construction and Housing
+
+...
+
+[Data](articles/549d4ee6.json)
+
+[Extended Data](ext_articles/549d4ee6.ext.json)
+
+---
+
+### How was the Parliament broadcast to the greatest women's representation?
+
+*2024-11-20 03:48:47* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd6vld05gj5o) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Sri Lanka's 2020 parliamentary election saw record-breaking women's representation. 22 women were elected, including 19 through preferential voting. This improved Sri Lanka's global ranking from 175th to 166th in female representation. Women's issues like sanitation and healthcare gained attention due to their presence in Parliament.
+
+🟩
+
+How was the Parliament broadcast to the greatest women's representation?
+
+At the general election, 22 women have been elected to a new page.
+
+However, several parties, including the reconciliation force, have not yet been named their national lists.
+
+Accordingly, the number of MPs selected for a Parliament will represent the Parliament this year.
+
+Of the women's candidates contesting with national power and congenic force, 21 have been elected to the Parliament and elected to Parliament.
+
+In the national propagation, 19 women and 2 women have won the preferential votes in harmony community.
+
+A woman has been appointed to one seat with national lists of national population.
+
+Dr. Harini Amarasuriya, who was sworn in as the Prime Minister of the Prime Minister for the second time (November 18), was held in Colombo District.
+
+Former Prime Minister Mahinda Rajapaksa has won the highest number of preferential number of preferential votes taken in a general election.
+
+...
+
+[Data](articles/49db79de.json)
+
+[Extended Data](ext_articles/49db79de.ext.json)
 
 ---

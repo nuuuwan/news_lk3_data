@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 21:13:27**
+As of **2024-11-20 21:42:06**
 
 ## Newspaper Stats
 
-*Scraped **55,988** Articles*
+*Scraped **55,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,122 @@ economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
 adalk | 5,269
-adaderanalk | 6,762
-tamilmirrorlk | 7,941
+adaderanalk | 6,763
+tamilmirrorlk | 7,942
 virakesarilk | 9,094
-adaderanasinhalalk | 9,675
+adaderanasinhalalk | 9,677
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,986 (100.0%) of 55,988 articles have been extended.
+55,990 (100.0%) of 55,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### வடக்கில் இராணுவமுகாம்கள் அகற்றப்படுகின்றன – நாமல் கடும் கரிசனை
+### කාන්තාවකගේ ගර්භාෂයේ කිලෝ 10ක් බරැති ගෙඩියක්
+
+*2024-11-20 21:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203577) · `si`
+
+කාන්තාවකගේ ගර්භාෂයේ තිබූ කිලෝ 10ක් බරැති ගෙඩියක් සාර්ථකව ඉවත් කිරීමට හම්බන්තොට රෝහලේ වෛද්‍යවරුන් සමත්ව තිබේ.
+
+සැත්කම සිදුකළ ප්‍රසව හා නාරි විශේෂඥ වෛද්‍ය සමන්ත සමරවික්‍රම මහතා සදහන් කළේ, සැත්කමට භාජනය කළ 40 හැවිරිදි කාන්තාව සුවෙන් පසුවන බවයි.
+
+◼️
+
+[Data](articles/a5529288.json)
+
+---
+
+### Education will be given more priority;Prime minister
+
+*2024-11-20 21:17:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்விக்கு-அதிக-முன்னுரிமை-அளிக்கப்படும்-பிரதமர்/175-347525) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+New PM Harini Amarasuriya vows to prioritize education, ensure stress-free learning for students. Aims to create citizens ready for Renaissance era. Promises to address education issues promptly.
+
+🟩
+
+New Prime Minister Harini Amarasuriya has said that he will be dedicated to upholding the credibility of students for stressless education that can create citizenship for the upcoming Renaissance era.
+
+He made this statement when he took over his ministry post at the Ministry of Education, Higher Education and Vocational Education of the New Government today.
+
+According to the policies of the new government, education should be given more priority and school education should be successfully implemented in a formal and time order.
+
+The Prime Minister also pointed out that the problems in the field of education should be resolved soon. Remble
+
+◼️
+
+[Data](articles/591bb602.json)
+
+[Extended Data](ext_articles/591bb602.ext.json)
+
+---
+
+### The latest decision taken with the e-8 visa problem
+
+*2024-11-20 21:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203576) · `si`
+
+Sri Lanka's Minister discusses E-8 visa issue with South Korean authorities, focusing on legal aspects and potential solutions.
+
+🟩
+
+The attention of the workers, foreign employment and Tourism Vijitha Herath has attracted the inconvenience of workers who are waiting for the e-8 visa for the e-8 visa of South Korea.
+
+The Minister has held a special discussion with the Sri Lanka PLC in Battaramulla this morning (20).
+
+The Minister decided to look into the legal situation and take necessary action to look into the legal status under the E-8 visa system in South Korea.
+
+Bureau Chairman of the Bureau Chairman Kosseka Wickremasinghe, General Manager DD. Senanayake, including Senanayake, had also participated.
+
+◼️
+
+[Data](articles/79a1d574.json)
+
+[Extended Data](ext_articles/79a1d574.ext.json)
+
+---
+
+### 2024 A/L exam to be held on Nov. 25 as scheduled
+
+*2024-11-20 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/103645/2024-al-exam-to-be-held-on-nov-25-as-scheduled) · `en`
+
+The Ministry of Education, Higher Education, and Vocational Education has confirmed that the 2024 G.C.E. Advanced Level (A/L) examination will commence as planned on November 25, and continue until December 20, 2024.
+
+Despite requests from various parties to postpone the examination, the Ministry stated that all pre-preparations by the Department of Examinations have already been completed as per the decision made in March 2024.
+
+Issuing a statement, the Ministry emphasized that the examination schedule has been carefully coordinated with other exams, including the 2024 G.C.E. Ordinary Level (O/L) examination, and any changes to the A/L examination dates would disrupt the broader examination calendar.
+
+◼️
+
+[Data](articles/444763ef.json)
+
+---
+
+### Military ports are removed in the north - Namal
 
 *2024-11-20 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/199275) · `ta`
 
-வடக்கில் சமீபத்தில் இராணுவமுகாம்  அகற்றப்பட்டமை குறித்தும் மேலும் பல முகாம்களை அகற்றுவதற்கு திட்டமிடப்பட்டுள்ளமை குறித்தும் நாமல்ராஜபக்ச கடும் கரிசனை வெளியிட்டுள்ளார்.
+Namal Rajapaksa expresses concern over removal of military ports in the North. He advocates consulting security forces to maintain national security, citing Sri Lanka's 30-year fight against terrorism and the need for continued security across the country.
 
-சமூக ஊடக பதிவில் இதனை தெரிவித்துள்ள அவர் பொதுமக்களிடம் மீள நிலங்களை ஒப்படைப்பது பொதுவாக பிரச்சினைக்குரிய விடயம் இல்லை என்றாலும் நாட்டின் தேசிய பாதுகாப்பு பாதிக்கப்படாமலிருப்பதை உறுதி செய்வதற்காக இது குறித்து பாதுகாப்பு தரப்பினருடன் கலந்தாலோசனைகளை மேற்கொள்ளவேண்டும் என அவர் குறிப்பிட்டுள்ளார்.
+🟩
 
-இலங்கை 30 வருடங்களாக பயங்கரவாதத்திற்கு எதிராக போரிட்டது ஆயிரக்கணக்கான உயிர்கள் இழக்கப்பட்ட நிலையில் இன்று அனைத்து சமூகத்தினரும் சுதந்திரத்தை அனுபவிக்கின்றனர் என குறிப்பிட்டுள்ள அவர் வடக்கு தெற்கு என எந்த பகுதியாகயிருந்தாலும் பாதுகாப்பை உறுதி செய்வது அவசியம் என  குறிப்பிட்டுள்ளார்.
+Namal Rajapaksa has issued a serious concern over the recent removal of the military port in the North and the plan to remove many camps.
+
+He said in a social media post, adding that handing over the land to the public is not generally a matter of fact, but he should consult with the security forces to ensure that the national security of the country is not affected.
+
+He said that Sri Lanka fought against terrorism for 30 years, and that all communities are enjoying freedom today, he said, adding that it is necessary to ensure security in any part of the North South.
 
 ◼️
 
 [Data](articles/d49fcb19.json)
+
+[Extended Data](ext_articles/d49fcb19.ext.json)
 
 ---
 
@@ -546,17 +634,27 @@ The decision was taken during a meeting chaired by former President Ranil Wickre
 
 ---
 
-### රවී මන්ත්‍රීධුරය ලබා ගැනීම ගැන හොයන්න කමිටුවක්
+### Committee to find out on the receipt of Ravi
 
 *2024-11-20 17:42:59* · [`adalk`](https://www.ada.lk/breaking_news/රවී-මන්ත්‍රීධුරය-ලබා-ගැනීම-ගැන-හොයන්න-කමිටුවක්/11-413177) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට හිමිවූ ජාතික ලැයිස්තු මන්ත්‍රී ධුර දෙකෙන් එක් ධුරයක් සඳහා රවී කරුණානායක මහතා ගේ නම මැතිවරණ කොමිසමට යැවීමේ සිද්ධිය සම්බන්ධයෙන් ස්වාධීන පරීක්ෂණයක් පැවැත්වීමට එම පක්ෂය තීරණය කර තිබේ.
+Here's a summary of 200 characters:
 
-නීතිඥ කුමාර් දුනුසිංහ මහතා, නීතිඥ ඉන්දික වේරගොඩ මහතා‍, ආචාර්ය විතානගේ මහතා, කමිටු ලේකම් - නීතිඥ යසස් ද සිල්වා මහතා යන මහත්වරු මෙම කමිටුවට පත් කර තිබේ. කමිටුවේ වාර්තාව සති තුනක් ඇතුළත එක්සත් ජාතික පක්ෂ නායක රනිල් වික්‍රමසිංහ මහතා වෙත භාරදිය යුතු වෙයි.
+
+
+Committee formed to investigate Ravi Karunanayake for new Democratic Front. Members: Kumar Danicasin, Indika Weragoda, Yasas De Silva. Report due within 3 weeks to UNP Leader Ranil Wickremesinghe.
+
+🟩
+
+The party has decided to conduct an independent investigation into the name of Ravi Karunanayake to send the name of Ravi Karunanayake to the Elections Commission for the new Democratic Front.
+
+Attorney-at-Law Kumar Danicasin, Attorney-at-Law Indika Weragoda, Committees Secretary - Mr. Yasas De Silva appointed to this committee. The committee report should be handed over to UNP Leader Ranil Wickremesinghe within three weeks.
 
 ◼️
 
 [Data](articles/26586548.json)
+
+[Extended Data](ext_articles/26586548.ext.json)
 
 ---
 
@@ -2445,105 +2543,5 @@ He then abandoned the van in the Gampaha Ukkalgoda area and fled with another ma
 [Data](articles/357bca46.json)
 
 [Extended Data](ext_articles/357bca46.ext.json)
-
----
-
-### Who are the Sri Lankan players who are going to the Auction of IPL 2025?
-
-*2024-11-20 09:22:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn7mpeme284o) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Sri Lankan players in IPL 2025 auction: Kusal Mendis, Charith Asalanka, Kamindu Mendis, Dhananjaya de Silva, Lahiru Kumara, Maheesh Theekshana, Nuwan Thushara, Bhanuka Rajapaksa, Dilshan Madushanka, Lahiru Duminda, Chamika Karunaratne, Praveen Jayawickrama, Asitha Fernando, Dushan Hemantha, Jeffrey Vandersay, Kasun Rajitha, Lakshan Sandakan, Matheesha Pathirana, Sadeera Samarawickrama, Sanvir Sandeep, Tharindu Kaushal, Tharanga Paranavitana, Tharindu Rathnayake, Thisara Perera, Wanindu Hasaranga, and Vijayakanth Mudalige.
-
-🟩
-
-The auction of players for the Indian Premier League Tournament in 2025 will be held on 24th and 25 of this month at Jeddah in Jeddah.
-
-The Indian Cricket Board has announced that 574 players are registered for the Auction at the Indian Premier League.
-
-Although the players are registered, only 204 players are selected for this year's tournament and 70 foreign players.
-
-2024 has decided to hold 46 players by 10 teams on the permission to retain the players of the Indian Premier League.. The number of people who have been spent on the players were spent on the players was Rs. 558.5 billion.
-
-It is a significant emergency out of the players Chennai Super Kings, Chennai Super Kings.
-
-Mathee Pathirana represented the Chankari Super Kings from 2822 to the first time. He has played 34 wickets for the group.. His best bowling is recorded as four wickets for 28 runs.
-
-19 Sri Lankan players are registered for the Indian Premier League Auction this year, representing Sri Lanka.
-
-...
-
-[Data](articles/fd1da12e.json)
-
-[Extended Data](ext_articles/fd1da12e.ext.json)
-
----
-
-### Ukraine fires several US-made longer-range missiles into Russia for the first time
-
-*2024-11-20 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/103625/ukraine-fires-several-us-made-longer-range-missiles-into-russia-for-the-first-time) · `en`
-
-Ukraine fired several American-supplied longer-range missiles into Russia, officials said Tuesday, marking the first time Kyiv used the weapons that way in 1,000 days of war.
-
-The use of the Army Tactical Missile System, known as ATACMS, came as Russian President Vladimir Putin formally lowered the threshold for using nuclear weapons, opening the door to a potential nuclear response by Moscow to even a conventional attack by any nation supported by a nuclear power. That could include Ukrainian attacks backed by the U.S.
-
-A Telegram channel affiliated with the Ukrainian military posted a video Tuesday that it says shows U.S.-supplied ATACMS missiles being fired from an undisclosed location in Ukraine. The Associated Press could not independently verify the date and location the video was filmed.
-
-...
-
-[Data](articles/19458436.json)
-
-[Extended Data](ext_articles/19458436.ext.json)
-
----
-
-### Ukraine launched US missiles
-
-*2024-11-20 08:45:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அமெரிக்க-ஏவுகணைகளை-ஏவியது-உக்ரைன்/50-347476) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-US missiles fired from Ukraine hit Russia's north border. Russia claims 5 shot down, 1 damaged. US says only 2 out of 8 Ukrainian-launched missiles were blocked by Russia. Discrepancies in reported missile counts and effectiveness.
-
-🟩
-
-The Russian Defense Ministry said the missile attack was launched on the northern Ukraine border.
-
-It has been reported that 5 missiles have been shot down and a missile damaged.
-
-However, the US said only two of the 8 missile attacks launched by Ukraine were blocked by Russian side.
-
-◼️
-
-[Data](articles/cd69f635.json)
-
-[Extended Data](ext_articles/cd69f635.ext.json)
-
----
-
-### Fairly heavy showers expected in parts of the island
-
-*2024-11-20 08:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/103624/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers or thundershowers will occur at times in the Northern and Eastern provinces.
-
-Showers or thundershowers will occur at several places elsewhere of the island during the evening or night.
-
-Fairly heavy showers above 75 mm are likely at some places in Western and Sabaragamuwa provinces and in Galle and Matara districts, according to the Met. Department.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central, Uva and Southern provinces during the morning, the department added.
-
-Thus, the general public is kindly requested to take adequate precautions minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0a7e059d.json)
-
-[Extended Data](ext_articles/0a7e059d.ext.json)
 
 ---

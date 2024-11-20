@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-20 21:00:47**
+As of **2024-11-20 20:13:57**
 
 ## Newspaper Stats
 
-*Scraped **55,986** Articles*
+*Scraped **55,980** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,165 +16,55 @@ islandlk | 3,347
 economynextcom | 3,388
 dailyftlk | 3,832
 dailymirrorlk | 4,733
-adalk | 5,268
+adalk | 5,267
 adaderanalk | 6,762
-tamilmirrorlk | 7,941
-virakesarilk | 9,093
-adaderanasinhalalk | 9,675
+tamilmirrorlk | 7,940
+virakesarilk | 9,090
+adaderanasinhalalk | 9,674
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-55,982 (100.0%) of 55,986 articles have been extended.
+55,977 (100.0%) of 55,980 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-20 (Wednesday)
 
-### මත්පැන්හල් බලපත්‍ර අනීතිකව දුන් බවට පෙත්සමක්
-
-*2024-11-20 20:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203574) · `si`
-
-ඉකුත් ජනාධිපතිවරණය ප්‍රකාශයට පත්කිරීමෙන් පසුව සුරාබදු පනතට පටහැනි ලෙස මත්පැන්හල් බලපත්‍ර නිකුත් කිරීම තුළින් එවක මුදල් අමාත්‍ය රනිල් වික්‍රමසිංහ මහතා ඇතුළු වගඋත්තරකරුවන් මූලික මිනිස් අයිතිවාසිකම් උල්ලංඝනය කර ඇති බවට තීන්දුවක් ලබාදන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ඉදිරිපත් කර තිබේ.
-
-මහනුවර ප්‍රදේශයේ මත්පැන් අලෙවි ව්‍යාපාරයක නිරත චාමර සම්පත් අබේසේකර සහ එන්. රවිචන්ද්‍රන් යන මහත්වරු විසින් මෙම පෙත්සමක් ඉදිරිපත්කර ඇත.
-
-එහි වගඋත්තරකරුවන් ලෙස හිටපු මුදල් අමාත්‍ය රනිල් වික්‍රමසිංහ, හිටපු සුරාබදු කොමසාරිස් ජනරාල් එම්. ජේ. ගුණසිරි, මුදල් අමාත්‍යංශයේ ලේකම්වරයා, අමාත්‍ය වසන්ත සමරසිංහ, අල්ලස් කොමිසමේ සභාපතිවරයා ඇතුළු සාමාජිකයින් 39 දෙනෙකු නම්කර තිබේ.
-
-නීතීඥ මංජුල බාලසූරිය මහතා මාර්ගයෙන් ගොනුකර තිබෙන මෙම පෙත්සම තුළින් පෙත්සම්කරුවන් කියා සිටින්නේ, ඉකුත් ජනාධිපතිවරණය ප්‍රකාශයට පත්කළ ජූලි මස 26 වනදා සිට ජනාධිපතිවරණ ඡන්ද විමසීම පැවැති සැප්තැම්බර් මස 21 වනදා අතර කාල සීමාව තුළ වගඋත්තරකරුවන් විසින් සුරා බදු පනතේ විධිවිධානයන්ට පටහැනි ලෙස මත්පැන්හල් බලපත්‍ර ගණනාවක් නිකුත් කර ඇති බවය.
-
-...
-
-[Data](articles/2d1d34b6.json)
-
----
-
-### வடக்கு மக்களின் வாழ்வாதாரத்துக்கு 12 மில்லியன் ரூபா நிதி உதவி சீனத்தூதுவரால் வடக்கு ஆளுநரிடம் கையளிப்பு
-
-*2024-11-20 20:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/199274) · `ta`
-
-வடக்கு மாகாண மக்களின் வாழ்வாதார மேம்பாட்டுக்கு உதவும் வகையில், சீன அரசாங்கத்தால் 12 மில்லியன் ரூபா பெறுமதியான காசோலை வடக்கு மாகாண ஆளுநர் நாகலிங்கம் வேதநாயகன் அவர்களிடம் இலங்கைக்கான சீனத் தூதுவர் கீ சென் ஹொங் இன்று புதன்கிழமை (20) கையளித்தார்.
-
-வடக்கு மாகாண ஆளுநர் நாகலிங்கம் வேதநாயகன் அவர்களை, வடக்கு மாகாண ஆளுநர் செயலகத்தில் புதன்கிழமை (20) காலை இலங்கைக்கான சீனத் தூதுவர் கீ சென் ஹொங் தலைமையிலான குழுவினர் சந்தித்தனர். இதன்போதே அவர் இந்தக் காசோலையைக் கையளித்தார்.
-
-வடக்கு மாகாண ஆளுநராக நியமிக்கப்பட்ட  நாகலிங்கம் வேதநாயகன் அவர்களுக்கு வாழ்த்துக்களையும் பாராட்டுக்களையும் தெரிவித்த இலங்கைக்கான சீனத்தூதுவர், இந்தப் பிரதேசத்தின் அபிவிருத்திக்கு தமது பங்களிப்பு இருக்கும் என்று உறுதியளித்தார். வடபகுதியில் ஏற்பட்டுள்ள மாற்றத்தை அவதானிக்கையில் சந்தோசமாக இருப்பதாக சீனத் தூதுவர் குறிப்பிட்டார்.
-
-இலங்கைக்கான சீனத் தூதுவரை வரவேற்ற வடக்கு மாகாண ஆளுநர், வடக்கு மாகாணத்தில் ஊழல் ஒழிப்பு, அபிவிருத்திப் பணிகள் முன்னெடுக்கப்பட வேண்டியதன் அவசியத்தையும் சுட்டிக்காட்டினார்.
-
-...
-
-[Data](articles/e15a6ffe.json)
-
----
-
-### மோட்டார் சைக்கிள் விபத்தில் இரு இளைஞர்கள் சம்பவ இடத்திலே பலி. ஒருவர் படுகாயம்
-
-*2024-11-20 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/199273) · `ta`
-
-மாங்குளம் வெள்ளாங்குளம் பகுதியில் மோட்டார் சைக்கிள்  இரண்டு நேருக்கு நேர் மோதியதில் இரு இளைஞர்கள் உயிரிழந்ததோடு ஒருவர் படுகாயமடைந்த சம்பவம் ஒன்று புதன்கிழமை (20) மாலை 5.30 மணியளவில் இடம்பெற்றுள்ளது.
-
-முல்லைத்தீவு மாங்குளம்  பகுதியில் இருந்து மல்லாவி நோக்கி சென்ற மோட்டார் சைக்கிளும் , மல்லாவியில் இருந்து மாங்குளம் நோக்கி சென்ற மோட்டார் சைக்கிளும்  வேகக்கட்டுப்பாட்டை  இழந்து மாங்குளம் வன்னிவிளாங்குளம்  ஐந்தாவது மைல் கல் பகுதியில்  மோதியதில் குறித்த விபத்து சம்பவம் இடம்பெற்றுள்ளது. குறித்த சம்பவத்தில் இரு இளைஞர்கள் உயிரிழந்ததோடு ஒருவர் படுகாயமடைந்த நிலையில் கிளிநொச்சி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
-
-குறித்த விபத்து சம்பவத்தில்  மாங்குள பகுதியில் வசிக்கும் விஜயகுமார் விதுசன் (20 வயது), ஜெயகுமார் விதுசன்( 23வயது ) ஆகிய இரு இளைஞர்களே உயிரிழந்துள்ளனர். மரியதாஸ் சுவாமிகீர்த்தி (31 வயது) எனும் இளைஞர் படுகாயமடைந்துள்ளார்.
-
-குறித்த விபத்து சம்பவம் தொடர்பில்  மாங்குளம் பொலிஸார்  மேலதிக விசாரணைகளை  முன்னெடுத்து வருகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/29e64670.json)
-
----
-
-### Is A/L Postponed?
-
-*2024-11-20 20:11:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/A-L-பரீட்சை-ஒத்திவைக்கப்படுகின்றதா/175-347524) · `ta`
-
-A/L exams not postponed. Ministry confirms start date: Nov 25, 2024. Preparations complete despite calls for delay.
-
-🟩
-
-The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
-
-Although various parties have made demands to postpone the exam, the Department of Examinations Department of Examinations has taken the resolution last March that all preparations for the GCE Advanced Level Examination have already been completed.. Remble
-
-◼️
-
-[Data](articles/b8976322.json)
-
-[Extended Data](ext_articles/b8976322.ext.json)
-
----
-
-### மன்னாரில் இறந்த இளம் தாயின் மரணதுக்கு நீதி கோரி போராட்டம்
-
-*2024-11-20 20:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/199271) · `ta`
-
-மன்னார் பொது வைத்தியசாலையில் மகப்பேற்றுக்காக அனுமதிக்கப்பட்ட நிலையில் மரணமடைந்த தாய் மற்றும் சிசுவின் மரணத்துக்கு நீதி கோரி மன்னார் பொது வைத்தியசாலைக்கு முன்பாக புதன்கிழமை (20) மாலை 4.30 மணியளவில் கவனயீர்ப்பு போராட்டம் ஒன்று  இடம் பெற்றது.
-
-தாயின் மரணத்துக்கு நீதி வழங்கவேண்டும், தவறு செய்தவர்கள் கைது செய்யப்படவேண்டும், வைத்தியசாலை நிர்வாகம் மாற்றப்பட வேண்டும் போன்ற பல்வேறு கோரிக்கைகளை முன்வைத்து அமைதியான முறையில் போராட்டம் இடம் பெற்றது.
-
-போராட்டத்தின் போது பல்வேறு கோஷங்கள் எழுப்பப்பட்ட நிலையில்  வைத்தியசாலைக்குள் போராட்டகாரர்கள் நுழைய முற்பட்ட நிலையில் கலவரம் ஏற்பட்டது.
-
-இதனை தொடர்ந்து பொலிஸாருக்கும் மக்களுக்குமிடையில் முரண்பாடு ஏற்பட்டது. இதன் காரணமாக கலகம் அடக்கும் பொலிஸாரும் வரவலைக்கப்பட்டனர்.
-
-அதனை தொடர்ந்து சம்பவ இடத்திற்கு வருகை தந்த மாவட்ட அரசாங்க அதிபர் தலைமையிலான குழுவினர் இறந்த பெண்ணின் பெற்றோரிடம் கலந்துரையாடிய போதும் சுமூகமான நிலை ஏற்படவில்லை.
-
-போராட்டகாரர்கள் தொடர்ந்தும் கொட்டும் மழையில் மன்னார் பொது வைத்தியசாலைக்கும் முன்னர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/130d1343.json)
-
----
-
-### Education Public Standards
+### கல்வி பொதுத் தராதர உயர் தர பரீட்சை  25ஆம் திகதி ஆரம்பம் - கல்வி அமைச்சு
 
 *2024-11-20 19:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/199270) · `ta`
 
-Sri Lanka: Education standards 2024 begin Nov 25. No exam postponement despite demands. GCE Advanced Level in March as planned. Other exams dates set. Postponing high-level exam may disrupt others.
+2024 ஆம் ஆண்டுக்கான கல்வி பொதுத் தராதர உயர் தர பரீட்சை திட்டமிட்டபடி நவம்பர் 25ஆம் திகதி ஆரம்பமாகும் என கல்வியமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
 
-🟩
+இந்தப் பரீட்சையை ஒத்திவைக்குமாறு பல்வேறு தரப்பினர் கோரிக்கைகளை முன்வைத்துள்ள போதிலும், இலங்கைப் பரீட்சைகள் திணைக்களம் கடந்த மார்ச் மாதம் எடுத்த தீர்மானத்தின் பிரகாரம், உயர்தரப் பரீட்சைக்கான அனைத்து ஆயத்தப் பணிகளும் ஏற்கனவே நிறைவடைந்துள்ளதாக அந்த அறிவிப்பில் குறிப்பிடப்பட்டுள்ளது.
 
-The Ministry of Education said in a statement that the Education General Standards for 2024 will commence on November 25, as planned.
-
-Although various parties have made demands to postpone the exam, the Sri Lanka Examinations Department has decided to take all the preparations for the GCE Advanced Level examination in March.
-
-It also stated that the dates have been decided for several examinations, including the next GCE Ordinary Examination, and that if the high -level exam is postponed, the planning for other exams will become completely irregular.
+மேலும், இந்த பரீட்சை நடைபெறும் திகதிகளுக்கு அமைய, அடுத்துவரும் சாதாரணதர பரீட்சை உள்ளிட்ட பல பரீட்கைகளுக்கான திகதிகள் முடிவு செய்யப்பட்டுள்ளதாகவும், உயர்தர பரீட்சை ஒத்திவைக்கப்பட்டால், ஏனைய பரீட்சைகளுக்கான திட்டமிடல் முற்றிலும் ஒழுங்கற்றதாக மாறிவிடும் என்றும் அதில் தெரிவிக்கப்பட்டுள்ளது.
 
 ◼️
 
 [Data](articles/b4279b43.json)
 
-[Extended Data](ext_articles/b4279b43.ext.json)
-
 ---
 
-### Problem
+### කල් ඇදෙන ජාතික ලැයිස්තු මන්ත්‍රී ධුර ගැටලුව
 
 *2024-11-20 19:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203571) · `si`
 
-Elections Commission: National List MPs names pending; Gazette announcement expected. New Democratic Front and Sri Lanka Muslim Congress seats affected. Reconciliation party publishes list. Hirunika Premachandra qualifies for women's slot. Sharmila Perera appoints Ravi Karunanayake unanimously. SLMC names to be announced today.
+මෙවර පාර්ලිමේන්තු මැතිවරණයෙන් ජාතික ලැයිස්තු මන්ත්‍රී ධූර හිමිවු පක්ෂ කිහිපයක් තවමත් ඊට අදාළ මන්ත්‍රීවරුන්ගේ නම් එවා නොමැති බව මැතිවරණ කොමිෂන් සභාව පවසයි.
 
-🟩
+අදාළ පක්ෂ ලේකම්වරුන් විසින් මැතිවරණ කොමිෂන් සභාව වෙත එම නම් යොමුකිරීමෙන් අනතුරුව ගැසට් මගින් ප්‍රකාශයට පත් කිරීමට නියමිත ය.
 
-The Elections Commission says that several members of the National List MPs have yet to send the names of the MPs this year.
+ඒ අනුව සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුර 4ක් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ එක් මන්ත්‍රී ධූරයක් මෙන්ම ශ්‍රී ලංකා මුස්ලීම් කොංග්‍රසයේ එක් මන්ත්‍රී ධුරයක් සඳහා ද පුරප්පාඩු පවතියි.
 
-After the relevant party secretaries to the Election Commission, the gazette is to be announced.
+සමගි ජන බලවේගයට මෙවර පාර්ලිමේන්තු මැතිවරණයේ දී ජාතික ලැයිස්තු මන්ත්‍රීධුර 05ක් හිමිවු අතර මේ වනවිටත් ඉන් එක් ජාතික ලැයිස්තු මන්ත්‍රී ධූරයක් සදහා පක්ෂ මහලේකම් රංජිත් මද්දුම බණ්ඩාර මහතාගේ නම ගැසට් මගින් ප්‍රකාශයට පත් කර තිබේ.
 
-Accordingly, four national listings of the new democratic force have a section of the New Democratic Front as well as one seat of the Sri Lanka Muslim Congress.
-
-The reconciliation has owned five national lists in this year's parliamentary election and has already been published by the party General Secretary Ranjith Madduma Bandara for a national list.
-
-Former MP Hirunika Premachandra stated that he would qualify for a woman in a media briefing held today (20).
-
-Meanwhile, the Secretary of the party Sharmila Perera has decided to appoint the National List MP of the New Democratic Front on a unanimous decision of the party.
+අද (20) පැවති මාධ්‍ය හමුවක දී හිටපු පාර්ලිමේන්තු මන්ත්‍රිනී හිරුණිකා ප්‍රේමචන්ද්‍ර මහත්මිය සදහන් කළේ සමගි ජන බලවේගයේ ජාතික ලැයිස්තු මන්ත්‍රී ධුරයක් කාන්තාවකට ලබා දෙන්නේ නම් ඒ සදහා තමන් සුදුසුකම් සපුරා ඇති බවයි.
 
 ...
 
 [Data](articles/14f399d5.json)
-
-[Extended Data](ext_articles/14f399d5.ext.json)
 
 ---
 
@@ -200,29 +90,21 @@ Hundreds of people have been killed and between 100,000 and 130,000 others have 
 
 ---
 
-### 50 people belonging to 15 families due to heavy rains in Jaffna
+### யாழ்ப்பாணத்தில் அடை மழையால் 15 குடும்பங்களை சேர்ந்த 50 பேர் பதிப்பு!
 
 *2024-11-20 19:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/199269) · `ta`
 
-Heavy rains in Jaffna affect 50 people from 15 families, damaging homes and infrastructure.
+தொடர்ச்சியாக பெய்து வரும் மழை அனர்த்தம் காரணமாக யாழ்ப்பாணத்தில் 15 குடும்பங்களை சேர்ந்த 50 பேர் பாதிக்கப்பட்டுள்ளதாக யாழ்ப்பாண மாவட்ட அனர்த்த முகாமைத்துவ பிரிவின் பிரதிப் பணிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
 
-🟩
+அந்தவகையில் சாவகச்சேரி பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/315 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தை சேர்ந்த இருவரும், ஜே/328 கிராம சேவகர் பிரிவில் ஒரு குடும்பத்தைச் சேர்ந்த இரண்டு பேரும் பாதிக்கப்பட்டுள்ளனர். இரண்டு வீடுகள் சேதமடைந்துள்ளன.
 
-Deputy Director of the Jaffna District Disaster Management Division, TN Suriyarajah, said that 50 people from 15 families in Jaffna have been affected by the ongoing heavy rains.
+அத்துடன் ஊர்காவல்துறை பிரதேச செயலர் பிரிவிற்குட்பட்ட ஜே/56 கிராம சேவகர் பிரிவில் இரண்டு குடும்பங்களைச் சேர்ந்த 8 பேர் பாதிக்கப்பட்டுள்ளதுடன் ஒரு வீடு பகுதியளவில் சேதமடைந்துள்ளது.
 
-Two family members of the J/315 Grama Sevakar Division, which belongs to the Chavakachcheri Divisional Secretariat, and two members of a family in the J/328 Grama Sevaka Division. Two houses have been damaged.
+பருத்தித்துளை பிரதேச செயலர் பிரிவிற்குட்பட்ட மூன்று குடும்பங்களைச் சேர்ந்த ஆறுபேர் பாதிக்கப்பட்டுள்ளதுடன் இரண்டு வீடுகள் சேதமடைந்துள்ளன. ஜே/403 கிராம சேவகர் பிரிவில் 7 குடும்பங்களைச் சேர்ந்த 29பேர் பாதிக்கப்பட்டுள்ளதுடன் 6 வீடுகள் சேதமடைந்துள்ளன.
 
-In addition, 8 people from two families have been affected and a house has been partially damaged in the J/56 Grama Niladhari Division of the Kayts Divisional Secretariat Division.
-
-Six people from three families belonging to the Point Pedro Divisional Secretariat have been affected and two houses have been damaged. In the J/403 Grama Niladhari Division, 29 people from 7 families have been affected and 6 houses have been damaged.
-
-He added that a family belonging to a family in the J/91 Grama Niladhari Division, which belongs to the Nallur Divisional Secretariat Division, has been damaged by a house.
-
-◼️
+...
 
 [Data](articles/590b7751.json)
-
-[Extended Data](ext_articles/590b7751.ext.json)
 
 ---
 
@@ -569,30 +451,6 @@ Speaking at a press briefing at the Government Information Department today (20)
 [Data](articles/2dc3db98.json)
 
 [Extended Data](ext_articles/2dc3db98.ext.json)
-
----
-
-### Kanchan list to visit Parliament
-
-*2024-11-20 17:01:36* · [`adalk`](https://www.ada.lk/breaking_news/කංචන-ලැයිස්තුවෙන්-පාර්ලිමේන්තුවට/11-413176) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Kanchana Wijesekera, former MP from Matara District, joins Democratic Front. Defeated in last election but now considered for Parliament seat by party members.
-
-🟩
-
-Former MP Kanchana Wijesekera, Matara District MP Kanchan Wijesekara, is due to enter the new Democratic Front.
-
-He defeated Matara District at the last general election, but was defeated. Many of the new Democratic Front have said that Kanchana Wijesekera should be sent to Parliament.
-
-◼️
-
-[Data](articles/d7c9b971.json)
-
-[Extended Data](ext_articles/d7c9b971.ext.json)
 
 ---
 
@@ -2543,5 +2401,153 @@ He was speaking at a program held in Colombo yesterday.
 [Data](articles/dfd2550d.json)
 
 [Extended Data](ext_articles/dfd2550d.ext.json)
+
+---
+
+### Increasing risk
+
+*2024-11-20 08:19:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மினுவாங்கொடையில்-அதிகரிக்கும்-ஆபத்து/175-347474) · `ta`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+Garment factory outbreak: 133 workers infected. 64 initially treated, returned to work. 69 more cases reported. Risk increasing.
+
+🟩
+
+133 employees working at a main garment factory located in Minuwangoda have been recommended for treatment due to an infection.
+
+The 64 employees were first diagnosed with the disease, recommended for treatment and sent back to work.
+
+Subsequently, 69 more employees have been reported to have an infection. Remble
+
+◼️
+
+[Data](articles/e22d78fd.json)
+
+[Extended Data](ext_articles/e22d78fd.ext.json)
+
+---
+
+### Sri Lanka to make intervention soon to solve debt problems of industries: Minister
+
+*2024-11-20 07:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-make-intervention-soon-to-solve-debt-problems-of-industries-minister-188842/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s newly appointed industries minister Sunil Handunetthi said he intended to make an intervention soon to solve capital, debt and raw material problems faced by industries.
+
+“From the Coronavirus crisis period industrialists fell into difficulties and got into a debt crisis,”  Minister Lal Kantha told reporters soon after assuming duties as the Minister of Industries and Enterprise Development.
+
+“Many businesses and industries are now at the point of collapse. There has been parate executions and their property is about to be foreclosed or auctioned.
+
+“Together with national and private banks, the capital, raw material and market problems we hope to make an intervention soon.”
+
+There were attempts to sell institutions because they made losses, with the corruption, bribes and the cut to ministers, he said.
+
+...
+
+[Data](articles/3b344cdd.json)
+
+[Extended Data](ext_articles/3b344cdd.ext.json)
+
+---
+
+### Heigada kiritha goes out of the world
+
+*2024-11-20 07:54:22* · [`adalk`](https://www.ada.lk/opinion/හීන්තුඩු-කලිත්තා-ලෝකයෙන්-යන්නම-යයි/2-413160) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+"Heigada kiritha" refers to a phenomenon where the border of "zerndaduum" (likely a typo for "zero point") has worsened in Europe and North Africa. This affects bird migrations and habitats. The World Conservation Organization reports declining bird populations, with 164 species endangered. Ecologists attribute this to environmental factors and climate change.
+
+🟩
+
+The latest scientifically, the border of the border of zerndaduum tendird curlers, which is inherently endemic to Europe and northern African countries, has become worse in November 2024.
+
+This scientific report also revealed that the migration banning of the migration leading around the winter season, marshy land, the winter border, the last end of the winter seas.
+
+The World Conservation Organization (WHO) has shown that the first global (IUCN) is the first global bird of Europe, North Africa and Western territories.
+
+World Conservation Organization says that 164 birds have been worried about over 11,000 species of birds from the World Conservation Organization (IUCN).. They further states that 16 other bird species living in the beach area have identified the bird species of heavy positions.
+
+The Head of the Institute (R.P.B./ bird Life) Mr. Nicola Crockforard said that this is one of the most abundant and extreme devastating story of the world.
+
+...
+
+[Data](articles/33acc988.json)
+
+[Extended Data](ext_articles/33acc988.ext.json)
+
+---
+
+### 75 millimeters of rain today
+
+*2024-11-20 07:44:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-75-மில்லி-மீற்றர்-அளவில்-மழை/175-347473) · `ta`
+
+Heavy rain forecasted for Western, Sabaragamuwa, Galle, and Matara provinces. Periodic rainfall/thunderstorms expected in North and East. Isolated rain/thunderstorms predicted elsewhere, mainly evenings/night.
+
+🟩
+
+The Department of Meteorology has forecast heavy rainfall in the Western and Sabaragamuwa Provinces and some parts of the Galle and Matara districts.
+
+In the Northern and Eastern Provinces, there will be periodic rainfall or thunderstorms.
+
+In other parts of the country, rain or thunderstorms are likely to occur in the evening or night, the department said in a statement. (A)
+
+◼️
+
+[Data](articles/ad268311.json)
+
+[Extended Data](ext_articles/ad268311.ext.json)
+
+---
+
+### Attorney at Ruhunu University strike on day
+
+*2024-11-20 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203548) · `si`
+
+Ruhunu University strike continues as unions demand removal of Vice Chancellor. Prime Minister discusses issue but strike persists until VC is replaced.
+
+🟩
+
+University Trade Unions Joint Committee said that the strike of the university, academic, non-academic and student unions, for the second day today (Jan. 20), will continue to take action to remove the Vice Chancellor of the University of Ruhuna.
+
+However, Prime Minister Haradi Amarasuriya had a discussion with the issue yesterday afternoon, the co-chairman of the University Trade Union Joint Committee.
+
+"Since the Vice Chancellor of the University, study staff, non-academic staff and students have been deprirupted. Especially the scholarship of many students, they have been suspended to participate in graduation. That is the same to non-academic staff. There is a situation where the dear parties treat the lecturers even not even promotions. He did these things because he had political care. "
+
+SSP Spokesperson SSP Spokesperson Senior Lecturer Charged Charta Ilangasinghe,
+
+...
+
+[Data](articles/cedba6df.json)
+
+[Extended Data](ext_articles/cedba6df.ext.json)
+
+---
+
+### 18 arrested for passport to take passport
+
+*2024-11-20 07:38:02* · [`adalk`](https://www.ada.lk/breaking_news/කූඨ-ලේඛන-රැගෙන-පාස්පෝට්-ගන්න-ආපු-18-ක්-අත්අඩංගුවට/11-413159) · `si`
+
+18 arrested for passport fraud: 20 women detained for fake aviation licenses at Sri Lanka's immigration department.
+
+🟩
+
+Twenty women, including 12 women, arrived at the Department of Immigration and Emigration to the Department of Immigration and Emigration, Battaramulla has been arrested for obtaining aviation license to obtain passports.
+
+The Western Province official seal and DIG, DIG, the Western Province, the Western Province, the Western Province, the Western Province, the UPFA have seized the date of the Natural seal of the South District Secretariat.
+
+According to the Department of Immigration and Emigration, the Department of Immigration and Emigration and the Department of Immigration and Emigration had been informed yesterday (19) and a few days ago.
+
+.Egry writings contacted by the persons outside the emigration of the Immigration and Emigration Chief Inspector Jr.. K. Police said that the DIG Eastern Province of Western Province Western Province and the documents of the suspects and the suspects were contacted by a team of other officers.
+
+...
+
+[Data](articles/820bb4a3.json)
+
+[Extended Data](ext_articles/820bb4a3.ext.json)
 
 ---

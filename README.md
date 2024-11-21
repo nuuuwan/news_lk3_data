@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 04:41:49**
+As of **2024-11-22 05:00:49**
 
 ## Newspaper Stats
 
-*Scraped **56,249** Articles*
+*Scraped **56,250** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,859
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
-tamilmirrorlk | 7,988
+tamilmirrorlk | 7,989
 virakesarilk | 9,149
 adaderanasinhalalk | 9,703
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,249 (100.0%) of 56,249 articles have been extended.
+56,249 (100.0%) of 56,250 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -275,6 +275,20 @@ If one tracks back at Brand AKD and Brand NPP strategy it is marketing at its be
 [Data](articles/483420c6.json)
 
 [Extended Data](ext_articles/483420c6.ext.json)
+
+---
+
+### 10 ஆவது பாராளுமன்றத்தில் 175 புது முக எம்.பி.க்கள்
+
+*2024-11-22 01:51:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆவது-பாராளுமன்றத்தில்-175-புது-முக-எம்-பி-க்கள்/175-347601) · `ta`
+
+இலங்கையின் 10 ஆவது பாராளுமன்றத்தின் சபாநாயகர், பிரதி சபாநாயகர், பாராளுமன்றக்குழுக்களின் பிரதித்தலைவர் ஆகியோர் புது முகங்களாகவே தெரிவு செய்யப்பட்டுள்ள நிலையில் இந்த பாராளுமன்றத்தில் 175 வரையிலான எம்.பி.க்கள் புது முகங்களாகவே உள்ளனர்.
+
+10 ஆவது பாராளுமன்றத்தின் முதலாவது அமர்வு நேற்று வியாழக்கிழமை காலை 10 மணிக்கு ஆரம்பமானது. அரச தரப்பு பக்கத்தில் அமைச்சர்கள் முன்வரிசை ஆசனத்தில் அமர்ந்திருந்த நிலையில் எதிர்கட்சிதரப்பில் சிரேஸ்ட  எம்.பி.க்கள் அனைத்தும் புது முகங்களினால் நிரம்பியிருந்தது.
+
+...
+
+[Data](articles/d2e289c3.json)
 
 ---
 
@@ -2427,27 +2441,5 @@ President of the United Kingdom Manufacturers Association (UN)
 [Data](articles/04cef149.json)
 
 [Extended Data](ext_articles/04cef149.ext.json)
-
----
-
-### Two arrested with over 3.5 kg of ‘Ice’ and Rs. 11M in cash
-
-*2024-11-21 14:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/103667/two-arrested-with-over-35-kg-of-ice-and-rs-11m-in-cash-) · `en`
-
-The Police Special Task Force (STF) has arrested two suspects along with over 3.5 kg of ‘ICE’ drugs (crystal methamphetamine) and Rs. 11 million in cash during two separate raids conducted at Gonahena in Kadawatha and Dekatana in Dodampe.
-
-The arrests have been made during operations carried out last night (20) by officers of the Special Operations Command of the Police Special Task Force (STF).
-
-During the time of the arrest, suspects were in possession of approximately 3 kg and 536 g of ‘ICE’ (crystal methamphetamine), Rs. 11 million in cash suspected to have been earned from drug trafficking, three mobile phones and a car.
-
-The arrested suspects, aged 29 and 39, who are residents of Maligawatte and Kadawatha areas, have been handed over to the Police Narcotics Bureau (PNB).
-
-Police investigations have uncovered that the arrested suspects are close associates of a major notorious underworld criminal figure and large-scale drug trafficker who is currently hiding in Dubai.
-
-...
-
-[Data](articles/afb3622a.json)
-
-[Extended Data](ext_articles/afb3622a.ext.json)
 
 ---

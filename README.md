@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 09:04:01**
+As of **2024-11-21 09:18:03**
 
 ## Newspaper Stats
 
-*Scraped **56,055** Articles*
+*Scraped **56,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,33 @@ islandlk | 3,357
 economynextcom | 3,397
 dailyftlk | 3,844
 dailymirrorlk | 4,733
-adalk | 5,274
+adalk | 5,275
 adaderanalk | 6,768
 tamilmirrorlk | 7,947
 virakesarilk | 9,099
-adaderanasinhalalk | 9,686
+adaderanasinhalalk | 9,687
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,049 (100.0%) of 56,055 articles have been extended.
+56,051 (100.0%) of 56,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### නව රජයේ පළමු පාර්ලිමේන්තු සැසි වාරය - සජීව විකාශය
+
+*2024-11-21 09:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203589) · `si`
+
+නව රජයේ පළමු පාර්ලිමේන්තු සැසිවාරය අද (21) තව ස්වල්ප මොහොතකින් ආරම්භ වීමට නියමිතව තිබේ.
+
+◼️
+
+[Data](articles/0a3e9f31.json)
+
+---
 
 ### A trend of rising eye bugs among children due to electronic screen
 
@@ -118,6 +130,8 @@ The Speaker will then be elected as per the provisions of Article 64(1) of the C
 
 [Data](articles/2e009144.json)
 
+[Extended Data](ext_articles/2e009144.ext.json)
+
 ---
 
 ### IMF Representatives Special Meeting - Discussions
@@ -169,6 +183,8 @@ The two parcels containing the Kush cannabis sent from Thailand have been taken 
 ◼️
 
 [Data](articles/85032206.json)
+
+[Extended Data](ext_articles/85032206.ext.json)
 
 ---
 
@@ -1650,6 +1666,28 @@ It is special to say that the seat of MPs will not be made on the first day.
 
 ---
 
+### 10 වැනි පාර්ලිමේන්තුව අද රැස්වෙයි - මුලින්ම කරන වැඩේ
+
+*2024-11-20 18:20:13* · [`adalk`](https://www.ada.lk/breaking_news/10-වැනි-පාර්ලිමේන්තුව-අද-රැස්වෙයි---මුලින්ම-කරන-වැඩේ/11-413181) · `si`
+
+10වැනි පාර්ලිමේන්තුව අද (21දා) පෙරවරු 10ට රැස්වීමට නියමිතව තිබේ. ඒ අනුව අද දිනයේ පළමු රාජකාරිය ලෙස කථානායකවරයෙකු පත්කිරීම සිදු කිරීමට නියමිතව ඇත.
+
+ඒ අනුව මන්ත්‍රීවරයෙකු නැගී සිට නමක් යෝජනා කළ යුතු අතර, අනතුරුව තවත් මන්ත්‍රීවරයෙකු නැගිට එම යෝජනාව ස්ථිර කළ යුතු වේ.
+
+එහිදී නාමයෝජනා එකකට වැඩි ප්‍රමාණයක් ඉදිරිපත් වන්නේ නම් කථානායකවරයා තොරා පත් කර ගැනීම සඳහා රහස් ඡන්දයක් පවත්වනු ලැබේ.
+
+අනතුරුව, නාමයෝජනා කළ මන්ත්‍රීවරයා සහ යෝජනාව ස්ථිර කළ මන්ත්‍රීවරයා නව කථානායකවරයාව මැදිකර ගනිමින් කථානායක මුලසුන වෙත සම්ප්‍රදායානුකූලව රැගෙන ඒම සිදු කෙරේ.
+
+එහිදී නව කථානායකවරයා දිවුරුම් දීම සිදුකරන අතර, ඔහුගේ දිවුරුම් දීමෙන් පසු, නවක මන්ත්‍රීවරුන් කථානායකවරයා ඉදිරියේ දිවුරුම් දීම සිදුකිරීමට නියමිතව ඇත.
+
+අනතුරුව, නවක කථානායකවරයාට පක්ෂ විපක්ෂ සුබ පැතීම් ඉදිරිපත් කළ හැකි අතර, එහිදී සුබ පැතීමට මන්ත්‍රීවරයෙකු නැගී සිටින අවස්ථාවේ පාර්ලිමේන්තු මහලේකම්වරිය විසින් ඔහු වෙත අත දිගු කර කතා කිරීම සඳහා අවස්ථාව ලබා දීම සිදුකරනු ලබයි.
+
+...
+
+[Data](articles/e20373ff.json)
+
+---
+
 ### Complete the collection of details
 
 *2024-11-20 18:09:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபர-சேகரிப்பு-அலுவல்கள்-நிறைவு/175-347507) · `ta`
@@ -2383,59 +2421,5 @@ Foreign Minister Vijitha Herath has said President Anura Kumara Dissanayake will
 [Data](articles/c5a81ec7.json)
 
 [Extended Data](ext_articles/c5a81ec7.ext.json)
-
----
-
-### Sri Lanka stocks close up, mixed interest in banks
-
-*2024-11-20 15:35:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-mixed-interest-in-banks-188913/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed up on Wednesday, data on its site showed.
-
-The broader ASPI closed up 0.06 percent, or 8.17 points, at 13,113; while the more liquid S&P SL20 Index closed up 0.13 percent, or 5.05 points, at 3,919.
-
-Turnover was 2.7 billion. Most of this came from capital goods sector (Rs699mn).
-
-Profit taking prevailed during mid-day trading, with the indices showing some volatility before closing up.
-
-John Keells Holdings saw investor interest; the share closed up at 20.70.
-
-Banking stocks saw mixed interest: Hatton National Bank (flat at 230.00), Sampath Bank (down at 94.70), Commercial Bank (up at 123.25), DFCC Bank (down at 81.90), and National Development Bank (up at 82.70).
-
-Aitken Spence was down at 124.00, Hayleys Plc was flat at 103.75, and Melstacorp was down at 109.00.
-
-Top positive contributors to the ASPI were JKH, Commercial, Lion Brewery (up at 1,061.25), Access Engineering (up at 26.90), and R I L Property (up at 10.20).
-
-...
-
-[Data](articles/79fdc2da.json)
-
-[Extended Data](ext_articles/79fdc2da.ext.json)
-
----
-
-### 10 years later childbirth: Mother and See are premature death
-
-*2024-11-20 15:21:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வருடங்களுக்குப்-பின்-பிரசவம்-தாயும்-சேயும்-அகால-மரணம்/175-347502) · `ta`
-
-Summarized in 200 characters: "Mother dies after 10-year wait for child. Probe launched at Mannar hospital. Police intervene as crowd protests. Autopsy ordered. Health ministry forms panel for further investigation."
-
-🟩
-
-The Special Committee, which was set up by the Secretary of the Ministry of Health, was visiting the Mannar District General Hospital on Wednesday morning and is conducting investigations, said Dr. Azad M. Haniba, Director of the Mannar District General Hospital.
-
-Jagan Raja Siri, a 28 -year -old mother of Venuja, a 28 -year -old mother of Mannar, has been married for 10 years and has been admitted to the Mannar District General Hospital for delivery on Tuesday (19).
-
-In this case, hundreds of civilians, including relatives and parents, were protesting at the hospital, where there was a tense situation in the hospital.
-
-Following this, the police arrived at the scene and brought the situation under control and ordered the death of the death of the dead mother and Chein to be sent to the Jaffna Teaching Hospital for autopsy.
-
-A special committee set up by the Secretary of the Ministry of Health is on Wednesday (20) to visit the Mannar District General Hospital.
-
-...
-
-[Data](articles/4020cfd3.json)
-
-[Extended Data](ext_articles/4020cfd3.ext.json)
 
 ---

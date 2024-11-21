@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 18:53:12**
+As of **2024-11-21 19:07:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,181 (100.0%) of 56,182 articles have been extended.
+56,182 (100.0%) of 56,182 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -792,19 +792,31 @@ The postponement was followed by the president's issuance of the government's po
 
 ---
 
-### රවීගේ නම යැවීම ගැන රනිල් දන්නේ නෑ
+### Ranil does not know about sending Ravi's name
 
 *2024-11-21 14:57:00* · [`adalk`](https://www.ada.lk/breaking_news/රවීගේ-නම-යැවීම-ගැන-රනිල්-දන්නේ-නෑ/11-413202) · `si`
 
-නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණේ ජාතික ලැයිස්තු මන්ත්‍රීධූරයක් සදහා රවී කරුණානායක මහතාගේ නම මැතිවරණ කොමිසමට යැව්වේ හිටපු ජනාධිපති රනිල් වික්‍රමසිංහ මහතාටද දැනුම් දීමෙන් පසුව බවට කෙරෙන ප්‍රකාශ සම්පුර්ණයෙන්ම අසත්‍යය බව එක්සත් ජාතික පක්ෂ සභාපති වජිර අබේවර්ධන මහතා නිවේදනයක් නිකුත් කරමින් පවසයි්‍
+Here's a summary of the text in approximately 200 characters:
 
-ජාතික ලැයිස්තු මන්ත්‍රී ධූරය සදහා රවී කරුණානායක මහතාගේ නම මැතිවරණ කොමිසම වෙත යවන බවට කිසිදු පූර්ව දැනුම්දීමක් රනිල් වික්‍රමසිංහ මහතාට කර නොතිබුණ බවත් එසේම මහ මැතිවරණයෙන් ලැබෙන ජාතික ලැයිස්තු මන්ත්‍රීධූරවලින් එකක් නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණ නම් කරන අපේක්ෂයෙකුට දීමට එකගතාවයට පැමිණ තිබූ බවට කෙරෙන ප්‍රකාශද පදනම් විරහිත බවත් ඔහු නිකුත් කළ නිවේදනයේ දැක්වෙයි.
 
-මහ මැතිවරණයෙන් පසුව නව ප්‍රජාතන්ත්‍රවාදී පෙරමුණට ලැබුනු මන්ත්‍රී ධූර සම්බන්ධයෙන් තීරණයක් ගැනීම සඳහා හිටපු විධායක ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් පක්ෂ නායකයින්ගේ විශේෂ සාකච්ඡාවක් නොවැම්බර් මස 16 වැනි දින පැවැත්විණි.
+
+Former President Ranil Wickremesinghe denies sending Ravi Karunanayake's name to the Election Commission for a National List seat. UNP Chairman Vajira Abeywardena claims this statement is false. The New Democratic Front submitted Karunanayake's name despite an agreement not to do so after the 2024 election. This action is considered a breach of the Memorandum of Understanding between the UNP and New Democratic Front.
+
+🟩
+
+UNP chairman Vajira Abeywardena issued a statement that the statement of former President Ranil Wickremesinghe was completely false to a national listing of the new Democratic Front.
+
+He issued no baseless statements that Ravi Karunanayake's name had been sent to the Elections Commission for the election of the National List.The announcement states.
+
+A special discussion of former executive President Ranil Wickremesinghe was held on November 16, headed by former Executive President Ranil Wickremesinghe.
+
+The Democratic Front will be held at the discussion on the above discussion on the conclusion of the national listing seat.
 
 ...
 
 [Data](articles/70695ea4.json)
+
+[Extended Data](ext_articles/70695ea4.ext.json)
 
 ---
 

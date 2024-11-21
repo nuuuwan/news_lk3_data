@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 23:13:05**
+As of **2024-11-21 22:41:31**
 
 ## Newspaper Stats
 
-*Scraped **56,217** Articles*
+*Scraped **56,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,19 @@ dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
-tamilmirrorlk | 7,985
-virakesarilk | 9,142
-adaderanasinhalalk | 9,703
+tamilmirrorlk | 7,984
+virakesarilk | 9,134
+adaderanasinhalalk | 9,702
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,211 (100.0%) of 56,217 articles have been extended.
+56,206 (100.0%) of 56,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### விலங்குகளால் ஏற்படும் சேதத்திற்கு தீர்வு காண குழு
-
-*2024-11-21 22:49:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விலங்குகளால்-ஏற்படும்-சேதத்திற்கு-தீர்வு-காண-குழு/175-347597) · `ta`
-
-விவசாயம், கால்நடைகள், நிலங்கள் மற்றும் நீர்ப்பாசன அமைச்சு, பயிர்களுக்கு கணிசமான சேதத்தை ஏற்படுத்தும் தீங்கு விளைவிக்கும் விலங்குகளின் பிரச்சினைக்கு தீர்வு காண சிறப்புப் பிரிவை நிறுவியுள்ளது. இந்த முயற்சியானது நிலையான கட்டுப்பாட்டுக்கான பல உத்திகளை செயல்படுத்துவதை நோக்கமாகக் கொண்டுள்ளது.
-
-தேங்காய் மற்றும் பழங்கள் போன்ற முக்கிய பயிர்களுக்கு பெரும் சேதத்தை ஏற்படுத்தும் டோக் குரங்குகள் மற்றும் பிற விலங்குகளை கட்டுப்படுத்த நிரந்தரமான தீர்வுகளை அடையாளம் காண்பது குறித்து கலந்துரையாடல் கவனம் செலுத்தியது.
-
-விவசாயம், கால்நடைகள், நிலங்கள் மற்றும் நீர்ப்பாசன அமைச்சு, வனவிலங்கு பாதுகாப்பு திணைக்களம், விவசாய திணைக்களம், விவசாய ஆராய்ச்சி நிறுவனம், இலங்கை இராணுவம் மற்றும் சிவில் பாதுகாப்பு படை உட்பட சுமார் 15 நிறுவனங்களின் பிரதிநிதிகள் இக் கலந்துரையாடலில் கலந்துகொண்டனர்.
-
-◼️
-
-[Data](articles/bd9f2060.json)
-
----
 
 ### Jetstar Asia commences direct flights to Sri Lanka
 
@@ -61,60 +45,6 @@ With five return flights each week, operated by their fleet of Airbus A320s, the
 ...
 
 [Data](articles/20e2b3bd.json)
-
-[Extended Data](ext_articles/20e2b3bd.ext.json)
-
----
-
-### Tamil Nadu's Parliamentary Committee
-
-*2024-11-21 22:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/199367) · `ta`
-
-Tamil Nadu Parl't Committee meets Indian HC over TNA future & India's role in Sri Lankan politics.
-
-🟩
-
-The meeting between the parliamentary committee of the Sri Lanka Tamil State Party and the Indian High Commissioner to Sri Lanka Santosh Jaw was held on Thursday (21) at the Indian High Commission in Colombo.
-
-During the meeting between the Tamil Nadu Parliamentary Committee and the Indian High Commission, led by Member of Parliament Sivagnanam Sreedharan, a number of issues were discussed, including the future of the TNA and the role of India in such political moves.
-
-◼️
-
-[Data](articles/08f845f8.json)
-
-[Extended Data](ext_articles/08f845f8.ext.json)
-
----
-
-### The superior innings of Venas is wasted
-
-*2024-11-21 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203608) · `si`
-
-Bangla Tigers vs Bang Shakers T-10 match summary: Tigers scored 106 runs in 10 overs, with Views contributing significantly with 43 runs including 6 sixes and 4 fours. AM team chased down the target of 9.3 balls.
-
-🟩
-
-The Bangla Taigers played to the Bang Shakers team to defeat the second match against the Second match against the Second match against the Second match against the Second match against the Second Competition of the Abuvi T-10 team.
-
-Batting first Bangla Taigers scored 106 runs in the 10 overs.
-
-It was significant that only 49 runs after the first 7 overs were collected in this innings.
-
-Views played by a meritious
-
-The first 16 balls with visits were only scored.
-
-However, he was able to collect 43 runs.
-
-Views included 6 huge six and four fours.
-
-However, a group of AM was able to cross the 9.3-ball target of the Bangla Taigers.
-
-◼️
-
-[Data](articles/0c90ed52.json)
-
-[Extended Data](ext_articles/0c90ed52.ext.json)
 
 ---
 
@@ -145,142 +75,6 @@ On November 18, when NDF Secretary Shyamala Perera met Mr Wickremesinghe, Mr. Ka
 [Data](articles/455faa82.json)
 
 [Extended Data](ext_articles/455faa82.ext.json)
-
----
-
-### We hope that the Speaker will act without prejudice - Opposition Leader Sajith
-
-*2024-11-21 21:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/199334) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-Opposition Leader Sajith hopes Speaker acts impartially & transparently. Congratulates Speaker on protecting parliamentary rights & passing legal orders.
-
-🟩
-
-"We hope that the Speaker will act without prejudice and transparency."
-
-We congratulate you to the Speaker of the Speaker.It is your responsibility to protect the democratic rights of all parliamentarians and 225 members to perform their role in their services for the public service.
-
-Similarly, we congratulate the new Speaker's responsibility and responsibility to be able to pass the legally strategic orders in accordance with the legislative orders.
-
-◼️
-
-[Data](articles/af34b3b7.json)
-
-[Extended Data](ext_articles/af34b3b7.ext.json)
-
----
-
-### 'Jolly O O Gymkana' starring Prabhu Deva's body
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199349) · `ta`
-
-Here's a 200-character summary:
-
-
-
-"Jolly O O Gymkhana": Prabhu Deva stars as a corpse in this comedy film directed by Shakti Chidambaram. The movie features Madonna Sebastian, Abirami, Yogi Babu, and others. It's set to release on the 22nd, produced by Trans India Media Entertainment.
-
-🟩
-
-The film crew has said that he has played a brilliant body in the film 'Jolly O Gymkhana' starring Prabhu Deva, director and leading star actor.
-
-Prabhu Deva, Madonna Sebastian, Abirami, Yogi Babu, Robot Shankar, directed by director Shakti Chidambaram and will be released from the 22nd of this month.. Ashwin Vinayagamoorthy has composed the film, which has been recorded by Ganesh Chandra.. The film was produced by Producer Rajendran Raja and Neela on behalf of Trans India Media Entertainment Private Limited.
-
-The press conference was held in Chennai to promote the film. The film crew participated.
-
-Director Shakti Chidambaram said, “The present caste films of Tamil cinema and the most violent films are released.. At this moment I described Prabhu Deva's full -length comedy story that focuses on the lifeless corpse. Upon hearing the story, he agreed to act as a corpse.
-
-...
-
-[Data](articles/2d7b0338.json)
-
-[Extended Data](ext_articles/2d7b0338.ext.json)
-
----
-
-### நடிகர் ஜோஜு ஜோர்ஜின் 'பணி' திரைப்படத்திற்கு தமிழில் வரவேற்பு கிடைக்குமா..!?
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199352) · `ta`
-
-'ஜகமே தந்திரம்' எனும் படத்தின் மூலம் தமிழ் ரசிகர்களுக்கு அறிமுகமான மலையாள திரையுலகில் முன்னணி நட்சத்திர நடிகரான ஜோஜு ஜோர்ஜ் இயக்கத்தில் உருவான 'பணி' எனும் திரைப்படம் எதிர்வரும் 22 ஆம் திகதி முதல் தமிழிலும் வெளியாகிறது.
-
-நடிகரான ஜோஜு ஜோர்ஜ் இயக்குநராக அறிமுகமாகி இருக்கும் 'பணி' எனும் திரைப்படத்தில் ஜோஜு ஜோர்ஜ், அபாயா ஹிரன்மயா, ஜாகர் சூர்யா, ரஞ்சித் வேலாயுதம், ஜுனைஸ், அபிநயா, சீமா, சாந்தினி ஸ்ரீதரன்  உள்ளிட்ட பலர் நடித்திருக்கிறார்கள். விஷ்ணு விஜய் மற்றும் சாம் சி. எஸ். இணைந்து இசையமைத்திருக்கும் இந்த திரில்லர் ஜேனரிலான திரைப்படத்தை அப்பு பது பப்பு நிறுவனம் சார்பில் நடிகர் ஜோஜு ஜோர்ஜ் தயாரித்திருக்கிறார்.
-
-கடந்த மாதம் மலையாள மொழியில் வெளியான இந்த திரைப்படம் ரசிகர்களின் பேராதரவை பெற்று பெரும் வெற்றியை பெற்றது. இதனைத் தொடர்ந்து இந்த திரைப்படம் தற்போது தமிழிலும் வெளியாகிறது. தமிழில் ஸ்ரீ கோகுலம் மூவிஸ் நிறுவனம் வெளியிடுகிறது. படத்தினை விளம்பரப்படுத்தும் நிகழ்வு சென்னையில் நடைபெற்றது. இதன் போது படக் குழுவினர் பங்கு பற்றினர்.
-
-...
-
-[Data](articles/449da429.json)
-
----
-
-### மக்களின் எதிர்பார்ப்புக்களை நிறைவேற்ற நடவடிக்கை எடுப்பேன் - பிரதி சபாநாயகர் ரிஸ்வி சாலி
-
-*2024-11-21 21:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/199341) · `ta`
-
-மக்கள் பாரிய எதிர்ப்பார்ப்புடனே எமக்கு வாக்களித்துள்ளார்கள். மக்களின் நம்பிக்கை சிறிதளவேனும் சிதைவடையாது பாதுகாத்துக்கொள்ள கடமைப்பொறுப்புக்களை நிறைவேற்ற முயற்சிப்பேன் என பிரதி சபாநாயகர் பைத்தியர் ரிஸ்வி சாலி தெரிவித்தார்.
-
-10ஆவது பாராளுமன்றத்தின் முதலாவது கூட்டத்தொடர் வியாழக்கிழமை சம்பிரதாய முறைப்படி ஆரம்பிக்கப்பட்டு, ஜனாதிபதியின் கொள்கை உரைக்கு பின்னர் ஊடகங்களு்ககு கருத்து தெரிவிக்கையிலேயே இவ்வாறு தெரிவித்தார்.
-
-பிரதி சபாநாயகர் பதவிக்கு நான் தெரிவு செய்யப்பட்டதையிட்டு மகிழ்ச்சியடைகிறேன். என்றாலும் பாராளுமன்றத்துக்கு முதல் தடவையாகவே இந்தமுறை தெரிவு செய்யப்பட்டு வந்தவன் என்றவகையில், இந்த பதவியை கொண்டு நடத்த எனக்கு அனுபவம் இல்லை. என்றாலும் குறுகிய காலத்துக்குள் பிரதி சபாநாயகரின் கடமை பொறுப்புக்களை தெரிந்துகொண்டு, சிறந்த முறையில் இந்த பொறுப்பை நிறைவேற்ற முடியும் என்ற நம்பிக்கை எனக்கு இருக்கிறது.
-
-...
-
-[Data](articles/68bfdd96.json)
-
----
-
-### இலக்கை நிர்ணயித்து செயற்பட அதிகாரிகளுக்கு வடக்கு ஆளுநர் பணிப்பு
-
-*2024-11-21 21:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/199366) · `ta`
-
-வடக்கு மாகாணத்தில் பின்தங்கியுள்ள பிரதேசங்களை கல்வியால்தான் அபிவிருத்தி செய்ய முடியும். அதைக் கவனத்தில் எடுத்து அதிகாரிகள் மற்றும் ஆசிரியர்கள் பணியாற்றவேண்டும். எந்தவொரு விடயத்திலும் கண்காணிப்பும், தொடர் நடவடிக்கையும் இருந்தால் மாத்திரமே அதில் வெற்றி சாத்தியம். அதைப் புரிந்து கொண்டு அதிகாரிகள் செயற்பட வேண்டும். இவ்வாறு வடக்கு மாகாண ஆளுநர் நா.வேதநாயகன் தெரிவித்தார்.
-
-வடக்கு மாகாண கல்வி பண்பாட்டலுவல்கள் விளையாட்டுத்துறை இளைஞர் விவகார அமைச்சின் துறைசார் மீளாய்வுக் கூட்டம் கடந்த செவ்வாய்க்கிழமை (19) அன்று வடக்கு மாகாண ஆளுநர் செயலகத்தில் ஆளுநர் தலைமையில் இடம்பெற்றது.
-
-விஞ்ஞானப் பிரிவை உயர்தரத்தில் தெரிவு செய்யும் மாணவர்கள் சிலர், தமது பிரதேச பாடசாலைகளில் அந்தக் கற்கை நெறியை படிப்பிப்பதற்குரிய ஆசிரியர்கள் இல்லாமல் யாழ்ப்பாணம் உள்ளிட்ட வேறு நகரங்களுக்குச் சென்று அங்கு தங்கியிருந்து படிக்கின்றனர்.
-
-...
-
-[Data](articles/d55500b8.json)
-
----
-
-### யாழ்ப்பாண வெள்ள அனர்த்த நிலவரம் - அரசாங்க அதிபரின் அவசர அறிவிப்பு!
-
-*2024-11-21 21:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/199365) · `ta`
-
-தற்போது யாழ்ப்பாண மாவட்டத்தில் பெய்துவரும் கடும் மழை காரணமாக 610 குடும்பங்களைச் சேர்ந்த 2,294 பேர் பாதிக்கப்பட்டுள்ளதுடன், 20 வீடுகள் சேதமடைந்துள்ளன.
-
-மேலும், பாதிக்கப்படக்கூடிய இடங்களை அடையாளப்படுத்தி முன்னாயத்த நடவடிக்கைகளை எடுக்குமாறும், அனர்த்த ஆபத்து காரணமாக வதிவிடங்களை விட்டு வெளியேறி தற்காலிக தங்குமிடங்களில் தங்கியிருப்போருக்கு சமைத்த உணவு வழங்குமாறும் பிரதேச செயலாளர்களுக்கு அரசாங்க அதிபர் அவர்களால் அறிவுறுத்தல்கள் வழங்கப்பட்டுள்ளது.
-
-◼️
-
-[Data](articles/ba907858.json)
-
----
-
-### யாழ்ப்பாணத்தில் மழை வெள்ளத்தால் 610 குடும்பங்கள் பாதிப்பு!
-
-*2024-11-21 21:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/199364) · `ta`
-
-யாழ்ப்பாணத்தில் தொடர்ச்சியாக பெய்து வரும் அடை மழை காரணமாக ஏற்பட்ட வெள்ளப்பெருக்கு மற்றும் ஏனைய அனர்த்தங்களால் 610 குடும்பங்களை சேர்ந்த 2294 பேர் பாதிக்கப்பட்டுள்ளதுடன் 20 வீடுகளும் பகுதியளவில் சேதமடைந்துள்ளதாக யாழ்ப்பாண மாவட்ட அனைத்து முக அமைத்துவ பிரிவின் பிரதிபலிப்பாளர் ரி.என்.சூரியராஜா தெரிவித்துள்ளார்.
-
-சாவகச்சேரி பிரதேச செயலர் பிரிவில் வெள்ள அனர்த்தத்தினால் இதுவரை 34 குடும்பங்களைச் சேர்ந்த 108 பேர் பாதிக்கப்பட்டுள்ளதுடன் ஏழு வீடுகளும் பகுதியளவில் சேதம் அடைந்துள்ளன.
-
-ஊர்காவல்துறை பிரதேச செயலர் பிரிவில் 111 குடும்பங்களை சேர்ந்த 475 பேர் பாதிக்கப்பட்டுள்ளதுடன் இரண்டு வீடுகளும் பகுதியளவில் சேதமடைந்துள்ளன.
-
-பருத்தித்துறை பிரதேச செயலர் பிரிவில் 10 குடும்பங்களை சேர்ந்த 35 பேர் பாதிக்கப்பட்டுள்ளதுடன் எட்டு வீடுகளும் பகுதி அளவில் சேதமடைந்துள்ளன.
-
-நல்லூர் பிரதேச செயலர் பிரிவில் வெள்ள அனர்த்தம் மற்றும் இடி மின்னல் தாக்கத்தால் 5 குடும்பங்களைச் சேர்ந்த 14பேர் பாதிக்கப்பட்டுள்ளதுடன் வீடு ஒன்றும் பகுதி அளவில் சேதமடைந்துள்ளது.
-
-...
-
-[Data](articles/ebbfea71.json)
 
 ---
 
@@ -920,26 +714,6 @@ The Deputy Ministers who were sworn in at the Presidential Secretariat today (21
 
 ---
 
-### Russia's continental missile attack on Ukraine
-
-*2024-11-21 16:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
-
-Here's a summary of Russia's continental missile attack on Ukraine in approximately 200 characters:
-
-
-
-"Russia launched a wave of ballistic missiles from its mainland into Ukraine, targeting military facilities and civilian areas. The attack caused widespread destruction and casualties. Ukraine's air defense systems intercepted some missiles, but many reached their targets. The strike marked a significant escalation in Russia's ongoing conflict with Ukraine."
-
-🟩
-
-◼️
-
-[Data](articles/2d2d1f2c.json)
-
-[Extended Data](ext_articles/2d2d1f2c.ext.json)
-
----
-
 ### Touglas
 
 *2024-11-21 16:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸூக்கு-பிடியாணை/175-347576) · `ta`
@@ -1067,6 +841,26 @@ The body of the deceased has been kept at the Homagama Hospital for autopsy and 
 [Data](articles/646a0f76.json)
 
 [Extended Data](ext_articles/646a0f76.ext.json)
+
+---
+
+### Russia's continental missile attack on Ukraine
+
+*2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
+
+Here's a summary of Russia's continental missile attack on Ukraine in approximately 200 characters:
+
+
+
+"Russia launched a wave of ballistic missiles from its mainland into Ukraine, targeting military facilities and civilian areas. The attack caused widespread destruction and casualties. Ukraine's air defense systems intercepted some missiles, but many reached their targets. The strike marked a significant escalation in Russia's ongoing conflict with Ukraine."
+
+🟩
+
+◼️
+
+[Data](articles/2d2d1f2c.json)
+
+[Extended Data](ext_articles/2d2d1f2c.ext.json)
 
 ---
 
@@ -2549,5 +2343,263 @@ Meanwhile, the civil society has appealed to the Ambassador to the journalists f
 [Data](articles/e4aab60c.json)
 
 [Extended Data](ext_articles/e4aab60c.ext.json)
+
+---
+
+### “There is no one above the law” (the entire text link)
+
+*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சட்டத்துக்கு-மேல்-யாருமில்லை-முழு-உரையும்-இணைப்பு/150-347554) · `ta`
+
+N
+
+🟩
+
+அக்கிராசனத்தில் இருந்து நாட்டு மக்களுக்கு உரையாற்றிகொண்டிருக்கும் ஜனாதிபதி அனுரகுமார திசாநாயக்க, சட்டத்துக்கு மேல் யாரும் இல்லை, நான், உட்பட அனைவரும் சட்டத்துக்கு ​கீழ்படிந்தவர்கள். In addition, investigations will be carried out in the case of the most horrific incidents in the past and stopped before the law.
+
+President Anura Kumara Dissanayake delivered the first session of the Tenth Parliament (2024-11-21).
+
+Today is a special day in our Parliament. The authority was handed over to both groups. Our side has empowered the last presidential election. இலங்கை வரலாற்றில் அது முக்கியமானது.  எமது நாட்டின் தேர்தல் முறையில் அதிகளவான எம்.பிக்கள் தெரிவு செய்யப்பட்டுள்ளனர். All the provinces and people have contributed to it as the North and East.
+
+...
+
+[Data](articles/10aef9e9.json)
+
+[Extended Data](ext_articles/10aef9e9.ext.json)
+
+---
+
+### “There is no one above the law”
+
+*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/சட்டத்துக்கு-மேல்-யாருமில்லை/150-347554) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anuragumara Dissanayake emphasizes equality under the law. He vows to investigate past atrocities and ensure justice prevails."
+
+🟩
+
+President Anuragumara Dissanayake, who is addressing the people from the country, is no one above the law.. In addition, investigations will be carried out in the case of the most horrific incidents in the past and stopped before the law.
+
+◼️
+
+[Data](articles/62974a1b.json)
+
+[Extended Data](ext_articles/62974a1b.ext.json)
+
+---
+
+### “There is no one above the law”
+
+*2024-11-21 11:51:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டத்துக்கு-மேல்-யாருமில்லை/175-347554) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"No one is above the law" - President Anuragumara Dissanayake addresses citizens. Investigations will be conducted into past horrific incidents and perpetrators held accountable legally.
+
+🟩
+
+President Anuragumara Dissanayake, who is addressing the people from the country, is no one above the law.. In addition, investigations will be carried out in the case of the most horrific incidents in the past and stopped before the law.
+
+◼️
+
+[Data](articles/bcfb039f.json)
+
+[Extended Data](ext_articles/bcfb039f.ext.json)
+
+---
+
+### Ukraine fires UK-supplied Storm Shadow missiles into Russia for first time
+
+*2024-11-21 11:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/103661/ukraine-fires-uk-supplied-storm-shadow-missiles-into-russia-for-first-time) · `en`
+
+Ukraine fired a volley of British Storm Shadow cruise missiles into Russia on Wednesday, the latest new Western weapon it has been permitted to use on Russian targets a day after it fired U.S. ATACMS missiles.
+
+The strikes were widely reported by Russian war correspondents on Telegram and confirmed by an official on condition of anonymity. A spokesperson for Ukraine’s General Staff said he had no information.
+
+Moscow has said the use of Western weapons to strike Russian territory far from the border would be a major escalation in the conflict. Kyiv says it needs the capability to defend itself by hitting Russian rear bases used to support Moscow’s invasion, which entered its 1,000th day this week.
+
+Accounts of Russian war correspondents on Telegram posted video they said included the sound of the missiles striking Kursk region, which borders northeastern Ukraine.
+
+...
+
+[Data](articles/a37be8be.json)
+
+[Extended Data](ext_articles/a37be8be.ext.json)
+
+---
+
+### Influence in trio CID
+
+*2024-11-21 11:46:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூவர்-CIDயில்-முன்னிலை/175-347552) · `ta`
+
+Former ministers summoned CID over substandard vaccine deal
+
+🟩
+
+Former ministers Ramesh Pathirana, Roshan Ranasinghe and Prasanna Ranatunga visited the Criminal Investigation Department on Thursday morning.
+
+They have been summoned to the Criminal Investigation Department (CID) to obtain a confession on the approval of the Cabinet paper filed by former Health Minister Keheliya Rambukwella on the purchase of substandard immunization.
+
+Former Minister Harin Fernando is expected to appear before the Criminal Investigation Department on Friday (22).
+
+Accordingly, the Criminal Investigation Department said that the Criminal Investigation Department (CID) had announced that he would have a confession to the 18 ministers headed by former President Ranil Wickremesinghe, who represented the Cabinet regarding the approval of the Cabinet paper presented in the House of Health, Keheliya Rambukwella.
+
+...
+
+[Data](articles/6a511bad.json)
+
+[Extended Data](ext_articles/6a511bad.ext.json)
+
+---
+
+### Doctors who removed 10 kg of tumor from the woman's uterus - the incident in Hambantota
+
+*2024-11-21 11:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/199302) · `ta`
+
+Here's a summary in 200 characters:
+
+
+
+Hambantota doctors remove 10kg tumor from woman's uterus. Team led by Dr. Samantha Samarawickrama succeeds in operation.
+
+🟩
+
+Doctors of the Hambantota hospital have successfully removed a 10kg weighing tumor from a female's womb.
+
+A team of doctors including postpartum specialist Samantha Samarawickrama has achieved this feat.
+
+◼️
+
+[Data](articles/dffc9cdf.json)
+
+[Extended Data](ext_articles/dffc9cdf.ext.json)
+
+---
+
+### There is no room for racist and religious extremist slogans
+
+*2024-11-21 11:40:53* · [`adalk`](https://www.ada.lk/breaking_news/ජාතිවාදී-හා-ආගමික-අන්තවාදී-සටන්-පාඨ-වලට-ආයේ-ඉඩ-නෑ/11-413192) · `si`
+
+Here's a 200-character summary:
+
+
+
+President Anura Kumara Dissanayake emphasizes multi-party democracy, rejects racist/religious extremism slogans, and calls for fulfilling public expectations in his policy statement.
+
+🟩
+
+President Anura Kumara Dissanayake said that a single party administration would not expect a single party administration and the multi party democracy is accepted.
+
+The President said that the vision of the people and the people who did not donted and the people were obliged.
+
+He made this statement by delivering the policy statement of the new Parliament.
+
+He added that the people had fulfilled their share and that they are now fulfilling the public for the government.
+
+He added that the people are obliged to fulfill the expectations of the people and the provincial division will not allow nationality control in the country.
+
+He said that a manner or religious extremism would not be able to return.
+
+◼️
+
+[Data](articles/f47b1c27.json)
+
+[Extended Data](ext_articles/f47b1c27.ext.json)
+
+---
+
+### "I am a racist"
+
+*2024-11-21 11:40:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனவாதத்துக்கு-இடமளியேன்/175-347551) · `ta`
+
+Here's a summary of 200 characters:
+
+
+
+"President Anura Kumara Dissanayake vows not to tolerate racism, religious discrimination, or political bias."
+
+🟩
+
+President Anura Kumara Dissanayake said that he would no longer be accommodated for racism, religious or politics through it, "he said.
+
+◼️
+
+[Data](articles/46511e65.json)
+
+[Extended Data](ext_articles/46511e65.ext.json)
+
+---
+
+### President presents the policy statement of the government
+
+*2024-11-21 11:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203595) · `si`
+
+Here's a summary of 200 characters:
+
+
+
+Sri Lankan President Anura Kumara Dissanayake addresses Parliament, outlining government policies. Emphasizes democracy, public service reform, religious tolerance, and rule of law. Promises justice for victims of recent controversies.
+
+🟩
+
+President Anura Kumara Dissanayake is presented by the government's policy in Parliament.
+
+The first congregation of the 10th Parliament commenced today (21st) and a speech was suspended temporarily.
+
+The President then took 11.30 am to the parliamentary session and the President is presenting the government's policy statement.
+
+The President also said that all people were thankful for the belief that all the people had faith in the government, including him.
+
+The President said that as democratic country, a single party in Sri Lanka would never expect the country rule.
+
+As such, the President said that the needs of all citizens are obliged to fulfill.
+
+The president said that the President has taken the responsibility of the people and that the president of the election campaign has been concluded as the president.
+
+He also emphasized that there is no room for any religious extremism.
+
+"But I assure you that no one will build racial, religious, slogans to recover political power in our country ..."
+
+...
+
+[Data](articles/490898fa.json)
+
+[Extended Data](ext_articles/490898fa.ext.json)
+
+---
+
+### Why did the new government decide the importation of rice at the first Cabinet?
+
+*2024-11-21 11:32:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/clyrx80l83go) · `si`
+
+Here's a summary of the text in approximately 200 characters:
+
+
+
+New government decides to import rice from India to address national shortage. Minister Wasantha Samarasinghe announces 70,000 metric tons import plan. Opposition criticizes move, citing potential profiteering. President intervenes, urging fair pricing and increased local production.
+
+🟩
+
+At the first Cabinet of the new government, he decided to import rice from India.
+
+The Minister of Trade, Commercial, Food Safety and Co-operative Development, Wasantha Samarasinghe said that 70,000 metrics as a solution to the shortage of rice shortage in the country said Wasantha Samarasinghe.
+
+Price Control Price: 'No law to climb the fines fines fines fines
+
+"Behind the deficit of this rice is the strategies and tactics to make extra profits through the price hike, Minister Wasantha Samarasinghe is not waiting for the decision to import the rice.He said at a press conference held on November 20.
+
+The Golden Nadu Rice, which imports the country through the Circular Corporation, will be released to the public through a price of Rs. 15 to Rs.
+
+MP Namal Karunaratne said that this is a program to "fuel the rice mill owners', opposing rice abroad.
+
+...
+
+[Data](articles/38b30ca0.json)
+
+[Extended Data](ext_articles/38b30ca0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 19:26:15**
+As of **2024-11-21 19:18:07**
 
 ## Newspaper Stats
 
-*Scraped **56,184** Articles*
+*Scraped **56,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,293
 adaderanalk | 6,791
-tamilmirrorlk | 7,982
+tamilmirrorlk | 7,981
 virakesarilk | 9,126
 adaderanasinhalalk | 9,698
 
@@ -26,23 +26,11 @@ adaderanasinhalalk | 9,698
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,182 (100.0%) of 56,184 articles have been extended.
+56,182 (100.0%) of 56,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
-
-### தேசியப் பட்டியலில் தெரிவானார் எம்.எஸ்.நளீம்
-
-*2024-11-21 19:10:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேசியப்-பட்டியலில்-தெரிவானார்-எம்-எஸ்-நளீம்/175-347579) · `ta`
-
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் (SLMC) தனது தேசியப்பட்டியல் பாராளுமன்ற உறுப்பினராக ஏறாவூர் நகர சபையின் முன்னாள் தவிசாளர் எம்.எஸ்.நளீம் அவர்களைப் தெரிவு செய்துள்ளது.
-
-◼️
-
-[Data](articles/9b2f465a.json)
-
----
 
 ### ICC issues arrest warrants for Israel’s Netanyahu, Gallant and Hamas leader
 
@@ -2535,5 +2523,25 @@ The Deputy Solicitor General of the Government Solicitor General of the Governme
 [Data](articles/51f8e004.json)
 
 [Extended Data](ext_articles/51f8e004.ext.json)
+
+---
+
+### New Members of Parliament sworn-in
+
+*2024-11-21 10:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/103656/new-members-of-parliament-sworn-in) · `en`
+
+The newly elected Members of Parliament were sworn in following the election of the Speaker during the inaugural session of the new Parliament this morning.
+
+The MPs of the tenth Parliament took oath before the new Speaker Asoka Ranwala in the chambers.
+
+The first sitting of the 10th Parliament of Sri Lanka commenced at 10.00 a.m. this morning (21) with the participation of the newly-elected legislators.
+
+After the General Secretary of the Parliament Mrs. Kushani Rohanadheera read the gazette notification issued by the President with regard to the inaugural session of the 10th Parliament, National People’s Power (NPP) Gampaha District MP Asoka Sapumal Ranwala was unanimously elected as the new Speaker of Parliament.
+
+◼️
+
+[Data](articles/5d8f850a.json)
+
+[Extended Data](ext_articles/5d8f850a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 15:25:43**
+As of **2024-11-21 15:42:02**
 
 ## Newspaper Stats
 
-*Scraped **56,146** Articles*
+*Scraped **56,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 3,407
 dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,286
-adaderanalk | 6,785
+adaderanalk | 6,787
 tamilmirrorlk | 7,970
 virakesarilk | 9,117
 adaderanasinhalalk | 9,695
@@ -26,11 +26,33 @@ adaderanasinhalalk | 9,695
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,145 (100.0%) of 56,146 articles have been extended.
+56,146 (100.0%) of 56,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
+
+### Former UK Deputy Prime Minister John Prescott dies at age 86
+
+*2024-11-21 14:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/103668/former-uk-deputy-prime-minister-john-prescott-dies-at-age-86) · `en`
+
+British politician John Prescott, a former merchant seaman who rose to the post of deputy prime minister, has died at age 86.
+
+Prescott’s family announced his death on Thursday. They said the politician, who had been suffering from Alzheimer’s disease, died peacefully in a care home on Wednesday with his loved ones around him.
+
+The family said Prescott had “spent his life trying to improve the lives of others, fighting for social justice and protecting the environment.”
+
+For a decade, Prescott brought grit, humor and working-class authenticity to the government of the young, polished Tony Blair, who became prime minister in 1997.
+
+“He was one of the most talented people I ever encountered in politics, one of the most committed and loyal, and definitely the most unusual,” Blair said.
+
+An amateur boxer in his youth, Prescott was a pugnacious politician who memorably punched a man who threw an egg at him during the 2001 general election.
+
+...
+
+[Data](articles/b51514a2.json)
+
+---
 
 ### The victory of the national people's power is an earthquake in Sri Lankan politics - Erichcolheim
 
@@ -264,19 +286,27 @@ Highlighting the sector’s potential, he stated that the current IT workforce o
 
 ---
 
-### இந்திய இழுவைப் படகுகளின் அத்துமீறல்கள் ; முல்லைத்தீவிலிருந்து ஜனாதிபதிக்கு அனுப்பப்பட்ட கையெழுத்து மடல்
+### The transgressions of Indian drag boats;Signature Fleet sent to President from Mullaitivu
 
 *2024-11-21 13:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/199317) · `ta`
 
-இலங்கை கடல் எல்லைக்குள் இந்திய இழுவைப் படகுகளின் அத்துமீறல்களை உடனடியாக நிறுத்த கோரி கையெழுத்திடப்பட்ட தபாலட்டைகள் இன்று வியாழக்கிழமை (21) ஜனாதிபதிக்கு முல்லைத்தீவு மக்களால் அனுப்பி வைக்கப்பட்டுள்ளது.
+Indian trawlers violate Sri Lankan waters. Mullaitivu fishermen protest, demand action. Over 500 signatures sent to President seeking protection.
 
-கார்த்திகை 21 சர்வதேச மீனவர் தினமாகிய இன்று சூழலியல் மற்றும் சமூக அபிவிருத்திக்கான நிறுவனத்தின் (ECDO) ஏற்பாட்டில் இந்திய இழுவைப் படகுகளை இலங்கை கடற்பரப்பிற்குள் வரவிடாது தடுப்பதற்குரிய நடவடிக்கைகளை உடனடியாக எடுக்குமாறு கோரிய தபாலட்டைகள் முல்லைத்தீவு மக்கள், முல்லைத்தீவு மீனவர்களினால் ஜனாதிபதிக்கு அனுப்பி வைக்கப்பட்டுள்ளது.
+🟩
 
-இன்றைய மீனவர் தினத்தில் இலங்கை முழுவதுமாக விஷேடமாக முல்லைத்தீவு மாவட்டம் இந்திய மீனவர்களுடைய இழுவை படகுகளினுடைய அத்துமீறல்களும், முல்லைத்தீவு கடற்பரப்பில் காணப்படுகின்ற கடற் திரவியங்கள் அனைத்தும் இந்திய இழுவை படகுகள் மூலமாக அபகரித்து செல்லுகின்ற துர்ப்பாக்கிய நிலை இச்சூழலில் அதிகமாக காணப்படுகின்றது.
+Mullaitivu people have been sent to the President on Thursday (21) today (21st).
+
+The Mullaitivu people have been sent to the President by the Mullaitivu fishermen, who have demanded immediate measures to prevent Indian trawlers from entering the Sri Lankan waters under the Ecology and Social Development Institute (ECDO), which is the 21 International Fishermen's Day.
+
+On the occasion of the fishermen's day, the Mullaitivu district of Mullaitivu district, the transgressors of the Indian fishermen's drag boats and all the seas found in the Mullaitivu seas, are increasingly in this context.
+
+Fishermen from the Mullaitivu district go to sea and spend their lives with a huge loss.. More than 500 postpartments from the Mullaitivu district have been sent to the President of the Mullaitivu district today to send the names of the people of Mullaitivu and the Mullaitivu fishermen to the President of Sri Lanka, Anuragumara Dissanayake, who has created a massive image that is a change in Sri Lanka.
 
 ...
 
 [Data](articles/4b50045d.json)
+
+[Extended Data](ext_articles/4b50045d.ext.json)
 
 ---
 
@@ -297,6 +327,24 @@ The President acknowledged the delay in the third review, initially scheduled fo
 [Data](articles/2fb436d1.json)
 
 [Extended Data](ext_articles/2fb436d1.ext.json)
+
+---
+
+### Sri Lanka likely to sign IMF staff-level agreement on Nov. 23
+
+*2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-nov-23) · `en`
+
+President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arrangement for Sri Lanka could be finalized and signed by November 23.
+
+Highlighting the critical role of economic stability, the President underscored the importance of adhering to existing agreements.
+
+“We inherited a country already bound by an agreement with the IMF when we assumed office. Breaking away from this agreement is not an option if we aim to progress,” he stated, reiterating the government’s commitment to managing the economy within the framework of the agreed parameters of the IMF.
+
+The President acknowledged the delay in the third review, initially scheduled for September, attributing it to the recent elections. However, he noted that the IMF delegation resumed discussions immediately after the 2024 General Election.
+
+...
+
+[Data](articles/dafa529f.json)
 
 ---
 
@@ -2421,69 +2469,5 @@ The information is yet to be revealed as to who shot.
 [Data](articles/ccf31461.json)
 
 [Extended Data](ext_articles/ccf31461.ext.json)
-
----
-
-### Showers over 100mm, Sabaragamuwa and South
-
-*2024-11-21 06:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203580) · `si`
-
-Heavy rainfall warnings issued for Western, Sabaragamuwa, and Southern provinces. Low-pressure system developing off southeast coast. Thunderstorms possible nationwide, especially evenings/nights. Public advised to take precautions against lightning and strong winds.
-
-🟩
-
-There may be Heavy experiences over 100 mm in the Western, Sabaragamuwa and Southern provinces.
-
-Meanwhile, the Department of Meteorology announces that a low-pressure zone of the Southeast Bay Bay Bay Bay Bay Bay Bay of Bay Bay Bay of Bay Bay Bay of Bay Bay.
-
-The system is expected to grow to the eastern coast of the island.
-
-Meanwhile, there may be showers or thundershowers at times in the North, North-central and eastern provinces.
-
-Thundershowers during the evening or night during the evening or night in the rest of the island.
-
-Some locations in the Western, Sabaragamuwa, Central, Uva and Southern provinces can last a morning.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/741831be.json)
-
-[Extended Data](ext_articles/741831be.ext.json)
-
----
-
-### Why have 15 police officers arrested for 28 days?
-
-*2024-11-21 04:19:19* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cwy4ldxdqyxo) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-15 police officers arrested for 28 days due to misconduct including assault, bribery, and violating election laws. New IGP vows stricter discipline. 298 officers suspended this year.
-
-🟩
-
-The police are entitled to the police that is important to protect public safety and peace.
-
-According to the Sri Lanka Police Ordinance, the masses living in the country are entrusted to the police, protecting peace and responsibilities to protect their property.
-
-Such a responsibility is often seen when the police officers are often respected and criticized.
-
-There are many opportunities against the masses that certain officers of the Police Department abuse power. When the civilians complained before the Human Rights Commission, the civilians complained before the Human Rights Commission regarding such incidents.
-
-Also, some police officers were accused of dealing with the suspects in order to reveal their identity.
-
-A video clip that the police manifested the shooting incident in Athurugiriya and another person was involved in the shooting incident.There was also a huge chat in the country.
-
-Deshabandu Tennakoon: 'New IGP is not a suitable or constitutional decision'
-
-...
-
-[Data](articles/585bb286.json)
-
-[Extended Data](ext_articles/585bb286.ext.json)
 
 ---

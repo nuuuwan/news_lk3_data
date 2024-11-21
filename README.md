@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-22 01:25:50**
+As of **2024-11-22 02:41:26**
 
 ## Newspaper Stats
 
-*Scraped **56,229** Articles*
+*Scraped **56,236** Articles*
 
 newspaper | n
 --- | ---:
 newsfirstlk | 363
-dbsjeyarajcom | 433
+dbsjeyarajcom | 434
 colombotelegraphcom | 575
 bbccomsinhala | 584
 islandlk | 3,357
 economynextcom | 3,413
-dailyftlk | 3,846
+dailyftlk | 3,852
 dailymirrorlk | 4,733
 adalk | 5,296
 adaderanalk | 6,795
@@ -26,11 +26,111 @@ adaderanasinhalalk | 9,703
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,229 (100.0%) of 56,229 articles have been extended.
+56,235 (100.0%) of 56,236 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-22 (Friday)
+
+### Brand AKD defies marketing theory to win
+
+*2024-11-22 01:55:49* · [`dailyftlk`](https://www.ft.lk/columns/Brand-AKD-defies-marketing-theory-to-win/4-769529) · `en`
+
+Brand AKD/NPP with impactful marketing has generated a strong response
+
+If one tracks back at Brand AKD and Brand NPP strategy it is marketing at its best. Work began as far back as two years ago with the two propositions – highlighting the cost of living issue and the corruption that was taking place. Sugar scam, visa scam just to name a few of the governance issues in the recent past that were highlighted
+
+...
+
+[Data](articles/483420c6.json)
+
+[Extended Data](ext_articles/483420c6.ext.json)
+
+---
+
+### A pile of welcome shifts in the plate tectonics of local politics
+
+*2024-11-22 01:43:06* · [`dailyftlk`](https://www.ft.lk/columns/A-pile-of-welcome-shifts-in-the-plate-tectonics-of-local-politics/4-769527) · `en`
+
+Even a cursory glance at the presidential and parliamentary elections of 2024 will amply demonstrate that the earth has well and truly moved under our feet
+
+The super majority that the president enjoys in parliament may well be the silver bullet a nation that was once more than morally bankrupt needs to extricate itself from its present manifold predicaments – endemic/systemic corruption first and foremost among them… IF the endorsement of a subsequent (almost) 6.9 million voters doesn’t turn his head, or the realities of the realpolitik that may become necessary to run the republic cause the ship of state to founder
+
+Politics is the art of the possible. And more often than not, the gradual erosion of the political soil by the dirt and debris of decades makes the seemingly impossible also come to pass.
+
+...
+
+[Data](articles/e76ee7f0.json)
+
+[Extended Data](ext_articles/e76ee7f0.ext.json)
+
+---
+
+### Prioritise justice and reconciliation following election victory
+
+*2024-11-22 01:36:47* · [`dailyftlk`](https://www.ft.lk/opinion/Prioritise-justice-and-reconciliation-following-election-victory/14-769526) · `en`
+
+The broad-based support for the Government, spanning all regions of the country—including areas predominantly inhabited by ethnic and religious minorities—demonstrates a significant step towards national unity
+
+The National Peace Council (NPC) extends its congratulations to President Anura Kumara Dissanayake and the National People’s Power (NPP) on their election victory, which secured a two-thirds majority in Parliament. This overwhelming mandate reflects the trust placed in the President and his party to lead the country towards economic development, justice, and reconciliation.
+
+...
+
+[Data](articles/cb7d0bc1.json)
+
+[Extended Data](ext_articles/cb7d0bc1.ext.json)
+
+---
+
+### Sri Lanka’s SMEs: Debt-trapped dilemma
+
+*2024-11-22 01:22:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-SMEs-Debt-trapped-dilemma/4-769525) · `en`
+
+A substantial portion of Sri Lankan SMEs, approximately 70%, are currently insolvent or teetering on the brink of bankruptcy
+
+A cornerstone of successful debt recovery lies in preserving the business’s operational viability rather than resorting to liquidation. Many debt restructuring solutions fall short by neglecting the critical aspect of cash flow matching, which is fundamental to servicing debt obligations. By strategically realigning assets based on their utilisation, it is possible to strike a balance between debt recovery and cash generation, fostering a more sustainable recovery process
+
+...
+
+[Data](articles/8fe0311f.json)
+
+[Extended Data](ext_articles/8fe0311f.ext.json)
+
+---
+
+### Pathway for economic development of Sri Lanka
+
+*2024-11-22 01:11:29* · [`dailyftlk`](https://www.ft.lk/columns/Pathway-for-economic-development-of-Sri-Lanka/4-769524) · `en`
+
+It appears that FDIs most probably have deliberately avoided investing in SL mainly due to the poor political instability prevailing in the country from about 1956
+
+The path to prosperity of Sri Lanka starts from political stability to enable it to attract mainly FDI as it lacks the capital, skills, technologies and the required international market access to start an export-led strategy of economic development to achieve higher growth and reduce poverty. In this strategy it is important to emphasise on promoting especially the productivity (of the private sector, (which has been described as the ‘the engine of growth’) apart from upgrading the macroeconomic stability of the country and the international market access
+
+...
+
+[Data](articles/3b274533.json)
+
+[Extended Data](ext_articles/3b274533.ext.json)
+
+---
+
+### End of Tamil nationalism? Not according to the numbers
+
+*2024-11-22 00:55:12* · [`dailyftlk`](https://www.ft.lk/opinion/End-of-Tamil-nationalism-Not-according-to-the-numbers/14-769523) · `en`
+
+An analysis of Sri Lankan election data highlights a collapse of many Government affiliated parties and reveals why Tamil nationalism might be growing – not shrinking
+
+The 2024 Sri Lankan Parliamentary election concluded last week, in which the ruling National People’s Power (NPP) gained a record majority and made headway into the Tamil homeland. There were notable casualties for senior Tamil nationalist politicians and for the first time ever a southern political party managed to gain a majority in all but one district in the north-east. Commentators have since speculated whether the result spells the beginning of the end for Tamil nationalist politics.
+
+Instead, the figures highlight a range of factors, including the fall of other southern Opposition political parties, leftist coalitions and paramilitary groups that allowed the NPP to siphon votes and grow their base amongst those who had already previously voted for pro-state forces.
+
+...
+
+[Data](articles/1a242b79.json)
+
+[Extended Data](ext_articles/1a242b79.ext.json)
+
+---
 
 ### Model election amendments should be made
 
@@ -1814,6 +1914,20 @@ The postponement was followed by the president's issuance of the government's po
 
 ---
 
+### Anura “Alai”(Wave) Engulfs  the Tamil Nationalist Stronghold of  Jaffna. JVP/NPP Comes First in Jaffna with Three of Six Seats
+
+*2024-11-21 15:15:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85098) · `en`
+
+The National  People’s Power(NPP) known in Sinhala as Jathika Jana Balawegaya(JJB) and Theseeya Makkal Sakthi(TMS) in Tamil has recorded a historic victory in the  Parliamentary elections held on 14 November 2024. The NPP  is a coalition of 21 political entities and trade unions of which the Janatha Vimukthi Peramuna(JVP) is the chief constituent. The NPP  polled 6,863,86 (61.6%) votes to win 159 seats in the 225 member Parliament. Of these 141 are directly elected MPs on a district basis while 18 will be  appointed as  MPs from the  national list.
+
+...
+
+[Data](articles/f1b58dc6.json)
+
+[Extended Data](ext_articles/f1b58dc6.ext.json)
+
+---
+
 ### Sri Lanka bank financial profiles to improve after ISB restructure: Fitch
 
 *2024-11-21 15:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-bank-financial-profiles-to-improve-after-isb-restructure-fitch-189250/) · `en`
@@ -1835,6 +1949,20 @@ Sri Lanka President Anura Dissanayake said he expected to wrap up ISB restructur
 [Data](articles/399161c1.json)
 
 [Extended Data](ext_articles/399161c1.ext.json)
+
+---
+
+### “Today, all communities across all provinces have trusted us and granted us this power. It is with profound gratitude that I extend my deepest respect and thanks to the people who trusted us.”-President Anura Kumara Dissanayake
+
+*2024-11-21 15:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=85104) · `en`
+
+(Full  Text of Address  Delivered by President Anura Kumara Dissanayake on 21 November 2024 at the Inauguration of the First Session of the Tenth Parliament)
+
+Today is an exceptionally significant day in the history of our Parliament. For decades, political power in our country shifted back and forth between two main camps. However, during the last Presidential and General Elections, that political power was entrusted to a new camp, us. This marks a monumental moment in the history of Sri Lanka’s Parliament.
+
+...
+
+[Data](articles/9cd5c793.json)
 
 ---
 
@@ -2367,211 +2495,5 @@ ECONOMYNEXT- Sri Lanka will have a state share in energy, banking sector to dire
 [Data](articles/4bf89585.json)
 
 [Extended Data](ext_articles/4bf89585.ext.json)
-
----
-
-### Arjuna Ramanathan sitting in the seat of opposition leader
-
-*2024-11-21 13:11:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எதிர்க்கட்சி-தலைவர்-ஆசனத்தில்-அமர்ந்த-அர்ஜுனா-இராமநாதன்/175-347560) · `ta`
-
-Dr. Arjuna Ramanathan sat as opposition leader in Sri Lanka's 10th Parliament. He claimed the right to occupy that seat, citing changes in government roles. This move sparked debate and went viral.
-
-🟩
-
-The first session of the tenth parliament gathered at 10 am on Thursday (21). Prior to that, members entered the congregation. Dr. Arjuna Ramanathan, a member of the Jaffna MP, was sitting on the seat of the opposition leader
-
-Arjuna Ramanathan asked the employees to say that it was the opposition leader's seat.. The video on this has gone viral.
-
-MPs can sit anywhere in the new session. However, Arjuna Ramanathan replied that the employee has come to change the formation of the President, the Prime Minister and the Leader of the Opposition.
-
-◼️
-
-[Data](articles/8f70c990.json)
-
-[Extended Data](ext_articles/8f70c990.ext.json)
-
----
-
-### Israeli workers reduce air ticket fees
-
-*2024-11-21 13:09:23* · [`adalk`](https://www.ada.lk/breaking_news/ඊශ්‍රායල්-යන-ශ්‍රමිකයින්ගෙන්-අයකල-ගුවන්-ටිකට්පත්-ගාස්තු-අඩුකරයි/11-413196) · `si`
-
-Here's a summary of 200 characters:
-
-
-
-Israeli workers see significant air ticket fee reductions due to new purchasing methods implemented by Sri Lanka's Foreign Employment Agency. Direct ticket purchases and e-tender system lead to lower fares, benefiting migrant workers.
-
-🟩
-
-Sri Lanka Foreign Employment Agency Chairman Ananda Lal Hettiarachchi, Chairman of Sri Lanka Foreign Employment Agency (SLBFE), Chairman of the Sri Lanka Bureau of Foreign Employment AgencyOn the steps taken, the price of the airline could be reduced in a large amount of air ticket.
-
-The Chairman of the Sri Lanka Bureau of Foreign Employment and Sri Lanka Foreign Employment Bureau, Kosala Wickremasinghe and Sri Lanka Foreign Employment Agency of Sri Lanka Ananda Lal Hettiarachchi said:
-
-"Air Ticketing of the Foreign Employment Agency has been priced through the Foreign Employment Agency through Foreign Employment Agency through the Foreign Employment Agency Institute through Foreign Employment Agency through Foreign Employment Agency.. Tell the Chairman to 'Tell the Chairman' program, I got many personal complaints. Purchasing of air tickets in the past period was carried out by the tender mechanism.
-
-...
-
-[Data](articles/7540b7a2.json)
-
-[Extended Data](ext_articles/7540b7a2.ext.json)
-
----
-
-### Reforms about crimes that have led to controversy
-
-*2024-11-21 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/203597) · `si`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Controversial crime reforms spark debate. President Anura Kumara Dissanayake emphasizes rule of law and justice. Investigations into crimes causing unrest underway. Government committed to addressing controversial issues and ensuring political freedom while upholding law and order.
-
-🟩
-
-President Anura Kumara Dissanayake says that investigations into the controversy have been investigated.
-
-The President was speaking at the Government Policy Statement in Parliament while participating at the Mangala Session of Parliament.
-
-...
-
-[Data](articles/d7305344.json)
-
-[Extended Data](ext_articles/d7305344.ext.json)
-
----
-
-### President assures an efficient public service, justice for controversial crimes
-
-*2024-11-21 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/103664/president-assures-an-efficient-public-service-justice-for-controversial-crimes) · `en`
-
-Delivering the new government’s policy statement, President Anura Kumara Dissanayake emphasized the importance of public accountability, highlighting that the Parliament is no longer a concealed institution to the general public.
-
-“The Parliament is not a hidden cave anymore. Daily proceedings are open to public scrutiny. As representatives of the people, everything we do—how we speak, how we behave—is under their watchful eye.”
-
-The public’s duty does not end with electing us; they have the right to scrutinize us until the next mandate. I believe this Parliament is capable of passing such scrutiny,” the President said, during the inaugural session of the 10th Parliament today (21).
-
-Addressing the public sector’s critical role, President Dissanayake underlined the historic mandate given to his government by the public sector and the need to transform the public service into an efficient and people-centered institution.
-
-...
-
-[Data](articles/1d5260b4.json)
-
-[Extended Data](ext_articles/1d5260b4.ext.json)
-
----
-
-### New flight between Singapore and Sri Lanka
-
-*2024-11-21 12:53:29* · [`adalk`](https://www.ada.lk/breaking_news/සිංගප්පූරුව-හා-ලංකාව-අතර-නව-ගුවන්-ගමනක්/11-413195) · `si`
-
-Singapore-Sri Lanka direct flight launched. Jet Star Airlines' Airbus A320 carried 179 passengers from Singapore to Colombo's Bandaranaike International Airport. Return flights scheduled for Mondays and Thursdays.
-
-🟩
-
-The first flight of the Jet Star arrived at the Bandaranaike International Airport, commenced on a timeline between Sri Lanka and Singapore.
-
-Accordingly, the flight held from Singapore at 10.15 am to the Katunayake airport.
-
-Airbuals 320 was deployed for the flight, which was 179 passengers and six as staff.
-
-The aircraft was admitted to the airport and had been admitted to the airport.
-
-The aircraft will return to the Bandaranaike International Airport at 11.30 pm on the night at 10.30 pm on Monday Airport at 10.30 pm on Monday, Monday.
-
-The aircraft will be returning to the Bandaranaike International Airport at 10.30 am on Thursdays and Sundays.
-
-The airport manager said that the airport charge would be charged for Singapore back to Sri Lanka through the airline.
-
-The airplane was 178 passengers and six others as aviation staff at 11.30 pm on 11.30 days.
-
-◼️
-
-[Data](articles/72deef18.json)
-
-[Extended Data](ext_articles/72deef18.ext.json)
-
----
-
-### “The law should be to stop family violence”
-
-*2024-11-21 12:50:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடும்ப-வன்முறைகளை-நிறுத்த-சட்டம்-வேண்டும்/175-347559) · `ta`
-
-Here's a summary of 200 characters:
-
-
-
-"Stop family violence: High rates in Sri Lanka. Call for stricter laws. Affects children psychologically. Need emergency helpline."
-
-🟩
-
-Family violence against women in Sri Lanka is very high.Husband, father -in -law and mother -in -law. In some homes, women are persecuted by women. International Media Council Chairman Dunston Mani has called for Women and Child Affairs Minister Saroja Ballraj to implement strict laws to stop family violence for the benefit of children in families.
-
-In the ongoing parliamentary general election, the current government, which has come to power with the greatest support of all parts of the country, should take immediate steps to stop the violence against women in women's families.. This is because the violence in families affects the children growing up in the family environment. Not only affects them psychologically. Tenston Mani also requested immediate action to be taken.
-
-...
-
-[Data](articles/6400a9dc.json)
-
-[Extended Data](ext_articles/6400a9dc.ext.json)
-
----
-
-### Parliamentary session adjourned until December 3rd!
-
-*2024-11-21 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/199312) · `ta`
-
-Here's a summary of the text in approximately 200 characters:
-
-
-
-Parliament adjourned until Dec 3. New Speaker Ashoka Sabumal elected. Deputy Speaker Mohamed Rizi chosen. Hemali Weerasekera named Deputy Chairman. Bimal Ratnayake appointed Chief Minister. President proposed policy declaration before adjournment.
-
-🟩
-
-The president adjourned the parliamentary session for the next session until December 3, after the president presented the policy declaration of the government.
-
-The virgin session of the first session of the tenth parliament began today (21) at 10 am.
-
-The Secretary General of Parliament announced the gazette notification published by the President in the tenth parliamentary session.
-
-Subsequently, the Speaker of the 10th Parliament, Ashoka Sabumal Ranwala, has been unanimously elected as the Speaker of Parliament.
-
-Prime Minister Harini Amarasuriya proposed his name for the post of Speaker. Minister Vijitha Herath proposed it. The name of any other member is not proposed. Subsequently, he was unanimously elected to the post of Speaker.
-
-Minister Nalinda Jayadissa proposed the name of Mohamed Rizi for the post of Deputy Speaker. Minister Saroja Bolraj proposed it. He has been unanimously elected when the names of other candidates have not been proposed.
-
-...
-
-[Data](articles/decfeec4.json)
-
-[Extended Data](ext_articles/decfeec4.ext.json)
-
----
-
-### The Virgin Session of the 10th Parliament
-
-*2024-11-21 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/199288) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-"President Anura Kumara Dissanayake to present policy declaration at 10th Parliament's first session. No inaugural parade."
-
-
-
-This summary captures the main points in 200 characters, focusing on the key elements: the event, who will present, and the notable absence of a parade.
-
-🟩
-
-President Anura Kumara Dissanayake will present his government's policy declaration at the Virgin session of the first session of the parliament, which began with no parade.
-
-◼️
-
-[Data](articles/b98c8eba.json)
-
-[Extended Data](ext_articles/b98c8eba.ext.json)
 
 ---

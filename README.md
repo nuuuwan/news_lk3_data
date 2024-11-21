@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 16:41:13**
+As of **2024-11-21 17:10:41**
 
 ## Newspaper Stats
 
-*Scraped **56,169** Articles*
+*Scraped **56,171** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 3,844
 dailymirrorlk | 4,733
 adalk | 5,290
 adaderanalk | 6,790
-tamilmirrorlk | 7,977
+tamilmirrorlk | 7,979
 virakesarilk | 9,122
 adaderanasinhalalk | 9,697
 
@@ -26,83 +26,163 @@ adaderanasinhalalk | 9,697
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,155 (100.0%) of 56,169 articles have been extended.
+56,160 (100.0%) of 56,171 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-11-21 (Thursday)
 
-### නියොජ්‍ය අමාත්‍යවරු 29ක් දිවුරුම් දෙති
+### 29 பிரதியமைச்சர்கள் நியமனம்
+
+*2024-11-21 16:51:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/29-பிரதியமைச்சர்கள்-நியமனம்/175-347577) · `ta`
+
+ஜனாதிபதி அனுரகுமார திசாநாயக்கவினால், ஜனாதிபதி செயலகத்தில் வைத்து, 29 பிரதியமைச்சர்கள், வியாழக்கிழமை (21) மாலை நியமிக்கப்பட்டனர்.
+
+3 வசந்த பியதிஸ்ஸ கிராம அபிவிருத்தி, சமூக பாதுகாப்பு மற்றும் சமூக வலுவூட்டல் பிரதி அமைச்சர்
+
+5. ஆர்.எம். ஜயவர்தன வர்த்தக, வர்த்தக மற்றும் உணவுப் பாதுகாப்பு பிரதி அமைச்சர்
+
+6. கமகெதர திஸாநாயக்க புத்தசாசன, சமய மற்றும் கலாசார அலுவல்கள் பிரதி அமைச்சர்
+
+8. ரத்ன கமகே மீன்பிடி, நீரியல் மற்றும் பெருங்கடல் வள பிரதி அமைச்சர்
+
+17 பொறியியலாளர். ஜனித் ருவான்கொடித்துவக்கு துறைமுகங்கள் மற்றும் சிவில் விமான சேவைகள் பிரதி அமைச்சர்
+
+18 கலாநிதி. நாமல் சுதர்சன பெண்கள் மற்றும் சிறுவர் விவகார பிரதி அமைச்சர்
+
+20 Dr. பிரசன்ன குமார குணசேன போக்குவரத்து மற்றும் நெடுஞ்சாலைகள் பிரதி அமைச்சர்
+
+26 சட்டத்தரணி சுனில் வடகல பொது பாதுகாப்பு மற்றும் பாராளுமன்ற அலுவல்கள் பிரதி அமைச்சர்
+
+◼️
+
+[Data](articles/9829e076.json)
+
+---
+
+### டக்ளஸூக்கு பிடியாணை
+
+*2024-11-21 16:38:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/டக்ளஸூக்கு-பிடியாணை/175-347576) · `ta`
+
+வழக்கு ஒன்றில் சாட்சியமளிக்க நீதிமன்றில் ஆஜராகாத முன்னாள் அமைச்சர் டக்ளஸ் தேவானந்தாவுக்கு கொழும்பு மேலதிக நீதவான் பசன் அமரசேன, வியாழக்கிழமை (21) பிடியாணை பிறப்பித்து உத்தரவிட்டுள்ளார்.
+
+வெள்ளவத்தையைச் சேர்ந்த சுப்பிரமணியன் மனோகரன் என்ற வர்த்தகர் இரண்டு கோடி ரூபாய் பெறுமதியான காசோலைகளை வழங்கி மோசடி செய்ததாக  டக்ளஸ் தேவானந்தா செய்த முறைப்பாட்டின் பிரகாரம், அவர் (டக்ளஸ் தேவானந்தா) நீதிமன்றத்தில் ஆஜராகாத காரணத்தினால் இந்த பிடியாணையை பிறப்பித்துள்ளனர். இந்த வழக்கு, இரகசிய பொலிஸாரினால் தாக்கல் செய்யப்பட்டுள்ளார்.
+
+டக்ளஸ் தேவானந்தா நோய்வாய்ப்பட்டிருப்பதால் அவர் நீதிமன்றில் ஆஜராக மாட்டார் என அவர் சார்பில் ஆஜரான சட்டத்தரணி தெரிவித்தார்.
+
+வெள்ளவத்தையைச் சேர்ந்த தொழிலதிபர் சுப்பிரமணியன் மனோகரன் என்பவர், 2016 ஆம் ஆண்டு ஜூலை மாதம் 9 ஆம் திகதி அல்லது அன்றைய தினத்தில் கணக்கில் பணம் இல்லை என்பதை அறிந்து தலா பத்து மில்லியன் ரூபாய் காசோலைகளை வழங்கி மோசடி செய்ததாக, அவருக்கு எதிராக டக்ளஸ் தேவானந்தவால்  முறைப்பாடு செய்யப்பட்டிருந்தது.
+
+...
+
+[Data](articles/d8a66ad9.json)
+
+---
+
+### 29 delegates sworn in
 
 *2024-11-21 16:28:10* · [`adalk`](https://www.ada.lk/breaking_news/නියොජ්‍ය-අමාත්‍යවරු-29ක්-දිවුරුම්-දෙති/11-413204) · `si`
 
-ජාතික ජන බලවේගය රජයේ නියෝජ්‍ය අමාත්‍යවරු 29 දෙනෙක් ජනාධිපති අනුර කුමාර දිසානායක මහතා ඉදිරියේ අද (21) ජනාධිපති
+29 officials sworn in as Deputy Ministers. Key appointments: Agriculture, Rural Development, Trade, Buddha Sasana, Foreign Affairs, Industry, Ports, Women & Child Affairs, Provincial Councils, Transport, Health, Plantations, Public Defense, Education, Lands & Irrigation. Presidential Secretary also sworn in.
 
-01 මහාචාර්ය අනිල් ජයන්ත ප්‍රනාන්දු මහතා - ආර්ථික සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+🟩
 
-02 නාමල් කරුණාරත්න මහතා -  කෘෂිකර්ම සහ පශු සම්පත් නියෝජ්‍ය අමාත්‍ය
+Deputy Ministers Deputy Ministers President Anura Kumara Dissanayake today (21)
 
-03 වසන්ත පියතිස්ස මහතා - ග්‍රාමීය සංවර්ධන, සමාජ ආරක්ෂණ සහ ප්‍රජා සවිබල ගැන්වීමේ නියෝජ්‍ය අමාත්‍ය
+Namal Karunaratne - Deputy Minister of Agriculture and Livestock
 
-05 ආර්. එම්. ජයවර්ධන මහතා - වෙළෙඳ, වාණිජ, ආහාර සුරක්ෂිතතා සහ සමූපකාර සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+Wasantha Piyatissa - Deputy Minister of Rural Development, Social Security and Community Improvement
 
-06 ගමගෙදර දිසානායක මහතා - බුද්ධ ශාසන, ආගමික සහ සංස්කෘතික කටයුතු නියෝජ්‍ය අමාත්‍ය
+R. M. Deputy Minister of Trade, Commerce, Food Safety and Co-operative Development
 
-08 රත්න ගමගේ මහතා - ධීවර ජලජ සහ සාගර සම්පත් නියෝජ්‍ය අමාත්‍ය
+Dissanayake, Gamagedara Dissanayake Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
 
-11 අරුන් හේමචන්ද්‍රා මහතා  - විදේශ කටයුතු, විදේශ රැකියා නියෝජ්‍ය අමාත්‍ය
+Aravarandra - Deputy Minister of Foreign Affairs
 
-16 චතුරංග අබේසිංහ මහතා - කර්මාන්ත සහ ව්‍යවසායකත්ව සංවර්ධන නියෝජ්‍ය අමාත්‍ය
+Chaturanga Abeysinghe - Deputy Minister of Industry and Entrepreneurship Development
 
-17 ඉංජිනේරු ජනිත් රුවන් කොඩිතුවක්කු මහතා - වරාය සහ සිවිල් ගුවන් සේවා නියෝජ්‍ය අමාත්‍ය
+Engineering Janith Kodituwakku - Deputy Minister of Ports and Civil Aviation
 
-18 වෛද්‍ය නාමල් සුදර්ශන මහතා  - කාන්තා සහ ළමා කටයුතු නියෝජ්‍ය අමාත්‍ය
+Dr. Namal Sudarshana - Deputy Minister of Women and Child Affairs
 
-19 රුවන් සෙනරත් මහතා - පළාත් සභා සහ පළාත් පාලන නියෝජ්‍ය අමාත්‍ය
+Ruwan Senarath - Deputy Minister of Provincial Councils and Local Government
+
+Dr. Prasanna Kumara Gunasena - Deputy Minister of Transport and Highways
+
+Dr. Hanshana Wijemun - Deputy Minister of Health and Mass Media
+
+Sandaaringam Pradeep - Deputy Minister of Plantation and Community Infrastructure
 
 ...
 
 [Data](articles/073ff21c.json)
 
+[Extended Data](ext_articles/073ff21c.ext.json)
+
 ---
 
-### வடை சாப்பிட்ட நபர் மரணம்
+### The person who ate the dawn to death
 
 *2024-11-21 16:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வடை-சாப்பிட்ட-நபர்-மரணம்/175-347575) · `ta`
 
-வடை சாப்பிட்டுக் கொண்டிருக்கும் போது, ஏற்பட்ட இருமல்  காரணமாக வைத்தியசாலையில் அனுமதிக்கப்பட்ட நபர் ஒருவர் உயிரிழந்த சம்பவம்  அத்துருகிரிய பிரதேசத்தில் இடம்பெற்றுள்ளது.
+A man in Athurugiriya died after eating something harmful. He had a severe cough and was hospitalized. The cause of death is under investigation.
 
-தனது குடும்பத்தினருடன் உணவு உட்கொண்டிருந்த நிலையில் குறித்த நபர் வடை சாப்பிட்டுள்ளதுடன், இதன்போது திடீரென  இருமலுடன் ஒவ்வாமை ஏற்பட்டுள்ளது.
+🟩
 
-பின்னர்  சிகிச்சைக்காக  வைத்தியசாலைக்கு  கொண்டு செல்லப்பட்ட நிலையில் அவர் உயிரிழந்துவிட்டதாக வைத்தியர்கள் தெரிவித்துள்ளனர்.
+The incident took place in the Athurugiriya area where a person who was admitted to the hospital due to coughing caused by a dummy was eaten.
 
-உயிரிழந்த நபரின் சடலம் பிரேதப் பரிசோதனைக்காக ஹோமாகம வைத்தியசாலையில் வைக்கப்பட்டுள்ளதாகவும், இது தொடர்பான மேலதிக விசாரணைகள் மேற்கொள்ளப்பட்டுள்ளதாகவும்  பொலிஸார் குறிப்பிட்டுள்ளனர்.
+The person who had been eating with his family had eaten a vandalist and had a sudden coughing allergy.
+
+Doctors said he died after being taken to the hospital for treatment.
+
+The body of the deceased has been kept at the Homagama Hospital for autopsy and further investigations are underway, police said.
 
 ◼️
 
 [Data](articles/646a0f76.json)
 
+[Extended Data](ext_articles/646a0f76.ext.json)
+
 ---
 
-### உக்ரைன் மீது ரஸ்யா கண்டங்களிற்கிடையிலான ஏவுகணை தாக்குதல்
+### Russia's continental missile attack on Ukraine
 
 *2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199338) · `ta`
+
+Here's a summary of Russia's continental missile attack on Ukraine in approximately 200 characters:
+
+
+
+"Russia launched a wave of ballistic missiles from its mainland into Ukraine, targeting military facilities and civilian areas. The attack caused widespread destruction and casualties. Ukraine's air defense systems intercepted some missiles, but many reached their targets. The strike marked a significant escalation in Russia's ongoing conflict with Ukraine."
+
+🟩
 
 ◼️
 
 [Data](articles/2d2d1f2c.json)
 
+[Extended Data](ext_articles/2d2d1f2c.ext.json)
+
 ---
 
-### தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம்..!
+### First Parliamentary Committee Meeting of Tamil State Party
 
 *2024-11-21 16:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/199328) · `ta`
 
-இன்று வியாழக்கிழமை (21) இலங்கைத் தமிழ் அரசுக் கட்சியினது முதல் நாடாளுமன்றக் குழுக் கூட்டம் நாடாளுமன்ற நூலகத்தில் நடைபெற்றது. இதன் போது தமிழரசுக் கட்சியின் அனைத்து நாடாளுமன்ற உறுப்பினர்களும் கலந்து கொண்டார்கள்.
+Here's a summary of 200 characters:
+
+
+
+First TNA parliamentary committee meeting held at Parliament Library on Thursday. All TNA MPs attended.
+
+🟩
+
+The first parliamentary committee meeting of the Sri Lankan Tamil state party was held at the Parliament Library on Thursday (21). All the MPs of the TNA were present.
 
 ◼️
 
 [Data](articles/cda39b1d.json)
+
+[Extended Data](ext_articles/cda39b1d.ext.json)
 
 ---
 
@@ -114,9 +194,29 @@ The Deputy Ministers of the new government have been sworn in this evening (21) 
 
 Accordingly, a total of 29 Deputy Ministers were sworn in before President Anura Kumara Dissanayake today.
 
-◼️
+1. Prof. Anil Jayantha Fernando – Deputy Minister of Economic Development
+
+2. Namal Karunaratne – Deputy Minister of Agriculture and Livestock
+
+3. Wasantha Jayatissa - Deputy Minister of Rural Development, Social Security and Community Empowerment
+
+5. R.M. Jayawardene - Deputy Minister of Trade, Commerce, Food Security and Co-operative Development
+
+6. Gamagedara Dissanayake - Deputy Minister of Buddha Sasana, Religious and Cultural Affairs
+
+8. Rathna Gamage - Deputy Minister of Fisheries, Aquatic and Ocean Resources
+
+11. Arun Hemachandra – Deputy Minister of Foreign Affairs and Foreign Employment
+
+16. Chathuranga Abeysinghe - Deputy Minister of Industries and Entrepreneurship Development
+
+17. Janith Ruwan Kodithuwakku - Deputy Minister of Ports and Civil Aviation
+
+...
 
 [Data](articles/cf51f1e7.json)
+
+[Extended Data](ext_articles/cf51f1e7.ext.json)
 
 ---
 
@@ -2313,53 +2413,5 @@ It is noteworthy that after the end of parliamentary proceedings, the swearing -
 [Data](articles/9d5c8997.json)
 
 [Extended Data](ext_articles/9d5c8997.ext.json)
-
----
-
-### Death in one of the shootings
-
-*2024-11-21 09:26:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்சூட்டில்-ஒருவர்-மரணம்/175-347532) · `ta`
-
-Here's a summary in 200 characters:
-
-
-
-Shooting in Dickwella: 48-year-old motorcyclist killed near Veterinary Doctors Office. Incident occurred on 21st. Victim died instantly.
-
-🟩
-
-One person was killed in a shooting incident this morning (21) near the Veterinary Doctors Office in Dickwella - Valaskala.
-
-A 48 -year -old man from Valaskala, who was traveling on a motorcycle, was shot dead and died on the spot.
-
-◼️
-
-[Data](articles/4ec2dd71.json)
-
-[Extended Data](ext_articles/4ec2dd71.ext.json)
-
----
-
-### Sri Lanka rupee opens weaker at 291.05/15 to dollar, bonds stable
-
-*2024-11-21 09:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-weaker-at-291-05-15-to-dollar-bonds-stable-189066/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened weaker at 291.05/15 to the US dollar on Thursday from 290.95/291.10 to the US dollar on Wednesday dealers said, while bond yields were stable.
-
-A bond maturing on 15.12.2026 was quoted at 10.20/25 percent, down from 10.10/20 percent.
-
-A bond maturing on 15.12.2027 was quoted at 10.80/90 percent, down from 10.75/85 percent.
-
-A bond maturing on 15.02.2028 was quoted at 11.05/10 percent, down from 11.00/10 percent.
-
-A bond maturing on 15.09.2029 was quoted at 11.35/45 percent, down from 11.25/40 percent.
-
-In equities, the All Share Price Index opened up 0.04 points, at 13,113. The more liquid S&P SL20 opened 0.09 points, at 3,919.
-
-◼️
-
-[Data](articles/3d9a499f.json)
-
-[Extended Data](ext_articles/3d9a499f.ext.json)
 
 ---

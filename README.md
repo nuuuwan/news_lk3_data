@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-11-21 13:42:39**
+As of **2024-11-21 14:01:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanasinhalalk | 9,694
 
 Extensions include translations and NER (Named Entity Recognition).
 
-56,120 (100.0%) of 56,130 articles have been extended.
+56,122 (100.0%) of 56,130 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -36,7 +36,7 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-11-21 13:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/103665/sri-lanka-likely-to-sign-imf-staff-level-agreement-on-dec-23) · `en`
 
-President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arraignment for Sri Lanka could be finalized and signed by December 23.
+President Anura Kumara Dissanayake has expressed confidence that the staff-level agreement on the third review of the International Monetary Fund’s (IMF) Extended Fund Facility (EFF) arrangement for Sri Lanka could be finalized and signed by December 23.
 
 Highlighting the critical role of economic stability, the President underscored the importance of adhering to existing agreements.
 
@@ -47,6 +47,8 @@ The President acknowledged the delay in the third review, initially scheduled fo
 ...
 
 [Data](articles/2fb436d1.json)
+
+[Extended Data](ext_articles/2fb436d1.ext.json)
 
 ---
 
@@ -111,6 +113,8 @@ Addressing the public sector’s critical role, President Dissanayake underlined
 ...
 
 [Data](articles/1d5260b4.json)
+
+[Extended Data](ext_articles/1d5260b4.ext.json)
 
 ---
 
